@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p44",
  "verse": 1084,
- "question": "What fierce facial features characterize the goddess in this visualization?",
+ "question": "How is that height divided to yield the platform rise as one part?",
  "premises": [
-  "Her lips are torn by clenched teeth",
-  "Her lotus-like face is terrible with fangs",
-  "These features convey ferocity"
+  "That height is taken as the reference.",
+  "It is divided into Rudra-parts.",
+  "From that division, one part is taken as the platform rise."
  ],
- "inference": "The goddess is visualized with lips torn by clenched teeth and a lotus face made terrible by fangs",
- "uncertainties": [],
- "plain_english": "Her lips are torn by clenched teeth, and her lotus-like face is terrible with fangs."
+ "inference": "Having divided that height into Rudra-parts, one part is the platform rise.",
+ "uncertainties": [
+  "The numeric value of rudradhā is not specified here."
+ ],
+ "plain_english": "That height, divided into Rudra-parts, gives one part as the platform rise."
 }

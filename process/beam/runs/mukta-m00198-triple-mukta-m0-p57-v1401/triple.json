@@ -1,0 +1,995 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1401,
+   "rows": [
+    {
+     "surface": "triṃśadaṃśavibhāgaṃ",
+     "gloss": "thirty-part-division",
+     "grounds": "compound indicating division into thirty parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive expressing prior action",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "tṛtīyabhūtalam",
+     "gloss": "third-floor",
+     "grounds": "compound denoting the third storey",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How must the third floor be divided for its architectural layout?",
+   "premises": [
+    "The third floor is the object of division.",
+    "The division is made into thirty parts.",
+    "This division is established as a preparatory measure."
+   ],
+   "inference": "The third floor is to be laid out by first dividing it into thirty equal parts.",
+   "uncertainties": [],
+   "plain_english": "But having divided the third floor into thirty parts."
+  },
+  {
+   "verse": 1402,
+   "rows": [
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "interval-space",
+     "grounds": "space between garland elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of that measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative sense",
+     "morph": "3.sg.optative (as)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion of the layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitīya+bhūmivat",
+     "gloss": "second-floor-like",
+     "grounds": "compound with comparative suffix indicating likeness to the second floor",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurements govern the interval and remainder on the third floor?",
+   "premises": [
+    "The interval space is set at half of the reference measure.",
+    "A remainder of the layout remains after this allocation.",
+    "The remainder follows the pattern of the second floor."
+   ],
+   "inference": "The interval should be half the measure and the remainder arranged like the second floor.",
+   "uncertainties": [
+    "The exact reference measure for tadardhaṃ is implied by context."
+   ],
+   "plain_english": "The interval should be half of that, and the remainder should be like the second floor."
+  },
+  {
+   "verse": 1403,
+   "rows": [
+    {
+     "surface": "karṇakūṭasamaṃ",
+     "gloss": "corner-pinnacle-equal",
+     "grounds": "equal in measure to the corner pinnacle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "piṇḍīśālāyāḥ",
+     "gloss": "of-pedestal-hall",
+     "grounds": "hall associated with the pedestal or base structure",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dvipārśvayoḥ",
+     "gloss": "on-two-sides",
+     "grounds": "locative indicating both sides",
+     "morph": "n.loc.dual"
+    }
+   ],
+   "question": "What size is prescribed for the pedestal hall on both sides of the third floor?",
+   "premises": [
+    "The pedestal hall is located on two sides.",
+    "Its measure is compared to the corner pinnacle.",
+    "The prescribed measure is equality with that pinnacle."
+   ],
+   "inference": "The pedestal hall on both sides should be equal in size to the corner pinnacle.",
+   "uncertainties": [
+    "The precise architectural identity of piṇḍīśālā is context-dependent."
+   ],
+   "plain_english": "On both sides, the pedestal hall should be equal to the corner pinnacle."
+  },
+  {
+   "verse": 1404,
+   "rows": [
+    {
+     "surface": "paṃcame",
+     "gloss": "in-fifth",
+     "grounds": "referring to the fifth level",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tala",
+     "gloss": "floor",
+     "grounds": "storey or level of the structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vistāre",
+     "gloss": "in-breadth",
+     "grounds": "width or extent of the floor",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣaḍviṃśatyaṃśa",
+     "gloss": "twenty-six-part",
+     "grounds": "division into twenty-six parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "when-divided",
+     "grounds": "locative absolute indicating division",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into how many parts must the breadth of the fifth floor be divided?",
+   "premises": [
+    "The fifth floor is under consideration.",
+    "Its breadth is the dimension to be divided.",
+    "The specified division yields twenty-six parts."
+   ],
+   "inference": "The breadth of the fifth floor is to be divided into twenty-six parts.",
+   "uncertainties": [],
+   "plain_english": "When the breadth of the fifth floor is divided into twenty-six parts."
+  },
+  {
+   "verse": 1405,
+   "rows": [
+    {
+     "surface": "tayormadhyasthaśālā",
+     "gloss": "middle-hall-of-those-two",
+     "grounds": "hall situated between the two referenced elements",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tayormadhye",
+     "gloss": "in-middle-of-those-two",
+     "grounds": "location between the same two elements",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "koṣṭhakam",
+     "gloss": "small-cell",
+     "grounds": "a cell or chamber unit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What elements are placed in the middle between the two referenced units on the fifth floor?",
+   "premises": [
+    "Two reference elements define a middle space.",
+    "A hall is placed in that middle space.",
+    "A cell is also placed in that middle space."
+   ],
+   "inference": "A central hall and a cell are to be placed between the two referenced elements.",
+   "uncertainties": [
+    "The identity of tayor depends on the preceding architectural context."
+   ],
+   "plain_english": "Between those two there is a central hall, and between them a cell."
+  },
+  {
+   "verse": 1406,
+   "rows": [
+    {
+     "surface": "tayormadhye",
+     "gloss": "in-middle-of-those-two",
+     "grounds": "location between two elements",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ardhabhāgena",
+     "gloss": "by-half-part",
+     "grounds": "measure of half a part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "lattice",
+     "grounds": "lattice or cage-like architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇakūṭavat",
+     "gloss": "corner-pinnacle-like",
+     "grounds": "comparative indicating likeness to a corner pinnacle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the lattice between the two elements be sized and shaped?",
+   "premises": [
+    "A lattice is placed between the two elements.",
+    "Its measure is half a part.",
+    "Its form is like a corner pinnacle."
+   ],
+   "inference": "The lattice between them should measure half a part and resemble a corner pinnacle.",
+   "uncertainties": [],
+   "plain_english": "Between those two, a lattice of half a part should be made like a corner pinnacle."
+  },
+  {
+   "verse": 1407,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "referring to the sixth level",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūmivistāraṃ",
+     "gloss": "floor-breadth",
+     "grounds": "breadth of the floor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturviṃśati",
+     "gloss": "twenty-four",
+     "grounds": "numeral indicating division count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "when-divided",
+     "grounds": "locative absolute indicating division",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into how many parts must the breadth of the sixth floor be divided?",
+   "premises": [
+    "The sixth floor breadth is under consideration.",
+    "The breadth is to be divided.",
+    "The division yields twenty-four parts."
+   ],
+   "inference": "The breadth of the sixth floor is to be divided into twenty-four parts.",
+   "uncertainties": [],
+   "plain_english": "When the breadth of the sixth floor is divided into twenty-four parts."
+  },
+  {
+   "verse": 1408,
+   "rows": [
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "referring to the seventh level",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūmivistāraṃ",
+     "gloss": "floor-breadth",
+     "grounds": "breadth of the floor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvāviṃśatyaṃśakaṃ",
+     "gloss": "twenty-two-part",
+     "grounds": "division into twenty-two parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-divide",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative (bhaj)"
+    }
+   ],
+   "question": "Into how many parts should the breadth of the seventh floor be divided?",
+   "premises": [
+    "The seventh floor breadth is under consideration.",
+    "A division is prescribed.",
+    "The division should yield twenty-two parts."
+   ],
+   "inference": "One should divide the breadth of the seventh floor into twenty-two parts.",
+   "uncertainties": [],
+   "plain_english": "One should divide the breadth of the seventh floor into twenty-two parts."
+  },
+  {
+   "verse": 1409,
+   "rows": [
+    {
+     "surface": "tayormadhye",
+     "gloss": "in-middle-of-those-two",
+     "grounds": "location between two elements",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śivāṃśena",
+     "gloss": "by-shiva-part",
+     "grounds": "measure of one part associated with śiva",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṣudraṃ",
+     "gloss": "small",
+     "grounds": "qualifying the size of the cell",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṣṭhaṃ",
+     "gloss": "cell",
+     "grounds": "chamber or cell unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative (pra-kḷp)"
+    }
+   ],
+   "question": "What kind of cell should be arranged in the middle on the seventh floor?",
+   "premises": [
+    "A location between two elements is specified.",
+    "The measure is one śiva part.",
+    "A small cell is to be arranged there."
+   ],
+   "inference": "One should arrange a small cell of one śiva part in the middle between them.",
+   "uncertainties": [
+    "The exact magnitude of a śivāṃśa depends on the division scheme."
+   ],
+   "plain_english": "In the middle between those two, one should arrange a small cell measuring one śiva part."
+  },
+  {
+   "verse": 1410,
+   "rows": [
+    {
+     "surface": "adhyardhaṃ",
+     "gloss": "one-and-half",
+     "grounds": "measure of one and a half parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṃjaravyāsaṃ",
+     "gloss": "lattice-width",
+     "grounds": "width or diameter of the lattice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of that measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hārayontaram",
+     "gloss": "interval-space",
+     "grounds": "space between garland elements; internal sandhi in fused form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What widths are prescribed for the lattice and the interval space on this level?",
+   "premises": [
+    "The lattice width is specified as one and a half parts.",
+    "The interval space is specified relative to that width.",
+    "The interval space is half of that measure."
+   ],
+   "inference": "The lattice should be one and a half parts wide and the interval space half of that.",
+   "uncertainties": [],
+   "plain_english": "The lattice width should be one and a half parts, and the interval space half of that."
+  },
+  {
+   "verse": 1411,
+   "rows": [
+    {
+     "surface": "aṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "referring to the eighth level",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūmi",
+     "gloss": "floor",
+     "grounds": "storey of the structure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "breadth",
+     "grounds": "width of the floor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viṃśatyaṃśa",
+     "gloss": "twenty-part",
+     "grounds": "division into twenty parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "when-divided",
+     "grounds": "locative absolute indicating division",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into how many parts must the breadth of the eighth floor be divided?",
+   "premises": [
+    "The eighth floor breadth is under consideration.",
+    "The breadth is to be divided.",
+    "The division yields twenty parts."
+   ],
+   "inference": "The breadth of the eighth floor is to be divided into twenty parts.",
+   "uncertainties": [],
+   "plain_english": "When the breadth of the eighth floor is divided into twenty parts."
+  },
+  {
+   "verse": 1412,
+   "rows": [
+    {
+     "surface": "tayormadhye",
+     "gloss": "in-middle-of-those-two",
+     "grounds": "location between two elements",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "measure of two parts",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "koṣṭhāyāmam",
+     "gloss": "cell-length",
+     "grounds": "length or extent of the cell",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated as prescribed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is declared for the cell in the middle on the eighth floor?",
+   "premises": [
+    "A cell is located in the middle between two elements.",
+    "Its length is measured in parts.",
+    "The declared length is two parts."
+   ],
+   "inference": "The length of the cell in the middle is declared to be two parts.",
+   "uncertainties": [],
+   "plain_english": "In the middle between those two, the length of the cell is declared to be two parts."
+  },
+  {
+   "verse": 1413,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion of the layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgiva",
+     "gloss": "as-before",
+     "grounds": "comparative indicating previous manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "referring to the previously mentioned elements",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "count of the elements",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-previous",
+     "grounds": "comparative indicating earlier pattern",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the remainder and the number of elements be handled on this floor?",
+   "premises": [
+    "A remainder of the layout remains to be arranged.",
+    "The remainder should be done as before.",
+    "The number of those elements should follow the previous pattern."
+   ],
+   "inference": "The remainder should be arranged as before and their number kept as previously prescribed.",
+   "uncertainties": [],
+   "plain_english": "The remainder should be done as before, and their number should be as previously."
+  },
+  {
+   "verse": 1414,
+   "rows": [
+    {
+     "surface": "śivāṃśaṃ",
+     "gloss": "shiva-part",
+     "grounds": "measure of one śiva part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-pinnacle",
+     "grounds": "corner tower element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative sense",
+     "morph": "3.sg.optative (as)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "hall element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvibhāgayā",
+     "gloss": "with-two-parts",
+     "grounds": "measure of two parts",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What measures are prescribed for the corner pinnacle and the central hall?",
+   "premises": [
+    "The corner pinnacle is assigned a specific measure.",
+    "That measure is one śiva part.",
+    "The central hall is assigned a measure of two parts."
+   ],
+   "inference": "The corner pinnacle should be one śiva part and the central hall two parts.",
+   "uncertainties": [],
+   "plain_english": "The corner pinnacle should be one śiva part, and the hall in the middle should be two parts."
+  },
+  {
+   "verse": 1415,
+   "rows": [
+    {
+     "surface": "tasyārdhenaiva",
+     "gloss": "by-its-half-alone",
+     "grounds": "half of that measure with emphatic particle",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tatpārśvedayoḥ",
+     "gloss": "on-its-two-sides",
+     "grounds": "locative indicating both sides of that element; internal sandhi in fused form",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "interval-space",
+     "grounds": "space between garland elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative (bhū)"
+    }
+   ],
+   "question": "What measure should the interval space have on both sides of that hall?",
+   "premises": [
+    "The hall has a defined measure.",
+    "Interval spaces are placed on both its sides.",
+    "Each interval space should be half of that hall's measure."
+   ],
+   "inference": "The interval space on both sides of that hall should be exactly half its measure.",
+   "uncertainties": [],
+   "plain_english": "On both its sides, the interval space should be exactly half of that."
+  },
+  {
+   "verse": 1416,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhāntare",
+     "gloss": "between-pinnacle-and-cell",
+     "grounds": "space between a pinnacle and a cell",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhayorantare",
+     "gloss": "between-two-cells",
+     "grounds": "space between two cells; internal sandhi in fused form",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which alternative locations may the interval space be placed?",
+   "premises": [
+    "An interval space is to be located.",
+    "One possible location is between a pinnacle and a cell.",
+    "Another possible location is between two cells."
+   ],
+   "inference": "The interval space may be placed either between a pinnacle and a cell or between two cells.",
+   "uncertainties": [],
+   "plain_english": "Either between a pinnacle and a cell, or between two cells."
+  },
+  {
+   "verse": 1417,
+   "rows": [
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "interval-space",
+     "grounds": "space between garland elements",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadardhāṃśaṃ",
+     "gloss": "its-half-part",
+     "grounds": "half-part measure of that reference",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative (kḷp)"
+    },
+    {
+     "surface": "kalpavittamaḥ",
+     "gloss": "best-knower-of-design",
+     "grounds": "expert in architectural arrangement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the expert designer arrange the interval space in those locations?",
+   "premises": [
+    "The interval space is the element to be arranged.",
+    "Its prescribed measure is half a part of the reference.",
+    "The arrangement is entrusted to the best expert in design."
+   ],
+   "inference": "The best expert in design should arrange the interval space as half a part.",
+   "uncertainties": [],
+   "plain_english": "The best expert in design should arrange the interval space as half a part."
+  },
+  {
+   "verse": 1418,
+   "rows": [
+    {
+     "surface": "kalpyevaṃ",
+     "gloss": "should-arrange-thus",
+     "grounds": "fused form combining arrangement and thus; internal sandhi in fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navame",
+     "gloss": "in-ninth",
+     "grounds": "referring to the ninth level",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-floor",
+     "grounds": "storey of the structure",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "daśabhūmeḥ",
+     "gloss": "of-ten-storeyed",
+     "grounds": "belonging to a ten-storeyed structure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On which floor of a ten-storeyed structure should the arrangement be made thus?",
+   "premises": [
+    "An arrangement is prescribed in this manner.",
+    "The structure in view has ten storeys.",
+    "The specified level for this arrangement is the ninth floor."
+   ],
+   "inference": "Thus one should arrange on the ninth floor of a ten-storeyed structure.",
+   "uncertainties": [],
+   "plain_english": "Thus one should arrange on the ninth floor of a ten-storeyed structure."
+  },
+  {
+   "verse": 1419,
+   "rows": [
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-pinnacle",
+     "grounds": "corner tower element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivāṃśaṃ",
+     "gloss": "shiva-part",
+     "grounds": "measure of one śiva part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative sense",
+     "morph": "3.sg.optative (as)"
+    },
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "equal in measure to that element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṃjaraḥ",
+     "gloss": "lattice",
+     "grounds": "lattice element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatam",
+     "gloss": "extended",
+     "grounds": "spread or extended in form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What measures are prescribed for the corner pinnacle and lattice on the ninth floor?",
+   "premises": [
+    "The corner pinnacle is assigned one śiva part.",
+    "The lattice is compared to the corner pinnacle.",
+    "The lattice should be equal to that and extended."
+   ],
+   "inference": "The corner pinnacle should be one śiva part and the extended lattice equal to it.",
+   "uncertainties": [],
+   "plain_english": "The corner pinnacle should be one śiva part, and the extended lattice should be equal to that."
+  },
+  {
+   "verse": 1420,
+   "rows": [
+    {
+     "surface": "bhānuśālā",
+     "gloss": "sun-hall",
+     "grounds": "hall designated by the term bhānu",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catuṣkūṭaṃ",
+     "gloss": "four-pinnacled",
+     "grounds": "having four pinnacles",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalāpaṃjarasaṃyutam",
+     "gloss": "joined-with-part-lattices",
+     "grounds": "compound indicating conjunction with kalā lattices",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What structural features characterize the sun hall on this level?",
+   "premises": [
+    "A hall called bhānuśālā is specified.",
+    "It has four pinnacles.",
+    "It is joined with part lattices."
+   ],
+   "inference": "The sun hall should be four-pinnacled and joined with part lattices.",
+   "uncertainties": [
+    "The exact meaning of kalā in kalāpaṃjara is context-dependent."
+   ],
+   "plain_english": "The sun hall should have four pinnacles and be joined with part lattices."
+  },
+  {
+   "verse": 1421,
+   "rows": [
+    {
+     "surface": "ekādaśatalavyāsaṃ",
+     "gloss": "eleventh-floor-breadth",
+     "grounds": "breadth of the eleventh floor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manubhāga",
+     "gloss": "manu-part",
+     "grounds": "division into manu-numbered parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "when-divided",
+     "grounds": "locative absolute indicating division",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into how many parts must the breadth of the eleventh floor be divided?",
+   "premises": [
+    "The eleventh floor breadth is under consideration.",
+    "The breadth is to be divided.",
+    "The division is into manu parts."
+   ],
+   "inference": "The breadth of the eleventh floor is to be divided into manu parts.",
+   "uncertainties": [
+    "Manubhāga conventionally indicates fourteen parts but is not explicit here."
+   ],
+   "plain_english": "When the breadth of the eleventh floor is divided into manu parts."
+  },
+  {
+   "verse": 1422,
+   "rows": [
+    {
+     "surface": "tayormadhye",
+     "gloss": "in-middle-of-those-two",
+     "grounds": "location between two elements",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthalāṃśānāṃ",
+     "gloss": "of-floor-parts",
+     "grounds": "parts belonging to the floor divisions",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "quality-part",
+     "grounds": "a part designated as guṇa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative (pari-kḷp)"
+    }
+   ],
+   "question": "What part should be arranged in the middle among the floor divisions on the eleventh level?",
+   "premises": [
+    "A middle location between two elements is specified.",
+    "The arrangement concerns floor parts.",
+    "A guṇa part should be arranged there."
+   ],
+   "inference": "One should arrange a guṇa part in the middle among those floor parts.",
+   "uncertainties": [
+    "The numerical value of guṇāṃśa depends on the counting convention."
+   ],
+   "plain_english": "In the middle between those two, one should arrange a guṇa part among the floor parts."
+  },
+  {
+   "verse": 1423,
+   "rows": [
+    {
+     "surface": "catuṣkūṭā",
+     "gloss": "four-pinnacled",
+     "grounds": "having four pinnacles",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "lattice",
+     "grounds": "lattice element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśānvitam",
+     "gloss": "endowed-with-sixteen",
+     "grounds": "accompanied by sixteen units",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What configuration is prescribed for the four-pinnacled lattice structure?",
+   "premises": [
+    "A lattice structure is specified.",
+    "It is four-pinnacled.",
+    "It is endowed with sixteen units."
+   ],
+   "inference": "The four-pinnacled lattice should be endowed with sixteen units.",
+   "uncertainties": [
+    "The nature of the sixteen units is not specified in this verse."
+   ],
+   "plain_english": "The four-pinnacled lattice should be endowed with sixteen."
+  },
+  {
+   "verse": 1424,
+   "rows": [
+    {
+     "surface": "bhānubhūmiviśālaṃ",
+     "gloss": "sun-floor-breadth",
+     "grounds": "breadth of the sun floor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānubhāga",
+     "gloss": "sun-part",
+     "grounds": "division into sun-numbered parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "when-divided",
+     "grounds": "locative absolute indicating division",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into how many parts must the breadth of the sun floor be divided?",
+   "premises": [
+    "The breadth of the sun floor is under consideration.",
+    "The breadth is to be divided.",
+    "The division is into sun parts."
+   ],
+   "inference": "The breadth of the sun floor is to be divided into sun parts.",
+   "uncertainties": [
+    "Bhānubhāga conventionally indicates twelve parts but is not explicit here."
+   ],
+   "plain_english": "When the breadth of the sun floor is divided into sun parts."
+  }
+ ]
+}

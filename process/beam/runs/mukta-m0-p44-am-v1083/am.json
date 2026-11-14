@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p44",
  "verse": 1083,
- "question": "By what terrifying features does the visualized Durga frighten the demon army?",
+ "question": "What upper boundary applies if there is a course that includes an interval?",
  "premises": [
-  "Durga emits loud laughs",
-  "Streams of goat blood are present",
-  "The demon army is terrified"
+  "A course with interval is posited as a condition.",
+  "Under that condition, the upper boundary of the course is stated.",
+  "The statement is conditional."
  ],
- "inference": "Durga terrifies the demon army with loud laughs and streams of goat blood",
- "uncertainties": [],
- "plain_english": "She terrifies the demon army with loud laughs and streams of goat blood."
+ "inference": "If there is a course with an interval, then the upper boundary of that course is specified.",
+ "uncertainties": [
+  "The exact value of that upper boundary is not given in this verse."
+ ],
+ "plain_english": "If there is a course with an interval, then the upper boundary of the course is stated."
 }

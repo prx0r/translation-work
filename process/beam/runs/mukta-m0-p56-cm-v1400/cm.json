@@ -3,29 +3,34 @@
  "verse": 1400,
  "rows": [
   {
-   "lemma": "svarān",
-   "morph": "m.acc.pl",
-   "grounds": "object of placement continued from previous verse"
+   "lemma": "dvibhāgaṃ",
+   "morph": "dvi+bhāga (compound), n.nom.sg",
+   "grounds": "compound of dvi and bhāga; describes division into two parts"
   },
   {
-   "lemma": "ḷkāra+ādīn",
-   "morph": "compound: ḷkāra+ādi (m.acc.pl)",
-   "grounds": "qualifies the vowels as starting from ḷkāra"
+   "lemma": "madhyaśālā",
+   "morph": "madhya+śālā (compound), f.nom.sg",
+   "grounds": "compound of madhya and śālā; subject of the prescribed arrangement"
   },
   {
-   "lemma": "tathā",
+   "lemma": "syāt",
+   "morph": "3.sg.optative.active √as",
+   "grounds": "expresses prescribed or potential arrangement"
+  },
+  {
+   "lemma": "śeṣaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "refers to the remaining portion of the layout"
+  },
+  {
+   "lemma": "pūrvavadeva",
+   "morph": "pūrvavat+eva (compound), (indecl.)",
+   "grounds": "compound of pūrvavat and eva; indicates conformity with prior arrangement"
+  },
+  {
+   "lemma": "hi",
    "morph": "(indecl.)",
-   "grounds": "indicates continuation of the same procedure"
-  },
-  {
-   "lemma": "dakṣa+talāt",
-   "morph": "compound: dakṣa+tala (n.abl.sg)",
-   "grounds": "specifies the location from which placement proceeds"
-  },
-  {
-   "lemma": "api",
-   "morph": "(indecl.)",
-   "grounds": "includes this set in the same ritual action"
+   "grounds": "emphatic particle reinforcing the prescription"
   }
  ]
 }

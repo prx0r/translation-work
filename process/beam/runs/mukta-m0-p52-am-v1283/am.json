@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p52",
  "verse": 1283,
- "question": "What dark-complexioned form of Śyāmā-Māyā is worshipped by the speaker?",
+ "question": "How are the middle halls and side cells arranged as projections?",
  "premises": [
-  "The speaker offers worship",
-  "The goddess is dark-colored",
-  "She is named Śyāmā and Māyā"
+  "All middle halls are included in the arrangement.",
+  "The side cell forms a projection."
  ],
- "inference": "The dark-complexioned Śyāmā-Māyā is worshipped.",
- "uncertainties": [],
- "plain_english": "I worship the dark-complexioned goddess Śyāmā, who is Māyā."
+ "inference": "The arrangement treats all middle halls with the side cell as a projection.",
+ "uncertainties": [
+  "Exact syntactic relation between halls and projection is compressed."
+ ],
+ "plain_english": "All the middle halls are included, and the side cell forms a projection."
 }

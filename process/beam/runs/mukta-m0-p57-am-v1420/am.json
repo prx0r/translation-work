@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1420,
- "question": "Which trees, grasses, and animals characterize the land being described?",
+ "question": "What structural features characterize the sun hall on this level?",
  "premises": [
-  "Bilva and Palāśa trees are present",
-  "Darbha and Kuśa grasses are present",
-  "Deer are likewise present"
+  "A hall called bhānuśālā is specified.",
+  "It has four pinnacles.",
+  "It is joined with part lattices."
  ],
- "inference": "The land is characterized by these trees, grasses, and deer.",
- "uncertainties": [],
- "plain_english": "with Bilva and Palāśa trees, with Darbha and Kuśa grass, and likewise with deer,"
+ "inference": "The sun hall should be four-pinnacled and joined with part lattices.",
+ "uncertainties": [
+  "The exact meaning of kalā in kalāpaṃjara is context-dependent."
+ ],
+ "plain_english": "The sun hall should have four pinnacles and be joined with part lattices."
 }

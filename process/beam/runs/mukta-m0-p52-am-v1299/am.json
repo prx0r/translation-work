@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p52",
  "verse": 1299,
- "question": "To which deities is obeisance formally offered in this formula?",
+ "question": "What measures determine the cell length and cage spread in this arrangement?",
  "premises": [
-  "An obeisance formula is stated",
-  "The Vāstu-lord is addressed",
-  "Brahmā is also addressed"
+  "The cell length is double.",
+  "The cage spread is half a part."
  ],
- "inference": "Obeisance is offered to the Vāstu-lord and to Brahmā.",
- "uncertainties": [],
- "plain_english": "Obeisance also to the lord of the site and to Brahmā, thus."
+ "inference": "This arrangement sets the cell length at double and the cage spread at half a part.",
+ "uncertainties": [
+  "The exact referent of the doubled measure is not explicit in this verse alone."
+ ],
+ "plain_english": "The cell length is double, and the cage spread is half a part."
 }

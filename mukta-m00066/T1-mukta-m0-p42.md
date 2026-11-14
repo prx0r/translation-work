@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[hidden](guptena) [by-this](anena) [by-path](mārgeṇa) [in-fortress](durge) [equal](sama) [in-essence](rasaḥ) [should-be](bhavet)
+[hidden](guptena) [by-this](anena) [by-path](mārgeṇa) [in-fortress](durge) [of-equal-essence](samarasaḥ) [one-should-become](bhavet)
 
 ## mukta-m0-p42-v1027
-[being-performed](kriyamāṇaḥ) [fruit](phalaṃ) [gives](dhatte) [done](kṛtaḥ) [and](ca) [fruit](phala) [giver](dāyakaḥ)
+[being-performed](kriyamāṇaḥ) [fruit](phalaṃ) [it-gives](dhatte) [done](kṛtaḥ) [and](ca) [fruit+giving](phala+dāyakaḥ)
 
 ## mukta-m0-p42-v1028
-[being-spoken](ucyamānaḥ) [even](api) [with-joy](nudayā) [together](saha) [binds](bādhnāti) [friendship](mitratām)
+[being-spoken](ucyamānaḥ) [even](api) [without-effort](nudayā) [together+binds](saha+bādhnāti) [friendship](mitratām)
 
 ## mukta-m0-p42-v1029
-[not](na) [than-this](anena) [equal](sadṛśaṃ) [action](karma) [not](na) [than-this](anena) [equal](sadṛśaṃ) [austerity](tapaḥ)
+[not](na) [by-this](anena) [equal](sadṛśaṃ) [action](karma) [not](na) [by-this](anena) [equal](sadṛśaṃ) [austerity](tapaḥ)
 
 ## mukta-m0-p42-v1030
-[this](ayaṃ) [indeed](hi) [of-liberation](mokṣa) [of-paths](mārgāṇām) [road](adhvā) [not](a) [difficult](sulabha) [to-traverse](saṃcaraḥ)
+[this](ayaṃ) [indeed](hi) [of-liberation+paths](mokṣa+mārgāṇām) [road](adhvā) [easy+to-traverse](sulabha+saṃcaraḥ)
 
 ## mukta-m0-p42-v1031
 [than-hidden](guptāt) [more-hidden](guptataraṃ) [action](karma) [than-secret](guhyāt) [more-secret](guhyataraṃ) [indeed](tu) [this](idam)
 
 ## mukta-m0-p42-v1032
-[to-those-of-wicked-nature](durātma) [and-very-bad-conduct](su+drācāreṣu) [exceedingly](ati) [by-anger](krodha) [blinded](aṃdha) [to-those-whose-intellect](buddhiṣu)
+[among-evil-souled](durātma) [among-bad-conducted](sudrācāreṣu) [exceedingly](ati) [by-anger+blinded](krodha+aṃdha) [among-those-with-intellect](buddhiṣu)
 
 ## mukta-m0-p42-v1033
-[beneficial](hita) [and-harmful](ahita) [not](an) [to-those-who-know](abhijñeṣu) [in-vain](vṛthā) [quarrel](kalaha) [to-those-who-do](kāriṣu)
+[beneficial+and-harmful](hita+ahitān) [among-those-not-knowing](abhijñeṣu) [in-vain](vṛthā) [quarrel+doing](kalaha+kāriṣu)
 
 ## mukta-m0-p42-v1034
-[improper-time](a+kāla) [to-those-who-know](jñeṣu) [to-fools](mūrkheṣu) [to-Śiva](hara) [devotion](bhakti) [to-those-opposed](virodhiṣu)
+[among-those-not-knowing-time](akāla+jñeṣu) [among-fools](mūrkheṣu) [to-Śiva+devotion](hara+bhakti) [among-those-opposed](virodhiṣu)
 
 ## mukta-m0-p42-v1035
-[to-those-fallen-from-height](ārūḍha+patiteṣu) [O-mother](aṃba) [long](dīrggha) [to-those-with-thread](sūtreṣu) [to-the-good](sādhiṣu)
+[among-those-fallen-from-height](ārūḍha+patiteṣu) [O-mother](aṃba) [among-procrastinating](dīrgghasūtreṣu) [among-practitioners](sādhiṣu)
 
 ## mukta-m0-p42-v1036
-[to-thieves](malimluceṣu) [to-dullards](maṃdeṣu) [by-mere-mouthful](tuṃdumātra) [nourishing](abhi+poṣiṣu)
+[among-thieves](malimluceṣu) [among-dull](maṃdeṣu) [by-mere-goad](tuṃdumātrābhi) [among-those-nourished](poṣiṣu)
 
 ## mukta-m0-p42-v1037
-[to-despised](kutsiteṣu) [to-those-of-bad-conduct](kuśīleṣu) [to-Śakti](śakti) [to-hostile](drohiṣu) [to-the-powerful](śaktiṣu)
+[among-despised](kutsiteṣu) [among-bad-conducted](kuśīleṣu) [to-Śakti+hostile](śakti+drohiṣu) [among-Śaktas](śaktiṣu)
 
 ## mukta-m0-p42-v1038
-[in-Cārvāka](cārvāka) [doctrine](mata) [to-those-attached](lagneṣu) [to-gods](deva) [hostility](droha) [to-those-who-do](kareṣu) [and](ca)
+[in-Cārvāka+doctrine](cārvāka+mata) [among-those-attached](lagneṣu) [to-gods+hostility](deva+droha) [among-those-doing](kareṣu) [and](ca)
 
 ## mukta-m0-p42-v1039
-[not](na) [to-be-revealed](praśyam) [this](idam) [O-lovely-one](bhadre) [sacrifice](yāga) [king](rāja) [great](mahā) [nectar](amṛtam)
+[not](na) [to-be-revealed](praśyam) [this](idaṃ) [O-lovely-one](bhadre) [sacrifice+king](yāga+rāja) [great+nectar](mahā+amṛtam)
 
 ## mukta-m0-p42-v1040
-[ten](daśa) [yojana](yojana) [extent](paryaṃtaṃ) [that](sā) [sacred](puṇyā) [is-proclaimed](parikīrttitā)
+[ten+yojana](daśa+yojana) [up-to-extent](paryaṃtaṃ) [that](sā) [sacred](puṇyā) [is-proclaimed](parikīrttitā)
 
 ## mukta-m0-p42-v1041
-[family](kula) [pair](dvaṃdvam) [by-this](anena) [indeed](eva) [adorned](bhūṣitaṃ) [O-daughter](ātmaje) [of-mountain](bhūdhara)
+[family+pair](kula+dvaṃdvam) [by-this-alone](anena+eva) [adorned](bhūṣitaṃ) [O-mountain+daughter](bhūdhara+ātmaje)
 
 ## mukta-m0-p42-v1042
-[of-women](yoṣitāṃ) [of-eyes](nayanānaṃda) [ocean](siṃdhu) [uplifting](uttaṃbhana) [moonlight](caṃdrikā)
+[of-women](yoṣitāṃ) [of-eyes](nayanānaṃda) [ocean+uplifting](siṃdhu+uttaṃbhana) [moonlight](caṃdrikā)
 
 ## mukta-m0-p42-v1043
-[bee](bhṛṃga) [women](aṅganā) [like](java) [lofty](uddāma) [song](gīti) [compositions](baṃdhāḥ) [and](ca) [what](kā) [virtuous-woman](sati)
+[bee+women+born](bhṛṃga+aṅganā+ja) [impetuous](voddāma) [song+compositions](gīti+baṃdhāḥ) [and](ca) [what](kā) [virtuous-woman](sati)
 
 ## mukta-m0-p42-v1044
-[by-seeing](ālokanena) [of-him](asya) [supremely](paraṃ) [fulfilled-purpose](kṛtārthaṃ) [considering](manyamāna) [minds](sāḥ)
+[by-seeing](ālokena) [of-this](asya) [supremely](paraṃ) [fulfilled-purpose](kṛta+arthaṃ) [considering-mind](manyamānasāḥ)
 
 ## mukta-m0-p42-v1045
-[thunderbolt-holder](vajradhāra) [like](iva) [of-Indra](śakrasya) [on-mountains](parvateṣu) [here](iha) [O-Pārvatī](pārvati)
+[like-thunderbolt-holder](vajradhāra) [like-Indra](iva) [of-Śakra](śakrasya) [on-mountains](parvateṣu) [here](iha) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p42-v1046
-[in-aṇimā](aṇimā) [and-other](ādiṣu) [in-accomplishments](saṃsiddhiṣu) [lack-of-skill](avipāṭavam) [attains](mṛcchati)
+[in-aṇimā+and-other](aṇimā+ādiṣu) [in-accomplishments](saṃsiddhiṣu) [non-failure](avipāṭavam) [attains](ṛcchati)
 
 ## mukta-m0-p42-v1047
-[of-fire](vahnaḥ) [even](api) [following](anuvarttinyaḥ) [lac](jātuṣyāḥ) [like](iva) [dolls](putrikāḥ)
+[of-fire](vahnaḥ) [also](api) [following](anuvarttinyaḥ) [made-of-lac](jātuṣyāḥ) [like](iva) [dolls](putrikāḥ)
 
 ## mukta-m0-p42-v1048
-[as-offering](upāyanī) [having-made](kṛtya) [and](ca) [him](taṃ) [serve](sevaṃte) [royal](rāja) [women](yoṣitaḥ)
+[as-offering](upāyanī+kṛtya) [and](ca) [him](taṃ) [serve](sevaṃte) [royal+women](rāja+yoṣitaḥ)
 
 ## mukta-m0-p42-v1049
-[on-mountains](parvatāneṣu) [perform](kurvaṃti) [who](ye) [great](mahā) [sacrifice](yāgam) [supreme](uttamam)
+[on-mountains](parvatān) [in-these](eṣu) [perform](kurvaṃti) [who](ye) [great+sacrifice](mahā+yāgam) [supreme](uttamam)
 
 ## mukta-m0-p42-v1050
-[in-forest](araṇya) [middle](madhye) [who](ye) [sacrifice](yāgam) [at-midnight](arddharātreṣu) [perform](kurvate)
+[in-forest+middle](araṇya+madhye) [who](ye) [sacrifice](yāgam) [at-midnight](arddha+rātreṣu) [perform](kurvate)

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1313,
- "question": "What kinds of impurity in ritual materials are identified as needing removal?",
+ "question": "What proportional heights are assigned to the pillar and entablature in this specification?",
  "premises": [
-  "Contact with the untouchable is a possible impurity",
-  "Unjustly acquired items are another impurity",
-  "Both cases are presented as alternatives"
+  "The pillar height is six and a half parts",
+  "The entablature is measured with three parts",
+  "Both measures are prescribed together"
  ],
- "inference": "Impurity may arise from touching the untouchable or from using what was unjustly acquired.",
- "uncertainties": [],
- "plain_english": "Whether there has been contact with the untouchable, or what has been unjustly acquired."
+ "inference": "The pillar height should be six and a half parts and the entablature three parts.",
+ "uncertainties": [
+  "The term 'agni' is interpreted as three by symbolic number."
+ ],
+ "plain_english": "The pillar height is six and a half parts, and the entablature is of three parts."
 }
