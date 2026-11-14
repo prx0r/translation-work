@@ -3,34 +3,39 @@
  "verse": 157,
  "rows": [
   {
-   "lemma": "jīvasya",
+   "lemma": "yasya",
    "morph": "m.gen.sg",
-   "grounds": "possessor"
+   "grounds": "refers to a mantra"
   },
   {
-   "lemma": "vāmapārśve",
-   "morph": "n.loc.sg (compound: vāma+pārśva)",
-   "grounds": "location"
+   "lemma": "mantrasya",
+   "morph": "m.gen.sg",
+   "grounds": "possessor of meditation"
   },
   {
-   "lemma": "tu",
+   "lemma": "yat",
+   "morph": "n.acc.sg",
+   "grounds": "refers to meditation"
+  },
+  {
+   "lemma": "dhyānam",
+   "morph": "n.acc.sg",
+   "grounds": "object performed"
+  },
+  {
+   "lemma": "kṛtvā",
+   "morph": "gerund (√kṛ)",
+   "grounds": "prior action"
+  },
+  {
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
+  },
+  {
+   "lemma": "prayatnataḥ",
    "morph": "(indecl.)",
-   "grounds": "contrast marker"
-  },
-  {
-   "lemma": "tadā",
-   "morph": "(indecl.)",
-   "grounds": "temporal consequence"
-  },
-  {
-   "lemma": "tiṣṭhati",
-   "morph": "3.sg.present-active (sthā)",
-   "grounds": "state of presence"
-  },
-  {
-   "lemma": "pāpadhṛk",
-   "morph": "m.nom.sg (compound: pāpa+dhṛk)",
-   "grounds": "entity present"
+   "grounds": "manner of performing meditation"
   }
  ]
 }

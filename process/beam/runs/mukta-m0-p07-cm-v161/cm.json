@@ -3,34 +3,44 @@
  "verse": 161,
  "rows": [
   {
-   "lemma": "kadācit",
+   "lemma": "sarvam",
+   "morph": "n.nom.sg",
+   "grounds": "subject of futility"
+  },
+  {
+   "lemma": "tasya",
+   "morph": "m.gen.sg",
+   "grounds": "refers to the practitioner or practice"
+  },
+  {
+   "lemma": "vṛthā",
    "morph": "(indecl.)",
-   "grounds": "occasional time"
+   "grounds": "predicate of all efforts"
   },
   {
-   "lemma": "śuklapadmaṃ",
-   "morph": "n.acc.sg (compound: śukla+padma)",
-   "grounds": "one destination"
-  },
-  {
-   "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
-  },
-  {
-   "lemma": "vahnipadmaṃ",
-   "morph": "n.acc.sg (compound: vahni+padma)",
-   "grounds": "other destination"
-  },
-  {
-   "lemma": "kadā",
-   "morph": "(indecl.)",
-   "grounds": "alternate time"
-  },
-  {
-   "lemma": "priye",
+   "lemma": "devi",
    "morph": "f.voc.sg",
    "grounds": "vocative address"
+  },
+  {
+   "lemma": "ante",
+   "morph": "m.loc.sg",
+   "grounds": "time of consequence"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects consequences"
+  },
+  {
+   "lemma": "narakam",
+   "morph": "m.acc.sg",
+   "grounds": "destination"
+  },
+  {
+   "lemma": "brajet",
+   "morph": "3.sg.opt.act (√vraj)",
+   "grounds": "negative consequence"
   }
  ]
 }

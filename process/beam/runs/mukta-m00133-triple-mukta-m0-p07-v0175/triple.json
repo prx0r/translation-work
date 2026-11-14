@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "sarva-deva-mayam",
+     "gloss": "consisting-of-all-gods",
+     "grounds": "bahuvrīhi compound sarva+deva+maya qualifying tattvam",
+     "morph": "sarva+deva+maya-adj.n.nom.sg"
+    },
+    {
+     "surface": "tattvam",
+     "gloss": "principle",
+     "grounds": "substantive denoting the underlying reality",
+     "morph": "tattva-n.nom.sg"
+    },
+    {
+     "surface": "sarva-jñāna-mayam",
+     "gloss": "consisting-of-all-knowledge",
+     "grounds": "bahuvrīhi compound sarva+jñāna+maya qualifying tattvam",
+     "morph": "sarva+jñāna+maya-adj.n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating parallel affirmation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What divine and cognitive nature constitutes the revealed principle?",
+   "premises": [
+    "The principle consists of all gods.",
+    "The principle consists of all knowledge.",
+    "Both aspects are affirmed together."
+   ],
+   "inference": "The revealed principle is simultaneously universal divinity and universal knowledge.",
+   "uncertainties": [
+    "The syntactic role of tattvam within the broader sentence spanning adjacent verses is not fully determined from this verse alone."
+   ],
+   "plain_english": "Thus that principle consists of all gods and consists of all knowledge."
+  }
+ ]
+}
