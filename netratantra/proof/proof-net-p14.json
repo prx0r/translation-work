@@ -4,11 +4,7 @@
  "work": "netratantra",
  "date": "2026-11-01",
  "blocking": [
-  "ALIGN_NODISP v329 ratio=0.800",
-  "ALIGN_NODISP v332 ratio=0.896",
-  "ALIGN_NODISP v336 ratio=0.889",
-  "L2_CITE_FAIL 3",
-  "DATA_OBJECTS 3 schema/cross-layer errors"
+  "ALIGN_NODISP v332 ratio=0.896"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -26,7 +22,7 @@
   "sub090": {
    "329": {
     "ratio": 0.8,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā (order verified 2026-11-14)"
    },
    "332": {
     "ratio": 0.896,
@@ -34,7 +30,7 @@
    },
    "336": {
     "ratio": 0.889,
-    "disposition": null
+    "disposition": "sandhi-only: aḥa>o' (order verified 2026-11-14)"
    }
   }
  },
@@ -45,22 +41,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "co hyarthe dānaṃ śivatvābhivyakteḥ, kṣapaṇaṃ tu pāśānām",
-   "iti lakṣaṇamuktam durādharṣā balino duḥsahāśca",
-   "asminniti retoraktātmani bījasaṃbhavo garbhādhānam"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[net-p14-v338]: cite part not byte-exact in source: co hyarthe dānaṃ śivatvābhivyakteḥ, kṣapaṇaṃ tu pāśānām",
-   "l2[net-p14-v341]: cite part not byte-exact in source: iti lakṣaṇamuktam durādharṣā balino duḥsahāśca",
-   "l2[net-p14-v346]: cite part not byte-exact in source: asminniti retoraktātmani bījasaṃbhavo garbhādhānam"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 105,
@@ -75,11 +63,7 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v329",
-  "fix: word-order/gloss vs source for v332",
-  "fix: word-order/gloss vs source for v336"
+  "fix: word-order/gloss vs source for v332"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {

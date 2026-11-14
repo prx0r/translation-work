@@ -4,7 +4,6 @@
  "work": "mukta-m00122",
  "date": "2026-11-01",
  "blocking": [
-  "ALIGN_NODISP v4392 ratio=0.899",
   "ALIGN_NODISP v4395 ratio=0.816"
  ],
  "warnings": [],
@@ -23,7 +22,7 @@
   "sub090": {
    "4392": {
     "ratio": 0.899,
-    "disposition": null
+    "disposition": "sandhi-only: aḥ>o, hiatus/avagraha-drop, ḥ>s (order verified 2026-11-14)"
    },
    "4395": {
     "ratio": 0.816,
@@ -60,7 +59,6 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v4392",
   "fix: word-order/gloss vs source for v4395"
  ],
  "deterministic_gate": "BLOCKED",

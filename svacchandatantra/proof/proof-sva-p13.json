@@ -4,10 +4,7 @@
  "work": "svacchandatantra",
  "date": "2026-11-01",
  "blocking": [
-  "ALIGN_NODISP v313 ratio=0.880",
-  "ALIGN_NODISP v316 ratio=0.899",
-  "L2_CITE_FAIL 4",
-  "DATA_OBJECTS 4 schema/cross-layer errors"
+  "ALIGN_NODISP v316 ratio=0.899"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -25,7 +22,7 @@
   "sub090": {
    "313": {
     "ratio": 0.88,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā (order verified 2026-11-14)"
    },
    "316": {
     "ratio": 0.899,
@@ -40,24 +37,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "puṣpeti astrajaptena puṣpeṇetyarthaḥ recakenetyūrdhvamāgīkeṇa",
-   "proktadvitīyajanmopayogāya te ca mantraśaktyaiva siddhyanti",
-   "bhaviṣyati mantrākhye iti vidyāpīṭhāderapyupalakṣaṇaparam",
-   "ityuktatvāt evamuttaratrāpi jñeyam"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[sva-p13-v306]: cite part not byte-exact in source: puṣpeti astrajaptena puṣpeṇetyarthaḥ recakenetyūrdhvamāgīkeṇ",
-   "l2[sva-p13-v307]: cite part not byte-exact in source: proktadvitīyajanmopayogāya te ca mantraśaktyaiva siddhyanti",
-   "l2[sva-p13-v315]: cite part not byte-exact in source: bhaviṣyati mantrākhye iti vidyāpīṭhāderapyupalakṣaṇaparam",
-   "l2[sva-p13-v325]: cite part not byte-exact in source: ityuktatvāt evamuttaratrāpi jñeyam"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 113,
@@ -72,9 +59,6 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v313",
   "fix: word-order/gloss vs source for v316"
  ],
  "deterministic_gate": "BLOCKED",

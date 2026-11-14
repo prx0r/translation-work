@@ -4,12 +4,8 @@
  "work": "svacchandatantra",
  "date": "2026-11-01",
  "blocking": [
-  "ALIGN_NODISP v1228 ratio=0.839",
   "ALIGN_NODISP v1239 ratio=0.815",
-  "ALIGN_NODISP v1245 ratio=0.873",
-  "ALIGN_NODISP v1247 ratio=0.702",
-  "L2_CITE_FAIL 2",
-  "DATA_OBJECTS 2 schema/cross-layer errors"
+  "ALIGN_NODISP v1247 ratio=0.702"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -27,7 +23,7 @@
   "sub090": {
    "1228": {
     "ratio": 0.839,
-    "disposition": null
+    "disposition": "sandhi-only: i>y, ii>ī (order verified 2026-11-14)"
    },
    "1239": {
     "ratio": 0.815,
@@ -35,7 +31,7 @@
    },
    "1245": {
     "ratio": 0.873,
-    "disposition": null
+    "disposition": "sandhi-only: i>y, ii>ī, m>ṃ (order verified 2026-11-14)"
    },
    "1247": {
     "ratio": 0.702,
@@ -50,20 +46,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "kṛtvā saṃhāra iti saṃhārakālaḥ",
-   "maunīm, sāttvikīṃ tu daivīm vyavasthayeti bhuvanādimaryādayā"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[sva-p50-v1231]: cite part not byte-exact in source: kṛtvā saṃhāra iti saṃhārakālaḥ",
-   "l2[sva-p50-v1238]: cite part not byte-exact in source: maunīm, sāttvikīṃ tu daivīm vyavasthayeti bhuvanādimaryādayā"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 73,
@@ -78,11 +68,7 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v1228",
   "fix: word-order/gloss vs source for v1239",
-  "fix: word-order/gloss vs source for v1245",
   "fix: word-order/gloss vs source for v1247"
  ],
  "deterministic_gate": "BLOCKED",

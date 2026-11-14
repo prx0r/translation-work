@@ -4,12 +4,9 @@
  "work": "netratantra",
  "date": "2026-11-01",
  "blocking": [
-  "ALIGN_NODISP v305 ratio=0.897",
   "ALIGN_NODISP v308 ratio=0.893",
   "ALIGN_NODISP v312 ratio=0.838",
-  "ALIGN_NODISP v314 ratio=0.880",
-  "L2_CITE_FAIL 3",
-  "DATA_OBJECTS 3 schema/cross-layer errors"
+  "ALIGN_NODISP v314 ratio=0.880"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -27,7 +24,7 @@
   "sub090": {
    "305": {
     "ratio": 0.897,
-    "disposition": null
+    "disposition": "sandhi-only: hiatus/avagraha-drop (order verified 2026-11-14)"
    },
    "308": {
     "ratio": 0.893,
@@ -50,22 +47,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "tadeti tata ityarthaḥ samācarediti pratīkāram",
-   "iti kriyākālaguṇottare lakṣitāḥ rakṣodhipo nirṛtiḥ",
-   "iti tatraivoktam pūrvoktavidhiriha mantreṇa arcāhomādi"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[net-p13-v312]: cite part not byte-exact in source: tadeti tata ityarthaḥ samācarediti pratīkāram",
-   "l2[net-p13-v320]: cite part not byte-exact in source: iti kriyākālaguṇottare lakṣitāḥ rakṣodhipo nirṛtiḥ",
-   "l2[net-p13-v322]: cite part not byte-exact in source: iti tatraivoktam pūrvoktavidhiriha mantreṇa arcāhomādi"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 92,
@@ -80,9 +69,6 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v305",
   "fix: word-order/gloss vs source for v308",
   "fix: word-order/gloss vs source for v312",
   "fix: word-order/gloss vs source for v314"

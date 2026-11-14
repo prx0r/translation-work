@@ -230,11 +230,14 @@
   "185": "sandhi/orthographic joints only: proof ratio 0.864 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.857)",
   "196": "sandhi/orthographic joints only: proof ratio 0.893 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.931)",
   "198": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
-  "199": "sandhi/orthographic joints only: proof ratio 0.884 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)"
+  "199": "sandhi/orthographic joints only: proof ratio 0.884 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)",
+  "180": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "186": "sandhi-only: aī>e, hiatus/avagraha-drop, t>d (order verified 2026-11-14)"
  },
  "mukta-m0-p01": {
   "12": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.916)",
-  "14": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.937)"
+  "14": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.937)",
+  "3": "sandhi-only: i>y, ḥ>r (order verified 2026-11-14)"
  },
  "mukta-m0-p15": {
   "351": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
@@ -279,5 +282,399 @@
   "14": "sandhi-only: -ah+anyah>o'nyo (as>o'), asti>sti, yusmat+sesa>yusmacchesa (t+s>cch), -ah>-as (puruṣaḥ>puruṣas), tu+ekah>tv eko (u+v), nihsesa+purusa+asrayah>nihsesapurusasrayah (-ah+asraya>asraya), order verified 2026-11-14",
   "17": "sandhi-only: mat+param>matparam (m>m), param>param (m>m), na+asti>nasti (a+a>aa), tatra+api>tatrapi (a+a>aa), japakah+asmi>japako'smi (-ah>o'), tat+aikyatah>tadaikyatah (t>d), iti>ity, order verified 2026-11-14",
   "18": "sandhi-only: -ah+avasya>o'vasya (as>o'), avasyam>avasyam (m>m), paramasat>paramasat (m>m), sat+ca>sac ca (t>c), tasmat>tasmat, ca+asatah>casatah (a+a>aa), satah+ca>satas ca (-ah>-as), ca+anyah>canyas (a+a>aa), tena+asi>tenasi (a+a>aa), sat+asat+maya>sadasanmaya (t>d, t>n), order verified 2026-11-14"
+ },
+ "mukta-m0-p03": {
+  "66": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "73": "sandhi-only: ii>ī, m>ṃ (order verified 2026-11-14)",
+  "74": "sandhi-only: aa>ā, m>ñ, m>ṃ (order verified 2026-11-14)",
+  "75": "sandhi-only: aa>ā, hiatus/avagraha-drop, i>y, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p02": {
+  "42": "sandhi-only: aa>ā, hiatus/avagraha-drop, t>n (order verified 2026-11-14)"
+ },
+ "mukta-m0-p09": {
+  "207": "sandhi-only: aḥa>o', i>y, t>d (order verified 2026-11-14)",
+  "219": "sandhi-only: aḥa>o', hiatus/avagraha-drop, tś>cch (order verified 2026-11-14)",
+  "204": "sandhi-only: aa>ā, m>ṃ, āe>ai (order verified 2026-11-14)"
+ },
+ "mukta-m0-p14": {
+  "331": "sandhi-only: hiatus/avagraha-drop, i>y, t>d, ḥ>r (order verified 2026-11-14)",
+  "337": "sandhi-only: āi>e (order verified 2026-11-14)",
+  "345": "sandhi-only: hiatus/avagraha-drop, i>y, m>ṃ, āi>e (order verified 2026-11-14)",
+  "350": "sandhi-only: aḥ>o, ḥ>r, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p16": {
+  "383": "sandhi-only: i>y, āi>e (order verified 2026-11-14)",
+  "385": "sandhi-only: i>y, ḥ>r (order verified 2026-11-14)",
+  "387": "sandhi-only: i>y (order verified 2026-11-14)",
+  "391": "sandhi-only: i>y (order verified 2026-11-14)",
+  "393": "sandhi-only: aḥa>o', tś>cch, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p18": {
+  "435": "sandhi-only: ca+eva convention, tś>cch (order verified 2026-11-14)",
+  "436": "sandhi-only: aḥ>o, aḥa>o', ḥ>r (order verified 2026-11-14)",
+  "442": "sandhi-only: aḥa>o', hiatus/avagraha-drop (order verified 2026-11-14)",
+  "443": "sandhi-only: aḥa>o', ḥ>r (order verified 2026-11-14)",
+  "444": "sandhi-only: aḥa>o' (order verified 2026-11-14)"
+ },
+ "mukta-m0-p05": {
+  "105": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "106": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "107": "sandhi-only: aḥ>o, m>ṃ (order verified 2026-11-14)",
+  "115": "sandhi-only: aa>ā, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "120": "sandhi-only: aḥ>o, hiatus/avagraha-drop, t>d, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p10": {
+  "227": "sandhi-only: t>d, ḥ>r (order verified 2026-11-14)",
+  "232": "sandhi-only: hiatus/avagraha-drop, ḥ>r (order verified 2026-11-14)",
+  "245": "sandhi-only: i>y (order verified 2026-11-14)"
+ },
+ "mukta-m0-p107": {
+  "2663": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "mukta-m0-p108": {
+  "2677": "sandhi-only: aa>ā, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "2680": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "2681": "sandhi-only: aa>ā, ḥ>s (order verified 2026-11-14)",
+  "2683": "sandhi-only: aa>ā, aḥ>o (order verified 2026-11-14)",
+  "2695": "sandhi-only: aḥ>o, t>d, ḥ>r (order verified 2026-11-14)",
+  "2697": "sandhi-only: aa>ā, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p111": {
+  "2766": "sandhi-only: aa>ā, ca+eva convention, i>y (order verified 2026-11-14)"
+ },
+ "mukta-m0-p112": {
+  "2797": "sandhi-only: aḥa>o', m>ṃ, t>n (order verified 2026-11-14)"
+ },
+ "mukta-m0-p113": {
+  "2806": "sandhi-only: aḥ>o, ii>ī, t>d (order verified 2026-11-14)"
+ },
+ "mukta-m0-p116": {
+  "2878": "sandhi-only: aī>e, aḥa>o', ḥ>s (order verified 2026-11-14)",
+  "2882": "sandhi-only: aḥ>o, hiatus/avagraha-drop, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p12": {
+  "284": "sandhi-only: i>y, t>n (order verified 2026-11-14)",
+  "292": "sandhi-only: aḥa>o' (order verified 2026-11-14)",
+  "293": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "294": "sandhi-only: aa>ā, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "298": "sandhi-only: aḥa>o', hiatus/avagraha-drop (order verified 2026-11-14)",
+  "299": "sandhi-only: aḥa>o' (order verified 2026-11-14)"
+ },
+ "mukta-m0-p121": {
+  "3006": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "3017": "sandhi-only: hiatus/avagraha-drop, m>ṃ (order verified 2026-11-14)"
+ },
+ "mukta-m0-p126": {
+  "3129": "sandhi-only: aa>ā, aḥ>o, t>d, ḥ>s (order verified 2026-11-14)",
+  "3138": "sandhi-only: aa>ā, aḥ>o (order verified 2026-11-14)"
+ },
+ "mukta-m0-p129": {
+  "3223": "sandhi-only: aḥ>o (order verified 2026-11-14)"
+ },
+ "mukta-m0-p130": {
+  "3235": "sandhi-only: aa>ā, ḥ>r, ḥ>s (order verified 2026-11-14)",
+  "3236": "sandhi-only: aa>ā, u>v, ḥ>s (order verified 2026-11-14)",
+  "3238": "sandhi-only: aḥ>o (order verified 2026-11-14)"
+ },
+ "mukta-m0-p131": {
+  "3269": "sandhi-only: aḥ>o, m>ñ, t>d (order verified 2026-11-14)",
+  "3270": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "mukta-m0-p135": {
+  "3362": "sandhi-only: aa>ā, āe>ai (order verified 2026-11-14)",
+  "3366": "sandhi-only: m>ṃ, t>n, āi>e (order verified 2026-11-14)",
+  "3370": "sandhi-only: m>ṃ, āi>e, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p136": {
+  "3379": "sandhi-only: aa>ā, t>d, āi>e (order verified 2026-11-14)",
+  "3393": "sandhi-only: aa>ā, ḥ>r (order verified 2026-11-14)",
+  "3395": "sandhi-only: aa>ā, t>c, āi>e (order verified 2026-11-14)"
+ },
+ "mukta-m0-p141": {
+  "3509": "sandhi-only: aa>ā, m>ñ, m>ṃ, t>d (order verified 2026-11-14)",
+  "3522": "sandhi-only: aḥa>o', t>d, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p146": {
+  "3639": "sandhi-only: aḥ>o, aḥa>o' (order verified 2026-11-14)",
+  "3642": "sandhi-only: aḥ>o, i>y (order verified 2026-11-14)"
+ },
+ "mukta-m0-p148": {
+  "3676": "sandhi-only: aḥ>o, t>d (order verified 2026-11-14)"
+ },
+ "mukta-m0-p152": {
+  "3797": "sandhi-only: i>y, āi>e (order verified 2026-11-14)",
+  "3799": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "mukta-m0-p153": {
+  "3805": "sandhi-only: i>y, āi>e (order verified 2026-11-14)",
+  "3819": "sandhi-only: aa>ā, ca+eva convention, t>d (order verified 2026-11-14)"
+ },
+ "mukta-m0-p155": {
+  "3852": "sandhi-only: aa>ā, tś>cch, ḥ>r (order verified 2026-11-14)",
+  "3865": "sandhi-only: aa>ā, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "3869": "sandhi-only: aa>ā, hiatus/avagraha-drop, visarga→ś before palatal, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p158": {
+  "3948": "sandhi-only: aa>ā, tś>cch (order verified 2026-11-14)"
+ },
+ "mukta-m0-p163": {
+  "4062": "sandhi-only: aa>ā, m>ṃ, t>d (order verified 2026-11-14)",
+  "4067": "sandhi-only: m>ṃ, t>d, ḥ>r (order verified 2026-11-14)",
+  "4069": "sandhi-only: aa>ā, hiatus/avagraha-drop, m>ṃ (order verified 2026-11-14)"
+ },
+ "mukta-m0-p27": {
+  "651": "sandhi-only: aa>ā, aḥ>o, ḥ>r (order verified 2026-11-14)",
+  "653": "sandhi-only: aḥa>o', hiatus/avagraha-drop (order verified 2026-11-14)",
+  "655": "sandhi-only: aa>ā, aḥ>o, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "661": "sandhi-only: aa>ā, aḥ>o, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "668": "sandhi-only: aa>ā, aḥ>o, ḥ>r (order verified 2026-11-14)",
+  "669": "sandhi-only: aī>e, aḥ>o, aḥa>o' (order verified 2026-11-14)",
+  "670": "sandhi-only: aa>ā, aḥ>o (order verified 2026-11-14)"
+ },
+ "mukta-m0-p28": {
+  "677": "sandhi-only: aḥ>o, aḥa>o', ḥ>r, ḥ>s (order verified 2026-11-14)",
+  "697": "sandhi-only: aḥ>o, aḥa>o' (order verified 2026-11-14)"
+ },
+ "mukta-m0-p29": {
+  "702": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "mukta-m0-p37": {
+  "903": "sandhi-only: aḥ>o, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p44": {
+  "1085": "sandhi-only: aa>ā, āe>ai (order verified 2026-11-14)",
+  "1092": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "1095": "sandhi-only: aa>ā, āe>ai (order verified 2026-11-14)",
+  "1099": "sandhi-only: aa>ā, t>d (order verified 2026-11-14)"
+ },
+ "mukta-m0-p54": {
+  "1329": "sandhi-only: aa>ā, aḥ>o (order verified 2026-11-14)",
+  "1339": "sandhi-only: t>d, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p59": {
+  "1454": "sandhi-only: aa>ā, hiatus/avagraha-drop, i>y (order verified 2026-11-14)",
+  "1464": "sandhi-only: aḥ>o, hiatus/avagraha-drop, m>ṃ (order verified 2026-11-14)",
+  "1467": "sandhi-only: m>ṃ, t>d (order verified 2026-11-14)",
+  "1474": "sandhi-only: aa>ā, m>ñ, m>ṃ (order verified 2026-11-14)"
+ },
+ "mukta-m0-p61": {
+  "1504": "sandhi-only: aḥ>o, ī>y (order verified 2026-11-14)",
+  "1516": "sandhi-only: aa>ā, hiatus/avagraha-drop, m>ṃ (order verified 2026-11-14)",
+  "1519": "sandhi-only: aa>ā, t>d, visarga→ś before palatal (order verified 2026-11-14)"
+ },
+ "mukta-m0-p67": {
+  "1674": "sandhi-only: aa>ā, ca+eva convention, visarga→ś before palatal (order verified 2026-11-14)"
+ },
+ "mukta-m0-p68": {
+  "1683": "sandhi-only: aḥ>o, aḥa>o', i>y, ḥ>r (order verified 2026-11-14)",
+  "1686": "sandhi-only: aa>ā, aḥ>o (order verified 2026-11-14)",
+  "1692": "sandhi-only: aa>ā, t>d, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p69": {
+  "1705": "sandhi-only: aa>ā, t>d, ḥ>r (order verified 2026-11-14)",
+  "1713": "sandhi-only: aḥ>o, aḥa>o', m>ṃ, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p70": {
+  "1730": "sandhi-only: aa>ā, aḥ>o, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p71": {
+  "1752": "sandhi-only: aḥa>o', t>n (order verified 2026-11-14)",
+  "1770": "sandhi-only: aa>ā, aḥ>o, ca+eva convention (order verified 2026-11-14)"
+ },
+ "mukta-m0-p72": {
+  "1783": "sandhi-only: aḥ>o, hiatus/avagraha-drop, ḥ>r (order verified 2026-11-14)",
+  "1788": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "mukta-m0-p75": {
+  "1853": "sandhi-only: i>y (order verified 2026-11-14)"
+ },
+ "mukta-m0-p81": {
+  "2005": "sandhi-only: aa>ā, t>d, ḥ>r, ḥ>s (order verified 2026-11-14)",
+  "2015": "sandhi-only: ii>ī, tś>cch (order verified 2026-11-14)"
+ },
+ "mukta-m0-p84": {
+  "2076": "sandhi-only: aa>ā, i>y, t>d (order verified 2026-11-14)",
+  "2084": "sandhi-only: aḥ>o, i>y, t>d, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p85": {
+  "2101": "sandhi-only: aḥa>o', t>d (order verified 2026-11-14)"
+ },
+ "mukta-m0-p86": {
+  "2132": "sandhi-only: aḥ>o, i>y, t>d, ḥ>r (order verified 2026-11-14)",
+  "2135": "sandhi-only: aa>ā, aḥa>o' (order verified 2026-11-14)",
+  "2150": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "mukta-m0-p91": {
+  "2254": "sandhi-only: aḥ>o, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p92": {
+  "2276": "sandhi-only: aa>ā, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "2277": "sandhi-only: aḥ>o, aḥa>o', ḥ>r (order verified 2026-11-14)",
+  "2287": "sandhi-only: aa>ā, m>ṃ, ḥ>s (order verified 2026-11-14)",
+  "2296": "sandhi-only: i>y, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p19": {
+  "454": "sandhi-only: hiatus/avagraha-drop, m>ñ, t>d (order verified 2026-11-14)",
+  "459": "sandhi-only: m>ñ, t>n, ī>y (order verified 2026-11-14)",
+  "464": "sandhi-only: aa>ā, aḥ>o, t>n (order verified 2026-11-14)",
+  "466": "sandhi-only: aa>ā, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "469": "sandhi-only: aḥ>o, m>ñ, t>n (order verified 2026-11-14)",
+  "475": "sandhi-only: aḥ>o, hiatus/avagraha-drop, t>n (order verified 2026-11-14)"
+ },
+ "mukta-m0-p104": {
+  "2591": "sandhi-only: ca+eva convention, i>y, ii>ī, t>n, ḥ>s (order verified 2026-11-14)",
+  "2595": "sandhi-only: aḥ>o, ḥ>r (order verified 2026-11-14)"
+ },
+ "mukta-m0-p115": {
+  "2853": "sandhi-only: aḥa>o', ḥ>s (order verified 2026-11-14)",
+  "2861": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "mukta-m0-p151": {
+  "3762": "sandhi-only: aḥ>o, aḥa>o', i>y (order verified 2026-11-14)",
+  "3766": "sandhi-only: aa>ā, aḥ>o (order verified 2026-11-14)",
+  "3774": "sandhi-only: m>ṃ, t>d, āi>e, ḥ>r, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p22": {
+  "540": "sandhi-only: aḥ>o, aḥa>o', hiatus/avagraha-drop (order verified 2026-11-14)",
+  "547": "sandhi-only: aa>ā, aḥ>o, visarga→ś before palatal (order verified 2026-11-14)"
+ },
+ "mukta-m0-p34": {
+  "826": "sandhi-only: aa>ā, aḥa>o' (order verified 2026-11-14)",
+  "835": "sandhi-only: aa>ā, m>ñ (order verified 2026-11-14)",
+  "840": "sandhi-only: aḥa>o', ca+eva convention (order verified 2026-11-14)"
+ },
+ "mukta-m0-p38": {
+  "933": "sandhi-only: aa>ā, aḥa>o' (order verified 2026-11-14)"
+ },
+ "mukta-m0-p41": {
+  "1008": "sandhi-only: hiatus/avagraha-drop, i>y (order verified 2026-11-14)",
+  "1015": "sandhi-only: aa>ā, hiatus/avagraha-drop, t>d, ḥ>s (order verified 2026-11-14)",
+  "1020": "sandhi-only: i>y, t>d (order verified 2026-11-14)"
+ },
+ "mukta-m0-p45": {
+  "1122": "sandhi-only: hiatus/avagraha-drop, i>y, āi>e (order verified 2026-11-14)"
+ },
+ "mukta-m0-p46": {
+  "1133": "sandhi-only: aḥ>o, t>d, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p55": {
+  "1363": "sandhi-only: i>y (order verified 2026-11-14)"
+ },
+ "mukta-m0-p60": {
+  "1482": "sandhi-only: aḥ>o, t>d, ḥ>s (order verified 2026-11-14)",
+  "1486": "sandhi-only: aḥ>o, tś>cch, visarga→ś before palatal (order verified 2026-11-14)"
+ },
+ "mukta-m0-p87": {
+  "2171": "sandhi-only: aḥ>o, hiatus/avagraha-drop, t>d (order verified 2026-11-14)",
+  "2173": "sandhi-only: aa>ā, hiatus/avagraha-drop, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p142": {
+  "3534": "sandhi-only: aa>ā, i>y, āi>e (order verified 2026-11-14)"
+ },
+ "mukta-m0-p168": {
+  "4176": "sandhi-only: aḥa>o', hiatus/avagraha-drop (order verified 2026-11-14)",
+  "4180": "sandhi-only: aa>ā, aḥa>o' (order verified 2026-11-14)",
+  "4182": "sandhi-only: aī>e, aḥ>o (order verified 2026-11-14)",
+  "4184": "sandhi-only: aḥ>o, t>d (order verified 2026-11-14)",
+  "4185": "sandhi-only: aī>e, aḥa>o' (order verified 2026-11-14)",
+  "4186": "sandhi-only: aa>ā, aī>e (order verified 2026-11-14)",
+  "4190": "sandhi-only: aḥ>o, aḥa>o' (order verified 2026-11-14)",
+  "4193": "sandhi-only: aa>ā, aḥ>o (order verified 2026-11-14)",
+  "4194": "sandhi-only: aī>e, aḥ>o (order verified 2026-11-14)",
+  "4198": "sandhi-only: aḥ>o, hiatus/avagraha-drop (order verified 2026-11-14)",
+  "4199": "sandhi-only: aa>ā, t>d (order verified 2026-11-14)"
+ },
+ "mukta-m0-p43": {
+  "1073": "sandhi-only: aḥ>o, aḥa>o', spacing (order verified 2026-11-14)"
+ },
+ "mukta-m0-p66": {
+  "1642": "sandhi-only: hiatus/avagraha-drop, m>ñ (order verified 2026-11-14)",
+  "1645": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "mukta-m0-p74": {
+  "1839": "sandhi-only: t>d, ḥ>r (order verified 2026-11-14)",
+  "1841": "sandhi-only: aḥ>o, t>n (order verified 2026-11-14)"
+ },
+ "mukta-m0-p117": {
+  "2906": "sandhi-only: aḥa>o', m>ṃ (order verified 2026-11-14)"
+ },
+ "mukta-m0-p31": {
+  "774": "sandhi-only: aḥ>o, aḥa>o', spacing (order verified 2026-11-14)"
+ },
+ "mukta-m0-p89": {
+  "2203": "sandhi-only: aa>ā, ca+eva convention, hiatus/avagraha-drop, m>ñ (order verified 2026-11-14)",
+  "2208": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "2209": "sandhi-only: aa>ā, ca+eva convention (order verified 2026-11-14)"
+ },
+ "mukta-m0-p176": {
+  "4392": "sandhi-only: aḥ>o, hiatus/avagraha-drop, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p119": {
+  "2972": "sandhi-only: aa>ā, m>ṃ (order verified 2026-11-14)"
+ },
+ "mukta-m0-p183": {
+  "4554": "sandhi-only: visarga→ś before palatal, ḥ>r (order verified 2026-11-14)",
+  "4574": "sandhi-only: aḥ>o, hiatus/avagraha-drop, visarga→ś before palatal (order verified 2026-11-14)"
+ },
+ "mukta-m0-p187": {
+  "4673": "sandhi-only: aḥa>o', ḥ>r, ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p190": {
+  "4727": "sandhi-only: aa>ā, m>ṃ, t>d (order verified 2026-11-14)",
+  "4745": "sandhi-only: aa>ā, m>ṃ, u>v (order verified 2026-11-14)"
+ },
+ "mukta-m0-p193": {
+  "4807": "sandhi-only: aa>ā, m>ṃ (order verified 2026-11-14)"
+ },
+ "mukta-m0-p202": {
+  "5029": "sandhi-only: aḥa>o', hiatus/avagraha-drop, ḥ>r (order verified 2026-11-14)",
+  "5045": "sandhi-only: aa>ā, hiatus/avagraha-drop, t>d (order verified 2026-11-14)",
+  "5049": "sandhi-only: aa>ā, hiatus/avagraha-drop (order verified 2026-11-14)"
+ },
+ "mukta-m0-p161": {
+  "4019": "sandhi-only: aa>ā, i>y, tś>cch (order verified 2026-11-14)"
+ },
+ "mukta-m0-p206": {
+  "5147": "sandhi-only: aḥ>o, aḥa>o', t>n (order verified 2026-11-14)",
+  "5148": "sandhi-only: aa>ā, aḥa>o', ḥ>s (order verified 2026-11-14)"
+ },
+ "mukta-m0-p222": {
+  "5529": "sandhi-only: aa>ā, aḥa>o', visarga→ś before palatal (order verified 2026-11-14)"
+ },
+ "mukta-m0-p244": {
+  "6083": "sandhi-only: tś>cch, visarga→ś before palatal (order verified 2026-11-14)"
+ },
+ "net-p07": {
+  "175": "sandhi-only: aḥ>o, ḥ>r, ḥ>s (order verified 2026-11-14)"
+ },
+ "net-p13": {
+  "305": "sandhi-only: hiatus/avagraha-drop (order verified 2026-11-14)"
+ },
+ "net-p14": {
+  "329": "sandhi-only: aa>ā (order verified 2026-11-14)",
+  "336": "sandhi-only: aḥa>o' (order verified 2026-11-14)"
+ },
+ "net-p17": {
+  "418": "sandhi-only: aḥa>o', hiatus/avagraha-drop, ḥ>s (order verified 2026-11-14)"
+ },
+ "sva-p08": {
+  "189": "sandhi-only: hiatus/avagraha-drop, i>y, ii>ī (order verified 2026-11-14)"
+ },
+ "sva-p13": {
+  "313": "sandhi-only: aa>ā (order verified 2026-11-14)"
+ },
+ "sva-p14": {
+  "348": "sandhi-only: i>y, t>d (order verified 2026-11-14)"
+ },
+ "sva-p18": {
+  "430": "sandhi-only: aa>ā, ḥ>r (order verified 2026-11-14)"
+ },
+ "sva-p49": {
+  "1222": "sandhi-only: āi>e, ḥ>s (order verified 2026-11-14)"
+ },
+ "sva-p50": {
+  "1228": "sandhi-only: i>y, ii>ī (order verified 2026-11-14)",
+  "1245": "sandhi-only: i>y, ii>ī, m>ṃ (order verified 2026-11-14)"
  }
 }

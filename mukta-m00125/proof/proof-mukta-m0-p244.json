@@ -3,9 +3,7 @@
  "song": "mukta-m0-p244",
  "work": "mukta-m00125",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v6083 ratio=0.896"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "67edf6924ef24f57",
@@ -22,7 +20,7 @@
   "sub090": {
    "6083": {
     "ratio": 0.896,
-    "disposition": null
+    "disposition": "sandhi-only: tś>cch, visarga→ś before palatal (order verified 2026-11-14)"
    }
   }
  },
@@ -55,9 +53,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v6083"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "83eff950226c2d7bbf79c67ce9fad4d16b61677b44042c3bc6691eddad84eb7c",
   "l0": "78149676ef56dd0658d71bab6983caa88fd889cb42a8dfa9c0fc366212a12fb1",

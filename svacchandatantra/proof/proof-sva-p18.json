@@ -6,7 +6,6 @@
  "blocking": [
   "ALIGN_NODISP v426 ratio=0.872",
   "ALIGN_NODISP v427 ratio=0.861",
-  "ALIGN_NODISP v430 ratio=0.872",
   "ALIGN_NODISP v450 ratio=0.889"
  ],
  "warnings": [],
@@ -33,7 +32,7 @@
    },
    "430": {
     "ratio": 0.872,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā, ḥ>r (order verified 2026-11-14)"
    },
    "450": {
     "ratio": 0.889,
@@ -72,7 +71,6 @@
  "needs": [
   "fix: word-order/gloss vs source for v426",
   "fix: word-order/gloss vs source for v427",
-  "fix: word-order/gloss vs source for v430",
   "fix: word-order/gloss vs source for v450"
  ],
  "deterministic_gate": "BLOCKED",

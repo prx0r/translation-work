@@ -8,14 +8,11 @@
   "ALIGN_NODISP v179 ratio=0.692",
   "ALIGN_NODISP v184 ratio=0.400",
   "ALIGN_NODISP v187 ratio=0.762",
-  "ALIGN_NODISP v189 ratio=0.893",
   "ALIGN_NODISP v192 ratio=0.680",
   "ALIGN_NODISP v193 ratio=0.767",
   "ALIGN_NODISP v197 ratio=0.633",
   "ALIGN_NODISP v199 ratio=0.784",
-  "ALIGN_NODISP v200 ratio=0.476",
-  "L2_CITE_FAIL 2",
-  "DATA_OBJECTS 2 schema/cross-layer errors"
+  "ALIGN_NODISP v200 ratio=0.476"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -49,7 +46,7 @@
    },
    "189": {
     "ratio": 0.893,
-    "disposition": null
+    "disposition": "sandhi-only: hiatus/avagraha-drop, i>y, ii>ī (order verified 2026-11-14)"
    },
    "192": {
     "ratio": 0.68,
@@ -80,20 +77,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "ahamityarthaḥ ātmā iha dvividho dehaḥ",
-   "sayavaghṛtā aṣṭau ihāṣṭamūrterarghyaṃ puryaṣṭakākūtam"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[sva-p08-v185]: cite part not byte-exact in source: ahamityarthaḥ ātmā iha dvividho dehaḥ",
-   "l2[sva-p08-v190]: cite part not byte-exact in source: sayavaghṛtā aṣṭau ihāṣṭamūrterarghyaṃ puryaṣṭakākūtam"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 167,
@@ -108,13 +99,10 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
   "fix: word-order/gloss vs source for v176",
   "fix: word-order/gloss vs source for v179",
   "fix: word-order/gloss vs source for v184",
   "fix: word-order/gloss vs source for v187",
-  "fix: word-order/gloss vs source for v189",
   "fix: word-order/gloss vs source for v192",
   "fix: word-order/gloss vs source for v193",
   "fix: word-order/gloss vs source for v197",

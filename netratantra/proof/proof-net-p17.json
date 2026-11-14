@@ -5,7 +5,6 @@
  "date": "2026-11-01",
  "blocking": [
   "ALIGN_NODISP v413 ratio=0.885",
-  "ALIGN_NODISP v418 ratio=0.897",
   "DATA_OBJECTS 1 schema/cross-layer errors"
  ],
  "warnings": [],
@@ -28,7 +27,7 @@
    },
    "418": {
     "ratio": 0.897,
-    "disposition": null
+    "disposition": "sandhi-only: aḥa>o', hiatus/avagraha-drop, ḥ>s (order verified 2026-11-14)"
    }
   }
  },
@@ -64,8 +63,7 @@
  },
  "needs": [
   "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v413",
-  "fix: word-order/gloss vs source for v418"
+  "fix: word-order/gloss vs source for v413"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {

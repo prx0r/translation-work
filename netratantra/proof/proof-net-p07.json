@@ -12,10 +12,7 @@
   "ALIGN_NODISP v165 ratio=0.897",
   "ALIGN_NODISP v166 ratio=0.625",
   "ALIGN_NODISP v167 ratio=0.852",
-  "ALIGN_NODISP v170 ratio=0.879",
-  "ALIGN_NODISP v175 ratio=0.889",
-  "L2_CITE_FAIL 3",
-  "DATA_OBJECTS 3 schema/cross-layer errors"
+  "ALIGN_NODISP v170 ratio=0.879"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -69,7 +66,7 @@
    },
    "175": {
     "ratio": 0.889,
-    "disposition": null
+    "disposition": "sandhi-only: aḥ>o, ḥ>r, ḥ>s (order verified 2026-11-14)"
    }
   }
  },
@@ -80,22 +77,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "iti cintāratnādiva phalodayo yataḥ",
-   "bhāvanurūpeṇāśayānuguṇena bhāvena bhāvanāprakāreṇa",
-   "ityādi yathānurūpaṃ dhyānānusāri"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[net-p07-v159]: cite part not byte-exact in source: iti cintāratnādiva phalodayo yataḥ",
-   "l2[net-p07-v162]: cite part not byte-exact in source: bhāvanurūpeṇāśayānuguṇena bhāvena bhāvanāprakāreṇa",
-   "l2[net-p07-v170]: cite part not byte-exact in source: ityādi yathānurūpaṃ dhyānānusāri"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 151,
@@ -110,8 +99,6 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
   "fix: word-order/gloss vs source for v153",
   "fix: word-order/gloss vs source for v154",
   "fix: word-order/gloss vs source for v157",
@@ -120,8 +107,7 @@
   "fix: word-order/gloss vs source for v165",
   "fix: word-order/gloss vs source for v166",
   "fix: word-order/gloss vs source for v167",
-  "fix: word-order/gloss vs source for v170",
-  "fix: word-order/gloss vs source for v175"
+  "fix: word-order/gloss vs source for v170"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {

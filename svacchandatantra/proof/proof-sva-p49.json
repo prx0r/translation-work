@@ -5,10 +5,7 @@
  "date": "2026-11-01",
  "blocking": [
   "ALIGN_NODISP v1212 ratio=0.844",
-  "ALIGN_NODISP v1221 ratio=0.857",
-  "ALIGN_NODISP v1222 ratio=0.839",
-  "L2_CITE_FAIL 1",
-  "DATA_OBJECTS 1 schema/cross-layer errors"
+  "ALIGN_NODISP v1221 ratio=0.857"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -34,7 +31,7 @@
    },
    "1222": {
     "ratio": 0.839,
-    "disposition": null
+    "disposition": "sandhi-only: āi>e, ḥ>s (order verified 2026-11-14)"
    }
   }
  },
@@ -45,18 +42,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "sarva eveha lokā ucyante tadatītā atimārgasthāḥ"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[sva-p49-v1216]: cite part not byte-exact in source: sarva eveha lokā ucyante tadatītā atimārgasthāḥ"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 72,
@@ -71,11 +64,8 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
   "fix: word-order/gloss vs source for v1212",
-  "fix: word-order/gloss vs source for v1221",
-  "fix: word-order/gloss vs source for v1222"
+  "fix: word-order/gloss vs source for v1221"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {

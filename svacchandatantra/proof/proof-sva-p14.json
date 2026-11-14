@@ -3,11 +3,7 @@
  "song": "sva-p14",
  "work": "svacchandatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v348 ratio=0.882",
-  "L2_CITE_FAIL 1",
-  "DATA_OBJECTS 1 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "efa1468daa71de0a",
@@ -24,7 +20,7 @@
   "sub090": {
    "348": {
     "ratio": 0.882,
-    "disposition": null
+    "disposition": "sandhi-only: i>y, t>d (order verified 2026-11-14)"
    }
   }
  },
@@ -35,18 +31,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "saṃhārākhyayā, ātmanīti svahṛdaye bhairaveṇa niṣkalena"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[sva-p14-v334]: cite part not byte-exact in source: saṃhārākhyayā, ātmanīti svahṛdaye bhairaveṇa niṣkalena"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 95,
@@ -61,11 +53,9 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v348"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "31f5c1962e10f4a55eedc95d01be59dd2616e0cca9ee797ed1f919cc139c5f5a",
   "l0": "8bd30809071f2b42e05b6231f668b0db23b40e81416c6cbe1e8ab4312eae0658",

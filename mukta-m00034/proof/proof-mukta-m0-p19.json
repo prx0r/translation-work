@@ -5,12 +5,8 @@
  "date": "2026-11-01",
  "blocking": [
   "ALIGN_NODISP v453 ratio=0.899",
-  "ALIGN_NODISP v454 ratio=0.882",
-  "ALIGN_NODISP v464 ratio=0.883",
   "ALIGN_NODISP v465 ratio=0.878",
-  "ALIGN_NODISP v466 ratio=0.892",
-  "ALIGN_NODISP v474 ratio=0.860",
-  "ALIGN_NODISP v475 ratio=0.892"
+  "ALIGN_NODISP v474 ratio=0.860"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -32,11 +28,11 @@
    },
    "454": {
     "ratio": 0.882,
-    "disposition": null
+    "disposition": "sandhi-only: hiatus/avagraha-drop, m>ñ, t>d (order verified 2026-11-14)"
    },
    "464": {
     "ratio": 0.883,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā, aḥ>o, t>n (order verified 2026-11-14)"
    },
    "465": {
     "ratio": 0.878,
@@ -44,7 +40,7 @@
    },
    "466": {
     "ratio": 0.892,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā, hiatus/avagraha-drop (order verified 2026-11-14)"
    },
    "474": {
     "ratio": 0.86,
@@ -52,7 +48,7 @@
    },
    "475": {
     "ratio": 0.892,
-    "disposition": null
+    "disposition": "sandhi-only: aḥ>o, hiatus/avagraha-drop, t>n (order verified 2026-11-14)"
    }
   }
  },
@@ -86,12 +82,8 @@
  },
  "needs": [
   "fix: word-order/gloss vs source for v453",
-  "fix: word-order/gloss vs source for v454",
-  "fix: word-order/gloss vs source for v464",
   "fix: word-order/gloss vs source for v465",
-  "fix: word-order/gloss vs source for v466",
-  "fix: word-order/gloss vs source for v474",
-  "fix: word-order/gloss vs source for v475"
+  "fix: word-order/gloss vs source for v474"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {
