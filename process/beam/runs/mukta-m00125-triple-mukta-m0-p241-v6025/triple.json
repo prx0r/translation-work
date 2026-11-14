@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p241",
+ "items": [
+  {
+   "verse": 6025,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "and-then",
+     "grounds": "indeclinable sequence expressing temporal succession; sandhi fusion of tataḥ and ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarbaliṃ",
+     "gloss": "inner-offering",
+     "grounds": "object of giving; offering made inwardly",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bāhya",
+     "gloss": "outer",
+     "grounds": "qualifies the following offering as external",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "object of giving; offering made outwardly",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive indicating prior action completed by the guru",
+     "morph": "gerund(dā)"
+    },
+    {
+     "surface": "śucir",
+     "gloss": "pure",
+     "grounds": "describes the ritual state of the guru; nominative form with sandhi before guruḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "agent who performs the giving of offerings",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offerings must the pure teacher present after completing the preceding fire oblation?",
+   "premises": [
+    "The preceding rites culminate in a fire oblation performed for removing flaws.",
+    "After those rites, an inner offering is to be given.",
+    "After those rites, an outer offering is also to be given.",
+    "The agent performing these acts is the pure teacher."
+   ],
+   "inference": "After completing the fire oblation, the pure teacher must give both the inner and outer offerings.",
+   "uncertainties": [],
+   "plain_english": "And then, having given the inner offering and the outer offering, the pure teacher proceeds."
+  }
+ ]
+}
