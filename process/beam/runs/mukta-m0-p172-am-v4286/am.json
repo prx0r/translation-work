@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p172",
  "verse": 4286,
- "question": "What spiritual effects of pacifying offenses and increasing devotion are attributed to the subject?",
+ "question": "From what temple parts is foot placement measured?",
  "premises": [
-  "The subject pacifies all offenses.",
-  "The subject increases supreme devotion."
+  "sanctum door is a reference",
+  "temple door is a reference",
+  "foot placement is measured from them"
  ],
- "inference": "The subject is characterized as removing faults and fostering supreme devotion.",
- "uncertainties": [],
- "plain_english": "It pacifies all offenses and increases supreme devotion."
+ "inference": "Foot placement is measured from the sanctum and temple doors.",
+ "uncertainties": [
+  "exact measurement not given"
+ ],
+ "plain_english": "Foot placement is measured from the sanctum door and temple door."
 }

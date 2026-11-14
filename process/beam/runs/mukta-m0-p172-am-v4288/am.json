@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p172",
  "verse": 4288,
- "question": "What purifying effects on passions and impurities are attributed to the subject?",
+ "question": "How does the distorted part increase in the middle?",
  "premises": [
-  "The subject completely removes desire, anger, and similar passions.",
-  "The subject purifies faults and impurities."
+  "the middle contains a distorted part",
+  "the increase is by one third",
+  "the increase applies there"
  ],
- "inference": "The subject eradicates inner passions and cleanses all impurities.",
- "uncertainties": [],
- "plain_english": "It completely removes desire, anger, and the rest, and purifies all faults and impurities."
+ "inference": "The distorted part in the middle increases by one third.",
+ "uncertainties": [
+  "exact base measure unclear"
+ ],
+ "plain_english": "In its middle, the distorted part increases by one third."
 }

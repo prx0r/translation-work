@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4245,
- "question": "Why is the subduer of Kāliya beloved by all cowherds and cowherdesses?",
+ "question": "What should be powdered after making sugar equal to the sarja part?",
  "premises": [
-  "The figure subdued Kāliya",
-  "All cowherds and cowherdesses are included",
-  "The figure is beloved of those people"
+  "sugar is named",
+  "sarja part is named",
+  "equal is named",
+  "powder is named"
  ],
- "inference": "The subduer of Kāliya is beloved by all the cowherd people",
- "uncertainties": [],
- "plain_english": "He is the subduer of Kāliya, beloved by all the cowherds and cowherdesses."
+ "inference": "the verse instructs powdering after equalizing sugar and sarja part",
+ "uncertainties": [
+  "exact mixture unclear"
+ ],
+ "plain_english": "Sugar, but having made equal to the sarja part, then one should powder."
 }

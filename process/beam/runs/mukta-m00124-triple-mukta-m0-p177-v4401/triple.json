@@ -1,0 +1,941 @@
+{
+ "song": "mukta-m0-p177",
+ "items": [
+  {
+   "verse": 4401,
+   "rows": [
+    {
+     "surface": "ṣaḍaṃśa",
+     "gloss": "sixth-part",
+     "grounds": "sixth portion of measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ekāṃśa",
+     "gloss": "one-part",
+     "grounds": "single portion",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kāyāma",
+     "gloss": "body-measure",
+     "grounds": "body measurement",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vyāsā",
+     "gloss": "width",
+     "grounds": "breadth",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "madhyāṅgulī",
+     "gloss": "middle-finger",
+     "grounds": "middle finger",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "regarded as",
+     "morph": "ppp.f.nom.sg"
+    }
+   ],
+   "question": "How is the body measure divided into sixth and one parts?",
+   "premises": [
+    "sixth part is one measure",
+    "body measure has width",
+    "middle finger is considered"
+   ],
+   "inference": "The verse gives a proportional body measure using sixth and one parts.",
+   "uncertainties": [
+    "exact grammatical gender of kāyāma"
+   ],
+   "plain_english": "The body measure is considered with sixth and one parts, width, and middle finger."
+  },
+  {
+   "verse": 4402,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "that measure",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "daśāṃśona",
+     "gloss": "ten-part-less",
+     "grounds": "less by a tenth",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "vistārā",
+     "gloss": "width",
+     "grounds": "breadth",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "parvatraya",
+     "gloss": "three-mountains",
+     "grounds": "three elevations",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "samanvitā",
+     "gloss": "together",
+     "grounds": "accompanied by",
+     "morph": "ppp.f.nom.sg"
+    }
+   ],
+   "question": "How does the ten-part-less width accompany three mountains?",
+   "premises": [
+    "that measure is ten-part-less",
+    "width accompanies three mountains",
+    "together with elevations"
+   ],
+   "inference": "The verse states a reduced width together with three mountain-like elevations.",
+   "uncertainties": [
+    "compound internal sense"
+   ],
+   "plain_english": "That width, reduced by a tenth, is together with three mountains."
+  },
+  {
+   "verse": 4403,
+   "rows": [
+    {
+     "surface": "tritripādadvibhāgaiḥ",
+     "gloss": "three-three-foot-two-divisions",
+     "grounds": "threefold three-foot two divisions",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturbhāgavibhāgikā",
+     "gloss": "four-part-division",
+     "grounds": "division into four parts",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "How do three three-foot two divisions relate to four-part division?",
+   "premises": [
+    "three three-foot two divisions are used",
+    "four-part division is stated",
+    "tu marks transition"
+   ],
+   "inference": "The verse relates a threefold division to a four-part division.",
+   "uncertainties": [
+    "exact compound parsing"
+   ],
+   "plain_english": "With three three-foot two divisions, there is a four-part division."
+  },
+  {
+   "verse": 4404,
+   "rows": [
+    {
+     "surface": "agraparvāṅgulīnām",
+     "gloss": "front-joint-finger",
+     "grounds": "front joint of finger",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dviguṇam",
+     "gloss": "double",
+     "grounds": "twofold",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-pres + as"
+    },
+    {
+     "surface": "nakhāyatam",
+     "gloss": "nail-measure",
+     "grounds": "nail length",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "How is the nail measure double for front joint fingers?",
+   "premises": [
+    "front joint fingers are referenced",
+    "double may be",
+    "nail measure is stated"
+   ],
+   "inference": "The verse says the nail measure may be double for front joint fingers.",
+   "uncertainties": [
+    "syāt modal force"
+   ],
+   "plain_english": "For front joint fingers, the nail measure may be double."
+  },
+  {
+   "verse": 4405,
+   "rows": [
+    {
+     "surface": "abhyantaragatāṅgulyā",
+     "gloss": "inner-gone-finger",
+     "grounds": "inner finger",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "bhāgādhikyāyatā",
+     "gloss": "part-excess-length",
+     "grounds": "length with excess part",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "regarded as",
+     "morph": "ppp.f.nom.sg"
+    }
+   ],
+   "question": "How is inner finger length considered with part excess?",
+   "premises": [
+    "inner finger is used",
+    "part excess length is stated",
+    "considered as such"
+   ],
+   "inference": "The verse considers inner finger length with an excess part.",
+   "uncertainties": [
+    "compound internal sense"
+   ],
+   "plain_english": "The inner finger length is considered with part excess."
+  },
+  {
+   "verse": 4406,
+   "rows": [
+    {
+     "surface": "śaṅkhacakragadāśūlapadmavajrasamanvitam",
+     "gloss": "conch-disc-club-trident-lotus-thunderbolt-together",
+     "grounds": "accompanied by conch disc club trident lotus thunderbolt",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What is accompanied by conch disc club trident lotus and thunderbolt?",
+   "premises": [
+    "conch disc club trident lotus thunderbolt accompany",
+    "together is stated",
+    "single compound term"
+   ],
+   "inference": "The verse names an entity accompanied by those six attributes.",
+   "uncertainties": [
+    "head noun omitted"
+   ],
+   "plain_english": "It is accompanied by conch, disc, club, trident, lotus, and thunderbolt."
+  },
+  {
+   "verse": 4407,
+   "rows": [
+    {
+     "surface": "ālambitabhujacchāya",
+     "gloss": "supported-arm-shadow",
+     "grounds": "shadow of supported arm",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ūrupāṇitalāntaram",
+     "gloss": "thigh-palm-between",
+     "grounds": "between thigh and palm",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "How does supported arm shadow relate to thigh palm between?",
+   "premises": [
+    "supported arm shadow is named",
+    "thigh palm between is named",
+    "relation is stated"
+   ],
+   "inference": "The verse relates supported arm shadow to the space between thigh and palm.",
+   "uncertainties": [
+    "exact spatial relation"
+   ],
+   "plain_english": "The supported arm shadow is between thigh and palm."
+  },
+  {
+   "verse": 4408,
+   "rows": [
+    {
+     "surface": "uṣṇīṣatapanīgojīgrīvorunābhimadhyagam",
+     "gloss": "ushnisha-tapana-goji-neck-thigh-navel-middle-gone",
+     "grounds": "gone through ushnisha tapana goji neck thigh navel middle",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What passes through ushnisha tapana goji neck thigh and navel middle?",
+   "premises": [
+    "ushnisha tapana goji neck thigh navel middle are named",
+    "gone through is stated",
+    "single compound term"
+   ],
+   "inference": "The verse describes something passing through those body points.",
+   "uncertainties": [
+    "head noun omitted"
+   ],
+   "plain_english": "It passes through ushnisha, tapana, goji, neck, thigh, and navel middle."
+  },
+  {
+   "verse": 4409,
+   "rows": [
+    {
+     "surface": "yaduṣṇīṣakakrudvaṃśakhaṇḍasphikpārṣṇimadhyagam",
+     "gloss": "that-ushnisha-anger-lineage-fragment-hip-heel-middle-gone",
+     "grounds": "gone through that ushnisha anger lineage fragment hip heel middle",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What passes through that ushnisha anger lineage fragment hip and heel middle?",
+   "premises": [
+    "that ushnisha anger lineage fragment hip heel middle are named",
+    "gone through is stated",
+    "single compound term"
+   ],
+   "inference": "The verse describes something passing through those points.",
+   "uncertainties": [
+    "head noun omitted"
+   ],
+   "plain_english": "It passes through that ushnisha, anger, lineage fragment, hip, and heel middle."
+  },
+  {
+   "verse": 4410,
+   "rows": [
+    {
+     "surface": "mūrdhnaḥ",
+     "gloss": "head",
+     "grounds": "from head",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "śravaṇapālyantaṃ",
+     "gloss": "ear-protection-end",
+     "grounds": "end of ear protection",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "gulpagrīvāṃsamadhyagam",
+     "gloss": "ankle-neck-shoulder-middle-gone",
+     "grounds": "gone through ankle neck shoulder middle",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What goes from head to ear protection end through ankle neck shoulder middle?",
+   "premises": [
+    "from head is stated",
+    "ear protection end is stated",
+    "ankle neck shoulder middle is stated"
+   ],
+   "inference": "The verse traces a path from head to ear protection end through those points.",
+   "uncertainties": [
+    "exact path sense"
+   ],
+   "plain_english": "From the head to the end of ear protection, it goes through ankle, neck, and shoulder middle."
+  },
+  {
+   "verse": 4411,
+   "rows": [
+    {
+     "surface": "pārśvājasūtrādadhikā",
+     "gloss": "side-thread-from-excess",
+     "grounds": "excess from side thread",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "catuṣpañcāṃśakā",
+     "gloss": "four-five-part",
+     "grounds": "four or five parts",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kakud",
+     "gloss": "hump",
+     "grounds": "hump",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "How is the hump excess from side thread in four or five parts?",
+   "premises": [
+    "side thread excess is stated",
+    "four or five parts are stated",
+    "hump is named"
+   ],
+   "inference": "The verse gives a hump measure as excess from side thread in four or five parts.",
+   "uncertainties": [
+    "exact proportion"
+   ],
+   "plain_english": "The hump is an excess from the side thread in four or five parts."
+  },
+  {
+   "verse": 4412,
+   "rows": [
+    {
+     "surface": "daśabhāgaṃ",
+     "gloss": "ten-part",
+     "grounds": "tenth part",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kaṭīsūtraṃ",
+     "gloss": "waist-thread",
+     "grounds": "waist thread",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "face",
+     "grounds": "in face",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "pṛṣṭhaṣaḍaṅgakam",
+     "gloss": "back-six-limb",
+     "grounds": "back six limb",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How is waist thread a ten-part back six-limb in the face?",
+   "premises": [
+    "waist thread is ten-part",
+    "face is stated",
+    "back six-limb is stated"
+   ],
+   "inference": "The verse relates waist thread, face, and back six-limb by a tenth part.",
+   "uncertainties": [
+    "syntax of mukhe repeated"
+   ],
+   "plain_english": "The waist thread is a ten-part back six-limb in the face."
+  },
+  {
+   "verse": 4413,
+   "rows": [
+    {
+     "surface": "jānutricaturaṃśaṃ",
+     "gloss": "knee-three-four-part",
+     "grounds": "knee three or four parts",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pārśvasūtraṃ",
+     "gloss": "side-thread",
+     "grounds": "side thread",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "face",
+     "grounds": "in face",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "face",
+     "grounds": "in face",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "How is side thread knee three or four parts in the face?",
+   "premises": [
+    "knee three or four parts are stated",
+    "side thread is named",
+    "face is repeated"
+   ],
+   "inference": "The verse relates side thread to knee parts in the face.",
+   "uncertainties": [
+    "repeated mukhe"
+   ],
+   "plain_english": "The side thread is knee three or four parts in the face."
+  },
+  {
+   "verse": 4414,
+   "rows": [
+    {
+     "surface": "sūtrātpañcāṃśakāt",
+     "gloss": "thread-from-five-part",
+     "grounds": "from thread five parts",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "parṣṇi",
+     "gloss": "heel",
+     "grounds": "heel",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pārśvaṃ",
+     "gloss": "side",
+     "grounds": "side",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "How is heel declared from thread five parts and side?",
+   "premises": [
+    "from thread five parts is stated",
+    "heel is named",
+    "side is declared"
+   ],
+   "inference": "The verse declares heel and side from a five-part thread.",
+   "uncertainties": [
+    "exact relation"
+   ],
+   "plain_english": "Thus heel and side are declared from the five-part thread."
+  },
+  {
+   "verse": 4415,
+   "rows": [
+    {
+     "surface": "mukhaṃ",
+     "gloss": "face",
+     "grounds": "face",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-pres + as"
+    },
+    {
+     "surface": "nalakābāhyādantaraṃ",
+     "gloss": "reed-outer-inner",
+     "grounds": "between reed outer and inner",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "caturaṃśakam",
+     "gloss": "four-part",
+     "grounds": "four parts",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "How may face be four parts between reed outer and inner?",
+   "premises": [
+    "face may be",
+    "reed outer inner is stated",
+    "four parts are stated"
+   ],
+   "inference": "The verse says face may be four parts between reed outer and inner.",
+   "uncertainties": [
+    "syāt modal force"
+   ],
+   "plain_english": "The face may be four parts between the reed's outer and inner."
+  },
+  {
+   "verse": 4416,
+   "rows": [
+    {
+     "surface": "bhittyāśliṣṭaṃ",
+     "gloss": "wall-clinging",
+     "grounds": "clinging to wall",
+     "morph": "ppp.nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ardhacitraṃ",
+     "gloss": "half-picture",
+     "grounds": "half picture",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dṛṣṭacitram",
+     "gloss": "seen-picture",
+     "grounds": "seen picture",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "thus",
+     "morph": "indecl."
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "smṛtam",
+     "grounds": "remembered",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "Why is wall-clinging half-picture remembered as seen-picture?",
+   "premises": [
+    "wall-clinging is stated",
+    "half picture is stated",
+    "seen picture is remembered"
+   ],
+   "inference": "The verse remembers wall-clinging half-picture as seen picture.",
+   "uncertainties": [
+    "exact doctrinal point"
+   ],
+   "plain_english": "Wall-clinging half-picture is indeed remembered as seen picture."
+  },
+  {
+   "verse": 4417,
+   "rows": [
+    {
+     "surface": "strīmānamadhunā",
+     "gloss": "woman-measure-now",
+     "grounds": "now woman measure",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "vakṣye",
+     "grounds": "I will declare",
+     "morph": "verb.1.sg.act-fut + vac"
+    },
+    {
+     "surface": "ṣaṇṇavatyaṅgulaṃ",
+     "gloss": "six-ninety-six-finger",
+     "grounds": "ninety-six fingers",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tat",
+     "gloss": "tat",
+     "grounds": "that",
+     "morph": "pron.acc.sg.n"
+    }
+   ],
+   "question": "What woman measure of ninety-six fingers will now be declared?",
+   "premises": [
+    "woman measure now is stated",
+    "I will declare is stated",
+    "ninety-six fingers is stated"
+   ],
+   "inference": "The verse announces declaration of a ninety-six-finger woman measure.",
+   "uncertainties": [
+    "exact total"
+   ],
+   "plain_english": "Now I will declare that woman measure of ninety-six fingers."
+  },
+  {
+   "verse": 4418,
+   "rows": [
+    {
+     "surface": "trimātrāṣṭayavaṃ",
+     "gloss": "three-measure-eight-yava",
+     "grounds": "three measure eight yava",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vyāsotsedha",
+     "gloss": "width-height",
+     "grounds": "width and height",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "muṣṇīṣamānakam",
+     "gloss": "ushnisha-measure",
+     "grounds": "ushnisha measure",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How is ushnisha measure three measure eight yava in width and height?",
+   "premises": [
+    "three measure eight yava is stated",
+    "width and height are stated",
+    "ushnisha measure is stated"
+   ],
+   "inference": "The verse gives ushnisha measure as three measure eight yava in width and height.",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "The ushnisha measure is three measure eight yava in width and height."
+  },
+  {
+   "verse": 4419,
+   "rows": [
+    {
+     "surface": "grīvā",
+     "gloss": "neck",
+     "grounds": "neck",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "trimātrā",
+     "gloss": "three-measure",
+     "grounds": "three measure",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-pres + as"
+    },
+    {
+     "surface": "vakṣaḥ",
+     "gloss": "chest",
+     "grounds": "chest",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "sārdhaṣaṭpañcamātrakam",
+     "gloss": "with-one-and-half-five-measure",
+     "grounds": "five and a half measure",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "How may neck be three measure and chest five and a half measure?",
+   "premises": [
+    "neck may be three measure",
+    "chest is stated",
+    "five and a half measure is stated"
+   ],
+   "inference": "The verse gives neck and chest measures in those units.",
+   "uncertainties": [
+    "syāt modal force"
+   ],
+   "plain_english": "The neck may be three measure, and the chest five and a half measure."
+  },
+  {
+   "verse": 4420,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-pres + as"
+    },
+    {
+     "surface": "ūrujānujaṅghāṅghritalānuccairanukramāt",
+     "gloss": "thigh-knee-calf-foot-sole-high-in-order",
+     "grounds": "thigh knee calf foot sole high in order",
+     "morph": "adv"
+    }
+   ],
+   "question": "How may thigh knee calf foot sole be high in order?",
+   "premises": [
+    "may be is stated",
+    "thigh knee calf foot sole high in order is stated",
+    "single compound term"
+   ],
+   "inference": "The verse states a graduated high order from thigh to sole.",
+   "uncertainties": [
+    "exact sequence"
+   ],
+   "plain_english": "May it be thigh, knee, calf, foot, sole, high in order."
+  },
+  {
+   "verse": 4421,
+   "rows": [
+    {
+     "surface": "mūrdhnaḥ",
+     "gloss": "head",
+     "grounds": "from head",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "navadaśāṅgulyaṃ",
+     "gloss": "nineteen-finger",
+     "grounds": "nineteen fingers",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "keśasīmā",
+     "gloss": "hair-limit",
+     "grounds": "hair limit",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "face",
+     "grounds": "in face",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "face",
+     "grounds": "in face",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "How is hair limit nineteen fingers from head in the face?",
+   "premises": [
+    "from head is stated",
+    "nineteen fingers is stated",
+    "hair limit face is stated"
+   ],
+   "inference": "The verse gives hair limit as nineteen fingers from head in the face.",
+   "uncertainties": [
+    "repeated mukhe"
+   ],
+   "plain_english": "From the head, the hair limit is nineteen fingers in the face."
+  },
+  {
+   "verse": 4422,
+   "rows": [
+    {
+     "surface": "lalāṭaṃ",
+     "gloss": "forehead",
+     "grounds": "forehead",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "śaramātraṃ",
+     "gloss": "arrow-measure",
+     "grounds": "arrow measure",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "in middle",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "known",
+     "morph": "ppp.nom.sg.n"
+    },
+    {
+     "surface": "purogatam",
+     "gloss": "forward-gone",
+     "grounds": "gone forward",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "How is forehead known as arrow measure in middle forward?",
+   "premises": [
+    "forehead is stated",
+    "arrow measure is stated",
+    "middle forward is stated"
+   ],
+   "inference": "The verse says forehead is known as arrow measure in the middle forward.",
+   "uncertainties": [
+    "exact spatial sense"
+   ],
+   "plain_english": "The forehead is known as arrow measure in the middle, gone forward."
+  },
+  {
+   "verse": 4423,
+   "rows": [
+    {
+     "surface": "bhrūmadhyaṃ",
+     "gloss": "brow-middle",
+     "grounds": "middle of brows",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "yavatāroccaṃ",
+     "gloss": "yava-height",
+     "grounds": "height of yava",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "length",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-pres + as"
+    },
+    {
+     "surface": "tattrimātrakam",
+     "gloss": "that-three-measure",
+     "grounds": "that three measure",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "How may brow middle length be yava height and that three measure?",
+   "premises": [
+    "brow middle is stated",
+    "yava height length is stated",
+    "that three measure is stated"
+   ],
+   "inference": "The verse gives brow middle length as yava height and that three measure.",
+   "uncertainties": [
+    "syāt modal force"
+   ],
+   "plain_english": "The brow middle length may be yava height, that three measure."
+  },
+  {
+   "verse": 4424,
+   "rows": [
+    {
+     "surface": "aṅgulena",
+     "gloss": "finger",
+     "grounds": "by finger",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "equal",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "snigdhaślakṣṇaromadhanuḥ",
+     "gloss": "smooth-glossy-hair-bow",
+     "grounds": "smooth glossy hair bow",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "equal",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "How is smooth glossy hair bow equal by finger and equal?",
+   "premises": [
+    "by finger is stated",
+    "equal is stated",
+    "smooth glossy hair bow is stated"
+   ],
+   "inference": "The verse says the smooth glossy hair bow is equal by finger and equal.",
+   "uncertainties": [
+    "exact comparison"
+   ],
+   "plain_english": "By finger, the smooth glossy hair bow is equal and equal."
+  }
+ ]
+}

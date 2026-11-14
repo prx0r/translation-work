@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p172",
  "verse": 4295,
- "question": "What traditional textual practices of reciting and teaching are compared to engaging with this subject?",
+ "question": "How should height be divided by rows?",
  "premises": [
-  "Puranas, scriptures, and Smritis are recited.",
-  "They are likewise caused to be recited."
+  "height is considered",
+  "rows are considered",
+  "it is divided into five or six parts"
  ],
- "inference": "Engagement with this subject is comparable to reciting and teaching traditional sacred texts.",
- "uncertainties": [],
- "plain_english": "Puranas, scriptures, and Smritis have been recited and likewise taught to others."
+ "inference": "Height is divided into five or six parts by rows.",
+ "uncertainties": [
+  "exact row count unclear"
+ ],
+ "plain_english": "Height should be divided into five or six parts by rows."
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p172",
  "verse": 4276,
- "question": "Which celestial and preceptorial figures are identified as foremost in their respective domains?",
+ "question": "How should the fee for others be determined by the path stated in lambasthāna?",
  "premises": [
-  "The moon-lord possesses sun-like splendor and is best.",
-  "Venus is identified as the lord of poets."
+  "lambasthāna states a path",
+  "others receive a fee",
+  "the fee should be set accordingly"
  ],
- "inference": "The moon-lord and Venus are presented as supreme exemplars in their spheres.",
- "uncertainties": [],
- "plain_english": "The lord of stars, radiant like the sun, is the best; Venus is the lord of poets."
+ "inference": "The fee for others follows the stated path.",
+ "uncertainties": [
+  "exact fee amount not specified"
+ ],
+ "plain_english": "By the path stated in lambasthāna, the fee for others should be set."
 }

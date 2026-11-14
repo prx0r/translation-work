@@ -3,19 +3,29 @@
  "verse": 4201,
  "rows": [
   {
-   "lemma": "tathaiva",
+   "lemma": "nivedya",
+   "morph": "verb.part.perf.act",
+   "grounds": "past participle of nivid"
+  },
+  {
+   "lemma": "bhūrinaivedyaṃ",
+   "morph": "noun.acc.sg.n",
+   "grounds": "compound bhūri + naivedya"
+  },
+  {
+   "lemma": "tāmbūlāccaṃ",
+   "morph": "noun.acc.sg.n",
+   "grounds": "sandhi-fused form"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverbial particle"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "juhuyānnityamāyuṣe",
-   "morph": "3.sg.act-opt+root-hu",
-   "grounds": "fused juhuyāt+nityam+āyuṣe; optative of hu"
-  },
-  {
-   "lemma": "tilataṇḍulaiḥ",
-   "morph": "instr.pl.m",
-   "grounds": "instrumental plural of tilataṇḍula"
+   "lemma": "mantravat",
+   "morph": "(indecl.)",
+   "grounds": "adverbial -vat"
   }
  ]
 }

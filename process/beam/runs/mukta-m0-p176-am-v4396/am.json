@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p176",
  "verse": 4396,
- "question": "What should one chant while remembering garuḍa mantra?",
+ "question": "What part should be from elbow to wrist end?",
  "premises": [
-  "The verse says harmful eating.",
-  "It says remembering garuḍa mantra chant."
+  "part should-be is stated",
+  "elbow is named",
+  "from that wrist end is named"
  ],
- "inference": "One chants while remembering garuḍa mantra against harmful eating.",
+ "inference": "A part should be from elbow to wrist end.",
  "uncertainties": [
-  "Enemy or poison unclear."
+  "numeric value not stated"
  ],
- "plain_english": "Chant while remembering garuḍa mantra against harmful eating."
+ "plain_english": "A part should extend from elbow to wrist end."
 }

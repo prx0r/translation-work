@@ -1,0 +1,1061 @@
+{
+ "song": "mukta-m0-p175",
+ "items": [
+  {
+   "verse": 4351,
+   "rows": [
+    {
+     "surface": "purogamaḥ",
+     "gloss": "foremost",
+     "grounds": "legacy hint foremost",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "aṣṭāṃśaḥ",
+     "gloss": "eighth-part",
+     "grounds": "legacy hint eighth-part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭāṃśa",
+     "gloss": "eighth-part",
+     "grounds": "legacy hint eighth-part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kandharo",
+     "gloss": "neck",
+     "grounds": "legacy hint neck",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What proportion of the body should the foremost neck occupy?",
+   "premises": [
+    "The foremost neck is an eighth part.",
+    "It becomes the neck."
+   ],
+   "inference": "The neck is measured as one eighth part.",
+   "uncertainties": [
+    "Exact anatomical referent is unclear."
+   ],
+   "plain_english": "The foremost neck should be an eighth part and becomes the neck."
+  },
+  {
+   "verse": 4352,
+   "rows": [
+    {
+     "surface": "dhanvākāre",
+     "gloss": "bow-shaped",
+     "grounds": "legacy hint bow-shaped",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "in",
+     "grounds": "legacy hint in",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "its-middle",
+     "grounds": "legacy hint its-middle",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "bhrūmadhyāt",
+     "gloss": "between-brows",
+     "grounds": "legacy hint between-brows",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "dvyaṃśakaṃ",
+     "gloss": "two-parts",
+     "grounds": "legacy hint two-parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "is-considered",
+     "grounds": "legacy hint is-considered",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many parts are assigned to the bow-shaped middle between the brows?",
+   "premises": [
+    "The bow-shaped middle is between the brows.",
+    "It is considered two parts."
+   ],
+   "inference": "The brow-middle receives two parts.",
+   "uncertainties": [
+    "The exact bow-shaped region is unspecified."
+   ],
+   "plain_english": "In the bow-shaped middle, between the brows, two parts are considered."
+  },
+  {
+   "verse": 4353,
+   "rows": [
+    {
+     "surface": "madhyāṃśam",
+     "gloss": "middle-part",
+     "grounds": "legacy hint middle-part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cūlyekā",
+     "gloss": "top",
+     "grounds": "legacy hint top",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "share",
+     "grounds": "legacy hint share",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ardhāṃśato",
+     "gloss": "half-part",
+     "grounds": "legacy hint half-part",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What share becomes the top middle part by half-part measure?",
+   "premises": [
+    "The middle part is also a top share.",
+    "It becomes by half-part measure."
+   ],
+   "inference": "The top middle part is fixed by half-part measure.",
+   "uncertainties": [
+    "The exact top region is unclear."
+   ],
+   "plain_english": "The middle part also becomes a top share by half-part measure."
+  },
+  {
+   "verse": 4354,
+   "rows": [
+    {
+     "surface": "caturbhāgān",
+     "gloss": "four-parts",
+     "grounds": "legacy hint four-parts",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vitau",
+     "gloss": "with",
+     "grounds": "legacy hint with",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ekāṃśa",
+     "gloss": "one-part",
+     "grounds": "legacy hint one-part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhikau",
+     "gloss": "more",
+     "grounds": "legacy hint more",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kuṇḍalānvitau",
+     "gloss": "earringed",
+     "grounds": "legacy hint earringed",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "How many parts are assigned to the earringed pair with one extra part?",
+   "premises": [
+    "The pair is earringed.",
+    "They have one part more than four parts."
+   ],
+   "inference": "The earringed pair receives five parts.",
+   "uncertainties": [
+    "The base four parts are not fully specified."
+   ],
+   "plain_english": "The earringed pair has four parts plus one more part."
+  },
+  {
+   "verse": 4355,
+   "rows": [
+    {
+     "surface": "tāvapi",
+     "gloss": "those-two",
+     "grounds": "legacy hint those-two",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "śrotrāvantaṃ",
+     "gloss": "eared",
+     "grounds": "legacy hint eared",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimnagaṃ",
+     "gloss": "low",
+     "grounds": "legacy hint low",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bahirunnatam",
+     "gloss": "outside-raised",
+     "grounds": "legacy hint outside-raised",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What shape should the eared pair have outside and low?",
+   "premises": [
+    "Those two are eared.",
+    "They are low and outside-raised."
+   ],
+   "inference": "The eared pair is low with raised outer form.",
+   "uncertainties": [
+    "The exact outer shape is unspecified."
+   ],
+   "plain_english": "Those two eared forms are low and raised outside."
+  },
+  {
+   "verse": 4356,
+   "rows": [
+    {
+     "surface": "dvibhāgāyatam",
+     "gloss": "two-parts",
+     "grounds": "legacy hint two-parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "legacy hint one-part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyāsamadhyaṃ",
+     "gloss": "width",
+     "grounds": "legacy hint width",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "locanam",
+     "gloss": "eye",
+     "grounds": "legacy hint eye",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width and length proportions are assigned to the eye?",
+   "premises": [
+    "The eye has two parts in length.",
+    "Its middle width is one part."
+   ],
+   "inference": "The eye is two parts long and one part wide in the middle.",
+   "uncertainties": [
+    "The exact measurement unit is unspecified."
+   ],
+   "plain_english": "The eye is two parts long and one part wide in the middle."
+  },
+  {
+   "verse": 4357,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "legacy hint in-its-middle",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "legacy hint its",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pañcāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "legacy hint five-parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jyotirdṛṣṭiḥ",
+     "gloss": "light-pupil",
+     "grounds": "legacy hint light-pupil",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadardhataḥ",
+     "gloss": "half-of-that",
+     "grounds": "legacy hint half-of-that",
+     "morph": "abl.sg"
+    }
+   ],
+   "question": "What proportion is assigned to the light-pupil in the eye's middle?",
+   "premises": [
+    "In its middle, the light-pupil is five parts.",
+    "Half of that is also specified."
+   ],
+   "inference": "The pupil is five parts, with a half-part relation.",
+   "uncertainties": [
+    "The half-part relation is not fully explained."
+   ],
+   "plain_english": "In the eye's middle, the light-pupil is five parts, half of that."
+  },
+  {
+   "verse": 4358,
+   "rows": [
+    {
+     "surface": "mānādhike",
+     "gloss": "measure-excess",
+     "grounds": "legacy hint measure-excess",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "aṣṭabhāgārdha",
+     "gloss": "eighth-part-half",
+     "grounds": "legacy hint eighth-part-half",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāsāyāme",
+     "gloss": "width-length",
+     "grounds": "legacy hint width-length",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kanīnike",
+     "gloss": "canthus",
+     "grounds": "legacy hint canthus",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What measure is assigned to the canthus in width and length?",
+   "premises": [
+    "The canthus is in width and length.",
+    "It is an eighth-part half in measure excess."
+   ],
+   "inference": "The canthus is measured as half of an eighth part.",
+   "uncertainties": [
+    "The exact excess measure is unclear."
+   ],
+   "plain_english": "The canthus is an eighth-part half in width and length."
+  },
+  {
+   "verse": 4359,
+   "rows": [
+    {
+     "surface": "urdhvāntaḥ",
+     "gloss": "upper-end",
+     "grounds": "legacy hint upper-end",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pakṣmavistāraḥ",
+     "gloss": "eyelash-spread",
+     "grounds": "legacy hint eyelash-spread",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādāṅguṣṭhārdha",
+     "gloss": "toe-half",
+     "grounds": "legacy hint toe-half",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "legacy hint hi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What spread is assigned to the upper eyelash end?",
+   "premises": [
+    "The upper end has eyelash spread.",
+    "It is half a toe."
+   ],
+   "inference": "The upper eyelash spread equals half a toe.",
+   "uncertainties": [
+    "The toe measure is unspecified."
+   ],
+   "plain_english": "The upper eyelash spread is half a toe indeed."
+  },
+  {
+   "verse": 4360,
+   "rows": [
+    {
+     "surface": "sulocanam",
+     "gloss": "beautiful-eye",
+     "grounds": "legacy hint beautiful-eye",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anidraṃ",
+     "gloss": "sleepless",
+     "grounds": "legacy hint sleepless",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "karmaṇe",
+     "gloss": "for-action",
+     "grounds": "legacy hint for-action",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "sarvadehinām",
+     "gloss": "all-bodied",
+     "grounds": "legacy hint all-bodied",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What kind of eye should all embodied beings have for action?",
+   "premises": [
+    "The beautiful eye should be sleepless.",
+    "It is for action of all embodied beings."
+   ],
+   "inference": "All embodied beings should have a sleepless beautiful eye for action.",
+   "uncertainties": [
+    "The action context is unspecified."
+   ],
+   "plain_english": "The beautiful eye should be sleepless for the action of all embodied beings."
+  },
+  {
+   "verse": 4361,
+   "rows": [
+    {
+     "surface": "rūkṣekṣaṇe",
+     "gloss": "rough-eye",
+     "grounds": "legacy hint rough-eye",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vidhātavye",
+     "gloss": "to-be-made",
+     "grounds": "legacy hint to-be-made",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "aṣṭāṃśārdhādhike",
+     "gloss": "eighth-part-half-excess",
+     "grounds": "legacy hint eighth-part-half-excess",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "mate",
+     "gloss": "opinion",
+     "grounds": "legacy hint opinion",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What excess measure is assigned to the rough eye to be made?",
+   "premises": [
+    "The rough eye is to be made.",
+    "The opinion gives an eighth-part half excess."
+   ],
+   "inference": "The rough eye is made with an eighth-part half excess.",
+   "uncertainties": [
+    "The exact excess is unclear."
+   ],
+   "plain_english": "For the rough eye to be made, an eighth-part half excess is the opinion."
+  },
+  {
+   "verse": 4362,
+   "rows": [
+    {
+     "surface": "netrayor",
+     "gloss": "of-eyes",
+     "grounds": "legacy hint of-eyes",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "between",
+     "grounds": "legacy hint between",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃśaṃ",
+     "gloss": "two-parts",
+     "grounds": "legacy hint two-parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcinnyūnaṃ",
+     "gloss": "slightly-less",
+     "grounds": "legacy hint slightly-less",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "may-be",
+     "grounds": "legacy hint may-be",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "bhavet",
+     "grounds": "legacy hint bhavet",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What distance between the eyes may be slightly less than two parts?",
+   "premises": [
+    "The distance between the eyes is two parts.",
+    "It may be slightly less."
+   ],
+   "inference": "The inter-eye distance is two parts or slightly less.",
+   "uncertainties": [
+    "The exact lesser amount is unspecified."
+   ],
+   "plain_english": "The distance between the eyes is two parts, or slightly less."
+  },
+  {
+   "verse": 4363,
+   "rows": [
+    {
+     "surface": "pādena",
+     "gloss": "by-foot",
+     "grounds": "legacy hint by-foot",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "prāntasaṃyuktā",
+     "gloss": "edge-joined",
+     "grounds": "legacy hint edge-joined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidheyā",
+     "gloss": "should-be-made",
+     "grounds": "legacy hint should-be-made",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "legacy hint syāt",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "legacy hint best-twice-born",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "How should the edge-joined form be made by foot measure?",
+   "premises": [
+    "The edge-joined form should be made.",
+    "It is by foot measure."
+   ],
+   "inference": "The edge-joined form is made by foot measure.",
+   "uncertainties": [
+    "The exact edge is unspecified."
+   ],
+   "plain_english": "The edge-joined form should be made by foot measure, best twice-born."
+  },
+  {
+   "verse": 4364,
+   "rows": [
+    {
+     "surface": "tāvad",
+     "gloss": "so-much",
+     "grounds": "legacy hint so-much",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccastadākāraḥ",
+     "gloss": "raised",
+     "grounds": "legacy hint raised",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tilapuṣpasamo",
+     "gloss": "sesame-flower-like",
+     "grounds": "legacy hint sesame-flower-like",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What raised form becomes like a sesame flower?",
+   "premises": [
+    "The raised form is so much.",
+    "It becomes like a sesame flower."
+   ],
+   "inference": "The raised form resembles a sesame flower.",
+   "uncertainties": [
+    "The exact raised measure is unspecified."
+   ],
+   "plain_english": "The raised form becomes like a sesame flower."
+  },
+  {
+   "verse": 4365,
+   "rows": [
+    {
+     "surface": "puṭavat",
+     "gloss": "like-cup",
+     "grounds": "legacy hint like-cup",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādabhāgārdham",
+     "gloss": "foot-part-half",
+     "grounds": "legacy hint foot-part-half",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhikonnatisaṃyutā",
+     "gloss": "excess-raised-joined",
+     "grounds": "legacy hint excess-raised-joined",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What cup-like form is joined with excess raised half a foot part?",
+   "premises": [
+    "The form is like a cup.",
+    "It is joined with excess raised half a foot part."
+   ],
+   "inference": "The cup-like form includes an excess raised half foot part.",
+   "uncertainties": [
+    "The exact cup region is unspecified."
+   ],
+   "plain_english": "Like a cup, it is joined with excess raised half a foot part."
+  },
+  {
+   "verse": 4366,
+   "rows": [
+    {
+     "surface": "ṛju",
+     "gloss": "straight",
+     "grounds": "legacy hint straight",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiryak",
+     "gloss": "slanted",
+     "grounds": "legacy hint slanted",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripāda",
+     "gloss": "third-part",
+     "grounds": "legacy hint third-part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "onamiṣṭāṃśena",
+     "gloss": "down",
+     "grounds": "legacy hint down",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "iṣṭāṃśena",
+     "gloss": "desired-part",
+     "grounds": "legacy hint desired-part",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "viśālayuk",
+     "gloss": "wide-joined",
+     "grounds": "legacy hint wide-joined",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the straight and slanted third part joined wide?",
+   "premises": [
+    "The third part is straight and slanted.",
+    "It is joined wide by down and desired parts."
+   ],
+   "inference": "The third part is wide-joined through down and desired parts.",
+   "uncertainties": [
+    "The exact down and desired parts are unclear."
+   ],
+   "plain_english": "The straight and slanted third part is wide-joined by down and desired parts."
+  },
+  {
+   "verse": 4367,
+   "rows": [
+    {
+     "surface": "nāsāntāṃśaṃ",
+     "gloss": "nose-end-part",
+     "grounds": "legacy hint nose-end-part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "natāgraṃ",
+     "gloss": "bent-tip",
+     "grounds": "legacy hint bent-tip",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "puṭe",
+     "gloss": "in-cup",
+     "grounds": "legacy hint in-cup",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vipule",
+     "gloss": "wide",
+     "grounds": "legacy hint wide",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should the nose-end part with bent tip be in a wide cup?",
+   "premises": [
+    "The nose-end part has a bent tip.",
+    "It should be in a wide cup."
+   ],
+   "inference": "The nose-end part with bent tip is placed in a wide cup.",
+   "uncertainties": [
+    "The exact cup region is unspecified."
+   ],
+   "plain_english": "The nose-end part with bent tip should be in a wide cup."
+  },
+  {
+   "verse": 4368,
+   "rows": [
+    {
+     "surface": "caturaṃśāyatatayā",
+     "gloss": "four-parts-length",
+     "grounds": "legacy hint four-parts-length",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "nīvramaṃśaṃ",
+     "gloss": "lip-part",
+     "grounds": "legacy hint lip-part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samālikam",
+     "gloss": "equal",
+     "grounds": "legacy hint equal",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What lip part is equal by four-parts length?",
+   "premises": [
+    "The lip part is equal.",
+    "It is by four-parts length."
+   ],
+   "inference": "The lip part is equal according to four-parts length.",
+   "uncertainties": [
+    "The exact lip is unspecified."
+   ],
+   "plain_english": "The lip part is equal by four-parts length."
+  },
+  {
+   "verse": 4369,
+   "rows": [
+    {
+     "surface": "adharoṣṭhāya",
+     "gloss": "lower-lip",
+     "grounds": "legacy hint lower-lip",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "taddvyaṃśam",
+     "gloss": "its-two-parts",
+     "grounds": "legacy hint its-two-parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āyāmāttu",
+     "gloss": "from-length",
+     "grounds": "legacy hint from-length",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "viśālakam",
+     "gloss": "wide",
+     "grounds": "legacy hint wide",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width is assigned to the lower lip from its length?",
+   "premises": [
+    "The lower lip has two parts.",
+    "It is wide from length."
+   ],
+   "inference": "The lower lip is two parts wide from length.",
+   "uncertainties": [
+    "The exact length unit is unspecified."
+   ],
+   "plain_english": "The lower lip is two parts wide from length."
+  },
+  {
+   "verse": 4370,
+   "rows": [
+    {
+     "surface": "hanucakraṃ",
+     "gloss": "jaw-circle",
+     "grounds": "legacy hint jaw-circle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "legacy hint two-parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "hanvagraṃ",
+     "gloss": "bow-tip",
+     "grounds": "legacy hint bow-tip",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcidunnatam",
+     "gloss": "slightly-raised",
+     "grounds": "legacy hint slightly-raised",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What should the jaw-circle be, with slightly raised bow-tip?",
+   "premises": [
+    "The jaw-circle should be two parts.",
+    "Its bow-tip is slightly raised."
+   ],
+   "inference": "The jaw-circle is two parts with a slightly raised bow-tip.",
+   "uncertainties": [
+    "The exact jaw region is unspecified."
+   ],
+   "plain_english": "The jaw-circle should be two parts, with a slightly raised bow-tip."
+  },
+  {
+   "verse": 4371,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśaṃ",
+     "gloss": "eighth-part",
+     "grounds": "legacy hint eighth-part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇavistāraṃ",
+     "gloss": "ear-spread",
+     "grounds": "legacy hint ear-spread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcapañcāṃśanāsiyuk",
+     "gloss": "five-five-parts-nose",
+     "grounds": "legacy hint five-five-parts-nose",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ear spread is joined with five-five parts nose?",
+   "premises": [
+    "The ear spread is an eighth part.",
+    "It is joined with five-five parts nose."
+   ],
+   "inference": "The ear spread is an eighth part joined with five-five parts nose.",
+   "uncertainties": [
+    "The exact nose relation is unclear."
+   ],
+   "plain_english": "The ear spread is an eighth part, joined with five-five parts nose."
+  },
+  {
+   "verse": 4372,
+   "rows": [
+    {
+     "surface": "pṛṣṭhakeśāvadhirmūrdhno",
+     "gloss": "back-hair-limit",
+     "grounds": "legacy hint back-hair-limit",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "face",
+     "grounds": "legacy hint face",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "caturaṅgulam",
+     "gloss": "four-angulas",
+     "grounds": "legacy hint four-angulas",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What face measure is assigned from the back hair limit of the head?",
+   "premises": [
+    "The face should be from the back hair limit of the head.",
+    "It is four angulas."
+   ],
+   "inference": "The face is four angulas from the back hair limit.",
+   "uncertainties": [
+    "The exact head limit is unspecified."
+   ],
+   "plain_english": "The face should be four angulas from the back hair limit of the head."
+  },
+  {
+   "verse": 4373,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśavistaraḥ",
+     "gloss": "eighth-part-spread",
+     "grounds": "legacy hint eighth-part-spread",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "back",
+     "grounds": "legacy hint back",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "karṇavṛtyantare",
+     "gloss": "between-ears",
+     "grounds": "legacy hint between-ears",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "legacy hint head",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What head spread is assigned between the ears at the back?",
+   "premises": [
+    "The head is at the back.",
+    "Its spread between the ears is an eighth part."
+   ],
+   "inference": "The head spread between the ears is an eighth part.",
+   "uncertainties": [
+    "The exact back region is unspecified."
+   ],
+   "plain_english": "The head spread between the ears at the back is an eighth part."
+  },
+  {
+   "verse": 4374,
+   "rows": [
+    {
+     "surface": "keśāntaṃ",
+     "gloss": "hair-limit",
+     "grounds": "legacy hint hair-limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāha",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭpañca",
+     "gloss": "six-five-parts",
+     "grounds": "legacy hint six-five-parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāgo",
+     "gloss": "bhāga",
+     "grounds": "legacy hint bhāga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭāṃśena",
+     "gloss": "eighth-part",
+     "grounds": "legacy hint eighth-part",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "nāhakam",
+     "gloss": "nāhakam",
+     "grounds": "legacy hint nāhakam",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What hair-limit measure is not six-five parts by an eighth part?",
+   "premises": [
+    "The hair limit is not six-five parts.",
+    "It is by an eighth part."
+   ],
+   "inference": "The hair limit is measured by an eighth part, not six-five parts.",
+   "uncertainties": [
+    "The exact nāhakam term is unclear."
+   ],
+   "plain_english": "The hair limit is not six-five parts; it is by an eighth part."
+  }
+ ]
+}

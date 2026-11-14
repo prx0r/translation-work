@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p175",
+ "items": [
+  {
+   "verse": 4375,
+   "rows": [
+    {
+     "surface": "skandho",
+     "gloss": "shoulder",
+     "grounds": "shoulder, nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "galasamoccaḥ",
+     "gloss": "throat-level",
+     "grounds": "compound meaning level with the throat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as, third singular",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "root, accusative or nominative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yor?",
+     "gloss": "of-which",
+     "grounds": "genitive dual form with trailing question mark",
+     "morph": "gen.du.m/n"
+    },
+    {
+     "surface": "mūlasaṃkṣayam",
+     "gloss": "root-decay",
+     "grounds": "compound meaning decay of the root",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What proportion should the shoulder bear to the throat, and what is said about root decay?",
+   "premises": [
+    "shoulder should be level with throat",
+    "root is mentioned together with decay",
+    "yor? carries an unresolved genitive reference"
+   ],
+   "inference": "The verse prescribes shoulder-throat levelness and names root decay.",
+   "uncertainties": [
+    "the referent of yor? is unclear",
+    "the exact grammatical role of mūlaṃ is ambiguous"
+   ],
+   "plain_english": "The shoulder should be level with the throat; of which? root decay."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p172",
+ "items": [
+  {
+   "verse": 4300,
+   "rows": [
+    {
+     "surface": "dvayor",
+     "gloss": "of-two",
+     "grounds": "genitive dual of dvi",
+     "morph": "gen.du.m/n"
+    },
+    {
+     "surface": "ṛkṣaphalaṃ",
+     "gloss": "nakshatra-fruit",
+     "grounds": "compound of ṛkṣa and phala, neuter",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle of pra-vac",
+     "morph": "ppp.nom/acc.sg.n"
+    },
+    {
+     "surface": "rāśiraṃśaśca",
+     "gloss": "zodiac-part-and",
+     "grounds": "compound of rāśi and aṃśa with enclitic ca",
+     "morph": "nom.sg.m; (indecl.)"
+    },
+    {
+     "surface": "ṛkṣataḥ",
+     "gloss": "from-nakshatra",
+     "grounds": "ablative singular of ṛkṣa",
+     "morph": "abl.sg.m/n"
+    }
+   ],
+   "question": "What fruit is declared for the two, and from what does the zodiac part arise?",
+   "premises": [
+    "nakshatra fruit is declared for two",
+    "zodiac part comes from nakshatra",
+    "verse links two astrological quantities"
+   ],
+   "inference": "the verse states two correspondences between nakshatra and zodiac quantities",
+   "uncertainties": [
+    "exact referent of 'two' unspecified",
+    "grammatical case of rāśiraṃśa ambiguous"
+   ],
+   "plain_english": "For the two, the nakshatra fruit is declared; and the zodiac part comes from the nakshatra."
+  }
+ ]
+}

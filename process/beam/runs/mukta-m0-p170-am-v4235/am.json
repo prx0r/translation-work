@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4235,
- "question": "In what way is the fire named by Vājapeya and other rites devoted to Vedic duty?",
+ "question": "What should be offered a hundred times with a sword after sipping and nyāsa?",
  "premises": [
-  "The figure is fire named by Vājapeya and other rites",
-  "The figure is devoted to Vedic duty"
+  "sipping is named",
+  "nyāsa is done",
+  "sword is named",
+  "hundred is named"
  ],
- "inference": "The sacrificial fire identified with Vājapeya and other rites is wholly devoted to Vedic duty",
- "uncertainties": [],
- "plain_english": "He is the fire named by the Vājapeya and other rites, devoted to the duties of the Veda."
+ "inference": "the verse instructs offering a hundred times with a sword",
+ "uncertainties": [
+  "offering substance unspecified"
+ ],
+ "plain_english": "Having sipped and done nyāsa, one should offer a hundred with a sword."
 }

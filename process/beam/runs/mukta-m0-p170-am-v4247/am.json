@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4247,
- "question": "What actions define the immortal enemy of Kaṃsa who established Ugrasena and others in kingship?",
+ "question": "What materials are listed for the temple, crystal, sugar, and guruvindaka?",
  "premises": [
-  "The figure is the enemy of Kaṃsa",
-  "The figure established Ugrasena and others in the kingdom",
-  "The figure destroys enemies",
-  "The figure is immortal"
+  "temple is named",
+  "crystal is named",
+  "sugar is named",
+  "guruvindaka is named"
  ],
- "inference": "The immortal enemy of Kaṃsa destroyed foes and established Ugrasena and others in kingship",
- "uncertainties": [],
- "plain_english": "He is the enemy of Kaṃsa, who established Ugrasena and others in the kingdom, destroyer of enemies, immortal."
+ "inference": "the verse lists temple, crystal, sugar, and guruvindaka materials",
+ "uncertainties": [
+  "exact material role unclear"
+ ],
+ "plain_english": "Temple, and crystal, and indeed sugar, guruvindaka."
 }

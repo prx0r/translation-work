@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p172",
  "verse": 4290,
- "question": "What relief from severe suffering and poverty is attributed to the subject?",
+ "question": "What measure is declared at the end with twenty-five joined to hundred?",
  "premises": [
-  "The subject pacifies terrible sorrow.",
-  "The subject destroys intense poverty."
+  "twenty-five is joined to hundred",
+  "a measure is declared",
+  "it is at the end"
  ],
- "inference": "The subject alleviates extreme suffering and removes severe poverty.",
- "uncertainties": [],
- "plain_english": "It pacifies terrible sorrow and destroys intense poverty."
+ "inference": "The declared end measure joins twenty-five to hundred.",
+ "uncertainties": [
+  "exact measure unclear"
+ ],
+ "plain_english": "It is declared as the end measure with twenty-five joined to hundred."
 }

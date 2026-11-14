@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p172",
  "verse": 4279,
- "question": "Which deities are identified as supreme among winds and aquatic beings?",
+ "question": "For how many days should offering be made with images?",
  "premises": [
-  "Pavana is identified as the lord of winds.",
-  "Varuna is identified as the lord of aquatic beings."
+  "offering may last two days or one",
+  "images accompany the offering",
+  "the rite is performed with them"
  ],
- "inference": "Pavana and Varuna hold supreme lordship over wind and water creatures respectively.",
- "uncertainties": [],
- "plain_english": "Pavana is the lord of the winds, and Varuna is the lord of aquatic creatures."
+ "inference": "Offering is made for two days or one with images.",
+ "uncertainties": [
+  "exact count depends on context"
+ ],
+ "plain_english": "One should offer for two days or one, together with images."
 }
