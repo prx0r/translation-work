@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2505,
- "question": "How are parts to be made from eleven down to two, beginning from three parts?",
+ "question": "What alternative time limits determine how long they should remain apart?",
  "premises": [
-  "The verse describes making parts.",
-  "The range runs from eleven to two.",
-  "Three parts is the starting point."
+  "A period of remaining apart is required.",
+  "Star sighting can mark the limit.",
+  "Sun sighting can mark the limit."
  ],
- "inference": "Parts are to be made from eleven down to two, starting from three parts.",
- "uncertainties": [
-  "The precise counting method is not fully explicit."
- ],
- "plain_english": "Parts are to be made from eleven down to two, starting from three parts."
+ "inference": "They should remain apart until star sighting or until sun sighting.",
+ "uncertainties": [],
+ "plain_english": "They should remain apart until the sighting of the stars or until the sighting of the sun."
 }

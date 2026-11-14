@@ -1,0 +1,1129 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2501,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māheśvarāḥ",
+     "gloss": "devotees-of-maheshvara",
+     "grounds": "followers of Śiva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śūdrāḥ",
+     "gloss": "shudras",
+     "grounds": "members of fourth class",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhasmarudrākṣadhāriṇaḥ",
+     "gloss": "ash-rudraksha-wearing",
+     "grounds": "compound: bhasma-rudrākṣa-dhārin",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which Shudra devotees of Maheshvara are included in this rule?",
+   "premises": [
+    "Some individuals are devotees of Maheshvara.",
+    "These devotees belong to the Shudra class.",
+    "They wear ash and rudraksha beads."
+   ],
+   "inference": "Shudra devotees of Maheshvara who wear ash and rudraksha are included.",
+   "uncertainties": [],
+   "plain_english": "And those Shudras who are devotees of Maheshvara and wear ash and rudraksha beads."
+  },
+  {
+   "verse": 2502,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "tathā + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrakanyānāṃ",
+     "gloss": "of-rudra-daughters",
+     "grounds": "daughters of Rudra",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "pañcācārye",
+     "gloss": "among-five-teachers",
+     "grounds": "locative context of five teachers",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃmatam",
+     "gloss": "accepted",
+     "grounds": "agreed or approved",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What acceptance applies to the daughters of Rudra among the five teachers?",
+   "premises": [
+    "The previous case establishes a rule.",
+    "The daughters of Rudra are considered.",
+    "The context includes the five teachers."
+   ],
+   "inference": "The same acceptance applies to the daughters of Rudra among the five teachers.",
+   "uncertainties": [],
+   "plain_english": "Likewise, this is also accepted for the daughters of Rudra among the five teachers."
+  },
+  {
+   "verse": 2503,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśeyuḥ",
+     "gloss": "should-touch",
+     "grounds": "prohibition of contact",
+     "morph": "3.pl.optative-active √spṛś"
+    },
+    {
+     "surface": "sapiṇḍāḥ",
+     "gloss": "sapinda-relatives",
+     "grounds": "kinsmen sharing ritual impurity",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāhakam",
+     "gloss": "cremator",
+     "grounds": "one who performs cremation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-stated",
+     "grounds": "is declared",
+     "morph": "3.sg.present-passive √kath"
+    }
+   ],
+   "question": "Who must avoid touching the cremator in that ritual context?",
+   "premises": [
+    "A cremator is involved in the rite.",
+    "Sapinda relatives are present.",
+    "A prohibition of contact is stated."
+   ],
+   "inference": "Sapinda relatives should not touch the cremator in that context.",
+   "uncertainties": [],
+   "plain_english": "It is stated that the sapinda relatives should not touch the cremator there."
+  },
+  {
+   "verse": 2504,
+   "rows": [
+    {
+     "surface": "ārtavāt",
+     "gloss": "from-menstruation",
+     "grounds": "time counted from menstruation",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dviguṇā",
+     "gloss": "twofold",
+     "grounds": "doubled duration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sūtiḥ",
+     "gloss": "birth-impurity",
+     "grounds": "impurity related to birth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the woman",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāhakam",
+     "gloss": "cremator",
+     "grounds": "one who performs cremation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the duration of birth impurity calculated relative to menstruation and the cremator?",
+   "premises": [
+    "Birth impurity is being measured.",
+    "Menstruation provides a time reference.",
+    "The cremator is also included in the rule."
+   ],
+   "inference": "Her birth impurity is twofold from menstruation and also applies to the cremator.",
+   "uncertainties": [
+    "Exact syntactic relation of dāhakam is compressed"
+   ],
+   "plain_english": "Her birth impurity is twofold from menstruation, and this also concerns the cremator."
+  },
+  {
+   "verse": 2505,
+   "rows": [
+    {
+     "surface": "nakṣatradarśanāt",
+     "gloss": "from-star-sighting",
+     "grounds": "time marked by seeing stars",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaseyuḥ",
+     "gloss": "should-dwell",
+     "grounds": "should remain",
+     "morph": "3.pl.optative-active √vas"
+    },
+    {
+     "surface": "sūryadarśanāt",
+     "gloss": "from-sun-sighting",
+     "grounds": "time marked by seeing sun",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What alternative time limits determine how long they should remain apart?",
+   "premises": [
+    "A period of remaining apart is required.",
+    "Star sighting can mark the limit.",
+    "Sun sighting can mark the limit."
+   ],
+   "inference": "They should remain apart until star sighting or until sun sighting.",
+   "uncertainties": [],
+   "plain_english": "They should remain apart until the sighting of the stars or until the sighting of the sun."
+  },
+  {
+   "verse": 2506,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāmānyam",
+     "gloss": "common",
+     "grounds": "general",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "martyānāṃ",
+     "gloss": "of-mortals",
+     "grounds": "of human beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "rule",
+     "grounds": "prescribed regulation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "proclaimed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For whom is this declared rule presented as a common regulation?",
+   "premises": [
+    "A rule has been stated.",
+    "The rule is described as common.",
+    "Mortals are the group specified."
+   ],
+   "inference": "This declared rule is a common regulation for mortals.",
+   "uncertainties": [],
+   "plain_english": "This is declared as the common rule for mortals."
+  },
+  {
+   "verse": 2507,
+   "rows": [
+    {
+     "surface": "śivagānavidāṃ",
+     "gloss": "of-shiva-song-knowers",
+     "grounds": "those skilled in songs of Śiva",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāśramaniṣeviṇām",
+     "gloss": "of-shiva-ashrama-dwellers",
+     "grounds": "those serving in a Śiva ashram",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "To which additional groups does the same common rule likewise apply?",
+   "premises": [
+    "A common rule was declared for mortals.",
+    "Knowers of Shiva songs are mentioned.",
+    "Dwellers in Shiva ashrams are mentioned."
+   ],
+   "inference": "The same rule likewise applies to knowers of Shiva songs and dwellers in Shiva ashrams.",
+   "uncertainties": [],
+   "plain_english": "Likewise, it applies to those who know the songs of Shiva and those who dwell in a Shiva ashram."
+  },
+  {
+   "verse": 2508,
+   "rows": [
+    {
+     "surface": "āśaucaṃ",
+     "gloss": "impurity",
+     "grounds": "ritual impurity period",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dāsadāsīnām",
+     "gloss": "of-male-female-servants",
+     "grounds": "servants and maidservants",
+     "morph": "m.f.gen.pl"
+    },
+    {
+     "surface": "adhiṣṭhātṛkulocitam",
+     "gloss": "fitting-master-family",
+     "grounds": "appropriate to the master's family",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whose family standard determines the impurity period for servants and maidservants?",
+   "premises": [
+    "Servants and maidservants observe impurity.",
+    "Impurity can follow a family standard.",
+    "The master's family is the relevant authority."
+   ],
+   "inference": "The impurity of servants and maidservants follows what is fitting for the master's family.",
+   "uncertainties": [],
+   "plain_english": "The impurity period for male and female servants is that which is fitting for the master's family."
+  },
+  {
+   "verse": 2509,
+   "rows": [
+    {
+     "surface": "kulaṃ",
+     "gloss": "family",
+     "grounds": "lineage or family group",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrakanyānāṃ",
+     "gloss": "of-rudra-daughters",
+     "grounds": "daughters of Rudra",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "mātṛjaṃ",
+     "gloss": "mother-born",
+     "grounds": "derived from the mother",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "proclaimed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "From which parental line is the family of Rudra daughters declared to be reckoned?",
+   "premises": [
+    "The family of Rudra daughters is specified.",
+    "Family lineage can be traced maternally or paternally.",
+    "The text declares a maternal derivation."
+   ],
+   "inference": "The family of the daughters of Rudra is declared to be maternal.",
+   "uncertainties": [],
+   "plain_english": "But the family of the daughters of Rudra is declared to be derived from the mother."
+  },
+  {
+   "verse": 2510,
+   "rows": [
+    {
+     "surface": "rājñāṃ",
+     "gloss": "of-kings",
+     "grounds": "rulers",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "purohitānāṃ",
+     "gloss": "of-priests",
+     "grounds": "royal chaplains",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśaucaṃ",
+     "gloss": "no-impurity",
+     "grounds": "absence of ritual impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛtasūtayoḥ",
+     "gloss": "in-death-birth",
+     "grounds": "in cases of death and birth",
+     "morph": "f.loc.dual"
+    }
+   ],
+   "question": "What impurity status applies to kings and priests in cases of death and birth?",
+   "premises": [
+    "Kings are subject to ritual rules.",
+    "Priests are subject to ritual rules.",
+    "Death and birth normally cause impurity."
+   ],
+   "inference": "Kings and priests have no impurity in cases of death and birth.",
+   "uncertainties": [],
+   "plain_english": "For kings and priests there is no impurity in cases of death and birth."
+  },
+  {
+   "verse": 2511,
+   "rows": [
+    {
+     "surface": "gṛhiṇaḥ",
+     "gloss": "householder",
+     "grounds": "one who has a household",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agṛhiṇaḥ",
+     "gloss": "non-householder",
+     "grounds": "one without a household",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vratayuktasya",
+     "gloss": "of-vow-endowed",
+     "grounds": "one engaged in a vow",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "in-all-cases",
+     "grounds": "everywhere or always",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does household status affect the rule for one endowed with a vow in all cases?",
+   "premises": [
+    "A person may be a householder or not.",
+    "The person is endowed with a vow.",
+    "The rule is stated as applying in all cases."
+   ],
+   "inference": "For one endowed with a vow, the rule applies in all cases whether householder or not.",
+   "uncertainties": [
+    "Predicate carried over from surrounding verses"
+   ],
+   "plain_english": "Whether a householder or not, for one endowed with a vow this applies in all cases."
+  },
+  {
+   "verse": 2512,
+   "rows": [
+    {
+     "surface": "hṛhasthānāṃ",
+     "gloss": "of-heart-dwellers",
+     "grounds": "those established in the heart",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśaucaṃ",
+     "gloss": "no-impurity",
+     "grounds": "absence of ritual impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nitye",
+     "gloss": "in-daily-rites",
+     "grounds": "in regular observances",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naimittike",
+     "gloss": "in-occasional-rites",
+     "grounds": "in special observances",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What impurity status applies to heart-dwellers in daily and occasional rites?",
+   "premises": [
+    "Heart-dwellers are considered.",
+    "Rites may be daily or occasional.",
+    "Impurity can restrict ritual performance."
+   ],
+   "inference": "For heart-dwellers there is no impurity in daily or occasional rites.",
+   "uncertainties": [
+    "hṛhasthānāṃ may be a variant spelling of hṛtstha/hṛdistha"
+   ],
+   "plain_english": "And for those who dwell in the heart there is no impurity in daily or occasional rites."
+  },
+  {
+   "verse": 2513,
+   "rows": [
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "ritual bathing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vratīnaḥ",
+     "gloss": "of-vowed-ones",
+     "grounds": "those observing vows",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "prescribed",
+     "grounds": "stated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "as a distinct act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pākabhujo",
+     "gloss": "if-cooked-food-eater",
+     "grounds": "if one eats cooked food",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition is a separate bath not prescribed for one observing a vow?",
+   "premises": [
+    "A separate bath may be prescribed.",
+    "The person is observing a vow.",
+    "Eating cooked food is a possible condition."
+   ],
+   "inference": "A separate bath is not prescribed for the vowed one if he eats cooked food.",
+   "uncertainties": [
+    "Condition and subject relation are syntactically compressed"
+   ],
+   "plain_english": "And a separate bath is not prescribed for one observing a vow, if he eats cooked food."
+  },
+  {
+   "verse": 2514,
+   "rows": [
+    {
+     "surface": "parityayet",
+     "gloss": "should-abandon",
+     "grounds": "should set aside",
+     "morph": "3.sg.optative-active √tyaj"
+    },
+    {
+     "surface": "parārthaṃ",
+     "gloss": "for-others",
+     "grounds": "for the sake of others",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokasaṃvaraṇāya",
+     "gloss": "for-world-protection",
+     "grounds": "to protect or shield the world",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purposes may the vowed observance be set aside?",
+   "premises": [
+    "An observance may be abandoned in some cases.",
+    "Acting for others is a possible purpose.",
+    "Protecting the world is a possible purpose."
+   ],
+   "inference": "One may set it aside for the sake of others or for the protection of the world.",
+   "uncertainties": [
+    "Object of parityayet is implied from context"
+   ],
+   "plain_english": "One should set it aside for the sake of others or for the protection of the world."
+  },
+  {
+   "verse": 2515,
+   "rows": [
+    {
+     "surface": "jñātīnāṃ",
+     "gloss": "of-relatives",
+     "grounds": "kinsmen",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "strīṣu jātāsu",
+     "gloss": "when-women-born",
+     "grounds": "when female children are born",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "nāśaucaṃ",
+     "gloss": "no-impurity",
+     "grounds": "absence of ritual impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pravidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "is enjoined",
+     "morph": "3.sg.present-passive √dhā"
+    }
+   ],
+   "question": "What impurity rule applies to relatives when female children are born?",
+   "premises": [
+    "Birth can cause ritual impurity.",
+    "The birth of female children is specified.",
+    "The rule concerns relatives."
+   ],
+   "inference": "No impurity is prescribed for relatives when female children are born.",
+   "uncertainties": [],
+   "plain_english": "No impurity is prescribed for relatives when female children are born."
+  },
+  {
+   "verse": 2516,
+   "rows": [
+    {
+     "surface": "tatrāpi",
+     "gloss": "even-there",
+     "grounds": "even in that case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tryaham",
+     "gloss": "three-days",
+     "grounds": "period of three days",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśaucaṃ",
+     "gloss": "impurity",
+     "grounds": "ritual impurity period",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parataḥ",
+     "gloss": "beyond",
+     "grounds": "after or beyond",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcapauruṣāt",
+     "gloss": "five-generations",
+     "grounds": "beyond five persons or generations",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What impurity duration applies beyond the fifth generation in that case?",
+   "premises": [
+    "An exception or qualification is introduced.",
+    "A duration of three days is mentioned.",
+    "A limit of five generations is specified."
+   ],
+   "inference": "Even there, impurity lasts three days beyond the fifth generation.",
+   "uncertainties": [
+    "Scope of parataḥ pañcapauruṣāt is context-dependent"
+   ],
+   "plain_english": "Even in that case, there is impurity for three days beyond the fifth generation."
+  },
+  {
+   "verse": 2517,
+   "rows": [
+    {
+     "surface": "viprasya",
+     "gloss": "of-brahmin",
+     "grounds": "of a Brahmin",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vidhinoḍhāsu",
+     "gloss": "in-ritually-married",
+     "grounds": "in women married according to rule",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "raktādyāsu",
+     "gloss": "in-blood-and-others",
+     "grounds": "in blood-related and similar cases",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "tisṛṣu",
+     "gloss": "in-three",
+     "grounds": "in three cases",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "now or then",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which three categories of ritually married women are specified for a Brahmin?",
+   "premises": [
+    "The case of a Brahmin is considered.",
+    "Ritually married women are specified.",
+    "Three categories including blood-related ones are indicated."
+   ],
+   "inference": "For a Brahmin, the rule concerns three categories of ritually married women, beginning with blood-related ones.",
+   "uncertainties": [
+    "Exact referents of raktādyāsu are not fully specified"
+   ],
+   "plain_english": "For a Brahmin, in the case of three ritually married women, beginning with those related by blood."
+  },
+  {
+   "verse": 2518,
+   "rows": [
+    {
+     "surface": "anyāyajānāṃ",
+     "gloss": "of-unlawfully-born",
+     "grounds": "those born unlawfully",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śuddhiḥ",
+     "gloss": "purification",
+     "grounds": "ritual purification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitrivedadinarddhitaḥ",
+     "gloss": "by-two-three-veda-days",
+     "grounds": "measured by two or three Veda-days",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What purification period is prescribed for those born unlawfully?",
+   "premises": [
+    "Unlawfully born persons are considered.",
+    "Purification is required.",
+    "A duration of two or three Veda-days is indicated."
+   ],
+   "inference": "The purification of those born unlawfully is measured by two or three Veda-days.",
+   "uncertainties": [
+    "Meaning of vedadinarddhitaḥ is uncertain"
+   ],
+   "plain_english": "But the purification of those born unlawfully is determined by two or three Veda-days."
+  },
+  {
+   "verse": 2519,
+   "rows": [
+    {
+     "surface": "sādhāraṇastriyaḥ",
+     "gloss": "common-women",
+     "grounds": "women held in common",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūtāḥ",
+     "gloss": "pure",
+     "grounds": "ritually pure",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "never",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purity status is attributed to women held in common?",
+   "premises": [
+    "Women held in common are identified.",
+    "Ritual purity is being assessed.",
+    "The text gives an absolute negation."
+   ],
+   "inference": "Women held in common are never pure.",
+   "uncertainties": [],
+   "plain_english": "And those women who are held in common are never pure."
+  },
+  {
+   "verse": 2520,
+   "rows": [
+    {
+     "surface": "mahāntaḥ",
+     "gloss": "great-ones",
+     "grounds": "eminent persons",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantriṇaḥ",
+     "gloss": "ministers",
+     "grounds": "counselors or officials",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktāḥ",
+     "gloss": "devotees",
+     "grounds": "devoted",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "maheśvare",
+     "gloss": "to-maheshvara",
+     "grounds": "to Śiva",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What devotional condition qualifies great ones and ministers for the following rule?",
+   "premises": [
+    "Great ones and ministers are mentioned.",
+    "A special rule follows for them.",
+    "Devotion to Maheshvara is stated as a condition."
+   ],
+   "inference": "If great ones and ministers are devotees of Maheshvara, the following rule applies to them.",
+   "uncertainties": [],
+   "plain_english": "If great ones and ministers are devotees of Maheshvara."
+  },
+  {
+   "verse": 2521,
+   "rows": [
+    {
+     "surface": "dinaiḥ",
+     "gloss": "by-days",
+     "grounds": "by means of days",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "viṃśatibhiḥ",
+     "gloss": "twenty",
+     "grounds": "count of twenty",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śuddhāḥ",
+     "gloss": "purified",
+     "grounds": "ritually purified",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcaviṃśatibhiḥ",
+     "gloss": "twenty-five",
+     "grounds": "count of twenty-five",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pare",
+     "gloss": "others",
+     "grounds": "other persons",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What differing purification periods apply to these devotees and to others?",
+   "premises": [
+    "Purification periods are being specified.",
+    "One group becomes pure in twenty days.",
+    "Another group becomes pure in twenty-five days."
+   ],
+   "inference": "Some are purified in twenty days, while others are purified in twenty-five days.",
+   "uncertainties": [],
+   "plain_english": "Some are purified in twenty days, and others in twenty-five days."
+  },
+  {
+   "verse": 2522,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "of that person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "for that duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tikṣau",
+     "gloss": "in-tikṣu",
+     "grounds": "uncertain term in context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śuddhiḥ",
+     "gloss": "purification",
+     "grounds": "ritual purification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "for as many as",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "those specified",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dināni",
+     "gloss": "days",
+     "grounds": "days",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How long does purification last in relation to the specified number of days?",
+   "premises": [
+    "Purification is being measured.",
+    "A duration is correlated with a number of days.",
+    "The period lasts as long as those days."
+   ],
+   "inference": "His purification lasts for as many days as those specified days.",
+   "uncertainties": [
+    "Meaning of tikṣau is unclear"
+   ],
+   "plain_english": "His purification lasts for as many days as those days."
+  },
+  {
+   "verse": 2523,
+   "rows": [
+    {
+     "surface": "trikālasnānapūjāgnijapahomapurassaram",
+     "gloss": "preceded-by-three-baths-worship-fire-japa-homa",
+     "grounds": "compound listing ritual acts done three times daily",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What sequence of ritual acts must precede the observance described here?",
+   "premises": [
+    "A ritual observance is being qualified.",
+    "Bathing, worship, fire rites, japa, and homa are listed.",
+    "These acts are performed three times daily."
+   ],
+   "inference": "The observance must be preceded by bath, worship, fire rites, japa, and homa performed three times daily.",
+   "uncertainties": [],
+   "plain_english": "Preceded by bathing, worship, fire rites, mantra recitation, and oblation performed at the three times of day."
+  },
+  {
+   "verse": 2524,
+   "rows": [
+    {
+     "surface": "yogaṃ",
+     "gloss": "practice",
+     "grounds": "yogic or ritual practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "in absence of",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conditional temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "omission or interruption",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "even-then",
+     "grounds": "even in that case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "at the conclusion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dinatrayam",
+     "gloss": "three-days",
+     "grounds": "period of three days",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What remedial period applies when the prescribed practice is interrupted?",
+   "premises": [
+    "The prescribed practice may be interrupted.",
+    "A loss or omission is acknowledged.",
+    "A concluding period is specified."
+   ],
+   "inference": "If there is loss of the practice, then even in that case three days are required at the end.",
+   "uncertainties": [
+    "Exact remedial action during dinatrayam is implied"
+   ],
+   "plain_english": "When there is an interruption of the practice, even then three days are required at the end."
+  }
+ ]
+}

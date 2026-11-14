@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2531,
- "question": "What pinnacle form belongs to four halls in assembly-hall shape?",
+ "question": "Does presence outside the front hall constitute a ritual fault?",
  "premises": [
-  "four halls are referenced",
-  "pinnacle is named",
-  "assembly-hall form is named"
+  "The location is outside the front hall",
+  "A fault is being considered",
+  "The text denies that it counts as a fault"
  ],
- "inference": "The pinnacle of four halls takes assembly-hall form.",
- "uncertainties": [
-  "exact pinnacle type"
- ],
- "plain_english": "The pinnacle of four halls is in assembly-hall form."
+ "inference": "Being outside the front hall is not considered a fault.",
+ "uncertainties": [],
+ "plain_english": "But being outside the front hall is not considered a fault."
 }

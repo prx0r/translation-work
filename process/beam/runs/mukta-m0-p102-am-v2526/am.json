@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2526,
- "question": "Which alinda and intervening-space variants are permitted for the hall?",
+ "question": "What additional ritual duty must be performed at the end for two days?",
  "premises": [
-  "variants are listed",
-  "alinda may be present",
-  "space may intervene"
+  "An internal sacrifice is prescribed",
+  "It must be performed by that person",
+  "The performance lasts two days at the end"
  ],
- "inference": "The hall may be configured with or without alinda and intervening space.",
- "uncertainties": [
-  "exact architectural referent of alinda"
- ],
- "plain_english": "With alinda or without alinda, or with intervening space, but."
+ "inference": "The internal sacrifice must also be performed for two days at the conclusion.",
+ "uncertainties": [],
+ "plain_english": "And he should also perform the internal sacrifice at the end for two days."
 }

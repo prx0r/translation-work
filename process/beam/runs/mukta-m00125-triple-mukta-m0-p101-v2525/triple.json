@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "for-whom",
+     "grounds": "relative pronoun referring to the one for whom proper observance becomes possible",
+     "morph": "pron.rel.m.gen.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "indeclinable indicating completeness or correctness of observance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "expresses potential or conditional possibility",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "demonstrative pronoun referring back to the qualified person",
+     "morph": "pron.dem.m.inst.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation to perform the act",
+     "morph": "gerundive.n.nom.sg √kṛ"
+    },
+    {
+     "surface": "samayinā",
+     "gloss": "by-initiate",
+     "grounds": "instrumental agent; samayin denotes the first grade of initiate",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "arcanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual worship to be performed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which initiate is obligated to perform worship when proper observance becomes possible?",
+   "premises": [
+    "Proper observance may become possible for a given person.",
+    "That person is identified as a samayin initiate.",
+    "Worship is prescribed as an obligatory act."
+   ],
+   "inference": "A samayin for whom proper observance becomes possible must perform the worship.",
+   "uncertainties": [
+    "The precise scope of the worship referred to depends on the preceding verses' context of compensatory observance."
+   ],
+   "plain_english": "When proper observance becomes possible for someone, that samayin should perform the worship."
+  }
+ ]
+}
