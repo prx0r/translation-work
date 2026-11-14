@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p09",
  "verse": 215,
- "question": "What did the sage drink at each time?",
+ "question": "Which final items complete this portion of the substance enumeration?",
  "premises": [
-  "The verse says only a mouthful.",
-  "It says drinking water at each time."
+  "The enumeration continues in the same manner.",
+  "Parched flour and coconut are named.",
+  "Turmeric powder is also included."
  ],
- "inference": "The sage drank only a mouthful of water at each time.",
- "uncertainties": [
-  "The exact schedule is not specified."
- ],
- "plain_english": "Then only a mouthful, at each time, drinking water."
+ "inference": "Parched flour, coconut, and turmeric powder likewise complete this portion of the list.",
+ "uncertainties": [],
+ "plain_english": "Likewise, parched flour, coconut, and turmeric powder are included."
 }

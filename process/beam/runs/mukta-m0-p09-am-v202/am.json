@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 202,
- "question": "Where did he go to perform the wine rite?",
+ "question": "How should the ritual jar be wrapped with threads in proper sequence?",
  "premises": [
-  "The verse states an intention to perform the wine rite.",
-  "It states movement to the clan pavilion."
+  "Wrapping is to be done on the jar.",
+  "Threads are specified as three, two, and space.",
+  "The wrapping follows a prescribed order."
  ],
- "inference": "The wine rite is to be performed in the clan pavilion.",
+ "inference": "The jar should be wrapped in sequence with threads counted as three, two, and space.",
  "uncertainties": [
-  "Agent is implied from context."
+  "The exact numerical meaning of vyoma in the thread count is context-dependent"
  ],
- "plain_english": "He went to the clan pavilion to perform the wine rite."
+ "plain_english": "And on the jar, wrapping should be done in order with threads of three, two, and space."
 }

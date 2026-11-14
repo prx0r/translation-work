@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 123,
- "question": "By which rule is puraścaraṇa said to be accomplished?",
+ "question": "How are the middle and lowest grades defined by reduction from the standard measure?",
  "premises": [
-  "By this rule.",
-  "Puraścaraṇa is said."
+  "A reduction by one defines a grade.",
+  "A reduction by two defines another grade.",
+  "The grades are named middle and lowest."
  ],
- "inference": "The verse identifies this rule as the description of puraścaraṇa.",
+ "inference": "What is less by one is the middle grade, and what is less by two is the lowest grade.",
  "uncertainties": [
-  "none"
+  "The base measure from which reductions are made is not stated in this verse."
  ],
- "plain_english": "By this very rule, puraścaraṇa is said."
+ "plain_english": "Less by one is the middle grade, and less by two is the lowest."
 }

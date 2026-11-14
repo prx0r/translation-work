@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p09",
  "verse": 205,
- "question": "How many years did the meditation-devoted sage spend?",
+ "question": "What substitute is approved when pearl and the five jewels are unavailable?",
  "premises": [
-  "The verse states ten thousand years.",
-  "It describes the subject as devoted to meditation."
+  "Pearl and the five jewels may be used.",
+  "Their absence is a possible condition.",
+  "Gold is approved in that condition."
  ],
- "inference": "The meditation-devoted sage spent ten thousand years.",
- "uncertainties": [
-  "Exact activity during those years is implied."
- ],
- "plain_english": "Devoted to meditation, he spent ten thousand years."
+ "inference": "If pearl and the five jewels are unavailable, gold is the approved substitute.",
+ "uncertainties": [],
+ "plain_english": "Pearl and the five jewels may be used; if they are unavailable, gold is approved."
 }

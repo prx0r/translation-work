@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p05",
  "verse": 118,
- "question": "On which days should a human skull be collected?",
+ "question": "Which aromatic and fruit ingredients are prepared for the ritual mixture described here?",
  "premises": [
-  "Tuesday is named.",
-  "Saturday is named.",
-  "A human skull is collected."
+  "Cardamom and clove are included.",
+  "Camphor is included.",
+  "A varāla fruit component is included in the prepared mixture."
  ],
- "inference": "The verse permits skull collection on Tuesday or Saturday.",
+ "inference": "The prepared mixture includes cardamom, clove, camphor, and varāla fruit.",
  "uncertainties": [
-  "none"
+  "The token lavaṅga appears twice as given; the intended reading may involve dittography or emphasis.",
+  "The exact identity of varāla is uncertain."
  ],
- "plain_english": "On Tuesday or on Saturday, one should collect a human skull."
+ "plain_english": "The mixture is prepared with cardamom, clove, camphor, and varāla fruit."
 }

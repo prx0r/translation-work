@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 112,
- "question": "What facial, ocular, and color attributes are ascribed to the deity in this description?",
+ "question": "Which additional groups and presiding powers are to be included in the arrangement?",
  "premises": [
-  "The deity is one-faced.",
-  "The deity is three-eyed.",
-  "The deity is described as red in color."
+  "The group of nine beginning with Vāmā is included.",
+  "The group beginning with the solar disk is included.",
+  "These are to be included together with their overlords."
  ],
- "inference": "The deity is characterized as one-faced, three-eyed, and red.",
- "uncertainties": [],
- "plain_english": "She is one-faced, three-eyed, and described as red in color."
+ "inference": "The arrangement includes the group of nine beginning with Vāmā and the group beginning with the solar disk together with their overlords.",
+ "uncertainties": [
+  "The specific members of the solar-disk group are not listed."
+ ],
+ "plain_english": "Include the group of nine beginning with Vāmā and the group beginning with the solar disk, together with their overlords."
 }

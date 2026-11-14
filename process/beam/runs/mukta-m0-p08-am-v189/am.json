@@ -1,18 +1,13 @@
 {
  "song": "mukta-m0-p08",
  "verse": 189,
- "question": "What does the lamp say about siddha and upakṛt?",
+ "question": "How many fire pits may be placed around the middle array?",
  "premises": [
-  "manetātāśca is named",
-  "siddha is named",
-  "yā is named",
-  "lamp is named",
-  "says is named",
-  "upakṛt is named"
+  "The placement is around the middle array",
+  "Four fire pits are an option",
+  "Eight fire pits are an option"
  ],
- "inference": "The verse has a lamp speak about siddha and upakṛt.",
- "uncertainties": [
-  "exact meaning of manetātāśca unclear"
- ],
- "plain_english": "The lamp says something about siddha and upakṛt."
+ "inference": "Either four or eight fire pits may be placed around the middle array",
+ "uncertainties": [],
+ "plain_english": "Around the middle array there may be four fire pits or eight."
 }

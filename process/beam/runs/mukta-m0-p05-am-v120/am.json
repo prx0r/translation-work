@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p05",
  "verse": 120,
- "question": "Is puraścaraṇa also described by any other method?",
+ "question": "What protective quality should the mixture have when prepared with barley, mustard, and rice grains?",
  "premises": [
-  "Another way is named.",
-  "Puraścaraṇa is said by it."
+  "Barley and mustard are included as ingredients.",
+  "Good rice grains are included.",
+  "The mixture is described as having a protective character."
  ],
- "inference": "The verse introduces an alternative description of puraścaraṇa.",
+ "inference": "Prepared with barley, mustard, and good rice grains, it should be protective.",
  "uncertainties": [
-  "none"
+  "The token sarṣapa appears twice as given; the intended reading may involve dittography or emphasis.",
+  "The exact syntactic role of rakṣataṃ is somewhat compressed."
  ],
- "plain_english": "Or, by another way, puraścaraṇa is said."
+ "plain_english": "With barley, mustard, and good rice grains, it should be protective."
 }

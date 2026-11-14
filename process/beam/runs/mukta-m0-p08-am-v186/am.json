@@ -1,17 +1,13 @@
 {
  "song": "mukta-m0-p08",
  "verse": 186,
- "question": "How are east-petal letters placed after drawing the named lotus?",
+ "question": "What structural features define the outer enclosure arrangement?",
  "premises": [
-  "with-name is named",
-  "lotus is named",
-  "having-drawn is named",
-  "east-petal-etc is named",
-  "places is named"
+  "The structure has eight gates",
+  "There are three enclosures",
+  "The enclosures are counted from the outside"
  ],
- "inference": "The verse instructs drawing a named lotus and placing east-petal letters.",
- "uncertainties": [
-  "exact placement order unclear"
- ],
- "plain_english": "Having drawn the named lotus, one places east-petal letters."
+ "inference": "The arrangement includes eight gates and three outer enclosures",
+ "uncertainties": [],
+ "plain_english": "It should have eight gates and three enclosures beginning from the outer side."
 }

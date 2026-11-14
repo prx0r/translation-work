@@ -1,19 +1,13 @@
 {
  "song": "mukta-m0-p08",
  "verse": 187,
- "question": "How is clockwise placement used for mantra extraction by petal order?",
+ "question": "Which units must be omitted when the middle enclosure has fifteen divisions?",
  "premises": [
-  "thus is named",
-  "clockwise is named",
-  "placement is named",
-  "mantra is named",
-  "extraction is named",
-  "petal is named",
-  "order is named"
+  "The middle enclosure is considered",
+  "The count involved is fifteen",
+  "The middle triad is to be omitted"
  ],
- "inference": "The verse links clockwise placement, mantra extraction, and petal order.",
- "uncertainties": [
-  "exact extraction method unclear"
- ],
- "plain_english": "Thus clockwise placement extracts the mantra by petal order."
+ "inference": "When the middle enclosure has fifteen divisions, the middle triad should be left out",
+ "uncertainties": [],
+ "plain_english": "In the middle enclosure, when the count is fifteen, one should leave out the middle three."
 }

@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2500,
- "question": "What mark joined with three eyes is designated as svastika?",
+ "question": "When does cremation immediately restore ritual purity for a deceased maintainer of daily fire rites?",
  "premises": [
-  "svastika is joined with three eyes",
-  "the joined mark is designated svastika"
+  "The deceased had performed the daily fire rite.",
+  "Cremation of such a deceased person takes place.",
+  "From that cremation a state of ritual purity is attained."
  ],
- "inference": "the three-eyed joined mark is the designated svastika",
+ "inference": "Therefore, for one who maintained the daily fire rite, cremation itself effects immediate ritual purification.",
  "uncertainties": [
-  "sandhi in tvabhidhīyate may include tu"
+  "The precise derivation and technical sense of ṛtaḥ in this ritual context is uncertain.",
+  "Whether the purity applies to the deceased, the performers, or both is not explicitly specified."
  ],
- "plain_english": "The svastika joined with three eyes is called svastika."
+ "plain_english": "For a dead person who had performed the daily fire rite, purity is restored from the time of cremation."
 }
