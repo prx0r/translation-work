@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2860,
- "question": "What is the chief courtyard called?",
+ "question": "Which obstacle-removing command words are included in the mantra sequence?",
  "premises": [
-  "that same courtyard is chief",
-  "it is called residence hall"
+  "The mantra addresses obstacles",
+  "A word naming all obstacles is given",
+  "A repeated command to cut is given"
  ],
- "inference": "the chief courtyard is called the residence hall",
- "uncertainties": [
-  "distinction from other halls not specified"
- ],
- "plain_english": "That same courtyard, the chief one, is called the residence hall."
+ "inference": "Therefore the mantra includes the word 'all obstacles' and the repeated command 'cut, cut'.",
+ "uncertainties": [],
+ "plain_english": "Then the word 'all obstacles', and the word 'cut, cut'."
 }

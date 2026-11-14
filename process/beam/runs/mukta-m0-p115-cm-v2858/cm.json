@@ -3,19 +3,24 @@
  "verse": 2858,
  "rows": [
   {
-   "lemma": "bhāgadvayāntarālaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "compound"
+   "lemma": "mahābhairavivarṇe",
+   "morph": "compound+m.loc.sg",
+   "grounds": "mantra phrase describing appearance"
   },
   {
-   "lemma": "tu",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "connects mantra elements"
   },
   {
-   "lemma": "dakṣiṇottarakūṭayoḥ",
-   "morph": "m.gen.du",
-   "grounds": "compound"
+   "lemma": "sarvaśatrupadam",
+   "morph": "compound+n.acc.sg",
+   "grounds": "next mantra word"
+  },
+  {
+   "lemma": "tataḥ",
+   "morph": "(indecl.)",
+   "grounds": "sequence marker"
   }
  ]
 }

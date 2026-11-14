@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2856,
- "question": "Can the middle elephant come first in front or back?",
+ "question": "Which deities must be worshipped in sequence on the right side?",
  "premises": [
-  "front and back are alternatives",
-  "middle elephant first is named"
+  "Worship proceeds in a fixed order",
+  "Aghora is worshipped on the right side",
+  "Pāśupata is worshipped after aghora"
  ],
- "inference": "the middle elephant may be placed first in either front or back",
- "uncertainties": [
-  "choice conditions not specified"
- ],
- "plain_english": "In front or back, or with the middle elephant first."
+ "inference": "Therefore one should worship aghora on the right and afterwards worship pāśupata.",
+ "uncertainties": [],
+ "plain_english": "Having worshipped aghora on the right, he should afterwards worship pāśupata."
 }

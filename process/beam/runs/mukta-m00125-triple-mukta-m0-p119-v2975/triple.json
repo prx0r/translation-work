@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2975,
+   "rows": [
+    {
+     "surface": "dravyāṇi",
+     "gloss": "substances",
+     "grounds": "ritual materials or offerings",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to the substances",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "amantreṇa",
+     "gloss": "without-mantra",
+     "grounds": "negated compound indicating absence of mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dattāni",
+     "gloss": "given",
+     "grounds": "past passive participle denoting offering",
+     "morph": "n.nom.pl.ppp(dā)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a hypothetical case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkare",
+     "gloss": "to-śaṅkara",
+     "grounds": "locative indicating the recipient deity",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is the ritual condition when these substances are offered to Śaṅkara without a mantra?",
+   "premises": [
+    "The substances in question are specific ritual offerings.",
+    "These offerings may be given without an accompanying mantra.",
+    "Śaṅkara is the intended recipient of the offerings."
+   ],
+   "inference": "The verse presents the case of substances offered to Śaṅkara without mantra as a distinct ritual condition.",
+   "uncertainties": [
+    "The consequence of offering without mantra is not stated within this verse alone."
+   ],
+   "plain_english": "If these substances are given to Śaṅkara without a mantra."
+  }
+ ]
+}
