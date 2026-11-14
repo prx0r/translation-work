@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2224,
- "question": "Which regions are said to grant accomplishment of minor deities?",
+ "question": "What portentous events are listed as signs to be noted in this passage?",
  "premises": [
-  "The regions Aṅga, Vaṅga, and Kaliṅga are named.",
-  "Accomplishment of minor deities is attributed to them."
+  "A meteor fall is listed",
+  "A burning of the directions is listed",
+  "Another occurrence is named but unclear"
  ],
- "inference": "Aṅga, Vaṅga, and Kaliṅga grant accomplishment of minor deities.",
- "uncertainties": [],
- "plain_english": "And Aṅga, Vaṅga, and Kaliṅga grant accomplishment of minor deities."
+ "inference": "Portentous events such as meteor fall and burning of directions are to be noted",
+ "uncertainties": [
+  "The meaning of 'nvahākatha' is unclear"
+ ],
+ "plain_english": "A meteor fall, a burning of the directions, and the occurrence of nvahākatha are mentioned."
 }

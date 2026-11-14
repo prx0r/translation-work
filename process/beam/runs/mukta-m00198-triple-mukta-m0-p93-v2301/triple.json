@@ -1,0 +1,1051 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2301,
+   "rows": [
+    {
+     "surface": "navabhirguṇite",
+     "gloss": "multiplied-by-nine",
+     "grounds": "locative absolute participle indicating multiplication by nine",
+     "morph": "loc.sg.nt.ppp+guṇ"
+    },
+    {
+     "surface": "nāḍi",
+     "gloss": "nadi-measure",
+     "grounds": "the measure or unit being calculated",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "hṛte",
+     "gloss": "divided",
+     "grounds": "locative absolute participle indicating division",
+     "morph": "loc.sg.nt.ppp+hṛ"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining quantity after division",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "vyayaṃ",
+     "gloss": "expenditure",
+     "grounds": "the calculated outflow or loss",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result of the calculation",
+     "morph": "3.sg.opt.act+bhū"
+    }
+   ],
+   "question": "How is the expenditure value determined from the nadi measure through multiplication and division?",
+   "premises": [
+    "The nadi measure is multiplied by nine.",
+    "The resulting value is then divided.",
+    "The remainder after division constitutes the expenditure."
+   ],
+   "inference": "Expenditure is calculated as the remainder obtained after multiplying the nadi by nine and dividing.",
+   "uncertainties": [
+    "The divisor used in hṛte is not explicitly stated in this verse."
+   ],
+   "plain_english": "When the nadi measure is multiplied by nine and then divided, the remainder becomes the expenditure."
+  },
+  {
+   "verse": 2302,
+   "rows": [
+    {
+     "surface": "āyādhikyaṃ",
+     "gloss": "income-excess",
+     "grounds": "condition where income surpasses expenditure",
+     "morph": "n.nom.sg (āya+ādhikya compound)"
+    },
+    {
+     "surface": "vyayaṃ",
+     "gloss": "expenditure",
+     "grounds": "the outflow compared against income",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "less-than",
+     "grounds": "expenditure being lower than income",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "saṃpadāmāspadaṃ",
+     "gloss": "abode-of-prosperities",
+     "grounds": "source or seat of wealth and success",
+     "morph": "n.nom.sg (saṃpad+āspada compound)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates constant result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition of income relative to expenditure ensures a constant abode of prosperity?",
+   "premises": [
+    "Income may exceed expenditure.",
+    "Expenditure may be less than income.",
+    "Such a condition is linked to prosperity."
+   ],
+   "inference": "When income exceeds expenditure, it always becomes an abode of prosperity.",
+   "uncertainties": [],
+   "plain_english": "When income is greater and expenditure is less, it always becomes a source of prosperity."
+  },
+  {
+   "verse": 2303,
+   "rows": [
+    {
+     "surface": "sitasau...",
+     "gloss": "white-gentle-moon",
+     "grounds": "truncated token as given, likely referring to benefic planets such as Venus or Moon",
+     "morph": "uncertain (truncated)"
+    },
+    {
+     "surface": "jīvo",
+     "gloss": "jupiter",
+     "grounds": "the planet Jupiter as a benefic influence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptavāre",
+     "gloss": "in-seven-weekdays",
+     "grounds": "context of the seven days of the week",
+     "morph": "m.loc.sg (sapta+vāra compound)"
+    },
+    {
+     "surface": "śubhāśubham",
+     "gloss": "auspicious-inauspicious",
+     "grounds": "the determination of favorable or unfavorable results",
+     "morph": "n.nom.sg (śubha+aśubha compound)"
+    }
+   ],
+   "question": "Which planetary and weekday factors determine auspicious and inauspicious outcomes in this calculation?",
+   "premises": [
+    "Benefic planets such as Jupiter are considered.",
+    "The seven weekdays provide the temporal context.",
+    "Outcomes are classified as auspicious or inauspicious."
+   ],
+   "inference": "The influence of benefic planets and the weekdays determines whether results are auspicious or inauspicious.",
+   "uncertainties": [
+    "The token sitasau... is truncated and its full form is unclear."
+   ],
+   "plain_english": "Benefic planets like Jupiter and the seven weekdays are considered to determine what is auspicious or inauspicious."
+  },
+  {
+   "verse": 2304,
+   "rows": [
+    {
+     "surface": "janmatrayaṃ",
+     "gloss": "three-births",
+     "grounds": "a set or count of three births",
+     "morph": "n.nom.sg (janma+traya compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṣṭā",
+     "gloss": "four-and-eight",
+     "grounds": "numerical values four and eight combined",
+     "morph": "n.nom.pl (veda+aṣṭa compound)"
+    },
+    {
+     "surface": "ṛtu",
+     "gloss": "six-seasons",
+     "grounds": "numerical value six, symbolized by seasons",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nandābhyavarjitam",
+     "gloss": "excluding-nines",
+     "grounds": "with multiples or groups of nine removed",
+     "morph": "n.nom.sg.nt.ppp (nanda+abhi+varjita compound)"
+    }
+   ],
+   "question": "Which numerical groups must be excluded when calculating the three births and related counts?",
+   "premises": [
+    "Three births are taken into account.",
+    "Values associated with four, eight, and six are included.",
+    "Groups of nine are to be excluded."
+   ],
+   "inference": "In this calculation, the counts involving three births, four, eight, and six are used while excluding nines.",
+   "uncertainties": [
+    "The exact computational procedure combining these numbers is not fully specified."
+   ],
+   "plain_english": "Taking three births and the numbers four, eight, and six, one must exclude the nines."
+  },
+  {
+   "verse": 2305,
+   "rows": [
+    {
+     "surface": "bhānuvārādi",
+     "gloss": "beginning-with-sunday",
+     "grounds": "sequence starting from Sunday",
+     "morph": "n.nom.sg (bhānu+vāra+ādi compound)"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "combined or associated with",
+     "morph": "n.nom.sg.nt.ppp+sam+yuj"
+    },
+    {
+     "surface": "viśākhādiścatuścatuḥ",
+     "gloss": "beginning-with-vishakha-four-by-four",
+     "grounds": "lunar mansions starting with Vishakha grouped in fours",
+     "morph": "m.nom.sg (viśākhā+ādi+catur+catur compound)"
+    }
+   ],
+   "question": "How are weekdays and lunar mansions grouped together in this auspicious calculation?",
+   "premises": [
+    "The sequence begins with Sunday.",
+    "Lunar mansions begin with Vishakha.",
+    "The mansions are grouped four by four."
+   ],
+   "inference": "Weekdays starting from Sunday are joined with lunar mansions starting from Vishakha arranged in groups of four.",
+   "uncertainties": [],
+   "plain_english": "Beginning with Sunday, it is joined with the lunar mansions starting from Vishakha taken four by four."
+  },
+  {
+   "verse": 2306,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining result after calculation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "conjunction",
+     "grounds": "the resulting combination or yoga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parigrāhya",
+     "gloss": "having-accepted",
+     "grounds": "taking into consideration",
+     "morph": "gerund+pari+grah"
+    },
+    {
+     "surface": "śubhamānaṃ",
+     "gloss": "auspicious-measure",
+     "grounds": "the measure indicating auspiciousness",
+     "morph": "n.acc.sg (śubha+māna compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgṛhet",
+     "gloss": "one-should-collect",
+     "grounds": "prescriptive instruction to adopt",
+     "morph": "3.sg.opt.act+sam+grah"
+    }
+   ],
+   "question": "What should be accepted and collected from the remaining conjunction to determine auspiciousness?",
+   "premises": [
+    "A remainder conjunction is obtained.",
+    "This conjunction must be accepted.",
+    "An auspicious measure is to be collected from it."
+   ],
+   "inference": "After accepting the remaining conjunction, one should collect the measure that indicates auspiciousness.",
+   "uncertainties": [],
+   "plain_english": "Having accepted the remaining conjunction, one should collect the auspicious measure."
+  },
+  {
+   "verse": 2307,
+   "rows": [
+    {
+     "surface": "sarvato",
+     "gloss": "on-all-sides",
+     "grounds": "uniform in every direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadraliṃgaṃ",
+     "gloss": "auspicious-linga",
+     "grounds": "a linga type considered auspicious",
+     "morph": "n.nom.sg (bhadra+liṅga compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārvadeśikameva",
+     "gloss": "universal-indeed",
+     "grounds": "applicable to all regions or contexts",
+     "morph": "n.nom.sg (sārva+deśika compound) + eva"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What universal status is attributed to the linga that is auspicious on all sides?",
+   "premises": [
+    "A linga may be auspicious on all sides.",
+    "Such a linga is called bhadra.",
+    "It is declared universal."
+   ],
+   "inference": "The bhadra linga, auspicious on all sides, is indeed universal.",
+   "uncertainties": [],
+   "plain_english": "The linga that is auspicious on all sides is the bhadra linga and is indeed universal."
+  },
+  {
+   "verse": 2308,
+   "rows": [
+    {
+     "surface": "samaliṃgaṃ",
+     "gloss": "equal-linga",
+     "grounds": "a linga of uniform proportions",
+     "morph": "n.nom.sg (sama+liṅga compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprāṇāṃ",
+     "gloss": "for-priests",
+     "grounds": "intended for the brahmin class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nṛpāṇāṃ",
+     "gloss": "for-kings",
+     "grounds": "intended for the ruling class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vardhamānakam",
+     "gloss": "increasing-type",
+     "grounds": "a linga type that increases or expands",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which types of linga are prescribed respectively for priests and for kings?",
+   "premises": [
+    "The equal linga is associated with priests.",
+    "The increasing linga is associated with kings.",
+    "Different classes have different prescribed forms."
+   ],
+   "inference": "The equal linga is for priests, while the increasing linga is for kings.",
+   "uncertainties": [],
+   "plain_english": "The equal linga is for priests, and the increasing linga is for kings."
+  },
+  {
+   "verse": 2309,
+   "rows": [
+    {
+     "surface": "sarveṣāmitaraṃ",
+     "gloss": "for-all-others",
+     "grounds": "intended for everyone else",
+     "morph": "n.nom.sg (sarva+itara compound, gen.pl base)"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "the sacred emblem",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvakāmaphalapradam",
+     "gloss": "granting-fruit-of-all-desires",
+     "grounds": "bestowing the results of all wishes",
+     "morph": "n.nom.sg (sarva+kāma+phala+prada compound)"
+    }
+   ],
+   "question": "What benefit does the linga prescribed for all others confer upon its worshippers?",
+   "premises": [
+    "A different linga is prescribed for all others.",
+    "This linga is associated with desire fulfillment.",
+    "It grants the fruit of all desires."
+   ],
+   "inference": "The linga for all others grants the fruit of all desires.",
+   "uncertainties": [],
+   "plain_english": "For all others, the linga is that which grants the fruit of all desires."
+  },
+  {
+   "verse": 2310,
+   "rows": [
+    {
+     "surface": "iṣṭāyāmaviśāle",
+     "gloss": "desired-length-and-breadth",
+     "grounds": "having the desired length and breadth",
+     "morph": "n.loc.sg (iṣṭa+āyāma+viśāla compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking the case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catura",
+     "gloss": "four-cornered",
+     "grounds": "having four corners or sides",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīkaraṃ",
+     "gloss": "prosperity-making",
+     "grounds": "producing wealth and auspiciousness",
+     "morph": "n.nom.sg (śrī+kara compound)"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "as declared in tradition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form of linga with desired dimensions was formerly declared to bring prosperity?",
+   "premises": [
+    "The linga has desired length and breadth.",
+    "It is four-cornered in form.",
+    "Tradition declares it prosperity-making."
+   ],
+   "inference": "A four-cornered linga of desired dimensions was formerly declared to bring prosperity.",
+   "uncertainties": [],
+   "plain_english": "A four-cornered linga of the desired length and breadth was formerly declared to bring prosperity."
+  },
+  {
+   "verse": 2311,
+   "rows": [
+    {
+     "surface": "caturaśramadhobhāgaṃ",
+     "gloss": "four-cornered-lower-part",
+     "grounds": "the lower section shaped with four corners",
+     "morph": "m.acc.sg (caturaśra+adhas+bhāga compound)"
+    },
+    {
+     "surface": "brahmabhāgam",
+     "gloss": "brahma-part",
+     "grounds": "the section designated as Brahma's portion",
+     "morph": "m.acc.sg (brahma+bhāga compound)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces the next specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is declared or designated",
+     "morph": "3.sg.pres.pass+vac"
+    }
+   ],
+   "question": "What designation is given to the four-cornered lower part of the linga?",
+   "premises": [
+    "The lower part of the linga is four-cornered.",
+    "This part receives a specific designation.",
+    "It is called the Brahma part."
+   ],
+   "inference": "The four-cornered lower part of the linga is called the Brahma part.",
+   "uncertainties": [],
+   "plain_english": "Now the four-cornered lower part is called the Brahma part."
+  },
+  {
+   "verse": 2312,
+   "rows": [
+    {
+     "surface": "ūrdhvabhāge",
+     "gloss": "in-upper-part",
+     "grounds": "in the upper section of the linga",
+     "morph": "m.loc.sg (ūrdhva+bhāga compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttasya",
+     "gloss": "of-round-form",
+     "grounds": "of that which is circular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tacchivāṃśa",
+     "gloss": "that-shiva-part",
+     "grounds": "that portion designated as Shiva's part",
+     "morph": "m.nom.sg (tad+śiva+aṃśa compound)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-known",
+     "grounds": "is recognized or established",
+     "morph": "3.sg.pres.pass+vid"
+    }
+   ],
+   "question": "What designation is recognized for the round upper part of the linga?",
+   "premises": [
+    "The upper part of the linga is round.",
+    "This part has a specific designation.",
+    "It is known as the Shiva part."
+   ],
+   "inference": "The round upper part of the linga is known as the Shiva part.",
+   "uncertainties": [],
+   "plain_english": "In the upper part, the round section is known as the Shiva part."
+  },
+  {
+   "verse": 2313,
+   "rows": [
+    {
+     "surface": "vṛkṣasya",
+     "gloss": "of-tree",
+     "grounds": "the tree used as an analogy",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mūlamadhyāgraṃ",
+     "gloss": "root-middle-tip",
+     "grounds": "the root, middle, and top portions",
+     "morph": "n.nom.sg (mūla+madhya+agra compound)"
+    },
+    {
+     "surface": "śākhāpuṣpasamanvitam",
+     "gloss": "endowed-with-branches-and-flowers",
+     "grounds": "possessing branches and flowers",
+     "morph": "n.nom.sg.nt (śākhā+puṣpa+samanvita compound)"
+    }
+   ],
+   "question": "What structural analogy from a tree is presented to explain the linga's divisions?",
+   "premises": [
+    "A tree has root, middle, and tip.",
+    "A tree is endowed with branches and flowers.",
+    "This structure serves as an analogy."
+   ],
+   "inference": "The linga's divisions are analogized to a tree's root, middle, tip, branches, and flowers.",
+   "uncertainties": [],
+   "plain_english": "Like a tree with its root, middle, and tip, endowed with branches and flowers."
+  },
+  {
+   "verse": 2314,
+   "rows": [
+    {
+     "surface": "carma",
+     "gloss": "bark",
+     "grounds": "the outer covering, analogous to bark or skin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudramekasya",
+     "gloss": "of-one-rudra",
+     "grounds": "belonging to a single Rudra aspect",
+     "morph": "m.gen.sg (rudra+eka compound)"
+    },
+    {
+     "surface": "ekaikāṃśaḥ",
+     "gloss": "each-single-part",
+     "grounds": "each one taken as a distinct part",
+     "morph": "m.nom.sg (eka+eka+aṃśa compound)"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "is-declared",
+     "grounds": "is proclaimed or taught",
+     "morph": "m.nom.sg.ppp+pra+kīrt"
+    }
+   ],
+   "question": "How are the bark and each part of the single Rudra aspect declared in this division?",
+   "premises": [
+    "The bark is included in the division.",
+    "Each part belongs to one Rudra.",
+    "Each is declared as a single part."
+   ],
+   "inference": "The bark and each portion of the one Rudra are declared as individual parts.",
+   "uncertainties": [
+    "The precise mapping of rudra to linga parts is implicit."
+   ],
+   "plain_english": "The bark and each part of the one Rudra are declared as individual portions."
+  },
+  {
+   "verse": 2315,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "in-same-way",
+     "grounds": "indicates correspondence with the previous analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaliṃgasya",
+     "gloss": "of-shiva-linga",
+     "grounds": "the sacred emblem of Shiva",
+     "morph": "n.gen.sg (śiva+liṅga compound)"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "division",
+     "grounds": "the partitioning into parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratyavibhibhedinā",
+     "gloss": "by-respective-distinction",
+     "grounds": "by distinguishing each part separately",
+     "morph": "m.inst.sg (prati+vi+bhedin compound)"
+    }
+   ],
+   "question": "How is the division of the Shiva linga established in correspondence with the preceding analogy?",
+   "premises": [
+    "The previous analogy provides a model.",
+    "The Shiva linga is divided into parts.",
+    "Each part is distinguished respectively."
+   ],
+   "inference": "In the same way, the Shiva linga's parts are divided by respective distinction.",
+   "uncertainties": [],
+   "plain_english": "In the same way, the division of the Shiva linga is made by distinguishing each part respectively."
+  },
+  {
+   "verse": 2316,
+   "rows": [
+    {
+     "surface": "koṇātkoṇaṃ",
+     "gloss": "from-corner-to-corner",
+     "grounds": "measuring diagonally across corners",
+     "morph": "n.acc.sg (koṇa+koṇa compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "procedural particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-conceived",
+     "grounds": "having determined or marked out",
+     "morph": "gerund+sam+kḷp"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "using that determined measure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "by the standard of measurement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "the officiating master or instructor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What measuring procedure should the teacher follow when marking the linga from corner to corner?",
+   "premises": [
+    "The teacher conceives a line from corner to corner.",
+    "A specific measure is thereby established.",
+    "The teacher uses that measure."
+   ],
+   "inference": "The teacher should mark from corner to corner and proceed using that measure.",
+   "uncertainties": [],
+   "plain_english": "Having conceived the line from corner to corner, the teacher should proceed by that measure."
+  },
+  {
+   "verse": 2317,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces an alternative method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃgatāraṃ",
+     "gloss": "linga-width",
+     "grounds": "the breadth or diameter of the linga",
+     "morph": "m.acc.sg (liṅga+tāra compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptabhāgaṃ",
+     "gloss": "into-seven-parts",
+     "grounds": "divided into seven equal portions",
+     "morph": "m.acc.sg (sapta+bhāga compound)"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "when-divided",
+     "grounds": "locative absolute indicating division",
+     "morph": "loc.sg.nt.ppp+vi+bhaj"
+    }
+   ],
+   "question": "What alternative division of the linga's width into seven parts is prescribed?",
+   "premises": [
+    "An alternative method is given.",
+    "The linga's width is taken as the measure.",
+    "It is divided into seven parts."
+   ],
+   "inference": "Alternatively, the width of the linga may be divided into seven parts.",
+   "uncertainties": [],
+   "plain_english": "Or alternatively, when the width of the linga is divided into seven parts."
+  },
+  {
+   "verse": 2318,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasubhāge",
+     "gloss": "into-eight-parts",
+     "grounds": "divided into eight portions",
+     "morph": "m.loc.sg (vasu+bhāga compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyapaṭṭaṃ",
+     "gloss": "middle-band",
+     "grounds": "the central band or strip",
+     "morph": "m.acc.sg (madhya+paṭṭa compound)"
+    },
+    {
+     "surface": "rasāṃśakam",
+     "gloss": "six-part-measure",
+     "grounds": "measuring six parts",
+     "morph": "m.acc.sg (rasa+aṃśaka compound)"
+    }
+   ],
+   "question": "What measurement is assigned to the middle band when the linga is divided into eight parts?",
+   "premises": [
+    "Another alternative division is into eight parts.",
+    "A middle band is identified.",
+    "The middle band measures six parts."
+   ],
+   "inference": "Alternatively, when divided into eight parts, the middle band should measure six parts.",
+   "uncertainties": [],
+   "plain_english": "Or, when divided into eight parts, the middle band should be six parts."
+  },
+  {
+   "verse": 2319,
+   "rows": [
+    {
+     "surface": "aṣṭāśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "having eight corners or sides",
+     "morph": "n.nom.sg (aṣṭa+aśra compound)"
+    },
+    {
+     "surface": "paṭṭavistāre",
+     "gloss": "in-band-width",
+     "grounds": "within the width of the band",
+     "morph": "m.loc.sg (paṭṭa+vistāra compound)"
+    },
+    {
+     "surface": "caturaśrīkṛte",
+     "gloss": "made-four-cornered",
+     "grounds": "when shaped into a four-cornered form",
+     "morph": "loc.sg.nt.ppp (caturaśra+kṛta compound)"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being-so",
+     "grounds": "locative absolute indicating the condition",
+     "morph": "loc.sg.nt.prp+as"
+    }
+   ],
+   "question": "What geometric transformation occurs to the band width when it is made four-cornered?",
+   "premises": [
+    "The band width is initially considered.",
+    "It is made four-cornered.",
+    "An eight-cornered form is involved."
+   ],
+   "inference": "When the band width is made four-cornered, it relates to an eight-cornered configuration.",
+   "uncertainties": [
+    "The exact geometric operation is somewhat compressed in expression."
+   ],
+   "plain_english": "When the band width is made four-cornered, it becomes eight-cornered."
+  },
+  {
+   "verse": 2320,
+   "rows": [
+    {
+     "surface": "tadbāhyaṃ",
+     "gloss": "outside-that",
+     "grounds": "the area external to that form",
+     "morph": "n.acc.sg (tad+bāhya compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "procedural particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paricchedya",
+     "gloss": "having-delimited",
+     "grounds": "having marked off or cut out",
+     "morph": "gerund+pari+chid"
+    },
+    {
+     "surface": "kalāśraṃ",
+     "gloss": "sixteen-cornered",
+     "grounds": "having sixteen corners or parts",
+     "morph": "n.nom.sg (kalā+aśra compound)"
+    },
+    {
+     "surface": "tadbhavediha",
+     "gloss": "that-becomes-here",
+     "grounds": "that form arises in this context",
+     "morph": "n.nom.sg + 3.sg.opt.act+bhū + (indecl.) (tad+bhavet+iha fused)"
+    }
+   ],
+   "question": "What resulting shape is produced by delimiting the area outside the previous form?",
+   "premises": [
+    "The outer area of the previous form is delimited.",
+    "This delimitation produces a new shape.",
+    "The resulting shape is sixteen-cornered."
+   ],
+   "inference": "By delimiting the outside of that form, a sixteen-cornered shape is produced here.",
+   "uncertainties": [],
+   "plain_english": "Having delimited the outside of that, it becomes sixteen-cornered here."
+  },
+  {
+   "verse": 2321,
+   "rows": [
+    {
+     "surface": "aṣṭāśrādīni",
+     "gloss": "eight-cornered-and-others",
+     "grounds": "forms beginning with the eight-cornered",
+     "morph": "n.acc.pl (aṣṭāśra+ādi compound)"
+    },
+    {
+     "surface": "vinyāsaṃ",
+     "gloss": "arrangement",
+     "grounds": "the layout or placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "the four-cornered form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "is achieved or derived",
+     "morph": "3.sg.pres.pass+labh"
+    }
+   ],
+   "question": "What final form is obtained through the arrangement beginning with the eight-cornered shape?",
+   "premises": [
+    "Arrangements begin with the eight-cornered form and others.",
+    "These arrangements are laid out in sequence.",
+    "A four-cornered form is obtained."
+   ],
+   "inference": "Through the arrangement of eight-cornered and other forms, the four-cornered form is obtained.",
+   "uncertainties": [],
+   "plain_english": "By arranging the eight-cornered and other forms, the four-cornered form is obtained."
+  },
+  {
+   "verse": 2322,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in the central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vomaṃ",
+     "gloss": "voma",
+     "grounds": "a specific section or term as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "having eight corners",
+     "morph": "n.nom.sg (vasu+aśra compound)"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-top",
+     "grounds": "at the front or upper end",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "circular in shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivāṃśakam",
+     "gloss": "shiva-part",
+     "grounds": "the portion designated as Shiva's",
+     "morph": "n.nom.sg (śiva+aṃśaka compound)"
+    }
+   ],
+   "question": "How are the middle and top sections of the linga shaped and designated in this arrangement?",
+   "premises": [
+    "The middle section has a specific form.",
+    "The middle is eight-cornered.",
+    "The top is round and designated as the Shiva part."
+   ],
+   "inference": "In the middle is the eight-cornered section, and at the top is the round Shiva part.",
+   "uncertainties": [
+    "The meaning of vomaṃ is unclear in this context."
+   ],
+   "plain_english": "In the middle is the voma and the eight-cornered section, and at the top is the round Shiva part."
+  },
+  {
+   "verse": 2323,
+   "rows": [
+    {
+     "surface": "bhānudvyaṃśe",
+     "gloss": "in-twelve-parts",
+     "grounds": "divided into twelve portions, symbolized by the sun",
+     "morph": "m.loc.sg (bhānu+dvi+aṃśa compound)"
+    },
+    {
+     "surface": "tatāyāme",
+     "gloss": "in-that-length",
+     "grounds": "in that extended measure",
+     "morph": "m.loc.sg (tad+āyāma compound)"
+    },
+    {
+     "surface": "saptāṃśaṃ",
+     "gloss": "seven-parts",
+     "grounds": "a measure of seven portions",
+     "morph": "n.nom.sg (sapta+aṃśa compound)"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "four-cornered",
+     "grounds": "the four-cornered section",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportion of the total length is assigned to the four-cornered section when divided into twelve parts?",
+   "premises": [
+    "The total length is divided into twelve parts.",
+    "A portion of this length is allocated.",
+    "Seven parts form the four-cornered section."
+   ],
+   "inference": "When the length is divided into twelve parts, seven parts constitute the four-cornered section.",
+   "uncertainties": [],
+   "plain_english": "When that length is divided into twelve parts, seven parts form the four-cornered section."
+  },
+  {
+   "verse": 2324,
+   "rows": [
+    {
+     "surface": "ṣaṭsaptavasubhāgaṃ",
+     "gloss": "six-seven-eight-parts",
+     "grounds": "divisions into six, seven, or eight parts",
+     "morph": "m.acc.sg (ṣaṣ+sapta+vasu+bhāga compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃca",
+     "gloss": "five",
+     "grounds": "the number five as an alternative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭsapta",
+     "gloss": "six-seven",
+     "grounds": "the numbers six and seven as alternatives",
+     "morph": "n.nom.sg (ṣaṣ+sapta compound)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative numerical divisions are permitted for partitioning the linga's sections?",
+   "premises": [
+    "Divisions into six, seven, or eight parts are possible.",
+    "Divisions into five, six, or seven parts are also possible.",
+    "These are presented as alternatives."
+   ],
+   "inference": "The linga may alternatively be divided into six, seven, eight parts, or into five, six, seven parts.",
+   "uncertainties": [
+    "The exact application of each alternative division is not specified."
+   ],
+   "plain_english": "It may be divided into six, seven, or eight parts, or indeed into five, six, or seven parts."
+  }
+ ]
+}

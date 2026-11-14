@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "stambha",
+     "gloss": "fixation",
+     "grounds": "first term in a pair of measures or states subject to subdivision",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāma",
+     "gloss": "watch-period",
+     "grounds": "second term in the pair, a temporal or ritual measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "indicates sequence following the prior division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava+bhāgaṃ",
+     "gloss": "nine-part",
+     "grounds": "compound specifying division into nine portions; nava+bhāga",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "when-divided",
+     "grounds": "locative absolute condition under which the subdivision applies",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How are fixation and the watch-period treated when subjected to a ninefold division?",
+   "premises": [
+    "The terms fixation and watch-period are taken up in sequence.",
+    "A division into nine parts is applied.",
+    "The division is presented as a condition governing their treatment."
+   ],
+   "inference": "Fixation and the watch-period are to be further subdivided into nine parts in the stated sequence.",
+   "uncertainties": [
+    "The precise technical referents of stambha and yāma in this ritual or doctrinal context are not fully determined from this verse alone."
+   ],
+   "plain_english": "Then indeed, when divided into nine parts, fixation and the watch-period are treated accordingly."
+  }
+ ]
+}

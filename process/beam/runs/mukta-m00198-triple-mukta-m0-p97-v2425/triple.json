@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2425,
+   "rows": [
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "width",
+     "grounds": "diameter or breadth measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navabhāgaṃ",
+     "gloss": "nine-parts",
+     "grounds": "division into nine parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattripādoktamunnatam",
+     "gloss": "that-three-quarter-stated-height",
+     "grounds": "height declared as three quarters of that width",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the width and height proportions of the liṅga specified in this measurement rule?",
+   "premises": [
+    "The width is taken as a measure divided into nine parts.",
+    "The height is stated as three quarters of that width."
+   ],
+   "inference": "The liṅga's dimensions are fixed by a proportional rule relating a nine-part width to a three-quarter height.",
+   "uncertainties": [
+    "The exact syntactic role of the repeated particle tu is slightly ambiguous."
+   ],
+   "plain_english": "The width is indeed divided into nine parts, and the height is indeed stated as three quarters of that."
+  }
+ ]
+}

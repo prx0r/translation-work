@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2099,
- "question": "Which directions relative to the main place are specified for this arrangement?",
+ "question": "How are the twelve Adityas spatially arranged in sequence?",
  "premises": [
-  "The main place is the reference point",
-  "The northeast and north are specified",
-  "The east and south are specified together"
+  "These are identified as the twelve Adityas.",
+  "They are situated in order beginning with the north."
  ],
- "inference": "The arrangement is specified in the northeast, north, and in the east and south relative to the main place.",
- "uncertainties": [
-  "elliptical verse; predicate implied from preceding instructions"
- ],
- "plain_english": "In the northeast of the main place, in the north, and in the east and south."
+ "inference": "The twelve Adityas are arranged sequentially starting from the northern direction.",
+ "uncertainties": [],
+ "plain_english": "These indeed are the twelve Adityas, situated in order beginning with the north."
 }

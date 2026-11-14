@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2223,
- "question": "Which place is said to bring about accomplishment of a Śākta mantra?",
+ "question": "Which beings and persons are enumerated as auspicious signs or presences in this context?",
  "premises": [
-  "The bank of the Sarasvatī is named.",
-  "Accomplishment of a Śākta mantra is attributed to it."
+  "A boar and an elephant are listed",
+  "A courtesan is included",
+  "The courtesan is described as very beautiful"
  ],
- "inference": "The bank of the Sarasvatī brings about accomplishment of a Śākta mantra.",
- "uncertainties": [],
- "plain_english": "Likewise, the bank of the Sarasvatī brings about accomplishment of a Śākta mantra."
+ "inference": "The list includes a boar, an elephant, and a very beautiful courtesan",
+ "uncertainties": [
+  "The ritual function of this enumeration is implied from context"
+ ],
+ "plain_english": "A boar, an elephant, and a very beautiful courtesan are included."
 }

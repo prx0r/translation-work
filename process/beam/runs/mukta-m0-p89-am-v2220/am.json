@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2220,
- "question": "Which location is said to grant accomplishment of the sun's mantra?",
+ "question": "What placement and offering accompaniment are specified on the right or left side?",
  "premises": [
-  "The bank of the Yamunā in Kāśī is specified.",
-  "Accomplishment of the sun's mantra is attributed to it."
+  "Placement may be on the right or left",
+  "The item is joined with elephant flesh",
+  "The instruction follows the prior context"
  ],
- "inference": "The bank of the Yamunā in Kāśī grants accomplishment of the mantra of the sun.",
- "uncertainties": [],
- "plain_english": "The bank of the Yamunā in Kāśī grants accomplishment of the mantra of the sun."
+ "inference": "Thus, on the right or left, it should be joined with elephant flesh",
+ "uncertainties": [
+  "The object being joined is implied from context"
+ ],
+ "plain_english": "Thus, indeed, on the right or on the left, it should be joined with elephant flesh."
 }

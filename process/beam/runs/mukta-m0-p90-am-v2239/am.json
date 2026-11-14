@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2239,
- "question": "What additional grid configurations may be used for the altar diagram?",
+ "question": "What benefits does the properly chosen ritual stone bestow?",
  "premises": [
-  "An eight-by-eight square layout is permitted.",
-  "A layout defined by thread-group divisions is also permitted."
+  "All desired aims are named as benefits.",
+  "Liberation is named as a benefit.",
+  "The bestowal is described as constant."
  ],
- "inference": "Further acceptable altar grids include an eight-by-eight layout or one marked by thread divisions.",
- "uncertainties": [],
- "plain_english": "or an eight-by-eight square layout, or indeed one divided by thread lines."
+ "inference": "The ritual stone grants both worldly aims and liberation continually.",
+ "uncertainties": [
+  "The grammatical agent of giving is implicit in this verse."
+ ],
+ "plain_english": "It should always grant all desired aims and liberation."
 }
