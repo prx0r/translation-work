@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p204",
+ "items": [
+  {
+   "verse": 5100,
+   "rows": [
+    {
+     "surface": "vyādhinā",
+     "gloss": "by-disease",
+     "grounds": "instrumental indicating the cause of affliction",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pīḍitaṃ",
+     "gloss": "afflicted",
+     "grounds": "past passive participle describing the affected state",
+     "morph": "ppp.nom.sg.n √pīḍ"
+    },
+    {
+     "surface": "kālād",
+     "gloss": "over-time",
+     "grounds": "ablative indicating passage or lapse of time",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "avidheyaṃ",
+     "gloss": "unmanageable",
+     "grounds": "negative adjective describing what cannot be controlled or treated",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-become",
+     "grounds": "optative expressing a resulting condition",
+     "morph": "3.sg.act.opt √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "indeclinable asserting certainty of the outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain outcome results when a disease-afflicted condition persists over time?",
+   "premises": [
+    "A condition can be afflicted by disease.",
+    "Time can pass without effective intervention.",
+    "An affliction may progress beyond control."
+   ],
+   "inference": "A disease-afflicted condition will certainly become unmanageable over time.",
+   "uncertainties": [
+    "The implied subject of pīḍitaṃ and avidheyaṃ is not explicitly stated in this verse."
+   ],
+   "plain_english": "Afflicted by disease, it would certainly become unmanageable over time."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p205",
+ "items": [
+  {
+   "verse": 5125,
+   "rows": [
+    {
+     "surface": "ripurugraḥ",
+     "gloss": "enemy-fierce",
+     "grounds": "bahuvrīhi/compound: ripu (enemy) + ugra (fierce)",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogārtaḥ",
+     "gloss": "disease-afflicted",
+     "grounds": "compound: roga (disease) + ārta (afflicted)",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "prayāti",
+     "gloss": "goes",
+     "grounds": "verb of motion",
+     "morph": "3.sg.act-pres.ind+√yā"
+    },
+    {
+     "surface": "yamasādanam",
+     "gloss": "to-yama-abode",
+     "grounds": "compound: yama (Yama) + sādana (abode)",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "What fatal outcome overtakes even a fierce enemy as a result of this oblation?",
+   "premises": [
+    "The enemy may be fierce in strength.",
+    "The enemy becomes afflicted by disease.",
+    "The enemy goes to the abode of Yama."
+   ],
+   "inference": "Therefore the oblation brings death even to a powerful enemy.",
+   "uncertainties": [],
+   "plain_english": "Even a fierce enemy, afflicted by disease, goes to the abode of Yama."
+  }
+ ]
+}

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p197",
  "verse": 4919,
- "question": "What pit or altar-ground options are given?",
+ "question": "What proportion of agarwood completes the sequence of parts in this mixture?",
  "premises": [
-  "The verse names a pit.",
-  "It names an altar-ground.",
-  "A number is specified."
+  "Agarwood is included in the mixture.",
+  "Agarwood should be nine parts.",
+  "The proportions follow a stated sequence."
  ],
- "inference": "Either a pit or altar-ground is used according to the specified number.",
- "uncertainties": [
-  "The exact number is encoded."
- ],
- "plain_english": "Either a pit or altar-ground is used according to the specified number."
+ "inference": "Agarwood is to be taken as nine parts in the prescribed sequence.",
+ "uncertainties": [],
+ "plain_english": "Agarwood should be nine parts; thus, according to the sequence of parts."
 }
