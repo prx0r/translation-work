@@ -1,0 +1,1089 @@
+{
+ "song": "mukta-m0-p288",
+ "items": [
+  {
+   "verse": 7176,
+   "rows": [
+    {
+     "surface": "brahmabhiḥ",
+     "gloss": "with-brahma-mantras",
+     "grounds": "instrumental plural of brahman in mantra context",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūrayed",
+     "gloss": "should-fill",
+     "grounds": "optative of filling/consecrating",
+     "morph": "3.sg.opt.act √pṝ"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "knowing practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśānādyaiḥ",
+     "gloss": "beginning-with-īśāna",
+     "grounds": "bahuvrīhi/tatpuruṣa compound indicating series",
+     "morph": "m.inst.pl (compound)"
+    },
+    {
+     "surface": "gurūttamaḥ",
+     "gloss": "best-guru",
+     "grounds": "superlative compound",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "Who should perform the filling using the brahma-mantras beginning with Īśāna?",
+   "premises": [
+    "The filling is performed with brahma-mantras.",
+    "The mantras begin with Īśāna.",
+    "The agent is a learned and foremost guru."
+   ],
+   "inference": "The learned foremost guru should fill using the brahma-mantras beginning with Īśāna.",
+   "uncertainties": [],
+   "plain_english": "The learned and foremost guru should fill it with the brahma-mantras beginning with Īśāna."
+  },
+  {
+   "verse": 7177,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverbial expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "causative optative of performing",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sāmānyaṃ",
+     "gloss": "common",
+     "grounds": "general, non-special",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dvijasattamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative addressing brahmins",
+     "morph": "m.voc.pl (compound)"
+    }
+   ],
+   "question": "What kind of worship should be performed as before, O best twice-born?",
+   "premises": [
+    "The worship follows the previous procedure.",
+    "The worship is described as common or general.",
+    "The instruction addresses the best twice-born."
+   ],
+   "inference": "A common worship should be performed as before.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, one should have the common worship performed as before."
+  },
+  {
+   "verse": 7178,
+   "rows": [
+    {
+     "surface": "chādayet",
+     "gloss": "should-cover",
+     "grounds": "optative of covering",
+     "morph": "3.sg.opt.act √chad"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "object previously mentioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pdhānena",
+     "gloss": "with-pradhāna",
+     "grounds": "instrumental; likely pradhāna mantra/cloth context",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivamanuṃ",
+     "gloss": "śiva-mantra",
+     "grounds": "compound denoting Śiva's mantra",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle of recollection",
+     "morph": "m.nom.sg.pres.part.act √smṛ"
+    }
+   ],
+   "question": "How should the guru cover the object while remembering the Śiva-mantra?",
+   "premises": [
+    "The guru performs the covering.",
+    "The covering is done with pradhāna.",
+    "The guru remembers the Śiva-mantra during the act."
+   ],
+   "inference": "The guru should cover it with pradhāna while remembering the Śiva-mantra.",
+   "uncertainties": [
+    "pdhānena may refer to a specific mantra or material; taken as pradhāna"
+   ],
+   "plain_english": "The guru should cover it with pradhāna while remembering the Śiva-mantra."
+  },
+  {
+   "verse": 7179,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of performing",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "anantaraṃ",
+     "gloss": "afterwards",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadviśeṣaḥ",
+     "gloss": "its-special-feature",
+     "grounds": "compound indicating specific variation",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "passive present of stating",
+     "morph": "3.sg.pres.pass √kath"
+    }
+   ],
+   "question": "What special variation of the rite is declared to be performed afterwards?",
+   "premises": [
+    "An action may be done afterwards.",
+    "A special feature of that rite exists.",
+    "That special feature is now being stated."
+   ],
+   "inference": "The text proceeds to state the special variation to be performed afterwards.",
+   "uncertainties": [],
+   "plain_english": "One may do it afterwards; now its special variation is being told."
+  },
+  {
+   "verse": 7180,
+   "rows": [
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "absolutive of bringing",
+     "morph": "(gerund) √ānī"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of performing",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the same object/rite",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhādhānādikāḥ",
+     "gloss": "beginning-with-garbhādhāna",
+     "grounds": "compound listing rites starting with garbhādhāna",
+     "morph": "f.acc.pl (compound)"
+    },
+    {
+     "surface": "kriyāḥ",
+     "gloss": "rites",
+     "grounds": "ritual actions",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "Which sequence of rites beginning with garbhādhāna should be performed for it?",
+   "premises": [
+    "Something is brought for the rite.",
+    "The rites begin with garbhādhāna.",
+    "These rites are to be performed for that same object."
+   ],
+   "inference": "After bringing it, one should perform the rites beginning with garbhādhāna for it.",
+   "uncertainties": [],
+   "plain_english": "Having brought it, one should perform for it the rites beginning with garbhādhāna."
+  },
+  {
+   "verse": 7181,
+   "rows": [
+    {
+     "surface": "ekaviṃśati",
+     "gloss": "twenty-one",
+     "grounds": "numeral quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyātān",
+     "gloss": "counted",
+     "grounds": "past participle indicating enumeration",
+     "morph": "m.acc.pl.past.part.pass √khyā"
+    },
+    {
+     "surface": "udumbara",
+     "gloss": "udumbara",
+     "grounds": "fig-tree name used attributively",
+     "morph": "(compound-member)"
+    },
+    {
+     "surface": "phalānvitān",
+     "gloss": "endowed-with-fruits",
+     "grounds": "compound meaning accompanied by fruits",
+     "morph": "m.acc.pl (compound)"
+    }
+   ],
+   "question": "What counted items endowed with udumbara fruits are specified in this rite?",
+   "premises": [
+    "The items are counted as twenty-one.",
+    "They are associated with udumbara.",
+    "They are endowed with fruits."
+   ],
+   "inference": "Twenty-one counted items endowed with udumbara fruits are specified.",
+   "uncertainties": [
+    "exact referent of items depends on context; likely offerings or measures"
+   ],
+   "plain_english": "They should be twenty-one in number and endowed with udumbara fruits."
+  },
+  {
+   "verse": 7182,
+   "rows": [
+    {
+     "surface": "triṃśanniṣkamitāṃ",
+     "gloss": "measured-at-thirty-niṣkas",
+     "grounds": "compound indicating weight/value measure",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "kanyāṃ",
+     "gloss": "maiden",
+     "grounds": "young girl as ritual recipient",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvālaṅkāraśobhitām",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound describing full adornment",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "What kind of maiden is to be honored according to the specified measure and adornment?",
+   "premises": [
+    "A maiden is involved in the rite.",
+    "She is measured or valued at thirty niṣkas.",
+    "She is adorned with all ornaments."
+   ],
+   "inference": "A maiden measured at thirty niṣkas and adorned with all ornaments is specified.",
+   "uncertainties": [
+    "triṃśanniṣkamitāṃ may indicate gift value rather than physical measure"
+   ],
+   "plain_english": "One should honor a maiden valued at thirty niṣkas, adorned with all ornaments."
+  },
+  {
+   "verse": 7183,
+   "rows": [
+    {
+     "surface": "bhojayet",
+     "gloss": "should-feed",
+     "grounds": "causative optative of eating",
+     "morph": "3.sg.opt.caus.act √bhuj"
+    },
+    {
+     "surface": "pāyasaiḥ",
+     "gloss": "with-milk-rice",
+     "grounds": "instrumental plural of pāyasa",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "viprān",
+     "gloss": "brahmins",
+     "grounds": "ritual recipients",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "annaprāśānakarmaṇi",
+     "gloss": "in-first-feeding-rite",
+     "grounds": "locative compound naming the rite",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "Whom should be fed with milk-rice during the annaprāśana rite?",
+   "premises": [
+    "Feeding is prescribed.",
+    "The food is milk-rice.",
+    "The occasion is the annaprāśana rite."
+   ],
+   "inference": "Brahmins should be fed with milk-rice during the annaprāśana rite.",
+   "uncertainties": [],
+   "plain_english": "In the annaprāśana rite, one should feed brahmins with milk-rice."
+  },
+  {
+   "verse": 7184,
+   "rows": [
+    {
+     "surface": "anuktam",
+     "gloss": "unstated",
+     "grounds": "past participle indicating not specified",
+     "morph": "n.nom.sg.past.part.pass √vac"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatkarma",
+     "gloss": "whatever-rite",
+     "grounds": "relative compound",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tulāroha",
+     "gloss": "tulāroha",
+     "grounds": "name of a ritual procedure",
+     "morph": "(compound-member)"
+    },
+    {
+     "surface": "vadācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of practicing",
+     "morph": "3.sg.opt.act √ācar"
+    }
+   ],
+   "question": "How should any rite left unstated here be performed according to tulāroha?",
+   "premises": [
+    "Some rites are not explicitly stated here.",
+    "The tulāroha procedure is known.",
+    "Unstated rites should follow that procedure."
+   ],
+   "inference": "Whatever rite is unstated here should be performed as in the tulāroha.",
+   "uncertainties": [
+    "tulāroha vadācaret parsed as following tulāroha procedure"
+   ],
+   "plain_english": "Whatever rite is not stated here should be performed according to the tulāroha procedure."
+  },
+  {
+   "verse": 7185,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "present middle of performing",
+     "morph": "3.sg.pres.mid √kṛ"
+    },
+    {
+     "surface": "martyaḥ",
+     "gloss": "mortal",
+     "grounds": "human agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "correlative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ananta",
+     "gloss": "infinite",
+     "grounds": "qualifying the fruit",
+     "morph": "(compound-member)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "ritual result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "enjoys",
+     "grounds": "present middle of attaining/enjoying",
+     "morph": "3.sg.pres.mid √aś"
+    }
+   ],
+   "question": "What reward does a mortal obtain by performing the rite in this manner?",
+   "premises": [
+    "A mortal performs the rite thus.",
+    "The rite yields a result.",
+    "The result is described as infinite fruit."
+   ],
+   "inference": "A mortal who performs it thus enjoys infinite fruit.",
+   "uncertainties": [],
+   "plain_english": "The mortal who performs it in this way enjoys infinite fruit."
+  },
+  {
+   "verse": 7186,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverbial expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "ritual structure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of making",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "vedikārahitaṃ",
+     "gloss": "without-altar",
+     "grounds": "compound indicating absence of altar",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of pavilion should be constructed as before for this procedure?",
+   "premises": [
+    "A pavilion is to be made.",
+    "The construction follows the previous manner.",
+    "The pavilion is without an altar."
+   ],
+   "inference": "One should make a pavilion without an altar as before.",
+   "uncertainties": [],
+   "plain_english": "Having made a pavilion without an altar, as before."
+  },
+  {
+   "verse": 7187,
+   "rows": [
+    {
+     "surface": "pañcagavyena",
+     "gloss": "with-five-cow-products",
+     "grounds": "instrumental of pañcagavya mixture",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "saṃprikṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "absolutive of sprinkling",
+     "morph": "(gerund) √prokṣ"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "ritual diagram or area",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhyakalpitam",
+     "gloss": "arranged-in-middle",
+     "grounds": "compound indicating central placement",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "How should the centrally arranged maṇḍala be purified before the rite?",
+   "premises": [
+    "A maṇḍala is arranged in the middle.",
+    "Pañcagavya is used.",
+    "The maṇḍala is sprinkled with it."
+   ],
+   "inference": "The centrally arranged maṇḍala should be sprinkled with pañcagavya.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled the maṇḍala arranged in the middle with the five cow-products."
+  },
+  {
+   "verse": 7188,
+   "rows": [
+    {
+     "surface": "puṇyāha",
+     "gloss": "auspicious-day-rite",
+     "grounds": "ritual declaration of auspiciousness",
+     "morph": "(compound-member)"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "ritual sprinkling act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "ritual staff object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śatamātrasamucchritam",
+     "gloss": "raised-to-hundred-measures",
+     "grounds": "compound indicating height",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "What preparatory acts and staff specification are required in this ritual setup?",
+   "premises": [
+    "A puṇyāha rite is performed.",
+    "Sprinkling is performed.",
+    "A staff raised to a hundred measures is specified."
+   ],
+   "inference": "The setup includes puṇyāha, sprinkling, and a staff raised to a hundred measures.",
+   "uncertainties": [
+    "mātra unit of measure not specified"
+   ],
+   "plain_english": "One should perform the puṇyāha and sprinkling, and set up a staff raised to a hundred measures."
+  },
+  {
+   "verse": 7189,
+   "rows": [
+    {
+     "surface": "tilān",
+     "gloss": "sesame-seeds",
+     "grounds": "ritual substance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-deposit",
+     "grounds": "optative of placing",
+     "morph": "3.sg.opt.act √kṣip"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyomavyāpinam",
+     "gloss": "all-pervading-space-mantra",
+     "grounds": "name of mantra, accusative object of uttering",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "uccaran",
+     "gloss": "uttering",
+     "grounds": "present participle of reciting",
+     "morph": "m.nom.sg.pres.part.act √car"
+    }
+   ],
+   "question": "What should be deposited there while uttering the Vyomavyāpin mantra?",
+   "premises": [
+    "Sesame seeds are to be deposited.",
+    "The deposition occurs there.",
+    "The Vyomavyāpin mantra is uttered during deposition."
+   ],
+   "inference": "Sesame seeds should be deposited there while uttering the Vyomavyāpin mantra.",
+   "uncertainties": [],
+   "plain_english": "And one should deposit sesame seeds there while uttering the Vyomavyāpin mantra."
+  },
+  {
+   "verse": 7190,
+   "rows": [
+    {
+     "surface": "kartavyam",
+     "gloss": "should-be-done",
+     "grounds": "gerundive of obligation",
+     "morph": "n.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "additional",
+     "grounds": "extra amount",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadbhiḥ",
+     "gloss": "by-good-practitioners",
+     "grounds": "instrumental of qualified agents",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "caturaṅgulam",
+     "gloss": "four-fingers",
+     "grounds": "measure of extent",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional measure may be added by qualified practitioners in this procedure?",
+   "premises": [
+    "An additional amount is to be done.",
+    "Qualified practitioners perform it.",
+    "The measure is four finger-breadths, or alternatively so."
+   ],
+   "inference": "Qualified practitioners may add an extra four finger-breadths.",
+   "uncertainties": [
+    "exact referent of the added measure depends on prior context"
+   ],
+   "plain_english": "The good practitioners should add an extra four finger-breadths, or so."
+  },
+  {
+   "verse": 7191,
+   "rows": [
+    {
+     "surface": "vastraḥ",
+     "gloss": "with-cloth",
+     "grounds": "instrumental-like form in context of wrapping",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "should-wrap",
+     "grounds": "causative optative of wrapping",
+     "morph": "3.sg.opt.caus.act √veṣṭ"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "totality of sesame seeds",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tilān",
+     "gloss": "sesame-seeds",
+     "grounds": "ritual substance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sadyādimantrataḥ",
+     "gloss": "with-mantras-beginning-sadya",
+     "grounds": "compound indicating mantra series",
+     "morph": "(indecl.) (compound)"
+    }
+   ],
+   "question": "How should all the sesame seeds be wrapped using the mantras beginning with Sadya?",
+   "premises": [
+    "All sesame seeds are to be wrapped.",
+    "Cloth is used for wrapping.",
+    "The mantras beginning with Sadya are employed."
+   ],
+   "inference": "All the sesame seeds should be wrapped with cloth using the mantras beginning with Sadya.",
+   "uncertainties": [
+    "vastraḥ form unusual; taken as instrumental sense"
+   ],
+   "plain_english": "And one should wrap all the sesame seeds with cloth, using the mantras beginning with Sadya."
+  },
+  {
+   "verse": 7192,
+   "rows": [
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-deposit",
+     "grounds": "optative of placing",
+     "morph": "3.sg.opt.act √kṣip"
+    },
+    {
+     "surface": "parvataprānte",
+     "gloss": "at-mountain-edge",
+     "grounds": "locative compound indicating place",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "mūrtipān",
+     "gloss": "image-guardians",
+     "grounds": "guardians of the forms",
+     "morph": "m.acc.pl (compound)"
+    },
+    {
+     "surface": "mūrtisaṃyutān",
+     "gloss": "joined-with-images",
+     "grounds": "compound indicating association with images",
+     "morph": "m.acc.pl (compound)"
+    }
+   ],
+   "question": "Where should the image-guardians joined with the images be deposited?",
+   "premises": [
+    "Image-guardians are to be deposited.",
+    "They are joined with the images.",
+    "The place of deposition is the edge of the mountain."
+   ],
+   "inference": "The image-guardians joined with the images should be deposited at the edge of the mountain.",
+   "uncertainties": [
+    "parvata may refer to the sesame-mountain heap"
+   ],
+   "plain_english": "One should deposit the image-guardians, together with the images, at the edge of the mountain."
+  },
+  {
+   "verse": 7193,
+   "rows": [
+    {
+     "surface": "tatrastham",
+     "gloss": "standing-there",
+     "grounds": "compound indicating location",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "arcayed",
+     "gloss": "should-worship",
+     "grounds": "optative of worshipping",
+     "morph": "3.sg.opt.act √arc"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tilaparvatamadhyagam",
+     "gloss": "gone-to-middle-of-sesame-mountain",
+     "grounds": "compound describing deity's location",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "Which deity located in the middle of the sesame-mountain should be worshipped there?",
+   "premises": [
+    "A deity is present there.",
+    "The deity is in the middle of the sesame-mountain.",
+    "That deity should be worshipped."
+   ],
+   "inference": "One should worship the deity standing there in the middle of the sesame-mountain.",
+   "uncertainties": [],
+   "plain_english": "One should worship the god who is present there in the middle of the sesame-mountain."
+  },
+  {
+   "verse": 7194,
+   "rows": [
+    {
+     "surface": "darśayet",
+     "gloss": "should-show",
+     "grounds": "causative optative of seeing/showing",
+     "morph": "3.sg.opt.caus.act √dṛś"
+    },
+    {
+     "surface": "tilamadhyasthaṃ",
+     "gloss": "standing-in-sesame-middle",
+     "grounds": "compound indicating position",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "devadevam",
+     "gloss": "god-of-gods",
+     "grounds": "epithet of supreme deity",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "upāpatim",
+     "gloss": "upāpati",
+     "grounds": "unclear epithet or name in this context",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which supreme deity standing in the middle of the sesame should be revealed?",
+   "premises": [
+    "A deity is to be shown.",
+    "The deity stands in the middle of the sesame.",
+    "The deity is called the god of gods and upāpati."
+   ],
+   "inference": "One should reveal the god of gods, upāpati, standing in the middle of the sesame.",
+   "uncertainties": [
+    "upāpatim is obscure; retained as name/epithet"
+   ],
+   "plain_english": "One should reveal the God of gods, upāpati, standing in the middle of the sesame."
+  },
+  {
+   "verse": 7195,
+   "rows": [
+    {
+     "surface": "asmārcane",
+     "gloss": "in-this-worship",
+     "grounds": "locative compound referring to this worship",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "past participle in locative absolute sense",
+     "morph": "n.loc.sg.past.part.pass √kṛ"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of intended result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "certainly",
+     "grounds": "adverb of certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present of becoming",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "kalpanam",
+     "gloss": "accomplished",
+     "grounds": "resulting arrangement/fulfillment; reading uncertain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result is assured when this worship has been performed?",
+   "premises": [
+    "This worship is performed.",
+    "A result follows from it.",
+    "The result is said to be certain and complete."
+   ],
+   "inference": "When this worship is done, everything certainly becomes accomplished.",
+   "uncertainties": [
+    "kalpanam meaning uncertain; taken as fulfillment/accomplishment"
+   ],
+   "plain_english": "When this worship is performed, everything certainly becomes accomplished."
+  },
+  {
+   "verse": 7196,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "genitive of deity receiving bath",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sahasrakalaśādibhiḥ",
+     "gloss": "with-thousand-pots-and-others",
+     "grounds": "compound indicating vessels used",
+     "morph": "m.inst.pl (compound)"
+    }
+   ],
+   "question": "What ritual bathing of the deity is prescribed with a thousand pots and other vessels?",
+   "premises": [
+    "A bathing of the deity is prescribed.",
+    "A thousand pots are used.",
+    "Other vessels are also included."
+   ],
+   "inference": "The deity should be bathed with a thousand pots and other vessels.",
+   "uncertainties": [],
+   "plain_english": "Then comes the bathing of the deity with a thousand pots and other vessels."
+  },
+  {
+   "verse": 7197,
+   "rows": [
+    {
+     "surface": "visṛjya",
+     "gloss": "having-dismissed",
+     "grounds": "absolutive of ritual dismissal",
+     "morph": "(gerund) √sṛj"
+    },
+    {
+     "surface": "devadeveśaṃ",
+     "gloss": "lord-of-god-of-gods",
+     "grounds": "epithet of Śiva",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "śivāya",
+     "gloss": "to-śiva",
+     "grounds": "dative recipient of offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śivadharmiṇe",
+     "gloss": "to-śiva-devotee",
+     "grounds": "dative of one who follows Śiva's dharma",
+     "morph": "m.dat.sg (compound)"
+    }
+   ],
+   "question": "To whom should offerings be made after dismissing the Lord of the god of gods?",
+   "premises": [
+    "The Lord of the god of gods is dismissed.",
+    "An offering or dedication follows.",
+    "Recipients include Śiva and a follower of Śiva's dharma."
+   ],
+   "inference": "After dismissal, it should be dedicated to Śiva and to a follower of Śiva's dharma.",
+   "uncertainties": [
+    "exact ritual action implied with datives supplied from context"
+   ],
+   "plain_english": "Having dismissed the Lord of the god of gods, one should dedicate it to Śiva and to a follower of Śiva's dharma."
+  },
+  {
+   "verse": 7198,
+   "rows": [
+    {
+     "surface": "asmāt",
+     "gloss": "than-this",
+     "grounds": "ablative of comparison",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "parataraṃ",
+     "gloss": "higher",
+     "grounds": "comparative adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "act of giving",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "negative existential",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvanatraye",
+     "gloss": "in-three-worlds",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "What claim is made about the supremacy of this gift in the three worlds?",
+   "premises": [
+    "This gift is being compared to others.",
+    "No higher gift exists than this.",
+    "The comparison applies in the three worlds."
+   ],
+   "inference": "There is no gift higher than this in the three worlds.",
+   "uncertainties": [],
+   "plain_english": "There is no gift higher than this in the three worlds."
+  },
+  {
+   "verse": 7199,
+   "rows": [
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakāle",
+     "gloss": "at-all-times",
+     "grounds": "locative compound emphasizing time",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "should-be-done",
+     "grounds": "gerundive of obligation",
+     "morph": "n.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "passive present of stating",
+     "morph": "3.sg.pres.pass √kath"
+    }
+   ],
+   "question": "When is this rite declared to be performed according to the teaching here?",
+   "premises": [
+    "The rite is prescribed as obligatory.",
+    "It is to be done always and at all times.",
+    "This prescription is stated here."
+   ],
+   "inference": "It is declared here that this should be done always and at all times.",
+   "uncertainties": [],
+   "plain_english": "It is declared here that this should be performed always and at all times."
+  }
+ ]
+}
