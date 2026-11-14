@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3575,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable indicating an alternative manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajanaṃ",
+     "gloss": "worship",
+     "grounds": "object of the participial action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cecchan",
+     "gloss": "if-being",
+     "grounds": "sandhi of cet + san; conditional particle with present participle of √as",
+     "morph": "cet (indecl.) + san m.nom.sg.pres.part √as"
+    },
+    {
+     "surface": "karotyāpatparamparām",
+     "gloss": "brings-about-series-of-calamities",
+     "grounds": "sandhi of karoti + āpatparamparām; verb with compound object",
+     "morph": "karoti 3.sg.pres.act √kṛ + āpat-paramparām f.acc.sg compound"
+    }
+   ],
+   "question": "What consequence follows from performing worship in a manner contrary to the prescribed rites?",
+   "premises": [
+    "The preceding verses prescribe specific ritual arrangements for worship.",
+    "Worship may be performed in a manner contrary to those prescriptions.",
+    "An agent performing contrary worship produces a resulting effect."
+   ],
+   "inference": "Performing worship otherwise than prescribed brings about a succession of calamities.",
+   "uncertainties": [
+    "The exact internal analysis of cecchan as cet plus san is inferred from sandhi and context."
+   ],
+   "plain_english": "But if one performs worship otherwise, he brings about a succession of calamities."
+  }
+ ]
+}

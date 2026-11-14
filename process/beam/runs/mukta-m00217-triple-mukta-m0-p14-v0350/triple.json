@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "mahākṣobhaṃ",
+     "gloss": "great-agitation",
+     "grounds": "mahā+agitation (kṣobha)",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kurudvandvaṃ",
+     "gloss": "do-pair",
+     "grounds": "imperative of kṛ with dvandva sense as given",
+     "morph": "2.sg.imp.act + kṛ"
+    },
+    {
+     "surface": "śivacandrakalānalām",
+     "gloss": "shiva-moon-digit-fire",
+     "grounds": "śiva+candra+kalā+fire (anala), compound",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What ritual act is commanded upon the śiva-moon-digit-fire form in this instruction?",
+   "premises": [
+    "Great agitation is prescribed as a ritual effect",
+    "A paired doing is enjoined in this command",
+    "The target form is named as śiva-moon-digit-fire"
+   ],
+   "inference": "The practitioner is directed to stir greatly and to perform a paired act upon the śiva-moon-digit-fire.",
+   "uncertainties": [
+    "Exact ritual meaning of the paired action term remains unclear"
+   ],
+   "plain_english": "Produce great agitation; perform the paired act upon the śiva-moon-digit-fire."
+  }
+ ]
+}
