@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2439,
- "question": "What action must be performed with the configured elements?",
+ "question": "Which directional placements are assigned to the third and fourth base positions?",
  "premises": [
-  "A specific configuration has been given.",
-  "Movement or activation is required.",
-  "The action is prescriptive."
+  "A third base position is specified.",
+  "A fourth base position is specified.",
+  "Directional alternatives are given for their placement."
  ],
- "inference": "One should set the configured elements in motion.",
- "uncertainties": [
-  "The object of movement is carried over from the previous verse."
- ],
- "plain_english": "One should set them in motion."
+ "inference": "The third base may be placed in the southwest, and the fourth in the northwest.",
+ "uncertainties": [],
+ "plain_english": "The third base may be placed in the southwest, or the fourth in the northwest."
 }

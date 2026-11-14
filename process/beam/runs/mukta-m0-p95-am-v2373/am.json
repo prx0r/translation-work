@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p95",
  "verse": 2373,
- "question": "What preparatory bodily ritual must precede mantra recitation?",
+ "question": "What sequence of teaching and knowledge is announced to the brahmin?",
  "premises": [
-  "The limbs must be ritually placed.",
-  "Recitation follows that placement."
+  "Something will be spoken first to the brahmin.",
+  "The scope concerns all.",
+  "Then they know."
  ],
- "inference": "One must necessarily perform placement on the limbs and then recite.",
- "uncertainties": [],
- "plain_english": "One must necessarily place the mantras on the limbs and then recite."
+ "inference": "The text announces that something will be spoken first, and then all will know.",
+ "uncertainties": [
+  "The referent of sakalānāṃ and the subject of viduḥ are unclear without further context."
+ ],
+ "plain_english": "O brahmin, it will be spoken first, and then they know of all."
 }

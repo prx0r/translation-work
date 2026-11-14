@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2387,
- "question": "Where should the house of the chief queen be placed within the layout?",
+ "question": "How is the pedestal width related to the height equal to the Vishnu-part?",
  "premises": [
-  "The house of the chief queen is specified.",
-  "The left side is given as its location."
+  "The pedestal width is being defined.",
+  "The height is equal to the Vishnu-part.",
+  "This relation is explicitly declared."
  ],
- "inference": "The house of the chief queen should be placed on the left side.",
+ "inference": "The declared pedestal width corresponds to a height equal to the Vishnu-part.",
  "uncertainties": [
-  "The reference point for left side is not explicitly stated."
+  "The compound may imply the width is set in relation to that height."
  ],
- "plain_english": "One should place the house of the chief queen on the left side."
+ "plain_english": "The pedestal width is declared to be as high as the Vishnu-part."
 }

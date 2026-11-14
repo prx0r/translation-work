@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2446,
- "question": "How should the entire previously taught rite be completed?",
+ "question": "What alternative materials are permitted for constructing the prescribed object?",
  "premises": [
-  "The rite was previously taught.",
-  "It must be performed in its entirety.",
-  "It concludes with the placement rite."
+  "Different material origins are listed.",
+  "Metal, gem, and wood are included.",
+  "These are presented as valid alternatives."
  ],
- "inference": "One should perform the entire previously taught rite, concluding with the placement rite.",
- "uncertainties": [],
- "plain_english": "One should perform the entire rite as previously taught, concluding with the placement rite."
+ "inference": "The object may likewise be made of metal, gems, or wood.",
+ "uncertainties": [
+  "The specific object referred to is implied from the surrounding context."
+ ],
+ "plain_english": "It may likewise be made of metal, of gems, or of wood."
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2475,
+   "rows": [
+    {
+     "surface": "cibuke",
+     "gloss": "on-chin",
+     "grounds": "locative of cibuka indicating location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bandhunāśaṃ",
+     "gloss": "kin-loss",
+     "grounds": "compound bandhu+nāśa denoting destruction of relatives",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing possible outcome",
+     "morph": "3.sg.opt-act √as"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "on-ear",
+     "grounds": "locative of karṇa indicating location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "skandhavināśanam",
+     "gloss": "shoulder-destruction",
+     "grounds": "compound skandha+vināśana denoting destruction of the shoulder",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What inauspicious outcomes are signified by marks appearing on the chin and ear?",
+   "premises": [
+    "A mark located on the chin signifies loss of kin.",
+    "A mark located on the ear signifies destruction of the shoulder.",
+    "Specific bodily locations correspond to specific inauspicious outcomes."
+   ],
+   "inference": "Marks on the chin and ear respectively foretell the loss of kin and the destruction of the shoulder.",
+   "uncertainties": [
+    "The exact nature of skandhavināśanam as physical injury or broader ruin is not specified."
+   ],
+   "plain_english": "On the chin there may be loss of kin, and on the ear there may be destruction of the shoulder."
+  }
+ ]
+}

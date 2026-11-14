@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p99",
  "verse": 2463,
- "question": "Which three pulses or grains are grouped together in this classification?",
+ "question": "How many oblations must be offered and with which mantra in this rite?",
  "premises": [
-  "Lentils are named.",
-  "Kodo-millet is named.",
-  "Chickpeas are named as a threefold group."
+  "The oblation is offered using the aghora mantra.",
+  "Eight hundred offerings must be made for each."
  ],
- "inference": "Lentils, kodo-millet, and chickpeas form a threefold group in this list.",
- "uncertainties": [],
- "plain_english": "Lentils, kodo-millet, and chickpeas are listed as a threefold group."
+ "inference": "After offering the oblation with the aghora mantra, one must perform eight hundred offerings for each.",
+ "uncertainties": [
+  "The exact referent of 'each' is implied by the ritual context."
+ ],
+ "plain_english": "Having offered the oblation with the aghora mantra, one should make eight hundred offerings for each."
 }

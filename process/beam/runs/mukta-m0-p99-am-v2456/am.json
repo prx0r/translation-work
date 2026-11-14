@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p99",
  "verse": 2456,
- "question": "Which specific plants are named as acceptable in this dietary list?",
+ "question": "How should the width of the pavilion be determined relative to its base measure?",
  "premises": [
-  "Sickle-senna is named.",
-  "Another plant called palaṅka is named.",
-  "Dill is named."
+  "The pavilion's width is calculated from that same base measure.",
+  "The width should be made three times that measure."
  ],
- "inference": "Sickle-senna, palaṅka, and dill are included among acceptable plants.",
+ "inference": "The pavilion should be made spacious with a width three times the stated measure.",
  "uncertainties": [
-  "The exact identification of palaṅka is uncertain."
+  "The exact referent of 'that same' measure is context-dependent."
  ],
- "plain_english": "Sickle-senna, palaṅka, and dill are included."
+ "plain_english": "Make the pavilion spacious with a width three times that same measure."
 }

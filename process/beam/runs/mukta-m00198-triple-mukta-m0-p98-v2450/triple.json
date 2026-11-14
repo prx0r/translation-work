@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "liṃgasya",
+     "gloss": "of-linga",
+     "grounds": "possessor of the face-construction to be defined",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mukhanirmāṇaṃ",
+     "gloss": "face-making",
+     "grounds": "action of constructing the face; object of delineation",
+     "morph": "n.acc.sg; compound mukha+nirmāṇa"
+    },
+    {
+     "surface": "lakṣaṇoddhāramiṣyate",
+     "gloss": "characteristics-delineation-is-intended",
+     "grounds": "lakṣaṇa+uddhāra compounded with sandhi, joined to iṣyate; states what is to be set forth",
+     "morph": "3.sg.pass-pres; √iṣ"
+    }
+   ],
+   "question": "What defining characteristics govern the proper construction of the liṅga's face?",
+   "premises": [
+    "The liṅga is the object requiring a constructed face.",
+    "The making of the face is subject to specific characteristics.",
+    "The delineation of these characteristics is intended to be set forth."
+   ],
+   "inference": "The defining characteristics for making the liṅga's face are to be delineated.",
+   "uncertainties": [
+    "The precise scope of lakṣaṇoddhāra as extraction versus systematic delineation is context-dependent."
+   ],
+   "plain_english": "The delineation of the characteristics for making the face of the liṅga is intended."
+  }
+ ]
+}

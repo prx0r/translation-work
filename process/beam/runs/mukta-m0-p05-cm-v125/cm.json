@@ -3,29 +3,34 @@
  "verse": 125,
  "rows": [
   {
-   "lemma": "sapaśum",
-   "morph": "sa+paśu (compound, m.acc.sg)",
-   "grounds": "compound indicating accompaniment by an animal victim"
+   "lemma": "kiñca",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable particle introducing an additional point"
   },
   {
-   "lemma": "dadyāt",
-   "morph": "3.sg.act-opt √dā",
-   "grounds": "prescriptive injunction to offer"
+   "lemma": "bhakta+eka+gātraḥ+tvam",
+   "morph": "compound+pron.2.sg",
+   "grounds": "bahuvrīhi compound bhakta+eka+gātraḥ qualifying tvam; tvam is the addressed subject"
   },
   {
-   "lemma": "niśāyām",
-   "morph": "f.loc.sg",
-   "grounds": "specifies the time for the offering"
+   "lemma": "bhava+iti",
+   "morph": "impv.2.sg.act+indecl.",
+   "grounds": "imperative bhava followed by quotative iti marking the content of the request"
   },
   {
-   "lemma": "bhairavam",
-   "morph": "m.acc.sg",
-   "grounds": "designates Bhairava as the recipient deity"
+   "lemma": "abhyarthaye",
+   "morph": "1.sg.pres.mid (√abhyarth)",
+   "grounds": "verb of entreaty with speaker as subject and mām as object"
   },
   {
-   "lemma": "balim",
-   "morph": "m.acc.sg",
-   "grounds": "the ritual offering to be presented"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable connective particle"
+  },
+  {
+   "lemma": "mām",
+   "morph": "pron.acc.sg",
+   "grounds": "object of abhyarthaye, referring to the speaker"
   }
  ]
 }

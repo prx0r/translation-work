@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p03",
  "verse": 63,
- "question": "How large a circle must be drawn around the middle using the peg's measure?",
+ "question": "What ritual act should be performed after covering with cloths?",
  "premises": [
-  "A circle is to be drawn in the middle.",
-  "The peg provides the unit of measure.",
-  "The measure used is double the peg."
+  "Covering with cloths is done first",
+  "A Śiva fire rite is specified",
+  "The act should then be performed"
  ],
- "inference": "One should draw a circle in its middle with a radius of twice the peg's measure.",
- "uncertainties": [],
- "plain_english": "In its middle one should draw a circle using twice the measure of the peg."
+ "inference": "After covering with cloths, one should then perform the Śiva fire rite.",
+ "uncertainties": [
+  "śivāgnimukham may refer specifically to the fire-facing preliminary rite"
+ ],
+ "plain_english": "Having covered them with cloths, one should then perform the Śiva fire rite."
 }

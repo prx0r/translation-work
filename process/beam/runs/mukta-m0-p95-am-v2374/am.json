@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p95",
  "verse": 2374,
- "question": "What alternative devotional focus on Viṣṇu is permitted during recitation?",
+ "question": "What material alternatives are specified for the construction in question?",
  "premises": [
-  "One may recite a Vaiṣṇava mantra.",
-  "Alternatively one may remember Hari."
+  "A wooden context or material is mentioned.",
+  "A wooden option is given as an alternative.",
+  "A brick-made option is also given."
  ],
- "inference": "The practitioner may either recite a Vaiṣṇava mantra or remember Hari.",
- "uncertainties": [],
- "plain_english": "One should recite a Vaiṣṇava mantra or remember Hari."
+ "inference": "The construction may be made of wood or alternatively of brick.",
+ "uncertainties": [
+  "The syntactic relation of dāruje to the alternatives is somewhat unclear without following context."
+ ],
+ "plain_english": "In the case of what is wood-born, it may be wooden, or else made only of brick."
 }

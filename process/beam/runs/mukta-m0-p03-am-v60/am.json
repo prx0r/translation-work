@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p03",
  "verse": 60,
- "question": "What kind of ground must the teacher select and prepare at the center?",
+ "question": "What materials and proportions are required for the procedure?",
  "premises": [
-  "The teacher acts after the prior preparations.",
-  "The ground chosen must be excellent.",
-  "The ground must be level in the middle."
+  "Rice is used in specified halves",
+  "Sesame is used likewise in halves",
+  "Both materials are part of the preparation"
  ],
- "inference": "Afterwards the teacher should select an excellent and level ground in the middle.",
- "uncertainties": [],
- "plain_english": "Afterwards, the teacher should choose an excellent piece of ground that is level in the middle."
+ "inference": "The procedure requires rice and likewise sesame in their respective halves.",
+ "uncertainties": [
+  "the reference measure for tadardhaiḥ is not explicit in this verse"
+ ],
+ "plain_english": "With half portions of rice, and likewise with half portions of sesame."
 }
