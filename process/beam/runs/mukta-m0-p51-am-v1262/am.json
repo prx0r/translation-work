@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p51",
  "verse": 1262,
- "question": "What features of faces and tongues characterize the described altar?",
+ "question": "In what sequence are the specified elements to be arranged?",
  "premises": [
-  "An altar-like object is described.",
-  "It is endowed with five faces.",
-  "It is adorned with seven tongues."
+  "The last, first, second, fourth, and middle elements are named",
+  "The arrangement is to follow an order"
  ],
- "inference": "The described object is endowed with five faces and adorned with seven tongues.",
+ "inference": "The elements are to be taken in the order: last, first, second, fourth, and middle",
  "uncertainties": [
-  "rakam is an unusual form; taken as the object described"
+  "the exact referents of these ordinal positions depend on the implied letter set"
  ],
- "plain_english": "It is endowed with five faces and adorned with seven tongues."
+ "plain_english": "In order: the last, the first, the second, the fourth, and the middle."
 }

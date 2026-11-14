@@ -3,29 +3,34 @@
  "verse": 1318,
  "rows": [
   {
-   "lemma": "ājyam",
-   "morph": "n.acc.sg",
-   "grounds": "object to be ritually prepared"
+   "lemma": "svapna+labdhe",
+   "morph": "m.loc.sg, compound=tatpuruṣa+tatpuruṣa",
+   "grounds": "compound: svapna+labdha; obtained in a dream"
   },
   {
-   "lemma": "astreṇa",
-   "morph": "n.inst.sg",
-   "grounds": "instrumental specifying the mantra for sprinkling"
+   "lemma": "striyā",
+   "morph": "f.ins.sg",
+   "grounds": "agent giving the mantra"
   },
   {
-   "lemma": "saṃprokṣya",
-   "morph": "gerund (sam-pra-ukṣ)",
-   "grounds": "absolutive indicating sprinkling"
+   "lemma": "datte",
+   "morph": "m.loc.sg, past-passive-participle of dā",
+   "grounds": "manner of receiving"
   },
   {
-   "lemma": "kavacenāvakuṇṭhya",
-   "morph": "compound: kavacena+avakuṇṭhya (n.inst.sg + gerund ava-kuṇṭh)",
-   "grounds": "fused absolutive indicating covering with the armor mantra"
+   "lemma": "mitra+amitraṃ",
+   "morph": "n.acc.sg, compound=dvandva+dvandva",
+   "grounds": "compound: mitra+amitra; friendly or hostile relation"
   },
   {
-   "lemma": "ca",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "conjunction linking ritual acts"
+   "grounds": "negation"
+  },
+  {
+   "lemma": "ca+arcayet",
+   "morph": "(indecl.), 3.sg.optative of arc",
+   "grounds": "fused: ca + arcayet; prohibition of worship"
   }
  ]
 }

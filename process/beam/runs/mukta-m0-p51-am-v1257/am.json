@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p51",
  "verse": 1257,
- "question": "What further attributes of thread, cord, and hands define the described form?",
+ "question": "How many vertical and crosswise lines form the diagram's grid?",
  "premises": [
-  "The form wears a sacred thread.",
-  "The form has a munja cord.",
-  "The form is endowed with seven hands."
+  "Ten lines are drawn upward and downward",
+  "Crosswise lines are likewise drawn",
+  "The number of crosswise lines is ten"
  ],
- "inference": "The described form wears a sacred thread, has a munja cord, and is endowed with seven hands.",
- "uncertainties": [
-  "subject implied from context as the fire's form"
- ],
- "plain_english": "It wears the sacred thread, has a munja cord, and is endowed with seven hands."
+ "inference": "The diagram is formed by ten vertical and ten crosswise lines",
+ "uncertainties": [],
+ "plain_english": "Draw ten lines upward and downward, and likewise ten crosswise lines."
 }
