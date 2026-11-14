@@ -1,0 +1,983 @@
+{
+ "song": "mukta-m0-p307",
+ "items": [
+  {
+   "verse": 7651,
+   "rows": [
+    {
+     "surface": "nīlataṇḍulahomena",
+     "gloss": "blue-rice-oblation",
+     "grounds": "instrumental compound indicating the ritual substance used in oblation",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "śāntir",
+     "gloss": "peace",
+     "grounds": "resulting state produced by the rite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "expresses the arising of the stated result",
+     "morph": "3.sg.present-active √bhū"
+    },
+    {
+     "surface": "mandire",
+     "gloss": "in-temple",
+     "grounds": "locative indicating the place where peace arises",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What result does an oblation of blue rice produce in a temple?",
+   "premises": [
+    "An oblation uses blue rice.",
+    "The ritual act yields a specific effect.",
+    "The effect manifests in the temple."
+   ],
+   "inference": "Therefore, an oblation of blue rice brings peace to the temple.",
+   "uncertainties": [],
+   "plain_english": "By an oblation of blue rice, peace arises in the temple."
+  },
+  {
+   "verse": 7652,
+   "rows": [
+    {
+     "surface": "dhānyasiddhir",
+     "gloss": "grain-accomplishment",
+     "grounds": "compound naming the successful attainment of grain",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "optative expressing the assured result",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb emphasizing certainty of the outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What assured outcome is promised regarding the accomplishment of grain?",
+   "premises": [
+    "A ritual outcome is being stated.",
+    "The outcome concerns grain accomplishment.",
+    "The result is declared certain."
+   ],
+   "inference": "Therefore, the accomplishment of grain will certainly come about.",
+   "uncertainties": [],
+   "plain_english": "There will certainly be the accomplishment of grain."
+  },
+  {
+   "verse": 7653,
+   "rows": [
+    {
+     "surface": "vaṭakair",
+     "gloss": "with-cakes",
+     "grounds": "instrumental plural indicating ritual offerings used",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "upasargān",
+     "gloss": "obstacles",
+     "grounds": "objects to be removed by the rite",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vināśayet",
+     "gloss": "one-destroys",
+     "grounds": "optative expressing the power to destroy obstacles",
+     "morph": "3.sg.optative-active √naś (causative)"
+    }
+   ],
+   "question": "What ritual offering enables the destruction of obstacles?",
+   "premises": [
+    "Cakes are used as offerings.",
+    "Obstacles are the target of removal.",
+    "The rite effects their destruction."
+   ],
+   "inference": "Therefore, offerings of cakes destroy obstacles.",
+   "uncertainties": [],
+   "plain_english": "With cakes, one destroys obstacles."
+  },
+  {
+   "verse": 7654,
+   "rows": [
+    {
+     "surface": "japāpuṣpair",
+     "gloss": "with-hibiscus-flowers",
+     "grounds": "instrumental compound naming one ritual substance",
+     "morph": "compound n.ins.pl"
+    },
+    {
+     "surface": "jagadvaśyaṃ",
+     "gloss": "world-control",
+     "grounds": "compound naming the power to bring the world under control",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "bāṇapuṣpaiś",
+     "gloss": "with-bana-flowers",
+     "grounds": "instrumental compound naming another ritual substance; sandhi form retained",
+     "morph": "compound n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two ritual results",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mohanam",
+     "gloss": "enchantment",
+     "grounds": "names the effect produced by the second offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What distinct powers arise from offerings of hibiscus and bana flowers?",
+   "premises": [
+    "Hibiscus flowers are used in oblation.",
+    "Bana flowers are used in oblation.",
+    "Each substance yields a different power."
+   ],
+   "inference": "Therefore, hibiscus flowers bring control over the world and bana flowers bring enchantment.",
+   "uncertainties": [
+    "bāṇa-puṣpa identified as bana flower by tradition; exact species not specified"
+   ],
+   "plain_english": "With hibiscus flowers comes control over the world, and with bana flowers comes enchantment."
+  },
+  {
+   "verse": 7655,
+   "rows": [
+    {
+     "surface": "daśāgadhūpahomāc",
+     "gloss": "ten-limb-incense-oblation",
+     "grounds": "ablative compound indicating the rite from which the result arises; sandhi form retained",
+     "morph": "compound m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds this result to the series",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saubhāgyam",
+     "gloss": "good-fortune",
+     "grounds": "names the auspicious result produced",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atulaṃ",
+     "gloss": "incomparable",
+     "grounds": "qualifies the degree of good fortune",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses the arising of the result",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What incomparable benefit results from an oblation with ten-limbed incense?",
+   "premises": [
+    "An oblation uses ten-limbed incense.",
+    "The rite produces a specific benefit.",
+    "The benefit is described as incomparable."
+   ],
+   "inference": "Therefore, an oblation with ten-limbed incense produces incomparable good fortune.",
+   "uncertainties": [
+    "daśāga-dhūpa refers to a specific incense mixture; exact composition not specified"
+   ],
+   "plain_english": "From an oblation with ten-limbed incense, incomparable good fortune arises."
+  },
+  {
+   "verse": 7656,
+   "rows": [
+    {
+     "surface": "śrīphalair",
+     "gloss": "with-bilva-fruits",
+     "grounds": "instrumental compound naming the offering for prosperity",
+     "morph": "compound n.ins.pl"
+    },
+    {
+     "surface": "atulā",
+     "gloss": "incomparable",
+     "grounds": "qualifies the prosperity obtained",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lakṣmīr",
+     "gloss": "prosperity",
+     "grounds": "names the goddess or state of wealth and fortune",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ikṣudaṇḍaiḥ",
+     "gloss": "with-sugarcane-stalks",
+     "grounds": "instrumental compound naming the offering for happiness",
+     "morph": "compound m.ins.pl"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "names the result produced by sugarcane",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses the arising of the result",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What results follow from oblations with bilva fruits and sugarcane stalks?",
+   "premises": [
+    "Bilva fruits are used in oblation.",
+    "Sugarcane stalks are used in oblation.",
+    "Each offering yields a distinct result."
+   ],
+   "inference": "Therefore, bilva fruits bring incomparable prosperity and sugarcane stalks bring happiness.",
+   "uncertainties": [],
+   "plain_english": "With bilva fruits comes incomparable prosperity, and with sugarcane stalks comes happiness."
+  },
+  {
+   "verse": 7657,
+   "rows": [
+    {
+     "surface": "varadāḥ",
+     "gloss": "boon-giving",
+     "grounds": "describes the powers as granting boons",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvaśaktayaḥ",
+     "gloss": "all-powers",
+     "grounds": "compound naming all the powers collectively",
+     "morph": "compound f.nom.pl"
+    }
+   ],
+   "question": "What quality is attributed to all the powers in this context?",
+   "premises": [
+    "All powers are being described.",
+    "The description assigns them a function.",
+    "That function is granting boons."
+   ],
+   "inference": "Therefore, all the powers are boon-giving.",
+   "uncertainties": [],
+   "plain_english": "All the powers become boon-giving."
+  },
+  {
+   "verse": 7658,
+   "rows": [
+    {
+     "surface": "paurṇamāsyāṃ",
+     "gloss": "on-full-moon-day",
+     "grounds": "locative specifying the lunar day for the rite",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "viśākhādityasaṃgame",
+     "gloss": "vishakha-sunday-conjunction",
+     "grounds": "locative compound specifying the astrological conjunction",
+     "morph": "compound m.loc.sg"
+    }
+   ],
+   "question": "What specific astrological timing is prescribed for the ritual practice?",
+   "premises": [
+    "A ritual timing is specified.",
+    "The day is the full moon.",
+    "It coincides with Vishakha and Sunday."
+   ],
+   "inference": "Therefore, the practice is prescribed on a full-moon day when Vishakha coincides with Sunday.",
+   "uncertainties": [],
+   "plain_english": "On the full-moon day, when Vishakha coincides with Sunday."
+  },
+  {
+   "verse": 7659,
+   "rows": [
+    {
+     "surface": "kāṃtāśatāsaṃge",
+     "gloss": "hundred-beloveds-union",
+     "grounds": "locative compound describing union with a hundred beloveds",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation of stumbling; sandhi form of na retained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sau",
+     "gloss": "he",
+     "grounds": "demonstrative referring to the practitioner; sandhi form of saḥ retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "skhalati",
+     "gloss": "stumbles",
+     "grounds": "verb indicating failure or loss of potency",
+     "morph": "3.sg.present-active √skhal"
+    },
+    {
+     "surface": "mānavaḥ",
+     "gloss": "man",
+     "grounds": "subject who performs the practice",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What power over potency is granted to the practitioner in union with many beloveds?",
+   "premises": [
+    "The practitioner unites with a hundred beloveds.",
+    "Stumbling would indicate loss of potency.",
+    "The text denies such stumbling."
+   ],
+   "inference": "Therefore, the man does not stumble even in union with a hundred beloveds.",
+   "uncertainties": [],
+   "plain_english": "In union with a hundred beloveds, that man does not stumble."
+  },
+  {
+   "verse": 7660,
+   "rows": [
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "adverb indicating promptness of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambhaje",
+     "gloss": "i-worship",
+     "grounds": "first-person statement of devotional practice",
+     "morph": "1.sg.present-middle √bhaj"
+    },
+    {
+     "surface": "vāmalocanām",
+     "gloss": "beautiful-eyed-one",
+     "grounds": "epithet of the goddess addressed in worship",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Whom does the practitioner immediately worship in this devotional act?",
+   "premises": [
+    "The speaker performs worship.",
+    "The worship is immediate.",
+    "The object is the beautiful-eyed goddess."
+   ],
+   "inference": "Therefore, the practitioner immediately worships the beautiful-eyed goddess.",
+   "uncertainties": [
+    "vāmalocanā is a goddess epithet; specific identity within Śrīvidyā context not fully specified"
+   ],
+   "plain_english": "I immediately worship the beautiful-eyed goddess."
+  },
+  {
+   "verse": 7661,
+   "rows": [
+    {
+     "surface": "stambhaya",
+     "gloss": "paralyze",
+     "grounds": "imperative mantra command to immobilize",
+     "morph": "2.sg.imperative-active √stambh (causative)"
+    },
+    {
+     "surface": "dviś",
+     "gloss": "twice",
+     "grounds": "indicates repetition of the utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "coktvā",
+     "gloss": "and-having-said",
+     "grounds": "gerund indicating prior utterance; sandhi form of ca uktvā retained",
+     "morph": "(indecl.) + gerund √vac"
+    },
+    {
+     "surface": "nāde",
+     "gloss": "in-sound",
+     "grounds": "locative referring to the sonic element or nāda",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "ma",
+     "grounds": "mantra syllable or element to be uttered",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative mantra command",
+     "morph": "2.sg.imperative-active √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects mantra elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "reports the prescribed utterance",
+     "morph": "3.sg.present-passive √vac"
+    }
+   ],
+   "question": "What sequence of mantra words and syllables is prescribed for the paralyzing rite?",
+   "premises": [
+    "A paralyzing command is uttered twice.",
+    "Additional mantra elements follow in sound.",
+    "The sequence is explicitly stated."
+   ],
+   "inference": "Therefore, one should say 'stambhaya' twice, then utter 'mā kuru' in the nāda.",
+   "uncertainties": [
+    "exact placement of nāda and syllables in the mantra sequence is partly ambiguous"
+   ],
+   "plain_english": "Having said 'stambhaya' twice, one utters 'mā' and 'kuru' in the nāda; thus it is said."
+  },
+  {
+   "verse": 7662,
+   "rows": [
+    {
+     "surface": "lakṣajapāt",
+     "gloss": "hundred-thousand-recitation",
+     "grounds": "ablative compound indicating accomplishment through recitation",
+     "morph": "compound m.abl.sg"
+    },
+    {
+     "surface": "sidhyed",
+     "gloss": "is-accomplished",
+     "grounds": "optative expressing successful attainment; sandhi form retained",
+     "morph": "3.sg.optative-passive √sidh"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "repeated alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmalocanā",
+     "gloss": "beautiful-eyed-one",
+     "grounds": "names the goddess or power to be accomplished",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Through what quantity of recitation is the beautiful-eyed goddess accomplished?",
+   "premises": [
+    "Recitation is the means of accomplishment.",
+    "The quantity specified is one hundred thousand.",
+    "The goal is the beautiful-eyed goddess."
+   ],
+   "inference": "Therefore, by reciting one hundred thousand times, the beautiful-eyed goddess is accomplished.",
+   "uncertainties": [
+    "repeated vā may indicate textual emphasis or alternative readings"
+   ],
+   "plain_english": "By recitation of one hundred thousand times, the beautiful-eyed goddess is accomplished."
+  },
+  {
+   "verse": 7663,
+   "rows": [
+    {
+     "surface": "pure",
+     "gloss": "in-city",
+     "grounds": "locative indicating the dwelling place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vasati",
+     "gloss": "dwells",
+     "grounds": "states the presence of the yoginī",
+     "morph": "3.sg.present-active √vas"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yogini-goddess",
+     "grounds": "the goddess who dwells in the city",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where does the yogini goddess reside according to this teaching?",
+   "premises": [
+    "A divine female figure is named.",
+    "Her dwelling is specified.",
+    "The location is a city."
+   ],
+   "inference": "Therefore, the yogini goddess dwells in the city.",
+   "uncertainties": [],
+   "plain_english": "The yogini goddess dwells in the city."
+  },
+  {
+   "verse": 7664,
+   "rows": [
+    {
+     "surface": "aukāreṇa",
+     "gloss": "with-o-syllable",
+     "grounds": "instrumental indicating accompaniment by the syllable au",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "samanvitāḥ",
+     "gloss": "endowed-with",
+     "grounds": "describes being joined or endowed with the syllable",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What syllabic element is associated with the beings described here?",
+   "premises": [
+    "Certain beings are described.",
+    "They are endowed with a syllable.",
+    "The syllable is au."
+   ],
+   "inference": "Therefore, they are endowed with the syllable au.",
+   "uncertainties": [
+    "referent of the plural is carried from context"
+   ],
+   "plain_english": "They are endowed with the syllable au."
+  },
+  {
+   "verse": 7665,
+   "rows": [
+    {
+     "surface": "caitanyabhairavītulyaṃ",
+     "gloss": "caitanya-bhairavi-equal",
+     "grounds": "compound expressing equivalence to Caitanya Bhairavi",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "viśeṣo",
+     "gloss": "distinction",
+     "grounds": "names a specific difference or special point",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "which",
+     "grounds": "relative marker; sandhi form of yaḥ retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjane",
+     "gloss": "in-worship",
+     "grounds": "locative specifying the context of distinction",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What distinction in worship is noted relative to Caitanya Bhairavi?",
+   "premises": [
+    "A comparison to Caitanya Bhairavi is made.",
+    "A distinction exists in worship.",
+    "That distinction is being identified."
+   ],
+   "inference": "Therefore, there is a distinction in worship, though otherwise equal to Caitanya Bhairavi.",
+   "uncertainties": [
+    "yaṃ appears irregular in agreement; may reflect transmitted reading"
+   ],
+   "plain_english": "It is equal to Caitanya Bhairavi, except for this distinction in worship."
+  },
+  {
+   "verse": 7666,
+   "rows": [
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "refers to remaining elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "indicates totality of the remaining procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathoktavat",
+     "gloss": "as-stated",
+     "grounds": "comparative compound indicating conformity to prior instruction",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "How should the remaining ritual procedure be performed after the stated distinction?",
+   "premises": [
+    "A distinction in worship was noted.",
+    "Other elements remain to be performed.",
+    "Prior instruction governs them."
+   ],
+   "inference": "Therefore, all the rest should be performed afterwards as previously stated.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, everything else is to be done just as previously stated."
+  },
+  {
+   "verse": 7667,
+   "rows": [
+    {
+     "surface": "sādhanaṃ",
+     "gloss": "practice",
+     "grounds": "names the ritual or spiritual practice to be taught",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vacmi",
+     "gloss": "i-speak",
+     "grounds": "first-person declaration introducing instruction",
+     "morph": "1.sg.present-active √vac"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "points to the practice being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekāṃte",
+     "gloss": "in-solitary-place",
+     "grounds": "locative specifying seclusion for the practice",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nadītaṭe",
+     "gloss": "river-bank",
+     "grounds": "locative compound specifying the place of practice",
+     "morph": "compound n.loc.sg"
+    }
+   ],
+   "question": "Where should the practice now being taught be performed?",
+   "premises": [
+    "A practice is about to be taught.",
+    "The place of practice is specified.",
+    "It requires solitude on a river bank."
+   ],
+   "inference": "Therefore, that practice should be performed in a solitary place on a river bank.",
+   "uncertainties": [],
+   "plain_english": "I now speak of that practice, to be done in a solitary place on a river bank."
+  },
+  {
+   "verse": 7668,
+   "rows": [
+    {
+     "surface": "yamaṃ",
+     "gloss": "yama",
+     "grounds": "name of a deity or principle invoked",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "kala",
+     "grounds": "name of a deity or principle invoked",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viṣṇum",
+     "gloss": "vishnu",
+     "grounds": "name of a deity invoked",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "īśaṃ",
+     "gloss": "isha",
+     "grounds": "name of a deity invoked; sandhi form retained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "indicates sequential invocation",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the listed names",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities or principles are to be invoked in sequence in this practice?",
+   "premises": [
+    "A sequence of names is given.",
+    "The names include Yama, Kala, Vishnu, and Isha.",
+    "They are to be taken in order."
+   ],
+   "inference": "Therefore, Yama, Kala, Vishnu, and Isha are to be invoked in sequence.",
+   "uncertainties": [
+    "kāla may refer to time or a specific deity; context suggests a divine principle"
+   ],
+   "plain_english": "Yama, Kala, Vishnu, and Isha are to be invoked in order."
+  },
+  {
+   "verse": 7669,
+   "rows": [
+    {
+     "surface": "homas",
+     "gloss": "oblation",
+     "grounds": "names the fire offering to be performed; sandhi form of homaḥ retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trirelāyāḥ",
+     "gloss": "of-threefold-ela",
+     "grounds": "genitive compound specifying the substance; sandhi form retained",
+     "morph": "compound f.gen.sg"
+    },
+    {
+     "surface": "phalair",
+     "gloss": "with-fruits",
+     "grounds": "instrumental indicating the material used in oblation",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescribing the oblation",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What substance should be used for the oblation in this sequence?",
+   "premises": [
+    "An oblation is prescribed.",
+    "The material is specified as fruits.",
+    "The fruits are of threefold ela."
+   ],
+   "inference": "Therefore, the oblation should be made with the fruits of threefold ela.",
+   "uncertainties": [
+    "trirelā is a traditional substance name; exact botanical identification uncertain"
+   ],
+   "plain_english": "The oblation should be made with the fruits of threefold ela."
+  },
+  {
+   "verse": 7670,
+   "rows": [
+    {
+     "surface": "raviṇā",
+     "gloss": "with-sun",
+     "grounds": "instrumental indicating conjunction with the sun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "introduces the temporal condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktā",
+     "gloss": "joined",
+     "grounds": "describes conjunction or union",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses the occurrence of the condition",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the consequent time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What temporal condition involving the sun is specified for the practice?",
+   "premises": [
+    "A condition is introduced by 'when'.",
+    "The condition involves being joined with the sun.",
+    "A consequent time is marked by 'then'."
+   ],
+   "inference": "Therefore, the practice is tied to the time when there is conjunction with the sun.",
+   "uncertainties": [
+    "the subject joined with the sun is carried from context"
+   ],
+   "plain_english": "Or also, when it is joined with the sun, then..."
+  },
+  {
+   "verse": 7671,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the meditation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akṣayyaṃ",
+     "gloss": "imperishable",
+     "grounds": "qualifies the meditation as undiminishing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "names the contemplative practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asyā",
+     "gloss": "of-her",
+     "grounds": "genitive referring to the goddess; sandhi form of asyāḥ retained",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-described",
+     "grounds": "states that the meditation is being explained",
+     "morph": "3.sg.present-passive √rūp (with niḥ)"
+    }
+   ],
+   "question": "What enduring quality is attributed to the meditation on the goddess?",
+   "premises": [
+    "A meditation on her is described.",
+    "The meditation is given a specific quality.",
+    "That quality is imperishability."
+   ],
+   "inference": "Therefore, her meditation is described as imperishable.",
+   "uncertainties": [],
+   "plain_english": "That meditation on her is described as imperishable."
+  },
+  {
+   "verse": 7672,
+   "rows": [
+    {
+     "surface": "citraveṣāṃ",
+     "gloss": "variegated-attire",
+     "grounds": "accusative compound describing the goddess's appearance",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "demonstrative referring to the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sambhaje",
+     "gloss": "i-worship",
+     "grounds": "first-person statement of worship",
+     "morph": "1.sg.present-middle √bhaj"
+    },
+    {
+     "surface": "parameśvarīm",
+     "gloss": "supreme-goddess",
+     "grounds": "epithet identifying her as the supreme goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the supreme goddess visualized and worshipped in this meditation?",
+   "premises": [
+    "The goddess is the object of worship.",
+    "She is described as wearing variegated attire.",
+    "She is identified as the supreme goddess."
+   ],
+   "inference": "Therefore, one worships her as the supreme goddess clad in variegated attire.",
+   "uncertainties": [],
+   "plain_english": "I worship that supreme goddess, clad in variegated attire."
+  },
+  {
+   "verse": 7673,
+   "rows": [
+    {
+     "surface": "yugalaṃ",
+     "gloss": "pair",
+     "grounds": "names a pair as part of the mantra structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "shrim",
+     "grounds": "bīja syllable of the mantra, kept as mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svaha",
+     "grounds": "ritual exclamation used in oblation, kept as mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridvivarṇakaḥ",
+     "gloss": "three-two-syllabled",
+     "grounds": "compound describing the syllabic count or structure",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What mantra elements and syllabic structure are specified in this formula?",
+   "premises": [
+    "A pair is mentioned.",
+    "The mantra elements śrīṃ and svāhā are given.",
+    "A syllabic structure of three and two is indicated."
+   ],
+   "inference": "Therefore, the formula consists of a pair including śrīṃ and svāhā with a three-and-two syllable structure.",
+   "uncertainties": [
+    "exact parsing of tridvivarṇakaḥ as syllable count is interpretive"
+   ],
+   "plain_english": "A pair: śrīṃ, svāhā — having three and two syllables."
+  },
+  {
+   "verse": 7674,
+   "rows": [
+    {
+     "surface": "lakṣaṇajñāsya",
+     "gloss": "characteristic-knower",
+     "grounds": "compound describing one who knows the characteristics; sandhi form of lakṣaṇajñaḥ asya retained",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental indicating designation by name",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "rudhiravāhinī",
+     "gloss": "blood-carrying",
+     "grounds": "compound naming the goddess or power by this epithet",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "By what name is the blood-carrying goddess known to one who knows her characteristics?",
+   "premises": [
+    "A knower of characteristics is mentioned.",
+    "A name is given by that knowledge.",
+    "The name is blood-carrying."
+   ],
+   "inference": "Therefore, to one who knows her characteristics, she is known by the name Rudhiravāhinī.",
+   "uncertainties": [
+    "lakṣaṇajñāsya may be read as lakṣaṇajñaḥ asya; taken as fused token per surface"
+   ],
+   "plain_english": "To one who knows her characteristics, she is known by the name Rudhiravāhinī, the blood-carrying one."
+  }
+ ]
+}
