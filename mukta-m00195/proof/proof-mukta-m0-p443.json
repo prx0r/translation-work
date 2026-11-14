@@ -1,0 +1,76 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p443",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "b8a43515099a9cd3",
+ "source_digest_normalized_sha256": "b8a43515099a9cd3b7f347a8e5197877721dad2a9061876fbe8e4c1146faddfd",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 132
+ },
+ "align": {
+  "min_ratio": 0.909,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "By wearing that ash, a woman can bring her own man under her control."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 74,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 132,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "6e3a1eed15db2aeaaa653da682a108a769a745bf641b8b0621e357fcb2ec5cdd",
+  "l0": "7552b250acae45b18ceefc89e90c42ed4a6622fc2c8ee9b6b2f74200d7262226",
+  "argmap": "f8ce296dd7498d38175453519203208e4e2ed6ae38136d2a185a2f649d8001ea",
+  "l2": "76da3b15b20a7777997383d9ad6b4dc3a4adf631a21b2ef89d43119bcdc3a2c4",
+  "c1": "22c5e00a8a87ef39d3a58a43a6283ce850b539b5dd10a4501679900f4fdcaee6"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "b8a43515099a9cd3",
+  "t1": "mukta-m0-p443/data/mukta-m0-p443.t1.json",
+  "l0": "mukta-m0-p443/data/mukta-m0-p443.l0.json",
+  "l2": "mukta-m0-p443/data/mukta-m0-p443.l2.json",
+  "c1": "mukta-m0-p443/data/mukta-m0-p443.c1.json"
+ }
+}

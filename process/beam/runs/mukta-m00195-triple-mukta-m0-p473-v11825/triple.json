@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p473",
+ "items": [
+  {
+   "verse": 11825,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence after previous placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction to perform placement",
+     "morph": "3.sg.act-opt ni-√as"
+    },
+    {
+     "surface": "vāmabāhau",
+     "gloss": "on-left-arm",
+     "grounds": "locative indicating the bodily location of placement; compound of vāma and bāhu",
+     "morph": "compound: vāma+left+bāhu+arm; m.loc.sg"
+    },
+    {
+     "surface": "tatṣoḍaśakalātmane",
+     "gloss": "to-that-sixteen-part-essence",
+     "grounds": "dative recipient characterized as having sixteen parts as its essence; compound of tat, ṣoḍaśa, kalā, ātman",
+     "morph": "compound: tat+that+ṣoḍaśa+sixteen+kalā+part+ātman+essence; m.dat.sg"
+    }
+   ],
+   "question": "Which bodily location and sixteen-part essence receive the next ritual placement?",
+   "premises": [
+    "The instruction follows earlier placements on other body parts.",
+    "The act prescribed is a ritual placement.",
+    "The specified location is the left arm.",
+    "The recipient is identified as having sixteen parts as its essence."
+   ],
+   "inference": "The next ritual placement is to be made on the left arm for the being whose essence consists of sixteen parts.",
+   "uncertainties": [
+    "The specific mantra or deity name associated with the sixteen-part essence is not stated in this verse."
+   ],
+   "plain_english": "Then one should place it on the left arm for that one whose essence consists of sixteen parts."
+  }
+ ]
+}

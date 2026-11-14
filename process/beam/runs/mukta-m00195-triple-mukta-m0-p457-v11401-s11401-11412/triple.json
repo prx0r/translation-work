@@ -1,0 +1,542 @@
+{
+ "song": "mukta-m0-p457",
+ "items": [
+  {
+   "verse": 11401,
+   "rows": [
+    {
+     "surface": "vaded",
+     "gloss": "one-should-utter",
+     "grounds": "prescribes the utterance of the mantra",
+     "morph": "3.sg.act.opt √vad"
+    },
+    {
+     "surface": "gokulanāthāya",
+     "gloss": "to-lord-of-gokula",
+     "grounds": "dative recipient naming the deity addressed",
+     "morph": "gokula+nātha compound, m.dat.sg"
+    },
+    {
+     "surface": "namon",
+     "gloss": "obeisance-ending",
+     "grounds": "mantra element expressing salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toṣṭākṣaro",
+     "gloss": "eight-syllabled",
+     "grounds": "specifies the syllable count of the mantra",
+     "morph": "ta+u+aṣṭa+akṣara compound, m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "identifies the formula as a mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What eight-syllabled mantra formula is prescribed for the lord of Gokula?",
+   "premises": [
+    "The text instructs one to utter a mantra.",
+    "The mantra is addressed to the lord of Gokula with an obeisance ending.",
+    "The prescribed mantra consists of eight syllables."
+   ],
+   "inference": "The prescribed formula is the eight-syllabled mantra 'gokulanāthāya namo'.",
+   "uncertainties": [
+    "The exact syllabic division implied by toṣṭākṣaro is inferred from the preceding formula."
+   ],
+   "plain_english": "One should utter the eight-syllabled mantra: 'gokulanāthāya namo'."
+  },
+  {
+   "verse": 11402,
+   "rows": [
+    {
+     "surface": "varṇadvayena",
+     "gloss": "with-two-syllables",
+     "grounds": "specifies the unit used for constructing limbs",
+     "morph": "varṇa+dvaya compound, n.ins.sg"
+    },
+    {
+     "surface": "pañcāṅgaṃ",
+     "gloss": "five-limbs",
+     "grounds": "names the ritual structure to be formed",
+     "morph": "pañca+aṅga compound, n.acc.sg"
+    },
+    {
+     "surface": "sakalena",
+     "gloss": "with-the-whole",
+     "grounds": "indicates use of the complete mantra for a limb",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-construct",
+     "grounds": "prescribes the ritual construction",
+     "morph": "3.sg.act.opt √kḷp"
+    }
+   ],
+   "question": "How should the five limbs of this mantra be ritually constructed?",
+   "premises": [
+    "The ritual requires constructing a five-limbed structure.",
+    "Two syllables are used as a unit in the construction.",
+    "The whole mantra is also employed in the construction."
+   ],
+   "inference": "One should construct the five limbs using two syllables at a time and the whole mantra.",
+   "uncertainties": [
+    "The precise assignment of syllable pairs to specific limbs is not stated."
+   ],
+   "plain_english": "One should construct the five limbs using pairs of syllables and the whole mantra."
+  },
+  {
+   "verse": 11403,
+   "rows": [
+    {
+     "surface": "prañcāntike",
+     "gloss": "at-end-of-prañca",
+     "grounds": "locates the described figure or action",
+     "morph": "prañca+antika compound, n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements of the description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāvantaṃ",
+     "gloss": "running",
+     "grounds": "describes the deity's motion",
+     "morph": "m.acc.sg pres.act.part √dhāv"
+    },
+    {
+     "surface": "madanena",
+     "gloss": "with-madana",
+     "grounds": "associates the figure with Madana",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "purānvitam",
+     "gloss": "preceded-by-purā",
+     "grounds": "qualifies the figure as accompanied or preceded by purā",
+     "morph": "purā+anvita compound, m.acc.sg"
+    }
+   ],
+   "question": "How is the deity to be visualized at the end of the prañca?",
+   "premises": [
+    "The visualization is located at the end of the prañca.",
+    "The deity is described as running.",
+    "The deity is associated with Madana and preceded by purā."
+   ],
+   "inference": "At the end of the prañca, one should visualize the deity running, accompanied by Madana and preceded by purā.",
+   "uncertainties": [
+    "The exact referent of prañca in this ritual context is unclear.",
+    "The precise sense of purānvitam is ambiguous."
+   ],
+   "plain_english": "At the end of the prañca, visualize him running, accompanied by Madana and preceded by purā."
+  },
+  {
+   "verse": 11404,
+   "rows": [
+    {
+     "surface": "nānāmunigaṇair",
+     "gloss": "by-various-sage-groups",
+     "grounds": "identifies the agents who behold and serve",
+     "morph": "nānā+muni+gaṇa compound, m.ins.pl"
+    },
+    {
+     "surface": "dṛṣṭaṃ",
+     "gloss": "seen",
+     "grounds": "describes the deity as beheld",
+     "morph": "m.acc.sg past.pass.part √dṛś"
+    },
+    {
+     "surface": "sevitaṃ",
+     "gloss": "served",
+     "grounds": "describes the deity as attended",
+     "morph": "m.acc.sg past.pass.part √sev"
+    },
+    {
+     "surface": "sarvalīlayā",
+     "gloss": "with-all-sports",
+     "grounds": "characterizes the manner of the deity's activity",
+     "morph": "sarva+līlā compound, f.ins.sg"
+    }
+   ],
+   "question": "How is the visualized deity regarded and attended by groups of sages?",
+   "premises": [
+    "Various groups of sages see the deity.",
+    "The same sages serve the deity.",
+    "The deity is characterized by all sports or playful acts."
+   ],
+   "inference": "The deity is to be visualized as seen and served by various groups of sages amid all his playful acts.",
+   "uncertainties": [],
+   "plain_english": "Visualize him as seen and served by various groups of sages, engaged in all his playful sports."
+  },
+  {
+   "verse": 11405,
+   "rows": [
+    {
+     "surface": "caturaṅgāni",
+     "gloss": "four-limbs",
+     "grounds": "names the ritual components to be worshipped",
+     "morph": "catur+aṅga compound, n.acc.pl"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "indicates a prior ritual action",
+     "morph": "absolutive √pūj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects sequential ritual actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "the-weapon",
+     "grounds": "names the ritual element to be worshipped next",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-the-corners",
+     "grounds": "specifies the location of worship",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes the act of worship",
+     "morph": "3.sg.act.opt √pūj"
+    }
+   ],
+   "question": "What worship sequence follows after honoring the four limbs of the mantra?",
+   "premises": [
+    "The four limbs are to be worshipped first.",
+    "The weapon is to be worshipped afterward.",
+    "The weapon worship is performed in the corners."
+   ],
+   "inference": "After worshipping the four limbs, one should worship the weapon in the corners.",
+   "uncertainties": [],
+   "plain_english": "After worshipping the four limbs, one should worship the weapon in the corners."
+  },
+  {
+   "verse": 11406,
+   "rows": [
+    {
+     "surface": "tadbahir",
+     "gloss": "outside-that",
+     "grounds": "specifies the location beyond the previous area",
+     "morph": "tad+bahis compound, (indecl.)"
+    },
+    {
+     "surface": "lokapālānāṃ",
+     "gloss": "of-world-guardians",
+     "grounds": "identifies the deities to be worshipped",
+     "morph": "loka+pāla compound, m.gen.pl"
+    },
+    {
+     "surface": "vajrādīnāṃ",
+     "gloss": "of-vajra-and-others",
+     "grounds": "specifies the weapons or emblems of the guardians",
+     "morph": "vajra+ādi compound, m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the objects of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "names the prescribed ritual action",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What worship is prescribed outside the area of the previous ritual?",
+   "premises": [
+    "The ritual continues outside the previous area.",
+    "The world guardians are objects of worship.",
+    "The vajra and other emblems are also objects of worship."
+   ],
+   "inference": "Outside that area, one should perform worship of the world guardians and of the vajra and other emblems.",
+   "uncertainties": [],
+   "plain_english": "Outside that, one should worship the world guardians and their weapons, beginning with the vajra."
+  },
+  {
+   "verse": 11407,
+   "rows": [
+    {
+     "surface": "tarppaṇādi",
+     "gloss": "libation-and-so-forth",
+     "grounds": "names the concluding ritual acts",
+     "morph": "tarpaṇa+ādi compound, n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the sequence after prior rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "indicates completion of the ritual acts",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "samṛddhir",
+     "gloss": "prosperity",
+     "grounds": "names the resulting benefit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahatī",
+     "gloss": "great",
+     "grounds": "qualifies the extent of prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "states the expected outcome",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What result follows from performing libation and the subsequent rites?",
+   "premises": [
+    "Libation and related rites are performed after the preceding worship.",
+    "The text states an outcome of performing these rites.",
+    "The outcome is described as great prosperity."
+   ],
+   "inference": "Performing libation and the related rites leads to great prosperity.",
+   "uncertainties": [],
+   "plain_english": "Then, having performed libation and the other rites, one would attain great prosperity."
+  },
+  {
+   "verse": 11408,
+   "rows": [
+    {
+     "surface": "tāraṃ",
+     "gloss": "tāra",
+     "grounds": "names the first seed-syllable element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ramāṃ",
+     "gloss": "ramā",
+     "grounds": "names a seed-syllable element",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hriyaṃ",
+     "gloss": "hrī",
+     "grounds": "names a seed-syllable element",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "kāma",
+     "grounds": "names a seed-syllable element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrīkṛṣṇāya",
+     "gloss": "to-śrī-kṛṣṇa",
+     "grounds": "names the deity addressed in the mantra",
+     "morph": "śrī+kṛṣṇa compound, m.dat.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next element in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-utter",
+     "grounds": "prescribes utterance of the mantra elements",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "What sequence of mantra elements should be uttered before addressing Śrī Kṛṣṇa?",
+   "premises": [
+    "The text prescribes uttering specific mantra elements in order.",
+    "The elements named are tāra, ramā, hrī, and kāma.",
+    "These elements precede the address to Śrī Kṛṣṇa."
+   ],
+   "inference": "One should utter tāra, ramā, hrī, and kāma, and then address Śrī Kṛṣṇa.",
+   "uncertainties": [
+    "The exact phonetic forms corresponding to ramā and kāma as seed-syllables are tradition-dependent."
+   ],
+   "plain_english": "One should utter tāra, ramā, hrī, and kāma, and then say 'śrīkṛṣṇāya'."
+  },
+  {
+   "verse": 11409,
+   "rows": [
+    {
+     "surface": "ṅento",
+     "gloss": "ending-in-ṅe",
+     "grounds": "specifies the grammatical ending of the mantra",
+     "morph": "ṅa+anta compound, m.nom.sg"
+    },
+    {
+     "surface": "bījatrayaṃ",
+     "gloss": "triad-of-seeds",
+     "grounds": "names three seed-syllables to be added",
+     "morph": "bīja+traya compound, n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects mantra components",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "indicates placement of the seed triad",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcaviṃśākṣaro",
+     "gloss": "twenty-five-syllabled",
+     "grounds": "specifies the total syllable count of the mantra",
+     "morph": "pañcaviṃśa+akṣara compound, m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "identifies the formula as a mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What completes the structure of the twenty-five-syllabled mantra for Śrī Kṛṣṇa?",
+   "premises": [
+    "The mantra ends with the ṅe-ending.",
+    "A triad of seed-syllables is included at the beginning.",
+    "The complete mantra consists of twenty-five syllables."
+   ],
+   "inference": "The twenty-five-syllabled mantra ends in ṅe and includes a triad of seed-syllables at the beginning.",
+   "uncertainties": [
+    "The exact identity of the three seed-syllables in bījatrayaṃ is not explicitly listed here."
+   ],
+   "plain_english": "This mantra ends in 'ṅe', includes a triad of seed-syllables at the beginning, and has twenty-five syllables."
+  },
+  {
+   "verse": 11410,
+   "rows": [
+    {
+     "surface": "vedavedeṣu",
+     "gloss": "with-veda-vedas",
+     "grounds": "specifies syllabic units used for limb construction",
+     "morph": "veda+veda compound, m.loc.pl"
+    },
+    {
+     "surface": "gorāma",
+     "gloss": "with-go-rāma",
+     "grounds": "specifies additional syllabic units for limb construction",
+     "morph": "go+rāma compound, (indecl.)"
+    },
+    {
+     "surface": "sampūrṇena",
+     "gloss": "with-complete",
+     "grounds": "indicates use of the whole mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgakam",
+     "gloss": "six-limbed",
+     "grounds": "names the ritual structure to be formed",
+     "morph": "ṣaṣ+aṅgaka compound, n.nom.sg"
+    }
+   ],
+   "question": "How are the six limbs of this mantra to be constructed?",
+   "premises": [
+    "The ritual requires forming a six-limbed structure.",
+    "The units vedavedeṣu and gorāma are specified.",
+    "The complete mantra is also used."
+   ],
+   "inference": "The six limbs are to be constructed using the specified syllabic units and the complete mantra.",
+   "uncertainties": [
+    "The exact decoding of vedavedeṣu and gorāma as syllable counts or syllables is unclear."
+   ],
+   "plain_english": "The six limbs are to be formed using the units 'vedavedeṣu' and 'gorāma', together with the complete mantra."
+  },
+  {
+   "verse": 11411,
+   "rows": [
+    {
+     "surface": "pūjājapaprayogādi",
+     "gloss": "worship-recitation-application-and-so-forth",
+     "grounds": "names the range of ritual procedures",
+     "morph": "pūjā+japa+prayoga+ādi compound, n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "indicates the entirety of the procedures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "prescribes understanding by analogy",
+     "morph": "n.nom.sg future.pass.part √jñā"
+    },
+    {
+     "surface": "daśārṇavat",
+     "gloss": "like-ten-syllabled",
+     "grounds": "provides the model for the procedures",
+     "morph": "daśa+arṇa compound + vat, (indecl.)"
+    }
+   ],
+   "question": "According to what model should worship, recitation, and application be understood?",
+   "premises": [
+    "Worship, recitation, application, and related procedures are under discussion.",
+    "All these procedures are to be understood in a specified way.",
+    "The specified model is that of the ten-syllabled mantra."
+   ],
+   "inference": "All procedures of worship, recitation, and application should be understood as in the case of the ten-syllabled mantra.",
+   "uncertainties": [],
+   "plain_english": "Worship, recitation, application, and all related procedures should be understood as they are for the ten-syllabled mantra."
+  },
+  {
+   "verse": 11412,
+   "rows": [
+    {
+     "surface": "ekacchandarṣidevādi",
+     "gloss": "one-metre-seer-deity-and-so-forth",
+     "grounds": "names shared ritual attributes such as metre, seer, and deity",
+     "morph": "eka+chandas+ṛṣi+deva+ādi compound, n.nom.sg"
+    },
+    {
+     "surface": "prayoganyāsakāv",
+     "gloss": "application-and-nyāsa",
+     "grounds": "names the ritual procedures included",
+     "morph": "prayoga+nyāsaka compound, m.nom.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extends the scope of the analogy",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional ritual elements are also shared with the ten-syllabled mantra model?",
+   "premises": [
+    "The analogy with the ten-syllabled mantra continues.",
+    "Attributes such as metre, seer, and deity are included.",
+    "Application and nyāsa are also included."
+   ],
+   "inference": "The metre, seer, deity, and related elements, as well as application and nyāsa, are also to be taken as in the ten-syllabled mantra.",
+   "uncertainties": [
+    "The exact scope of ādi in ekacchandarṣidevādi is not specified."
+   ],
+   "plain_english": "The metre, seer, deity, and so forth, as well as application and nyāsa, are also the same as for the ten-syllabled mantra."
+  }
+ ]
+}

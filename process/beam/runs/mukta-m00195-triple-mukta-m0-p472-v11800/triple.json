@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p472",
+ "items": [
+  {
+   "verse": 11800,
+   "rows": [
+    {
+     "surface": "ṣaḍ+aṅgaṃ",
+     "gloss": "six-limbed",
+     "grounds": "compound qualifying the mode or form of worship of the deity",
+     "morph": "compound ṣaṣ+aṅga (acc.sg.m.)"
+    },
+    {
+     "surface": "kāma+bījena",
+     "gloss": "with-kāma-seed",
+     "grounds": "instrument specifying the seed-syllable used in worship",
+     "morph": "compound kāma+bīja (ins.sg.n.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive verb enjoining the act of worship",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "the-god",
+     "grounds": "object of worship, identified in context as Dāmodara",
+     "morph": "acc.sg.m."
+    },
+    {
+     "surface": "sa+śaktikam",
+     "gloss": "with-śakti",
+     "grounds": "compound qualifying the deity as accompanied by his power",
+     "morph": "compound sa+śaktika (acc.sg.m.)"
+    }
+   ],
+   "question": "By what means and form should the deity accompanied by Śakti be worshipped?",
+   "premises": [
+    "The prescribed act is worship of the deity.",
+    "The worship employs the kāma-seed as its instrument.",
+    "The deity is to be worshipped in a six-limbed form together with Śakti."
+   ],
+   "inference": "Therefore, one should worship the god together with Śakti in a six-limbed manner using the kāma-seed.",
+   "uncertainties": [
+    "Whether ṣaḍ+aṅgaṃ specifies a six-limb ritual procedure or a six-limbed form of the deity is not fully explicit."
+   ],
+   "plain_english": "One should worship the god, together with his Śakti, in a six-limbed manner using the kāma-seed."
+  }
+ ]
+}
