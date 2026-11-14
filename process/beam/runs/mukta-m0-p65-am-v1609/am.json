@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p65",
  "verse": 1609,
- "question": "What kinds of knowledge and wisdom does the goddess possess and bestow?",
+ "question": "Where is the last syllable written among the rest?",
  "premises": [
-  "The goddess knows poetry and grammar.",
-  "She is wisdom itself.",
-  "She gives wisdom and knowledge."
+  "The last is written in four corners.",
+  "The rest are also written.",
+  "The writing occurs in the diagram."
  ],
- "inference": "The goddess possesses literary and grammatical knowledge and bestows wisdom and knowledge.",
- "uncertainties": [],
- "plain_english": "She knows poetry and grammar, is wisdom, and gives wisdom and knowledge."
+ "inference": "The last syllable is written in four corners, with the rest written elsewhere.",
+ "uncertainties": [
+  "The exact distribution of the rest is not stated."
+ ],
+ "plain_english": "The last is written in four corners, and the rest in the writing."
 }

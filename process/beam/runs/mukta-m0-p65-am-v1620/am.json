@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p65",
  "verse": 1620,
- "question": "What gifts and delights are associated with the goddess Gaurī?",
+ "question": "What simple offering is made with milk rice, banana, sugar, and ghee?",
  "premises": [
-  "The goddess is Gaurī.",
-  "She gives dignity, cows, and hosts.",
-  "She loves singing."
+  "Only milk rice is used.",
+  "Banana and sugar accompany it.",
+  "It is accompanied by ghee."
  ],
- "inference": "Gaurī gives dignity, cows, and hosts, and delights in singing.",
- "uncertainties": [],
- "plain_english": "She is Gaurī, giver of dignity, cows, and hosts, and fond of singing."
+ "inference": "The simple offering consists of milk rice with banana, sugar, and ghee.",
+ "uncertainties": [
+  "The occasion for this offering is not stated."
+ ],
+ "plain_english": "Only milk rice, with banana, sugar, and ghee."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p65",
  "verse": 1613,
- "question": "How is the goddess connected to Śaṅkara and the twilight observance?",
+ "question": "What foods are offered in the evening rite?",
  "premises": [
-  "The goddess belongs to Śaṅkara.",
-  "She is worshipped by Śaṅkara.",
-  "She is twilight and properly observes twilight rites."
+  "Curd rice is offered in the evening.",
+  "Milk is also offered.",
+  "Banana fruit is likewise offered."
  ],
- "inference": "The goddess is closely linked to Śaṅkara and embodies or observes twilight.",
- "uncertainties": [],
- "plain_english": "She belongs to Śaṅkara, is worshipped by Śaṅkara, is twilight, and duly observes the twilight rites."
+ "inference": "The evening rite offers curd rice, milk, and banana fruit.",
+ "uncertainties": [
+  "Whether these are simultaneous or sequential is not stated."
+ ],
+ "plain_english": "Curd rice indeed in the evening, and likewise milk and banana fruit."
 }

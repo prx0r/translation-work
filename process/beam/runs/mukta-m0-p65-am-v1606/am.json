@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p65",
  "verse": 1606,
- "question": "How do purity and fulfillment define the goddess's nature?",
+ "question": "What geometric figures are drawn inside the outer figure?",
  "premises": [
-  "The goddess is a purifier.",
-  "She is the support of purity.",
-  "She is complete and has fulfilled desires."
+  "Inside it is an eight-cornered figure.",
+  "Inside that is a pair of circles.",
+  "The two are joined by and."
  ],
- "inference": "The goddess embodies purification, completeness, and fulfillment of desires.",
- "uncertainties": [],
- "plain_english": "She is the purifier and support of purity, complete and with all desires fulfilled."
+ "inference": "The diagram contains an eight-cornered figure enclosing a pair of circles.",
+ "uncertainties": [
+  "The outer boundary is not named."
+ ],
+ "plain_english": "Inside it is an eight-cornered figure, and inside that a pair of circles."
 }
