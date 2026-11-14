@@ -3,44 +3,39 @@
  "verse": 3850,
  "rows": [
   {
-   "lemma": "tadūrdhvaṃ",
-   "morph": "(indecl.)",
-   "grounds": "points to a position higher than the previously mentioned locations"
-  },
-  {
-   "lemma": "kumbha",
+   "lemma": "kumārī",
    "morph": "compound-member",
-   "grounds": "first member of compound with saṃsthaḥ indicating location"
+   "grounds": "first member in a series of flowers continued from previous verse and concluded by ādibhiḥ"
   },
   {
-   "lemma": "saṃsthaḥ",
-   "morph": "m.nom.sg.",
-   "grounds": "describes placement of deveśaḥ"
-  },
-  {
-   "lemma": "cet",
-   "morph": "(indecl.)",
-   "grounds": "introduces a conditional case"
-  },
-  {
-   "lemma": "deveśaḥ",
-   "morph": "m.nom.sg.",
-   "grounds": "subject of the conditional clause"
-  },
-  {
-   "lemma": "sarva",
+   "lemma": "aruṇa",
    "morph": "compound-member",
-   "grounds": "first member of compound qualifying doṣa"
+   "grounds": "qualifier for mandāra within the flower series"
   },
   {
-   "lemma": "doṣa",
+   "lemma": "mandāra",
    "morph": "compound-member",
-   "grounds": "second member of compound with kṛt"
+   "grounds": "flower name qualified by aruṇa in the series"
   },
   {
-   "lemma": "kṛt",
-   "morph": "m.nom.sg.",
-   "grounds": "agent noun from √kṛ indicating production of faults"
+   "lemma": "jātī",
+   "morph": "compound-member",
+   "grounds": "flower name in the series"
+  },
+  {
+   "lemma": "kuṃda",
+   "morph": "compound-member",
+   "grounds": "flower name in the series"
+  },
+  {
+   "lemma": "japa",
+   "morph": "compound-member",
+   "grounds": "flower name in the series"
+  },
+  {
+   "lemma": "ādibhiḥ",
+   "morph": "m.inst.pl",
+   "grounds": "concluding term indicating additional similar flowers; instrumental plural in construction with preceding context"
   }
  ]
 }

@@ -1,0 +1,501 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3738,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction continuing the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaumāri",
+     "gloss": "Kaumārī",
+     "grounds": "name of a goddess in the group of mothers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavī",
+     "gloss": "Vaiṣṇavī",
+     "grounds": "name of a goddess in the group of mothers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional goddesses are included in the enumerated group of mothers?",
+   "premises": [
+    "The verse continues an ongoing enumeration.",
+    "Kaumārī is explicitly named.",
+    "Vaiṣṇavī is likewise named."
+   ],
+   "inference": "Kaumārī and Vaiṣṇavī belong to the group being enumerated.",
+   "uncertainties": [],
+   "plain_english": "And indeed Kaumārī and likewise Vaiṣṇavī are included."
+  },
+  {
+   "verse": 3739,
+   "rows": [
+    {
+     "surface": "samākhyātā",
+     "gloss": "declared",
+     "grounds": "past participle describing the mothers as stated",
+     "morph": "f.nom.pl (ppp, sam-ā-√khyā)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker identifying the declarer",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee of the declaration",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking to the preceding enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamātaraḥ",
+     "gloss": "eight-mothers",
+     "grounds": "compound naming the group of eight mother goddesses",
+     "morph": "compound: aṣṭa+mātaraḥ (f.nom.pl)"
+    }
+   ],
+   "question": "Who has declared the complete group of eight mothers to the addressee?",
+   "premises": [
+    "The speaker states a declaration made by himself.",
+    "The declaration is addressed to the listener.",
+    "The declared group consists of eight mothers."
+   ],
+   "inference": "The speaker has declared the eight mothers to the addressee.",
+   "uncertainties": [],
+   "plain_english": "And I have declared to you the eight mothers."
+  },
+  {
+   "verse": 3740,
+   "rows": [
+    {
+     "surface": "saṃhāra",
+     "gloss": "of-dissolution",
+     "grounds": "first member of compound qualifying the Bhairavas",
+     "morph": "compound-member: saṃhāra"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun identifying the group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral specifying the count",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhairavā",
+     "gloss": "Bhairavas",
+     "grounds": "name of the deities identified",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "past participle expressing doctrinal identification",
+     "morph": "m.nom.pl (ppp, √man)"
+    }
+   ],
+   "question": "How are these eight figures identified in relation to dissolution?",
+   "premises": [
+    "Eight figures are being identified.",
+    "They are qualified by dissolution.",
+    "They are regarded as Bhairavas."
+   ],
+   "inference": "These eight are considered the Bhairavas of dissolution.",
+   "uncertainties": [],
+   "plain_english": "These eight are considered the Bhairavas of dissolution."
+  },
+  {
+   "verse": 3741,
+   "rows": [
+    {
+     "surface": "prauḍhāntollāsaparyantaṃ",
+     "gloss": "up-to-mature-culmination",
+     "grounds": "compound indicating the full extent reached by the action",
+     "morph": "compound: prauḍha+anta+ullāsa+paryantam (n.acc.sg, adverbial)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "action",
+     "grounds": "the undertaking or task that succeeds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "verb asserting accomplishment",
+     "morph": "3.sg.pres.act (√sidh)"
+    },
+    {
+     "surface": "asaṃśayam",
+     "gloss": "without-doubt",
+     "grounds": "adverbial compound affirming certainty",
+     "morph": "compound: a+saṃśayam (n.acc.sg, adverbial)"
+    }
+   ],
+   "question": "To what extent does the undertaken action succeed without doubt?",
+   "premises": [
+    "An action is the subject of accomplishment.",
+    "Its success reaches up to mature culmination.",
+    "The result is affirmed as beyond doubt."
+   ],
+   "inference": "The action succeeds fully up to mature culmination without doubt.",
+   "uncertainties": [],
+   "plain_english": "The action succeeds without doubt, up to its mature culmination."
+  },
+  {
+   "verse": 3742,
+   "rows": [
+    {
+     "surface": "tapo",
+     "gloss": "austerity",
+     "grounds": "first item in a list of observances or supports",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "second item in the list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "third item in the list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulam",
+     "gloss": "family-tradition",
+     "grounds": "fourth item, referring to the Kula tradition",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which four supports or observances are enumerated for the practitioner?",
+   "premises": [
+    "Austerity is named as an item.",
+    "Knowledge and vow are named as items.",
+    "The Kula tradition is named as an item."
+   ],
+   "inference": "Austerity, knowledge, vow, and the Kula tradition are the enumerated supports.",
+   "uncertainties": [
+    "The syntactic role of this list is completed in the following verse."
+   ],
+   "plain_english": "Austerity, knowledge, vow, and the Kula tradition."
+  },
+  {
+   "verse": 3743,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb indicating constant practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevyo",
+     "gloss": "to-be-served",
+     "grounds": "gerundive expressing obligation to honor or practice",
+     "morph": "m.nom.sg (gerundive, √sev)"
+    },
+    {
+     "surface": "manovākkāyakarmabhiḥ",
+     "gloss": "by-mind-speech-body-actions",
+     "grounds": "compound instrument listing the means of service",
+     "morph": "compound: manas+vāc+kāya+karmabhiḥ (n.inst.pl)"
+    }
+   ],
+   "question": "By what means must the enumerated supports be constantly served?",
+   "premises": [
+    "The supports are to be served.",
+    "This service is to be constant.",
+    "The means are actions of mind, speech, and body."
+   ],
+   "inference": "The supports must always be served through actions of mind, speech, and body.",
+   "uncertainties": [],
+   "plain_english": "They should always be served through the actions of mind, speech, and body."
+  },
+  {
+   "verse": 3744,
+   "rows": [
+    {
+     "surface": "kulāgama",
+     "gloss": "Kula-scripture",
+     "grounds": "first member of compound qualifying the path",
+     "morph": "compound-member: kula+āgama"
+    },
+    {
+     "surface": "tvamārgoyaṃ",
+     "gloss": "this-path",
+     "grounds": "fused form containing path and demonstrative; internal sandhi joins mārgaḥ and ayam",
+     "morph": "compound/fused: tu+mārgaḥ+ayam (m.nom.sg)"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-guru",
+     "grounds": "agent who reveals the path",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sampradarśitaḥ",
+     "gloss": "well-shown",
+     "grounds": "past participle indicating authoritative revelation",
+     "morph": "m.nom.sg (ppp, sam-pra-√dṛś)"
+    }
+   ],
+   "question": "By whom is this path of the Kula scripture properly revealed?",
+   "premises": [
+    "A specific path is identified as belonging to the Kula scripture.",
+    "The path is said to be well shown.",
+    "The guru is named as the agent of showing."
+   ],
+   "inference": "This path of the Kula scripture is well shown by the guru.",
+   "uncertainties": [
+    "The fused token tvamārgoyaṃ contains internal sandhi; analyzed as a single surface unit."
+   ],
+   "plain_english": "This path of the Kula scripture has been well shown by the guru."
+  },
+  {
+   "verse": 3745,
+   "rows": [
+    {
+     "surface": "samyagācaritaḥ",
+     "gloss": "properly-practiced",
+     "grounds": "past participle describing correct observance of the path",
+     "morph": "m.nom.sg (ppp, samyak+ā-√car)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative verb expressing the conditional result",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "bhuktimuktyoḥ",
+     "gloss": "of-enjoyment-and-liberation",
+     "grounds": "dual compound naming the two goals attained",
+     "morph": "compound: bhukti+muktyoḥ (f.gen.du)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "means",
+     "grounds": "predicate identifying the path as an instrument for attainment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result follows when this path is practiced properly?",
+   "premises": [
+    "The path may be properly practiced.",
+    "Enjoyment and liberation are named as goals.",
+    "The path is identified as a means."
+   ],
+   "inference": "If properly practiced, this path becomes a means to both enjoyment and liberation.",
+   "uncertainties": [],
+   "plain_english": "If it is properly practiced, it becomes a means to both enjoyment and liberation."
+  },
+  {
+   "verse": 3746,
+   "rows": [
+    {
+     "surface": "bhaktimān",
+     "gloss": "devoted",
+     "grounds": "adjective describing the disciple's defining quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣya",
+     "gloss": "disciple",
+     "grounds": "subject being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb expressing definition",
+     "morph": "3.sg.pres.pass (√vac)"
+    }
+   ],
+   "question": "What defining quality characterizes one who is called a disciple?",
+   "premises": [
+    "A person is designated as a disciple.",
+    "Devotion is attributed to that person.",
+    "The designation is stated as a definition."
+   ],
+   "inference": "A disciple is defined as one who is devoted.",
+   "uncertainties": [],
+   "plain_english": "One who is devoted is called a disciple."
+  },
+  {
+   "verse": 3747,
+   "rows": [
+    {
+     "surface": "ahitācaraṇāt",
+     "gloss": "from-harmful-conduct",
+     "grounds": "compound ablative giving the cause of the consequence",
+     "morph": "compound: ahita+ācaraṇāt (n.abl.sg)"
+    },
+    {
+     "surface": "śiṣyo",
+     "gloss": "disciple",
+     "grounds": "subject who suffers the consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṭhāyāṃ",
+     "gloss": "in-excrement",
+     "grounds": "locative indicating the place of rebirth",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "verb stating the consequence of misconduct",
+     "morph": "3.sg.pres.mid (√jan)"
+    },
+    {
+     "surface": "kṛmiḥ",
+     "gloss": "worm",
+     "grounds": "predicate noun specifying the form of rebirth",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What consequence follows for a disciple who engages in harmful conduct?",
+   "premises": [
+    "Harmful conduct is identified as a cause.",
+    "The disciple is the subject affected.",
+    "Rebirth as a worm in excrement is stated."
+   ],
+   "inference": "A disciple who engages in harmful conduct is born as a worm in excrement.",
+   "uncertainties": [],
+   "plain_english": "Because of harmful conduct, a disciple is born as a worm in excrement."
+  },
+  {
+   "verse": 3748,
+   "rows": [
+    {
+     "surface": "gurumantraparityāgāt",
+     "gloss": "from-abandoning-guru-mantra",
+     "grounds": "compound ablative naming the transgression causing punishment",
+     "morph": "compound: guru+mantra+parityāgāt (m.abl.sg)"
+    },
+    {
+     "surface": "rauravaṃ",
+     "gloss": "to-Raurava",
+     "grounds": "adjective qualifying the hell as Raurava",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "destination of the transgressor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "optative verb expressing the prescribed consequence",
+     "morph": "3.sg.opt.act (√vraj)"
+    }
+   ],
+   "question": "What destination awaits one who abandons the guru and the mantra?",
+   "premises": [
+    "Abandonment of the guru and mantra is identified as a cause.",
+    "A specific hell named Raurava is mentioned.",
+    "Going to that hell is stated as the consequence."
+   ],
+   "inference": "One who abandons the guru and mantra should go to the Raurava hell.",
+   "uncertainties": [],
+   "plain_english": "Because of abandoning the guru and the mantra, one would go to the Raurava hell."
+  },
+  {
+   "verse": 3749,
+   "rows": [
+    {
+     "surface": "namet",
+     "gloss": "should-bow",
+     "grounds": "optative verb prescribing reverent action",
+     "morph": "3.sg.opt.act (√nam)"
+    },
+    {
+     "surface": "santāḍito",
+     "gloss": "beaten",
+     "grounds": "past participle describing a harsh treatment by the guru",
+     "morph": "m.nom.sg (ppp, sam-√taḍ)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "compound particle extending the condition to an extreme case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasādam",
+     "gloss": "grace",
+     "grounds": "object of consideration, the guru's favor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking the content of reflection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsmaret",
+     "gloss": "should-consider",
+     "grounds": "optative verb prescribing the proper mental attitude",
+     "morph": "3.sg.opt.act (sam-√smṛ)"
+    }
+   ],
+   "question": "How should a disciple respond even when struck by the guru?",
+   "premises": [
+    "Being beaten by the guru is presented as a possible situation.",
+    "Bowing is prescribed as the outward response.",
+    "The disciple should regard the act as grace."
+   ],
+   "inference": "Even when beaten, the disciple should bow and consider it the guru's grace.",
+   "uncertainties": [],
+   "plain_english": "Even if beaten, one should bow and regard it as grace."
+  }
+ ]
+}

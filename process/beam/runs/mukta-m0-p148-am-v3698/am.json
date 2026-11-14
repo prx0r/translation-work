@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3698,
- "question": "What is the cheek above the neck?",
+ "question": "What act is forbidden for one holding a full vessel in the middle of the circle?",
  "premises": [
-  "neck above is named",
-  "cheek is specified",
-  "that twice is given",
-  "or one and half is stated"
+  "The person holds a vessel in hand",
+  "The location is the middle of the circle",
+  "Bowing while holding a full vessel is negated"
  ],
- "inference": "The cheek above the neck is twice that or one and a half.",
+ "inference": "One holding a full vessel in the middle of the circle should not bow.",
  "uncertainties": [
-  "that referent is unclear"
+  "The syntactic role of pūrṇa+pātrakam alongside pātra+hastaḥ is slightly compressed."
  ],
- "plain_english": "The cheek above the neck is twice that, or one and a half."
+ "plain_english": "Holding a vessel in hand in the middle of the circle, one should not bow with a full vessel."
 }

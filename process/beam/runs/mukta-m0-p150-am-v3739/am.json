@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3739,
- "question": "What fate befalls the king who rules that afflicted region?",
+ "question": "Who has declared the complete group of eight mothers to the addressee?",
  "premises": [
-  "The king is lord of that region.",
-  "Enemies confront him.",
-  "He is overpowered by those enemies."
+  "The speaker states a declaration made by himself.",
+  "The declaration is addressed to the listener.",
+  "The declared group consists of eight mothers."
  ],
- "inference": "The king of that region will be overpowered by enemies.",
- "uncertainties": [
-  "The region referred to by tat depends on preceding context."
- ],
- "plain_english": "The king who rules that region will be overpowered by enemies."
+ "inference": "The speaker has declared the eight mothers to the addressee.",
+ "uncertainties": [],
+ "plain_english": "And I have declared to you the eight mothers."
 }
