@@ -1,0 +1,1349 @@
+{
+ "song": "mukta-m0-p343",
+ "items": [
+  {
+   "verse": 8551,
+   "rows": [
+    {
+     "surface": "mūrddha",
+     "gloss": "forehead",
+     "grounds": "body location for placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhrū",
+     "gloss": "brow",
+     "grounds": "body location for placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "body location for placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "ear",
+     "grounds": "body location for placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣi",
+     "gloss": "eye",
+     "grounds": "body location for placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāsikā",
+     "gloss": "nose",
+     "grounds": "body location for placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āsya",
+     "gloss": "mouth",
+     "grounds": "body location for placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "guda",
+     "gloss": "anus",
+     "grounds": "body location for placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṃghriṣu",
+     "gloss": "feet",
+     "grounds": "body locations for placement",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "bīja syllable placed on forehead",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-forehead",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable placed between brows",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrūmadhye",
+     "gloss": "on-brow-middle",
+     "grounds": "placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "shraiṃ",
+     "gloss": "shraiṃ",
+     "grounds": "bīja syllable placed on right ear",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣakarṇe",
+     "gloss": "on-right-ear",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable placed on left ear",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmakarṇe",
+     "gloss": "on-left-ear",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "bīja syllable placed on right eye",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣanetre",
+     "gloss": "on-right-eye",
+     "grounds": "placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "sa",
+     "grounds": "syllable placed on left eye",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmanetre",
+     "gloss": "on-left-eye",
+     "grounds": "placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ranāsikāyām",
+     "gloss": "on-nose",
+     "grounds": "placement location; syllable implied by context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "svamukhe",
+     "gloss": "on-own-mouth",
+     "grounds": "placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tyai",
+     "gloss": "tyai",
+     "grounds": "syllable placed on anus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gude",
+     "gloss": "on-anus",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "na",
+     "grounds": "syllable placed on right foot",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣapāde",
+     "gloss": "on-right-foot",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maḥ",
+     "gloss": "maḥ",
+     "grounds": "syllable placed on left foot",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmapāde",
+     "gloss": "on-left-foot",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣaranyāsaḥ",
+     "gloss": "syllable-placement",
+     "grounds": "ritual placement of syllables on body",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which syllables are placed on which body parts in akṣaranyāsa?",
+   "premises": [
+    "Specific body locations are enumerated for placement.",
+    "Specific syllables are assigned to each location.",
+    "The procedure is identified as akṣaranyāsa."
+   ],
+   "inference": "Akṣaranyāsa consists of placing designated syllables on designated body parts in sequence.",
+   "uncertainties": [
+    "The syllable for ranāsikāyām and svamukhe is not explicitly stated in the token list."
+   ],
+   "plain_english": "On the forehead, brow-middle, ears, eyes, nose, mouth, anus, and feet, place the syllables oṃ, hrīṃ, shraiṃ, hrīṃ, oṃ, sa, and so on; this is the syllable placement."
+  },
+  {
+   "verse": 8552,
+   "rows": [
+    {
+     "surface": "vīṇā",
+     "gloss": "vīṇā",
+     "grounds": "attribute held in hand",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "amṛta-ghaṭa",
+     "gloss": "nectar-pot",
+     "grounds": "attribute held in hand",
+     "morph": "compound"
+    },
+    {
+     "surface": "akṣa",
+     "gloss": "rosary",
+     "grounds": "attribute held in hand",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "srag",
+     "gloss": "garland",
+     "grounds": "attribute held in hand",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dīpta",
+     "gloss": "shining",
+     "grounds": "describes the hands",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hasta",
+     "gloss": "hand",
+     "grounds": "part holding attributes",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ambuja",
+     "gloss": "lotus",
+     "grounds": "seat of the deity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthitām",
+     "gloss": "seated",
+     "grounds": "describes the deity's posture",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the deity visualized with attributes and seat in meditation?",
+   "premises": [
+    "The deity holds a vīṇā, nectar-pot, rosary, and garland.",
+    "The deity's hands are described as shining.",
+    "The deity is seated on a lotus."
+   ],
+   "inference": "The deity should be meditated upon as seated on a lotus, holding a vīṇā, nectar-pot, rosary, and garland in shining hands.",
+   "uncertainties": [],
+   "plain_english": "Meditate on her seated on a lotus, with shining hands holding a vīṇā, a pot of nectar, a rosary, and a garland."
+  },
+  {
+   "verse": 8553,
+   "rows": [
+    {
+     "surface": "vāgdevyau",
+     "gloss": "two-speech-goddesses",
+     "grounds": "deities to be worshipped",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-two-sides",
+     "grounds": "location relative to main deity",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "pūjye",
+     "gloss": "to-be-worshipped",
+     "grounds": "prescribes worship",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "saṃskṛta",
+     "gloss": "saṃskṛta",
+     "grounds": "name or form of one goddess",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prākṛta",
+     "gloss": "prākṛta",
+     "grounds": "name or form of other goddess",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āhvaye",
+     "gloss": "named",
+     "grounds": "identifies the two goddesses",
+     "morph": "f.nom.du"
+    }
+   ],
+   "question": "Which two speech goddesses are worshipped at the sides?",
+   "premises": [
+    "Two speech goddesses are to be worshipped.",
+    "They are placed on the two sides.",
+    "They are named Saṃskṛta and Prākṛta."
+   ],
+   "inference": "The two speech goddesses named Saṃskṛta and Prākṛta should be worshipped on the sides.",
+   "uncertainties": [],
+   "plain_english": "On the two sides, worship the two speech goddesses named Saṃskṛta and Prākṛta."
+  },
+  {
+   "verse": 8554,
+   "rows": [
+    {
+     "surface": "prajñāṃ",
+     "gloss": "prajñā",
+     "grounds": "goddess or power to worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "medhāṃ",
+     "gloss": "medhā",
+     "grounds": "goddess or power to worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śrutiṃ",
+     "gloss": "śruti",
+     "grounds": "goddess or power to worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtiṃ",
+     "gloss": "smṛti",
+     "grounds": "goddess or power to worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "śakti",
+     "grounds": "goddess or power to worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence in ritual",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √arc"
+    }
+   ],
+   "question": "Which additional powers should be worshipped after the side goddesses?",
+   "premises": [
+    "Prajñā, Medhā, Śruti, Smṛti, and Śakti are named.",
+    "The instruction follows the previous step.",
+    "Worship is prescribed for them."
+   ],
+   "inference": "Afterward, one should worship Prajñā, Medhā, Śruti, Smṛti, and Śakti.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship Prajñā, Medhā, Śruti, Smṛti, and Śakti."
+  },
+  {
+   "verse": 8555,
+   "rows": [
+    {
+     "surface": "dikpālaiḥ",
+     "gloss": "with-direction-guardians",
+     "grounds": "deities included in worship",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds to enclosure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturtham",
+     "gloss": "fourth",
+     "grounds": "fourth enclosure or stage",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "mantra recitation instruction",
+     "morph": "3.sg.optative-active √jap"
+    },
+    {
+     "surface": "dvādaśalakṣakam",
+     "gloss": "twelve-hundred-thousand",
+     "grounds": "number of recitations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What constitutes the fourth enclosure and required mantra recitation count?",
+   "premises": [
+    "The guardians of the directions are included.",
+    "This forms the fourth stage.",
+    "Recitation of twelve hundred thousand times is prescribed."
+   ],
+   "inference": "The fourth enclosure includes the direction guardians, and one should recite the mantra twelve hundred thousand times.",
+   "uncertainties": [],
+   "plain_english": "The fourth enclosure should include the guardians of the directions, and one should recite the mantra twelve hundred thousand times."
+  },
+  {
+   "verse": 8556,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "refers to completed procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhamanuḥ",
+     "gloss": "accomplished-mantra",
+     "grounds": "mantra perfected by practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "one who has accomplished the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmyakarmāṇi",
+     "gloss": "desire-rites",
+     "grounds": "optional goal-oriented rituals",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "ability to perform rites",
+     "morph": "3.sg.optative-active √sādh"
+    }
+   ],
+   "question": "What capability does a practitioner gain after accomplishing the mantra?",
+   "premises": [
+    "The mantra becomes accomplished through the prescribed practice.",
+    "The practitioner is then a mantra-holder.",
+    "Desire-oriented rites become achievable."
+   ],
+   "inference": "Having thus accomplished the mantra, the practitioner can perform desire-oriented rites.",
+   "uncertainties": [],
+   "plain_english": "Thus, with the mantra accomplished, the practitioner can carry out desire-oriented rites."
+  },
+  {
+   "verse": 8557,
+   "rows": [
+    {
+     "surface": "sahasratritayam",
+     "gloss": "three-thousand",
+     "grounds": "number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "whoever",
+     "grounds": "introduces practitioner condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trimāsāt",
+     "gloss": "in-three-months",
+     "grounds": "time period",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "result of practice",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "mahākaviḥ",
+     "gloss": "great-poet",
+     "grounds": "attained accomplishment",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What poetic attainment results from three thousand recitations over three months?",
+   "premises": [
+    "Three thousand recitations are performed.",
+    "The practice spans three months.",
+    "The result is becoming a great poet."
+   ],
+   "inference": "One who performs three thousand recitations over three months becomes a great poet.",
+   "uncertainties": [],
+   "plain_english": "Whoever recites it three thousand times over three months becomes a great poet."
+  },
+  {
+   "verse": 8558,
+   "rows": [
+    {
+     "surface": "aikārayuktāḥ",
+     "gloss": "joined-with-ai",
+     "grounds": "describes formation of syllables",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hasarāḥ",
+     "gloss": "ha-with-sara",
+     "grounds": "syllables based on ha and sara",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bindvantāḥ",
+     "gloss": "ending-with-bindu",
+     "grounds": "syllables ending in anusvāra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūrvabījakam",
+     "gloss": "first-seed",
+     "grounds": "identifies the first bīja",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the first seed syllable of the mantra constructed?",
+   "premises": [
+    "The syllables are joined with ai.",
+    "They involve ha and sara.",
+    "They end with bindu and form the first seed."
+   ],
+   "inference": "The first seed syllable is formed from ha and sara joined with ai and ending with bindu.",
+   "uncertainties": [
+    "The exact phonetic value of hasarāḥ is context-dependent."
+   ],
+   "plain_english": "The first seed syllable consists of ha and sara joined with ai and ending with a bindu."
+  },
+  {
+   "verse": 8559,
+   "rows": [
+    {
+     "surface": "visargāntāḥ",
+     "gloss": "ending-with-visarga",
+     "grounds": "describes formation of syllables",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tṛtīyam",
+     "gloss": "third",
+     "grounds": "ordinal position of seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive identification",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "mantra seed syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānapradaḥ",
+     "gloss": "knowledge-giving",
+     "grounds": "effect of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the mantra as a whole",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What characterizes the third seed and the mantra's effect?",
+   "premises": [
+    "The third seed ends with visarga.",
+    "It is identified as a bīja.",
+    "The mantra is described as giving knowledge."
+   ],
+   "inference": "The third seed ends with visarga, and the mantra grants knowledge.",
+   "uncertainties": [],
+   "plain_english": "The third seed should end with a visarga, and this mantra bestows knowledge."
+  },
+  {
+   "verse": 8560,
+   "rows": [
+    {
+     "surface": "antabījam",
+     "gloss": "final-seed",
+     "grounds": "last seed syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive assignment",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "functional role in mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādyabījam",
+     "gloss": "first-seed",
+     "grounds": "initial seed syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīlakam",
+     "gloss": "peg",
+     "grounds": "functional role in mantra",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What functional roles are assigned to the final and first seed syllables?",
+   "premises": [
+    "The final seed is assigned a role.",
+    "The first seed is assigned a different role.",
+    "These roles are śakti and kīlaka."
+   ],
+   "inference": "The final seed functions as the śakti, while the first seed functions as the kīlaka.",
+   "uncertainties": [],
+   "plain_english": "The final seed should be the śakti, and the first seed should be the kīlaka."
+  },
+  {
+   "verse": 8561,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kare",
+     "gloss": "on-hand",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvaye",
+     "gloss": "on-both",
+     "grounds": "refers to both hands",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bījatrayam",
+     "gloss": "three-seeds",
+     "grounds": "set of three bījas",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates further placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the three seed syllables be placed on the hands?",
+   "premises": [
+    "The right hand is specified.",
+    "The left hand is specified.",
+    "The three seeds are to be placed on both."
+   ],
+   "inference": "The three seed syllables should be placed on the right hand, the left hand, and on both.",
+   "uncertainties": [
+    "The exact distribution across right, left, and both is compressed in the verse."
+   ],
+   "plain_english": "Place the three seed syllables on the right hand, on the left hand, and again on both."
+  },
+  {
+   "verse": 8562,
+   "rows": [
+    {
+     "surface": "hṛdayādi",
+     "gloss": "beginning-with-heart",
+     "grounds": "starting point of nyāsa",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects range",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śīrṣāntaṃ",
+     "gloss": "ending-with-head",
+     "grounds": "ending point of nyāsa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential placement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bījatrayam",
+     "gloss": "three-seeds",
+     "grounds": "set of three bījas",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √nyas"
+    }
+   ],
+   "question": "In what bodily sequence should the three seed syllables be placed?",
+   "premises": [
+    "The placement begins at the heart.",
+    "The placement ends at the head.",
+    "The three seeds are placed in order."
+   ],
+   "inference": "One should place the three seed syllables in sequence from the heart to the head.",
+   "uncertainties": [],
+   "plain_english": "One should place the three seed syllables in order, beginning with the heart and ending with the head."
+  },
+  {
+   "verse": 8563,
+   "rows": [
+    {
+     "surface": "pīnottuṃgastanīṃ",
+     "gloss": "full-high-breasted",
+     "grounds": "physical description of deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrṇacandrāsyām",
+     "gloss": "full-moon-faced",
+     "grounds": "facial description of deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aruṇāmbarām",
+     "gloss": "red-garmented",
+     "grounds": "attire description of deity",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What physical form should the deity be visualized as having?",
+   "premises": [
+    "The deity is described as full-breasted.",
+    "The deity has a face like the full moon.",
+    "The deity wears red garments."
+   ],
+   "inference": "The deity should be visualized as full-breasted, full-moon-faced, and clad in red garments.",
+   "uncertainties": [],
+   "plain_english": "Visualize her with full, high breasts, a face like the full moon, and red garments."
+  },
+  {
+   "verse": 8564,
+   "rows": [
+    {
+     "surface": "navayonitrikoṇeṣu",
+     "gloss": "in-nine-womb-triangles",
+     "grounds": "locations within the diagram",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vāmā",
+     "gloss": "vāmā",
+     "grounds": "first goddess in series",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyeṣṭhādikāḥ",
+     "gloss": "beginning-with-jyeṣṭhā",
+     "grounds": "group of goddesses",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √yaj"
+    }
+   ],
+   "question": "Which goddesses are worshipped in the nine womb triangles?",
+   "premises": [
+    "The worship takes place in the nine womb triangles.",
+    "Vāmā and the group beginning with Jyeṣṭhā are named.",
+    "Worship of these goddesses is prescribed."
+   ],
+   "inference": "One should worship Vāmā and the goddesses beginning with Jyeṣṭhā in the nine womb triangles.",
+   "uncertainties": [],
+   "plain_english": "In the nine womb triangles, one should worship Vāmā and the goddesses beginning with Jyeṣṭhā."
+  },
+  {
+   "verse": 8565,
+   "rows": [
+    {
+     "surface": "ādyā",
+     "gloss": "first",
+     "grounds": "first in the series",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bahvī",
+     "gloss": "bahvī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣaghnī",
+     "gloss": "poison-destroying",
+     "grounds": "name or attribute of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "identification",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūratarā",
+     "gloss": "dūratarā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "regarded",
+     "grounds": "traditional identification",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are identified in the initial sequence of this group?",
+   "premises": [
+    "The first is named Ādyā.",
+    "Bahvī and Viṣaghnī are named.",
+    "Dūratarā is regarded as next."
+   ],
+   "inference": "The sequence includes Ādyā, Bahvī, Viṣaghnī, and then Dūratarā.",
+   "uncertainties": [],
+   "plain_english": "The first is Ādyā, then Bahvī and Viṣaghnī, and after that Dūratarā is recognized."
+  },
+  {
+   "verse": 8566,
+   "rows": [
+    {
+     "surface": "āgneye",
+     "gloss": "in-southeast",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "īśāna",
+     "gloss": "in-northeast",
+     "grounds": "directional location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nair-ṛtya",
+     "gloss": "in-southwest",
+     "grounds": "directional location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāyavye",
+     "gloss": "in-northwest",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential placement",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In which directional order are the following powers placed?",
+   "premises": [
+    "Southeast, northeast, southwest, northwest, and west are named.",
+    "The placement follows a sequence.",
+    "These are directional locations for worship."
+   ],
+   "inference": "The powers are placed in order in the southeast, northeast, southwest, northwest, and west.",
+   "uncertainties": [],
+   "plain_english": "In order, they are placed in the southeast, northeast, southwest, northwest, and west."
+  },
+  {
+   "verse": 8567,
+   "rows": [
+    {
+     "surface": "sandīpta",
+     "gloss": "sandīpta",
+     "grounds": "name of a power",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sammohanakau",
+     "gloss": "two-deluding",
+     "grounds": "names or forms of powers",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmādanaḥ",
+     "gloss": "unmādana",
+     "grounds": "name of a power",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "antimaḥ",
+     "gloss": "last",
+     "grounds": "final in this sequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which powers complete the directional sequence named in this passage?",
+   "premises": [
+    "Sandīpta and two Sammohana powers are named.",
+    "Unmādana is named as the last.",
+    "These correspond to the previously given directions."
+   ],
+   "inference": "The directional sequence is completed by Sandīpta, the two Sammohana powers, and Unmādana as the last.",
+   "uncertainties": [
+    "The dual sammohanakau may indicate two related forms; exact distinction is unclear."
+   ],
+   "plain_english": "The powers are Sandīpta, the two Sammohana powers, and finally Unmādana."
+  },
+  {
+   "verse": 8568,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "in-sequence",
+     "grounds": "ordered worship",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "goddesses or energies",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "ritual instruction",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śubhagā",
+     "gloss": "śubhagā",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagā",
+     "gloss": "bhagā",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which powers named Śubhagā and Bhagā are to be worshipped in sequence?",
+   "premises": [
+    "The powers are to be worshipped in sequence.",
+    "Śubhagā is named.",
+    "Bhagā is named."
+   ],
+   "inference": "The powers to be worshipped in sequence include Śubhagā and Bhagā.",
+   "uncertainties": [],
+   "plain_english": "In sequence, the powers to be worshipped include Śubhagā and likewise Bhagā."
+  },
+  {
+   "verse": 8569,
+   "rows": [
+    {
+     "surface": "anaṃgamadanā",
+     "gloss": "anaṃgamadanā",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "visualization practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āsām",
+     "gloss": "of-them",
+     "grounds": "refers to the powers",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "dhyānamāha",
+     "gloss": "states-meditation",
+     "grounds": "introduces description",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-described",
+     "grounds": "indicates explanation follows",
+     "morph": "3.sg.present-passive √nirūp"
+    }
+   ],
+   "question": "How is the meditation on these powers introduced after naming Anaṅgamadanā?",
+   "premises": [
+    "Anaṅgamadanā concludes the enumeration.",
+    "The meditation of these powers is mentioned.",
+    "A description of that meditation is said to be given."
+   ],
+   "inference": "After naming Anaṅgamadanā, the text introduces the description of the meditation on these powers.",
+   "uncertainties": [
+    "dhyānamāha is treated as a compound expression in the tokenization."
+   ],
+   "plain_english": "Thus ending with Anaṅgamadanā, the meditation on them is now described."
+  },
+  {
+   "verse": 8570,
+   "rows": [
+    {
+     "surface": "divyāṃbarāḥ",
+     "gloss": "divine-garmented",
+     "grounds": "attire of the powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvabhūṣāḥ",
+     "gloss": "all-adorned",
+     "grounds": "ornamentation of the powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvābhīṣṭapradāyikāḥ",
+     "gloss": "all-desires-granting",
+     "grounds": "function of the powers",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What qualities characterize the powers in their prescribed meditation form?",
+   "premises": [
+    "They wear divine garments.",
+    "They are adorned with all ornaments.",
+    "They grant all desired ends."
+   ],
+   "inference": "In meditation, the powers are visualized as divinely clothed, fully adorned, and granting all desires.",
+   "uncertainties": [],
+   "plain_english": "They wear divine garments, are adorned with all ornaments, and grant all desired things."
+  },
+  {
+   "verse": 8571,
+   "rows": [
+    {
+     "surface": "bhairavān",
+     "gloss": "bhairavas",
+     "grounds": "deities to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "asitāṃgādyān",
+     "gloss": "beginning-with-asitāṅga",
+     "grounds": "specific group of Bhairavas",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "cakrādīn",
+     "gloss": "beginning-with-discus",
+     "grounds": "weapons or implements",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "āyudhāni",
+     "gloss": "weapons",
+     "grounds": "implements to be worshipped",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "includes additional items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Bhairavas and weapons are included in the worship?",
+   "premises": [
+    "Bhairavas beginning with Asitāṅga are named.",
+    "Weapons beginning with the discus are named.",
+    "Both groups are included in worship."
+   ],
+   "inference": "One should also worship the Bhairavas beginning with Asitāṅga and the weapons beginning with the discus.",
+   "uncertainties": [],
+   "plain_english": "Also worship the Bhairavas beginning with Asitāṅga and the weapons beginning with the discus."
+  },
+  {
+   "verse": 8572,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "fire offering instruction",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "palāśapuṣpaiḥ",
+     "gloss": "with-palāśa-flowers",
+     "grounds": "offering material",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects options",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśāṃśam",
+     "gloss": "tenth-part",
+     "grounds": "proportion of offerings",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative proportion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatāṃśakam",
+     "gloss": "hundredth-part",
+     "grounds": "alternative proportion of offerings",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportion of fire offerings with palāśa flowers is prescribed?",
+   "premises": [
+    "Fire offerings are to be made with palāśa flowers.",
+    "A tenth part is specified as an option.",
+    "A hundredth part is specified as an alternative."
+   ],
+   "inference": "One should offer palāśa flowers in fire as a tenth part or a hundredth part.",
+   "uncertainties": [
+    "The base quantity to which the fraction applies is not stated in this verse."
+   ],
+   "plain_english": "One should make fire offerings with palāśa flowers, either a tenth part or a hundredth part."
+  },
+  {
+   "verse": 8573,
+   "rows": [
+    {
+     "surface": "palāśapuṣpaiḥ",
+     "gloss": "with-palāśa-flowers",
+     "grounds": "offering material",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ayutam",
+     "gloss": "ten-thousand",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saubhāgyāya",
+     "gloss": "for-good-fortune",
+     "grounds": "purpose of the rite",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer",
+     "grounds": "fire offering instruction",
+     "morph": "3.sg.optative-causative √hu"
+    }
+   ],
+   "question": "What specific fire offering is prescribed to obtain good fortune?",
+   "premises": [
+    "Palāśa flowers are used as the offering material.",
+    "Ten thousand offerings are prescribed.",
+    "The purpose is good fortune."
+   ],
+   "inference": "For good fortune, one should offer ten thousand palāśa flowers in the fire.",
+   "uncertainties": [],
+   "plain_english": "For good fortune, one should offer ten thousand palāśa flowers in the fire."
+  },
+  {
+   "verse": 8574,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "result of the rite",
+     "morph": "3.pl.present-active √bhū"
+    },
+    {
+     "surface": "sakalāḥ",
+     "gloss": "all",
+     "grounds": "totality of people",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "lokāḥ",
+     "gloss": "people",
+     "grounds": "those affected",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vaśyāḥ",
+     "gloss": "subdued",
+     "grounds": "state of being brought under control",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "assertion of existence",
+     "morph": "3.sg.present-active √as"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What result is assured for all people by this ritual practice?",
+   "premises": [
+    "All people become affected by the rite.",
+    "They become subdued.",
+    "No doubt is said to exist regarding this result."
+   ],
+   "inference": "The ritual causes all people to become subdued, without any doubt.",
+   "uncertainties": [],
+   "plain_english": "All people become subdued; there is no doubt about this."
+  }
+ ]
+}
