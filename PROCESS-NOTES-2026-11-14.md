@@ -162,3 +162,33 @@ proposed, needs human review* — the human is the only one who says "correct".
 | `proof_record.py --no-write` | compute a verdict without writing state |
 | `tools/serve_audit.py` / `make_readable.py` / `make_traces.py` | expose pipeline |
 | `CORE-VALIDATION-2026-11-14.md` | this session's findings + result |
+
+## 11. Overnight operation (keys, 429, unattended)
+
+**Two Go accounts, both used.** `OPENCODE_GO_KEY` and `OPENCODE_GO_KEY_BAK`
+are both $0-tier; `tools/beam_client.py` spreads calls across **both** by a
+session-hash rotation (~2× free-tier headroom). Both are in the oracle vault;
+the harness exports both each pass (`tools/harness.sh`).
+
+**On 429 (the failover ladder):**
+1. Fail over to the *other* key immediately (still $0).
+2. If that key also 429s, park that *model* 30 min in the shared
+   `process/beam/model_health.json` — every worker honours it, so no hammering.
+3. If every model is down, the harness writes `PAUSED`: workers drain, no
+   fresh claims; it clears automatically on recovery.
+
+**See it live:** `shastra.quota` (MCP) or `python3 tools/quota_status.py` —
+keys loaded (masked), models parked + time left, worker slots, PAUSED, disk.
+`shastra.supervise` shows the systemd unit; `shastra.health` is the daily view.
+
+**Overnight safety:** systemd `tal-campaign` is boot-enabled + `Restart=always`;
+harness enforces `w1..w5`; disk guard pauses at <2 GB free (auto-clears);
+loop commits+pushed to GitHub on green (off-box backup). Disk is the long-term
+limit — prune `process/beam/runs` + `git gc` before multi-day runs.
+
+**Start/verify via MCP:**
+```
+shastra.supervise {"start_missing": true}   # ensure the unit is up
+shastra.quota {}                            # 2 keys, parked models, 5 workers
+shastra.swarm_status {}                     # queue depth
+```

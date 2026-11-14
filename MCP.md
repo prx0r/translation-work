@@ -1,6 +1,6 @@
 # MCP.md — shastra MCP: translation-work as callable tools
 
-*2026-11-12. Server: `mcp_server.py` v3.5.0 (FastMCP stdio, **37 tools**). Registered as
+*2026-11-12. Server: `mcp_server.py` v3.5.0 (FastMCP stdio, **38 tools**). Registered as
 `shastra` in `~/.config/opencode/opencode.jsonc` — restart opencode to load.
 This file is the complete manual: concepts, lanes, every tool with WHEN and
 worked examples, the autonomous loop, troubleshooting, and boundaries. The law
@@ -12,7 +12,7 @@ acting. On any conflict between this file and the skills, the skills win
 
 1. Concepts — DUMB/SMART/scripts, machine-proposed, the layers
 2. Skills — the law, and how to load it
-3. Tool reference — all 37 tools: purpose, args, returns, WHEN, example
+3. Tool reference — all 38 tools: purpose, args, returns, WHEN, example
 4. Standard flows — small work, large work, autonomy (with worked sessions)
 5. Decision trees — which lane, which tool next
 6. Troubleshooting — symptoms, causes, fixes
@@ -272,6 +272,20 @@ served/blocked; `publish=true` then runs the svread publish chain
 ```json
 {"work": "tantrasara-a13"}
 {"all": true, "publish": true}
+```
+
+### `shastra.quota()` — beam keys + 429 + worker state (overnight knob).
+
+Read-only. Reports **how many Go keys are loaded** (TWO zero-price accounts,
+`OPENCODE_GO_KEY` + `OPENCODE_GO_KEY_BAK`, session-hash rotation), which
+models are **parked after a 429** (and seconds left), live **worker slots**,
+**PAUSED**, and disk headroom. Policy it reports: a 429 **fails over to the
+other key first**; only if both 429 does the model park 30 min (shared
+`model_health.json`, all workers agree) and the harness set `PAUSED` until
+the tier recovers. Use this to see headroom before raising workers.
+
+```json
+{}
 ```
 
 ### `shastra.health()` — one-call loop + quality + progress report.

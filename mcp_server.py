@@ -189,6 +189,17 @@ def verify_core(work: str = "") -> dict:
     return _run(cmd, timeout=3600)
 
 
+@mcp.tool()
+def quota() -> dict:
+    """Beam quota + key-rotation + 429 state — the overnight health knob.
+    Reports how many Go keys are loaded (TWO zero-price accounts, session-hash
+    rotation), which models are parked after a 429 and for how long, live
+    worker slots, PAUSED, and disk headroom. Policy: a 429 fails over to the
+    other key first; only if both 429 does the model park 30 min and the
+    harness set PAUSED until recovery. Read-only; secrets are masked."""
+    return _run(["tools/quota_status.py", "--json"], timeout=120)
+
+
 def _lore_path(work: str) -> Path | None:
     """Transmission brief for a work's front.
 
@@ -919,7 +930,7 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "bibliography", "priority", "schema", "stats", "works",
          "editions", "links", "availability", "onboard", "burn",
          "recycle", "watchdog", "progress", "queue_guard",
-         "serve_status", "make_readable", "make_traces", "health", "audit_align", "verify_core"]
+         "serve_status", "make_readable", "make_traces", "health", "audit_align", "verify_core", "quota"]
 
 
 if __name__ == "__main__":
