@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p37",
  "verse": 906,
- "question": "How is the door-guardian's appearance and condition described?",
+ "question": "What prepared substances are specified for use in the ritual procedure?",
  "premises": [
-  "The guardian wears a skull garland.",
-  "The guardian is intoxicated by wine.",
-  "The guardian bears a mad appearance."
+  "A cooked and perfumed substance is indicated.",
+  "Pure bovine ghee is specified."
  ],
- "inference": "The door-guardian is depicted as skull-garlanded, wine-intoxicated, and wild in appearance.",
- "uncertainties": [],
- "plain_english": "He was garlanded with skulls, intoxicated by wine, and bearing a mad appearance."
+ "inference": "The procedure uses cooked, perfumed, pure cow-derived ghee.",
+ "uncertainties": [
+  "pakvena? contains an uncertain character marked by ? in the source token."
+ ],
+ "plain_english": "Then, with cooked, perfumed, pure cow-derived ghee."
 }

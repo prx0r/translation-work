@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 884,
- "question": "What surrounds the yantra in this description?",
+ "question": "How does the prescribed number of lamps change for the evening compared to the earlier count?",
  "premises": [
-  "The verse lists mantra-syllable radiance and more-red elements.",
-  "It says the yantra is surrounded."
+  "Four lamps are the base count.",
+  "The evening time is specified.",
+  "The count becomes doubled then."
  ],
- "inference": "The yantra is surrounded by that mantra-syllable radiance and by more-red elements.",
+ "inference": "In the evening, the number of lamps should be doubled to eight.",
  "uncertainties": [
-  "The exact visual arrangement is not specified."
+  "The relation to the previous verse's timing is slightly ambiguous."
  ],
- "plain_english": "It is surrounded by that mantra-syllable radiance and by more-red elements."
+ "plain_english": "There should indeed be four lamps, but in the evening they should be doubled."
 }

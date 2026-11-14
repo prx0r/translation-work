@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p38",
  "verse": 926,
- "question": "Which goddesses are named in this vidya enumeration?",
+ "question": "Where must the goddess be ritually installed in relation to the god?",
  "premises": [
-  "vidyesvari is named",
-  "sivadutika is named",
-  "tatha links the names"
+  "The goddess is the object of installation.",
+  "The placement is on the god's left side.",
+  "The officiant should cause her to be placed there."
  ],
- "inference": "The verse enumerates vidya goddesses.",
- "uncertainties": [
-  "Exact ritual function is not stated"
- ],
- "plain_english": "Vidyesvari and Sivadutika are thus named likewise."
+ "inference": "The goddess must be installed on the left side of the god.",
+ "uncertainties": [],
+ "plain_english": "Then one should also place the goddess on the left side of the god."
 }

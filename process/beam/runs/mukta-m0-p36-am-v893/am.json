@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p36",
  "verse": 893,
- "question": "What offerings are to be made in this worship?",
+ "question": "How many musicians and what instrumental accompaniment are required for this level of worship?",
  "premises": [
-  "The verse gives offerings.",
-  "It specifies banana, milk, sugar, rice pudding, and so on."
+  "Musicians are specified.",
+  "Their number is twenty-four.",
+  "They are equipped with all instruments."
  ],
- "inference": "Offerings include banana, milk, sugar, rice pudding, and similar items.",
- "uncertainties": [
-  "The full list of offerings is not exhaustive."
- ],
- "plain_english": "With offerings such as banana, milk, sugar, and rice pudding."
+ "inference": "Twenty-four musicians equipped with all instruments are required.",
+ "uncertainties": [],
+ "plain_english": "There should be twenty-four musicians, equipped with all instruments."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p37",
  "verse": 905,
- "question": "What reaction did the door-guardian have upon seeing the young woman?",
+ "question": "What qualities must the offering prepared with saṃhitā mantras possess?",
  "premises": [
-  "The door-guardian saw her.",
-  "Seeing her caused a reaction.",
-  "The guardian became agitated."
+  "The offering is produced by saṃhitā mantras.",
+  "It should be accompanied by flowers and incense.",
+  "It should be auspicious."
  ],
- "inference": "The door-guardian was agitated upon seeing the young woman.",
- "uncertainties": [],
- "plain_english": "O goddess, that door-guardian became agitated upon seeing her."
+ "inference": "The mantra-generated offering must be auspicious, flower-adorned, and incensed.",
+ "uncertainties": [
+  "saṃhitāmantrasaṃ?jataṃ contains an uncertain character marked by ? in the source token."
+ ],
+ "plain_english": "It should be produced by saṃhitā mantras, accompanied by flowers, incensed, and auspicious."
 }

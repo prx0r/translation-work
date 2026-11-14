@@ -1,0 +1,970 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 826,
+   "rows": [
+    {
+     "surface": "kesarāṇi",
+     "gloss": "filaments",
+     "grounds": "petals or filaments of the lotus",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "caturviṃśat",
+     "gloss": "twenty-four",
+     "grounds": "numeral quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kādi",
+     "gloss": "beginning-with-ka",
+     "grounds": "refers to the ka-group of syllables",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāntargatāni",
+     "gloss": "contained-within-bha",
+     "grounds": "included within the range ending in bha",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many filaments are present and which syllable range do they contain?",
+   "premises": [
+    "The filaments number twenty-four.",
+    "They contain the syllables from ka onward.",
+    "The range extends up to and includes bha."
+   ],
+   "inference": "The lotus has twenty-four filaments encompassing the syllables from ka to bha.",
+   "uncertainties": [
+    "The exact internal sandhi in bhāntargatāni is noted but the token is kept fused."
+   ],
+   "plain_english": "There are twenty-four filaments, and they contain the syllables from ka up to bha."
+  },
+  {
+   "verse": 827,
+   "rows": [
+    {
+     "surface": "maṇḍalatrayam",
+     "gloss": "three-circles",
+     "grounds": "a triad of circular regions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context or location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvak?parikalpayet",
+     "gloss": "should-imagine-as-before",
+     "grounds": "one should visualize according to prior instruction",
+     "morph": "3.sg.optative-active + root-kḷp"
+    }
+   ],
+   "question": "What triadic structure must be visualized in this very location?",
+   "premises": [
+    "A group of three circles is specified.",
+    "The location is indicated as here itself.",
+    "The practitioner should imagine them as before."
+   ],
+   "inference": "One should visualize the three circles in this same place following the earlier method.",
+   "uncertainties": [
+    "The character marked by ? in pūrvak?parikalpayet is preserved as given."
+   ],
+   "plain_english": "Here itself one should imagine the three circles as described before."
+  },
+  {
+   "verse": 828,
+   "rows": [
+    {
+     "surface": "maṇḍalatritayebhyaḥ",
+     "gloss": "from-three-circles",
+     "grounds": "originating from the triad of circles",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "utthām",
+     "gloss": "risen",
+     "grounds": "arisen or emerging upward",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "analastambhasannibhām",
+     "gloss": "resembling-fire-pillar",
+     "grounds": "having the appearance of a column of fire",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What form arises from the three circles and what does it resemble?",
+   "premises": [
+    "Something arises from the three circles.",
+    "The arisen form is described as rising upward.",
+    "Its appearance is likened to a pillar of fire."
+   ],
+   "inference": "A form rising from the three circles should be visualized as resembling a pillar of fire.",
+   "uncertainties": [],
+   "plain_english": "From the three circles arises a form that resembles a pillar of fire."
+  },
+  {
+   "verse": 829,
+   "rows": [
+    {
+     "surface": "hṛtsampuṭam",
+     "gloss": "heart-cavity",
+     "grounds": "the enclosure or lotus of the heart",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ajātaṃ",
+     "gloss": "unborn",
+     "grounds": "not born, primordial",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrtimantram",
+     "gloss": "embodied-mantra",
+     "grounds": "mantra in embodied form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is declared to be the unborn embodied mantra located in the heart cavity?",
+   "premises": [
+    "The heart cavity is the locus mentioned.",
+    "An unborn embodied mantra is identified there.",
+    "This identification is explicitly declared."
+   ],
+   "inference": "The unborn embodied mantra is declared to reside in the heart cavity.",
+   "uncertainties": [],
+   "plain_english": "The unborn embodied mantra is indeed declared to be in the heart cavity."
+  },
+  {
+   "verse": 830,
+   "rows": [
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "one should install or visualize",
+     "morph": "3.sg.optative-active + root-nyas"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "at the crown or head",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhe",
+     "gloss": "in-middle",
+     "grounds": "in the middle region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyādehaṃ",
+     "gloss": "knowledge-body",
+     "grounds": "having a body of knowledge",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadāśivam",
+     "gloss": "Sadāśiva",
+     "grounds": "the deity Sadāśiva",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deity with a knowledge body should be placed on the head and in the middle?",
+   "premises": [
+    "Placement is prescribed on the head and in the middle.",
+    "The figure to be placed has a body of knowledge.",
+    "This figure is identified as Sadāśiva."
+   ],
+   "inference": "Sadāśiva, whose body is knowledge, should be placed on the head and in the middle.",
+   "uncertainties": [
+    "The exact nuance of madhe in this ritual context is slightly ambiguous."
+   ],
+   "plain_english": "One should place Sadāśiva, whose body is knowledge, on the head and in the middle."
+  },
+  {
+   "verse": 831,
+   "rows": [
+    {
+     "surface": "aṣṭatriṃśatkalopetaṃ",
+     "gloss": "endowed-with-thirty-eight-parts",
+     "grounds": "possessing thirty-eight kalās",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brahmāṅgakṛtavigraham",
+     "gloss": "form-made-of-brahmā-limbs",
+     "grounds": "whose body is constituted by the limbs of Brahmā-mantras",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What attributes characterize the form constituted by Brahmā limbs in this visualization?",
+   "premises": [
+    "The form is endowed with thirty-eight kalās.",
+    "The form is made of Brahmā limbs.",
+    "Both attributes qualify the same visualized figure."
+   ],
+   "inference": "The visualized form possesses thirty-eight kalās and is constituted by the limbs of Brahmā.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with thirty-eight kalās and has a form made of the limbs of Brahmā."
+  },
+  {
+   "verse": 832,
+   "rows": [
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "visualization practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasiddhyarthaṃ",
+     "gloss": "for-all-accomplishments",
+     "grounds": "for the sake of attaining all powers",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭādau",
+     "gloss": "on-cloth-etc",
+     "grounds": "on a cloth or similar support",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmitam",
+     "gloss": "made",
+     "grounds": "constructed or depicted",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For what purpose and on what supports may this meditation image be made?",
+   "premises": [
+    "The meditation is intended for all accomplishments.",
+    "The image may be made on cloth or similar supports.",
+    "The making of the image is presented as an option."
+   ],
+   "inference": "This meditation image may be made on cloth or other supports for the sake of all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "This meditation, made for all accomplishments, may also be depicted on cloth and the like."
+  },
+  {
+   "verse": 833,
+   "rows": [
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "calm in appearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "candrakalācūḍaṃ",
+     "gloss": "moon-crescent-crested",
+     "grounds": "wearing a crescent moon on the head",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarpasannaddhasajjaṭam",
+     "gloss": "with-matted-hair-bound-by-snakes",
+     "grounds": "having matted locks tied with serpents",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What peaceful iconographic features characterize the deity in this meditation?",
+   "premises": [
+    "The deity is described as peaceful.",
+    "The deity bears a crescent moon as a crest.",
+    "The deity has matted hair bound with snakes."
+   ],
+   "inference": "The meditated deity is peaceful, crescent-crested, and has matted hair bound by snakes.",
+   "uncertainties": [],
+   "plain_english": "He is peaceful, crowned with a crescent moon, and has matted hair bound with snakes."
+  },
+  {
+   "verse": 834,
+   "rows": [
+    {
+     "surface": "kuṇḍalaiḥ",
+     "gloss": "with-earrings",
+     "grounds": "adorned with earrings",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "karṇikairhāraiḥ",
+     "gloss": "with-ear-ornaments-and-necklaces",
+     "grounds": "wearing karṇika ornaments and garlands",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kaṭisūtrodarabandhanaiḥ",
+     "gloss": "with-waist-cords-and-belly-bands",
+     "grounds": "adorned with girdles and stomach bands",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "Which ornaments adorn the deity's ears, neck, waist, and belly in this description?",
+   "premises": [
+    "The deity wears earrings.",
+    "The deity wears ear ornaments and necklaces.",
+    "The deity wears waist cords and belly bands."
+   ],
+   "inference": "The deity is adorned with earrings, necklaces, waist cords, and belly bands.",
+   "uncertainties": [
+    "The exact distinction of karṇika ornaments is context-dependent."
+   ],
+   "plain_english": "He is adorned with earrings, ear ornaments and necklaces, and with waist cords and belly bands."
+  },
+  {
+   "verse": 835,
+   "rows": [
+    {
+     "surface": "ṣoḍaśābdayu?taṃ",
+     "gloss": "endowed-with-sixteen-years",
+     "grounds": "appearing as sixteen years old",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāntaṃ",
+     "gloss": "lovely",
+     "grounds": "beautiful or radiant",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "suprasannaṃ",
+     "gloss": "very-pleased",
+     "grounds": "extremely gracious or serene",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smitānanam",
+     "gloss": "smiling-faced",
+     "grounds": "having a smiling countenance",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What youthful and gracious qualities define the deity's appearance in this visualization?",
+   "premises": [
+    "The deity appears as sixteen years old.",
+    "The deity is lovely and very gracious.",
+    "The deity has a smiling face."
+   ],
+   "inference": "The deity should be visualized as a lovely, gracious sixteen-year-old with a smiling face.",
+   "uncertainties": [
+    "The character marked by ? in ṣoḍaśābdayu?taṃ is preserved as given."
+   ],
+   "plain_english": "He appears as a lovely sixteen-year-old, very gracious, with a smiling face."
+  },
+  {
+   "verse": 836,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness",
+     "grounds": "the gesture or emblem of fearlessness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāśam",
+     "gloss": "noose",
+     "grounds": "a binding cord",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anyacca",
+     "gloss": "and-another",
+     "grounds": "and also another item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghaṇṭāṃ",
+     "gloss": "bell",
+     "grounds": "a ritual bell",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nāgāṅkuśau",
+     "gloss": "snake-and-goad",
+     "grounds": "a serpent and a goad",
+     "morph": "m.acc.dual"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which hand-held emblems are enumerated as part of the deity's iconography here?",
+   "premises": [
+    "Fearlessness and a noose are held.",
+    "Another item, a bell, is included.",
+    "A snake and a goad are likewise held."
+   ],
+   "inference": "The deity holds fearlessness, a noose, a bell, and also a snake and a goad.",
+   "uncertainties": [],
+   "plain_english": "He holds the gesture of fearlessness, a noose, and also a bell, likewise a snake and a goad."
+  },
+  {
+   "verse": 837,
+   "rows": [
+    {
+     "surface": "prasādābhayakhaṭvāṅgaśaktiśūlāstu",
+     "gloss": "grace-fearlessness-skull-staff-power-spear",
+     "grounds": "a series of emblems including grace, fearlessness, khaṭvāṅga, śakti, and śūla",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "savyataḥ",
+     "gloss": "on-left",
+     "grounds": "on the left side",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which set of emblems is specified to be held on the left side?",
+   "premises": [
+    "A group of emblems is listed together.",
+    "The list includes grace, fearlessness, khaṭvāṅga, śakti, and śūla.",
+    "Their placement is specified as on the left side."
+   ],
+   "inference": "Grace, fearlessness, the khaṭvāṅga, the śakti, and the spear are held on the left side.",
+   "uncertainties": [
+    "The exact parsing of the fused compound prasādābhayakhaṭvāṅgaśaktiśūlāstu is interpretive."
+   ],
+   "plain_english": "On the left side are grace, fearlessness, the skull-staff, the śakti, and the spear."
+  },
+  {
+   "verse": 838,
+   "rows": [
+    {
+     "surface": "icchājñānakriyāśaktitrayanetrayutaṃ",
+     "gloss": "joined-with-three-powers-and-three-eyes",
+     "grounds": "possessing the triad of will, knowledge, action powers and three eyes",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "one should visualize or meditate upon",
+     "morph": "3.sg.optative-active + root-smṛ"
+    }
+   ],
+   "question": "What triads of powers and eyes must the practitioner remember in the deity?",
+   "premises": [
+    "The deity is joined with three powers.",
+    "These powers are will, knowledge, and action.",
+    "The deity is also joined with three eyes and should be remembered thus."
+   ],
+   "inference": "One should remember the deity as possessing the three powers of will, knowledge, and action, and three eyes.",
+   "uncertainties": [],
+   "plain_english": "One should remember him as endowed with the three powers of will, knowledge, and action, and with three eyes."
+  },
+  {
+   "verse": 839,
+   "rows": [
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "the three-pronged spear",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "three-qualities",
+     "grounds": "representing the three guṇas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated or explained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sattā",
+     "gloss": "being",
+     "grounds": "existence or essence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paraśurucyate",
+     "gloss": "is-called-axe",
+     "grounds": "is designated as the axe",
+     "morph": "3.sg.present-passive + root-vac"
+    }
+   ],
+   "question": "How are the trident and the axe symbolically identified in this teaching?",
+   "premises": [
+    "The trident is declared to represent the three guṇas.",
+    "Being is identified with the axe.",
+    "Both identifications are explicitly stated."
+   ],
+   "inference": "The trident symbolizes the three guṇas, while the axe is called being.",
+   "uncertainties": [
+    "The symbolic equation of sattā with the axe is terse and open to interpretive nuance."
+   ],
+   "plain_english": "The trident is declared to be the three guṇas, and being is called the axe."
+  },
+  {
+   "verse": 840,
+   "rows": [
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "external or outward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃhāriṇī",
+     "gloss": "destructive",
+     "grounds": "having the power to withdraw or destroy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "divine energy or śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāśānāṃ",
+     "gloss": "of-nooses",
+     "grounds": "of the bonds",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhasmasātkarī",
+     "gloss": "reducing-to-ashes",
+     "grounds": "making into ashes",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What function does the outward destructive power perform upon the nooses?",
+   "premises": [
+    "An outward power is described as destructive.",
+    "This power acts upon the nooses.",
+    "Its action is to reduce them to ashes."
+   ],
+   "inference": "The outward destructive power reduces the nooses to ashes.",
+   "uncertainties": [],
+   "plain_english": "The outward destructive power reduces the nooses to ashes."
+  },
+  {
+   "verse": 841,
+   "rows": [
+    {
+     "surface": "nāgopadhṛṣṭatā",
+     "gloss": "state-of-being-overpowered-by-snake",
+     "grounds": "the condition of being subdued by the serpent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "divine energy or śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "of all beings or things",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāyikā",
+     "gloss": "effecting",
+     "grounds": "bringing about or accomplishing",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What universal effect is attributed to the power associated with being overpowered by the snake?",
+   "premises": [
+    "A power is linked to being overpowered by the snake.",
+    "This power relates to all.",
+    "This power is described as effecting or accomplishing."
+   ],
+   "inference": "The power associated with being overpowered by the snake is the effecting power for all.",
+   "uncertainties": [
+    "The precise doctrinal meaning of nāgopadhṛṣṭatā as a śakti is interpretive."
+   ],
+   "plain_english": "The power of being overpowered by the snake is the power that accomplishes everything for all."
+  },
+  {
+   "verse": 842,
+   "rows": [
+    {
+     "surface": "ghaṇṭā",
+     "gloss": "bell",
+     "grounds": "the ritual bell emblem",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nādātmakaṃ",
+     "gloss": "sound-natured",
+     "grounds": "having the nature of sound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "appearance or nature",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantravigrahabodhakam",
+     "gloss": "indicating-mantra-body",
+     "grounds": "revealing the embodied form of mantra",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What sonic nature and revelatory function are attributed to the bell emblem?",
+   "premises": [
+    "The bell is identified as having a sound nature.",
+    "The bell has a specific form.",
+    "That form indicates the embodied nature of mantra."
+   ],
+   "inference": "The bell, being sound-natured, indicates the embodied form of mantra.",
+   "uncertainties": [],
+   "plain_english": "The bell is of the nature of sound and indicates the embodied form of mantra."
+  },
+  {
+   "verse": 843,
+   "rows": [
+    {
+     "surface": "yadbhogye",
+     "gloss": "in-which-enjoyable",
+     "grounds": "in that which is to be enjoyed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "of the individual self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prāptiḥ",
+     "gloss": "attainment",
+     "grounds": "reaching or obtaining",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tv",
+     "gloss": "but",
+     "grounds": "particle indicating emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atraiva",
+     "gloss": "here-indeed",
+     "grounds": "in this very context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyamo",
+     "gloss": "restraint",
+     "grounds": "rule or control",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṅkuśam",
+     "gloss": "goad",
+     "grounds": "the goad emblem",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the goad emblem defined in relation to the self's attainment of enjoyables?",
+   "premises": [
+    "The self attains something enjoyable.",
+    "This attainment occurs in that very context.",
+    "The goad is identified as the restraint governing this."
+   ],
+   "inference": "The goad is the restraint by which the self's attainment of the enjoyable is regulated.",
+   "uncertainties": [
+    "The syntactic relation in the fused expression is compressed and interpretive."
+   ],
+   "plain_english": "The goad is the restraint by which the self attains what is to be enjoyed, right here."
+  },
+  {
+   "verse": 844,
+   "rows": [
+    {
+     "surface": "īśaḥ",
+     "gloss": "Īśa",
+     "grounds": "the deity Īśa or the lordly face",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphaṭikavanmadhye",
+     "gloss": "crystal-like-in-middle",
+     "grounds": "in the middle, resembling crystal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "in the eastern direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuṅkumavannaraḥ",
+     "gloss": "saffron-like-man",
+     "grounds": "the human face resembling saffron",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which faces and colors are assigned to the middle and eastern directions?",
+   "premises": [
+    "Īśa is placed in the middle and is crystal-like.",
+    "The eastern direction is specified.",
+    "The eastern face is the human one, saffron-like in color."
+   ],
+   "inference": "The middle face is Īśa, crystal-like, while the eastern face is the human one, saffron-colored.",
+   "uncertainties": [
+    "The identification of naraḥ as the eastern face follows contextual iconography."
+   ],
+   "plain_english": "In the middle is Īśa, like crystal; in the east is the human face, like saffron."
+  },
+  {
+   "verse": 845,
+   "rows": [
+    {
+     "surface": "candrāṃśunirmalaṃ",
+     "gloss": "pure-as-moon-rays",
+     "grounds": "clear like moonbeams",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadyaṃ",
+     "gloss": "Sadya",
+     "grounds": "the Sadyojāta face",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "countenance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paścimadiggatam",
+     "gloss": "situated-in-west-direction",
+     "grounds": "located in the western direction",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What purity and directional placement characterize the Sadya face?",
+   "premises": [
+    "The Sadya face is described as pure like moon rays.",
+    "It is identified as a face.",
+    "It is situated in the western direction."
+   ],
+   "inference": "The Sadya face, pure as moon rays, is located in the western direction.",
+   "uncertainties": [],
+   "plain_english": "The Sadya face, pure as moon rays, is situated in the western direction."
+  },
+  {
+   "verse": 846,
+   "rows": [
+    {
+     "surface": "bhrūhīnaṃ",
+     "gloss": "without-brows",
+     "grounds": "lacking eyebrows",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tuṅganāsaṃ",
+     "gloss": "high-nosed",
+     "grounds": "having a prominent nose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukapolasmitādharam",
+     "gloss": "with-beautiful-cheeks-and-smiling-lips",
+     "grounds": "having lovely cheeks and smiling lips",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What facial features of brows, nose, cheeks, and lips are described for this face?",
+   "premises": [
+    "The face is described as without brows.",
+    "The face has a high nose.",
+    "The face has beautiful cheeks and smiling lips."
+   ],
+   "inference": "The described face lacks brows, has a high nose, and has beautiful cheeks with smiling lips.",
+   "uncertainties": [],
+   "plain_english": "It is without brows, has a high nose, and has beautiful cheeks with smiling lips."
+  },
+  {
+   "verse": 847,
+   "rows": [
+    {
+     "surface": "vivṛtāsyaṃ",
+     "gloss": "open-mouthed",
+     "grounds": "with mouth opened",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahāghrāṇaṃ",
+     "gloss": "large-nosed",
+     "grounds": "having a large nose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vṛttākṣaṃ",
+     "gloss": "round-eyed",
+     "grounds": "having round eyes",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lelihānakam",
+     "gloss": "licking",
+     "grounds": "with a licking tongue or motion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What additional mouth, nose, eye, and tongue features characterize this face?",
+   "premises": [
+    "The face is open-mouthed.",
+    "The face has a large nose and round eyes.",
+    "The face is described as licking."
+   ],
+   "inference": "The face is open-mouthed, large-nosed, round-eyed, and licking.",
+   "uncertainties": [],
+   "plain_english": "It is open-mouthed, large-nosed, round-eyed, and licking."
+  },
+  {
+   "verse": 848,
+   "rows": [
+    {
+     "surface": "jvālākṛ?tijaṭāvyālabhogibaddhordhvacūḍakam",
+     "gloss": "with-flame-shaped-matted-hair-bound-upward-by-serpent-coils",
+     "grounds": "having upward crest and matted locks shaped like flames bound by serpent coils",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How are the matted locks and crest described in relation to flames and serpents?",
+   "premises": [
+    "The matted hair is shaped like flames.",
+    "Serpent coils bind the hair.",
+    "The crest is raised upward."
+   ],
+   "inference": "The figure has flame-shaped matted hair bound upward by serpent coils.",
+   "uncertainties": [
+    "The character marked by ? in jvālākṛ?tijaṭāvyālabhogibaddhordhvacūḍakam is preserved as given.",
+    "The long compound is parsed interpretively as a single fused token."
+   ],
+   "plain_english": "He has flame-shaped matted hair and an upward crest bound by the coils of serpents."
+  },
+  {
+   "verse": 849,
+   "rows": [
+    {
+     "surface": "tryakṣaṃ",
+     "gloss": "three-eyed",
+     "grounds": "having three eyes",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "makuṭayuktaṃ",
+     "gloss": "crowned",
+     "grounds": "adorned with a crown",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍalālaṅkṛtaṃ",
+     "gloss": "adorned-with-earrings",
+     "grounds": "decorated with earrings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "beautiful and auspicious",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What auspicious features of eyes, crown, and earrings complete this facial description?",
+   "premises": [
+    "The face is three-eyed.",
+    "The face is crowned and adorned with earrings.",
+    "The face is described as auspicious."
+   ],
+   "inference": "The auspicious face is three-eyed, crowned, and adorned with earrings.",
+   "uncertainties": [],
+   "plain_english": "It is three-eyed, crowned, adorned with earrings, and auspicious."
+  }
+ ]
+}

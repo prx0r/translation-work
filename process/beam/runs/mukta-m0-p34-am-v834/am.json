@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p34",
  "verse": 834,
- "question": "How many slain courtesans and goddesses are counted?",
+ "question": "Which ornaments adorn the deity's ears, neck, waist, and belly in this description?",
  "premises": [
-  "pañca modifies an unknown noun",
-  "hatā veśyā means slain courtesan",
-  "daśa and śvarī indicate further counts"
+  "The deity wears earrings.",
+  "The deity wears ear ornaments and necklaces.",
+  "The deity wears waist cords and belly bands."
  ],
- "inference": "The verse gives numerical counts involving slain courtesans and goddesses.",
+ "inference": "The deity is adorned with earrings, necklaces, waist cords, and belly bands.",
  "uncertainties": [
-  "six tokens are missing"
+  "The exact distinction of karṇika ornaments is context-dependent."
  ],
- "plain_english": "The verse counts five, ten, and goddess-related items in a damaged passage."
+ "plain_english": "He is adorned with earrings, ear ornaments and necklaces, and with waist cords and belly bands."
 }

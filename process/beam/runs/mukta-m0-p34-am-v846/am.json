@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p34",
  "verse": 846,
- "question": "What qualities are attributed to the arrows being described?",
+ "question": "What facial features of brows, nose, cheeks, and lips are described for this face?",
  "premises": [
-  "great wonder doing is attributed",
-  "three worlds shaking capable is attributed",
-  "arrows are the implied object"
+  "The face is described as without brows.",
+  "The face has a high nose.",
+  "The face has beautiful cheeks and smiling lips."
  ],
- "inference": "The arrows are described as great wonder-doing and capable of shaking the three worlds.",
- "uncertainties": [
-  "the arrows are not explicitly named in this verse"
- ],
- "plain_english": "They are great wonder-doing and capable of shaking the three worlds."
+ "inference": "The described face lacks brows, has a high nose, and has beautiful cheeks with smiling lips.",
+ "uncertainties": [],
+ "plain_english": "It is without brows, has a high nose, and has beautiful cheeks with smiling lips."
 }
