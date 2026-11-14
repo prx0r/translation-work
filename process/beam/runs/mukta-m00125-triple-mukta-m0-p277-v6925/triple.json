@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p277",
+ "items": [
+  {
+   "verse": 6925,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "Refers to the people associated with the previously described royal depiction.",
+     "morph": "pron.m.gen.pl"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "Subject who experiences the stated benefit.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "The beneficial state attained by the king.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "attains",
+     "grounds": "Expresses the king's attainment of happiness.",
+     "morph": "3.sg.pres.act √yā"
+    },
+    {
+     "surface": "subhikṣaṃ",
+     "gloss": "prosperity",
+     "grounds": "Abundance or well-being that arises as a result.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "Expresses the coming into being of prosperity.",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "Indicates that the stated outcomes occur in that manner.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happiness and prosperity result for the people from depicting the king enthroned and attended?",
+   "premises": [
+    "The king attains happiness.",
+    "Prosperity arises as a result.",
+    "These outcomes occur for those people in that manner."
+   ],
+   "inference": "Depicting the king enthroned and attended leads to the king's happiness and the arising of prosperity for the people.",
+   "uncertainties": [
+    "Whether teṣāṃ refers specifically to the subjects, patrons, or all involved is not explicit in this verse alone."
+   ],
+   "plain_english": "For them, the king attains happiness, and prosperity arises in the same way."
+  }
+ ]
+}

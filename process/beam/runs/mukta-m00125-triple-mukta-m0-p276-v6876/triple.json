@@ -1,0 +1,993 @@
+{
+ "song": "mukta-m0-p276",
+ "items": [
+  {
+   "verse": 6876,
+   "rows": [
+    {
+     "surface": "kuryādāśva",
+     "gloss": "one-should-do-in-aśvayuja",
+     "grounds": "optative verb fused with month name āśvayuja",
+     "morph": "3.sg.opt.act √kṛ + compound-member"
+    },
+    {
+     "surface": "yuje",
+     "gloss": "in-aśvayuja",
+     "grounds": "locative of month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māsi",
+     "gloss": "in-month",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pratisaṃvatsaraṃ",
+     "gloss": "every-year",
+     "grounds": "adverbial compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative verb",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "When must this rite be performed annually in the month of Āśvayuja?",
+   "premises": [
+    "The rite should be done in the month of Āśvayuja.",
+    "The performance is prescribed every year."
+   ],
+   "inference": "The rite is to be carried out annually in the month of Āśvayuja.",
+   "uncertainties": [
+    "The exact referent of kuru alongside kuryādāśva is slightly ambiguous."
+   ],
+   "plain_english": "One should perform it every year in the month of Āśvayuja; do it."
+  },
+  {
+   "verse": 6877,
+   "rows": [
+    {
+     "surface": "dvādaśyāṃ",
+     "gloss": "on-twelfth-day",
+     "grounds": "locative of lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuryācchuklaṃ",
+     "gloss": "one-should-do-in-bright",
+     "grounds": "optative fused with adjective śukla",
+     "morph": "3.sg.opt.act √kṛ + n.acc.sg"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "in-fortnight",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb of emphasis",
+     "morph": "indecl."
+    }
+   ],
+   "question": "On which lunar day and fortnight is the rite especially to be performed?",
+   "premises": [
+    "The rite may be done on the twelfth lunar day.",
+    "It should especially be done in the bright fortnight."
+   ],
+   "inference": "The preferred time is the twelfth day of the bright fortnight.",
+   "uncertainties": [],
+   "plain_english": "Or one should do it on the twelfth day, especially in the bright fortnight."
+  },
+  {
+   "verse": 6878,
+   "rows": [
+    {
+     "surface": "anyasmin",
+     "gloss": "on-another",
+     "grounds": "locative pronoun/adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakartavyā",
+     "gloss": "to-be-performed",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "tadvidhāna",
+     "gloss": "its-procedure",
+     "grounds": "compound: that + procedure",
+     "morph": "n.nom.sg compound tat+vidhāna"
+    },
+    {
+     "surface": "mihocyate",
+     "gloss": "here-is-stated",
+     "grounds": "passive verb fused with iha",
+     "morph": "3.sg.pres.pass √vac + indecl."
+    }
+   ],
+   "question": "What procedure is stated here for performing the rite at another time?",
+   "premises": [
+    "The rite may also be performed at another time.",
+    "Its procedure is stated here."
+   ],
+   "inference": "An alternative timing is allowed and its procedure is explained in this context.",
+   "uncertainties": [
+    "The sandhi in mihocyate (iha ucyate) is internal to the fused token."
+   ],
+   "plain_english": "Or it may be performed at another time; its procedure is stated here."
+  },
+  {
+   "verse": 6879,
+   "rows": [
+    {
+     "surface": "viṃśaddhasta",
+     "gloss": "twenty-cubit",
+     "grounds": "compound: twenty + cubit",
+     "morph": "compound viṃśat+hasta"
+    },
+    {
+     "surface": "samāyāmāyāgaśāleya",
+     "gloss": "equal-length-sacrificial-hall-this",
+     "grounds": "compound describing hall dimensions",
+     "morph": "f.nom.sg compound samāyāma+yāgaśālā+iya"
+    },
+    {
+     "surface": "mīritā",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "f.nom.sg.past-pass.part √īr"
+    }
+   ],
+   "question": "What dimensions are declared for the sacrificial hall in this rite?",
+   "premises": [
+    "The sacrificial hall is described as twenty cubits in measure.",
+    "Its length is declared as equal in extent."
+   ],
+   "inference": "The sacrificial hall is declared to be twenty cubits with equal length.",
+   "uncertainties": [
+    "The exact parsing of samāyāmāyāgaśāleya as a fused compound is uncertain."
+   ],
+   "plain_english": "This sacrificial hall is declared to be twenty cubits in extent and of equal length."
+  },
+  {
+   "verse": 6880,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "compound: that + half",
+     "morph": "n.nom.sg compound tat+ardha"
+    },
+    {
+     "surface": "śirṣakaṃ",
+     "gloss": "head-portion",
+     "grounds": "diminutive noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjunction with emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rājñāṃ",
+     "gloss": "for-kings",
+     "grounds": "genitive plural noun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vedikā",
+     "gloss": "altar",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past passive participle",
+     "morph": "f.nom.sg.past-pass.part √man"
+    }
+   ],
+   "question": "What altar size is considered appropriate for kings in this ritual layout?",
+   "premises": [
+    "The head portion is half of that measure.",
+    "Such an altar is considered suitable for kings."
+   ],
+   "inference": "An altar half that size is regarded as the proper one for kings.",
+   "uncertainties": [],
+   "plain_english": "The head portion is half of that, and such an altar is considered proper for kings."
+  },
+  {
+   "verse": 6881,
+   "rows": [
+    {
+     "surface": "hastamātra",
+     "gloss": "cubit-only",
+     "grounds": "compound: cubit + measure",
+     "morph": "compound hasta+mātra"
+    },
+    {
+     "surface": "pramāṇe",
+     "gloss": "in-measure",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mekhalātraya",
+     "gloss": "three-girdles",
+     "grounds": "compound: girdle + three",
+     "morph": "compound mekhalā+traya"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.past-pass.part sam+√yu"
+    }
+   ],
+   "question": "What structural features must the altar possess according to its prescribed measure?",
+   "premises": [
+    "The altar is one cubit in measure.",
+    "It is endowed with three girdles."
+   ],
+   "inference": "The altar should measure one cubit and have three girdles.",
+   "uncertainties": [],
+   "plain_english": "It should be one cubit in measure and furnished with three girdles."
+  },
+  {
+   "verse": 6882,
+   "rows": [
+    {
+     "surface": "apāṃ",
+     "gloss": "of-waters",
+     "grounds": "genitive plural noun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "samīpaṃ",
+     "gloss": "near",
+     "grounds": "indeclinable/adverbial noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nītvātu",
+     "gloss": "having-led-then",
+     "grounds": "absolutive fused with particle tu",
+     "morph": "absolutive √nī + indecl."
+    },
+    {
+     "surface": "so'śvaṃ",
+     "gloss": "that-horse",
+     "grounds": "demonstrative fused with noun aśva",
+     "morph": "m.nom.sg + m.acc.sg"
+    },
+    {
+     "surface": "satstrībhirāvṛtam",
+     "gloss": "surrounded-by-good-women",
+     "grounds": "past passive participle with instrumental compound",
+     "morph": "m.acc.sg.past-pass.part ā+√vṛ"
+    }
+   ],
+   "question": "Where and in whose company must the horse be led during the ritual?",
+   "premises": [
+    "The horse is to be led near the waters.",
+    "The horse is surrounded by virtuous women."
+   ],
+   "inference": "The horse must be taken near the waters accompanied by virtuous women.",
+   "uncertainties": [
+    "The exact nuance of satstrībhiḥ is context-dependent."
+   ],
+   "plain_english": "Then, having led that horse near the waters, surrounded by virtuous women."
+  },
+  {
+   "verse": 6883,
+   "rows": [
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "fire-pit",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "locative compound/adverbial form",
+     "morph": "n.loc.sg compound tat+ūrdhva"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "homārthaṃ",
+     "gloss": "for-offering",
+     "grounds": "compound: oblation + purpose",
+     "morph": "n.acc.sg compound homa+artha"
+    },
+    {
+     "surface": "pūrvamānataḥ",
+     "gloss": "first-as-measured",
+     "grounds": "adverbial compound",
+     "morph": "indecl. compound pūrva+mānataḥ"
+    }
+   ],
+   "question": "Where and for what purpose must the fire pit be constructed?",
+   "premises": [
+    "A fire pit is to be made above that place.",
+    "It is made for the purpose of oblation according to prior measure."
+   ],
+   "inference": "A fire pit must be constructed above that spot for oblation as previously measured.",
+   "uncertainties": [],
+   "plain_english": "A fire pit should be made above that place for the oblation, according to the prior measurement."
+  },
+  {
+   "verse": 6884,
+   "rows": [
+    {
+     "surface": "prabuddhe'gnau",
+     "gloss": "when-fire-kindled",
+     "grounds": "locative absolute with internal sandhi",
+     "morph": "m.loc.sg.past-pass.part pra+√budh + m.loc.sg"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "imāṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "one-should-offer",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "brahmaṇe",
+     "gloss": "to-brahman",
+     "grounds": "dative noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "haviḥ",
+     "gloss": "oblation",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "To which deity must the oblation be offered once the fire is kindled?",
+   "premises": [
+    "The fire has been kindled.",
+    "An oblation is to be offered to Brahman."
+   ],
+   "inference": "After the fire is kindled, the oblation should be offered to Brahman.",
+   "uncertainties": [],
+   "plain_english": "When the fire is kindled, one should then offer this oblation to Brahman."
+  },
+  {
+   "verse": 6885,
+   "rows": [
+    {
+     "surface": "tataścācala",
+     "gloss": "then-and-to-immovable",
+     "grounds": "adverb fused with conjunction and epithet",
+     "morph": "indecl. + indecl. + m.dat.sg"
+    },
+    {
+     "surface": "devāya",
+     "gloss": "to-god",
+     "grounds": "dative noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "senānyai",
+     "gloss": "to-army-leader",
+     "grounds": "dative noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dhanadāya",
+     "gloss": "to-wealth-giver",
+     "grounds": "dative compound",
+     "morph": "m.dat.sg compound dhana+da"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which additional deities receive offerings after the oblation to Brahman?",
+   "premises": [
+    "Offerings continue after the oblation to Brahman.",
+    "The recipients include the immovable god, the army leader, and the wealth giver."
+   ],
+   "inference": "Subsequent offerings are made to the immovable god, Senānī, and Dhanada.",
+   "uncertainties": [
+    "The identity of acala devāya may refer to Śiva or another deity."
+   ],
+   "plain_english": "Then also to the immovable god, to the army leader, and to the giver of wealth."
+  },
+  {
+   "verse": 6886,
+   "rows": [
+    {
+     "surface": "juhuyādāhutīretā",
+     "gloss": "one-should-offer-these-libations",
+     "grounds": "optative fused with noun and demonstrative",
+     "morph": "3.sg.opt.act √hu + f.acc.pl"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caiteṣu",
+     "gloss": "and-in-these",
+     "grounds": "conjunction fused with pronoun",
+     "morph": "indecl. + m.loc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act vi+ni+√as"
+    }
+   ],
+   "question": "What ritual actions must be performed for these deities with libations and offerings?",
+   "premises": [
+    "These libations are to be offered.",
+    "An offering is to be placed for these deities."
+   ],
+   "inference": "One should offer these libations and place an offering for them.",
+   "uncertainties": [],
+   "plain_english": "One should offer these libations and place an offering for these deities."
+  },
+  {
+   "verse": 6887,
+   "rows": [
+    {
+     "surface": "snāpayet",
+     "gloss": "one-should-bathe",
+     "grounds": "causative optative verb",
+     "morph": "3.sg.opt.caus.act √snā"
+    },
+    {
+     "surface": "sthāpayeccaiva",
+     "gloss": "and-one-should-establish-also",
+     "grounds": "causative optative fused with conjunctions",
+     "morph": "3.sg.opt.caus.act √sthā + indecl. + indecl."
+    },
+    {
+     "surface": "yathoktairoṣadhīgaṇaiḥ",
+     "gloss": "with-herb-groups-as-stated",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl compound yathokta+oṣadhi+gaṇa"
+    }
+   ],
+   "question": "How must the ritual subject be bathed and established using the prescribed herbs?",
+   "premises": [
+    "The subject should be bathed and established.",
+    "This is done with groups of herbs as previously stated."
+   ],
+   "inference": "The subject must be bathed and established using the prescribed groups of herbs.",
+   "uncertainties": [],
+   "plain_english": "One should bathe and establish it with the groups of herbs as previously described."
+  },
+  {
+   "verse": 6888,
+   "rows": [
+    {
+     "surface": "vimārditān",
+     "gloss": "rubbed",
+     "grounds": "past passive participle",
+     "morph": "m.acc.pl.past-pass.part vi+√mṛd"
+    },
+    {
+     "surface": "vītamalān",
+     "gloss": "freed-from-impurities",
+     "grounds": "compound: gone + impurity",
+     "morph": "m.acc.pl compound vīta+mala"
+    },
+    {
+     "surface": "pītasnātānvagāhitān",
+     "gloss": "bathed-immersed-in-yellow",
+     "grounds": "compound of participles",
+     "morph": "m.acc.pl compound pīta+snāta+avagāhita"
+    }
+   ],
+   "question": "What condition must the herbs or materials attain before ritual use?",
+   "premises": [
+    "The materials are rubbed and freed from impurities.",
+    "They are bathed and immersed in a yellow substance."
+   ],
+   "inference": "The materials must be purified, rubbed, and bathed in a yellow preparation.",
+   "uncertainties": [
+    "The exact substance indicated by pīta is not specified."
+   ],
+   "plain_english": "They should be rubbed, freed from impurities, and bathed and immersed in a yellow preparation."
+  },
+  {
+   "verse": 6889,
+   "rows": [
+    {
+     "surface": "baddhauṣadhāni",
+     "gloss": "bound-herbs",
+     "grounds": "compound: bound + herbs",
+     "morph": "n.acc.pl compound baddha+oṣadha"
+    },
+    {
+     "surface": "vīryāni",
+     "gloss": "potent-substances",
+     "grounds": "accusative noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "rakṣārthaṃ",
+     "gloss": "for-protection",
+     "grounds": "compound: protection + purpose",
+     "morph": "n.acc.sg compound rakṣā+artha"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "on-them",
+     "grounds": "locative pronoun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "bandhayet",
+     "gloss": "one-should-bind",
+     "grounds": "causative optative verb",
+     "morph": "3.sg.opt.caus.act √bandh"
+    }
+   ],
+   "question": "For what purpose must potent herbs be bound onto the ritual subjects?",
+   "premises": [
+    "Potent herbs are to be bound.",
+    "They are bound for the purpose of protection."
+   ],
+   "inference": "Potent herbs must be bound on them for protection.",
+   "uncertainties": [
+    "The referent of teṣu depends on prior context."
+   ],
+   "plain_english": "One should bind potent herbs on them for protection."
+  },
+  {
+   "verse": 6890,
+   "rows": [
+    {
+     "surface": "kuśaissaṃśodhayitvājyaṃ",
+     "gloss": "having-purified-ghee-with-kuśa",
+     "grounds": "absolutive fused with instrumental and noun",
+     "morph": "m.inst.pl + absolutive sam+√śudh + n.acc.sg"
+    },
+    {
+     "surface": "kuśairājyaṃ",
+     "gloss": "ghee-with-kuśa",
+     "grounds": "instrumental fused with noun",
+     "morph": "m.inst.pl + n.acc.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "one-should-offer",
+     "grounds": "causative optative verb",
+     "morph": "3.sg.opt.caus.act sam+√ṛ"
+    }
+   ],
+   "question": "How must clarified butter be purified and offered using kuśa grass?",
+   "premises": [
+    "The clarified butter is purified with kuśa grass.",
+    "The clarified butter is then to be offered."
+   ],
+   "inference": "After purifying it with kuśa grass, one should offer the clarified butter.",
+   "uncertainties": [],
+   "plain_english": "Having purified the clarified butter with kuśa grass, one should offer the clarified butter with kuśa."
+  },
+  {
+   "verse": 6891,
+   "rows": [
+    {
+     "surface": "ājyaṃ",
+     "gloss": "clarified-butter",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "strucā",
+     "gloss": "with-ladle",
+     "grounds": "instrumental noun",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third-time",
+     "grounds": "ordinal adjective used adverbially",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lihitāśvamupāharet",
+     "gloss": "one-should-present-to-licked-horse",
+     "grounds": "optative fused with compound object",
+     "morph": "3.sg.opt.act upa+ā+√hṛ + compound lihita+aśva"
+    }
+   ],
+   "question": "How is the third portion of clarified butter to be presented to the horse?",
+   "premises": [
+    "Clarified butter is taken with a ladle for a third time.",
+    "It is to be presented to the horse that has licked it."
+   ],
+   "inference": "The third portion of clarified butter should be presented with a ladle to the horse.",
+   "uncertainties": [
+    "The compound lihitāśvam is interpreted as the horse having licked/tasted."
+   ],
+   "plain_english": "But the third portion of clarified butter, taken with a ladle, should be presented to the horse that has licked it."
+  },
+  {
+   "verse": 6892,
+   "rows": [
+    {
+     "surface": "brāhme",
+     "gloss": "in-brahma",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "muhūrte",
+     "gloss": "in-moment",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pratyūṣe",
+     "gloss": "at-dawn",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahma",
+     "grounds": "compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhoṣābhinādite",
+     "gloss": "resounding-with-sacred-sound",
+     "grounds": "locative past passive participle compound",
+     "morph": "m.loc.sg.past-pass.part compound dhosa+abhinādita"
+    }
+   ],
+   "question": "At what sacred time must the ritual action occur amid brahmanical sounds?",
+   "premises": [
+    "The time is the Brahma-muhūrta at dawn.",
+    "The setting resounds with sacred Brahmanical sounds."
+   ],
+   "inference": "The action should take place at Brahma-muhūrta at dawn accompanied by sacred sounds.",
+   "uncertainties": [
+    "The exact form brahma dhoṣābhinādite as split in tokens is unusual but preserved."
+   ],
+   "plain_english": "At the Brahma-muhūrta, at dawn, when it resounds with sacred Brahmanical sounds."
+  },
+  {
+   "verse": 6893,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pracāra",
+     "gloss": "conduct",
+     "grounds": "compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prātaḥ",
+     "gloss": "in-morning",
+     "grounds": "temporal adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive verb",
+     "morph": "3.sg.pres.pass pra+√śaṃs"
+    }
+   ],
+   "question": "Why is the morning bath prescribed as praiseworthy for those involved in the rite?",
+   "premises": [
+    "A bath is prescribed for them in the morning.",
+    "This morning bath is praised."
+   ],
+   "inference": "The morning bath for them is commended as part of proper conduct.",
+   "uncertainties": [
+    "The compound pracāra snānaṃ may indicate a bath related to their conduct."
+   ],
+   "plain_english": "Likewise, their morning bath is praised."
+  },
+  {
+   "verse": 6894,
+   "rows": [
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day-declaration",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vācayennityaṃ",
+     "gloss": "one-should-cause-recited-daily",
+     "grounds": "causative optative fused with adverb",
+     "morph": "3.sg.opt.caus.act √vac + indecl."
+    },
+    {
+     "surface": "svastyāśīrmaṅgalānvitam",
+     "gloss": "endowed-with-blessings-and-auspiciousness",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg compound svasti+āśīr+maṅgala+anvita"
+    }
+   ],
+   "question": "What daily recitation must accompany the rite to ensure auspicious blessings?",
+   "premises": [
+    "A puṇyāha declaration should be recited daily.",
+    "It is endowed with blessings and auspiciousness."
+   ],
+   "inference": "One should have the auspicious puṇyāha recited daily with blessings and auspicious words.",
+   "uncertainties": [],
+   "plain_english": "One should have the auspicious-day declaration recited daily, accompanied by blessings and auspiciousness."
+  },
+  {
+   "verse": 6895,
+   "rows": [
+    {
+     "surface": "navamyāṃ",
+     "gloss": "on-ninth-day",
+     "grounds": "locative of lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śuklapakṣasya",
+     "gloss": "of-bright-fortnight",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg compound śukla+pakṣa"
+    },
+    {
+     "surface": "nagarādvāsayet",
+     "gloss": "one-should-cause-stay-from-city",
+     "grounds": "causative optative fused with ablative",
+     "morph": "3.sg.opt.caus.act √vas + n.abl.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "On which day and where must the subject be made to stay outside the city?",
+   "premises": [
+    "The time is the ninth day of the bright fortnight.",
+    "The subject is to be made to stay outside the city."
+   ],
+   "inference": "On the ninth day of the bright fortnight, the subject must be kept outside the city.",
+   "uncertainties": [],
+   "plain_english": "On the ninth day of the bright fortnight, one should have it stay outside the city."
+  },
+  {
+   "verse": 6896,
+   "rows": [
+    {
+     "surface": "pradakṣiṇodake",
+     "gloss": "with-water-flowing-rightward",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg compound pradakṣiṇa+udaka"
+    },
+    {
+     "surface": "saumye",
+     "gloss": "in-pleasant",
+     "grounds": "locative adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśāle",
+     "gloss": "in-spacious",
+     "grounds": "locative adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "drumasaṃkaṭe",
+     "gloss": "in-tree-thicket",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg compound druma+saṃkaṭa"
+    }
+   ],
+   "question": "What kind of location is prescribed for placing the subject outside the city?",
+   "premises": [
+    "The place has water flowing to the right.",
+    "It is pleasant, spacious, and filled with trees."
+   ],
+   "inference": "The prescribed location is pleasant, spacious, tree-filled, and has rightward-flowing water.",
+   "uncertainties": [],
+   "plain_english": "In a pleasant, spacious place with trees and water flowing clockwise."
+  },
+  {
+   "verse": 6897,
+   "rows": [
+    {
+     "surface": "vistāratoṣṭaratnīkaṃ",
+     "gloss": "eight-cubits-in-extent",
+     "grounds": "compound indicating breadth",
+     "morph": "n.acc.sg compound vistāra+aṣṭa+ratni+ka"
+    },
+    {
+     "surface": "prāṅmukhaṃ",
+     "gloss": "facing-east",
+     "grounds": "compound: east + facing",
+     "morph": "n.acc.sg compound prāc+mukha"
+    },
+    {
+     "surface": "mālyaśobhaitam",
+     "gloss": "adorned-with-garlands",
+     "grounds": "compound: garland + beautified",
+     "morph": "n.acc.sg compound mālya+śobhita"
+    }
+   ],
+   "question": "What orientation and adornment are required for the prepared ritual space?",
+   "premises": [
+    "The space measures eight cubits in extent.",
+    "It faces east and is adorned with garlands."
+   ],
+   "inference": "The ritual space must be eight cubits wide, east-facing, and decorated with garlands.",
+   "uncertainties": [
+    "The parsing of vistāratoṣṭaratnīkaṃ as eight cubits follows the legacy hint but is approximate."
+   ],
+   "plain_english": "Eight cubits in extent, facing east, and beautified with garlands."
+  },
+  {
+   "verse": 6898,
+   "rows": [
+    {
+     "surface": "sarvamaṅgala",
+     "gloss": "all-auspicious",
+     "grounds": "compound member",
+     "morph": "compound-member sarva+maṅgala"
+    },
+    {
+     "surface": "saṃyukto",
+     "gloss": "endowed-with",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg.past-pass.part sam+√yuj"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pauranarairvṛtaḥ",
+     "gloss": "surrounded-by-citizens-and-men",
+     "grounds": "past passive participle with instrumental compound",
+     "morph": "m.nom.sg.past-pass.part √vṛ + compound paura+nara"
+    }
+   ],
+   "question": "Who must accompany the king when he is endowed with all auspicious elements?",
+   "premises": [
+    "The king is endowed with all auspicious things.",
+    "The king is surrounded by citizens and men."
+   ],
+   "inference": "The king, possessing all auspicious elements, must be accompanied by citizens and men.",
+   "uncertainties": [],
+   "plain_english": "The king, endowed with all auspicious things, surrounded by citizens and men."
+  },
+  {
+   "verse": 6899,
+   "rows": [
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "absolutive",
+     "morph": "absolutive pra+√viś"
+    },
+    {
+     "surface": "śānti",
+     "gloss": "peace",
+     "grounds": "compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gehaṃ",
+     "gloss": "house",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidhānamida",
+     "gloss": "this-procedure",
+     "grounds": "compound: procedure + this",
+     "morph": "n.acc.sg compound vidhāna+idam"
+    },
+    {
+     "surface": "mācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act ā+√car"
+    }
+   ],
+   "question": "What procedure must the king perform after entering the house of peace?",
+   "premises": [
+    "The king enters the house of peace.",
+    "This procedure is to be performed."
+   ],
+   "inference": "After entering the peace house, the king should perform this prescribed procedure.",
+   "uncertainties": [],
+   "plain_english": "Having entered the house of peace, he should indeed perform this procedure."
+  }
+ ]
+}
