@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3736,
- "question": "Which zodiacal signs are enumerated as the relevant settings in this passage?",
+ "question": "What is the value of fire offerings, recitations, and elaborate mantra installations by themselves?",
  "premises": [
-  "Aries is mentioned.",
-  "Gemini is mentioned.",
-  "Cancer, Leo, Libra, and Scorpio are mentioned together."
+  "Fire offerings are questioned.",
+  "Recitations are questioned.",
+  "Elaborate mantra installations are questioned."
  ],
- "inference": "The verse lists Aries, Gemini, Cancer, Leo, Libra, and Scorpio as relevant signs.",
- "uncertainties": [
-  "The specific action prescribed for these signs is given in the following verse."
- ],
- "plain_english": "In Aries, in Gemini, and in Cancer, Leo, Libra, and Scorpio."
+ "inference": "Fire offerings, recitations, and elaborate mantra installations are presented as insufficient by themselves.",
+ "uncertainties": [],
+ "plain_english": "What is the use of fire offerings, what of recitations, and what of elaborate mantra installations?"
 }

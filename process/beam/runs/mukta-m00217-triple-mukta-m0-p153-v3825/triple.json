@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p153",
+ "items": [
+  {
+   "verse": 3825,
+   "rows": [
+    {
+     "surface": "tārtīyasaptasaṃkhyā",
+     "gloss": "third-seven-number",
+     "grounds": "compound denoting a count of three times seven",
+     "morph": "compound"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the stated count",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun indicating the means or result",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative verb expressing the resulting state",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "ekaviṃśatiḥ",
+     "gloss": "twenty-one",
+     "grounds": "numeral expressing the resulting total",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What total numerical count results from the third-seven calculation?",
+   "premises": [
+    "The calculation is described as a third-seven number.",
+    "That calculation yields a specific total.",
+    "The resulting total is twenty-one."
+   ],
+   "inference": "Therefore, the third-seven calculation amounts to twenty-one.",
+   "uncertainties": [
+    "The exact referent of the multiplier in the broader ritual count depends on the preceding verses."
+   ],
+   "plain_english": "That third-seven count thereby comes to twenty-one."
+  }
+ ]
+}

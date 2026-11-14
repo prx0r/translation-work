@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p141-v3501
-[then](tadā) [enclosure-pot-water](āvaraṇa+kumbha+ambhaḥ) [sprinkling](abhiṣekaḥ) [not](na) [done](kṛtaḥ) [if](yadi)
+[then](tadā) [enclosure-pot-water+sprinkling](āvaraṇakumbhāmbho'bhiṣeko) [not](na) [done](kṛto) [if](yadi)
 
 ## mukta-m0-p141-v3502
-[raised](āropite) [on-flag](dhvaje) [that](tasmin) [from-ring](valayāt) [suspended](avalambite)
+[raised](āropite) [on-flag](dhvaje) [that](tasmin) [from-ring](valayād) [suspended](avalambite)
 
 ## mukta-m0-p141-v3503
-[then](tataḥ) [below](adhaḥ) [sun-measure-end](ravi+mātra+anta) [aghora-mantra](aghoraṃ) [three-hundred](triśataṃ) [should-recite](japet)
+[then](tato) [below](adho) [sun-measure-end+aghora](ravimātrāntaghoraṃ) [three-hundred](triśataṃ) [one-should-chant](japet)
 
 ## mukta-m0-p141-v3504
-[should-raise](āropayet) [flag](dhvajaṃ) [afterwards](paścāt) [bull-worship](vṛṣabha+arcana) [endowed-with](saṃyutam)
+[one-should-raise](āropayet) [flag](dhvajaṃ) [afterwards](paścāt) [bull-worship+endowed-with](vṛṣabhārcana+saṃyutam)
 
 ## mukta-m0-p141-v3505
-[pacification-offering](śānti+homam) [then](tadā) [having-done](kṛtvā) [drum](bherī) [should-strike](saṃtāḍayet) [then](tataḥ)
+[peace-offering](śāntihomaṃ) [then](tadā) [having-done](kṛtvā) [kettle-drum+one-should-strike](bherīsaṃtāḍayet) [then](tataḥ)
 
 ## mukta-m0-p141-v3506
-[deity-invocation](devatā+āvāhane) [lacking](hīne) [of-gods-and-others](deva+ādīnām) [non-presence](asannidhiḥ)
+[deity-invocation](devatāvāhane) [lacking](hīne) [of-gods-etc.](devādīnām) [non-presence](asannidhiḥ)
 
 ## mukta-m0-p141-v3507
-[Īśa](īśa) [Ambā](ambā) [Skanda](skanda) [Vighneśa](vighneśa) [Bhānu](bhānu) [Caṇḍeśvara-and-others](caṇḍeśvara+ādayaḥ)
+[Īśa+Ambā+Skanda+Vighneśa+Bhānu+Caṇḍeśvara+etc.](īśāmbaskandavighneśabhānucaṇḍeśvarādayaḥ)
 
 ## mukta-m0-p141-v3508
-[flag-raising](patākā+āropaṇa) [endowed-with](upete) [gods](devān) [should-invoke](āvāhayet) [not](na) [or](vā)
+[flag-raising+endowed-with](patākāropaṇopete) [gods](devān) [one-should-invoke](āvāhayet) [not](na) [or](vā)
 
 ## mukta-m0-p141-v3509
-[drum-skin-and-others](bherī+carma+ādi) [breaking-and-so-on](bheda+ādau) [corner-cutting-and-so-on](koṇa+cheda+ādi) [occurring](saṃbhave)
+[kettle-drum-skin+etc.+breaking+etc.](bherīcarmādi+bhedādau) [corner-cutting+etc.](koṇacchedādi) [occurring](saṃbhave)
 
 ## mukta-m0-p141-v3510
-[in-the-same-way](tathaiva) [corner](koṇam) [another](anyam) [and](ca) [having-taken](gṛhītvā) [as-before](prāk+vat) [should-perform](ācaret)
+[likewise](tathaiva) [corner](koṇam) [another](anyaṃ) [and](ca) [having-taken](gṛhītvā) [as-before](prāgvad) [one-should-do](ācaret)
 
 ## mukta-m0-p141-v3511
-[at-that-time](tat+kāle) [at-offering-time](bali+kāle) [or](vā) [drummer](vādake) [fallen](patite) [on-ground](bhuvi)
+[at-that-time](tatkāle) [offering-time](balikāle) [or](vā) [drummer](vādake) [fallen](patite) [on-ground](bhuvi)
 
 ## mukta-m0-p141-v3512
-[drum-falling](bherikā+patane) [on-ground](bhūmau) [would-be](bhavet) [of-king](rājñaḥ) [fear](bhayam) [great](mahat)
+[kettle-drum+falling](bherikāpatane) [on-ground](bhūmau) [there-would-be](bhaved) [of-king](rājño) [fear](bhayaṃ) [great](mahat)
 
 ## mukta-m0-p141-v3513
-[sacrificial-hall](yāga+śālā) [burnt-by-fire](agni+dagdhā) [or](vā) [devoid](vihīnā) [of-characteristics](lakṣaṇaiḥ) [or](vā)
+[sacrificial-hall+fire-burnt](yāgaśālāgnidagdhā) [or](vā) [devoid](vihīnā) [of-characteristics](lakṣaṇais) [or](vā)
 
 ## mukta-m0-p141-v3514
-[should-do](kuryāt) [as-prescribed](yathāvat) [that](tat) [all](sarvam) [festival](utsavam) [but](tu) [in-festival](utsave) [if](yadi)
+[one-should-do](kuryād) [properly](yathāvat) [that](tat) [all](sarvam) [festival](utsavaṃ) [but](tu) [in-festival](utsave) [if](yadi)
 
 ## mukta-m0-p141-v3515
-[having-known](jñātvā) [if](cet) [at-festival-end](utsava+ante) [and](ca) [sacrificial-hall](yāga+śālām) [defective](vilakṣaṇām)
+[having-known](jñātvā) [if](ced) [at-festival-end](utsavānte) [and](ca) [sacrificial-hall](yāgaśālāṃ) [defective](vilakṣaṇām)
 
 ## mukta-m0-p141-v3516
-[this-rule](etat+vidhānam) [general](sāmānyam) [in-consecration](pratiṣṭhāyām) [and](ca) [in-expiation](niṣkṛtau)
+[procedure](vidhānam) [this](etat) [general](sāmānyaṃ) [in-consecration](pratiṣṭhāyāṃ) [and](ca) [in-expiation](niṣkṛtau)
 
 ## mukta-m0-p141-v3517
-[in-festival-part](utsava+aṅge) [and](ca) [or](vā) [in-another](anyasmin) [in-renovation](jīrṇa+uddhāre) [in-brick-rite](iṣṭakā+vidhau)
+[in-festival-part](utsavāṅge) [and](ca) [or](vā) [in-another](anyasmin) [in-renovation+brick-rite](jīrṇoddhāreṣṭakāvidhau)
 
 ## mukta-m0-p141-v3518
-[in-sacrificial-implements](yāga+upakaraṇe) [also](api) [thus](evam) [but](kiṃ tu) [at-sacrifice-end](yāga+avasānake)
+[in-sacrificial-implement](yāgopakaraṇe) [also](api) [thus](evaṃ) [but](kiṃ-tu) [at-sacrifice-end](yāgāvasānake)
 
 ## mukta-m0-p141-v3519
-[of-principal-inferior-middle](pradhāna+adhama+madhyānām) [of-implements](karaṇānām) [in-loss](vilopane)
+[of-principal+inferior+middle](pradhānādhamamadhyānāṃ) [of-rites](karaṇānāṃ) [in-omission](vilopane)
 
 ## mukta-m0-p141-v3520
-[devoid](vihīne) [in-altar](sthaṇḍile) [in-part](aṅge) [or](vā) [pacification-offering](śānti+homam) [then](tadā) [should-perform](ācaret)
+[lacking](vihīne) [in-altar](sthaṇḍile) [in-part](aṅge) [or](vā) [peace-offering](śāntihomaṃ) [then](tadā) [one-should-perform](ācaret)
 
 ## mukta-m0-p141-v3521
-[in-Śiva-pots](śiva+kuṃbheṣu) [in-vardhanī-pots](vardhanyā) [in-surrounded](āvṛteṣu) [in-pots](ghaṭeṣu) [or](vā)
+[in-Śiva-pots](śivakuṃbheṣu) [in-vardhanī-pots](vardhanyā) [in-surrounding-pots](āvṛteṣu) [in-jars](ghaṭeṣu) [or](vā)
 
 ## mukta-m0-p141-v3522
-[break](bhedaḥ) [or](vā) [hole-cutting](suṣuḥ+chedaḥ) [or](vā) [defect](vailakṣaṇyam) [in-order](krameṇa) [indeed](tu)
+[break](bhedo) [or](vā) [tube-cutting](suṣuracchedo) [defect](vailakṣaṇyaṃ) [in-order](krameṇa) [indeed](tu)
 
 ## mukta-m0-p141-v3523
-[hundred](śatam) [three-hundred](triśatam) [thus](iti) [indeed](evam) [should-do](kuryāt) [for-fault-removal](doṣa+apanuttaye)
+[hundred](śataṃ) [three-hundred](triśatam) [thus](iti) [indeed](evaṃ) [one-should-do](kuryād) [for-fault-removal](doṣāpanuttaye)
 
 ## mukta-m0-p141-v3524
-[vardhanī-pot](vardhanī) [or](vā) [or](atha) [pot](kumbhaḥ) [or](vā) [pots](ghaṭāḥ) [lords-of-Vidyeśvaras](vidyeśvara+adhipāḥ)
+[vardhanī-pot](vardhanī) [or](vā) [or](atha) [pot](kumbho) [or](vā) [jars](ghaṭā) [Vidyēśvara-lords](vidyeśvarādhipāḥ)
 
 ## mukta-m0-p141-v3525
-[would-cause](kuryuḥ) [of-performer](kartuḥ) [and](ca) [poverty](dāridrayam) [having-recited](japtvā) [aghora-mantra](aghoram) [thousand](sahasrakam)
+[they-may-cause](kuryuḥ) [of-performer](kartus) [and](ca) [poverty](dāridrayaṃ) [having-chanted](japtvā) [aghora](aghoraṃ) [thousand](sahasrakam)
