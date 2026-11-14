@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4522,
- "question": "What is especially avoided for women?",
+ "question": "What alternative interior measures may be taken for the specified dimension?",
  "premises": [
-  "The verse names women.",
-  "It says especially.",
-  "It commands avoiding the side staff."
+  "The measure applies to the interior.",
+  "An eighth-part measure is one option.",
+  "A quarter of that is another option."
  ],
- "inference": "For women, the side staff is especially avoided.",
- "uncertainties": [
-  "The reason for avoidance is not stated."
- ],
- "plain_english": "For women especially, avoid the side staff."
+ "inference": "One should take either an eighth-part measure or a quarter of that in the interior.",
+ "uncertainties": [],
+ "plain_english": "In the interior, one should take either an eighth-part measure or a quarter of that."
 }

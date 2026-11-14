@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4519,
- "question": "From what to what is the ordered progression?",
+ "question": "How should all the remaining elements be designed after the prior specifications?",
  "premises": [
-  "The verse begins from the chest staff.",
-  "It extends until the hip staff.",
-  "It says the progression is in order."
+  "Some elements remain unspecified.",
+  "A prior method has been given.",
+  "The remaining elements must be designed."
  ],
- "inference": "The ordered progression runs from chest staff to hip staff.",
- "uncertainties": [
-  "The exact sequence of intermediate staffs is not listed."
- ],
- "plain_english": "Beginning from the chest staff until the hip staff, in order."
+ "inference": "All the remaining elements should be designed as before.",
+ "uncertainties": [],
+ "plain_english": "Then one should design all the remaining parts as before."
 }

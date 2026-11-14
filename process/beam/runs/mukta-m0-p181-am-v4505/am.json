@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4505,
- "question": "What width is declared for the hip staff?",
+ "question": "What alternative width is stated as one part in another case?",
  "premises": [
-  "The verse names the hip staff.",
-  "It gives a width.",
-  "It declares that width as seven angulas."
+  "An alternative case is introduced.",
+  "The width is specified as one part.",
+  "This rule is stated again."
  ],
- "inference": "The hip staff has a declared width of seven angulas.",
+ "inference": "In the alternative case, the width is again stated to be one part.",
  "uncertainties": [
-  "No further construction detail is given."
+  "The referent of 'that width' is not explicit without prior context."
  ],
- "plain_english": "The width of the hip staff is declared as seven angulas."
+ "plain_english": "Otherwise, that width is again stated to be one part."
 }

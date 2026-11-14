@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4516,
- "question": "How is the hollow at that root led?",
+ "question": "What multiplicative options are permitted from the given base measure?",
  "premises": [
-  "The verse gives seven-measure as instrument.",
-  "It names that root.",
-  "It says lead the hollow."
+  "A base measure has been established.",
+  "Fourfold and fivefold options are given.",
+  "A threefold option is also permitted."
  ],
- "inference": "The hollow at that root is led by seven-measure.",
- "uncertainties": [
-  "The antecedent of that is not explicit."
- ],
- "plain_english": "By seven-measure, lead the hollow at that root."
+ "inference": "From that base, the measure may be fourfold, fivefold, or threefold.",
+ "uncertainties": [],
+ "plain_english": "From that, it may be fourfold, fivefold, or indeed threefold."
 }

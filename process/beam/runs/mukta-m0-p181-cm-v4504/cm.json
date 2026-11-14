@@ -3,24 +3,29 @@
  "verse": 4504,
  "rows": [
   {
-   "lemma": "randhraṃ",
+   "lemma": "liṃga",
+   "morph": "compound: liṃga-dviguṇa",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "dviguṇa",
+   "morph": "compound: liṃga-dviguṇa",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "vistāra",
+   "morph": "m.nom.sg",
+   "grounds": "measure term"
+  },
+  {
+   "lemma": "karṇapīṭha",
    "morph": "n.nom.sg",
-   "grounds": "legacy hint hole-nom"
+   "grounds": "compound: karṇa-pīṭha"
   },
   {
-   "lemma": "viṣṇvaṃśatāreṇa",
-   "morph": "n.instr.sg",
-   "grounds": "legacy hint viṣṇu-part-star-instr"
-  },
-  {
-   "lemma": "vakṣodaṇḍasya",
-   "morph": "m.gen.sg",
-   "grounds": "legacy hint chest-staff-gen"
-  },
-  {
-   "lemma": "madhyame",
-   "morph": "n.loc.sg",
-   "grounds": "legacy hint middle-loc"
+   "lemma": "viśālakam",
+   "morph": "n.nom.sg",
+   "grounds": "descriptive attribute"
   }
  ]
 }

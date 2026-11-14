@@ -1,0 +1,1091 @@
+{
+ "song": "mukta-m0-p181",
+ "items": [
+  {
+   "verse": 4501,
+   "rows": [
+    {
+     "surface": "liṅganāhasya",
+     "gloss": "of-linga-measure",
+     "grounds": "compound: liṅga-nāha + genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karṇena",
+     "gloss": "by-ear",
+     "grounds": "instrumental of measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "pedestal",
+     "grounds": "first member of compound",
+     "morph": "compound: pīṭha-vistāra"
+    },
+    {
+     "surface": "vistāra",
+     "gloss": "width",
+     "grounds": "second member of compound",
+     "morph": "compound: pīṭha-vistāra"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "passive statement of rule",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "How is the pedestal width determined from the linga measure by the ear?",
+   "premises": [
+    "The linga measure provides the base dimension.",
+    "The ear serves as the measuring reference.",
+    "The pedestal width is stated in relation to these."
+   ],
+   "inference": "The pedestal width is defined by the ear measurement derived from the linga measure.",
+   "uncertainties": [
+    "The exact proportional formula is not fully explicit in this verse alone."
+   ],
+   "plain_english": "The width of the pedestal is stated according to the ear measurement of the linga."
+  },
+  {
+   "verse": 4502,
+   "rows": [
+    {
+     "surface": "dvyaṃśe",
+     "gloss": "in-two-parts",
+     "grounds": "locative of division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekāṃśakaṃ",
+     "gloss": "one-part",
+     "grounds": "alternative measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhitti",
+     "gloss": "wall",
+     "grounds": "first member of compound",
+     "morph": "compound: bhitti-vistāra"
+    },
+    {
+     "surface": "vistāra",
+     "gloss": "width",
+     "grounds": "second member of compound",
+     "morph": "compound: bhitti-vistāra"
+    },
+    {
+     "surface": "mārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √rabh"
+    }
+   ],
+   "question": "What alternative proportions may be used when beginning the wall width?",
+   "premises": [
+    "A division into two parts is possible.",
+    "A single part may alternatively be used.",
+    "The wall width is to be begun accordingly."
+   ],
+   "inference": "The wall width may be commenced using either a two-part or a one-part proportion.",
+   "uncertainties": [
+    "The base unit to which these parts apply is not specified here."
+   ],
+   "plain_english": "One should begin the wall width as two parts or alternatively as one part."
+  },
+  {
+   "verse": 4503,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "ablative indicating basis",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "caturguṇaṃ",
+     "gloss": "fourfold",
+     "grounds": "multiplicative measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nālīgehaṃ",
+     "gloss": "drain-chamber",
+     "grounds": "compound: nālī-geha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattraṣaḍaṃśakaiḥ",
+     "gloss": "with-those-six-parts",
+     "grounds": "compound: tat-tra-ṣaḍ-aṃśaka; internal sandhi preserved in fused form",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What size should the drain chamber be relative to the prior measure using six parts?",
+   "premises": [
+    "The prior measure serves as the basis.",
+    "The drain chamber is specified as fourfold.",
+    "Six parts are involved in the calculation."
+   ],
+   "inference": "The drain chamber should be made four times the base measure in relation to those six parts.",
+   "uncertainties": [
+    "The precise syntactic role of the six parts is ambiguous in this compressed verse."
+   ],
+   "plain_english": "From that, the drain chamber should be fourfold, using those six parts."
+  },
+  {
+   "verse": 4504,
+   "rows": [
+    {
+     "surface": "liṃga",
+     "gloss": "linga",
+     "grounds": "first member of compound",
+     "morph": "compound: liṃga-dviguṇa"
+    },
+    {
+     "surface": "dviguṇa",
+     "gloss": "twofold",
+     "grounds": "second member of compound",
+     "morph": "compound: liṃga-dviguṇa"
+    },
+    {
+     "surface": "vistāra",
+     "gloss": "width",
+     "grounds": "measure term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karṇapīṭha",
+     "gloss": "ear-pedestal",
+     "grounds": "compound: karṇa-pīṭha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśālakam",
+     "gloss": "spacious",
+     "grounds": "descriptive attribute",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How wide should the ear pedestal be in relation to the linga?",
+   "premises": [
+    "The linga provides the reference dimension.",
+    "A twofold width is specified.",
+    "The ear pedestal is described as spacious."
+   ],
+   "inference": "The ear pedestal should be spacious with a width twice that of the linga.",
+   "uncertainties": [],
+   "plain_english": "The ear pedestal should be spacious, with a width twice that of the linga."
+  },
+  {
+   "verse": 4505,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "measure specification",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taddvistāram",
+     "gloss": "that-width",
+     "grounds": "compound: tad-vistāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "reiterative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "passive statement of rule",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What alternative width is stated as one part in another case?",
+   "premises": [
+    "An alternative case is introduced.",
+    "The width is specified as one part.",
+    "This rule is stated again."
+   ],
+   "inference": "In the alternative case, the width is again stated to be one part.",
+   "uncertainties": [
+    "The referent of 'that width' is not explicit without prior context."
+   ],
+   "plain_english": "Otherwise, that width is again stated to be one part."
+  },
+  {
+   "verse": 4506,
+   "rows": [
+    {
+     "surface": "piṇḍikā",
+     "gloss": "pedestal-base",
+     "grounds": "subject of statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vipulaṃ",
+     "gloss": "broad",
+     "grounds": "attribute of pedestal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nālī",
+     "gloss": "drain-channel",
+     "grounds": "subject of second clause",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "taccatuguṇam",
+     "gloss": "that-fourfold",
+     "grounds": "compound: tad-caturguṇa; internal sandhi preserved in fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "passive statement of rule",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What proportions are prescribed for the pedestal base and the drain channel?",
+   "premises": [
+    "The pedestal base is described as broad.",
+    "The drain channel is specified as fourfold of that.",
+    "Both are stated as rules."
+   ],
+   "inference": "The pedestal base should be broad and the drain channel four times that measure.",
+   "uncertainties": [
+    "The exact referent of 'that' in the fourfold measure is context-dependent."
+   ],
+   "plain_english": "The pedestal base is said to be broad, and the drain channel is said to be four times that."
+  },
+  {
+   "verse": 4507,
+   "rows": [
+    {
+     "surface": "vistāra",
+     "gloss": "width",
+     "grounds": "first member of compound",
+     "morph": "compound: vistāra-dviguṇa"
+    },
+    {
+     "surface": "dviguṇe",
+     "gloss": "in-twofold",
+     "grounds": "locative measure condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "ear",
+     "grounds": "measure reference",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daśāṃśeṃśa",
+     "gloss": "tenth-part-less",
+     "grounds": "compound indicating reduction by a tenth part; internal sandhi preserved",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vihīnakam",
+     "gloss": "diminished",
+     "grounds": "resulting attribute",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the ear dimension adjusted when the width is doubled?",
+   "premises": [
+    "The width is taken as twofold.",
+    "The ear measure is reduced by a tenth part.",
+    "The result is a diminished measure."
+   ],
+   "inference": "When the width is doubled, the ear should be diminished by one tenth part.",
+   "uncertainties": [
+    "The compound daśāṃśeṃśa is metrically compressed and its exact analysis is uncertain."
+   ],
+   "plain_english": "When the width is doubled, the ear is diminished by one tenth part."
+  },
+  {
+   "verse": 4508,
+   "rows": [
+    {
+     "surface": "tatpañca",
+     "gloss": "that-five",
+     "grounds": "compound: tad-pañca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saptabhāgaikaṃ",
+     "gloss": "one-of-seven-parts",
+     "grounds": "compound: sapta-bhāga-eka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhittitārārdham",
+     "gloss": "half-wall-width",
+     "grounds": "compound: bhitti-tāra-ardha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √rabh"
+    }
+   ],
+   "question": "What fractional measure should be used to begin half the wall width?",
+   "premises": [
+    "A division into seven parts is indicated.",
+    "One such part is selected.",
+    "Half the wall width is to be begun."
+   ],
+   "inference": "One should begin half the wall width using one seventh part as specified.",
+   "uncertainties": [
+    "The role of tatpañca in relation to the seven-part division is unclear."
+   ],
+   "plain_english": "One should begin half the wall width as one part out of seven, according to that fivefold measure."
+  },
+  {
+   "verse": 4509,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "there-are",
+     "grounds": "existential statement",
+     "morph": "3.pl.act-pres √bhū"
+    },
+    {
+     "surface": "bahumānāni",
+     "gloss": "many-measures",
+     "grounds": "plural subject",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-these",
+     "grounds": "locative of selection",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "iṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "object of choice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhyatāṃ",
+     "gloss": "let-be-taken",
+     "grounds": "imperative prescription",
+     "morph": "3.sg.pass-imp √grah"
+    },
+    {
+     "surface": "varaiḥ",
+     "gloss": "by-experts",
+     "grounds": "agent of selection",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Who may choose among the many available measures and on what basis?",
+   "premises": [
+    "Many measures are available.",
+    "A choice must be made among them.",
+    "Qualified experts are the agents of selection."
+   ],
+   "inference": "Experts may select the desired measure from among the many available options.",
+   "uncertainties": [],
+   "plain_english": "There are many measures; among them, let the desired one be chosen by the experts."
+  },
+  {
+   "verse": 4510,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "conclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekatale",
+     "gloss": "in-one-storey",
+     "grounds": "compound: eka-tala",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitalādiṣu",
+     "gloss": "in-two-storey-and-others",
+     "grounds": "compound: dvi-tala-ādi",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "dhāmasu",
+     "gloss": "in-abodes",
+     "grounds": "locative of application",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "How does the stated rule for a single-storey structure apply to multi-storey abodes?",
+   "premises": [
+    "The rule has been declared for a single storey.",
+    "Abodes may have two or more storeys.",
+    "The same principle is extended to them."
+   ],
+   "inference": "What is declared for a single-storey abode applies likewise to two-storey and other abodes.",
+   "uncertainties": [],
+   "plain_english": "Thus it has been declared for a single-storey structure, and likewise for abodes of two storeys and more."
+  },
+  {
+   "verse": 4511,
+   "rows": [
+    {
+     "surface": "prāgukta",
+     "gloss": "previously-stated",
+     "grounds": "compound: prāk-ukta",
+     "morph": "compound: prāgukta-vidhi"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "instrumental of procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "object of action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nakṣatrād",
+     "gloss": "from-asterism",
+     "grounds": "ablative starting point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dvitalaṃ",
+     "gloss": "to-two-storey",
+     "grounds": "resulting form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-lead",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √nī"
+    }
+   ],
+   "question": "By what method should a two-storey abode be derived from the asterism measure?",
+   "premises": [
+    "A previously stated method exists.",
+    "The asterism provides the starting measure.",
+    "The abode is to be made two-storeyed."
+   ],
+   "inference": "One should derive a two-storey abode from the asterism measure by the previously stated method.",
+   "uncertainties": [],
+   "plain_english": "By the previously stated method, one should develop the abode from the asterism measure into a two-storey structure."
+  },
+  {
+   "verse": 4512,
+   "rows": [
+    {
+     "surface": "pauruṣaṃ",
+     "gloss": "human-measure",
+     "grounds": "attribute of installation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaktiyuktau",
+     "gloss": "with-devotion",
+     "grounds": "compound: bhakti-yukta; locative context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "manujaiḥ",
+     "gloss": "by-humans",
+     "grounds": "agent of establishment",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sthāpitaṃ",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "Under what conditions should a human-measure installation be established by people?",
+   "premises": [
+    "The installation follows a human measure.",
+    "Devotion is present in the act.",
+    "Humans are the agents of establishment."
+   ],
+   "inference": "A human-measure installation should be established by people with devotion.",
+   "uncertainties": [
+    "The exact grammatical agreement of bhaktiyuktau is slightly irregular in this form."
+   ],
+   "plain_english": "It should be established according to the human measure by people endowed with devotion."
+  },
+  {
+   "verse": 4513,
+   "rows": [
+    {
+     "surface": "liṅgamānavaśenātra",
+     "gloss": "by-linga-measure-here",
+     "grounds": "compound: liṅga-māna-vaśa-atra; internal sandhi preserved in fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "temple",
+     "grounds": "object of planning",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √kḷp"
+    }
+   ],
+   "question": "On what basis should the temple be designed in this context?",
+   "premises": [
+    "The linga measure is the governing standard.",
+    "The temple is the object to be designed.",
+    "The instruction applies in this context."
+   ],
+   "inference": "The temple should be designed here according to the measure of the linga.",
+   "uncertainties": [],
+   "plain_english": "Here one should design the temple according to the measure of the linga."
+  },
+  {
+   "verse": 4514,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-parts",
+     "grounds": "measure specification",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāli",
+     "gloss": "drain",
+     "grounds": "first member of compound",
+     "morph": "compound: nāli-geha"
+    },
+    {
+     "surface": "gehasya",
+     "gloss": "of-chamber",
+     "grounds": "genitive relation",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tricaturbhāga",
+     "gloss": "three-or-four-parts",
+     "grounds": "compound: tri-catur-bhāga",
+     "morph": "compound: tricaturbhāga-bhāgataḥ"
+    },
+    {
+     "surface": "bhāgataḥ",
+     "gloss": "by-division",
+     "grounds": "ablative or adverbial sense of division",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What part divisions are prescribed for the drain chamber in this rule?",
+   "premises": [
+    "The drain chamber is the subject.",
+    "A three-part division is mentioned.",
+    "Three or four parts are also indicated by division."
+   ],
+   "inference": "The drain chamber is to be proportioned using three parts or divisions of three or four parts.",
+   "uncertainties": [
+    "The exact relationship between tribhāgaṃ and tricaturbhāga is ambiguous."
+   ],
+   "plain_english": "The drain chamber should be divided into three parts, or by divisions of three or four parts."
+  },
+  {
+   "verse": 4515,
+   "rows": [
+    {
+     "surface": "liṅgaviṣkambhakarṇasya",
+     "gloss": "of-linga-diameter-ear",
+     "grounds": "compound: liṅga-viṣkambha-karṇa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "adhyardhād",
+     "gloss": "from-one-and-half",
+     "grounds": "ablative measure",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ardhavṛddhitaḥ",
+     "gloss": "by-half-increase",
+     "grounds": "ablative or adverbial sense of increment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What incremental measures apply to the ear of the linga diameter?",
+   "premises": [
+    "The ear of the linga diameter is the reference.",
+    "A measure of one and a half is given.",
+    "An increase by half is specified."
+   ],
+   "inference": "The measure proceeds from one and a half with an increase by half.",
+   "uncertainties": [
+    "The precise base and resulting value are not fully explicit."
+   ],
+   "plain_english": "From one and a half of the ear of the linga diameter, with an increase by half."
+  },
+  {
+   "verse": 4516,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "ablative indicating basis",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "caturguṇaṃ",
+     "gloss": "fourfold",
+     "grounds": "multiplicative option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaguṇaṃ",
+     "gloss": "fivefold",
+     "grounds": "multiplicative option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triguṇameva",
+     "gloss": "threefold-indeed",
+     "grounds": "compound: triguṇa-eva; emphatic option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What multiplicative options are permitted from the given base measure?",
+   "premises": [
+    "A base measure has been established.",
+    "Fourfold and fivefold options are given.",
+    "A threefold option is also permitted."
+   ],
+   "inference": "From that base, the measure may be fourfold, fivefold, or threefold.",
+   "uncertainties": [],
+   "plain_english": "From that, it may be fourfold, fivefold, or indeed threefold."
+  },
+  {
+   "verse": 4517,
+   "rows": [
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "proportional option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "proportional option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adyardhaṃ",
+     "gloss": "one-and-half",
+     "grounds": "proportional option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "pedestal",
+     "grounds": "first member of compound",
+     "morph": "compound: pīṭha-vistṛta"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "extended",
+     "grounds": "descriptive attribute",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional widths are allowed for the extended pedestal?",
+   "premises": [
+    "The pedestal is described as extended.",
+    "Equal, twofold, and one-and-a-half proportions are listed.",
+    "These are presented as alternatives."
+   ],
+   "inference": "The extended pedestal may be equal, twofold, or one and a half in proportion.",
+   "uncertainties": [
+    "The base to which these proportions apply is implied rather than stated."
+   ],
+   "plain_english": "The extended pedestal may be equal, or twofold, or one and a half."
+  },
+  {
+   "verse": 4518,
+   "rows": [
+    {
+     "surface": "pūjāṃśadviguṇaṃ",
+     "gloss": "twice-worship-part",
+     "grounds": "compound: pūjā-aṃśa-dviguṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "pedestal",
+     "grounds": "subject of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udayaṃ",
+     "gloss": "height",
+     "grounds": "dimension specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśālataḥ",
+     "gloss": "from-breadth",
+     "grounds": "ablative of reference",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the pedestal height be determined relative to its breadth and the worship part?",
+   "premises": [
+    "The pedestal is the object measured.",
+    "Its height is specified in relation to breadth.",
+    "The worship part doubled is involved in the measure."
+   ],
+   "inference": "The pedestal height should be twice the worship part in relation to its breadth.",
+   "uncertainties": [
+    "The exact syntactic relation between height and breadth is compressed."
+   ],
+   "plain_english": "The pedestal, twice the worship part, should have its height determined from its breadth."
+  },
+  {
+   "verse": 4519,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avaśiṣṭaṃ",
+     "gloss": "remaining",
+     "grounds": "what is left over",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "all-that",
+     "grounds": "compound: tad-sarva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √kḷp"
+    }
+   ],
+   "question": "How should all the remaining elements be designed after the prior specifications?",
+   "premises": [
+    "Some elements remain unspecified.",
+    "A prior method has been given.",
+    "The remaining elements must be designed."
+   ],
+   "inference": "All the remaining elements should be designed as before.",
+   "uncertainties": [],
+   "plain_english": "Then one should design all the remaining parts as before."
+  },
+  {
+   "verse": 4520,
+   "rows": [
+    {
+     "surface": "ekāt",
+     "gloss": "from-one",
+     "grounds": "ablative starting point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "saptayavāntaṃ",
+     "gloss": "up-to-seven-barleycorns",
+     "grounds": "compound: sapta-yava-anta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mātrād",
+     "gloss": "from-measure",
+     "grounds": "ablative of unit",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "incremental unit",
+     "morph": "compound: eka-vivṛddhi"
+    },
+    {
+     "surface": "vivṛddhitaḥ",
+     "gloss": "by-increase",
+     "grounds": "ablative or adverbial sense of increment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What incremental range of barleycorn measures is prescribed for the dimension?",
+   "premises": [
+    "The measure starts from one.",
+    "It extends up to seven barleycorns.",
+    "The increase proceeds by one unit."
+   ],
+   "inference": "The measure should increase by one unit from one up to seven barleycorns.",
+   "uncertainties": [],
+   "plain_english": "From one measure up to seven barleycorns, increasing by one at a time."
+  },
+  {
+   "verse": 4521,
+   "rows": [
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "subject of location",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "garbhe",
+     "gloss": "in-sanctum",
+     "grounds": "locative of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavedeva",
+     "gloss": "should-be-indeed",
+     "grounds": "compound: bhavet-eva; emphatic optative",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "prāsādavistare",
+     "gloss": "in-temple-width",
+     "grounds": "compound: prāsāda-vistara",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the pedestal be placed in relation to the sanctum and temple width?",
+   "premises": [
+    "The pedestal is the element to be placed.",
+    "The sanctum is a possible location.",
+    "The temple width provides another reference."
+   ],
+   "inference": "The pedestal should indeed be in the sanctum and should correspond to the temple width.",
+   "uncertainties": [
+    "The repetition of bhavet suggests emphasis or an alternative, but the exact nuance is unclear."
+   ],
+   "plain_english": "The pedestal should indeed be in the sanctum, and it should be in proportion to the temple width."
+  },
+  {
+   "verse": 4522,
+   "rows": [
+    {
+     "surface": "antare",
+     "gloss": "in-interior",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṣṭāṃśamānaṃ",
+     "gloss": "eighth-part-measure",
+     "grounds": "compound: aṣṭa-aṃśa-māna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpādaṃ",
+     "gloss": "its-quarter",
+     "grounds": "compound: tad-pāda",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāharet",
+     "gloss": "one-should-take",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √hṛ"
+    }
+   ],
+   "question": "What alternative interior measures may be taken for the specified dimension?",
+   "premises": [
+    "The measure applies to the interior.",
+    "An eighth-part measure is one option.",
+    "A quarter of that is another option."
+   ],
+   "inference": "One should take either an eighth-part measure or a quarter of that in the interior.",
+   "uncertainties": [],
+   "plain_english": "In the interior, one should take either an eighth-part measure or a quarter of that."
+  },
+  {
+   "verse": 4523,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadapi",
+     "gloss": "that-also",
+     "grounds": "compound: tad-api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadgrāma",
+     "gloss": "that-village",
+     "grounds": "compound: tad-grāma",
+     "morph": "compound: tadgrāma-māna"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "object of reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paurāṇapauruṣe",
+     "gloss": "in-ancient-human-measure",
+     "grounds": "compound: paurāṇa-pauruṣa",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How does the village measure relate to the ancient human measure?",
+   "premises": [
+    "A village measure is referenced.",
+    "The ancient human measure provides a standard.",
+    "The relation is stated as likewise."
+   ],
+   "inference": "That village measure likewise follows the ancient human measure.",
+   "uncertainties": [
+    "The exact scope of 'that village measure' is context-dependent."
+   ],
+   "plain_english": "Likewise, that village measure also follows the ancient human measure."
+  },
+  {
+   "verse": 4524,
+   "rows": [
+    {
+     "surface": "upānaṃ",
+     "gloss": "plinth",
+     "grounds": "architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagatīkaṇṭha",
+     "gloss": "terrace-neck",
+     "grounds": "compound: jagatī-kaṇṭha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭṭikā",
+     "gloss": "band",
+     "grounds": "architectural element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kumudādiṣu",
+     "gloss": "in-kumuda-and-others",
+     "grounds": "compound: kumuda-ādi",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Which architectural elements are included among the kumuda and related mouldings?",
+   "premises": [
+    "The plinth is listed.",
+    "The terrace neck and band are listed.",
+    "These are grouped with kumuda and others."
+   ],
+   "inference": "The plinth, terrace neck, and band are included among the kumuda and related elements.",
+   "uncertainties": [
+    "The verse is a list without an explicit predicate, so the intended action is implied."
+   ],
+   "plain_english": "The plinth, the terrace neck, and the band are among the kumuda and other elements."
+  }
+ ]
+}
