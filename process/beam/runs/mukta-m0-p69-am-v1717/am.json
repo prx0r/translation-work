@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1717,
- "question": "Which weekdays are assigned to the southern and southwestern directions?",
+ "question": "What benefit does this line marking provide to the worshipper?",
  "premises": [
-  "The southern direction is specified",
-  "The southwestern direction is specified",
-  "Thursday and Wednesday are assigned respectively"
+  "A line marking is present",
+  "It is very beautiful",
+  "It is favorable for the worshipper"
  ],
- "inference": "Thursday is assigned to the south and Wednesday to the southwest.",
- "uncertainties": [],
- "plain_english": "In the south should be Thursday, and in the southwest Wednesday."
+ "inference": "Such a line is likewise very beautiful and auspicious for the worshipper.",
+ "uncertainties": [
+  "The exact syntactic subject across the line break is context-dependent"
+ ],
+ "plain_english": "Likewise, the line is very beautiful for the worshipper."
 }

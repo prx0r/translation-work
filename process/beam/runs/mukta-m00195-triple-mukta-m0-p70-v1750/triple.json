@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "pūjanataḥ",
+     "gloss": "from-worship",
+     "grounds": "ablative sense expressing cause or means; derived from pūjana with -tas suffix",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "epithet of the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavānī",
+     "gloss": "Bhavānī",
+     "grounds": "proper name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "su",
+     "gloss": "very",
+     "grounds": "intensifying particle modifying the following verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasīdati",
+     "gloss": "becomes-pleased",
+     "grounds": "predicate expressing the goddess's gracious response",
+     "morph": "3.sg.pres.act pra-√sad"
+    }
+   ],
+   "question": "Through what act does the goddess Bhavānī become greatly pleased?",
+   "premises": [
+    "Worship is performed toward the goddess.",
+    "The goddess Bhavānī is the recipient of this worship.",
+    "The act of worship produces a gracious response in her."
+   ],
+   "inference": "Therefore, worship causes the goddess Bhavānī to become greatly pleased.",
+   "uncertainties": [],
+   "plain_english": "Through worship, the goddess Bhavānī becomes very pleased."
+  }
+ ]
+}

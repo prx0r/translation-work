@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[great+gem](mahāratnaṃ) [great+value](mahāmūlyaṃ) [quality+endowed](guṇayuktaṃ) [one-should-worship](yajet) [always](sadā)
+[great-gem](mahāratnaṃ) [great-value](mahāmūlyaṃ) [quality+endowed](guṇayuktaṃ) [should-worship](yajet) [always](sadā)
 
 ## mukta-m0-p03-v52
-[great+splendor](supratāpo) [fame](yaśaḥ) [and](ca) [life](āyuḥ) [may-be](bhaveyuḥ) [of-king](nṛpateḥ) [long](ciram)
+[great-splendor](supratāpo) [fame+and](yaśaḥ) [life+and](ca+āyuḥ) [may-be](bhaveyuḥ) [of-king](nṛpateḥ) [long-time](ciram)
 
 ## mukta-m0-p03-v53
-[blue](nīlaṃ) [yellow](pītaṃ) [white](sitaṃ) [and](ca) [also](api) [commended](śastaṃ) [gem](ratnam) [unfashioned](anirmitam)
+[blue](nīlaṃ) [yellow](pītaṃ) [white](sitaṃ) [and+also](ca+api) [commended](śastaṃ) [gem+made](ratnam+anirmitam)
 
 ## mukta-m0-p03-v54
-[conch+crystal+resembling](śaṅkhasphaṭikasaṃkāśaṃ) [china-rose+plantain+petal+luster](javārambhādaladyuti)
+[conch+crystal+resembling](śaṅkha+sphaṭika+saṃkāśaṃ) [china-rose+plantain+petal+splendor](javā+rambhā+dala+dyuti)
 
 ## mukta-m0-p03-v55
-[washed+mouth+appearance](dhautāsyābho) [for-twice-born](dvijātīnāṃ) [for-kings+fit](nṛpārhau) [yellow+red](pītaraktakau)
+[washed+mouth+appearance](dhauta+āsya+ābho) [for-twice-born](dvijātīnāṃ) [for-kings+fit](nṛpa+arhau) [yellow+red](pīta+raktakau)
 
 ## mukta-m0-p03-v56
-[that+liṅga](talliṅgam) [of-life+increase](āyuṣo) [for-growth](vṛddhayai) [all+disease+destruction](sarvarogavināśakam)
+[that+liṅga](tat+liṅgam) [of-life+increase](āyuṣaḥ) [for-growth](vṛddhayai) [all+disease+destruction](sarva+roga+vināśakam)
 
 ## mukta-m0-p03-v57
-[śakra+agni](śakrāgni) [casa+mitra+iye](casamitroye) [fourfold](caturdhā) [that](tat) [somewhere](kvacit) [considered](matam)
+[Śakra+Agni](śakrāgni) [Cāsa+Mitra+born](casa+mitra+ye) [fourfold](caturdhā) [that](tat) [somewhere](kvacit) [considered](matam)
 
 ## mukta-m0-p03-v58
-[autumn+water+resembling](śaradambunibhaṃ) [clear](svacchaṃ) [and](ca) [glossy](snigdhaṃ) [and](ca) [crystal](sphāṭikaṃ) [beneficial](hitam)
+[autumn+water+resembling](śarat+ambu+nibhaṃ) [clear](svacchaṃ) [and](ca) [smooth](snigdhaṃ) [crystal](sphāṭikaṃ) [beneficial](hitam)
 
 ## mukta-m0-p03-v59
-[with-embryo](sagarbham) [wave+joined](ūrmisaṃyuktaṃ) [light+emitting+dense](jyotirmuktaghanaṃ) [one-should-reject](tyajet)
+[with-embryo](sa+garbha) [wave+endowed](ūrmi+saṃyuktaṃ) [light+emitting+dense](jyotiḥ+mukta+ghanaṃ) [should-reject](tyajet)
 
 ## mukta-m0-p03-v60
-[large](sthūlaṃ) [long](dīrgha) [bad](kuśaṃ) [short](hrasvaṃ) [middle+and+ends](madhyādyanteṣu) [or](vā) [thin](kṛśam)
+[thick](sthūlaṃ) [long](dīrgha) [bad](kuśaṃ) [short](hrasvaṃ) [middle+beginning+end](madhya+ādi+anteṣu) [or](vā) [thin](kṛśam)
 
 ## mukta-m0-p03-v61
-[other+class+attached](anyajātivilagnaṃ) [and](ca) [pierced](viddhaṃ) [fear+causing](bhītikaraṃ) [one-should-reject](tyajet)
+[other+class+attached](anya+jāti+vilagnaṃ) [and](ca) [pierced](viddhaṃ) [fear-causing](bhīti+karaṃ) [should-reject](tyajet)
 
 ## mukta-m0-p03-v62
-[crystal](sphāṭikaṃ) [liṅga](liṅgam) [desired+object](iṣṭārthaṃ) [death+conquering](mṛtyujit) [desire+giving](kāmadaṃ) [one-should-worship](yajet)
+[crystal](sphāṭikaṃ) [liṅga](liṅgam) [desired-object](iṣṭa+arthaṃ) [death-conquering](mṛtyu+jit) [desire-granting](kāma+daṃ) [should-worship](yajet)
 
 ## mukta-m0-p03-v63
-[liṅga](liṅgaṃ) [always+fire-offering+resembling](sadāgnihotrābhaṃ) [to-be-worshipped](pūjya) [not](no) [fault+causing](doṣakṛt) [for-men](nṛṇām)
+[liṅga](liṅgaṃ) [always+fire-offering+resembling](sadā+agnihotra+ābhaṃ) [to-be-worshipped](pūjya) [not](no) [fault-causing](doṣa+kṛt) [for-men](nṛṇām)
 
 ## mukta-m0-p03-v64
-[always](sadā) [with-low](nimnena) [success](siddhiḥ) [may-be](syāt) [in-high](ucce) [but](tu) [high](uccā) [in-equal](same) [equal](samā)
+[always](sadā) [with-low](nimnena) [success](siddhiḥ) [may-be](syāt) [in-high](ucce) [indeed](tu) [high](uccā) [in-equal](same) [equal](samā)
 
 ## mukta-m0-p03-v65
-[gem+liṅga](ratnaliṅgaṃ) [twofold+declared](dvidhākhyātaṃ) [own+pedestal](svapīṭhaṃ) [metal+pedestal+born](dhātupīṭhajam)
+[gem+liṅga](ratna+liṅgaṃ) [twofold](dvidhā) [declared](ākhyātaṃ) [own-pedestal](sva+pīṭhaṃ) [metal+pedestal+born](dhātu+pīṭha+jam)
 
 ## mukta-m0-p03-v66
-[movable+liṅga](calaliṅgaṃ) [twofold+to-be-made](dvidhākāryaṃ) [metal+gem+made](dhāturatnamayaṃ) [auspicious](śubham)
+[movable+liṅga](cala+liṅgaṃ) [twofold](dvidhā) [to-be-made](kāryaṃ) [metal+gem+made](dhātu+ratna+mayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p03-v67
-[small+gem+produced](kṣudraratnottham) [also](api) [thus](evaṃ) [own+measure](svamānā) [from-two+gems+born](dvararatnajam)
+[small+gem+produced](kṣudra+ratna+uttham) [even+also](api+evaṃ) [own-measure](sva+mānāt) [best+gem+born](vara+ratna+jam)
 
 ## mukta-m0-p03-v68
-[for-vaiśyas](vaiśyānāṃ) [up-to-manmatha](manmathāntaṃ) [may-be](syāt) [for-śūdras](chūdrāṇāṃ) [up-to-twelve](dvādaśāvadhiḥ)
+[for-Vaiśyas](vaiśyānāṃ) [up-to-Manmatha](manmatha+antaṃ) [may-be](syāt) [for-Śūdras](śūdrāṇāṃ) [up-to-twelve](dvādaśa+avadhiḥ)
 
 ## mukta-m0-p03-v69
-[movable](calaṃ) [above-that](tadūrdhvaṃ) [for-gods](devānāṃ) [twenty-three+aṅgulas](trayoviṃśatikāṅgulam)
+[movable](calaṃ) [above-that](tat+ūrdhvaṃ) [for-gods](devānāṃ) [twenty-three+aṅgulas](trayoviṃśati+ka+aṅgulam)
 
 ## mukta-m0-p03-v70
-[immovable](acalaṃ) [sky+two+bhūtas+abiding](khadrūbhasthāyi) [from-hand](karāt) [up-to-nine](anavasāmakam)
+[immovable](acalaṃ) [sky+two+oceans+abiding](kha+dvi+abdhi+sthāyi) [from-hand](karāt) [up-to-nine](a+nava+sāmakam)
 
 ## mukta-m0-p03-v71
-[six+cubits](saḍḍhataṃ) [mixed](miśrakaṃ) [liṅga](liṅgaṃ) [not+above](nordhvaṃ) [and](ca) [fixed](sthiram) [is-desired](iṣyate)
+[six+struck](ṣaṭ+hataṃ) [mixed](miśrakaṃ) [liṅga](liṅgaṃ) [not+above](na+ūrdhvaṃ) [and](ca) [fixed](sthiram) [is-desired](iṣyate)
 
 ## mukta-m0-p03-v72
-[from-six+cubits](ṣaḍḍhastāt) [not+greater](nādhikaṃ) [wooden](vārkṣaṃ) [earthen](pārthivaṃ) [like-stone](śailavat) [always](sadā)
+[from-six+cubits](ṣaṭ+hastāt) [not+greater](na+adhikaṃ) [wooden](vārkṣaṃ) [earthen](pārthivaṃ) [like-stone](śaila+vat) [always](sadā)
 
 ## mukta-m0-p03-v73
-[yakṣa+rakṣas+asura+serpent](yakṣarakṣo'suravyāla) [gandharva+apsaras](gandharvāpsarasāṃ) [sometimes](kvacit)
+[for-Yakṣas+Rākṣasas+Asuras+serpents](yakṣa+rakṣaḥ+asura+vyāla) [for-Gandharvas+Apsarases](gandharva+apsarasāṃ) [sometimes](kvacit)
 
 ## mukta-m0-p03-v74
-[by-circumference+and+height](pariṇāhocchrayābhyāṃ) [and](ca) [for-gods](devānām) [twenty-one](ekaviṃśatiḥ)
+[by-circumference+height](pariṇāha+ucchrayābhyāṃ) [and](ca) [for-gods](devānām) [twenty-one](eka+viṃśatiḥ)
 
 ## mukta-m0-p03-v75
-[five+aṅgulas](pañcāṅgulaṃ) [but](tu) [made-of-flour+etc](paiṣṭyādyaṃ) [fruit-born](phalajaṃ) [by-own+measure](svapramāṇataḥ)
+[five+aṅgulas](pañca+aṅgulam) [indeed](tu) [made-of-flour+beginning](paiṣṭya+ādyaṃ) [fruit-born](phala+jaṃ) [by-own-measure](sva+pramāṇataḥ)

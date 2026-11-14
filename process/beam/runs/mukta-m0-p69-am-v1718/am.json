@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1718,
- "question": "What are assigned to the northern and northeastern directions in this scheme?",
+ "question": "How many line markings adorn this particular stone form?",
  "premises": [
-  "The northern direction is specified",
-  "The northeastern direction is specified",
-  "Monday and Rāhu's position are assigned respectively"
+  "A stone form is being described",
+  "It is adorned with lines",
+  "The number of lines is five"
  ],
- "inference": "Monday is assigned to the north and Rāhu's position to the northeast.",
- "uncertainties": [],
- "plain_english": "In the north should be Monday, and in the northeast the position of Rāhu."
+ "inference": "This form is adorned with five lines.",
+ "uncertainties": [
+  "This token continues the description from the previous verse"
+ ],
+ "plain_english": "It is adorned with five lines."
 }

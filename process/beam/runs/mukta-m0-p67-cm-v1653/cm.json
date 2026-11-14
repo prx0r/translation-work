@@ -3,24 +3,29 @@
  "verse": 1653,
  "rows": [
   {
-   "lemma": "pūrvāditaḥ",
+   "lemma": "samuccārya",
+   "morph": "gerund",
+   "grounds": "after pronouncing aloud"
+  },
+  {
+   "lemma": "deva",
+   "morph": "compound-member",
+   "grounds": "first member of compound referring to the deity"
+  },
+  {
+   "lemma": "nāma",
+   "morph": "n.acc.sg",
+   "grounds": "name of the deity"
+  },
+  {
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "ablative indicating starting direction"
+   "grounds": "indicates the next step in sequence"
   },
   {
-   "lemma": "samārabhya",
-   "morph": "(indecl.) (sam-ā-√rabh)",
-   "grounds": "absolutive indicating commencement"
-  },
-  {
-   "lemma": "caturdikṣu",
-   "morph": "f.loc.pl (catur+diś)",
-   "grounds": "locative of cardinal directions"
-  },
-  {
-   "lemma": "vyavasthitāḥ",
-   "morph": "m.nom.pl.ppp (vi-ava-√sthā)",
-   "grounds": "past participle indicating fixed arrangement"
+   "lemma": "param",
+   "morph": "(indecl.)",
+   "grounds": "following that step"
   }
  ]
 }
