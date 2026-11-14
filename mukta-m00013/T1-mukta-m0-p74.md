@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[one-should-worship](pūjayet) [thus](iti) [with-devotion](bhaktyā) [the-deity](devam)
+[one-should-worship](pūjayet)
 
 ## mukta-m0-p74-v1827
-[ghee+anointed](ghṛta+aktaiḥ) [black+flowers](kṛṣṇa+puṣpaiḥ) [tenth-part+oblation](daśāṃśa+homaḥ) [should-be-performed](kāryaḥ)
+[ghee+anointed](ghṛtāktaiḥ) [black+flowers](kṛṣṇapuṣpaiḥ) [tenth-part+oblation](daśāṃśahomaḥ)
 
 ## mukta-m0-p74-v1828
-[svāhā](svāhā) [thus](iti) [oblation](āhutiḥ) [offered](dattā)
+[svāhā](svāhā)
 
 ## mukta-m0-p74-v1829
-[thus](evam) [meditation+mere](dhyāna+mātreṇa) [bitten](daṣṭaḥ) [poisonless](nirviṣyaḥ) [having-risen](samutthāya) [long](ciraṃ) [may-live](jīvet)
+[thus](evam) [meditation+merely](dhyānamātreṇa) [bitten](daṣṭaḥ) [poison-free](nirviṣyaḥ) [having-risen](samutthāya) [long](ciraṃ) [may-live](jīvet)
 
 ## mukta-m0-p74-v1830
-[thus](iti) [Garuḍa+praise](garuḍa+stotram) [ends](samāptam) [here](atra)
+[thus](iti) [garuḍa+hymn](garuḍastotram)
 
 ## mukta-m0-p74-v1831
-[something+other](kiñcit+anyat) [but](tu) [of-gods](devānāṃ) [practice](sādhanaṃ) [if](yadi) [may-be-told](kathyatām)
+[something](kiñcit) [other](anyat) [indeed](tu) [of-gods](devānāṃ) [practice](sādhanaṃ) [if](yadi) [may-be-told](kathyatām)
 
 ## mukta-m0-p74-v1832
-[that+practice+method](tat+sādhana+vidhiṃ) [I-shall-tell](vakṣye) [of-men](nṛṇāṃ) [accomplishment+causing](siddhi+karaṃ) [quickly](drutam)
+[that+practice+method](tatsādhanavidhiṃ) [I-shall-tell](vakṣye) [of-men](nṛṇāṃ) [accomplishment+causing](siddhikaraṃ) [quickly](drutam)
 
 ## mukta-m0-p74-v1833
-[with-conquest](jayena) [practice](sādhanaṃ) [having-done](kṛtvā) [conquered](jitaṃ) [all](sarvaṃ) [moving+non-moving](cara+acaram)
+[by-victory](jayena) [practice](sādhanaṃ) [having-done](kṛtvā) [conquered](jitaṃ) [all](sarvaṃ) [moving+unmoving](carācaram)
 
 ## mukta-m0-p74-v1834
-[one-pointed+mind](ekāgra+cittam) [having-fixed](ādhāya) [one-should-practice](sādhayet) [practice](sādhanaṃ) [great](mahat)
+[one-pointed+mind](ekāgracittam) [having-fixed](ādhāya) [one-should-practice](sādhayet) [practice](sādhanaṃ) [great](mahat)
 
 ## mukta-m0-p74-v1835
-[hundred-thousand+recitation](lakṣa+japāt) [pleased](prasannaḥ) [he-becomes](syāt) [truth](satyaṃ) [to-you](te) [told](kathitaṃ) [by-me](mayā)
+[by-hundred-thousand+recitation](lakṣajapāt) [pleased](prasannaḥ) [he-may-be](syāt) [truly](satyaṃ) [to-you](te) [told](kathitaṃ) [by-me](mayā)
 
 ## mukta-m0-p74-v1836
-[day+night](divā+rātrau) [recitation](japaṃ) [one-should-do](kuryād) [until](yāvat) [vision](sandarśanaṃ) [may-be](bhavet)
+[day+night](divārātro) [recitation](japaṃ) [one-should-do](kuryāt) [until](yāvat) [vision](sandarśanaṃ) [may-be](bhavet)
 
 ## mukta-m0-p74-v1837
-[very-pleased](suprasannaḥ) [then](tataḥ) [having-become](bhūtvā) [he-goes](prayāti) [practitioner+before](sādhaka+agrataḥ)
+[very-pleased](suprasannaḥ) [then](tataḥ) [having-become](bhūtvā) [he-goes](prayāti) [practitioner+before](sādhakāgrataḥ)
 
 ## mukta-m0-p74-v1838
-[boon](varaṃ) [having-obtained](labdhvā) [practitioner+chief](sādhaka+indraḥ) [may-enjoy](viharet) [of-himself](ātmanaḥ) [happiness](sukham)
+[boon](varaṃ) [having-obtained](labdhvā) [practitioner+chief](sādhakendraḥ) [may-enjoy](viharet) [of-himself](ātmanaḥ) [happiness](sukham)
 
 ## mukta-m0-p74-v1839
-[thus](iti) [in-Garuḍa-tantra](garuḍa+tantre) [in-Devī-Īśvara-dialogue](devī+īśvara+saṃvāde) [Hanumat+practice](hanūmat+sādhanam)
+[thus](iti) [in-garuḍa+tantra](garuḍatantre) [in-devī+īśvara+dialogue](devīśvarasaṃvāde) [hanūmat+practice](hanūmatsādhanam)
 
 ## mukta-m0-p74-v1840
-[root+mantra](mūla+mantraṃ) [then](tataḥ) [having-recited](japtvā) [one-should-sprinkle](siñcet) [sun+number](āditya+saṃkhyayā)
+[root+mantra](mūlamantraṃ) [then](tataḥ) [having-recited](japtvā) [one-should-sprinkle](siñcet) [sun+number](ādityasaṃkhyayā)
 
 ## mukta-m0-p74-v1841
-[hand+limb+assignments](kara+aṅga+nyāsau) [one-should-perform](kuryāt) [thus](iti) [properly](samyak)
+[hand+limb+assignments](karāṅganyāsau) [one-should-do](kuryāt)
 
 ## mukta-m0-p74-v1842
-[thus](iti) [having-meditated](dhyātvā) [six+thousand](ṣaṭ+sahasraṃ) [one-should-recite](japet)
+[thus](iti) [having-meditated](dhyātvā) [six+thousand](ṣaṭsahasraṃ) [one-should-recite](japet)
 
 ## mukta-m0-p74-v1843
-[ten+syllabled](daśa+arṇaḥ) [this](ayam) [mantra](manuḥ) [declared](proktaḥ) [of-men](narāṇāṃ) [wish-fulfilling+tree](sura+pādapaḥ)
+[ten-syllabled](daśārṇaḥ) [this](ayaṃ) [mantra](manuḥ) [declared](proktaḥ) [of-men](narāṇāṃ) [divine+wishing-tree](surapādapaḥ)
 
 ## mukta-m0-p74-v1844
-[that+moment+from](tat+kṣaṇāt+eva) [and](ca) [one-obtains](āpnoti) [truth](satyaṃ) [truth](satyaṃ) [well-ascertained](suniścitam)
+[that+moment+from](tatkṣaṇāt) [indeed](eva) [one-obtains](cāpnoti) [truly](satyaṃ) [truly](satyaṃ) [well-ascertained](suniścitam)
 
 ## mukta-m0-p74-v1845
-[that](saḥ) [and](ca) [visarga+bindu+endowed](visarga+bindu+yuktaḥ) [kha-letter+pair+form](kha+kāra+dvaya+svarūpaḥ)
+[that](saḥ) [and](ca) [visarga+bindu+endowed](visargabinduyuktaḥ) [kha+syllable+two+form](khakāradvayasvarūpaḥ)
 
 ## mukta-m0-p74-v1846
-[at-the-feet](pādayoḥ) [bindu-śakti+to](bindu+śaktaye) [obeisance](namaḥ) [thus](iti)
+[at-the-feet](pādayoḥ) [to-bindu+śakti](binduśaktaye) [obeisance](namaḥ)
 
 ## mukta-m0-p74-v1847
-[in-meditation+worship](dhyāna+arcane) [as-taught-by-Śāradā+Vaiśvānara-mantra](śāradā+ukta+vaiśvānara+mantra+vat) [thus](iti) [proceed](kuryāt)
+[in-meditation+and-worship](dhyānārcane) [as-taught-by-śāradā+vaiśvānara+mantra](śāradoktavaiśvānaramantravat)
 
 ## mukta-m0-p74-v1848
-[all+pains](sarva+vedanāḥ) [and](ca) [may-destroy](nāśayet) [completely](samantāt)
+[all+pains](sarvavedanāḥ) [and](ca) [may-destroy](nāśayet)
 
 ## mukta-m0-p74-v1849
-[thus](iti) [mouse+poison+removing+mantra](mūṣika+viṣa+hara+mantraḥ) [ends](samāptaḥ) [here](atra)
+[thus](iti) [mouse+poison+removing+mantra](mūṣikaviṣaharamantraḥ)
 
 ## mukta-m0-p74-v1850
-[thus](iti) [mouse+destruction+mantra](mūṣika+vināśana+mantraḥ) [ends](samāptaḥ) [here](atra)
+[thus](iti) [mouse+destruction+mantra](mūṣikavināśanamantraḥ)

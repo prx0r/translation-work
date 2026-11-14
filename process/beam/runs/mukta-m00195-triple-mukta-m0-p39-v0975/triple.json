@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "subject; beings invoked in ritual",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "santi",
+     "gloss": "are",
+     "grounds": "copula asserting existence or identity",
+     "morph": "3.pl.pres.act √as"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "sacred sound-formulas; predicate nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle emphasizing exclusive identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the assertion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "repeated subject confirming identity",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "In what sense are deities identical to mantras alone?",
+   "premises": [
+    "Deities are explicitly named as existing entities.",
+    "Mantras are predicated as those very deities.",
+    "The particle eva restricts this identity to mantras alone."
+   ],
+   "inference": "Therefore, deities possess no identity apart from the mantras themselves.",
+   "uncertainties": [],
+   "plain_english": "The deities are indeed mantras alone; they are the deities."
+  }
+ ]
+}

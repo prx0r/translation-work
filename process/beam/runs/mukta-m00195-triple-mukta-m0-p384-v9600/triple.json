@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p384",
+ "items": [
+  {
+   "verse": 9600,
+   "rows": [
+    {
+     "surface": "śūla+śastra",
+     "gloss": "trident-weapon",
+     "grounds": "compound member describing the weapon held; analyzed as fused compound element",
+     "morph": "compound"
+    },
+    {
+     "surface": "karā",
+     "gloss": "in-hand",
+     "grounds": "describes the goddess as having the weapon in hand",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khaḍgam",
+     "gloss": "sword",
+     "grounds": "object held by the goddess",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadhatī",
+     "gloss": "holding",
+     "grounds": "present participle qualifying the goddess",
+     "morph": "f.nom.sg.pres-part √dhā"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tām",
+     "gloss": "her",
+     "grounds": "demonstrative pronoun referring back to the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "i-worship",
+     "grounds": "first-person statement of devotional worship",
+     "morph": "1.sg.pres.atm √bhaj"
+    }
+   ],
+   "question": "Which goddess bearing a trident-weapon and sword is the proper object of worship?",
+   "premises": [
+    "A goddess holds a trident-weapon in her hand.",
+    "The same goddess holds a sword.",
+    "The speaker declares worship of that goddess."
+   ],
+   "inference": "The goddess identified by holding a trident-weapon and a sword is the one to be worshipped.",
+   "uncertainties": [
+    "The specific identity of the goddess is implied by context rather than named in this verse."
+   ],
+   "plain_english": "I worship her who indeed holds a trident-weapon in her hand and bears a sword."
+  }
+ ]
+}

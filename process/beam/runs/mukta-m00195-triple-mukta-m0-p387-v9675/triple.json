@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p387",
+ "items": [
+  {
+   "verse": 9675,
+   "rows": [
+    {
+     "surface": "mahāsarasvatī",
+     "gloss": "Mahāsarasvatī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "epithet of Mahāsarasvatī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "triṣṭup",
+     "gloss": "Triṣṭup",
+     "grounds": "name of the metrical form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "states the assignment",
+     "morph": "n.nom.sg past-passive-participle √ah + ud-ā"
+    }
+   ],
+   "question": "Which goddess and metrical form are declared for this ritual context?",
+   "premises": [
+    "Mahāsarasvatī is named as the goddess.",
+    "Triṣṭup is named as the meter.",
+    "These identifications are explicitly declared."
+   ],
+   "inference": "Mahāsarasvatī is the presiding goddess and Triṣṭup is the meter in this context.",
+   "uncertainties": [],
+   "plain_english": "The goddess Mahāsarasvatī and the Triṣṭup meter are declared."
+  }
+ ]
+}
