@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p162",
  "verse": 4031,
- "question": "What numerical range in finger units bounds the prescribed pedestal width?",
+ "question": "Why did that place become known as the shadow-seat?",
  "premises": [
-  "A measure of sixteen aṅgulas is included.",
-  "A limit of twenty aṅgulas is specified.",
-  "These define a bounded range."
+  "Something was obtained",
+  "It became a shadow-seat",
+  "This establishes its identity"
  ],
- "inference": "The prescribed width ranges from sixteen to twenty aṅgulas.",
- "uncertainties": [],
- "plain_english": "The prescribed width ranges from sixteen aṅgulas up to a limit of twenty aṅgulas."
+ "inference": "Having obtained it, that therefore became the shadow-seat.",
+ "uncertainties": [
+  "The object obtained is not explicitly stated."
+ ],
+ "plain_english": "But having obtained it, that became the shadow-seat; therefore it is so."
 }

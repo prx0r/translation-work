@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p170",
+ "items": [
+  {
+   "verse": 4250,
+   "rows": [
+    {
+     "surface": "kṛtyā+roga+bhaya+droha+bhūtāni",
+     "gloss": "sorcery-disease-fear-malice-spirits",
+     "grounds": "compound listing harmful forces; neuter plural object of nāśayet",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "should-destroy",
+     "grounds": "expresses the intended effect of the prescribed worship",
+     "morph": "3.sg.act.opt √naś"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this-one",
+     "grounds": "refers to the practitioner performing the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which malevolent forces can the practitioner eliminate through the prescribed daily worship?",
+   "premises": [
+    "The practitioner performs the prescribed daily worship.",
+    "Malevolent forces include sorcery disease fear malice and spirits.",
+    "The prescribed worship possesses the power to destroy such forces."
+   ],
+   "inference": "Therefore the practitioner can destroy these malevolent forces through that worship.",
+   "uncertainties": [
+    "bhūtāni may refer broadly to beings or specifically to hostile spirits."
+   ],
+   "plain_english": "This practitioner should destroy sorcery, disease, fear, malice, and hostile spirits."
+  }
+ ]
+}

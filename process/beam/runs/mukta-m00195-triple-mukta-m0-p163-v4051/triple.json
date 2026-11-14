@@ -1,0 +1,1001 @@
+{
+ "song": "mukta-m0-p163",
+ "items": [
+  {
+   "verse": 4051,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing following compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sindhu+pāram",
+     "gloss": "ocean-shore",
+     "grounds": "compound indicating the far shore of the ocean",
+     "morph": "compound: sindhu+param (acc.sg.n.)"
+    },
+    {
+     "surface": "icchanti",
+     "gloss": "desire",
+     "grounds": "action performed by humans",
+     "morph": "3.pl.pres.act √iṣ"
+    },
+    {
+     "surface": "mānavāḥ",
+     "gloss": "humans",
+     "grounds": "agents of desiring",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What do humans desire without reaching the far shore of the ocean?",
+   "premises": [
+    "Humans possess desires",
+    "The far shore of the ocean is not reached"
+   ],
+   "inference": "Humans continue to desire without attaining the ocean's far shore",
+   "uncertainties": [],
+   "plain_english": "Without reaching the far shore of the ocean, humans continue to desire."
+  },
+  {
+   "verse": 4052,
+   "rows": [
+    {
+     "surface": "vinaśyanti",
+     "gloss": "perish",
+     "grounds": "resulting fate of those described",
+     "morph": "3.pl.pres.act √naś"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to the humans mentioned previously",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānuṣya+varjitāḥ",
+     "gloss": "humanity-devoid",
+     "grounds": "compound describing their condition",
+     "morph": "compound: mānuṣya+varjitāḥ (m.nom.pl)"
+    }
+   ],
+   "question": "What fate befalls those who are devoid of humanity?",
+   "premises": [
+    "Some beings are devoid of humanity",
+    "Such beings are subject to destruction"
+   ],
+   "inference": "Those devoid of humanity perish",
+   "uncertainties": [],
+   "plain_english": "Indeed, they perish, being devoid of humanity."
+  },
+  {
+   "verse": 4053,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "prior action leading to rebirth",
+     "morph": "(gerund) √tyaj"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "are-born",
+     "grounds": "rebirth of those who abandoned humanity",
+     "morph": "3.pl.pres.mid √jan"
+    },
+    {
+     "surface": "yavana+adhipāḥ",
+     "gloss": "yavana-rulers",
+     "grounds": "compound indicating their new status",
+     "morph": "compound: yavana+adhipāḥ (m.nom.pl)"
+    }
+   ],
+   "question": "Into what condition are those who abandon humanity reborn?",
+   "premises": [
+    "Some abandon their humanity",
+    "Abandonment leads to a specific rebirth"
+   ],
+   "inference": "Having abandoned humanity, they are born as yavana rulers",
+   "uncertainties": [
+    "The specific connotation of yavana+adhipāḥ in this context is not fully explicit"
+   ],
+   "plain_english": "Having abandoned it, they are born as rulers of the Yavanas."
+  },
+  {
+   "verse": 4054,
+   "rows": [
+    {
+     "surface": "strī+māṃsa+madya+nirate",
+     "gloss": "women-meat-liquor-delighting",
+     "grounds": "compound describing the world",
+     "morph": "compound: strī+māṃsa+madya+nirate (m.loc.sg)"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "location of the described condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dharma+parāṅmukhe",
+     "gloss": "dharma-averse",
+     "grounds": "compound describing the world",
+     "morph": "compound: dharma+parāṅmukhe (m.loc.sg)"
+    }
+   ],
+   "question": "What characterizes the world where such rulers are born?",
+   "premises": [
+    "A world delights in women, meat, and liquor",
+    "That world is averse to dharma"
+   ],
+   "inference": "The world is characterized by sensual indulgence and aversion to dharma",
+   "uncertainties": [],
+   "plain_english": "In a world delighting in women, meat, and liquor, and averse to dharma."
+  },
+  {
+   "verse": 4055,
+   "rows": [
+    {
+     "surface": "pṛthivī+madhye",
+     "gloss": "earth-middle",
+     "grounds": "compound indicating location on earth",
+     "morph": "compound: pṛthivī+madhye (n.loc.sg)"
+    },
+    {
+     "surface": "yāvat+pūrṇaḥ",
+     "gloss": "when-full",
+     "grounds": "compound indicating the condition of the age",
+     "morph": "compound: yāvat+pūrṇaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "kaliḥ",
+     "gloss": "kali-age",
+     "grounds": "subject whose fullness is described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "potential state of the kali age",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Under what temporal condition on earth will the prophesied event occur?",
+   "premises": [
+    "The kali age progresses toward fullness",
+    "Events are situated in the middle of the earth"
+   ],
+   "inference": "The event occurs when the kali age becomes full on earth",
+   "uncertainties": [],
+   "plain_english": "When the Kali age becomes full in the middle of the earth."
+  },
+  {
+   "verse": 4056,
+   "rows": [
+    {
+     "surface": "kalki+svarūpasya",
+     "gloss": "of-kalki-form",
+     "grounds": "compound describing Viṣṇu's manifestation",
+     "morph": "compound: kalki+svarūpasya (m.gen.sg)"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-viṣṇu",
+     "grounds": "deity who will take birth",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "event that will occur",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future occurrence of the birth",
+     "morph": "3.sg.fut.act √bhū"
+    }
+   ],
+   "question": "Whose birth will occur when the Kali age is full?",
+   "premises": [
+    "The Kali age reaches fullness",
+    "Viṣṇu manifests in a specific form"
+   ],
+   "inference": "The birth of Viṣṇu in the form of Kalki will take place",
+   "uncertainties": [],
+   "plain_english": "The birth of Viṣṇu in the form of Kalki will take place."
+  },
+  {
+   "verse": 4057,
+   "rows": [
+    {
+     "surface": "svādhyāya+abhyasanasya",
+     "gloss": "self-study-practice",
+     "grounds": "compound indicating the activity to be begun",
+     "morph": "compound: svādhyāya+abhyasanasya (n.gen.sg)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "at-beginning",
+     "grounds": "time of undertaking the vows",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vratāni",
+     "gloss": "vows",
+     "grounds": "practices to be undertaken",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteen",
+     "grounds": "number of vows",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many vows must be undertaken at the beginning of self-study practice?",
+   "premises": [
+    "Self-study practice has a beginning stage",
+    "Vows are prescribed at that stage"
+   ],
+   "inference": "Fourteen vows must be undertaken at the beginning of self-study practice",
+   "uncertainties": [],
+   "plain_english": "At the beginning of the practice of self-study, there are indeed fourteen vows."
+  },
+  {
+   "verse": 4058,
+   "rows": [
+    {
+     "surface": "pūrva+vidhinā",
+     "gloss": "previous-rule",
+     "grounds": "compound indicating the prescribed method",
+     "morph": "compound: pūrva+vidhinā (m.inst.sg)"
+    },
+    {
+     "surface": "niṣpāpaḥ",
+     "gloss": "sinless",
+     "grounds": "state achieved by following the rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "condition of the practitioner",
+     "morph": "m.nom.sg.pres.part.act √as"
+    },
+    {
+     "surface": "samabhyaset",
+     "gloss": "should-practice",
+     "grounds": "injunction for the practitioner",
+     "morph": "3.sg.opt.act √abhyas"
+    }
+   ],
+   "question": "In what condition should one practice according to the previous rule?",
+   "premises": [
+    "A previous rule prescribes a method",
+    "Following it leads to a sinless state"
+   ],
+   "inference": "One should practice after becoming sinless according to the previous rule",
+   "uncertainties": [],
+   "plain_english": "Becoming sinless according to the previous rule, one should practice."
+  },
+  {
+   "verse": 4059,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "connective indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekānte",
+     "gloss": "in-solitude",
+     "grounds": "place of recitation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "namraḥ",
+     "gloss": "humble",
+     "grounds": "attitude of the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guru+ājñayā",
+     "gloss": "teacher-command",
+     "grounds": "compound indicating authorization",
+     "morph": "compound: guru+ājñayā (f.inst.sg)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "injunction for recitation",
+     "morph": "3.sg.opt.act √paṭh"
+    }
+   ],
+   "question": "Under what conditions should one recite according to the teacher's command?",
+   "premises": [
+    "Recitation requires proper setting and attitude",
+    "The teacher's command authorizes recitation"
+   ],
+   "inference": "One should recite humbly in solitude by the teacher's command",
+   "uncertainties": [],
+   "plain_english": "Thus, humble and in solitude, one should recite by the teacher's command."
+  },
+  {
+   "verse": 4060,
+   "rows": [
+    {
+     "surface": "paraṃ",
+     "gloss": "other",
+     "grounds": "refers to other food",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of eating",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśnīyāt",
+     "gloss": "should-eat",
+     "grounds": "injunction regarding eating",
+     "morph": "3.sg.opt.act √aś"
+    },
+    {
+     "surface": "prājāpatya+vrataṃ",
+     "gloss": "prājāpatya-vow",
+     "grounds": "compound naming the vow",
+     "morph": "compound: prājāpatya+vratam (n.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative identifying the vow",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dietary restriction defines the prājāpatya vow?",
+   "premises": [
+    "A vow named prājāpatya is prescribed",
+    "Eating other food is prohibited"
+   ],
+   "inference": "The prājāpatya vow requires not eating other food",
+   "uncertainties": [
+    "The exact dietary details of prājāpatya are not specified here"
+   ],
+   "plain_english": "And one should not eat other food; this indeed is the prājāpatya vow."
+  },
+  {
+   "verse": 4061,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upavased",
+     "gloss": "should-fast",
+     "grounds": "injunction to fast",
+     "morph": "3.sg.opt.act √vas (upa)"
+    },
+    {
+     "surface": "antyam",
+     "gloss": "at-end",
+     "grounds": "timing of the fast",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atikṛcchraṃ",
+     "gloss": "atikṛcchra",
+     "grounds": "name of the vow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative identifying the vow",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What concluding practice characterizes the atikṛcchra vow?",
+   "premises": [
+    "A vow named atikṛcchra is prescribed",
+    "Fasting is required at the end"
+   ],
+   "inference": "The atikṛcchra vow requires fasting at the end",
+   "uncertainties": [],
+   "plain_english": "And one should fast at the end; this indeed is the atikṛcchra vow."
+  },
+  {
+   "verse": 4062,
+   "rows": [
+    {
+     "surface": "upavāsaḥ",
+     "gloss": "fasting",
+     "grounds": "practice defining the vow",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptāhaṃ",
+     "gloss": "for-week",
+     "grounds": "duration of fasting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiśu+sāntapanaṃ",
+     "gloss": "śiśu-sāntapana",
+     "grounds": "compound naming the vow",
+     "morph": "compound: śiśu+sāntapanam (n.nom.sg)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What duration of fasting defines the śiśu-sāntapana vow?",
+   "premises": [
+    "A vow named śiśu-sāntapana is prescribed",
+    "Fasting is performed for a specific duration"
+   ],
+   "inference": "The śiśu-sāntapana vow consists of fasting for a week",
+   "uncertainties": [],
+   "plain_english": "Fasting for a week is the śiśu-sāntapana vow."
+  },
+  {
+   "verse": 4063,
+   "rows": [
+    {
+     "surface": "sakṛt+snāyī",
+     "gloss": "once-bathing",
+     "grounds": "compound describing the practitioner",
+     "morph": "compound: sakṛt+snāyī (m.nom.sg)"
+    },
+    {
+     "surface": "tapta+kṛcchraṃ",
+     "gloss": "tapta-kṛcchra",
+     "grounds": "compound naming the vow",
+     "morph": "compound: tapta+kṛcchram (n.nom.sg)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative identifying the vow",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What bathing practice characterizes the tapta-kṛcchra vow?",
+   "premises": [
+    "A vow named tapta-kṛcchra is prescribed",
+    "The practitioner bathes once"
+   ],
+   "inference": "The tapta-kṛcchra vow involves bathing once",
+   "uncertainties": [
+    "Additional details of tapta-kṛcchra are not specified here"
+   ],
+   "plain_english": "Bathing once is this tapta-kṛcchra vow."
+  },
+  {
+   "verse": 4064,
+   "rows": [
+    {
+     "surface": "eka+rātra+upavāsaḥ",
+     "gloss": "one-night-fasting",
+     "grounds": "compound describing the practice",
+     "morph": "compound: eka+rātra+upavāsaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛcchra+sāntapataṃ",
+     "gloss": "kṛcchra-sāntapana",
+     "grounds": "compound naming the vow",
+     "morph": "compound: kṛcchra+sāntapatam (n.nom.sg)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fasting practice defines the kṛcchra-sāntapana vow?",
+   "premises": [
+    "A vow named kṛcchra-sāntapana is prescribed",
+    "Fasting lasts one night"
+   ],
+   "inference": "The kṛcchra-sāntapana vow consists of a one-night fast",
+   "uncertainties": [],
+   "plain_english": "A one-night fast is the kṛcchra-sāntapana vow."
+  },
+  {
+   "verse": 4065,
+   "rows": [
+    {
+     "surface": "upavāsaḥ",
+     "gloss": "fasting",
+     "grounds": "practice defining the vow",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "indicates traditional prescription",
+     "morph": "n.nom.sg.past.pass.part √vac"
+    },
+    {
+     "surface": "mahā+sāntapanaṃ",
+     "gloss": "mahā-sāntapana",
+     "grounds": "compound naming the vow",
+     "morph": "compound: mahā+sāntapanam (n.nom.sg)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What practice is declared as the mahā-sāntapana vow?",
+   "premises": [
+    "A vow named mahā-sāntapana is declared",
+    "Fasting is the prescribed practice"
+   ],
+   "inference": "Fasting is declared to be the mahā-sāntapana vow",
+   "uncertainties": [
+    "The specific duration or form of fasting is not detailed here"
+   ],
+   "plain_english": "Fasting is then declared to be the mahā-sāntapana vow."
+  },
+  {
+   "verse": 4066,
+   "rows": [
+    {
+     "surface": "vardhayet",
+     "gloss": "should-increase",
+     "grounds": "injunction regarding intake",
+     "morph": "3.sg.opt.act √vṛdh (caus.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "indicates traditional prescription",
+     "morph": "n.nom.sg.past.pass.part √vac"
+    },
+    {
+     "surface": "cāndrāyaṇaṃ",
+     "gloss": "cāndrāyaṇa",
+     "grounds": "name of the vow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What practice of increasing intake is declared as the cāndrāyaṇa vow?",
+   "premises": [
+    "A vow named cāndrāyaṇa is declared",
+    "The practice involves increasing"
+   ],
+   "inference": "The cāndrāyaṇa vow is declared to involve increasing intake",
+   "uncertainties": [
+    "The specific pattern of increase is not detailed here"
+   ],
+   "plain_english": "And one should also increase; this is declared to be the cāndrāyaṇa vow."
+  },
+  {
+   "verse": 4067,
+   "rows": [
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāndrāyaṇaṃ",
+     "gloss": "cāndrāyaṇa",
+     "grounds": "name of the vow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamam",
+     "gloss": "middle",
+     "grounds": "classification of the vow",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the cāndrāyaṇa vow classified in this sequence?",
+   "premises": [
+    "The cāndrāyaṇa vow is mentioned",
+    "Vows are given classifications"
+   ],
+   "inference": "The cāndrāyaṇa vow is classified as the middle one",
+   "uncertainties": [],
+   "plain_english": "The cāndrāyaṇa vow should indeed be the middle one."
+  },
+  {
+   "verse": 4068,
+   "rows": [
+    {
+     "surface": "caturoḥ",
+     "gloss": "four",
+     "grounds": "quantity related to time or measure",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tamite",
+     "gloss": "when-set",
+     "grounds": "condition of the sun",
+     "morph": "m.loc.sg.past.pass.part √tam"
+    },
+    {
+     "surface": "sūrye",
+     "gloss": "sun",
+     "grounds": "celestial body whose setting is noted",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śiśu+cāndrāyaṇaṃ",
+     "gloss": "śiśu-cāndrāyaṇa",
+     "grounds": "compound naming the vow",
+     "morph": "compound: śiśu+cāndrāyaṇam (n.nom.sg)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What timing condition defines the śiśu-cāndrāyaṇa vow?",
+   "premises": [
+    "A vow named śiśu-cāndrāyaṇa is prescribed",
+    "The sun's setting is a condition"
+   ],
+   "inference": "The śiśu-cāndrāyaṇa vow is observed when the sun has set for four",
+   "uncertainties": [
+    "The exact meaning of caturoḥ in relation to the sun setting is unclear"
+   ],
+   "plain_english": "When the sun has set for four, it is the śiśu-cāndrāyaṇa vow."
+  },
+  {
+   "verse": 4069,
+   "rows": [
+    {
+     "surface": "haviṣyasya",
+     "gloss": "of-sacrificial-food",
+     "grounds": "type of food associated with the vow",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yati+cāndrāyaṇaṃ",
+     "gloss": "yati-cāndrāyaṇa",
+     "grounds": "compound naming the vow",
+     "morph": "compound: yati+cāndrāyaṇam (n.nom.sg)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What food is associated with the yati-cāndrāyaṇa vow?",
+   "premises": [
+    "A vow named yati-cāndrāyaṇa is prescribed",
+    "Sacrificial food is involved"
+   ],
+   "inference": "The yati-cāndrāyaṇa vow is associated with sacrificial food",
+   "uncertainties": [
+    "The exact manner of consuming haviṣya is not specified"
+   ],
+   "plain_english": "The yati-cāndrāyaṇa vow involves sacrificial food."
+  },
+  {
+   "verse": 4070,
+   "rows": [
+    {
+     "surface": "sthira+cittaḥ",
+     "gloss": "steady-mind",
+     "grounds": "compound describing mental state",
+     "morph": "compound: sthira+cittaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "apramattaḥ",
+     "gloss": "unheedless",
+     "grounds": "describes attentiveness of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāka+ākhyam",
+     "gloss": "parāka-named",
+     "grounds": "compound naming the vow",
+     "morph": "compound: parāka+ākhyam (n.nom.sg)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative identifying the vow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What mental qualities are required for the vow named parāka?",
+   "premises": [
+    "A vow named parāka is prescribed",
+    "Specific mental qualities are required"
+   ],
+   "inference": "The parāka vow requires a steady mind and heedfulness",
+   "uncertainties": [],
+   "plain_english": "With a steady mind and unheedless, this is the vow named parāka."
+  },
+  {
+   "verse": 4071,
+   "rows": [
+    {
+     "surface": "saumya+kṛcchra+nāmakaṃ",
+     "gloss": "saumya-kṛcchra-named",
+     "grounds": "compound naming the vow",
+     "morph": "compound: saumya+kṛcchra+nāmakam (n.nom.sg)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "classification of the vow",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the vow named saumya-kṛcchra classified?",
+   "premises": [
+    "A vow named saumya-kṛcchra is mentioned",
+    "Vows receive qualitative classifications"
+   ],
+   "inference": "The vow named saumya-kṛcchra is classified as supreme",
+   "uncertainties": [],
+   "plain_english": "The vow named saumya-kṛcchra is supreme."
+  },
+  {
+   "verse": 4072,
+   "rows": [
+    {
+     "surface": "tulā+puruṣavat",
+     "gloss": "like-tulāpuruṣa",
+     "grounds": "compound indicating comparison",
+     "morph": "compound: tulā+puruṣavat (indecl.)"
+    },
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "number associated with the vow",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "stoma+ayanam",
+     "gloss": "stoma-ayana",
+     "grounds": "compound naming the vow",
+     "morph": "compound: stoma+ayanam (n.nom.sg)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative identifying the vow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What comparison and number characterize the stoma-ayana vow?",
+   "premises": [
+    "A vow named stoma-ayana is prescribed",
+    "It is compared to tulāpuruṣa and involves three"
+   ],
+   "inference": "The stoma-ayana vow is like tulāpuruṣa and involves three",
+   "uncertainties": [
+    "The exact referent of trīṇi is not specified"
+   ],
+   "plain_english": "Like the tulāpuruṣa, involving three, this is the stoma-ayana vow."
+  },
+  {
+   "verse": 4073,
+   "rows": [
+    {
+     "surface": "haviṣya+annasya",
+     "gloss": "of-sacrificial-food",
+     "grounds": "compound indicating the food to be divided",
+     "morph": "compound: haviṣya+annasya (n.gen.sg)"
+    },
+    {
+     "surface": "vaibhāgam",
+     "gloss": "division",
+     "grounds": "manner of handling the food",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṛṣaṣi+candrāyaṇaṃ",
+     "gloss": "ṛṣi-cāndrāyaṇa",
+     "grounds": "compound naming the vow",
+     "morph": "compound: ṛṣaṣi+candrāyaṇam (n.nom.sg)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What handling of sacrificial food defines the ṛṣi-cāndrāyaṇa vow?",
+   "premises": [
+    "A vow named ṛṣi-cāndrāyaṇa is prescribed",
+    "Sacrificial food is divided"
+   ],
+   "inference": "The ṛṣi-cāndrāyaṇa vow involves dividing sacrificial food",
+   "uncertainties": [
+    "The spelling ṛṣaṣi+candrāyaṇaṃ may reflect a textual variant of ṛṣi-cāndrāyaṇaṃ"
+   ],
+   "plain_english": "Dividing sacrificial food is the ṛṣi-cāndrāyaṇa vow."
+  },
+  {
+   "verse": 4074,
+   "rows": [
+    {
+     "surface": "vāyu+bhakṣaḥ",
+     "gloss": "air-eating",
+     "grounds": "compound describing the practice",
+     "morph": "compound: vāyu+bhakṣaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stoma+ayanam",
+     "gloss": "stoma-ayana",
+     "grounds": "compound naming the vow",
+     "morph": "compound: stoma+ayanam (n.nom.sg)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative identifying the vow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "category of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dietary practice characterizes this stoma-ayana vow?",
+   "premises": [
+    "A vow named stoma-ayana is prescribed",
+    "The practitioner subsists on air"
+   ],
+   "inference": "This stoma-ayana vow is characterized by subsisting on air",
+   "uncertainties": [],
+   "plain_english": "And subsisting on air, this is the stoma-ayana vow."
+  }
+ ]
+}

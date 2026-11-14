@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p169",
  "verse": 4220,
- "question": "What items should be placed in the middle after preparing the bed?",
+ "question": "On which lunar days should the ritual weapon be released?",
  "premises": [
-  "A bed is placed in the middle.",
-  "The Śiva pot is to be placed.",
-  "The nourishing vessel is also to be placed."
+  "The ritual weapon is the object to be released.",
+  "The release is prescribed in nandā and riktā days."
  ],
- "inference": "After placing the bed in the middle, one should place the Śiva pot and the nourishing vessel.",
- "uncertainties": [],
- "plain_english": "Having placed the bed in the middle, one should then place the Śiva pot and the nourishing vessel."
+ "inference": "One should release the weapon on nandā and riktā lunar days.",
+ "uncertainties": [
+  "The fused form 'nandāsuriktāsvastraṃ' is ambiguous in segmentation; interpreted with the following 'astram'."
+ ],
+ "plain_english": "One should release the weapon on nandā and riktā days."
 }
