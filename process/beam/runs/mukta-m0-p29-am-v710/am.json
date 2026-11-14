@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 710,
- "question": "Which mantra elements must be extracted first in this sequence?",
+ "question": "Where should the vardhanī vessel and related items be placed?",
  "premises": [
-  "The praṇava must be extracted first.",
-  "The hṛllekhā must be extracted thereafter.",
-  "The mantra follows a fixed sequence."
+  "The vardhanī vessel is involved",
+  "A specific direction is prescribed",
+  "The northeast is that direction"
  ],
- "inference": "The mantra construction begins by extracting praṇava first and hṛllekhā next.",
- "uncertainties": [],
- "plain_english": "First extract the praṇava, and thereafter the hṛllekhā."
+ "inference": "One should place them in the northeast of the vardhanī vessel.",
+ "uncertainties": [
+  "The referent of 'tān' (them) is not explicitly specified in this verse."
+ ],
+ "plain_english": "And one should place them in the northeast of the vardhanī vessel."
 }

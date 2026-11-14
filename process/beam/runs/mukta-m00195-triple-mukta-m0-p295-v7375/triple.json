@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p295",
+ "items": [
+  {
+   "verse": 7375,
+   "rows": [
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent who employs mantras; nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "ritual-applications",
+     "grounds": "acts of ritual employment; object of ācaret",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive optative enjoining action",
+     "morph": "3.sg.opt.act (ā-√car)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified discerning practitioner; nominative subject in apposition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of practitioner is qualified to perform the prescribed ritual applications?",
+   "premises": [
+    "The ritual applications are to be performed.",
+    "The performer is designated as a mantra-practitioner.",
+    "The performer is further characterized as wise."
+   ],
+   "inference": "Only a wise mantra-practitioner should carry out the prescribed ritual applications.",
+   "uncertainties": [],
+   "plain_english": "The wise mantra-practitioner should perform the ritual applications."
+  }
+ ]
+}
