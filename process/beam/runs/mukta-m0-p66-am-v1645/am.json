@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1645,
- "question": "Which deities are invoked at the sacred site of Maṇikarṇa?",
+ "question": "Which deities are assigned to the eastern side in the Maṇḍūka layout?",
  "premises": [
-  "The site Maṇikarṇa is specified.",
-  "The best of gods is addressed.",
-  "Maṇīśvarī, lover of jewels, is addressed."
+  "Āditya is named",
+  "Satyakabhraṃśā is named",
+  "Antarikṣa is named as east-going"
  ],
- "inference": "At Maṇikarṇa, the best of gods and the goddess Maṇīśvarī are invoked.",
- "uncertainties": [],
- "plain_english": "at Maṇikarṇa, O best of gods, O Maṇīśvarī, O lover of jewels,"
+ "inference": "Āditya, Satyakabhraṃśā, and Antarikṣa are assigned to the eastern side.",
+ "uncertainties": [
+  "The internal analysis of satyakabhraṃśā is uncertain."
+ ],
+ "plain_english": "Āditya, Satyakabhraṃśā, and Antarikṣa are the ones in the east."
 }

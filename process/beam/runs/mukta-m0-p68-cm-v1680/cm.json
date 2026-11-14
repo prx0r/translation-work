@@ -3,19 +3,29 @@
  "verse": 1680,
  "rows": [
   {
-   "lemma": "sarvakalāvidhānādau",
-   "morph": "noun.loc.sg.m",
-   "grounds": "compound of all principles and rites"
+   "lemma": "susaṃhita",
+   "morph": "compound:susaṃhita+first",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "kuladravyāṇi",
-   "morph": "noun.acc.pl.n",
-   "grounds": "compound of kula and substances"
+   "lemma": "padaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "unit of spatial layout"
   },
   {
-   "lemma": "yojayet",
-   "morph": "verb.3.sg.act-opt",
-   "grounds": "optative of root yuj"
+   "lemma": "karṇasūtra",
+   "morph": "compound:karṇasūtra+first",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "yuktaṃ",
+   "morph": "n.acc.sg.past-passive-participle √yuj",
+   "grounds": "describes alignment with diagonal lines"
+  },
+  {
+   "lemma": "prakalpayet",
+   "morph": "3.sg.opt.act pra-√kḷp",
+   "grounds": "prescriptive optative"
   }
  ]
 }
