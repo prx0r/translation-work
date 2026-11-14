@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2777,
- "question": "How can the great qualityless reality be the object of yogic meditation and reverence?",
+ "question": "Who quickly grants the desired thing after obtaining satisfaction?",
  "premises": [
-  "Yogins meditate upon this deity",
-  "The deity is great",
-  "The deity is without qualities"
+  "Satisfaction is first obtained.",
+  "Those satisfied are the agents.",
+  "The desired thing is granted quickly."
  ],
- "inference": "The great qualityless reality meditated upon by yogins deserves repeated obeisance.",
- "uncertainties": [],
- "plain_english": "Repeated obeisance to the great, qualityless one meditated upon by yogins."
+ "inference": "Satisfied agents quickly grant what is desired.",
+ "uncertainties": [
+  "The referent of those agents is contextual."
+ ],
+ "plain_english": "Having obtained satisfaction, those agents quickly grant the desired thing."
 }

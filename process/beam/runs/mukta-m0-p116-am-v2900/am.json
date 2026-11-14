@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p116",
  "verse": 2900,
- "question": "What transformation occurs to weapons upon contacting the protected body?",
+ "question": "How does the yantra protect constantly by the stated time in Shiva?",
  "premises": [
-  "Weapons reach that body.",
-  "Upon reaching it, weapons undergo a change of state.",
-  "The resulting state of the weapons is that of flowers."
+  "yantra is the instrument",
+  "time is stated",
+  "protection is constant",
+  "location is Shiva"
  ],
- "inference": "Contact with the protected body renders weapons harmless by transforming them into flowers.",
- "uncertainties": [],
- "plain_english": "Upon reaching that body, weapons become flowers."
+ "inference": "the yantra protects constantly by the stated time in Shiva",
+ "uncertainties": [
+  "exact referent of anena is unclear",
+  "śive may be locative deity"
+ ],
+ "plain_english": "By this yantra, by the stated time, constantly, in Shiva."
 }

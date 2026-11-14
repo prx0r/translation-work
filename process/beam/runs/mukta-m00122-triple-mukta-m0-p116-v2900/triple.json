@@ -1,0 +1,59 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "yantreṇa",
+     "gloss": "by-yantra",
+     "grounds": "instrumental of yantra",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental of idam agreeing with yantra",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "kālena",
+     "gloss": "time",
+     "grounds": "instrumental of kāla",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "proktena",
+     "gloss": "stated",
+     "grounds": "instrumental of prokta past participle",
+     "morph": "m/n.instr.sg"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-shiva",
+     "grounds": "locative of śiva",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How does the yantra protect constantly by the stated time in Shiva?",
+   "premises": [
+    "yantra is the instrument",
+    "time is stated",
+    "protection is constant",
+    "location is Shiva"
+   ],
+   "inference": "the yantra protects constantly by the stated time in Shiva",
+   "uncertainties": [
+    "exact referent of anena is unclear",
+    "śive may be locative deity"
+   ],
+   "plain_english": "By this yantra, by the stated time, constantly, in Shiva."
+  }
+ ]
+}

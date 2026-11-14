@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2875,
+   "rows": [
+    {
+     "surface": "yantrametat",
+     "gloss": "this-yantra",
+     "grounds": "fused form yantra+etat; device this",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "tālapatre",
+     "gloss": "on-palm-leaf",
+     "grounds": "locative palm-leaf",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhūrje",
+     "gloss": "on-birch",
+     "grounds": "birch bark locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kṣaume",
+     "gloss": "on-cloth",
+     "grounds": "cloth locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "arkapatrake",
+     "gloss": "on-sun-leaf",
+     "grounds": "sun-leaf locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "On which materials may this yantra be inscribed?",
+   "premises": [
+    "this yantra may be inscribed",
+    "palm leaf is a material",
+    "birch bark is a material",
+    "cloth is a material",
+    "sun leaf is a material"
+   ],
+   "inference": "the yantra can be written on palm leaf birch cloth or sun leaf",
+   "uncertainties": [
+    "exact sandhi of yantrametat not expanded"
+   ],
+   "plain_english": "This yantra may be written on palm leaf, birch bark, cloth, or sun leaf."
+  }
+ ]
+}
