@@ -3,14 +3,19 @@
  "verse": 4572,
  "rows": [
   {
-   "lemma": "niṣkalaṃ",
-   "morph": "adj.acc.sg.n",
-   "grounds": "accusative adjective"
+   "lemma": "aṣṭa",
+   "morph": "compound-member",
+   "grounds": "numeral component of count"
   },
   {
-   "lemma": "brahma+bhāge",
-   "morph": "compound.loc.sg.m",
-   "grounds": "locative compound"
+   "lemma": "vāra",
+   "morph": "compound-member",
+   "grounds": "numeral component indicating repetition"
+  },
+  {
+   "lemma": "sahasran",
+   "morph": "n.acc.sg",
+   "grounds": "total number of recitations"
   },
   {
    "lemma": "tu",
@@ -18,14 +23,24 @@
    "grounds": "emphatic particle"
   },
   {
-   "lemma": "sakalaṃ",
-   "morph": "adj.acc.sg.n",
-   "grounds": "accusative adjective"
+   "lemma": "jāpyā",
+   "morph": "f.nom.pl.future-passive-participle + jap",
+   "grounds": "prescribed recitation"
   },
   {
-   "lemma": "daivika+aṃśake",
-   "morph": "compound.loc.sg.m",
-   "grounds": "locative compound"
+   "lemma": "etā",
+   "morph": "f.nom.pl",
+   "grounds": "identifies the verses"
+  },
+  {
+   "lemma": "ṛcaḥ",
+   "morph": "f.nom.pl",
+   "grounds": "objects of chanting"
+  },
+  {
+   "lemma": "śubhāḥ",
+   "morph": "f.nom.pl",
+   "grounds": "describes the verses"
   }
  ]
 }

@@ -3,24 +3,39 @@
  "verse": 4574,
  "rows": [
   {
-   "lemma": "rakṣaḥ+gandharva+yakṣa+ādyāḥ",
-   "morph": "compound.nom.pl.m",
-   "grounds": "nominative compound"
+   "lemma": "dāridrya",
+   "morph": "compound-member",
+   "grounds": "first member of purpose compound"
   },
   {
-   "lemma": "piśāca+ādyāḥ",
-   "morph": "compound.nom.pl.m",
-   "grounds": "nominative compound"
+   "lemma": "nāśāya",
+   "morph": "m.dat.sg",
+   "grounds": "expresses purpose"
   },
   {
-   "lemma": "ca",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "negates existence of alternative"
   },
   {
-   "lemma": "mūrti+pāḥ",
-   "morph": "compound.nom.pl.m",
-   "grounds": "nominative compound"
+   "lemma": "anya",
+   "morph": "compound-member",
+   "grounds": "excludes alternatives"
+  },
+  {
+   "lemma": "kiñcin",
+   "morph": "n.nom/acc.sg",
+   "grounds": "indefinite alternative"
+  },
+  {
+   "lemma": "nṛṇāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "beneficiaries"
+  },
+  {
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "compares to prior statement"
   }
  ]
 }

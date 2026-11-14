@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p183",
  "verse": 4571,
- "question": "Where is the demonic part assigned?",
+ "question": "What concluding action should be taken after performing the rite until evening?",
  "premises": [
-  "A demonic part is declared.",
-  "It is assigned in brahma portion.",
-  "Assignment is prescribed."
+  "The rite continues until evening",
+  "The rite must be completed",
+  "Eating is prescribed afterward"
  ],
- "inference": "The demonic part is assigned in the brahma portion.",
+ "inference": "Having performed the rite until evening, one should eat",
  "uncertainties": [
-  "Meaning of brahma portion."
+  "object of bhakṣayet is implicit from ritual context"
  ],
- "plain_english": "The demonic part, declared, should be assigned in the brahma portion."
+ "plain_english": "The rite should continue until evening, and having completed it, one should eat."
 }

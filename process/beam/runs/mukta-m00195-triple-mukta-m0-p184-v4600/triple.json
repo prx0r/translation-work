@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p184",
+ "items": [
+  {
+   "verse": 4600,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of √dā; refers back to the offerings given in sequence in the preceding verses",
+     "morph": "(gerund; √dā)"
+    },
+    {
+     "surface": "nīrājayet",
+     "gloss": "one-should-wave-light",
+     "grounds": "prescribes the ritual act of waving light (ārati/nīrājana)",
+     "morph": "3.sg.opt.act; √nīrāj"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "śrī",
+     "grounds": "object of the light-waving rite; the goddess Śrī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which concluding ritual act is owed to Śrī after the preceding offerings have been given?",
+   "premises": [
+    "The preceding offerings have already been given in due order.",
+    "A ritual act of waving light is prescribed.",
+    "Śrī is the recipient of this prescribed act."
+   ],
+   "inference": "Therefore, after giving the preceding offerings, one should perform the waving of light before Śrī.",
+   "uncertainties": [
+    "Whether śriyam refers specifically to the goddess or to her image is not explicit in this verse alone."
+   ],
+   "plain_english": "Having given the offerings, one should wave light before Śrī."
+  }
+ ]
+}
