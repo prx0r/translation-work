@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p238",
  "verse": 5933,
- "question": "What worship follows once the officiant has consecrated his own body?",
+ "question": "In the absence of that, what is described as joined with a cloth-yoga band worn below?",
  "premises": [
-  "The officiant's body has been ritually consecrated",
-  "The next action takes place inside",
-  "The worship of Caṇḍa is to be performed"
+  "A condition of absence of that is stated.",
+  "Something joined with a cloth-yoga band is mentioned.",
+  "The placement is indicated as below."
  ],
- "inference": "Having consecrated his body, the officiant should perform the worship of Caṇḍa inside.",
- "uncertainties": [],
- "plain_english": "Then, having consecrated his body, he should perform the worship of Caṇḍa inside."
+ "inference": "When that is absent, one uses what is joined with a cloth-yoga band below.",
+ "uncertainties": [
+  "The referent of tad and the exact object are unclear without wider context."
+ ],
+ "plain_english": "If that is absent, then one is joined with a cloth-yoga band below."
 }

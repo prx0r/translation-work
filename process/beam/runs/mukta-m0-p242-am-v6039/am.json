@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p242",
  "verse": 6039,
- "question": "What form of mantra recitation is required for ritual purification?",
+ "question": "How and where must the object be held before the subsequent ritual action?",
  "premises": [
-  "Mantras beginning with praṇava are recited.",
-  "Mantras ending with namaḥ are recited.",
-  "The recitation is for purification."
+  "The left hand is specified as the instrument",
+  "Holding is performed as a prior action",
+  "The object is positioned on the left side"
  ],
- "inference": "Purification requires reciting mantras framed by praṇava at the beginning and namaḥ at the end.",
- "uncertainties": [],
- "plain_english": "One should recite mantras beginning with praṇava and ending with namaḥ for purification."
+ "inference": "At that time, one should hold the object standing on the left side with the left hand.",
+ "uncertainties": [
+  "The specific object being held is implied from context rather than named"
+ ],
+ "plain_english": "Then, holding it on the left side with the left hand."
 }

@@ -1,0 +1,513 @@
+{
+ "song": "mukta-m0-p244",
+ "items": [
+  {
+   "verse": 6076,
+   "rows": [
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "mantric limb",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiro",
+     "gloss": "head",
+     "grounds": "mantric limb; sandhi form of śiraḥ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "mantric limb",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor",
+     "grounds": "mantric limb",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantric limbs are enumerated in sequence for the ritual placement addressed to the goddess?",
+   "premises": [
+    "The heart is named as a limb.",
+    "The head is named as a limb.",
+    "The crest and armor are named thereafter."
+   ],
+   "inference": "The sequence begins the enumeration of bodily mantric limbs used in the rite.",
+   "uncertainties": [],
+   "plain_english": "O goddess, the heart, the head, the crest, and then the armor are named."
+  },
+  {
+   "verse": 6077,
+   "rows": [
+    {
+     "surface": "vaṣaṭ",
+     "gloss": "vaṣaṭ",
+     "grounds": "seed utterance; byte-exact mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃvauṣaḍantaṃ",
+     "gloss": "ending-with-huṃ-vauṣaṭ",
+     "grounds": "compound describing mantra endings",
+     "morph": "huṃ+vauṣaṭ+anta (compound, n.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaḍebhiḥ",
+     "gloss": "with-phaḍ-sounds",
+     "grounds": "instrumental plural of mantra syllable phaḍ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.opt.act (vi-ni-√as)"
+    }
+   ],
+   "question": "How should the mantra syllables vaṣaṭ, huṃ, vauṣaṭ, and phaḍ be ritually placed?",
+   "premises": [
+    "Vaṣaṭ is specified in the sequence.",
+    "An ending with huṃ and vauṣaṭ is specified.",
+    "Placement is to be done together with phaḍ sounds."
+   ],
+   "inference": "The practitioner should place these mantra syllables in the prescribed ritual arrangement.",
+   "uncertainties": [],
+   "plain_english": "One should place vaṣaṭ, the ending with huṃ and vauṣaṭ, together with the phaḍ sounds."
+  },
+  {
+   "verse": 6078,
+   "rows": [
+    {
+     "surface": "natyā",
+     "gloss": "with-obeisance",
+     "grounds": "ritual act or formula context",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "hutyā",
+     "gloss": "with-oblation",
+     "grounds": "ritual act or formula context",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṣaṭ",
+     "gloss": "vaṣaṭ",
+     "grounds": "seed utterance; byte-exact mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "seed utterance; byte-exact mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vauṣaṭ",
+     "gloss": "vauṣaṭ",
+     "grounds": "seed utterance; byte-exact mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaḍebhiraṅgakavidhiḥ",
+     "gloss": "limb-rite-with-phaḍ-sounds",
+     "grounds": "compound naming the rite of limbs with phaḍ",
+     "morph": "phaḍebhiḥ+aṅgaka+vidhiḥ (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What constitutes the limb-rite when obeisance, oblation, and the syllables vaṣaṭ, huṃ, vauṣaṭ, and phaḍ are employed?",
+   "premises": [
+    "Obeisance and oblation are included.",
+    "The syllables vaṣaṭ, huṃ, and vauṣaṭ are included.",
+    "The limb-rite is performed with phaḍ sounds."
+   ],
+   "inference": "The limb-rite is defined by combining these ritual acts and mantra syllables.",
+   "uncertainties": [
+    "The exact ritual functions of natyā and hutyā in this context are not fully explicit."
+   ],
+   "plain_english": "With obeisance and oblation, and with vaṣaṭ, huṃ, vauṣaṭ, and phaḍ, this is the rite of the limbs."
+  },
+  {
+   "verse": 6079,
+   "rows": [
+    {
+     "surface": "śikhāyai",
+     "gloss": "for-crest",
+     "grounds": "recipient mantric limb",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "vaṣaḍityuktaṃ",
+     "gloss": "vaṣaḍ-thus-said",
+     "grounds": "compound reporting prescribed utterance",
+     "morph": "vaṣaḍ+iti+ukta (compound, n.nom.sg)"
+    },
+    {
+     "surface": "kavacāya",
+     "gloss": "for-armor",
+     "grounds": "recipient mantric limb",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "humīritam",
+     "gloss": "hum-uttered",
+     "grounds": "compound reporting prescribed utterance",
+     "morph": "hum+īrita (compound, n.nom.sg)"
+    }
+   ],
+   "question": "Which mantra syllables are assigned respectively to the crest and to the armor?",
+   "premises": [
+    "Vaṣaḍ is said for the crest.",
+    "Hum is uttered for the armor.",
+    "Each syllable is assigned to a specific limb."
+   ],
+   "inference": "The crest receives vaṣaḍ and the armor receives hum in the prescribed assignment.",
+   "uncertainties": [],
+   "plain_english": "For the crest, vaṣaḍ is prescribed; for the armor, hum is uttered."
+  },
+  {
+   "verse": 6080,
+   "rows": [
+    {
+     "surface": "jātiṣaṭkam",
+     "gloss": "sixfold-class",
+     "grounds": "set of six mantra terminations",
+     "morph": "jāti+ṣaṭka (compound, n.nom.sg)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg (past participle, pra-√vac)"
+    },
+    {
+     "surface": "hṛdādyastrāntasaṅgatam",
+     "gloss": "connected-heart-to-weapon-end",
+     "grounds": "compound indicating range from heart to weapon",
+     "morph": "hṛd+ādi+astra+anta+saṅgata (compound, n.nom.sg)"
+    }
+   ],
+   "question": "What is the declared scope of the sixfold class of mantra terminations in the limb sequence?",
+   "premises": [
+    "A sixfold class is declared.",
+    "This class is explicitly identified as this set.",
+    "It is connected from the heart to the weapon."
+   ],
+   "inference": "The sixfold class of terminations applies across the limbs from heart through weapon.",
+   "uncertainties": [],
+   "plain_english": "This sixfold class is declared, connected from the heart up to the weapon."
+  },
+  {
+   "verse": 6081,
+   "rows": [
+    {
+     "surface": "khaḍgāya",
+     "gloss": "for-sword",
+     "grounds": "recipient in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "hṛdayāyeti",
+     "gloss": "for-heart-thus",
+     "grounds": "compound with quotative particle",
+     "morph": "hṛdayāya+iti (compound, indecl.)"
+    },
+    {
+     "surface": "namoyuktaṃ",
+     "gloss": "joined-with-namaḥ",
+     "grounds": "compound describing formula ending",
+     "morph": "namas+yukta (compound, n.nom.sg)"
+    },
+    {
+     "surface": "kanīyasī",
+     "gloss": "little-finger",
+     "grounds": "finger used in placement",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which finger and formula ending are prescribed for the sword and heart in this placement?",
+   "premises": [
+    "The formula is directed to the sword and to the heart.",
+    "The formula is joined with namaḥ.",
+    "The little finger is specified."
+   ],
+   "inference": "The little finger is used with the namaḥ-ending formula for the sword and heart.",
+   "uncertainties": [
+    "The precise syntactic pairing of khaḍgāya and hṛdayāya with the finger is somewhat compressed."
+   ],
+   "plain_english": "For the sword and for the heart, joined with namaḥ, the little finger is used."
+  },
+  {
+   "verse": 6082,
+   "rows": [
+    {
+     "surface": "sukhaḍgāya",
+     "gloss": "for-good-sword",
+     "grounds": "recipient in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācyaṃ",
+     "gloss": "to-be-spoken",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg (gerundive, √vac)"
+    },
+    {
+     "surface": "śirase",
+     "gloss": "for-head",
+     "grounds": "recipient mantric limb",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "sequence marker",
+     "morph": "tad+anantara (compound, n.acc.sg/adv.)"
+    }
+   ],
+   "question": "What formula element must be spoken next for the good sword and the head?",
+   "premises": [
+    "The good sword is named as a recipient.",
+    "The head is named as a recipient.",
+    "Something is to be spoken after that."
+   ],
+   "inference": "After the previous step, the practitioner must speak the formula for the good sword and the head.",
+   "uncertainties": [],
+   "plain_english": "Then, after that, one should speak for the good sword and for the head."
+  },
+  {
+   "verse": 6083,
+   "rows": [
+    {
+     "surface": "huṃkāraṃ",
+     "gloss": "huṃ-sound",
+     "grounds": "mantra syllable as object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "praṇavād",
+     "gloss": "from-praṇava",
+     "grounds": "source or sequence after om",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bindulāñchitamastakam",
+     "gloss": "head-marked-with-bindu",
+     "grounds": "compound describing huṃkāra with bindu",
+     "morph": "bindu+lāñchita+mastaka (compound, m.acc.sg)"
+    }
+   ],
+   "question": "How is the huṃ syllable characterized when placed in sequence after the praṇava?",
+   "premises": [
+    "The huṃ sound is specified.",
+    "It follows from the praṇava.",
+    "It is marked with a bindu at its head."
+   ],
+   "inference": "The prescribed huṃ syllable in this sequence is the form marked with a bindu after praṇava.",
+   "uncertainties": [],
+   "plain_english": "O goddess, the huṃ sound, coming after the praṇava, is marked at its head with a bindu."
+  },
+  {
+   "verse": 6084,
+   "rows": [
+    {
+     "surface": "vaṣaḍantaṃ",
+     "gloss": "ending-with-vaṣaḍ",
+     "grounds": "compound describing mantra ending",
+     "morph": "vaṣaḍ+anta (compound, m.acc.sg)"
+    },
+    {
+     "surface": "pravinyasyet",
+     "gloss": "one-should-place-forth",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.opt.act (pra-vi-ni-√as)"
+    },
+    {
+     "surface": "madhyamāmadhyamāṃgulau",
+     "gloss": "on-middle-middle-finger",
+     "grounds": "location of placement; repeated term for emphasis",
+     "morph": "madhyamā+madhyamā+aṅguli (compound, f.loc.sg)"
+    }
+   ],
+   "question": "Where should the mantra ending with vaṣaḍ be properly placed during the rite?",
+   "premises": [
+    "A mantra ending with vaṣaḍ is specified.",
+    "It must be properly placed.",
+    "The location is the middle finger."
+   ],
+   "inference": "The vaṣaḍ-ending mantra should be placed on the middle finger.",
+   "uncertainties": [
+    "The repetition in madhyamāmadhyamāṃgulau may emphasize the middle finger but is morphologically compressed."
+   ],
+   "plain_english": "One should properly place the mantra ending with vaṣaḍ on the middle finger."
+  },
+  {
+   "verse": 6085,
+   "rows": [
+    {
+     "surface": "kavacāya",
+     "gloss": "for-armor",
+     "grounds": "recipient mantric limb",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "humityetat",
+     "gloss": "hum-thus-this",
+     "grounds": "compound reporting prescribed utterance",
+     "morph": "hum+iti+etat (compound, n.nom.sg)"
+    },
+    {
+     "surface": "tarjanyām",
+     "gloss": "on-index-finger",
+     "grounds": "location of placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "apyanāmayā",
+     "gloss": "also-with-unimpaired",
+     "grounds": "qualifying condition of the finger or act",
+     "morph": "api+anāmaya (compound, f.inst.sg)"
+    }
+   ],
+   "question": "On which finger is the syllable hum for the armor to be placed, and with what condition?",
+   "premises": [
+    "Hum is prescribed for the armor.",
+    "The index finger is specified as the location.",
+    "The placement is associated with being unimpaired."
+   ],
+   "inference": "The syllable hum for the armor is placed on the unimpaired index finger.",
+   "uncertainties": [
+    "The exact referent of apyanāmayā (finger or practitioner) is not fully explicit."
+   ],
+   "plain_english": "For the armor, this syllable hum is placed on the index finger, also with it unimpaired."
+  },
+  {
+   "verse": 6086,
+   "rows": [
+    {
+     "surface": "astrarakṣayamāye",
+     "gloss": "for-weapon-protection",
+     "grounds": "purpose or recipient in ritual formula",
+     "morph": "astra+rakṣā (compound, f.dat.sg)"
+    },
+    {
+     "surface": "cāpyastrāya",
+     "gloss": "and-also-for-weapon",
+     "grounds": "additional recipient in ritual formula",
+     "morph": "ca+api+astrāya (compound, n.dat.sg)"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "sequence marker",
+     "morph": "tad+anantara (compound, n.acc.sg/adv.)"
+    }
+   ],
+   "question": "What ritual applications follow next for weapon protection and for the weapon itself?",
+   "premises": [
+    "Weapon protection is named as a purpose.",
+    "The weapon itself is also named.",
+    "The instruction applies after the previous step."
+   ],
+   "inference": "After the preceding placement, the rite continues for weapon protection and for the weapon.",
+   "uncertainties": [
+    "The token astrarakṣayamāye appears compressed; the intended form may relate to astrarakṣāyai."
+   ],
+   "plain_english": "After that, also for weapon protection and for the weapon."
+  },
+  {
+   "verse": 6087,
+   "rows": [
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "textual or doctrinal locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṣṭādaśaḥ",
+     "gloss": "eighteenth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvāsaḥ",
+     "gloss": "breath",
+     "grounds": "section or chapter marker in this text",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which numbered section of the tantra is marked at this point in the transmission?",
+   "premises": [
+    "The locus is the tantra.",
+    "An ordinal number is given as eighteenth.",
+    "The term breath marks the section."
+   ],
+   "inference": "This point marks the eighteenth breath-section within the tantra.",
+   "uncertainties": [],
+   "plain_english": "In the tantra, this is the eighteenth breath."
+  }
+ ]
+}

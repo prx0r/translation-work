@@ -1,0 +1,603 @@
+{
+ "song": "mukta-m0-p242",
+ "items": [
+  {
+   "verse": 6026,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "points to the ritual place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upaviśya",
+     "gloss": "having-sat",
+     "grounds": "prior action before remembrance",
+     "morph": "gerund, root viś"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "manner of sitting",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "prescribed mental act",
+     "morph": "3.sg.optative-active, root smṛ"
+    },
+    {
+     "surface": "viṣṇuguru",
+     "gloss": "vishnu-guru",
+     "grounds": "object of remembrance",
+     "morph": "m.acc.sg, compound"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "manner of remembrance",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What mental act should the practitioner perform after sitting properly in that place?",
+   "premises": [
+    "The practitioner sits there according to rule",
+    "The practitioner should remember vishnu-guru",
+    "The remembrance should be done with joy"
+   ],
+   "inference": "Proper seated posture in that place is followed by joyful remembrance of vishnu-guru",
+   "uncertainties": [
+    "The identity of viṣṇuguru is not specified in this verse"
+   ],
+   "plain_english": "Having sat there properly, one should joyfully remember Vishnu-guru."
+  },
+  {
+   "verse": 6027,
+   "rows": [
+    {
+     "surface": "pṛthivī",
+     "gloss": "earth",
+     "grounds": "named as the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "status assigned to earth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "traditional designation",
+     "morph": "f.nom.sg.past-passive-participle, root vac"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual assignment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nijāsane",
+     "gloss": "on-own-seat",
+     "grounds": "locus of the application",
+     "morph": "n.loc.sg, compound"
+    }
+   ],
+   "question": "Which deity and ritual application are assigned to one's own seat?",
+   "premises": [
+    "Earth is declared the deity",
+    "There is a ritual application on one's own seat",
+    "The declaration concerns that seat"
+   ],
+   "inference": "The seat is ritually identified with the earth as its presiding deity",
+   "uncertainties": [],
+   "plain_english": "Earth is declared the deity, and this is the application for one's own seat."
+  },
+  {
+   "verse": 6028,
+   "rows": [
+    {
+     "surface": "dūrgāṃ",
+     "gloss": "durga",
+     "grounds": "deity to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṣetrapatim",
+     "gloss": "lord-of-field",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects objects of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds emphasis or inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnyādiṣu",
+     "gloss": "in-fire-etc",
+     "grounds": "directions or locations for worship",
+     "morph": "m.loc.pl, compound"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "prescribed ritual act",
+     "morph": "3.sg.optative-active, root arc"
+    }
+   ],
+   "question": "Which deities should be worshipped in the fire and other directions?",
+   "premises": [
+    "Durga is to be worshipped",
+    "The lord of the field is to be worshipped",
+    "The worship takes place in fire and other locations"
+   ],
+   "inference": "Durga and the lord of the field are to be worshipped in the fire direction and others",
+   "uncertainties": [
+    "The full set implied by vahnyādiṣu is not specified"
+   ],
+   "plain_english": "One should worship Durga and the lord of the field in the fire direction and the others."
+  },
+  {
+   "verse": 6029,
+   "rows": [
+    {
+     "surface": "svastikāsanam",
+     "gloss": "svastika-seat",
+     "grounds": "one possible posture",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "āsīnaḥ",
+     "gloss": "seated",
+     "grounds": "state of the practitioner",
+     "morph": "m.nom.sg.present-middle-participle, root ās"
+    },
+    {
+     "surface": "padmāsanam",
+     "gloss": "lotus-seat",
+     "grounds": "alternative posture",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-else",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative seated postures are permitted for the practitioner during the rite?",
+   "premises": [
+    "The practitioner may be seated in svastika posture",
+    "The practitioner may alternatively be seated in lotus posture",
+    "The verse presents these as options"
+   ],
+   "inference": "Either svastika-seat or lotus-seat is acceptable for the seated practitioner",
+   "uncertainties": [],
+   "plain_english": "One may be seated in the svastika posture or else in the lotus posture."
+  },
+  {
+   "verse": 6030,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-causative-active, root sthā"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "side specification",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "side",
+     "grounds": "location of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "purpose of materials",
+     "morph": "f.stem, compound-member"
+    },
+    {
+     "surface": "dravyāṇi",
+     "gloss": "materials",
+     "grounds": "objects to be placed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "reference point for right side",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Where should the practitioner place the worship materials relative to the body?",
+   "premises": [
+    "Worship materials are to be placed",
+    "The placement is on the right side",
+    "The right side is that of oneself"
+   ],
+   "inference": "The worship materials should be placed on the practitioner's own right side",
+   "uncertainties": [],
+   "plain_english": "One should place the worship materials on one's own right side."
+  },
+  {
+   "verse": 6031,
+   "rows": [
+    {
+     "surface": "prakṣālanāya",
+     "gloss": "for-washing",
+     "grounds": "purpose of the vessel",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "karayoḥ",
+     "gloss": "of-hands",
+     "grounds": "objects to be washed",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "pātram",
+     "gloss": "vessel",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "behind",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "should-place",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-causative-active, root dhā"
+    }
+   ],
+   "question": "Where should the vessel for washing the hands be placed?",
+   "premises": [
+    "A vessel is intended for washing the hands",
+    "The vessel must be placed somewhere",
+    "The specified location is behind"
+   ],
+   "inference": "The hand-washing vessel should be placed behind the practitioner",
+   "uncertainties": [
+    "The exact reference point for pṛṣṭhe is not explicit"
+   ],
+   "plain_english": "One should place the vessel for washing the hands behind."
+  },
+  {
+   "verse": 6032,
+   "rows": [
+    {
+     "surface": "darpaṇaṃ",
+     "gloss": "mirror",
+     "grounds": "ritual item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amaraṃ",
+     "gloss": "chowrie",
+     "grounds": "ritual item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "chatraṃ",
+     "gloss": "umbrella",
+     "grounds": "ritual item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tālavṛntaṃ",
+     "gloss": "palm-leaf-fan",
+     "grounds": "ritual item",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāduke",
+     "gloss": "sandals",
+     "grounds": "ritual item",
+     "morph": "f.acc.dual"
+    }
+   ],
+   "question": "Which additional ritual implements are listed for placement in the worship setup?",
+   "premises": [
+    "A mirror is included among the items",
+    "A chowrie, umbrella, and palm-leaf fan are included",
+    "A pair of sandals is included"
+   ],
+   "inference": "The setup includes mirror, chowrie, umbrella, palm-leaf fan, and sandals",
+   "uncertainties": [
+    "The placement location of these items is not stated in this verse"
+   ],
+   "plain_english": "A mirror, a chowrie, an umbrella, a palm-leaf fan, and a pair of sandals."
+  },
+  {
+   "verse": 6033,
+   "rows": [
+    {
+     "surface": "nārācamudrayā",
+     "gloss": "with-naraca-seal",
+     "grounds": "ritual gesture used",
+     "morph": "f.inst.sg, compound"
+    },
+    {
+     "surface": "dṛṣṭyā",
+     "gloss": "with-gaze",
+     "grounds": "mode of looking",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "samayā",
+     "gloss": "with-consecrated",
+     "grounds": "qualifies the gaze",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilokayet",
+     "gloss": "should-look",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-causative-active, root lok"
+    }
+   ],
+   "question": "By what gesture and gaze should the practitioner inspect the ritual items?",
+   "premises": [
+    "The naraca seal is to be used",
+    "A consecrated gaze is to be used",
+    "The practitioner should look with these means"
+   ],
+   "inference": "The ritual items should be inspected using the naraca seal and a consecrated gaze",
+   "uncertainties": [
+    "The exact form of nārācamudrā and samayā dṛṣṭi is not defined here"
+   ],
+   "plain_english": "One should look with the naraca seal and with the consecrated gaze."
+  },
+  {
+   "verse": 6034,
+   "rows": [
+    {
+     "surface": "aspṛśyasparśanaṃ",
+     "gloss": "untouchable-touching",
+     "grounds": "type of impurity or fault",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yad",
+     "gloss": "whatever",
+     "grounds": "refers to any such thing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyāyā",
+     "gloss": "unjustly",
+     "grounds": "manner of acquisition",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "arjitaṃ",
+     "gloss": "acquired",
+     "grounds": "fault in acquisition",
+     "morph": "n.nom.sg.past-passive-participle, root arj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of faults in the ritual materials are contemplated before purification?",
+   "premises": [
+    "Contact with the untouchable may have occurred",
+    "Materials may have been acquired unjustly",
+    "These are presented as possible faults"
+   ],
+   "inference": "The materials may be tainted by untouchable contact or unjust acquisition",
+   "uncertainties": [],
+   "plain_english": "Whether there was contact with the untouchable, or whatever was acquired unjustly."
+  },
+  {
+   "verse": 6035,
+   "rows": [
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "all-that",
+     "grounds": "refers to faults mentioned before",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "nāśam",
+     "gloss": "destruction",
+     "grounds": "result for the faults",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "goes-to",
+     "grounds": "undergoes destruction",
+     "morph": "3.sg.present-active, root yā"
+    },
+    {
+     "surface": "naivedyādyavalokanāt",
+     "gloss": "from-seeing-offerings-etc",
+     "grounds": "cause of purification",
+     "morph": "n.abl.sg, compound"
+    }
+   ],
+   "question": "What effect does looking at the offerings have on previously mentioned faults?",
+   "premises": [
+    "All those faults are under consideration",
+    "The offerings and related items are looked at",
+    "The faults go to destruction"
+   ],
+   "inference": "Looking at the offerings and related items destroys all those faults",
+   "uncertainties": [
+    "The full scope of ādi in naivedyādi is not specified"
+   ],
+   "plain_english": "All of that is destroyed by looking at the food offerings and the rest."
+  },
+  {
+   "verse": 6036,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "it",
+     "grounds": "refers to the purified material",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active, root as"
+    },
+    {
+     "surface": "śubhado",
+     "gloss": "giving-auspiciousness",
+     "grounds": "positive quality",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkravyādaḥ",
+     "gloss": "free-from-flesh-eating",
+     "grounds": "purified quality",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "sukhapradaḥ",
+     "gloss": "giving-happiness",
+     "grounds": "beneficial quality",
+     "morph": "m.nom.sg, compound"
+    }
+   ],
+   "question": "What beneficial qualities does the material acquire after the purifying gaze?",
+   "premises": [
+    "The material becomes auspicious",
+    "The material becomes free from flesh-eating impurity",
+    "The material becomes a giver of happiness"
+   ],
+   "inference": "After purification by gaze, the material becomes auspicious, pure, and happiness-giving",
+   "uncertainties": [
+    "The precise ritual sense of niṣkravyādaḥ is context-dependent"
+   ],
+   "plain_english": "It indeed becomes auspicious, free from flesh-eating impurity, and a giver of happiness."
+  },
+  {
+   "verse": 6037,
+   "rows": [
+    {
+     "surface": "vasāmajjādisambhūtaiḥ",
+     "gloss": "arising-from-fat-marrow-etc",
+     "grounds": "describes problematic substances",
+     "morph": "m.inst.pl, compound"
+    },
+    {
+     "surface": "yajñādāv",
+     "gloss": "in-sacrifice-etc",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "upayojane",
+     "gloss": "in-use",
+     "grounds": "context of application",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what ritual context are substances arising from fat and marrow considered for use?",
+   "premises": [
+    "Substances arising from fat, marrow, and similar things are mentioned",
+    "Their use is considered in sacrifice and similar rites",
+    "The verse specifies a context of application"
+   ],
+   "inference": "The verse addresses the use of fat-marrow-derived substances in sacrifice and related contexts",
+   "uncertainties": [
+    "The sentence is elliptical and its full predicate may continue beyond this verse"
+   ],
+   "plain_english": "In the use, in sacrifice and the like, of things arising from fat, marrow, and so on."
+  }
+ ]
+}

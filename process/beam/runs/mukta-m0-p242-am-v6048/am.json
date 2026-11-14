@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p242",
  "verse": 6048,
- "question": "What is the designation of the arrangement having only one enclosure?",
+ "question": "Which bodily parts become excellently pure through rubbing and smelling respectively?",
  "premises": [
-  "The arrangement is joined with one enclosure.",
-  "It is designated as the lowest."
+  "Rubbing is linked to the back of the hand",
+  "Smelling is linked to the tip of the nose",
+  "The resulting state is described as excellent"
  ],
- "inference": "A configuration with a single enclosure is declared to be the lowest type.",
- "uncertainties": [],
- "plain_english": "Joined with one enclosure, it is declared to be the lowest."
+ "inference": "Rubbing purifies the back of the hand and smelling purifies the tip of the nose excellently.",
+ "uncertainties": [
+  "The verb of becoming is implied rather than explicitly stated"
+ ],
+ "plain_english": "From rubbing, the back of the hand becomes pure; from smelling, the tip of the nose becomes excellently pure."
 }

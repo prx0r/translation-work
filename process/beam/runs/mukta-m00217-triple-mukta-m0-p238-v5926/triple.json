@@ -1,0 +1,1157 @@
+{
+ "song": "mukta-m0-p238",
+ "items": [
+  {
+   "verse": 5926,
+   "rows": [
+    {
+     "surface": "prabhāsādiṣu",
+     "gloss": "in-prabhasa-and-others",
+     "grounds": "loc.pl. of compound/list starting at Prabhāsa; legacy hint prabhasa-etc.",
+     "morph": "loc.pl.neut"
+    },
+    {
+     "surface": "tīrtheṣu",
+     "gloss": "in-sacred-fords",
+     "grounds": "loc.pl. of tīrtha; legacy hint tirtha-loc.",
+     "morph": "loc.pl.neut"
+    },
+    {
+     "surface": "yatphalaṃ",
+     "gloss": "which-fruit",
+     "grounds": "nom.sg.neut of relative compound yat+phala; legacy hint which-fruit.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "snātakasya",
+     "gloss": "of-bather",
+     "grounds": "gen.sg. of snātaka; legacy hint bather-gen.",
+     "morph": "gen.sg.masc"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle; legacy hint but.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit is said to belong to a bather at Prabhāsa and other sacred fords?",
+   "premises": [
+    "Sacred fords named include Prabhāsa and others.",
+    "A bather there is described as snātaka.",
+    "A stated fruit is attributed to that bather."
+   ],
+   "inference": "The verse points to a particular fruit accruing to one who bathes at Prabhāsa and similar tīrthas.",
+   "uncertainties": [
+    "Exact identity of all places in prabhāsādi is not expanded here."
+   ],
+   "plain_english": "In Prabhāsa and other sacred fords, the fruit that belongs to a bather is declared."
+  },
+  {
+   "verse": 5927,
+   "rows": [
+    {
+     "surface": "dhyānasnānam",
+     "gloss": "meditation-bath",
+     "grounds": "nom/acc.sg.neut compound dhyāna+snāna; legacy hint meditation-bath.",
+     "morph": "compound=dhyāna+snāna"
+    },
+    {
+     "surface": "atho",
+     "gloss": "then",
+     "grounds": "indeclinable; legacy hint then.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "i-will-speak",
+     "grounds": "1.sg. future middle of vac; legacy hint i-will-speak.",
+     "morph": "1.sg.parasmai-future"
+    },
+    {
+     "surface": "dvābhyām",
+     "gloss": "by-two",
+     "grounds": "inst.du. of dvi; legacy hint two-by-both.",
+     "morph": "inst.du.masc"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable; legacy hint api.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "acc.sg.neut of para; legacy hint supreme.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable; legacy hint and.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "nom/acc.sg.neut relative pronoun; legacy hint which.",
+     "morph": "nom.sg.neut"
+    }
+   ],
+   "question": "What kind of meditation-bath is the speaker about to declare as supreme?",
+   "premises": [
+    "The speaker announces a teaching about dhyānasnāna.",
+    "The teaching is said to be supreme.",
+    "The statement is introduced by then and also."
+   ],
+   "inference": "The verse introduces a supreme meditation-bath that will be explained next.",
+   "uncertainties": [
+    "The referent of dvābhyām is not explicit from this verse alone."
+   ],
+   "plain_english": "Then I will speak of the meditation-bath, which is also supreme."
+  },
+  {
+   "verse": 5928,
+   "rows": [
+    {
+     "surface": "tatpādodakajāṃ",
+     "gloss": "from-that-foot-water-born",
+     "grounds": "acc.sg.fem compound tat+pāda+udaka+ja; legacy hint that-foot-water-stream.",
+     "morph": "compound=tat+pāda+udaka+ja"
+    },
+    {
+     "surface": "dhārāṃ",
+     "gloss": "stream",
+     "grounds": "acc.sg.fem of dhārā; legacy hint dharā.",
+     "morph": "acc.sg.fem"
+    },
+    {
+     "surface": "nipatantīṃ",
+     "gloss": "falling",
+     "grounds": "acc.sg.fem pres.part. of ni-pat; legacy hint falling.",
+     "morph": "acc.sg.fem"
+    },
+    {
+     "surface": "svamūrdhani",
+     "gloss": "on-own-head",
+     "grounds": "loc.sg. compound sva+mūrdhan; legacy hint own-head.",
+     "morph": "compound=sva+mūrdhan"
+    }
+   ],
+   "question": "What stream born from that foot-water is described as falling on one’s own head?",
+   "premises": [
+    "A stream is said to arise from that foot-water.",
+    "That stream is falling.",
+    "It falls upon one’s own head."
+   ],
+   "inference": "The verse describes a stream from that foot-water descending onto one’s own head.",
+   "uncertainties": [
+    "The antecedent of tat is supplied by prior context."
+   ],
+   "plain_english": "A stream born from that foot-water, falling upon one’s own head."
+  },
+  {
+   "verse": 5929,
+   "rows": [
+    {
+     "surface": "tayā",
+     "gloss": "by-that",
+     "grounds": "inst.sg.fem of tad; legacy hint by-that.",
+     "morph": "inst.sg.fem"
+    },
+    {
+     "surface": "saṃkṣālayet",
+     "gloss": "one-should-wash",
+     "grounds": "3.sg. optative of saṃ-kṣālay; legacy hint one-should-wash.",
+     "morph": "3.sg.parasmai-optative"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "acc.sg.neut of sarva; legacy hint all.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "antardehagataṃ",
+     "gloss": "gone-into-inner-body",
+     "grounds": "acc.sg.neut compound antar+deha+gata; legacy hint inner-body.",
+     "morph": "compound=antar+deha+gata"
+    },
+    {
+     "surface": "malam",
+     "gloss": "impurity",
+     "grounds": "acc.sg.masc of mala; legacy hint impurity.",
+     "morph": "acc.sg.masc"
+    }
+   ],
+   "question": "By what means should all impurity gone into the inner body be washed away?",
+   "premises": [
+    "An instrument is indicated by by-that.",
+    "One should wash all impurity.",
+    "That impurity is said to be gone into the inner body."
+   ],
+   "inference": "By that stream one should wash away all impurity located within the body.",
+   "uncertainties": [
+    "The exact referent of tayā depends on verse 5928."
+   ],
+   "plain_english": "By that one should wash away all impurity that has gone into the inner body."
+  },
+  {
+   "verse": 5930,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "nom.sg.neut of idam; legacy hint this.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "nom.sg.neut of snāna; legacy hint bath.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "best",
+     "grounds": "nom.sg.neut of vara; legacy hint best.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "mantrāt",
+     "gloss": "than-mantra",
+     "grounds": "abl.sg. of mantra; legacy hint mantra-than.",
+     "morph": "abl.sg.masc"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "nom.sg.neut of snāna; legacy hint bath.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "śataguṇaṃ",
+     "gloss": "hundred-fold",
+     "grounds": "nom.sg.neut compound śata+guṇa; legacy hint hundred-fold.",
+     "morph": "compound=śata+guṇa"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "nom.sg.neut past participle of smṛ; legacy hint remembered.",
+     "morph": "nom.sg.neut"
+    }
+   ],
+   "question": "How is this bath declared in comparison to a mantra-bath in traditional remembrance?",
+   "premises": [
+    "This bath is called best.",
+    "It is said to be better than a mantra-bath.",
+    "That bath is remembered as hundred-fold."
+   ],
+   "inference": "This bath is declared best and remembered as a hundred-fold bath compared to the mantra-bath.",
+   "uncertainties": [
+    "The precise ritual identity of mantra-bath is context-dependent."
+   ],
+   "plain_english": "This bath is best; a bath by mantra is remembered as a hundredfold bath."
+  },
+  {
+   "verse": 5931,
+   "rows": [
+    {
+     "surface": "snānapūrvāḥ",
+     "gloss": "having-bath-before",
+     "grounds": "nom.pl.fem compound snāna+pūrva; legacy hint bath-before.",
+     "morph": "compound=snāna+pūrva"
+    },
+    {
+     "surface": "kriyāḥ",
+     "gloss": "rites",
+     "grounds": "nom.pl.fem of kriyā; legacy hint rites.",
+     "morph": "nom.pl.fem"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "nom.pl.fem of sarva; legacy hint all.",
+     "morph": "nom.pl.fem"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "indeclinable/conjunctive; legacy hint because.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabhyāstu",
+     "gloss": "let-them-be-with-assembly",
+     "grounds": "3.pl. imperative of as with sabhya? legacy hint assembly-with; form reads sabhyāḥ+astu in sandhi context.",
+     "morph": "3.pl.parasmai-imperative"
+    },
+    {
+     "surface": "nārada",
+     "gloss": "o-narada",
+     "grounds": "voc.sg. of Nārada; legacy hint narada.",
+     "morph": "voc.sg.masc"
+    }
+   ],
+   "question": "Why are all rites said to be performed with bathing first, addressed to Nārada?",
+   "premises": [
+    "All rites are said to have bathing before them.",
+    "This is stated as a reason.",
+    "The address is made to Nārada."
+   ],
+   "inference": "Because all rites are preceded by bathing, they are to be undertaken accordingly, O Nārada.",
+   "uncertainties": [
+    "Exact parsing of sabhyāstu is uncertain from surface alone."
+   ],
+   "plain_english": "O Nārada, all rites are preceded by bathing; therefore let them be so."
+  },
+  {
+   "verse": 5932,
+   "rows": [
+    {
+     "surface": "kūrvīta",
+     "gloss": "one-should-do",
+     "grounds": "3.sg. optative of kṛ (variant form); legacy hint one-should-do.",
+     "morph": "3.sg.parasmai-optative"
+    },
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "acc.sg.neut of mānasa; legacy hint mental.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "acc.sg.neut of snāna; legacy hint bath.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable; legacy hint everywhere.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vihitaṃ",
+     "gloss": "prescribed",
+     "grounds": "nom.sg.neut past participle of vi-dhā; legacy hint prescribed.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable; legacy hint and.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "nom.sg.neut relative pronoun; legacy hint which.",
+     "morph": "nom.sg.neut"
+    }
+   ],
+   "question": "What mental bath is prescribed to be performed everywhere according to this instruction?",
+   "premises": [
+    "One should perform a mental bath.",
+    "It is prescribed everywhere.",
+    "A relative clause points to which bath is meant."
+   ],
+   "inference": "One should perform the mental bath that is prescribed everywhere.",
+   "uncertainties": [
+    "The full scope of yat is clarified in following context."
+   ],
+   "plain_english": "One should perform the mental bath which is prescribed everywhere."
+  },
+  {
+   "verse": 5933,
+   "rows": [
+    {
+     "surface": "tadabhāvādadhaḥ",
+     "gloss": "from-absence-of-that-below",
+     "grounds": "abl.sg. compound tad+abhāva+adhaḥ; legacy hint that-absence-from.",
+     "morph": "compound=tad+abhāva+adhaḥ"
+    },
+    {
+     "surface": "śāṭīyogapaṭṭakasaṃyutam",
+     "gloss": "joined-with-cloth-yoga-band",
+     "grounds": "acc.sg.neut compound śāṭī+yoga+paṭṭaka+saṃyuta; legacy hint cloth-yoga.",
+     "morph": "compound=śāṭī+yoga+paṭṭaka+saṃyuta"
+    }
+   ],
+   "question": "In the absence of that, what is described as joined with a cloth-yoga band worn below?",
+   "premises": [
+    "A condition of absence of that is stated.",
+    "Something joined with a cloth-yoga band is mentioned.",
+    "The placement is indicated as below."
+   ],
+   "inference": "When that is absent, one uses what is joined with a cloth-yoga band below.",
+   "uncertainties": [
+    "The referent of tad and the exact object are unclear without wider context."
+   ],
+   "plain_english": "If that is absent, then one is joined with a cloth-yoga band below."
+  },
+  {
+   "verse": 5934,
+   "rows": [
+    {
+     "surface": "paridhāya",
+     "gloss": "having-worn",
+     "grounds": "gerund of pari-dhā; legacy hint wear.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarīyaṃ",
+     "gloss": "upper-garment",
+     "grounds": "acc.sg.neut of uttarīya; legacy hint upper-garment.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable; legacy hint and.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation; legacy hint not.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "3.sg. optative of kṛ; legacy hint should-do.",
+     "morph": "3.sg.parasmai-optative"
+    },
+    {
+     "surface": "keśadhūnanam",
+     "gloss": "hair-shaking",
+     "grounds": "acc.sg.neut compound keśa+dhūnana; legacy hint hair-shaking.",
+     "morph": "compound=keśa+dhūnana"
+    }
+   ],
+   "question": "After wearing an upper garment, what action is forbidden regarding the hair?",
+   "premises": [
+    "One has worn an upper garment.",
+    "A prohibition is stated.",
+    "Hair-shaking is the forbidden action."
+   ],
+   "inference": "Having worn the upper garment, one should not do hair-shaking.",
+   "uncertainties": [
+    "Ritual details of keśadhūnana are not specified here."
+   ],
+   "plain_english": "Having worn the upper garment, one should not shake the hair."
+  },
+  {
+   "verse": 5935,
+   "rows": [
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "upward",
+     "grounds": "indeclinable/adverbial; legacy hint upward.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "3.sg. optative of tyaj; legacy hint abandon.",
+     "morph": "3.sg.parasmai-optative"
+    },
+    {
+     "surface": "snānavastraṃ",
+     "gloss": "bath-cloth",
+     "grounds": "acc.sg.neut compound snāna+vastra; legacy hint bath-cloth.",
+     "morph": "compound=snāna+vastra"
+    },
+    {
+     "surface": "gṛhasnāto",
+     "gloss": "house-bather",
+     "grounds": "nom.sg.masc compound gṛha+snāta (voc/nom form in context); legacy hint house-bather.",
+     "morph": "compound=gṛha+snāta"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "indeclinable; legacy hint when.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "3.sg. optative of bhū; legacy hint becomes.",
+     "morph": "3.sg.parasmai-optative"
+    }
+   ],
+   "question": "When does a house-bather abandon the bath-cloth upward according to this rule?",
+   "premises": [
+    "The bath-cloth is to be abandoned upward.",
+    "This applies to a house-bather.",
+    "A temporal condition is given by when."
+   ],
+   "inference": "A house-bather should abandon the bath-cloth upward at the stated time.",
+   "uncertainties": [
+    "The exact time condition is only indicated by yadā here."
+   ],
+   "plain_english": "When one becomes a house-bather, one should abandon the bath-cloth upward."
+  },
+  {
+   "verse": 5936,
+   "rows": [
+    {
+     "surface": "niṣpīḍya",
+     "gloss": "having-squeezed",
+     "grounds": "gerund of niṣ-pīḍ; legacy hint squeezing.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānavastraṃ",
+     "gloss": "bath-cloth",
+     "grounds": "acc.sg.neut compound snāna+vastra; legacy hint bath-cloth.",
+     "morph": "compound=snāna+vastra"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable; legacy hint tu.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prātaḥsandhyāṃ",
+     "gloss": "morning-twilight",
+     "grounds": "acc.sg.fem compound prātaḥ+sandhyā; legacy hint morning-sandhya.",
+     "morph": "compound=prātaḥ+sandhyā"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "3.sg. optative of sam-ā-car; legacy hint should-perform.",
+     "morph": "3.sg.parasmai-optative"
+    }
+   ],
+   "question": "After squeezing the bath-cloth, what should be performed at morning twilight?",
+   "premises": [
+    "The bath-cloth is to be squeezed.",
+    "Morning twilight is named.",
+    "One should perform that observance."
+   ],
+   "inference": "Having squeezed the bath-cloth, one should perform the morning twilight observance.",
+   "uncertainties": [
+    "The full content of prātaḥsandhyā is not detailed here."
+   ],
+   "plain_english": "Having squeezed the bath-cloth, one should perform the morning twilight rite."
+  },
+  {
+   "verse": 5937,
+   "rows": [
+    {
+     "surface": "vaiśyapuṇḍram",
+     "gloss": "vaisya-tilaka",
+     "grounds": "acc.sg.neut compound vaiśya+puṇḍra; legacy hint vaisya-tilaka.",
+     "morph": "compound=vaiśya+puṇḍra"
+    },
+    {
+     "surface": "ardhacandraṃ",
+     "gloss": "half-moon",
+     "grounds": "acc.sg.masc compound ardha+candra; legacy hint half-moon.",
+     "morph": "compound=ardha+candra"
+    },
+    {
+     "surface": "śūdrāṇāṃ",
+     "gloss": "of-shudras",
+     "grounds": "gen.pl. of śūdra; legacy hint shudra-of.",
+     "morph": "gen.pl.masc"
+    },
+    {
+     "surface": "vartulākṛti",
+     "gloss": "round-shape",
+     "grounds": "nom.sg.fem compound vartula+ākṛti; legacy hint round-shape.",
+     "morph": "compound=vartula+ākṛti"
+    }
+   ],
+   "question": "What tilaka form is prescribed for Vaiśyas and what shape is prescribed for Śūdras?",
+   "premises": [
+    "Vaiśya tilaka is named as half-moon.",
+    "For Śūdras a round shape is named.",
+    "These are marks/forms prescribed by class."
+   ],
+   "inference": "Vaiśyas have a half-moon tilaka and Śūdras have a round-shaped mark.",
+   "uncertainties": [
+    "Whether these are exact names of marks depends on tradition."
+   ],
+   "plain_english": "The Vaiśya tilaka is a half-moon; for Śūdras it is of round shape."
+  },
+  {
+   "verse": 5938,
+   "rows": [
+    {
+     "surface": "dhārayet",
+     "gloss": "should-wear",
+     "grounds": "3.sg. optative of dhṛ; legacy hint should-wear.",
+     "morph": "3.sg.parasmai-optative"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable; legacy hint always.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "acc.sg.neut of śūla; legacy hint trident.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "loc.sg. of lalāṭa; legacy hint forehead.",
+     "morph": "loc.sg.neut"
+    },
+    {
+     "surface": "gandhavāribhiḥ",
+     "gloss": "with-scented-water",
+     "grounds": "inst.pl. compound gandha+vāri; legacy hint scented-water.",
+     "morph": "compound=gandha+vāri"
+    }
+   ],
+   "question": "What mark should be worn always on the forehead with scented water?",
+   "premises": [
+    "One should wear a trident mark.",
+    "It is to be worn always on the forehead.",
+    "It is applied with scented water."
+   ],
+   "inference": "One should always wear a trident on the forehead with scented water.",
+   "uncertainties": [
+    "Material/form of śūla mark is not detailed."
+   ],
+   "plain_english": "One should always wear a trident on the forehead with scented water."
+  },
+  {
+   "verse": 5939,
+   "rows": [
+    {
+     "surface": "dhṛtaṃ",
+     "gloss": "worn",
+     "grounds": "nom.sg.neut past participle of dhṛ; legacy hint worn.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "tacchūladharaṇād",
+     "gloss": "from-that-trident-wearing",
+     "grounds": "abl.sg. compound tat+śūla+dharaṇa; legacy hint that-trident-wearing-from.",
+     "morph": "compound=tat+śūla+dharaṇa"
+    },
+    {
+     "surface": "bhavatyeva",
+     "gloss": "becomes-indeed",
+     "grounds": "3.sg. present of bhū + eva; legacy hint becomes.",
+     "morph": "3.sg.parasmai-present"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation; legacy hint not.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nom.sg.masc of saṃśaya; legacy hint doubt.",
+     "morph": "nom.sg.masc"
+    }
+   ],
+   "question": "What is the assured result stated to follow from wearing that trident mark?",
+   "premises": [
+    "That trident is worn.",
+    "A result follows from that wearing.",
+    "No doubt is said to remain."
+   ],
+   "inference": "From wearing that trident mark it indeed becomes so; there is no doubt.",
+   "uncertainties": [
+    "The stated result is implied but not spelled out in this verse alone."
+   ],
+   "plain_english": "When that trident is worn, it surely becomes so; there is no doubt."
+  },
+  {
+   "verse": 5940,
+   "rows": [
+    {
+     "surface": "bhakṣaṇāt",
+     "gloss": "from-eating",
+     "grounds": "abl.sg. of bhakṣaṇa; legacy hint eating.",
+     "morph": "abl.sg.neut"
+    },
+    {
+     "surface": "sarvapāpānāṃ",
+     "gloss": "of-all-sins",
+     "grounds": "gen.pl. compound sarva+pāpa; legacy hint all-sins.",
+     "morph": "compound=sarva+pāpa"
+    },
+    {
+     "surface": "bhasmeti",
+     "gloss": "ash-thus",
+     "grounds": "bhasma + iti; legacy hint ash.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "nom.sg.neut past participle of pari-kīrt; legacy hint declared.",
+     "morph": "nom.sg.neut"
+    }
+   ],
+   "question": "From what action is ash declared to result in relation to all sins?",
+   "premises": [
+    "Eating is mentioned as a source.",
+    "All sins are named.",
+    "Ash is declared as the result."
+   ],
+   "inference": "From eating, in relation to all sins, it is declared as ash.",
+   "uncertainties": [
+    "The object of bhakṣaṇāt is not stated in this verse."
+   ],
+   "plain_english": "From eating, it is declared as ash in regard to all sins."
+  },
+  {
+   "verse": 5941,
+   "rows": [
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "that-all",
+     "grounds": "nom.sg.neut compound tat+sarva; legacy hint that-all.",
+     "morph": "compound=tat+sarva"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "3.sg. present of bhū; legacy hint becomes.",
+     "morph": "3.sg.parasmai-present"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ash",
+     "grounds": "nom.sg.neut of bhasman; legacy hint ash.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable; legacy hint as.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnitejasā",
+     "gloss": "by-fire-power",
+     "grounds": "inst.sg. compound agni+tejas; legacy hint fire-tejas.",
+     "morph": "compound=agni+tejas"
+    },
+    {
+     "surface": "vanam",
+     "gloss": "forest",
+     "grounds": "nom.sg.neut of vana; legacy hint forest.",
+     "morph": "nom.sg.neut"
+    }
+   ],
+   "question": "How is all that said to become ash, by comparison to fire’s power on a forest?",
+   "premises": [
+    "All that becomes ash.",
+    "A comparison is made by as.",
+    "Fire’s power reduces a forest to ash."
+   ],
+   "inference": "All that becomes ash just as a forest becomes ash by the power of fire.",
+   "uncertainties": [
+    "The antecedent of tatsarvaṃ is from prior context."
+   ],
+   "plain_english": "All that becomes ash, just as a forest becomes ash by the power of fire."
+  },
+  {
+   "verse": 5942,
+   "rows": [
+    {
+     "surface": "vaivāhāgnyudbhavaṃ",
+     "gloss": "born-from-wedding-fire",
+     "grounds": "acc.sg.neut compound vaivāha+agni+udbhava; legacy hint wedding-fire-born.",
+     "morph": "compound=vaivāha+agni+udbhava"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "vā + api; legacy hint or.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakvaṃ",
+     "gloss": "cooked",
+     "grounds": "acc.sg.neut past participle of pac; legacy hint cooked.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "śuci",
+     "gloss": "pure",
+     "grounds": "acc.sg.neut of śuci; legacy hint pure.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "sugandhi",
+     "gloss": "fragrant",
+     "grounds": "acc.sg.neut compound su+gandhi; legacy hint fragrant.",
+     "morph": "compound=su+gandhi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable; legacy hint and.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualities are prescribed for ash born from the wedding fire or otherwise prepared?",
+   "premises": [
+    "Ash born from wedding fire is mentioned.",
+    "It should be cooked/purified in quality.",
+    "It should be pure and fragrant."
+   ],
+   "inference": "Ash born from the wedding fire, or likewise, should be cooked, pure, and fragrant.",
+   "uncertainties": [
+    "The exact referent of pakvaṃ is interpreted from ritual context."
+   ],
+   "plain_english": "Ash born from the wedding fire, or also prepared, should be cooked, pure, and fragrant."
+  },
+  {
+   "verse": 5943,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation; legacy hint not.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "līnaṃ",
+     "gloss": "stained",
+     "grounds": "acc.sg.neut past participle of lī; legacy hint stained.",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation; legacy hint not.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atikaṭhinaṃ",
+     "gloss": "too-hard",
+     "grounds": "acc.sg.neut compound ati+kaṭhina; legacy hint too-hard.",
+     "morph": "compound=ati+kaṭhina"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation; legacy hint not.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durgandhi",
+     "gloss": "bad-smelling",
+     "grounds": "acc.sg.neut compound dur+gandhi; legacy hint bad-smell.",
+     "morph": "compound=dur+gandhi"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation; legacy hint not.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucoṣitam",
+     "gloss": "stale",
+     "grounds": "acc.sg.neut past participle of ut-śuṣ; legacy hint stale.",
+     "morph": "acc.sg.neut"
+    }
+   ],
+   "question": "What defects must the ash be free from according to these prohibitions?",
+   "premises": [
+    "Ash must not be stained.",
+    "Ash must not be too hard.",
+    "Ash must not be bad-smelling or stale."
+   ],
+   "inference": "The ash must be free of staining, excessive hardness, bad smell, and staleness.",
+   "uncertainties": [
+    "Some terms like līnaṃ are interpreted by context."
+   ],
+   "plain_english": "It must not be stained, not too hard, not bad-smelling, and not stale."
+  },
+  {
+   "verse": 5944,
+   "rows": [
+    {
+     "surface": "khaṇḍīkṛtya",
+     "gloss": "having-broken-into-pieces",
+     "grounds": "gerund of khaṇḍī-kṛ; legacy hint breaking.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāgnau",
+     "gloss": "in-shiva-fire",
+     "grounds": "loc.sg. compound śiva+agni; legacy hint shiva-fire.",
+     "morph": "compound=śiva+agni"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable; legacy hint tu.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipen",
+     "gloss": "should-deposit",
+     "grounds": "3.sg. optative of ni-kṣip; legacy hint should-deposit.",
+     "morph": "3.sg.parasmai-optative"
+    },
+    {
+     "surface": "mūlamantrataḥ",
+     "gloss": "by-root-mantra",
+     "grounds": "abl.sg. compound mūla+mantra; legacy hint root-mantra.",
+     "morph": "compound=mūla+mantra"
+    }
+   ],
+   "question": "After breaking into pieces, what should be deposited into the Śiva-fire and by what means?",
+   "premises": [
+    "One has broken into pieces.",
+    "Deposit should be made in the Śiva-fire.",
+    "This is done by the root mantra."
+   ],
+   "inference": "Having broken into pieces, one should deposit into the Śiva-fire by the root mantra.",
+   "uncertainties": [
+    "The object deposited is implied from prior verses."
+   ],
+   "plain_english": "Having broken it into pieces, one should deposit it into the Śiva-fire by the root mantra."
+  },
+  {
+   "verse": 5945,
+   "rows": [
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "gerund of ā-dā; legacy hint taking.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "by-cloth",
+     "grounds": "inst.sg. of vāsas; legacy hint cloth.",
+     "morph": "inst.sg.neut"
+    },
+    {
+     "surface": "loḍya",
+     "gloss": "having-stirred",
+     "grounds": "gerund of loḍ; legacy hint stirring.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhasmādhāre",
+     "gloss": "in-ash-receptacle",
+     "grounds": "loc.sg. compound bhasma+ādhāra; legacy hint ash-receptacle.",
+     "morph": "compound=bhasma+ādhāra"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "should-place",
+     "grounds": "3.sg. optative of vi-ni-kṣip; legacy hint should-place.",
+     "morph": "3.sg.parasmai-optative"
+    }
+   ],
+   "question": "After taking by cloth and stirring, where should the ash be placed?",
+   "premises": [
+    "One has taken by cloth and stirred.",
+    "Placement is to be done.",
+    "The place is the ash receptacle."
+   ],
+   "inference": "Having taken by cloth and stirred, one should place it in the ash receptacle.",
+   "uncertainties": [
+    "The exact ritual handling of vāsasā is context-dependent."
+   ],
+   "plain_english": "Having taken it by cloth and stirred, one should place it in the ash receptacle."
+  },
+  {
+   "verse": 5946,
+   "rows": [
+    {
+     "surface": "udvāsane",
+     "gloss": "in-removal",
+     "grounds": "loc.sg. of udvāsana; legacy hint removal.",
+     "morph": "loc.sg.neut"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "loc.sg.neut past participle of kṛ; legacy hint done.",
+     "morph": "loc.sg.neut"
+    },
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "abl.sg. of yad; legacy hint because.",
+     "morph": "abl.sg.neut"
+    },
+    {
+     "surface": "caṇḍabhasma",
+     "gloss": "fierce-ash",
+     "grounds": "nom.sg.neut compound caṇḍa+bhasma; legacy hint fierce-ash.",
+     "morph": "compound=caṇḍa+bhasma"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "3.sg. present middle of pra-jā; legacy hint arises.",
+     "morph": "3.sg.atmane-present"
+    }
+   ],
+   "question": "Why is fierce ash said to arise when removal is done?",
+   "premises": [
+    "Removal is done.",
+    "Because of that, fierce ash arises.",
+    "A causal relation is stated."
+   ],
+   "inference": "When removal is done, fierce ash arises because of it.",
+   "uncertainties": [
+    "The ritual meaning of udvāsana here is not fully specified."
+   ],
+   "plain_english": "When removal is done, fierce ash arises because of that."
+  },
+  {
+   "verse": 5947,
+   "rows": [
+    {
+     "surface": "vāmena",
+     "gloss": "by-left",
+     "grounds": "inst.sg.masc/neut of vāma; legacy hint left.",
+     "morph": "inst.sg.masc"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "in-vessel",
+     "grounds": "loc.sg. of pātra; legacy hint vessel.",
+     "morph": "loc.sg.neut"
+    },
+    {
+     "surface": "saṃśoṣya",
+     "gloss": "having-dried",
+     "grounds": "gerund of saṃ-śuṣ; legacy hint drying.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aghoreṇa",
+     "gloss": "by-aghora",
+     "grounds": "inst.sg.masc of aghora; legacy hint aghora.",
+     "morph": "inst.sg.masc"
+    },
+    {
+     "surface": "vinirdahet",
+     "gloss": "should-burn-completely",
+     "grounds": "3.sg. optative of vi-nir-dah; legacy hint should-burn.",
+     "morph": "3.sg.parasmai-optative"
+    }
+   ],
+   "question": "In what vessel should it be dried and by what means should it be completely burned?",
+   "premises": [
+    "It is dried in a left vessel.",
+    "It should be completely burned.",
+    "This is done by Aghora."
+   ],
+   "inference": "Having dried it in a left vessel, one should completely burn it by Aghora.",
+   "uncertainties": [
+    "Whether aghoreṇa refers to mantra or deity is context-dependent."
+   ],
+   "plain_english": "Having dried it in a left vessel, one should completely burn it by Aghora."
+  },
+  {
+   "verse": 5948,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable; legacy hint thus.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable; legacy hint tu.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskṛtaṃ",
+     "gloss": "prepared",
+     "grounds": "nom.sg.neut past participle of saṃ-kṛ; legacy hint prepared.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ash",
+     "grounds": "nom.sg.neut of bhasman; legacy hint ash.",
+     "morph": "nom.sg.neut"
+    },
+    {
+     "surface": "agnirityādimantrataḥ",
+     "gloss": "by-agni-etc-mantra",
+     "grounds": "abl.sg. compound agni+iti+ādi+mantra; legacy hint agni-etc.",
+     "morph": "compound=agni+iti+ādi+mantra"
+    }
+   ],
+   "question": "How is ash thus prepared said to be made by the mantra beginning with Agni?",
+   "premises": [
+    "Ash is prepared thus.",
+    "It is done by the mantra beginning with Agni etc.",
+    "A method of preparation is indicated."
+   ],
+   "inference": "Thus the ash is prepared by the mantra beginning with Agni and so on.",
+   "uncertainties": [
+    "The full mantra form is not given here."
+   ],
+   "plain_english": "Thus the ash is prepared by the mantra beginning with Agni and the rest."
+  },
+  {
+   "verse": 5949,
+   "rows": [
+    {
+     "surface": "praṇavādyaiś",
+     "gloss": "with-om-beginning",
+     "grounds": "inst.pl. compound praṇava+ādi; legacy hint om-etc.",
+     "morph": "compound=praṇava+ādi"
+    },
+    {
+     "surface": "caturthīhṛdantair",
+     "gloss": "with-fourth-ending-in-heart",
+     "grounds": "inst.pl. compound caturthī+hṛd+anta; legacy hint fourth-heart-end.",
+     "morph": "compound=caturthī+hṛd+anta"
+    },
+    {
+     "surface": "nāmabhir",
+     "gloss": "with-names",
+     "grounds": "inst.pl. of nāman; legacy hint names.",
+     "morph": "inst.pl.neut"
+    },
+    {
+     "surface": "īśakaiḥ",
+     "gloss": "with-isha",
+     "grounds": "inst.pl. of īśaka; legacy hint isha-with.",
+     "morph": "inst.pl.masc"
+    }
+   ],
+   "question": "With what kinds of names beginning with Praṇava and ending in heart forms is the rite performed?",
+   "premises": [
+    "Names beginning with Praṇava are used.",
+    "They end in fourth and heart forms.",
+    "They are used together with Īśa-related elements."
+   ],
+   "inference": "The rite uses names beginning with Praṇava, ending in fourth and heart forms, together with Īśa names.",
+   "uncertainties": [
+    "Exact grammatical forms of caturthīhṛdanta are interpreted from context."
+   ],
+   "plain_english": "With names beginning with Om, ending in the fourth and heart forms, together with Īśa names."
+  }
+ ]
+}

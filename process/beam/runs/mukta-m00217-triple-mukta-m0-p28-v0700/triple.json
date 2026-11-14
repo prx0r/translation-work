@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "vaṃśaṃ",
+     "gloss": "lineage",
+     "grounds": "accusative object naming the lineage/family line invoked in this sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmāpi",
+     "gloss": "brahma-also",
+     "grounds": "fused form brahmā + api; names Brahmā included among those addressed",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic inclusion particle attached in sense to the preceding name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveśvaryambā",
+     "gloss": "sarvesvari-mother",
+     "grounds": "compound/name for the supreme goddess as mother of all lords in this Śrīvidyā address",
+     "morph": "compound=fem.nom.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "accusative referring to what remains to be stated or included",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle joining the remainder to the prior list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverbial comparator indicating the procedure follows the earlier pattern",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which claim about Brahmā’s inclusion and the remainder’s treatment does this Śrīvidyā line assert by naming lineage, Brahmā-also, Sarveśvaryambā, and remainder as before?",
+   "premises": [
+    "Lineage is named as an object in this address",
+    "Brahmā is included together with the goddess named",
+    "Remainder is joined and handled by the prior procedure"
+   ],
+   "inference": "The verse states that even Brahmā is counted within this invocation to Sarveśvaryambā and that the remaining items follow the same procedure as before.",
+   "uncertainties": [
+    "Exact ritual referent of vaṃśaṃ in this transmission step is not specified",
+    "Whether sarveśvaryambā is a fixed mantra-name here remains context-dependent"
+   ],
+   "plain_english": "The lineage is named; even Brahmā is included, addressed to Sarveśvaryambā, and the rest is treated as before."
+  }
+ ]
+}
