@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1483,
- "question": "With what intention and manner should the sprinkling be performed?",
+ "question": "What dimensions and orientations are specified for the staff's base fitting?",
  "premises": [
-  "The officiant meditates on the welfare of the people",
-  "The sprinkling is done quickly",
-  "The sprinkling proceeds in a clockwise direction"
+  "The fitting's solidity corresponds to half the staff's diameter.",
+  "One tip is oriented eastward.",
+  "Another tip is oriented northward."
  ],
- "inference": "Meditating on the welfare of the people, one should quickly sprinkle in a clockwise direction.",
- "uncertainties": [],
- "plain_english": "Meditating on the welfare of the people, one should quickly sprinkle in a clockwise direction."
+ "inference": "The base fitting should be solid with half the diameter and oriented eastward and northward.",
+ "uncertainties": [
+  "The spatial arrangement of pūrvāgra and uttarāgraka is ambiguous without diagrammatic context."
+ ],
+ "plain_english": "It should be solid, half the diameter in thickness, with one tip facing east and the other north."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p59",
  "verse": 1458,
- "question": "Which powers are united with Varāha in this pairing?",
+ "question": "By whom and with what manner is the action carried out through servants, slaves, others, and one’s own?",
  "premises": [
-  "Varāha is named.",
-  "Prabhāsā is specified as accompanying.",
-  "Niśā is specified as accompanying."
+  "Agents include servants, slaves, and others.",
+  "The manner is given as pure control.",
+  "One’s own are also mentioned."
  ],
- "inference": "Varāha is united with Prabhāsā and endowed with Niśā.",
- "uncertainties": [],
- "plain_english": "Varāha is united with Prabhāsā and endowed with Niśā."
+ "inference": "The action is carried out by servants, slaves, and others, with pure control, by one’s own means.",
+ "uncertainties": [
+  "Exact syntactic role of svacchāvaśamudā is unclear from tokens alone."
+ ],
+ "plain_english": "By servants, slaves, and others, with pure control, by one’s own (people)."
 }

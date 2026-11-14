@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p59",
  "verse": 1460,
- "question": "Which deity and metre are declared for this context?",
+ "question": "At what locations, above the rise of the pinnacle or at the end of the great mouth, is the action indicated?",
  "premises": [
-  "Dakṣiṇāmūrti is named.",
-  "Gāyatra is named as the metre.",
-  "The metre is declared."
+  "A location above the pinnacle rise is named.",
+  "An alternative location is the end of the great mouth.",
+  "The particle vā marks alternation."
  ],
- "inference": "Dakṣiṇāmūrti should be the deity and Gāyatra the declared metre.",
- "uncertainties": [],
- "plain_english": "Dakṣiṇāmūrti should be the deity, and Gāyatra is declared as the metre."
+ "inference": "The indication applies above the rise of the pinnacle or at the ending of the great mouth.",
+ "uncertainties": [
+  "Architectural meaning of great-mouth-ending is not fully clear from tokens."
+ ],
+ "plain_english": "Above the rise of the pinnacle, or at the end of the great mouth."
 }

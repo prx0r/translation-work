@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1497,
- "question": "Which parts of the bulls must be adorned in the ritual?",
+ "question": "Who must perform the ritual bath and according to what standard?",
  "premises": [
-  "The hump is to be adorned",
-  "The tail hooves and horns are likewise to be adorned",
-  "Adornment is a prescribed ritual act"
+  "The teacher is the principal agent.",
+  "He acts together with the image priests.",
+  "The bath must be performed according to rule."
  ],
- "inference": "One should adorn the bulls' hump, tail, hooves, and horns.",
- "uncertainties": [],
- "plain_english": "One should adorn their hump, and likewise their tail, hooves, and horns."
+ "inference": "The teacher, together with the image priests, must perform the bath according to the prescribed rite.",
+ "uncertainties": [
+  "The exact role of mūrtipa is technical and context-dependent."
+ ],
+ "plain_english": "The teacher, together with the image priests, should perform the ritual bath according to the prescribed rules."
 }

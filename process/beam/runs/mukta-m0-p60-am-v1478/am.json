@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1478,
- "question": "What specific garments must the officiant wear during the ritual?",
+ "question": "Which metals are permitted as materials for the ritual staff?",
  "premises": [
-  "The officiant wears a new garment",
-  "The officiant is endowed with an upper garment",
-  "Both garments are part of the prescribed attire"
+  "Gold, silver, and copper are listed as options.",
+  "A mixture with iron is also permitted.",
+  "The particle vā indicates alternatives."
  ],
- "inference": "The officiant must wear a new garment together with an upper garment.",
- "uncertainties": [],
- "plain_english": "Wearing a new garment and endowed with an upper cloth."
+ "inference": "The staff may be made of gold, silver, copper, or a mixture including iron.",
+ "uncertainties": [
+  "The exact composition implied by ayasā miśram is not fully specified."
+ ],
+ "plain_english": "It may be made of gold, silver, copper, or indeed mixed with iron."
 }

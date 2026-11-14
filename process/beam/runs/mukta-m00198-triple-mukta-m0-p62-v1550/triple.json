@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "bodhikāntaṃ",
+     "gloss": "ending-at-bodhikā",
+     "grounds": "compound indicating limit up to the bodhikā",
+     "morph": "bodhikā+anta (compound, n.acc.sg)"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal referring to the third division or hall",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle connecting specifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "ordinal referring to the fourth division or hall",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "cottarāntakam",
+     "gloss": "and-ending-at-uttarā",
+     "grounds": "sandhi fusion of ca and uttarāntakam indicating limit up to the uttarā",
+     "morph": "ca (indecl.) + uttarā+antaka (compound, n.acc.sg)"
+    }
+   ],
+   "question": "What terminal limits define the third and fourth divisions in the prescribed hall measurements?",
+   "premises": [
+    "The third division extends up to the bodhikā.",
+    "The fourth division extends up to the uttarā.",
+    "These limits specify the prescribed structural measurements."
+   ],
+   "inference": "The third and fourth divisions are distinguished by their respective terminal points at the bodhikā and the uttarā.",
+   "uncertainties": [
+    "The exact architectural referents of bodhikā and uttarā in this context are not fully specified."
+   ],
+   "plain_english": "The third extends up to the bodhikā, and the fourth extends up to the uttarā."
+  }
+ ]
+}
