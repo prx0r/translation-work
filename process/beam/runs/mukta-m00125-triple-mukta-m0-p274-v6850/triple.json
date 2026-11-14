@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p274",
+ "items": [
+  {
+   "verse": 6850,
+   "rows": [
+    {
+     "surface": "protsāraṇāya",
+     "gloss": "for-driving-away",
+     "grounds": "dative of purpose expressing expulsion",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "duṣṭānāṃ",
+     "gloss": "of-the-wicked",
+     "grounds": "genitive plural indicating those to be expelled",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sādhūnāṃ",
+     "gloss": "of-the-good",
+     "grounds": "genitive plural indicating those to be received",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "grahaṇāya",
+     "gloss": "for-receiving",
+     "grounds": "dative of purpose expressing acceptance or protection",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle joining two purposes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dual purpose of expelling the wicked and receiving the good is affirmed?",
+   "premises": [
+    "Driving away targets the wicked.",
+    "Receiving targets the good.",
+    "Both purposes operate together."
+   ],
+   "inference": "The affirmed function simultaneously removes harmful agents and embraces virtuous ones.",
+   "uncertainties": [
+    "Whether grahaṇāya implies protection, acceptance, or both in this context."
+   ],
+   "plain_english": "You are for driving away the wicked and for receiving the good."
+  }
+ ]
+}
