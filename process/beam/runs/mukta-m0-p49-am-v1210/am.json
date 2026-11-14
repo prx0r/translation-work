@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p49",
  "verse": 1210,
- "question": "What materials should be used to construct the altar when preferred materials are unavailable?",
+ "question": "From what sources may the sacred ash be properly collected for ritual use?",
  "premises": [
-  "Well-fired bricks are the preferred material.",
-  "Unfired bricks may be used as an alternative.",
-  "The alternative applies when the preferred material is unavailable."
+  "Sacred ash must be collected from an appropriate source.",
+  "Fire is one possible source.",
+  "Cow-dung or other produced material is another possible source."
  ],
- "inference": "The altar should be made with well-fired bricks, or with unfired bricks if they are unavailable.",
- "uncertainties": [],
- "plain_english": "It should be made with well-fired bricks, or with unfired bricks if those are not available."
+ "inference": "The ash may be collected from fire, from cow-dung, or from what is otherwise produced.",
+ "uncertainties": [
+  "The exact parsing of 'agni' and 'īṣa' as ablatives is inferred from context."
+ ],
+ "plain_english": "It should be collected from fire, or from cow-dung, or from what is produced."
 }

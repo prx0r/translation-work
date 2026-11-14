@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[with+to-be-recited](sasuccāryā) [this](iyam) [vedic](vaidikī) [tantric](tāntrikī) [and](ca) [twilight-worship](sandhyā) [to-be-performed](kartavyā)
+[with+uttering](sasuccārya) [this](iyaṃ) [vedic](vaidikī) [tantric](tāntrikī) [and](ca) [twilight-worship](sandhyā) [to-be-done](kartavyā)
 
 ## mukta-m0-p62-v1527
 [household](gṛhyakaṃ) [thing+collection](vastu+jātam) [house+related](gṛha+sambandhi) [all](sarvaṃ) [thing](vastu)
 
 ## mukta-m0-p62-v1528
-[well-known](prasiddhaṃ) [deity+place](devatā+kṣetram) [sacred+ford](puṇya+tīrthaṃ) [is-declared](prakīrtitam)
+[well-known](prasiddhaṃ) [deity+place](devatā+kṣetraṃ) [holy+ford](puṇya+tīrthaṃ) [is-proclaimed](prakīrtitam)
 
 ## mukta-m0-p62-v1529
-[for-hell](narakāya) [becomes](bhavet) [sacred-place](tīrthaṃ) [to-sacred-place](tīrthāya) [of-those-going](vrajatāṃ) [of-men](nṛṇām)
+[for-hell](narakāya) [becomes](bhavet) [sacred-place](tīrthaṃ) [to-sacred-place](tīrthāya) [going](vrajatāṃ) [of-men](nṛṇām)
 
 ## mukta-m0-p62-v1530
-[not+indeed](na+eva) [of-vows](vratānām) [rule](niyamaḥ) [of-husband](bhartuḥ) [service](śuśrūṣaṇaṃ) [without](vinā)
+[not](na) [indeed](eva) [of-vows](vratānāṃ) [restriction](niyamo) [of-husband](bhartuḥ) [service](śuśrūṣaṇaṃ) [without](vinā)
 
 ## mukta-m0-p62-v1531
 [therefore](tasmāt) [with-whole+self](sarva+ātmanā) [woman](nārī) [husband+service](pati+sevāṃ) [should-practice](samācaret)
@@ -23,16 +23,16 @@
 [his+command+following](tat+ājñā+anucarī) [having-become](bhūtvā) [should-please](toṣayet) [husband+relatives](pati+bāndhavān)
 
 ## mukta-m0-p62-v1533
-[not+unpleasant](na+apriyaṃ) [by-mind](manasā) [even](vāpi) [should-do](caret) [of-husband](bhartuḥ) [devoted-to-husband](pati+vratā)
+[not](na) [unpleasant](apriyaṃ) [by-mind](manasā) [even](vāpi) [should-do](caret) [of-husband](bhartuḥ) [chaste-wife](pativratā)
 
 ## mukta-m0-p62-v1534
-[who](yā) [pleases](prīṇayati) [husband](bhartāraṃ) [she+alone](sā+eva) [Brahman+state](brahma+padaṃ) [obtains](labhet)
+[who](yā) [pleases](prīṇayati) [husband](bhartāraṃ) [she+indeed](sā+eva) [brahman+state](brahma+padaṃ) [obtains](labhet)
 
 ## mukta-m0-p62-v1535
 [not](na) [and](ca) [body](aṅgaṃ) [should-show](darśayet) [to-others](anyān) [husband+command+following](bhartuḥ+ājñā+anusāriṇī)
 
 ## mukta-m0-p62-v1536
-[now](atha) [woman+duties](strī+dharmān) [states](āha) [not+at-sacred-place](na+tīrtha) [etc.+with](ity+ādibhiḥ) [seven](saptabhiḥ)
+[now](atha) [woman+duties](strī+dharmān) [states](āha) [not+at-sacred-place](na+tīrtha) [etc](ityādibhiḥ) [with-seven](saptabhiḥ)
 
 ## mukta-m0-p62-v1537
 [with-whole+self](sarva+ātmanā) [with-all+effort](sarva+prayatnena)
@@ -41,37 +41,37 @@
 [in-old-age](vārddhakye) [of-husband+relatives](pati+bandhūnāṃ) [not](na) [independent](svatantrā) [should-be](bhavet) [ever](kvacit)
 
 ## mukta-m0-p62-v1539
-[not+should-give-in-marriage](na+udvāhayet) [father](pitā) [young-girl](bālām) [unknown+duty+instruction](ajñāta+dharma+śāsanām)
+[not](na) [should-give-in-marriage](udvāhayet) [father](pitā) [young-girl](bālām) [unknown+dharma+teaching](ajñāta+dharma+śāsanām)
 
 ## mukta-m0-p62-v1540
-[very+beneficial](bahu+upakārakān) [cows](gāḥ) [and](ca) [meat+eating](māṃsa+adān) [taste+devoid](rasa+varjitān)
+[very+beneficial](bahu+upakārakān) [cows](gāḥ) [and](ca) [flesh+eating](māṃsa+adān) [juice+devoid](rasa+varjitān)
 
 ## mukta-m0-p62-v1541
-[earth+born](bhūmi+jātāni) [all](sarvāṇi) [edible-things](bhojyāni) [by-own-will](sva+icchayā) [O-Śiva](śive)
+[earth+born](bhūmi+jātāni) [all](sarvāṇi) [eatable](bhojyāni) [by-own+wish](sva+icchayā) [O-Shiva](śive)
 
 ## mukta-m0-p62-v1542
-[in-incapacity](aśaktau) [of-kṣatriya+vaiśyas](kṣatriya+viśāṃ) [by-occupations](vṛttaiḥ) [livelihood](nirvāham) [should-practice](ācaret)
+[in-inability](aśaktau) [of-kshatriya+vaishyas](kṣatriya+viśāṃ) [by-occupations](vṛttaiḥ) [livelihood](nirvāham) [should-practice](ācaret)
 
 ## mukta-m0-p62-v1543
-[here](atra) [in-incapacity](aśaktau) [merchant+occupation](vaṇig+vṛttaṃ) [śūdra+occupation](śūdra+vṛttam) [then](atha) [should-resort-to](āśrayet)
+[here](atra) [in-inability](aśaktau) [merchant+occupation](vaṇig+vṛttaṃ) [shudra+occupation](śūdra+vṛttam) [then](atha) [should-resort-to](āśrayet)
 
 ## mukta-m0-p62-v1544
-[of-śūdras](śūdrāṇāṃ) [O-supreme-goddess](parama+īśāni) [service+occupation](sevā+vṛttiṃ) [is-prescribed](vidhīyate)
+[of-shudras](śūdrāṇāṃ) [O-supreme-goddess](parama+īśāni) [service+occupation](sevā+vṛttiṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p62-v1545
-[independent](svatantrā) [self-dependent](sva+adhīnā) [106](|| 106)
+[independent](svatantrā) [self+dependent](sva+ādhīnā) [verse-marker](||) [106](106)
 
 ## mukta-m0-p62-v1546
-[taste+devoid](rasa+varjitān) [flavor+empty](āsvāda+śūnyān) [108](|| 108)
+[juice+devoid](rasa+varjitān) [taste+empty](āsvāda+śūnyān) [verse-marker](||) [108](108)
 
 ## mukta-m0-p62-v1547
-[now](atha) [brāhmaṇa+occupation](brāhmaṇa+vṛttam) [states](āha) [teaching](adhyāpanam) [etc.](ity+ādi)
+[now](atha) [brahmin+occupation](brāhmaṇa+vṛttam) [states](āha) [teaching](adhyāpanam) [etc](ityādi)
 
 ## mukta-m0-p62-v1548
-[battle+ground](saṃgrāma+bhūmi) [governance+form](śāsana+rūpe) [in-good+conduct](sat+vṛtte)
+[battle+field](saṃgrāma+bhūmi) [governance+form](śāsana+rūpe) [in-good+conduct](sat+vṛtte)
 
 ## mukta-m0-p62-v1549
-[authority](adhikāraḥ) [exists](asti) [O-lord-of-gods](deva+īśi) [body+journey](deha+yātrā) [for-accomplishment](prasiddhaye)
+[authority](adhikāraḥ) [is](asti) [O-lord-of-gods](deva+īśi) [body+journey](deha+yātrā) [for-accomplishment](prasiddhaye)
 
 ## mukta-m0-p62-v1550
-[without-envy](nirmatsaraḥ) [without-deceit](niṣkapaṭaḥ) [in-own+occupation](sva+vṛttau) [brāhmaṇa](brāhmaṇaḥ) [should-be](bhavet)
+[without-envy](nirmatsaraḥ) [without-deceit](niṣkapaṭaḥ) [in-own+occupation](sva+vṛttau) [brahmin](brāhmaṇaḥ) [should-be](bhavet)

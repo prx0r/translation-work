@@ -3,14 +3,14 @@
  "verse": 1206,
  "rows": [
   {
-   "lemma": "agnikāryaṃ",
+   "lemma": "ūrdhva+puṇḍraṃ",
    "morph": "n.acc.sg",
-   "grounds": "object of kuryāt"
+   "grounds": "compound: ūrdhva (upward) + puṇḍraṃ (mark)"
   },
   {
-   "lemma": "tataḥ",
-   "morph": "(indecl.)",
-   "grounds": "sequence marker"
+   "lemma": "mṛdā",
+   "morph": "f.inst.sg",
+   "grounds": "material for making the vertical mark"
   },
   {
    "lemma": "kuryāt",
@@ -18,9 +18,24 @@
    "grounds": "prescriptive injunction"
   },
   {
-   "lemma": "kuṇḍasaṃskārapūrvakam",
+   "lemma": "tri+puṇḍraṃ",
    "morph": "n.acc.sg",
-   "grounds": "qualifies agnikāryaṃ"
+   "grounds": "compound: tri (three) + puṇḍraṃ (mark)"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "bhasmanā",
+   "morph": "n.inst.sg",
+   "grounds": "material for making the triple mark"
   }
  ]
 }
