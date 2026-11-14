@@ -3,29 +3,44 @@
  "verse": 60,
  "rows": [
   {
-   "lemma": "āmantraṇa",
-   "morph": "n.loc.sg",
-   "grounds": "context for the oblation"
+   "lemma": "guruḥ",
+   "morph": "compound-member",
+   "grounds": "first member of compound referring to guru's command"
   },
   {
-   "lemma": "haviḥ",
+   "lemma": "ājñā",
+   "morph": "compound-member",
+   "grounds": "second member of compound referring to guru's command"
+  },
+  {
+   "lemma": "dhāraṇāt",
+   "morph": "n.abl.sg",
+   "grounds": "cause for the designation"
+  },
+  {
+   "lemma": "tu",
+   "morph": "indecl.",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "ājñā",
+   "morph": "compound-member",
+   "grounds": "first member qualifying the city"
+  },
+  {
+   "lemma": "puram",
    "morph": "n.nom.sg",
-   "grounds": "ritual offering being specified"
+   "grounds": "the place being named"
   },
   {
-   "lemma": "proktaṃ",
-   "morph": "n.nom.sg.past-passive-participle √vac",
-   "grounds": "indicates scriptural prescription"
+   "lemma": "imaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "demonstrative referring to the city"
   },
   {
-   "lemma": "mudga+ādyaṃ",
-   "morph": "compound:n.nom.sg",
-   "grounds": "compound specifying contents of oblation"
-  },
-  {
-   "lemma": "āḍhaka+ādikam",
-   "morph": "compound:n.nom.sg",
-   "grounds": "compound specifying quantity of oblation"
+   "lemma": "smṛtam",
+   "morph": "n.nom.sg",
+   "grounds": "states the traditional designation"
   }
  ]
 }

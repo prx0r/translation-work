@@ -3,24 +3,39 @@
  "verse": 63,
  "rows": [
   {
-   "lemma": "bhrāmayitvā",
-   "morph": "gerund.caus √bhram",
-   "grounds": "gerund indicating prior action"
+   "lemma": "buddhi",
+   "morph": "compound-member",
+   "grounds": "first mental faculty to be led"
   },
   {
-   "lemma": "tataḥ+tyaktvā",
-   "morph": "compound:(indecl.) + gerund √tyaj",
-   "grounds": "compound gerund phrase indicating subsequent action"
+   "lemma": "ahaṅkāra",
+   "morph": "compound-member",
+   "grounds": "second mental faculty to be led"
   },
   {
-   "lemma": "tilakaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "object to be given"
+   "lemma": "cittāni",
+   "morph": "n.acc.pl",
+   "grounds": "mental faculties to be led upward"
   },
   {
-   "lemma": "dāpayet+śive",
-   "morph": "compound:3.sg.opt.caus.act √dā + m.loc.sg",
-   "grounds": "compound verb phrase indicating offering to Śiva"
+   "lemma": "nayet",
+   "morph": "3.sg.act-optative √nī",
+   "grounds": "instruction to direct the faculties"
+  },
+  {
+   "lemma": "śiva",
+   "morph": "compound-member",
+   "grounds": "first member qualifying the destination city"
+  },
+  {
+   "lemma": "puraṃ",
+   "morph": "n.acc.sg",
+   "grounds": "destination of the ascent"
+  },
+  {
+   "lemma": "prati",
+   "morph": "indecl.",
+   "grounds": "indicates direction toward the city of Śiva"
   }
  ]
 }

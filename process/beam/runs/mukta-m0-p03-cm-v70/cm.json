@@ -3,34 +3,39 @@
  "verse": 70,
  "rows": [
   {
-   "lemma": "nitya+utsavaṃ",
-   "morph": "compound:m.acc.sg",
-   "grounds": "compound naming the ritual event"
+   "lemma": "akāra",
+   "morph": "compound-member",
+   "grounds": "first member indicating start of syllable range"
   },
   {
-   "lemma": "tataḥ",
-   "morph": "(indecl.)",
-   "grounds": "sequence marker"
+   "lemma": "ādi",
+   "morph": "compound-member",
+   "grounds": "marks the beginning of the range"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.opt.act √kṛ",
-   "grounds": "main ritual injunction"
+   "lemma": "kṣakāra",
+   "morph": "compound-member",
+   "grounds": "first member indicating end of syllable range"
   },
   {
-   "lemma": "nānā",
-   "morph": "(indecl.)",
-   "grounds": "qualifies women"
+   "lemma": "antāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "marks the end of the range"
   },
   {
-   "lemma": "strībhiḥ",
-   "morph": "f.inst.pl",
-   "grounds": "participants accompanying the festival"
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member indicating application to all seeds"
   },
   {
-   "lemma": "samanvitam",
-   "morph": "m.acc.sg",
-   "grounds": "qualifies the festival"
+   "lemma": "bīje",
+   "morph": "n.loc.sg",
+   "grounds": "locus where syllables are placed"
+  },
+  {
+   "lemma": "niyojayet",
+   "morph": "3.sg.act-optative causative √yuj",
+   "grounds": "instruction to assign the syllables"
   }
  ]
 }

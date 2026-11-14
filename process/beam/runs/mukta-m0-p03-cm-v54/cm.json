@@ -3,34 +3,44 @@
  "verse": 54,
  "rows": [
   {
-   "lemma": "vidyā+dehaṃ",
-   "morph": "compound:m.acc.sg",
-   "grounds": "compound object of placement"
-  },
-  {
-   "lemma": "tato",
-   "morph": "(indecl.)",
-   "grounds": "sequence marker"
-  },
-  {
-   "lemma": "nyastvā",
-   "morph": "gerund √nyas",
-   "grounds": "gerund indicating prior action"
-  },
-  {
-   "lemma": "śivam",
+   "lemma": "svaraṃ",
    "morph": "m.acc.sg",
-   "grounds": "deity to be invoked"
+   "grounds": "object to be prepared"
   },
   {
-   "lemma": "āvāhayet",
-   "morph": "3.sg.opt.caus.act √vah",
-   "grounds": "main ritual injunction"
+   "lemma": "ca",
+   "morph": "indecl.",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "tataḥ",
-   "morph": "(indecl.)",
-   "grounds": "sequence marker"
+   "lemma": "ṣoḍaśaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "specifies which vowel"
+  },
+  {
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address to the goddess"
+  },
+  {
+   "lemma": "bindu",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating addition of bindu"
+  },
+  {
+   "lemma": "ardha",
+   "morph": "compound-member",
+   "grounds": "second member of compound indicating addition of ardha"
+  },
+  {
+   "lemma": "saṃyutaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "indicates conjunction with bindu and ardha"
+  },
+  {
+   "lemma": "kuru",
+   "morph": "2.sg.act-imperative √kṛ",
+   "grounds": "instruction to form the vowel"
   }
  ]
 }

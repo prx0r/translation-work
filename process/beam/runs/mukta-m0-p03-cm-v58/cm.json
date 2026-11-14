@@ -3,24 +3,39 @@
  "verse": 58,
  "rows": [
   {
-   "lemma": "nānā+vidhāni",
-   "morph": "compound:n.acc.pl",
-   "grounds": "compound qualifying flowers"
+   "lemma": "bindu",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating addition of bindu"
   },
   {
-   "lemma": "puṣpāṇi",
-   "morph": "n.acc.pl",
-   "grounds": "objects to be prepared"
+   "lemma": "ardha",
+   "morph": "compound-member",
+   "grounds": "second member of compound indicating addition of ardha"
   },
   {
-   "lemma": "nūtanāni",
-   "morph": "n.acc.pl",
-   "grounds": "qualifies flowers"
+   "lemma": "saṃyutaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "indicates conjunction with bindu and ardha"
   },
   {
-   "lemma": "prakalpayet",
-   "morph": "3.sg.opt.caus.act √kḷp",
-   "grounds": "main ritual injunction"
+   "lemma": "kṛtvā",
+   "morph": "indecl.gerund √kṛ",
+   "grounds": "prior action before muttering"
+  },
+  {
+   "lemma": "sādhakaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "agent who performs the practice"
+  },
+  {
+   "lemma": "japam",
+   "morph": "m.acc.sg",
+   "grounds": "the practice to be performed"
+  },
+  {
+   "lemma": "ācaret",
+   "morph": "3.sg.act-optative √car",
+   "grounds": "instruction for the practitioner"
   }
  ]
 }
