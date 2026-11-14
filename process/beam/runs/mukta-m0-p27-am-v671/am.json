@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 671,
- "question": "How reliably do certain dream indications come true in reality?",
+ "question": "What starting measure and increment govern this final measurement sequence?",
  "premises": [
-  "Something is seen in a dream",
-  "It is affirmed emphatically",
-  "It will come to be in the same way"
+  "The sequence begins at twenty-one cubits.",
+  "Increase proceeds by three cubits at a time.",
+  "The increment governs the progression."
  ],
- "inference": "The dream indication will be realized exactly as seen",
- "uncertainties": [],
- "plain_english": "In a dream, that will come to be just so."
+ "inference": "Starting at twenty-one cubits, the measure increases by three cubits at each step.",
+ "uncertainties": [
+  "The compound ekadvāviṃśahastādi is read as beginning at twenty-one cubits."
+ ],
+ "plain_english": "Beginning at twenty-one cubits, the measure increases by three cubits at a time."
 }

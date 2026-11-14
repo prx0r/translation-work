@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p30",
  "verse": 749,
- "question": "What size and shape should the described element have in proportion?",
+ "question": "In which architectural structures is the embryo-placement practice likewise applicable?",
  "premises": [
-  "A third-part proportion is specified.",
-  "The diameter is defined by that proportion.",
-  "The element is described as circular."
+  "The temple is included as a location.",
+  "The pavilion and enclosure wall are included.",
+  "The gateway tower is likewise included."
  ],
- "inference": "The element should be circular with a diameter equal to a third part.",
- "uncertainties": [
-  "The reference whole for the third-part proportion is not explicitly stated."
- ],
- "plain_english": "It should be circular, with a diameter equal to one third."
+ "inference": "The practice applies in the temple, pavilion, enclosure wall, and likewise in the gateway tower.",
+ "uncertainties": [],
+ "plain_english": "Likewise in the temple, in the pavilion, in the enclosure wall, and in the gateway tower."
 }

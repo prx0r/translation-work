@@ -3,39 +3,29 @@
  "verse": 740,
  "rows": [
   {
-   "lemma": "eka",
+   "lemma": "tasmāt",
+   "morph": "(indecl.)",
+   "grounds": "conclusion from previous statement"
+  },
+  {
+   "lemma": "sarva",
    "morph": "compound-member",
-   "grounds": "first member of compound"
+   "grounds": "in every respect"
   },
   {
-   "lemma": "koṣṭha",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "lemma": "prayatnena",
+   "morph": "m.ins.sg",
+   "grounds": "with full diligence"
   },
   {
-   "lemma": "catuṣka",
-   "morph": "compound-member",
-   "grounds": "third member of compound"
+   "lemma": "ekajātyeva",
+   "morph": "compound: eka+jāti+eva; (indecl.)",
+   "grounds": "eka = one; jāti = kind; eva = only"
   },
   {
-   "lemma": "ādyaṃ",
-   "morph": "compound: eka-koṣṭha-catuṣka-ādi, n.nom.sg",
-   "grounds": "starting from one-cell groups of four"
-  },
-  {
-   "lemma": "pañca",
-   "morph": "compound-member",
-   "grounds": "number of lotuses"
-  },
-  {
-   "lemma": "padmaṃ",
-   "morph": "compound: pañca-padma, n.nom.sg",
-   "grounds": "five-lotus arrangement"
-  },
-  {
-   "lemma": "pravakṣyate",
-   "morph": "3.sg.future.passive, pra-√vac",
-   "grounds": "introduces next topic"
+   "lemma": "mācaret",
+   "morph": "3.sg.opt-act; √car with mā (optative sense in context)",
+   "grounds": "prescriptive instruction to act or follow"
   }
  ]
 }

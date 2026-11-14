@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p30",
  "verse": 737,
- "question": "What figure should appear in the middle of the four-lotus paths?",
+ "question": "Which previously described forms apply to mansions lacking pinnacles and chambers?",
  "premises": [
-  "There are paths formed by four lotuses.",
-  "The middle of these paths is specified.",
-  "A svastika-like form is indicated."
+  "Some mansions lack pinnacles and chambers.",
+  "Certain forms have been declared.",
+  "These declared forms apply to such mansions."
  ],
- "inference": "In the middle of the four-lotus paths one should make a figure resembling a svastika.",
- "uncertainties": [],
- "plain_english": "In the middle of the paths of the four lotuses, make a figure resembling a svastika."
+ "inference": "These are the forms declared for mansions that are devoid of pinnacles and chambers.",
+ "uncertainties": [
+  "The referent of 'these' depends on the preceding verses."
+ ],
+ "plain_english": "These are the forms declared for mansions that lack pinnacles and chambers."
 }

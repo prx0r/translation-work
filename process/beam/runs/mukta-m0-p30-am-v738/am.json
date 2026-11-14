@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p30",
  "verse": 738,
- "question": "Which colors should be used to fill the designated figure?",
+ "question": "What base form is prescribed for a Vesara building in all cases?",
  "premises": [
-  "White, yellow, red, and blue are listed.",
-  "A filling action is prescribed.",
-  "These colors apply to the figure described."
+  "The instruction applies everywhere.",
+  "The building is of the Vesara type.",
+  "A round base is prescribed."
  ],
- "inference": "One should fill the figure with white, yellow, red, and blue.",
- "uncertainties": [],
- "plain_english": "One should fill it with white, yellow, red, and blue."
+ "inference": "In all cases, one should make the base round in a Vesara building.",
+ "uncertainties": [
+  "The token vāṃ may reflect sandhi or an alternative reading."
+ ],
+ "plain_english": "In all cases, make the base round in a Vesara building."
 }

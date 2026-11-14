@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p32",
  "verse": 799,
- "question": "Which named kalas conclude this segment of the enumerated series?",
+ "question": "What geometric form is prescribed for these structures and their spires?",
  "premises": [
-  "Pratishtha and Vidya are named",
-  "Shanti and Riddhi are named",
-  "Dipika is named"
+  "An eight-cornered form is specified.",
+  "This applies among their forms.",
+  "The same form applies likewise to the spire."
  ],
- "inference": "This segment concludes with Pratishtha, Vidya, Shanti, Riddhi, and Dipika.",
- "uncertainties": [],
- "plain_english": "Pratishtha, Vidya, Shanti, Riddhi, and Dipika."
+ "inference": "Among their forms, the structure and likewise its spire should be eight-cornered.",
+ "uncertainties": [
+  "The exact scope of eṣām depends on preceding verses."
+ ],
+ "plain_english": "Among their forms it is eight-cornered, and likewise also on the spire."
 }

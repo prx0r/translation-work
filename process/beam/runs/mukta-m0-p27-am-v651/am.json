@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 651,
- "question": "Which auspicious substances appear as favorable dream omens?",
+ "question": "By what hand-measure should gardens, parks, moats and similar spaces be measured?",
  "premises": [
-  "White color is auspicious",
-  "Sandal and garments are auspicious",
-  "Rice, saffron, and honey are auspicious"
+  "Gardens, parks and moats are among the spaces requiring measurement.",
+  "The prājāpatya hand-measure is specified as an instrument.",
+  "The particle tu indicates a particular prescribed method."
  ],
- "inference": "Seeing these substances in a dream indicates a favorable omen",
- "uncertainties": [],
- "plain_english": "White things, sandal and garments, rice grains, saffron, and honey are auspicious signs."
+ "inference": "Gardens, parks, moats and similar spaces are to be measured using the prājāpatya hand-measure.",
+ "uncertainties": [
+  "The exact segmentation and referent of khādi ni as listed tokens is unclear."
+ ],
+ "plain_english": "Gardens, parks, moats and the like should be measured with the prājāpatya hand-measure."
 }

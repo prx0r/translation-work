@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p30",
  "verse": 728,
- "question": "What shapes and qualities should the decorative elements possess?",
+ "question": "Which upper structural components include an eight-cornered platform, circular member, neck, and head-piece?",
  "premises": [
-  "The elements are adorned with leaf, root, and fruit shapes.",
-  "These forms serve as decorative motifs.",
-  "The elements are described as heart-going."
+  "An eight-cornered element is specified.",
+  "It is endowed with a platform.",
+  "Circular member, head-piece, and neck are listed."
  ],
- "inference": "The decorations should take the shapes of leaves, roots, and fruits and be pleasing to the heart.",
- "uncertainties": [],
- "plain_english": "They should be adorned with shapes of leaves, roots, and fruits, and be charming to the heart."
+ "inference": "The upper structure comprises an eight-cornered platformed element, a circular member, a neck, and a head-piece.",
+ "uncertainties": [
+  "The exact stacking order of these members is not fully explicit."
+ ],
+ "plain_english": "There is an eight-cornered part with a platform, a circular member, a neck, and a head-piece."
 }

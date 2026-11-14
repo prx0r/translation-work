@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "ārāma",
+     "gloss": "garden",
+     "grounds": "first member of list of places",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udyāna",
+     "gloss": "park",
+     "grounds": "second member of list of places",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khādi",
+     "gloss": "moat-and-so-on",
+     "grounds": "compound initial member implying moat etc.",
+     "morph": "compound-initial"
+    },
+    {
+     "surface": "ni",
+     "gloss": "down",
+     "grounds": "prefixal element in compound context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prājāpatya",
+     "gloss": "prājāpatya-measure",
+     "grounds": "type of hand-measure",
+     "morph": "compound-initial"
+    },
+    {
+     "surface": "kareṇa",
+     "gloss": "by-hand-measure",
+     "grounds": "instrument for measuring",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what hand-measure should gardens, parks, moats and similar spaces be measured?",
+   "premises": [
+    "Gardens, parks and moats are among the spaces requiring measurement.",
+    "The prājāpatya hand-measure is specified as an instrument.",
+    "The particle tu indicates a particular prescribed method."
+   ],
+   "inference": "Gardens, parks, moats and similar spaces are to be measured using the prājāpatya hand-measure.",
+   "uncertainties": [
+    "The exact segmentation and referent of khādi ni as listed tokens is unclear."
+   ],
+   "plain_english": "Gardens, parks, moats and the like should be measured with the prājāpatya hand-measure."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "dhanurgraheṇa",
+     "gloss": "by-bow-grasp",
+     "grounds": "alternative measuring instrument",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apyādi",
+     "gloss": "and-so-on",
+     "grounds": "inclusive extension of items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nadyādhvānaṃ",
+     "gloss": "river-road-distance",
+     "grounds": "object to be measured",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānayet",
+     "gloss": "one-should-measure",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act √mā"
+    }
+   ],
+   "question": "What alternative measure applies to rivers, roads and similar distances?",
+   "premises": [
+    "The bow-grasp is presented as an alternative measuring unit.",
+    "Rivers, roads and similar extents are the objects of measurement.",
+    "The optative verb prescribes the act of measuring."
+   ],
+   "inference": "One should measure rivers, roads and similar distances by the bow-grasp or comparable units.",
+   "uncertainties": [
+    "The precise scope of apyādi in this context is not fully specified."
+   ],
+   "plain_english": "Alternatively, one should measure rivers, roads and such distances by the bow-grasp measure."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "tricaturhastam",
+     "gloss": "three-or-four-cubits",
+     "grounds": "starting measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-from",
+     "grounds": "marks starting point of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvidvihastavivardhanāt",
+     "gloss": "by-two-by-two-cubit-increase",
+     "grounds": "incremental rule for progression",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what base and by what increment should the measurement sequence begin?",
+   "premises": [
+    "A base measure of three or four cubits is indicated.",
+    "The sequence begins from that base.",
+    "Increase proceeds by two cubits at each step."
+   ],
+   "inference": "The measurement sequence starts at three or four cubits and increases by two cubits at a time.",
+   "uncertainties": [],
+   "plain_english": "Beginning from three or four cubits, the measure increases by two cubits at each step."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "refers to previously stated method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭavidhaṃ",
+     "gloss": "eightfold",
+     "grounds": "total number of varieties",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "subject being classified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yugmāyugmaṃ",
+     "gloss": "even-and-odd",
+     "grounds": "classification by parity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "catuścatuḥ",
+     "gloss": "four-and-four",
+     "grounds": "distribution into two groups of four",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many varieties of measure arise and how are they divided by parity?",
+   "premises": [
+    "The method yields an eightfold measure.",
+    "The measures are classified as even and odd.",
+    "They are distributed as four and four."
+   ],
+   "inference": "Thus the measure is eightfold, divided into four even and four odd varieties.",
+   "uncertainties": [],
+   "plain_english": "In this way the measure becomes eightfold, consisting of four even and four odd types."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "rudrabhānukarāntaṃ",
+     "gloss": "ending-at-eleven-or-twelve",
+     "grounds": "upper limit expressed by symbolic numbers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ābhāsa",
+     "gloss": "ābhāsa",
+     "grounds": "name of architectural type",
+     "morph": "compound-initial"
+    },
+    {
+     "surface": "dvitakā",
+     "gloss": "two-storeyed",
+     "grounds": "specifies number of storeys",
+     "morph": "compound-final.f.nom.sg"
+    },
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "in-eight-ways",
+     "grounds": "number of subdivisions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the upper limit and subdivision of the two-storeyed ābhāsa type?",
+   "premises": [
+    "The range extends up to eleven or twelve units.",
+    "The type is the two-storeyed ābhāsa.",
+    "It is divided into eight forms."
+   ],
+   "inference": "The two-storeyed ābhāsa type extends up to eleven or twelve and is eightfold.",
+   "uncertainties": [
+    "The exact numerical values of rudra and bhānu in this context follow conventional symbolic usage."
+   ],
+   "plain_english": "The two-storeyed ābhāsa, extending up to eleven or twelve, is divided into eight forms."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "tithikalākarāntaṃ",
+     "gloss": "ending-at-fifteen-or-sixteen",
+     "grounds": "upper limit expressed by symbolic numbers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ābhāsa",
+     "gloss": "ābhāsa",
+     "grounds": "name of architectural type",
+     "morph": "compound-initial"
+    },
+    {
+     "surface": "tritalaṃ",
+     "gloss": "three-storeyed",
+     "grounds": "specifies number of storeys",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "number of subdivisions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the upper limit and subdivision of the three-storeyed ābhāsa type?",
+   "premises": [
+    "The range extends up to fifteen or sixteen units.",
+    "The type is the three-storeyed ābhāsa.",
+    "It is divided into ten forms."
+   ],
+   "inference": "The three-storeyed ābhāsa type extends up to fifteen or sixteen and is tenfold.",
+   "uncertainties": [
+    "The symbolic values of tithi and kalā are interpreted conventionally."
+   ],
+   "plain_english": "The three-storeyed ābhāsa, extending up to fifteen or sixteen, is divided into ten forms."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "catuṣpaṃcatalaṃ",
+     "gloss": "four-or-five-storeyed",
+     "grounds": "specifies number of storeys",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugmāyugmaṃ",
+     "gloss": "even-and-odd",
+     "grounds": "classification by parity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "refers to the forms",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "number of subdivisions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the four- or five-storeyed forms classified and counted?",
+   "premises": [
+    "The forms may be four- or five-storeyed.",
+    "They are classified as even and odd.",
+    "Their total number is ten."
+   ],
+   "inference": "The four- or five-storeyed forms are ten in number, divided into even and odd.",
+   "uncertainties": [],
+   "plain_english": "Then the four- or five-storeyed forms, classified as even and odd, are ten in number."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "rasabhūtayugāṃśaṃ",
+     "gloss": "six-five-four-part",
+     "grounds": "fractional parts for reduction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistārā",
+     "gloss": "from-width",
+     "grounds": "base dimension for reduction",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dropayet",
+     "gloss": "one-should-reduce",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.caus.act √dru"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what fractional parts and in what order should the width be reduced?",
+   "premises": [
+    "Reduction is applied to the width.",
+    "The parts specified are six, five and four.",
+    "The reduction proceeds in order."
+   ],
+   "inference": "One should reduce the width successively by a sixth, a fifth and a fourth part.",
+   "uncertainties": [
+    "The exact compound analysis of rasabhūtayugāṃśaṃ follows conventional numerical symbolism."
+   ],
+   "plain_english": "One should reduce the width in order by a sixth, a fifth and a fourth part."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "paṃcadhābhyuditaṃ",
+     "gloss": "risen-in-five-ways",
+     "grounds": "fivefold division of height",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "vertical dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ābhāse",
+     "gloss": "in-ābhāsa",
+     "grounds": "architectural context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadane",
+     "gloss": "in-building",
+     "grounds": "structure being described",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "o-twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How is the height of the ābhāsa building divided according to this teaching?",
+   "premises": [
+    "The context is the ābhāsa building.",
+    "The height is the dimension under discussion.",
+    "The height is described as fivefold."
+   ],
+   "inference": "In the ābhāsa building, the height is divided into five parts.",
+   "uncertainties": [],
+   "plain_english": "O twice-born one, in the ābhāsa building the height is divided into five parts."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "sārvakāmikam",
+     "gloss": "fulfilling-all-desires",
+     "grounds": "name or quality of the type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityete",
+     "gloss": "thus-these",
+     "grounds": "summarizes preceding items",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "abhidhānaṃ",
+     "gloss": "designation",
+     "grounds": "naming of the types",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramādbhavet",
+     "gloss": "should-be-in-order",
+     "grounds": "prescribes sequential naming",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What designation applies to these types and in what sequence should it be understood?",
+   "premises": [
+    "The term sārvakāmikam is given as a designation.",
+    "The preceding items are being summarized.",
+    "The designation follows a sequential order."
+   ],
+   "inference": "These types are designated sārvakāmika in due order.",
+   "uncertainties": [
+    "Whether sārvakāmikam names a single class or a quality of all listed types is slightly ambiguous."
+   ],
+   "plain_english": "These are called sārvakāmika, and this designation applies in due order."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "ābhāsaṃ",
+     "gloss": "ābhāsa",
+     "grounds": "type already described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "harmyam",
+     "gloss": "mansion",
+     "grounds": "architectural structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "marks completion of prior exposition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vikalpam",
+     "gloss": "variant",
+     "grounds": "next topic to be explained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "marks transition to new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative address to hearer",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What transition is made after explaining the ābhāsa mansion type?",
+   "premises": [
+    "The ābhāsa mansion has already been declared.",
+    "A new topic called vikalpa is introduced.",
+    "The hearer is instructed to listen now."
+   ],
+   "inference": "Having declared the ābhāsa mansion, the teaching now turns to its variant forms.",
+   "uncertainties": [],
+   "plain_english": "The ābhāsa mansion has been explained; now listen to its variant."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "dvidvihastavivṛddhyā",
+     "gloss": "by-two-by-two-cubit-increase",
+     "grounds": "incremental rule",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturviṃśati",
+     "gloss": "twenty-four",
+     "grounds": "numerical count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-count",
+     "grounds": "specifies enumeration",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What increment and total count govern the next measurement scheme?",
+   "premises": [
+    "Increase proceeds by two cubits at a time.",
+    "The total count reaches twenty-four.",
+    "The count is explicitly stated."
+   ],
+   "inference": "The scheme proceeds by increments of two cubits up to a total count of twenty-four.",
+   "uncertainties": [],
+   "plain_english": "By increases of two cubits at a time, the count reaches twenty-four."
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "adhamaṃ",
+     "gloss": "lowest",
+     "grounds": "first grade in triad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamotkṛṣṭaṃ",
+     "gloss": "middle-and-highest",
+     "grounds": "second and third grades in triad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayobhedatalaṃ",
+     "gloss": "threefold-division-per-storey",
+     "grounds": "classification applied to each storey",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "for-each",
+     "grounds": "distributive relation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the grades distributed with respect to each storey level?",
+   "premises": [
+    "Three grades are named: lowest, middle and highest.",
+    "A threefold division is applied.",
+    "This division applies to each storey."
+   ],
+   "inference": "Each storey is divided into lowest, middle and highest grades.",
+   "uncertainties": [],
+   "plain_english": "For each storey there is a threefold division into lowest, middle and highest."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "ṣaṭsaptāṣṭādhikāśītyantaṃ",
+     "gloss": "ending-at-eighty-six-seven-eight",
+     "grounds": "upper limit of height range",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uccaṃ",
+     "gloss": "height",
+     "grounds": "vertical dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgiva",
+     "gloss": "as-before",
+     "grounds": "refers to earlier method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-count",
+     "grounds": "specifies enumeration",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Up to what limit does the height extend and by what method is it counted?",
+   "premises": [
+    "The height reaches an upper limit expressed as eighty plus six, seven or eight.",
+    "The counting follows the previous method.",
+    "The dimension in question is height."
+   ],
+   "inference": "The height extends up to eighty-six, eighty-seven or eighty-eight, counted as before.",
+   "uncertainties": [
+    "The exact parsing of the compound upper limit follows conventional numerical reading."
+   ],
+   "plain_english": "The height extends up to eighty-six, eighty-seven or eighty-eight, counted as before."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "tricaturdaśahastādi",
+     "gloss": "beginning-at-thirteen-or-fourteen-cubits",
+     "grounds": "starting measure of range",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvidvihasta",
+     "gloss": "two-by-two-cubit",
+     "grounds": "incremental unit",
+     "morph": "compound-initial"
+    },
+    {
+     "surface": "vivardhanāt",
+     "gloss": "by-increase",
+     "grounds": "process of increment",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What starting point and increment define the next measurement range?",
+   "premises": [
+    "The range begins at thirteen or fourteen cubits.",
+    "Increase proceeds by two cubits at a time.",
+    "The increment defines the progression."
+   ],
+   "inference": "The range starts at thirteen or fourteen cubits and increases by two cubits at each step.",
+   "uncertainties": [],
+   "plain_english": "Beginning at thirteen or fourteen cubits, the measure increases by two cubits at a time."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "vedabhūmiṃ",
+     "gloss": "four-storeys",
+     "grounds": "starting number of storeys",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "marks starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānubhūmāvasānakam",
+     "gloss": "ending-at-twelve-storeys",
+     "grounds": "upper limit of storeys",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What range of storeys is specified from the starting to the ending limit?",
+   "premises": [
+    "The sequence begins at four storeys.",
+    "The sequence ends at twelve storeys.",
+    "The range is explicitly bounded."
+   ],
+   "inference": "The prescribed range runs from four storeys up to twelve storeys.",
+   "uncertainties": [
+    "The symbolic values veda and bhānu are interpreted as four and twelve."
+   ],
+   "plain_english": "Beginning from four storeys, the range extends up to twelve storeys."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "saptāṣṭadaśahastādi",
+     "gloss": "beginning-at-seven-eight-ten-cubits",
+     "grounds": "starting measures of range",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tritrihastavivardhanāt",
+     "gloss": "by-three-by-three-cubit-increase",
+     "grounds": "incremental rule",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What starting measures and increment apply in this measurement sequence?",
+   "premises": [
+    "The sequence begins at seven, eight or ten cubits.",
+    "Increase proceeds by three cubits at a time.",
+    "The increment governs the progression."
+   ],
+   "inference": "Starting at seven, eight or ten cubits, the measure increases by three cubits at each step.",
+   "uncertainties": [],
+   "plain_english": "Beginning at seven, eight or ten cubits, the measure increases by three cubits at a time."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "adhamaṃ",
+     "gloss": "lowest",
+     "grounds": "first grade in triad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamotkṛṣṭaṃ",
+     "gloss": "middle-and-highest",
+     "grounds": "second and third grades in triad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tuṃgabhedaṃ",
+     "gloss": "height-division",
+     "grounds": "classification by height",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "talaṃ",
+     "gloss": "storey",
+     "grounds": "level to which division applies",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "for-each",
+     "grounds": "distributive relation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the height division graded for each storey in this scheme?",
+   "premises": [
+    "Height divisions are distinguished.",
+    "Three grades are recognized: lowest, middle and highest.",
+    "The grading applies to each storey."
+   ],
+   "inference": "For each storey, the height division is classified as lowest, middle or highest.",
+   "uncertainties": [],
+   "plain_english": "For each storey, the height division is graded as lowest, middle or highest."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "saptāṣṭadaśahastādi",
+     "gloss": "beginning-at-seven-eight-ten-cubits",
+     "grounds": "starting measures of range",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvidvihastavivardhanāt",
+     "gloss": "by-two-by-two-cubit-increase",
+     "grounds": "incremental rule",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What starting measures and increment define this subsequent range?",
+   "premises": [
+    "The sequence begins at seven, eight or ten cubits.",
+    "Increase proceeds by two cubits at a time.",
+    "The increment governs the progression."
+   ],
+   "inference": "Starting at seven, eight or ten cubits, the measure increases by two cubits at each step.",
+   "uncertainties": [],
+   "plain_english": "Beginning at seven, eight or ten cubits, the measure increases by two cubits at a time."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "caturbhūmisamārabhya",
+     "gloss": "beginning-from-four-storeys",
+     "grounds": "starting point of storey range",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvadarkatalāvadhi",
+     "gloss": "up-to-twelve-storey-limit",
+     "grounds": "upper limit of storey range",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lower and upper bounds delimit the storey range in this case?",
+   "premises": [
+    "The range begins at four storeys.",
+    "The range extends up to twelve storeys.",
+    "Both bounds are explicitly stated."
+   ],
+   "inference": "The storey range runs from four storeys up to twelve storeys.",
+   "uncertainties": [
+    "The symbolic value arka is interpreted as twelve."
+   ],
+   "plain_english": "Beginning from four storeys, the range extends up to the limit of twelve storeys."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "ekadvāviṃśahastādi",
+     "gloss": "beginning-at-twenty-one-cubits",
+     "grounds": "starting measure of range",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tritrihastavivardhanāt",
+     "gloss": "by-three-by-three-cubit-increase",
+     "grounds": "incremental rule",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What starting measure and increment govern this final measurement sequence?",
+   "premises": [
+    "The sequence begins at twenty-one cubits.",
+    "Increase proceeds by three cubits at a time.",
+    "The increment governs the progression."
+   ],
+   "inference": "Starting at twenty-one cubits, the measure increases by three cubits at each step.",
+   "uncertainties": [
+    "The compound ekadvāviṃśahastādi is read as beginning at twenty-one cubits."
+   ],
+   "plain_english": "Beginning at twenty-one cubits, the measure increases by three cubits at a time."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "adhamaṃ",
+     "gloss": "lowest",
+     "grounds": "first grade in triad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamotkṛṣṭaṃ",
+     "gloss": "middle-and-highest",
+     "grounds": "second and third grades in triad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "vertical dimension being graded",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramoditam",
+     "gloss": "declared-in-order",
+     "grounds": "indicates sequential exposition",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the height graded and presented in this ordered scheme?",
+   "premises": [
+    "The height is the dimension under consideration.",
+    "Three grades are distinguished: lowest, middle and highest.",
+    "The exposition follows a declared order."
+   ],
+   "inference": "The height is declared in order as lowest, middle and highest.",
+   "uncertainties": [],
+   "plain_english": "The height is indeed declared in order as lowest, middle and highest."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "jāticchandavikalpaṃ",
+     "gloss": "jāti-chanda-vikalpa",
+     "grounds": "three classes of architectural variants",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ābhāsena",
+     "gloss": "with-ābhāsa",
+     "grounds": "in relation to ābhāsa type",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "o-best-of-twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What three classes of variants are associated with the ābhāsa type?",
+   "premises": [
+    "The terms jāti, chanda and vikalpa name variant classes.",
+    "These are presented together as a group.",
+    "They are related to the ābhāsa type."
+   ],
+   "inference": "The jāti, chanda and vikalpa variants are associated with the ābhāsa type.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, the jāti, chanda and vikalpa variants are associated with the ābhāsa."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "yugāśretyuktamāne",
+     "gloss": "in-measure-called-square",
+     "grounds": "context of previously stated square measure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasūtraṃ",
+     "gloss": "measuring-cord",
+     "grounds": "cord used for layout",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-lay-down",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where should the measuring cord be laid according to the stated square measure?",
+   "premises": [
+    "The context is the measure called square.",
+    "The measuring cord is the object to be placed.",
+    "The optative verb prescribes laying it down."
+   ],
+   "inference": "In the context of the stated square measure, one should lay down the measuring cord.",
+   "uncertainties": [
+    "The compound yugāśretyuktamāne is read as referring to the previously mentioned square measure."
+   ],
+   "plain_english": "In the measure called square, one should lay down the measuring cord."
+  }
+ ]
+}

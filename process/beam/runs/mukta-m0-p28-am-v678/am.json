@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p28",
  "verse": 678,
- "question": "Which auspicious dream signs indicate favorable attainment for the dreamer?",
+ "question": "On which side of the wall may the outer-going boundary be placed?",
  "premises": [
-  "Gaining a peacock appears as a dream sign.",
-  "Obtaining a white garment appears as a dream sign.",
-  "Wearing flowers and sandalwood appears as a dream sign."
+  "An outer-going wall boundary is under consideration.",
+  "Placement may be on the outside or on the inside."
  ],
- "inference": "These images are presented as favorable dream omens.",
- "uncertainties": [],
- "plain_english": "Gaining a peacock, a white garment, or wearing flowers and sandalwood are such signs."
+ "inference": "The boundary admits placement on either the outer or inner side of the wall.",
+ "uncertainties": [
+  "The token ghrau is obscure and its technical role is unclear.",
+  "The token pi is read as a variant of api."
+ ],
+ "plain_english": "The boundary going to the outside of the wall may be placed on the outside or also on the inside."
 }

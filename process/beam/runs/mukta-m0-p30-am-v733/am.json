@@ -1,13 +1,13 @@
 {
  "song": "mukta-m0-p30",
  "verse": 733,
- "question": "How should the pedestal and door ornaments be arranged in this diagram?",
+ "question": "What range of ground-plan shapes is permitted for this architectural form?",
  "premises": [
-  "The pedestal is to be formed by rows.",
-  "Door ornaments are included.",
-  "The arrangement follows the previous pattern."
+  "Equal-cornered and oblong-cornered forms are options.",
+  "Round and round-elongated forms are options.",
+  "Multiple alternatives are explicitly allowed."
  ],
- "inference": "The pedestal should be arranged by rows, and the door ornaments should be made as before.",
+ "inference": "The plan may be equal-cornered, oblong-cornered, round, or round-elongated.",
  "uncertainties": [],
- "plain_english": "The pedestal should be formed by rows, and the door ornaments should be made as before."
+ "plain_english": "It may be equal-cornered or oblong-cornered, or else round or round-elongated."
 }
