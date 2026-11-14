@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1113,
- "question": "How should the number of lamps change for nighttime worship compared to the baseline count?",
+ "question": "From what material must the ritual pot be made before it is filled?",
  "premises": [
-  "Lamp offerings have a baseline count.",
-  "Nighttime worship is treated distinctly.",
-  "The count may be adjusted by a fixed ratio."
+  "A pot is required for the rite.",
+  "The pot is made from the tree of the target's nakṣatra.",
+  "The pot must then be filled."
  ],
- "inference": "At night, the number of lamps should be double the baseline count.",
- "uncertainties": [],
- "plain_english": "If the lamps are counted as one set, at night that number should be doubled."
+ "inference": "One should make a pot from the target's nakṣatra tree and then fill it.",
+ "uncertainties": [
+  "The substance used to fill the pot is specified in following verses or context."
+ ],
+ "plain_english": "Having made a pot from the tree of the target's nakṣatra, one should fill it."
 }

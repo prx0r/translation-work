@@ -3,34 +3,39 @@
  "verse": 1056,
  "rows": [
   {
-   "lemma": "pūjakaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject performing the rite"
+   "lemma": "pratipadya",
+   "morph": "(indecl.) absolutive prati+√pad",
+   "grounds": "prior act toward enemy"
   },
   {
-   "lemma": "sandhipūrve",
-   "morph": "m/n.loc.sg, compound tatpuruṣa",
-   "grounds": "locative indicating time before the junction period"
-  },
-  {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "particle marking procedural specification"
-  },
-  {
-   "lemma": "kuryāt",
-   "morph": "3.sg.opt.act √kṛ",
-   "grounds": "optative prescribing action"
-  },
-  {
-   "lemma": "snānādikaṃ",
-   "morph": "m.acc.sg, compound bahuvrīhi/tatpuruṣa",
-   "grounds": "accusative object; compound with ādi indicating related acts"
-  },
-  {
-   "lemma": "vidhim",
+   "lemma": "nijaṃ",
    "morph": "m.acc.sg",
-   "grounds": "accusative object specifying the procedure"
+   "grounds": "specifies enemy"
+  },
+  {
+   "lemma": "śatruṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object approached"
+  },
+  {
+   "lemma": "pra",
+   "morph": "compound-member",
+   "grounds": "verbal prefix in fused form"
+  },
+  {
+   "lemma": "japen",
+   "morph": "3.sg.act-opt √jap",
+   "grounds": "mantra recitation"
+  },
+  {
+   "lemma": "mantra",
+   "morph": "compound-member",
+   "grounds": "object in compound"
+  },
+  {
+   "lemma": "vittamaḥ",
+   "morph": "m.nom.sg compound mantra+vittama",
+   "grounds": "qualified practitioner"
   }
  ]
 }
