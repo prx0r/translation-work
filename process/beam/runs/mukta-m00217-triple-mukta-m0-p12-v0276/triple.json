@@ -1,0 +1,943 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "phāntaṃ",
+     "gloss": "ending-in-pha",
+     "grounds": "syllable component ending with the letter pha",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "śakreṇa",
+     "gloss": "with-śakra",
+     "grounds": "the vowel ī associated with Śakra/Indra",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "combined or conjoined",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "vāmakarṇavibhūṣitam",
+     "gloss": "adorned-with-left-ear",
+     "grounds": "marked by the left-ear vowel; compound vāma+karṇa+vibhūṣitam",
+     "morph": "acc.sg.nt"
+    }
+   ],
+   "question": "What phonetic components constitute the specified seed syllable's complete form?",
+   "premises": [
+    "The syllable ends with the letter pha.",
+    "It is joined with the śakra vowel.",
+    "It is adorned with the left-ear vowel."
+   ],
+   "inference": "The seed syllable is defined by the combination of pha, the śakra vowel, and the left-ear adornment.",
+   "uncertainties": [
+    "The exact vowel values indicated by śakra and vāmakarṇa depend on the mantra code tradition."
+   ],
+   "plain_english": "The syllable ends in pha, is joined with the śakra vowel, and is adorned with the left-ear vowel."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral indicating quantity",
+     "morph": "acc.pl.nt"
+    },
+    {
+     "surface": "bāṇā",
+     "gloss": "arrows",
+     "grounds": "the five arrows",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "the names to be enumerated",
+     "morph": "acc.pl.nt"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp.act (√śru)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvati",
+     "grounds": "vocative address to Pārvati",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What request is made to Pārvati regarding the names of the five arrows?",
+   "premises": [
+    "The speaker addresses Maheśāni and Pārvati.",
+    "Five arrows are the subject.",
+    "Pārvati is asked to hear their names."
+   ],
+   "inference": "The verse introduces the enumeration of the names of the five arrows.",
+   "uncertainties": [],
+   "plain_english": "O great goddess Pārvati, hear the names of the five arrows."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "vaśyonmādau",
+     "gloss": "vaśya-and-unmāda",
+     "grounds": "the two names vaśya and unmāda; compound vaśya+unmādau",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "krameṇaiva",
+     "gloss": "in-order-indeed",
+     "grounds": "in due sequence; krameṇa+eva with sandhi",
+     "morph": "inst.sg.m + (indecl.)"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "the names being specified",
+     "morph": "nom.pl.nt"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Which two names are specified in sequence as part of the arrow names?",
+   "premises": [
+    "The names vaśya and unmāda are mentioned.",
+    "They are given in order.",
+    "The supreme goddess is addressed."
+   ],
+   "inference": "Vaśya and unmāda are the first two names in the sequential list.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, vaśya and unmāda are the names in due order."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "parābījaṃ",
+     "gloss": "supreme-seed",
+     "grounds": "the parā seed syllable; compound parā+bījaṃ",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "madhyabāṇaṃ",
+     "gloss": "middle-arrow",
+     "grounds": "the middle arrow; compound madhya+bāṇaṃ",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava",
+     "grounds": "the vāgbhava seed syllable",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Which seed syllables are identified as the supreme seed and the middle arrow?",
+   "premises": [
+    "The parābīja is named.",
+    "The madhyabāṇa is named.",
+    "The vāgbhava is named."
+   ],
+   "inference": "The verse identifies parābīja, madhyabāṇa, and vāgbhava in this context.",
+   "uncertainties": [
+    "The exact syntactic mapping among the three terms is compressed in the verse."
+   ],
+   "plain_english": "O supreme goddess, the supreme seed, the middle arrow, and the vāgbhava are named."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral indicating quantity",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kāmāḥ",
+     "gloss": "desires",
+     "grounds": "the five kāmas",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kramāddevi",
+     "gloss": "in-order-o-goddess",
+     "grounds": "in sequence, addressing the goddess; kramāt+devi with sandhi",
+     "morph": "abl.sg.m + voc.sg.f"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "the names to be heard",
+     "morph": "acc.pl.nt"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp.act (√śru)"
+    },
+    {
+     "surface": "vallabhe",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What request is made regarding the names of the five desires in sequence?",
+   "premises": [
+    "Five desires are mentioned.",
+    "Their names are to be given in order.",
+    "The beloved goddess is asked to hear them."
+   ],
+   "inference": "The verse introduces the sequential enumeration of the five kāmas.",
+   "uncertainties": [],
+   "plain_english": "O goddess, beloved one, hear in order the names of the five desires."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "mīnaketurmaheśāni",
+     "gloss": "mīnaketu-o-great-goddess",
+     "grounds": "the name Mīnaketu and vocative; mīnaketuḥ+maheśāni with sandhi",
+     "morph": "nom.sg.m + voc.sg.f"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "the fifth in the sequence",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "proclaimed or stated",
+     "morph": "nom.sg.m.past-pass.part (pari+√kīrt)"
+    }
+   ],
+   "question": "Who is declared to be the fifth among the enumerated desires?",
+   "premises": [
+    "Mīnaketu is named.",
+    "He is identified as the fifth.",
+    "This identification is declared."
+   ],
+   "inference": "Mīnaketu is the fifth desire in the list.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, Mīnaketu is declared to be the fifth."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "mūlavidyādvirāvṛttyā",
+     "gloss": "by-root-mantra-double-repetition",
+     "grounds": "by repeating the root mantra twice; compound mūla+vidyā+dvirāvṛttyā",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "sarvāṃgulitaleṣvapi",
+     "gloss": "on-all-finger-surfaces-also",
+     "grounds": "on the surfaces of all fingers as well; compound sarva+aṅguli+taleṣu+api with sandhi",
+     "morph": "loc.pl.nt + (indecl.)"
+    }
+   ],
+   "question": "How is the root mantra applied across all finger surfaces in the rite?",
+   "premises": [
+    "The root mantra is repeated twice.",
+    "The application is on all finger surfaces.",
+    "The scope includes all fingers."
+   ],
+   "inference": "The root mantra is to be applied twice on the surfaces of all fingers.",
+   "uncertainties": [],
+   "plain_english": "By repeating the root mantra twice, apply it on the surfaces of all the fingers as well."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction to perform",
+     "morph": "3.sg.opt.mid (√kṛ)"
+    },
+    {
+     "surface": "dehasannāhaṃ",
+     "gloss": "body-armor",
+     "grounds": "the armoring or binding of the body; compound deha+sannāhaṃ",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tribhirbījaiḥ",
+     "gloss": "with-three-seeds",
+     "grounds": "using three seed syllables; tribhiḥ+bījaiḥ with sandhi",
+     "morph": "inst.pl.nt"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "in proper sequence",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How should the practitioner perform the body armor using the three seed syllables?",
+   "premises": [
+    "A body armor is to be performed.",
+    "Three seed syllables are used.",
+    "The action is done in sequence."
+   ],
+   "inference": "The body armor should be performed in order with the three seed syllables.",
+   "uncertainties": [],
+   "plain_english": "O beloved, one should perform the body armor in sequence with the three seed syllables."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "on the right side",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "on the left side",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "after placing or depositing",
+     "morph": "absolutive (vi+ni+√as)"
+    },
+    {
+     "surface": "dakṣakūrparapāṇiṣu",
+     "gloss": "on-right-elbow-hands",
+     "grounds": "on the right elbow and hands; compound dakṣa+kūrpara+pāṇiṣu",
+     "morph": "loc.pl.m"
+    }
+   ],
+   "question": "Where should the placement be made on the right and left sides of the body?",
+   "premises": [
+    "Placement is to be done on right and left.",
+    "The action involves placing.",
+    "Specific locations include the right elbow and hands."
+   ],
+   "inference": "After placing on right and left, one places on the right elbow and hands.",
+   "uncertainties": [
+    "The exact distribution between right and left sides is not fully explicit."
+   ],
+   "plain_english": "Having placed on the right and left, place on the right elbow and hands."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "nādānte",
+     "gloss": "at-nāda-end",
+     "grounds": "at the end of nāda; compound nāda+ante",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "in the heart region",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "in the generative organ region",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "nyaseddevi",
+     "gloss": "one-should-place-o-goddess",
+     "grounds": "one should place, addressing the goddess; nyaset+devi with sandhi",
+     "morph": "3.sg.opt.act (ni+√as) + voc.sg.f"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "thereafter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "next or further",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bodily locations are designated for placement after the preceding steps?",
+   "premises": [
+    "Placement is prescribed at nādānta.",
+    "Placement is prescribed in the heart.",
+    "Placement is prescribed in the liṅga."
+   ],
+   "inference": "One should then place at nādānta, the heart, and the liṅga.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should then place at the end of nāda, in the heart, and in the liṅga."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "vidyāsṛṣṭikrameṇaiva",
+     "gloss": "by-mantra-emanation-order-indeed",
+     "grounds": "according to the order of mantra emanation; compound vidyā+sṛṣṭi+krameṇa+eva with sandhi",
+     "morph": "inst.sg.m + (indecl.)"
+    },
+    {
+     "surface": "jānīhi",
+     "gloss": "know",
+     "grounds": "command to understand",
+     "morph": "2.sg.imp.act (√jñā)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "According to which order should the placement sequence be understood?",
+   "premises": [
+    "An order of vidyā-sṛṣṭi is specified.",
+    "The goddess is instructed to know this.",
+    "The order is emphasized as the correct one."
+   ],
+   "inference": "The placement must be understood according to the order of mantra emanation.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, know it according to the order of the emanation of the mantra."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "karṇayościbuke",
+     "gloss": "on-ears-and-chin",
+     "grounds": "on the two ears and on the chin; karṇayoḥ+cibuke with sandhi",
+     "morph": "loc.du.nt + loc.sg.nt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "śaṅkhayormukhamaṇḍale",
+     "gloss": "on-temples-and-face-circle",
+     "grounds": "on the temples and on the face area; śaṅkhayoḥ+mukha+maṇḍale with sandhi",
+     "morph": "loc.du.m + loc.sg.nt"
+    }
+   ],
+   "question": "Which facial and head locations are specified for the next placements?",
+   "premises": [
+    "The ears and chin are named.",
+    "The temples and face area are named.",
+    "The goddess is addressed."
+   ],
+   "inference": "Placement is to be made on the ears, chin, temples, and face area.",
+   "uncertainties": [],
+   "plain_english": "O goddess, place on the ears and chin, and on the temples and the circle of the face."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karpūrayoḥ",
+     "gloss": "on-shoulders",
+     "grounds": "on the two shoulder regions",
+     "morph": "loc.du.m"
+    },
+    {
+     "surface": "kukṣau",
+     "gloss": "on-belly",
+     "grounds": "on the belly",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jānvorjaṅghe",
+     "gloss": "on-knees-and-shins",
+     "grounds": "on the knees and shins; jānvoḥ+jaṅghe with sandhi",
+     "morph": "loc.du.nt + loc.du.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "one should deposit",
+     "morph": "3.sg.opt.act (vi+ni+√as)"
+    }
+   ],
+   "question": "Which additional body parts are included in the continued placement sequence?",
+   "premises": [
+    "Placement continues likewise.",
+    "Shoulders, belly, knees, and shins are named.",
+    "The action is prescribed as placement."
+   ],
+   "inference": "One should likewise place on the shoulders, belly, knees, and shins.",
+   "uncertainties": [
+    "The term karpūrayoḥ is taken as shoulders by contextual ritual usage."
+   ],
+   "plain_english": "Likewise, one should place on the shoulders, on the belly, and on the knees and shins."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "on-throat",
+     "grounds": "on the throat",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navayonyākhyaṃ",
+     "gloss": "called-nine-wombs",
+     "grounds": "known as the nine-womb; compound nava+yoni+ākhyaṃ",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "nyasedbījatrayātmakam",
+     "gloss": "should-place-three-seed-natured",
+     "grounds": "should place that which consists of three seeds; nyaset+bīja+traya+ātmakam with sandhi",
+     "morph": "3.sg.opt.act (ni+√as) + acc.sg.nt"
+    }
+   ],
+   "question": "What three-seed entity called the nine-womb is to be placed on the throat?",
+   "premises": [
+    "The throat is specified as the location.",
+    "An entity called navayoni is named.",
+    "It is composed of three seed syllables."
+   ],
+   "inference": "The three-seed navayoni should be placed on the throat.",
+   "uncertainties": [],
+   "plain_english": "And on the throat one should place that which is called the nine-womb, consisting of the three seed syllables."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "tridvyekadaśakatridvisaṃkhyayā",
+     "gloss": "by-three-two-one-ten-three-two-count",
+     "grounds": "by the numerical sequence three, two, one, ten, three, two; compound tri+dvī+eka+daśaka+tri+dvi+saṃkhyayā",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "śailasambhave",
+     "gloss": "o-mountain-born",
+     "grounds": "vocative address to the mountain-born goddess",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What numerical sequence is specified for the ritual count in this context?",
+   "premises": [
+    "A compound numerical sequence is given.",
+    "The sequence is three, two, one, ten, three, two.",
+    "The mountain-born goddess is addressed."
+   ],
+   "inference": "The rite involves the specified numerical count of three, two, one, ten, three, two.",
+   "uncertainties": [
+    "The exact ritual application of this count is not stated in this verse alone."
+   ],
+   "plain_english": "O mountain-born goddess, by the count of three, two, one, ten, three, and two."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "ratnamaṇḍapamadhye",
+     "gloss": "in-jewel-pavilion-middle",
+     "grounds": "in the middle of a jeweled pavilion; compound ratna+maṇḍapa+madhye",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahākalpavanāntare",
+     "gloss": "within-great-kalpa-forest",
+     "grounds": "inside a great kalpa-tree forest; compound mahā+kalpa+vana+antare",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "Where is the envisioned setting located for the deity's visualization?",
+   "premises": [
+    "A jeweled pavilion is mentioned.",
+    "The location is in its middle.",
+    "It is within a great kalpa forest."
+   ],
+   "inference": "The visualization is set in the middle of a jeweled pavilion within a great kalpa forest.",
+   "uncertainties": [],
+   "plain_english": "In the middle of a jeweled pavilion, within a great forest of wish-fulfilling trees."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "anarghyaratnaghaṭitamukuṭāṃ",
+     "gloss": "priceless-jewel-set-crown",
+     "grounds": "wearing a crown set with priceless jewels; compound anarghya+ratna+ghaṭita+mukuṭāṃ",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ratnakuṇḍalām",
+     "gloss": "jewel-earringed",
+     "grounds": "wearing jeweled earrings; compound ratna+kuṇḍalām",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What ornaments adorn the deity in the described visualization?",
+   "premises": [
+    "The deity wears a crown set with priceless jewels.",
+    "The deity wears jeweled earrings.",
+    "Both ornaments are described as jewel-adorned."
+   ],
+   "inference": "The deity is visualized with a priceless jeweled crown and jeweled earrings.",
+   "uncertainties": [],
+   "plain_english": "She wears a crown set with priceless jewels and jeweled earrings."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "pustakaṃ",
+     "gloss": "book",
+     "grounds": "a manuscript or book",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "cābhayaṃ",
+     "gloss": "and-fearlessness",
+     "grounds": "and the gesture of fearlessness; ca+abhayaṃ with sandhi",
+     "morph": "(indecl.) + acc.sg.nt"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "in the left hands",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "in the right hands",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "cākṣamālikām",
+     "gloss": "and-rosary",
+     "grounds": "and a rosary; ca+akṣamālikām with sandhi",
+     "morph": "(indecl.) + acc.sg.f"
+    }
+   ],
+   "question": "Which attributes are held in the deity's left and right hands?",
+   "premises": [
+    "A book and fearlessness are in the left.",
+    "A rosary is in the right.",
+    "The attributes are distributed by side."
+   ],
+   "inference": "The deity holds a book and the gesture of fearlessness in the left, and a rosary in the right.",
+   "uncertainties": [],
+   "plain_english": "In her left hands she holds a book and the gesture of fearlessness, and in her right a rosary."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "saṃpatpradā",
+     "gloss": "prosperity-giver",
+     "grounds": "the one who grants prosperity; compound saṃpat+pradā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "named",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "of that goddess",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp.act (√śru)"
+    },
+    {
+     "surface": "nirmalamānase",
+     "gloss": "o-pure-minded",
+     "grounds": "one of pure mind; compound nirmala+mānase",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What name of the described goddess is the pure-minded listener asked to hear?",
+   "premises": [
+    "The goddess is called Saṃpatpradā.",
+    "The listener is addressed as pure-minded.",
+    "The listener is asked to hear her name."
+   ],
+   "inference": "The goddess is named Saṃpatpradā, the giver of prosperity.",
+   "uncertainties": [],
+   "plain_english": "O pure-minded one, hear: her name is Saṃpatpradā, the giver of prosperity."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "kāmarājaṃ",
+     "gloss": "kāmarāja",
+     "grounds": "the kāmarāja seed syllable; compound kāma+rājaṃ",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "then",
+     "grounds": "likewise or next",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "śivacandrānvitaṃ",
+     "gloss": "endowed-with-śiva-and-moon",
+     "grounds": "accompanied by śiva and candra elements; compound śiva+candra+anvitaṃ",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra components are specified in sequence for the goddess's formulation?",
+   "premises": [
+    "The kāmarāja is named.",
+    "It is endowed with śiva and candra elements.",
+    "The sequence continues thereafter."
+   ],
+   "inference": "The formulation begins with kāmarāja endowed with śiva and candra.",
+   "uncertainties": [
+    "The precise phonetic realization of śivacandrānvitaṃ depends on mantra coding."
+   ],
+   "plain_english": "O goddess, take the kāmarāja, endowed with śiva and the moon, and then proceed."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "śaktibīje",
+     "gloss": "in-śakti-seed",
+     "grounds": "in the śakti seed syllable; compound śakti+bīje",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "śivavahnī",
+     "gloss": "śiva-and-fire",
+     "grounds": "the śiva and fire elements; compound śiva+vahnī",
+     "morph": "acc.du.m"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-apply",
+     "grounds": "one should join or employ",
+     "morph": "3.sg.opt.act (ni+√yuj)"
+    }
+   ],
+   "question": "What elements should be applied within the śakti seed syllable?",
+   "premises": [
+    "The śakti seed is the locus.",
+    "Śiva and fire elements are named.",
+    "They are to be applied."
+   ],
+   "inference": "One should apply the śiva and fire elements in the śakti seed.",
+   "uncertainties": [
+    "The exact phonetic encoding of śiva and vahni follows mantra conventions."
+   ],
+   "plain_english": "O great goddess, one should apply the śiva and fire elements in the śakti seed."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "tripurābhairavī",
+     "gloss": "tripurā-bhairavī",
+     "grounds": "the goddess Tripurā Bhairavī; compound tripurā+bhairavī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the deity",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mahāsaṃpatpradā",
+     "gloss": "great-prosperity-giver",
+     "grounds": "giver of great prosperity; compound mahā+saṃpat+pradā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Which goddess is identified as the great giver of prosperity in this mantra context?",
+   "premises": [
+    "Tripurā Bhairavī is named.",
+    "She is called the goddess.",
+    "She is described as the great giver of prosperity."
+   ],
+   "inference": "The deity is identified as Tripurā Bhairavī, the great giver of prosperity.",
+   "uncertainties": [],
+   "plain_english": "O beloved, the goddess is Tripurā Bhairavī, the great giver of prosperity."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "mūlamantradvirāvṛttyā",
+     "gloss": "by-root-mantra-double-repetition",
+     "grounds": "by repeating the root mantra twice; compound mūla+mantra+dvirāvṛttyā",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "ṣaḍaṅganyāsaḥ",
+     "gloss": "six-limb-placement",
+     "grounds": "the placement on six limbs; compound ṣaḍaṅga+nyāsaḥ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "nom.sg.m.past-pass.part (√īr)"
+    }
+   ],
+   "question": "How is the six-limb placement prescribed to be performed with the root mantra?",
+   "premises": [
+    "The root mantra is repeated twice.",
+    "The ṣaḍaṅganyāsa is the rite performed.",
+    "This method is declared."
+   ],
+   "inference": "The six-limb placement is declared to be performed by repeating the root mantra twice.",
+   "uncertainties": [],
+   "plain_english": "The six-limb placement is declared to be done by repeating the root mantra twice."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "the deity as object of praise",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "baddhahimāṃśukhaṇḍamukuṭāṃ",
+     "gloss": "bound-moon-piece-crowned",
+     "grounds": "wearing a crown with a bound piece of the moon; compound baddha+himāṃśu+khaṇḍa+mukuṭāṃ",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vande",
+     "gloss": "i-praise",
+     "grounds": "I salute or worship",
+     "morph": "1.sg.pres.mid (√vand)"
+    },
+    {
+     "surface": "sumandasmitām",
+     "gloss": "with-gentle-smile",
+     "grounds": "having a very gentle smile; compound sumanda+smitām",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How is the goddess characterized in the concluding act of praise?",
+   "premises": [
+    "The goddess is praised.",
+    "She wears a crown with a piece of the moon.",
+    "She has a gentle smile."
+   ],
+   "inference": "The practitioner praises the goddess crowned with a moon fragment and bearing a gentle smile.",
+   "uncertainties": [],
+   "plain_english": "I praise the goddess, crowned with a bound piece of the moon and wearing a gentle smile."
+  }
+ ]
+}

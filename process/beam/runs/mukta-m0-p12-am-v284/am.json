@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 284,
- "question": "By whom and how frequently should the speaker be worshipped?",
+ "question": "Where should the placement be made on the right and left sides of the body?",
  "premises": [
-  "The speaker declares himself worthy of worship.",
-  "The worshippers are described as the best and endowed with devotion.",
-  "The worship is to occur six times."
+  "Placement is to be done on right and left.",
+  "The action involves placing.",
+  "Specific locations include the right elbow and hands."
  ],
- "inference": "The speaker should be worshipped six times by the best devotees.",
- "uncertainties": [],
- "plain_english": "I am to be worshipped six times by the best ones, those endowed with devotion."
+ "inference": "After placing on right and left, one places on the right elbow and hands.",
+ "uncertainties": [
+  "The exact distribution between right and left sides is not fully explicit."
+ ],
+ "plain_english": "Having placed on the right and left, place on the right elbow and hands."
 }

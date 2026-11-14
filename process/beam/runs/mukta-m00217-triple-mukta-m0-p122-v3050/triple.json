@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p122",
+ "items": [
+  {
+   "verse": 3050,
+   "rows": [
+    {
+     "surface": "caturasradvayaṃ",
+     "gloss": "pair-of-squares",
+     "grounds": "object of kṛtvā; compound of caturasra and dvaya",
+     "morph": "n.acc.sg.nt (compound)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive expressing the act of constructing",
+     "morph": "abs. (√kṛ)"
+    },
+    {
+     "surface": "prākpratyakdvārasaṃyutam",
+     "gloss": "east-west-door-endowed",
+     "grounds": "qualifies caturasradvayaṃ; compound of prāk, pratyak, dvāra, and saṃyuta",
+     "morph": "n.acc.sg.nt (compound)"
+    }
+   ],
+   "question": "What structural arrangement of two squares is prescribed for the ritual space?",
+   "premises": [
+    "A pair of squares is to be constructed.",
+    "The construction is indicated by the act of making.",
+    "The pair of squares must be furnished with doors facing east and west."
+   ],
+   "inference": "The ritual space requires two squares arranged with entrances on the eastern and western sides.",
+   "uncertainties": [],
+   "plain_english": "Having made a pair of squares furnished with doors to the east and west."
+  }
+ ]
+}
