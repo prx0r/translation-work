@@ -3,24 +3,39 @@
  "verse": 435,
  "rows": [
   {
-   "lemma": "udāsīna+janasya+eva",
-   "morph": "compound: udāsīna+jana (m.gen.sg)+eva (indecl.)",
-   "grounds": "compound denoting an indifferent person with emphasis"
+   "lemma": "etat",
+   "morph": "n.nom.sg",
+   "grounds": "demonstrative"
   },
   {
-   "lemma": "sānnidhye",
-   "morph": "n.loc.sg",
-   "grounds": "locative indicating proximity"
+   "lemma": "te",
+   "morph": "pronoun.dat.sg",
+   "grounds": "recipient"
   },
   {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation particle"
+   "lemma": "kathitaṃ",
+   "morph": "n.nom.sg.past-participle + kath",
+   "grounds": "communicated"
   },
   {
-   "lemma": "vadet+api",
-   "morph": "compound: vadet (3.sg.opt.act, √vad)+api (indecl.)",
-   "grounds": "compound with optative verb and emphatic particle"
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
+  },
+  {
+   "lemma": "varṇa",
+   "morph": "compound: varṇa+first",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "jñāna",
+   "morph": "compound: jñāna+first",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "vinirṇayam",
+   "morph": "m.acc.sg",
+   "grounds": "conclusive teaching"
   }
  ]
 }

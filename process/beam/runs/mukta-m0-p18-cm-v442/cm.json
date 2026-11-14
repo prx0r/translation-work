@@ -3,29 +3,39 @@
  "verse": 442,
  "rows": [
   {
-   "lemma": "eṣā",
-   "morph": "f.nom.sg",
-   "grounds": "demonstrative pronoun"
+   "lemma": "yāga",
+   "morph": "compound: yāga+first",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "tu",
+   "lemma": "maṇḍapam",
+   "morph": "n.acc.sg",
+   "grounds": "ritual space"
+  },
+  {
+   "lemma": "āsādya",
+   "morph": "absolutive + ā-sad",
+   "grounds": "prior action"
+  },
+  {
+   "lemma": "bhūta",
+   "morph": "compound: bhūta+first",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "śuddhiṃ",
+   "morph": "f.acc.sg",
+   "grounds": "ritual cleansing"
+  },
+  {
+   "lemma": "vidhāya",
+   "morph": "absolutive + vi-dhā",
+   "grounds": "prior action"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
-  },
-  {
-   "lemma": "parameśāni",
-   "morph": "f.voc.sg, compound=parama+īśānī",
-   "grounds": "vocative address"
-  },
-  {
-   "lemma": "vidyā",
-   "morph": "f.nom.sg",
-   "grounds": "mantra-knowledge"
-  },
-  {
-   "lemma": "saptadaśākṣarī",
-   "morph": "f.nom.sg, compound=saptadaśa+akṣara",
-   "grounds": "having seventeen syllables"
+   "grounds": "conjunction"
   }
  ]
 }

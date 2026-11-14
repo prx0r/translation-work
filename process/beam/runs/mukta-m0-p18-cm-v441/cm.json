@@ -3,29 +3,39 @@
  "verse": 441,
  "rows": [
   {
-   "lemma": "tataḥ",
+   "lemma": "prātaḥ",
+   "morph": "compound: prātaḥ+first",
+   "grounds": "time of day"
+  },
+  {
+   "lemma": "snānaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "ritual bathing"
+  },
+  {
+   "lemma": "samāsādya",
+   "morph": "absolutive + sam-ā-sad",
+   "grounds": "prior action"
+  },
+  {
+   "lemma": "kṛtvā",
+   "morph": "absolutive + kṛ",
+   "grounds": "prior action"
+  },
+  {
+   "lemma": "sandhyāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "daily ritual"
+  },
+  {
+   "lemma": "samāpya",
+   "morph": "absolutive + sam-āp",
+   "grounds": "prior action"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "next in sequence"
-  },
-  {
-   "lemma": "paraṃ",
-   "morph": "(indecl.)",
-   "grounds": "further"
-  },
-  {
-   "lemma": "maheśāni",
-   "morph": "f.voc.sg, compound=mahā+īśānī",
-   "grounds": "vocative address"
-  },
-  {
-   "lemma": "kandarpamuddharet",
-   "morph": "3.sg.act.optative, compound=kandarpa+uddharet (√uddhṛ)",
-   "grounds": "one should extract the kandarpa element"
-  },
-  {
-   "lemma": "priye",
-   "morph": "f.voc.sg",
-   "grounds": "vocative epithet"
+   "grounds": "conjunction"
   }
  ]
 }

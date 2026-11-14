@@ -3,34 +3,44 @@
  "verse": 426,
  "rows": [
   {
-   "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "locative adverb indicating that state or place"
+   "lemma": "tat",
+   "morph": "n.acc.sg",
+   "grounds": "demonstrative"
   },
   {
-   "lemma": "dasyu+bhayaṃ",
-   "morph": "compound: dasyu+bhaya (n.nom.sg)",
-   "grounds": "compound denoting fear arising from bandits"
+   "lemma": "deśaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "location"
   },
   {
-   "lemma": "nāsti",
-   "morph": "3.sg.pres.act (√as)",
-   "grounds": "negated existential verb"
+   "lemma": "patitaṃ",
+   "morph": "m.acc.sg.past-participle + pat",
+   "grounds": "past participle"
   },
   {
-   "lemma": "graha+rāja+bhayaṃ",
-   "morph": "compound: graha+rāja+bhaya (n.nom.sg)",
-   "grounds": "compound denoting fear from planets and kings"
+   "lemma": "manye",
+   "morph": "1.sg.middle-present + man",
+   "grounds": "speaker judgment"
   },
   {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation particle"
+   "lemma": "tasya",
+   "morph": "m.gen.sg",
+   "grounds": "possessive reference"
+  },
+  {
+   "lemma": "rājā",
+   "morph": "m.nom.sg",
+   "grounds": "ruler"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunctive particle"
+   "grounds": "conjunction"
+  },
+  {
+   "lemma": "pātakī",
+   "morph": "m.nom.sg",
+   "grounds": "morally fallen"
   }
  ]
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p18",
  "verse": 440,
- "question": "What mantra element follows the extraction of the kāma-seed in this sequence?",
+ "question": "What fate befalls a devotee of Vishnu who omits the required act?",
  "premises": [
-  "The kāma-seed is extracted in this step.",
-  "Another extraction follows it.",
-  "The element to extract next is the praṇava."
+  "A devotee of Vishnu fails to perform the act",
+  "He goes to hell in countless numbers"
  ],
- "inference": "After extracting the kāma-seed, one should extract the praṇava.",
- "uncertainties": [],
- "plain_english": "Having extracted the kāma-seed, one should then extract the praṇava."
+ "inference": "Omission brings an immensely prolonged hellish consequence even for a devotee",
+ "uncertainties": [
+  "The omitted act is implied from context"
+ ],
+ "plain_english": "Without doing it, a devotee of Vishnu goes to hell for crores upon crores of times."
 }

@@ -3,29 +3,39 @@
  "verse": 446,
  "rows": [
   {
-   "lemma": "prāṇāyāmaṃ",
-   "morph": "m.acc.sg, compound=prāṇa+āyāma",
-   "grounds": "regulation of breath"
+   "lemma": "mahā",
+   "morph": "compound: mahā+first",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "maheśāni",
-   "morph": "f.voc.sg, compound=mahā+īśānī",
-   "grounds": "vocative address"
+   "lemma": "padma",
+   "morph": "compound: padma+first",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "also"
+   "lemma": "antara",
+   "morph": "compound: antara+first",
+   "grounds": "third member of compound"
   },
   {
-   "lemma": "ācamanaṃ",
+   "lemma": "sthānāt",
+   "morph": "n.abl.sg",
+   "grounds": "source location"
+  },
+  {
+   "lemma": "ānīya",
+   "morph": "absolutive + ā-nī",
+   "grounds": "prior action"
+  },
+  {
+   "lemma": "brahma",
+   "morph": "compound: brahma+first",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "vaktrakam",
    "morph": "n.acc.sg",
-   "grounds": "ritual sipping of water"
-  },
-  {
-   "lemma": "priye",
-   "morph": "f.voc.sg",
-   "grounds": "vocative epithet"
+   "grounds": "ritual object or part"
   }
  ]
 }
