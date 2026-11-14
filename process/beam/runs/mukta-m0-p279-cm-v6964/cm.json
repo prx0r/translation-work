@@ -3,34 +3,49 @@
  "verse": 6964,
  "rows": [
   {
-   "lemma": "tasmād",
+   "lemma": "pratiṣṭhāñ",
+   "morph": "f.acc.sg",
+   "grounds": "ritual act of establishing the deity or power"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "indicates sequence from the previous island"
+   "grounds": "connects ritual elements"
   },
   {
-   "lemma": "gobheda",
-   "morph": "compound-member gobheda",
-   "grounds": "name element of the next island"
-  },
-  {
-   "lemma": "saṃñaśca",
-   "morph": "m.nom.sg + (indecl.) ca",
-   "grounds": "sandhi saṃjñaḥ+ca; indicates the island called Gobheda"
-  },
-  {
-   "lemma": "gobhedāt",
-   "morph": "m.abl.sg",
-   "grounds": "indicates sequence from Gobheda"
-  },
-  {
-   "lemma": "puṣkalaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "name of the next island"
-  },
-  {
-   "lemma": "punaḥ",
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "continues the enumeration"
+   "grounds": "indicates inclusion of another element"
+  },
+  {
+   "lemma": "vidyāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "the mantra-knowledge to be established"
+  },
+  {
+   "lemma": "tad",
+   "morph": "n.nom/acc.sg",
+   "grounds": "refers to the previously mentioned locus or context"
+  },
+  {
+   "lemma": "bāhye",
+   "morph": "n.loc.sg",
+   "grounds": "specifies the external location"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "emphasizes the specification"
+  },
+  {
+   "lemma": "catur",
+   "morph": "compound = catur+dale, numeral-stem",
+   "grounds": "first member of compound indicating petals"
+  },
+  {
+   "lemma": "dale",
+   "morph": "n.loc.sg",
+   "grounds": "describes the external diagram as four-petaled"
   }
  ]
 }

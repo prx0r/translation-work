@@ -1,0 +1,909 @@
+{
+ "song": "mukta-m0-p282",
+ "items": [
+  {
+   "verse": 7026,
+   "rows": [
+    {
+     "surface": "ekonaviṃśatyarṇaḥ",
+     "gloss": "nineteen-syllabled",
+     "grounds": "bahuvrihi compound indicating syllable count",
+     "morph": "compound=ekonaviṃśati+arṇa"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nivṛcchandaḥ",
+     "gloss": "nivrit-meter",
+     "grounds": "name of the metrical form",
+     "morph": "compound=nivṛt+chandas"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "states the prescribed form",
+     "morph": "n.nom.sg.past-passive-participle √udāhṛ"
+    }
+   ],
+   "question": "What metrical form and syllable count characterize the declared mantra?",
+   "premises": [
+    "The mantra is described as having nineteen syllables.",
+    "The mantra is identified with the nivrit meter.",
+    "This characterization is explicitly declared."
+   ],
+   "inference": "The declared mantra is a nineteen-syllabled composition in the nivrit meter.",
+   "uncertainties": [],
+   "plain_english": "This mantra is declared to have nineteen syllables and to be in the nivrit meter."
+  },
+  {
+   "verse": 7027,
+   "rows": [
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "object of the forthcoming description",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "speaker announces the visualization",
+     "morph": "1.sg.future-active √pravac"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvāt",
+     "gloss": "from-above",
+     "grounds": "indicates sequential order of description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvakareṣu",
+     "gloss": "in-upraised-hands",
+     "grounds": "locates attributes in the upper hands",
+     "morph": "compound=ūrdhva+kara, m.loc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the speaker introduce the meditation on the deity's upraised hands?",
+   "premises": [
+    "The speaker declares an intention to describe the meditation.",
+    "The description proceeds from above.",
+    "The focus is placed on the upraised hands."
+   ],
+   "inference": "The meditation is introduced as a description beginning with the deity's upraised hands.",
+   "uncertainties": [],
+   "plain_english": "I shall now declare the meditation, beginning from above with the upraised hands."
+  },
+  {
+   "verse": 7028,
+   "rows": [
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "object held in a hand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāśabāṇān",
+     "gloss": "noose-and-arrows",
+     "grounds": "dvandva compound listing held implements",
+     "morph": "compound=pāśa+bāṇa, m.acc.pl"
+    },
+    {
+     "surface": "radaṃ",
+     "gloss": "tusk",
+     "grounds": "object held in a hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ratnāḍhyakumbhakam",
+     "gloss": "jewel-filled-pot",
+     "grounds": "descriptive compound for a held vessel",
+     "morph": "compound=ratna+āḍhya+kumbhaka, m.acc.sg"
+    }
+   ],
+   "question": "Which objects are held in the deity's hands during the prescribed visualization?",
+   "premises": [
+    "A lotus is included among the held objects.",
+    "A noose and arrows are included among the held objects.",
+    "A tusk and a jewel-filled pot are included among the held objects."
+   ],
+   "inference": "The deity is visualized holding a lotus, noose, arrows, tusk, and a jewel-filled pot.",
+   "uncertainties": [],
+   "plain_english": "He holds a lotus, a noose and arrows, a tusk, and a pot filled with jewels."
+  },
+  {
+   "verse": 7029,
+   "rows": [
+    {
+     "surface": "āliṃgayantam",
+     "gloss": "embracing",
+     "grounds": "describes the deity's posture",
+     "morph": "m.acc.sg.present-active-participle √āliṅg"
+    },
+    {
+     "surface": "aruṇaṃ",
+     "gloss": "red-colored",
+     "grounds": "describes the deity's complexion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sravanmadakapolakam",
+     "gloss": "flowing-rut-cheeked",
+     "grounds": "bahuvrihi compound describing ichor flowing from the cheeks",
+     "morph": "compound=sravat+madaka+pola, m.acc.sg"
+    }
+   ],
+   "question": "What bodily appearance and posture characterize the deity in this visualization?",
+   "premises": [
+    "The deity is described as embracing.",
+    "The deity is described as red-colored.",
+    "The deity is described as having cheeks flowing with rut."
+   ],
+   "inference": "The deity is visualized as red, embracing, and with rut flowing from his cheeks.",
+   "uncertainties": [],
+   "plain_english": "He is red in color, embracing, with rut flowing from his cheeks."
+  },
+  {
+   "verse": 7030,
+   "rows": [
+    {
+     "surface": "kuṇḍalinaṃ",
+     "gloss": "wearing-earrings",
+     "grounds": "describes an ornament of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescriptive instruction for visualization",
+     "morph": "3.sg.optative-active √dhyai"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gajānanam",
+     "gloss": "elephant-faced",
+     "grounds": "bahuvrihi compound identifying the deity",
+     "morph": "compound=gaja+ānana, m.acc.sg"
+    }
+   ],
+   "question": "Which divine form should the practitioner meditate upon in this instruction?",
+   "premises": [
+    "The object of meditation is a god.",
+    "The god is identified as elephant-faced.",
+    "The god is described as wearing earrings."
+   ],
+   "inference": "The practitioner should meditate on the elephant-faced god wearing earrings.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on the elephant-faced god who wears earrings."
+  },
+  {
+   "verse": 7031,
+   "rows": [
+    {
+     "surface": "saumyasthaṃ",
+     "gloss": "north-situated",
+     "grounds": "indicates the deity's orientation or position",
+     "morph": "compound=saumya+stha, m.acc.sg"
+    },
+    {
+     "surface": "viriñcigaṇanāyakam",
+     "gloss": "brahma-troop-leader",
+     "grounds": "identifies the deity as leader of Brahma's hosts",
+     "morph": "compound=viriñci+gaṇa+nāyaka, m.acc.sg"
+    }
+   ],
+   "question": "What position and leadership role define the elephant-faced deity here?",
+   "premises": [
+    "The deity is described as situated in the north.",
+    "The deity is identified as the leader of Brahma's troops."
+   ],
+   "inference": "The elephant-faced deity is north-situated and leader of Brahma's hosts.",
+   "uncertainties": [],
+   "plain_english": "He is situated in the north and is the leader of Brahma's hosts."
+  },
+  {
+   "verse": 7032,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "refers back to a previously stated procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive instruction for recitation",
+     "morph": "3.sg.optative-active √vad"
+    },
+    {
+     "surface": "varādīni",
+     "gloss": "vara-and-others",
+     "grounds": "refers to a previously mentioned sequence beginning with vara",
+     "morph": "compound=vara+ādi, n.acc.pl"
+    },
+    {
+     "surface": "ṣaḍviṃśatyarṇakaḥ",
+     "gloss": "twenty-six-syllabled",
+     "grounds": "bahuvrihi compound indicating syllable count",
+     "morph": "compound=ṣaḍviṃśati+arṇaka, m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "identifies the formula being prescribed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra and recitation pattern are prescribed in this instruction?",
+   "premises": [
+    "The recitation should follow the previous pattern.",
+    "The elements beginning with vara should be uttered.",
+    "The mantra consists of twenty-six syllables."
+   ],
+   "inference": "One should utter the twenty-six-syllabled mantra beginning with vara as before.",
+   "uncertainties": [],
+   "plain_english": "One should utter the twenty-six-syllabled mantra, beginning with vara and so on, as before."
+  },
+  {
+   "verse": 7033,
+   "rows": [
+    {
+     "surface": "dhyānapūjādikaṃ",
+     "gloss": "meditation-worship-and-so-on",
+     "grounds": "compound listing ritual components",
+     "morph": "compound=dhyāna+pūjā+ādi, n.acc.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "refers back to earlier instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣāt",
+     "gloss": "especially",
+     "grounds": "marks a specific emphasis",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the present mantra or deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent performing the rites",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the practitioner perform meditation and worship for this mantra?",
+   "premises": [
+    "Meditation, worship, and related acts are prescribed.",
+    "These acts should be performed as before.",
+    "The practitioner should perform them especially for this mantra."
+   ],
+   "inference": "The practitioner should perform meditation, worship, and related rites for this mantra as before, with special attention.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should perform meditation, worship, and so forth for this mantra as before, with special care."
+  },
+  {
+   "verse": 7034,
+   "rows": [
+    {
+     "surface": "prajāyeta",
+     "gloss": "may-become",
+     "grounds": "expresses the result for the practitioner",
+     "morph": "3.sg.optative-middle √jan"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "creator",
+     "grounds": "role attained by the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hartā",
+     "gloss": "destroyer",
+     "grounds": "role attained by the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "conditions the attainment on proper procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What powers may the practitioner attain by following the prescribed rule?",
+   "premises": [
+    "The practitioner may become a creator.",
+    "The practitioner may become a destroyer.",
+    "This attainment depends on acting according to rule."
+   ],
+   "inference": "By following the rule, the practitioner may attain the powers of creation and destruction.",
+   "uncertainties": [],
+   "plain_english": "By following the proper rule, the practitioner may become a creator and a destroyer."
+  },
+  {
+   "verse": 7035,
+   "rows": [
+    {
+     "surface": "madhuratrayasaṃyuktaiḥ",
+     "gloss": "mixed-with-three-sweets",
+     "grounds": "describes oblations combined with three sweet substances",
+     "morph": "compound=madhura+traya+saṃyukta, n.ins.pl"
+    },
+    {
+     "surface": "pūrvoktaiḥ",
+     "gloss": "previously-mentioned",
+     "grounds": "refers to items specified earlier",
+     "morph": "compound=pūrva+ukta, n.ins.pl"
+    },
+    {
+     "surface": "aṣṭabhiḥ",
+     "gloss": "with-eight",
+     "grounds": "specifies the number of oblation items",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive fire-offering instruction",
+     "morph": "3.sg.optative-active √hu"
+    }
+   ],
+   "question": "What oblation materials should be offered in the fire ritual described here?",
+   "premises": [
+    "The oblations are the eight previously mentioned items.",
+    "These items are mixed with the three sweets.",
+    "They should be offered in the fire."
+   ],
+   "inference": "One should offer the eight aforementioned items mixed with the three sweets in the fire.",
+   "uncertainties": [
+    "The specific identity of the three sweets and the eight items depends on earlier context."
+   ],
+   "plain_english": "One should offer the eight previously mentioned items mixed with the three sweets into the fire."
+  },
+  {
+   "verse": 7036,
+   "rows": [
+    {
+     "surface": "vaśayet",
+     "gloss": "one-should-subjugate",
+     "grounds": "states the ritual result",
+     "morph": "3.sg.optative-causative-active √vaś"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "entire",
+     "grounds": "qualifies the scope of subjugation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "object brought under control",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result is achieved by performing the prescribed oblation?",
+   "premises": [
+    "The ritual produces a power of subjugation.",
+    "The scope of subjugation extends to the whole world."
+   ],
+   "inference": "The prescribed oblation enables one to subjugate the entire world.",
+   "uncertainties": [],
+   "plain_english": "By this, one should subjugate the entire world."
+  },
+  {
+   "verse": 7037,
+   "rows": [
+    {
+     "surface": "modakānājyasaṃyuktān",
+     "gloss": "sweet-balls-mixed-with-ghee",
+     "grounds": "describes the oblation substance",
+     "morph": "compound=modaka+ājya+saṃyukta, m.acc.pl"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "prior ritual action",
+     "morph": "absolutive √hu"
+    },
+    {
+     "surface": "vijayam",
+     "gloss": "victory",
+     "grounds": "result obtained from the offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "states the attainable outcome",
+     "morph": "3.sg.optative-active √āp"
+    }
+   ],
+   "question": "What outcome follows from offering sweet balls mixed with ghee?",
+   "premises": [
+    "Sweet balls mixed with ghee are offered in the fire.",
+    "The offering yields a specific result.",
+    "That result is victory."
+   ],
+   "inference": "Offering sweet balls mixed with ghee leads to obtaining victory.",
+   "uncertainties": [],
+   "plain_english": "Having offered sweet balls mixed with ghee, one may obtain victory."
+  },
+  {
+   "verse": 7038,
+   "rows": [
+    {
+     "surface": "bhakṣyabhojyādikaiḥ",
+     "gloss": "with-eatables-edibles-and-so-on",
+     "grounds": "lists food offerings used in the rite",
+     "morph": "compound=bhakṣya+bhojya+ādi, n.ins.pl"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "performed",
+     "grounds": "indicates the rite is carried out with these offerings",
+     "morph": "m.nom.sg.past-passive-participle √kṛ"
+    }
+   ],
+   "question": "What kinds of food offerings are used to perform the rite?",
+   "premises": [
+    "The rite is performed using offerings.",
+    "These offerings include eatables, edibles, and similar foods."
+   ],
+   "inference": "The rite is performed with various eatables, edibles, and similar food offerings.",
+   "uncertainties": [],
+   "plain_english": "The rite is performed with eatables, edibles, and other such foods."
+  },
+  {
+   "verse": 7039,
+   "rows": [
+    {
+     "surface": "hrīmiti",
+     "gloss": "hrim-thus",
+     "grounds": "states the seed syllable; mantra material kept exact in sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chandasaḥ",
+     "gloss": "of-meter",
+     "grounds": "introduces the metrical attribution",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "virāṭ",
+     "gloss": "viraj",
+     "grounds": "name of the meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhārgavaḥ",
+     "gloss": "bhargava",
+     "grounds": "name of the sage associated with the meter or mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "reports the traditional attribution",
+     "morph": "3.sg.present-passive √vac"
+    }
+   ],
+   "question": "What seed syllable, meter, and sage are attributed to this mantra?",
+   "premises": [
+    "The seed syllable is stated as hrim.",
+    "The meter is identified as viraj.",
+    "The sage is identified as Bhargava."
+   ],
+   "inference": "The mantra is attributed to the seed syllable hrim, the viraj meter, and the sage Bhargava.",
+   "uncertainties": [],
+   "plain_english": "The seed syllable is hrim; the meter is said to be viraj and the sage Bhargava."
+  },
+  {
+   "verse": 7040,
+   "rows": [
+    {
+     "surface": "ṣaḍdīrghabhājā",
+     "gloss": "endowed-with-six-long-vowels",
+     "grounds": "describes modification of the seed syllable",
+     "morph": "compound=ṣaṣ+dīrgha+bhāj, n.ins.sg"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "with-seed-syllable",
+     "grounds": "instrument used for assigning limbs",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ṣaḍaṃgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual divisions of the mantra body",
+     "morph": "compound=ṣaṣ+aṅga, n.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-assign",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-causative-active √kḷp"
+    }
+   ],
+   "question": "How should the six limbs be assigned using the seed syllable?",
+   "premises": [
+    "The seed syllable is endowed with six long vowels.",
+    "This seed syllable is used as the instrument.",
+    "The six limbs must be assigned."
+   ],
+   "inference": "One should assign the six limbs using the seed syllable endowed with six long vowels.",
+   "uncertainties": [],
+   "plain_english": "One should assign the six limbs using the seed syllable endowed with six long vowels."
+  },
+  {
+   "verse": 7041,
+   "rows": [
+    {
+     "surface": "trinetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "describes the deity's form",
+     "morph": "compound=tri+netra, m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśāṃkuśadharaṃ",
+     "gloss": "holding-noose-and-goad",
+     "grounds": "describes implements held by the deity",
+     "morph": "compound=pāśa+aṅkuśa+dhara, m.acc.sg"
+    },
+    {
+     "surface": "vibhum",
+     "gloss": "lord",
+     "grounds": "epithet of the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What physical features and implements distinguish the lord in this visualization?",
+   "premises": [
+    "The lord is described as three-eyed.",
+    "The lord holds a noose and a goad."
+   ],
+   "inference": "The lord is visualized as three-eyed and holding a noose and goad.",
+   "uncertainties": [],
+   "plain_english": "One should visualize the lord as three-eyed and holding a noose and a goad."
+  },
+  {
+   "verse": 7042,
+   "rows": [
+    {
+     "surface": "modakān",
+     "gloss": "sweet-balls",
+     "grounds": "objects held by the deity",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhārayantaṃ",
+     "gloss": "holding",
+     "grounds": "describes the deity's action",
+     "morph": "m.acc.sg.present-active-participle √dhṛ"
+    },
+    {
+     "surface": "anusmaret",
+     "gloss": "one-should-remember",
+     "grounds": "prescriptive instruction for recollection",
+     "morph": "3.sg.optative-active √anusmṛ"
+    }
+   ],
+   "question": "What additional object should be remembered in the deity's hands?",
+   "premises": [
+    "The deity is described as holding sweet balls.",
+    "The practitioner is instructed to remember this form."
+   ],
+   "inference": "The practitioner should remember the deity as holding sweet balls.",
+   "uncertainties": [],
+   "plain_english": "One should remember him as indeed holding sweet balls."
+  },
+  {
+   "verse": 7043,
+   "rows": [
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "object of visualization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturasratrayāvṛte",
+     "gloss": "in-square-three-enclosures",
+     "grounds": "locates the deity within a ritual diagram of three square enclosures",
+     "morph": "compound=caturasra+traya+āvṛta, n.loc.sg"
+    }
+   ],
+   "question": "Within what ritual enclosure should the deity be visualized?",
+   "premises": [
+    "The object of visualization is the god.",
+    "The location is described as three square enclosures."
+   ],
+   "inference": "The god should be visualized within three square enclosures.",
+   "uncertainties": [],
+   "plain_english": "One should visualize the god within three square enclosures."
+  },
+  {
+   "verse": 7044,
+   "rows": [
+    {
+     "surface": "lokapālaiḥ",
+     "gloss": "with-direction-guardians",
+     "grounds": "identifies deities placed in the enclosure",
+     "morph": "compound=loka+pāla, m.ins.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescribes the arrangement",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "vajrādyaiḥ",
+     "gloss": "with-vajra-and-others",
+     "grounds": "specifies the guardians by their weapons beginning with vajra",
+     "morph": "compound=vajra+ādi, m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthikā",
+     "gloss": "fourth-enclosure",
+     "grounds": "names the outer enclosure",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What constitutes the fourth enclosure in the prescribed ritual diagram?",
+   "premises": [
+    "A fourth enclosure is prescribed.",
+    "It should include the guardians of the directions.",
+    "These guardians are identified by vajra and other weapons."
+   ],
+   "inference": "The fourth enclosure should consist of the direction guardians bearing vajra and other weapons.",
+   "uncertainties": [],
+   "plain_english": "The fourth enclosure should be formed by the guardians of the directions, bearing the vajra and other weapons."
+  },
+  {
+   "verse": 7045,
+   "rows": [
+    {
+     "surface": "taddaśāṃśaṃ",
+     "gloss": "its-tenth-part",
+     "grounds": "specifies the quantity of oblations relative to prior count",
+     "morph": "compound=tad+daśāṃśa, n.acc.sg"
+    },
+    {
+     "surface": "prajuhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive fire-offering instruction",
+     "morph": "3.sg.optative-active √prahu"
+    },
+    {
+     "surface": "apūpairghṛtasamplutaiḥ",
+     "gloss": "with-cakes-soaked-in-ghee",
+     "grounds": "describes the oblation material",
+     "morph": "compound=apūpa+ghṛta+sampluta, m.ins.pl"
+    }
+   ],
+   "question": "What quantity and type of oblation should be offered in this rite?",
+   "premises": [
+    "The oblation quantity is a tenth part of a prior amount.",
+    "The oblations consist of cakes soaked in ghee.",
+    "These should be offered in the fire."
+   ],
+   "inference": "One should offer a tenth part as oblations of cakes soaked in ghee.",
+   "uncertainties": [
+    "The base quantity for the tenth part is not specified in this verse."
+   ],
+   "plain_english": "One should offer a tenth part as oblations using cakes soaked in ghee."
+  },
+  {
+   "verse": 7046,
+   "rows": [
+    {
+     "surface": "caturthyāṃ",
+     "gloss": "on-fourth-day",
+     "grounds": "specifies the ritual timing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "absolutive √pūj"
+    },
+    {
+     "surface": "vināyakam",
+     "gloss": "vinayaka",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "On which day and to whom should worship be performed before the next rite?",
+   "premises": [
+    "The ritual is timed to the fourth day.",
+    "Worship must be performed first.",
+    "The object of worship is Vinayaka."
+   ],
+   "inference": "On the fourth day, one should first worship Vinayaka.",
+   "uncertainties": [],
+   "plain_english": "On the fourth day, after worshipping Vinayaka,"
+  },
+  {
+   "verse": 7047,
+   "rows": [
+    {
+     "surface": "maricaiḥ",
+     "gloss": "with-peppers",
+     "grounds": "ingredient for the mixture",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "jīrakaiḥ",
+     "gloss": "with-cumins",
+     "grounds": "ingredient for the mixture",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saindhavena",
+     "gloss": "with-rock-salt",
+     "grounds": "ingredient for the mixture",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vimiśritaiḥ",
+     "gloss": "mixed",
+     "grounds": "describes the combined ingredients",
+     "morph": "n.ins.pl.past-passive-participle √vimiśr"
+    }
+   ],
+   "question": "Which ingredients are mixed together for the ritual preparation?",
+   "premises": [
+    "Peppers are included in the mixture.",
+    "Cumins are included in the mixture.",
+    "Rock salt is included in the mixture."
+   ],
+   "inference": "The ritual preparation consists of peppers, cumins, and rock salt mixed together.",
+   "uncertainties": [],
+   "plain_english": "with peppers, cumins, and rock salt mixed together,"
+  },
+  {
+   "verse": 7048,
+   "rows": [
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "faculty that arises as a result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saptāhāt",
+     "gloss": "after-seven-days",
+     "grounds": "specifies the time frame for the result",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states the arising of the result",
+     "morph": "3.sg.present-active √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphasizes certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result is assured after seven days of the prescribed practice?",
+   "premises": [
+    "The practice yields an effect after seven days.",
+    "The effect is the arising of speech.",
+    "The result is stated as certain."
+   ],
+   "inference": "After seven days, eloquent speech certainly arises.",
+   "uncertainties": [],
+   "plain_english": "speech certainly arises after seven days."
+  },
+  {
+   "verse": 7049,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive fire-offering instruction",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "lājaiḥ",
+     "gloss": "with-parched-rice",
+     "grounds": "oblation material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tannāmāyutamantrataḥ",
+     "gloss": "with-his-name-ten-thousand-mantras",
+     "grounds": "specifies recitation of the deity's name in ten thousand mantras",
+     "morph": "compound=tad+nāman+ayuta+mantra, (indecl.)"
+    }
+   ],
+   "question": "What oblation and mantra count are prescribed for this fire offering?",
+   "premises": [
+    "Parched rice should be offered in the fire.",
+    "The offering is accompanied by the deity's name.",
+    "The mantra recitation is performed ten thousand times."
+   ],
+   "inference": "One should offer parched rice while reciting the deity's name in ten thousand mantras.",
+   "uncertainties": [],
+   "plain_english": "One should offer parched rice while reciting his name with ten thousand mantras."
+  }
+ ]
+}

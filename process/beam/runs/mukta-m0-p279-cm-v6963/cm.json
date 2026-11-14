@@ -3,29 +3,34 @@
  "verse": 6963,
  "rows": [
   {
-   "lemma": "jambū",
-   "morph": "compound-member jambū",
-   "grounds": "first member referring to Jambūdvīpa"
+   "lemma": "kṛtyāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "the ritual figure or power to be worshipped"
   },
   {
-   "lemma": "dvīpāttathā",
-   "morph": "m.abl.sg + (indecl.) tathā",
-   "grounds": "sandhi dvīpāt+tathā; indicates sequence from Jambūdvīpa"
+   "lemma": "vidhānena",
+   "morph": "n.inst.sg",
+   "grounds": "indicates worship according to prescribed procedure"
   },
   {
-   "lemma": "śākaśśākācca",
-   "morph": "m.nom.sg + m.abl.sg + (indecl.) ca",
-   "grounds": "sandhi śākaḥ+śākāt+ca; names Śāka and sequence from it"
+   "lemma": "pūjayen",
+   "morph": "3.sg.optative-active, root pūj",
+   "grounds": "prescriptive ritual instruction"
   },
   {
-   "lemma": "kuśa",
-   "morph": "compound-member kuśa",
-   "grounds": "name element of the next island"
+   "lemma": "mantra",
+   "morph": "compound = mantra+vit, m.stem",
+   "grounds": "first member of compound describing the worshipper"
   },
   {
-   "lemma": "saṃjñakaḥ",
+   "lemma": "vit",
    "morph": "m.nom.sg",
-   "grounds": "indicates the island called Kuśa"
+   "grounds": "one who knows the mantra"
+  },
+  {
+   "lemma": "tamaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "superlative qualifier of the knower"
   }
  ]
 }

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "detriment or harm resulting from omission",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential or resulting state",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "otherwise",
+     "grounds": "alternative or contrary course",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "referring to the stated manner or consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-consider",
+     "grounds": "prescriptive reflection or deliberation",
+     "morph": "3.sg.opt.act √cint"
+    }
+   ],
+   "question": "What consequence follows from acting contrary to the prescribed ritual offerings?",
+   "premises": [
+    "A contrary course of action leads to loss.",
+    "The prescribed manner establishes the proper outcome.",
+    "One should reflect on the consequence of deviation."
+   ],
+   "inference": "Therefore, one should recognize that deviation from the prescribed offerings results in loss and deliberate accordingly.",
+   "uncertainties": [
+    "The exact scope of anyat (other action or other result) depends on the preceding ritual instructions."
+   ],
+   "plain_english": "Indeed there would be loss; and one should consider that acting otherwise would lead to such a result."
+  }
+ ]
+}

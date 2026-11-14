@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p287",
+ "items": [
+  {
+   "verse": 7175,
+   "rows": [
+    {
+     "surface": "saṃhāraḥ",
+     "gloss": "dissolution",
+     "grounds": "nominal form denoting withdrawal or absorption",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktās",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what is taught",
+     "morph": "ppp.nom.pl.m (√vac)"
+    },
+    {
+     "surface": "tatpatayas",
+     "gloss": "their-lords",
+     "grounds": "compound referring to the lords of that group or function",
+     "morph": "tat+patayaḥ (compound, m.nom.pl)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ime",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to the figures in view",
+     "morph": "pron.nom.pl.m"
+    }
+   ],
+   "question": "What identity is assigned to these figures in relation to dissolution?",
+   "premises": [
+    "Dissolution is explicitly declared in this statement.",
+    "These figures are identified as their lords.",
+    "The particle marks a contrastive specification of their role."
+   ],
+   "inference": "These figures are declared to be the lords associated with dissolution.",
+   "uncertainties": [
+    "The exact syntactic relation between saṃhāraḥ and tatpatayas is not fully explicit."
+   ],
+   "plain_english": "Dissolution is declared, but these are their lords."
+  }
+ ]
+}

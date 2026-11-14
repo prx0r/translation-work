@@ -3,34 +3,44 @@
  "verse": 6970,
  "rows": [
   {
-   "lemma": "cakra",
-   "morph": "compound-member cakra",
-   "grounds": "name element; wheel"
+   "lemma": "aṣṭa",
+   "morph": "compound = aṣṭa+uttara, numeral-stem",
+   "grounds": "first part of the number compound"
   },
   {
-   "lemma": "ṣaṇḍī",
-   "morph": "m.nom.sg",
-   "grounds": "name element forming Cakraṣaṇḍī"
+   "lemma": "uttara",
+   "morph": "compound member",
+   "grounds": "indicates addition over a hundred"
   },
   {
-   "lemma": "pāṇipatraḥ",
-   "morph": "compound pāṇi+patra, m.nom.sg",
-   "grounds": "name of a piśāca; leaf-in-hand"
-  },
-  {
-   "lemma": "pāṇipatrī",
-   "morph": "compound pāṇi+patrī, f.nom.sg",
-   "grounds": "name of a piśāca; feminine form"
+   "lemma": "śataṃ",
+   "morph": "n.acc.sg",
+   "grounds": "base number for the count"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connects names"
+   "grounds": "connects elements of the instruction"
   },
   {
-   "lemma": "vāsukaḥ",
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphasizes the exact count"
+  },
+  {
+   "lemma": "amunā",
+   "morph": "m.inst.sg",
+   "grounds": "refers to the previously described method or mantra"
+  },
+  {
+   "lemma": "juhuyād",
+   "morph": "3.sg.optative-active, root hu",
+   "grounds": "prescriptive instruction for oblation"
+  },
+  {
+   "lemma": "budhaḥ",
    "morph": "m.nom.sg",
-   "grounds": "name of a piśāca"
+   "grounds": "the qualified practitioner"
   }
  ]
 }
