@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p198",
  "verse": 4940,
- "question": "How is the pīṭha bathed with pot water?",
+ "question": "Which boons are listed here as results such as sons, good fortune, and others?",
  "premises": [
-  "water comes from that pot",
-  "pīṭha is bathed",
-  "action is respectful"
+  "Sons are listed.",
+  "Good fortune, health, fame-strength, prosperity, auspiciousness are listed.",
+  "These are presented as desired outcomes."
  ],
- "inference": "The pīṭha is respectfully bathed with water from that pot.",
+ "inference": "The listed outcomes include sons, good fortune, health, fame and strength, prosperity, and auspiciousness.",
  "uncertainties": [
-  "exact pot selection"
+  "Grammatical case/role in full sentence is inferred from tokens."
  ],
- "plain_english": "Respectfully, one bathes the pīṭha with water from that pot."
+ "plain_english": "Sons, good fortune, health, fame and strength, prosperity, and auspiciousness."
 }

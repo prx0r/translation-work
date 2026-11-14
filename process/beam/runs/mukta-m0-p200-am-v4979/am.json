@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p200",
  "verse": 4979,
- "question": "What brow thickness and height measure are given?",
+ "question": "How many times may the prescribed ritual observance be performed in a day?",
  "premises": [
-  "brow thickness reaches eye half end",
-  "that height is two measures"
+  "The text lists one time as an option.",
+  "The text lists two times as an option.",
+  "The text lists three, four, or five times as options."
  ],
- "inference": "brow thickness and height are specified in two measures",
- "uncertainties": [
-  "unit of mātra"
- ],
- "plain_english": "Brow thickness reaches the eye half end, and that height is two measures."
+ "inference": "Therefore the observance may be performed once, twice, or three, four, or five times.",
+ "uncertainties": [],
+ "plain_english": "It may be done once, twice, or three, four, or five times."
 }

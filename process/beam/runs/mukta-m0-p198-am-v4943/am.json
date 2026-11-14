@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p198",
  "verse": 4943,
- "question": "Where are gaṇas and yakṣas deposited?",
+ "question": "What does the teacher do after sipping water and making complete in preparing common arghya?",
  "premises": [
-  "gaṇas go west direction",
-  "yakṣas go north direction",
-  "deposit is implied"
+  "Teacher has sipped water.",
+  "Teacher has made complete.",
+  "Teacher is maker of common arghya."
  ],
- "inference": "Gaṇas are placed in the west and yakṣas in the north.",
+ "inference": "Having sipped water and made complete, the teacher becomes the maker of common arghya.",
  "uncertainties": [
-  "exact gaṇa identity"
+  "Next action after this is not in these tokens."
  ],
- "plain_english": "Gaṇas are placed in the west direction and yakṣas in the north direction."
+ "plain_english": "Having sipped water, having made complete, the teacher is the maker of common arghya."
 }

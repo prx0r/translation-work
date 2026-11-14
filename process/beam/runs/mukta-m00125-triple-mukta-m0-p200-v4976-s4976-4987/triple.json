@@ -1,0 +1,497 @@
+{
+ "song": "mukta-m0-p200",
+ "items": [
+  {
+   "verse": 4976,
+   "rows": [
+    {
+     "surface": "nityotsavaṃ",
+     "gloss": "daily-festival",
+     "grounds": "compound nitya+utsava, object of kuryāt",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence after preceding rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādgaṇabereṇa",
+     "gloss": "should-perform-with-gaṇa-drum",
+     "grounds": "fused form containing optative kuryāt and instrumental gaṇabereṇa",
+     "morph": "3.sg.opt.act √kṛ + n.inst.sg"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "by-procession",
+     "grounds": "manner or route of the festival",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "By what procedure and accompaniment should the daily festival be performed?",
+   "premises": [
+    "The daily festival follows the preceding rites.",
+    "It should be performed with the gaṇa drum.",
+    "It should be conducted by a procession."
+   ],
+   "inference": "Therefore the daily festival is to be carried out as a procession accompanied by the gaṇa drum.",
+   "uncertainties": [
+    "The exact sense of vartmanā as route or manner is context-dependent."
+   ],
+   "plain_english": "Then one should perform the daily festival as a procession accompanied by the drum of the gaṇas."
+  },
+  {
+   "verse": 4977,
+   "rows": [
+    {
+     "surface": "puṣpān",
+     "gloss": "flowers",
+     "grounds": "offering item in worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation particle in ritual instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣata",
+     "gloss": "unbroken-rice",
+     "grounds": "offering item paired with flowers",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "liṅgeṣu",
+     "gloss": "on-liṅgas",
+     "grounds": "locus of worship",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "gaṇāstraṃ",
+     "gloss": "gaṇa-weapon",
+     "grounds": "compound gaṇa+astra, deity or mantra invoked",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hetinā",
+     "gloss": "with-weapon",
+     "grounds": "instrument used in the worship",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "What offerings and means are prescribed for worshipping the gaṇa weapon on the liṅgas?",
+   "premises": [
+    "Flowers and unbroken rice are mentioned in the instruction.",
+    "The worship is directed to the gaṇa weapon on the liṅgas.",
+    "The worship is performed with the weapon."
+   ],
+   "inference": "Therefore one should worship the gaṇa weapon on the liṅgas with the weapon, without using flowers and unbroken rice.",
+   "uncertainties": [
+    "The scope of negation over puṣpān and akṣata follows the traditional reading but is syntactically compressed."
+   ],
+   "plain_english": "One should worship the gaṇa weapon on the liṅgas with the weapon, without offering flowers and unbroken rice."
+  },
+  {
+   "verse": 4978,
+   "rows": [
+    {
+     "surface": "pūrvoktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "compound pūrva+ukta+vidhi, refers to earlier procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "concludes the preceding action before circumambulation",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-shrine",
+     "grounds": "object around which circumambulation is made",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "ritual act performed around the shrine",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual action must follow after performing the rites by the previously stated method?",
+   "premises": [
+    "The rites are completed according to the previously stated method.",
+    "A circumambulation of the shrine is prescribed.",
+    "The circumambulation follows the completed rites."
+   ],
+   "inference": "Therefore, after performing the rites by the previously stated method, one should circumambulate the shrine.",
+   "uncertainties": [],
+   "plain_english": "Having performed the rites according to the previously stated method, one should circumambulate the shrine."
+  },
+  {
+   "verse": 4979,
+   "rows": [
+    {
+     "surface": "ekakālaṃ",
+     "gloss": "one-time",
+     "grounds": "compound eka+kāla, frequency option",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvikālam",
+     "gloss": "two-times",
+     "grounds": "compound dvi+kāla, frequency option",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction between frequency options",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tricatuṣpañcakālakam",
+     "gloss": "three-four-five-times",
+     "grounds": "compound tri+catur+pañca+kālaka, extended frequency options",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How many times may the prescribed ritual observance be performed in a day?",
+   "premises": [
+    "The text lists one time as an option.",
+    "The text lists two times as an option.",
+    "The text lists three, four, or five times as options."
+   ],
+   "inference": "Therefore the observance may be performed once, twice, or three, four, or five times.",
+   "uncertainties": [],
+   "plain_english": "It may be done once, twice, or three, four, or five times."
+  },
+  {
+   "verse": 4980,
+   "rows": [
+    {
+     "surface": "jñātvaivaṃ",
+     "gloss": "having-known-thus",
+     "grounds": "fused form jñātvā+evam, refers to understanding the procedure",
+     "morph": "(gerund) √jñā + (indecl.)"
+    },
+    {
+     "surface": "pūjayennityam",
+     "gloss": "should-worship-daily",
+     "grounds": "fused form pūjayet+nityam, prescriptive daily worship",
+     "morph": "3.sg.opt.act √pūj + (indecl.)"
+    },
+    {
+     "surface": "arcanaṅgair",
+     "gloss": "with-worship-limbs",
+     "grounds": "compound arcana+aṅga, subsidiary parts of worship",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "gaṇeśvaram",
+     "gloss": "lord-of-gaṇas",
+     "grounds": "compound gaṇa+īśvara, deity to be worshipped",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should Gaṇeśvara be worshipped daily once the proper procedure is understood?",
+   "premises": [
+    "The procedure is to be understood as stated.",
+    "Daily worship of Gaṇeśvara is prescribed.",
+    "The worship must include the subsidiary limbs of worship."
+   ],
+   "inference": "Therefore, knowing this, one should worship Gaṇeśvara daily with the limbs of worship.",
+   "uncertainties": [],
+   "plain_english": "Knowing this, one should worship Gaṇeśvara daily with all the subsidiary parts of worship."
+  },
+  {
+   "verse": 4981,
+   "rows": [
+    {
+     "surface": "viśeṣayajanaṃ",
+     "gloss": "special-worship",
+     "grounds": "compound viśeṣa+yajana, distinguished ritual observance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "caturthyām",
+     "gloss": "on-fourth-day",
+     "grounds": "lunar day designated for special worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "iṣṭasiddhaye",
+     "gloss": "for-desired-success",
+     "grounds": "compound iṣṭa+siddhi, purpose of the worship",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "On which occasion and for what purpose should special worship be performed?",
+   "premises": [
+    "Special worship is prescribed as an action.",
+    "The fourth lunar day is specified as the occasion.",
+    "The attainment of desired success is stated as the purpose."
+   ],
+   "inference": "Therefore one should perform special worship on the fourth day for the attainment of desired success.",
+   "uncertainties": [],
+   "plain_english": "One should perform special worship on the fourth lunar day for the fulfillment of desired aims."
+  },
+  {
+   "verse": 4982,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "ablution",
+     "grounds": "ritual bathing ceremony",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates continuity with earlier procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ tu",
+     "gloss": "but",
+     "grounds": "introduces a specific modification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyakumbhe",
+     "gloss": "in-middle-pot",
+     "grounds": "compound madhya+kumbha, locus for the deity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gaṇeśvaram",
+     "gloss": "lord-of-gaṇas",
+     "grounds": "deity to be installed or invoked in the central pot",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What modification applies to the ablution ritual regarding the placement of Gaṇeśvara?",
+   "premises": [
+    "The ablution is performed as before.",
+    "A specific modification is introduced.",
+    "Gaṇeśvara is placed in the middle pot."
+   ],
+   "inference": "Therefore the ablution follows the previous method, but Gaṇeśvara is placed in the middle pot.",
+   "uncertainties": [],
+   "plain_english": "The ablution is performed as before, but Gaṇeśvara is placed in the central pot."
+  },
+  {
+   "verse": 4983,
+   "rows": [
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral indicating a count of vessels or deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects numerical options",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navasaṃkhye",
+     "gloss": "in-nine-number",
+     "grounds": "compound nava+saṃkhyā, configuration of nine",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "prescriptive or declarative copula",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "pañcaviṃ'satisaṃkhyake",
+     "gloss": "in-twenty-five-number",
+     "grounds": "compound pañcaviṃśati+saṃkhyaka, configuration of twenty-five",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What numbers of vessels or deities are prescribed in the nine and twenty-five configurations?",
+   "premises": [
+    "Eight is specified in relation to the configurations.",
+    "A configuration of nine is mentioned.",
+    "A configuration of twenty-five is mentioned."
+   ],
+   "inference": "Therefore there should be eight in the nine-number configuration and in the twenty-five-number configuration.",
+   "uncertainties": [
+    "The exact referent of the number eight depends on the ritual context of the surrounding verses."
+   ],
+   "plain_english": "There should be eight in the arrangement of nine and in the arrangement of twenty-five."
+  },
+  {
+   "verse": 4984,
+   "rows": [
+    {
+     "surface": "lokapāstrān",
+     "gloss": "world-guardians-weapons",
+     "grounds": "compound lokapāla+astra, guardians and their weapons invoked",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vasūnādyānaṣṭakaṃ",
+     "gloss": "group-of-eight-beginning-with-vasus",
+     "grounds": "compound vasu+ādi+aṣṭaka, the eight Vasus and related group",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "vāstu",
+     "grounds": "deity or principle associated with the site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃsthito",
+     "gloss": "situated",
+     "grounds": "indicates placement or presence in the arrangement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities and groups are to be situated in the prescribed ritual arrangement?",
+   "premises": [
+    "The world guardians and their weapons are included.",
+    "The group of eight beginning with the Vasus is included.",
+    "Vāstu is included as situated in the arrangement."
+   ],
+   "inference": "Therefore the world guardians with their weapons, the group of eight beginning with the Vasus, and Vāstu are to be situated there.",
+   "uncertainties": [
+    "The precise syntactic role of saṃsthito in relation to all listed items is compressed."
+   ],
+   "plain_english": "The world guardians with their weapons, the group of eight beginning with the Vasus, and Vāstu are to be situated there."
+  },
+  {
+   "verse": 4985,
+   "rows": [
+    {
+     "surface": "ekonapañcāśatsaṃkhyakalaśe",
+     "gloss": "in-forty-nine-number-pot-arrangement",
+     "grounds": "compound ekona+pañcāśat+saṃkhya+kalaśa, configuration of forty-nine pots",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deities",
+     "grounds": "divine beings assigned to the arrangement",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "indicates traditional or authoritative view",
+     "morph": "f.nom.pl (past-participle) √man"
+    }
+   ],
+   "question": "What is the authoritative view regarding the deities in the forty-nine pot arrangement?",
+   "premises": [
+    "A configuration of forty-nine pots is specified.",
+    "Deities are assigned to this configuration.",
+    "This assignment is held as the accepted view."
+   ],
+   "inference": "Therefore deities are considered to be present in the arrangement of forty-nine pots.",
+   "uncertainties": [
+    "The specific identities of the deities are not enumerated in this verse."
+   ],
+   "plain_english": "In the arrangement of forty-nine pots, the deities are considered to be present."
+  },
+  {
+   "verse": 4986,
+   "rows": [
+    {
+     "surface": "aṣṭādhikasahasre",
+     "gloss": "in-thousand-plus-eight",
+     "grounds": "compound aṣṭa+adhika+sahasra, configuration of one thousand and eight",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast or further specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadevāḥ",
+     "gloss": "all-gods",
+     "grounds": "compound sarva+deva, totality of deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "authoritative scriptural declaration",
+     "morph": "m.nom.pl (past-participle) pra-√kīrt"
+    }
+   ],
+   "question": "Which deities are declared to be present in the arrangement of one thousand and eight?",
+   "premises": [
+    "A configuration of one thousand and eight is specified.",
+    "The text makes a declaration about this configuration.",
+    "All gods are named as present."
+   ],
+   "inference": "Therefore all the gods are declared to be present in the arrangement of one thousand and eight.",
+   "uncertainties": [],
+   "plain_english": "But in the arrangement of one thousand and eight, all the gods are declared to be present."
+  },
+  {
+   "verse": 4987,
+   "rows": [
+    {
+     "surface": "vākśrīyuto",
+     "gloss": "joined-with-speech-and-prosperity",
+     "grounds": "compound vāk+śrī+yuta, form of Gaṇeśa associated with speech and prosperity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gaṇeśaśced",
+     "gloss": "if-lord-of-gaṇas",
+     "grounds": "fused form gaṇeśaḥ+cet, conditional reference to Gaṇeśa",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "vardhanīdvitayaṃ",
+     "gloss": "pair-of-vessels",
+     "grounds": "compound vardhanī+dvitaya, two auxiliary vessels",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "prescriptive ritual placement",
+     "morph": "3.sg.opt.act ni-√as"
+    }
+   ],
+   "question": "What additional ritual placement is required when Gaṇeśa is worshipped with speech and prosperity?",
+   "premises": [
+    "The condition concerns Gaṇeśa joined with speech and prosperity.",
+    "A pair of auxiliary vessels is specified.",
+    "The placement of these vessels is prescribed."
+   ],
+   "inference": "Therefore, if Gaṇeśa is joined with speech and prosperity, one should place a pair of auxiliary vessels.",
+   "uncertainties": [
+    "The exact ritual function of the vardhanī vessels is not specified in this verse."
+   ],
+   "plain_english": "If Gaṇeśa is worshipped in the form joined with speech and prosperity, one should place a pair of auxiliary vessels."
+  }
+ ]
+}

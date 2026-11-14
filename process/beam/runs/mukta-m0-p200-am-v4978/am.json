@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p200",
  "verse": 4978,
- "question": "How does eye measure relate to height and width?",
+ "question": "What ritual action must follow after performing the rites by the previously stated method?",
  "premises": [
-  "eye is equal to height",
-  "half of that is width"
+  "The rites are completed according to the previously stated method.",
+  "A circumambulation of the shrine is prescribed.",
+  "The circumambulation follows the completed rites."
  ],
- "inference": "eye length equals height and width is half",
- "uncertainties": [
-  "exact measurement unit"
- ],
- "plain_english": "The eye equals the height, and half of that is the width."
+ "inference": "Therefore, after performing the rites by the previously stated method, one should circumambulate the shrine.",
+ "uncertainties": [],
+ "plain_english": "Having performed the rites according to the previously stated method, one should circumambulate the shrine."
 }
