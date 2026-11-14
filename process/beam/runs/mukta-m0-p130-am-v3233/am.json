@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p130",
  "verse": 3233,
- "question": "What substances define the arghya offering after they are seen?",
+ "question": "What measurement applies in the middle when less?",
  "premises": [
-  "Milk and water are seen.",
-  "The offering is made after seeing them.",
-  "The arghya is declared in that context."
+  "Eighteen angulas applies in the middle.",
+  "When less, it would be.",
+  "Twelve angulas is the lesser measure."
  ],
- "inference": "After seeing milk and water, the arghya offering is declared.",
- "uncertainties": [],
- "plain_english": "Having seen milk and water, the arghya offering is then declared."
+ "inference": "The middle measure is eighteen angulas, or twelve when less.",
+ "uncertainties": [
+  "The exact condition for less is not specified."
+ ],
+ "plain_english": "Eighteen angulas in the middle; when less, twelve angulas."
 }

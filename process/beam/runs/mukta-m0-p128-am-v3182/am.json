@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3182,
- "question": "What conditions apply to bathing once south of Madhukuta?",
+ "question": "How are many-floored and garland-maker forms distinguished?",
  "premises": [
-  "Bathing is done there once",
-  "The bather observes silence",
-  "The location is south of Madhukuta"
+  "many-floors-endowed is named",
+  "garland-maker is named",
+  "garland is named"
  ],
- "inference": "One observing silence bathes once there, south of Madhukuta.",
- "uncertainties": [],
- "plain_english": "Having bathed there once in silence, south of Madhukuta."
+ "inference": "The verse distinguishes a many-floored form and a garland-maker garland.",
+ "uncertainties": [
+  "exact architectural class"
+ ],
+ "plain_english": "A many-floored form and a garland-maker garland are distinguished."
 }

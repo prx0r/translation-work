@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3198,
- "question": "For which four aims of life should this practice be engaged, O fair-vowed one?",
+ "question": "What well-adorned figure wears white garment turban and upper garment?",
  "premises": [
-  "The four aims are duty, wealth, desire, and liberation",
-  "One should engage the practice in them",
-  "The instruction is addressed to the fair-vowed one"
+  "very white garment is named",
+  "turban is named",
+  "upper garment is named",
+  "well adorned is named"
  ],
- "inference": "One should engage this practice for duty, wealth, desire, and liberation, O fair-vowed one.",
- "uncertainties": [],
- "plain_english": "O fair-vowed one, one should engage it for dharma, wealth, desire, and liberation."
+ "inference": "The figure is well adorned with white garment, turban, and upper garment.",
+ "uncertainties": [
+  "ritual role"
+ ],
+ "plain_english": "The figure is well adorned with white garment, turban, and upper garment."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3190,
- "question": "What qualities characterize the person acting in the pilgrimage sites of Viraja?",
+ "question": "What is darbha-garland-endowed and accompanied by dig-gajas?",
  "premises": [
-  "The person is in pilgrimage sites",
-  "The person is in Viraja",
-  "The person is wise and sense-restrained"
+  "darbha garland endowed is named",
+  "dig gajas are named",
+  "accompanied is stated"
  ],
- "inference": "The wise and sense-restrained person acts in the pilgrimage sites of Viraja.",
- "uncertainties": [],
- "plain_english": "The wise, sense-restrained person in the pilgrimage sites, in Viraja."
+ "inference": "The form is darbha-garland-endowed and accompanied by dig-gajas.",
+ "uncertainties": [
+  "exact dig-gaja role"
+ ],
+ "plain_english": "It is darbha-garland-endowed and accompanied by dig-gajas."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3282,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "How are lotus and kumuda desired by beings one part?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term madhuparka denotes a honey mixture.",
-  "The formula identifies this offering."
+  "lotus is named",
+  "kumuda is named",
+  "by beings one part is named",
+  "lotus is desired"
  ],
- "inference": "This formula designates the offering of the honey mixture.",
- "uncertainties": [],
- "plain_english": "Thus is the honey mixture."
+ "inference": "Lotus and kumuda are desired by beings in one part.",
+ "uncertainties": [
+  "exact partitive relation inferred"
+ ],
+ "plain_english": "Lotus, kumuda, by beings one part, lotus is desired."
 }

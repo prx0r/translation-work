@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p129",
  "verse": 3219,
- "question": "Which mountain must never be climbed in that sacred area?",
+ "question": "What are the fifth and Shaiva bricks said to be?",
  "premises": [
-  "A mountain there is named Cancala.",
-  "Ascending it is prohibited.",
-  "The prohibition applies at any time."
+  "the fifth is Ishvara-faced",
+  "the Shaiva is east-faced",
+  "addressed to the god"
  ],
- "inference": "One should never ascend the mountain called Cancala.",
- "uncertainties": [],
- "plain_english": "There one should never ascend the mountain named Cancala."
+ "inference": "The fifth brick is Ishvara-faced and the Shaiva brick is east-faced.",
+ "uncertainties": [
+  "exact brick taxonomy"
+ ],
+ "plain_english": "The fifth is Ishvara-faced; the Shaiva one is east-faced, O god."
 }

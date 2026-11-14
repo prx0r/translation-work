@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3287,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "What is declared in twenty-one part but birth part?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term bhūṣaṇa denotes ornaments.",
-  "The formula identifies this offering."
+  "twenty-one part is named",
+  "but is named",
+  "birth part is named",
+  "declared is named"
  ],
- "inference": "This formula designates the offering of ornaments.",
- "uncertainties": [],
- "plain_english": "Thus are the ornaments."
+ "inference": "Something is declared in twenty-one part but birth part.",
+ "uncertainties": [
+  "referent omitted in verse"
+ ],
+ "plain_english": "Twenty-one part but birth part declared."
 }

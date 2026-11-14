@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3195,
- "question": "What goddess is identified as residing within the linga by these names?",
+ "question": "What width or foot diameter applies in great shrine?",
  "premises": [
-  "The yoni is within the linga",
-  "She is named Mangala",
-  "She is also called Candrika"
+  "or is stated",
+  "width is named",
+  "foot diameter is named",
+  "great shrine is named"
  ],
- "inference": "The yoni within the linga is the goddess named Mangala, also called Candrika.",
- "uncertainties": [],
- "plain_english": "The yoni within the linga is named Mangala, Candrika."
+ "inference": "In a great shrine, width or foot diameter is specified.",
+ "uncertainties": [
+  "exact measurement relation"
+ ],
+ "plain_english": "In a great shrine, width or foot diameter is specified."
 }

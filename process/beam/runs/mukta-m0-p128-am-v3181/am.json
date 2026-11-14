@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3181,
- "question": "Who may perform bathing elsewhere after crossing the Campavati river?",
+ "question": "What covered canopy and slab are named here as pavilion?",
  "premises": [
-  "The Campavati river is crossed",
-  "Bathing may be performed elsewhere",
-  "The subject is whoever does this"
+  "covered canopy is named",
+  "slab is named",
+  "pavilion is named here"
  ],
- "inference": "Whoever crosses the Campavati river may perform bathing elsewhere.",
- "uncertainties": [],
- "plain_english": "Whoever, having crossed the Campavati river, may perform bathing elsewhere."
+ "inference": "Here the covered canopy and slab are named as pavilion.",
+ "uncertainties": [
+  "whether prapā is canopy or water shed"
+ ],
+ "plain_english": "Here the covered canopy and slab are called a pavilion."
 }

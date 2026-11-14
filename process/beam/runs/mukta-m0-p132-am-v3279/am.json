@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3279,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "What embrace half-part should be when twenty-two part is done?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term āvāhana denotes invocation.",
-  "The formula identifies this offering."
+  "embrace half-part is named",
+  "should-be is stated",
+  "twenty-two part is named",
+  "done is named"
  ],
- "inference": "This formula designates the offering of invocation.",
- "uncertainties": [],
- "plain_english": "Thus is the invocation."
+ "inference": "An embrace half-part should be when twenty-two part is done.",
+ "uncertainties": [
+  "partitive relation inferred"
+ ],
+ "plain_english": "Embrace half-part should be, twenty-two part done."
 }

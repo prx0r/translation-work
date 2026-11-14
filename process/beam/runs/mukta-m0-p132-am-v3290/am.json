@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3290,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "How is vajana should be great lotus by seven parts declared?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term dhūpa denotes incense.",
-  "The formula identifies this offering."
+  "vajana is named",
+  "should be great lotus is named",
+  "by seven parts is named",
+  "declared is named"
  ],
- "inference": "This formula designates the offering of incense.",
- "uncertainties": [],
- "plain_english": "Thus is the incense."
+ "inference": "Vajana should be great lotus by seven parts declared.",
+ "uncertainties": [
+  "exact relation inferred"
+ ],
+ "plain_english": "Vajana should be great lotus, by seven parts declared."
 }

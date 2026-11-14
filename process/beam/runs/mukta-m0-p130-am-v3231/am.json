@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p130",
  "verse": 3231,
- "question": "For what purpose was this sacred place created by Brahmā long ago?",
+ "question": "When does the ground not become low?",
  "premises": [
-  "Brahmā created the place in ancient times.",
-  "The stated purpose is liberation.",
-  "Liberation is specified as freedom from all sins."
+  "The weight-measure has fallen.",
+  "Then it would not be low.",
+  "This holds if the condition is met."
  ],
- "inference": "Brahmā formerly created this place for liberation from all sins.",
- "uncertainties": [],
- "plain_english": "...for liberation from all sins, it was created by Brahmā long ago."
+ "inference": "The ground does not become low under the stated weight condition.",
+ "uncertainties": [
+  "The precise weight threshold is not given."
+ ],
+ "plain_english": "If the weight-measure has fallen, then it would not be low."
 }

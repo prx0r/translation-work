@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3187,
- "question": "Where is the Vaitarani pool located relative to the goddess?",
+ "question": "What is endowed with root peak and child peak?",
  "premises": [
-  "The pool is associated with Vaitarani",
-  "It is east of the goddess",
-  "It is not far away"
+  "root-peak-endowed is named",
+  "child-peak-endowed is named"
  ],
- "inference": "The Vaitarani pool is located not far to the east of the goddess.",
- "uncertainties": [],
- "plain_english": "Not far to the east of the goddess is the Vaitarani pool."
+ "inference": "The form is endowed with both root peak and child peak.",
+ "uncertainties": [
+  "exact peak relation"
+ ],
+ "plain_english": "It is endowed with root peak and child peak."
 }

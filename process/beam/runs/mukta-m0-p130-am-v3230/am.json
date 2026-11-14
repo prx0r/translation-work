@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p130",
  "verse": 3230,
- "question": "Under what solar condition should a person bathe at Kavilā?",
+ "question": "What happens when the filled place lacks water?",
  "premises": [
-  "A person bathes at Kavilā.",
-  "The sun is specified as standing in Capricorn.",
-  "The timing is linked to that solar position."
+  "The place is filled with water.",
+  "That place is without water.",
+  "Water is mentioned again conditionally."
  ],
- "inference": "A person should bathe at Kavilā when the sun stands in Capricorn.",
- "uncertainties": [],
- "plain_english": "A person, having bathed at Kavilā when the sun is in Capricorn..."
+ "inference": "The condition concerns a filled place that has no water.",
+ "uncertainties": [
+  "The exact consequence is stated in the next verse."
+ ],
+ "plain_english": "If the place filled with water is without water."
 }

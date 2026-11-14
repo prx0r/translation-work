@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3188,
- "question": "Which deity dwells there himself in the form of a boar?",
+ "question": "What principal and secondary substances may be declared?",
  "premises": [
-  "A deity dwells there himself",
-  "The deity is Hari",
-  "Hari takes the form of a boar"
+  "various principal substance may be",
+  "secondary other is named",
+  "declared is stated"
  ],
- "inference": "Hari himself dwells there indeed in the form of a boar.",
- "uncertainties": [],
- "plain_english": "There indeed Hari himself dwells in the form of a boar."
+ "inference": "Various principal substance may be, while secondary other is declared.",
+ "uncertainties": [
+  "exact substance categories"
+ ],
+ "plain_english": "Various principal substance may be, and secondary other is declared."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p129",
  "verse": 3223,
- "question": "What sacred site and deities of the nine seats are introduced?",
+ "question": "What is deposited first before placing jewels afterwards?",
  "premises": [
-  "A sacred place of the nine seats is mentioned.",
-  "The listener is asked to hear about it.",
-  "The deities of that place are to be described."
+  "a flower is deposited there",
+  "afterwards jewels are placed"
  ],
- "inference": "The verse introduces the sacred place of the nine seats and calls attention to its deities.",
- "uncertainties": [],
- "plain_english": "Hear indeed which sacred place belongs to the nine seats, and its deities."
+ "inference": "A flower is deposited there first, then jewels are placed.",
+ "uncertainties": [
+  "whether tatraiva refers to middle or pit"
+ ],
+ "plain_english": "Deposit a flower there; afterwards place the jewels."
 }

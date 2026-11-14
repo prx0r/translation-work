@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p130",
  "verse": 3226,
- "question": "What sacred feature establishes Kurukshetra as a great holy field?",
+ "question": "By what manner should the prescribed action be performed?",
  "premises": [
-  "Kurukshetra is called a great field.",
-  "Brahma's lake is located there.",
-  "That location is traditionally remembered as sacred."
+  "The action is to be performed by this very manner.",
+  "The manner is specified in the preceding instruction."
  ],
- "inference": "The presence of Brahma's lake establishes Kurukshetra as a great holy field.",
- "uncertainties": [],
- "plain_english": "Kurukshetra is remembered as a great sacred field where Brahma's lake is located."
+ "inference": "The ritual action follows the stated manner exactly.",
+ "uncertainties": [
+  "The exact action is not named in this verse."
+ ],
+ "plain_english": "By this very manner, that action should be performed."
 }

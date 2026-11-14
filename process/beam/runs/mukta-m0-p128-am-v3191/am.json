@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3191,
- "question": "What destination does a man reach by bathing there himself?",
+ "question": "What hand and fist measures are alternatives?",
  "premises": [
-  "A man bathes there himself",
-  "He performs the act personally",
-  "He goes to the immortal world"
+  "one-hand is named",
+  "two-hand is named",
+  "fist-measure is named"
  ],
- "inference": "That man, having bathed there himself, goes to the immortal world.",
- "uncertainties": [],
- "plain_english": "That man, having himself bathed there, goes to the world of the immortals."
+ "inference": "The measures are one hand, two hands, or fist measure.",
+ "uncertainties": [
+  "what object is measured"
+ ],
+ "plain_english": "The measures are one hand, two hands, or fist measure."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p133",
  "verse": 3302,
- "question": "What constitutes the purification of the head for one bowed to Hari?",
+ "question": "How does the earth tremor relate to the lotus's two-part measure?",
  "premises": [
-  "Purification of the head is declared.",
-  "The subject is one who has bowed to Hari.",
-  "This is stated as a further specification."
+  "earth tremor uses fourth part",
+  "lotus has two-part measure",
+  "both measures are specified"
  ],
- "inference": "The head is purified through bowing to Hari.",
- "uncertainties": [],
- "plain_english": "Again, the purification of the head is declared for one who has bowed to Hari."
+ "inference": "The verse pairs an earth tremor measured by a fourth part with a lotus measured in two parts.",
+ "uncertainties": [
+  "syntactic relation between clauses"
+ ],
+ "plain_english": "On earth the tremor is by a fourth part; the lotus is two-part."
 }

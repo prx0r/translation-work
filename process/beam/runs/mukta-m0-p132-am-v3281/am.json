@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3281,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "For whom is this auspicious and not for other castes?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term ācamanīya denotes water for sipping.",
-  "The formula identifies this offering."
+  "of gods brahmins kings is named",
+  "auspicious is named",
+  "not other castes is named"
  ],
- "inference": "This formula designates the offering of water for sipping.",
- "uncertainties": [],
- "plain_english": "Thus is the water for sipping."
+ "inference": "It is auspicious for gods, brahmins, and kings, not other castes.",
+ "uncertainties": [
+  "referent of auspicious inferred"
+ ],
+ "plain_english": "Of gods, brahmins, kings auspicious, not other castes."
 }

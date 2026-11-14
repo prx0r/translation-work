@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3180,
- "question": "What ritual acts at Divyapura involve the three-eyed god?",
+ "question": "What is declared common above pillar top?",
  "premises": [
-  "Bathing occurs in the water at Divyapura",
-  "The three-eyed god is seen",
-  "Both acts are performed sequentially"
+  "pillar-top-above is named",
+  "all-common is named",
+  "declared is stated"
  ],
- "inference": "One bathes in the water at Divyapura and beholds the three-eyed god.",
- "uncertainties": [],
- "plain_english": "Having bathed in the water at Divyapura and having seen the three-eyed god."
+ "inference": "The forms above pillar top are declared common to all.",
+ "uncertainties": [
+  "exact architectural referent"
+ ],
+ "plain_english": "Those above the pillar top are declared common to all."
 }

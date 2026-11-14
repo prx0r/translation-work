@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p130",
  "verse": 3228,
- "question": "Which grave sin is removed by bathing there according to rule?",
+ "question": "What materials are used for the surrounding construction?",
  "premises": [
-  "A person may bathe there according to ritual rule.",
-  "Ritual bathing has purifying power.",
-  "The sin of killing a brahmin is specifically named."
+  "Clay lump is used there.",
+  "Stone, fist, and soft sand are used there.",
+  "Other materials are included by etc."
  ],
- "inference": "Bathing there according to rule removes the sin of killing a brahmin.",
- "uncertainties": [],
- "plain_english": "And by bathing there according to rule, one removes the sin of killing a brahmin."
+ "inference": "The surrounding work uses clay, stone, fist, soft sand, and similar materials.",
+ "uncertainties": [
+  "The exact role of each material is not stated."
+ ],
+ "plain_english": "There, with clay lump, stone, fist, soft sand, and so on."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3179,
- "question": "What destination do humans reach after bathing with a mantra?",
+ "question": "Which wall parts are excepted in liṅga and stone anger contexts?",
  "premises": [
-  "Humans bathe with a mantra",
-  "They become delivered",
-  "They go to heaven"
+  "liṅga and stones are named",
+  "anger is named",
+  "wall five parts are excepted"
  ],
- "inference": "Humans who bathe with a mantra are delivered and go to heaven.",
- "uncertainties": [],
- "plain_english": "Having bathed with a mantra, humans, delivered, go to heaven."
+ "inference": "In liṅga and stone contexts, anger excludes five wall parts.",
+ "uncertainties": [
+  "whether krodhe is ritual anger"
+ ],
+ "plain_english": "In liṅga and on stones, anger excludes five wall parts."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3276,
- "question": "What final destination awaits one endowed with all enjoyments?",
+ "question": "How are trembling ear and one trembling measured by two parts and lotus-like?",
  "premises": [
-  "One becomes endowed with all enjoyments.",
-  "At the end one should go somewhere.",
-  "Hari possesses a supreme abode."
+  "trembling ear is named",
+  "two parts are used",
+  "one trembling is named",
+  "lotus-like form is named"
  ],
- "inference": "One endowed with all enjoyments should ultimately go to Hari's abode.",
- "uncertainties": [],
- "plain_english": "Having become endowed with all enjoyments, one should go in the end to the abode of Hari."
+ "inference": "The verse names trembling ear, two parts, one trembling, and lotus-like form together.",
+ "uncertainties": [
+  "exact grammatical case is inferred from legacy hints"
+ ],
+ "plain_english": "Trembling ear, by two parts, one trembling, thus lotus-like."
 }

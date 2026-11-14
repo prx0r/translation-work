@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3277,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "How should foot-binding be cut as proper?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term āsana denotes a seat.",
-  "The formula identifies this offering."
+  "thus is stated",
+  "foot-binding should be",
+  "but is added",
+  "to-be-cut is named",
+  "as-proper is named"
  ],
- "inference": "This formula designates the offering of a seat.",
- "uncertainties": [],
- "plain_english": "Thus is the seat."
+ "inference": "Foot-binding should be cut as proper.",
+ "uncertainties": [
+  "compound internal sandhi not expanded"
+ ],
+ "plain_english": "Thus foot-binding should be, but cut as proper."
 }

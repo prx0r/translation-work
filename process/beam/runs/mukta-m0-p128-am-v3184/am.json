@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3184,
- "question": "What devotional acts toward that goddess are prescribed even once?",
+ "question": "What mansion special is described by darkness-removing garland segment?",
  "premises": [
-  "The goddess is seen once",
-  "She is worshipped with devotion",
-  "She is bowed to in reverence"
+  "darkness-removing garland is named",
+  "segment is named",
+  "mansion special is named"
  ],
- "inference": "Having once seen that goddess, one should worship her with devotion and bow to her.",
- "uncertainties": [],
- "plain_english": "Having once seen that goddess, and having worshipped and bowed to her with devotion."
+ "inference": "A mansion special is described by a darkness-removing garland segment.",
+ "uncertainties": [
+  "exact compound segmentation"
+ ],
+ "plain_english": "A mansion special is described by a darkness-removing garland segment."
 }

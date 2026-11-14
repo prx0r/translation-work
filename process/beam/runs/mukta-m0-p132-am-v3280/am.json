@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3280,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "What is declared as kumuda and vajana should be pigeon?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term pādya denotes water for feet.",
-  "The formula identifies this offering."
+  "that thus is stated",
+  "kumuda is named",
+  "declared is stated",
+  "vajana is named",
+  "should-be pigeon is named"
  ],
- "inference": "This formula designates the offering of water for the feet.",
- "uncertainties": [],
- "plain_english": "Thus is the water for the feet."
+ "inference": "Kumuda is declared and vajana should be pigeon.",
+ "uncertainties": [
+  "exact syntactic relation inferred"
+ ],
+ "plain_english": "That thus kumuda declared, vajana should be pigeon."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3289,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "What should be done by one part adorned with vine leaf etc?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term puṣpa denotes a flower.",
-  "The formula identifies this offering."
+  "by one part is named",
+  "should be done is named",
+  "vine leaf etc adorned is named"
  ],
- "inference": "This formula designates the offering of a flower.",
- "uncertainties": [],
- "plain_english": "Thus is the flower."
+ "inference": "Something should be done by one part adorned with vine leaf etc.",
+ "uncertainties": [
+  "referent omitted in verse"
+ ],
+ "plain_english": "By one part should be done, vine leaf etc adorned."
 }

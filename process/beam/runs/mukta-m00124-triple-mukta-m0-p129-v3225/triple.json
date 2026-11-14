@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3225,
+   "rows": [
+    {
+     "surface": "parivārālaye",
+     "gloss": "attendant-shrine",
+     "grounds": "locative of parivārālaya, the attendant shrine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "pedestal",
+     "grounds": "locative of pīṭha, the pedestal",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śālāyāṃ",
+     "gloss": "hall",
+     "grounds": "locative of śālā, the hall",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "ca sabhāvidhau",
+     "gloss": "and-assembly-rite",
+     "grounds": "ca is indeclinable and sabhāvidhi is in the locative",
+     "morph": "(indecl.) + loc.sg.m"
+    }
+   ],
+   "question": "Where should the śāntihoma be performed after the gems are placed?",
+   "premises": [
+    "flowers and gems are placed there first",
+    "śāntihoma is then performed",
+    "attendant shrine pedestal hall and assembly rite are listed"
+   ],
+   "inference": "the rite extends to subsidiary and communal spaces",
+   "uncertainties": [
+    "the exact ritual scope of sabhāvidhau is not specified"
+   ],
+   "plain_english": "The śāntihoma is to be performed in the attendant shrine, on the pedestal, in the hall, and in the assembly rite."
+  }
+ ]
+}

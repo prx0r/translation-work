@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3288,
- "question": "Which ritual offering is designated by this formula?",
+ "question": "How is jagati kumuda by six?",
  "premises": [
-  "Ritual worship uses specific formulas.",
-  "The term gandha denotes fragrance.",
-  "The formula identifies this offering."
+  "jagati is named",
+  "kumuda is named",
+  "by six is named"
  ],
- "inference": "This formula designates the offering of fragrance.",
- "uncertainties": [],
- "plain_english": "Thus is the fragrance."
+ "inference": "Jagati kumuda is by six.",
+ "uncertainties": [
+  "compound internal sandhi not expanded"
+ ],
+ "plain_english": "Jagati kumuda by six."
 }

@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3298,
- "question": "Which devotional acts involving circumambulation and washing are performed?",
+ "question": "How is lotus declared by two birth part trembling by one?",
  "premises": [
-  "Devotion motivates ritual acts.",
-  "Circumambulation is a ritual act.",
-  "Washing of the feet is a ritual act."
+  "by two is named",
+  "birth part is named",
+  "lotus is named",
+  "trembling by one is named",
+  "declared is named"
  ],
- "inference": "With devotion, circumambulation and again the washing of the feet are performed.",
- "uncertainties": [],
- "plain_english": "With devotion, there is circumambulation and again the washing of the feet."
+ "inference": "Lotus is declared by two birth part trembling by one.",
+ "uncertainties": [
+  "exact relation inferred"
+ ],
+ "plain_english": "By two birth part lotus, trembling by one, declared."
 }
