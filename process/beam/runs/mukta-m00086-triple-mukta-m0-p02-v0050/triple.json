@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "adhaḥ+bhāge",
+     "gloss": "in-lower-part",
+     "grounds": "locative compound indicating location in the lower section",
+     "morph": "compound:adhaḥ+bhāga;loc.sg.m"
+    },
+    {
+     "surface": "keśarāṇi",
+     "gloss": "filaments",
+     "grounds": "the filaments of the lotus",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "padma+kuṇḍaṃ",
+     "gloss": "lotus-pit",
+     "grounds": "compound denoting a lotus-shaped basin or pit",
+     "morph": "compound:padma+kuṇḍa;n.nom.sg"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "declared",
+     "grounds": "stated or prescribed as part of the construction",
+     "morph": "ppp.nom.sg.n;√īr"
+    }
+   ],
+   "question": "What elements are prescribed to be situated in the lower part of the construction?",
+   "premises": [
+    "The lower part is specified as the location.",
+    "Filaments are named among the elements.",
+    "A lotus-pit is named among the elements.",
+    "These elements are declared as prescribed."
+   ],
+   "inference": "Therefore, the filaments and the lotus-pit are prescribed in the lower part.",
+   "uncertainties": [
+    "The exact ritual or diagrammatic function of padma-kuṇḍa in this context is not fully specified."
+   ],
+   "plain_english": "In the lower part, the filaments and the lotus-pit are declared."
+  }
+ ]
+}

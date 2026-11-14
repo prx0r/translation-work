@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "from-him",
+     "grounds": "ablative pronoun referring to Aruṇāditya mentioned previously",
+     "morph": "pron.abl.sg.m"
+    },
+    {
+     "surface": "asmi",
+     "gloss": "i-am",
+     "grounds": "first-person assertion of being by the speaker",
+     "morph": "1.sg.pres.act √as"
+    },
+    {
+     "surface": "samudbhūtaḥ",
+     "gloss": "born",
+     "grounds": "arisen or originated from the named source",
+     "morph": "ppp.nom.sg.m sam-ud-√bhū"
+    },
+    {
+     "surface": "somānandākhyaḥ",
+     "gloss": "somānanda-named",
+     "grounds": "compound giving the speaker's name",
+     "morph": "somānanda+ākhya compound.nom.sg.m"
+    },
+    {
+     "surface": "īdṛśaḥ",
+     "gloss": "such",
+     "grounds": "of such a kind, characterizing the speaker",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Through what lineage and name does the speaker assert his own identity?",
+   "premises": [
+    "The speaker originates from that previously named figure.",
+    "The speaker declares his own existence.",
+    "The speaker bears the name Somānanda.",
+    "The speaker is characterized as being such."
+   ],
+   "inference": "The speaker identifies himself as Somānanda, born from that lineage.",
+   "uncertainties": [
+    "The precise nuance of īdṛśaḥ in this context is not fully specified."
+   ],
+   "plain_english": "From him I am born, named Somānanda, such as I am."
+  }
+ ]
+}

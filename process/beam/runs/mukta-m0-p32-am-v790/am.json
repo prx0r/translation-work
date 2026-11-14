@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p32",
  "verse": 790,
- "question": "What request did Śiva make for the supremely adorable goddess to dwell within him?",
+ "question": "What is rightly established in the mind of mine-ness for the good ones?",
  "premises": [
-  "The goddess is supremely adorable.",
-  "Śiva requests her to be established.",
-  "The requested location is his heart."
+  "A mind can be characterized by mine-ness",
+  "The good ones can arrive at attachment",
+  "This state can be rightly established"
  ],
- "inference": "Śiva asks the supremely adorable goddess to establish herself in his heart.",
- "uncertainties": [],
- "plain_english": "O goddess, supremely adorable, establish yourself in my heart."
+ "inference": "In the mind of mine-ness, when the attachment of the good ones has arrived, something is rightly established.",
+ "uncertainties": [
+  "The third token contains two words in the source line but is given as one token here"
+ ],
+ "plain_english": "In the mind of mine-ness, when the attachment of the good ones has arrived, it is well."
 }
