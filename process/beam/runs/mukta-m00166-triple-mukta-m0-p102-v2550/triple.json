@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle indicating concession or inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patyuḥ",
+     "gloss": "of-the-lord",
+     "grounds": "refers to the lord or consort",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "object or locus of standing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthityā",
+     "gloss": "by-standing",
+     "grounds": "denotes the act or state of standing or abiding",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "nirvairā",
+     "gloss": "without-enmity",
+     "grounds": "free from hostility; continues description from previous verse",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jayati",
+     "gloss": "triumphs",
+     "grounds": "expresses victorious prevailing",
+     "morph": "3.sg.pres.act √ji"
+    },
+    {
+     "surface": "īśvarī",
+     "gloss": "goddess",
+     "grounds": "the supreme feminine power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the goddess triumph without enmity while standing upon the lord's head?",
+   "premises": [
+    "The goddess stands upon the head of the lord.",
+    "The goddess remains without enmity in this position.",
+    "Absence of enmity accompanies her prevailing state."
+   ],
+   "inference": "Therefore the goddess triumphs without enmity even while standing upon the lord's head.",
+   "uncertainties": [
+    "Whether śiraḥ sthityā implies physical placement or a symbolic hierarchical relation is not explicit."
+   ],
+   "plain_english": "Even while standing on the lord's head, the goddess, free from enmity, triumphs."
+  }
+ ]
+}
