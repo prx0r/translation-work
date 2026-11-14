@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3482,
- "question": "What moral qualities should participants in the ritual assembly possess?",
+ "question": "What proportions of shape and thickness are prescribed for the support stone?",
  "premises": [
-  "Participants should be peaceful.",
-  "Participants should be averse to taking others' wealth."
+  "The stone may be equal-sided or elongated.",
+  "Its thickness is specified in relation to that measure.",
+  "The thickness should be half of that measure."
  ],
- "inference": "The ritual assembly should consist of peaceful people who do not covet others' wealth.",
- "uncertainties": [],
- "plain_english": "It should be attended by peaceful people who turn away from others' wealth."
+ "inference": "The support stone may be equal-sided or elongated, and its thickness should be half of that dimension.",
+ "uncertainties": [
+  "The exact reference of tad in tadardham depends on the chosen dimension."
+ ],
+ "plain_english": "It may be equal-sided or elongated, and its thickness should be half of that."
 }

@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "raktābhi",
+     "gloss": "with-red-like",
+     "grounds": "instrumental plural feminine form indicating reddish elements; final visarga elided before following vowel-initial word in sandhi",
+     "morph": "adj.ins.pl.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or explicative particle marking the described appearance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nibhasyātāṃ",
+     "gloss": "should-appear",
+     "grounds": "optative expressing intended resemblance or appearance",
+     "morph": "verb.3.sg.opt.ātmanepada (ni-bhās)"
+    },
+    {
+     "surface": "pāṇḍuvarṇaṃ",
+     "gloss": "pale-color",
+     "grounds": "compound denoting a pale or whitish-yellow hue as the object to be produced",
+     "morph": "compound.acc.sg.m (pāṇḍu+varṇa)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative prescribing the ritual preparation of the color",
+     "morph": "verb.3.sg.opt.parasmaipada (pra-kḷp)"
+    }
+   ],
+   "question": "How is a pale color to be prepared so that it appears reddish?",
+   "premises": [
+    "The preparation involves elements described as red-like.",
+    "The intended appearance is indicated by the term meaning thus resembling.",
+    "The prescribed action is to arrange or produce a pale color."
+   ],
+   "inference": "By combining red-like elements in the prescribed manner, one should produce a pale color that appears reddish.",
+   "uncertainties": [
+    "The exact grammatical analysis of nibhasyātāṃ is uncertain in this form.",
+    "The precise material referent of raktābhi in the ritual mixture is not specified."
+   ],
+   "plain_english": "Using red-like elements so that it appears reddish, one should prepare a pale color."
+  }
+ ]
+}

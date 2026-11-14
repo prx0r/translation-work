@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p142",
  "verse": 3548,
- "question": "What affliction befalls people when the materials for ritual offerings are deficient?",
+ "question": "From which special sources should clay be taken according to this instruction?",
  "premises": [
-  "Offering materials may be deficient",
-  "Ritual deficiencies produce harmful consequences",
-  "People are affected by such consequences"
+  "Clay associated with an elephant tusk is mentioned.",
+  "Clay associated with a bull horn is mentioned.",
+  "These sources are emphasized as especially suitable."
  ],
- "inference": "When offering materials are deficient, hunger affliction arises among people",
- "uncertainties": [],
- "plain_english": "When the offering materials are deficient, an affliction of hunger arises among the people."
+ "inference": "Clay should especially be taken from places associated with an elephant tusk and a bull horn.",
+ "uncertainties": [
+  "Whether clay is taken from or near these objects is contextually implied."
+ ],
+ "plain_english": "Especially take clay from an elephant tusk and a bull horn."
 }

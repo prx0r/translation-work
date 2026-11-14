@@ -1,0 +1,877 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3426,
+   "rows": [
+    {
+     "surface": "vakṣodaṇḍāyataṃ",
+     "gloss": "chest-staff-lengthened",
+     "grounds": "compound describing length equal to chest-staff",
+     "morph": "compound"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasyāntaṃ",
+     "gloss": "its-end",
+     "grounds": "end of that",
+     "morph": "compound"
+    },
+    {
+     "surface": "visṛtaṃ",
+     "gloss": "spread-out",
+     "grounds": "extended",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "What dimensions must the remaining end portion of the spike have?",
+   "premises": [
+    "The remainder is lengthened like the chest-staff.",
+    "Its end is spread out."
+   ],
+   "inference": "The remaining portion of the spike must be extended to the length of the chest-staff and spread at its end.",
+   "uncertainties": [],
+   "plain_english": "The remaining part should be as long as the chest-staff and spread out at its end."
+  },
+  {
+   "verse": 3427,
+   "rows": [
+    {
+     "surface": "jaṃghā",
+     "gloss": "shank",
+     "grounds": "lower leg or shank measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daṇḍāttu",
+     "gloss": "from-staff",
+     "grounds": "from the staff measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaṇmātraṃ",
+     "gloss": "six-measures",
+     "grounds": "measuring six units",
+     "morph": "compound"
+    },
+    {
+     "surface": "ropayetsthānake",
+     "gloss": "should-fix-in-place",
+     "grounds": "should set up in position",
+     "morph": "compound"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How far from the staff should the wise practitioner fix the shank portion?",
+   "premises": [
+    "The shank portion is measured from the staff.",
+    "The measure specified is six units.",
+    "The wise practitioner performs the fixing in place."
+   ],
+   "inference": "The wise practitioner should fix the shank portion six measures away from the staff in its proper place.",
+   "uncertainties": [
+    "Exact unit of 'mātra' is not specified in the verse."
+   ],
+   "plain_english": "The wise one should fix the shank portion six measures from the staff in its proper place."
+  },
+  {
+   "verse": 3428,
+   "rows": [
+    {
+     "surface": "śūlamevaṃ",
+     "gloss": "spike-thus",
+     "grounds": "the spike in this manner",
+     "morph": "compound"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "fully-declared",
+     "grounds": "described completely",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upadhāśūlam",
+     "gloss": "support-spike",
+     "grounds": "the auxiliary or support spike",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is stated",
+     "morph": "3.sg.present-passive + vac"
+    }
+   ],
+   "question": "What designation is given to the spike described in this manner?",
+   "premises": [
+    "The spike has been fully described in this manner.",
+    "A specific name is now assigned to it."
+   ],
+   "inference": "The spike described thus is called the upadhāśūla, the support spike.",
+   "uncertainties": [
+    "The precise technical distinction of 'upadhāśūla' is not fully explained here."
+   ],
+   "plain_english": "The spike described in this way is fully declared and is called the support spike."
+  },
+  {
+   "verse": 3429,
+   "rows": [
+    {
+     "surface": "upaśūlāyataṃ",
+     "gloss": "auxiliary-spike-lengthened",
+     "grounds": "lengthened like the auxiliary spike",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭāṃgulatataṃ",
+     "gloss": "eight-finger-broad",
+     "grounds": "eight fingers in breadth",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "What length and breadth are prescribed for the auxiliary spike?",
+   "premises": [
+    "The auxiliary spike is declared to be lengthened accordingly.",
+    "Its breadth should be eight fingers."
+   ],
+   "inference": "The auxiliary spike should be lengthened as prescribed and have a breadth of eight fingers.",
+   "uncertainties": [],
+   "plain_english": "It is declared that the auxiliary spike should be lengthened accordingly and be eight fingers broad."
+  },
+  {
+   "verse": 3430,
+   "rows": [
+    {
+     "surface": "śūlavyāsasamaṃ",
+     "gloss": "spike-width-equal",
+     "grounds": "equal to the width of the spike",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "central part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chidraṃ",
+     "gloss": "hole",
+     "grounds": "opening or perforation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadviśikhānvitam",
+     "gloss": "that-point-endowed",
+     "grounds": "provided with that point or tip",
+     "morph": "compound"
+    }
+   ],
+   "question": "What specifications must the central hole of the spike satisfy?",
+   "premises": [
+    "The middle hole must equal the spike's width.",
+    "The hole must be endowed with a point or tip."
+   ],
+   "inference": "The central hole should be as wide as the spike and furnished with a pointed feature.",
+   "uncertainties": [
+    "The exact meaning of 'viśikha' in this technical context is uncertain."
+   ],
+   "plain_english": "The middle hole should be equal in width to the spike and provided with a point."
+  },
+  {
+   "verse": 3431,
+   "rows": [
+    {
+     "surface": "vakṣodaṇḍakaṭīdaṇḍaṃ",
+     "gloss": "chest-staff-hip-staff",
+     "grounds": "the chest-staff and hip-staff",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhṛtvā",
+     "gloss": "having-held",
+     "grounds": "after holding or supporting",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃśākhyaśūlakam",
+     "gloss": "bamboo-named-spike",
+     "grounds": "the spike called bamboo-spike",
+     "morph": "compound"
+    }
+   ],
+   "question": "What structural elements must the bamboo-named spike hold together?",
+   "premises": [
+    "The bamboo-named spike is involved in holding.",
+    "The elements held are the chest-staff and hip-staff."
+   ],
+   "inference": "The bamboo-named spike must hold the chest-staff and the hip-staff together.",
+   "uncertainties": [],
+   "plain_english": "The bamboo-named spike holds the chest-staff and the hip-staff."
+  },
+  {
+   "verse": 3432,
+   "rows": [
+    {
+     "surface": "upathāśūlaśikhāntaṃ",
+     "gloss": "support-spike-tip-end",
+     "grounds": "up to the tip-end of the support spike",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣodaṇḍapuraṃ",
+     "gloss": "chest-staff-front-equal",
+     "grounds": "equal to the front of the chest-staff",
+     "morph": "compound"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "same or level",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alignment must be maintained between the support spike tip and the chest-staff?",
+   "premises": [
+    "The extent reaches the tip-end of the support spike.",
+    "It must be equal to the front of the chest-staff."
+   ],
+   "inference": "The support spike's tip-end must be aligned equally with the front of the chest-staff.",
+   "uncertainties": [
+    "The reading 'upathāśūla' may be related to 'upadhāśūla' from verse 3428."
+   ],
+   "plain_english": "Up to the tip-end of the support spike, it should be equal and level with the front of the chest-staff."
+  },
+  {
+   "verse": 3433,
+   "rows": [
+    {
+     "surface": "lohajaṃ",
+     "gloss": "iron-born",
+     "grounds": "made of iron",
+     "morph": "compound"
+    },
+    {
+     "surface": "dārujaṃ",
+     "gloss": "wood-born",
+     "grounds": "made of wood",
+     "morph": "compound"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "compound"
+    },
+    {
+     "surface": "kīlaṃ",
+     "gloss": "peg",
+     "grounds": "fastening pin",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃyojayeddṛḍham",
+     "gloss": "should-join-firmly",
+     "grounds": "should fasten securely",
+     "morph": "compound"
+    }
+   ],
+   "question": "What materials and method are prescribed for fastening the peg securely?",
+   "premises": [
+    "The peg may be made of iron.",
+    "The peg may alternatively be made of wood.",
+    "The peg must be joined firmly."
+   ],
+   "inference": "One should fasten a peg made of iron or wood firmly in place.",
+   "uncertainties": [],
+   "plain_english": "One should firmly join a peg made of iron or else of wood."
+  },
+  {
+   "verse": 3434,
+   "rows": [
+    {
+     "surface": "śūlalakṣaṇamākhyātaṃ",
+     "gloss": "spike-characteristics-declared",
+     "grounds": "the characteristics of the spike have been stated",
+     "morph": "compound"
+    },
+    {
+     "surface": "śūlasthāpanamucyate",
+     "gloss": "spike-installation-is-stated",
+     "grounds": "the installation of the spike is now described",
+     "morph": "compound"
+    }
+   ],
+   "question": "What transition in ritual instruction follows the declaration of spike characteristics?",
+   "premises": [
+    "The characteristics of the spike have been declared.",
+    "The installation of the spike is now to be stated."
+   ],
+   "inference": "After declaring the spike's characteristics, the text proceeds to describe its installation.",
+   "uncertainties": [],
+   "plain_english": "The characteristics of the spike have been declared; now the installation of the spike is described."
+  },
+  {
+   "verse": 3435,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-radiant-kashyapa",
+     "grounds": "thus in the Aṃśumatkāśyapa text",
+     "morph": "compound"
+    },
+    {
+     "surface": "śūlalakṣaṇapaṭalaḥ",
+     "gloss": "spike-characteristics-chapter",
+     "grounds": "chapter on spike characteristics",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tryaśītitamaḥ",
+     "gloss": "eighty-third",
+     "grounds": "the eighty-third in order",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumatkāśyapa concludes with the spike characteristics?",
+   "premises": [
+    "The text is the Aṃśumatkāśyapa.",
+    "The chapter concerns spike characteristics.",
+    "It is the eighty-third chapter."
+   ],
+   "inference": "This concludes the eighty-third chapter, on spike characteristics, in the Aṃśumatkāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the eighty-third chapter, on the characteristics of the spike, in the Aṃśumatkāśyapa."
+  },
+  {
+   "verse": 3436,
+   "rows": [
+    {
+     "surface": "karṣaṇoditamāse",
+     "gloss": "plowing-prescribed-month",
+     "grounds": "in the month prescribed for plowing",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛkṣavāramuhūrtake",
+     "gloss": "constellation-day-auspicious-moment",
+     "grounds": "at a proper constellation, day, and auspicious moment",
+     "morph": "compound"
+    }
+   ],
+   "question": "What timing conditions must be observed for the spike installation ritual?",
+   "premises": [
+    "The month prescribed for plowing is required.",
+    "A suitable constellation, weekday, and auspicious moment are required."
+   ],
+   "inference": "The ritual must be performed in the plowing month at an auspicious constellation, day, and moment.",
+   "uncertainties": [],
+   "plain_english": "In the month prescribed for plowing, and at an auspicious constellation, day, and moment."
+  },
+  {
+   "verse": 3437,
+   "rows": [
+    {
+     "surface": "prāsādasyāgrato",
+     "gloss": "of-temple-in-front",
+     "grounds": "in front of the temple",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaiśe",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "ritual hall",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "four-cornered",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where and in what shape must the ritual pavilion be constructed?",
+   "premises": [
+    "The pavilion is to be placed in front of the temple.",
+    "The pavilion must be square in shape."
+   ],
+   "inference": "A square pavilion must be constructed in front of the temple.",
+   "uncertainties": [
+    "The form 'vaiśe' is unusual and may be a textual variant."
+   ],
+   "plain_english": "In front of the temple, one should make a square pavilion."
+  },
+  {
+   "verse": 3438,
+   "rows": [
+    {
+     "surface": "paṃktitrayasamāyuktaṃ",
+     "gloss": "row-three-endowed",
+     "grounds": "provided with three rows",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣoḍaśāṃghrisamanvitam",
+     "gloss": "sixteen-pillars-possessed",
+     "grounds": "furnished with sixteen pillars",
+     "morph": "compound"
+    }
+   ],
+   "question": "What structural arrangement of rows and pillars must the pavilion have?",
+   "premises": [
+    "The pavilion must have three rows.",
+    "The pavilion must have sixteen pillars."
+   ],
+   "inference": "The pavilion should be constructed with three rows and sixteen pillars.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with three rows and furnished with sixteen pillars."
+  },
+  {
+   "verse": 3439,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "according to",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lābhaṃ",
+     "gloss": "availability",
+     "grounds": "as obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parīṇāhaṃ",
+     "gloss": "circumference",
+     "grounds": "girth or thickness",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nirvraṇaṃ",
+     "gloss": "unblemished",
+     "grounds": "without wounds or defects",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dāruṇā",
+     "gloss": "with-wood",
+     "grounds": "by means of timber",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dṛḍham",
+     "gloss": "firm",
+     "grounds": "strong",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities must the timber used for the pavilion possess?",
+   "premises": [
+    "The timber should be obtained as available.",
+    "It must have suitable circumference.",
+    "It must be unblemished and firm."
+   ],
+   "inference": "The pavilion should use timber of suitable girth that is unblemished and strong, as available.",
+   "uncertainties": [],
+   "plain_english": "Using timber as available, of suitable circumference, unblemished and firm."
+  },
+  {
+   "verse": 3440,
+   "rows": [
+    {
+     "surface": "chādayettu",
+     "gloss": "should-cover",
+     "grounds": "one should cover",
+     "morph": "compound"
+    },
+    {
+     "surface": "vitānena",
+     "gloss": "with-canopy",
+     "grounds": "by means of a canopy",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "muktāsragdarbhamālikām",
+     "gloss": "pearl-garland-grass-garland",
+     "grounds": "garlands of pearls and darbha grass",
+     "morph": "compound"
+    }
+   ],
+   "question": "How must the pavilion be covered and decorated for the ritual?",
+   "premises": [
+    "The pavilion should be covered with a canopy.",
+    "It should be decorated with pearl garlands and darbha garlands."
+   ],
+   "inference": "The pavilion must be covered with a canopy and adorned with garlands of pearls and darbha grass.",
+   "uncertainties": [],
+   "plain_english": "One should cover it with a canopy and decorate it with garlands of pearls and darbha grass."
+  },
+  {
+   "verse": 3441,
+   "rows": [
+    {
+     "surface": "caturdvārasamāyuktaṃ",
+     "gloss": "four-gates-endowed",
+     "grounds": "provided with four doors",
+     "morph": "compound"
+    },
+    {
+     "surface": "stambhaveṣṭanasaṃyutam",
+     "gloss": "pillar-wrappings-possessed",
+     "grounds": "furnished with wrapped pillars",
+     "morph": "compound"
+    }
+   ],
+   "question": "What additional architectural features must the ritual pavilion include?",
+   "premises": [
+    "The pavilion must have four gates.",
+    "The pavilion must have wrapped or decorated pillars."
+   ],
+   "inference": "The pavilion should be equipped with four gates and pillars with wrappings.",
+   "uncertainties": [
+    "The exact nature of 'stambhaveṣṭana' (wrapping or enclosure) is not fully specified."
+   ],
+   "plain_english": "It should be endowed with four gates and furnished with wrapped pillars."
+  },
+  {
+   "verse": 3442,
+   "rows": [
+    {
+     "surface": "maṇṭapasya",
+     "gloss": "of-pavilion",
+     "grounds": "belonging to the pavilion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tribhāgaikaṃ",
+     "gloss": "third-part-one",
+     "grounds": "one third part",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vedī",
+     "gloss": "altar",
+     "grounds": "raised platform",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśālakam",
+     "gloss": "spacious",
+     "grounds": "broad",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportion and placement are prescribed for the altar within the pavilion?",
+   "premises": [
+    "The altar occupies one third of the pavilion.",
+    "The altar is placed in the middle.",
+    "The altar should be spacious."
+   ],
+   "inference": "A spacious altar occupying one third of the pavilion should be placed in its center.",
+   "uncertainties": [],
+   "plain_english": "In the middle of the pavilion, a spacious altar should occupy one third of its area."
+  },
+  {
+   "verse": 3443,
+   "rows": [
+    {
+     "surface": "guṇāṃgulaṃ",
+     "gloss": "three-fingers",
+     "grounds": "three finger-units",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśāloccāttasyādhaścopavedikām",
+     "gloss": "spacious-high-from-that-below-and-lower-altar",
+     "grounds": "a lower altar below that spacious high one",
+     "morph": "compound"
+    }
+   ],
+   "question": "What subordinate altar must be constructed below the main spacious altar?",
+   "premises": [
+    "A measure of three fingers is specified.",
+    "Below the spacious high altar a lower altar is required."
+   ],
+   "inference": "A lower altar of three fingers' measure should be constructed below the spacious high altar.",
+   "uncertainties": [
+    "The exact syntactic relation of 'guṇāṃgulaṃ' within the compound is somewhat compressed."
+   ],
+   "plain_english": "Below that spacious and high altar, one should make a lower altar measuring three fingers."
+  },
+  {
+   "verse": 3444,
+   "rows": [
+    {
+     "surface": "kṛtvānyatrāgni",
+     "gloss": "having-made-elsewhere-fire",
+     "grounds": "having made fire elsewhere",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "pits",
+     "grounds": "fire pits",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tvanena",
+     "gloss": "and-by-this",
+     "grounds": "and by this",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "according to the prescribed method",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "perform or prepare",
+     "morph": "2.sg.imperative-active + kṛ"
+    }
+   ],
+   "question": "How and where must the fire pits be prepared according to ritual rule?",
+   "premises": [
+    "Fire pits must be made elsewhere.",
+    "They must be prepared according to this prescribed method."
+   ],
+   "inference": "One should prepare the fire pits elsewhere according to this prescribed ritual method.",
+   "uncertainties": [],
+   "plain_english": "Having made arrangements elsewhere, prepare the fire pits according to this prescribed method."
+  },
+  {
+   "verse": 3445,
+   "rows": [
+    {
+     "surface": "śakraśāṃkarayormadhye",
+     "gloss": "indra-shankara-between",
+     "grounds": "between the directions of Indra and Shankara",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛttakuṇḍaṃ",
+     "gloss": "round-pit",
+     "grounds": "a circular fire pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "one should prepare",
+     "morph": "3.sg.optative-active + pra-kḷp"
+    }
+   ],
+   "question": "Where must the circular fire pit be placed relative to directional deities?",
+   "premises": [
+    "The location is between Indra and Shankara.",
+    "The fire pit must be circular."
+   ],
+   "inference": "A circular fire pit should be arranged between the directions of Indra and Shankara.",
+   "uncertainties": [],
+   "plain_english": "One should arrange a circular fire pit between the directions of Indra and Shankara."
+  },
+  {
+   "verse": 3446,
+   "rows": [
+    {
+     "surface": "gaurī",
+     "gloss": "gauri",
+     "grounds": "the goddess Gauri",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sahitabimbaṃ",
+     "gloss": "together-with-image",
+     "grounds": "image together with",
+     "morph": "compound"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇeṣvaśvattha",
+     "gloss": "in-corners-ashvattha",
+     "grounds": "in the corners, ashvattha",
+     "morph": "compound"
+    },
+    {
+     "surface": "patravat",
+     "gloss": "leaf-like",
+     "grounds": "shaped like a leaf",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fire pit shape is required in the corners when the image includes Gauri?",
+   "premises": [
+    "The condition is that the image is accompanied by Gauri.",
+    "The pits in the corners must be shaped like an ashvattha leaf."
+   ],
+   "inference": "If the image is together with Gauri, the corner fire pits should be shaped like ashvattha leaves.",
+   "uncertainties": [],
+   "plain_english": "If the image is accompanied by Gauri, the fire pits in the corners should be shaped like ashvattha leaves."
+  },
+  {
+   "verse": 3447,
+   "rows": [
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "fire pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lakṣaṇavatkṛtvā",
+     "gloss": "having-made-with-characteristics",
+     "grounds": "having made according to prescribed marks",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvakuṇḍāni",
+     "gloss": "all-pits",
+     "grounds": "all the fire pits",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "the officiating preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must prepare all the fire pits according to their prescribed characteristics?",
+   "premises": [
+    "Each pit must be made according to its prescribed characteristics.",
+    "All the fire pits must be prepared.",
+    "The officiating teacher performs this task."
+   ],
+   "inference": "The teacher must prepare all the fire pits according to their prescribed characteristics.",
+   "uncertainties": [],
+   "plain_english": "Having made each pit according to its prescribed characteristics, the teacher should prepare all the fire pits."
+  },
+  {
+   "verse": 3448,
+   "rows": [
+    {
+     "surface": "brāhmaṇānbhojayettasmin",
+     "gloss": "brahmins-should-feed-in-this",
+     "grounds": "should feed brahmins in this context",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day-rite",
+     "grounds": "benedictory rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vācayettataḥ",
+     "gloss": "should-cause-recite-then",
+     "grounds": "should then have recited",
+     "morph": "compound"
+    }
+   ],
+   "question": "What preliminary rites of feeding and recitation must precede the fire ritual?",
+   "premises": [
+    "Brahmins must be fed on this occasion.",
+    "The puṇyāha benediction must be recited afterward."
+   ],
+   "inference": "One should feed the brahmins and then have the puṇyāha benediction recited.",
+   "uncertainties": [],
+   "plain_english": "One should feed the brahmins there and then have the auspicious benediction recited."
+  },
+  {
+   "verse": 3449,
+   "rows": [
+    {
+     "surface": "vedikābhyagnikuṇḍāni",
+     "gloss": "altar-fire-pits",
+     "grounds": "the altar and fire pits",
+     "morph": "compound"
+    },
+    {
+     "surface": "paryagnikaraṇaṃ",
+     "gloss": "carrying-fire-around",
+     "grounds": "circumambulatory fire rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "perform",
+     "grounds": "carry out",
+     "morph": "2.sg.imperative-active + kṛ"
+    }
+   ],
+   "question": "What purificatory fire rite must be performed around the altar and fire pits?",
+   "premises": [
+    "The altar and fire pits are the objects of the rite.",
+    "The rite of carrying fire around must be performed."
+   ],
+   "inference": "One must perform the circumambulatory fire rite around the altar and the fire pits.",
+   "uncertainties": [],
+   "plain_english": "Perform the circumambulatory fire rite around the altar and the fire pits."
+  }
+ ]
+}

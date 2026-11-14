@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3487,
- "question": "What consequence follows from acting in delusion during the ritual?",
+ "question": "What musical accompaniment must characterize the ritual setting at this stage?",
  "premises": [
-  "One may act under delusion.",
-  "Such action leads to obtaining the deity's curse."
+  "All percussion instruments are to be present.",
+  "All musical instruments are to be present.",
+  "The setting is described as fully accompanied."
  ],
- "inference": "Acting in delusion during the ritual can bring the curse of the deity.",
- "uncertainties": [],
- "plain_english": "Through delusion, one may incur the curse of the deity."
+ "inference": "The ritual should be accompanied by all kinds of percussion and all kinds of musical instruments.",
+ "uncertainties": [
+  "The grammatical object qualified by these compounds is supplied from the surrounding context."
+ ],
+ "plain_english": "It should be accompanied by all percussion and all musical instruments."
 }
