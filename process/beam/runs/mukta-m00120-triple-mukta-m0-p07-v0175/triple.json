@@ -1,0 +1,64 @@
+{
+ "song": "sarvollasatantra",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "neuter pronoun in nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular of tad",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "khaṇḍātmā",
+     "gloss": "part-self",
+     "grounds": "compound of khaṇḍa and ātmā in nominative singular masculine",
+     "morph": "compound=khaṇḍa+ātmā; m.nom.sg"
+    },
+    {
+     "surface": "varjite",
+     "gloss": "devoid",
+     "grounds": "locative singular of varjita",
+     "morph": "m/n.loc.sg"
+    },
+    {
+     "surface": "vyāpitaṃ",
+     "gloss": "pervaded",
+     "grounds": "accusative singular neuter participle",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "accusative singular neuter noun",
+     "morph": "neut.acc.sg"
+    }
+   ],
+   "question": "How does the part-self pervade the world when it is devoid of the universal self?",
+   "premises": [
+    "The universal self pervades all things.",
+    "The part-self pervades the world when devoid.",
+    "Knowledge of self and other arises mutually."
+   ],
+   "inference": "Thus world-pervasion by part-self depends on absence of universal self.",
+   "uncertainties": [
+    "The exact referent of varjite is not specified.",
+    "The scope of etat remains context-dependent."
+   ],
+   "plain_english": "Just as this is pervaded by that, so the world is pervaded by the part-self when devoid."
+  }
+ ]
+}

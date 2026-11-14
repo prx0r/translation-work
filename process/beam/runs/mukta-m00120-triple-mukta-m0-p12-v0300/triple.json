@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "consequential particle from prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "instrumental of compound sarva+prayatna",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paśordīkṣāṃ",
+     "gloss": "of-paśu-initiation",
+     "grounds": "sandhi fusion paśor+dīkṣāṃ; accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative verb expressing injunction",
+     "morph": "3.sg.opt.act, root vṛj"
+    }
+   ],
+   "question": "Why should initiation of paśu be avoided with all effort?",
+   "premises": [
+    "tasmāt marks consequence from prior verse",
+    "sarvaprayatnena intensifies the injunction",
+    "paśordīkṣāṃ names the object to avoid"
+   ],
+   "inference": "The verse commands complete avoidance of paśu initiation as a necessary consequence.",
+   "uncertainties": [
+    "exact prior verse referenced by tasmāt is not supplied"
+   ],
+   "plain_english": "Therefore, with all effort, one should avoid the initiation of a paśu."
+  }
+ ]
+}
