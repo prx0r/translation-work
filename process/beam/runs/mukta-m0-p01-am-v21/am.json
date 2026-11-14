@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 21,
- "question": "What characteristic is treated in the thirty-seventh ecstasy section?",
+ "question": "What hundred-ablution, final rite, and ancestors-sacrifice rite thereafter are listed?",
  "premises": [
-  "saptatriṃśadikollāse means in the thirty-seventh ecstasy",
-  "śrīgurordhyānalakṣaṇam means characteristic of śrī-guru meditation"
+  "śatābhiṣekaḥ names hundred ablution",
+  "antyeṣṭiḥ names final rite",
+  "pitṛyajñavidhiḥ names ancestors sacrifice rite",
+  "tataḥ marks thereafter"
  ],
- "inference": "The thirty-seventh ecstasy treats the characteristic of śrī-guru meditation.",
+ "inference": "The verse lists hundred-ablution, final rite, and ancestors-sacrifice rite thereafter.",
  "uncertainties": [
-  "the meditation details are not given in the heading"
+  "compound segmentation"
  ],
- "plain_english": "In the thirty-seventh ecstasy, the characteristic of śrī-guru meditation is treated."
+ "plain_english": "Hundred-ablution, final rite, and ancestors-sacrifice rite thereafter are listed."
 }

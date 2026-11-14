@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 147,
- "question": "What action is prescribed at this point?",
+ "question": "Which tantras are listed as garuda, bhuta, bhairava, left?",
  "premises": [
-  "one should do the prescribed action",
-  "verse markers follow"
+  "gāruḍaṃ means garuda",
+  "bhūtatantraṃ means bhuta-tantra",
+  "bhairavaṃ means bhairava"
  ],
- "inference": "The prescribed action should be done.",
+ "inference": "The verse lists garuda, bhuta-tantra, bhairava, and left-tantra.",
  "uncertainties": [
-  "action unspecified in this fragment"
+  "exact list scope unclear"
  ],
- "plain_english": "One should do it."
+ "plain_english": "Garuda, bhuta-tantra, bhairava, and left-tantra."
 }

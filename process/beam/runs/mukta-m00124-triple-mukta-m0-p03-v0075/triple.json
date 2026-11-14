@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "sūkṣmaṃ",
+     "gloss": "subtle",
+     "grounds": "adjective modifying the declared subtle entity",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sūkṣmasya",
+     "gloss": "of-the-subtle",
+     "grounds": "genitive of the subtle source or domain",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "saṃproktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle of saṃ-pra-vac",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the declared entity",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "ūgranthaṃ",
+     "gloss": "great-text",
+     "grounds": "compound noun naming the declared text",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "noun used in the counting expression",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-count",
+     "grounds": "instrumental of counting or enumeration",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "Which subtle entity is declared to be the great text counted by lotuses?",
+   "premises": [
+    "subtle is declared of subtle",
+    "that is the great text",
+    "counted by lotuses"
+   ],
+   "inference": "the subtle declared entity is the great text enumerated by lotuses",
+   "uncertainties": [
+    "exact referent of ugranthaṃ remains uncertain",
+    "syntactic role of padma is not fully resolved"
+   ],
+   "plain_english": "The subtle is declared of the subtle; that is the great text, counted by lotuses."
+  }
+ ]
+}

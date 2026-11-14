@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 4,
- "question": "What characteristic of meditation on śrī guru is spoken in the tenth and eleventh ecstasy?",
+ "question": "What extent-length, arrival-mark, and constellation-wheel topics are listed?",
  "premises": [
-  "The tenth ecstasy is mentioned.",
-  "The eleventh ecstasy includes meditation on śrī guru.",
-  "A characteristic is the topic."
+  "vistārāyāma names extent length",
+  "āyādilakṣyaṃ names arrival mark",
+  "nakṣatracakrakam names constellation wheel"
  ],
- "inference": "The verse links tenth and eleventh ecstasies to a characteristic of guru meditation.",
+ "inference": "The verse lists extent-length, arrival-mark, and constellation-wheel topics.",
  "uncertainties": [
-  "Whether tenth and eleventh share one characteristic is unclear."
+  "compound segmentation"
  ],
- "plain_english": "In the tenth, and in the eleventh too, the characteristic of meditation on śrī guru."
+ "plain_english": "Extent-length, arrival-mark, and constellation-wheel topics are listed."
 }

@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśatitantrāṇāṃ",
+     "gloss": "of-twenty-eight-tantras",
+     "grounds": "genitive plural neuter of tantra; numeral twenty-eight modifies the noun",
+     "morph": "gen.pl.n."
+    },
+    {
+     "surface": "mūlabhedāḥ",
+     "gloss": "root-divisions",
+     "grounds": "nominative plural masculine of bheda; mūla qualifies the divisions",
+     "morph": "nom.pl.m."
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle of prakīrt; nominative plural masculine agreeing with mūlabhedāḥ",
+     "morph": "nom.pl.m.part."
+    }
+   ],
+   "question": "How many root divisions of the twenty-eight tantras are proclaimed?",
+   "premises": [
+    "twenty-eight tantras have root divisions",
+    "those root divisions are proclaimed"
+   ],
+   "inference": "the verse proclaims root divisions of twenty-eight tantras",
+   "uncertainties": [
+    "exact enumeration is not supplied in this verse"
+   ],
+   "plain_english": "The root divisions of the twenty-eight tantras are proclaimed."
+  }
+ ]
+}

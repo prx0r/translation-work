@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 17,
- "question": "What rite is assigned to the thirtieth ecstasy section?",
+ "question": "What prior lamp-waving rite and phalguni worship beyond are listed?",
  "premises": [
-  "vidhānaṃ means rite",
-  "samvidā-pānam means drinking of samvid",
-  "triṃśadike means in the thirtieth"
+  "nīrājanakriyā names lamp-waving rite",
+  "pūrvā marks prior",
+  "phalgunīpūjanaṃ names phalguni worship",
+  "param marks beyond"
  ],
- "inference": "The thirtieth section treats the rite of drinking samvid.",
+ "inference": "The verse lists prior lamp-waving rite and phalguni worship beyond.",
  "uncertainties": [
-  "the nature of samvid is not explained in this heading"
+  "compound segmentation"
  ],
- "plain_english": "The rite of drinking samvid is treated in the thirtieth section."
+ "plain_english": "Prior lamp-waving rite and phalguni worship beyond are listed."
 }

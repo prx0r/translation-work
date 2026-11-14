@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p01",
  "verse": 22,
- "question": "What rite of the fifth is treated at thirty-nine?",
+ "question": "What daily-occasional expiation and festival expiation are listed?",
  "premises": [
-  "ūnacatvāriṃśadīti means thirty-nine",
-  "pañcamasya means of the fifth",
-  "vidhānakam means rite"
+  "nityanaimittikaprāyaścittam names daily-occasional expiation",
+  "utsavaniṣkṛtiḥ names festival expiation"
  ],
- "inference": "At thirty-nine, the rite of the fifth is treated.",
+ "inference": "The verse lists daily-occasional expiation and festival expiation.",
  "uncertainties": [
-  "which fifth item is meant is not specified"
+  "compound segmentation"
  ],
- "plain_english": "At thirty-nine, the rite of the fifth is treated."
+ "plain_english": "Daily-occasional expiation and festival expiation are listed."
 }

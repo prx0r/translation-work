@@ -3,24 +3,29 @@
  "verse": 150,
  "rows": [
   {
-   "lemma": "pañcāṅgulāntarālāni",
-   "morph": "n.nom.pl.n",
-   "grounds": "compound pañca-aṅgula-antarāla in plural neuter nominative/accusative"
+   "lemma": "kāmikādi",
+   "morph": "compound=kāmika+ādi",
+   "grounds": "compound beginning with Kamika; no sandhi fusion marker"
   },
   {
-   "lemma": "tato",
+   "lemma": "śivajñānaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "neuter accusative singular form"
+  },
+  {
+   "lemma": "mūrdhā",
+   "morph": "m.nom.sg",
+   "grounds": "masculine nominative singular form"
+  },
+  {
+   "lemma": "bhagavataḥ",
+   "morph": "m.gen.sg",
+   "grounds": "masculine genitive singular form"
+  },
+  {
+   "lemma": "sadā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb of sequence"
-  },
-  {
-   "lemma": "deveśi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative feminine singular of deveśī"
-  },
-  {
-   "lemma": "jāyate",
-   "morph": "3.sg.mid-pres+jan",
-   "grounds": "middle voice present third singular of root jan"
+   "grounds": "indeclinable adverb"
   }
  ]
 }

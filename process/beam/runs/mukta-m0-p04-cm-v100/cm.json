@@ -3,29 +3,34 @@
  "verse": 100,
  "rows": [
   {
-   "lemma": "vā",
+   "lemma": "arcitaṃ",
+   "morph": "m.acc.sg.n",
+   "grounds": "legacy hint worshipped; accusative singular neuter adjective"
+  },
+  {
+   "lemma": "dhāraṇaṃ",
+   "morph": "m.acc.sg.n",
+   "grounds": "legacy hint holding; accusative singular neuter adjective or noun"
+  },
+  {
+   "lemma": "tantraṃ",
+   "morph": "m.acc.sg.n",
+   "grounds": "legacy hint tantra; accusative singular neuter noun"
+  },
+  {
+   "lemma": "vimalaṃ",
+   "morph": "m.acc.sg.n",
+   "grounds": "legacy hint vimala; accusative singular neuter adjective"
+  },
+  {
+   "lemma": "ṣoḍaśa+eva",
    "morph": "(indecl.)",
-   "grounds": "disjunctive particle connecting alternatives"
+   "grounds": "fused token retained with @-style sandhi marker; indeclinable particle indeed"
   },
   {
-   "lemma": "cyarūpaṃ",
-   "morph": "acc.sg.n",
-   "grounds": "compound expressing manifested form; accusative singular neuter"
-  },
-  {
-   "lemma": "sarvadevatātmatāṃ",
-   "morph": "acc.sg.f",
-   "grounds": "compound of all, deity, and nature; accusative singular feminine"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "conjunctive particle"
-  },
-  {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "quotative particle closing the statement"
+   "grounds": "indeclinable particle"
   }
  ]
 }
