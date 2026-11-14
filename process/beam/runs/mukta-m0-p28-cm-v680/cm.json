@@ -3,29 +3,39 @@
  "verse": 680,
  "rows": [
   {
-   "lemma": "evaṃ",
+   "lemma": "triśūle",
+   "morph": "n.loc.sg",
+   "grounds": "locative indicating location"
+  },
+  {
+   "lemma": "madhyapatre",
+   "morph": "n.loc.sg",
+   "grounds": "compound madhya+patra, locative"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "summarizes the preceding ritual acts"
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "mantratvam",
-   "morph": "n.acc.sg",
-   "grounds": "the condition of becoming or being a mantra"
+   "lemma": "tatstha",
+   "morph": "compound-member",
+   "grounds": "compound tat+stha, first member of compound"
   },
   {
-   "lemma": "āpanno",
-   "morph": "m.nom.sg past-participle (ā-√pad)",
-   "grounds": "describes the practitioner as having reached mantra-state"
+   "lemma": "devakare",
+   "morph": "m.loc.sg",
+   "grounds": "compound deva+kara, locative"
   },
   {
-   "lemma": "divyadehe",
-   "morph": "compound = divya+deha; m.loc.sg",
-   "grounds": "locates the attained state in a divine body"
-  },
-  {
-   "lemma": "yathākramāt",
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "indicates attainment through proper sequence"
+   "grounds": "inclusive particle"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
   }
  ]
 }

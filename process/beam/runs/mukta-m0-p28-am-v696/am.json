@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p28",
  "verse": 696,
- "question": "Which divine forms must be worshipped before performing the ritual expulsion?",
+ "question": "How should offerings be distributed between the principal and other fire-pits?",
  "premises": [
-  "Maheśa and Sadāśiva are named as objects of worship.",
-  "Śiva is also to be worshipped.",
-  "Ritual expulsion follows this worship."
+  "There is a principal fire-pit and other fire-pits.",
+  "Offerings are made for the parts.",
+  "The offerings should follow a sequence."
  ],
- "inference": "After worshipping Maheśa, Sadāśiva, and Śiva, the practitioner should perform the ritual expulsion.",
- "uncertainties": [],
- "plain_english": "Having worshipped Maheśa, Sadāśiva, and also Śiva, one should then perform the expulsion."
+ "inference": "In the principal and other fire-pits, they should offer for the parts in due order.",
+ "uncertainties": [
+  "The term kalā is rendered as parts; its precise technical scope is context-dependent."
+ ],
+ "plain_english": "In the principal fire-pit and in the other fire-pits, they should make offerings for the parts in due order."
 }

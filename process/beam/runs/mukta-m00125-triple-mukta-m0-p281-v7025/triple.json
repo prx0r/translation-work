@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p281",
+ "items": [
+  {
+   "verse": 7025,
+   "rows": [
+    {
+     "surface": "indra",
+     "gloss": "indra",
+     "grounds": "name of the directional guardian deity Indra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anala",
+     "gloss": "fire",
+     "grounds": "name of the fire deity Agni as directional guardian",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yamāḥ",
+     "gloss": "yama",
+     "grounds": "name of the deity Yama as directional guardian",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking enumerated deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nir-ṛti",
+     "gloss": "nirrti",
+     "grounds": "name of the deity Nirṛti as directional guardian",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rvaruṇaḥ",
+     "gloss": "varuna",
+     "grounds": "name of the deity Varuṇa; initial r reflects sandhi with preceding form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional directional guardian deities are included in this enumerated arrangement?",
+   "premises": [
+    "The preceding verses enumerate specific deities in a directional arrangement.",
+    "Indra, Anala, Yama, Nirṛti, and Varuṇa are named in sequence.",
+    "Conjunctive and continuative particles indicate an ongoing enumeration."
+   ],
+   "inference": "This verse adds Indra, Anala, Yama, Nirṛti, and Varuṇa to the previously listed deities in the arrangement.",
+   "uncertainties": [
+    "The exact directional assignments of these deities are not specified within this verse alone."
+   ],
+   "plain_english": "Indra, Anala, Yama, and indeed Nirṛti and Varuṇa are likewise included."
+  }
+ ]
+}
