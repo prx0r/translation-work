@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p18",
  "verse": 428,
- "question": "Which guardians are assigned to the north gate, fire, and southwest?",
+ "question": "What garment adorns the goddess in this visualization?",
  "premises": [
-  "Kubera belongs to the north gate",
-  "the fire god belongs to fire",
-  "Nirriti belongs to the southwest"
+  "Gold thread fashions the cloth",
+  "Red silk cloth is present"
  ],
- "inference": "Kubera, the fire god, and Nirriti receive their respective directional stations.",
+ "inference": "The goddess wears a red silk garment made with gold thread.",
  "uncertainties": [
-  "exact gate for Nirriti is implied rather than stated"
+  "Exact compound segmentation not resolved"
  ],
- "plain_english": "Worship Kubera at the north gate, the fire god at fire, and Nirriti in the southwest."
+ "plain_english": "She is endowed with a red silk cloth made with gold thread."
 }

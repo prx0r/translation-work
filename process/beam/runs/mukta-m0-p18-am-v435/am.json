@@ -1,16 +1,14 @@
 {
  "song": "mukta-m0-p18",
  "verse": 435,
- "question": "Which goddesses are worshipped toward the north?",
+ "question": "What fills the goddess's mouth?",
  "premises": [
-  "Sarasvati is worshipped",
-  "Mahalakshmi is worshipped",
-  "Maya and Durga are worshipped",
-  "the direction is north"
+  "Camphor and similar substances are combined",
+  "Betel fills the mouth"
  ],
- "inference": "Sarasvati, Mahalakshmi, Maya, and Durga are worshipped toward the north.",
+ "inference": "Her mouth is filled with betel combined with camphor and similar substances.",
  "uncertainties": [
-  "individual directional assignments among them are not stated"
+  "Exact compound segmentation not resolved"
  ],
- "plain_english": "Worship Sarasvati, Mahalakshmi, Maya, and Durga toward the north."
+ "plain_english": "Her mouth is filled with betel combined with camphor and similar substances."
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the self",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "ātma+sthānam",
+     "gloss": "own-place",
+     "grounds": "compound of self and place",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "gerund of bringing",
+     "morph": "gerund"
+    },
+    {
+     "surface": "cid+rūpāṃ",
+     "gloss": "consciousness-formed",
+     "grounds": "compound adjective modifying that",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "paricintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative of contemplating",
+     "morph": "verb.3sg.opt.act"
+    }
+   ],
+   "question": "How should the yogin contemplate the consciousness-formed self after bringing it to its own place?",
+   "premises": [
+    "The self is brought to own place.",
+    "It is consciousness-formed.",
+    "One should contemplate it."
+   ],
+   "inference": "Contemplation follows relocation of consciousness-formed self.",
+   "uncertainties": [
+    "Token surfaces retain plus signs as given."
+   ],
+   "plain_english": "Having brought that consciousness-formed self to its own place, one should contemplate it."
+  }
+ ]
+}

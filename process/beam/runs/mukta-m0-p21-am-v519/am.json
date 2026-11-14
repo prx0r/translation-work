@@ -1,14 +1,14 @@
 {
  "song": "mukta-m0-p21",
  "verse": 519,
- "question": "What entire account was told by that brahmin?",
+ "question": "What crystal is described by its frost-like rays?",
  "premises": [
-  "The entire account was told.",
-  "It was told by that brahmin."
+  "The compound describes frost crystal",
+  "Its rays are blue black and reddish"
  ],
- "inference": "The verse reports a complete narration.",
+ "inference": "The crystal described has frost-like rays that are blue, black, and reddish.",
  "uncertainties": [
-  "The account's contents are not repeated."
+  "The full syntactic role in the larger sentence is not visible"
  ],
- "plain_english": "The entire account was told by that brahmin, but."
+ "plain_english": "The frost-crystal has blue, black, and reddish rays."
 }

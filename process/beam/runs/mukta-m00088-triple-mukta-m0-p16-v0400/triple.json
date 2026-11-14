@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "sarvasṛngāravesāḍhyaṃ",
+     "gloss": "all-ornament-dress-rich",
+     "grounds": "compound adjective describing complete ornamented dress; fused sandhi form retained",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitām",
+     "gloss": "all-ornament-adorned",
+     "grounds": "compound participle/adjective describing one adorned with every ornament; feminine accusative singular",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess adorned in this description?",
+   "premises": [
+    "goddess wears all ornaments",
+    "goddess wears all ornament-dress"
+   ],
+   "inference": "she is fully adorned",
+   "uncertainties": [
+    "exact syntactic head of first adjective unresolved"
+   ],
+   "plain_english": "She is rich in all ornamented dress and adorned with all ornaments."
+  }
+ ]
+}

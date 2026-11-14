@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p17",
  "verse": 406,
- "question": "Which deities of the yogini tradition and all-siddhi group are included?",
+ "question": "What floral garland surrounds the goddess in this passage?",
  "premises": [
-  "yogini tradition is named",
-  "all-siddhi and related deities are named",
-  "the verse is a list item"
+  "The goddess is surrounded by jasmine garland."
  ],
- "inference": "The rite includes yogini-tradition deities and all-siddhi-related deities.",
+ "inference": "The goddess is encircled by jasmine and malati garlands.",
  "uncertainties": [
-  "whether ca connects to previous verse"
+  "Exact compound segmentation not resolved."
  ],
- "plain_english": "The yogini tradition and all-siddhi-related deities are included."
+ "plain_english": "She is surrounded by jasmine and malati garlands."
 }

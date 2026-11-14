@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p17",
  "verse": 421,
- "question": "Where should one worship the supreme goddess?",
+ "question": "What bee-row covered sugarcane bow does the goddess hold in this passage?",
  "premises": [
-  "river bank is named",
-  "bilva root is named",
-  "supreme goddess is worshipped"
+  "The goddess holds a sugarcane bow covered by bee rows."
  ],
- "inference": "One should worship the supreme goddess at the river bank or bilva root.",
+ "inference": "The goddess holds a sugarcane bow covered by bee rows.",
  "uncertainties": [
-  "whether locations are alternatives or both required"
+  "Exact compound segmentation not resolved."
  ],
- "plain_english": "One should worship the supreme goddess at the river bank or bilva root."
+ "plain_english": "She holds a sugarcane bow covered by bee rows."
 }

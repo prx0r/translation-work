@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p20",
  "verse": 494,
- "question": "What textual unit is formally concluded at this point in the work?",
+ "question": "Which offerings are listed in this sequence?",
  "premises": [
-  "The term denotes a chapter division",
-  "The predicate states completion",
-  "Together they mark closure"
+  "madhuparka is honey mixture",
+  "ācamana is water",
+  "snāna vasana ābharaṇāni ca are offerings"
  ],
- "inference": "This verse marks the completion of the chapter",
- "uncertainties": [],
- "plain_english": "The chapter is completed."
+ "inference": "The verse lists ritual offerings in sequence.",
+ "uncertainties": [
+  "exact use not stated"
+ ],
+ "plain_english": "The offerings include honey mixture, water, bath, garment, and ornaments."
 }
