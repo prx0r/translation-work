@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2045,
- "question": "What renown and association are attributed to this tīrtha of supreme Brahmā?",
+ "question": "Which objects are placed for the welfare of brahmins in the ritual?",
  "premises": [
-  "The site is a tīrtha.",
-  "It is famous in the three worlds.",
-  "It is associated with supreme Brahmā."
+  "Certain objects benefit brahmins",
+  "The sacred thread is a ritual object",
+  "The water pot is a ritual object"
  ],
- "inference": "The verse identifies a tīrtha renowned in the three worlds as belonging to supreme Brahmā.",
- "uncertainties": [],
- "plain_english": "It is a tīrtha famous in the three worlds, belonging to the supreme Brahmā."
+ "inference": "For the welfare of brahmins, the sacred thread and water pot should be placed.",
+ "uncertainties": [
+  "The governing verb is implied from context."
+ ],
+ "plain_english": "For the welfare of brahmins, the sacred thread and the water pot."
 }

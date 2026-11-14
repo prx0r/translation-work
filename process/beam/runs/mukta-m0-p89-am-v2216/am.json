@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2216,
- "question": "Which ordinal positions are singled out in this rule?",
+ "question": "How many brahmins may be settled when the arrangement is on a small scale?",
  "premises": [
-  "the fifth is singled out",
-  "the fifteenth is singled out",
-  "the twentieth is singled out",
-  "the last is singled out"
+  "The arrangement may be small",
+  "The number of recipients can vary",
+  "One, two, or three are permitted"
  ],
- "inference": "The rule singles out the fifth, fifteenth, twentieth, and last positions.",
- "uncertainties": [
-  "what property applies to them is supplied by context"
- ],
- "plain_english": "The fifth, fifteenth, twentieth, and last are singled out."
+ "inference": "In a small arrangement, one may settle one, two, or three brahmins.",
+ "uncertainties": [],
+ "plain_english": "In a small case, one should settle one, two, or three brahmins."
 }

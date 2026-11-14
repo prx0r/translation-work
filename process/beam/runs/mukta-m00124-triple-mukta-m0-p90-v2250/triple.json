@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p90",
+ "items": [
+  {
+   "verse": 2250,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative expressing prescribed ritual action; root √dā",
+     "morph": "3.sg.act-opt~√dā"
+    },
+    {
+     "surface": "tasyāśca",
+     "gloss": "to-her-and",
+     "grounds": "refers to the previously worshipped woman; fused with enclitic ca",
+     "morph": "f.gen.sg+indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the prescribed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balipātraṃ",
+     "gloss": "offering-vessel",
+     "grounds": "object to be given; compound of bali and pātra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gurustadā",
+     "gloss": "teacher-then",
+     "grounds": "agent performing the giving at that time; fused guruḥ and tadā",
+     "morph": "m.nom.sg+indecl."
+    }
+   ],
+   "question": "What ritual object must the teacher give to the worshipped woman after the offerings?",
+   "premises": [
+    "The woman has been fully worshipped with food and other comforts.",
+    "The teacher is the officiant performing the subsequent ritual action.",
+    "An offering vessel is designated to be given at that time."
+   ],
+   "inference": "Therefore the teacher should then give the offering vessel to her.",
+   "uncertainties": [],
+   "plain_english": "Then the teacher should indeed give the offering vessel to her."
+  }
+ ]
+}

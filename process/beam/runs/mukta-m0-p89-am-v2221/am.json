@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2221,
- "question": "How are the other positions counted beyond thirty-three?",
+ "question": "By what procedure should the performer of that act be settled?",
  "premises": [
-  "thirty-three is the base",
-  "three more are added",
-  "thirteen is joined",
-  "others are indicated"
+  "A procedure has already been described",
+  "The performer must also be settled",
+  "The same procedure applies"
  ],
- "inference": "The other positions are counted as thirty-three plus three, with thirteen joined.",
- "uncertainties": [
-  "the exact arithmetic convention is supplied by context"
- ],
- "plain_english": "The others are thirty-three plus three, joined with thirteen."
+ "inference": "The performer should be settled by this very same procedure.",
+ "uncertainties": [],
+ "plain_english": "By this very same procedure, one should settle the performer of that act."
 }

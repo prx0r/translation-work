@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2206,
- "question": "Which named entities appear with the conjunction in this part of the list?",
+ "question": "What qualifications should the brahmins selected for settlement possess?",
  "premises": [
-  "kamesvari and nandini are named",
-  "svarnarekha and manorama are named",
-  "the conjunction links the pair"
+  "Knowledge of Veda and Vedāṅga is required",
+  "They must be learned brahmins",
+  "Pleasant appearance is also valued"
  ],
- "inference": "This part of the list names Kamesvari, Nandini, Svarnarekha, and Manoramā.",
- "uncertainties": [
-  "exact ritual role of each name is not stated"
- ],
- "plain_english": "The names here are Kamesvari, Nandini, Svarnarekha, and Manoramā."
+ "inference": "The chosen brahmins should be learned in Veda and Vedāṅga, śrotriya, and pleasant in appearance.",
+ "uncertainties": [],
+ "plain_english": "They should be learned brahmins, knowledgeable in the Vedas and Vedāṅgas, and pleasant to look upon."
 }

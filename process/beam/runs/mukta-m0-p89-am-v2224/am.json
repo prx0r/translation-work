@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2224,
- "question": "Which named entities and count appear in this final group?",
+ "question": "Whether the sprout-offering rite must precede the installation in this case?",
  "premises": [
-  "mayura mangala and bhima are named",
-  "dvipivaktra is named",
-  "six faced is stated"
+  "Installation is prescribed",
+  "The sprout-offering may precede it",
+  "The sprout-offering may be omitted"
  ],
- "inference": "The final group names Mayura, Mangala, Bhima, and Dvipivaktra, with six faced.",
- "uncertainties": [
-  "exact ritual role of each name is not stated"
- ],
- "plain_english": "The final group names Mayura, Mangala, Bhima, and Dvipivaktra, six-faced."
+ "inference": "One may perform the installation either preceded by the sprout-offering or without it.",
+ "uncertainties": [],
+ "plain_english": "One may carry out the installation either with the sprout-offering beforehand or without it."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2189,
- "question": "What size limits must be observed when making the ritual object?",
+ "question": "Which calendrical cycles should be used to structure the sequence of oblations?",
  "premises": [
-  "Ten fingers and eight fingers are acceptable measures.",
-  "Anything less than this is deficient.",
-  "One should not make it less."
+  "Oblations can be correlated with time cycles.",
+  "Weekdays beginning with the sun form one cycle.",
+  "Lunar mansions beginning with the horse form another cycle."
  ],
- "inference": "The object should not be made smaller than eight to ten fingers.",
- "uncertainties": [],
- "plain_english": "Likewise ten fingers and eight; one should not make it less than this."
+ "inference": "Oblations should be performed in accordance with weekdays beginning with the sun and lunar mansions beginning with Aśvinī.",
+ "uncertainties": [
+  "turagādibhiḥ is taken as Aśvinī and following nakṣatras"
+ ],
+ "plain_english": "One should do so with the weekdays beginning with Sunday and with the lunar mansions beginning with Aśvinī."
 }

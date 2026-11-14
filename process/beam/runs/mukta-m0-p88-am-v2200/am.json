@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2200,
- "question": "Which remainder of the vidyās is accomplished as before?",
+ "question": "What prescribed procedure governs the determination of a shrine?",
  "premises": [
-  "remainder of vidyās remains",
-  "accomplishment follows prior pattern",
-  "second remainder closes list"
+  "A method is stated for the root and child shrines.",
+  "This stated method functions as the governing procedure.",
+  "The determination of a shrine follows that procedure."
  ],
- "inference": "The remaining vidyās are accomplished as before.",
- "uncertainties": [
-  "exact referent of each remainder is unclear"
- ],
- "plain_english": "The remainder is accomplished as before; the remainder."
+ "inference": "Therefore, the determination of a shrine is governed by the method stated for the root and child shrines.",
+ "uncertainties": [],
+ "plain_english": "The determination of a shrine is to be made by the method stated for the root and child shrines."
 }
