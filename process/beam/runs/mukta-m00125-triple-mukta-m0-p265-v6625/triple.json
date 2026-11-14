@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p265",
+ "items": [
+  {
+   "verse": 6625,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "refers to all those previously mentioned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "uditaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what has been stated",
+     "morph": "n.nom.sg.ppp.ud-√vad"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "anaphoric reference to the groups discussed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mukhya",
+     "gloss": "chief",
+     "grounds": "first member of compound indicating the highest grade",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "up-to-end",
+     "grounds": "second member of compound with mukhya, denoting extent up to the chief",
+     "morph": "n.acc.sg.compound-member"
+    },
+    {
+     "surface": "deśika",
+     "gloss": "teacher",
+     "grounds": "refers to the preceptor or ācārya",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ājñayā",
+     "gloss": "by-command",
+     "grounds": "instrumental indicating authorization by the teacher",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "By whose authority is the full range of distinctions declared for all?",
+   "premises": [
+    "Distinctions among groups were previously stated in order.",
+    "These distinctions apply to all of those groups.",
+    "The declaration extends up to the chief grade by the teacher's command."
+   ],
+   "inference": "Therefore the full graded range of distinctions is authoritatively declared for all by the teacher's command.",
+   "uncertainties": [
+    "The exact scope implied by mukhya-antaṃ in this context is inferred from the preceding graded distinctions."
+   ],
+   "plain_english": "For all of them, this has been declared up to the chief grade, by the command of the teacher."
+  }
+ ]
+}
