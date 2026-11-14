@@ -3,29 +3,34 @@
  "verse": 298,
  "rows": [
   {
-   "lemma": "yoga+mārge",
-   "morph": "m.loc.sg (compound yoga+mārga)",
-   "grounds": "compound naming the path of yoga"
+   "lemma": "vāñchitaṃ",
+   "morph": "n.acc.sg (past-part) √vāñch",
+   "grounds": "object of wish"
   },
   {
-   "lemma": "bhakti+mārge",
-   "morph": "m.loc.sg (compound bhakti+mārga)",
-   "grounds": "compound naming the path of devotion"
+   "lemma": "manasas",
+   "morph": "n.gen.sg",
+   "grounds": "source of desire"
   },
   {
-   "lemma": "mukti+mārge",
-   "morph": "m.loc.sg (compound mukti+mārga)",
-   "grounds": "compound naming the path of liberation"
+   "lemma": "tasmai",
+   "morph": "m.dat.sg",
+   "grounds": "recipient"
   },
   {
-   "lemma": "ca",
+   "lemma": "mantrajñāya",
+   "morph": "compound m.dat.sg",
+   "grounds": "qualified recipient"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "negation"
   },
   {
-   "lemma": "sundari",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address to the goddess"
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "certainty asserted"
   }
  ]
 }

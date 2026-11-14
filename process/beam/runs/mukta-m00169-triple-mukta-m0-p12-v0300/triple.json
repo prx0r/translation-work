@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "japto",
+     "gloss": "muttered",
+     "grounds": "past passive participle of √jap, describing the mantra as recited",
+     "morph": "ppp.m.nom.sg √jap"
+    },
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "certainly",
+     "grounds": "indeclinable expressing necessity or certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśyakaro",
+     "gloss": "bringing-under-control",
+     "grounds": "compound describing the mantra's effect of subjugation",
+     "morph": "vaśya+kara.m.nom.sg"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "the ritual formula that is the subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable indicating in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of doubt is asserted",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is the recited mantra unfailingly effective in bringing others under control?",
+   "premises": [
+    "This mantra is recited.",
+    "The recited mantra certainly brings others under control.",
+    "No doubt exists in this matter."
+   ],
+   "inference": "Reciting this mantra necessarily achieves subjugation without uncertainty.",
+   "uncertainties": [],
+   "plain_english": "When muttered, this mantra certainly brings others under control; there is no doubt about it."
+  }
+ ]
+}

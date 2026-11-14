@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 297,
- "question": "What essential nature is attributed to these mantra syllables?",
+ "question": "What action does the goddess take after arriving at midnight?",
  "premises": [
-  "These syllables are the subject of description.",
-  "They are described as consisting of great yoga.",
-  "This nature is constant."
+  "Midnight has passed",
+  "The goddess comes",
+  "The goddess gives something"
  ],
- "inference": "These syllables are always composed of great yoga.",
- "uncertainties": [],
- "plain_english": "O fair-hipped one, these syllables are always composed of great yoga."
+ "inference": "After midnight has passed, the goddess comes and gives a boon.",
+ "uncertainties": [
+  "The object given is specified in the next verse"
+ ],
+ "plain_english": "When midnight has passed, the goddess comes and gives."
 }

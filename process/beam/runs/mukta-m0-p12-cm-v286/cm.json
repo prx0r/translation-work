@@ -3,34 +3,39 @@
  "verse": 286,
  "rows": [
   {
-   "lemma": "tato",
+   "lemma": "māsam",
+   "morph": "m.acc.sg",
+   "grounds": "duration"
+  },
+  {
+   "lemma": "ekaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "specifies duration"
+  },
+  {
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating consequence"
+   "grounds": "sequence marker"
   },
   {
-   "lemma": "jīvatvam",
-   "morph": "n.acc.sg",
-   "grounds": "the state of being enlivened"
+   "lemma": "pūjāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "ritual action"
   },
   {
-   "lemma": "āpnoti",
-   "morph": "3.sg.act-pres (√āp)",
-   "grounds": "states attainment"
+   "lemma": "rātrau",
+   "morph": "f.loc.sg",
+   "grounds": "time of worship"
   },
   {
-   "lemma": "mantraḥ",
-   "morph": "m.nom.sg",
-   "grounds": "the mantra as subject"
+   "lemma": "kṛtvā",
+   "morph": "(gerund) √kṛ",
+   "grounds": "prior action"
   },
   {
-   "lemma": "sidhyati",
-   "morph": "3.sg.act-pres (√sidh)",
-   "grounds": "states successful accomplishment"
-  },
-  {
-   "lemma": "tat+kṣaṇāt",
-   "morph": "m.abl.sg (compound tad+kṣaṇa)",
-   "grounds": "compound indicating immediate timing"
+   "lemma": "punarjapet",
+   "morph": "(indecl.) + 3.sg.opt-act √jap",
+   "grounds": "fused form; renewed recitation"
   }
  ]
 }
