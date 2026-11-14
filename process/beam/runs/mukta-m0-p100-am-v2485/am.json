@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2485,
- "question": "What spiritual reward is gained by worshipping at that destination?",
+ "question": "What proportion applies to circle length and breadth?",
  "premises": [
-  "One goes to that place",
-  "One performs worship there",
-  "A specific world is attained as a result"
+  "circle is named",
+  "length and breadth are named",
+  "one-fourth is named"
  ],
- "inference": "Going there and worshipping leads to attaining the world of Brahmā.",
- "uncertainties": [],
- "plain_english": "Having gone there and worshipped, one obtains the world of Brahmā."
+ "inference": "The verse gives a one-fourth proportion for circle dimensions.",
+ "uncertainties": [
+  "exact geometric construction"
+ ],
+ "plain_english": "For the circle, length and breadth are set by one-fourth."
 }

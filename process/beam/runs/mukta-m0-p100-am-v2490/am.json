@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2490,
- "question": "Which sacred river is identified with the stream flowing from Pāṇḍukūṭa?",
+ "question": "How is Lalita worshipped with the seven-syllabled mantra?",
  "premises": [
-  "A stream flows from Pāṇḍukūṭa",
-  "That stream is identified with a named river",
-  "The river is named Narmadā"
+  "seven-syllabled is named",
+  "alone is named",
+  "Lalita is named",
+  "worship is named"
  ],
- "inference": "The stream from Pāṇḍukūṭa is identified as the river Narmadā.",
- "uncertainties": [],
- "plain_english": "The stream that flows from Pāṇḍukūṭa is the river Narmadā."
+ "inference": "The verse instructs worshipping Lalita alone with the seven-syllabled mantra.",
+ "uncertainties": [
+  "exact mantra form"
+ ],
+ "plain_english": "Worship Lalita alone with the seven-syllabled mantra."
 }

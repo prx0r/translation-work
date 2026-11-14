@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2494,
- "question": "How certain is the identification of Mataṅga's stream with the Narmadā?",
+ "question": "How many syllables belong to the second and fourth?",
  "premises": [
-  "A stream is associated with Mataṅga",
-  "That stream is proclaimed to be Narmadā",
-  "The text explicitly denies any doubt"
+  "second is named",
+  "fourth is named",
+  "fourteen syllables is named"
  ],
- "inference": "Mataṅga's stream is proclaimed to be Narmadā without doubt.",
- "uncertainties": [],
- "plain_english": "And the stream of Mataṅga is proclaimed to be the Narmadā; there is no doubt."
+ "inference": "The verse assigns fourteen syllables to the second and fourth.",
+ "uncertainties": [
+  "exact vidya mapping"
+ ],
+ "plain_english": "The second and fourth have fourteen syllables."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2499,
- "question": "Which sacred river is traditionally identified with the stream from Yama's mountain?",
+ "question": "Where is the declared practice of these located?",
  "premises": [
-  "A stream originates from Yama's mountain",
-  "That stream is traditionally identified with a river",
-  "The river is remembered as Godāvarī"
+  "of-these is named",
+  "worship-japa-etc is named",
+  "yantras are named",
+  "declared is stated"
  ],
- "inference": "The stream from Yama's mountain is remembered as the Godāvarī.",
- "uncertainties": [],
- "plain_english": "And the stream of Yama's mountain is remembered as the Godāvarī."
+ "inference": "The verse says the declared practice of these is in worship, japa, and yantras.",
+ "uncertainties": [
+  "scope of ādi"
+ ],
+ "plain_english": "The declared practice of these is in worship, japa, and yantras."
 }

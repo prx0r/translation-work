@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2483,
- "question": "What actions should be performed at Gautama's hermitage?",
+ "question": "What is placed on the seat and cakra?",
  "premises": [
-  "One should go to Gautama's hermitage",
-  "Worship should be performed there",
-  "The bull-bannered one is the object of worship"
+  "worshipped form is named",
+  "seat is named",
+  "cakra is named"
  ],
- "inference": "After going to Gautama's hermitage, one should worship the bull-bannered one.",
- "uncertainties": [],
- "plain_english": "Having gone to Gautama's hermitage, one should worship the bull-bannered god."
+ "inference": "The verse describes placing the worshipped form on seat and cakra.",
+ "uncertainties": [
+  "tat referent"
+ ],
+ "plain_english": "Having placed the worshipped form on the seat, place that cakra."
 }

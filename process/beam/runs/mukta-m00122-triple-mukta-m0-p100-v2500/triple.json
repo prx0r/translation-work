@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2500,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular of tad",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tantroktam",
+     "gloss": "tantra-declared",
+     "grounds": "compound of tantra and ukta, neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "akhilaṃ",
+     "gloss": "all",
+     "grounds": "neuter accusative singular of akhila",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "causative optative of sādh",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vajrarūpiṇā",
+     "gloss": "vajra-formed",
+     "grounds": "compound of vajra and rūpin, instrumental singular masculine",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What does the verse claim one accomplishes by that vajra-formed means?",
+   "premises": [
+    "tena indicates instrumental means",
+    "tantroktam denotes tantra-declared objects",
+    "akhilam means all",
+    "sadhayet means should accomplish",
+    "vajrarupina means vajra-formed"
+   ],
+   "inference": "By that vajra-formed means one should accomplish all tantra-declared things.",
+   "uncertainties": [
+    "The exact referent of tena is not specified in this verse."
+   ],
+   "plain_english": "By that, one should accomplish all that is declared in the tantra, by means of the vajra-formed power."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2477,
- "question": "Which sacred place within that god's land portion is being specified?",
+ "question": "What secures attainment of each stated work in those contexts?",
  "premises": [
-  "The land portion belongs to that god",
-  "The place is described as sacred",
-  "The place is named Kālahastaka"
+  "stated works are named",
+  "attainment is sought",
+  "each context matters"
  ],
- "inference": "The sacred place in that god's land portion is Kālahastaka.",
- "uncertainties": [],
- "plain_english": "In that god's sacred land portion is the holy place called Kālahastaka."
+ "inference": "The verse ties each stated work to its attainment.",
+ "uncertainties": [
+  "compound internal sense"
+ ],
+ "plain_english": "In those stated works, attainment of each is secured."
 }

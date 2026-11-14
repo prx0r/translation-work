@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2478,
- "question": "How should Govinda be recognized and worshipped at this sacred site?",
+ "question": "Which described forms are all-auspicious there in tithis?",
  "premises": [
-  "Govinda is to be known there",
-  "Worship is prescribed for him",
-  "The worship should occur on Hari's day"
+  "tithis are named",
+  "described forms appear",
+  "all-auspicious quality is asserted"
  ],
- "inference": "One should recognize Govinda there and worship him on Hari's day.",
- "uncertainties": [],
- "plain_english": "One should know him as Govinda and worship him on the day sacred to Hari."
+ "inference": "The verse identifies described forms as all-auspicious in tithis.",
+ "uncertainties": [
+  "referent of tāṃ"
+ ],
+ "plain_english": "There in tithis, the described forms are all-auspicious."
 }

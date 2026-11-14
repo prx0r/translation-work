@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2497,
- "question": "Which sacred name is given to the stream flowing from Nīlakuṇḍa?",
+ "question": "Which vidyas are declared as twelve?",
  "premises": [
-  "A stream flows from Nīlakuṇḍa",
-  "That stream is identified by a name",
-  "The name given is Subhadrā"
+  "eleventh is named",
+  "eighth is named",
+  "sixteenth is named",
+  "twelve-declared is stated"
  ],
- "inference": "The stream from Nīlakuṇḍa is celebrated as Subhadrā.",
- "uncertainties": [],
- "plain_english": "The stream of Nīlakuṇḍa is celebrated as Subhadrā."
+ "inference": "The verse declares twelve vidyas for eleventh, eighth, and sixteenth.",
+ "uncertainties": [
+  "exact grouping"
+ ],
+ "plain_english": "The eleventh, eighth, and sixteenth have twelve declared vidyas."
 }
