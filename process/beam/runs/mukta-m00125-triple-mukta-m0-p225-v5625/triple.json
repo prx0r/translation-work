@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p225",
+ "items": [
+  {
+   "verse": 5625,
+   "rows": [
+    {
+     "surface": "śayanaṃ",
+     "gloss": "bed",
+     "grounds": "object to be arranged; resting place",
+     "morph": "n.acc.sg."
+    },
+    {
+     "surface": "kalpayettasmin",
+     "gloss": "should-arrange-in-that",
+     "grounds": "fused form: kalpayet (optative injunction) + tasmin (locative, referring to the prepared place/context)",
+     "morph": "opt.3sg.act.√kḷp+pron.loc.sg.m./n."
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution to be arranged",
+     "morph": "n.acc.sg."
+    },
+    {
+     "surface": "kautukaṃ",
+     "gloss": "auspicious-rite",
+     "grounds": "protective or festive ritual observance",
+     "morph": "n.acc.sg."
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indicates each item is arranged distinctly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Must the bed, bathing, and auspicious rite be arranged separately in that designated place?",
+   "premises": [
+    "A bed is to be arranged in that place.",
+    "A bathing is to be arranged in that place.",
+    "An auspicious rite is to be arranged in that place.",
+    "Each of these arrangements is to be made separately."
+   ],
+   "inference": "Therefore, in that designated place one should arrange the bed, the bathing, and the auspicious rite as distinct preparations.",
+   "uncertainties": [
+    "The precise referent of tasmin within kalpayettasmin depends on the immediately preceding ritual context.",
+    "The specific nature of kautukaṃ (e.g., protective thread or festive rite) is not fully specified in this verse alone."
+   ],
+   "plain_english": "In that place, one should arrange separately a bed, a bathing, and an auspicious rite."
+  }
+ ]
+}
