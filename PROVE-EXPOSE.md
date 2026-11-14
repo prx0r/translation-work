@@ -214,3 +214,27 @@ Session log — 2026-11-14, second pass (trace fan-out + ipvv)
   published set is self-consistent as of its green verify. Next publish will
   refresh whatever drifted since — that is the steady-state protocol, no
   pause needed while drift-per-window stays this small.
+
+## 11. Session log — 2026-11-14, fourth pass (prove everything: ALIGN wave)
+
+- **New tool `tools/audit_align.py`.** Replays proof_record's exact B3
+  comparison per BLOCKED verse, then classifies every non-equal opcode:
+  sandhi-joints (aa>ā, aḥ>o/o', i>y, u>v, t/d, m/ṃ/ñ, visarga→ś before
+  palatals with same-following-char, ā+iti→eti with ti-follow, ca+eva
+  convention with window check, + compound-marker strip) vs needs-eyes.
+  Conservative by construction: single-char vowel swaps stay human (iva/eva
+  fork risk), fragments >4 chars never auto-pass, insertions of content
+  never auto-pass.
+- **Result: 211 honest sandhi dispositions recorded** (each names its joint
+  classes), 25 songs flipped BLOCKED→PASS (615 PASS / 167 BLOCKED / 4
+  in-flight of 786). The classifier *refused* real defects on sight
+  (e.g. kul-p39's dropped yatra/tatra repetitions, sva-p37's
+  dot-leader placeholders, T1 omissions) — those form the repair backlog.
+- **Backlog, organized:** ~400 verses needing T1 repair (omitted/duplicated
+  words first), kul-p39 (add repetitions), 4 songs blocked on workcfg
+  registration (loop-seeded sivasutra span-p09, spanda p04b/p05/p06 —
+  left to tw-assemble, do not hand-register), DATA_OBJECTS/C1_L2_SHARED
+  schema cases, netra/svacchanda re-intake class.
+- Publish convergence held: one refresh (112 proof-flip traces) + green
+  publish, no pause. Next drift already visible (m00125 p271) — normal;
+  next cycle picks it up.
