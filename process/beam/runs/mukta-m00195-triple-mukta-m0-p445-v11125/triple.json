@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p445",
+ "items": [
+  {
+   "verse": 11125,
+   "rows": [
+    {
+     "surface": "indrādyaiḥ",
+     "gloss": "with-indra-and-others",
+     "grounds": "instrumental plural of compound indrādi denoting Indra and other deities",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+astraiḥ",
+     "gloss": "with-their-weapons",
+     "grounds": "instrumental plural of compound tat+astra referring to weapons of those deities",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta+āvaraṇa+saṃyutam",
+     "gloss": "endowed-with-seven-enclosures",
+     "grounds": "compound adjective describing something furnished with seven avaraṇas",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What divine attendants, weapons, and enclosures characterize the supreme object being described?",
+   "premises": [
+    "The described object is accompanied by Indra and other deities.",
+    "It is accompanied by the weapons of those deities.",
+    "It is endowed with seven enclosures."
+   ],
+   "inference": "The supreme object is characterized by the presence of Indra and other deities, their weapons, and seven enclosures.",
+   "uncertainties": [
+    "The exact referent of the described object depends on the preceding verses."
+   ],
+   "plain_english": "It is accompanied by Indra and other deities, and by their weapons, and is endowed with seven enclosures."
+  }
+ ]
+}
