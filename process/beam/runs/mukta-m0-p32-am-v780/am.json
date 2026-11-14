@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p32",
  "verse": 780,
- "question": "On which sides should Mahākāla and Yamunā be worshipped?",
+ "question": "Which additional aromatic ingredients continue the prescribed mixture?",
  "premises": [
-  "Mahākāla is associated with the right side.",
-  "Yamunā is associated with the left side.",
-  "Both should be worshipped."
+  "Nutmeg is listed",
+  "Spikenard is listed",
+  "Mura is listed likewise"
  ],
- "inference": "Therefore one should worship Mahākāla on the right and Yamunā on the left.",
- "uncertainties": [],
- "plain_english": "One should worship Mahākāla on the right side and Yamunā on the left side."
+ "inference": "Nutmeg, spikenard, and mura are added to the mixture.",
+ "uncertainties": [
+  "The exact botanical identity of murā is uncertain."
+ ],
+ "plain_english": "Nutmeg, spikenard, and likewise mura."
 }

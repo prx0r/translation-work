@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p32",
  "verse": 789,
- "question": "Where should garments and other ritual acts be arranged?",
+ "question": "How is the specified fragrance set identified in the Vaishnava classification?",
  "premises": [
-  "Garments and other items must be arranged.",
-  "Other ritual acts must also be arranged.",
-  "The lion throne is the designated location."
+  "Spikenard is included in the set",
+  "The set is labeled Vaishnava",
+  "This designation is declared"
  ],
- "inference": "Therefore garments and other ritual acts should be arranged on the lion throne.",
- "uncertainties": [],
- "plain_english": "One should arrange garments and the other ritual acts on the lion throne."
+ "inference": "That set including spikenard is declared to be Vaishnava.",
+ "uncertainties": [
+  "The full composition of 'that' set depends on adjacent verses."
+ ],
+ "plain_english": "That, including spikenard, is declared to be Vaishnava."
 }
