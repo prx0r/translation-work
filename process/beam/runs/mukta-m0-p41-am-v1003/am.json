@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1003,
- "question": "What results follow from reciting the described form of Gāyatrī?",
+ "question": "How many purificatory rites are declared for this stage of the ritual?",
  "premises": [
-  "All actions are accomplished.",
-  "All fears are destroyed."
+  "Purificatory rites are being enumerated.",
+  "Their number is equated with dhṛti.",
+  "Dhṛti conventionally signifies the number eighteen."
  ],
- "inference": "Recitation leads to success in all actions and removal of fears.",
- "uncertainties": [],
- "plain_english": "All actions are accomplished and all fears are destroyed."
+ "inference": "The declared purifications are eighteen in number.",
+ "uncertainties": [
+  "dhṛti is taken as the numerical symbol for eighteen by convention"
+ ],
+ "plain_english": "The purifications are declared to be equal in number to dhṛti, that is, eighteen."
 }

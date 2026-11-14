@@ -8,7 +8,7 @@
 [in-writing](lipau) [to-cause-to-fall](pātayituṃ) [by-power](śaktyā) [not](na) [properly+speaks](samyak+vadate) [even-a-little](manāk)
 
 ## mukta-m0-p17-v403
-[from-direct+experience](pratyakṣa+anubhavāt) [of-this](asyā) [difference+devouring](bheda+grāsaḥ) [indeed](hi) [with-effort](yatnataḥ)
+[from-direct+experience](pratyakṣa+anubhavāt) [of-this](asyāḥ) [difference+devouring](bheda+grāsaḥ) [indeed](hi) [by-effort](yatnataḥ)
 
 ## mukta-m0-p17-v404
 [from-unstruck+sound+indication](apaṭa+āṭaṅka+saṅketāt) [from-body+state](kāya+saṃsthānataḥ) [situated](sthitā)
@@ -17,10 +17,10 @@
 [from-skeleton+experience+nature](karaṅka+anubhava+ātmatvāt) [first](prathamaṃ) [with-rattling](sākaraṃkiṇī)
 
 ## mukta-m0-p17-v406
-[from-impetuosity](saṃrabhāt) [angry+form](krodhinī+rūpam) [she](asau) [having-assumed](āśritya) [abides](vartate)
+[from-impetuosity](saṃrabhāt) [angry-one+form](krodhinī+rūpam) [she](asau) [having-assumed](āśritya) [abides](vartate)
 
 ## mukta-m0-p17-v407
-[as+as](yathā+yathaṃ) [from-sustaining](sambharaṇād) [as-Bhairavī](bhairavī+iti) [is-proclaimed](prakīrtitā)
+[as+as](yathā+yathaṃ) [from-nourishing](sambharaṇāt) [as-Bhairavī](bhairavī+iti) [is-proclaimed](prakīrtitā)
 
 ## mukta-m0-p17-v408
 [from-great+dissolution+nature](mahā+vilaya+rūpatvāt) [as-Lelihānā](lelihānā+iti) [is-called](kathyate)
@@ -35,13 +35,13 @@
 [of-expressor+nature+own-form+within](vācaka+ātma+svarūpa+antar) [superimposed](adhyastaṃ) [in-mantra+form](mantra+rūpataḥ)
 
 ## mukta-m0-p17-v412
-[not-letter+consisting+speech](avarṇa+maya+vāk) [imagined](kalpa) [*](*) [*](*) [by-making-ness](kāratayā) [situated](sthitaḥ)
+[not-letter+consisting+speech](avarṇa+maya+vāk) [imagined](kalpa) [*](*) [*](*) [by-making+state](kāratayā) [situated](sthitaḥ)
 
 ## mukta-m0-p17-v413
-[own+form+stamp+marked](nija+svarūpa+ṭaṅka+ānta) [five+seal+consisting](pañca+mudrā+ātmakaṃ) [world](jagat)
+[own+form+stamp+marked+five+seal+nature](nija+svarūpa+ṭaṅka+ānta+pañca+mudrā+ātmakaṃ) [world](jagat)
 
 ## mukta-m0-p17-v414
-[difference+manifold+subsidence](bheda+prapañca+upaśamaḥ) [cognition+end+point+reaching](parāmarśa+anta+koṭi+gaḥ)
+[difference+expansion+cessation](bheda+prapañca+upaśamaḥ) [supreme-awareness+end+point+gone](parāmarśa+anta+koṭi+gaḥ)
 
 ## mukta-m0-p17-v415
 [in-effortless+form](nirīha+rūpe) [rest](viśrāntiḥ) [supreme+rest+characterized](para+viśrānti+lakṣaṇe)
@@ -53,22 +53,22 @@
 [and+not+also](na+ca+api) [not](na) [in-state](sthitau) [because](yasmāt) [in-cognition+path](pratīti+pathi) [exists](vartate)
 
 ## mukta-m0-p17-v418
-[own+awareness+accomplished](sva+saṃvedana+saṃsiddhaṃ) [that+indeed](tat+vat+eva) [of-these-two](anayoḥ) [not](na) [what](kim)
+[own+consciousness+accomplished](sva+saṃvedana+saṃsiddhaṃ) [that+indeed](tadvat+eva) [of-these-two](anayoḥ) [not](na) [what](kim)
 
 ## mukta-m0-p17-v419
 [hair+ball+appearance+equal](keśa+oṇḍuka+ābhāsa+samaṃ) [that](tat) [uncovered](nirāvaraṇaṃ) [again](punaḥ)
 
 ## mukta-m0-p17-v420
-[cognition](parāmarśaḥ) [again](punaḥ) [goddess](devī) [supreme+grace+level](para+anugraha+bhūmikā)
+[supreme-awareness](parāmarśaḥ) [again](punaḥ) [goddess](devī) [supreme+grace+level](para+anugraha+bhūmikā)
 
 ## mukta-m0-p17-v421
-[of-these-two](anayoḥ) [equality](samatā) [comes](eti) [of-yogin](yoginaḥ) [toward](prati) [in-reality](vastutaḥ)
+[of-these-two](anayoḥ) [equality](samatā) [comes](eti) [of-yogin](yoginaḥ) [towards](prati) [in-reality](vastutaḥ)
 
 ## mukta-m0-p17-v422
-[effortless+nature](nirīha+ātmā) [consciousness+alone](saṃvit+eva) [shines-forth](prathate) [of-non-practitioner](anupayoginaḥ)
+[effortless+nature](nirīha+ātmā) [consciousness+alone](saṃvit+eva) [shines-forth](prathate) [for-non-practitioner](anupayoginaḥ)
 
 ## mukta-m0-p17-v423
-[one-pointedness](aikadhyam) [by-this](anayā) [manner](bhaṅgyā) [in-each-manifestation](prati+bhāvaṃ) [established](vyavasthitam)
+[unity](aikadhyam) [by-this](anayā) [manner](bhaṅgyā) [in-each-manifestation](prati+bhāvaṃ) [established](vyavasthitam)
 
 ## mukta-m0-p17-v424
 [transition](saṃkrāmaḥ) [and](ca) [effortless+nature](nirīha+ātmā) [triad](trayam) [by-oneness+also+this](ekatayā+api+adaḥ)

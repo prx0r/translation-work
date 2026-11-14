@@ -3,39 +3,49 @@
  "verse": 1016,
  "rows": [
   {
-   "lemma": "agrahāra",
-   "morph": "compound-first",
-   "grounds": "first location in list"
+   "lemma": "antar",
+   "morph": "compound-member",
+   "grounds": "first member qualifying self"
   },
   {
-   "lemma": "pura",
-   "morph": "compound-second",
-   "grounds": "second location in list"
+   "lemma": "ātma",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "kṣetra",
-   "morph": "compound-third",
-   "grounds": "third location in list"
+   "lemma": "yutaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "joined with inner self"
   },
   {
-   "lemma": "gṛha",
-   "morph": "compound-fourth",
-   "grounds": "fourth location in list"
-  },
-  {
-   "lemma": "vapra",
-   "morph": "compound-fifth",
-   "grounds": "fifth location in list"
-  },
-  {
-   "lemma": "ādiṣu",
-   "morph": "m.loc.pl compound-sixth",
-   "grounds": "indicates additional similar locations"
-  },
-  {
-   "lemma": "kramāt",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "specifies sequential application"
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "ātmā",
+   "morph": "m.nom.sg",
+   "grounds": "individual self"
+  },
+  {
+   "lemma": "parama",
+   "morph": "compound-member",
+   "grounds": "first member qualifying self"
+  },
+  {
+   "lemma": "ātmā",
+   "morph": "m.nom.sg",
+   "grounds": "supreme self"
+  },
+  {
+   "lemma": "tataḥ",
+   "morph": "(indecl.)",
+   "grounds": "sequence in enumeration"
+  },
+  {
+   "lemma": "param",
+   "morph": "(indecl.)",
+   "grounds": "transcending the previous"
   }
  ]
 }

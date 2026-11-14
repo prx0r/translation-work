@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[therefore](ataḥ) [of-the-universe](viśvasya) [in-the-arrangement](saṃsthāne) [by-which-mouth](yan-mukhena) [when](yadā) [come](āgatam)
+[therefore](ato) [of-universe](viśvasya) [in-establishment](saṃsthāne) [by-which+mouth](yanmukhena) [when+came](yadāgatam)
 
 ## mukta-m0-p13-v302
-[the-universe](viśvam) [by-dependence-on-illumination](prakāśa-adhīnatvāt) [and-by-identity-of-nature](tanmayatvācca) [in-reality](vastutaḥ)
+[universe](viśvaṃ) [on-light+dependence](prakāśa+ādhīnatvāt) [on-that+consisting](tanmayatvāt) [and](ca) [in-reality](vastutaḥ)
 
 ## mukta-m0-p13-v303
-[thus-indeed](tathaiva) [by-forceful-cooking](haṭha-pākena) [by-means-of-reversal-process](pratyāvṛtti-krama-ātmanā)
+[likewise](tathaiva) [by-forceful+ripening](haṭha+pākena) [of-returning+sequence+nature](pratyāvṛtti+krama+ātmanā)
 
 ## mukta-m0-p13-v304
-[in-this](etasmin) [having-been-known](vidite) [completely](samyak) [liberation](muktiḥ) [from-the-ground-of-samsara](saṃsāra-bhūmitaḥ)
+[in-this](etasmin) [known](vidite) [completely](samyak) [liberation](muktiḥ) [from-samsara+level](saṃsāra+bhūmitaḥ)
 
 ## mukta-m0-p13-v305
-[of-the-universe](viśvasya) [as-it-stands](yathā-sthitasya) [just-as](yathaiva) [in-experience](anubhave) [established](sthite)
+[of-as+established](yathā+sthitasya) [universe](viśvasya) [just-as](yathaiva) [in-experience](anubhave) [situated](sthite)
 
 ## mukta-m0-p13-v306
-[just-as](yathaiva) [they-see](paśyanti) [the-universe](viśvam) [just-so](tathaiva) [it-transforms](parivartate)
+[just-as](yathaiva) [they-see](paśyanti) [universe](viśvaṃ) [just-so](tathaiva) [it-turns](parivartate)
 
 ## mukta-m0-p13-v307
-[therefore](ataḥ) [of-the-nature-of-reflection](vimarśa-rūpaḥ) [this](ayam) [of-the-nature-of-statement](kathana-ātmā) [shines-forth](prakāśate)
+[therefore](ato) [of-reflective-awareness+nature](vimarśa+rūpaḥ) [this](ayam) [of-expression+nature](kathana+ātmā) [shines-forth](prakāśate)
 
 ## mukta-m0-p13-v308
-[in-the-wheel-of-forms](mūrti-cakre) [indeed](hi) [ego](ahaṅkāraḥ) [of-the-nature-of-the-measurer](pramātṛ-ātmā) [which](yaḥ) [has-arisen](utthitaḥ)
+[in-body+circle](mūrti+cakre) [indeed](hi) [ego-sense](ahaṅkāraḥ) [of-subject+nature](pramātṛ+ātmā) [which](yaḥ) [arisen](utthitaḥ)
 
 ## mukta-m0-p13-v309
-[of-the-nature-of-impression-of-states](bhāva-saṃskāra-rūpasya) [of-a-multitude-of-rays](raśmi-vṛndasya) [everywhere](sarvataḥ)
+[of-being+impression+nature](bhāva+saṃskāra+rūpasya) [of-ray+multitude](raśmi+vṛndasya) [on-all-sides](sarvataḥ)
 
 ## mukta-m0-p13-v310
-[undifferentiated-and-differentiated-parts](nirvikalpa-vikalpa-aṃśān) [states-and-non-states](bhāva-abhāva-dvaya-anugān)
+[non-conceptual+conceptual+parts](nirvikalpa+vikalpa+aṃśān) [being+non-being+pair+following](bhāva+abhāva+dvaya+anugān)
 
 ## mukta-m0-p13-v311
-[undifferentiated-and-differentiated-parts](nirvikalpa-vikalpa-aṃśāḥ) [mostly](prāyaḥ) [by-force-of-aggregation](saṅkalana-vaśāt)
+[non-conceptual+conceptual+parts](nirvikalpa+vikalpa+aṃśāḥ) [mostly](prāyaḥ) [by-synthesis+force](saṅkalanā+vaśāt)
 
 ## mukta-m0-p13-v312
-[therein](tatra) [also](api) [of-the-nature-of-cognitions](pratītayaḥ) [knowing-the-impressions-of-objects](jñeya-saṃskāra-abhijña-rūpāḥ)
+[there-also](tatra+api) [of-knowable+impression+knowing+nature](jñeya+saṃskāra+abhijña+rūpāḥ) [cognitions](pratītayaḥ)
 
 ## mukta-m0-p13-v313
-[others](anyāḥ) [and-also](api-ca) [devoted-to-that-alone](tanniṣṭhāḥ) [greedy-for-forceful-cooking-alone](haṭha-pāka-eka-lampaṭāḥ)
+[others](anyāḥ) [and-also](api+ca) [in-that+fixed](tat+niṣṭhāḥ) [in-forceful+ripening+alone+eager](haṭha+pāka+eka+lampaṭāḥ)
 
 ## mukta-m0-p13-v314
-[a-cluster](kadambakam) [of-mirages](marīcīnām) [of-the-nature-of-knower-and-enjoyer](jñātṛ-bhoga-svarūpāṇām)
+[of-knower+enjoyment+nature](jñātṛ+bhoga+svarūpāṇāṃ) [of-rays](marīcīnāṃ) [cluster](kadambakam)
 
 ## mukta-m0-p13-v315
-[and-that](tat-ca) [as-clear-and-unclear](sphuṭa-asphuṭatvena) [proceeds](vartate) [also-from-experience](anubhavāt-api)
+[and-that](tat+ca) [by-clear+unclear+state](sphuṭa+asphuṭatvena) [exists](vartate) [from-experience+even](anubhavāt+api)
 
 ## mukta-m0-p13-v316
-[of-these](āsām) [of-all-cognitions](sarva-pratītīnām) [having-the-characteristic-of-final-repose-in-the-supreme](para-viśrānti-lakṣaṇam)
+[of-these](āsāṃ) [of-all+cognitions](sarva+pratītīnāṃ) [supreme+rest+characterized](para+viśrānti+lakṣaṇam)
 
 ## mukta-m0-p13-v317
-[transcending-all](sarva-uttīrṇā) [consisting-of-all](sarva-mayī) [the-manifestation-of-the-supreme-as-all-and-everything](sarva-sarva-ātmakā-prathā)
+[all+transcending](sarva+uttīrṇā) [all+consisting](sarva+mayī) [all+all+essence+manifestation](sarva+sarva+ātmaka+prathā)
 
 ## mukta-m0-p13-v318
-[transcending-verbal-description](vyapadeśa-atigā) [of-her](tasyāḥ) [established-in-the-nature-of-her-own-form](sva-svarūpa-maya-sthiteḥ)
+[beyond-designation](vyapadeśa+atigā) [of-that](tasyāḥ) [of-own+nature+consisting+abiding](sva+svarūpa+maya+sthiteḥ)
 
 ## mukta-m0-p13-v319
-[of-Raudresvari](raudreśvaryāḥ) [this](ayam) [expansion](sphāraḥ) [chiefly](prādhānyena) [is-established](vyavasthitaḥ)
+[of-raudreśvarī](raudreśvaryāḥ) [this](ayam) [expansion](sphāraḥ) [predominantly](prādhānyena) [established](vyavasthitaḥ)
 
 ## mukta-m0-p13-v320
-[from-the-form-of-the-devourer-of-dissolution](saṃhāra-bhakṣiṇī-rūpāt) [up-to-Vyomeshi](vyoma-īśy-antam) [indeed](hi) [what](yat) [is-established](sthitam)
+[from-dissolution+devouring+form](saṃhāra+bhakṣiṇī+rūpāt) [up-to-vyomeśī](vyomeśī+antam) [indeed](hi) [which](yat) [situated](sthitam)
 
 ## mukta-m0-p13-v321
-[without-dividing](nirvibhajya) [her-own-form](svakam) [rūpam](rūpam) [of-the-nature-of-forceful-cooking-activity](haṭha-pāka-kriyā-ātmakam)
+[without-dividing](nirvibhajya) [own](svakam) [form](rūpam) [of-forceful+ripening+action+nature](haṭha+pāka+kriyā+ātmakam)
 
 ## mukta-m0-p13-v322
-[in-the-absence-of-impression-of-will](icchā-saṃskāra-virahe) [exhausted](kṣīṇā) [she-reposes](viśrāmyati) [spontaneously](svataḥ)
+[in-desire+impression+absence](icchā+saṃskāra+virahe) [diminished](kṣīṇā) [rests](viśrāmyati) [by-itself](svataḥ)
 
 ## mukta-m0-p13-v323
-[this](eṣā) [slender-bodied](kṛśa-tanūḥ) [goddess](devī) [the-ground-of-the-dissolution-of-all-wills](sarva-icchā-vilaya-avanīḥ)
+[this](eṣā) [slender+bodied](kṛśa+tanuḥ) [goddess](devī) [of-all+desire+dissolution+ground](sarva+icchā+vilaya+avaniḥ)
 
 ## mukta-m0-p13-v324
-[which](yām) [which](yām) [in-her-own-circle](sva-cakre) [the-lady-of-the-circle](cakreśī) [having-entered](āviśya) [by-skill](yuktitaḥ)
+[which](yāṃ) [which](yāṃ) [in-own+circle](sva+cakre) [circle-goddess](cakreśī) [that](tām) [that](tām) [having-entered](āviśya) [by-method](yuktitaḥ)
 
 ## mukta-m0-p13-v325
-[therefore](ataḥ) [in-the-series-of-clusters](vṛnda-krame) [all](sarvam) [as-that-which-is-to-be-adopted](upādeyatayā) [is-established](sthitam)
+[therefore](ato) [in-group+sequence](vṛnda+krame) [all](sarvam) [as-to-be-adopted](upādeyatayā) [situated](sthitam)

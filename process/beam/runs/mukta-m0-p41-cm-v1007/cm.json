@@ -3,39 +3,44 @@
  "verse": 1007,
  "rows": [
   {
-   "lemma": "tat",
-   "morph": "compound-first",
-   "grounds": "first member of locative compound"
+   "lemma": "viṣṇu",
+   "morph": "compound-member",
+   "grounds": "first deity in group"
   },
   {
-   "lemma": "agne",
-   "morph": "m.loc.sg compound-second",
-   "grounds": "location of the offering"
+   "lemma": "īśa",
+   "morph": "compound-member",
+   "grounds": "second deity in group"
   },
   {
-   "lemma": "juhuyāt",
-   "morph": "3.sg.opt.act √hu",
-   "grounds": "prescribes oblation"
+   "lemma": "vāsava",
+   "morph": "compound-member",
+   "grounds": "third deity in group"
   },
   {
-   "lemma": "mantrī",
-   "morph": "m.nom.sg",
-   "grounds": "agent performing the rite"
+   "lemma": "ādīnāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "indicates additional members of group"
   },
   {
-   "lemma": "sarva",
-   "morph": "compound-first",
-   "grounds": "first member of compound qualifying planets"
+   "lemma": "ṣaṇṇāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "total number in the group"
   },
   {
-   "lemma": "grahaṃ",
-   "morph": "m.acc.sg compound-second",
-   "grounds": "collective affliction removed"
+   "lemma": "tatra",
+   "morph": "(indecl.)",
+   "grounds": "location of worship"
   },
   {
-   "lemma": "vinaśyati",
-   "morph": "3.sg.fut.act √naś",
-   "grounds": "result of the offering"
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "pūjanam",
+   "morph": "n.nom.sg",
+   "grounds": "ritual act prescribed"
   }
  ]
 }
