@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p261",
+ "items": [
+  {
+   "verse": 6525,
+   "rows": [
+    {
+     "surface": "tanmūle",
+     "gloss": "at-its-base",
+     "grounds": "locative of compound tad-mūla, referring to the base of the previously described component",
+     "morph": "n.loc.sg (compound tad-mūla)"
+    },
+    {
+     "surface": "kalaśākāro",
+     "gloss": "pot-shaped",
+     "grounds": "compound kalaśa-ākāra describing the form as resembling a pot",
+     "morph": "m.nom.sg (compound kalaśa-ākāra)"
+    },
+    {
+     "surface": "vdyaṅgulo",
+     "gloss": "two-fingers-measure",
+     "grounds": "compound dvi-aṅgula indicating a measure of two aṅgulas; surface preserves the transmitted orthography",
+     "morph": "m.nom.sg (compound dvi-aṅgula)"
+    },
+    {
+     "surface": "daśanāhakaḥ",
+     "gloss": "ten-units-circumference",
+     "grounds": "bahuvrihi daśa-nāha-ka indicating a circumference of ten nāha units, continuing the dimensional description",
+     "morph": "m.nom.sg (bahuvrihi daśa-nāha)"
+    }
+   ],
+   "question": "What shape and measurements are specified for the base of the described component?",
+   "premises": [
+    "The base of the described component is being characterized.",
+    "Its form is specified as pot-shaped.",
+    "Its extent is two aṅgulas and its circumference is ten nāha units."
+   ],
+   "inference": "Therefore the base of the component is defined as a pot-shaped section with specified dimensions.",
+   "uncertainties": [
+    "The exact unit value of nāha in this context is inferred from the preceding verse's use of nāha for circumference."
+   ],
+   "plain_english": "At its base, it is pot-shaped, measuring two aṅgulas and having a circumference of ten nāha units."
+  }
+ ]
+}
