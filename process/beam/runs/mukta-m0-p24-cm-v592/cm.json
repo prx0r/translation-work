@@ -3,19 +3,44 @@
  "verse": 592,
  "rows": [
   {
-   "lemma": "sva-deha-rudhira-aktaiśca",
-   "morph": "n.inst.pl (compound: sva+deha+rudhira+akta, +ca)",
-   "grounds": "compound: sva (own) + deha (body) + rudhira (blood) + akta (smeared), with enclitic ca"
+   "lemma": "deva",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating friendship"
   },
   {
-   "lemma": "vilva-patraiḥ",
-   "morph": "n.inst.pl (compound: vilva+patra)",
-   "grounds": "compound: vilva (bilva tree) + patra (leaves)"
+   "lemma": "maitrī",
+   "morph": "f.nom.sg",
+   "grounds": "result in the sequence"
   },
   {
-   "lemma": "sahasraśaḥ",
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating loss"
+  },
+  {
+   "lemma": "hāniḥ",
+   "morph": "f.nom.sg",
+   "grounds": "result in the sequence"
+  },
+  {
+   "lemma": "kalahaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "result in the sequence"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "indicates repeated offering or action"
+   "grounds": "connects results in the sequence"
+  },
+  {
+   "lemma": "mahā",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating fear"
+  },
+  {
+   "lemma": "bhayam",
+   "morph": "n.nom.sg",
+   "grounds": "result in the sequence"
   }
  ]
 }

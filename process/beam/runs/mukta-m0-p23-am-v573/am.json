@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p23",
  "verse": 573,
- "question": "What lethal outcome occurs when the rite is directed at a specific target?",
+ "question": "What musical and sacred sounds should precede the ritual offering?",
  "premises": [
-  "The rite is performed having aimed at someone.",
-  "Killing indeed occurs for that person."
+  "Five instruments are specified",
+  "A sacred sound is mentioned",
+  "These precede the action"
  ],
- "inference": "When the rite is directed at a target, it results in that person's death.",
- "uncertainties": [],
- "plain_english": "Indeed, killing occurs for him at whom the rite is aimed and performed."
+ "inference": "The action should be preceded by five instruments and sacred chanting.",
+ "uncertainties": [
+  "The exact nature of the brahma-ghoṣa is context-dependent"
+ ],
+ "plain_english": "Preceded by the sound of five instruments and sacred chanting."
 }

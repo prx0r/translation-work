@@ -3,29 +3,34 @@
  "verse": 593,
  "rows": [
   {
-   "lemma": "reto-yuktena",
-   "morph": "n.inst.sg (compound: retas+yukta)",
-   "grounds": "compound: retas (semen) + yukta (joined/mixed)"
+   "lemma": "phalam",
+   "morph": "n.nom.sg",
+   "grounds": "outcome being described"
   },
   {
-   "lemma": "puṣpeṇa",
-   "morph": "n.inst.sg",
-   "grounds": "instrumental indicating the offering substance"
+   "lemma": "bhānām",
+   "morph": "n.gen.pl",
+   "grounds": "source or domain of the results"
   },
   {
-   "lemma": "arkasya",
-   "morph": "m.gen.sg",
-   "grounds": "specifies the flower as belonging to the arka plant"
-  },
-  {
-   "lemma": "iha",
+   "lemma": "kramāt",
    "morph": "(indecl.)",
-   "grounds": "locative adverb indicating this rite"
+   "grounds": "indicates sequential arrangement"
   },
   {
-   "lemma": "sahasraśaḥ",
+   "lemma": "dakṣe",
+   "morph": "m.loc.sg",
+   "grounds": "specifies one side for the results"
+  },
+  {
+   "lemma": "atha",
    "morph": "(indecl.)",
-   "grounds": "indicates repeated offering or action"
+   "grounds": "introduces the alternative side"
+  },
+  {
+   "lemma": "vāmake",
+   "morph": "m.loc.sg",
+   "grounds": "specifies the alternative side for the results"
   }
  ]
 }

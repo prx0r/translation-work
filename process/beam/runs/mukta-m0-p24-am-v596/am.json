@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p24",
  "verse": 596,
- "question": "What consecration and meditation sequence is prescribed in the cremation-ground rite?",
+ "question": "Which color is evaluated as more auspicious in relation to Hari?",
  "premises": [
-  "A javā flower is used in the rite.",
-  "The mantra is consecrated by sprinkling.",
-  "Afterward one should meditate on Caṇḍikā."
+  "The black is explicitly denied as best.",
+  "The white is described as more auspicious.",
+  "The evaluation is made in relation to Hari."
  ],
- "inference": "After consecrating the mantra with a javā flower, the practitioner should meditate on Caṇḍikā.",
- "uncertainties": [],
- "plain_english": "Having consecrated the mantra with a javā flower, one should then meditate on Caṇḍikā."
+ "inference": "In relation to Hari, white is more auspicious and black is not best.",
+ "uncertainties": [
+  "The specific referent of the colors is implied by ritual or symbolic context."
+ ],
+ "plain_english": "The black is not at all the best; the white is more auspicious in relation to Hari."
 }

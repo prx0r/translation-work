@@ -3,29 +3,44 @@
  "verse": 600,
  "rows": [
   {
-   "lemma": "ghanitvaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "abstract noun denoting solidity or firmness"
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member of compound with siddhiḥ, indicating totality"
   },
   {
-   "lemma": "jāyate",
-   "morph": "3.sg.pres.mid (√jan)",
-   "grounds": "verb expressing coming into a state"
+   "lemma": "siddhiḥ",
+   "morph": "f.nom.sg",
+   "grounds": "complete attainment or success; head of compound sarva-siddhiḥ"
   },
   {
-   "lemma": "tasya",
-   "morph": "m./n.gen.sg (tad)",
-   "grounds": "genitive pronoun referring to the previously mentioned substance"
+   "lemma": "viṣṭi",
+   "morph": "compound-member",
+   "grounds": "first member of compound with pucche, denoting pervasion or entry"
   },
   {
-   "lemma": "sarva-siddhiḥ",
-   "morph": "compound sarva-siddhi; f.nom.sg",
-   "grounds": "compound indicating complete ritual success"
+   "lemma": "pucche",
+   "morph": "n.loc.sg",
+   "grounds": "terminal part or end; locative in compound viṣṭi-pucche"
   },
   {
-   "lemma": "prajāyate",
-   "morph": "3.sg.pres.mid (pra-√jan)",
-   "grounds": "verb expressing production or manifestation of a result"
+   "lemma": "sthire",
+   "morph": "n.loc.sg",
+   "grounds": "qualifies viṣṭi-pucche, indicating a firm or settled state"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "introduces a contrast or qualification"
+  },
+  {
+   "lemma": "sthiratā",
+   "morph": "f.nom.sg",
+   "grounds": "state of firmness or steadiness"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.optative-active (bhū)",
+   "grounds": "expresses potential or resulting state"
   }
  ]
 }

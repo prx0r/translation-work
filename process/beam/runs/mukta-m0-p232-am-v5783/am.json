@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p232",
  "verse": 5783,
- "question": "How does the concluding portion of the Skanda mantra formula read?",
+ "question": "What mantra attributions are declared regarding sage, deity, or meter?",
  "premises": [
-  "The phrase includes 'tannaḥ'.",
-  "It includes the word Skanda.",
-  "It ends with 'pracodayāt'."
+  "Sage and deity are mentioned",
+  "Triṣṭup meter is mentioned",
+  "These are declared as attributions"
  ],
- "inference": "The concluding mantra portion is formed as 'tannaḥ skandaḥ pracodayāt'.",
- "uncertainties": [],
- "plain_english": "Endowed with the word 'tannaḥ skanda', and joined at the end with 'pracodayāt'."
+ "inference": "The sage, deity, or triṣṭup meter is declared for the mantra.",
+ "uncertainties": [
+  "The use of vā makes the intended attribution ambiguous"
+ ],
+ "plain_english": "The sage, or the deity, or the triṣṭup meter is declared."
 }

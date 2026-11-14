@@ -1,0 +1,1254 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 576,
+   "rows": [
+    {
+     "surface": "haridrā",
+     "gloss": "turmeric",
+     "grounds": "ingredient of the offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cūrṇa",
+     "gloss": "powder",
+     "grounds": "form of the turmeric ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃyuktaḥ",
+     "gloss": "mixed-with",
+     "grounds": "describes the offering as combined with turmeric powder",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "bhūtebhyaḥ",
+     "gloss": "to-beings",
+     "grounds": "recipients of the offering",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "points to the specified offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "ritual oblation being prescribed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "states the accepted prescription",
+     "morph": "m.nom.sg.past-participle"
+    }
+   ],
+   "question": "What offering is prescribed as appropriate for the beings?",
+   "premises": [
+    "Turmeric powder is specified as an ingredient.",
+    "The offering is mixed with turmeric powder.",
+    "This offering is designated for the beings."
+   ],
+   "inference": "The proper offering to the beings is one mixed with turmeric powder.",
+   "uncertainties": [],
+   "plain_english": "This offering, mixed with turmeric powder, is considered the proper one for the beings."
+  },
+  {
+   "verse": 577,
+   "rows": [
+    {
+     "surface": "lājāḥ",
+     "gloss": "parched-rice",
+     "grounds": "primary substance of the offering",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yakṣebhyaḥ",
+     "gloss": "to-yakṣas",
+     "grounds": "recipients of the offering",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "substance mixed with the parched rice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃyutāḥ",
+     "gloss": "mixed-with",
+     "grounds": "describes parched rice combined with curd",
+     "morph": "m.nom.pl.past-participle"
+    }
+   ],
+   "question": "What offering is prescribed for the yakṣas?",
+   "premises": [
+    "Parched rice is specified as the offering substance.",
+    "The parched rice is mixed with curd.",
+    "The yakṣas are the designated recipients."
+   ],
+   "inference": "Parched rice mixed with curd is the prescribed offering for the yakṣas.",
+   "uncertainties": [
+    "The verb of giving is implied from the preceding context."
+   ],
+   "plain_english": "Parched rice mixed with curd should be given to the yakṣas."
+  },
+  {
+   "verse": 578,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative.active √dā"
+    },
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "first member of compound describing the offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣata",
+     "gloss": "unbroken-rice",
+     "grounds": "second member of compound describing the offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "ritual oblation to be given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṃcame",
+     "gloss": "on-fifth",
+     "grounds": "specifies the day for the offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmaṇe",
+     "gloss": "to-brahmā",
+     "grounds": "recipient deity of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "manner in which the offering is given",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What offering should be given to Brahmā on the fifth day?",
+   "premises": [
+    "The fifth day is specified for this ritual action.",
+    "Brahmā is the designated recipient.",
+    "The offering consists of lotus and unbroken rice and is given with joy."
+   ],
+   "inference": "On the fifth day one should joyfully give an offering of lotus and unbroken rice to Brahmā.",
+   "uncertainties": [],
+   "plain_english": "On the fifth day, one should joyfully give an offering of lotus and unbroken rice to Brahmā."
+  },
+  {
+   "verse": 579,
+   "rows": [
+    {
+     "surface": "saptame",
+     "gloss": "on-seventh",
+     "grounds": "specifies the day for the offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ahni",
+     "gloss": "day",
+     "grounds": "time unit on which the offering is made",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viṣṇave",
+     "gloss": "to-viṣṇu",
+     "grounds": "recipient deity of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vinivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative.causative.active √nī-vi"
+    }
+   ],
+   "question": "What ritual offering is prescribed for Viṣṇu on the seventh day?",
+   "premises": [
+    "The seventh day is specified for this action.",
+    "Viṣṇu is the designated recipient.",
+    "An offering should be formally presented."
+   ],
+   "inference": "On the seventh day one should offer to Viṣṇu.",
+   "uncertainties": [
+    "The specific substance of the offering is implied from context."
+   ],
+   "plain_english": "On the seventh day, one should make an offering to Viṣṇu."
+  },
+  {
+   "verse": 580,
+   "rows": [
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "recipient goddess of the offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.optative.active √as"
+    },
+    {
+     "surface": "ajaḥ",
+     "gloss": "goat",
+     "grounds": "substance designated as the offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers back to Bhairavī as recipient",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "ritual oblation being prescribed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "states the accepted prescription",
+     "morph": "m.nom.sg.past-participle"
+    }
+   ],
+   "question": "What offering is considered appropriate for the goddess Bhairavī?",
+   "premises": [
+    "Bhairavī is the designated recipient.",
+    "A goat is specified as the offering substance.",
+    "This is stated as the accepted prescription."
+   ],
+   "inference": "A goat is considered the proper offering for Bhairavī.",
+   "uncertainties": [],
+   "plain_english": "A goat is considered the proper offering for Bhairavī."
+  },
+  {
+   "verse": 581,
+   "rows": [
+    {
+     "surface": "paiṣṭī",
+     "gloss": "made-of-flour",
+     "grounds": "describes the form of the liquor offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items in the prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "surāḥ",
+     "gloss": "liquor",
+     "grounds": "substance designated as offering",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "states the accepted prescription",
+     "morph": "f.nom.pl.past-participle"
+    }
+   ],
+   "question": "What additional offerings are considered appropriate in that ritual context?",
+   "premises": [
+    "Liquor made of flour is specified.",
+    "The prescription applies in that context.",
+    "The items are considered in due order."
+   ],
+   "inference": "Flour-based liquor is also considered an appropriate offering there in sequence.",
+   "uncertainties": [
+    "The exact recipient or sequence position is implied from surrounding verses."
+   ],
+   "plain_english": "There, flour-based liquor is also considered appropriate in due order."
+  },
+  {
+   "verse": 582,
+   "rows": [
+    {
+     "surface": "śaśa",
+     "gloss": "hare",
+     "grounds": "first member of compound indicating meat source",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māṃsam",
+     "gloss": "meat",
+     "grounds": "offering substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects offering items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yakṣebhyaḥ",
+     "gloss": "to-yakṣas",
+     "grounds": "recipients of the offerings",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "kukkuṭam",
+     "gloss": "rooster",
+     "grounds": "additional offering substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "additional offering substance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What offerings are prescribed for the yakṣas in this sequence?",
+   "premises": [
+    "Hare meat is specified as an offering.",
+    "Rooster and honey are also specified.",
+    "The yakṣas are the designated recipients."
+   ],
+   "inference": "Hare meat, rooster, and honey are prescribed as offerings for the yakṣas.",
+   "uncertainties": [
+    "The verb of giving is implied from context."
+   ],
+   "plain_english": "Hare meat, and also rooster and honey, should be offered to the yakṣas."
+  },
+  {
+   "verse": 583,
+   "rows": [
+    {
+     "surface": "dineṣu",
+     "gloss": "on-days",
+     "grounds": "specifies the time periods for observation",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to preceding instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilokayet",
+     "gloss": "one-should-observe",
+     "grounds": "prescriptive action of watching or examining",
+     "morph": "3.sg.optative.causative.active √lok-vi"
+    }
+   ],
+   "question": "What action should be performed on the designated days?",
+   "premises": [
+    "Specific days are indicated for the action.",
+    "Observation is prescribed as the required action."
+   ],
+   "inference": "One should observe on those days.",
+   "uncertainties": [
+    "The object of observation is implied from the surrounding ritual context."
+   ],
+   "plain_english": "And on those days, one should observe carefully."
+  },
+  {
+   "verse": 584,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "qualifies the manner of rising or emergence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyudgame",
+     "gloss": "at-rising",
+     "grounds": "condition of proper emergence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "favorable result of proper emergence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇṭhite",
+     "gloss": "when-obstructed",
+     "grounds": "condition of blockage or hindrance",
+     "morph": "n.loc.sg.past-participle"
+    },
+    {
+     "surface": "vighnam",
+     "gloss": "obstacle",
+     "grounds": "unfavorable result of obstruction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-obtains",
+     "grounds": "states the resulting outcome",
+     "morph": "3.sg.optative.active √āp"
+    }
+   ],
+   "question": "What outcomes follow from proper rising versus obstruction in the observed sign?",
+   "premises": [
+    "Proper rising leads to success.",
+    "Obstruction leads to obtaining an obstacle.",
+    "The outcomes depend on the condition observed."
+   ],
+   "inference": "Proper emergence yields success, while obstruction yields an obstacle.",
+   "uncertainties": [],
+   "plain_english": "If it rises properly, there is success; if it is obstructed, one encounters an obstacle."
+  },
+  {
+   "verse": 585,
+   "rows": [
+    {
+     "surface": "priyaṅgubhiḥ",
+     "gloss": "with-priyaṅgu-grains",
+     "grounds": "substance associated with the indicated result",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "marks the result as to be understood",
+     "morph": "f.nom.sg.future-passive-participle"
+    },
+    {
+     "surface": "śyāmākaiḥ",
+     "gloss": "with-śyāmāka-grains",
+     "grounds": "substance associated with the indicated result",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "result indicated by the sign",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "result indicated by the sign",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the resulting outcome",
+     "morph": "3.sg.optative.active √bhū"
+    }
+   ],
+   "question": "What results are indicated by signs involving priyaṅgu and śyāmāka grains?",
+   "premises": [
+    "Priyaṅgu grains indicate a woman is to be known.",
+    "Śyāmāka grains indicate happiness.",
+    "These are stated as resulting outcomes."
+   ],
+   "inference": "Priyaṅgu grains signify a woman, and śyāmāka grains signify happiness.",
+   "uncertainties": [
+    "The exact interpretive mechanism of the grains is implied by the ritual context."
+   ],
+   "plain_english": "With priyaṅgu grains a woman is to be known, and with śyāmāka grains there should be happiness."
+  },
+  {
+   "verse": 586,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying honor",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sammānaḥ",
+     "gloss": "honor",
+     "grounds": "result indicated by the sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mudgaiḥ",
+     "gloss": "with-mudga-beans",
+     "grounds": "substance associated with the indicated result",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "deva",
+     "gloss": "divine",
+     "grounds": "first member of compound qualifying favor",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛpā",
+     "gloss": "favor",
+     "grounds": "result indicated by the sign",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the resulting outcome",
+     "morph": "3.sg.optative.active √bhū"
+    }
+   ],
+   "question": "What results are indicated by signs involving mudga beans?",
+   "premises": [
+    "Mudga beans are associated with honor from all.",
+    "Mudga beans are associated with divine favor.",
+    "These are stated as resulting outcomes."
+   ],
+   "inference": "Mudga beans signify universal honor and divine favor.",
+   "uncertainties": [],
+   "plain_english": "With mudga beans there should be honor from all and divine favor."
+  },
+  {
+   "verse": 587,
+   "rows": [
+    {
+     "surface": "sat",
+     "gloss": "good",
+     "grounds": "first member of compound qualifying action",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "second member of compound qualifying success",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "result indicated by the sign",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "states the resulting outcome",
+     "morph": "3.sg.optative.active √as"
+    },
+    {
+     "surface": "māṣaiḥ",
+     "gloss": "with-māṣa-beans",
+     "grounds": "substance associated with the indicated results",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śāntīḥ",
+     "gloss": "peace",
+     "grounds": "result indicated in the context of battle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raṇe",
+     "gloss": "in-battle",
+     "grounds": "context in which peace is indicated",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the resulting outcome",
+     "morph": "3.sg.optative.active √bhū"
+    }
+   ],
+   "question": "What results are indicated by signs involving māṣa beans?",
+   "premises": [
+    "Māṣa beans are associated with success in good actions.",
+    "Māṣa beans are associated with peace in battle.",
+    "These are stated as resulting outcomes."
+   ],
+   "inference": "Māṣa beans signify success in good actions and peace in battle.",
+   "uncertainties": [],
+   "plain_english": "With māṣa beans there should be success in good actions and peace in battle."
+  },
+  {
+   "verse": 588,
+   "rows": [
+    {
+     "surface": "caitrāt",
+     "gloss": "from-caitra",
+     "grounds": "starting point of the sequential list",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "first member of compound indicating result context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome being listed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "duḥkham",
+     "gloss": "sorrow",
+     "grounds": "first result in the sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "for-consecration",
+     "grounds": "context associated with the next result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ratna",
+     "gloss": "jewel",
+     "grounds": "first member of compound indicating attainment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "attainment",
+     "grounds": "result associated with consecration",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What results follow in sequence beginning from the month of Caitra?",
+   "premises": [
+    "The sequence begins from Caitra.",
+    "The result for initiation is sorrow.",
+    "For consecration the result is attainment of jewels."
+   ],
+   "inference": "Starting from Caitra, the sequence yields sorrow for initiation and jewel attainment for consecration.",
+   "uncertainties": [
+    "The full mapping of each month to each result continues in following verses."
+   ],
+   "plain_english": "Beginning from Caitra, the result for initiation is sorrow, and for consecration it is the attainment of jewels."
+  },
+  {
+   "verse": 589,
+   "rows": [
+    {
+     "surface": "vṛddhiḥ",
+     "gloss": "growth",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "duḥkha",
+     "gloss": "sorrow",
+     "grounds": "first member of compound indicating distraction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ākṣepāḥ",
+     "gloss": "distraction",
+     "grounds": "result in the sequence",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nindā",
+     "gloss": "blame",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the listed sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What further results occur in the sequential list of outcomes?",
+   "premises": [
+    "Growth is listed as a result.",
+    "Sorrowful distractions are listed as a result.",
+    "Blame is listed as a result in order."
+   ],
+   "inference": "The sequence continues with growth, sorrowful distractions, and blame.",
+   "uncertainties": [
+    "The specific months or contexts for each result are implied by the ongoing sequence."
+   ],
+   "plain_english": "In order, the results are growth, sorrowful distractions, and blame."
+  },
+  {
+   "verse": 590,
+   "rows": [
+    {
+     "surface": "medhā",
+     "gloss": "intelligence",
+     "grounds": "first member of compound indicating destruction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vināśaḥ",
+     "gloss": "destruction",
+     "grounds": "result in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects results in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarṇa",
+     "gloss": "gold",
+     "grounds": "first member of compound indicating attainment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āptiḥ",
+     "gloss": "attainment",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound indicating increase",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varddhanam",
+     "gloss": "increase",
+     "grounds": "result in the sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional outcomes continue the sequential list of results?",
+   "premises": [
+    "Destruction of intelligence is listed as a result.",
+    "Attainment of gold is listed as a result.",
+    "Increase of knowledge is listed as a result."
+   ],
+   "inference": "The sequence continues with loss of intelligence, attainment of gold, and increase of knowledge.",
+   "uncertainties": [],
+   "plain_english": "Then come destruction of intelligence, attainment of gold, and increase of knowledge."
+  },
+  {
+   "verse": 591,
+   "rows": [
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "first member of compound indicating torment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tāpaḥ",
+     "gloss": "torment",
+     "grounds": "result in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śriyaḥ",
+     "gloss": "of-prosperity",
+     "grounds": "qualifies the happiness result",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "saukhyam",
+     "gloss": "happiness",
+     "grounds": "result in the sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saukhyam",
+     "gloss": "happiness",
+     "grounds": "repeated result in the sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "qualifies the successes",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "successes",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What further results are included in the continuing sequence of outcomes?",
+   "premises": [
+    "Mental torment is listed as a result.",
+    "Happiness of prosperity and happiness are listed.",
+    "Successes of the mantra are listed as results."
+   ],
+   "inference": "The sequence continues with mental torment, happiness of prosperity, happiness, and mantra successes.",
+   "uncertainties": [
+    "The repetition of happiness may indicate two distinct instances in the sequence."
+   ],
+   "plain_english": "Then come mental torment, happiness of prosperity, happiness, and successes of the mantra."
+  },
+  {
+   "verse": 592,
+   "rows": [
+    {
+     "surface": "deva",
+     "gloss": "divine",
+     "grounds": "first member of compound indicating friendship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maitrī",
+     "gloss": "friendship",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound indicating loss",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalahaḥ",
+     "gloss": "quarrel",
+     "grounds": "result in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects results in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound indicating fear",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhayam",
+     "gloss": "fear",
+     "grounds": "result in the sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What final outcomes are listed in this segment of the sequential results?",
+   "premises": [
+    "Friendship with the divine is listed as a result.",
+    "Loss of everything is listed as a result.",
+    "Quarrel and great fear are listed as results."
+   ],
+   "inference": "The sequence includes divine friendship, total loss, quarrel, and great fear.",
+   "uncertainties": [],
+   "plain_english": "Then come friendship with the divine, loss of everything, quarrel, and great fear."
+  },
+  {
+   "verse": 593,
+   "rows": [
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhānām",
+     "gloss": "of-stars",
+     "grounds": "source or domain of the results",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "specifies one side for the results",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "introduces the alternative side",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmake",
+     "gloss": "on-left",
+     "grounds": "specifies the alternative side for the results",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How are the sequential results of the stars applied to the right or left side?",
+   "premises": [
+    "The results belong to the stars.",
+    "The results proceed in order.",
+    "They apply on the right side or on the left side."
+   ],
+   "inference": "The sequential results of the stars are applied either on the right or on the left side.",
+   "uncertainties": [
+    "The specific method of applying right or left is implied by ritual context."
+   ],
+   "plain_english": "These are the sequential results of the stars, applied on the right side or on the left."
+  },
+  {
+   "verse": 594,
+   "rows": [
+    {
+     "surface": "agaurī",
+     "gloss": "without-gaurī",
+     "grounds": "first member of compound describing practitioners",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māntrikāḥ",
+     "gloss": "practitioners",
+     "grounds": "subjects described by the condition",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhraṣṭāḥ",
+     "gloss": "fallen",
+     "grounds": "condition of the practitioners",
+     "morph": "m.nom.pl.past-participle"
+    },
+    {
+     "surface": "vigaṇeśāḥ",
+     "gloss": "without-gaṇeśa",
+     "grounds": "describes practitioners lacking Gaṇeśa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the described conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duḥkhitāḥ",
+     "gloss": "suffering",
+     "grounds": "condition of the practitioners",
+     "morph": "m.nom.pl.past-participle"
+    }
+   ],
+   "question": "What conditions afflict mantra practitioners lacking Gaurī or Gaṇeśa?",
+   "premises": [
+    "Practitioners without Gaurī are described as fallen.",
+    "Practitioners without Gaṇeśa are described as suffering.",
+    "Both conditions are presented together."
+   ],
+   "inference": "Mantra practitioners lacking Gaurī are fallen, and those lacking Gaṇeśa suffer.",
+   "uncertainties": [],
+   "plain_english": "Practitioners without Gaurī are fallen, and those without Gaṇeśa are suffering."
+  },
+  {
+   "verse": 595,
+   "rows": [
+    {
+     "surface": "samṛddhiḥ",
+     "gloss": "prosperity",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "duḥkha",
+     "gloss": "sorrow",
+     "grounds": "first member of compound indicating success",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects results in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrkhatā",
+     "gloss": "foolishness",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guru",
+     "gloss": "guru",
+     "grounds": "first member of compound indicating destruction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destruction",
+     "grounds": "result in the sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What further outcomes are listed in this sequence of results?",
+   "premises": [
+    "Prosperity is listed as a result.",
+    "Success in sorrow is listed as a result.",
+    "Foolishness and destruction of the guru are listed."
+   ],
+   "inference": "The sequence includes prosperity, success amid sorrow, foolishness, and loss of the guru.",
+   "uncertainties": [
+    "The compound duḥkha-siddhiḥ may be interpreted as success despite sorrow or success related to sorrow."
+   ],
+   "plain_english": "The results are prosperity, success in sorrow, foolishness, and destruction of the guru."
+  },
+  {
+   "verse": 596,
+   "rows": [
+    {
+     "surface": "śreṣṭhā",
+     "gloss": "best",
+     "grounds": "evaluative predicate for the first item",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following evaluation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "black",
+     "grounds": "item being evaluated negatively",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śubhrā",
+     "gloss": "white",
+     "grounds": "item being evaluated positively",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śubhatarā",
+     "gloss": "more-auspicious",
+     "grounds": "comparative evaluation of the white",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hareḥ",
+     "gloss": "of-hari",
+     "grounds": "context or association for the evaluation",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Which color is evaluated as more auspicious in relation to Hari?",
+   "premises": [
+    "The black is explicitly denied as best.",
+    "The white is described as more auspicious.",
+    "The evaluation is made in relation to Hari."
+   ],
+   "inference": "In relation to Hari, white is more auspicious and black is not best.",
+   "uncertainties": [
+    "The specific referent of the colors is implied by ritual or symbolic context."
+   ],
+   "plain_english": "The black is not at all the best; the white is more auspicious in relation to Hari."
+  },
+  {
+   "verse": 597,
+   "rows": [
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhātuḥ",
+     "gloss": "of-metal",
+     "grounds": "domain or source associated with success",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "specifically",
+     "grounds": "emphasizes the particular result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "first member of compound indicating loss",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pitṝn",
+     "gloss": "without-father",
+     "grounds": "condition qualifying the loss",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ṛte",
+     "gloss": "except",
+     "grounds": "marks an exception to the condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific outcomes are indicated regarding metal success and loss of a son?",
+   "premises": [
+    "Success specifically related to metal is indicated.",
+    "Loss of a son is indicated.",
+    "An exception is stated regarding being without a father."
+   ],
+   "inference": "There is specific success with metal and loss of a son, except in the case without a father.",
+   "uncertainties": [
+    "The exact sense of pitṝn ṛte in this context is ambiguous."
+   ],
+   "plain_english": "There is success specifically with metal, and loss of a son, except without a father."
+  },
+  {
+   "verse": 598,
+   "rows": [
+    {
+     "surface": "putrāḥ",
+     "gloss": "sons",
+     "grounds": "result in the sequence",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of compound indicating attainment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āptiḥ",
+     "gloss": "attainment",
+     "grounds": "result in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "result in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "declared",
+     "grounds": "states that these results are declared",
+     "morph": "f.nom.sg.past-participle"
+    }
+   ],
+   "question": "What outcomes are declared in this part of the sequential results?",
+   "premises": [
+    "Sons are declared as a result.",
+    "Attainment of wealth is declared as a result.",
+    "Death is declared as a result."
+   ],
+   "inference": "The declared results are sons, attainment of wealth, and death.",
+   "uncertainties": [],
+   "plain_english": "Sons, attainment of wealth, and death are declared as the results."
+  },
+  {
+   "verse": 599,
+   "rows": [
+    {
+     "surface": "ānanda",
+     "gloss": "ānanda",
+     "grounds": "first member of compound naming the yogas",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etcetera",
+     "grounds": "indicates the beginning of a series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kayogānām",
+     "gloss": "yogas",
+     "grounds": "domain whose result is described; internal sandhi ka-yogānām",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates universal applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avikalam",
+     "gloss": "unimpaired",
+     "grounds": "qualifies the result as complete",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome of the yogas",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the nature of the result produced by the yogas beginning with Ānanda?",
+   "premises": [
+    "The yogas beginning with Ānanda are the subject.",
+    "Their result applies everywhere.",
+    "Their result is unimpaired."
+   ],
+   "inference": "The yogas beginning with Ānanda yield an unimpaired result everywhere.",
+   "uncertainties": [],
+   "plain_english": "For the yogas beginning with Ānanda, the result is everywhere unimpaired."
+  }
+ ]
+}

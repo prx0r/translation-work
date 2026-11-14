@@ -3,24 +3,34 @@
  "verse": 582,
  "rows": [
   {
-   "lemma": "aṣṭa-uttara-śataṃ",
-   "morph": "n.acc.sg (compound: aṣṭa+uttara+śata)",
-   "grounds": "compound: aṣṭa (eight) + uttara (more) + śata (hundred)"
+   "lemma": "śaśa",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating meat source"
   },
   {
-   "lemma": "japtvā",
-   "morph": "(absolutive, √jap)",
-   "grounds": "absolutive indicating prior recitation"
-  },
-  {
-   "lemma": "bhāga-āmantraṇena",
-   "morph": "n.inst.sg (compound: bhāga+āmantraṇa)",
-   "grounds": "compound: bhāga (portion) + āmantraṇa (invocation/address)"
+   "lemma": "māṃsam",
+   "morph": "n.nom.sg",
+   "grounds": "offering substance"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "connects offering items"
+  },
+  {
+   "lemma": "yakṣebhyaḥ",
+   "morph": "m.dat.pl",
+   "grounds": "recipients of the offerings"
+  },
+  {
+   "lemma": "kukkuṭam",
+   "morph": "m.acc.sg",
+   "grounds": "additional offering substance"
+  },
+  {
+   "lemma": "madhu",
+   "morph": "n.nom.sg",
+   "grounds": "additional offering substance"
   }
  ]
 }

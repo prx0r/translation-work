@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p232",
  "verse": 5797,
- "question": "Under what condition should the vardhanī vessel be placed and worshipped?",
+ "question": "What diagram location is specified for the next step after the previous one?",
  "premises": [
-  "The rite may be joined with a goddess.",
-  "If so, the vardhanī vessel is placed there.",
-  "That vessel should then be worshipped."
+  "The instruction continues sequentially",
+  "An eight-petaled part is specified",
+  "The action is implied from context"
  ],
- "inference": "If the rite includes the goddess, the vardhanī vessel should be placed there and worshipped.",
- "uncertainties": [],
- "plain_english": "If it is joined with the goddess, having placed the vardhanī vessel there, one should worship it."
+ "inference": "Then the next step concerns the eight-petaled part.",
+ "uncertainties": [
+  "The verb is omitted and must be supplied from context"
+ ],
+ "plain_english": "Then, in the eight-petaled part."
 }
