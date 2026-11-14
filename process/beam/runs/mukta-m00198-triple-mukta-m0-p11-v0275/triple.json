@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "kalyaṃ",
+     "gloss": "auspicious",
+     "grounds": "qualifies the designated form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīkāntakaṃ",
+     "gloss": "śrīkāntaka",
+     "grounds": "proper name of the variant",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrument of designation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "pādabandhe",
+     "gloss": "in-foot-binding",
+     "grounds": "locative context of the distinction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast with prior case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bheditaḥ",
+     "gloss": "distinguished",
+     "grounds": "past participle indicating differentiation",
+     "morph": "m.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "By what name is the auspicious variant distinguished within the foot-binding structure?",
+   "premises": [
+    "The variant in question is characterized as auspicious.",
+    "It is identified by the specific name Śrīkāntaka.",
+    "This designation applies within the foot-binding context."
+   ],
+   "inference": "The auspicious variant in the foot-binding is designated Śrīkāntaka.",
+   "uncertainties": [
+    "The exact architectural referent of pādabandha in this passage is context-dependent."
+   ],
+   "plain_english": "But in the foot-binding, the auspicious form is distinguished by the name Śrīkāntaka."
+  }
+ ]
+}
