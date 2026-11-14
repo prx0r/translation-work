@@ -1,0 +1,1116 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2351,
+   "rows": [
+    {
+     "surface": "śālābhāge",
+     "gloss": "in-hall-section",
+     "grounds": "locative of placement area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tvalinde",
+     "gloss": "in-courtyard",
+     "grounds": "locative alternative placement area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthuvārāṃśake",
+     "gloss": "in-broad-enclosure-part",
+     "grounds": "locative of another placement area; compound",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which locations are permitted for placing the prescribed architectural element?",
+   "premises": [
+    "The hall section is a permitted location.",
+    "The courtyard is an alternative location.",
+    "A broad enclosure part is also permitted."
+   ],
+   "inference": "The element may be placed in the hall section, courtyard, or broad enclosure part.",
+   "uncertainties": [
+    "The specific element placed is implied from context."
+   ],
+   "plain_english": "It may be placed in the hall section, in the courtyard, or also in a broad part of the enclosure."
+  },
+  {
+   "verse": 2352,
+   "rows": [
+    {
+     "surface": "etāsāṃ",
+     "gloss": "of-these",
+     "grounds": "demonstrative referring to preceding garlands",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "mālikānāṃ",
+     "gloss": "of-garlands",
+     "grounds": "genitive specifying structures",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active, √kṛ"
+    },
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "locative of position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapam",
+     "gloss": "pavilion",
+     "grounds": "object to be constructed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What structure must be constructed in front of these garland arrangements?",
+   "premises": [
+    "The verse refers to these garlands.",
+    "A prescriptive action is enjoined.",
+    "The position specified is in front."
+   ],
+   "inference": "A pavilion should be made in front of these garlands.",
+   "uncertainties": [],
+   "plain_english": "In front of these garlands, one should make a pavilion."
+  },
+  {
+   "verse": 2353,
+   "rows": [
+    {
+     "surface": "āyāmaḥ",
+     "gloss": "length",
+     "grounds": "dimension of the structure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṃśavṛddhyā",
+     "gloss": "by-part-increase",
+     "grounds": "instrumental indicating proportional increase; compound",
+     "morph": "f.inst.sg, compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "width",
+     "grounds": "dimension of the structure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāsataḥ",
+     "gloss": "from-dwelling",
+     "grounds": "ablative indicating reference measure",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "samaḥ",
+     "gloss": "equal",
+     "grounds": "predicate of equality",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the length and width of the pavilion be proportioned relative to the dwelling?",
+   "premises": [
+    "The length increases by parts.",
+    "The width is measured from the dwelling.",
+    "The width is stated to be equal."
+   ],
+   "inference": "The length should increase by parts while the width remains equal to that of the dwelling.",
+   "uncertainties": [
+    "The exact unit of part increase is not specified."
+   ],
+   "plain_english": "Its length should increase by parts, but its width should be equal to that of the dwelling."
+  },
+  {
+   "verse": 2354,
+   "rows": [
+    {
+     "surface": "ekadvitritalopetaṃ",
+     "gloss": "with-one-two-three-stories",
+     "grounds": "compound describing number of stories",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "catuṣpañcatalaṃ",
+     "gloss": "four-five-storied",
+     "grounds": "compound describing alternative number of stories",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What range of story counts is permitted for the prescribed structure?",
+   "premises": [
+    "One, two, or three stories are mentioned.",
+    "Four or five stories are mentioned as alternatives.",
+    "Disjunctive particles indicate options."
+   ],
+   "inference": "The structure may have from one up to five stories.",
+   "uncertainties": [],
+   "plain_english": "It may have one, two, or three stories, or alternatively four or five stories."
+  },
+  {
+   "verse": 2355,
+   "rows": [
+    {
+     "surface": "evaṃbhūtasya",
+     "gloss": "of-such",
+     "grounds": "demonstrative qualifier of dwelling; compound",
+     "morph": "m.gen.sg, compound"
+    },
+    {
+     "surface": "vāsasya",
+     "gloss": "of-dwelling",
+     "grounds": "genitive specifying the dwelling",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samantāt",
+     "gloss": "all-around",
+     "grounds": "adverbial expression of surrounding position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "object to be arranged",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-extend",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active, √nī"
+    }
+   ],
+   "question": "Where should a pavilion be extended around a dwelling of this kind?",
+   "premises": [
+    "The dwelling is of the described kind.",
+    "The pavilion is the object to be arranged.",
+    "The position specified is all around."
+   ],
+   "inference": "A pavilion should be extended all around such a dwelling.",
+   "uncertainties": [],
+   "plain_english": "Around a dwelling of this kind, one should extend a pavilion on all sides."
+  },
+  {
+   "verse": 2356,
+   "rows": [
+    {
+     "surface": "pañcabhāgāvasānāntaṃ",
+     "gloss": "ending-at-five-parts",
+     "grounds": "compound indicating upper limit of parts",
+     "morph": "m.acc.sg, compound"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active, √kṛ"
+    },
+    {
+     "surface": "āvṛtamaṇḍapam",
+     "gloss": "enclosed-pavilion",
+     "grounds": "object to be constructed; compound",
+     "morph": "m.acc.sg, compound"
+    }
+   ],
+   "question": "What maximum extent in parts is prescribed for constructing an enclosed pavilion?",
+   "premises": [
+    "An enclosed pavilion is to be made.",
+    "The extent ends at five parts.",
+    "A prescriptive action is enjoined."
+   ],
+   "inference": "One should make an enclosed pavilion extending up to five parts.",
+   "uncertainties": [
+    "The base unit defining a part is not specified."
+   ],
+   "plain_english": "One should make an enclosed pavilion extending up to five parts."
+  },
+  {
+   "verse": 2357,
+   "rows": [
+    {
+     "surface": "pañcadaśakarāntaṃ",
+     "gloss": "ending-at-fifteen-cubits",
+     "grounds": "compound indicating upper limit in cubits",
+     "morph": "m.acc.sg, compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active, √kṛ"
+    },
+    {
+     "surface": "āvṛtamaṇḍapam",
+     "gloss": "enclosed-pavilion",
+     "grounds": "object to be constructed; compound",
+     "morph": "m.acc.sg, compound"
+    }
+   ],
+   "question": "What maximum extent in cubits is prescribed for constructing an enclosed pavilion?",
+   "premises": [
+    "An enclosed pavilion is to be made.",
+    "The extent ends at fifteen cubits.",
+    "A prescriptive action is enjoined."
+   ],
+   "inference": "One should make an enclosed pavilion extending up to fifteen cubits.",
+   "uncertainties": [],
+   "plain_english": "One should make an enclosed pavilion extending up to fifteen cubits."
+  },
+  {
+   "verse": 2358,
+   "rows": [
+    {
+     "surface": "vibhadrā",
+     "gloss": "vibhadra-type",
+     "grounds": "named type of garland arrangement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabhadrā",
+     "gloss": "sabhadra-type",
+     "grounds": "named type of garland arrangement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "f.nom.sg, gerundive, √kṛ"
+    },
+    {
+     "surface": "mālikā",
+     "gloss": "garland",
+     "grounds": "subject to be constructed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "agent of construction",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which types of garland arrangement should the wise construct?",
+   "premises": [
+    "The vibhadra type is mentioned as an option.",
+    "The sabhadra type is mentioned as an option.",
+    "The wise are the prescribed agents."
+   ],
+   "inference": "The wise should construct the garland arrangement as either vibhadra or sabhadra.",
+   "uncertainties": [
+    "The precise architectural distinction between vibhadra and sabhadra is not defined here."
+   ],
+   "plain_english": "The wise should make the garland arrangement either of the vibhadra type or of the sabhadra type."
+  },
+  {
+   "verse": 2359,
+   "rows": [
+    {
+     "surface": "pādabhāgavivṛddhyā",
+     "gloss": "by-foot-part-increase",
+     "grounds": "instrumental indicating incremental increase; compound",
+     "morph": "f.inst.sg, compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṣṭabhāgāvasānakam",
+     "gloss": "and-ending-at-eight-parts",
+     "grounds": "compound indicating upper limit of eight parts",
+     "morph": "n.acc.sg, compound"
+    }
+   ],
+   "question": "Up to what limit should the structure increase by foot-part increments?",
+   "premises": [
+    "Increase proceeds by foot parts.",
+    "An upper limit of eight parts is stated.",
+    "The statement continues the prescriptive measure."
+   ],
+   "inference": "The structure should increase by foot parts up to eight parts.",
+   "uncertainties": [
+    "The subject of increase is carried over from context."
+   ],
+   "plain_english": "It should increase by foot parts up to a limit of eight parts."
+  },
+  {
+   "verse": 2360,
+   "rows": [
+    {
+     "surface": "dviguṇāntaḥ",
+     "gloss": "ending-at-double",
+     "grounds": "compound indicating doubled limit",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "vidheyaḥ",
+     "gloss": "to-be-arranged",
+     "grounds": "prescriptive gerundive",
+     "morph": "m.nom.sg, gerundive, √vidhā"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative copula",
+     "morph": "3.sg.optative-active, √as"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative copula",
+     "morph": "3.sg.optative-active, √as"
+    },
+    {
+     "surface": "madhyavāraṇam",
+     "gloss": "middle-enclosure",
+     "grounds": "subject or result described; compound",
+     "morph": "n.nom.sg, compound"
+    }
+   ],
+   "question": "What proportional limit and resulting middle arrangement are prescribed in this rule?",
+   "premises": [
+    "The limit is to be arranged as double.",
+    "The arrangement is prescribed as thus.",
+    "A middle enclosure is stated to result."
+   ],
+   "inference": "It should be arranged up to double, and thus there should be a middle enclosure.",
+   "uncertainties": [
+    "The exact referent of madhyavāraṇam is context-dependent."
+   ],
+   "plain_english": "It should be arranged up to double, and thus there should be a middle enclosure."
+  },
+  {
+   "verse": 2361,
+   "rows": [
+    {
+     "surface": "evaṃbhūtasya",
+     "gloss": "of-such",
+     "grounds": "demonstrative qualifier of dwelling; compound",
+     "morph": "m.gen.sg, compound"
+    },
+    {
+     "surface": "vāsasya",
+     "gloss": "of-dwelling",
+     "grounds": "genitive specifying the dwelling",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samantāt",
+     "gloss": "all-around",
+     "grounds": "adverbial expression of surrounding position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative copula",
+     "morph": "3.sg.optative-active, √as"
+    },
+    {
+     "surface": "khalūrikā",
+     "gloss": "khalurika",
+     "grounds": "named architectural element",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What surrounding structure should be placed around a dwelling of this kind?",
+   "premises": [
+    "The dwelling is of the described kind.",
+    "The position specified is all around.",
+    "A khalurika is named as the element."
+   ],
+   "inference": "A khalurika should be placed all around such a dwelling.",
+   "uncertainties": [
+    "The precise form of a khalurika is not defined in this verse."
+   ],
+   "plain_english": "Around a dwelling of this kind, there should be a khalurika on all sides."
+  },
+  {
+   "verse": 2362,
+   "rows": [
+    {
+     "surface": "vṛdhyāṃ",
+     "gloss": "in-increase",
+     "grounds": "locative indicating condition of expansion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vāsasya",
+     "gloss": "of-dwelling",
+     "grounds": "genitive specifying the dwelling",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "locative indicating outer position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśāvadhibhāgakān",
+     "gloss": "up-to-sixteen-parts",
+     "grounds": "compound indicating maximum part count",
+     "morph": "m.acc.pl, compound"
+    }
+   ],
+   "question": "What outer part limit applies when the dwelling is increased in size?",
+   "premises": [
+    "The dwelling undergoes increase.",
+    "The measure applies on the outside.",
+    "A limit of sixteen parts is specified."
+   ],
+   "inference": "When the dwelling is increased, the outer measure may extend up to sixteen parts.",
+   "uncertainties": [
+    "The elements counted in parts are implied from context."
+   ],
+   "plain_english": "When the dwelling is enlarged, on the outside the measure may extend up to sixteen parts."
+  },
+  {
+   "verse": 2363,
+   "rows": [
+    {
+     "surface": "khalūrikāḥ",
+     "gloss": "khalurikas",
+     "grounds": "named architectural elements",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caikādisaptabhāgāvasānakāḥ",
+     "gloss": "ending-from-one-to-seven-parts",
+     "grounds": "compound indicating range of part limits",
+     "morph": "f.nom.pl, compound"
+    }
+   ],
+   "question": "What range of part limits is permitted for the khalurika elements?",
+   "premises": [
+    "Khalurikas are the subject.",
+    "A range from one to seven parts is specified.",
+    "The range marks the ending limit."
+   ],
+   "inference": "The khalurikas may extend from one up to seven parts.",
+   "uncertainties": [],
+   "plain_english": "The khalurikas may extend from one part up to seven parts."
+  },
+  {
+   "verse": 2364,
+   "rows": [
+    {
+     "surface": "ojoyugmapramāṇena",
+     "gloss": "by-odd-even-measure",
+     "grounds": "instrumental indicating numerical measure; compound",
+     "morph": "n.inst.sg, compound"
+    },
+    {
+     "surface": "nyūnā",
+     "gloss": "less",
+     "grounds": "predicate indicating deficiency",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikā",
+     "gloss": "more",
+     "grounds": "predicate indicating excess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may the measure vary in terms of odd-even count and deficiency or excess?",
+   "premises": [
+    "The measure may follow odd or even numbers.",
+    "The measure may be less.",
+    "The measure may be more."
+   ],
+   "inference": "By odd or even measure, the extent may be either less or more.",
+   "uncertainties": [
+    "The baseline from which it is less or more is not stated."
+   ],
+   "plain_english": "By odd or even measure, it may be less or it may be more."
+  },
+  {
+   "verse": 2365,
+   "rows": [
+    {
+     "surface": "etāsām",
+     "gloss": "of-these",
+     "grounds": "demonstrative referring to preceding elements",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "antarālaṃ",
+     "gloss": "interval",
+     "grounds": "space between elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "predicate of uniform spacing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣamaṃ",
+     "gloss": "unequal",
+     "grounds": "predicate of non-uniform spacing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What spacing options are permitted between these architectural elements?",
+   "premises": [
+    "The interval between these elements is under consideration.",
+    "Equal spacing is permitted.",
+    "Unequal spacing is permitted."
+   ],
+   "inference": "The interval between these elements may be equal or unequal.",
+   "uncertainties": [],
+   "plain_english": "The interval between these may be equal or unequal."
+  },
+  {
+   "verse": 2366,
+   "rows": [
+    {
+     "surface": "antarāle",
+     "gloss": "in-interval",
+     "grounds": "locative indicating interval position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "adverb indicating outer position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "more",
+     "grounds": "predicate indicating excess",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyūnam",
+     "gloss": "less",
+     "grounds": "predicate indicating deficiency",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may the measure vary in the interval or on the outside of the arrangement?",
+   "premises": [
+    "The interval and the outside are possible locations.",
+    "The measure may be more.",
+    "The measure may be less."
+   ],
+   "inference": "In the interval or outside, the measure may be more or less.",
+   "uncertainties": [],
+   "plain_english": "In the interval or outside, it may indeed be more or less."
+  },
+  {
+   "verse": 2367,
+   "rows": [
+    {
+     "surface": "mukhāyāma",
+     "gloss": "front-length",
+     "grounds": "compound indicating frontal dimension",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-front",
+     "grounds": "locative of frontal position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "at-sides",
+     "grounds": "locative of lateral positions",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "pṛṣṭhataḥ",
+     "gloss": "from-behind",
+     "grounds": "adverb indicating rear position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similar application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At which sides of the structure may the stated frontal measures be applied?",
+   "premises": [
+    "The front length or front is mentioned.",
+    "The two sides are mentioned.",
+    "The rear is mentioned likewise."
+   ],
+   "inference": "The stated measures may apply at the front, at the sides, and likewise at the rear.",
+   "uncertainties": [
+    "The exact grammatical relation of mukhāyāma is slightly compressed."
+   ],
+   "plain_english": "At the front length or in front, and also at the sides and likewise at the rear."
+  },
+  {
+   "verse": 2368,
+   "rows": [
+    {
+     "surface": "tatsarvam",
+     "gloss": "all-that",
+     "grounds": "compound referring to all preceding measures",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrāhyaṃ",
+     "gloss": "to-be-included",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg, gerundive, √grah"
+    },
+    {
+     "surface": "śālāmātraṃ",
+     "gloss": "hall-measure-only",
+     "grounds": "compound indicating restriction to hall measure",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative copula",
+     "morph": "3.sg.optative-active, √bhū"
+    }
+   ],
+   "question": "What scope of measures should be included in this architectural context?",
+   "premises": [
+    "All those measures are under consideration.",
+    "They are to be included here.",
+    "An alternative restriction to hall measure is given."
+   ],
+   "inference": "All those measures should be included here, or it may be only the hall measure.",
+   "uncertainties": [],
+   "plain_english": "All of that should be included here, or it may be only the measure of the hall."
+  },
+  {
+   "verse": 2369,
+   "rows": [
+    {
+     "surface": "khalūrikāvidhau",
+     "gloss": "in-khalurika-rule",
+     "grounds": "locative indicating procedural context; compound",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating prior statement",
+     "morph": "n.nom.sg, past-participle, √vac"
+    },
+    {
+     "surface": "sālaṃ",
+     "gloss": "hall",
+     "grounds": "subject previously declared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhayatra",
+     "gloss": "in-both-cases",
+     "grounds": "adverb indicating dual application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where was the hall measure previously declared to apply in the khalurika rule?",
+   "premises": [
+    "The context is the rule for khalurika.",
+    "The hall measure was declared there.",
+    "It applies in both cases."
+   ],
+   "inference": "In the rule for khalurika, the hall measure was declared to apply in both cases.",
+   "uncertainties": [
+    "The two cases referred to by ubhayatra are not specified in this verse."
+   ],
+   "plain_english": "In the rule for the khalurika, the hall measure was declared, and there it applies in both cases."
+  },
+  {
+   "verse": 2370,
+   "rows": [
+    {
+     "surface": "ṣaṭsaptabhāgaṃ",
+     "gloss": "six-seven-parts",
+     "grounds": "compound indicating division into six or seven parts",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-divided",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive, √kṛ"
+    },
+    {
+     "surface": "bahis",
+     "gloss": "outside",
+     "grounds": "adverb indicating outer part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "one part to be removed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyapohya",
+     "gloss": "having-removed",
+     "grounds": "absolutive indicating removal",
+     "morph": "absolutive, √vyapoh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What division and removal procedure is prescribed for the outer portion?",
+   "premises": [
+    "The whole is divided into six or seven parts.",
+    "One part outside is removed.",
+    "The actions are sequential."
+   ],
+   "inference": "One should divide into six or seven parts and remove one part on the outside.",
+   "uncertainties": [],
+   "plain_english": "Having divided it into six or seven parts, one should remove one part on the outside."
+  },
+  {
+   "verse": 2371,
+   "rows": [
+    {
+     "surface": "ekānekatalopetaṃ",
+     "gloss": "with-one-or-many-stories",
+     "grounds": "compound describing possible story counts",
+     "morph": "f.acc.sg, compound"
+    },
+    {
+     "surface": "mūlāyāmena",
+     "gloss": "by-base-length",
+     "grounds": "instrumental indicating reference length; compound",
+     "morph": "m.inst.sg, compound"
+    },
+    {
+     "surface": "bhūmikām",
+     "gloss": "floor",
+     "grounds": "object described or constructed",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the floor be determined in relation to base length and number of stories?",
+   "premises": [
+    "The floor may have one or many stories.",
+    "The base length is the reference measure.",
+    "The floor is the object specified."
+   ],
+   "inference": "The floor, with one or many stories, should be determined by the base length.",
+   "uncertainties": [
+    "The verb governing bhūmikām is carried over from context."
+   ],
+   "plain_english": "The floor, having one or many stories, should be made according to the base length."
+  },
+  {
+   "verse": 2372,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇṭapordhve",
+     "gloss": "above-pavilion",
+     "grounds": "locative indicating position above pavilion; compound",
+     "morph": "n.loc.sg, compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cūlīharmyavibhūṣitām",
+     "gloss": "adorned-with-crest-palace",
+     "grounds": "compound describing ornamentation",
+     "morph": "f.acc.sg, compound"
+    }
+   ],
+   "question": "What alternative ornamentation is permitted above the pavilion?",
+   "premises": [
+    "An alternative is introduced.",
+    "The position is above the pavilion.",
+    "Adornment with a crest palace is specified."
+   ],
+   "inference": "Alternatively, above the pavilion it may be adorned with a crest palace.",
+   "uncertainties": [
+    "The exact architectural form of cūlīharmya is not defined here."
+   ],
+   "plain_english": "Or else, above the pavilion, it may be adorned with a crest palace."
+  },
+  {
+   "verse": 2373,
+   "rows": [
+    {
+     "surface": "tadvardhitopapīṭhāṃ",
+     "gloss": "with-increased-sub-base",
+     "grounds": "compound describing enlarged sub-base",
+     "morph": "f.acc.sg, compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvardhitamasūrakām",
+     "gloss": "with-increased-masuraka",
+     "grounds": "compound describing enlarged masuraka element",
+     "morph": "f.acc.sg, compound"
+    }
+   ],
+   "question": "What alternative enlarged base elements may be used in the construction?",
+   "premises": [
+    "An increased sub-base is mentioned.",
+    "An increased masuraka is mentioned as an alternative.",
+    "Both describe enlarged elements."
+   ],
+   "inference": "The construction may have an increased sub-base or an increased masuraka.",
+   "uncertainties": [
+    "The precise meaning of masūraka in this architectural context is uncertain."
+   ],
+   "plain_english": "It may have an increased sub-base, or an increased masuraka."
+  },
+  {
+   "verse": 2374,
+   "rows": [
+    {
+     "surface": "mūladhāmatalot?tuṅgādhisṭhānatalasaṃyutām",
+     "gloss": "joined-with-base-floor-high-plinth-floor",
+     "grounds": "long compound describing joined floor and plinth elements; internal reading uncertain due to ? in token",
+     "morph": "f.acc.sg, compound"
+    }
+   ],
+   "question": "What combined base and floor features should characterize the described structure?",
+   "premises": [
+    "The token describes a joined structural configuration.",
+    "Base floor and plinth floor elements are indicated.",
+    "Height or elevation is indicated within the compound."
+   ],
+   "inference": "The structure should be joined with a base floor and an elevated plinth floor.",
+   "uncertainties": [
+    "The token contains '?' making the internal segmentation and exact reading uncertain.",
+    "The precise architectural referent of the compound members is unclear."
+   ],
+   "plain_english": "It should be joined with a base floor and an elevated plinth floor."
+  }
+ ]
+}

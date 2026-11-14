@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p95",
  "verse": 2359,
- "question": "Until what condition do cooked food and rice pudding remain acceptable offerings?",
+ "question": "Up to what limit should the structure increase by foot-part increments?",
  "premises": [
-  "Cooked food is mentioned.",
-  "Rice pudding is mentioned likewise.",
-  "The limiting condition is that they remain hot."
+  "Increase proceeds by foot parts.",
+  "An upper limit of eight parts is stated.",
+  "The statement continues the prescriptive measure."
  ],
- "inference": "Cooked food and rice pudding are acceptable only as long as they remain hot.",
- "uncertainties": [],
- "plain_english": "Cooked food and likewise rice pudding remain acceptable as long as they are hot."
+ "inference": "The structure should increase by foot parts up to eight parts.",
+ "uncertainties": [
+  "The subject of increase is carried over from context."
+ ],
+ "plain_english": "It should increase by foot parts up to a limit of eight parts."
 }

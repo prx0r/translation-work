@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2387,
- "question": "Which hostile beings are absent where the diagram is placed?",
+ "question": "Where should the house of the chief queen be placed within the layout?",
  "premises": [
-  "piśācā means goblins",
-  "rākṣasāḥ means demons",
-  "kṛtyā means witchcrafts"
+  "The house of the chief queen is specified.",
+  "The left side is given as its location."
  ],
- "inference": "Goblins, demons, witchcrafts, and vampires are not there indeed.",
+ "inference": "The house of the chief queen should be placed on the left side.",
  "uncertainties": [
-  "whether this is a protective claim or observation"
+  "The reference point for left side is not explicitly stated."
  ],
- "plain_english": "Goblins, demons, witchcrafts, and vampires are not there indeed."
+ "plain_english": "One should place the house of the chief queen on the left side."
 }

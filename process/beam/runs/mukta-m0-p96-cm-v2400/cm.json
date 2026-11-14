@@ -3,29 +3,34 @@
  "verse": 2400,
  "rows": [
   {
-   "lemma": "samareṣu",
-   "morph": "loc.pl.m",
-   "grounds": "locative plural of samara (battle)"
+   "lemma": "chinne",
+   "morph": "ppp.loc.sg.n(chid)",
+   "grounds": "locative singular neuter past participle of chid, describing a damaged condition of the house"
   },
   {
-   "lemma": "mahīpānāṃ",
-   "morph": "gen.pl.m",
-   "grounds": "genitive plural of mahīpa (king)"
+   "lemma": "bhinne",
+   "morph": "ppp.loc.sg.n(bhid)",
+   "grounds": "locative singular neuter past participle of bhid, describing a damaged condition of the house"
   },
   {
-   "lemma": "yantram",
-   "morph": "acc.sg.n",
-   "grounds": "accusative singular of yantra (diagram)"
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable particle extending the list of conditions"
   },
   {
-   "lemma": "etat",
-   "morph": "nom/acc.sg.n",
-   "grounds": "demonstrative pronoun neuter singular"
+   "lemma": "naṣṭe",
+   "morph": "ppp.loc.sg.n(naś)",
+   "grounds": "locative singular neuter past participle of naś, describing a ruined condition of the house"
   },
   {
-   "lemma": "udīritam",
-   "morph": "nom/acc.sg.n-part",
-   "grounds": "past passive participle of ud-īr (declare)"
+   "lemma": "namite'bhimate",
+   "morph": "ppp.loc.sg.n(nam)+ppp.loc.sg.n(abhi-man)",
+   "grounds": "fused form with avagraha marking sandhi: namite (locative singular neuter past participle of nam, bent) + abhimate (locative singular neuter past participle of abhi-man, regarded/considered); exact paired sense in this defective-house context is uncertain"
+  },
+  {
+   "lemma": "gṛhe",
+   "morph": "n.loc.sg.n",
+   "grounds": "locative singular neuter noun, the locus to which the listed conditions apply"
   }
  ]
 }
