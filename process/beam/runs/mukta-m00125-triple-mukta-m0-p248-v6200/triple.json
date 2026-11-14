@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p248",
+ "items": [
+  {
+   "verse": 6200,
+   "rows": [
+    {
+     "surface": "tanmūle",
+     "gloss": "at-its-root",
+     "grounds": "locative of base point; tat refers to previously mentioned locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caṇḍārājaṃ",
+     "gloss": "Caṇḍarāja",
+     "grounds": "name of deity to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmīṃ",
+     "gloss": "Lakṣmī",
+     "grounds": "name of goddess to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrvadalāgrake",
+     "gloss": "at-eastern-petal-tip",
+     "grounds": "locative of placement; compound pūrva-dala-agra-ka",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where must Caṇḍarāja and Lakṣmī be installed at the base and eastern petal tip?",
+   "premises": [
+    "Caṇḍarāja is to be placed at its root.",
+    "Lakṣmī is to be placed at the tip of the eastern petal.",
+    "The particle ca links both placements within the same instruction."
+   ],
+   "inference": "Caṇḍarāja and Lakṣmī are assigned distinct locations in the prescribed arrangement.",
+   "uncertainties": [
+    "The antecedent of tat in tanmūle is inferred from the preceding context."
+   ],
+   "plain_english": "And at its root one should place Caṇḍarāja, and Lakṣmī at the tip of the eastern petal."
+  }
+ ]
+}
