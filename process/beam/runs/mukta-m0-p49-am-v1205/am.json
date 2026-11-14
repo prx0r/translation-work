@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p49",
  "verse": 1205,
- "question": "Which sectarian marks are prescribed for the brahmin and the warrior respectively?",
+ "question": "What specific height and platform proportions are prescribed here?",
  "premises": [
-  "Different marks are assigned to different classes.",
-  "The brahmin is associated with a vertical mark.",
-  "The warrior is associated with a triple mark."
+  "A height of a quarter part is given.",
+  "A measure of four and a half parts is specified.",
+  "The platform is two parts less a quarter."
  ],
- "inference": "The brahmin should wear the vertical mark and the warrior the triple mark.",
- "uncertainties": [],
- "plain_english": "For a brahmin there should be the vertical mark, and for a warrior the triple mark."
+ "inference": "The prescribed proportions include a quarter-part height, four and a half parts, and a platform of one and three-quarter parts.",
+ "uncertainties": [
+  "The exact assignment of each measure to architectural members is ambiguous."
+ ],
+ "plain_english": "The height is a quarter part, another measure is four and a half parts, and the platform is one and three-quarter parts."
 }

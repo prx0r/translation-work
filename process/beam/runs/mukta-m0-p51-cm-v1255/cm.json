@@ -3,39 +3,34 @@
  "verse": 1255,
  "rows": [
   {
-   "lemma": "tathā",
+   "lemma": "tadeva",
+   "morph": "compound",
+   "grounds": "compound: tad+eva"
+  },
+  {
+   "lemma": "kūṭakoṣṭhaṃ",
+   "morph": "compound",
+   "grounds": "compound: kūṭa+koṣṭha"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "continues the sequence"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "indra",
-   "morph": "indra+ādīn (compound)",
-   "grounds": "first in a list"
+   "lemma": "samaṃcaṃ",
+   "morph": "compound",
+   "grounds": "compound: sama+añca"
   },
   {
-   "lemma": "ādīn",
-   "morph": "m.acc.pl",
-   "grounds": "indicates additional deities"
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "alternative particle"
   },
   {
-   "lemma": "dhyātvā",
-   "morph": "(gerund) √dhyai",
-   "grounds": "mental act"
-  },
-  {
-   "lemma": "sūrya",
-   "morph": "sūrya+ananya (compound)",
-   "grounds": "object of focused mind"
-  },
-  {
-   "lemma": "ananya",
-   "morph": "ananya+dhīḥ (compound)",
-   "grounds": "single-pointed focus"
-  },
-  {
-   "lemma": "dhīḥ",
-   "morph": "f.nom.sg",
-   "grounds": "state of the practitioner"
+   "lemma": "vimaṃcakam",
+   "morph": "compound",
+   "grounds": "compound: vi+añcaka"
   }
  ]
 }

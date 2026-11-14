@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p51",
  "verse": 1271,
- "question": "After completing the western door worship, which other doors must be worshipped in the same manner?",
+ "question": "What length and interval measures apply to the cell unit?",
  "premises": [
-  "The northern door is to be worshipped.",
-  "The eastern and southern locations are also included.",
-  "The worship follows the same manner."
+  "The cell is assigned a length",
+  "Its length is double its measure",
+  "The gallery interval is half a part"
  ],
- "inference": "Having worshipped thus, one should worship the northern, eastern, and southern doors.",
- "uncertainties": [],
- "plain_english": "Having worshipped thus, one should worship the northern door, and also in the east and south."
+ "inference": "The cell should have double length and the gallery interval should be half a part.",
+ "uncertainties": [
+  "Surface 'hārayontaram' appears to be a sandhi/textual form for 'hārāntaram'"
+ ],
+ "plain_english": "The cell should be twice as long, and the gallery interval should be half a part."
 }

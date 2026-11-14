@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1228,
- "question": "What quality characterizes the remaining substance used in the next ritual step?",
+ "question": "How are the wall, portico, and Śiva portion allotted in parts?",
  "premises": [
-  "Something remains after the prior act",
-  "That remainder has the form of light",
-  "That luminous remainder is to be used"
+  "The wall takes one part.",
+  "The portico should be made with one part.",
+  "A Śiva-part is included in the allotment."
  ],
- "inference": "The remaining substance, indeed having the form of light, is employed in the procedure.",
- "uncertainties": [],
- "plain_english": "Indeed, with that remaining substance, which has the form of light."
+ "inference": "The layout assigns one part each to the wall and portico along with a Śiva-part.",
+ "uncertainties": [
+  "The exact syntactic role of śivāṃśakam in this allotment is unclear."
+ ],
+ "plain_english": "The wall is one part, the portico should be made one part, and there is a Śiva-part."
 }

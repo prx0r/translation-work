@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1237,
- "question": "What action should follow after completing the compensatory recitation?",
+ "question": "What proportions and elements define the gallery interval in this case?",
  "premises": [
-  "The compensatory recitation has been done",
-  "A tantric rite remains to be performed",
-  "The sequence moves from compensation to performance"
+  "The gallery interval involves a half part.",
+  "Another half part is joined with a hanging cage."
  ],
- "inference": "Having done that, one should then perform the tantric rite.",
- "uncertainties": [],
- "plain_english": "Having done that, one should then perform the tantric rite."
+ "inference": "The gallery interval is arranged with half-part measures including a hanging cage.",
+ "uncertainties": [
+  "The tokenization and exact division of hārāntaramathārdhāṃśaṃ is ambiguous."
+ ],
+ "plain_english": "The gallery interval is a half part, and a half part is joined with a hanging cage."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p49",
  "verse": 1212,
- "question": "How should the prepared cow-dung be offered into the Shiva-fire with mantra?",
+ "question": "What head and corner configuration is indicated despite textual damage?",
  "premises": [
-  "The collected material is first formed into a ball.",
-  "It is then cast into the Shiva-fire.",
-  "The casting is done with the root mantra."
+  "The same head and corner are mentioned.",
+  "Part of the text is missing.",
+  "The remaining text indicates extension to the platform."
  ],
- "inference": "Having made it into a ball, one should cast it into the Shiva-fire with the root mantra.",
- "uncertainties": [],
- "plain_english": "Having made it into a ball, one should cast it into the Shiva-fire with the root mantra."
+ "inference": "The head and corner configuration extends to the platform, though details are lost.",
+ "uncertainties": [
+  "Text is lacunose at the fourth and fifth tokens.",
+  "The full description of the configuration cannot be recovered."
+ ],
+ "plain_english": "That same head and corner are described as extending to the platform, but part of the text is missing."
 }
