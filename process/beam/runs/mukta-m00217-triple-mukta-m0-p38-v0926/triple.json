@@ -1,0 +1,983 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 926,
+   "rows": [
+    {
+     "surface": "jīve",
+     "gloss": "in-jupiter",
+     "grounds": "locative of jīva as planetary name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "purāṇaṃ",
+     "gloss": "ancient-one",
+     "grounds": "object assigned to jīva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śukre",
+     "gloss": "in-venus",
+     "grounds": "locative of śukra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svaraṃ",
+     "gloss": "sound",
+     "grounds": "object assigned to śukra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rāhau",
+     "gloss": "in-rahu",
+     "grounds": "locative of rāhu",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaraṃ",
+     "gloss": "arrow",
+     "grounds": "object assigned to rāhu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which symbolic elements are assigned to Jupiter, Venus, and Rahu in this placement sequence?",
+   "premises": [
+    "Jupiter receives the ancient-one as its assigned element.",
+    "Venus receives sound as its assigned element.",
+    "Rahu receives the arrow as its assigned element."
+   ],
+   "inference": "The verse specifies distinct symbolic assignments for Jupiter, Venus, and Rahu within the ritual diagram.",
+   "uncertainties": [
+    "The exact ritual referent of purāṇaṃ is not explicit."
+   ],
+   "plain_english": "In Jupiter place the ancient one, in Venus place sound, and in Rahu place the arrow again."
+  },
+  {
+   "verse": 927,
+   "rows": [
+    {
+     "surface": "rekhāyugmaṃ",
+     "gloss": "pair-of-lines",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaniṃ",
+     "gloss": "saturn",
+     "grounds": "planetary element to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sūryāt",
+     "gloss": "from-sun",
+     "grounds": "starting point of placement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dharāvṛtte",
+     "gloss": "in-earth-rotation",
+     "grounds": "locative context for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-place",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.act √ni-yuj"
+    }
+   ],
+   "question": "How should the pair of lines and Saturn be positioned starting from the Sun?",
+   "premises": [
+    "A pair of lines is to be placed.",
+    "Saturn is to be placed in relation to the Sun.",
+    "The placement occurs in the context of the earth's rotation."
+   ],
+   "inference": "The practitioner must place the pair of lines and Saturn beginning from the Sun within the earth-rotation context.",
+   "uncertainties": [
+    "The precise technical meaning of dharāvṛtte is unclear."
+   ],
+   "plain_english": "One should place the pair of lines and Saturn starting from the Sun in the turning of the earth."
+  },
+  {
+   "verse": 928,
+   "rows": [
+    {
+     "surface": "candrāt",
+     "gloss": "from-moon",
+     "grounds": "starting point for ketu",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ketuṃ",
+     "gloss": "ketu",
+     "grounds": "object to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kaveḥ",
+     "gloss": "from-venus",
+     "grounds": "starting point for soma",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "somaṃ",
+     "gloss": "soma",
+     "grounds": "object to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "budhāt",
+     "gloss": "from-mercury",
+     "grounds": "starting point for rahu",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "rāhuṃ",
+     "gloss": "rahu",
+     "grounds": "object to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "from-jupiter",
+     "grounds": "starting point for mars",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kujam",
+     "gloss": "mars",
+     "grounds": "object to be placed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which planetary placements are prescribed relative to the Moon, Venus, Mercury, and Jupiter?",
+   "premises": [
+    "Ketu is placed from the Moon.",
+    "Soma is placed from Venus.",
+    "Rahu is placed from Mercury and Mars from Jupiter."
+   ],
+   "inference": "The verse continues the placement sequence by assigning Ketu, Soma, Rahu, and Mars relative to other planets.",
+   "uncertainties": [
+    "The distinction between soma and candrāt in this context is not fully explicit."
+   ],
+   "plain_english": "From the Moon place Ketu, from Venus place Soma, from Mercury place Rahu, and from Jupiter place Mars."
+  },
+  {
+   "verse": 929,
+   "rows": [
+    {
+     "surface": "aṣṭāṣṭāṃgulamānena",
+     "gloss": "by-eight-eight-finger-measure",
+     "grounds": "instrumental measure for drawing",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "location of drawing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakratrayaṃ",
+     "gloss": "three-circles",
+     "grounds": "object to be drawn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-draw",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.act √likh"
+    }
+   ],
+   "question": "What outer circular structure must be drawn and by what measurement?",
+   "premises": [
+    "Three circles are to be drawn.",
+    "The drawing is done outside.",
+    "The measure is eight and eight finger-widths."
+   ],
+   "inference": "The practitioner should draw three outer circles using a measure of eight and eight finger-widths.",
+   "uncertainties": [
+    "Whether aṣṭāṣṭāṃgula indicates successive or total measures is ambiguous."
+   ],
+   "plain_english": "One should draw three circles outside, using a measure of eight and eight finger-widths."
+  },
+  {
+   "verse": 930,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference to the drawn circles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "manner of drawing",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "madhyayonistiryagrekhāḥ",
+     "gloss": "middle-source-transverse-lines",
+     "grounds": "lines to be drawn; compound",
+     "morph": "f.nom.pl (compound: madhya-yoni-tiryak-rekhā)"
+    },
+    {
+     "surface": "samantataḥ",
+     "gloss": "on-all-sides",
+     "grounds": "extent of drawing",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and how should the transverse lines from the middle source be drawn?",
+   "premises": [
+    "The action takes place there in the drawn structure.",
+    "Transverse lines from the middle source are required.",
+    "They are to be drawn in order on all sides."
+   ],
+   "inference": "Transverse lines originating from the middle source must be drawn in sequence all around within that structure.",
+   "uncertainties": [
+    "The exact geometric meaning of madhyayoni is not fully specified."
+   ],
+   "plain_english": "There, in order, one should draw transverse lines from the middle source on all sides."
+  },
+  {
+   "verse": 931,
+   "rows": [
+    {
+     "surface": "sampradāyaviśeṣaṇa",
+     "gloss": "by-tradition-distinction",
+     "grounds": "instrumental qualifier; compound",
+     "morph": "n.ins.sg (compound: sampradāya-viśeṣaṇa)"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "earth",
+     "grounds": "element or ground referenced",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśvakalāśraye",
+     "gloss": "in-all-arts-abode",
+     "grounds": "locative description; compound",
+     "morph": "m.loc.sg (compound: viśva-kalā-āśraya)"
+    }
+   ],
+   "question": "What traditional and cosmic context frames the diagram being constructed?",
+   "premises": [
+    "A distinction of tradition is invoked.",
+    "The earth is named in this context.",
+    "The locus is described as the abode of all arts."
+   ],
+   "inference": "The construction is framed by traditional distinction and situated in the earth as the abode of all arts.",
+   "uncertainties": [
+    "The syntactic role of kṣamā in this fragmentary verse is uncertain."
+   ],
+   "plain_english": "By distinction of tradition, in the earth, the abode of all arts."
+  },
+  {
+   "verse": 932,
+   "rows": [
+    {
+     "surface": "cakrarājamidaṃ",
+     "gloss": "this-circle-king",
+     "grounds": "subject of declaration; compound with demonstrative",
+     "morph": "n.nom.sg (compound: cakra-rāja + idam)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "predicate describing the diagram",
+     "morph": "n.nom.sg (past-participle √pra-vac)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location of adornment",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "binduvibhūṣitam",
+     "gloss": "adorned-with-bindu",
+     "grounds": "descriptive attribute; compound",
+     "morph": "n.nom.sg (compound: bindu-vibhūṣita)"
+    }
+   ],
+   "question": "How is this supreme circle diagram characterized and adorned?",
+   "premises": [
+    "This diagram is called the king of circles.",
+    "It is declared as such in the teaching.",
+    "It is adorned with a bindu in the middle."
+   ],
+   "inference": "The constructed figure is identified as the supreme circle, distinguished by a central bindu.",
+   "uncertainties": [],
+   "plain_english": "This is declared the king of circles, adorned with a bindu in the middle."
+  },
+  {
+   "verse": 933,
+   "rows": [
+    {
+     "surface": "sindūrarajasā",
+     "gloss": "with-vermilion-powder",
+     "grounds": "material used for drawing",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "surface for drawing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "likhitvā",
+     "gloss": "having-drawn",
+     "grounds": "prior action",
+     "morph": "(gerund √likh)"
+    },
+    {
+     "surface": "cakramarcayet",
+     "gloss": "one-should-worship-circle",
+     "grounds": "main ritual instruction",
+     "morph": "3.sg.opt.act √arc"
+    }
+   ],
+   "question": "What materials and actions are required to draw and worship the circle?",
+   "premises": [
+    "The circle is drawn with vermilion powder.",
+    "The drawing is made on the ground.",
+    "After drawing, the circle is to be worshipped."
+   ],
+   "inference": "The ritual requires drawing the circle on the ground with vermilion powder and then worshipping it.",
+   "uncertainties": [],
+   "plain_english": "Having drawn the circle on the ground with vermilion powder, one should worship the circle."
+  },
+  {
+   "verse": 934,
+   "rows": [
+    {
+     "surface": "pramṛjya",
+     "gloss": "having-wiped",
+     "grounds": "prior preparatory action",
+     "morph": "(gerund √pra-mṛj)"
+    },
+    {
+     "surface": "tiryaṅmadhyasthaṃ",
+     "gloss": "placed-in-transverse-middle",
+     "grounds": "description of the thread; compound",
+     "morph": "n.acc.sg (compound: tiryak-madhya-stha)"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "object to be dropped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tiryaṅ",
+     "gloss": "transversely",
+     "grounds": "direction of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nipātayet",
+     "gloss": "one-should-lay-down",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.caus.act √ni-pat"
+    }
+   ],
+   "question": "What preparatory adjustment must be made to the transverse middle thread?",
+   "premises": [
+    "A wiping action is performed first.",
+    "The thread placed in the transverse middle is involved.",
+    "The thread must be laid down transversely."
+   ],
+   "inference": "After wiping, the practitioner should lay the transverse middle thread down transversely.",
+   "uncertainties": [
+    "The exact object being wiped is not specified."
+   ],
+   "plain_english": "Having wiped, one should lay down transversely the thread placed in the transverse middle."
+  },
+  {
+   "verse": 935,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "prior action",
+     "morph": "(gerund √vi-dhā)"
+    },
+    {
+     "surface": "taddvayorantān",
+     "gloss": "ends-of-those-two",
+     "grounds": "reference points; compound",
+     "morph": "m.acc.pl (compound: tad-dvaya-anta)"
+    },
+    {
+     "surface": "madhyasūtrāntataḥ",
+     "gloss": "from-middle-thread-end",
+     "grounds": "starting reference; compound",
+     "morph": "m.abl.sg (compound: madhya-sūtra-anta)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "manner of procedure",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From what reference point should the ends of those two be established in sequence?",
+   "premises": [
+    "An initial arrangement is made.",
+    "The ends of those two are the targets.",
+    "The procedure proceeds from the end of the middle thread in order."
+   ],
+   "inference": "After making the arrangement, one should proceed in order from the end of the middle thread to the ends of those two.",
+   "uncertainties": [
+    "The identity of those two referents is not explicit in this verse."
+   ],
+   "plain_english": "Having made the arrangement, proceed in order from the end of the middle thread to the ends of those two."
+  },
+  {
+   "verse": 936,
+   "rows": [
+    {
+     "surface": "dvyaṣṭāgrataḥ",
+     "gloss": "from-two-eight-points",
+     "grounds": "starting points; compound",
+     "morph": "(indecl.) (compound: dvi-aṣṭa-agra)"
+    },
+    {
+     "surface": "samārambhān",
+     "gloss": "beginnings",
+     "grounds": "points of commencement",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "navamaprathamāntarā",
+     "gloss": "between-ninth-and-first",
+     "grounds": "interval specification; compound",
+     "morph": "n.nom.pl (compound: navama-prathama-antara)"
+    }
+   ],
+   "question": "Which intervals and starting points define the next stage of the line construction?",
+   "premises": [
+    "Beginnings are taken from the two and eight points.",
+    "The interval is between the ninth and the first.",
+    "These define the construction step."
+   ],
+   "inference": "The construction proceeds from the two and eight points with intervals between the ninth and first.",
+   "uncertainties": [
+    "The counting system for these points is not fully explained."
+   ],
+   "plain_english": "From the two and eight points as beginnings, in the interval between the ninth and the first."
+  },
+  {
+   "verse": 937,
+   "rows": [
+    {
+     "surface": "navamaprathamāgrābhyāṃ",
+     "gloss": "from-ninth-and-first-points",
+     "grounds": "dual starting points; compound",
+     "morph": "n.abl.du (compound: navama-prathama-agra)"
+    },
+    {
+     "surface": "turyasaptamakāvadhi",
+     "gloss": "up-to-fourth-and-seventh",
+     "grounds": "limit of extension; compound",
+     "morph": "n.acc.sg (compound: turya-saptamaka-avadhi)"
+    }
+   ],
+   "question": "What limits are set for lines drawn from the ninth and first points?",
+   "premises": [
+    "Lines start from the ninth and first points.",
+    "Their extent reaches the fourth and seventh.",
+    "These points define the boundary."
+   ],
+   "inference": "Lines drawn from the ninth and first points extend up to the fourth and seventh.",
+   "uncertainties": [
+    "The geometric orientation of these numbered points is unclear."
+   ],
+   "plain_english": "From the ninth and first points, extending up to the fourth and seventh."
+  },
+  {
+   "verse": 938,
+   "rows": [
+    {
+     "surface": "tataścaturthaṣaṣṭhāntadvayārambhāt",
+     "gloss": "then-from-fourth-sixth-end-pair-beginning",
+     "grounds": "starting point for next step; compound",
+     "morph": "m.abl.sg (compound: tataḥ-caturtha-ṣaṣṭha-anta-dvaya-ārambha)"
+    },
+    {
+     "surface": "tathāṣṭagam",
+     "gloss": "likewise-reaching-eighth",
+     "grounds": "extent of the line; compound",
+     "morph": "n.acc.sg (compound: tathā-aṣṭa-ga)"
+    }
+   ],
+   "question": "What further line is drawn from the fourth and sixth end-pair beginning?",
+   "premises": [
+    "The next step begins from the fourth and sixth end-pair.",
+    "The line likewise reaches the eighth.",
+    "This continues the construction sequence."
+   ],
+   "inference": "From the beginning at the fourth and sixth end-pair, a line is drawn likewise reaching the eighth.",
+   "uncertainties": [
+    "The exact path of the line to the eighth is not specified."
+   ],
+   "plain_english": "Then, beginning from the pair at the fourth and sixth ends, likewise reaching the eighth."
+  },
+  {
+   "verse": 939,
+   "rows": [
+    {
+     "surface": "caturmarmānuguṇyena",
+     "gloss": "in-conformity-with-four-vital-points",
+     "grounds": "guiding principle; compound",
+     "morph": "n.ins.sg (compound: catur-marma-anuguṇya)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamakāntayoḥ",
+     "gloss": "at-fifth-end-points",
+     "grounds": "location of action; compound",
+     "morph": "m.loc.du (compound: pañcamaka-anta)"
+    }
+   ],
+   "question": "According to what principle should the fifth end-points be treated next?",
+   "premises": [
+    "The procedure follows conformity with four vital points.",
+    "The next action concerns the fifth end-points.",
+    "This step comes in sequence."
+   ],
+   "inference": "In conformity with the four vital points, the next step is performed at the fifth end-points.",
+   "uncertainties": [
+    "The specific action at the fifth end-points is completed in the next verse."
+   ],
+   "plain_english": "Then, in conformity with the four vital points, at the two fifth end-points."
+  },
+  {
+   "verse": 940,
+   "rows": [
+    {
+     "surface": "mārjayet",
+     "gloss": "one-should-wipe-away",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.caus.act √mṛj"
+    },
+    {
+     "surface": "madhyagaṃ",
+     "gloss": "middle-going",
+     "grounds": "description of the thread; compound",
+     "morph": "n.acc.sg (compound: madhya-ga)"
+    },
+    {
+     "surface": "brahmasūtraṃ",
+     "gloss": "central-thread",
+     "grounds": "object to be wiped; compound",
+     "morph": "n.acc.sg (compound: brahma-sūtra)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "it-should-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "cakramuttamam",
+     "gloss": "supreme-circle",
+     "grounds": "resulting diagram; compound",
+     "morph": "n.nom.sg (compound: cakra-uttama)"
+    }
+   ],
+   "question": "What final adjustment produces the supreme circle diagram?",
+   "premises": [
+    "The middle-going central thread must be wiped away.",
+    "This action completes the construction.",
+    "The result is the supreme circle."
+   ],
+   "inference": "By wiping away the central thread, the diagram becomes the supreme circle.",
+   "uncertainties": [],
+   "plain_english": "One should wipe away the central thread in the middle; then it becomes the supreme circle."
+  },
+  {
+   "verse": 941,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "prior action",
+     "morph": "(gerund √vi-dhā)"
+    },
+    {
+     "surface": "ṣaḍbhirvṛttaiḥ",
+     "gloss": "with-six-circles",
+     "grounds": "instrumental means; compound in sandhi",
+     "morph": "n.ins.pl (compound: ṣaṣ-vṛtta)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturasraṃ",
+     "gloss": "square",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭabhiḥ",
+     "gloss": "with-eight",
+     "grounds": "instrumental means",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What additional geometric forms are constructed using six circles and eight elements?",
+   "premises": [
+    "A construction is made with six circles.",
+    "A square is formed.",
+    "Eight elements are likewise used."
+   ],
+   "inference": "The diagram is further developed by forming a square with six circles and likewise using eight elements.",
+   "uncertainties": [
+    "The exact referent of aṣṭabhiḥ is not specified."
+   ],
+   "plain_english": "Having made it with six circles, and likewise a square with eight."
+  },
+  {
+   "verse": 942,
+   "rows": [
+    {
+     "surface": "dakṣiṇottarataḥ",
+     "gloss": "from-south-and-north",
+     "grounds": "directional reference; compound",
+     "morph": "(indecl.) (compound: dakṣiṇa-uttara-tas)"
+    },
+    {
+     "surface": "rekhātrayāt",
+     "gloss": "from-three-lines",
+     "grounds": "source structure; compound",
+     "morph": "n.abl.sg (compound: rekhā-traya)"
+    },
+    {
+     "surface": "sthānadvayaṃ",
+     "gloss": "two-places",
+     "grounds": "object to be formed; compound",
+     "morph": "n.acc.sg (compound: sthāna-dvaya)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are two places derived from the three lines on the south and north sides?",
+   "premises": [
+    "The reference is from south and north.",
+    "Three lines are involved.",
+    "Two places are to be made likewise."
+   ],
+   "inference": "From the three lines on the south and north sides, two places are likewise formed.",
+   "uncertainties": [
+    "The method of deriving two places from three lines is implicit."
+   ],
+   "plain_english": "Likewise, from the three lines on the south and north, make two places."
+  },
+  {
+   "verse": 943,
+   "rows": [
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two-parts",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "number of divisions",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "padāni",
+     "gloss": "sections",
+     "grounds": "objects formed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many sections must be formed by dividing the structure, as addressed to the supreme goddess?",
+   "premises": [
+    "The structure is to be divided in two parts.",
+    "Four sections are to be made.",
+    "The instruction is addressed to the supreme goddess."
+   ],
+   "inference": "The practitioner should divide the structure to form four sections, as instructed to the supreme goddess.",
+   "uncertainties": [
+    "The relation between dividing in two and making four sections is compressed."
+   ],
+   "plain_english": "O supreme goddess, one should divide it in two and make four sections."
+  },
+  {
+   "verse": 944,
+   "rows": [
+    {
+     "surface": "śaraṇakoṇāḥ",
+     "gloss": "refuge-corners",
+     "grounds": "corners of the diagram; compound",
+     "morph": "m.nom.pl (compound: śaraṇa-koṇa)"
+    },
+    {
+     "surface": "pariṇatāḥ",
+     "gloss": "rounded",
+     "grounds": "description of the corners",
+     "morph": "m.nom.pl (past-participle √pari-nam)"
+    }
+   ],
+   "question": "What shape should the refuge corners of the diagram take?",
+   "premises": [
+    "The diagram has refuge corners.",
+    "These corners are described as rounded.",
+    "This specifies their final form."
+   ],
+   "inference": "The refuge corners of the diagram must be made rounded.",
+   "uncertainties": [
+    "The technical meaning of śaraṇa in this geometric context is uncertain."
+   ],
+   "plain_english": "The refuge corners are rounded."
+  },
+  {
+   "verse": 945,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number of elements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "demonstrative reference",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāktāni",
+     "gloss": "belonging-to-shakti",
+     "grounds": "classification of the five",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "māyādīni",
+     "gloss": "beginning-with-maya",
+     "grounds": "identification of the group; compound",
+     "morph": "n.nom.pl (compound: māyā-ādi)"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-shiva",
+     "grounds": "possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which five principles are identified as belonging to Shakti in relation to Shiva?",
+   "premises": [
+    "There are five elements referred to.",
+    "They are classified as belonging to Shakti.",
+    "They begin with maya and are related to Shiva."
+   ],
+   "inference": "The five principles beginning with maya are identified as Shakti's, in relation to Shiva.",
+   "uncertainties": [
+    "The full list of the five is not enumerated in this verse."
+   ],
+   "plain_english": "Those five, belonging to Shakti and beginning with maya, are of Shiva."
+  },
+  {
+   "verse": 946,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatitatvāni",
+     "gloss": "twenty-five-principles",
+     "grounds": "subject included; compound",
+     "morph": "n.nom.pl (compound: pañcaviṃśati-tattva)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "locative emphasis; compound with particle",
+     "morph": "(indecl.) (compound: tatra-eva)"
+    },
+    {
+     "surface": "antarbhavanti",
+     "gloss": "are-included",
+     "grounds": "predicate of inclusion",
+     "morph": "3.pl.pres.act √antar-bhū"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "subject pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where are the twenty-five principles said to be included within this diagram?",
+   "premises": [
+    "The twenty-five principles are named.",
+    "They are included in that very place.",
+    "The inclusion is stated as a fact."
+   ],
+   "inference": "The twenty-five principles are contained within that same diagrammatic locus.",
+   "uncertainties": [],
+   "plain_english": "Those twenty-five principles are indeed included there."
+  },
+  {
+   "verse": 947,
+   "rows": [
+    {
+     "surface": "trirekhāsaṅgamasthānaṃ",
+     "gloss": "place-of-three-line-junction",
+     "grounds": "object known; compound",
+     "morph": "n.acc.sg (compound: tri-rekhā-saṅgama-sthāna)"
+    },
+    {
+     "surface": "marmamarmavidaḥ",
+     "gloss": "knowers-of-vital-points",
+     "grounds": "subject experts; compound",
+     "morph": "m.nom.pl (compound: marma-marma-vid)"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "predicate of knowledge",
+     "morph": "3.pl.perf.act √vid"
+    }
+   ],
+   "question": "What do the knowers of vital points recognize at the junction of three lines?",
+   "premises": [
+    "There is a place where three lines meet.",
+    "Knowers of vital points are the authorities.",
+    "They recognize that place as significant."
+   ],
+   "inference": "Experts in vital points identify the junction of three lines as a vital locus.",
+   "uncertainties": [
+    "The intended sense of the repeated marma element is interpretive."
+   ],
+   "plain_english": "The knowers of vital points know the place where three lines meet."
+  },
+  {
+   "verse": 948,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśatimarmāṇi",
+     "gloss": "twenty-eight-vital-points",
+     "grounds": "enumerated elements; compound",
+     "morph": "n.nom.pl (compound: aṣṭāviṃśati-marma)"
+    },
+    {
+     "surface": "caturviṃśatisandhayaḥ",
+     "gloss": "twenty-four-joints",
+     "grounds": "enumerated elements; compound",
+     "morph": "m.nom.pl (compound: caturviṃśati-sandhi)"
+    }
+   ],
+   "question": "How many vital points and joints are enumerated in this part of the diagram?",
+   "premises": [
+    "Twenty-eight vital points are named.",
+    "Twenty-four joints are named.",
+    "Both are presented as counts in the structure."
+   ],
+   "inference": "The diagrammatic structure includes twenty-eight vital points and twenty-four joints.",
+   "uncertainties": [],
+   "plain_english": "There are twenty-eight vital points and twenty-four joints."
+  },
+  {
+   "verse": 949,
+   "rows": [
+    {
+     "surface": "sevamānāḥ",
+     "gloss": "serving",
+     "grounds": "participial description of practitioners",
+     "morph": "m.nom.pl (present-participle-middle √sev)"
+    },
+    {
+     "surface": "cakrakriyāṃ",
+     "gloss": "circle-rite",
+     "grounds": "object of service; compound",
+     "morph": "f.acc.sg (compound: cakra-kriyā)"
+    },
+    {
+     "surface": "devagandharvasevitām",
+     "gloss": "served-by-gods-and-gandharvas",
+     "grounds": "description of the rite; compound",
+     "morph": "f.acc.sg (compound: deva-gandharva-sevita)"
+    }
+   ],
+   "question": "Who is said to honor the circle rite that practitioners serve?",
+   "premises": [
+    "Practitioners serve the circle rite.",
+    "The rite is served by gods and gandharvas.",
+    "This indicates the rite's exalted status."
+   ],
+   "inference": "The circle rite served by practitioners is also honored by gods and gandharvas.",
+   "uncertainties": [],
+   "plain_english": "Serving the circle rite, which is served by gods and gandharvas."
+  }
+ ]
+}

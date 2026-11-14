@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p38",
  "verse": 937,
- "question": "What proportions are assigned to the peak's width and its breadth-length?",
+ "question": "What limits are set for lines drawn from the ninth and first points?",
  "premises": [
-  "The peak width is one part.",
-  "The breadth and length are specified.",
-  "They are twice that amount."
+  "Lines start from the ninth and first points.",
+  "Their extent reaches the fourth and seventh.",
+  "These points define the boundary."
  ],
- "inference": "The peak width is one part, while its breadth and length are two parts.",
- "uncertainties": [],
- "plain_english": "The width of the peak is one part, and its breadth and length are two parts."
+ "inference": "Lines drawn from the ninth and first points extend up to the fourth and seventh.",
+ "uncertainties": [
+  "The geometric orientation of these numbered points is unclear."
+ ],
+ "plain_english": "From the ninth and first points, extending up to the fourth and seventh."
 }

@@ -1,0 +1,957 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 951,
+   "rows": [
+    {
+     "surface": "trikoṇaṃ",
+     "gloss": "triangle",
+     "grounds": "geometric figure with three corners",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaindavaṃ",
+     "gloss": "related-to-bindu",
+     "grounds": "pertaining to the bindu point",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "saumyamaṣṭakoṇaṃ",
+     "gloss": "auspicious-eight-angled",
+     "grounds": "compound describing an eight-cornered form",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "miśrakam",
+     "gloss": "mixed",
+     "grounds": "combined or composite form",
+     "morph": "adj.n.acc.sg"
+    }
+   ],
+   "question": "What geometric forms constitute the described sacred diagram?",
+   "premises": [
+    "A triangle is present in the structure.",
+    "A bindu-related element is present.",
+    "An auspicious eight-angled and mixed form is included."
+   ],
+   "inference": "The sacred diagram is composed of triangular, bindu-related, eight-angled, and mixed elements.",
+   "uncertainties": [],
+   "plain_english": "The diagram consists of a triangle, a bindu-related element, an auspicious eight-angled figure, and a mixed form."
+  },
+  {
+   "verse": 952,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the preceding",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "prasādādindrādyā",
+     "gloss": "from-grace-indra-and-others",
+     "grounds": "compound indicating origin from grace with Indra and others",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasavo'ṣṭau",
+     "gloss": "eight-vasus",
+     "grounds": "group of eight Vasus; internal sandhi marked by apostrophe",
+     "morph": "m.nom.pl+num.nom.pl"
+    },
+    {
+     "surface": "marudgaṇāḥ",
+     "gloss": "hosts-of-maruts",
+     "grounds": "groups of Marut deities",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which divine groups arise from the grace of this sacred structure?",
+   "premises": [
+    "This structure is a source of grace.",
+    "Indra and others are associated with this grace.",
+    "The eight Vasus and hosts of Maruts are named."
+   ],
+   "inference": "By the grace of this structure, Indra and others, the eight Vasus, and the hosts of Maruts arise or are present.",
+   "uncertainties": [
+    "The exact syntactic relation of prasādādindrādyā is compressed."
+   ],
+   "plain_english": "From the grace of this, Indra and others, the eight Vasus, and the hosts of Maruts come forth."
+  },
+  {
+   "verse": 953,
+   "rows": [
+    {
+     "surface": "puratrayaṃ",
+     "gloss": "three-cities",
+     "grounds": "triad of cities",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrasya",
+     "gloss": "of-wheel",
+     "grounds": "possessive relation to the wheel",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "somasūryānalātmakam",
+     "gloss": "moon-sun-fire-natured",
+     "grounds": "having the nature of moon, sun, and fire",
+     "morph": "adj.n.nom.sg"
+    }
+   ],
+   "question": "What essential nature characterizes the three cities of the wheel?",
+   "premises": [
+    "The three cities belong to the wheel.",
+    "The three cities have a defined nature.",
+    "That nature is moon, sun, and fire."
+   ],
+   "inference": "The three cities of the wheel are essentially moon, sun, and fire.",
+   "uncertainties": [],
+   "plain_english": "And the three cities of the wheel are of the nature of moon, sun, and fire."
+  },
+  {
+   "verse": 954,
+   "rows": [
+    {
+     "surface": "guhyādguhyatamaṃ",
+     "gloss": "more-secret-than-secret",
+     "grounds": "superlative secrecy compared to what is secret",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "revealed or esoteric knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutrāpi",
+     "gloss": "anywhere",
+     "grounds": "in any place at all",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "made manifest or disclosed",
+     "morph": "n.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "How uniquely revealed is the knowledge described in this context?",
+   "premises": [
+    "The knowledge is more secret than secret.",
+    "It has not been revealed anywhere.",
+    "Its disclosure is denied in all other places."
+   ],
+   "inference": "This supremely secret knowledge has not been revealed anywhere else.",
+   "uncertainties": [],
+   "plain_english": "This knowledge, more secret than the secret, has not been revealed anywhere."
+  },
+  {
+   "verse": 955,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "within the middle of that",
+     "morph": "compound.(indecl.)"
+    },
+    {
+     "surface": "baindavasthānaṃ",
+     "gloss": "bindu-place",
+     "grounds": "the locus or seat of the bindu",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatrāste",
+     "gloss": "there-dwells",
+     "grounds": "abides in that place; internal sandhi tatra+āste",
+     "morph": "3.sg.pres.middle"
+    },
+    {
+     "surface": "parameśvarī",
+     "gloss": "supreme-goddess",
+     "grounds": "the highest goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who dwells in the bindu-place at the center of that structure?",
+   "premises": [
+    "There is a middle within that structure.",
+    "The bindu-place is located there.",
+    "The supreme goddess abides in that place."
+   ],
+   "inference": "The supreme goddess dwells in the bindu-place at its center.",
+   "uncertainties": [],
+   "plain_english": "In its middle is the place of the bindu, and there the supreme goddess dwells."
+  },
+  {
+   "verse": 956,
+   "rows": [
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "the sacred diagram or wheel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tripurasurandaryā",
+     "gloss": "of-tripura-sundari",
+     "grounds": "belonging to the goddess Tripurasundari",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "brahmāṇḍākāramīśvari",
+     "gloss": "cosmos-shaped-o-goddess",
+     "grounds": "having the form of the cosmic egg; vocative addressed to goddess",
+     "morph": "compound.n.nom.sg+f.voc.sg"
+    }
+   ],
+   "question": "What cosmic form does the wheel of Tripurasundari possess?",
+   "premises": [
+    "The wheel belongs to Tripurasundari.",
+    "The wheel has a specific form.",
+    "That form is the shape of the cosmos."
+   ],
+   "inference": "The wheel of Tripurasundari has the form of the cosmic egg.",
+   "uncertainties": [
+    "īśvari may be a vocative address or part of description; taken as vocative."
+   ],
+   "plain_english": "O Goddess, the wheel of Tripurasundari has the form of the cosmic egg."
+  },
+  {
+   "verse": 957,
+   "rows": [
+    {
+     "surface": "indriyātmakamevaṃ",
+     "gloss": "sense-natured-thus",
+     "grounds": "having the nature of the senses; includes emphatic particle",
+     "morph": "adj.n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manastattvātmakaṃ",
+     "gloss": "mind-principle-natured",
+     "grounds": "having the nature of mind and its principle",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What psychological and sensory natures are attributed to the wheel?",
+   "premises": [
+    "The wheel is described as sense-natured.",
+    "The wheel is also described as mind-principle-natured.",
+    "Both descriptions apply in the same manner."
+   ],
+   "inference": "The wheel is of the nature of the senses and likewise of the nature of mind and its principle.",
+   "uncertainties": [],
+   "plain_english": "Thus it is of the nature of the senses, and likewise of the nature of mind and its principle."
+  },
+  {
+   "verse": 958,
+   "rows": [
+    {
+     "surface": "baindave",
+     "gloss": "in-bindu",
+     "grounds": "located in the bindu",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jagadutpattisthitisaṃhārakāriṇī",
+     "gloss": "world-creation-maintenance-dissolution-causing",
+     "grounds": "agent causing origin, persistence, and dissolution of the world",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What cosmic functions are performed by the power in the bindu?",
+   "premises": [
+    "A power is located in the bindu.",
+    "This power causes the world's creation.",
+    "This power causes the world's maintenance and dissolution."
+   ],
+   "inference": "The power in the bindu causes the creation, maintenance, and dissolution of the world.",
+   "uncertainties": [
+    "The subject is implied from context, likely the goddess or śakti."
+   ],
+   "plain_english": "In the bindu, she is the cause of the world's creation, maintenance, and dissolution."
+  },
+  {
+   "verse": 959,
+   "rows": [
+    {
+     "surface": "jyotīrūpā",
+     "gloss": "light-formed",
+     "grounds": "having the form of light",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varākārā",
+     "gloss": "excellent-formed",
+     "grounds": "having a supreme or excellent form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun indicating possession",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "dehodbhavāḥ",
+     "gloss": "body-born",
+     "grounds": "arising from the body",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What luminous form belongs to the one whose body-born emanations are described?",
+   "premises": [
+    "The subject is light-formed.",
+    "The subject is excellent-formed.",
+    "Emanations arise from that subject's body."
+   ],
+   "inference": "The one whose emanations arise from the body is of the form of light and of excellent form.",
+   "uncertainties": [
+    "The antecedent of yasya is carried from prior context."
+   ],
+   "plain_english": "O Shiva, she is of the form of light and of excellent form, from whose body these arise."
+  },
+  {
+   "verse": 960,
+   "rows": [
+    {
+     "surface": "kodirarbudameteṣāṃ",
+     "gloss": "crores-arbudas-of-these",
+     "grounds": "vast number of these; compound with large number terms",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "highest or ultimate",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "count or enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "is found or known to exist",
+     "morph": "3.sg.pres.passive"
+    }
+   ],
+   "question": "Can a definitive number be assigned to these body-born emanations?",
+   "premises": [
+    "The emanations are counted in crores and arbudas.",
+    "A supreme number is considered.",
+    "No such definitive number exists."
+   ],
+   "inference": "There is no ultimate number for these emanations, as they are beyond vast enumeration.",
+   "uncertainties": [
+    "Exact numerical value of koṭi-arbuda compound is conventional vastness."
+   ],
+   "plain_english": "Of these there are crores and arbudas; no supreme number exists."
+  },
+  {
+   "verse": 961,
+   "rows": [
+    {
+     "surface": "yasyā",
+     "gloss": "whose",
+     "grounds": "relative pronoun indicating possession",
+     "morph": "pron.f.gen.sg"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-goddess",
+     "grounds": "the goddess as possessor",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhāsā",
+     "gloss": "by-light",
+     "grounds": "by means of radiance",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "the entirety of things",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vibhāsate",
+     "gloss": "shines-forth",
+     "grounds": "becomes luminous or manifest",
+     "morph": "3.sg.pres.middle"
+    }
+   ],
+   "question": "By whose radiance does the entirety of existence shine forth?",
+   "premises": [
+    "A goddess possesses radiance.",
+    "All things shine forth.",
+    "Their shining is by that goddess's light."
+   ],
+   "inference": "All things shine forth by the light of that goddess.",
+   "uncertainties": [],
+   "plain_english": "O Maheshani, by whose goddess's light all this shines forth."
+  },
+  {
+   "verse": 962,
+   "rows": [
+    {
+     "surface": "tasyāśca",
+     "gloss": "and-of-her",
+     "grounds": "of that goddess; includes connective",
+     "morph": "pron.f.gen.sg+(indecl.)"
+    },
+    {
+     "surface": "śivaśakteśca",
+     "gloss": "and-of-shiva-shakti",
+     "grounds": "of the power of Shiva; includes connective",
+     "morph": "f.gen.sg+(indecl.)"
+    },
+    {
+     "surface": "cidrupāyāścitiṃ",
+     "gloss": "of-consciousness-formed-consciousness",
+     "grounds": "consciousness of her who is consciousness-formed; sandhi citiṃ",
+     "morph": "f.gen.sg+f.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "in the absence of",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is impossible without the consciousness of that Shiva-shakti?",
+   "premises": [
+    "Reference is made to her and to Shiva-shakti.",
+    "She is of the form of consciousness.",
+    "Something is considered without that consciousness."
+   ],
+   "inference": "Without the consciousness of that consciousness-formed Shiva-shakti, the stated condition does not hold.",
+   "uncertainties": [
+    "The sentence continues into the next verse; the main clause is incomplete here."
+   ],
+   "plain_english": "And without the consciousness of her, of Shiva-shakti who is of the form of consciousness..."
+  },
+  {
+   "verse": 963,
+   "rows": [
+    {
+     "surface": "teṣāmanantakoṭīnāṃ",
+     "gloss": "of-those-endless-crores",
+     "grounds": "of those countless millions",
+     "morph": "pron.m.gen.pl+adj.m.gen.pl"
+    },
+    {
+     "surface": "mayūkhānāṃ",
+     "gloss": "of-rays",
+     "grounds": "rays or beams of light",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whose endless rays are being addressed in relation to the goddess?",
+   "premises": [
+    "There are endless crores of rays.",
+    "These rays belong to a previously indicated source.",
+    "The great goddess is addressed."
+   ],
+   "inference": "The endless crores of rays belong to that source addressed to the great goddess.",
+   "uncertainties": [
+    "This verse is syntactically linked to verses 962 and 964."
+   ],
+   "plain_english": "O Maheshvari, of those endless crores of rays..."
+  },
+  {
+   "verse": 964,
+   "rows": [
+    {
+     "surface": "brahmāṇḍaṃ",
+     "gloss": "cosmic-egg",
+     "grounds": "the universe or cosmic sphere",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyaśnuvānāste",
+     "gloss": "pervading-abides",
+     "grounds": "remains while pervading; compound verb form",
+     "morph": "pres.participle+3.sg.pres.middle"
+    },
+    {
+     "surface": "somasūryānalātmanā",
+     "gloss": "with-moon-sun-fire-nature",
+     "grounds": "by means of the nature of moon, sun, and fire",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How do the endless rays pervade the cosmic egg?",
+   "premises": [
+    "The cosmic egg is pervaded.",
+    "The pervasion is ongoing.",
+    "The pervasion occurs through moon, sun, and fire nature."
+   ],
+   "inference": "The endless rays abide pervading the cosmic egg with the nature of moon, sun, and fire.",
+   "uncertainties": [],
+   "plain_english": "The cosmic egg abides pervaded by them, with the nature of moon, sun, and fire."
+  },
+  {
+   "verse": 965,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśaduttaraśataṃ",
+     "gloss": "hundred-plus-thirty-six",
+     "grounds": "the number one hundred and thirty-six",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "candrasya",
+     "gloss": "of-moon",
+     "grounds": "belonging to the moon",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kiraṇāḥ",
+     "gloss": "rays",
+     "grounds": "beams or rays of light",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many rays are attributed to the moon in this teaching?",
+   "premises": [
+    "The moon possesses rays.",
+    "A specific number is given.",
+    "That number is one hundred and thirty-six."
+   ],
+   "inference": "The moon has one hundred and thirty-six rays.",
+   "uncertainties": [],
+   "plain_english": "O Shiva, the moon has one hundred and thirty-six rays."
+  },
+  {
+   "verse": 966,
+   "rows": [
+    {
+     "surface": "divā",
+     "gloss": "by-day",
+     "grounds": "during the daytime",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryastathā",
+     "gloss": "sun-likewise",
+     "grounds": "the sun in that manner; internal sandhi sūryaḥ+tathā",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "during the nighttime",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "somo",
+     "gloss": "moon",
+     "grounds": "the moon deity or luminary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahniśca",
+     "gloss": "and-fire",
+     "grounds": "fire; includes connective",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "sandhyayoḥ",
+     "gloss": "at-two-twilights",
+     "grounds": "during the two junction periods",
+     "morph": "f.loc.dual"
+    }
+   ],
+   "question": "Which luminaries preside over day, night, and the two twilights?",
+   "premises": [
+    "Daytime has a presiding luminary.",
+    "Nighttime has a presiding luminary.",
+    "The two twilights have fire as presiding."
+   ],
+   "inference": "The sun presides by day, the moon by night, and fire at the two twilights.",
+   "uncertainties": [],
+   "plain_english": "By day the sun, likewise at night the moon, and fire at the two twilights."
+  },
+  {
+   "verse": 967,
+   "rows": [
+    {
+     "surface": "ṣaṣṭyuttaraṃ",
+     "gloss": "plus-sixty",
+     "grounds": "exceeding by sixty",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśataṃ",
+     "gloss": "three-hundred",
+     "grounds": "the number three hundred",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dinānyeva",
+     "gloss": "days-indeed",
+     "grounds": "days with emphasis",
+     "morph": "n.nom.pl+(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hāyanaḥ",
+     "gloss": "year",
+     "grounds": "a solar year",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many days constitute the year according to this reckoning?",
+   "premises": [
+    "A year is being defined.",
+    "The count includes three hundred.",
+    "The count includes an additional sixty."
+   ],
+   "inference": "The year consists of three hundred and sixty days.",
+   "uncertainties": [],
+   "plain_english": "And a year is indeed three hundred and sixty days."
+  },
+  {
+   "verse": 968,
+   "rows": [
+    {
+     "surface": "prajāpatirlokakartā",
+     "gloss": "prajapati-world-maker",
+     "grounds": "Prajapati as creator of the world; compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "marīcipramukhān",
+     "gloss": "marici-and-others",
+     "grounds": "headed by Marici",
+     "morph": "adj.m.acc.pl"
+    },
+    {
+     "surface": "munīn",
+     "gloss": "sages",
+     "grounds": "seers or sages",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which creator and sages are identified in the cosmic order?",
+   "premises": [
+    "Prajapati is named as world-maker.",
+    "Sages are mentioned.",
+    "Those sages are headed by Marici."
+   ],
+   "inference": "Prajapati, the world-maker, is associated with the sages headed by Marici.",
+   "uncertainties": [
+    "The verb governing munīn is not explicit in this verse."
+   ],
+   "plain_english": "Prajapati, the maker of the world, and the sages headed by Marici."
+  },
+  {
+   "verse": 969,
+   "rows": [
+    {
+     "surface": "saṃhāraśca",
+     "gloss": "and-dissolution",
+     "grounds": "cosmic dissolution; includes connective",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "harāyatta",
+     "gloss": "dependent-on-hara",
+     "grounds": "entrusted to or dependent on Hara",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "utpatirbhavanirmitā",
+     "gloss": "origin-made-by-bhava",
+     "grounds": "creation effected by Bhava; internal sandhi utpattiḥ+bhava",
+     "morph": "f.nom.sg+f.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "To which deities are cosmic dissolution and origin assigned?",
+   "premises": [
+    "Dissolution is assigned to Hara.",
+    "Origin is assigned to Bhava.",
+    "Both functions are distributed among deities."
+   ],
+   "inference": "Dissolution depends on Hara and origin is effected by Bhava.",
+   "uncertainties": [],
+   "plain_english": "Dissolution depends on Hara, and origin is made by Bhava."
+  },
+  {
+   "verse": 970,
+   "rows": [
+    {
+     "surface": "niyuktaḥ",
+     "gloss": "appointed",
+     "grounds": "assigned or commissioned",
+     "morph": "m.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "parameśānyā",
+     "gloss": "by-supreme-goddess",
+     "grounds": "by the supreme goddess as agent",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "jagadevaṃ",
+     "gloss": "world-thus",
+     "grounds": "the world in this manner",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "proceeds",
+     "grounds": "functions or goes on",
+     "morph": "3.sg.pres.middle"
+    }
+   ],
+   "question": "By whose appointment does the world proceed in this manner?",
+   "premises": [
+    "The world proceeds in a certain way.",
+    "An appointment or commissioning is involved.",
+    "The supreme goddess is the appointing agent."
+   ],
+   "inference": "Appointed by the supreme goddess, the world proceeds in this manner.",
+   "uncertainties": [],
+   "plain_english": "Appointed by the supreme goddess, the world thus proceeds."
+  },
+  {
+   "verse": 971,
+   "rows": [
+    {
+     "surface": "śrīvidyāraṇyayativiracite",
+     "gloss": "composed-by-shri-vidyaranya-yati",
+     "grounds": "authored by the ascetic Shri Vidyaranya",
+     "morph": "compound.n.loc.sg"
+    },
+    {
+     "surface": "śrīvidyārṇavākhye",
+     "gloss": "named-shri-vidyarnava",
+     "grounds": "called Shri Vidyarnava",
+     "morph": "compound.n.loc.sg"
+    },
+    {
+     "surface": "tantre'ṣṭamaḥ",
+     "gloss": "in-tantra-eighth",
+     "grounds": "eighth in the tantra; internal sandhi tantre+aṣṭamaḥ",
+     "morph": "n.loc.sg+m.nom.sg"
+    },
+    {
+     "surface": "śvāsaḥ",
+     "gloss": "breath-chapter",
+     "grounds": "section or chapter termed breath",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes the named tantra composed by Shri Vidyaranya?",
+   "premises": [
+    "The work is composed by Shri Vidyaranya Yati.",
+    "The work is named Shri Vidyarnava.",
+    "The eighth breath or chapter is identified."
+   ],
+   "inference": "In the tantra named Shri Vidyarnava composed by Shri Vidyaranya Yati, this is the eighth breath.",
+   "uncertainties": [
+    "śvāsaḥ is taken as a chapter division term per tradition."
+   ],
+   "plain_english": "In the tantra named Shri Vidyarnava, composed by Shri Vidyaranya Yati, this is the eighth breath."
+  },
+  {
+   "verse": 972,
+   "rows": [
+    {
+     "surface": "bindumadhye",
+     "gloss": "in-bindu-middle",
+     "grounds": "in the center of the bindu",
+     "morph": "compound.n.loc.sg"
+    },
+    {
+     "surface": "pretabījaṃ",
+     "gloss": "preta-seed",
+     "grounds": "the seed syllable associated with preta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "one-should-draw",
+     "grounds": "should inscribe or write",
+     "morph": "3.sg.optative.active"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What seed syllable must be inscribed in the middle of the bindu?",
+   "premises": [
+    "An inscription is to be made in the bindu's middle.",
+    "The object to inscribe is specified.",
+    "That object is the preta-seed."
+   ],
+   "inference": "One should draw the preta-seed in the middle of the bindu.",
+   "uncertainties": [
+    "The exact syllabic form of pretabījaṃ is not expanded here."
+   ],
+   "plain_english": "O Supreme Goddess, one should draw the preta-seed in the middle of the bindu."
+  },
+  {
+   "verse": 973,
+   "rows": [
+    {
+     "surface": "dvāratrayaṃ",
+     "gloss": "three-gates",
+     "grounds": "a triad of gates",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "should be constructed",
+     "morph": "n.nom.sg.future-passive-participle"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "in the manner that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvārāṇi",
+     "gloss": "gates",
+     "grounds": "doorways or gates",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhūpure",
+     "gloss": "in-earth-enclosure",
+     "grounds": "in the bhupura enclosure",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the three gates be constructed in relation to the bhupura?",
+   "premises": [
+    "Three gates are to be made.",
+    "A model for construction is indicated.",
+    "The gates in the bhupura provide that model."
+   ],
+   "inference": "Three gates should be made just as the gates in the bhupura are made.",
+   "uncertainties": [],
+   "plain_english": "Three gates should be made, just as the gates in the bhupura."
+  },
+  {
+   "verse": 974,
+   "rows": [
+    {
+     "surface": "granthayastu",
+     "gloss": "but-knots",
+     "grounds": "knots or nodes; includes contrastive particle with sandhi granthayaḥ+tu",
+     "morph": "m.nom.pl+(indecl.)"
+    },
+    {
+     "surface": "prakartavyāstriśūlāṣṭakameva",
+     "gloss": "to-be-made-eight-tridents-indeed",
+     "grounds": "eight tridents should be made; compound with sandhi prakartavyāḥ+triśūla",
+     "morph": "f.nom.pl.future-passive-participle+compound.n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific knot-like figures must be constructed in this ritual design?",
+   "premises": [
+    "Knots are to be constructed.",
+    "The form of these knots is specified.",
+    "They are to be made as eight tridents."
+   ],
+   "inference": "The knots to be made are indeed eight tridents.",
+   "uncertainties": [
+    "The compound prakartavyāstriśūlāṣṭakameva is treated as a fused token per input."
+   ],
+   "plain_english": "But the knots to be made are indeed the eight tridents."
+  }
+ ]
+}

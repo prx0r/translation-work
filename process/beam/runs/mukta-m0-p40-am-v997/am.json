@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 997,
- "question": "What modification to the hall's central projection is prescribed in this variant?",
+ "question": "What substitute is permitted when the preferred ritual vessel is unavailable?",
  "premises": [
-  "The location is the middle of the hall.",
-  "A great nose is to be arranged.",
-  "The projection element is to be omitted."
+  "The preferred vessel may be unavailable.",
+  "Other vessels exist as alternatives.",
+  "Worship is still to be performed."
  ],
- "inference": "One should arrange a great nose in the middle of the hall without a projection.",
- "uncertainties": [],
- "plain_english": "In the middle of the hall one should arrange a great nose without a projection."
+ "inference": "If the preferred vessel is unavailable, one should worship with other vessels.",
+ "uncertainties": [
+  "The repetition of 'pātrasya' may be emphatic or textual."
+ ],
+ "plain_english": "If that vessel is unavailable, one should worship with other vessels."
 }

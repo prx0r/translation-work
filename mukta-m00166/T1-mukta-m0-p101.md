@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p101-v2501
-[iḍā-nāḍī](iḍā) [left-channel](iḍā) [lunar-channel](iḍā) [sacred-channel](iḍā)
+[iḍā-nāḍī](iḍā)
 
 ## mukta-m0-p101-v2502
-[oh](aho) [drop+method](binduvidhī) [i-praise](rīḍāmiḍā) [may-remove](haratu) [quickly](satvaram)
+[oh](aho) [drop+method](binduvidhī) [praise](rīḍāmi) [iḍā](iḍā) [may-remove](haratu) [quickly](satvaram)
 
 ## mukta-m0-p101-v2503
-[piṅgalā-nāḍī](piṅgalā) [right-channel](piṅgalā) [solar-channel](piṅgalā) [sacred-channel](piṅgalā)
+[piṅgalā-nāḍī](piṅgalā)
 
 ## mukta-m0-p101-v2504
-[citron+wondrous](bījapūrādbhutā) [left](vāmā) [piṅgalā](piṅgalā) [on-right](dakṣiṇāvatu) [may-protect](dakṣiṇāvatu)
+[citron+wondrous](bījapūrādbhutā) [left](vāmā) [piṅgalā](piṅgalā) [right+may-protect](dakṣiṇāvatu)
 
 ## mukta-m0-p101-v2505
-[piṅgā](piṅgā) [tawny-goddess](piṅgā) [sacred-power](piṅgā) [divine-form](piṅgā)
+[piṅgā](piṅgā)
 
 ## mukta-m0-p101-v2506
-[in-three+marks](triliṅgeṣviṅgitaṃ) [may-give](dadyāt) [by-piṅgā+embraced](piṅgāliṅgitaśaṅkarā) [śaṅkara](piṅgāliṅgitaśaṅkarā)
+[in-three+marks](triliṅgeṣu) [gesture](iṅgitaṃ) [may-give](dadyāt) [by-piṅgā+embraced+śaṅkara](piṅgāliṅgitaśaṅkarā)
 
 ## mukta-m0-p101-v2507
-[suṣumṇā-nāḍī](suṣumṇā) [central-channel](suṣumṇā) [middle-path](suṣumṇā) [sacred-channel](suṣumṇā)
+[suṣumṇā-nāḍī](suṣumṇā)
 
 ## mukta-m0-p101-v2508
-[empty](śūnyā) [not+empty](naśūnyā) [by-awareness](bodhena) [suṣumṇā](suṣumṇā'nādinādinī) [beginningless+primordial-sound](suṣumṇā'nādinādinī)
+[empty](śūnyā) [not+empty](naśūnyā) [by-awareness](bodhena) [suṣumṇā](suṣumṇā) [beginningless+resounding](anādinādinī)
 
 ## mukta-m0-p101-v2509
-[sun+bearing](sūryavāhinī) [solar-channel](sūryavāhinī) [sun-carrier](sūryavāhinī) [sacred-current](sūryavāhinī)
+[sun+channel](sūryavāhinī)
 
 ## mukta-m0-p101-v2510
-[she](sā) [sun+bearing](sūryavāhinī) [him](taṃ) [not](nodvāhayed) [may-carry](nodvāhayed) [existence+bearing](bhavavāhinī)
+[she](sā) [sun+channel](sūryavāhinī) [him](taṃ) [not](na) [may-carry](udvāhayet) [existence+channel](bhavavāhinī)
 
 ## mukta-m0-p101-v2511
-[moon+flowing](śaśisravā) [lunar-stream](śaśisravā) [nectar-flow](śaśisravā) [sacred-current](śaśisravā)
+[moon+flowing](śaśisravā)
 
 ## mukta-m0-p101-v2512
 [moon+flowing](śaśisravā) [not](na) [may-be-afflicted](pīḍyeta) [he](sa) [by-old-age+death+and-others](jarāmaraṇādibhiḥ)
 
 ## mukta-m0-p101-v2513
-[page](p.) [292)](292)) [palate+standing](tālusthā) [situated-in-palate](tālusthā)
+[p.](p.) [292)](292)) [palate+situated](tālusthā)
 
 ## mukta-m0-p101-v2514
 [all+earth+lord](sarvakṣmādhipatiḥ) [in-own](svasyāṃ) [royal+capital](rājadhānyāṃ) [as](yathā) [king](nṛpaḥ)
 
 ## mukta-m0-p101-v2515
-[kākinī](kākinī) [goddess-kākinī](kākinī) [sacred-power](kākinī) [divine-form](kākinī)
+[kākinī](kākinī)
 
 ## mukta-m0-p101-v2516
-[kākinī](kākinyekākinī) [alone](kākinyekākinī) [may-be](bhūyāt) [companion](sahāyā) [always](sarvadā) [of-me](mama)
+[kākinī](kākinī) [solitary](ekākinī) [may-be](bhūyāt) [companion](sahāyā) [always](sarvadā) [of-me](mama)
 
 ## mukta-m0-p101-v2517
-[immortality+living](amṛtajīvinī) [nectar-living](amṛtajīvinī) [deathless-one](amṛtajīvinī) [life-giver](amṛtajīvinī)
+[immortality+living](amṛtajīvinī)
 
 ## mukta-m0-p101-v2518
-[what](kiṃ) [may-be](bhavet) [done+by-food](kṛtamannena) [if](cedruṣṭāmṛtajīvinī) [seen](cedruṣṭāmṛtajīvinī) [immortality+living](cedruṣṭāmṛtajīvinī)
+[what](kiṃ) [may-be](bhavet) [done+by-food](kṛtamannena) [if](cet) [seen+immortality+living](ruṣṭāmṛtajīvinī)
 
 ## mukta-m0-p101-v2519
-[atom+form](aṇurūpā) [subtle-form](aṇurūpā) [minute-form](aṇurūpā) [divine-form](aṇurūpā)
+[atomic+form](aṇurūpā)
 
 ## mukta-m0-p101-v2520
-[who](yā) [having-pervaded](vyāpya) [all](nikhilaṃ) [stands](tiṣṭhatyacalācalakanyakā) [immovable+movable+maiden](tiṣṭhatyacalācalakanyakā)
+[who](yā) [having-pervaded](vyāpya) [all](nikhilaṃ) [stands](tiṣṭhati) [immovable+movable+maiden](acalācalakanyakā)
 
 ## mukta-m0-p101-v2521
-[vast+form](bṛhadrūpā) [great-form](bṛhadrūpā) [immense-form](bṛhadrūpā) [divine-form](bṛhadrūpā)
+[vast+form](bṛhadrūpā)
 
 ## mukta-m0-p101-v2522
-[of-virāj](virājo'pi) [even](virājo'pi) [vast+form](bṛhadrūpā) [is-contemplated](cintyate) [by-conscious+unconscious](cetyacetanaiḥ)
+[of-virāj](virājaḥ) [also](api) [vast+form](bṛhadrūpā) [is-contemplated](cintyate) [by-conscious+unconscious](cetyacetanaiḥ)
 
 ## mukta-m0-p101-v2523
-[light+form](laghurūpā) [subtle-form](laghurūpā) [small-form](laghurūpā) [divine-form](laghurūpā)
+[small+form](laghurūpā)
 
 ## mukta-m0-p101-v2524
-[meditated](dhyātā) [by-whom](yena) [he](sa) [ever](jātvatra) [not](na) [may-be](bhavellaghutāpadam) [lightness+state](bhavellaghutāpadam)
+[meditated](dhyātā) [by-whom](yena) [he](sa) [ever](jātu) [here](atra) [not](na) [may-be](bhavet) [smallness+state](laghutāpadam)
 
 ## mukta-m0-p101-v2525
-[heavy+steady](gurusthirā) [weighty-stable](gurusthirā) [firm-guru](gurusthirā) [steadfast-form](gurusthirā)
+[heavy+firm](gurusthirā)

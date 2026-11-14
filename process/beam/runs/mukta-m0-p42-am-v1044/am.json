@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1044,
- "question": "What structural uniformity defines the temple type known as Subhadra?",
+ "question": "Which internal ritual acts are enumerated in this sequence?",
  "premises": [
-  "The base and pillars share a single uniform form.",
-  "This configuration is identified by a specific name.",
-  "The name Subhadra is applied to this type."
+  "The verse lists internal worship as one act.",
+  "It lists self-worship as another act.",
+  "It lists internal offering as a further act."
  ],
- "inference": "A temple with uniform base and pillars is recognized as the Subhadra type.",
- "uncertainties": [],
- "plain_english": "A structure with base and pillars of one uniform form is known as Subhadra."
+ "inference": "Internal worship, self-worship, and internal offering are all included in this sequence.",
+ "uncertainties": [
+  "The governing verb is not stated in this verse and may be carried over from context."
+ ],
+ "plain_english": "And internal worship, and self-worship, and indeed internal offering."
 }

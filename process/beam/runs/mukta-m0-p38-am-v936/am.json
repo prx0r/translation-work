@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p38",
  "verse": 936,
- "question": "By what standard are the width and height of that structure determined?",
+ "question": "Which intervals and starting points define the next stage of the line construction?",
  "premises": [
-  "The structure has width and height.",
-  "These were previously stated.",
-  "They follow the mansion-measure standard."
+  "Beginnings are taken from the two and eight points.",
+  "The interval is between the ninth and the first.",
+  "These define the construction step."
  ],
- "inference": "The width and height of that structure follow the previously stated mansion-measure standard.",
- "uncertainties": [],
- "plain_english": "Its width and height are as previously stated, according to the measure of the mansion."
+ "inference": "The construction proceeds from the two and eight points with intervals between the ninth and first.",
+ "uncertainties": [
+  "The counting system for these points is not fully explained."
+ ],
+ "plain_english": "From the two and eight points as beginnings, in the interval between the ninth and the first."
 }

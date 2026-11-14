@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p39",
  "verse": 974,
- "question": "What shapes are prescribed for the altar, spire, and neck in this octagonal variant?",
+ "question": "What specific knot-like figures must be constructed in this ritual design?",
  "premises": [
-  "The same structure is octagonal",
-  "The altar is present and the spire and neck are round-like"
+  "Knots are to be constructed.",
+  "The form of these knots is specified.",
+  "They are to be made as eight tridents."
  ],
- "inference": "In the octagonal variant, the altar is octagonal while the spire and neck are round-like",
- "uncertainties": [],
- "plain_english": "That same structure is octagonal, with an altar, and a round-like spire and neck."
+ "inference": "The knots to be made are indeed eight tridents.",
+ "uncertainties": [
+  "The compound prakartavyāstriśūlāṣṭakameva is treated as a fused token per input."
+ ],
+ "plain_english": "But the knots to be made are indeed the eight tridents."
 }

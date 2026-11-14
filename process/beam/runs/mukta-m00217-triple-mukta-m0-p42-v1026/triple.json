@@ -1,0 +1,1077 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "sahā",
+     "gloss": "with",
+     "grounds": "indeclinable particle indicating accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhārthakā",
+     "gloss": "white-mustard",
+     "grounds": "substance name in ritual list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dūrvā",
+     "gloss": "dūrvā-grass",
+     "grounds": "sacred grass used in worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṃkumaṃ",
+     "gloss": "saffron",
+     "grounds": "fragrant ritual substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rocanā",
+     "gloss": "yellow-pigment",
+     "grounds": "bright ritual substance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niśā",
+     "gloss": "turmeric",
+     "grounds": "ritual substance in the list",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which substances are included in this first set of ritual ingredients?",
+   "premises": [
+    "The verse lists several named substances.",
+    "They include mustard, dūrvā grass, saffron, yellow pigment, and turmeric.",
+    "The particle sahā indicates they are taken together as a group."
+   ],
+   "inference": "This verse enumerates one group of ritual substances to be used together.",
+   "uncertainties": [],
+   "plain_english": "Together with white mustard, dūrvā grass, saffron, yellow pigment, and turmeric."
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "siddhārthaḥ",
+     "gloss": "white-mustard",
+     "grounds": "substance name in ritual list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuṃkumaṃ",
+     "gloss": "saffron",
+     "grounds": "fragrant ritual substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dūrvā",
+     "gloss": "dūrvā-grass",
+     "grounds": "sacred grass used in worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṣṭhaṃ",
+     "gloss": "costus",
+     "grounds": "aromatic root used in ritual",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lāmañjakaṃ",
+     "gloss": "lāmañjaka-grass",
+     "grounds": "fragrant grass used in ritual",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "camphor",
+     "grounds": "cooling fragrant substance",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which substances constitute the second enumerated set of ritual ingredients?",
+   "premises": [
+    "The verse provides another list of six named items.",
+    "The items include mustard, saffron, dūrvā, costus, lāmañjaka, and camphor.",
+    "The list functions as a parallel enumeration to the previous verse."
+   ],
+   "inference": "This verse specifies a second group of six ritual substances.",
+   "uncertainties": [
+    "śaśī is glossed as camphor following the hint, though it can also mean moon."
+   ],
+   "plain_english": "White mustard, saffron, dūrvā grass, costus, lāmañjaka grass, and camphor."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "amūni",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to listed items",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ācamanīyasya",
+     "gloss": "of-sipping-water",
+     "grounds": "ritual water used for sipping",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dravyāṇi",
+     "gloss": "substances",
+     "grounds": "materials or ingredients",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pravadanti",
+     "gloss": "they-declare",
+     "grounds": "authoritative statement of tradition",
+     "morph": "3.pl.pres.act √vad"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral specifying quantity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many substances are declared for the ācamanīya water?",
+   "premises": [
+    "The verse refers back to previously listed items as these substances.",
+    "It connects them to ācamanīya, the ritual sipping water.",
+    "It explicitly states their number as six."
+   ],
+   "inference": "The tradition declares six substances for preparing the ācamanīya water.",
+   "uncertainties": [
+    "It is unclear whether the six refer to the list in verse 1026, 1027, or a combined set."
+   ],
+   "plain_english": "These are declared to be the six substances for the ācamanīya water."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "daghyabhāve",
+     "gloss": "in-absence-of-curd",
+     "grounds": "compound indicating lack of curd",
+     "morph": "m.loc.sg dagdhi+abhāva"
+    },
+    {
+     "surface": "payaḥ",
+     "gloss": "milk",
+     "grounds": "substitute liquid",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "should-be-used",
+     "grounds": "prescribes required action",
+     "morph": "n.nom.sg gerundive √kṛ"
+    },
+    {
+     "surface": "maghvabhāve",
+     "gloss": "in-absence-of-honey",
+     "grounds": "compound indicating lack of honey",
+     "morph": "m.loc.sg madhu+abhāva"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel substitution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍaḥ",
+     "gloss": "jaggery",
+     "grounds": "substitute sweet substance",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What substitutes are prescribed when curd or honey is unavailable?",
+   "premises": [
+    "The verse considers the absence of curd.",
+    "It prescribes milk as the substitute for curd.",
+    "It likewise prescribes jaggery when honey is absent."
+   ],
+   "inference": "Milk replaces curd and jaggery replaces honey in case of unavailability.",
+   "uncertainties": [],
+   "plain_english": "If curd is unavailable, milk should be used; likewise, if honey is unavailable, jaggery should be used."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "aṣṭagandhaṃ",
+     "gloss": "eight-fragrances",
+     "grounds": "compound naming a mixture of eight fragrant substances",
+     "morph": "n.acc.sg aṣṭa+gandha"
+    },
+    {
+     "surface": "samāloḍya",
+     "gloss": "having-mixed",
+     "grounds": "action of thoroughly blending",
+     "morph": "(indecl.) absolutive sam-ā-√luḍ"
+    },
+    {
+     "surface": "snānāmbhaḥ",
+     "gloss": "bath-water",
+     "grounds": "water used for ritual bathing",
+     "morph": "n.acc.sg snāna+ambhas"
+    },
+    {
+     "surface": "sādhu",
+     "gloss": "properly",
+     "grounds": "indicates correct manner of preparation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-prepare",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.act √sādh"
+    }
+   ],
+   "question": "How should the ritual bath water be properly prepared?",
+   "premises": [
+    "The verse mentions the eight fragrances as an ingredient.",
+    "It instructs mixing them thoroughly.",
+    "It prescribes preparing the bath water properly."
+   ],
+   "inference": "The bath water should be properly prepared by mixing in the eight fragrances.",
+   "uncertainties": [
+    "The specific composition of the eight fragrances is not listed in this verse."
+   ],
+   "plain_english": "Having mixed the eight fragrances, one should properly prepare the bath water."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indicates distinct arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātrāṇi",
+     "gloss": "vessels",
+     "grounds": "ritual containers",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral specifying quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syurekaṃ",
+     "gloss": "should-be-one",
+     "grounds": "fused form prescribing a single vessel; internal sandhi syuḥ+ekam",
+     "morph": "3.pl.opt.act √as + n.nom.sg"
+    },
+    {
+     "surface": "pañcāmṛtasya",
+     "gloss": "of-five-nectars",
+     "grounds": "compound naming the five-nectar mixture",
+     "morph": "n.gen.sg pañca+amṛta"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many vessels are required for the five nectars in this arrangement?",
+   "premises": [
+    "The verse discusses vessels for the five nectars.",
+    "It states there should be five vessels separately.",
+    "It also states there should be one vessel."
+   ],
+   "inference": "The arrangement requires five separate vessels and one additional vessel for the five nectars.",
+   "uncertainties": [
+    "The exact distribution between the five separate vessels and the single vessel is not fully explicit."
+   ],
+   "plain_english": "There should be five separate vessels, and one vessel for the five nectars."
+  },
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "ordinal numeral for a vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "koṣṭhyatoyasya",
+     "gloss": "of-well-water",
+     "grounds": "compound indicating water from a well",
+     "morph": "n.gen.sg koṣṭhya+toya"
+    },
+    {
+     "surface": "cāṣṭamaṃ",
+     "gloss": "and-eighth",
+     "grounds": "fused form with connective; internal sandhi ca+aṣṭamam",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ordinal numeral for a vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional vessels continue the enumeration after the first six?",
+   "premises": [
+    "The verse continues numbering vessels in sequence.",
+    "It specifies the seventh as for well water.",
+    "It adds an eighth and likewise a ninth vessel."
+   ],
+   "inference": "The sequence continues with a seventh vessel for well water, an eighth, and a ninth.",
+   "uncertainties": [
+    "The specific contents of the eighth and ninth vessels are not stated here."
+   ],
+   "plain_english": "The seventh is for well water, and likewise the eighth and the ninth."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to enumerated vessels",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral specifying total count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātrāṇi",
+     "gloss": "vessels",
+     "grounds": "ritual containers",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "saure",
+     "gloss": "in-solar-worship",
+     "grounds": "locative indicating Saura ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śaive",
+     "gloss": "in-śaiva-worship",
+     "grounds": "locative indicating Śaiva ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiṣṇave",
+     "gloss": "in-vaiṣṇava-worship",
+     "grounds": "locative indicating Vaiṣṇava ritual context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which ritual traditions are these ten vessels prescribed?",
+   "premises": [
+    "The verse summarizes the previously enumerated vessels as ten.",
+    "It names the Saura ritual context.",
+    "It also names the Śaiva and Vaiṣṇava contexts."
+   ],
+   "inference": "These ten vessels are prescribed in Saura, Śaiva, and Vaiṣṇava worship.",
+   "uncertainties": [],
+   "plain_english": "These ten vessels are used in Saura, Śaiva, and Vaiṣṇava worship."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "arghyādipañcapātrāṇi",
+     "gloss": "arghya-etc-five-vessels",
+     "grounds": "compound naming five vessels beginning with arghya",
+     "morph": "n.acc.pl arghya+ādi+pañca+pātra"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "in-three-ways",
+     "grounds": "indicates threefold arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.caus.act sam-√sthā"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified ritual practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner arrange the five vessels beginning with arghya?",
+   "premises": [
+    "The verse refers to five vessels beginning with the arghya vessel.",
+    "It specifies a threefold mode of arrangement.",
+    "It instructs the wise practitioner to arrange them accordingly."
+   ],
+   "inference": "The wise practitioner should arrange the five arghya-related vessels in a threefold manner.",
+   "uncertainties": [
+    "The exact meaning of the threefold arrangement is not specified in this verse."
+   ],
+   "plain_english": "The wise one should arrange the five vessels, beginning with the arghya vessel, in three ways."
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "pañcāyatanapūjāyāṃ",
+     "gloss": "in-five-shrine-worship",
+     "grounds": "compound naming worship of five deities or shrines",
+     "morph": "f.loc.sg pañca+āyatana+pūjā"
+    },
+    {
+     "surface": "pañcadhārghyādipañcakam",
+     "gloss": "fivefold-arghya-etc-five",
+     "grounds": "compound indicating five sets of five vessels beginning with arghya",
+     "morph": "n.nom.sg pañcadhā+arghya+ādi+pañcaka"
+    }
+   ],
+   "question": "What vessel arrangement is required in pañcāyatana worship?",
+   "premises": [
+    "The verse specifies the context of pañcāyatana worship.",
+    "It prescribes a fivefold set of five vessels beginning with arghya.",
+    "This extends the earlier vessel arrangement to five sets."
+   ],
+   "inference": "In pañcāyatana worship, five sets of the five arghya-related vessels are required.",
+   "uncertainties": [],
+   "plain_english": "In the worship of the five shrines, there should be five sets of the five vessels beginning with arghya."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "sāmānyāvaraṇaṃ",
+     "gloss": "common-enclosure",
+     "grounds": "general outer circle or covering in worship",
+     "morph": "n.acc.sg sāmānya+āvaraṇa"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sāmānyārghyeṇa",
+     "gloss": "with-common-arghya",
+     "grounds": "instrumental indicating use of common arghya water",
+     "morph": "n.ins.sg sāmānya+arghya"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "O-beautiful-one",
+     "grounds": "vocative epithet of the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "With what substance is the common enclosure worshipped, O goddess?",
+   "premises": [
+    "The verse addresses the goddess directly.",
+    "It refers to the common enclosure in worship.",
+    "It specifies the common arghya as the means."
+   ],
+   "inference": "The common enclosure is to be worshipped with the common arghya.",
+   "uncertainties": [],
+   "plain_english": "O goddess, O beautiful one, the common enclosure should be worshipped with the common arghya."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-powers",
+     "grounds": "refers to the group of śaktis",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "śaktipātreṇa",
+     "gloss": "with-power-vessel",
+     "grounds": "instrumental indicating vessel designated for śaktis",
+     "morph": "n.ins.sg śakti+pātra"
+    },
+    {
+     "surface": "gurūṇāṃ",
+     "gloss": "of-gurus",
+     "grounds": "refers to the lineage of gurus",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gurupātrataḥ",
+     "gloss": "from-guru-vessel",
+     "grounds": "ablative indicating source vessel for gurus",
+     "morph": "n.abl.sg guru+pātra"
+    }
+   ],
+   "question": "Which vessels are assigned for satisfying the śaktis and the gurus?",
+   "premises": [
+    "The verse mentions the śaktis and specifies a śakti vessel.",
+    "It mentions the gurus and specifies a guru vessel.",
+    "Different groups are served from their designated vessels."
+   ],
+   "inference": "The śaktis are served with the śakti vessel and the gurus from the guru vessel.",
+   "uncertainties": [],
+   "plain_english": "For the śaktis, use the śakti vessel; for the gurus, use the guru vessel."
+  },
+  {
+   "verse": 1038,
+   "rows": [
+    {
+     "surface": "yoginīpātratoyena",
+     "gloss": "with-yoginī-vessel-water",
+     "grounds": "compound indicating water from the yoginī vessel",
+     "morph": "n.ins.sg yoginī+pātra+toya"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "prescriptive ritual instruction to offer satisfaction",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-leader-of-the-clan",
+     "grounds": "vocative epithet of the goddess",
+     "morph": "f.voc.sg kula+nāyikā"
+    }
+   ],
+   "question": "With what should one satisfy the recipients addressed to the clan leader?",
+   "premises": [
+    "The verse addresses the goddess as leader of the clan.",
+    "It specifies water from the yoginī vessel.",
+    "It prescribes the act of satisfying or offering tarpaṇa."
+   ],
+   "inference": "One should perform tarpaṇa using the water from the yoginī vessel.",
+   "uncertainties": [
+    "The specific recipients of this tarpaṇa are implied but not explicitly named in this verse."
+   ],
+   "plain_english": "O leader of the clan, one should offer satisfaction with the water from the yoginī vessel."
+  },
+  {
+   "verse": 1039,
+   "rows": [
+    {
+     "surface": "bhairavasya",
+     "gloss": "of-bhairava",
+     "grounds": "refers to Bhairava as the source designation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātreṇa",
+     "gloss": "with-vessel",
+     "grounds": "instrumental indicating the ritual vessel",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bhairavāṃ",
+     "gloss": "bhairavas",
+     "grounds": "recipients of the offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "prescriptive ritual instruction to offer satisfaction",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified ritual practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner satisfy the Bhairavas in ritual?",
+   "premises": [
+    "The verse refers to Bhairava's vessel.",
+    "It names the Bhairavas as recipients.",
+    "It instructs the wise practitioner to perform tarpaṇa."
+   ],
+   "inference": "The wise practitioner should satisfy the Bhairavas using Bhairava's vessel.",
+   "uncertainties": [],
+   "plain_english": "And with Bhairava's vessel, the wise one should satisfy the Bhairavas."
+  },
+  {
+   "verse": 1040,
+   "rows": [
+    {
+     "surface": "balipātreṇa",
+     "gloss": "with-bali-vessel",
+     "grounds": "instrumental indicating vessel for bali offerings",
+     "morph": "n.ins.sg bali+pātra"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg deva+īśī"
+    },
+    {
+     "surface": "balyutsarjanam",
+     "gloss": "bali-offering-release",
+     "grounds": "compound naming the act of offering bali",
+     "morph": "n.acc.sg bali+utsarjana"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.act ā-√car"
+    }
+   ],
+   "question": "With which vessel should the release of the bali offering be performed?",
+   "premises": [
+    "The verse addresses the goddess as lady of the gods.",
+    "It specifies the bali vessel as the instrument.",
+    "It prescribes performing the release of the bali offering."
+   ],
+   "inference": "The release of the bali offering should be performed with the bali vessel.",
+   "uncertainties": [],
+   "plain_english": "O lady of the gods, one should perform the release of the bali offering with the bali vessel."
+  },
+  {
+   "verse": 1041,
+   "rows": [
+    {
+     "surface": "rājarājeśvarasya",
+     "gloss": "of-rājarājeśvara",
+     "grounds": "refers to the deity Rājarājeśvara",
+     "morph": "m.gen.sg rājarāja+īśvara"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "bali-offering",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "with-that-same",
+     "grounds": "fused emphatic instrumental; internal sandhi tena+eva",
+     "morph": "m.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause-to-offer",
+     "grounds": "prescriptive causative instruction",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    }
+   ],
+   "question": "With what should the bali offering to Rājarājeśvara also be made?",
+   "premises": [
+    "The verse refers to Rājarājeśvara as the recipient.",
+    "It prescribes offering bali to him as well.",
+    "It specifies using that same vessel."
+   ],
+   "inference": "The bali offering to Rājarājeśvara should also be made with that same bali vessel.",
+   "uncertainties": [],
+   "plain_english": "One should also cause the bali offering to Rājarājeśvara to be made with that same vessel."
+  },
+  {
+   "verse": 1042,
+   "rows": [
+    {
+     "surface": "guhyapātrāmṛtenaiva",
+     "gloss": "with-secret-vessel-nectar-alone",
+     "grounds": "compound indicating nectar from the secret vessel; internal sandhi amṛtena+eva",
+     "morph": "n.ins.sg guhya+pātra+amṛta + (indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "prescriptive ritual instruction to offer satisfaction",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    },
+    {
+     "surface": "guhyayoginīḥ",
+     "gloss": "secret-yoginīs",
+     "grounds": "recipients of the offering",
+     "morph": "f.acc.pl guhya+yoginī"
+    }
+   ],
+   "question": "With what substance should the secret yoginīs be satisfied?",
+   "premises": [
+    "The verse names the secret yoginīs as recipients.",
+    "It specifies nectar from the secret vessel.",
+    "The emphatic particle eva restricts the means to that nectar alone."
+   ],
+   "inference": "The secret yoginīs should be satisfied only with nectar from the secret vessel.",
+   "uncertainties": [],
+   "plain_english": "One should satisfy the secret yoginīs with the nectar from the secret vessel alone."
+  },
+  {
+   "verse": 1043,
+   "rows": [
+    {
+     "surface": "ūrdhvāmnāyakramaṃ",
+     "gloss": "upward-transmission-order",
+     "grounds": "compound naming the sequence of the upper āmnāya",
+     "morph": "m.acc.sg ūrdhva+āmnāya+krama"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīvidyāvṛndapūjanam",
+     "gloss": "śrīvidyā-group-worship",
+     "grounds": "compound naming worship of the Śrīvidyā assembly",
+     "morph": "n.acc.sg śrīvidyā+vṛnda+pūjana"
+    }
+   ],
+   "question": "Which ritual sequences are included alongside the previously stated practices?",
+   "premises": [
+    "The verse names the order of the upper āmnāya.",
+    "It also names the worship of the Śrīvidyā group.",
+    "Both are presented as items to be performed in this context."
+   ],
+   "inference": "The upper āmnāya sequence and the worship of the Śrīvidyā group are included in this ritual context.",
+   "uncertainties": [
+    "The governing verb is not stated in this verse and may be carried over from context."
+   ],
+   "plain_english": "And indeed the order of the upper āmnāya, and the worship of the Śrīvidyā group."
+  },
+  {
+   "verse": 1044,
+   "rows": [
+    {
+     "surface": "antaryāgaṃ",
+     "gloss": "internal-worship",
+     "grounds": "inner ritual performance",
+     "morph": "m.acc.sg antar+yāga"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmapūjāṃ",
+     "gloss": "self-worship",
+     "grounds": "worship directed to one's own self",
+     "morph": "f.acc.sg ātman+pūjā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarhavanam",
+     "gloss": "internal-offering",
+     "grounds": "inner fire offering",
+     "morph": "n.acc.sg antar+havana"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which internal ritual acts are enumerated in this sequence?",
+   "premises": [
+    "The verse lists internal worship as one act.",
+    "It lists self-worship as another act.",
+    "It lists internal offering as a further act."
+   ],
+   "inference": "Internal worship, self-worship, and internal offering are all included in this sequence.",
+   "uncertainties": [
+    "The governing verb is not stated in this verse and may be carried over from context."
+   ],
+   "plain_english": "And internal worship, and self-worship, and indeed internal offering."
+  },
+  {
+   "verse": 1045,
+   "rows": [
+    {
+     "surface": "dūtīyāge",
+     "gloss": "in-dūtī-rite",
+     "grounds": "locative indicating the ritual of the dūtī",
+     "morph": "m.loc.sg dūtī+yāga"
+    },
+    {
+     "surface": "prayoktavyaṃ",
+     "gloss": "should-be-employed",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg gerundive pra-√yuj"
+    },
+    {
+     "surface": "dūtīpātracatuṣṭayam",
+     "gloss": "dūtī-vessel-quartet",
+     "grounds": "compound naming four vessels for the dūtī rite",
+     "morph": "n.nom.sg dūtī+pātra+catuṣṭaya"
+    }
+   ],
+   "question": "What set of vessels must be employed in the dūtī rite?",
+   "premises": [
+    "The verse specifies the context of the dūtī rite.",
+    "It prescribes that something should be employed.",
+    "It names a quartet of dūtī vessels."
+   ],
+   "inference": "In the dūtī rite, the quartet of dūtī vessels should be employed.",
+   "uncertainties": [],
+   "plain_english": "In the dūtī rite, the quartet of dūtī vessels should be employed."
+  },
+  {
+   "verse": 1046,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptāṣṭau",
+     "gloss": "seven-eight",
+     "grounds": "compound numeral giving two options; internal sandhi sapta+aṣṭau",
+     "morph": "(indecl.) sapta+aṣṭan"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.caus.act √sthā"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified ritual practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many vessels may the wise practitioner place as alternatives?",
+   "premises": [
+    "The verse offers several numerical options.",
+    "The options include five, six, seven, eight, or nine.",
+    "The wise practitioner is instructed to place them accordingly."
+   ],
+   "inference": "The wise practitioner may place five, six, seven, eight, or nine vessels as alternatives.",
+   "uncertainties": [
+    "The specific type of vessels referred to is not named in this verse and may depend on context."
+   ],
+   "plain_english": "The wise one may place five, or six, or seven or eight, or nine vessels."
+  },
+  {
+   "verse": 1047,
+   "rows": [
+    {
+     "surface": "apavitraṃ",
+     "gloss": "impure",
+     "grounds": "ritually unfit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karodbhraṣṭaṃ",
+     "gloss": "fallen-from-hand",
+     "grounds": "compound indicating something dropped from the hand",
+     "morph": "n.acc.sg kara+udbhraṣṭa"
+    },
+    {
+     "surface": "paśuspṛṣṭaṃ",
+     "gloss": "touched-by-animal",
+     "grounds": "compound indicating contact by an animal",
+     "morph": "n.acc.sg paśu+spṛṣṭa"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive prohibition",
+     "morph": "3.sg.opt.act vi-√vṛj"
+    }
+   ],
+   "question": "Which kinds of ritual items must be avoided as unfit for use?",
+   "premises": [
+    "The verse identifies what is impure.",
+    "It includes what has fallen from the hand.",
+    "It includes what has been touched by an animal."
+   ],
+   "inference": "Anything impure, dropped from the hand, or touched by an animal should be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid anything impure, fallen from the hand, or touched by an animal."
+  },
+  {
+   "verse": 1048,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "pātrasāṃkaryaṃ",
+     "gloss": "vessel-mixing",
+     "grounds": "compound indicating confusion or mixing of vessels",
+     "morph": "n.acc.sg pātra+sāṃkarya"
+    },
+    {
+     "surface": "dravyāṇāṃ",
+     "gloss": "of-substances",
+     "grounds": "refers to ritual materials",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasizes particular care",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mixing must be especially avoided in ritual arrangements?",
+   "premises": [
+    "The verse prohibits a certain action.",
+    "It names the mixing of vessels.",
+    "It especially emphasizes avoiding mixing of substances."
+   ],
+   "inference": "One must not mix vessels and especially must not mix the substances.",
+   "uncertainties": [],
+   "plain_english": "One should not mix vessels, and especially not mix the substances."
+  },
+  {
+   "verse": 1049,
+   "rows": [
+    {
+     "surface": "raśmicakraṃ",
+     "gloss": "ray-circle",
+     "grounds": "compound naming a circle or wheel of rays",
+     "morph": "n.acc.sg raśmi+cakra"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg deva+īśī"
+    },
+    {
+     "surface": "nānyapātreṇa",
+     "gloss": "not-with-other-vessel",
+     "grounds": "fused negative instrumental; internal sandhi na+anya-pātreṇa",
+     "morph": "(indecl.) + n.ins.sg anya+pātra"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "prescriptive ritual instruction to offer satisfaction",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    }
+   ],
+   "question": "With what restriction must the ray circle be satisfied in worship?",
+   "premises": [
+    "The verse addresses the goddess as lady of the gods.",
+    "It refers to satisfying the ray circle.",
+    "It prohibits using any other vessel for this act."
+   ],
+   "inference": "The ray circle must not be satisfied with any other vessel than the one designated.",
+   "uncertainties": [
+    "The specific designated vessel for the ray circle is not named in this verse."
+   ],
+   "plain_english": "O lady of the gods, one should not satisfy the ray circle with any other vessel."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p38",
  "verse": 935,
- "question": "Which chapter of the Aṃśumān Kāśyapa text concludes at this point?",
+ "question": "From what reference point should the ends of those two be established in sequence?",
  "premises": [
-  "The passage concludes with a colophon.",
-  "It names the chapter on two-storey measures.",
-  "It gives the chapter number as twenty-seventh."
+  "An initial arrangement is made.",
+  "The ends of those two are the targets.",
+  "The procedure proceeds from the end of the middle thread in order."
  ],
- "inference": "This is the conclusion of the twenty-seventh chapter on two-storey measures in the Aṃśumān Kāśyapa.",
- "uncertainties": [],
- "plain_english": "Thus ends the twenty-seventh chapter, on the measure of two-storey structures, in the Aṃśumān Kāśyapa."
+ "inference": "After making the arrangement, one should proceed in order from the end of the middle thread to the ends of those two.",
+ "uncertainties": [
+  "The identity of those two referents is not explicit in this verse."
+ ],
+ "plain_english": "Having made the arrangement, proceed in order from the end of the middle thread to the ends of those two."
 }

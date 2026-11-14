@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "durgām",
+     "gloss": "durga",
+     "grounds": "accusative object naming the deity to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhruvoḥ",
+     "gloss": "at-brows",
+     "grounds": "locative indicating the place of worship",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating continuation of the placement instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmīm",
+     "gloss": "lakshmi",
+     "grounds": "accusative object naming the deity to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rasanāyām",
+     "gloss": "on-tongue",
+     "grounds": "locative indicating the place of worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarasvatīm",
+     "gloss": "sarasvati",
+     "grounds": "accusative object naming the deity to be worshipped",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "At which bodily locations are Durgā, Lakṣmī, and Sarasvatī to be worshipped in this rite?",
+   "premises": [
+    "Durgā is named as an object of worship located at the brows.",
+    "Lakṣmī and Sarasvatī are named as further objects of worship.",
+    "The tongue is specified as the location for Lakṣmī and Sarasvatī."
+   ],
+   "inference": "The rite assigns Durgā to the brows and places Lakṣmī together with Sarasvatī on the tongue.",
+   "uncertainties": [
+    "The governing verb of worship is carried over from the preceding verse and is not repeated here."
+   ],
+   "plain_english": "Worship Durgā at the brows, and likewise worship Lakṣmī and Sarasvatī on the tongue."
+  }
+ ]
+}

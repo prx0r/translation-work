@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative form indicating the central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhuparkaḥ",
+     "gloss": "madhuparka-offering",
+     "grounds": "ritual honey-mixture offering or its vessel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed placement",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "ityetatpātralakṣaṇam",
+     "gloss": "thus-this-vessel-characteristic",
+     "grounds": "compound concluding the description: iti+etat+pātra+lakṣaṇam",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What placement and defining mark complete the prescribed arrangement of the ritual vessels?",
+   "premises": [
+    "The madhuparka offering is prescribed to be placed in the middle.",
+    "This placement follows the previously stated positions of other vessels.",
+    "The stated positions together constitute the characteristic arrangement of the vessels."
+   ],
+   "inference": "Therefore, the central placement of the madhuparka completes the defining arrangement of the ritual vessels.",
+   "uncertainties": [],
+   "plain_english": "But in the middle should be the madhuparka; thus this is the characteristic arrangement of the vessels."
+  }
+ ]
+}

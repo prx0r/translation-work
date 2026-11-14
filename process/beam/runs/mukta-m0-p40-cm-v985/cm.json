@@ -3,29 +3,34 @@
  "verse": 985,
  "rows": [
   {
-   "lemma": "parito",
+   "lemma": "mantrāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "subject affected by omission"
+  },
+  {
+   "lemma": "parāṅmukhāḥ",
+   "morph": "m.nom.pl compound parāṅ-mukha",
+   "grounds": "describes their response"
+  },
+  {
+   "lemma": "yānti",
+   "morph": "3.pl.act-present √yā",
+   "grounds": "action of the mantras"
+  },
+  {
+   "lemma": "āpadaḥ",
+   "morph": "f.nom.pl",
+   "grounds": "additional consequence"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "on all sides"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "alindam",
-   "morph": "n.nom.sg",
-   "grounds": "verandah or terrace space"
-  },
-  {
-   "lemma": "ekāṃśaṃ",
-   "morph": "compound",
-   "grounds": "compound eka-aṃśa, measuring one part"
-  },
-  {
-   "lemma": "hārāvyāsaṃ",
-   "morph": "compound",
-   "grounds": "compound hāra-vyāsa, width of the gallery"
-  },
-  {
-   "lemma": "śivāṃśakam",
-   "morph": "compound",
-   "grounds": "compound śiva-aṃśaka, one auspicious part"
+   "lemma": "pade+pade",
+   "morph": "n.loc.sg compound pada+pada",
+   "grounds": "indicates repeated occurrence"
   }
  ]
 }
