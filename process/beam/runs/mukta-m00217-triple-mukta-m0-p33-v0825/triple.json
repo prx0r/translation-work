@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "bhūpuraṃ",
+     "gloss": "earth-enclosure",
+     "grounds": "the outer square enclosure of the Śrīcakra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating the starting point of a sequence",
+     "morph": "gerund (sam-ā-rabh)"
+    },
+    {
+     "surface": "vaindavāntaṃ",
+     "gloss": "ending-at-bindu",
+     "grounds": "compound denoting the limit reaching up to the bindu",
+     "morph": "n.acc.sg (vaindava+anta)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address to the supreme goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What span of the Śrīcakra is delineated from the earth-enclosure up to the bindu?",
+   "premises": [
+    "The earth-enclosure is named as the starting point.",
+    "The bindu is named as the endpoint.",
+    "The sequence is addressed to the great goddess."
+   ],
+   "inference": "The Śrīcakra is to be understood as extending from the outer earth-enclosure to the central bindu.",
+   "uncertainties": [
+    "The exact ritual or contemplative action implied by this span is not specified in this verse alone."
+   ],
+   "plain_english": "O great goddess, beginning from the earth-enclosure and extending up to the bindu."
+  }
+ ]
+}

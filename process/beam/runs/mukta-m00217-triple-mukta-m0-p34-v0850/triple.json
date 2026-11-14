@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "dagdhaṃ",
+     "gloss": "burnt",
+     "grounds": "past passive participle of dah, describing yantra",
+     "morph": "ppp.nom.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting defects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭitaṃ",
+     "gloss": "cracked",
+     "grounds": "past passive participle of sphuṭ, describing yantra",
+     "morph": "ppp.nom.acc.sg.n"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "ritual diagram or instrument, subject of defects",
+     "morph": "n.nom.acc.sg"
+    },
+    {
+     "surface": "hṛtaṃ",
+     "gloss": "stolen",
+     "grounds": "past passive participle of hṛ, describing yantra",
+     "morph": "ppp.nom.acc.sg.n"
+    },
+    {
+     "surface": "caureṇa",
+     "gloss": "by-thief",
+     "grounds": "agent of theft",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction presenting alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-dear-one",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What further conditions of damage or loss render a yantra defective for worship?",
+   "premises": [
+    "A yantra may be burnt.",
+    "A yantra may be cracked.",
+    "A yantra may be stolen by a thief."
+   ],
+   "inference": "Burning, cracking, or theft are additional conditions that render a yantra defective.",
+   "uncertainties": [
+    "The specific ritual consequence for such a defective yantra is not stated in this verse alone."
+   ],
+   "plain_english": "O dear one, a yantra that is burnt, cracked, or stolen by a thief is defective."
+  }
+ ]
+}

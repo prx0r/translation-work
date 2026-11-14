@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 708,
- "question": "What qualification arises from being worshipped by the world in ritual authority?",
+ "question": "Which elements are to be uttered for Maṅgalanātha and Asitāṅga at the specified mantra position?",
  "premises": [
-  "There is a connection with being worshipped by the world.",
-  "This connection confers ritual standing.",
-  "Authority for consecration results."
+  "Akṣa is named for Maṅgalanātha",
+  "The position is at the end of aṃkṣa",
+  "Asitāṅga is also included"
  ],
- "inference": "Through being worshipped by the world, one becomes authorized for consecration.",
- "uncertainties": [],
- "plain_english": "Through being worshipped by the world, one becomes authorized for consecration."
+ "inference": "One should utter akṣa for Maṅgalanātha and include Asitāṅga at the end of aṃkṣa.",
+ "uncertainties": [
+  "Full syntactic completion may depend on adjacent verses"
+ ],
+ "plain_english": "Say akṣa for Maṅgalanātha, and at the end of aṃkṣa include Asitāṅga."
 }
