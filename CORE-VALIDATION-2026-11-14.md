@@ -10,8 +10,10 @@ Reproduce: `python3 tools/verify_core.py`.*
 
 - **95 REGISTRY works / 322 songs**
 - **318 GATE-OK** — stored PASS reproduces exactly from current bytes.
-- **4 NO-PROOF** — `sivasutra/span-p09`, `spanda/span-p04b/05/06` (loop
-  in-flight; `tw-assemble` owns them; not defects).
+- **4 OUT-OF-SCOPE** — `spanda/span-p04b/05/06` (later niḥṣyandas; REGISTRY
+  scope = first niḥṣyanda vv1–25) and `sivasutra/span-p09` (sutras 76–77
+  beyond the 75-sutta Kaul recension). Data exists; no proof by design. Not
+  defects — `verify_core` reports them `OUT-OF-SCOPE`.
 - **0 REGRESSIONS** — no song claims PASS that doesn't recompute.
 - Align: p10 = 0.912, p50 = 1.000, p90 = 1.000. **43 verses** rely on a
   recorded, grounded disposition. 63 songs dip below 0.95 somewhere (normal
