@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2239,
- "question": "What excellent seats have been told to the goddess?",
+ "question": "What additional grid configurations may be used for the altar diagram?",
  "premises": [
-  "excellent seats are named",
-  "they are told by me",
-  "they are told to you"
+  "An eight-by-eight square layout is permitted.",
+  "A layout defined by thread-group divisions is also permitted."
  ],
- "inference": "The verse states excellent seats have been told to the goddess.",
- "uncertainties": [
-  "exact list referenced"
- ],
- "plain_english": "Excellent seats have been told by me to you, O goddess."
+ "inference": "Further acceptable altar grids include an eight-by-eight layout or one marked by thread divisions.",
+ "uncertainties": [],
+ "plain_english": "or an eight-by-eight square layout, or indeed one divided by thread lines."
 }

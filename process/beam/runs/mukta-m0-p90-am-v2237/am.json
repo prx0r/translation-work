@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2237,
- "question": "Which named animals are addressed to Parvati?",
+ "question": "What are the specified dimensions and placement of the altar in the ritual space?",
  "premises": [
-  "bull-named is listed",
-  "horse-named is listed",
-  "buffalo-named is listed"
+  "An altar is placed in the middle of that area.",
+  "Its measure is one staff and its height is five fingers."
  ],
- "inference": "The verse lists bull-named, horse-named, and buffalo-named items addressed to Parvati.",
- "uncertainties": [
-  "exact relation among items"
- ],
- "plain_english": "Bull-named, horse-named, and buffalo-named items are listed, O Parvati."
+ "inference": "The altar must be centrally placed with a staff-length measure and five-finger height.",
+ "uncertainties": [],
+ "plain_english": "in its middle one should make an altar measuring a staff in extent and raised five fingers high."
 }

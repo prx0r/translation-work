@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p92",
  "verse": 2296,
- "question": "What spatial boundary west of Kāmanātha is specified for the sacred area?",
+ "question": "What range of veranda configurations is included in the prescribed architectural options?",
  "premises": [
-  "The direction is west of Kāmanātha.",
-  "A distance of seven bow-lengths is given.",
-  "The location is defined within that interval."
+  "Configurations are described as joined with verandas.",
+  "The number of verandas ranges from one to seven.",
+  "These form a series of possible options."
  ],
- "inference": "The sacred area lies within seven bow-lengths to the west of Kāmanātha.",
- "uncertainties": [],
- "plain_english": "To the west of Kāmanātha, within seven bow-lengths."
+ "inference": "The prescribed options include configurations joined with one through seven verandas.",
+ "uncertainties": [
+  "The structures to which these verandas are attached are implied by context."
+ ],
+ "plain_english": "They may be joined with one, two, three, four, five, six, or seven verandas."
 }

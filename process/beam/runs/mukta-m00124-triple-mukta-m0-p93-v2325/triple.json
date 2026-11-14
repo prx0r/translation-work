@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "sabhā",
+     "gloss": "assembly-hall",
+     "grounds": "first member of compound describing form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ākāra",
+     "gloss": "form",
+     "grounds": "second member of compound with sabhā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yutaṃ",
+     "gloss": "joined-with",
+     "grounds": "qualifies the structure as endowed with the stated form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restricts to a single form without additions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "first member of compound denoting a water site",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthalam",
+     "gloss": "site",
+     "grounds": "second member of compound; denotes the place or ground",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative forms may a structure take, including an assembly-hall form or a water site?",
+   "premises": [
+    "A structure may be joined with the form of an assembly hall.",
+    "A structure may alternatively be only that form.",
+    "A structure may alternatively be a water site."
+   ],
+   "inference": "The permitted forms include an assembly-hall shape, that form alone, or a water site.",
+   "uncertainties": [
+    "The exact architectural referent of jala-sthalam in this context is not fully specified."
+   ],
+   "plain_english": "It may be shaped like an assembly hall, or be only that, or else be a water site."
+  }
+ ]
+}

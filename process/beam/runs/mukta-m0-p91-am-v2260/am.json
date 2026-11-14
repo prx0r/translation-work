@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2260,
- "question": "What certainty is stated about desired objects?",
+ "question": "How many halls are declared as valid configurations in this architectural scheme?",
  "premises": [
-  "whatever he desires",
-  "he certainly obtains that"
+  "Specific numbers of halls are enumerated.",
+  "The enumeration includes one, two, three, four, seven, and ten.",
+  "These configurations are formally declared."
  ],
- "inference": "Whatever is desired is certainly obtained.",
- "uncertainties": [
-  "ritual precondition not stated in this verse"
- ],
- "plain_english": "Whatever he desires, he certainly obtains."
+ "inference": "Structures with one, two, three, four, seven, or ten halls are declared valid.",
+ "uncertainties": [],
+ "plain_english": "Halls numbering one, two, three, four, seven, and ten are declared."
 }

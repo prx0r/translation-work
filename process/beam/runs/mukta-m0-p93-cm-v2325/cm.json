@@ -3,24 +3,49 @@
  "verse": 2325,
  "rows": [
   {
-   "lemma": "sarpiṣājyāplutābhiḥ",
-   "morph": "adj.instr.pl.f",
-   "grounds": "legacy hint ghee-anointed; instrumental plural feminine adjective"
+   "lemma": "sabhā",
+   "morph": "compound-member",
+   "grounds": "first member of compound describing form"
   },
   {
-   "lemma": "te",
-   "morph": "pron.nom.pl.m",
-   "grounds": "legacy hint they; pronoun subject"
+   "lemma": "ākāra",
+   "morph": "compound-member",
+   "grounds": "second member of compound with sabhā"
   },
   {
-   "lemma": "praṇamantyeva",
-   "morph": "verb.3pl.act-pres (praṇam) + (indecl.)",
-   "grounds": "legacy hint bow-indeed; verb plus indeclinable eva"
+   "lemma": "yutaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "qualifies the structure as endowed with the stated form"
   },
   {
-   "lemma": "pādayoḥ",
-   "morph": "loc.du.m",
-   "grounds": "legacy hint at-feet; locative dual"
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "introduces an alternative"
+  },
+  {
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "inclusive particle extending the alternatives"
+  },
+  {
+   "lemma": "kevalaṃ",
+   "morph": "(indecl.)",
+   "grounds": "restricts to a single form without additions"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "introduces another alternative"
+  },
+  {
+   "lemma": "jala",
+   "morph": "compound-member",
+   "grounds": "first member of compound denoting a water site"
+  },
+  {
+   "lemma": "sthalam",
+   "morph": "n.nom.sg",
+   "grounds": "second member of compound; denotes the place or ground"
   }
  ]
 }

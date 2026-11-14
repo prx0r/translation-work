@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2238,
- "question": "Which king's vehicle and horse-lord-named item are listed?",
+ "question": "What grid layouts are permitted for the ritual diagram on the altar?",
  "premises": [
-  "king's vehicle is named",
-  "horse-lord-named is named",
-  "thus frames the list"
+  "Divisions of four and nine may be used.",
+  "Alternatively a twenty-five-square layout may be used."
  ],
- "inference": "The verse lists king's vehicle and horse-lord-named item.",
+ "inference": "The altar diagram may be arranged in a four-by-nine or a twenty-five-square grid.",
  "uncertainties": [
-  "exact relation among items"
+  "The exact interpretation of caturṇavavikāra as a combined or alternative grid is context-dependent."
  ],
- "plain_english": "King's vehicle and horse-lord-named item are listed thus."
+ "plain_english": "It may have divisions of four and nine, or indeed twenty-five squares,"
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p92",
  "verse": 2285,
- "question": "How are Rāmagayā and the Rāma offering spatially located at the site?",
+ "question": "What fractional range must be followed according to the prescribed rule?",
  "premises": [
-  "Rāmagayā is located at the head-side.",
-  "The Rāma offering is located in the south.",
-  "The verse distinguishes these two locations."
+  "The progression begins at one fourth.",
+  "It extends up to one sixteenth.",
+  "The procedure must follow the rule."
  ],
- "inference": "Rāmagayā is at the head-side while the Rāma offering is in the south.",
- "uncertainties": [],
- "plain_english": "Rāmagayā is at the head-side, and the Rāma offering is in the south."
+ "inference": "According to the rule, the measure should proceed from one fourth up to one sixteenth.",
+ "uncertainties": [
+  "Whether the sequence increases or decreases between these fractions is not explicit in this verse."
+ ],
+ "plain_english": "Beginning from one fourth and going up to one sixteenth, it should be done according to the rule."
 }

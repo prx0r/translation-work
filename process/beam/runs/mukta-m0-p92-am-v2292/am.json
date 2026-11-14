@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p92",
  "verse": 2292,
- "question": "What purifying power is attributed to the southern Mānasa site?",
+ "question": "How is the upper measure derived in relation to the base wall and pillar dimension?",
  "premises": [
-  "The southern Mānasa is identified.",
-  "It is emphatically described.",
-  "It is said to destroy all sins."
+  "The base wall provides the reference measure.",
+  "The measure above is being defined.",
+  "It is reduced by half a pillar measure."
  ],
- "inference": "The southern Mānasa is a site that destroys all sins.",
- "uncertainties": [],
- "plain_english": "That southern Mānasa indeed destroys all sins."
+ "inference": "Above the base wall, this measure is less by half a pillar.",
+ "uncertainties": [
+  "The exact unit of the pillar measure is assumed from context."
+ ],
+ "plain_english": "Above the base wall, this measure is reduced by half a pillar."
 }

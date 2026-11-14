@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p92",
  "verse": 2290,
- "question": "What spatial boundary west of Vāsudeva is specified for the sacred area?",
+ "question": "What range of proportions based on pillar diameter is allowed for the measurement?",
  "premises": [
-  "The direction is west of Vāsudeva.",
-  "A distance of eighteen bow-lengths is given.",
-  "The location is defined within that interval."
+  "The pillar diameter serves as the base measure.",
+  "The proportion begins at double that measure.",
+  "The proportion extends up to nine times that measure."
  ],
- "inference": "The sacred area lies within eighteen bow-lengths to the west of Vāsudeva.",
- "uncertainties": [],
- "plain_english": "To the west of Vāsudeva, within eighteen bow-lengths."
+ "inference": "The measurement may range from twice to nine times the pillar diameter.",
+ "uncertainties": [
+  "The architectural element to which this range applies is implied by context."
+ ],
+ "plain_english": "Using the pillar’s diameter as the measure, it may range from double up to nine times."
 }

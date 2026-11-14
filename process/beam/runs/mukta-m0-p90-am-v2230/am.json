@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2230,
- "question": "Which seats and beings are listed together?",
+ "question": "What harmful supernatural or health threats justify site-pacification?",
  "premises": [
-  "horse seat is named",
-  "elephant and palanquin are named",
-  "human is included"
+  "A defect may be caused by sorcery.",
+  "There may be fear of disease or epidemic."
  ],
- "inference": "The verse lists horse seat, elephant, palanquin, and human together.",
- "uncertainties": [
-  "exact relation among items"
- ],
- "plain_english": "Horse seat, elephant, palanquin, and human are listed thus."
+ "inference": "Sorcery-induced defects and threats of illness justify site-pacification.",
+ "uncertainties": [],
+ "plain_english": "when there is a defect caused by sorcery, and also when there is fear of disease or epidemic,"
 }
