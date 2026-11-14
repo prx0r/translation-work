@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "samaṃ",
+     "gloss": "equally",
+     "grounds": "in like manner; evenly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāturyaṃ",
+     "gloss": "skill",
+     "grounds": "cleverness; dexterity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "inherent; belonging-to-itself",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakaṭitam",
+     "gloss": "manifested",
+     "grounds": "made-evident; displayed",
+     "morph": "n.nom.sg (ppp, pra-√kaṭ)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "this-present",
+     "morph": "n.nom.sg (pron.)"
+    },
+    {
+     "surface": "kuṇḍalitayā",
+     "gloss": "by-coiling",
+     "grounds": "by-curvature; by-spiraling-form",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How is inherent skill equally manifested through coiling?",
+   "premises": [
+    "A coiling or curvature is present.",
+    "This coiling manifests something.",
+    "The manifested quality is its own skill."
+   ],
+   "inference": "Therefore, the coiling equally displays inherent skill.",
+   "uncertainties": [
+    "The exact referent of the coiling is carried from the preceding context."
+   ],
+   "plain_english": "In the same way, this coiling has manifested its own skill."
+  }
+ ]
+}

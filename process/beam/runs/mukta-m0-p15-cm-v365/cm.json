@@ -3,29 +3,44 @@
  "verse": 365,
  "rows": [
   {
-   "lemma": "utpadyante",
-   "morph": "3.pl.present-middle ud-√pad",
-   "grounds": "they come into being"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
   },
   {
-   "lemma": "varārohe",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "anena+eva",
+   "morph": "compound: idam+inst.sg+eva (indecl.)",
+   "grounds": "compound: anena (by this) + eva (alone)"
+  },
+  {
+   "lemma": "abhugne",
+   "morph": "m.loc.sg",
+   "grounds": "adjective describing the speaker"
+  },
+  {
+   "lemma": "mayi",
+   "morph": "loc.sg",
+   "grounds": "locative pronoun"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "anyathā",
-   "morph": "(indecl.)",
-   "grounds": "in another way"
+   "lemma": "kṛta+kṛtyaḥ",
+   "morph": "compound: kṛta+kṛtya+nom.sg",
+   "grounds": "compound: kṛta (done) + kṛtyaḥ (purpose/duty), meaning satisfied"
   },
   {
-   "lemma": "varavarṇini",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "sṛjati",
+   "morph": "3.sg.active-present (√sṛj)",
+   "grounds": "verb indicating action toward the speaker"
+  },
+  {
+   "lemma": "saḥ",
+   "morph": "m.nom.sg",
+   "grounds": "demonstrative pronoun subject"
   }
  ]
 }
