@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p21",
  "verse": 512,
- "question": "Where and with what should the ritual sprinkling be performed?",
+ "question": "Which classes of sacred texts are enumerated alongside the purāṇas in this teaching?",
  "premises": [
-  "Sprinkling is done with water consecrated by the weapon mantra.",
-  "The act takes place in front of Shiva or in the pavilion."
+  "Purāṇas are named as a class of texts.",
+  "Various tantras are named alongside them.",
+  "The enumeration is addressed to the great Goddess."
  ],
- "inference": "After sprinkling with weapon-consecrated water, the rite proceeds in front of Shiva or in the pavilion.",
- "uncertainties": [],
- "plain_english": "Having sprinkled with water consecrated by the weapon mantra, in front of Shiva or in the pavilion."
+ "inference": "Both purāṇas and various tantras are included among the sacred texts.",
+ "uncertainties": [
+  "The form 'tandraṇi' appears non-standard for 'tantrāṇi'."
+ ],
+ "plain_english": "O great Goddess, the purāṇas and various tantras."
 }

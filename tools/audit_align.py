@@ -50,6 +50,11 @@ SANDHI_PAIRS = {
     ("aī", "e"), ("e", "aī"), ("aḥ", "r"), ("r", "aḥ"),
     ("ḥ", "s"), ("s", "ḥ"), ("ḥ", "r"), ("r", "ḥ"),
     ("aa", "a"), ("a", "aa"),
+    # single-char avagraha<->a: elision marking only (T1 writes citation
+    # 'asti' for witness "'sti" and vice versa). Hand-verified on
+    # sivastotravali s01v17/v18, s02v20. Never extends to longer fragments.
+    ("a", "'"), ("'", "a"),
+    ("uu", "ū"), ("ū", "uu"), ("ii", "ī"), ("ī", "ii"),
     ("uu", "ū"), ("ū", "uu"), ("ii", "ī"), ("ī", "ii"),
     ("ī", "y"), ("y", "ī"),
     ("m", "ñ"), ("ñ", "m"), ("tś", "cch"), ("cch", "tś"),

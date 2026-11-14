@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "female spiritual being; nominative singular subject in the enumerated list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ḍākinī",
+     "gloss": "ḍākinī",
+     "grounds": "female spiritual being; nominative singular subject in the enumerated list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "mantric-knowledge goddess or power; nominative singular subject in the enumerated list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "fierce goddess; nominative singular subject in the enumerated list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāyikā+ādikāḥ",
+     "gloss": "nāyikā-and-others",
+     "grounds": "compound with ādi indicating a group beginning with nāyikā; nominative plural concluding the enumeration",
+     "morph": "nāyikā+ādi+ka (f.nom.pl)"
+    }
+   ],
+   "question": "Which additional female powers are included among those dependent on that deity's mere grace?",
+   "premises": [
+    "Earlier verses state that by mere grace even Brahmā, Viṣṇu, and Śiva are empowered.",
+    "Earlier verses extend that grace to gandharvas, kinnaras, and vidyādharas.",
+    "This verse enumerates yoginīs, ḍākinīs, vidyā, bhairavī, and nāyikās among such beings."
+   ],
+   "inference": "Therefore, these female powers are also included among those who function through that deity's mere grace.",
+   "uncertainties": [
+    "Whether vidyā here denotes a specific goddess, a class of vidyā-deities, or mantric knowledge personified is not fully determined by the verse alone."
+   ],
+   "plain_english": "Yoginīs, ḍākinīs, Vidyā, Bhairavī, and Nāyikās and others are also among those who exist and act by that deity's mere grace."
+  }
+ ]
+}
