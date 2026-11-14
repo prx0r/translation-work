@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p172",
  "verse": 4296,
- "question": "Which wooden liṅgas are prescribed for subjugation and health?",
+ "question": "Who conveys the enemy to Yama's abode with great speed?",
  "premises": [
-  "An aśvattha-born liṅga is for subjugation",
-  "A khadira liṅga should be for health"
+  "The enemy is taken quickly",
+  "Yama's messenger is the agent",
+  "The destination is Yama's abode"
  ],
- "inference": "Aśvattha and khadira liṅgas serve subjugation and health respectively",
- "uncertainties": [],
- "plain_english": "An aśvattha-born liṅga is for subjugation, and a khadira one should be for health."
+ "inference": "Yama's messenger swiftly conveys the enemy to Yama's abode",
+ "uncertainties": [
+  "The verb of conveyance is implied from context"
+ ],
+ "plain_english": "Quickly Yama's messenger takes him to the abode of Yama."
 }
