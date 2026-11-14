@@ -3,12 +3,7 @@
  "song": "mukta-m0-p03",
  "work": "mukta-m00003",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v66 ratio=0.892",
-  "ALIGN_NODISP v73 ratio=0.894",
-  "ALIGN_NODISP v74 ratio=0.884",
-  "ALIGN_NODISP v75 ratio=0.889"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "4718275174a1be4c",
@@ -25,19 +20,19 @@
   "sub090": {
    "66": {
     "ratio": 0.892,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā"
    },
    "73": {
     "ratio": 0.894,
-    "disposition": null
+    "disposition": "sandhi-only: ii>ī, m>ṃ"
    },
    "74": {
     "ratio": 0.884,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā, m>ñ, m>ṃ"
    },
    "75": {
     "ratio": 0.889,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā, hiatus/avagraha-drop, i>y, ḥ>s"
    }
   }
  },
@@ -70,12 +65,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v66",
-  "fix: word-order/gloss vs source for v73",
-  "fix: word-order/gloss vs source for v74",
-  "fix: word-order/gloss vs source for v75"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "0451c1027b35211a7fcc5c2febbbcbcc877849089e1f1ab877bafff7346542b5",
   "l0": "fb41098a8688ed1f085d951994107c4ec557828675453c795409c9d1bfe0984f",

@@ -5,7 +5,6 @@
  "date": "2026-11-01",
  "blocking": [
   "ALIGN_NODISP v26 ratio=0.883",
-  "ALIGN_NODISP v42 ratio=0.892",
   "ALIGN_NODISP v43 ratio=0.873"
  ],
  "warnings": [],
@@ -28,7 +27,7 @@
    },
    "42": {
     "ratio": 0.892,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā, hiatus/avagraha-drop, t>n"
    },
    "43": {
     "ratio": 0.873,
@@ -66,7 +65,6 @@
  },
  "needs": [
   "fix: word-order/gloss vs source for v26",
-  "fix: word-order/gloss vs source for v42",
   "fix: word-order/gloss vs source for v43"
  ],
  "deterministic_gate": "BLOCKED",

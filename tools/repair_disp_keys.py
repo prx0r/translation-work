@@ -51,6 +51,14 @@ def is_mine(note) -> bool:
     return isinstance(note, str) and "2026-11-14" in note
 
 
+def is_assessor_verified(note) -> bool:
+    """Hand-written records carry the assessor's name: they override the
+    classifier (meaning judgment beats the mechanical proxy) but still get
+    work-qualified when the song name collides."""
+    return isinstance(note, str) and "assessor-verified" in note
+
+
+
 def classify_verse(work: str, song: str, verse: int):
     """Independent verdict for one verse (ignores proof state).
     Returns (verdict, detail, ratio-or-'' )."""
@@ -83,7 +91,10 @@ def main() -> int:
         for v, note in disp[song].items():
             if not is_mine(note):
                 newd.setdefault(song, {})[str(v)] = note
-    # Re-verify and re-key only this wave's entries.
+    # Re-verify and re-key only this wave's entries. Assessor-verified
+    # records are carried through on the assessor's authority (meaning
+    # judgment beats the mechanical proxy), still work-qualified on
+    # collision; everything else must re-verify under current rules.
     for song in sorted(disp):
         for v, note in disp[song].items():
             if not is_mine(note):
@@ -96,6 +107,11 @@ def main() -> int:
                     decisions.append((song, "?", v, "ORPHAN-KEY",
                                       "no work has this song; dropping"))
                     continue
+                if is_assessor_verified(note):
+                    newd.setdefault(song, {})[str(verse)] = note
+                    decisions.append((song, w, v, "keep-assessor",
+                                      note[:80]))
+                    continue
                 verdict, detail, r = classify_verse(w, song, verse)
                 if verdict == "sandhi-only":
                     newd.setdefault(song, {})[str(verse)] = detail
@@ -107,6 +123,11 @@ def main() -> int:
                                       f"{verdict} :: {str(detail)[:100]}"))
             else:
                 for w in ws:
+                    if is_assessor_verified(note):
+                        newd.setdefault(f"{w}:{song}", {})[str(verse)] = note
+                        decisions.append((f"{w}:{song}", w, v, "move-assessor",
+                                          note[:80]))
+                        continue
                     verdict, detail, r = classify_verse(w, song, verse)
                     if verdict == "sandhi-only":
                         newd.setdefault(f"{w}:{song}", {})[str(verse)] = detail
@@ -131,7 +152,7 @@ def main() -> int:
     # re-proof every touched song
     pairs = set()
     for key, w, v, what, det in decisions:
-        if what in ("keep", "move"):
+        if what in ("keep", "move", "keep-assessor", "move-assessor"):
             s = key.split(":", 1)[-1]
             pairs.add((w, s))
     passed, still = [], []

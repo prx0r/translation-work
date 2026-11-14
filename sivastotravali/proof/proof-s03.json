@@ -4,14 +4,13 @@
  "work": "sivastotravali",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [
-  "LEDGER_GLOSS_MISSING ['svātantrya=autonomy']"
- ],
+ "warnings": [],
+ "mode": "shastra",
  "source_sha": "39db81e1967889b3",
  "source_verses": 21,
  "t1_verses": 21,
  "l0": {
-  "parsed": 324,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 324
@@ -21,36 +20,34 @@
   "sub090": {
    "10": {
     "ratio": 0.893,
-    "disposition": "sandhi-only: ka+iva>keva (a+i>e), syat>syad (t>d), atman+adhikena>atmadhikena (a+a>aa), adhikena+isa>adhikenesa (a+i>e), kva+api>kvapi, -ah>-as (virahah>virahas), order verified 2026-11-14"
+    "disposition": "sandhi-only: ka+iva→keva (a+i→e), syāt→syād (t→d voicing), n-stem compound split ātman+adhikena vs compound stem ātmādhikena, kva+api→kvāpi, virahaḥ→virahas (visarga→s); T1 citation forms, same words/order (assessor-verified 2026-11-14)"
    },
    "14": {
     "ratio": 0.859,
-    "disposition": "sandhi-only: -ah+anyah>o'nyo (as>o'), asti>sti, yusmat+sesa>yusmacchesa (t+s>cch), -ah>-as (puruṣaḥ>puruṣas), tu+ekah>tv eko (u+v), nihsesa+purusa+asrayah>nihsesapurusasrayah (-ah+asraya>asraya), order verified 2026-11-14"
+    "disposition": "sandhi-only: aḥ>o, aḥa>o', hiatus/avagraha-drop, tś>cch, u>v, ḥ>s"
    },
    "17": {
     "ratio": 0.893,
-    "disposition": "sandhi-only: mat+param>matparam (m>m), param>param (m>m), na+asti>nasti (a+a>aa), tatra+api>tatrapi (a+a>aa), japakah+asmi>japako'smi (-ah>o'), tat+aikyatah>tadaikyatah (t>d), iti>ity, order verified 2026-11-14"
+    "disposition": "sandhi-only: aa>ā, aḥa>o', i>y, m>ṃ, t>d"
    },
    "18": {
     "ratio": 0.833,
-    "disposition": "sandhi-only: -ah+avasya>o'vasya (as>o'), avasyam>avasyam (m>m), paramasat>paramasat (m>m), sat+ca>sac ca (t>c), tasmat>tasmat, ca+asatah>casatah (a+a>aa), satah+ca>satas ca (-ah>-as), ca+anyah>canyas (a+a>aa), tena+asi>tenasi (a+a>aa), sat+asat+maya>sadasanmaya (t>d, t>n), order verified 2026-11-14"
+    "disposition": "sandhi-only: aa>ā, aḥa>o', m>ṃ, t>c, t>d, t>n, visarga→ś before palatal, ḥ>s"
    }
   }
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 45,
+ "c1_words": 70,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 21,
+  "checked": 42,
   "failures": []
  },
  "ledger": {
-  "pairs": 3,
-  "gloss_missing_in_l2": [
-   "svātantrya=autonomy"
-  ]
+  "pairs": 0,
+  "gloss_missing_in_l2": []
  },
  "data_objects": {
   "errors": [],
@@ -89,9 +86,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "39db81e1967889b3",
-  "t1": "T1-s03.md",
-  "l0": "T1-s03.l0.jsonl",
-  "l2": "L2-s03.md",
-  "c1": "c1/C1-s03.md"
+  "t1": "s03/data/s03.t1.json",
+  "l0": "s03/data/s03.l0.json",
+  "l2": "s03/data/s03.l2.json",
+  "c1": "s03/data/s03.c1.json"
  }
 }

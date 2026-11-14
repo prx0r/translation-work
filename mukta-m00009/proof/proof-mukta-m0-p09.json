@@ -5,10 +5,7 @@
  "date": "2026-11-01",
  "blocking": [
   "ALIGN_NODISP v202 ratio=0.884",
-  "ALIGN_NODISP v207 ratio=0.889",
-  "ALIGN_NODISP v218 ratio=0.850",
-  "ALIGN_NODISP v219 ratio=0.871",
-  "DATA_OBJECTS 1 schema/cross-layer errors"
+  "ALIGN_NODISP v218 ratio=0.850"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -30,7 +27,7 @@
    },
    "207": {
     "ratio": 0.889,
-    "disposition": null
+    "disposition": "sandhi-only: aḥa>o', i>y, t>d"
    },
    "218": {
     "ratio": 0.85,
@@ -38,7 +35,7 @@
    },
    "219": {
     "ratio": 0.871,
-    "disposition": null
+    "disposition": "sandhi-only: aḥa>o', hiatus/avagraha-drop, tś>cch"
    }
   }
  },
@@ -56,9 +53,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[mukta-m0-p09-v204]: cite part not byte-exact in source: etatprāgeva darśitam sādhitaṃ cāsmābhistattvaprakāśavṛttau v"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 175,
@@ -73,11 +68,8 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors",
   "fix: word-order/gloss vs source for v202",
-  "fix: word-order/gloss vs source for v207",
-  "fix: word-order/gloss vs source for v218",
-  "fix: word-order/gloss vs source for v219"
+  "fix: word-order/gloss vs source for v218"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {

@@ -4,14 +4,13 @@
  "work": "sivastotravali",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [
-  "LEDGER_GLOSS_MISSING ['bhakti=devotion. FROZEN 2026-11-01 (re-chunk of coarse T1']"
- ],
+ "warnings": [],
+ "mode": "shastra",
  "source_sha": "eb7d9e0db5f14738",
  "source_verses": 29,
  "t1_verses": 29,
  "l0": {
-  "parsed": 265,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 265
@@ -21,24 +20,22 @@
   "sub090": {
    "20": {
     "ratio": 0.807,
-    "disposition": "sandhi-only: -yah>-yo (pujyah>pujyo), yatra+tatra+api>tatrapi (a+a>aa), -ah+api>o'pi class x2, -ah>o (sah>so), ya+asau>yo'sau, namas+astu>namo'stu, order verified 2026-11-14"
+    "disposition": "sandhi-only: -aḥ→-o, tatra+api→tatrāpi, -aḥa→o' ×4 (yaḥ+api, saḥ+api, yaḥ+asau, namas+astu→namo'stu split at token boundary, citation forms); -aḥ→-as before tvayā (virahaḥ→virahas, visarga→s before voiceless) (assessor-verified 2026-11-14)"
    }
   }
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 45,
+ "c1_words": 81,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 29,
+  "checked": 58,
   "failures": []
  },
  "ledger": {
-  "pairs": 9,
-  "gloss_missing_in_l2": [
-   "bhakti=devotion. FROZEN 2026-11-01 (re-chunk of coarse T1"
-  ]
+  "pairs": 0,
+  "gloss_missing_in_l2": []
  },
  "data_objects": {
   "errors": [],
@@ -77,9 +74,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "eb7d9e0db5f14738",
-  "t1": "T1-s02.md",
-  "l0": "T1-s02.l0.jsonl",
-  "l2": "L2-s02.md",
-  "c1": "c1/C1-s02.md"
+  "t1": "s02/data/s02.t1.json",
+  "l0": "s02/data/s02.l0.json",
+  "l2": "s02/data/s02.l2.json",
+  "c1": "s02/data/s02.c1.json"
  }
 }

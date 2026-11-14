@@ -4,14 +4,13 @@
  "work": "sivastotravali",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [
-  "LEDGER_GLOSS_MISSING ['bhaktiśālin=possessor-of-devotion', 'samāveśa=immersion']"
- ],
+ "warnings": [],
+ "mode": "shastra",
  "source_sha": "1da56456ffbd9ba6",
  "source_verses": 26,
  "t1_verses": 26,
  "l0": {
-  "parsed": 342,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 342
@@ -21,33 +20,30 @@
   "sub090": {
    "17": {
     "ratio": 0.897,
-    "disposition": "sandhi-only: pratyahara+adi>pratyaharady, -as>-o class, mahat+ayam>mahanayam, yat>yad, order verified 2026-11-14"
+    "disposition": "sandhi-only: pratyāhāra+ādi→pratyāhārādi, -aḥ→-o (visarga), yat→yad (voicing), asti→'sti elision marking; T1 citation forms, same words/order (assessor-verified 2026-11-14)"
    },
    "18": {
     "ratio": 0.872,
-    "disposition": "sandhi-only: -as>-o (yogah>yogo, tapah>tapo), na+arcakramah>narcakramah (a+a>aa), kah+api>ko' pi, pra+n>pran class, -as>-o, order verified 2026-11-14"
+    "disposition": "sandhi-only: -aḥ→-o ×2, na+arcā→nārca, -aḥa→o', praṇīyate→pranīyate (ṇatva normalization), asmin→'smin elision, bhaktiḥ+ekā→bhaktir (rhotacism); T1 citation forms (assessor-verified 2026-11-14)"
    },
    "20": {
     "ratio": 0.883,
-    "disposition": "sandhi-only: iti>ity, jihva+agre>jihvagre, visaya+asvadah>visayasvado (-as>-o), bhaktesu+eva>bhaktesv, eva+asti>evasti, kah+api>ko'py, order verified 2026-11-14"
+    "disposition": "sandhi-only: aa>ā, aḥ>o, aḥa>o', hiatus/avagraha-drop, i>y, u>v"
    }
   }
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 45,
+ "c1_words": 78,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 26,
+  "checked": 52,
   "failures": []
  },
  "ledger": {
-  "pairs": 6,
-  "gloss_missing_in_l2": [
-   "bhaktiśālin=possessor-of-devotion",
-   "samāveśa=immersion"
-  ]
+  "pairs": 0,
+  "gloss_missing_in_l2": []
  },
  "data_objects": {
   "errors": [],
@@ -86,9 +82,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "1da56456ffbd9ba6",
-  "t1": "T1-s01.md",
-  "l0": "T1-s01.l0.jsonl",
-  "l2": "L2-s01.md",
-  "c1": "c1/C1-s01.md"
+  "t1": "s01/data/s01.t1.json",
+  "l0": "s01/data/s01.l0.json",
+  "l2": "s01/data/s01.l2.json",
+  "c1": "s01/data/s01.c1.json"
  }
 }

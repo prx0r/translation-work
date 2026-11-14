@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "nānāpuṣpais",
+     "gloss": "with-various-flowers",
+     "grounds": "instrumental plural of compound nānā-puṣpa; nānā as qualifying member",
+     "morph": "compound:nānā+puṣpa; m.inst.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "connective particle adding further items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhaiḥ",
+     "gloss": "with-fragrances",
+     "grounds": "instrumental plural indicating accompanying offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sarvopakaraṇair",
+     "gloss": "with-all-implements",
+     "grounds": "instrumental plural of compound sarva-upakaraṇa; sarva as qualifying member",
+     "morph": "compound:sarva+upakaraṇa; n.inst.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "3.sg.act.opt; √yaj"
+    }
+   ],
+   "question": "What offerings must accompany the worship performed after establishing the vessel?",
+   "premises": [
+    "The ritual context follows the placement of the vessel before the practitioner.",
+    "Various flowers are prescribed as offerings in the worship.",
+    "Fragrances and all implements are included among the required offerings."
+   ],
+   "inference": "The worship should be performed using various flowers, fragrances, and all necessary implements.",
+   "uncertainties": [],
+   "plain_english": "One should worship with various flowers, and also with fragrances and all the necessary implements."
+  }
+ ]
+}

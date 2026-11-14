@@ -4,13 +4,7 @@
  "work": "mukta-m00013",
  "date": "2026-11-01",
  "blocking": [
-  "ALIGN_NODISP v105 ratio=0.889",
-  "ALIGN_NODISP v106 ratio=0.889",
-  "ALIGN_NODISP v107 ratio=0.895",
-  "ALIGN_NODISP v115 ratio=0.812",
-  "ALIGN_NODISP v120 ratio=0.889",
-  "ALIGN_NODISP v121 ratio=0.895",
-  "DATA_OBJECTS 3 schema/cross-layer errors"
+  "ALIGN_NODISP v121 ratio=0.895"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -28,23 +22,23 @@
   "sub090": {
    "105": {
     "ratio": 0.889,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā"
    },
    "106": {
     "ratio": 0.889,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā"
    },
    "107": {
     "ratio": 0.895,
-    "disposition": null
+    "disposition": "sandhi-only: aḥ>o, m>ṃ"
    },
    "115": {
     "ratio": 0.812,
-    "disposition": null
+    "disposition": "sandhi-only: aa>ā, hiatus/avagraha-drop"
    },
    "120": {
     "ratio": 0.889,
-    "disposition": null
+    "disposition": "sandhi-only: aḥ>o, hiatus/avagraha-drop, t>d, ḥ>r"
    },
    "121": {
     "ratio": 0.895,
@@ -66,11 +60,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[mukta-m0-p05-v101]: cite part not byte-exact in source: smṛtam kālikāyāśca tārāyāstārācakraṃ śubhāvaham",
-   "l2[mukta-m0-p05-v120]: cite part not byte-exact in source: praśasyate yadīśasya kṛśānorvā mantrārambho yathākramam",
-   "l2[mukta-m0-p05-v123]: cite part not byte-exact in source: harṣaṇaḥ varīyāṃśca śivaḥ siddho brahma aindraśca ṣoḍaśa"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 98,
@@ -85,12 +75,6 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v105",
-  "fix: word-order/gloss vs source for v106",
-  "fix: word-order/gloss vs source for v107",
-  "fix: word-order/gloss vs source for v115",
-  "fix: word-order/gloss vs source for v120",
   "fix: word-order/gloss vs source for v121"
  ],
  "deterministic_gate": "BLOCKED",
