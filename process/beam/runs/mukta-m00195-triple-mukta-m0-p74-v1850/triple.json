@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "mālākāragṛheṣu",
+     "gloss": "in-garland-maker-houses",
+     "grounds": "locative plural of compound mālākāra-gṛha; continues the list of unsuitable contexts",
+     "morph": "compound: mālākāra+gṛha; n.loc.pl"
+    },
+    {
+     "surface": "mālākārāgāre",
+     "gloss": "in-garland-maker-house",
+     "grounds": "locative singular of compound mālākāra-āgāra; parallel location term",
+     "morph": "compound: mālākāra+āgāra; n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking the stated locations",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which garland-makers' places is such an offering also deemed unsuitable?",
+   "premises": [
+    "The previous verse rejects such an offering in the flower-offering rite.",
+    "This verse names garland-makers' houses as locations.",
+    "This verse also names a garland-maker's house and adds it with 'and'."
+   ],
+   "inference": "The unsuitability of such an offering extends to garland-makers' houses and shops.",
+   "uncertainties": [
+    "The verse is elliptical and relies on the preceding negation for its full predicate."
+   ],
+   "plain_english": "And in garland-makers' houses and in a garland-maker's shop."
+  }
+ ]
+}
