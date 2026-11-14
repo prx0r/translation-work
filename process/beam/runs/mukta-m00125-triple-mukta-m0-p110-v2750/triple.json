@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the husband's lineage",
+     "morph": "pron.n.inst.sg"
+    },
+    {
+     "surface": "gotreṇa",
+     "gloss": "by-lineage",
+     "grounds": "instrumental indicating the lineage under which rites are performed",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the injunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive expressing obligation",
+     "morph": "gerundive.n.nom.sg (√dā)"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "rice-ball",
+     "grounds": "direct object denoting the funerary offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "ancestral-rite",
+     "grounds": "direct object denoting the ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "connective adding another item to the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udakam",
+     "gloss": "water",
+     "grounds": "direct object denoting the water offering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which lineage governs the giving of ancestral rice-balls, rites, and water?",
+   "premises": [
+    "Marriage mantras remove a woman's paternal lineage.",
+    "A woman adopts the lineage of her husband.",
+    "Ancestral offerings must be performed under the adopted lineage."
+   ],
+   "inference": "Therefore the rice-ball, ancestral rite, and water should be given under that lineage.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the rice-ball, the ancestral rite, and water should indeed be given under that lineage."
+  }
+ ]
+}

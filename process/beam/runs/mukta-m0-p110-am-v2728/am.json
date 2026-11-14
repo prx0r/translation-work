@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p110",
  "verse": 2728,
- "question": "What adverse consequences follow if unguent sticks to the hand or foot?",
+ "question": "Which ritual acts are included in the prescribed ancestral observances?",
  "premises": [
-  "Unguent sticking to the hand leads to poverty",
-  "Unguent sticking to the foot leads to loss of wealth",
-  "Both outcomes are stated as consequences"
+  "The ancestral rite consists of multiple acts",
+  "Giving and sipping water are ritual acts",
+  "Fire offering, feeding, and deity worship are ritual acts"
  ],
- "inference": "If unguent sticks to the hand one becomes poor, and if to the foot one suffers loss of wealth.",
- "uncertainties": [],
- "plain_english": "If it sticks to the hand, one becomes poor; if it sticks to the foot, there is loss of wealth."
+ "inference": "The prescribed acts include giving, sipping water, fire offering, feeding, and deity worship",
+ "uncertainties": [
+  "The syntactic role of this list depends on the surrounding verses"
+ ],
+ "plain_english": "Giving, sipping water, fire offering, feeding, and worship of the deity are included."
 }

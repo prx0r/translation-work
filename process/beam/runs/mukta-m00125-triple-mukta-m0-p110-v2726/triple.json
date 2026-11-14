@@ -1,0 +1,1073 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2726,
+   "rows": [
+    {
+     "surface": "yogyo",
+     "gloss": "fit",
+     "grounds": "qualified or eligible",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anupanīto'pi",
+     "gloss": "even-uninvested",
+     "grounds": "an-upanīta + api; lacking sacred-thread investiture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrāddhakarmaṇi",
+     "gloss": "in-ancestor-rite",
+     "grounds": "śrāddha-karman locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "adīkṣitaḥ",
+     "gloss": "uninitiated",
+     "grounds": "a-dīkṣita; lacking formal initiation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can an uninvested and uninitiated person be eligible for the ancestral rite?",
+   "premises": [
+    "Eligibility for the ancestral rite is under consideration",
+    "A person may lack sacred-thread investiture",
+    "A person may lack formal initiation"
+   ],
+   "inference": "Even an uninvested and uninitiated person is fit to perform the ancestral rite",
+   "uncertainties": [],
+   "plain_english": "Indeed, even one who is uninvested with the sacred thread and uninitiated is fit to take part in the ancestral rite."
+  },
+  {
+   "verse": 2727,
+   "rows": [
+    {
+     "surface": "svadhākāraṃ",
+     "gloss": "svadha-utterance",
+     "grounds": "ritual invocation svadhā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prayuñjīta",
+     "gloss": "should-employ",
+     "grounds": "pra-√yuj",
+     "morph": "3.sg.middle-optative"
+    },
+    {
+     "surface": "mantroccāraṃ",
+     "gloss": "mantra-recitation",
+     "grounds": "mantra-uccāra compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "causative of √kṛ",
+     "morph": "3.sg.active-optative-causative"
+    }
+   ],
+   "question": "Which ritual utterances may such a person employ or omit in the ancestral rite?",
+   "premises": [
+    "The ancestral rite involves spoken formulas",
+    "The svadhā utterance is a ritual formula",
+    "Mantra recitation is a distinct ritual act"
+   ],
+   "inference": "Such a person should employ the svadhā utterance but should not cause mantra recitation",
+   "uncertainties": [],
+   "plain_english": "He should use the svadhā utterance, but he should not have mantras recited."
+  },
+  {
+   "verse": 2728,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "giving",
+     "grounds": "act of giving",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācamanaṃ",
+     "gloss": "sipping-water",
+     "grounds": "ritual sipping",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "oblation into fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "feeding",
+     "grounds": "act of eating or feeding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devatārcanam",
+     "gloss": "deity-worship",
+     "grounds": "devatā-arcana compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which ritual acts are included in the prescribed ancestral observances?",
+   "premises": [
+    "The ancestral rite consists of multiple acts",
+    "Giving and sipping water are ritual acts",
+    "Fire offering, feeding, and deity worship are ritual acts"
+   ],
+   "inference": "The prescribed acts include giving, sipping water, fire offering, feeding, and deity worship",
+   "uncertainties": [
+    "The syntactic role of this list depends on the surrounding verses"
+   ],
+   "plain_english": "Giving, sipping water, fire offering, feeding, and worship of the deity are included."
+  },
+  {
+   "verse": 2729,
+   "rows": [
+    {
+     "surface": "āsanārūḍhapādaśca",
+     "gloss": "and-feet-raised-on-seat",
+     "grounds": "āsana-ārūḍha-pāda + ca compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānvorvā",
+     "gloss": "or-on-knees",
+     "grounds": "jānu locative dual + vā",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "jaṅghayostathā",
+     "gloss": "likewise-on-calves",
+     "grounds": "jaṅghā locative dual + tathā",
+     "morph": "f.loc.dual"
+    }
+   ],
+   "question": "Which improper bodily postures during the rite are being identified?",
+   "premises": [
+    "Bodily posture during the rite matters",
+    "Feet may be raised on the seat",
+    "Feet may rest on knees or calves"
+   ],
+   "inference": "Sitting with feet raised on the seat, or on the knees, or on the calves is identified as a posture in question",
+   "uncertainties": [],
+   "plain_english": "One may be seated with feet raised on the seat, or placed on the knees, or likewise on the calves."
+  },
+  {
+   "verse": 2730,
+   "rows": [
+    {
+     "surface": "tadbhūmisvāmipitṛbhiḥ",
+     "gloss": "by-that-land-owner-ancestors",
+     "grounds": "tad-bhūmi-svāmin-pitṛ compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śrāddhakarma",
+     "gloss": "ancestor-rite",
+     "grounds": "śrāddha-karman compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upabhuñjate",
+     "gloss": "is-enjoyed",
+     "grounds": "upa-√bhuj",
+     "morph": "3.sg.passive-present"
+    }
+   ],
+   "question": "Who receives the benefit when the ancestral rite is performed in an improper posture on owned land?",
+   "premises": [
+    "The ancestral rite produces a benefit",
+    "The land may have an owner",
+    "Ancestors of the landowner are distinct recipients"
+   ],
+   "inference": "In that case the ancestral rite is enjoyed by the ancestors of the owner of that land",
+   "uncertainties": [],
+   "plain_english": "Then the ancestral rite is enjoyed by the ancestors of the owner of that land."
+  },
+  {
+   "verse": 2731,
+   "rows": [
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "refers to rites or places",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "asvāmikānyeva",
+     "gloss": "only-ownerless",
+     "grounds": "a-svāmika + eva",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "refers to ownerless places",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "śrāddhādikaṃ",
+     "gloss": "ancestor-rite-and-such",
+     "grounds": "śrāddha-ādi compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-perform",
+     "grounds": "√nī in sense of conduct",
+     "morph": "3.sg.active-optative"
+    }
+   ],
+   "question": "Where should ancestral rites and related acts be properly conducted?",
+   "premises": [
+    "Ancestral rites require a suitable place",
+    "Some places have owners and some do not",
+    "Ownerless places avoid transfer of benefit"
+   ],
+   "inference": "One should perform ancestral rites and the like only in ownerless places",
+   "uncertainties": [],
+   "plain_english": "One should perform the ancestral rite and related acts only in places that have no owner."
+  },
+  {
+   "verse": 2732,
+   "rows": [
+    {
+     "surface": "rajasvālā",
+     "gloss": "menstruating-woman",
+     "grounds": "woman in menstrual period",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaṇḍaśca",
+     "gloss": "and-eunuch",
+     "grounds": "ṣaṇḍa + ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nekṣeran",
+     "gloss": "should-not-see",
+     "grounds": "na + √īkṣ",
+     "morph": "3.pl.active-optative"
+    },
+    {
+     "surface": "aśrato",
+     "gloss": "unfed",
+     "grounds": "a-śrata; not yet having eaten",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dvijān",
+     "gloss": "twice-born",
+     "grounds": "members of twice-born classes",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Who must not look upon the twice-born before they have eaten during the rite?",
+   "premises": [
+    "The sight of certain persons affects the rite",
+    "A menstruating woman is mentioned",
+    "A eunuch is mentioned"
+   ],
+   "inference": "A menstruating woman and a eunuch should not look upon the twice-born while they are unfed",
+   "uncertainties": [],
+   "plain_english": "A menstruating woman and a eunuch should not look at the twice-born before they have eaten."
+  },
+  {
+   "verse": 2733,
+   "rows": [
+    {
+     "surface": "daive",
+     "gloss": "in-offering-to-gods",
+     "grounds": "rite for deities",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "havīṃṣi",
+     "gloss": "oblations",
+     "grounds": "sacrificial offerings",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pitrye",
+     "gloss": "in-offering-to-ancestors",
+     "grounds": "rite for ancestors",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadgacchaty",
+     "gloss": "that-goes",
+     "grounds": "tad + gacchati; sandhi fusion",
+     "morph": "3.sg.active-present"
+    },
+    {
+     "surface": "ayathātatham",
+     "gloss": "improperly",
+     "grounds": "not as it should be",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to oblations for gods and ancestors if such improper seeing occurs?",
+   "premises": [
+    "Oblations are offered to gods and ancestors",
+    "Improper seeing has ritual consequences",
+    "The result may deviate from the proper outcome"
+   ],
+   "inference": "The oblations in rites for gods and ancestors go improperly",
+   "uncertainties": [],
+   "plain_english": "In offerings to the gods and to the ancestors, the oblations then go awry."
+  },
+  {
+   "verse": 2734,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dharmān",
+     "gloss": "duties",
+     "grounds": "prescribed duties or observances",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nānuvartante",
+     "gloss": "do-not-follow",
+     "grounds": "na + anu-√vṛt",
+     "morph": "3.pl.middle-present"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "correlative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nagnādayo",
+     "gloss": "naked-and-others",
+     "grounds": "nagna-ādi compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "regarded",
+     "grounds": "considered or deemed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are those who do not follow the prescribed duties to be regarded?",
+   "premises": [
+    "Prescribed duties are to be followed",
+    "Some people do not follow them",
+    "Such people are classified by comparison"
+   ],
+   "inference": "Those who do not follow the duties are regarded as naked and the like",
+   "uncertainties": [
+    "The exact scope of naked-and-others is not specified"
+   ],
+   "plain_english": "Those who do not follow the prescribed duties are regarded as being like the naked and others of that sort."
+  },
+  {
+   "verse": 2735,
+   "rows": [
+    {
+     "surface": "utsṛṣṭavyaṃ",
+     "gloss": "to-be-set-aside",
+     "grounds": "gerundive of ut-√sṛj",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pradhānārthaṃ",
+     "gloss": "for-main-purpose",
+     "grounds": "pradhāna-artha compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃskāraśca",
+     "gloss": "and-purification",
+     "grounds": "saṃskāra + ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āpadi",
+     "gloss": "in-emergency",
+     "grounds": "time of calamity",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "declared in tradition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What adjustment to purification is permitted in a time of emergency?",
+   "premises": [
+    "Purification is normally required",
+    "An emergency situation may arise",
+    "The main purpose of the rite remains primary"
+   ],
+   "inference": "In an emergency, purification may be set aside for the sake of the main purpose",
+   "uncertainties": [],
+   "plain_english": "In a time of emergency, purification is remembered as something that may be set aside for the sake of the main purpose."
+  },
+  {
+   "verse": 2736,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "appointed time",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kutapaḥ",
+     "gloss": "kutapa",
+     "grounds": "specific auspicious period",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktastasmin",
+     "gloss": "declared-in-that",
+     "grounds": "proktaḥ + tasmin; sandhi fusion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative demonstrative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paitṛkam",
+     "gloss": "ancestral-rite",
+     "grounds": "rite for ancestors",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "ā-√car",
+     "morph": "3.sg.active-optative"
+    }
+   ],
+   "question": "At what declared time should the ancestral rite be performed?",
+   "premises": [
+    "The ancestral rite requires a proper time",
+    "A time called kutapa is declared",
+    "Performance is enjoined at that time"
+   ],
+   "inference": "One should perform the ancestral rite at that time which is declared kutapa",
+   "uncertainties": [],
+   "plain_english": "That time is declared to be kutapa; one should perform the ancestral rite at that time."
+  },
+  {
+   "verse": 2737,
+   "rows": [
+    {
+     "surface": "śivoktiś",
+     "gloss": "auspicious-speech",
+     "grounds": "śiva-ukti; auspicious utterance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaucam",
+     "gloss": "purity",
+     "grounds": "ritual cleanliness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akrodhastatparāḥ",
+     "gloss": "non-anger-devoted-to-that",
+     "grounds": "akrodha + tat-parāḥ compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pātravahnayaḥ",
+     "gloss": "vessels-and-fires",
+     "grounds": "pātra-vahni compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which conditions and supports are required for the proper ancestral rite?",
+   "premises": [
+    "The ancestral rite depends on proper conditions",
+    "Speech, purity, and absence of anger are relevant",
+    "Suitable vessels and fires are required"
+   ],
+   "inference": "Auspicious speech, purity, freedom from anger, devotion to the rite, and proper vessels and fires are required",
+   "uncertainties": [
+    "The exact compound analysis of akrodhastatparāḥ is compressed"
+   ],
+   "plain_english": "Auspicious speech, purity, freedom from anger, devotion to the rite, and proper vessels and fires are required."
+  },
+  {
+   "verse": 2738,
+   "rows": [
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "first paternal ancestor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pitāmahaścaiva",
+     "gloss": "and-grandfather",
+     "grounds": "pitāmaha + ca + eva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prapitāmaha",
+     "gloss": "great-grandfather",
+     "grounds": "third paternal ancestor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which paternal ancestors form the primary triad in the ancestral rite?",
+   "premises": [
+    "The ancestral rite addresses specific ancestors",
+    "Father and grandfather are included",
+    "Great-grandfather completes a triad"
+   ],
+   "inference": "The father, grandfather, and great-grandfather form the paternal triad",
+   "uncertainties": [],
+   "plain_english": "The father, the grandfather, and indeed the great-grandfather are included."
+  },
+  {
+   "verse": 2739,
+   "rows": [
+    {
+     "surface": "kramād",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "īśādayaḥ",
+     "gloss": "beginning-with-lords",
+     "grounds": "īśa-ādi compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "proktāstadvan",
+     "gloss": "declared-like-that",
+     "grounds": "proktāḥ + tadvat; sandhi fusion",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mātāmahādayaḥ",
+     "gloss": "maternal-grandfathers-and-others",
+     "grounds": "mātāmaha-ādi compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the paternal and maternal ancestor groups identified in sequence?",
+   "premises": [
+    "Ancestors are identified in a sequence",
+    "A group beginning with lords is declared",
+    "Maternal grandfathers and others are named similarly"
+   ],
+   "inference": "In order, the groups beginning with the lords and likewise the maternal grandfathers and others are declared",
+   "uncertainties": [
+    "The identification of īśādayaḥ with specific ancestors is context-dependent"
+   ],
+   "plain_english": "In order, those beginning with the lords are declared, and likewise the maternal grandfathers and others."
+  },
+  {
+   "verse": 2740,
+   "rows": [
+    {
+     "surface": "pitāmahī",
+     "gloss": "grandmother",
+     "grounds": "paternal grandmother",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svena",
+     "gloss": "with-own",
+     "grounds": "with her own counterpart",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "just-so",
+     "grounds": "tathā + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapitāmahī",
+     "gloss": "great-grandmother",
+     "grounds": "paternal great-grandmother",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which female paternal ancestors are included alongside their counterparts?",
+   "premises": [
+    "Female ancestors are included in the rite",
+    "The grandmother is named",
+    "The great-grandmother is named"
+   ],
+   "inference": "The grandmother and likewise the great-grandmother are included with their own counterparts",
+   "uncertainties": [
+    "The exact referent of svena is compressed"
+   ],
+   "plain_english": "The grandmother, and likewise the great-grandmother, are included with their own counterparts."
+  },
+  {
+   "verse": 2741,
+   "rows": [
+    {
+     "surface": "mātṛśrāddhaṃ",
+     "gloss": "maternal-ancestor-rite",
+     "grounds": "śrāddha for the mother",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugme",
+     "gloss": "in-pair",
+     "grounds": "on an even occasion or pairing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "√as",
+     "morph": "3.sg.active-optative"
+    },
+    {
+     "surface": "sadaivaṃ",
+     "gloss": "always-thus",
+     "grounds": "sadā + evam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṅmukhaissadā",
+     "gloss": "always-facing-east",
+     "grounds": "prāṅ-mukha instrumental plural + sadā; sandhi fusion",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How should the maternal ancestral rite be arranged and oriented?",
+   "premises": [
+    "The maternal ancestral rite has specific rules",
+    "It may be performed in a paired arrangement",
+    "Orientation of the performers is prescribed"
+   ],
+   "inference": "The maternal ancestral rite should be performed in a pair, always thus, with those facing east",
+   "uncertainties": [
+    "The precise meaning of yugme in this ritual context is not fully explicit"
+   ],
+   "plain_english": "The maternal ancestral rite should be performed in a pair, always in this way, with those facing east."
+  },
+  {
+   "verse": 2742,
+   "rows": [
+    {
+     "surface": "aputrāyāṃ",
+     "gloss": "for-sonless-woman",
+     "grounds": "woman without a son",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mṛtāyāṃ",
+     "gloss": "deceased",
+     "grounds": "having died",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patiḥ",
+     "gloss": "husband",
+     "grounds": "spouse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "√kṛ",
+     "morph": "3.sg.active-optative"
+    },
+    {
+     "surface": "sapiṇḍatām",
+     "gloss": "sapinda-union",
+     "grounds": "ritual joining with ancestors",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Who should perform the sapinda rite for a deceased sonless woman?",
+   "premises": [
+    "A woman may die without a son",
+    "The sapinda rite establishes ancestral union",
+    "Responsibility for the rite must be assigned"
+   ],
+   "inference": "The husband should perform the sapinda rite for a deceased sonless woman",
+   "uncertainties": [],
+   "plain_english": "If a sonless woman has died, her husband should perform the sapinda rite for her."
+  },
+  {
+   "verse": 2743,
+   "rows": [
+    {
+     "surface": "sapiṇḍīkaraṇādūrdhvemekoddiṣṭaṃ",
+     "gloss": "after-sapinda-union-single-offering",
+     "grounds": "sapiṇḍīkaraṇa + ūrdhvam + ekoddiṣṭaṃ; sandhi fusion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivartaye",
+     "gloss": "should-cease",
+     "grounds": "causative of ni-√vṛt",
+     "morph": "3.sg.active-optative-causative"
+    }
+   ],
+   "question": "What change in offerings follows after the sapinda-union rite is completed?",
+   "premises": [
+    "The sapinda-union rite marks a transition",
+    "A single-target offering may be performed before it",
+    "Ritual practice changes after that transition"
+   ],
+   "inference": "After the sapinda-union rite, one should discontinue the single-target offering",
+   "uncertainties": [
+    "The exact agent of nivartaye is implied by context"
+   ],
+   "plain_english": "After the sapinda-union rite, one should discontinue the single-target offering."
+  },
+  {
+   "verse": 2744,
+   "rows": [
+    {
+     "surface": "aputrakā",
+     "gloss": "sonless",
+     "grounds": "without sons",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mṛtāḥ",
+     "gloss": "deceased",
+     "grounds": "having died",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "indefinite pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "striyo",
+     "gloss": "women",
+     "grounds": "female persons",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣāśca",
+     "gloss": "and-men",
+     "grounds": "puruṣa + ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which deceased persons without sons are being considered for the following rule?",
+   "premises": [
+    "Some deceased persons lack sons",
+    "Such persons may be women or men",
+    "A rule applies to this group"
+   ],
+   "inference": "The rule concerns certain deceased sonless persons, whether women or men",
+   "uncertainties": [],
+   "plain_english": "Some deceased persons without sons may be women, or they may be men."
+  },
+  {
+   "verse": 2745,
+   "rows": [
+    {
+     "surface": "pitrāditraya",
+     "gloss": "father-and-other-three",
+     "grounds": "pitr-ādi-traya compound",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "patnīnāṃ",
+     "gloss": "of-wives",
+     "grounds": "wives of the paternal triad",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bhojyā",
+     "gloss": "to-be-fed",
+     "grounds": "fit to be given food",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mātre",
+     "gloss": "for-mother",
+     "grounds": "on behalf of the mother",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "vṛtā",
+     "gloss": "chosen",
+     "grounds": "selected for the rite",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "brahmin invitees",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which twice-born invitees are to be fed on behalf of the mother and the wives of the paternal triad?",
+   "premises": [
+    "Twice-born men are invited and fed in the rite",
+    "The wives of the father and other two ancestors are included",
+    "The mother is also a recipient focus"
+   ],
+   "inference": "Chosen twice-born men are to be fed for the mother and for the wives of the father, grandfather, and great-grandfather",
+   "uncertainties": [
+    "The compound pitrāditraya is taken as referring to the paternal triad"
+   ],
+   "plain_english": "Chosen twice-born men are to be fed for the mother and for the wives of the father, grandfather, and great-grandfather."
+  },
+  {
+   "verse": 2746,
+   "rows": [
+    {
+     "surface": "svagotrād",
+     "gloss": "from-own-lineage",
+     "grounds": "sva-gotra ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhraṃśate",
+     "gloss": "falls-away",
+     "grounds": "√bhraṃś",
+     "morph": "3.sg.middle-present"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "female person",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "udvāhān",
+     "gloss": "by-marriage",
+     "grounds": "through marriage rite",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "saptame",
+     "gloss": "at-seventh",
+     "grounds": "seventh in sequence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pade",
+     "gloss": "step",
+     "grounds": "ritual step of marriage",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "At what point in marriage does a woman cease to belong to her own lineage?",
+   "premises": [
+    "A woman is initially associated with her own lineage",
+    "Marriage proceeds through ritual steps",
+    "The seventh step is ritually significant"
+   ],
+   "inference": "A woman falls away from her own lineage at the seventh step of marriage",
+   "uncertainties": [],
+   "plain_english": "A woman falls away from her own lineage at the seventh step of the marriage rite."
+  },
+  {
+   "verse": 2747,
+   "rows": [
+    {
+     "surface": "caturthīhomamantraistu",
+     "gloss": "with-fourth-offering-mantras",
+     "grounds": "caturthī-homa-mantra + tu; instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "māṃsamajjādibhissaha",
+     "gloss": "with-flesh-marrow-and-others",
+     "grounds": "māṃsa-majja-ādi + saha; instrumental plural with sandhi",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which ritual elements accompany the relevant marriage or offering formulas in this context?",
+   "premises": [
+    "Specific mantras are used in the rite",
+    "The fourth offering mantras are mentioned",
+    "Flesh, marrow, and similar elements are mentioned"
+   ],
+   "inference": "The fourth offering mantras are accompanied by flesh, marrow, and the like",
+   "uncertainties": [
+    "The ritual application of these elements is not fully explicit in this verse alone"
+   ],
+   "plain_english": "This is done with the fourth-offering mantras, together with flesh, marrow, and the like."
+  },
+  {
+   "verse": 2748,
+   "rows": [
+    {
+     "surface": "pāṇigrāhaṇikā",
+     "gloss": "hand-taking",
+     "grounds": "related to taking the hand in marriage",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "ritual formulas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pitṛgotrāpahāriṇaḥ",
+     "gloss": "removing-father-lineage",
+     "grounds": "pitṛ-gotra-apahārin compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What effect do the hand-taking marriage mantras have on a woman's paternal lineage?",
+   "premises": [
+    "Marriage employs hand-taking mantras",
+    "A woman's paternal lineage is ritually affected",
+    "The mantras have a removing function"
+   ],
+   "inference": "The hand-taking mantras remove the woman from her paternal lineage",
+   "uncertainties": [],
+   "plain_english": "The hand-taking mantras are those that remove her from her paternal lineage."
+  },
+  {
+   "verse": 2749,
+   "rows": [
+    {
+     "surface": "strīṇām",
+     "gloss": "for-women",
+     "grounds": "in the case of women",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "anyasya",
+     "gloss": "of-another",
+     "grounds": "of another person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bharturvai",
+     "gloss": "indeed-of-husband",
+     "grounds": "bhartuḥ + vai; sandhi fusion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gotraṃ",
+     "gloss": "lineage",
+     "grounds": "family lineage",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental demonstrative",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "nirvapet",
+     "gloss": "should-offer",
+     "grounds": "nir-√vap",
+     "morph": "3.sg.active-optative"
+    }
+   ],
+   "question": "Under which lineage should offerings be made for women after marriage?",
+   "premises": [
+    "A married woman is associated with her husband's lineage",
+    "Offerings are made according to lineage",
+    "The operative lineage must be specified"
+   ],
+   "inference": "For women, one should make offerings according to the lineage of the husband",
+   "uncertainties": [],
+   "plain_english": "For women, one should make the offering according to the lineage of their husband."
+  }
+ ]
+}

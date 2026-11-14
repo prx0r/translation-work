@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p110",
  "verse": 2743,
- "question": "Where and how is the ritual seat fashioned for the deity?",
+ "question": "What change in offerings follows after the sapinda-union rite is completed?",
  "premises": [
-  "The footstool of Sumeru is the location",
-  "The seat is fashioned as a lotus",
-  "The seat is the object described"
+  "The sapinda-union rite marks a transition",
+  "A single-target offering may be performed before it",
+  "Ritual practice changes after that transition"
  ],
- "inference": "A seat fashioned as a lotus is placed on the footstool of Sumeru.",
- "uncertainties": [],
- "plain_english": "On the footstool of Sumeru, a seat fashioned as a lotus."
+ "inference": "After the sapinda-union rite, one should discontinue the single-target offering",
+ "uncertainties": [
+  "The exact agent of nivartaye is implied by context"
+ ],
+ "plain_english": "After the sapinda-union rite, one should discontinue the single-target offering."
 }
