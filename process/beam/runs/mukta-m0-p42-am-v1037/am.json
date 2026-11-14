@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1037,
- "question": "Which deity desires the offering when a name is to be given?",
+ "question": "What condition triggers additional purification during temple cleansing?",
  "premises": [
-  "The verse names a name to be given.",
-  "It names that deity.",
-  "It says offering-desires."
+  "Cleansing involves various liquids",
+  "Bath water, drinking water, milk, and similar liquids may spill",
+  "Spillage creates a condition requiring response"
  ],
- "inference": "The deity whose name is to be given desires the offering.",
- "uncertainties": [
-  "The exact name is not specified."
- ],
- "plain_english": "The deity whose name is to be given desires the offering."
+ "inference": "If the area becomes sprinkled with bath water, milk, or similar liquids, then further action is required.",
+ "uncertainties": [],
+ "plain_english": "If it becomes sprinkled with bath water, drinking water, milk, and the like, then."
 }

@@ -1,17 +1,13 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1005,
- "question": "What tradition says about writing mantra letters one by one in maya?",
+ "question": "Why is the ritual object called a sacred thread in this context?",
  "premises": [
-  "in maya is stated",
-  "one by one is stated",
-  "mantra letter is stated",
-  "write is stated",
-  "tradition is stated"
+  "The object protects from falling.",
+  "Protection from falling is its defining function.",
+  "The name pavitraka is explained by this function."
  ],
- "inference": "The verse states the tradition of writing one mantra letter at a time in maya.",
- "uncertainties": [
-  "exact writing procedure"
- ],
- "plain_english": "The tradition says to write one mantra letter at a time in maya."
+ "inference": "Because it protects from falling, it is indeed called pavitraka.",
+ "uncertainties": [],
+ "plain_english": "Because it protects from falling, for that very reason it is called the sacred thread."
 }
