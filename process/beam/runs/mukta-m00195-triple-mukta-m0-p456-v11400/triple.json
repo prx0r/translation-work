@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p456",
+ "items": [
+  {
+   "verse": 11400,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "conclusive indeclinable indicating consequence from prior context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajed",
+     "gloss": "one-should-worship",
+     "grounds": "optative injunction to perform worship",
+     "morph": "3.sg.act.opt √bhaj"
+    },
+    {
+     "surface": "amuṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "direct object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "drutaṃ",
+     "gloss": "quickly",
+     "grounds": "adverbial modifier indicating promptness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhipradaṃ",
+     "gloss": "success-giving",
+     "grounds": "compound describing the mantra as bestowing accomplishment",
+     "morph": "compound: siddhi+prada (m.acc.sg)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative address in the revelatory dialogue frame",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What benefit justifies the prompt worship of this mantra?",
+   "premises": [
+    "The preceding context establishes a basis for action.",
+    "This mantra is characterized as granting accomplishment.",
+    "Prompt worship of this mantra is enjoined."
+   ],
+   "inference": "Therefore, one should worship this mantra quickly because it bestows accomplishment.",
+   "uncertainties": [
+    "The vocative śive may be read as addressing Śivā or as a locative form, though the vocative fits the dialogue frame."
+   ],
+   "plain_english": "Therefore, O Shiva, one should quickly worship this mantra, for it grants accomplishment."
+  }
+ ]
+}

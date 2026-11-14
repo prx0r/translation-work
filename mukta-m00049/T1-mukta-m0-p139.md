@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p139-v3451
-[conch+trumpet+etc.+sounds-with](śaṅkhatūryādighoṣais) [him](taṃ) [one-should-place](sthāpayed) [altar+upon](vedikopari)
+[conch](śaṅkha) [trumpet+etc.](tūrya+ādi) [with-sounds](ghoṣaiḥ) [him](taṃ) [one-should-place](sthāpayet) [on-platform](vedikā+upari)
 
 ## mukta-m0-p139-v3452
-[thus](iti) [god](devaṃ) [having-made-firm](sthirīkṛtya) [abode](bhavanaṃ) [one-should-pray-to](prārthayet) [again](punaḥ)
+[thus](iti) [god](devaṃ) [having-made-firm](sthirī+kṛtya) [dwelling](bhavanaṃ) [one-should-pray](prārthayet) [again](punaḥ)
 
 ## mukta-m0-p139-v3453
-[when-released](utsṛṣṭe) [in-you](tvayi) [my](me) [worlds](lokāḥ) [stable](sthirāḥ) [let-be](santu) [free-from-disease](nirāmayāḥ)
+[when-released](utsṛṣṭe) [you](tvayi) [my](me) [worlds](lokāḥ) [firm](sthirāḥ) [let-be](santu) [free-from-disease](nirāmayāḥ)
 
 ## mukta-m0-p139-v3454
-[me](māṃ) [and](ca) [my](me) [retinue](parivārāṃś) [and](ca) [god's-abode+in](devadhāmni) [cause-to-dwell](nivāsaya)
+[me](māṃ) [and](ca) [my](me) [retinue](parivārān) [and](ca) [in-god's-abode](deva+dhāmni) [cause-to-dwell](nivāsaya)
 
 ## mukta-m0-p139-v3455
-[whatever+fruit](yatphalaṃ) [that+fruit](tatphalaṃ) [to-me](me'dya) [today](me'dya) [let-arise](jāyatāṃ) [your+grace+from](tvatprasādataḥ)
+[whatever-fruit](yat+phalaṃ) [that-fruit](tat+phalaṃ) [for-me](me) [today](adya) [let-arise](jāyatāṃ) [by-your-grace](tvat+prasādataḥ)
 
 ## mukta-m0-p139-v3456
-[trust](viśvāsaḥ) [to-him](tasmai) [trust](viśvāsaḥ) [to-him](tasmai)
+[trust](viśvāsaḥ) [to-him](tasmai)
 
 ## mukta-m0-p139-v3457
-[altar+upon](vedikopari) [one-should-place](sthāpayet) [altar+upon](vedikopari) [one-should-place](sthāpayet)
+[on-platform](vedikā+upari) [one-should-place](sthāpayet)
 
 ## mukta-m0-p139-v3458
-[again](punar) [abode](bhavanaṃ) [house](gṛhaṃ) [one-should-pray-to](prārthayet)
+[again](punar) [dwelling](bhavanaṃ) [house](gṛhaṃ) [one-should-pray](prārthayet)
 
 ## mukta-m0-p139-v3459
-[as-long-as](yāvad) [day+night+lords](divāniśānāthau) [so-long](tāvan) [my](me) [may-endure](vartatāṃ) [family](kulam)
+[as-long-as](yāvat) [day+night-lords](divā+niśā+nāthau) [so-long](tāvat) [my](me) [may-continue](vartatāṃ) [family](kulam)
 
 ## mukta-m0-p139-v3460
-[mirror+etc.](darpaṇādy) [other+objects](anyavastūni) [banner](dhvajaṃ) [and](ca) [also](api) [one-should-offer](nivedayet)
+[mirror+etc.](darpaṇa+ādi) [other-objects](anya+vastūni) [flag](dhvajaṃ) [and](ca) [also](api) [one-should-offer](nivedayet)
 
 ## mukta-m0-p139-v3461
-[to-Śiva](śivāya) [bull](vṛṣabhaṃ) [having-given](dattvā) [one-should-pray](prārthayed) [with-folded-hands](vihitāñjaliḥ)
+[to-Śiva](śivāya) [bull](vṛṣabhaṃ) [having-given](dattvā) [one-should-pray](prārthayet) [with-folded-hands](vihita+añjaliḥ)
 
 ## mukta-m0-p139-v3462
-[on-back](pṛṣṭhe) [you-carry](vahasi) [god+lord](deveśaṃ) [worthy-of-worship](pūjyo'si) [by-thirty-gods](tridaśair) [also](api)
+[on-back](pṛṣṭhe) [you-carry](vahasi) [lord-of-gods](deva+īśaṃ) [worshipful](pūjyaḥ) [you-are](asi) [by-thirty-gods](tridaśaiḥ) [even](api)
 
 ## mukta-m0-p139-v3463
-[Veda+Āgama+Tantra](nigamāgamatantrāṇi) [tooth+tip+at](daśanāgre) [dwell](vasanti) [your](te)
+[Vedas+Āgamas+Tantras](nigama+āgama+tantrāṇi) [at-tooth-tip](daśana+agre) [dwell](vasanti) [of-you](te)
 
 ## mukta-m0-p139-v3464
-[dwelling](vāsaṃ) [may-give](dadātu) [in-Kailāsa](kailāse) [you](tvaṃ) [me](māṃ) [protect](pālaya) [always](sarvadā)
+[abode](vāsaṃ) [may-give](dadātu) [in-Kailāsa](kailāse) [you](tvaṃ) [me](māṃ) [protect](pālaya) [always](sarvadā)
 
 ## mukta-m0-p139-v3465
-[as](yathā) [one-should-praise](stūyān) [O-great-goddess](maheśāni) [that](tan) [to-me](me) [speaking](nigadataḥ) [hear](śṛṇu)
+[as](yathā) [one-should-praise](stūyāt) [O-great-goddess](mahā+īśāni) [that](tat) [of-me](me) [speaking](nigadataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p139-v3466
-[of-gods](devānāṃ) [victory+giving](jayado) [terrible](bhīmo) [of-demons](danujānāṃ) [destruction+making](vināśakṛt)
+[of-gods](devānāṃ) [victory-giver](jaya+daḥ) [terrible](bhīmaḥ) [of-demons](danujānāṃ) [destroyer](vināśa+kṛt)
 
 ## mukta-m0-p139-v3467
-[bull](vṛṣabha) [you](tvam) [thus+etc.](ityādi) [bull](vṛṣabha) [you](tvam) [thus+etc.](ityādi)
+[O-bull](vṛṣabha) [you](tvam) [thus-etc.](iti+ādi)
 
 ## mukta-m0-p139-v3468
-[tooth+tip+at](daśanāgre) [tooth+tip+at](dantāgre) [tooth+tip+at](daśanāgre) [tooth+tip+at](dantāgre)
+[at-tooth-tip](daśana+agre) [at-tooth-tip](danta+agre)
 
 ## mukta-m0-p139-v3469
-[well-pleased](suprītaḥ) [let-be](bhavatu) [thus](iti) [ellipsis](śeṣaḥ) [well-pleased](suprītaḥ) [let-be](bhavatu)
+[well-pleased](suprītaḥ) [let-be](bhavatu) [thus](iti) [ellipsis](śeṣaḥ) [|| 256](|| 256)
 
 ## mukta-m0-p139-v3470
-[to-goddess](devyai) [offered](samarpito) [with-devotion](bhaktyā) [slay](jahi) [enemies](śatrūn) [salutation+to-you](namo'stu) [to-you](te)
+[to-goddess](devyai) [offered](samarpitaḥ) [with-devotion](bhaktyā) [slay](jahi) [enemies](śatrūn) [obeisance](namaḥ) [let-be](astu) [to-you](te)
 
 ## mukta-m0-p139-v3471
-[salutation+to-you](namaste'stu) [to-bird+lord](khagendrāya) [bird+king](pakṣirāja) [salutation+to-you](namo'stu) [to-you](te)
+[obeisance](namaḥ) [to-you](te) [let-be](astu) [to-bird-lord](khaga+indrāya) [O-king-of-birds](pakṣi+rāja) [obeisance](namaḥ) [let-be](astu) [to-you](te)
 
 ## mukta-m0-p139-v3472
-[likewise](tathā) [me](mām) [enemy+pride+slayer](aridarpaghna) [of-Viṣṇu+before](viṣṇoragre) [cause-to-dwell](nivāsaya)
+[likewise](tathā) [me](mām) [O-enemy-pride-slayer](ari+darpa+ghna) [before-Viṣṇu](viṣṇoḥ+agre) [cause-to-dwell](nivāsaya)
 
 ## mukta-m0-p139-v3473
-[in-you](tvayi) [being-pleased](prīte) [world+lord](jagannāthaḥ) [pleased](prītaḥ) [success](siddhiṃ) [bestows](prayacchati)
+[when-you](tvayi) [pleased](prīte) [lord-of-world](jagat+nāthaḥ) [pleased](prītaḥ) [success](siddhiṃ) [bestows](prayacchati)
 
 ## mukta-m0-p139-v3474
-[with-dances](nṛtyair) [with-songs](gītaiś) [and](ca) [with-instruments](vāditraiḥ) [with-ministers](sāmātyaḥ) [with-relatives](sahabāndhavaḥ)
+[with-dances](nṛtyaiḥ) [with-songs](gītaiḥ) [and](ca) [with-instruments](vāditraiḥ) [with-ministers](sa+amātyaḥ) [with-relatives](saha+bāndhavaḥ)
 
 ## mukta-m0-p139-v3475
-[house+circumambulation](veśmapradakṣiṇaṃ) [having-done](kṛtvā) [god](devaṃ) [having-bowed](natvā) [should-feed](aśayed) [brahmins](dvijān)
+[house-circumambulation](veśma+pradakṣiṇaṃ) [having-done](kṛtvā) [god](devaṃ) [having-bowed](natvā) [one-should-seat](āśayet) [brahmins](dvijān)
