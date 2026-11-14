@@ -3,24 +3,39 @@
  "verse": 548,
  "rows": [
   {
-   "lemma": "kaniṣṭhādyaṅguṣṭhāntaṃ",
+   "lemma": "bṛhat",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "skandha",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "tribhāga",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "arthaṃ",
    "morph": "n.acc.sg",
-   "grounds": "compound kaniṣṭha + ādi + aṅguṣṭha + anta"
+   "grounds": "fractional measure"
   },
   {
-   "lemma": "ca",
+   "lemma": "tripāda",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "guṇa",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "mānataḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
-  },
-  {
-   "lemma": "saṃhāranyāsam",
-   "morph": "m.acc.sg",
-   "grounds": "compound saṃhāra + nyāsa"
-  },
-  {
-   "lemma": "ucyate",
-   "morph": "3.sg.pass-pres",
-   "grounds": "verb root vac passive"
+   "grounds": "manner of measurement"
   }
  ]
 }

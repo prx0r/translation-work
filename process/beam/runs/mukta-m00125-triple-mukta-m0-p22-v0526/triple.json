@@ -1,0 +1,1353 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 526,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātodya",
+     "gloss": "instruments",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyuktan",
+     "gloss": "endowed-with",
+     "grounds": "describes the pole/flagstaff",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nṛtta",
+     "gloss": "dance",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vādya",
+     "gloss": "music",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied-by",
+     "grounds": "describes the pole/flagstaff",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What accompaniments should be present with the pole being established?",
+   "premises": [
+    "The pole is endowed with all instruments.",
+    "The pole is accompanied by dance and music."
+   ],
+   "inference": "The establishment of the pole should be accompanied by all instruments, dance, and music.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with all instruments and accompanied by dance and music."
+  },
+  {
+   "verse": 527,
+   "rows": [
+    {
+     "surface": "triśūlena",
+     "gloss": "with-trident",
+     "grounds": "instrument accompanying the pole",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "samāyuktan",
+     "gloss": "endowed-with",
+     "grounds": "describes the pole",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "deveśena",
+     "gloss": "with-lord-of-gods",
+     "grounds": "instrument or accompaniment",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "yutan",
+     "gloss": "joined-with",
+     "grounds": "describes the pole",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What divine emblems may be joined with the pole?",
+   "premises": [
+    "The pole may be endowed with a trident.",
+    "The pole may alternatively be joined with the lord of gods."
+   ],
+   "inference": "The pole may be accompanied either by a trident or by the lord of gods.",
+   "uncertainties": [
+    "deveśena may refer to an image or emblem of the lord of gods"
+   ],
+   "plain_english": "It may be endowed with a trident, or joined with the lord of gods."
+  },
+  {
+   "verse": 528,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "pole",
+     "grounds": "object to be established",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃsthāpayet",
+     "gloss": "one-should-establish",
+     "grounds": "ritual action",
+     "morph": "3.sg.optative-act + root sthā"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequence of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lakṣaṇa",
+     "gloss": "characteristics",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "describes the pole",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the pole be established after the preparations?",
+   "premises": [
+    "The pole is the object to be established.",
+    "The pole must be endowed with all characteristics."
+   ],
+   "inference": "Afterwards, one should establish the pole endowed with all the required characteristics.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, one should establish the pole endowed with all the proper characteristics."
+  },
+  {
+   "verse": 529,
+   "rows": [
+    {
+     "surface": "dhāma",
+     "gloss": "temple",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ucca",
+     "gloss": "height",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tāra",
+     "gloss": "measure",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sadṛśaḥ",
+     "gloss": "equal-to",
+     "grounds": "describes the pole's height",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviguṇas",
+     "gloss": "double",
+     "grounds": "alternative proportion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triguṇo",
+     "gloss": "triple",
+     "grounds": "alternative proportion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What height proportions are prescribed for the pole relative to the temple?",
+   "premises": [
+    "The pole may be equal in height to the temple.",
+    "The pole may be double or triple that height."
+   ],
+   "inference": "The pole's height may be equal to, double, or triple the height of the temple.",
+   "uncertainties": [
+    "tāra may indicate a specific measure or star-like height"
+   ],
+   "plain_english": "It may be equal to the temple's height, or double, or even triple."
+  },
+  {
+   "verse": 530,
+   "rows": [
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "first number in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "second number in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vasu",
+     "gloss": "eight",
+     "grounds": "third number in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hastena",
+     "gloss": "by-cubits",
+     "grounds": "unit of measurement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "daṇḍasya",
+     "gloss": "of-pole",
+     "grounds": "possessor of the measure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "adhama",
+     "gloss": "lower",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "traye",
+     "gloss": "in-three",
+     "grounds": "refers to the lower three categories",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What cubit measurements apply to the pole in the lower three categories?",
+   "premises": [
+    "The measures given are six, seven, and eight cubits.",
+    "These measures apply to the lower three categories of the pole."
+   ],
+   "inference": "In the lower three categories, the pole should measure six, seven, or eight cubits.",
+   "uncertainties": [],
+   "plain_english": "For the lower three categories, the pole should measure six, seven, or eight cubits."
+  },
+  {
+   "verse": 531,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tala",
+     "gloss": "storey",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paryantaṃ",
+     "gloss": "up-to",
+     "grounds": "limit of range",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gopurāntam",
+     "gloss": "up-to-gateway-tower",
+     "grounds": "alternative upper limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What structural ranges determine the pole's extent in other cases?",
+   "premises": [
+    "The range may extend from one storey onward.",
+    "The range may alternatively extend up to the gateway tower."
+   ],
+   "inference": "The pole's extent may be determined from one storey upward or up to the gateway tower.",
+   "uncertainties": [],
+   "plain_english": "It may extend from one storey onward, or alternatively up to the gateway tower."
+  },
+  {
+   "verse": 532,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kanīyase",
+     "gloss": "in-inferior",
+     "grounds": "category or location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khātaṃ",
+     "gloss": "pit",
+     "grounds": "excavation for the pole",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahiṣkṛtam",
+     "gloss": "placed-outside",
+     "grounds": "describes the pit's position",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where should the pit be placed in the middle or inferior case?",
+   "premises": [
+    "The case concerns the middle or inferior category.",
+    "The pit may be placed outside in that case."
+   ],
+   "inference": "If it is in the middle or inferior case, the pit should be placed outside.",
+   "uncertainties": [
+    "the exact referent of madhye kanīyase is context-dependent"
+   ],
+   "plain_english": "If it is in the middle or inferior case, then the pit should be placed outside."
+  },
+  {
+   "verse": 533,
+   "rows": [
+    {
+     "surface": "sarvaḥ",
+     "gloss": "all",
+     "grounds": "qualifies the tree",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūla",
+     "gloss": "śūla-text",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ukta",
+     "gloss": "mentioned",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛkṣo",
+     "gloss": "tree",
+     "grounds": "subject material",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvak",
+     "gloss": "bark",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sāra",
+     "gloss": "pith",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kramuka",
+     "gloss": "areca-nut",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikaḥ",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional types",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What types of trees are permitted for making the pole?",
+   "premises": [
+    "Any tree mentioned in the śūla text is permitted.",
+    "Bark-pith trees, areca-nut trees, and others are also permitted."
+   ],
+   "inference": "The pole may be made from any tree mentioned in the śūla text, or from bark-pith, areca-nut, and similar trees.",
+   "uncertainties": [],
+   "plain_english": "Any tree mentioned in the śūla text may be used, or bark-pith trees, areca-nut trees, and so forth."
+  },
+  {
+   "verse": 534,
+   "rows": [
+    {
+     "surface": "palāśa",
+     "gloss": "palāśa",
+     "grounds": "tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "khadira",
+     "gloss": "khadira",
+     "grounds": "tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aśvattha",
+     "gloss": "aśvattha",
+     "grounds": "tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaṭa",
+     "gloss": "vaṭa",
+     "grounds": "tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "candana",
+     "gloss": "sandal",
+     "grounds": "tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dāravaḥ",
+     "gloss": "woods",
+     "grounds": "collective term for timbers",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which specific timbers are suitable for the pole?",
+   "premises": [
+    "Palāśa, khadira, aśvattha, vaṭa, and sandal are named.",
+    "These are suitable woods for the pole."
+   ],
+   "inference": "Suitable timbers include palāśa, khadira, aśvattha, vaṭa, and sandal woods.",
+   "uncertainties": [],
+   "plain_english": "The woods may be palāśa, khadira, aśvattha, vaṭa, or sandal."
+  },
+  {
+   "verse": 535,
+   "rows": [
+    {
+     "surface": "vaiṇavaṃ",
+     "gloss": "made-of-bamboo",
+     "grounds": "material option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāti",
+     "gloss": "jāti",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛkṣai",
+     "gloss": "with-trees",
+     "grounds": "alternative material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śamī",
+     "gloss": "śamī",
+     "grounds": "tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bilvam",
+     "gloss": "bilva",
+     "grounds": "tree name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional materials may be used for the pole?",
+   "premises": [
+    "Bamboo may be used for the pole.",
+    "Jāti trees, śamī, or bilva may also be used."
+   ],
+   "inference": "The pole may be made of bamboo, jāti trees, śamī, or bilva.",
+   "uncertainties": [],
+   "plain_english": "It may be made of bamboo, or of jāti trees, or of śamī or bilva."
+  },
+  {
+   "verse": 536,
+   "rows": [
+    {
+     "surface": "svabhāva",
+     "gloss": "natural",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāha",
+     "gloss": "hollowness",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktas",
+     "gloss": "endowed-with",
+     "grounds": "describes the pole",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvak",
+     "gloss": "bark",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sāra",
+     "gloss": "pith",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "druma",
+     "gloss": "tree",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nimitaḥ",
+     "gloss": "made-from",
+     "grounds": "describes the pole's construction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What natural quality should the tree used for the pole possess?",
+   "premises": [
+    "The pole should be made from a bark-pith tree.",
+    "The tree should be naturally endowed with hollowness."
+   ],
+   "inference": "The pole should be made from a bark-pith tree that is naturally hollow.",
+   "uncertainties": [],
+   "plain_english": "It should be made from a bark-pith tree that is naturally hollow."
+  },
+  {
+   "verse": 537,
+   "rows": [
+    {
+     "surface": "dvibhāga",
+     "gloss": "two-parts",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "navāṃśāntan",
+     "gloss": "up-to-nine-parts",
+     "grounds": "range of divisions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daṇḍa",
+     "gloss": "pole",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "object to be divided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-divided",
+     "grounds": "action performed",
+     "morph": "(indecl.) + root dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the length of the pole be divided for measurement?",
+   "premises": [
+    "The pole's length is to be divided.",
+    "The divisions range from two parts up to nine parts."
+   ],
+   "inference": "One should divide the pole's length into parts ranging from two up to nine.",
+   "uncertainties": [],
+   "plain_english": "Having divided the pole's length into parts ranging from two up to nine."
+  },
+  {
+   "verse": 538,
+   "rows": [
+    {
+     "surface": "pañcāṃgulaṃ",
+     "gloss": "five-finger-units",
+     "grounds": "starting measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-with",
+     "grounds": "action of starting",
+     "morph": "(indecl.) + root rabh"
+    },
+    {
+     "surface": "cāṃgulāt",
+     "gloss": "by-finger-unit",
+     "grounds": "incremental step",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ṣoḍaśāṃgulam",
+     "gloss": "sixteen-finger-units",
+     "grounds": "ending measure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What range of finger-unit measurements is prescribed for the pole?",
+   "premises": [
+    "The measurement begins at five finger-units.",
+    "The measurement increases by finger-units up to sixteen."
+   ],
+   "inference": "The prescribed measurement ranges from five finger-units up to sixteen finger-units.",
+   "uncertainties": [
+    "cāṃgulāt may indicate increment by one finger-unit"
+   ],
+   "plain_english": "Beginning with five finger-units and going up to sixteen finger-units."
+  },
+  {
+   "verse": 539,
+   "rows": [
+    {
+     "surface": "pañcāṃśāt",
+     "gloss": "from-five-parts",
+     "grounds": "starting division",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dvādaśāṃśāntaṃ",
+     "gloss": "up-to-twelve-parts",
+     "grounds": "ending division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāhaṃ",
+     "gloss": "circumference",
+     "grounds": "object to be fixed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-fixed",
+     "grounds": "action performed",
+     "morph": "(indecl.) + root dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the circumference at the root of the pole be determined?",
+   "premises": [
+    "The root circumference is to be fixed.",
+    "The proportion ranges from one-fifth up to one-twelfth."
+   ],
+   "inference": "One should fix the root circumference as a fraction ranging from one-fifth to one-twelfth.",
+   "uncertainties": [],
+   "plain_english": "And having fixed the root circumference as from one-fifth up to one-twelfth."
+  },
+  {
+   "verse": 540,
+   "rows": [
+    {
+     "surface": "daṇḍa",
+     "gloss": "pole",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ukto",
+     "gloss": "mentioned",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "veṇu",
+     "gloss": "bamboo",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛkṣo",
+     "gloss": "tree",
+     "grounds": "material option",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhvaja",
+     "gloss": "flag",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yaṣṭi",
+     "gloss": "staff",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mahīruhaḥ",
+     "gloss": "tree",
+     "grounds": "material option",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What materials may serve as the pole or the flag staff?",
+   "premises": [
+    "The pole may be the bamboo tree mentioned for the pole.",
+    "The flag staff may be made from a tree."
+   ],
+   "inference": "Either the mentioned bamboo tree or a tree suitable for a flag staff may be used.",
+   "uncertainties": [],
+   "plain_english": "It may be the bamboo tree mentioned for the pole, or a tree for the flag staff."
+  },
+  {
+   "verse": 541,
+   "rows": [
+    {
+     "surface": "skandhaṃ",
+     "gloss": "branch",
+     "grounds": "object measured",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "its",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māna",
+     "gloss": "measure",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvādaśāṃgulam",
+     "gloss": "twelve-finger-units",
+     "grounds": "specified measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ānataḥ",
+     "gloss": "in-extent",
+     "grounds": "manner of measurement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What measurement is prescribed for the two branches of the pole?",
+   "premises": [
+    "There are two branches.",
+    "Their measure is twelve finger-units in extent."
+   ],
+   "inference": "The two branches should measure twelve finger-units in extent.",
+   "uncertainties": [],
+   "plain_english": "The two branches should measure twelve finger-units in extent."
+  },
+  {
+   "verse": 542,
+   "rows": [
+    {
+     "surface": "saptāṃgulaṃ",
+     "gloss": "seven-finger-units",
+     "grounds": "starting measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-with",
+     "grounds": "action of starting",
+     "morph": "(indecl.) + root rabh"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arṇa",
+     "gloss": "syllable",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āṃgulā",
+     "gloss": "finger-units",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avadhi",
+     "gloss": "up-to",
+     "grounds": "limit of range",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the prescribed range for this branch measurement?",
+   "premises": [
+    "The measurement begins at seven finger-units.",
+    "The upper limit is the number of finger-units equal to the syllables of the gāyatrī."
+   ],
+   "inference": "The measurement ranges from seven finger-units up to twenty-four finger-units.",
+   "uncertainties": [
+    "gāyatrī-arṇa implies twenty-four syllables"
+   ],
+   "plain_english": "Beginning with seven finger-units, up to the number of finger-units equal to the syllables of the gāyatrī."
+  },
+  {
+   "verse": 543,
+   "rows": [
+    {
+     "surface": "ardhena",
+     "gloss": "by-half",
+     "grounds": "proportional reduction",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripādena",
+     "gloss": "by-three-quarters",
+     "grounds": "proportional reduction",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "darvi",
+     "gloss": "ladle",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ākāro",
+     "gloss": "shape",
+     "grounds": "describes the form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shape should the branch take according to the prescribed proportions?",
+   "premises": [
+    "The proportion may be by half or by three-quarters.",
+    "The resulting shape should be like a ladle."
+   ],
+   "inference": "Reduced by half or by three-quarters, the branch should be shaped like a ladle.",
+   "uncertainties": [],
+   "plain_english": "Reduced by half or by three-quarters, it should be shaped like a ladle."
+  },
+  {
+   "verse": 544,
+   "rows": [
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "first number in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "second number in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvaya",
+     "gloss": "two",
+     "grounds": "third number in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṃgulaṃ",
+     "gloss": "finger-units",
+     "grounds": "unit of measurement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "subject of declaration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "refers to the branches",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative measurements are declared for these branches?",
+   "premises": [
+    "The measures given are four, three, or two finger-units.",
+    "These measures are declared for these branches."
+   ],
+   "inference": "The measure of these branches is declared as four, three, or two finger-units.",
+   "uncertainties": [],
+   "plain_english": "The measure of these is declared as four, three, or two finger-units."
+  },
+  {
+   "verse": 545,
+   "rows": [
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chidram",
+     "gloss": "hole",
+     "grounds": "feature to be made",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhas",
+     "gloss": "lower",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "skandha",
+     "gloss": "branch",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prānte",
+     "gloss": "at-end",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yaṣṭi",
+     "gloss": "staff",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agra",
+     "gloss": "tip",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "deśake",
+     "gloss": "place",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should a half-hole be made on the lower branch?",
+   "premises": [
+    "A half-hole is to be made.",
+    "It is located at the end of the lower branch near the tip of the staff."
+   ],
+   "inference": "A half-hole should be made at the end of the lower branch, at the place of the staff's tip.",
+   "uncertainties": [],
+   "plain_english": "A half-hole should be made at the end of the lower branch, at the place of the staff's tip."
+  },
+  {
+   "verse": 546,
+   "rows": [
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agra",
+     "gloss": "tip",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "suṣira",
+     "gloss": "hollow",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "upeta",
+     "gloss": "endowed-with",
+     "grounds": "describes the pole",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daṇḍa",
+     "gloss": "pole",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yaṣṭi",
+     "gloss": "staff",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anurūpataḥ",
+     "gloss": "according-to-form",
+     "grounds": "manner of fitting",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the pole and staff be fitted together at root and tip?",
+   "premises": [
+    "The pole should be hollow at root and tip.",
+    "The fitting should be according to the form of the pole and staff."
+   ],
+   "inference": "The pole should be hollow at root and tip, fitted according to the form of the pole and staff.",
+   "uncertainties": [],
+   "plain_english": "It should be hollow at root and tip, fitted according to the form of the pole and staff."
+  },
+  {
+   "verse": 547,
+   "rows": [
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chidram",
+     "gloss": "hole",
+     "grounds": "feature to be made",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhas",
+     "gloss": "lower",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "skandha",
+     "gloss": "branch",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prānte",
+     "gloss": "at-end",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yaṣṭi",
+     "gloss": "staff",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agra",
+     "gloss": "tip",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "deśake",
+     "gloss": "place",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the half-hole positioned on the lower branch in this specification?",
+   "premises": [
+    "A half-hole is specified.",
+    "It is placed at the end of the lower branch at the staff-tip location."
+   ],
+   "inference": "A half-hole should be placed at the end of the lower branch at the staff-tip location.",
+   "uncertainties": [
+    "this verse repeats the content of verse 545"
+   ],
+   "plain_english": "A half-hole should be made at the end of the lower branch, at the place of the staff's tip."
+  },
+  {
+   "verse": 548,
+   "rows": [
+    {
+     "surface": "bṛhat",
+     "gloss": "large",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "skandha",
+     "gloss": "branch",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tribhāga",
+     "gloss": "three-parts",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arthaṃ",
+     "gloss": "portion",
+     "grounds": "fractional measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tripāda",
+     "gloss": "three-quarters",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "guṇa",
+     "gloss": "multiplied",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "in-measure",
+     "grounds": "manner of measurement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional measure applies to the large branch?",
+   "premises": [
+    "The large branch is measured in parts.",
+    "Its measure is one-third portion multiplied by three-quarters."
+   ],
+   "inference": "The large branch should be measured as one-third portion adjusted by three-quarters.",
+   "uncertainties": [
+    "the exact mathematical application of tripāda-guṇa-mānataḥ is unclear"
+   ],
+   "plain_english": "The large branch should measure one-third portion, adjusted by three-quarters in measure."
+  },
+  {
+   "verse": 549,
+   "rows": [
+    {
+     "surface": "daṇḍa",
+     "gloss": "pole",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "khāta",
+     "gloss": "pit",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramāṇa",
+     "gloss": "measure",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āntan",
+     "gloss": "up-to",
+     "grounds": "limit of extent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daṇḍa",
+     "gloss": "pole",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āgrā",
+     "gloss": "tip",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvalaya",
+     "gloss": "ring",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "describes position",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How far does the ring at the pole's tip extend in relation to the pit?",
+   "premises": [
+    "The extent is measured up to the depth of the pole's pit.",
+    "A ring is situated at the tip of the pole."
+   ],
+   "inference": "The ring at the pole's tip is situated extending up to the measure of the pole's pit.",
+   "uncertainties": [
+    "dvalaya may refer to a ring or circular fitting; āntan form is unusual"
+   ],
+   "plain_english": "Situated up to the measure of the pole's pit, there is a ring at the tip of the pole."
+  }
+ ]
+}

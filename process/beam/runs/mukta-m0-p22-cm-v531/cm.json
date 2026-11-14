@@ -3,24 +3,44 @@
  "verse": 531,
  "rows": [
   {
-   "lemma": "gandhapuṣpādikaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound gandha + puṣpa + ādi"
+   "lemma": "eka",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "sarvam",
-   "morph": "n.acc.sg",
-   "grounds": "indeclinable adjective"
+   "lemma": "ādi",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "ānītaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "past participle"
+   "lemma": "tala",
+   "morph": "compound-member",
+   "grounds": "third member of compound"
   },
   {
-   "lemma": "paricārakaiḥ",
-   "morph": "m.instr.pl",
-   "grounds": "instrumental plural"
+   "lemma": "paryantaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "limit of range"
+  },
+  {
+   "lemma": "gopurāntam",
+   "morph": "n.acc.sg",
+   "grounds": "alternative upper limit"
+  },
+  {
+   "lemma": "atha",
+   "morph": "(indecl.)",
+   "grounds": "alternative particle"
+  },
+  {
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "inclusive particle"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "alternative option"
   }
  ]
 }

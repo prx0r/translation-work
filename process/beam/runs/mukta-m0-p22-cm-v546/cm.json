@@ -3,29 +3,39 @@
  "verse": 546,
  "rows": [
   {
-   "lemma": "gṛhasthaḥ",
+   "lemma": "mūla",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "agra",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "suṣira",
+   "morph": "compound-member",
+   "grounds": "third member of compound"
+  },
+  {
+   "lemma": "upeta",
    "morph": "m.nom.sg",
-   "grounds": "nominative"
+   "grounds": "describes the pole"
   },
   {
-   "lemma": "sṛṣṭimārgeṇa",
-   "morph": "m.instr.sg",
-   "grounds": "compound sṛṣṭi + mārga"
+   "lemma": "daṇḍa",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "karanyāsaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound kara + nyāsa"
+   "lemma": "yaṣṭi",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "tu",
+   "lemma": "anurūpataḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
-  },
-  {
-   "lemma": "kārayet",
-   "morph": "3.sg.act-opt",
-   "grounds": "verb root kṛ causative"
+   "grounds": "manner of fitting"
   }
  ]
 }

@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p22",
  "verse": 544,
- "question": "Which body parts touch each other mutually?",
+ "question": "What alternative measurements are declared for these branches?",
  "premises": [
-  "Mutual touching is prescribed.",
-  "Soles are named.",
-  "Hand-backs are named."
+  "The measures given are four, three, or two finger-units.",
+  "These measures are declared for these branches."
  ],
- "inference": "The soles and hand-backs touch each other mutually.",
- "uncertainties": [
-  "The exact posture is not described."
- ],
- "plain_english": "Mutually touch the soles and the backs of the hands."
+ "inference": "The measure of these branches is declared as four, three, or two finger-units.",
+ "uncertainties": [],
+ "plain_english": "The measure of these is declared as four, three, or two finger-units."
 }

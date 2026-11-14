@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p220",
+ "items": [
+  {
+   "verse": 5500,
+   "rows": [
+    {
+     "surface": "svadakṣiṇagrahīto",
+     "gloss": "grasped-in-own-right",
+     "grounds": "compound sva-dakṣiṇa-grahīta; describes object held in own right hand",
+     "morph": "compound adj., m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣahastaprasannadhīḥ",
+     "gloss": "right-hand-serene-minded",
+     "grounds": "compound dakṣa-hasta-prasanna-dhī; describes serene disposition associated with right hand",
+     "morph": "compound adj., m.nom.sg"
+    }
+   ],
+   "question": "What alternative configurations characterize the deity's right hand in this depiction?",
+   "premises": [
+    "The deity may hold an object in his own right hand.",
+    "Alternatively the deity may be characterized by a serene disposition in the right hand.",
+    "The particle vā marks these as alternative configurations."
+   ],
+   "inference": "The verse specifies two alternative states for the deity's right hand.",
+   "uncertainties": [
+    "The exact object or gesture implied by svadakṣiṇagrahīto is not specified in this verse."
+   ],
+   "plain_english": "Either grasped in his own right hand, or with a serene disposition in the right hand."
+  }
+ ]
+}

@@ -3,24 +3,44 @@
  "verse": 529,
  "rows": [
   {
-   "lemma": "praviśet",
-   "morph": "3.sg.act-opt",
-   "grounds": "verb root viś"
+   "lemma": "dhāma",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "dakṣapādena",
-   "morph": "m.instr.sg",
-   "grounds": "compound dakṣa + pāda"
+   "lemma": "ucca",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "prāsādābhyantaraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound prāsāda + abhyantara"
+   "lemma": "tāra",
+   "morph": "compound-member",
+   "grounds": "third member of compound"
   },
   {
-   "lemma": "guruḥ",
+   "lemma": "sadṛśaḥ",
    "morph": "m.nom.sg",
-   "grounds": "teacher"
+   "grounds": "describes the pole's height"
+  },
+  {
+   "lemma": "dviguṇas",
+   "morph": "m.nom.sg",
+   "grounds": "alternative proportion"
+  },
+  {
+   "lemma": "triguṇo",
+   "morph": "m.nom.sg",
+   "grounds": "alternative proportion"
+  },
+  {
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "inclusive particle"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "alternative option"
   }
  ]
 }

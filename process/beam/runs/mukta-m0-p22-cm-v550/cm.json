@@ -3,24 +3,44 @@
  "verse": 550,
  "rows": [
   {
-   "lemma": "tarjanyāṅguṣṭhake",
-   "morph": "m.loc.sg",
-   "grounds": "compound locative form with fused sandhi"
+   "lemma": "bhū",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating location of entry"
   },
   {
-   "lemma": "nyāsaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject of the statement"
+   "lemma": "praviṣṭa",
+   "morph": "compound-member",
+   "grounds": "past participle describing what has entered the earth; forms compound with bhū"
   },
   {
-   "lemma": "sarvāsvaṅguṣṭhato",
-   "morph": "m.abl.sg",
-   "grounds": "fused ablative expression"
+   "lemma": "pramāṇaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "nominal head denoting the extent or measurement"
   },
   {
-   "lemma": "bhavet",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative of root bhū"
+   "lemma": "yat",
+   "morph": "n.nom.sg",
+   "grounds": "relative pronoun introducing the measure being specified"
+  },
+  {
+   "lemma": "daṇḍa",
+   "morph": "compound-member",
+   "grounds": "first member of locative compound indicating the pole's tip"
+  },
+  {
+   "lemma": "agre",
+   "morph": "n.loc.sg",
+   "grounds": "locative noun forming compound with daṇḍa to denote the pole's end"
+  },
+  {
+   "lemma": "yaṣṭi",
+   "morph": "compound-member",
+   "grounds": "first member of compound denoting the staff whose length is measured"
+  },
+  {
+   "lemma": "dairghyakam",
+   "morph": "n.nom.sg",
+   "grounds": "nominal head denoting the length of the staff"
   }
  ]
 }
