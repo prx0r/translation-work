@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p190",
+ "items": [
+  {
+   "verse": 4750,
+   "rows": [
+    {
+     "surface": "mahiṣāśvapurīṣeṇa",
+     "gloss": "with-buffalo-horse-dung",
+     "grounds": "instrumental of compound mahiṣa-aśva-purīṣa (buffalo, horse, dung)",
+     "morph": "compound+ins.sg.n"
+    },
+    {
+     "surface": "gomūtreṇa",
+     "gloss": "with-cow-urine",
+     "grounds": "instrumental of compound go-mūtra (cow, urine)",
+     "morph": "compound+ins.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "one-should-inscribe",
+     "grounds": "optative of sam-likh (to write, inscribe)",
+     "morph": "3.sg.act.opt+sam√likh"
+    }
+   ],
+   "question": "Which additional substances are required to inscribe the written name?",
+   "premises": [
+    "The inscription procedure continues from the previously stated method.",
+    "Buffalo and horse dung is specified as a writing substance.",
+    "Cow urine is specified as an additional writing substance."
+   ],
+   "inference": "The written name should be inscribed using buffalo-horse dung together with cow urine.",
+   "uncertainties": [],
+   "plain_english": "One should inscribe it with buffalo and horse dung and with cow urine."
+  }
+ ]
+}

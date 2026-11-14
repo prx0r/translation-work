@@ -3,34 +3,44 @@
  "verse": 4700,
  "rows": [
   {
-   "lemma": "sādhyaḥ",
-   "morph": "gerundive.nom.sg.m",
-   "grounds": "gerundive expressing capability or possibility of attainment"
-  },
-  {
-   "lemma": "asti",
-   "morph": "3.sg.pres.act √as",
-   "grounds": "asserts present existence or state"
-  },
-  {
-   "lemma": "vinā",
+   "lemma": "heti",
    "morph": "(indecl.)",
-   "grounds": "indeclinable expressing absence or exclusion"
+   "grounds": "legacy hint gives weapon; token treated as the named means/object in this rite list"
   },
   {
-   "lemma": "bhaktim",
-   "morph": "acc.sg.f",
-   "grounds": "object of exclusion"
+   "lemma": "nausainya",
+   "morph": "compound=ship+army",
+   "grounds": "compound reading from legacy army/naval sense; fused form kept as given"
   },
   {
-   "lemma": "bhavān",
-   "morph": "pron.nom.sg.m",
-   "grounds": "honorific address to the Lord"
+   "lemma": "dhī",
+   "morph": "(indecl.)",
+   "grounds": "legacy hint gives intellect; used as a target/item in the stoppage list"
   },
   {
-   "lemma": "prabho",
-   "morph": "voc.sg.m",
-   "grounds": "vocative address"
+   "lemma": "garbha",
+   "morph": "m.nom.sg",
+   "grounds": "legacy hint gives womb; paired with stopping in the compound context"
+  },
+  {
+   "lemma": "stambhanaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "legacy hint gives stopping; accusative object of the rite’s effect"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjoins items in the enumeration"
+  },
+  {
+   "lemma": "gates",
+   "morph": "f.gen.pl",
+   "grounds": "legacy hint gives of-movement; genitive plural indicating what is stopped"
+  },
+  {
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "legacy hint gives thus; marks manner/continuation of the stated effect"
   }
  ]
 }

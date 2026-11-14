@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p184",
  "verse": 4593,
- "question": "What golden attributes characterize the goddess in this meditative description?",
+ "question": "How should the quantity be gradually reduced with ten as the upper limit?",
  "premises": [
-  "The goddess is described as golden-garlanded.",
-  "She is described as golden-eyed.",
-  "She is described as golden-colored."
+  "Reduction may occur by fives.",
+  "The reduction proceeds gradually.",
+  "The limit is up to ten."
  ],
- "inference": "The verse portrays the goddess with multiple golden attributes for contemplation.",
- "uncertainties": [],
- "plain_english": "Golden-garlanded, golden-eyed, and golden-colored."
+ "inference": "The practice may be reduced by fives gradually, up to a limit of ten.",
+ "uncertainties": [
+  "The exact item being counted is not specified in this verse."
+ ],
+ "plain_english": "Or reduced by fives gradually, with ten as the limit."
 }
