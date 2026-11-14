@@ -3,34 +3,44 @@
  "verse": 2085,
  "rows": [
   {
-   "lemma": "gaṅgā+garbhe",
-   "morph": "f.loc.sg",
-   "grounds": "compound locative"
+   "lemma": "sarveṣām",
+   "morph": "m.gen.pl",
+   "grounds": "universal scope"
   },
   {
-   "lemma": "taḍāge",
-   "morph": "m.loc.sg",
-   "grounds": "locative noun"
+   "lemma": "bhū",
+   "morph": "compound-member",
+   "grounds": "compound member with gata"
+  },
+  {
+   "lemma": "gata",
+   "morph": "compound-member",
+   "grounds": "compound member with kārya"
+  },
+  {
+   "lemma": "kārya",
+   "morph": "n.nom.sg",
+   "grounds": "prescribed action"
+  },
+  {
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "compound member with siddhi"
+  },
+  {
+   "lemma": "siddhi",
+   "morph": "compound-member",
+   "grounds": "compound member with karāya"
+  },
+  {
+   "lemma": "karāya",
+   "morph": "m.dat.sg",
+   "grounds": "purpose"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "kāminī+maṇḍale",
-   "morph": "n.loc.sg",
-   "grounds": "compound locative"
-  },
-  {
-   "lemma": "api",
-   "morph": "(indecl.)",
-   "grounds": "particle"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "connective particle"
   }
  ]
 }

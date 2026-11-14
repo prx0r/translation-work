@@ -3,24 +3,34 @@
  "verse": 2087,
  "rows": [
   {
-   "lemma": "sārdha+yāma+uttaraṃ",
+   "lemma": "parivāra",
+   "morph": "compound-member",
+   "grounds": "compound member with ālayānām"
+  },
+  {
+   "lemma": "ālayānām",
+   "morph": "m.gen.pl",
+   "grounds": "scope of rule"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "compound adverbial"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "mūlavat",
+   "morph": "(indecl.)",
+   "grounds": "prescribes same procedure"
   },
   {
-   "lemma": "vīra+sādhanam",
+   "lemma": "karma",
    "morph": "n.acc.sg",
-   "grounds": "compound accusative"
+   "grounds": "object of action"
   },
   {
-   "lemma": "ācaret",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative verb"
+   "lemma": "cācaret",
+   "morph": "3.sg.opt.act √car-cā",
+   "grounds": "prescribes action"
   }
  ]
 }

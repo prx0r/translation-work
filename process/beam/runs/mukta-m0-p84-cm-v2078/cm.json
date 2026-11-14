@@ -3,24 +3,39 @@
  "verse": 2078,
  "rows": [
   {
-   "lemma": "śīghra+siddhi+pradaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound adjective"
+   "lemma": "dvitīya",
+   "morph": "compound-member",
+   "grounds": "compound member with stambhake"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "stambhake",
+   "morph": "m.loc.sg",
+   "grounds": "location reference"
   },
   {
-   "lemma": "pūrva+ukta+aṣṭa+śavaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound noun phrase"
+   "lemma": "dvāra",
+   "morph": "compound-member",
+   "grounds": "compound member with dakṣiṇa"
   },
   {
-   "lemma": "tyajet",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative verb"
+   "lemma": "dakṣiṇa",
+   "morph": "compound-member",
+   "grounds": "compound member with aṅghrau"
+  },
+  {
+   "lemma": "aṅghrau",
+   "morph": "m.loc.sg",
+   "grounds": "specific placement point"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "vinyaset",
+   "morph": "3.sg.opt.act √nyas-vi",
+   "grounds": "prescribes action"
   }
  ]
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2097,
- "question": "Which incense substances such as guggul and devadaru are named?",
+ "question": "What construction is prohibited without establishing the subsidiary place first?",
  "premises": [
-  "Guggul is named",
-  "Iron arrow is named",
-  "Resin is named"
+  "The subsidiary place is required",
+  "The main place is the object",
+  "The knowing one must not make it without the subsidiary place"
  ],
- "inference": "The verse lists incense substances",
- "uncertainties": [
-  "role of iron arrow"
- ],
- "plain_english": "Guggul, iron arrow, and resin, and devadaru."
+ "inference": "The knowing one should not make the main place without the subsidiary place.",
+ "uncertainties": [],
+ "plain_english": "Without the subsidiary place, the knowledgeable one should not make the main place."
 }

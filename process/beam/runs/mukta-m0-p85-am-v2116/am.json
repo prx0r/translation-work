@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2116,
- "question": "How many couples arise by ghaṭikā union in days?",
+ "question": "What proportional sizes are permitted for the front pavilion?",
  "premises": [
-  "in days is named",
-  "by ghaṭikā union is named",
-  "fifty couples is named",
-  "also is named"
+  "The front pavilion’s size is being specified",
+  "Multiple proportional options are given",
+  "The options are equal, half, or three-quarters"
  ],
- "inference": "fifty couples arise",
+ "inference": "The front pavilion may be equal to, half of, or three-quarters of the reference measure.",
  "uncertainties": [
-  "none"
+  "The reference measure for comparison is not explicitly named in this verse"
  ],
- "plain_english": "In days, by ghaṭikā union, fifty couples also."
+ "plain_english": "The front pavilion may be equal to that, or half of that, or three-quarters of that."
 }

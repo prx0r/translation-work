@@ -3,19 +3,34 @@
  "verse": 2081,
  "rows": [
   {
-   "lemma": "guḍa+pāyasa+saṃpātaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound noun"
+   "lemma": "sarveṣām",
+   "morph": "m.gen.pl",
+   "grounds": "qualifies maṇḍapānām"
   },
   {
-   "lemma": "modakān",
-   "morph": "m.acc.pl",
-   "grounds": "noun object"
+   "lemma": "maṇḍapānām",
+   "morph": "m.gen.pl",
+   "grounds": "scope of rule"
   },
   {
-   "lemma": "pūpa+laḍḍukān",
-   "morph": "m.acc.pl",
-   "grounds": "compound noun"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "garbha",
+   "morph": "compound-member",
+   "grounds": "compound member with sthāna"
+  },
+  {
+   "lemma": "sthāna",
+   "morph": "n.nom.sg",
+   "grounds": "subject declared"
+  },
+  {
+   "lemma": "prakathyate",
+   "morph": "3.sg.pres.pass √kath-pra",
+   "grounds": "states general rule"
   }
  ]
 }

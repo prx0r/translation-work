@@ -3,29 +3,39 @@
  "verse": 2080,
  "rows": [
   {
-   "lemma": "pratijñām",
-   "morph": "f.acc.sg",
-   "grounds": "noun object"
+   "lemma": "cūlikā",
+   "morph": "compound-member",
+   "grounds": "compound member with ākāra"
   },
   {
-   "lemma": "īdṛśīṃ",
-   "morph": "f.acc.sg",
-   "grounds": "demonstrative adjective"
+   "lemma": "ākāra",
+   "morph": "compound-member",
+   "grounds": "compound member with pāde"
   },
   {
-   "lemma": "kṛtvā",
-   "morph": "abs",
-   "grounds": "absolutive"
+   "lemma": "pāde",
+   "morph": "m.loc.sg",
+   "grounds": "alternative location"
   },
   {
-   "lemma": "bali+dravyāṇi",
-   "morph": "n.acc.pl",
-   "grounds": "compound noun"
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "introduces alternative"
   },
   {
-   "lemma": "saṃgrahet",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative verb"
+   "lemma": "tasyā",
+   "morph": "f.gen.sg",
+   "grounds": "refers to prior structure"
+  },
+  {
+   "lemma": "garbho",
+   "morph": "m.nom.sg",
+   "grounds": "object prescribed"
+  },
+  {
+   "lemma": "vidhīyate",
+   "morph": "3.sg.pres.pass √dhā-vi",
+   "grounds": "states rule"
   }
  ]
 }

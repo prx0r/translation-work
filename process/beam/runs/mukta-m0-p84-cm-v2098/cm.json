@@ -3,34 +3,39 @@
  "verse": 2098,
  "rows": [
   {
-   "lemma": "māṃsī+nakhaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound accusative"
+   "lemma": "aya",
+   "morph": "compound-member",
+   "grounds": "compound member with vibhāgo"
   },
   {
-   "lemma": "vā",
+   "lemma": "vibhāgo",
+   "morph": "m.nom.sg",
+   "grounds": "subject"
+  },
+  {
+   "lemma": "grāmasya",
+   "morph": "m.gen.sg",
+   "grounds": "scope"
+  },
+  {
+   "lemma": "prārambhe",
+   "morph": "m.loc.sg",
+   "grounds": "time or context"
+  },
+  {
+   "lemma": "anyatra",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "alternative context"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
-  },
-  {
-   "lemma": "karpūram",
-   "morph": "n.acc.sg",
-   "grounds": "noun accusative"
-  },
-  {
-   "lemma": "ekam+eva",
-   "morph": "n.acc.sg",
-   "grounds": "compound adjective"
-  },
-  {
-   "lemma": "vā",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "anyathā",
+   "morph": "(indecl.)",
+   "grounds": "alternative manner"
   }
  ]
 }

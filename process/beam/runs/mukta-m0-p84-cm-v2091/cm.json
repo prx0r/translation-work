@@ -3,9 +3,39 @@
  "verse": 2091,
  "rows": [
   {
-   "lemma": "baṭuka+yoginī+kṣetrapāla+gāṇapa+mūrtaye",
-   "morph": "m.dat.sg",
-   "grounds": "compound dative"
+   "lemma": "svāmya",
+   "morph": "compound-member",
+   "grounds": "compound member with ākhya"
+  },
+  {
+   "lemma": "ākhya",
+   "morph": "compound-member",
+   "grounds": "compound member with raṅga"
+  },
+  {
+   "lemma": "raṅga",
+   "morph": "compound-member",
+   "grounds": "compound member with hīnānām"
+  },
+  {
+   "lemma": "hīnānām",
+   "morph": "f.gen.pl",
+   "grounds": "qualifies śālānām"
+  },
+  {
+   "lemma": "śālānām",
+   "morph": "f.gen.pl",
+   "grounds": "scope of rule"
+  },
+  {
+   "lemma": "netra",
+   "morph": "compound-member",
+   "grounds": "compound member with bhittike"
+  },
+  {
+   "lemma": "bhittike",
+   "morph": "f.loc.sg",
+   "grounds": "location"
   }
  ]
 }

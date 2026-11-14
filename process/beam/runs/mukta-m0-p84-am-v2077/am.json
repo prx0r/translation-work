@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2077,
- "question": "Which kinds of death or injury are named for the corpse?",
+ "question": "What alternative location is permitted for depositing the Brahma deposit?",
  "premises": [
-  "Stick-struck is named",
-  "Spear-struck is named",
-  "Snake-bitten is named"
+  "An alternative procedure is introduced",
+  "The Brahma deposit is the object",
+  "The Brahma place is the location"
  ],
- "inference": "The verse enumerates violent or accidental deaths",
- "uncertainties": [
-  "whether water-dead means drowned"
- ],
- "plain_english": "Stick-struck, spear-struck, snake-bitten, water-dead."
+ "inference": "Alternatively, one should deposit the Brahma deposit in the Brahma place.",
+ "uncertainties": [],
+ "plain_english": "Or else, one should deposit the Brahma deposit in the Brahma place."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2090,
- "question": "To whom should the offering be given with effort?",
+ "question": "On which side of the exit should the action be oriented in shrine and pavilion?",
  "premises": [
-  "Rajarajeshvari is named",
-  "Offering is named",
-  "Giving with effort is commanded"
+  "The shrine and pavilion are included",
+  "The exit is the reference point",
+  "The right side is specified"
  ],
- "inference": "The verse commands offering to Rajarajeshvari",
- "uncertainties": [
-  "exact offering"
- ],
- "plain_english": "Then one should give the offering with effort to Rajarajeshvari."
+ "inference": "In the shrine and pavilion, the orientation is on the right side of the exit.",
+ "uncertainties": [],
+ "plain_english": "In the shrine and in the pavilion, on the right side of the exit."
 }

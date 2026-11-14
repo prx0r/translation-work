@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2084,
- "question": "Where may the rite be performed according to the listed places?",
+ "question": "How does the prescribed placement level differ for priests and kings?",
  "premises": [
-  "Bilva root is named",
-  "Wilderness is named",
-  "Empty house is named"
+  "A placement above the enclosure is for priests",
+  "A placement above the kumuda moulding is for kings",
+  "Different beneficiary groups are distinguished"
  ],
- "inference": "The verse gives possible ritual locations",
+ "inference": "For priests the placement is above the enclosure, and for kings above the kumuda moulding.",
  "uncertainties": [
-  "whether all are alternatives"
+  "vṛte interpreted as enclosure or surrounding moulding"
  ],
- "plain_english": "At bilva root, in wilderness, or in an empty house, on a river bank."
+ "plain_english": "Above the enclosure for priests, and above the kumuda moulding for kings."
 }

@@ -3,34 +3,39 @@
  "verse": 2082,
  "rows": [
   {
-   "lemma": "phalāni",
-   "morph": "n.acc.pl",
-   "grounds": "noun object"
+   "lemma": "pūrvokta",
+   "morph": "compound-member",
+   "grounds": "compound member with karṇa"
   },
   {
-   "lemma": "ca",
+   "lemma": "karṇa",
+   "morph": "compound-member",
+   "grounds": "compound member with pāde"
+  },
+  {
+   "lemma": "pāde",
+   "morph": "m.loc.sg",
+   "grounds": "alternative location"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "introduces alternative"
   },
   {
-   "lemma": "āharet",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative verb"
+   "lemma": "dvāra",
+   "morph": "compound-member",
+   "grounds": "compound member with dakṣiṇa"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "dakṣiṇa",
+   "morph": "compound-member",
+   "grounds": "compound member with yogake"
   },
   {
-   "lemma": "tāmbūla+ādyaiḥ",
-   "morph": "n.inst.pl",
-   "grounds": "compound instrumental"
-  },
-  {
-   "lemma": "samanvitaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "participle"
+   "lemma": "yogake",
+   "morph": "m.loc.sg",
+   "grounds": "alternative location"
   }
  ]
 }

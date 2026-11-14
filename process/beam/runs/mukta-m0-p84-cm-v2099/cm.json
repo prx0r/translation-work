@@ -3,24 +3,39 @@
  "verse": 2099,
  "rows": [
   {
-   "lemma": "malaya+udbhava+sāram",
-   "morph": "n.acc.sg",
-   "grounds": "compound accusative"
+   "lemma": "mūla",
+   "morph": "compound-member",
+   "grounds": "compound member with sthānasya"
+  },
+  {
+   "lemma": "sthānasya",
+   "morph": "n.gen.sg",
+   "grounds": "reference point"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "vidyāyāḥ",
-   "morph": "f.gen.sg",
-   "grounds": "genitive noun"
+   "lemma": "aiśānyām",
+   "morph": "f.loc.sg",
+   "grounds": "directional location"
   },
   {
-   "lemma": "yugma+bhedataḥ",
-   "morph": "m.abl.sg",
-   "grounds": "compound ablative"
+   "lemma": "uttare",
+   "morph": "m.loc.sg",
+   "grounds": "directional location"
+  },
+  {
+   "lemma": "pūrva",
+   "morph": "compound-member",
+   "grounds": "compound member with yāmyayoḥ"
+  },
+  {
+   "lemma": "yāmyayoḥ",
+   "morph": "m.loc.du",
+   "grounds": "directional locations"
   }
  ]
 }

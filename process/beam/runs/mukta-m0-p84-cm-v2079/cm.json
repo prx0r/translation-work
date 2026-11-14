@@ -3,34 +3,39 @@
  "verse": 2079,
  "rows": [
   {
-   "lemma": "pūrvavat",
+   "lemma": "maṇḍita",
+   "morph": "compound-member",
+   "grounds": "compound member with stambha"
+  },
+  {
+   "lemma": "stambha",
+   "morph": "compound-member",
+   "grounds": "compound member with mūle"
+  },
+  {
+   "lemma": "mūle",
+   "morph": "n.loc.sg",
+   "grounds": "location for deposit"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "tilakaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "noun object"
+   "lemma": "garbha",
+   "morph": "m.acc.sg",
+   "grounds": "object to be installed"
   },
   {
-   "lemma": "kṛtvā",
-   "morph": "abs",
-   "grounds": "absolutive"
+   "lemma": "saṃsthāpayet",
+   "morph": "3.sg.opt.act √sthā-caus-sam",
+   "grounds": "prescribes action"
   },
   {
-   "lemma": "bali+dravyāṇi",
-   "morph": "n.acc.pl",
-   "grounds": "compound noun"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "āharet",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative verb"
+   "lemma": "sudhī",
+   "morph": "m.nom.sg",
+   "grounds": "agent performing rite"
   }
  ]
 }

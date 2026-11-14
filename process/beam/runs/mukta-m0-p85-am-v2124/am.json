@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2124,
- "question": "What is the status of the fifteenth chapter?",
+ "question": "Where should the ritual fire pits be arranged relative to the altar?",
  "premises": [
-  "fifteenth chapter is named",
-  "complete is named",
-  "reviewed is named"
+  "The altar is the central reference",
+  "Fire pits are to be arranged around it",
+  "They should be placed in the eight directions"
  ],
- "inference": "chapter is complete and reviewed",
- "uncertainties": [
-  "none"
- ],
- "plain_english": "The fifteenth chapter is complete and reviewed."
+ "inference": "Fire pits should be arranged around the altar in the eight directions.",
+ "uncertainties": [],
+ "plain_english": "Around that altar, one should arrange fire pits in the eight directions."
 }

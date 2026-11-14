@@ -1,0 +1,1035 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2126,
+   "rows": [
+    {
+     "surface": "maṇḍapasya",
+     "gloss": "of-pavilion",
+     "grounds": "genitive relation indicating location relative to pavilion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-northern",
+     "grounds": "locative specifying direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "on-side",
+     "grounds": "locative specifying position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "snāna+śvabhraṃ",
+     "gloss": "bathing-pit",
+     "grounds": "compound object of preparation",
+     "morph": "compound: snāna+śvabhra; n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "injunctive/optative prescribing ritual action",
+     "morph": "3.sg.opt.act; √kḷp"
+    }
+   ],
+   "question": "Where must the bathing pit be prepared in relation to the ritual pavilion?",
+   "premises": [
+    "The pavilion serves as spatial reference.",
+    "The northern side is specified.",
+    "A bathing pit is to be prepared."
+   ],
+   "inference": "The bathing pit must be prepared on the northern side of the pavilion.",
+   "uncertainties": [],
+   "plain_english": "One should prepare a bathing pit on the northern side of the pavilion."
+  },
+  {
+   "verse": 2127,
+   "rows": [
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "first member of locative compound",
+     "morph": "compound-member: jala"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prapāṃ",
+     "gloss": "water-shed",
+     "grounds": "object to be constructed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.opt.act; √kṛ"
+    },
+    {
+     "surface": "sarva+lakṣaṇa+saṃyutām",
+     "gloss": "endowed-with-all-marks",
+     "grounds": "compound adjective qualifying water-shed",
+     "morph": "compound: sarva+lakṣaṇa+saṃyuta; f.acc.sg"
+    }
+   ],
+   "question": "What kind of water-shed should be constructed in the middle of the water?",
+   "premises": [
+    "A location in the middle of water is specified.",
+    "A water-shed is to be made.",
+    "It must possess all proper marks."
+   ],
+   "inference": "A fully marked water-shed should be constructed in the middle of the water.",
+   "uncertainties": [],
+   "plain_english": "In the middle of the water one should make a water-shed endowed with all proper characteristics."
+  },
+  {
+   "verse": 2128,
+   "rows": [
+    {
+     "surface": "śuddha+toyena",
+     "gloss": "with-pure-water",
+     "grounds": "instrumental compound indicating bathing substance",
+     "morph": "compound: śuddha+toya; n.ins.sg"
+    },
+    {
+     "surface": "gandha+ādyaiḥ",
+     "gloss": "with-fragrances-and-others",
+     "grounds": "instrumental compound indicating additional substances",
+     "morph": "compound: gandha+ādi; m.ins.pl"
+    },
+    {
+     "surface": "saṃsnāpya",
+     "gloss": "having-bathed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "abs.; √snā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdā+arcayet",
+     "gloss": "one-should-worship-with-heart-mantra",
+     "grounds": "compound verb phrase prescribing worship with hṛdaya mantra",
+     "morph": "compound: hṛdā+arcayet; 3.sg.opt.act; √ṛc"
+    }
+   ],
+   "question": "How should the object be bathed and worshipped according to the prescribed ritual sequence?",
+   "premises": [
+    "Bathing is performed with pure water.",
+    "Fragrances and other substances are included.",
+    "Worship is to be done with the heart mantra."
+   ],
+   "inference": "After bathing with pure water and fragrances, one should worship with the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "Having bathed it with pure water, fragrances, and other substances, one should worship it with the heart mantra."
+  },
+  {
+   "verse": 2129,
+   "rows": [
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "locative indicating placement medium",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāyayet",
+     "gloss": "one-should-lay",
+     "grounds": "causative optative prescribing placement",
+     "morph": "3.sg.opt.caus.act; √śī"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "object to be laid down",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadyena",
+     "gloss": "with-sadyojata-mantra",
+     "grounds": "instrumental indicating mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuśa+upari",
+     "gloss": "upon-kusha-grass",
+     "grounds": "compound locative phrase indicating support",
+     "morph": "compound: kuśa+upari; (indecl.)"
+    }
+   ],
+   "question": "Where and with which mantra should the linga be laid in the water?",
+   "premises": [
+    "The linga is to be laid in water.",
+    "It must rest upon kuśa grass.",
+    "The Sadyojāta mantra is to be used."
+   ],
+   "inference": "The linga should be laid in water upon kuśa grass using the Sadyojāta mantra.",
+   "uncertainties": [],
+   "plain_english": "One should indeed lay the linga in the water upon kuśa grass, using the Sadyojāta mantra."
+  },
+  {
+   "verse": 2130,
+   "rows": [
+    {
+     "surface": "prabhūta+pañca+gavyena",
+     "gloss": "with-abundant-five-cow-products",
+     "grounds": "instrumental compound indicating bathing substance",
+     "morph": "compound: prabhūta+pañca+gavya; n.ins.sg"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "object/action to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act; sam-ā-√car"
+    }
+   ],
+   "question": "What alternative bathing substance may be used for the ritual bathing?",
+   "premises": [
+    "Bathing is prescribed as a ritual action.",
+    "An alternative is introduced.",
+    "Abundant five cow products may be used."
+   ],
+   "inference": "Alternatively, one may perform the bathing with abundant pañcagavya.",
+   "uncertainties": [],
+   "plain_english": "Or one should perform the bathing with an abundant amount of the five products of the cow."
+  },
+  {
+   "verse": 2131,
+   "rows": [
+    {
+     "surface": "sa+vastrān",
+     "gloss": "with-clothes",
+     "grounds": "compound adjective describing vessels or items",
+     "morph": "compound: sa+vastra; m.acc.pl"
+    },
+    {
+     "surface": "sahiraṇyān",
+     "gloss": "with-gold",
+     "grounds": "compound adjective describing items",
+     "morph": "compound: sa+hiraṇya; m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa+sūtrān",
+     "gloss": "with-threads",
+     "grounds": "compound adjective describing items",
+     "morph": "compound: sa+sūtra; m.acc.pl"
+    },
+    {
+     "surface": "sa+apidhānakān",
+     "gloss": "with-lids",
+     "grounds": "compound adjective describing items",
+     "morph": "compound: sa+apidhānaka; m.acc.pl"
+    }
+   ],
+   "question": "What accompanying items must be included with the ritual objects in this preparation?",
+   "premises": [
+    "Items are to be accompanied by clothes.",
+    "Gold, threads, and lids are also required.",
+    "These attributes qualify the prepared items."
+   ],
+   "inference": "The ritual items must be provided with clothes, gold, threads, and lids.",
+   "uncertainties": [
+    "The exact objects qualified are implied from context rather than named in this verse."
+   ],
+   "plain_english": "They should be accompanied by clothes, gold, threads, and lids."
+  },
+  {
+   "verse": 2132,
+   "rows": [
+    {
+     "surface": "vāstu+homaṃ",
+     "gloss": "vastu-offering",
+     "grounds": "compound object naming the fire ritual",
+     "morph": "compound: vāstu+homa; m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act; √kṛ"
+    },
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "locative indicating possible location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maṇḍape",
+     "gloss": "in-pavilion",
+     "grounds": "locative indicating alternative location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the vāstu fire offering be performed after the preceding rites?",
+   "premises": [
+    "A vāstu fire offering is prescribed.",
+    "It follows the previous actions.",
+    "The temple or pavilion are given as locations."
+   ],
+   "inference": "The vāstu fire offering should then be performed in the temple or in the pavilion.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the vāstu fire offering in the temple or also in the pavilion."
+  },
+  {
+   "verse": 2133,
+   "rows": [
+    {
+     "surface": "jalāt+ānīya",
+     "gloss": "having-brought-from-water",
+     "grounds": "compound absolutive indicating prior action",
+     "morph": "compound: jalāt+ānīya; abs.; ā-√nī"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "object to be moved and placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāna+śvabhra+upari",
+     "gloss": "upon-bathing-pit",
+     "grounds": "compound locative phrase indicating placement",
+     "morph": "compound: snāna+śvabhra+upari; (indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act; ni-√as"
+    }
+   ],
+   "question": "Where should the linga be placed after being brought out from the water?",
+   "premises": [
+    "The linga is brought from the water.",
+    "A specific placement location is required.",
+    "The bathing pit is designated as that location."
+   ],
+   "inference": "After bringing the linga from the water, one should place it upon the bathing pit.",
+   "uncertainties": [],
+   "plain_english": "Having brought the linga from the water, one should place it upon the bathing pit."
+  },
+  {
+   "verse": 2134,
+   "rows": [
+    {
+     "surface": "kautukaṃ",
+     "gloss": "protective-thread",
+     "grounds": "ritual object to be tied",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bandhayet",
+     "gloss": "one-should-bind",
+     "grounds": "causative optative prescribing ritual action",
+     "morph": "3.sg.opt.caus.act; √bandh"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "qualified agent performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental indicating mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "by-mantra",
+     "grounds": "adverbial expression indicating mantra mode",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who should bind the protective thread and by what mantra means?",
+   "premises": [
+    "A protective thread is to be bound.",
+    "The agent is described as wise.",
+    "The heart mantra is specified as the means."
+   ],
+   "inference": "The wise practitioner should bind the protective thread using the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "The wise one should bind the protective thread with the heart mantra."
+  },
+  {
+   "verse": 2135,
+   "rows": [
+    {
+     "surface": "śālibhiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "instrumental indicating material for construction",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vedikā+madhye",
+     "gloss": "in-middle-of-altar",
+     "grounds": "compound locative indicating placement",
+     "morph": "compound: vedikā+madhya; n.loc.sg"
+    },
+    {
+     "surface": "aṣṭa+droṇa+ardha+nirmitaiḥ",
+     "gloss": "made-from-four-dronas",
+     "grounds": "compound adjective qualifying rice grains by measure",
+     "morph": "compound: aṣṭa+droṇa+ardha+nirmita; m.ins.pl"
+    }
+   ],
+   "question": "What material and quantity should be used in the middle of the altar for the next preparation?",
+   "premises": [
+    "The middle of the altar is the location.",
+    "Rice grains are the material.",
+    "The quantity is half of eight droṇas."
+   ],
+   "inference": "Rice grains made from four droṇas should be used in the middle of the altar.",
+   "uncertainties": [],
+   "plain_english": "In the middle of the altar, use rice grains made from four droṇas."
+  },
+  {
+   "verse": 2136,
+   "rows": [
+    {
+     "surface": "śayanaṃ",
+     "gloss": "bed",
+     "grounds": "object to be arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing arrangement",
+     "morph": "3.sg.opt.act; √kḷp"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "carma+jādyaiḥ",
+     "gloss": "with-hide-and-others",
+     "grounds": "instrumental compound indicating materials in sequence",
+     "morph": "compound: carma+jādi; n.ins.pl"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-sequence",
+     "grounds": "ablative/adverbial indicating order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the ritual bed be arranged in the middle of the prepared space?",
+   "premises": [
+    "A bed is to be arranged in the middle.",
+    "Hide and other materials are used.",
+    "The arrangement must follow proper sequence."
+   ],
+   "inference": "A bed should be arranged in the middle using hide and other materials in proper sequence.",
+   "uncertainties": [
+    "The full list of materials implied by 'and others' is not specified here."
+   ],
+   "plain_english": "One should arrange a bed in the middle, using hide and other materials in due order."
+  },
+  {
+   "verse": 2137,
+   "rows": [
+    {
+     "surface": "sarva+lakṣaṇa+saṃyuktaḥ",
+     "gloss": "endowed-with-all-marks",
+     "grounds": "compound adjective qualifying the officiant",
+     "morph": "compound: sarva+lakṣaṇa+saṃyukta; m.nom.sg"
+    },
+    {
+     "surface": "tvādi+śaivaḥ",
+     "gloss": "tvadi-shaiva",
+     "grounds": "compound noun naming the officiant type",
+     "morph": "compound: tvādi+śaiva; m.nom.sg"
+    },
+    {
+     "surface": "sa+śiṣyakaḥ",
+     "gloss": "with-disciples",
+     "grounds": "compound adjective indicating accompaniment",
+     "morph": "compound: sa+śiṣyaka; m.nom.sg"
+    }
+   ],
+   "question": "What qualifications must the officiating Śaiva possess for this ritual stage?",
+   "premises": [
+    "The officiant is a Tvādi Śaiva.",
+    "He must be endowed with all proper marks.",
+    "He should be accompanied by disciples."
+   ],
+   "inference": "The officiant must be a fully qualified Tvādi Śaiva accompanied by disciples.",
+   "uncertainties": [
+    "The specific identity or subcategory of 'tvādi+śaivaḥ' is not fully explicit."
+   ],
+   "plain_english": "The officiant should be a Tvādi Śaiva endowed with all proper marks and accompanied by disciples."
+  },
+  {
+   "verse": 2138,
+   "rows": [
+    {
+     "surface": "śukla+vastraḥ",
+     "gloss": "wearing-white-clothes",
+     "grounds": "compound adjective describing attire",
+     "morph": "compound: śukla+vastra; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa+uṣṇīṣaḥ",
+     "gloss": "with-turban",
+     "grounds": "compound adjective describing headgear",
+     "morph": "compound: sa+uṣṇīṣa; m.nom.sg"
+    },
+    {
+     "surface": "śukla+vastra+uttarīyakaḥ",
+     "gloss": "with-white-upper-garment",
+     "grounds": "compound adjective describing upper garment",
+     "morph": "compound: śukla+vastra+uttarīyaka; m.nom.sg"
+    }
+   ],
+   "question": "What ritual attire is required of the officiant during this procedure?",
+   "premises": [
+    "White clothes are prescribed.",
+    "A turban is required.",
+    "A white upper garment is also required."
+   ],
+   "inference": "The officiant must wear white clothes, a turban, and a white upper garment.",
+   "uncertainties": [],
+   "plain_english": "He should wear white clothes, a turban, and a white upper garment."
+  },
+  {
+   "verse": 2139,
+   "rows": [
+    {
+     "surface": "īdṛśaiḥ+lakṣaṇaiḥ",
+     "gloss": "with-such-marks",
+     "grounds": "compound instrumental phrase indicating qualifications",
+     "morph": "compound: īdṛśa+lakṣaṇa; n.ins.pl"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "endowed",
+     "grounds": "adjective indicating possession of qualities",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvācāryaḥ",
+     "gloss": "the-teacher",
+     "grounds": "noun naming the officiating teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttara+ānanaḥ",
+     "gloss": "facing-north",
+     "grounds": "compound adjective indicating orientation",
+     "morph": "compound: uttara+ānana; m.nom.sg"
+    }
+   ],
+   "question": "How must the teacher be qualified and oriented while performing the rite?",
+   "premises": [
+    "The teacher must possess the stated marks.",
+    "His orientation is specified.",
+    "He must face north."
+   ],
+   "inference": "The teacher, endowed with such marks, must face north.",
+   "uncertainties": [
+    "The form 'tvācāryaḥ' may reflect a textual or sandhi variant of 'ācāryaḥ'."
+   ],
+   "plain_english": "The teacher, endowed with such marks, should face north."
+  },
+  {
+   "verse": 2140,
+   "rows": [
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior worship",
+     "morph": "abs.; abhi-√ṛc"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental indicating mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandha+ādyaiḥ",
+     "gloss": "with-fragrances-and-others",
+     "grounds": "instrumental compound indicating offerings",
+     "morph": "compound: gandha+ādi; m.ins.pl"
+    },
+    {
+     "surface": "upacārakaiḥ",
+     "gloss": "with-offerings",
+     "grounds": "instrumental noun specifying ritual services",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "With what mantra and offerings should the worship be performed at this stage?",
+   "premises": [
+    "Worship is to be performed.",
+    "The heart mantra is specified.",
+    "Fragrances and other offerings are used."
+   ],
+   "inference": "One should worship with the heart mantra using fragrances and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with the heart mantra, using fragrances and other offerings, one should proceed."
+  },
+  {
+   "verse": 2141,
+   "rows": [
+    {
+     "surface": "pañca+ratna+samāyuktaṃ",
+     "gloss": "endowed-with-five-gems",
+     "grounds": "compound adjective qualifying the vessel",
+     "morph": "compound: pañca+ratna+samāyukta; f.acc.sg"
+    },
+    {
+     "surface": "sa+apidhānaṃ",
+     "gloss": "with-lid",
+     "grounds": "compound adjective qualifying the vessel",
+     "morph": "compound: sa+apidhāna; f.acc.sg"
+    },
+    {
+     "surface": "sa+vastrakam",
+     "gloss": "with-cloth",
+     "grounds": "compound adjective qualifying the vessel",
+     "morph": "compound: sa+vastraka; f.acc.sg"
+    }
+   ],
+   "question": "What attributes must the ritual vessel possess before being placed?",
+   "premises": [
+    "The vessel must contain five gems.",
+    "It must have a lid.",
+    "It must be accompanied by cloth."
+   ],
+   "inference": "The vessel must be endowed with five gems, a lid, and cloth.",
+   "uncertainties": [
+    "The vessel itself is named in the following verse."
+   ],
+   "plain_english": "It should be endowed with the five gems, provided with a lid, and accompanied by cloth."
+  },
+  {
+   "verse": 2142,
+   "rows": [
+    {
+     "surface": "vardhanīṃ",
+     "gloss": "vardhani-vessel",
+     "grounds": "object to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāmataḥ",
+     "gloss": "on-left-side",
+     "grounds": "adverb indicating placement direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "abs.; √sthā"
+    },
+    {
+     "surface": "sūtra+kādi+bhiḥ+anvitām",
+     "gloss": "endowed-with-thread-and-others",
+     "grounds": "compound adjective qualifying the vessel",
+     "morph": "compound: sūtra+kādi+anvita; f.acc.sg"
+    }
+   ],
+   "question": "Where and in what condition should the vardhanī vessel be placed?",
+   "premises": [
+    "The vardhanī vessel is to be placed.",
+    "Its position is on the left side.",
+    "It must be endowed with thread and other items."
+   ],
+   "inference": "The vardhanī vessel, endowed with thread and other items, should be placed on the left side.",
+   "uncertainties": [
+    "The exact referent of 'kādi' is not specified."
+   ],
+   "plain_english": "Having placed the vardhanī vessel on the left side, endowed with thread and other items, one should proceed."
+  },
+  {
+   "verse": 2143,
+   "rows": [
+    {
+     "surface": "aṣṭa+triṃśat+kala+upetaṃ",
+     "gloss": "endowed-with-thirty-eight-kalas",
+     "grounds": "compound adjective qualifying the object of worship",
+     "morph": "compound: aṣṭa+triṃśat+kala+upeta; m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.opt.act; √pūj"
+    },
+    {
+     "surface": "mūla+mantrataḥ",
+     "gloss": "with-root-mantra",
+     "grounds": "compound adverbial expression indicating mantra used",
+     "morph": "compound: mūla+mantra; (indecl.)"
+    }
+   ],
+   "question": "How should the entity endowed with thirty-eight kalās be worshipped?",
+   "premises": [
+    "The object of worship possesses thirty-eight kalās.",
+    "Worship is prescribed.",
+    "The root mantra is the means of worship."
+   ],
+   "inference": "One should worship that which is endowed with thirty-eight kalās using the root mantra.",
+   "uncertainties": [
+    "The specific entity endowed with thirty-eight kalās is implied from context."
+   ],
+   "plain_english": "One should worship it, endowed with the thirty-eight kalās, with the root mantra."
+  },
+  {
+   "verse": 2144,
+   "rows": [
+    {
+     "surface": "mukulīṃ",
+     "gloss": "mukuli-mudra",
+     "grounds": "first mudra to be displayed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "padma+mudrāṃ",
+     "gloss": "lotus-mudra",
+     "grounds": "compound naming second mudra",
+     "morph": "compound: padma+mudrā; f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅga+mudrāṃ",
+     "gloss": "linga-mudra",
+     "grounds": "compound naming third mudra",
+     "morph": "compound: liṅga+mudrā; f.acc.sg"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "one-should-display",
+     "grounds": "causative optative prescribing ritual gesture",
+     "morph": "3.sg.opt.caus.act; pra-√dṛś"
+    }
+   ],
+   "question": "Which ritual hand gestures must be displayed during this worship sequence?",
+   "premises": [
+    "Ritual gestures are to be displayed.",
+    "Mukulī, padma, and liṅga mudrās are named.",
+    "All three are included in the instruction."
+   ],
+   "inference": "One should display the mukulī, lotus, and liṅga mudrās.",
+   "uncertainties": [],
+   "plain_english": "One should display the mukulī mudrā, the lotus mudrā, and the liṅga mudrā."
+  },
+  {
+   "verse": 2145,
+   "rows": [
+    {
+     "surface": "sūtra+ādibhiḥ",
+     "gloss": "with-threads-and-others",
+     "grounds": "instrumental compound indicating accompanying items",
+     "morph": "compound: sūtra+ādi; n.ins.pl"
+    },
+    {
+     "surface": "samopetān",
+     "gloss": "fully-endowed",
+     "grounds": "adjective qualifying the objects",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "hema+ṭaṅka+samāyutān",
+     "gloss": "joined-with-gold-coins",
+     "grounds": "compound adjective qualifying the objects",
+     "morph": "compound: hema+ṭaṅka+samāyuta; m.acc.pl"
+    }
+   ],
+   "question": "What additional items must accompany the objects prepared in this ritual step?",
+   "premises": [
+    "The objects must be fully endowed.",
+    "Threads and other items are included.",
+    "Gold coins are also included."
+   ],
+   "inference": "The objects must be accompanied by threads and other items together with gold coins.",
+   "uncertainties": [
+    "The specific objects qualified are implied from surrounding verses."
+   ],
+   "plain_english": "They should be fully endowed with threads and other items and joined with gold coins."
+  },
+  {
+   "verse": 2146,
+   "rows": [
+    {
+     "surface": "ananta+ādi+śikhaṇḍi+antān",
+     "gloss": "from-ananta-to-shikhandin",
+     "grounds": "compound adjective indicating range of deities",
+     "morph": "compound: ananta+ādi+śikhaṇḍi+anta; m.acc.pl"
+    },
+    {
+     "surface": "sva+sva+mantraiḥ",
+     "gloss": "with-their-own-mantras",
+     "grounds": "instrumental compound indicating mantra assignment",
+     "morph": "compound: sva+sva+mantra; m.ins.pl"
+    },
+    {
+     "surface": "ghaṭeṣu",
+     "gloss": "in-pots",
+     "grounds": "locative indicating placement",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the deities from Ananta to Śikhaṇḍin be invoked in the pots?",
+   "premises": [
+    "A range of deities from Ananta to Śikhaṇḍin is specified.",
+    "Pots are the loci of placement.",
+    "Each is to be addressed with its own mantra."
+   ],
+   "inference": "The deities from Ananta to Śikhaṇḍin should be invoked in the pots with their respective mantras.",
+   "uncertainties": [],
+   "plain_english": "In the pots, invoke the deities from Ananta to Śikhaṇḍin with their respective mantras."
+  },
+  {
+   "verse": 2147,
+   "rows": [
+    {
+     "surface": "parivāra+ghaṭān+aṣṭau",
+     "gloss": "eight-attendant-pots",
+     "grounds": "compound object naming the pots to be placed",
+     "morph": "compound: parivāra+ghaṭa+aṣṭan; m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upavedi+upari",
+     "gloss": "upon-upavedi",
+     "grounds": "compound locative phrase indicating placement",
+     "morph": "compound: upavedi+upari; (indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act; ni-√as"
+    }
+   ],
+   "question": "Where should the eight attendant pots be placed in the ritual arrangement?",
+   "premises": [
+    "Eight attendant pots are specified.",
+    "A placement action is prescribed.",
+    "The location is upon the upavedi."
+   ],
+   "inference": "The eight attendant pots should be placed upon the upavedi.",
+   "uncertainties": [],
+   "plain_english": "One should place the eight attendant pots upon the upavedi."
+  },
+  {
+   "verse": 2148,
+   "rows": [
+    {
+     "surface": "eko",
+     "gloss": "one",
+     "grounds": "numeral indicating a single reciter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+vedān",
+     "gloss": "all-vedas",
+     "grounds": "compound object of recitation",
+     "morph": "compound: sarva+veda; m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "optative prescribing recitation",
+     "morph": "3.sg.opt.act; √paṭh"
+    },
+    {
+     "surface": "sva+sva+diśi",
+     "gloss": "in-own-direction",
+     "grounds": "compound locative indicating position",
+     "morph": "compound: sva+sva+diś; f.loc.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "past participle describing posture",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How may the recitation of all Vedas be arranged during the ritual?",
+   "premises": [
+    "Recitation of all Vedas is prescribed.",
+    "A single reciter is allowed as an option.",
+    "The reciter stands in the proper direction."
+   ],
+   "inference": "Alternatively, one person may recite all the Vedas while standing in the appropriate direction.",
+   "uncertainties": [],
+   "plain_english": "Or one person may recite all the Vedas while standing in his own direction."
+  },
+  {
+   "verse": 2149,
+   "rows": [
+    {
+     "surface": "sadyojātaḥ",
+     "gloss": "sadyojata",
+     "grounds": "name of a mantra/form identified with a Veda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛgvedaḥ",
+     "gloss": "rigveda",
+     "grounds": "Veda identified with Sadyojāta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāmadevaḥ",
+     "gloss": "vamadeva",
+     "grounds": "name of a mantra/form identified with a Veda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajuḥ",
+     "gloss": "yajurveda",
+     "grounds": "Veda identified with Vāmadeva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle indicating traditional identification",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which Vedas are traditionally identified with Sadyojāta and Vāmadeva in this ritual mapping?",
+   "premises": [
+    "Sadyojāta is identified with a Veda.",
+    "Vāmadeva is identified with another Veda.",
+    "The identifications are given as traditional."
+   ],
+   "inference": "Sadyojāta is remembered as the Ṛgveda and Vāmadeva as the Yajurveda.",
+   "uncertainties": [],
+   "plain_english": "Sadyojāta is remembered as the Ṛgveda, and Vāmadeva as the Yajurveda."
+  }
+ ]
+}

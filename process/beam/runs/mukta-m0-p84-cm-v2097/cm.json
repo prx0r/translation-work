@@ -3,34 +3,44 @@
  "verse": 2097,
  "rows": [
   {
-   "lemma": "guggulaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "noun accusative"
+   "lemma": "bāla",
+   "morph": "compound-member",
+   "grounds": "compound member with sthāna"
   },
   {
-   "lemma": "loha+bāṇaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound nominative"
+   "lemma": "sthāna",
+   "morph": "compound-member",
+   "grounds": "compound member with vinā"
   },
   {
-   "lemma": "ca",
+   "lemma": "vinā",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "exclusion"
   },
   {
-   "lemma": "rālaḥ",
+   "lemma": "vidvān",
    "morph": "m.nom.sg",
-   "grounds": "noun nominative"
+   "grounds": "agent"
   },
   {
-   "lemma": "ca",
+   "lemma": "mūla",
+   "morph": "compound-member",
+   "grounds": "compound member with sthāna"
+  },
+  {
+   "lemma": "sthāna",
+   "morph": "n.acc.sg",
+   "grounds": "object of making"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "negation"
   },
   {
-   "lemma": "devadārukaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "noun nominative"
+   "lemma": "kārayet",
+   "morph": "3.sg.opt.act √kṛ-caus",
+   "grounds": "prohibits action"
   }
  ]
 }

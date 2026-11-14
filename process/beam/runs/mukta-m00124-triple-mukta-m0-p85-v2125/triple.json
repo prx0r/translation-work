@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "īśānaśakrayoḥ",
+     "gloss": "of-īśāna-and-indra",
+     "grounds": "dvandva compound in genitive dual naming the northeast and east directions",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "locative form indicating the position between the two named directions",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pradhānaṃ",
+     "gloss": "principal",
+     "grounds": "qualifies the fire-pit as the main one",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttakuṇḍakam",
+     "gloss": "round-fire-pit",
+     "grounds": "compound of vṛtta and kuṇḍaka denoting a circular fire-pit",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "Which fire-pit holds the principal position between Īśāna and Indra among the directional fire-pits?",
+   "premises": [
+    "Fire-pits are arranged around the platform in the eight directions.",
+    "The space between Īśāna and Indra is a specified location.",
+    "A round fire-pit is designated as principal in that location."
+   ],
+   "inference": "The principal fire-pit among the directional arrangements is the round one placed between Īśāna and Indra.",
+   "uncertainties": [
+    "The exact directional identification of śakra as east is assumed from standard convention."
+   ],
+   "plain_english": "Between Īśāna and Indra, one should place the principal round fire-pit."
+  }
+ ]
+}

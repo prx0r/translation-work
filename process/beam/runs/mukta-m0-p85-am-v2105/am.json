@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2105,
- "question": "Where does the reverse-born sequence begin among the remaining cells?",
+ "question": "What starting measure and increment govern the linga’s size progression?",
  "premises": [
-  "remaining cells are named",
-  "middle-lower cell is starting point",
-  "reverse-born are produced"
+  "The sequence begins at nine aṅgulas",
+  "The increase proceeds stepwise",
+  "Each step adds two aṅgulas"
  ],
- "inference": "sequence begins there",
+ "inference": "Linga sizes should begin at nine aṅgulas and increase by two aṅgulas at each step.",
  "uncertainties": [
-  "exact cell order"
+  "The upper limit of the progression is not stated here"
  ],
- "plain_english": "Beginning from the middle-lower cell among the remaining, produce the reverse-born."
+ "plain_english": "Beginning from nine aṅgulas, the size increases by two aṅgulas at a time."
 }

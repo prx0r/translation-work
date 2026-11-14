@@ -3,29 +3,44 @@
  "verse": 2094,
  "rows": [
   {
-   "lemma": "vīraṃ",
-   "morph": "m.acc.sg",
-   "grounds": "noun accusative"
+   "lemma": "vāstu",
+   "morph": "compound-member",
+   "grounds": "compound member with pūjā"
   },
   {
-   "lemma": "saṃkṣālya",
-   "morph": "abs",
-   "grounds": "absolutive"
+   "lemma": "pūjā",
+   "morph": "f.nom.sg",
+   "grounds": "ritual element"
   },
   {
-   "lemma": "yatnena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental noun"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "kāreṇena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental noun"
+   "lemma": "homa",
+   "morph": "m.nom.sg",
+   "grounds": "ritual element"
   },
   {
-   "lemma": "sureśvari",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "garbha",
+   "morph": "compound-member",
+   "grounds": "compound member with nyāse"
+  },
+  {
+   "lemma": "nyāse",
+   "morph": "m.loc.sg",
+   "grounds": "ritual context"
+  },
+  {
+   "lemma": "vidhīyate",
+   "morph": "3.sg.pres.pass √dhā-vi",
+   "grounds": "states rule"
   }
  ]
 }

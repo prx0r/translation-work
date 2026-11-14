@@ -3,24 +3,44 @@
  "verse": 2092,
  "rows": [
   {
-   "lemma": "bali+dāne",
+   "lemma": "athavā",
+   "morph": "(indecl.)",
+   "grounds": "introduces alternative"
+  },
+  {
+   "lemma": "madhya",
+   "morph": "compound-member",
+   "grounds": "compound member with bhittau"
+  },
+  {
+   "lemma": "bhittau",
+   "morph": "f.loc.sg",
+   "grounds": "alternative location"
+  },
+  {
+   "lemma": "syāt",
+   "morph": "3.sg.opt.act √as",
+   "grounds": "states possibility"
+  },
+  {
+   "lemma": "dvāra",
+   "morph": "compound-member",
+   "grounds": "compound member with savye"
+  },
+  {
+   "lemma": "savye",
    "morph": "n.loc.sg",
-   "grounds": "compound locative"
+   "grounds": "alternative location"
   },
   {
-   "lemma": "samabhyarcya",
-   "morph": "abs",
-   "grounds": "absolutive"
+   "lemma": "atha",
+   "morph": "(indecl.)",
+   "grounds": "introduces further alternative"
   },
   {
-   "lemma": "vīra+sādhanam",
-   "morph": "n.acc.sg",
-   "grounds": "compound accusative"
-  },
-  {
-   "lemma": "ācaret",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative verb"
+   "lemma": "madhyame",
+   "morph": "n.loc.sg",
+   "grounds": "alternative location"
   }
  ]
 }

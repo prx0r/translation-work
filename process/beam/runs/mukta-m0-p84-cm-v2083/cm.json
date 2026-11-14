@@ -3,24 +3,44 @@
  "verse": 2083,
  "rows": [
   {
-   "lemma": "kastūrī+kuṅkuma+ādīni",
-   "morph": "n.acc.pl",
-   "grounds": "compound noun"
+   "lemma": "pāda",
+   "morph": "compound-member",
+   "grounds": "compound member with bandha"
   },
   {
-   "lemma": "bhakṣya+dravyāṇi",
-   "morph": "n.acc.pl",
-   "grounds": "compound noun"
+   "lemma": "bandha",
+   "morph": "compound-member",
+   "grounds": "compound member with vimāne"
   },
   {
-   "lemma": "yāni",
-   "morph": "n.acc.pl",
-   "grounds": "relative pronoun"
+   "lemma": "vimāne",
+   "morph": "m.loc.sg",
+   "grounds": "structural context"
   },
   {
-   "lemma": "ca",
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "geha",
+   "morph": "compound-member",
+   "grounds": "compound member with garbha"
+  },
+  {
+   "lemma": "garbha",
+   "morph": "m.acc.sg",
+   "grounds": "object to be placed"
+  },
+  {
+   "lemma": "upari",
+   "morph": "(indecl.)",
+   "grounds": "specifies position"
+  },
+  {
+   "lemma": "nyaset",
+   "morph": "3.sg.opt.act √nyas",
+   "grounds": "prescribes action"
   }
  ]
 }
