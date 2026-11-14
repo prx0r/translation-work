@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p145",
  "verse": 3605,
- "question": "What concluding rites should be performed after the purification procedures are completed?",
+ "question": "What conduct is required toward those acting erratically in the ritual circle?",
  "premises": [
-  "A Śaiva communal feast is prescribed.",
-  "Water sprinkling is prescribed at the end.",
-  "Both actions complete the rite."
+  "Participants may behave unpredictably in the circle",
+  "Ritual conduct must avoid causing harm",
+  "Proper practice is enjoined"
  ],
- "inference": "At the end one should conduct a Śaiva communal feast and perform water sprinkling.",
- "uncertainties": [],
- "plain_english": "At the end, one should hold a Śaiva communal feast and carry out sprinkling with water."
+ "inference": "One should do no harm and should act with proper conduct.",
+ "uncertainties": [
+  "Implicit object of conduct may be the intoxicated participants"
+ ],
+ "plain_english": "One should do no harm and should act properly."
 }

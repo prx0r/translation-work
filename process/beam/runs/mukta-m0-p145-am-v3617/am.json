@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p145",
  "verse": 3617,
- "question": "Which garments or ritual items are listed as relevant in this context?",
+ "question": "When does the previously described ritual action become fruitless?",
  "premises": [
-  "A turban is mentioned.",
-  "An upper garment or other garment is mentioned.",
-  "A sacrificial thread is mentioned."
+  "The ritual action has a valid period",
+  "Delay beyond that period is possible",
+  "Timeliness affects efficacy"
  ],
- "inference": "The turban, upper garment or garment, and sacrificial thread are the items named.",
+ "inference": "It is declared fruitless if performed after a month.",
  "uncertainties": [
-  "The syntactic role is elliptical; the list likely specifies affected or prescribed items."
+  "The subject is implicit, likely the offering or rite mentioned before"
  ],
- "plain_english": "A turban, an upper garment or other garment, and the sacrificial thread are mentioned."
+ "plain_english": "But it is declared fruitless after a month."
 }

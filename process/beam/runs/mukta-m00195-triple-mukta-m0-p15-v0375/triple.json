@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "directional adverb indicating exterior location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund (ā-nī)"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-fix",
+     "grounds": "prescriptive ritual action of embedding or planting",
+     "morph": "3.sg.optative.active (ni-khan)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the previously indicated place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīlakān",
+     "gloss": "pegs",
+     "grounds": "ritual objects to be fixed in place",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What ritual action must be performed with pegs brought to the outside location?",
+   "premises": [
+    "The pegs are to be brought outside.",
+    "The action prescribed is fixing or embedding them.",
+    "This fixing is to be done in that specified place."
+   ],
+   "inference": "Therefore, after bringing the pegs outside, one should fix them there.",
+   "uncertainties": [
+    "The exact referent of tatra depends on the preceding directional instructions."
+   ],
+   "plain_english": "Having brought them outside, one should fix the pegs there."
+  }
+ ]
+}

@@ -1,0 +1,493 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3688,
+   "rows": [
+    {
+     "surface": "kula+dravya+sevanāt",
+     "gloss": "by-kula-substance-use",
+     "grounds": "ablative compound indicating cause; use of kula substances",
+     "morph": "compound abl.sg.n"
+    },
+    {
+     "surface": "nirdhanaḥ",
+     "gloss": "impoverished",
+     "grounds": "resulting state of lacking wealth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-would-become",
+     "grounds": "potential or prescriptive result",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What consequence follows from using the kula substance improperly?",
+   "premises": [
+    "Using the kula substance is the stated cause",
+    "Impoverishment is the stated result",
+    "The result is expressed as a potential outcome"
+   ],
+   "inference": "Improper use of the kula substance leads to impoverishment.",
+   "uncertainties": [],
+   "plain_english": "By using the kula substance, one would become impoverished."
+  },
+  {
+   "verse": 3689,
+   "rows": [
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "directional term indicating higher than",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galena",
+     "gloss": "throat",
+     "grounds": "bodily reference point for the action",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pānāt",
+     "gloss": "by-drinking",
+     "grounds": "ablative of cause from drinking",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā+śāpam",
+     "gloss": "deity-curse",
+     "grounds": "compound object indicating a curse from a deity",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-would-obtain",
+     "grounds": "potential result of the action",
+     "morph": "3.sg.optative-act √āp"
+    }
+   ],
+   "question": "What penalty arises from drinking above the level of the throat?",
+   "premises": [
+    "Drinking above the throat is the stated action",
+    "A deity's curse is the stated consequence",
+    "The consequence is expressed as a potential outcome"
+   ],
+   "inference": "Drinking above the throat results in obtaining a deity's curse.",
+   "uncertainties": [],
+   "plain_english": "And by drinking above the throat, one would incur the curse of a deity."
+  },
+  {
+   "verse": 3690,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to offenders",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "correlative pronoun identifying those offenders",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "present statement of their destination",
+     "morph": "3.pl.present-act √yā"
+    },
+    {
+     "surface": "nirayaṃ",
+     "gloss": "to-hell",
+     "grounds": "destination of punishment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphasizes certainty of the outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fate is certain for those who commit the described transgressions?",
+   "premises": [
+    "The verse refers to those who transgress",
+    "Their destination is stated as hell",
+    "The outcome is declared certain"
+   ],
+   "inference": "Those who commit such transgressions certainly go to hell.",
+   "uncertainties": [],
+   "plain_english": "Those who do so certainly go to hell."
+  },
+  {
+   "verse": 3691,
+   "rows": [
+    {
+     "surface": "sva+jyeṣṭhe",
+     "gloss": "one's-own-elder",
+     "grounds": "compound referring to one's own senior",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "kula+deśike",
+     "gloss": "kula-teacher",
+     "grounds": "compound referring to the kula preceptor",
+     "morph": "compound m.loc.sg"
+    }
+   ],
+   "question": "Which revered figures are specified as the objects of the prescribed conduct?",
+   "premises": [
+    "One's own elder is specified",
+    "The kula teacher is specified",
+    "Both are presented as objects of regard"
+   ],
+   "inference": "The prescribed conduct concerns one's own elder and the kula teacher.",
+   "uncertainties": [
+    "This verse is syntactically incomplete and depends on the following verse."
+   ],
+   "plain_english": "Toward one's own elder and the kula teacher..."
+  },
+  {
+   "verse": 3692,
+   "rows": [
+    {
+     "surface": "spaśet",
+     "gloss": "one-should-touch",
+     "grounds": "prescriptive action directed toward sacred objects or persons",
+     "morph": "3.sg.optative-act √spṛś"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "ritual circle as object of contact",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kula+dravyaṃ",
+     "gloss": "kula-substance",
+     "grounds": "ritual substance as object of contact",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the prescription to another object",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "guru",
+     "grounds": "teacher as object of reverential contact",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual objects and persons must one touch in the prescribed manner?",
+   "premises": [
+    "Touching is prescribed as the action",
+    "The circle and kula substance are named as objects",
+    "The guru is likewise named as an object"
+   ],
+   "inference": "One should touch the circle, the kula substance, and likewise the guru.",
+   "uncertainties": [
+    "The exact manner of touching is not specified in this verse."
+   ],
+   "plain_english": "One should touch the circle, the kula substance, and likewise the guru."
+  },
+  {
+   "verse": 3693,
+   "rows": [
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-lifted-up",
+     "grounds": "prior action of raising the vessel",
+     "morph": "(gerund) sam-ud-√hṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following prescribed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "ritual vessel as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paripūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prohibited ritual action in this context",
+     "morph": "3.sg.optative-act pari-√pūj"
+    }
+   ],
+   "question": "What ritual action is forbidden after lifting up the vessel?",
+   "premises": [
+    "Lifting up the vessel is the prior action",
+    "Worship of the vessel is mentioned",
+    "The action is explicitly negated"
+   ],
+   "inference": "One should not worship the vessel after lifting it up.",
+   "uncertainties": [],
+   "plain_english": "Having lifted up the vessel, one should not worship it."
+  },
+  {
+   "verse": 3694,
+   "rows": [
+    {
+     "surface": "śuci+dhiyā",
+     "gloss": "with-pure-mind",
+     "grounds": "compound indicating the mental attitude",
+     "morph": "compound f.inst.sg"
+    },
+    {
+     "surface": "kara+āsya+kṣālana+ādikam",
+     "gloss": "hand-mouth-washing-etc",
+     "grounds": "compound listing cleansing acts and similar actions",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "With what mental attitude should cleansing acts like washing hands and mouth be performed?",
+   "premises": [
+    "A pure-minded attitude is specified",
+    "Washing of hands and mouth is mentioned",
+    "Similar acts are included by the suffix"
+   ],
+   "inference": "Cleansing acts such as washing hands and mouth should be done with a pure mind.",
+   "uncertainties": [
+    "The governing verb is not explicit in this verse and may be supplied from context."
+   ],
+   "plain_english": "With a pure mind, one should perform washing of the hands and mouth and so forth."
+  },
+  {
+   "verse": 3695,
+   "rows": [
+    {
+     "surface": "malaṃ",
+     "gloss": "impurity",
+     "grounds": "bodily waste or impurity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūtram",
+     "gloss": "urine",
+     "grounds": "specific bodily excretion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhaḥ+vāyu+visarjanam",
+     "gloss": "downward-wind-release",
+     "grounds": "compound referring to passing wind downward",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "Which bodily impurities and emissions are listed as matters requiring regulation?",
+   "premises": [
+    "Impurity is named",
+    "Urine is named",
+    "Release of downward wind is named"
+   ],
+   "inference": "The verse lists impurity, urine, and the release of downward wind as regulated matters.",
+   "uncertainties": [
+    "The specific prohibition or rule governing these items is supplied by surrounding context."
+   ],
+   "plain_english": "Impurity, urine, and the release of downward wind."
+  },
+  {
+   "verse": 3696,
+   "rows": [
+    {
+     "surface": "ghaṭe",
+     "gloss": "when-pot",
+     "grounds": "locative indicating the condition of a pot",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhinne",
+     "gloss": "broken",
+     "grounds": "condition of being broken",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "vessel",
+     "grounds": "locative indicating the ritual vessel",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "skhalite",
+     "gloss": "slipped",
+     "grounds": "condition of having slipped or stumbled",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the condition to similar cases",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accidental ritual mishaps are identified as significant conditions?",
+   "premises": [
+    "A pot being broken is mentioned",
+    "A vessel slipping is mentioned as an alternative",
+    "Similar cases are included"
+   ],
+   "inference": "The breaking of a pot or the slipping of a vessel are identified as significant mishaps.",
+   "uncertainties": [
+    "The required response to these mishaps is not stated in this verse."
+   ],
+   "plain_english": "When the pot is broken, or when the vessel has slipped, and likewise in such cases."
+  },
+  {
+   "verse": 3697,
+   "rows": [
+    {
+     "surface": "pralāpaṃ",
+     "gloss": "prattle",
+     "grounds": "idle or incoherent talk",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viḍambam",
+     "gloss": "mockery",
+     "grounds": "derisive or mocking behavior",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bahu+bhāṣaṇam",
+     "gloss": "much-talking",
+     "grounds": "compound indicating excessive speech",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "Which forms of improper speech are prohibited in the ritual context?",
+   "premises": [
+    "Prattle is named",
+    "Mockery is named",
+    "Excessive talking is named"
+   ],
+   "inference": "Prattle, mockery, and excessive talking are forms of speech to be avoided.",
+   "uncertainties": [
+    "The prohibitive verb is supplied by the surrounding context."
+   ],
+   "plain_english": "Prattle, mockery, and excessive talking."
+  },
+  {
+   "verse": 3698,
+   "rows": [
+    {
+     "surface": "pātra+hastaḥ",
+     "gloss": "vessel-in-hand",
+     "grounds": "compound describing one holding a vessel",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "cakra+madhye",
+     "gloss": "in-circle-middle",
+     "grounds": "compound locative indicating the middle of the circle",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namet",
+     "gloss": "one-should-bow",
+     "grounds": "prohibited action in this ritual situation",
+     "morph": "3.sg.optative-act √nam"
+    },
+    {
+     "surface": "pūrṇa+pātrakam",
+     "gloss": "full-vessel",
+     "grounds": "compound object referring to a filled vessel",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What act is forbidden for one holding a full vessel in the middle of the circle?",
+   "premises": [
+    "The person holds a vessel in hand",
+    "The location is the middle of the circle",
+    "Bowing while holding a full vessel is negated"
+   ],
+   "inference": "One holding a full vessel in the middle of the circle should not bow.",
+   "uncertainties": [
+    "The syntactic role of pūrṇa+pātrakam alongside pātra+hastaḥ is slightly compressed."
+   ],
+   "plain_english": "Holding a vessel in hand in the middle of the circle, one should not bow with a full vessel."
+  },
+  {
+   "verse": 3699,
+   "rows": [
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "prescriptive action toward the vessel",
+     "morph": "3.sg.optative-act √spṛś"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "ritual vessel as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhindyāt",
+     "gloss": "one-should-break",
+     "grounds": "prohibited action toward the vessel",
+     "morph": "3.sg.optative-act √bhid"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "emphasizes absolute prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What handling of the ritual vessel is permitted and what is absolutely forbidden?",
+   "premises": [
+    "Touching the vessel is prescribed",
+    "Breaking the vessel is mentioned",
+    "Breaking is negated at any time"
+   ],
+   "inference": "One may touch the vessel but must never break it.",
+   "uncertainties": [],
+   "plain_english": "One should touch the vessel, but one should never break it."
+  }
+ ]
+}

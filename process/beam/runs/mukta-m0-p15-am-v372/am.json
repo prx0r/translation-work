@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p15",
  "verse": 372,
- "question": "What certain fate awaits the enemy when the practitioner performs this rite?",
+ "question": "How many petal divisions should be made from the middle region of the diagram?",
  "premises": [
-  "The practitioner performs the ritual.",
-  "The destination is the city of the lord of the dead.",
-  "The enemy will certainly go there."
+  "Three are to be made",
+  "They are made from the middle region of the petals"
  ],
- "inference": "Through this rite, the practitioner causes the enemy to certainly go to the city of the lord of the dead.",
- "uncertainties": [],
- "plain_english": "The practitioner knows: that enemy will certainly go to the city of the lord of the dead."
+ "inference": "Three divisions should be made from the middle region of the petals",
+ "uncertainties": [
+  "The exact referent of dalānāṃ in this geometric step is partly contextual"
+ ],
+ "plain_english": "Having made three, from the middle region of the petals."
 }
