@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p159",
+ "items": [
+  {
+   "verse": 3975,
+   "rows": [
+    {
+     "surface": "vakṣye",
+     "gloss": "i-will-declare",
+     "grounds": "first person singular future middle of √vac 'to speak/declare'",
+     "morph": "1.sg.fut.mid√vac"
+    },
+    {
+     "surface": "pratyaṅgiroddhāraṃ",
+     "gloss": "extraction-of-pratyaṅgirā",
+     "grounds": "accusative object; compound denoting the extraction/formulation of Pratyaṅgirā",
+     "morph": "m.acc.sg (pratyaṅgirā+uddhāra)"
+    },
+    {
+     "surface": "samāsāt",
+     "gloss": "briefly",
+     "grounds": "ablative used adverbially to indicate concise presentation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijasattamāḥ",
+     "gloss": "o-best-twice-born",
+     "grounds": "vocative plural address to the audience; compound of dvija and sattama",
+     "morph": "m.voc.pl (dvija+sattama)"
+    }
+   ],
+   "question": "What teaching about the extraction of Pratyaṅgirā is the speaker about to present briefly to the best twice-born?",
+   "premises": [
+    "The speaker commits to declaring a specific teaching.",
+    "The subject of the declaration is the extraction of Pratyaṅgirā.",
+    "The teaching will be presented briefly to the best twice-born."
+   ],
+   "inference": "The verse announces an upcoming concise exposition of the extraction of Pratyaṅgirā addressed to the foremost twice-born.",
+   "uncertainties": [
+    "The precise ritual or technical sense of 'uddhāra' in this context is not fully specified within the verse alone."
+   ],
+   "plain_english": "O best of the twice-born, I will briefly declare the extraction of Pratyaṅgirā."
+  }
+ ]
+}
