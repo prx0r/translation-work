@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 90,
- "question": "What consequence follows from reversing Brahmā's placement on the southern side?",
+ "question": "Why may a wife receive initiation in this prescribed context?",
  "premises": [
-  "Brahmā should be on the southern side.",
-  "Reversal of this placement is considered.",
-  "Reversal causes fear."
+  "The wife is said to be initiated.",
+  "The reason given is the husband's status.",
+  "He is always her guru."
  ],
- "inference": "Placing Brahmā in reverse of the southern side brings fear.",
- "uncertainties": [],
- "plain_english": "Brahmā should be on the southern side; if reversed, it causes fear."
+ "inference": "A wife may be initiated because her husband is always her guru.",
+ "uncertainties": [
+  "The referent of asau is inferred from context as the husband."
+ ],
+ "plain_english": "The wife is initiated because he is always her guru."
 }

@@ -1,0 +1,1003 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "gṛhasthasya",
+     "gloss": "of-householder",
+     "grounds": "refers to a householder practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāmamārge",
+     "gloss": "in-left-path",
+     "grounds": "locative of the vāmamārga tradition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīryavān",
+     "gloss": "possessing-vigor",
+     "grounds": "qualified as endowed with virility or spiritual potency",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualification is required of a householder in the left-hand path?",
+   "premises": [
+    "The context concerns a householder practitioner.",
+    "The practitioner follows the vāmamārga.",
+    "Such a practitioner must be vīryavān."
+   ],
+   "inference": "A householder in the left-hand path must possess vigor or potency.",
+   "uncertainties": [
+    "vīryavān may mean physical virility or spiritual potency."
+   ],
+   "plain_english": "Thus, a householder in the left-hand path must be endowed with vigor."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "dvādaśābdaṃ",
+     "gloss": "twelve-years",
+     "grounds": "duration of preparation or testing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of the stated period",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of the previous alternative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "further alternative; sandhi vā+atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣayet",
+     "gloss": "one-should-initiate",
+     "grounds": "prescribes the act of initiation",
+     "morph": "3.sg.opt.act (√dīkṣ)"
+    }
+   ],
+   "question": "What periods of preparation are permitted before granting initiation?",
+   "premises": [
+    "Initiation may follow a period of twelve years.",
+    "Alternatively half that period is allowed.",
+    "Alternatively half of that reduced period is allowed."
+   ],
+   "inference": "The teacher may initiate after twelve, six, or three years of preparation.",
+   "uncertainties": [
+    "Whether the periods refer to testing, training, or waiting is not explicit."
+   ],
+   "plain_english": "One should initiate after twelve years, or half of that, or else half of that."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "lajjābhimānagarvādi",
+     "gloss": "shame-pride-arrogance-etc",
+     "grounds": "compound listing negative qualities beginning with shame, pride, arrogance",
+     "morph": "compound (bahuvrīhi-like modifier)"
+    },
+    {
+     "surface": "varjitaṃ",
+     "gloss": "devoid-of",
+     "grounds": "describes absence of those qualities",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kulanāyakam",
+     "gloss": "kula-leader",
+     "grounds": "the candidate or leader of the kula",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What personal qualities must be absent in a qualified kula leader?",
+   "premises": [
+    "The candidate is described as a kulanāyaka.",
+    "Shame, pride, arrogance and similar faults are named.",
+    "The candidate must be free from these faults."
+   ],
+   "inference": "A kula leader must be devoid of shame, pride, arrogance, and similar defects.",
+   "uncertainties": [
+    "The exact scope of ādi is unspecified."
+   ],
+   "plain_english": "One should initiate a kula leader who is free from shame, pride, arrogance, and the like."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "japadhyāna",
+     "gloss": "recitation-meditation",
+     "grounds": "compound naming spiritual practices",
+     "morph": "compound (locative sense in context)"
+    },
+    {
+     "surface": "abhinirataṃ",
+     "gloss": "engaged-in",
+     "grounds": "deeply devoted or absorbed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mokṣamārgā",
+     "gloss": "liberation-path",
+     "grounds": "compound; sandhi mokṣamārga+abhigāminam contextually implied",
+     "morph": "compound (first member)"
+    },
+    {
+     "surface": "bhigāminam",
+     "gloss": "going-toward",
+     "grounds": "one who moves toward the path of liberation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What spiritual orientation should characterize an eligible initiate?",
+   "premises": [
+    "The candidate is engaged in recitation and meditation.",
+    "The candidate moves toward the path of liberation.",
+    "These are presented as qualifying traits."
+   ],
+   "inference": "An eligible initiate should be devoted to recitation and meditation and oriented toward liberation.",
+   "uncertainties": [],
+   "plain_english": "He should be devoted to recitation and meditation and moving toward the path of liberation."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "sadācāraṃ",
+     "gloss": "of-good-conduct",
+     "grounds": "possessing proper conduct",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śraddhābhakti",
+     "gloss": "faith-devotion",
+     "grounds": "compound naming faith and devotion",
+     "morph": "compound (instrumental sense in context)"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "accompanied or furnished with",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What moral and devotional qualities must the initiate possess?",
+   "premises": [
+    "Good conduct is required of the candidate.",
+    "Faith and devotion are required qualities.",
+    "The candidate must be endowed with them."
+   ],
+   "inference": "The initiate must have good conduct and be endowed with faith and devotion.",
+   "uncertainties": [],
+   "plain_english": "He should be of good conduct and endowed with faith and devotion."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "anukūlapriya",
+     "gloss": "agreeable-dear",
+     "grounds": "compound describing pleasing and agreeable associations or speech",
+     "morph": "compound (first member)"
+    },
+    {
+     "surface": "āyuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "joined or furnished with",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhīraṃ",
+     "gloss": "steadfast",
+     "grounds": "firm, wise, or courageous",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvopakārakam",
+     "gloss": "benefiting-all",
+     "grounds": "one who helps or benefits everyone",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What social and personal virtues should the initiate display?",
+   "premises": [
+    "The candidate should be associated with what is agreeable and dear.",
+    "The candidate should be steadfast.",
+    "The candidate should benefit all beings."
+   ],
+   "inference": "The initiate should be agreeable, steadfast, and helpful to all.",
+   "uncertainties": [
+    "anukūlapriya could qualify companions or disposition."
+   ],
+   "plain_english": "He should be agreeable and dear, steadfast, and a benefactor to all."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "the act of initiation as object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lobhādyaiḥ",
+     "gloss": "by-greed-etc",
+     "grounds": "instrumental causes such as greed and similar motives",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "deity-curse",
+     "grounds": "curse from the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-would-obtain",
+     "grounds": "states the consequence of improper initiation",
+     "morph": "3.sg.opt.act (√āp)"
+    }
+   ],
+   "question": "What consequence follows from giving initiation out of greed?",
+   "premises": [
+    "Initiation may be given from motives like greed.",
+    "Such motives are improper grounds for initiation.",
+    "The result is obtaining the deity's curse."
+   ],
+   "inference": "One who initiates out of greed or similar motives incurs the curse of the deity.",
+   "uncertainties": [
+    "The subject of āpnuyāt is implied as the initiating teacher."
+   ],
+   "plain_english": "But if one gives initiation out of greed and the like, one incurs the curse of the deity."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "sāmaye",
+     "gloss": "in-observance",
+     "grounds": "refers to the initiatory vow or discipline",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "traste",
+     "gloss": "broken",
+     "grounds": "violated or abandoned",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vyaṅge",
+     "gloss": "defective",
+     "grounds": "impaired or flawed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "the initiation itself",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalā",
+     "gloss": "fruitless",
+     "grounds": "without result or efficacy",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Under what condition does initiation become fruitless?",
+   "premises": [
+    "The initiatory observance may be broken.",
+    "The observance may be defective.",
+    "In such cases initiation lacks fruit."
+   ],
+   "inference": "Initiation is fruitless when the initiatory observance is broken or defective.",
+   "uncertainties": [],
+   "plain_english": "But if the observance is broken or defective, the initiation is fruitless."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "sacred formula; sandhi mantro before vedāṅgañ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedāṅgañ",
+     "gloss": "veda-limb",
+     "grounds": "limb of the Veda; sandhi vedāṅgam+ca written as vedāṅgañ cāgamaḥ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāgamaḥ",
+     "gloss": "and-agama",
+     "grounds": "and the āgama tradition; sandhi ca+āgamaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditionally taught or regarded",
+     "morph": "m.nom.sg (past participle, √smṛ)"
+    }
+   ],
+   "question": "How are mantra, Vedic limb, and āgama related in traditional teaching?",
+   "premises": [
+    "Mantra is mentioned as a category.",
+    "The limb of the Veda and the āgama are mentioned together.",
+    "They are traditionally remembered in this connection."
+   ],
+   "inference": "Mantra is traditionally associated with the Vedic limb and the āgama.",
+   "uncertainties": [
+    "The exact syntactic relation among the three terms is compressed."
+   ],
+   "plain_english": "Mantra is remembered as a limb of the Veda and as āgama."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "sādhyate",
+     "gloss": "is-accomplished",
+     "grounds": "is effected or achieved",
+     "morph": "3.sg.pres.pass (√sādh)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "everything in scope",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "grahayajñādikaṃ",
+     "gloss": "planet-sacrifice-etc",
+     "grounds": "planetary sacrifices and similar rites",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual purposes can be accomplished through mantra?",
+   "premises": [
+    "Mantra is the operative means in context.",
+    "Planetary sacrifices and similar rites are named.",
+    "All such rites are said to be accomplished."
+   ],
+   "inference": "Through mantra, planetary sacrifices and all such rites are indeed accomplished.",
+   "uncertainties": [],
+   "plain_english": "Indeed, all things such as planetary sacrifices and the like are accomplished by it."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "subject of the statement; sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāvedo",
+     "gloss": "not-non-vedic",
+     "grounds": "fused sandhi na+avedaḥ; denies that mantra is non-Vedic",
+     "morph": "compound/sandhi (indecl.+m.nom.sg)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "repeated term as predicate focus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "m.nom.sg (past participle, √īr)"
+    }
+   ],
+   "question": "Is a mantra considered non-Vedic according to this teaching?",
+   "premises": [
+    "The term mantra is explicitly discussed.",
+    "The text denies the characterization as non-Vedic.",
+    "A mantra is declared as mantra in this framework."
+   ],
+   "inference": "A mantra is not to be regarded as non-Vedic.",
+   "uncertainties": [
+    "The compressed syntax of nāvedo leaves the exact predicate relation terse."
+   ],
+   "plain_english": "A mantra is declared not to be non-Vedic; it is declared a mantra."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "yāvanti",
+     "gloss": "as-many",
+     "grounds": "correlative quantity",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "arṇāni",
+     "gloss": "syllables",
+     "grounds": "letters or syllables of mantras",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "belonging to mantras",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śūdrāya",
+     "gloss": "to-shudra",
+     "grounds": "recipient of instruction",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pratipādayet",
+     "gloss": "one-may-impart",
+     "grounds": "prescribes teaching or imparting",
+     "morph": "3.sg.opt.act (caus. √pad)"
+    }
+   ],
+   "question": "How many mantra syllables may be imparted to a śūdra?",
+   "premises": [
+    "Mantras consist of a certain number of syllables.",
+    "The recipient in question is a śūdra.",
+    "The teacher may impart those syllables accordingly."
+   ],
+   "inference": "One may impart to a śūdra as many syllables of the mantras as are appropriate in this context.",
+   "uncertainties": [
+    "The verse states quantity but the limiting condition may depend on adjacent verses."
+   ],
+   "plain_english": "One may impart to a śūdra as many syllables of the mantras as there are."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "rahitaṃ",
+     "gloss": "devoid",
+     "grounds": "lacking certain elements, as specified by context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive giving",
+     "morph": "3.sg.opt.act (√dā)"
+    },
+    {
+     "surface": "paścācca",
+     "gloss": "afterwards-and",
+     "grounds": "temporal sequence; sandhi paścāt+ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāntrikam",
+     "gloss": "tantric",
+     "grounds": "that which belongs to the tantra",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kind of instruction should be given afterward in this sequence?",
+   "premises": [
+    "Something devoid or modified is to be given first.",
+    "A subsequent step follows afterward.",
+    "The later gift is described as tāntric."
+   ],
+   "inference": "After giving the earlier form, one should afterward give the tantric instruction.",
+   "uncertainties": [
+    "What rahitaṃ lacks is not specified within this verse alone."
+   ],
+   "plain_english": "One should give it in a modified form, and afterward give the tantric form."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "saṃskṛtaistaiś",
+     "gloss": "with-those-consecrated",
+     "grounds": "by those who have been consecrated or refined; sandhi saṃskṛtaiḥ+taiḥ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāgamoktena",
+     "gloss": "by-own-agama-declared",
+     "grounds": "by the path declared in one's own āgama; sandhi sva+āgama+uktena",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "by-path",
+     "grounds": "by the prescribed method or way",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "By what method should initiation proceed for those consecrated recipients?",
+   "premises": [
+    "The recipients are described as consecrated.",
+    "A path declared in one's own āgama is specified.",
+    "Initiation proceeds by that path."
+   ],
+   "inference": "Those consecrated should be initiated by the path declared in their own āgama.",
+   "uncertainties": [],
+   "plain_english": "And with those who are consecrated, initiation is done by the path declared in one's own āgama."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "dīkṣyate",
+     "gloss": "is-initiated",
+     "grounds": "undergoes initiation",
+     "morph": "3.sg.pres.pass (√dīkṣ)"
+    },
+    {
+     "surface": "bhāryā",
+     "gloss": "wife",
+     "grounds": "the spouse as recipient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "introduces reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "refers to the husband or guru figure in context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "spiritual teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why may a wife receive initiation in this prescribed context?",
+   "premises": [
+    "The wife is said to be initiated.",
+    "The reason given is the husband's status.",
+    "He is always her guru."
+   ],
+   "inference": "A wife may be initiated because her husband is always her guru.",
+   "uncertainties": [
+    "The referent of asau is inferred from context as the husband."
+   ],
+   "plain_english": "The wife is initiated because he is always her guru."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "vaiṣṇavo",
+     "gloss": "vaishnava",
+     "grounds": "relating to Viṣṇu tradition; sandhi vaiṣṇavaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "inclusive alternative; sandhi vā+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strīśūdrāṇāṃ",
+     "gloss": "for-women-shudras",
+     "grounds": "for women and śūdras",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "namontakaḥ",
+     "gloss": "ending-in-namah",
+     "grounds": "mantra form ending with namaḥ; sandhi namaḥ+antakaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra form is prescribed for women and śūdras in the Vaiṣṇava context?",
+   "premises": [
+    "The context includes a Vaiṣṇava form.",
+    "The recipients named are women and śūdras.",
+    "The mantra is characterized as ending in namaḥ."
+   ],
+   "inference": "For women and śūdras, a Vaiṣṇava mantra ending in namaḥ is prescribed.",
+   "uncertainties": [],
+   "plain_english": "For women and śūdras, even a Vaiṣṇava mantra ending in 'namaḥ' is used."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "nāmamantra",
+     "gloss": "name-mantra",
+     "grounds": "a mantra consisting of or based on a name; sandhi nāmamantraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "understanding it as such",
+     "morph": "(gerund, √jñā)"
+    },
+    {
+     "surface": "cāṇḍālān",
+     "gloss": "even-candalas",
+     "grounds": "including those of caṇḍāla status",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣayet",
+     "gloss": "one-should-initiate",
+     "grounds": "prescribes initiation",
+     "morph": "3.sg.opt.act (√dīkṣ)"
+    }
+   ],
+   "question": "Who may be initiated using a mantra understood as a name-mantra?",
+   "premises": [
+    "The mantra is recognized as a nāmamantra.",
+    "The text explicitly includes caṇḍālas.",
+    "Initiation is permitted in this case."
+   ],
+   "inference": "Knowing it as a name-mantra, one may initiate even caṇḍālas.",
+   "uncertainties": [],
+   "plain_english": "Knowing it to be a name-mantra, one should initiate even caṇḍālas."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "in five ways or types",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manavaḥ",
+     "gloss": "mantras",
+     "grounds": "mantras or mantra-types",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "khyātāḥ",
+     "gloss": "known",
+     "grounds": "traditionally recognized",
+     "morph": "m.nom.pl (past participle, √khyā)"
+    },
+    {
+     "surface": "pradeyāś",
+     "gloss": "and-to-be-given",
+     "grounds": "to be bestowed; sandhi pradeyāḥ+ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cānulomataḥ",
+     "gloss": "and-in-due-order",
+     "grounds": "in proper hierarchical order; sandhi ca+ānulomataḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the five kinds of mantras to be distributed?",
+   "premises": [
+    "Mantras are known in five kinds.",
+    "These mantras are to be given.",
+    "They must be given in due order."
+   ],
+   "inference": "The five known kinds of mantras should be given in proper hierarchical order.",
+   "uncertainties": [
+    "The specific identity of the five kinds is not stated in this verse."
+   ],
+   "plain_english": "Mantras are known as fivefold and should be given in due order."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "kāmabījaṃ",
+     "gloss": "kama-seed",
+     "grounds": "the kāmabīja mantra seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "should-be",
+     "grounds": "is assigned as",
+     "morph": "3.sg.opt.act (√bhū)"
+    },
+    {
+     "surface": "vaiśyo",
+     "gloss": "vaishya",
+     "grounds": "for the vaiśya; sandhi vaiśyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vagbhava-seed",
+     "grounds": "the vāgbhava bīja",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūdra",
+     "gloss": "shudra",
+     "grounds": "for the śūdra; sandhi śūdraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "stated as assigned",
+     "morph": "m.nom.sg (past participle, √īr)"
+    }
+   ],
+   "question": "Which seed mantras are assigned to the vaiśya and śūdra classes?",
+   "premises": [
+    "The kāmabīja is mentioned in relation to the vaiśya.",
+    "The vāgbhava bīja is mentioned in relation to the śūdra.",
+    "These assignments are explicitly declared."
+   ],
+   "inference": "The kāmabīja is assigned to the vaiśya and the vāgbhava bīja to the śūdra.",
+   "uncertainties": [],
+   "plain_english": "The kāmabīja should be for the vaiśya, and the vāgbhava is declared for the śūdra."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescribes not giving",
+     "morph": "3.sg.opt.act (√dā with ud)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "the mantra as object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikavarṇakam",
+     "gloss": "to-higher-class",
+     "grounds": "to one of a higher varṇa",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "To whom must a mantra not be given according to varṇa hierarchy?",
+   "premises": [
+    "Giving a mantra is the action under discussion.",
+    "The recipient is described as of higher varṇa.",
+    "The verse prohibits giving in that case."
+   ],
+   "inference": "One should not give a mantra to a person of higher varṇa.",
+   "uncertainties": [
+    "The implied giver's relative status is not explicitly stated."
+   ],
+   "plain_english": "But one should not give a mantra to someone of a higher class."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "vipraiḥ",
+     "gloss": "by-brahmins",
+     "grounds": "agents who may give",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "deyā",
+     "gloss": "to-be-given",
+     "grounds": "fit to be bestowed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vindhyanivāsinī",
+     "gloss": "vindhya-dwelling",
+     "grounds": "epithet of the goddess Vindhyavāsinī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is authorized to give the mantra of Vindhyavāsinī?",
+   "premises": [
+    "The deity named is Vindhyavāsinī.",
+    "Her mantra or form is to be given.",
+    "Brāhmaṇas are specified as the givers."
+   ],
+   "inference": "The mantra of Vindhyavāsinī is to be given by brāhmaṇas.",
+   "uncertainties": [
+    "Whether the object is a mantra or initiation to the deity is implied."
+   ],
+   "plain_english": "Vindhyavāsinī is to be given by brāhmaṇas."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "nārasiṃhī",
+     "gloss": "narasimhi",
+     "grounds": "the goddess Nārasiṃhī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kārtavīryasya",
+     "gloss": "of-kartavirya",
+     "grounds": "associated with Kārtavīrya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nānyataḥ",
+     "gloss": "not-otherwise",
+     "grounds": "not from or to others; sandhi na+anyataḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is the Nārasiṃhī mantra restricted in this teaching?",
+   "premises": [
+    "The deity named is Nārasiṃhī.",
+    "Kārtavīrya is specifically associated with her.",
+    "The verse excludes other recipients or sources."
+   ],
+   "inference": "Nārasiṃhī is restricted to Kārtavīrya and not given otherwise.",
+   "uncertainties": [
+    "The exact nature of the restriction (recipient, lineage, or context) is compressed."
+   ],
+   "plain_english": "Nārasiṃhī belongs to Kārtavīrya and not otherwise."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "varṇatraye",
+     "gloss": "in-three-classes",
+     "grounds": "among the three varṇas",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "should be bestowed",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "dakṣiṇāmūrtyaghorakam",
+     "gloss": "dakshinamurti-aghora",
+     "grounds": "compound naming Dakṣiṇāmūrti and Aghora forms/mantras",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "To which social groups may the Dakṣiṇāmūrti-Aghora mantra be given?",
+   "premises": [
+    "The mantra or form named is Dakṣiṇāmūrti-Aghora.",
+    "The three varṇas are specified as recipients.",
+    "It is declared to be given to them."
+   ],
+   "inference": "The Dakṣiṇāmūrti-Aghora mantra may be given to the three varṇas.",
+   "uncertainties": [
+    "Whether aghorakam refers to a mantra, form, or combined deity is ambiguous."
+   ],
+   "plain_english": "The Dakṣiṇāmūrti-Aghora form may be given even to the three classes."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "lakṣmīnārāyaṇaṃ",
+     "gloss": "lakshmi-narayana",
+     "grounds": "the deity or mantra of Lakṣmī-Nārāyaṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāsudevatākaṃ",
+     "gloss": "vasudeva-deity",
+     "grounds": "having Vāsudeva as deity; compound ending -tāka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varāhakam",
+     "gloss": "varaha",
+     "grounds": "the Varāha form or mantra",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which additional deity forms are listed as to be given in this context?",
+   "premises": [
+    "Lakṣmī-Nārāyaṇa is named.",
+    "A form having Vāsudeva as deity is named.",
+    "Varāha is named."
+   ],
+   "inference": "Lakṣmī-Nārāyaṇa, the Vāsudeva form, and Varāha are included among those to be given.",
+   "uncertainties": [
+    "The governing verb is carried over from the previous verse."
+   ],
+   "plain_english": "Lakṣmī-Nārāyaṇa, the form of Vāsudeva, and Varāha are also to be given."
+  }
+ ]
+}

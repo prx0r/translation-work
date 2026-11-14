@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p04",
  "verse": 80,
- "question": "Which deities are specified as facing east and west in this arrangement?",
+ "question": "What moral and devotional qualities must the initiate possess?",
  "premises": [
-  "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā are named.",
-  "These deities are described as facing east and west.",
-  "The verse specifies their orientation."
+  "Good conduct is required of the candidate.",
+  "Faith and devotion are required qualities.",
+  "The candidate must be endowed with them."
  ],
- "inference": "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā should face east and west.",
- "uncertainties": [
-  "The exact assignment of east versus west to individual deities is not specified."
- ],
- "plain_english": "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā should face east and west."
+ "inference": "The initiate must have good conduct and be endowed with faith and devotion.",
+ "uncertainties": [],
+ "plain_english": "He should be of good conduct and endowed with faith and devotion."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 86,
- "question": "What subject is concluded by this statement about the Gaṇeśa shrine?",
+ "question": "Is a mantra considered non-Vedic according to this teaching?",
  "premises": [
-  "The statement marks a conclusion.",
-  "The subject named is the shrine of Gaṇeśa.",
-  "The preceding rules pertain to that shrine."
+  "The term mantra is explicitly discussed.",
+  "The text denies the characterization as non-Vedic.",
+  "A mantra is declared as mantra in this framework."
  ],
- "inference": "This concludes the section concerning the shrine of Gaṇeśa.",
- "uncertainties": [],
- "plain_english": "Thus concludes the section on the shrine of Gaṇeśa."
+ "inference": "A mantra is not to be regarded as non-Vedic.",
+ "uncertainties": [
+  "The compressed syntax of nāvedo leaves the exact predicate relation terse."
+ ],
+ "plain_english": "A mantra is declared not to be non-Vedic; it is declared a mantra."
 }

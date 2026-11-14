@@ -3,19 +3,39 @@
  "verse": 3125,
  "rows": [
   {
-   "lemma": "saṃsthāpya",
-   "morph": "(gerund) sam-√sthā",
-   "grounds": "absolutive of sam-√sthā indicating prior action"
+   "lemma": "tilājyābhyāṃ",
+   "morph": "n.instr.du.nt (compound)",
+   "grounds": "instrumental dual of a compound denoting sesame and clarified butter as oblation materials"
   },
   {
-   "lemma": "mūlaliṅgādyam",
-   "morph": "mūla+liṅga+ādi (compound) acc.sg.nt",
-   "grounds": "compound object including the original liṅga and related items"
+   "lemma": "caret",
+   "morph": "v.3.sg.opt.act √car",
+   "grounds": "optative expressing prescribed ritual action"
   },
   {
-   "lemma": "arcayedarcanoktavat",
-   "morph": "3.sg.opt.act √arc + arcana+ukta+vat (compound, indecl.)",
-   "grounds": "fused form: arcayet (optative of √arc) + arcana-ukta-vat (comparative adverbial compound)"
+   "lemma": "homam",
+   "morph": "n.acc.sg.m",
+   "grounds": "direct object of the prescribed ritual action"
+  },
+  {
+   "lemma": "etat",
+   "morph": "pron.acc.sg.m",
+   "grounds": "demonstrative qualifying the oblation"
+  },
+  {
+   "lemma": "bhinnam",
+   "morph": "adj.acc.sg.m",
+   "grounds": "predicate adjective marking the oblation as distinct"
+  },
+  {
+   "lemma": "yat",
+   "morph": "pron.acc.sg.n",
+   "grounds": "relative pronoun introducing the desired purpose"
+  },
+  {
+   "lemma": "arthayet",
+   "morph": "v.3.sg.opt.act √arth",
+   "grounds": "optative expressing the practitioner's intended aim"
   }
  ]
 }

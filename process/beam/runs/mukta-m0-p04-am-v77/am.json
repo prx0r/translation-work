@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 77,
- "question": "What bodily orientation must be maintained when crossing the temple doorway?",
+ "question": "What periods of preparation are permitted before granting initiation?",
  "premises": [
-  "One should not show one's back.",
-  "Crossing the doorway must be done facing forward.",
-  "The instruction governs ritual movement at the door."
+  "Initiation may follow a period of twelve years.",
+  "Alternatively half that period is allowed.",
+  "Alternatively half of that reduced period is allowed."
  ],
- "inference": "The doorway must be crossed while facing it, without turning one's back.",
- "uncertainties": [],
- "plain_english": "One should not show one's back; the crossing of the doorway must be done facing forward."
+ "inference": "The teacher may initiate after twelve, six, or three years of preparation.",
+ "uncertainties": [
+  "Whether the periods refer to testing, training, or waiting is not explicit."
+ ],
+ "plain_english": "One should initiate after twelve years, or half of that, or else half of that."
 }
