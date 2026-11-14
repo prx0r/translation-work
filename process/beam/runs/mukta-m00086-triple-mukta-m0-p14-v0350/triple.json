@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the brahma-vidyā stated in the previous verse",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "identifies the referent as the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth",
+     "grounds": "ordinal qualifier specifying which vidyā is meant",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "designates the referent as a vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+ādhāra+svarūpiṇī",
+     "gloss": "whose-nature-is-support-of-all",
+     "grounds": "compound describing essential nature as the support of all",
+     "morph": "compound.f.nom.sg"
+    }
+   ],
+   "question": "What identity and essential nature are attributed to the fifth vidyā?",
+   "premises": [
+    "The referent is identified as that goddess.",
+    "She is designated as the fifth vidyā.",
+    "Her essential nature is described as the support of all."
+   ],
+   "inference": "Therefore the fifth vidyā is the goddess whose very nature supports all.",
+   "uncertainties": [
+    "The specific referent of 'fifth vidyā' within this Śrīvidyā context is not fully explicit from this verse alone."
+   ],
+   "plain_english": "She is the goddess, the fifth vidyā, whose very nature is the support of all."
+  }
+ ]
+}
