@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2216,
- "question": "Where may a stone-born or bana linga be installed within the shrine?",
+ "question": "How should the finger-width be determined as a fractional portion?",
  "premises": [
-  "A stone-born linga is an option",
-  "A bāṇa linga is an alternative option",
-  "The installation is in the inner sanctum on a seat"
+  "A precise subdivision is required.",
+  "The portion is the twenty-fourth part.",
+  "This portion should be taken as a finger-width."
  ],
- "inference": "A stone-born or bāṇa linga may be placed in the inner sanctum on its seat",
- "uncertainties": [],
- "plain_english": "A stone-born linga or a bāṇa linga may be placed in the inner sanctum on its seat."
+ "inference": "One should determine a finger-width as the twenty-fourth part.",
+ "uncertainties": [
+  "The whole of which this is the twenty-fourth part is implied by prior context."
+ ],
+ "plain_english": "One should determine a finger-width as the twenty-fourth part."
 }

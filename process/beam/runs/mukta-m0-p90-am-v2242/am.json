@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2242,
- "question": "What ritual action should be performed at the place where the stone is found?",
+ "question": "Which deities continue the sequence beginning with Īśāna in this ritual enumeration?",
  "premises": [
-  "The place of the stone piece is specified.",
-  "An action is to be performed with respect to it.",
-  "Clockwise circumambulation is prescribed."
+  "Īśāna is named first",
+  "Parjanya and Jayanta follow",
+  "Śakra and Bhāskara are named together"
  ],
- "inference": "One should perform clockwise circumambulation at the place of the stone piece.",
- "uncertainties": [
-  "The exact object of kṛtvā with tāṃ is syntactically compressed."
- ],
- "plain_english": "In the place where that stone piece is, one should perform clockwise circumambulation."
+ "inference": "The sequence includes Īśāna, then Parjanya, Jayanta, and Śakra together with Bhāskara.",
+ "uncertainties": [],
+ "plain_english": "Īśāna, then Parjanya, Jayanta, and Śakra and the Sun."
 }

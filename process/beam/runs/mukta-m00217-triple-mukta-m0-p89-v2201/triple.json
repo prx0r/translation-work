@@ -1,0 +1,1063 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2201,
+   "rows": [
+    {
+     "surface": "bālāgra",
+     "gloss": "hair-tip",
+     "grounds": "smallest unit in the measurement series",
+     "morph": "compound: bāla+agra"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral defining the count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likṣā",
+     "gloss": "louse-egg",
+     "grounds": "unit equal to eight hair-tips",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yūkā",
+     "gloss": "louse",
+     "grounds": "next larger unit in the series",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "likṣā+aṣṭakam",
+     "gloss": "eight-louse-eggs",
+     "grounds": "compound defining a louse as eight louse-eggs",
+     "morph": "compound: likṣā+aṣṭaka; n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "states the traditional definition",
+     "morph": "n.nom.sg; ppp of smṛ"
+    }
+   ],
+   "question": "How are the smallest units of ritual measurement defined in relation to each other?",
+   "premises": [
+    "Eight hair-tips make one louse-egg.",
+    "Eight louse-eggs make one louse.",
+    "This equivalence is traditionally remembered."
+   ],
+   "inference": "The measurement system begins with a fixed progression from hair-tip to louse-egg to louse.",
+   "uncertainties": [],
+   "plain_english": "Eight hair-tips are called a louse-egg, and eight louse-eggs are remembered as a louse."
+  },
+  {
+   "verse": 2202,
+   "rows": [
+    {
+     "surface": "ratni",
+     "gloss": "finger-joint",
+     "grounds": "unit being defined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṃguli+parvāṇām",
+     "gloss": "of-finger-joints",
+     "grounds": "genitive compound indicating the units counted",
+     "morph": "compound: aṃguli+parvan; n.gen.pl"
+    },
+    {
+     "surface": "vijñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "prescribes recognition of the measure",
+     "morph": "m.nom.sg; gerundive of vi-jñā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka+viṃśatiḥ",
+     "gloss": "twenty-one",
+     "grounds": "numeral value of the unit",
+     "morph": "compound: eka+viṃśati; f.nom.sg"
+    }
+   ],
+   "question": "How many finger-joints constitute the measure called ratni?",
+   "premises": [
+    "The ratni is a recognized unit of measure.",
+    "It is defined in terms of finger-joints.",
+    "Its value is twenty-one finger-joints."
+   ],
+   "inference": "A ratni should be understood as equivalent to twenty-one finger-joints.",
+   "uncertainties": [],
+   "plain_english": "A ratni is to be known as twenty-one finger-joints."
+  },
+  {
+   "verse": 2203,
+   "rows": [
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "first part of the numeral",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "viṃśatiḥ",
+     "gloss": "twenty",
+     "grounds": "second part of the numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastaḥ",
+     "gloss": "hand-measure",
+     "grounds": "unit being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative of as"
+    },
+    {
+     "surface": "aṃgulāni",
+     "gloss": "finger-widths",
+     "grounds": "units counted for the hasta",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many finger-widths should constitute one hasta measure?",
+   "premises": [
+    "The hasta is a standard ritual measure.",
+    "It is expressed in finger-widths.",
+    "The prescribed count is twenty-four finger-widths."
+   ],
+   "inference": "One hasta should be taken as twenty-four finger-widths.",
+   "uncertainties": [],
+   "plain_english": "A hasta should indeed be twenty-four finger-widths."
+  },
+  {
+   "verse": 2204,
+   "rows": [
+    {
+     "surface": "kāryāḥ",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive continuing the previous instruction",
+     "morph": "m.nom.pl; gerundive of kṛ"
+    }
+   ],
+   "question": "What obligation applies to the finger-width measures just specified?",
+   "premises": [
+    "A specific number of finger-widths was prescribed.",
+    "The prescription requires implementation.",
+    "The measures must be made accordingly."
+   ],
+   "inference": "The specified finger-width measures should be carried out in practice.",
+   "uncertainties": [
+    "The exact referent is carried over from the preceding verse."
+   ],
+   "plain_english": "They should be made accordingly."
+  },
+  {
+   "verse": 2205,
+   "rows": [
+    {
+     "surface": "hasta+mānena",
+     "gloss": "by-hand-measure",
+     "grounds": "instrumental compound indicating the standard used",
+     "morph": "compound: hasta+māna; n.inst.sg"
+    },
+    {
+     "surface": "tan+madhye",
+     "gloss": "in-its-middle",
+     "grounds": "locative compound indicating the place of excavation",
+     "morph": "compound: tad+madhya; n.loc.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "indicates extent corresponding to the measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimna+āyatam",
+     "gloss": "deep-long",
+     "grounds": "compound describing the excavation",
+     "morph": "compound: nimna+āyata; n.acc.sg"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "should-dig",
+     "grounds": "prescriptive optative action",
+     "morph": "3.sg.optative of khan"
+    }
+   ],
+   "question": "How should the excavation be made using the prescribed hand-measure?",
+   "premises": [
+    "The hand-measure provides the standard.",
+    "The excavation is to be made in the middle.",
+    "It should be dug deep and long to that extent."
+   ],
+   "inference": "One should dig a deep and long excavation in the middle according to the hand-measure.",
+   "uncertainties": [
+    "The exact referent of 'its middle' depends on prior context."
+   ],
+   "plain_english": "Using the hand-measure, one should dig a deep and long excavation in its middle to that extent."
+  },
+  {
+   "verse": 2206,
+   "rows": [
+    {
+     "surface": "tṛtīya+aṃśaḥ",
+     "gloss": "one-third-part",
+     "grounds": "compound specifying a fractional measure",
+     "morph": "compound: tṛtīya+aṃśa; m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative of bhū"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative indicating the scriptural domain",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates universal application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca+aṃguliḥ",
+     "gloss": "and-finger-width",
+     "grounds": "states the unit used throughout; sandhi joins ca and aṃguliḥ",
+     "morph": "compound: ca+aṃguli; f.nom.sg"
+    }
+   ],
+   "question": "What fractional proportion and unit of measure apply universally in this tantra?",
+   "premises": [
+    "A one-third part is prescribed in this context.",
+    "The rule applies in this tantra.",
+    "The finger-width is the unit used everywhere."
+   ],
+   "inference": "In this tantra the one-third proportion is used everywhere with the finger-width as the standard unit.",
+   "uncertainties": [
+    "The specific dimension divided into thirds is not stated in this verse."
+   ],
+   "plain_english": "Here in this tantra, it should be one-third, and the finger-width is used everywhere."
+  },
+  {
+   "verse": 2207,
+   "rows": [
+    {
+     "surface": "aratniḥ",
+     "gloss": "cubit",
+     "grounds": "unit being related to others",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tad+dvayena",
+     "gloss": "by-its-double",
+     "grounds": "instrumental compound indicating doubling",
+     "morph": "compound: tad+dvaya; n.inst.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative stating equivalence",
+     "morph": "3.sg.optative of as"
+    },
+    {
+     "surface": "hastaḥ",
+     "gloss": "hand-measure",
+     "grounds": "resulting unit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tad+dvayataḥ",
+     "gloss": "by-its-double",
+     "grounds": "ablative compound indicating further doubling",
+     "morph": "compound: tad+dvayata; n.abl.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Shiva",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How do the cubit and hand-measure relate through doubling in this system?",
+   "premises": [
+    "The aratni is a defined measure.",
+    "Doubling it yields a hasta.",
+    "The address to Shiva frames the instruction."
+   ],
+   "inference": "By doubling the aratni one obtains a hasta, as stated to Shiva.",
+   "uncertainties": [
+    "The further doubling indicated by tad+dvayataḥ may anticipate a larger unit not named here."
+   ],
+   "plain_english": "O Shiva, by its double the aratni becomes a hasta, and by the double of that another measure is implied."
+  },
+  {
+   "verse": 2208,
+   "rows": [
+    {
+     "surface": "ṣaṇṇavati+aṃgulā",
+     "gloss": "ninety-six-finger-widths",
+     "grounds": "compound specifying total measure",
+     "morph": "compound: ṣaṇṇavati+aṃgula; f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative of as"
+    },
+    {
+     "surface": "tan+mānaiḥ",
+     "gloss": "by-those-measures",
+     "grounds": "instrumental compound indicating the standard applied",
+     "morph": "compound: tad+māna; n.inst.pl"
+    },
+    {
+     "surface": "kuṇḍa+kalpanam",
+     "gloss": "fire-pit-construction",
+     "grounds": "compound naming the ritual construction",
+     "morph": "compound: kuṇḍa+kalpana; n.nom.sg"
+    }
+   ],
+   "question": "What total measurement should govern the construction of the ritual fire-pit?",
+   "premises": [
+    "The fire-pit construction follows fixed measures.",
+    "Those measures yield a total of ninety-six finger-widths.",
+    "This total is prescribed for the construction."
+   ],
+   "inference": "The construction of the fire-pit should be based on a total measure of ninety-six finger-widths.",
+   "uncertainties": [],
+   "plain_english": "By those measures, the construction of the fire-pit should be ninety-six finger-widths."
+  },
+  {
+   "verse": 2209,
+   "rows": [
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "numeral qualifying the girdle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saḍ+aṃgula+utsedha+vistarā",
+     "gloss": "six-finger-height-width",
+     "grounds": "compound specifying height and width of the girdle",
+     "morph": "compound: ṣaṣ+aṃgula+utsedha+vistara; f.nom.sg"
+    },
+    {
+     "surface": "mekhalā",
+     "gloss": "girdle",
+     "grounds": "ritual feature of the fire-pit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "states the accepted specification",
+     "morph": "f.nom.sg; ppp of man"
+    }
+   ],
+   "question": "What dimensions are prescribed for a single girdle of the fire-pit?",
+   "premises": [
+    "The fire-pit includes a girdle.",
+    "The girdle has specified height and width.",
+    "Both height and width are six finger-widths."
+   ],
+   "inference": "One girdle is considered to be six finger-widths in both height and width.",
+   "uncertainties": [],
+   "plain_english": "One girdle is considered to be six finger-widths in height and six in width."
+  },
+  {
+   "verse": 2210,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from prior rules",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "thoroughly",
+     "grounds": "adverb qualifying examination",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parīkṣya",
+     "gloss": "having-examined",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive of pari-īkṣ"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "refers to the prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "should-be-done",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg; gerundive of kṛ"
+    },
+    {
+     "surface": "śubham+icchatā",
+     "gloss": "by-one-desiring-good",
+     "grounds": "compound identifying the qualified agent",
+     "morph": "compound: śubha+icchat; m.inst.sg"
+    }
+   ],
+   "question": "What careful procedure must one who desires auspicious results follow in constructing the fire-pit?",
+   "premises": [
+    "The preceding rules establish correct construction.",
+    "Thorough examination is required before acting.",
+    "One who desires good must act accordingly."
+   ],
+   "inference": "Therefore one who desires auspicious results should examine thoroughly and act in this prescribed manner.",
+   "uncertainties": [],
+   "plain_english": "Therefore, one who desires auspicious results should examine thoroughly and act accordingly."
+  },
+  {
+   "verse": 2211,
+   "rows": [
+    {
+     "surface": "vakra+kuṇḍe",
+     "gloss": "in-crooked-fire-pit",
+     "grounds": "locative compound naming a defective fire-pit",
+     "morph": "compound: vakra+kuṇḍa; n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "santāpaḥ",
+     "gloss": "distress",
+     "grounds": "negative consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maraṇam",
+     "gloss": "death",
+     "grounds": "negative consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chinna+mekhale",
+     "gloss": "in-broken-girdle",
+     "grounds": "locative compound naming another defect",
+     "morph": "compound: chinna+mekhalā; n.loc.sg"
+    }
+   ],
+   "question": "What harmful consequences arise from a crooked fire-pit or a broken girdle?",
+   "premises": [
+    "A crooked fire-pit is a defect.",
+    "A broken girdle is a defect.",
+    "Such defects produce distress and death."
+   ],
+   "inference": "A crooked fire-pit brings distress and a broken girdle brings death.",
+   "uncertainties": [
+    "The exact distribution of consequences between the two defects is compressed in the verse."
+   ],
+   "plain_english": "In a crooked fire-pit there is distress, and in one with a broken girdle there is death."
+  },
+  {
+   "verse": 2212,
+   "rows": [
+    {
+     "surface": "bhāryā+vināśakam",
+     "gloss": "wife-destroying",
+     "grounds": "compound describing the harmful effect",
+     "morph": "compound: bhāryā+vināśaka; n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "subject of the statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "reports traditional teaching",
+     "morph": "n.nom.sg; ppp of pra-vac"
+    },
+    {
+     "surface": "yonyā+vinā",
+     "gloss": "without-yoni",
+     "grounds": "compound indicating absence of the yoni feature",
+     "morph": "compound: yoni+vinā; (indecl.)"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "made",
+     "grounds": "describes the defective construction",
+     "morph": "n.nom.sg; ppp of kṛ"
+    }
+   ],
+   "question": "What consequence follows from constructing a fire-pit without the yoni feature?",
+   "premises": [
+    "The yoni is a required feature of the fire-pit.",
+    "A fire-pit may be made without it.",
+    "Such a fire-pit is declared to destroy the wife."
+   ],
+   "inference": "A fire-pit made without a yoni is said to bring destruction to the wife.",
+   "uncertainties": [],
+   "plain_english": "A fire-pit made without a yoni is declared to bring destruction to the wife."
+  },
+  {
+   "verse": 2213,
+   "rows": [
+    {
+     "surface": "śṛṅgāra+rahitaṃ",
+     "gloss": "without-ornament",
+     "grounds": "compound describing a defective fire-pit",
+     "morph": "compound: śṛṅgāra+rahita; n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the case",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajamāna+vināśa+kṛt",
+     "gloss": "sacrificer-destroying",
+     "grounds": "compound stating the harmful result",
+     "morph": "compound: yajamāna+vināśa+kṛt; n.nom.sg"
+    }
+   ],
+   "question": "What harm results from a fire-pit that lacks proper ornamentation?",
+   "premises": [
+    "A fire-pit may lack ornamentation.",
+    "Such a defect has ritual consequences.",
+    "It brings destruction to the sacrificer."
+   ],
+   "inference": "A fire-pit without ornamentation causes the destruction of the sacrificer.",
+   "uncertainties": [],
+   "plain_english": "And a fire-pit without ornamentation brings destruction to the sacrificer."
+  },
+  {
+   "verse": 2214,
+   "rows": [
+    {
+     "surface": "vāg+rodhaḥ",
+     "gloss": "speech-obstruction",
+     "grounds": "compound naming a harmful consequence",
+     "morph": "compound: vāc+rodha; m.nom.sg"
+    },
+    {
+     "surface": "kaṇṭha+hīne",
+     "gloss": "in-without-throat",
+     "grounds": "locative compound naming a defective fire-pit",
+     "morph": "compound: kaṇṭha+hīna; n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative stating consequence",
+     "morph": "3.sg.optative of as"
+    },
+    {
+     "surface": "asiddhiḥ",
+     "gloss": "non-success",
+     "grounds": "negative consequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nyūna+khātake",
+     "gloss": "in-deficient-pit",
+     "grounds": "locative compound naming another defect",
+     "morph": "compound: nyūna+khātaka; n.loc.sg"
+    }
+   ],
+   "question": "What consequences follow from a fire-pit lacking a throat or having a deficient excavation?",
+   "premises": [
+    "A fire-pit without a throat is defective.",
+    "A fire-pit with a deficient excavation is defective.",
+    "These defects cause speech obstruction and failure."
+   ],
+   "inference": "A throatless fire-pit causes obstruction of speech, and a deficient pit causes lack of success.",
+   "uncertainties": [],
+   "plain_english": "In a fire-pit without a throat there would be obstruction of speech, and in a deficient excavation there would be failure."
+  },
+  {
+   "verse": 2215,
+   "rows": [
+    {
+     "surface": "vyādhayaḥ",
+     "gloss": "diseases",
+     "grounds": "negative consequences",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saṃpravartante",
+     "gloss": "arise",
+     "grounds": "verb indicating occurrence",
+     "morph": "3.pl.present.middle of sam-pra-vṛt"
+    },
+    {
+     "surface": "viyonau",
+     "gloss": "in-wrong-yoni",
+     "grounds": "locative compound naming a defective condition",
+     "morph": "compound: vi+yoni; n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative stating consequence",
+     "morph": "3.sg.optative of as"
+    },
+    {
+     "surface": "apasmṛtiḥ",
+     "gloss": "forgetfulness",
+     "grounds": "negative consequence",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What afflictions arise when the fire-pit has a wrongly formed yoni?",
+   "premises": [
+    "The yoni must be correctly formed.",
+    "A wrongly formed yoni is a defect.",
+    "This defect leads to diseases and forgetfulness."
+   ],
+   "inference": "A wrongly formed yoni causes diseases to arise and brings forgetfulness.",
+   "uncertainties": [],
+   "plain_english": "Diseases arise in a fire-pit with a wrongly formed yoni, and there would be forgetfulness."
+  },
+  {
+   "verse": 2216,
+   "rows": [
+    {
+     "surface": "catur+viṃśatikaṃ",
+     "gloss": "twenty-fourth",
+     "grounds": "compound specifying a fractional division",
+     "morph": "compound: catur+viṃśatika; m.acc.sg"
+    },
+    {
+     "surface": "bhāgam",
+     "gloss": "portion",
+     "grounds": "object of determination",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṃgulam",
+     "gloss": "finger-width",
+     "grounds": "unit identified with the portion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-determine",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative of pari-kḷp"
+    }
+   ],
+   "question": "How should the finger-width be determined as a fractional portion?",
+   "premises": [
+    "A precise subdivision is required.",
+    "The portion is the twenty-fourth part.",
+    "This portion should be taken as a finger-width."
+   ],
+   "inference": "One should determine a finger-width as the twenty-fourth part.",
+   "uncertainties": [
+    "The whole of which this is the twenty-fourth part is implied by prior context."
+   ],
+   "plain_english": "One should determine a finger-width as the twenty-fourth part."
+  },
+  {
+   "verse": 2217,
+   "rows": [
+    {
+     "surface": "yoniṃ",
+     "gloss": "yoni",
+     "grounds": "object to be formed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "su+śobhanām",
+     "gloss": "very-beautiful",
+     "grounds": "compound describing the desired quality",
+     "morph": "compound: su+śobhana; f.acc.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "somewhat",
+     "grounds": "adverb qualifying depth",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimnām",
+     "gloss": "deep",
+     "grounds": "describes the yoni's depression",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "unnālikām",
+     "gloss": "raised-channel",
+     "grounds": "describes the raised channel feature",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śanaiḥ",
+     "gloss": "gradually",
+     "grounds": "adverb indicating gentle formation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualities should characterize the properly formed yoni of the fire-pit?",
+   "premises": [
+    "The yoni must be carefully shaped.",
+    "It should be very beautiful and somewhat deep.",
+    "It should have a gradually raised channel."
+   ],
+   "inference": "The yoni should be made very beautiful, somewhat deep, and with a gently raised channel.",
+   "uncertainties": [],
+   "plain_english": "One should make the yoni very beautiful, somewhat deep, and with a gently raised channel."
+  },
+  {
+   "verse": 2218,
+   "rows": [
+    {
+     "surface": "kumbha+dvaya+samāyuktām",
+     "gloss": "joined-with-two-pots",
+     "grounds": "compound describing the yoni's form",
+     "morph": "compound: kumbha+dvaya+samāyukta; f.acc.sg"
+    },
+    {
+     "surface": "aśvattha+dala+sannibhām",
+     "gloss": "like-aśvattha-leaf",
+     "grounds": "compound giving a visual comparison",
+     "morph": "compound: aśvattha+dala+sannibha; f.acc.sg"
+    }
+   ],
+   "question": "What shape and resemblance should the properly formed yoni display?",
+   "premises": [
+    "The yoni's form is specified by comparison.",
+    "It should appear joined with two pots.",
+    "It should resemble an aśvattha leaf."
+   ],
+   "inference": "The yoni should be shaped like two joined pots and resemble an aśvattha leaf.",
+   "uncertainties": [],
+   "plain_english": "It should be joined like two pots and resemble an aśvattha leaf."
+  },
+  {
+   "verse": 2219,
+   "rows": [
+    {
+     "surface": "aṣṭā+aṃgulaiḥ",
+     "gloss": "with-eight-finger-widths",
+     "grounds": "instrumental compound specifying width",
+     "morph": "compound: aṣṭan+aṃgula; n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistīrṇā",
+     "gloss": "spread-wide",
+     "grounds": "describes the width",
+     "morph": "f.nom.sg; ppp of vi-stṛ"
+    },
+    {
+     "surface": "cāyatā",
+     "gloss": "and-long",
+     "grounds": "describes the length; sandhi joins ca and āyatā",
+     "morph": "compound: ca+āyata; f.nom.sg"
+    },
+    {
+     "surface": "dvādaśa+aṃgulaiḥ",
+     "gloss": "with-twelve-finger-widths",
+     "grounds": "instrumental compound specifying length",
+     "morph": "compound: dvādaśan+aṃgula; n.inst.pl"
+    }
+   ],
+   "question": "What width and length measurements are prescribed for the yoni?",
+   "premises": [
+    "The yoni requires fixed dimensions.",
+    "Its width is eight finger-widths.",
+    "Its length is twelve finger-widths."
+   ],
+   "inference": "The yoni should be eight finger-widths wide and twelve finger-widths long.",
+   "uncertainties": [],
+   "plain_english": "It should be eight finger-widths wide and twelve finger-widths long."
+  },
+  {
+   "verse": 2220,
+   "rows": [
+    {
+     "surface": "mekhalā+artham",
+     "gloss": "for-girdle-purpose",
+     "grounds": "compound indicating the intended use",
+     "morph": "compound: mekhalā+artha; n.acc.sg"
+    },
+    {
+     "surface": "pṛthag+bhūmiḥ",
+     "gloss": "separate-ground",
+     "grounds": "compound naming additional space",
+     "morph": "compound: pṛthak+bhūmi; f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāhyā",
+     "gloss": "to-be-taken",
+     "grounds": "prescriptive gerundive",
+     "morph": "f.nom.sg; gerundive of grah"
+    },
+    {
+     "surface": "bāhyataḥ",
+     "gloss": "from-outside",
+     "grounds": "adverb indicating external addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Should separate external ground be taken for constructing the girdle?",
+   "premises": [
+    "Space might be considered for the girdle.",
+    "The instruction addresses the beloved.",
+    "Separate ground must not be taken from outside."
+   ],
+   "inference": "No separate external ground should be taken for the purpose of the girdle.",
+   "uncertainties": [],
+   "plain_english": "O beloved, separate ground for the girdle should not be taken from outside."
+  },
+  {
+   "verse": 2221,
+   "rows": [
+    {
+     "surface": "vibhajya",
+     "gloss": "having-divided",
+     "grounds": "absolutive indicating prior division",
+     "morph": "absolutive of vi-bhaj"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to the established measure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "f.nom.pl; gerundive of kṛ"
+    },
+    {
+     "surface": "mekhalā+kaṇṭha+nābhayaḥ",
+     "gloss": "girdle-throat-navel",
+     "grounds": "compound listing the three features to be formed",
+     "morph": "compound: mekhalā+kaṇṭha+nābhi; f.nom.pl"
+    }
+   ],
+   "question": "How should the girdle, throat, and navel features be formed from the given measure?",
+   "premises": [
+    "The established measure is to be used.",
+    "It must be divided appropriately.",
+    "The girdle, throat, and navel are to be made from it."
+   ],
+   "inference": "By dividing that measure, one should make the girdle, throat, and navel.",
+   "uncertainties": [],
+   "plain_english": "Having divided by that measure, one should make the girdle, throat, and navel."
+  },
+  {
+   "verse": 2222,
+   "rows": [
+    {
+     "surface": "pañcamasya",
+     "gloss": "of-fifth",
+     "grounds": "ordinal specifying which fire-pit",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍasya",
+     "gloss": "of-fire-pit",
+     "grounds": "genitive specifying the subject",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "yoni",
+     "grounds": "feature whose position is specified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇa+dik+sthitā",
+     "gloss": "situated-in-south-direction",
+     "grounds": "compound specifying location",
+     "morph": "compound: dakṣiṇa+diś+sthita; f.nom.sg"
+    }
+   ],
+   "question": "Where must the yoni be situated in the case of the fifth fire-pit?",
+   "premises": [
+    "The fifth fire-pit has specific requirements.",
+    "The yoni's position is prescribed.",
+    "It must be situated in the southern direction."
+   ],
+   "inference": "For the fifth fire-pit, the yoni should be situated in the southern direction.",
+   "uncertainties": [],
+   "plain_english": "For the fifth fire-pit also, the yoni is situated in the southern direction."
+  },
+  {
+   "verse": 2223,
+   "rows": [
+    {
+     "surface": "tridvyeka+aṃgula+vistāram",
+     "gloss": "three-two-one-finger-width",
+     "grounds": "compound specifying successive widths",
+     "morph": "compound: tri+dvi+eka+aṃgula+vistāra; m.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "ablative adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyūna+agram",
+     "gloss": "lessened-tip",
+     "grounds": "compound describing tapering at the tip",
+     "morph": "compound: nyūna+agra; m.acc.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "states the prescribed form",
+     "morph": "3.sg.present.passive of iṣ"
+    }
+   ],
+   "question": "How should the width taper toward the tip in the prescribed sequence?",
+   "premises": [
+    "The width is specified in a sequence.",
+    "The measures are three, two, and one finger-widths.",
+    "The tip is desired to be gradually lessened."
+   ],
+   "inference": "The form is desired to taper gradually from three to two to one finger-width at the tip.",
+   "uncertainties": [
+    "The exact feature being tapered is implied by the preceding context."
+   ],
+   "plain_english": "It is desired to have a width of three, two, and one finger-widths in sequence, with a gradually lessened tip."
+  },
+  {
+   "verse": 2224,
+   "rows": [
+    {
+     "surface": "aṣṭa+cchadam",
+     "gloss": "eight-petaled",
+     "grounds": "compound describing the lotus",
+     "morph": "compound: aṣṭan+chada; n.acc.sg"
+    },
+    {
+     "surface": "sarojam",
+     "gloss": "lotus",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidadhyāt",
+     "gloss": "should-make",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative of vi-dhā"
+    },
+    {
+     "surface": "cāru+vigraham",
+     "gloss": "beautiful-form",
+     "grounds": "compound describing the desired appearance",
+     "morph": "compound: cāru+vigraha; n.acc.sg"
+    }
+   ],
+   "question": "What kind of lotus should be fashioned within the ritual construction?",
+   "premises": [
+    "A lotus is to be made in the construction.",
+    "It must have eight petals.",
+    "It should have a beautiful form."
+   ],
+   "inference": "One should fashion an eight-petaled lotus of beautiful form.",
+   "uncertainties": [],
+   "plain_english": "One should make an eight-petaled lotus of beautiful form."
+  }
+ ]
+}
