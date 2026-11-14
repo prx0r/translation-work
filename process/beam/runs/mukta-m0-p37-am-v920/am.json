@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p37",
  "verse": 920,
- "question": "What actions did the kings take before confronting Bāhu?",
+ "question": "What is quickly destroyed among snakes, lords, buffaloes, and horses?",
  "premises": [
-  "The kings consulted together.",
-  "They crossed the ocean.",
-  "These actions occurred at that time."
+  "snake lord buffalo horse are named",
+  "destruction occurs quickly"
  ],
- "inference": "The kings consulted and then crossed the ocean.",
- "uncertainties": [],
- "plain_english": "Then the kings, having consulted together and crossed the ocean..."
+ "inference": "Snakes, lords, buffaloes, and horses are quickly destroyed.",
+ "uncertainties": [
+  "whether all or selected targets"
+ ],
+ "plain_english": "Snakes, lords, buffaloes, and horses are quickly destroyed."
 }

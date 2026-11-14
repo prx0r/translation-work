@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "homatarpaṇabhedāṃśca",
+     "gloss": "homa-tarpana-difference-portions-and",
+     "grounds": "compound of homa, tarpana, bheda, and aṃśa with enclitic ca; sandhi in aṃśca",
+     "morph": "compound (homa+tarpana+bheda+aṃśa)+enclitic ca; m.acc.pl.n"
+    },
+    {
+     "surface": "yantrāṇi",
+     "gloss": "yantras",
+     "grounds": "neuter plural noun",
+     "morph": "n.nom/acc.pl.n"
+    },
+    {
+     "surface": "phalabhedataḥ",
+     "gloss": "fruit-difference-wise",
+     "grounds": "compound of phala and bheda with tas suffix",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which homa tarpana portions and yantras are distinguished according to fruit differences?",
+   "premises": [
+    "Homa and tarpana portions are distinguished.",
+    "Yantras are distinguished.",
+    "Distinction follows fruit differences."
+   ],
+   "inference": "The verse groups homa-tarpana portions and yantras under fruit-based differentiation.",
+   "uncertainties": [
+    "Exact syntactic relation of ca and case of aṃśa are not recoverable from the isolated verse."
+   ],
+   "plain_english": "And the portions of homa and tarpana, and yantras, according to differences of fruit."
+  }
+ ]
+}

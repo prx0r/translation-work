@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "raktotpalaiḥ",
+     "gloss": "with-red-lotus",
+     "grounds": "instrumental plural of raktotpala, red lotus",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "raktakumudaiḥ",
+     "gloss": "with-red-kumuda",
+     "grounds": "instrumental plural of raktakumuda, red kumuda flower",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "Which red flowers are to be used in this rite?",
+   "premises": [
+    "red lotuses are prescribed",
+    "red kumudas are prescribed",
+    "both are instrumental offerings"
+   ],
+   "inference": "The rite employs red lotuses and red kumudas as offering materials.",
+   "uncertainties": [
+    "exact ritual function of each flower is not stated in this verse"
+   ],
+   "plain_english": "With red lotuses and red kumudas."
+  }
+ ]
+}
