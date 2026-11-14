@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable expressing manner; repeated for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable expressing manner; repeated for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result or reward of worship",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating what is stated",
+     "morph": "n.nom.sg ppp (pra-vac)"
+    },
+    {
+     "surface": "bhaktānāṃ",
+     "gloss": "of-devotees",
+     "grounds": "those devoted in worship",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kilbiṣaṃ",
+     "gloss": "sin",
+     "grounds": "fault or moral taint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit is proclaimed for devotees when no sin is incurred?",
+   "premises": [
+    "The fruit is declared in the same manner as before.",
+    "This declared fruit pertains to devotees.",
+    "No sin is present in this case."
+   ],
+   "inference": "Devotees receive the proclaimed fruit without incurring sin.",
+   "uncertainties": [
+    "The exact scope of 'tathā tathā' relative to the preceding verse is contextually inferred."
+   ],
+   "plain_english": "Thus, thus is the fruit declared for devotees; there is no sin."
+  }
+ ]
+}
