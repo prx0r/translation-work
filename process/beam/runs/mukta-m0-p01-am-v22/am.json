@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 22,
- "question": "What vital composition and life-goal bestowal are attributed to the described syllable?",
+ "question": "How do the heroes ward off the irresistible source of change arising from the moon?",
  "premises": [
-  "The syllable consists of the five vital breaths.",
-  "The syllable bestows the four aims of life.",
-  "These attributes belong to the same syllable."
+  "There is an irresistible source of change.",
+  "This source is associated with the moon.",
+  "Heroes ward it off."
  ],
- "inference": "The syllable composed of five vital breaths bestows the four aims of life.",
- "uncertainties": [],
- "plain_english": "O goddess, it consists of the five vital breaths and bestows the four aims of life."
+ "inference": "The heroes possess the power to ward off the moon's irresistible influence that causes change.",
+ "uncertainties": [
+  "The syntax is compressed; 'induḥ' may function differently in the full context."
+ ],
+ "plain_english": "They ward off for the heroes the irresistible source of change of the moon."
 }

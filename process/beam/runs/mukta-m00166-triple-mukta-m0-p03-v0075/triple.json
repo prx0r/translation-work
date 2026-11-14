@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "nirghṛṣṭau",
+     "gloss": "rubbed-worn",
+     "grounds": "past passive participle indicating wear from friction",
+     "morph": "m.nom.du.ppp (nir-ghṛṣ)"
+    },
+    {
+     "surface": "caraṇau",
+     "gloss": "two-feet",
+     "grounds": "dual subject of the simile",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "particle introducing comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhipatitum",
+     "gloss": "to-rush-upon",
+     "grounds": "infinitive expressing purpose or directed readiness",
+     "morph": "(inf.) (abhi-pat)"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "in-middle",
+     "grounds": "locative or adverbial sense indicating central position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "standing",
+     "grounds": "past passive participle describing position",
+     "morph": "m.nom.du.ppp (sthā)"
+    },
+    {
+     "surface": "udyatau",
+     "gloss": "risen-ready",
+     "grounds": "past passive participle indicating readiness to act",
+     "morph": "m.nom.du.ppp (ud-yam)"
+    }
+   ],
+   "question": "What state of poised readiness is conveyed by feet worn yet eager to advance?",
+   "premises": [
+    "The two feet are described as rubbed and worn.",
+    "They are positioned standing in the middle.",
+    "They are risen and ready to rush forward."
+   ],
+   "inference": "Despite wear from effort, a poised readiness to advance remains active in the middle position.",
+   "uncertainties": [
+    "The exact referent of the dual subjects is not explicit within this verse alone."
+   ],
+   "plain_english": "Like two feet rubbed worn, standing in the middle, risen and ready to rush forward."
+  }
+ ]
+}

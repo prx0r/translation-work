@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 634,
- "question": "What formula follows after extracting the omaiṃ syllable in this instruction?",
+ "question": "Where should the syllables be placed first in this ritual arrangement?",
  "premises": [
-  "The omaiṃ syllable is extracted first.",
-  "The name Bhautika is given in dative form.",
-  "The formula includes a pada again."
+  "Syllables are to be placed.",
+  "The placement is specified as first.",
+  "Sumeru and the tail are named as satisfying loci."
  ],
- "inference": "After extracting the omaiṃ syllable, one should add the pada 'to Bhautika'.",
- "uncertainties": [],
- "plain_english": "Then, having extracted the omaiṃ syllable, one adds again the word 'to Bhautika'."
+ "inference": "The syllables should first be placed at Sumeru and the satisfying tail.",
+ "uncertainties": [
+  "The syntactic relation between sumerum and puccham is compressed and ambiguous."
+ ],
+ "plain_english": "Indeed, the syllables to be placed should first be set at Sumeru and at the satisfying tail."
 }

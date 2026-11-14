@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 608,
- "question": "Which mantra and power are to be placed on the back?",
+ "question": "Whose bathing is specifically praised during the eclipse of moon and sun?",
  "premises": [
-  "The mantra namaste rudra ending with obeisance is specified.",
-  "The power of fearlessness is to be placed.",
-  "The location is the back."
+  "The occasion is the eclipse of moon and sun.",
+  "Bathing at that time is the act in question.",
+  "That bathing is praised."
  ],
- "inference": "One should place the namaste rudra mantra ending with obeisance and fearlessness on the back.",
- "uncertainties": [],
- "plain_english": "One should place the 'namaste rudra' formula ending with obeisance and fearlessness on the back."
+ "inference": "Bathing during the eclipse of moon and sun is especially praised.",
+ "uncertainties": [
+  "The referent of 'tasya' is contextually implied rather than explicit."
+ ],
+ "plain_english": "At the eclipse of the moon and sun, that bathing is praised."
 }
