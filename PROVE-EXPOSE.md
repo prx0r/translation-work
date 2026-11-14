@@ -78,6 +78,10 @@ Two tools on the `shastra` server (`mcp_server.py`, 34 tools total):
   `tools/make_readable.py`. Unaudited works are reported **BLOCKED**, never
   served.
 
+- **`shastra.make_traces(work="", served_untraced=false, all=false, rebuild=false)`** —
+  the trace fan-out. Builds then re-verifies one trika-trace/1 bundle per
+  passage. Idempotent, fail-closed per bundle. Backed by `tools/make_traces.py`.
+
 CLI equivalents:
 
 ```bash
@@ -85,6 +89,7 @@ python3 tools/serve_audit.py                 # full scorecard
 python3 tools/serve_audit.py --work kularnavatantra --json
 python3 tools/make_readable.py --work tantrasara-a13
 python3 tools/make_readable.py --all --publish     # audit+project+publish
+python3 tools/make_traces.py --served-untraced      # trace fan-out for served works lacking traces
 ```
 
 ## 5. What this session fixed / found (2026-11-14)
@@ -134,7 +139,7 @@ At scale, the expose step is a post-promotion hook:
    `make_readable --all` is the batch form; it is safe to re-run (idempotent).
 3. **Trace step:** only for works with a trika-x bundle. New gold works need a
    bundle first: `trace_bundle.py --work W --target T` per passage (41 built
-   this session). A `make_traces` driver (todo) would batch this exactly like
+   this session; `tools/make_traces.py` now does exactly this
    `make_readable`.
 4. **Publish once:** after the batch, run the svread chain once
    (`emit_traces → verify → claim → discovery → release_manifest`), not per
