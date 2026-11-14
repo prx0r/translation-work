@@ -3,39 +3,39 @@
  "verse": 1324,
  "rows": [
   {
-   "lemma": "nāśaya",
-   "morph": "2.sg.imperative of nāś",
-   "grounds": "imperative command in mantra"
+   "lemma": "mṛtyu",
+   "morph": "mṛtyu+roga (compound)",
+   "grounds": "first member of compound listing afflictions"
   },
   {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "quotation marker"
+   "lemma": "roga",
+   "morph": "mṛtyu+roga+bhaya (compound)",
+   "grounds": "second member of compound listing afflictions"
   },
   {
-   "lemma": "padaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "mantra component"
+   "lemma": "bhaya",
+   "morph": "mṛtyu+roga+bhaya+kleśāḥ (compound)",
+   "grounds": "third member of compound listing afflictions"
   },
   {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "lemma": "kleśāḥ",
+   "morph": "nom.pl.m",
+   "grounds": "collective harms to be expelled"
   },
   {
-   "lemma": "uktvā",
-   "morph": "(indecl.), gerund of vac",
-   "grounds": "action preceding next step"
+   "lemma": "patantu",
+   "morph": "3.pl.act.impv. (√pat)",
+   "grounds": "wish for afflictions to fall away"
   },
   {
-   "lemma": "pāśaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "ritual weapon or implement"
+   "lemma": "ripu",
+   "morph": "ripu+mastake (compound)",
+   "grounds": "first member of compound naming the target"
   },
   {
-   "lemma": "krodha+astra+saṃyutam",
-   "morph": "m.acc.sg, compound=tatpuruṣa+tatpuruṣa+tatpuruṣa",
-   "grounds": "compound: krodha+astra+saṃyuta; joined with the wrath weapon"
+   "lemma": "mastake",
+   "morph": "loc.sg.n",
+   "grounds": "location where afflictions are directed"
   }
  ]
 }

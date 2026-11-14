@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1323,
- "question": "What wrathful thunderbolt weapon and great mantra of the wrath king are invoked?",
+ "question": "What must the best practitioner recite before proceeding with the next ritual act?",
  "premises": [
-  "A wrathful thunderbolt weapon beginning with poison is named.",
-  "A great mantra of the wrath king is named.",
-  "Both are objects of invocation."
+  "Recitation is prescribed as a first step",
+  "A specific verse is to be recited",
+  "The best practitioner performs this recitation"
  ],
- "inference": "The invocation includes the wrathful thunderbolt weapon beginning with poison and the great mantra of the wrath king.",
- "uncertainties": [
-  "The specific items included in viṣa+ādi are not enumerated here."
- ],
- "plain_english": "The wrathful thunderbolt weapon beginning with poison and the great mantra of the wrath king."
+ "inference": "The best practitioner should first recite this verse.",
+ "uncertainties": [],
+ "plain_english": "The best practitioner should first recite this verse."
 }

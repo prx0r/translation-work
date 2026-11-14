@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p530",
+ "items": [
+  {
+   "verse": 13250,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "conclusive particle referring to the preceding method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddha+manuḥ",
+     "gloss": "accomplished-mantra",
+     "grounds": "bahuvrihi compound describing the practitioner as one whose mantra is perfected",
+     "morph": "compound: siddha+manuḥ (bahuvrihi, m.nom.sg)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "agent possessing and employing the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "marvādi+nirjala+sthale",
+     "gloss": "in-desert-and-other-waterless-place",
+     "grounds": "compound locating action in barren terrain: maru-ādi (desert-etc.) + nirjala (waterless) + sthala (place)",
+     "morph": "compound: maru-ādi+nirjala+sthala (n.loc.sg)"
+    }
+   ],
+   "question": "What capability does mantra accomplishment grant the practitioner in barren environments?",
+   "premises": [
+    "The preceding method establishes a purifying and empowering efficacy.",
+    "A practitioner whose mantra is accomplished possesses this efficacy.",
+    "Desert and other waterless places ordinarily present severe obstacles."
+   ],
+   "inference": "Mantra accomplishment enables the practitioner to operate effectively even in desert and other waterless places.",
+   "uncertainties": [
+    "The specific activity implied in such places is unstated and supplied by context."
+   ],
+   "plain_english": "Thus the practitioner whose mantra is accomplished can act even in a desert or other waterless place."
+  }
+ ]
+}

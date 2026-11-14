@@ -3,29 +3,34 @@
  "verse": 1320,
  "rows": [
   {
-   "lemma": "susiddhaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "favorable status"
+   "lemma": "kṛta",
+   "morph": "kṛta+añjaliḥ (compound)",
+   "grounds": "first member of compound describing the gesture"
   },
   {
-   "lemma": "tri+saptake",
-   "morph": "n.loc.sg, compound=dvigu+tatpuruṣa",
-   "grounds": "compound: tri+saptaka; group of three and seven"
+   "lemma": "añjaliḥ",
+   "morph": "nom.sg.m",
+   "grounds": "gesture of reverence"
   },
   {
-   "lemma": "rudre",
-   "morph": "m.loc.sg",
-   "grounds": "category or position"
+   "lemma": "pūtaḥ",
+   "morph": "nom.sg.m (ppp. √pū)",
+   "grounds": "state of the practitioner"
   },
   {
-   "lemma": "dvādaśa+aṣṭa+caturṣu",
-   "morph": "m.loc.pl, compound=dvandva+dvandva+dvandva",
-   "grounds": "compound: dvādaśa+aṣṭa+catur; groups of twelve, eight, four"
+   "lemma": "vāma",
+   "morph": "vāma+dakṣiṇa (compound)",
+   "grounds": "first member of compound naming sides"
   },
   {
-   "lemma": "ariḥ",
-   "morph": "m.nom.sg",
-   "grounds": "unfavorable status"
+   "lemma": "dakṣiṇa",
+   "morph": "vāma+dakṣiṇa+pārśvayoḥ (compound)",
+   "grounds": "second member of compound naming sides"
+  },
+  {
+   "lemma": "pārśvayoḥ",
+   "morph": "loc.du.n",
+   "grounds": "location relative to the practitioner"
   }
  ]
 }
