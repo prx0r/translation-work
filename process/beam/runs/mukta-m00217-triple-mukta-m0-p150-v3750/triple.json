@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner adverb referring to the previously described practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣatrayam",
+     "gloss": "three-hundred-thousand",
+     "grounds": "object of japtvā indicating the number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive expressing completed recitation",
+     "morph": "gerund (√jap)"
+    },
+    {
+     "surface": "vratasthaḥ",
+     "gloss": "abiding-in-vow",
+     "grounds": "compound describing the practitioner's disciplined state",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "supreme-adept",
+     "grounds": "compound designating the highest practitioner",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What disciplined recitation establishes the practitioner as the supreme adept while abiding in the vow?",
+   "premises": [
+    "The practitioner abides steadfastly in the prescribed vow.",
+    "The practitioner chants three hundred thousand repetitions in this manner.",
+    "Such vow-bound recitation characterizes the supreme adept."
+   ],
+   "inference": "Therefore, chanting three hundred thousand repetitions while abiding in the vow establishes the supreme adept.",
+   "uncertainties": [
+    "lakṣatrayam is taken as three hundred thousand recitations, following the common sense of lakṣa."
+   ],
+   "plain_english": "Thus, having chanted three hundred thousand times in this way while abiding in the vow, one is the supreme adept."
+  }
+ ]
+}

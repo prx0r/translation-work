@@ -1,0 +1,889 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3576,
+   "rows": [
+    {
+     "surface": "tadvidhānam",
+     "gloss": "that-procedure",
+     "grounds": "points to the procedure to be explained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "introduces consequence or next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-declare",
+     "grounds": "speaker announces forthcoming teaching",
+     "morph": "1.sg.middle-future √vac"
+    },
+    {
+     "surface": "caitra+ādyaṃ",
+     "gloss": "beginning-with-Caitra",
+     "grounds": "compound marking start of period",
+     "morph": "compound: caitra+ādyam (n.acc.sg)"
+    },
+    {
+     "surface": "phālguna+avadhi",
+     "gloss": "ending-with-Phalguna",
+     "grounds": "compound marking end of period",
+     "morph": "compound: phālguna+avadhi (n.acc.sg)"
+    }
+   ],
+   "question": "What temporal span frames the procedure about to be declared?",
+   "premises": [
+    "The speaker announces a procedure to be declared.",
+    "The declared span begins with Caitra.",
+    "The declared span ends with Phalguna."
+   ],
+   "inference": "The forthcoming procedure is framed within the annual cycle from Caitra to Phalguna.",
+   "uncertainties": [],
+   "plain_english": "Therefore I will declare that procedure, beginning with Caitra and ending with Phalguna."
+  },
+  {
+   "verse": 3577,
+   "rows": [
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "of-both",
+     "grounds": "refers to both periods or sides",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "kāmya+karmāṇi",
+     "gloss": "desire-driven-rites",
+     "grounds": "rites performed for specific wishes",
+     "morph": "compound: kāmya+karma (n.nom.pl)"
+    },
+    {
+     "surface": "ca+iti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative marker",
+     "morph": "compound: ca+iti (indecl.)"
+    },
+    {
+     "surface": "śāstrasya",
+     "gloss": "of-scripture",
+     "grounds": "source of authoritative ruling",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nirṇayaḥ",
+     "gloss": "determination",
+     "grounds": "conclusive ruling or decision",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What authoritative ruling governs desire-driven rites in both periods?",
+   "premises": [
+    "Desire-driven rites pertain to both periods.",
+    "The scripture provides a determination.",
+    "This determination applies to those rites."
+   ],
+   "inference": "The scripture's determination establishes that desire-driven rites are valid in both periods.",
+   "uncertainties": [],
+   "plain_english": "Desire-driven rites belong to both, and this is the determination of the scripture."
+  },
+  {
+   "verse": 3578,
+   "rows": [
+    {
+     "surface": "pūrva+pakṣa",
+     "gloss": "bright-fortnight",
+     "grounds": "waxing half of the lunar month",
+     "morph": "compound: pūrva+pakṣa (m.loc.sg implied context)"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "specific lunar day for rite",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "time of ritual performance",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "preparatory installation action",
+     "morph": "absolutive √sthā with sam"
+    },
+    {
+     "surface": "vidyayā",
+     "gloss": "by-mantra",
+     "grounds": "ritual empowerment through sacred formula",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "When and by what means must the ritual installation be performed?",
+   "premises": [
+    "The rite is set on the fourteenth day of the bright fortnight.",
+    "The performance takes place at night.",
+    "Installation is accomplished by means of the mantra."
+   ],
+   "inference": "The ritual installation must be performed at night on the bright fortnight's fourteenth day using the mantra.",
+   "uncertainties": [],
+   "plain_english": "On the fourteenth day of the bright fortnight, at night, having established it by the mantra."
+  },
+  {
+   "verse": 3579,
+   "rows": [
+    {
+     "surface": "asmin+māse",
+     "gloss": "in-this-month",
+     "grounds": "locates rite in current month",
+     "morph": "compound: asmin+māse (m.loc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇāyāṃ",
+     "gloss": "on-full-moon",
+     "grounds": "lunar day of fullness",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vasanta+utsava+pūjanam",
+     "gloss": "spring-festival-worship",
+     "grounds": "worship performed for spring festival",
+     "morph": "compound: vasanta+utsava+pūjanam (n.nom.sg)"
+    }
+   ],
+   "question": "What special worship is prescribed on the full moon of this month?",
+   "premises": [
+    "The instruction applies in this month.",
+    "The occasion is the full moon.",
+    "The prescribed act is spring festival worship."
+   ],
+   "inference": "Spring festival worship is prescribed on the full moon of this month.",
+   "uncertainties": [],
+   "plain_english": "And in this month, on the full moon, there is the worship of the spring festival."
+  },
+  {
+   "verse": 3580,
+   "rows": [
+    {
+     "surface": "saugandhikaiḥ",
+     "gloss": "with-fragrant-flowers",
+     "grounds": "aromatic offerings for worship",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sakāśmīraiḥ",
+     "gloss": "with-saffron",
+     "grounds": "offerings mixed with saffron",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual act of honoring",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrva+duvaj+jvalām",
+     "gloss": "blazing-as-before",
+     "grounds": "worship shining like previous rite",
+     "morph": "compound: pūrva+duvaj+jvalām (f.acc.sg)"
+    }
+   ],
+   "question": "With what offerings should the worship blaze as in the previous rite?",
+   "premises": [
+    "Worship is to be performed.",
+    "Fragrant flowers and saffron are specified offerings.",
+    "The worship should blaze as before."
+   ],
+   "inference": "Worship with fragrant flowers and saffron should be performed in a blazing manner as before.",
+   "uncertainties": [
+    "Exact sense of duvaj in pūrva+duvaj+jvalām is uncertain."
+   ],
+   "plain_english": "Perform the worship with fragrant flowers and saffron, blazing as before."
+  },
+  {
+   "verse": 3581,
+   "rows": [
+    {
+     "surface": "api+vā",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative",
+     "morph": "compound: api+vā (indecl.)"
+    },
+    {
+     "surface": "candra+kastūrī+candanaiḥ",
+     "gloss": "with-camphor-musk-sandal",
+     "grounds": "alternative fragrant substances",
+     "morph": "compound: candra+kastūrī+candanaiḥ (n.ins.pl)"
+    },
+    {
+     "surface": "śiśira+udakaiḥ",
+     "gloss": "with-cool-waters",
+     "grounds": "cooling liquid offerings",
+     "morph": "compound: śiśira+udakaiḥ (n.ins.pl)"
+    }
+   ],
+   "question": "What alternative substances may be used for the worship offerings?",
+   "premises": [
+    "An alternative to previous offerings is given.",
+    "Camphor, musk, and sandal are permitted.",
+    "Cool waters are also permitted."
+   ],
+   "inference": "The worship may alternatively use camphor, musk, sandal, and cool waters.",
+   "uncertainties": [],
+   "plain_english": "Or else, with camphor, musk, sandal, and cool waters."
+  },
+  {
+   "verse": 3582,
+   "rows": [
+    {
+     "surface": "phalaiḥ+tu",
+     "gloss": "but-with-fruits",
+     "grounds": "specifies fruits as offerings",
+     "morph": "compound: phalaiḥ+tu (n.ins.pl + indecl.)"
+    },
+    {
+     "surface": "pūjayet+devīṃ",
+     "gloss": "one-should-worship-goddess",
+     "grounds": "injunction to worship the goddess",
+     "morph": "compound: pūjayet+devīm (3.sg.optative √pūj + f.acc.sg)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "follow previous procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+siddhaye",
+     "gloss": "for-all-accomplishment",
+     "grounds": "purpose of the worship",
+     "morph": "compound: sarva+siddhaye (f.dat.sg)"
+    }
+   ],
+   "question": "For what purpose should the goddess be worshipped with fruits as before?",
+   "premises": [
+    "The goddess should be worshipped with fruits.",
+    "The procedure follows the previous manner.",
+    "The aim is all accomplishment."
+   ],
+   "inference": "Worshipping the goddess with fruits as before is performed for the sake of all accomplishment.",
+   "uncertainties": [],
+   "plain_english": "But one should worship the goddess with fruits, as before, for the attainment of all accomplishments."
+  },
+  {
+   "verse": 3583,
+   "rows": [
+    {
+     "surface": "elā+kakkola+jātībhiḥ+upetaiḥ",
+     "gloss": "with-cardamom-kakkola-jasmine",
+     "grounds": "specific aromatic substances combined",
+     "morph": "compound: elā+kakkola+jātībhiḥ+upetaiḥ (n.ins.pl)"
+    },
+    {
+     "surface": "pūjayet+śivām",
+     "gloss": "one-should-worship-Śivā",
+     "grounds": "injunction to worship the auspicious goddess",
+     "morph": "compound: pūjayet+śivām (3.sg.optative √pūj + f.acc.sg)"
+    }
+   ],
+   "question": "With which aromatic substances should Śivā be worshipped?",
+   "premises": [
+    "Śivā is the object of worship.",
+    "Cardamom, kakkola, and jasmine are specified.",
+    "These substances are to be used together."
+   ],
+   "inference": "Śivā should be worshipped with cardamom, kakkola, and jasmine.",
+   "uncertainties": [
+    "Exact botanical identification of kakkola and jātī may vary."
+   ],
+   "plain_english": "One should worship Śivā with cardamom, kakkola, and jasmine."
+  },
+  {
+   "verse": 3584,
+   "rows": [
+    {
+     "surface": "tadvidhānam",
+     "gloss": "that-procedure",
+     "grounds": "refers to the procedure mentioned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "points to present teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "O-auspicious-one",
+     "grounds": "vocative address to listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen attentively",
+     "morph": "2.sg.imperative √śru"
+    },
+    {
+     "surface": "saubhāgya+dāyakam",
+     "gloss": "giving-good-fortune",
+     "grounds": "describes the benefit of the procedure",
+     "morph": "compound: saubhāgya+dāyakam (n.acc.sg)"
+    }
+   ],
+   "question": "What benefit is attributed to the procedure the listener is asked to hear?",
+   "premises": [
+    "The speaker addresses the auspicious one.",
+    "The listener is commanded to hear this procedure.",
+    "The procedure is described as giving good fortune."
+   ],
+   "inference": "The procedure to be heard confers good fortune.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, hear this procedure, which bestows good fortune."
+  },
+  {
+   "verse": 3585,
+   "rows": [
+    {
+     "surface": "kārpāsa+saṃbhavaiḥ",
+     "gloss": "born-from-cotton",
+     "grounds": "material origin of threads",
+     "morph": "compound: kārpāsa+saṃbhavaiḥ (m.ins.pl)"
+    },
+    {
+     "surface": "raktaiḥ",
+     "gloss": "red",
+     "grounds": "color of the threads",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "nava+dhā",
+     "gloss": "ninefold",
+     "grounds": "manner of multiplication",
+     "morph": "compound: nava+dhā (indecl.)"
+    },
+    {
+     "surface": "guṇitaiḥ",
+     "gloss": "multiplied",
+     "grounds": "threads increased in count",
+     "morph": "m.ins.pl past-passive-participle √guṇ"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "quality of the threads",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What kind of threads are specified for preparing the ritual item?",
+   "premises": [
+    "Threads are born from cotton.",
+    "The threads are red and auspicious.",
+    "The threads are multiplied ninefold."
+   ],
+   "inference": "The ritual requires auspicious red cotton threads multiplied ninefold.",
+   "uncertainties": [],
+   "plain_english": "With auspicious red threads born from cotton, multiplied ninefold."
+  },
+  {
+   "verse": 3586,
+   "rows": [
+    {
+     "surface": "nava+aṃgulaiḥ+vā",
+     "gloss": "or-nine-finger-lengths",
+     "grounds": "alternative measurement unit",
+     "morph": "compound: nava+aṃgulaiḥ+vā (n.ins.pl + indecl.)"
+    },
+    {
+     "surface": "tad+saṃkhyā+sūtra+granthyādi+saṃyutam",
+     "gloss": "joined-with-that-count-threads-knots-etc",
+     "grounds": "item equipped with corresponding threads and knots",
+     "morph": "compound: tad+saṃkhyā+sūtra+granthyādi+saṃyutam (n.acc.sg)"
+    }
+   ],
+   "question": "How should the ritual item be measured and equipped with threads and knots?",
+   "premises": [
+    "A measure of nine finger-lengths is given as an option.",
+    "The item must include threads of that count.",
+    "Knots and related elements are included."
+   ],
+   "inference": "The ritual item should be made to a nine-finger measure and equipped with the corresponding number of threads, knots, and so on.",
+   "uncertainties": [],
+   "plain_english": "Or of nine finger-lengths, joined with that number of threads, knots, and so forth."
+  },
+  {
+   "verse": 3587,
+   "rows": [
+    {
+     "surface": "kṛtvā+adhivāsa+pūrvaṃ",
+     "gloss": "having-done-consecration-first",
+     "grounds": "preliminary consecration before worship",
+     "morph": "compound: kṛtvā+adhivāsa+pūrvam (absolutive + n.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks procedural emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction to perform worship",
+     "morph": "3.sg.optative √pūj"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-them",
+     "grounds": "uses the prepared items",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "yathā+kramāt",
+     "gloss": "in-proper-order",
+     "grounds": "follow prescribed sequence",
+     "morph": "compound: yathā+kramāt (indecl.)"
+    }
+   ],
+   "question": "In what sequence should worship be performed after consecrating the prepared items?",
+   "premises": [
+    "Consecration must be done first.",
+    "Worship is performed with those items.",
+    "The worship must follow the proper order."
+   ],
+   "inference": "After first consecrating them, one should worship with those items in the proper order.",
+   "uncertainties": [],
+   "plain_english": "Having first performed the consecration, one should worship with them in the proper order."
+  },
+  {
+   "verse": 3588,
+   "rows": [
+    {
+     "surface": "aṣṭottara+śataiḥ+sūtraiḥ",
+     "gloss": "with-one-hundred-eight-threads",
+     "grounds": "specified number of threads",
+     "morph": "compound: aṣṭottara+śataiḥ+sūtraiḥ (n.ins.pl)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunction to perform action",
+     "morph": "3.sg.optative √kṛ"
+    },
+    {
+     "surface": "śakti+avatārakam",
+     "gloss": "descent-of-power",
+     "grounds": "ritual act invoking power",
+     "morph": "compound: śakti+avatārakam (n.acc.sg)"
+    }
+   ],
+   "question": "What ritual act is accomplished using one hundred and eight threads?",
+   "premises": [
+    "One hundred and eight threads are specified.",
+    "An act called descent of power is to be made.",
+    "The threads are the means for this act."
+   ],
+   "inference": "Using one hundred and eight threads, one should effect the descent of power.",
+   "uncertainties": [],
+   "plain_english": "With one hundred and eight threads, one should perform the descent of power."
+  },
+  {
+   "verse": 3589,
+   "rows": [
+    {
+     "surface": "vārāhī+kurukullā+ādi+śaktīnāṃ",
+     "gloss": "of-Vārāhī-Kurukullā-and-other-powers",
+     "grounds": "names the powers involved",
+     "morph": "compound: vārāhī+kurukullā+ādi+śaktīnām (f.gen.pl)"
+    },
+    {
+     "surface": "mūla+śakti+vat",
+     "gloss": "like-root-power",
+     "grounds": "procedure modeled on root power",
+     "morph": "compound: mūla+śakti+vat (indecl.)"
+    }
+   ],
+   "question": "According to what model are the powers of Vārāhī, Kurukullā, and others invoked?",
+   "premises": [
+    "The powers include Vārāhī, Kurukullā, and others.",
+    "A model for invocation is indicated.",
+    "The model is that of the root power."
+   ],
+   "inference": "The powers of Vārāhī, Kurukullā, and others are invoked in the same manner as the root power.",
+   "uncertainties": [],
+   "plain_english": "For the powers of Vārāhī, Kurukullā, and others, it is done as for the root power."
+  },
+  {
+   "verse": 3590,
+   "rows": [
+    {
+     "surface": "krama+āgama+jña+śiṣyāṇām",
+     "gloss": "for-disciples-knowing-order-tradition",
+     "grounds": "qualified recipients of instruction",
+     "morph": "compound: krama+āgama+jña+śiṣyāṇām (m.gen.pl)"
+    },
+    {
+     "surface": "ātma+vat",
+     "gloss": "like-oneself",
+     "grounds": "procedure applied as to oneself",
+     "morph": "compound: ātma+vat (indecl.)"
+    },
+    {
+     "surface": "samudīritam",
+     "gloss": "declared",
+     "grounds": "authoritative statement given",
+     "morph": "n.nom.sg past-passive-participle √īr with sam+ud"
+    }
+   ],
+   "question": "How is the procedure declared for disciples who know the order and tradition?",
+   "premises": [
+    "The recipients are disciples knowing the order and tradition.",
+    "A manner of application is declared.",
+    "The manner is like that for oneself."
+   ],
+   "inference": "For disciples who know the order and tradition, the procedure is declared to be performed as for oneself.",
+   "uncertainties": [],
+   "plain_english": "For disciples who know the ritual order and tradition, it is declared to be done as for oneself."
+  },
+  {
+   "verse": 3591,
+   "rows": [
+    {
+     "surface": "paridhāna+pramāṇena",
+     "gloss": "by-garment-measure",
+     "grounds": "measurement standard for preparation",
+     "morph": "compound: paridhāna+pramāṇena (n.ins.sg)"
+    },
+    {
+     "surface": "maṇḍapasya+eka+sūtrataḥ",
+     "gloss": "by-single-thread-of-pavilion",
+     "grounds": "alternative measure based on pavilion thread",
+     "morph": "compound: maṇḍapasya+eka+sūtrataḥ (m.gen.sg + indecl.)"
+    }
+   ],
+   "question": "By what measurements may the ritual item be sized?",
+   "premises": [
+    "A garment measure is given as a standard.",
+    "A single thread of the pavilion is given as another standard.",
+    "These provide sizing options."
+   ],
+   "inference": "The ritual item may be sized by the measure of a garment or by a single thread of the pavilion.",
+   "uncertainties": [],
+   "plain_english": "By the measure of a garment, or by a single thread of the pavilion."
+  },
+  {
+   "verse": 3592,
+   "rows": [
+    {
+     "surface": "kṛtvā+pavitra+tritayaṃ",
+     "gloss": "having-made-three-sacred-threads",
+     "grounds": "preparation of three ritual items",
+     "morph": "compound: kṛtvā+pavitra+tritayam (absolutive + n.acc.sg)"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "refers back to the three items",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "one-should-offer",
+     "grounds": "injunction to dedicate items",
+     "morph": "3.sg.optative √ṛ with sam"
+    }
+   ],
+   "question": "What should be done with the three sacred threads once they are made?",
+   "premises": [
+    "Three sacred threads are to be made.",
+    "Those items are prepared for offering.",
+    "The goddess is the recipient."
+   ],
+   "inference": "After making the three sacred threads, one should offer them to the goddess.",
+   "uncertainties": [],
+   "plain_english": "Having made the three sacred threads, one should offer them to the goddess."
+  },
+  {
+   "verse": 3593,
+   "rows": [
+    {
+     "surface": "na+kuryāt",
+     "gloss": "one-should-not-do",
+     "grounds": "prohibition of an action",
+     "morph": "compound: na+kuryāt (indecl. + 3.sg.optative √kṛ)"
+    },
+    {
+     "surface": "mānasa+āṅkarya",
+     "gloss": "mental-disturbance",
+     "grounds": "inner confusion or agitation",
+     "morph": "compound: mānasa+āṅkarya (n.acc.sg)"
+    },
+    {
+     "surface": "yadi+kuryāt",
+     "gloss": "if-one-does",
+     "grounds": "conditional violation of prohibition",
+     "morph": "compound: yadi+kuryāt (indecl. + 3.sg.optative √kṛ)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "it-perishes",
+     "grounds": "negative consequence of violation",
+     "morph": "3.sg.active-present √naś with vi"
+    }
+   ],
+   "question": "What consequence follows from creating mental disturbance during the rite?",
+   "premises": [
+    "Mental disturbance must not be created.",
+    "A conditional case of doing so is considered.",
+    "The result of doing so is destruction."
+   ],
+   "inference": "If one creates mental disturbance, the rite perishes.",
+   "uncertainties": [
+    "Exact form and sense of āṅkarya is uncertain."
+   ],
+   "plain_english": "One should not create mental disturbance; if one does, it perishes."
+  },
+  {
+   "verse": 3594,
+   "rows": [
+    {
+     "surface": "hīnaḥ",
+     "gloss": "deficient",
+     "grounds": "describes the month as lesser",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhādrapado+māsaḥ",
+     "gloss": "Bhādrapada-month",
+     "grounds": "names the lunar month",
+     "morph": "compound: bhādrapado+māsaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "pakṣau",
+     "gloss": "two-fortnights",
+     "grounds": "the two halves of the month",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "sita+sita+itarau",
+     "gloss": "bright-and-dark",
+     "grounds": "waxing and waning fortnights",
+     "morph": "compound: sita+sita+itarau (m.nom.du)"
+    }
+   ],
+   "question": "How is the month of Bhādrapada characterized in terms of its fortnights?",
+   "premises": [
+    "The month of Bhādrapada is described as deficient.",
+    "It has two fortnights.",
+    "The fortnights are bright and dark."
+   ],
+   "inference": "Bhādrapada is characterized as a deficient month consisting of bright and dark fortnights.",
+   "uncertainties": [],
+   "plain_english": "The month of Bhādrapada is deficient, with its bright and dark fortnights."
+  },
+  {
+   "verse": 3595,
+   "rows": [
+    {
+     "surface": "caturdaśī+aṣṭamī+pūrṇamāsī+tithiṣu",
+     "gloss": "on-fourteenth-eighth-full-moon-days",
+     "grounds": "specified lunar days for worship",
+     "morph": "compound: caturdaśī+aṣṭamī+pūrṇamāsī+tithiṣu (f.loc.pl)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction to perform sacrifice or worship",
+     "morph": "3.sg.optative √yaj"
+    }
+   ],
+   "question": "On which lunar days should worship be performed in this period?",
+   "premises": [
+    "Specific lunar days are named.",
+    "These include the fourteenth, eighth, and full moon days.",
+    "Worship is enjoined on these days."
+   ],
+   "inference": "One should perform worship on the fourteenth, eighth, and full moon days.",
+   "uncertainties": [],
+   "plain_english": "Indeed, one should worship on the fourteenth, eighth, and full moon days."
+  },
+  {
+   "verse": 3596,
+   "rows": [
+    {
+     "surface": "prasūnaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "floral offerings for worship",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "arcayet+devīṃ",
+     "gloss": "one-should-honor-goddess",
+     "grounds": "injunction to worship the goddess",
+     "morph": "compound: arcayet+devīm (3.sg.optative √arc + f.acc.sg)"
+    },
+    {
+     "surface": "pūrvokta+vidhinā",
+     "gloss": "by-previously-stated-procedure",
+     "grounds": "follow earlier ritual method",
+     "morph": "compound: pūrvokta+vidhinā (m.ins.sg)"
+    },
+    {
+     "surface": "yutam",
+     "gloss": "joined",
+     "grounds": "in accordance with that procedure",
+     "morph": "n.acc.sg past-passive-participle √yu"
+    }
+   ],
+   "question": "How should the goddess be honored with flowers according to prior instruction?",
+   "premises": [
+    "The goddess is to be honored with flowers.",
+    "A previously stated procedure exists.",
+    "The worship must be joined with that procedure."
+   ],
+   "inference": "The goddess should be honored with flowers in accordance with the previously stated procedure.",
+   "uncertainties": [],
+   "plain_english": "One should honor the goddess with flowers, following the previously stated procedure."
+  },
+  {
+   "verse": 3597,
+   "rows": [
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "marks commencement of worship",
+     "morph": "absolutive √rabh with ā"
+    },
+    {
+     "surface": "pūjayet+devīṃ",
+     "gloss": "one-should-worship-goddess",
+     "grounds": "injunction to worship the goddess",
+     "morph": "compound: pūjayet+devīm (3.sg.optative √pūj + f.acc.sg)"
+    },
+    {
+     "surface": "gandha+puṣpa+upahārakaiḥ",
+     "gloss": "with-fragrance-flower-offerings",
+     "grounds": "materials used in worship",
+     "morph": "compound: gandha+puṣpa+upahārakaiḥ (n.ins.pl)"
+    }
+   ],
+   "question": "With what offerings should the worship of the goddess commence?",
+   "premises": [
+    "Worship of the goddess is to begin.",
+    "Fragrance, flowers, and offerings are specified.",
+    "These are the means of worship."
+   ],
+   "inference": "One should begin worshipping the goddess with fragrances, flowers, and offerings.",
+   "uncertainties": [],
+   "plain_english": "Beginning the rite, one should worship the goddess with fragrances, flowers, and offerings."
+  },
+  {
+   "verse": 3598,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "a-thousand",
+     "grounds": "number of oblations or repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "juhuyāt+nityaṃ",
+     "gloss": "one-should-offer-daily",
+     "grounds": "daily fire offering injunction",
+     "morph": "compound: juhuyāt+nityam (3.sg.optative √hu + indecl.)"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-also",
+     "grounds": "adds recitation to offering",
+     "morph": "compound: ca+eva (indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to carry out practice",
+     "morph": "3.sg.optative √car with sam+ā"
+    }
+   ],
+   "question": "What daily practices of offering and recitation are enjoined?",
+   "premises": [
+    "A thousand offerings are to be made daily.",
+    "Recitation is also to be performed.",
+    "Both practices are enjoined."
+   ],
+   "inference": "One should daily make a thousand offerings and also perform recitation.",
+   "uncertainties": [
+    "Whether sahasraṃ qualifies offerings, recitations, or both is slightly ambiguous."
+   ],
+   "plain_english": "One should daily offer a thousand oblations and also perform recitation."
+  },
+  {
+   "verse": 3599,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "completion of fire offering",
+     "morph": "absolutive √hu"
+    },
+    {
+     "surface": "bhūṣaṇa+vastra+ādi+dakṣiṇāṃ",
+     "gloss": "ornaments-clothes-and-other-gifts",
+     "grounds": "ritual gifts to be given",
+     "morph": "compound: bhūṣaṇa+vastra+ādi+dakṣiṇām (f.acc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samudvaset",
+     "gloss": "one-should-conclude",
+     "grounds": "formal conclusion of rite",
+     "morph": "3.sg.optative √vas with sam+ud"
+    }
+   ],
+   "question": "What concluding actions follow the fire offering in this rite?",
+   "premises": [
+    "The fire offering is completed first.",
+    "Gifts such as ornaments and clothes are given.",
+    "The rite is then formally concluded."
+   ],
+   "inference": "After offering, one should give gifts of ornaments, clothes, and the like, and then conclude the rite.",
+   "uncertainties": [],
+   "plain_english": "Having made the offering, and having given gifts such as ornaments and clothes, one should conclude the rite."
+  }
+ ]
+}

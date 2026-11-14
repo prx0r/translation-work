@@ -3,24 +3,29 @@
  "verse": 3387,
  "rows": [
   {
-   "lemma": "pādātpādavivṛddhyā",
-   "morph": "n.ins.sg.f",
-   "grounds": "pāda+āt+pāda+vivṛddhi"
+   "lemma": "etatpūrvam",
+   "morph": "compound=n.acc.sg",
+   "grounds": "compound: etat+pūrvam"
   },
   {
-   "lemma": "tu",
+   "lemma": "adhaḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
+   "grounds": "positional marker in arrangement"
   },
   {
-   "lemma": "tridaṇḍāntaṃ",
-   "morph": "n.acc.sg.n",
-   "grounds": "tri+daṇḍa+anta"
+   "lemma": "proktacatuṣṭayam",
+   "morph": "compound=n.acc.sg",
+   "grounds": "compound: prokta+catuṣṭayam"
   },
   {
-   "lemma": "prakalpayet",
-   "morph": "v.3.sg.act-opt",
-   "grounds": "pra+kalp"
+   "lemma": "ataḥ",
+   "morph": "(indecl.)",
+   "grounds": "transition marker"
+  },
+  {
+   "lemma": "param",
+   "morph": "(indecl.)",
+   "grounds": "next in sequence"
   }
  ]
 }
