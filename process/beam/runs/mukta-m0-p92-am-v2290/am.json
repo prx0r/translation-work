@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p92",
  "verse": 2290,
- "question": "What range of proportions based on pillar diameter is allowed for the measurement?",
+ "question": "What is the name given to a knot that turns in a clockwise direction?",
  "premises": [
-  "The pillar diameter serves as the base measure.",
-  "The proportion begins at double that measure.",
-  "The proportion extends up to nine times that measure."
+  "A knot turns in a clockwise direction",
+  "This specific knot has a designated name",
+  "The name is brahma-knot"
  ],
- "inference": "The measurement may range from twice to nine times the pillar diameter.",
- "uncertainties": [
-  "The architectural element to which this range applies is implied by context."
- ],
- "plain_english": "Using the pillar’s diameter as the measure, it may range from double up to nine times."
+ "inference": "A clockwise-turning knot is called the brahma-knot.",
+ "uncertainties": [],
+ "plain_english": "That clockwise-turning knot is called the brahma-knot."
 }

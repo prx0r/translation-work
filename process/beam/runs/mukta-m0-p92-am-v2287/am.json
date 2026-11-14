@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p92",
  "verse": 2287,
- "question": "How should the given measure be subdivided to derive the required parts?",
+ "question": "What are the consequences of using beads of the lowest and inferior quality?",
  "premises": [
-  "The previously mentioned measure is taken as the base.",
-  "It is divided into nine parts.",
-  "Portions from one up to four parts are then used."
+  "A chickpea-like bead is the lowest grade",
+  "A bead inferior to that is worse",
+  "The inferior bead causes disaster"
  ],
- "inference": "The given measure should be divided into nine and then apportioned using from one up to four of those parts.",
- "uncertainties": [
-  "The specific application of the one-to-four-part selection is not detailed here."
- ],
- "plain_english": "Having divided that measure into nine parts, one should use from one up to four of those parts."
+ "inference": "Beads smaller or worse than the chickpea-sized lowest grade bring disaster.",
+ "uncertainties": [],
+ "plain_english": "The lowest is like a chickpea; inferior to that, it causes disaster."
 }

@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "vanyasiddhiḥ",
+     "gloss": "forest-accomplishment",
+     "grounds": "compound of vanya (forest/wild) and siddhi (accomplishment/success)",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "śārdūlāttasya",
+     "gloss": "of-tiger-attacked-one",
+     "grounds": "compound of śārdūla (tiger) and atta (attacked/eaten) with possessive ending; refers to one seized by a tiger",
+     "morph": "compound; m.gen.sg"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "names the divine powers associated with the stated condition",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What accomplishment and deities are associated with one attacked by a tiger?",
+   "premises": [
+    "A forest accomplishment is named in this context.",
+    "The condition concerns one attacked by a tiger.",
+    "Specific deities are identified for that condition."
+   ],
+   "inference": "The verse assigns a forest accomplishment and corresponding deities to the case of a person attacked by a tiger.",
+   "uncertainties": [
+    "The exact referent of devatāḥ may depend on the preceding verses.",
+    "The precise ritual sense of vanyasiddhiḥ in this context is not fully explicit."
+   ],
+   "plain_english": "There is forest accomplishment, and for one attacked by a tiger, these are the deities."
+  }
+ ]
+}

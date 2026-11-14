@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "śaivagāṇeśaśāktānāṃ",
+     "gloss": "of-shaiva-ganesha-shakta-followers",
+     "grounds": "dvandva compound of śaiva, gāṇeśa, and śākta denoting adherents of those paths",
+     "morph": "compound gen.pl.m"
+    },
+    {
+     "surface": "hutasiddhiḥ",
+     "gloss": "oblation-accomplishment",
+     "grounds": "compound of huta (oblation) and siddhi (accomplishment)",
+     "morph": "compound nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "adversative or specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tajjapāt",
+     "gloss": "from-recitation-of-that",
+     "grounds": "compound of tad (that) and japa (recitation), referring to the previously mentioned recitation",
+     "morph": "compound abl.sg.m"
+    }
+   ],
+   "question": "What grants oblation-accomplishment to Shaiva Ganesha and Shakta practitioners?",
+   "premises": [
+    "Recitation of that mantra produces various accomplishments.",
+    "Shaiva Ganesha and Shakta practitioners seek oblation-accomplishment.",
+    "Oblation-accomplishment for these practitioners arises from recitation of that mantra."
+   ],
+   "inference": "Therefore recitation of that mantra grants oblation-accomplishment to Shaiva Ganesha and Shakta practitioners.",
+   "uncertainties": [
+    "The exact referent of 'that' in tajjapāt depends on the preceding verses."
+   ],
+   "plain_english": "But for followers of the Śaiva, Gāṇeśa, and Śākta paths, accomplishment through oblation comes from reciting that mantra."
+  }
+ ]
+}

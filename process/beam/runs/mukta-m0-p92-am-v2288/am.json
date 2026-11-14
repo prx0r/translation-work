@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p92",
  "verse": 2288,
- "question": "What measurement rule prescribed for the entablature applies to the neck component?",
+ "question": "How does the text describe progressively worse grades of beads below the inferior one?",
  "premises": [
-  "A measure is stated for the entablature.",
-  "The neck component is under consideration.",
-  "That same measure is prescribed in full for the neck."
+  "Grades below the inferior bead are considered",
+  "Each successive grade is lesser than the previous",
+  "The decline continues progressively"
  ],
- "inference": "The entire measure prescribed for the entablature is also prescribed for the neck.",
- "uncertainties": [],
- "plain_english": "The entire measure stated for the entablature is prescribed for the neck."
+ "inference": "Beads progressively smaller or worse than the inferior grade are increasingly unsuitable.",
+ "uncertainties": [
+  "The sentence continues into the next verse"
+ ],
+ "plain_english": "Worse than that is lesser, and worse than that is even lesser still."
 }
