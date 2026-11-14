@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p06",
  "verse": 147,
- "question": "With what materials and by whom is the drawing to be made?",
+ "question": "What action is prescribed at this point?",
  "premises": [
-  "Rochana and saffron are used.",
-  "Sandalwood is used.",
-  "Family-born persons use them."
+  "one should do the prescribed action",
+  "verse markers follow"
  ],
- "inference": "The verse lists rochana, saffron, and sandalwood as materials used by family-born persons.",
+ "inference": "The prescribed action should be done.",
  "uncertainties": [
-  "Exact family lineage is not specified."
+  "action unspecified in this fragment"
  ],
- "plain_english": "With rochana and saffron, and with sandalwood, by family-born persons."
+ "plain_english": "One should do it."
 }

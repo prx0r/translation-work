@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle connecting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cyarūpaṃ",
+     "gloss": "expressed-form",
+     "grounds": "compound expressing manifested form; accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sarvadevatātmatāṃ",
+     "gloss": "all-deity-nature",
+     "grounds": "compound of all, deity, and nature; accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle closing the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative aspects of mantra are declared alongside all-deity nature?",
+   "premises": [
+    "The verse lists alternatives with vā and ca.",
+    "It names expressed form and all-deity nature.",
+    "It closes with iti as quotation marker."
+   ],
+   "inference": "The mantra is presented as either expressed form or all-deity nature.",
+   "uncertainties": [
+    "The exact syntactic relation of cyarūpaṃ remains unclear.",
+    "The broader doctrinal referent of all-deity nature is not specified here."
+   ],
+   "plain_english": "Or expressed form, and all-deity nature, thus."
+  }
+ ]
+}
