@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "mahārājakramo",
+     "gloss": "great-king-sequence",
+     "grounds": "compound of great, king, and sequence; nominative singular masculine",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "passive present third singular of kath",
+     "morph": "3.sg.pass-pres (root kath)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative second singular of śru",
+     "morph": "2.sg.imp (root śru)"
+    },
+    {
+     "surface": "sāmpratam",
+     "gloss": "now",
+     "grounds": "adverbial temporal marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What great-king-sequence is now being revealed to the goddess?",
+   "premises": [
+    "The speaker addresses the goddess directly.",
+    "The great-king-sequence is being told now.",
+    "The listener is urged to hear it."
+   ],
+   "inference": "The verse announces the immediate revelation of the great-king-sequence to the goddess.",
+   "uncertainties": [
+    "The exact doctrinal referent of mahārājakrama is not specified in this verse.",
+    "sāmpratam functions as a temporal adverb rather than a technical term."
+   ],
+   "plain_english": "O goddess, the great-king-sequence is now being told; listen."
+  }
+ ]
+}

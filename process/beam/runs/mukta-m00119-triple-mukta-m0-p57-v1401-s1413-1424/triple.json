@@ -1,0 +1,509 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1413,
+   "rows": [
+    {
+     "surface": "pītamālyāmbaradharo",
+     "gloss": "yellow-garland-garment-wearing",
+     "grounds": "fused compound describing yellow garland and garment wearing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pītagehasamāsthitḥ",
+     "gloss": "yellow-house-dwelling",
+     "grounds": "fused compound describing dwelling in yellow house",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the practitioner's yellow garments, garlands, and dwelling be arranged for this goddess rite?",
+   "premises": [
+    "yellow garments and garlands are worn",
+    "yellow house dwelling is specified"
+   ],
+   "inference": "The rite requires yellow attire and a yellow dwelling setting.",
+   "uncertainties": [
+    "exact ritual role of the yellow house"
+   ],
+   "plain_english": "He wears yellow garlands and garments and dwells in a yellow house."
+  },
+  {
+   "verse": 1414,
+   "rows": [
+    {
+     "surface": "pītadravyopabhogī",
+     "gloss": "yellow-substance-enjoying",
+     "grounds": "fused compound describing enjoyment of yellow substances",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pītāsanasamanvitaḥ",
+     "gloss": "yellow-seat-endowed-with",
+     "grounds": "fused compound describing being endowed with yellow seat",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What yellow substances and seat must accompany the practitioner in this worship?",
+   "premises": [
+    "yellow substances are enjoyed",
+    "yellow seat is present"
+   ],
+   "inference": "The practitioner uses yellow substances and sits on a yellow seat.",
+   "uncertainties": [
+    "which yellow substances are intended"
+   ],
+   "plain_english": "He enjoys yellow substances and is endowed with a yellow seat."
+  },
+  {
+   "verse": 1415,
+   "rows": [
+    {
+     "surface": "rocanāṃ",
+     "gloss": "yellow-pigment",
+     "grounds": "accusative object placed on ground",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-ground",
+     "grounds": "locative place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃdadyāt",
+     "gloss": "one-should-place",
+     "grounds": "optative verb of placing",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kuṅkumaṃ",
+     "gloss": "saffron",
+     "grounds": "accusative offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "munipatrakam",
+     "gloss": "sage-leaf",
+     "grounds": "accusative offering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substances should be placed on the ground during the offering?",
+   "premises": [
+    "rocanā is placed on ground",
+    "saffron and sage leaf are included"
+   ],
+   "inference": "The ground offering includes rocanā, saffron, and sage leaf.",
+   "uncertainties": [
+    "exact identity of rocanā"
+   ],
+   "plain_english": "One should place rocanā on the ground, along with saffron and sage leaf."
+  },
+  {
+   "verse": 1416,
+   "rows": [
+    {
+     "surface": "haricandanadhūpena",
+     "gloss": "yellow-sandal-incense-by",
+     "grounds": "instrumental incense",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "dhūpitaḥ",
+     "gloss": "fumigated",
+     "grounds": "participle describing fumigation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the practitioner fumigated before addressing the supreme goddess?",
+   "premises": [
+    "yellow sandal incense is used",
+    "fumigation is performed"
+   ],
+   "inference": "The practitioner is fumigated with yellow sandal incense before addressing the goddess.",
+   "uncertainties": [
+    "whether fumigation is of person or space"
+   ],
+   "plain_english": "O supreme goddess, he is fumigated with yellow sandal incense."
+  },
+  {
+   "verse": 1417,
+   "rows": [
+    {
+     "surface": "sṛṣṭisthityantasaṃhāraḥ",
+     "gloss": "creation-maintenance-end-dissolution",
+     "grounds": "fused compound of cosmic functions",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhā",
+     "gloss": "threefold",
+     "grounds": "adjective modifying worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "locative time",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is worship classified by cosmic function in the kali age?",
+   "premises": [
+    "worship is threefold",
+    "creation maintenance and dissolution are named"
+   ],
+   "inference": "Worship is threefold, corresponding to creation, maintenance, and dissolution in kali age.",
+   "uncertainties": [
+    "exact mapping of threefold worship"
+   ],
+   "plain_english": "Worship is threefold—creation, maintenance, and dissolution—in the kali age."
+  },
+  {
+   "verse": 1418,
+   "rows": [
+    {
+     "surface": "arcanaṃ",
+     "gloss": "worship",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gauḍadeśe",
+     "gloss": "in-gauḍa-country",
+     "grounds": "locative place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitimārgaṃ",
+     "gloss": "maintenance-path",
+     "grounds": "accusative path",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kumārike",
+     "gloss": "o-young-girl",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where is worship identified with the maintenance path?",
+   "premises": [
+    "worship occurs in gauḍa country",
+    "maintenance path is named"
+   ],
+   "inference": "In gauḍa country, worship is the maintenance path.",
+   "uncertainties": [
+    "whether this is regional doctrine"
+   ],
+   "plain_english": "O young girl, worship in gauḍa country is indeed the maintenance path."
+  },
+  {
+   "verse": 1419,
+   "rows": [
+    {
+     "surface": "kāmarūpāgamannāma",
+     "gloss": "kāmarūpa-coming-named",
+     "grounds": "fused compound naming kāmarūpa coming",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃhārakramapūjane",
+     "gloss": "dissolution-sequence-worship",
+     "grounds": "locative worship sequence",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which scripture names kāmarūpa in dissolution-sequence worship?",
+   "premises": [
+    "kāmarūpa coming is named",
+    "dissolution sequence worship is locative"
+   ],
+   "inference": "The named kāmarūpa coming pertains to dissolution-sequence worship.",
+   "uncertainties": [
+    "exact scriptural reference"
+   ],
+   "plain_english": "Named as kāmarūpa coming, it concerns dissolution-sequence worship."
+  },
+  {
+   "verse": 1420,
+   "rows": [
+    {
+     "surface": "uktavān",
+     "gloss": "was-spoken",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āgame",
+     "gloss": "in-scripture",
+     "grounds": "locative scripture",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthityarcāṃ",
+     "gloss": "maintenance-worship",
+     "grounds": "accusative worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "putrake",
+     "gloss": "o-child",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What maintenance worship is spoken in scripture and to be heard?",
+   "premises": [
+    "it was spoken in scripture",
+    "maintenance worship is named"
+   ],
+   "inference": "The scripture speaks of maintenance worship, which the child should hear.",
+   "uncertainties": [
+    "identity of speaker and child"
+   ],
+   "plain_english": "It was spoken in scripture; hear, O child, the maintenance worship."
+  },
+  {
+   "verse": 1421,
+   "rows": [
+    {
+     "surface": "navoḍhāṃ",
+     "gloss": "newly-married",
+     "grounds": "accusative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "puṣpiṇīṃ",
+     "gloss": "menstruating",
+     "grounds": "accusative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārthayed",
+     "gloss": "one-should-request",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "viprakanyakām",
+     "gloss": "brahmin-maiden",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which newly married menstruating brahmin maiden should be requested?",
+   "premises": [
+    "newly married and menstruating are specified",
+    "brahmin maiden is requested"
+   ],
+   "inference": "The rite requests a newly married, menstruating brahmin maiden.",
+   "uncertainties": [
+    "purpose of request"
+   ],
+   "plain_english": "One should indeed request a newly married, menstruating brahmin maiden."
+  },
+  {
+   "verse": 1422,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhauma'vāre",
+     "gloss": "mars-day",
+     "grounds": "locative day with sandhi marker",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśāyāṃ",
+     "gloss": "at-night",
+     "grounds": "locative time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhṛguvāsare",
+     "gloss": "venus-day",
+     "grounds": "locative day",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "On which days and at what time may the rite be performed?",
+   "premises": [
+    "mars day is an option",
+    "night and venus day are specified"
+   ],
+   "inference": "The rite may be performed on mars day, at night, or on venus day.",
+   "uncertainties": [
+    "whether all conditions combine"
+   ],
+   "plain_english": "Or on mars day, and at night on venus day."
+  },
+  {
+   "verse": 1423,
+   "rows": [
+    {
+     "surface": "tūlikātalpam",
+     "gloss": "mattress-couch",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āstīrya",
+     "gloss": "having-spread",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udaṅmukhe",
+     "gloss": "facing-north",
+     "grounds": "locative orientation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the mattress couch be prepared and oriented?",
+   "premises": [
+    "mattress couch is brought",
+    "it is spread facing north"
+   ],
+   "inference": "The mattress couch is brought, spread, and oriented facing north.",
+   "uncertainties": [
+    "who performs the spreading"
+   ],
+   "plain_english": "Having brought and spread the mattress couch, facing north, then..."
+  },
+  {
+   "verse": 1424,
+   "rows": [
+    {
+     "surface": "karpūraṃ",
+     "gloss": "camphor",
+     "grounds": "accusative substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kastūrīmiśritaṃ",
+     "gloss": "musk-mixed",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandalwood",
+     "grounds": "accusative substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fragrant substances are mixed for the rite?",
+   "premises": [
+    "camphor is included",
+    "musk-mixed sandalwood is included"
+   ],
+   "inference": "The rite uses camphor and sandalwood mixed with musk.",
+   "uncertainties": [
+    "exact mixing proportions"
+   ],
+   "plain_english": "Camphor, and indeed sandalwood mixed with musk, likewise."
+  }
+ ]
+}

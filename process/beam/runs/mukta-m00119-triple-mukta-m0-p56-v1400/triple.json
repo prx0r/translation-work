@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-done",
+     "grounds": "passive participle used as prescription",
+     "morph": "fem.nom.sg.passive-participle (root kṛ)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "fem.voc.sg"
+    },
+    {
+     "surface": "sthairyyasaṅkāriṇī",
+     "gloss": "steadiness-causing",
+     "grounds": "compound: sthairya + saṅkāriṇī",
+     "morph": "fem.nom.sg.compound"
+    },
+    {
+     "surface": "japāt",
+     "gloss": "from-japa",
+     "grounds": "ablative of source or means",
+     "morph": "masc.abl.sg"
+    }
+   ],
+   "question": "What should be done to cause steadiness according to this instruction?",
+   "premises": [
+    "steadiness is caused by japa",
+    "the goddess is directly addressed",
+    "a prescribed action is commanded"
+   ],
+   "inference": "japa is the prescribed means for producing steadiness",
+   "uncertainties": [
+    "exact referent of kāryā remains unspecified"
+   ],
+   "plain_english": "Thus, O great goddess, the steadiness-causing rite should be done by japa."
+  }
+ ]
+}

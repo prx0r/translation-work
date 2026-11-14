@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "divyavarṇā",
+     "gloss": "divine-complexioned",
+     "grounds": "compound of divya (divine) and varṇā (complexion), describing the feminine form",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "kṛśāṅgī",
+     "gloss": "slender-bodied",
+     "grounds": "compound of kṛśa (slender) and aṅgī (bodied), feminine nominative singular",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining the descriptive epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divyagandhānulepanā",
+     "gloss": "divine-fragrance-anointed",
+     "grounds": "compound of divya (divine), gandha (fragrance), and anulepanā (anointed), feminine nominative singular",
+     "morph": "adj.f.nom.sg"
+    }
+   ],
+   "question": "Which bodily and fragrant qualities characterize the divine feminine form described here?",
+   "premises": [
+    "The form has divine complexion.",
+    "The form is slender-bodied.",
+    "The form is anointed with divine fragrance."
+   ],
+   "inference": "The verse presents a divine feminine form marked by complexion, slenderness, and fragrant anointing.",
+   "uncertainties": [
+    "Whether these epithets describe a goddess, yoginī, or ritual image is not explicit in the verse."
+   ],
+   "plain_english": "She is divine-complexioned, slender-bodied, and anointed with divine fragrance."
+  }
+ ]
+}

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1421,
- "question": "What claim is made about the goddess's necessity for the continued existence of the entire world?",
+ "question": "Which newly married menstruating brahmin maiden should be requested?",
  "premises": [
-  "The goddess is addressed as daughter of the mountain and sole mother of the world.",
-  "A counterfactual condition is posed regarding her absence.",
-  "The continued existence of the entire world is said not to be possible in that case."
+  "newly married and menstruating are specified",
+  "brahmin maiden is requested"
  ],
- "inference": "The goddess is asserted to be necessary for the very existence of the entire world.",
- "uncertainties": [],
- "plain_english": "It is true, O daughter of the mountain, sole mother of the world: if not for you, the existence of the entire world would not be."
+ "inference": "The rite requests a newly married, menstruating brahmin maiden.",
+ "uncertainties": [
+  "purpose of request"
+ ],
+ "plain_english": "One should indeed request a newly married, menstruating brahmin maiden."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1422,
- "question": "What quality of the goddess's body is highlighted by the image of supreme nectar?",
+ "question": "On which days and at what time may the rite be performed?",
  "premises": [
-  "The goddess's limbs are described as sprinkled with supreme nectar."
+  "mars day is an option",
+  "night and venus day are specified"
  ],
- "inference": "The goddess's body is portrayed as suffused with supreme nectar.",
+ "inference": "The rite may be performed on mars day, at night, or on venus day.",
  "uncertainties": [
-  "This verse is syntactically incomplete and continues in the following verses."
+  "whether all conditions combine"
  ],
- "plain_english": "Her limbs sprinkled with supreme nectar..."
+ "plain_english": "Or on mars day, and at night on venus day."
 }
