@@ -1,0 +1,949 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1726,
+   "rows": [
+    {
+     "surface": "taddhi",
+     "gloss": "that-indeed",
+     "grounds": "emphatic particle indicating the stated principle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyāsasūtraṃ",
+     "gloss": "arrangement-thread",
+     "grounds": "compound naming the measuring cord for layout",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "syājjñātavyā",
+     "gloss": "should-be-known",
+     "grounds": "gerundive expressing requirement with optative of as",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sūtrakalpanā",
+     "gloss": "thread-conception",
+     "grounds": "subject denoting the method of forming the cord",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How must the arrangement thread and its conception be understood?",
+   "premises": [
+    "The arrangement thread is the subject under consideration",
+    "Its conception must be properly known",
+    "The statement establishes a required understanding"
+   ],
+   "inference": "Therefore the method of conceiving the arrangement thread must be clearly understood.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the arrangement thread and the method of conceiving that thread must be properly understood."
+  },
+  {
+   "verse": 1727,
+   "rows": [
+    {
+     "surface": "teṣvekabhāgaṃ",
+     "gloss": "among-them-one-part",
+     "grounds": "compound indicating one division within a set",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "sūtrasya",
+     "gloss": "of-thread",
+     "grounds": "possessive relation to the thread",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "object denoting the unit of measurement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatprāṇa+ucyate",
+     "gloss": "that-life-is-called",
+     "grounds": "fused form naming that measure as prāṇa",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What measure of the thread is designated as its life-breath?",
+   "premises": [
+    "The thread is divided into parts",
+    "One part of the thread is taken as a measure",
+    "That measure is called prāṇa"
+   ],
+   "inference": "Therefore one part of the thread’s measure is defined as its prāṇa.",
+   "uncertainties": [],
+   "plain_english": "One part among them is the measure of the thread, and that is called its prāṇa."
+  },
+  {
+   "verse": 1728,
+   "rows": [
+    {
+     "surface": "prāṇavāyupramāṇena",
+     "gloss": "by-life-breath-measure",
+     "grounds": "instrumental compound indicating the standard of measurement",
+     "morph": "compound=n.ins.sg"
+    },
+    {
+     "surface": "śāstre'smin",
+     "gloss": "in-treatise-this",
+     "grounds": "locative phrase referring to the present scripture",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kīrtitāni+hi",
+     "gloss": "declared-indeed",
+     "grounds": "fused form asserting that things are taught in this text",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "By what standard are measures declared in this treatise?",
+   "premises": [
+    "This treatise declares specific measures",
+    "The standard used is the measure of the life-breath",
+    "The declaration is emphatic"
+   ],
+   "inference": "Therefore the measures in this treatise are defined by the prāṇa standard.",
+   "uncertainties": [],
+   "plain_english": "Indeed, in this treatise things are declared according to the measure of the life-breath."
+  },
+  {
+   "verse": 1729,
+   "rows": [
+    {
+     "surface": "prāṇavāyupramāṇena",
+     "gloss": "by-life-breath-measure",
+     "grounds": "instrumental compound giving the base unit",
+     "morph": "compound=n.ins.sg"
+    },
+    {
+     "surface": "dviguṇāś+cānuvaṃśakāḥ",
+     "gloss": "twofold-also-minor-bamboos",
+     "grounds": "fused form stating the anuvaṃśaka measures are double",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What multiple of the life-breath measure defines the minor bamboos?",
+   "premises": [
+    "The life-breath measure is the base unit",
+    "The anuvaṃśakas are measured relative to it",
+    "They are specified as twofold"
+   ],
+   "inference": "Therefore the minor bamboos are twice the prāṇa measure.",
+   "uncertainties": [],
+   "plain_english": "By the measure of the life-breath, the minor bamboos are twofold."
+  },
+  {
+   "verse": 1730,
+   "rows": [
+    {
+     "surface": "triguṇaś+ca+mahāvaṃśo",
+     "gloss": "threefold-also-great-bamboo",
+     "grounds": "fused form stating the mahāvaṃśa is triple",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāstumadhye",
+     "gloss": "in-site-middle",
+     "grounds": "locative compound indicating placement in the site center",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "predicate stating what is taught",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What multiple and location are prescribed for the great bamboo?",
+   "premises": [
+    "The great bamboo is measured relative to the base unit",
+    "It is specified as threefold",
+    "It is declared to be in the middle of the site"
+   ],
+   "inference": "Therefore the great bamboo is three times the base measure and placed in the site’s center.",
+   "uncertainties": [],
+   "plain_english": "The great bamboo is declared to be threefold and located in the middle of the site."
+  },
+  {
+   "verse": 1731,
+   "rows": [
+    {
+     "surface": "mahāsirāś+ca+tatrasthā",
+     "gloss": "great-veins-also-there-situated",
+     "grounds": "fused form identifying great veins located there",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karṇagatā",
+     "gloss": "ear-gone",
+     "grounds": "compound describing extension to the corners or ears",
+     "morph": "compound=f.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "predicate expressing the accepted view",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Where are the great veins situated and how do they extend?",
+   "premises": [
+    "Great veins are located in that context",
+    "They are situated in the middle",
+    "They are considered to extend to the ears"
+   ],
+   "inference": "Therefore the great veins are understood as central lines extending to the corners.",
+   "uncertainties": [
+    "karṇagatā may refer to corners or diagonal directions depending on architectural convention"
+   ],
+   "plain_english": "The great veins situated there are considered to be in the middle and extending to the corners."
+  },
+  {
+   "verse": 1732,
+   "rows": [
+    {
+     "surface": "mahāsirāś+cānusirāḥ",
+     "gloss": "great-veins-also-minor-veins",
+     "grounds": "fused form listing both great and minor veins",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "saṃjñeyās+tu",
+     "gloss": "to-be-named-but",
+     "grounds": "fused gerundive indicating designation",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "napuṃsakāḥ",
+     "gloss": "neuter",
+     "grounds": "classification term applied to these veins",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the great veins and minor veins classified in this system?",
+   "premises": [
+    "Both great veins and minor veins are under discussion",
+    "They are to be designated by a specific classification",
+    "That classification is neuter"
+   ],
+   "inference": "Therefore the great and minor veins are classified as neuter.",
+   "uncertainties": [],
+   "plain_english": "The great veins and the minor veins are to be designated as neuter."
+  },
+  {
+   "verse": 1733,
+   "rows": [
+    {
+     "surface": "mahāsirā+mahāmarmaparyante",
+     "gloss": "great-vein-great-vital-point-end",
+     "grounds": "compound locating the boundary between great vein and great vital point",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "sandhiḥ+iṣyate",
+     "gloss": "joint-desired",
+     "grounds": "fused form stating that a joint is prescribed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is a joint prescribed in relation to great veins and vital points?",
+   "premises": [
+    "A boundary between great vein and great vital point is identified",
+    "A joint is prescribed at that boundary",
+    "This is the accepted rule"
+   ],
+   "inference": "Therefore a joint is required at the end point between a great vein and a great vital point.",
+   "uncertainties": [],
+   "plain_english": "A joint is prescribed at the boundary between a great vein and a great vital point."
+  },
+  {
+   "verse": 1734,
+   "rows": [
+    {
+     "surface": "mahāśūlaṃ",
+     "gloss": "great-pain-point",
+     "grounds": "term for a major intersection or vulnerable point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "catuṣprāṇaṃ",
+     "gloss": "four-life-measures",
+     "grounds": "compound specifying its size as four prāṇas",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "triguṇaṃ+cānuśūlakam",
+     "gloss": "threefold-also-minor-pain-point",
+     "grounds": "fused form stating the minor śūla is threefold",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measures distinguish the great pain point from the minor pain point?",
+   "premises": [
+    "The great śūla has a defined measure",
+    "That measure is four prāṇas",
+    "The minor śūla is threefold"
+   ],
+   "inference": "Therefore the great śūla measures four prāṇas while the minor śūla is threefold.",
+   "uncertainties": [
+    "triguṇaṃ may mean three prāṇas or three times a base unit"
+   ],
+   "plain_english": "The great śūla is four prāṇas, and the minor śūla is threefold."
+  },
+  {
+   "verse": 1735,
+   "rows": [
+    {
+     "surface": "catuṣkaṃ+tu",
+     "gloss": "fourfold-but",
+     "grounds": "fused form introducing a fourfold configuration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "catuḥ+sūtraiḥ",
+     "gloss": "by-four-threads",
+     "grounds": "instrumental indicating formation by four cords",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ṣaṭkaṃ",
+     "gloss": "sixfold",
+     "grounds": "term for a sixfold configuration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭsūtrayogataḥ",
+     "gloss": "by-six-thread-union",
+     "grounds": "compound indicating formation by union of six cords",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are fourfold and sixfold configurations formed by threads?",
+   "premises": [
+    "A fourfold configuration is formed by four threads",
+    "A sixfold configuration is formed by six threads",
+    "The number of threads determines the configuration"
+   ],
+   "inference": "Therefore the fourfold and sixfold units arise respectively from four and six threads.",
+   "uncertainties": [],
+   "plain_english": "The fourfold is formed by four threads, and the sixfold by the union of six threads."
+  },
+  {
+   "verse": 1736,
+   "rows": [
+    {
+     "surface": "padasya+cāṣṭamāṃśena",
+     "gloss": "of-foot-also-eighth-part",
+     "grounds": "fused instrumental compound giving a fractional measure",
+     "morph": "compound=m.ins.sg"
+    },
+    {
+     "surface": "marmamānaṃ",
+     "gloss": "vital-point-measure",
+     "grounds": "compound naming the measure of a vital point",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "predicate stating the prescribed measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fraction of a foot defines the measure of a vital point?",
+   "premises": [
+    "The vital point has a prescribed measure",
+    "That measure is related to a foot unit",
+    "It is declared as one eighth of a foot"
+   ],
+   "inference": "Therefore the measure of a vital point is one eighth of a foot.",
+   "uncertainties": [],
+   "plain_english": "The measure of a vital point is declared to be one eighth of a foot."
+  },
+  {
+   "verse": 1737,
+   "rows": [
+    {
+     "surface": "trihastanirmite",
+     "gloss": "three-cubit-made",
+     "grounds": "compound describing a field constructed of three cubits",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "kṣetre",
+     "gloss": "in-field",
+     "grounds": "locative indicating the area of application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yavamānaṃ+tu",
+     "gloss": "barley-measure-but",
+     "grounds": "fused form specifying a barley-sized measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūtrakam",
+     "gloss": "small-thread",
+     "grounds": "diminutive term for the measuring thread",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What thread measure is prescribed for a field made of three cubits?",
+   "premises": [
+    "The field under consideration measures three cubits",
+    "A specific thread measure is prescribed for it",
+    "That measure is the size of a barley grain"
+   ],
+   "inference": "Therefore in a three-cubit field the thread should be of barley measure.",
+   "uncertainties": [],
+   "plain_english": "In a field made of three cubits, the thread should be of barley-grain measure."
+  },
+  {
+   "verse": 1738,
+   "rows": [
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative naming one prohibited location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vaṃśake",
+     "gloss": "in-bamboo",
+     "grounds": "locative naming another prohibited location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūle",
+     "gloss": "in-pain-point",
+     "grounds": "locative naming a śūla location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sūtrasandhau",
+     "gloss": "in-thread-joint",
+     "grounds": "locative compound naming a thread junction",
+     "morph": "compound=m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marmake",
+     "gloss": "in-vital-point",
+     "grounds": "locative naming a vital point location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which sensitive locations are listed as critical in the site layout?",
+   "premises": [
+    "Several specific locations in the layout are named",
+    "These include heart, bamboo, śūla, thread joint, and vital point",
+    "The list marks them as significant places"
+   ],
+   "inference": "Therefore these locations are identified as critical points in the layout.",
+   "uncertainties": [],
+   "plain_english": "In the heart, in the bamboo, in the śūla, in the thread joint, and in the vital point."
+  },
+  {
+   "verse": 1739,
+   "rows": [
+    {
+     "surface": "devālayādikaṃ",
+     "gloss": "temple-and-such",
+     "grounds": "compound referring to temples and similar structures",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "noktaṃ",
+     "gloss": "not-prescribed",
+     "grounds": "negated predicate indicating prohibition or non-recommendation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtañ+cet",
+     "gloss": "done-if",
+     "grounds": "fused conditional form introducing a consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulanāśanam",
+     "gloss": "family-destruction",
+     "grounds": "compound stating the harmful result",
+     "morph": "compound=n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows from building a temple in the listed critical locations?",
+   "premises": [
+    "Building a temple and such structures in those places is not prescribed",
+    "A conditional consequence is stated if it is done",
+    "The consequence is destruction of the family"
+   ],
+   "inference": "Therefore constructing a temple in those locations leads to family destruction.",
+   "uncertainties": [],
+   "plain_english": "A temple and such structures are not prescribed there; if done, it brings destruction to the family."
+  },
+  {
+   "verse": 1740,
+   "rows": [
+    {
+     "surface": "bhittistambhagṛhādīni",
+     "gloss": "wall-pillar-house-and-such",
+     "grounds": "compound listing structural elements to be built",
+     "morph": "compound=n.acc.pl"
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "should-cause-to-make",
+     "grounds": "optative causative prescribing action",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "compound identifying the qualified officiant",
+     "morph": "compound=m.nom.sg"
+    }
+   ],
+   "question": "Who should cause walls, pillars, and houses to be constructed?",
+   "premises": [
+    "Walls, pillars, houses, and similar structures are to be made",
+    "The action is prescribed as a duty",
+    "The best teacher is the agent responsible"
+   ],
+   "inference": "Therefore the best teacher should have such structures constructed.",
+   "uncertainties": [],
+   "plain_english": "The best teacher should cause walls, pillars, houses, and such structures to be built."
+  },
+  {
+   "verse": 1741,
+   "rows": [
+    {
+     "surface": "yadaṅgaṃ",
+     "gloss": "which-limb",
+     "grounds": "compound introducing a conditional body part of the site",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "of-site",
+     "grounds": "genitive relation to the site",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "martyasya",
+     "gloss": "of-mortal",
+     "grounds": "genitive indicating the affected person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bādhyate",
+     "gloss": "is-afflicted",
+     "grounds": "passive verb indicating harm or obstruction",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sarvakarmaṇi",
+     "gloss": "in-all-works",
+     "grounds": "locative compound indicating the context of all activities",
+     "morph": "compound=n.loc.sg"
+    }
+   ],
+   "question": "What condition of a mortal’s site-limb requires remedial action in all works?",
+   "premises": [
+    "A particular limb of the site corresponds to a mortal",
+    "That limb may be afflicted",
+    "The affliction occurs in the context of all works"
+   ],
+   "inference": "Therefore affliction of a site-limb affecting a mortal in all works signals a need for remedy.",
+   "uncertainties": [],
+   "plain_english": "When any limb of the site corresponding to a mortal is afflicted in all works."
+  },
+  {
+   "verse": 1742,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "locative indicating time for the ritual",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "object denoting the ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "subject indicating the qualified performer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahni",
+     "gloss": "by-day",
+     "grounds": "locative indicating alternative time context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "grāmādivāstuṣu",
+     "gloss": "in-village-and-such-sites",
+     "grounds": "locative compound specifying applicable sites",
+     "morph": "compound=n.loc.pl"
+    }
+   ],
+   "question": "When and where should the learned person perform the offering ritual?",
+   "premises": [
+    "An offering is prescribed as a remedy",
+    "The learned person should perform it at night",
+    "The context includes villages and similar sites by day"
+   ],
+   "inference": "Therefore the learned person should perform the offering at night for village and similar sites.",
+   "uncertainties": [
+    "the relation between night performance and daytime site context is syntactically compressed"
+   ],
+   "plain_english": "The learned person should make the offering at night, in the case of villages and other such sites by day."
+  },
+  {
+   "verse": 1743,
+   "rows": [
+    {
+     "surface": "susnāto",
+     "gloss": "well-bathed",
+     "grounds": "compound describing ritual purity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "navavastrastu",
+     "gloss": "new-garmented-but",
+     "grounds": "fused compound indicating fresh clothing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "soṣṇīṣaḥ",
+     "gloss": "with-turban",
+     "grounds": "compound describing head covering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sottarīyakaḥ",
+     "gloss": "with-upper-garment",
+     "grounds": "compound describing additional garment",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual attire and purity are required of the officiant?",
+   "premises": [
+    "The officiant must be ritually pure",
+    "The officiant must wear new garments",
+    "The officiant must wear a turban and upper garment"
+   ],
+   "inference": "Therefore the officiant should be well-bathed and properly dressed in new ritual attire.",
+   "uncertainties": [],
+   "plain_english": "He should be well-bathed, wearing new clothes, with a turban and an upper garment."
+  },
+  {
+   "verse": 1744,
+   "rows": [
+    {
+     "surface": "tādṛśena",
+     "gloss": "by-such",
+     "grounds": "instrumental referring back to the described state",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkartrā",
+     "gloss": "by-that-doer",
+     "grounds": "compound identifying the performer in that state",
+     "morph": "compound=m.ins.sg"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "endowed",
+     "grounds": "predicate indicating proper qualification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmedam",
+     "gloss": "work-this",
+     "grounds": "compound referring to the present ritual act",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing performance",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "Who is qualified to perform this ritual work and how should it be done?",
+   "premises": [
+    "The performer must be in the previously described state",
+    "Such a doer is properly qualified",
+    "This work should be performed by that qualified person"
+   ],
+   "inference": "Therefore a properly prepared performer should carry out this ritual work.",
+   "uncertainties": [],
+   "plain_english": "Endowed with such qualities, that performer should carry out this ritual."
+  },
+  {
+   "verse": 1745,
+   "rows": [
+    {
+     "surface": "uktvā",
+     "gloss": "having-spoken",
+     "grounds": "absolutive indicating a prior utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvā",
+     "gloss": "you",
+     "grounds": "object of the invocation formula",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "āvāhayāmi+iti",
+     "gloss": "I-invite-thus",
+     "grounds": "fused form quoting the invocation formula",
+     "morph": "1.sg.pres-act"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvāhyārcanam",
+     "gloss": "invitation-worship",
+     "grounds": "compound naming worship following invocation",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing the ritual sequence",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "What verbal formula and ritual sequence initiate the worship?",
+   "premises": [
+    "A formula saying 'I invite you' is uttered",
+    "Invocation precedes worship",
+    "The worship following invocation should be performed"
+   ],
+   "inference": "Therefore the officiant should utter the invitation formula and then perform invocation-worship.",
+   "uncertainties": [],
+   "plain_english": "Having said, 'I invite you,' he should perform the invocation and worship."
+  },
+  {
+   "verse": 1746,
+   "rows": [
+    {
+     "surface": "pādyādinikhilān",
+     "gloss": "water-and-such-all",
+     "grounds": "compound referring to all offerings beginning with water",
+     "morph": "compound=m.acc.pl"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive indicating prior offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svasvoktaṃ",
+     "gloss": "own-prescribed",
+     "grounds": "compound indicating what is prescribed for each recipient",
+     "morph": "compound=m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking the next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "object denoting the bali offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-cast",
+     "grounds": "optative prescribing the act of placing the offering",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "What sequence of offerings culminates in casting the prescribed bali?",
+   "premises": [
+    "All offerings beginning with water are given first",
+    "Each recipient has a prescribed bali",
+    "That prescribed bali should then be cast"
+   ],
+   "inference": "Therefore after giving the preliminary offerings, the officiant should cast the prescribed bali.",
+   "uncertainties": [],
+   "plain_english": "After giving water and all the other offerings, he should cast the bali prescribed for each."
+  },
+  {
+   "verse": 1747,
+   "rows": [
+    {
+     "surface": "phalāny",
+     "gloss": "fruits",
+     "grounds": "object denoting offerings of fruit",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "aryamaṇe",
+     "gloss": "to-Aryaman",
+     "grounds": "dative naming the recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative prescribing the offering",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "tilamāṣodanaṃ",
+     "gloss": "sesame-bean-rice",
+     "grounds": "compound naming a cooked offering",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation of the same instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific offerings should be given to Aryaman?",
+   "premises": [
+    "Aryaman is named as a recipient",
+    "Fruits are prescribed as an offering",
+    "Sesame, bean, and rice food is likewise prescribed"
+   ],
+   "inference": "Therefore one should give fruits and sesame-bean-rice to Aryaman.",
+   "uncertainties": [],
+   "plain_english": "One should give fruits to Aryaman, and likewise rice cooked with sesame and beans."
+  },
+  {
+   "verse": 1748,
+   "rows": [
+    {
+     "surface": "pṛthvīdharāya",
+     "gloss": "to-earth-holder",
+     "grounds": "dative naming the recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sadgandhān",
+     "gloss": "good-scents",
+     "grounds": "compound denoting fragrant substances",
+     "morph": "compound=m.acc.pl"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "should-cause-to-give",
+     "grounds": "causative optative prescribing the offering",
+     "morph": "3.sg.opt-caus"
+    },
+    {
+     "surface": "susamāhitaḥ",
+     "gloss": "well-concentrated",
+     "grounds": "compound describing the mental state of the officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offering and mental state are required when honoring Pṛthvīdhara?",
+   "premises": [
+    "Pṛthvīdhara is named as a recipient",
+    "Good scents are prescribed as the offering",
+    "The officiant must be well concentrated"
+   ],
+   "inference": "Therefore one should offer good scents to Pṛthvīdhara with full concentration.",
+   "uncertainties": [],
+   "plain_english": "To Pṛthvīdhara one should offer good scents, being well concentrated."
+  },
+  {
+   "verse": 1749,
+   "rows": [
+    {
+     "surface": "jayantāya",
+     "gloss": "to-Jayanta",
+     "grounds": "dative naming the recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "object denoting the offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative prescribing the offering",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "mahendraḥ",
+     "gloss": "Mahendra",
+     "grounds": "name of another deity in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuṣṭhabhāg",
+     "gloss": "leprosy-share",
+     "grounds": "compound indicating association with leprosy or its remedy portion",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative or present stating a condition or result",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "What offering is given to Jayanta and what condition is associated with Mahendra?",
+   "premises": [
+    "Ghee is prescribed as an offering to Jayanta",
+    "Mahendra is named in the same context",
+    "Mahendra is associated with a share related to kuṣṭha"
+   ],
+   "inference": "Therefore ghee should be given to Jayanta, while Mahendra is linked to the kuṣṭha portion.",
+   "uncertainties": [
+    "kuṣṭhabhāg may indicate a share of offering, an affliction, or a remedial association"
+   ],
+   "plain_english": "One should give ghee to Jayanta; Mahendra is associated with the portion related to leprosy."
+  }
+ ]
+}

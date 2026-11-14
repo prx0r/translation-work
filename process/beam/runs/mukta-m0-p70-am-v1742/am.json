@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1742,
- "question": "How long does subjugation of a woman last?",
+ "question": "When and where should the learned person perform the offering ritual?",
  "premises": [
-  "Each woman is subdued.",
-  "The subjugation lasts as long as life.",
-  "Wealth and similar means are involved."
+  "An offering is prescribed as a remedy",
+  "The learned person should perform it at night",
+  "The context includes villages and similar sites by day"
  ],
- "inference": "A woman is subdued for life by means of wealth and similar things.",
+ "inference": "Therefore the learned person should perform the offering at night for village and similar sites.",
  "uncertainties": [
-  "The exact ritual means are not specified."
+  "the relation between night performance and daytime site context is syntactically compressed"
  ],
- "plain_english": "A woman is subdued for life by wealth and similar means."
+ "plain_english": "The learned person should make the offering at night, in the case of villages and other such sites by day."
 }

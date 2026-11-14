@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "paryantāvaṭakena",
+     "gloss": "by-final-remainder",
+     "grounds": "instrumental of compound paryanta-avaṭaka; refers to the final divisor/remainder group in the calculation",
+     "morph": "compound+inst.sg.m"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle introducing an alternative or subsequent step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāraṃ",
+     "gloss": "weekday",
+     "grounds": "object to be determined in the calculation",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "saṃkalpayed",
+     "gloss": "one-should-determine",
+     "grounds": "optative expressing prescribed action; root kl̥p with sam",
+     "morph": "3.sg.opt.act+sam-√kl̥p"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "agent who performs the determination",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "By what final remainder-division should a wise person determine the weekday?",
+   "premises": [
+    "Previous steps divide the remainder by specified numerical divisors.",
+    "The final avaṭaka provides an alternative basis for calculation.",
+    "A wise person is enjoined to determine the weekday accordingly."
+   ],
+   "inference": "Therefore, the wise person should determine the weekday by means of the final avaṭaka.",
+   "uncertainties": [
+    "The exact numerical value or identity of paryantāvaṭaka in this procedural context is not fully specified in this verse alone."
+   ],
+   "plain_english": "Or else, by the final avaṭaka, the wise one should determine the weekday."
+  }
+ ]
+}

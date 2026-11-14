@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1735,
- "question": "How much is offered according to age?",
+ "question": "How are fourfold and sixfold configurations formed by threads?",
  "premises": [
-  "The amount is according to age.",
-  "It is numbered in hundred thousand syllables.",
-  "A tenth part is offered."
+  "A fourfold configuration is formed by four threads",
+  "A sixfold configuration is formed by six threads",
+  "The number of threads determines the configuration"
  ],
- "inference": "According to age, a tenth part of the hundred-thousand-syllable count is offered.",
- "uncertainties": [
-  "The exact age-based multiplier is not specified."
- ],
- "plain_english": "According to age, offer a tenth part of the hundred-thousand-syllable count."
+ "inference": "Therefore the fourfold and sixfold units arise respectively from four and six threads.",
+ "uncertainties": [],
+ "plain_english": "The fourfold is formed by four threads, and the sixfold by the union of six threads."
 }

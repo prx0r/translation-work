@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1717,
- "question": "Why does the servant stand before her?",
+ "question": "Which weekdays are assigned to the southern and southwestern directions?",
  "premises": [
-  "servant stands before her",
-  "aim is all-aims accomplishment",
-  "position is frontal"
+  "The southern direction is specified",
+  "The southwestern direction is specified",
+  "Thursday and Wednesday are assigned respectively"
  ],
- "inference": "the servant stands before her for accomplishment of all aims",
- "uncertainties": [
-  "identity of servant unspecified"
- ],
- "plain_english": "A servant stands before her for accomplishment of all aims."
+ "inference": "Thursday is assigned to the south and Wednesday to the southwest.",
+ "uncertainties": [],
+ "plain_english": "In the south should be Thursday, and in the southwest Wednesday."
 }

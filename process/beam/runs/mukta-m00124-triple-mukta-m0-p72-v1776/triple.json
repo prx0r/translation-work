@@ -1,0 +1,961 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1776,
+   "rows": [
+    {
+     "surface": "svagṛhe",
+     "gloss": "in-own-house",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anuśaivāḥ",
+     "gloss": "anuśaivas",
+     "grounds": "group designation",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "stu",
+     "gloss": "let-be",
+     "grounds": "optative/imperative sense in context",
+     "morph": "3.sg.imperative (as)"
+    },
+    {
+     "surface": "mahāvāntaraśaivakāḥ",
+     "gloss": "great-vāntara-śaivas",
+     "grounds": "compound group designation",
+     "morph": "mahā+vāntara+śaivakāḥ (compound, m.nom.pl)"
+    }
+   ],
+   "question": "Where should the anuśaivas and great vāntaraśaivas reside?",
+   "premises": [
+    "anuśaivas are mentioned as a group",
+    "great vāntaraśaivas are mentioned as a group",
+    "their residence is specified as one's own house"
+   ],
+   "inference": "The anuśaivas and great vāntaraśaivas should reside in their own houses.",
+   "uncertainties": [
+    "The exact nuance of stu in this context is slightly unclear."
+   ],
+   "plain_english": "But the anuśaivas and the great vāntaraśaivas should stay in their own houses."
+  },
+  {
+   "verse": 1777,
+   "rows": [
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "adverbial locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "m.nom.sg (kṛ)"
+    },
+    {
+     "surface": "deśikena",
+     "gloss": "by-teacher",
+     "grounds": "agent of action",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhīmatā",
+     "gloss": "by-wise",
+     "grounds": "qualifier of teacher",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Who may arrange the ritual activity in a single place as an alternative?",
+   "premises": [
+    "an alternative location is indicated",
+    "the action is to be done",
+    "the wise teacher is the agent"
+   ],
+   "inference": "Alternatively, the wise teacher may arrange it in one place.",
+   "uncertainties": [],
+   "plain_english": "Or else, it should be done in one place by the wise teacher."
+  },
+  {
+   "verse": 1778,
+   "rows": [
+    {
+     "surface": "maṇḍape",
+     "gloss": "in-pavilion",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapāyāṃ",
+     "gloss": "in-shed",
+     "grounds": "locative of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāstuhomaṃ",
+     "gloss": "vāstu-offering",
+     "grounds": "compound object of ritual",
+     "morph": "vāstu+homaṃ (compound, m.acc.sg)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.optative (sam-ā-car)"
+    }
+   ],
+   "question": "In which locations may the vāstu fire offering be performed?",
+   "premises": [
+    "a pavilion is given as a possible location",
+    "a shed is given as a possible location",
+    "the vāstu offering is the prescribed action"
+   ],
+   "inference": "The vāstu fire offering should be performed in a pavilion or in a shed.",
+   "uncertainties": [],
+   "plain_english": "One should perform the vāstu fire offering in a pavilion or in a shed."
+  },
+  {
+   "verse": 1779,
+   "rows": [
+    {
+     "surface": "hastamātram",
+     "gloss": "hand-measure",
+     "grounds": "compound indicating size",
+     "morph": "hasta+mātram (compound, n.nom.sg)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "fire-pit",
+     "grounds": "ritual object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ratnimātram",
+     "gloss": "cubit-measure",
+     "grounds": "compound indicating size",
+     "morph": "ratni+mātram (compound, n.nom.sg)"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-else",
+     "grounds": "alternative connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the prescribed size options for the ritual fire pit?",
+   "premises": [
+    "the fire pit is the subject",
+    "one measure is a hand's length",
+    "another measure is a cubit"
+   ],
+   "inference": "The fire pit may be one hand in measure or one cubit in measure.",
+   "uncertainties": [],
+   "plain_english": "This fire pit may be one hand in measure, or else one cubit in measure."
+  },
+  {
+   "verse": 1780,
+   "rows": [
+    {
+     "surface": "palāśodumbarāśvatthavaṭāḥ",
+     "gloss": "palāśa-udumbara-aśvattha-vaṭa",
+     "grounds": "compound listing four trees",
+     "morph": "palāśa+udumbara+aśvattha+vaṭāḥ (compound, m.nom.pl)"
+    },
+    {
+     "surface": "pūrvāditaḥ",
+     "gloss": "from-east-onward",
+     "grounds": "directional adverbial compound",
+     "morph": "pūrva+āditaḥ (compound, indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative indicating sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what directional sequence are the four sacred trees to be arranged?",
+   "premises": [
+    "four specific trees are named",
+    "the starting direction is the east",
+    "the arrangement follows a sequence"
+   ],
+   "inference": "The palāśa, udumbara, aśvattha, and vaṭa are arranged in order beginning from the east.",
+   "uncertainties": [],
+   "plain_english": "The palāśa, udumbara, aśvattha, and vaṭa trees are to be placed in order, beginning from the east."
+  },
+  {
+   "verse": 1781,
+   "rows": [
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "locative of ritual vessel",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udumbare",
+     "gloss": "in-udumbara-vessel",
+     "grounds": "locative of ritual vessel",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāstudevān",
+     "gloss": "vāstu-deities",
+     "grounds": "compound object of worship",
+     "morph": "vāstu+devān (compound, m.acc.pl)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.optative (pra-pūj)"
+    }
+   ],
+   "question": "In which vessels may the vāstu deities be worshipped?",
+   "premises": [
+    "a pot is given as a possible vessel",
+    "an udumbara vessel is given as a possible vessel",
+    "the vāstu deities are the objects of worship"
+   ],
+   "inference": "One should worship the vāstu deities in a pot or in an udumbara vessel.",
+   "uncertainties": [],
+   "plain_english": "One should worship the vāstu deities in a pot or in an udumbara vessel."
+  },
+  {
+   "verse": 1782,
+   "rows": [
+    {
+     "surface": "kṛtasthaṇḍilakādhāraḥ",
+     "gloss": "having-made-altar-base",
+     "grounds": "compound describing preparation",
+     "morph": "kṛta+sthaṇḍilaka+ādhāraḥ (compound, m.nom.sg)"
+    },
+    {
+     "surface": "soṣṇīṣaḥ",
+     "gloss": "with-turban",
+     "grounds": "compound describing attire",
+     "morph": "sa+uṣṇīṣaḥ (compound, m.nom.sg)"
+    },
+    {
+     "surface": "sottarīyakaḥ",
+     "gloss": "with-upper-garment",
+     "grounds": "compound describing attire",
+     "morph": "sa+uttarīyakaḥ (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What preparations and attire are required of the officiant before the ritual?",
+   "premises": [
+    "the officiant has prepared an altar base",
+    "the officiant wears a turban",
+    "the officiant wears an upper garment"
+   ],
+   "inference": "The officiant should have prepared the altar base and be wearing a turban and an upper garment.",
+   "uncertainties": [],
+   "plain_english": "Having prepared the altar base, he should wear a turban and an upper garment."
+  },
+  {
+   "verse": 1783,
+   "rows": [
+    {
+     "surface": "uṣṇīṣarahitaiḥ",
+     "gloss": "without-turbans",
+     "grounds": "compound describing others' attire",
+     "morph": "uṣṇīṣa+rahitaiḥ (compound, m.inst.pl)"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "together-with",
+     "grounds": "postposition indicating accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedadhvanisamanvitam",
+     "gloss": "with-vedic-sound",
+     "grounds": "compound describing ritual accompaniment",
+     "morph": "veda+dhvani+samanvitam (compound, n.acc.sg)"
+    }
+   ],
+   "question": "With whom and with what accompaniment should the ritual be conducted?",
+   "premises": [
+    "others are present without turbans",
+    "the officiant is together with them",
+    "the ritual is accompanied by Vedic sound"
+   ],
+   "inference": "The ritual should be conducted together with those without turbans and accompanied by Vedic sound.",
+   "uncertainties": [],
+   "plain_english": "Together with those without turbans, it should be accompanied by the sound of the Veda."
+  },
+  {
+   "verse": 1784,
+   "rows": [
+    {
+     "surface": "saṃprāptadakṣiṇaḥ",
+     "gloss": "having-received-gift",
+     "grounds": "compound describing officiant's state",
+     "morph": "saṃprāpta+dakṣiṇaḥ (compound, m.nom.sg)"
+    },
+    {
+     "surface": "śāntaḥ",
+     "gloss": "peaceful",
+     "grounds": "qualifier of officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manastuṣṭisamanvitaḥ",
+     "gloss": "with-mind-contentment",
+     "grounds": "compound describing mental state",
+     "morph": "manaḥ+tuṣṭi+samanvitaḥ (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What condition should the officiant be in after receiving the ritual gift?",
+   "premises": [
+    "the officiant has received the gift",
+    "the officiant is peaceful",
+    "the officiant has mental contentment"
+   ],
+   "inference": "Having received the gift, the officiant should be peaceful and content in mind.",
+   "uncertainties": [],
+   "plain_english": "Having received the gift, he should be peaceful and filled with contentment of mind."
+  },
+  {
+   "verse": 1785,
+   "rows": [
+    {
+     "surface": "paryagnikaraṇopetaṃ",
+     "gloss": "with-fire-circling",
+     "grounds": "compound describing ritual feature",
+     "morph": "paryagnikaraṇa+upetaṃ (compound, m.acc.sg)"
+    },
+    {
+     "surface": "vāstuhomaṃ",
+     "gloss": "vāstu-offering",
+     "grounds": "compound object of ritual",
+     "morph": "vāstu+homaṃ (compound, m.acc.sg)"
+    },
+    {
+     "surface": "niyāmakam",
+     "gloss": "regulating",
+     "grounds": "qualifier indicating function",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual feature makes the vāstu fire offering a regulating act?",
+   "premises": [
+    "the vāstu offering is performed",
+    "it is accompanied by circling with fire",
+    "it has a regulating function"
+   ],
+   "inference": "The vāstu fire offering, accompanied by circling with fire, serves as a regulating act.",
+   "uncertainties": [],
+   "plain_english": "The vāstu fire offering, accompanied by the circling of fire, is a regulating rite."
+  },
+  {
+   "verse": 1786,
+   "rows": [
+    {
+     "surface": "vāstupūjāvihīnaṃ",
+     "gloss": "without-vāstu-worship",
+     "grounds": "compound describing deficiency",
+     "morph": "vāstu+pūjā+vihīnaṃ (compound, n.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāstuvāstu",
+     "gloss": "vāstu-site",
+     "grounds": "reduplicated or emphatic compound referring to the site",
+     "morph": "vāstu+vāstu (compound, n.nom.sg)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "verb stating consequence",
+     "morph": "3.sg.present (vi-naś)"
+    }
+   ],
+   "question": "What consequence follows when a site lacks proper vāstu worship?",
+   "premises": [
+    "vāstu worship may be absent",
+    "the vāstu site is affected",
+    "destruction is the result"
+   ],
+   "inference": "A vāstu site without vāstu worship perishes.",
+   "uncertainties": [
+    "The form vāstuvāstu is taken as an emphatic reference to the vāstu site."
+   ],
+   "plain_english": "Indeed, a vāstu site without vāstu worship perishes."
+  },
+  {
+   "verse": 1787,
+   "rows": [
+    {
+     "surface": "grāmādigṛhaśālāsu",
+     "gloss": "in-village-house-halls",
+     "grounds": "compound locative listing places",
+     "morph": "grāma+ādi+gṛha+śālāsu (compound, f.loc.pl)"
+    },
+    {
+     "surface": "devaveśmani",
+     "gloss": "in-temple",
+     "grounds": "compound locative of place",
+     "morph": "deva+veśmani (compound, n.loc.sg)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In which types of places does the teacher perform the prescribed vāstu rites?",
+   "premises": [
+    "villages, houses, and halls are mentioned",
+    "a temple is mentioned",
+    "the teacher is the agent"
+   ],
+   "inference": "The teacher acts in villages, houses, halls, and temples.",
+   "uncertainties": [
+    "This verse continues into the next verse for the full predicate."
+   ],
+   "plain_english": "In villages, houses, halls, and in a temple, the teacher..."
+  },
+  {
+   "verse": 1788,
+   "rows": [
+    {
+     "surface": "yathāvadvihitaṃ",
+     "gloss": "properly-prescribed",
+     "grounds": "compound describing correctness",
+     "morph": "yathāvat+vihitaṃ (compound, n.acc.sg)"
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "vāstu",
+     "grounds": "ritual object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajanti",
+     "gloss": "abandon",
+     "grounds": "verb stating deities' response",
+     "morph": "3.pl.present (tyaj)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "subject of verb",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Why do the deities remain in a site where vāstu rites are properly performed?",
+   "premises": [
+    "the vāstu is properly prescribed",
+    "the deities are present",
+    "the deities do not abandon such a site"
+   ],
+   "inference": "When vāstu is properly performed, the deities do not abandon the site.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the deities do not abandon a vāstu that has been properly established."
+  },
+  {
+   "verse": 1789,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaparīkṣādi",
+     "gloss": "time-examination-etc",
+     "grounds": "compound listing preliminary acts",
+     "morph": "kāla+parīkṣā+ādi (compound, n.acc.sg)"
+    },
+    {
+     "surface": "prāguktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "compound indicating procedure",
+     "morph": "prāk+ukta+vidhinā (compound, m.inst.sg)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.optative (ā-car)"
+    }
+   ],
+   "question": "By what method should time examination and related preliminaries be carried out?",
+   "premises": [
+    "time examination and other preliminaries are required",
+    "a previously stated method exists",
+    "the action should be performed accordingly"
+   ],
+   "inference": "There one should perform the examination of time and so forth according to the previously stated method.",
+   "uncertainties": [],
+   "plain_english": "There one should carry out the examination of time and so forth according to the method stated earlier."
+  },
+  {
+   "verse": 1790,
+   "rows": [
+    {
+     "surface": "agrahāraḥ",
+     "gloss": "agrahāra",
+     "grounds": "term for a settlement type",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadevoktaṃ",
+     "gloss": "that-same-stated",
+     "grounds": "compound referring to prior statement",
+     "morph": "tat+eva+uktaṃ (compound, n.nom.sg)"
+    },
+    {
+     "surface": "viprendrāḥ",
+     "gloss": "foremost-brahmins",
+     "grounds": "compound denoting brahmins",
+     "morph": "vipra+indrāḥ (compound, m.nom.pl)"
+    },
+    {
+     "surface": "kāmikāhvaye",
+     "gloss": "in-called-kāmika",
+     "grounds": "compound locative naming text",
+     "morph": "kāmika+āhvaye (compound, m.loc.sg)"
+    }
+   ],
+   "question": "What settlement type is identified for foremost brahmins in the Kāmika text?",
+   "premises": [
+    "the term agrahāra is used",
+    "foremost brahmins are associated with it",
+    "this is stated in the Kāmika"
+   ],
+   "inference": "The same is called an agrahāra for foremost brahmins in the text called Kāmika.",
+   "uncertainties": [],
+   "plain_english": "That same settlement is called an agrahāra for foremost brahmins, as stated in the Kāmika."
+  },
+  {
+   "verse": 1791,
+   "rows": [
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "numeral adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grāmaṇikaḥ",
+     "gloss": "village-headman",
+     "grounds": "designation of leader",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabhṛtyaparicārakaḥ",
+     "gloss": "with-servants-attendants",
+     "grounds": "compound describing retinue",
+     "morph": "sa+bhṛtya+paricārakaḥ (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What leadership condition characterizes the place described in this definition?",
+   "premises": [
+    "there is one village headman",
+    "he is accompanied by servants and attendants",
+    "this defines the place"
+   ],
+   "inference": "The place is one where there is a single village headman with servants and attendants.",
+   "uncertainties": [
+    "This verse is part of a larger definition continued in following verses."
+   ],
+   "plain_english": "Where there is one village headman together with servants and attendants..."
+  },
+  {
+   "verse": 1792,
+   "rows": [
+    {
+     "surface": "janaiḥ",
+     "gloss": "by-people",
+     "grounds": "instrumental indicating inhabitants",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "parivṛtaṃ",
+     "gloss": "surrounded",
+     "grounds": "past participle describing place",
+     "morph": "n.nom.sg (pari-vṛ)"
+    },
+    {
+     "surface": "dravyakrayavikrayakādibhiḥ",
+     "gloss": "by-buying-selling-etc",
+     "grounds": "compound describing activities",
+     "morph": "dravya+kraya+vikrayaka+ādibhiḥ (compound, m.inst.pl)"
+    }
+   ],
+   "question": "What social and economic activities characterize the settlement being defined?",
+   "premises": [
+    "the place is surrounded by people",
+    "activities include buying and selling of goods",
+    "other similar activities are included"
+   ],
+   "inference": "The settlement is surrounded by people engaged in buying, selling, and similar activities.",
+   "uncertainties": [],
+   "plain_english": "Surrounded by people engaged in the buying and selling of goods and the like..."
+  },
+  {
+   "verse": 1793,
+   "rows": [
+    {
+     "surface": "sarvadaivatasaṃyuktaṃ",
+     "gloss": "with-all-deities",
+     "grounds": "compound describing religious character",
+     "morph": "sarva+daivata+saṃyuktaṃ (compound, n.nom.sg)"
+    },
+    {
+     "surface": "nagaraṃ",
+     "gloss": "city",
+     "grounds": "term for settlement type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "passive verb of designation",
+     "morph": "3.sg.present.passive (abhi-dhā)"
+    }
+   ],
+   "question": "What defining feature leads a settlement to be called a city?",
+   "premises": [
+    "the settlement is associated with all deities",
+    "the term nagara is applied",
+    "this is a formal designation"
+   ],
+   "inference": "A settlement associated with all deities is called a city.",
+   "uncertainties": [],
+   "plain_english": "And it is called a city when it is associated with all the deities."
+  },
+  {
+   "verse": 1794,
+   "rows": [
+    {
+     "surface": "yatsthānaṃ",
+     "gloss": "which-place",
+     "grounds": "relative compound introducing definition",
+     "morph": "yat+sthānaṃ (compound, n.nom.sg)"
+    },
+    {
+     "surface": "brāhmaṇānāṃ",
+     "gloss": "of-brahmins",
+     "grounds": "possessive relation",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kharvaṭaṃ",
+     "gloss": "kharvaṭa",
+     "grounds": "term for settlement type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puravāsinām",
+     "gloss": "of-town-dwellers",
+     "grounds": "compound describing inhabitants",
+     "morph": "pura+vāsinām (compound, m.gen.pl)"
+    }
+   ],
+   "question": "What settlement is designated as a kharvaṭa for town-dwelling brahmins?",
+   "premises": [
+    "a place of brahmins is described",
+    "the brahmins are town-dwellers",
+    "the term kharvaṭa is applied"
+   ],
+   "inference": "A place of town-dwelling brahmins is called a kharvaṭa.",
+   "uncertainties": [],
+   "plain_english": "That place of town-dwelling brahmins is indeed called a kharvaṭa."
+  },
+  {
+   "verse": 1795,
+   "rows": [
+    {
+     "surface": "krayavikrayasaṃyuktam",
+     "gloss": "with-buying-selling",
+     "grounds": "compound describing economic activity",
+     "morph": "kraya+vikraya+saṃyuktam (compound, n.nom.sg)"
+    },
+    {
+     "surface": "abdhitīrasamāśritam",
+     "gloss": "on-sea-shore",
+     "grounds": "compound describing location",
+     "morph": "abdhi+tīra+samāśritam (compound, n.nom.sg)"
+    }
+   ],
+   "question": "What location and activity characterize the settlement defined as a port?",
+   "premises": [
+    "buying and selling take place there",
+    "it is situated on the sea shore",
+    "these features define the settlement"
+   ],
+   "inference": "The settlement is characterized by trade and a location on the sea shore.",
+   "uncertainties": [
+    "This verse continues the definition completed in the next verse."
+   ],
+   "plain_english": "Associated with buying and selling and situated on the sea shore..."
+  },
+  {
+   "verse": 1796,
+   "rows": [
+    {
+     "surface": "paṭṭaṇaṃ",
+     "gloss": "port",
+     "grounds": "term for settlement type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsamākhyātaṃ",
+     "gloss": "that-so-called",
+     "grounds": "compound indicating designation",
+     "morph": "tat+samākhyātaṃ (compound, n.nom.sg)"
+    },
+    {
+     "surface": "vaiśyairadhyuṣitaṃ",
+     "gloss": "by-vaiśyas-inhabited",
+     "grounds": "compound describing inhabitants",
+     "morph": "vaiśyaiḥ+adhyuṣitaṃ (compound, n.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What settlement inhabited by vaiśyas is designated as a port?",
+   "premises": [
+    "the settlement is inhabited by vaiśyas",
+    "it has the features described previously",
+    "it is called a paṭṭaṇa"
+   ],
+   "inference": "That settlement inhabited by vaiśyas is called a paṭṭaṇa, a port.",
+   "uncertainties": [],
+   "plain_english": "That which is inhabited by vaiśyas is called a paṭṭaṇa, a port."
+  },
+  {
+   "verse": 1797,
+   "rows": [
+    {
+     "surface": "vane",
+     "gloss": "in-forest",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "janapade",
+     "gloss": "in-countryside",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevale",
+     "gloss": "only",
+     "grounds": "adjective indicating exclusivity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūdrasevitaḥ",
+     "gloss": "served-by-śūdras",
+     "grounds": "compound describing inhabitants",
+     "morph": "śūdra+sevitaḥ (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What kind of place is characterized as being served only by śūdras?",
+   "premises": [
+    "the place is in a forest or countryside",
+    "it is exclusively served by śūdras",
+    "this defines its character"
+   ],
+   "inference": "A place in the forest or countryside served only by śūdras is being defined.",
+   "uncertainties": [
+    "The specific settlement name for this type is not given in this verse."
+   ],
+   "plain_english": "In a forest or in the countryside alone, a place served only by śūdras..."
+  },
+  {
+   "verse": 1798,
+   "rows": [
+    {
+     "surface": "sāmantānāṃ",
+     "gloss": "of-neighbors",
+     "grounds": "possessive relation",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samṛddhānāṃ",
+     "gloss": "of-prosperous",
+     "grounds": "qualifier of neighbors",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yatsthānaṃ",
+     "gloss": "which-place",
+     "grounds": "relative compound introducing definition",
+     "morph": "yat+sthānaṃ (compound, n.nom.sg)"
+    },
+    {
+     "surface": "śibiraṃ",
+     "gloss": "camp",
+     "grounds": "term for settlement type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "past participle indicating tradition",
+     "morph": "n.nom.sg (smṛ)"
+    }
+   ],
+   "question": "What place belonging to prosperous neighbors is traditionally called a camp?",
+   "premises": [
+    "the place belongs to prosperous neighbors",
+    "it is identified by a relative clause",
+    "it is traditionally called a śibira"
+   ],
+   "inference": "A place of prosperous neighbors is traditionally remembered as a camp.",
+   "uncertainties": [],
+   "plain_english": "That place of prosperous neighbors is remembered as a camp."
+  },
+  {
+   "verse": 1799,
+   "rows": [
+    {
+     "surface": "rājaveśmasamāyuktaṃ",
+     "gloss": "with-royal-palace",
+     "grounds": "compound describing feature",
+     "morph": "rāja+veśma+samāyuktaṃ (compound, n.nom.sg)"
+    },
+    {
+     "surface": "sarvajātisamanvitam",
+     "gloss": "with-all-classes",
+     "grounds": "compound describing inhabitants",
+     "morph": "sarva+jāti+samanvitam (compound, n.nom.sg)"
+    }
+   ],
+   "question": "What architectural and social features further characterize the camp settlement?",
+   "premises": [
+    "the place has a royal palace",
+    "the place includes all classes",
+    "these features describe the settlement"
+   ],
+   "inference": "The camp is characterized by having a royal palace and being inhabited by all classes.",
+   "uncertainties": [
+    "jāti is glossed as classes in this social context."
+   ],
+   "plain_english": "It is equipped with a royal palace and includes people of all classes."
+  }
+ ]
+}
