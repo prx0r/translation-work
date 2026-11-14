@@ -1,0 +1,1089 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3301,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative conjunction introducing another case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣaṇe",
+     "gloss": "in-eating",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "akāmāt",
+     "gloss": "from-unwillingness",
+     "grounds": "ablative indicating absence of intent",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "brahmapañcakam",
+     "gloss": "brahma-five",
+     "grounds": "name of a fivefold formula or set",
+     "morph": "n.acc.sg (compound: brahma-pañcaka)"
+    }
+   ],
+   "question": "What recitation expiates the unintentional eating of forbidden nirmālya?",
+   "premises": [
+    "An alternative case concerns eating without desire or intent.",
+    "In that case one should perform recitation.",
+    "The prescribed recitation is the brahmapañcaka."
+   ],
+   "inference": "Unintentional eating of nirmālya is expiated by reciting the brahmapañcaka.",
+   "uncertainties": [
+    "The exact content of the brahmapañcaka is not specified in this verse."
+   ],
+   "plain_english": "Or, if one eats nirmālya unintentionally, one should recite the brahmapañcaka."
+  },
+  {
+   "verse": 3302,
+   "rows": [
+    {
+     "surface": "nirmālya",
+     "gloss": "nirmālya",
+     "grounds": "sacred leavings; object of transgression",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "laṅghanaṃ",
+     "gloss": "transgression",
+     "grounds": "act of crossing or stepping over",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior act",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "dakṣiṇārdhāyutaṃ",
+     "gloss": "five-thousand-times",
+     "grounds": "measure of recitation; half of an ayuta",
+     "morph": "n.acc.sg (compound: dakṣiṇa-ardha-ayuta)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "What penance is required after stepping over or transgressing nirmālya?",
+   "premises": [
+    "A person may commit the transgression of stepping over nirmālya.",
+    "After committing that act, recitation is prescribed.",
+    "The prescribed measure is five thousand recitations."
+   ],
+   "inference": "Transgressing nirmālya requires performing five thousand recitations as penance.",
+   "uncertainties": [
+    "The specific mantra to be recited is not named in this verse."
+   ],
+   "plain_english": "Having transgressed nirmālya by stepping over it, one should perform five thousand recitations."
+  },
+  {
+   "verse": 3303,
+   "rows": [
+    {
+     "surface": "devasvaṃ",
+     "gloss": "god-property",
+     "grounds": "property belonging to a deity",
+     "morph": "n.nom.sg (compound: deva-sva)"
+    },
+    {
+     "surface": "devatādravyaṃ",
+     "gloss": "deity-substance",
+     "grounds": "material belonging to a deity",
+     "morph": "n.nom.sg (compound: devatā-dravya)"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "offering presented to a deity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niveditam",
+     "gloss": "offered",
+     "grounds": "that which has been formally presented",
+     "morph": "n.nom.sg (past-passive-participle) √nived"
+    }
+   ],
+   "question": "Which categories of items are identified as belonging to the deity?",
+   "premises": [
+    "Devasva is named as a category.",
+    "Devatādravya is named as a category.",
+    "Naivedya that has been offered is included."
+   ],
+   "inference": "God-property, deity-substance, and offered naivedya are all items belonging to the deity.",
+   "uncertainties": [],
+   "plain_english": "God’s property, the deity’s substance, and the food offering that has been presented are all included."
+  },
+  {
+   "verse": 3304,
+   "rows": [
+    {
+     "surface": "grāmadīśasya",
+     "gloss": "of-village-lord",
+     "grounds": "possessor of the property",
+     "morph": "m.gen.sg (compound: grāma-īśa)"
+    },
+    {
+     "surface": "devasvaṃ",
+     "gloss": "god-property",
+     "grounds": "property belonging to a deity",
+     "morph": "n.nom.sg (compound: deva-sva)"
+    },
+    {
+     "surface": "devadravyaṃ",
+     "gloss": "god-substance",
+     "grounds": "material belonging to a deity",
+     "morph": "n.nom.sg (compound: deva-dravya)"
+    },
+    {
+     "surface": "paṭādikam",
+     "gloss": "cloth-and-so-on",
+     "grounds": "examples of deity materials",
+     "morph": "n.nom.sg (compound: paṭa-ādika)"
+    }
+   ],
+   "question": "What kinds of materials count as the village lord deity’s property?",
+   "premises": [
+    "The verse concerns the property of the village lord deity.",
+    "Devasva and devadravya are identified as such property.",
+    "Cloth and similar items are included as examples."
+   ],
+   "inference": "The village lord deity’s property includes god-property, god-substance, and items such as cloth.",
+   "uncertainties": [],
+   "plain_english": "The property of the village lord deity includes god’s property, god’s substance, and things like cloth."
+  },
+  {
+   "verse": 3305,
+   "rows": [
+    {
+     "surface": "caṇḍadravyaṃ",
+     "gloss": "caṇḍa-substance",
+     "grounds": "material assigned to Caṇḍa",
+     "morph": "n.nom.sg (compound: caṇḍa-dravya)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddattaṃ",
+     "gloss": "given-to-him",
+     "grounds": "that which has been given to Caṇḍa",
+     "morph": "n.nom.sg (compound: tad-datta, past-passive-participle)"
+    },
+    {
+     "surface": "nirmālyaṃ",
+     "gloss": "nirmālya",
+     "grounds": "sacred leavings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "preritaṃ",
+     "gloss": "sent-forth",
+     "grounds": "dispatched or cast out",
+     "morph": "n.nom.sg (past-passive-participle) √prer"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "location beyond the inner precinct",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is nirmālya classified when it is given to Caṇḍa and sent outside?",
+   "premises": [
+    "Caṇḍadravya is distinguished as a category.",
+    "Nirmālya given to Caṇḍa falls under this category.",
+    "Such nirmālya is sent outside."
+   ],
+   "inference": "Nirmālya given to Caṇḍa and sent outside is classified as Caṇḍa’s substance.",
+   "uncertainties": [],
+   "plain_english": "But the substance of Caṇḍa is that nirmālya which is given to him and sent outside."
+  },
+  {
+   "verse": 3306,
+   "rows": [
+    {
+     "surface": "kravyādo",
+     "gloss": "flesh-eater",
+     "grounds": "carnivorous being as rebirth result",
+     "morph": "m.nom.sg (compound: kravya-ad)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "resulting rebirth",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "dānāt",
+     "gloss": "from-giving",
+     "grounds": "cause: giving away nirmālya",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mātaṅgastasya",
+     "gloss": "outcaste-from-its",
+     "grounds": "rebirth result from eating it; fused token",
+     "morph": "m.nom.sg (compound: mātaṅga-tasya, sandhi-fused)"
+    },
+    {
+     "surface": "bhakṣaṇāt",
+     "gloss": "from-eating",
+     "grounds": "cause: eating nirmālya",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What karmic rebirths result from giving away or eating nirmālya?",
+   "premises": [
+    "Giving nirmālya leads to a specific rebirth.",
+    "Eating nirmālya leads to another specific rebirth.",
+    "The results named are becoming a flesh-eater and becoming an outcaste."
+   ],
+   "inference": "Giving nirmālya causes rebirth as a flesh-eater, while eating it causes rebirth as an outcaste.",
+   "uncertainties": [
+    "The exact referent of tasya in mātaṅgastasya is implicit (nirmālya)."
+   ],
+   "plain_english": "From giving it one is born as a flesh-eater, and from eating it one is born as an outcaste."
+  },
+  {
+   "verse": 3307,
+   "rows": [
+    {
+     "surface": "sparśane",
+     "gloss": "in-touching",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "resulting rebirth",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "strītvaṃ",
+     "gloss": "womanhood",
+     "grounds": "state of being a woman as rebirth result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirmālyasya",
+     "gloss": "of-nirmālya",
+     "grounds": "object touched",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What rebirth follows from merely touching nirmālya according to this teaching?",
+   "premises": [
+    "Touching nirmālya is considered as a cause.",
+    "The stated result of that cause is birth as a woman.",
+    "The verse explicitly denies any doubt about this result."
+   ],
+   "inference": "Touching nirmālya results in rebirth as a woman, without doubt.",
+   "uncertainties": [],
+   "plain_english": "By touching nirmālya one is born as a woman; there is no doubt about this."
+  },
+  {
+   "verse": 3308,
+   "rows": [
+    {
+     "surface": "pādonaṃ",
+     "gloss": "less-by-quarter",
+     "grounds": "reduction by one fourth",
+     "morph": "n.nom.sg (compound: pāda-ūna)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvoktaṃ",
+     "gloss": "previously-stated",
+     "grounds": "referring to earlier prescription",
+     "morph": "n.nom.sg (compound: pūrva-ukta, past-passive-participle)"
+    },
+    {
+     "surface": "sparśalaṅghana",
+     "gloss": "touching-and-transgressing",
+     "grounds": "first two offenses in a series",
+     "morph": "n.stem (compound: sparśa-laṅghana)"
+    },
+    {
+     "surface": "bhakṣaṇaiḥ",
+     "gloss": "by-eatings",
+     "grounds": "instrumental plural covering the acts",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How is the previously stated penance adjusted for touching, transgressing, and eating nirmālya?",
+   "premises": [
+    "A previously stated penance is taken as the baseline.",
+    "The acts considered are touching, transgressing, and eating.",
+    "The adjustment specified is a reduction by one quarter."
+   ],
+   "inference": "For touching, transgressing, and eating nirmālya, the previously stated penance is reduced by one quarter.",
+   "uncertainties": [
+    "The exact baseline penance referred to by pūrvoktaṃ is not restated here."
+   ],
+   "plain_english": "In those cases, for touching, transgressing, and eating, the previously stated penance is reduced by one quarter."
+  },
+  {
+   "verse": 3309,
+   "rows": [
+    {
+     "surface": "devadevāya",
+     "gloss": "to-god-of-gods",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg (compound: deva-deva)"
+    },
+    {
+     "surface": "tatrādyaṃ",
+     "gloss": "there-first",
+     "grounds": "the first among those items; fused token",
+     "morph": "n.nom.sg (compound: tatra-ādya, sandhi-fused)"
+    },
+    {
+     "surface": "devagrāmādi",
+     "gloss": "god-village-and-so-on",
+     "grounds": "property originating from deity or village",
+     "morph": "n.stem (compound: deva-grāma-ādi)"
+    },
+    {
+     "surface": "sambhavam",
+     "gloss": "arising",
+     "grounds": "that which originates or comes into being",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What first category of property is said to arise for the God of gods?",
+   "premises": [
+    "The verse addresses what belongs to the God of gods.",
+    "It identifies a first category among related items.",
+    "That category arises from god, village, and similar sources."
+   ],
+   "inference": "The first category arising for the God of gods is property originating from the deity, the village, and so on.",
+   "uncertainties": [
+    "The syntactic completion of the sentence may continue in the next verse."
+   ],
+   "plain_english": "To the God of gods belongs first that which arises from the deity, the village, and so forth."
+  },
+  {
+   "verse": 3310,
+   "rows": [
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "performs an act of appropriation",
+     "morph": "3.sg.pres.act √kṛ"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun referring to the offender",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃmūḍhā",
+     "gloss": "deluded",
+     "grounds": "state of confusion or ignorance",
+     "morph": "m.nom.sg (past-passive-participle) √muh"
+    },
+    {
+     "surface": "maddhanasteyakṛt",
+     "gloss": "my-wealth-thief",
+     "grounds": "one who steals what belongs to the deity",
+     "morph": "m.nom.sg (compound: mad-dhana-steya-kṛt)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "judged or regarded as such",
+     "morph": "m.nom.sg (past-passive-participle) √man"
+    }
+   ],
+   "question": "How is a deluded person who appropriates the deity’s wealth judged?",
+   "premises": [
+    "A deluded person may act in relation to the deity’s wealth.",
+    "Such action constitutes taking what belongs to the deity.",
+    "The verse gives a judgment about that person."
+   ],
+   "inference": "A deluded person who appropriates the deity’s wealth is considered a thief of the deity’s property.",
+   "uncertainties": [
+    "The exact verb complement of karoti is implicit from context."
+   ],
+   "plain_english": "Whoever, being deluded, does this is considered a thief of my wealth."
+  },
+  {
+   "verse": 3311,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "gives",
+     "grounds": "transfers the deity’s property",
+     "morph": "3.sg.pres.act √dā (with pra)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "consumes the deity’s property",
+     "morph": "3.sg.pres.mid √bhuj"
+    },
+    {
+     "surface": "so'pi",
+     "gloss": "he-also",
+     "grounds": "inclusive correlative; fused token",
+     "morph": "m.nom.sg (compound: saḥ-api, sandhi-fused)"
+    },
+    {
+     "surface": "steyakṛt",
+     "gloss": "thief",
+     "grounds": "one who commits theft",
+     "morph": "m.nom.sg (compound: steya-kṛt)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation or judgment",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "Why are both giving away and consuming the deity’s property called theft?",
+   "premises": [
+    "One person may give the deity’s property to others.",
+    "Another person may consume the deity’s property.",
+    "Both actions are judged by the same designation."
+   ],
+   "inference": "Both giving away and consuming the deity’s property are called acts of theft.",
+   "uncertainties": [],
+   "plain_english": "Whoever gives it away or eats it is also called a thief."
+  },
+  {
+   "verse": 3312,
+   "rows": [
+    {
+     "surface": "tathaiveti",
+     "gloss": "thus-indeed",
+     "grounds": "affirmation of the stated rule; fused token",
+     "morph": "(indecl.) (compound: tathā-eva-iti, sandhi-fused)"
+    },
+    {
+     "surface": "catuṣkāṣṭhā",
+     "gloss": "fourfold-extent",
+     "grounds": "four directions or fourfold scope",
+     "morph": "f.nom.sg (compound: catur-kāṣṭhā)"
+    },
+    {
+     "surface": "madbhuktistvati",
+     "gloss": "my-enjoyment-is-very",
+     "grounds": "consumption of what is mine; fused token",
+     "morph": "f.nom.sg (compound: mad-bhukti-ati, sandhi-fused)"
+    },
+    {
+     "surface": "doṣadā",
+     "gloss": "fault-giving",
+     "grounds": "producing fault or sin",
+     "morph": "f.nom.sg (compound: doṣa-dā)"
+    }
+   ],
+   "question": "In what scope does consuming what belongs to the deity produce fault?",
+   "premises": [
+    "The verse affirms a rule about consuming what belongs to the deity.",
+    "This consumption is described as fault-giving.",
+    "Its fault-giving scope is stated as fourfold."
+   ],
+   "inference": "Consuming what belongs to the deity is fault-giving in a fourfold scope.",
+   "uncertainties": [
+    "The precise meaning of catuṣkāṣṭhā (four directions, four cases, or fourfold extent) is unclear."
+   ],
+   "plain_english": "Thus indeed, in a fourfold extent, consuming what is mine is fault-giving."
+  },
+  {
+   "verse": 3313,
+   "rows": [
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "absolutive indicating prior offering",
+     "morph": "(gerund) √nived"
+    },
+    {
+     "surface": "mahyaṃ",
+     "gloss": "to-me",
+     "grounds": "recipient of the offering",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "tacchiṣṭaṃ",
+     "gloss": "that-remainder",
+     "grounds": "what remains after offering; fused token",
+     "morph": "n.acc.sg (compound: tad-śiṣṭa, sandhi-fused)"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "consumes the remainder",
+     "morph": "3.sg.pres.mid √bhuj"
+    },
+    {
+     "surface": "pratyaham",
+     "gloss": "daily",
+     "grounds": "regular practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "with-respect",
+     "grounds": "attitude of reverence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What is the proper devotional practice regarding food offered to the deity?",
+   "premises": [
+    "Food should first be offered to the deity.",
+    "After offering, a remainder is left.",
+    "That remainder should be eaten daily with respect."
+   ],
+   "inference": "The proper practice is to offer food to the deity and then eat the remainder daily with reverence.",
+   "uncertainties": [],
+   "plain_english": "Having offered it to me, one should eat the remainder daily with respect."
+  },
+  {
+   "verse": 3314,
+   "rows": [
+    {
+     "surface": "madbhuktaṃ",
+     "gloss": "eaten-by-me",
+     "grounds": "what has been enjoyed by the deity",
+     "morph": "n.acc.sg (compound: mad-bhukta, past-passive-participle)"
+    },
+    {
+     "surface": "caṇḍabhuktaṃ",
+     "gloss": "eaten-by-caṇḍa",
+     "grounds": "what has been assigned to or enjoyed by Caṇḍa",
+     "morph": "n.acc.sg (compound: caṇḍa-bhukta, past-passive-participle)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lobhāt",
+     "gloss": "from-greed",
+     "grounds": "motive of desire",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "may-eat",
+     "grounds": "act of consuming",
+     "morph": "3.sg.opt.act √bhakṣ"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "the agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fault arises when a person eats the deity’s or Caṇḍa’s leavings out of greed?",
+   "premises": [
+    "A person may eat what is eaten by the deity or by Caṇḍa.",
+    "The motive specified is greed.",
+    "The verse frames this as a problematic act."
+   ],
+   "inference": "Eating the deity’s or Caṇḍa’s leavings out of greed is a faulty act.",
+   "uncertainties": [
+    "The explicit consequence is implied by context rather than stated in this verse."
+   ],
+   "plain_english": "If a person eats what has been eaten by me or by Caṇḍa out of greed, that is a fault."
+  },
+  {
+   "verse": 3315,
+   "rows": [
+    {
+     "surface": "bhakṣayet",
+     "gloss": "may-eat",
+     "grounds": "act of consuming",
+     "morph": "3.sg.opt.act √bhakṣ"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naro",
+     "gloss": "person",
+     "grounds": "the agent; sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "motive of reverence",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "pavitram",
+     "gloss": "pure",
+     "grounds": "regarded as purifying",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃsitam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg (past-passive-participle) √śaṃs"
+    }
+   ],
+   "question": "How is eating the deity’s leavings with devotion evaluated in this teaching?",
+   "premises": [
+    "A person may eat the leavings with devotion.",
+    "The motive is devotion rather than greed.",
+    "The verse declares this act to be pure."
+   ],
+   "inference": "Eating the deity’s leavings with devotion is declared pure.",
+   "uncertainties": [],
+   "plain_english": "If a person eats it with devotion, it is declared to be pure."
+  },
+  {
+   "verse": 3316,
+   "rows": [
+    {
+     "surface": "aśuddhātmā",
+     "gloss": "impure-self",
+     "grounds": "one whose inner state is impure",
+     "morph": "m.nom.sg (compound: aśuddha-ātman)"
+    },
+    {
+     "surface": "śucir",
+     "gloss": "pure",
+     "grounds": "becomes pure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lobhāt",
+     "gloss": "from-greed",
+     "grounds": "contrasted motive; concessive context",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "madbhuktaṃ",
+     "gloss": "eaten-by-me",
+     "grounds": "what has been enjoyed by the deity",
+     "morph": "n.acc.sg (compound: mad-bhukta, past-passive-participle)"
+    },
+    {
+     "surface": "pāvanaṃ",
+     "gloss": "purifying",
+     "grounds": "having the power to purify",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "the agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What purifying effect does the deity’s leavings have even on an impure person?",
+   "premises": [
+    "A person may be impure in self.",
+    "The deity’s leavings are described as purifying.",
+    "The verse states that such a person becomes pure."
+   ],
+   "inference": "Even an impure person becomes pure through the purifying power of what the deity has eaten.",
+   "uncertainties": [
+    "The phrase lobhāt creates tension with earlier condemnation of greed; the verse may be concessive or contrastive."
+   ],
+   "plain_english": "An impure person becomes pure, for what has been eaten by me is purifying."
+  },
+  {
+   "verse": 3317,
+   "rows": [
+    {
+     "surface": "maddehadhāriṇo",
+     "gloss": "bearing-my-body",
+     "grounds": "those who embody the deity; sandhi form",
+     "morph": "m.nom.pl (compound: mad-deha-dhārin)"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "in the world",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśikā",
+     "gloss": "teachers",
+     "grounds": "spiritual preceptors",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matparāyaṇāḥ",
+     "gloss": "devoted-to-me",
+     "grounds": "those whose highest refuge is the deity",
+     "morph": "m.nom.pl (compound: mad-parāyaṇa)"
+    }
+   ],
+   "question": "Who are identified in the world as bearing the deity’s body and devoted to the deity?",
+   "premises": [
+    "The verse speaks of beings in the world.",
+    "These beings bear the deity’s body.",
+    "They are devoted to the deity and identified as teachers."
+   ],
+   "inference": "The teachers devoted to the deity are identified as those who bear the deity’s body in the world.",
+   "uncertainties": [],
+   "plain_english": "In the world, the teachers devoted to me are those who bear my body."
+  },
+  {
+   "verse": 3318,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusion from prior statements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madīyaṃ",
+     "gloss": "mine",
+     "grounds": "belonging to the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirmālyaṃ",
+     "gloss": "nirmālya",
+     "grounds": "sacred leavings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "absolutive indicating prior act",
+     "morph": "(gerund) √bhuj"
+    },
+    {
+     "surface": "niṣkṛtim",
+     "gloss": "expiation",
+     "grounds": "atonement or remedial rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √car (with ā)"
+    }
+   ],
+   "question": "What must be done after eating nirmālya that belongs to the deity?",
+   "premises": [
+    "The verse draws a conclusion from prior teaching.",
+    "Eating the deity’s nirmālya is the case considered.",
+    "A remedial action is prescribed after that act."
+   ],
+   "inference": "After eating the deity’s nirmālya, one should perform expiation.",
+   "uncertainties": [],
+   "plain_english": "Therefore, having eaten my nirmālya, one should perform expiation."
+  },
+  {
+   "verse": 3319,
+   "rows": [
+    {
+     "surface": "prāyaścittam",
+     "gloss": "expiation",
+     "grounds": "atonement rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "speaker, the deity",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "will-speak",
+     "grounds": "promise to declare",
+     "morph": "1.sg.fut.mid √vac"
+    },
+    {
+     "surface": "śrūyatāṃ",
+     "gloss": "let-it-be-heard",
+     "grounds": "imperative call to listen",
+     "morph": "3.sg.imp.pass √śru"
+    },
+    {
+     "surface": "dvijasattamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "address to the audience",
+     "morph": "m.voc.pl (compound: dvija-sattama)"
+    }
+   ],
+   "question": "What does the deity promise to explain to the best of the twice-born?",
+   "premises": [
+    "The deity speaks in the first person.",
+    "The deity promises to explain the expiation.",
+    "The audience is addressed as the best of the twice-born."
+   ],
+   "inference": "The deity promises to explain the expiation to the best of the twice-born.",
+   "uncertainties": [],
+   "plain_english": "I will declare the expiation; listen, O best of the twice-born."
+  },
+  {
+   "verse": 3320,
+   "rows": [
+    {
+     "surface": "aghorāyuta",
+     "gloss": "aghora-ten-thousand",
+     "grounds": "ten thousand recitations of the Aghora mantra",
+     "morph": "n.stem (compound: aghora-ayuta)"
+    },
+    {
+     "surface": "jāpaśca",
+     "gloss": "and-recitation",
+     "grounds": "recitation practice; fused token",
+     "morph": "m.nom.sg (compound: jāpa-ca, sandhi-fused)"
+    },
+    {
+     "surface": "gomayāliptamaṇḍale",
+     "gloss": "in-cow-dung-smeared-circle",
+     "grounds": "ritual location for the practice",
+     "morph": "n.loc.sg (compound: gomaya-ālipta-maṇḍala)"
+    }
+   ],
+   "question": "What ritual recitation and location are prescribed as part of the expiation?",
+   "premises": [
+    "A recitation is prescribed as part of the expiation.",
+    "The recitation consists of ten thousand Aghora repetitions.",
+    "The practice is to be done in a circle smeared with cow dung."
+   ],
+   "inference": "The expiation includes ten thousand recitations of Aghora in a circle smeared with cow dung.",
+   "uncertainties": [],
+   "plain_english": "There should be ten thousand recitations of Aghora in a circle smeared with cow dung."
+  },
+  {
+   "verse": 3321,
+   "rows": [
+    {
+     "surface": "pratirātraṃ",
+     "gloss": "every-night",
+     "grounds": "daily nightly observance",
+     "morph": "(indecl.) (compound: prati-rātra)"
+    },
+    {
+     "surface": "caredetad",
+     "gloss": "one-should-practice-this",
+     "grounds": "perform this observance; fused token",
+     "morph": "3.sg.opt.act √car (compound: caret-etad, sandhi-fused)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "religious observance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāpa",
+     "gloss": "sin",
+     "grounds": "fault to be removed",
+     "morph": "n.stem (compound: pāpa)"
+    },
+    {
+     "surface": "viśuddhaye",
+     "gloss": "for-purification",
+     "grounds": "purpose of the vow",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should this vow be practiced every night?",
+   "premises": [
+    "A vow is prescribed to be practiced.",
+    "The practice is to be done every night.",
+    "The stated purpose is purification from sin."
+   ],
+   "inference": "This vow should be practiced every night for the purification of sin.",
+   "uncertainties": [],
+   "plain_english": "One should practice this vow every night for the purification of sin."
+  },
+  {
+   "verse": 3322,
+   "rows": [
+    {
+     "surface": "etadvrataṃ",
+     "gloss": "this-vow",
+     "grounds": "the vow just described; fused token",
+     "morph": "n.nom.sg (compound: etad-vrata, sandhi-fused)"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "authoritatively stated",
+     "morph": "n.nom.sg (past-passive-participle) √khyā (with sam-ā)"
+    },
+    {
+     "surface": "daśavṛddha",
+     "gloss": "tenfold-increased",
+     "grounds": "multiplied by ten",
+     "morph": "n.stem (compound: daśa-vṛddha)"
+    },
+    {
+     "surface": "manuvratam",
+     "gloss": "manu-vow",
+     "grounds": "a vow associated with Manu or a standard measure",
+     "morph": "n.nom.sg (compound: manu-vrata)"
+    }
+   ],
+   "question": "How is the described vow characterized in relation to the Manu vow?",
+   "premises": [
+    "The vow just described is being identified.",
+    "It is declared in authoritative terms.",
+    "It is characterized as a tenfold-increased Manu vow."
+   ],
+   "inference": "The described vow is declared to be the Manu vow increased tenfold.",
+   "uncertainties": [
+    "The exact reference of manuvrata is not fully explained in this verse."
+   ],
+   "plain_english": "This vow is declared to be the Manu vow increased tenfold."
+  },
+  {
+   "verse": 3323,
+   "rows": [
+    {
+     "surface": "mahāpātakināṃ",
+     "gloss": "of-great-sinners",
+     "grounds": "those who have committed great sins",
+     "morph": "m.gen.pl (compound: mahā-pātakin)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "authoritatively stated",
+     "morph": "n.nom.sg (past-passive-participle) √vac (with pra)"
+    },
+    {
+     "surface": "mahāvratam",
+     "gloss": "great-vow",
+     "grounds": "a major expiatory observance",
+     "morph": "n.nom.sg (compound: mahā-vrata)"
+    },
+    {
+     "surface": "ihāgame",
+     "gloss": "here-in-scripture",
+     "grounds": "in this revealed text; fused token",
+     "morph": "m.loc.sg (compound: iha-āgama, sandhi-fused)"
+    }
+   ],
+   "question": "For whom is the great vow declared in this scripture?",
+   "premises": [
+    "A great vow is declared in this scripture.",
+    "The declaration specifies a class of offenders.",
+    "That class is those who have committed great sins."
+   ],
+   "inference": "In this scripture, the great vow is declared for those who have committed great sins.",
+   "uncertainties": [],
+   "plain_english": "In this scripture, the great vow is declared for those who have committed great sins."
+  },
+  {
+   "verse": 3324,
+   "rows": [
+    {
+     "surface": "brahmahatyā",
+     "gloss": "brahmin-killing",
+     "grounds": "the act of killing a brahmin",
+     "morph": "f.nom.sg (compound: brahma-hatyā)"
+    },
+    {
+     "surface": "surāpānaṃ",
+     "gloss": "liquor-drinking",
+     "grounds": "the act of drinking liquor",
+     "morph": "n.nom.sg (compound: surā-pāna)"
+    },
+    {
+     "surface": "steyaṃ",
+     "gloss": "theft",
+     "grounds": "the act of stealing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gurvaṅganāgamaḥ",
+     "gloss": "approach-to-guru-wife",
+     "grounds": "sexual approach to the guru’s wife",
+     "morph": "m.nom.sg (compound: guru-aṅganā-āgama)"
+    }
+   ],
+   "question": "Which grave offenses are listed as examples of great sins in this context?",
+   "premises": [
+    "The verse enumerates specific offenses.",
+    "The offenses include killing a brahmin, drinking liquor, and theft.",
+    "The offenses also include approaching the guru’s wife."
+   ],
+   "inference": "Brahmin-killing, liquor-drinking, theft, and approaching the guru’s wife are listed as great sins.",
+   "uncertainties": [
+    "The traditional fifth great sin is not mentioned in this verse."
+   ],
+   "plain_english": "Brahmin-killing, drinking liquor, theft, and approaching the guru’s wife are listed."
+  }
+ ]
+}
