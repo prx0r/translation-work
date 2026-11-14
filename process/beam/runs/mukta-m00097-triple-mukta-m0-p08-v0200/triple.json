@@ -1,0 +1,45 @@
+{
+ "song": "vāmakeśvarīmata",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "svamudrayā",
+     "gloss": "own-seal",
+     "grounds": "instrumental singular feminine of svamudrā, own seal or mudrā",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "sādhakendraḥ",
+     "gloss": "adept-lord",
+     "grounds": "nominative singular masculine compound sādhaka + indra, lord of adepts",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kṣamasveti",
+     "gloss": "forgive-thus",
+     "grounds": "kṣamasva is second person singular middle imperative of kṣam, followed by iti",
+     "morph": "2.sg.mid.imp + (indecl.)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "dismiss",
+     "grounds": "third person singular active optative of causative visarj, should dismiss",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should the adept-lord dismiss the deity after worship?",
+   "premises": [
+    "The adept-lord uses his own seal.",
+    "He says forgive.",
+    "He dismisses the deity."
+   ],
+   "inference": "Dismissal is performed with the own seal and a request for forgiveness.",
+   "uncertainties": [
+    "The exact ritual recipient and preceding worship context are not explicit in this verse."
+   ],
+   "plain_english": "With his own seal, the lord of adepts should dismiss, saying 'forgive'."
+  }
+ ]
+}

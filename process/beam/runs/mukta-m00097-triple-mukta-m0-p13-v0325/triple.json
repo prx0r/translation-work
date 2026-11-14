@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun feminine nominative plural agreeing with mudrā",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "mudras",
+     "grounds": "subject of the sentence",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tripurāyā",
+     "gloss": "of-Tripura",
+     "grounds": "genitive of possession or association",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mayoditāḥ",
+     "gloss": "by-me-spoken",
+     "grounds": "fused form mayā+uditāḥ; passive participle feminine nominative plural agreeing with mudrā",
+     "morph": "f.nom.pl.pass.past.part"
+    }
+   ],
+   "question": "Which mudrās belonging to Tripurā has the speaker declared to the great goddess?",
+   "premises": [
+    "These mudrās belong to Tripurā.",
+    "The speaker has declared them.",
+    "The addressee is the great goddess."
+   ],
+   "inference": "The verse closes the mudrā instruction by attributing these Tripurā mudrās to the speaker's teaching to the goddess.",
+   "uncertainties": [
+    "The fused form mayoditāḥ may encode mayā+uditāḥ; exact root and voice are not fully certain."
+   ],
+   "plain_english": "These mudrās of Tripurā have been spoken by me, O great goddess."
+  }
+ ]
+}

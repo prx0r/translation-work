@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 267,
- "question": "What quantities of sesame and mustard seeds are prescribed for oblation?",
+ "question": "How is an enemy killed by the rite?",
  "premises": [
-  "Sesame seeds are used in oblation",
-  "Mustard seeds are used in oblation",
-  "Specific quantities are prescribed"
+  "One faces south",
+  "One burns him in fire",
+  "Death follows instantly"
  ],
- "inference": "Sesame seeds and mustard seeds should be offered in hundreds.",
- "uncertainties": [],
- "plain_english": "Sesame seeds in the number of a hundred, and indeed mustard seeds in the number of a hundred."
+ "inference": "Facing south, burning him in fire kills him instantly.",
+ "uncertainties": [
+  "Exact enemy identification"
+ ],
+ "plain_english": "Facing south, having burned him in fire, one should kill him instantly."
 }

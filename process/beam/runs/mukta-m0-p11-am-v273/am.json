@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 273,
- "question": "What general category of fruits is suitable for oblation?",
+ "question": "How are different varnas subjected by different writings?",
  "premises": [
-  "Fruits can be used in oblation",
-  "Pleasing offerings are appropriate",
-  "The instruction is general"
+  "Milk writing affects brahmins",
+  "Dark blue juice writing affects shudras",
+  "Thus marks the rule"
  ],
- "inference": "All mind-pleasing fruits are suitable for oblation.",
- "uncertainties": [],
- "plain_english": "And all fruits that are pleasing to the mind are for oblation."
+ "inference": "Different writings subject different varnas.",
+ "uncertainties": [
+  "Intermediate varnas"
+ ],
+ "plain_english": "With milk writing brahmins, up to with dark blue juice writing shudras, thus."
 }

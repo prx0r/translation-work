@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 259,
- "question": "Which social group becomes subdued by a pumpkin-fruit oblation?",
+ "question": "What substances are named for the circle's preparation?",
  "premises": [
-  "Pumpkin fruit is offered in oblation",
-  "Oblations can subdue specific groups",
-  "Śūdras are a distinct group"
+  "Turmeric lac is named",
+  "Lac juice is named",
+  "Strong musk is named"
  ],
- "inference": "An oblation of pumpkin fruit makes śūdras subdued.",
- "uncertainties": [],
- "plain_english": "Indeed, by an oblation of pumpkin fruit, śūdras become subdued."
+ "inference": "The preparation names turmeric lac, lac juice, and strong musk.",
+ "uncertainties": [
+  "How they are combined"
+ ],
+ "plain_english": "Turmeric lac, lac juice, and strong musk."
 }

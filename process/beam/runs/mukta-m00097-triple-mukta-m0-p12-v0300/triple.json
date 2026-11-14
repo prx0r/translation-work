@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "madhyamā",
+     "gloss": "middle-finger",
+     "grounds": "middle finger",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tarjanībhyāṃ",
+     "gloss": "with-index-fingers",
+     "grounds": "instrumental dual of tarjanī",
+     "morph": "f.ins.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhā",
+     "gloss": "little-finger",
+     "grounds": "little finger",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anāmike",
+     "gloss": "ring-finger",
+     "grounds": "vocative singular of anāmikā",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "same",
+     "gloss": "equal",
+     "grounds": "equal",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the middle finger relate to the index fingers while the little and ring fingers remain equal?",
+   "premises": [
+    "Middle finger is placed with index fingers.",
+    "Little finger and ring finger are equal.",
+    "Mudra configuration follows prior verse."
+   ],
+   "inference": "The verse specifies a mudra arrangement with middle finger between index fingers and equal little and ring fingers.",
+   "uncertainties": [
+    "Exact grammatical case of anāmike and same is unclear from isolated verse."
+   ],
+   "plain_english": "The middle finger is with the index fingers, while the little finger and ring finger are equal."
+  }
+ ]
+}

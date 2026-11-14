@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "calajjalendusadṛśī",
+     "gloss": "moving-water-moon-like",
+     "grounds": "compound simile: moving water, moon, like",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bālārkakiraṇāruṇā",
+     "gloss": "young-sun-ray-red",
+     "grounds": "compound simile: young sun, ray, red",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What visual similes describe the siddha maidens' complexion and radiance?",
+   "premises": [
+    "Siddha maidens are described with a lunar simile.",
+    "Their redness is compared to young sun rays."
+   ],
+   "inference": "The verse portrays their beauty through water-moon and dawn-sun imagery.",
+   "uncertainties": [
+    "Exact syntactic relation to the previous verse is not explicit."
+   ],
+   "plain_english": "Like the moon in moving water, red like the rays of the young sun."
+  }
+ ]
+}
