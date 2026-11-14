@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3499,
- "question": "Where should the Soma spout face?",
+ "question": "What ritual omission is identified if the pot placement is not done at the time of flag raising?",
  "premises": [
-  "Everywhere on the north is specified.",
-  "The spout of Soma is mentioned.",
-  "It should be facing."
+  "Pot placement is required at the time of flag raising",
+  "This placement may not be performed",
+  "Its omission constitutes a ritual fault"
  ],
- "inference": "The Soma spout should face north everywhere.",
- "uncertainties": [
-  "The exact spout location is not specified."
- ],
- "plain_english": "Everywhere on the north, the Soma spout should be facing."
+ "inference": "If the pot placement is not done at the time of flag raising, a required ritual act has been omitted.",
+ "uncertainties": [],
+ "plain_english": "But if the pot placement has not been done at the time of flag raising,"
 }

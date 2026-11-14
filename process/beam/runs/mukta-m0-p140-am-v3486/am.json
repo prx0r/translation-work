@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3486,
- "question": "What shapes and ornaments are prescribed for these elements?",
+ "question": "What danger to the kingdom follows if the flag lacks its proper marks?",
  "premises": [
-  "The forms are square, eight, or round-like.",
-  "They are joined with pot ornament and so forth."
+  "The flag must have its proper marks",
+  "A flag lacking marks is defective",
+  "Such a defect causes fear for the kingdom"
  ],
- "inference": "The elements take square, eight, or round-like forms with pot ornament and related decoration.",
- "uncertainties": [
-  "The exact elements are not named."
- ],
- "plain_english": "Square, eight, or round-like, joined with pot ornament and so forth."
+ "inference": "If the flag lacks its proper marks, it causes fear for this kingdom.",
+ "uncertainties": [],
+ "plain_english": "If the flag lacks its proper marks, it causes fear for this kingdom."
 }

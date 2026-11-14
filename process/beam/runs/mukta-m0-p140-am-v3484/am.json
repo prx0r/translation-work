@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3484,
- "question": "Which beings and creatures ornament the archway?",
+ "question": "What fearful consequence follows if the secondary staff lacks its own proper mark?",
  "premises": [
-  "Vidyādharas are included.",
-  "Bhūtas are included.",
-  "Lions, elephants, serpents, and swans are included."
+  "The secondary staff must have its own proper mark",
+  "Deficiency in this mark is a fault",
+  "This fault produces fear"
  ],
- "inference": "The archway is ornamented with vidyādharas, bhūtas, lions, elephants, serpents, and swans.",
- "uncertainties": [
-  "The exact placement of each creature is not stated."
- ],
- "plain_english": "With vidyādharas, bhūtas, lions, elephants, serpents, and swans."
+ "inference": "If the secondary staff is deficient in its own mark, it brings fear.",
+ "uncertainties": [],
+ "plain_english": "If the secondary staff is deficient in its own proper mark, it brings fear."
 }

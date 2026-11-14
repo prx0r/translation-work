@@ -3,29 +3,39 @@
  "verse": 3500,
  "rows": [
   {
-   "lemma": "evaṃ",
-   "morph": "(indecl.)",
-   "grounds": "adverb introducing the summary of the preceding instruction"
+   "lemma": "kṛtvā",
+   "morph": "(gerund) kṛ",
+   "grounds": "absolutive of kṛ expressing prior action"
   },
   {
-   "lemma": "praṇālam",
+   "lemma": "ante",
+   "morph": "m.loc.sg",
+   "grounds": "locative indicating time or stage of completion"
+  },
+  {
+   "lemma": "śāntihomaṃ",
    "morph": "m.acc.sg",
-   "grounds": "object of ākhyātaṃ; channel for water"
+   "grounds": "compound śānti-homa as ritual object"
   },
   {
-   "lemma": "ākhyātaṃ",
-   "morph": "n.nom.sg.pass.past.participle",
-   "grounds": "passive participle agreeing with praṇālam"
-  },
-  {
-   "lemma": "padmamadhye",
-   "morph": "loc.sg.m",
-   "grounds": "locative of place; padma and madhya compound"
-  },
-  {
-   "lemma": "viśeṣataḥ",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb qualifying the placement"
+   "grounds": "conjunction linking ritual actions"
+  },
+  {
+   "lemma": "kumbhaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "ritual vessel to be installed"
+  },
+  {
+   "lemma": "saṃsthāpya",
+   "morph": "(gerund) sam-sthā",
+   "grounds": "absolutive of sam-sthā expressing prior installation"
+  },
+  {
+   "lemma": "pūrvavat",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable indicating conformity with prior procedure"
   }
  ]
 }
