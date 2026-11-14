@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 719,
- "question": "Which ritual acts receive progressively doubled fruit in this sacred place?",
+ "question": "What is addressed at all word-end to the bhūta-annihilating goddess?",
  "premises": [
-  "Worship is performed in this place.",
-  "Recitation is performed in this place.",
-  "The fruit of these acts is doubled repeatedly."
+  "goddess is vocative",
+  "all word-end is locative",
+  "bhūta-annihilating is vocative"
  ],
- "inference": "Both worship and recitation yield fruit that is doubled again and again.",
- "uncertainties": [],
- "plain_english": "In worship and in recitation, the fruit is twofold, twofold."
+ "inference": "The goddess is addressed as bhūta-annihilating at all word-end.",
+ "uncertainties": [
+  "missing main verb"
+ ],
+ "plain_english": "O goddess, bhūta-annihilating, at all word-end."
 }

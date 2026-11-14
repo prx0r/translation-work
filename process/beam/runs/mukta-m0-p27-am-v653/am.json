@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p27",
  "verse": 653,
- "question": "Into whose body did this Madhava enter at that time?",
+ "question": "Which additional places are identified as great seats or seats?",
  "premises": [
-  "This Madhava entered a body.",
-  "The body belonged to Brahma.",
-  "The entry occurred at that time."
+  "Pūrṇaśaila is a great seat.",
+  "Arvuda is another seat."
  ],
- "inference": "At that time, this Madhava entered the body of Brahma.",
- "uncertainties": [],
- "plain_english": "And then this Madhava entered into the body of Brahma."
+ "inference": "The list continues with further named seats.",
+ "uncertainties": [
+  "aparam may modify either Arvuda or the seat."
+ ],
+ "plain_english": "Pūrṇaśaila is a great seat, and Arvuda is likewise another seat."
 }

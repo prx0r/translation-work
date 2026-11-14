@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 716,
- "question": "What kinds of sacred seats are contained within that region?",
+ "question": "Where is the blue-bannered vidyā placed on the eleventh?",
  "premises": [
-  "A siddha-seat is present in the region.",
-  "A great-seat and a brahma-seat are present.",
-  "All these are included within that area."
+  "eleventh is locative",
+  "staff is locative",
+  "blue-bannered vidyā is accusative"
  ],
- "inference": "The region contains siddha, great, and brahma seats within it.",
- "uncertainties": [],
- "plain_english": "Within it are the siddha-seat, the great-seat, and the brahma-seat."
+ "inference": "On the eleventh, the blue-bannered vidyā is placed on the staff.",
+ "uncertainties": [
+  "staff body-part sense unclear"
+ ],
+ "plain_english": "On the eleventh, one would place the blue-bannered vidyā on the staff."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p02",
  "verse": 37,
- "question": "What title and position does this concluding colophon assign to the section?",
+ "question": "Who venerates the great Tripurasundari?",
  "premises": [
-  "The section is named an explanation of yoga.",
-  "It is identified as the sixth.",
-  "It is called a prakāśa or chapter."
+  "Brahma, Vishnu, and Shiva venerate her.",
+  "She is the great Tripurasundari."
  ],
- "inference": "This colophon marks the end of the sixth chapter, named the explanation of yoga.",
- "uncertainties": [],
- "plain_english": "This is the sixth chapter, named the Explanation of Yoga."
+ "inference": "The great Tripurasundari is venerated by Brahma, Vishnu, and Shiva.",
+ "uncertainties": [
+  "bhava is interpreted as Shiva."
+ ],
+ "plain_english": "Venerated by Brahma, Vishnu, and Shiva is the great Tripurasundari."
 }

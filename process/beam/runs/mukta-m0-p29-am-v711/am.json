@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 711,
- "question": "What condition is sufficient for undertaking the pilgrimage to this sacred region?",
+ "question": "Where is Śivadūtī placed on the seventh?",
  "premises": [
-  "A pilgrimage to the sacred place is undertaken.",
-  "The condition concerns going to this region.",
-  "Even a single person going there is sufficient."
+  "seventh is locative",
+  "Śivadūtī is accusative",
+  "heart is locative"
  ],
- "inference": "If even one person goes there on pilgrimage, that is sufficient in this context.",
- "uncertainties": [],
- "plain_english": "If even one person undertakes a pilgrimage and goes there."
+ "inference": "On the seventh, Śivadūtī is placed in the heart.",
+ "uncertainties": [
+  "svayaṃ scope unclear"
+ ],
+ "plain_english": "On the seventh, one would place Śivadūtī in the heart."
 }

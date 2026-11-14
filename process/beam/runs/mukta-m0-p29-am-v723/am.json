@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 723,
- "question": "What hardship is said never to afflict those within this sacred domain?",
+ "question": "How does the wise one place right and left in bright and dark fortnights?",
  "premises": [
-  "The subjects are those present in this context.",
-  "Suffering from the sun's rays is considered.",
-  "Such suffering is said never to be experienced by them."
+  "bright fortnight is locative",
+  "right placement is fused",
+  "left dark is locative"
  ],
- "inference": "Those in this sacred domain never experience suffering from the sun's rays.",
- "uncertainties": [],
- "plain_english": "Those who never experience suffering from the sun’s rays."
+ "inference": "The wise one places right in bright fortnight and left in dark fortnight in order.",
+ "uncertainties": [
+  "fused verb exact split not expanded"
+ ],
+ "plain_english": "In bright fortnight one places right, in dark fortnight left, in order, says the wise one."
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "mahātripurasundaryai",
+     "gloss": "great-tripurasundari",
+     "grounds": "compound in dative singular feminine; names the goddess receiving homage",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "indeclinable salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anunā",
+     "gloss": "with-anu",
+     "grounds": "instrumental singular masculine; accompanies the placement",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular active of nyas",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What mantra should be placed with anu during tattvanyāsa?",
+   "premises": [
+    "Tattvanyāsa removes all sins.",
+    "The mantra names Great Tripurasundari.",
+    "Anu accompanies the placement."
+   ],
+   "inference": "The verse prescribes placing the Great Tripurasundari salutation mantra with anu.",
+   "uncertainties": [
+    "The exact syntactic role of anu in nyāsa placement is not explicit."
+   ],
+   "plain_english": "One should place 'Homage to Great Tripurasundari' with anu."
+  }
+ ]
+}

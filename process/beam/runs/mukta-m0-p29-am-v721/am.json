@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 721,
- "question": "Who honors this sacred domain and how is its nature characterized?",
+ "question": "Where is the flame-garland placed on the skull?",
  "premises": [
-  "Brahmā, Viṣṇu, the lords of gods, and others serve it.",
-  "The domain receives reverent service from these beings.",
-  "It is described as supremely wondrous."
+  "skull is locative",
+  "right part is locative",
+  "flame-garland is accusative"
  ],
- "inference": "The sacred domain is served by great deities and is supremely wondrous.",
- "uncertainties": [],
- "plain_english": "It is served by Brahmā, Viṣṇu, the lords of the gods, and others, and it is supremely wondrous."
+ "inference": "On the right part of the skull, one places the flame-garland.",
+ "uncertainties": [
+  "exact side convention unclear"
+ ],
+ "plain_english": "On the right part of the skull, one would place the flame-garland."
 }

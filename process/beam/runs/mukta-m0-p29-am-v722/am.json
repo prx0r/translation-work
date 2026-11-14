@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 722,
- "question": "What is the measured extent of the yonipīṭha addressed to the Goddess?",
+ "question": "Where is the variegated vidyā placed?",
  "premises": [
-  "The location is identified as the yonipīṭha.",
-  "The Goddess is addressed directly.",
-  "Its extent is measured as five krośas."
+  "variegated is nominative",
+  "vidyā is nominative",
+  "brahmarandhra is locative"
  ],
- "inference": "The yonipīṭha is five krośas in extent.",
- "uncertainties": [],
- "plain_english": "O great Goddess, O Śivā, in the yonipīṭha, which measures five krośas."
+ "inference": "The variegated vidyā is placed at the brahmarandhra.",
+ "uncertainties": [
+  "vidyā identity not specified"
+ ],
+ "plain_english": "This variegated vidyā would be placed at the brahmarandhra."
 }

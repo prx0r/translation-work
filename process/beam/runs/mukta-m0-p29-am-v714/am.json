@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 714,
- "question": "What shape and sacred status characterize the region being described?",
+ "question": "Where is the five-arrows great-eternal placed on the tenth?",
  "premises": [
-  "The region is to be known as a triangle.",
-  "It is revered by gods and demons.",
-  "Both its form and sanctity are emphasized."
+  "five-arrows is accusative",
+  "great-eternal is accusative",
+  "lower lip is locative"
  ],
- "inference": "The region is a triangular sacred area honored by gods and demons.",
- "uncertainties": [],
- "plain_english": "Know it to be a triangle, revered by gods and demons."
+ "inference": "On the tenth, the five-arrows great-eternal is placed on the lower lip.",
+ "uncertainties": [
+  "compound relation unclear"
+ ],
+ "plain_english": "On the tenth, one would place the five-arrows great-eternal on the lower lip."
 }

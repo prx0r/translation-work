@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 713,
- "question": "Which sacred sites mark the northeastern and northwest boundaries of the region?",
+ "question": "Where is she placed around on the ninth in bright fortnight?",
  "premises": [
-  "Kedāra is located in the northeast.",
-  "Gajaśāsana is located in the northwest.",
-  "These sites serve as directional markers of the region."
+  "ninth is locative",
+  "bright fortnight is locative",
+  "throat is locative"
  ],
- "inference": "The region is marked by Kedāra in the northeast and Gajaśāsana in the northwest.",
- "uncertainties": [],
- "plain_english": "In the northeast is Kedāra, and in the northwest is Gajaśāsana."
+ "inference": "On the ninth in bright fortnight, she is placed around the throat.",
+ "uncertainties": [
+  "antecedent of tāṃ unclear"
+ ],
+ "plain_english": "On the ninth in the bright fortnight, then, one would place her around the throat."
 }
