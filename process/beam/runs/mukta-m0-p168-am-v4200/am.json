@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p168",
  "verse": 4200,
- "question": "How are the pots to be wrapped and adorned with gold lotuses?",
+ "question": "What characteristics render a chosen object suitable for ritual use?",
  "premises": [
-  "Pots are wrapped with garments.",
-  "Pots are endowed with gold lotuses.",
-  "Preparation precedes placement around altar."
+  "An object may have lines or dots",
+  "An object may have stains or similar marks",
+  "Absence of such marks indicates suitability"
  ],
- "inference": "The ritual pots must be clothed and ornamented before installation.",
+ "inference": "An object free from lines, dots, stains, and the like is indeed suitable.",
  "uncertainties": [
-  "Exact ritual function of the gold lotus is not specified."
+  "The exact referent of the suitable object depends on the preceding context"
  ],
- "plain_english": "Wrap the pots with cloths and provide them with gold lotuses."
+ "plain_english": "Alternatively, what is free from lines, dots, stains, and the like is indeed suitable."
 }

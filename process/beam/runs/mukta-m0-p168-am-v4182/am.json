@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p168",
  "verse": 4182,
- "question": "What should the wise one prepare for the bed?",
+ "question": "What ritual actions should be performed after depositing gold in the seat?",
  "premises": [
-  "bed is prepared",
-  "wise one prepares it",
-  "rice grain and other materials are used"
+  "Gold may be deposited.",
+  "The prior procedure serves as the model.",
+  "All actions should be performed accordingly."
  ],
- "inference": "The wise one prepares the bed with rice grain and other materials.",
- "uncertainties": [
-  "ka may be particle"
- ],
- "plain_english": "The wise one should prepare the bed with rice grains and similar materials."
+ "inference": "After optionally depositing gold, one should perform all rites as before.",
+ "uncertainties": [],
+ "plain_english": "Or, having deposited gold, one should then perform everything as before."
 }
