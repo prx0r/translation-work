@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "trikoṇaṃ",
+     "gloss": "triangular",
+     "grounds": "adjective qualifying tilakaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sundaraṃ",
+     "gloss": "beautiful",
+     "grounds": "adjective qualifying tilakaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svacchaṃ",
+     "gloss": "clear",
+     "grounds": "adjective qualifying tilakaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "object described by preceding adjectives",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "janamohanam",
+     "gloss": "people-enchanting",
+     "grounds": "compound adjective qualifying tilakaṃ",
+     "morph": "jana+mohana (compound), n.acc.sg"
+    }
+   ],
+   "question": "What qualities must the prepared forehead-mark possess to enchant people?",
+   "premises": [
+    "The forehead-mark is triangular in shape.",
+    "The forehead-mark is beautiful and clear.",
+    "The forehead-mark has the power to enchant people."
+   ],
+   "inference": "A forehead-mark prepared with these specified qualities becomes capable of enchanting people.",
+   "uncertainties": [],
+   "plain_english": "The forehead-mark should be triangular, beautiful, clear, and capable of enchanting people."
+  }
+ ]
+}

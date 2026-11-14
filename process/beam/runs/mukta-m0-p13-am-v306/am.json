@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p13",
  "verse": 306,
- "question": "Which iconic features identify Śiva in this gross visualization?",
+ "question": "What affliction arises in the land of Bharata within Jambudvipa?",
  "premises": [
-  "The form has eight arms.",
-  "The form has three eyes.",
-  "The form has lotus-petal eyes."
+  "A consequence is stated for the context.",
+  "The consequence is disease.",
+  "The location is Bharata in Jambudvipa."
  ],
- "inference": "The visualized deity is Śiva with eight arms, three eyes, and lotus-petal eyes.",
- "uncertainties": [],
- "plain_english": "Visualize Śiva as eight-armed, three-eyed, and with eyes like lotus petals."
+ "inference": "One certainly obtains disease in Bharata within Jambudvipa.",
+ "uncertainties": [
+  "The subject obtaining disease is implied from the preceding verses."
+ ],
+ "plain_english": "One certainly obtains disease in the land of Bharata in Jambudvipa."
 }
