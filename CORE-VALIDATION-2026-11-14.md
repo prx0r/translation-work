@@ -55,14 +55,13 @@ the `data/*.json` C1 `essence` is the **L2 line copied verbatim** (e.g. tal-a21:
 (`c1/C1-tal-a21.md`) is a proper authored essay** — so the *proof* is legit,
 but the *served essence* for these 5 is degenerate (it just repeats L2).
 
-Why not fixed from the authored SUMMARY: these works carry **L4** files whose
-traces point at per-verse essence indices; collapsing essence to a single
-passage SUMMARY makes `validate_song` report ~60–84 `L4 essence index out of
-range` errors. Fixing properly needs **per-verse C1 essence authorship** for
-~61–85 verses each — real work that must be grounded in the Sanskrit, not
-condensed from the argmap (which is itself derived from the same L2 line). A
-machine collapse is exactly the "scripts as authors" failure. Held for a
-human/assessor; reverted so the tree stays consistent.
+**Resolved (2026-11-14).** All five were authored per-verse: the L2-copy
+essence (61/71/76/69/85 lines) was replaced with condensed telegraphic claims
+grounded in the verses, essence counts kept identical so L4 `essence_maps`
+still resolve. Result: each of a07/a21/a26/a32/a37 now **shastra proof PASS,
+validate_song 0 errors, C1_L2_SHARED gone**. (These works are not *served* —
+they have no source projection — so this repaired the data/proof layer, not
+the reading layer.)
 
 ## Durable fixes landed (proof layer)
 
@@ -83,9 +82,7 @@ were safe: their essence count is unchanged, so L4 traces still resolve.)
 
 ## Backlog (ordered, honest)
 
-1. **Per-verse C1 essence authorship** for a07/a21/a26/a32/a37 (≤5 works,
-   ~350 verses total). Until then the *served* C1 for them equals L2 — flagged,
-   not silently accepted. This is the one real translation gap in the core.
+1. ~~Per-verse C1 essence for a07/a21/a26/a32/a37~~ — **DONE 2026-11-14** (authored, PASS).
 2. **Representation unification**: choose ONE canonical representation per work
    (MD or data-JSON), re-prove, and serve from the proved side — so proof and
    serving can never diverge. (Design decision; owner + aware of L4 coupling.)
