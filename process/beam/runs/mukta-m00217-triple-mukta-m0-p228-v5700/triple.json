@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p228",
+ "items": [
+  {
+   "verse": 5700,
+   "rows": [
+    {
+     "surface": "nābhauvibhāvya",
+     "gloss": "in-navel-having-visualized",
+     "grounds": "fused form nābhau+vibhāvya; nābhau locative of nābhi, vibhāvya gerund of vi-bhāv",
+     "morph": "nābhau: f.loc.sg + vibhāvya: (gerund) vi-√bhāv"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "locative of tatpuruṣa compound tad-madhya",
+     "morph": "n.loc.sg (compound: tad+madhya)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "3.sg.act.opt √hu"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "nominative subject, karmadhāraya compound sādhaka-uttama",
+     "morph": "m.nom.sg (compound: sādhaka+uttama)"
+    }
+   ],
+   "question": "Where and by whom should the ritual offering be performed after visualization in the navel?",
+   "premises": [
+    "The practitioner visualizes within the navel.",
+    "The offering is to be made in the middle of that visualized locus.",
+    "The prescribed agent of this offering is the best practitioner."
+   ],
+   "inference": "Therefore, the best practitioner, having visualized in the navel, should perform the offering in its middle.",
+   "uncertainties": [
+    "The exact referent of tanmadhye depends on the preceding visualization described in earlier verses."
+   ],
+   "plain_english": "Having visualized in the navel, the best practitioner should make the offering in its middle."
+  }
+ ]
+}

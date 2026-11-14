@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p230",
  "verse": 5748,
- "question": "What surrounding structures should adorn the completed shrine complex?",
+ "question": "Which final mantra elements are added in the form of Tārā Nīlasarasvatī?",
  "premises": [
-  "Pavilions and related structures described earlier are included.",
-  "Enclosure walls and similar structures are included.",
-  "The complex is adorned with them."
+  "Lajjā and astra are to be placed at the end",
+  "Tārā is named",
+  "Nīlasarasvatī is named"
  ],
- "inference": "The shrine complex should be adorned with the previously mentioned pavilions and enclosures.",
- "uncertainties": [],
- "plain_english": "It should be adorned with the previously described pavilions and the like, and with enclosure walls and so forth."
+ "inference": "At the end one should place lajjā and astra in the form associated with Tārā Nīlasarasvatī.",
+ "uncertainties": [
+  "The exact syntactic relation of 'tārā nīlasarasvatī' to the mantra sequence is somewhat compressed."
+ ],
+ "plain_english": "At the end one should place lajjā and astra; this is Tārā, Nīlasarasvatī."
 }

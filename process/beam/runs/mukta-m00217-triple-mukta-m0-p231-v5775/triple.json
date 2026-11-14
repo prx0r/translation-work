@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p231",
+ "items": [
+  {
+   "verse": 5775,
+   "rows": [
+    {
+     "surface": "sabindvananto",
+     "gloss": "with-bindu-ending-in-ananta",
+     "grounds": "bahuvrihi compound describing the mantra as ending in ananta accompanied by bindu; sandhi fusion within token",
+     "morph": "compound.bahuvrihi.m.nom.sg"
+    },
+    {
+     "surface": "hṛnmantraḥ",
+     "gloss": "heart-mantra",
+     "grounds": "tatpurusha compound denoting the heart-mantra",
+     "morph": "compound.tatpurusha.m.nom.sg"
+    },
+    {
+     "surface": "sūkṣmaṃ",
+     "gloss": "subtle",
+     "grounds": "qualifies the mantra as subtle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "binduyutaṃ",
+     "gloss": "joined-with-bindu",
+     "grounds": "tatpurusha compound indicating accompaniment by bindu",
+     "morph": "compound.tatpurusha.m.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive instruction for uttering the mantra",
+     "morph": "3.sg.optative.active √vad"
+    }
+   ],
+   "question": "What specific form must be uttered for the subtle heart-mantra in this transmission?",
+   "premises": [
+    "The heart-mantra is characterized as ending in Ananta accompanied by a bindu.",
+    "The mantra to be uttered is described as subtle.",
+    "The utterance must include the mantra joined with a bindu."
+   ],
+   "inference": "Therefore, the practitioner should utter the subtle heart-mantra in the form ending in Ananta and joined with bindu.",
+   "uncertainties": [
+    "The exact syllabic identity of ananta in this mantra sequence depends on the preceding transmitted elements."
+   ],
+   "plain_english": "One should utter the subtle heart-mantra, ending in Ananta with a bindu and joined with a bindu."
+  }
+ ]
+}
