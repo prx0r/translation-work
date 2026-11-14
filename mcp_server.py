@@ -425,17 +425,20 @@ def promote(work: str, song: str) -> dict:
 @mcp.tool()
 def skill(name: str) -> dict:
     """Return the governing SKILL.md for a lane (the law the swarm obeys).
-    name: crystal-ipvv (single-verse gold drill, the ONLY path to gold) or
+    name: crystal-ipvv (single-verse gold drill, the ONLY path to gold),
     largetext (swarm scaffolding: beam drafters + assessor gate + transmission
-    briefs + calibration). Read FIRST before any translation action."""
+    briefs + calibration), or proof (what a translation proof is, how it is
+    computed, and why to trust it — read before citing any proof gate).
+    Read FIRST before any translation action."""
     key = name.strip().lower().replace("_", "-")
     mapping = {"crystal-ipvv": "skills/crystal-ipvv/SKILL.md",
                "crystal": "skills/crystal-ipvv/SKILL.md",
                "largetext": "skills/largetext/SKILL.md",
-               "large": "skills/largetext/SKILL.md"}
+               "large": "skills/largetext/SKILL.md",
+               "proof": "skills/proof/SKILL.md"}
     rel = mapping.get(key)
     if not rel:
-        return {"error": f"unknown skill {name!r}: crystal-ipvv|largetext"}
+        return {"error": f"unknown skill {name!r}: crystal-ipvv|largetext|proof"}
     text = (ROOT / rel).read_text()
     ex = ROOT / rel.replace("SKILL.md", "EXAMPLES.md")
     out = {"skill": key, "text": text[:12000]}

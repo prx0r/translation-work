@@ -65,6 +65,7 @@ waived. Full gold adds the 7-part C1 + rasa + L3 + L4.
 |---|---|---|
 | `crystal-ipvv` (or `crystal`) | `skills/crystal-ipvv/SKILL.md` + `EXAMPLES.md` | Before ANY translation act: the 11-step drill, layer contracts, per-layer prompts with good/bad exhibits, gates, one-work-at-a-time |
 | `largetext` (or `large`) | `skills/largetext/SKILL.md` + `EXAMPLES.md` | Before ANY swarm act: DUMB/SMART split, transmission briefs, window rule (≤60 verses), size routing, calibration benchmarks, autonomy loop, factory porting |
+| `proof` | `skills/proof/SKILL.md` (no EXAMPLES) | Before citing any proof gate or asking ChatGPT to trust one: what a proof is, how each check is computed, verify-it-yourself recipe, exact trust scope and limits |
 
 `shastra.skill` serves both texts verbatim (truncated at 12k chars each —
 read the files directly for the full text). Also canonical: `FINAL-PROCESS.md`
@@ -114,6 +115,10 @@ return [] — look it up elsewhere, never invent. This is legwork support for
 the assessor's morphology, not a promotion path.
 
 ### `skill(name)` — read. The law, verbatim.
+
+`crystal-ipvv`, `largetext`, or `proof` (the proof standard: what a gate
+means, how it is computed, and why to trust it — point ChatGPT here before
+it cites any PASS).
 
 ### `swarm_seed(work, song, group=24)` — queue-only. Idempotent.
 
