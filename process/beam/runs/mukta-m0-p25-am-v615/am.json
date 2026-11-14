@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 615,
- "question": "Who may act in its absence and who may not?",
+ "question": "What milk pudding should be offered?",
  "premises": [
-  "A vaiśya may act in its absence.",
-  "A śūdra may never act."
+  "mocāguḍasitopetaṃ means moca gud sugar added",
+  "payaḥpāyasam means milk pudding",
+  "arpayet means should offer"
  ],
- "inference": "In its absence a vaiśya may act, but a śūdra never.",
- "uncertainties": [],
- "plain_english": "In its absence a vaiśya may act, but never a śūdra."
+ "inference": "A milk pudding with moca, gud, and sugar added should be offered.",
+ "uncertainties": [
+  "ingredients exact not clarified"
+ ],
+ "plain_english": "Offer milk pudding with moca, gud, and sugar added."
 }
