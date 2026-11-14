@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "caturaśra",
+     "gloss": "four-cornered-square",
+     "grounds": "bahuvrīhi/compound adjective 'catur' (four) + 'aśra' (corner/edge), describing a square form",
+     "morph": "compound"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "past passive participle from sam-ā-√yuj (to join, unite)",
+     "morph": "n.nom.sg.ppp-sam-ā-√yuj"
+    },
+    {
+     "surface": "tasyādhastāttu",
+     "gloss": "below-that-however",
+     "grounds": "fused form: 'tasya' (of-that) + 'adhastāt' (below) + 'tu' (however); internal sandhi within the token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable comparative expression 'pūrva' (previous) + 'vat' (like)",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form and placement must be prescribed for the lower section in continuity with the prior pattern?",
+   "premises": [
+    "The prescribed element is joined with a square form.",
+    "Its position is specified as below the previously described part.",
+    "The specification is to follow the earlier established pattern."
+   ],
+   "inference": "Therefore the lower section must be constructed as a square below, in accordance with the prior prescription.",
+   "uncertainties": [
+    "The exact referent of the square element is supplied by the preceding verses."
+   ],
+   "plain_english": "Joined with a square, and below that, it should be made as before."
+  }
+ ]
+}

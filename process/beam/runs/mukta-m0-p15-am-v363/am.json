@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p15",
  "verse": 363,
- "question": "How should the scope of the ritual apply across the best and other divisions?",
+ "question": "What polygonal shapes may be assigned to the middle section between the specified parts?",
  "premises": [
-  "There are divisions beginning with the best",
-  "The ritual has a scope of application"
+  "The middle section between two parts is under consideration.",
+  "An eight-cornered form is one option.",
+  "A sixteen-cornered form is another option."
  ],
- "inference": "The ritual's scope should extend across the best and other divisions",
- "uncertainties": [
-  "The full list of divisions is not specified"
- ],
- "plain_english": "And it should be within the scope of the divisions beginning with the best."
+ "inference": "The middle section may be made either eight-cornered or sixteen-cornered.",
+ "uncertainties": [],
+ "plain_english": "The middle between them should be made eight-cornered or alternatively sixteen-cornered."
 }

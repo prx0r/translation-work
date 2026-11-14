@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p152",
  "verse": 3790,
- "question": "Which physical defects render a liṅga unfit according to this list?",
+ "question": "What cubit measurements are permitted as alternatives in this specification?",
  "premises": [
-  "A liṅga may be decayed or burnt.",
-  "It may be improperly thin, thick, deficient, or excessive in measure.",
-  "These conditions are presented as defects."
+  "A measure of three, five, or seven cubits is given.",
+  "A measure of nine or eleven cubits is given.",
+  "These are presented as alternatives."
  ],
- "inference": "Therefore, liṅgas with these physical and proportional defects are unfit.",
- "uncertainties": [],
- "plain_english": "Decayed, burnt, too thin, too thick, deficient, or exceeding proper measure—such liṅgas are defective."
+ "inference": "The specification allows alternatives of three, five, seven, or nine-rudra cubits.",
+ "uncertainties": [
+  "The interpretation of navarudrakaraṃ as nine or eleven cubits depends on numerical symbolism."
+ ],
+ "plain_english": "It may be three, five, or seven cubits, or indeed nine-rudra cubits."
 }

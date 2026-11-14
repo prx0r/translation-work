@@ -1,12 +1,13 @@
 {
  "song": "mukta-m0-p15",
  "verse": 354,
- "question": "What additional preparation of scented water is required in another vessel?",
+ "question": "How is the pillar height proportionally determined relative to the pedestal height?",
  "premises": [
-  "Another vessel is to be used",
-  "Water there is scented with a camphor pill"
+  "The pedestal height is taken as the reference measure.",
+  "The pillar height is specified as double that measure.",
+  "The verse states this as a rule for pillar height."
  ],
- "inference": "A separate vessel should contain water scented with a camphor pill",
+ "inference": "The height of the pillar should be twice the height of the pedestal.",
  "uncertainties": [],
- "plain_english": "And in another vessel, there should be water scented with a camphor pill."
+ "plain_english": "The height of the pillar should be double the height of the pedestal."
 }

@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p15",
  "verse": 357,
- "question": "Which ritual practices are about to be explained next in the teaching?",
+ "question": "What structural element is designated as the hall pillar by its boundary extent?",
  "premises": [
-  "Certain practices are to be stated",
-  "These include muttering, oblation, and libation"
+  "A spatial boundary from front to northern limit is specified.",
+  "The verse assigns a name to the element defined by this extent.",
+  "The name given is hall pillar."
  ],
- "inference": "The upcoming teaching will explain muttering, oblation, and libation",
- "uncertainties": [],
- "plain_english": "Muttering, oblation, and libation are to be stated next."
+ "inference": "The element extending to the stated boundary is called the hall pillar.",
+ "uncertainties": [
+  "The token anyarāgha? contains a question mark in the source and its meaning is unclear.",
+  "The exact boundary description in prateruttarasīmāntaṃ is partly obscure."
+ ],
+ "plain_english": "That which extends to the northern boundary is called the hall pillar."
 }

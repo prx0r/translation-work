@@ -3,24 +3,39 @@
  "verse": 3504,
  "rows": [
   {
-   "lemma": "patākā",
+   "lemma": "teṣāṃ",
+   "morph": "pron.gen.pl.m",
+   "grounds": "refers to channels"
+  },
+  {
+   "lemma": "nāḍī",
    "morph": "f.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "subject in compound context"
   },
   {
-   "lemma": "ca",
+   "lemma": "trayāṇāṃ",
+   "morph": "num.gen.pl",
+   "grounds": "number of channels"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle"
+   "grounds": "particle"
   },
   {
-   "lemma": "pradīpaśca",
-   "morph": "m.nom.sg",
-   "grounds": "fused sandhi form; pradīpaḥ+ca"
+   "lemma": "yogaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "junction described"
   },
   {
-   "lemma": "devānāmaṣṭamaṅgalam",
-   "morph": "n.nom.sg",
-   "grounds": "fused sandhi form; devānām+aṣṭamaṅgalam"
+   "lemma": "bhrūmadhyame",
+   "morph": "n.loc.sg (compound: bhrū+madhyama)",
+   "grounds": "location of union"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.opt.act (√bhū)",
+   "grounds": "asserted occurrence"
   }
  ]
 }

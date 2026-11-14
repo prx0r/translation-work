@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p149",
  "verse": 3709,
- "question": "Which additional temple locations are included among the sites of the portent?",
+ "question": "What span is defined from the middle point to the middle of the side?",
  "premises": [
-  "An attendant shrine is included.",
-  "A hall is included.",
-  "The pavilion of the lord of gods' seat is included."
+  "The starting point is a specified middle.",
+  "The extent continues up to another point.",
+  "The endpoint is the middle of the side."
  ],
- "inference": "The portent may also occur in attendant shrines, halls, and the deity's seat pavilion.",
- "uncertainties": [],
- "plain_english": "In the attendant shrine, in the hall, or in the pavilion of the seat of the lord of the gods."
+ "inference": "The construction spans from the given middle to the middle of the side.",
+ "uncertainties": [
+  "The exact referent of kṣemamadhyama is unclear."
+ ],
+ "plain_english": "Starting from the middle point, extend as far as the middle of the side."
 }

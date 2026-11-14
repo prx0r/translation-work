@@ -1,0 +1,568 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3301,
+   "rows": [
+    {
+     "surface": "śvetayajñopavītaṃ",
+     "gloss": "white-sacred-thread",
+     "grounds": "compound describing the deity's appearance",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlakaṇṭhaṃ",
+     "gloss": "blue-throated",
+     "grounds": "epithet describing the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tripuṇṭravat",
+     "gloss": "with-three-marks",
+     "grounds": "comparative/possessive formation indicating bearing tripuṇḍra marks",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What visible attributes characterize the deity being described in this form?",
+   "premises": [
+    "The deity bears a white sacred thread.",
+    "The deity is blue-throated.",
+    "The deity bears the three marks."
+   ],
+   "inference": "The described form is identified by the white sacred thread, blue throat, and tripuṇḍra marks.",
+   "uncertainties": [],
+   "plain_english": "He has a white sacred thread, is blue-throated, and bears the three marks."
+  },
+  {
+   "verse": 3302,
+   "rows": [
+    {
+     "surface": "tvameva",
+     "gloss": "you-alone",
+     "grounds": "emphatic pronoun",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaktuṃ",
+     "gloss": "to-speak",
+     "grounds": "infinitive expressing purpose",
+     "morph": "infinitive (√vac)"
+    },
+    {
+     "surface": "tasyaiva",
+     "gloss": "of-that-very",
+     "grounds": "emphatic demonstrative",
+     "morph": "compound"
+    },
+    {
+     "surface": "hetuṃ",
+     "gloss": "reason",
+     "grounds": "object of speaking",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vaktu",
+     "gloss": "speak",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (√vac)"
+    },
+    {
+     "surface": "marhasi",
+     "gloss": "you-should",
+     "grounds": "expresses obligation or fitness",
+     "morph": "2.sg.pres.act (√arh)"
+    }
+   ],
+   "question": "Who is qualified to explain the reason for that specific divine form?",
+   "premises": [
+    "The speaker asks for the reason of that very form.",
+    "The addressee alone is addressed as capable of explaining it.",
+    "The addressee is urged to speak that reason."
+   ],
+   "inference": "Only the addressed authority is fit to explain the reason for that form.",
+   "uncertainties": [],
+   "plain_english": "You alone should tell me the reason for that very form."
+  },
+  {
+   "verse": 3303,
+   "rows": [
+    {
+     "surface": "taddāvānāma",
+     "gloss": "of-those-demons",
+     "grounds": "refers to the demons mentioned in context",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pārśvaṃ",
+     "gloss": "side",
+     "grounds": "location or proximity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative or potential sense",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "anaveṣaṃ",
+     "gloss": "unsearched",
+     "grounds": "describes the side as not investigated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act (√vad)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates constant condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the side or domain of those demons be regarded?",
+   "premises": [
+    "The side of those demons is under consideration.",
+    "It may be unsearched.",
+    "One should always declare it so."
+   ],
+   "inference": "The demons' side should always be regarded as unsearched.",
+   "uncertainties": [
+    "The exact referent of taddāvānāma and the sense of anaveṣaṃ are context-dependent."
+   ],
+   "plain_english": "One should always say that the side of those demons remains unsearched."
+  },
+  {
+   "verse": 3304,
+   "rows": [
+    {
+     "surface": "devatāḥ",
+     "gloss": "gods",
+     "grounds": "subject of the request",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hitāḥ",
+     "gloss": "friendly",
+     "grounds": "describes the gods' disposition",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of the gods",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prārthayeyuḥ",
+     "gloss": "may-request",
+     "grounds": "action directed toward the speaker",
+     "morph": "3.pl.opt.act (pra-√arth)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of the request",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Whom do all the friendly gods petition in this situation?",
+   "premises": [
+    "All the gods are friendly.",
+    "They make a request.",
+    "The request is directed to the speaker, addressed as twice-born."
+   ],
+   "inference": "All the friendly gods petition the speaker.",
+   "uncertainties": [],
+   "plain_english": "But all the friendly gods, O twice-born one, would petition me."
+  },
+  {
+   "verse": 3305,
+   "rows": [
+    {
+     "surface": "dānavānāṃ",
+     "gloss": "of-demons",
+     "grounds": "those targeted for destruction",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vināśārthaṃ",
+     "gloss": "for-destruction",
+     "grounds": "purpose compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "brahmamūrtiṃ",
+     "gloss": "brahma-form",
+     "grounds": "form assumed or targeted",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hanāmi",
+     "gloss": "I-slay",
+     "grounds": "action performed by the speaker",
+     "morph": "1.sg.pres.act (√han)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "explicit subject",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "What action does the speaker undertake for the destruction of the demons?",
+   "premises": [
+    "The purpose is the destruction of the demons.",
+    "The speaker acts in relation to the Brahma-form.",
+    "The speaker declares 'I slay'."
+   ],
+   "inference": "The speaker slays the Brahma-form for the destruction of the demons.",
+   "uncertainties": [
+    "Whether brahmamūrtiṃ is the form assumed by the speaker or the target slain is ambiguous from this verse alone."
+   ],
+   "plain_english": "For the destruction of the demons, I slay the Brahma-form."
+  },
+  {
+   "verse": 3306,
+   "rows": [
+    {
+     "surface": "tadbrahmāṇḍādhipāḥ",
+     "gloss": "lords-of-that-cosmic-egg",
+     "grounds": "rulers of that world-system",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of those lords",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mahābhaya",
+     "gloss": "great-fear",
+     "grounds": "state affecting the lords",
+     "morph": "compound"
+    },
+    {
+     "surface": "samanvitāḥ",
+     "gloss": "endowed-with",
+     "grounds": "indicates possession of fear",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What condition afflicts all the lords of that cosmic egg?",
+   "premises": [
+    "All the lords of that cosmic egg are the subject.",
+    "They are associated with great fear."
+   ],
+   "inference": "All the lords of that cosmic egg are seized by great fear.",
+   "uncertainties": [],
+   "plain_english": "All the lords of that cosmic egg were filled with great fear."
+  },
+  {
+   "verse": 3307,
+   "rows": [
+    {
+     "surface": "anyānāṃ",
+     "gloss": "of-others",
+     "grounds": "refers to other beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "supratiṣṭhārthaṃ",
+     "gloss": "for-firm-establishment",
+     "grounds": "purpose compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devānām",
+     "gloss": "of-gods",
+     "grounds": "beneficiaries alongside others",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "abhayārthakam",
+     "gloss": "for-fearlessness",
+     "grounds": "purpose of granting safety",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "For whose benefit and for what purpose is the subsequent action undertaken?",
+   "premises": [
+    "The action aims at firm establishment for others.",
+    "The action aims at fearlessness for the gods."
+   ],
+   "inference": "The action is undertaken to establish others firmly and to grant fearlessness to the gods.",
+   "uncertainties": [],
+   "plain_english": "For the firm establishment of others and for the fearlessness of the gods."
+  },
+  {
+   "verse": 3308,
+   "rows": [
+    {
+     "surface": "tatkapālasya",
+     "gloss": "of-that-skull",
+     "grounds": "object whose release is sought",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mokṣārthaṃ",
+     "gloss": "for-release",
+     "grounds": "purpose compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhikṣākāraḥ",
+     "gloss": "beggar-form",
+     "grounds": "form assumed by the speaker",
+     "morph": "compound"
+    },
+    {
+     "surface": "asmi",
+     "gloss": "I-am",
+     "grounds": "present state of the speaker",
+     "morph": "1.sg.pres.act (√as)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "explicit subject",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Why does the speaker assume the form of a beggar in this account?",
+   "premises": [
+    "The purpose is the release of that skull.",
+    "The speaker declares being in the form of a beggar.",
+    "The statement is addressed to the twice-born."
+   ],
+   "inference": "The speaker assumes the beggar form for the release of that skull.",
+   "uncertainties": [],
+   "plain_english": "For the release of that skull, O twice-born one, I take the form of a beggar."
+  },
+  {
+   "verse": 3309,
+   "rows": [
+    {
+     "surface": "ityaṃśumān",
+     "gloss": "thus-aṃśumān",
+     "grounds": "concluding formula naming the text or speaker",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-kāśyapa",
+     "grounds": "locative indicating the work or context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhikṣāṭanamūrtilakṣaṇapaṭalaḥ",
+     "gloss": "chapter-on-begging-form-characteristics",
+     "grounds": "title of the chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "saptasaptatitamaḥ",
+     "gloss": "seventy-seventh",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumat Kāśyapa text concludes at this point?",
+   "premises": [
+    "The passage ends with a concluding formula.",
+    "The text is identified as in Kāśyapa/Aṃśumān.",
+    "The chapter is named as concerning the characteristics of the begging form."
+   ],
+   "inference": "This marks the end of the seventy-seventh chapter on the characteristics of the begging form in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the seventy-seventh chapter, on the characteristics of the begging form, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 3310,
+   "rows": [
+    {
+     "surface": "umā",
+     "gloss": "umā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sahitavat",
+     "gloss": "accompanied",
+     "grounds": "indicates being together with Umā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "entire form or aspect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "somewhat",
+     "grounds": "degree of bending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "natānanam",
+     "gloss": "bent-face",
+     "grounds": "describes the posture of the face",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the deity depicted when accompanied by Umā on the left side?",
+   "premises": [
+    "The form is accompanied by Umā.",
+    "The left side is specified.",
+    "The face is somewhat bent."
+   ],
+   "inference": "When accompanied by Umā on the left, the deity is shown with the face somewhat bent.",
+   "uncertainties": [],
+   "plain_english": "Accompanied by Umā, the whole form on the left has the face slightly bent."
+  },
+  {
+   "verse": 3311,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭakaṃ",
+     "gloss": "bracelet",
+     "grounds": "ornament under discussion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varjyaṃ",
+     "gloss": "to-be-avoided",
+     "grounds": "prescriptive prohibition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "gerund (ni-√as)"
+    },
+    {
+     "surface": "caṇḍeśamūrdhani",
+     "gloss": "on-caṇḍeśa-head",
+     "grounds": "location of placement",
+     "morph": "compound"
+    }
+   ],
+   "question": "What ornament rule applies on the left when placing something on Caṇḍeśa's head?",
+   "premises": [
+    "The left side is specified.",
+    "A bracelet is mentioned.",
+    "The bracelet is to be avoided.",
+    "An action of placing on Caṇḍeśa's head is indicated."
+   ],
+   "inference": "On the left, a bracelet is to be avoided when placing upon Caṇḍeśa's head.",
+   "uncertainties": [
+    "The syntactic relation of nyastvā to the rest of the clause is somewhat compressed."
+   ],
+   "plain_english": "But on the left, a bracelet is to be avoided, having placed upon Caṇḍeśa's head."
+  },
+  {
+   "verse": 3312,
+   "rows": [
+    {
+     "surface": "āsīnaḥ",
+     "gloss": "seated",
+     "grounds": "posture of the figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "narrative transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhāsīnaḥ",
+     "gloss": "comfortably-seated",
+     "grounds": "specifies the manner of sitting",
+     "morph": "compound"
+    },
+    {
+     "surface": "caṇḍeśaḥ",
+     "gloss": "caṇḍeśa",
+     "grounds": "name of the figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svarṇasaṃnibhaḥ",
+     "gloss": "gold-like",
+     "grounds": "describes appearance",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is Caṇḍeśa depicted in posture and appearance in this description?",
+   "premises": [
+    "Caṇḍeśa is seated.",
+    "He is comfortably seated.",
+    "He is like gold in appearance."
+   ],
+   "inference": "Caṇḍeśa is depicted as comfortably seated and gold-like in appearance.",
+   "uncertainties": [],
+   "plain_english": "Then Caṇḍeśa is seated comfortably, resembling gold."
+  }
+ ]
+}

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p147",
  "verse": 3669,
- "question": "Is the peak-diameter the lupaya-middle, two-ear, or double?",
+ "question": "Which points must the measuring line touch in this alignment?",
  "premises": [
-  "peak-diameter is named",
-  "lupaya-middle is named",
-  "two-ear is named"
+  "The line should touch the belly.",
+  "The line should touch the tip of the nose.",
+  "Both contacts are prescribed."
  ],
- "inference": "The verse gives alternative identifications for the peak-diameter.",
- "uncertainties": [
-  "which identification applies is not fixed"
- ],
- "plain_english": "The peak-diameter is the lupaya-middle, two-ear, or double, as appropriate."
+ "inference": "The measuring line should touch the belly and also the tip of the nose.",
+ "uncertainties": [],
+ "plain_english": "Then the line should touch the belly and should also touch the tip of the nose."
 }

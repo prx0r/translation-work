@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p152",
  "verse": 3777,
- "question": "What structural defects in a temple require remedial ritual action?",
+ "question": "What orientations are prescribed for the sacred path in the layout?",
  "premises": [
-  "The temple may be fallen or broken.",
-  "Its face may be decayed.",
-  "Its directional orientation may be confused."
+  "The sacred path may be east-facing.",
+  "The sacred path may likewise be north-facing.",
+  "Both orientations are presented as valid options."
  ],
- "inference": "Therefore, these specific defects constitute conditions requiring remedial measures.",
- "uncertainties": [
-  "The exact architectural referent of vaktre is context-dependent."
- ],
- "plain_english": "When the temple has fallen or is broken, when its face is decayed, and when there is confusion of directions."
+ "inference": "The sacred path may be oriented either eastward or northward.",
+ "uncertainties": [],
+ "plain_english": "The sacred path should be east-facing, and likewise it may be north-facing."
 }

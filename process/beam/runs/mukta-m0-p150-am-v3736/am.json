@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3736,
- "question": "What ritual action is prescribed for the removal of suffering?",
+ "question": "Which zodiacal signs are enumerated as the relevant settings in this passage?",
  "premises": [
-  "Removal of suffering is stated as the purpose.",
-  "A specific worship is named.",
-  "The worship is described as eight times eight."
+  "Aries is mentioned.",
+  "Gemini is mentioned.",
+  "Cancer, Leo, Libra, and Scorpio are mentioned together."
  ],
- "inference": "One should perform the eight-times-eight worship for the removal of suffering.",
- "uncertainties": [],
- "plain_english": "For the removal of suffering, one should perform the worship of eight times eight."
+ "inference": "The verse lists Aries, Gemini, Cancer, Leo, Libra, and Scorpio as relevant signs.",
+ "uncertainties": [
+  "The specific action prescribed for these signs is given in the following verse."
+ ],
+ "plain_english": "In Aries, in Gemini, and in Cancer, Leo, Libra, and Scorpio."
 }

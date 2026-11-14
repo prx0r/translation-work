@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p152",
  "verse": 3782,
- "question": "Where must misplaced ritual or architectural elements be established?",
+ "question": "What configuration applies when the layout has one path and twenty-three units?",
  "premises": [
-  "Some elements stand in the wrong place.",
-  "Correct placement requires being in their own place.",
-  "Proper establishment is especially required."
+  "The layout has a single path.",
+  "The measure is twenty-three units.",
+  "The outer course is divided eightfold."
  ],
- "inference": "Therefore, elements standing in the wrong place must be established in their proper places.",
- "uncertainties": [],
- "plain_english": "Those standing in the wrong place must be established in their proper places, especially."
+ "inference": "A single-path layout of twenty-three units has an eightfold outer course.",
+ "uncertainties": [
+  "The technical sense of dantaṃ and parāgama in this ritual layout is uncertain."
+ ],
+ "plain_english": "With one path and twenty-three units, the outer course is divided eightfold."
 }

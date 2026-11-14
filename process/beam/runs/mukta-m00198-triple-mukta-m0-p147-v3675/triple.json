@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p147",
+ "items": [
+  {
+   "verse": 3675,
+   "rows": [
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "specifies a measure of one unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitrimātraṃ",
+     "gloss": "two-or-three-measures",
+     "grounds": "compound indicating a measure of two or three mātrā units",
+     "morph": "compound=dvi+tri+mātra+n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces another alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhāduddhṛtapādakam",
+     "gloss": "foot-raised-from-seat",
+     "grounds": "compound describing the foot lifted up from the pedestal",
+     "morph": "compound=pīṭha+uddhṛta+pādaka+n.acc.sg"
+    }
+   ],
+   "question": "What alternative measures are permitted for raising the foot from the pedestal?",
+   "premises": [
+    "A raised foot from the pedestal is the subject of the prescribed posture.",
+    "One measure is presented as a permissible option.",
+    "Two or three measures are presented as alternative permissible options."
+   ],
+   "inference": "The foot may be raised from the pedestal by either one measure or by two or three measures.",
+   "uncertainties": [
+    "The exact physical length corresponding to a mātrā in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "Or the foot may be raised from the pedestal by one measure, or by two or three measures."
+  }
+ ]
+}

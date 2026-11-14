@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p147",
  "verse": 3667,
- "question": "From the end to the knee-limit, is the crest-part used?",
+ "question": "What measured placement to the right of that line involves the left hand?",
  "premises": [
-  "end source is named",
-  "knee-limit is named",
-  "crest-part is named"
+  "A position to the right of that line is specified.",
+  "The left hand is mentioned.",
+  "A measure is indicated."
  ],
- "inference": "The verse measures from the end to the knee-limit using the crest-part.",
+ "inference": "The left hand is to be placed at some measure to the right of that line.",
  "uncertainties": [
-  "whether crest-part is mandatory is unclear"
+  "Three tokens are lacunae, so the exact distance and construction are unclear."
  ],
- "plain_english": "From the end to the knee-limit, the crest-part is indeed used."
+ "plain_english": "To the right of that line, the left hand is to be placed at a certain measure."
 }
