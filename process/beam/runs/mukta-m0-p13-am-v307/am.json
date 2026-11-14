@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p13",
  "verse": 307,
- "question": "Who is the presiding goddess of all young women?",
+ "question": "What measures determine the base height and foot moulding in this division?",
  "premises": [
-  "All young women are considered as a group.",
-  "A presiding deity is identified for them.",
-  "Bhavani is named as that deity."
+  "The base height is specified in relation to a twelve-part scheme",
+  "The foot moulding is assigned two parts",
+  "The prescription is stated as a rule"
  ],
- "inference": "Bhavani is the supreme goddess of all young women.",
- "uncertainties": [],
- "plain_english": "Bhavani is the supreme goddess of all young women."
+ "inference": "The base height follows the stated division and the foot moulding should be two parts.",
+ "uncertainties": [
+  "Exact parsing of bhānudvyaṃśe is uncertain"
+ ],
+ "plain_english": "In the stated division the base height is set, and the foot moulding should be two parts."
 }

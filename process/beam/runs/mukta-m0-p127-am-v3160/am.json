@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p127",
  "verse": 3160,
- "question": "In what sequence should pacification, directional offering, and sprinkling be performed?",
+ "question": "Which point on the left side is aligned from the crown to the eye’s end?",
  "premises": [
-  "A peace rite is required.",
-  "A directional fire offering is required.",
-  "Sprinkling is required in sequence."
+  "The reference starts from the crown.",
+  "The alignment is on the left side.",
+  "It reaches the end of the eye and the end of that fold."
  ],
- "inference": "One should perform the peace rite, the directional fire offering, and sprinkling in due order.",
- "uncertainties": [],
- "plain_english": "One should carry out the peace rite, the directional fire offering, and sprinkling in order."
+ "inference": "A line from the crown on the left side passes through the eye’s end to the end of that fold.",
+ "uncertainties": [
+  "The exact referent of 'that fold' (puṭa) is context-dependent."
+ ],
+ "plain_english": "From the crown on the left side, the line runs to the end of the eye and to the end of that fold."
 }

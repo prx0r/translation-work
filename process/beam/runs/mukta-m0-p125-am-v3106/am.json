@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3106,
- "question": "Do missing ritual substances or omission of the auspicious declaration invalidate the rite?",
+ "question": "How should the staff number be determined from the enumerated values and remainder?",
  "premises": [
-  "Cow products and other substances may be lost",
-  "The auspicious declaration may be omitted",
-  "Both are required ritual components"
+  "A remainder is to be considered.",
+  "The calculation applies among the enumerated values.",
+  "The practitioner is instructed to determine the staff number accordingly."
  ],
- "inference": "Loss of substances or omission of the auspicious declaration requires remedy",
- "uncertainties": [],
- "plain_english": "Or when cow products and other substances are lost, or when the auspicious declaration is omitted."
+ "inference": "The staff number must be derived by applying the remainder within the given numerical series.",
+ "uncertainties": [
+  "The technical meaning of kartarīś in this measurement context is uncertain."
+ ],
+ "plain_english": "And from the remainder among those, determine the staff number accordingly."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p13",
  "verse": 305,
- "question": "What destination awaits one who has recited the Puranas?",
+ "question": "What heights are prescribed for the upper section and the pitcher moulding?",
  "premises": [
-  "A person may recite the Puranas.",
-  "Recitation leads to a definite consequence.",
-  "The consequence is going to hell."
+  "A height of four parts is specified",
+  "The pitcher moulding is assigned one part",
+  "These follow the established part division"
  ],
- "inference": "Having recited the Puranas, one certainly goes to hell.",
- "uncertainties": [],
- "plain_english": "Indeed, having recited the Puranas, one certainly goes to hell."
+ "inference": "The height is four parts and the pitcher moulding is one part.",
+ "uncertainties": [
+  "The token tsedhaṃ may represent utsedhaṃ but is kept as given",
+  "Interpretation of veda as four parts follows convention"
+ ],
+ "plain_english": "The height is four parts, and the pitcher is one part."
 }

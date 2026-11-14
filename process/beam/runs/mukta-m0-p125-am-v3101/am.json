@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3101,
- "question": "What remedial action is required when bathing rites of different types are lost?",
+ "question": "What alternative proportional lengths are permitted for the prescribed measure?",
  "premises": [
-  "Daily bathing rites may be lost",
-  "Occasional bathing rites may be lost",
-  "Optional desired bathing rites may be lost"
+  "The measure may be a foot in length.",
+  "The measure may be less by half a foot.",
+  "The measure may be double or extended to that length."
  ],
- "inference": "Loss of any category of bathing rite constitutes a ritual defect requiring remedy",
- "uncertainties": [],
- "plain_english": "When the bathing rite is lost, whether in daily, occasional, or optional desired observances."
+ "inference": "The ritual specification allows several proportional alternatives for the same measure.",
+ "uncertainties": [
+  "Whether pādaṃ refers to a linear foot-unit or to the deity's foot is not explicit in this verse alone."
+ ],
+ "plain_english": "That measure may be a foot, or less by half a foot, or double, or extended to that length."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3184,
- "question": "What results follow when the anthill appears above that range or in Indra's quarter?",
+ "question": "How should the left and right hands be oriented in sequence?",
  "premises": [
-  "Directional placement changes the result.",
-  "Above the specified range is one case.",
-  "Indra's quarter is another case."
+  "The left and right hands are taken in order.",
+  "Their orientation is specified as upward-facing and downward-facing."
  ],
- "inference": "Above that range there would be destruction of beings, and in Indra's quarter there would be fear.",
- "uncertainties": [],
- "plain_english": "Above that, there would be destruction of living beings; in Indra's quarter, there would be fear."
+ "inference": "The left and right hands should be arranged sequentially, one facing upward and the other downward.",
+ "uncertainties": [
+  "The exact assignment of upward or downward to left or right is not explicit."
+ ],
+ "plain_english": "The left and right hands, in order, should face upward and downward."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p13",
  "verse": 309,
- "question": "What qualities characterize the supreme goddess's radiance and face?",
+ "question": "How are the fillet and neck measures specified in this sequence?",
  "premises": [
-  "Her radiance resembles a red bimba fruit.",
-  "Her face resembles the full moon.",
-  "She is described as supreme."
+  "A fillet is assigned one part",
+  "The neck is specified in sequence",
+  "Another fillet is assigned a three-part measure"
  ],
- "inference": "The supreme goddess shines like a red bimba fruit and has a face like the full moon.",
- "uncertainties": [],
- "plain_english": "She shines like a red bimba fruit, has a face like the full moon, and is supreme."
+ "inference": "The sequence prescribes a fillet of one part, the neck, and another fillet of three parts.",
+ "uncertainties": [
+  "Interpretation of guṇāṃśa as three parts follows convention"
+ ],
+ "plain_english": "Make a fillet of one part, then the neck, and a fillet of three parts."
 }

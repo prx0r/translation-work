@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3199,
- "question": "What concluding ritual sequence should be performed for the lord of gods?",
+ "question": "What spatial line is defined from the forehead to the left eye?",
  "premises": [
-  "A ritual bathing is performed.",
-  "A directional fire offering is prescribed.",
-  "These actions form a sequence."
+  "A reference point is given at the middle of the forehead toward the left.",
+  "The line ends at the left eye."
  ],
- "inference": "After performing the bathing, one should then conduct the directional fire offering for the lord of gods.",
- "uncertainties": [],
- "plain_english": "O Lord of gods, after performing the bathing, one should then conduct the fire offering to the directions."
+ "inference": "A line is defined running from the middle of the forehead to the left eye.",
+ "uncertainties": [
+  "The full syntactic context of this measurement continues beyond this verse."
+ ],
+ "plain_english": "From the middle of the forehead toward the left, ending at the left eye."
 }

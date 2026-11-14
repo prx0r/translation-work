@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p127",
  "verse": 3171,
- "question": "Which locations determine the graded sequence of remedies from inner to outer spaces?",
+ "question": "What girths are prescribed for the arrow and the bowstring?",
  "premises": [
-  "The inner sanctum is listed.",
-  "The half pavilion and image pavilion are listed.",
-  "An outer direction and sequence are indicated."
+  "The arrow’s girth is specified as one third.",
+  "The bowstring’s girth is specified.",
+  "The bowstring is made of thread."
  ],
- "inference": "The remedies are graded in order across the sanctum, half pavilion, image pavilion, and outer areas.",
- "uncertainties": [],
- "plain_english": "In the sanctum, the half pavilion, the image pavilion, and outside, in due order,"
+ "inference": "The arrow’s girth is one third of the reference, and the bowstring is a thread of corresponding girth.",
+ "uncertainties": [
+  "The base measure for 'one third' is not explicitly stated in this verse."
+ ],
+ "plain_english": "The arrow’s girth should be one third, and the bowstring’s girth should be that of a thread."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3105,
- "question": "Is the loss of prescribed tufts or their ritual sequence considered a serious omission?",
+ "question": "What sequence of numerical values is enumerated for the measurement scheme?",
  "premises": [
-  "The ritual tuft may be lost",
-  "The sequence of the upper tuft may be omitted",
-  "Tufts are prescribed ritual elements"
+  "The first compound lists one through five.",
+  "The second compound lists six through ten.",
+  "Together they form a continuous numerical series."
  ],
- "inference": "Loss of tufts or their sequence constitutes a ritual defect",
- "uncertainties": [
-  "exact technical sense of utkūrcakrama is context-dependent"
- ],
- "plain_english": "Or when the ritual tuft is lost, or when the sequence of the upper tuft is omitted."
+ "inference": "The measurement scheme employs the full numerical sequence from one to ten.",
+ "uncertainties": [],
+ "plain_english": "One, two, three, four, five, six, seven, eight, nine, and ten."
 }

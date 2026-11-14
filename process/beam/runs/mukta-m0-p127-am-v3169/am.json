@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p127",
  "verse": 3169,
- "question": "Which outer sacred areas are covered by the next purification rule?",
+ "question": "What total height and sectional measures are specified for the bow?",
  "premises": [
-  "The inner enclosure and hall are mentioned.",
-  "The garland area and similar places are mentioned.",
-  "The pavilion is mentioned."
+  "The bow is twenty finger-units high.",
+  "It is divided into three parts.",
+  "The parts measure five, seven, and nine finger-units."
  ],
- "inference": "The rule applies to the inner enclosure, hall, garland area, pavilion, and similar places.",
- "uncertainties": [],
- "plain_english": "In the inner enclosure, hall, and the like, in the garland area and the like, and in the pavilion,"
+ "inference": "The bow’s height is twenty finger-units divided into sections of five, seven, and nine finger-units.",
+ "uncertainties": [
+  "The exact order of the three sections is not explicitly stated."
+ ],
+ "plain_english": "The bow is twenty finger-units high, divided into three parts of five, seven, and nine finger-units."
 }
