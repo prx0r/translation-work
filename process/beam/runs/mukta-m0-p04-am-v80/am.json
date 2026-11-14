@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 80,
- "question": "Which specific substances are listed as ingredients for the preparation?",
+ "question": "Which deities are specified as facing east and west in this arrangement?",
  "premises": [
-  "Marking-nut juice is included.",
-  "Abrus seed and poison are included.",
-  "Leadwort is also included."
+  "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā are named.",
+  "These deities are described as facing east and west.",
+  "The verse specifies their orientation."
  ],
- "inference": "The preparation uses marking-nut juice, abrus seed, poison, and leadwort.",
- "uncertainties": [],
- "plain_english": "Marking-nut juice, abrus seed, poison, and leadwort are included."
+ "inference": "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā should face east and west.",
+ "uncertainties": [
+  "The exact assignment of east versus west to individual deities is not specified."
+ ],
+ "plain_english": "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā should face east and west."
 }

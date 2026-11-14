@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "bharaṇyā",
+     "gloss": "with-bharaṇī",
+     "grounds": "instrumental of architectural member bharaṇī",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "bharaṇaṃ",
+     "gloss": "support",
+     "grounds": "architectural member; subject or compared element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śīrṣaṃ",
+     "gloss": "head",
+     "grounds": "architectural member; subject or compared element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kapotālyā",
+     "gloss": "with-kapotālī",
+     "grounds": "instrumental of architectural member kapotālī",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "predicate expressing equality of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What proportional equality must the support and head maintain with the bharaṇī and kapotālī?",
+   "premises": [
+    "The bharaṇa is a specified architectural support member.",
+    "The śīrṣa is a specified architectural head member.",
+    "The bharaṇī and kapotālī serve as measures of comparison.",
+    "The prescribed relation is equality of measure."
+   ],
+   "inference": "The support and the head should be made equal in measure to the bharaṇī and the kapotālī.",
+   "uncertainties": [
+    "The exact dimensional correspondence between bharaṇa/śīrṣa and bharaṇī/kapotālī is not specified in this verse alone."
+   ],
+   "plain_english": "The support and the head should be equal to the bharaṇī and the kapotālī."
+  }
+ ]
+}

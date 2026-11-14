@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 108,
- "question": "What unprecedented earthly deed is proclaimed through viṣṇu's highly honorable words?",
+ "question": "What aṅgula increases apply successively for each cubit in this sequence?",
  "premises": [
-  "An unprecedented deed has been done on earth.",
-  "This is proclaimed as 'say thus'.",
-  "The proclamation conveys viṣṇu's very honorable words."
+  "The increase is calculated per cubit in order.",
+  "The sequence gives fourteen, twelve, and nine.",
+  "The unit of increase is the aṅgula."
  ],
- "inference": "Viṣṇu's honorable words publicly proclaim an unprecedented deed accomplished on earth.",
- "uncertainties": [],
- "plain_english": "Causing to be heard the very honorable words of viṣṇu, saying, 'An unprecedented deed has been done on earth.'"
+ "inference": "The increase is fourteen, twelve, and nine aṅgulas successively for each cubit.",
+ "uncertainties": [
+  "The range of cubits to which this sequence applies is not specified in this verse."
+ ],
+ "plain_english": "Cubit by cubit, in order, the increase is fourteen, twelve, and nine aṅgulas."
 }

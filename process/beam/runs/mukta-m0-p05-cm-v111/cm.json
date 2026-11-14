@@ -3,39 +3,44 @@
  "verse": 111,
  "rows": [
   {
-   "lemma": "upāsituṃ",
-   "morph": "(infinitive)",
-   "grounds": "to attend in reverence"
+   "lemma": "pañca",
+   "morph": "(compound-member: pañca)",
+   "grounds": "lower bound of the range; first member of compound"
   },
   {
-   "lemma": "prāptam",
-   "morph": "m.acc.sg.past.pass.part (pra-āp)",
-   "grounds": "having come"
+   "lemma": "ādi",
+   "morph": "(compound-member: ādi)",
+   "grounds": "indicates start of range; middle member of compound"
   },
   {
-   "lemma": "aphalgu+bhāṇḍa+pāṇiṃ",
-   "morph": "compound m.acc.sg",
-   "grounds": "holding a substantial vessel"
+   "lemma": "nava",
+   "morph": "(compound-member: nava)",
+   "grounds": "upper bound of the range; middle member of compound"
   },
   {
-   "lemma": "sthitaṃ",
-   "morph": "m.acc.sg.past.pass.part (sthā)",
-   "grounds": "present in place"
+   "lemma": "bhāga",
+   "morph": "(compound-member: bhāga)",
+   "grounds": "divisions; middle member of compound"
   },
   {
-   "lemma": "nītim",
-   "morph": "f.acc.sg",
-   "grounds": "proper procedure"
+   "lemma": "antaṃ",
+   "morph": "m.acc.sg (compound: pañca+ādi+nava+bhāga+anta)",
+   "grounds": "indicates end of range"
   },
   {
-   "lemma": "upāsayan",
-   "morph": "m.nom.sg.pres.part.causative (upa-ās)",
-   "grounds": "attending respectfully"
+   "lemma": "pīṭhasya",
+   "morph": "m.gen.sg",
+   "grounds": "possessor whose height is specified"
   },
   {
-   "lemma": "ca",
+   "lemma": "pañcadhā",
    "morph": "(indecl.)",
-   "grounds": "connective"
+   "grounds": "fivefold division or variation"
+  },
+  {
+   "lemma": "udayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "vertical rise of the base"
   }
  ]
 }

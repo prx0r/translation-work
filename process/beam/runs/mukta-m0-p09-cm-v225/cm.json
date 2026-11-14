@@ -3,34 +3,44 @@
  "verse": 225,
  "rows": [
   {
-   "lemma": "barhiḥ+mukha+sva+sva+mukham",
-   "morph": "compound.acc.sg.m",
-   "grounds": "compound describing tvām; barhiḥ-mukha (fire-mouthed, Agni) taken as one's own mouth by the worshippers"
+   "lemma": "sama",
+   "morph": "adj.",
+   "grounds": "qualifies the extent of the projection"
   },
   {
-   "lemma": "makheṣu",
-   "morph": "m.loc.pl",
-   "grounds": "locative plural indicating the ritual setting"
+   "lemma": "nirgamam",
+   "morph": "m.acc.sg",
+   "grounds": "architectural projection or offset"
   },
   {
-   "lemma": "tvām",
-   "morph": "pron.acc.sg",
-   "grounds": "direct object, the deity addressed"
+   "lemma": "asmāt",
+   "morph": "pron.abl.sg",
+   "grounds": "refers to the previously described division or measure"
   },
   {
-   "lemma": "tat+janāḥ",
-   "morph": "compound.nom.pl.m",
-   "grounds": "compound; followers or people of that group/tradition"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects specifications"
   },
   {
-   "lemma": "kecana",
-   "morph": "pron.nom.pl.m",
-   "grounds": "indefinite pronoun qualifying tat+janāḥ"
+   "lemma": "bhadraṃ",
+   "morph": "n.acc.sg",
+   "grounds": "the bhadra offset of the square plan"
   },
   {
-   "lemma": "viśramāya",
-   "morph": "m.dat.sg",
-   "grounds": "dative of purpose indicating repose or final rest"
+   "lemma": "bhāga",
+   "morph": "compound-member",
+   "grounds": "unit of division; first member of compound with arddha and nirgamaḥ"
+  },
+  {
+   "lemma": "arddha",
+   "morph": "compound-member",
+   "grounds": "qualifies bhāga; middle member of compound with bhāga and nirgamaḥ"
+  },
+  {
+   "lemma": "nirgamaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "final member of compound bhāga-arddha-nirgamaḥ, indicating extent of projection"
   }
  ]
 }

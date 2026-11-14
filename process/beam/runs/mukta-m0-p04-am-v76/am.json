@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 76,
- "question": "What action must be performed while beleric oil is being cooked?",
+ "question": "How many circumambulations are prescribed for Vāsudeva and for Śiva respectively?",
  "premises": [
-  "Beleric oil is the specified substance.",
-  "The oil is in the process of cooking.",
-  "An act of administering is prescribed at that time."
+  "Four circumambulations belong to Vāsudeva.",
+  "Half that number belongs to Śiva.",
+  "The acts are ritual circumambulations."
  ],
- "inference": "One should administer beleric oil while it is being cooked.",
- "uncertainties": [],
- "plain_english": "While beleric oil is being cooked, one should administer it."
+ "inference": "Vāsudeva receives four circumambulations while Śiva receives two.",
+ "uncertainties": [
+  "The exact syntactic relation of śivasyā+ rdhā as a fused form is interpreted from context."
+ ],
+ "plain_english": "One should perform four circumambulations for Vāsudeva and half as many for Śiva."
 }
