@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2477,
- "question": "Which ritual activities must be suspended for three days during mourning?",
+ "question": "How is the prescribed time for the obligatory rite characterized in duration?",
  "premises": [
-  "Rites other than daily ones should be abandoned.",
-  "This suspension includes japa and similar activities.",
-  "The suspension lasts for three days."
+  "The obligatory rite has a declared characteristic.",
+  "That characteristic involves a duration of three and a half watches.",
+  "The prescribed time is defined as lacking that duration."
  ],
- "inference": "For three days, all non-daily rites including japa must be set aside.",
- "uncertainties": [],
- "plain_english": "For three days they should abandon rites other than the daily ones, including japa and similar practices."
+ "inference": "Therefore, the obligatory rite is characterized by a time lacking three and a half watches.",
+ "uncertainties": [
+  "The precise calculation of the remaining time depends on the division of the day."
+ ],
+ "plain_english": "In the obligatory rite, the declared time is characterized as lacking three and a half watches."
 }

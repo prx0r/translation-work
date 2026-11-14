@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2494,
- "question": "What purification periods apply to vaishyas and shudras after death?",
+ "question": "What syllabic form is specified for the mantra in this practice?",
  "premises": [
-  "A vaishya becomes purified in nine days.",
-  "A shudra becomes purified in twelve days.",
-  "These are class-specific periods."
+  "The mantra is formed from syllables.",
+  "The syllables belong to the mātṛkā.",
+  "The form is endowed with bindu."
  ],
- "inference": "The impurity period is nine days for a vaishya and twelve days for a shudra.",
- "uncertainties": [],
- "plain_english": "If it is a vaishya, purification comes in nine days; if a shudra, in twelve days."
+ "inference": "Therefore, the mantra should be formed with mātṛkā syllables endowed with bindu.",
+ "uncertainties": [
+  "The verse is elliptical and its full application depends on surrounding instructions."
+ ],
+ "plain_english": "It should be formed with mātṛkā syllables endowed with bindu."
 }

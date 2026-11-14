@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 116,
- "question": "What grade of daily worship is characterized by being preceded by mantra?",
+ "question": "Which ritual elements are listed together as part of the prescribed practice?",
  "premises": [
-  "The worship is performed preceded by mantra",
-  "It is identified as daily worship",
-  "This form is classified as middle"
+  "Sexual union is mentioned",
+  "Celibacy is mentioned",
+  "Seals related to that act are mentioned"
  ],
- "inference": "Daily worship performed preceded by mantra is the middle grade.",
- "uncertainties": [],
- "plain_english": "Worship performed preceded by mantra is called the middle daily worship."
+ "inference": "Sexual union, celibacy, and seals related to that act are listed together as ritual elements.",
+ "uncertainties": [
+  "The juxtaposition of sexual union and celibacy may reflect different contexts or symbolic meanings"
+ ],
+ "plain_english": "Sexual union, celibacy, and likewise the seals related to that act are included."
 }

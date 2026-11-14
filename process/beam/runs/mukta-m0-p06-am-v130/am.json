@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p06",
  "verse": 130,
- "question": "What shapes and decorative elements should be fashioned together in this component?",
+ "question": "How should a brahmin perform the rite called birth-rite?",
  "premises": [
-  "A round mandāraka is to be made.",
-  "A lotus stalk element is to be made.",
-  "The lotus stalk is joined with a lotus."
+  "The birth-rite is the object to be performed.",
+  "A brahmin is the agent.",
+  "The procedure follows one's own ritual manual."
  ],
- "inference": "One should make a round mandāraka and a lotus stalk combined with a lotus.",
- "uncertainties": [
-  "The exact identity of mandāraka is technical."
- ],
- "plain_english": "One should make a round mandāraka and a lotus stalk joined with a lotus."
+ "inference": "A brahmin should perform the birth-rite according to the path stated in his own manual.",
+ "uncertainties": [],
+ "plain_english": "A brahmin should perform the rite called jātakarman according to the procedure stated in his own manual."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 129,
- "question": "What ritual action must follow artisan worship beneath the specified element?",
+ "question": "What relationship holds between union and the hair-parting rite?",
  "premises": [
-  "A location below the previous element is specified.",
-  "Five gems are the objects to be placed.",
-  "The placement follows worship of the artisan."
+  "Union is named.",
+  "The hair-parting rite is named.",
+  "A carrying-below-that relation is asserted."
  ],
- "inference": "After worshiping the artisan, one should place five gems below that element.",
- "uncertainties": [],
- "plain_english": "Below that, one should place five gems after worshiping the artisan."
+ "inference": "Union is connected as that which carries below or follows the hair-parting rite.",
+ "uncertainties": [
+  "The precise ritual sense of tadadhovahaḥ is context-dependent."
+ ],
+ "plain_english": "Union is the hair-parting rite and that which carries below it."
 }

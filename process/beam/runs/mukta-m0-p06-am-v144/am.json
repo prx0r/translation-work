@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 144,
- "question": "How many door branches are prescribed for different ranks of rulers?",
+ "question": "What adverse result may the practitioner incur while seeking task success?",
  "premises": [
-  "A five-branched door is associated with a territory holder.",
-  "A three-branched door is associated with a provincial lord.",
-  "The prescriptions vary by rank."
+  "The practitioner seeks success in the task.",
+  "Illness is named as something obtained.",
+  "The practitioner is the subject."
  ],
- "inference": "A territory holder should have a five-branched door and a provincial lord a three-branched door.",
- "uncertainties": [],
- "plain_english": "A five-branched door is for one who holds territory, and a three-branched door for a provincial lord."
+ "inference": "In seeking success in the task, the practitioner may obtain illness.",
+ "uncertainties": [
+  "The condition under which illness arises depends on prior calculation."
+ ],
+ "plain_english": "The practitioner may incur illness in seeking the success of the task."
 }

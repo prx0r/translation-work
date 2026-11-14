@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 126,
- "question": "What proportional measures relative to the sanctum width determine the pillar dimension?",
+ "question": "Which months are graded as good, middle, or low for the rite?",
  "premises": [
-  "The sanctum width provides the base measure.",
-  "Proportions include a sixth part addition.",
-  "Proportions include a quarter and a half addition."
+  "The fourth month is specified.",
+  "The sixth month is specified.",
+  "The eighth months are specified with graded quality."
  ],
- "inference": "The pillar dimension is calculated from the sanctum width using specified fractional additions.",
+ "inference": "The fourth, sixth, and eighth months are assigned good, middle, and low grades.",
  "uncertainties": [
-  "Exact application of each fractional option is context-dependent."
+  "The exact mapping of each grade to each month is not explicit."
  ],
- "plain_english": "From the width of the sanctum, the measure should be taken with a sixth part, with a quarter, or with a half."
+ "plain_english": "In the fourth, sixth, and eighth months, the rite is considered good, middle, or low."
 }

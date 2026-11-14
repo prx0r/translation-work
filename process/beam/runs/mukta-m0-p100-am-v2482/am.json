@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2482,
- "question": "What are the prescribed purification periods for brahmins and kshatriyas after death?",
+ "question": "How must poor practitioners adjust the required amount of recitation?",
  "premises": [
-  "Purification for a brahmin occurs in ten days.",
-  "Purification for a kshatriya occurs in twelve days.",
-  "These are distinct prescribed periods."
+  "Recitation is required as a prescribed act.",
+  "Poor practitioners have limited means for other offerings.",
+  "The recitation amount is to be doubled for them."
  ],
- "inference": "The mourning purification period is ten days for brahmins and twelve days for kshatriyas.",
- "uncertainties": [],
- "plain_english": "Purification occurs in ten days for a brahmin and in twelve days for a kshatriya."
+ "inference": "Therefore, poor people should perform double the recitation; the rest follows accordingly.",
+ "uncertainties": [
+  "The phrase 'the rest' leaves other adjustments unspecified."
+ ],
+ "plain_english": "Poor people should perform double the recitation; thus the rest is understood."
 }

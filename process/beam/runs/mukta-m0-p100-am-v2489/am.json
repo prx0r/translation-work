@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2489,
- "question": "What impurity period is prescribed at the death of sons, O best twice-born?",
+ "question": "What concluding act completes the preliminary rite described here?",
  "premises": [
-  "The case concerns the departure of sons.",
-  "The prescribed period is a fortnight.",
-  "The address is to the best of the twice-born."
+  "The preliminary rite involves prior ritual acts.",
+  "Feeding brahmins is prescribed afterwards.",
+  "This feeding brings the rite to completion."
  ],
- "inference": "At the death of sons, the impurity period is a fortnight.",
- "uncertainties": [],
- "plain_english": "And at the departure of sons, O best of the twice-born, that period is a fortnight."
+ "inference": "Therefore, feeding brahmins afterwards completes this preliminary rite.",
+ "uncertainties": [
+  "The form 'samantv' is read as indicating completion in this context."
+ ],
+ "plain_english": "Afterwards one should feed brahmins; thus this preliminary rite is completed."
 }

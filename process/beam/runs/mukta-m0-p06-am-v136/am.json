@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 136,
- "question": "What incremental increase per cubit applies up to fifty cubits?",
+ "question": "Under what condition does the teacher bear such a name?",
  "premises": [
-  "An increase of two aṅgulas is prescribed.",
-  "The increase is applied per cubit.",
-  "The limit is fifty cubits."
+  "A name is under consideration.",
+  "The teacher is the subject.",
+  "A conditional relation is stated."
  ],
- "inference": "The increase is two aṅgulas per cubit up to fifty cubits.",
- "uncertainties": [],
- "plain_english": "And two aṅgulas per cubit, up to fifty cubits."
+ "inference": "If the name is such, then the teacher is accordingly designated.",
+ "uncertainties": [
+  "The specific qualifying condition for tādṛśaḥ is supplied by context."
+ ],
+ "plain_english": "If the name is such, then the teacher is such."
 }

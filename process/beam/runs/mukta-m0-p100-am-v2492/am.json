@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2492,
- "question": "What life-stage thresholds mark reduced impurity for brahmins and kshatriyas?",
+ "question": "How many mantra recitations should be performed after meditation?",
  "premises": [
-  "The brahmin is considered up to the girdle-binding rite.",
-  "The kshatriya is considered up to taking the bow.",
-  "These thresholds define a stage before full observance."
+  "Meditation precedes the recitation.",
+  "The recitation is measured in units of ten thousand.",
+  "Four such units are prescribed."
  ],
- "inference": "For brahmins and kshatriyas, specific pre-initiation thresholds determine the applicable impurity rule.",
- "uncertainties": [
-  "The verse is protatic and completed by the following verse."
- ],
- "plain_english": "For a brahmin before the girdle-binding rite, and for a kshatriya before taking up the bow,"
+ "inference": "Therefore, after meditating one should recite the mantra forty thousand times.",
+ "uncertainties": [],
+ "plain_english": "Having meditated, one should recite the mantra four times ten thousand."
 }
