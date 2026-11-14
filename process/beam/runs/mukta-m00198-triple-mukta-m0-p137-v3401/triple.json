@@ -1,0 +1,944 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3401,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṃgulamāyāmaṃ",
+     "gloss": "sixteen-finger-length",
+     "grounds": "compound: ṣoḍaśa-aṅgula-m-āyāma; measure of length",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kaṭidaṇḍasya",
+     "gloss": "of-waist-staff",
+     "grounds": "compound: kaṭi-daṇḍa; genitive of possession",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "deśika",
+     "gloss": "o-teacher",
+     "grounds": "vocative address to the officiating master",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What length is prescribed for the waist staff?",
+   "premises": [
+    "The waist staff is the object being measured.",
+    "Its length is specified as sixteen fingers.",
+    "The teacher is addressed as the recipient of this instruction."
+   ],
+   "inference": "The waist staff must be made sixteen fingers in length.",
+   "uncertainties": [],
+   "plain_english": "O teacher, the length of the waist staff is sixteen fingers."
+  },
+  {
+   "verse": 3402,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yugāṃgulaṃ+chidraṃ",
+     "gloss": "two-finger-hole",
+     "grounds": "compound: yuga-aṅgula-chidra; fused token kept as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nābheḥ",
+     "gloss": "from-navel",
+     "grounds": "ablative indicating reference point",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "paṃcāṃgulādadhaḥ",
+     "gloss": "five-fingers-below",
+     "grounds": "compound: pañca-aṅgula-adhas; directional measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where must the two-finger hole be placed on the waist staff?",
+   "premises": [
+    "A hole measuring two fingers is required.",
+    "Its position is defined relative to the navel.",
+    "The specified location is five fingers below the navel in the middle."
+   ],
+   "inference": "A two-finger hole should be made in the middle, five fingers below the navel.",
+   "uncertainties": [],
+   "plain_english": "In the middle, make a two-finger hole five fingers below the navel."
+  },
+  {
+   "verse": 3403,
+   "rows": [
+    {
+     "surface": "vakṣodaṇḍāgrayoḥ",
+     "gloss": "at-chest-staff-tips",
+     "grounds": "compound: vakṣas-daṇḍa-agra; locative dual",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brahmin",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kaṭidaṇḍāgrayoḥ",
+     "gloss": "at-waist-staff-tips",
+     "grounds": "compound: kaṭi-daṇḍa-agra; locative dual",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating inclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which staff tips are included in this placement instruction?",
+   "premises": [
+    "The chest staff tips are mentioned as locations.",
+    "The waist staff tips are also mentioned.",
+    "The particle api includes both sets of tips."
+   ],
+   "inference": "The instruction applies to the tips of both the chest staff and the waist staff.",
+   "uncertainties": [],
+   "plain_english": "O brahmin, this applies also at the tips of the chest staff and at the tips of the waist staff."
+  },
+  {
+   "verse": 3404,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpaṃca",
+     "gloss": "one-two-three-four-five",
+     "grounds": "compound numeral series: eka-dvi-tri-catur-pañca",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaṭsaptāṣṭakaraṃ",
+     "gloss": "six-seven-eight-hand",
+     "grounds": "compound: ṣaṭ-sapta-aṣṭa-kara; measure in hands",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle indicating alternatives",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What range of hand measures is permitted for the staff?",
+   "premises": [
+    "A series from one to five is given.",
+    "A series from six to eight hands is given.",
+    "The particle vā indicates alternative permissible measures."
+   ],
+   "inference": "The measure may be one, two, three, four, five, six, seven, or eight hands.",
+   "uncertainties": [],
+   "plain_english": "The measure may be one, two, three, four, five, six, seven, or eight hands."
+  },
+  {
+   "verse": 3405,
+   "rows": [
+    {
+     "surface": "dvyaṃgulaṃ",
+     "gloss": "two-finger",
+     "grounds": "compound: dvi-aṅgula; measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhāyāmaṃ",
+     "gloss": "crest-length",
+     "grounds": "compound: śikhā-āyāma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hastasaṃkhyā",
+     "gloss": "hand-count",
+     "grounds": "compound: hasta-saṃkhyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pi",
+     "gloss": "also",
+     "grounds": "particle, variant of api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantataḥ",
+     "gloss": "by-thread",
+     "grounds": "ablative indicating basis or method",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the crest length determined in relation to hand count?",
+   "premises": [
+    "The crest length is specified as two fingers.",
+    "The hand count is also involved.",
+    "The determination is made according to the thread measure."
+   ],
+   "inference": "The crest length is two fingers, with the hand count determined by the thread.",
+   "uncertainties": [
+    "The exact syntactic relation of hastasaṃkhyā and tantataḥ is unclear."
+   ],
+   "plain_english": "The crest length is two fingers, and the hand count is also determined by the thread."
+  },
+  {
+   "verse": 3406,
+   "rows": [
+    {
+     "surface": "śikhāvyāsaṃ",
+     "gloss": "crest-diameter",
+     "grounds": "compound: śikhā-vyāsa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadekāṃśaṃ",
+     "gloss": "its-one-part",
+     "grounds": "compound: tad-eka-aṃśa; one part of that",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūlegre",
+     "gloss": "at-root-tip",
+     "grounds": "compound: mūla-agra; locative dual",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛśaṃ",
+     "gloss": "thin",
+     "grounds": "adjective describing tapering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "ablative used adverbially",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should the crest diameter taper from root to tip?",
+   "premises": [
+    "The crest diameter is taken as one part of that measure.",
+    "The root and tip are the points of comparison.",
+    "The form should become thin gradually."
+   ],
+   "inference": "The crest diameter, taken as one part, should be made gradually thin from root to tip.",
+   "uncertainties": [],
+   "plain_english": "Make the crest diameter one part of that, gradually thin from root to tip."
+  },
+  {
+   "verse": 3407,
+   "rows": [
+    {
+     "surface": "sārdhāṃgulaṃ",
+     "gloss": "one-and-half-finger",
+     "grounds": "compound: sa-ardha-aṅgula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattāraṃ",
+     "gloss": "its-width",
+     "grounds": "compound: tad-tāra; width or span",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suvṛttaṃ",
+     "gloss": "well-rounded",
+     "grounds": "compound: su-vṛtta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadghanaṃ",
+     "gloss": "its-thickness",
+     "grounds": "compound: tad-ghana; density or thickness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samam",
+     "gloss": "even",
+     "grounds": "adjective indicating uniformity",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width, shape, and thickness are prescribed for this part?",
+   "premises": [
+    "The width is specified as one and a half fingers.",
+    "The shape must be well rounded.",
+    "The thickness must be even."
+   ],
+   "inference": "This part should be one and a half fingers wide, well rounded, and of even thickness.",
+   "uncertainties": [],
+   "plain_english": "Its width should be one and a half fingers, well rounded, and of even thickness."
+  },
+  {
+   "verse": 3408,
+   "rows": [
+    {
+     "surface": "aṣṭāṃgulaṃ",
+     "gloss": "eight-finger",
+     "grounds": "compound: aṣṭa-aṅgula; measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāropya",
+     "gloss": "having-mounted",
+     "grounds": "absolutive of sam-ā-ruh",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "ūruśūlāyataṃ",
+     "gloss": "thigh-spike-length",
+     "grounds": "compound: ūru-śūla-āyata",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What length should the thigh spike have when mounted?",
+   "premises": [
+    "An eight-finger measure is to be mounted.",
+    "The thigh spike length is the subject.",
+    "The optative bhavet prescribes the result."
+   ],
+   "inference": "When mounted by eight fingers, the thigh spike should have that length.",
+   "uncertainties": [],
+   "plain_english": "Having mounted it by eight fingers, the length of the thigh spike should be that much."
+  },
+  {
+   "verse": 3409,
+   "rows": [
+    {
+     "surface": "ūrumūle",
+     "gloss": "at-thigh-root",
+     "grounds": "compound: ūru-mūla; locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "suṣiṃ",
+     "gloss": "hole",
+     "grounds": "object to be made; form as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "kaṭidaṇḍāgrayoḥ",
+     "gloss": "at-waist-staff-tips",
+     "grounds": "compound: kaṭi-daṇḍa-agra; locative dual",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "subject performing the action",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where should the wise craftsman make a hole for joining parts?",
+   "premises": [
+    "A hole must be made at the root of the thigh.",
+    "The action is performed by the wise one.",
+    "The waist staff tips are the points of connection."
+   ],
+   "inference": "The wise one should make a hole at the thigh root at the tips of the waist staff.",
+   "uncertainties": [],
+   "plain_english": "The wise one should make a hole at the root of the thigh at the tips of the waist staff."
+  },
+  {
+   "verse": 3410,
+   "rows": [
+    {
+     "surface": "jānumānaṃ",
+     "gloss": "knee-measure",
+     "grounds": "compound: jānu-māna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two",
+     "grounds": "adverbial division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-divided",
+     "grounds": "absolutive of kṛ",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "ūrujaṃghādvayorapi",
+     "gloss": "for-thigh-shank-pair-also",
+     "grounds": "compound: ūru-jaṃghā-dvaya with api; locative/genitive sense",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "How should the knee measure be divided for thigh and shank?",
+   "premises": [
+    "The knee measure is the quantity to be divided.",
+    "It must be divided into two parts.",
+    "This division applies to both thigh and shank."
+   ],
+   "inference": "The knee measure should be divided in two for both the thigh and the shank.",
+   "uncertainties": [],
+   "plain_english": "Having divided the knee measure in two, apply it to both the thigh and the shank."
+  },
+  {
+   "verse": 3411,
+   "rows": [
+    {
+     "surface": "guṇāṃgulaṃ",
+     "gloss": "three-finger",
+     "grounds": "compound: guṇa-aṅgula; guṇa often means three",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śikhāmānaṃ",
+     "gloss": "crest-measure",
+     "grounds": "compound: śikhā-māna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jaṃghādīrgha",
+     "gloss": "shank-length",
+     "grounds": "compound: jaṃghā-dīrgha; form as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "obhayairyutam",
+     "gloss": "joined-with-both",
+     "grounds": "compound: ubhaya-yuta; instrumental plural sense",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What crest measure is joined with both parts of the shank length?",
+   "premises": [
+    "The crest measure is specified as three fingers.",
+    "The shank length is involved.",
+    "It is joined with both parts."
+   ],
+   "inference": "A three-finger crest measure is to be joined with both parts of the shank length.",
+   "uncertainties": [
+    "The exact referent of obhaya is not fully explicit."
+   ],
+   "plain_english": "The crest measure is three fingers, joined with both parts of the shank length."
+  },
+  {
+   "verse": 3412,
+   "rows": [
+    {
+     "surface": "jaṃghāmūlaṃ",
+     "gloss": "shank-root",
+     "grounds": "compound: jaṃghā-mūla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tribhāgaikaṃ",
+     "gloss": "one-third-part",
+     "grounds": "compound: tri-bhāga-eka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "subject of the measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāsamudāhṛtam",
+     "gloss": "diameter-declared",
+     "grounds": "compound: vyāsa-udāhṛta; past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What diameter is declared for the crest at the shank root?",
+   "premises": [
+    "The shank root is the reference point.",
+    "The measure is one third part.",
+    "The crest diameter is declared accordingly."
+   ],
+   "inference": "The crest diameter at the shank root is declared to be one third part.",
+   "uncertainties": [],
+   "plain_english": "The crest diameter at the root of the shank is declared to be one third."
+  },
+  {
+   "verse": 3413,
+   "rows": [
+    {
+     "surface": "saṃdhi",
+     "gloss": "joint",
+     "grounds": "first member of compound; form as given",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hīnāṃghriśūlaṃ",
+     "gloss": "jointless-foot-spike",
+     "grounds": "compound: saṃdhi-hīna-aṅghri-śūla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evamevaṃ",
+     "gloss": "in-this-very-way",
+     "grounds": "emphatic adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive of vi-dhā",
+     "morph": "3.sg.present-passive √vi-dhā"
+    }
+   ],
+   "question": "How is the jointless foot spike prescribed in this construction?",
+   "premises": [
+    "The foot spike is specified as without a joint.",
+    "The prescription is emphatic.",
+    "The passive verb indicates a rule to be followed."
+   ],
+   "inference": "The jointless foot spike is prescribed in exactly this manner.",
+   "uncertainties": [],
+   "plain_english": "The foot spike without a joint is prescribed in exactly this way."
+  },
+  {
+   "verse": 3414,
+   "rows": [
+    {
+     "surface": "ūrumadhyatribhāgaikaṃ",
+     "gloss": "thigh-middle-one-third",
+     "grounds": "compound: ūru-madhya-tri-bhāga-eka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ūrudaṇḍasya+vistṛtam",
+     "gloss": "of-thigh-staff-width",
+     "grounds": "compound: ūru-daṇḍa-vistṛta; fused token kept as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width is prescribed for the thigh staff at its middle?",
+   "premises": [
+    "The middle of the thigh is the reference point.",
+    "The measure is one third part.",
+    "This defines the width of the thigh staff."
+   ],
+   "inference": "The width of the thigh staff at its middle is one third part.",
+   "uncertainties": [],
+   "plain_english": "The width of the thigh staff at the middle of the thigh is one third."
+  },
+  {
+   "verse": 3415,
+   "rows": [
+    {
+     "surface": "jaṃghāmūlatribhāgaikaṃ",
+     "gloss": "shank-root-one-third",
+     "grounds": "compound: jaṃghā-mūla-tri-bhāga-eka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "less",
+     "grounds": "adjective indicating reduction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jaṃghāgravistṛtam",
+     "gloss": "shank-tip-width",
+     "grounds": "compound: jaṃghā-agra-vistṛta",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How much narrower should the shank tip be than its root measure?",
+   "premises": [
+    "The shank root measure is one third part.",
+    "The shank tip width is reduced.",
+    "The reduction is by that one third measure."
+   ],
+   "inference": "The width at the shank tip should be one third less than the shank root measure.",
+   "uncertainties": [],
+   "plain_english": "The width at the tip of the shank should be one third less than at the root of the shank."
+  },
+  {
+   "verse": 3416,
+   "rows": [
+    {
+     "surface": "sa?lāgravistṛtaṃ",
+     "gloss": "tip-width",
+     "grounds": "compound with uncertain initial element; token kept exactly as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taddvitridvyaṃśa",
+     "gloss": "its-two-three-two-part",
+     "grounds": "compound: tad-dvi-tri-dvi-aṃśa; fractional specification unclear",
+     "morph": "compound"
+    },
+    {
+     "surface": "vistṛtānvitam",
+     "gloss": "endowed-with-width",
+     "grounds": "compound: vistṛta-anvita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width proportion is assigned to the indicated tip?",
+   "premises": [
+    "A tip width is specified.",
+    "A fractional measure involving two and three parts is given.",
+    "The result is endowed with that width."
+   ],
+   "inference": "The tip should be endowed with the width defined by the stated fractional parts.",
+   "uncertainties": [
+    "The reading sa?lāgravistṛtaṃ is unclear due to the question mark in the token.",
+    "The exact fractional meaning of taddvitridvyaṃśa is uncertain."
+   ],
+   "plain_english": "The tip width should be endowed with the specified two-three-two-part measure."
+  },
+  {
+   "verse": 3417,
+   "rows": [
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive of kṛ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suṣiraṃ",
+     "gloss": "hollow",
+     "grounds": "object or attribute to be made",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative pronoun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jaṃghāgrādadhikāyatam",
+     "gloss": "longer-than-shank-tip",
+     "grounds": "compound: jaṃghā-agra-adhika-āyata",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of hollow must be made in that part?",
+   "premises": [
+    "A hollow must be made.",
+    "The location is in that part.",
+    "Its length must exceed the shank tip."
+   ],
+   "inference": "A hollow longer than the shank tip must be made in that part.",
+   "uncertainties": [],
+   "plain_english": "In that part, a hollow should be made that is longer than the tip of the shank."
+  },
+  {
+   "verse": 3418,
+   "rows": [
+    {
+     "surface": "bāhumūlaviśālaṃ",
+     "gloss": "arm-root-width",
+     "grounds": "compound: bāhu-mūla-viśāla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇāṃgulamudāhṛtam",
+     "gloss": "three-finger-declared",
+     "grounds": "compound: guṇa-aṅgula-udāhṛta",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width is declared for the root of the arm?",
+   "premises": [
+    "The arm root width is the subject.",
+    "The measure is three fingers.",
+    "This measure is declared as the rule."
+   ],
+   "inference": "The width at the root of the arm is declared to be three fingers.",
+   "uncertainties": [],
+   "plain_english": "The width at the root of the arm is declared to be three fingers."
+  },
+  {
+   "verse": 3419,
+   "rows": [
+    {
+     "surface": "bāhuprakoṣṭhayoścaiva",
+     "gloss": "of-arm-and-forearm-also",
+     "grounds": "compound: bāhu-prakoṣṭha with ca-eva; genitive/locative dual",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "korparaṃ",
+     "gloss": "elbow",
+     "grounds": "joint between arm and forearm",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jānuvadbhavet",
+     "gloss": "should-be-like-knee",
+     "grounds": "compound: jānu-vat with optative bhavet",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "How should the elbow be formed in relation to the knee?",
+   "premises": [
+    "The arm and forearm are the connected parts.",
+    "The elbow is the joint between them.",
+    "It should be made like the knee."
+   ],
+   "inference": "The elbow of the arm and forearm should be made like the knee.",
+   "uncertainties": [],
+   "plain_english": "The elbow between the arm and forearm should be made like the knee."
+  },
+  {
+   "verse": 3420,
+   "rows": [
+    {
+     "surface": "parśvayoḥ",
+     "gloss": "at-sides",
+     "grounds": "locative dual indicating position",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "vaṃśadaṇḍasya",
+     "gloss": "of-bamboo-staff",
+     "grounds": "compound: vaṃśa-daṇḍa; genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārśvadaṇḍe",
+     "gloss": "to-side-staff",
+     "grounds": "compound: pārśva-daṇḍa; locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-join",
+     "grounds": "optative of yuj",
+     "morph": "3.sg.optative-active √yuj"
+    }
+   ],
+   "question": "Where should the side staff be joined to the bamboo staff?",
+   "premises": [
+    "The bamboo staff is the main element.",
+    "The side staff is to be joined.",
+    "The joining should occur at the sides."
+   ],
+   "inference": "One should join the side staff at the sides of the bamboo staff.",
+   "uncertainties": [],
+   "plain_english": "One should join the side staff at the sides of the bamboo staff."
+  },
+  {
+   "verse": 3421,
+   "rows": [
+    {
+     "surface": "vaṃśadaṇḍasamaṃ",
+     "gloss": "equal-to-bamboo-staff",
+     "grounds": "compound: vaṃśa-daṇḍa-sama",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "nīvra",
+     "grounds": "term of uncertain meaning; token kept as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ūrdhvādhastācchikhānvitam",
+     "gloss": "above-below-with-crest",
+     "grounds": "compound: ūrdhva-adhastāt-śikhā-anvita",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What features must the nīvra have relative to the bamboo staff?",
+   "premises": [
+    "The nīvra should be equal to the bamboo staff.",
+    "It must be endowed with a crest above and below.",
+    "These features define its proper form."
+   ],
+   "inference": "The nīvra should be equal to the bamboo staff and endowed with a crest above and below.",
+   "uncertainties": [
+    "The meaning of nīvraṃ is uncertain."
+   ],
+   "plain_english": "The nīvra should be equal to the bamboo staff and provided with a crest above and below."
+  },
+  {
+   "verse": 3422,
+   "rows": [
+    {
+     "surface": "yojayetsudṛḍhaṃ",
+     "gloss": "one-should-join-firmly",
+     "grounds": "compound: yojayet-su-dṛḍham; optative with adverb",
+     "morph": "3.sg.optative-active √yuj"
+    },
+    {
+     "surface": "chidre",
+     "gloss": "in-hole",
+     "grounds": "locative indicating place of joining",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-part",
+     "grounds": "compound: guṇa-aṃśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyantarānvitam",
+     "gloss": "endowed-with-interval",
+     "grounds": "compound: vyantara-anvita",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the three-part element be joined in the hole?",
+   "premises": [
+    "The joining must be done firmly.",
+    "The place of joining is the hole.",
+    "The element is a three-part piece endowed with an interval."
+   ],
+   "inference": "One should firmly join the three-part element, endowed with an interval, in the hole.",
+   "uncertainties": [],
+   "plain_english": "One should firmly join the three-part element, provided with an interval, in the hole."
+  },
+  {
+   "verse": 3423,
+   "rows": [
+    {
+     "surface": "hastapādatalaṃ",
+     "gloss": "hand-foot-palm-sole",
+     "grounds": "compound: hasta-pāda-tala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrotraṃ",
+     "gloss": "ear",
+     "grounds": "object to be joined",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāmrapatreṇa",
+     "gloss": "with-copper-leaf",
+     "grounds": "compound: tāmra-patra; instrumental of means",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-join",
+     "grounds": "optative of yuj",
+     "morph": "3.sg.optative-active √yuj"
+    }
+   ],
+   "question": "With what material should the palms, soles, and ears be attached?",
+   "premises": [
+    "The palms and soles are to be attached.",
+    "The ears are also to be attached.",
+    "Copper leaf is the prescribed material."
+   ],
+   "inference": "One should attach the palms, soles, and ears with copper leaf.",
+   "uncertainties": [],
+   "plain_english": "One should attach the palms, soles, and ears with copper leaf."
+  },
+  {
+   "verse": 3424,
+   "rows": [
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "genitive plural indicating possession",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śūlamevaṃ",
+     "gloss": "spike-thus",
+     "grounds": "compound: śūla-evam; noun with adverbial particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "devīnām",
+     "gloss": "of-goddesses",
+     "grounds": "genitive plural indicating possession",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-stated",
+     "grounds": "future passive of vac",
+     "morph": "3.sg.future-passive √vac"
+    }
+   ],
+   "question": "What construction is concluded for gods and what follows for goddesses?",
+   "premises": [
+    "The spike for the gods is described as thus.",
+    "The optative syāt marks the conclusion of that prescription.",
+    "The future vakṣyate announces the treatment for goddesses."
+   ],
+   "inference": "The spike for the gods is thus completed, and the construction for the goddesses will now be stated.",
+   "uncertainties": [],
+   "plain_english": "Such should be the spike for the gods; now that for the goddesses will be explained."
+  }
+ ]
+}

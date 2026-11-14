@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "nāḍayaḥ",
+     "gloss": "channels",
+     "grounds": "subtle bodily channels mentioned in prior verses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "refers back to the previously described channels",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds a further characterization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-conceived",
+     "grounds": "mental act of conceiving or visualizing",
+     "morph": "gerund sam-kḷp"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indicates a subsequent stage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvṛtanāḍikāḥ",
+     "gloss": "covered-channels",
+     "grounds": "compound of āvṛta and nāḍikā describing channels as enveloped",
+     "morph": "compound āvṛta+nāḍikā f.nom.pl"
+    }
+   ],
+   "question": "What further covering must be conceived for those channels in a subsequent stage?",
+   "premises": [
+    "The channels previously described remain the subject of consideration.",
+    "A mental act of conception is applied to these channels.",
+    "This conception occurs at a subsequent stage."
+   ],
+   "inference": "Those same channels are to be conceived afterwards as covered channels.",
+   "uncertainties": [
+    "The exact nature or material of the covering is not specified in this verse."
+   ],
+   "plain_english": "Those channels are also to be conceived afterwards as covered channels."
+  }
+ ]
+}

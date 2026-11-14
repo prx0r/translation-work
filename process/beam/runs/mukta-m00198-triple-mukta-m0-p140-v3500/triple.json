@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "sarjarasam",
+     "gloss": "sal-resin",
+     "grounds": "accusative singular of sarjarasa, a resin ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle continuing the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasvaṃśam",
+     "gloss": "eight-part",
+     "grounds": "compound of vasu (eight) and aṃśa (part), specifying quantity",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "gairikam",
+     "gloss": "red-ochre",
+     "grounds": "accusative singular of gairika, a mineral ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle continuing the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇāṃśakam",
+     "gloss": "three-part",
+     "grounds": "compound of guṇa (three) and aṃśaka (part), specifying quantity",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "What proportions of sal-resin and red ochre are prescribed for the ritual mixture?",
+   "premises": [
+    "Sal-resin is specified as an ingredient in the mixture.",
+    "Sal-resin is assigned a measure of eight parts.",
+    "Red ochre is assigned a measure of three parts."
+   ],
+   "inference": "The prescribed mixture includes sal-resin in eight parts and red ochre in three parts.",
+   "uncertainties": [
+    "The exact ritual application of this specific mixture is not stated within this verse."
+   ],
+   "plain_english": "Take sal-resin in eight parts and red ochre in three parts."
+  }
+ ]
+}

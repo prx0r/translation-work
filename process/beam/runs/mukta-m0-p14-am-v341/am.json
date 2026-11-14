@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p14",
  "verse": 341,
- "question": "What ritual material is used when the next utterance is performed?",
+ "question": "After inserting, what alternative placement equal to the wall interior is stated?",
  "premises": [
-  "Oleander flowers are involved.",
-  "An utterance is to be performed.",
-  "The utterance follows in sequence."
+  "having inserted, then an option is given",
+  "placement equal to the interior of the wall is stated"
  ],
- "inference": "One should perform the utterance using oleander flowers.",
+ "inference": "Having inserted, one may place it equal to the interior of the wall, or alternatively as stated.",
  "uncertainties": [
-  "The exact manner of using the flowers with the utterance is not fully specified here."
+  "verse end is elliptical in this excerpt"
  ],
- "plain_english": "Then one should utter, using the flowers of the oleander."
+ "plain_english": "Having inserted it, or equal to the interior of the wall, or otherwise as stated."
 }
