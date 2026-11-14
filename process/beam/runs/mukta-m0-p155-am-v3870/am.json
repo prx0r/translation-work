@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p155",
  "verse": 3870,
- "question": "What name do the sages celebrate for that particular lotus center?",
+ "question": "What number is assigned to ravikoṣṭha and śālā-pañjara elements?",
  "premises": [
-  "That lotus is being identified.",
-  "The sages celebrate its name.",
-  "Its name is anāhata."
+  "ravikoṣṭha is named",
+  "śālā-pañjara elements are named",
+  "the number is eight"
  ],
- "inference": "The sages celebrate that lotus as named anāhata.",
- "uncertainties": [],
- "plain_english": "That lotus is celebrated by the sages as named anāhata."
+ "inference": "Ravikoṣṭha and the śālā-pañjara elements are eight.",
+ "uncertainties": [
+  "whether eight applies to both or total"
+ ],
+ "plain_english": "Ravikoṣṭha, and likewise the śālā-pañjaras, are eight."
 }

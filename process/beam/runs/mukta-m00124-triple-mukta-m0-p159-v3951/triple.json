@@ -1,0 +1,553 @@
+{
+ "song": "mukta-m0-p159",
+ "items": [
+  {
+   "verse": 3951,
+   "rows": [
+    {
+     "surface": "vātātapānalālīḍhā",
+     "gloss": "wind-sun-fire-licked",
+     "grounds": "compound adjective for exposed materials",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mṛdvīkṣārodakāśritāḥ",
+     "gloss": "soft-grape-water-sheltered",
+     "grounds": "compound adjective for sheltered materials",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which materials are considered wind-sun-fire-licked and which are soft-grape-water-sheltered?",
+   "premises": [
+    "wind-sun-fire-licked materials are named",
+    "soft-grape-water-sheltered materials are named"
+   ],
+   "inference": "The verse classifies materials by exposure and shelter.",
+   "uncertainties": [
+    "exact material list is not expanded here"
+   ],
+   "plain_english": "Materials are described as either licked by wind, sun, and fire or sheltered by soft grape-water."
+  },
+  {
+   "verse": 3952,
+   "rows": [
+    {
+     "surface": "antyajānītasevyā",
+     "gloss": "outcaste-brought-serviceable",
+     "grounds": "compound adjective for serviceable materials",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nadīśailataṭe sthitāḥ",
+     "gloss": "river-mountain-slope-standing",
+     "grounds": "compound phrase locating materials",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which serviceable materials brought by outcastes stand on river and mountain slopes?",
+   "premises": [
+    "outcaste-brought serviceable materials are named",
+    "river-mountain-slope standing is named"
+   ],
+   "inference": "The verse locates certain serviceable materials on river and mountain slopes.",
+   "uncertainties": [
+    "specific outcaste group is not specified"
+   ],
+   "plain_english": "Serviceable materials brought by outcastes stand on river and mountain slopes."
+  },
+  {
+   "verse": 3953,
+   "rows": [
+    {
+     "surface": "khādiraścandanaḥ sālo madhūkaḥ saralo'sanaḥ",
+     "gloss": "khadira-chandana-sala-madhuka-sarala-asana",
+     "grounds": "list of named woods",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which woods are named as khadira, chandana, sala, madhuka, sarala, and asana?",
+   "premises": [
+    "khadira is named",
+    "chandana is named",
+    "sala is named",
+    "madhuka is named",
+    "sarala is named",
+    "asana is named"
+   ],
+   "inference": "The verse enumerates six named woods.",
+   "uncertainties": [
+    "grammatical number is ambiguous in the fused list"
+   ],
+   "plain_english": "The named woods are khadira, chandana, sala, madhuka, sarala, and asana."
+  },
+  {
+   "verse": 3954,
+   "rows": [
+    {
+     "surface": "panasārjunāvaśokaśca kṣīriṇo raktacandanaḥ",
+     "gloss": "jackfruit-arjuna-ashoka-milky-red-sandal",
+     "grounds": "list of named woods and milky red sandal",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which woods and milky red sandal are named after jackfruit, arjuna, and ashoka?",
+   "premises": [
+    "jackfruit is named",
+    "arjuna is named",
+    "ashoka is named",
+    "milky red sandal is named"
+   ],
+   "inference": "The verse adds jackfruit, arjuna, ashoka, milky trees, and red sandal to the wood list.",
+   "uncertainties": [
+    "exact relation of milky trees to the list is compressed"
+   ],
+   "plain_english": "The named woods include jackfruit, arjuna, ashoka, milky trees, and red sandal."
+  },
+  {
+   "verse": 3955,
+   "rows": [
+    {
+     "surface": "dravyasaṃgrahaṇaṃ kuryādvakṣyamāṇaṃ viśeṣataḥ",
+     "gloss": "material-collection-should-do-specifically",
+     "grounds": "fused instruction to collect materials as specified",
+     "morph": "n.acc.sg+3.sg.act.opt+pres.part+indecl"
+    }
+   ],
+   "question": "What should be done specifically with the collection of materials?",
+   "premises": [
+    "material collection is named",
+    "doing as specified is named",
+    "specifically is named"
+   ],
+   "inference": "The verse instructs that material collection should be done as specified.",
+   "uncertainties": [
+    "the exact specification follows later"
+   ],
+   "plain_english": "One should collect materials specifically as will be described."
+  },
+  {
+   "verse": 3956,
+   "rows": [
+    {
+     "surface": "tryaṃśena dārujaṃ lohamasyārdhenottamaṃ matam",
+     "gloss": "three-parts-wood-born-metal-half-best-considered",
+     "grounds": "fused proportion rule for wood-born metal",
+     "morph": "indecl+n.nom.sg+n.nom.sg+n.gen.sg+n.instr.sg+n.nom.sg+n.nom.sg"
+    }
+   ],
+   "question": "How is wood-born metal proportioned and judged best?",
+   "premises": [
+    "three parts are named",
+    "wood-born metal is named",
+    "half is named",
+    "best is named"
+   ],
+   "inference": "The verse gives a proportion for wood-born metal and calls the result best.",
+   "uncertainties": [
+    "exact measurement unit is not stated"
+   ],
+   "plain_english": "Wood-born metal is considered best when proportioned by three parts and half."
+  },
+  {
+   "verse": 3957,
+   "rows": [
+    {
+     "surface": "tadalābhe tu tanmadhye tvekaikāṅgulahānitaḥ",
+     "gloss": "that-absence-but-middle-one-finger-diminution",
+     "grounds": "fused fallback rule when that measure is unavailable",
+     "morph": "indecl+indecl+n.loc.sg+indecl+n.nom.sg+n.abl.sg"
+    }
+   ],
+   "question": "What fallback applies when that measure is unavailable?",
+   "premises": [
+    "absence is named",
+    "middle is named",
+    "one-finger diminution is named"
+   ],
+   "inference": "The verse prescribes a one-finger diminution in the middle when the prior measure is unavailable.",
+   "uncertainties": [
+    "the prior measure is only implied"
+   ],
+   "plain_english": "If that measure is unavailable, diminish by one finger in the middle."
+  },
+  {
+   "verse": 3958,
+   "rows": [
+    {
+     "surface": "dhāmagarbhapramāṇenādhamaṃ liṅgamucyate",
+     "gloss": "mark-measure-lowest-linga-called",
+     "grounds": "fused rule naming lowest linga by mark measure",
+     "morph": "n.instr.sg+n.nom.sg+n.nom.sg+3.sg.pass.pres"
+    }
+   ],
+   "question": "By what measure is the lowest linga called?",
+   "premises": [
+    "mark measure is named",
+    "lowest is named",
+    "linga is named"
+   ],
+   "inference": "The verse calls the lowest linga by mark measure.",
+   "uncertainties": [
+    "the exact mark measure is not expanded"
+   ],
+   "plain_english": "The lowest linga is called by mark measure."
+  },
+  {
+   "verse": 3959,
+   "rows": [
+    {
+     "surface": "madhyame'ṣṭavibhāgena navaliṅgodayāni ca",
+     "gloss": "middle-eighth-part-nine-linga-rise",
+     "grounds": "fused rule for nine lingas rising from middle eighth part",
+     "morph": "n.loc.sg+n.instr.sg+n.nom.pl+n.indecl"
+    }
+   ],
+   "question": "How do nine lingas arise from the middle eighth part?",
+   "premises": [
+    "middle is named",
+    "eighth part is named",
+    "nine lingas are named"
+   ],
+   "inference": "The verse states that nine lingas arise from the middle eighth part.",
+   "uncertainties": [
+    "the exact arithmetic is compressed"
+   ],
+   "plain_english": "Nine lingas arise from the middle eighth part."
+  },
+  {
+   "verse": 3960,
+   "rows": [
+    {
+     "surface": "mānāni ca trayastriṃśalliṅgānāṃ kīrtitāni tu",
+     "gloss": "measures-thirty-three-lingas-declared",
+     "grounds": "fused statement declaring measures of thirty-three lingas",
+     "morph": "n.nom.pl+indecl+n.gen.pl+n.nom.pl+indecl"
+    }
+   ],
+   "question": "What measures are declared for thirty-three lingas?",
+   "premises": [
+    "measures are named",
+    "thirty-three lingas are named",
+    "declared is named"
+   ],
+   "inference": "The verse declares measures for thirty-three lingas.",
+   "uncertainties": [
+    "the individual measures are not listed here"
+   ],
+   "plain_english": "Measures for thirty-three lingas are declared."
+  },
+  {
+   "verse": 3961,
+   "rows": [
+    {
+     "surface": "adhamaṃ garbhapādaṃ syāttripādaṃ jyeṣṭamānakam",
+     "gloss": "lowest-womb-foot-three-foot-eldest-measure",
+     "grounds": "fused rule for lowest and eldest measures",
+     "morph": "n.nom.sg+n.nom.sg+3.sg.opt+n.nom.sg+n.nom.sg+n.nom.sg"
+    }
+   ],
+   "question": "What are the lowest womb-foot and eldest three-foot measures?",
+   "premises": [
+    "lowest womb-foot is named",
+    "three-foot is named",
+    "eldest measure is named"
+   ],
+   "inference": "The verse gives lowest womb-foot and eldest three-foot measures.",
+   "uncertainties": [
+    "the exact relation between them is compressed"
+   ],
+   "plain_english": "The lowest measure is womb-foot, and the eldest measure is three-foot."
+  },
+  {
+   "verse": 3962,
+   "rows": [
+    {
+     "surface": "āyādiśuddhisiddhyarthaṃ bhajenmānāṅgulena tu",
+     "gloss": "purity-accomplishment-purpose-use-measure-finger",
+     "grounds": "fused instruction to use finger measure for purity and accomplishment",
+     "morph": "n.dat.sg+3.sg.act.opt+n.instr.sg+indecl"
+    }
+   ],
+   "question": "For what purpose should finger measure be used?",
+   "premises": [
+    "purity and accomplishment purpose is named",
+    "finger measure is named",
+    "use is named"
+   ],
+   "inference": "The verse instructs using finger measure for purity and accomplishment.",
+   "uncertainties": [
+    "the exact purity procedure is not expanded"
+   ],
+   "plain_english": "Use finger measure for the purpose of purity and accomplishment."
+  },
+  {
+   "verse": 3963,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṃśaṃ samārabhya caturviṃśatisaṃyutam",
+     "gloss": "sixteen-part-beginning-twenty-four-joined",
+     "grounds": "fused proportion beginning at sixteen parts and joined with twenty-four",
+     "morph": "n.acc.sg+n.absol+n.acc.sg"
+    }
+   ],
+   "question": "How does the proportion begin at sixteen parts and join twenty-four?",
+   "premises": [
+    "sixteen part is named",
+    "beginning is named",
+    "twenty-four joined is named"
+   ],
+   "inference": "The verse begins a proportion at sixteen parts and joins twenty-four.",
+   "uncertainties": [
+    "the resulting total is not stated"
+   ],
+   "plain_english": "Beginning at sixteen parts, it is joined with twenty-four."
+  },
+  {
+   "verse": 3964,
+   "rows": [
+    {
+     "surface": "āyādiśubhasaṃyuktaṃ saḍaṃśaṃ vā purā mayā",
+     "gloss": "purity-auspicious-joined-six-part-or-formerly-by-me",
+     "grounds": "fused statement of an auspicious six-part alternative formerly given",
+     "morph": "n.nom.sg+n.nom.sg+indecl+n.nom.sg+n.indecl+n.instr.sg"
+    }
+   ],
+   "question": "What auspicious six-part alternative was formerly given by the speaker?",
+   "premises": [
+    "purity-auspicious joined is named",
+    "six part is named",
+    "formerly by me is named"
+   ],
+   "inference": "The verse recalls an auspicious six-part alternative formerly given.",
+   "uncertainties": [
+    "the exact alternative is not expanded"
+   ],
+   "plain_english": "An auspicious six-part alternative was formerly given by me."
+  },
+  {
+   "verse": 3965,
+   "rows": [
+    {
+     "surface": "liṅgāyāme vikārāṃśe caturbhūtarasaiḥ kramāt",
+     "gloss": "linga-length-variation-part-four-elements-in-order",
+     "grounds": "fused rule for linga length variation by four elements in order",
+     "morph": "n.loc.sg+n.loc.sg+n.instr.pl+n.indecl"
+    }
+   ],
+   "question": "How does linga length vary by four elements in order?",
+   "premises": [
+    "linga length is named",
+    "variation part is named",
+    "four elements in order are named"
+   ],
+   "inference": "The verse relates linga length variation to four elements in order.",
+   "uncertainties": [
+    "the exact element order is not expanded"
+   ],
+   "plain_english": "Linga length varies by parts according to the four elements in order."
+  },
+  {
+   "verse": 3966,
+   "rows": [
+    {
+     "surface": "āḍhyaṃ sarvasamaṃ liṅgaṃ viśiṣṭaṃ parikīrtitam",
+     "gloss": "wealthy-all-equal-linga-excellent-declared",
+     "grounds": "fused praise of an all-equal wealthy linga",
+     "morph": "n.nom.sg+n.nom.sg+n.nom.sg+n.nom.sg+n.nom.sg"
+    }
+   ],
+   "question": "What kind of linga is declared wealthy, all-equal, and excellent?",
+   "premises": [
+    "wealthy is named",
+    "all-equal is named",
+    "linga is named",
+    "excellent is named"
+   ],
+   "inference": "The verse declares a wealthy, all-equal, excellent linga.",
+   "uncertainties": [
+    "the exact linga type is not specified"
+   ],
+   "plain_english": "A wealthy, all-equal, excellent linga is declared."
+  },
+  {
+   "verse": 3967,
+   "rows": [
+    {
+     "surface": "liṅgāyāme dināṃśe tu saptāṣṭanavabhāgataḥ",
+     "gloss": "linga-length-day-part-seven-eight-nine-part",
+     "grounds": "fused rule for linga length day parts by seven, eight, and nine",
+     "morph": "n.loc.sg+n.loc.sg+indecl+n.abl.pl"
+    }
+   ],
+   "question": "How are linga length day parts divided by seven, eight, and nine?",
+   "premises": [
+    "linga length is named",
+    "day part is named",
+    "seven, eight, and nine parts are named"
+   ],
+   "inference": "The verse divides linga length day parts by seven, eight, and nine.",
+   "uncertainties": [
+    "the exact division is compressed"
+   ],
+   "plain_english": "Linga length day parts are divided by seven, eight, and nine."
+  },
+  {
+   "verse": 3968,
+   "rows": [
+    {
+     "surface": "sarveṣāmapi sāmānyaṃ liṅgametadudāhṛtam",
+     "gloss": "all-common-linga-this-example",
+     "grounds": "fused statement that this linga is common to all",
+     "morph": "n.gen.pl+indecl+n.nom.sg+n.nom.sg+n.nom.sg"
+    }
+   ],
+   "question": "What linga is given as common to all?",
+   "premises": [
+    "all is named",
+    "common is named",
+    "this linga is named",
+    "example is named"
+   ],
+   "inference": "The verse presents this linga as common to all.",
+   "uncertainties": [
+    "the scope of all is not expanded"
+   ],
+   "plain_english": "This linga is given as common to all."
+  },
+  {
+   "verse": 3969,
+   "rows": [
+    {
+     "surface": "varṇānāṃ brāhmaṇādīnāṃ krameṇa parikalpayet",
+     "gloss": "colors-brahmin-etc-in-order-should-assign",
+     "grounds": "fused instruction to assign colors to brahmins and others in order",
+     "morph": "n.gen.pl+n.gen.pl+n.instr.sg+3.sg.act.opt"
+    }
+   ],
+   "question": "How should colors be assigned to brahmins and others in order?",
+   "premises": [
+    "colors are named",
+    "brahmins and others are named",
+    "in order is named",
+    "should assign is named"
+   ],
+   "inference": "The verse instructs assigning colors to brahmins and others in order.",
+   "uncertainties": [
+    "the exact color assignments are not listed"
+   ],
+   "plain_english": "Colors should be assigned to brahmins and others in order."
+  },
+  {
+   "verse": 3970,
+   "rows": [
+    {
+     "surface": "liṅgāyāmaṃ tridhā kṛtvā brahmāṃśaḥ tvekabhāgataḥ",
+     "gloss": "linga-length-threefold-made-brahma-part-one-part",
+     "grounds": "fused rule making linga length threefold with brahma part as one part",
+     "morph": "n.acc.sg+n.indecl+n.absol+n.nom.sg+n.indecl+n.abl.sg"
+    }
+   ],
+   "question": "How is linga length made threefold with brahma part as one part?",
+   "premises": [
+    "linga length is named",
+    "threefold is named",
+    "brahma part is named",
+    "one part is named"
+   ],
+   "inference": "The verse makes linga length threefold, with brahma part as one part.",
+   "uncertainties": [
+    "the other two parts are not named here"
+   ],
+   "plain_english": "Linga length is made threefold, with the brahma part as one part."
+  },
+  {
+   "verse": 3971,
+   "rows": [
+    {
+     "surface": "ekāṃśasadṛśastāraḥ samakhaṇḍo'yamīrtitaḥ",
+     "gloss": "one-part-similar-star-equal-section-this-declared",
+     "grounds": "fused declaration of a star-like equal section",
+     "morph": "n.nom.sg+n.nom.sg+n.nom.sg+n.nom.sg+n.nom.sg+n.nom.sg"
+    }
+   ],
+   "question": "What star-like equal section is declared?",
+   "premises": [
+    "one-part similar is named",
+    "star is named",
+    "equal section is named",
+    "this is declared"
+   ],
+   "inference": "The verse declares a star-like equal section similar to one part.",
+   "uncertainties": [
+    "the exact section is not expanded"
+   ],
+   "plain_english": "A star-like equal section, similar to one part, is declared."
+  },
+  {
+   "verse": 3972,
+   "rows": [
+    {
+     "surface": "ṣaṭsaptāṣṭāṃśakaṃ saptabhāgāṣṭanavabhāgikam",
+     "gloss": "six-seven-eight-part-seven-part-eight-nine-part",
+     "grounds": "fused proportion with six, seven, eight and seven, eight, nine parts",
+     "morph": "n.nom.sg+n.nom.sg"
+    }
+   ],
+   "question": "How are the six-seven-eight and seven-eight-nine part proportions related?",
+   "premises": [
+    "six-seven-eight part is named",
+    "seven-part is named",
+    "eight-nine part is named"
+   ],
+   "inference": "The verse relates proportions of six-seven-eight parts to seven-eight-nine parts.",
+   "uncertainties": [
+    "the exact relation is compressed"
+   ],
+   "plain_english": "The verse relates six-seven-eight part proportions to seven-eight-nine part proportions."
+  },
+  {
+   "verse": 3973,
+   "rows": [
+    {
+     "surface": "saptasaptāṣṭabhāgaṃ tu pañcapañcaṣaḍaṃśakam",
+     "gloss": "seven-seven-eight-part-five-five-six-part",
+     "grounds": "fused proportion with seven-seven-eight and five-five-six parts",
+     "morph": "n.nom.sg+indecl+n.nom.sg"
+    }
+   ],
+   "question": "How are the seven-seven-eight and five-five-six part proportions related?",
+   "premises": [
+    "seven-seven-eight part is named",
+    "five-five-six part is named"
+   ],
+   "inference": "The verse relates proportions of seven-seven-eight parts to five-five-six parts.",
+   "uncertainties": [
+    "the exact relation is compressed"
+   ],
+   "plain_english": "The verse relates seven-seven-eight part proportions to five-five-six part proportions."
+  },
+  {
+   "verse": 3974,
+   "rows": [
+    {
+     "surface": "evaṃ śivādhikaṃ proktaṃ dvijātīnāmanukramāt",
+     "gloss": "thus-shiva-superior-declared-twice-born-in-order",
+     "grounds": "fused concluding statement that shiva-superior is declared for twice-born in order",
+     "morph": "indecl+n.nom.sg+n.nom.sg+n.gen.pl+n.indecl"
+    }
+   ],
+   "question": "What is declared superior for twice-born in order?",
+   "premises": [
+    "thus is named",
+    "shiva-superior is named",
+    "declared is named",
+    "twice-born in order is named"
+   ],
+   "inference": "The verse concludes that shiva-superior is declared for twice-born in order.",
+   "uncertainties": [
+    "the exact superior measure is not expanded"
+   ],
+   "plain_english": "Thus shiva-superior is declared for twice-born in order."
+  }
+ ]
+}

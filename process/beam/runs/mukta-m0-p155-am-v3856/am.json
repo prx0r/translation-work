@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p155",
  "verse": 3856,
- "question": "What do the sages declare about samādhi in relation to the eight limbs?",
+ "question": "How is the wall-mass proportioned relative to the sanctum?",
  "premises": [
-  "The sages make a declaration about samādhi.",
-  "Samādhi is described as having the characteristic of eight limbs.",
-  "This characterization has been previously declared."
+  "the sanctum is named",
+  "the wall-mass uses three parts",
+  "the proportion is from that part"
  ],
- "inference": "The sages declare samādhi to be characterized by the eight limbs.",
- "uncertainties": [],
- "plain_english": "The sages declare samādhi to be that which is characterized by the eight limbs."
+ "inference": "The wall-mass is proportioned from that part using three parts relative to the sanctum.",
+ "uncertainties": [
+  "exact arithmetic relation"
+ ],
+ "plain_english": "The sanctum has a wall-mass of three parts from that part."
 }

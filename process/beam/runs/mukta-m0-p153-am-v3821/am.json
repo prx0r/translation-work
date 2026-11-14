@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p153",
  "verse": 3821,
- "question": "What substance is used to satisfy the sky-moving goddess after filling?",
+ "question": "What relation holds between chamber length and nest expansion?",
  "premises": [
-  "The essence of the kalās is used",
-  "It is filled or completed",
-  "The sky-moving goddess is satisfied with it"
+  "tri-bhāgaḥ means three parts",
+  "koṣṭha-āyāmaḥ means chamber length",
+  "nīḍa-vistaraḥ means nest expansion"
  ],
- "inference": "Having filled with the essence of the kalās, one should satisfy the sky-moving goddess with that.",
- "uncertainties": [],
- "plain_english": "Having filled with the essence of the kalās, one should satisfy the sky-moving goddess with that."
+ "inference": "Chamber length is three parts with half nest expansion.",
+ "uncertainties": [
+  "exact ratio"
+ ],
+ "plain_english": "Chamber length is three parts with half nest expansion."
 }

@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p160",
  "verse": 3988,
- "question": "What origin explains the goddess's name Dakṣiṇā?",
+ "question": "How do arm-shoulders emerge six fingers by half-part?",
  "premises": [
-  "She manifested from Kṛṣṇa's right shoulder",
-  "Her name Dakṣiṇā derives from that origin"
+  "arm-shoulders are specified",
+  "they emerge six fingers by half-part"
  ],
- "inference": "The goddess is called Dakṣiṇā because she appeared from Kṛṣṇa's right shoulder.",
- "uncertainties": [],
- "plain_english": "She manifested from the right shoulder of Kṛṣṇa; therefore she is called Dakṣiṇā."
+ "inference": "The arm-shoulders emerge six fingers by a half-part measure.",
+ "uncertainties": [
+  "emergence direction unspecified"
+ ],
+ "plain_english": "By half-part, the arm-shoulders emerge six fingers."
 }

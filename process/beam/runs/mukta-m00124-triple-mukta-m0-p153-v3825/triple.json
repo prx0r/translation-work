@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p153",
+ "items": [
+  {
+   "verse": 3825,
+   "rows": [
+    {
+     "surface": "aṣṭa-kūṭaṃ",
+     "gloss": "eight-kūṭa",
+     "grounds": "compound aṣṭa + kūṭa; accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhaṃ",
+     "gloss": "chamber",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nīḍakaṃ",
+     "gloss": "nest",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular of bhū",
+     "morph": "v.3.sg.opt (bhū)"
+    }
+   ],
+   "question": "Which elements become present in the upper temple region?",
+   "premises": [
+    "The upper region has an eight-cornered top.",
+    "Eight-kūṭa chamber and nest thus become."
+   ],
+   "inference": "The upper temple region includes an eight-kūṭa chamber and nest.",
+   "uncertainties": [
+    "The exact ritual function of nīḍaka remains unclear."
+   ],
+   "plain_english": "Thus an eight-kūṭa chamber and nest become there."
+  }
+ ]
+}

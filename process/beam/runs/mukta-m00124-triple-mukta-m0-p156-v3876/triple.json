@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p156",
+ "items": [
+  {
+   "verse": 3876,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhaṃ",
+     "gloss": "peak-chamber",
+     "grounds": "compound kūṭa+koṣṭha, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīḍaṃ",
+     "gloss": "nest",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avāntaraprastarānvitam",
+     "gloss": "with-intermediate-slab",
+     "grounds": "compound avāntara+prastara+anvita, accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which architectural elements accompany the peak-chamber and nest in this temple plan?",
+   "premises": [
+    "The verse lists kūṭakoṣṭha and nīḍa.",
+    "It adds avāntaraprastara as accompanying element.",
+    "The construction is cumulative."
+   ],
+   "inference": "The plan includes peak-chamber, nest, and intermediate slab together.",
+   "uncertainties": [
+    "Exact spatial relation among elements is not specified."
+   ],
+   "plain_english": "The plan includes a peak-chamber, a nest, and an intermediate slab."
+  },
+  {
+   "verse": 3877,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇaśālā",
+     "gloss": "double-hall",
+     "grounds": "compound dviguṇa+śālā, nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt-√as"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-them",
+     "grounds": "genitive dual",
+     "morph": "m/f/n.gen.du"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañjaram",
+     "gloss": "cage",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where is the cage placed relative to the double hall?",
+   "premises": [
+    "A double hall would be present.",
+    "The cage is in the middle of them.",
+    "The particle tu marks contrast."
+   ],
+   "inference": "The cage stands in the middle between the two halls.",
+   "uncertainties": [
+    "Whether 'them' refers to halls or prior elements is implicit."
+   ],
+   "plain_english": "There would be a double hall, and a cage in its middle."
+  },
+  {
+   "verse": 3878,
+   "rows": [
+    {
+     "surface": "vijayasya",
+     "gloss": "of-vijaya",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle of prac",
+     "morph": "pp-√prac"
+    },
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "third singular optative of yuj",
+     "morph": "3.sg.opt-√yuj"
+    }
+   ],
+   "question": "What should be joined above for the remainder of vijaya?",
+   "premises": [
+    "The remainder is declared for vijaya.",
+    "It is to be joined above.",
+    "The optative expresses prescription."
+   ],
+   "inference": "The remaining elements of vijaya are to be joined above.",
+   "uncertainties": [
+    "The exact remainder is not enumerated here."
+   ],
+   "plain_english": "The remainder for vijaya should be joined above."
+  },
+  {
+   "verse": 3879,
+   "rows": [
+    {
+     "surface": "mahānīḍaṃ",
+     "gloss": "great-nest",
+     "grounds": "compound mahā+nīḍa, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dviraṣṭa",
+     "gloss": "twice-eight",
+     "grounds": "compound dvir+aṣṭa, indeclinable numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "third plural optative of as",
+     "morph": "3.pl.opt-√as"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadrakūṭakam",
+     "gloss": "bhadra-kūṭaka",
+     "grounds": "compound bhadra+kūṭaka, nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the great nest with sixteen called by name?",
+   "premises": [
+    "The great nest is associated with twice-eight.",
+    "This is called bhadra-kūṭaka by name.",
+    "The optative gives the designation."
+   ],
+   "inference": "The sixteen-part great nest is named bhadra-kūṭaka.",
+   "uncertainties": [
+    "Whether dviraṣṭa modifies count or measure is implicit."
+   ],
+   "plain_english": "This great nest of sixteen is called bhadra-kūṭaka."
+  },
+  {
+   "verse": 3880,
+   "rows": [
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "āvantikam",
+     "gloss": "āvantika",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityuktam",
+     "gloss": "thus-declared",
+     "grounds": "past participle with iti",
+     "morph": "pp-√vac"
+    },
+    {
+     "surface": "śambhoḥ",
+     "gloss": "of-śambhu",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mandiram",
+     "gloss": "temple",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the excellent temple of Śambhu called by name?",
+   "premises": [
+    "The temple of Śambhu is excellent.",
+    "It is called āvantika by name.",
+    "The declaration is explicit."
+   ],
+   "inference": "Śambhu's excellent temple is named āvantika.",
+   "uncertainties": [
+    "No further architectural detail is given here."
+   ],
+   "plain_english": "Śambhu's excellent temple is called āvantika."
+  },
+  {
+   "verse": 3881,
+   "rows": [
+    {
+     "surface": "vedāṃśaḥ",
+     "gloss": "veda-portion",
+     "grounds": "compound veda+aṃśa, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "garbhagehaṃ",
+     "gloss": "garbha-house",
+     "grounds": "compound garbha+geha, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt-√as"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "portion",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "gṛhapiṇḍikā",
+     "gloss": "house-pedestal",
+     "grounds": "compound gṛha+piṇḍikā, nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the garbha-house measured in relation to the house-pedestal?",
+   "premises": [
+    "The garbha-house would be a veda-portion.",
+    "The house-pedestal is a portion.",
+    "The optative states the relation."
+   ],
+   "inference": "The garbha-house is a veda-portion and the pedestal is a portion.",
+   "uncertainties": [
+    "The exact numerical ratio is not stated."
+   ],
+   "plain_english": "The garbha-house would be a veda-portion, with the house-pedestal as a portion."
+  },
+  {
+   "verse": 3882,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhakanīḍam",
+     "gloss": "peak-chamber-nest",
+     "grounds": "compound kūṭa+koṣṭha+nīḍa, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "arrange",
+     "grounds": "third singular optative of parikalp",
+     "morph": "3.sg.opt-√parikalp"
+    }
+   ],
+   "question": "How should the peak-chamber and nest be arranged?",
+   "premises": [
+    "The peak-chamber-nest is to be arranged.",
+    "It is arranged as before.",
+    "The optative prescribes arrangement."
+   ],
+   "inference": "The peak-chamber and nest are arranged as previously described.",
+   "uncertainties": [
+    "The prior arrangement is not repeated here."
+   ],
+   "plain_english": "Arrange the peak-chamber and nest as before."
+  },
+  {
+   "verse": 3883,
+   "rows": [
+    {
+     "surface": "jalasthalaṃ",
+     "gloss": "water-land",
+     "grounds": "compound jala+sthala, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vihāya",
+     "gloss": "leaving",
+     "grounds": "absolutive of vihā",
+     "morph": "abs-√vihā"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vasubhāgaiḥ",
+     "gloss": "vasu-parts",
+     "grounds": "compound vasu+bhāga, instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "divided",
+     "grounds": "past participle of vibhaj",
+     "morph": "pp-√vibhaj"
+    }
+   ],
+   "question": "How is the upper ground divided after leaving water and land?",
+   "premises": [
+    "Water and land are left aside.",
+    "The upper ground is divided by vasu-parts.",
+    "The participle indicates division."
+   ],
+   "inference": "Above the water-land level, the ground is divided into vasu-parts.",
+   "uncertainties": [
+    "The exact count of vasu-parts is not stated."
+   ],
+   "plain_english": "Leaving water and land, the upper ground is divided by vasu-parts."
+  },
+  {
+   "verse": 3884,
+   "rows": [
+    {
+     "surface": "ūrdhvabhūmiḥ",
+     "gloss": "upper-ground",
+     "grounds": "compound ūrdhva+bhūmi, nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaḍaṃśā",
+     "gloss": "six-parts",
+     "grounds": "compound ṣaḍ+aṃśa, nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt-√as"
+    },
+    {
+     "surface": "bhāgaḥ",
+     "gloss": "portion",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sauṣṭhikavistaraḥ",
+     "gloss": "good-extension",
+     "grounds": "compound sauṣṭhika+vistara, nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the measure of the upper ground and its extension?",
+   "premises": [
+    "The upper ground would be six parts.",
+    "A portion is specified.",
+    "The extension is good."
+   ],
+   "inference": "The upper ground is six parts, with a portion and good extension.",
+   "uncertainties": [
+    "The relation between six parts and portion is implicit."
+   ],
+   "plain_english": "The upper ground would be six parts, with a portion and good extension."
+  },
+  {
+   "verse": 3885,
+   "rows": [
+    {
+     "surface": "ūrdhvabhūmidvibhāgena",
+     "gloss": "upper-ground-two-parts",
+     "grounds": "compound ūrdhva+bhūmi+dvibhāga, instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "madhyabhadraḥ",
+     "gloss": "middle-bhadra",
+     "grounds": "compound madhya+bhadra, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "prescribed",
+     "grounds": "third singular passive of vidhā",
+     "morph": "3.sg.pass-√vidhā"
+    }
+   ],
+   "question": "How is the middle bhadra prescribed?",
+   "premises": [
+    "The upper ground is divided into two parts.",
+    "The middle bhadra is prescribed by that division.",
+    "The passive indicates prescription."
+   ],
+   "inference": "The middle bhadra is prescribed by dividing the upper ground into two parts.",
+   "uncertainties": [
+    "The exact division method is not detailed."
+   ],
+   "plain_english": "The middle bhadra is prescribed by the two-part division of the upper ground."
+  },
+  {
+   "verse": 3886,
+   "rows": [
+    {
+     "surface": "grīvānāḍī",
+     "gloss": "neck-channel",
+     "grounds": "compound grīvā+nāḍī, nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśālā",
+     "gloss": "wide",
+     "grounds": "nominative singular feminine adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt-√as"
+    },
+    {
+     "surface": "vṛttavedi",
+     "gloss": "round-altar",
+     "grounds": "compound vṛtta+vedi, instrumental singular feminine",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "with",
+     "grounds": "past participle of samanvā",
+     "morph": "pp-√samanvā"
+    }
+   ],
+   "question": "What accompanies the wide neck-channel?",
+   "premises": [
+    "The neck-channel would be wide.",
+    "It is with a round altar.",
+    "The participle indicates accompaniment."
+   ],
+   "inference": "The wide neck-channel is accompanied by a round altar.",
+   "uncertainties": [
+    "Spatial placement of altar is not specified."
+   ],
+   "plain_english": "The wide neck-channel is accompanied by a round altar."
+  },
+  {
+   "verse": 3887,
+   "rows": [
+    {
+     "surface": "alpāṣṭanālikā",
+     "gloss": "small-eight-pipe",
+     "grounds": "compound alpa+aṣṭa+nālikā, nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "upetam",
+     "gloss": "with",
+     "grounds": "past participle of upa-i",
+     "morph": "pp-√upai"
+    },
+    {
+     "surface": "asya",
+     "gloss": "its",
+     "grounds": "genitive singular neuter",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mūlatale",
+     "gloss": "base",
+     "grounds": "compound mūla+tala, locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is at the base of this structure?",
+   "premises": [
+    "The structure has a small eight-pipe feature.",
+    "It is with that feature.",
+    "At its base are twice-born."
+   ],
+   "inference": "At the base are twice-born, with a small eight-pipe feature.",
+   "uncertainties": [
+    "Whether dvijāḥ refers to persons or elements is implicit."
+   ],
+   "plain_english": "At its base are twice-born, with a small eight-pipe feature."
+  },
+  {
+   "verse": 3888,
+   "rows": [
+    {
+     "surface": "uttaṅgaśālādvitalaṃ",
+     "gloss": "raised-hall-two-levels",
+     "grounds": "compound uttaṅga+śālā+dvi+tala, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-base",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikakūṭakam",
+     "gloss": "extra-kūṭaka",
+     "grounds": "compound adhika+kūṭaka, accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is at the base besides the raised hall?",
+   "premises": [
+    "The raised hall has two levels.",
+    "At the base there is an extra kūṭaka.",
+    "The particle tu marks contrast."
+   ],
+   "inference": "At the base there is an extra kūṭaka in addition to the raised hall.",
+   "uncertainties": [
+    "Exact relation between levels and kūṭaka is implicit."
+   ],
+   "plain_english": "At the base there is an extra kūṭaka besides the two-level raised hall."
+  },
+  {
+   "verse": 3889,
+   "rows": [
+    {
+     "surface": "nānāmasūrakastambhavedikājālatoraṇam",
+     "gloss": "various-masūraka-pillar-altar-gate-arch",
+     "grounds": "compound nānā+masūraka+stambha+vedikā+jāla+torana, accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What varied architectural features are included here?",
+   "premises": [
+    "The compound lists masūraka, pillar, altar, gate, and arch.",
+    "The adjective nānā indicates variety.",
+    "The whole is a single accusative object."
+   ],
+   "inference": "The plan includes varied masūraka, pillar, altar, gate, and arch features.",
+   "uncertainties": [
+    "Whether all are mandatory or optional is not stated."
+   ],
+   "plain_english": "It includes varied masūraka, pillar, altar, gate, and arch features."
+  },
+  {
+   "verse": 3890,
+   "rows": [
+    {
+     "surface": "pañcabhaumam",
+     "gloss": "five-earth",
+     "grounds": "compound pañca+bhauma, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "first singular nominative",
+     "morph": "1.sg.nom"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "will-speak",
+     "grounds": "first singular future of vac",
+     "morph": "1.sg.fut-√vac"
+    },
+    {
+     "surface": "śrūyatāṃ",
+     "gloss": "listen",
+     "grounds": "third singular imperative passive of śru",
+     "morph": "3.sg.imp.pass-√śru"
+    },
+    {
+     "surface": "munipuṅgavāḥ",
+     "gloss": "sage-best",
+     "grounds": "compound muni+puṅgava, vocative plural masculine",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What will the speaker describe next?",
+   "premises": [
+    "The speaker will speak.",
+    "The topic is five-earth.",
+    "The sages are addressed."
+   ],
+   "inference": "The speaker will describe the five-earth structure to the sages.",
+   "uncertainties": [
+    "The full five-earth plan is not yet given."
+   ],
+   "plain_english": "I will describe the five-earth structure; listen, best sages."
+  },
+  {
+   "verse": 3891,
+   "rows": [
+    {
+     "surface": "masūrakoccam",
+     "gloss": "masūraka-height",
+     "grounds": "compound masūraka+ucca, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "called",
+     "grounds": "past participle of ākhyā",
+     "morph": "pp-√ākhyā"
+    },
+    {
+     "surface": "pādaḥ",
+     "gloss": "foot",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sārdhaśaraiḥ",
+     "gloss": "with-one-and-half-arrows",
+     "grounds": "compound sārdha+śara, instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "third singular optative of bhū",
+     "morph": "3.sg.opt-√bhū"
+    }
+   ],
+   "question": "What is the height of the masūraka foot?",
+   "premises": [
+    "The masūraka height is called the foot.",
+    "It would be with one and a half arrows.",
+    "The optative states the measure."
+   ],
+   "inference": "The masūraka foot measures one and a half arrows.",
+   "uncertainties": [
+    "The arrow unit is not quantified here."
+   ],
+   "plain_english": "The masūraka height, called the foot, would be one and a half arrows."
+  },
+  {
+   "verse": 3892,
+   "rows": [
+    {
+     "surface": "bhāgadvayena+sārdhena",
+     "gloss": "portion-two-with-half",
+     "grounds": "compound bhāga+dvaya+sārdha, instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "prastaraḥ",
+     "gloss": "slab",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "past participle of parikīrt",
+     "morph": "pp-√parikīrt"
+    }
+   ],
+   "question": "What is the measure of the slab?",
+   "premises": [
+    "The slab is declared.",
+    "Its measure is two and a half portions.",
+    "The instrumental gives the measure."
+   ],
+   "inference": "The slab measures two and a half portions.",
+   "uncertainties": [
+    "The base portion size is not stated."
+   ],
+   "plain_english": "The slab is declared to measure two and a half portions."
+  },
+  {
+   "verse": 3893,
+   "rows": [
+    {
+     "surface": "tripādavedaiḥ",
+     "gloss": "three-foot-vedas",
+     "grounds": "compound tri+pāda+veda, instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tali",
+     "gloss": "base",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "po",
+     "gloss": "po",
+     "grounds": "indeclinable or fragment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgaḥ",
+     "gloss": "two-portion",
+     "grounds": "compound dvi+bhāga, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prastaraḥ",
+     "gloss": "slab",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "third singular optative of bhū",
+     "morph": "3.sg.opt-√bhū"
+    }
+   ],
+   "question": "What slab measure applies at the base?",
+   "premises": [
+    "The base is associated with three-foot-vedas.",
+    "The slab would be two portions.",
+    "The optative states the measure."
+   ],
+   "inference": "At the base, the slab would be two portions.",
+   "uncertainties": [
+    "The token 'po' is unclear and may be corrupt or abbreviated."
+   ],
+   "plain_english": "At the base, the slab would be two portions."
+  },
+  {
+   "verse": 3894,
+   "rows": [
+    {
+     "surface": "prastarodaya",
+     "gloss": "slab-rise",
+     "grounds": "compound prastara+udaya, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣṭaḥ",
+     "gloss": "desired",
+     "grounds": "past participle of iṣ",
+     "morph": "pp-√iṣ"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt-√as"
+    },
+    {
+     "surface": "vitardiḥ",
+     "gloss": "vitardi",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgataḥ",
+     "gloss": "one-portion",
+     "grounds": "compound eka+bhāga, ablative singular masculine",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What is the measure of the slab-rise and vitardi?",
+   "premises": [
+    "The slab-rise is desired.",
+    "The vitardi is one portion.",
+    "The optative states the relation."
+   ],
+   "inference": "The slab-rise is desired, and the vitardi measures one portion.",
+   "uncertainties": [
+    "Whether ekabhāgataḥ modifies vitardi or slab-rise is implicit."
+   ],
+   "plain_english": "The slab-rise is desired, and the vitardi measures one portion."
+  },
+  {
+   "verse": 3895,
+   "rows": [
+    {
+     "surface": "vibhāgaḥ",
+     "gloss": "portion",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kumbhaḥ",
+     "gloss": "kumbha",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityuktaḥ",
+     "gloss": "thus-declared",
+     "grounds": "past participle with iti",
+     "morph": "pp-√vac"
+    },
+    {
+     "surface": "bhāgāḥ",
+     "gloss": "portions",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "past participle of prakīrt",
+     "morph": "pp-√prakīrt"
+    }
+   ],
+   "question": "How are the kumbha and portions declared?",
+   "premises": [
+    "The portion and kumbha are declared thus.",
+    "The portions are also declared thus.",
+    "The participles mark declaration."
+   ],
+   "inference": "The kumbha and portions are declared in this manner.",
+   "uncertainties": [
+    "The exact numerical values are not restated."
+   ],
+   "plain_english": "The portion and kumbha are declared thus, and the portions are declared likewise."
+  },
+  {
+   "verse": 3896,
+   "rows": [
+    {
+     "surface": "ṣaṭtalādyaṃ",
+     "gloss": "six-levels-etc",
+     "grounds": "compound ṣaṭ+tala+ādi, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "will-speak",
+     "grounds": "first singular future of vac",
+     "morph": "1.sg.fut-√vac"
+    },
+    {
+     "surface": "pañcabhūmyaṃśakaiḥ",
+     "gloss": "five-earth-portions",
+     "grounds": "compound pañca+bhūmi+aṃśaka, instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What will be described in order with five-earth portions?",
+   "premises": [
+    "The speaker will speak in order.",
+    "The topic is six levels and so on.",
+    "It is with five-earth portions."
+   ],
+   "inference": "The six-level structure and related features will be described in order with five-earth portions.",
+   "uncertainties": [
+    "The 'etc.' leaves unspecified items."
+   ],
+   "plain_english": "I will describe the six levels and related features in order, with five-earth portions."
+  },
+  {
+   "verse": 3897,
+   "rows": [
+    {
+     "surface": "prastaraḥ",
+     "gloss": "slab",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "its",
+     "grounds": "nominative singular neuter pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhiṣṭhānaṃ",
+     "gloss": "base",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle of prakīrt",
+     "morph": "pp-√prakīrt"
+    }
+   ],
+   "question": "How is the slab base declared?",
+   "premises": [
+    "The slab is its base.",
+    "It is declared by measure.",
+    "The particle eva emphasizes measure."
+   ],
+   "inference": "The slab base is declared according to measure.",
+   "uncertainties": [
+    "The exact measure is not repeated here."
+   ],
+   "plain_english": "The slab, its base, is declared by measure."
+  },
+  {
+   "verse": 3898,
+   "rows": [
+    {
+     "surface": "ṣaḍbhaumam",
+     "gloss": "six-earth",
+     "grounds": "compound ṣaḍ+bhauma, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "called",
+     "grounds": "past participle of ākhyā",
+     "morph": "pp-√ākhyā"
+    },
+    {
+     "surface": "prāyaḥ",
+     "gloss": "mostly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistārabhāgayuk",
+     "gloss": "extension-portion",
+     "grounds": "compound vistāra+bhāga+yuk, nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the six-earth structure called?",
+   "premises": [
+    "The six-earth structure is called thus.",
+    "It is mostly with extension-portion.",
+    "The participle marks naming."
+   ],
+   "inference": "The six-earth structure is named thus, mostly with an extension-portion.",
+   "uncertainties": [
+    "The exact extension-portion ratio is not stated."
+   ],
+   "plain_english": "The six-earth structure is called thus, mostly with an extension-portion."
+  },
+  {
+   "verse": 3899,
+   "rows": [
+    {
+     "surface": "stambhaṃ",
+     "gloss": "pillar",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "masūrakaṃ",
+     "gloss": "masūraka",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "make",
+     "grounds": "third singular optative of kṛ",
+     "morph": "3.sg.opt-√kṛ"
+    },
+    {
+     "surface": "tāre",
+     "gloss": "tāra",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rudrārka",
+     "gloss": "rudra-sun",
+     "grounds": "compound rudra+arka, locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "divided",
+     "grounds": "past participle of bhaj",
+     "morph": "pp-√bhaj"
+    }
+   ],
+   "question": "How should the masūraka pillar be made?",
+   "premises": [
+    "The masūraka pillar should be made.",
+    "It is in tāra.",
+    "It is divided by rudra-sun."
+   ],
+   "inference": "The masūraka pillar should be made in tāra, divided by rudra-sun.",
+   "uncertainties": [
+    "The exact division operation is not explained."
+   ],
+   "plain_english": "Make the masūraka pillar in tāra, divided by rudra-sun."
+  }
+ ]
+}

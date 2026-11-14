@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p155",
  "verse": 3874,
- "question": "What is stated to be located above that as the place of the bindu?",
+ "question": "How is the sanctum proportioned with the wall-mass?",
  "premises": [
-  "A location above that is being described.",
-  "It is the place of the bindu.",
-  "It is identified as the thousand-petaled lotus."
+  "the sanctum is named",
+  "it is four parts",
+  "the wall-mass is by one part"
  ],
- "inference": "Above that, the thousand-petaled lotus is stated to be the place of the bindu.",
- "uncertainties": [],
- "plain_english": "Above that, the thousand-petaled lotus is stated to be the place of the bindu."
+ "inference": "The sanctum is four parts, and the wall-mass is by one part.",
+ "uncertainties": [
+  "exact relation between four parts and one part"
+ ],
+ "plain_english": "The sanctum is four parts; the wall-mass is by one part."
 }

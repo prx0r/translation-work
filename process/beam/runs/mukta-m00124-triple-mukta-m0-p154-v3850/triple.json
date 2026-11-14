@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p154",
+ "items": [
+  {
+   "verse": 3850,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as; prescriptive statement",
+     "morph": "3.sg.act-optative root-as"
+    },
+    {
+     "surface": "satripādabhāgena",
+     "gloss": "with-tripāda-part",
+     "grounds": "compound sa+tripāda+bhāga+ena; instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "prastaraḥ",
+     "gloss": "prastara",
+     "grounds": "subject of the clause",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vedikāṃśataḥ",
+     "gloss": "from-vedikā-part",
+     "grounds": "ablative of vedikā-aṃśa",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How is the prastara measured relative to the vedikā and tripāda portions?",
+   "premises": [
+    "prastara is determined by tripāda part",
+    "measurement proceeds from vedikā part",
+    "the clause states a prescriptive relation"
+   ],
+   "inference": "the prastara would be reckoned by the tripāda portion taken from the vedikā portion",
+   "uncertainties": [
+    "exact architectural referent of prastara remains context-dependent"
+   ],
+   "plain_english": "The prastara would be (measured) by the tripāda portion from the vedikā portion."
+  }
+ ]
+}

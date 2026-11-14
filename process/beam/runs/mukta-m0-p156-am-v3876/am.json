@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p156",
  "verse": 3876,
- "question": "What is said to be born through this described process?",
+ "question": "Which architectural elements accompany the peak-chamber and nest in this temple plan?",
  "premises": [
-  "birth is asserted",
-  "the particle marks statement"
+  "The verse lists kūṭakoṣṭha and nīḍa.",
+  "It adds avāntaraprastara as accompanying element.",
+  "The construction is cumulative."
  ],
- "inference": "the verse states that something is born",
+ "inference": "The plan includes peak-chamber, nest, and intermediate slab together.",
  "uncertainties": [
-  "referent of birth not explicit"
+  "Exact spatial relation among elements is not specified."
  ],
- "plain_english": "Thus it is born."
+ "plain_english": "The plan includes a peak-chamber, a nest, and an intermediate slab."
 }

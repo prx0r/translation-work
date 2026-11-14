@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p155",
  "verse": 3862,
- "question": "What is located in the middle and what is its radiant splendor?",
+ "question": "What shape and construction are prescribed for the corner kūṭa?",
  "premises": [
-  "Something is located in the middle.",
-  "It is the self-born liṅga.",
-  "Its splendor equals that of ten million suns."
+  "the corner kūṭa is octagonal",
+  "it should be so",
+  "the koṣṭha is made with karkarī"
  ],
- "inference": "In the middle is the self-born liṅga, radiant like ten million suns.",
- "uncertainties": [],
- "plain_english": "In the middle is the self-born liṅga, with splendor equal to ten million suns."
+ "inference": "The corner kūṭa should be octagonal, and the koṣṭha is made with karkarī.",
+ "uncertainties": [
+  "relation between corner kūṭa and koṣṭha"
+ ],
+ "plain_english": "The corner kūṭa should be octagonal; the koṣṭha is made with karkarī."
 }

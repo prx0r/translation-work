@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p160",
  "verse": 3978,
- "question": "What qualities and universal status belong to that goddess?",
+ "question": "What is declared common to brahmins and others alike?",
  "premises": [
-  "That goddess is endowed with great knowledge",
-  "That goddess is worshipped by all"
+  "common declaration applies to all",
+  "brahmins and others are included"
  ],
- "inference": "The goddess possesses great knowledge and receives universal worship.",
- "uncertainties": [],
- "plain_english": "And indeed that goddess is endowed with great knowledge and worshipped by all."
+ "inference": "The verse declares a common measure or rule for brahmins and others.",
+ "uncertainties": [
+  "exact common rule unspecified"
+ ],
+ "plain_english": "A common rule is declared for brahmins and others alike."
 }

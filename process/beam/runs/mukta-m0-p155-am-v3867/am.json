@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p155",
  "verse": 3867,
- "question": "Why is that lotus called maṇipūra according to its described quality?",
+ "question": "What happens to the water-course and the division above?",
  "premises": [
-  "That lotus is being described.",
-  "It is pierced like a jewel.",
-  "Because of this it is called maṇipūra."
+  "the water-course is excluded",
+  "above is divided",
+  "the division is into eight parts"
  ],
- "inference": "That lotus is called maṇipūra because it is pierced like a jewel.",
- "uncertainties": [],
- "plain_english": "That lotus, pierced like a jewel, is thus called maṇipūra."
+ "inference": "Having excluded the water-course, the part above is divided into eight parts.",
+ "uncertainties": [
+  "exact scope of exclusion"
+ ],
+ "plain_english": "Having excluded the water-course, the part above is divided into eight parts."
 }

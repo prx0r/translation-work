@@ -1,0 +1,1145 @@
+{
+ "song": "mukta-m0-p153",
+ "items": [
+  {
+   "verse": 3801,
+   "rows": [
+    {
+     "surface": "kūṭa-koṣṭhaka",
+     "gloss": "cornered-chamber",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nīḍānāṃ",
+     "gloss": "of-nests",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "vistāro",
+     "gloss": "expansion",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāgaḥ",
+     "gloss": "part",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-considered",
+     "grounds": "passive present",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "What is the considered expansion and part of the kūṭa-koṣṭhaka nests?",
+   "premises": [
+    "kūṭa-koṣṭhaka names a cornered chamber",
+    "nīḍānāṃ means of nests",
+    "vistāro and bhāgaḥ name expansion and part"
+   ],
+   "inference": "The verse states the expansion and part of the kūṭa-koṣṭhaka nests as considered.",
+   "uncertainties": [
+    "technical architectural sense of nīḍa"
+   ],
+   "plain_english": "The expansion and part of the cornered-chamber nests are as considered."
+  },
+  {
+   "verse": 3802,
+   "rows": [
+    {
+     "surface": "śikhare",
+     "gloss": "on-the-peak",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā-nāsyaḥ",
+     "gloss": "great-nosed",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "catasraḥ",
+     "gloss": "four",
+     "grounds": "feminine nominative plural",
+     "morph": "num.nom.pl.f"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "are-declared",
+     "grounds": "passive participle",
+     "morph": "part.pass"
+    }
+   ],
+   "question": "How many great-nosed forms are declared on the peak?",
+   "premises": [
+    "śikhare means on the peak",
+    "mahā-nāsyaḥ means great-nosed",
+    "catasraḥ means four"
+   ],
+   "inference": "Four great-nosed forms are declared on the peak.",
+   "uncertainties": [
+    "exact referent of nāsya"
+   ],
+   "plain_english": "On the peak, four great-nosed forms are declared."
+  },
+  {
+   "verse": 3803,
+   "rows": [
+    {
+     "surface": "svastikaṃ",
+     "gloss": "svastika",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tri-bhaumaṃ",
+     "gloss": "three-storied",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    },
+    {
+     "surface": "śiva-prīti-karaṃ",
+     "gloss": "auspiciousness-giving",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    }
+   ],
+   "question": "What form should the svastika be to give auspiciousness?",
+   "premises": [
+    "svastikaṃ names the form",
+    "tri-bhaumaṃ means three-storied",
+    "śiva-prīti-karaṃ means auspiciousness-giving"
+   ],
+   "inference": "The svastika should be three-storied and auspiciousness-giving.",
+   "uncertainties": [
+    "ritual force of svastika"
+   ],
+   "plain_english": "That svastika should be three-storied and become auspiciousness-giving."
+  },
+  {
+   "verse": 3804,
+   "rows": [
+    {
+     "surface": "śālāyām",
+     "gloss": "in-the-hall",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "and-thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṃśo",
+     "gloss": "two-parts",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hāraṃ",
+     "gloss": "garland",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-a-part",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    }
+   ],
+   "question": "How should the garland be arranged in the hall by parts?",
+   "premises": [
+    "śālāyām means in the hall",
+    "dvyaṃśo means two-parts",
+    "hāraṃ means garland"
+   ],
+   "inference": "In the hall, the garland should be arranged as two parts by a part.",
+   "uncertainties": [
+    "exact measurement of bhāga"
+   ],
+   "plain_english": "In the hall, one should arrange the garland as two parts by a part."
+  },
+  {
+   "verse": 3805,
+   "rows": [
+    {
+     "surface": "aṣṭa-nīḍāni",
+     "gloss": "eight-nests",
+     "grounds": "compound nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "nāḍyaḥ",
+     "gloss": "tubes",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.pl.opt-pres"
+    },
+    {
+     "surface": "nīḍaṃ",
+     "gloss": "nest",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śobhā-vaśena",
+     "gloss": "by-beauty-power",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many nests and tubes should there be by beauty?",
+   "premises": [
+    "aṣṭa-nīḍāni means eight nests",
+    "nāḍyaḥ means tubes",
+    "śobhā-vaśena means by beauty power"
+   ],
+   "inference": "Eight nests and tubes should be by beauty power.",
+   "uncertainties": [
+    "relation between nests and tubes"
+   ],
+   "plain_english": "There should be eight nests and tubes, indeed by beauty power."
+  },
+  {
+   "verse": 3806,
+   "rows": [
+    {
+     "surface": "vimalā-kṛtikaṃ",
+     "gloss": "spotlessly-formed",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarva-alaṅkāra",
+     "gloss": "all-ornaments",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "past participle",
+     "morph": "part.pass"
+    }
+   ],
+   "question": "What is the spotlessly-formed thing endowed with all ornaments?",
+   "premises": [
+    "vimalā-kṛtikaṃ means spotlessly-formed",
+    "sarva-alaṅkāra means all ornaments",
+    "saṃyutam means endowed with"
+   ],
+   "inference": "The spotlessly-formed thing is endowed with all ornaments by name.",
+   "uncertainties": [
+    "exact named object"
+   ],
+   "plain_english": "The spotlessly-formed thing is, by name, endowed with all ornaments."
+  },
+  {
+   "verse": 3807,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-expansion",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vasu-bhāgāḥ",
+     "gloss": "eight-parts",
+     "grounds": "compound nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.pl.opt-pres"
+    },
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvādaśa-aṃśakaḥ",
+     "gloss": "twelve-parts",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What expansion and length proportions are prescribed?",
+   "premises": [
+    "vistāre means in expansion",
+    "vasu-bhāgāḥ means eight parts",
+    "āyāme means in length"
+   ],
+   "inference": "In expansion there should be eight parts and in length twelve parts.",
+   "uncertainties": [
+    "unit of bhāga"
+   ],
+   "plain_english": "In expansion there should be eight parts, and in length twelve parts."
+  },
+  {
+   "verse": 3808,
+   "rows": [
+    {
+     "surface": "masūraka",
+     "gloss": "masūra-shaped",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ācchiraḥ-antaṃ",
+     "gloss": "up-to-head-end",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvyaśraṃ",
+     "gloss": "twice-angular",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circular",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    }
+   ],
+   "question": "What shape should be made up to the head end?",
+   "premises": [
+    "masūraka means masūra-shaped",
+    "ācchiraḥ-antaṃ means up to head end",
+    "dvyaśraṃ means twice-angular"
+   ],
+   "inference": "Up to the head end one should make a masūra-shaped twice-angular circular form.",
+   "uncertainties": [
+    "meaning of masūraka"
+   ],
+   "plain_english": "Up to the head end, one should make a masūra-shaped, twice-angular, circular form."
+  },
+  {
+   "verse": 3809,
+   "rows": [
+    {
+     "surface": "tad-adhaḥ",
+     "gloss": "below-that",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "quadrangular",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    },
+    {
+     "surface": "mūlataḥ",
+     "gloss": "from-base",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dvyaśra-vṛttake",
+     "gloss": "twice-angular-circular",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What shape should be below that from the base?",
+   "premises": [
+    "tad-adhaḥ means below that",
+    "caturaśraṃ means quadrangular",
+    "mūlataḥ means from base"
+   ],
+   "inference": "Below that, from the base, it should be quadrangular in the twice-angular circular context.",
+   "uncertainties": [
+    "exact spatial relation"
+   ],
+   "plain_english": "Below that, from the base, it should be quadrangular in the twice-angular circular setting."
+  },
+  {
+   "verse": 3810,
+   "rows": [
+    {
+     "surface": "kūṭa-koṣṭhaka",
+     "gloss": "cornered-chamber",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nīḍa",
+     "gloss": "nest",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃśa",
+     "gloss": "part",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vistāro",
+     "gloss": "expansion",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāgaḥ",
+     "gloss": "part",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-considered",
+     "grounds": "passive present",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "What expansion and part are considered for the kūṭa-koṣṭhaka nest?",
+   "premises": [
+    "kūṭa-koṣṭhaka names cornered chamber",
+    "nīḍa means nest",
+    "aṃśa means part"
+   ],
+   "inference": "The expansion and part of the kūṭa-koṣṭhaka nest are considered.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "The expansion and part of the cornered-chamber nest are considered."
+  },
+  {
+   "verse": 3811,
+   "rows": [
+    {
+     "surface": "ṣaḍ-bhāgāḥ",
+     "gloss": "six-parts",
+     "grounds": "compound nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.pl.opt-pres"
+    },
+    {
+     "surface": "tad-ūrdhve",
+     "gloss": "above-that",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhataḥ",
+     "gloss": "at-back",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive singular",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-sides",
+     "grounds": "locative dual",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "How many parts should be above that at back and sides?",
+   "premises": [
+    "ṣaḍ-bhāgāḥ means six parts",
+    "tad-ūrdhve means above that",
+    "pṛṣṭhataḥ means at back"
+   ],
+   "inference": "Six parts should be above that at back and on its sides.",
+   "uncertainties": [
+    "exact placement"
+   ],
+   "plain_english": "Six parts should be above that, indeed at its back and sides."
+  },
+  {
+   "verse": 3812,
+   "rows": [
+    {
+     "surface": "ūrdhva-bhaumaṃ",
+     "gloss": "upper-storey",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "catur-bhāgaṃ",
+     "gloss": "four-parts",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā-yukti-vaśāt",
+     "gloss": "according-to-suitability",
+     "grounds": "compound ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-direct",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    }
+   ],
+   "question": "How should the upper storey be directed by suitability?",
+   "premises": [
+    "ūrdhva-bhaumaṃ means upper storey",
+    "catur-bhāgaṃ means four parts",
+    "yathā-yukti-vaśāt means according to suitability"
+   ],
+   "inference": "The upper storey should be directed as four parts according to suitability.",
+   "uncertainties": [
+    "architectural operation of nayet"
+   ],
+   "plain_english": "The upper storey should be directed as four parts according to suitability."
+  },
+  {
+   "verse": 3813,
+   "rows": [
+    {
+     "surface": "garbha-kūṭa",
+     "gloss": "with-garbhakūṭa",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upasaṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "past participle",
+     "morph": "part.pass"
+    },
+    {
+     "surface": "kṣudra-nāsī",
+     "gloss": "with-small-noses",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "vibhūṣitam",
+     "gloss": "adorned",
+     "grounds": "past participle",
+     "morph": "part.pass"
+    }
+   ],
+   "question": "What is joined with garbhakūṭa and adorned with small noses?",
+   "premises": [
+    "garbha-kūṭa names garbhakūṭa",
+    "upasaṃyuktaṃ means joined",
+    "kṣudra-nāsī means with small noses"
+   ],
+   "inference": "The joined garbhakūṭa is adorned with small noses.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "Joined with garbhakūṭa, it is adorned with small noses."
+  },
+  {
+   "verse": 3814,
+   "rows": [
+    {
+     "surface": "śikhare",
+     "gloss": "on-the-peak",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dabhra-nāsyaḥ",
+     "gloss": "few-nosed",
+     "grounds": "compound nominative plural",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.pl.opt-pres"
+    },
+    {
+     "surface": "tisraḥ",
+     "gloss": "three",
+     "grounds": "feminine nominative plural",
+     "morph": "num.nom.pl.f"
+    },
+    {
+     "surface": "pāda-samanvitāḥ",
+     "gloss": "with-pedestals",
+     "grounds": "compound nominative plural",
+     "morph": "adj.nom.pl"
+    }
+   ],
+   "question": "How many few-nosed forms with pedestals should be on the peak?",
+   "premises": [
+    "śikhare means on the peak",
+    "dabhra-nāsyaḥ means few-nosed",
+    "tisraḥ means three"
+   ],
+   "inference": "Three few-nosed forms with pedestals should be on the peak.",
+   "uncertainties": [
+    "exact nāsya count"
+   ],
+   "plain_english": "On the peak there should be three few-nosed forms with pedestals."
+  },
+  {
+   "verse": 3815,
+   "rows": [
+    {
+     "surface": "harāyāṃ",
+     "gloss": "in-the-harā",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣudra-nīḍaṃ",
+     "gloss": "small-nest",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    },
+    {
+     "surface": "arka-dvi-guṇa-saṃkhyayā",
+     "gloss": "twice-the-number-of-arkas",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How many small nests should be in the harā by arka count?",
+   "premises": [
+    "harāyāṃ means in the harā",
+    "kṣudra-nīḍaṃ means small nest",
+    "arka-dvi-guṇa-saṃkhyayā means twice the number of arkas"
+   ],
+   "inference": "In the harā there should be a small nest twice the number of arkas.",
+   "uncertainties": [
+    "arka as unit"
+   ],
+   "plain_english": "In the harā there should be a small nest, twice the number of arkas."
+  },
+  {
+   "verse": 3816,
+   "rows": [
+    {
+     "surface": "vistārāḥ",
+     "gloss": "in-expansions",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aṣṭa-bhāgāḥ",
+     "gloss": "eight-parts",
+     "grounds": "compound nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.pl.opt-pres"
+    },
+    {
+     "surface": "āyāmaḥ",
+     "gloss": "length",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daśa-bhāgikaḥ",
+     "gloss": "ten-parts",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What expansion and length parts are prescribed here?",
+   "premises": [
+    "vistārāḥ means in expansions",
+    "aṣṭa-bhāgāḥ means eight parts",
+    "āyāmaḥ means length"
+   ],
+   "inference": "Expansions should be eight parts and length ten parts.",
+   "uncertainties": [
+    "plural expansion referent"
+   ],
+   "plain_english": "Expansions should be eight parts, and length ten parts."
+  },
+  {
+   "verse": 3817,
+   "rows": [
+    {
+     "surface": "hāra-bhāgaṃ",
+     "gloss": "garland-part",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-a-part",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ṣaḍ-aṃśam",
+     "gloss": "six-parts",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhva-bhūmike",
+     "gloss": "on-upper-storey",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What garland part and six parts apply on the upper storey?",
+   "premises": [
+    "hāra-bhāgaṃ means garland part",
+    "bhāgena means by a part",
+    "ṣaḍ-aṃśam means six parts"
+   ],
+   "inference": "On the upper storey, the garland part and six parts apply by a part.",
+   "uncertainties": [
+    "exact relation of parts"
+   ],
+   "plain_english": "On the upper storey, the garland part and six parts apply by a part."
+  },
+  {
+   "verse": 3818,
+   "rows": [
+    {
+     "surface": "sāyatam",
+     "gloss": "with-curve",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "dvyaśra-vṛttaṃ",
+     "gloss": "twice-angular-circular",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    },
+    {
+     "surface": "vedikā",
+     "gloss": "vedikā",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gala",
+     "gloss": "throat",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mastakam",
+     "gloss": "top",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What curved form should the vedikā throat top be?",
+   "premises": [
+    "sāyatam means with curve",
+    "dvyaśra-vṛttaṃ means twice-angular-circular",
+    "vedikā means vedikā"
+   ],
+   "inference": "The vedikā throat top should be with curve and twice-angular-circular.",
+   "uncertainties": [
+    "gala as neck/throat"
+   ],
+   "plain_english": "The vedikā throat top should be curved and twice-angular-circular."
+  },
+  {
+   "verse": 3819,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun nominative",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "hasti-ādikaṃ",
+     "gloss": "beginning-with-hasta",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "saudhaṃ",
+     "gloss": "mansion",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gaja-pṛṣṭhaṃ",
+     "gloss": "elephant-back",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "purātanam",
+     "gloss": "ancient",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What ancient mansion beginning with hasta is called elephant-back?",
+   "premises": [
+    "etat means this",
+    "hasti-ādikaṃ means beginning with hasta",
+    "saudhaṃ means mansion"
+   ],
+   "inference": "This mansion beginning with hasta is the ancient elephant-back.",
+   "uncertainties": [
+    "hasti-ādikaṃ reference"
+   ],
+   "plain_english": "This mansion beginning with hasta is the ancient elephant-back."
+  },
+  {
+   "verse": 3820,
+   "rows": [
+    {
+     "surface": "bhāgataḥ",
+     "gloss": "by-parts",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛha-piṇḍī",
+     "gloss": "house-piṇḍī",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    },
+    {
+     "surface": "kandharaṃ",
+     "gloss": "neck",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā-aṃśataḥ",
+     "gloss": "by-parts",
+     "grounds": "compound ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative present",
+     "morph": "v.3.sg.opt-pres"
+    }
+   ],
+   "question": "How should the house-piṇḍī neck be by parts?",
+   "premises": [
+    "bhāgataḥ means by parts",
+    "gṛha-piṇḍī means house-piṇḍī",
+    "kandharaṃ means neck"
+   ],
+   "inference": "The house-piṇḍī neck should be by parts and becomes by parts.",
+   "uncertainties": [
+    "piṇḍī sense"
+   ],
+   "plain_english": "The house-piṇḍī neck should be by parts and becomes by parts."
+  },
+  {
+   "verse": 3821,
+   "rows": [
+    {
+     "surface": "tri-bhāgaḥ",
+     "gloss": "three-parts",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "koṣṭha-āyāmaḥ",
+     "gloss": "chamber-length",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhataḥ",
+     "gloss": "with-half",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīḍa-vistaraḥ",
+     "gloss": "nest-expansion",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What relation holds between chamber length and nest expansion?",
+   "premises": [
+    "tri-bhāgaḥ means three parts",
+    "koṣṭha-āyāmaḥ means chamber length",
+    "nīḍa-vistaraḥ means nest expansion"
+   ],
+   "inference": "Chamber length is three parts with half nest expansion.",
+   "uncertainties": [
+    "exact ratio"
+   ],
+   "plain_english": "Chamber length is three parts with half nest expansion."
+  },
+  {
+   "verse": 3822,
+   "rows": [
+    {
+     "surface": "ūrdhva-kṣme",
+     "gloss": "on-upper-storey",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍ-aṃśa-aṃśaṃ",
+     "gloss": "six-part-fraction",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "kūṭa",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat-dvi-guṇa-āyatam",
+     "gloss": "twice-that",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What kūṭa fraction and doubled extent apply on the upper storey?",
+   "premises": [
+    "ūrdhva-kṣme means on upper storey",
+    "ṣaḍ-aṃśa-aṃśaṃ means six-part fraction",
+    "tat-dvi-guṇa-āyatam means twice that"
+   ],
+   "inference": "On the upper storey, the kūṭa is a six-part fraction and twice that in extent.",
+   "uncertainties": [
+    "fraction meaning"
+   ],
+   "plain_english": "On the upper storey, the kūṭa is a six-part fraction and twice that in extent."
+  },
+  {
+   "verse": 3823,
+   "rows": [
+    {
+     "surface": "ūrdhva-bhūmau",
+     "gloss": "on-upper-storey",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tri-bhāgena",
+     "gloss": "by-three-parts",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍena",
+     "gloss": "by-daṇḍa",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "nirgataḥ",
+     "gloss": "projecting",
+     "grounds": "past participle",
+     "morph": "part.pass"
+    }
+   ],
+   "question": "What projects in the middle of the upper storey by three parts?",
+   "premises": [
+    "ūrdhva-bhūmau means on upper storey",
+    "tri-bhāgena means by three parts",
+    "madhye means in middle"
+   ],
+   "inference": "In the middle of the upper storey, it projects by three parts by daṇḍa.",
+   "uncertainties": [
+    "daṇḍa measure"
+   ],
+   "plain_english": "In the middle of the upper storey, it projects by three parts by daṇḍa."
+  },
+  {
+   "verse": 3824,
+   "rows": [
+    {
+     "surface": "aṣṭa-aśraḥ",
+     "gloss": "eight-angled",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ūrdhva-bhūmau",
+     "gloss": "on-upper-storey",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sauṣṭhikānāṃ",
+     "gloss": "of-sauṣṭhika",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mastakam",
+     "gloss": "top",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What eight-angled top belongs to the sauṣṭhika on the upper storey?",
+   "premises": [
+    "aṣṭa-aśraḥ means eight-angled",
+    "ūrdhva-bhūmau means on upper storey",
+    "sauṣṭhikānāṃ means of sauṣṭhika"
+   ],
+   "inference": "On the upper storey, the sauṣṭhika top is eight-angled.",
+   "uncertainties": [
+    "sauṣṭhika class"
+   ],
+   "plain_english": "On the upper storey, the sauṣṭhika top is eight-angled."
+  }
+ ]
+}
