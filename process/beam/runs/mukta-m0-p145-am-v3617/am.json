@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p145",
  "verse": 3617,
- "question": "What further fruits and weapon does the lord carry in his hands?",
+ "question": "Which garments or ritual items are listed as relevant in this context?",
  "premises": [
-  "The lord holds a citron and bears a mango bud.",
-  "The lord possesses an axe."
+  "A turban is mentioned.",
+  "An upper garment or other garment is mentioned.",
+  "A sacrificial thread is mentioned."
  ],
- "inference": "The lord carries both vegetal symbols and a cutting weapon.",
- "uncertainties": [],
- "plain_english": "He holds a citron, bears a mango bud, and carries an axe."
+ "inference": "The turban, upper garment or garment, and sacrificial thread are the items named.",
+ "uncertainties": [
+  "The syntactic role is elliptical; the list likely specifies affected or prescribed items."
+ ],
+ "plain_english": "A turban, an upper garment or other garment, and the sacrificial thread are mentioned."
 }

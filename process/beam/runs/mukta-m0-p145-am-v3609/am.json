@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p145",
  "verse": 3609,
- "question": "In what ways do serpents function as the lord's ritual ornaments?",
+ "question": "What rites are prescribed if the incident occurs outside the inner hall?",
  "premises": [
-  "The lord wears serpents as necklace and waist cord.",
-  "The lord wears a serpent as the sacred thread."
+  "The incident occurs outside the inner hall.",
+  "Ritual bathing is appropriate.",
+  "Directional offerings are appropriate."
  ],
- "inference": "Serpents serve as the lord's principal bodily and ritual adornments.",
- "uncertainties": [],
- "plain_english": "He wears serpents as his necklace and waist cord, and a serpent as his sacred thread."
+ "inference": "If the incident is outside the inner hall, bathing and directional offerings are prescribed.",
+ "uncertainties": [
+  "The verb is implied from context; the verse states the required rites."
+ ],
+ "plain_english": "If it occurs outside the inner hall, bathing and directional offerings should be performed."
 }

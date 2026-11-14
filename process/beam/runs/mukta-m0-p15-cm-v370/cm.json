@@ -3,34 +3,39 @@
  "verse": 370,
  "rows": [
   {
-   "lemma": "tāmasī",
-   "morph": "nom.sg.f. tāmasī",
-   "grounds": "adjective"
+   "lemma": "dravyeṣu",
+   "morph": "n.loc.pl",
+   "grounds": "domain of variation"
   },
   {
-   "lemma": "bhaktiḥ",
-   "morph": "nom.sg.f. bhakti",
-   "grounds": "nominative subject"
+   "lemma": "bhedāḥ",
+   "morph": "m.nom.sg",
+   "grounds": "negated distinction"
   },
   {
-   "lemma": "adhamā",
-   "morph": "nom.sg.f. adhamā",
-   "grounds": "predicate adjective"
-  },
-  {
-   "lemma": "tridhā",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "bhaktiḥ",
-   "morph": "nom.sg.f. bhakti",
-   "grounds": "nominative subject"
+   "lemma": "asti",
+   "morph": "3.sg.pres.act (√as)",
+   "grounds": "predicate of existence"
   },
   {
-   "lemma": "maheśvara",
-   "morph": "voc.sg.m. maheśvara",
-   "grounds": "vocative address"
+   "lemma": "atra",
+   "morph": "(indecl.)",
+   "grounds": "locative context"
+  },
+  {
+   "lemma": "devatā+bhedaḥ",
+   "morph": "compound: devatā+bheda (m.nom.sg)",
+   "grounds": "distinction that is intended"
+  },
+  {
+   "lemma": "iṣyate",
+   "morph": "3.sg.pres.pass (√iṣ)",
+   "grounds": "doctrinal assertion"
   }
  ]
 }

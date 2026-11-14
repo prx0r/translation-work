@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p149",
  "verse": 3717,
- "question": "What base and shape alternatives are allowed?",
+ "question": "What duration and intensity of peace rite are required when something has fallen down?",
  "premises": [
-  "square or sixteen-cornered form is allowed",
-  "round form is allowed"
+  "A peace rite must be performed.",
+  "The rite lasts for seven days.",
+  "A great peace rite is required when there is a fall."
  ],
- "inference": "The form may be square, sixteen-cornered, or round with base.",
+ "inference": "When something has fallen, a great peace rite must be performed for seven days.",
  "uncertainties": [
-  "exact base dimensions unclear"
+  "The specific object that has fallen is not stated explicitly."
  ],
- "plain_english": "The form may be square, sixteen-cornered, or round with base."
+ "plain_english": "When it has fallen, a peace rite must be performed for seven days, and a great peace rite is required."
 }
