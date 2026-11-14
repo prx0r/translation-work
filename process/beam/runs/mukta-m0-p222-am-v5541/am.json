@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p222",
  "verse": 5541,
- "question": "What shapes may the ritual expert arrange for the fire pits?",
+ "question": "What mental act involving a named heap is required in the ritual?",
  "premises": [
-  "The ritual expert is the agent of arrangement.",
-  "Square pits are one possible form.",
-  "Circular pits are an alternative form."
+  "A heap is the object of contemplation.",
+  "The act is performed mentally.",
+  "The heap is identified by a specific name."
  ],
- "inference": "The ritual expert may arrange the fire pits as square or circular.",
- "uncertainties": [],
- "plain_english": "The ritual expert should arrange them as square or as circular."
+ "inference": "One must mentally visualize a heap identified by a particular name.",
+ "uncertainties": [
+  "The referent of 'ayaṃnāma' depends on ritual context."
+ ],
+ "plain_english": "Having mentally visualized a heap of this name."
 }

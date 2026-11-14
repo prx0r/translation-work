@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p226",
+ "items": [
+  {
+   "verse": 5650,
+   "rows": [
+    {
+     "surface": "smṛtiḥ",
+     "gloss": "tradition",
+     "grounds": "subject named alongside other topics requested for hearing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "course",
+     "grounds": "refers to the course or history, here of kings",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nṛpāṇām",
+     "gloss": "of-kings",
+     "grounds": "possessor of the course or history mentioned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed subjects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "purāṇāni",
+     "gloss": "ancient-narratives",
+     "grounds": "refers to the Purāṇas as a body of traditional texts",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "viśa",
+     "gloss": "O-Viśa",
+     "grounds": "vocative address to the interlocutor",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds these subjects in the same manner as previously requested",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional subjects concerning tradition, royal histories, and ancient narratives are requested for instruction?",
+   "premises": [
+    "The speaker continues a request to hear about specific subjects.",
+    "Tradition and the course of kings are named as topics.",
+    "The ancient narratives are included as an additional subject."
+   ],
+   "inference": "The requested instruction extends to tradition, the histories of kings, and the Purāṇas.",
+   "uncertainties": [
+    "The identity of the addressee Viśa is not specified in this verse.",
+    "The exact sense of gatiḥ as course, conduct, or destiny depends on context."
+   ],
+   "plain_english": "O Viśa, I wish to hear about tradition, the course of kings, and the Purāṇas as well."
+  }
+ ]
+}
