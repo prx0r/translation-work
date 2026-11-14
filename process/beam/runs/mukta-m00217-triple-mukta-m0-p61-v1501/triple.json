@@ -1,0 +1,847 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1501,
+   "rows": [
+    {
+     "surface": "bālārkavasanā",
+     "gloss": "young-sun-clothed",
+     "grounds": "bahuvrīhi compound describing attire like the rising sun",
+     "morph": "compound=bāla-arka-vasana+f.nom.sg"
+    },
+    {
+     "surface": "nīlakarṇacumbivilocanā",
+     "gloss": "blue-ear-kissing-eyed",
+     "grounds": "bahuvrīhi compound describing eyes reaching or touching blue ears",
+     "morph": "compound=nīla-karṇa-cumbi-vilocana+f.nom.sg"
+    }
+   ],
+   "question": "What visual attributes characterize the goddess introduced in this description?",
+   "premises": [
+    "The goddess is clothed like the young sun.",
+    "Her eyes are described as touching her blue ears."
+   ],
+   "inference": "The goddess is identified by radiant red attire and distinctive wide eyes.",
+   "uncertainties": [],
+   "plain_english": "She is clothed like the young sun and has eyes that reach her blue ears."
+  },
+  {
+   "verse": 1502,
+   "rows": [
+    {
+     "surface": "dakṣakoṇasthitā",
+     "gloss": "south-corner-situated",
+     "grounds": "compound indicating location in the southern corner",
+     "morph": "compound=dakṣa-koṇa-sthita+f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṇuśaktiriyaṃ",
+     "gloss": "viṣṇu-power-this",
+     "grounds": "compound identifying the goddess as this power of Viṣṇu",
+     "morph": "compound=viṣṇu-śakti+f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle expressing traditional identification",
+     "morph": "f.nom.sg (past participle, man-)"
+    }
+   ],
+   "question": "Which divine identity and location are assigned to this goddess?",
+   "premises": [
+    "The goddess is situated in the southern corner.",
+    "She is considered the power of Viṣṇu."
+   ],
+   "inference": "The deity in the southern corner is identified as Viṣṇuśakti.",
+   "uncertainties": [],
+   "plain_english": "This goddess, situated in the southern corner, is considered the power of Viṣṇu."
+  },
+  {
+   "verse": 1503,
+   "rows": [
+    {
+     "surface": "anargharatnaghaṭitabhūṣaṇā",
+     "gloss": "priceless-gem-set-ornaments",
+     "grounds": "bahuvrīhi compound describing ornaments set with priceless gems",
+     "morph": "compound=anargha-ratna-ghaṭita-bhūṣaṇa+f.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "world-lady",
+     "grounds": "name or epithet of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What adornment and epithet define the goddess Bhuvaneśvarī here?",
+   "premises": [
+    "The goddess wears ornaments set with priceless gems.",
+    "She is named Bhuvaneśvarī."
+   ],
+   "inference": "Bhuvaneśvarī is presented as richly adorned with priceless gems.",
+   "uncertainties": [],
+   "plain_english": "Bhuvaneśvarī is adorned with ornaments set with priceless gems."
+  },
+  {
+   "verse": 1504,
+   "rows": [
+    {
+     "surface": "brahmaśakti",
+     "gloss": "brahma-power",
+     "grounds": "compound identifying the goddess as the power of Brahmā",
+     "morph": "compound=brahma-śakti+f.nom.sg"
+    },
+    {
+     "surface": "maheśānī",
+     "gloss": "great-lady",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāpatrayanikṛntanī",
+     "gloss": "three-affliction-cutter",
+     "grounds": "compound describing her as remover of the three afflictions",
+     "morph": "compound=tāpa-traya-nikṛntana+f.nom.sg"
+    }
+   ],
+   "question": "What identity and salvific function are attributed to Maheśānī?",
+   "premises": [
+    "She is identified as the power of Brahmā.",
+    "She is called the cutter of the three afflictions."
+   ],
+   "inference": "Maheśānī, as Brahmaśakti, removes the three kinds of suffering.",
+   "uncertainties": [],
+   "plain_english": "Maheśānī, the power of Brahmā, cuts away the three afflictions."
+  },
+  {
+   "verse": 1505,
+   "rows": [
+    {
+     "surface": "cakreśīṃ",
+     "gloss": "circle-lady",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tripurāmbāṃ",
+     "gloss": "tripurā-mother",
+     "grounds": "appositional epithet of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmeśīpurato",
+     "gloss": "before-kāmeśī",
+     "grounds": "compound indicating position in front of Kāmeśī",
+     "morph": "compound=kāmeśī-puratas+(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive or optative prescribing ritual action",
+     "morph": "3.sg.optative-active (yaj-)"
+    }
+   ],
+   "question": "Where and whom should the practitioner worship in this ritual instruction?",
+   "premises": [
+    "The instruction prescribes worship.",
+    "The objects are Cakreśī and Tripurāmbā.",
+    "The location is in front of Kāmeśī."
+   ],
+   "inference": "The practitioner should worship Cakreśī, who is Tripurāmbā, in front of Kāmeśī.",
+   "uncertainties": [],
+   "plain_english": "One should worship Cakreśī, the Mother Tripurā, in front of Kāmeśī."
+  },
+  {
+   "verse": 1506,
+   "rows": [
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to the preceding goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "atirahasyākhyā",
+     "gloss": "supreme-secret-called",
+     "grounds": "bahuvrīhi compound giving their designation",
+     "morph": "compound=atirahasya-ākhyā+f.nom.pl"
+    },
+    {
+     "surface": "yoginya",
+     "gloss": "yoginīs",
+     "grounds": "subject identified by the designation",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverbial compound indicating continuity with prior procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the preceding goddesses collectively designated in this sequence?",
+   "premises": [
+    "The demonstrative refers to the previously mentioned goddesses.",
+    "They are called the Atirahasya yoginīs.",
+    "The procedure follows the earlier pattern."
+   ],
+   "inference": "These goddesses are designated as the Atirahasya yoginīs, as before.",
+   "uncertainties": [],
+   "plain_english": "These are called the Atirahasya yoginīs, as before."
+  },
+  {
+   "verse": 1507,
+   "rows": [
+    {
+     "surface": "binducakre",
+     "gloss": "in-bindu-circle",
+     "grounds": "locative compound indicating the ritual locus",
+     "morph": "compound=bindu-cakra+n.loc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address to the goddess or listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvānandamayābhidhe",
+     "gloss": "all-bliss-named",
+     "grounds": "bahuvrīhi compound naming the bindu circle",
+     "morph": "compound=sarva-ānanda-maya-abhidha+n.loc.sg"
+    }
+   ],
+   "question": "What name is given to the bindu circle addressed to Maheśānī?",
+   "premises": [
+    "The locus specified is the bindu circle.",
+    "The circle is named Sarvānandamaya."
+   ],
+   "inference": "In the bindu circle, called Sarvānandamaya, the following deities are situated.",
+   "uncertainties": [],
+   "plain_english": "O Maheśānī, in the bindu circle called Sarvānandamaya..."
+  },
+  {
+   "verse": 1508,
+   "rows": [
+    {
+     "surface": "kūṭatrayakrameṇaiva",
+     "gloss": "by-three-section-order-alone",
+     "grounds": "instrumental compound with emphatic particle indicating sequence of three sections",
+     "morph": "compound=kūṭa-traya-krama+m.ins.sg+(indecl.)"
+    },
+    {
+     "surface": "ratiḥ",
+     "gloss": "rati",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pratirmanobhavā",
+     "gloss": "prati-manobhava",
+     "grounds": "compound naming another deity in the sequence",
+     "morph": "compound=prati-manobhava+f.nom.sg"
+    }
+   ],
+   "question": "Which deities are placed in the bindu circle according to the three-section order?",
+   "premises": [
+    "The arrangement follows the order of the three sections.",
+    "Rati is named in this sequence.",
+    "Pratir Manobhavā is named in this sequence."
+   ],
+   "inference": "Rati and Pratir Manobhavā are placed according to the three-section order.",
+   "uncertainties": [
+    "The exact mapping of each deity to each kūṭa is not fully explicit here."
+   ],
+   "plain_english": "By the order of the three sections alone, there are Rati and Pratir Manobhavā."
+  },
+  {
+   "verse": 1509,
+   "rows": [
+    {
+     "surface": "sarvamantreśvarī",
+     "gloss": "all-mantra-lady",
+     "grounds": "compound naming a sovereign goddess of all mantras",
+     "morph": "compound=sarva-mantra-īśvarī+f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjoined emphatic particles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvacakreśvarī",
+     "gloss": "all-circle-lady",
+     "grounds": "compound naming a sovereign goddess of all circles",
+     "morph": "compound=sarva-cakra-īśvarī+f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sovereign goddess powers are enumerated in this part of the bindu circle?",
+   "premises": [
+    "Sarvamantreśvarī is named.",
+    "Sarvacakreśvarī is named.",
+    "The list continues likewise."
+   ],
+   "inference": "The enumeration includes the sovereign ladies of all mantras and all circles.",
+   "uncertainties": [],
+   "plain_english": "There are Sarvamantreśvarī and likewise Sarvacakreśvarī."
+  },
+  {
+   "verse": 1510,
+   "rows": [
+    {
+     "surface": "sarvabhogeśvarī",
+     "gloss": "all-enjoyment-lady",
+     "grounds": "compound naming a sovereign goddess of all enjoyments",
+     "morph": "compound=sarva-bhoga-īśvarī+f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjoined emphatic particles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvavīreśvarī",
+     "gloss": "all-hero-lady",
+     "grounds": "compound naming a sovereign goddess of all heroes",
+     "morph": "compound=sarva-vīra-īśvarī+f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional sovereign goddess powers continue the bindu circle enumeration?",
+   "premises": [
+    "Sarvabhogeśvarī is named.",
+    "Sarvavīreśvarī is named.",
+    "The enumeration proceeds likewise."
+   ],
+   "inference": "The list continues with the sovereign ladies of all enjoyments and all heroes.",
+   "uncertainties": [],
+   "plain_english": "There are Sarvabhogeśvarī and likewise Sarvavīreśvarī."
+  },
+  {
+   "verse": 1511,
+   "rows": [
+    {
+     "surface": "sarvavidyeśvarī",
+     "gloss": "all-knowledge-lady",
+     "grounds": "compound naming a sovereign goddess of all knowledge",
+     "morph": "compound=sarva-vidyā-īśvarī+f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjoined emphatic particles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasiddheśvarī",
+     "gloss": "all-accomplishment-lady",
+     "grounds": "compound naming a sovereign goddess of all accomplishments",
+     "morph": "compound=sarva-siddhi-īśvarī+f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further sovereign goddess powers are included in this enumeration?",
+   "premises": [
+    "Sarvavidyeśvarī is named.",
+    "Sarvasiddheśvarī is named.",
+    "The list continues likewise."
+   ],
+   "inference": "The enumeration includes the sovereign ladies of all knowledge and all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "There are Sarvavidyeśvarī and likewise Sarvasiddheśvarī."
+  },
+  {
+   "verse": 1512,
+   "rows": [
+    {
+     "surface": "--------------------",
+     "gloss": "lacuna-marker",
+     "grounds": "editorial marker indicating missing or omitted text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "sarvacakreśvarī",
+     "gloss": "all-circle-lady",
+     "grounds": "compound naming a sovereign goddess of all circles",
+     "morph": "compound=sarva-cakra-īśvarī+f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What textual condition and deity name appear in this incomplete enumeration line?",
+   "premises": [
+    "An editorial lacuna marker is present.",
+    "Sarvacakreśvarī is named after the marker.",
+    "The list continues likewise."
+   ],
+   "inference": "The line contains a gap but still includes Sarvacakreśvarī in the sequence.",
+   "uncertainties": [
+    "The content missing at the lacuna marker is unknown."
+   ],
+   "plain_english": "After a gap in the text, Sarvacakreśvarī is named likewise."
+  },
+  {
+   "verse": 1513,
+   "rows": [
+    {
+     "surface": "parāpararahasyākhyā",
+     "gloss": "higher-lower-secret-called",
+     "grounds": "bahuvrīhi compound giving the collective designation",
+     "morph": "compound=parāpara-rahasya-ākhyā+f.nom.pl"
+    },
+    {
+     "surface": "yoginya",
+     "gloss": "yoginīs",
+     "grounds": "subject identified by the designation",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvakāḥ",
+     "gloss": "former",
+     "grounds": "adjective indicating these are the earlier ones in sequence",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What collective designation applies to the former yoginīs in this sequence?",
+   "premises": [
+    "The yoginīs are described as former in the sequence.",
+    "They are called Parāpararahasya."
+   ],
+   "inference": "The former yoginīs are collectively designated as Parāpararahasya yoginīs.",
+   "uncertainties": [],
+   "plain_english": "These former ones are called the Parāpararahasya yoginīs."
+  },
+  {
+   "verse": 1514,
+   "rows": [
+    {
+     "surface": "pāśāṃkuśadharāḥ",
+     "gloss": "noose-goad-holding",
+     "grounds": "bahuvrīhi compound describing the deities holding noose and goad",
+     "morph": "compound=pāśa-aṅkuśa-dhara+f.nom.pl"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "quantifier applying to the deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jñānamudrābhaye",
+     "gloss": "knowledge-gesture-fearlessness",
+     "grounds": "dvandva compound indicating the gestures of knowledge and fearlessness",
+     "morph": "compound=jñāna-mudrā-abhaya+n.acc.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating additional attributes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual attributes are held by all the deities in this visualization?",
+   "premises": [
+    "All the deities hold a noose and goad.",
+    "They also display the gesture of knowledge and fearlessness."
+   ],
+   "inference": "Every deity in this group bears noose, goad, knowledge gesture, and fearlessness gesture.",
+   "uncertainties": [],
+   "plain_english": "All of them hold a noose and goad, and likewise display the gesture of knowledge and fearlessness."
+  },
+  {
+   "verse": 1515,
+   "rows": [
+    {
+     "surface": "śrīvidyābhimukhāḥ",
+     "gloss": "toward-śrīvidyā-facing",
+     "grounds": "bahuvrīhi compound indicating orientation toward Śrīvidyā",
+     "morph": "compound=śrīvidyā-abhimukha+f.nom.pl"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "quantifier applying to the deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "object of meditation",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "paricintayet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative prescribing contemplative visualization",
+     "morph": "3.sg.optative-active (pari-cint-)"
+    }
+   ],
+   "question": "How should the practitioner visualize all the deities in relation to Śrīvidyā?",
+   "premises": [
+    "The instruction prescribes meditation.",
+    "All deities are to be visualized.",
+    "They are oriented facing Śrīvidyā."
+   ],
+   "inference": "The practitioner should meditate on all the deities as facing Śrīvidyā.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on all the deities as facing Śrīvidyā."
+  },
+  {
+   "verse": 1516,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "particle introducing an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raśmayaḥ",
+     "gloss": "rays",
+     "grounds": "subject of the alternative visualization",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "quantifier applying to the rays",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devīrūpeṇa",
+     "gloss": "in-goddess-form",
+     "grounds": "instrumental compound indicating the form of visualization",
+     "morph": "compound=devī-rūpa+n.ins.sg"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative prescribing contemplative visualization",
+     "morph": "3.sg.optative-active (cint-)"
+    }
+   ],
+   "question": "What alternative visualization is offered for all the rays?",
+   "premises": [
+    "An alternative practice is introduced.",
+    "All rays are the object of meditation.",
+    "They may be visualized in the form of the goddess."
+   ],
+   "inference": "Alternatively, one may meditate on all the rays as having the form of the goddess.",
+   "uncertainties": [],
+   "plain_english": "Or one should meditate on all the rays in the form of the goddess."
+  },
+  {
+   "verse": 1517,
+   "rows": [
+    {
+     "surface": "cakreśīṃ",
+     "gloss": "circle-lady",
+     "grounds": "object of worship or meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ratipūrve",
+     "gloss": "before-rati",
+     "grounds": "locative compound indicating position before Rati",
+     "morph": "compound=rati-pūrva+n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahātripurabhairavīm",
+     "gloss": "mahātripurabhairavī",
+     "grounds": "name or epithet of the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which specific goddess is identified as Cakreśī in the position before Rati?",
+   "premises": [
+    "Cakreśī is the object specified.",
+    "Her position is before Rati.",
+    "She is identified as Mahātripurabhairavī."
+   ],
+   "inference": "The Cakreśī located before Rati is Mahātripurabhairavī.",
+   "uncertainties": [],
+   "plain_english": "But the Cakreśī before Rati is Mahātripurabhairavī."
+  },
+  {
+   "verse": 1518,
+   "rows": [
+    {
+     "surface": "parāpararahasyākhyā",
+     "gloss": "higher-lower-secret-called",
+     "grounds": "bahuvrīhi compound referring to the named group",
+     "morph": "compound=parāpara-rahasya-ākhyā+f.nom.sg"
+    },
+    {
+     "surface": "yoginītyādinā",
+     "gloss": "by-yoginī-and-so-on",
+     "grounds": "instrumental compound indicating the formula beginning with yoginī",
+     "morph": "compound=yoginī-ity-ādi+m.ins.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the Parāpararahasya group invoked in address to the beloved?",
+   "premises": [
+    "The group is called Parāpararahasya.",
+    "It is referred to by the formula beginning with yoginī and so on.",
+    "The speaker addresses the beloved."
+   ],
+   "inference": "The Parāpararahasya group is invoked using the yoginī formula, addressed to the beloved.",
+   "uncertainties": [
+    "The full formula abbreviated by 'ityādinā' is not spelled out here."
+   ],
+   "plain_english": "O beloved, this is the Parāpararahasya group, invoked by the formula beginning with 'yoginī' and so on."
+  },
+  {
+   "verse": 1519,
+   "rows": [
+    {
+     "surface": "daśamaḥ",
+     "gloss": "tenth",
+     "grounds": "ordinal adjective marking sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvāsaḥ",
+     "gloss": "breath",
+     "grounds": "noun indicating a section or chapter division",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What structural division of the text is marked at this point?",
+   "premises": [
+    "The ordinal tenth is stated.",
+    "The term śvāsa indicates a textual section."
+   ],
+   "inference": "This point marks the tenth śvāsa or section.",
+   "uncertainties": [],
+   "plain_english": "This is the tenth breath or section."
+  },
+  {
+   "verse": 1520,
+   "rows": [
+    {
+     "surface": "ṣoḍaśairupacāraistu",
+     "gloss": "with-sixteen-services",
+     "grounds": "instrumental compound with particle indicating the means of worship",
+     "morph": "compound=ṣoḍaśa-upacāra+m.ins.pl+(indecl.)"
+    },
+    {
+     "surface": "sāṅgaṃ",
+     "gloss": "with-limbs",
+     "grounds": "bahuvrīhi compound indicating inclusion of subsidiary parts",
+     "morph": "compound=sa-aṅga+m.acc.sg"
+    },
+    {
+     "surface": "sāvaraṇaṃ",
+     "gloss": "with-enclosures",
+     "grounds": "bahuvrīhi compound indicating inclusion of surrounding enclosures",
+     "morph": "compound=sa-āvaraṇa+m.acc.sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "śiva",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should Śiva be worshipped with respect to services and attendant structure?",
+   "premises": [
+    "Worship uses sixteen services.",
+    "Śiva is worshipped together with limbs.",
+    "Śiva is worshipped together with enclosures."
+   ],
+   "inference": "Śiva should be worshipped with sixteen services, along with his limbs and enclosures.",
+   "uncertainties": [],
+   "plain_english": "One should worship Śiva, with his limbs and enclosures, using the sixteen services."
+  },
+  {
+   "verse": 1521,
+   "rows": [
+    {
+     "surface": "mahāṣoḍhotitāśeṣaparivārāṃśca",
+     "gloss": "by-mahāṣoḍha-arisen-entire-retinue-and",
+     "grounds": "compound describing the entire retinue arisen through mahāṣoḍha, with connective particle",
+     "morph": "compound=mahāṣoḍha-utthita-aśeṣa-parivāra+m.acc.pl+(indecl.)"
+    },
+    {
+     "surface": "śāmbhavi",
+     "gloss": "o-śāmbhavī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whose retinue is included in the worship addressed to Śāmbhavī?",
+   "premises": [
+    "The entire retinue is included.",
+    "This retinue is described as arisen through mahāṣoḍha.",
+    "The instruction is addressed to Śāmbhavī."
+   ],
+   "inference": "The worship includes the entire retinue arisen through mahāṣoḍha, as addressed to Śāmbhavī.",
+   "uncertainties": [
+    "The precise technical meaning of mahāṣoḍha in this context is not fully specified."
+   ],
+   "plain_english": "O Śāmbhavī, one should also worship the entire retinue arisen through mahāṣoḍha."
+  },
+  {
+   "verse": 1522,
+   "rows": [
+    {
+     "surface": "parāprāsādamantreṇa",
+     "gloss": "by-parāprāsāda-mantra",
+     "grounds": "instrumental compound indicating the mantra used",
+     "morph": "compound=parā-prāsāda-mantra+m.ins.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "particle introducing an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "turīyāvidyayāthavā",
+     "gloss": "by-turīyāvidyā-or",
+     "grounds": "instrumental compound with alternative particle indicating another mantra option",
+     "morph": "compound=turīyā-vidyā+f.ins.sg+(indecl.)"
+    }
+   ],
+   "question": "Which mantra alternatives are permitted for performing this worship?",
+   "premises": [
+    "The parāprāsāda mantra may be used.",
+    "An alternative is offered.",
+    "The turīyāvidyā may be used instead."
+   ],
+   "inference": "The worship may be performed with either the parāprāsāda mantra or the turīyāvidyā.",
+   "uncertainties": [],
+   "plain_english": "One may do this with the parāprāsāda mantra, or alternatively with the turīyāvidyā."
+  },
+  {
+   "verse": 1523,
+   "rows": [
+    {
+     "surface": "gurupātrāmṛtenaivāthavā",
+     "gloss": "by-guru-vessel-nectar-alone-or",
+     "grounds": "instrumental compound with emphatic and alternative particles indicating an offering substance",
+     "morph": "compound=guru-pātra-amṛta+n.ins.sg+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "śrīpātrabindubhiḥ",
+     "gloss": "by-śrī-vessel-drops",
+     "grounds": "instrumental compound indicating drops from the sacred vessel",
+     "morph": "compound=śrī-pātra-bindu+m.ins.pl"
+    }
+   ],
+   "question": "What alternative ritual substances may be used for the offering?",
+   "premises": [
+    "The nectar in the guru's vessel may be used.",
+    "An alternative is offered.",
+    "Drops from the sacred vessel may be used."
+   ],
+   "inference": "The offering may be made with the nectar of the guru's vessel or with drops from the sacred vessel.",
+   "uncertainties": [],
+   "plain_english": "One may use the nectar from the guru's vessel, or alternatively drops from the sacred vessel."
+  },
+  {
+   "verse": 1524,
+   "rows": [
+    {
+     "surface": "paramādiśivaśrī",
+     "gloss": "paramādiśiva-śrī",
+     "grounds": "compound naming the revered Paramādiśiva",
+     "morph": "compound=parama-ādi-śiva-śrī+f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādukāṃ",
+     "gloss": "sandals",
+     "grounds": "object representing the deity's presence",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tarpayāmi",
+     "gloss": "i-satisfy",
+     "grounds": "first person verb expressing ritual oblation",
+     "morph": "1.sg.present-active (tarp-)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual act is performed for the revered Paramādiśiva in this formula?",
+   "premises": [
+    "The revered Paramādiśiva is invoked.",
+    "The sandals are the object of the rite.",
+    "The speaker declares an act of satisfaction."
+   ],
+   "inference": "The practitioner performs a satisfaction offering to the sandals of revered Paramādiśiva.",
+   "uncertainties": [
+    "The exact syntactic role of the repeated 'ca' particles is slightly ambiguous."
+   ],
+   "plain_english": "And I satisfy the sandals of revered Paramādiśiva."
+  }
+ ]
+}

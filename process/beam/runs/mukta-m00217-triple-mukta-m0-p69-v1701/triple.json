@@ -1,0 +1,961 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1701,
+   "rows": [
+    {
+     "surface": "āranālasthitaṃ",
+     "gloss": "sour-gruel-situated",
+     "grounds": "compound: āranāla+sthita; object placed in sour gruel",
+     "morph": "compound: āranāla+sthita (acc.sg.nt)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative injunction for ritual action",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "bhavedvidveṣaṇaṃ",
+     "gloss": "enmity-arises",
+     "grounds": "fused form: bhavet+vidveṣaṇam; result of the rite",
+     "morph": "compound/fused: bhavet (3.sg.act-optative √bhū)+vidveṣaṇam (nom.sg.nt)"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "indicates immediate effect",
+     "morph": "abl.sg.m (indecl. use)"
+    }
+   ],
+   "question": "What immediate hostile effect results from placing the ritual object in sour gruel?",
+   "premises": [
+    "A ritual object is placed in sour gruel.",
+    "The prescribed action is performed on it.",
+    "The effect manifests instantly."
+   ],
+   "inference": "Placing the object in sour gruel produces immediate enmity.",
+   "uncertainties": [],
+   "plain_english": "If one places it in sour gruel and performs the rite, enmity arises instantly."
+  },
+  {
+   "verse": 1702,
+   "rows": [
+    {
+     "surface": "saṃlikhya",
+     "gloss": "having-drawn",
+     "grounds": "gerund indicating prior act of inscribing",
+     "morph": "gerund √likh with sam"
+    },
+    {
+     "surface": "rocanādravyair",
+     "gloss": "with-rocanā-substances",
+     "grounds": "compound: rocanā+dravya; materials used for drawing",
+     "morph": "compound: rocanā+dravya (ins.pl.nt)"
+    },
+    {
+     "surface": "ākāśe",
+     "gloss": "in-sky",
+     "grounds": "location where the drawing is made visible",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "dṛṣṭigaṃ",
+     "gloss": "visible-to-sight",
+     "grounds": "compound: dṛṣṭi+ga; reaching the eye",
+     "morph": "compound: dṛṣṭi+ga (acc.sg.nt)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "so-that",
+     "grounds": "introduces manner or purpose of visibility",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the diagram be inscribed to become visible in the sky?",
+   "premises": [
+    "The diagram is drawn with rocanā substances.",
+    "The drawing is made in the sky.",
+    "It is made perceptible to sight."
+   ],
+   "inference": "Inscribing with rocanā substances in the sky renders the diagram visible.",
+   "uncertainties": [],
+   "plain_english": "Having drawn it with rocanā substances in the sky so that it becomes visible to the eye."
+  },
+  {
+   "verse": 1703,
+   "rows": [
+    {
+     "surface": "mahānīlīrasodbhinnarocanādugdhamiśritaiḥ",
+     "gloss": "great-indigo-juice-born-rocanā-milk-mixed",
+     "grounds": "long compound specifying mixed substances: mahānīlī-rasa-udbhinna, rocanā, dugdha",
+     "morph": "compound: mahānīlī+rasa+udbhinna+rocanā+dugdha+miśrita (ins.pl.nt/m)"
+    }
+   ],
+   "question": "Which mixture of substances is prescribed for preparing the ritual inscription?",
+   "premises": [
+    "The mixture includes juice of great indigo.",
+    "It includes rocanā and milk.",
+    "These substances are combined together."
+   ],
+   "inference": "The inscription is prepared with a mixture of great-indigo juice, rocanā, and milk.",
+   "uncertainties": [
+    "Exact botanical identity of mahānīlī is context-dependent."
+   ],
+   "plain_english": "With substances mixed from the juice of great indigo, rocanā, and milk."
+  },
+  {
+   "verse": 1704,
+   "rows": [
+    {
+     "surface": "anena+vidhinā",
+     "gloss": "by-this-method",
+     "grounds": "instrumental phrase referring to prescribed rite",
+     "morph": "compound/fused: anena (ins.sg.m/nt)+vidhinā (ins.sg.m)"
+    },
+    {
+     "surface": "nīre",
+     "gloss": "in-water",
+     "grounds": "location for placing the prepared object",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-optative caus. √sthā"
+    },
+    {
+     "surface": "tajjalena+tu",
+     "gloss": "but-with-that-water",
+     "grounds": "fused form: tat+jala+tu; specifies use of that water",
+     "morph": "compound/fused: tat+jala (ins.sg.nt)+tu (indecl.)"
+    }
+   ],
+   "question": "Where should the prepared object be placed and what water is then used?",
+   "premises": [
+    "The rite follows the stated method.",
+    "The object is placed in water.",
+    "The same water is used afterward."
+   ],
+   "inference": "By this method one places it in water and then uses that very water.",
+   "uncertainties": [],
+   "plain_english": "By this method one should place it in water, and then use that water."
+  },
+  {
+   "verse": 1705,
+   "rows": [
+    {
+     "surface": "pītaṃ+cakraṃ",
+     "gloss": "yellow-wheel",
+     "grounds": "compound/fused: pīta+cakra; object of worship",
+     "morph": "compound/fused: pīta (acc.sg.nt)+cakra (acc.sg.nt)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative ritual injunction",
+     "morph": "3.sg.act-optative √yaj"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "directional specification",
+     "morph": "loc.sg.m/nt"
+    },
+    {
+     "surface": "stambhayet+sarvavādinaḥ",
+     "gloss": "one-should-paralyze-all-speakers",
+     "grounds": "fused form: stambhayet+sarvavādinaḥ; intended effect",
+     "morph": "compound/fused: stambhayet (3.sg.act-optative caus. √stambh)+sarvavādinaḥ (acc.pl.m)"
+    }
+   ],
+   "question": "What ritual effect follows from worshipping a yellow wheel in the east?",
+   "premises": [
+    "A yellow wheel is worshipped.",
+    "The worship is performed facing east.",
+    "The rite aims to restrain speakers."
+   ],
+   "inference": "Worshipping a yellow wheel in the east paralyzes all speakers.",
+   "uncertainties": [],
+   "plain_english": "One should worship a yellow wheel in the east to paralyze all speakers."
+  },
+  {
+   "verse": 1706,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "directional specification",
+     "morph": "loc.sg.m/nt"
+    },
+    {
+     "surface": "pūjitaṃ+cakraṃ",
+     "gloss": "worshipped-wheel",
+     "grounds": "compound/fused: pūjita+cakra; object to be honored",
+     "morph": "compound/fused: pūjita (acc.sg.nt)+cakra (acc.sg.nt)"
+    },
+    {
+     "surface": "gairikālikhitaṃ",
+     "gloss": "red-ochre-drawn",
+     "grounds": "compound: gairikā+likhita; material of inscription",
+     "morph": "compound: gairikā+likhita (acc.sg.nt)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence in ritual procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of wheel is to be worshipped in the western direction?",
+   "premises": [
+    "The direction specified is west.",
+    "The wheel is drawn with red ochre.",
+    "The wheel is then worshipped."
+   ],
+   "inference": "In the west one worships a wheel drawn with red ochre.",
+   "uncertainties": [],
+   "plain_english": "Then, in the west, one should worship a wheel drawn with red ochre."
+  },
+  {
+   "verse": 1707,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "in-same-way",
+     "grounds": "indicates continuity with prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāsyaḥ+tu",
+     "gloss": "but-facing-south",
+     "grounds": "fused form: dakṣiṇa+āsya+tu; orientation of practitioner",
+     "morph": "compound/fused: dakṣiṇa+āsya (nom.sg.m)+tu (indecl.)"
+    },
+    {
+     "surface": "kṛṣṇaṃ+cakraṃ",
+     "gloss": "black-wheel",
+     "grounds": "compound/fused: kṛṣṇa+cakra; object of worship",
+     "morph": "compound/fused: kṛṣṇa (acc.sg.nt)+cakra (acc.sg.nt)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-optative √arc with sam"
+    }
+   ],
+   "question": "What wheel must be worshipped when the practitioner faces south?",
+   "premises": [
+    "The procedure continues in the same manner.",
+    "The practitioner faces south.",
+    "A black wheel is worshipped."
+   ],
+   "inference": "Facing south, one should worship a black wheel in the same manner.",
+   "uncertainties": [],
+   "plain_english": "Likewise, facing south, one should worship a black wheel."
+  },
+  {
+   "verse": 1708,
+   "rows": [
+    {
+     "surface": "kramād+digantarāsyaḥ",
+     "gloss": "gradually-facing-other-directions",
+     "grounds": "fused form: kramāt+digantara+āsya; sequential orientation",
+     "morph": "compound/fused: kramāt (abl.sg.m)+digantara+āsya (nom.sg.m)"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "present participle indicating state while acting",
+     "morph": "nom.sg.m present-participle √as"
+    },
+    {
+     "surface": "vahnikoṇādiṣu",
+     "gloss": "in-fire-corner-and-others",
+     "grounds": "compound: vahni+koṇa+ādi; intermediate directions",
+     "morph": "compound: vahni+koṇa+ādi (loc.pl.m/nt)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-sequence",
+     "grounds": "reiterates ordered progression",
+     "morph": "abl.sg.m (indecl. use)"
+    }
+   ],
+   "question": "How should the practitioner proceed through the intermediate directions in sequence?",
+   "premises": [
+    "The practitioner turns to other directions gradually.",
+    "The fire corner and others are included.",
+    "The actions follow a fixed sequence."
+   ],
+   "inference": "The practitioner should proceed sequentially through the intermediate directions.",
+   "uncertainties": [],
+   "plain_english": "Gradually facing the other directions, one proceeds in sequence through the fire corner and the rest."
+  },
+  {
+   "verse": 1709,
+   "rows": [
+    {
+     "surface": "dugdhe",
+     "gloss": "in-milk",
+     "grounds": "medium into which the object is cast",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "vaśyakaraṃ",
+     "gloss": "subjugation-causing",
+     "grounds": "compound: vaśya+kara; describes the effect",
+     "morph": "compound: vaśya+kara (acc.sg.nt)"
+    },
+    {
+     "surface": "kṣiptaṃ",
+     "gloss": "thrown",
+     "grounds": "past participle indicating placement",
+     "morph": "acc.sg.nt past-participle √kṣip"
+    },
+    {
+     "surface": "rocanālikhitaṃ",
+     "gloss": "rocanā-drawn",
+     "grounds": "compound: rocanā+likhita; inscription material",
+     "morph": "compound: rocanā+likhita (acc.sg.nt)"
+    },
+    {
+     "surface": "haṭhāt",
+     "gloss": "forcibly",
+     "grounds": "indicates compelling effect",
+     "morph": "abl.sg.m (indecl. use)"
+    }
+   ],
+   "question": "What subjugating effect is produced by casting a rocanā-drawn object into milk?",
+   "premises": [
+    "An object drawn with rocanā is used.",
+    "It is thrown into milk.",
+    "The act causes subjugation forcibly."
+   ],
+   "inference": "Casting a rocanā-drawn object into milk produces forcible subjugation.",
+   "uncertainties": [],
+   "plain_english": "Thrown into milk, what is drawn with rocanā forcibly brings others under control."
+  },
+  {
+   "verse": 1710,
+   "rows": [
+    {
+     "surface": "gomūtramadhyagaṃ",
+     "gloss": "placed-in-cow-urine",
+     "grounds": "compound: gomūtra+madhya+ga; location of object",
+     "morph": "compound: gomūtra+madhya+ga (nom/acc.sg.nt)"
+    },
+    {
+     "surface": "caitad",
+     "gloss": "and-this",
+     "grounds": "fused form: ca+etat; refers to the same object",
+     "morph": "compound/fused: ca (indecl.)+etat (nom/acc.sg.nt)"
+    },
+    {
+     "surface": "bhaved+uccāṭanaṃ",
+     "gloss": "becomes-uprooting",
+     "grounds": "fused form: bhavet+uccāṭanam; resulting effect",
+     "morph": "compound/fused: bhavet (3.sg.act-optative √bhū)+uccāṭanam (nom.sg.nt)"
+    },
+    {
+     "surface": "ripoḥ",
+     "gloss": "of-enemy",
+     "grounds": "target of the uprooting effect",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "What hostile effect arises when the same object is placed in cow urine?",
+   "premises": [
+    "The same object is placed in cow urine.",
+    "The ritual produces a specific result.",
+    "The result targets an enemy."
+   ],
+   "inference": "Placed in cow urine, this becomes an uprooting of the enemy.",
+   "uncertainties": [],
+   "plain_english": "And if this is placed in cow urine, it becomes the uprooting of an enemy."
+  },
+  {
+   "verse": 1711,
+   "rows": [
+    {
+     "surface": "sindūreṇa",
+     "gloss": "with-vermilion",
+     "grounds": "material used for drawing",
+     "morph": "ins.sg.nt"
+    },
+    {
+     "surface": "likhec+cakraṃ",
+     "gloss": "one-should-draw-wheel",
+     "grounds": "fused form: likhet+cakram; injunction to inscribe",
+     "morph": "compound/fused: likhet (3.sg.act-optative √likh)+cakram (acc.sg.nt)"
+    },
+    {
+     "surface": "nirjane+tu+catuṣpathe",
+     "gloss": "but-in-lonely-crossroads",
+     "grounds": "fused form: nirjana+tu+catuṣpatha; place of rite",
+     "morph": "compound/fused: nirjane (loc.sg.nt)+tu (indecl.)+catuṣpathe (loc.sg.nt)"
+    }
+   ],
+   "question": "Where and with what substance should the wheel be drawn for this rite?",
+   "premises": [
+    "The wheel is drawn with vermilion.",
+    "The location is a lonely crossroads.",
+    "The act is prescribed as a ritual step."
+   ],
+   "inference": "One should draw the wheel with vermilion at a lonely crossroads.",
+   "uncertainties": [],
+   "plain_english": "One should draw the wheel with vermilion at a lonely crossroads."
+  },
+  {
+   "verse": 1712,
+   "rows": [
+    {
+     "surface": "kulācārakrameṇaiva",
+     "gloss": "by-kula-practice-order-alone",
+     "grounds": "compound: kulācāra+krama+eva; specifies ritual tradition",
+     "morph": "compound: kulācāra+krama (ins.sg.m)+eva (indecl.)"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of worship",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "sampūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-optative √pūj with sam"
+    },
+    {
+     "surface": "kramam",
+     "gloss": "the-sequence",
+     "grounds": "object of worship: the ordered rite",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "According to which tradition and at what time should the sequence be worshipped?",
+   "premises": [
+    "The worship follows the kula practice order.",
+    "The rite is performed at night.",
+    "The sequence itself is worshipped."
+   ],
+   "inference": "At night one should worship the sequence according to the kula practice order.",
+   "uncertainties": [],
+   "plain_english": "At night one should worship the sequence strictly according to the order of kula practice."
+  },
+  {
+   "verse": 1713,
+   "rows": [
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "lunar day specification",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "time of performance",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "svasthaḥ",
+     "gloss": "composed",
+     "grounds": "state of the practitioner",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "rudrabhūmau",
+     "gloss": "on-rudra-ground",
+     "grounds": "compound: rudra+bhūmi; ritual place",
+     "morph": "compound: rudra+bhūmi (loc.sg.f)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-optative √pūj with pra"
+    }
+   ],
+   "question": "Under what conditions and where should the worship be performed on the fourteenth night?",
+   "premises": [
+    "The rite is done on the fourteenth night.",
+    "The practitioner is composed.",
+    "The place is Rudra's ground."
+   ],
+   "inference": "On the fourteenth night a composed practitioner should worship on Rudra's ground.",
+   "uncertainties": [
+    "The exact nature of rudrabhūmi may be site-specific."
+   ],
+   "plain_english": "On the fourteenth night, being composed, one should perform worship on Rudra's ground."
+  },
+  {
+   "verse": 1714,
+   "rows": [
+    {
+     "surface": "añjanaṃ",
+     "gloss": "collyrium",
+     "grounds": "one of the siddhi objects",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "vivaraṃ",
+     "gloss": "cavity-entry",
+     "grounds": "siddhi of entering openings; exact sense context-dependent",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "general attainment",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "guṭikāṃ",
+     "gloss": "pill",
+     "grounds": "alchemical or magical pellet",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pādukāñjanam",
+     "gloss": "sandal-collyrium",
+     "grounds": "compound: pādukā+añjana; specific attainment",
+     "morph": "compound: pādukā+añjana (acc.sg.nt)"
+    }
+   ],
+   "question": "Which specific accomplishments are obtained through this prescribed worship?",
+   "premises": [
+    "The rite yields multiple attainments.",
+    "These include collyrium, pill, and related powers.",
+    "They are listed as results of worship."
+   ],
+   "inference": "The worship grants accomplishments such as collyrium, cavity-entry, pill, and sandal-collyrium.",
+   "uncertainties": [
+    "Precise technical meanings of vivara and pādukāñjana vary by tradition."
+   ],
+   "plain_english": "One obtains collyrium, the power of entering cavities, accomplishment, the pill, and sandal-collyrium."
+  },
+  {
+   "verse": 1715,
+   "rows": [
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "qualifies the range of attainments",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "siddhijananaṃ",
+     "gloss": "accomplishment-producing",
+     "grounds": "compound: siddhi+janana; describes the result",
+     "morph": "compound: siddhi+janana (acc.sg.nt)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "qualified ritual agent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "states attainment",
+     "morph": "3.sg.act-present √āp with pra"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "fused form: na+anyathā; excludes alternative means",
+     "morph": "compound/fused: na (indecl.)+anyathā (indecl.)"
+    }
+   ],
+   "question": "Who obtains all accomplishment-producing results and by what exclusivity?",
+   "premises": [
+    "The mantra-practitioner performs the rite.",
+    "All accomplishment-producing results are obtained.",
+    "No other means yields them."
+   ],
+   "inference": "The mantra-practitioner obtains all accomplishment-producing results and not otherwise.",
+   "uncertainties": [],
+   "plain_english": "The mantra-practitioner obtains all that produces accomplishment, and not by any other means."
+  },
+  {
+   "verse": 1716,
+   "rows": [
+    {
+     "surface": "ekaviṃśatirātraṃ",
+     "gloss": "for-twenty-one-nights",
+     "grounds": "compound: ekaviṃśati+rātra; duration of practice",
+     "morph": "compound: ekaviṃśati+rātra (acc.sg.nt, adverbial)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "time of practice",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "pretasthito",
+     "gloss": "standing-at-cremation-ground",
+     "grounds": "compound: preta+sthita; ritual location/state",
+     "morph": "compound: preta+sthita (nom.sg.m)"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "additional location element",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "For how long and in what setting must the nocturnal practice be performed?",
+   "premises": [
+    "The practice lasts twenty-one nights.",
+    "It is performed at night.",
+    "The practitioner stands in water at a cremation-ground setting."
+   ],
+   "inference": "The practice is performed for twenty-one nights at night while standing in water in a preta-place.",
+   "uncertainties": [
+    "The exact spatial relation of jale and pretasthita is compressed."
+   ],
+   "plain_english": "For twenty-one nights, at night, standing in water in the place of the dead."
+  },
+  {
+   "verse": 1717,
+   "rows": [
+    {
+     "surface": "pāśāṃkuśadhanurbāṇaiḥ",
+     "gloss": "with-noose-goad-bow-arrows",
+     "grounds": "compound listing ritual weapons/implements",
+     "morph": "compound: pāśa+aṅkuśa+dhanus+bāṇa (ins.pl.m/nt)"
+    },
+    {
+     "surface": "pauruṣeyair",
+     "gloss": "human-made",
+     "grounds": "qualifies the implements as fashioned by humans",
+     "morph": "ins.pl.m/nt"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "With what kinds of implements is the rite addressed to the great goddess performed?",
+   "premises": [
+    "The implements include noose, goad, bow, and arrows.",
+    "These implements are human-made.",
+    "The address is to the great goddess."
+   ],
+   "inference": "The rite is performed with human-made implements of noose, goad, bow, and arrows, O great goddess.",
+   "uncertainties": [],
+   "plain_english": "With human-made noose, goad, bow, and arrows, O great goddess."
+  },
+  {
+   "verse": 1718,
+   "rows": [
+    {
+     "surface": "hartā",
+     "gloss": "seizer",
+     "grounds": "agent who takes or draws away",
+     "morph": "nom.sg.m agent-noun √hṛ"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "doer",
+     "grounds": "agent who accomplishes the act",
+     "morph": "nom.sg.m agent-noun √kṛ"
+    },
+    {
+     "surface": "svayaṃ+caiva",
+     "gloss": "and-oneself-indeed",
+     "grounds": "fused form: svayam+ca+eva; emphasizes personal agency",
+     "morph": "compound/fused: svayam (indecl.)+ca (indecl.)+eva (indecl.)"
+    },
+    {
+     "surface": "mahadākarṣaṇaṃ",
+     "gloss": "great-attraction",
+     "grounds": "compound: mahat+ākarṣaṇa; powerful drawing effect",
+     "morph": "compound: mahat+ākarṣaṇa (nom.sg.nt)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What powerful attractive capacity does the practitioner gain through this rite?",
+   "premises": [
+    "The practitioner becomes both seizer and doer.",
+    "Personal agency is emphasized.",
+    "A great attraction results."
+   ],
+   "inference": "The practitioner himself becomes capable of effecting a great attraction.",
+   "uncertainties": [],
+   "plain_english": "He becomes the seizer and the doer himself, and a great attraction may occur."
+  },
+  {
+   "verse": 1719,
+   "rows": [
+    {
+     "surface": "puruṣākarṣaṇaṃ",
+     "gloss": "attraction-of-men",
+     "grounds": "compound: puruṣa+ākarṣaṇa; specific attractive power",
+     "morph": "compound: puruṣa+ākarṣaṇa (nom.sg.nt)"
+    },
+    {
+     "surface": "caitad",
+     "gloss": "and-this",
+     "grounds": "fused form: ca+etat; identifies the effect",
+     "morph": "compound/fused: ca (indecl.)+etat (nom.sg.nt)"
+    },
+    {
+     "surface": "rājānaḥ",
+     "gloss": "kings",
+     "grounds": "subjects who become subservient",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kiṅkarāḥ",
+     "gloss": "servants",
+     "grounds": "resulting status of kings",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What social effect does this attraction produce upon kings, O beloved?",
+   "premises": [
+    "The rite produces attraction of men.",
+    "Kings are affected by this power.",
+    "They become servants."
+   ],
+   "inference": "This attraction of men makes kings become servants, O beloved.",
+   "uncertainties": [],
+   "plain_english": "This is the attraction of men; even kings become servants, O beloved."
+  },
+  {
+   "verse": 1720,
+   "rows": [
+    {
+     "surface": "vāgbhavārādhane",
+     "gloss": "in-vāgbhava-worship",
+     "grounds": "compound: vāgbhava+ārādhana; ritual context",
+     "morph": "compound: vāgbhava+ārādhana (loc.sg.nt)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "resulting attainment",
+     "morph": "nom/acc.sg.nt"
+    },
+    {
+     "surface": "sārasvataṃ",
+     "gloss": "of-sarasvatī",
+     "grounds": "qualifies knowledge as eloquent or Sarasvatī-related",
+     "morph": "nom/acc.sg.nt"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "arises",
+     "grounds": "optative result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What kind of knowledge arises from the worship of vāgbhava, O goddess?",
+   "premises": [
+    "The practice is worship of vāgbhava.",
+    "The result is a form of knowledge.",
+    "That knowledge is Sarasvatī-related."
+   ],
+   "inference": "Worship of vāgbhava gives rise to Sarasvatī knowledge.",
+   "uncertainties": [
+    "vāgbhava is kept as a mantra-name; its seed form is not expanded."
+   ],
+   "plain_english": "O goddess, in the worship of vāgbhava, knowledge of Sarasvatī arises."
+  },
+  {
+   "verse": 1721,
+   "rows": [
+    {
+     "surface": "anena+vidhinā",
+     "gloss": "by-this-method",
+     "grounds": "instrumental phrase referring to prescribed rite",
+     "morph": "compound/fused: anena (ins.sg.m/nt)+vidhinā (ins.sg.m)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "vāgbhavārādhanaṃ",
+     "gloss": "vāgbhava-worship",
+     "grounds": "compound: vāgbhava+ārādhana; the ritual act",
+     "morph": "compound: vāgbhava+ārādhana (nom.sg.nt)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "is-accomplished",
+     "grounds": "optative/resultative statement",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "By what method is the worship of vāgbhava properly accomplished, O goddess?",
+   "premises": [
+    "A specific method has been described.",
+    "The act in question is vāgbhava worship.",
+    "Following the method accomplishes it."
+   ],
+   "inference": "By this method the worship of vāgbhava is accomplished.",
+   "uncertainties": [
+    "vāgbhava is kept as a mantra-name; its seed form is not expanded."
+   ],
+   "plain_english": "O goddess, by this method the worship of vāgbhava is accomplished."
+  },
+  {
+   "verse": 1722,
+   "rows": [
+    {
+     "surface": "kāmamanmathakandarpāḥ",
+     "gloss": "kāma-manmatha-kandarpa",
+     "grounds": "compound listing names of the love-god",
+     "morph": "compound: kāma+manmatha+kandarpa (nom.pl.m)"
+    },
+    {
+     "surface": "makaradhvajaḥ",
+     "gloss": "makara-bannered",
+     "grounds": "epithet of the love-god",
+     "morph": "compound: makara+dhvaja (nom.sg.m)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which names and epithet identify the deity invoked in this desire-oriented rite?",
+   "premises": [
+    "Multiple names of the love-god are given.",
+    "An epithet is also given.",
+    "They identify the same figure."
+   ],
+   "inference": "The invoked figure is Kāma, Manmatha, Kandarpa, the makara-bannered one.",
+   "uncertainties": [],
+   "plain_english": "Kāma, Manmatha, and Kandarpa, indeed the one whose banner bears the makara."
+  },
+  {
+   "verse": 1723,
+   "rows": [
+    {
+     "surface": "kāmaṃ",
+     "gloss": "kāma",
+     "grounds": "name invoked in mantra placement",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "manmatham",
+     "gloss": "manmatha",
+     "grounds": "name placed in middle position",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "madhyasthaṃ",
+     "gloss": "placed-in-middle",
+     "grounds": "compound: madhya+stha; positional instruction",
+     "morph": "compound: madhya+stha (acc.sg.m)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kandarpaveśmagam",
+     "gloss": "going-to-kandarpa-abode",
+     "grounds": "compound: kandarpa+veśma+ga; placement relative to Kandarpa",
+     "morph": "compound: kandarpa+veśma+ga (acc.sg.m)"
+    }
+   ],
+   "question": "How are the names Kāma, Manmatha, and Kandarpa arranged in this formula, O goddess?",
+   "premises": [
+    "Kāma and Manmatha are named.",
+    "Manmatha is placed in the middle.",
+    "The arrangement relates to Kandarpa's abode."
+   ],
+   "inference": "The formula places Kāma and Manmatha with Manmatha in the middle, directed to Kandarpa's abode.",
+   "uncertainties": [
+    "Exact mantra syntax is compressed in the verse."
+   ],
+   "plain_english": "O goddess, place Kāma and Manmatha with Manmatha in the middle, going to the abode of Kandarpa."
+  },
+  {
+   "verse": 1724,
+   "rows": [
+    {
+     "surface": "anena+kāmatattvena",
+     "gloss": "by-this-desire-principle",
+     "grounds": "compound/fused: anena+kāma+tattva; operative principle of rite",
+     "morph": "compound/fused: anena (ins.sg.m/nt)+kāma+tattva (ins.sg.nt)"
+    },
+    {
+     "surface": "mohayet",
+     "gloss": "one-should-delude",
+     "grounds": "optative injunction for effect",
+     "morph": "3.sg.act-optative caus. √muh"
+    },
+    {
+     "surface": "jagatīm",
+     "gloss": "the-world",
+     "grounds": "object of delusion",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "imām",
+     "gloss": "this",
+     "grounds": "demonstrative specifying the world",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What global effect is achieved through employing this principle of desire?",
+   "premises": [
+    "The rite employs this desire principle.",
+    "The action is to delude.",
+    "The object is this world."
+   ],
+   "inference": "By this desire principle one should delude this world.",
+   "uncertainties": [],
+   "plain_english": "By this principle of desire, one should delude this world."
+  }
+ ]
+}

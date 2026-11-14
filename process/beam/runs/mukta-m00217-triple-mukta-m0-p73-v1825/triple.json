@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "audāryaśobhanaiśvaryasaubhāgyādiguṇaiḥ",
+     "gloss": "generosity-splendor-sovereignty-fortune-etc-qualities",
+     "grounds": "bahuvrīhi-style determinative compound audārya-śobhana-aiśvarya-saubhāgya-ādi-guṇa, instrumental plural expressing the qualities possessed",
+     "morph": "compound, ins.pl.m"
+    },
+    {
+     "surface": "yutaiḥ",
+     "gloss": "endowed-with",
+     "grounds": "past participle of √yu agreeing in case, number, and gender with audāryaśobhanaiśvaryasaubhāgyādiguṇaiḥ",
+     "morph": "ppp.ins.pl.m, √yu"
+    }
+   ],
+   "question": "Which qualities of generosity, sovereignty, and fortune characterize the described presence?",
+   "premises": [
+    "The described presence is associated with qualities such as generosity.",
+    "Splendid sovereignty and good fortune are included among these qualities.",
+    "These qualities are possessed together as its endowments."
+   ],
+   "inference": "Therefore the described presence is characterized by exalted and auspicious qualities.",
+   "uncertainties": [
+    "The exact referent qualified by yutaiḥ depends on the preceding verses in context."
+   ],
+   "plain_english": "Endowed with qualities such as generosity, splendid sovereignty, and good fortune."
+  }
+ ]
+}

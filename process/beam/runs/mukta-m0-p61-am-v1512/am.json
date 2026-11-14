@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1512,
- "question": "For whom and in what contexts are the plow and related implements considered suitable?",
+ "question": "What textual condition and deity name appear in this incomplete enumeration line?",
  "premises": [
-  "The plow and related implements are discussed.",
-  "They are considered for gods and others.",
-  "They are regarded as suitable in all contexts."
+  "An editorial lacuna marker is present.",
+  "Sarvacakreśvarī is named after the marker.",
+  "The list continues likewise."
  ],
- "inference": "All plow-related implements are considered suitable for gods and others in all contexts.",
- "uncertainties": [],
- "plain_english": "The plow and other implements are considered suitable for the gods and others in all cases."
+ "inference": "The line contains a gap but still includes Sarvacakreśvarī in the sequence.",
+ "uncertainties": [
+  "The content missing at the lacuna marker is unknown."
+ ],
+ "plain_english": "After a gap in the text, Sarvacakreśvarī is named likewise."
 }

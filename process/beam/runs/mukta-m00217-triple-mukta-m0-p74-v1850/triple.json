@@ -1,0 +1,27 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "namo hasakahalahrīṃ nārāyaṇāya sakalahrīṃ",
+     "gloss": "obeisance-to-hasaka-hala-hrīṃ-nārāyaṇa-sakala-hrīṃ",
+     "grounds": "salutatory mantra formula; namo governs dative nārāyaṇāya; hasakahalahrīṃ and sakalahrīṃ are mantra epithets/bīja-elements kept byte-exact within the fused token",
+     "morph": "mantra-formula (indecl.+epithet+bīja+dative+epithet+bīja)"
+    }
+   ],
+   "question": "To which mantra-form of Nārāyaṇa is this obeisance directed?",
+   "premises": [
+    "The formula begins with namo, expressing reverential obeisance.",
+    "The dative nārāyaṇāya names Nārāyaṇa as the recipient of obeisance.",
+    "The elements hasakahalahrīṃ and sakalahrīṃ qualify this form with specific mantra syllables."
+   ],
+   "inference": "The verse offers obeisance to Nārāyaṇa in a specific mantra-form marked by the syllables hasakahalahrīṃ and sakalahrīṃ.",
+   "uncertainties": [
+    "The precise ritual or semantic function of the components hasaka and hala within the mantra is not explicit in this verse alone."
+   ],
+   "plain_english": "Obeisance to Nārāyaṇa, in the mantra-form hasaka-hala-hrīṃ and sakala-hrīṃ."
+  }
+ ]
+}
