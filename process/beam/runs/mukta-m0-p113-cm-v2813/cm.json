@@ -3,34 +3,29 @@
  "verse": 2813,
  "rows": [
   {
-   "lemma": "pañcāśat+antaraṃ",
-   "morph": "compound = pañcāśat+antaraṃ",
-   "grounds": "interval count"
+   "lemma": "hastasya",
+   "morph": "m.gen.sg",
+   "grounds": "hand involved in the action"
   },
   {
-   "lemma": "vā",
+   "lemma": "savyasya",
+   "morph": "m.gen.sg",
+   "grounds": "specifies the left hand"
+  },
+  {
+   "lemma": "bhrāmayet",
+   "morph": "3.sg.act-opt/√bhram-caus",
+   "grounds": "prescriptive rotational action"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "alternative"
+   "grounds": "connects to prior instruction"
   },
   {
-   "lemma": "api",
-   "morph": "(indecl.)",
-   "grounds": "inclusion"
-  },
-  {
-   "lemma": "śata+mantra+antaraṃ",
-   "morph": "compound = śata+mantra+antaraṃ",
-   "grounds": "interval count"
-  },
-  {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
-  },
-  {
-   "lemma": "vā",
-   "morph": "(indecl.)",
-   "grounds": "alternative"
+   "lemma": "tām",
+   "morph": "f.acc.sg",
+   "grounds": "object to be rotated"
   }
  ]
 }

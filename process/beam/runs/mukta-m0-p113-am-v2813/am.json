@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p113",
  "verse": 2813,
- "question": "What mantra intervals are permitted during the ritual procedure?",
+ "question": "Which hand should be used to rotate that gesture in this instruction?",
  "premises": [
-  "An interval of fifty is permitted",
-  "An interval of a hundred mantras is permitted",
-  "These are alternatives"
+  "A rotational action is prescribed.",
+  "The hand specified is the left hand.",
+  "That gesture is the object of rotation."
  ],
- "inference": "One may observe an interval of fifty or an interval of a hundred mantras.",
+ "inference": "One should rotate that gesture with the left hand.",
  "uncertainties": [
-  "The exact ritual action at these intervals is implied by context"
+  "The referent of 'that' depends on the immediately preceding gesture."
  ],
- "plain_english": "One may do so at intervals of fifty, or also at intervals of a hundred mantras."
+ "plain_english": "And one should rotate that with the left hand."
 }

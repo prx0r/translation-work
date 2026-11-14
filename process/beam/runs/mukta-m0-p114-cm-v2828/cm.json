@@ -3,19 +3,29 @@
  "verse": 2828,
  "rows": [
   {
-   "lemma": "daṃṣṭrākarākamatyugraṃ",
-   "morph": "compound: daṃṣṭrā-karāka-ati-ugra+acc.sg.m",
-   "grounds": "compound describing terrifying tusks and hands"
+   "lemma": "vāma",
+   "morph": "m.acc.sg",
+   "grounds": "qualifies the hand"
   },
   {
-   "lemma": "muktanādaṃ",
-   "morph": "compound: mukta-nāda+acc.sg.m",
-   "grounds": "describes the deity emitting a loud sound"
+   "lemma": "hastaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object described in the gesture"
   },
   {
-   "lemma": "sudurjayam",
-   "morph": "acc.sg.m",
-   "grounds": "qualifies the deity as extremely difficult to defeat"
+   "lemma": "baddha",
+   "morph": "m.nom.sg, compound-member baddha+aṃguṣṭha+kaniṣṭhikam",
+   "grounds": "describes the state of the fingers"
+  },
+  {
+   "lemma": "aṃguṣṭha",
+   "morph": "m.nom.sg, compound-member baddha+aṃguṣṭha+kaniṣṭhikam",
+   "grounds": "one of the fingers involved in binding"
+  },
+  {
+   "lemma": "kaniṣṭhikam",
+   "morph": "m.acc.sg, compound baddha+aṃguṣṭha+kaniṣṭhika",
+   "grounds": "the other finger bound with the thumb"
   }
  ]
 }
