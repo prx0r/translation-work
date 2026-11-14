@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3426,
+   "rows": [
+    {
+     "surface": "kṛcchrācchuddhirbhavet",
+     "gloss": "from-penance-purification-may-be",
+     "grounds": "fused sandhi form kṛcchrāt+śuddhiḥ+bhavet; expresses purification arising from penance",
+     "morph": "compound+3.sg.opt.act (bhū)"
+    },
+    {
+     "surface": "bhuktau",
+     "gloss": "in-eating",
+     "grounds": "locative indicating context of having eaten",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "taptakṛcchraṃ",
+     "gloss": "hot-penance",
+     "grounds": "name of a specific expiatory observance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction to undertake the penance",
+     "morph": "3.sg.opt.act (sam-ā-car)"
+    }
+   ],
+   "question": "What penance restores purity after consuming impure food?",
+   "premises": [
+    "Impure eating requires purification",
+    "Purification can arise from penance",
+    "The hot penance is prescribed"
+   ],
+   "inference": "One should perform the hot penance to regain purity after impure eating",
+   "uncertainties": [],
+   "plain_english": "If one has eaten impure food, purification comes through penance; one should perform the hot penance."
+  },
+  {
+   "verse": 3427,
+   "rows": [
+    {
+     "surface": "rajakādi",
+     "gloss": "washerman-and-others",
+     "grounds": "compound indicating washermen and similar impure places or persons",
+     "morph": "compound"
+    },
+    {
+     "surface": "praveśādāvayutārdhamajānataḥ",
+     "gloss": "on-entry-etc-half-ten-thousand-unknowing",
+     "grounds": "fused compound expressing half of ten thousand for one who enters unknowingly; exact measure and referent depend on context",
+     "morph": "compound+m.gen.sg"
+    }
+   ],
+   "question": "What expiation applies to unknowingly entering a washerman’s or similar impure area?",
+   "premises": [
+    "Entry into impure areas causes defilement",
+    "Unknowing action reduces culpability",
+    "A specific reduced expiation is prescribed"
+   ],
+   "inference": "One who unknowingly enters such an area must perform half of ten thousand as expiation",
+   "uncertainties": [
+    "The exact unit counted as ten thousand is not specified in this verse"
+   ],
+   "plain_english": "For one who unknowingly enters the place of a washerman or the like, half of ten thousand is prescribed as expiation."
+  },
+  {
+   "verse": 3428,
+   "rows": [
+    {
+     "surface": "hemarupyādipātrāṇāṃ",
+     "gloss": "gold-silver-etc-vessels",
+     "grounds": "compound denoting vessels made of gold, silver, and similar materials",
+     "morph": "compound+n.gen.pl"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "by-water",
+     "grounds": "instrument indicating means of purification",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śuddhiriṣyate",
+     "gloss": "purification-is-desired",
+     "grounds": "fused sandhi form śuddhiḥ+iṣyate; states accepted method of purification",
+     "morph": "f.nom.sg+3.sg.pass.pres (iṣ)"
+    }
+   ],
+   "question": "What method purifies vessels made of gold, silver, and similar materials?",
+   "premises": [
+    "Gold and silver vessels can become impure",
+    "Water serves as purifying agent",
+    "Purification by water is accepted"
+   ],
+   "inference": "Vessels of gold, silver, and the like are purified by water",
+   "uncertainties": [],
+   "plain_english": "The purification of vessels made of gold, silver, and similar materials is accomplished with water."
+  },
+  {
+   "verse": 3429,
+   "rows": [
+    {
+     "surface": "bhasmanā",
+     "gloss": "by-ash",
+     "grounds": "instrument indicating ash as cleansing agent",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kāṃsyaśuddhiḥ",
+     "gloss": "bronze-purification",
+     "grounds": "compound naming purification of bronze",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "tāmram",
+     "gloss": "copper",
+     "grounds": "object of purification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āmlena",
+     "gloss": "by-sour-substance",
+     "grounds": "instrument indicating acidic or sour cleansing agent",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "becomes-pure",
+     "grounds": "states purification result for copper",
+     "morph": "3.sg.act.pres (śudh)"
+    }
+   ],
+   "question": "What substances purify bronze and copper vessels respectively?",
+   "premises": [
+    "Different metals require different purifying agents",
+    "Ash purifies bronze",
+    "A sour substance purifies copper"
+   ],
+   "inference": "Bronze is purified by ash, while copper is purified by a sour substance",
+   "uncertainties": [],
+   "plain_english": "Bronze is purified with ash, and copper becomes pure with a sour substance."
+  },
+  {
+   "verse": 3430,
+   "rows": [
+    {
+     "surface": "prokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "absolutive indicating act of sprinkling",
+     "morph": "indecl. (pra-ukṣ)"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "becomes-pure",
+     "grounds": "states resulting purification",
+     "morph": "3.sg.act.pres (śudh)"
+    },
+    {
+     "surface": "asandehāt",
+     "gloss": "without-doubt",
+     "grounds": "ablative used adverbially to assert certainty",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ucchiṣṭaspṛṣṭa",
+     "gloss": "leftover-touched",
+     "grounds": "compound describing vessel touched by remnants of food",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "vessel",
+     "grounds": "object that becomes purified",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is a vessel touched by leftover food made pure?",
+   "premises": [
+    "Contact with leftovers defiles a vessel",
+    "Sprinkling is a purifying act",
+    "Purification is certain when sprinkling is done"
+   ],
+   "inference": "A vessel touched by leftovers becomes pure without doubt when sprinkled",
+   "uncertainties": [],
+   "plain_english": "A vessel touched by leftover food becomes pure, without doubt, when it is sprinkled."
+  },
+  {
+   "verse": 3431,
+   "rows": [
+    {
+     "surface": "dāravaṃ",
+     "gloss": "wooden",
+     "grounds": "describes vessel made of wood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lohajotkṛṣṭaṃ",
+     "gloss": "metal-born-superior",
+     "grounds": "compound indicating a superior metal vessel; exact metal unspecified",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "by-water",
+     "grounds": "instrument indicating means of purification",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tadviśuddhyati",
+     "gloss": "that-becomes-pure",
+     "grounds": "fused sandhi form tat+viśuddhyati; states purification of the mentioned items",
+     "morph": "n.nom.sg+3.sg.act.pres (vi-śudh)"
+    }
+   ],
+   "question": "How are wooden vessels and superior metal vessels purified?",
+   "premises": [
+    "Wooden vessels require purification",
+    "Superior metal vessels require purification",
+    "Water purifies these vessels"
+   ],
+   "inference": "Wooden and superior metal vessels become pure by water",
+   "uncertainties": [
+    "The specific metal meant by lohajotkṛṣṭaṃ is not identified"
+   ],
+   "plain_english": "A wooden vessel and a superior metal vessel become pure by means of water."
+  },
+  {
+   "verse": 3432,
+   "rows": [
+    {
+     "surface": "śuddhiśca",
+     "gloss": "and-purification",
+     "grounds": "fused sandhi form śuddhiḥ+ca; introduces purification of another class",
+     "morph": "f.nom.sg+indecl."
+    },
+    {
+     "surface": "udaka+bhāṇḍānāṃ",
+     "gloss": "water-vessels",
+     "grounds": "compound denoting containers used for water",
+     "morph": "compound+n.gen.pl"
+    },
+    {
+     "surface": "paryagnikaraṇātmikā",
+     "gloss": "fire-circling-natured",
+     "grounds": "compound describing purification consisting in carrying fire around",
+     "morph": "compound+f.nom.sg"
+    }
+   ],
+   "question": "What form of purification applies to water vessels?",
+   "premises": [
+    "Water vessels require purification",
+    "Purification can take a ritual form",
+    "Carrying fire around is prescribed"
+   ],
+   "inference": "The purification of water vessels consists in carrying fire around them",
+   "uncertainties": [],
+   "plain_english": "The purification of water vessels consists in carrying fire around them."
+  },
+  {
+   "verse": 3433,
+   "rows": [
+    {
+     "surface": "ullekhāt",
+     "gloss": "from-scraping",
+     "grounds": "ablative indicating purification by scraping",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhūmiśuddhiḥ",
+     "gloss": "earth-purification",
+     "grounds": "compound naming purification of the ground",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating an additional method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gomaya",
+     "gloss": "cow-dung",
+     "grounds": "first member of compound indicating cleansing substance",
+     "morph": "compound"
+    },
+    {
+     "surface": "gharṣaṇāt",
+     "gloss": "from-rubbing",
+     "grounds": "ablative indicating purification by smearing or rubbing",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What actions purify defiled ground or earth?",
+   "premises": [
+    "The earth can become impure",
+    "Scraping removes impurity",
+    "Rubbing with cow dung purifies"
+   ],
+   "inference": "The earth is purified by scraping and likewise by rubbing with cow dung",
+   "uncertainties": [],
+   "plain_english": "The earth is purified by scraping, and likewise by rubbing it with cow dung."
+  },
+  {
+   "verse": 3434,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "in-that-manner",
+     "grounds": "indeclinable indicating analogy with previous purification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmālyasaṃspṛṣṭaṃ",
+     "gloss": "discarded-offering-touched",
+     "grounds": "compound describing contact with nirmālya, offerings removed from the deity",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "rajasā",
+     "gloss": "by-dust",
+     "grounds": "instrument indicating dust as purifying agent",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "subject undergoing purification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśuddhyati",
+     "gloss": "becomes-pure",
+     "grounds": "states resulting purification",
+     "morph": "3.sg.act.pres (vi-śudh)"
+    }
+   ],
+   "question": "How is a woman purified after contact with discarded sacred offerings?",
+   "premises": [
+    "Contact with discarded offerings causes impurity",
+    "Dust can serve as purifying agent",
+    "Purification occurs in the stated manner"
+   ],
+   "inference": "A woman touched by discarded offerings becomes pure by means of dust",
+   "uncertainties": [],
+   "plain_english": "In the same way, a woman who has been touched by discarded offerings becomes pure by means of dust."
+  },
+  {
+   "verse": 3435,
+   "rows": [
+    {
+     "surface": "śarāvapatra",
+     "gloss": "earthen-dish-leaf",
+     "grounds": "compound listing earthen dishes and leaf vessels",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṭaka",
+     "gloss": "packet-vessel",
+     "grounds": "member of compound indicating folded leaf or packet container",
+     "morph": "compound"
+    },
+    {
+     "surface": "prabhṛtīnāṃ",
+     "gloss": "and-so-forth",
+     "grounds": "genitive plural indicating such items and others like them",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca+bhojane",
+     "gloss": "and-in-eating",
+     "grounds": "compound with ca indicating context of eating from such items",
+     "morph": "indecl.+n.loc.sg"
+    }
+   ],
+   "question": "What context is specified for using earthen dishes, leaf vessels, and similar items?",
+   "premises": [
+    "Earthen dishes and leaf vessels are mentioned",
+    "Similar items are included",
+    "The context concerns eating"
+   ],
+   "inference": "The verse refers to eating from earthen dishes, leaf vessels, packets, and similar items",
+   "uncertainties": [
+    "The verse is syntactically incomplete and its full injunction may continue beyond this unit"
+   ],
+   "plain_english": "And in eating from earthen dishes, leaf vessels, leaf packets, and similar items..."
+  },
+  {
+   "verse": 3436,
+   "rows": [
+    {
+     "surface": "satyan",
+     "gloss": "by-truth",
+     "grounds": "instrument indicating truthfulness as means of purification",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "manasaḥ+śuddhir",
+     "gloss": "of-mind-purification",
+     "grounds": "compound stating purification of the mind",
+     "morph": "n.gen.sg+f.nom.sg"
+    },
+    {
+     "surface": "indriyāṇāṃ",
+     "gloss": "of-senses",
+     "grounds": "genitive plural indicating the senses",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "yamādibhiḥ",
+     "gloss": "by-restraints-and-others",
+     "grounds": "instrumental plural referring to restraints such as yama and related disciplines",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What means purify the mind and the senses?",
+   "premises": [
+    "The mind requires purification",
+    "The senses require purification",
+    "Truth purifies the mind and restraints purify the senses"
+   ],
+   "inference": "The mind is purified by truth, and the senses by restraints and related disciplines",
+   "uncertainties": [],
+   "plain_english": "The mind is purified by truth, and the senses are purified by restraints and the other disciplines."
+  },
+  {
+   "verse": 3437,
+   "rows": [
+    {
+     "surface": "buddherapi",
+     "gloss": "of-intellect-also",
+     "grounds": "fused sandhi form buddheḥ+api; extends purification to the intellect",
+     "morph": "f.gen.sg+indecl."
+    },
+    {
+     "surface": "munivyāghrāḥ",
+     "gloss": "sage-tigers",
+     "grounds": "vocative or nominative plural honorific for eminent sages",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saṅgatyāgāt",
+     "gloss": "from-abandoning-attachment",
+     "grounds": "ablative indicating renunciation of attachment as means",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "states that purification is taught or proclaimed",
+     "morph": "m.nom.pl.past-pass.part (pra-kīrt)"
+    }
+   ],
+   "question": "How is the intellect purified according to the eminent sages?",
+   "premises": [
+    "The intellect also requires purification",
+    "Abandoning attachment is a purifying means",
+    "Eminent sages declare this method"
+   ],
+   "inference": "The purification of the intellect is declared by the eminent sages to come from abandoning attachment",
+   "uncertainties": [],
+   "plain_english": "O eminent sages, the purification of the intellect is declared to come from the abandonment of attachment."
+  },
+  {
+   "verse": 3438,
+   "rows": [
+    {
+     "surface": "dhyānācchuddhiḥ",
+     "gloss": "from-meditation-purification",
+     "grounds": "fused sandhi form dhyānāt+śuddhiḥ; states purification through meditation",
+     "morph": "n.abl.sg+f.nom.sg"
+    },
+    {
+     "surface": "samuddiṣṭā",
+     "gloss": "declared",
+     "grounds": "states that this purification is taught",
+     "morph": "f.nom.sg.past-pass.part (sam-ud-diś)"
+    },
+    {
+     "surface": "pradhānasya",
+     "gloss": "of-primal-nature",
+     "grounds": "genitive referring to pradhāna, the primal material principle",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "guṇātmanaḥ",
+     "gloss": "of-quality-natured",
+     "grounds": "compound describing pradhāna as constituted of the qualities",
+     "morph": "compound+n.gen.sg"
+    }
+   ],
+   "question": "What purifies the primal nature constituted of the three qualities?",
+   "premises": [
+    "Primal nature is constituted of qualities",
+    "Primal nature requires purification",
+    "Meditation is declared as its purification"
+   ],
+   "inference": "The purification of the quality-constituted primal nature is declared to come from meditation",
+   "uncertainties": [],
+   "plain_english": "The purification of the primal nature, which consists of the qualities, is declared to come from meditation."
+  },
+  {
+   "verse": 3439,
+   "rows": [
+    {
+     "surface": "śvamārjāraravarādīnāṃ",
+     "gloss": "dog-cat-tiger-and-others",
+     "grounds": "compound listing animals whose licking causes impurity",
+     "morph": "compound+m.gen.pl"
+    },
+    {
+     "surface": "vilehe",
+     "gloss": "in-licking",
+     "grounds": "locative indicating the act of being licked",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "snānamācaret",
+     "gloss": "bath-one-should-perform",
+     "grounds": "fused sandhi form snānam+ācaret; prescribes bathing",
+     "morph": "n.acc.sg+3.sg.opt.act (ā-car)"
+    }
+   ],
+   "question": "What purification is required after being licked by a dog, cat, tiger, or similar animal?",
+   "premises": [
+    "Licking by certain animals causes impurity",
+    "Bathing removes such impurity",
+    "Bathing is prescribed in this case"
+   ],
+   "inference": "One should perform a bath if licked by a dog, cat, tiger, or similar animal",
+   "uncertainties": [],
+   "plain_english": "If one is licked by a dog, a cat, a tiger, or similar animals, one should perform a bath."
+  },
+  {
+   "verse": 3440,
+   "rows": [
+    {
+     "surface": "uttamāṅga",
+     "gloss": "upper-limb",
+     "grounds": "compound referring to the head",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-procedure",
+     "grounds": "instrument indicating prescribed ritual method",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive indicating prior act of bathing",
+     "morph": "indecl. (snā)"
+    },
+    {
+     "surface": "vidyāṅga+pañcakam",
+     "gloss": "knowledge-limb-fivefold",
+     "grounds": "compound referring to the five limbs of knowledge; exact referents depend on ritual context",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "What ritual observance follows bathing the head according to the prescribed procedure?",
+   "premises": [
+    "Bathing of the head is performed by procedure",
+    "A further observance follows bathing",
+    "The fivefold limbs of knowledge are involved"
+   ],
+   "inference": "After bathing the head according to procedure, one should observe the fivefold limbs of knowledge",
+   "uncertainties": [
+    "The specific contents of vidyāṅgapañcakam are not specified in this verse"
+   ],
+   "plain_english": "Having bathed the head according to the prescribed procedure, one should perform the fivefold limbs of knowledge."
+  },
+  {
+   "verse": 3441,
+   "rows": [
+    {
+     "surface": "adīkṣitena",
+     "gloss": "by-uninitiated",
+     "grounds": "instrument indicating contact with one not initiated",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃspṛṣṭe",
+     "gloss": "when-touched",
+     "grounds": "locative absolute indicating condition of contact",
+     "morph": "n.loc.sg.past-pass.part (sam-spṛś)"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "object of prescribed action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āgneyam",
+     "gloss": "fire-related",
+     "grounds": "describes a bath or purification associated with fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act (ā-car)"
+    }
+   ],
+   "question": "What purification is required after being touched by an uninitiated person?",
+   "premises": [
+    "Contact with an uninitiated person causes impurity",
+    "A specific bath is prescribed",
+    "The prescribed bath is fire-related"
+   ],
+   "inference": "If touched by an uninitiated person, one should perform the fire-related bath",
+   "uncertainties": [],
+   "plain_english": "If touched by an uninitiated person, one should perform the fire bath."
+  },
+  {
+   "verse": 3442,
+   "rows": [
+    {
+     "surface": "tasyaiva",
+     "gloss": "of-that-very",
+     "grounds": "fused sandhi form tasya+eva; emphasizes the same deity",
+     "morph": "m.gen.sg+indecl."
+    },
+    {
+     "surface": "devadevasya",
+     "gloss": "of-god-of-gods",
+     "grounds": "compound referring to the supreme deity",
+     "morph": "compound+m.gen.sg"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "prescribed ritual recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāṅgasya",
+     "gloss": "with-limbs",
+     "grounds": "compound indicating recitation including its auxiliary parts",
+     "morph": "compound+m.gen.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "specifies number of recitations",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What recitation is prescribed for that same supreme deity after the prior purification?",
+   "premises": [
+    "The same supreme deity is the object of recitation",
+    "The recitation includes auxiliary limbs",
+    "A hundred repetitions are prescribed"
+   ],
+   "inference": "One should perform a hundred recitations, with auxiliary limbs, of that very God of gods",
+   "uncertainties": [],
+   "plain_english": "One should perform a hundred recitations, together with its auxiliary limbs, of that very God of gods."
+  },
+  {
+   "verse": 3443,
+   "rows": [
+    {
+     "surface": "vāriṇā",
+     "gloss": "by-water",
+     "grounds": "instrument indicating purification by water",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tva",
+     "gloss": "and",
+     "grounds": "particle used here as connective; form appears as tva in text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśmajātīnāṃ",
+     "gloss": "of-stone-born-kinds",
+     "grounds": "compound referring to items made of stone",
+     "morph": "compound+f.gen.pl"
+    },
+    {
+     "surface": "mathitena",
+     "gloss": "by-churned",
+     "grounds": "instrumental describing churned substance used for purification",
+     "morph": "n.ins.sg.past-pass.part (math)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mastunā",
+     "gloss": "by-whey",
+     "grounds": "instrument indicating whey as cleansing agent",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "What agents purify stone vessels and greasy vessels respectively?",
+   "premises": [
+    "Stone vessels require purification",
+    "Greasy vessels require purification",
+    "Water and churned whey are prescribed as agents"
+   ],
+   "inference": "Stone vessels are purified by water, and greasy vessels by churned whey",
+   "uncertainties": [
+    "The syntactic distribution across verses 3443–3444 is split; the full predicate appears in the next verse"
+   ],
+   "plain_english": "Stone vessels are purified with water, and with churned whey..."
+  },
+  {
+   "verse": 3444,
+   "rows": [
+    {
+     "surface": "snigdhānāṃ",
+     "gloss": "of-greasy-things",
+     "grounds": "genitive plural referring to oily or greasy items",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "rūkṣaṇācchuddhiḥ",
+     "gloss": "from-drying-purification",
+     "grounds": "fused sandhi form rūkṣaṇāt+śuddhiḥ; states purification by making dry",
+     "morph": "n.abl.sg+f.nom.sg"
+    },
+    {
+     "surface": "pātrāṇāṃ",
+     "gloss": "of-vessels",
+     "grounds": "genitive plural specifying vessels",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "states that this method is taught",
+     "morph": "f.nom.sg.past-pass.part (pari-kīrt)"
+    }
+   ],
+   "question": "How is purification of greasy vessels declared to be accomplished?",
+   "premises": [
+    "Greasy vessels are impure in a specific way",
+    "Drying removes greasiness",
+    "Purification by drying is declared"
+   ],
+   "inference": "The purification of greasy vessels is declared to come from drying them",
+   "uncertainties": [],
+   "plain_english": "The purification of greasy vessels is declared to be accomplished by drying."
+  },
+  {
+   "verse": 3445,
+   "rows": [
+    {
+     "surface": "madhunaḥ",
+     "gloss": "of-honey",
+     "grounds": "genitive indicating honey as substance to be purified",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pākataḥ+śuddhiḥ",
+     "gloss": "from-cooking-purification",
+     "grounds": "compound stating purification by cooking or heating",
+     "morph": "m.abl.sg+f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable extending the same principle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evekṣurasasya",
+     "gloss": "also-of-sugarcane-juice",
+     "grounds": "fused sandhi form eva+ikṣurasasya; includes sugarcane juice",
+     "morph": "indecl.+compound+m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are honey and sugarcane juice purified?",
+   "premises": [
+    "Honey can require purification",
+    "Sugarcane juice can require purification",
+    "Cooking purifies these substances"
+   ],
+   "inference": "Honey and likewise sugarcane juice are purified by cooking",
+   "uncertainties": [],
+   "plain_english": "Honey is purified by cooking, and likewise sugarcane juice also."
+  },
+  {
+   "verse": 3446,
+   "rows": [
+    {
+     "surface": "kvathitaṃ",
+     "gloss": "boiled",
+     "grounds": "describes milk made pure by boiling",
+     "morph": "n.nom.sg.past-pass.part (kvath)"
+    },
+    {
+     "surface": "śuddhyate",
+     "gloss": "becomes-pure",
+     "grounds": "states purification result",
+     "morph": "3.sg.pass.pres (śudh)"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "substance purified by boiling",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pakvānāṃ",
+     "gloss": "of-cooked-things",
+     "grounds": "genitive plural referring to cooked foods",
+     "morph": "n.gen.pl.past-pass.part (pac)"
+    },
+    {
+     "surface": "prokṣaṇādapi",
+     "gloss": "from-sprinkling-also",
+     "grounds": "fused sandhi form prokṣaṇāt+api; indicates purification by sprinkling as well",
+     "morph": "n.abl.sg+indecl."
+    }
+   ],
+   "question": "How are milk and cooked foods purified?",
+   "premises": [
+    "Milk can be purified by boiling",
+    "Cooked foods can require purification",
+    "Sprinkling purifies cooked foods"
+   ],
+   "inference": "Milk becomes pure when boiled, and cooked foods are purified by sprinkling",
+   "uncertainties": [],
+   "plain_english": "Milk becomes pure when boiled, and cooked foods are purified also by sprinkling."
+  },
+  {
+   "verse": 3447,
+   "rows": [
+    {
+     "surface": "parebhyo",
+     "gloss": "to-others",
+     "grounds": "dative indicating recipients of harm",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "duḥkham",
+     "gloss": "suffering",
+     "grounds": "object indicating harm caused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpādya",
+     "gloss": "having-caused",
+     "grounds": "absolutive indicating act of bringing about suffering",
+     "morph": "indecl. (ā-pad, caus.)"
+    },
+    {
+     "surface": "vāṅmanaḥkāyakarmabhiḥ",
+     "gloss": "by-speech-mind-body-actions",
+     "grounds": "compound instrumental indicating actions of speech, mind, and body",
+     "morph": "compound+n.ins.pl"
+    }
+   ],
+   "question": "What wrongful act is described as causing suffering to others through speech, mind, and body?",
+   "premises": [
+    "Suffering can be caused to others",
+    "Actions occur through speech, mind, and body",
+    "Causing suffering by these means is identified"
+   ],
+   "inference": "The verse identifies causing suffering to others by speech, mind, and bodily actions as a fault",
+   "uncertainties": [
+    "The verse states the act but the consequent expiation may be given in the following verse"
+   ],
+   "plain_english": "Having caused suffering to others by actions of speech, mind, and body..."
+  },
+  {
+   "verse": 3448,
+   "rows": [
+    {
+     "surface": "samayānāṃ",
+     "gloss": "of-observances",
+     "grounds": "genitive plural referring to vows or observances",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pramāde",
+     "gloss": "in-negligence",
+     "grounds": "locative indicating lapse or carelessness",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktijāpaḥ",
+     "gloss": "power-recitation",
+     "grounds": "compound referring to recitation of śakti; exact mantra unspecified",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "states recommended remedy",
+     "morph": "3.sg.pass.pres (pra-śaṃs)"
+    }
+   ],
+   "question": "What remedy is praised for negligence in maintaining prescribed observances?",
+   "premises": [
+    "Negligence can occur in observances",
+    "A remedial recitation is available",
+    "Recitation of śakti is praised"
+   ],
+   "inference": "In cases of negligence regarding observances, recitation of śakti is praised as the remedy",
+   "uncertainties": [
+    "The specific śakti mantra intended is not identified in this verse"
+   ],
+   "plain_english": "But in the case of negligence regarding observances, recitation of śakti is praised."
+  },
+  {
+   "verse": 3449,
+   "rows": [
+    {
+     "surface": "gurudevāgnikāryeṣu",
+     "gloss": "in-guru-deity-fire-rites",
+     "grounds": "compound locative plural referring to rites for guru, deity, and fire",
+     "morph": "compound+n.loc.pl"
+    },
+    {
+     "surface": "garhitasya",
+     "gloss": "of-forbidden-thing",
+     "grounds": "genitive referring to something blameworthy or prohibited",
+     "morph": "n.gen.sg.past-pass.part (garh)"
+    },
+    {
+     "surface": "nivedanāt",
+     "gloss": "from-offering",
+     "grounds": "ablative indicating act of presenting or offering",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What fault arises from offering something forbidden in rites for guru, deity, and fire?",
+   "premises": [
+    "Rites for guru, deity, and fire have rules",
+    "Forbidden things may be wrongly offered",
+    "Offering a forbidden thing constitutes a fault"
+   ],
+   "inference": "Offering something forbidden in rites for the guru, deity, and fire is identified as a fault requiring remedy",
+   "uncertainties": [
+    "The verse states the cause of fault but the prescribed expiation may follow in subsequent verses"
+   ],
+   "plain_english": "From offering something forbidden in rites for the guru, the deity, and the fire..."
+  }
+ ]
+}

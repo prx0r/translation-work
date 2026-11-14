@@ -1,17 +1,13 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3432,
- "question": "What width may be half of the door height in a temple?",
+ "question": "What form of purification applies to water vessels?",
  "premises": [
-  "door height is specified",
-  "half of that is specified",
-  "may be is specified",
-  "width is specified",
-  "in temple is specified"
+  "Water vessels require purification",
+  "Purification can take a ritual form",
+  "Carrying fire around is prescribed"
  ],
- "inference": "The temple door width may be half of the door height.",
- "uncertainties": [
-  "exact unit"
- ],
- "plain_english": "Door height; half of that may be the width in the temple."
+ "inference": "The purification of water vessels consists in carrying fire around them",
+ "uncertainties": [],
+ "plain_english": "The purification of water vessels consists in carrying fire around them."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3445,
- "question": "What first measure should be calculated excluding finger cut?",
+ "question": "How are honey and sugarcane juice purified?",
  "premises": [
-  "excluding finger cut is specified",
-  "first measure is specified",
-  "should calculate is specified"
+  "Honey can require purification",
+  "Sugarcane juice can require purification",
+  "Cooking purifies these substances"
  ],
- "inference": "The first measure should be calculated while excluding finger cut.",
- "uncertainties": [
-  "exact calculation"
- ],
- "plain_english": "Excluding finger cut, first measure should be calculated."
+ "inference": "Honey and likewise sugarcane juice are purified by cooking",
+ "uncertainties": [],
+ "plain_english": "Honey is purified by cooking, and likewise sugarcane juice also."
 }

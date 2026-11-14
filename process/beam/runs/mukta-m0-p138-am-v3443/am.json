@@ -1,18 +1,15 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3443,
- "question": "What may be thus in wide measure by six, seven, or eight parts?",
+ "question": "What agents purify stone vessels and greasy vessels respectively?",
  "premises": [
-  "in wide too is specified",
-  "thus is specified",
-  "may be is specified",
-  "by six seven eight parts is specified",
-  "but is specified",
-  "or is specified"
+  "Stone vessels require purification",
+  "Greasy vessels require purification",
+  "Water and churned whey are prescribed as agents"
  ],
- "inference": "In wide measure, it may be thus by six, seven, or eight parts.",
+ "inference": "Stone vessels are purified by water, and greasy vessels by churned whey",
  "uncertainties": [
-  "choice among parts"
+  "The syntactic distribution across verses 3443–3444 is split; the full predicate appears in the next verse"
  ],
- "plain_english": "In wide too, thus may be by six, seven, eight parts, but or."
+ "plain_english": "Stone vessels are purified with water, and with churned whey..."
 }

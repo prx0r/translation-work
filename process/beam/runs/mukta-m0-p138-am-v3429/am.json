@@ -1,17 +1,13 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3429,
- "question": "What lotus and paṭṭa-lotus proportions are declared by one?",
+ "question": "What substances purify bronze and copper vessels respectively?",
  "premises": [
-  "paṭṭa-lotus is mentioned",
-  "then one part is mentioned",
-  "lotus is mentioned",
-  "by one is mentioned",
-  "declared is mentioned"
+  "Different metals require different purifying agents",
+  "Ash purifies bronze",
+  "A sour substance purifies copper"
  ],
- "inference": "A paṭṭa-lotus and a lotus are declared with one-part measure.",
- "uncertainties": [
-  "exact relation of one to lotus"
- ],
- "plain_english": "Paṭṭa-lotus, then one part; lotus by one is declared."
+ "inference": "Bronze is purified by ash, while copper is purified by a sour substance",
+ "uncertainties": [],
+ "plain_english": "Bronze is purified with ash, and copper becomes pure with a sour substance."
 }
