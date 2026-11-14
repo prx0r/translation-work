@@ -3,39 +3,34 @@
  "verse": 4383,
  "rows": [
   {
-   "lemma": "ānatiḥ",
-   "morph": "f.nom.sg",
-   "grounds": "token as given"
+   "lemma": "maṇi",
+   "morph": "maṇi+muktā+pravāla (compound)",
+   "grounds": "first item in list"
   },
   {
-   "lemma": "caturaṃśā",
-   "morph": "f.nom.sg",
-   "grounds": "token as given"
+   "lemma": "muktā",
+   "morph": "maṇi+muktā+pravāla (compound)",
+   "grounds": "second item in list"
   },
   {
-   "lemma": "tu",
+   "lemma": "pravālānāṃ",
+   "morph": "n.gen.pl",
+   "grounds": "third item, genitive plural"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "token as given"
+   "grounds": "negation"
   },
   {
-   "lemma": "liṅgaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "lemma": "kāryam",
+   "morph": "gerundive.n.nom.sg",
+   "grounds": "gerundive of prohibition"
   },
   {
-   "lemma": "vṛttam",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
-  },
-  {
-   "lemma": "ṛju",
-   "morph": "(indecl.)",
-   "grounds": "token as given"
-  },
-  {
-   "lemma": "sthiram",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "lemma": "amalārciṇām",
+   "morph": "amala+arcin (compound) m.gen.pl",
+   "grounds": "genitive of agent/context"
   }
  ]
 }

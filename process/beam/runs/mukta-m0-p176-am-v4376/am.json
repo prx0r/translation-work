@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p176",
  "verse": 4376,
- "question": "How many parts define the position at the breast-side boundary?",
+ "question": "Why must further specification be given despite prior instruction on three-part and six-part divisions?",
  "premises": [
-  "twenty-part measure is used",
-  "three-portion-less modifies it",
-  "position is at breast-side limit"
+  "The matter has already been stated.",
+  "A concession is introduced by 'nevertheless'.",
+  "The present context concerns three-part and six-part divisions."
  ],
- "inference": "The breast-side boundary position is measured by a twenty-part unit reduced by three portions.",
+ "inference": "Prior teaching requires additional specification in this particular divisional context.",
  "uncertainties": [
-  "exact anatomical referent not specified"
+  "The exact referent of the prior statement is not explicit in this verse."
  ],
- "plain_english": "The position at the breast-side boundary is a twenty-part measure less three portions."
+ "plain_english": "Although this has indeed been stated before, here, in the three-part and six-part divisions, further specification is needed."
 }

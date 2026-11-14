@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p176",
  "verse": 4391,
- "question": "What should the third of the second be?",
+ "question": "How should the yoni be arranged when divided into six parts in sequence?",
  "premises": [
-  "of-second is named",
-  "third should-be is stated",
-  "two-four-nine-circumference-joined is named"
+  "A condition concerning the yoni is stated.",
+  "The division is into six parts.",
+  "The arrangement proceeds one by one in order."
  ],
- "inference": "The third of the second should be two-four-nine-circumference-joined.",
- "uncertainties": [
-  "compound parsing ambiguous"
- ],
- "plain_english": "The third of the second should be two-four-nine-circumference-joined."
+ "inference": "If there is a yoni in a six-part division, it should be arranged one by one in sequence.",
+ "uncertainties": [],
+ "plain_english": "If the yoni is in a six-part division, it should be arranged one by one in order."
 }

@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p175",
  "verse": 4368,
- "question": "What lip part is equal by four-parts length?",
+ "question": "How are the side lines and elephant-eye marks positioned from the half-mark?",
  "premises": [
-  "The lip part is equal.",
-  "It is by four-parts length."
+  "The starting point is half of the mark.",
+  "Two side lines are drawn.",
+  "Elephant-eye marks are placed at its front."
  ],
- "inference": "The lip part is equal according to four-parts length.",
- "uncertainties": [
-  "The exact lip is unspecified."
- ],
- "plain_english": "The lip part is equal by four-parts length."
+ "inference": "From half the mark two side lines are drawn, and at their front are placed elephant-eye marks.",
+ "uncertainties": [],
+ "plain_english": "From half the mark, draw two side lines, and at their front place the elephant-eye marks."
 }
