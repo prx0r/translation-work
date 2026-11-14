@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "rudrākṣaiḥ",
+     "gloss": "with-rudraksha-beads",
+     "grounds": "instrumental plural indicating the material of the garland",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kaṇṭhamālā",
+     "gloss": "neck-garland",
+     "grounds": "compound denoting a garland worn on the neck",
+     "morph": "kaṇṭha+mālā, f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking adornments",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhasmanā",
+     "gloss": "with-sacred-ash",
+     "grounds": "instrumental singular indicating the adorning substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking adornments",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhūṣitam",
+     "gloss": "adorned",
+     "grounds": "past passive participle describing the adorned form",
+     "morph": "ppp.nom.sg.n, vi-√bhūṣ"
+    }
+   ],
+   "question": "Which sacred materials complete the adornment of the depicted divine form?",
+   "premises": [
+    "A neck-garland is made of rudraksha beads.",
+    "Sacred ash is applied as an adorning substance.",
+    "Both elements together characterize the form as adorned."
+   ],
+   "inference": "The divine form is fully adorned with a rudraksha neck-garland and sacred ash.",
+   "uncertainties": [],
+   "plain_english": "Adorned with a neck-garland of rudraksha beads and with sacred ash."
+  }
+ ]
+}

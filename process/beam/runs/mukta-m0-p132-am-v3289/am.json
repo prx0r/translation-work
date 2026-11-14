@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3289,
- "question": "How is the liquor enhanced in this preparation step?",
+ "question": "Where is the stalk of the head-wheel positioned relative to the forehead band?",
  "premises": [
-  "Honey is added.",
-  "It is added in one part.",
-  "The liquor is thereby increased or enhanced."
+  "The forehead band is a reference point.",
+  "The head-wheel has a stalk.",
+  "The stalk is located at the front of that band."
  ],
- "inference": "The liquor is enhanced by adding one part honey.",
- "uncertainties": [],
- "plain_english": "And it is increased by one part of honey."
+ "inference": "The stalk of the head-wheel is positioned at the front of the forehead band.",
+ "uncertainties": [
+  "The verse is terse and may depend on adjacent verses for full syntax."
+ ],
+ "plain_english": "At the front of the forehead band is the stalk of the head-wheel."
 }

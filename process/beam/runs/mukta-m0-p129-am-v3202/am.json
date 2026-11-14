@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p129",
  "verse": 3202,
- "question": "What recitation count enables the completion of the full bathing rite?",
+ "question": "What is placed on the right side and held by Gauri's right hand in this placement rule?",
  "premises": [
-  "The aghora mantra is to be recited.",
-  "The recitation count specified is three hundred.",
-  "The complete bathing rite must be brought to completion."
+  "right side is specified as location",
+  "prior hand is named as object",
+  "held by Gauri's right hand is stated"
  ],
- "inference": "After chanting the aghora mantra three hundred times, one should complete the full bathing.",
- "uncertainties": [],
- "plain_english": "Having chanted the aghora mantra three hundred times, one should carry out the complete bathing."
+ "inference": "On the right, the prior hand is to be held by Gauri's right hand.",
+ "uncertainties": [
+  "Exact parsing of gaurīdakṣiṇahastadhṛt as compound ending is uncertain in surface form."
+ ],
+ "plain_english": "On the right, the prior hand indeed is held by Gauri's right hand."
 }

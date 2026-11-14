@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p129",
  "verse": 3203,
- "question": "What ritual actions must precede the proper completion of the altar rite?",
+ "question": "Which implements are held on the right and on the left in this arrangement?",
  "premises": [
-  "The aghora mantra is involved in the rite.",
-  "A thousand offerings or recitations are prescribed.",
-  "The altar rite must be conducted as previously prescribed."
+  "axe is placed on the right",
+  "on the left the other is stated",
+  "black deer is held"
  ],
- "inference": "After offering with the aghora mantra a thousand times, one should conduct the altar rite as prescribed.",
- "uncertainties": [],
- "plain_english": "Having offered with the aghora mantra a thousand times, one should carry out the altar rite as prescribed."
+ "inference": "An axe is on the right; on the left, the other holds a black deer.",
+ "uncertainties": [
+  "Referent of pare (other side/person) is not explicit in this verse alone."
+ ],
+ "plain_english": "On the right an axe; on the left, the other, a black deer is held."
 }

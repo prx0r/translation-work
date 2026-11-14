@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3300,
- "question": "What beneficial powers are attributed to the neem-born entity?",
+ "question": "What specific attribute must be held in the left hand in this iconographic prescription?",
  "premises": [
-  "The neem-born entity is characterized as prosperity-giving.",
-  "The neem-born entity is characterized as disease-destroying.",
-  "These attributes define its beneficial effects."
+  "The left side is the locus specified for this attribute.",
+  "The object prescribed is a peacock feather.",
+  "The peacock feather is characterized as cool and held."
  ],
- "inference": "The neem-born entity both grants prosperity and destroys disease.",
- "uncertainties": [],
- "plain_english": "The neem-born one grants prosperity and destroys disease."
+ "inference": "Therefore, a cool peacock feather must be held in the left hand.",
+ "uncertainties": [
+  "Whether vāme refers specifically to the left hand or more generally to the left side is inferred from the preceding context."
+ ],
+ "plain_english": "And in the left hand, a cool peacock feather should be held."
 }

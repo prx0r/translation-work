@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p129",
  "verse": 3209,
- "question": "What modification to aghora mantra recitation is required as a constant remedy?",
+ "question": "How are the ladle and spoon held in the prior hand and in the other-left hand in order?",
  "premises": [
-  "The aghora mantra is to be chanted.",
-  "The recitation is to be done always.",
-  "The recitation amount is to be doubled."
+  "ladle and spoon are named",
+  "held in prior hand is stated",
+  "held in other-left hand in order is stated"
  ],
- "inference": "One should always chant with the aghora mantra and should chant double the amount.",
- "uncertainties": [],
- "plain_english": "One should always chant with the aghora mantra, and should chant it in double measure."
+ "inference": "The ladle and spoon are held in the prior hand and in the other-left hand in order.",
+ "uncertainties": [
+  "Exact referent of vāmetare is context-dependent."
+ ],
+ "plain_english": "The ladle and spoon but held in the prior hand, in the other-left hand in order."
 }
