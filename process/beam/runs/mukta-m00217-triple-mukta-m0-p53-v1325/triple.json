@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "āmnāyaṃ",
+     "gloss": "teaching-tradition",
+     "grounds": "accusative object of worship in this clause; refers to the received teaching/recitation corpus named in context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "contrastive/sequence particle marking the next step after the prior worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjyātha",
+     "gloss": "after-worshipping-then",
+     "grounds": "fused verbal form given as one token (prapūjya + atha in sense); marks completion of worship followed by sequence",
+     "morph": "gerund+indecl."
+    },
+    {
+     "surface": "samyagāyatanaṃ",
+     "gloss": "proper-shrine",
+     "grounds": "accusative object of worship; qualified as properly established/place of worship (samyak + āyatana)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "injunctive/optative instruction for the rite to be performed",
+     "morph": "3.sg.act.opt of yaj"
+    }
+   ],
+   "question": "What sequence of worship is prescribed after the prior northern deities have been honored in this rite?",
+   "premises": [
+    "The received teaching-tradition is named as an object of worship in this step.",
+    "Worship of that teaching-tradition is to be completed before the next act.",
+    "A properly established shrine is then designated as the next object of worship."
+   ],
+   "inference": "One should first complete worship of the āmnāya and then proceed to worship the proper shrine.",
+   "uncertainties": [
+    "Exact scope of āmnāya here (which transmission corpus) is not specified by these tokens alone."
+   ],
+   "plain_english": "Then, after worshipping the teaching-tradition, one should worship the proper shrine."
+  }
+ ]
+}

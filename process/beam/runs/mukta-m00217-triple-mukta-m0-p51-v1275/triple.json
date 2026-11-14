@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "dūrvāvarṇā",
+     "gloss": "dūrvā-grass-colored",
+     "grounds": "bahuvrīhi compound describing complexion",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "trinetrāṃ",
+     "gloss": "three-eyed",
+     "grounds": "bahuvrīhi compound describing the deity",
+     "morph": "compound:f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāsiṃhāsanāsanām",
+     "gloss": "seated-on-great-lion-throne",
+     "grounds": "bahuvrīhi compound indicating seat",
+     "morph": "compound:f.acc.sg"
+    }
+   ],
+   "question": "What complexion, ocular feature, and seat further define this deity's manifested form?",
+   "premises": [
+    "The deity is described as having the color of dūrvā grass.",
+    "The deity is described as three-eyed.",
+    "The deity is described as seated upon a great lion-throne."
+   ],
+   "inference": "These attributes complete the visual iconography of the deity being invoked or contemplated.",
+   "uncertainties": [
+    "The specific deity named in the immediate context is not explicit in this verse alone."
+   ],
+   "plain_english": "She is the color of dūrvā grass, three-eyed, and seated upon a great lion-throne."
+  }
+ ]
+}

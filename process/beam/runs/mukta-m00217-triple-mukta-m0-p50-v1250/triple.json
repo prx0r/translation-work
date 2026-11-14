@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "pūjayāmi",
+     "gloss": "i-worship",
+     "grounds": "first-person declaration of worship",
+     "morph": "1.sg.act-pres.ind + √pūj"
+    },
+    {
+     "surface": "namaścoktvā",
+     "gloss": "and-having-said-salutation",
+     "grounds": "sandhi fusion namaḥ+ca+uktvā; gerund of uttering obeisance",
+     "morph": "indecl. gerund + √vac"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-opt + √yaj"
+    },
+    {
+     "surface": "pañcopacārakaiḥ",
+     "gloss": "with-five-offerings",
+     "grounds": "instrumental of means specifying five ritual upacāras",
+     "morph": "m.inst.pl (compound: pañca+upacāraka)"
+    }
+   ],
+   "question": "What verbal declarations and ritual offerings constitute the prescribed act of worship?",
+   "premises": [
+    "The worshipper utters the declaration 'I worship'.",
+    "The worshipper also utters a salutation before proceeding.",
+    "The prescribed worship is to be performed with five upacāras."
+   ],
+   "inference": "The act of worship is constituted by explicit verbal declaration, salutation, and ritual performance using five offerings.",
+   "uncertainties": [
+    "The specific identity of the five upacāras is not stated in this verse."
+   ],
+   "plain_english": "Saying 'I worship' and having uttered salutation, one should perform worship with the five offerings."
+  }
+ ]
+}
