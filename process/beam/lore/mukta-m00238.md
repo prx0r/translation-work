@@ -1,24 +1,43 @@
-# Transmission brief — śrītattvanidhiḥ (M00238)
+# Transmission brief — Śrītattvanidhi (M00238)
 
-*Pass-1 brief (grounded 2026-11-13 in the Muktabodha bibliography record + the tradition ground). 4675 verses. Pass-2 may add edition scholarship; this scaffold is factual, not web-collated.*
+*Tradition (authority map): **Tantranibandha** (a tantric compendium). Researched
+brief; it QUOTES other texts — the citation layers are the main trap.*
 
-## A. FACTS
+## 1. WHAT IT IS
+A **tantric nidhi/compendium** ("treasury of the sacred tattvas"): a digest
+that gathers doctrine and ritual from earlier tantras. Its authority is
+compilatory — it arranges received teaching. Expect quoted verses and summary
+prose side by side.
 
-- **Work:** śrītattvanidhiḥ — catalogue M00238.
-- **Author/attributed:** kṛṣṇarāja vodeyar.
-- **Extent:** 4675 verses (Muktabodha e-text).
-- **Tradition:** Tantranibandha.
-- **Known translation: M. Madaiah (chief editor; English translators not individually identified in library record) (1997).**
-- **Genre:** instructional treatise.
+## 2. MOVES TO LOOK FOR
+1. **Quotation vs authorial glue** — distinguish cited verse from the
+   compiler's connecting prose.
+2. **Tattva/ritual taxonomy** — the organising scheme of the digest.
+3. **Source attribution** — where the compiler names his authorities.
+4. **Cross-text harmonisation** — the compiler may reconcile schools.
 
-## B. TRAPS
+## 3. TRAPS
+1. **Do not attribute quoted doctrine to this text's author** — it is cited
+   material; mark the quotation boundary in the argmap/L2.
+2. **Lists and tables** are the substance; preserve order/count.
+3. **Mantra bytes** where ritual is quoted — exact.
+4. **Compendium scope** — no single doctrinal frame; follow the quoted source's
+   frame per passage, don't impose one system.
 
-1. **Flat dictionary glosses.** Technical terms are load-bearing; gloss by function in situ, never by a single generic English word.
-2. **Genre first.** Read as instructional treatise: identify genre from title/colophon; gloss in the text's own terms.
-3. **Mantra material.** Bīja syllables are transliterated, never 'translated'; keep them byte-exact.
+## 4. APPROACH
+Chunk by topic, not blindly by 25 verses, where the compiler's section shifts.
+C1-essence names what the digest is establishing and from whom. Flag quotation
+boundaries in argmap uncertainties.
 
-## C. APPROACH
+## A. BIBLIOGRAPHIC FACTS
+- Catalogue **M00238**; title **śrītattvanidhiḥ**; tradition **Tantranibandha**.
+- A compilatory digest; author/date/extent UNVERIFIED here. Key to witness
+  markers.
 
-Chunk 25 verses/passage; T1 labeled verses (≤25/call), coverage gate ≥0.85, seed 12–24v triples. Minimal gold = T1/L0/argmap/L2/C1-essence (L3/L4 waived). Record undecidable terms in L0 grounds rather than smoothing them.
+## D. TRAPS (scholarly)
+- Compendia are the hardest to score on alignment because quotation and glue
+  interleave; do not treat the whole passage as one voice.
 
-**Ledger (LOCK):** nibandha = encyclopedic citation-compilation; mahāvidyā = the ten goddesses; prayoga = applied mantra ritual; paśu/vīra/divya = practitioner grades.
+**Ledger (LOCK):** nidhi = treasury/compendium; tattva = category/principle;
+nibandha = digest; quotation boundary = where the compiler cites a source
+(distinguish from his own prose).

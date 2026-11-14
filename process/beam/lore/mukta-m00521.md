@@ -1,22 +1,49 @@
-# Transmission brief — dāśarathīyatantram (M00521)
+# Transmission brief — Dāśarathīyatantra (M00521)
 
-*Pass-1 brief (grounded 2026-11-13 in the Muktabodha bibliography record + the tradition ground). 10890 verses. Pass-2 may add edition scholarship; this scaffold is factual, not web-collated.*
+*Tradition (Muktabodha authority map): **Vaiṣṇava General**. Researched brief
+for beam drafting. Where a fact is not collated it is marked UNVERIFIED — do
+not smooth it into the gloss.*
 
-## A. FACTS
+## 1. WHAT IT IS
+A **Vaiṣṇava tantra** of the Rāma (Dāśarathī = "son of Daśaratha") stream:
+mantra-centred worship of Rāma/Viṣṇu with initiation and ritual sequences.
+Read it as revelation/dialogue, not as philosophy prose; the deliverable is
+faithful ritual and mantra text.
 
-- **Work:** dāśarathīyatantram — catalogue M00521.
-- **Extent:** 10890 verses (Muktabodha e-text).
-- **Tradition:** Vaiṣṇava General.
-- **Genre:** tantric revelation.
+## 2. MOVES TO LOOK FOR
+1. **Rāma/Viṣṇu as mantra-deity** — the deity is present in the mantra, not
+   only as an avatāra story; gloss the mantra-function.
+2. **Initiation and eligibility** — who may receive the mantra, guru role.
+3. **Ritual sequences** — snāna, nyāsa, pūjā, japa, homa, ṣaṭkarma-type acts.
+4. **Protective/purificatory formulas** — often numbered lists.
 
-## B. TRAPS
+## 3. TRAPS
+1. **Mantra bytes are load-bearing** — bīja and name-mantras (`rāma`,
+   `rāmāya`, `oṃ`, `namaḥ`) are transliterated, NEVER "translated"; keep exact.
+2. **Vaiṣṇava vs Śākta vocabulary overlap** — same words (śakti, dīkṣā,
+   mudrā) carry different sense here; gloss by this text's usage.
+3. **Numbered ritual lists** — gloss each member; a dropped member breaks the
+   rite's inference.
+4. **Dialogue attribution** — keep speaker (Śiva/Ādiśeṣa/Nārada/etc. as the
+   text gives them); never merge voices in L2.
 
-1. **Flat dictionary glosses.** Technical terms are load-bearing; gloss by function in situ, never by a single generic English word.
-2. **Genre first.** Read as tantric revelation: dialogue revelation with ritual doctrine; keep speaker attribution.
-3. **Mantra material.** Bīja syllables are transliterated, never 'translated'; keep them byte-exact.
+## 4. APPROACH
+Verse/chunk dialogue. Coverage before sharpness; every pada faced. C1-essence
+per passage names what the rite DOES to the worshipper's relation to Rāma.
+Record undecidable terms (rare mantra-names, local ritual items) in L0 grounds
+rather than guessing.
 
-## C. APPROACH
+## A. BIBLIOGRAPHIC FACTS
+- Catalogue **M00521**; title **dāśarathīyatantram**; tradition **Vaiṣṇava
+  General** (authority map).
+- Extent and edition not collated here — key to the e-text's own markers,
+  never to a printed chapter number. UNVERIFIED: author, date, recension.
 
-Chunk 25 verses/passage; T1 labeled verses (≤25/call), coverage gate ≥0.85, seed 12–24v triples. Minimal gold = T1/L0/argmap/L2/C1-essence (L3/L4 waived). Record undecidable terms in L0 grounds rather than smoothing them.
+## D. TRAPS (scholarly)
+- Rāma-mantra texts borrow Śākta ritual frames; do not re-label doctrine as
+  Śākta.
+- Print-numbering variants common in Vaiṣṇava tantras — cite the witness.
 
-**Ledger (LOCK):** vyūha = formation (Vāsudeva/Saṃkarṣaṇa/Pradyumna/ Aniruddha); saṃhitā = scripture (compendium); bhukti = enjoyment; mukti = liberation; dīkṣā = initiation; āgama = the canon.
+**Ledger (LOCK):** dāśarathī = Rāma (son of Daśaratha); mantra = the deity's
+sound-form (transliterate, never translate); dīkṣā = initiation; nyāsa =
+placement; bīja = seed-syllable (byte-exact).

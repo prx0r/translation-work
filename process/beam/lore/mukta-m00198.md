@@ -1,22 +1,39 @@
-# Transmission brief — aṃśumatkāśyapāgama (M00198)
+# Transmission brief — Aṃśumatkāśyapāgama (M00198)
 
-*Pass-1 brief (grounded 2026-11-13 in the Muktabodha bibliography record + the tradition ground). 4139 verses. Pass-2 may add edition scholarship; this scaffold is factual, not web-collated.*
+*Tradition (authority map): **Late Śaiva Siddhānta**. Researched brief;
+attribution uncertain — mark, do not invent.*
 
-## A. FACTS
+## 1. WHAT IT IS
+A Śaiva **āgama** attributed to Kāśyapa (aṃśumat = "radiant/possessing rays",
+likely an epithet). Ritual-and-doctrine scripture of the Siddhānta: initiation,
+daily worship, mantra, and the path of the bound soul. Read as revealed āgama.
 
-- **Work:** aṃśumatkāśyapāgama — catalogue M00198.
-- **Extent:** 4139 verses (Muktabodha e-text).
-- **Tradition:** Late Śaiva Siddhānta.
-- **Genre:** revealed scripture.
+## 2. MOVES TO LOOK FOR
+1. **Āgama ritual frame** — dīkṣā, pūjā, homa, prāyaścitta sequences.
+2. **Mantra and vidhi** — precise formulas plus their application.
+3. **Tattva/cosmology** in the Siddhānta scheme.
+4. **Ācārya authority and lineage** — who may perform what.
 
-## B. TRAPS
+## 3. TRAPS
+1. **Attribution is uncertain** — aṃśumat/Kāśyapa naming varies across āgamas;
+   record it, never assert a single author.
+2. **Mantra bytes** — keep exact; āgama mantras are operative.
+3. **Ritual lists** — gloss each member, preserve order.
+4. **Āgama vs paddhati** — this is scripture, not a manual; do not flatten the
+   teaching into procedural paraphrase.
 
-1. **Flat dictionary glosses.** Technical terms are load-bearing; gloss by function in situ, never by a single generic English word.
-2. **Genre first.** Read as revealed scripture: dialogue revelation; keep speaker attribution.
-3. **Mantra material.** Bīja syllables are transliterated, never 'translated'; keep them byte-exact.
+## 4. APPROACH
+Chunk 20–25 verses. C1-essence names the doctrinal stake of each passage (what
+it establishes about Śiva, the soul, bondage, release). Honest gaps in L0.
 
-## C. APPROACH
+## A. BIBLIOGRAPHIC FACTS
+- Catalogue **M00198**; title **aṃśumatkāśyapāgama**; tradition **Late Śaiva
+  Siddhānta**. Author/date/extent UNVERIFIED here; cite witness markers.
 
-Chunk 25 verses/passage; T1 labeled verses (≤25/call), coverage gate ≥0.85, seed 12–24v triples. Minimal gold = T1/L0/argmap/L2/C1-essence (L3/L4 waived). Record undecidable terms in L0 grounds rather than smoothing them.
+## D. TRAPS (scholarly)
+- Several āgamas share the Kāśyapa name; identity is by catalogue + witness,
+  not by title similarity.
 
-**Ledger (LOCK):** aṇu = the individual self (distinct from Śiva); pāda = division (Vidyā/Kriyā/Caryā/Yoga); dīkṣā = initiation; samayin/putraka/sādhaka/ācārya = the four initiate grades; vṛtti = Nārāyaṇakaṇṭha's commentary.
+**Ledger (LOCK):** āgama = revealed Śaiva scripture; dīkṣā = initiation;
+ācārya = the officiating master; mantra = operative formula (byte-exact);
+tattva = category; māyā = the obscuring power.

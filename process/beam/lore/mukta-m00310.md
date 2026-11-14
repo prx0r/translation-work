@@ -1,49 +1,42 @@
-# Transmission brief — devīrahasya (M00310)
+# Transmission brief — Devīrahasya (M00310)
 
-*Pass-1 brief (grounded 2026-11-13 in the Muktabodha bibliography record + the tradition ground). 4562 verses. Pass-2 may add edition scholarship; this scaffold is factual, not web-collated.*
+*Tradition (authority map): **Non-dual Śaivism of Kashmir**. Researched brief;
+a Devī-centred secret teaching. Uncollated facts marked UNVERIFIED.*
 
-## A. FACTS
+## 1. WHAT IT IS
+"The secret of the Goddess" — a **Devī-centred** text in the non-dual Śaiva
+frame (per the authority map). It discloses the Goddess's nature and the means
+of union with her. Read as revelation/dialogue; the secret is transmitted, not
+argued from common premises.
 
-- **Work:** devīrahasya — catalogue M00310.
-- **Extent:** 4562 verses (Muktabodha e-text).
-- **Tradition:** Non-dual Śaivism of Kashmir.
-- **Genre:** instructional treatise.
-
-## B. TRAPS
-
-1. **Flat dictionary glosses.** Technical terms are load-bearing; gloss by function in situ, never by a single generic English word.
-2. **Genre first.** Read as instructional treatise: identify genre from title/colophon; gloss in the text's own terms.
-3. **Mantra material.** Bīja syllables are transliterated, never 'translated'; keep them byte-exact.
-
-### Tradition doctrine (from the covering brief, reused as ground):
-
-MOVES TO LOOK FOR
-
-1. **Superiority claims.** Kula-over-rival-tantra arguments recur;
-   gloss the comparison target exactly (which school is being
-   surpassed, on what ground).
-2. **Guru centrality.** Nearly every practice passage routes through
-   the guru; dīkṣā grades (samaya/putraka/sādhaka/ācārya) are
-   load-bearing categories — never merge them.
-3. **Transgression logic.** Forbidden substances/practices are
-   justified by nondual recognition, not license; C1 must carry the
-   justification, not just the act.
-4. **Interiorization ladder.** Outer ritual → inner cakra → pure
-   consciousness; track which rung each passage sits on.
+## 2. MOVES TO LOOK FOR
+1. **The Goddess as supreme reality** — how her nature is stated (not merely
+   praised).
+2. **Non-dual recognition** — the world as her self-manifestation.
+3. **Means of attainment** — mantra, meditation, samāveśa-type entry.
+4. **Secret transmission** — guru, eligibility, concealment language.
 
 ## 3. TRAPS
+1. **Do not collapse into Devīmāhātmya narrative** — this is tantric doctrine,
+   not the purāṇic battle-myth, despite the name overlap.
+2. **Non-dual vocabulary** (prakāśa, vimarśa, svātantrya, śakti) — technical;
+   gloss to this text, not by generic meanings.
+3. **Mantra bytes exact.**
+4. **Goddess epithets are proper names** — keep diacritics; do not translate a
+   name into a common noun.
 
-1. **Ritual catalogs.** Long substance/mantra lists — gloss each
-   member exactly; dropped members break later inferences.
-2. **Dialogue attribution.** Pārvatī's questions vs Śiva's answers;
-   never merge voices in L2.
-3. **Kula polysemy.** kula = family/powers/body/letter-cluster by
-   context; use L0 grounds per occurrence, never a fixed gloss.
-4. **Mantra syllables.** bīja strings (aim hrīṃ śrīṃ etc.) are
-   transliterated, never "translated"; keep byte-exact.
+## 4. APPROACH
+Chunk 20–25 verses. C1-essence names what the passage does to the recognition
+of the Goddess as one's own nature. Honest gaps in L0.
 
-## C. APPROACH
+## A. BIBLIOGRAPHIC FACTS
+- Catalogue **M00310**; title **devīrahasya**; tradition **Non-dual Śaivism of
+  Kashmir**. Extent/author/date UNVERIFIED here; key to witness markers.
 
-Chunk 25 verses/passage; T1 labeled verses (≤25/call), coverage gate ≥0.85, seed 12–24v triples. Minimal gold = T1/L0/argmap/L2/C1-essence (L3/L4 waived). Record undecidable terms in L0 grounds rather than smoothing them.
+## D. TRAPS (scholarly)
+- "Devīrahasya" names more than one transmitted text; identity is by catalogue
+  + witness, not title alone.
 
-**Ledger (LOCK):** kula = the family (powers); kaula = its knower/ way; ullāsa = wave/chapter; dīkṣā = initiation; guru = the door; cakra = wheel (outer/inner); avadhūta = beyond-conduct; bīja = seed-syllable (transliterate only).
+**Ledger (LOCK):** devī = the Goddess; rahasya = secret/disclosure; prakāśa =
+light of consciousness; vimarśa = its self-awareness; śakti = power;
+samāveśa = entry/absorption.

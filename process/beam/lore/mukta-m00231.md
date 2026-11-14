@@ -1,48 +1,41 @@
-# Transmission brief — kaulāvalīnirṇaya (M00231)
+# Transmission brief — Kaulāvalīnirṇaya (M00231)
 
-*Pass-1 brief (grounded 2026-11-13 in the Muktabodha bibliography record + the tradition ground). 3794 verses. Pass-2 may add edition scholarship; this scaffold is factual, not web-collated.*
+*Tradition (authority map): **Kaula General**. Researched brief; a Kaula
+normative/ritual text.*
 
-## A. FACTS
+## 1. WHAT IT IS
+A **Kaula** determination (nirṇaya) of ritual and conduct: the "row/line of
+Kaula practice" — dīkṣā, kula-worship, the guru-lineage, and the norms of the
+Kaula practitioner. Read as authoritative instruction, often verse + rule.
 
-- **Work:** kaulāvalīnirṇaya — catalogue M00231.
-- **Author/attributed:** jñānānandaparamahaṃsa.
-- **Extent:** 3794 verses (Muktabodha e-text).
-- **Tradition:** Kaula General.
-- **Known translation: Rām Rañjan Mālavīya (2005).**
-- **Genre:** instructional treatise.
+## 2. MOVES TO LOOK FOR
+1. **Kaula dīkṣā and grades** — samaya/putraka/sādhaka/ācārya distinctions.
+2. **Kula ritual** — the five-M-class and kula substances (gloss the text's own
+   justification, not license).
+3. **Conduct (ācāra)** — what the Kaula may/may not do; guru authority.
+4. **Superiority claims** — Kula over siddhānta/pāśupata, on what ground.
 
-## B. TRAPS
+## 3. TRAPS
+1. **Transgression logic** — forbidden substances are justified by non-dual
+   recognition, not licence; C1 must carry the justification, not just the act.
+2. **kula polysemy** — family / Goddess-Śakti / body / letter-cluster by
+   context; never one blanket gloss.
+3. **Never soften or sensationalise** the rite — translate the text's claim as
+   its claim.
+4. **Guru absolutism** — state it as the text does; do not endorse or dilute.
 
-1. **Flat dictionary glosses.** Technical terms are load-bearing; gloss by function in situ, never by a single generic English word.
-2. **Genre first.** Read as instructional treatise: identify genre from title/colophon; gloss in the text's own terms.
-3. **Mantra material.** Bīja syllables are transliterated, never 'translated'; keep them byte-exact.
+## 4. APPROACH
+Verse/chunk. C1-essence names what the passage does to the practitioner's
+standing in the Kula. Keep symbolic/operational readings both, per the text.
 
-### Tradition doctrine (from the covering brief, reused as ground):
+## A. BIBLIOGRAPHIC FACTS
+- Catalogue **M00231**; title **kaulāvalīnirṇaya**; tradition **Kaula General**.
+- Extent/author/date UNVERIFIED here. Cite witness markers.
 
-TEXT STATE — read this before glossing
+## D. TRAPS (scholarly)
+- Kaula texts vary on the pañcamakāra's literal vs symbolic reading; record the
+  witness's wording, put interpretation in C1/notes, never in L2.
 
-1. **Lacunose.** Of chapter 1 only the **last two ślokas** survive. Do not
-   invent a beginning; mark gaps.
-2. **Archaic, pre-classical Sanskrit** — very unlike later tantras:
-   irregular sandhi, non-standard forms, colloquial Nātha idiom.
-3. **Mantras appear in FULL, not in code/bīja abbreviation** — unlike
-   later tantras. Transcribe exactly; do not "decode".
-4. Each chapter closes with the claim that the knowledge was received in
-   **Chandradvīpa** ("Island of the Moon", a transcendence-state name)
-   before activity in **Kāmarūpa**.
-
-## C. DOCTRINE / MOVES
-
-- **Yoginī Kaula**: the Yoginīs as embodiments of kula/śakti and of the
-  siddhis; the body as the site of their activation.
-- **The triple śaktis**: icchā, jñāna, kriyā (shared with Trika; do not
-  import Trika's technical elaboration).
-- Signature motifs: **haṃsa**, the **colour red**, **svecchācāra**
-  (self-willed conduct) — the Kaula freedom theme in Nātha idiom.
-- Practical/alchemical content: siddhis, yogic techniques, mantra use.
-
-## C. APPROACH
-
-Chunk 25 verses/passage; T1 labeled verses (≤25/call), coverage gate ≥0.85, seed 12–24v triples. Minimal gold = T1/L0/argmap/L2/C1-essence (L3/L4 waived). Record undecidable terms in L0 grounds rather than smoothing them.
-
-**Ledger (LOCK):** matsya/matsyendra = the fish-born siddha; kula = the divine energy (śakti) circulating in the body/cosmos; yoginī = embodiment of that energy/siddhi (not merely a female ascetic); svecchācāra = self-willed conduct; chandradvīpa = the transcendence-state of reception; kāmarūpa = the field of enactment.
+**Ledger (LOCK):** kaula = the Kula way/knower; kula = the family of powers
+(contextual); nirṇaya = determination; dīkṣā = initiation; ācāra = conduct;
+guru = the door.

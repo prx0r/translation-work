@@ -1,22 +1,36 @@
-# Transmission brief — vīrāgama (M00253)
+# Transmission brief — Vīrāgama (M00253)
 
-*Pass-1 brief (grounded 2026-11-13 in the Muktabodha bibliography record + the tradition ground). 3986 verses. Pass-2 may add edition scholarship; this scaffold is factual, not web-collated.*
+*Tradition (authority map): **Late Śaiva Siddhānta**. Researched brief.*
 
-## A. FACTS
+## 1. WHAT IT IS
+A Śaiva **āgama** ("hero-āgama", vīra-āgama): revealed scripture of the
+Siddhānta — initiation, worship, mantra, and the doctrine of Śiva and the
+bound soul. Read as revealed teaching; dense ritual-and-doctrine prose.
 
-- **Work:** vīrāgama — catalogue M00253.
-- **Extent:** 3986 verses (Muktabodha e-text).
-- **Tradition:** Late Śaiva Siddhānta.
-- **Genre:** revealed scripture.
+## 2. MOVES TO LOOK FOR
+1. **Dīkṣā and ritual order** — initiation variants, their conditions.
+2. **Mantra and vidhi** — operative formulas and application.
+3. **Tattva and cosmology** in the Siddhānta scheme.
+4. **Ācārya and community norms** — who officiates, who is eligible.
 
-## B. TRAPS
+## 3. TRAPS
+1. **Mantra bytes exact** — āgama mantras are performative.
+2. **Ritual lists** — preserve order/count; each member doctrinal.
+3. **Siddhānta terminology** — māyā, kañcuka, tattva, paśu, pati with precise
+   Siddhānta senses; do not import Trika usage.
+4. **Edition numbering** — key to the witness, never a printed chapter.
 
-1. **Flat dictionary glosses.** Technical terms are load-bearing; gloss by function in situ, never by a single generic English word.
-2. **Genre first.** Read as revealed scripture: dialogue revelation; keep speaker attribution.
-3. **Mantra material.** Bīja syllables are transliterated, never 'translated'; keep them byte-exact.
+## 4. APPROACH
+Chunk 20–25 verses; T1 coverage first. C1-essence states the doctrinal stake
+(what is established about Śiva, bondage, release, the rite's efficacy).
 
-## C. APPROACH
+## A. BIBLIOGRAPHIC FACTS
+- Catalogue **M00253**; title **vīrāgama**; tradition **Late Śaiva Siddhānta**.
+- Extent/author/date UNVERIFIED here; cite witness markers.
 
-Chunk 25 verses/passage; T1 labeled verses (≤25/call), coverage gate ≥0.85, seed 12–24v triples. Minimal gold = T1/L0/argmap/L2/C1-essence (L3/L4 waived). Record undecidable terms in L0 grounds rather than smoothing them.
+## D. TRAPS (scholarly)
+- Several āgamas treat "vīra" rites; do not merge with Kaula vīra-practice.
 
-**Ledger (LOCK):** aṇu = the individual self (distinct from Śiva); pāda = division (Vidyā/Kriyā/Caryā/Yoga); dīkṣā = initiation; samayin/putraka/sādhaka/ācārya = the four initiate grades; vṛtti = Nārāyaṇakaṇṭha's commentary.
+**Ledger (LOCK):** āgama = revealed Śaiva scripture; vīra = hero (title sense
+per witness); dīkṣā = initiation; ācārya = officiant; mantra = formula
+(byte-exact); māyā = obscuring power.

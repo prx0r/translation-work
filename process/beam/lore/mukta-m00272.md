@@ -1,22 +1,42 @@
-# Transmission brief — acintyaviśvasādākhyam (M00272)
+# Transmission brief — Acintyaviśvasādākhya (M00272)
 
-*Pass-1 brief (grounded 2026-11-13 in the Muktabodha bibliography record + the tradition ground). 6341 verses. Pass-2 may add edition scholarship; this scaffold is factual, not web-collated.*
+*Tradition (authority map): **Late Śaiva Siddhānta**. Researched brief; the
+work is cited in Kashmir Śaiva literature — read it in its own Siddhānta frame.*
 
-## A. FACTS
+## 1. WHAT IT IS
+A Śaiva tantra whose name means roughly "the doctrine of the inconceivable
+universe" (acintya-viśva-sādākhya). It teaches the nature and emergence of the
+world from Śiva — cosmology, tattvas, mantra, and the means of liberation.
+Read as revealed teaching; expect dense doctrinal compounds.
 
-- **Work:** acintyaviśvasādākhyam — catalogue M00272.
-- **Extent:** 6341 verses (Muktabodha e-text).
-- **Tradition:** Late Śaiva Siddhānta.
-- **Genre:** instructional treatise.
+## 2. MOVES TO LOOK FOR
+1. **Cosmology / emanation** — how the universe arises and is pervaded.
+2. **Tattva and category lists** — ordered, technical.
+3. **Śiva–śakti relation** — the non-dual(Siddhānta) frame to hold.
+4. **Means (upāya) and initiation** — how the bound soul is released.
 
-## B. TRAPS
+## 3. TRAPS
+1. **Dense compounds** — split by grammar, not by English convenience; keep
+   the Sanskrit order in T1 tokens.
+2. **Tattva lists** — count and order are doctrine; never reorder.
+3. **Siddhānta vs Trika vocabulary** — same terms (śakti, māyā, tattva) with
+   different systematic place; gloss to THIS text.
+4. **Quotation** — the work is quoted by later authors; do not import their
+   glosses into L2.
 
-1. **Flat dictionary glosses.** Technical terms are load-bearing; gloss by function in situ, never by a single generic English word.
-2. **Genre first.** Read as instructional treatise: identify genre from title/colophon; gloss in the text's own terms.
-3. **Mantra material.** Bīja syllables are transliterated, never 'translated'; keep them byte-exact.
+## 4. APPROACH
+Chunk 20–25 verses; T1 coverage first. C1-essence names what the passage does
+to the account of the world's reality. Record unresolved technical terms in L0
+grounds.
 
-## C. APPROACH
+## A. BIBLIOGRAPHIC FACTS
+- Catalogue **M00272**; title **acintyaviśvasādākhyam**; tradition **Late Śaiva
+  Siddhānta**. Extent/edition UNVERIFIED here; key to witness markers.
 
-Chunk 25 verses/passage; T1 labeled verses (≤25/call), coverage gate ≥0.85, seed 12–24v triples. Minimal gold = T1/L0/argmap/L2/C1-essence (L3/L4 waived). Record undecidable terms in L0 grounds rather than smoothing them.
+## D. TRAPS (scholarly)
+- The title is also transmitted in variant forms; do not normalise the lemma.
+- Cited in Kashmir Śaiva works — cross-tradition citation is not identity.
 
-**Ledger (LOCK):** aṇu = the individual self (distinct from Śiva); pāda = division (Vidyā/Kriyā/Caryā/Yoga); dīkṣā = initiation; samayin/putraka/sādhaka/ācārya = the four initiate grades; vṛtti = Nārāyaṇakaṇṭha's commentary.
+**Ledger (LOCK):** acintya = inconceivable; viśva = universe; sādākhya =
+the doctrine/teaching (per title); tattva = category; māyā = the
+differentiating power; dīkṣā = initiation.

@@ -1,23 +1,43 @@
-# Transmission brief — merutantra (M00195)
+# Transmission brief — Merutantra (M00195)
 
-*Pass-1 brief (grounded 2026-11-13 in the Muktabodha bibliography record + the tradition ground). 14263 verses. Pass-2 may add edition scholarship; this scaffold is factual, not web-collated.*
+*Tradition (authority map): **Śrīvidyā**. Researched brief. Uncollated facts
+marked UNVERIFIED.*
 
-## A. FACTS
+## 1. WHAT IT IS
+A large **Śrīvidyā / Śākta tantra** — Tripurasundarī (Rajarājeśvarī) worship:
+Śrīcakra, mantra-kūṭas, initiation, cosmology, ritual. Encyclopedic in scope;
+read as revelation dialogue (Śiva–Pārvatī frame typical of the corpus).
 
-- **Work:** merutantra — catalogue M00195.
-- **Extent:** 14263 verses (Muktabodha e-text).
-- **Tradition:** Śrīvidyā.
-- **Known translation: Kapil Dev Nārāyaṇ (2021).**
-- **Genre:** tantric revelation.
+## 2. MOVES TO LOOK FOR
+1. **Śrīcakra / śrīyantra** — the nine-avaraṇa geometry and its deities.
+2. **Mantra-kūṭa** — bālā, pañcadaśī, ṣoḍaśī structures; each syllable
+   load-bearing.
+3. **Initiation grades** — eligibility, guru transmission of the mantra.
+4. **Cosmology and tattva lists** — the Śākta emanation scheme.
 
-## B. TRAPS
+## 3. TRAPS
+1. **Śrīvidyā jargon is technical, not decorative**: kūṭa, bīja, avaraṇa,
+   cakra, mudrā, vidyā carry precise senses — gloss by function.
+2. **Mantras byte-exact** — never translate a bīja; never "correct" a
+   long/short vowel.
+3. **Nested lists** (tattvas, avaraṇas, deities) — keep order and count.
+4. **Symbolic vs operational** readings of ritual (wine, kula substances) —
+   gloss the verse's own words; put symbolic readings in C1/notes, not L2.
 
-1. **Flat dictionary glosses.** Technical terms are load-bearing; gloss by function in situ, never by a single generic English word.
-2. **Genre first.** Read as tantric revelation: dialogue revelation with ritual doctrine; keep speaker attribution.
-3. **Mantra material.** Bīja syllables are transliterated, never 'translated'; keep them byte-exact.
+## 4. APPROACH
+Chunk 20–25 verses. C1-essence names what the passage does to the sādhaka's
+identity with Tripurasundarī. Flag contested dating/edition in notes.
 
-## C. APPROACH
+## A. BIBLIOGRAPHIC FACTS
+- Catalogue **M00195**; title **merutantra**; tradition **Śrīvidyā**.
+- A Śākta tantra of encyclopedic scope (cosmology, mantra, ritual). Extent,
+  author, date UNVERIFIED here — cite the witness's own markers.
 
-Chunk 25 verses/passage; T1 labeled verses (≤25/call), coverage gate ≥0.85, seed 12–24v triples. Minimal gold = T1/L0/argmap/L2/C1-essence (L3/L4 waived). Record undecidable terms in L0 grounds rather than smoothing them.
+## D. TRAPS (scholarly)
+- Śrīvidyā mantras differ by school (pañcadaśī vs ṣoḍaśī ordering) — never
+  harmonise; record the form the witness prints.
+- Do not import Tantrasāra/Kashmir terminology where the text is Śrīvidyā.
 
-**Ledger (LOCK):** yoginī = the goddess; śrīcakra = the diagram (Tripurasundarī with Bhairava); śrīvidyā = the sixteen-syllable mantra; kūṭa = mantra division (vāgbhava/kāmarāja/śakti); dīpikā = Amṛtānanda's commentary; setubandha = Bhāskararāya's commentary.
+**Ledger (LOCK):** śrīcakra = the goddess's diagram-body; kūṭa = mantra-block;
+bīja = seed-syllable (transliterate only); avaraṇa = enclosure/ring;
+dīkṣā = initiation; vidyā = the mantra-wisdom.
