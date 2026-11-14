@@ -3,24 +3,29 @@
  "verse": 1675,
  "rows": [
   {
-   "lemma": "vṛttābhogamidaṃ",
-   "morph": "compound(vṛtta+ābhoga)+idam.pron.n.nom.sg",
-   "grounds": "fused form of compound vṛtta-ābhoga with demonstrative idam, referring to the circular arrangement described"
+   "lemma": "māheśvaraṃ",
+   "morph": "adj.acc.sg.n",
+   "grounds": "accusative singular neuter adjective qualifying vacanaṃ"
   },
   {
-   "lemma": "proktaṃ",
-   "morph": "ppp.n.nom.sg(pra-√vac)",
-   "grounds": "past passive participle indicating what has been stated"
+   "lemma": "śrutvā",
+   "morph": "abs(śru)",
+   "grounds": "absolutive of śru expressing prior action"
   },
   {
-   "lemma": "grāmādau",
-   "morph": "compound(grāma+ādi).m.loc.sg",
-   "grounds": "locative of compound grāma-ādi indicating village and similar contexts"
+   "lemma": "vacanaṃ",
+   "morph": "n.acc.sg.n",
+   "grounds": "accusative singular neuter object of śrutvā"
   },
   {
-   "lemma": "saṃprayojayet",
-   "morph": "3.sg.opt.act(sam-pra-√yuj)",
-   "grounds": "optative expressing prescriptive application"
+   "lemma": "viṣṇuḥ",
+   "morph": "m.nom.sg",
+   "grounds": "nominative singular masculine subject of abravīt"
+  },
+  {
+   "lemma": "abravīt",
+   "morph": "3.sg.act.impf(brū)",
+   "grounds": "third person singular imperfect active of brū"
   }
  ]
 }

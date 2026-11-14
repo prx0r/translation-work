@@ -3,29 +3,44 @@
  "verse": 1564,
  "rows": [
   {
-   "lemma": "aṣṭābhiḥ",
-   "morph": "m.inst.pl",
-   "grounds": "multiplier in the sequence"
+   "lemma": "śrīparṇī",
+   "morph": "compound-member",
+   "grounds": "first material named"
   },
   {
-   "lemma": "ca",
+   "lemma": "candana",
+   "morph": "compound-member",
+   "grounds": "second material named"
+  },
+  {
+   "lemma": "ādīnām",
+   "morph": "m.gen.pl",
+   "grounds": "extends the list of materials"
+  },
+  {
+   "lemma": "adhikaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "possible surplus in materials"
+  },
+  {
+   "lemma": "cet",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "introduces a condition"
   },
   {
-   "lemma": "krameṇa",
-   "morph": "m.inst.sg",
-   "grounds": "sequential progression"
-  },
-  {
-   "lemma": "eva",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "negates fault"
   },
   {
-   "lemma": "kanyasa+ādi+vibhedataḥ",
-   "morph": "compound=m.abl.sg",
-   "grounds": "classification from smallest onward"
+   "lemma": "doṣa",
+   "morph": "compound-member",
+   "grounds": "potential defect"
+  },
+  {
+   "lemma": "kṛt",
+   "morph": "n.nom.sg",
+   "grounds": "indicates producing fault"
   }
  ]
 }
