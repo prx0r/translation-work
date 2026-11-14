@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p238",
+ "items": [
+  {
+   "verse": 5950,
+   "rows": [
+    {
+     "surface": "tripuṇḍradhāraṇaṃ",
+     "gloss": "three-line-wearing",
+     "grounds": "action of wearing the three ash lines; object of kuryāt",
+     "morph": "n.acc.sg (compound tripuṇḍra-dhāraṇa)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "location of the tripuṇḍra application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcākṣareṇa",
+     "gloss": "with-five-syllable-mantra",
+     "grounds": "instrumental means accompanying the application",
+     "morph": "n.inst.sg (compound pañca-akṣara)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects this application to the preceding ritual acts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what mantra must the wearing of tripuṇḍra on the head be performed?",
+   "premises": [
+    "The prepared ash is to be ritually applied.",
+    "The application consists of wearing tripuṇḍra on the head.",
+    "This wearing is to be performed with the five-syllable mantra."
+   ],
+   "inference": "Therefore, the ritual wearing of tripuṇḍra on the head must be carried out using the five-syllable mantra.",
+   "uncertainties": [
+    "The specific identity of the pañcākṣara mantra is not stated in this verse."
+   ],
+   "plain_english": "One should also apply the tripuṇḍra on the head using the five-syllable mantra."
+  }
+ ]
+}

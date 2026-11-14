@@ -3,29 +3,39 @@
  "verse": 5689,
  "rows": [
   {
-   "lemma": "kuṇḍāni",
-   "morph": "n.acc.pl",
-   "grounds": "objects to be prepared"
-  },
-  {
-   "lemma": "navapañcaika",
-   "morph": "compound:nava+pañca+eka+first",
-   "grounds": "compound expressing numerical options"
-  },
-  {
-   "lemma": "saṃkhyayā",
-   "morph": "f.inst.sg",
-   "grounds": "instrumental indicating count"
-  },
-  {
-   "lemma": "tatra",
+   "lemma": "tato",
    "morph": "(indecl.)",
-   "grounds": "locative adverb indicating place"
+   "grounds": "sequence marker"
   },
   {
-   "lemma": "kārayet",
-   "morph": "3.sg.act.optative.causative;√kṛ",
-   "grounds": "causative prescriptive instruction"
+   "lemma": "astreṇa",
+   "morph": "n.inst.sg",
+   "grounds": "instrumental mantra"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "mantrajñaḥ",
+   "morph": "m.nom.sg (compound=mantra+jña)",
+   "grounds": "qualified agent"
+  },
+  {
+   "lemma": "karoti",
+   "morph": "3.sg.present.act (√kṛ)",
+   "grounds": "active ritual action"
+  },
+  {
+   "lemma": "astra",
+   "morph": "compound-member (astra+caturdiśaḥ)",
+   "grounds": "first member of directional compound"
+  },
+  {
+   "lemma": "caturdiśaḥ",
+   "morph": "f.acc.pl (compound=catur+diś)",
+   "grounds": "directional application of the weapon"
   }
  ]
 }

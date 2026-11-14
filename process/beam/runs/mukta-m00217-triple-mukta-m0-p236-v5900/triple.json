@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p236",
+ "items": [
+  {
+   "verse": 5900,
+   "rows": [
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the previously described sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "sequence",
+     "grounds": "ritual order or method",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "mahā+devī (compound, f.voc.sg)"
+    },
+    {
+     "surface": "trilokeṣu",
+     "gloss": "in-three-worlds",
+     "grounds": "locative indicating scope across all realms",
+     "morph": "tri+loka (compound, m.loc.pl)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of existence or availability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "states non-existence of the sequence in the given scope",
+     "morph": "3.sg.pass-pres √vid"
+    }
+   ],
+   "question": "Can this specific ritual sequence be found anywhere in the three worlds?",
+   "premises": [
+    "A specific ritual sequence is addressed to the great goddess.",
+    "The three worlds constitute the entire scope of consideration.",
+    "This sequence is not found within the three worlds."
+   ],
+   "inference": "The declared ritual sequence is unique and unparalleled across all realms.",
+   "uncertainties": [
+    "The exact referent of 'this sequence' depends on the preceding verses."
+   ],
+   "plain_english": "O great goddess, this sequence is not found anywhere in the three worlds."
+  }
+ ]
+}
