@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2096,
- "question": "How should Garuḍa and other divine vehicles be ritually treated?",
+ "question": "Which numbered parts are named for the rite?",
  "premises": [
-  "Garuḍa is treated in the same way.",
-  "He and other vehicles are addressed with their own mantras."
+  "Sixteen-part is named",
+  "Ten-part is named",
+  "Eighteen is named"
  ],
- "inference": "Garuḍa and other vehicles should be worshipped likewise using their respective mantras.",
- "uncertainties": [],
- "plain_english": "Garuḍa too should be treated in the same way with his own mantra, and likewise other vehicles as well."
+ "inference": "The verse lists numbered ritual parts",
+ "uncertainties": [
+  "exact parts"
+ ],
+ "plain_english": "Sixteen-part, or ten-part, with eighteen."
 }

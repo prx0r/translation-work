@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2085,
- "question": "In what ritual context must practitioners properly establish the liṅga?",
+ "question": "Which additional locations include the Ganges womb and women's circle?",
  "premises": [
-  "The context is mantra accomplishment practices.",
-  "Practitioners must have the liṅga well established in that context."
+  "Ganges womb is named",
+  "Pond is named",
+  "Women's circle is named"
  ],
- "inference": "Proper establishment by practitioners is required within mantra accomplishment practices.",
- "uncertainties": [],
- "plain_english": "When it has been well established by practitioners in the practices of mantra accomplishment,"
+ "inference": "The verse extends possible ritual locations",
+ "uncertainties": [
+  "meaning of Ganges womb"
+ ],
+ "plain_english": "In the Ganges womb, in a pond, and even in a women's circle."
 }

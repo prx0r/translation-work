@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2024,
- "question": "What contrasting qualities of appearance and compassion are praised in this salutation?",
+ "question": "Why is there no deliberation about poor or disabled here?",
  "premises": [
-  "The deity is likened to dark collyrium.",
-  "The deity is called kind to devotees.",
-  "Both qualities are offered in salutation."
+  "poor is named",
+  "disabled is named",
+  "no deliberation is stated"
  ],
- "inference": "The deity is praised as dark in appearance yet compassionate to devotees.",
- "uncertainties": [],
- "plain_english": "Salutation to you, who resemble collyrium; salutation to you, who are kind to devotees."
+ "inference": "The verse says poor or disabled should not be here, with no deliberation.",
+ "uncertainties": [
+  "social rule unclear"
+ ],
+ "plain_english": "Poor or disabled should not be here; no deliberation."
 }

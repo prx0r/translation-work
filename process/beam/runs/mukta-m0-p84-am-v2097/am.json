@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2097,
- "question": "What initial acts should the ritual performer carry out in this sequence?",
+ "question": "Which incense substances such as guggul and devadaru are named?",
  "premises": [
-  "The performer should worship the guru and others.",
-  "The performer should also attend to the altar ground in sequence."
+  "Guggul is named",
+  "Iron arrow is named",
+  "Resin is named"
  ],
- "inference": "The ritual sequence begins with worship of the guru and preparation involving the altar ground.",
- "uncertainties": [],
- "plain_english": "The performer should worship the guru and others, and then attend to the altar ground."
+ "inference": "The verse lists incense substances",
+ "uncertainties": [
+  "role of iron arrow"
+ ],
+ "plain_english": "Guggul, iron arrow, and resin, and devadaru."
 }

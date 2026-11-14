@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "pūrṇābhiṣekahīnānāṃ",
+     "gloss": "full-abhiṣeka-deprived",
+     "grounds": "compound of pūrṇa, abhiṣeka, and hīna; genitive plural adjective modifying paśūnām",
+     "morph": "adj.gen.pl.m"
+    },
+    {
+     "surface": "paśūnāṃ",
+     "gloss": "of-beasts",
+     "grounds": "genitive plural of paśu",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "japa",
+     "gloss": "japa",
+     "grounds": "nominative singular noun naming the prescribed practice",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What practice is prescribed for paśu practitioners who lack full abhiṣeka?",
+   "premises": [
+    "paśus lacking full abhiṣeka are addressed",
+    "japa is the prescribed practice for them",
+    "eva emphasizes japa alone"
+   ],
+   "inference": "For paśus without full abhiṣeka, japa alone is enjoined.",
+   "uncertainties": [
+    "whether ca adds another practice or merely connects clauses",
+    "exact scope of pūrṇābhiṣeka in this context"
+   ],
+   "plain_english": "For beasts lacking full abhiṣeka, japa alone is prescribed."
+  }
+ ]
+}

@@ -1,0 +1,1018 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2076,
+   "rows": [
+    {
+     "surface": "taruṇaṃ",
+     "gloss": "young",
+     "grounds": "adjective describing the hero",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sundaraṃ",
+     "gloss": "beautiful",
+     "grounds": "adjective describing the hero",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūraṃ",
+     "gloss": "heroic",
+     "grounds": "adjective describing the hero",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃmukhe+rasavartinam",
+     "gloss": "facing-juice-flowing",
+     "grounds": "compound adjective in accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which qualities describe the hero who faces the flowing juice?",
+   "premises": [
+    "The hero is young",
+    "The hero is beautiful",
+    "The hero is heroic"
+   ],
+   "inference": "The verse lists the hero's qualities before the rite",
+   "uncertainties": [
+    "exact ritual referent of juice-flowing"
+   ],
+   "plain_english": "Young, beautiful, heroic, facing the flowing juice."
+  },
+  {
+   "verse": 2077,
+   "rows": [
+    {
+     "surface": "yaṣṭi+viddhaṃ",
+     "gloss": "stick-struck",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūla+viddhaṃ",
+     "gloss": "spear-struck",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarpa+daṣṭaṃ",
+     "gloss": "snake-bitten",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "payaḥ+mṛtam",
+     "gloss": "water-dead",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which kinds of death or injury are named for the corpse?",
+   "premises": [
+    "Stick-struck is named",
+    "Spear-struck is named",
+    "Snake-bitten is named"
+   ],
+   "inference": "The verse enumerates violent or accidental deaths",
+   "uncertainties": [
+    "whether water-dead means drowned"
+   ],
+   "plain_english": "Stick-struck, spear-struck, snake-bitten, water-dead."
+  },
+  {
+   "verse": 2078,
+   "rows": [
+    {
+     "surface": "śīghra+siddhi+pradaṃ",
+     "gloss": "quick-success-giving",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pūrva+ukta+aṣṭa+śavaṃ",
+     "gloss": "previously-mentioned-eight-corpses",
+     "grounds": "compound noun phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-abandon",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Which previously mentioned eight corpses should be abandoned for quick success?",
+   "premises": [
+    "Quick success is promised",
+    "The eight corpses were previously mentioned",
+    "One should abandon them"
+   ],
+   "inference": "The verse commands abandonment of the eight corpses",
+   "uncertainties": [
+    "exact list of eight corpses"
+   ],
+   "plain_english": "For quick success, O goddess, abandon the previously mentioned eight corpses."
+  },
+  {
+   "verse": 2079,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "noun object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "bali+dravyāṇi",
+     "gloss": "offering-substances",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "one-should-bring",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be brought after making the forehead mark as before?",
+   "premises": [
+    "The forehead mark is made as before",
+    "Offering substances are brought",
+    "The bringing is commanded"
+   ],
+   "inference": "The verse prescribes bringing offering substances",
+   "uncertainties": [
+    "exact substances"
+   ],
+   "plain_english": "Having made the forehead mark as before, one should bring the offering substances."
+  },
+  {
+   "verse": 2080,
+   "rows": [
+    {
+     "surface": "pratijñām",
+     "gloss": "vow",
+     "grounds": "noun object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "īdṛśīṃ",
+     "gloss": "such",
+     "grounds": "demonstrative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "bali+dravyāṇi",
+     "gloss": "offering-substances",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "saṃgrahet",
+     "gloss": "one-should-collect",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be collected after making such a vow?",
+   "premises": [
+    "A vow is made",
+    "Offering substances are involved",
+    "One should collect them"
+   ],
+   "inference": "The verse commands collecting offering substances",
+   "uncertainties": [
+    "scope of such vow"
+   ],
+   "plain_english": "Having made such a vow, one should collect the offering substances."
+  },
+  {
+   "verse": 2081,
+   "rows": [
+    {
+     "surface": "guḍa+pāyasa+saṃpātaḥ",
+     "gloss": "molasses-milk-rice-mixture",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "modakān",
+     "gloss": "sweet-cakes",
+     "grounds": "noun object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pūpa+laḍḍukān",
+     "gloss": "cakes-and-balls",
+     "grounds": "compound noun",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which food offerings are named for the rite?",
+   "premises": [
+    "A molasses milk rice mixture is named",
+    "Sweet cakes are named",
+    "Cakes and balls are named"
+   ],
+   "inference": "The verse lists food offerings",
+   "uncertainties": [
+    "exact preparation"
+   ],
+   "plain_english": "Molasses milk rice mixture, sweet cakes, cakes and balls."
+  },
+  {
+   "verse": 2082,
+   "rows": [
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "noun object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "one-should-bring",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tāmbūla+ādyaiḥ",
+     "gloss": "with-betel-etc",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "samanvitaḥ",
+     "gloss": "accompanied",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should be brought with betel and accompanying items?",
+   "premises": [
+    "Fruits should be brought",
+    "Betel and similar items accompany",
+    "The goddess is addressed"
+   ],
+   "inference": "The verse commands bringing fruits with betel",
+   "uncertainties": [
+    "exact accompanying items"
+   ],
+   "plain_english": "O goddess, one should bring fruits, accompanied with betel and so forth."
+  },
+  {
+   "verse": 2083,
+   "rows": [
+    {
+     "surface": "kastūrī+kuṅkuma+ādīni",
+     "gloss": "musk-saffron-etc",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "bhakṣya+dravyāṇi",
+     "gloss": "edible-substances",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which edible substances such as musk and saffron are included?",
+   "premises": [
+    "Musk and saffron are named",
+    "Edible substances are named",
+    "A relative clause follows"
+   ],
+   "inference": "The verse lists fragrant edible offerings",
+   "uncertainties": [
+    "complete list"
+   ],
+   "plain_english": "Musk, saffron, and other edible substances."
+  },
+  {
+   "verse": 2084,
+   "rows": [
+    {
+     "surface": "bilva+mūle",
+     "gloss": "at-bilva-root",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prāntare",
+     "gloss": "in-wilderness",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnya+āgāre",
+     "gloss": "in-empty-house",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nadī+taṭe",
+     "gloss": "on-river-bank",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where may the rite be performed according to the listed places?",
+   "premises": [
+    "Bilva root is named",
+    "Wilderness is named",
+    "Empty house is named"
+   ],
+   "inference": "The verse gives possible ritual locations",
+   "uncertainties": [
+    "whether all are alternatives"
+   ],
+   "plain_english": "At bilva root, in wilderness, or in an empty house, on a river bank."
+  },
+  {
+   "verse": 2085,
+   "rows": [
+    {
+     "surface": "gaṅgā+garbhe",
+     "gloss": "in-Ganges-womb",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "taḍāge",
+     "gloss": "in-pond",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāminī+maṇḍale",
+     "gloss": "in-women's-circle",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional locations include the Ganges womb and women's circle?",
+   "premises": [
+    "Ganges womb is named",
+    "Pond is named",
+    "Women's circle is named"
+   ],
+   "inference": "The verse extends possible ritual locations",
+   "uncertainties": [
+    "meaning of Ganges womb"
+   ],
+   "plain_english": "In the Ganges womb, in a pond, and even in a women's circle."
+  },
+  {
+   "verse": 2086,
+   "rows": [
+    {
+     "surface": "vīra+veṣaṃ",
+     "gloss": "hero-attire",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāsādya",
+     "gloss": "having-assumed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vīra+sādhanam",
+     "gloss": "hero-practice",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be performed after assuming hero attire?",
+   "premises": [
+    "Hero attire is assumed",
+    "Hero practice is named",
+    "Performance is commanded"
+   ],
+   "inference": "The verse links attire to hero practice",
+   "uncertainties": [
+    "exact attire"
+   ],
+   "plain_english": "Having assumed hero attire, one should perform hero practice."
+  },
+  {
+   "verse": 2087,
+   "rows": [
+    {
+     "surface": "sārdha+yāma+uttaraṃ",
+     "gloss": "after-one-and-a-half-watch",
+     "grounds": "compound adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vīra+sādhanam",
+     "gloss": "hero-practice",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "When should hero practice be performed according to the watch?",
+   "premises": [
+    "After one and a half watch is stated",
+    "The goddess is addressed",
+    "Hero practice is commanded"
+   ],
+   "inference": "The verse sets a time for hero practice",
+   "uncertainties": [
+    "length of watch"
+   ],
+   "plain_english": "O goddess, after one and a half watch, one should perform hero practice."
+  },
+  {
+   "verse": 2088,
+   "rows": [
+    {
+     "surface": "daśa+dikṣu",
+     "gloss": "in-ten-directions",
+     "grounds": "compound locative",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-throw",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dik+pālebhyaḥ",
+     "gloss": "to-direction-guardians",
+     "grounds": "compound dative",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "noun accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "one-should-take",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be thrown in ten directions and taken to guardians?",
+   "premises": [
+    "Ten directions are named",
+    "Throwing is commanded",
+    "Offering is taken to guardians"
+   ],
+   "inference": "The verse prescribes directional offering",
+   "uncertainties": [
+    "exact offering"
+   ],
+   "plain_english": "O goddess, one should throw in ten directions and take the offering to the direction guardians."
+  },
+  {
+   "verse": 2089,
+   "rows": [
+    {
+     "surface": "vidyā+maṇḍala+mārgeṇa",
+     "gloss": "by-mantra-circle-path",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mahā+vidyā+ādi+mārgataḥ",
+     "gloss": "by-great-mantra-path",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "By which mantra circle and great mantra paths is the rite approached?",
+   "premises": [
+    "Mantra circle path is named",
+    "Great mantra path is named"
+   ],
+   "inference": "The verse names ritual paths",
+   "uncertainties": [
+    "exact path distinction"
+   ],
+   "plain_english": "By the mantra circle path and by the great mantra path."
+  },
+  {
+   "verse": 2090,
+   "rows": [
+    {
+     "surface": "rājarājeśvarāyai",
+     "gloss": "to-Rajarajeshvari",
+     "grounds": "dative noun",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "noun accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "one-should-give",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "To whom should the offering be given with effort?",
+   "premises": [
+    "Rajarajeshvari is named",
+    "Offering is named",
+    "Giving with effort is commanded"
+   ],
+   "inference": "The verse commands offering to Rajarajeshvari",
+   "uncertainties": [
+    "exact offering"
+   ],
+   "plain_english": "Then one should give the offering with effort to Rajarajeshvari."
+  },
+  {
+   "verse": 2091,
+   "rows": [
+    {
+     "surface": "baṭuka+yoginī+kṣetrapāla+gāṇapa+mūrtaye",
+     "gloss": "to-Batuka-Yogini-Kshetrapala-Ganapa-form",
+     "grounds": "compound dative",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "To which combined form is the offering directed?",
+   "premises": [
+    "Batuka is named",
+    "Yogini is named",
+    "Kshetrapala is named"
+   ],
+   "inference": "The verse names a combined recipient form",
+   "uncertainties": [
+    "exact form"
+   ],
+   "plain_english": "To the form of Batuka, Yogini, Kshetrapala, and Ganapa."
+  },
+  {
+   "verse": 2092,
+   "rows": [
+    {
+     "surface": "bali+dāne",
+     "gloss": "in-offering-giving",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vīra+sādhanam",
+     "gloss": "hero-practice",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be performed after worshipping in offering giving?",
+   "premises": [
+    "Offering giving is named",
+    "Worship is performed",
+    "Hero practice is commanded"
+   ],
+   "inference": "The verse links offering worship to hero practice",
+   "uncertainties": [
+    "exact worship"
+   ],
+   "plain_english": "Having worshipped in offering giving, one should perform hero practice."
+  },
+  {
+   "verse": 2093,
+   "rows": [
+    {
+     "surface": "kajjala+añjanaṃ",
+     "gloss": "lampblack-ointment",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tailaṃ",
+     "gloss": "oil",
+     "grounds": "noun accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kastūrī+kuṅkuma+anvitam",
+     "gloss": "with-musk-saffron",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which ointment and oil with musk and saffron are named?",
+   "premises": [
+    "Lampblack ointment is named",
+    "Oil is named",
+    "Musk and saffron accompany"
+   ],
+   "inference": "The verse lists cosmetic or ritual substances",
+   "uncertainties": [
+    "exact use"
+   ],
+   "plain_english": "Lampblack ointment, oil, with musk and saffron."
+  },
+  {
+   "verse": 2094,
+   "rows": [
+    {
+     "surface": "vīraṃ",
+     "gloss": "hero",
+     "grounds": "noun accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃkṣālya",
+     "gloss": "having-washed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kāreṇena",
+     "gloss": "with-water",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should the hero be washed according to the verse?",
+   "premises": [
+    "The hero is washed",
+    "Effort is used",
+    "Water is used"
+   ],
+   "inference": "The verse commands washing the hero with water",
+   "uncertainties": [
+    "exact water"
+   ],
+   "plain_english": "O lady of gods, having washed the hero with effort and water."
+  },
+  {
+   "verse": 2095,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "lavaṅga+ela+ādi+saṃyutaḥ",
+     "gloss": "with-clove-cardamom-etc",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should be given with effort and clove cardamom etc?",
+   "premises": [
+    "Giving is commanded",
+    "Effort is used",
+    "Clove and cardamom accompany"
+   ],
+   "inference": "The verse commands giving with spices",
+   "uncertainties": [
+    "exact gift"
+   ],
+   "plain_english": "O lady of gods, having given with effort, with clove, cardamom, and so forth."
+  },
+  {
+   "verse": 2096,
+   "rows": [
+    {
+     "surface": "ṣoḍaśa+aṅgaṃ",
+     "gloss": "sixteen-part",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśa+aṅgaṃ",
+     "gloss": "ten-part",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭādaśa+samanvitam",
+     "gloss": "with-eighteen",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which numbered parts are named for the rite?",
+   "premises": [
+    "Sixteen-part is named",
+    "Ten-part is named",
+    "Eighteen is named"
+   ],
+   "inference": "The verse lists numbered ritual parts",
+   "uncertainties": [
+    "exact parts"
+   ],
+   "plain_english": "Sixteen-part, or ten-part, with eighteen."
+  },
+  {
+   "verse": 2097,
+   "rows": [
+    {
+     "surface": "guggulaṃ",
+     "gloss": "guggul",
+     "grounds": "noun accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "loha+bāṇaḥ",
+     "gloss": "iron-arrow",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rālaḥ",
+     "gloss": "resin",
+     "grounds": "noun nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadārukaḥ",
+     "gloss": "devadaru",
+     "grounds": "noun nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which incense substances such as guggul and devadaru are named?",
+   "premises": [
+    "Guggul is named",
+    "Iron arrow is named",
+    "Resin is named"
+   ],
+   "inference": "The verse lists incense substances",
+   "uncertainties": [
+    "role of iron arrow"
+   ],
+   "plain_english": "Guggul, iron arrow, and resin, and devadaru."
+  },
+  {
+   "verse": 2098,
+   "rows": [
+    {
+     "surface": "māṃsī+nakhaṃ",
+     "gloss": "spikenard-nakha",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "karpūram",
+     "gloss": "camphor",
+     "grounds": "noun accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekam+eva",
+     "gloss": "one-only",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which incense alternatives include spikenard nakha and camphor?",
+   "premises": [
+    "Spikenard nakha is named",
+    "Camphor is named",
+    "One only is stated"
+   ],
+   "inference": "The verse gives incense alternatives",
+   "uncertainties": [
+    "exact choice"
+   ],
+   "plain_english": "O goddess, spikenard nakha, or camphor, one only, or."
+  },
+  {
+   "verse": 2099,
+   "rows": [
+    {
+     "surface": "malaya+udbhava+sāram",
+     "gloss": "Malaya-born-essence",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāyāḥ",
+     "gloss": "of-mantra",
+     "grounds": "genitive noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yugma+bhedataḥ",
+     "gloss": "by-pair-division",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What Malaya-born essence is used by pair division of mantra?",
+   "premises": [
+    "Malaya-born essence is named",
+    "Mantra is named",
+    "Pair division is named"
+   ],
+   "inference": "The verse links essence to mantra pair division",
+   "uncertainties": [
+    "exact essence"
+   ],
+   "plain_english": "Malaya-born essence, and by pair division of mantra."
+  }
+ ]
+}
