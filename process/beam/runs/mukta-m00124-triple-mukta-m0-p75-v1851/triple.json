@@ -1,0 +1,1181 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1851,
+   "rows": [
+    {
+     "surface": "śrīvatsaṃ",
+     "gloss": "srivatsa",
+     "grounds": "name of a layout type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaidikaṃ",
+     "gloss": "vaidika",
+     "grounds": "name of a layout type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nandyāvartaṃ",
+     "gloss": "nandyavarta",
+     "grounds": "name of a layout type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhakam",
+     "gloss": "kumbhaka",
+     "grounds": "name of a layout type",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which specific layout types are enumerated at the beginning of this sequence?",
+   "premises": [
+    "The verse lists named layout types.",
+    "Srivatsa, vaidika, nandyavarta, and kumbhaka are named.",
+    "Conjunctions link these types together."
+   ],
+   "inference": "The sequence begins by enumerating srivatsa, vaidika, nandyavarta, and kumbhaka layouts.",
+   "uncertainties": [],
+   "plain_english": "The layouts named are srivatsa, vaidika, nandyavarta, and kumbhaka."
+  },
+  {
+   "verse": 1852,
+   "rows": [
+    {
+     "surface": "kumbhakaṃ",
+     "gloss": "kumbhaka",
+     "grounds": "name of a layout type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaidikaṃ",
+     "gloss": "vaidika",
+     "grounds": "name of a layout type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍikaṃ",
+     "gloss": "dandika",
+     "grounds": "name of a layout type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb indicating emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which layout types are given particular emphasis in this enumeration?",
+   "premises": [
+    "The verse repeats kumbhaka and vaidika.",
+    "The verse adds dandika to the list.",
+    "The adverb visesatah marks special emphasis."
+   ],
+   "inference": "Kumbhaka, vaidika, and especially dandika are emphasized among the layout types.",
+   "uncertainties": [],
+   "plain_english": "Kumbhaka, vaidika, and especially dandika are mentioned."
+  },
+  {
+   "verse": 1853,
+   "rows": [
+    {
+     "surface": "pūrvāgram",
+     "gloss": "east-facing",
+     "grounds": "orientation of a street",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "uttarāgraṃ",
+     "gloss": "north-facing",
+     "grounds": "orientation of a street",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīthiṃ",
+     "gloss": "street",
+     "grounds": "road or street in the layout",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "action of laying out",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "of-both",
+     "grounds": "refers to two sides or directions",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable planner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should a wise planner orient the street on both sides?",
+   "premises": [
+    "A wise planner performs the layout.",
+    "The street may be made east-facing or north-facing.",
+    "The orientation applies on both sides."
+   ],
+   "inference": "The wise planner should lay out the street facing east or north on both sides.",
+   "uncertainties": [],
+   "plain_english": "The wise planner should make the street face east or north on both sides."
+  },
+  {
+   "verse": 1854,
+   "rows": [
+    {
+     "surface": "ekavīthi+samāyuktaṃ",
+     "gloss": "endowed-with-one-street",
+     "grounds": "compound describing a layout with one street",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "vīthidvaya+samāyutam",
+     "gloss": "endowed-with-two-streets",
+     "grounds": "compound describing a layout with two streets",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "What street configurations are specified as possible layout options?",
+   "premises": [
+    "One configuration has a single street.",
+    "Another configuration has two streets.",
+    "Both are described as endowed with streets."
+   ],
+   "inference": "The layout may be configured with either one street or two streets.",
+   "uncertainties": [],
+   "plain_english": "It may be endowed with one street or with two streets."
+  },
+  {
+   "verse": 1855,
+   "rows": [
+    {
+     "surface": "kartarīkṛta+daṇḍa+ābhaṃ",
+     "gloss": "scissors-shaped-staff-like",
+     "grounds": "compound describing a shape resembling scissors",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active (kṛ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍikam",
+     "gloss": "dandika",
+     "grounds": "name of a layout type",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What alternative form may be given to the dandika layout?",
+   "premises": [
+    "The dandika layout is the object of construction.",
+    "It may be made in a scissors-shaped form.",
+    "The verb prescribes this as an option."
+   ],
+   "inference": "The dandika layout may alternatively be made in a scissors-like shape.",
+   "uncertainties": [],
+   "plain_english": "Or one should make the dandika layout in a shape like scissors."
+  },
+  {
+   "verse": 1856,
+   "rows": [
+    {
+     "surface": "udagagraiḥ",
+     "gloss": "north-facing",
+     "grounds": "orientation of roads",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "number of roads",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "other",
+     "grounds": "additional roads",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārgaiḥ",
+     "gloss": "roads",
+     "grounds": "paths or roads in the layout",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "endowed",
+     "grounds": "provided with",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative-active (bhū)"
+    }
+   ],
+   "question": "How many additional north-facing roads should that layout include?",
+   "premises": [
+    "The layout should be endowed with roads.",
+    "Nine other roads are specified.",
+    "These roads are north-facing."
+   ],
+   "inference": "That layout should be endowed with nine other north-facing roads.",
+   "uncertainties": [],
+   "plain_english": "That layout should be endowed with nine other north-facing roads."
+  },
+  {
+   "verse": 1857,
+   "rows": [
+    {
+     "surface": "paścima+abhimukhaḥ",
+     "gloss": "facing-west",
+     "grounds": "orientation of a person or approach",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇasyāṃ",
+     "gloss": "in-south",
+     "grounds": "direction of exit",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirgamaḥ",
+     "gloss": "exit",
+     "grounds": "point of departure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the exit located when one is facing west?",
+   "premises": [
+    "The orientation described is facing west.",
+    "An exit is specified.",
+    "The exit is located in the south."
+   ],
+   "inference": "When facing west, the exit is in the south.",
+   "uncertainties": [],
+   "plain_english": "When facing west, the exit is in the south."
+  },
+  {
+   "verse": 1858,
+   "rows": [
+    {
+     "surface": "prāṅmukhaḥ",
+     "gloss": "facing-east",
+     "grounds": "orientation of a person or approach",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "change of orientation",
+     "morph": "absolutive (bhū)"
+    },
+    {
+     "surface": "saumya+vīthyā",
+     "gloss": "by-northern-street",
+     "grounds": "street on the northern side",
+     "morph": "f.inst.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirgamaḥ",
+     "gloss": "exit",
+     "grounds": "point of departure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By which street is the exit made after turning to face east?",
+   "premises": [
+    "One becomes facing east thereafter.",
+    "An exit is specified.",
+    "The exit is by the northern street."
+   ],
+   "inference": "After turning to face east, the exit is by the northern street.",
+   "uncertainties": [],
+   "plain_english": "Then, having turned to face east, the exit is by the northern street."
+  },
+  {
+   "verse": 1859,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "refers to the preceding manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal scope",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "grāma+ādīnāṃ",
+     "gloss": "of-villages-and-others",
+     "grounds": "settlements beginning with villages",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "vinirgamaḥ",
+     "gloss": "exit",
+     "grounds": "point of departure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does the prescribed exit pattern apply to all settlements including villages?",
+   "premises": [
+    "The preceding manner is generalized.",
+    "The scope includes all villages and similar settlements.",
+    "An exit is specified for them."
+   ],
+   "inference": "The same exit pattern applies to all settlements, including villages and others.",
+   "uncertainties": [],
+   "plain_english": "In this same way is the exit for all villages and other settlements."
+  },
+  {
+   "verse": 1860,
+   "rows": [
+    {
+     "surface": "tisṛbhiḥ",
+     "gloss": "by-three",
+     "grounds": "number of streets",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "prāṅmukhābhiḥ",
+     "gloss": "east-facing",
+     "grounds": "orientation of streets",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prastaraṃ",
+     "gloss": "prastara",
+     "grounds": "name of a layout type",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.present-passive (kath)"
+    }
+   ],
+   "question": "What layout is designated when three east-facing streets are present?",
+   "premises": [
+    "Three east-facing streets are specified.",
+    "A layout name is given in this context.",
+    "The name given is prastara."
+   ],
+   "inference": "A layout with three east-facing streets is called prastara here.",
+   "uncertainties": [],
+   "plain_english": "Here, a layout with three east-facing streets is called prastara."
+  },
+  {
+   "verse": 1861,
+   "rows": [
+    {
+     "surface": "udīcībhiḥ",
+     "gloss": "with-north-facing",
+     "grounds": "orientation of streets",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "endowed",
+     "grounds": "provided with",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṅmukhābhiḥ",
+     "gloss": "with-east-facing",
+     "grounds": "orientation of streets",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "catasṛbhiḥ",
+     "gloss": "with-four",
+     "grounds": "number of streets",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "What combination of north-facing and east-facing streets defines this layout?",
+   "premises": [
+    "The layout is endowed with north-facing streets.",
+    "It is also endowed with four east-facing streets.",
+    "Both orientations are combined."
+   ],
+   "inference": "This layout combines north-facing streets with four east-facing streets.",
+   "uncertainties": [
+    "The exact number of north-facing streets is not stated explicitly."
+   ],
+   "plain_english": "It is endowed with north-facing streets and with four east-facing streets."
+  },
+  {
+   "verse": 1862,
+   "rows": [
+    {
+     "surface": "ekaviṃśati+saṃkhyātaiḥ",
+     "gloss": "numbering-twenty-one",
+     "grounds": "compound indicating a count of twenty-one",
+     "morph": "m.inst.pl (compound)"
+    },
+    {
+     "surface": "prāṅmukhābhiḥ",
+     "gloss": "with-east-facing",
+     "grounds": "orientation of streets",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "with-five",
+     "grounds": "number of streets",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "What counts of streets are specified in this configuration?",
+   "premises": [
+    "A count of twenty-one is mentioned.",
+    "Five east-facing streets are mentioned.",
+    "Both counts are part of the configuration."
+   ],
+   "inference": "The configuration involves twenty-one and five east-facing streets.",
+   "uncertainties": [
+    "The relation between the twenty-one and the five streets is not fully explicit."
+   ],
+   "plain_english": "With twenty-one and with five east-facing streets."
+  },
+  {
+   "verse": 1863,
+   "rows": [
+    {
+     "surface": "ṣaḍvīthikāṃ",
+     "gloss": "six-streets",
+     "grounds": "a configuration beginning with six streets",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-commenced",
+     "grounds": "starting from",
+     "morph": "absolutive (sam-ā-rabh)"
+    },
+    {
+     "surface": "trayoviṃśatikā+avadhi",
+     "gloss": "up-to-twenty-three",
+     "grounds": "compound indicating an upper limit of twenty-three",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What range of street counts is established for this layout series?",
+   "premises": [
+    "The series begins with six streets.",
+    "The series extends up to twenty-three.",
+    "The range is stated as a limit."
+   ],
+   "inference": "The layout series ranges from six streets up to twenty-three.",
+   "uncertainties": [],
+   "plain_english": "Beginning with six streets and extending up to twenty-three."
+  },
+  {
+   "verse": 1864,
+   "rows": [
+    {
+     "surface": "ṣaḍbhiḥ",
+     "gloss": "with-six",
+     "grounds": "number of streets",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṅmukhābhiḥ",
+     "gloss": "with-east-facing",
+     "grounds": "orientation of streets",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parākaṃ",
+     "gloss": "paraka",
+     "grounds": "name of a layout type",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtyate",
+     "gloss": "is-declared",
+     "grounds": "designation",
+     "morph": "3.sg.present-passive (kīrt)"
+    }
+   ],
+   "question": "What layout name is declared for a configuration with six east-facing streets?",
+   "premises": [
+    "Six east-facing streets are specified.",
+    "A layout name is declared in this context.",
+    "The declared name is paraka."
+   ],
+   "inference": "A layout with six east-facing streets is declared here as paraka.",
+   "uncertainties": [],
+   "plain_english": "Here, a layout with six east-facing streets is declared to be paraka."
+  },
+  {
+   "verse": 1865,
+   "rows": [
+    {
+     "surface": "udaṅmukhābhiḥ",
+     "gloss": "with-north-facing-streets",
+     "grounds": "orientation of streets",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "vīthībhiḥ",
+     "gloss": "with-streets",
+     "grounds": "streets in the layout",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "endowed",
+     "grounds": "provided with",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṅmukha+mārgakaiḥ",
+     "gloss": "with-east-facing-roads",
+     "grounds": "compound describing roads facing east",
+     "morph": "m.inst.pl (compound)"
+    }
+   ],
+   "question": "What combination of street and road orientations characterizes this layout?",
+   "premises": [
+    "The layout is endowed with north-facing streets.",
+    "It is also endowed with east-facing roads.",
+    "Both elements are combined in the layout."
+   ],
+   "inference": "This layout is characterized by north-facing streets together with east-facing roads.",
+   "uncertainties": [],
+   "plain_english": "It is endowed with north-facing streets and with east-facing roads."
+  },
+  {
+   "verse": 1866,
+   "rows": [
+    {
+     "surface": "aṣṭabhiḥ",
+     "gloss": "with-eight",
+     "grounds": "number of roads",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "prāṅmukhaiḥ",
+     "gloss": "with-east-facing",
+     "grounds": "orientation of roads",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mārgaiḥ",
+     "gloss": "with-roads",
+     "grounds": "roads in the layout",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "udīcīnaiḥ",
+     "gloss": "with-north-facing",
+     "grounds": "orientation of additional elements",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates the resulting condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āditaḥ",
+     "gloss": "from-that",
+     "grounds": "from that basis or beginning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What road configuration is established from that point onward?",
+   "premises": [
+    "Eight east-facing roads are specified.",
+    "North-facing elements are also included.",
+    "This configuration is established from that point."
+   ],
+   "inference": "From that point, the configuration includes eight east-facing roads together with north-facing ones.",
+   "uncertainties": [
+    "The exact referent of the north-facing elements is not fully explicit."
+   ],
+   "plain_english": "Then, from that, with eight east-facing roads and with north-facing ones."
+  },
+  {
+   "verse": 1867,
+   "rows": [
+    {
+     "surface": "śrīpratiṣṭhitam",
+     "gloss": "sripratisthita",
+     "grounds": "name of a layout type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "declared designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "refers to that layout",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niṣṭaṃ",
+     "gloss": "established",
+     "grounds": "fixed or settled",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pragṛhyatām",
+     "gloss": "should-be-understood",
+     "grounds": "instruction to grasp",
+     "morph": "3.sg.imperative-passive (pra-grah)"
+    }
+   ],
+   "question": "How should the layout called sripratisthita be understood in this context?",
+   "premises": [
+    "The layout is called sripratisthita.",
+    "This designation is stated as said.",
+    "It should be understood as established in that case."
+   ],
+   "inference": "The layout called sripratisthita should be understood as established in that context.",
+   "uncertainties": [],
+   "plain_english": "It is called sripratisthita; in that case it should be understood as established."
+  },
+  {
+   "verse": 1868,
+   "rows": [
+    {
+     "surface": "śrīvatsam",
+     "gloss": "srivatsa",
+     "grounds": "name of a layout type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirdiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "specified designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+vāstuṣu",
+     "gloss": "in-all-structures",
+     "grounds": "compound indicating all built sites",
+     "morph": "n.loc.pl (compound)"
+    },
+    {
+     "surface": "yogyakam",
+     "gloss": "suitable",
+     "grounds": "fit or appropriate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For which structures is the srivatsa layout declared suitable?",
+   "premises": [
+    "The layout is declared as srivatsa.",
+    "It is described as suitable.",
+    "Its suitability extends to all structures."
+   ],
+   "inference": "The srivatsa layout is declared suitable for all structures.",
+   "uncertainties": [],
+   "plain_english": "The srivatsa layout is declared suitable in all structures."
+  },
+  {
+   "verse": 1869,
+   "rows": [
+    {
+     "surface": "puṣpadanta+ādike",
+     "gloss": "in-pushpadanta-and-others",
+     "grounds": "compound referring to pushpadanta and similar layouts",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatheṣṭaṃ",
+     "gloss": "as-desired",
+     "grounds": "according to preference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāra+sammitam",
+     "gloss": "measured-by-door",
+     "grounds": "compound indicating proportion based on the door",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How may the door measurement be determined in pushpadanta and similar layouts?",
+   "premises": [
+    "Pushpadanta and similar layouts are mentioned.",
+    "Measurement by the door is specified.",
+    "This may be done as desired."
+   ],
+   "inference": "In pushpadanta and similar layouts, the measurement may be determined by the door as desired.",
+   "uncertainties": [],
+   "plain_english": "In pushpadanta and similar layouts, it may be measured by the door as desired."
+  },
+  {
+   "verse": 1870,
+   "rows": [
+    {
+     "surface": "gṛha+vīthi+samāyuktaṃ",
+     "gloss": "endowed-with-house-streets",
+     "grounds": "compound describing streets associated with houses",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaidikam",
+     "gloss": "vaidika",
+     "grounds": "name of a layout type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.present-passive (vac)"
+    }
+   ],
+   "question": "What feature defines the layout that is called vaidika?",
+   "premises": [
+    "This layout is endowed with house streets.",
+    "The layout is given a name.",
+    "The name given is vaidika."
+   ],
+   "inference": "The layout endowed with house streets is called vaidika.",
+   "uncertainties": [],
+   "plain_english": "This layout, endowed with house streets, is called vaidika."
+  },
+  {
+   "verse": 1871,
+   "rows": [
+    {
+     "surface": "pradhānaṃ",
+     "gloss": "principal",
+     "grounds": "primary status",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apradhānaṃ",
+     "gloss": "non-principal",
+     "grounds": "secondary status",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vihitaṃ",
+     "gloss": "prescribed",
+     "grounds": "enjoined or laid down",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the vaidika layout prescribed as principal or non-principal in all contexts?",
+   "premises": [
+    "The layout may be principal or non-principal.",
+    "It is prescribed in this context.",
+    "Its prescription applies everywhere."
+   ],
+   "inference": "The vaidika layout is prescribed everywhere, whether as principal or non-principal.",
+   "uncertainties": [],
+   "plain_english": "Here it is prescribed everywhere, whether as principal or non-principal."
+  },
+  {
+   "verse": 1872,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaidikaṃ",
+     "gloss": "vaidika",
+     "grounds": "name of a layout type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "stated designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "antar+bāhya+vibhāgataḥ",
+     "gloss": "by-inner-outer-division",
+     "grounds": "compound indicating division into inner and outer parts",
+     "morph": "(indecl.) (compound)"
+    }
+   ],
+   "question": "By what structural division is this vaidika layout further defined?",
+   "premises": [
+    "This layout is declared as vaidika.",
+    "A division is specified for it.",
+    "The division is into inner and outer parts."
+   ],
+   "inference": "This vaidika layout is defined by a division into inner and outer parts.",
+   "uncertainties": [],
+   "plain_english": "And this vaidika layout is declared according to the division of inner and outer parts."
+  },
+  {
+   "verse": 1873,
+   "rows": [
+    {
+     "surface": "paritaḥ",
+     "gloss": "on-all-sides",
+     "grounds": "surrounding manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "even or symmetrical",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "action of laying out",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "mārgaiḥ",
+     "gloss": "with-roads",
+     "grounds": "roads in the layout",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūrva+uttara+ānanaiḥ",
+     "gloss": "facing-east-north",
+     "grounds": "compound describing roads facing east and north",
+     "morph": "m.inst.pl (compound)"
+    }
+   ],
+   "question": "How should the roads be arranged around the layout in terms of symmetry and orientation?",
+   "premises": [
+    "The layout should be made equal on all sides.",
+    "Roads are used in the arrangement.",
+    "The roads face east and north."
+   ],
+   "inference": "The layout should be made symmetrical on all sides with roads facing east and north.",
+   "uncertainties": [],
+   "plain_english": "Having made it equal on all sides, with roads facing east and north."
+  },
+  {
+   "verse": 1874,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-laid-out",
+     "grounds": "action of arranging",
+     "morph": "absolutive (vi-dhā)"
+    },
+    {
+     "surface": "vīthiṃ",
+     "gloss": "street",
+     "grounds": "road or street in the layout",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nābhī+ākhyāṃ",
+     "gloss": "called-navel",
+     "grounds": "compound naming the street as nabhi",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "nirgamaiḥ",
+     "gloss": "with-exits",
+     "grounds": "points of departure",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samanvitām",
+     "gloss": "endowed",
+     "grounds": "provided with",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What central street and accompanying features complete this layout arrangement?",
+   "premises": [
+    "A street is laid out in the arrangement.",
+    "The street is called nabhi.",
+    "It is endowed with exits."
+   ],
+   "inference": "The arrangement is completed by laying out the street called nabhi endowed with exits.",
+   "uncertainties": [],
+   "plain_english": "Having laid out the street called nabhi, endowed with exits."
+  }
+ ]
+}

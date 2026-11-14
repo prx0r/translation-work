@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1947,
- "question": "What is the name of this chapter?",
+ "question": "Where should any remaining plot portion be properly completed?",
  "premises": [
-  "The name is stated.",
-  "It is the thirty-ninth.",
-  "It is a chapter."
+  "Intervals between rows are specified as the location.",
+  "The remaining plot portion should be completed there."
  ],
- "inference": "This is the thirty-ninth chapter.",
- "uncertainties": [
-  "The chapter title itself is not given."
- ],
- "plain_english": "Name: the thirty-ninth chapter."
+ "inference": "Any leftover plot portion should be completed in the intervals between rows.",
+ "uncertainties": [],
+ "plain_english": "In the intervals between rows, right there, one should complete the remaining plot portion."
 }

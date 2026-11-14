@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1940,
- "question": "What should be performed after completing the rite from beginning to end?",
+ "question": "What standard numerical divisions are permitted as alternatives?",
  "premises": [
-  "The rite is completed from beginning to end.",
-  "Then expiation is mentioned.",
-  "Thereafter one should perform it."
+  "The numbers thirty-two, twenty-four, sixteen, and twelve are listed.",
+  "They are presented as alternatives."
  ],
- "inference": "Expiation should be performed after completing the rite.",
- "uncertainties": [
-  "The type of expiation is not specified."
- ],
- "plain_english": "Having completed it from beginning to end, then one should perform expiation thereafter."
+ "inference": "Permitted standard divisions include thirty-two, twenty-four, sixteen, or twelve.",
+ "uncertainties": [],
+ "plain_english": "Thirty-two, or twenty-four, sixteen, or indeed twelve."
 }

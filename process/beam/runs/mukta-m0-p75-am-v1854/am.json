@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1854,
- "question": "Is further inquiry needed when Kālī is pleased?",
+ "question": "What street configurations are specified as possible layout options?",
  "premises": [
-  "Kālī is pleased",
-  "no inquiry is to be done here"
+  "One configuration has a single street.",
+  "Another configuration has two streets.",
+  "Both are described as endowed with streets."
  ],
- "inference": "pleased Kālī removes need for further inquiry",
- "uncertainties": [
-  "ritual context of pleasure"
- ],
- "plain_english": "Her Kālī is pleased; no inquiry is to be done here."
+ "inference": "The layout may be configured with either one street or two streets.",
+ "uncertainties": [],
+ "plain_english": "It may be endowed with one street or with two streets."
 }

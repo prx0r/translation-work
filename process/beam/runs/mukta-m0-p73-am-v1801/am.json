@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1801,
- "question": "Which substances are declared as poison in this yantra context?",
+ "question": "What qualities must a place of learning possess according to this prescription?",
  "premises": [
-  "cremation-ground charcoal neem resin poison declared"
+  "A place of learning is the subject under consideration.",
+  "It should be like that previously described.",
+  "It must be endowed with a large army."
  ],
- "inference": "The verse lists substances declared as poison.",
+ "inference": "A place of learning should resemble the prior model and be accompanied by a large army.",
  "uncertainties": [
-  "exact syntactic relation not fully resolved"
+  "The exact referent of 'like that' depends on prior context."
  ],
- "plain_english": "Cremation-ground charcoal, neem resin, and poison are declared."
+ "plain_english": "A place of learning should be like that and endowed with a large army."
 }

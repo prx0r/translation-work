@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1864,
- "question": "Where are hand and foot placed?",
+ "question": "What layout name is declared for a configuration with six east-facing streets?",
  "premises": [
-  "hand is below wrist",
-  "foot is below ankle"
+  "Six east-facing streets are specified.",
+  "A layout name is declared in this context.",
+  "The declared name is paraka."
  ],
- "inference": "the verse gives bodily placement",
- "uncertainties": [
-  "exact gesture"
- ],
- "plain_english": "Hand below the wrist, foot below the ankle."
+ "inference": "A layout with six east-facing streets is declared here as paraka.",
+ "uncertainties": [],
+ "plain_english": "Here, a layout with six east-facing streets is declared to be paraka."
 }

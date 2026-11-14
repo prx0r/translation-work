@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "nāpitānāṃ",
+     "gloss": "of-barbers",
+     "grounds": "refers to the group of barbers whose location is being specified",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dvayepi",
+     "gloss": "in-both-also",
+     "grounds": "fused form dvaye+api; indicates applicability to both alternatives",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "expresses prescribed possibility or option",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "agner",
+     "gloss": "of-fire",
+     "grounds": "refers to Agni, indicating the southeast direction",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "indrasya",
+     "gloss": "of-indra",
+     "grounds": "refers to Indra, indicating the east direction",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative between the two directions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśi",
+     "gloss": "in-direction",
+     "grounds": "locative specifying the spatial placement",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which directional placements are prescribed for the location of barbers?",
+   "premises": [
+    "The verse concerns the placement of barbers.",
+    "Two directional options are associated with Agni and Indra.",
+    "The optative form indicates a prescribed possibility."
+   ],
+   "inference": "The location of barbers may be situated in the direction of Agni or in the direction of Indra.",
+   "uncertainties": [
+    "The exact scope of 'dvayepi' in relation to prior alternatives is context-dependent."
+   ],
+   "plain_english": "For barbers, in both cases, the place may be in the direction of Agni or in the direction of Indra."
+  }
+ ]
+}

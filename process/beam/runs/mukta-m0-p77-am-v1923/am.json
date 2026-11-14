@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p77",
  "verse": 1923,
- "question": "What offerings and homa should be raised as before?",
+ "question": "In which types of sites, apart from brahmin settlements, do these rules apply?",
  "premises": [
-  "two offerings are named",
-  "homa is named",
-  "other items are raised"
+  "Brahmin settlements are excluded as an exception.",
+  "Other sites are included.",
+  "Towns and similar places are specified."
  ],
- "inference": "Two offerings and homa, along with other items, should be raised as before.",
- "uncertainties": [
-  "anyat scope"
- ],
- "plain_english": "Two offerings and homa, and other items, should be raised as before."
+ "inference": "These rules apply in other sites such as towns and similar places, except in brahmin settlements.",
+ "uncertainties": [],
+ "plain_english": "Except in brahmin settlements, these rules apply in other sites such as towns and similar places."
 }

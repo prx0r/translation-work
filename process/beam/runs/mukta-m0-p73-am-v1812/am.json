@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1812,
- "question": "How is the meaning there described?",
+ "question": "Which named categories are listed as the relevant types in this classification?",
  "premises": [
-  "there meaning easy"
+  "Several categories are enumerated.",
+  "The list includes flag, smoke, dog, lion, bull, donkey, and elephant.",
+  "These form a set of types."
  ],
- "inference": "The verse says the meaning there is easy.",
+ "inference": "The categories listed are flag, smoke, dog and lion, bull, and donkey and the best elephant.",
  "uncertainties": [
-  "referent of there implicit"
+  "The technical application of these category names depends on the broader ritual context."
  ],
- "plain_english": "There the meaning is easy."
+ "plain_english": "The categories are flag, smoke, dog and lion, bull, and donkey and the best elephant."
 }

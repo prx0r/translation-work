@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1862,
- "question": "What is to be heard about bathing in this path?",
+ "question": "What counts of streets are specified in this configuration?",
  "premises": [
-  "mañjughoṣa and china path are named",
-  "bathing etc is the topic"
+  "A count of twenty-one is mentioned.",
+  "Five east-facing streets are mentioned.",
+  "Both counts are part of the configuration."
  ],
- "inference": "the verse introduces bathing instructions",
+ "inference": "The configuration involves twenty-one and five east-facing streets.",
  "uncertainties": [
-  "exact path meaning"
+  "The relation between the twenty-one and the five streets is not fully explicit."
  ],
- "plain_english": "In mañjughoṣa, in the china path, hear bathing and so on."
+ "plain_english": "With twenty-one and with five east-facing streets."
 }

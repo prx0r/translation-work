@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1805,
- "question": "What should be written in the eight sections?",
+ "question": "How do the measurements differ across inferior, middle, and superior grades?",
  "premises": [
-  "eight-sections phaṭ-letter write eight-letters"
+  "An inferior grade is specified.",
+  "The level above that is equal to it.",
+  "The superior grade is also defined in relation."
  ],
- "inference": "The verse instructs writing phaṭ letters in eight sections.",
+ "inference": "In the inferior grade it is set, above that it is equal, and in the superior grade it should be accordingly determined.",
  "uncertainties": [
-  "exact arrangement not specified"
+  "The exact numerical values for each grade are implied by prior verses."
  ],
- "plain_english": "Write the phaṭ letter in eight sections, eight letters."
+ "plain_english": "In the inferior case it is so, above that it is equal to that, and in the superior case it should be so."
 }

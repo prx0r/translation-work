@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1865,
- "question": "What role does this bathing have in sādhana?",
+ "question": "What combination of street and road orientations characterizes this layout?",
  "premises": [
-  "this bathing is to be done",
-  "it is primary cause for sādhana"
+  "The layout is endowed with north-facing streets.",
+  "It is also endowed with east-facing roads.",
+  "Both elements are combined in the layout."
  ],
- "inference": "bathing is foundational to the practice",
- "uncertainties": [
-  "causal mechanism"
- ],
- "plain_english": "This bathing is to be done for sādhana; it is the primary cause."
+ "inference": "This layout is characterized by north-facing streets together with east-facing roads.",
+ "uncertainties": [],
+ "plain_english": "It is endowed with north-facing streets and with east-facing roads."
 }

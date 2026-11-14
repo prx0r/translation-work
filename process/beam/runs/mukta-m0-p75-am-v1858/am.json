@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1858,
- "question": "Which ritual grades are enumerated here?",
+ "question": "By which street is the exit made after turning to face east?",
  "premises": [
-  "sādhya is named",
-  "siddha is named",
-  "susiddha and susiddheya are named"
+  "One becomes facing east thereafter.",
+  "An exit is specified.",
+  "The exit is by the northern street."
  ],
- "inference": "the verse lists successive ritual grades",
- "uncertainties": [
-  "distinction among grades"
- ],
- "plain_english": "Sādhya, siddha, well-siddha, and well-siddheya, thus and."
+ "inference": "After turning to face east, the exit is by the northern street.",
+ "uncertainties": [],
+ "plain_english": "Then, having turned to face east, the exit is by the northern street."
 }

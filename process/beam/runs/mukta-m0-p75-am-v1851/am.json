@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1851,
- "question": "Which places are named as auspicious seats for this rite?",
+ "question": "Which specific layout types are enumerated at the beginning of this sequence?",
  "premises": [
-  "four locative places are listed",
-  "they are ritual seats"
+  "The verse lists named layout types.",
+  "Srivatsa, vaidika, nandyavarta, and kumbhaka are named.",
+  "Conjunctions link these types together."
  ],
- "inference": "the verse enumerates valid ritual locations",
- "uncertainties": [
-  "exact ritual sense of each place"
- ],
- "plain_english": "In one linga, in an empty place, in an empty house, or in an ocean of water."
+ "inference": "The sequence begins by enumerating srivatsa, vaidika, nandyavarta, and kumbhaka layouts.",
+ "uncertainties": [],
+ "plain_english": "The layouts named are srivatsa, vaidika, nandyavarta, and kumbhaka."
 }

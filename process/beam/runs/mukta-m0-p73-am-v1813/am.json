@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1813,
- "question": "What number is remembered when vowels are separated?",
+ "question": "Which categories are considered auspicious and which are condemned in this system?",
  "premises": [
-  "by-vowels-separated becomes number seventy-six hundred remembered"
+  "Some categories are auspicious.",
+  "Others are condemned.",
+  "The origins beginning with smoke are specified here."
  ],
- "inference": "The verse gives a remembered number involving seventy-six and hundred.",
+ "inference": "Some origins are auspicious while others, beginning with smoke, are condemned here.",
  "uncertainties": [
-  "exact arithmetic phrasing ambiguous"
+  "The exact mapping of which specific categories are auspicious versus condemned is not fully explicit."
  ],
- "plain_english": "When vowels are separated, the number becomes seventy-six hundred, as remembered."
+ "plain_english": "Some should be auspicious and others condemned; the origins beginning with smoke are indeed specified here."
 }
