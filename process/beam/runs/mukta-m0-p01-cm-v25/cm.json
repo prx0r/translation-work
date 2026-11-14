@@ -3,29 +3,34 @@
  "verse": 25,
  "rows": [
   {
-   "lemma": "kevalaṃ",
+   "lemma": "śivaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object of veṣṭya; the deity visualized in the preceding verse"
+  },
+  {
+   "lemma": "veṣṭya",
+   "morph": "gerund (√veṣṭ)",
+   "grounds": "absolutive indicating prior act of surrounding or encompassing"
+  },
+  {
+   "lemma": "maheśāni",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address to the supreme goddess"
+  },
+  {
+   "lemma": "sarvadā",
    "morph": "(indecl.)",
-   "grounds": "restrictive particle qualifying the following practice"
+   "grounds": "marks the constancy of Śiva's presence"
   },
   {
-   "lemma": "mātṛkānyāsaṃ",
-   "morph": "compound=mātṛkā+nyāsa; m.acc.sg",
-   "grounds": "ritual placement of the mātṛkā syllables"
-  },
-  {
-   "lemma": "kuryāttadrahitaṃ",
-   "morph": "fused=kuryāt(3.sg.opt.act √kṛ)+tadrahitam(compound=tad+rahita; m.acc.sg)",
-   "grounds": "fused sandhi form: kuryāt + tadrahitam; 'that' refers to the previously mentioned Rudra-Śakti accompaniment"
-  },
-  {
-   "lemma": "tu",
+   "lemma": "tatra",
    "morph": "(indecl.)",
-   "grounds": "contrastive or emphatic particle introducing an alternative"
+   "grounds": "refers to the locus described in the preceding visualization"
   },
   {
-   "lemma": "vā",
-   "morph": "(indecl.)",
-   "grounds": "disjunctive particle marking an optional alternative"
+   "lemma": "tiṣṭhati",
+   "morph": "3.sg.pres.act (√sthā)",
+   "grounds": "asserts Śiva's abiding presence in that locus"
   }
  ]
 }

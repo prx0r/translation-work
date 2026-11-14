@@ -1,0 +1,1011 @@
+{
+ "song": "mukta-m0-p292",
+ "items": [
+  {
+   "verse": 7276,
+   "rows": [
+    {
+     "surface": "kanyāromāṇi",
+     "gloss": "girl-hairs",
+     "grounds": "compound denoting the hairs on a girl's body",
+     "morph": "compound: kanyā+romāṇi (n.nom.pl)"
+    },
+    {
+     "surface": "yāvanti",
+     "gloss": "as-many",
+     "grounds": "correlative quantity matching the number of hairs",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tāvadvarṣaśataṃ",
+     "gloss": "so-many-hundred-years",
+     "grounds": "compound expressing duration in hundreds of years",
+     "morph": "compound: tāvat+varṣa+śatam (n.acc.sg)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "recipients addressed as twice-born",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "For how many hundreds of years do twice-born recipients benefit from the gift?",
+   "premises": [
+    "The duration is measured by the number of a girl's hairs.",
+    "The count of hairs corresponds to hundreds of years.",
+    "Twice-born recipients are the beneficiaries of this duration."
+   ],
+   "inference": "The merit of the gift lasts for as many hundreds of years as there are hairs on a girl.",
+   "uncertainties": [],
+   "plain_english": "O twice-born ones, the benefit lasts for as many hundreds of years as there are hairs on a girl."
+  },
+  {
+   "verse": 7277,
+   "rows": [
+    {
+     "surface": "kāñcanena",
+     "gloss": "with-gold",
+     "grounds": "material used for making the gift",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sahasreṇa",
+     "gloss": "with-thousand",
+     "grounds": "quantity specifying a thousand units",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive prescribing the ritual action",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "niṣkeṇa",
+     "gloss": "with-coin",
+     "grounds": "alternative unit of gold weight or coin",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vārdhataḥ",
+     "gloss": "or-more",
+     "grounds": "indicates an amount equal to or greater than stated",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantity of gold should be used to fashion the prescribed ritual gift?",
+   "premises": [
+    "The gift may be made with a thousand units of gold.",
+    "Alternatively it may be made with a niṣka or more.",
+    "The ritual agent is enjoined to make the gift."
+   ],
+   "inference": "The prescribed gift should be fashioned from a thousand gold units or from a niṣka or more.",
+   "uncertainties": [
+    "The exact measure denoted by niṣka in this context is not specified."
+   ],
+   "plain_english": "One should make it with a thousand units of gold, or with a niṣka or more."
+  },
+  {
+   "verse": 7278,
+   "rows": [
+    {
+     "surface": "vṛṣaṃ",
+     "gloss": "bull",
+     "grounds": "the ritual object to be fashioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "salakṣaṇaṃ",
+     "gloss": "with-good-marks",
+     "grounds": "possessing auspicious characteristics",
+     "morph": "compound: sa+lakṣaṇam (m.acc.sg)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive prescribing the ritual action",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "aṣṭottara",
+     "gloss": "eight-more",
+     "grounds": "first member of a numerical compound meaning eight over",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śatena",
+     "gloss": "with-hundred",
+     "grounds": "completes the number one hundred and eight",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative measure or option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of bull should be made and in what numerical measure?",
+   "premises": [
+    "A bull is the object to be made.",
+    "The bull must possess good marks.",
+    "The measure specified is a hundred and eight or an alternative."
+   ],
+   "inference": "One should make a well-marked bull using a measure of one hundred and eight.",
+   "uncertainties": [
+    "The unit counted by one hundred and eight is not explicitly stated."
+   ],
+   "plain_english": "One should make a bull with good marks, using a hundred and eight, or alternatively."
+  },
+  {
+   "verse": 7279,
+   "rows": [
+    {
+     "surface": "karṇaṃ",
+     "gloss": "ear",
+     "grounds": "part of the bull to be adorned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the adornment of different parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmarāgeṇa",
+     "gloss": "with-ruby",
+     "grounds": "gemstone used for the ear",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "gomedena",
+     "gloss": "with-hessonite",
+     "grounds": "gemstone used for the hump",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kakudbhavet",
+     "gloss": "hump-should-be",
+     "grounds": "prescribes the material for the bull's hump",
+     "morph": "compound: kakud+bhavet (3.sg.opt.act √bhū)"
+    }
+   ],
+   "question": "Which gemstones should adorn the ear and hump of the ritual bull?",
+   "premises": [
+    "The bull's ear is to be fashioned with a ruby.",
+    "The bull's hump is to be fashioned with hessonite.",
+    "Both adornments are prescribed together."
+   ],
+   "inference": "The ear of the bull should be made with ruby and the hump with hessonite.",
+   "uncertainties": [],
+   "plain_english": "The ear should be made with ruby, and the hump should be made with hessonite."
+  },
+  {
+   "verse": 7280,
+   "rows": [
+    {
+     "surface": "vṛṣāṅgaṃ",
+     "gloss": "bull-limb",
+     "grounds": "the body or parts of the bull image",
+     "morph": "compound: vṛṣa+aṅgam (n.acc.sg)"
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "one-should-cause-make",
+     "grounds": "causative injunctive prescribing the action",
+     "morph": "3.sg.opt.caus.act (√kṛ)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "the knowledgeable ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃkiṇī",
+     "gloss": "small-bell",
+     "grounds": "first member of compound describing adornment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mālayāvṛtam",
+     "gloss": "garland-covered",
+     "grounds": "adorned with strings of bells and garlands",
+     "morph": "compound: mālayā+āvṛtam (n.acc.sg)"
+    }
+   ],
+   "question": "How should the learned ritualist adorn the body of the bull image?",
+   "premises": [
+    "A learned person is the agent of the action.",
+    "The bull's body is to be caused to be made or adorned.",
+    "The adornment includes small bells and garlands."
+   ],
+   "inference": "The learned one should have the bull's body covered with strings of bells and garlands.",
+   "uncertainties": [],
+   "plain_english": "The learned one should have the bull's body made and covered with strings of bells and garlands."
+  },
+  {
+   "verse": 7281,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "location within the prepared ritual space",
+     "morph": "compound: tat+madhye (n.loc.sg)"
+    },
+    {
+     "surface": "vinyasedukṣaṃ",
+     "gloss": "one-should-place-bull",
+     "grounds": "injunctive prescribing placement of the bull",
+     "morph": "compound: vinyaset+ukṣam (3.sg.opt.act √vi-ni-as + m.acc.sg)"
+    },
+    {
+     "surface": "paścimāsyaṃ",
+     "gloss": "west-facing",
+     "grounds": "orientation of the bull image",
+     "morph": "compound: paścima+āsyam (m.acc.sg)"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "address to the foremost twice-born",
+     "morph": "compound: dvija+uttamāḥ (m.voc.pl)"
+    }
+   ],
+   "question": "Where and in what orientation should the bull be placed by the ritualists?",
+   "premises": [
+    "The bull is to be placed in the middle of the ritual space.",
+    "The bull must face west.",
+    "The foremost twice-born are addressed as the agents."
+   ],
+   "inference": "The foremost twice-born should place the bull in the middle facing west.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, one should place the bull in the middle, facing west."
+  },
+  {
+   "verse": 7282,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates conformity with previously described procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivapūjā",
+     "gloss": "shiva-worship",
+     "grounds": "ritual worship of Śiva",
+     "morph": "compound: śiva+pūjā (f.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects worship and offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "oblation into the ritual fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic conjunction adding further elements",
+     "morph": "compound: ca+eva (indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasizes special attention to these acts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual acts must be performed especially in the manner prescribed earlier?",
+   "premises": [
+    "The procedure follows the earlier pattern.",
+    "Worship of Śiva is to be performed.",
+    "Fire offering is to be performed especially."
+   ],
+   "inference": "Śiva worship and fire offering should be performed especially as before.",
+   "uncertainties": [],
+   "plain_english": "As before, Śiva worship and the fire offering should be performed especially."
+  },
+  {
+   "verse": 7283,
+   "rows": [
+    {
+     "surface": "samidājya",
+     "gloss": "firewood-ghee",
+     "grounds": "first member of compound listing oblation materials",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "carūpetaṃ",
+     "gloss": "oblation-endowed",
+     "grounds": "accompanied by firewood, ghee, and cooked oblation",
+     "morph": "compound: caru+upetam (m.acc.sg)"
+    },
+    {
+     "surface": "śāntihomam",
+     "gloss": "peace-fire-offering",
+     "grounds": "a fire offering performed for pacification",
+     "morph": "compound: śānti+homam (m.acc.sg)"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-also",
+     "grounds": "introduces an alternative option",
+     "morph": "compound: atha+api (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks the alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative form of fire offering may be performed with the specified materials?",
+   "premises": [
+    "Firewood, ghee, and cooked oblation are the materials.",
+    "A peace fire offering is an available option.",
+    "The text presents this as an alternative."
+   ],
+   "inference": "Alternatively, one may perform a peace fire offering endowed with firewood, ghee, and cooked oblation.",
+   "uncertainties": [],
+   "plain_english": "Or alternatively, one may perform a peace fire offering endowed with firewood, ghee, and cooked oblation."
+  },
+  {
+   "verse": 7284,
+   "rows": [
+    {
+     "surface": "cared",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescribing ritual conduct",
+     "morph": "3.sg.opt.act (√car)"
+    },
+    {
+     "surface": "anuktam",
+     "gloss": "unstated",
+     "grounds": "matters not explicitly specified here",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this section of the ritual prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun introducing unspecified items",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "correlative pronoun referring back to unspecified items",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tulābhāravat",
+     "gloss": "like-scale-weight-rite",
+     "grounds": "instructs to follow the procedure of the scale-weight rite",
+     "morph": "compound: tulā+bhāra+vat (indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the ritual preceptor as agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the teacher handle ritual details left unspecified in this section?",
+   "premises": [
+    "Some ritual details are not stated here.",
+    "The teacher is the responsible agent.",
+    "The scale-weight rite provides the model procedure."
+   ],
+   "inference": "Whatever is unstated here, the teacher should perform according to the procedure of the scale-weight rite.",
+   "uncertainties": [],
+   "plain_english": "Whatever is not stated here, the teacher should perform in the same manner as in the scale-weight rite."
+  },
+  {
+   "verse": 7285,
+   "rows": [
+    {
+     "surface": "gajaṃ",
+     "gloss": "elephant",
+     "grounds": "the ritual object to be fashioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "salakṣaṇaṃ",
+     "gloss": "with-good-marks",
+     "grounds": "possessing auspicious characteristics",
+     "morph": "compound: sa+lakṣaṇam (m.acc.sg)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive prescribing the ritual action",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "sauvarṇaṃ",
+     "gloss": "golden",
+     "grounds": "made of gold as one option",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rājataṃ",
+     "gloss": "silver",
+     "grounds": "made of silver as an alternative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast or alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks the alternative material",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials may be used to fashion a well-marked ritual elephant?",
+   "premises": [
+    "A well-marked elephant is to be made.",
+    "Gold is one possible material.",
+    "Silver is an alternative material."
+   ],
+   "inference": "One should make a well-marked elephant of gold or of silver.",
+   "uncertainties": [],
+   "plain_english": "One should make a well-marked elephant, either of gold or of silver."
+  },
+  {
+   "verse": 7286,
+   "rows": [
+    {
+     "surface": "aṣṭottara",
+     "gloss": "eight-more",
+     "grounds": "first member of a numerical compound meaning eight over",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śatena",
+     "gloss": "with-hundred",
+     "grounds": "completes the number one hundred and eight",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces the next procedural step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause-make",
+     "grounds": "causative injunctive prescribing the action",
+     "morph": "3.sg.opt.caus.act (√kṛ)"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "the foremost preceptor as ritual agent",
+     "morph": "compound: deśika+uttamaḥ (m.nom.sg)"
+    }
+   ],
+   "question": "Who should commission the elephant gift and in what numerical measure?",
+   "premises": [
+    "The foremost teacher is the agent.",
+    "The measure specified is one hundred and eight.",
+    "The teacher should cause the gift to be made."
+   ],
+   "inference": "The foremost teacher should have it made using a measure of one hundred and eight.",
+   "uncertainties": [
+    "The unit counted by one hundred and eight is not explicitly stated."
+   ],
+   "plain_english": "Then the best teacher should have it made with a hundred and eight."
+  },
+  {
+   "verse": 7287,
+   "rows": [
+    {
+     "surface": "gajendraṃ",
+     "gloss": "elephant-lord",
+     "grounds": "the elephant image as the chief object",
+     "morph": "compound: gaja+indram (m.acc.sg)"
+    },
+    {
+     "surface": "vinyasenmadhye",
+     "gloss": "one-should-place-in-middle",
+     "grounds": "injunctive prescribing placement in the center",
+     "morph": "compound: vinyaset+madhye (3.sg.opt.act √vi-ni-as + n.loc.sg)"
+    },
+    {
+     "surface": "gandhapuṣpādinārcayet",
+     "gloss": "with-fragrance-flowers-etc-worship",
+     "grounds": "prescribes worship using fragrances, flowers, and other offerings",
+     "morph": "compound: gandha+puṣpa+ādinā+arcayet (3.sg.opt.act √arc)"
+    }
+   ],
+   "question": "Where should the elephant image be placed and how should it be worshipped?",
+   "premises": [
+    "The elephant image is to be placed in the middle.",
+    "Worship is to be performed after placement.",
+    "Fragrances, flowers, and similar offerings are to be used."
+   ],
+   "inference": "One should place the elephant image in the middle and worship it with fragrances, flowers, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "One should place the elephant lord in the middle and worship it with fragrances, flowers, and other offerings."
+  },
+  {
+   "verse": 7288,
+   "rows": [
+    {
+     "surface": "śivāya",
+     "gloss": "to-shiva",
+     "grounds": "recipient of the offering as Śiva",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śivabhaktebhyo",
+     "gloss": "to-shiva-devotees",
+     "grounds": "recipients as devotees of Śiva",
+     "morph": "compound: śiva+bhaktebhyaḥ (m.dat.pl)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "injunctive prescribing the act of giving",
+     "morph": "3.sg.opt.act (√dā)"
+    },
+    {
+     "surface": "śraddhāsamanvitam",
+     "gloss": "endowed-with-faith",
+     "grounds": "given with devotion and faith",
+     "morph": "compound: śraddhā+samanvitam (n.acc.sg)"
+    }
+   ],
+   "question": "To whom and with what attitude should the ritual gift be given?",
+   "premises": [
+    "The gift is to be given to Śiva.",
+    "The gift is to be given to devotees of Śiva.",
+    "The act of giving must be endowed with faith."
+   ],
+   "inference": "One should give the gift to Śiva and to Śiva's devotees with faith.",
+   "uncertainties": [],
+   "plain_english": "One should give it to Śiva and to the devotees of Śiva, endowed with faith."
+  },
+  {
+   "verse": 7289,
+   "rows": [
+    {
+     "surface": "anyatsarvam",
+     "gloss": "all-other",
+     "grounds": "all remaining matters not specified",
+     "morph": "compound: anyat+sarvam (n.acc.sg)"
+    },
+    {
+     "surface": "anuddiṣṭaṃ",
+     "gloss": "unstated",
+     "grounds": "not explicitly prescribed in this context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tulābhāravad",
+     "gloss": "like-scale-weight-rite",
+     "grounds": "instructs to follow the procedure of the scale-weight rite",
+     "morph": "compound: tulā+bhāra+vat (indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescribing ritual conduct",
+     "morph": "3.sg.opt.act (√ā-car)"
+    }
+   ],
+   "question": "How should all other unstated details of this ritual be carried out?",
+   "premises": [
+    "Some details remain unstated in this section.",
+    "All such other matters must still be performed.",
+    "The scale-weight rite serves as the procedural model."
+   ],
+   "inference": "All other unstated matters should be performed according to the procedure of the scale-weight rite.",
+   "uncertainties": [],
+   "plain_english": "All other unstated matters should be performed in the same manner as in the scale-weight rite."
+  },
+  {
+   "verse": 7290,
+   "rows": [
+    {
+     "surface": "prāguktadeśakāle",
+     "gloss": "previously-stated-place-time",
+     "grounds": "the place and time mentioned earlier",
+     "morph": "compound: prāk+ukta+deśa+kāle (n.loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition to a new procedural context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedikāmaṇḍalānvite",
+     "gloss": "endowed-with-altar-circle",
+     "grounds": "furnished with a ritual altar and diagram",
+     "morph": "compound: vedikā+maṇḍala+anvite (n.loc.sg)"
+    }
+   ],
+   "question": "At what place and time should the next ritual procedure be conducted?",
+   "premises": [
+    "The place and time were stated previously.",
+    "The location must be equipped with an altar and circle.",
+    "This sets the context for the following rites."
+   ],
+   "inference": "The procedure should be conducted at the previously stated place and time, in a space endowed with an altar and ritual circle.",
+   "uncertainties": [],
+   "plain_english": "But at the previously stated place and time, in a space endowed with an altar and ritual circle."
+  },
+  {
+   "verse": 7291,
+   "rows": [
+    {
+     "surface": "śaivānaṣṭau",
+     "gloss": "shaivas-eight",
+     "grounds": "eight Śaiva practitioners to be summoned",
+     "morph": "compound: śaivān+aṣṭau (m.acc.pl)"
+    },
+    {
+     "surface": "samāhūya",
+     "gloss": "having-summoned",
+     "grounds": "gerund indicating prior action of calling together",
+     "morph": "gerund (sam-ā-√hū)"
+    },
+    {
+     "surface": "sarvalakṣaṇasaṃyutām",
+     "gloss": "endowed-with-all-marks",
+     "grounds": "possessing all required auspicious characteristics",
+     "morph": "compound: sarva+lakṣaṇa+saṃyutām (m.acc.pl)"
+    }
+   ],
+   "question": "How many Śaiva practitioners should be summoned and what qualifications must they possess?",
+   "premises": [
+    "Eight Śaiva practitioners are to be summoned.",
+    "They must be endowed with all required marks.",
+    "Summoning them is a preparatory ritual act."
+   ],
+   "inference": "One should summon eight Śaiva practitioners who are endowed with all the required marks.",
+   "uncertainties": [
+    "The form sarvalakṣaṇasaṃyutām shows agreement that may be read as qualifying the group collectively."
+   ],
+   "plain_english": "Having summoned eight Śaivas endowed with all the required marks."
+  },
+  {
+   "verse": 7292,
+   "rows": [
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive prescribing ritual worship",
+     "morph": "3.sg.opt.act (√arc)"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-fragrance-flowers-etc",
+     "grounds": "offerings used in worship",
+     "morph": "compound: gandha+puṣpa+ādyaiḥ (n.ins.pl)"
+    },
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "sacred formulas recited during worship",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "lokeśavācakaiḥ",
+     "gloss": "world-lord-denoting",
+     "grounds": "mantras that name or invoke the world-lords",
+     "morph": "compound: lokeśa+vācakaiḥ (m.ins.pl)"
+    }
+   ],
+   "question": "With what offerings and mantras should the summoned Śaivas be worshipped?",
+   "premises": [
+    "Worship is to be performed for the summoned Śaivas.",
+    "Fragrances, flowers, and similar offerings are required.",
+    "Mantras denoting the world-lords must be used."
+   ],
+   "inference": "One should worship them with fragrances, flowers, and other offerings, using mantras that denote the world-lords.",
+   "uncertainties": [],
+   "plain_english": "One should worship them with fragrances, flowers, and other offerings, using mantras that denote the world-lords."
+  },
+  {
+   "verse": 7293,
+   "rows": [
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "ritual-gift",
+     "grounds": "the honorarium given to officiants",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśaniṣkā",
+     "gloss": "ten-coins",
+     "grounds": "specifies the amount of the gift",
+     "morph": "compound: daśa+niṣkā (f.nom.sg)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescribes the required amount",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "bhūṣaṇaiśca",
+     "gloss": "and-with-ornaments",
+     "grounds": "additional gifts accompanying the coins",
+     "morph": "compound: bhūṣaṇaiḥ+ca (n.ins.pl + indecl.)"
+    },
+    {
+     "surface": "samanvitā",
+     "gloss": "endowed",
+     "grounds": "accompanied by ornaments",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ritual gift should be given to the officiants and with what additions?",
+   "premises": [
+    "A ritual gift is prescribed for the officiants.",
+    "The gift should amount to ten niṣkas.",
+    "The gift should be accompanied by ornaments."
+   ],
+   "inference": "The ritual gift should be ten niṣkas and should be accompanied by ornaments.",
+   "uncertainties": [],
+   "plain_english": "The ritual gift should be ten niṣkas, accompanied by ornaments."
+  },
+  {
+   "verse": 7294,
+   "rows": [
+    {
+     "surface": "atrānuktam",
+     "gloss": "here-unstated",
+     "grounds": "matters not explicitly specified in this context",
+     "morph": "compound: atra+anuktam (n.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a general procedural instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun introducing unspecified items",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "anything",
+     "grounds": "indefinite pronoun emphasizing any unspecified detail",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tulābhāravad",
+     "gloss": "like-scale-weight-rite",
+     "grounds": "instructs to follow the procedure of the scale-weight rite",
+     "morph": "compound: tulā+bhāra+vat (indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescribing ritual conduct",
+     "morph": "3.sg.opt.act (√ā-car)"
+    }
+   ],
+   "question": "How should any detail left unstated in this ritual context be performed?",
+   "premises": [
+    "Some details in this context are unstated.",
+    "Any such unspecified matter must still be addressed.",
+    "The scale-weight rite provides the model procedure."
+   ],
+   "inference": "Whatever is unstated here should be performed according to the procedure of the scale-weight rite.",
+   "uncertainties": [],
+   "plain_english": "But whatever is unstated here should be performed in the same manner as in the scale-weight rite."
+  },
+  {
+   "verse": 7295,
+   "rows": [
+    {
+     "surface": "paracakrapramathanaṃ",
+     "gloss": "enemy-host-crushing",
+     "grounds": "ritual aimed at destroying hostile forces",
+     "morph": "compound: para+cakra+pramathanam (n.acc.sg)"
+    },
+    {
+     "surface": "gajavājivivardhanam",
+     "gloss": "elephant-horse-increasing",
+     "grounds": "ritual aimed at increasing elephants and horses",
+     "morph": "compound: gaja+vāji+vivardhanam (n.acc.sg)"
+    }
+   ],
+   "question": "What purposes are served by the ritual procedure introduced in this section?",
+   "premises": [
+    "One purpose is the crushing of enemy hosts.",
+    "Another purpose is the increase of elephants and horses.",
+    "These purposes define the aim of the rite."
+   ],
+   "inference": "The rite is for crushing enemy hosts and for increasing elephants and horses.",
+   "uncertainties": [],
+   "plain_english": "This rite is for crushing enemy hosts and for increasing elephants and horses."
+  },
+  {
+   "verse": 7296,
+   "rows": [
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "the ritual structure to be constructed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "according to prescribed ritual procedure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive prescribing construction",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "vedikākuṇḍasaṃyutam",
+     "gloss": "endowed-with-altar-pit",
+     "grounds": "equipped with a ritual altar and fire pit",
+     "morph": "compound: vedikā+kuṇḍa+saṃyutam (m.acc.sg)"
+    }
+   ],
+   "question": "What ritual structure should be constructed and what features must it include?",
+   "premises": [
+    "A pavilion is to be constructed.",
+    "The construction must follow prescribed rules.",
+    "The pavilion must be equipped with an altar and fire pit."
+   ],
+   "inference": "One should construct a pavilion according to rule, equipped with an altar and fire pit.",
+   "uncertainties": [],
+   "plain_english": "One should construct a pavilion according to rule, equipped with an altar and a fire pit."
+  },
+  {
+   "verse": 7297,
+   "rows": [
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "central location within the pavilion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devadeveśaṃ",
+     "gloss": "lord-of-gods-of-gods",
+     "grounds": "the supreme deity to be installed",
+     "morph": "compound: deva+deva+īśam (m.acc.sg)"
+    },
+    {
+     "surface": "brahmaviṣṇusamanvitam",
+     "gloss": "accompanied-by-brahma-vishnu",
+     "grounds": "installed together with Brahmā and Viṣṇu",
+     "morph": "compound: brahma+viṣṇu+samanvitam (m.acc.sg)"
+    }
+   ],
+   "question": "Which deities should be installed in the middle of the ritual pavilion?",
+   "premises": [
+    "The installation takes place in the middle.",
+    "The lord of gods of gods is the principal deity.",
+    "Brahmā and Viṣṇu accompany the principal deity."
+   ],
+   "inference": "In the middle one should install the lord of gods of gods accompanied by Brahmā and Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "In the middle, one should install the lord of gods of gods, accompanied by Brahmā and Viṣṇu."
+  },
+  {
+   "verse": 7298,
+   "rows": [
+    {
+     "surface": "brahman",
+     "gloss": "o-brahman",
+     "grounds": "vocative address to Brahman or a brahmin sage",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "brāhmaṇabhedāya",
+     "gloss": "for-brahmin-distinction",
+     "grounds": "purpose relating to the distinction or benefit of brahmins",
+     "morph": "compound: brāhmaṇa+bhedāya (m.dat.sg)"
+    },
+    {
+     "surface": "brahmaṇe",
+     "gloss": "to-brahma",
+     "grounds": "recipient deity or principle named Brahma",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of compound describing the giver",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dāyine",
+     "gloss": "to-giver",
+     "grounds": "to the one who gives wealth",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "For whose distinction and to which recipients is the offering directed in this address?",
+   "premises": [
+    "The verse addresses Brahman directly.",
+    "The purpose relates to the distinction of brahmins.",
+    "The offering is directed to Brahma and to the giver of wealth."
+   ],
+   "inference": "The address directs the offering for the distinction of brahmins, to Brahma and to the giver of wealth.",
+   "uncertainties": [
+    "The exact syntactic relation of brāhmaṇabhedāya and the two datives is somewhat compressed."
+   ],
+   "plain_english": "O Brahman, for the distinction of brahmins, to Brahma and to the giver of wealth."
+  },
+  {
+   "verse": 7299,
+   "rows": [
+    {
+     "surface": "caturvedavidaḥ",
+     "gloss": "four-veda-knowers",
+     "grounds": "those learned in all four Vedas",
+     "morph": "compound: catur+veda+vidaḥ (m.nom.pl)"
+    },
+    {
+     "surface": "grāhyāḥ",
+     "gloss": "should-be-chosen",
+     "grounds": "to be selected for the ritual role",
+     "morph": "m.nom.pl (gerundive √grah)"
+    },
+    {
+     "surface": "japtārastrayaḥ",
+     "gloss": "chanters-three",
+     "grounds": "three reciters appointed for chanting",
+     "morph": "compound: japtāraḥ+trayaḥ (m.nom.pl)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the exact number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "certainly",
+     "grounds": "adds emphasis to the prescription",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many chanters should be selected and what qualification must they have?",
+   "premises": [
+    "Chanters are to be selected for the rite.",
+    "They must be knowers of the four Vedas.",
+    "Exactly three chanters are required."
+   ],
+   "inference": "Three chanters who know the four Vedas should indeed be chosen.",
+   "uncertainties": [],
+   "plain_english": "Three chanters who know the four Vedas should indeed be chosen."
+  }
+ ]
+}
