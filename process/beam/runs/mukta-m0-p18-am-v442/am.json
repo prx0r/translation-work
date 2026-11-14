@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 442,
- "question": "What ritual preparations follow upon reaching the worship pavilion?",
+ "question": "What occasional obscurations threaten the moon’s otherwise ideal radiance?",
  "premises": [
-  "One reaches the worship pavilion",
-  "One performs purification of the elements"
+  "Obscuration can occur sometimes.",
+  "Eclipses are one cause.",
+  "Darkness related to the sun or other darkness is another."
  ],
- "inference": "Elemental purification in the pavilion is the next preparatory step",
- "uncertainties": [],
- "plain_english": "Having reached the worship pavilion and having performed the purification of the elements."
+ "inference": "Even the ideal moon is subject to occasional overshadowing.",
+ "uncertainties": [
+  "The exact distinction between the two kinds of darkness is interpretive."
+ ],
+ "plain_english": "Sometimes it may be affected by eclipses, or by the sun’s darkness, or by darkness."
 }

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "nayantyāḥ",
+     "gloss": "of-leading",
+     "grounds": "present active participle of √nī, qualifying Pārvatī",
+     "morph": "f.gen.sg.pres-act-part+√nī"
+    },
+    {
+     "surface": "pārvatyāḥ",
+     "gloss": "of-parvati",
+     "grounds": "name of the goddess, possessor of the leading or manifestation",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prathanam",
+     "gloss": "spreading",
+     "grounds": "act or state of expansion or manifestation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uta",
+     "gloss": "or",
+     "grounds": "disjunctive particle introducing an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṇṭha+svara",
+     "gloss": "by-throat-voice",
+     "grounds": "compound denoting sound of the throat; instrumental sense in context",
+     "morph": "compound:kaṇṭha+svara"
+    },
+    {
+     "surface": "jitaḥ",
+     "gloss": "conquered",
+     "grounds": "past passive participle of √ji, describing what is overcome",
+     "morph": "m.nom.sg.past-pass-part+√ji"
+    }
+   ],
+   "question": "What force overcomes the spreading manifestation of guiding Pārvatī?",
+   "premises": [
+    "Pārvatī is characterized as leading or guiding.",
+    "A spreading or manifestation is attributed to her.",
+    "The throat-voice is presented as a conquering force."
+   ],
+   "inference": "The spreading manifestation of guiding Pārvatī is overcome by the throat-voice.",
+   "uncertainties": [
+    "The exact syntactic role of prathanam in relation to jitaḥ is context-dependent.",
+    "The instrumental force of kaṇṭha+svara is inferred from sense rather than explicit case marking."
+   ],
+   "plain_english": "Or else the spreading manifestation of guiding Pārvatī is conquered by the sound of the throat."
+  }
+ ]
+}

@@ -3,29 +3,39 @@
  "verse": 475,
  "rows": [
   {
-   "lemma": "pratyahaṃ",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb indicating daily recurrence"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "pūjayeddevīṃ",
-   "morph": "3.sg.act-optative + acc.sg.f (√pūj + devī)",
-   "grounds": "sandhi-fused form pūjayet + devīm; verb governs goddess as object"
+   "lemma": "viśleṣaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object of going/attaining"
   },
   {
-   "lemma": "prathamaṃ",
+   "lemma": "yātaḥ",
+   "morph": "m.nom.sg.past-participle (root yā)",
+   "grounds": "past participle; agrees with dual subject in sense"
+  },
+  {
+   "lemma": "kimapi",
    "morph": "(indecl.)",
-   "grounds": "adverbial usage indicating priority in sequence"
+   "grounds": "indefinite emphasizing absence of separation"
   },
   {
-   "lemma": "pūjayet",
-   "morph": "3.sg.act-optative (√pūj)",
-   "grounds": "optative verb expressing prescribed ritual action"
+   "lemma": "vidhu",
+   "morph": "compound-member",
+   "grounds": "first member of compound with rāga"
   },
   {
-   "lemma": "sudhīḥ",
-   "morph": "nom.sg.m",
-   "grounds": "subject of the prescribed worship"
+   "lemma": "rāga",
+   "morph": "compound-member",
+   "grounds": "second member of compound with vidhu"
+  },
+  {
+   "lemma": "ativimalau",
+   "morph": "m.nom.du",
+   "grounds": "qualifies the dual compound vidhu-rāga"
   }
  ]
 }

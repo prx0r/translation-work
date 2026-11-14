@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 384,
- "question": "What floral adornment beautifies the goddess's braided hair in the visualization?",
+ "question": "What actions and reactions reveal agitation through turning, leaping, and startled senses?",
  "premises": [
-  "The goddess wears fragrant jasmine garlands.",
-  "Her braid is adorned at the middle.",
-  "These details enhance her beauty."
+  "There is turning around",
+  "There is leaping up",
+  "Eyes tremble with fear and ears are struck"
  ],
- "inference": "The goddess is visualized with fragrant jasmine garlands adorning the middle of her braid.",
- "uncertainties": [],
- "plain_english": "She is adorned at the middle of her braid with garlands of fragrant jasmine."
+ "inference": "Sudden agitation is expressed through startled bodily and sensory reactions.",
+ "uncertainties": [
+  "subject experiencing these actions is not stated"
+ ],
+ "plain_english": "By turning around, by leaping, by eyes trembling with fear, and by ears struck."
 }
