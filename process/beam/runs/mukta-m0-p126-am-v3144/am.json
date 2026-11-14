@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3144,
- "question": "Should a mixed pair-portion be made if a pair exists?",
+ "question": "What consequence follows when the deity is without its retinue?",
  "premises": [
-  "pair implies pair-portion",
-  "mixed pair-portion should not be made"
+  "The deity may lack a retinue.",
+  "The servant group is affected.",
+  "Destruction of that group is the stated result."
  ],
- "inference": "avoid mixed pair-portion in paired case",
- "uncertainties": [
-  "exact mixing"
- ],
- "plain_english": "If a pair exists, a pair-portion should be; do not make it mixed."
+ "inference": "Absence of the retinue leads to destruction of the servant group.",
+ "uncertainties": [],
+ "plain_english": "When there is no retinue, there is destruction of the servant group."
 }

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "patitaiḥ",
+     "gloss": "by-fallen-ones",
+     "grounds": "instrumental plural of patita, indicating agents or sources of defilement in the ritual context",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "pretakaiḥ",
+     "gloss": "by-ghosts",
+     "grounds": "instrumental plural of pretaka, referring to spirits of the dead as defiling agents",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle linking alternative defiling agents",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the list of alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātakaiḥ",
+     "gloss": "by-sinful-ones",
+     "grounds": "instrumental plural of pātaka, read in parallel with other animate defiling agents in this context",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "sūtakaiḥ",
+     "gloss": "by-impure-ones",
+     "grounds": "instrumental plural of sūtaka, referring to those affected by birth or death impurity",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking continuation or transition in the procedural sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional human or spirit agents necessitate restorative purification after ritual damage?",
+   "premises": [
+    "The preceding context prescribes purification and repair in cases of damage or rupture.",
+    "Defilement may arise from contact involving fallen persons or ghosts.",
+    "Defilement may also arise from sinful persons or those in ritual impurity."
+   ],
+   "inference": "Therefore, restorative purification is required when such fallen, ghostly, sinful, or impure agents are involved.",
+   "uncertainties": [
+    "Whether pātakaiḥ refers primarily to sinful persons or to sins as abstract causes is context-dependent."
+   ],
+   "plain_english": "Or also by fallen persons, by ghosts, by sinful persons, and by those in a state of impurity—then purification is required."
+  }
+ ]
+}

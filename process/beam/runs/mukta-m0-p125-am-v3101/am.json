@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3101,
- "question": "What result follows from bathing in the middle pool regardless of prior wealth?",
+ "question": "What remedial action is required when bathing rites of different types are lost?",
  "premises": [
-  "Bathing occurs in the middle pool",
-  "A poor person becomes wealthy",
-  "No alternative outcome exists"
+  "Daily bathing rites may be lost",
+  "Occasional bathing rites may be lost",
+  "Optional desired bathing rites may be lost"
  ],
- "inference": "Bathing in the middle pool certainly transforms a poor person into a wealthy one.",
- "uncertainties": [
-  "The specific pool is implied by the preceding context not included here"
- ],
- "plain_english": "In the middle pool, even a poor person becomes rich, and not otherwise."
+ "inference": "Loss of any category of bathing rite constitutes a ritual defect requiring remedy",
+ "uncertainties": [],
+ "plain_english": "When the bathing rite is lost, whether in daily, occasional, or optional desired observances."
 }

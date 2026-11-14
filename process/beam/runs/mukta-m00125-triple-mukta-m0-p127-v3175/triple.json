@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3175,
+   "rows": [
+    {
+     "surface": "maccinha",
+     "gloss": "my-mark",
+     "grounds": "compound referring to the mark of the deity; first member mat 'my'",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhāriṇo",
+     "gloss": "bearers",
+     "grounds": "those who wear or bear the specified mark",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "particle used to introduce another alternative in the series",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūdrā",
+     "gloss": "śūdras",
+     "grounds": "members of the fourth varṇa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting a further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye'nulominaḥ",
+     "gloss": "who-regularly-born",
+     "grounds": "relative pronoun with anulominaḥ denoting those born in the regular order",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which additional groups bearing the deity's mark or of certain social classes qualify for entry?",
+   "premises": [
+    "Those who bear the deity's mark are included among the eligible entrants.",
+    "Śūdras are included among the eligible entrants.",
+    "Those born in the regular anuloma order are included among the eligible entrants."
+   ],
+   "inference": "Persons bearing the deity's mark, śūdras, and those of anuloma birth qualify for admission under the stated conditions.",
+   "uncertainties": [
+    "The exact ritual treatment applied to these groups is carried over from the preceding verses and not restated here."
+   ],
+   "plain_english": "Or those bearing my mark, or śūdras, or those who are born in the regular order."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3120,
- "question": "How is the goddess Umā iconographically described in this visualization?",
+ "question": "Within what time frame must maximum effort be made to recover the lost sacred object?",
  "premises": [
-  "The goddess is Umā",
-  "She has four arms",
-  "She has full, swelling breasts"
+  "Recovery requires effort",
+  "A limited period is specified",
+  "The period is within three months"
  ],
- "inference": "Umā is to be visualized as four-armed with full, swelling breasts.",
- "uncertainties": [],
- "plain_english": "The goddess Umā is four-armed, with full, swelling breasts."
+ "inference": "All effort must be made to recover the object within three months",
+ "uncertainties": [
+  "madhyame may indicate within or in the middle of the three-month period"
+ ],
+ "plain_english": "Therefore, with all effort, within the period of three months."
 }

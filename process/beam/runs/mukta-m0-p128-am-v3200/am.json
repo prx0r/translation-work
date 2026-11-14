@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3200,
- "question": "What material and measure should the learned one use to make the ritual altar?",
+ "question": "Which categories of bathing rites are covered by the prescribed ritual procedures?",
  "premises": [
-  "learned one makes altar",
-  "eight droṇas of rice are used",
-  "rice is instrumental material"
+  "The bathing rite may be daily in nature.",
+  "The bathing rite may be occasional in nature.",
+  "The bathing rite may be desire-driven or lapsed."
  ],
- "inference": "altar construction requires eight droṇas of rice",
+ "inference": "The prescribed ritual procedures apply across daily, occasional, desire-driven, and lapsed bathing rites.",
  "uncertainties": [
-  "droṇa measure unspecified",
-  "altar type unspecified"
+  "The verse is elliptical and relies on the preceding verses for the specific procedures being applied."
  ],
- "plain_english": "The learned one should make the altar with eight droṇas of rice."
+ "plain_english": "In the daily, occasional, desire-driven, or lapsed bathing rite, the previously prescribed procedures apply."
 }

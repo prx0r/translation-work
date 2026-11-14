@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3136,
- "question": "What measure is used for human liṅga and head measure for delight?",
+ "question": "What degrees of temple damage require ritual attention?",
  "premises": [
-  "human liṅga has measure",
-  "head measure gives delight"
+  "Damage may affect half the temple.",
+  "Damage may affect three-quarters, a quarter, or an eighth.",
+  "Any such breakage is a relevant condition."
  ],
- "inference": "liṅga and head measures are distinguished",
- "uncertainties": [
-  "exact measure"
- ],
- "plain_english": "Human liṅga measure is one thing; head measure is for delight."
+ "inference": "Breakage affecting various portions of the temple constitutes cases requiring response.",
+ "uncertainties": [],
+ "plain_english": "If half, three-quarters, a quarter, or an eighth of the temple is broken."
 }

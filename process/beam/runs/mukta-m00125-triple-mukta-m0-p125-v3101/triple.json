@@ -1,0 +1,941 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3101,
+   "rows": [
+    {
+     "surface": "nitye",
+     "gloss": "in-daily",
+     "grounds": "locative of nitya",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "naimittike",
+     "gloss": "in-occasional",
+     "grounds": "locative of naimittika",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "in-optional-desired",
+     "grounds": "locative of kāmya",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "lupte",
+     "gloss": "when-lost",
+     "grounds": "locative of past participle lup",
+     "morph": "ppp.loc.sg.n"
+    },
+    {
+     "surface": "snapanakarmaṇi",
+     "gloss": "bathing-rite",
+     "grounds": "locative of compound snapana-karman",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "What remedial action is required when bathing rites of different types are lost?",
+   "premises": [
+    "Daily bathing rites may be lost",
+    "Occasional bathing rites may be lost",
+    "Optional desired bathing rites may be lost"
+   ],
+   "inference": "Loss of any category of bathing rite constitutes a ritual defect requiring remedy",
+   "uncertainties": [],
+   "plain_english": "When the bathing rite is lost, whether in daily, occasional, or optional desired observances."
+  },
+  {
+   "verse": 3102,
+   "rows": [
+    {
+     "surface": "kumbhādīnāṃ",
+     "gloss": "of-pots-and-others",
+     "grounds": "genitive plural of compound kumbha-ādi",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "vilope",
+     "gloss": "in-loss",
+     "grounds": "locative of vilopa",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhādau",
+     "gloss": "in-pot-and-others",
+     "grounds": "locative of compound kumbha-ādi",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "mānavarjite",
+     "gloss": "devoid-of-measure",
+     "grounds": "locative of compound māna-varjita",
+     "morph": "adj.loc.sg.m"
+    }
+   ],
+   "question": "Do defects in ritual pots or their proper measures necessitate corrective procedures?",
+   "premises": [
+    "Ritual pots and related items may be lost",
+    "Pots may lack proper prescribed measure",
+    "Such deficiencies affect ritual validity"
+   ],
+   "inference": "Loss or improper measure of ritual pots requires remedial action",
+   "uncertainties": [],
+   "plain_english": "And when pots and other items are lost, or when the pot and related items lack proper measure."
+  },
+  {
+   "verse": 3103,
+   "rows": [
+    {
+     "surface": "bhedādisahite",
+     "gloss": "with-breakage-and-others",
+     "grounds": "locative of compound bheda-ādi-sahita",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "datte",
+     "gloss": "when-given",
+     "grounds": "locative of past participle dā",
+     "morph": "ppp.loc.sg.n"
+    },
+    {
+     "surface": "pṛṣṭe",
+     "gloss": "when-touched",
+     "grounds": "locative of past participle spṛś",
+     "morph": "ppp.loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijasattamāḥ",
+     "gloss": "o-best-twice-born",
+     "grounds": "vocative plural of compound dvija-sattama",
+     "morph": "n.voc.pl.m"
+    }
+   ],
+   "question": "Must ritual faults involving breakage, improper giving, or contact be addressed by the priests?",
+   "premises": [
+    "Breakage and similar defects may occur",
+    "Improper giving may occur",
+    "Improper contact may occur"
+   ],
+   "inference": "These faults require attention from the best twice-born priests",
+   "uncertainties": [
+    "pṛṣṭe may mean asked or touched depending on context"
+   ],
+   "plain_english": "O best of the twice-born, when there is breakage and the like, or when it is given or touched."
+  },
+  {
+   "verse": 3104,
+   "rows": [
+    {
+     "surface": "snapane",
+     "gloss": "in-bathing",
+     "grounds": "locative of snapana",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "kalpite",
+     "gloss": "when-arranged",
+     "grounds": "locative of past participle kḷp",
+     "morph": "ppp.loc.sg.n"
+    },
+    {
+     "surface": "bere",
+     "gloss": "in-image",
+     "grounds": "locative of bera",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "sūtraveṣṭanavarjite",
+     "gloss": "devoid-of-thread-wrapping",
+     "grounds": "locative of compound sūtra-veṣṭana-varjita",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "Does omission of thread wrapping during an arranged bathing of the image create a defect?",
+   "premises": [
+    "A bathing rite may be arranged for the image",
+    "Thread wrapping may be omitted",
+    "Prescribed ritual components must be complete"
+   ],
+   "inference": "Absence of thread wrapping in the arranged bathing is a ritual defect",
+   "uncertainties": [],
+   "plain_english": "When the bathing is arranged for the image but it is without the thread wrapping."
+  },
+  {
+   "verse": 3105,
+   "rows": [
+    {
+     "surface": "vidhānakūrca",
+     "gloss": "ritual-tuft",
+     "grounds": "first member of compound vidhāna-kūrca-lopa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lope",
+     "gloss": "in-loss",
+     "grounds": "locative of lopa",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utkūrcakramalopane",
+     "gloss": "in-loss-of-upper-tuft-sequence",
+     "grounds": "locative of compound ut-kūrca-krama-lopana",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "Is the loss of prescribed tufts or their ritual sequence considered a serious omission?",
+   "premises": [
+    "The ritual tuft may be lost",
+    "The sequence of the upper tuft may be omitted",
+    "Tufts are prescribed ritual elements"
+   ],
+   "inference": "Loss of tufts or their sequence constitutes a ritual defect",
+   "uncertainties": [
+    "exact technical sense of utkūrcakrama is context-dependent"
+   ],
+   "plain_english": "Or when the ritual tuft is lost, or when the sequence of the upper tuft is omitted."
+  },
+  {
+   "verse": 3106,
+   "rows": [
+    {
+     "surface": "gavyādi",
+     "gloss": "cow-products-and-others",
+     "grounds": "first member of compound gavya-ādi-dravya-lopa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dravya",
+     "gloss": "substance",
+     "grounds": "middle member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lope",
+     "gloss": "in-loss",
+     "grounds": "locative of lopa",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyāhe",
+     "gloss": "in-auspicious-declaration",
+     "grounds": "locative of puṇyāha",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivarjite",
+     "gloss": "when-excluded",
+     "grounds": "locative of past participle vi-vṛj",
+     "morph": "ppp.loc.sg.n"
+    }
+   ],
+   "question": "Do missing ritual substances or omission of the auspicious declaration invalidate the rite?",
+   "premises": [
+    "Cow products and other substances may be lost",
+    "The auspicious declaration may be omitted",
+    "Both are required ritual components"
+   ],
+   "inference": "Loss of substances or omission of the auspicious declaration requires remedy",
+   "uncertainties": [],
+   "plain_english": "Or when cow products and other substances are lost, or when the auspicious declaration is omitted."
+  },
+  {
+   "verse": 3107,
+   "rows": [
+    {
+     "surface": "āṣāḍhādiṣu",
+     "gloss": "in-āṣāḍha-and-others",
+     "grounds": "locative plural of compound āṣāḍha-ādi",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "māseṣu",
+     "gloss": "in-months",
+     "grounds": "locative plural of māsa",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "kṛttikānteṣu",
+     "gloss": "ending-with-kṛttikā",
+     "grounds": "locative plural of compound kṛttikā-anta",
+     "morph": "adj.loc.pl.m"
+    },
+    {
+     "surface": "pañcasu",
+     "gloss": "in-five",
+     "grounds": "locative plural of numeral pañcan",
+     "morph": "num.loc.pl.m"
+    }
+   ],
+   "question": "Which specific five-month period is designated for the lamp observance under discussion?",
+   "premises": [
+    "The period begins with months such as Āṣāḍha",
+    "The period ends with Kṛttikā",
+    "The duration spans five months"
+   ],
+   "inference": "The ritual context concerns the five months from Āṣāḍha onward ending in Kṛttikā",
+   "uncertainties": [],
+   "plain_english": "In the five months beginning with Āṣāḍha and ending with Kṛttikā."
+  },
+  {
+   "verse": 3108,
+   "rows": [
+    {
+     "surface": "kṛttikādīpavicchede",
+     "gloss": "in-interruption-of-kṛttikā-lamp",
+     "grounds": "locative of compound kṛttikā-dīpa-viccheda",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "rāṣṭrakṣobhādihetubhiḥ",
+     "gloss": "by-causes-like-kingdom-disturbance",
+     "grounds": "instrumental plural of compound rāṣṭra-kṣobha-ādi-hetu",
+     "morph": "n.ins.pl.m"
+    }
+   ],
+   "question": "Does interruption of the Kṛttikā lamp due to public calamities require expiation?",
+   "premises": [
+    "The Kṛttikā lamp observance may be interrupted",
+    "Interruptions may arise from kingdom disturbance and similar causes",
+    "Such interruptions break a prescribed observance"
+   ],
+   "inference": "Interruption of the Kṛttikā lamp by calamities constitutes a defect needing remedy",
+   "uncertainties": [],
+   "plain_english": "When the Kṛttikā lamp is interrupted due to causes such as disturbance in the kingdom."
+  },
+  {
+   "verse": 3109,
+   "rows": [
+    {
+     "surface": "puṣpaśūnyaśiroliṅge",
+     "gloss": "in-liṅga-head-without-flowers",
+     "grounds": "locative of compound puṣpa-śūnya-śiras-liṅga",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "vṛṣṭipātādisecite",
+     "gloss": "sprinkled-by-rainfall-and-others",
+     "grounds": "locative of compound vṛṣṭi-pāta-ādi-secita",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "Are exposure to rain and absence of flowers on the liṅga’s head treated as ritual faults?",
+   "premises": [
+    "The head of the liṅga may be without flowers",
+    "The liṅga may be sprinkled by rainfall and similar causes",
+    "Proper adornment and protection are prescribed"
+   ],
+   "inference": "These conditions constitute ritual defects requiring correction",
+   "uncertainties": [],
+   "plain_english": "When the head of the liṅga is without flowers and is sprinkled by rainfall and the like."
+  },
+  {
+   "verse": 3110,
+   "rows": [
+    {
+     "surface": "paśubhirbādhite",
+     "gloss": "afflicted-by-animals",
+     "grounds": "locative of compound paśu-bādhita; internal sandhi paśubhiḥ+bādhite",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "locative of liṅga",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "devatāntarabādhite",
+     "gloss": "afflicted-by-another-deity",
+     "grounds": "locative of compound devatā-antara-bādhita",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "Does affliction of the liṅga by animals or another deity require ritual pacification?",
+   "premises": [
+    "The liṅga may be afflicted by animals",
+    "The liṅga may be afflicted by another deity",
+    "Such afflictions disturb ritual purity"
+   ],
+   "inference": "Affliction by animals or another deity is a defect requiring remedy",
+   "uncertainties": [
+    "devatāntarabādhite may imply intrusion or influence of another deity"
+   ],
+   "plain_english": "When the liṅga is afflicted by animals or afflicted by another deity."
+  },
+  {
+   "verse": 3111,
+   "rows": [
+    {
+     "surface": "aṣṭabandhetu",
+     "gloss": "when-eightfold-bond",
+     "grounds": "locative of compound aṣṭa-bandha with sandhi; internal sandhi aṣṭabandhe+tu",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "viśliṣṭe",
+     "gloss": "is-loosened",
+     "grounds": "locative of past participle vi-śliṣ",
+     "morph": "ppp.loc.sg.m"
+    },
+    {
+     "surface": "rāṣṭre",
+     "gloss": "in-kingdom",
+     "grounds": "locative of rāṣṭra",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "śaithilyamādiśet",
+     "gloss": "one-should-declare-looseness",
+     "grounds": "optative of ā-diś with object śaithilya",
+     "morph": "v.3.sg.act-opt~ā√diś"
+    }
+   ],
+   "question": "What consequence should be declared when the eightfold bond of the liṅga becomes loosened?",
+   "premises": [
+    "The eightfold bond may become loosened",
+    "The condition of the liṅga relates to the kingdom",
+    "A loosened bond signals instability"
+   ],
+   "inference": "Looseness of the eightfold bond should be declared as indicating looseness in the kingdom",
+   "uncertainties": [],
+   "plain_english": "When the eightfold bond is loosened, one should declare looseness in the kingdom."
+  },
+  {
+   "verse": 3112,
+   "rows": [
+    {
+     "surface": "purātanaṃ",
+     "gloss": "the-old",
+     "grounds": "object of abandoning",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive of pari-tyaj",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstreṇāstraṃ",
+     "gloss": "weapon-by-scripture",
+     "grounds": "compound-like expression with instrumental śāstra and accusative astra; internal sandhi śāstreṇa+astraṃ",
+     "morph": "n.ins.sg.n+n.acc.sg.n"
+    },
+    {
+     "surface": "samuccaran",
+     "gloss": "reciting",
+     "grounds": "present participle of sam-uc-car",
+     "morph": "part.pres.nom.sg.m"
+    }
+   ],
+   "question": "What ritual actions must accompany abandonment of an old damaged liṅga?",
+   "premises": [
+    "An old liṅga may need to be abandoned",
+    "Scriptural procedure must be followed",
+    "The weapon mantra must be recited"
+   ],
+   "inference": "Abandoning the old liṅga requires reciting the weapon mantra according to scripture",
+   "uncertainties": [
+    "śāstreṇāstraṃ taken as reciting the weapon according to scripture"
+   ],
+   "plain_english": "Having abandoned the old one, reciting the weapon mantra according to scripture."
+  },
+  {
+   "verse": 3113,
+   "rows": [
+    {
+     "surface": "ripuṇā",
+     "gloss": "by-enemy",
+     "grounds": "instrumental of ripu",
+     "morph": "n.ins.sg.m"
+    },
+    {
+     "surface": "saṃgṛhītaṃ",
+     "gloss": "seized",
+     "grounds": "past participle of sam-grah",
+     "morph": "ppp.nom.sg.n"
+    },
+    {
+     "surface": "celliṅgaṃ",
+     "gloss": "if-liṅga",
+     "grounds": "conditional particle with liṅga; internal sandhi cet+liṅgaṃ",
+     "morph": "(indecl.)+n.nom.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimādikam",
+     "gloss": "image-and-others",
+     "grounds": "compound pratimā-ādika",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What procedure applies when an enemy seizes the liṅga or other sacred images?",
+   "premises": [
+    "A liṅga may be seized by an enemy",
+    "An image or similar object may be seized",
+    "Seizure creates a serious ritual crisis"
+   ],
+   "inference": "Seizure of the liṅga or images by an enemy requires special remedial measures",
+   "uncertainties": [],
+   "plain_english": "If the liṅga or an image and the like has been seized by an enemy."
+  },
+  {
+   "verse": 3114,
+   "rows": [
+    {
+     "surface": "sarvayatnāt",
+     "gloss": "with-all-effort",
+     "grounds": "ablative of compound sarva-yatna",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "tadāhṛtya",
+     "gloss": "having-brought-that-back",
+     "grounds": "absolutive of ā-hṛ with pronoun; internal sandhi tat+āhṛtya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "adverb with emphatic particle; internal sandhi tatra+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpanāya",
+     "gloss": "for-installation",
+     "grounds": "dative of purpose",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must be done after recovering a seized liṅga or image from an enemy?",
+   "premises": [
+    "The seized object should be recovered with all effort",
+    "It should be brought back",
+    "Reinstallation in the same place is intended"
+   ],
+   "inference": "A recovered liṅga or image must be brought back and reinstalled in its place",
+   "uncertainties": [],
+   "plain_english": "With all effort, having brought it back, it should be reinstalled there itself."
+  },
+  {
+   "verse": 3115,
+   "rows": [
+    {
+     "surface": "liṅgotpāṭajadoṣasya",
+     "gloss": "of-fault-born-from-uprooting-liṅga",
+     "grounds": "genitive of compound liṅga-utpāṭa-ja-doṣa; internal sandhi liṅga+utpāṭaja",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "śāntyarthaṃ",
+     "gloss": "for-pacification",
+     "grounds": "compound śānti-artha used adverbially",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ghoramantrataḥ",
+     "gloss": "by-fierce-mantra",
+     "grounds": "ablative with suffix -tas from compound ghora-mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the fault arising from uprooting the liṅga be ritually pacified?",
+   "premises": [
+    "Uprooting the liṅga produces a fault",
+    "Pacification of that fault is required",
+    "A fierce mantra is prescribed for this purpose"
+   ],
+   "inference": "The fault from uprooting the liṅga must be pacified using the fierce mantra",
+   "uncertainties": [],
+   "plain_english": "For the pacification of the fault arising from the uprooting of the liṅga, by means of the fierce mantra."
+  },
+  {
+   "verse": 3116,
+   "rows": [
+    {
+     "surface": "madhuratraya",
+     "gloss": "three-sweets",
+     "grounds": "first member of compound madhura-traya-saṃyukta",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "past participle agreeing with oblation",
+     "morph": "ppp.acc.sg.f"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "a-thousand",
+     "grounds": "numeral qualifying oblation",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "dūrvayāhutim",
+     "gloss": "oblation-with-dūrvā",
+     "grounds": "accusative of compound dūrvā-āhuti; internal sandhi dūrvayā+āhutim",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What specific oblation is prescribed to pacify the fault of uprooting the liṅga?",
+   "premises": [
+    "An oblation is required for pacification",
+    "The oblation should be made with dūrvā grass",
+    "It should be joined with the three sweets and performed a thousand times"
+   ],
+   "inference": "One should offer a thousand dūrvā oblations mixed with the three sweets",
+   "uncertainties": [],
+   "plain_english": "One should offer a thousand oblations with dūrvā mixed with the three sweets."
+  },
+  {
+   "verse": 3117,
+   "rows": [
+    {
+     "surface": "lakṣaṇoddhāraṇaṃ",
+     "gloss": "removal-of-marks",
+     "grounds": "compound lakṣaṇa-uddhāraṇa",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dṛṣṭi",
+     "gloss": "sight",
+     "grounds": "first member of compound dṛṣṭi-mocana",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mocanaṃ",
+     "gloss": "release",
+     "grounds": "compound dṛṣṭi-mocana",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "jalaveśanaṃ",
+     "gloss": "entry-into-water",
+     "grounds": "compound jala-veśana",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "Which preliminary ritual acts are required before replacing a defiled or seized liṅga?",
+   "premises": [
+    "Removal of marks may be required",
+    "Release of sight may be required",
+    "Entry into water may be required"
+   ],
+   "inference": "These acts form part of the prescribed remedial procedure",
+   "uncertainties": [
+    "exact ritual sequence of these acts is not specified here"
+   ],
+   "plain_english": "Removal of marks, release of sight, and immersion in water."
+  },
+  {
+   "verse": 3118,
+   "rows": [
+    {
+     "surface": "alabdhaṃ",
+     "gloss": "not-obtained",
+     "grounds": "past participle with negative prefix a-",
+     "morph": "ppp.nom.sg.n"
+    },
+    {
+     "surface": "liṅgaberādyaṃ",
+     "gloss": "liṅga-image-and-others",
+     "grounds": "compound liṅga-bera-ādya",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "yadānyat",
+     "gloss": "when-another",
+     "grounds": "conjunction with adjective; internal sandhi yadā+anyat",
+     "morph": "(indecl.)+adj.nom.sg.n"
+    },
+    {
+     "surface": "sthāpayennavam",
+     "gloss": "should-install-new",
+     "grounds": "optative with object; internal sandhi sthāpayet+navam",
+     "morph": "v.3.sg.act-opt~√sthā+adj.acc.sg.n"
+    }
+   ],
+   "question": "When must a new liṅga or image be installed instead of the original one?",
+   "premises": [
+    "The original liṅga or image may not be recovered",
+    "Another substitute may be required",
+    "Installation must continue despite loss"
+   ],
+   "inference": "If the liṅga or image is not obtained, a new one should be installed",
+   "uncertainties": [],
+   "plain_english": "If the liṅga, image, or the like is not obtained, one should install another new one."
+  },
+  {
+   "verse": 3119,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "adverbial compound prati-aham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntihomaśca",
+     "gloss": "and-peace-offering",
+     "grounds": "compound śānti-homa with conjunction; internal sandhi śāntihomaḥ+ca",
+     "morph": "n.nom.sg.m+(indecl.)"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "should-be-done",
+     "grounds": "gerundive of kṛ",
+     "morph": "gdv.nom.sg.m"
+    },
+    {
+     "surface": "sthāpanāntakam",
+     "gloss": "until-installation",
+     "grounds": "compound sthāpanā-antaka used adverbially",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What ongoing ritual duty is required while awaiting reinstallation of the lost object?",
+   "premises": [
+    "Reinstallation may be delayed",
+    "Pacification is needed during the interim",
+    "A peace offering can be performed daily"
+   ],
+   "inference": "A daily peace offering must be performed until installation is completed",
+   "uncertainties": [],
+   "plain_english": "And a peace offering should be performed daily until the installation."
+  },
+  {
+   "verse": 3120,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative pronoun used as conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "instrumental of compound sarva-prayatna",
+     "morph": "n.ins.sg.m"
+    },
+    {
+     "surface": "māsatritayamadhyame",
+     "gloss": "within-three-months",
+     "grounds": "locative of compound māsa-tritaya-madhyama",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "Within what time frame must maximum effort be made to recover the lost sacred object?",
+   "premises": [
+    "Recovery requires effort",
+    "A limited period is specified",
+    "The period is within three months"
+   ],
+   "inference": "All effort must be made to recover the object within three months",
+   "uncertainties": [
+    "madhyame may indicate within or in the middle of the three-month period"
+   ],
+   "plain_english": "Therefore, with all effort, within the period of three months."
+  },
+  {
+   "verse": 3121,
+   "rows": [
+    {
+     "surface": "kairgṛhītaṃ",
+     "gloss": "seized-by-whom",
+     "grounds": "instrumental plural interrogative with past participle; internal sandhi kaiḥ+gṛhītaṃ",
+     "morph": "pron.ins.pl.m+ppp.nom.sg.n"
+    },
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "corādyāḥ",
+     "gloss": "thieves-and-others",
+     "grounds": "nominative plural of compound cora-ādi",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "nominative of liṅga",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kīdṛśaṃ",
+     "gloss": "of-what-kind",
+     "grounds": "interrogative adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.n"
+    }
+   ],
+   "question": "What specific information must be investigated about the seizure and condition of the liṅga?",
+   "premises": [
+    "The identity of the seizers must be known",
+    "The location of thieves and the liṅga must be known",
+    "The condition of the liṅga must be known"
+   ],
+   "inference": "A thorough inquiry must determine who seized it, where it is, and in what condition",
+   "uncertainties": [],
+   "plain_english": "By whom was it seized, where are the thieves and others, where is the liṅga, and what is its condition?"
+  },
+  {
+   "verse": 3122,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "adverbial compound prati-aham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caivamanveṣya",
+     "gloss": "and-thus-searching",
+     "grounds": "absolutive of anv-iṣ with particles; internal sandhi ca+evam+anveṣya",
+     "morph": "(indecl.)+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "sthitamanyatraceddhruvam",
+     "gloss": "if-certainly-located-elsewhere",
+     "grounds": "past participle with adverb, conditional and particle; internal sandhi sthitam+anyatra+cet+dhruvam",
+     "morph": "ppp.nom.sg.n+(indecl.)+(indecl.)+(indecl.)"
+    }
+   ],
+   "question": "What continuous action is required if the liṅga is known to be located elsewhere?",
+   "premises": [
+    "Search must be conducted daily",
+    "The search must follow the stated inquiries",
+    "The liṅga may be certainly located elsewhere"
+   ],
+   "inference": "Daily searching must continue if the liṅga is certainly situated elsewhere",
+   "uncertainties": [],
+   "plain_english": "And thus searching daily, if it is certainly located elsewhere."
+  },
+  {
+   "verse": 3123,
+   "rows": [
+    {
+     "surface": "āhṛtya",
+     "gloss": "having-brought-back",
+     "grounds": "absolutive of ā-hṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaberādyaṃ",
+     "gloss": "liṅga-image-and-others",
+     "grounds": "compound liṅga-bera-ādya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "svasthāne",
+     "gloss": "in-own-place",
+     "grounds": "locative of compound sva-sthāna",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "sthāpayebhṛśam",
+     "gloss": "should-install-firmly",
+     "grounds": "optative with adverb; internal sandhi sthāpayet+bṛśam",
+     "morph": "v.3.sg.act-opt~√sthā+(indecl.)"
+    }
+   ],
+   "question": "Where and how must a recovered liṅga or image be reinstalled?",
+   "premises": [
+    "The liṅga or image may be recovered",
+    "It must be brought back",
+    "It must be placed in its own location"
+   ],
+   "inference": "A recovered liṅga or image should be firmly reinstalled in its own place",
+   "uncertainties": [],
+   "plain_english": "Having brought back the liṅga, image, or the like, one should firmly install it in its own place."
+  },
+  {
+   "verse": 3124,
+   "rows": [
+    {
+     "surface": "saṃvatsaratrayādūrdhvamalabdhaṃ",
+     "gloss": "not-obtained-beyond-three-years",
+     "grounds": "compound with ablative and adverb and past participle; internal sandhi saṃvatsaratrayāt+ūrdhvam+alabdhaṃ",
+     "morph": "n.abl.sg.n+(indecl.)+ppp.nom.sg.n"
+    },
+    {
+     "surface": "cenmunīśvarāḥ",
+     "gloss": "if-o-lords-of-sages",
+     "grounds": "conditional particle with vocative compound; internal sandhi cet+munīśvarāḥ",
+     "morph": "(indecl.)+n.voc.pl.m"
+    }
+   ],
+   "question": "What condition after three years triggers the need for a permanent replacement of the liṅga?",
+   "premises": [
+    "A period of three years may pass",
+    "The liṅga may remain unrecovered beyond that period",
+    "The teaching is addressed to lords of sages"
+   ],
+   "inference": "If the liṅga is not obtained beyond three years, replacement measures must be taken",
+   "uncertainties": [],
+   "plain_english": "O lords of sages, if it is not obtained even after three years."
+  }
+ ]
+}

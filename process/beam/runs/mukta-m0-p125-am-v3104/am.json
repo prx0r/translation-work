@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3104,
- "question": "Where is the next sacred location situated relative to the previously mentioned place?",
+ "question": "Does omission of thread wrapping during an arranged bathing of the image create a defect?",
  "premises": [
-  "A reference place has been established",
-  "The location is to its north",
-  "It lies in the middle part near the inner house"
+  "A bathing rite may be arranged for the image",
+  "Thread wrapping may be omitted",
+  "Prescribed ritual components must be complete"
  ],
- "inference": "The next sacred location is in the northern middle part near the inner house.",
- "uncertainties": [
-  "The referent of 'that' depends on prior context"
- ],
- "plain_english": "To the north of that, in the middle part, near the inner house..."
+ "inference": "Absence of thread wrapping in the arranged bathing is a ritual defect",
+ "uncertainties": [],
+ "plain_english": "When the bathing is arranged for the image but it is without the thread wrapping."
 }
