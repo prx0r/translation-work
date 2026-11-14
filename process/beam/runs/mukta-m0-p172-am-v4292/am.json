@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p172",
  "verse": 4292,
- "question": "What outcome follows when the enemy becomes fevered by the rite?",
+ "question": "Under what condition can the mantra become gracious without preliminary rites?",
  "premises": [
-  "The enemy becomes fevered",
-  "He goes to death"
+  "Preliminary rites are normally required",
+  "The mantra can still become gracious",
+  "An exception is stated"
  ],
- "inference": "Fever caused by the rite leads the enemy to death",
- "uncertainties": [],
- "plain_english": "The enemy, fevered, goes to death."
+ "inference": "That mantra becomes gracious even without the performance of preliminary rites.",
+ "uncertainties": [
+  "The specific conditions enabling this exception are not stated here"
+ ],
+ "plain_english": "Even without performing the preliminary rites, that mantra becomes gracious."
 }

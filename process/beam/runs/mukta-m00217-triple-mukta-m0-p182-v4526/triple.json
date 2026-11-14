@@ -1,0 +1,1033 @@
+{
+ "song": "mukta-m0-p182",
+ "items": [
+  {
+   "verse": 4526,
+   "rows": [
+    {
+     "surface": "kahadvandvaṃ",
+     "gloss": "ka-ha-pair",
+     "grounds": "compound of syllables ka and ha with pair",
+     "morph": "compound = ka+ha+dvandva"
+    },
+    {
+     "surface": "vamadvandvaṃ",
+     "gloss": "va-ma-pair",
+     "grounds": "compound of syllables va and ma with pair",
+     "morph": "compound = va+ma+dvandva"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhayugaṃ",
+     "gloss": "bond-pair",
+     "grounds": "compound of bond and pair",
+     "morph": "compound = bandha+yuga"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which syllable pairs and bond pair follow in the mantra sequence?",
+   "premises": [
+    "The ka-ha pair is specified",
+    "The va-ma pair follows",
+    "A bond pair is added again"
+   ],
+   "inference": "The mantra construction continues by adding these specific syllable pairs and a bond pair in sequence.",
+   "uncertainties": [
+    "Exact referent of bandhayugaṃ in this ritual context"
+   ],
+   "plain_english": "Then the ka-ha pair, the va-ma pair, and again the bond pair."
+  },
+  {
+   "verse": 4527,
+   "rows": [
+    {
+     "surface": "ekapañcāśadarṇo",
+     "gloss": "fifty-one-syllable",
+     "grounds": "compound indicating total syllable count",
+     "morph": "compound = eka+pañcāśat+arṇa"
+    },
+    {
+     "surface": "yam",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aghorāstramayo",
+     "gloss": "made-of-aghora-weapon",
+     "grounds": "compound describing composition of the mantra",
+     "morph": "compound = aghora+astra+maya"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the description",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the nature and length of the aghora-weapon mantra?",
+   "premises": [
+    "The mantra consists of fifty-one syllables",
+    "It is composed of the aghora weapon",
+    "It is identified as a manu"
+   ],
+   "inference": "The described formula is a fifty-one-syllable mantra formed from the aghora weapon.",
+   "uncertainties": [],
+   "plain_english": "This mantra, made of the aghora weapon, consists of fifty-one syllables."
+  },
+  {
+   "verse": 4528,
+   "rows": [
+    {
+     "surface": "varmāstrānto",
+     "gloss": "ending-with-armor-weapon",
+     "grounds": "compound indicating final elements of the mantra",
+     "morph": "compound = varman+astra+anta"
+    },
+    {
+     "surface": "mahāmantraḥ",
+     "gloss": "great-mantra",
+     "grounds": "designation of the formula",
+     "morph": "compound = mahā+mantra"
+    },
+    {
+     "surface": "sudarśanasya",
+     "gloss": "of-sudarśana",
+     "grounds": "name of the deity or weapon associated",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "states traditional designation",
+     "morph": "m.nom.sg.past-passive-participle √kīrt"
+    }
+   ],
+   "question": "How is the great mantra of Sudarśana characterized and concluded?",
+   "premises": [
+    "The mantra ends with armor and weapon syllables",
+    "It is called a great mantra",
+    "It is declared as belonging to Sudarśana"
+   ],
+   "inference": "The Sudarśana great mantra is defined by its concluding armor and weapon elements.",
+   "uncertainties": [],
+   "plain_english": "The great mantra of Sudarśana is declared to end with the armor and weapon syllables."
+  },
+  {
+   "verse": 4529,
+   "rows": [
+    {
+     "surface": "jayadūrgākhyamanunā",
+     "gloss": "with-mantra-named-jayadurgā",
+     "grounds": "instrumental compound naming the mantra used",
+     "morph": "compound = jaya+durgā+ākhya+manu, m.inst.sg"
+    },
+    {
+     "surface": "sarṣapān",
+     "gloss": "mustard-seeds",
+     "grounds": "object to be scattered",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locations for scattering",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-scatter",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √kṣip"
+    }
+   ],
+   "question": "What ritual action uses the Jayadurgā mantra with mustard seeds?",
+   "premises": [
+    "The Jayadurgā-named mantra is employed",
+    "Mustard seeds are the material used",
+    "They are to be scattered in the directions"
+   ],
+   "inference": "One should scatter mustard seeds in the directions while using the Jayadurgā mantra.",
+   "uncertainties": [],
+   "plain_english": "Using the mantra called Jayadurgā, one should scatter mustard seeds in the directions."
+  },
+  {
+   "verse": 4530,
+   "rows": [
+    {
+     "surface": "yaṣṭividdhaṃ",
+     "gloss": "pierced-by-staff",
+     "grounds": "compound describing a type of corpse",
+     "morph": "compound = yaṣṭi+viddha"
+    },
+    {
+     "surface": "śūlaviddhaṃ",
+     "gloss": "pierced-by-spear",
+     "grounds": "compound describing a type of corpse",
+     "morph": "compound = śūla+viddha"
+    },
+    {
+     "surface": "khaḍgaviddhaṃ",
+     "gloss": "pierced-by-sword",
+     "grounds": "compound describing a type of corpse",
+     "morph": "compound = khaḍga+viddha"
+    },
+    {
+     "surface": "payomṛtam",
+     "gloss": "milk-nectar",
+     "grounds": "compound or descriptive term in the list",
+     "morph": "compound = payas+amṛta"
+    }
+   ],
+   "question": "Which types of bodies or substances are enumerated for ritual selection?",
+   "premises": [
+    "A body pierced by a staff is listed",
+    "Bodies pierced by spear and sword are listed",
+    "Milk-nectar is included in the enumeration"
+   ],
+   "inference": "The text enumerates specific pierced bodies and milk-nectar as items in this ritual context.",
+   "uncertainties": [
+    "Whether payomṛtam refers to a substance or a metaphorical description"
+   ],
+   "plain_english": "One pierced by a staff, one pierced by a spear, one pierced by a sword, and milk-nectar."
+  },
+  {
+   "verse": 4531,
+   "rows": [
+    {
+     "surface": "taruṇaṃ",
+     "gloss": "youthful",
+     "grounds": "descriptive attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sundaraṃ",
+     "gloss": "beautiful",
+     "grounds": "descriptive attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūraṃ",
+     "gloss": "heroic",
+     "grounds": "descriptive attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bālaṃ",
+     "gloss": "child",
+     "grounds": "descriptive attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "naṣṭaṃ",
+     "gloss": "lost",
+     "grounds": "descriptive attribute",
+     "morph": "m.acc.sg.past-passive-participle √naś"
+    },
+    {
+     "surface": "samūjjvalam",
+     "gloss": "bright",
+     "grounds": "descriptive attribute",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What further qualities characterize the bodies listed for the rite?",
+   "premises": [
+    "Youthful, beautiful, heroic, and childlike qualities are named",
+    "Lost and bright qualities are also included",
+    "All are presented as descriptors in the list"
+   ],
+   "inference": "The enumeration continues with bodies having these specific qualities.",
+   "uncertainties": [
+    "Exact ritual suitability implied by naṣṭaṃ"
+   ],
+   "plain_english": "Youthful, beautiful, heroic, a child, lost, and bright."
+  },
+  {
+   "verse": 4532,
+   "rows": [
+    {
+     "surface": "svecchāmṛtaṃ",
+     "gloss": "nectar-of-own-will",
+     "grounds": "compound describing a substance or state",
+     "morph": "compound = sva+icchā+amṛta"
+    },
+    {
+     "surface": "dvivarṣaṃ",
+     "gloss": "two-years-old",
+     "grounds": "compound indicating age",
+     "morph": "compound = dvi+varṣa"
+    },
+    {
+     "surface": "baddhastrīgodvijaṃ",
+     "gloss": "bound-woman-cow-twice-born",
+     "grounds": "compound listing bound beings",
+     "morph": "compound = baddha+strī+go+dvija"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional items complete the enumerated ritual list?",
+   "premises": [
+    "Nectar of one's own will is mentioned",
+    "A two-year-old is included",
+    "A bound woman, cow, and twice-born are listed likewise"
+   ],
+   "inference": "The list further includes these specific items and beings.",
+   "uncertainties": [
+    "Ritual meaning of svecchāmṛtaṃ and baddhastrīgodvijaṃ"
+   ],
+   "plain_english": "Nectar of one's own will, a two-year-old, and likewise a bound woman, cow, and twice-born."
+  },
+  {
+   "verse": 4533,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṣṭavidhaṃ",
+     "gloss": "and-eightfold",
+     "grounds": "compound indicating eight types",
+     "morph": "compound = ca+aṣṭa+vidha"
+    },
+    {
+     "surface": "tyatkvā",
+     "gloss": "having-abandoned",
+     "grounds": "instructs exclusion of the eightfold set",
+     "morph": "indeclinable-absolutive √tyaj"
+    },
+    {
+     "surface": "pūrvoktānyatamaṃ",
+     "gloss": "any-one-previously-mentioned",
+     "grounds": "compound referring to earlier options",
+     "morph": "compound = pūrva+ukta+anyatama"
+    },
+    {
+     "surface": "śavam",
+     "gloss": "corpse",
+     "grounds": "object to be selected",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should one select a corpse after considering the eightfold list?",
+   "premises": [
+    "An eightfold set has been described",
+    "That eightfold set is to be abandoned",
+    "Any one of the previously mentioned corpses may be chosen"
+   ],
+   "inference": "After setting aside the eightfold category, one should select any one of the previously mentioned corpses.",
+   "uncertainties": [
+    "Exact scope of the eightfold set being excluded"
+   ],
+   "plain_english": "Thus, having abandoned the eightfold kind, one should take any one of the previously mentioned corpses."
+  },
+  {
+   "verse": 4534,
+   "rows": [
+    {
+     "surface": "cāṇḍālaṃ",
+     "gloss": "outcaste",
+     "grounds": "possible type of corpse",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cābhibhūtaṃ",
+     "gloss": "and-overcome",
+     "grounds": "compound with conjunction indicating another condition",
+     "morph": "compound = ca+abhibhūta"
+    },
+    {
+     "surface": "śīghrasiddhiphalapradam",
+     "gloss": "giving-fruit-of-quick-success",
+     "grounds": "compound describing the result",
+     "morph": "compound = śīghra+siddhi+phala+prada"
+    }
+   ],
+   "question": "What result is promised from using an outcaste or overcome corpse?",
+   "premises": [
+    "An outcaste corpse is mentioned",
+    "An overcome corpse is also mentioned",
+    "Such a corpse gives the fruit of quick success"
+   ],
+   "inference": "Selecting an outcaste or overcome corpse is said to yield quick accomplishment.",
+   "uncertainties": [
+    "Specific meaning of abhibhūtaṃ in this context"
+   ],
+   "plain_english": "An outcaste or an overcome one, which gives the fruit of quick accomplishment."
+  },
+  {
+   "verse": 4535,
+   "rows": [
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "sacred-syllable-om",
+     "grounds": "opening mantra element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kūrmabījaṃ",
+     "gloss": "tortoise-seed-syllable",
+     "grounds": "seed syllable associated with the tortoise",
+     "morph": "compound = kūrma+bīja"
+    },
+    {
+     "surface": "mṛtakāya",
+     "gloss": "to-corpse-body",
+     "grounds": "vocative or address within mantra",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "homage",
+     "grounds": "salutation word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stu",
+     "gloss": "be",
+     "grounds": "mantra syllable or verb form in formula",
+     "morph": "3.sg.imperative-active √as"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "ritual seed syllable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra syllables are prescribed at the beginning of the corpse invocation?",
+   "premises": [
+    "The praṇava is uttered first",
+    "The tortoise seed syllable follows",
+    "The formula includes address, homage, stu, and phaṭ"
+   ],
+   "inference": "The invocation begins with this specific sequence of mantra elements.",
+   "uncertainties": [
+    "Exact grammatical role of stu in the mantra"
+   ],
+   "plain_english": "Om, the tortoise seed, O corpse-body, homage, be, phaṭ."
+  },
+  {
+   "verse": 4536,
+   "rows": [
+    {
+     "surface": "re",
+     "gloss": "o",
+     "grounds": "vocative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīra",
+     "gloss": "hero",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "paramānanda",
+     "gloss": "supreme-bliss",
+     "grounds": "vocative compound epithet",
+     "morph": "compound = parama+ānanda, m.voc.sg"
+    },
+    {
+     "surface": "śivānanda",
+     "gloss": "śiva-bliss",
+     "grounds": "vocative compound epithet",
+     "morph": "compound = śiva+ānanda, m.voc.sg"
+    },
+    {
+     "surface": "kuleśvara",
+     "gloss": "lord-of-kula",
+     "grounds": "vocative compound epithet",
+     "morph": "compound = kula+īśvara, m.voc.sg"
+    }
+   ],
+   "question": "How is the addressed being invoked in the mantra's vocative sequence?",
+   "premises": [
+    "The being is called hero",
+    "It is addressed as supreme bliss and śiva-bliss",
+    "It is called lord of the kula"
+   ],
+   "inference": "The invocation addresses the being with heroic and blissful epithets culminating in lord of the kula.",
+   "uncertainties": [],
+   "plain_english": "O hero, supreme bliss, bliss of Śiva, lord of the kula."
+  },
+  {
+   "verse": 4537,
+   "rows": [
+    {
+     "surface": "vīro",
+     "gloss": "hero",
+     "grounds": "self-identification of the speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker pronoun",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "object of approach",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "prapadyāmi",
+     "gloss": "approach-for-refuge",
+     "grounds": "declaration of taking refuge",
+     "morph": "1.sg.present-active √pad with pra"
+    },
+    {
+     "surface": "uttiṣṭha",
+     "gloss": "arise",
+     "grounds": "command to the addressed being",
+     "morph": "2.sg.imperative-active √sthā with ud"
+    },
+    {
+     "surface": "caṇḍikārcane",
+     "gloss": "for-caṇḍikā-worship",
+     "grounds": "purpose of arising",
+     "morph": "compound = caṇḍikā+arcana, n.loc.sg"
+    }
+   ],
+   "question": "What request does the practitioner make for the Caṇḍikā worship rite?",
+   "premises": [
+    "The speaker identifies as a hero",
+    "The speaker takes refuge in the addressed being",
+    "The being is commanded to arise for Caṇḍikā worship"
+   ],
+   "inference": "The practitioner, as a hero, seeks refuge and commands the being to arise for the worship of Caṇḍikā.",
+   "uncertainties": [],
+   "plain_english": "I, a hero, take refuge in you; arise for the worship of Caṇḍikā."
+  },
+  {
+   "verse": 4538,
+   "rows": [
+    {
+     "surface": "tāraṃ",
+     "gloss": "tāra-syllable",
+     "grounds": "mantra element, often om",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktirmṛtakāya",
+     "gloss": "śakti-mṛtakāya",
+     "grounds": "mantra sequence element as given",
+     "morph": "compound = śakti+mṛtakāya"
+    },
+    {
+     "surface": "mṛtakāya",
+     "gloss": "to-corpse-body",
+     "grounds": "repeated address in mantra",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "homage",
+     "grounds": "salutation word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "indicates placement in recitation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantramuccaret",
+     "gloss": "should-utter-mantra",
+     "grounds": "instruction for recitation",
+     "morph": "3.sg.optative-active √car with ud"
+    }
+   ],
+   "question": "How should the concluding mantra sequence be recited in this rite?",
+   "premises": [
+    "The tāra syllable is included",
+    "The sequence includes śaktirmṛtakāya, mṛtakāya, and homage",
+    "The mantra is to be uttered at the end"
+   ],
+   "inference": "One should recite this mantra sequence, ending with homage, as prescribed.",
+   "uncertainties": [
+    "Whether śaktirmṛtakāya is a fused mantra unit or contains an internal boundary"
+   ],
+   "plain_english": "One should utter the mantra: tāra, śaktirmṛtakāya, O corpse-body, homage, at the end."
+  },
+  {
+   "verse": 4539,
+   "rows": [
+    {
+     "surface": "dhūpena",
+     "gloss": "with-incense",
+     "grounds": "instrument used for fumigation",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dhūpitaṃ",
+     "gloss": "fumigated",
+     "grounds": "resulting state of the object",
+     "morph": "m.acc.sg.past-passive-participle √dhūp"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "indeclinable-absolutive √kṛ"
+    },
+    {
+     "surface": "gandhādinā",
+     "gloss": "with-fragrance-etc",
+     "grounds": "instrumental compound for substances used",
+     "morph": "compound = gandha+ādi, m.inst.sg"
+    },
+    {
+     "surface": "abhiṣicya",
+     "gloss": "having-anointed",
+     "grounds": "absolutive indicating subsequent action",
+     "morph": "indeclinable-absolutive √sic with abhi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory acts of fumigation and anointing are required for the corpse?",
+   "premises": [
+    "The corpse is fumigated with incense",
+    "It is then anointed with fragrance and other substances",
+    "These actions are performed sequentially"
+   ],
+   "inference": "The ritual preparation requires fumigating the corpse with incense and anointing it with fragrant substances.",
+   "uncertainties": [],
+   "plain_english": "Having fumigated it with incense and having anointed it with fragrance and other substances."
+  },
+  {
+   "verse": 4540,
+   "rows": [
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive indicating movement",
+     "morph": "indeclinable-absolutive √gam"
+    },
+    {
+     "surface": "śavasya",
+     "gloss": "of-corpse",
+     "grounds": "object of proximity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sānidhyaṃ",
+     "gloss": "near-presence",
+     "grounds": "state of being near",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "should-hold",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √dhṛ"
+    },
+    {
+     "surface": "kaṭideśataḥ",
+     "gloss": "from-waist-region",
+     "grounds": "indicates place of holding",
+     "morph": "compound = kaṭi+deśa, ablative sense"
+    }
+   ],
+   "question": "How should the practitioner position and hold the corpse during the rite?",
+   "premises": [
+    "One goes into the presence of the corpse",
+    "One should hold it from the waist region",
+    "Maintaining proximity is required"
+   ],
+   "inference": "After approaching the corpse, the practitioner should hold it at the waist region.",
+   "uncertainties": [
+    "Exact manner of holding implied by dhārayet"
+   ],
+   "plain_english": "Having gone into the presence of the corpse, one should hold it from the waist region."
+  },
+  {
+   "verse": 4541,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṣālitaṃ",
+     "gloss": "washed",
+     "grounds": "state after cleansing",
+     "morph": "m.acc.sg.past-passive-participle √kṣal with pra"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "indeclinable-absolutive √kṛ"
+    },
+    {
+     "surface": "japasthānaṃ",
+     "gloss": "place-of-recitation",
+     "grounds": "destination for bringing the corpse",
+     "morph": "compound = japa+sthāna, n.acc.sg"
+    },
+    {
+     "surface": "samānayet",
+     "gloss": "should-bring",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-causative √nī with sam+ā"
+    }
+   ],
+   "question": "What must be done with the corpse before bringing it to the recitation place?",
+   "premises": [
+    "The corpse is to be washed again",
+    "It is then brought to the place of recitation",
+    "These steps follow the previous handling"
+   ],
+   "inference": "After washing the corpse again, one should bring it to the place of mantra recitation.",
+   "uncertainties": [],
+   "plain_english": "Having washed it again, one should bring it to the place of recitation."
+  },
+  {
+   "verse": 4542,
+   "rows": [
+    {
+     "surface": "elālavaṅgakarpūrajātīkhadirasārakaiḥ",
+     "gloss": "with-cardamom-clove-camphor-jasmine-khadira-essences",
+     "grounds": "long compound listing aromatic substances",
+     "morph": "compound = elā+lavaṅga+karpūra+jātī+khadira+sāraka, m.inst.pl"
+    }
+   ],
+   "question": "Which aromatic substances are specified for use in the ritual preparation?",
+   "premises": [
+    "Cardamom and clove are included",
+    "Camphor, jasmine, and khadira essences are included",
+    "These substances are used together"
+   ],
+   "inference": "The ritual employs a mixture of cardamom, clove, camphor, jasmine, and khadira essences.",
+   "uncertainties": [
+    "Exact identification of jātī in this compound"
+   ],
+   "plain_english": "With cardamom, clove, camphor, jasmine, and khadira essences."
+  },
+  {
+   "verse": 4543,
+   "rows": [
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "indeclinable-absolutive-causative √sthā"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "refers to the corpse",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pṛṣṭhaṃ",
+     "gloss": "back",
+     "grounds": "body part to be smeared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candanena",
+     "gloss": "with-sandal",
+     "grounds": "substance used for smearing",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vilepayet",
+     "gloss": "should-smear",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-causative √lip with vi"
+    }
+   ],
+   "question": "How should the corpse's back be prepared with sandal paste?",
+   "premises": [
+    "The corpse is first placed appropriately",
+    "Its back is the target area",
+    "Sandal is used to smear it"
+   ],
+   "inference": "After placing the corpse, one should smear its back with sandal.",
+   "uncertainties": [],
+   "plain_english": "Having placed it, one should smear its back with sandal."
+  },
+  {
+   "verse": 4544,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location for drawing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "diagram to be drawn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturdvāraṃ",
+     "gloss": "four-gated",
+     "grounds": "compound describing the lotus",
+     "morph": "compound = catur+dvāra"
+    },
+    {
+     "surface": "dalāṣṭakasamanvitam",
+     "gloss": "endowed-with-eight-petals",
+     "grounds": "compound describing the lotus",
+     "morph": "compound = dala+aṣṭaka+samanvita"
+    }
+   ],
+   "question": "What diagram is to be drawn in the middle of the prepared area?",
+   "premises": [
+    "A lotus is to be drawn in the middle",
+    "The lotus has four gates",
+    "The lotus is endowed with eight petals"
+   ],
+   "inference": "One should draw a four-gated lotus with eight petals in the middle.",
+   "uncertainties": [],
+   "plain_english": "In the middle, draw a lotus with four gates and eight petals."
+  },
+  {
+   "verse": 4545,
+   "rows": [
+    {
+     "surface": "dvādaśāṃgulamānāni",
+     "gloss": "measuring-twelve-fingers",
+     "grounds": "compound specifying size",
+     "morph": "compound = dvādaśa+aṅgula+māna, n.acc.pl"
+    },
+    {
+     "surface": "yajñakāṣṭhāni",
+     "gloss": "sacrificial-sticks",
+     "grounds": "ritual objects to be placed",
+     "morph": "compound = yajña+kāṣṭha, n.acc.pl"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locations for placement",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sacrificial sticks and measurements are required in the directions?",
+   "premises": [
+    "Sacrificial sticks are to be used",
+    "They measure twelve finger-breadths",
+    "They are placed in the directions"
+   ],
+   "inference": "Sacrificial sticks measuring twelve finger-breadths should be placed in the directions.",
+   "uncertainties": [],
+   "plain_english": "And place sacrificial sticks measuring twelve finger-breadths in the directions."
+  },
+  {
+   "verse": 4546,
+   "rows": [
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "substance or syllable to be written",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "indrāya",
+     "gloss": "to-indra",
+     "grounds": "recipient deity in the formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "saṃlikhya",
+     "gloss": "having-written",
+     "grounds": "absolutive indicating prior action",
+     "morph": "indeclinable-absolutive √likh with sam"
+    },
+    {
+     "surface": "surādhipataye",
+     "gloss": "to-lord-of-gods",
+     "grounds": "epithet of Indra in the formula",
+     "morph": "compound = sura+adhipati, m.dat.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What inscription is directed to Indra in this stage of the rite?",
+   "premises": [
+    "The word poison is to be written",
+    "It is addressed to Indra",
+    "Indra is called lord of the gods"
+   ],
+   "inference": "One should write 'poison' addressed to Indra, the lord of the gods, and then proceed.",
+   "uncertainties": [
+    "Whether viṣam is a substance or a mantra word"
+   ],
+   "plain_english": "Having written 'poison' to Indra, to the lord of the gods, then..."
+  },
+  {
+   "verse": 4547,
+   "rows": [
+    {
+     "surface": "vighnanivāraṇaṃ",
+     "gloss": "obstacle-removal",
+     "grounds": "compound naming the act performed",
+     "morph": "compound = vighna+nivāraṇa, n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "indeclinable-absolutive √kṛ"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "object requested",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prayaccha",
+     "gloss": "grant",
+     "grounds": "imperative request",
+     "morph": "2.sg.imperative-active √yam with pra"
+    },
+    {
+     "surface": "ṭhadvayam",
+     "gloss": "ṭha-pair",
+     "grounds": "mantra syllable pair",
+     "morph": "compound = ṭha+dvaya, n.acc.sg"
+    }
+   ],
+   "question": "What request and mantra element follow the removal of obstacles?",
+   "premises": [
+    "Obstacle removal is performed",
+    "Accomplishment is requested",
+    "The ṭha pair is included"
+   ],
+   "inference": "After removing obstacles, one should request accomplishment and include the ṭha pair.",
+   "uncertainties": [
+    "Exact placement of ṭhadvayam in the spoken formula"
+   ],
+   "plain_english": "Having performed obstacle removal, grant accomplishment — the ṭha pair."
+  },
+  {
+   "verse": 4548,
+   "rows": [
+    {
+     "surface": "svasvanāmādikaṃ",
+     "gloss": "beginning-with-own-names",
+     "grounds": "compound indicating names to be given",
+     "morph": "compound = sva+sva+nāma+ādika, n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive indicating prior action",
+     "morph": "indeclinable-absolutive √dā"
+    },
+    {
+     "surface": "pūrvavad",
+     "gloss": "as-before",
+     "grounds": "indicates following previous procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "ritual object to be presented",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "should-offer",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √hṛ with ā"
+    }
+   ],
+   "question": "How should the offering be presented according to the prior procedure?",
+   "premises": [
+    "One gives items beginning with one's own names",
+    "The offering is made as before",
+    "The offering should be brought forth"
+   ],
+   "inference": "After giving one's own names and related items, one should present the offering as before.",
+   "uncertainties": [
+    "Exact content implied by svasvanāmādikaṃ"
+   ],
+   "plain_english": "Having given one's own names and so forth, one should present the offering as before."
+  },
+  {
+   "verse": 4549,
+   "rows": [
+    {
+     "surface": "śavādhiṣṭhātṛdevebhyo",
+     "gloss": "to-deities-presiding-over-corpse",
+     "grounds": "compound naming recipients of the offering",
+     "morph": "compound = śava+adhiṣṭhātṛ+deva, m.dat.pl"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual object to be given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound = sura+īśvarī, f.voc.sg"
+    }
+   ],
+   "question": "To whom must the offering be given in the presence of the goddess?",
+   "premises": [
+    "The recipients are deities presiding over the corpse",
+    "An offering is to be given to them",
+    "The instruction is addressed to the lady of the gods"
+   ],
+   "inference": "One should give the offering to the deities presiding over the corpse, O lady of the gods.",
+   "uncertainties": [],
+   "plain_english": "O lady of the gods, one should give the offering to the deities presiding over the corpse."
+  }
+ ]
+}

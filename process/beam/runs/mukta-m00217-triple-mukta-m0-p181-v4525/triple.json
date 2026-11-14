@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p181",
+ "items": [
+  {
+   "verse": 4525,
+   "rows": [
+    {
+     "surface": "ghoraghoratarasyānte",
+     "gloss": "at-end-of-terrible-more-terrible",
+     "grounds": "Fused form: ghoraghoratarasya (of terrible-and-more-terrible) + ante (at end); internal sandhi noted, token kept whole.",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "Indeclinable indicating sequence.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanurūpapadaṃ",
+     "gloss": "body-form-word",
+     "grounds": "Compound denoting the term expressing body-form.",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "Indeclinable indicating subsequent sequence.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra element is placed after the phrase ghoraghoratara in the prescribed sequence?",
+   "premises": [
+    "The sequence reaches the end of ghoraghoratara.",
+    "After that point another element follows.",
+    "The following element is the body-form word."
+   ],
+   "inference": "The body-form word is to be placed immediately after the end of ghoraghoratara.",
+   "uncertainties": [
+    "The exact referent of tanurūpapada in this mantra context is not specified in this verse alone."
+   ],
+   "plain_english": "At the end of the phrase 'ghoraghoratara', then place the body-form word, and then proceed further."
+  }
+ ]
+}
