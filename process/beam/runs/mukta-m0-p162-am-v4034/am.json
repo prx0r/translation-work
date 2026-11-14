@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p162",
  "verse": 4034,
- "question": "Which bīja sequences correspond to the ten-syllabled and sixteen-syllabled mantras named here?",
+ "question": "Which portion of a pedestal raised to the Vishnu section height is identified as Brahma's part?",
  "premises": [
-  "A ten-syllabled mantra is associated with śrīṃ-hrīṃ-klīṃ",
-  "A sixteen-syllabled mantra is named",
-  "The sixteen-syllabled mantra is associated with klīṃ-hrīṃ-śrīṃ"
+  "The pedestal is raised to the height of the Vishnu portion.",
+  "The pedestal has distinct portions.",
+  "A Brahma portion is specified."
  ],
- "inference": "The text pairs śrīṃ-hrīṃ-klīṃ with a ten-syllabled mantra and klīṃ-hrīṃ-śrīṃ with a sixteen-syllabled mantra.",
- "uncertainties": [],
- "plain_english": "There is the ten-syllabled mantra with śrīṃ-hrīṃ-klīṃ, and the sixteen-syllabled mantra with klīṃ-hrīṃ-śrīṃ."
+ "inference": "In a pedestal raised to the Vishnu portion height, the Brahma portion is identified accordingly.",
+ "uncertainties": [
+  "The final token brahma bhāgakae appears irregular in form; taken as indicating the Brahma portion."
+ ],
+ "plain_english": "For a pedestal raised to the height of the Vishnu portion, this concerns the Brahma portion."
 }

@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p161",
+ "items": [
+  {
+   "verse": 4025,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb referring to the previously described ritual procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "whoever",
+     "grounds": "relative pronoun introducing the agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kārayen",
+     "gloss": "may-cause-to-perform",
+     "grounds": "causative optative expressing potential or prescribed action",
+     "morph": "3.sg.optative.act √kṛ-caus"
+    },
+    {
+     "surface": "martya",
+     "gloss": "mortal",
+     "grounds": "human agent performing or commissioning the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṇyāṃ",
+     "gloss": "meritorious",
+     "grounds": "qualifies the resulting destination as auspicious",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "destination",
+     "grounds": "state or goal attained as result of the rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-attain",
+     "grounds": "optative expressing the resulting attainment",
+     "morph": "3.sg.optative.act √āp"
+    }
+   ],
+   "question": "What meritorious destination does a mortal who commissions this ritual attain?",
+   "premises": [
+    "A mortal may cause the previously described ritual to be performed.",
+    "Performing the described ritual in this manner is a meritorious act.",
+    "Meritorious ritual action yields a corresponding auspicious destination."
+   ],
+   "inference": "Therefore, a mortal who causes this ritual to be performed attains a meritorious destination.",
+   "uncertainties": [],
+   "plain_english": "Thus, whatever mortal causes this ritual to be performed attains a meritorious destination."
+  }
+ ]
+}

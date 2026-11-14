@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p162",
+ "items": [
+  {
+   "verse": 4050,
+   "rows": [
+    {
+     "surface": "dvādaśāṃśa",
+     "gloss": "twelve-part",
+     "grounds": "compound referring to a twelfth portion; first member dvādaśa (twelve), second aṃśa (part)",
+     "morph": "compound"
+    },
+    {
+     "surface": "vihīne'tha",
+     "gloss": "devoid-then",
+     "grounds": "sandhi fusion of vihīne and atha; vihīne indicates absence or exclusion, atha marks transition",
+     "morph": "vihīne: ppp.loc.sg.n (√hā) + atha: (indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative form indicating the central area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ṣoḍaśadhākṛte",
+     "gloss": "made-sixteenfold",
+     "grounds": "compound describing division into sixteen parts; ṣoḍaśadhā (sixteenfold) + kṛta (made)",
+     "morph": "ppp.loc.sg.n (√kṛ), compound"
+    }
+   ],
+   "question": "How is the central area to be subdivided after exclusion of a twelfth portion?",
+   "premises": [
+    "A twelfth portion is excluded from consideration.",
+    "The subdivision applies to the middle area.",
+    "The middle area is made sixteenfold."
+   ],
+   "inference": "After excluding a twelfth portion, the central area is divided into sixteen parts.",
+   "uncertainties": [
+    "The exact referent of the excluded twelfth portion depends on the preceding measurement context."
+   ],
+   "plain_english": "Then, with a twelfth part excluded, the middle is divided into sixteen parts."
+  }
+ ]
+}
