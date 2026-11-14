@@ -749,6 +749,14 @@
     "status": "GLOSSED"
    },
    {
+    "sanskrit": "yatra",
+    "surface": "yatra",
+    "iast": "yatra",
+    "gloss": "wherever",
+    "quick_gloss": "wherever",
+    "status": "GLOSSED"
+   },
+   {
     "sanskrit": "mano",
     "surface": "mano",
     "iast": "mano",
@@ -773,6 +781,14 @@
     "status": "GLOSSED"
    },
    {
+    "sanskrit": "tatra",
+    "surface": "tatra",
+    "iast": "tatra",
+    "gloss": "there",
+    "quick_gloss": "there",
+    "status": "GLOSSED"
+   },
+   {
     "sanskrit": "samādhayaḥ",
     "surface": "samādhayaḥ",
     "iast": "samādhayaḥ",
@@ -782,7 +798,14 @@
    }
   ],
   "quick_english": "Wherever the mind goes, there, in every such place, absorptions arise.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "Wherever the mind goes, there, in every such place, absorptions arise.",
+    "reason": "restored 2 dropped distributive repetitions (yatra x2, tatra x2): T1 had 5 of 7 source tokens; argmap/L2 already read distributively; ALIGN_NODISP v967",
+    "date": "2026-11-14"
+   }
+  ]
  },
  {
   "verse_id": "kul-p39-v968",

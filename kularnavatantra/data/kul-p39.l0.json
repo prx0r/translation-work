@@ -1425,9 +1425,28 @@
   "fork": "none"
  },
  {
-  "id": "kul-p39-v967-p002",
+  "id": "kul-p39-v967-p001",
   "verse_id": "kul-p39-v967",
   "pada_index": 1,
+  "surface": "yatra",
+  "citation": "yatra",
+  "morph": "(indecl.)",
+  "options": [
+   {
+    "gloss": "wherever",
+    "rank": 1,
+    "source": "t1-draft",
+    "grounds": "distributive relative of place, repeated for emphasis"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none"
+ },
+ {
+  "id": "kul-p39-v967-p002",
+  "verse_id": "kul-p39-v967",
+  "pada_index": 2,
   "surface": "mano",
   "citation": "mano",
   "morph": "n.nom.sg",
@@ -1446,7 +1465,7 @@
  {
   "id": "kul-p39-v967-p003",
   "verse_id": "kul-p39-v967",
-  "pada_index": 2,
+  "pada_index": 3,
   "surface": "yāti",
   "citation": "yāti",
   "morph": "3.sg.pres-act (√yā)",
@@ -1465,7 +1484,26 @@
  {
   "id": "kul-p39-v967-p004",
   "verse_id": "kul-p39-v967",
-  "pada_index": 3,
+  "pada_index": 4,
+  "surface": "tatra",
+  "citation": "tatra",
+  "morph": "(indecl.)",
+  "options": [
+   {
+    "gloss": "there",
+    "rank": 1,
+    "source": "t1-draft",
+    "grounds": "correlative demonstrative of place, repeated for emphasis"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none"
+ },
+ {
+  "id": "kul-p39-v967-p005",
+  "verse_id": "kul-p39-v967",
+  "pada_index": 5,
   "surface": "tatra",
   "citation": "tatra",
   "morph": "(indecl.)",
@@ -1484,7 +1522,7 @@
  {
   "id": "kul-p39-v967-p006",
   "verse_id": "kul-p39-v967",
-  "pada_index": 4,
+  "pada_index": 6,
   "surface": "samādhayaḥ",
   "citation": "samādhayaḥ",
   "morph": "m.nom.pl",

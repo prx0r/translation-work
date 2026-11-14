@@ -3,24 +3,34 @@
  "verse": 350,
  "rows": [
   {
-   "lemma": "tata",
+   "lemma": "tejohrāso",
+   "morph": "m.nom.sg (compound: tejas+hrāsa)",
+   "grounds": "compound of tejas (vigor, splendor) and hrāsa (loss, diminution); nominative singular subject in the ongoing list"
+  },
+  {
+   "lemma": "balahrāso",
+   "morph": "m.nom.sg (compound: bala+hrāsa)",
+   "grounds": "compound of bala (strength) and hrāsa (loss, diminution); nominative singular subject in the ongoing list"
+  },
+  {
+   "lemma": "buddhihrāsas",
+   "morph": "m.nom.sg (compound: buddhi+hrāsa)",
+   "grounds": "compound of buddhi (intellect) and hrāsa (loss, diminution); nominative singular with final visarga"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating sequence after the preceding practice"
+   "grounds": "indeclinable indicating continuation or similarity with the preceding items"
   },
   {
-   "lemma": "ājñāpurīṃ",
-   "morph": "f.acc.sg",
-   "grounds": "compound referring to the center of command; object of leading"
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable emphatic particle reinforcing the inclusion"
   },
   {
-   "lemma": "nītvā",
-   "morph": "gerund(nī)",
-   "grounds": "absolutive expressing prior action of leading"
-  },
-  {
-   "lemma": "bhāvayediṣṭadevatām",
-   "morph": "opt.act.3sg(bhū-caus.)+compound.f.acc.sg",
-   "grounds": "fused form containing optative of bhāvay and iṣṭa-devatām as object; internal sandhi noted but token kept whole"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable conjunctive particle adding this item to the enumerated misfortunes"
   }
  ]
 }
