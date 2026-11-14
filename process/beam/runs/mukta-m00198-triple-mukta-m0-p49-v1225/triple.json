@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "prāsādamānavidhinā",
+     "gloss": "by-temple-measurement-procedure",
+     "grounds": "instrumental of compound prāsāda-māna-vidhi, indicating the method by which something is determined",
+     "morph": "compound:m.inst.sg"
+    },
+    {
+     "surface": "saṃgrāhyaṃ visṛtodayam",
+     "gloss": "to-be-grasped with-extended-elevation",
+     "grounds": "saṃgrāhyaṃ is a gerundive expressing what must be comprehended; visṛtodayam is a compound describing inclusion of the rise or height",
+     "morph": "gerundive.n.nom.sg + compound:n.acc.sg"
+    }
+   ],
+   "question": "By what procedure must temple measurements be comprehended together with their elevation?",
+   "premises": [
+    "Temple measurement follows a prescribed procedural method.",
+    "The prescribed elevation or rise must be included in comprehension.",
+    "Correct understanding requires grasping measurement and elevation together."
+   ],
+   "inference": "Therefore, temple dimensions are to be comprehended through the measurement procedure together with their extended elevation.",
+   "uncertainties": [
+    "The precise technical sense of visṛtodayam in this architectural context is not fully certain."
+   ],
+   "plain_english": "By the prescribed method of temple measurement, it should be grasped together with its extended elevation."
+  }
+ ]
+}

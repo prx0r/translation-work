@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1177,
- "question": "How must the target be ritually prepared and fashioned into an effigy for this procedure?",
+ "question": "How are the base height and pillar rise proportioned?",
  "premises": [
-  "The target is to be ritually prepared.",
-  "An effigy of the target is to be fashioned.",
-  "The effigy is to be made sevenfold again."
+  "The base height is specified",
+  "The pillar rise is specified alongside it",
+  "The measure given is three-sixths part"
  ],
- "inference": "After preparing the target ritually, the practitioner fashions an effigy and divides it sevenfold.",
- "uncertainties": [],
- "plain_english": "Having prepared the target and fashioned an effigy, divide it sevenfold once again."
+ "inference": "The base height and pillar rise are set at a proportion of three-sixths.",
+ "uncertainties": [
+  "Whether agniṣaḍbhāga applies to both elements or one is unclear"
+ ],
+ "plain_english": "The height of the base and the rise of the pillar should be three-sixths."
 }

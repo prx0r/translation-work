@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1005,
- "question": "Which deities are associated with the east-facing tips in this ritual arrangement?",
+ "question": "What additional architectural features must accompany the prescribed structure?",
  "premises": [
-  "The tips are oriented toward the east.",
-  "Specific deities are assigned to this arrangement.",
-  "The named deities include Viṣṇu, Īśa, and Vāsava."
+  "The structure is endowed with many small noses.",
+  "It is also provided with a bull platform.",
+  "Both features are required together."
  ],
- "inference": "The gods Viṣṇu, Īśa, and Vāsava are associated with the east-facing tips.",
- "uncertainties": [],
- "plain_english": "For the east-facing tips, the gods are Viṣṇu, Īśa, and Vāsava."
+ "inference": "The structure must include numerous small nāsikās and a vṛṣasthala.",
+ "uncertainties": [
+  "The exact count implied by 'śata' may be conventional rather than literal."
+ ],
+ "plain_english": "It should be furnished with many small noses and provided with a bull platform."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1178,
- "question": "Which body parts of the effigy are designated as the first and next in the sequence?",
+ "question": "What proportional measures govern the pillar height and platform?",
  "premises": [
-  "The first part is the right foot.",
-  "The next part is its hand.",
-  "This hand comes immediately after the first part."
+  "The pillar height is five-and-half parts",
+  "The platform is measured accordingly",
+  "An additional measure of half with two parts is specified"
  ],
- "inference": "The sequence begins with the right foot and continues with the right hand.",
- "uncertainties": [],
- "plain_english": "The first is the right foot, and after that comes its hand."
+ "inference": "The pillar height and platform follow specified fractional proportions.",
+ "uncertainties": [
+  "Exact parsing of sārhda dvibhāgayā is uncertain"
+ ],
+ "plain_english": "The pillar height is five-and-a-half parts, and the platform is measured with half and two parts."
 }

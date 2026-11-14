@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[life](āyuḥ)+[wealth](dhanasya) [for-protection](rakṣāyāṃ) [by-itself](svayam)+[indeed](eva) [engages](pravarttate)
+[of-life+wealth](āyurddhanasya) [in-protection](rakṣāyāṃ) [by-itself+indeed](svayameva) [engages](pravarttate)
 
 ## mukta-m0-p30-v727
-[of-that](tasya) [life-breath](prāṇa)+[expenditure](vyayena)+[even](api) [benefit](hitaṃ) [duty](kāryaṃ) [strives-for](samīhate)
+[of-him](tasya) [by-life+expenditure+even](prāṇavyayenāpi) [benefit](hitaṃ) [to-be-done](kāryaṃ) [strives-for](samīhate)
 
 ## mukta-m0-p30-v728
-[therefore](tena) [wind](māruta)+[sound](nādasya) [subjugation](vaśīkaraṇam)+[O-Ambika](aṃbike)
+[therefore](tena) [of-wind+sound](mārutanādasya) [subjugation](vaśīkaraṇam) [O-Ambikā](aṃbike)
 
 ## mukta-m0-p30-v729
-[with-mind](manasā)+[one](eka)+[having-become-essence](rasībhūya) [again](bhūyaḥ)+[absorption](tanmayatāṃ) [should-attain](vrajet)
+[mind+one+essence+having-become](manasaikarasībhūya) [again](bhūyas) [absorption-in-that](tanmayatāṃ) [should-attain](brajet)
 
 ## mukta-m0-p30-v730
-[with-moving](cāra)+[gaze](dṛṣṭyā) [one-should-subdue](vaśīkuryāt)+[elsewhere](anyatra) [not](na) [gone](gata)+[mind](āśayaḥ)
+[by-wandering+gaze](cāradṛṣṭyā) [one-should-subjugate](vaśīkuryād) [elsewhere](anyatra) [not+gone+mind](na+gatāśayaḥ)
 
 ## mukta-m0-p30-v731
-[wind](vāyuḥ)+[absorption](tanmayatāṃ) [gone](yātaḥ) [task](kārya)+[accomplishment](siddhiṃ) [bestows](prayacchati)
+[wind](vāyus) [absorption-in-that](tanmayatāṃ) [gone](yātaḥ) [task+accomplishment](kāryasiddhiṃ) [bestows](prayacchati)
 
 ## mukta-m0-p30-v732
-[mind](cittaṃ) [absorption](tanmayataṃ) [gone](yātāṃ) [accomplishment](siddhi)+[door](dvāraṃ) [bestows](prayacchati)
+[mind](cittaṃ) [absorption-in-that](tanmayataṃ) [gone](yātāṃ) [accomplishment+door](siddhidvāraṃ) [bestows](prayacchati)
 
 ## mukta-m0-p30-v733
-[this](etat) [of-activity](pravṛtteḥ)+[other](apara) [activity](pravṛttiḥ)+[and](ca) [O-great-goddess](mahā+īśvari)
+[this](etat) [of-activity](pravṛtter) [another](apara) [activity](pravṛttiś) [and](ca) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p30-v734
-[mind](manaḥ)+[wind](māruta)+[destruction](nāśaḥ) [indeed](hi) [that](tat)+[passage](saṃdvāra)+[absence](vihīnatā)
+[mind+wind+destruction](manomārutanāśo) [indeed](hi) [that+door+devoidness](tatsaṃdvāravihīnatā)
 
 ## mukta-m0-p30-v735
-[mind](manaḥ)+[where](yatra) [spreads](prasarati) [there](tatra) [wind](vāyuḥ) [runs](pradhāvati)
+[mind](mano) [where](yatra) [spreads](prasarati) [there](tatra) [wind](vāyuḥ) [rushes](pradhāvati)
 
 ## mukta-m0-p30-v736
-[on-paths](pathāseṣu) [on-ground](sthale)+[drop](biṃduḥ)+[is-led](nniyate) [by-mind](manasā)+[by-this](amunā)
+[on-paths](pathāseṣu) [in-places](sthalebiṃdur) [is-led](nniyate) [by-mind](manasā) [by-this](amunā)
 
 ## mukta-m0-p30-v737
-[there](tatra)+[very](ati) [trembling](taralaḥ)+[drop](biṃduḥ)+[follows](anudhāvati)+[without-doubt](asaṃśayaḥ)
+[there](tatra) [very+trembling](ati+taralo) [drop](biṃdur) [follows](anudhāvaty) [no+doubt](a+saṃśayaḥ)
 
 ## mukta-m0-p30-v738
-[mind](manaḥ)+[lord](nātha) [becomes-steady](sthirayate) [semen](śuklaṃ) [unsteady](caṃcalam)+[even](api)+[that](asau)
+[mind+lord](manonātha) [becomes-steady](sthirayate) [semen](śuklaṃ) [trembling+even](caṃcalam) [also](apy) [this](asau)
 
 ## mukta-m0-p30-v739
-[life](āyuḥ) [accumulation](saṃgrahaṇa)+[for-purpose](arthāya) [should-be-restrained](nigṛhṇītaḥ) [lord-of-rasa](raseśvaram)
+[life+preservation+for-sake](āyuḥ+saṃgrahaṇārthāya) [one-should-restrain](nigṛhṇīto) [essence+lord](raseśvaram)
 
 ## mukta-m0-p30-v740
-[with](sa)+[drop](biṃdu) [steady](sthira)+[splendor](teja)+[life](āyuḥ) [steady](sthirī) [becomes](bhavati) [O-Parvati](pārvati)
+[with-drop](sabiṃdu) [steady+vigor+life](sthiratejāyuḥ) [steady](sthirī) [becomes](bhavati) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p30-v741
-[radiance](kāṃtiḥ) [nourishment](puṣṭiḥ)+[and](ca) [satisfaction](tuṣṭiḥ)+[and](ca) [in-lord-of-rasa](rasanāthe) [established](pratiṣṭhitāḥ)
+[radiance](kāṃtiḥ) [nourishment](puṣṭiś) [and](ca) [satisfaction](tuṣṭiś) [and](ca) [in-essence+lord](rasanāthe) [established](pratiṣṭhitāḥ)
 
 ## mukta-m0-p30-v742
-[in-rasa](rase) [indeed](tu) [stability](stabdhatāṃ) [gone](yāte) [stable](stabdhaṃ) [that](tat)+[all](sarvam)+[O-Ambika](aṃbike)
+[in-essence](rase) [indeed](tu) [to-fixity](stabdhatāṃ) [gone](yāte) [fixed](stabdhaṃ) [that+all](tatsarvam) [O-Ambikā](aṃbike)
 
 ## mukta-m0-p30-v743
-[eight](aṣṭa)+[oblations](āhutīnāṃ) [at-end](paryaṃte) [fruit](phala)+[for-sake](arthaṃ) [is-done](kriyate) [by-wise](budhaiḥ)
+[of-eight+oblations](aṣṭāhutīnāṃ) [at-end](paryaṃte) [for-fruit+purpose](phalārthaṃ) [is-done](kriyate) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p30-v744
-[so-long](tāvat)+[food](anna)+[in-release](vimokṣe) [indeed](tu) [sacrifice](yajña)+[interruption](viccheda)+[danger](vīśasaṃ)
+[so-long](tāvad) [in-food+release](annavimokṣe) [indeed](tu) [sacrifice+interruption+danger](yajñavicchedavīśasaṃ)
 
 ## mukta-m0-p30-v745
-[having-made](vidhāya) [afterwards](paścāt)+[with-balls](gaulībhiḥ) [one-should-do](kuryāt)+[morsel](kabala)+[increase](bṛṃhaṇam)
+[having-made](vidhāya) [afterwards](paścād) [with-balls](gaulībhiḥ) [one-should-do](kuryāt) [morsel+increase](kabalabṛṃhaṇam)
 
 ## mukta-m0-p30-v746
-[very](ati)+[intense](tīvraḥ)+[wind](marut)+[eater](bhoktā) [mind](manaḥ)+[firmness](dhairya)+[increasing](vivarddhanaḥ)
+[very+sharp+wind+eater](atitīvromarudbhoktā) [mind+firmness+increasing](manodhairyavivarddhanaḥ)
 
 ## mukta-m0-p30-v747
-[below](adhastāt)+[by-falling](abhipātena) [in-cooking](prakvādhe) [being](sati)+[abundantly](bhūyasā)
+[below](adhastād) [by-striking](abhipātena) [in-cooking](prakvādhe) [being](sati) [abundantly](bhūyasā)
 
 ## mukta-m0-p30-v748
-[method](vidhāna)+[tube](nālikā) [through-opening](dvārā) [to-be-obtained](prāpyā) [succeeds](sidhyati) [ball](gaulikā)
+[by-method+tube](vidhānanālikā) [through-opening](dvārā) [having-reached](prāpyā) [succeeds](sidhyati) [ball](gaulikā)
 
 ## mukta-m0-p30-v749
-[by-that](tena)+[smeared](akta)+[cloth](vastraḥ) [in-vessel](pātra)+[etc.](ādau) [fire](vahniḥ)+[blazes](jvalati) [abundantly](bhūyasā)
+[by-that+smeared+cloth](tenāktavastraḥ) [in-vessel+etc.](pātrādau) [fire](vahnir) [blazes](jvalati) [abundantly](bhūyasā)
 
 ## mukta-m0-p30-v750
-[therefore](tasmāt)+[very](ati)+[light](laghu)+[clear](svacchā) [all](sarva)+[disease](vyādhi)+[destroying](vipāninī)
+[therefore](tasmād) [very+light+clear](atilaghusvacchā) [all+disease+destroying](sarvavyādhivipāninī)

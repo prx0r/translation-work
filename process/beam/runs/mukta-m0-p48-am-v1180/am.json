@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1180,
- "question": "What alternative division may be applied to the previously declared parts according to rule?",
+ "question": "What rise should the talipa element have relative to five parts?",
  "premises": [
-  "A seven-by-seven division is presented as an option.",
-  "This division applies to the parts already declared.",
-  "The procedure must follow the prescribed rule."
+  "A measure of five parts is taken as base",
+  "It is reduced by one quarter",
+  "This defines the talipa rise"
  ],
- "inference": "Alternatively, each of the declared parts may be divided sevenfold according to the rule.",
- "uncertainties": [],
- "plain_english": "Or there may be a seven-by-seven division in these declared parts, according to the rule."
+ "inference": "The rise of the talipa should be five parts less by a quarter.",
+ "uncertainties": [
+  "Exact architectural meaning of talipa is uncertain"
+ ],
+ "plain_english": "The rise of the talipa should be five parts minus one quarter."
 }

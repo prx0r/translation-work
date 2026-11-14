@@ -1,0 +1,993 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1001,
+   "rows": [
+    {
+     "surface": "hārāntaram",
+     "gloss": "interval-between-garlands",
+     "grounds": "compound denoting the space between hāra courses",
+     "morph": "compound: hāra+antara; n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces the next specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "by-one-part",
+     "grounds": "instrumental measure of proportion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paṃjarasya",
+     "gloss": "of-the-cage",
+     "grounds": "architectural member paṃjara",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-the-two-sides",
+     "grounds": "locative of placement on both sides",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "How is the interval between garlands proportioned on the sides of the cage?",
+   "premises": [
+    "The interval between garlands is specified next.",
+    "Its measure is given as one part.",
+    "The placement is on the two sides of the cage."
+   ],
+   "inference": "The hārāntara on both sides of the paṃjara is set at one part.",
+   "uncertainties": [],
+   "plain_english": "Then the interval between the garlands on the two sides of the cage is to be one part."
+  },
+  {
+   "verse": 1002,
+   "rows": [
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "architectural member śālā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "taddviguṇāyāmaṃ",
+     "gloss": "twice-that-length",
+     "grounds": "compound indicating length double that measure",
+     "morph": "compound: tad+dvi-guṇa+āyāma; m.acc.sg"
+    },
+    {
+     "surface": "tayormadhye",
+     "gloss": "in-middle-of-those-two",
+     "grounds": "locative phrase locating between the two",
+     "morph": "compound: tayoḥ+madhye; n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃjaram",
+     "gloss": "cage",
+     "grounds": "architectural member paṃjara",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What length and placement are prescribed for the hall and the cage?",
+   "premises": [
+    "The hall is assigned a length twice that measure.",
+    "A cage is placed in the middle of those two.",
+    "The specification concerns relative arrangement."
+   ],
+   "inference": "The śālā has twice that length, with a paṃjara placed between the two.",
+   "uncertainties": [
+    "The referent of 'those two' is not explicit in this verse alone."
+   ],
+   "plain_english": "The hall should be twice that length, and a cage should be placed in the middle of those two."
+  },
+  {
+   "verse": 1003,
+   "rows": [
+    {
+     "surface": "ūrdhvabhūma",
+     "gloss": "upper-storey",
+     "grounds": "compound denoting an upper floor level",
+     "morph": "compound: ūrdhva+bhūma; m.nom.sg"
+    },
+    {
+     "surface": "maṃcaṃ",
+     "gloss": "platform",
+     "grounds": "architectural platform or terrace member",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturbhāgaṃ",
+     "gloss": "four-parts",
+     "grounds": "measure of four parts",
+     "morph": "compound: catur+bhāga; m.acc.sg"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "measure of two parts",
+     "morph": "compound: dvi+bhāga; m.acc.sg"
+    },
+    {
+     "surface": "madhyabhadrakam",
+     "gloss": "middle-auspicious-projection",
+     "grounds": "central bhadraka member",
+     "morph": "compound: madhya+bhadraka; m.acc.sg"
+    }
+   ],
+   "question": "What proportional measures define the upper-storey platform and middle projection?",
+   "premises": [
+    "An upper-storey platform is specified.",
+    "Measures of four parts and two parts are given.",
+    "A middle auspicious projection is included."
+   ],
+   "inference": "The upper-storey platform is four parts and the middle bhadraka is two parts.",
+   "uncertainties": [
+    "The exact assignment of each measure to each member is compressed in the verse."
+   ],
+   "plain_english": "The upper-storey platform is four parts, and the middle bhadraka is two parts."
+  },
+  {
+   "verse": 1004,
+   "rows": [
+    {
+     "surface": "vedāśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "shape having four corners or sides",
+     "morph": "compound: veda+aśra; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhiṣṭhānaṃ",
+     "gloss": "base",
+     "grounds": "architectural base; spelling as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indicates similarity to previous specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇaṃ",
+     "gloss": "corner",
+     "grounds": "corner member",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śīrṣakam",
+     "gloss": "headpiece",
+     "grounds": "crowning member",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What form and corresponding members are prescribed for the base, corner, and headpiece?",
+   "premises": [
+    "The base is specified as four-cornered.",
+    "The corner and headpiece are included likewise.",
+    "The same manner applies to these members."
+   ],
+   "inference": "The base, corner, and headpiece are to be four-cornered in the same manner.",
+   "uncertainties": [
+    "The surface 'madhiṣṭhānaṃ' appears for expected adhiṣṭhānaṃ."
+   ],
+   "plain_english": "The base should be four-cornered, and likewise the corner and the headpiece."
+  },
+  {
+   "verse": 1005,
+   "rows": [
+    {
+     "surface": "śatālpanāsikopetaṃ",
+     "gloss": "with-many-small-noses",
+     "grounds": "compound describing possession of numerous small nāsikā elements",
+     "morph": "compound: śata+alpa+nāsikā+upeta; n.acc.sg"
+    },
+    {
+     "surface": "vṛṣasthalasamanvitam",
+     "gloss": "with-bull-platform",
+     "grounds": "compound indicating inclusion of a vṛṣasthala",
+     "morph": "compound: vṛṣa+sthala+samanvita; n.acc.sg"
+    }
+   ],
+   "question": "What additional architectural features must accompany the prescribed structure?",
+   "premises": [
+    "The structure is endowed with many small noses.",
+    "It is also provided with a bull platform.",
+    "Both features are required together."
+   ],
+   "inference": "The structure must include numerous small nāsikās and a vṛṣasthala.",
+   "uncertainties": [
+    "The exact count implied by 'śata' may be conventional rather than literal."
+   ],
+   "plain_english": "It should be furnished with many small noses and provided with a bull platform."
+  },
+  {
+   "verse": 1006,
+   "rows": [
+    {
+     "surface": "unnatau",
+     "gloss": "raised",
+     "grounds": "describes elevated height",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kūṭakoṣṭhau",
+     "gloss": "kuta-and-chamber",
+     "grounds": "pair of architectural members kūṭa and koṣṭha",
+     "morph": "compound: kūṭa+koṣṭha; m.nom.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral specifying a pair",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaraprastarānvitau",
+     "gloss": "with-inner-entablature",
+     "grounds": "compound indicating inclusion of inner prastara",
+     "morph": "compound: antara+prastara+anvita; m.nom.du"
+    }
+   ],
+   "question": "What paired elevated members with inner entablatures are required in this design?",
+   "premises": [
+    "Two members are specified as a pair.",
+    "They are the kūṭa and koṣṭha.",
+    "They are raised and provided with inner entablatures."
+   ],
+   "inference": "Two raised kūṭa-koṣṭha members must be furnished with inner prastaras.",
+   "uncertainties": [],
+   "plain_english": "There should be two raised kūṭa and koṣṭha members, furnished with inner entablatures."
+  },
+  {
+   "verse": 1007,
+   "rows": [
+    {
+     "surface": "śrīviśālamitikhyātaṃ",
+     "gloss": "known-as-shri-vishala",
+     "grounds": "compound giving the name Śrīviśāla",
+     "morph": "compound: śrī+viśāla+iti+khyāta; n.nom.sg"
+    },
+    {
+     "surface": "vartulaṃ",
+     "gloss": "round",
+     "grounds": "describes circular form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedikāgalam",
+     "gloss": "with-railing-neck",
+     "grounds": "compound describing a neck with vedikā",
+     "morph": "compound: vedikā+gala; n.nom.sg"
+    }
+   ],
+   "question": "What named form and shape characterize the structure with a railing neck?",
+   "premises": [
+    "The structure is known as Śrīviśāla.",
+    "It is round in form.",
+    "It has a railing neck."
+   ],
+   "inference": "The round structure with a vedikā neck is designated Śrīviśāla.",
+   "uncertainties": [],
+   "plain_english": "It is known as Śrīviśāla, round, and having a railing neck."
+  },
+  {
+   "verse": 1008,
+   "rows": [
+    {
+     "surface": "śrībhogamiti",
+     "gloss": "as-shri-bhoga",
+     "grounds": "compound giving the name Śrībhoga",
+     "morph": "compound: śrī+bhoga+iti; (indecl.)"
+    },
+    {
+     "surface": "vikhyātaṃ",
+     "gloss": "renowned",
+     "grounds": "states its fame or designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadevārhakaṃ",
+     "gloss": "worthy-for-all-gods",
+     "grounds": "compound indicating suitability for all deities",
+     "morph": "compound: sarva+deva+arhaka; n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "emphasizes highest status",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What status and suitability are claimed for the form named Śrībhoga?",
+   "premises": [
+    "The form is renowned as Śrībhoga.",
+    "It is worthy for all gods.",
+    "It is described as supreme."
+   ],
+   "inference": "The Śrībhoga form is a supreme design suitable for all deities.",
+   "uncertainties": [],
+   "plain_english": "It is renowned as Śrībhoga, supreme and worthy for all the gods."
+  },
+  {
+   "verse": 1009,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhādi",
+     "gloss": "kuta-chamber-and-others",
+     "grounds": "compound indicating kūṭa, koṣṭha, and related members",
+     "morph": "compound: kūṭa+koṣṭha+ādi; n.acc.sg"
+    },
+    {
+     "surface": "sarvāṃgaṃ",
+     "gloss": "all-parts",
+     "grounds": "compound meaning all limbs or components",
+     "morph": "compound: sarva+aṅga; n.acc.sg"
+    },
+    {
+     "surface": "prāgivaiva",
+     "gloss": "just-as-before",
+     "grounds": "compound emphasizing conformity with prior rule",
+     "morph": "compound: prāk+iva+eva; (indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active + root kḷp"
+    }
+   ],
+   "question": "How should all components including kūṭa and koṣṭha be arranged in this case?",
+   "premises": [
+    "All parts including kūṭa and koṣṭha are under consideration.",
+    "The arrangement must follow the previous manner.",
+    "A prescriptive rule is given."
+   ],
+   "inference": "One should arrange all components, including kūṭa and koṣṭha, just as before.",
+   "uncertainties": [],
+   "plain_english": "One should arrange all the parts, including the kūṭa and koṣṭha, just as before."
+  },
+  {
+   "verse": 1010,
+   "rows": [
+    {
+     "surface": "varṣasthalavihīnānāṃ",
+     "gloss": "of-those-without-bull-platform",
+     "grounds": "compound denoting structures lacking a vṛṣasthala; spelling as given",
+     "morph": "compound: varṣa-sthala+vihīna; m.gen.pl"
+    },
+    {
+     "surface": "karṇaṃ",
+     "gloss": "corner",
+     "grounds": "corner member",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śīrṣaka",
+     "gloss": "headpiece",
+     "grounds": "crowning member; form as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined",
+     "grounds": "indicates combination or accompaniment",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What corner and headpiece arrangement applies to structures lacking a bull platform?",
+   "premises": [
+    "The case concerns structures without a bull platform.",
+    "The corner and headpiece are specified.",
+    "They are to be joined together."
+   ],
+   "inference": "For structures without a vṛṣasthala, the corner should be joined with the headpiece.",
+   "uncertainties": [
+    "The surface 'varṣasthalavihīnānāṃ' appears for expected vṛṣasthalavihīnānāṃ."
+   ],
+   "plain_english": "For those without a bull platform, the corner should be joined with the headpiece."
+  },
+  {
+   "verse": 1011,
+   "rows": [
+    {
+     "surface": "nānālaṃkārasaṃyuktaṃ",
+     "gloss": "with-various-ornaments",
+     "grounds": "compound indicating many kinds of decoration",
+     "morph": "compound: nānā+alaṃkāra+saṃyukta; n.acc.sg"
+    },
+    {
+     "surface": "nānācitrairvicitritam",
+     "gloss": "variegated-with-various-pictures",
+     "grounds": "compound indicating decoration with diverse images",
+     "morph": "compound: nānā+citra+vicitrita; n.acc.sg"
+    }
+   ],
+   "question": "What kinds of ornamentation are required for the described structure?",
+   "premises": [
+    "The structure is joined with various ornaments.",
+    "It is variegated with various pictures.",
+    "Both ornamental modes are prescribed."
+   ],
+   "inference": "The structure must be richly decorated with diverse ornaments and images.",
+   "uncertainties": [],
+   "plain_english": "It should be furnished with various ornaments and variegated with various pictures."
+  },
+  {
+   "verse": 1012,
+   "rows": [
+    {
+     "surface": "ekabhūmi",
+     "gloss": "one-storey",
+     "grounds": "compound denoting a single floor",
+     "morph": "compound: eka+bhūmi; n.nom.sg"
+    },
+    {
+     "surface": "vidhānoktaṃ",
+     "gloss": "stated-in-arrangement",
+     "grounds": "compound referring to what is stated in the rule",
+     "morph": "compound: vidhāna+ukta; n.nom.sg"
+    },
+    {
+     "surface": "dvitalaṃ",
+     "gloss": "two-storey",
+     "grounds": "structure with two levels",
+     "morph": "compound: dvi+tala; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasizes particular application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the stated arrangement apply especially to a two-storey structure?",
+   "premises": [
+    "An arrangement stated for a one-storey structure is referenced.",
+    "A two-storey structure is specified.",
+    "The application is made especially to it."
+   ],
+   "inference": "The arrangement stated for one storey applies especially to the two-storey case.",
+   "uncertainties": [
+    "The precise modifications for the two-storey case are not detailed here."
+   ],
+   "plain_english": "What is stated for the one-storey arrangement applies especially to the two-storey structure."
+  },
+  {
+   "verse": 1013,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amshuman-kashyapa",
+     "grounds": "colophon-like compound naming the text Aṃśumān Kāśyapa",
+     "morph": "compound: iti+aṃśumān+kāśyapa; m.loc.sg"
+    },
+    {
+     "surface": "tritalavidhānapaṭalaḥ",
+     "gloss": "chapter-on-three-storey-arrangement",
+     "grounds": "compound naming the chapter on three-storey arrangement",
+     "morph": "compound: tri-tala+vidhāna+paṭala; m.nom.sg"
+    },
+    {
+     "surface": "aṣṭāviṃśaḥ",
+     "gloss": "twenty-eighth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter of the Aṃśumān Kāśyapa text concludes at this point?",
+   "premises": [
+    "The text named is Aṃśumān Kāśyapa.",
+    "The chapter concerns the arrangement of three storeys.",
+    "Its ordinal position is twenty-eighth."
+   ],
+   "inference": "This marks the end of the twenty-eighth chapter on three-storey arrangement in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the twenty-eighth chapter, on the arrangement of three storeys, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 1014,
+   "rows": [
+    {
+     "surface": "vistarotsedhamānaṃ",
+     "gloss": "measure-of-breadth-and-height",
+     "grounds": "compound denoting width and height measurements",
+     "morph": "compound: vistara+utsedha+māna; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "stated",
+     "grounds": "indicates what has been declared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāsādamānake",
+     "gloss": "in-temple-measurement",
+     "grounds": "locative referring to the section on temple measures",
+     "morph": "compound: prāsāda+mānaka; n.loc.sg"
+    }
+   ],
+   "question": "Where are the breadth and height measures of the temple stated?",
+   "premises": [
+    "Breadth and height measures are under discussion.",
+    "They have been stated previously.",
+    "The reference is to the section on temple measurement."
+   ],
+   "inference": "The measures of breadth and height are stated in the section on temple measurement.",
+   "uncertainties": [],
+   "plain_english": "The measures of breadth and height have been stated in the section on temple measurement."
+  },
+  {
+   "verse": 1015,
+   "rows": [
+    {
+     "surface": "gṛhapiṇḍyāliṃdahārādi",
+     "gloss": "house-base-porch-garland-and-others",
+     "grounds": "compound listing gṛha, piṇḍi, alinda, hāra, and related parts",
+     "morph": "compound: gṛha+piṇḍi+aliṃda+hāra+ādi; n.nom.sg"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "indicates individual application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgayā",
+     "gloss": "by-one-part",
+     "grounds": "instrumental measure of one part",
+     "morph": "compound: eka+bhāga; f.inst.sg"
+    }
+   ],
+   "question": "What unit measure applies individually to the house, base, porch, garland, and related parts?",
+   "premises": [
+    "A series of parts including house, base, porch, and garland is listed.",
+    "Each is to be considered separately.",
+    "The measure given is one part."
+   ],
+   "inference": "Each of these parts is assigned one part as its measure.",
+   "uncertainties": [
+    "Whether this refers to width, projection, or another dimension is not explicit."
+   ],
+   "plain_english": "The house, base, porch, garland, and so on should each be one part."
+  },
+  {
+   "verse": 1016,
+   "rows": [
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-kuta",
+     "grounds": "architectural member at the corner",
+     "morph": "compound: karṇa+kūṭa; n.nom.sg"
+    },
+    {
+     "surface": "tatāṃśaṃ",
+     "gloss": "that-part",
+     "grounds": "refers to the same part measure",
+     "morph": "compound: tad+aṃśa; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhaṃ",
+     "gloss": "chamber",
+     "grounds": "architectural koṣṭha member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad dviguṇāyatam",
+     "gloss": "twice-that-length",
+     "grounds": "compound indicating length double that measure; space preserved as given",
+     "morph": "compound: tad+dvi-guṇa+āyata; n.nom.sg"
+    }
+   ],
+   "question": "What relative lengths are prescribed for the corner kūṭa and the chamber?",
+   "premises": [
+    "The corner kūṭa is set at that part.",
+    "The chamber is specified next.",
+    "The chamber's length is twice that measure."
+   ],
+   "inference": "The karṇakūṭa is one part, while the koṣṭha is twice that length.",
+   "uncertainties": [],
+   "plain_english": "The corner kūṭa should be that part, and the chamber should be twice that length."
+  },
+  {
+   "verse": 1017,
+   "rows": [
+    {
+     "surface": "punarapyūrdhva bhūmiṃ",
+     "gloss": "again-upper-storey",
+     "grounds": "compound phrase referring again to an upper floor; space preserved as given",
+     "morph": "compound: punar+api+ūrdhva+bhūmi; f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasubhāgavibhājite",
+     "gloss": "divided-into-eight-parts",
+     "grounds": "compound indicating division into eight parts",
+     "morph": "compound: vasu+bhāga+vibhājita; n.loc.sg"
+    }
+   ],
+   "question": "How is the upper storey to be divided in the next stage of measurement?",
+   "premises": [
+    "The upper storey is considered again.",
+    "A division into parts is prescribed.",
+    "The division is into eight parts."
+   ],
+   "inference": "The upper storey is again to be divided into eight parts.",
+   "uncertainties": [],
+   "plain_english": "Again, the upper storey should be divided into eight parts."
+  },
+  {
+   "verse": 1018,
+   "rows": [
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "locative indicating the level above that",
+     "morph": "compound: tad+ūrdhva; n.loc.sg"
+    },
+    {
+     "surface": "aṣṭabhāge",
+     "gloss": "in-eight-parts",
+     "grounds": "locative of division into eight parts",
+     "morph": "compound: aṣṭa+bhāga; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāṃśaṃ",
+     "gloss": "shiva-part",
+     "grounds": "one part designated as śiva portion",
+     "morph": "compound: śiva+aṃśa; m.acc.sg"
+    },
+    {
+     "surface": "kūṭavistṛtam",
+     "gloss": "spread-as-kuta",
+     "grounds": "compound indicating the extent of the kūṭa",
+     "morph": "compound: kūṭa+vistṛta; n.acc.sg"
+    }
+   ],
+   "question": "What portion above that division is assigned to the spread of the kūṭa?",
+   "premises": [
+    "The level above is divided into eight parts.",
+    "One śiva part is specified.",
+    "This part defines the spread of the kūṭa."
+   ],
+   "inference": "Above that, in the eight-part division, one śiva part is taken as the width of the kūṭa.",
+   "uncertainties": [],
+   "plain_english": "Above that, in the eight-part division, one śiva part should be the spread of the kūṭa."
+  },
+  {
+   "verse": 1019,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "interval-between-garlands",
+     "grounds": "space between hāra courses",
+     "morph": "compound: hāra+antara; n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "stated",
+     "grounds": "declared as such",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hīnādhikyaṃ",
+     "gloss": "deficiency-or-excess",
+     "grounds": "compound denoting decrease or increase",
+     "morph": "compound: hīna+ādhikya; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśrayet",
+     "gloss": "one-should-not-adopt",
+     "grounds": "prohibitive instruction",
+     "morph": "3.sg.optative-active + root śri with negation"
+    }
+   ],
+   "question": "What use of the remainder and what restriction on deviation are prescribed?",
+   "premises": [
+    "The remainder is designated as the interval between garlands.",
+    "Deficiency or excess is considered.",
+    "A prohibition against adopting deviation is stated."
+   ],
+   "inference": "The remainder is the hārāntara, and one must not adopt any deficiency or excess.",
+   "uncertainties": [],
+   "plain_english": "The remainder is stated to be the interval between garlands, and one should not allow any deficiency or excess."
+  },
+  {
+   "verse": 1020,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "one-rod",
+     "grounds": "measure of one daṇḍa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vādhyardha daṇḍaṃ",
+     "gloss": "or-one-and-half-rod",
+     "grounds": "alternative measure of one and a half daṇḍa; space preserved as given",
+     "morph": "compound: vā+adhyardha+daṇḍa; m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvidaṇḍaṃ",
+     "gloss": "two-rods",
+     "grounds": "measure of two daṇḍas",
+     "morph": "compound: dvi+daṇḍa; m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirgatam",
+     "gloss": "projection",
+     "grounds": "outward projection measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative projection measures are permitted for the outward extension?",
+   "premises": [
+    "Projection is being specified.",
+    "Three alternative measures are given.",
+    "The measures are one, one and a half, or two rods."
+   ],
+   "inference": "The projection may be one daṇḍa, one and a half daṇḍas, or two daṇḍas.",
+   "uncertainties": [],
+   "plain_english": "The projection may be one rod, or one and a half rods, or two rods."
+  },
+  {
+   "verse": 1021,
+   "rows": [
+    {
+     "surface": "sārdhāṣṭāṃśaṃ",
+     "gloss": "eight-and-half-parts",
+     "grounds": "compound indicating eight and a half parts",
+     "morph": "compound: sa+ardha+aṣṭa+aṃśa; n.nom.sg"
+    },
+    {
+     "surface": "adhiṣṭhānaṃ",
+     "gloss": "base",
+     "grounds": "architectural base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "compound indicating five parts",
+     "morph": "compound: bhūta+aṃśa; n.nom.sg"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "pillar-rise",
+     "grounds": "compound denoting the height of the pillar",
+     "morph": "compound: caraṇa+udaya; m.acc.sg"
+    }
+   ],
+   "question": "What proportional heights are assigned to the base and the pillar rise?",
+   "premises": [
+    "The base is given a measure of eight and a half parts.",
+    "The pillar rise is given a measure of five parts.",
+    "Both are specified as proportional measures."
+   ],
+   "inference": "The base should be eight and a half parts and the pillar rise five parts.",
+   "uncertainties": [],
+   "plain_english": "The base should be eight and a half parts, and the rise of the pillar five parts."
+  },
+  {
+   "verse": 1022,
+   "rows": [
+    {
+     "surface": "sapakṣāṃśaṃ",
+     "gloss": "with-wing-part",
+     "grounds": "compound indicating inclusion of a pakṣa part",
+     "morph": "compound: sa+pakṣa+aṃśa; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃcoccaṃ",
+     "gloss": "platform-height",
+     "grounds": "compound denoting the height of the maṃca",
+     "morph": "compound: maṃca+ucca; n.acc.sg"
+    },
+    {
+     "surface": "kalpayed",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active + root kḷp"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to the recipient",
+     "morph": "compound: dvija+sattama; m.voc.sg"
+    }
+   ],
+   "question": "How should the platform height including the wing part be arranged?",
+   "premises": [
+    "The platform height is to be arranged.",
+    "It must include the wing part.",
+    "The instruction is addressed prescriptively."
+   ],
+   "inference": "One should arrange the platform height together with the wing part.",
+   "uncertainties": [
+    "The exact numerical value of the wing part is not stated in this verse."
+   ],
+   "plain_english": "O best of the twice-born, one should arrange the height of the platform together with the wing part."
+  },
+  {
+   "verse": 1023,
+   "rows": [
+    {
+     "surface": "sapādavedabhāgaṃ",
+     "gloss": "four-and-quarter-parts",
+     "grounds": "compound indicating four parts plus a quarter",
+     "morph": "compound: sa+pāda+veda+bhāga; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caraṇodayamiṣyate",
+     "gloss": "pillar-rise-is-desired",
+     "grounds": "compound with passive desiderative sense for the pillar rise",
+     "morph": "compound: caraṇa+udaya+iṣyate; 3.sg.passive-present + root iṣ"
+    }
+   ],
+   "question": "What measure is prescribed for the rise of the pillar in this specification?",
+   "premises": [
+    "The rise of the pillar is being specified.",
+    "The measure given is four and a quarter parts.",
+    "This measure is stated as the desired one."
+   ],
+   "inference": "The pillar rise is prescribed as four and a quarter parts.",
+   "uncertainties": [],
+   "plain_english": "The rise of the pillar is prescribed as four and a quarter parts."
+  },
+  {
+   "verse": 1024,
+   "rows": [
+    {
+     "surface": "karṇoccaṃ",
+     "gloss": "corner-height",
+     "grounds": "compound denoting the height of the corner",
+     "morph": "compound: karṇa+ucca; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "measure of two parts",
+     "morph": "compound: dvi+bhāga; n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.optative-active + root as"
+    },
+    {
+     "surface": "sārdhavedāṃśa śīrṣakam",
+     "gloss": "four-and-half-parts-headpiece",
+     "grounds": "compound indicating headpiece of four and a half parts; space preserved as given",
+     "morph": "compound: sa+ardha+veda+aṃśa+śīrṣaka; n.nom.sg"
+    }
+   ],
+   "question": "What heights are prescribed for the corner and the headpiece respectively?",
+   "premises": [
+    "The corner height is specified.",
+    "The corner height should be two parts.",
+    "The headpiece is specified as four and a half parts."
+   ],
+   "inference": "The corner height should be two parts and the headpiece four and a half parts.",
+   "uncertainties": [],
+   "plain_english": "The corner height should be two parts, and the headpiece should be four and a half parts."
+  }
+ ]
+}
