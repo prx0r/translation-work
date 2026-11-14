@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p198",
+ "items": [
+  {
+   "verse": 4950,
+   "rows": [
+    {
+     "surface": "gaṇeśānavad",
+     "gloss": "like-gaṇeśa",
+     "grounds": "comparative formation indicating likeness to Gaṇeśa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive expressing prior contemplative act",
+     "morph": "gerund(dhyai)"
+    },
+    {
+     "surface": "antaryajanaṃ",
+     "gloss": "inner-worship",
+     "grounds": "internal ritual worship to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-perform",
+     "grounds": "injunctive or optative sense directing the ritual action",
+     "morph": "3.sg.opt.act(nī)"
+    }
+   ],
+   "question": "In what manner must the practitioner conduct inner worship after identifying the self with Gaṇeśa?",
+   "premises": [
+    "The practitioner meditates on the self as like Gaṇeśa.",
+    "Meditation precedes the performance of inner worship.",
+    "Inner worship is the prescribed ritual action to be carried out."
+   ],
+   "inference": "Therefore, after meditating on oneself as Gaṇeśa, the practitioner should perform inner worship.",
+   "uncertainties": [
+    "The precise ritual details of antaryajanaṃ are not specified in this verse alone."
+   ],
+   "plain_english": "Having meditated on oneself as like Gaṇeśa, one should perform the inner worship."
+  }
+ ]
+}

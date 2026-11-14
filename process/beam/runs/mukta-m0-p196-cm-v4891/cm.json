@@ -3,19 +3,24 @@
  "verse": 4891,
  "rows": [
   {
-   "lemma": "pādamānāntarāṣṭāṃśe",
-   "morph": "loc.sg.m",
-   "grounds": "compound of pāda + māna + antara + aṣṭa + aṃśa"
+   "lemma": "tasya",
+   "morph": "n.gen.sg",
+   "grounds": "genitive referring back to the previously specified element"
   },
   {
-   "lemma": "navamānaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "nava + māna"
+   "lemma": "dvitīyamādyaṃ",
+   "morph": "n.acc.sg (compound: dvitīya+ādya)",
+   "grounds": "specifies a second and first component in sequence; fused compound kept as one token"
   },
   {
-   "lemma": "prakīrtitam",
-   "morph": "adj.nom.sg.n",
-   "grounds": "prakīrtita"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "sacaturdaśavarṇakam",
+   "morph": "n.acc.sg (compound: sa+caturdaśa+varṇaka)",
+   "grounds": "adds the fourteenth letter to the construction"
   }
  ]
 }
