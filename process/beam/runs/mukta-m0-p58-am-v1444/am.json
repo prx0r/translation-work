@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1444,
- "question": "What dimensions and form define the pavilion named Jaya?",
+ "question": "What metrical note is given for the twelfth verse here?",
  "premises": [
-  "A pavilion named Jaya is prescribed",
-  "Its size and form are specified"
+  "Affliction is the topic.",
+  "The twelfth verse is named.",
+  "Six-footed metre is specified."
  ],
- "inference": "The pavilion named Jaya should be made ten cubits in size and of solid form.",
- "uncertainties": [],
- "plain_english": "The pavilion named Jaya should be made ten cubits and of solid form."
+ "inference": "The twelfth verse on affliction is in six-footed metre.",
+ "uncertainties": [
+  "The exact verse reference is external."
+ ],
+ "plain_english": "Here the twelfth verse on affliction is in six-footed metre."
 }

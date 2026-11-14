@@ -3,29 +3,39 @@
  "verse": 1400,
  "rows": [
   {
-   "lemma": "tathā",
+   "lemma": "śṛṇu",
+   "morph": "2.sg.act-imp + root śru",
+   "grounds": "imperative verb addressed to the goddess"
+  },
+  {
+   "lemma": "devi",
+   "morph": "voc.sg.f",
+   "grounds": "vocative address to the deity"
+  },
+  {
+   "lemma": "viśeṣantu",
+   "morph": "acc.sg.m (indecl. fused)",
+   "grounds": "special object with enclitic tu retained as one fused token"
+  },
+  {
+   "lemma": "sandarbhaṃ",
+   "morph": "acc.sg.m",
+   "grounds": "object of the imperative hear"
+  },
+  {
+   "lemma": "vai",
    "morph": "(indecl.)",
-   "grounds": "adverb of manner"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "kāryā",
-   "morph": "fem.nom.sg.passive-participle (root kṛ)",
-   "grounds": "passive participle used as prescription"
+   "lemma": "same'pi",
+   "morph": "loc.sg.m (indecl. fused)",
+   "grounds": "locative same with api retained as one fused token"
   },
   {
-   "lemma": "maheśāni",
-   "morph": "fem.voc.sg",
-   "grounds": "vocative address to the goddess"
-  },
-  {
-   "lemma": "sthairyyasaṅkāriṇī",
-   "morph": "fem.nom.sg.compound",
-   "grounds": "compound: sthairya + saṅkāriṇī"
-  },
-  {
-   "lemma": "japāt",
-   "morph": "masc.abl.sg",
-   "grounds": "ablative of source or means"
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
   }
  ]
 }

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1422,
- "question": "On which days and at what time may the rite be performed?",
+ "question": "Where should the eighth potsherd rite be buried?",
  "premises": [
-  "mars day is an option",
-  "night and venus day are specified"
+  "the eighth rite is made in a potsherd",
+  "it is buried at the enemy gate",
+  "it is done at night"
  ],
- "inference": "The rite may be performed on mars day, at night, or on venus day.",
+ "inference": "the eighth potsherd rite is buried at night at the enemy gate",
  "uncertainties": [
-  "whether all conditions combine"
+  "the exact contents are not stated"
  ],
- "plain_english": "Or on mars day, and at night on venus day."
+ "plain_english": "The eighth is made in a potsherd and buried at night at the enemy gate."
 }

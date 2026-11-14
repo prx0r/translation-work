@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p59",
  "verse": 1468,
- "question": "Which three deities are always present at that sacred location?",
+ "question": "What objects are visualized in the crimson ocean?",
  "premises": [
-  "Brahmā, Viṣṇu, and Rudra are named",
-  "They form a triad",
-  "They are always present"
+  "The verse names the crimson ocean.",
+  "It also names a golden boat and throne without interval."
  ],
- "inference": "The three deities Brahmā, Viṣṇu, and Rudra are always present there.",
- "uncertainties": [],
- "plain_english": "Brahmā, Viṣṇu, and likewise Rudra—the three—are always present there."
+ "inference": "The meditation includes a golden boat and throne in the crimson ocean.",
+ "uncertainties": [
+  "The exact spatial relation of boat and throne is not detailed."
+ ],
+ "plain_english": "Crimson ocean, golden boat, and throne without interval."
 }

@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p59",
  "verse": 1472,
- "question": "What daily worship practice is observed at the pilgrimage site?",
+ "question": "In what direction should worship proceed in all enclosures?",
  "premises": [
-  "The location is a pilgrimage site",
-  "The three junctures are observed",
-  "The observance is worshipful"
+  "Worship is clockwise in all enclosures.",
+  "It begins from the front and proceeds clockwise."
  ],
- "inference": "The three daily junctures are worshipfully observed at the pilgrimage site.",
+ "inference": "The ritual proceeds clockwise from the front in every enclosure.",
  "uncertainties": [
-  "The agent performing the worship is not explicitly stated"
+  "The exact starting point within each enclosure is not specified."
  ],
- "plain_english": "At the pilgrimage site, the three daily junctures are worshipfully observed."
+ "plain_english": "Clockwise one should worship in all enclosures, from the front clockwise one should worship."
 }

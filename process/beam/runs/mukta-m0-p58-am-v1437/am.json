@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1437,
- "question": "What qualities must the structural materials possess for pavilion construction?",
+ "question": "What kind of name and writing surface is used in the next procedure?",
  "premises": [
-  "Materials must be ritually suitable",
-  "Shape and strength are specified"
+  "The next name is used.",
+  "It is joined with something.",
+  "A board is the writing surface."
  ],
- "inference": "Materials should be four-cornered or circular, not crooked, fit for sacrifice, and strong.",
- "uncertainties": [],
- "plain_english": "They should be four-cornered or circular, not crooked, fit for sacrifice, and strong."
+ "inference": "The next procedure uses a joined name written on a board.",
+ "uncertainties": [
+  "The exact joined element is not specified."
+ ],
+ "plain_english": "Indeed, with the next name joined, written on a board."
 }

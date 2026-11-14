@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1394,
- "question": "How is the syntactic connection of the preceding statement explained?",
+ "question": "What order of the fifteen daily rites has been stated?",
  "premises": [
-  "The speaker says 'I tell, you listen'.",
-  "This is identified as the connection."
+  "fifteen daily rites are named",
+  "their order is stated",
+  "the statement is thus"
  ],
- "inference": "The phrase 'I tell, you listen' provides the syntactic connection.",
- "uncertainties": [],
- "plain_english": "The connection is: 'I tell you, listen.'"
+ "inference": "thus the order of the fifteen daily rites has been stated",
+ "uncertainties": [
+  "the exact fifteen rites are not listed here"
+ ],
+ "plain_english": "Thus the order of the fifteen daily rites has been stated."
 }

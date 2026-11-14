@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1230,
- "question": "Who carefully concealed this treasure and what qualities characterized that guardian?",
+ "question": "How often should the goddess be worshipped and her mantra recited a thousand times?",
  "premises": [
-  "The guardian is described as calm in being.",
-  "The guardian is described as a great yogin.",
-  "The treasure was concealed by him with effort."
+  "the goddess is worshipped",
+  "the mantra is recited a thousand times"
  ],
- "inference": "A calm great yogin deliberately and carefully kept this treasure hidden.",
- "uncertainties": [],
- "plain_english": "A calm great yogin concealed it carefully."
+ "inference": "daily worship includes thousandfold recitation",
+ "uncertainties": [
+  "exact mantra"
+ ],
+ "plain_english": "Worship the goddess daily and also recite a thousand times."
 }

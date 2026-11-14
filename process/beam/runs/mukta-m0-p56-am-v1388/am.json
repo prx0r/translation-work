@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1388,
- "question": "How does the text introduce the response to the anticipated question?",
+ "question": "What does the guru do after summoning him and placing him in the circle center?",
  "premises": [
-  "An expectation of what was said is indicated.",
-  "A response is introduced with 'he says'.",
-  "The response begins with 'heard' and so on."
+  "the guru summons him",
+  "he is placed in the circle center",
+  "the action is preparatory"
  ],
- "inference": "In anticipation of the question, the text introduces the reply beginning with 'heard' and so forth.",
- "uncertainties": [],
- "plain_english": "In expectation of what she said, he replies, 'It is heard,' and so on."
+ "inference": "the guru summons him and places him in the center of the circle",
+ "uncertainties": [
+  "the following action is not in this verse"
+ ],
+ "plain_english": "Then the guru, summoning him and placing him in the center of the circle."
 }

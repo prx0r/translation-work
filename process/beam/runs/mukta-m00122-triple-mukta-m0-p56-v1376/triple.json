@@ -1,0 +1,947 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1376,
+   "rows": [
+    {
+     "surface": "ekaikavigrahāḥ",
+     "gloss": "one-by-one-forms",
+     "grounds": "compound ekaika+vigraha in plural nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ekaikatithirūpāḥ",
+     "gloss": "one-by-one-tithi-forms",
+     "grounds": "compound ekaika+tithi+rūpa in plural nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vratasaṅkalpaḥ",
+     "gloss": "vow-intention",
+     "grounds": "compound vrata+saṅkalpa in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are vow-intentions arranged when each form corresponds to each tithi?",
+   "premises": [
+    "each form is one-by-one",
+    "each tithi has a corresponding form",
+    "the vow-intention follows the prior order"
+   ],
+   "inference": "the vow-intention is ordered by matching each form to each tithi as before",
+   "uncertainties": [
+    "exact ritual referent of prāgvat is not specified"
+   ],
+   "plain_english": "The vow-intentions are one-by-one forms, each matching a tithi, as stated before."
+  },
+  {
+   "verse": 1377,
+   "rows": [
+    {
+     "surface": "vidyāprāptividhiṃ",
+     "gloss": "knowledge-acquisition-rite",
+     "grounds": "compound vidyā+prāpti+vidhi in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "speak",
+     "grounds": "imperative second person singular from root brū",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "fully",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mamādhunā",
+     "gloss": "my-now",
+     "grounds": "fused form mama+adhunā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What knowledge-acquisition rite should the god fully explain now?",
+   "premises": [
+    "the speaker asks the god",
+    "the request concerns the knowledge-acquisition rite",
+    "the request is for full explanation now"
+   ],
+   "inference": "the god is asked to fully explain the knowledge-acquisition rite now",
+   "uncertainties": [
+    "the exact deity addressed is not named"
+   ],
+   "plain_english": "O god, fully speak to me now the rite for acquiring knowledge."
+  },
+  {
+   "verse": 1378,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative second person singular from root śru",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-will-speak",
+     "grounds": "first person singular future from root vac",
+     "morph": "1.sg.act.fut"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative singular pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vidyāprāptividhiṃ",
+     "gloss": "knowledge-acquisition-rite",
+     "grounds": "compound vidyā+prāpti+vidhi in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "accusative singular adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What auspicious knowledge-acquisition rite will be spoken to the goddess?",
+   "premises": [
+    "the speaker will speak",
+    "the addressee is the goddess",
+    "the topic is the auspicious knowledge-acquisition rite"
+   ],
+   "inference": "the speaker promises to explain the auspicious knowledge-acquisition rite to the goddess",
+   "uncertainties": [
+    "the exact ritual steps are not yet given"
+   ],
+   "plain_english": "Hear, goddess: I will speak to you the auspicious rite for acquiring knowledge."
+  },
+  {
+   "verse": 1379,
+   "rows": [
+    {
+     "surface": "tadbhāvamāyayoraikyarūpamānandavigraham",
+     "gloss": "of-that-being-and-māyā-unity-form-bliss-body",
+     "grounds": "long compound describing unity of that being and māyā as bliss-form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the bliss-form arising from the unity of that being and māyā?",
+   "premises": [
+    "that being and māyā are named",
+    "their unity is described",
+    "the result is a bliss-form"
+   ],
+   "inference": "the unity of that being and māyā takes the form of a bliss-body",
+   "uncertainties": [
+    "the compound's exact internal parsing is dense"
+   ],
+   "plain_english": "It is the bliss-form of the unity of that being and māyā."
+  },
+  {
+   "verse": 1380,
+   "rows": [
+    {
+     "surface": "kucandanaiḥ",
+     "gloss": "with-saffron",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kuṅkumairvā",
+     "gloss": "or-with-saffron",
+     "grounds": "fused form kuṅkumaiḥ+vā in instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sindūrairgairikaiḥ",
+     "gloss": "with-vermilion-and-gairika",
+     "grounds": "fused instrumental plural compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "instrumental plural adjective",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "With which auspicious substances is the rite performed?",
+   "premises": [
+    "saffron is named",
+    "vermilion and gairika are named",
+    "the substances are auspicious"
+   ],
+   "inference": "the rite uses auspicious substances such as saffron, vermilion, and gairika",
+   "uncertainties": [
+    "whether all are used together or alternatively is not fully clear"
+   ],
+   "plain_english": "With saffron, or with saffron, with vermilion and gairika, and with auspicious substances."
+  },
+  {
+   "verse": 1381,
+   "rows": [
+    {
+     "surface": "yasyā",
+     "gloss": "whose",
+     "grounds": "genitive singular feminine relative pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yaccakramāravyātaṃ",
+     "gloss": "which-circle",
+     "grounds": "fused relative form referring to the circle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityapūjāvidhikrame",
+     "gloss": "in-daily-worship-rite-order",
+     "grounds": "compound nitya+pūjā+vidhi+krama in locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Whose circle is arranged in the order of daily worship?",
+   "premises": [
+    "a circle is named",
+    "it belongs to someone",
+    "the order is that of daily worship"
+   ],
+   "inference": "the circle belonging to the goddess is arranged in daily worship order",
+   "uncertainties": [
+    "the exact owner is only implied"
+   ],
+   "plain_english": "Whose circle is arranged in the order of daily worship."
+  },
+  {
+   "verse": 1382,
+   "rows": [
+    {
+     "surface": "proktakramasamopetaṃ",
+     "gloss": "endowed-with-stated-order",
+     "grounds": "compound prokta+krama+sama+upeta in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvedyurgītanṛtyakau",
+     "gloss": "previous-day-song-and-dance",
+     "grounds": "fused compound pūrvedyuḥ+gīta+nṛtyaka in dual nominative",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What is endowed with the stated order on the previous day?",
+   "premises": [
+    "the stated order is present",
+    "the previous day includes song and dance",
+    "the form is dual"
+   ],
+   "inference": "song and dance on the previous day are endowed with the stated order",
+   "uncertainties": [
+    "the exact dual referents are not fully explicit"
+   ],
+   "plain_english": "Endowed with the stated order are song and dance on the previous day."
+  },
+  {
+   "verse": 1383,
+   "rows": [
+    {
+     "surface": "tattithau",
+     "gloss": "on-that-tithi",
+     "grounds": "fused form tat+tithau in locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prāṅmukhaṃ",
+     "gloss": "east-facing",
+     "grounds": "compound prāñc+mukha in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śiṣṭamuktalakṣaṇasaṃyutam",
+     "gloss": "endowed-with-remaining-liberated-marks",
+     "grounds": "compound śiṣṭa+mukta+lakṣaṇa+saṃyuta in accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is east-facing and endowed with the remaining liberated marks on that tithi?",
+   "premises": [
+    "the tithi is specified",
+    "the form is east-facing",
+    "it has remaining liberated marks"
+   ],
+   "inference": "on that tithi the form is east-facing and bears the remaining liberated marks",
+   "uncertainties": [
+    "the exact object being described is implied"
+   ],
+   "plain_english": "On that tithi, east-facing, endowed with the remaining liberated marks."
+  },
+  {
+   "verse": 1384,
+   "rows": [
+    {
+     "surface": "tajjalaṃ",
+     "gloss": "that-water",
+     "grounds": "fused form tat+jalaṃ in nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgudaṅmadhyadikṣugaṃ",
+     "gloss": "going-east-north-middle-directions",
+     "grounds": "compound prāc+udañc+madhya+dikṣu+ga in nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvasiddhidam",
+     "gloss": "all-accomplishment-giving",
+     "grounds": "compound sarva+siddhi+da in nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What water gives all accomplishments while moving through the directions?",
+   "premises": [
+    "that water is named",
+    "it moves east, north, and middle directions",
+    "it gives all accomplishments"
+   ],
+   "inference": "that water, moving through the directions, gives all accomplishments",
+   "uncertainties": [
+    "the exact ritual use of the water is not stated"
+   ],
+   "plain_english": "That water, going east, north, and middle directions, gives all accomplishments."
+  },
+  {
+   "verse": 1385,
+   "rows": [
+    {
+     "surface": "vahnidāhaṃ",
+     "gloss": "fire-burning",
+     "grounds": "compound vahni+dāha in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mṛtiṃ",
+     "gloss": "death",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rogaṃ",
+     "gloss": "disease",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dāridryaṃ",
+     "gloss": "poverty",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deśamocanam",
+     "gloss": "place-release",
+     "grounds": "compound deśa+mocana in accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What afflictions and place-release are named in the rite?",
+   "premises": [
+    "fire-burning is named",
+    "death, disease, and poverty are named",
+    "place-release is named"
+   ],
+   "inference": "the rite names fire-burning, death, disease, poverty, and place-release",
+   "uncertainties": [
+    "whether these are to be removed or invoked is not explicit"
+   ],
+   "plain_english": "Fire-burning, death, disease, poverty, and place-release."
+  },
+  {
+   "verse": 1386,
+   "rows": [
+    {
+     "surface": "tato'sau",
+     "gloss": "then-that",
+     "grounds": "fused form tataḥ+asau",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paridhāyāsu",
+     "gloss": "having-worn",
+     "grounds": "absolutive from paridhā",
+     "morph": "abs"
+    },
+    {
+     "surface": "śubhreśuddhe",
+     "gloss": "bright-pure",
+     "grounds": "fused dual adjective",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsasī",
+     "gloss": "garments",
+     "grounds": "dual nominative",
+     "morph": "n.nom.du"
+    }
+   ],
+   "question": "What bright pure garments are worn then?",
+   "premises": [
+    "the action occurs then",
+    "garments are worn",
+    "the garments are bright and pure"
+   ],
+   "inference": "then one wears bright, pure garments",
+   "uncertainties": [
+    "the exact wearer is implied"
+   ],
+   "plain_english": "Then, having worn bright, pure garments."
+  },
+  {
+   "verse": 1387,
+   "rows": [
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive from abhyarc",
+     "morph": "abs"
+    },
+    {
+     "surface": "pādayornāthaṃ",
+     "gloss": "at-feet-lord",
+     "grounds": "fused compound pādayoḥ+nātham in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcaślokaiḥ",
+     "gloss": "with-five-verses",
+     "grounds": "compound pañca+śloka in instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "stuvaṃstriśaḥ",
+     "gloss": "praising-thrice",
+     "grounds": "fused form stuvan+triśaḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the lord at the feet worshipped and praised?",
+   "premises": [
+    "worship is performed",
+    "the lord at the feet is addressed",
+    "five verses and thrice-praising are used"
+   ],
+   "inference": "the lord at the feet is worshipped with five verses and praised thrice",
+   "uncertainties": [
+    "the exact identity of the lord is not stated"
+   ],
+   "plain_english": "Having worshipped the lord at the feet with five verses, praising thrice."
+  },
+  {
+   "verse": 1388,
+   "rows": [
+    {
+     "surface": "tatogurustamāhūya",
+     "gloss": "then-guru-summoning-him",
+     "grounds": "fused compound tataḥ+guruḥ+tam+āhūya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakramdhye",
+     "gloss": "in-circle-center",
+     "grounds": "fused compound cakra+madhye in locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niveśya",
+     "gloss": "having-placed",
+     "grounds": "absolutive from niveś",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the guru do after summoning him and placing him in the circle center?",
+   "premises": [
+    "the guru summons him",
+    "he is placed in the circle center",
+    "the action is preparatory"
+   ],
+   "inference": "the guru summons him and places him in the center of the circle",
+   "uncertainties": [
+    "the following action is not in this verse"
+   ],
+   "plain_english": "Then the guru, summoning him and placing him in the center of the circle."
+  },
+  {
+   "verse": 1389,
+   "rows": [
+    {
+     "surface": "proktakrameṇa",
+     "gloss": "by-stated-order",
+     "grounds": "compound prokta+krama in instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "accusative singular feminine pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidyārūpāṃ",
+     "gloss": "knowledge-form",
+     "grounds": "compound vidyā+rūpa in accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahādyutim",
+     "gloss": "great-radiance",
+     "grounds": "compound mahā+dyuti in accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the knowledge-form goddess of great radiance established?",
+   "premises": [
+    "the stated order is used",
+    "the goddess is knowledge-form",
+    "she has great radiance"
+   ],
+   "inference": "by the stated order the knowledge-form goddess of great radiance is established",
+   "uncertainties": [
+    "the exact establishment verb is in the next verse"
+   ],
+   "plain_english": "By the stated order, that goddess, knowledge-form, of great radiance."
+  },
+  {
+   "verse": 1390,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive from saṃsthā",
+     "morph": "abs"
+    },
+    {
+     "surface": "proktarūpāṃ",
+     "gloss": "stated-form",
+     "grounds": "compound prokta+rūpa in accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "accusative singular feminine pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyātvā'bhyarcya",
+     "gloss": "having-meditated-and-worshipped",
+     "grounds": "fused absolutive dhyātvā+abhyarcya",
+     "morph": "abs"
+    },
+    {
+     "surface": "vadenmanum",
+     "gloss": "should-speak-mantra",
+     "grounds": "fused form vadet+manum",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be done after establishing and worshipping the stated-form goddess?",
+   "premises": [
+    "she is established",
+    "she is meditated upon and worshipped",
+    "the mantra should then be spoken"
+   ],
+   "inference": "after establishing, meditating upon, and worshipping her, one should speak the mantra",
+   "uncertainties": [
+    "the exact mantra is not given"
+   ],
+   "plain_english": "Having established her, having meditated upon and worshipped her, one should speak the mantra."
+  },
+  {
+   "verse": 1391,
+   "rows": [
+    {
+     "surface": "tatastatraiva",
+     "gloss": "then-there-itself",
+     "grounds": "fused form tataḥ+tatra+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "accusative singular feminine pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "accusative singular numeral",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japyāttadātmavān",
+     "gloss": "should-chant-then-self-possessed",
+     "grounds": "fused form japyāt+tadā+ātmavān",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times should that knowledge be chanted there?",
+   "premises": [
+    "the place is there itself",
+    "that knowledge is named",
+    "one hundred chants are prescribed"
+   ],
+   "inference": "there itself one should chant that knowledge one hundred times, being self-possessed",
+   "uncertainties": [
+    "the exact timing within the rite is implied"
+   ],
+   "plain_english": "Then there itself, that knowledge, one hundred times, should be chanted by the self-possessed."
+  },
+  {
+   "verse": 1392,
+   "rows": [
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "absolutive from praṇam",
+     "morph": "abs"
+    },
+    {
+     "surface": "trirupāsīta",
+     "gloss": "thrice-should-worship",
+     "grounds": "fused form triḥ+upāsīta",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mūrddhabaddhāñjaliḥ",
+     "gloss": "joined-palms-at-head",
+     "grounds": "compound mūrdha+baddha+aṅjali in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stuvan",
+     "gloss": "praising",
+     "grounds": "present participle from stu",
+     "morph": "pres.part"
+    }
+   ],
+   "question": "How should one worship thrice after bowing?",
+   "premises": [
+    "bowing is performed",
+    "worship is thrice",
+    "joined palms at the head and praising accompany it"
+   ],
+   "inference": "after bowing, one should worship thrice with joined palms at the head while praising",
+   "uncertainties": [
+    "the exact object of worship is implied"
+   ],
+   "plain_english": "Having bowed, one should worship thrice with joined palms at the head, praising."
+  },
+  {
+   "verse": 1393,
+   "rows": [
+    {
+     "surface": "ādiśeddeśikastasmāddinādārabhya",
+     "gloss": "should-instruct-teacher-from-that-day-beginning",
+     "grounds": "fused compound ādiśet+deśikaḥ+tasmāt+dināt+ārabhya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so'pi",
+     "gloss": "he-also",
+     "grounds": "fused form saḥ+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "accusative singular feminine pronoun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What should the teacher instruct from that day onward?",
+   "premises": [
+    "the teacher instructs",
+    "the instruction begins from that day",
+    "he also receives that"
+   ],
+   "inference": "from that day the teacher should instruct, and he too receives that",
+   "uncertainties": [
+    "the exact content of instruction is implied"
+   ],
+   "plain_english": "The teacher should instruct from that day onward; he too receives that."
+  },
+  {
+   "verse": 1394,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśānāṃ",
+     "gloss": "of-fifteen",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityānāṃ",
+     "gloss": "of-daily",
+     "grounds": "genitive plural feminine",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "krama",
+     "gloss": "order",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "stated",
+     "grounds": "past participle from īr",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What order of the fifteen daily rites has been stated?",
+   "premises": [
+    "fifteen daily rites are named",
+    "their order is stated",
+    "the statement is thus"
+   ],
+   "inference": "thus the order of the fifteen daily rites has been stated",
+   "uncertainties": [
+    "the exact fifteen rites are not listed here"
+   ],
+   "plain_english": "Thus the order of the fifteen daily rites has been stated."
+  },
+  {
+   "verse": 1395,
+   "rows": [
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural feminine pronoun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "naimittikaṃ",
+     "gloss": "occasional",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmyaṃ",
+     "gloss": "desired",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lalitoktavidhānataḥ",
+     "gloss": "according-to-Lalita-stated-rite",
+     "grounds": "compound lalita+ukta+vidhāna in ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What occasional and desired rites of them follow Lalita's stated rite?",
+   "premises": [
+    "the rites belong to them",
+    "occasional and desired rites are named",
+    "they follow Lalita's stated rite"
+   ],
+   "inference": "their occasional and desired rites are according to Lalita's stated rite",
+   "uncertainties": [
+    "the exact occasional rites are not specified"
+   ],
+   "plain_english": "Of them, the occasional and desired rites are according to Lalita's stated rite."
+  },
+  {
+   "verse": 1396,
+   "rows": [
+    {
+     "surface": "pūrṇābhiṣekaśca",
+     "gloss": "full-consecration-and",
+     "grounds": "fused form pūrṇa+abhiṣekaḥ+ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tattannityasaparyācakreṇa",
+     "gloss": "by-respective-daily-worship-circle",
+     "grounds": "compound tat+tat+nitya+saparyā+cakra in instrumental singular",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How is full consecration performed?",
+   "premises": [
+    "full consecration is named",
+    "it is by the respective daily worship circle",
+    "the circle belongs to each"
+   ],
+   "inference": "full consecration is performed by the respective daily worship circle",
+   "uncertainties": [
+    "the exact consecration procedure is not detailed"
+   ],
+   "plain_english": "Full consecration, by the respective daily worship circle."
+  },
+  {
+   "verse": 1397,
+   "rows": [
+    {
+     "surface": "āsāmanyonyamaṅgāni",
+     "gloss": "of-these-mutual-limbs",
+     "grounds": "fused compound āsām+anyonya+aṅgāni",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pūjāsu",
+     "gloss": "in-worships",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What mutual limbs of these are used in worships?",
+   "premises": [
+    "these have mutual limbs",
+    "the limbs are used in worships",
+    "the addressee is the supreme goddess"
+   ],
+   "inference": "the mutual limbs of these are used in worships, O supreme goddess",
+   "uncertainties": [
+    "the exact limbs are not enumerated"
+   ],
+   "plain_english": "O supreme goddess, the mutual limbs of these are in worships."
+  },
+  {
+   "verse": 1398,
+   "rows": [
+    {
+     "surface": "anyadā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktarūpāstāstatratatrārcane",
+     "gloss": "stated-forms-there-there-in-worship",
+     "grounds": "fused compound prokta+rūpāḥ+tāḥ+tatra+tatra+arcane",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "past participle from man",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "When are the stated forms considered otherwise?",
+   "premises": [
+    "otherwise is specified",
+    "stated forms are named",
+    "they are considered in worship there and there"
+   ],
+   "inference": "otherwise the stated forms are considered in worship there and there",
+   "uncertainties": [
+    "the exact alternative context is not fully explicit"
+   ],
+   "plain_english": "Otherwise, the stated forms are considered in worship there and there."
+  },
+  {
+   "verse": 1399,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "fully-declared",
+     "grounds": "past participle from samākhyā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sādhāraṇavidhānakam",
+     "gloss": "common-rite",
+     "grounds": "compound sādhāraṇa+vidhānaka in nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What common rite has thus been fully declared?",
+   "premises": [
+    "all has been declared",
+    "the declaration is thus",
+    "the rite is common"
+   ],
+   "inference": "thus all of the common rite has been fully declared",
+   "uncertainties": [
+    "the exact scope of all is implied"
+   ],
+   "plain_english": "Thus all of the common rite has been fully declared."
+  }
+ ]
+}

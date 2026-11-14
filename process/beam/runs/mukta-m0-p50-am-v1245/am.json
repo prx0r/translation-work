@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1245,
- "question": "What drastic resolve follows from the futility of prior efforts?",
+ "question": "How does one conquer the opponent after recitation?",
  "premises": [
-  "The prior efforts are deemed futile.",
-  "The speaker resolves to abandon the body.",
-  "The speaker resolves never to speak."
+  "one recites the stated number",
+  "then conquers the opponent"
  ],
- "inference": "Because of the futility, the speaker resolves to abandon the body and remain silent forever.",
- "uncertainties": [],
- "plain_english": "Therefore I shall abandon the body and shall never speak again."
+ "inference": "recitation leads to victory over the opponent",
+ "uncertainties": [
+  "exact number"
+ ],
+ "plain_english": "Having recited the stated number, conquer that opponent."
 }

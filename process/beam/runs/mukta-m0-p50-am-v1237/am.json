@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1237,
- "question": "What qualities establish that he is truly fit for the prescribed conduct?",
+ "question": "What should be written in the corners with the target?",
  "premises": [
-  "He is described as peaceful.",
-  "He is described as a great yogin.",
-  "He is declared capable of the conduct."
+  "the second syllable is joined with the target",
+  "three others are written in corners"
  ],
- "inference": "His peacefulness and yogic attainment make him genuinely fit for the conduct.",
- "uncertainties": [],
- "plain_english": "He too is peaceful, a great yogin, and indeed capable of the conduct."
+ "inference": "the diagram includes target and three syllables",
+ "uncertainties": [
+  "exact syllables"
+ ],
+ "plain_english": "Write the second syllable joined with the target and three others in the corners."
 }

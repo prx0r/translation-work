@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1421,
- "question": "Which newly married menstruating brahmin maiden should be requested?",
+ "question": "Where and when should the skull be buried?",
  "premises": [
-  "newly married and menstruating are specified",
-  "brahmin maiden is requested"
+  "the skull is placed",
+  "the place is a cremation ground",
+  "the burial is at night"
  ],
- "inference": "The rite requests a newly married, menstruating brahmin maiden.",
+ "inference": "the skull is buried at night in a cremation ground",
  "uncertainties": [
-  "purpose of request"
+  "the exact object placed is not stated"
  ],
- "plain_english": "One should indeed request a newly married, menstruating brahmin maiden."
+ "plain_english": "Having placed it in a skull, bury it at night in a cremation ground."
 }

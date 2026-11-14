@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1435,
- "question": "Where should the pavilion be placed relative to the temple structure?",
+ "question": "Where is the fourteenth name written after being prepared on birch bark?",
  "premises": [
-  "Placement affects ritual suitability",
-  "The pavilion must be in front of the temple"
+  "The fourteenth name is prepared.",
+  "Birch bark is the writing surface.",
+  "A crossroads is the location."
  ],
- "inference": "It should be placed in front of the temple, neither too near nor too far.",
- "uncertainties": [],
- "plain_english": "In the front region of the temple, neither too near nor too far."
+ "inference": "The fourteenth name is written on birch bark at a crossroads.",
+ "uncertainties": [
+  "The exact preparation of the name is not detailed."
+ ],
+ "plain_english": "Having made the fourteenth name on birch bark, one places it at a crossroads."
 }

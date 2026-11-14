@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1242,
- "question": "What command was issued directing the son to go toward Trilocana?",
+ "question": "What should be done with the final pair for pacification?",
  "premises": [
-  "A command was given.",
-  "The addressee is called son.",
-  "The destination is toward Trilocana."
+  "the final pair is used",
+  "pacification is done"
  ],
- "inference": "The son was commanded to go to Trilocana.",
- "uncertainties": [],
- "plain_english": "He commanded: 'Go, son, to Trilocana.'"
+ "inference": "the remainder of the rite is pacification",
+ "uncertainties": [
+  "exact remainder"
+ ],
+ "plain_english": "With the final pair, do pacification; thus is the remainder."
 }

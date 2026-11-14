@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1431,
- "question": "What alternative measurement scheme is held in some authorities' opinion?",
+ "question": "Where and with what juice is the twelfth diagram written?",
  "premises": [
-  "Measurements can vary by tradition",
-  "A scheme starting at thirty cubits is proposed"
+  "The twelfth diagram is specified.",
+  "It is written on a shard.",
+  "Night juice is the writing medium."
  ],
- "inference": "In some opinion, another scheme begins from thirty cubits and decreases by ten.",
- "uncertainties": [],
- "plain_english": "And in some opinion, another begins from thirty cubits and so on, decreasing by ten."
+ "inference": "The twelfth diagram is written on a shard with night juice.",
+ "uncertainties": [
+  "The exact shard material is unspecified."
+ ],
+ "plain_english": "Having written that twelfth diagram on a shard with night juice, one proceeds again."
 }

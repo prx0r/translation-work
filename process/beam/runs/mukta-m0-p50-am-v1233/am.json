@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1233,
- "question": "What exalted state is attained by the greatly peaceful supreme lord?",
+ "question": "How should other rites be performed at other times?",
  "premises": [
-  "The subject is described as greatly peaceful.",
-  "The subject is identified as the supreme lord.",
-  "Freedom from aging and death has been attained."
+  "other rites occur at other times",
+  "they are done thus as previously said"
  ],
- "inference": "The greatly peaceful supreme lord has attained freedom from aging and death.",
- "uncertainties": [],
- "plain_english": "The greatly peaceful supreme lord attained freedom from aging and death."
+ "inference": "the same prior method applies",
+ "uncertainties": [
+  "which rites"
+ ],
+ "plain_english": "At other times, in rites, do thus as previously said."
 }

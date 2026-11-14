@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1382,
- "question": "Which element is identified as the fifth and world-supporting principle?",
+ "question": "What is endowed with the stated order on the previous day?",
  "premises": [
-  "A fair-faced one is addressed.",
-  "The fifth element is named.",
-  "It is described as supporting the world."
+  "the stated order is present",
+  "the previous day includes song and dance",
+  "the form is dual"
  ],
- "inference": "Ether is the fifth element and supports the world.",
- "uncertainties": [],
- "plain_english": "O fair-faced one, know ether as the fifth, the support of the world."
+ "inference": "song and dance on the previous day are endowed with the stated order",
+ "uncertainties": [
+  "the exact dual referents are not fully explicit"
+ ],
+ "plain_english": "Endowed with the stated order are song and dance on the previous day."
 }

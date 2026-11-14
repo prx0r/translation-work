@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1249,
- "question": "How can the speaker grant either great accomplishment or direct vision to the addressee?",
+ "question": "Where is the blood-written item placed on human skin?",
  "premises": [
-  "The speaker questions their ability to give.",
-  "The possible gifts are great accomplishment or vision.",
-  "The addressee is the intended recipient."
+  "human skin is used",
+  "it is written in blood",
+  "it is placed in that cremation ground"
  ],
- "inference": "The speaker expresses doubt about being able to grant the addressee either great accomplishment or vision.",
- "uncertainties": [],
- "plain_english": "How shall I give you great accomplishment or a vision?"
+ "inference": "the blood-written item belongs in the cremation ground",
+ "uncertainties": [
+  "exact item"
+ ],
+ "plain_english": "On human skin, and that blood-written item in that cremation ground."
 }

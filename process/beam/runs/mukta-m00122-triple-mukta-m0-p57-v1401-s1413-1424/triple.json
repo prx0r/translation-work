@@ -1,0 +1,580 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1413,
+   "rows": [
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "ordinal adjective modifying the rite",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kharpare",
+     "gloss": "in-potsherd",
+     "grounds": "locative of kharpara",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun",
+     "morph": "pron.instr.sg.m"
+    },
+    {
+     "surface": "vilikhya",
+     "gloss": "having-drawn",
+     "grounds": "gerund of vilikh",
+     "morph": "verb.gerund"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "locative of niśā",
+     "morph": "noun.loc.sg.f"
+    },
+    {
+     "surface": "tāpayet",
+     "gloss": "heat",
+     "grounds": "causative verb",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What is the second potsherd rite performed at night?",
+   "premises": [
+    "the second rite uses a potsherd",
+    "it is drawn by that means",
+    "it is heated at night"
+   ],
+   "inference": "the second rite is a night heating of a drawn potsherd",
+   "uncertainties": [
+    "exact ritual purpose is not stated"
+   ],
+   "plain_english": "The second rite is drawn in a potsherd and heated at night."
+  },
+  {
+   "verse": 1414,
+   "rows": [
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun",
+     "morph": "pron.instr.sg.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "adv.indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "part.indecl."
+    },
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "gerund of likh",
+     "morph": "verb.gerund"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "locative of niśā",
+     "morph": "noun.loc.sg.f"
+    },
+    {
+     "surface": "tāpayet",
+     "gloss": "heat",
+     "grounds": "causative verb",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What is the third rite performed there at night?",
+   "premises": [
+    "the third rite is done by that means",
+    "it is written there indeed",
+    "it is heated at night"
+   ],
+   "inference": "the third rite is a night heating after writing there",
+   "uncertainties": [
+    "the exact object written is not stated"
+   ],
+   "plain_english": "The third rite is written there and heated at night."
+  },
+  {
+   "verse": 1415,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "demonstrative with emphatic eva",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "dampatī",
+     "gloss": "couple",
+     "grounds": "compound noun",
+     "morph": "noun.acc.du.m"
+    },
+    {
+     "surface": "dagdhavahnyāgāraṃ",
+     "gloss": "burnt-fire-house",
+     "grounds": "compound noun",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "part.indecl."
+    },
+    {
+     "surface": "nimbaje",
+     "gloss": "in-neem",
+     "grounds": "locative of nimba",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "Where should the same couple be placed in a burnt fire house?",
+   "premises": [
+    "the same couple is meant",
+    "the burnt fire house is specified",
+    "the location is in neem"
+   ],
+   "inference": "the rite places the couple in a burnt fire house in neem",
+   "uncertainties": [
+    "the exact ritual action is not stated"
+   ],
+   "plain_english": "That same couple is placed in a burnt fire house in neem."
+  },
+  {
+   "verse": 1416,
+   "rows": [
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative of śmaśāna",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "vairiṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "genitive plural of vairin",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "proktakāle",
+     "gloss": "stated-time",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "kruddhāśayo",
+     "gloss": "angry-minded",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "japet",
+     "gloss": "chant",
+     "grounds": "optative verb",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "When and where should an angry-minded person chant against enemies?",
+   "premises": [
+    "the place is a cremation ground",
+    "the time is the stated time",
+    "the chanter is angry-minded"
+   ],
+   "inference": "an angry-minded person chants against enemies at the stated time in a cremation ground",
+   "uncertainties": [
+    "the mantra content is not stated"
+   ],
+   "plain_english": "In a cremation ground, at the stated time, an angry-minded person chants against enemies."
+  },
+  {
+   "verse": 1417,
+   "rows": [
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "ordinal adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "should-draw",
+     "grounds": "optative verb",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "kṛṣṇapaṭṭacīre",
+     "gloss": "black-cloth-strip",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "asitāmbare",
+     "gloss": "dark-garment",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "Where should the fourth figure be drawn?",
+   "premises": [
+    "the fourth rite is specified",
+    "it should be drawn",
+    "the locations are black cloth strip and dark garment"
+   ],
+   "inference": "the fourth figure is drawn on black cloth strip or dark garment",
+   "uncertainties": [
+    "whether both locations are alternatives is not stated"
+   ],
+   "plain_english": "The fourth should be drawn on a black cloth strip or dark garment."
+  },
+  {
+   "verse": 1418,
+   "rows": [
+    {
+     "surface": "dāhajvareṇa",
+     "gloss": "by-burning-fever",
+     "grounds": "instrumental compound",
+     "morph": "noun.instr.sg.m"
+    },
+    {
+     "surface": "saptāhāt",
+     "gloss": "in-seven-days",
+     "grounds": "ablative of time",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "ripuryāti",
+     "gloss": "enemy-goes",
+     "grounds": "compound verb",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "yamālayam",
+     "gloss": "yama-abode",
+     "grounds": "compound accusative",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "What happens to the enemy within seven days by burning fever?",
+   "premises": [
+    "burning fever is the cause",
+    "the period is seven days",
+    "the enemy goes to yama's abode"
+   ],
+   "inference": "the enemy dies and goes to yama's abode within seven days",
+   "uncertainties": [
+    "whether this is literal or ritual result is not stated"
+   ],
+   "plain_english": "By burning fever, within seven days the enemy goes to Yama's abode."
+  },
+  {
+   "verse": 1419,
+   "rows": [
+    {
+     "surface": "kālolūkajapakṣotthalekhalyā",
+     "gloss": "owl-wing",
+     "grounds": "compound adjective",
+     "morph": "adj.instr.sg.f"
+    },
+    {
+     "surface": "kharparadvaye",
+     "gloss": "in-two-potsherds",
+     "grounds": "locative dual",
+     "morph": "noun.loc.du.m"
+    }
+   ],
+   "question": "In what two potsherds is the owl-wing rite performed?",
+   "premises": [
+    "the owl-wing element is instrumental",
+    "the location is two potsherds"
+   ],
+   "inference": "the rite uses an owl-wing element in two potsherds",
+   "uncertainties": [
+    "the exact action is not stated"
+   ],
+   "plain_english": "The owl-wing rite is performed in two potsherds."
+  },
+  {
+   "verse": 1420,
+   "rows": [
+    {
+     "surface": "nadyāṃtu",
+     "gloss": "or-in-river",
+     "grounds": "locative with particle tu",
+     "morph": "noun.loc.sg.f"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "with-water",
+     "grounds": "instrumental of vāri",
+     "morph": "noun.instr.sg.n"
+    },
+    {
+     "surface": "pūrṇā",
+     "gloss": "filled",
+     "grounds": "participle adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "dveṣāt",
+     "gloss": "from-hatred",
+     "grounds": "ablative of dveṣa",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-them",
+     "grounds": "genitive dual",
+     "morph": "pron.gen.du.m"
+    },
+    {
+     "surface": "mithaḥ",
+     "gloss": "mutually",
+     "grounds": "adverb",
+     "morph": "adv.indecl."
+    }
+   ],
+   "question": "How are two hated persons mutually affected by river water?",
+   "premises": [
+    "the river is filled with water",
+    "hatred is the motive",
+    "the two act mutually"
+   ],
+   "inference": "two hated persons are mutually affected through river water",
+   "uncertainties": [
+    "the exact effect is not stated"
+   ],
+   "plain_english": "In a river filled with water, two hated persons act mutually from hatred."
+  },
+  {
+   "verse": 1421,
+   "rows": [
+    {
+     "surface": "śiraḥkapāle",
+     "gloss": "skull",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "niḥkṣipya",
+     "gloss": "having-placed",
+     "grounds": "gerund of niḥkṣip",
+     "morph": "verb.gerund"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative of śmaśāna",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "bury",
+     "grounds": "optative verb",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "locative of niśā",
+     "morph": "noun.loc.sg.f"
+    }
+   ],
+   "question": "Where and when should the skull be buried?",
+   "premises": [
+    "the skull is placed",
+    "the place is a cremation ground",
+    "the burial is at night"
+   ],
+   "inference": "the skull is buried at night in a cremation ground",
+   "uncertainties": [
+    "the exact object placed is not stated"
+   ],
+   "plain_english": "Having placed it in a skull, bury it at night in a cremation ground."
+  },
+  {
+   "verse": 1422,
+   "rows": [
+    {
+     "surface": "aṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "ordinal adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kharpare",
+     "gloss": "in-potsherd",
+     "grounds": "locative of kharpara",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund of kṛ",
+     "morph": "verb.gerund"
+    },
+    {
+     "surface": "ripudvāre",
+     "gloss": "at-enemy-gate",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "bury",
+     "grounds": "optative verb",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "locative of niśā",
+     "morph": "noun.loc.sg.f"
+    }
+   ],
+   "question": "Where should the eighth potsherd rite be buried?",
+   "premises": [
+    "the eighth rite is made in a potsherd",
+    "it is buried at the enemy gate",
+    "it is done at night"
+   ],
+   "inference": "the eighth potsherd rite is buried at night at the enemy gate",
+   "uncertainties": [
+    "the exact contents are not stated"
+   ],
+   "plain_english": "The eighth is made in a potsherd and buried at night at the enemy gate."
+  },
+  {
+   "verse": 1423,
+   "rows": [
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ordinal adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "hemni",
+     "gloss": "in-gold",
+     "grounds": "locative of heman",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund of kṛ",
+     "morph": "verb.gerund"
+    },
+    {
+     "surface": "tadūrmikāyāṃ",
+     "gloss": "on-her-wave",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.f"
+    },
+    {
+     "surface": "vare",
+     "gloss": "good-day",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "locative of dina",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "When and where is the ninth gold rite performed?",
+   "premises": [
+    "the ninth rite is made in gold",
+    "it is on her wave",
+    "it is on a good day"
+   ],
+   "inference": "the ninth gold rite is performed on a good day on her wave",
+   "uncertainties": [
+    "the referent of her wave is not stated"
+   ],
+   "plain_english": "The ninth is made in gold and performed on a good day on her wave."
+  },
+  {
+   "verse": 1424,
+   "rows": [
+    {
+     "surface": "kṛtyā",
+     "gloss": "from-witchcraft",
+     "grounds": "ablative of kṛtyā",
+     "morph": "noun.abl.sg.f"
+    },
+    {
+     "surface": "apamṛtyu",
+     "gloss": "untimely-death",
+     "grounds": "compound noun",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "roga",
+     "gloss": "disease",
+     "grounds": "ablative noun",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "duḥkhebhyaḥ",
+     "gloss": "sufferings",
+     "grounds": "ablative plural",
+     "morph": "noun.abl.pl.n"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "freed",
+     "grounds": "passive verb",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "nominative subject",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "From what sufferings is a man freed by these rites?",
+   "premises": [
+    "witchcraft is included",
+    "untimely death is included",
+    "disease and other sufferings are included"
+   ],
+   "inference": "a man is freed from witchcraft, untimely death, disease, and other sufferings",
+   "uncertainties": [
+    "the exact rites causing freedom are not stated"
+   ],
+   "plain_english": "A man is freed from witchcraft, untimely death, disease, and other sufferings."
+  }
+ ]
+}
