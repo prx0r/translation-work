@@ -1,0 +1,1119 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "vibhītakasya",
+     "gloss": "of-beleric",
+     "grounds": "specifies the source substance whose oil is used",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "taila",
+     "gloss": "oil",
+     "grounds": "names the substance to be prepared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pacyamāne",
+     "gloss": "while-cooking",
+     "grounds": "indicates the ongoing preparation process",
+     "morph": "n.loc.sg.pres.pass.part √pac"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the action to the context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "one-should-administer",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.opt.caus.act √dā"
+    }
+   ],
+   "question": "What action must be performed while beleric oil is being cooked?",
+   "premises": [
+    "Beleric oil is the specified substance.",
+    "The oil is in the process of cooking.",
+    "An act of administering is prescribed at that time."
+   ],
+   "inference": "One should administer beleric oil while it is being cooked.",
+   "uncertainties": [],
+   "plain_english": "While beleric oil is being cooked, one should administer it."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "tattailaṃ",
+     "gloss": "that-oil",
+     "grounds": "refers back to the previously mentioned oil",
+     "morph": "n.acc.sg (tat+tailam)"
+    },
+    {
+     "surface": "pācayet",
+     "gloss": "one-should-cook",
+     "grounds": "prescribes the preparation of the oil",
+     "morph": "3.sg.opt.caus.act √pac"
+    },
+    {
+     "surface": "lauhe",
+     "gloss": "in-iron-vessel",
+     "grounds": "specifies the vessel for cooking",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇāṣṭamyāṃ",
+     "gloss": "on-dark-eighth-day",
+     "grounds": "specifies the ritual timing",
+     "morph": "f.loc.sg (kṛṣṇa+aṣṭamī)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "describes the required mental state of the practitioner",
+     "morph": "m.nom.sg.past.pass.part √dhā+sam+ā"
+    }
+   ],
+   "question": "Under what conditions and timing should that oil be cooked?",
+   "premises": [
+    "The same oil is to be cooked.",
+    "An iron vessel is specified for cooking.",
+    "The dark eighth day and a concentrated state are required."
+   ],
+   "inference": "That oil should be cooked in an iron vessel on the dark eighth day by a concentrated practitioner.",
+   "uncertainties": [],
+   "plain_english": "One should cook that oil in an iron vessel on the dark eighth day while remaining concentrated."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-consecrated",
+     "grounds": "indicates prior ritual empowerment",
+     "morph": "gerund √man+abhi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects ritual actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "specifies the means of consecration",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mṛttikāsnānadakṣiṇam",
+     "gloss": "clay-bath-fee",
+     "grounds": "names the ritual item or offering involving clay, bath, and fee",
+     "morph": "n.acc.sg (mṛttikā+snāna+dakṣiṇa)"
+    }
+   ],
+   "question": "What ritual consecration must accompany the clay, bath, and fee?",
+   "premises": [
+    "A consecration act is performed beforehand.",
+    "The consecration is done with a mantra.",
+    "The clay, bath, and fee are the objects involved."
+   ],
+   "inference": "The clay, bath, and fee must be consecrated with a mantra.",
+   "uncertainties": [
+    "The exact ritual role of mṛttikāsnānadakṣiṇam as a single compound is context-dependent."
+   ],
+   "plain_english": "Having consecrated it with a mantra, one should include the clay, bath, and fee."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "refers to the specified mantra or means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantrayitvā",
+     "gloss": "having-consecrated",
+     "grounds": "indicates completion of mantra consecration",
+     "morph": "gerund.caus √man"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the consequence following consecration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "it-succeeds",
+     "grounds": "states the successful outcome",
+     "morph": "3.sg.pres.act √sidh"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "excludes success without this procedure",
+     "morph": "(indecl.) (na+anyathā)"
+    }
+   ],
+   "question": "What condition guarantees success and excludes any alternative outcome?",
+   "premises": [
+    "Consecration is performed with this means.",
+    "Success follows that consecration.",
+    "No other method leads to success."
+   ],
+   "inference": "Only after consecration with this does the procedure succeed.",
+   "uncertainties": [],
+   "plain_english": "Having consecrated it with this, it succeeds then, and not otherwise."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "bhallātakarasaṃ",
+     "gloss": "marking-nut-juice",
+     "grounds": "names the first ingredient",
+     "morph": "m.acc.sg (bhallātaka+rasa)"
+    },
+    {
+     "surface": "guñjā",
+     "gloss": "abrus-seed",
+     "grounds": "names the second ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "names the third ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "citrakam",
+     "gloss": "leadwort",
+     "grounds": "names the fourth ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed ingredients",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific substances are listed as ingredients for the preparation?",
+   "premises": [
+    "Marking-nut juice is included.",
+    "Abrus seed and poison are included.",
+    "Leadwort is also included."
+   ],
+   "inference": "The preparation uses marking-nut juice, abrus seed, poison, and leadwort.",
+   "uncertainties": [],
+   "plain_english": "Marking-nut juice, abrus seed, poison, and leadwort are included."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "etatsarvasamāyukto",
+     "gloss": "this-all-combined",
+     "grounds": "indicates the combination of all listed ingredients",
+     "morph": "m.nom.sg (etat+sarva+samāyukta)"
+    },
+    {
+     "surface": "lūtākaraṇam",
+     "gloss": "spider-making",
+     "grounds": "names the resulting preparation or effect",
+     "morph": "n.nom.sg (lūtā+karaṇa)"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "evaluates the preparation as supreme",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What excellent preparation results from combining all these ingredients?",
+   "premises": [
+    "All the previously listed substances are combined.",
+    "The combination produces a spider-making preparation.",
+    "This preparation is described as excellent."
+   ],
+   "inference": "The combination of all these ingredients forms an excellent spider-making preparation.",
+   "uncertainties": [
+    "The precise technical meaning of lūtākaraṇam depends on ritual context."
+   ],
+   "plain_english": "Combined with all these, it becomes an excellent spider-making preparation."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "identifies the affected body parts",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dhūmamāyānti",
+     "gloss": "emit-smoke",
+     "grounds": "describes a symptom affecting the limbs",
+     "morph": "3.pl.pres.act (dhūma+āyānti)"
+    },
+    {
+     "surface": "mūrcchayanti",
+     "gloss": "they-faint",
+     "grounds": "describes loss of consciousness",
+     "morph": "3.pl.pres.act.caus √mūrch"
+    },
+    {
+     "surface": "muhurmuhuḥ",
+     "gloss": "again-and-again",
+     "grounds": "indicates repeated occurrence of fainting",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What symptoms afflict the body when this harmful effect occurs?",
+   "premises": [
+    "The limbs emit smoke.",
+    "The affected persons faint.",
+    "The fainting occurs repeatedly."
+   ],
+   "inference": "The effect causes limbs to emit smoke and repeated fainting.",
+   "uncertainties": [],
+   "plain_english": "The limbs emit smoke, and they faint again and again."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "cikitsāṃ",
+     "gloss": "treatment",
+     "grounds": "names the remedy to be explained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the afflicted condition",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-tell",
+     "grounds": "announces the forthcoming instruction",
+     "morph": "1.sg.fut.act √vac"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "introduces the means of relief",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃpadyate",
+     "gloss": "arises",
+     "grounds": "states the resulting condition",
+     "morph": "3.sg.pres.mid √pad+sam"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "names the desired outcome of treatment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What treatment will be explained to bring about relief from that affliction?",
+   "premises": [
+    "A treatment for that condition will be told.",
+    "The treatment serves as a means.",
+    "Through it happiness or relief arises."
+   ],
+   "inference": "The speaker will explain a treatment by which relief arises from that affliction.",
+   "uncertainties": [],
+   "plain_english": "I shall tell the treatment for that, by which happiness arises."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "raktacandanakuṣṭhaṃ",
+     "gloss": "red-sandalwood-costus",
+     "grounds": "names medicinal ingredients for the remedy",
+     "morph": "n.nom.sg (raktacandana+kuṣṭha)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects ingredients",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṣṭhaṃ",
+     "gloss": "costus",
+     "grounds": "repeats or adds costus as ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lepo",
+     "gloss": "ointment",
+     "grounds": "specifies the form of application",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lūtāvināśanaḥ",
+     "gloss": "spider-destroying",
+     "grounds": "states the therapeutic effect of the ointment",
+     "morph": "m.nom.sg (lūtā+vināśana)"
+    }
+   ],
+   "question": "Which ointment ingredients destroy the spider-related affliction?",
+   "premises": [
+    "Red sandalwood and costus are specified.",
+    "Costus is mentioned again as part of the remedy.",
+    "The preparation is an ointment that destroys the spider affliction."
+   ],
+   "inference": "An ointment of red sandalwood and costus destroys the spider-related affliction.",
+   "uncertainties": [
+    "The repetition of kuṣṭhaṃ may be emphatic or textual; taken as given."
+   ],
+   "plain_english": "An ointment of red sandalwood and costus destroys the spider affliction."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "kṛṣṇasarpaśiro",
+     "gloss": "black-snake-head",
+     "grounds": "names the primary object to be taken",
+     "morph": "n.acc.sg (kṛṣṇa+sarpa+śiras)"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "prescribes obtaining the object",
+     "morph": "n.acc.sg.fut.pass.part √grah"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "specifies the location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niḥkṣipya",
+     "gloss": "having-placed",
+     "grounds": "indicates insertion into the mouth",
+     "morph": "gerund √kṣip+niḥ"
+    },
+    {
+     "surface": "sarṣapān",
+     "gloss": "mustard-seeds",
+     "grounds": "names the substance placed inside",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What objects must be taken and placed together in the snake's mouth?",
+   "premises": [
+    "The head of a black snake is to be taken.",
+    "Mustard seeds are to be placed in its mouth.",
+    "The placement is done after taking the head."
+   ],
+   "inference": "One should take a black snake's head and place mustard seeds in its mouth.",
+   "uncertainties": [],
+   "plain_english": "One should take the head of a black snake and place mustard seeds in its mouth."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "valmīkasya",
+     "gloss": "of-anthill",
+     "grounds": "specifies the source of the clay",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mṛdaḥkośe",
+     "gloss": "in-clay-sheath",
+     "grounds": "specifies the container made of anthill clay",
+     "morph": "m.loc.sg (mṛd+kośa)"
+    },
+    {
+     "surface": "antardhūmena",
+     "gloss": "with-inner-smoke",
+     "grounds": "describes the method of heating by enclosed smoke",
+     "morph": "m.inst.sg (antar+dhūma)"
+    },
+    {
+     "surface": "pācayet",
+     "gloss": "one-should-cook",
+     "grounds": "prescribes the cooking action",
+     "morph": "3.sg.opt.caus.act √pac"
+    }
+   ],
+   "question": "How and in what container should the prepared material be cooked?",
+   "premises": [
+    "A sheath made of anthill clay is used.",
+    "The cooking is done with inner smoke.",
+    "The practitioner should cook the material in this way."
+   ],
+   "inference": "The material should be cooked in an anthill-clay sheath using inner smoke.",
+   "uncertainties": [],
+   "plain_english": "One should cook it in a sheath of anthill clay with inner smoke."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "viṣasya",
+     "gloss": "of-poison",
+     "grounds": "identifies the substance to be processed",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "specifies the resulting form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "indicates completion of preparation",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatrūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "identifies the targets",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "specifies the place of application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niḥkṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "prescribes the hostile application",
+     "morph": "3.sg.opt.act √kṣip+niḥ"
+    }
+   ],
+   "question": "What hostile action should be taken with the prepared poison powder?",
+   "premises": [
+    "The poison is made into powder.",
+    "Enemies are the intended targets.",
+    "The powder is to be cast on their heads."
+   ],
+   "inference": "After making poison into powder, one should cast it on the heads of enemies.",
+   "uncertainties": [],
+   "plain_english": "Having made the poison into powder, one should cast it on the heads of enemies."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "prasvinne",
+     "gloss": "when-sweating",
+     "grounds": "describes the condition of the body",
+     "morph": "n.loc.sg.past.pass.part √svid+pra"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects circumstances",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the resulting situation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gātre",
+     "gloss": "on-body",
+     "grounds": "specifies where the seeds adhere",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lagnāḥ",
+     "gloss": "stuck",
+     "grounds": "describes the attachment of the seeds",
+     "morph": "m.nom.pl.past.pass.part √lag"
+    },
+    {
+     "surface": "tasmiṃstu",
+     "gloss": "on-that",
+     "grounds": "refers to that body or person",
+     "morph": "n.loc.sg (tasmin+tu)"
+    },
+    {
+     "surface": "sarṣapāḥ",
+     "gloss": "mustard-seeds",
+     "grounds": "identifies the adhering objects",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What happens to the mustard seeds when the target's body begins to sweat?",
+   "premises": [
+    "The body becomes sweaty.",
+    "Mustard seeds are present on that body.",
+    "The seeds become stuck to it."
+   ],
+   "inference": "When the body sweats, the mustard seeds stick to it.",
+   "uncertainties": [],
+   "plain_english": "Then, when the body sweats, the mustard seeds stick to that body."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "vedanājātamātreṇa",
+     "gloss": "pain-arising-merely",
+     "grounds": "indicates the moment pain arises",
+     "morph": "n.inst.sg (vedanā+jāta+mātra)"
+    },
+    {
+     "surface": "mantrajāpaṃ",
+     "gloss": "mantra-recitation",
+     "grounds": "names the ritual response",
+     "morph": "m.acc.sg (mantra+jāpa)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "refers to the previously described method",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual response is required as soon as pain arises?",
+   "premises": [
+    "Pain arises in the affected person.",
+    "Mantra recitation is the prescribed response.",
+    "The recitation follows the previous method."
+   ],
+   "inference": "As soon as pain arises, one should perform mantra recitation as before.",
+   "uncertainties": [],
+   "plain_english": "As soon as pain arises, one should perform mantra recitation as before."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śasyavināśaṃ",
+     "gloss": "crop-destruction",
+     "grounds": "names the new subject matter",
+     "morph": "m.acc.sg (śasya+vināśa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements of the statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-shall-tell",
+     "grounds": "announces the explanation",
+     "morph": "1.sg.pres.act √kath"
+    },
+    {
+     "surface": "samāsataḥ",
+     "gloss": "briefly",
+     "grounds": "indicates concise treatment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What new topic concerning crops will the speaker now explain briefly?",
+   "premises": [
+    "A new topic is introduced.",
+    "The topic is crop destruction.",
+    "The explanation will be brief."
+   ],
+   "inference": "The speaker will now briefly explain crop destruction.",
+   "uncertainties": [],
+   "plain_english": "Now I shall briefly explain the destruction of crops."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "kṣetre",
+     "gloss": "in-field",
+     "grounds": "specifies the location of the action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃpātayed",
+     "gloss": "one-should-scatter",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.opt.caus.act √pat+sam"
+    },
+    {
+     "surface": "yasmiṃs",
+     "gloss": "in-which",
+     "grounds": "introduces the targeted field",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasmiñ",
+     "gloss": "in-that",
+     "grounds": "refers back to the same field",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śasyavināśanam",
+     "gloss": "crop-destruction",
+     "grounds": "states the resulting effect",
+     "morph": "n.nom.sg (śasya+vināśana)"
+    }
+   ],
+   "question": "What result follows when the prescribed substance is scattered in a field?",
+   "premises": [
+    "Scattering is performed in a particular field.",
+    "The same field is affected.",
+    "Crop destruction occurs there."
+   ],
+   "inference": "Scattering in a field causes the destruction of crops in that field.",
+   "uncertainties": [],
+   "plain_english": "In whichever field one scatters it, in that field crops are destroyed."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks another transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "names the subject to be taught",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indicates continuation of instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-shall-tell",
+     "grounds": "announces the teaching",
+     "morph": "1.sg.fut.mid √vac"
+    },
+    {
+     "surface": "prayogeṣu",
+     "gloss": "in-applications",
+     "grounds": "specifies the contexts of use",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "prayojakam",
+     "gloss": "to-be-employed",
+     "grounds": "describes the mantra as applicable",
+     "morph": "m.acc.sg.fut.pass.part √yuj+pra"
+    }
+   ],
+   "question": "What mantra will be taught for use in ritual applications?",
+   "premises": [
+    "A mantra is to be taught again.",
+    "The teaching concerns ritual applications.",
+    "The mantra is to be employed in those applications."
+   ],
+   "inference": "The speaker will teach a mantra to be employed in ritual applications.",
+   "uncertainties": [],
+   "plain_english": "Now I shall again tell the mantra to be employed in applications."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "parṇānāṃ",
+     "gloss": "of-leaves",
+     "grounds": "specifies the materials involved",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogena",
+     "gloss": "by-application",
+     "grounds": "indicates the method used",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.opt.act √kṣip"
+    },
+    {
+     "surface": "parṇaṃ",
+     "gloss": "leaf",
+     "grounds": "names the object cast",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "states the resulting destruction",
+     "morph": "3.sg.pres.act √naś+vi"
+    }
+   ],
+   "question": "What effect follows from casting a leaf using the prescribed leaf application?",
+   "premises": [
+    "An application involving leaves is used.",
+    "A leaf is cast as part of the procedure.",
+    "The leaf perishes as a result."
+   ],
+   "inference": "By the application of leaves, casting a leaf causes it to perish.",
+   "uncertainties": [],
+   "plain_english": "By the application of leaves, one should cast a leaf, and it perishes."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "yenaiva",
+     "gloss": "by-which-indeed",
+     "grounds": "introduces the effective means",
+     "morph": "(indecl.) (yena+eva)"
+    },
+    {
+     "surface": "kṛtamātreṇa",
+     "gloss": "done-merely",
+     "grounds": "indicates that mere performance suffices",
+     "morph": "n.inst.sg (kṛta+mātra)"
+    },
+    {
+     "surface": "grāmasya",
+     "gloss": "of-village",
+     "grounds": "identifies the target community",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "expulsion",
+     "grounds": "names the intended effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "states the possible or resulting outcome",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What effect on a village can result from merely performing this act?",
+   "premises": [
+    "A specific act is performed.",
+    "Mere performance of that act is sufficient.",
+    "The result is expulsion affecting a village."
+   ],
+   "inference": "By merely performing this act, the expulsion of a village may occur.",
+   "uncertainties": [],
+   "plain_english": "By merely doing this, the expulsion of a village may occur."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "gomayena",
+     "gloss": "with-cow-dung",
+     "grounds": "specifies the material used",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ākṛtiṃ",
+     "gloss": "figure",
+     "grounds": "names the object to be formed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "indicates prior construction",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "grāmasya",
+     "gloss": "of-village",
+     "grounds": "identifies the represented target",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions or elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdiśaḥ",
+     "gloss": "in-four-directions",
+     "grounds": "specifies directional placement or orientation",
+     "morph": "f.acc.pl (catur+diś)"
+    }
+   ],
+   "question": "How should a village figure be formed and oriented using cow dung?",
+   "premises": [
+    "Cow dung is the material used.",
+    "A figure of the village is made.",
+    "The figure is associated with the four directions."
+   ],
+   "inference": "One should make a figure of the village with cow dung in the four directions.",
+   "uncertainties": [
+    "The exact syntactic role of caturdiśaḥ in placement is context-dependent."
+   ],
+   "plain_english": "Having made a figure of the village with cow dung, place it in the four directions."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "indicates completion of fire offerings",
+     "morph": "gerund √hu"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects ritual steps",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhutisāhasraṃ",
+     "gloss": "oblation-thousand",
+     "grounds": "specifies the number of offerings",
+     "morph": "n.acc.sg (āhuti+sāhasra)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ashes",
+     "grounds": "names the residue to be collected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāharet",
+     "gloss": "one-should-collect",
+     "grounds": "prescribes gathering the ashes",
+     "morph": "3.sg.opt.act √hṛ+sam+ā"
+    }
+   ],
+   "question": "What must be collected after offering a thousand oblations?",
+   "premises": [
+    "A thousand oblations are offered.",
+    "The offering is completed first.",
+    "Ashes are to be collected afterward."
+   ],
+   "inference": "After offering a thousand oblations, one should collect the ashes.",
+   "uncertainties": [],
+   "plain_english": "Having offered a thousand oblations, one should then collect the ashes."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "śatavārābhijaptena",
+     "gloss": "hundred-times-consecrated",
+     "grounds": "describes repeated mantra consecration",
+     "morph": "n.inst.sg (śatavāra+abhijapta)"
+    },
+    {
+     "surface": "anenaiva",
+     "gloss": "by-this-indeed",
+     "grounds": "identifies the same mantra or means",
+     "morph": "n.inst.sg (anena+eva)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "adds emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantritaḥ",
+     "gloss": "consecrated",
+     "grounds": "states the empowered condition",
+     "morph": "m.nom.sg.past.pass.part √mantr"
+    }
+   ],
+   "question": "How must the material be empowered using this same mantra?",
+   "premises": [
+    "The same means is used for consecration.",
+    "Consecration is repeated a hundred times.",
+    "The material becomes consecrated thereby."
+   ],
+   "inference": "The material must be consecrated a hundred times with this very mantra.",
+   "uncertainties": [],
+   "plain_english": "It is consecrated by being recited over a hundred times with this very mantra."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "ucchedanaṃ",
+     "gloss": "eradication",
+     "grounds": "names the resulting effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavatyeva",
+     "gloss": "becomes-indeed",
+     "grounds": "asserts the certainty of the result",
+     "morph": "3.sg.pres.act (bhavati+eva)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "reinforces certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ripūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "identifies those affected",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locates the assertion in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "names what is excluded",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certain outcome for enemies follows from this consecrated procedure?",
+   "premises": [
+    "Eradication is the stated result.",
+    "The result concerns enemies.",
+    "No doubt exists regarding this outcome."
+   ],
+   "inference": "The eradication of enemies certainly occurs, without doubt.",
+   "uncertainties": [],
+   "plain_english": "The eradication of enemies certainly occurs; there is no doubt about this."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "kulvīkāraṃ",
+     "gloss": "family-destruction",
+     "grounds": "names the next topic to be explained",
+     "morph": "m.acc.sg (kula+vikāra)"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-shall-tell",
+     "grounds": "announces the forthcoming instruction",
+     "morph": "1.sg.fut.act √vac+pra"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "commands attention from the listener",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "method",
+     "grounds": "names the procedure to be taught",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāsataḥ",
+     "gloss": "briefly",
+     "grounds": "indicates concise explanation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What method concerning family destruction will the speaker now briefly explain?",
+   "premises": [
+    "A new topic of family destruction is introduced.",
+    "The speaker will explain a method.",
+    "The explanation will be brief and requires attention."
+   ],
+   "inference": "The speaker will briefly explain the method for family destruction.",
+   "uncertainties": [
+    "The compound kulvīkāraṃ is read as family-destruction based on context and legacy hint."
+   ],
+   "plain_english": "Listen, I shall briefly explain the method for family destruction."
+  }
+ ]
+}

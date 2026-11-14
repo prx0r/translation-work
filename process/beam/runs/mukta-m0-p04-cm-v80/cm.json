@@ -3,29 +3,34 @@
  "verse": 80,
  "rows": [
   {
-   "lemma": "vyākośaṃ",
+   "lemma": "bhallātakarasaṃ",
+   "morph": "m.acc.sg (bhallātaka+rasa)",
+   "grounds": "names the first ingredient"
+  },
+  {
+   "lemma": "guñjā",
+   "morph": "f.nom.sg",
+   "grounds": "names the second ingredient"
+  },
+  {
+   "lemma": "viṣaṃ",
    "morph": "n.nom.sg",
-   "grounds": "describes blossoming"
+   "grounds": "names the third ingredient"
   },
   {
-   "lemma": "nayana+ānana+ādika",
-   "morph": "n.nom.sg (compound: nayana+ānana+ādika)",
-   "grounds": "compound listing features likened to lotuses"
+   "lemma": "citrakam",
+   "morph": "n.nom.sg",
+   "grounds": "names the fourth ingredient"
   },
   {
-   "lemma": "kamalāni",
-   "morph": "n.nom.pl",
-   "grounds": "metaphor for eyes, faces, and similar features"
-  },
-  {
-   "lemma": "āśā+kṛśānāṃ",
-   "morph": "f.gen.pl (compound: āśā+kṛśā)",
-   "grounds": "compound metaphor for the directions personified as thin women"
-  },
-  {
-   "lemma": "bhṛśam",
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "intensifies the state described"
+   "grounds": "emphasizes inclusion"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects listed ingredients"
   }
  ]
 }
