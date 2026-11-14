@@ -3,39 +3,34 @@
  "verse": 262,
  "rows": [
   {
-   "lemma": "iti",
+   "lemma": "vaśyāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "resulting state"
+  },
+  {
+   "lemma": "viṃśati+saṃkhyātā",
+   "morph": "compound=viṃśati+saṃkhyāta m.nom.pl",
+   "grounds": "compound quantity"
+  },
+  {
+   "lemma": "bhavanti",
+   "morph": "3.pl.pres.act √bhū",
+   "grounds": "resulting change"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "marks formula"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "yaḥ",
-   "morph": "pron.m.nom.sg",
-   "grounds": "subject of condition"
-  },
-  {
-   "lemma": "śivaḥ nama",
-   "morph": "m.nom.sg+indecl.",
-   "grounds": "mantra formula"
-  },
-  {
-   "lemma": "iti",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "marks quoted mantra"
+   "grounds": "negation"
   },
   {
-   "lemma": "api",
-   "morph": "(indecl.)",
-   "grounds": "inclusion"
-  },
-  {
-   "lemma": "sakṛt",
-   "morph": "(indecl.)",
-   "grounds": "single repetition"
-  },
-  {
-   "lemma": "japet",
-   "morph": "3.sg.opt-act (√jap)",
-   "grounds": "prescriptive action"
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "certainty assertion"
   }
  ]
 }

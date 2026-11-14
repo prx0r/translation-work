@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "gurubhakto",
+     "gloss": "devoted-to-the-teacher",
+     "grounds": "bahuvrīhi/tatpuruṣa compound; nominative singular masculine with sandhi (guru-bhaktaḥ)",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "jitākṣaśca",
+     "gloss": "senses-conquered-and",
+     "grounds": "bahuvrīhi compound jita-akṣaḥ with enclitic ca; nominative singular masculine",
+     "morph": "compound+m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "pañcamīṃ",
+     "gloss": "the-fifth",
+     "grounds": "ordinal adjective qualifying an implied feminine object such as vidyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samupāsayet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing injunction or prescribed practice",
+     "morph": "3.sg.act.opt+sam-upa-√ās"
+    }
+   ],
+   "question": "What qualifications entitle a practitioner to worship the fifth and most secret knowledge?",
+   "premises": [
+    "Devotion to the teacher is a required qualification.",
+    "Mastery over the senses is a required qualification.",
+    "The fifth knowledge is to be worshipped through prescribed practice."
+   ],
+   "inference": "Only a practitioner devoted to the teacher and master of the senses is fit to worship the fifth knowledge.",
+   "uncertainties": [
+    "The specific referent of pañcamīṃ is implied by context rather than explicitly named in this verse."
+   ],
+   "plain_english": "One who is devoted to the guru and has conquered the senses should worship the fifth."
+  }
+ ]
+}

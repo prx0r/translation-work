@@ -3,39 +3,34 @@
  "verse": 261,
  "rows": [
   {
-   "lemma": "hu/",
+   "lemma": "vaśyāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "resulting state"
+  },
+  {
+   "lemma": "daśa+saṃkhyātā",
+   "morph": "compound=daśan+saṃkhyāta m.nom.pl",
+   "grounds": "compound quantity"
+  },
+  {
+   "lemma": "bhavanti",
+   "morph": "3.pl.pres.act √bhū",
+   "grounds": "resulting change"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "mantric syllable"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "kṣamaya",
-   "morph": "2.sg.imp-caus-act (√kṣam)",
-   "grounds": "imperative request"
-  },
-  {
-   "lemma": "iti",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "marks quoted formula"
+   "grounds": "negation"
   },
   {
-   "lemma": "vāmena",
-   "morph": "m.ins.sg",
-   "grounds": "hand used"
-  },
-  {
-   "lemma": "kareṇa",
-   "morph": "m.ins.sg",
-   "grounds": "instrument of dismissal"
-  },
-  {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
-  },
-  {
-   "lemma": "visarjayet",
-   "morph": "3.sg.opt-caus-act (vi+√sṛj)",
-   "grounds": "ritual dismissal"
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "certainty assertion"
   }
  ]
 }

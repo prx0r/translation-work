@@ -1,0 +1,1061 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "guggulasya",
+     "gloss": "of-bdellium",
+     "grounds": "oblation substance",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homena",
+     "gloss": "by-oblation",
+     "grounds": "ritual means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sarva+duḥkhāni",
+     "gloss": "all-sorrows",
+     "grounds": "compound object",
+     "morph": "compound=sarva+duḥkha n.acc.pl"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "one-should-destroy",
+     "grounds": "ritual result",
+     "morph": "3.sg.opt.act √naś"
+    }
+   ],
+   "question": "What result follows from performing an oblation with bdellium?",
+   "premises": [
+    "Bdellium is offered in oblation",
+    "Oblation produces ritual effects",
+    "Sorrows are removable by ritual means"
+   ],
+   "inference": "An oblation of bdellium destroys all sorrows.",
+   "uncertainties": [],
+   "plain_english": "By offering bdellium in oblation, one should destroy all sorrows."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "rakta+candana+homena",
+     "gloss": "by-red-sandalwood-oblation",
+     "grounds": "compound instrumental means",
+     "morph": "compound=rakta+candana+homa m.ins.sg"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "subdued",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣāḥ",
+     "gloss": "men",
+     "grounds": "affected persons",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "striyaḥ",
+     "gloss": "women",
+     "grounds": "affected persons",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Whom does an oblation of red sandalwood bring under control?",
+   "premises": [
+    "Red sandalwood is used in oblation",
+    "Oblations can produce subjugation",
+    "Men and women can be affected"
+   ],
+   "inference": "An oblation of red sandalwood subdues men and women.",
+   "uncertainties": [],
+   "plain_english": "Indeed, by an oblation of red sandalwood, men and women become subdued."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "kastūrī+havanāt",
+     "gloss": "from-musk-oblation",
+     "grounds": "compound ablative means",
+     "morph": "compound=kastūrī+havana n.abl.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal scope",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "subdued",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "resulting change",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What universal subjugating power arises from a musk oblation?",
+   "premises": [
+    "Musk is offered in oblation",
+    "The mantra-practitioner performs the rite",
+    "Oblation can subdue others"
+   ],
+   "inference": "Through a musk oblation, the mantra-practitioner makes all become subdued.",
+   "uncertainties": [],
+   "plain_english": "Indeed, by an oblation of musk, all become subdued for the mantra-practitioner."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "śarkarā+guḍa+homena",
+     "gloss": "by-sugar-molasses-oblation",
+     "grounds": "compound instrumental means",
+     "morph": "compound=śarkarā+guḍa+homa m.ins.sg"
+    },
+    {
+     "surface": "sarva+kāryāṇi",
+     "gloss": "all-tasks",
+     "grounds": "compound object",
+     "morph": "compound=sarva+kārya n.acc.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "ritual result",
+     "morph": "3.sg.opt.act √sādh"
+    }
+   ],
+   "question": "What accomplishment results from an oblation of sugar and molasses?",
+   "premises": [
+    "Sugar and molasses are offered together",
+    "Oblation produces practical effects",
+    "Tasks can be ritually accomplished"
+   ],
+   "inference": "An oblation of sugar and molasses accomplishes all tasks.",
+   "uncertainties": [],
+   "plain_english": "By an oblation of sugar and molasses, one should accomplish all tasks."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "ghṛta+pāyasa+homena",
+     "gloss": "by-ghee-milk-rice-oblation",
+     "grounds": "compound instrumental means",
+     "morph": "compound=ghṛta+pāyasa+homa m.ins.sg"
+    },
+    {
+     "surface": "vaśīkuryāt",
+     "gloss": "one-should-subdue",
+     "grounds": "ritual result",
+     "morph": "3.sg.opt.act vaśī-√kṛ"
+    },
+    {
+     "surface": "mahā+grahān",
+     "gloss": "great-planets",
+     "grounds": "compound object",
+     "morph": "compound=mahā+graha m.acc.pl"
+    }
+   ],
+   "question": "Which powerful forces can be subdued by a ghee and milk-rice oblation?",
+   "premises": [
+    "Ghee and milk-rice are offered in oblation",
+    "Oblation can exert control",
+    "Great planets are powerful influences"
+   ],
+   "inference": "An oblation of ghee and milk-rice subdues the great planets.",
+   "uncertainties": [],
+   "plain_english": "By an oblation of ghee and milk-rice, one should subdue the great planets."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "trai+lokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "compound object",
+     "morph": "compound=tri+loka n.acc.sg"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "under-control",
+     "grounds": "resulting state",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "one-obtains",
+     "grounds": "attainment",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "dhānya+vṛddhiḥ",
+     "gloss": "grain-increase",
+     "grounds": "compound result",
+     "morph": "compound=dhānya+vṛddhi f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dominion and prosperity follow from the stated oblation?",
+   "premises": [
+    "The ritual brings things under control",
+    "Control can extend to the three worlds",
+    "Ritual results include material increase"
+   ],
+   "inference": "One obtains control over the three worlds and increase of grain.",
+   "uncertainties": [
+    "The specific oblation is implied from the preceding context."
+   ],
+   "plain_english": "One obtains control over the three worlds, and indeed there would be an increase of grain."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "pūrṇa+dāḍimba+homena",
+     "gloss": "by-whole-pomegranate-oblation",
+     "grounds": "compound instrumental means",
+     "morph": "compound=pūrṇa+dāḍimba+homa m.ins.sg"
+    },
+    {
+     "surface": "vaśīkuryāt",
+     "gloss": "one-should-subdue",
+     "grounds": "ritual result",
+     "morph": "3.sg.opt.act vaśī-√kṛ"
+    },
+    {
+     "surface": "mahā+grahān",
+     "gloss": "great-planets",
+     "grounds": "compound object",
+     "morph": "compound=mahā+graha m.acc.pl"
+    }
+   ],
+   "question": "What effect does an oblation of a whole pomegranate have on great planets?",
+   "premises": [
+    "A whole pomegranate is offered in oblation",
+    "Oblation can exert control",
+    "Great planets are subject to ritual influence"
+   ],
+   "inference": "An oblation of a whole pomegranate subdues the great planets.",
+   "uncertainties": [],
+   "plain_english": "By an oblation of a whole pomegranate, one should subdue the great planets."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "mātuluṅga+phalaiḥ+homāt",
+     "gloss": "from-citron-fruits-oblation",
+     "grounds": "compound ablative means",
+     "morph": "compound=mātuluṅga+phala+homa m.abl.sg"
+    },
+    {
+     "surface": "kṣatriyā",
+     "gloss": "warriors",
+     "grounds": "affected group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vaśagā",
+     "gloss": "under-control",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which social group comes under control through citron-fruit oblations?",
+   "premises": [
+    "Citron fruits are used in oblation",
+    "Oblations can subdue specific groups",
+    "Kṣatriyas are a distinct group"
+   ],
+   "inference": "An oblation with citron fruits certainly brings kṣatriyas under control.",
+   "uncertainties": [],
+   "plain_english": "By an oblation with citron fruits, kṣatriyas certainly come under control."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "kuṣmāṇḍa+phala+homena",
+     "gloss": "by-pumpkin-fruit-oblation",
+     "grounds": "compound instrumental means",
+     "morph": "compound=kuṣmāṇḍa+phala+homa m.ins.sg"
+    },
+    {
+     "surface": "śūdrā",
+     "gloss": "servants",
+     "grounds": "affected group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "subdued",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "resulting change",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which social group becomes subdued by a pumpkin-fruit oblation?",
+   "premises": [
+    "Pumpkin fruit is offered in oblation",
+    "Oblations can subdue specific groups",
+    "Śūdras are a distinct group"
+   ],
+   "inference": "An oblation of pumpkin fruit makes śūdras subdued.",
+   "uncertainties": [],
+   "plain_english": "Indeed, by an oblation of pumpkin fruit, śūdras become subdued."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "drākṣā+phalaiḥ",
+     "gloss": "with-grape-fruits",
+     "grounds": "compound instrumental means",
+     "morph": "compound=drākṣā+phala n.ins.pl"
+    },
+    {
+     "surface": "siddhayaḥ+aṣṭau",
+     "gloss": "eight-accomplishments",
+     "grounds": "compound result",
+     "morph": "compound=siddhi+aṣṭan f.nom.pl"
+    },
+    {
+     "surface": "lakṣa+homāt",
+     "gloss": "from-hundred-thousand-oblations",
+     "grounds": "compound ablative quantity",
+     "morph": "compound=lakṣa+homa m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "certainty assertion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What attainment is guaranteed by a hundred thousand grape-fruit oblations?",
+   "premises": [
+    "Grape fruits are used in oblation",
+    "A hundred thousand oblations are performed",
+    "Ritual practice yields accomplishments"
+   ],
+   "inference": "A hundred thousand grape-fruit oblations yield the eight accomplishments without doubt.",
+   "uncertainties": [],
+   "plain_english": "With grape fruits, by a hundred thousand oblations, the eight accomplishments arise; there is no doubt."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "vaśyāḥ",
+     "gloss": "subdued",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daśa+saṃkhyātā",
+     "gloss": "counted-as-ten",
+     "grounds": "compound quantity",
+     "morph": "compound=daśan+saṃkhyāta m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "resulting change",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "certainty assertion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many persons become subdued according to this ritual count?",
+   "premises": [
+    "The ritual produces subjugation",
+    "A count of ten is specified",
+    "The result is stated with certainty"
+   ],
+   "inference": "Ten persons become subdued without doubt.",
+   "uncertainties": [
+    "The specific ritual causing this result is implied from context."
+   ],
+   "plain_english": "Ten in number become subdued indeed; there is no doubt."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "vaśyāḥ",
+     "gloss": "subdued",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viṃśati+saṃkhyātā",
+     "gloss": "counted-as-twenty",
+     "grounds": "compound quantity",
+     "morph": "compound=viṃśati+saṃkhyāta m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "resulting change",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "certainty assertion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many persons become subdued at this higher ritual count?",
+   "premises": [
+    "The ritual produces subjugation",
+    "A count of twenty is specified",
+    "The result is stated with certainty"
+   ],
+   "inference": "Twenty persons become subdued without doubt.",
+   "uncertainties": [
+    "The specific ritual causing this result is implied from context."
+   ],
+   "plain_english": "Twenty in number become subdued indeed; there is no doubt."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "lakṣa+mātreṇa",
+     "gloss": "by-hundred-thousand-measure",
+     "grounds": "compound instrumental quantity",
+     "morph": "compound=lakṣa+mātra n.ins.sg"
+    },
+    {
+     "surface": "mantra+jñaḥ",
+     "gloss": "mantra-knower",
+     "grounds": "compound ritual agent",
+     "morph": "compound=mantra+jña m.nom.sg"
+    },
+    {
+     "surface": "rāja+tulyaḥ",
+     "gloss": "equal-to-king",
+     "grounds": "compound comparison",
+     "morph": "compound=rājan+tulya m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What status does a mantra-knower attain through a hundred thousand oblations?",
+   "premises": [
+    "A hundred thousand oblations are performed",
+    "The performer knows mantras",
+    "Ritual practice confers elevated status"
+   ],
+   "inference": "By a hundred thousand oblations, the mantra-knower certainly becomes equal to a king.",
+   "uncertainties": [],
+   "plain_english": "By a hundred thousand oblations, the mantra-knower certainly becomes equal to a king."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "catuḥ+samudra+paryantāṃ",
+     "gloss": "bounded-by-four-oceans",
+     "grounds": "compound extent",
+     "morph": "compound=catur+samudra+paryanta f.acc.sg"
+    },
+    {
+     "surface": "medinīṃ",
+     "gloss": "earth",
+     "grounds": "object of control",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "under-control",
+     "grounds": "resulting state",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ānayet",
+     "gloss": "one-should-bring",
+     "grounds": "ritual result",
+     "morph": "3.sg.opt.act ā-√nī"
+    }
+   ],
+   "question": "What territorial dominion can be brought under control by this practice?",
+   "premises": [
+    "The ritual grants power of control",
+    "The earth is bounded by four oceans",
+    "Such dominion can be ritually attained"
+   ],
+   "inference": "One should bring the earth bounded by the four oceans under control.",
+   "uncertainties": [
+    "The specific ritual practice is implied from preceding verses."
+   ],
+   "plain_english": "One should bring the earth, extending to the four oceans, under control."
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "ikṣu+daṇḍaiḥ",
+     "gloss": "with-sugarcane-stalks",
+     "grounds": "compound instrumental means",
+     "morph": "compound=ikṣu+daṇḍa m.ins.pl"
+    },
+    {
+     "surface": "sukha+avāptiḥ",
+     "gloss": "attainment-of-happiness",
+     "grounds": "compound result",
+     "morph": "compound=sukha+avāpti f.nom.sg"
+    },
+    {
+     "surface": "tat+vaśā",
+     "gloss": "by-that-subdued",
+     "grounds": "compound result",
+     "morph": "compound=tad+vaśa f.nom.pl"
+    },
+    {
+     "surface": "rāja+kanyakāḥ",
+     "gloss": "royal-maidens",
+     "grounds": "compound affected persons",
+     "morph": "compound=rājan+kanyakā f.nom.pl"
+    }
+   ],
+   "question": "What benefits and subjugation result from oblations with sugarcane stalks?",
+   "premises": [
+    "Sugarcane stalks are used in oblation",
+    "Oblations can yield happiness",
+    "Oblations can subdue royal maidens"
+   ],
+   "inference": "Oblations with sugarcane stalks bring happiness and subdue royal maidens.",
+   "uncertainties": [],
+   "plain_english": "With sugarcane stalks comes the attainment of happiness, and royal maidens are subdued by that."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "offering material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samagraṃ",
+     "gloss": "whole",
+     "grounds": "condition of offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "kamalena",
+     "gloss": "with-lotus",
+     "grounds": "specific offering",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣkalam",
+     "gloss": "abundantly",
+     "grounds": "manner of offering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should whole flowers, including lotus, be offered in oblation?",
+   "premises": [
+    "Flowers are suitable oblation materials",
+    "Whole flowers are specified",
+    "Lotus is included as an offering"
+   ],
+   "inference": "One should offer whole flowers, including lotus, abundantly.",
+   "uncertainties": [],
+   "plain_english": "One should offer a whole flower, also abundantly with a lotus."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "śata+saṃkhyāḥ",
+     "gloss": "hundred-in-number",
+     "grounds": "compound quantity",
+     "morph": "compound=śata+saṃkhyā m.nom.pl"
+    },
+    {
+     "surface": "tilāḥ",
+     "gloss": "sesame-seeds",
+     "grounds": "offering material",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājikāḥ",
+     "gloss": "mustard-seeds",
+     "grounds": "offering material",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śata+saṃkhyayā",
+     "gloss": "in-hundred-number",
+     "grounds": "compound quantity",
+     "morph": "compound=śata+saṃkhyā f.ins.sg"
+    }
+   ],
+   "question": "What quantities of sesame and mustard seeds are prescribed for oblation?",
+   "premises": [
+    "Sesame seeds are used in oblation",
+    "Mustard seeds are used in oblation",
+    "Specific quantities are prescribed"
+   ],
+   "inference": "Sesame seeds and mustard seeds should be offered in hundreds.",
+   "uncertainties": [],
+   "plain_english": "Sesame seeds in the number of a hundred, and indeed mustard seeds in the number of a hundred."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "culluka+ārddhaṃ",
+     "gloss": "half-handful",
+     "grounds": "compound measure",
+     "morph": "compound=culluka+ardha n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīram",
+     "gloss": "milk",
+     "grounds": "offering material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "offering material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "grāsa+mitaṃ",
+     "gloss": "mouthful-measured",
+     "grounds": "compound measure",
+     "morph": "compound=grāsa+mita n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What measures are prescribed for milk and food offerings?",
+   "premises": [
+    "Milk is used as an offering",
+    "Food is used as an offering",
+    "Offerings require specific measures"
+   ],
+   "inference": "Milk should be half a handful and food should be a mouthful in measure.",
+   "uncertainties": [],
+   "plain_english": "Likewise, milk should be half a handful, and food should be the measure of a mouthful."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "manaḥ+priyaiḥ",
+     "gloss": "mind-pleasing",
+     "grounds": "compound quality",
+     "morph": "compound=manas+priya m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaṇḍaiḥ",
+     "gloss": "with-pieces",
+     "grounds": "offering form",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaiḥ",
+     "gloss": "with-fruits",
+     "grounds": "offering material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "it-becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "niścayāt",
+     "gloss": "certainly",
+     "grounds": "certainty marker",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What kinds of pleasing offerings are certainly effective in oblation?",
+   "premises": [
+    "Offerings can be in pieces",
+    "Offerings can be fruits",
+    "Pleasing offerings are effective"
+   ],
+   "inference": "It certainly becomes effective with mind-pleasing pieces and fruits.",
+   "uncertainties": [
+    "The exact effect is implied from ritual context."
+   ],
+   "plain_english": "Certainly, it is done with mind-pleasing pieces and with fruits."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "panasaiḥ",
+     "gloss": "with-jackfruits",
+     "grounds": "offering material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "phala+garbha+sthaiḥ",
+     "gloss": "situated-in-fruit-womb",
+     "grounds": "compound description",
+     "morph": "compound=phala+garbha+stha m.ins.pl"
+    },
+    {
+     "surface": "cūtaiḥ",
+     "gloss": "with-mangoes",
+     "grounds": "offering material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "madhu+yutaiḥ",
+     "gloss": "joined-with-honey",
+     "grounds": "compound description",
+     "morph": "compound=madhu+yuta m.ins.pl"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √hu"
+    }
+   ],
+   "question": "Which specific fruits and preparations should be offered in oblation?",
+   "premises": [
+    "Jackfruits can be offered",
+    "Mangoes can be offered",
+    "Honey can be combined with offerings"
+   ],
+   "inference": "One should offer jackfruits, those situated in the fruit-womb, and mangoes joined with honey.",
+   "uncertainties": [
+    "The phrase phala+garbha+sthaiḥ is contextually ambiguous."
+   ],
+   "plain_english": "One should offer oblations with jackfruits, with those situated in the fruit-womb, and with mangoes mixed with honey."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "drākṣā+phalaṃ",
+     "gloss": "grape-fruit",
+     "grounds": "compound offering material",
+     "morph": "compound=drākṣā+phala n.nom.sg"
+    },
+    {
+     "surface": "samastaṃ",
+     "gloss": "whole",
+     "grounds": "condition of offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "nāgaraṅgaṃ",
+     "gloss": "orange",
+     "grounds": "offering material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kharjuram",
+     "gloss": "date",
+     "grounds": "offering material",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which whole fruits are prescribed as suitable oblation materials?",
+   "premises": [
+    "Grape fruit can be offered whole",
+    "Orange is a suitable offering",
+    "Date is a suitable offering"
+   ],
+   "inference": "The grape fruit should be whole, and orange and date are also prescribed.",
+   "uncertainties": [],
+   "plain_english": "The grape fruit should be whole, and also the orange and the date."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "guñjā+samānaṃ",
+     "gloss": "equal-to-guñjā",
+     "grounds": "compound measure",
+     "morph": "compound=guñjā+samāna n.nom.sg"
+    },
+    {
+     "surface": "karpūraṃ",
+     "gloss": "camphor",
+     "grounds": "offering material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kastūrī",
+     "gloss": "musk",
+     "grounds": "offering material",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghusṛṇaṃ",
+     "gloss": "saffron",
+     "grounds": "offering material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure is prescribed for aromatic substances like camphor and musk?",
+   "premises": [
+    "Camphor is used in oblation",
+    "Musk and saffron are used in oblation",
+    "A guñjā measure is specified"
+   ],
+   "inference": "Camphor, musk, and saffron should be offered in a measure equal to a guñjā.",
+   "uncertainties": [],
+   "plain_english": "Camphor equal to a guñjā, and likewise musk and saffron."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "manaḥ+priyāṇi",
+     "gloss": "mind-pleasing",
+     "grounds": "compound quality",
+     "morph": "compound=manas+priya n.nom.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "universal scope",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "offering material",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "havanāya",
+     "gloss": "for-oblation",
+     "grounds": "purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What general category of fruits is suitable for oblation?",
+   "premises": [
+    "Fruits can be used in oblation",
+    "Pleasing offerings are appropriate",
+    "The instruction is general"
+   ],
+   "inference": "All mind-pleasing fruits are suitable for oblation.",
+   "uncertainties": [],
+   "plain_english": "And all fruits that are pleasing to the mind are for oblation."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "prakāra+antaram",
+     "gloss": "another-method",
+     "grounds": "compound topic marker",
+     "morph": "compound=prakāra+antara n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "textual transition",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What textual transition signals the introduction of a different method?",
+   "premises": [
+    "The text presents ritual methods",
+    "A new method can be introduced",
+    "The statement marks transition"
+   ],
+   "inference": "Another method is now being stated.",
+   "uncertainties": [],
+   "plain_english": "Another method is stated."
+  }
+ ]
+}

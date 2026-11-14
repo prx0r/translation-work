@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "tanotu",
+     "gloss": "may-grant",
+     "grounds": "imperative expressing a prayer or wish",
+     "morph": "3.sg.imp.act √tan"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive pronoun indicating the beneficiary",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "kalyāṇaṃ",
+     "gloss": "welfare",
+     "grounds": "object of the requested granting",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pāvanī",
+     "gloss": "purifying",
+     "grounds": "adjective qualifying devotion",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "subject invoked as the granting agent",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle restricting efficacy to devotion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "genitive pronoun referring to the addressed deity",
+     "morph": "gen.sg"
+    }
+   ],
+   "question": "What beneficial outcome is sought through purifying devotion directed toward the addressed deity?",
+   "premises": [
+    "The practitioner requests welfare for themselves.",
+    "Purifying devotion directed toward the deity is invoked as the agent.",
+    "This devotion alone is emphasized as effective."
+   ],
+   "inference": "Purifying devotion to the addressed deity alone is sufficient to bestow welfare on the practitioner.",
+   "uncertainties": [
+    "The referent of 'te' is inferred from the preceding verses to be the invoked mantra-deity."
+   ],
+   "plain_english": "May your purifying devotion alone grant me welfare."
+  }
+ ]
+}

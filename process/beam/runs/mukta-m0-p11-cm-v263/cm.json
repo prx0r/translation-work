@@ -3,34 +3,29 @@
  "verse": 263,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "lakṣa+mātreṇa",
+   "morph": "compound=lakṣa+mātra n.ins.sg",
+   "grounds": "compound instrumental quantity"
+  },
+  {
+   "lemma": "mantra+jñaḥ",
+   "morph": "compound=mantra+jña m.nom.sg",
+   "grounds": "compound ritual agent"
+  },
+  {
+   "lemma": "rāja+tulyaḥ",
+   "morph": "compound=rājan+tulya m.nom.sg",
+   "grounds": "compound comparison"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "resulting state"
+  },
+  {
+   "lemma": "dhruvam",
    "morph": "(indecl.)",
-   "grounds": "negation"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "locative adverb referring to the wave state"
-  },
-  {
-   "lemma": "amburūpasya",
-   "morph": "n.gen.sg",
-   "grounds": "the essential nature of water"
-  },
-  {
-   "lemma": "vīcikāle",
-   "morph": "m.loc.sg",
-   "grounds": "when waves arise"
-  },
-  {
-   "lemma": "vināśitā",
-   "morph": "f.nom.sg",
-   "grounds": "state of being destroyed"
+   "grounds": "certainty marker"
   }
  ]
 }
