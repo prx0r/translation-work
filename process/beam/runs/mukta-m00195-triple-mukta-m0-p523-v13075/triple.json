@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p523",
+ "items": [
+  {
+   "verse": 13075,
+   "rows": [
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the offering",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "first-person pronoun indicating the offerer",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "caudanabaliṃ",
+     "gloss": "rice-offering",
+     "grounds": "compound of caudana (rice) and bali (offering)",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "gṛhṇagṛhṇa",
+     "gloss": "take-take",
+     "grounds": "reduplicated imperative expressing urgent request",
+     "morph": "impv.2.sg.act-pres (√grah)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking mantra elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "mantra seed-syllable, transliterated only",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking mantra elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantra syllable, transliterated only",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering and mantra syllables are demanded in this invocation?",
+   "premises": [
+    "The speaker presents a specific rice offering as their own.",
+    "The recipient is urgently commanded to accept the offering.",
+    "The mantra syllables huṃ and phaṭ accompany the act of offering."
+   ],
+   "inference": "The invocation completes the mantra by demanding acceptance of the speaker's rice offering together with the syllables huṃ and phaṭ.",
+   "uncertainties": [
+    "The precise ritual function of huṃ and phaṭ in this specific context is not explicit in the verse."
+   ],
+   "plain_english": "Take, take this rice offering of mine, with huṃ and phaṭ."
+  }
+ ]
+}

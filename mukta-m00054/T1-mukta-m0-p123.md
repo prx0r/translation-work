@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[battle+crusher+to-homage](samaramarddanāyanamaḥ) [429](||) [429](429) [429](||) [great+cloud+dweller+to-homage](mahāmeghanivāsinenamaḥ)
+[battle+crusher-to](samaramarddanāyanamaḥ) [salutation](||) [429](429) [salutation](||) [great+cloud+dweller-to](mahāmeghanivāsinenamaḥ)
 
 ## mukta-m0-p123-v3052
-[great+terrible+to-homage](mahāghorāyanamaḥ) [431](||) [431](431) [431](||) [controller+to-homage](vaśinenamaḥ) [432](||) [432](432) [432](||) [doer+to-homage](karāyanamaḥ)
+[great+terrible-to](mahāghorāyanamaḥ) [salutation](||) [431](431) [salutation](||) [self-controlled-to](vaśinenamaḥ) [salutation](||) [432](432) [salutation](||) [doer-to](karāyanamaḥ)
 
 ## mukta-m0-p123-v3053
-[fire+flame+to-homage](agnijvālāyanamaḥ) [434](||) [434](434) [434](||) [great+flame+to-homage](mahājvālāyanamaḥ) [435](||) [435](435) [435](||) [excessive+smoke+to-homage](atidhūmrāyanamaḥ) [435](||)
+[fire+flame-to](agnijvālāyanamaḥ) [salutation](||) [434](434) [salutation](||) [great+flame-to](mahājvālāyanamaḥ) [salutation](||) [435](435) [salutation](||) [exceedingly+smoky-to](atidhūmrāyanamaḥ) [salutation](||)
 
 ## mukta-m0-p123-v3054
-[436](436) [436](||) [offered+to-homage](hutāyanamaḥ) [437](||) [437](437) [437](||) [oblation+to-homage](haviṣenamaḥ) [438](||) [438](438) [438](||) [showerer+to-homage](vṛṣaṇāyanamaḥ)
+[436](436) [salutation](||) [sacrificed-to](hutāyanamaḥ) [salutation](||) [437](437) [salutation](||) [oblation-to](haviṣenamaḥ) [salutation](||) [438](438) [salutation](||) [showerer-to](vṛṣaṇāyanamaḥ)
 
 ## mukta-m0-p123-v3055
-[beneficent+to-homage](śaṅkarāyanamaḥ) [440](||) [440](440) [440](||) [vigorous+to-homage](varccasvinenamaḥ) [441](||) [441](441) [441](||) [smoke+bannered+to-homage](dhūmaketanāyanamaḥ) [441](||)
+[beneficent-to](śaṅkarāyanamaḥ) [salutation](||) [440](440) [salutation](||) [vigorous-to](varccasvinenamaḥ) [salutation](||) [441](441) [salutation](||) [smoke+bannered-to](dhūmaketanāyanamaḥ) [salutation](||)
 
 ## mukta-m0-p123-v3056
-[445](||) [445](445) [445](||) [unobstructed+to-homage](niravagrahāyanamaḥ) [446](||) [446](446) [446](||) [welfare+giver+to-homage](svastidāyanamaḥ)
+[salutation](||) [445](445) [salutation](||) [unobstructed-to](niravagrahāyanamaḥ) [salutation](||) [446](446) [salutation](||) [welfare+giver-to](svastidāyanamaḥ)
 
 ## mukta-m0-p123-v3057
-[447](||) [light+to-homage](laghavenamaḥ) [451](||) [451](451) [451](||) [lap+to-homage](utsāṅgāyanamaḥ) [452](||) [452](452) [452](||) [great+limbed+to-homage](mahāṅgāyanamaḥ)
+[salutation](||) [light-to](laghavenamaḥ) [salutation](||) [451](451) [salutation](||) [lap-to](utsāṅgāyanamaḥ) [salutation](||) [452](452) [salutation](||) [great+limbed-to](mahāṅgāyanamaḥ)
 
 ## mukta-m0-p123-v3058
-[great+womb+devoted+to-homage](mahāgarbbhaparāyaṇāyanamaḥ) [454](||) [454](454) [454](||) [black+colored+to-homage](kṛṣṇavarṇāyanamaḥ)
+[great+womb+devoted-to](mahāgarbbhaparāyaṇāyanamaḥ) [salutation](||) [454](454) [salutation](||) [black+colored-to](kṛṣṇavarṇāyanamaḥ)
 
 ## mukta-m0-p123-v3059
-[golden+colored+to-homage](suvarṇāyanamaḥ) [456](||) [456](456) [456](||) [all+embodied-beings+of-senses+to-homage](sarvadehināmindriyāyanamaḥ)
+[golden-colored-to](suvarṇāyanamaḥ) [salutation](||) [456](456) [salutation](||) [all+beings-of+sense-organ-to](sarvadehināmindriyāyanamaḥ)
 
 ## mukta-m0-p123-v3060
-[great+footed+to-homage](mahāpādāyanamaḥ) [458](||) [458](458) [458](||) [great+handed+to-homage](mahāhastāyanamaḥ)
+[great+footed-to](mahāpādāyanamaḥ) [salutation](||) [458](458) [salutation](||) [great+handed-to](mahāhastāyanamaḥ)
 
 ## mukta-m0-p123-v3061
-[great+bodied+to-homage](mahākāyāyanamaḥ) [460](||) [460](460) [460](||) [great+famed+to-homage](mahāyaśasenamaḥ)
+[great+bodied-to](mahākāyāyanamaḥ) [salutation](||) [460](460) [salutation](||) [great+famed-to](mahāyaśasenamaḥ)
 
 ## mukta-m0-p123-v3062
-[great+headed+to-homage](mahāmūrddhnenamaḥ) [462](||) [462](462) [462](||) [great+measured+to-homage](mahāmātrāyanamaḥ)
+[great+headed-to](mahāmūrddhnenamaḥ) [salutation](||) [462](462) [salutation](||) [great+measured-to](mahāmātrāyanamaḥ)
 
 ## mukta-m0-p123-v3063
-[great+eyed+to-homage](mahānetrāyanamaḥ) [464](||) [464](464) [464](||) [night+abode+to-homage](niśālayāyanamaḥ) [465](||) [465](465) [465](||) [great+destroyer+to-homage](mahāntakāyanamaḥ) [465](||)
+[great+eyed-to](mahānetrāyanamaḥ) [salutation](||) [464](464) [salutation](||) [night+abode-to](niśālayāyanamaḥ) [salutation](||) [465](465) [salutation](||) [great+destroyer-to](mahāntakāyanamaḥ) [salutation](||)
 
 ## mukta-m0-p123-v3064
-[466](466) [466](||) [great+eared+to-homage](mahākarṇāyanamaḥ) [467](||) [467](467) [467](||) [great+lipped+to-homage](mahoṣṭhāyanamaḥ)
+[466](466) [salutation](||) [great+eared-to](mahākarṇāyanamaḥ) [salutation](||) [467](467) [salutation](||) [great+lipped-to](mahoṣṭhāyanamaḥ)
 
 ## mukta-m0-p123-v3065
-[great+jawed+to-homage](mahāhanavenamaḥ) [469](||) [469](469) [469](||) [great+nosed+to-homage](mahānāsāyanamaḥ) [470](||) [470](470) [470](||) [great+necked+to-homage](mahākambavenamaḥ) [470](||)
+[great+jawed-to](mahāhanavenamaḥ) [salutation](||) [469](469) [salutation](||) [great+nosed-to](mahānāsāyanamaḥ) [salutation](||) [470](470) [salutation](||) [great+necked-to](mahākambavenamaḥ) [salutation](||)
 
 ## mukta-m0-p123-v3066
-[471](471) [471](||) [great+necked+to-homage](mahāgrīvāyanamaḥ) [472](||) [472](472) [472](||) [cremation-ground+dweller+to-homage](śmaśānabhājenamaḥ)
+[471](471) [salutation](||) [great+throated-to](mahāgrīvāyanamaḥ) [salutation](||) [472](472) [salutation](||) [cremation-ground+sharer-to](śmaśānabhājenamaḥ)
 
 ## mukta-m0-p123-v3067
-[great+chested+to-homage](mahāvakṣasenamaḥ) [474](||) [474](474) [474](||) [great+breasted+to-homage](mahoraskāyanamaḥ) [475](||) [475](475) [475](||) [inner+self+to-homage](antarātmanenamaḥ) [475](||)
+[great+chested-to](mahāvakṣasenamaḥ) [salutation](||) [474](474) [salutation](||) [broad+chested-to](mahoraskāyanamaḥ) [salutation](||) [475](475) [salutation](||) [inner+self-to](antarātmanenamaḥ) [salutation](||)
 
 ## mukta-m0-p123-v3068
-[476](476) [476](||) [deer+abode+to-homage](mṛgālayāyanamaḥ) [477](||) [477](477) [477](||) [hanging+to-homage](lambanāyanamaḥ)
+[476](476) [salutation](||) [deer+abode-to](mṛgālayāyanamaḥ) [salutation](||) [477](477) [salutation](||) [hanging-to](lambanāyanamaḥ)
 
 ## mukta-m0-p123-v3069
-[481](||) [481](481) [481](||) [great+toothed+to-homage](mahādantāyanamaḥ) [482](||) [482](482) [482](||) [great+tusked+to-homage](mahādaṃṣṭrāyanamaḥ)
+[salutation](||) [481](481) [salutation](||) [great+toothed-to](mahādantāyanamaḥ) [salutation](||) [482](482) [salutation](||) [great+tusked-to](mahādaṃṣṭrāyanamaḥ)
 
 ## mukta-m0-p123-v3070
-[great+tongued+to-homage](mahājihvāyanamaḥ) [484](||) [484](484) [484](||) [great+mouthed+to-homage](mahāmukhāyanamaḥ)
+[great+tongued-to](mahājihvāyanamaḥ) [salutation](||) [484](484) [salutation](||) [great+mouthed-to](mahāmukhāyanamaḥ)
 
 ## mukta-m0-p123-v3071
-[491](||) [491](491) [491](||) [conviction+to-homage](pratyayāyanamaḥ) [492](||) [492](492) [492](||) [mountain+accomplisher+to-homage](girisādhanāyanamaḥ)
+[salutation](||) [491](491) [salutation](||) [conviction-to](pratyayāyanamaḥ) [salutation](||) [492](492) [salutation](||) [mountain+accomplisher-to](girisādhanāyanamaḥ)
 
 ## mukta-m0-p123-v3072
-[affectionate+to-homage](snehanāyanamaḥ) [494](||) [494](494) [494](||) [non-affectionate+to-homage](asnehanāyanamaḥ) [495](||) [495](495) [495](||) [unconquered+to-homage](ajitāyanamaḥ)
+[affectionate-to](snehanāyanamaḥ) [salutation](||) [494](494) [salutation](||) [unaffectionate-to](asnehanāyanamaḥ) [salutation](||) [495](495) [salutation](||) [unconquered-to](ajitāyanamaḥ)
 
 ## mukta-m0-p123-v3073
-[great+sage+to-homage](mahāmunayenamaḥ) [497](||) [497](497) [497](||) [tree+formed+to-homage](vṛkṣākārāyanamaḥ) [498](||) [498](498) [498](||) [tree+bannered+to-homage](vṛkṣaketavenamaḥ) [498](||)
+[great+sage-to](mahāmunayenamaḥ) [salutation](||) [497](497) [salutation](||) [tree+formed-to](vṛkṣākārāyanamaḥ) [salutation](||) [498](498) [salutation](||) [tree+bannered-to](vṛkṣaketavenamaḥ) [salutation](||)
 
 ## mukta-m0-p123-v3074
-[499](499) [499](||) [fire+to-homage](analāyanamaḥ)
+[499](499) [salutation](||) [fire-to](analāyanamaḥ)
 
 ## mukta-m0-p123-v3075
-[page](p.) [466](466) [466](\)) [wind+vehicled+to-homage](vāyuvāhanāyanamaḥ) [501](||) [501](501) [501](||) [having-trunk+to-homage](gaṇḍalinenamaḥ)
+[page](p.) [466](466)) [wind+vehicle-to](vāyuvāhanāyanamaḥ) [salutation](||) [501](501) [salutation](||) [having+knots-to](gaṇḍalinenamaḥ)

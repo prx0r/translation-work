@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-[madman](unmatta) [guise](veṣa) [concealed-to](pracchannāya) [obeisance](namaḥ) [to-lord-of-all-worlds](sarvaloka) [+](prajāpataye) [obeisance](namaḥ)
+[mad-dress](unmattaveṣa)+[concealed-to](pracchannāya)+[obeisance](namaḥ) [all-worlds](sarvaloka)+[lord-of-beings-to](prajāpataye)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2927
-[to-great-form](mahārūpāya) [obeisance](namaḥ) [to-great-bodied](mahākāyāya) [obeisance](namaḥ) [to-bull-form](vṛṣarūpāya) [obeisance](namaḥ)
+[great-form-to](mahārūpāya)+[obeisance](namaḥ) [great-body-to](mahākāyāya)+[obeisance](namaḥ) [bull-form-to](vṛṣarūpāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2928
-[to-great-fame](mahāyaśase) [obeisance](namaḥ) [to-great-soul](mahātmane) [obeisance](namaḥ)
+[great-fame-to](mahāyaśase)+[obeisance](namaḥ) [great-soul-to](mahātmane)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2929
-[to-horse](haya) [and-donkey](garddabhaye) [obeisance](namaḥ) [to-pure-one](pavitrāya) [obeisance](namaḥ) [to-great-one](mahate) [obeisance](namaḥ)
+[horse-donkey-to](hayagarddabhaye)+[obeisance](namaḥ) [pure-to](pavitrāya)+[obeisance](namaḥ) [great-to](mahate)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2930
-[to-self-born](svayambhūtāya) [obeisance](namaḥ) [to-primeval-one](ādaye) [obeisance](namaḥ) [to-primeval-cause](ādikarāya) [obeisance](namaḥ)
+[self-born-to](svayambhūtāya)+[obeisance](namaḥ) [first-to](ādaye)+[obeisance](namaḥ) [first-cause-to](ādikarāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2931
-[to-treasure](nidhaye) [obeisance](namaḥ) [to-thousand-eyed](sahasrākṣāya) [obeisance](namaḥ) [to-wide-eyed](viśālākṣāya) [obeisance](namaḥ)
+[treasure-to](nidhaye)+[obeisance](namaḥ) [thousand-eyed-to](sahasrākṣāya)+[obeisance](namaḥ) [wide-eyed-to](viśālākṣāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2932
-[to-soma](somāya) [obeisance](namaḥ) [to-constellation](nakṣatra) [accomplisher](sādhakāya) [obeisance](namaḥ) [to-moon](candrāya) [obeisance](namaḥ)
+[soma-to](somāya)+[obeisance](namaḥ) [constellation-accomplisher-to](nakṣatrasādhakāya)+[obeisance](namaḥ) [moon-to](candrāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2933
-[to-lord-of-planets](grahapataye) [obeisance](namaḥ) [to-excellent-one](varāya) [obeisance](namaḥ) [to-atri](atraye) [obeisance](namaḥ)
+[planet-lord-to](grahapataye)+[obeisance](namaḥ) [excellent-to](varāya)+[obeisance](namaḥ) [atri-to](atraye)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2934
-[to-atri](atryā) [worshipper](namaskartre) [obeisance](namaḥ) [to-deer](mṛga) [arrow](bāṇa) [offerer](arpaṇāya) [obeisance](namaḥ)
+[atri's](atryā)+[saluter-to](namaskartre)+[obeisance](namaḥ) [deer-arrow](mṛgabāṇa)+[offerer-to](arpaṇāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2935
-[to-sinless-one](anaghāya) [obeisance](namaḥ) [to-great-austerity](mahātapase) [obeisance](namaḥ) [to-fierce-austerity](ghoratapase) [obeisance](namaḥ)
+[sinless-to](anaghāya)+[obeisance](namaḥ) [great-austerity-to](mahātapase)+[obeisance](namaḥ) [terrible-austerity-to](ghoratapase)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2936
-[to-unafflicted](adīnāya) [obeisance](namaḥ) [to-afflicted](dīna) [accomplisher](sādhakāya) [obeisance](namaḥ) [to-year](sa/vvatsara) [maker](karāya) [obeisance](namaḥ)
+[unafflicted-to](adīnāya)+[obeisance](namaḥ) [afflicted-accomplisher-to](dīnasādhakāya)+[obeisance](namaḥ) [year-maker-to](sa/vvatsarakarāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2937
-[to-mantra](mantrāya) [obeisance](namaḥ) [to-measure](pramāṇāya) [obeisance](namaḥ) [to-supreme-austerity](paramantapāya) [obeisance](namaḥ)
+[mantra-to](mantrāya)+[obeisance](namaḥ) [measure-to](pramāṇāya)+[obeisance](namaḥ) [supreme-austerity-to](paramantapāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2938
-[to-yogin](yogine) [obeisance](namaḥ) [to-be-yoked](yojyāya) [obeisance](namaḥ) [to-great-seed](mahābījāya) [obeisance](namaḥ)
+[yogin-to](yogine)+[obeisance](namaḥ) [to-be-yoked-to](yojyāya)+[obeisance](namaḥ) [great-seed-to](mahābījāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2939
-[to-great-semen](mahāretase) [obeisance](namaḥ) [to-great-strength](mahābalāya) [obeisance](namaḥ) [to-golden-semen](suvarṇaretase) [obeisance](namaḥ)
+[great-semen-to](mahāretase)+[obeisance](namaḥ) [great-strength-to](mahābalāya)+[obeisance](namaḥ) [golden-semen-to](suvarṇaretase)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2940
-[to-all-knowing](sarvajñāya) [obeisance](namaḥ) [to-good-seed](subījāya) [obeisance](namaḥ) [to-seed](bīja) [bearer](vāhanāya) [obeisance](namaḥ)
+[all-knowing-to](sarvajñāya)+[obeisance](namaḥ) [good-seed-to](subījāya)+[obeisance](namaḥ) [seed-bearer-to](bījavāhanāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2941
-[to-ten](daśa) [bearer](vāhave) [obeisance](namaḥ) [to-unwinking](animiṣāya) [obeisance](namaḥ) [to-blue-throated](nīlakaṇṭhāya) [obeisance](namaḥ)
+[ten-armed-to](daśavāhave)+[obeisance](namaḥ) [unwinking-to](animiṣāya)+[obeisance](namaḥ) [blue-throated-to](nīlakaṇṭhāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2942
-[to-umā](umā) [lord](pataye) [obeisance](namaḥ) [to-universal-form](viśvarūpāya) [obeisance](namaḥ)
+[umā's](umā)+[lord-to](pataye)+[obeisance](namaḥ) [universal-form-to](viśvarūpāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2943
-[to-self](svayaṃ) [excellent](śreṣṭhāya) [obeisance](namaḥ) [to-mighty](bala) [hero](vīrāya) [obeisance](namaḥ)
+[self-best-to](svayaṃśreṣṭhāya)+[obeisance](namaḥ) [strong-hero-to](balavīrāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2944
-[to-abaṃla](abaṃla) [troop](gaṇāya) [obeisance](namaḥ) [to-troop](gaṇa) [maker](karttre) [obeisance](namaḥ) [to-lord-of-troops](gaṇapataye) [obeisance](namaḥ)
+[strengthless-troop-to](abaṃlagaṇāya)+[obeisance](namaḥ) [troop-maker-to](gaṇakarttre)+[obeisance](namaḥ) [troop-lord-to](gaṇapataye)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2945
-[to-sky-clad](digvāsase) [obeisance](namaḥ) [to-desire](kāmāya) [obeisance](namaḥ) [to-mantra](mantra) [knower](vide) [obeisance](namaḥ)
+[sky-clad-to](digvāsase)+[obeisance](namaḥ) [desire-to](kāmāya)+[obeisance](namaḥ) [mantra-knower-to](mantravide)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2946
-[to-supreme-mantra](paramamantrāya) [obeisance](namaḥ) [to-all](sarva) [existence](bhava) [maker](karāya) [obeisance](namaḥ) [to-hara](harāya) [obeisance](namaḥ)
+[supreme-mantra-to](paramamantrāya)+[obeisance](namaḥ) [all-existence-maker-to](sarvabhavakarāya)+[obeisance](namaḥ) [remover-to](harāya)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2947
-[to-water-pot](kamaṇḍalu) [holder](dharāya) [obeisance](namaḥ) [to-bowman](dhanvine) [obeisance](namaḥ)
+[water-pot-holder-to](kamaṇḍaludharāya)+[obeisance](namaḥ) [bow-bearer-to](dhanvine)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2948
-[to-arrow](bāṇa) [handed](hastāya) [obeisance](namaḥ) [to-skull-bearer](kapālavate) [obeisance](namaḥ) [to-thunderbolt-holder](aśanine) [obeisance](namaḥ)
+[arrow-hand-to](bāṇahastāya)+[obeisance](namaḥ) [skull-bearer-to](kapālavate)+[obeisance](namaḥ) [thunderbolt-to](aśanine)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2949
-[to-hundred-slayer](śataghnine) [obeisance](namaḥ) [to-sword-bearer](khaḍgine) [obeisance](namaḥ) [to-spear-bearer](paṭṭiśine) [obeisance](namaḥ)
+[hundred-slayer-to](śataghnine)+[obeisance](namaḥ) [sword-bearer-to](khaḍgine)+[obeisance](namaḥ) [spear-bearer-to](paṭṭiśine)+[obeisance](namaḥ)
 
 ## mukta-m0-p118-v2950
-[to-weapon-bearer](āyudhine) [obeisance](namaḥ) [to-great-one](mahate) [obeisance](namaḥ) [to-ladle](sruva) [handed](hastāya) [obeisance](namaḥ)
+[weapon-bearer-to](āyudhine)+[obeisance](namaḥ) [great-to](mahate)+[obeisance](namaḥ) [ladle-hand-to](sruvahastāya)+[obeisance](namaḥ)

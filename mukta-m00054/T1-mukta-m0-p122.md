@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[to-the-mendicant](bhikṣave) [obeisance](namaḥ) [to-the-one-in-mendicant+form](bhikṣurūpāya) [obeisance](namaḥ) [to-the-seller](vipaṇāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-mendicant](bhikṣave) [homage](namaḥ) [to-the-one-in-mendicant-form](bhikṣu+rūpāya) [homage](namaḥ) [to-the-seller](vipaṇāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3027
-[to-the-thunderbolt+handed](vajrahastāya) [obeisance](namaḥ) [to-the-unobstructed-one](viṣkambhine) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-thunderbolt-handed](vajra+hastāya) [homage](namaḥ) [to-viṣkambhin](viṣkambhine) [homage](namaḥ)
 
 ## mukta-m0-p122-v3028
-[to-the-army+paralyzer](camūstambhanāya) [obeisance](namaḥ) [to-the-maker-of-turned+and-unturned](vṛttāvṛttakarāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-army-paralyzer](camū+stambhanāya) [homage](namaḥ) [to-the-maker-of-action-and-inaction](vṛtta+avṛtta+karāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3029
-[to-the-palm-tree](tālāya) [obeisance](namaḥ) [to-madhu](madhave) [obeisance](namaḥ) [to-the-honey+brown+eyed](madhukalocanāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-palm-tree](tālāya) [homage](namaḥ) [to-madhu](madhave) [homage](namaḥ) [to-the-honey-eyed](madhu+ka+locanāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3030
-[to-the-lord-of-speech](vācaspatyāya) [obeisance](namaḥ) [to-the-vigorous-one](vājasanāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-lord-of-speech](vācaspatyāya) [homage](namaḥ) [to-vājasana](vājasanāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3031
-[to-the-one-honored-by-hermitages](āśramapūjitāya) [obeisance](namaḥ) [to-the-celibate-student](brahmacāriṇe) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-one-honored-in-hermitages](āśrama+pūjitāya) [homage](namaḥ) [to-the-celibate-student](brahmacāriṇe) [homage](namaḥ)
 
 ## mukta-m0-p122-v3032
-[to-the-world+wanderer](lokacāriṇe) [obeisance](namaḥ) [to-the-all+wanderer](sarvacāriṇe) [obeisance](namaḥ) [to-the-knower-of-inquiry](vicāravidenamaḥ)
+[homage](namaḥ) [to-the-world-wanderer](loka+cāriṇe) [homage](namaḥ) [to-the-all-wanderer](sarva+cāriṇe) [homage](namaḥ) [to-the-knower-of-inquiry](vicāra+vide) [homage](namaḥ)
 
 ## mukta-m0-p122-v3033
-[to-the-lord](īśānāya) [obeisance](namaḥ) [to-the-sovereign](īśvarāya) [obeisance](namaḥ) [to-time](kālāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-īśāna](īśānāya) [homage](namaḥ) [to-the-lord](īśvarāya) [homage](namaḥ) [to-time](kālāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3034
-[to-the-night+wanderer](niśācāriṇe) [obeisance](namaḥ) [to-the-bearer-of-pināka](pinākadhṛṣe) [obeisance](namaḥ) [to-the-one-abiding-in-signs](nimittasthāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-night-wanderer](niśā+cāriṇe) [homage](namaḥ) [to-the-holder-of-pināka](pināka+dhṛṣe) [homage](namaḥ) [to-the-one-abiding-in-omens](nimitta+sthāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3035
-[to-the-cause](nimittāya) [obeisance](namaḥ) [to-nandi](nandaye) [obeisance](namaḥ) [to-the-joy+maker](nandikarāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-omen](nimittāya) [homage](namaḥ) [to-nandi](nandaye) [homage](namaḥ) [to-the-causer-of-joy](nandi+karāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3036
-[to-the-remover](haraye) [obeisance](namaḥ) [to-the-lord-of-nandi](nandīśvarāya) [obeisance](namaḥ) [to-the-delighted-one](nandine) [obeisance](namaḥ)
+[homage](namaḥ) [to-hari](haraye) [homage](namaḥ) [to-the-lord-of-nandin](nandīśvarāya) [homage](namaḥ) [to-nandin](nandine) [homage](namaḥ)
 
 ## mukta-m0-p122-v3037
-[to-the-destroyer](nihantrenamaḥ) [obeisance](namaḥ) [to-time](kālāya) [obeisance](namaḥ) [to-brahman](brahmaṇe) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-destroyer](nihantrenamaḥ) [homage](namaḥ) [to-time](kālāya) [homage](namaḥ) [to-brahman](brahmaṇe) [homage](namaḥ)
 
 ## mukta-m0-p122-v3038
-[to-the-grandfather](pitāmahāya) [obeisance](namaḥ) [to-the-four+faced](caturmmukhāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-grandfather](pitāmahāya) [homage](namaḥ) [to-the-four-faced](caturmmukhāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3039
-[to-the-great+liṅga](mahāliṅgāya) [obeisance](namaḥ) [to-the-beautiful+liṅga](cāruliṅgāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-great-liṅga](mahā+liṅgāya) [homage](namaḥ) [to-the-beautiful-liṅga](cāru+liṅgāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3040
-[to-the-overseer-of-liṅgas](liṅgādhyakṣāya) [obeisance](namaḥ) [to-the-overseer-of-gods](surādhyakṣāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-overseer-of-the-liṅga](liṅga+adhyakṣāya) [homage](namaḥ) [to-the-overseer-of-gods](sura+adhyakṣāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3041
-[to-the-overseer-of-yoga](yogādhyakṣāya) [obeisance](namaḥ) [to-the-bringer-of-ages](yugāvahāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-overseer-of-yoga](yoga+adhyakṣāya) [homage](namaḥ) [to-the-bearer-of-ages](yuga+āvahāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3042
-[to-the-overseer-of-seeds](bījādhyakṣāya) [obeisance](namaḥ) [to-the-maker-of-seeds](bījakarttrenamaḥ)
+[homage](namaḥ) [to-the-overseer-of-seeds](bīja+adhyakṣāya) [homage](namaḥ) [to-the-maker-of-seeds](bīja+karttre) [homage](namaḥ)
 
 ## mukta-m0-p122-v3043
-[to-the-one-following-the-inner-self](adhyātmānugatāya) [obeisance](namaḥ) [to-strength](balāya) [obeisance](namaḥ) [to-tradition](itihāsāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-one-followed-by-the-inner-self](adhyātmā+anugatāya) [homage](namaḥ) [to-strength](balāya) [homage](namaḥ) [to-tradition](itihāsāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3044
-[to-the-controllable-one](vaśyāya) [obeisance](namaḥ) [to-the-subduer](vaśakarāya) [obeisance](namaḥ) [to-the-art](kalaye) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-one-to-be-controlled](vaśyāya) [homage](namaḥ) [to-the-controller](vaśa+karāya) [homage](namaḥ) [to-kala](kalaye) [homage](namaḥ)
 
 ## mukta-m0-p122-v3045
-[to-the-maker-of-worlds](lokakarttrenamaḥ) [to-the-lord-of-beings](paśupatayenamaḥ) [to-the-great+maker](mahākarttrenamaḥ)
+[homage](namaḥ) [to-the-maker-of-worlds](loka+karttre) [homage](namaḥ) [to-the-lord-of-beings](paśupataye) [homage](namaḥ) [to-the-great-maker](mahā+karttre) [homage](namaḥ)
 
 ## mukta-m0-p122-v3046
-[to-the-one-without-herbs](anauṣadhāya) [obeisance](namaḥ) [to-the-imperishable](akṣarāya) [obeisance](namaḥ) [to-the-supreme+brahman](paramabrahmaṇe) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-one-without-herbs](an+auṣadhāya) [homage](namaḥ) [to-the-imperishable](akṣarāya) [homage](namaḥ) [to-the-supreme-brahman](parama+brahmaṇe) [homage](namaḥ)
 
 ## mukta-m0-p122-v3047
-[to-the-powerful-one](balavatenamaḥ) [to-śakra](śakrāya) [obeisance](namaḥ) [to-conduct](nītaye) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-powerful](balavate) [homage](namaḥ) [to-śakra](śakrāya) [homage](namaḥ) [to-conduct](nītaye) [homage](namaḥ)
 
 ## mukta-m0-p122-v3048
-[to-misconduct](anītaye) [obeisance](namaḥ) [to-the-pure+self](śuddhātmanenamaḥ) [to-the-pure-one](śuddhāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-misconduct](anītaye) [homage](namaḥ) [to-the-pure-souled](śuddha+ātmane) [homage](namaḥ) [to-the-pure](śuddhāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3049
-[to-the-honorable-one](mānyāya) [obeisance](namaḥ) [to-the-gone+and-come](gatāgatāya) [obeisance](namaḥ) [to-the-one-of-many+favors](bahuprasādāya) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-honorable](mānyāya) [homage](namaḥ) [to-the-one-who-goes-and-comes](gata+āgatāya) [homage](namaḥ) [to-the-one-of-much-grace](bahu+prasādāya) [homage](namaḥ)
 
 ## mukta-m0-p122-v3050
-[to-the-maker-of-vedas](vedakārāya) [obeisance](namaḥ) [to-the-maker-of-mantras](mantrakārāya) [obeisance](namaḥ) [to-the-wise-one](viduṣe) [obeisance](namaḥ)
+[homage](namaḥ) [to-the-maker-of-the-veda](veda+kārāya) [homage](namaḥ) [to-the-maker-of-mantras](mantra+kārāya) [homage](namaḥ) [to-the-wise](viduṣe) [homage](namaḥ)
