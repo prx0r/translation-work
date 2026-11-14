@@ -1,0 +1,861 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 626,
+   "rows": [
+    {
+     "surface": "śālmalyai",
+     "gloss": "to-śālmalī",
+     "grounds": "dative recipient of obeisance in placement formula",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "nama",
+     "gloss": "obeisance",
+     "grounds": "indeclinable salutation word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "quotation marker indicating formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaseddakṣiṇacakṣuṣi",
+     "gloss": "should-place-in-right-eye",
+     "grounds": "fused verb and locative compound indicating placement locus",
+     "morph": "3.sg.opt.act + m.loc.sg"
+    }
+   ],
+   "question": "Where and with what salutation formula should the practitioner place the mantra in this step?",
+   "premises": [
+    "The salutation is addressed to Śālmalī.",
+    "The formula is marked by 'nama' and 'thus'.",
+    "The placement locus is the right eye."
+   ],
+   "inference": "The practitioner should place the mantra in the right eye with the salutation 'obeisance to Śālmalī'.",
+   "uncertainties": [
+    "Śālmalī may name a deity or power; exact identity not specified here."
+   ],
+   "plain_english": "One should place the mantra in the right eye with the formula: 'Obeisance to Śālmalī.'"
+  },
+  {
+   "verse": 627,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "injunctive/optative verb of placement",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "vāmākṣimadhye",
+     "gloss": "in-middle-of-left-eye",
+     "grounds": "locative compound specifying placement locus",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "omuṃkāramanantaram",
+     "gloss": "omuṃ-syllable-next",
+     "grounds": "mantra syllable followed by sequence marker",
+     "morph": "m.acc.sg compound"
+    }
+   ],
+   "question": "Which mantra syllable should be placed in the middle of the left eye next?",
+   "premises": [
+    "The action prescribed is placement.",
+    "The locus is the middle of the left eye.",
+    "The syllable to be placed is omuṃ."
+   ],
+   "inference": "The practitioner should next place the omuṃ syllable in the middle of the left eye.",
+   "uncertainties": [],
+   "plain_english": "Next, one should place the omuṃ syllable in the middle of the left eye."
+  },
+  {
+   "verse": 628,
+   "rows": [
+    {
+     "surface": "dakṣaśrotre",
+     "gloss": "in-right-ear",
+     "grounds": "locative compound specifying placement locus",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "nyasedetadomūṃkāramanantaram",
+     "gloss": "should-place-this-omūṃ-syllable-next",
+     "grounds": "fused verb, demonstrative, and mantra syllable with sequence marker",
+     "morph": "3.sg.opt.act + n.acc.sg compound"
+    }
+   ],
+   "question": "Which mantra syllable should be placed in the right ear in this sequence?",
+   "premises": [
+    "The locus specified is the right ear.",
+    "The syllable indicated is omūṃ.",
+    "The action is placement in sequence."
+   ],
+   "inference": "The practitioner should place the omūṃ syllable in the right ear next.",
+   "uncertainties": [],
+   "plain_english": "One should place this omūṃ syllable next in the right ear."
+  },
+  {
+   "verse": 629,
+   "rows": [
+    {
+     "surface": "vāmakarṇe",
+     "gloss": "in-left-ear",
+     "grounds": "locative compound specifying placement locus",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "nyasedetadomṛṃkāraṃ",
+     "gloss": "should-place-this-omṛṃ-syllable",
+     "grounds": "fused verb, demonstrative, and mantra syllable",
+     "morph": "3.sg.opt.act + m.acc.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-install",
+     "grounds": "verb reinforcing placement action",
+     "morph": "3.sg.opt.act √vi-nyas"
+    }
+   ],
+   "question": "Which mantra syllable should be installed in the left ear at this stage?",
+   "premises": [
+    "The locus specified is the left ear.",
+    "The syllable indicated is omṛṃ.",
+    "The action is installation or placement."
+   ],
+   "inference": "The practitioner should install the omṛṃ syllable in the left ear.",
+   "uncertainties": [],
+   "plain_english": "One should install this omṛṃ syllable in the left ear."
+  },
+  {
+   "verse": 630,
+   "rows": [
+    {
+     "surface": "dakṣanāsāpuṭe",
+     "gloss": "in-right-nostril",
+     "grounds": "locative compound specifying placement locus",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "verb of placement",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "omṝṃkāramanantaram",
+     "gloss": "omṝṃ-syllable-next",
+     "grounds": "mantra syllable with sequence marker",
+     "morph": "m.acc.sg compound"
+    }
+   ],
+   "question": "Which mantra syllable should be placed in the right nostril next?",
+   "premises": [
+    "The locus specified is the right nostril.",
+    "The action prescribed is placement.",
+    "The syllable to be placed is omṝṃ."
+   ],
+   "inference": "The practitioner should place the omṝṃ syllable in the right nostril next.",
+   "uncertainties": [],
+   "plain_english": "One should place the omṝṃ syllable next in the right nostril."
+  },
+  {
+   "verse": 631,
+   "rows": [
+    {
+     "surface": "vāmanāsāpuṭe",
+     "gloss": "in-left-nostril",
+     "grounds": "locative compound specifying placement locus",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "nyasyet",
+     "gloss": "should-place",
+     "grounds": "verb of placement",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "oṃ ḷ/kāramanantaram",
+     "gloss": "oṃ-ḷ-syllable-next",
+     "grounds": "mantra syllable with sequence marker; token includes internal notation as given",
+     "morph": "m.acc.sg compound"
+    }
+   ],
+   "question": "Which mantra syllable should be placed in the left nostril in this step?",
+   "premises": [
+    "The locus specified is the left nostril.",
+    "The action prescribed is placement.",
+    "The syllable to be placed is oṃ ḷ/kāra."
+   ],
+   "inference": "The practitioner should place the oṃ ḷ/kāra syllable in the left nostril next.",
+   "uncertainties": [
+    "The exact phonetic value of 'ḷ/kāra' is preserved as given in the token."
+   ],
+   "plain_english": "One should place the oṃ ḷ/kāra syllable next in the left nostril."
+  },
+  {
+   "verse": 632,
+   "rows": [
+    {
+     "surface": "oṃ ḹṃkārapadaṃ",
+     "gloss": "oṃ-ḹṃ-syllable-word",
+     "grounds": "mantra syllable treated as a pada in the formula",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "adverb indicating sequence order",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "harāyeti",
+     "gloss": "to-hara-thus",
+     "grounds": "dative name with quotation marker",
+     "morph": "m.dat.sg + (indecl.)"
+    },
+    {
+     "surface": "padaṃ punaḥ",
+     "gloss": "word-again",
+     "grounds": "repeated pada element in formula",
+     "morph": "n.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "What formula structure combines the oṃ ḹṃ syllable with the name Hara?",
+   "premises": [
+    "The oṃ ḹṃ syllable-word comes first.",
+    "The name Hara is given in dative form.",
+    "The formula includes a pada again."
+   ],
+   "inference": "The formula is formed by placing the oṃ ḹṃ syllable first and then the pada 'to Hara'.",
+   "uncertainties": [],
+   "plain_english": "First comes the oṃ ḹṃ syllable, and then again the word 'to Hara'."
+  },
+  {
+   "verse": 633,
+   "rows": [
+    {
+     "surface": "omeṃkārapadaṃ",
+     "gloss": "omeṃ-syllable-word",
+     "grounds": "mantra syllable treated as a pada",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "adverb indicating sequence order",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍīśāya",
+     "gloss": "to-caṇḍīśa",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "padaṃ punaḥ",
+     "gloss": "word-again",
+     "grounds": "repeated pada element in formula",
+     "morph": "n.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "What formula structure combines the omeṃ syllable with the name Caṇḍīśa?",
+   "premises": [
+    "The omeṃ syllable-word comes first.",
+    "The name Caṇḍīśa is given in dative form.",
+    "The formula includes a pada again."
+   ],
+   "inference": "The formula is formed by placing the omeṃ syllable first and then the pada 'to Caṇḍīśa'.",
+   "uncertainties": [],
+   "plain_english": "First comes the omeṃ syllable, and then again the word 'to Caṇḍīśa'."
+  },
+  {
+   "verse": 634,
+   "rows": [
+    {
+     "surface": "omaiṃkāramathoddhṛtya",
+     "gloss": "having-extracted-omaiṃ-syllable-then",
+     "grounds": "gerund of extraction with mantra syllable and temporal particle",
+     "morph": "indecl.gerund + m.acc.sg compound"
+    },
+    {
+     "surface": "bhautikāya",
+     "gloss": "to-bhautika",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "padaṃ punaḥ",
+     "gloss": "word-again",
+     "grounds": "repeated pada element in formula",
+     "morph": "n.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "What formula follows after extracting the omaiṃ syllable in this instruction?",
+   "premises": [
+    "The omaiṃ syllable is extracted first.",
+    "The name Bhautika is given in dative form.",
+    "The formula includes a pada again."
+   ],
+   "inference": "After extracting the omaiṃ syllable, one should add the pada 'to Bhautika'.",
+   "uncertainties": [],
+   "plain_english": "Then, having extracted the omaiṃ syllable, one adds again the word 'to Bhautika'."
+  },
+  {
+   "verse": 635,
+   "rows": [
+    {
+     "surface": "omoṃkāramathoddhṛtya",
+     "gloss": "having-extracted-omoṃ-syllable-then",
+     "grounds": "gerund of extraction with mantra syllable and temporal particle",
+     "morph": "indecl.gerund + m.acc.sg compound"
+    },
+    {
+     "surface": "sadyojātāya",
+     "gloss": "to-sadyojāta",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "relative pronoun with pada indicating the formula element",
+     "morph": "n.nom.sg + n.nom.sg"
+    }
+   ],
+   "question": "Which word is to be used after extracting the omoṃ syllable in this formula?",
+   "premises": [
+    "The omoṃ syllable is extracted first.",
+    "The name Sadyojāta is given in dative form.",
+    "A pada is specified as the following element."
+   ],
+   "inference": "After extracting the omoṃ syllable, the pada 'to Sadyojāta' is to be used.",
+   "uncertainties": [],
+   "plain_english": "Then, having extracted the omoṃ syllable, the word 'to Sadyojāta' is used."
+  },
+  {
+   "verse": 636,
+   "rows": [
+    {
+     "surface": "omaumanugraheśāya",
+     "gloss": "omau-to-anugraheśa",
+     "grounds": "fused mantra syllable and dative divine name",
+     "morph": "m.dat.sg compound"
+    },
+    {
+     "surface": "ulkāmukhyai",
+     "gloss": "to-ulkāmukhī",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ puanaḥ",
+     "gloss": "obeisance-again",
+     "grounds": "salutation word with repetition marker; spelling preserved as given",
+     "morph": "(indecl.) + (indecl.)"
+    }
+   ],
+   "question": "What salutation formula combines omau, Anugraheśa, and Ulkāmukhī in this step?",
+   "premises": [
+    "The syllable omau is linked with Anugraheśa.",
+    "The name Ulkāmukhī appears in dative form.",
+    "The formula ends with obeisance again."
+   ],
+   "inference": "The formula is 'omau to Anugraheśa, obeisance again to Ulkāmukhī'.",
+   "uncertainties": [
+    "The token 'puanaḥ' is preserved as given and may reflect a variant spelling of 'punaḥ'."
+   ],
+   "plain_english": "The formula is: omau to Anugraheśa, and again obeisance to Ulkāmukhī."
+  },
+  {
+   "verse": 637,
+   "rows": [
+    {
+     "surface": "omaṃkāraṃ",
+     "gloss": "omaṃ-syllable",
+     "grounds": "mantra syllable object of extraction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "gerund indicating prior extraction",
+     "morph": "indecl.gerund √sam-ud-dhṛ"
+    },
+    {
+     "surface": "krūrāya",
+     "gloss": "to-krūra",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca padaṃ punaḥ",
+     "gloss": "and-word-again",
+     "grounds": "conjunction with repeated pada element",
+     "morph": "(indecl.) + n.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "What word is added after extracting the omaṃ syllable in this formula?",
+   "premises": [
+    "The omaṃ syllable is extracted.",
+    "The name Krūra is given in dative form.",
+    "A pada is added again."
+   ],
+   "inference": "After extracting the omaṃ syllable, one adds the pada 'to Krūra'.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the omaṃ syllable, one adds again the word 'to Krūra'."
+  },
+  {
+   "verse": 638,
+   "rows": [
+    {
+     "surface": "omaḥkāraṃ",
+     "gloss": "omaḥ-syllable",
+     "grounds": "mantra syllable object of extraction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "gerund indicating prior extraction",
+     "morph": "indecl.gerund √sam-ud-dhṛ"
+    },
+    {
+     "surface": "mahāsenāya",
+     "gloss": "to-mahāsena",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "relative pronoun with pada indicating the formula element",
+     "morph": "n.nom.sg + n.nom.sg"
+    }
+   ],
+   "question": "Which word is to be used after extracting the omaḥ syllable in this formula?",
+   "premises": [
+    "The omaḥ syllable is extracted.",
+    "The name Mahāsena is given in dative form.",
+    "A pada is specified as the following element."
+   ],
+   "inference": "After extracting the omaḥ syllable, the pada 'to Mahāsena' is to be used.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the omaḥ syllable, the word 'to Mahāsena' is used."
+  },
+  {
+   "verse": 639,
+   "rows": [
+    {
+     "surface": "oṃkaṃkāraṃ",
+     "gloss": "oṃkaṃ-syllable",
+     "grounds": "mantra syllable object of extraction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "gerund indicating prior extraction",
+     "morph": "indecl.gerund √sam-ud-dhṛ"
+    },
+    {
+     "surface": "krodhīśāya",
+     "gloss": "to-krodhīśa",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "padaṃ punaḥ",
+     "gloss": "word-again",
+     "grounds": "repeated pada element in formula",
+     "morph": "n.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "What word is added after extracting the oṃkaṃ syllable in this formula?",
+   "premises": [
+    "The oṃkaṃ syllable is extracted.",
+    "The name Krodhīśa is given in dative form.",
+    "A pada is added again."
+   ],
+   "inference": "After extracting the oṃkaṃ syllable, one adds the pada 'to Krodhīśa'.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the oṃkaṃ syllable, one adds again the word 'to Krodhīśa'."
+  },
+  {
+   "verse": 640,
+   "rows": [
+    {
+     "surface": "oṃ khaṃkāraṃ",
+     "gloss": "oṃ-khaṃ-syllable",
+     "grounds": "mantra syllable object of extraction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddhṛsya",
+     "gloss": "having-extracted",
+     "grounds": "gerund indicating prior extraction; spelling preserved as given",
+     "morph": "indecl.gerund √sam-ud-dhṛ"
+    },
+    {
+     "surface": "caṇḍeśāya",
+     "gloss": "to-caṇḍeśa",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "padaṃ punaḥ",
+     "gloss": "word-again",
+     "grounds": "repeated pada element in formula",
+     "morph": "n.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "What word is added after extracting the oṃ khaṃ syllable in this formula?",
+   "premises": [
+    "The oṃ khaṃ syllable is extracted.",
+    "The name Caṇḍeśa is given in dative form.",
+    "A pada is added again."
+   ],
+   "inference": "After extracting the oṃ khaṃ syllable, one adds the pada 'to Caṇḍeśa'.",
+   "uncertainties": [
+    "The form 'samuddhṛsya' is preserved as given and may be a variant of 'samuddhṛtya'."
+   ],
+   "plain_english": "Having extracted the oṃ khaṃ syllable, one adds again the word 'to Caṇḍeśa'."
+  },
+  {
+   "verse": 641,
+   "rows": [
+    {
+     "surface": "oṃ gaṃkāraṃ",
+     "gloss": "oṃ-gaṃ-syllable",
+     "grounds": "mantra syllable object of extraction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "gerund indicating prior extraction",
+     "morph": "indecl.gerund √sam-ud-dhṛ"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "pada element of the formula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcāntakāya",
+     "gloss": "to-pañcāntaka",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking formula elements",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What word is added after extracting the oṃ gaṃ syllable in this formula?",
+   "premises": [
+    "The oṃ gaṃ syllable is extracted.",
+    "The name Pañcāntaka is given in dative form.",
+    "A pada is added in the formula."
+   ],
+   "inference": "After extracting the oṃ gaṃ syllable, one adds the pada 'to Pañcāntaka'.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the oṃ gaṃ syllable, one adds the word 'to Pañcāntaka'."
+  },
+  {
+   "verse": 642,
+   "rows": [
+    {
+     "surface": "dakṣiṇe maṇibandhe",
+     "gloss": "on-right-wrist",
+     "grounds": "locative phrase specifying placement locus",
+     "morph": "m.loc.sg + m.loc.sg"
+    },
+    {
+     "surface": "syādoṃ",
+     "gloss": "should-be-oṃ",
+     "grounds": "fused optative and mantra syllable indicating placement",
+     "morph": "3.sg.opt.act √as + (indecl.)"
+    },
+    {
+     "surface": "ghaṃkāramanantaram",
+     "gloss": "ghaṃ-syllable-next",
+     "grounds": "mantra syllable with sequence marker",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "Which mantra syllable should be placed on the right wrist in this sequence?",
+   "premises": [
+    "The locus specified is the right wrist.",
+    "The syllable indicated is ghaṃ.",
+    "The placement is prescribed in sequence."
+   ],
+   "inference": "The ghaṃ syllable should be placed on the right wrist next.",
+   "uncertainties": [],
+   "plain_english": "On the right wrist there should be the ghaṃ syllable next."
+  },
+  {
+   "verse": 643,
+   "rows": [
+    {
+     "surface": "natistrailokyavandyāyai",
+     "gloss": "obeisance-to-her-venerated-by-three-worlds",
+     "grounds": "fused salutation and dative epithet compound",
+     "morph": "f.nom.sg + f.dat.sg compound"
+    },
+    {
+     "surface": "dakṣapāṇitale",
+     "gloss": "on-right-palm",
+     "grounds": "locative compound specifying placement locus",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "verb of placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "What salutation should be placed on the right palm in this instruction?",
+   "premises": [
+    "The salutation is addressed to her who is venerated by the three worlds.",
+    "The locus specified is the right palm.",
+    "The action prescribed is placement."
+   ],
+   "inference": "One should place the salutation to her venerated by the three worlds on the right palm.",
+   "uncertainties": [
+    "The specific goddess named by the epithet is not explicitly identified here."
+   ],
+   "plain_english": "One should place the obeisance to her who is venerated by the three worlds on the right palm."
+  },
+  {
+   "verse": 644,
+   "rows": [
+    {
+     "surface": "mantraśaktyai",
+     "gloss": "to-mantra-power",
+     "grounds": "dative recipient of obeisance",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaśceti",
+     "gloss": "obeisance-and-thus",
+     "grounds": "salutation word with quotation marker",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "nyaseddakṣakarāgrataḥ",
+     "gloss": "should-place-at-tip-of-right-hand",
+     "grounds": "fused verb and locative compound indicating placement locus",
+     "morph": "3.sg.opt.act + n.abl.sg compound"
+    }
+   ],
+   "question": "Where should the salutation to Mantraśakti be placed in this step?",
+   "premises": [
+    "The salutation is addressed to Mantraśakti.",
+    "The formula includes 'obeisance' and 'thus'.",
+    "The locus is the tip of the right hand."
+   ],
+   "inference": "One should place the salutation 'obeisance to Mantraśakti' at the tip of the right hand.",
+   "uncertainties": [],
+   "plain_english": "One should place the formula 'Obeisance to Mantraśakti' at the tip of the right hand."
+  },
+  {
+   "verse": 645,
+   "rows": [
+    {
+     "surface": "ātmaśaktyai",
+     "gloss": "to-self-power",
+     "grounds": "dative recipient of obeisance",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaśceti",
+     "gloss": "obeisance-and-thus",
+     "grounds": "salutation word with quotation marker",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "vāmabāhau",
+     "gloss": "on-left-arm",
+     "grounds": "locative compound specifying placement locus",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "tu vinyaset",
+     "gloss": "but-should-install",
+     "grounds": "particle with verb of installation",
+     "morph": "(indecl.) + 3.sg.opt.act √vi-nyas"
+    }
+   ],
+   "question": "Where should the salutation to Ātmaśakti be installed in this step?",
+   "premises": [
+    "The salutation is addressed to Ātmaśakti.",
+    "The formula includes 'obeisance' and 'thus'.",
+    "The locus is the left arm."
+   ],
+   "inference": "One should install the salutation 'obeisance to Ātmaśakti' on the left arm.",
+   "uncertainties": [],
+   "plain_english": "One should install the formula 'Obeisance to Ātmaśakti' on the left arm."
+  },
+  {
+   "verse": 646,
+   "rows": [
+    {
+     "surface": "bhūtamātre",
+     "gloss": "to-bhūta-mother",
+     "grounds": "dative recipient of obeisance",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaśceti",
+     "gloss": "obeisance-and-thus",
+     "grounds": "salutation word with quotation marker",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "vinyasedvāmakūrpare",
+     "gloss": "should-install-on-left-elbow",
+     "grounds": "fused verb and locative compound indicating placement locus",
+     "morph": "3.sg.opt.act + m.loc.sg compound"
+    }
+   ],
+   "question": "Where should the salutation to Bhūtamātṛ be installed in this step?",
+   "premises": [
+    "The salutation is addressed to Bhūtamātṛ.",
+    "The formula includes 'obeisance' and 'thus'.",
+    "The locus is the left elbow."
+   ],
+   "inference": "One should install the salutation 'obeisance to Bhūtamātṛ' on the left elbow.",
+   "uncertainties": [],
+   "plain_english": "One should install the formula 'Obeisance to Bhūtamātṛ' on the left elbow."
+  },
+  {
+   "verse": 647,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative adjective specifying side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu maṇibandhe",
+     "gloss": "but-on-wrist",
+     "grounds": "particle with locative locus",
+     "morph": "(indecl.) + m.loc.sg"
+    },
+    {
+     "surface": "syādoṃ",
+     "gloss": "should-be-oṃ",
+     "grounds": "fused optative and mantra syllable indicating placement",
+     "morph": "3.sg.opt.act √as + (indecl.)"
+    },
+    {
+     "surface": "jhaṃkāramanantaram",
+     "gloss": "jhaṃ-syllable-next",
+     "grounds": "mantra syllable with sequence marker",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "Which mantra syllable should be placed on the left wrist in this sequence?",
+   "premises": [
+    "The locus specified is the left wrist.",
+    "The syllable indicated is jhaṃ.",
+    "The placement is prescribed in sequence."
+   ],
+   "inference": "The jhaṃ syllable should be placed on the left wrist next.",
+   "uncertainties": [],
+   "plain_english": "On the left wrist there should be the jhaṃ syllable next."
+  },
+  {
+   "verse": 648,
+   "rows": [
+    {
+     "surface": "vāmapāṇitale",
+     "gloss": "on-left-palm",
+     "grounds": "locative compound specifying placement locus",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "nyasyedoṃ",
+     "gloss": "should-place-oṃ",
+     "grounds": "fused verb and mantra syllable indicating placement",
+     "morph": "3.sg.opt.act √nyas + (indecl.)"
+    },
+    {
+     "surface": "ñaṃkāramanantaram",
+     "gloss": "ñaṃ-syllable-next",
+     "grounds": "mantra syllable with sequence marker",
+     "morph": "m.acc.sg compound"
+    }
+   ],
+   "question": "Which mantra syllable should be placed on the left palm in this sequence?",
+   "premises": [
+    "The locus specified is the left palm.",
+    "The syllable indicated is ñaṃ.",
+    "The placement is prescribed in sequence."
+   ],
+   "inference": "The ñaṃ syllable should be placed on the left palm next.",
+   "uncertainties": [],
+   "plain_english": "One should place the ñaṃ syllable next on the left palm."
+  },
+  {
+   "verse": 649,
+   "rows": [
+    {
+     "surface": "oṃ ṭaṃkāraṃ",
+     "gloss": "oṃ-ṭaṃ-syllable",
+     "grounds": "mantra syllable object of extraction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "gerund indicating prior extraction",
+     "morph": "indecl.gerund √sam-ud-dhṛ"
+    },
+    {
+     "surface": "someśāya",
+     "gloss": "to-someśa",
+     "grounds": "dative divine name in salutation formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "padaṃ punaḥ",
+     "gloss": "word-again",
+     "grounds": "repeated pada element in formula",
+     "morph": "n.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "What word is added after extracting the oṃ ṭaṃ syllable in this formula?",
+   "premises": [
+    "The oṃ ṭaṃ syllable is extracted.",
+    "The name Someśa is given in dative form.",
+    "A pada is added again."
+   ],
+   "inference": "After extracting the oṃ ṭaṃ syllable, one adds the pada 'to Someśa'.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the oṃ ṭaṃ syllable, one adds again the word 'to Someśa'."
+  }
+ ]
+}

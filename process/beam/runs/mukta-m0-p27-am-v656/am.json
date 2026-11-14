@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p27",
  "verse": 656,
- "question": "What qualities dwell always in that hand?",
+ "question": "Which extracted syllable-word is assigned to Atri in this step?",
  "premises": [
-  "Eloquence is named.",
-  "Poetry is named.",
-  "They dwell in that hand always."
+  "The syllable daṃ is extracted.",
+  "A word is specified as the object.",
+  "Atri is the recipient."
  ],
- "inference": "The verse says eloquence and poetry always dwell in that hand.",
- "uncertainties": [
-  "Identity of hand."
- ],
- "plain_english": "Eloquence and poetry indeed always dwell in that hand."
+ "inference": "After extracting the syllable daṃ, one again assigns its word to Atri.",
+ "uncertainties": [],
+ "plain_english": "Having extracted the syllable daṃ, one again assigns that word to Atri."
 }

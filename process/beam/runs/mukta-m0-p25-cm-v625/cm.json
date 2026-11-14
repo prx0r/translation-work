@@ -3,29 +3,39 @@
  "verse": 625,
  "rows": [
   {
-   "lemma": "varjyāni",
-   "morph": "n.acc.pl.n",
-   "grounds": "varjya plus āni; accusative plural neuter form used as noun"
+   "lemma": "nyaset",
+   "morph": "3.sg.opt.act √nyas",
+   "grounds": "ritual verb directing placement of the mantra formula"
   },
   {
-   "lemma": "śṛṇu",
-   "morph": "2.sg.act.impv+śru",
-   "grounds": "imperative second person singular active of root śru"
-  },
-  {
-   "lemma": "deveśi",
-   "morph": "voc.sg.f",
-   "grounds": "vocative singular feminine of deveśī"
-  },
-  {
-   "lemma": "taddineṣu",
-   "morph": "loc.pl.m",
-   "grounds": "locative plural masculine of tat-dina"
-  },
-  {
-   "lemma": "sadāpi ca",
+   "lemma": "oṃ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle ca joined to sadāpi"
+   "grounds": "praṇava bīja syllable, transliterated as mantra element"
+  },
+  {
+   "lemma": "āṃ",
+   "morph": "(indecl.)",
+   "grounds": "bīja syllable, transliterated as mantra element"
+  },
+  {
+   "lemma": "anantāya",
+   "morph": "m.dat.sg",
+   "grounds": "recipient of obeisance named in the mantra"
+  },
+  {
+   "lemma": "virajāyai",
+   "morph": "f.dat.sg",
+   "grounds": "recipient of obeisance named in the mantra"
+  },
+  {
+   "lemma": "natiḥ",
+   "morph": "f.nom.sg",
+   "grounds": "salutation term completing the mantra formula"
+  },
+  {
+   "lemma": "punaḥ",
+   "morph": "(indecl.)",
+   "grounds": "indicates repetition of the placement act"
   }
  ]
 }

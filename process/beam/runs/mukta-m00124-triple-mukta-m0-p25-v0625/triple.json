@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual verb directing placement of the mantra formula",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "praṇava bīja syllable, transliterated as mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āṃ",
+     "gloss": "āṃ",
+     "grounds": "bīja syllable, transliterated as mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantāya",
+     "gloss": "to-ananta",
+     "grounds": "recipient of obeisance named in the mantra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "virajāyai",
+     "gloss": "to-virajā",
+     "grounds": "recipient of obeisance named in the mantra",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "natiḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation term completing the mantra formula",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition of the placement act",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which obeisance mantra addressed to Ananta and Virajā must be placed again?",
+   "premises": [
+    "The instruction prescribes placing a mantra formula.",
+    "The formula contains the bīja syllables oṃ and āṃ.",
+    "The obeisance is directed to Ananta and to Virajā."
+   ],
+   "inference": "Therefore one should again place the mantra 'oṃ āṃ anantāya virajāyai natiḥ'.",
+   "uncertainties": [],
+   "plain_english": "One should again place: 'oṃ āṃ, obeisance to Ananta and to Virajā.'"
+  }
+ ]
+}

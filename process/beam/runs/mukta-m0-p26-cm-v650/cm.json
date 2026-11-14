@@ -3,34 +3,29 @@
  "verse": 650,
  "rows": [
   {
-   "lemma": "pucche",
-   "morph": "n.loc.sg",
-   "grounds": "locative of puccha; tail position"
+   "lemma": "oṃ ṭhaṃkāraṃ",
+   "morph": "mantra+acc.sg.masc",
+   "grounds": "mantra syllables kept byte-exact; ṭhaṃkāra denotes the syllable ṭhaṃ"
   },
   {
-   "lemma": "mṛtyuḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative singular of mṛtyu"
+   "lemma": "samuddhṛtya",
+   "morph": "gerund (sam-ud-√hṛ)",
+   "grounds": "gerund indicating prior extraction or utterance of the mantra element"
   },
   {
-   "lemma": "tu",
+   "lemma": "padaṃ",
+   "morph": "acc.sg.neut",
+   "grounds": "refers to the formulaic word or pada to be uttered"
+  },
+  {
+   "lemma": "lāṅgaline",
+   "morph": "dat.sg.masc",
+   "grounds": "dative recipient of obeisance, epithet Lāṅgalin"
+  },
+  {
+   "lemma": "namaḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle"
-  },
-  {
-   "lemma": "niyatam",
-   "morph": "(indecl.)",
-   "grounds": "adverbial use of niyata"
-  },
-  {
-   "lemma": "pṛṣṭhe",
-   "morph": "n.loc.sg",
-   "grounds": "locative of pṛṣṭha; back position"
-  },
-  {
-   "lemma": "sarvārthadāyakam",
-   "morph": "adj.nom.sg.n",
-   "grounds": "compound sarva+artha+dāyaka; neuter nominative singular"
+   "grounds": "formula of salutation addressed to the named recipient"
   }
  ]
 }
