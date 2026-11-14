@@ -3,34 +3,39 @@
  "verse": 457,
  "rows": [
   {
-   "lemma": "mātā",
-   "morph": "f.nom.sg",
-   "grounds": "predicate identifying the mātṛkā"
-  },
-  {
-   "lemma": "sā",
-   "morph": "f.nom.sg pronoun",
-   "grounds": "subject referring to mātṛkā"
-  },
-  {
-   "lemma": "sarvavidyānāṃ",
-   "morph": "f.gen.pl compound=sarva+vidyā",
-   "grounds": "genitive plural scope"
-  },
-  {
-   "lemma": "mantrāṇāñca",
-   "morph": "m.gen.pl + (indecl.)",
-   "grounds": "extends scope to mantras"
-  },
-  {
-   "lemma": "pṛthak",
+   "lemma": "stataḥ",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating each individually"
+   "grounds": "connective indicating sequence"
   },
   {
-   "lemma": "pṛthak",
+   "lemma": "parva",
+   "morph": "compound:joint+first",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "sthānaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "location or node"
+  },
+  {
+   "lemma": "prakaṭam",
+   "morph": "n.nom.sg",
+   "grounds": "clearly visible"
+  },
+  {
+   "lemma": "iha",
    "morph": "(indecl.)",
-   "grounds": "repeated for emphasis"
+   "grounds": "deictic locus"
+  },
+  {
+   "lemma": "vicchitti",
+   "morph": "compound:artistry+first",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "viśadam",
+   "morph": "n.nom.sg",
+   "grounds": "distinct and lucid quality"
   }
  ]
 }
