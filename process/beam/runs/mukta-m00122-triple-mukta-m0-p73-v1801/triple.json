@@ -1,0 +1,1043 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1801,
+   "rows": [
+    {
+     "surface": "śmaśāna",
+     "gloss": "cremation-ground",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "aṅgāra",
+     "gloss": "charcoal",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nimba",
+     "gloss": "neem",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "uttha",
+     "gloss": "risen",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "niryāsaḥ",
+     "gloss": "resin",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "token as given",
+     "morph": "ppp.acc.sg.n"
+    }
+   ],
+   "question": "Which substances are declared as poison in this yantra context?",
+   "premises": [
+    "cremation-ground charcoal neem resin poison declared"
+   ],
+   "inference": "The verse lists substances declared as poison.",
+   "uncertainties": [
+    "exact syntactic relation not fully resolved"
+   ],
+   "plain_english": "Cremation-ground charcoal, neem resin, and poison are declared."
+  },
+  {
+   "verse": 1802,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālyādyāyatanāgra",
+     "gloss": "kālī-shrine-front",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaned",
+     "gloss": "dig",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+khan"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should a man dig if performing this rite?",
+   "premises": [
+    "man if kālī-shrine-front indeed below and dig thus"
+   ],
+   "inference": "The verse instructs digging below the Kālī shrine front.",
+   "uncertainties": [
+    "exact ritual purpose not specified"
+   ],
+   "plain_english": "If a man, he should dig below the front of the Kālī shrine."
+  },
+  {
+   "verse": 1803,
+   "rows": [
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālīmantraveṣṭanam",
+     "gloss": "kālī-mantra-wrapping",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "boddhavyam",
+     "gloss": "to-be-understood",
+     "grounds": "token as given",
+     "morph": "gerundive.acc.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampradāyārthaḥ",
+     "gloss": "traditional-meaning",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What traditional meaning must be understood about the Kālī mantra wrapping?",
+   "premises": [
+    "outside kālī-mantra-wrapping and to-be-understood thus traditional-meaning"
+   ],
+   "inference": "The verse says the traditional meaning is to be understood.",
+   "uncertainties": [
+    "specific wrapping details omitted"
+   ],
+   "plain_english": "The Kālī mantra wrapping outside is to be understood as traditional meaning."
+  },
+  {
+   "verse": 1804,
+   "rows": [
+    {
+     "surface": "bījadvayena",
+     "gloss": "two-seeds",
+     "grounds": "token as given",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "bindusahitarephayakārābhyām",
+     "gloss": "with-bindu-repha-ya",
+     "grounds": "token as given",
+     "morph": "n.inst.du.m"
+    },
+    {
+     "surface": "pūrvavadveṣṭayet",
+     "gloss": "as-before-wrap",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+veṣṭ"
+    }
+   ],
+   "question": "How should one wrap using two seeds with bindu, repha, and ya?",
+   "premises": [
+    "two-seeds with-bindu-repha-ya as-before-wrap"
+   ],
+   "inference": "The verse prescribes wrapping as before with those elements.",
+   "uncertainties": [
+    "exact seed identities not given"
+   ],
+   "plain_english": "Wrap as before with two seeds, bindu, repha, and ya."
+  },
+  {
+   "verse": 1805,
+   "rows": [
+    {
+     "surface": "aṣṭacchedeṣu",
+     "gloss": "eight-sections",
+     "grounds": "token as given",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "phaṭvarṇam",
+     "gloss": "phaṭ-letter",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "write",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+likh"
+    },
+    {
+     "surface": "aṣṭavarṇakam",
+     "gloss": "eight-letters",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What should be written in the eight sections?",
+   "premises": [
+    "eight-sections phaṭ-letter write eight-letters"
+   ],
+   "inference": "The verse instructs writing phaṭ letters in eight sections.",
+   "uncertainties": [
+    "exact arrangement not specified"
+   ],
+   "plain_english": "Write the phaṭ letter in eight sections, eight letters."
+  },
+  {
+   "verse": 1806,
+   "rows": [
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbham",
+     "gloss": "pot",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vidadhyāt",
+     "gloss": "place",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktākṣaravidhānataḥ",
+     "gloss": "prescribed-letter-method",
+     "grounds": "token as given",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "How should the pot be placed outside?",
+   "premises": [
+    "outside pot place and prescribed-letter-method"
+   ],
+   "inference": "The verse says place the pot outside by prescribed letter method.",
+   "uncertainties": [
+    "method details not included"
+   ],
+   "plain_english": "Place the pot outside according to the prescribed letter method."
+  },
+  {
+   "verse": 1807,
+   "rows": [
+    {
+     "surface": "vidadhyāt",
+     "gloss": "place",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+dhā"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "token as given",
+     "morph": "num.acc.pl.m"
+    },
+    {
+     "surface": "yantrāṇi",
+     "gloss": "yantras",
+     "grounds": "token as given",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "daśānām",
+     "gloss": "of-ten",
+     "grounds": "token as given",
+     "morph": "num.gen.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "token as given",
+     "morph": "2.sg.act.imp.+śru"
+    }
+   ],
+   "question": "What fruits of ten yantras should be heard?",
+   "premises": [
+    "place nine yantras of-ten and fruit hear"
+   ],
+   "inference": "The verse asks to hear fruits of ten yantras.",
+   "uncertainties": [
+    "enumeration incomplete in this verse"
+   ],
+   "plain_english": "Place nine yantras; hear the fruit of ten."
+  },
+  {
+   "verse": 1808,
+   "rows": [
+    {
+     "surface": "stambham",
+     "gloss": "stopping",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "lakṣmīyaśohemavāsāṃsi",
+     "gloss": "wealth-fame-gold-garments",
+     "grounds": "token as given",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samavāpnuyāt",
+     "gloss": "obtain",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+samavāp"
+    }
+   ],
+   "question": "What results are obtained from this yantra?",
+   "premises": [
+    "stopping wealth-fame-gold-garments and obtain"
+   ],
+   "inference": "The verse lists stopping and obtaining wealth, fame, gold, garments.",
+   "uncertainties": [
+    "exact yantra not named"
+   ],
+   "plain_english": "One obtains stopping, wealth, fame, gold, and garments."
+  },
+  {
+   "verse": 1809,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "establish",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+sthā"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "token as given",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "pūrvoktāni",
+     "gloss": "aforementioned",
+     "grounds": "token as given",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "token as given",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "token as given",
+     "morph": "3.pl.act.opt.+as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruits result from establishing the aforementioned yantras?",
+   "premises": [
+    "establish by-that aforementioned indeed fruits would-be thus"
+   ],
+   "inference": "The verse says aforementioned fruits would result.",
+   "uncertainties": [
+    "scope of aforementioned unclear"
+   ],
+   "plain_english": "By that, the aforementioned fruits would indeed result."
+  },
+  {
+   "verse": 1810,
+   "rows": [
+    {
+     "surface": "citrakam",
+     "gloss": "picture",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "token as given",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ārādhyamukhāt",
+     "gloss": "from-ārādhya-face",
+     "grounds": "token as given",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "avagantavyam",
+     "gloss": "to-be-known",
+     "grounds": "token as given",
+     "morph": "gerundive.acc.sg.n"
+    }
+   ],
+   "question": "What other picture is to be known from the ārādhya face?",
+   "premises": [
+    "picture other from-ārādhya-face to-be-known"
+   ],
+   "inference": "The verse says another picture is to be known from that face.",
+   "uncertainties": [
+    "picture content not described"
+   ],
+   "plain_english": "Another picture is to be known from the ārādhya face."
+  },
+  {
+   "verse": 1811,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśayantrāṇi",
+     "gloss": "ten-yantras",
+     "grounds": "token as given",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many yantras are to be made in this manner?",
+   "premises": [
+    "thus ten-yantras do thus"
+   ],
+   "inference": "The verse says ten yantras are to be made thus.",
+   "uncertainties": [
+    "none significant"
+   ],
+   "plain_english": "Thus one should make ten yantras."
+  },
+  {
+   "verse": 1812,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sugamaḥ",
+     "gloss": "easy",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How is the meaning there described?",
+   "premises": [
+    "there meaning easy"
+   ],
+   "inference": "The verse says the meaning there is easy.",
+   "uncertainties": [
+    "referent of there implicit"
+   ],
+   "plain_english": "There the meaning is easy."
+  },
+  {
+   "verse": 1813,
+   "rows": [
+    {
+     "surface": "svarabinnaiḥ",
+     "gloss": "by-vowels-separated",
+     "grounds": "token as given",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+bhū"
+    },
+    {
+     "surface": "saṅkhyā",
+     "gloss": "number",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ṣaṭsaptatyā",
+     "gloss": "seventy-six",
+     "grounds": "token as given",
+     "morph": "num.inst.sg.f"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "token as given",
+     "morph": "num.nom.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "token as given",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "What number is remembered when vowels are separated?",
+   "premises": [
+    "by-vowels-separated becomes number seventy-six hundred remembered"
+   ],
+   "inference": "The verse gives a remembered number involving seventy-six and hundred.",
+   "uncertainties": [
+    "exact arithmetic phrasing ambiguous"
+   ],
+   "plain_english": "When vowels are separated, the number becomes seventy-six hundred, as remembered."
+  },
+  {
+   "verse": 1814,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "token as given",
+     "morph": "2.sg.act.imp.+śru"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-will-speak",
+     "grounds": "token as given",
+     "morph": "1.sg.act.fut.+vac"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "token as given",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "sādhakābhīṣṭasiddhaye",
+     "gloss": "for-sādhaka-desired-accomplishment",
+     "grounds": "token as given",
+     "morph": "n.dat.sg.f"
+    }
+   ],
+   "question": "Why will the speaker declare this to the goddess?",
+   "premises": [
+    "hear I-will-speak goddess for-sādhaka-desired-accomplishment"
+   ],
+   "inference": "The verse says it is for the sādhaka's desired accomplishment.",
+   "uncertainties": [
+    "none significant"
+   ],
+   "plain_english": "Hear, I will speak, O goddess, for the sādhaka's desired accomplishment."
+  },
+  {
+   "verse": 1815,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "its-middle",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "karṇikāmadhye",
+     "gloss": "pericarp-middle",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "śaktim",
+     "gloss": "śakti",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "sādhyasamanvitām",
+     "gloss": "with-sādhya",
+     "grounds": "token as given",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Where is śakti with sādhya to be placed?",
+   "premises": [
+    "its-middle pericarp-middle śakti with-sādhya"
+   ],
+   "inference": "The verse places śakti with sādhya in the pericarp middle.",
+   "uncertainties": [
+    "exact yantra context implicit"
+   ],
+   "plain_english": "In its middle, in the pericarp middle, place śakti with sādhya."
+  },
+  {
+   "verse": 1816,
+   "rows": [
+    {
+     "surface": "vṛttayorantarā",
+     "gloss": "between-circles",
+     "grounds": "token as given",
+     "morph": "n.loc.du.n"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "token as given",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "kumbham",
+     "gloss": "pot",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "prescribed",
+     "grounds": "token as given",
+     "morph": "ppp.acc.sg.m"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "draw",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+samālikh"
+    }
+   ],
+   "question": "Where should the prescribed pot be drawn?",
+   "premises": [
+    "between-circles outside pot prescribed draw"
+   ],
+   "inference": "The verse says draw the prescribed pot outside between circles.",
+   "uncertainties": [
+    "exact circle count not stated"
+   ],
+   "plain_english": "Draw the prescribed pot outside between the circles."
+  },
+  {
+   "verse": 1817,
+   "rows": [
+    {
+     "surface": "viniyogān",
+     "gloss": "uses",
+     "grounds": "token as given",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eteṣām",
+     "gloss": "of-these",
+     "grounds": "token as given",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "token as given",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "token as given",
+     "morph": "2.sg.act.imp.+śru"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "pārvatī",
+     "grounds": "token as given",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What should Pārvatī hear about these uses?",
+   "premises": [
+    "uses then of-these in-order hear pārvatī"
+   ],
+   "inference": "The verse asks Pārvatī to hear the uses in order.",
+   "uncertainties": [
+    "uses not enumerated here"
+   ],
+   "plain_english": "Then hear the uses of these in order, O Pārvatī."
+  },
+  {
+   "verse": 1818,
+   "rows": [
+    {
+     "surface": "tṛtīyam",
+     "gloss": "third",
+     "grounds": "token as given",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "nṛparakṣāyām",
+     "gloss": "for-king-protection",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "caturtham",
+     "gloss": "fourth",
+     "grounds": "token as given",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "daṇḍarakṣakam",
+     "gloss": "staff-protector",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What are the third and fourth yantras used for?",
+   "premises": [
+    "third for-king-protection fourth staff-protector"
+   ],
+   "inference": "The verse assigns third to king protection and fourth to staff protection.",
+   "uncertainties": [
+    "exact yantra names omitted"
+   ],
+   "plain_english": "The third is for king protection; the fourth is a staff protector."
+  },
+  {
+   "verse": 1819,
+   "rows": [
+    {
+     "surface": "sārddhamekādaśayantrāṇi",
+     "gloss": "with-half-eleven-yantras",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are",
+     "grounds": "token as given",
+     "morph": "3.pl.act.ind.+bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many yantras are said to be there?",
+   "premises": [
+    "with-half-eleven-yantras are thus"
+   ],
+   "inference": "The verse states there are eleven and a half yantras.",
+   "uncertainties": [
+    "fractional yantra phrasing unusual"
+   ],
+   "plain_english": "There are eleven and a half yantras, thus."
+  },
+  {
+   "verse": 1820,
+   "rows": [
+    {
+     "surface": "ṣaṣṭham",
+     "gloss": "sixth",
+     "grounds": "token as given",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "sacivarakṣākṛt",
+     "gloss": "minister-protection-maker",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "saptamam",
+     "gloss": "seventh",
+     "grounds": "token as given",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "purarakṣakam",
+     "gloss": "city-protector",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What are the sixth and seventh yantras for?",
+   "premises": [
+    "sixth minister-protection-maker seventh city-protector"
+   ],
+   "inference": "The verse assigns sixth to minister protection and seventh to city protection.",
+   "uncertainties": [
+    "exact yantra names omitted"
+   ],
+   "plain_english": "The sixth makes minister protection; the seventh protects the city."
+  },
+  {
+   "verse": 1821,
+   "rows": [
+    {
+     "surface": "phaṇicoragrahādibhyaḥ",
+     "gloss": "from-snake-thief-planet-etc",
+     "grounds": "token as given",
+     "morph": "n.abl.pl.m"
+    },
+    {
+     "surface": "bhayebhyaḥ",
+     "gloss": "from-fears",
+     "grounds": "token as given",
+     "morph": "n.abl.pl.n"
+    },
+    {
+     "surface": "śatrutaḥ",
+     "gloss": "from-enemies",
+     "grounds": "token as given",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what dangers does this yantra protect?",
+   "premises": [
+    "from-snake-thief-planet-etc from-fears from-enemies and"
+   ],
+   "inference": "The verse lists snakes, thieves, planets, fears, and enemies.",
+   "uncertainties": [
+    "exact yantra not named"
+   ],
+   "plain_english": "From snakes, thieves, planets, fears, and enemies."
+  },
+  {
+   "verse": 1822,
+   "rows": [
+    {
+     "surface": "uttārakam",
+     "gloss": "deliverer",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+as"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "token as given",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "prākproktavidhinā",
+     "gloss": "with-previously-prescribed-method",
+     "grounds": "token as given",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "yutam",
+     "gloss": "joined",
+     "grounds": "token as given",
+     "morph": "ppp.acc.sg.m"
+    }
+   ],
+   "question": "What would this yantra be when joined with the prescribed method?",
+   "premises": [
+    "deliverer would-be goddess with-previously-prescribed-method joined"
+   ],
+   "inference": "The verse says it would be a deliverer joined with the prescribed method.",
+   "uncertainties": [
+    "exact deliverance scope not stated"
+   ],
+   "plain_english": "It would be a deliverer, O goddess, joined with the previously prescribed method."
+  },
+  {
+   "verse": 1823,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "establish",
+     "grounds": "token as given",
+     "morph": "3.sg.act.opt.+sthā"
+    },
+    {
+     "surface": "śītale",
+     "gloss": "cool",
+     "grounds": "token as given",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "toye",
+     "gloss": "water",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "ghaṭādau",
+     "gloss": "pot-etc",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "savidhe",
+     "gloss": "near",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "that",
+     "grounds": "token as given",
+     "morph": "pron.acc.sg.m"
+    }
+   ],
+   "question": "Where should that yantra be established?",
+   "premises": [
+    "establish cool water pot-etc near then that"
+   ],
+   "inference": "The verse says establish that near cool water, pot, etc.",
+   "uncertainties": [
+    "exact placement details omitted"
+   ],
+   "plain_english": "Establish that near cool water, pot, and so on."
+  },
+  {
+   "verse": 1824,
+   "rows": [
+    {
+     "surface": "ghorābhicārakṛtyādijātaḥ",
+     "gloss": "terrible-black-magic-act-etc-born",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "dāhajvaraḥ",
+     "gloss": "burning-fever",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What burning fever arises instantly from terrible black magic acts?",
+   "premises": [
+    "terrible-black-magic-act-etc-born burning-fever instantly"
+   ],
+   "inference": "The verse says burning fever arises instantly from such acts.",
+   "uncertainties": [
+    "remedy not stated"
+   ],
+   "plain_english": "Burning fever arises instantly from terrible black-magic acts and the like."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "pañcadaśapaṭalaṃ",
+     "gloss": "fifteen-chapter",
+     "grounds": "compound naming the fifteenth chapter",
+     "morph": "compound (pañcadaśa+paṭala)"
+    },
+    {
+     "surface": "paripūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "adjective describing the chapter",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "parāmṛṣṭam",
+     "gloss": "supremely-touched",
+     "grounds": "past participle describing the chapter",
+     "morph": "pp.acc.sg.n"
+    }
+   ],
+   "question": "Is the fifteenth chapter complete and supremely touched?",
+   "premises": [
+    "fifteenth chapter is complete",
+    "fifteenth chapter is supremely touched"
+   ],
+   "inference": "the fifteenth chapter stands complete and supremely touched",
+   "uncertainties": [
+    "parāmṛṣṭam exact doctrinal sense is not specified"
+   ],
+   "plain_english": "The fifteenth chapter is complete and supremely touched."
+  }
+ ]
+}
