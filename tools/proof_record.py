@@ -286,6 +286,12 @@ def main() -> int:
         out = []
         for t in toks:
             s = t.replace("|", "").replace("‖", "")
+            # Editorial uncertainty is apparatus, but when glued to a real word
+            # (`sutkaṇṭhito(?)`) is_paratext drops the WHOLE token — deleting
+            # text T1 legitimately carries (T1 stripped only the marker, giving
+            # classic 0.994 vs shastra 0.838 on the same verse). Strip the
+            # marker first; then decide whether the remainder is apparatus.
+            s = re.sub(r"\([^)]*\?\)", "", s).strip()
             if not s.strip():
                 continue
             if _para is not None and _para(s):
@@ -375,6 +381,10 @@ def main() -> int:
             toks = []
             for w in str(c).replace("|", " ").split():
                 w2 = w.replace("‖", "")
+                # Mirror _clean_span: strip an editorial `(?)` marker instead
+                # of dropping the whole token, so cite-side and source-side
+                # normalization stay symmetric.
+                w2 = re.sub(r"\([^)]*\?\)", "", w2).strip()
                 if not w2.strip():
                     continue
                 if _para is not None and _para(w2):

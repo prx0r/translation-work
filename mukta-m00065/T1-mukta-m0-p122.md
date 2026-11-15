@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[rudra+arka](rudrārka) [of-śaṅkaras](śaṅkarāṇāṃ) [and](ca) [of-caṇḍī+yama+viḍaujas](caṇḍīyamaviḍaujasāma)
+[for-rudra-sun](rudrārka) [for-rudras](rudrāṇāṃ) [of-śaṅkara](śaṅkarāṇāṃ) [and](ca) [for-caṇḍī](caṇḍīyam) [of-avid-ojas](aviḍaujasāma)
 
 ## mukta-m0-p122-v3027
-[of-all-lords](sarveśvara) [of-pitṛs](pitṛṇāṃ) [and](ca) [sacred-thread-investiture](pavitrārohaṇaṃ) [is-prescribed](matam)
+[all-lord](sarveśvara) [for-fathers](pitṛṇāṃ) [and](ca) [purification-ascending](pavitrārohaṇaṃ) [considered](matam)
 
 ## mukta-m0-p122-v3028
-[clay+ash+cloth+leaf+etc.](mṛdbhasmavastrapatrādi) [likewise](tathā) [thread](sūtraṃ) [and](ca) [sevenfold](saptadhā)
+[clay](mṛd) [ash](bhasma) [cloth](vastra) [leaf-etc](patrādi) [thus](tathā) [thread](sūtraṃ) [and](ca) [sevenfold](saptadhā)
 
 ## mukta-m0-p122-v3029
-[of-pādma](pādma) [cotton-born](kārpāsajaṃ) [thread](sūtraṃ) [by-twice-born-maiden+etc.-made](dvijakanyādinirmitam)
+[pādma](pādma) [made-of-cotton](kārpāsajaṃ) [thread](sūtraṃ) [twice-born-daughter-etc](dvijakanyādinirmitam)
 
 ## mukta-m0-p122-v3030
-[ten-finger-interval-knots](daśāṅgulāntarāgranthiś) [and](ca) [by-one-finger-each-diminished](ekaikāṅgulihānitaḥ)
+[ten-finger](daśāṅgula) [interval-knot](antarāgranthiś) [one-by-one-finger](caikaikāṅguli) [decrease](hānitaḥ)
 
 ## mukta-m0-p122-v3031
-[by-six+eight-diminished](ṣṭāṣṭahānitaḥ)
+[six-eight](ṣṭāṣṭa) [decrease](hānitaḥ)
 
 ## mukta-m0-p122-v3032
-[with-rocanā+kuṅkuma-smeared](rocanākuṅkumāktaiś) [and](ca) [with-mada+candras](madacandraistu) [according-to-ability](śaktitaḥ)
+[with-gorocanā](rocanā) [with-saffron-anointed](kuṅkumāktaiś) [with-madacandra](ca) [madacandrais](madacandrais) [by-power](tu) [śaktitaḥ](śaktitaḥ)
 
 ## mukta-m0-p122-v3033
-[in-three-tattvas](tritattve) [three](trīṇi) [to-be-made](kāryāṇi) [fourth](caturthaṃ) [and](ca) [hanging-born](āvalaṃbajam)
+[in-three-tattva](tritattve) [three](trīṇi) [should-be-done](kāryāṇi) [fourth](caturthaṃ) [and](ca) [supporting](āvalaṃbajam)
 
 ## mukta-m0-p122-v3034
-[all-purpose-fulfilling](sarvārthapūraṇaṃ) [one-should-give](dadyāt) [on-back-pedestal](pṛṣṭhapīṭhe) [fourth](caturthakam)
+[all-purpose-fulfillment](sarvārthapūraṇaṃ) [should-give](dadyāt) [on-back-seat](pṛṣṭhapīṭhe) [fourth](caturthakam)
 
 ## mukta-m0-p122-v3035
-[on-altar](sthaṇḍile) [of-hari+śambhu](hariśambhostu) [on-petal](dale) [in-filament-corner](kesarakoṇake)
+[on-sand-altar](sthaṇḍile) [of-hari-śambhu](hariśambhos) [on-petal](tu) [dale](dale) [on-filament-corner](kesarakoṇake)
 
 ## mukta-m0-p122-v3036
-[with-threads](sūtraiś) [and](ca) [knots-of-others](granthayo'nyeṣāṃ) [likewise](tathā) [by-ten+one-diminished](daśaika) [diminished](hānitaḥ)
+[with-threads](sūtraiś) [and](ca) [knots](granthayo) [of-others]('nyeṣāṃ) [thus](tathā) [ten-one](daśaika) [decrease](hānitaḥ)
 
 ## mukta-m0-p122-v3037
-[of-bull](vṛṣasya) [horn-to-foot-end](śṛṅgapādāntaṃ) [sacred-thread](pavitraṃ) [like-liṅga](liṅgavanmatam)
+[of-bull](vṛṣasya) [horn-foot-end](śṛṅgapādāntaṃ) [purification-thread](pavitraṃ) [like-liṅga](liṅgavan) [considered](matam)
 
 ## mukta-m0-p122-v3038
-[of-others](itareṣāṃ) [but](tu) [of-gods](devānāṃ) [sacred-thread](pavitraṃ) [should-be](syāt) [three-threaded](trisūtrakam)
+[of-other](itareṣāṃ) [and](tu) [of-gods](devānāṃ) [purification-thread](pavitraṃ) [should-be](syāt) [three-threaded](trisūtrakam)
 
 ## mukta-m0-p122-v3039
-[sometimes](kvacid) [vitasti-measure](vitastimātraṃ) [and](ca) [hundred-half-half-half-threaded](śatārdhārdhārdhasūtrakam)
+[sometimes](kvacid) [two-vitasti-measure](vitastimātraṃ) [and](ca) [hundred-half-half-half-threaded](śatārdhārdhārdhasūtrakam)
 
 ## mukta-m0-p122-v3040
-[by-twice-born+arka+jina-numbers](dvijārkajinasaṃkhyābhiḥ) [of-immovable+altar+liṅga-dwellers](sthirasthaṇḍilagehinām)
+[twice-born-sun-jina-number](dvijārkajinasaṃkhyābhiḥ) [firm-sand-altar-householder](sthirasthaṇḍilagehinām)
 
 ## mukta-m0-p122-v3041
-[from-little-finger-base-to-armpit](kaniṣṭhāmūlakakṣāntaṃ) [shoulder-to-navel-above-measure](skandhanābhyūrdhvamānakam)
+[little-finger-root-armpit-end](kaniṣṭhāmūlakakṣāntaṃ) [shoulder-navel-above-measure](skandhanābhyūrdhvamānakam)
 
 ## mukta-m0-p122-v3042
-[sacred-thread-investiture](pavitrārohaṇaṃ) [one-should-perform](kuryāt) [with-desired-mantras](iṣṭamantrais) [in-three-tattvas](tritattvataḥ)
+[purification-ascending](pavitrārohaṇaṃ) [should-do](kuryād) [with-chosen-mantras](iṣṭamantrais) [by-three-tattva](tritattvataḥ)
 
 ## mukta-m0-p122-v3043
-[one-should-give](dadyāt) [sacred-thread](pavitrakaṃ) [likewise](tadvad) [in-fire+etc.-directions](vahnyādidikṣu) [with-others](cetaraiḥ)
+[should-give](dadyāt) [purification-thread](pavitrakaṃ) [thus](tadvad) [fire-etc-directions](vahnyādidikṣu) [by-others](cetaraiḥ)
 
 ## mukta-m0-p122-v3044
-[with-three+five-threads](tripañcasūtrakair) [or](vāpi) [with-heart-mantra](hṛdā) [and](ca) [without-mantra](āmantrarṇa) [of-lord](vibhoḥ)
+[with-three-five-threads](tripañcasūtrakair) [or](vāpi) [with-heart](hṛdā) [and](ca) [without-mantra-syllable](amantrarṇa) [of-lord](vibhoḥ)
 
 ## mukta-m0-p122-v3045
-[accept](gṛhāṇa) [this](imāṃ) [O-great-god](mahādeva) [of-all-rites-cause](samastavidhikāraṇa)
+[accept](gṛhāṇa) [this](imāṃ) [great-god](mahādeva) [all-rite-cause](samastavidhikāraṇa)
 
 ## mukta-m0-p122-v3046
-[five-products-of-cow](pañcagavyaṃ) [in-kamātteṣu](kamātteṣu) [palm+moon+fire+iron](tālacandranalohakam)
+[pañcagavya](pañcagavyaṃ) [kama](kamā) [in-them](ātteṣu) [palm-crescent-metal](tālacandranalohakam)
 
 ## mukta-m0-p122-v3047
-[oblations-substances](homadravyāṇi) [all](sarvāṇi) [with-kuśa-grass](sakuśāni) [O-aparāpara-faced-one](aparāparānane)
+[offering-materials](homadravyāṇi) [all](sarvāṇi) [with-kuśa](sakuśāny) [other-other-face](aparāparānane)
 
 ## mukta-m0-p122-v3048
-[betel](tāmbūlaṃ) [to-guhyaka](guhyake) [one-should-give](dadyāt) [with-ghee](sājyaṃ) [cooked-rice](caru) [to-man](nare) [again](punaḥ)
+[betel](tāmbūlaṃ) [to-guhyaka](guhyake) [should-give](dadyāt) [with-ghee](sājyaṃ) [oblation](caru) [to-man-again](nare) [punaḥ](punaḥ)
 
 ## mukta-m0-p122-v3049
-[in-northeast](aiśānyām) [seat](āsanaṃ) [umbrella](chatraṃ) [sandals](pāduke) [yoga-belt](yogapaṭṭakam)
+[in-northeast](aiśānyām) [seat](āsanaṃ) [umbrella](chatraṃ) [sandals](pāduke) [yoga-band](yogapaṭṭakam)
 
 ## mukta-m0-p122-v3050
-[vessel](pātraṃ) [having-made](kṛtvā) [sacred-threads](pavitrāṇi) [sprinkled](prokṣitāni) [with-śiva-water](śivāmbhasā)
+[vessel](pātraṃ) [having-made](kṛtvā) [purification-threads](pavitrāṇi) [sprinkled](prokṣitāni) [with-śiva-water](śivāmbhasā)
