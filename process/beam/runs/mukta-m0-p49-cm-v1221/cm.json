@@ -3,39 +3,39 @@
  "verse": 1221,
  "rows": [
   {
-   "lemma": "bhramāt",
-   "morph": "m.abl.sg",
-   "grounds": "ablative noun"
+   "lemma": "śāntike",
+   "morph": "loc.sg.n",
+   "grounds": "locative indicating the ritual purpose of pacification"
+  },
+  {
+   "lemma": "pauṣṭike",
+   "morph": "loc.sg.n",
+   "grounds": "locative indicating the ritual purpose of nourishment"
   },
   {
    "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
+   "grounds": "disjunctive particle linking alternative purposes"
   },
   {
-   "lemma": "daśate",
-   "morph": "3.sg.act.pres-daṃś",
-   "grounds": "present"
-  },
-  {
-   "lemma": "sarpaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative noun"
-  },
-  {
-   "lemma": "tadā",
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "inclusive particle"
   },
   {
-   "lemma": "sarpaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative noun"
+   "lemma": "rājataṃ",
+   "morph": "acc.sg.n",
+   "grounds": "accusative object naming the silver material"
   },
   {
-   "lemma": "vinaśyati",
-   "morph": "3.sg.act.pres-vinaś",
-   "grounds": "present"
+   "lemma": "kārayet",
+   "morph": "3.sg.opt.caus.act (√kṛ)",
+   "grounds": "optative causative injunction to have it made"
+  },
+  {
+   "lemma": "priye",
+   "morph": "voc.sg.f",
+   "grounds": "vocative address to the listener"
   }
  ]
 }

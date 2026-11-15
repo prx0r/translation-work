@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1147,
- "question": "What color is assigned to this figure?",
+ "question": "What diagram element is prohibited here based on the preceding declaration?",
  "premises": [
-  "green is stated",
-  "colored is stated"
+  "A statement has been made as quoted.",
+  "That statement serves as the basis for a rule.",
+  "Filaments are negated in this context."
  ],
- "inference": "The passage assigns a green color to this figure.",
+ "inference": "Because of that declaration, filaments should not be included here.",
  "uncertainties": [
-  "harid may be a variant of harita"
+  "The exact diagrammatic role of keśarāṇi is context-dependent."
  ],
- "plain_english": "The color is green."
+ "plain_english": "Because of this statement, the filaments are not to be included here."
 }
