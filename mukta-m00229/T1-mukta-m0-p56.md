@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[in-portions](bhāgeṣu) + [of-ghee](ājyasya) + [or](advā) [in-offering-sequence](āhuti-kramāt)
+[in-portions](bhāgeṣu) [of-ghee](ājyasya) [or](advā) [from-offering-sequence](hutikramāt)
 
 ## mukta-m0-p56-v1377
-[in-sequence](kramāt) + [from-three-portions](bhāga-trayāt) + [ghee](ājyam) [with-ladle](sruveṇa) + [having-taken](ādāya) [practitioner](sādhakaḥ)
+[from-sequence](kramāt) [from-three-portions](bhāgatrayāt) [ghee](ājyaṃ) [with-ladle](sruveṇa) [taking](ādāya) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p56-v1378
-[thus](iti) + [of-fire-face-eyes](agni-vaktra-netrāṇām) [should-perform](kuryāt) + [opening](udghāṭanam) [wise-one](budhaḥ)
+[thus](itya) [of-fire-face-eyes](agnivaktranetrāṇāṃ) [should-do](kuryāt) [opening](udghāṭanaṃ) [wise-one](budhaḥ)
 
 ## mukta-m0-p56-v1379
-[Īśa-Tatpuruṣa-Aghora-Sadyo-Vāma-forms](īśa-tatpuruṣa-aghora-sadyo-vāma-svarūpiṇaḥ)
+[īśa](īśa) [tatpuruṣa](tatpuruṣa) [aghora](aghora) [sadyojāta](sadyojāta) [vāma](vāma) [form-possessing](svarūpiṇaḥ)
 
 ## mukta-m0-p56-v1380
-[mantrin](mantrī) [daily-oblation](nitya-homam) [should-perform](samācaret)
+[mantra-knower](mantrī) [daily](nitya) [homa](homaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p56-v1381
-[in-purification-of-cooked-offering](pāka-śuddhau) [and](ca) [in-Vāma](vāme) [oblation](homam) [should-perform](samācaret)
+[in-cooking-purity](pākaśuddhau) [and](ca) [left](vāme) [homa](homaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p56-v1382
-[for-producing-desired-result](iṣṭa-sañjanana-artham) [indeed](tu) [in-east-facing-mouth](prācīna-vadane) [should-worship](yajet)
+[for-desired-generation](iṣṭasañjananārthaṃ) [but](tu) [in-eastern-face](prācīnavadane) [should-sacrifice](yajet)
 
 ## mukta-m0-p56-v1383
-[indeed](tu) [there-only](tatra-eva) [in-fifth](pañcame) [indeed](tu) [for-liberation](vimuktaye)
+[but](tu) [there-only](tatraiva) [in-fifth](pañcame) [but](tu) [for-liberation](vimuktaye)
 
 ## mukta-m0-p56-v1384
-[with-syllable-oṃ](sa-tārābhiḥ) + [with-vyāhṛtis](vyāhṛtibhiḥ) + [with-ghee](ājyena) [should-offer](juhuyāt) + [then](tataḥ)
+[with-stars](satārābhiḥ) [with-utterances](vyāhṛtibhiḥ) [with-ghee](ājyena) [should-offer](juhuyāt) [then](tataḥ)
 
 ## mukta-m0-p56-v1385
-[beginning-with-conception](garbhādhāna-ādikāḥ) [of-fire](vahneḥ) [rites](kriyāḥ) [should-accomplish](nirvarttayet) + [in-sequence](kramāt)
+[from-conception-etc](garbhādhānādikāḥ) [of-fire](vahneḥ) [rites](kriyā) [should-complete](nirvarttayet) [in-order](kramāt)
 
 ## mukta-m0-p56-v1386
-[indeed](tu) [with-root-mantra](mūlena) [beginning-with-conception](garbhādhāna-ādikāḥ) [rites](kriyāḥ)
+[but](tu) [with-root-mantra](mūlena) [conception-etc](garbhādhānādikāḥ) [rites](kriyāḥ)
 
 ## mukta-m0-p56-v1387
-[seven-oblations](sapta-āhutīḥ) + [having-given](dattvā) [beginning-with-conception](garbhādhāna-ādikāḥ) [rites](kriyāḥ)
+[seven-offerings](saptāhutīḥ) [having-given](dattvā) [conception-etc](garbhādhānādikāḥ) [rites](kriyāḥ)
 
 ## mukta-m0-p56-v1388
-[puṃsavana](puṃsavanam) [sīmantonnayana](sīmantonnayanam) [then](tataḥ)
+[male-engendering](puṃsavanaṃ) [parting-rite](sīmantonnayanaṃ) [then](tataḥ)
 
 ## mukta-m0-p56-v1389
-[afterwards](paścāt) + [first-feeding-of-rice](anna-prāśanam) + [declared](īritam)
+[afterwards](paścāt) [first-feeding](annaprāśanaṃ) [declared](īritam)
 
 ## mukta-m0-p56-v1390
-[initiation](upaniṣadam) [afterwards](paścāt) [tonsure-and-marriage](godāna-udvāhakau) [death](mṛtiḥ)
+[upanayana](upaniṣadaṃ) [afterwards](paścāt) [cow-gift](godāna) [marriage](udvāha) [death](mṛtiḥ)
 
 ## mukta-m0-p56-v1391
-[declared](samuddiṣṭāḥ) [of-fire](vahneḥ) + [by-knowers-of-Āgamas](āgama-vedibhiḥ)
+[declared](samuddiṣṭā) [of-fire](vahneḥ) [by-āgama-knowers](āgamavedibhiḥ)
 
 ## mukta-m0-p56-v1392
-[ending-with-tonsure](godāna-anta) + [thus](iti) + [from-this](ataḥ) [stated](proktam) [return-ceremony](samāvartanam) + [is-called](ucyate)
+[cow-gift-end](godānānta) [thus](ityataḥ) [said](proktaṃ) [graduation](samāvartanaṃ) [is-called](ucyate)
 
 ## mukta-m0-p56-v1393
-[with-eight-ghee-oblations](ājya-āhuti-aṣṭakaiḥ) + [having-given](dattvā) [name-giving-rite](nāma-karma) [likewise](tathaiva) [and](ca)
+[ghee-offering-eights](ājyāhutyaṣṭakaiḥ) [having-given](dattvā) [name-rite](nāmakarma) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p56-v1394
-[of-that](tasya) [having-worshipped](saṃpūjya) + [in-self](ātmani) [should-unite](yojayet)
+[of-him](tasya) [having-worshipped](saṃpūjya) [in-self](ātmani) [should-join](yojayet)
 
 ## mukta-m0-p56-v1395
-[born-from-slime-ghosts-and-trees](śleṣmāta-piśāca-taru-samudbhūtāḥ) [should-abandon](parityajet)
+[phlegm-mother-demon-tree-born](śleṣmātāpiśācatarusamudbhūtāḥ) [should-abandon](parityajet)
 
 ## mukta-m0-p56-v1396
-[slime-ghost-tree](śleṣmāta-piśāca-tarum) [having-abandoned](tyaktvā) + [from-others](anyebhyaḥ) + [indeed](tu) [that](tām) [should-take](haret)
+[phlegm-demon-tree](śleṣmātāpiśācataruṃ) [having-abandoned](tyaktvā) [from-others](anyebhyaḥ) [but](tu) [her](tāṃ) [should-remove](haret)
 
 ## mukta-m0-p56-v1397
-[should-offer](juhuyāt) + [one-oblation](ekām-āhutim) [best-knower-of-mantras](mantra-vit-tamaḥ)
+[should-offer](juhuyāt) [one-offering](ekāmāhutiṃ) [mantra-knower-best](mantravittamaḥ)
 
 ## mukta-m0-p56-v1398
-[some](kecit) + [root-mantra-and-aṅga-mantras](mūla-mantra-aṅga-mantrān) + [knowers-of-tantric-meaning](tantra-artha-vedinaḥ)
+[some](kecit) [root-mantra-ornament-mantras](mūlamanoraṅgamantrāṃs) [tantra-meaning-knowers](tantrārthavedinaḥ)
 
 ## mukta-m0-p56-v1399
-[tradition](sampradāyaḥ) + [here](atra) + [refuge](śaraṇam) [not](na) [anything](kiñcit) + [remains](avaśiṣyate)
+[tradition](sampradāyaḥ) [here-refuge](atraśaraṇaṃ) [not](na) [anything](kiñcit) [remains](avaśiṣyate)
 
 ## mukta-m0-p56-v1400
-[standing](tiṣṭhan) + [indeed](eva) + [in-fire](agnau) [practitioner](sādhakaḥ) [with-endeavoring-mind](yata-mānasaḥ)
+[standing-only](tiṣṭhanneva) [in-fire](agnau) [practitioner](sādhakaḥ) [controlled-mind](yatamānasaḥ)

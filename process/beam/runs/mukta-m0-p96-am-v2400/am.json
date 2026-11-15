@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2400,
- "question": "Which implements are arranged in the directions by the mantra-knower?",
+ "question": "What ordinal number does this colophon assign to the chapter?",
  "premises": [
-  "mantra-knower arranges ritual implements",
-  "implements include fan mirror umbrella chowrie",
-  "placement occurs in directions"
+  "colophon token names chapter",
+  "ordinal ekonāśīti means seventy-nine",
+  "adhyāya means chapter"
  ],
- "inference": "The verse names four implements placed in the directions by the mantra-knower.",
+ "inference": "therefore this is chapter seventy-nine",
  "uncertainties": [
-  "exact ritual context is not specified by this verse alone"
+  "sandhi fusion points not expanded",
+  "exact editorial punctuation retained"
  ],
- "plain_english": "The mantra-knower places the fan, mirror, umbrella, and chowrie in the directions."
+ "plain_english": "This is the seventy-ninth chapter."
 }

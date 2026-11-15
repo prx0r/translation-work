@@ -3,44 +3,34 @@
  "verse": 2325,
  "rows": [
   {
-   "lemma": "gurutvena",
-   "morph": "n.instr.sg",
-   "grounds": "instrumental of gurutva, 'as guru'"
+   "lemma": "śūnyakūpe",
+   "morph": "loc.sg.m (compound: empty+well)",
+   "grounds": "locative of śūnya-kūpa, the empty well"
   },
   {
-   "lemma": "iti",
+   "lemma": "bheka",
+   "morph": "nom.sg.m",
+   "grounds": "nominative subject of the simile"
+  },
+  {
+   "lemma": "iva",
    "morph": "(indecl.)",
-   "grounds": "quotative particle"
+   "grounds": "simile particle"
   },
   {
-   "lemma": "sambhāṣya",
-   "morph": "absolutive",
-   "grounds": "absolutive of sam-bhāṣ"
-  },
-  {
-   "lemma": "tvām",
-   "morph": "pron.acc.sg",
-   "grounds": "second person pronoun accusative"
-  },
-  {
-   "lemma": "ahaṃ",
-   "morph": "pron.nom.sg",
-   "grounds": "first person pronoun nominative"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "negation of avidaṃ"
   },
   {
-   "lemma": "tato",
+   "lemma": "svārthamavidaṃ",
+   "morph": "1sg.act.aor (root vid) with object svārtham",
+   "grounds": "fused form svārtham + avidaṃ; first-person singular aorist of vid with object svārtham"
+  },
+  {
+   "lemma": "kvacit",
    "morph": "(indecl.)",
-   "grounds": "adverb"
-  },
-  {
-   "lemma": "vṛṇe",
-   "morph": "1.sg.mid-pres root vṛ",
-   "grounds": "middle voice present, 'I choose'"
+   "grounds": "indefinite adverb qualifying avidaṃ"
   }
  ]
 }

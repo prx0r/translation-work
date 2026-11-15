@@ -1,13 +1,18 @@
 {
  "song": "mukta-m0-p02",
  "verse": 48,
- "question": "Which goddess form is identified as the third in the Kumārī sequence?",
+ "question": "Which relatives and others are enumerated in this list?",
  "premises": [
-  "The sequence concerns Kumārī.",
-  "The third position is specified.",
-  "That third is identified as Tripurā."
+  "bhrātṛ means brother",
+  "bandhu means relative",
+  "putra means son",
+  "śatru means enemy",
+  "kalatra means wife",
+  "kāḥ means what"
  ],
- "inference": "In the Kumārī sequence, the third is identified as Tripurā.",
- "uncertainties": [],
- "plain_english": "O supreme Goddess, the third of Kumārī is Tripurā."
+ "inference": "The verse enumerates brother, relative, son, enemy, and wife.",
+ "uncertainties": [
+  "syntactic role of kāḥ"
+ ],
+ "plain_english": "Brother, relative, son, enemy, wife, what?"
 }

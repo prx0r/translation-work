@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p02",
  "verse": 42,
- "question": "What preparatory acts should be performed upon rising in the morning?",
+ "question": "Should the name and nakshatra be combined for one whose birth sign is known?",
  "premises": [
-  "The practitioner rises early in the morning.",
-  "The guru is to be remembered.",
-  "Remembrance is done with the guru's own names."
+  "janmabhaṃ means birth sign",
+  "yasya means whose",
+  "tasya means his",
+  "nāmarkṣamūhayet means name-nakshatra should not combine"
  ],
- "inference": "After rising early, one should remember the guru by reciting the guru's own names.",
- "uncertainties": [],
- "plain_english": "O Goddess, having risen early in the morning, one should remember the guru with his own names."
+ "inference": "For one whose birth sign is known, name and nakshatra should not be combined.",
+ "uncertainties": [
+  "exact force of mūhayet"
+ ],
+ "plain_english": "For whose birth sign, his name and nakshatra should not be combined."
 }

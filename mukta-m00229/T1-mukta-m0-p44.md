@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[afterwards](paścād) [veiling](avaguṇṭhana) [+](+) [by-seal](mudrayā)
+[after](paścāt) [covering](avaguṇṭhana) [seal](mudrā) [by](yā)
 
 ## mukta-m0-p44-v1077
-[having-bound](baddhvā) [one-should-perform](vidadhyāt) [supreme](paramī) [+](+) [transformation](kṛtim)
+[binding](baddhvā) [let-one-do](vidadhyāt) [supreme](parama) [making](īkṛtim)
 
 ## mukta-m0-p44-v1078
-[having-bound](baddhvā) [of-ring-finger](anāmikā) [+](+) [root](mūla) [+](+) [joints](parvaṇoḥ)
+[binding](baddhvā) [ring-finger](anāmikā) [root](mūla) [joints](parvaṇoḥ)
 
 ## mukta-m0-p44-v1079
-[this](tu) [+](+) [this](iyaṃ) [if](cet) [it-should-be](syāt) [establishing](sthāpinī) [seal](mudrikā) [is-considered](matā)
+[thus](tu) [this](iyaṃ) [if](cet) [syāt](syāt) [establishing](sthāpinī) [seal](mudrikā) [considered](matā)
 
 ## mukta-m0-p44-v1080
-[with-inserted](praveśita) [+](+) [thumb](aṅguṣṭhā) [that-very](saiva) [restraining](saṃbo(ro)dhinī) [is-considered](matā)
+[inserted](praveśitā) [thumb](aṅguṣṭhā) [that-same](saiva) [awakening](saṃbodhinī) [considered](matā)
 
 ## mukta-m0-p44-v1081
-[of-six](ṣaḍ) [+](+) [limbs](aṅgānāṃ) [placement](nyāsaḥ) [should-be](syāt) [making-complete](sakalī) [+](+) [transformation](kṛtiḥ)
+[six-limbs](ṣaḍaṅgānāṃ) [nyāsa](nyāsaḥ) [syāt](syāt) [consecration](sakalīkṛtiḥ)
 
 ## mukta-m0-p44-v1082
-[with-interlaced](grathita) [+](+) [thumbs](aṅguṣṭhā) [with-extended](prasārita) [other](para) [+](+) [fingers](aṅguliḥ)
+[tied](grathitā) [thumb](aṅguṣṭhā) [extended](prasāritā) [other-fingers](parāṅguliḥ)
 
 ## mukta-m0-p44-v1083
-[in-deity](devatā) [+](+) [invocation](āhvāna) [+](+) [action](karmaṇi)
+[deity](devatā) [invocation](āhvāna) [action](karmaṇi)
 
 ## mukta-m0-p44-v1084
-[but](tu) [always](nityaṃ) [present](sannihitaḥ) [Hari](hariḥ)
+[but](tu) [always](nityaṃ) [present](sannihitaḥ) [hari](hariḥ)
 
 ## mukta-m0-p44-v1085
-[of-principle](tattva) [+](+) [form](rūpasya) [of-splendor](tejasaḥ)
+[essence-form](tattvarūpasya) [radiance](tejasaḥ)
 
 ## mukta-m0-p44-v1086
-[of-Siddhāntasārīya](siddhāntasārīya) [+](+) [statement](vacanasya) [according-to](anurodhataḥ)
+[according-to](anurodhataḥ) [statement](vacanasya) [siddhāntasārīya](siddhāntasārīya)
 
 ## mukta-m0-p44-v1087
-[of-invoked](āvāhitasya) [this](asya) [Śiva](śivasya) [one-should-know](vidyāt) [in-body](dehe) [here](atra) [presence](sannidhim)
+[of-śiva](śivasya) [invoked](āvāhitasya) [this](asya) [know](vidyāt) [in-body](dehe) [here](atra) [presence](sannidhim)
 
 ## mukta-m0-p44-v1088
-[being-worshipped](prapūjyamānāṃ) [but](tu) [having-taken](gṛhītvā) [restraint](nigraha) [+](+) [and-so-forth](ādikam)
+[being-worshipped](prapūjyamānāṃ) [but](tu) [taking](gṛhītvā) [restraint](nigraha) [etc](ādikam)
 
 ## mukta-m0-p44-v1089
-[in-worship](pūjāyāṃ) [that](tāt) [+](+) [presence](nidhyaṃ) [indeed](hi) [of-Śiva](śivasya) [which](yat)
+[in-worship](pūjāyāṃ) [their](tān) [presence](nidhyaṃ) [indeed](hi) [of-śiva](śivasya) [which](yat)
 
 ## mukta-m0-p44-v1090
-[pervaded](vyāptaṃ) [to-be-meditated](dhyeyaṃ) [should-be](syāt) [veiling](avaguṇṭhanam)
+[pervaded](vyāptaṃ) [to-be-meditated](dhyeyaṃ) [syāt](syāt) [covering](avaguṇṭhanam)
 
 ## mukta-m0-p44-v1091
-[together-with](sārdham) [immortalization](amṛtī) [+](+) [making](karaṇaṃ) [is-considered](matam)
+[with](sārdham) [nectar-making](amṛtīkaraṇaṃ) [considered](matam)
 
 ## mukta-m0-p44-v1092
-[of-invocation](āvāhana) [+](+) [and-other](ādikāryāṇām) [this](ayam) [meaning](arthaḥ) [is-explained](prakāśitaḥ)
+[of-āvāhana-etc-actions](āvāhanādikāryāṇām) [this](ayam) [meaning](arthaḥ) [revealed](prakāśitaḥ)
 
 ## mukta-m0-p44-v1093
-[petals](kesarāḥ) [by-five](pañca) [+](+) [groups](vargeṇa) [by-yaśanā](yaśanā) [(lā)]((lā)) [+](+) [syllables](arṇa) [+](+) [and-others](ādikair) [also](api)
+[filaments](kesarāḥ) [five-groups](pañcavargeṇa) [yaśanā](yaśanā) [lārṇādikaiḥ](lārṇādikaiḥ) [api](api)
 
 ## mukta-m0-p44-v1094
-[by-nose](nāstā) [+](+) [and-finger](nāṅgali) [+](+) [nails](nau) [one-should-know](jñeyāt) [likewise](tadvat) [of-earth](kṣoṇī) [+](+) [city](purasya) [indeed](vai)
+[not](nā) [those](tān) [aṅgalina](aṅgalina) [to-be-known](ujñeyāt) [tadvat](tadvat) [of-kṣoṇīpura](kṣoṇīpurasya) [vai](vai)
 
 ## mukta-m0-p44-v1095
-[page-95](p.) [95)](95)) [Mātṛkā](mātṛkā) [+](+) [lotus](ambhojam) [is-called](ākhyātaṃ) [all](sarva) [+](+) [calamity](āpad) [+](+) [removing](vinivāraṇam)
+[p.95](p.95) [mātṛkā-lotus](mātṛkāmbhoja) [called](mākhyātaṃ) [all-calamity-removal](sarvāpadvinivāraṇam)
 
 ## mukta-m0-p44-v1096
-[in-place](sthāne) [own](sve) [own](sve) [with-mantra](mantri) [+](+) [one-should-place](upaveśayet)
+[in-place](sthāne) [own](sve) [sve](sve) [mantra](mantri) [seat](upaveśayet)
 
 ## mukta-m0-p44-v1097
-[having-pronounced](samuccārya) [pedestal](pīṭhaṃ) [to-it](tasyai) [one-should-offer](nivedayet)
+[uttering-together](samuccārya) [seat](pīṭhaṃ) [to-her](tasyai) [offer](nivedayet)
 
 ## mukta-m0-p44-v1098
-[it-should-be](syāt) [somewhere](kvaca) [(or-somewhere)]((kvāci)) [that](tkovā) [regulator](niyāmakaḥ)
+[syāt](syāt) [kvaca](kvaca) [kvāci](kvāci) [tkovā](tkovā) [niyāmakaḥ](niyāmakaḥ)
 
 ## mukta-m0-p44-v1099
-[to-be-given](deyaṃ) [how](kathaṃ) [it-should-be](syāt) [this](eṣa) [determination](nirṇayaḥ)
+[to-be-given](deyaṃ) [how](kathaṃ) [syāt](syāt) [eṣa](eṣa) [determination](nirṇayaḥ)
 
 ## mukta-m0-p44-v1100
-[regulates](niyamayati) [one](ekā) [supreme](parā) [all](sākalya) [+](+) [awakening](bodhikā)
+[restrains](niyamayati) [one](ekā) [supreme](parā) [sākalyabodhikā](sākalyabodhikā)

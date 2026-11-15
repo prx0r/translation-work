@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p93",
  "verse": 2320,
- "question": "What resulting shape is produced by delimiting the area outside the previous form?",
+ "question": "What physical sign shows his overwhelming joy?",
  "premises": [
-  "The outer area of the previous form is delimited.",
-  "This delimitation produces a new shape.",
-  "The resulting shape is sixteen-cornered."
+  "Joy flows continuously",
+  "Tears stream from the eyes",
+  "He is overwhelmed"
  ],
- "inference": "By delimiting the outside of that form, a sixteen-cornered shape is produced here.",
- "uncertainties": [],
- "plain_english": "Having delimited the outside of that, it becomes sixteen-cornered here."
+ "inference": "The verse depicts tears of joy flooding him.",
+ "uncertainties": [
+  "Compound segmentation"
+ ],
+ "plain_english": "Overwhelmed by continuously flowing tears of joy from his eyes."
 }

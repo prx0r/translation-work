@@ -20,7 +20,7 @@
 },
 {
 "surface": "kṛtyam",
-"quick_gloss": "deed"
+"quick_gloss": "duty"
 },
 {
 "surface": "asādhyaṃ",
@@ -48,15 +48,19 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "balāhakamukhe",
-"quick_gloss": "Balāhakamukha"
+"surface": "balāhaka",
+"quick_gloss": "cloud"
+},
+{
+"surface": "mukhe",
+"quick_gloss": "in-mouth"
 },
 {
 "surface": "hate",
-"quick_gloss": "being-slain"
+"quick_gloss": "slain"
 },
 {
-"surface": "sūryaḥ",
+"surface": "sūryo",
 "quick_gloss": "sun"
 },
 {
@@ -77,28 +81,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yuddhe",
-"quick_gloss": "in-the-battle"
-},
-{
 "surface": "tiraskaraṇikā",
-"quick_gloss": "of-Tiraskaraṇikā"
+"quick_gloss": "disparagement"
 },
 {
-"surface": "vadhaḥ",
+"surface": "yuddhe",
+"quick_gloss": "in-battle"
+},
+{
+"surface": "balāhakādiva",
+"quick_gloss": "balāhaka-etc"
+},
+{
+"surface": "dha",
 "quick_gloss": "slaying"
 },
 {
-"surface": "balāhaka+ādi",
-"quick_gloss": "of-Balāhaka-and-others"
-},
-{
-"surface": "nāma",
+"surface": "nāmā",
 "quick_gloss": "named"
 },
 {
-"surface": "aṣṭaṣaṣtitamaḥ",
-"quick_gloss": "sixty-eighth"
+"surface": "aṣṭaṣaṣtitamo",
+"quick_gloss": "eighty-sixth"
 },
 {
 "surface": "adhyāyaḥ",
@@ -114,28 +118,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "māyayā",
-"quick_gloss": "by-the-illusion"
-},
-{
-"surface": "tripurā",
-"quick_gloss": "of-Tripurā"
+"surface": "tripurāmāyayā",
+"quick_gloss": "by-tripura-illusion"
 },
 {
 "surface": "muḍhāḥ",
 "quick_gloss": "deluded"
 },
 {
+"surface": "saṅkalpajaya",
+"quick_gloss": "by-resolve-victory"
+},
+{
 "surface": "harṣitāḥ",
 "quick_gloss": "rejoicing"
-},
-{
-"surface": "jaya",
-"quick_gloss": "in-victory"
-},
-{
-"surface": "saṅkalpa",
-"quick_gloss": "of-resolve"
 }
 ]
 },
@@ -147,12 +143,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidhānāya",
-"quick_gloss": "for-the-arrangement"
-},
-{
-"surface": "pārṣṇigraha",
-"quick_gloss": "of-attacking-the-rear"
+"surface": "pārṣṇigrahavidhānāya",
+"quick_gloss": "for-rear-guard-arrangement"
 },
 {
 "surface": "preṣayitvā",
@@ -160,7 +152,7 @@
 },
 {
 "surface": "vidhāntaḥ",
-"quick_gloss": "to-the-command-post"
+"quick_gloss": "vidhāntaḥ"
 }
 ]
 },
@@ -172,16 +164,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśukraḥ",
-"quick_gloss": "Viśukra"
+"surface": "viśukro",
+"quick_gloss": "viśukra"
 },
 {
 "surface": "mantriṇīṃ",
-"quick_gloss": "the-minister"
+"quick_gloss": "minister"
 },
 {
 "surface": "daṇḍarājñīṃ",
-"quick_gloss": "Daṇḍarājñī"
+"quick_gloss": "daṇḍa-queen"
 },
 {
 "surface": "senāpatiḥ",
@@ -201,24 +193,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ulūkajit+prabhṛtayaḥ",
-"quick_gloss": "Ulūkajit-and-others"
+"surface": "ulūkajitprabhṛtayo",
+"quick_gloss": "ulūkajit-etc"
 },
 {
-"surface": "vahe",
-"quick_gloss": "in-the-mount"
-},
-{
-"surface": "gaja",
-"quick_gloss": "of-elephants"
-},
-{
-"surface": "vāji",
-"quick_gloss": "and-horses"
+"surface": "gajavājivahe",
+"quick_gloss": "elephant-horse-bearers"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -239,11 +223,11 @@
 },
 {
 "surface": "savitarī",
-"quick_gloss": "the-sun"
+"quick_gloss": "sun"
 },
 {
 "surface": "sarvataḥ",
-"quick_gloss": "on-all-sides"
+"quick_gloss": "everywhere"
 },
 {
 "surface": "tamasā",
@@ -271,15 +255,11 @@
 "quick_gloss": "that"
 },
 {
-"surface": "prakāśaiḥ",
-"quick_gloss": "by-the-lights"
+"surface": "sandhyāprakāśaiḥ",
+"quick_gloss": "twilight-light"
 },
 {
-"surface": "sandhyā",
-"quick_gloss": "of-twilight"
-},
-{
-"surface": "abhavat",
+"surface": "abhavad",
 "quick_gloss": "became"
 },
 {
@@ -304,20 +284,16 @@
 "quick_gloss": "terrible"
 },
 {
-"surface": "yuddhaṃ",
+"surface": "yuddaṃ",
 "quick_gloss": "battle"
 },
 {
+"surface": "śaktidānava",
+"quick_gloss": "śakti-dānava"
+},
+{
 "surface": "senayoḥ",
-"quick_gloss": "of-the-armies"
-},
-{
-"surface": "śakti",
-"quick_gloss": "of-Śakti"
-},
-{
-"surface": "dānava",
-"quick_gloss": "and-Dānava"
+"quick_gloss": "armies"
 }
 ]
 },
@@ -333,24 +309,20 @@
 "quick_gloss": "fought"
 },
 {
+"surface": "śastrajālaiḥ",
+"quick_gloss": "weapon-nets"
+},
+{
 "surface": "te",
-"quick_gloss": "with-those"
-},
-{
-"surface": "jālaiḥ",
-"quick_gloss": "nets"
-},
-{
-"surface": "śastra",
-"quick_gloss": "of-weapons"
+"quick_gloss": "they"
 },
 {
 "surface": "śaktibhiḥ",
-"quick_gloss": "with-the-Śaktis"
+"quick_gloss": "śaktis"
 },
 {
-"surface": "daitya+puṅgavāḥ",
-"quick_gloss": "the-chief-demons"
+"surface": "daityapuṅgavāḥ",
+"quick_gloss": "daitya-bulls"
 }
 ]
 },
@@ -366,24 +338,16 @@
 "quick_gloss": "covering"
 },
 {
-"surface": "bhāgaṃ",
-"quick_gloss": "the-region"
+"surface": "abhobhāgaṃ",
+"quick_gloss": "sky-portion"
 },
 {
-"surface": "nabhaḥ",
-"quick_gloss": "of-the-sky"
+"surface": "tārakāgaṇa",
+"quick_gloss": "star-host"
 },
 {
 "surface": "saṃvṛtam",
-"quick_gloss": "filled"
-},
-{
-"surface": "gaṇa",
-"quick_gloss": "with-multitudes"
-},
-{
-"surface": "tārakā",
-"quick_gloss": "of-stars"
+"quick_gloss": "surrounded"
 }
 ]
 },
@@ -399,20 +363,20 @@
 "quick_gloss": "fought"
 },
 {
-"surface": "śakti+daityāṇāṃ",
-"quick_gloss": "of-the-Śakti-and-demon"
+"surface": "śaktidaityāṇāṃ",
+"quick_gloss": "śakti-daityas"
 },
 {
 "surface": "gaṇāḥ",
 "quick_gloss": "troops"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "cā",
+"quick_gloss": "ca"
 },
 {
-"surface": "krama+yogataḥ",
-"quick_gloss": "in-due-order"
+"surface": "kramasaṅgatāḥ",
+"quick_gloss": "by-krama-yoga"
 }
 ]
 },
@@ -424,28 +388,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śastraṇi",
+"surface": "śastraṇyanyeṣu",
 "quick_gloss": "weapons"
 },
 {
 "surface": "anyeṣu",
-"quick_gloss": "on-others"
-},
-{
-"surface": "yuñjanti",
-"quick_gloss": "they-apply"
-},
-{
-"surface": "tāni",
-"quick_gloss": "those"
-},
-{
-"surface": "anyān",
 "quick_gloss": "others"
 },
 {
+"surface": "yuñjanti",
+"quick_gloss": "apply"
+},
+{
+"surface": "tānyanyān",
+"quick_gloss": "those"
+},
+{
 "surface": "ghātayanti",
-"quick_gloss": "they-strike"
+"quick_gloss": "kill"
 },
 {
 "surface": "hi",
@@ -465,28 +425,28 @@
 "quick_gloss": "there"
 },
 {
-"surface": "daityaiḥ",
-"quick_gloss": "by-demons"
+"surface": "daityairhatā",
+"quick_gloss": "by-daityas"
 },
 {
-"surface": "hatāḥ",
+"surface": "hatā",
 "quick_gloss": "slain"
 },
 {
 "surface": "daityāḥ",
-"quick_gloss": "demons"
+"quick_gloss": "daityas"
 },
 {
 "surface": "śaktibhiḥ",
-"quick_gloss": "by-Śaktis"
+"quick_gloss": "by-śaktis"
 },
 {
 "surface": "śaktyaḥ",
-"quick_gloss": "Śaktis"
+"quick_gloss": "śaktis"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -502,7 +462,7 @@
 "quick_gloss": "some"
 },
 {
-"surface": "śaraiḥ",
+"surface": "straivinihatāḥ",
 "quick_gloss": "by-arrows"
 },
 {
@@ -514,12 +474,8 @@
 "quick_gloss": "others"
 },
 {
-"surface": "vigharṣitāḥ",
-"quick_gloss": "crushed"
-},
-{
-"surface": "ratha",
-"quick_gloss": "by-chariots"
+"surface": "rathavigharṣitā",
+"quick_gloss": "by-chariot-friction"
 }
 ]
 },
@@ -536,15 +492,15 @@
 },
 {
 "surface": "mahattare",
-"quick_gloss": "very-great"
+"quick_gloss": "greater"
 },
 {
 "surface": "tatra",
 "quick_gloss": "there"
 },
 {
-"surface": "sammṛdde",
-"quick_gloss": "having-increased"
+"surface": "sammrdda",
+"quick_gloss": "intensified"
 },
 {
 "surface": "sati",
@@ -572,7 +528,7 @@
 "quick_gloss": "middle"
 },
 {
-"surface": "atha",
+"surface": "athā",
 "quick_gloss": "then"
 },
 {
@@ -581,15 +537,19 @@
 },
 {
 "surface": "vā",
-"quick_gloss": "or"
+"quick_gloss": "vā"
 },
 {
 "surface": "senāyāḥ",
-"quick_gloss": "of-the-army"
+"quick_gloss": "of-army"
 },
 {
-"surface": "ke+api",
-"quick_gloss": "anyone"
+"surface": "ke",
+"quick_gloss": "some"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "no",
@@ -610,7 +570,7 @@
 "tokens": [
 {
 "surface": "jvālāmukhīṃ",
-"quick_gloss": "Jvālāmukhī"
+"quick_gloss": "jvālāmukhī"
 },
 {
 "surface": "mahādevīṃ",
@@ -621,16 +581,8 @@
 "quick_gloss": "remembered"
 },
 {
-"surface": "jām",
-"quick_gloss": "born"
-},
-{
-"surface": "aṃśa",
-"quick_gloss": "from-a-part"
-},
-{
-"surface": "tripurā",
-"quick_gloss": "of-Tripurā"
+"surface": "tripurāṃśajām",
+"quick_gloss": "tripura-born"
 }
 ]
 },
@@ -642,32 +594,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṅkāśā",
-"quick_gloss": "resembling"
+"surface": "jvalatparvatasaṅkāśā",
+"quick_gloss": "blazing-mountain-like"
 },
 {
-"surface": "jvalat",
-"quick_gloss": "a-blazing"
-},
-{
-"surface": "parvata",
-"quick_gloss": "mountain"
-},
-{
-"surface": "jvālā",
-"quick_gloss": "with-flames"
-},
-{
-"surface": "vyāpta",
-"quick_gloss": "pervading"
-},
-{
-"surface": "dik",
-"quick_gloss": "the-quarters"
-},
-{
-"surface": "antarā",
-"quick_gloss": "and-intermediate-spaces"
+"surface": "jvālāvyāptadigantarā",
+"quick_gloss": "jvālā-pervaded"
 }
 ]
 },
@@ -684,23 +616,23 @@
 },
 {
 "surface": "daityāḥ",
-"quick_gloss": "demons"
+"quick_gloss": "daityas"
 },
 {
-"surface": "śaktyaḥ",
-"quick_gloss": "Śaktis"
+"surface": "śaktyo",
+"quick_gloss": "śaktis"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "api"
 },
 {
 "surface": "yuyudhuḥ",
 "quick_gloss": "fought"
 },
 {
-"surface": "krama+saṅgatāḥ",
-"quick_gloss": "in-due-order"
+"surface": "kramasaṅgatāḥ",
+"quick_gloss": "in-order"
 }
 ]
 },
@@ -713,15 +645,11 @@
 "tokens": [
 {
 "surface": "bālā",
-"quick_gloss": "Bālā"
+"quick_gloss": "girls"
 },
 {
-"surface": "sutaiḥ",
-"quick_gloss": "with-the-sons"
-},
-{
-"surface": "bhaṇḍa",
-"quick_gloss": "of-Bhaṇḍa"
+"surface": "bhaṇḍasutaiḥ",
+"quick_gloss": "bhaṇḍa-sons"
 },
 {
 "surface": "yuddhaṃ",
@@ -729,15 +657,11 @@
 },
 {
 "surface": "vicitram",
-"quick_gloss": "wondrous"
+"quick_gloss": "various"
 },
 {
-"surface": "atanot",
-"quick_gloss": "performed"
-},
-{
-"surface": "bhṛśam",
-"quick_gloss": "greatly"
+"surface": "atanodbhṛśam",
+"quick_gloss": "intense"
 }
 ]
 },
@@ -749,24 +673,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "triṃśat",
+"surface": "triṃśatsaṃkhyā",
 "quick_gloss": "thirty"
 },
 {
-"surface": "saṃkhyāḥ",
-"quick_gloss": "in-number"
-},
-{
-"surface": "eka+kālaṃ",
-"quick_gloss": "at-one-time"
+"surface": "ekakālaṃ",
+"quick_gloss": "at-once"
 },
 {
 "surface": "yuyudhuḥ",
 "quick_gloss": "fought"
 },
 {
-"surface": "bālāyā",
-"quick_gloss": "with-Bālā"
+"surface": "bālayā",
+"quick_gloss": "girls"
 },
 {
 "surface": "dṛḍham",
@@ -783,27 +703,23 @@
 "tokens": [
 {
 "surface": "bālāṃ",
-"quick_gloss": "Bālā"
+"quick_gloss": "girls"
 },
 {
 "surface": "samācchaduḥ",
-"quick_gloss": "they-covered"
+"quick_gloss": "covered"
 },
 {
-"surface": "śastraiḥ",
-"quick_gloss": "with-weapons"
+"surface": "śastrairdineśaṃ",
+"quick_gloss": "weapons"
 },
 {
 "surface": "dineśaṃ",
-"quick_gloss": "the-sun"
+"quick_gloss": "sun"
 },
 {
-"surface": "stuhinaiḥ",
-"quick_gloss": "with-snowflakes"
-},
-{
-"surface": "iva",
-"quick_gloss": "as"
+"surface": "stuhinairiva",
+"quick_gloss": "with-snow"
 }
 ]
 },
@@ -820,14 +736,14 @@
 },
 {
 "surface": "vegena",
-"quick_gloss": "with-speed"
+"quick_gloss": "quickly"
 },
 {
 "surface": "tamaḥ",
 "quick_gloss": "darkness"
 },
 {
-"surface": "sūrya+udayaḥ",
+"surface": "sūryodayo",
 "quick_gloss": "sunrise"
 },
 {

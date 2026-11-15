@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p02",
  "verse": 27,
- "question": "What is the name and effect of this specific nyāsa?",
+ "question": "Which additional mantra traditions are named as variants in this enumeration?",
  "premises": [
-  "The nyāsa is addressed to the goddess.",
-  "It is named Sammohana.",
-  "Its function is to cause agitation."
+  "svāyambhuva is named",
+  "kāpila is named",
+  "tārkṣya is named",
+  "nārāyaṇa-ātmaka is named"
  ],
- "inference": "This nyāsa, called Sammohana, is declared to produce agitation.",
- "uncertainties": [],
- "plain_english": "O Goddess, this placement is called Sammohana and it causes agitation."
+ "inference": "The verse adds further named mantra traditions to the list.",
+ "uncertainties": [
+  "whether nārāyaṇātmakam names a tradition or describes one"
+ ],
+ "plain_english": "Svāyambhuva, Kāpila, and Tārkṣya, Nārāyaṇa-ātmaka."
 }

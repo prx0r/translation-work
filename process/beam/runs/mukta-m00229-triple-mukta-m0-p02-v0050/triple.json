@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "vyatyayamātraṃ",
+     "gloss": "mere-transposition",
+     "grounds": "compound of vyatyaya and mātraṃ",
+     "morph": "compound (vyatyaya+mātraṃ)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act.opt.√as"
+    },
+    {
+     "surface": "padayoḥ",
+     "gloss": "of-two-words",
+     "grounds": "genitive dual of pada",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padāntaram",
+     "gloss": "another-word",
+     "grounds": "compound of pada and antara",
+     "morph": "compound (pada+antara)"
+    }
+   ],
+   "question": "Is the only difference between the two readings a transposition of two words, or is another word involved?",
+   "premises": [
+    "Only transposition of two words is possible.",
+    "Another word may also be involved.",
+    "The reading remains otherwise consistent."
+   ],
+   "inference": "The verse distinguishes mere transposition from insertion of another word.",
+   "uncertainties": [
+    "Exact referent of padayoḥ and padāntaram is unclear from this excerpt."
+   ],
+   "plain_english": "It would be only a transposition of two words, but there is another word."
+  }
+ ]
+}

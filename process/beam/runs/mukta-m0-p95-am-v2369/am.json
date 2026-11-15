@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p95",
  "verse": 2369,
- "question": "What facial configuration must the umbrella-headed protrusion possess?",
+ "question": "How is worship of all gods related to supreme power?",
  "premises": [
-  "The umbrella-headed form is to be made.",
-  "It must be joined with a specific number of faces.",
-  "That number is three."
+  "worship of all gods is named",
+  "supreme power is named",
+  "thorough worship is named"
  ],
- "inference": "The umbrella-headed protrusion must be made with three faces.",
- "uncertainties": [],
- "plain_english": "The umbrella-headed form should be made joined with three faces."
+ "inference": "Worship of all gods is connected with thorough worship of supreme power.",
+ "uncertainties": [
+  "exact relation"
+ ],
+ "plain_english": "Worship of all gods is thorough worship of supreme power."
 }

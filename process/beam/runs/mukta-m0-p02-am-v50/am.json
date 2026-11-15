@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 50,
- "question": "Which adornments and bodily beauties characterize the goddess in this passage?",
+ "question": "Is the only difference between the two readings a transposition of two words, or is another word involved?",
  "premises": [
-  "The goddess wears a gem necklace.",
-  "Her neck-lotus shines like kalpa.",
-  "She is described as beautiful."
+  "Only transposition of two words is possible.",
+  "Another word may also be involved.",
+  "The reading remains otherwise consistent."
  ],
- "inference": "The verse presents the goddess as adorned with a gem necklace and beautiful in her shining neck-lotus.",
+ "inference": "The verse distinguishes mere transposition from insertion of another word.",
  "uncertainties": [
-  "The exact noun modified by these adjectives is not explicit in the supplied tokens."
+  "Exact referent of padayoḥ and padāntaram is unclear from this excerpt."
  ],
- "plain_english": "She wears a gem necklace and is beautiful with a neck-lotus shining like kalpa."
+ "plain_english": "It would be only a transposition of two words, but there is another word."
 }

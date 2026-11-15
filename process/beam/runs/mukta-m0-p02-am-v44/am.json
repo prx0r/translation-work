@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p02",
  "verse": 44,
- "question": "What specific ornaments and garments distinguish the practitioner's appearance?",
+ "question": "What must be known by those skilled in mantra?",
  "premises": [
-  "The practitioner wears ornaments of nine gems.",
-  "The practitioner is clothed in red garments.",
-  "These features make the practitioner shine."
+  "jñātavyaṃ means to be known",
+  "mantrakovidaiḥ means by mantra-skilled"
  ],
- "inference": "The practitioner should be adorned with nine gems and shine in red garments.",
- "uncertainties": [],
- "plain_english": "Adorned with the nine gems and shining in red garments."
+ "inference": "Something must be known by those skilled in mantra.",
+ "uncertainties": [
+  "the object to be known is implicit"
+ ],
+ "plain_english": "To be known by those skilled in mantra."
 }

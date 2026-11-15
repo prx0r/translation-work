@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p02",
  "verse": 29,
- "question": "Which upper body locations complete the sequence of placements?",
+ "question": "Who should teach the mantra according to this instruction?",
  "premises": [
-  "The sequence continues on the upper body.",
-  "It includes the ears and the brahmarandhra.",
-  "It also includes the face."
+  "budho means wise one",
+  "mantraṃ is the object",
+  "sadguroḥ means good teacher's",
+  "upadeśayet means should teach"
  ],
- "inference": "The placement sequence is completed on the ears, brahmarandhra, and face.",
- "uncertainties": [],
- "plain_english": "O Pārvatī, place them on the ears, on the brahmarandhra, and also on the face."
+ "inference": "A wise person should teach the mantra from a good teacher.",
+ "uncertainties": [
+  "exact force of the optative"
+ ],
+ "plain_english": "The wise one should teach the mantra of the good teacher."
 }

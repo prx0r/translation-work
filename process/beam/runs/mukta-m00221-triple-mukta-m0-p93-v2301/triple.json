@@ -1,0 +1,995 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2301,
+   "rows": [
+    {
+     "surface": "merumūrghni",
+     "gloss": "on-meru-peak",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "brahmaviṣṇuśivadhāmāni",
+     "gloss": "brahma-vishnu-shiva-abodes",
+     "grounds": "compound plural",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "santi",
+     "gloss": "are",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+as"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the abodes of Brahma, Vishnu, and Shiva said to be located?",
+   "premises": [
+    "Meru peak holds divine abodes",
+    "Brahma Vishnu Shiva dwell there",
+    "The statement is emphatic"
+   ],
+   "inference": "The verse places the three gods' abodes on Meru's peak.",
+   "uncertainties": [
+    "Exact compound segmentation not expanded"
+   ],
+   "plain_english": "On Meru's peak are indeed the abodes of Brahma, Vishnu, and Shiva."
+  },
+  {
+   "verse": 2302,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇitaṃ",
+     "gloss": "described",
+     "grounds": "past participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīpuraṃ",
+     "gloss": "shripura",
+     "grounds": "proper noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "pronoun",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "samīraya",
+     "gloss": "declare",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp+samīr"
+    }
+   ],
+   "question": "How is Shripura described there for the questioner?",
+   "premises": [
+    "The speaker asks for description",
+    "Shripura is the topic",
+    "The request is directed to the teacher"
+   ],
+   "inference": "The verse requests a declaration of Shripura's nature.",
+   "uncertainties": [
+    "Exact verb root parsing"
+   ],
+   "plain_english": "How is that described there? Declare Shripura to me."
+  },
+  {
+   "verse": 2303,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp+śru"
+    },
+    {
+     "surface": "kumbhajaḥ",
+     "gloss": "o-kumbhaja",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "i-will-speak",
+     "grounds": "future verb",
+     "morph": "1.sg.act-fut+vac"
+    },
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hyetaduttamam",
+     "gloss": "indeed-this-supreme",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What supreme secret is the teacher about to reveal?",
+   "premises": [
+    "The teacher commands listening",
+    "The addressee is Kumbhaja",
+    "A supreme secret will be spoken"
+   ],
+   "inference": "The verse introduces a supreme secret teaching.",
+   "uncertainties": [
+    "Compound internal sandhi"
+   ],
+   "plain_english": "Listen, O Kumbhaja; I will speak this supreme secret."
+  },
+  {
+   "verse": 2304,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrītripurāṃ",
+     "gloss": "shri-tripura-shakti",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "shakti",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "samupāsate",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+samupās"
+    }
+   ],
+   "question": "Who worships Shri Tripura Shakti according to rite?",
+   "premises": [
+    "Certain devotees are singled out",
+    "They worship Shakti ritually",
+    "The worship is prescribed"
+   ],
+   "inference": "The verse identifies ritual worshippers of Tripura Shakti.",
+   "uncertainties": [
+    "Relative clause continuation"
+   ],
+   "plain_english": "But those who worship Shri Tripura Shakti by rite."
+  },
+  {
+   "verse": 2305,
+   "rows": [
+    {
+     "surface": "tatte",
+     "gloss": "to-them",
+     "grounds": "dative",
+     "morph": "dat.pl"
+    },
+    {
+     "surface": "māhātmyasaṃśrutyā",
+     "gloss": "greatness-hearing",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "bhaktirhṛdi",
+     "gloss": "devotion",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "samudgatā",
+     "gloss": "arisen",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How does devotion arise in the hearts of those devotees?",
+   "premises": [
+    "Devotion arises in the heart",
+    "It comes through hearing greatness",
+    "The devotees are the recipients"
+   ],
+   "inference": "Hearing the goddess's greatness awakens devotion.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "To them, through hearing her greatness, devotion arises in the heart."
+  },
+  {
+   "verse": 2306,
+   "rows": [
+    {
+     "surface": "prāpte",
+     "gloss": "obtained",
+     "grounds": "locative participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ratnākare",
+     "gloss": "jewel-mine",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yadvat",
+     "gloss": "as",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavenno",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+bhū"
+    },
+    {
+     "surface": "ratnavāñcitā",
+     "gloss": "jewel-desiring",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What analogy illustrates desire after obtaining the goddess?",
+   "premises": [
+    "A jewel mine is obtained",
+    "Desire for jewels ceases",
+    "The analogy concerns spiritual attainment"
+   ],
+   "inference": "The verse compares spiritual fulfillment to finding a jewel mine.",
+   "uncertainties": [
+    "Sandhi in bhavenno"
+   ],
+   "plain_english": "As one who has obtained a jewel mine would no longer desire jewels."
+  },
+  {
+   "verse": 2307,
+   "rows": [
+    {
+     "surface": "tasyā",
+     "gloss": "of-her",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "abs+samādā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upāsya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs+upās"
+    },
+    {
+     "surface": "vidhivatparām",
+     "gloss": "according-to-rite-supreme",
+     "grounds": "compound",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What must one take and perform after obtaining her initiation?",
+   "premises": [
+    "Her initiation is taken",
+    "Supreme worship follows",
+    "The rite is prescribed"
+   ],
+   "inference": "The verse prescribes initiation and supreme worship.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "Having taken her initiation and worshipped the supreme according to rite."
+  },
+  {
+   "verse": 2308,
+   "rows": [
+    {
+     "surface": "etatte",
+     "gloss": "this-to-you",
+     "grounds": "pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kumbhaja",
+     "gloss": "o-kumbhaja",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "lalitāyā",
+     "gloss": "of-lalita",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "mahādbhutam",
+     "gloss": "great-wonder",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What great wonder of Lalita has been spoken to Kumbhaja?",
+   "premises": [
+    "The teaching is addressed to Kumbhaja",
+    "It concerns Lalita",
+    "It is called a great wonder"
+   ],
+   "inference": "The verse concludes the teaching on Lalita's wonder.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "This great wonder of Lalita has been spoken to you, O Kumbhaja."
+  },
+  {
+   "verse": 2309,
+   "rows": [
+    {
+     "surface": "kalau",
+     "gloss": "in-kali",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "malīmasahṛdāṃ",
+     "gloss": "impure-hearted",
+     "grounds": "genitive compound",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "janānāṃ",
+     "gloss": "of-people",
+     "grounds": "genitive",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "durdhiyāmidam",
+     "gloss": "evil-minded",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Why is this teaching especially needed in the Kali age?",
+   "premises": [
+    "Kali age people are impure-hearted",
+    "They are evil-minded",
+    "The teaching addresses them"
+   ],
+   "inference": "The verse stresses the need for this teaching in Kali age.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "In Kali age, for impure-hearted and evil-minded people."
+  },
+  {
+   "verse": 2310,
+   "rows": [
+    {
+     "surface": "vaidikaiḥ",
+     "gloss": "by-vedic",
+     "grounds": "instrumental",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "karmabhirbhūyo",
+     "gloss": "rites",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirāśīrbhiḥ",
+     "gloss": "hopeless",
+     "grounds": "instrumental",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "kṛtairvavet",
+     "gloss": "done",
+     "grounds": "participle",
+     "morph": "inst.pl.n"
+    }
+   ],
+   "question": "Why are Vedic rites alone insufficient for such people?",
+   "premises": [
+    "Vedic rites are performed",
+    "They leave people hopeless",
+    "Repeated rites do not suffice"
+   ],
+   "inference": "The verse criticizes mere Vedic rites without higher worship.",
+   "uncertainties": [
+    "Sandhi and verb form"
+   ],
+   "plain_english": "By Vedic rites, again and again done, they remain hopeless."
+  },
+  {
+   "verse": 2311,
+   "rows": [
+    {
+     "surface": "viṣṇau",
+     "gloss": "in-vishnu",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-shiva",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śaktiṣu",
+     "gloss": "in-shaktis",
+     "grounds": "locative",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvānte",
+     "gloss": "all-end",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "paripākataḥ",
+     "gloss": "maturity",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "In whom does maturity culminate beyond Vishnu, Shiva, and Shaktis?",
+   "premises": [
+    "Vishnu Shiva and Shaktis are stages",
+    "Maturity develops through them",
+    "The end is beyond all"
+   ],
+   "inference": "The verse points to a final maturity beyond these deities.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "In Vishnu, Shiva, and Shaktis, and at the end, through maturity."
+  },
+  {
+   "verse": 2312,
+   "rows": [
+    {
+     "surface": "etadārādhanenaiva",
+     "gloss": "by-this-worship",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "viditvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "abs+vid"
+    },
+    {
+     "surface": "svā'tmarūpīm",
+     "gloss": "own-self-form",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What is known through this worship?",
+   "premises": [
+    "This worship is the means",
+    "Knowledge follows worship",
+    "The known is one's own self-form"
+   ],
+   "inference": "The verse says this worship reveals one's own self-form.",
+   "uncertainties": [
+    "Sandhi in svā'tmarūpīm"
+   ],
+   "plain_english": "By this worship alone, having known one's own self-form."
+  },
+  {
+   "verse": 2313,
+   "rows": [
+    {
+     "surface": "abhivyaktaparaiśvaryo",
+     "gloss": "manifest-supreme-lordship",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punarbhavamṛcchati",
+     "gloss": "again-birth",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+punarbhava"
+    }
+   ],
+   "question": "What result follows from manifest supreme lordship?",
+   "premises": [
+    "Supreme lordship becomes manifest",
+    "Rebirth is avoided",
+    "The liberated one does not return"
+   ],
+   "inference": "Manifest lordship ends rebirth.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "With manifest supreme lordship, one does not attain rebirth."
+  },
+  {
+   "verse": 2314,
+   "rows": [
+    {
+     "surface": "śravaṇaṃ",
+     "gloss": "hearing",
+     "grounds": "nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śrīparāśaktimāhātmyavibhavonnateḥ",
+     "gloss": "shri-para-shakti",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.f"
+    }
+   ],
+   "question": "What is the greatness of hearing Shri Para Shakti's glory?",
+   "premises": [
+    "Hearing is praised",
+    "Para Shakti's glory is vast",
+    "The verse extols audition"
+   ],
+   "inference": "The verse praises hearing the supreme Shakti's glory.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "Hearing the glory and greatness of Shri Para Shakti."
+  },
+  {
+   "verse": 2315,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pāpapraśamanaṃ",
+     "gloss": "sin-removing",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvābhīṣṭaphalāvaham",
+     "gloss": "all-desired-fruit-giving",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What benefits does this teaching bring?",
+   "premises": [
+    "This teaching removes sin",
+    "It gives all desired fruits",
+    "It is beneficial"
+   ],
+   "inference": "The verse states the teaching removes sin and grants desires.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "This is sin-removing and gives all desired fruits."
+  },
+  {
+   "verse": 2316,
+   "rows": [
+    {
+     "surface": "ityuktvā",
+     "gloss": "thus-saying",
+     "grounds": "absolutive",
+     "morph": "abs+vac"
+    },
+    {
+     "surface": "kumbhajamunipūjito'śvānano",
+     "gloss": "kumbhaja-muni-worshipped",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhṛśam",
+     "gloss": "greatly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How did the muni respond after the teaching?",
+   "premises": [
+    "The teacher finished speaking",
+    "Kumbhaja muni worshipped him",
+    "The worship was intense"
+   ],
+   "inference": "The verse describes Kumbhaja's grateful worship.",
+   "uncertainties": [
+    "Sandhi in pūjito'śvānano"
+   ],
+   "plain_english": "Thus saying, the Kumbhaja muni, greatly worshipped, [responded]."
+  },
+  {
+   "verse": 2317,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "told",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "rāma",
+     "gloss": "rama",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "lalitāyāḥ",
+     "gloss": "of-lalita",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "kathā",
+     "gloss": "story",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What auspicious story of Lalita has been told to Rama?",
+   "premises": [
+    "The story is told to Rama",
+    "It concerns Lalita",
+    "It is auspicious"
+   ],
+   "inference": "The verse concludes the Lalita narrative.",
+   "uncertainties": [
+    "None significant"
+   ],
+   "plain_english": "Thus, O Rama, the auspicious story of Lalita has been told to you."
+  },
+  {
+   "verse": 2318,
+   "rows": [
+    {
+     "surface": "śrīlalitābhiṣekavarṇanaṃ",
+     "gloss": "shri-lalita-abhisheka-description",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nāmāṣṭasaptatitamo'dhyāyaḥ",
+     "gloss": "named",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What chapter title is given here?",
+   "premises": [
+    "The chapter describes Lalita's abhisheka",
+    "It is named accordingly",
+    "This is a colophon"
+   ],
+   "inference": "The verse names the chapter on Lalita's abhisheka.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "The chapter named 'Description of Shri Lalita's Abhisheka'."
+  },
+  {
+   "verse": 2319,
+   "rows": [
+    {
+     "surface": "jamadagnisutaḥ",
+     "gloss": "jamadagni-son",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śrutvā",
+     "gloss": "having-heard",
+     "grounds": "absolutive",
+     "morph": "abs+śru"
+    },
+    {
+     "surface": "harṣā'mṛtāniṣecitaḥ",
+     "gloss": "joy-nectar",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How did Jamadagni's son react upon hearing?",
+   "premises": [
+    "Jamadagni's son heard",
+    "He was drenched in joy-nectar",
+    "The reaction is ecstatic"
+   ],
+   "inference": "The verse describes ecstatic reception of the teaching.",
+   "uncertainties": [
+    "Sandhi in harṣā'mṛtāniṣecitaḥ"
+   ],
+   "plain_english": "Jamadagni's son, having heard, was drenched in the nectar of joy."
+  },
+  {
+   "verse": 2320,
+   "rows": [
+    {
+     "surface": "nirantarasravaddharṣanetravāripariplutaḥ",
+     "gloss": "continuously-flowing-joy",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What physical sign shows his overwhelming joy?",
+   "premises": [
+    "Joy flows continuously",
+    "Tears stream from the eyes",
+    "He is overwhelmed"
+   ],
+   "inference": "The verse depicts tears of joy flooding him.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "Overwhelmed by continuously flowing tears of joy from his eyes."
+  },
+  {
+   "verse": 2321,
+   "rows": [
+    {
+     "surface": "babhāṣe",
+     "gloss": "spoke",
+     "grounds": "verb",
+     "morph": "3.sg.act-aor+bhāṣ"
+    },
+    {
+     "surface": "gadgadaśrutyā",
+     "gloss": "stammering-voice",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viracitā'ñjaliḥ",
+     "gloss": "made",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How did he speak in response?",
+   "premises": [
+    "He spoke with stammering voice",
+    "He made anjali again",
+    "The response is devotional"
+   ],
+   "inference": "The verse shows his emotional devotional speech.",
+   "uncertainties": [
+    "Sandhi in viracitā'ñjaliḥ"
+   ],
+   "plain_english": "He spoke with a stammering voice, again making anjali."
+  },
+  {
+   "verse": 2322,
+   "rows": [
+    {
+     "surface": "parākathātīrthavāridhārānivahasecanaiḥ",
+     "gloss": "para-katha-tirtha-ocean-streams",
+     "grounds": "compound",
+     "morph": "inst.pl.n"
+    }
+   ],
+   "question": "What metaphor describes the streams of supreme teaching?",
+   "premises": [
+    "Supreme teaching is like tirtha",
+    "Ocean streams pour forth",
+    "The metaphor is abundant"
+   ],
+   "inference": "The verse likens the teaching to sacred streams.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "By streams of the ocean of supreme teaching-tirtha."
+  },
+  {
+   "verse": 2323,
+   "rows": [
+    {
+     "surface": "namaste",
+     "gloss": "salutation",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śrīguro",
+     "gloss": "shri-guru",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "lord",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "duḥkhadhvāntadinādhipa",
+     "gloss": "darkness-dispeller",
+     "grounds": "compound",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "To whom is salutation offered as dispeller of darkness?",
+   "premises": [
+    "Salutation is offered",
+    "The guru is lord",
+    "He dispels darkness of suffering"
+   ],
+   "inference": "The verse salutes the guru as darkness-dispeller.",
+   "uncertainties": [
+    "Compound segmentation"
+   ],
+   "plain_english": "Salutation to you, O Shri Guru, lord, dispeller of the darkness of suffering."
+  },
+  {
+   "verse": 2324,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "mārga",
+     "gloss": "path",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "niradiśadandhasya",
+     "gloss": "showed",
+     "grounds": "verb compound",
+     "morph": "3.sg.act-aor+nirdiś"
+    },
+    {
+     "surface": "andhasya",
+     "gloss": "blind",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "bhramato",
+     "gloss": "wandering",
+     "grounds": "genitive participle",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What did the guru show to the blind wanderer?",
+   "premises": [
+    "The speaker was blind and wandering",
+    "The guru showed the path",
+    "The path is the remedy"
+   ],
+   "inference": "The verse thanks the guru for showing the path.",
+   "uncertainties": [
+    "Sandhi in niradiśadandhasya"
+   ],
+   "plain_english": "Who showed the path to me, blind and wandering, as [one shows to the blind]."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 35,
- "question": "Which principle is identified with the letter ha alone?",
+ "question": "What primacy is asserted between those and these?",
  "premises": [
-  "The letter ha is the subject.",
-  "It is addressed in teaching to the supreme goddess.",
-  "It is said to be Śiva alone."
+  "tayoḥ means of those",
+  "prādhānyam means primacy",
+  "etayoḥ means of these"
  ],
- "inference": "The letter ha is identified exclusively with Śiva.",
- "uncertainties": [],
- "plain_english": "O supreme Goddess, the letter ha is called Śiva alone."
+ "inference": "The verse asserts primacy between two referenced pairs.",
+ "uncertainties": [
+  "which two pairs are referenced"
+ ],
+ "plain_english": "Of those, primacy, of these."
 }

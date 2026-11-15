@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p95",
  "verse": 2373,
- "question": "What sequence of teaching and knowledge is announced to the brahmin?",
+ "question": "Where and when would a sun devoid of radiance-power shine?",
  "premises": [
-  "Something will be spoken first to the brahmin.",
-  "The scope concerns all.",
-  "Then they know."
+  "sun is devoid of radiance-power",
+  "where is asked",
+  "when is asked",
+  "shine is denied"
  ],
- "inference": "The text announces that something will be spoken first, and then all will know.",
+ "inference": "A sun devoid of radiance-power would not shine anywhere or anytime.",
  "uncertainties": [
-  "The referent of sakalānāṃ and the subject of viduḥ are unclear without further context."
+  "rhetorical question"
  ],
- "plain_english": "O brahmin, it will be spoken first, and then they know of all."
+ "plain_english": "Where and when would a sun devoid of radiance-power shine?"
 }

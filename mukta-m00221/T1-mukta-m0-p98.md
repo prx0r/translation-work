@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p98-v2426
-gift(dakṣiṇā) + betel(tāmbūla) + lamp(dīpa) + obeisance(praṇāma) + alternations(parivartanaiḥ)
+[dakṣiṇā-offering](dakṣiṇā) [tāmbūla-betel](tāmbūla) [dīpa-lamp](dīpa) [praṇāma-bow](praṇāma) [parivartanaiḥ-with-changes](parivartanaiḥ)
 
 ## mukta-m0-p98-v2427
-thousand(sahasra) + beginning-with(ādyaiḥ) + with-names(nāmabhiḥ) + but(tu) + who(yaḥ) + in-circle(cakrādau) + should-worship(prapūjayet)
+[sahasra-thousand](sahasra) [ādyaiḥ-beginning](ādyaiḥ) [nāmabhiḥ-names](nāmabhiḥ) [tu-indeed](tu) [yaḥ-who](yaḥ) [cakra-wheel](cakra) [ādau-at-beginning](ādau) [prapūjayet-worships](prapūjayet)
 
 ## mukta-m0-p98-v2428
-is-liberated(mucyate) + not(na) + is(asti) + doubt(sandehaḥ) + thus(iti) + said(āha) + lord(bhagavān) + Śiva(śivaḥ)
+[mucyate-liberated](mucyate) [na-not](na) [asti-is](asti) [sandeha-doubt](sandeha) [iti-thus](iti) [āha-said](āha) [bhagavān-lord](bhagavān) [śivaḥ-śiva](śivaḥ)
 
 ## mukta-m0-p98-v2429
-on-special(special) + occasions(parvasu) + likewise(tathā) + on-Friday(śukravāre) + also(api) + or(vā) + one-should-begin(ārabhet)
+[viśeṣa-special](viśeṣa) [parvasu-festivals](parvasu) [tathā-so](tathā) [śukra-vāre-friday](śukravāre) [api-also](api) [vā-or](vā) [ārabhet-begin](ārabhet)
 
 ## mukta-m0-p98-v2430
-then(tataḥ) + having-worshipped(sampūjya) + according-to-rule(vidhinā) + and(ca) + until-repetition(āvṛtyantam) + the-great-goddess(maheśvarīm)
+[tataḥ-then](tataḥ) [sampūjya-having-worshipped](sampūjya) [vidhinā-according-to-rite](vidhinā) [ca-and](ca) [āvṛtya-surrounding](āvṛtya) [antaṃ-end](antaṃ) [maheśvarīm-great-goddess](maheśvarīm)
 
 ## mukta-m0-p98-v2431
-there(tatra) + of-flower(puṣpa) + offering(upacārasya) + in-place(sthāne) + worship(pūjām) + one-should-perform(samācaret)
+[tatra-there](tatra) [puṣpa-flower](puṣpa) [upacārasya-service](upacārasya) [sthāne-place](sthāne) [pūjāṃ-worship](pūjāṃ) [samācaret-perform](samācaret)
 
 ## mukta-m0-p98-v2432
-one-should-complete(samāpayet) + properly(yathāvat) + that(tat) + every-day(pratyaham) + and(ca) + thus(evam) + one-should-worship(arcayet)
+[samāpayet-complete](samāpayet) [yathāvat-properly](yathāvat) [pratyaham-daily](pratyaham) [ca-and](ca) [evam-thus](evam) [arcayet-worship](arcayet)
 
 ## mukta-m0-p98-v2433
-of-one(eka) + kind(jātīyakaiḥ) + with-flowers(puṣpaiḥ) + where(yatra) + indeed(eva) + one-should-worship(pūjayet) + the-supreme(parām)
+[eka-one](eka) [jātīyakaiḥ-of-same-kind](jātīyakaiḥ) [puṣpaiḥ-flowers](puṣpaiḥ) [yatra-where](yatra) [eva-indeed](eva) [pūjayet-worship](pūjayet) [parām-supreme](parām)
 
 ## mukta-m0-p98-v2434
-at-end(ante) + but(tu) + in-sarvatobhadra(sarvatobhadre) + with-nine(nava) + triangles(yoni) + endowed(samāyute)
+[ante-at-end](ante) [tu-but](tu) [sarvatobhadre-all-auspicious](sarvatobhadre) [nava-nine](nava) [yoni-womb](yoni) [samāyute-endowed](samāyute)
 
 ## mukta-m0-p98-v2435
-decorated(alaṅkṛtam) + with-thread(sūtra) + cloths(vastraiḥ) + in-middle(madhye) + on-rice(taṇḍula) + heap(puñjake)
+[alaṅkṛtaṃ-decorated](alaṅkṛtaṃ) [sūtra-thread](sūtra) [vastraiḥ-cloths](vastraiḥ) [madhye-middle](madhye) [taṇḍula-rice](taṇḍula) [puñjake-heap](puñjake)
 
 ## mukta-m0-p98-v2436
-that(tam) + with-eight(aṣṭa) + fragrant(gandha) + water(toyena) + one-should-fill(pūrayet) + five(pañca) + jeweled(ratnakam)
+[tam-that](tam) [aṣṭagandha-eight-sandal](aṣṭagandha) [toyena-water](toyena) [pūrayet-fill](pūrayet) [pañca-five](pañca) [ratnakam-jewel](ratnakam)
 
 ## mukta-m0-p98-v2437
-with-rice(sa) + grains(taṇḍulam) + fruit(phalam) + full(pūrṇam) + vessel(pātram) + and(ca) + also(api) + on-mouth(mukhe) + one-should-place(nyaset)
+[sa-with](sa) [taṇḍulaṃ-rice](taṇḍulaṃ) [phalaṃ-fruit](phalaṃ) [pūrṇa-full](pūrṇa) [pātraṃ-vessel](pātraṃ) [ca-and](ca) [api-also](api) [mukhe-mouth](mukhe) [nyaset-place](nyaset)
 
 ## mukta-m0-p98-v2438
-having-placed(vinyasya) + in-it(tasyām) + having-invoked(āvāhya) + worship(pūjanam) + but(tu) + one-should-perform(samācaret)
+[vinyasya-placing](vinyasya) [tasyām-there](tasyām) [āvāhya-invoking](āvāhya) [pūjanam-worship](pūjanam) [tu-indeed](tu) [samācaret-perform](samācaret)
 
 ## mukta-m0-p98-v2439
-in-ten(daśa) + directions(dikṣu) + and(ca) + direction-guardians(dikpālān) + in-chains(śṛṅkhalāsu) + in-four(caturṣu) + and(ca)
+[daśa-ten](daśa) [dikṣu-directions](dikṣu) [ca-and](ca) [dikpālān-guardians](dikpālān) [śṛṅkhalāsu-chains](śṛṅkhalāsu) [caturṣu-four](caturṣu) [ca-and](ca)
 
 ## mukta-m0-p98-v2440
-in-red(rakta) + half(ardha) + mansion(bhavane) + from-east(pūrvāt) + in-clockwise-direction(prādakṣiṇyena) + one-should-worship(pūjayet)
+[rakta-red](rakta) [ardha-half](ardha) [bhavane-house](bhavane) [pūrvāt-east](pūrvāt) [prādakṣiṇyena-clockwise](prādakṣiṇyena) [pūjayet-worship](pūjayet)
 
 ## mukta-m0-p98-v2441
-thus(evam) + having-worshipped(sampūjya) + in-vessel(kalaśe) + seat(pīṭha) + worship(pūjana) + preceded-by(pūrvakam)
+[evaṃ-thus](evaṃ) [sampūjya-having-worshipped](sampūjya) [kalaśe-pot](kalaśe) [pīṭha-seat](pīṭha) [pūjana-worship](pūjana) [pūrvakam-preceded-by](pūrvakam)
 
 ## mukta-m0-p98-v2442
-each(tat) + that(tat) + flower(puṣpa) + etc.(ādikam) + gold(svarṇa) + born(bhavam) + or(vā) + silver(rajata) + born(udbhavam)
+[tat-that](tat) [tat-that](tat) [puṣpa-flower](puṣpa) [ādikaṃ-etc](ādikaṃ) [svarṇa-gold](svarṇa) [bhavaṃ-born](bhavaṃ) [vā-or](vā) [rajata-silver](rajata) [udbhavam-produced](udbhavam)
 
 ## mukta-m0-p98-v2443
-its-half(tadardham) + quarter(pādam) + also(api) + or(vā) + having-made(kṛtvā) + that(tat) + nine(nava) + in-number(saṅkhyakam)
+[tad-that](tad) [ardha-half](ardha) [pādam-foot](pādam) [api-also](api) [vā-or](vā) [kṛtvā-having-made](kṛtvā) [tat-that](tat) [nava-nine](nava) [saṅkhyakam-numbered](saṅkhyakam)
 
 ## mukta-m0-p98-v2444
-in-middle(madhye) + and(ca) + Tripurā(tripurām) + at-night(rātrau) + one-should-worship(pūjayet) + circle(cakra) + lord(nāyakam)
+[madhye-middle](madhye) [ca-and](ca) [tripurām-tripura](tripurām) [rātrau-night](rātrau) [pūjayet-worship](pūjayet) [cakra-wheel](cakra) [nāyakam-leader](nāyakam)
 
 ## mukta-m0-p98-v2445
-oneself(svayam) + or(vā) + one-should-worship(pūjayet) + by-teacher(ācāryeṇa) + or(vā) + by-ritual-order(krama) + knower(vedinā)
+[svayaṃ-oneself](svayaṃ) [vā-or](vā) [pūjayet-worship](pūjayet) [ācāryeṇa-by-teacher](ācāryeṇa) [vā-or](vā) [krama-rite](krama) [vedinā-knowing](vedinā)
 
 ## mukta-m0-p98-v2446
-teacher(gurum) + married-woman(suvāsinīm) + and(ca) + also(api) + brahmins(brāhmaṇān) + etc.(ādīn) + also(api) + in-order(kramāt)
+[guruṃ-teacher](guruṃ) [suvāsinīm-married-woman](suvāsinīm) [ca-and](ca) [api-also](api) [brāhmaṇān-priests](brāhmaṇān) [ādīn-etc](ādīn) [api-also](api) [kramāt-in-order](kramāt)
 
 ## mukta-m0-p98-v2447
-with-stories(kathābhiḥ) + with-songs(gāyanaiḥ) + with-dances(nṛtyaiḥ) + one-should-perform(kuryāt) + vigil(jāgaraṇam) + at-night(niśi)
+[kathābhiḥ-stories](kathābhiḥ) [gāyanaiḥ-singers](gāyanaiḥ) [nṛtyaiḥ-dances](nṛtyaiḥ) [kuryāt-do](kuryāt) [jāgaraṇam-wakefulness](jāgaraṇam) [niśi-night](niśi)
 
 ## mukta-m0-p98-v2448
-worship(pūjā) + limb(aṅga) + from-oblation(homataḥ) + afterwards(paścāt) + fire(agnim) + having-established(saṃsādhya) + according-to-scripture(śāstrataḥ)
+[pūjā-āṅga-rite-limb](pūjāṅga) [homataḥ-from-offering](homataḥ) [paścāt-after](paścāt) [agnim-fire](agnim) [saṃsādhya-accomplishing](saṃsādhya) [śāstrataḥ-according-to-scripture](śāstrataḥ)
 
 ## mukta-m0-p98-v2449
-worship(pūjām) + having-completed(samāpya) + and(ca) + having-lifted(uddhāsya) + vessel(kalaśam) + with-cloth(vastra) + joined(saṃyutam)
+[pūjāṃ-worship](pūjāṃ) [samāpya-completing](samāpya) [ca-and](ca) [uddhāsya-lifting](uddhāsya) [kalaśaṃ-pot](kalaśaṃ) [vastra-cloth](vastra) [saṃyutam-joined](saṃyutam)
 
 ## mukta-m0-p98-v2450
-of-brahmins(brāhmaṇānām) + group-of-sixteen(ṣoḍaśakam) + married-women(suvāsinī) + group-of-eight(aṣṭakam) + likewise(tathā)
+[brāhmaṇānām-of-brahmins](brāhmaṇānām) [ṣoḍaśakam-sixteen](ṣoḍaśakam) [suvāsinī-women](suvāsinī) [aṣṭakam-eight](aṣṭakam) [tathā-so](tathā)

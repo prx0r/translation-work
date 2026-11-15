@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p02",
  "verse": 26,
- "question": "What ritual actions complete the placement after the pervasive phase?",
+ "question": "Which named mantra traditions are listed among the variants in this enumeration?",
  "premises": [
-  "The action occurs at the end of the pervasive phase.",
-  "The yoni-mudrā is placed at the mouth.",
-  "Salutation accompanies the placement."
+  "nāradīya is named",
+  "māṇḍavya is named",
+  "śāṇḍilya is named",
+  "raiṇuka is named"
  ],
- "inference": "The rite concludes the pervasive phase by placing the yoni-mudrā at the mouth and offering salutation.",
- "uncertainties": [],
- "plain_english": "At the end of the pervasive phase, place the yoni-mudrā at the mouth and offer salutation."
+ "inference": "The verse enumerates several named mantra traditions as variants.",
+ "uncertainties": [
+  "exact grammatical case of the listed names"
+ ],
+ "plain_english": "Nāradīya, Māṇḍavya, Śāṇḍilya, and Raiṇuka, likewise."
 }
