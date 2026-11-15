@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2045,
- "question": "What marking should be made at the corners using half of this measure?",
+ "question": "By what measure is the inner square's corner determined?",
  "premises": [
-  "A measure has been established",
-  "Half of that measure is used",
-  "Marks are to be made at the corners"
+  "The inner square is referenced",
+  "Corner half-half measure applies",
+  "This sets its measure"
  ],
- "inference": "Using half of this measure, one should make marks at the corners",
- "uncertainties": [],
- "plain_english": "Using half of this measure, one should make a mark at the corners."
+ "inference": "The inner square's corner is set by half-half measure",
+ "uncertainties": [
+  "Exact placement unspecified"
+ ],
+ "plain_english": "By corner half-half measure of the inner square."
 }

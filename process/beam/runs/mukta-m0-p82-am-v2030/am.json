@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2030,
- "question": "What nature is declared for that form when it is understood in reverse?",
+ "question": "Which fire-pit shapes are named in this instruction?",
  "premises": [
-  "The form can be taken in reverse",
-  "A nature is declared for it",
-  "That nature combines dissolution and stability"
+  "Six-cornered is named",
+  "Lotus-shaped is named",
+  "Eight-cornered is named"
  ],
- "inference": "By reversal, that form is declared to have the nature of dissolution and stability",
- "uncertainties": [],
- "plain_english": "By reversal, that is declared to have the nature of dissolution and stability."
+ "inference": "Named shapes include six-cornered, lotus-shaped, and eight-cornered",
+ "uncertainties": [
+  "Whether all are kuṇḍa types"
+ ],
+ "plain_english": "Six-cornered, lotus-shaped, and eight-cornered are named."
 }

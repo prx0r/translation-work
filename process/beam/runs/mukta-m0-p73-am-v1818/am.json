@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1818,
- "question": "How is the remainder of the four-storied design to be completed?",
+ "question": "What multipliers are assigned to putrajīva and conch materials?",
  "premises": [
-  "The remainder is stated as before.",
-  "This four-storied design is described as supreme."
+  "putrajīvair is instrumental",
+  "daśaguṇaṃ śataṃ is tenfold hundred",
+  "śaṅkhaiḥ is instrumental",
+  "sahasrakam is thousand"
  ],
- "inference": "The remaining details of the four-storied design follow the previous prescriptions.",
- "uncertainties": [],
- "plain_english": "The remainder is as stated before; this four-storied structure is supreme."
+ "inference": "Putrajīva gives tenfold hundred and conchs give thousand.",
+ "uncertainties": [
+  "exact base quantity implied"
+ ],
+ "plain_english": "With putrajīva, tenfold hundred; with conchs, thousand."
 }

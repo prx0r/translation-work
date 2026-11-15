@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "dative singular of guru",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "gift",
+     "grounds": "accusative singular feminine of dakṣiṇā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadyāttathā",
+     "gloss": "should-give-then",
+     "grounds": "fused form: dadyāt (should give) plus tathā (then)",
+     "morph": "3.sg.act.opt + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilpine",
+     "gloss": "to-artisan",
+     "grounds": "dative singular of śilpin",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What gifts must be given to guru and artisan after worship and bali?",
+   "premises": [
+    "Guru receives dakshina after worship.",
+    "Artisan receives gift then.",
+    "Ritual sequence includes bali."
+   ],
+   "inference": "The verse prescribes post-worship gifts to guru and artisan in sequence.",
+   "uncertainties": [
+    "dadyāttathā fusion may include tathā; exact scope of gift unspecified."
+   ],
+   "plain_english": "One should give the gift to the guru, and then to the artisan."
+  }
+ ]
+}

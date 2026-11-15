@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p124-v3076
-[highest](uttamaṃ) [threefold](triguṇaṃ) [declared](proktaṃ) [of-teacher](ācāryasya) [but](tu) [fee](dakṣiṇā)
+[uttamam-highest](uttamaṃ) [triguṇam-threefold](triguṇaṃ) [proktam-declared](proktaṃ) [ācāryasya-of-teacher](ācāryasya) [tu-and](tu) [dakṣiṇā-fee](dakṣiṇā)
 
 ## mukta-m0-p124-v3077
-[half](tadardhaṃ) [fee](dakṣiṇā) [auspicious](śubhe) [of-stotra-etc](stotrādadhvayīnādīnāṃ)
+[stotrādadhvayīnādīnāṃ-of-stotra-and-adhvayīna-etc](stotrādadhvayīnādīnāṃ) [tadardham-half](tadardhaṃ) [dakṣiṇā-fee](dakṣiṇā) [śubhe-auspicious](śubhe)
 
 ## mukta-m0-p124-v3078
-[of-lotus](padmasya) [east-direction](pūrvadigbhāge) [veda-corner](vedāśraṃ) [kunda](kuṇḍam) [called](ucyate)
+[padmasya-of-lotus](padmasya) [pūrvadigbhāge-eastern-direction](pūrvadigbhāge) [vedāśraṃ-veda-corner](vedāśraṃ) [kuṇḍamucyate-kunda-is-called](kuṇḍamucyate)
 
 ## mukta-m0-p124-v3079
-[with-pavamana](pavamānena) [sprinkling](saṃprokṣya) [pure](śuddhaiḥ) [raised](utthai) [then](tato) [firm](druvat)
+[pavamānena-with-purifier](pavamānena) [saṃprokṣya-sprinkling](saṃprokṣya) [śuddhaiḥ-pure](śuddhairutthai) [tato-then](tato) [druvat-firm](druvat)
 
 ## mukta-m0-p124-v3080
-[sandals](pādukau) [place](vinyasen) [middle](madhye) [new-cloth](navavastrasya) [upon](copari)
+[pādukau-sandals](pādukau) [vinyasen-place](vinyasenmadhye) [madhye-middle](madhye) [navavastrasya-of-new-cloth](navavastrasya) [copari-upon](copari)
 
 ## mukta-m0-p124-v3081
-[element-group-end](bhūtavargānta) [groups](vargeṣu) [fire](agniṃ) [join](saṃyojayet) [then](tataḥ)
+[bhūtavargānta-vargeṣu-element-groups-end](bhūtavargānta) [vargeṣu-groups](vargeṣu) [agniṃ-fire](agniṃ) [saṃyojayet-join](saṃyojayet) [tataḥ-then](tataḥ)
 
 ## mukta-m0-p124-v3082
-[shiva-vishnu-mounted](śivaviṣṇusamārūḍhaṃ) [sandal-seed](pādukābījam) [called](ucyate)
+[śivaviṣṇusamārūḍhaṃ-śiva-viṣṇu-mounted](śivaviṣṇusamārūḍhaṃ) [pādukābījamucyate-sandal-seed-is-called](pādukābījamucyate)
 
 ## mukta-m0-p124-v3083
-[shri-bhumi](śrībhūmī) [south-direction](dakṣiṇā) [diśi](diśi) [thus](tathā) [gods](devau) [declared](prakīrtitau)
+[śrībhūmī-śrī-and-bhūmī](śrībhūmī) [dakṣiṇā-diśi-southern-direction](dakṣiṇā) [tathā-so](tathā) [devau-gods](devau) [prakīrtitau-declared](prakīrtitau)
 
 ## mukta-m0-p124-v3084
-[fill](pūrayec) [purified](śuddhato) [by-which](yena) [that](sa) [kurchas](kūrcān) [lids](sāpidhānakān)
+[pūrayecchuddhato-fill-pure](pūrayecchuddhato) [yena-by-which](yena) [sa-he](sa) [kūrcānsāpidhānakān-tufts-and-lids](kūrcānsāpidhānakān)
 
 ## mukta-m0-p124-v3085
-[of-sandal-lord](pādukādīśa) [direction](digbhāge) [growth-vessel](vardhanīṃ) [place](vinyaset) [then](tataḥ)
+[pādukādīśa-digbhāge-sandal-lord-direction](pādukādīśa) [digbhāge-region](digbhāge) [vardhanīṃ-growth-vessel](vardhanīṃ) [vinyasettataḥ-place-then](vinyasettataḥ)
 
 ## mukta-m0-p124-v3086
-[manonmani](manonmanīṃ) [of-pradhana](pradhānasya) [place](vinyaset) [especially](viśeṣataḥ)
+[manonmanīṃ-manonmanī](manonmanīṃ) [pradhānasya-of-principal](pradhānasya) [vinyasettu-place](vinyasettu) [viśeṣataḥ-especially](viśeṣataḥ)
 
 ## mukta-m0-p124-v3087
-[then](tato) [homa](homaṃ) [perform](prakartavyaṃ) [with-previous-rule](pūrvoktavidhinā) [with](saha)
+[tato-then](tato) [homaṃ-homa](homaṃ) [prakartavyaṃ-perform](prakartavyaṃ) [pūrvoktavidhinā-with-previous-rite](pūrvoktavidhinā) [saha-with](saha)
 
 ## mukta-m0-p124-v3088
-[good-muhurta](sumuhūrte) [good-lagna](sulagne) [ca](ca) [growth-vessel](vardhanīṃ) [place](vinyaset) [then](tataḥ)
+[sumuhūrte-auspicious-moment](sumuhūrte) [sulagne-good-ascendant](sulagne) [ca-and](ca) [vardhanīṃ-growth-vessel](vardhanīṃ) [vinyasettataḥ-place-then](vinyasettataḥ)
 
 ## mukta-m0-p124-v3089
-[with-scent-flowers-etc](gandhapuṣpādinā) [worship](pūjya) [place](vinyasec) [shiva-mantra](śivamantrataḥ)
+[gandhapuṣpādinā-with-sandal-flowers-etc](gandhapuṣpādinā) [pūjya-worship](pūjya) [vinyasecchivamantrataḥ-place-with-śiva-mantra](vinyasecchivamantrataḥ)
 
 ## mukta-m0-p124-v3090
-[teacher](ācāryaṃ) [worship](pūjayet) [first](pūrvaṃ) [attendants](paryaṣṭi) [servants](paricārakān)
+[ācāryaṃ-teacher](ācāryaṃ) [pūjayetpūrvaṃ-worship-first](pūjayetpūrvaṃ) [paryaṣṭi-eight](paryaṣṭi) [paricārakān-attendants](paricārakān)
 
 ## mukta-m0-p124-v3091
-[daily-festival](nityotsavaṃ) [but](tu) [time](kāle) [tu](tu) [circumambulation](pradakṣiṇam) [then](athācaret)
+[nityotsavaṃ-daily-festival](nityotsavaṃ) [tu-indeed](tu) [kāle-at-time](kāle) [tu-and](tu) [pradakṣiṇamathācaret-circumambulate](pradakṣiṇamathācaret)
 
 ## mukta-m0-p124-v3092
-[brahmachari](brahmacārī) [carrying](vahitvā) [tu](tu) [sandal-worship](pādukāvarcayet) [then](tataḥ)
+[brahmacārī-celibate](brahmacārī) [vahitvā-carrying](vahitvā) [tu-and](tu) [pādukāvarcayet-worship-sandals](pādukāvarcayet) [tataḥ-then](tataḥ)
 
 ## mukta-m0-p124-v3093
-[thus](evaṃ) [who](yaḥ) [does](kurute) [mortal](martyaḥ) [shiva-world](śivalokam) [obtain](avāpnuyāt)
+[evaṃ-thus](evaṃ) [yaḥ-who](yaḥ) [kurute-does](kurute) [martyaḥ-mortal](martyaḥ) [śivalokamavāpnuyāt-attain-śiva-world](śivalokamavāpnuyāt)
 
 ## mukta-m0-p124-v3094
-[sandal-installation](pādukāsthāpanaṃ) [declared](proktaṃ) [picture-installation](citrasthāpanakaṃ) [hear](śṛṇu)
+[pādukā-sandal](pādukā) [sthāpanaṃ-proktaṃ-installation-declared](sthāpanaṃ) [citrasthāpanakaṃ-painting-installation](citrasthāpanakaṃ) [śṛṇu-hear](śṛṇu)
 
 ## mukta-m0-p124-v3095
-[thus](iti) [in-vira-tantra](vīratantre) [sandal-installation-rite](pādukāsthāpanavidhiḥ) [sixty-sixth](ṣaṣaṣṭitamaḥ) [chapter](paṭalaḥ)
+[iti-thus](iti) [vīratantre-in-vīra-tantra](vīratantre) [pādukāsthāpanavidhiḥ-sandal-installation-rite](pādukāsthāpanavidhiḥ) [ṣaṣaṣṭitamaḥ-sixty-sixth](ṣaṣaṣṭitamaḥ) [paṭalaḥ-chapter](paṭalaḥ)
 
 ## mukta-m0-p124-v3096
-[picture-consecration](citrapratiṣṭhā) [what](kiṃ) [god](deva) [speak](brūhi) [me](me) [supreme-lord](parameśvara)
+[citrapratiṣṭhā-painting-consecration](citrapratiṣṭhā) [kiṃ-what](kiṃ) [devabrūhi-me-parameśvara-god-tell-me-lord](devabrūhi) [me-me](me) [parameśvara-lord](parameśvara)
 
 ## mukta-m0-p124-v3097
-[picture](citraṃ) [ca](ca) [threefold](trividhaṃ) [known](jñeyaṃ) [their](teṣāṃ) [difference](bhedaṃ) [hear](śṛṇuṣva) [atha](atha)
+[citraṃ-painting](citraṃ) [ca-and](ca) [trividhaṃ-threefold](trividhaṃ) [jñeyaṃ-known](jñeyaṃ) [teṣāṃ-their](teṣāṃ) [bhedaṃ-difference](bhedaṃ) [śṛṇuṣvatha-hear](śṛṇuṣvatha)
 
 ## mukta-m0-p124-v3098
-[clay](mṛṇmayaṃ) [trident-joined](śūlasaṃyuktaṃ) [wall-picture](bhitticitre) [cloth](paṭe) [api](api) [vā](vā)
+[mṛṇmayaṃ-clay](mṛṇmayaṃ) [śūlasaṃyuktaṃ-with-trident](śūlasaṃyuktaṃ) [bhitticitre-wall-painting](bhitticitre) [paṭe'pi-vā-cloth-or](paṭe'pi)
 
 ## mukta-m0-p124-v3099
-[of-picture](citrasya) [near](saṃnidhau) [ca](ca) [eva](eva) [consecration-pavilion](pratiṣṭhāmaṇṭapaṃ) [make](kuru)
+[citrasya-of-painting](citrasya) [saṃnidhau-near](saṃnidhau) [caiva-and-indeed](caiva) [pratiṣṭhāmaṇṭapaṃ-consecration-pavilion](pratiṣṭhāmaṇṭapaṃ) [kuru-make](kuru)
 
 ## mukta-m0-p124-v3100
-[gem-deposit](ratnanyāsaṃ) [ca](ca) [do](kartavyaṃ) [uma-devi](umādevyā) [especially](viśeṣataḥ)
+[ratnanyāsaṃ-gem-placement](ratnanyāsaṃ) [ca-and](ca) [kartavyaṃ-to-be-done](kartavyaṃ) [umādevyā-for-umā-devī](umādevyā) [viśeṣataḥ-especially](viśeṣataḥ)

@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1820,
- "question": "How should the garland interval be determined for the first story?",
+ "question": "What counts are assigned to gold and red sandal materials?",
  "premises": [
-  "The garland interval is likewise one part.",
-  "The first story should be determined in this way."
+  "sauvarṇair is instrumental",
+  "daśakoṭiḥ is ten-crore",
+  "raktacandanaiḥ is instrumental",
+  "anantaṃ is endless"
  ],
- "inference": "For the first story, the garland interval is set at one part.",
- "uncertainties": [],
- "plain_english": "The garland interval should likewise be one part; thus one should determine the first story."
+ "inference": "Gold gives ten-crore and red sandal gives endless.",
+ "uncertainties": [
+  "exact syntactic pairing"
+ ],
+ "plain_english": "Gold gives ten-crore; red sandal gives endless."
 }

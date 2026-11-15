@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2048,
- "question": "How is the interval between the two days divided for calculation?",
+ "question": "How far from the fire-pit should auspicious girdles be made?",
  "premises": [
-  "An interval between two days is considered",
-  "Desired divisors are used",
-  "The divisors begin with four"
+  "Two fingers are abandoned",
+  "Girdles are made",
+  "They are auspicious"
  ],
- "inference": "The interval between the two days is divided by chosen numbers such as four and so on",
- "uncertainties": [],
- "plain_english": "The interval between the two days is divided by desired numbers beginning with four."
+ "inference": "Auspicious girdles are made two fingers from the fire-pit",
+ "uncertainties": [
+  "Girdle count unspecified"
+ ],
+ "plain_english": "Having left two fingers from the fire-pit, auspicious girdles should be made."
 }

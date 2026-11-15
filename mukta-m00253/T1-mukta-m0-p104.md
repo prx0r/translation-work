@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p104-v2576
-with-eight-droṇas(aṣṭadroṇena) of-rice(śālīnāṃ) its-half(tadardhaṃ) rice-grains(taṇḍulaṃ) should-be(bhavet)
+[eight-measure](aṣṭadroṇena) [of-rice](śālīnāṃ) [half](tadardhaṃ) [grain](taṇḍulaṃ) [becomes](bhavet)
 
 ## mukta-m0-p104-v2577
-sprouts(aṅkurān) having-offered(arpayitvā) and(tu) with-blazing(jvaladbhiḥ) with-lamps(dīpa+saṃyutam)
+[sprouts](aṃkurān) [having-offered](arpayitvā) [tu](tu) [blazing](jvaladbhiḥ) [lamp-joined](dīpasaṃyutam)
 
 ## mukta-m0-p104-v2578
-inferior(adhamaṃ) and(ca) in-one-twilight(eka+sandhyāyāṃ) daily(nityaṃ) with-lamp(dīpa+samāyutam)
+[lowest](adhamaṃ) [ca](ca) [one-evening](ekasandhyāyāṃ) [always](nityaṃ) [lamp-joined](dīpasamāyutam)
 
 ## mukta-m0-p104-v2579
-thus(evaṃ) for-seven-days(sapta+dinaṃ) one-should-do(kuryāt) at-night(rātrau) and(ca) indeed(eva) one-should-consecrate(adhivāsayet)
+[thus](evaṃ) [seven-days](saptadinaṃ) [should-do](kuryād) [at-night](rātrau) [ca](ca) [eva](eva) [consecrate](adhivāsayet)
 
 ## mukta-m0-p104-v2580
-with-sixteen-pillars(ṣoḍaśa+stambha+saṃyuktaṃ) with-four-doors(catur+dvāra) endowed-with(samanvitam)
+[sixteen-pillars-joined](ṣoḍaśastambhasaṃyuktaṃ) [four-gates](caturdvāra) [endowed](samanvitam)
 
 ## mukta-m0-p104-v2581
-Umā(umā) Maheśa-pot(maheśa+kumbhaṃ) and(tu) root-image(mūla+bimbaṃ) and(tu) one-should-worship(pūjayet)
+[umā](umā) [maheśa-pot](maheśakumbhaṃ) [tu](tu) [root-image](mūla+bimbaṃ) [tu](tu) [worship](pūjayet)
 
 ## mukta-m0-p104-v2582
-altar(sthaṇḍilaṃ) and(tu) above-that(tad+ūrdhve) and(tu) pot(kuṃbhaṃ) and(ca) indeed(eva) and(tu) one-should-place(vinyaset)
+[altar](sthaṇḍilaṃ) [tu](tu) [above-that](tadūrdhve) [tu](tu) [pot](kuṃbhaṃ) [ca](ca) [eva](eva) [tu](tu) [place](vinyaset)
 
 ## mukta-m0-p104-v2583
-vetiver(uśīraṃ) sandalwood(candanaṃ) and(ca) indeed(eva) camphor(karpūraṃ) and(ca) indeed(eva) saffron(kuṃkumam)
+[usira](uśīraṃ) [sandal](candanaṃ) [ca](ca) [eva](eva) [camphor](karpūraṃ) [ca](ca) [eva](eva) [saffron](kuṃkumam)
 
 ## mukta-m0-p104-v2584
-one-should-offer-in-fire(homayet) and(tu) especially(viśeṣeṇa) with-all-substances(sarva+dravya+samāyutam)
+[offer](homayet) [tu](tu) [especially](viśeṣeṇa) [all-materials](sarvadravya) [joined](samāyutam)
 
 ## mukta-m0-p104-v2585
-with-that(sa) with-thread-and-kuśa-grass(sūtra+kūrca+saṃyuktaṃ) one-should-worship(pūjayet) and(tu) especially(viśeṣataḥ)
+[with-thread-tuft](sūtra+kūrcasaṃyuktaṃ) [worship](pūjayet) [tu](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p104-v2586
-in-morning(prabhāte) in-clear(vimale) one-should-perform(kuryāt) bath(snānaṃ) having-done(kṛtvā) and(tu) teacher(deśikaḥ)
+[at-dawn](prabhāte) [clear](vimale) [should-do](kuryāt) [bath](snānaṃ) [having-done](kṛtvā) [tu](tu) [teacher](deśikaḥ)
 
 ## mukta-m0-p104-v2587
-with-dance-and-song(nṛtta+geya+samāyuktaṃ) with-hymn-and-auspicious-reciters(stotra+maṅgala+vācakaiḥ)
+[dance-song-joined](nṛttageyasamāyuktaṃ) [hymn-auspicious-speakers](stotramaṃgalavācakaiḥ)
 
 ## mukta-m0-p104-v2588
-bathing(snapanaṃ) and(tu) then(tataḥ) one-should-perform(kuryāt) as-per-scripture-prescribed-path(yathā+śāstra+ukta+mārgataḥ)
+[bathing](snapanaṃ) [tu](tu) [then](tataḥ) [should-do](kuryād) [as](yathā) [scripture-path](śāstroktamārgataḥ)
 
 ## mukta-m0-p104-v2589
-of-gods(devānāṃ) golden-cloth(svarṇa+paṭṭaṃ) and(tu) Umā-Maheśa(umāhe) fish-auspicious-mark(matsya+maṃgalam)
+[of-gods](devānāṃ) [gold-plate](svarṇapaṭṭaṃ) [tu](tu) [umāhe](umāhe) [fish-auspicious](matsya+maṃgalam)
 
 ## mukta-m0-p104-v2590
-plate(sthalikā) staff-bell(daṇḍi+ghaṇṭā) and(ca) great-bell(mahā+ghaṇṭāṃ) and(tu) one-should-give(dāpayet)
+[small-pot](sthalikā) [stick-bell](daṇḍighaṇṭā) [ca](ca) [great-bell](mahāghaṇṭāṃ) [tu](tu) [give](dāpayet)
 
 ## mukta-m0-p104-v2591
-having-drawn-seven-maṇḍalas(sapta+maṇḍalaṃ+ālikhya) seven-worlds(sapta+lokān) one-should-worship-well(su+pūjayet)
+[seven-circles](saptamaṇḍalam) [having-drawn](ālikhya) [seven-worlds](saptalokān) [well-worship](supūjayet)
 
 ## mukta-m0-p104-v2592
-maṇḍala(maṇḍalaṃ) and(tu) separately(pṛthak) one-should-make(kuryāt) each(pratyekaṃ) with-a-prastha-of-rice(prastha+śālinā)
+[circle](maṇḍalaṃ) [tu](tu) [separately](pṛthak) [should-do](kuryāt) [each](pratyekaṃ) [measure-rice](prasthaśālinā)
 
 ## mukta-m0-p104-v2593
-golden-mountain(svarṇa+parvatam) thus(evaṃ) and(tu) salt-mountain(lavaṇaṃ+parvam) thus(eva) or(vā)
+[gold-mountain](svarṇaparvatam) [evaṃ](evaṃ) [tu](tu) [salt](lavaṇaṃ) [mountain](parvam) [eva](eva) [vā](vā)
 
 ## mukta-m0-p104-v2594
-mung-bean-mountain(mudga+parvatam) thus(evaṃ) and(tu) seven-mountains(sapta+parvatam) thus(eva) or(vā)
+[mung-mountain](mudgaparvatam) [evaṃ](evaṃ) [tu](tu) [seven-mountains](saptaparvatam) [eva](eva) [vā](vā)
 
 ## mukta-m0-p104-v2595
-teacher(ācāryaṃ) one-should-worship(pūjayet) first(pūrvaṃ) with-garments-rings-etc.(vastra+aṅgulīyaka+ādibhiḥ)
+[teacher](ācāryaṃ) [worship](pūjayet) [first](pūrvaṃ) [clothes-ring-etc](vastrāṃgulīyakādibhiḥ)
 
 ## mukta-m0-p104-v2596
-best(uttamaṃ) and(tu) three-niṣkas(tri+niṣkaṃ) and(tu) of-teacher(ācāryasya) and(tu) fee(dakṣiṇā)
+[best](uttamaṃ) [tu](tu) [three-niṣka](triniṣkaṃ) [tu](tu) [of-teacher](ācāryasya) [tu](tu) [fee](dakṣiṇā)
 
 ## mukta-m0-p104-v2597
-all(sarvaṃ) with-Māheśvaras(māheśvaraiḥ) joined(yuktaṃ) of-initiates(bāhujānāṃ) and(tu) one-should-worship(pūjayet)
+[all](sarvaṃ) [maheśvara-joined](māheśvarairyuktaṃ) [of-arms-born](bāhujānāṃ) [tu](tu) [worship](pūjayet)
 
 ## mukta-m0-p104-v2598
-garment(vastraṃ) grain(dhānyaṃ) and(ca) betel(tāmbūlaṃ) sandalwood(candanaṃ) one-should-give(dāpayet) then(tadā)
+[cloth](vastraṃ) [grain](dhānyaṃ) [ca](ca) [betel](tāmbūlaṃ) [sandal](candanaṃ) [give](dāpayet) [then](tadā)
 
 ## mukta-m0-p104-v2599
-all(sarvān) having-honored(āmāvṛtaṃ) one-should-do(kuryāt) that-house(tad+gṛhaṃ) one-should-enter(praviśet) then(tataḥ)
+[all](sarvān) [covered](āvṛtaṃ) [should-make](kuryāt) [that-house](tadgṛhaṃ) [enter](praviśet) [then](tataḥ)
 
 ## mukta-m0-p104-v2600
-in-Ārdrā(ārdrāyāṃ) and(ca) indeed(eva) in-lunar-mansion(nakṣatre) lord-of-gods(deva+īśaṃ) one-should-worship(pūjayet) then(tataḥ)
+[in-ārdrā](ārdrāyāṃ) [ca](ca) [eva](eva) [nakṣatra](nakṣatre) [lord](deveśaṃ) [worship](pūjayet) [then](tataḥ)

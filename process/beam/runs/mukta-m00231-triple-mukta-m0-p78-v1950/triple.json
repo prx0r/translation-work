@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "sāṭṭahāsāṃ",
+     "gloss": "with-loud-laugh",
+     "grounds": "feminine accusative singular adjective describing the goddess; sa- prefix with loud laugh",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "śavāsīnāṃ",
+     "gloss": "corpse-seated",
+     "grounds": "feminine accusative singular adjective describing the goddess; seated upon a corpse",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "maṇimuktāvirājitām",
+     "gloss": "jewel-pearl-shining",
+     "grounds": "feminine accusative singular adjective describing the goddess; adorned with jewels and pearls",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What form of the goddess is being praised here?",
+   "premises": [
+    "The goddess laughs loudly.",
+    "She sits on a corpse.",
+    "Jewels and pearls adorn her."
+   ],
+   "inference": "The verse depicts a fierce adorned goddess seated on a corpse.",
+   "uncertainties": [
+    "The exact deity name is not stated in this verse."
+   ],
+   "plain_english": "She laughs loudly, sits on a corpse, and shines with jewels and pearls."
+  }
+ ]
+}

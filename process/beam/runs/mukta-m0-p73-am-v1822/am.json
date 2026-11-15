@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1822,
- "question": "How should the porch and the garland part be determined in this scheme?",
+ "question": "What siddhi results are assigned to guñjā and bilva wood?",
  "premises": [
-  "The porch is to be determined by one part.",
-  "The garland is to be determined by its part."
+  "guñjāyāḥ is genitive",
+  "sarvasiddhiḥ syāt states all-siddhi",
+  "vilvakāṣṭhena is instrumental",
+  "siddhidā is predicate"
  ],
- "inference": "The porch and the garland are each determined by one part.",
- "uncertainties": [],
- "plain_english": "One should determine the porch by one part and the garland by one part."
+ "inference": "Guñjā gives all-siddhi and bilva wood gives siddhi.",
+ "uncertainties": [
+  "exact relation of genitive"
+ ],
+ "plain_english": "From guñjā, all-siddhi; from bilva wood, siddhi-giving."
 }

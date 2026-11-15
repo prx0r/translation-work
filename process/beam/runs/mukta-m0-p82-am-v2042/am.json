@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2042,
- "question": "Where should the pair of marks be placed using the gnomon shadow?",
+ "question": "How is the square field divided?",
  "premises": [
-  "A gnomon shadow meeting point is used",
-  "Two locations are involved",
-  "A pair of marks is to be made"
+  "The field is made square",
+  "It is divided",
+  "From eighteen parts"
  ],
- "inference": "A pair of marks should be made at the two places where the gnomon-tip shadow falls",
- "uncertainties": [],
- "plain_english": "A pair of marks should be made at the two places where the tip of the gnomon's shadow falls."
+ "inference": "The square field is divided from eighteen parts",
+ "uncertainties": [
+  "Division result unspecified"
+ ],
+ "plain_english": "Having divided the square field from eighteen parts."
 }

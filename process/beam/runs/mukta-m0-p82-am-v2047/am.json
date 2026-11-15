@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2047,
- "question": "What temporal units are determined when the shadow has entered and exited?",
+ "question": "How deep should the fire-pit be dug?",
  "premises": [
-  "The shadow enters and exits",
-  "A middle interval is observed",
-  "That interval is measured in nāḍikās"
+  "The width is given",
+  "Digging equals that amount",
+  "This is declared"
  ],
- "inference": "When the shadow has entered and exited, the middle nāḍikās are identified",
+ "inference": "Digging depth equals the fire-pit's width",
  "uncertainties": [
-  "The technical procedure for counting nāḍikās is not fully explicit"
+  "Width value unspecified"
  ],
- "plain_english": "When the shadow has entered and exited, the middle nāḍikās are taken."
+ "plain_english": "The digging should be as much as the fire-pit's width."
 }

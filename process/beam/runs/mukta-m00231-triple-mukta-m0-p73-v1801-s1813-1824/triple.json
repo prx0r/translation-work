@@ -1,0 +1,554 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1813,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṇikyamālā",
+     "gloss": "ruby-mālā",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmrājyaphaladāyinī",
+     "gloss": "sovereignty-fruit-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mālā is said to give sovereignty-fruit?",
+   "premises": [
+    "tathā links the list",
+    "māṇikyamālā is named",
+    "sāmrājyaphaladāyinī states its fruit"
+   ],
+   "inference": "The ruby mālā gives sovereignty-fruit.",
+   "uncertainties": [
+    "exact syntactic relation to prior verse"
+   ],
+   "plain_english": "Thus the ruby mālā gives sovereignty-fruit."
+  },
+  {
+   "verse": 1814,
+   "rows": [
+    {
+     "surface": "padmākṣamālayā",
+     "gloss": "lotus-seed-mālā",
+     "grounds": "instrumental compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "lakṣmīr",
+     "gloss": "lakṣmī",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "verb jā",
+     "morph": "3.sg.mid-pres + root jā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahaddhanam",
+     "gloss": "great-wealth",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What arises from the lotus-seed mālā?",
+   "premises": [
+    "padmākṣamālayā is instrumental",
+    "lakṣmīr jāyate states arising",
+    "mahaddhanam is also named"
+   ],
+   "inference": "Lakṣmī and great wealth arise from the lotus-seed mālā.",
+   "uncertainties": [
+    "whether mahaddhanam is separate or appositional"
+   ],
+   "plain_english": "From the lotus-seed mālā, Lakṣmī arises, and great wealth."
+  },
+  {
+   "verse": 1815,
+   "rows": [
+    {
+     "surface": "rudrākṣamālikā",
+     "gloss": "rudrākṣa-mālā",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sūte",
+     "gloss": "produces",
+     "grounds": "verb sū",
+     "morph": "3.sg.act-pres + root sū"
+    },
+    {
+     "surface": "japena",
+     "gloss": "by-japa",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "svamanorathān",
+     "gloss": "own-desires",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What does the rudrākṣa mālā produce through japa?",
+   "premises": [
+    "rudrākṣamālikā is subject",
+    "sūte means produces",
+    "japena is instrumental",
+    "svamanorathān is object"
+   ],
+   "inference": "The rudrākṣa mālā produces one's own desires through japa.",
+   "uncertainties": [
+    "scope of svamanorathān"
+   ],
+   "plain_english": "The rudrākṣa mālā produces one's own desires by japa."
+  },
+  {
+   "verse": 1816,
+   "rows": [
+    {
+     "surface": "putrajīvabhavā",
+     "gloss": "putrajīva-born",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "mālā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vitanute",
+     "gloss": "extends",
+     "grounds": "verb tan",
+     "morph": "3.sg.mid-pres + root tan"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the putrajīva-born mālā extend quickly?",
+   "premises": [
+    "putrajīvabhavā mālā is subject",
+    "putraṃ is object",
+    "vitanute means extends",
+    "acirāt means quickly"
+   ],
+   "inference": "The putrajīva-born mālā quickly extends a son.",
+   "uncertainties": [
+    "whether putrajīvabhavā modifies mālā or is separate"
+   ],
+   "plain_english": "The putrajīva-born mālā quickly extends a son."
+  },
+  {
+   "verse": 1817,
+   "rows": [
+    {
+     "surface": "saubhāgyaṃ",
+     "gloss": "auspiciousness",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sphāṭikī",
+     "gloss": "crystal-mālā",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "mālā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rudrākṣe",
+     "gloss": "rudrākṣa",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "akṣayakāmadā",
+     "gloss": "imperishable-desire-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the crystal mālā give in rudrākṣa context?",
+   "premises": [
+    "sphāṭikī mālā is subject",
+    "saubhāgyaṃ is object",
+    "rudrākṣe is locative",
+    "akṣayakāmadā is predicate"
+   ],
+   "inference": "The crystal mālā gives auspiciousness and imperishable desire in rudrākṣa context.",
+   "uncertainties": [
+    "exact relation of rudrākṣe"
+   ],
+   "plain_english": "The crystal mālā gives auspiciousness; in rudrākṣa it gives imperishable desire."
+  },
+  {
+   "verse": 1818,
+   "rows": [
+    {
+     "surface": "putrajīvair",
+     "gloss": "putrajīva",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "daśaguṇaṃ",
+     "gloss": "tenfold",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaṅkhaiḥ",
+     "gloss": "conchs",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "numeral adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What multipliers are assigned to putrajīva and conch materials?",
+   "premises": [
+    "putrajīvair is instrumental",
+    "daśaguṇaṃ śataṃ is tenfold hundred",
+    "śaṅkhaiḥ is instrumental",
+    "sahasrakam is thousand"
+   ],
+   "inference": "Putrajīva gives tenfold hundred and conchs give thousand.",
+   "uncertainties": [
+    "exact base quantity implied"
+   ],
+   "plain_english": "With putrajīva, tenfold hundred; with conchs, thousand."
+  },
+  {
+   "verse": 1819,
+   "rows": [
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "numeral noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sphāṭikaiḥ",
+     "gloss": "crystal",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "proktaṃ",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.pass-part + root vac"
+    },
+    {
+     "surface": "mauktikair",
+     "gloss": "pearls",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "lakṣam",
+     "gloss": "lakh",
+     "grounds": "numeral noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "ucyate",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root vac"
+    }
+   ],
+   "question": "What counts are assigned to crystal and pearl materials?",
+   "premises": [
+    "ayutaṃ is ten-thousand",
+    "sphāṭikaiḥ is instrumental",
+    "mauktikair is instrumental",
+    "lakṣam is lakh"
+   ],
+   "inference": "Crystal gives ten-thousand and pearls give lakh.",
+   "uncertainties": [
+    "exact passive construction"
+   ],
+   "plain_english": "Crystal gives ten-thousand; pearls give a lakh."
+  },
+  {
+   "verse": 1820,
+   "rows": [
+    {
+     "surface": "sauvarṇair",
+     "gloss": "gold",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "daśakoṭiḥ",
+     "gloss": "ten-crore",
+     "grounds": "numeral noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "anantaṃ",
+     "gloss": "anantaṃ",
+     "grounds": "adjective or noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktacandanaiḥ",
+     "gloss": "red-sandal",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What counts are assigned to gold and red sandal materials?",
+   "premises": [
+    "sauvarṇair is instrumental",
+    "daśakoṭiḥ is ten-crore",
+    "raktacandanaiḥ is instrumental",
+    "anantaṃ is endless"
+   ],
+   "inference": "Gold gives ten-crore and red sandal gives endless.",
+   "uncertainties": [
+    "exact syntactic pairing"
+   ],
+   "plain_english": "Gold gives ten-crore; red sandal gives endless."
+  },
+  {
+   "verse": 1821,
+   "rows": [
+    {
+     "surface": "raktacandanamālābhiḥ",
+     "gloss": "red-sandal-mālās",
+     "grounds": "instrumental plural compound",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "śivatvaṃ",
+     "gloss": "śivatvaṃ",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "labhate",
+     "grounds": "verb labh",
+     "morph": "3.sg.mid-pres + root labh"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "dhruvam",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is certainly obtained by red sandal mālās?",
+   "premises": [
+    "raktacandanamālābhiḥ is instrumental",
+    "śivatvaṃ is object",
+    "labhate means obtains",
+    "dhruvam means certainly"
+   ],
+   "inference": "Red sandal mālās certainly obtain śivatva.",
+   "uncertainties": [
+    "whether śivatva means Śiva-nature or Śiva-status"
+   ],
+   "plain_english": "By red sandal mālās, Śiva-nature is certainly obtained."
+  },
+  {
+   "verse": 1822,
+   "rows": [
+    {
+     "surface": "guñjāyāḥ",
+     "gloss": "guñjā",
+     "grounds": "genitive noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sarvasiddhiḥ",
+     "gloss": "all-siddhi",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "vilvakāṣṭhena",
+     "gloss": "bilva-wood",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "siddhi-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What siddhi results are assigned to guñjā and bilva wood?",
+   "premises": [
+    "guñjāyāḥ is genitive",
+    "sarvasiddhiḥ syāt states all-siddhi",
+    "vilvakāṣṭhena is instrumental",
+    "siddhidā is predicate"
+   ],
+   "inference": "Guñjā gives all-siddhi and bilva wood gives siddhi.",
+   "uncertainties": [
+    "exact relation of genitive"
+   ],
+   "plain_english": "From guñjā, all-siddhi; from bilva wood, siddhi-giving."
+  },
+  {
+   "verse": 1823,
+   "rows": [
+    {
+     "surface": "sāmānya",
+     "gloss": "general",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "kathitā",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.pass-part + root kath"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "mālā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśeṣāt",
+     "gloss": "specific",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "kathyate",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root kath"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "adhunā",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What distinction is made between general and specific mālā?",
+   "premises": [
+    "sāmānya kathitā mālā is general",
+    "viśeṣāt is ablative specific",
+    "kathyate adhunā states now told"
+   ],
+   "inference": "The general mālā was told; now the specific is told.",
+   "uncertainties": [
+    "exact scope of viśeṣāt"
+   ],
+   "plain_english": "The general mālā was told; now the specific is told."
+  },
+  {
+   "verse": 1824,
+   "rows": [
+    {
+     "surface": "dantena",
+     "gloss": "tooth",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kālikāyāstu",
+     "gloss": "of-kālikā",
+     "grounds": "genitive noun with particle",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "rājadantena",
+     "gloss": "rājadanta",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "meruṇā",
+     "gloss": "meru",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Which materials are named for Kālikā's mālā?",
+   "premises": [
+    "dantena is instrumental",
+    "kālikāyāstu is genitive",
+    "rājadantena is instrumental",
+    "meruṇā is instrumental"
+   ],
+   "inference": "Kālikā's mālā uses tooth, rājadanta, and meru.",
+   "uncertainties": [
+    "whether dantena and rājadantena are distinct materials"
+   ],
+   "plain_english": "For Kālikā, tooth, rājadanta, and meru are named."
+  }
+ ]
+}

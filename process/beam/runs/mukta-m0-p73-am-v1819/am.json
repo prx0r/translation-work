@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1819,
- "question": "What length is prescribed for the hall on the east, west, and sides?",
+ "question": "What counts are assigned to crystal and pearl materials?",
  "premises": [
-  "The hall is placed in the east, west, and sides.",
-  "Its length should be five parts."
+  "ayutaṃ is ten-thousand",
+  "sphāṭikaiḥ is instrumental",
+  "mauktikair is instrumental",
+  "lakṣam is lakh"
  ],
- "inference": "The hall on all these sides is prescribed to have a length of five parts.",
- "uncertainties": [],
- "plain_english": "On the east, west, and sides, the hall should have a length of five parts."
+ "inference": "Crystal gives ten-thousand and pearls give lakh.",
+ "uncertainties": [
+  "exact passive construction"
+ ],
+ "plain_english": "Crystal gives ten-thousand; pearls give a lakh."
 }

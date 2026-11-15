@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p103-v2551
-[kubera-ending](kuberāntaṃ) [with-vāsava](vāsavena) [indeed](eva) [sword](khaḍgaṃ) [and](ca) [indeed](eva) [but](tu) [fifth](paṃcamam)
+[kubera-end](kuberāntaṃ) [indra-by](vāsavenaiva) [sword](khaḍgaṃ) [and](caiva) [indeed](tu) [fifth](paṃcamam)
 
 ## mukta-m0-p103-v2552
-[of-noose](pāśasya) [fifth](paṃcamaṃ) [should-take](grāhya) [with-vāsava](vāsavena) [accompanied](samanvitam)
+[noose](pāśasya) [fifth](paṃcamaṃ) [to-be-taken](grāhya) [indra-with](vāsavena) [accompanied](samanvitam)
 
 ## mukta-m0-p103-v2553
-[with-vāsava](vāsavena) [joined](samāyuktaṃ) [vāyu-fifth](vāyu+paṃcamam) [indeed](eva) [and](ca)
+[indra-with](vāsavena) [joined](samāyuktaṃ) [wind-fifth](vāyupaṃcamameva) [indeed](ca)
 
 ## mukta-m0-p103-v2554
-[of-varuṇa](varuṇasya) [fifth](paṃcamaṃ) [afterwards](paścād) [with-vajra](vajreṇa) [indeed](eva) [united](samāyutam)
+[varuṇa](varuṇasya) [fifth](paṃcamaṃ) [after](paścād) [thunderbolt-by](vajreṇaiva) [joined](samāyutam)
 
 ## mukta-m0-p103-v2555
-[īśāna-ending](īśānāntaṃ) [having-extracted](samuddhṛtya) [with-vajra](vajreṇa) [indeed](eva) [adorned](vibhūṣitam)
+[īśāna-end](īśānāntaṃ) [having-extracted](samuddhṛtya) [thunderbolt-by](vajreṇaiva) [adorned](vibhūṣitam)
 
 ## mukta-m0-p103-v2556
-[agni-seed](agni+bījaṃ) [then](tataḥ) [above](ūrdhvaṃ) [but](tu) [with-vāsava](vāsavena) [united](samāyutam)
+[fire-seed](agnibījaṃ) [then-above](tatordhvaṃ) [indeed](tu) [indra-with](vāsavena) [joined](samāyutam)
 
 ## mukta-m0-p103-v2557
-[of-fire](analasya) [fifth](paṃcamaṃ) [afterwards](paścād) [with-vajra](vajreṇa) [indeed](eva) [united](samāyutam)
+[fire](analasya) [fifth](paṃcamaṃ) [after](paścād) [thunderbolt-by](vajreṇaiva) [joined](samāyutam)
 
 ## mukta-m0-p103-v2558
-[of-wind](pavanasya) [fourth](caturthaṃ) [but](tu) [with-vāsava](vāsavena) [accompanied](samanvitam)
+[wind](pavanasya) [fourth](caturthaṃ) [indeed](tu) [indra-with](vāsavena) [accompanied](samanvitam)
 
 ## mukta-m0-p103-v2559
-[of-sadya-etc.-īśāna](sadyā+ādi+īśānāṃ) [and](ca) [dharma-desire-wealth-liberation-giving](dharma+kāma+artha+mokṣa+dam)
+[sadya-etc-īśānas](sadyādīśānāṃ) [and](ca) [dharma-kāma-artha-mokṣa-giving](dharmakāmārthamokṣadam)
 
 ## mukta-m0-p103-v2560
-[brahma-extraction](brahma+uddhāram) [this](idaṃ) [declared](proktaṃ) [victory](vijayaṃ) [maṇḍala](maṇḍalaṃ) [hear](śṛṇu)
+[brahma-extraction](brahmoddhāramidaṃ) [declared](proktaṃ) [victory](vijayaṃ) [maṇḍala](maṇḍalaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p103-v2561
-[thus](iti) [in-vīra-tantra](vīra+tantre) [brahma-extraction-procedure](brahma+uddhāra+vidhiḥ) [fifty-ninth](ekona+ṣaṣṭitamaḥ) [chapter](paṭalaḥ)
+[thus](iti) [vīra-tantra](vīratantre) [brahma-extraction-rite](brahmoddhāravidhirekonaṣaṣṭitamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p103-v2562
-[victory-maṇḍala](vijaya+maṇḍalam) [thus](evaṃ) [but](tu) [tell](brūhi) [to-me](me) [moon-adorned-one](śaśi+bhūṣaṇa) [!]
+[victory-maṇḍala](vijayamaṇḍalamevaṃ) [indeed](tu) [tell](brūhi) [me](me) [moon-ornament](śaśibhūṣaṇa)
 
 ## mukta-m0-p103-v2563
-[all-worship-fruit](sarva+pūjā+phalaṃ) [and](ca) [indeed](eva) [all-sacrifice](sarva+yajña) [grandfather](pitāmaha) [!]
+[all-worship-fruit](sarvapūjāphalaṃ) [and](caiva) [all-sacrifice](sarvayajña) [grandfather](pitāmaha)
 
 ## mukta-m0-p103-v2564
-[by-creation-etc.-practices](sṛṣṭu+vana+anuṣṭhābhiḥ) [of-brahmā](brahmaṇaḥ) [state-giving](pada+dāyikā)
+[creation-etc-rites](sṛṣṭuvanāmanuṣṭhābhiḥ) [brahmaṇaḥ](brahmaṇaḥ) [foot-giving](padadāyikā)
 
 ## mukta-m0-p103-v2565
-[by-victory-lord-mantras](vijayā+pati+manuṣubhiḥ) [of-all](sarvānisya) [accomplishment](sādhanam)
+[victory-attainment-rites](vijayāpatimanuṣubhiḥ) [all](sarvānisya) [accomplishment](sādhanam)
 
 ## mukta-m0-p103-v2566
-[by-brāhmaṇa-kṣatriya-vaiśya-śūdra](vipra+kṣatriya+viṭ+śūdraiḥ) [other-birth](anya+jātiḥ) [but](tu) [should-avoid](varjayet)
+[brāhmaṇa-kṣatriya-vaiśya-śūdra](viprakṣatriyaviṭchūdrairanyajātistu) [other-born](anyajātistu) [avoid](varjayet)
 
 ## mukta-m0-p103-v2567
-[with-five-products-of-cow](paṃca+gavyena) [having-bathed](saṃsnāpya) [great](mahā) [oblation](haviḥ) [should-offer](nivedayet)
+[five-cow-products](paṃcagavyena) [having-bathed](saṃsnāpya) [great-offering](mahā) [havir](havirnivedayet)
 
 ## mukta-m0-p103-v2568
-[of-temple](prāsādasya) [in-front-part](puraḥ+bhāge) [with-cow-dung](gomayena) [should-smear](anulepayet)
+[temple](prāsādasya) [front](purobhāge) [cow-dung](gomayenānulepayet)
 
 ## mukta-m0-p103-v2569
-[of-vaiśya](vaiśyasya) [eight-aṅgulas](aṣṭa+aṃgulaṃ) [and](ca) [indeed](eva) [of-śūdras](śūdrāṇāṃ) [and](ca) [six-aṅgulas](ṣaḍ+aṃgulam)
+[vaiśya-eight-angula](vaiśyasyāṣṭāṃgulaṃ) [indeed](caiva) [śūdras-six-angula](śūdrāṇāṃ) [ca](ca) [ṣaḍaṃgulam](ṣaḍaṃgulam)
 
 ## mukta-m0-p103-v2570
-[maṇḍala](maṇḍalaṃ) [there](tatra) [in-middle](madhye) [but](tu) [lotus-flower](pada+puṣpaṃ) [but](tu) [should-place](vinyaset)
+[maṇḍala](maṇḍalaṃ) [there](tatra) [middle](madhye) [tu](tu) [foot-flower](padapuṣpaṃ) [tu](tu) [place](vinyaset)
 
 ## mukta-m0-p103-v2571
-[maṇḍala](maṇḍalaṃ) [there](tatra) [having-placed](vinyasya) [thousand](sahasraṃ) [or](vā) [its-half](tad+ardhakam)
+[maṇḍala](maṇḍalaṃ) [there](tatra) [having-placed](vinyasya) [thousand](sahasraṃ) [or](vā) [half](tadardhakam)
 
 ## mukta-m0-p103-v2572
-[daily](nityaṃ) [thirty-five](triṃśa+paścatamā) [or](vā) [hundred-and-eight](aṣṭa+uttaraṃ) [hundred](śatam)
+[daily](nityaṃ) [thirty-five](triṃśapaścatamā) [or](vā) [hundred-eight](aṣṭottaraṃ) [hundred](śatam)
 
 ## mukta-m0-p103-v2573
-[thus](evaṃ) [year](saṃvatsaraṃ) [having-done](kṛtvā) [previous-tree](pūrva+rukṣaṃ) [should-extract](samuddharet)
+[thus](evaṃ) [year](saṃvatsaraṃ) [having-done](kṛtvā) [previous-asterism](pūrvarukṣaṃ) [extract](samuddharet)
 
 ## mukta-m0-p103-v2574
-[according-to-faith-and-time](yathā) [śraddhā+anu+kālasya) [daily](nityaṃ) [maṇḍala-worship](maṇḍala+pūjanam)
+[as](yathā) [faith-time](śraddhānukālasya) [daily](nityaṃ) [maṇḍala-worship](maṇḍalapūjanam)
 
 ## mukta-m0-p103-v2575
-[bowl](pālikā) [pot](ghaṭikā) [and](ca) [indeed](eva) [dish](śarāvaṃ) [and](ca) [in-order](yathā+kramam)
+[tray](pālikā) [ghaṭikā](ghaṭikā) [ca](ca) [indeed](eva) [śarāva](śarāvaṃ) [ca](ca) [in-order](yathākramam)

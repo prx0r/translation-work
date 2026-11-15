@@ -2,34 +2,34 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p160-v3976
-[by-that](tena) [measure](mānena) [to-be-done](kartavyaṃ) [of-linga](liṃgasya) [part+supreme](bhāgamuttamam)
+by-that (tena) measure (mānena) to-be-done (kartavyaṃ) of-linga (liṃgasya) part (bhāga) best (uttamam)
 
 ## mukta-m0-p160-v3977
-[inferior](adhamo) [brahma+part](brahmabhāgaḥ) [be](syān) [middle](madhyamo) [?](ṇu?) [said](ucyate)
+inferior (adhamo) brahma-part (brahma+bhāgaḥ) should-be (syān) middle (madhyamo) unknown (*ṇu?) is-said (ucyate)
 
 ## mukta-m0-p160-v3978
-[linga+thread](liṃgasūtraṃ) [indeed](tu) [to-be-done](kartavyaṃ) [stalk?](nālaṃ) [and](ca) [indeed](eva) [indeed](tu) [kalpa?](kalpa) [?](?)
+linga-thread (liṃga+sūtraṃ) indeed (tu) to-be-done (kartavyaṃ) stalk (nālaṃ) and (ca) indeed (eva) tu (tu) rite (*kalpa*)
 
 ## mukta-m0-p160-v3979
-[child+linga](bālaliṃgaṃ) [to-be-made](prakartavyaṃ) [thus](evameva) [by-order](krameṇa) [indeed](tu)
+child-linga (bāla+liṃgaṃ) to-be-made (prakartavyaṃ) thus (evameva) in-order (krameṇa) indeed (tu)
 
 ## mukta-m0-p160-v3980
-[in-varuna](vāruṇe) [or](vā) [indeed](api) [to-be-done](kartavyaṃ) [child+place](bālasthānam) [here](iha) [said](ucyate)
+in-varuṇa (vāruṇe) or (vā) also (api) to-be-done (kartavyaṃ) child-place (bāla+sthānam) here (iha) is-said (ucyate)
 
 ## mukta-m0-p160-v3981
-[three-hands](trihastaṃ) [five-hands](paṃcahastaṃ) [or](vā) [seven-hands](saptahastam) [then](atha) [indeed](api) [or](vā)
+three-hands (trihastaṃ) five-hands (paṃcahastaṃ) or (vā) seven-hands (saptahastaṃ) then-also (athāpi) or (vā)
 
 ## mukta-m0-p160-v3982
-[of-child+place](bālasthānasya) [left](vāme) [indeed](tu) [protection?](prapālitvā) [?](?) [?](?) [?](?) [?](?)
+of-child-place (bāla+sthānasya) to-left (vāme) indeed (tu) unknown (*prapālitvā) unknown (* * * *)
 
 ## mukta-m0-p160-v3983
-[round](vṛttaṃ) [or](vā) [four-angled?](caturarthaṃ) [or](vā) [a?](a) [?](?) [?](?) [?](?) [?](?)
+round (vṛttaṃ) or (vā) four-sided (caturarthaṃ) or (vā) unknown (a * *?ni * * * *)
 
 ## mukta-m0-p160-v3984
-[place](sthā) [?](?) [upon](lopari) [placing](vinyasya) [shiva+pot](śivakumbhaṃ) [and](ca) [growth?](vardhanīm)
+place (sthā*) above (upari) having-placed (vinyasya) shiva-pot (śiva+kumbhaṃ) and (ca) growth-vessel (vardhanīm)
 
 ## mukta-m0-p160-v3985
-[invoking](āvāhya) [god+of+gods](devadeveśaṃ) [with-sandal-incense-flowers-etc](gandhapuṣpādinā) [worship](arcayet)
+having-invoked (āvāhya) god-of-gods (deva+deveśaṃ) with-sandal-flowers-etc (gandha+puṣpa+ādinā) should-worship (arcayet)
 
 ## mukta-m0-p160-v3986
-[as-before](pūrvavat) [on-ground](sthaṇḍile) [brahmin](vipra) [!](?) [here](atra) [?](āhyeva?) [indeed](tu) [cause-to-do](kārayet)
+as-before (pūrvavat) on-altar (sthaṇḍile) O-brahmin (vipra) here-indeed (atra+eva) indeed (tu) should-cause (kārayet)

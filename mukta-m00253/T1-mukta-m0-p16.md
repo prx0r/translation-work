@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[seventh](saptamo) [or](vā) [other-śaiva](nyaśaivastu) [of-śaivas](śaivānāṃ) [difference](bheda) [is-called](ucyate)
+[seventh](saptamo) [or](vā) [nyaśaiva](nyaśaivastu) [of-śaivas](śaivānāṃ) [division](bheda) [is-called](ucyate)
 
 ## mukta-m0-p16-v377
-[great-śaiva](mahāśaivaḥ) [solitary](kevalaḥ) [brāhmaṇa](vipraḥ) [kṣatriya](kṣatriyaḥ) [vaiśya](vaiśyaḥ) [also](eva) [and](ca)
+[great-śaiva](mahāśaivaḥ) [kevala](kevalo) [brāhmaṇa](vipraḥ) [kṣatriya](kṣatriyo) [vaiśya](vaiśya) [also](eva) [and](ca)
 
 ## mukta-m0-p16-v378
-[same-caste](savarṇa) [ambaṣṭha](ambaṣṭha) [middle](madhyastha) [potters](kulāla) [parāśava](pāraśava) [and-so-forth](tathā)
+[same-caste](savarṇāmbaṣṭha) [middle](madhyasthau) [potter](kulāla) [parāśava](pāraśavāstathā)
 
 ## mukta-m0-p16-v379
-[others](anyeṣām) [here-born](ihajātī) [name](nāma) [other](anya) [śaiva](śaiva) [here](iha) [is-called](ucyate)
+[others](anyeṣām) [here-born](ihajātī) [name](nāmanya) [śaiva](śaiva) [here](mihocyate)
 
 ## mukta-m0-p16-v380
-[kauśika](kauśikaḥ) [kāśyapa](kāśyapaḥ) [also](ca) [eva](eva) [bhāradvāja](bhāradvājaḥ) [three](tri) [also](eva) [ca](ca)
+[kauśika](kauśikaḥ) [kāśyapa](kāśyapaścaiva) [bhāradvāja](bhāradvājo) [three](trireva) [also](ca)
 
 ## mukta-m0-p16-v381
-[by-śiva](śivena) [initiated](dīkṣitāḥ) [also](ca) [eva](eva) [śiva-brāhmaṇa](śivabrāhmaṇaḥ) [is-called](ucyate)
+[by-śiva](śivena) [initiated](dīkṣitāścaiva) [śiva-brāhmaṇa](śivabrāhmaṇa) [is-called](ucyate)
 
 ## mukta-m0-p16-v382
-[kauśika](kauśikaḥ) [north-facing](uttaramukhaḥ) [kāśyapa](kāśyapaḥ) [also](ca) [eva](eva) [south](dakṣiṇe)
+[kauśika](kauśikaścottaramukhaḥ) [north-facing](uttaramukhaḥ) [kāśyapa](kāśyapaścaiva) [south](dakṣiṇe)
 
 ## mukta-m0-p16-v383
-[atri](atriḥ) [upward-facing](ūrdhvamukhaṃ) [to-be-known](jñeyaṃ) [thus](evam) [these](eteṣu) [initiated](dīkṣitāḥ)
+[atri](atrī) [upward-facing](ūrdhvamukhaṃ) [to-be-known](jñeyaṃ) [thus](evam) [these](eteṣu) [initiated](dīkṣitāḥ)
 
 ## mukta-m0-p16-v384
-[kauśika](kauśikaḥ) [śiva-devotee](śivabhaktaḥ) [tu](tu) [kāśyapa](kāśyapaḥ) [by-īśvara](īśvareṇa) [tu](tu)
+[kauśika](kauśikaḥ) [śiva-devotee](śivabhaktastu) [kāśyapa](kāśyapastvīśvareṇa) [by-īśvara](īśvareṇa) [tu](tu)
 
 ## mukta-m0-p16-v385
-[atri](atriḥ) [sadāśiva](sadāśivaḥ) [ca](ca) [eva](eva) [umā-trickster](umādhūrtaḥ) [tu](tu) [initiated](dīkṣitaḥ)
+[atri](atressadāśivaścaiva) [sadāśiva](sadāśiva) [umā-trickster](umādhūrtastu) [initiated](dīkṣitaḥ)
 
 ## mukta-m0-p16-v386
-[after-śiva-initiation](śivadīkṣātparaṃ) [born](jātaḥ) [śiva-brāhmaṇa](śivabrāhmaṇaḥ) [is-called](ucyate)
+[after-śiva-initiation](śivadīkṣātparaṃ) [born](jātaḥ) [śiva-brāhmaṇa](śivabrāhmaṇa) [is-called](ucyate)
 
 ## mukta-m0-p16-v387
-[at-gokarṇa](gokarṇe) [tu](tu) [bhāradvāja](bharadvājaḥ) [citizen](nāgarikaḥ) [tu](tu) [gautama](gautamaḥ)
+[at-gokarṇa](gokarṇe) [tu](tu) [bhāradvāja](bharadvājo) [citizen](nāgarikastu) [gautama](gautamaḥ)
 
 ## mukta-m0-p16-v388
-[śaiva](śaivaṃ) [pāśupata](pāśupataṃ) [soma](somaṃ) [lākula](lākulaṃ) [ca](ca) [fourfold](caturvidham)
+[śaiva](śaivaṃ) [pāśupata](pāśupataṃ) [soma](somaṃ) [lākula](lākulaṃ) [fourfold](caturvidham)
 
 ## mukta-m0-p16-v389
-[of-these](eteṣām) [also](api) [tantras](tantrāṇāṃ) [nine-ness](navatva) [of-one](ekasya) [tu](tu) [mixture](saṃkaraḥ)
+[of-these](eteṣāmapi) [tantras](tantrāṇāṃ) [nine](navatvaikasya) [of-one](ekasya) [tu](tu) [mixture](saṃkaraḥ)
 
 ## mukta-m0-p16-v390
 [tantra-mixture-fault](tantrasaṃkaradoṣeṇa) [kingdom](rājarāṣṭraṃ) [perishes](vinaśyati)
 
 ## mukta-m0-p16-v391
-[kāmika](kāmikaṃ) [yogaja](yogajaṃ) [cintya](cintyaṃ) [kāraṇa](kāraṇaṃ) [ca](ca) [ajita](ajitaṃ) [tathā](tathā)
+[kāmika](kāmikaṃ) [yogaja](yogajaṃ) [cintya](cintyaṃ) [kāraṇa](kāraṇaṃ) [ajita](cājitaṃ) [tathā](tathā)
 
 ## mukta-m0-p16-v392
-[vijaya](vijayaṃ) [ca](ca) [eva](eva) [niśvāsa](niśvāsaṃ) [svāyambhuva](svāyaṃbhuvam) [atha](atha) [anala](analam)
+[vijaya](vijayaṃ) [caiva](caiva) [niśvāsa](niśvāsaṃ) [svāyambhuva](svāyaṃbhuvam) [anala](athānalam)
 
 ## mukta-m0-p16-v393
 [candrajñāna](candrajñānaṃ) [ca](ca) [bimba](bimbaṃ) [ca](ca) [prodgīta](prodgītaṃ) [lalita](lalitaṃ) [tathā](tathā)
 
 ## mukta-m0-p16-v394
-[kiraṇa](kiraṇaṃ) [vā](vā) [tula](tulaṃ) [tv](tv) [ete](etāḥ) [aṣṭāviṃśati](aṣṭāviṃśati) [saṃhitāḥ](saṃhitāḥ)
+[kiraṇa](kiraṇaṃ) [vā](vā) [tula](tulaṃ) [tv](tv) [ete](etāstvaṣṭāviṃśati) [twenty-eight](aṣṭāviṃśati) [saṃhitās](saṃhitāḥ)
 
 ## mukta-m0-p16-v395
-[ācārya](ācāryaṃ) [śiva](śivam) [eva](eva) [they-say](āhuḥ) [śiva](śivaḥ) [ācārya](ācāryaḥ) [is-called](ucyate)
+[ācārya](ācāryaṃ) [śiva](śivamevāhuḥ) [śiva](śiva) [ācārya](ācārya) [is-called](ucyate)
 
 ## mukta-m0-p16-v396
-[saubhadra](saubhadraḥ) [viṣaya-named](viṣayākhyātā) [kauśala](kauśalā) [māgadha](māgadhāḥ) [tathā](tathā)
+[saubhadra](saubhadro) [viṣaya](viṣayākhyātā) [kauśala](kauśalā) [māgadha](māgadhāstathā)
 
 ## mukta-m0-p16-v397
-[kerala](keralaḥ) [ārya-country](āryadeśaḥ) [ca](ca) [mālava](mālavaṃ) [ca](ca) [maru](marūṇi) [ca](ca)
+[kerala](keralaścāryadeśaśca) [ārya-country](āryadeśaśca) [mālava](mālavaṃ) [ca](ca) [maru](marūṇi) [ca](ca)
 
 ## mukta-m0-p16-v398
-[jonaka](jonakāḥ) [tuluva](tuluvāḥ) [ca](ca) [eva](eva) [karṇāṭaka](karṇāṭakaḥ) [ca](ca) [by-country](deśataḥ)
+[jonaka](jonakāstuluvāścaiva) [tuluva](tuluvāścaiva) [karṇāṭaka](karṇāṭakaśca) [from-country](deśataḥ)
 
 ## mukta-m0-p16-v399
 [kumārī](kumārī) [himavat-middle](himavanmadhye)
 
 ## mukta-m0-p16-v400
-[haihala](haihalaṃ) [baghara](bagharaṃ) [jonya](jonyaṃ) [avoid](varjayet) [liṅga-rite](liṃgakarmaṇi)
+[haihala](haihalaṃ) [baghara](bagharaṃ) [jonya](jonyaṃ) [avoid](varjayelliṃgakarmaṇi) [liṅga-rite](liṃgakarmaṇi)

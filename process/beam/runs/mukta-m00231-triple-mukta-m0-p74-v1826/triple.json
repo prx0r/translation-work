@@ -1,0 +1,1206 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1826,
+   "rows": [
+    {
+     "surface": "gajadantair",
+     "gloss": "elephant-tusk",
+     "grounds": "compound gaja-danta",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "gaṇeśe",
+     "gloss": "for-gaṇeśa",
+     "grounds": "locative of gaṇeśa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaive",
+     "gloss": "in-śaiva-context",
+     "grounds": "locative of śaiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rudrākṣa",
+     "gloss": "rudrākṣa",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive present of vac",
+     "morph": "3.sg.pass.prs"
+    }
+   ],
+   "question": "Which rosary material is prescribed for Gaṇeśa in Śaiva practice?",
+   "premises": [
+    "elephant tusk is named",
+    "gaṇeśa is the deity",
+    "śaiva context is specified"
+   ],
+   "inference": "The verse assigns elephant-tusk rosaries to Gaṇeśa within Śaiva usage.",
+   "uncertainties": [
+    "exact case of rudrākṣa is inferred"
+   ],
+   "plain_english": "For Gaṇeśa in Śaiva practice, elephant-tusk beads are said to be used."
+  },
+  {
+   "verse": 1827,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśatā",
+     "gloss": "one-hundred-eight",
+     "grounds": "compound aṣṭottara-śata",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "rosary",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catuḥpañcāśikā",
+     "gloss": "fifty-four",
+     "grounds": "compound catuḥ-pañcāśikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rosary counts are permitted besides the standard one hundred eight?",
+   "premises": [
+    "one hundred eight rosary is named",
+    "fifty-four rosary is named",
+    "alternative is allowed"
+   ],
+   "inference": "The verse permits either a one-hundred-eight or a fifty-four bead rosary.",
+   "uncertainties": [
+    "gender/number of counts is inferred"
+   ],
+   "plain_english": "A rosary may be of one hundred eight beads or of fifty-four beads."
+  },
+  {
+   "verse": 1828,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "compound atha-vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkāsaṃkhyā",
+     "gloss": "mātṛkā-count",
+     "grounds": "compound mātṛkā-saṃkhyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "rosary",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-made",
+     "grounds": "gerundive of kṛ",
+     "morph": "f.nom.sg.ger"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "carefully",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative rosary count is prescribed with careful effort?",
+   "premises": [
+    "mātṛkā count is named",
+    "rosary should be made",
+    "careful effort is required"
+   ],
+   "inference": "The verse prescribes a rosary whose bead count follows the mātṛkā count, made carefully.",
+   "uncertainties": [
+    "exact mātṛkā number is not given here"
+   ],
+   "plain_english": "Alternatively, a rosary should be carefully made with a bead count matching the mātṛkās."
+  },
+  {
+   "verse": 1829,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśataiḥ",
+     "gloss": "with-one-hundred-eight",
+     "grounds": "compound aṣṭottara-śata",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhir",
+     "gloss": "success",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "is-declared",
+     "grounds": "past participle of vac",
+     "morph": "f.nom.sg.pastpart"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "instrumental plural of manīṣin",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What bead count do the wise declare sufficient for all success?",
+   "premises": [
+    "one hundred eight is named",
+    "all success is named",
+    "wise authorities are named"
+   ],
+   "inference": "The verse states that the wise declare all success through one-hundred-eight beads.",
+   "uncertainties": [
+    "whether this is exclusive is not stated"
+   ],
+   "plain_english": "The wise declare that all success comes with one hundred eight beads."
+  },
+  {
+   "verse": 1830,
+   "rows": [
+    {
+     "surface": "suvṛttaṃ",
+     "gloss": "well-rounded",
+     "grounds": "compound su-vṛtta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sundaraṃ",
+     "gloss": "beautiful",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "badarībījamālikam",
+     "gloss": "jujube-seed-rosary",
+     "grounds": "compound badarī-bīja-mālikā",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of seed bead is praised for a rosary?",
+   "premises": [
+    "well-rounded is praised",
+    "beautiful is praised",
+    "jujube seed rosary is named"
+   ],
+   "inference": "The verse praises a well-rounded, beautiful jujube-seed rosary.",
+   "uncertainties": [
+    "whether bījaṃ modifies badarībījamālikam is inferred"
+   ],
+   "plain_english": "A well-rounded, beautiful jujube-seed rosary is praised."
+  },
+  {
+   "verse": 1831,
+   "rows": [
+    {
+     "surface": "saṃskārañ",
+     "gloss": "purification",
+     "grounds": "accusative of saṃskāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "yathāśāstrapramāṇataḥ",
+     "gloss": "according-to-scriptural-authority",
+     "grounds": "compound yathā-śāstra-pramāṇataḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the rosary purification be performed?",
+   "premises": [
+    "purification is named",
+    "then it should be performed",
+    "scriptural authority governs it"
+   ],
+   "inference": "The verse says purification should then be performed according to scriptural authority.",
+   "uncertainties": [
+    "exact purification rite is not detailed here"
+   ],
+   "plain_english": "Then purification should be performed according to scriptural authority."
+  },
+  {
+   "verse": 1832,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vindyāt",
+     "gloss": "one-would-find",
+     "grounds": "optative of vid",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "kruddhā",
+     "gloss": "angered",
+     "grounds": "past participle of krudh",
+     "morph": "f.nom.sg.pastpart"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present of bhū",
+     "morph": "3.sg.prs.act"
+    },
+    {
+     "surface": "caṇḍikā",
+     "gloss": "caṇḍikā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What happens if the rosary is not properly purified?",
+   "premises": [
+    "all that becomes fruitless",
+    "caṇḍikā becomes angered",
+    "the result is declared"
+   ],
+   "inference": "The verse warns that neglecting proper rite makes the work fruitless and angers Caṇḍikā.",
+   "uncertainties": [
+    "whether kruddhā modifies caṇḍikā is inferred"
+   ],
+   "plain_english": "All that becomes fruitless, and Caṇḍikā becomes angered."
+  },
+  {
+   "verse": 1833,
+   "rows": [
+    {
+     "surface": "paṅkajodbhavasūtrañ",
+     "gloss": "lotus-born-thread",
+     "grounds": "compound paṅkaja-udbhava-sūtra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṇasūtrakam",
+     "gloss": "hemp-thread",
+     "grounds": "compound śaṇa-sūtra",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which threads are named for stringing the rosary?",
+   "premises": [
+    "lotus-born thread is named",
+    "hemp thread is named",
+    "both are alternatives"
+   ],
+   "inference": "The verse names lotus-born thread and hemp thread as rosary stringing materials.",
+   "uncertainties": [
+    "whether ca repeats for emphasis is inferred"
+   ],
+   "plain_english": "Lotus-born thread and hemp thread are also named."
+  },
+  {
+   "verse": 1834,
+   "rows": [
+    {
+     "surface": "svarṇādisambhavaṃ",
+     "gloss": "gold-and-other-born",
+     "grounds": "compound svarṇa-ādi-sambhava",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triguṇaiḥ",
+     "gloss": "with-three-strands",
+     "grounds": "compound tri-guṇa",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "triguṇīkṛtam",
+     "gloss": "made-threefold",
+     "grounds": "compound tri-guṇī-kṛta",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should gold or similar thread be prepared for the rosary?",
+   "premises": [
+    "gold-born thread is named",
+    "three strands are named",
+    "it is made threefold"
+   ],
+   "inference": "The verse says gold and similar thread should be made threefold with three strands.",
+   "uncertainties": [
+    "whether sūtraṃ is accusative object is inferred"
+   ],
+   "plain_english": "Gold and similar thread should be made threefold with three strands."
+  },
+  {
+   "verse": 1835,
+   "rows": [
+    {
+     "surface": "nitye",
+     "gloss": "for-daily-rite",
+     "grounds": "locative of nitya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "naimittike",
+     "gloss": "for-occasional-rite",
+     "grounds": "locative of naimittika",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śastaṃ",
+     "gloss": "auspicious",
+     "grounds": "past participle of śaṃs",
+     "morph": "n.nom.sg.pastpart"
+    },
+    {
+     "surface": "śuklaṃ",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What thread colors are auspicious for daily and occasional rites?",
+   "premises": [
+    "daily rite is named",
+    "occasional rite is named",
+    "white and red are named"
+   ],
+   "inference": "The verse declares white and red thread auspicious for daily and occasional rites.",
+   "uncertainties": [
+    "whether śastaṃ and śubham are distinct is inferred"
+   ],
+   "plain_english": "For daily and occasional rites, white and red thread are auspicious."
+  },
+  {
+   "verse": 1836,
+   "rows": [
+    {
+     "surface": "prakṣālya",
+     "gloss": "having-washed",
+     "grounds": "absolutive of prakṣāl",
+     "morph": "abs"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "compound mūla-mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "grathayed",
+     "gloss": "should-string",
+     "grounds": "optative of grath",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrakam",
+     "gloss": "thread",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the thread be prepared before stringing the rosary?",
+   "premises": [
+    "having washed is named",
+    "root mantra is named",
+    "then stringing is commanded"
+   ],
+   "inference": "The verse says to wash the thread with the root mantra and then string it.",
+   "uncertainties": [
+    "whether prakṣālya modifies thread is inferred"
+   ],
+   "plain_english": "Having washed it with the root mantra, one should then string the thread."
+  },
+  {
+   "verse": 1837,
+   "rows": [
+    {
+     "surface": "taiḥ",
+     "gloss": "by-those",
+     "grounds": "pronoun",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grathitāṃ",
+     "gloss": "strung",
+     "grounds": "past participle of grath",
+     "morph": "f.acc.sg.pastpart"
+    },
+    {
+     "surface": "mālāṃ",
+     "gloss": "rosary",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kārayen",
+     "gloss": "should-make",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyataḥ",
+     "gloss": "from-elsewhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who must string the rosary and from what source?",
+   "premises": [
+    "by those is required",
+    "strung rosary is named",
+    "not from elsewhere is stated"
+   ],
+   "inference": "The verse requires that the rosary be strung by those same persons and never from another source.",
+   "uncertainties": [
+    "antecedent of taiḥ is not explicit here"
+   ],
+   "plain_english": "The rosary should be strung by those same persons, never from elsewhere."
+  },
+  {
+   "verse": 1838,
+   "rows": [
+    {
+     "surface": "ekaikamaṇim",
+     "gloss": "each-bead",
+     "grounds": "compound eka-eka-maṇi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "taking",
+     "grounds": "absolutive of ādā",
+     "morph": "abs"
+    },
+    {
+     "surface": "brahmagranthiṃ",
+     "gloss": "brahma-knot",
+     "grounds": "compound brahma-granthi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinirdiśet",
+     "gloss": "should-indicate",
+     "grounds": "optative of vinirdiś",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What knot should be indicated for each bead?",
+   "premises": [
+    "each bead is taken",
+    "brahma knot is named",
+    "it should be indicated"
+   ],
+   "inference": "The verse says to take each bead and indicate the brahma knot.",
+   "uncertainties": [
+    "whether vinirdiśet means tie or mark is inferred"
+   ],
+   "plain_english": "Taking each bead, one should indicate the brahma knot."
+  },
+  {
+   "verse": 1839,
+   "rows": [
+    {
+     "surface": "śaive",
+     "gloss": "in-śaiva",
+     "grounds": "locative of śaiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiṣṇave",
+     "gloss": "in-vaiṣṇava",
+     "grounds": "locative of vaiṣṇava",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saure",
+     "gloss": "in-saura",
+     "grounds": "locative of saura",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gaṇeśe",
+     "gloss": "in-gaṇeśa",
+     "grounds": "locative of gaṇeśa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīkare",
+     "gloss": "in-śrīkara",
+     "grounds": "locative of śrīkara",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For which deity contexts is the brahma knot rule applied?",
+   "premises": [
+    "śaiva context is named",
+    "vaiṣṇava context is named",
+    "saura gaṇeśa and śrīkara contexts are named"
+   ],
+   "inference": "The verse extends the brahma-knot rule across Śaiva, Vaiṣṇava, Saura, Gaṇeśa, and Śrīkara contexts.",
+   "uncertainties": [
+    "whether this list is exhaustive is not stated"
+   ],
+   "plain_english": "This applies in Śaiva, Vaiṣṇava, Saura, Gaṇeśa, and Śrīkara contexts."
+  },
+  {
+   "verse": 1840,
+   "rows": [
+    {
+     "surface": "dūṣaṇaṃ",
+     "gloss": "defect",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asty",
+     "gloss": "is",
+     "grounds": "sandhi form of asti",
+     "morph": "3.sg.prs.act"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "granthihīno",
+     "gloss": "knotless",
+     "grounds": "compound granthi-hīna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaśaḥ",
+     "gloss": "daily",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is a knotless rosary defective when used daily?",
+   "premises": [
+    "defect is named",
+    "where there is no defect is stated",
+    "even knotless is daily"
+   ],
+   "inference": "The verse says there is no defect where even a knotless rosary is used daily.",
+   "uncertainties": [
+    "whether nityaśaḥ modifies use or defect is inferred"
+   ],
+   "plain_english": "There is no defect where even a knotless rosary is used daily."
+  },
+  {
+   "verse": 1841,
+   "rows": [
+    {
+     "surface": "totalāvanavāsinyor",
+     "gloss": "of-the-forest-dwelling-totalās",
+     "grounds": "compound totalā-vana-vāsin",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "vārāhyādyā",
+     "gloss": "vārāhī-and-others",
+     "grounds": "compound vārāhī-ādi",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "aviśeṣataḥ",
+     "gloss": "without-distinction",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are Totalā forest dwellers and Vārāhī treated?",
+   "premises": [
+    "totalā forest dwellers are named",
+    "vārāhī and others are named",
+    "without distinction is stated"
+   ],
+   "inference": "The verse says Totalā forest dwellers and Vārāhī and others are treated without distinction.",
+   "uncertainties": [
+    "exact ritual application is not explicit here"
+   ],
+   "plain_english": "Totalā forest dwellers and Vārāhī and others are treated without distinction."
+  },
+  {
+   "verse": 1842,
+   "rows": [
+    {
+     "surface": "ekaikamaṇim",
+     "gloss": "each-bead",
+     "grounds": "compound eka-eka-maṇi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "taking",
+     "grounds": "absolutive of ādā",
+     "morph": "abs"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthiramānasaḥ",
+     "gloss": "steady-minded",
+     "grounds": "compound sthira-mānasa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mental quality should the practitioner have while taking each bead?",
+   "premises": [
+    "each bead is taken",
+    "practitioner is named",
+    "steady-minded is required"
+   ],
+   "inference": "The verse requires the practitioner to be steady-minded while taking each bead.",
+   "uncertainties": [
+    "whether sthiramānasaḥ modifies sādhakaḥ is inferred"
+   ],
+   "plain_english": "The steady-minded practitioner takes each bead."
+  },
+  {
+   "verse": 1843,
+   "rows": [
+    {
+     "surface": "svayam",
+     "gloss": "oneself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-recite",
+     "grounds": "optative of jap",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anyaḥ",
+     "gloss": "another",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praṇavam",
+     "gloss": "praṇava",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "should-utter",
+     "grounds": "optative of uccar",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "Who should recite the mantra and who should utter praṇava?",
+   "premises": [
+    "oneself should recite mantra",
+    "another should utter praṇava",
+    "roles are distinguished"
+   ],
+   "inference": "The verse distinguishes the practitioner reciting the mantra from another uttering praṇava.",
+   "uncertainties": [
+    "whether anyaḥ means assistant is inferred"
+   ],
+   "plain_english": "One should recite the mantra oneself, while another utters praṇava."
+  },
+  {
+   "verse": 1844,
+   "rows": [
+    {
+     "surface": "merum",
+     "gloss": "meru",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidhāyā",
+     "gloss": "having-made",
+     "grounds": "absolutive of vidhā",
+     "morph": "abs"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālānte",
+     "gloss": "at-rosary-end",
+     "grounds": "compound mālā-ante",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound sādhaka-uttama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the best practitioner make at the rosary end?",
+   "premises": [
+    "one meru is named",
+    "having made is stated",
+    "best practitioner is named"
+   ],
+   "inference": "The verse says the best practitioner should make one meru at the end of the rosary.",
+   "uncertainties": [
+    "whether vidhāyā is absolutive is inferred"
+   ],
+   "plain_english": "Having made one meru, the best practitioner places it at the rosary end."
+  },
+  {
+   "verse": 1845,
+   "rows": [
+    {
+     "surface": "vāmato",
+     "gloss": "from-the-left",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyānataḥ",
+     "gloss": "by-meditation",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "success",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-attain",
+     "grounds": "optative of āp",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "Can success be attained by meditating on the deity from the left?",
+   "premises": [
+    "from the left is named",
+    "deity is named",
+    "success may be attained by meditation"
+   ],
+   "inference": "The verse allows that by meditating on the deity from the left, success may be attained.",
+   "uncertainties": [
+    "whether vāmato modifies bhaved or dhyānataḥ is inferred"
+   ],
+   "plain_english": "Even from the left, by meditation on the deity, success may be attained."
+  },
+  {
+   "verse": 1846,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣpādya",
+     "gloss": "having-completed",
+     "grounds": "absolutive of niṣpad",
+     "morph": "abs"
+    },
+    {
+     "surface": "mālāñ",
+     "gloss": "rosary",
+     "grounds": "accusative of mālā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratiṣṭhāñ",
+     "gloss": "consecration",
+     "grounds": "accusative of pratiṣṭhā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of samācar",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What should be done after completing the rosary?",
+   "premises": [
+    "thus having completed is stated",
+    "rosary is named",
+    "consecration should be performed"
+   ],
+   "inference": "The verse says that after completing the rosary, consecration should also be performed.",
+   "uncertainties": [
+    "whether niṣpādya modifies mālāñ is inferred"
+   ],
+   "plain_english": "Thus, having completed the rosary, one should also perform consecration."
+  },
+  {
+   "verse": 1847,
+   "rows": [
+    {
+     "surface": "pañcagavye",
+     "gloss": "in-five-cow-products",
+     "grounds": "compound pañca-gavya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣipen",
+     "gloss": "should-immerse",
+     "grounds": "optative of kṣip",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "mālāṃ",
+     "gloss": "rosary",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śivamantreṇa",
+     "gloss": "with-śiva-mantra",
+     "grounds": "compound śiva-mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantritām",
+     "gloss": "consecrated",
+     "grounds": "past participle of mantr",
+     "morph": "f.acc.sg.pastpart"
+    }
+   ],
+   "question": "How should a consecrated rosary be treated with five cow products?",
+   "premises": [
+    "five cow products are named",
+    "rosary should be immersed",
+    "śiva mantra consecrates it"
+   ],
+   "inference": "The verse says to immerse the mantra-consecrated rosary in the five cow products.",
+   "uncertainties": [
+    "whether kṣipen means immerse or throw is inferred"
+   ],
+   "plain_english": "The mantra-consecrated rosary should be immersed in the five cow products."
+  },
+  {
+   "verse": 1848,
+   "rows": [
+    {
+     "surface": "kathitaṃ",
+     "gloss": "is-declared",
+     "grounds": "past participle of kath",
+     "morph": "n.nom.sg.pastpart"
+    },
+    {
+     "surface": "śivamantrañ",
+     "gloss": "śiva-mantra",
+     "grounds": "compound śiva-mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "genitive plural of sādhaka",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hitāya",
+     "gloss": "for-benefit",
+     "grounds": "dative of hita",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For whose benefit is the Śiva mantra declared?",
+   "premises": [
+    "śiva mantra is declared",
+    "practitioners are named",
+    "benefit is stated"
+   ],
+   "inference": "The verse declares the Śiva mantra for the benefit of practitioners.",
+   "uncertainties": [
+    "whether ca is connective or emphatic is inferred"
+   ],
+   "plain_english": "The Śiva mantra is declared for the benefit of practitioners."
+  },
+  {
+   "verse": 1849,
+   "rows": [
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīraṃ",
+     "gloss": "water",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śarkarāmadhusaṃyutam",
+     "gloss": "mixed-with-sugar-and-honey",
+     "grounds": "compound śarkarā-madhu-saṃyuta",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What substances are mixed with sugar and honey?",
+   "premises": [
+    "ghee is named",
+    "milk is named",
+    "water is named",
+    "sugar and honey mixture is named"
+   ],
+   "inference": "The verse lists ghee, milk, and water mixed with sugar and honey.",
+   "uncertainties": [
+    "whether this is a five-cow-product supplement is inferred"
+   ],
+   "plain_english": "Ghee, milk, and water are mixed with sugar and honey."
+  }
+ ]
+}
