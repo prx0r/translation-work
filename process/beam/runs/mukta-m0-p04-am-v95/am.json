@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 95,
- "question": "What calculation procedure should be applied to the given number?",
+ "question": "From which fingers and in what order should the joint-counting sequence proceed?",
  "premises": [
-  "A specified number is taken as the base.",
-  "It is made sevenfold.",
-  "It should be divided by three."
+  "Counting begins from the ring and middle fingers.",
+  "The sequence proceeds from the little finger onward.",
+  "The order is to be followed precisely."
  ],
- "inference": "The procedure is to multiply the given number by seven and divide by three.",
+ "inference": "The recitation count proceeds in order beginning from the ring and middle fingers and continuing from the little finger onward.",
  "uncertainties": [
-  "The referent of the given number depends on prior context."
+  "exact mapping of the sequence across fingers"
  ],
- "plain_english": "Having made that number sevenfold, one should divide it by three."
+ "plain_english": "Beginning from the ring and middle fingers, and indeed in order from the little finger onward."
 }

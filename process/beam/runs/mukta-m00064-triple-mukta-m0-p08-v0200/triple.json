@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "temporal adverb indicating the present moment of inquiry",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotumicchāmi",
+     "gloss": "to-hear-i-desire",
+     "grounds": "fused form containing infinitive śrotum and first-person verb icchāmi from root iṣ; expresses wish to hear",
+     "morph": "inf.+1.sg.pres.act iṣ"
+    },
+    {
+     "surface": "vīraṣaṭkarmasādhanam",
+     "gloss": "hero-six-rite-accomplishment",
+     "grounds": "compound denoting the accomplishment of the six rites associated with the vīra grade; object of the desired hearing",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "Which accomplishment of the hero's six rites does the speaker now wish to hear?",
+   "premises": [
+    "The speaker marks a transition to the present moment of inquiry.",
+    "The speaker expresses a desire to hear a specific teaching.",
+    "The teaching sought concerns the accomplishment of the hero's six rites."
+   ],
+   "inference": "The speaker now requests instruction on the accomplishment of the hero's six rites.",
+   "uncertainties": [
+    "The specific six rites implied by ṣaṭkarman are not enumerated in this verse."
+   ],
+   "plain_english": "Now I wish to hear about the accomplishment of the hero's six rites."
+  }
+ ]
+}
