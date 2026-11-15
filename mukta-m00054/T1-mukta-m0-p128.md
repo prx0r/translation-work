@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-jewel+limbed-to(ratnāṅgāya) homage(namaḥ) || 772 || great+ocean+drinking+knower-to(mahārṇavanipānavide) homage(namaḥ)
+[jewel-limbed-to](ratnāṅgāya)[obeisance](namaḥ) [great-ocean-drinking-knower-to](mahārṇavanipānavide)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3177
-root-to(mūlāya) homage(namaḥ) || 774 || vast-to(viśālāya) homage(namaḥ) || 775 || immortal-to(amṛtāya)
+[root-to](mūlāya)[obeisance](namaḥ) [vast-to](viśālāya)[obeisance](namaḥ) [immortal-to](amṛtāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3178
-manifest+unmanifest-to(vyaktāvyaktāya) homage(namaḥ) || 777 || austerity+treasure-to(taponidhaye) homage(namaḥ) || 778 || ascent-to(ārohaṇāya) ||
+[manifest-unmanifest-to](vyaktāvyaktāya)[obeisance](namaḥ) [austerity-treasure-to](taponidhaye)[obeisance](namaḥ) [ascent-to](ārohaṇāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3179
-779 || elevation-to(adhirodhāya) homage(namaḥ) || 780 || trident+bearer-to(śūladhāriṇe) homage(namaḥ)
+[ascent-to](adhirodhāya)[obeisance](namaḥ) [trident-bearer-to](śūladhāriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3180
-great+fame-to(mahāyaśase) homage(namaḥ) || 782 || army+arrangement-to(senākalpāya) homage(namaḥ) || 783 || great+arrangement-to(mahākalpāya) ||
+[great-fame-to](mahāyaśase)[obeisance](namaḥ) [army-resembling-to](senākalpāya)[obeisance](namaḥ) [great-eon-to](mahākalpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3181
-784 || yoga-to(yogāya) homage(namaḥ) || 785 || age+maker-to(yugakarāya) homage(namaḥ) || 786 || remover-to(haraye) homage(namaḥ)
+[yoga-to](yogāya)[obeisance](namaḥ) [age-maker-to](yugakarāya)[obeisance](namaḥ) [tawny-to](haraye)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3182
-p. 471) age+form-to(yugarūpāya) homage(namaḥ) || 788 || great+form-to(mahārūpāya) homage(namaḥ)
+[age-form-to](yugarūpāya)[obeisance](namaḥ) [great-form-to](mahārūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3183
-great+serpent+slayer-to(mahānāgahanāya) homage(namaḥ) || 790 || slaying-to(vadhāya) homage(namaḥ)
+[great-serpent-slayer-to](mahānāgahanāya)[obeisance](namaḥ) [slaying-to](vadhāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3184
-justice+offering-to(nyāyanirvapaṇāya) homage(namaḥ) || 792 || foot-to(pādāya) homage(namaḥ) || 793 || learned-to(paṇḍitāya) ||
+[justice-distribution-to](nyāyanirvapaṇāya)[obeisance](namaḥ) [foot-to](pādāya)[obeisance](namaḥ) [learned-to](paṇḍitāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3185
-794 || immovable+like-to(acalopamāya) homage(namaḥ) || 795 || many+garlanded-to(bahumālāya) homage(namaḥ)
+[mountain-like-to](acalopamāya)[obeisance](namaḥ) [many-garlanded-to](bahumālāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3186
-great+garlanded-to(mahāmālāya) homage(namaḥ) || 797 || moon+Hara+beautiful+eyed-to(śaśiharasulocanāya) homage(namaḥ)
+[great-garlanded-to](mahāmālāya)[obeisance](namaḥ) [moon-Hara-beautiful-eyed-to](śaśiharasulocanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3187
-vast+salt+well-to(vistāralavaṇakūpāya) homage(namaḥ) || 799 || three+age-to(triyugāya) homage(namaḥ)
+[wide-salt-well-to](vistāralavaṇakūpāya)[obeisance](namaḥ) [three-age-to](triyugāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3188
-|| 803 || jewel+pierced-to(maṇividdhāya) homage(namaḥ) || 804 || matted-hair+bearer-to(jaṭādharāya) ||
+[jewel-pierced-to](maṇividdhāya)[obeisance](namaḥ) [matted-hair-bearer-to](jaṭādharāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3189
-drop-to(bindave) homage(namaḥ) || 806 || emission-to(visargāya) homage(namaḥ) || 807 || beautiful+faced-to(sumukhāya) homage(namaḥ)
+[point-to](bindave)[obeisance](namaḥ) [emission-to](visargāya)[obeisance](namaḥ) [beautiful-faced-to](sumukhāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3190
-arrow-to(śarāya) homage(namaḥ) || 809 || all+weaponed-to(sarvāyudhāya) homage(namaḥ) || 810 || companion-to(sahāya) homage(namaḥ)
+[arrow-to](śarāya)[obeisance](namaḥ) [all-weapons-to](sarvāyudhāya)[obeisance](namaḥ) [companion-to](sahāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3191
-offering-to(nivedanāya) homage(namaḥ) || 812 || happiness+born-to(sukhājātāya) homage(namaḥ) || 813 || good+fragrance-to(sugandhārāya) ||
+[offering-to](nivedanāya)[obeisance](namaḥ) [happily-born-to](sukhājātāya)[obeisance](namaḥ) [fragrant-to](sugandhārāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3192
-814 || great+bow-to(mahādhanuṣe) homage(namaḥ) || 815 || fragrance+protector+lord-to(gandhapālibhagavate) homage(namaḥ)
+[great-bow-to](mahādhanuṣe)[obeisance](namaḥ) [fragrance-protector-lord-to](gandhapālibhagavate)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3193
-all+action+arising-to(sarvakarmotthānāya) homage(namaḥ) || 817 || churning+abundant+wind-to(manthānabahulavāyave) homage(namaḥ)
+[all-action-arising-to](sarvakarmotthānāya)[obeisance](namaḥ) [churning-abundant-wind-to](manthānabahulavāyave)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3194
-whole-to(sakalāya) homage(namaḥ) || 819 || all+eyed-to(sarvalocanāya) homage(namaḥ) || 820 || palm+clapping-to(talastālāya) homage(namaḥ)
+[whole-to](sakalāya)[obeisance](namaḥ) [all-eyed-to](sarvalocanāya)[obeisance](namaḥ) [surface-clapping-to](talastālāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3195
-|| 824 || umbrella-to(chatrāya) homage(namaḥ) || 825 || beautiful+umbrella-to(succhatrāya) homage(namaḥ)
+[umbrella-to](chatrāya)[obeisance](namaḥ) [beautiful-umbrella-to](succhatrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3196
-renowned+world-to(vikhyātalokāya) homage(namaḥ) || 827 || all+refuge+order-to(sarvāśrayakramāya) homage(namaḥ)
+[famous-world-to](vikhyātalokāya)[obeisance](namaḥ) [all-refuge-course-to](sarvāśrayakramāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3197
-shaven-to(muṇḍāya) homage(namaḥ) || 829 || deformed-to(virūpāya) homage(namaḥ) || 830 || transformed-to(vikṛtāya) homage(namaḥ)
+[shaven-to](muṇḍāya)[obeisance](namaḥ) [deformed-to](virūpāya)[obeisance](namaḥ) [transformed-to](vikṛtāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3198
-staff+bearer-to(daṇḍine) homage(namaḥ) || 832 || earring+bearer-to(kuṇḍine) homage(namaḥ) || 833 || transforming-to(vikurvāṇāya) homage(namaḥ)
+[staff-bearer-to](daṇḍine)[obeisance](namaḥ) [earring-bearer-to](kuṇḍine)[obeisance](namaḥ) [transforming-to](vikurvāṇāya)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3199
-green+eyed-to(haryakṣāya) homage(namaḥ) || 835 || direction-to(kakubhāya) homage(namaḥ) || 836 || thunderbolt+bearer-to(vajriṇe) homage(namaḥ)
+[tawny-eyed-to](haryakṣāya)[obeisance](namaḥ) [direction-to](kakubhāya)[obeisance](namaḥ) [thunderbolt-bearer-to](vajriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p128-v3200
-hundred+tongued-to(śatajihvāya) homage(namaḥ) || 838 || thousand+footed+thousand+headed-to(sahasrapatsahasramūrddhne) homage(namaḥ)
+[hundred-tongued-to](śatajihvāya)[obeisance](namaḥ) [thousand-footed-thousand-headed-to](sahasrapatsahasramūrddhne)[obeisance](namaḥ)

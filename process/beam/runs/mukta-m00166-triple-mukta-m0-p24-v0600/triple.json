@@ -1,0 +1,82 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "tat+phalaṃ",
+     "gloss": "that-fruit",
+     "grounds": "compound; result of that hearing/qualification mentioned previously",
+     "morph": "compound: tat+phalam (n.nom.sg)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "addressed to the qualified recipient",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "hasta+gaṃ",
+     "gloss": "in-hand",
+     "grounds": "compound; gone to the hand, i.e. immediately accessible",
+     "morph": "compound: hasta+gam (n.nom.sg)"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "introduces the reason for accessibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāra+gaḥ",
+     "gloss": "door-keeper",
+     "grounds": "compound; one who stands at the door/gate, guardian of access",
+     "morph": "compound: dvāra+gaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "asi",
+     "gloss": "you-are",
+     "grounds": "states the recipient's role",
+     "morph": "2.sg.pres.act (√as)"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "continuous constancy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rahasya",
+     "gloss": "in-secret",
+     "grounds": "used adverbially in context; even in hidden or esoteric matters",
+     "morph": "n.nom.sg (used adverbially)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle extending the scope",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the fruit of that hearing immediately accessible to the qualified recipient?",
+   "premises": [
+    "The fruit of that hearing is in the recipient's hand.",
+    "The recipient is always the keeper of the door.",
+    "This role of door-keeper holds even in secret matters."
+   ],
+   "inference": "Because the qualified recipient constantly guards access, including in secret contexts, the fruit of that hearing is immediately within reach.",
+   "uncertainties": [
+    "The exact referent of tat+phalaṃ depends on the preceding verse's tat+śrutau.",
+    "rahasya is taken adverbially as in-secret though its surface form is neuter nominative singular."
+   ],
+   "plain_english": "Indeed, that fruit is in your hand, because you are always the doorkeeper, even in secret."
+  }
+ ]
+}

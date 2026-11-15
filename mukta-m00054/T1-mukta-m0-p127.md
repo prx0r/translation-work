@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[to-the-entering](praveśin) [to-the-finger+protector](āṅguha+pālāya) [obeisance](namaḥ) [to-the-excellent+foe](prakṛṣṭa+araye) [obeisance](namaḥ)
+[713](713) [||](||) [entering](praveśin)[limb+guardian](āṅguha+pālāya)[to](āya)[homage](namaḥ) [||](||) [714](714) [||](||) [excellent+enemy](prakṛṣṭa+araye)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3152
-[to-the-great+joy](mahā+harṣāya) [obeisance](namaḥ) [to-the-conqueror+of-desire](jita+kāmāya) [obeisance](namaḥ) [to-the-conqueror+of-senses](jita+indriyāya) [obeisance](namaḥ)
+[great+joy](mahā+harṣāya)[to](āya)[homage](namaḥ) [||](||) [716](716) [||](||) [conqueror+of-desire](jita+kāmāya)[to](āya)[homage](namaḥ) [||](||) [717](717) [||](||) [conqueror+of-senses](jita+indriyāya)[to](āya)[homage](namaḥ) [||](||)
 
 ## mukta-m0-p127-v3153
-[to-the-gāndhāra](gāndhārāya) [obeisance](namaḥ) [to-the-well+fragrant](su+vāsāya) [obeisance](namaḥ)
+[718](718) [||](||) [Gandhara](gāndhārāya)[to](āya)[homage](namaḥ) [||](||) [719](719) [||](||) [well+fragrant](su+vāsāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3154
-[to-the-devoted+to-austerity](tapaḥ+saktāya) [obeisance](namaḥ) [to-delight](rataye) [obeisance](namaḥ) [to-the-man](narāya) [obeisance](namaḥ)
+[devoted+to-austerity](tapaḥ+saktāya)[to](āya)[homage](namaḥ) [||](||) [721](721) [||](||) [delight](rataye)[to](āya)[homage](namaḥ) [||](||) [722](722) [||](||) [man](narāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3155
-[to-the-great+song](mahā+gītāya) [obeisance](namaḥ) [to-the-great+dance](maha+nṛtyāya) [obeisance](namaḥ)
+[great+song](mahā+gītāya)[to](āya)[homage](namaḥ) [||](||) [724](724) [||](||) [great+dance](maha+nṛtyāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3156
-[to-the-served+by-apsaras+multitude](apsaraḥ+gaṇa+sevitāya) [obeisance](namaḥ) [to-the-great+banner](mahā+ketave) [obeisance](namaḥ)
+[apsaras+multitude+served](apsaras+gaṇa+sevitāya)[to](āya)[homage](namaḥ) [||](||) [726](726) [||](||) [great+banner](mahā+ketave)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3157
-[to-the-great+slayer](mahā+ghātave) [obeisance](namaḥ) [to-the-having-many+attendants](naika+sānu+carāya) [obeisance](namaḥ) [to-the-moving](calāya) [obeisance](namaḥ)
+[great+slayer](mahā+ghātave)[to](āya)[homage](namaḥ) [||](||) [728](728) [||](||) [many+attendant](naika+sānucarāya)[to](āya)[homage](namaḥ) [||](||) [729](729) [||](||) [moving](calāya)[to](āya)[homage](namaḥ) [||](||)
 
 ## mukta-m0-p127-v3158
-[to-the-to-be-made-known](āvedanīyāya) [obeisance](namaḥ)
+[730](730) [||](||) [to-be-made-known](āvedanīyāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3159
-[to-the-command](ādeśāya) [obeisance](namaḥ) [to-the-bringer+of-all+fragrance+happiness](sarva+gandha+sukha+āvahāya) [obeisance](namaḥ)
+[p.](p.) [470)](470)) [command](ādeśāya)[to](āya)[homage](namaḥ) [||](||) [732](732) [||](||) [all+fragrance+happiness+bringing](sarva+gandha+sukha+āvahāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3160
-[to-the-archway](toraṇāya) [obeisance](namaḥ) [to-the-deliverer](tāraṇāya) [obeisance](namaḥ) [to-the-wind](vātāya) [obeisance](namaḥ)
+[archway](toraṇāya)[to](āya)[homage](namaḥ) [||](||) [734](734) [||](||) [savior](tāraṇāya)[to](āya)[homage](namaḥ) [||](||) [735](735) [||](||) [wind](vātāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3161
-[to-the-enclosure](paridhaye) [obeisance](namaḥ) [to-the-lord+of-sky-goers](pati+khecarāya) [obeisance](namaḥ)
+[enclosure](paridhaye)[to](āya)[homage](namaḥ) [||](||) [737](737) [||](||) [lord+sky-moving](pati+khecarāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3162
-[to-the-increaser+of-union](sa/yyoga+varddhanāya) [obeisance](namaḥ) [to-the-increased+by-superior+qualities](guṇa+adhika+vṛddhāya) [obeisance](namaḥ)
+[union+increasing](sa/yyoga+varddhanāya)[to](āya)[homage](namaḥ) [||](||) [739](739) [||](||) [quality+surpassing+growth](guṇa+adhika+vṛddhāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3163
-[to-the-exceedingly+increased](ati+vṛddhāya) [obeisance](namaḥ) [to-the-possessing-superior+qualities](guṇa+adhikāya) [obeisance](namaḥ)
+[exceedingly+grown](ati+vṛddhāya)[to](āya)[homage](namaḥ) [||](||) [741](741) [||](||) [quality+surpassing](guṇa+adhikāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3164
-[to-the-eternal+self+companion](nitya+ātma+sahāyāya) [obeisance](namaḥ) [to-the-lord+of-gods+and-demons](deva+asura+pataye) [obeisance](namaḥ) [to-the-lord](patye) [obeisance](namaḥ)
+[eternal+self+companion](nitya+ātma+sahāyāya)[to](āya)[homage](namaḥ) [||](||) [743](743) [||](||) [god+asura+lord](deva+asura+pataye)[to](āya)[homage](namaḥ) [||](||) [744](744) [||](||) [lord](patye)[to](āya)[homage](namaḥ) [||](||)
 
 ## mukta-m0-p127-v3165
-[to-the-yoked](yuktāya) [obeisance](namaḥ) [to-the-having-yoked+arms](yukta+bāhave) [obeisance](namaḥ)
+[745](745) [||](||) [yoked](yuktāya)[to](āya)[homage](namaḥ) [||](||) [746](746) [||](||) [yoked+arm](yukta+bāhave)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3166
-[to-the-god+of-heavenly+festivals](divi+su+parva+devāya) [obeisance](namaḥ) [to-the-āṣāḍha](āṣāḍhāya) [obeisance](namaḥ)
+[in-heavens+supreme+god](divi+suparva+devāya)[to](āya)[homage](namaḥ) [||](||) [748](748) [||](||) [Āṣāḍha](āṣāḍhāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3167
-[to-the-very+enduring](su+ṣāḍhāya) [obeisance](namaḥ) [to-the-firm](dhruvāya) [obeisance](namaḥ) [to-the-seizing](haraṇāya) [obeisance](namaḥ)
+[very+enduring](su+ṣāḍhāya)[to](āya)[homage](namaḥ) [||](||) [750](750) [||](||) [firm](dhruvāya)[to](āya)[homage](namaḥ) [||](||) [751](751) [||](||) [remover](haraṇāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3168
-[to-the-remover](harāya) [obeisance](namaḥ) [to-the-having-revolving+form](āvarttamāna+vapuṣe) [obeisance](namaḥ)
+[destroyer](harāya)[to](āya)[homage](namaḥ) [||](||) [753](753) [||](||) [revolving+body](āvarttamāna+vapuṣe)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3169
-[to-the-best+of-wealth](vasu+śreṣṭhāya) [obeisance](namaḥ) [to-the-great+path](mahā+pathāya) [obeisance](namaḥ)
+[wealth+best](vasu+śreṣṭhāya)[to](āya)[homage](namaḥ) [||](||) [755](755) [||](||) [great+path](mahā+pathāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3170
-[to-the-remover+of-the-head+of-doubt](vimarśa+śiraḥ+hāriṇe) [obeisance](namaḥ) [to-the-marked+by-all+characteristics](sarva+lakṣaṇa+lakṣitāya) [obeisance](namaḥ)
+[reflection+head+remover](vimarśa+śiras+hāriṇe)[to](āya)[homage](namaḥ) [||](||) [757](757) [||](||) [all+characteristic+marked](sarva+lakṣaṇa+lakṣitāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3171
-[to-the-yogin+of-the-imperishable+chariot](akṣa+ratha+yogine) [obeisance](namaḥ) [to-the-all+yogin](sarva+yogine) [obeisance](namaḥ) [to-the-great+strength](mahā+balāya) [obeisance](namaḥ)
+[imperishable+chariot+yogin](akṣa+ratha+yogine)[to](āya)[homage](namaḥ) [||](||) [759](759) [||](||) [all+yogin](sarva+yogine)[to](āya)[homage](namaḥ) [||](||) [760](760) [||](||) [great+strength](mahā+balāya)[to](āya)[homage](namaḥ) [||](||)
 
 ## mukta-m0-p127-v3172
-[to-the-tradition](samāmnāyāya) [obeisance](namaḥ) [to-the-non-tradition](a+sāmnāyāya) [obeisance](namaḥ)
+[761](761) [||](||) [sacred-tradition](samāmnāyāya)[to](āya)[homage](namaḥ) [||](||) [762](762) [||](||) [non-tradition](asāmnāyāya)[to](āya)[homage](namaḥ)
 
 ## mukta-m0-p127-v3173
-[to-the-god+of-holy-fords](tīrttha+devāya) [obeisance](namaḥ) [to-the-great+chariot](mahā+rathāya) [obeisance](namaḥ) [to-the-lifeless](nirjjīvāya) [obeisance](namaḥ)
+[holy-place+god](tīrttha+devāya)[to](āya)[homage](namaḥ) [||](||) [764](764) [||](||) [great+chariot](mahā+rathāya)[to](āya)[homage](namaḥ) [||](||) [765](765) [||](||) [lifeless](nirjjīvāya)[to](āya)[homage](namaḥ) [||](||)
 
 ## mukta-m0-p127-v3174
-[to-the-life-giving](jīvanāya) [obeisance](namaḥ) [to-the-mantra](mantrāya) [obeisance](namaḥ) [to-the-auspicious+eyed](śubha+akṣāya) [obeisance](namaḥ)
+[766](766) [||](||) [life-giving](jīvanāya)[to](āya)[homage](namaḥ) [||](||) [767](767) [||](||) [mantra](mantrāya)[to](āya)[homage](namaḥ) [||](||) [768](768) [||](||) [auspicious+eye](śubha+akṣāya)[to](āya)[homage](namaḥ) [||](||)
 
 ## mukta-m0-p127-v3175
-[to-the-very+harsh](bahu+karkaśāya) [obeisance](namaḥ) [to-the-abounding+in-jewels](ratna+prabhūtāya) [obeisance](namaḥ)
+[769](769) [||](||) [very+rough](bahu+karkaśāya)[to](āya)[homage](namaḥ) [||](||) [770](770) [||](||) [jewel+abundant](ratna+prabhūtāya)[to](āya)[homage](namaḥ)
