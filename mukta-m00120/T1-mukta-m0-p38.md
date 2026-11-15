@@ -5,13 +5,13 @@
 [of-knowers](jñānināṃ) [by-knowledge+difference](jñānabhedena) [of-various+forms](nānārūpā) [and](ca) [by-consciousness](samvidā)
 
 ## mukta-m0-p38-v927
-[fault](dūṣaṇaṃ) [indeed](hi) [of-fruit+described](phalāktasya) [quality](guṇaṃ) [to-be-known](jñeyaṃ) [indeed](hi) [of-that](tasya) [but](tu)
+[fault](dūṣaṇaṃ) [indeed](hi) [of-fruit+marked](phalāktasya) [quality](guṇaṃ) [to-be-known](jñeyaṃ) [indeed](hi) [of-that](tasya) [but](tu)
 
 ## mukta-m0-p38-v928
 [characteristic](lakṣaṇaṃ) [indeed](hi) [likewise](tathā) [praise](stotraṃ) [my](mama) [in-place](sthāne) [reveal](prakāśaya)
 
 ## mukta-m0-p38-v929
-[otherwise](anyathā) [of-consciousnesses](samvidāṃ) [knowledge](vidyāṃ) [drink](pivet) [bliss+cause](ānandahetave)
+[otherwise](anyathā) [of-consciousnesses](samvidāṃ) [knowledge](vidyāṃ) [drink](pived) [bliss+cause](ānandahetave)
 
 ## mukta-m0-p38-v930
 [by-flower+difference](puṣpabhedena) [O-goddess+lord](deveśi) [species+difference](jātibhedaṃ) [one-should-consider](vicintayet)
@@ -20,7 +20,7 @@
 [in-action+destroyed](karmanaṣṭe) [in-birth+destroyed](jātinaṣṭe) [even](api) [liberation+sharer](muktibhāk)
 
 ## mukta-m0-p38-v932
-[with-sugar](sitayā) [or](atha) [with-molasses](guḍena) [also](api) [with-ripe](pakvaiḥ) [with-bananas](kadalikair) [also](api)
+[with-sugar](sitayā) [or](atha) [with-jaggery](guḍena) [also](api) [with-ripe](pakvaiḥ) [with-bananas](kadalikair) [also](api)
 
 ## mukta-m0-p38-v933
 [by-that](tena) [all](sarveṇa) [vijayā](vijayāṃ) [one-should-take](svīkuryāt) [practitioner+best](sādhakottamaḥ)
@@ -29,16 +29,16 @@
 [great+splendor+making](mahātejaskarī) [eye+defect+etc.+destroying](cakṣurdoṣādikavināśinī)
 
 ## mukta-m0-p38-v935
-[with-ghee](ghṛtena) [with-honey](madhunā) [bears](dhatte) [speech+goddess+subduing](vāgdevīvaśakāriṇī)
+[with-ghee](ghṛtena) [with-honey](madhunā) [holds](dhatte) [speech+goddess+subduing](vāgdevīvaśakāriṇī)
 
 ## mukta-m0-p38-v936
 [bile+defects](pittadoṣān) [phlegm+defects](śleṣmadoṣān) [with-honey](madhunā) [together](saha) [destroys](nāśayet)
 
 ## mukta-m0-p38-v937
-[with-sugar](sitayā) [or](atha) [with-molasses](guḍena) [indeed](eva) [colic+destroying](śūlaghnī) [bile+destroying](pittanāśinī)
+[with-sugar](sitayā) [or](atha) [with-jaggery](guḍena) [indeed](eva) [colic+destroying](śūlaghnī) [bile+destroying](pittanāśinī)
 
 ## mukta-m0-p38-v938
-[raw+rheumatism+arisen](āmavātasamudbhūta) [diarrhea+removing](grahaṇīvinivāriṇī)
+[rheumatism+arisen](āmavātasamudbhūta) [sprue+removing](grahaṇīvinivāriṇī)
 
 ## mukta-m0-p38-v939
 [strength+nourishment+giving](valapuṣṭipradā) [and](ca) [indeed](eva) [sweet+voice+giving](madhurasvaradāyinī)
@@ -50,19 +50,19 @@
 [guru+mantra](gurumantraṃ) [having-uttered](samuccārya) [dative+ending](caturthyantaṃ) [one-should-offer](nivedayet)
 
 ## mukta-m0-p38-v942
-[of-chosen+deity](iṣṭadevasya) [that+mantra](tanmantraṃ) [muttering](prajapan) [should-move](viharet) [accomplished-one](kṛtī)
+[chosen+deity](iṣṭadevasya) [its+mantra](tanmantraṃ) [muttering](prajapan) [should-move](viharet) [accomplished-one](kṛtī)
 
 ## mukta-m0-p38-v943
 [splendid](tejasvī) [strong](valavān) [eloquent](vāgmī) [intelligent](medhāvī) [pleasant+to-see](priyadarśanaḥ)
 
 ## mukta-m0-p38-v944
-[will-be](bhaviṣyati) [not](na) [doubt](sandeho) [of-substance](dravyasya) [of-this](asya) [from-use](niṣevaṇāt)
+[will-be](bhaviṣyati) [not](na) [doubt](sandeho) [of-substance](dravyasya) [of-this](asya) [by-use](niṣevaṇāt)
 
 ## mukta-m0-p38-v945
 [consciousness](samvit) [application](prayogas) [by-that](tena) [indeed](eva) [to-be-done](kartavyaḥ) [practitioner+best](sādhakottamaḥ)
 
 ## mukta-m0-p38-v946
-[one+tola](tolakambā) [two+tolas](dvitolambā) [three+tolas](tolakatrayameva) [or](vā)
+[one+tola](tolakambā) [two+tolas](dvitolambā) [three+tolas](tolakatrayam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p38-v947
 [therefore](tasmāt) [measure+quantity](pramāṇamātrā) [indeed](hi) [to-be-done](kartavyā) [success+desiring](siddhimicchatā)

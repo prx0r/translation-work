@@ -20,7 +20,7 @@
 },
 {
 "surface": "mātṛbhāvaṃ",
-"quick_gloss": "mother-attitude"
+"quick_gloss": "mother-state"
 },
 {
 "surface": "parityajet",
@@ -36,8 +36,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrīguroḥ",
-"quick_gloss": "of-the-venerable-guru"
+"surface": "śrīguroś",
+"quick_gloss": "śrī-guru's"
 },
 {
 "surface": "caraṇaṃ",
@@ -66,7 +66,7 @@
 "tokens": [
 {
 "surface": "ānandabhairavaṃ",
-"quick_gloss": "Ānanda-Bhairava"
+"quick_gloss": "ānanda-bhairava"
 },
 {
 "surface": "devaṃ",
@@ -74,7 +74,7 @@
 },
 {
 "surface": "sveṣṭavidyāṃ",
-"quick_gloss": "one's-own-chosen-mantra"
+"quick_gloss": "one's-own-chosen-vidyā"
 },
 {
 "surface": "hi",
@@ -95,11 +95,15 @@
 "tokens": [
 {
 "surface": "sahasrāre",
-"quick_gloss": "in-the-thousand-petalled-lotus"
+"quick_gloss": "in-the-sahasrāra"
 },
 {
-"surface": "sveṣṭavidyāsahitaṃ",
-"quick_gloss": "together-with-one's-own-chosen-mantra"
+"surface": "sveṣṭavidyā",
+"quick_gloss": "with-one's-own-chosen-vidyā"
+},
+{
+"surface": "sahitaṃ",
+"quick_gloss": "accompanied"
 },
 {
 "surface": "tarpayed",
@@ -132,7 +136,7 @@
 },
 {
 "surface": "sahasrāre",
-"quick_gloss": "in-the-thousand-petalled-lotus"
+"quick_gloss": "in-the-sahasrāra"
 },
 {
 "surface": "mahāpure",
@@ -152,7 +156,7 @@
 "quick_gloss": "and-therefore"
 },
 {
-"surface": "tarpayet",
+"surface": "tarpayed",
 "quick_gloss": "one-should-satisfy"
 },
 {
@@ -161,15 +165,15 @@
 },
 {
 "surface": "tāntrike",
-"quick_gloss": "in-tantric"
-},
-{
-"surface": "vaidikeṣu",
-"quick_gloss": "in-vedic"
+"quick_gloss": "in-tāntric"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
+},
+{
+"surface": "vaidikeṣu",
+"quick_gloss": "in-vedic-rites"
 }
 ]
 },
@@ -182,7 +186,7 @@
 "tokens": [
 {
 "surface": "śrīpādukāṃ",
-"quick_gloss": "venerable-sandals"
+"quick_gloss": "śrī-sandals"
 },
 {
 "surface": "tarpayāmi",
@@ -251,12 +255,12 @@
 "quick_gloss": "or"
 },
 {
-"surface": "parameṣṭhiguruḥ",
-"quick_gloss": "and-the-supreme-guru"
-},
-{
 "surface": "ca",
 "quick_gloss": "and"
+},
+{
+"surface": "parameṣṭhiguruś",
+"quick_gloss": "the-supreme-guru"
 },
 {
 "surface": "kaḥ",
@@ -288,8 +292,12 @@
 "quick_gloss": "fire"
 },
 {
-"surface": "kāṣṭhasaṃyutaḥ",
-"quick_gloss": "joined-with-wood"
+"surface": "kāṣṭha",
+"quick_gloss": "with-wood"
+},
+{
+"surface": "saṃyutaḥ",
+"quick_gloss": "joined"
 }
 ]
 },
@@ -309,7 +317,7 @@
 "quick_gloss": "having-made"
 },
 {
-"surface": "sthūlasūkṣmaṃ",
+"surface": "sthūla+sūkṣmaṃ",
 "quick_gloss": "gross-and-subtle"
 },
 {
@@ -334,11 +342,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parāparaguruḥ",
+"surface": "parāparagurus",
 "quick_gloss": "the-higher-lower-guru"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -346,16 +354,16 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "parameṣṭhiguruḥ",
+"surface": "parameṣṭhigurur",
 "quick_gloss": "the-supreme-guru"
-},
-{
-"surface": "hi",
-"quick_gloss": "indeed"
 },
 {
 "surface": "aham",
 "quick_gloss": "I"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -379,8 +387,12 @@
 "quick_gloss": "I-satisfy"
 },
 {
-"surface": "dvidhāantakaḥ",
-"quick_gloss": "twice-ending"
+"surface": "dvidhā",
+"quick_gloss": "in-two-ways"
+},
+{
+"surface": "antakaḥ",
+"quick_gloss": "ending"
 }
 ]
 },
@@ -392,7 +404,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tarpayet",
+"surface": "tarpayec",
 "quick_gloss": "one-should-satisfy"
 },
 {
@@ -401,7 +413,7 @@
 },
 {
 "surface": "kriyāsaṅgād",
-"quick_gloss": "from-attachment-to-ritual-action"
+"quick_gloss": "from-attachment-to-ritual"
 },
 {
 "surface": "guruṇā",
@@ -429,16 +441,24 @@
 "quick_gloss": "white-colored"
 },
 {
-"surface": "dvibhujāktā",
-"quick_gloss": "possessing-two-arms"
+"surface": "dvibhujā",
+"quick_gloss": "two-armed"
+},
+{
+"surface": "uktā",
+"quick_gloss": "described"
 },
 {
 "surface": "dvinetrā",
 "quick_gloss": "two-eyed"
 },
 {
-"surface": "tatsamāyutam",
-"quick_gloss": "endowed-with-him"
+"surface": "tat",
+"quick_gloss": "with-him"
+},
+{
+"surface": "samāyutam",
+"quick_gloss": "united"
 }
 ]
 },
@@ -450,8 +470,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatsaṃyuktaṃ",
-"quick_gloss": "united-with-him"
+"surface": "tat",
+"quick_gloss": "with-him"
+},
+{
+"surface": "saṃyuktaṃ",
+"quick_gloss": "united"
 },
 {
 "surface": "guruṃ",
@@ -479,15 +503,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṃguṣṭhatarjanīyogād",
-"quick_gloss": "from-the-union-of-thumb-and-forefinger"
+"surface": "aṃguṣṭha+tarjanī",
+"quick_gloss": "from-thumb-and-forefinger"
+},
+{
+"surface": "yogād",
+"quick_gloss": "union"
 },
 {
 "surface": "dakṣiṇe",
 "quick_gloss": "on-the-right"
 },
 {
-"surface": "puṣpapātanam",
+"surface": "puṣpa+pātanam",
 "quick_gloss": "falling-of-flower"
 }
 ]
@@ -500,8 +528,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anayoryogamātreṇa",
-"quick_gloss": "by-the-mere-union-of-these-two"
+"surface": "anayor",
+"quick_gloss": "of-these-two"
+},
+{
+"surface": "yogamātreṇa",
+"quick_gloss": "by-mere-union"
 },
 {
 "surface": "dravyaṃ",
@@ -526,7 +558,7 @@
 "tokens": [
 {
 "surface": "aṃguṣṭhayogāt",
-"quick_gloss": "by-the-union-of-the-thumb"
+"quick_gloss": "from-union-with-thumb"
 },
 {
 "surface": "sā",
@@ -542,7 +574,7 @@
 },
 {
 "surface": "kāmavihvalā",
-"quick_gloss": "overwhelmed-with-desire"
+"quick_gloss": "overwhelmed-by-desire"
 }
 ]
 },
@@ -563,7 +595,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "yoniṃ",
@@ -657,8 +689,8 @@
 "quick_gloss": "to-all"
 },
 {
-"surface": "bandhamuktidam",
-"quick_gloss": "giver-of-bondage-and-liberation"
+"surface": "bandha+muktidam",
+"quick_gloss": "giving-bondage-and-liberation"
 }
 ]
 },
@@ -686,16 +718,16 @@
 "quick_gloss": "on-one's-own-head"
 },
 {
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
 "surface": "hṛdaye",
 "quick_gloss": "in-the-heart"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
-},
-{
-"surface": "vā",
-"quick_gloss": "or"
 }
 ]
 },
@@ -727,7 +759,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "aikavārakam",
+"surface": "ekavārakam",
 "quick_gloss": "once"
 }
 ]
