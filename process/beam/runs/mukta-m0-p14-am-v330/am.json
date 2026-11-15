@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p14",
  "verse": 330,
- "question": "Whose attraction is said to be certain among these powers?",
+ "question": "What range of modular units is specified for the interval in this measurement?",
  "premises": [
-  "attraction of serpents is included",
-  "attraction of humans is included",
-  "it is certain"
+  "A sequence of numbers from one to seven is given.",
+  "The numbers qualify modular units.",
+  "The specification concerns an interval."
  ],
- "inference": "The verse states attraction of serpents and humans is certainly included.",
- "uncertainties": [
-  "ākarṣaṇaṃ may be accusative object"
- ],
- "plain_english": "Attraction of serpents and humans is certainly included."
+ "inference": "The interval should be within one to seven modular units.",
+ "uncertainties": [],
+ "plain_english": "The interval should be within one, two, three, four, five, six, or seven units."
 }

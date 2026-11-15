@@ -304,13 +304,20 @@ def swarm_status() -> dict:
 
 
 @mcp.tool()
-def swarm_seed(work: str, song: str, group: int = 24, token_budget: int = 0) -> dict:
-    """Seed swarmable triple tasks (gloss+CM+argmap+L2 per verse-group) for a
-    song. Writes queue.json ONLY. Requires a lore brief (see lore tool) —
-    unbriefed seeds degenerate (mistakes #21). 24 verses/group default;
-    auto-halves on output ceiling. token_budget>0 packs by source tokens
-    instead (prose-heavy units: 24-verse windows blow output; ~250 works)."""
-    if _lore_path(work) is None and work.startswith("tantraloka-a"):
+def swarm_seed(work: str, song: str, group: int = 24, token_budget: int = 0,
+               layers: str = "t1l0") -> dict:
+    """Seed swarm tasks for a song. Writes queue.json ONLY.
+
+    layers='t1l0' (DEFAULT — the burn): seed per-verse tal_gloss (T1) + tal_cm
+    (L0) ONLY. No brief required — the brief is written POST-HOC and feeds the
+    assessor lane (argmap/L2/C1). This is the continuous bulk lane.
+    layers='full': seed tal_triple (gloss+CM+argmap+L2 per group). Requires a
+    transmission brief (unbriefed seeds degenerate, mistakes #21); 24v/group
+    default, token_budget packs prose-heavy fronts. Use for assessor work, not
+    the burn."""
+    if layers not in ("t1l0", "full"):
+        return {"seeded": 0, "error": "layers must be 't1l0' or 'full'"}
+    if layers == "full" and _lore_path(work) is None and work.startswith("tantraloka-a"):
         return {"seeded": 0, "warning": "no transmission brief for this front — write lore first"}
     sys.path.insert(0, str(ROOT / "tools"))
     import tal_stage
@@ -322,14 +329,21 @@ def swarm_seed(work: str, song: str, group: int = 24, token_budget: int = 0) -> 
     if _chk.returncode not in (0,):
         return {"seeded": 0, "blocked": True,
                 "detail": (_chk.stdout + _chk.stderr)[-800:]}
-    if not token_budget and not work.startswith("tantraloka-a"):
-        token_budget = 250  # prose-heavy non-TAL fronts: size by tokens
-    wt = tal_stage.stage_parse(work, song)
-    before = len(tal_stage.load_q())
-    tal_stage.stage_seed_triple(work, song, group=group, token_budget=token_budget)
-    after = len(tal_stage.load_q())
-    out = {"seeded": after - before, "verses": len(wt), "group": group,
-           "token_budget": token_budget}
+    if layers == "full":
+        if not token_budget and not work.startswith("tantraloka-a"):
+            token_budget = 250  # prose-heavy non-TAL fronts: size by tokens
+        wt = tal_stage.stage_parse(work, song)
+        before = len(tal_stage.load_q())
+        tal_stage.stage_seed_triple(work, song, group=group, token_budget=token_budget)
+        after = len(tal_stage.load_q())
+        out = {"seeded": after - before, "verses": len(wt), "group": group,
+               "token_budget": token_budget, "layers": "full"}
+    else:
+        wt = tal_stage.stage_parse(work, song)
+        before = len(tal_stage.load_q())
+        tal_stage.stage_seed(work, song, am_ctx=False)
+        after = len(tal_stage.load_q())
+        out = {"seeded": after - before, "verses": len(wt), "layers": "t1l0"}
     if _warnings:
         out["warnings"] = _warnings
     return out
@@ -502,6 +516,15 @@ def progress() -> dict:
     failure classes, assembled songs, host load/mem/disk, flags). Safe to
     call hourly from a ChatGPT scheduled task."""
     return _run(["tools/watchdog_progress.py"])
+
+
+@mcp.tool()
+def burn_status() -> dict:
+    """The BURN dashboard: the canonical definition (T1+L0 factory at scale)
+    and its live state — gloss (T1) and cm (L0) done counts, queued gloss/cm,
+    any stray tal_triple/tal_am pending (should be 0 in burn mode), legacy
+    argmap runs, active works, verses indexed, workers, paused. Read-only."""
+    return _run(["tools/burn_status.py"], timeout=120)
 
 
 @mcp.tool()
@@ -927,7 +950,7 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_workers", "review_sweep", "beam_review",
          "bibliography", "priority", "schema", "stats", "works",
          "editions", "links", "availability", "onboard", "burn",
-         "recycle", "watchdog", "progress", "queue_guard",
+         "recycle", "watchdog", "progress", "burn_status", "queue_guard",
          "serve_status", "make_readable", "make_traces", "health", "audit_align", "verify_core", "quota"]
 
 

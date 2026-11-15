@@ -3,29 +3,39 @@
  "verse": 491,
  "rows": [
   {
-   "lemma": "japet",
-   "morph": "3.sg.act-opt root-jap",
-   "grounds": "legacy hint one-should-recite"
+   "lemma": "aśvattha",
+   "morph": "compound: aśvattha+tvaci",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "aṣṭa+uttara+śataṃ",
-   "morph": "n.acc.sg",
-   "grounds": "legacy hint eight+over+hundred"
+   "lemma": "tvaci",
+   "morph": "f.loc.sg",
+   "grounds": "writing surface"
   },
   {
-   "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "legacy hint there"
+   "lemma": "mantra",
+   "morph": "compound: mantra+arṇaiḥ",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "yogasya",
-   "morph": "m.gen.sg",
-   "grounds": "legacy hint of-practice"
+   "lemma": "arṇaiḥ",
+   "morph": "m.ins.pl",
+   "grounds": "mantra letters"
   },
   {
-   "lemma": "siddhaye",
-   "morph": "f.dat.sg",
-   "grounds": "legacy hint for-success"
+   "lemma": "darbhitaṃ",
+   "morph": "n.acc.sg past-participle",
+   "grounds": "prepared or split material"
+  },
+  {
+   "lemma": "sādhyam",
+   "morph": "m.acc.sg",
+   "grounds": "person to be affected"
+  },
+  {
+   "lemma": "ālikhet",
+   "morph": "3.sg.act-optative ā+√likh",
+   "grounds": "inscription act"
   }
  ]
 }

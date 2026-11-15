@@ -304,7 +304,11 @@ def stage_assemble(work, song):
         (dd / f'{song}.{n}.json').write_text(json.dumps(o, indent=1, ensure_ascii=False))
     (W / f'working-t1-{song}.json').write_text(json.dumps(wt, indent=1, ensure_ascii=False))
     c1p = dd / f'{song}.c1.json'
-    if not c1p.exists():
+    if not c1p.exists() and os.environ.get('TW_AUTO_C1') == '1':
+        # NOTE: default OFF. A derived essence (from argmap inference) is the
+        # C1_L2_SHARED shortcut PROCESS-NOTES forbids. Real minimal gold needs
+        # an ASSESSOR-AUTHORED C1-essence. Set TW_AUTO_C1=1 only for throwaway
+        # previews, never for gold.
         ess, seen = [], set()
         for o in am:
             s_ = ' '.join(o['inference'].split())[:220]
@@ -325,6 +329,7 @@ def main():
     ap.add_argument('--song', required=True)
     ap.add_argument('--seed', action='store_true')
     ap.add_argument('--triple', action='store_true', help='one beam call per 24 verses (auto-halves on output ceiling)')
+    ap.add_argument('--t1l0', action='store_true', help='seed/wait for T1+L0 only (gloss+cm); no argmap/L2 (burn mode)')
     ap.add_argument('--loop', action='store_true')
     ap.add_argument('--wait', type=int, default=600)
     ap.add_argument('--max-wait', type=int, default=7200)
@@ -334,15 +339,22 @@ def main():
     waited = 0
     while True:
         if a.seed:
-            if a.triple:
+            if a.t1l0:
+                stage_seed(a.work, a.song, am_ctx=False)
+            elif a.triple:
                 stage_seed_triple(a.work, a.song)
             else:
                 stage_seed(a.work, a.song)
             a.seed = False
         c = counts(a.song, [e['verse'] for e in wt])
         n = len(wt)
-        print(f'{a.song}: gloss {c["gloss"]}/{n} cm {c["cm"]}/{n} am {c["am"]}/{n}')
-        if all(v == n for v in c.values()):
+        print(f'{a.song}: gloss {c["gloss"]}/{n} cm {c["cm"]}/{n} am {c["am"]}/{n}'
+              + (' [T1+L0 mode]' if a.t1l0 else ''))
+        if a.t1l0:
+            if c['gloss'] == n and c['cm'] == n:
+                print('T1+L0 complete (burn mode) — argmap/L2 deferred to assessor')
+                break
+        elif all(v == n for v in c.values()):
             break
         if not a.loop or waited >= a.max_wait:
             print('incomplete — rerun with --loop (and workers running)')

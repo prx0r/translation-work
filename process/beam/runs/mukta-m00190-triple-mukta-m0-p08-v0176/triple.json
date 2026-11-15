@@ -1,0 +1,1313 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "ardharātre",
+     "gloss": "at-midnight",
+     "grounds": "time for writing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "stambham",
+     "gloss": "immobilization",
+     "grounds": "ritual aim",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākṛṣṭiṃ",
+     "gloss": "attraction",
+     "grounds": "ritual aim",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāk",
+     "gloss": "before",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dina",
+     "gloss": "day",
+     "grounds": "time reference",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "udayāt",
+     "gloss": "sunrise",
+     "grounds": "time limit",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "At what times should immobilization and attraction rites be written?",
+   "premises": [
+    "Immobilization and attraction are ritual aims",
+    "Midnight is a prescribed time",
+    "Before sunrise is another prescribed time"
+   ],
+   "inference": "Immobilization and attraction should be written at midnight or before sunrise",
+   "uncertainties": [],
+   "plain_english": "At midnight one should write for immobilization and attraction, or before sunrise."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "indre",
+     "gloss": "in-east",
+     "grounds": "directional placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "stambhanam",
+     "gloss": "immobilization",
+     "grounds": "ritual aim",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uccāṭam",
+     "gloss": "eradication",
+     "grounds": "ritual aim",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-southeast",
+     "grounds": "directional placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies sorcery",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhicārakam",
+     "gloss": "sorcery",
+     "grounds": "ritual aim",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which ritual aims correspond to the eastern and southeastern directions?",
+   "premises": [
+    "Directions govern ritual placement",
+    "Immobilization is assigned to the east",
+    "Eradication and all sorcery are assigned to the southeast"
+   ],
+   "inference": "Immobilization belongs to the east, while eradication and all sorcery belong to the southeast",
+   "uncertainties": [],
+   "plain_english": "In the east perform immobilization, and in the southeast perform eradication and all sorcery."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "kula",
+     "gloss": "family",
+     "grounds": "object of destruction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "utsādaṃ",
+     "gloss": "destruction",
+     "grounds": "ritual aim",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "marut",
+     "gloss": "northwest",
+     "grounds": "directional placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "quarter",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "in-side",
+     "grounds": "directional or spatial context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kalaha",
+     "gloss": "quarrel",
+     "grounds": "ritual aim",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nigrahau",
+     "gloss": "subduing",
+     "grounds": "ritual aim",
+     "morph": "m.acc.du"
+    }
+   ],
+   "question": "Which ritual aims are assigned to the northwest quarter and side?",
+   "premises": [
+    "Directions govern ritual placement",
+    "Family destruction is assigned to the northwest quarter",
+    "Quarrel and subduing are assigned to the side"
+   ],
+   "inference": "Family destruction belongs to the northwest quarter, and quarrel and subduing belong to the side",
+   "uncertainties": [
+    "pakṣe may indicate a specific directional side or fortnight context"
+   ],
+   "plain_english": "In the northwest quarter perform family destruction, and in the side perform quarrel and subduing."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "vaśya",
+     "gloss": "subjugation",
+     "grounds": "ritual aim",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ākṛṣṭau",
+     "gloss": "attraction",
+     "grounds": "ritual aim",
+     "morph": "f.acc.du"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "bhūrje",
+     "gloss": "on-birch-bark",
+     "grounds": "writing material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "eradication",
+     "grounds": "ritual aim",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhvaje",
+     "gloss": "on-flag",
+     "grounds": "writing material",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "On what materials should subjugation, attraction, and eradication be written?",
+   "premises": [
+    "Subjugation and attraction are ritual aims",
+    "Eradication is a ritual aim",
+    "Birch bark and a flag are prescribed materials"
+   ],
+   "inference": "Subjugation and attraction should be written on birch bark, and eradication on a flag",
+   "uncertainties": [],
+   "plain_english": "One should write subjugation and attraction on birch bark, and write eradication on a flag."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "preta",
+     "gloss": "corpse",
+     "grounds": "material source",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cīre",
+     "gloss": "on-cloth",
+     "grounds": "writing material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samālikhya",
+     "gloss": "having-written",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √likh"
+    },
+    {
+     "surface": "tāpa",
+     "gloss": "burning-fever",
+     "grounds": "affliction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jvara",
+     "gloss": "fever",
+     "grounds": "affliction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "extends list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māraṇam",
+     "gloss": "killing",
+     "grounds": "ritual aim",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What material and purpose are prescribed for killing through fever and related afflictions?",
+   "premises": [
+    "Corpse cloth is a prescribed material",
+    "Writing is performed on it",
+    "Burning fever, fever, and similar afflictions lead to killing"
+   ],
+   "inference": "Writing on corpse cloth is prescribed for killing by fever and related afflictions",
+   "uncertainties": [],
+   "plain_english": "Having written on a corpse's cloth, one performs killing through burning fever, fever, and the like."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "vaśyāṃ",
+     "gloss": "in-subjugation",
+     "grounds": "ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kuṅkuma",
+     "gloss": "saffron",
+     "grounds": "writing substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "writing substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rocanābhiḥ",
+     "gloss": "yellow-pigments",
+     "grounds": "writing substance",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "haridrayā",
+     "gloss": "with-turmeric",
+     "grounds": "writing substance",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Which substances should be used for writing in subjugation rites?",
+   "premises": [
+    "Subjugation is the ritual context",
+    "Saffron and camphor are listed",
+    "Yellow pigments and turmeric are listed"
+   ],
+   "inference": "Subjugation rites should use saffron, camphor, yellow pigments, and turmeric",
+   "uncertainties": [],
+   "plain_english": "In subjugation, one should use saffron, camphor, yellow pigments, and turmeric."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "vidveṣaṇaṃ",
+     "gloss": "causing-enmity",
+     "grounds": "ritual aim",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sva",
+     "gloss": "one's-own",
+     "grounds": "source of blood",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "raktena",
+     "gloss": "with-blood",
+     "grounds": "writing substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kāka",
+     "gloss": "crow",
+     "grounds": "source of blood",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "raktena",
+     "gloss": "with-blood",
+     "grounds": "writing substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "māraṇam",
+     "gloss": "killing",
+     "grounds": "ritual aim",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which blood substances are prescribed for causing enmity and killing?",
+   "premises": [
+    "Causing enmity is a ritual aim",
+    "Killing is a ritual aim",
+    "One's own blood and crow's blood are prescribed substances"
+   ],
+   "inference": "Causing enmity uses one's own blood, and killing uses crow's blood",
+   "uncertainties": [],
+   "plain_english": "Causing enmity is done with one's own blood, and killing with crow's blood."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "vidveṣa",
+     "gloss": "enmity",
+     "grounds": "ritual aim",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "eradication",
+     "grounds": "ritual aim",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāka",
+     "gloss": "crow",
+     "grounds": "source of feather",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pakṣeṇa",
+     "gloss": "with-feather",
+     "grounds": "ritual implement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māraṇam",
+     "gloss": "killing",
+     "grounds": "ritual aim",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "For which hostile rites may a crow's feather be employed?",
+   "premises": [
+    "Enmity and eradication are ritual aims",
+    "Killing is a ritual aim",
+    "A crow's feather is named as an implement"
+   ],
+   "inference": "A crow's feather may be used for enmity, eradication, and killing",
+   "uncertainties": [],
+   "plain_english": "Enmity, eradication, and also killing may be done with a crow's feather."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "nirviṣīkaraṇe",
+     "gloss": "in-depoisoning",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "stambhe",
+     "gloss": "in-immobilization",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "color quality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "color",
+     "grounds": "object of visualization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "injunctive mental action",
+     "morph": "3.sg.opt.act √cint"
+    }
+   ],
+   "question": "What color should be visualized in depoisoning and immobilization rites?",
+   "premises": [
+    "Depoisoning is a ritual context",
+    "Immobilization is a ritual context",
+    "Red color is prescribed for visualization"
+   ],
+   "inference": "One should visualize the red color in depoisoning and immobilization",
+   "uncertainties": [],
+   "plain_english": "In depoisoning and immobilization, one should visualize the red color."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "color quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "stambhana",
+     "gloss": "immobilization",
+     "grounds": "ritual context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāryeṣu",
+     "gloss": "in-acts",
+     "grounds": "ritual activities",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "dhūmram",
+     "gloss": "smoky",
+     "grounds": "color quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccāṭane",
+     "gloss": "in-eradication",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "injunctive mental action",
+     "morph": "3.sg.opt.act √smṛ"
+    }
+   ],
+   "question": "Which colors are prescribed for immobilization acts and eradication rites?",
+   "premises": [
+    "Immobilization acts require visualization",
+    "Eradication requires visualization",
+    "Yellow and smoky colors are prescribed"
+   ],
+   "inference": "Yellow should be remembered in immobilization acts and smoky in eradication",
+   "uncertainties": [],
+   "plain_english": "In acts of immobilization one should remember yellow, and in eradication one should remember smoky."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "ritual support",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "color quality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "appearance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāttvikaṃ",
+     "gloss": "sattvic",
+     "grounds": "qualitative classification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samudāhṛtam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg.ppp sam-ud-ā-√hṛ"
+    }
+   ],
+   "question": "How is a white-formed seat classified in ritual quality?",
+   "premises": [
+    "A seat is described",
+    "Its form is white",
+    "It is declared sattvic"
+   ],
+   "inference": "A seat of white form is declared to be sattvic",
+   "uncertainties": [],
+   "plain_english": "A seat of white form is declared to be sattvic."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "daṇḍa",
+     "gloss": "staff",
+     "grounds": "measure or form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māna",
+     "gloss": "measure",
+     "grounds": "extent",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "standing",
+     "grounds": "position",
+     "morph": "n.nom.sg.ppp √sthā"
+    },
+    {
+     "surface": "raudraṃ",
+     "gloss": "fierce",
+     "grounds": "qualitative classification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black",
+     "grounds": "color quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāmasam",
+     "gloss": "tamasic",
+     "grounds": "qualitative classification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "authoritative statement",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "How is a black, staff-measured standing form classified ritually?",
+   "premises": [
+    "A form standing to staff measure is described",
+    "It is fierce and black",
+    "It is called tamasic"
+   ],
+   "inference": "A black, staff-measured standing form is called fierce and tamasic",
+   "uncertainties": [
+    "daṇḍa-māna-sthitaṃ may refer to a specific posture or dimension"
+   ],
+   "plain_english": "That which stands to the measure of a staff, fierce and black, is called tamasic."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "tāmasaṃ",
+     "gloss": "tamasic",
+     "grounds": "qualitative classification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "target",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśa",
+     "gloss": "destruction",
+     "grounds": "purpose",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "artham",
+     "gloss": "for-purpose",
+     "grounds": "intended aim",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "affliction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nivāraṇam",
+     "gloss": "removal",
+     "grounds": "purpose",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For what purposes is the tamasic mode employed in ritual practice?",
+   "premises": [
+    "The tamasic mode is identified",
+    "Enemy destruction is a purpose",
+    "Removal of all diseases is a purpose"
+   ],
+   "inference": "The tamasic mode is for destroying enemies and removing all diseases",
+   "uncertainties": [],
+   "plain_english": "The tamasic is for the purpose of destroying enemies and removing all diseases."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "rudrāḥ",
+     "gloss": "rudras",
+     "grounds": "class of beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "associative prefix in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tārkṣya",
+     "gloss": "garuda",
+     "grounds": "class of beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gandharva",
+     "gloss": "gandharvas",
+     "grounds": "class of beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yakṣa",
+     "gloss": "yakshas",
+     "grounds": "class of beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rakṣaḥ",
+     "gloss": "rakshasas",
+     "grounds": "class of beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ahi",
+     "gloss": "serpents",
+     "grounds": "class of beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kinnarāḥ",
+     "gloss": "kinnaras",
+     "grounds": "class of beings",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which classes of beings are enumerated in this ritual context?",
+   "premises": [
+    "Rudras are named",
+    "Garuda, gandharvas, yakshas, rakshasas, and serpents are named",
+    "Kinnaras are named"
+   ],
+   "inference": "The text enumerates rudras, garuda, gandharvas, yakshas, rakshasas, serpents, and kinnaras",
+   "uncertainties": [
+    "ahi may refer to serpents or nāgas in this compound"
+   ],
+   "plain_english": "Rudras, along with Garuda, gandharvas, yakshas, rakshasas, serpents, and kinnaras."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "totality",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrāṇām",
+     "gloss": "of-mantras",
+     "grounds": "domain",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "aṃśāḥ",
+     "gloss": "parts",
+     "grounds": "divisions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcadaśa",
+     "gloss": "fifteen",
+     "grounds": "number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "traditional teaching",
+     "morph": "m.nom.pl.ppp √smṛ"
+    }
+   ],
+   "question": "How many parts are traditionally recognized for all mantras?",
+   "premises": [
+    "All mantras are included",
+    "Parts of mantras are discussed",
+    "Fifteen parts are traditionally remembered"
+   ],
+   "inference": "All mantras are traditionally remembered to have fifteen parts",
+   "uncertainties": [],
+   "plain_english": "For all mantras, fifteen parts are traditionally remembered."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "dvi",
+     "gloss": "two",
+     "grounds": "number element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣarī",
+     "gloss": "syllabled",
+     "grounds": "syllable count",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartarī",
+     "gloss": "scissors",
+     "grounds": "mantra weapon form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sūcī",
+     "gloss": "needle",
+     "grounds": "mantra weapon form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "number element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣarī",
+     "gloss": "syllabled",
+     "grounds": "syllable count",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "number element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣaraiḥ",
+     "gloss": "with-syllables",
+     "grounds": "syllable count",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which mantra forms correspond to two, three, and four syllables?",
+   "premises": [
+    "A two-syllabled form is scissors",
+    "A needle is named in sequence",
+    "Three-syllabled and four-syllabled forms are indicated"
+   ],
+   "inference": "The two-syllabled form is scissors, the needle is three-syllabled, and another form has four syllables",
+   "uncertainties": [
+    "exact mapping of sūcī to tri-akṣarī is inferred from sequence"
+   ],
+   "plain_english": "The two-syllabled is the scissors, the needle is three-syllabled, and with four syllables comes the next."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "kavacaḥ",
+     "gloss": "armor",
+     "grounds": "mantra weapon form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptabhiḥ",
+     "gloss": "with-seven",
+     "grounds": "syllable count",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śūlaḥ",
+     "gloss": "trident",
+     "grounds": "mantra weapon form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭābhiḥ",
+     "gloss": "with-eight",
+     "grounds": "syllable count",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "navabhiḥ",
+     "gloss": "with-nine",
+     "grounds": "syllable count",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "another",
+     "grounds": "next form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra weapon forms correspond to seven, eight, and nine syllables?",
+   "premises": [
+    "Armor is associated with seven syllables",
+    "Trident is associated with eight syllables",
+    "Another form is associated with nine syllables"
+   ],
+   "inference": "Seven syllables form armor, eight form the trident, and nine form another weapon",
+   "uncertainties": [],
+   "plain_english": "With seven syllables is the armor, with eight the trident, and with nine another."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "cakraṃ",
+     "gloss": "discus",
+     "grounds": "mantra weapon form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvādaśabhiḥ",
+     "gloss": "with-twelve",
+     "grounds": "syllable count",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "varṇaiḥ",
+     "gloss": "with-syllables",
+     "grounds": "syllable units",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kuliśaṃ",
+     "gloss": "thunderbolt",
+     "grounds": "mantra weapon form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "trayodaśaiḥ",
+     "gloss": "with-thirteen",
+     "grounds": "syllable count",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which mantra weapon forms correspond to twelve and thirteen syllables?",
+   "premises": [
+    "Twelve syllables are specified",
+    "Thirteen syllables are specified",
+    "Discus and thunderbolt are the forms"
+   ],
+   "inference": "Twelve syllables form the discus and thirteen syllables form the thunderbolt",
+   "uncertainties": [],
+   "plain_english": "With twelve syllables is the discus, and with thirteen should be the thunderbolt."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "mantra weapon form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśabhiḥ",
+     "gloss": "with-sixteen",
+     "grounds": "syllable count",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "varṇaiḥ",
+     "gloss": "with-syllables",
+     "grounds": "syllable units",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "ritual object",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chede",
+     "gloss": "in-cutting",
+     "grounds": "ritual application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartarī",
+     "gloss": "scissors",
+     "grounds": "mantra weapon form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mantra forms are assigned to sixteen syllables and to mantra-cutting?",
+   "premises": [
+    "Sixteen syllables form the lotus",
+    "Mantra-cutting is a ritual application",
+    "Scissors are assigned to mantra-cutting"
+   ],
+   "inference": "The lotus corresponds to sixteen syllables, while scissors are used in mantra-cutting",
+   "uncertainties": [],
+   "plain_english": "With sixteen syllables is the lotus, but in cutting a mantra the scissors are used."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "muṣalaḥ",
+     "gloss": "club",
+     "grounds": "mantra weapon form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣobhaṇe",
+     "gloss": "in-agitation",
+     "grounds": "ritual application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bandhe",
+     "gloss": "in-binding",
+     "grounds": "ritual application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śṛṅkhalaḥ",
+     "gloss": "chain",
+     "grounds": "mantra weapon form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krakaca",
+     "gloss": "saw",
+     "grounds": "ritual application context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chidi",
+     "gloss": "in-cutting",
+     "grounds": "ritual application",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which mantra weapons are prescribed for agitation, binding, and sawing-cutting?",
+   "premises": [
+    "Agitation is a ritual application",
+    "Binding is a ritual application",
+    "Sawing-cutting is a ritual application"
+   ],
+   "inference": "The club is for agitation, the chain for binding, and the saw for cutting",
+   "uncertainties": [
+    "krakaca-chidi interpreted as cutting with a saw"
+   ],
+   "plain_english": "The club is used in agitation, the chain in binding, and the saw in cutting."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "vidveṣe",
+     "gloss": "in-causing-enmity",
+     "grounds": "ritual application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paraśuṃ",
+     "gloss": "axe",
+     "grounds": "mantra weapon form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "discus",
+     "grounds": "mantra weapon form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karmasu",
+     "gloss": "in-acts",
+     "grounds": "ritual activities",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-employ",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √yuj"
+    }
+   ],
+   "question": "Which mantra weapons should be employed for enmity and for all acts?",
+   "premises": [
+    "Causing enmity is a ritual application",
+    "All acts are a general application",
+    "Axe and discus are prescribed weapons"
+   ],
+   "inference": "One should employ the axe in enmity and the discus in all acts",
+   "uncertainties": [],
+   "plain_english": "In causing enmity one should employ the axe, and in all acts the discus."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "bhusuṇḍī",
+     "gloss": "bhusundi-weapon",
+     "grounds": "mantra weapon form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māraṇe",
+     "gloss": "in-killing",
+     "grounds": "ritual application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "mantra weapon form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śānti",
+     "gloss": "peace",
+     "grounds": "ritual aim",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puṣṭi",
+     "gloss": "prosperity",
+     "grounds": "ritual aim",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "extends list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-act",
+     "grounds": "ritual activity",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which mantra weapons are assigned to killing and to peace-prosperity rites?",
+   "premises": [
+    "Killing is a ritual application",
+    "Peace, prosperity, and similar acts are ritual applications",
+    "Bhusundi and lotus are prescribed weapons"
+   ],
+   "inference": "The bhusundi is for killing and the lotus for peace, prosperity, and similar acts",
+   "uncertainties": [
+    "bhusuṇḍī may denote a specific firearm-like or tubular weapon"
+   ],
+   "plain_english": "The bhusundi is used in killing, and the lotus in acts of peace, prosperity, and the like."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "kvacit",
+     "gloss": "somewhere",
+     "grounds": "occasional reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśitaṃ",
+     "gloss": "shown",
+     "grounds": "scriptural teaching",
+     "morph": "n.nom.sg.ppp √dṛś"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattva",
+     "gloss": "principle",
+     "grounds": "doctrinal element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āgama",
+     "gloss": "scripture",
+     "grounds": "authoritative source",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avirodhi",
+     "gloss": "non-contradicting",
+     "grounds": "consistency condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition is this teaching shown elsewhere to be valid?",
+   "premises": [
+    "The teaching is shown somewhere thus",
+    "Principle and scripture are authoritative standards",
+    "Non-contradiction with them is required"
+   ],
+   "inference": "This teaching is valid when shown in a way not contradicting principle and scripture",
+   "uncertainties": [],
+   "plain_english": "Somewhere it is shown thus, but only when not contradicting principle and scripture."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "according-to",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desire",
+     "grounds": "practitioner intent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "ritual practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāryaḥ",
+     "gloss": "to-be-done",
+     "grounds": "injunctive requirement",
+     "morph": "m.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "mantrāṇām",
+     "gloss": "of-mantras",
+     "grounds": "domain",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "from-me",
+     "grounds": "speaker source",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative address",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "How should mantra recitation be performed according to the practitioner's desire?",
+   "premises": [
+    "Recitation is to be performed",
+    "Desire determines the manner",
+    "The teaching concerns mantras and is addressed to the listener"
+   ],
+   "inference": "Mantra recitation should be performed according to desire, as the speaker instructs",
+   "uncertainties": [],
+   "plain_english": "Recitation should be done according to desire; hear from me also about the mantras."
+  }
+ ]
+}

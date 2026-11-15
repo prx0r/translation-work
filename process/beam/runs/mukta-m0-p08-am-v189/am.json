@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 189,
- "question": "Why are offerings made from the animal nature not accepted by the deity?",
+ "question": "Which classes of beings are enumerated in this ritual context?",
  "premises": [
-  "The deity does not recognize the animal-natured offerer.",
-  "Recognition is required for acceptance.",
-  "What is offered from that state is therefore not accepted."
+  "Rudras are named",
+  "Garuda, gandharvas, yakshas, rakshasas, and serpents are named",
+  "Kinnaras are named"
  ],
- "inference": "Therefore, because the deity does not recognize it, what is offered by the animal-natured one is not truly accepted.",
- "uncertainties": [],
- "plain_english": "The deity does not truly recognize it; therefore, what is offered is not accepted."
+ "inference": "The text enumerates rudras, garuda, gandharvas, yakshas, rakshasas, serpents, and kinnaras",
+ "uncertainties": [
+  "ahi may refer to serpents or nāgas in this compound"
+ ],
+ "plain_english": "Rudras, along with Garuda, gandharvas, yakshas, rakshasas, serpents, and kinnaras."
 }

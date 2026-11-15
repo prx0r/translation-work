@@ -3,29 +3,34 @@
  "verse": 2661,
  "rows": [
   {
-   "lemma": "vāruṇyāṃ",
-   "morph": "loc.sg.f",
-   "grounds": "locative direction"
-  },
-  {
-   "lemma": "varuṇasthānaṃ",
-   "morph": "n.acc.sg.compound",
-   "grounds": "compound accusative"
-  },
-  {
-   "lemma": "vāyavyām",
-   "morph": "loc.sg.f",
-   "grounds": "locative direction"
-  },
-  {
-   "lemma": "anilasya",
+   "lemma": "pituḥ",
    "morph": "m.gen.sg",
-   "grounds": "genitive possessor"
+   "grounds": "genitive specifying relation"
   },
   {
-   "lemma": "tu",
+   "lemma": "pituḥ",
+   "morph": "m.gen.sg",
+   "grounds": "genitive specifying relation, repeated for paternal grandfather"
+  },
+  {
+   "lemma": "sodarāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "siblings sharing the same womb"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "vijñeyāḥ",
+   "morph": "m.nom.pl.gerundive √vijñā",
+   "grounds": "gerundive indicating definition"
+  },
+  {
+   "lemma": "pitṛ+bāndhavāḥ",
+   "morph": "compound=pitṛ+bāndhavāḥ; m.nom.pl",
+   "grounds": "compound naming relatives on the father's side"
   }
  ]
 }

@@ -1,0 +1,569 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2651,
+   "rows": [
+    {
+     "surface": "prayāṇāt",
+     "gloss": "from-travel",
+     "grounds": "ablative of cause or circumstance",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhāṣaṇāt",
+     "gloss": "from-speaking",
+     "grounds": "ablative of cause or circumstance",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyāgārhā",
+     "gloss": "worthy-of-abandonment",
+     "grounds": "compound describing eligibility for abandonment",
+     "morph": "compound=tyāga+arhā; f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "she-should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "kula+āṅganā",
+     "gloss": "woman-of-good-family",
+     "grounds": "compound denoting a woman of respectable lineage",
+     "morph": "compound=kula+āṅganā; f.nom.sg"
+    }
+   ],
+   "question": "Under what conduct does a woman of good family become liable to abandonment?",
+   "premises": [
+    "Traveling away is cited as a cause",
+    "Speaking inappropriately is cited as a cause",
+    "Such conduct renders a woman of good family worthy of abandonment"
+   ],
+   "inference": "A woman of good family becomes liable to abandonment due to traveling away or improper speaking.",
+   "uncertainties": [
+    "The specific nature of the travel or speaking is not defined"
+   ],
+   "plain_english": "Because of traveling away or speaking improperly, a woman of good family may become worthy of abandonment."
+  },
+  {
+   "verse": 2652,
+   "rows": [
+    {
+     "surface": "abhāve",
+     "gloss": "in-absence",
+     "grounds": "locative indicating condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pitṛ+bandhūnāṃ",
+     "gloss": "of-father's-kinsmen",
+     "grounds": "compound denoting paternal relatives",
+     "morph": "compound=pitṛ+bandhūnāṃ; m.gen.pl"
+    },
+    {
+     "surface": "tiṣṭhantī",
+     "gloss": "staying",
+     "grounds": "present participle describing her condition",
+     "morph": "f.nom.sg.pres.part.act √sthā"
+    },
+    {
+     "surface": "dāyam",
+     "gloss": "inheritance",
+     "grounds": "object of entitlement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arhati",
+     "gloss": "she-deserves",
+     "grounds": "present indicative expressing entitlement",
+     "morph": "3.sg.pres.act √arh"
+    }
+   ],
+   "question": "What inheritance right belongs to a woman staying without paternal kinsmen present?",
+   "premises": [
+    "Paternal kinsmen may be absent",
+    "A woman may remain in that situation",
+    "Remaining in that absence entitles her to inheritance"
+   ],
+   "inference": "In the absence of paternal kinsmen, a woman who stays is entitled to the inheritance.",
+   "uncertainties": [
+    "The extent or share of the inheritance is unspecified"
+   ],
+   "plain_english": "If her father's kinsmen are absent, a woman who remains is entitled to the inheritance."
+  },
+  {
+   "verse": 2653,
+   "rows": [
+    {
+     "surface": "paryaṅgaṃ",
+     "gloss": "couch",
+     "grounds": "object to be avoided",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rakta+vāsaḥ",
+     "gloss": "red-garment",
+     "grounds": "compound denoting red clothing",
+     "morph": "compound=rakta+vāsaḥ; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhavā",
+     "gloss": "widow",
+     "grounds": "subject of the injunction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative expressing prohibition",
+     "morph": "3.sg.opt.act √parivṛj"
+    }
+   ],
+   "question": "Which comforts and adornments must a widow refrain from using?",
+   "premises": [
+    "A couch is mentioned as something to avoid",
+    "Red garments are mentioned as something to avoid",
+    "The injunction is directed to a widow"
+   ],
+   "inference": "A widow should avoid using a couch and wearing red garments.",
+   "uncertainties": [],
+   "plain_english": "A widow should avoid a couch and red clothing."
+  },
+  {
+   "verse": 2654,
+   "rows": [
+    {
+     "surface": "deva+vratā",
+     "gloss": "devoted-to-god",
+     "grounds": "compound describing religious dedication",
+     "morph": "compound=deva+vratā; f.nom.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-spend",
+     "grounds": "optative expressing prescribed conduct",
+     "morph": "3.sg.opt.act √nī"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "object indicating duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaidhavyaṃ",
+     "gloss": "widowhood",
+     "grounds": "state or period being lived through",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dharmam+āśritā",
+     "gloss": "dharma-resorting-to",
+     "grounds": "compound indicating reliance on dharma",
+     "morph": "compound=dharmam+āśritā; f.nom.sg"
+    }
+   ],
+   "question": "How should a widow properly conduct herself during the period of widowhood?",
+   "premises": [
+    "A widow should be devoted to god",
+    "A widow should take refuge in dharma",
+    "The time of widowhood must be spent accordingly"
+   ],
+   "inference": "A widow should pass the time of widowhood devoted to god and grounded in dharma.",
+   "uncertainties": [],
+   "plain_english": "Devoted to God and taking refuge in dharma, she should pass the time of her widowhood."
+  },
+  {
+   "verse": 2655,
+   "rows": [
+    {
+     "surface": "prayāṇāt",
+     "gloss": "from-travel",
+     "grounds": "ablative of cause or circumstance",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhāṣaṇāt",
+     "gloss": "from-speaking",
+     "grounds": "ablative of cause or circumstance",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kula+āṅganā",
+     "gloss": "woman-of-good-family",
+     "grounds": "compound denoting a woman of respectable lineage",
+     "morph": "compound=kula+āṅganā; f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyāgārhā",
+     "gloss": "worthy-of-abandonment",
+     "grounds": "compound describing eligibility for abandonment",
+     "morph": "compound=tyāga+arhā; f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "she-should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.opt.act √as"
+    }
+   ],
+   "question": "Can even a woman of good family become liable to abandonment for certain conduct?",
+   "premises": [
+    "Traveling away is cited as a cause",
+    "Speaking inappropriately is cited as a cause",
+    "Even a woman of good family is included in this liability"
+   ],
+   "inference": "Even a woman of good family may become worthy of abandonment due to traveling away or improper speaking.",
+   "uncertainties": [
+    "The specific nature of the travel or speaking is not defined"
+   ],
+   "plain_english": "Even a woman of good family may become worthy of abandonment because of traveling away or speaking improperly."
+  },
+  {
+   "verse": 2656,
+   "rows": [
+    {
+     "surface": "pitṛ+bandhūnāṃ",
+     "gloss": "of-father's-kinsmen",
+     "grounds": "compound denoting paternal relatives",
+     "morph": "compound=pitṛ+bandhūnāṃ; m.gen.pl"
+    },
+    {
+     "surface": "vaśe",
+     "gloss": "in-control",
+     "grounds": "locative indicating authority or protection",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tiṣṭhantī",
+     "gloss": "staying",
+     "grounds": "present participle describing her condition",
+     "morph": "f.nom.sg.pres.part.act √sthā"
+    },
+    {
+     "surface": "satī",
+     "gloss": "chaste",
+     "grounds": "adjective describing moral conduct",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "subject of the entitlement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dāyam",
+     "gloss": "inheritance",
+     "grounds": "object of entitlement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arhati",
+     "gloss": "she-deserves",
+     "grounds": "present indicative expressing entitlement",
+     "morph": "3.sg.pres.act √arh"
+    }
+   ],
+   "question": "What inheritance right belongs to a chaste woman living under paternal kinsmen's authority?",
+   "premises": [
+    "A woman may remain under the control of paternal kinsmen",
+    "The woman is described as chaste",
+    "Such a woman is entitled to inheritance"
+   ],
+   "inference": "A chaste woman staying under the authority of paternal kinsmen is entitled to the inheritance.",
+   "uncertainties": [
+    "The extent or share of the inheritance is unspecified"
+   ],
+   "plain_english": "A chaste woman who remains under the control of her father's kinsmen is entitled to the inheritance."
+  },
+  {
+   "verse": 2657,
+   "rows": [
+    {
+     "surface": "vastraṃ",
+     "gloss": "garment",
+     "grounds": "object to be avoided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative expressing prohibition",
+     "morph": "3.sg.opt.act √parivṛj"
+    }
+   ],
+   "question": "What additional item of clothing must be avoided according to this injunction?",
+   "premises": [
+    "A garment is specified as an object",
+    "The prescribed action is avoidance",
+    "The injunction continues the prior context of restriction"
+   ],
+   "inference": "The specified garment should be avoided.",
+   "uncertainties": [
+    "The type or color of the garment is not specified in this verse alone"
+   ],
+   "plain_english": "And she should avoid that garment."
+  },
+  {
+   "verse": 2658,
+   "rows": [
+    {
+     "surface": "kṣipet",
+     "gloss": "should-cast-away",
+     "grounds": "optative expressing required action",
+     "morph": "3.sg.opt.act √kṣip"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or gloss marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "states the intended sense of the prior injunction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the intended meaning of the injunction to avoid the garment?",
+   "premises": [
+    "Casting away is stated as the action",
+    "The word iti marks an explanation",
+    "The term arthaḥ identifies the meaning"
+   ],
+   "inference": "The meaning of the injunction is that the garment should be cast away.",
+   "uncertainties": [],
+   "plain_english": "The meaning is: she should cast it away."
+  },
+  {
+   "verse": 2659,
+   "rows": [
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "adverb emphasizing certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pālane",
+     "gloss": "in-protection",
+     "grounds": "locative indicating the sphere of action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-her",
+     "grounds": "refers to the woman under protection",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mātṛ+bandhuḥ",
+     "gloss": "maternal-kinsman",
+     "grounds": "compound denoting a relative on the mother's side",
+     "morph": "compound=mātṛ+bandhuḥ; m.nom.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive present indicating commendation",
+     "morph": "3.sg.pres.pass √praśaṃs"
+    }
+   ],
+   "question": "Who is especially commended for the duty of protecting her?",
+   "premises": [
+    "Protection is the context of commendation",
+    "The person commended is a maternal kinsman",
+    "The commendation is stated as certain"
+   ],
+   "inference": "A maternal kinsman is certainly praised for protecting her.",
+   "uncertainties": [
+    "The referent of 'her' depends on the preceding context"
+   ],
+   "plain_english": "In protecting her, a maternal kinsman is certainly praised."
+  },
+  {
+   "verse": 2660,
+   "rows": [
+    {
+     "surface": "mātuḥ",
+     "gloss": "of-mother",
+     "grounds": "genitive specifying relation",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pituḥ",
+     "gloss": "of-father",
+     "grounds": "genitive specifying relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sodarāḥ",
+     "gloss": "brothers",
+     "grounds": "siblings sharing the same womb",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating definition",
+     "morph": "m.nom.pl.gerundive √vijñā"
+    },
+    {
+     "surface": "mātṛ+bāndhavāḥ",
+     "gloss": "maternal-relatives",
+     "grounds": "compound naming relatives on the mother's side",
+     "morph": "compound=mātṛ+bāndhavāḥ; m.nom.pl"
+    }
+   ],
+   "question": "Which relatives are classified as maternal relatives in this definition?",
+   "premises": [
+    "Brothers of the mother are included",
+    "Brothers of the father are included in this grouping",
+    "These are to be known as maternal relatives"
+   ],
+   "inference": "The brothers of the mother and the brothers of the father are to be known as maternal relatives.",
+   "uncertainties": [],
+   "plain_english": "The brothers of the mother and the brothers of the father should be known as maternal relatives."
+  },
+  {
+   "verse": 2661,
+   "rows": [
+    {
+     "surface": "pituḥ",
+     "gloss": "of-father",
+     "grounds": "genitive specifying relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pituḥ",
+     "gloss": "of-father",
+     "grounds": "genitive specifying relation, repeated for paternal grandfather",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sodarāḥ",
+     "gloss": "brothers",
+     "grounds": "siblings sharing the same womb",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating definition",
+     "morph": "m.nom.pl.gerundive √vijñā"
+    },
+    {
+     "surface": "pitṛ+bāndhavāḥ",
+     "gloss": "paternal-relatives",
+     "grounds": "compound naming relatives on the father's side",
+     "morph": "compound=pitṛ+bāndhavāḥ; m.nom.pl"
+    }
+   ],
+   "question": "Which relatives are classified as paternal relatives in this definition?",
+   "premises": [
+    "The phrase refers to brothers of the father's father",
+    "These individuals are identified as brothers",
+    "They are to be known as paternal relatives"
+   ],
+   "inference": "The brothers of the paternal grandfather are to be known as paternal relatives.",
+   "uncertainties": [],
+   "plain_english": "The brothers of the father's father should be known as paternal relatives."
+  },
+  {
+   "verse": 2662,
+   "rows": [
+    {
+     "surface": "patyuḥ",
+     "gloss": "of-husband",
+     "grounds": "genitive specifying relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pituḥ",
+     "gloss": "of-father",
+     "grounds": "genitive specifying relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sodarāḥ",
+     "gloss": "brothers",
+     "grounds": "siblings sharing the same womb",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating definition",
+     "morph": "m.nom.pl.gerundive √vijñā"
+    },
+    {
+     "surface": "pati+bāndhavāḥ",
+     "gloss": "husband's-relatives",
+     "grounds": "compound naming relatives on the husband's side",
+     "morph": "compound=pati+bāndhavāḥ; m.nom.pl"
+    }
+   ],
+   "question": "Which relatives are classified as the husband's relatives in this definition?",
+   "premises": [
+    "The phrase refers to brothers of the husband's father",
+    "These individuals are identified as brothers",
+    "They are to be known as the husband's relatives"
+   ],
+   "inference": "The brothers of the husband's father are to be known as the husband's relatives.",
+   "uncertainties": [],
+   "plain_english": "The brothers of the husband's father should be known as the husband's relatives."
+  }
+ ]
+}

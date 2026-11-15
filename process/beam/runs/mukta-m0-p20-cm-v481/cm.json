@@ -3,34 +3,39 @@
  "verse": 481,
  "rows": [
   {
-   "lemma": "evam",
+   "lemma": "gardabha",
+   "morph": "compound: gardabha+avāsa",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "avāsa",
+   "morph": "compound: avāsa+bhūmau",
+   "grounds": "place associated with donkeys"
+  },
+  {
+   "lemma": "bhūmau",
+   "morph": "f.loc.sg",
+   "grounds": "location"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating manner"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "dhyātvā",
-   "morph": "absolutive √dhyai",
-   "grounds": "absolutive indicating prior mental visualization"
+   "lemma": "bhūta",
+   "morph": "compound: bhūta+sthāne",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "mānasaiḥ",
-   "morph": "n.ins.pl",
-   "grounds": "adjective-noun use indicating offerings made in the mind"
+   "lemma": "sthāne",
+   "morph": "n.loc.sg",
+   "grounds": "haunted location"
   },
   {
-   "lemma": "sampūjya",
-   "morph": "absolutive sam-√pūj",
-   "grounds": "absolutive indicating completed mental worship"
-  },
-  {
-   "lemma": "vahiḥpūjām",
-   "morph": "f.acc.sg",
-   "grounds": "compound denoting worship performed outwardly"
-  },
-  {
-   "lemma": "ārabheta",
-   "morph": "3.sg.optative-middle ā-√rabh",
-   "grounds": "optative verb prescribing initiation of action"
+   "lemma": "catuṣpathe",
+   "morph": "n.loc.sg",
+   "grounds": "liminal location"
   }
  ]
 }

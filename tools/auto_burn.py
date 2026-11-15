@@ -1,17 +1,24 @@
 #!/usr/bin/env python3
-"""auto_burn — batch Pass-1 drafting at scale (T1 -> gate -> seed 12v triples).
+"""auto_burn — the BURN: T1 + L0 factory at scale (T1 draft -> gate -> seed
+tal_gloss/tal_cm). This is the continuous bulk lane, NOT the full pipeline.
+
+Definition (canonical): **burn = T1 (contract gloss rows) + L0 (per-token
+morphology/grounds), at scale, by free beam models.** It stops there on
+purpose. Argmap, L2 and C1 need the post-hoc web-searched brief and an
+assessor; they are never produced by the burn (see BEAM-FLOW.md). A brief is
+therefore NOT required to run the burn — it is written AFTER, from the output.
 
 Runs detached; safe to leave for hours. Skips anything already done
-(working-t1 exists / queue has the triple). Free beam only (dual-key).
+(working-t1 exists / gloss+cm already present / task in queue). Free beam only.
+Never seeds triples.
 
 Usage:
   python3 tools/auto_burn.py --work kularnavatantra --from 6 --to 83
-  python3 tools/auto_burn.py --work vijnanabhairava --from 2 --to 6
   python3 tools/auto_burn.py --work svacchandatantra --from 1 --to 56
 
 Per passage: one beam call (labeled verses, <=25v) -> parse to
 working-t1-<song>.json -> coverage gate (difflib>=0.85/verse; regen once
-on failure with the same labeled input) -> append 12v tal_triple seeds.
+on failure) -> seed per-verse tal_gloss (then tal_cm once gloss lands).
 """
 from __future__ import annotations
 import argparse
@@ -66,33 +73,39 @@ def save_queue(q: list) -> None:
 
 
 def seed(q: list, work: str, song: str, verses: list, note: str) -> int:
+    """T1+L0 BURN: seed tal_gloss (T1) + tal_cm (L0) ONLY.
+
+    Never triples. Argmap/L2/C1 need the post-hoc brief and are an assessor
+    act (see BEAM-FLOW.md). Seeds gloss first; a verse's cm is seeded only
+    once its gloss exists, so the worker never hits 'glosses missing'.
+    """
     # NEVER seed a song that already exists as assembled gold in this repo.
     if (ROOT / work / "data" / f"{song}.t1.json").exists():
         print(f"{song}: already assembled — refusing to seed")
         return 0
     have = {t.get("id") for t in q}
-    # STRUCTURAL duplicate guard: never seed a range overlapping live work
-    taken = []
-    for t in q:
-        if t.get("kind") != "tal_triple" or t.get("status") in ("failed", "superseded"):
-            continue
-        a = t.get("args") or {}
-        if a.get("work") == work and a.get("song") == song and a.get("verses"):
-            taken.append((min(a["verses"]), max(a["verses"])))
+    runs = ROOT / "process" / "beam" / "runs"
+    ahn = work.split("tantraloka-a")[-1]
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
     n = 0
-    for i in range(0, len(verses), 24):
-        grp = verses[i:i + 24]
-        if any(grp[0] <= hi and lo <= grp[-1] for lo, hi in taken):
-            continue  # overlap: already being/been done
-        tid = f"{work}-triple-{song}-v{grp[0]:04d}"
-        if tid in have:
-            continue
-        now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
-        q.append({"id": tid, "kind": "tal_triple",
-                  "args": {"work": work, "song": song, "verses": grp},
-                  "status": "pending", "attempts": 0, "max_attempts": 4,
-                  "worker": None, "note": note, "created": now, "updated": now})
-        n += 1
+    for v in verses:
+        gid = f"{song}-gloss-v{v:02d}"
+        if not (runs / gid / "gloss.json").exists():
+            if gid not in have:
+                q.append({"id": gid, "kind": "tal_gloss",
+                          "args": {"work": work, "song": song, "verse": v,
+                                   "ahnika": ahn, "context": ""},
+                          "status": "pending", "attempts": 0, "max_attempts": 3,
+                          "worker": None, "note": note, "created": now, "updated": now})
+                have.add(gid); n += 1
+            continue  # T1 first; cm is seeded next wave once gloss exists
+        cid = f"{song}-cm-v{v:02d}"
+        if not (runs / cid / "cm.json").exists() and cid not in have:
+            q.append({"id": cid, "kind": "tal_cm",
+                      "args": {"work": work, "song": song, "verse": v},
+                      "status": "pending", "attempts": 0, "max_attempts": 3,
+                      "worker": None, "note": note, "created": now, "updated": now})
+            have.add(cid); n += 1
     return n
 
 
@@ -110,11 +123,8 @@ def coverage(work: str, song: str, verses: list) -> tuple:
 
 
 def run_work(work: str, lo: int, hi: int) -> None:
-    from brief_gate import check as _bg
-    _ok, _why = _bg(work)
-    if not _ok:
-        print(f"{work}: REFUSED (brief_gate: {_why}) — write a researched brief first")
-        return
+    # BURN MODE: T1+L0 only. No brief_gate — the brief is written POST-HOC from
+    # the machine output and is needed only for argmap/L2/C1 (assessor lane).
     passages = [json.loads(l) for l in open(ROOT / work / "passages.jsonl")]
     passages = [p for p in passages if lo <= int(re.search(r"p(\d+)", p["locator"]).group(1)) <= hi]
     vs = json.loads((ROOT / work / "source/verses.json").read_text())
