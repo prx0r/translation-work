@@ -18,8 +18,9 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-13 — autonomy hardened; supersedes older snapshots)
 
-- **Unattended stack is complete** (RUNBOOK §16): `tw-wave` seeds T1+triples for
-  every `mukta-m*`; `tal-campaign`/harness drafts (w1–w3); `tw-assemble`
+- **Unattended stack is complete** (RUNBOOK §16): `tw-wave` runs **THE BURN =
+  T1+L0 only** for every `mukta-m*` (gloss then cm; NO triples — see
+  BEAM-FLOW §0.0, 2026-11-15); `tal-campaign`/harness drafts (w1–w3); `tw-assemble`
   auto-closes (`assemble_all.py` — fixed 2026-11-13: dynamic discovery of ALL
   fronts, was crashing on `Path.glob(recursive=)` and hardcoded to 3 works);
   `tw-recycle` halves failures; `tw-mcp` serves the shastra API. Backups: loop

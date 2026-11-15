@@ -17,6 +17,18 @@ skills/crystal-ipvv/EXAMPLES.md (per-datatype prompts + good/bad exhibits).
 The gate is check.py (exit 0 = canonical, else fix what it names).
 The registry is REGISTRY.json (21 gold, 71 pending). Current queue and todos: todoregistry.md (next to the registry).
 
+## The Ship + the Burn (two lanes — do not confuse them)
+
+- **THE SHIP (quality lane):** the Trika core — one work at a time, T1→L0→
+  argmap→L2→C1, proof PASS, served. This is the product. See `## The Skill`.
+- **THE BURN (bulk lane):** continuous, unattended **T1 + L0 ONLY** for the
+  whole Muktabodha corpus, free-tier beam models, at scale. It **stops at L0**.
+  It does **not** produce argmap/L2/C1 — those need a **post-hoc, web-researched
+  brief** + assessor. A brief is NOT required to run the burn. Triples are
+  deprecated for the burn. Runners: `tools/burn_wave.sh` → `tools/auto_burn.py`
+  (systemd `tw-wave`); monitor `shastra.burn_status` (`ok` = no pending
+  triples/am). Batch "burn" output is machine-proposed scaffolding, never gold.
+
 ## The Skill (the law)
 
 Next-agent focus, no exceptions: skills/crystal-ipvv/SKILL.md

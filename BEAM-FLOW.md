@@ -22,7 +22,27 @@ Deterministic scripts assemble (converters, mergers); validators judge
 (`validate_song`, `proof_record --shastra`, `check.py`); beam reasons in
 prose; the assessor decides. That split is the whole trick.
 
-## 0a. Transmission briefs (scholarship in, quality out)
+## 0.0 THE BURN (canonical, 2026-11-15) — T1 + L0 only
+
+**"Burn" = the continuous bulk lane that produces T1 (contract gloss rows) +
+L0 (per-token morphology/grounds) for the whole Muktabodha corpus, with free
+beam models, at scale.** It **stops at L0 on purpose.**
+
+- **It does NOT produce argmap, L2, or C1.** Those need the post-hoc brief
+  (§0a) and an assessor; they are never minted by the burn.
+- **A brief is NOT a precondition of the burn.** The brief is written *after*
+  the T1/L0 output exists, because it only guides the interpretive layers.
+- **Batch triples are deprecated for the burn.** `tal_triple` blended shallow
+  argmap/L2 into the corpus and made "assembled" masquerade as quality.
+  Triples survive ONLY as the assessor path (`swarm_seed layers="full"`).
+- Runner: `tools/burn_wave.sh` → `tools/auto_burn.py` seeds `tal_gloss` (then
+  `tal_cm` once gloss exists); systemd `tw-wave` (Restart=always) keeps it up.
+- Monitor: `shastra.burn_status` / `python3 tools/burn_status.py`; `ok` =
+  zero pending `tal_triple`/`tal_am`.
+- `tal_stage.py --t1l0` is the manual equivalent; `TW_AUTO_C1` stays unset so
+  `emit` never auto-derives C1 (that shortcut is the `C1_L2_SHARED` defect).
+
+## 0a. Transmission briefs (scholarship in, quality out) — POST-HOC for the burn
 
 Beam drafts from T1+L0 alone are competent but blunt (benchmark: 19 premises
 where 8 would do, flabby question). The fix is the transmission pattern:
@@ -32,7 +52,9 @@ Briefs live in `process/beam/lore/` (`ipvv-<LABEL>.md`, `tal-<ahn>.md`) and
 are injected automatically when present. Seeded: `ipvv-V3B.md` (Torella
 IPK/kriyā frame, Bhāskarī witness note), `tal-a15.md` (phonematic emanation,
 Jayaratha joints, anti-uniform-chunking rule). Write one per front before
-queueing its tasks — 10 minutes of searching saves hours of bounce cycles.
+queueing its **interpretive** tasks (argmap/L2/C1) — 10 minutes of searching
+saves hours of bounce cycles. It is **not needed for the T1/L0 burn**; write
+it once the gloss/CM output exists (post-hoc §0.0).
 Beam drafts the *queries* (`lore_queries` tasks); the assessor executes
 searches; beam distills (`lore_distill`) or the assessor writes the brief
 directly when faster. Briefs are cached per front — never re-searched per task.

@@ -138,7 +138,10 @@ and **does not require pausing the loop**.
 ## 8. Scope discipline (what NOT to do)
 
 - **The product is the Trika core (95 works), not all 492 Muktabodha works.**
-  The burn runs in the background; correctness of the core is the priority.
+  The **burn (T1+L0 only, free beam, at scale)** runs in the background;
+  correctness of the core is the priority. The burn never produces
+  argmap/L2/C1 — those are assessor work, built per work after a post-hoc
+  brief. Triples are deprecated for the burn (see BEAM-FLOW §0.0).
 - **4 songs are out of scope by design:** `spanda/span-p04b/05/06` (later
   niḥṣyandas; only vv1–25 are in scope) and `sivasutra/span-p09` (sutras
   76–77 beyond the 75-sutta Kaul recension). Their data exists but they carry

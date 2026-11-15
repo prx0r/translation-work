@@ -52,8 +52,10 @@ def main() -> int:
                 pass
 
     stray = {
-        "tal_triple": pend.get("tal_triple", 0),
-        "tal_am": pend.get("tal_am", 0),
+        "tal_triple": sum(1 for t in q if t.get("kind") == "tal_triple"
+                           and t.get("status") == "pending"),
+        "tal_am": sum(1 for t in q if t.get("kind") == "tal_am"
+                      and t.get("status") == "pending"),
     }
     out = {
         "mode": "BURN = T1 (gloss) + L0 (cm) at scale; argmap/L2/C1 are assessor-lane (brief post-hoc)",
