@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[sītā](sītā) [mātaṅginī](mātaṅginī) [medhā](medhā) [madhu+daitya+vināśinī](madhudaityavināśinī)
+[Sītā](sītā) [Mātaṅginī](mātaṅginī) [wisdom](medhā) [slayer-of-Madhu-demon](madhudaitya+vināśinī)
 
 ## mukta-m0-p42-v1027
-[bhāvukā](bhāvukā) [bagalā](bagalā) [kṛtyā](kṛtyā) [bālā](bālā) [tripura+sundarī](tripurasundarī)
+[prosperous-one](bhāvukā) [Bagalā](bagalā) [magical-rite](kṛtyā) [young-girl](bālā) [beauty-of-three-cities](tripura+sundarī)
 
 ## mukta-m0-p42-v1028
-[śata+yajña+mayī](śatayajñamayī) [sattvā](sattvā) [śata+kratu+vara+pradā](śatakratuvarapradā) [devī](devī)
+[consisting-of-hundred-sacrifices](śatayajña+mayī) [pure-being](sattvā) [boon-giver-to-Indra](śatakratu+vara+pradā) [supreme-goddess](devī)
 
 ## mukta-m0-p42-v1029
-[soma+sūrya+agni+nayanā](somasūryāgninayanā) [vyāghra+carma+ambara+āvṛtā](vyāghracarmāmbarāvṛtā) [devī](devī) [mātā](mātā)
+[having-moon-sun-fire-as-eyes](soma+sūrya+agni+nayanā) [covered-with-tiger-skin-garment](vyāghra+carma+ambara+āvṛtā) [divine-one](devī) [great-goddess](maheśvarī)
 
 ## mukta-m0-p42-v1030
-[iti](iti) [te](te) [kathitam](kathitaṅ) [gopyam](gopyan) [nāmnām](nāmnām) [aṣṭa+uttaram](aṣṭottaraṃ) [śatam](śatam)
+[thus](iti) [to-you](te) [told](kathitaṅ) [secretly](gopyan) [hundred-and-eight-names](nāmnām+aṣṭottaraṃ+śatam)
 
 ## mukta-m0-p42-v1031
-[gopanīyam](gopanīyaṅ) [gopanīyam](gopanīyaṅ) [gopanīyam](gopanīyaṅ) [kalau](kalau) [yuge](yuge)
+[to-be-kept-secret](gopanīyaṅ) [to-be-kept-secret](gopanīyaṅ) [to-be-kept-secret](gopanīyaṅ) [in-Kali-age](kalau+yuge)
 
 ## mukta-m0-p42-v1032
-[tasmāt](tasmāt) [koṭi+guṇam](koṭiguṇam) [puṇyam](puṇyaṃ) [stavasya](stavasyāsya) [asya](asya) [prakīrtanāt](prakīrtanāt)
+[therefore](tasmāt) [merit-multiplied-by-crores](koṭi+guṇam+puṇyaṃ) [of-this-hymn](stavasyāsya) [from-recitation](prakīrtanāt)
 
 ## mukta-m0-p42-v1033
-[smera+mukhīm](smeramukhī/) [vara+da+aṅkuśa+pāśa+abhīti+karām](vvaradāṅkuśapāśābhītikarām) [prabhaje](prabhaje) [bhuvaneśīm](bhuvaneśīm)
+[smiling-faced-one](smeramukhī) [holding-boon-goad-noose-fearlessness-in-hands](vvaradāṅkuśapāśābhītikarām) [I-worship](prabhaje) [lady-of-the-world](bhuvaneśīm)
 
 ## mukta-m0-p42-v1034
-[īḍe](īḍe) [sakala+sampattyai](sakalasampattyai) [jagat+kāraṇam](jagatkāraṇam) [ambikām](ambikām)
+[I-praise](īḍe) [for-all-prosperity](sakala+sampattyai) [cause-of-the-world](jagat+kāraṇam) [mother](ambikām)
 
 ## mukta-m0-p42-v1035
-[vimalayāmi](vvimalayāmy) [aham](aham) [ambike](ambike) [tvām](tvām)
+[I-purify](vvimalayāmi) [I](aham) [O-mother](ambike) [you](tvām)
 
 ## mukta-m0-p42-v1036
-[devasya](devasya) [manmatha+ripoḥ](manmatharipor) [api](api) [śaktimattā+hetuḥ](śaktimattāhetus) [tvam](tvam) [eva](eva) [khalu](khalu) [parvata+rāja+putri](parvatarājaputri)
+[of-the-god](devasya) [even-of-the-enemy-of-Manmatha](manmatha+ripor+api) [you-alone-indeed](tvam+eva+khalu) [O-daughter-of-mountain-king](parvata+rāja+putri) [are-the-cause-of-having-power](śaktimattā+hetus)
 
 ## mukta-m0-p42-v1037
-[sva+dṛṣṭyā](svadṛṣṭyā) [sva](sva) [dṛṣṭyā](dṛṣṭyā) [eva](eva)
+[by-own-sight](sva+dṛṣṭyā) [by-grace](anugrahena) [by-look](avalokena) [by-vision](darśanena)
 
 ## mukta-m0-p42-v1038
-[sthitā](sthitā) [asi](asi) [tvam](tvam) [eva](eva)
+[you-are-situated](sthitā+asi) [you-exist](vartase) [you-remain](tiṣṭhasi) [you-abide](āste)
 
 ## mukta-m0-p42-v1039
-[khalu](khalu) [akhaṇḍa+bhuvana+adhi+bhuvaḥ](akhaṇḍabhuvanādhibhuvaḥ) [prathante](prathante) [te](te)
+[indeed](khalu) [lords-of-the-undivided-world](akhaṇḍa+bhuvana+ādhibhuvaḥ) [become-manifest](prathante) [they-spread](vistaranti)
 
 ## mukta-m0-p42-v1040
-[samaśnuvānā](samaśnuvānā) [sam](sam) [aśnuvānā](aśnuvānā) [sati](sati)
+[pervading](samaśnuvānā) [encompassing](vyāpnuvatī) [filling](pūrayantī) [reaching-everywhere](sarvataḥ+gatā)
 
 ## mukta-m0-p42-v1041
-[garbha+bhājaḥ](garbbhabhājaḥ) [garbha](garbbha) [bhājaḥ](bhājaḥ) [te](te)
+[those-bearing-the-womb](garbbha+bhājaḥ) [the-pregnant-ones](garbhiṇyaḥ) [the-creators](sraṣṭāraḥ) [the-holders](dhāriṇaḥ)
 
 ## mukta-m0-p42-v1042
-[mūrttim](mūrttim) [mūrtti](mūrtti) [tām](tām) [tvām](tvām)
+[form](mūrttim) [body](śarīram) [shape](ākṛtim) [embodiment](vigraham)
 
 ## mukta-m0-p42-v1043
-[yoginaḥ](yoginas) [tvām](tvām) [te](te) [bhajanti](bhajanti)
+[yogins](yoginas) [you](tvām) [ascetics](tapasvinaḥ) [meditators](dhyāyinaḥ)
 
 ## mukta-m0-p42-v1044
-[amāmi](amāmi) [aham](aham) [tvām](tvām) [sadā](sadā)
+[I-honor](amāmi) [I-bow](namāmi) [I-worship](pūjayāmi) [I-revere](vandāmi)
 
 ## mukta-m0-p42-v1045
-[tava](tava) [aṅghrī](aṅghrī) [tau](tau) [pādau](pādau)
+[your-two-feet](tava+aṅghrī) [your-lotus-feet](tava+pādau) [your-feet](tava+caraṇau) [your-footsteps](tava+padāni)
 
 ## mukta-m0-p42-v1046
-[tava](tava) [ānataḥ](ānato) [asmi](asmi) [aham](aham)
+[bowed-to-you](tava+ānataḥ) [I-am](asmi) [prostrated](praṇataḥ) [I-have-become](abhavam)
 
 ## mukta-m0-p42-v1047
-[hṛdayasya](hṛdayasya) [madhye](madhye) [tava](tava) [sthāne](sthāne)
+[of-the-heart](hṛdayasya) [in-the-middle](madhye) [in-the-center](kendre) [within](antaḥ)
 
 ## mukta-m0-p42-v1048
-[vilajjayetām](vilajjayetām) [vi](vi) [lajjayetām](lajjayetām) [tau](tau)
+[may-they-be-ashamed](vilajjayetām) [may-they-feel-shame](lajjām+prāpnuyātām) [let-them-be-abashed](vrīḍām+gacchetām) [may-they-blush](trapetām)
 
 ## mukta-m0-p42-v1049
-[na](na) [aham](aham) [na](nā) [asmi](aham)
+[not](na) [I](aham) [never](kadāpi) [not-at-all](na+eva)
 
 ## mukta-m0-p42-v1050
-[jātaḥ](jātaḥ) [janitaḥ](jātaḥ) [utpannaḥ](jātaḥ) [aham](aham)
+[born](jātaḥ) [arisen](utpannaḥ) [produced](sambhūtaḥ) [manifested](prādurbhūtaḥ)
