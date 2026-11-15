@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "śuddhamantrauṣadhenaiva",
+     "gloss": "pure-mantra-medicine-indeed",
+     "grounds": "fused compound with eva; instrumental sense in context",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "mathayen",
+     "gloss": "churn",
+     "grounds": "verbal form from root math",
+     "morph": "v.3.sg.opt-act"
+    },
+    {
+     "surface": "madanālayam",
+     "gloss": "cupid-abode",
+     "grounds": "compound object of churning",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "How should the practitioner churn the abode of Cupid with pure mantra-medicine?",
+   "premises": [
+    "pure mantra-medicine is the instrument",
+    "cupid-abode is the object churned",
+    "churning is the prescribed action"
+   ],
+   "inference": "The verse prescribes churning the abode of Cupid using pure mantra-medicine.",
+   "uncertainties": [
+    "exact verbal mood and number",
+    "whether eva is fused or separate"
+   ],
+   "plain_english": "Churn the abode of Cupid with pure mantra-medicine."
+  }
+ ]
+}

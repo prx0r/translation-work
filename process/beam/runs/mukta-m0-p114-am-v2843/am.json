@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p114",
  "verse": 2843,
- "question": "How should leaves, flowers, and cakes be prepared for the offering?",
+ "question": "What should be sacrificed in many coral-made golden flowers?",
  "premises": [
-  "Leaves and flowers are to be taken one each.",
-  "Cakes are also to be prepared.",
-  "Preparation is prescribed."
+  "coral-made flowers are used",
+  "golden flowers are used",
+  "many are sacrificed"
  ],
- "inference": "One should prepare one each of leaves and flowers, and likewise cakes.",
- "uncertainties": [],
- "plain_english": "One should prepare one each of leaves and flowers, and likewise cakes."
+ "inference": "The verse instructs sacrificing many coral-made golden flowers.",
+ "uncertainties": [
+  "what is being sacrificed"
+ ],
+ "plain_english": "With coral-made golden flowers, many should be sacrificed."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-[gift](dānam) [-](-) [for-longevity](āyuṣmati) + [of-ghee](ghṛtasya) [and](ca)
+[gift](dānam) [minus](-) [long-life-ghee's](āyuṣmatighṛtasya) [and](ca)
 
 ## mukta-m0-p97-v2402
-[kauṇḍinya-lineage](kauṃḍinya) + [born](gotrajanitaṃ) [facing-east](prāṅmukhaṃ) + [among-chanters](japatāṃ) + [best](varam)
+[of-kuṇḍinya-gotra-born](kauṃḍinyagotrajanitaṃ) [east-facing-chanting-best](prāṅmukhaṃjapatāṃvaram)
 
 ## mukta-m0-p97-v2403
-[sacrifice](yajña) + [rite](karma) + [sura-drinking](surāpānaṃ) [in-saubhāgya](saubhāgye) + [should-cause](kārayed) + [the-wise](budhaḥ)
+[sacrifice-rite-intoxicant](yajñakarmasurāpānaṃ) [fortune-make](saubhāgyekārayedbudhaḥ) [one](||) [1](1) [minus](||) [-](||)
 
 ## mukta-m0-p97-v2404
-[gift](dānam) [-](-) [of-saffron](kuṃkumasya) [and](ca) [in-saubhāgya](saubhāgye)
+[gift](dānam) [minus](-) [saffron's](kuṃkumasya) [and](ca) [fortune](saubhāgye)
 
 ## mukta-m0-p97-v2405
-[auspicious](śobhanaṃ) + [auspiciousness](śobhana) + [causing](karaṃ) [of-those-bowing](namatām) + [I-take-refuge](āśraye) [always](sadā)
+[beautiful](śobhanaṃ) [beauty-making](śobhanakaraṃ) [to-bowers-refuge](namatāmāśraye) [always](sadā)
 
 ## mukta-m0-p97-v2406
-[king](nṛpa) + [consecration](abhiṣekaṃ) + [health](ārogya) + [rite](karma) + [should-perform](kuryāt) + [and](ca) + [O-auspicious-one](śobhane)
+[king-consecration](nṛpābhiṣekam) [health-rite](ārogyakarmakuryāccaśobhane) [one](||) [1](1) [minus](||) [-](||)
 
 ## mukta-m0-p97-v2407
-[gift](dānam) [-](-) [of-barley](yava) + [gift](dānaṃ) + [and](ca) + [O-auspicious-one](śobhane)
+[gift](dānam) [minus](-) [whatever-gift](yavadānaṃcaśobhane)
 
 ## mukta-m0-p97-v2408
-[atigaṇḍa](atigaṃḍa) + [named](abhidhaṃ) + [I-salute](vaṃde) [chanting](japaṃtaṃ) [facing-east](prāṅmukhaṃ) [always](sadā)
+[great-cheek-named](atigaṃḍābhidhaṃ) [salute](vaṃde) [chanting](japaṃtaṃ) [east-facing](prāṅmukhaṃ) [always](sadā)
 
 ## mukta-m0-p97-v2409
-[minor](kṣudra) + [rite](kriyā) + [in-atigaṇḍa](atigaṃḍe) + [to-be-done](kāryaṃ) [poison](viṣa) + [weapon](śastra) + [fire](vahni) + [rite](karma) + [etc.](ādyam)
+[small-rite](kṣudrakriyātigaṃḍekāryaṃ) [poison-weapon-fire-etc](viṣaśastravahnikarmādyam) [two](||) [2](2) [minus](||) [-](||)
 
 ## mukta-m0-p97-v2410
-[gift](dānam) [-](-) [in-atigaṇḍa](atigaṃḍe) + [and](ca) + [of-garments](vastrāṇām)
+[gift](dānam) [minus](-) [great-cheek](atigaṃḍecavastrāṇām)
 
 ## mukta-m0-p97-v2411
-[kauśika-lineage](kauṣika) + [born](anvayasaṃbhūtaṃ) [chanting](japaṃtaṃ) [by-world](loka) + [honored](pūjitam)
+[of-kauśika-lineage-born](kauṣikānvayasaṃbhūtaṃ) [chanting](japaṃtaṃ) [world-honored](lokapūjitam)
 
 ## mukta-m0-p97-v2412
-[king](rājā) + [consecration](abhiṣeka) + [rites](karmāṇi) + [in-good-rites](sukarmaṇi) [and](ca) [should-cause](kārayet)
+[king-consecration-rites](rājābhiṣekakarmāṇi) [good-rite](sukarmaṇi) [and](ca) [make](kārayet) [one](||) [1](1) [minus](||) [-](||)
 
 ## mukta-m0-p97-v2413
-[gift](dānam) [-](-) [of-milk-rice](pāyasasya) + [in-good-rites](sukarmaṇi)
+[gift](dānam) [minus](-) [of-rice-pudding](pāyasasyasukarmaṇi)
 
 ## mukta-m0-p97-v2414
-[facing-south](dakṣiṇā) + [facing](mukham) + [seated](āsīno) [Veda](veda) + [recitation](āmreḍana) + [intent](tatparaḥ)
+[south-facing-seated](dakṣiṇāmukhamāsīno) [veda-recitation-devoted](vedāmreḍanatatparaḥ)
 
 ## mukta-m0-p97-v2415
-[sacred-thread](vrata) + [binding](baṃdhaṃ) + [elephant](gaja) + [mounting](ārohaṃ) [in-dhṛti-yoga](dhṛtiyoge) [indeed](tu) [should-cause](kārayet)
+[vow-binding](vratabaṃdhaṃ) [elephant-riding](gajārohaṃ) [firmness-yoga](dhṛtiyoge) [then](tu) [make](kārayet) [one](||) [1](1) [minus](||) [-](||)
 
 ## mukta-m0-p97-v2416
-[gift](dānam) [-](-) [in-dhṛti](dhṛtau) + [of-silver](rajata) + [gift](dānaṃ) + [and](ca)
+[gift](dānam) [minus](-) [firmness-silver-gift](dhṛtaurajatadānaṃca)
 
 ## mukta-m0-p97-v2417
-[facing-south](dakṣiṇā) + [facing](mukha) [seated](āsīnaḥ) + [kuṇḍina-lineage](kuṃḍina) + [born](anvayasaṃbhavaḥ)
+[south-facing-seated](dakṣiṇāmukha) [āsīnaḥkuṃḍinānvayasaṃbhavaḥ)
 
 ## mukta-m0-p97-v2418
-[warding-off](nivāraṇaṃ) + [cruel](krūra) + [rite](karma) + [in-śūla-yoga](śūlayoge) + [is-prescribed](vidhīyate)
+[aversion](nivāraṇaṃ) [cruel-rite](krūrakarmaśūlayogevidhīyate) [one](||) [1](1) [minus](||) [-](||)
 
 ## mukta-m0-p97-v2419
-[gift](dānam) [-](-) [in-śūla](śūle) + [of-roots](mūlādi) + [gift](dānakam)
+[gift](dānam) [minus](-) [spike-root-etc-gift](śūlemūlādidānakam)
 
 ## mukta-m0-p97-v2420
-[facing-south](dakṣiṇā) + [facing](mukha) [seated](āsīno) [Brahman](brahma) + [recitation](pāṭha) + [devoted](parāyaṇaḥ)
+[south-facing-seated](dakṣiṇāmukha) [āsīno](āsīno) [brahma-recitation-devoted](brahmapāṭhaparāyaṇaḥ)
 
 ## mukta-m0-p97-v2421
-[arm](bāhu) + [combat](yuddhaṃ) + [servant](bhṛtya) + [work](karma) + [martial](kṣātraṃ) + [in-gaṇḍa](gaṃḍe) [is-recommended](praśasyate)
+[arm-combat](bāhuyuddhaṃ) [servant-rite](bhṛtyakarmakṣātraṃ) [cheek](gaṃḍe) [praised](praśasyate) [one](||) [1](1) [minus](||) [-](||)
 
 ## mukta-m0-p97-v2422
-[gift](dānam) [-](-) [in-gaṇḍa](gaṃḍe) + [of-ornaments](maṃḍana) + [gift](dānaṃ) + [and](ca)
+[gift](dānam) [minus](-) [cheek-ornament-gift](gaṃḍemaṃḍanadānaṃca)
 
 ## mukta-m0-p97-v2423
-[who](yaḥ) + [meditating](ciṃtayan) + [supreme](paraṃ) + [Brahman](brahma) + [on-bank](brasīm) + [having-resorted](āśritya) + [stands](tiṣṭhati)
+[who](yaściṃtayan) [supreme-brahman](paraṃbrahmabrasīmāśrityatiṣṭhati)
 
 ## mukta-m0-p97-v2424
-[tank](taṭāka) + [dam](setu) + [construction](baṃdhaṃ) [and](ca) [in-vṛddhi-yoga](vṛddhiyoge) [indeed](tu) [should-cause](kārayet)
+[pond-dam-binding](taṭākasetubaṃdhaṃ) [and](ca) [growth-yoga](vṛddhiyoge) [then](tu) [make](kārayet) [one](||) [1](1) [minus](||) [-](||)
 
 ## mukta-m0-p97-v2425
-[gift](dānam) [-](-) [in-vṛddhi](vṛddhau) + [of-cow](go) + [gift](dānam) + [is-desired](iṣyate)
+[gift](dānam) [minus](-) [growth-cow-gift](vṛddhaugodānamiṣyate)

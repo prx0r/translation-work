@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2528,
- "question": "Which image forms occupy the fifth position and the position immediately following in the sequence?",
+ "question": "On which lunar days and fortnights is the rite emphasized?",
  "premises": [
-  "The dance form is designated as fifth",
-  "The Gaṅgā-bearer form follows after that",
-  "The list continues in ordered succession"
+  "The verse names the eighth day.",
+  "It names the fourteenth day.",
+  "It names both fortnights."
  ],
- "inference": "The fifth image is the dance form and the next is the Gaṅgā-bearer form.",
- "uncertainties": [],
- "plain_english": "The fifth is the dance form, and after that comes the Gaṅgā-bearer form."
+ "inference": "The rite is emphasized on the eighth and fourteenth days of both fortnights.",
+ "uncertainties": [
+  "Exact ritual action is not stated here."
+ ],
+ "plain_english": "On the eighth and fourteenth days of both fortnights."
 }

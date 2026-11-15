@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[this](etat) [application](prayogāt) [in-seven-days](saptāhāt) [is-born](jāyate) [of-semen](retasaḥ) [non-diminution](ambuddhiḥ)
+[by-this-practice](etatprayogāt) [in-seven-days](saptāhāt) [arises](jāyate) [semen's-abundance](retaso'mbuddhiḥ)
 
 ## mukta-m0-p16-v377
-[with-ghee](sarpiṣā) [with-milk](payasā) [having-drunk](pītvā) [in-intercourse](ratau) [like-a-sparrow](caṭakavat) [one-should-be](bhavet)
+[with-ghee](sarpiṣā) [with-milk](payasā) [having-drunk](pītvā) [in-copulation](ratau) [like-a-sparrow](caṭakavat) [becomes](bhavet)
 
 ## mukta-m0-p16-v378
-[with-milk](kṣīreṇa) [having-prepared](saṃsādhya) [and](ca) [having-eaten](bhakṣayitvā) [he](saḥ) [goes-to](yāti) [hundred](śatam) [of-women](nārī) [of-fierce-semen](ugraretāḥ)
+[with-milk](kṣīreṇa) [having-prepared](saṃsādhya) [and](ca) [having-eaten](bhakṣayitvā) [he](sa) [goes-to](yāti) [hundred-women](nārīśatam) [strong-semen](ugraretāḥ)
 
 ## mukta-m0-p16-v379
-[with-clarified-butter](havyena) [cooked](siddhaṃ) [with](saha) [rock-salt](saindhavena) [very-strong](mahābalaḥ) [one-should-be](syāt) [being-used](upayujyamānaḥ)
+[with-offering](havyena) [cooked](siddhaṃ) [with](saha) [rock-salt](saindhavena) [great-strength](mahābalaḥ) [becomes](syāt) [when-used](upayujyamānaḥ)
 
 ## mukta-m0-p16-v380
-[udumbara-fruit](udumbara) [equal-to](samaṃ) [one-should-eat](khādet) [old](vṛddhaḥ) [even](api) [becomes-young](taruṇāyate)
+[udumbara-equal](udumbarasamaṃ) [let-him-eat](khādet) [old-man](vṛddho'pi) [becomes-youthful](taruṇāyate)
 
 ## mukta-m0-p16-v381
-[the-two-prepared](sādhitau) [one-should-eat](bhakṣayet) [who](yaḥ) [indeed](tu) [he](saḥ) [would-go-to](gacchet) [hundred](śatam) [of-women](pramadā)
+[prepared](sādhitau) [let-him-eat](bhakṣayedyastu) [he](sa) [goes-to](gacchet) [hundred-women](pramadāśatam)
 
 ## mukta-m0-p16-v382
-[who](yaḥ) [eats](khādet) [that](saḥ) [man](naraḥ) [would-go-to](gacchet) [of-women](strīnāṃ) [hundred](śatam) [as-never-before](apūrvavat)
+[who](yaḥ) [eats](khādet) [that](sa) [man](naro) [goes-to](gacchet) [of-women](strīnāṃ) [hundred](śatam) [unprecedentedly](apūrvavat)
 
 ## mukta-m0-p16-v383
-[powder](cūrṇam) [this](idam) [with-milk](payasā) [at-night](niśi) [to-be-drunk](peyam) [of-whom](yasya) [in-house](gṛhe) [hundred](śatam) [of-women](pramadā) [is](asti)
+[powder](cūrṇamidaṃ) [with-milk](payasā) [at-night](niśi) [to-be-drunk](peyaṃ) [whose](yasya) [house](gṛhe) [hundred-women](pramadāśatam) [is](asti)
 
 ## mukta-m0-p16-v384
-[he](saḥ) [having-drunk](pītvā) [with-sugar](śarkarā) [and-honey](kṣaudraṃ) [like-a-bull](kaliṅgaḥ) [as](iva) [rejoices](hṛṣyate)
+[he](sa) [having-drunk](pītvā) [sugar-and-honey](śarkarākṣaudraṃ) [like-a-kalinga](kaliṅga iva) [rejoices](hṛṣyate)
 
 ## mukta-m0-p16-v385
-[with-sugar](śarkarā) [long-pepper](pippalī) [and-honey](kṣaudra) [joined](yuktaṃ) [that](tat) [aphrodisiac](vṛṣyam) [is-called](ucyate)
+[sugar-pippali-honey-mixed](śarkarāpippalīkṣaudrayuktaṃ) [that](tad) [aphrodisiac](vṛṣya) [is-released](mucyate)
 
 ## mukta-m0-p16-v386
-[of-vārāhī](vārāhyāḥ) [twenty](viṃśati) [palas](palaṃ) [of-guḍūcī](guḍūcyāḥ) [twenty-five](pañcaviṃśatiḥ)
+[of-varahi](vārāhyā) [twenty-palas](viṃśatipalaṃ) [of-guduchi](guḍūcyāḥ) [twenty-five](pañcaviṃśatiḥ)
 
 ## mukta-m0-p16-v387
-[of-sesame-seeds](tilānāṃ) [huskless](nistuṣāṇāṃ) [indeed](tu) [a-prastha](prasthaṃ) [one-should-give](dadyāt) [well-powdered](sucūrṇitam)
+[of-sesames](tilānāṃ) [dehusked](nistuṣāṇāṃ) [indeed](tu) [a-prastha](prasthaṃ) [let-him-give](dadyāt) [well-powdered](sucūrṇitam)
 
 ## mukta-m0-p16-v388
-[honey](mākṣikaṃ) [with-half-sugar](śarkarā+arddhena) [with-half-honey](mākṣika+arddhena) [indeed](vai) [ghee](ghṛtam)
+[honey](mākṣikaṃ) [with-half-sugar](śarkarārddhena) [with-half-honey](mākṣikārddhena) [indeed](vai) [ghee](ghṛtam)
 
 ## mukta-m0-p16-v389
-[this](etat) [made-into-one](ekīkṛtaṃ) [powder](cūrṇaṃ) [in-an-oiled-vessel](snigdha+bhāṇḍe) [one-should-place](nidhāpayet)
+[this-united](etadekīkṛtaṃ) [powder](cūrṇa) [in-an-oily-vessel](snigdhabhāṇḍe) [let-him-store](nidhāpayet)
 
 ## mukta-m0-p16-v390
-[by-use-for-one-month](māsa+ekam+upayogena) [old-age](jarāṃ) [destroys](hanti) [diseases](rujām) [also](api)
+[for-one-month](māsaikam) [by-use](upayogena) [old-age](jarāṃ) [destroys](hanti) [diseases](rujāmapi)
 
 ## mukta-m0-p16-v391
-[destroys](hanti) [eighteen](aṣṭādaśa) [leprosies](kuṣṭhāni) [likewise](tathā) [eight](aṣṭa) [tumors](arbudarāṇi) [and](ca)
+[destroys](hanti) [eighteen-leprosies](aṣṭādaśakuṣṭhāni) [and](tathā) [eight-tumors](aṣṭārbudarāṇi) [and](ca)
 
 ## mukta-m0-p16-v392
-[in-consumption](kṣaye) [and](ca) [indeed](eva) [great-disease](mahā+vyādhiṃ) [five](paṃca) [coughs](kāsān) [very-terrible](su+dāruṇān)
+[in-wasting](kṣaye) [and-indeed](caiva) [great-disease](mahāvyādhiṃ) [five-coughs](paṃcakāsān) [severe](sudāruṇān)
 
 ## mukta-m0-p16-v393
-[twenty](viṃśati) [subtle-diseases](sūkṣma+rogān) [and](ca) [combined](saṃsṛṣṭān) [arising-from-tridoṣa](sānnipātikān)
+[twenty-subtle-diseases](viṃśatisūkṣmarogāṃśca) [and](ca) [combined](saṃsṛṣṭān) [complicated](sānnipātikān)
 
 ## mukta-m0-p16-v394
-[all](sarvān) [piles-diseases](arśaḥ+gadān) [would-destroy](hanyāt) [tree](vṛkṣam) [Indra's-thunderbolt](indra+aśaniḥ) [as](yathā)
+[all-hemorrhoid-diseases](sarvānarśogadān) [destroys](hanyāt) [like-a-tree-by-thunderbolt](vṛkṣamindrāśaniryathā)
 
 ## mukta-m0-p16-v395
-[of-women](strīṇāṃ) [hundred](śataṃ) [goes-to](gacchati) [exceedingly](sātirekaṃ) [delighted](prahṛṣṭa) [and-nourished](puṣṭaṃ) [and](ca) [as](yathā) [a-bird](vihaṅgam)
+[of-women](strīṇāṃ) [hundred](śataṃ) [goes](gacchati) [with-excess](sātirekaṃ) [delighted-nourished](prahṛṣṭapuṣṭaṃ) [and](ca) [like-a-bird](yathā vihaṅgam)
 
 ## mukta-m0-p16-v396
-[Nārasiṃha](nārasiṃham) [this](idam) [powder](cūrṇaṃ) [all-disease-destroying](sarva+roga+haraṃ) [of-men](nṛṇām)
+[narasimha](nārasiṃhamidaṃ) [powder](cūrṇaṃ) [all-disease-removing](sarvarogaharaṃ) [for-men](nṛṇām)
 
 ## mukta-m0-p16-v397
-[trikaṭu](trikaṭu) [triphala](triphalā) [kuṣṭha](kuṣṭhaṃ) [bhṛṅgī](bhṛṅgī) [rock-salt](saiṃdhava) [and-coriander](dhānyakam)
+[trikatu](trikaṭu) [triphala](triphalā) [costus](kuṣṭhaṃ) [bhringi](bhṛṅgī) [rock-salt-coriander](saiṃdhavadhānyakam)
 
 ## mukta-m0-p16-v398
-[ajamodā](ajamodā) [yavānī](yavānī) [and](ca) [licorice](yaṣṭī) [madhuka](madhukam) [indeed](eva) [and](ca)
+[ajamoda](ajamodā) [caraway](yavānī) [and](ca) [licorice](yaṣṭī) [madhuka](madhukameva) [and](ca)
 
 ## mukta-m0-p16-v399
-[are-taken](cyavanti) [these](etāni) [powders](cūrṇāni) [so-much](tāvat) [indeed](eva) [that-medicine](tat+auṣadham)
+[these-powders](cyavantyetāni cūrṇāni) [so-much](tāvadeva) [that-medicine](tadauṣadham)
 
 ## mukta-m0-p16-v400
-[so-much](tāvat) [indeed](eva) [sugar](sitā) [to-be-given](deyā) [as-much-as](yāvat) [comes-to](āyāti) [binding](bandhanam)
+[so-much](tāvadeva) [sugar](sitā) [should-be-given](deyā) [until](yāvad) [binding-occurs](āyāti bandhanam)

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2545,
- "question": "How many image height variations result from reducing the measure one part at a time?",
+ "question": "How should a gift be given to the guru?",
  "premises": [
-  "The measure is reduced by one part at a time",
-  "This reduction applies to image height",
-  "The resulting variations number twenty-seven"
+  "The verse says to guru.",
+  "It says gift.",
+  "It says according to means."
  ],
- "inference": "By decreasing one part at a time, twenty-seven variations of image height are obtained.",
- "uncertainties": [],
- "plain_english": "By reducing it one part at a time, there are twenty-seven image heights."
+ "inference": "One should give a gift to the guru according to one's means.",
+ "uncertainties": [
+  "No specific gift is named."
+ ],
+ "plain_english": "One should give a gift to the guru according to one's means."
 }

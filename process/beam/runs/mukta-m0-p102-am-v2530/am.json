@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2530,
- "question": "Which image forms are assigned to the thirteenth and fourteenth positions in the sequence?",
+ "question": "In what kind of water and depth should the practice occur?",
  "premises": [
-  "The half-of-Hari form is designated as thirteenth",
-  "The begging-wanderer form is designated as fourteenth",
-  "The ordered list of images continues"
+  "The verse names a river.",
+  "It specifies a sea-going river.",
+  "It specifies navel-deep water."
  ],
- "inference": "The thirteenth image is the half-of-Hari form and the fourteenth is the begging-wanderer form.",
- "uncertainties": [],
- "plain_english": "The thirteenth is the half-of-Hari form, and the fourteenth is the begging-wanderer form."
+ "inference": "The practice occurs in a sea-going river, standing in water up to the navel.",
+ "uncertainties": [
+  "Exact action is supplied by following verse."
+ ],
+ "plain_english": "In a sea-going river, in water reaching the navel."
 }

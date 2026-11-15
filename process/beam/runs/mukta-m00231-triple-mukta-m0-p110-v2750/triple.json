@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmajjñānānandaparamahaṃsaviracite",
+     "gloss": "composed-by-śrīmajjñānānandaparamahaṃsa",
+     "grounds": "locative singular adjective modifying kaulāvalīnirṇaye",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kaulāvalīnirṇaye",
+     "gloss": "in-the-kaulāvalīnirṇaya",
+     "grounds": "locative singular noun naming the work",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcadaśollāsaḥ",
+     "gloss": "fifteenth-ullāsa",
+     "grounds": "nominative singular noun naming the section",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What named Kaula determination and section does this closing statement identify?",
+   "premises": [
+    "iti marks the conclusion of the fifteenth ullāsa",
+    "śrīmajjñānānandaparamahaṃsa is named as composer",
+    "kaulāvalīnirṇaya is named as the work"
+   ],
+   "inference": "The colophon identifies the work as Kaulāvalīnirṇaya and the section as its fifteenth ullāsa.",
+   "uncertainties": [
+    "No doctrinal claim beyond bibliographic identification is present"
+   ],
+   "plain_english": "Thus, in the Kaulāvalīnirṇaya composed by Śrīmajjñānānandaparamahaṃsa, [this is] the fifteenth ullāsa."
+  }
+ ]
+}

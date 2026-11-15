@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "mallikā",
+     "gloss": "jasmine",
+     "grounds": "flower name in the ritual list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālatī",
+     "gloss": "mālatī",
+     "grounds": "flower name in the ritual list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jātī",
+     "gloss": "jasmine",
+     "grounds": "flower name in the ritual list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kundaiḥ",
+     "gloss": "kunda",
+     "grounds": "flower name in instrumental plural form",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining the flower list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatapatrakaiḥ",
+     "gloss": "hundred-petaled",
+     "grounds": "flower descriptor in instrumental plural form",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which flowers are to be used in the month-long worship of Parameshani?",
+   "premises": [
+    "Month-long worship of Parameshani is prescribed.",
+    "The verse lists jasmine mālatī jātī kunda and hundred-petaled flowers.",
+    "The listed items are ritual materials."
+   ],
+   "inference": "The verse enumerates flowers for the prescribed rite.",
+   "uncertainties": [
+    "Exact grammatical case and ritual syntax are not fully recoverable from the isolated verse."
+   ],
+   "plain_english": "Jasmine, mālatī, jasmine, kunda, and hundred-petaled flowers."
+  }
+ ]
+}

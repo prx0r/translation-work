@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p110",
  "verse": 2745,
- "question": "How should the tip width be determined relative to the divided base?",
+ "question": "Who is called a kaulika?",
  "premises": [
-  "The base is to be divided into seven or eight parts.",
-  "The tip width is reduced by one such part.",
-  "The division governs the tapering."
+  "Kula worship is performed",
+  "It is well-regulated",
+  "The performer is a kaulika"
  ],
- "inference": "After dividing the base into seven or eight parts, the tip width should be less by one part.",
- "uncertainties": [],
- "plain_english": "Divide the base into seven or eight parts, and make the tip width less by one part."
+ "inference": "One who performs well-regulated kula worship is a kaulika.",
+ "uncertainties": [
+  "The regulation's details are not given"
+ ],
+ "plain_english": "He who performs well-regulated kula worship is a kaulika."
 }

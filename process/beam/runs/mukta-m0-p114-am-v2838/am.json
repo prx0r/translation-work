@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p114",
  "verse": 2838,
- "question": "What ornamental features must appear at the root and tip of the staff?",
+ "question": "What flowers should the hero arrange in this rite?",
  "premises": [
-  "A bulge should be present at the staff's root and tip.",
-  "The bulge should be adorned like a bracelet.",
-  "This is a prescribed feature."
+  "flowers are arranged",
+  "the hero performs the act",
+  "jewel-made flowers are included"
  ],
- "inference": "At the root and tip of the staff there should be a bulge adorned like a bracelet.",
- "uncertainties": [],
- "plain_english": "At the root and tip of the staff there should be a bulge adorned like a bracelet."
+ "inference": "The verse instructs the hero to arrange jewel-made flowers.",
+ "uncertainties": [
+  "whether puṣpāṇi and māṇikyaghaṭitāni are same or separate"
+ ],
+ "plain_english": "Let the hero arrange flowers, jewel-made ones, and others."
 }

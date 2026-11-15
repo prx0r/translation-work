@@ -3,29 +3,34 @@
  "verse": 2541,
  "rows": [
   {
-   "lemma": "athavā",
+   "lemma": "tāṃ",
+   "morph": "pron.acc.sg.f",
+   "grounds": "accusative"
+  },
+  {
+   "lemma": "visṛjya",
+   "morph": "v.abs-√visṛj",
+   "grounds": "absolutive"
+  },
+  {
+   "lemma": "namaskṛtya",
+   "morph": "v.abs-√namaskṛ",
+   "grounds": "absolutive"
+  },
+  {
+   "lemma": "svayaṃ",
    "morph": "(indecl.)",
-   "grounds": "alternative conjunction"
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "garbhagehaṃ",
-   "morph": "compound+n.acc.sg",
-   "grounds": "compound: garbha (womb/inner) + geha (house), inner shrine"
+   "lemma": "japtvā",
+   "morph": "v.abs-√jap",
+   "grounds": "absolutive"
   },
   {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "particle marking specification"
-  },
-  {
-   "lemma": "dvinavāṃśaṃ",
-   "morph": "compound+n.acc.sg",
-   "grounds": "compound: dvi (two) + nava (nine) + aṃśa (parts), meaning eighteen parts"
-  },
-  {
-   "lemma": "vibhājite",
-   "morph": "n.loc.sg",
-   "grounds": "past participle in locative, indicating division"
+   "lemma": "susaṃyataḥ",
+   "morph": "adj.nom.sg.m",
+   "grounds": "compound adjective"
   }
  ]
 }

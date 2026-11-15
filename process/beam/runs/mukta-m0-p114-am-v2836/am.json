@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p114",
  "verse": 2836,
- "question": "How many parts should be used to fashion the sacrificial spoon and ladle?",
+ "question": "Where may the nighttime family agitation rite be performed?",
  "premises": [
-  "The spoon is measured by twenty-four parts.",
-  "The ladle is to be fashioned accordingly.",
-  "The instruction is prescriptive."
+  "night is the time",
+  "holy house is a site",
+  "garden is a site",
+  "god house is a site"
  ],
- "inference": "One should fashion the ladle using twenty-four parts for the spoon.",
+ "inference": "The verse gives alternative locations for the nighttime rite.",
  "uncertainties": [
-  "The relation between spoon and ladle in this measurement is slightly compressed."
+  "whether sites are hierarchical"
  ],
- "plain_english": "One should fashion the ladle with twenty-four parts for the spoon."
+ "plain_english": "Then at night, in a holy house, or in a garden, or in a god-house."
 }

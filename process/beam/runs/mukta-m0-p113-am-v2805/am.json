@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p113",
  "verse": 2805,
- "question": "Does a fire with flames licked by smoke grant ritual accomplishment?",
+ "question": "What does the practitioner do after obtaining the proper tithi?",
  "premises": [
-  "The fire has flames licked by smoke.",
-  "Such a fire is described as kṛśānu.",
-  "It is explicitly said not to grant accomplishment."
+  "The verse names a practitioner.",
+  "It names a tithi.",
+  "It commands worship with devotion."
  ],
- "inference": "A smoke-licked fire does not bestow accomplishment.",
- "uncertainties": [],
- "plain_english": "A fire whose flames are licked by smoke does not grant accomplishment."
+ "inference": "After obtaining the proper tithi, the practitioner worships with devotion.",
+ "uncertainties": [
+  "The written object is not specified here."
+ ],
+ "plain_english": "Having written and obtained the proper tithi, the practitioner worships with devotion."
 }

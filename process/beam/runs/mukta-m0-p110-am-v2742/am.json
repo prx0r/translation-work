@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p110",
  "verse": 2742,
- "question": "What iconographic form and demeanor are prescribed for the goddess Gaurī?",
+ "question": "What praise follows from whose worship?",
  "premises": [
-  "Gaurī is identified as the subject.",
-  "She is described as two-armed and peaceful.",
-  "Her face is described as pleased and lotus-like."
+  "Worship is the cause",
+  "Sixty-four yoginīs are involved",
+  "The practitioner is praised by them"
  ],
- "inference": "Gaurī should be depicted as two-armed, peaceful, and with a pleased lotus-like face.",
- "uncertainties": [],
- "plain_english": "Gaurī indeed is two-armed, peaceful, and has a pleased face like a lotus."
+ "inference": "By whose worship, the practitioner is praised by the sixty-four yoginīs.",
+ "uncertainties": [
+  "The antecedent of 'whose' is implicit"
+ ],
+ "plain_english": "By whose worship, he is praised by the group of sixty-four yoginīs."
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle introducing the next ritual rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārttikamāsasya",
+     "gloss": "of-karttika-month",
+     "grounds": "genitive of kārttika-māsa, the month of Kārttika",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śuklapratipadi",
+     "gloss": "on-bright-fortnight-first-day",
+     "grounds": "locative of śukla-pratipad, first day of the bright fortnight",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb expressing ritual certainty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the Kaula observance to be performed certainly on the first day of the bright fortnight of Kārttika?",
+   "premises": [
+    "The rule names Kārttika month as its temporal frame.",
+    "The bright fortnight first day is specified as the occasion.",
+    "Certainty is asserted by dhruvam."
+   ],
+   "inference": "The verse fixes the rite to the first bright day of Kārttika with unqualified certainty.",
+   "uncertainties": [
+    "The sentence is fragmentary and the main action is not stated in these four tokens."
+   ],
+   "plain_english": "Then, in the month of Kārttika, on the first day of the bright fortnight, certainly."
+  }
+ ]
+}

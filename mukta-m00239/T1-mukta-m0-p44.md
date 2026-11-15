@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[with-fresh-butter](navanītena) [lamps](dīpāḥ) [should-be](syuḥ) [collyrium](kajjalaṃ) [from-human-skull](nṛka+pālataḥ)
+[with-butter](navanītena) [lamps](dīpāḥ) [would-be](syuḥ) [collyrium](kajjalaṃ) [from-skull](nṛkapālataḥ)
 
 ## mukta-m0-p44-v1077
-[having-consecrated-with-mantra](mantrayitvā) [one-should-anoint](añjayet) [eyes](netre) [by-gods](devaiḥ) [even](api) [not](na) [is-seen](dṛśyate)
+[after-mantra](mantrayitvā) [anoint-eyes](añjayennetre) [by-gods-even](devairapi) [not](na) [seen](dṛśyate)
 
 ## mukta-m0-p44-v1078
-[of-this-mantra](etat+mantra) [from-ten-thousand-repetitions](ayuta+japāt) [success](siddhiḥ) [arises](bhavati) [of-the-aforementioned-invisibility-practices](ukta+adṛśya+prayogāṇām) [this-alone](ayam+eva) [mantra](maṃtraḥ) [by-this-mantra](anena) [mantreṇa](mantreṇa) [with-finger-oil-consecrated-one-hundred-and-eight-times](aṣṭottara+śata+abhimantrita+aṅguli+taila) [by-application](prayogāt) [they-become-accomplished](siddhāḥ) [bhavanti](bhavanti)
+[by-this-mantra-ten-thousand-japa](etanmantrāyutajapāt) [success-becomes](siddhirbhavati) [of-described-invisible-rites](uktādṛśyaprayogāṇām) [this-only](ayameva) [mantra](maṃtraḥ) [by-this-mantra](anena mantreṇa) [one-hundred-eight-consecrated-finger-oil](aṣṭottaraśatābhimantritāṅgulitaila) [by-application](prayogāt) [accomplished](siddhā) [become](bhavanti)
 
 ## mukta-m0-p44-v1079
-[invisibility-causing](adṛśya+kāriṇī) [she](sā) [indeed](tu) [placed-in-mouth](mukha+sthā) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[invisible-making](adṛśyakāriṇī) [she-indeed](sā) [tu](tu) [in-mouth](mukhasthā) [no](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p44-v1080
-[pill](guṭikā) [placed-in-middle-of-mouth](mukha+madhya+sthā) [she](sā) [invisibility-causing](adṛśya+kariṇī) [is-considered](matā)
+[pill](guṭikā) [in-middle-of-mouth](mukhamadhyasthā) [she-invisible-making](sā'dṛśyakariṇī) [considered](matā)
 
 ## mukta-m0-p44-v1081
-[crow](kāka) [ari](ari) [nail](nakha) [and-beak](cañcvā) [also](api) [in-equal-parts](sama+bhāgaṃ) [one-should-pulverize](vicūrṇayet)
+[crow-claw-beak](kākārinakhacañcvāpi) [equal-part](samabhāgaṃ) [powder](vicūrṇayet)
 
 ## mukta-m0-p44-v1082
-[invisible](adṛśyaḥ) [one-becomes](bhavati) [quickly](kṣipre) [accomplisher-of-all-tasks](sarva+kārya+prasādhakaḥ)
+[invisible](adṛśyo) [becomes](bhavati) [quickly](kṣipre) [all-works-accomplishing](sarvakāryaprasādhakaḥ)
 
 ## mukta-m0-p44-v1083
-[crow-eye](kāka+netraṃ) [and](ca) [pepper](maricaṃ) [having-ground](piṣṭvā) [to-be-made](kāryaṃ) [and](ca) [with-urine](mūtrakaiḥ)
+[crow-eye](kākanetraṃ) [and](ca) [pepper](maricaṃ) [pounded](piṣṭvā) [work](kāryaṃ) [with-urine](ca mūtrakaiḥ)
 
 ## mukta-m0-p44-v1084
-[by-that](tena) [indeed](eva) [with-anointed-eyes](añjita+netraḥ) [but](tu) [invisible](adṛśyaḥ) [one-becomes](bhavati) [certainly](dhruvam)
+[by-that-anointed-eye](tenaivāñjitanetrastu) [invisible](adṛśyo) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p44-v1085
-[of-naktamāla](naktamālasya) [with-oil](tailena) [there](tatra) [born-from-white-arka-thread](śveta+arka+sūtra+jām)
+[with-marking-nut-oil](naktamālasya tailena) [there](tatra) [white-arka-thread-born](śvetārkasūtrajām)
 
 ## mukta-m0-p44-v1086
-[by-that-collyrium](tena+añjanena) [a-person](manujaḥ) [indeed](tu) [invisible](adṛśyaḥ) [becomes](bhavati) [certainly](dhruvam)
+[by-that-anointing](tenāñjanena) [man](manujastvadṛśyo) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p44-v1087
-[very-black](su+kṛṣṇaṃ) [and](ca) [indeed](eva) [cat](mārjāraṃ) [having-killed](mārayitvā) [at-crossroads](catuṣpathe)
+[very-black](sukṛṣṇaṃ) [and-indeed](caiva) [cat](mārjāraṃ) [having-killed](mārayitvā) [at-crossroads](catuṣpathe)
 
 ## mukta-m0-p44-v1088
-[that](tat) [having-collected](saṃgṛhya) [with-effort](prayatnena) [one-should-wash](kṣālayet) [with-cold-water](śīta+vāriṇā)
+[that-collected](tatsaṃgṛhya) [carefully](prayatnena) [wash](kṣālayecchītavāriṇā)
 
 ## mukta-m0-p44-v1089
-[having-worshipped](pūjayitvā) [Mahākālī](mahākālīṃ) [mixed-with-gorocana](gorocana+samanvitam)
+[having-worshipped](pūjayitvā) [great-kali](mahākālīṃ) [with-gorocana](gorocanasamanvitam)
 
 ## mukta-m0-p44-v1090
-[by-that-wick-and-forehead-mark](tat+varti+tilakāt) [alone](eva) [a-man](naraḥ) [invisible](adṛśyaḥ) [would-become](bhavet) [certainly](dhruvam)
+[by-that-tilaka](tadvartitilakādeva) [man](naro'dṛśyo) [becomes](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p44-v1091
-[encased-in-three-metals](tri+loha+veṣṭitā) [she](sā) [indeed](tu) [placed-in-mouth](mukha+sthā) [invisibility-causing](adṛśya+kāriṇī)
+[three-metals-encased](trilohaveṣṭitā) [she-indeed](sā) [tu](tu) [in-mouth](mukhasthā) [invisible-making](adṛśyakāriṇī)
 
 ## mukta-m0-p44-v1092
-[that-fruit](tat+phalaṃ) [placed-in-mouth](vadana+sthaṃ) [indeed](hi) [directly](sākṣāt) [invisibility-causing](adṛśya+kārakam)
+[that-fruit](tatphalaṃ) [in-mouth](vadanasthaṃ) [hi](hi) [directly](sākṣād) [invisible-making](adṛśyakārakam)
 
 ## mukta-m0-p44-v1093
-[that](sā) [pill](vaṭī) [placed-in-middle-of-mouth](mukha+madhya+sthā) [invisible](adṛśyaṃ) [makes](kurute) [certainly](dhruvam)
+[she-pill](sā vaṭī) [in-middle-of-mouth](mukhamadhyasthā) [invisible](adṛśyaṃ) [makes](kurute) [certainly](dhruvam)
 
 ## mukta-m0-p44-v1094
-[placed-in-mouth](mukha+sthaṃ) [makes](kurute) [invisible](adṛśyaṃ) [at-will](yathā+icchaṃ) [one-may-wander](vicaret) [the-earth](mahīm)
+[in-mouth](mukhasthaṃ) [makes-invisible](kurute'dṛśyaṃ) [as-desired](yathecchaṃ) [roam-earth](vicarenmahīm)
 
 ## mukta-m0-p44-v1095
-[in-mouth](mukhe) [having-placed](prakṣipya) [and](ca) [a-man](naraḥ) [invisible](adṛśyaḥ) [would-be](syāt) [not](na) [indeed](hi) [doubt](saṃśayaḥ)
+[in-mouth](mukhe) [having-put](prakṣipya) [ca](ca) [man](naro'dṛśyaḥ) [would-be](syānnahi) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p44-v1096
-[having-taken](gṛhītvā) [with-drinking-vessel](pāna+pātreṇa) [invisible](adṛśyaḥ) [becomes](jāyate) [a-man](naraḥ)
+[having-taken](gṛhītvā) [drinking-vessel](pānapātreṇa) [invisible](adṛśyo) [becomes](jāyate) [man](naraḥ)
 
 ## mukta-m0-p44-v1097
-[under-Bharaṇī](bharaṇyāṃ) [indeed](tu) [having-collected](samāgṛhya) [parasitic-plant](vandāṃ) [born-from-cotton-plant](kārpāsa+sambhavām)
+[on-bharani](bharaṇyāṃ) [tu](tu) [having-gathered](samāgṛhya) [vanda](vandāṃ) [cotton-born](kārpāsasambhavām)
 
 ## mukta-m0-p44-v1098
-[one-should-drink](pibet) [under-Uttaraṣāḍhā](uttaraṣāḍhāyām) [born-from-aśoka-tree](aśoka+vṛkṣa+sambhavām)
+[drink](pibed) [uttara-shadha](uttaraṣāḍhāyām) [ashoka-tree-born](aśokavṛkṣasambhavām)
 
 ## mukta-m0-p44-v1099
-[parasitic-plant](vandākaṃ) [or](vā) [in-hand](kare) [having-held](dhṛtvā) [invisible](adṛśyaḥ) [becomes](jāyate) [a-man](naraḥ)
+[vanda-or](vandākaṃ) [vā](vā) [in-hand](kare) [holding](dhṛtvā) [invisible](adṛśyo) [becomes](jāyate) [man](naraḥ)
 
 ## mukta-m0-p44-v1100
-[liṅga](liṅgam) [under-aṅkola-tree](aṅkola+vṛkṣa+adhaḥ) [having-placed](sthāpayitvā) [one-should-worship](prapūjayet)
+[linga](liṅgamaṅkolavṛkṣādhaḥ) [having-placed](sthāpayitvā) [worship](prapūjayet)

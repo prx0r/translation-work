@@ -3,24 +3,34 @@
  "verse": 2540,
  "rows": [
   {
-   "lemma": "athavā",
+   "lemma": "prapūjya",
+   "morph": "v.abs-√pūj",
+   "grounds": "absolutive"
+  },
+  {
+   "lemma": "tatra",
    "morph": "(indecl.)",
-   "grounds": "alternative conjunction"
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "garbhagehaṃ",
-   "morph": "compound+n.acc.sg",
-   "grounds": "compound: garbha (womb/inner) + geha (house), inner shrine"
+   "lemma": "saṃskāraṃ",
+   "morph": "n.acc.sg.m",
+   "grounds": "accusative object"
   },
   {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "particle marking specification"
+   "lemma": "kṛtvā",
+   "morph": "v.abs-√kṛ",
+   "grounds": "absolutive"
   },
   {
-   "lemma": "trinavāṃśavibhājite",
-   "morph": "compound+n.loc.sg",
-   "grounds": "compound: tri (three) + nava (nine) + aṃśa (parts) + vibhājita (divided), meaning divided into twenty-seven parts"
+   "lemma": "tasyai",
+   "morph": "pron.dat.sg.f",
+   "grounds": "dative"
+  },
+  {
+   "lemma": "nivedayet",
+   "morph": "v.3.sg.act-opt-√nivid",
+   "grounds": "optative"
   }
  ]
 }

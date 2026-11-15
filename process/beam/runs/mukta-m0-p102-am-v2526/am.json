@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2526,
- "question": "How does the patron's wealth determine the maker's enjoyment of ritual results?",
+ "question": "How many repetitions are prescribed from day to day until completion?",
  "premises": [
-  "The patron acts according to available wealth",
-  "The maker receives fruit obtained through the work",
-  "The maker becomes the enjoyer of that fruit"
+  "The verse counts days and repetitions.",
+  "It fixes a numerical practice.",
+  "The count is one hundred eight."
  ],
- "inference": "The maker's enjoyment of the ritual fruit is proportioned to the patron's wealth.",
- "uncertainties": [],
- "plain_english": "That maker, acting according to wealth, becomes the enjoyer of the fruit obtained."
+ "inference": "The practitioner repeats one hundred eight times each day until the stated term.",
+ "uncertainties": [
+  "Exact duration phrase is compressed."
+ ],
+ "plain_english": "From day to day, until that time, one repeats one hundred eight times."
 }
