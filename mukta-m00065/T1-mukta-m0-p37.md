@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[empty](rikta) [chest+eyes+bellies](vakṣo'kṣikukṣīṃśca) [with](sa) [rosary+water-pots](akṣamālākamaṇḍalūn)
+[empty-breasted](riktavakṣaḥ) [eye](akṣi) [bellies](kukṣīn) [and](ca) [with-rosary](sa-akṣa-mālā) [water-pots](kamaṇḍalūn)
 
 ## mukta-m0-p37-v902
-[angry](kruddhām) [standing-upright](ūrdhvasthitāṃ) [beautiful](cāru) [one-should-make](kuryād) [twenty-armed](viṃśatibāhukām)
+[angry](kruddhām) [upward-standing](ūrdhva-sthitām) [beautiful](cāru) [should-make](kuryāt) [twenty-armed](viṃśati-bāhukām)
 
 ## mukta-m0-p37-v903
-[drum](ḍamaruṃ) [knife](śastrikāṃ) [in-right](yāmye) [hand](haste) [she](sa) [holding](bibhratīṃ) [always](sadā)
+[drum](ḍamarum) [small-sword](śastrikām) [in-south](yāmye) [in-hand](haste) [she](sā) [holding](bibhratīm) [always](sadā)
 
 ## mukta-m0-p37-v904
-[bell+banner](ghaṇṭādhvaja) [mace+mirror+hammers](gadādarśamudgarān) [with-left](vāma) [hands](hastakaiḥ)
+[bell](ghaṇṭā) [flag](dhvaja) [mace](gadā) [mirror](ādarśa) [hammers](mudgarān) [left-hands](vāma-hastakaiḥ)
 
 ## mukta-m0-p37-v905
-[to-be-made](kāryā) [ten-armed](daśabhujā) [and](ca) [also](api) [that-very](saiva) [goddess](devī) [somewhere](kvacin) [in-opinion](mate)
+[should-be-made](kāryā) [ten-armed](daśa-bhujā) [and](ca) [also](api) [she](sā) [indeed](eva) [goddess](devī) [in-some-opinion](kvacit-mate)
 
 ## mukta-m0-p37-v906
-[weapon](śastra) [uplifted-hand](udyatakaraḥ) [angry](kruddhas) [then](tad) [from-her-thigh](pīvāsambhavaḥ) [man](pumān)
+[weapon-raised-hand](śastra-udyata-karaḥ) [angry](kruddhaḥ) [that](tat) [fat-born](pīva-āsambhavaḥ) [man](pumān)
 
 ## mukta-m0-p37-v907
-[by-lion](siṃhena) [being-devoured](khādyamānaśca) [noose-bound](pāśabaddho) [on-neck](gale) [firmly](bhṛśam)
+[by-lion](siṃhena) [being-eaten](khādyamānaḥ) [and](ca) [noose-bound](pāśa-baddhaḥ) [on-neck](gale) [greatly](bhṛśam)
 
 ## mukta-m0-p37-v908
-[by-Caṇḍikā](caṇḍikā) [uplifted-weapon](udyataśastre) [this](iyam) [of-all](aśeṣa) [enemies](ripu) [destroyer](nāśanī)
+[caṇḍikā](caṇḍikā) [raised-weapon](udyata-śastrā) [this](iyam) [all-enemies-destroyer](aśeṣa-ripu-nāśanī)
 
 ## mukta-m0-p37-v909
-[in-beginning](ādau) [in-middle](madhye) [likewise](tathā) [beginning-with-Indra](indrādau) [with-nine-tattva-syllables](navatattvākṣaraiḥ) [in-order](kramāt)
+[in-beginning](ādau) [in-middle](madhye) [and-thus](tathā) [beginning-with-indra](indra-ādau) [nine-tattva-syllables](navatattva-akṣaraiḥ) [in-order](kramāt)
 
 ## mukta-m0-p37-v910
-[hair-tuft](mūrdhajaṃ) [shield](kheṭakaṃ) [bell](ghaṇṭām) [mirror](ādarśaṃ) [forefinger](tarjanīṃ) [bow](dhanuḥ)
+[hair](mūrdhajam) [shield](kheṭakam) [bell](ghaṇṭām) [mirror](ādarśam) [forefinger](tarjanīm) [bow](dhanuḥ)
 
 ## mukta-m0-p37-v911
-[spear](śaktim) [hammer](udgara) [trident](śūlaṃ) [and](ca) [thunderbolt](vajraṃ) [sword](khaḍgam) [then](atha) [goad](aṅkuśam)
+[spear](śaktim) [hammer-spear](udgara-śūlam) [and](ca) [thunderbolt](vajram) [sword](khaḍgam) [then](atha) [goad](aṅkuśam)
 
 ## mukta-m0-p37-v912
-[remaining](śeṣāḥ) [sixteen-armed](ṣoḍaśahastāśca) [añjanī](añjanī) [drum](ḍamaruṃ) [without](vinā)
+[rest](śeṣāḥ) [sixteen-hands](ṣoḍaśa-hastāḥ) [and](ca) [ointment](añjanī) [drum](ḍamarum) [without](vinā)
 
 ## mukta-m0-p37-v913
-[Caṇḍā](caṇḍā) [and](ca) [Caṇḍavatī](caṇḍavatī) [and](caiva) [Caṇḍarūpā](caṇḍarūpā) [Aticaṇḍikā](aticaṇḍikā)
+[caṇḍā](caṇḍā) [caṇḍavatī](caṇḍavatī) [and](ca) [indeed](eva) [fierce-formed](caṇḍa-rūpā) [very-fierce](aticaṇḍikā)
 
 ## mukta-m0-p37-v914
-[Rocanā](rocanā) [Ābhā](ābhā) [aruṇā](aruṇā) [kṛṣṇā](kṛṣṇā) [nīlā](nīlā) [śuklā](śuklā) [and](ca) [dhūmrikā](dhūmrikā)
+[rocanā-like](rocanā-ābhā) [reddish](aruṇā) [black](kṛṣṇā) [blue](nīlā) [white](śuklā) [and](ca) [smoky](dhūmrikā)
 
 ## mukta-m0-p37-v915
-[from-buffalo-arisen](mahiṣotthaḥ) [man](pumāñ) [armed](śastrī) [his-hair](tatkaca) [grasping-fist](grahamuṣṭikāḥ)
+[buffalo-born](mahiṣa-utthaḥ) [man](pumān) [woman](strī) [that-hair-grasp-fists](tat-kaca-graha-muṣṭikāḥ)
 
 ## mukta-m0-p37-v916
-[nine-Durgās](navadurgāḥ) [having-established](pratiṣṭhāpya) [for-son](putra) [life](āyur) [and-wealth](artha) [one-may-obtain](avāpnuyāt)
+[nine-durgās](nava-durgāḥ) [having-installed](pratiṣṭhāpya) [for-son-purpose](putra-artha) [life](āyuḥ) [may-obtain](avāpnuyāt)
 
 ## mukta-m0-p37-v917
-[holding](bibhratī) [staff+water-pot](daṇḍikākuṇḍyā) [rosary](akṣasūtraṃ) [boon](varaṃ) [in-order](kramāt)
+[holding](bibhratī) [staff-waterpot](daṇḍikā-kuṇḍyā) [sacred-thread](avakṣa-sūtram) [boon](varam) [in-order](kramāt)
 
 ## mukta-m0-p37-v918
-[that-very](saiva) [in-Rambhā-grove](rambhāvane) [accomplished](siddhā) [without-fire](agnihīnā) [Lalitā](lalitā) [otherwise](anyathā)
+[she](sā) [indeed](eva) [in-rambhā-forest](rambhā-vane) [siddhā](siddhā) [without-fire](agni-hīnā) [lalitā](lalitā) [otherwise](anyathā)
 
 ## mukta-m0-p37-v919
-[in-right](yāmye) [fruit+añjanī-hands](phalāñjanīhastā) [Saubhāgyā](saubhāgyā) [there](tatra) [and](ca) [Ūrdhvikā](ūrdhvikā)
+[in-south](yāmye) [fruit-kohl-in-hand](phala-añjanī-hastā) [saubhāgyā](saubhāgyā) [there](tatra) [and](ca) [upward](ūrdhvikā)
 
 ## mukta-m0-p37-v920
-[three-eyed](trinetrā) [matted-haired](jaṭilā) [gentle](saumyā) [with-various](nānā) [ornaments](ābharaṇa) [adorned](bhūṣitā)
+[three-eyed](tri-netrā) [matted-haired](jaṭilā) [gentle](saumyā) [various-ornaments-adorned](nānā-bharaṇa-bhūṣitā)
 
 ## mukta-m0-p37-v921
-[fearlessness](abhayaṃ) [water-pot](kuṇḍikāṃ) [trident](śūlaṃ) [standing](sthitaṃ) [in-left-hand](vāmakare) [always](sadā)
+[fearlessness](abhayam) [waterpot](kuṇḍikām) [spear](śūlam) [placed](sthitam) [left-hand](vāma-kare) [always](sadā)
 
 ## mukta-m0-p37-v922
-[without-boon](vināvarā) [and-fearlessness](bhayābhyāṃ) [but](tu) [to-be-made](kartavyā) [Sarvamaṅgalā](savamaṅgalā)
+[without](vinā) [boon](varā) [fear-and-fearlessness](bhayābhyām) [but](tu) [should-be-made](kartavyā) [all-auspicious](savamaṅgalā)
 
 ## mukta-m0-p37-v923
-[lying-on-bed](śayyārūḍhā) [asleep](prasuptā) [and](ca) [yogic-sleep](yoganidrā) [resorting-to](samāśritā)
+[bed-mounted](śayyā-ārūḍhā) [asleep](prasuptā) [and](ca) [yoga-sleep](yoga-nidrā) [resorted-to](samāśritā)
 
 ## mukta-m0-p37-v924
-[from-bamboo-arisen](vaṃśottha) [ear-ornament](karṇikā) [ears](karṇā) [with-oil](taila) [anointed-body](abhyaktaśarīriṇī)
+[bamboo-born-ear-ornament-eared](vaṃśa-uttha-karṇikā-karṇā) [oil-anointed-bodied](taila-abhyakta-śarīriṇī)
 
 ## mukta-m0-p37-v925
-[ninety-upward](navatyūrdhva) [vajā](vajā) [black](kṛṣṇā) [Kālarātrī](kālarātrī) [terrifying](bhayaṅkarī)
+[navatyūrdhva](navatyūrdhva) [vajā](vajā) [black](kṛṣṇā) [time-night](kāla-rātrī) [terrible](bhayaṅkarī)
