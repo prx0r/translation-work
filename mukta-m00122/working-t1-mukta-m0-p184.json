@@ -11,11 +11,11 @@
 "quick_gloss": "element"
 },
 {
-"surface": "a",
+"surface": "u",
 "quick_gloss": "not"
 },
 {
-"surface": "pracurāḥ",
+"surface": "apracurāḥ",
 "quick_gloss": "abundant"
 },
 {
@@ -65,11 +65,11 @@
 },
 {
 "surface": "phalanti",
-"quick_gloss": "they-bear-fruit"
+"quick_gloss": "they-fructify"
 },
 {
 "surface": "saikya",
-"quick_gloss": "union"
+"quick_gloss": "with-union"
 },
 {
 "surface": "yogataḥ",
@@ -196,7 +196,7 @@
 },
 {
 "surface": "phalanti",
-"quick_gloss": "they-bear-fruit"
+"quick_gloss": "they-fructify"
 },
 {
 "surface": "iti",
@@ -212,8 +212,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekonyaḥ",
-"quick_gloss": "one-by-one"
+"surface": "eka",
+"quick_gloss": "one"
+},
+{
+"surface": "ūnyaḥ",
+"quick_gloss": "less"
 },
 {
 "surface": "sarvataḥ",
@@ -225,7 +229,7 @@
 },
 {
 "surface": "vyutpatti",
-"quick_gloss": "manifestation"
+"quick_gloss": "arising"
 },
 {
 "surface": "artha",
@@ -319,7 +323,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+anusandhānena",
+"surface": "tat+anusandhānena",
 "quick_gloss": "by-contemplation-of-that"
 },
 {
@@ -356,7 +360,7 @@
 "quick_gloss": "triad"
 },
 {
-"surface": "amīṣāñ",
+"surface": "amīṣāṃ",
 "quick_gloss": "of-these"
 },
 {
@@ -438,7 +442,7 @@
 "quick_gloss": "also"
 },
 {
-"surface": "prāgvat",
+"surface": "prākvat",
 "quick_gloss": "as-before"
 },
 {
@@ -468,7 +472,7 @@
 },
 {
 "surface": "prayogāt",
-"quick_gloss": "from-application"
+"quick_gloss": "from-use"
 },
 {
 "surface": "bhajanāt",
@@ -484,7 +488,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-arise"
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -509,7 +513,7 @@
 },
 {
 "surface": "parivādāt",
-"quick_gloss": "reviling"
+"quick_gloss": "censure"
 },
 {
 "surface": "anavasthayā",
@@ -698,7 +702,7 @@
 "tokens": [
 {
 "surface": "bhoktṛtvaṃ",
-"quick_gloss": "enjoyment"
+"quick_gloss": "enjoyership"
 },
 {
 "surface": "śaktitaḥ",
@@ -870,12 +874,16 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "guṇa+bhūta",
+"surface": "guṇa",
 "quick_gloss": "secondary"
 },
 {
+"surface": "bhūta",
+"quick_gloss": "element"
+},
+{
 "surface": "samanvayāt",
-"quick_gloss": "conjunction"
+"quick_gloss": "connection"
 }
 ]
 },
@@ -891,7 +899,7 @@
 "quick_gloss": "of-airy-ones"
 },
 {
-"surface": "jalānāñ",
+"surface": "jalānāṃ",
 "quick_gloss": "of-watery-ones"
 },
 {
@@ -900,7 +908,7 @@
 },
 {
 "surface": "bhaumānāṃ",
-"quick_gloss": "of-earthly-ones"
+"quick_gloss": "of-earthy-ones"
 },
 {
 "surface": "syāt",
@@ -908,7 +916,7 @@
 },
 {
 "surface": "parasparam",
-"quick_gloss": "mutually"
+"quick_gloss": "mutual"
 }
 ]
 }

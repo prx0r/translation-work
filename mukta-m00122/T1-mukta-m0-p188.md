@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p188-v4676
-[unfathomable-intellect](agādha) [+](mati) [+](gambhīram) [profound](udāraṃ) [miserly](kṛpaṇan) [and](tathā)
+[unfathomable-intellect-deep](agādhamati+gambhīram) [noble](udāraṃ) [miserly](kṛpaṇam) [and](tathā)
 
 ## mukta-m0-p188-v4677
-[without-desire](aniccham) [desire](icchā) [+](rūpañ) [and](ca) [cowardly](kātaraṃ) [hero](vīra) [+](vigraham)
+[without-desire](aniccham) [desire-form](icchā+rūpam) [and](ca) [cowardly](kātaraṃ) [hero-form](vīra+vigraham)
 
 ## mukta-m0-p188-v4678
-[contraction](saṅkoca) [+](rūpaḥ) [of-all](sarveṣāṃ) [and](tathā) [all](sarva) [+](prakāśakaḥ)
+[contraction-form](saṅkoca+rūpaḥ) [of-all](sarveṣāṃ) [and](tathā) [all-illuminating](sarva+prakāśakaḥ)
 
 ## mukta-m0-p188-v4679
-[discrimination](viveka) [+](paramārtha) [+](svarūpam)
+[discrimination-supreme-truth-nature](viveka+paramārtha+svarūpam)
 
 ## mukta-m0-p188-v4680
-[defeat](parājaya) [+](rūpam)
+[defeat-form](parājaya+rūpam)
 
 ## mukta-m0-p188-v4681
-[happiness](sukha) [+](rūpaṃ) [suffering](duḥkha) [+](rūpañ) [and](ca) [thus](iti)
+[happiness-form](sukha+rūpaṃ) [sorrow-form](duḥkha+rūpam) [and](ca) [thus](iti)
 
 ## mukta-m0-p188-v4682
-[untouched](aspṛṣṭa) [+](ṣaḍguṇaṃ) [anger](krodha) [+](ādi) [+](ṣaḍguṇa) [+](rahitam)
+[untouched-by-six-qualities](aspṛṣṭa+ṣaḍguṇaṃ) [free-from-anger-etc-six-qualities](krodha+ādi+ṣaḍguṇa+rahitam)
 
 ## mukta-m0-p188-v4683
 [difficult-to-comprehend](duravagāhaṃ)
 
 ## mukta-m0-p188-v4684
-[by-fortune](bhāgyem) [thus](iti) [+](ādinā) [by-verse](ślokena) [eight](aṣṭa) [+](guṇāḥ)
+[by-fortune](bhāgyema) [thus-beginning](iti+ādinā) [by-verse](ślokena) [eight-qualities](aṣṭa+guṇāḥ)
 
 ## mukta-m0-p188-v4685
-[wind](vāta) [+](ādi) [+](tri) [+](doṣa) [+](ātmā) [of-all](sarveṣāṃ) [living-beings](prāṇinām) [thus](iti) [as-far-as](yāvat)
+[wind-etc-three-humors-nature](vāta+ādi+tri+doṣa+ātmā) [of-all](sarveṣāṃ) [living-beings](prāṇinām) [thus](iti) [to-that-extent](yāvat)
 
 ## mukta-m0-p188-v4686
-[juicy](sarasaṃ) [tasteless](virasaṃ) [cruel](krūraṃ) [gentle](saumyaṃ) [by-those](taiḥ) [by-many](bahubhiḥ) [but](tu) [what](kim)
+[juicy](sarasaṃ) [tasteless](virasaṃ) [cruel](krūraṃ) [gentle](saumyaṃ) [by-those](taiḥ) [many](bahubhiḥ) [but](tu) [what](kim)
 
 ## mukta-m0-p188-v4687
-[of-both](ubhaya) [+](aikya) [+](a) [+](viveka) [+](ātmā) [individual-soul](jīvaḥ) [other](anyaḥ) [of-that](tat) [+](vivekavān)
+[both-unity-non-discrimination-nature](ubhaya+aikya+adviveka+ātmā) [individual-soul](jīvaḥ) [other](anyaḥ) [that-discrimination-possessing](tat+viveka+vān)
 
 ## mukta-m0-p188-v4688
-[capability](sāmarthyaṃ) [own](sva) [+](avibheditvaṃ) [when-accomplished](siddhe) [to-be-obtained](prāpya) [+](phalāni) [and](ca)
+[capability](sāmarthyaṃ) [own-non-difference](sva+avibheditvaṃ) [when-accomplished](siddhe) [attainable-results](prāpya+phalāni) [and](ca)
 
 ## mukta-m0-p188-v4689
-[by-that](tena) [alone](eva) [accomplished](vihitaṃ) [all](sarvaṃ) [manifestation](prapañca) [+](ātma) [+](aikya) [+](vigraham)
+[by-that](tena) [indeed](eva) [accomplished](vihitaṃ) [all](sarvaṃ) [manifestation-unity-form](prapañca+ātma+aikya+vigraham)
 
 ## mukta-m0-p188-v4690
-[created](sṛṣṭāni) [element](bhūta) [+](śakti) [+](ātma) [+](vigrahāṇi) [sense-organs](indriyāṇi) [indeed](tu)
+[created](sṛṣṭāni) [element-power-nature-forms](bhūta+śakti+ātma+vigrahāṇi) [sense-organs](indriyāṇi) [indeed](tu)
 
 ## mukta-m0-p188-v4691
-[by-those](taiḥ) [+](guṇaiḥ)
+[by-those](taiḥ) [qualities](guṇaiḥ)
 
 ## mukta-m0-p188-v4692
-[intellect](buddhi) [+](adhīnam) [thus](iti) [as-far-as](yāvat) [by-that](tena) [of-intellect](buddheḥ) [reality](yāyātmya) [+](vidā) [thus](eva) [in-emphasis](avadhāraṇe)
+[intellect-dependent](buddhi+adhīnam) [thus](iti) [to-that-extent](yāvat) [by-that](tena) [of-intellect](buddheḥ) [reality-knowing](yāyātmya+vidā) [thus](eva) [in-determination](avadhāraṇe)
 
 ## mukta-m0-p188-v4693
-[vital-breaths](prāṇāḥ) [of-that](tat) [+](sākṣi) [+](bhūtaḥ) [indeed](hi) [individual-soul](jīvaḥ) [of-that-principle](tattva) [+](ātmakaḥ) [supreme](paraḥ)
+[vital-breaths](prāṇāḥ) [their-witness-being](tat+sākṣi+bhūtaḥ) [indeed](hi) [individual-soul](jīvaḥ) [principle-nature](tattva+ātmakaḥ) [supreme](paraḥ)
 
 ## mukta-m0-p188-v4694
-[time](kālaḥ) [thus](iti) [syllable](akṣara) [+](dvandvāt) [which](yat) [+](vācyaṃ) [that](tat) [+](vapuḥ) [my](mama)
+[time](kālaḥ) [thus](iti) [syllable-pair](akṣara+dvandvāt) [what](yat) [to-be-expressed](vācyam) [that](tat) [body](vapuḥ) [my](mama)
 
 ## mukta-m0-p188-v4695
-[even-so](tathāpi) [of-you](tava) [whatever](yatkiñcit) [I-explain](vyākaromi) [properly](samañjasā)
+[even-so](tathā+api) [to-you](tava) [whatever](yat+kiñcit) [I-explain](vyākaromi) [properly](samañjasā)
 
 ## mukta-m0-p188-v4696
-[by-that](tena) [identity-with-that](tanmayatā) [+](rūpa) [+](kathanaṃ) [not](na) [proper](ucitaṃ) [therefore](tataḥ)
+[by-that](tena) [that-identity-form-description](tanmayatā+rūpa+kathanaṃ) [not](na) [proper](ucitaṃ) [therefore](tataḥ)
 
 ## mukta-m0-p188-v4697
-[of-time](kālasya) [form](rūpaṃ) [that](tat) [declared](proktaṃ) [which](yat) [without-beginning-and-end](anādi) [+](anta) [+](vigraham)
+[of-time](kālasya) [form](rūpaṃ) [that](tat) [declared](proktaṃ) [which](yat) [beginningless-endless-form](anādi+anta+vigraham)
 
 ## mukta-m0-p188-v4698
-[of-lotus](nalinyāḥ) [leaf](patra) [+](nicaye) [by-needle](sūcī) [+](viddhe) [then](atha) [of-that](tasya) [indeed](vai)
+[of-lotus](nalinyāḥ) [leaf-heap](patra+nicaye) [needle-pierced](sūcī+viddhe) [then](atha) [of-that](tasya) [indeed](vai)
 
 ## mukta-m0-p188-v4699
-[by-that](tat) [+](triṃśat) [+](guṇitaṃ) [declared](proktaṃ) [truṭi](truṭī) [+](iti) [+](ādi) [+](śarīravān)
+[by-that-thirty-multiplied](tat+triṃśat+guṇitaṃ) [declared](proktaṃ) [truṭi-etc-body-possessing](truṭī+ādi+śarīra+vān)
 
 ## mukta-m0-p188-v4700
-[thus](iti) [by-one-asked](pṛṣṭena) [that](tat) [+](vaktuṃ) [possible](śakyate) [very-clearly](susphuṭaṃ) [by-me](mayā)
+[thus](iti) [by-asked-one](pṛṣṭena) [that](tat) [to-tell](vaktum) [possible](śakyate) [very-clearly](susphuṭam) [by-me](mayā)
