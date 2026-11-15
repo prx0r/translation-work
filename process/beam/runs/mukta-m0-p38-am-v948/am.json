@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p38",
  "verse": 948,
- "question": "How many vital points and joints are enumerated in this part of the diagram?",
+ "question": "What beautiful hooded arm ornament and ḍamaru-filled sky womb are described?",
  "premises": [
-  "Twenty-eight vital points are named.",
-  "Twenty-four joints are named.",
-  "Both are presented as counts in the structure."
+  "hooded wind-eating arm ornament is named",
+  "hand is object",
+  "ḍamaru sound fills sky womb"
  ],
- "inference": "The diagrammatic structure includes twenty-eight vital points and twenty-four joints.",
- "uncertainties": [],
- "plain_english": "There are twenty-eight vital points and twenty-four joints."
+ "inference": "The form is described by beautiful hooded arm ornament and ḍamaru-filled sky womb.",
+ "uncertainties": [
+  "compound boundaries inferred"
+ ],
+ "plain_english": "Beautiful hooded arm ornament, hand, and sky womb filled by ḍamaru sound."
 }

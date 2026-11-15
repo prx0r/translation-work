@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "sopāsaṃgapatākaḥ",
+     "gloss": "with-seat-banner",
+     "grounds": "compound adjective describing chariot",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuklaḥ",
+     "gloss": "white",
+     "grounds": "color adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.mid-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rathomahān",
+     "gloss": "great-chariot",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is the great chariot with seat and banner?",
+   "premises": [
+    "The chariot has seat and banner.",
+    "Its color is white.",
+    "It is called great chariot."
+   ],
+   "inference": "The great chariot with seat and banner is white.",
+   "uncertainties": [
+    "Color sequence context is not fully explicit."
+   ],
+   "plain_english": "The great chariot with seat and banner is indeed white."
+  }
+ ]
+}

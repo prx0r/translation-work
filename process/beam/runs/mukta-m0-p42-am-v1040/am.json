@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1040,
- "question": "With which vessel should the release of the bali offering be performed?",
+ "question": "What golden-colored forms are named in plural?",
  "premises": [
-  "The verse addresses the goddess as lady of the gods.",
-  "It specifies the bali vessel as the instrument.",
-  "It prescribes performing the release of the bali offering."
+  "golden color is named",
+  "plural form is named"
  ],
- "inference": "The release of the bali offering should be performed with the bali vessel.",
- "uncertainties": [],
- "plain_english": "O lady of the gods, one should perform the release of the bali offering with the bali vessel."
+ "inference": "Golden-colored forms are named in the plural.",
+ "uncertainties": [
+  "exact referent of the plural"
+ ],
+ "plain_english": "Golden-colored forms are named."
 }

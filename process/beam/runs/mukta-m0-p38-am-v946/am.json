@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p38",
  "verse": 946,
- "question": "Where are the twenty-five principles said to be included within this diagram?",
+ "question": "What red dog-mounted Nirvāṇa Vaduka Bhairava is worshipped?",
  "premises": [
-  "The twenty-five principles are named.",
-  "They are included in that very place.",
-  "The inclusion is stated as a fact."
+  "dog-mounted is named",
+  "Nirvāṇa is named",
+  "Vaduka Bhairava is object"
  ],
- "inference": "The twenty-five principles are contained within that same diagrammatic locus.",
- "uncertainties": [],
- "plain_english": "Those twenty-five principles are indeed included there."
+ "inference": "The worshipped red form is dog-mounted Nirvāṇa Vaduka Bhairava.",
+ "uncertainties": [
+  "compound boundaries inferred"
+ ],
+ "plain_english": "I worship the red dog-mounted Nirvāṇa Vaduka Bhairava."
 }

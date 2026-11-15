@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1600,
- "question": "In what order should the bali offering be presented starting from the east?",
+ "question": "What qualities are attributed to one whose birth occurs under the vijaya-named condition?",
  "premises": [
-  "bali is offered",
-  "offering begins from east",
-  "sequence follows order"
+  "The verse lists giver and compassionate.",
+  "It calls the person enemy-slayer.",
+  "Birth is under vijaya-named."
  ],
- "inference": "The bali should be offered sequentially beginning from the east.",
- "uncertainties": [],
- "plain_english": "He should offer the bali from the east onward in order."
+ "inference": "The verse attributes generosity, compassion, and enemy-slaying to one born under vijaya.",
+ "uncertainties": [
+  "The exact scope of vijaya-named birth is unclear."
+ ],
+ "plain_english": "A giver, compassionate, indeed an enemy-slayer—whose birth is under the vijaya-named."
 }

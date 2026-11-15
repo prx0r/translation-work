@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p174-v4326
-[hanumad-bhairava-two](hanumadbhairavāvete) [spoken](bhāṣitāḥ) [five](pañca) [boys](bālakāḥ)
+[hanumat-bhairava-these-two](hanumadbhairavāvete) [spoken](bhāṣitāḥ) [five](pañca) [boys](bālakāḥ)
 
 ## mukta-m0-p174-v4327
-[kārtavīrya-arjuna](kārtavīryājunaḥ) [and](ca) [eva](eva) [hanumad-bhairava-two](hanumadbhairavau) [thus](tathā)
+[kartavirya-arjuna-and-also](kārtavīryājunaścaiva) [hanumat-bhairava-two](hanumadbhairavau) [thus](tathā)
 
 ## mukta-m0-p174-v4328
-[kārtavīrya-arjuna](kārtavīryārjunaḥ) [also](api) [thus](evaṃ) [sugrīva](sugrīvaḥ) [hanumān](hanumān) [thus](tathā)
+[kartavirya-arjuna-also-thus](kārtavīryārjuno'pyevaṃ) [sugriva](sugrīvo) [hanuman-thus](hanumāṃstathā)
 
 ## mukta-m0-p174-v4329
-[śaṅkara](śaṅkaraṃ) [six-headed-mantra](ṣaṭśiromantraṃ) [then](tataḥ) [sprout](pallavam) [raise](uddharet)
+[shankara](śaṅkaraṃ) [six-head-mantra](ṣaṭśiromantraṃ) [then](tataḥ) [sprout-raise](pallavamuddharet)
 
 ## mukta-m0-p174-v4330
-[all-people](sarvajanaṃ) [then](tataḥ) [afterwards](paścāt) [to-me](me) [under-control](vaśam) [bring](ānaya) [iti](iti) [ca](ca)
+[all-people](sarvajanaṃ) [then](tataḥ) [afterwards](paścāt) [to-me](me) [subjection-bring-thus](vaśamānayeti) [and](ca)
 
 ## mukta-m0-p174-v4331
-[middle](madhye) [to-kumāra](kumārāya) [namo](namo) [indeed](hi) [end](ante) [water](nīram) [spoken](udāhṛtam)
+[middle](madhye) [to-kumara](kumārāya) [salutation](namo) [indeed-end](hyante) [water-spoken](nīramudāhṛtam)
 
 ## mukta-m0-p174-v4332
-[hrāṃ](hrāṃ) [bījas](bījāni) [and](ca) [four](catvāri) [artificial](kṛtrimāṇi) [other](aparāṇi) [and](ca)
+[hrāṃ](hrāṃ) [seeds](bījāni) [and](ca) [four](catvāri) [artificial-other](kṛtrimāṇyaparāṇi) [and](ca)
 
 ## mukta-m0-p174-v4333
-[semen-bīja](śukrabījaṃ) [thus](tathā) [void](śūnyaṃ) [lotus](kamalā) [tongue](rasanā) [thus](tathā)
+[semen-seed](śukrabījaṃ) [thus](tathā) [void](śūnyaṃ) [lotus](kamalā) [tongue](rasanā) [thus](tathā)
 
 ## mukta-m0-p174-v4334
-[middle](madhye) [that-name](tannāma) [known](vijñeyaṃ) [to-kārtavīrya-arjuna](kārtavīryārjunāya) [and](ca)
+[middle](madhye) [that-name](tannāma) [to-be-known](vijñeyaṃ) [to-kartavirya-arjuna](kārtavīryārjunāya) [and](ca)
 
 ## mukta-m0-p174-v4335
-[daitya-minister](daityamānyaḥ) [O-great-goddess](maheśāni) [by-gods-and-demons-revered](surāsuranamaskṛte)
+[demon-minister](daityamānyo) [great-goddess](maheśāni) [gods-demons-saluted](surāsuranamaskṛte)
 
 ## mukta-m0-p174-v4336
-[to-hanumān](hanumate) [then](tataḥ) [afterwards](paścāt) [to-rāma-messenger](rāmadūtāya) [indeed](vai) [again](punaḥ)
+[to-hanuman](hanumate) [then](tataḥ) [afterwards](paścāt) [to-rama-messenger](rāmadūtāya) [indeed](vai) [again](punaḥ)
 
 ## mukta-m0-p174-v4337
-[to-bhūta](bhūtāya) [śākinī](śākinī) [and](ca) [eva](eva) [ḍākinī](ḍākinī) [thereafter](tadanantaram)
+[to-bhuta](bhūtāya) [shakini](śākinī) [and-also](caiva) [dakini](ḍākinī) [thereafter](tadanantaram)
 
 ## mukta-m0-p174-v4338
-[to-vibhīṣaṇa](vibhīṣaṇāya) [hanumad-deva](hanumaddevāya) [thereafter](tadanantaram)
+[to-vibhishana](vibhīṣaṇāya) [to-hanuman-god](hanumaddevāya) [thereafter](tadanantaram)
 
 ## mukta-m0-p174-v4339
-[hara-water](haramāpaḥ) [thus](tathā) [end](ante) [api](api) [seventy-six-syllable](saptaṣaṣṭyakṣaraḥ) [mantra](manuḥ)
+[hara-ma](haramāpaḥ) [thus-end-also](tathānte'pi) [sixty-seven-syllable](saptaṣaṣṭyakṣaro) [mantra](manuḥ)
 
 ## mukta-m0-p174-v4340
-[ocean-bīja](abdhibījaṃ) [kalpa-bīja](kalpabījaṃ) [śataghnī-bīja-joined](śataghnībījasaṃyutam)
+[ocean-seed](abdhibījaṃ) [kalpa-seed](kalpabījaṃ) [shataghni-seed-joined](śataghnībījasaṃyutam)
 
 ## mukta-m0-p174-v4341
-[end](ante) [water](apaḥ) [of-bhairava](bhairavasya) [this](ayaṃ) [mantra](manuḥ) [eighteen-syllable](aṣṭādaśākṣaraḥ)
+[end-water](ante'po) [of-bhairava-this](bhairavasyāyaṃ) [mantra-eighteen-syllable](manuraṣṭādaśākṣaraḥ)
 
 ## mukta-m0-p174-v4342
-[vīṃ](vīṃ) [bījas](bījāni) [and](ca) [five](pañca) [eva](eva) [untrue](anṛtāni) [other](parāṇi) [and](ca)
+[vīṃ](vīṃ) [seeds](bījāni) [and](ca) [five-indeed](pañcaiva) [untrue-other](anṛtāni) [other](parāṇi) [and](ca)
 
 ## mukta-m0-p174-v4343
-[ruṃ](ruṃ) [bījas](bījāni) [and](ca) [four](catvāri) [artificial-other](kṛtrimāṇyaparāṇi) [and](ca)
+[ruṃ](ruṃ) [seeds](bījāni) [and](ca) [four](catvāri) [artificial-other-and](kṛtrimāṇyaparāṇi) [and](ca)
 
 ## mukta-m0-p174-v4344
-[kṣāmika](kṣāmikaṃ) [kṣuraka](kṣurakaṃ) [kṣaudra](kṣaudraṃ) [thus](tathā) [kalpānta-bīja](kalpāntabījakam)
+[kshamika](kṣāmikaṃ) [kshuraka](kṣurakaṃ) [honey](kṣaudraṃ) [thus](tathā) [kalpa-end-seed](kalpāntabījakam)
 
 ## mukta-m0-p174-v4345
-[ghnīṃ](ghnīṃ) [bījas](bījāni) [tu](tu) [five](pañca) [eva](eva) [untrue](asatyāni) [other](aparāṇi) [and](ca)
+[ghnīṃ](ghnīṃ) [seeds](bījāni) [indeed](tu) [five-indeed](pañcaiva) [untrue-other](asatyānyaparāṇi) [and](ca)
 
 ## mukta-m0-p174-v4346
-[therefore](tasmāt) [śakti](śaktiḥ) [khaṃ](khaṃ) [autumn](śarad) [heart-born](hṛjjatārau) [mantra-extraction](mantroddhāraḥ) [goddess](devi) [mṛtyuñjaya](mṛtyuñjayasya)
+[therefore-shakti](tasmācchaktiḥ) [khaṃ](khaṃ) [autumn](śarad) [heart-born-two](hṛjjatārau) [mantra-extraction](mantroddhāro) [goddess](devi) [of-mrityunjaya](mṛtyuñjayasya)
 
 ## mukta-m0-p174-v4347
-[kālī-lotus](kālīpadmau) [kūrca-lotus](kūrcapadmau) [all-lotus](samastāpadmau) [water-this](nīrameṣa) [sugrīva-mantra](sugrīvamantraḥ)
+[kali-lotuses](kālīpadmau) [kurcha-lotuses](kūrcapadmau) [all-lotuses](samastāpadmau) [water-this](nīrameṣa) [sugriva-mantra](sugrīvamantraḥ)
 
 ## mukta-m0-p174-v4348
-[I-speak](bravīmi) [to-you](bhavatāṃ) [with-affection](prītyā) [command](ājñāpayitum) [worthy](arhatha)
+[I-speak](bravīmi) [your](bhavatāṃ) [with-affection](prītyā) [to-command-worthy](ājñāpayitumarhatha)
 
 ## mukta-m0-p174-v4349
-[seven-kumāra-kośa-narrative](saptakumārakośākhyānaṃ) [third](tṛtīyaḥ) [kalpa](kalpaḥ)
+[seven-kumara-kosha-named](saptakumārakośākhyānaṃ) [third](tṛtīyaḥ) [kalpa](kalpaḥ)
 
 ## mukta-m0-p174-v4350
-[of-nine-planets](navagrahāṇāṃ) [mantras](mantrāṃśca) [them](tān) [I-will-speak](vakṣyāmi) [briefly](samāsataḥ)
+[of-nine-planets](navagrahāṇāṃ) [mantras-and](mantrāṃśca) [those](tān) [I-will-speak](vakṣyāmi) [briefly](samāsataḥ)

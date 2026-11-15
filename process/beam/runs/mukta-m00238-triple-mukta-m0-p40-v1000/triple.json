@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "śāṃtaṃ",
+     "gloss": "peaceful",
+     "grounds": "legacy hint peaceful",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jitāriṣaḍvargam",
+     "gloss": "conquered-six-enemies",
+     "grounds": "legacy hint conquered-six-enemies",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "akṣasragdaṃḍahastakam",
+     "gloss": "rosary-staff-handed",
+     "grounds": "legacy hint rosary-staff-handed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which peaceful form has conquered the six enemies and holds rosary and staff?",
+   "premises": [
+    "The verse describes a peaceful deity.",
+    "It has conquered six enemies.",
+    "It holds rosary and staff."
+   ],
+   "inference": "The described form is peaceful, victorious over six enemies, and equipped with rosary and staff.",
+   "uncertainties": [
+    "Source attribution and quotation boundary remain unclear in this compendium passage."
+   ],
+   "plain_english": "Peaceful, having conquered the six enemies, holding rosary and staff."
+  }
+ ]
+}

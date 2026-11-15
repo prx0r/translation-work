@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 896,
- "question": "Which cloth colors are to be avoided everywhere?",
+ "question": "What red-colored elephant-faced difficulty-remover protects from difficulties?",
  "premises": [
-  "blue-red is named",
-  "but is stated",
-  "which cloth is named",
-  "that everywhere is stated",
-  "avoid is commanded"
+  "The form is elephant-faced.",
+  "It removes difficulties.",
+  "The color is red."
  ],
- "inference": "Blue-red cloth is to be avoided everywhere.",
- "uncertainties": [],
- "plain_english": "Avoid blue-red cloth everywhere."
+ "inference": "The verse asks a red-colored elephant-faced difficulty-remover to protect.",
+ "uncertainties": [
+  "The exact form name is not stated."
+ ],
+ "plain_english": "A red-colored elephant-faced difficulty-remover protecting from difficulties."
 }

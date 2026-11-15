@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "pratyūhaśāṃtipradamākhusaṃsthaṃ",
+     "gloss": "obstacle-peace-giving-mouse-seated",
+     "grounds": "compound adjective describing Ganesha; internal members pratyūha, śānti, prada, ākhu, saṃstha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāyeddhṛdabje satataṃ gaṇeśam",
+     "gloss": "meditate-heart-lotus-always-ganesha",
+     "grounds": "fused phrase with internal sandhi and spaces: dhyāyet hṛdabje satataṃ gaṇeśam",
+     "morph": "verb 3.sg.act.opt + loc.sg.n + indecl. + m.acc.sg"
+    }
+   ],
+   "question": "What form of Ganesha should one meditate upon in the heart-lotus for obstacle-peace?",
+   "premises": [
+    "Ganesha is mouse-seated obstacle-peace-giving.",
+    "Meditation occurs in heart-lotus always.",
+    "Ganesha is object of meditation."
+   ],
+   "inference": "One should meditate on mouse-seated Ganesha in heart-lotus.",
+   "uncertainties": [
+    "Token includes multiple words; sandhi not expanded."
+   ],
+   "plain_english": "One should always meditate on Ganesha, seated on a mouse and granting peace from obstacles, in the lotus of the heart."
+  }
+ ]
+}

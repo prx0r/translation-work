@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 886,
- "question": "On what kind of throne is the deity seated?",
+ "question": "What white-colored red-garmented Ganapati liberates from debt?",
  "premises": [
-  "various gems are named",
-  "gold lion throne is named",
-  "endowed is stated"
+  "The form is Ganapati.",
+  "It liberates from debt.",
+  "The color is white."
  ],
- "inference": "The deity is on a gold lion throne adorned with various gems.",
- "uncertainties": [],
- "plain_english": "The deity is seated on a gold lion throne adorned with gems."
+ "inference": "The verse describes a white-colored debt-liberating Ganapati.",
+ "uncertainties": [
+  "The exact form name is not stated."
+ ],
+ "plain_english": "A white-colored red-garmented Ganapati who liberates from debt."
 }

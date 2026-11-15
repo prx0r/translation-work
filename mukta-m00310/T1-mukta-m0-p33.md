@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[that-time](tatkālaṃ) [just-as](yadvat) [bliss-vessel](ānandapātraṃ) [by-gods](devaiḥ) [and](ca) [worshipped](vanditam)
+[then-time](tatkālaṃ) [as-joy-vessel](yadvadānandapātraṃ) [by-gods-and](devaiśca) [worshipped](vanditam)
 
 ## mukta-m0-p33-v802
-[by-guru](guruṇā) [given](dattam) [worshipping](abhyarcya) [bow](praṇamet) [with-head](śirasā) [then](tadā)
+[by-guru](guruṇā) [given-worship](dattamabhyarcya) [bow-with-head](praṇamecchirasā) [then](tadā)
 
 ## mukta-m0-p33-v803
-[second](dvitīyam) [now](adhunā) [bliss-increase](ānanda-eka-saṃvardhanam)
+[second-now-joy-one-increase](dvitīyamadhunānandaikasaṃvardhanam)
 
 ## mukta-m0-p33-v804
-[i-bow](vande) [vessel](pātram) [i](aham) [third](tṛtīyam) [now](adhunā) [self-knowledge-capable](svātma-avabodha-kṣamam)
+[I-bow](vande) [vessel-I](pātramahaṃ) [third-now](tṛtīyamadhunā) [self-knowledge-capable](svātmāvabodhakṣamam)
 
 ## mukta-m0-p33-v805
-[by-god-demon-hosts](surāsura-gaṇaiḥ) [command-doers](ājñā-karaiḥ) [servants](kiṅkaraiḥ) [served](sevitam)
+[by-god-demon-groups-command-doers](surāsuragaṇairājñākaraiḥ) [servants](kiṅkaraiḥ) [served](sevitaṃ)
 
 ## mukta-m0-p33-v806
-[glorious-bhairava-bhairavi-dear](śrīmad-bhairava-bhairavī-priyataram) [vessel](pātram) [sixth](ṣaṣṭham) [we-bow](numaḥ)
+[glorious-bhairava-bhairavi-dear-more](srīmadbhairavabhairavīpriyataraṃ) [vessel](pātraṃ) [and](ca) [sixth](ṣaṣṭhaṃ) [we-bow](numaḥ)
 
 ## mukta-m0-p33-v807
 [me](mām)
 
 ## mukta-m0-p33-v808
-[vessel](pātram) [hundred-thousand-fold](lakṣa-guṇa-ātmakam) [ninth](navamam) [mighty-glory](prauḍha-pratāpam) [i-worship](bhaje)
+[vessel](pātraṃ) [hundred-thousand-quality-nature](lakṣaguṇātmakaṃ) [and](ca) [ninth](navamaṃ) [mature-splendor](prauḍhapratāpaṃ) [I-worship](bhaje)
 
 ## mukta-m0-p33-v809
-[rare](durlabham) [purifying](pāvanam) [vessel](pātram) [tenth](daśamam) [i-bow](praṇamāmi) [i](aham)
+[rare](durlabhaṃ) [purifying](pāvanaṃ) [vessel](pātraṃ) [tenth](daśamaṃ) [I-bow-I](praṇamāmyaham)
 
 ## mukta-m0-p33-v810
-[vessel](pātram) [eleventh](ekādaśam) [i-bow](vande) [guru-service-joy-arrived](guru-sevā-sukha-āgatam)
+[vessel-eleventh](pātramekādaśaṃ) [I-bow](vande) [guru-service-happiness-arrived](gurusevāsukhāgatam)
 
 ## mukta-m0-p33-v811
-[here](iha) [world](loke) [prosperity](śriyam) [enjoying](bhuktvā) [after-body](dehānte) [bhairava](bhairavaḥ) [becomes](bhavet)
+[here](iha) [world](loke) [prosperity](śriyaṃ) [having-enjoyed](bhuktvā) [at-body-end](dehānte) [bhairava](bhairavo) [becomes](bhavet)
 
 ## mukta-m0-p33-v812
-[drinking](pibataḥ) [drink](pānam) [with-lamp](sadīpam) [offering](carum) [with-honey](samaṃ-mākṣikam)
+[drinking](pibataḥ) [drink](pānaṃ) [with-lamp](sadīpaṃ) [offering](carum) [equal-honey](samaṃ+mākṣikam)
 
 ## mukta-m0-p33-v813
-[heart](hṛdaye) [tripura](tripurā) [girl](bālā) [sacrifice-hall](yāga-śālā) [house](gṛhe) [house](gṛhe)
+[in-heart](hṛdaye) [tripura](tripurā) [girl](bālā) [sacrifice-hall](yāgaśālā) [house](gṛhe) [house](gṛhe)
 
 ## mukta-m0-p33-v814
-[for-yogis](yoginām) [even](api) [unreachable](agamyaḥ)
+[of-yogis-even-unreachable](yogināmapyagamyaḥ)
 
 ## mukta-m0-p33-v815
-[i-am-shiva](śivo'ham)
+[shiva-I-am](śivo'ham)
 
 ## mukta-m0-p33-v816
-[devotion](bhaktiḥ) [guru-lotus-feet](guru-pada-ambhoje) [refuge](śaraṇam) [remembrance](smaraṇam) [what](kim) [then](ataḥ) [beyond](param)
+[devotion-guru-foot-lotus](bhaktirgurupadāmbhoje) [refuge](śaraṇaṃ) [what-than](kimataḥ) [supreme](param)
 
 ## mukta-m0-p33-v817
 [by-ocean](sāgareṇa)
 
 ## mukta-m0-p33-v818
-[sweet](surasaṃ) [you](te) [enjoyment-liberation](bhukti-muktī) [gone](gatāḥ)
+[sweet](surasaṃ) [your](te) [enjoyment-liberation](bhuktimuktī) [gone](gatāḥ)
 
 ## mukta-m0-p33-v819
-[again](punar) [rising](utthāya) [indeed](vai) [drinking](pītvā) [again-birth](punar-janma) [not](na) [exists](vidyate)
+[again-rising](punarutthāya) [indeed](vai) [having-drunk](pītvā) [rebirth](punarjanma) [not](na) [exists](vidyate)
 
 ## mukta-m0-p33-v820
-[by-sushumna-path](suṣumnā-vartmanā) [always](nityam) [sense-functions](akṣa-vṛttīḥ) [i-offer](juhomi) [i](aham)
+[by-sushumna-path](suṣumnāvartmanā) [always](nityam) [eye-functions](akṣavṛttīr) [I-offer-I](juhomyaham)
 
 ## mukta-m0-p33-v821
-[so-long](tāvat) [drinking](pānam) [should-be-done](prakartavyam) [animal-drinking](paśu-pānam) [thereafter](ataḥ) [beyond](param)
+[so-long](tāvat) [drink](pānaṃ) [to-be-done](prakartavyaṃ) [animal-drink](paśupānam) [thereafter](ataḥ) [supreme](param)
 
 ## mukta-m0-p33-v822
 [chapter](paṭalaḥ)
 
 ## mukta-m0-p33-v823
-[heroes](vīrāḥ) [by-whom](yena) [supreme-bliss-state](parānanda-padam) [will-obtain](prāpsyanti) [desireless](niḥspṛhāḥ)
+[heroes](vīrā) [by-whom](yena) [supreme-bliss-state](parānandapadaṃ) [will-obtain](prāpsyanti) [desireless](niḥspṛhāḥ)
 
 ## mukta-m0-p33-v824
-[i-bow](namāmi) [with-head](śirasā) [lord](nātham) [bhairava](bhairavam) [bhairavi-dear](bhairavī-priyam)
+[I-bow](namāmi) [with-head](śirasā) [lord](nāthaṃ) [bhairava](bhairavaṃ) [bhairavi-dear](bhairavīpriyam)
 
 ## mukta-m0-p33-v825
-[salutation](namaḥ) [śrī-nātha-physician](śrī-nātha-vaidyāya) [clan-medicine-giver](kula-oṣadha-pradāyine)
+[salutation](namaḥ) [shri-natha-physician](śrīnāthavaidyāya) [clan-medicine-giver](kulauṣadhapradāyine)

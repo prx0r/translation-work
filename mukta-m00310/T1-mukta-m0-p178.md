@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p178-v4426
-arrow-seed arrow and winged-swift thus
+[arrow-seed](bāṇabījaṃ) [arrow](mārgaṇaṃ) [and](ca) [winged-swift](patriṇamāśugaṃ) [thus](tathā)
+
 ## mukta-m0-p178-v4427
-night-seed darkness-seed tamasi-seed-indeed and
+[night-seed](rātribījaṃ) [darkness-seed](tamībījaṃ) [darkness-seed](tāmasībījameva) [and](ca)
+
 ## mukta-m0-p178-v4428
-in-kubjika-sarvasva in-text tam-seed and by-me remembered
+[kubjikā-all](kubjikāsarvasve) [treatise](granthe) [that-seed](taṃbījaṃ) [by-me](mayā) [remembered](smṛtam)
+
 ## mukta-m0-p178-v4429
-of-tha-letter by-me declared in-tantra indeed in-kulikarnava
+[thakāra](thakārasya) [by-me](mayā) [declared](khyātaṃ) [in-tantra](tantre) [vai](vai) [kulikārṇava](kulikārṇave)
+
 ## mukta-m0-p178-v4430
-bhogi-seed serpent and serpent-thus remembered
+[serpent-seed](bhogibījaṃ) [serpent](bhujaṅgaṃ) [ca](ca) [serpent](bhujaṅgamamiti) [remembered](smṛtam)
+
 ## mukta-m0-p178-v4431
-in-svatantre goddess-of-gods by-dakshinamurti made
+[own-tantra](svatantre) [lord-of-lords](devadeveśi) [by-dakṣiṇāmūrti](dakṣiṇāmūrtinā) [made](kṛte)
+
 ## mukta-m0-p178-v4432
-of-dha-letter false-other in-tripuratilaka remembered
+[dhakāra](dhakārasyānṛtamanyat) [tripurā-tilaka](tripurātilake) [remembered](smṛtam)
+
 ## mukta-m0-p178-v4433
-varaha-false-other by-me declared O-goddess
+[vārāha-false](vārāhamanṛtamanyanmayā) [declared](khyātaṃ) [goddess](sureśvari)
+
 ## mukta-m0-p178-v4434
-in-tortoise-fish-path-spread seed-syllable similar dear
+[tortoise-fish-path](kūrmamīnapadavyāptau) [seed-letter](bījārṇaṃ) [similar](sadṛśaṃ) [dear](priye)
+
 ## mukta-m0-p178-v4435
-in-speech-extraction-matter in-writing nature separate
+[speech-extraction](bhāṣaṇoddhāraviṣaye) [writing](likhane) [nature](prakṛtiḥ) [separate](pṛthak)
+
 ## mukta-m0-p178-v4436
-fish-seed by-me-declared in-text chinnashiro-mani
+[fish-seed](jhaṣabījaṃ) [by-me-declared](mayākhyātaṃ) [in-treatise](granthe) [chinnāśiromaṇi](chinnāśiromaṇau)
+
 ## mukta-m0-p178-v4437
-tortoise-false-other by-me-declared and O-bhamini
+[tortoise-false](kacchapamanṛtamanyanmayākhyātaṃ) [ca](ca) [fair-one](bhāmini)
+
 ## mukta-m0-p178-v4438
-wave ripple thus and-indeed wave triad remembered
+[wave](ūrmirvīcistathā) [ca](ca) [evaṃ](evaṃ) [wave-triad](taraṅgastritayaṃ) [remembered](smṛtam)
+
 ## mukta-m0-p178-v4439
-in-kalika-kula-sarvasva by-brahma-indeed revealed
+[kālikā-kula-all](kālikākulasarvasve) [by-brahmā](brahmaṇaiva) [manifested](prakāśite)
+
 ## mukta-m0-p178-v4440
-in-tantra indeed in-mundamala by-me-declared O-goddess
+[in-tantra](tantre) [vai](vai) [muṇḍamālā](muṇḍamālāyāṃ) [by-me-declared](mayākhyātaṃ) [goddess](sureśvari)
+
 ## mukta-m0-p178-v4441
-frog-seed by-me-declared false-other remembered
+[frog-seed](bhekībījaṃ) [by-me-declared](mayākhyātamasatyamaparaṃ) [remembered](smṛtam)
+
 ## mukta-m0-p178-v4442
-wind-seed thus eloquent talkative subjugation-seed
+[wind-seed](vāyubījaṃ) [thus](tathā) [eloquent](vāgmi) [talkative](vācālaṃ) [subjugation-seed](vaśyabījakam)
+
 ## mukta-m0-p178-v4443
-fire repha and fire and oblation-eater offering-carrier
+[fire](agnī) [repha](rephaśca) [and](ca) [fire](vahniśca) [oblation-eater](hutabhug) [offering-carrier](havyavāhanaḥ)
+
 ## mukta-m0-p178-v4444
-darkness-seed thus darkness delusion darkness-indeed and
+[darkness-seed](tamobījaṃ) [thus](tathā) [dark](dhvāntaṃ) [delusion](mohaṃ) [darkness](timirameva) [ca](ca)
+
 ## mukta-m0-p178-v4445
-earth-seed earth-seed la-letter spoken by-me
+[earth-seed](bhūbījaṃ) [earth-seed](dharaṇībījaṃ) [lakāra](lakāraṃ) [spoken](bhāṣitaṃ) [by-me](mayā)
+
 ## mukta-m0-p178-v4446
-of-va-letter by-me-declared in-tantra indeed in-vamakeshvara
+[vakāra](vakārasya) [by-me-declared](mayākhyātaṃ) [in-tantra](tantre) [vai](vai) [vāmakeśvara](vāmakeśvare)
+
 ## mukta-m0-p178-v4447
-of-sha-letter by-me-declared in-text in-bhairava-tantra
+[śakāra](śakārasya) [by-me-declared](mayākhyātaṃ) [in-treatise](granthe) [bhairava-tantra](bhairavatantrake)
+
 ## mukta-m0-p178-v4448
-hradini-seed and-indeed false-other remembered
+[hrādinī-seed](hrādinībījakaṃ) [ca](ca) [eva](eva) [false](asatyamaparaṃ) [remembered](smṛtam)
+
 ## mukta-m0-p178-v4449
-power comfort-also to-be-known autumn-doubt thus-indeed and
+[power](śaktiḥ) [comfort](śarmāpi) [known](vijñeye) [autumn-shaṅkha](śaracchaṅke) [thus](tathaiva) [ca](ca)
+
 ## mukta-m0-p178-v4450
-chavi-seed beauty-seed splendor light excellence thus
+[skin-seed](chavibījaṃ) [beauty-seed](kāntibījaṃ) [splendor](śobhā) [bhā](bhā) [suṣamā](suṣamā) [thus](tathā)

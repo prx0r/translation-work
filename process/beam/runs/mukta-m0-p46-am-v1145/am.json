@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1145,
- "question": "What should be inferred for the remainder?",
+ "question": "What color is assigned to this figure?",
  "premises": [
-  "remainder is named",
-  "infer is named",
-  "as-before is named"
+  "lotus is stated",
+  "colored is stated"
  ],
- "inference": "The verse says the remainder is to be inferred as before.",
+ "inference": "The passage assigns a lotus color to this figure.",
  "uncertainties": [
-  "exact remainder"
+  "padma may denote lotus color rather than lotus object"
  ],
- "plain_english": "Let the remainder be inferred as before."
+ "plain_english": "The color is lotus."
 }

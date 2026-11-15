@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "dātā",
+     "gloss": "giver",
+     "grounds": "surface denotes one who gives",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dayāluḥ",
+     "gloss": "compassionate",
+     "grounds": "adjective agreeing with dātā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairihaṃtā",
+     "gloss": "enemy-slayer",
+     "grounds": "compound noun in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun in genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prasūtiḥ",
+     "gloss": "birth",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vijayābhidhāne",
+     "gloss": "vijaya-named",
+     "grounds": "locative singular neuter form",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What qualities are attributed to one whose birth occurs under the vijaya-named condition?",
+   "premises": [
+    "The verse lists giver and compassionate.",
+    "It calls the person enemy-slayer.",
+    "Birth is under vijaya-named."
+   ],
+   "inference": "The verse attributes generosity, compassion, and enemy-slaying to one born under vijaya.",
+   "uncertainties": [
+    "The exact scope of vijaya-named birth is unclear."
+   ],
+   "plain_english": "A giver, compassionate, indeed an enemy-slayer—whose birth is under the vijaya-named."
+  }
+ ]
+}

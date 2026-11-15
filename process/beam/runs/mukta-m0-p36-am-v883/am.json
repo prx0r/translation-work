@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 883,
- "question": "How are foot-wash and arghya offered with heart and head?",
+ "question": "What dark-colored form with modaka tusk held by hands is praised?",
  "premises": [
-  "heart is named",
-  "foot-wash is named",
-  "head offering is named",
-  "offer is commanded"
+  "The form has modaka tusk.",
+  "It is held by hands.",
+  "The color is dark."
  ],
- "inference": "Foot-wash is offered with heart and arghya with head.",
- "uncertainties": [],
- "plain_english": "Offer foot-wash with the heart and arghya with the head."
+ "inference": "The verse praises a dark-colored form with modaka tusk.",
+ "uncertainties": [
+  "The exact deity name is not stated."
+ ],
+ "plain_english": "Praise a dark-colored form with modaka tusk held by hands."
 }

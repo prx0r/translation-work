@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "vāyustaṃbhaḥ",
+     "gloss": "wind-stopping",
+     "grounds": "compound vāyu+stambha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśyaṃ",
+     "gloss": "subjugation",
+     "grounds": "accusative ending",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mohanākarṣaṇe",
+     "gloss": "infatuation-and-attraction",
+     "grounds": "locative ending",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which arts of wind-stopping, subjugation, and infatuation-attraction are listed after alchemy and metallurgy?",
+   "premises": [
+    "The verse lists vāyustaṃbhaḥ.",
+    "The verse lists vaśyaṃ.",
+    "The verse lists mohanākarṣaṇe."
+   ],
+   "inference": "These three arts continue the preceding list of specialized arts.",
+   "uncertainties": [
+    "The exact grammatical case of vaśyaṃ and mohanākarṣaṇe remains unclear.",
+    "The precise list relation to the previous verse is inferred from context."
+   ],
+   "plain_english": "Wind-stopping, likewise subjugation, and infatuation-attraction, likewise."
+  }
+ ]
+}

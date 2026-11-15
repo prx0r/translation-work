@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p173-v4301
-[vāc+bhava](vāgbhavaṃ) [sauśmaka](sauśmakaṃ) [ca](ca) [eva](eva) [tataḥ](tataḥ) [pallava+uddharet](pallavamuddharet)
-
+[word-born](vāgbhavaṃ) [of-sauśmaka](sauśmakaṃ) [and-indeed](caiva) [then](tataḥ) [sprout](pallavam) [should-extract](uddharet)
 ## mukta-m0-p173-v4302
-[varāha+mukhī](varāhamukhi) [ca](ca) [evaṃ](evaṃ) [tu](tu) [vāsanā](vāsanā) [ca](ca) [maṭha](maṭhaṃ) [tathā](tathā)
-
+[boar-faced](varāhamukhi) [thus](caivaṃ) [but](tu) [perfume](vāsanā) [and](ca) [monastery](maṭhaṃ) [so](tathā)
 ## mukta-m0-p173-v4303
-[bhagavatī](bhagavatyāstu) [tu](tu) [vārāhī](vārāhyā) [eka+triṃśa+akṣara](ekatriṃśākṣaro) [manu](manuḥ)
-
+[of-goddess](bhagavatyāḥ) [but](tu) [of-vārāhī](vārāhyāḥ) [thirty-one-syllabled](ekatriṃśākṣaraḥ) [mantra](manuḥ)
 ## mukta-m0-p173-v4304
-[glauṃ](glauṃ) [bīja+uddhāra+medat](bījoddhāramedaddhi) [ca](ca) [anya+anṛta+māvadet](cānyadanṛtamāvadet)
-
+[glauṃ](glauṃ) [seed-extraction](bījoddhāram) [this](etat) [indeed](hi) [and](ca) [other](anyat) [false](anṛtam) [would-speak](āvadet)
 ## mukta-m0-p173-v4305
-[laṃ](laṃ) [bīja+uddhāra](bījoddhārāṇyetāni) [kṛtrima](kṛtrimāṇyaparāṇi) [tu](tu)
-
+[laṃ](laṃ) [seed-extractions](bījoddhārāṇi) [these](etāni) [artificial](kṛtrimāṇi) [others](aparāṇi) [but](tu)
 ## mukta-m0-p173-v4306
-[mantra](mantraṃ) [ca](ca) [ṣaṭ+śiras](ṣ't śiro) [jñeya](jñeyaṃ) [tataḥ](tataḥ) [pallava+uddharet](pallavamuddharet)
-
+[mantra](mantraṃ) [and](ca) [ṣ't](ṣ't) [head](śiraḥ) [to-be-known](jñeyaṃ) [then](tataḥ) [sprout](pallavam) [should-extract](uddharet)
 ## mukta-m0-p173-v4307
-[madana+mūrmi+dhvānta](madanamūrmidhvāntau) [dvau](dvau) [saṃyojya](saṃyojya) [stana+bīja](stanabījakam)
-
+[love](madana) [wave](mūrmi) [darknesses](dhvāntau) [two](dvau) [joining](saṃyojya) [breast-seed](stanabījakam)
 ## mukta-m0-p173-v4308
-[jṛmbhaṇa](jṛmbhaṇākhye) [devī](devi) [kāmeśvarī](kāmeśvari) [tathā+eva](tathaiva) [ca](ca)
-
+[called-yawning](jṛmbhaṇākhye) [then](tataḥ) [goddess](devi) [kāmeśvarī](kāmeśvari) [likewise](tathaiva) [and](ca)
 ## mukta-m0-p173-v4309
-[kāmeśvarī+mahādevī](kāmeśvaryā mahādevyā) [dvā+viṃśat+akṣara](dvāviṃśadakṣaro) [manu](manuḥ)
-
+[of-kāmeśvarī](kāmeśvaryāḥ) [of-great-goddess](mahādevyāḥ) [twenty-two-syllabled](dvāviṃśadakṣaraḥ) [mantra](manuḥ)
 ## mukta-m0-p173-v4310
-[tārādhipa](tārādhipaḥ) [sudhā+raśmi](sudhāraśmiḥ) [kṛtrima](kṛtrimāṇyaparāṇi) [ca](ca)
-
+[moon-lord](tārādhipaḥ) [nectar-ray](sudhāraśmiḥ) [artificial](kṛtrimāṇi) [others](aparāṇi) [and](ca)
 ## mukta-m0-p173-v4311
-[blūṃ](blūṃ) [bīja+uddhāra+nāma](bījoddhāranāmāni) [kṛtrima](kṛtrimāṇyaparāṇi) [ca](ca)
-
+[blūṃ](blūṃ) [seed-extraction-names](bījoddhāranāmāni) [artificial](kṛtrimāṇi) [others](aparāṇi) [and](ca)
 ## mukta-m0-p173-v4312
-[jaṃ](jaṃ) [bīja+nāma](bījanāmānyetāni) [kṛtrima](kṛtrimāṇyaparāṇi) [ca](ca)
-
+[jaṃ](jaṃ) [seed-names](bījanāmāni) [these](etāni) [artificial](kṛtrimāṇi) [others](aparāṇi) [and](ca)
 ## mukta-m0-p173-v4313
-[śiva+bīja](śivabījaṃ) [tathā](tathā) [devī](devi) [gaurī](gauri) [śarva](śarvaśca) [ṭha+dvaya](ṭhadvayam)
-
+[śiva-seed](śivabījaṃ) [so](tathā) [goddess](devi) [gaurī](gauri) [śarva](śarvaḥ) [and](ca) [two-ṭhas](ṭhadvayam)
 ## mukta-m0-p173-v4314
-[gaṃ](gaṃ) [bīja](bījāni) [ca](ca) [catvāri](catvāri) [kṛtrima](kṛtrimāṇyaparāṇi) [ca](ca)
-
+[gaṃ](gaṃ) [seeds](bījāni) [and](ca) [four](catvāri) [artificial](kṛtrimāṇi) [others](aparāṇi) [and](ca)
 ## mukta-m0-p173-v4315
-[viśva](viśvaṃ) [tataḥ](tato) [bhagavatī](bhagavati) [māheśvarī](māheśvari) [tataḥ](tataḥ) [punaḥ](punaḥ)
-
+[universe](viśvaṃ) [then](tataḥ) [goddess](bhagavati) [māheśvarī](māheśvari) [then](tataḥ) [again](punaḥ)
 ## mukta-m0-p173-v4316
-[bīja](bījaṃ) [tu](tu) [ṣaṭ+śiras](ṣaṭśiro) [jñeya](jñeyaṃ) [viśvena](viśvena) [saha](saha) [bhāminī](bhāmini)
-
+[seed](bījaṃ) [but](tu) [six-headed](ṣaṭśiraḥ) [to-be-known](jñeyaṃ) [with-universe](viśvena) [with](saha) [fair-one](bhāmini)
 ## mukta-m0-p173-v4317
-[taṭa](taṭaṃ) [tathā](tathā) [icchā+bīja](icchābījaṃ) [ca](ca) [tataḥ](tataḥ) [pallava+uddharet](pallavamuddharet)
-
+[bank](taṭaṃ) [so](tathā) [desire-seed](icchābījaṃ) [and](ca) [then](tataḥ) [sprout](pallavam) [should-extract](uddharet)
 ## mukta-m0-p173-v4318
-[ante](ante) [ca](ca) [vāsanā+bīja](vāsanābījaṃ) [padma](padmaṃ) [kāṅkṣā](kāṅkṣāpi) [nīraja](nīrajam)
-
+[at-end](ante) [and](ca) [perfume-seed](vāsanābījaṃ) [lotus](padmaṃ) [desire](kāṅkṣā) [also](api) [water-born](nīrajam)
 ## mukta-m0-p173-v4319
-[kula+vāgīśvarī+devī](kulavāgīśvarīdevyāsturyaviṃśākṣaro) [manu](manuḥ)
-
+[of-kulavāgīśvarī-goddess](kulavāgīśvarīdevyāḥ) [twenty-fourth-syllabled](turyaviṃśākṣaraḥ) [mantra](manuḥ)
 ## mukta-m0-p173-v4320
-[jhaṃ](jhaṃ) [bīja](bījasyaiva) [nāma](nāmāni) [kṛtrima](kṛtrimāṇyaparāṇi) [ca](ca)
-
+[jhaṃ](jhaṃ) [of-seed](bījasya) [indeed](eva) [names](nāmāni) [artificial](kṛtrimāṇi) [others](aparāṇi) [and](ca)
 ## mukta-m0-p173-v4321
-[paṇya+strī](paṇyastrī) [pañca](pañca) [nāma](nāmāni) [phrīṃ](phrīṃ) [bīja](bījasyānṛtaṃ) [param](param)
-
+[courtesan](paṇyastrī) [five](pañca) [names](nāmāni) [phrīṃ](phrīṃ) [of-seed](bījasya) [false](anṛtaṃ) [supreme](param)
 ## mukta-m0-p173-v4322
-[adya](adyāhaṃ) [ahaṃ](ahaṃ) [tava](tava) [bhakti](bhaktyā) [te](te) [hṛdi](hṛdi) [yat](yad) [rocate](rocate) [priya](priyam)
-
+[today-I](adyāhaṃ) [your](tava) [by-devotion](bhaktyā) [your](te) [in-heart](hṛdi) [what](yat) [pleases](rocate) [dear](priyam)
 ## mukta-m0-p173-v4323
-[kṛpayā](kṛpayāpi) [api](api) [purā](purā) [mahyaṃ](mahyaṃ) [sūcita](sūcitā) [na](na) [prakāśita](prakāśitāḥ)
-
+[by-grace](kṛpayā) [also](api) [before](purā) [to-me](mahyaṃ) [indicated](sūcitā) [not](na) [revealed](prakāśitāḥ)
 ## mukta-m0-p173-v4324
-[manu](manūn) [pañca+kumāra](pañcakumārāṇāmasmākaṃ) [vaktuṃ](vaktumarhasi) [arhasi](arhasi)
-
+[mantras](manūn) [of-five-youths](pañcakumārāṇām) [our](asmākaṃ) [to-speak](vaktum) [you-should](arhasi)
 ## mukta-m0-p173-v4325
-[dakṣiṇāmūrti](dakṣiṇāmūrtinoktaṃ) [yat](yat) [tat](tatte) [te](te) [vakṣyāmi](vakṣyāmi) [tattvataḥ](tattvataḥ)
+[by-dakṣiṇāmūrti](dakṣiṇāmūrtinā) [said](uktaṃ) [what](yat) [that](tat) [to-you](te) [I-will-speak](vakṣyāmi) [truly](tattvataḥ)

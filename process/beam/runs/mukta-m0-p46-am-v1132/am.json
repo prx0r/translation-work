@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1132,
- "question": "What measure applies to middle elbow and arm?",
+ "question": "What do the right and left hands hold in this description?",
  "premises": [
-  "middle-elbow-arm is named",
-  "three-vada-rasa is named"
+  "right hands are mentioned",
+  "left hands are mentioned",
+  "lotus is mentioned"
  ],
- "inference": "The verse gives a measure for middle elbow and arm.",
+ "inference": "The passage describes right and left hands holding a lotus.",
  "uncertainties": [
-  "exact unit"
+  "the exact distribution of lotus between hands is not explicit"
  ],
- "plain_english": "Middle elbow and arm are measured with three-vada-rasa."
+ "plain_english": "The right and left hands are described with a lotus."
 }

@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1143,
- "question": "How are eye length and breadth measured?",
+ "question": "What color is assigned to this figure?",
  "premises": [
-  "eye-length is named",
-  "breadth is named",
-  "six-grains is named"
+  "blue is stated",
+  "colored is stated"
  ],
- "inference": "The verse gives eye length and breadth in six grains.",
+ "inference": "The passage assigns a blue color to this figure.",
  "uncertainties": [
-  "exact eye part"
+  "varṇam may be accusative noun or adjective"
  ],
- "plain_english": "Eye length and breadth are six grains."
+ "plain_english": "The color is blue."
 }

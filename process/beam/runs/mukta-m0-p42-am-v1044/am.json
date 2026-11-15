@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1044,
- "question": "Which internal ritual acts are enumerated in this sequence?",
+ "question": "What rosary and nectar-pot bearer strongly gives health?",
  "premises": [
-  "The verse lists internal worship as one act.",
-  "It lists self-worship as another act.",
-  "It lists internal offering as a further act."
+  "rosary is named",
+  "nectar pot is named",
+  "health giver is named"
  ],
- "inference": "Internal worship, self-worship, and internal offering are all included in this sequence.",
+ "inference": "A rosary and nectar-pot bearer strongly gives health.",
  "uncertainties": [
-  "The governing verb is not stated in this verse and may be carried over from context."
+  "exact parsing of bibhadārogyado"
  ],
- "plain_english": "And internal worship, and self-worship, and indeed internal offering."
+ "plain_english": "A rosary and nectar-pot bearer strongly gives health."
 }

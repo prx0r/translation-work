@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 891,
- "question": "What clay and water are used for bathing?",
+ "question": "What red-colored yoga obstacle lord holding noose bow and staff protects us?",
  "premises": [
-  "seven clays are named",
-  "with is stated",
-  "cool water is named",
-  "and is stated"
+  "The lord is yoga obstacle lord.",
+  "It holds noose, bow, staff.",
+  "The color is red."
  ],
- "inference": "Seven clays with cool water are used.",
- "uncertainties": [],
- "plain_english": "Use seven clays with cool water."
+ "inference": "The verse asks a red-colored yoga obstacle lord to protect.",
+ "uncertainties": [
+  "The exact form name is not stated."
+ ],
+ "plain_english": "A red-colored yoga obstacle lord holding noose, bow, and staff, protecting us."
 }

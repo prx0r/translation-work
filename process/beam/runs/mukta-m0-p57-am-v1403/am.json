@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1403,
- "question": "What footed arrangements are placed separately in directions and corners?",
+ "question": "What color is assigned to the figures in this description?",
  "premises": [
-  "padaṣaṭkaṃ means six-footed.",
-  "catuṣpadam means four-footed.",
-  "pṛthag means separately."
+  "the verse states a color",
+  "the color is white"
  ],
- "inference": "Six-footed and four-footed arrangements are placed separately in directions and corners.",
+ "inference": "the figures are white in color",
  "uncertainties": [
-  "Exact mapping of six-footed and four-footed items is not specified."
+  "subject identity is not explicit"
  ],
- "plain_english": "Six-footed and four-footed arrangements are placed separately in directions and corners."
+ "plain_english": "Their color is white."
 }

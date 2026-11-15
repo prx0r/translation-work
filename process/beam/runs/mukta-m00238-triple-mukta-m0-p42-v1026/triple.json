@@ -1,0 +1,716 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "surāpānahṛdāyuktaṃ",
+     "gloss": "drinking-wine-heart-possessed",
+     "grounds": "compound of surāpāna, hṛd, yukta",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurutalpakaṭidvayam",
+     "gloss": "guru-bed-two-sins",
+     "grounds": "compound of gurutalpa and kaṭidvaya",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which two grave sins are named as the heart's possession?",
+   "premises": [
+    "drinking wine is named",
+    "guru-bed sin is named",
+    "both are grave sins"
+   ],
+   "inference": "The verse pairs wine-drinking with guru-bed transgression as grave sins.",
+   "uncertainties": [
+    "exact syntactic role of hṛdāyuktaṃ"
+   ],
+   "plain_english": "Drinking wine and the guru-bed sin are the two grave sins named."
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "upapātakaromāṇaṃ",
+     "gloss": "minor-sin-doer",
+     "grounds": "compound of upapātaka and kārin",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "piṃgabhrūśmaśrulocanam",
+     "gloss": "tawny-brow-beard-eye",
+     "grounds": "compound of piṅga, bhrū, śmaśru, locana",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What appearance marks the doer of minor sins?",
+   "premises": [
+    "minor sin doer is named",
+    "tawny brow is named",
+    "tawny beard and eye are named"
+   ],
+   "inference": "The minor-sin doer is pictured with tawny brow, beard, and eye.",
+   "uncertainties": [
+    "whether piṃga modifies all three features"
+   ],
+   "plain_english": "The doer of minor sins has tawny brows, beard, and eyes."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "khaḍgacarmadharaṃ",
+     "gloss": "sword-shield-bearer",
+     "grounds": "compound of khaḍga, carma, dhara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black",
+     "grounds": "simple adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kukṣaupāpaṃ",
+     "gloss": "belly-sin",
+     "grounds": "compound of kukṣa and upāpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viciṃtayet",
+     "gloss": "contemplate",
+     "grounds": "prefix vi + root cint",
+     "morph": "3.sg.act.imp"
+    },
+    {
+     "surface": "kṛṣṇavarṇaḥ",
+     "gloss": "black-color",
+     "grounds": "compound of kṛṣṇa and varṇa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What black form should be contemplated for belly sin?",
+   "premises": [
+    "sword and shield bearer is named",
+    "black color is named",
+    "belly sin is named"
+   ],
+   "inference": "A black sword-and-shield bearer is contemplated for belly sin.",
+   "uncertainties": [
+    "exact ritual referent of kukṣaupāpaṃ"
+   ],
+   "plain_english": "Contemplate a black sword-and-shield bearer for belly sin."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "dīrghajihvaṃ",
+     "gloss": "long-tongue",
+     "grounds": "compound of dīrgha and jihvā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pītavastraṃ",
+     "gloss": "yellow-garment",
+     "grounds": "compound of pīta and vastra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smarāmibagalāmukham",
+     "gloss": "remember-face",
+     "grounds": "compound with smarāmi and bagalāmukha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pītavarṇaḥ",
+     "gloss": "yellow-color",
+     "grounds": "compound of pīta and varṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasiddhaḥ",
+     "gloss": "well-known",
+     "grounds": "simple adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What yellow-garmented long-tongued form is remembered?",
+   "premises": [
+    "long tongue is named",
+    "yellow garment is named",
+    "well-known yellow color is named"
+   ],
+   "inference": "A well-known yellow form with long tongue and yellow garment is remembered.",
+   "uncertainties": [
+    "parsing of smarāmibagalāmukham"
+   ],
+   "plain_english": "Remember the well-known yellow form with long tongue and yellow garment."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "akṣamālādharaḥ",
+     "gloss": "rosary-bearer",
+     "grounds": "compound of akṣamālā and dhara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saumyaḥ",
+     "gloss": "gentle",
+     "grounds": "simple adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prītovyākhyāpanodyataḥ",
+     "gloss": "pleased-explaining-intent",
+     "grounds": "compound of prīta, vyākhyāpana, udyata",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-color",
+     "grounds": "compound of śveta and varṇa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What gentle white rosary-bearer is intent on explaining?",
+   "premises": [
+    "rosary bearer is named",
+    "gentle form is named",
+    "white color is named"
+   ],
+   "inference": "A gentle white rosary-bearer intent on explaining is described.",
+   "uncertainties": [
+    "exact compound boundary in prītovyākhyāpanodyataḥ"
+   ],
+   "plain_english": "A gentle white rosary-bearer, intent on explaining, is described."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "vāmekuliśapāṇistu",
+     "gloss": "left-thunderbolt-hand",
+     "grounds": "compound of vāma, kuliśa, pāṇi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtidomaṃgalapradaḥ",
+     "gloss": "prosperity-auspicious-giver",
+     "grounds": "compound of bhūti, maṅgala, prada",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pītavarṇaḥ",
+     "gloss": "yellow-color",
+     "grounds": "compound of pīta and varṇa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What yellow giver of prosperity holds thunderbolt in left hand?",
+   "premises": [
+    "left thunderbolt hand is named",
+    "prosperity giver is named",
+    "yellow color is named"
+   ],
+   "inference": "A yellow prosperity-giver holds a thunderbolt in the left hand.",
+   "uncertainties": [
+    "tu is enclitic particle"
+   ],
+   "plain_english": "A yellow giver of prosperity holds a thunderbolt in the left hand."
+  },
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "akṣamālānvitodakṣe",
+     "gloss": "rosary-with-right",
+     "grounds": "compound of akṣamālā, anvita, dakṣa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāmekuṃbhadharassmṛtaḥ",
+     "gloss": "left-pot-bearer-remembered",
+     "grounds": "compound of vāma, kuṃbha, dhara, smṛta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-color",
+     "grounds": "compound of śveta and varṇa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What white form has rosary on right and pot on left?",
+   "premises": [
+    "rosary with right is named",
+    "left pot bearer is named",
+    "white color is named"
+   ],
+   "inference": "A white form bears rosary on the right and pot on the left.",
+   "uncertainties": [
+    "sandhi in vāmekuṃbhadharassmṛtaḥ"
+   ],
+   "plain_english": "A white form bears a rosary on the right and a pot on the left."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "akṣamālānvito vāme",
+     "gloss": "rosary-with-left",
+     "grounds": "compound of akṣamālā, anvita, vāma",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣekuṃbhadharassmṛtaḥ",
+     "gloss": "right-pot-bearer-remembered",
+     "grounds": "compound of dakṣa, kuṃbha, dhara, smṛta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-color",
+     "grounds": "compound of śveta and varṇa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What white form has rosary on left and pot on right?",
+   "premises": [
+    "rosary with left is named",
+    "right pot bearer is named",
+    "white color is named"
+   ],
+   "inference": "A white form bears rosary on the left and pot on the right.",
+   "uncertainties": [
+    "sandhi in dakṣekuṃbhadharassmṛtaḥ"
+   ],
+   "plain_english": "A white form bears a rosary on the left and a pot on the right."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "hastābhyāṃdadhatīpadmaṃ",
+     "gloss": "hands-holding-lotus",
+     "grounds": "compound of hasta, dadhatī, padma",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pītavastramanūpamam",
+     "gloss": "yellow-garment-incomparable",
+     "grounds": "compound of pīta, vastra, anūpama",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What incomparable yellow-garmented form holds lotus in both hands?",
+   "premises": [
+    "hands holding lotus is named",
+    "yellow garment is named",
+    "incomparable form is named"
+   ],
+   "inference": "An incomparable yellow-garmented form holds a lotus in both hands.",
+   "uncertainties": [
+    "exact gender of padmaṃ"
+   ],
+   "plain_english": "An incomparable yellow-garmented form holds a lotus in both hands."
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "sāmidhenīsamākhyātā",
+     "gloss": "samidheni-called",
+     "grounds": "compound of sāmidhenī and samākhyātā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śubhravarṇā",
+     "gloss": "white-color",
+     "grounds": "compound of śubhra and varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What white form is called samidheni?",
+   "premises": [
+    "samidheni is named",
+    "white color is named",
+    "feminine form is named"
+   ],
+   "inference": "A white feminine form is called samidheni.",
+   "uncertainties": [
+    "ritual identity of samidheni"
+   ],
+   "plain_english": "A white form called samidheni is described."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "sṛgāyālakṣaṇaṃ śṛṇu",
+     "gloss": "jackal-mark-hear",
+     "grounds": "compound of sṛgāla and lakṣaṇa plus imperative śṛṇu",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "raktavarṇāviśālākṣī",
+     "gloss": "red-color-wide-eyed",
+     "grounds": "compound of raktavarṇa and viśālākṣī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padmahastākṛśodarī",
+     "gloss": "lotus-hand-slender-belly",
+     "grounds": "compound of padma, hasta, kṛśa, udara",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raktavarṇā",
+     "gloss": "red-color",
+     "grounds": "compound of rakta and varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What red wide-eyed slender-bellied form holds a lotus?",
+   "premises": [
+    "jackal mark is heard",
+    "red color is named",
+    "wide eyes are named",
+    "slender belly is named"
+   ],
+   "inference": "A red wide-eyed slender-bellied lotus-handed form is described.",
+   "uncertainties": [
+    "exact meaning of sṛgāyālakṣaṇaṃ"
+   ],
+   "plain_english": "Hear the jackal mark: a red wide-eyed slender-bellied form holds a lotus."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "savyeśukaṃ tathā dakṣedhānyamaṃjarikāṃ tathā",
+     "gloss": "left-arrow-right-grain-ear",
+     "grounds": "compound of savya, iṣu, dakṣa, dhānya, mañjarikā",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What left-arrow and right-grain-ear attributes are named together?",
+   "premises": [
+    "left arrow is named",
+    "right grain ear is named",
+    "both are named together"
+   ],
+   "inference": "The verse names a left arrow and a right grain ear together.",
+   "uncertainties": [
+    "full syntactic frame of the long compound"
+   ],
+   "plain_english": "A left arrow and a right grain ear are named together."
+  },
+  {
+   "verse": 1038,
+   "rows": [
+    {
+     "surface": "dadhānāsākahūrdevī",
+     "gloss": "holding-companion-goddess",
+     "grounds": "compound of dadhānā, sakhī, devī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śvetavarṇā",
+     "gloss": "white-color",
+     "grounds": "compound of śveta and varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What white goddess holds a companion?",
+   "premises": [
+    "holding companion is named",
+    "goddess is named",
+    "white color is named"
+   ],
+   "inference": "A white goddess holding a companion is described.",
+   "uncertainties": [
+    "exact meaning of sākahūr"
+   ],
+   "plain_english": "A white goddess holding a companion is described."
+  },
+  {
+   "verse": 1039,
+   "rows": [
+    {
+     "surface": "sūkarāsyā cakorākṣī",
+     "gloss": "boar-faced-partridge-eyed",
+     "grounds": "compound of sūkara, āsya, cakora, akṣi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caṃpakā bhāsitāṃśukā",
+     "gloss": "champak-radiant-garment",
+     "grounds": "compound of campaka, bhāsita, aṃśuka",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What boar-faced partridge-eyed form wears champak-like radiant garment?",
+   "premises": [
+    "boar face is named",
+    "partridge eye is named",
+    "champak radiant garment is named"
+   ],
+   "inference": "A boar-faced partridge-eyed form wears a champak-like radiant garment.",
+   "uncertainties": [
+    "sandhi in caṃpakā bhāsitāṃśukā"
+   ],
+   "plain_english": "A boar-faced partridge-eyed form wears a champak-like radiant garment."
+  },
+  {
+   "verse": 1040,
+   "rows": [
+    {
+     "surface": "kanakavarṇāḥ",
+     "gloss": "golden-color",
+     "grounds": "compound of kanaka and varṇa",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What golden-colored forms are named in plural?",
+   "premises": [
+    "golden color is named",
+    "plural form is named"
+   ],
+   "inference": "Golden-colored forms are named in the plural.",
+   "uncertainties": [
+    "exact referent of the plural"
+   ],
+   "plain_english": "Golden-colored forms are named."
+  },
+  {
+   "verse": 1041,
+   "rows": [
+    {
+     "surface": "kāśyapaṃcayajurvedaṃ",
+     "gloss": "kashyapa-five-yajurveda",
+     "grounds": "compound of kāśyapa and pañcayajurveda",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rudradaivaṃ tu taṃ viduḥ",
+     "gloss": "rudra-deity-know",
+     "grounds": "compound of rudra and daiva plus verb vid",
+     "morph": "3.pl.act.ind"
+    }
+   ],
+   "question": "What five-yajurveda form is known as rudra deity?",
+   "premises": [
+    "kashyapa five yajurveda is named",
+    "rudra deity is named",
+    "knowing is named"
+   ],
+   "inference": "The kashyapa five-yajurveda form is known as rudra deity.",
+   "uncertainties": [
+    "role of tu"
+   ],
+   "plain_english": "The kashyapa five-yajurveda form is known as rudra deity."
+  },
+  {
+   "verse": 1042,
+   "rows": [
+    {
+     "surface": "adhidaivaṃ vijāniyād",
+     "gloss": "adhideity-know",
+     "grounds": "compound of adhi and daiva plus verb jñā",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vaitānaṃ syādatharvaṇe",
+     "gloss": "atharva-be",
+     "grounds": "compound of vaitāna and atharvaṇa",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What adhideity should be known for atharva vaitana?",
+   "premises": [
+    "adhideity is named",
+    "knowing is named",
+    "atharva vaitana is named"
+   ],
+   "inference": "An adhideity is to be known for atharva vaitana.",
+   "uncertainties": [
+    "exact ritual sense of vaitānaṃ"
+   ],
+   "plain_english": "An adhideity is to be known for atharva vaitana."
+  },
+  {
+   "verse": 1043,
+   "rows": [
+    {
+     "surface": "atharvaṇavedābhimānībrahmā bṛhaspatipratyadhidevatāvat 4 ni0",
+     "gloss": "atharvaveda-abhimani-brahma-brihaspati-pratyadhidevata",
+     "grounds": "long compound naming atharvaveda abhimānī brahmā and bṛhaspati pratyadhidevatā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What brahma and brihaspati relation is named for atharvaveda?",
+   "premises": [
+    "atharvaveda abhimani brahma is named",
+    "brihaspati pratyadhidevata is named"
+   ],
+   "inference": "Atharvaveda's abhimani brahma is linked to brihaspati as pratyadhidevata.",
+   "uncertainties": [
+    "editorial marker 4 ni0"
+   ],
+   "plain_english": "Atharvaveda's abhimani brahma is linked to brihaspati as pratyadhidevata."
+  },
+  {
+   "verse": 1044,
+   "rows": [
+    {
+     "surface": "akṣasūtraṃ sudhākuṃbhaṃ bibhadārogyado bhṛśam",
+     "gloss": "rosary-nectar-pot-bearer-health-giver-strongly",
+     "grounds": "compound of akṣasūtra, sudhākuṃbha, bibhad, ārogyada, bhṛśam",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What rosary and nectar-pot bearer strongly gives health?",
+   "premises": [
+    "rosary is named",
+    "nectar pot is named",
+    "health giver is named"
+   ],
+   "inference": "A rosary and nectar-pot bearer strongly gives health.",
+   "uncertainties": [
+    "exact parsing of bibhadārogyado"
+   ],
+   "plain_english": "A rosary and nectar-pot bearer strongly gives health."
+  },
+  {
+   "verse": 1045,
+   "rows": [
+    {
+     "surface": "pītavarṇaḥ",
+     "gloss": "yellow-color",
+     "grounds": "compound of pīta and varṇa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What yellow color is named for the health giver?",
+   "premises": [
+    "yellow color is named"
+   ],
+   "inference": "The health giver is yellow-colored.",
+   "uncertainties": [
+    "referent carried from previous verse"
+   ],
+   "plain_english": "The health giver is yellow-colored."
+  },
+  {
+   "verse": 1046,
+   "rows": [
+    {
+     "surface": "udatiṣṭhanmahārājapuruṣaḥ",
+     "gloss": "rose-great-king-person",
+     "grounds": "compound of ud, tiṣṭhat, mahārāja, puruṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramādbhutaḥ",
+     "gloss": "wonderful",
+     "grounds": "compound of parama and adbhuta",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What wonderful great-king person rose up?",
+   "premises": [
+    "rising is named",
+    "great king person is named",
+    "wonderful form is named"
+   ],
+   "inference": "A wonderful great-king person rose up.",
+   "uncertainties": [
+    "exact tense of udatiṣṭhan"
+   ],
+   "plain_english": "A wonderful great-king person rose up."
+  },
+  {
+   "verse": 1047,
+   "rows": [
+    {
+     "surface": "śyāmalastaruṇaḥ sragvī",
+     "gloss": "dark-youth-garlanded",
+     "grounds": "compound of śyāmala, taruṇa, sragvin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitaḥ",
+     "gloss": "all-ornament-adorned",
+     "grounds": "compound of sarva, ābharaṇa, bhūṣita",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What dark garlanded youth is adorned with all ornaments?",
+   "premises": [
+    "dark youth is named",
+    "garlanded form is named",
+    "all ornaments are named"
+   ],
+   "inference": "A dark garlanded youth adorned with all ornaments is described.",
+   "uncertainties": [
+    "sandhi in śyāmalastaruṇaḥ sragvī"
+   ],
+   "plain_english": "A dark garlanded youth adorned with all ornaments is described."
+  },
+  {
+   "verse": 1048,
+   "rows": [
+    {
+     "surface": "nīlakuṃcitakeśāṃta",
+     "gloss": "blue-curly-hair-end",
+     "grounds": "compound of nīla, kuṃcita, keśa, anta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "subhagassiṃhavikramaḥ",
+     "gloss": "auspicious-lion-valor",
+     "grounds": "compound of subhaga, siṃha, vikrama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What blue-curly-haired form has auspicious lion valor?",
+   "premises": [
+    "blue curly hair end is named",
+    "auspicious form is named",
+    "lion valor is named"
+   ],
+   "inference": "A blue-curly-haired form with auspicious lion valor is described.",
+   "uncertainties": [
+    "sandhi in subhagassiṃhavikramaḥ"
+   ],
+   "plain_english": "A blue-curly-haired form with auspicious lion valor is described."
+  },
+  {
+   "verse": 1049,
+   "rows": [
+    {
+     "surface": "savaibhagavatassākṣādviṣṇoraṃśāṃśa saṃbhavaḥ",
+     "gloss": "with-fortune-lord-direct-visnu-portion-born",
+     "grounds": "compound of sa, vaibhaga, vat, sākṣāt, viṣṇu, aṃśa, aṃśa, saṃbhava",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What direct visnu portion born with fortune is named?",
+   "premises": [
+    "fortune lord is named",
+    "direct visnu is named",
+    "portion born is named"
+   ],
+   "inference": "A direct visnu portion born with fortune is named.",
+   "uncertainties": [
+    "exact parsing of saṃbhavaḥ"
+   ],
+   "plain_english": "A direct visnu portion born with fortune is named."
+  }
+ ]
+}

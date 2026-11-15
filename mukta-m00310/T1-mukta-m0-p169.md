@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p169-v4201
-[mātaṅgī](mātaṅgī) [śārikā](śārikā) [rājñī](rājñī) [bhīḍā](bhīḍā) [jvālā+mukhī](jvālāmukhī) [tathā](tathā)
+[mātaṅgī](mātaṅgī) [śārikā](śārikā) [rājñī](rājñī) [bhīḍā](bhīḍā) [jvālāmukhī](jvālāmukhī) [tathā](tathā)
 
 ## mukta-m0-p169-v4202
-[etā](etā) [daśa](daśa) [eva](eva) [ṣaḍ](ṣaḍ) [anyā](anyā) [yojitā](yojitā) [ṣoḍaśa+akṣarī](ṣoḍaśākṣarī)
+[etā](etā) [daśaiva](daśaiva) [ṣaḍanyā](ṣaḍanyā) [yojitā](yojitā) [ṣoḍaśākṣarī](ṣoḍaśākṣarī)
 
 ## mukta-m0-p169-v4203
-[dakṣiṇā+kālikā](dakṣiṇākālikā) [śyāmā](śyāmā) [kāla+rātrī](kālarātryapi) [api](api) [sundari](sundari)
+[dakṣiṇākālikā](dakṣiṇākālikā) [śyāmā](śyāmā) [kālarātryapi](kālarātryapi) [sundari](sundari)
 
 ## mukta-m0-p169-v4204
-[brahma+ādi+devataiḥ](brahmādidevataiḥ) [pūjyā](pūjyā) [vidyā](vidyā) [śrī+ṣoḍaśa+akṣarī](śrīṣoḍaśākṣarī)
+[brahmādidevataiḥ](brahmādidevataiḥ) [pūjyā](pūjyā) [vidyā](vidyā) [śrīṣoḍaśākṣarī](śrīṣoḍaśākṣarī)
 
 ## mukta-m0-p169-v4205
-[viparīta+tayā](viparītatayā) [proktam](proktaṃ) [satvaram](satvaraṃ) [phala+dāyakam](phaladāyakam)
+[viparītatayā](viparītatayā) [proktaṃ](proktaṃ) [satvaraṃ](satvaraṃ) [phaladāyakam](phaladāyakam)
 
 ## mukta-m0-p169-v4206
-[jala+bījāni](jalabījāni) [proktāni](proktāni) [hi](hyasatyāni) [asatyāni](asatyāni) [parāṇi](parāṇi) [tu](tu)
+[jalabījāni](jalabījāni) [proktāni](proktāni) [hyasatyāni](hyasatyāni) [parāṇi](parāṇi) [tu](tu)
 
 ## mukta-m0-p169-v4207
-[tārtīyam](tārtīyaṃ) [ca](ca) [jagat+pārśvaḥ](jagatpārśvo) [vahni+bīja+samujjvalaḥ](vahnibījasamujjvalaḥ)
+[tārtīyaṃ](tārtīyaṃ) [ca](ca) [jagatpārśvo](jagatpārśvo) [vahnibījasamujjvalaḥ](vahnibījasamujjvalaḥ)
 
 ## mukta-m0-p169-v4208
-[bījam](bījaṃ) [pañca+śiraḥ](pañcaśiro) [jñeyam](jñeyam) [ante](ante) [proktam](proktaṃ) [namaḥ](nama) [iti](iti)
+[bījaṃ](bījaṃ) [pañcaśiro](pañcaśiro) [jñeyamante](jñeyamante) [proktaṃ](proktaṃ) [nama](nama) [iti](iti)
 
 ## mukta-m0-p169-v4209
-[ṅentā](ṅentā) [natyantikaḥ](natyantiko) [mantraḥ](mantraḥ) [proktaḥ](prokta) [ekādaśa+akṣaraḥ](ekādaśākṣaraḥ)
+[ṅentā](ṅentā) [natyantiko](natyantiko) [mantraḥ](mantraḥ) [prokta](prokta) [ekādaśākṣaraḥ](ekādaśākṣaraḥ)
 
 ## mukta-m0-p169-v4210
-[anyāni](anyāni) [kṛtrimāṇi](kṛtrimāṇyeva) [eva](eva) [sura+asura+namaskṛte](surāsuranamaskṛte)
+[anyāni](anyāni) [kṛtrimāṇyeva](kṛtrimāṇyeva) [surāsuranamaskṛte](surāsuranamaskṛte)
 
 ## mukta-m0-p169-v4211
-[kūrcam](kūrcaṃ) [ca](ca) [eva](eva) [maheśāni](maheśāni) [hi](hyante) [ante](ante) [phaṭ](phaṭ) [ṭha+dvayam](ṭhadvayaṃ) [tathā](tathā)
+[kūrcaṃ](kūrcaṃ) [caiva](caiva) [maheśāni](maheśāni) [hyante](hyante) [phaṭ](phaṭ) [ṭhadvayaṃ](ṭhadvayaṃ) [tathā](tathā)
 
 ## mukta-m0-p169-v4212
-[hāṃ](hāṃ) [bīja+uddhāram](bījoddhārametaddhi) [etat](etaddhi) [hi](hi) [ca](cānyadanṛtamāvadet) [anyat](anyat) [anṛtam](anṛtam) [āvadet](āvadet)
+[hāṃ](hāṃ) [bījoddhārametaddhi](bījoddhārametaddhi) [cānyadanṛtamāvadet](cānyadanṛtamāvadet)
 
 ## mukta-m0-p169-v4213
-[lambhā](lambhāpi) [api](api) [lalanā](lalanā) [lajjā](lajjā) [hi](hyasatyanyaparāṇi) [asatyāni](asatyāni) [anya+parāṇi](anyaparāṇi) [tu](tu)
+[lambhāpi](lambhāpi) [lalanā](lalanā) [lajjā](lajjā) [hyasatyanyaparāṇi](hyasatyanyaparāṇi) [tu](tu)
 
 ## mukta-m0-p169-v4214
-[ante](ante) [viśvam](viśvaṃ) [nāma](nāma) [madhye](madhye) [proktam](proktaṃ) [vai](vai) [tu](tu) [tubhyaṃ](tubhyaṃ) [sureśvari](sureśvari)
+[ante](ante) [viśvaṃ](viśvaṃ) [nāma](nāma) [madhye](madhye) [proktaṃ](proktaṃ) [vai](vai) [tu](tu) [[kh: tubhyaṃ]]([kh: tubhyaṃ]) [sureśvari](sureśvari)
 
 ## mukta-m0-p169-v4215
-[bījāni](bījānyetāni) [etāni](etāni) [mantrasya](mantrasya) [kṛtrimāṇi](kṛtrimānyaparāṇi) [anya+parāṇi](anyaparāṇi) [tu](tu)
+[bījānyetāni](bījānyetāni) [mantrasya](mantrasya) [kṛtrimānyaparāṇi](kṛtrimānyaparāṇi) [tu](tu)
 
 ## mukta-m0-p169-v4216
-[cārukam](cārukaṃ) [rasa+bījāni](rasabījāni) [hi](hyādau) [ādau](ādau) [proktāni](proktāni) [śambhunā](śambhunā)
+[cārukaṃ](cārukaṃ) [rasabījāni](rasabījāni) [hyādau](hyādau) [proktāni](proktāni) [śambhunā](śambhunā)
 
 ## mukta-m0-p169-v4217
-[vāsanā](vāsanā) [paṅkajam](paṅkajaṃ) [ca](ca) [eva](eva) [vanam](vanaṃ) [proktam](proktaṃ) [ca](ca) [śūlinā](śūlinā)
+[vāsanā](vāsanā) [paṅkajaṃ](paṅkajaṃ) [caiva](caiva) [vanaṃ](vanaṃ) [proktaṃ](proktaṃ) [ca](ca) [śūlinā](śūlinā)
 
 ## mukta-m0-p169-v4218
-[krīṃ](krīṃ) [bījāni](bījāni) [ca](ca) [hi](hyetāni) [etāni](etāni) [kṛtrimāṇi](kṛtrimāṇyaparāṇi) [anya+parāṇi](anyaparāṇi) [ca](ca)
+[krīṃ](krīṃ) [bījāni](bījāni) [ca](ca) [hyetāni](hyetāni) [kṛtrimāṇyaparāṇi](kṛtrimāṇyaparāṇi) [ca](ca)
 
 ## mukta-m0-p169-v4219
-[prīṃ](prīṃ) [bījāni](bījāni) [tu](tu) [proktāni](proktāni) [hi](hyasatyānyaparāṇi) [asatyāni](asatyāni) [anya+parāṇi](anyaparāṇi) [tu](tu)
+[prīṃ](prīṃ) [bījāni](bījāni) [tu](tu) [proktāni](proktāni) [hyasatyānyaparāṇi](hyasatyānyaparāṇi) [tu](tu)
 
 ## mukta-m0-p169-v4220
-[catuṣṭayam](catuṣṭayaṃ) [ca](ca) [cchrīṃ](cchrīṃ) [bīje](bīje) [asatyāni](asatyānyaparāṇi) [anya+parāṇi](anyaparāṇi) [ca](ca)
+[catuṣṭayaṃ](catuṣṭayaṃ) [ca](ca) [cchrīṃ](cchrīṃ) [bīje](bīje) [asatyānyaparāṇi](asatyānyaparāṇi) [ca](ca)
 
 ## mukta-m0-p169-v4221
-[pañca](pañca) [ṭhakāra+bījāni](ṭhakārabījāni) [hi](hyasatyānyaparāṇi) [asatyāni](asatyāni) [anya+parāṇi](anyaparāṇi) [ca](ca)
+[pañca](pañca) [ṭhakārabījāni](ṭhakārabījāni) [hyasatyānyaparāṇi](hyasatyānyaparāṇi) [ca](ca)
 
 ## mukta-m0-p169-v4222
-[kalyāṇam](kalyāṇaṃ) [śārikā+devyāḥ](śārikādevyā) [bījam](bījaṃ) [sapta+akṣaram](saptākṣaraṃ) [smṛtam](smṛtam)
+[kalyāṇaṃ](kalyāṇaṃ) [śārikādevyā](śārikādevyā) [bījaṃ](bījaṃ) [saptākṣaraṃ](saptākṣaraṃ) [smṛtam](smṛtam)
 
 ## mukta-m0-p169-v4223
-[phrāṃ+bījāni](phrāṃbījāni) [ca](ca) [hi](hi) [catvāri](catvāri) [kṛtrimāṇi](kṛtrimāṇyaparāṇi) [anya+parāṇi](anyaparāṇi) [ca](ca)
+[phrāṃbījāni](phrāṃbījāni) [ca](ca) [[kh: hi]]([kh: hi]) [catvāri](catvāri) [kṛtrimāṇyaparāṇi](kṛtrimāṇyaparāṇi) [ca](ca)
 
 ## mukta-m0-p169-v4224
-[hakāram](hakāraṃ) [ca](ca) [api](api) [vijñeyam](vijñeyam) [uktam](uktam) [tat](tadrudrayāmale) [rudra+yāmale](rudrayāmale) [ca](ca)
+[hakāraṃ](hakāraṃ) [cāpi](cāpi) [vijñeyamuktaṃ](vijñeyamuktaṃ) [tadrudrayāmale](tadrudrayāmale) [[kh: ca]]([kh: ca])
 
 ## mukta-m0-p169-v4225
-[aparam](aparamanṛtaṃ) [anṛtam](anṛtam) [jñeyam](jñeyaṃ) [parvateśvara+nandini](parvateśvaranandini)
+[aparamanṛtaṃ](aparamanṛtaṃ) [jñeyaṃ](jñeyaṃ) [parvateśvaranandini](parvateśvaranandini)

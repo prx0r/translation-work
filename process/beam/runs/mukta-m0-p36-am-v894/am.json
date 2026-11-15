@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 894,
- "question": "What kinds of cloth are desired for the deity?",
+ "question": "What white-limbed jewel-splendid goddess with shining blue lotus hand is described?",
  "premises": [
-  "cotton is named",
-  "bark is named",
-  "tree is named",
-  "silk is named",
-  "cloth is desired"
+  "The goddess is white-limbed.",
+  "She is jewel-splendid.",
+  "She holds shining blue lotus."
  ],
- "inference": "Cotton, bark, tree, and silk cloths are desired.",
- "uncertainties": [],
- "plain_english": "Cotton, bark, tree, or silk cloth is desired."
+ "inference": "The verse describes a white-limbed jewel-splendid goddess.",
+ "uncertainties": [
+  "The goddess name is not stated."
+ ],
+ "plain_english": "A white-limbed jewel-splendid goddess with shining blue lotus hand."
 }

@@ -1,0 +1,27 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "sitavasanavirājanmaulirārogyadāyīśatamakhamaṇivarṇaḥ pātudhanvaṃtarirnaḥ",
+     "gloss": "white-garment-radiant-crown-health-giver-protect-us",
+     "grounds": "long compound with internal sandhi; space separates subject phrase from verb and pronoun",
+     "morph": "compound (nom.sg) + verb (3.sg.act.imp.) + pronoun (acc.pl)"
+    }
+   ],
+   "question": "Which divine healer is asked to protect devotees while wearing white garments and a radiant crown?",
+   "premises": [
+    "Dhanvantari wears white garments.",
+    "He gives health to devotees.",
+    "He is asked to protect us."
+   ],
+   "inference": "The verse invokes Dhanvantari as protector.",
+   "uncertainties": [
+    "Token contains internal sandhi and an internal space; gloss compressed to six parts."
+   ],
+   "plain_english": "May Dhanvantari, radiant-crowned and white-garmented, giver of health, protect us."
+  }
+ ]
+}

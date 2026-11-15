@@ -1,16 +1,14 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1417,
- "question": "Who fills, worships, and conjoins the ritual objects?",
+ "question": "What color is assigned to this deity in the iconographic description?",
  "premises": [
-  "saṃyuktam means conjoined.",
-  "āpūrya means filling.",
-  "abhyarcya means worshipping.",
-  "deśikaḥ means teacher."
+  "the verse names a color",
+  "the color is white"
  ],
- "inference": "The teacher fills, worships, and conjoins the ritual objects.",
+ "inference": "the deity's color is white",
  "uncertainties": [
-  "The exact objects are not specified."
+  "subject identity is not explicit"
  ],
- "plain_english": "The teacher fills, worships, and conjoins."
+ "plain_english": "The color is white."
 }

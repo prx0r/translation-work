@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "kanakagirisamābhaṃ",
+     "gloss": "gold-mountain-like",
+     "grounds": "compound kanaka-giri-samābha; accusative singular masculine agreeing with mallāridevam",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "naiśacūrṇābhirāmaṃ",
+     "gloss": "night-powder-beautiful",
+     "grounds": "compound naiśa-cūrṇa-abhirāma; accusative singular masculine",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "sakalanigamaguhyaṃ",
+     "gloss": "all-veda-secret",
+     "grounds": "compound sakala-nigama-guhya; accusative singular masculine",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "naumi",
+     "gloss": "bow",
+     "grounds": "first person singular present active of nam",
+     "morph": "verb.1.sg.act-pres"
+    },
+    {
+     "surface": "mallāridevam",
+     "gloss": "mallāri-deva",
+     "grounds": "compound mallāri-deva; accusative singular masculine object of naumi",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "compound rakta-varṇa; nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Which deity is praised as gold-mountain-like, night-powder-beautiful, all-veda-secret, and red-colored?",
+   "premises": [
+    "Mallāri-deva is praised with four epithets.",
+    "The epithets include gold-mountain-like and red-colored.",
+    "The verse is a devotional salutation."
+   ],
+   "inference": "The verse salutes Mallāri-deva as a red-colored deity bearing secret Vedic beauty.",
+   "uncertainties": [
+    "raktavarṇaḥ is nominative and may not agree with the accusative object; possible fragment or sandhi."
+   ],
+   "plain_english": "I bow to Mallāri-deva, who is like a gold mountain, beautiful with night powder, secret to all Vedas, and red-colored."
+  }
+ ]
+}
