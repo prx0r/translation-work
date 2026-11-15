@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3461,
- "question": "What mantras and lords are used after offering?",
+ "question": "Who is able to declare the fruits of those items?",
  "premises": [
-  "offering is first",
-  "support power etc mantras follow",
-  "quarter lords are included"
+  "teṣāṃ is genitive",
+  "phalapravacane is topic",
+  "śaktaḥ is ability",
+  "śeṣopi is remainder",
+  "na kvacit is negation"
  ],
- "inference": "After offering, use support-power mantras and quarter lords.",
+ "inference": "Only the able can declare fruits; the remainder cannot anywhere.",
  "uncertainties": [
-  "exact count unclear"
+  "token contains spaces"
  ],
- "plain_english": "After offering, use support-power mantras and quarter lords."
+ "plain_english": "In declaring fruits, the able can; the rest cannot anywhere."
 }

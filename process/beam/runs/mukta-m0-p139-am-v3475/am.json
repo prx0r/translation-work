@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3475,
- "question": "Which animals are named as agents in this ritual context?",
+ "question": "Which linga material should a man desiring long life worship?",
  "premises": [
-  "The verse lists jackals vultures owls and donkeys",
-  "The instrumental forms name agents of the action",
-  "The final token is not recoverable from the supplied list"
+  "red sandal born linga is prescribed",
+  "life-desiring man should worship it",
+  "the verse names the worshipper as man"
  ],
- "inference": "The verse enumerates animal agents in instrumental case",
+ "inference": "a man desiring life should worship a red-sandal-born linga",
  "uncertainties": [
-  "The fourth surface token is missing and only a placeholder is available"
+  "sandhi fusion is preserved as one token",
+  "exact verbal mood is inferred from fused form"
  ],
- "plain_english": "By jackals, by vultures and owls, by donkeys, and by an unidentified agent."
+ "plain_english": "A man desiring life should worship a linga born of red sandal."
 }

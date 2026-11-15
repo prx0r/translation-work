@@ -1,0 +1,879 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3526,
+   "rows": [
+    {
+     "surface": "śivaḥpaśupatiścaiva",
+     "gloss": "śiva-paśupati-and-indeed",
+     "grounds": "fused sandhi form",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "great-god",
+     "grounds": "epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itikramāt",
+     "gloss": "thus-in-order",
+     "grounds": "ablative of order",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what order are Śiva and Paśupati invoked during the rite?",
+   "premises": [
+    "Śiva and Paśupati are named together",
+    "The order is specified",
+    "Invocation precedes worship"
+   ],
+   "inference": "The rite begins by invoking Śiva and Paśupati in sequence.",
+   "uncertainties": [
+    "Fused sandhi not expanded"
+   ],
+   "plain_english": "Śiva and Paśupati are invoked in order."
+  },
+  {
+   "verse": 3527,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "fused conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣamāpaṇavisarjanam",
+     "gloss": "forgiveness-release",
+     "grounds": "compound ritual act",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which ritual acts follow invocation in the prescribed worship?",
+   "premises": [
+    "Bathing is listed",
+    "Worship is listed",
+    "Forgiveness and release are listed"
+   ],
+   "inference": "The worship sequence includes bathing, worship, forgiveness, and release.",
+   "uncertainties": [
+    "Compound internal sense"
+   ],
+   "plain_english": "The rite includes bathing, worship, forgiveness, and release."
+  },
+  {
+   "verse": 3528,
+   "rows": [
+    {
+     "surface": "namonādātmane",
+     "gloss": "salutation-to-sound-self",
+     "grounds": "fused salutation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tubhyaṃ",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namobiṃdukalātmane",
+     "gloss": "salutation-to-bindu-kalā-self",
+     "grounds": "fused salutation",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "To whom are salutations offered in this invocation?",
+   "premises": [
+    "Salutation to sound-self",
+    "Salutation to you",
+    "Salutation to bindu-kalā-self"
+   ],
+   "inference": "Salutations are offered to the sound-self, to you, and to the bindu-kalā-self.",
+   "uncertainties": [
+    "Fused forms"
+   ],
+   "plain_english": "Salutations are offered to the sound-self, to you, and to the bindu-kalā-self."
+  },
+  {
+   "verse": 3529,
+   "rows": [
+    {
+     "surface": "tvaṃ mātā",
+     "gloss": "you-are-mother",
+     "grounds": "fused predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvalokānāṃ",
+     "gloss": "of-all-worlds",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tvamevajagatāṃpitā",
+     "gloss": "you-indeed-father-of-worlds",
+     "grounds": "fused predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What parental roles are attributed to the deity?",
+   "premises": [
+    "You are mother of all worlds",
+    "You are indeed father of worlds",
+    "Both roles are affirmed"
+   ],
+   "inference": "The deity is both mother and father of all worlds.",
+   "uncertainties": [
+    "Fused forms"
+   ],
+   "plain_english": "You are the mother and indeed the father of all worlds."
+  },
+  {
+   "verse": 3530,
+   "rows": [
+    {
+     "surface": "pārthivasyāsya",
+     "gloss": "of-this-earthly",
+     "grounds": "genitive adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "liṃgasya",
+     "gloss": "of-liṅga",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yanmayāpūjanaṃ",
+     "gloss": "which-by-me-worship",
+     "grounds": "fused relative clause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What worship has been performed for the earthly liṅga?",
+   "premises": [
+    "This earthly liṅga is referenced",
+    "Worship by me is referenced",
+    "The worship is done"
+   ],
+   "inference": "The worship performed by me for this earthly liṅga is completed.",
+   "uncertainties": [
+    "Fused relative clause"
+   ],
+   "plain_english": "The worship I performed for this earthly liṅga is done."
+  },
+  {
+   "verse": 3531,
+   "rows": [
+    {
+     "surface": "śivodātā",
+     "gloss": "śiva-giver",
+     "grounds": "compound epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivobhoktā",
+     "gloss": "śiva-enjoyer",
+     "grounds": "compound epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivassarvamidaṃ jagat",
+     "gloss": "śiva-all-this-world",
+     "grounds": "fused clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What roles does Śiva hold in relation to the world?",
+   "premises": [
+    "Śiva is giver",
+    "Śiva is enjoyer",
+    "Śiva is all this world"
+   ],
+   "inference": "Śiva is giver, enjoyer, and the whole world.",
+   "uncertainties": [
+    "Fused clause"
+   ],
+   "plain_english": "Śiva is giver, enjoyer, and all this world."
+  },
+  {
+   "verse": 3532,
+   "rows": [
+    {
+     "surface": "pūjāphalaṃ",
+     "gloss": "worship-fruit",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mamasamastam",
+     "gloss": "my-all",
+     "grounds": "fused possessive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upaitvavighnaṃ",
+     "gloss": "may-come-without-obstacle",
+     "grounds": "fused verb phrase",
+     "morph": "v.3sg.act.opt"
+    },
+    {
+     "surface": "pūrṇaṃ vidhehi",
+     "gloss": "full-make",
+     "grounds": "fused imperative",
+     "morph": "v.2sg.act.imp"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "supreme-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "pāhimāṃ tvam",
+     "gloss": "protect-me-you",
+     "grounds": "fused imperative",
+     "morph": "v.2sg.act.imp"
+    }
+   ],
+   "question": "What fruit of worship is requested from the supreme lord?",
+   "premises": [
+    "Worship fruit is requested",
+    "It should come without obstacle",
+    "It should be made full",
+    "Protection is requested"
+   ],
+   "inference": "The worshipper asks that the full fruit of worship come unobstructed and that the lord protect him.",
+   "uncertainties": [
+    "Fused verb phrases"
+   ],
+   "plain_english": "May the full fruit of my worship come without obstacle; make it complete, supreme lord, and protect me."
+  },
+  {
+   "verse": 3533,
+   "rows": [
+    {
+     "surface": "praviśatvaṃ",
+     "gloss": "enter",
+     "grounds": "imperative verb",
+     "morph": "v.2sg.act.imp"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "great-god",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sarvairāvaraṇaissaha",
+     "gloss": "with-all-coverings",
+     "grounds": "fused instrumental phrase",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What is requested of Mahādeva at the close of worship?",
+   "premises": [
+    "Enter is requested",
+    "Mahādeva is addressed",
+    "With all coverings is specified"
+   ],
+   "inference": "Mahādeva is asked to enter with all coverings.",
+   "uncertainties": [
+    "Fused instrumental phrase"
+   ],
+   "plain_english": "Enter, Mahādeva, with all coverings."
+  },
+  {
+   "verse": 3534,
+   "rows": [
+    {
+     "surface": "pūjāvidhiṃ",
+     "gloss": "worship-rite",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na jānāmī",
+     "gloss": "not-know",
+     "grounds": "fused verb phrase",
+     "morph": "v.1sg.act.ind"
+    },
+    {
+     "surface": "kṣamasva",
+     "gloss": "forgive",
+     "grounds": "imperative verb",
+     "morph": "v.2sg.act.imp"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "supreme-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What confession is made about knowledge of the rite?",
+   "premises": [
+    "Worship rite is referenced",
+    "Not knowing is confessed",
+    "Forgiveness is requested"
+   ],
+   "inference": "The worshipper confesses ignorance of the rite and asks forgiveness.",
+   "uncertainties": [
+    "Fused verb phrase"
+   ],
+   "plain_english": "I do not know the worship rite; forgive me, supreme lord."
+  },
+  {
+   "verse": 3535,
+   "rows": [
+    {
+     "surface": "iṣṭakāmyārthasiddhyarthaṃ",
+     "gloss": "desired-object-attainment-purpose",
+     "grounds": "compound purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punarāgamanāya ca",
+     "gloss": "and-again-coming",
+     "grounds": "fused dative phrase",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "For what purposes is the rite performed?",
+   "premises": [
+    "Desired object attainment is purpose",
+    "Again coming is purpose",
+    "Both are stated"
+   ],
+   "inference": "The rite is performed for attaining desired objects and for returning again.",
+   "uncertainties": [
+    "Fused dative phrase"
+   ],
+   "plain_english": "For attaining desired objects and for coming again."
+  },
+  {
+   "verse": 3536,
+   "rows": [
+    {
+     "surface": "nayāti nyūnatāṃ",
+     "gloss": "leads-to-deficiency",
+     "grounds": "fused verb phrase",
+     "morph": "v.3sg.act.ind"
+    },
+    {
+     "surface": "tattu",
+     "gloss": "that-indeed",
+     "grounds": "fused pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bāṇaliṅgam",
+     "gloss": "bāṇa-liṅga",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "itīritam",
+     "gloss": "thus-declared",
+     "grounds": "fused participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is declared about the bāṇa-liṅga?",
+   "premises": [
+    "It leads to deficiency",
+    "That indeed is the bāṇa-liṅga",
+    "Thus it is declared"
+   ],
+   "inference": "The bāṇa-liṅga is declared to lead to deficiency.",
+   "uncertainties": [
+    "Fused forms"
+   ],
+   "plain_english": "That indeed, the bāṇa-liṅga, leads to deficiency; thus it is declared."
+  },
+  {
+   "verse": 3537,
+   "rows": [
+    {
+     "surface": "kurvītāṅguṣṭhato hrasvaṃ",
+     "gloss": "should-make-thumb-from-short",
+     "grounds": "fused imperative phrase",
+     "morph": "v.3sg.act.opt"
+    },
+    {
+     "surface": "na kadācit samācaret",
+     "gloss": "never-practice",
+     "grounds": "fused negative imperative",
+     "morph": "v.3sg.act.opt"
+    }
+   ],
+   "question": "What practice is prohibited regarding the thumb?",
+   "premises": [
+    "Should make short from thumb is stated",
+    "Never practice is stated",
+    "Prohibition is explicit"
+   ],
+   "inference": "One should never practice making it short from the thumb.",
+   "uncertainties": [
+    "Fused imperative phrase"
+   ],
+   "plain_english": "One should never practice making it short from the thumb."
+  },
+  {
+   "verse": 3538,
+   "rows": [
+    {
+     "surface": "ṣaṭpañcakacaturmānaṃ",
+     "gloss": "six-five-four-measure",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trividhaṃ smṛtam",
+     "gloss": "threefold-remembered",
+     "grounds": "fused participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the middle measure classified?",
+   "premises": [
+    "Six-five-four measure is named",
+    "Middle is specified",
+    "Threefold is remembered"
+   ],
+   "inference": "The middle measure is remembered as threefold.",
+   "uncertainties": [
+    "Compound measure"
+   ],
+   "plain_english": "The middle measure is remembered as threefold."
+  },
+  {
+   "verse": 3539,
+   "rows": [
+    {
+     "surface": "evaṃ navavidhaṃproktaṃ",
+     "gloss": "thus-ninefold-declared",
+     "grounds": "fused participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caraliṅgaṃ",
+     "gloss": "movable-liṅga",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathākramāt",
+     "gloss": "in-order",
+     "grounds": "adverbial phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the movable liṅga described?",
+   "premises": [
+    "Thus ninefold is declared",
+    "Movable liṅga is named",
+    "In order is specified"
+   ],
+   "inference": "The movable liṅga is declared as ninefold in order.",
+   "uncertainties": [
+    "Fused participle"
+   ],
+   "plain_english": "Thus the movable liṅga is declared ninefold in order."
+  },
+  {
+   "verse": 3540,
+   "rows": [
+    {
+     "surface": "paridhistattriguṇitastadvatpīṭhaṃ",
+     "gloss": "circumference-threefold-thus-pedestal",
+     "grounds": "fused compound phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyavasthitam",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the pedestal established?",
+   "premises": [
+    "Circumference threefold is stated",
+    "Pedestal is stated",
+    "Established is stated"
+   ],
+   "inference": "The pedestal is established with a threefold circumference.",
+   "uncertainties": [
+    "Fused compound phrase"
+   ],
+   "plain_english": "The pedestal is established with a threefold circumference."
+  },
+  {
+   "verse": 3541,
+   "rows": [
+    {
+     "surface": "triṣvādyaṃbāṇamutkṛṣṭaṃ",
+     "gloss": "among-three-first-bāṇa-excellent",
+     "grounds": "fused compound phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rasaliṅgaṃ",
+     "gloss": "rasa-liṅga",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatodhikam",
+     "gloss": "then-superior",
+     "grounds": "fused adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does the rasa-liṅga compare among three?",
+   "premises": [
+    "Among three first bāṇa is excellent",
+    "Rasa-liṅga is named",
+    "Then superior is stated"
+   ],
+   "inference": "Among three, the first bāṇa is excellent, and the rasa-liṅga is then superior.",
+   "uncertainties": [
+    "Fused compound phrase"
+   ],
+   "plain_english": "Among three, the first bāṇa is excellent; the rasa-liṅga is then superior."
+  },
+  {
+   "verse": 3542,
+   "rows": [
+    {
+     "surface": "rudrāṣṭakamitikhyātaṃ",
+     "gloss": "rudra-eightfold-called",
+     "grounds": "fused participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatpatnīputrasaṃyutam",
+     "gloss": "that-wife-son-together",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is called the eightfold Rudra group?",
+   "premises": [
+    "Rudra eightfold is called",
+    "That with wife and son is stated",
+    "Group includes family"
+   ],
+   "inference": "The eightfold Rudra group is called together with wife and son.",
+   "uncertainties": [
+    "Fused compound"
+   ],
+   "plain_english": "The eightfold Rudra group is called together with wife and son."
+  },
+  {
+   "verse": 3543,
+   "rows": [
+    {
+     "surface": "yathāhapūrvaṃ",
+     "gloss": "as-said-before",
+     "grounds": "fused adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "all-that",
+     "grounds": "fused pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vadāmitavanārada",
+     "gloss": "tell-me",
+     "grounds": "fused imperative",
+     "morph": "v.2sg.act.imp"
+    }
+   ],
+   "question": "What is requested regarding what was said before?",
+   "premises": [
+    "As said before is referenced",
+    "All that is referenced",
+    "Tell me is requested"
+   ],
+   "inference": "Nārada is asked to tell all that was said before.",
+   "uncertainties": [
+    "Fused imperative"
+   ],
+   "plain_english": "Tell me all that, as said before."
+  },
+  {
+   "verse": 3544,
+   "rows": [
+    {
+     "surface": "bhīma",
+     "gloss": "bhīma",
+     "grounds": "name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ugra",
+     "gloss": "ugra",
+     "grounds": "name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "mahādeva",
+     "grounds": "name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eterudrāḥ prakīrtitāḥ",
+     "gloss": "these-rudras-declared",
+     "grounds": "fused participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which Rudras are declared in this list?",
+   "premises": [
+    "Bhīma is named",
+    "Ugra is named",
+    "Mahādeva is named",
+    "These Rudras are declared"
+   ],
+   "inference": "Bhīma, Ugra, and Mahādeva are among the declared Rudras.",
+   "uncertainties": [
+    "Fused participle"
+   ],
+   "plain_english": "Bhīma, Ugra, and Mahādeva are declared as these Rudras."
+  },
+  {
+   "verse": 3545,
+   "rows": [
+    {
+     "surface": "teṣāṃbhāryāśca putrāśca",
+     "gloss": "their-wives-and-sons",
+     "grounds": "fused compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kathayāmite",
+     "gloss": "tell-me",
+     "grounds": "fused imperative",
+     "morph": "v.2sg.act.imp"
+    }
+   ],
+   "question": "What is requested about the Rudras' families?",
+   "premises": [
+    "Their wives and sons are referenced",
+    "Names are referenced",
+    "Tell me is requested"
+   ],
+   "inference": "The names of their wives and sons are requested.",
+   "uncertainties": [
+    "Fused compound"
+   ],
+   "plain_english": "Tell me the names of their wives and sons."
+  },
+  {
+   "verse": 3546,
+   "rows": [
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśā",
+     "gloss": "viśā",
+     "grounds": "name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "dīkṣā",
+     "grounds": "name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rohiṇī",
+     "gloss": "rohiṇī",
+     "grounds": "name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathākramāt",
+     "gloss": "in-order",
+     "grounds": "adverbial phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which wives are listed in order?",
+   "premises": [
+    "Svāhā is named",
+    "Viśā is named",
+    "Dīkṣā is named",
+    "Rohiṇī is named",
+    "In order is specified"
+   ],
+   "inference": "The wives Svāhā, Viśā, Dīkṣā, and Rohiṇī are listed in order.",
+   "uncertainties": [
+    "List order"
+   ],
+   "plain_english": "Svāhā, Viśā, Dīkṣā, and Rohiṇī are listed in order."
+  },
+  {
+   "verse": 3547,
+   "rows": [
+    {
+     "surface": "rudrapatnya imāścāṣṭau",
+     "gloss": "rudra-wives-these-eight",
+     "grounds": "fused compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "putrāṃśca",
+     "gloss": "sons-and",
+     "grounds": "fused accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śṛṇunārada",
+     "gloss": "hear-nārada",
+     "grounds": "fused imperative",
+     "morph": "v.2sg.act.imp"
+    }
+   ],
+   "question": "What is Nārada asked to hear?",
+   "premises": [
+    "Rudra wives these eight are referenced",
+    "Sons are referenced",
+    "Hear is requested"
+   ],
+   "inference": "Nārada is asked to hear about the eight Rudra wives and sons.",
+   "uncertainties": [
+    "Fused compound"
+   ],
+   "plain_english": "Hear, Nārada, about these eight Rudra wives and sons."
+  },
+  {
+   "verse": 3548,
+   "rows": [
+    {
+     "surface": "vasaṃtassvargasaṃtānau",
+     "gloss": "vasanta",
+     "grounds": "fused compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "budhaścaiva",
+     "gloss": "budha-and-indeed",
+     "grounds": "fused conjunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathākramāt",
+     "gloss": "in-order",
+     "grounds": "adverbial phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which sons are listed in order?",
+   "premises": [
+    "Vasanta is named",
+    "Budha is named",
+    "In order is specified"
+   ],
+   "inference": "Vasanta and Budha are listed among the sons in order.",
+   "uncertainties": [
+    "Fused compound"
+   ],
+   "plain_english": "Vasanta and Budha are listed in order."
+  },
+  {
+   "verse": 3549,
+   "rows": [
+    {
+     "surface": "puṇyakāle tu saṃprāpte",
+     "gloss": "auspicious-time-arrived",
+     "grounds": "fused ablative phrase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śanau vā",
+     "gloss": "or-saturn",
+     "grounds": "fused disjunctive",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhūtimicchatā",
+     "gloss": "prosperity-desiring",
+     "grounds": "fused participle",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "When is the rite to be performed for prosperity?",
+   "premises": [
+    "Auspicious time arrived is stated",
+    "Or Saturn is stated",
+    "Prosperity desiring is stated"
+   ],
+   "inference": "The rite is to be performed at an auspicious time, or under Saturn, by one desiring prosperity.",
+   "uncertainties": [
+    "Fused phrases"
+   ],
+   "plain_english": "When an auspicious time has arrived, or under Saturn, by one desiring prosperity."
+  }
+ ]
+}

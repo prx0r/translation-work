@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3463,
- "question": "What gifts are declared in order for this rite?",
+ "question": "What is declared along with the great dance proceeding?",
  "premises": [
-  "elephant is gift",
-  "gold is gift",
-  "buffaloes with buffalo are gifts"
+  "mahānṛṃttapravṛttaṃ is qualifier",
+  "ca is conjunction",
+  "navaberāḥ is subject",
+  "prakīrtitāḥ is verb"
  ],
- "inference": "Elephant, gold, and buffaloes with buffalo are declared gifts.",
+ "inference": "Nine idols are declared along with the great dance proceeding.",
  "uncertainties": [
-  "dakṣiṇā context implied"
+  "compound split uncertain"
  ],
- "plain_english": "Gifts include elephant, gold, and buffaloes with buffalo."
+ "plain_english": "The great dance proceeding and nine idols are declared."
 }

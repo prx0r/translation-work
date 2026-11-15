@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p146",
+ "items": [
+  {
+   "verse": 3650,
+   "rows": [
+    {
+     "surface": "akāra",
+     "gloss": "a-syllable",
+     "grounds": "token as given; a-kāra compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāmikā",
+     "gloss": "ring-finger",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "token as given; past participle of pra-vac",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "ukāra",
+     "gloss": "u-syllable",
+     "grounds": "token as given; u-kāra compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madhyamāṃguliḥ",
+     "gloss": "middle-finger",
+     "grounds": "token as given; madhyama-aṅguli compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which finger is designated by the syllable a and which by u?",
+   "premises": [
+    "akāra names ring-finger",
+    "ukāra names middle-finger",
+    "prokta declares correspondence"
+   ],
+   "inference": "a and u map to ring and middle fingers respectively",
+   "uncertainties": [
+    "supplied surfaces omit final sandhi/visarga"
+   ],
+   "plain_english": "The syllable a is called the ring finger, and the syllable u the middle finger."
+  }
+ ]
+}

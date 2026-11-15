@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p137",
  "verse": 3421,
- "question": "What result follows when the rite is performed with the target's name?",
+ "question": "Which pale Vasudeva and white Adhokshaja are named?",
  "premises": [
-  "When given with whose name.",
-  "She attains subjection."
+  "Vasudeva is pale.",
+  "Adhokshaja is white.",
+  "The verse names both."
  ],
- "inference": "The verse claims that the named rite brings the woman into subjection.",
+ "inference": "Vasudeva is pale and Adhokshaja is white.",
  "uncertainties": [
-  "The exact offering or gift is not specified."
+  "The color terms overlap."
  ],
- "plain_english": "When given with her name, she attains subjection."
+ "plain_english": "Vasudeva is pale and Adhokshaja is white."
 }

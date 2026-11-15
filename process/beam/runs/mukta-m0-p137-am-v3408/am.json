@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p137",
  "verse": 3408,
- "question": "How is the practitioner to be visualized in this rite?",
+ "question": "Which odd images are worshipable and how many among odd ones?",
  "premises": [
-  "He is seated on the left side.",
-  "He is adorned with red garments."
+  "Odd images are worshipable.",
+  "Among odd ones only one is worshipable.",
+  "The verse states this restriction."
  ],
- "inference": "The verse visualizes the practitioner seated on the left, red-garmented.",
+ "inference": "Only one odd image is worshipable.",
  "uncertainties": [
-  "The exact seat or altar is not specified."
+  "The specific one is not named."
  ],
- "plain_english": "Seated on the left side, adorned with red garments."
+ "plain_english": "Odd images are worshipable, but only one among odd ones."
 }

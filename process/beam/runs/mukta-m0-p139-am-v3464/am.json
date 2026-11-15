@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3464,
- "question": "What further gifts are declared in order?",
+ "question": "What will be spoken to the goddess among auspicious fruits?",
  "premises": [
-  "silver is gift",
-  "gifts are declared",
-  "order is specified"
+  "tattatphalāni is object",
+  "vakṣyāmi is verb",
+  "śṛṇudevi is addressee",
+  "śubhāni is qualifier",
+  "ca is conjunction"
  ],
- "inference": "Silver and other gifts are declared in order.",
+ "inference": "The speaker will declare those fruits, auspicious ones, to the goddess.",
  "uncertainties": [
-  "full list not in this verse"
+  "token contains spaces"
  ],
- "plain_english": "Silver and gifts are declared in order."
+ "plain_english": "I will speak those auspicious fruits; listen, goddess."
 }

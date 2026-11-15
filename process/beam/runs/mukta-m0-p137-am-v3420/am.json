@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p137",
  "verse": 3420,
- "question": "What meditation accompanies the rite?",
+ "question": "Which dark deity is called Narayana and which Krishna Vaishnava?",
  "premises": [
-  "Meditate on the god joined with Kāmarāja.",
-  "The good sādhaka does so."
+  "The dark one is Narayana.",
+  "Krishna is called Vaishnava.",
+  "The verse states these names."
  ],
- "inference": "The verse prescribes meditating on the god joined with Kāmarāja.",
+ "inference": "Narayana is dark and Krishna is Vaishnava.",
  "uncertainties": [
-  "The identity of Kāmarāja is not explained."
+  "The exact relation is compressed."
  ],
- "plain_english": "Meditating on the god joined with Kāmarāja, the good sādhaka."
+ "plain_english": "Narayana is dark; Krishna is called Vaishnava."
 }

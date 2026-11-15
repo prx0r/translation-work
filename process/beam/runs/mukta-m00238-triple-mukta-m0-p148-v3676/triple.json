@@ -1,0 +1,1097 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3676,
+   "rows": [
+    {
+     "surface": "gale",
+     "gloss": "neck",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhujadvaye",
+     "gloss": "two-arms",
+     "grounds": "compound locative dual",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdinābhau",
+     "gloss": "heart-navel",
+     "grounds": "compound locative dual",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhake",
+     "gloss": "back",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the three-line ash mark be worn on the body?",
+   "premises": [
+    "The verse lists body locations for the mark.",
+    "Neck arms heart navel and back are named.",
+    "These are ritual placement points."
+   ],
+   "inference": "The ash mark is applied across multiple bodily centers.",
+   "uncertainties": [
+    "Exact grammatical parsing of hṛdinābhau is uncertain."
+   ],
+   "plain_english": "The mark is worn on the neck, both arms, heart, navel, and back."
+  },
+  {
+   "verse": 3677,
+   "rows": [
+    {
+     "surface": "tripuṃḍraṃ",
+     "gloss": "three-lines",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhasmanā",
+     "gloss": "by-ashes",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ādhāryaṃ",
+     "gloss": "to-be-worn",
+     "grounds": "gerundive accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūlamaṃtreṇa",
+     "gloss": "by-root-mantra",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "by-practitioners",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How should practitioners wear the three-line ash mark?",
+   "premises": [
+    "The mark is made of ashes.",
+    "It is to be worn by practitioners.",
+    "The root mantra accompanies it."
+   ],
+   "inference": "Practitioners wear the three-line ash mark with the root mantra.",
+   "uncertainties": [
+    "The exact ritual sequence is not specified."
+   ],
+   "plain_english": "Practitioners should wear the three-line ash mark using ashes and the root mantra."
+  },
+  {
+   "verse": 3678,
+   "rows": [
+    {
+     "surface": "amaṃtrapūrvam",
+     "gloss": "without-mantra-first",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śudrāṇāṃ",
+     "gloss": "of-śūdras",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dharmavedinām",
+     "gloss": "of-dharma-knowers",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "For whom is the ash mark worn without mantra first?",
+   "premises": [
+    "The verse concerns those without mantra first.",
+    "It names others, śūdras, and dharma-knowers.",
+    "The practice differs by group."
+   ],
+   "inference": "For some groups the ash mark is worn without prior mantra.",
+   "uncertainties": [
+    "The exact social distinction is unclear."
+   ],
+   "plain_english": "For others, śūdras, and knowers of dharma, the mark is worn without mantra first."
+  },
+  {
+   "verse": 3679,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajñakarmādau",
+     "gloss": "sacrifice-work-etc",
+     "grounds": "locative singular compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "patnīsādhye",
+     "gloss": "wife-accomplished",
+     "grounds": "locative singular compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-action",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What analogy explains the superiority of all mantras in ash wearing?",
+   "premises": [
+    "The verse compares sacrifice work and wife-accomplished action.",
+    "It uses an analogy with ritual action.",
+    "The comparison supports a claim about mantras."
+   ],
+   "inference": "Just as certain ritual actions depend on proper agents, mantra superiority applies in ash wearing.",
+   "uncertainties": [
+    "The analogy is compressed and elliptical."
+   ],
+   "plain_english": "As in sacrifice and wife-accomplished ritual action, so too in wearing ash."
+  },
+  {
+   "verse": 3680,
+   "rows": [
+    {
+     "surface": "sarvamaṃtrādhikarosti",
+     "gloss": "all-mantras-superior",
+     "grounds": "compound verb form",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhasmādi",
+     "gloss": "ash-etc",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhāraṇe",
+     "gloss": "in-wearing",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is superior to all mantras in the wearing of ash?",
+   "premises": [
+    "The verse states all mantras are superior in some sense.",
+    "It then applies this to ash wearing.",
+    "The ash and related substances are the topic."
+   ],
+   "inference": "In wearing ash, the practice itself carries a superiority analogous to mantras.",
+   "uncertainties": [
+    "The exact syntactic relation is unclear."
+   ],
+   "plain_english": "Thus in wearing ash and related substances, all mantras are superior."
+  },
+  {
+   "verse": 3681,
+   "rows": [
+    {
+     "surface": "vibhūtirauṣadhaṃ",
+     "gloss": "vibhūti-medicine",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṃsāṃ",
+     "gloss": "of-men",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "muktistrī",
+     "gloss": "liberation-woman",
+     "grounds": "compound nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśyakarmaṇi",
+     "gloss": "in-subjugation-rite",
+     "grounds": "locative singular compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What roles do vibhūti and ash play in ritual and liberation?",
+   "premises": [
+    "Vibhūti is called medicine for men.",
+    "Liberation is linked with woman.",
+    "Subjugation rite is the context."
+   ],
+   "inference": "Vibhūti serves as medicine and ash practice relates to liberation and subjugation rites.",
+   "uncertainties": [
+    "The verse is highly compressed."
+   ],
+   "plain_english": "Vibhūti is medicine for men, and liberation-woman is in subjugation rite."
+  },
+  {
+   "verse": 3682,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "inferential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāruṇam",
+     "gloss": "vāruṇa",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utsṛjya",
+     "gloss": "abandoning",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āgneyam",
+     "gloss": "āgneya",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Which bath should be performed after abandoning the vāruṇa bath?",
+   "premises": [
+    "The verse says therefore.",
+    "It says abandon the vāruṇa bath.",
+    "It says perform the āgneya bath."
+   ],
+   "inference": "One should abandon the vāruṇa bath and perform the āgneya bath.",
+   "uncertainties": [
+    "No ritual context beyond the command."
+   ],
+   "plain_english": "Therefore, abandoning the vāruṇa bath, one should perform the āgneya bath."
+  },
+  {
+   "verse": 3683,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktvā",
+     "gloss": "having-spoken",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "ṛṣīndevānt",
+     "gloss": "sages-gods-end",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "snāto",
+     "gloss": "bathed",
+     "grounds": "past participle nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "reflexive adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who bathes himself after speaking to sages and gods?",
+   "premises": [
+    "The verse says thus having spoken.",
+    "It names sages and gods.",
+    "Śiva himself is bathed."
+   ],
+   "inference": "Śiva himself bathes after addressing sages and gods.",
+   "uncertainties": [
+    "The exact narrative context is unclear."
+   ],
+   "plain_english": "Thus having spoken to sages and gods, Śiva himself bathes."
+  },
+  {
+   "verse": 3684,
+   "rows": [
+    {
+     "surface": "sarvakarmasuyatnena",
+     "gloss": "all-works-carefully",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhasmasnānaṃ",
+     "gloss": "ash-bath",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakurvate",
+     "gloss": "performs",
+     "grounds": "third plural present",
+     "morph": "v.3.pl.act-pres"
+    }
+   ],
+   "question": "How is the ash bath performed in all works?",
+   "premises": [
+    "The verse mentions all works carefully.",
+    "It names ash bath.",
+    "It says performs."
+   ],
+   "inference": "The ash bath is performed carefully in all works.",
+   "uncertainties": [
+    "The agent is unspecified."
+   ],
+   "plain_english": "With careful effort in all works, they perform the ash bath."
+  },
+  {
+   "verse": 3685,
+   "rows": [
+    {
+     "surface": "anenaivaśarīreṇa",
+     "gloss": "by-this-very-body",
+     "grounds": "instrumental singular compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudro",
+     "gloss": "rudra",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nātrasaṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who becomes Rudra by this very body?",
+   "premises": [
+    "The verse says by this very body.",
+    "It names Rudra.",
+    "It says no doubt."
+   ],
+   "inference": "By this very body he is Rudra, without doubt.",
+   "uncertainties": [
+    "The referent of he is context-dependent."
+   ],
+   "plain_english": "By this very body he is Rudra; there is no doubt."
+  },
+  {
+   "verse": 3686,
+   "rows": [
+    {
+     "surface": "ādraṃ",
+     "gloss": "wet",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛtiṃvidyāt",
+     "gloss": "nature-know",
+     "grounds": "compound verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "prakṛtiṃ",
+     "gloss": "nature",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "baṃdhanaṃ",
+     "gloss": "bondage",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "third plural present",
+     "morph": "v.3.pl.act-pres"
+    }
+   ],
+   "question": "What is known as wet nature and bondage?",
+   "premises": [
+    "The verse says wet nature.",
+    "It says know nature.",
+    "It says bondage is known."
+   ],
+   "inference": "Wet nature is to be known, and nature is known as bondage.",
+   "uncertainties": [
+    "The verse is elliptical."
+   ],
+   "plain_english": "Know wet nature; nature is known as bondage."
+  },
+  {
+   "verse": 3687,
+   "rows": [
+    {
+     "surface": "dhik",
+     "gloss": "fie",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśārcakajanān",
+     "gloss": "īśa-worshippers",
+     "grounds": "accusative plural compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dhik",
+     "gloss": "fie",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāmīvāśrayām",
+     "gloss": "knowledge-disease-refuge",
+     "grounds": "accusative singular compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Whom does the verse condemn among Īśa worshippers?",
+   "premises": [
+    "The verse says fie.",
+    "It names Īśa worshippers.",
+    "It condemns knowledge-disease refuge."
+   ],
+   "inference": "The verse condemns Īśa worshippers who take refuge in knowledge-disease.",
+   "uncertainties": [
+    "The compound is obscure."
+   ],
+   "plain_english": "Fie on Īśa worshippers; fie on knowledge-disease refuge."
+  },
+  {
+   "verse": 3688,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇumaheśānāṃ",
+     "gloss": "of-brahma-viṣṇu-maheśa",
+     "grounds": "genitive plural compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "trayyagnīnāṃ",
+     "gloss": "of-three-fires",
+     "grounds": "genitive plural compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāraṇam",
+     "gloss": "wearing",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whose wearing is mentioned with Brahmā, Viṣṇu, and Maheśa?",
+   "premises": [
+    "The verse names Brahmā Viṣṇu and Maheśa.",
+    "It names three fires.",
+    "It names wearing."
+   ],
+   "inference": "Wearing is associated with Brahmā, Viṣṇu, Maheśa, and the three fires.",
+   "uncertainties": [
+    "The exact object worn is not stated."
+   ],
+   "plain_english": "Wearing is mentioned for Brahmā, Viṣṇu, Maheśa, and the three fires."
+  },
+  {
+   "verse": 3689,
+   "rows": [
+    {
+     "surface": "sāmaveda",
+     "gloss": "sāmaveda",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedatrayadharo",
+     "gloss": "three-vedas-wearer",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Who becomes a wearer of three Vedas below the Sāmaveda?",
+   "premises": [
+    "The verse names Sāmaveda below.",
+    "It names three-vedas-wearer.",
+    "It says becomes."
+   ],
+   "inference": "One becomes a wearer of three Vedas below the Sāmaveda.",
+   "uncertainties": [
+    "The ritual hierarchy is unclear."
+   ],
+   "plain_english": "Below the Sāmaveda, one becomes a wearer of three Vedas."
+  },
+  {
+   "verse": 3690,
+   "rows": [
+    {
+     "surface": "vibhūtidhāraṇe",
+     "gloss": "ash-wearing",
+     "grounds": "locative singular compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyo",
+     "gloss": "other",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "third singular present negative",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "pratinidhiḥ",
+     "gloss": "substitute",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is there any substitute for wearing vibhūti?",
+   "premises": [
+    "The verse says in ash-wearing.",
+    "It says no other.",
+    "It says substitute certainly."
+   ],
+   "inference": "There is certainly no substitute for wearing vibhūti.",
+   "uncertainties": [
+    "No alternative practice is named."
+   ],
+   "plain_english": "In wearing vibhūti, there is certainly no substitute."
+  },
+  {
+   "verse": 3691,
+   "rows": [
+    {
+     "surface": "tāvadvarṣasahasrāṇi",
+     "gloss": "so-many-years-thousands",
+     "grounds": "accusative plural compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "rauravaṃnarakaṃ",
+     "gloss": "raurava-hell",
+     "grounds": "accusative singular compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What consequence follows from lacking vibhūti?",
+   "premises": [
+    "The verse names thousands of years.",
+    "It names Raurava hell.",
+    "It says goes."
+   ],
+   "inference": "One goes to Raurava hell for thousands of years.",
+   "uncertainties": [
+    "The exact offense is implied by context."
+   ],
+   "plain_english": "For so many thousands of years one goes to Raurava hell."
+  },
+  {
+   "verse": 3692,
+   "rows": [
+    {
+     "surface": "udapaśyat",
+     "gloss": "saw",
+     "grounds": "third singular aorist",
+     "morph": "v.3.sg.act-aor"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogam",
+     "gloss": "yoga",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "unmīlitavilocanaḥ",
+     "gloss": "opened-eyes",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who formerly saw yoga with opened eyes?",
+   "premises": [
+    "The verse says saw.",
+    "It says formerly.",
+    "It says yoga with opened eyes."
+   ],
+   "inference": "Someone formerly saw yoga with opened eyes.",
+   "uncertainties": [
+    "The subject is not named in this verse."
+   ],
+   "plain_english": "Formerly, with opened eyes, he saw yoga."
+  },
+  {
+   "verse": 3693,
+   "rows": [
+    {
+     "surface": "tebhyo jātā",
+     "gloss": "from-them-born",
+     "grounds": "compound nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yatas",
+     "gloss": "because",
+     "grounds": "causal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "inferential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrākṣā",
+     "gloss": "rudrākṣa",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "itikīrtitāḥ",
+     "gloss": "thus-called",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are rudrākṣa beads called by that name?",
+   "premises": [
+    "The verse says born from them.",
+    "It says because.",
+    "It says therefore rudrākṣa thus called."
+   ],
+   "inference": "Rudrākṣa beads are so called because they are born from them.",
+   "uncertainties": [
+    "The antecedent of them is in prior context."
+   ],
+   "plain_english": "Because they are born from them, therefore they are called rudrākṣa."
+  },
+  {
+   "verse": 3694,
+   "rows": [
+    {
+     "surface": "netrāt",
+     "gloss": "from-eye",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śaṃbhoḥ",
+     "gloss": "śambhu",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kapilā",
+     "gloss": "tawny",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uditāḥ",
+     "gloss": "arisen",
+     "grounds": "nominative plural participle",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many tawny rudrākṣa beads arise from Śambhu's sun-eye?",
+   "premises": [
+    "The verse says from eye.",
+    "It names sun and Śambhu.",
+    "It says twelve tawny arisen."
+   ],
+   "inference": "Twelve tawny beads arise from Śambhu's sun-eye.",
+   "uncertainties": [
+    "The exact eye is not fully specified."
+   ],
+   "plain_english": "From Śambhu's sun-eye, twelve tawny beads arise."
+  },
+  {
+   "verse": 3695,
+   "rows": [
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "black",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "daśavidhā",
+     "gloss": "ten-kinds",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jātāḥ",
+     "gloss": "born",
+     "grounds": "nominative plural participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vahnirūpāt",
+     "gloss": "fire-form",
+     "grounds": "ablative singular compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vilocanāt",
+     "gloss": "eye",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How many black kinds arise from the fire-form eye?",
+   "premises": [
+    "The verse says black.",
+    "It says ten kinds.",
+    "It says born from fire-form eye."
+   ],
+   "inference": "Ten black kinds arise from the fire-form eye.",
+   "uncertainties": [
+    "The exact fire-form is context-dependent."
+   ],
+   "plain_english": "Ten black kinds are born from the fire-form eye."
+  },
+  {
+   "verse": 3696,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utpattito",
+     "gloss": "from-origin",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhedāt",
+     "gloss": "difference",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "rudrākṣā",
+     "gloss": "rudrākṣa",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "many-ways",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "nominative plural participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are rudrākṣa beads remembered in many ways?",
+   "premises": [
+    "The verse says thus.",
+    "It says from origin and difference.",
+    "It says rudrākṣa many ways remembered."
+   ],
+   "inference": "Rudrākṣa beads are remembered in many ways because of origin and difference.",
+   "uncertainties": [
+    "The taxonomy is not enumerated here."
+   ],
+   "plain_english": "Thus, from origin and difference, rudrākṣa beads are remembered in many ways."
+  },
+  {
+   "verse": 3697,
+   "rows": [
+    {
+     "surface": "rudrākṣarahito",
+     "gloss": "rudrākṣa-less",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vipro",
+     "gloss": "brāhmaṇa",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "narake",
+     "gloss": "in-hell",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "patati",
+     "gloss": "falls",
+     "grounds": "third singular present",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to a brāhmaṇa without rudrākṣa?",
+   "premises": [
+    "The verse says rudrākṣa-less brāhmaṇa.",
+    "It says in hell.",
+    "It says falls certainly."
+   ],
+   "inference": "A brāhmaṇa without rudrākṣa certainly falls into hell.",
+   "uncertainties": [
+    "The exact hell is not named."
+   ],
+   "plain_english": "A brāhmaṇa without rudrākṣa certainly falls into hell."
+  },
+  {
+   "verse": 3698,
+   "rows": [
+    {
+     "surface": "rudrākṣadhāraṇaṃ",
+     "gloss": "rudrākṣa-wearing",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-speak",
+     "grounds": "first singular future",
+     "morph": "v.1.sg.act-fut"
+    },
+    {
+     "surface": "rudrarūpasya",
+     "gloss": "of-rudra-form",
+     "grounds": "genitive singular compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "dative singular",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why will the speaker explain wearing rudrākṣa?",
+   "premises": [
+    "The verse says rudrākṣa-wearing.",
+    "It says I will speak.",
+    "It says for accomplishment of Rudra-form."
+   ],
+   "inference": "The speaker will explain wearing rudrākṣa for accomplishment of Rudra-form.",
+   "uncertainties": [
+    "The speaker's identity is not stated."
+   ],
+   "plain_english": "I will speak of wearing rudrākṣa for the accomplishment of Rudra-form."
+  },
+  {
+   "verse": 3699,
+   "rows": [
+    {
+     "surface": "dvitridvādaśavaktrāṇi",
+     "gloss": "two-three-twelve-faced",
+     "grounds": "accusative plural compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "should-wear",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How many faced rudrākṣa beads should be worn on the head?",
+   "premises": [
+    "The verse names two three twelve faced beads.",
+    "It says on head.",
+    "It says three should wear."
+   ],
+   "inference": "Three two-three-twelve-faced rudrākṣa beads should be worn on the head.",
+   "uncertainties": [
+    "The exact count and arrangement are compressed."
+   ],
+   "plain_english": "On the head, three two-three-twelve-faced beads should be worn."
+  }
+ ]
+}

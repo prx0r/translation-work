@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3600,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛṇhāti",
+     "gloss": "takes",
+     "grounds": "verb form",
+     "morph": "3.sg.act-pres + root gṛh"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śaṃbhur",
+     "gloss": "shambhu",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gāṃgaṃ",
+     "gloss": "ganga",
+     "grounds": "modifies water",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kimutetarat",
+     "gloss": "what-more-other",
+     "grounds": "fused interrogative form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does Śambhu accept Ganga water or any other water in worship?",
+   "premises": [
+    "Śambhu does not take water.",
+    "Ganga water is explicitly named.",
+    "Other water is questioned."
+   ],
+   "inference": "Śambhu refuses even Ganga water, so other water is a fortiori refused.",
+   "uncertainties": [
+    "The fused form kimutetarat has an uncertain syntactic role.",
+    "The worship setting comes from context."
+   ],
+   "plain_english": "Śambhu does not take Ganga water, let alone any other water."
+  }
+ ]
+}

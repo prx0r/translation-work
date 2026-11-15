@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3462,
- "question": "What offerings and expiation follow the hundred oblations?",
+ "question": "Which deities and figures are listed in this group?",
  "premises": [
-  "sesame ghee is substance",
-  "hundred oblations are made",
-  "victory etc and expiation follow"
+  "somāskaṃdeśvaraṃ is named",
+  "gaurīṃ is named",
+  "caṃḍeśaṃ is named",
+  "ca kirātakam is named"
  ],
- "inference": "After hundred oblations with sesame ghee, perform victory etc and expiation.",
+ "inference": "The verse lists Somaskandeshvara, Gaurī, Chandeshvara, and Kirāta.",
  "uncertainties": [
-  "exact jayādi list unclear"
+  "token contains spaces"
  ],
- "plain_english": "Offer hundred oblations with sesame ghee, then victory etc and expiation."
+ "plain_english": "Somaskandeshvara, Gaurī, Chandeshvara, and Kirāta are listed."
 }

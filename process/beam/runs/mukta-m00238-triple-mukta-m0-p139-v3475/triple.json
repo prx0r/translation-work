@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3475,
+   "rows": [
+    {
+     "surface": "śoṇacaṃdanajaṃliṃgam",
+     "gloss": "red-sandal-born-linga",
+     "grounds": "fused compound naming a linga born of red sandal",
+     "morph": "compound (śoṇa+caṃdana+ja+liṃga)"
+    },
+    {
+     "surface": "āyuṣkāmorcayetpumān",
+     "gloss": "life-desire-worship-man",
+     "grounds": "fused form of āyuṣkāma, arcayet, and pumān",
+     "morph": "verb+noun (3.sg.act.opt.+nom.sg.m)"
+    }
+   ],
+   "question": "Which linga material should a man desiring long life worship?",
+   "premises": [
+    "red sandal born linga is prescribed",
+    "life-desiring man should worship it",
+    "the verse names the worshipper as man"
+   ],
+   "inference": "a man desiring life should worship a red-sandal-born linga",
+   "uncertainties": [
+    "sandhi fusion is preserved as one token",
+    "exact verbal mood is inferred from fused form"
+   ],
+   "plain_english": "A man desiring life should worship a linga born of red sandal."
+  }
+ ]
+}

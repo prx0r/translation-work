@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p137",
  "verse": 3419,
- "question": "Where is the target's name to be written in the drawn form?",
+ "question": "Which deity is known as white Vasudeva and which as red Sankarshana?",
  "premises": [
-  "With a jewel, write the target's name.",
-  "Write it in its middle."
+  "White is Vasudeva.",
+  "Red is Sankarshana.",
+  "The verse states these identifications."
  ],
- "inference": "The verse places the target's name in the middle of the drawn form, written with a jewel.",
+ "inference": "Vasudeva is white and Sankarshana is red.",
  "uncertainties": [
-  "The exact jewel and script are not specified."
+  "No further attributes are given."
  ],
- "plain_english": "With a jewel, write the target's name in its middle."
+ "plain_english": "Vasudeva is white and Sankarshana is red."
 }

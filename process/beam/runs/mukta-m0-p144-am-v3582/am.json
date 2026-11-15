@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p144",
  "verse": 3582,
- "question": "For what purpose should the goddess be worshipped with fruits as before?",
+ "question": "Is a brahmin without tripundra eligible for Shiva worship?",
  "premises": [
-  "The goddess should be worshipped with fruits.",
-  "The procedure follows the previous manner.",
-  "The aim is all accomplishment."
+  "brahmin lacks tripundra",
+  "he is not eligible",
+  "Shiva worship is at stake"
  ],
- "inference": "Worshipping the goddess with fruits as before is performed for the sake of all accomplishment.",
- "uncertainties": [],
- "plain_english": "But one should worship the goddess with fruits, as before, for the attainment of all accomplishments."
+ "inference": "A brahmin without tripundra is ineligible for Shiva worship.",
+ "uncertainties": [
+  "none"
+ ],
+ "plain_english": "A brahmin without tripundra is not eligible for Shiva worship."
 }

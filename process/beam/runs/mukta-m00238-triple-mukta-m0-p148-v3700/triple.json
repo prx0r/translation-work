@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "daśasaptapaṃcavaktrān",
+     "gloss": "ten-seven-five-faced",
+     "grounds": "compound of face-counts modifying beads; accusative plural masculine",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "ṣaṭṣaṭ",
+     "gloss": "six-six",
+     "grounds": "numeral modifying beads; indeclinable form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karṇadvaye",
+     "gloss": "on-two-ears",
+     "grounds": "locative dual neuter phrase for both ears",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb closing the prescription",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which faced rudraksha beads and how many are prescribed for wearing on both ears?",
+   "premises": [
+    "The verse continues a rudraksha wearing prescription.",
+    "It names face-counts for beads worn on ears.",
+    "It specifies two ears as the wearing location."
+   ],
+   "inference": "Six and six beads with ten, seven, and five faces are to be worn on both ears.",
+   "uncertainties": [
+    "The exact distribution of face-counts between the two ears is not explicit.",
+    "The token ṣaṭṣaṭ may indicate count rather than separate bead groups."
+   ],
+   "plain_english": "Thus wear beads with ten, seven, and five faces, six and six, on both ears."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[that-tejas+hidden](tattejo'ntarhitaṃ) [making](kṛtvā) [own-path](svamārgaṃ) [by-inhalation](pūrakeṇa) [but](tu)
+[that-tejas](tat-tejas) [hidden](antarhita) [having-made](kṛtvā) [own-path](sva-mārga) [by-inhalation](pūrakeṇa) [but](tu)
 
 ## mukta-m0-p09-v202
-[crest-five-together](śikhāpañcasamopetaṃ) [meditated](dhyātavyaṃ) [by-yogis](yogibhissadā) [always](sadā)
+[crest-five-endowed](śikhā-pañca-samopeta) [to-be-meditated](dhyātavya) [by-yogis](yogibhiḥ) [always](sadā)
 
 ## mukta-m0-p09-v203
-[smokeless-fire](nirdhūmāgnau) [falls-indeed](patatyeva) [remains](śiṣyate) [again-and-again](muhurmuhuḥ)
+[smokeless-fire](nirdhūma-agni) [falls-indeed](patati-eva) [is-retained](śiṣyate) [and](ca) [again-and-again](muhur-muhuḥ)
 
 ## mukta-m0-p09-v204
-[filling](āpūrya) [by-breath-retention](kuṃbhakenaiva) [variegated-form](citrākāraṃ) [contemplate](vicintayet)
+[having-filled](āpūrya) [by-breath-retention](kuṃbhakena-eva) [variegated-form](citrākāra) [should-contemplate](vicintayet)
 
 ## mukta-m0-p09-v205
-[then](tatastenaiva) [by-that-path](mārgeṇa) [slowly](śanairecaka) [good-vow](suvrate)
+[then](tatas) [by-that-same](tena-eva) [path](mārgeṇa) [slowly](śanaiḥ) [exhalation](recaka) [good-vowed-one](suvrate)
 
 ## mukta-m0-p09-v206
-[thus](evaṃ) [in-order](krameṇa) [goddess](deveśi) [until-crown](yāvanmūrdhni) [struck](samāhatam)
+[thus](evaṃ) [by-stages](krameṇa) [goddess](deveśi) [until-crown](yāvat-mūrdhni) [struck](samāhatam)
 
 ## mukta-m0-p09-v207
-[by-speed](vegenākṣipatastatra) [there](tatra) [fainting](mūrchā) [trembling](kaṃpaśca) [arises](jāyate)
+[by-force](vegena) [drawing](ākṣipataḥ) [there](tatra) [faint](mūrchā) [trembling](kaṃpaḥ) [and](ca) [arises](jāyate)
 
 ## mukta-m0-p09-v208
-[again](punarāpyāyanaṃ) [revival](āpyāyanaṃ) [do](kuryāt) [fainting-trembling](mūrchākaṃpaṃ) [destroy](vināśayet)
+[again](punar) [revival](āpyāyana) [should-do](kuryāt) [faint-trembling](mūrchā-kaṃpa) [should-destroy](vināśayet)
 
 ## mukta-m0-p09-v209
-[contemplate](cintayetplāvayatyevaṃ) [plunge](plāvayati) [thus](evaṃ) [then](tata) [revive-certainly](āpyāyateddhruvam)
+[should-contemplate](cintayet) [floods-indeed](plāvayati-evaṃ) [then](tataḥ) [revives-certainly](āpyāyate-dhruvam)
 
 ## mukta-m0-p09-v210
-[accomplished](sidhyate) [by-whom](yena) [who](yo) [separate](bhinnaṃ) [path-knower](mārgavidvijacintakaḥ)
+[accomplished](sidhyate) [by-which](yena) [who](yaḥ) [separate](bhinna) [path-knower](mārga-vid) [thinker](vijacintakaḥ)
 
 ## mukta-m0-p09-v211
-[thus](evamabhyāsato) [practice](abhyāsato) [goddess](devi) [two-paths](dvimārgaṃ) [by-flow](pravahena) [but](tu)
+[thus](evam) [by-practice](abhyāsataḥ) [goddess](devi) [two-paths](dvi-mārga) [by-flow](pravahena) [but](tu)
 
 ## mukta-m0-p09-v212
-[when](yadā) [dispassion](nirvedamāpanno) [having-attained](āpanno) [seeing](dṛṣṭvā) [unsteady](cañcalamātmanaḥ) [of-self](ātmanaḥ)
+[when](yadā) [dispassion](nirveda) [obtained](āpannaḥ) [having-seen](dṛṣṭvā) [unsteady](cañcala) [of-self](ātmanaḥ)
 
 ## mukta-m0-p09-v213
-[then](tadā) [liberation](nirvāṇamabhyeti) [approaches](abhyeti) [cut-bonds](chinnapāśanibandhanaḥ)
+[then](tadā) [liberation](nirvāṇa) [approaches](abhyeti) [cut-bond](chinna-pāśa) [fettered](nibandhanaḥ)
 
 ## mukta-m0-p09-v214
-[in-seven-days](saptāhāttu) [gradually](kramedvaśyaṃ) [subject](vaśyaṃ) [no](nātrakāryā) [deliberation](vicāraṇā)
+[by-seven-days](saptāhāt-tu) [then](tu) [gradually](kramet) [controlled](vaśya) [not-here](na-atra) [work](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p09-v215
-[heart-crest-united](hṛcchikārasamāyukta) [ascending](utkramannātrasaṃśayaḥ) [no-doubt](saṃśayaḥ)
+[heart-crest-united](hṛc-chikāra-samāyukta) [ascending](utkraman) [not-here-doubt](na-atra-saṃśayaḥ)
 
 ## mukta-m0-p09-v216
-[this](eṣa) [end](ante) [do](prakurvīta) [otherwise](anyathā) [not](na) [ever](kadācana)
+[this](eṣa) [end](ante) [should-do](prakurvīta) [otherwise](anyathā) [not](na) [ever](kadācana)
 
 ## mukta-m0-p09-v217
-[death-sign](mṛtyuliṅgaṃ) [when](yadā) [known](jñātaṃ) [then](tadā) [this](etatprayojayet) [apply](prayojayet)
+[death-sign](mṛtyu-liṅga) [when](yadā) [known](jñātaṃ) [then](tadā) [this](etat) [should-apply](prayojayet)
 
 ## mukta-m0-p09-v218
-[without-knowledge](vidyābhāvā'tha) [then](atha) [go](gacchetāḥ) [sa](sa) [vartayet](vartayet)
+[knowledge-absence](vidyā-bhāva) [then](atha) [should-go](gacchetāḥ) [he](sa) [****](*) [should-sustain](vartayet)
 
 ## mukta-m0-p09-v219
-[from-thumb](aṅguṣṭhādyāvanmūrdhāntaṃ) [to-crown](mūrdhāntaṃ) [so-far](tāvatpadamanāmayam) [path-painless](padamanāmayam)
+[from-thumb](aṅguṣṭha-ādi) [until-crown](yāvat-mūrdha-anta) [so-far](tāvat) [path](pada) [diseaseless](anāmaya)
 
 ## mukta-m0-p09-v220
-[form-meditation](mūrtidhyānaṃ) [resorting](samāśritya) [tvā](tvā)
+[form-meditation](mūrti-dhyāna) [resorting](samāśritya) [you](tvā) [****](*) [****](*) [****](*) [****](*) [****](*) [****](*)
 
 ## mukta-m0-p09-v221
-[living](jīvantamayatāṃ) [establish](sthāpya) [go](gacchetpadamanāmayam) [painless-path](padamanāmayam)
+[living](jīvanta) [immobility](mayatā) [having-established](sthāpya) [should-go](gacchet) [path](pada) [diseaseless](anāmaya)
 
 ## mukta-m0-p09-v222
-[thus](tadvattadātmako) [then](tadā) [yogi](yogī) [bindu](bindurmaṇiriva) [like-jewel](maṇiriva) [string](grathet)
+[thus](tadvat) [then-self](tadā-ātmaka) [yogi](yogī) [bindu](bindu) [jewel-like](maṇi-iva) [should-string](grathet)
 
 ## mukta-m0-p09-v223
-[filled](pūritaṃ) [by-breath-retention](kuṃbhakenaiva) [then](tadā) [upward-faced](cordhvamukhaṃ) [becomes](bhavet)
+[filled](pūrita) [by-breath-retention](kuṃbhakena-eva) [then](tadā) [upward-faced](ūrdhva-mukha) [should-become](bhavet)
 
 ## mukta-m0-p09-v224
-[sun-orb](sūryamaṇḍalamadhyasthā) [middle](madhyasthā) [moon](somaścāgneśca) [and-fire](agneśca) [middle-going](madhyagāḥ)
+[sun-orb-middle](sūrya-maṇḍala-madhya-sthā) [moon](somaḥ) [and](ca) [of-fire](agneḥ) [ca](ca) [middle-going](madhyagāḥ)
 
 ## mukta-m0-p09-v225
-[gross](sthūlañcākṣararūpeṇa) [letter-form](akṣararūpeṇa) [subtle](sūkṣmaṃ) [bindu-supported](bindusamāśritam)
+[gross](sthūla) [and](ca) [syllable-form](akṣara-rūpeṇa) [subtle](sūkṣma) [bindu-resorted](bindu-samāśrita)

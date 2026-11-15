@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "dvāpare",
+     "gloss": "in-dvapara-age",
+     "grounds": "locative of dvāpara age",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāradaṃśreṣṭhaṃ",
+     "gloss": "mercury-best",
+     "grounds": "fused accusative phrase pāradaṃ śreṣṭham",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pārthivaṃ",
+     "gloss": "earthen",
+     "grounds": "accusative adjective agreeing with implied liṅga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "locative of kali age",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yuge",
+     "gloss": "in-age",
+     "grounds": "locative of yuga",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which material is best in Dvapara age and which in Kali age?",
+   "premises": [
+    "mercury is best in dvapara age",
+    "earthen is used in kali age",
+    "ages determine material preference"
+   ],
+   "inference": "material efficacy varies by yuga",
+   "uncertainties": [
+    "verse fragment without explicit verb",
+    "compound pāradaṃśreṣṭhaṃ may be accusative or nominative"
+   ],
+   "plain_english": "In Dvapara age mercury is best, but in Kali age earthen is used."
+  }
+ ]
+}

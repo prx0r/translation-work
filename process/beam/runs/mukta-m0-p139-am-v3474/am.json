@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3474,
- "question": "Where or in what condition does this rite apply?",
+ "question": "Which bronze-born linga is worshipped for fame?",
  "premises": [
-  "courtyard is location",
-  "dead is condition",
-  "blood wound is condition"
+  "kīrtikāmorcayell.imgaṃ is action",
+  "sadākāṃsya samudbhavam is object"
  ],
- "inference": "The rite applies in courtyard, or for dead, or for blood wound.",
+ "inference": "The bronze-born linga is worshipped for fame.",
  "uncertainties": [
-  "exact rite unspecified"
+  "token contains spaces and punctuation"
  ],
- "plain_english": "Apply in courtyard, or for dead, or for blood wound."
+ "plain_english": "Worship the bronze-born linga for fame."
 }

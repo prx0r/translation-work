@@ -1,0 +1,599 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3576,
+   "rows": [
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral twelve",
+     "morph": "indecl."
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative these",
+     "morph": "pron.nom.pl.n"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "plural names",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "rahasyāni",
+     "gloss": "secret",
+     "grounds": "secret names",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessive your",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "aṃbike",
+     "gloss": "ambika",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Which twelve secret names of Ambika are being given?",
+   "premises": [
+    "twelve secret names are listed",
+    "they belong to Ambika",
+    "they are to be received"
+   ],
+   "inference": "The verse enumerates Ambika's twelve secret names.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "These twelve are your secret names, O Ambika."
+  },
+  {
+   "verse": 3577,
+   "rows": [
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "plural names",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative which",
+     "morph": "pron.nom.pl.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessive your",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "daily recitation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhaktibhāvataḥ",
+     "gloss": "with-devotion",
+     "grounds": "devotional attitude",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which names should the devotee recite daily with devotion?",
+   "premises": [
+    "names are specified",
+    "recitation is daily",
+    "devotion is required"
+   ],
+   "inference": "The verse prescribes daily devoted recitation of these names.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The names which are yours, O goddess, are to be recited daily with devotion."
+  },
+  {
+   "verse": 3578,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive his",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "bhītiḥ",
+     "gloss": "fear",
+     "grounds": "fear absent",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śatrubhyaḥ",
+     "gloss": "from-enemies",
+     "grounds": "ablative enemies",
+     "morph": "n.abl.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vyādhibhyaḥ",
+     "gloss": "from-diseases",
+     "grounds": "ablative diseases",
+     "morph": "n.abl.pl.m"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "ever absent",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What protections follow from daily devoted recitation?",
+   "premises": [
+    "fear from enemies is absent",
+    "fear from diseases is absent",
+    "this holds ever"
+   ],
+   "inference": "The devotee is protected from enemies and diseases.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "He has no fear from enemies or diseases ever."
+  },
+  {
+   "verse": 3579,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive his",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "ciṃtitakāryāṇi",
+     "gloss": "thought-desired-works",
+     "grounds": "desired works",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "sidhyaṃtyeva",
+     "gloss": "succeed",
+     "grounds": "certain success",
+     "morph": "3.pl.act-pres+eva"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "no doubt",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Do the desired works of such a devotee succeed without doubt?",
+   "premises": [
+    "desired works are his",
+    "they succeed indeed",
+    "no doubt remains"
+   ],
+   "inference": "The devotee's intended works succeed certainly.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "His desired works succeed indeed; there is no doubt."
+  },
+  {
+   "verse": 3580,
+   "rows": [
+    {
+     "surface": "rudraliṃgārcanaṃ",
+     "gloss": "rudra-linga-worship",
+     "grounds": "linga worship",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mukhyam",
+     "gloss": "chief",
+     "grounds": "chief among rites",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "āhur",
+     "gloss": "say",
+     "grounds": "declare",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "brahmins",
+     "grounds": "brahmin speakers",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "āstikāḥ",
+     "gloss": "devout",
+     "grounds": "devout brahmins",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What do devout brahmins declare chief among worship?",
+   "premises": [
+    "rudra linga worship is chief",
+    "devout brahmins say so",
+    "it is indeed chief"
+   ],
+   "inference": "Devout brahmins declare Rudra linga worship chief.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Devout brahmins say that Rudra linga worship is indeed chief."
+  },
+  {
+   "verse": 3581,
+   "rows": [
+    {
+     "surface": "tripuṃḍreṇavinādānaṃ",
+     "gloss": "without-tripundra-giving",
+     "grounds": "giving without tripundra",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "rākṣasaṃ",
+     "gloss": "demonic",
+     "grounds": "demonic quality",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that act",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "prakīrttitam",
+     "gloss": "declared",
+     "grounds": "declared as such",
+     "morph": "pp.nom.sg.n"
+    }
+   ],
+   "question": "What is declared demonic about giving without tripundra?",
+   "premises": [
+    "giving without tripundra is named",
+    "it is demonic",
+    "it is declared so"
+   ],
+   "inference": "Giving without tripundra is declared demonic.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Giving without tripundra is declared demonic."
+  },
+  {
+   "verse": 3582,
+   "rows": [
+    {
+     "surface": "tripuṃḍreṇavināvipro",
+     "gloss": "without-tripundra-brahmin",
+     "grounds": "brahmin lacking tripundra",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "adhikārī",
+     "gloss": "eligible",
+     "grounds": "not eligible",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "śivārcane",
+     "gloss": "shiva-worship",
+     "grounds": "for Shiva worship",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "Is a brahmin without tripundra eligible for Shiva worship?",
+   "premises": [
+    "brahmin lacks tripundra",
+    "he is not eligible",
+    "Shiva worship is at stake"
+   ],
+   "inference": "A brahmin without tripundra is ineligible for Shiva worship.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "A brahmin without tripundra is not eligible for Shiva worship."
+  },
+  {
+   "verse": 3583,
+   "rows": [
+    {
+     "surface": "dhig",
+     "gloss": "shame",
+     "grounds": "exclamation shame",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nīśārcanaṃ",
+     "gloss": "ishvara-worship",
+     "grounds": "Ishvara worship",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "birth shame",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dhig",
+     "gloss": "shame",
+     "grounds": "exclamation shame",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "knowledge shame",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "aśivāśrayām",
+     "gloss": "inauspicious-refuge",
+     "grounds": "inauspicious refuge",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What is condemned as inauspicious refuge?",
+   "premises": [
+    "shame is declared",
+    "birth and knowledge are shamed",
+    "inauspicious refuge is condemned"
+   ],
+   "inference": "Birth and knowledge taking inauspicious refuge are condemned.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Shame on birth and knowledge that take inauspicious refuge."
+  },
+  {
+   "verse": 3584,
+   "rows": [
+    {
+     "surface": "yāvaṃti",
+     "gloss": "as-many",
+     "grounds": "as many rites",
+     "morph": "pron.nom.pl.n"
+    },
+    {
+     "surface": "śrautakarmāṇi",
+     "gloss": "vedic-rites",
+     "grounds": "vedic rites",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "kriyaṃte",
+     "gloss": "are-done",
+     "grounds": "performed",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "daily performance",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvijaiḥ",
+     "gloss": "by-brahmins",
+     "grounds": "by brahmins",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "What daily vedic rites are performed by brahmins?",
+   "premises": [
+    "vedic rites are performed",
+    "performance is daily",
+    "brahmins perform them"
+   ],
+   "inference": "Brahmins perform daily vedic rites.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "As many vedic rites as are performed daily by brahmins."
+  },
+  {
+   "verse": 3585,
+   "rows": [
+    {
+     "surface": "bhasmadhāraṇahīnāṃgo",
+     "gloss": "ash-smeared-limb-lacking",
+     "grounds": "lacking ash-smeared limbs",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vipro",
+     "gloss": "brahmin",
+     "grounds": "brahmin subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future state",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "What if a brahmin lacks ash-smeared limbs?",
+   "premises": [
+    "brahmin lacks ash-smeared limbs",
+    "this is conditional",
+    "future state is considered"
+   ],
+   "inference": "The verse raises the case of a brahmin lacking ash-smeared limbs.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "If a brahmin will be lacking ash-smeared limbs."
+  },
+  {
+   "verse": 3586,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusion",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "all-effort",
+     "grounds": "with all effort",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tripuṃḍraṃ",
+     "gloss": "tripundra",
+     "grounds": "tripundra mark",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dhāryam",
+     "gloss": "to-be-worn",
+     "grounds": "must be worn",
+     "morph": "gerundive.acc.sg.n"
+    },
+    {
+     "surface": "anvaham",
+     "gloss": "daily",
+     "grounds": "daily wearing",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What must be worn daily with all effort?",
+   "premises": [
+    "therefore conclusion follows",
+    "tripundra must be worn",
+    "wearing is daily"
+   ],
+   "inference": "Tripundra must be worn daily with all effort.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Therefore tripundra must be worn daily with all effort."
+  },
+  {
+   "verse": 3587,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that person",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "brāhmaṇo",
+     "gloss": "brahmin",
+     "grounds": "true brahmin",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rājan",
+     "gloss": "king",
+     "grounds": "vocative king",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "truth declared",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "truth repeated",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "no doubt",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who alone is truly a brahmin?",
+   "premises": [
+    "he alone is brahmin",
+    "truth is declared twice",
+    "no doubt remains"
+   ],
+   "inference": "Only such a person is truly a brahmin.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "He alone is a brahmin, O king; truth, truth, no doubt."
+  }
+ ]
+}

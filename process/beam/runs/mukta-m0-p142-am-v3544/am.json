@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p142",
  "verse": 3544,
- "question": "In what proportion should the kapittha and bilva-resin powders be prepared?",
+ "question": "Which Rudras are declared in this list?",
  "premises": [
-  "Kapittha and bilva-resin are the two substances.",
-  "Both are to be taken as powders.",
-  "They must be made equal in measure."
+  "Bhīma is named",
+  "Ugra is named",
+  "Mahādeva is named",
+  "These Rudras are declared"
  ],
- "inference": "The two powders of kapittha and bilva-resin should be prepared in equal measure.",
- "uncertainties": [],
- "plain_english": "Make the two powders, kapittha and bilva-resin, equal in measure."
+ "inference": "Bhīma, Ugra, and Mahādeva are among the declared Rudras.",
+ "uncertainties": [
+  "Fused participle"
+ ],
+ "plain_english": "Bhīma, Ugra, and Mahādeva are declared as these Rudras."
 }

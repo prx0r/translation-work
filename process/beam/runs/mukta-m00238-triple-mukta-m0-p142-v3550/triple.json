@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3550,
+   "rows": [
+    {
+     "surface": "caturaśrāṃ samāṃbhūmiṃ",
+     "gloss": "four-cornered-even-ground",
+     "grounds": "accusative feminine singular noun phrase; internal space separates caturaśrāṃ from samāṃbhūmiṃ",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "liptvāgomayavāruṇā",
+     "gloss": "smearing-cow-dung-water",
+     "grounds": "liptvā is an absolutive meaning having smeared; gomayavāruṇā is instrumental feminine meaning with cow-dung water",
+     "morph": "abs+instr.sg.f"
+    }
+   ],
+   "question": "What kind of ground should be smeared with cow-dung water?",
+   "premises": [
+    "four-cornered even ground is specified",
+    "ground must be smeared with cow-dung water",
+    "preparation occurs in ritual context"
+   ],
+   "inference": "The prescribed ritual ground is a level four-cornered surface smeared with cow-dung water.",
+   "uncertainties": [
+    "token 1 contains an internal space not split per surface fidelity",
+    "exact syntactic relation of liptvā to ground is inferred"
+   ],
+   "plain_english": "Smear a level, four-cornered ground with cow-dung water."
+  }
+ ]
+}

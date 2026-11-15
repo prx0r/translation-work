@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p142",
  "verse": 3550,
- "question": "What specific material and measurement are prescribed to be taken in this ritual preparation?",
+ "question": "What kind of ground should be smeared with cow-dung water?",
  "premises": [
-  "Bark-essence is the material to be taken.",
-  "Only one portion of this material is specified.",
-  "The prescribed measure of this portion is two and a half fingers."
+  "four-cornered even ground is specified",
+  "ground must be smeared with cow-dung water",
+  "preparation occurs in ritual context"
  ],
- "inference": "Therefore, one portion of bark-essence measuring two and a half fingers must be taken.",
+ "inference": "The prescribed ritual ground is a level four-cornered surface smeared with cow-dung water.",
  "uncertainties": [
-  "The exact practical interpretation of the finger-based measure in this ritual context is not specified in the verse."
+  "token 1 contains an internal space not split per surface fidelity",
+  "exact syntactic relation of liptvā to ground is inferred"
  ],
- "plain_english": "Indeed, having taken one portion of bark-essence, measuring two and a half fingers."
+ "plain_english": "Smear a level, four-cornered ground with cow-dung water."
 }

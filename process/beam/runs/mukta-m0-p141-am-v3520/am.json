@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p141",
  "verse": 3520,
- "question": "Which goddess is invoked for constant protection of the adjacent direction?",
+ "question": "What sequence is prescribed for brahma sacrifice and libation?",
  "premises": [
-  "Mahavajreshvari is named as protector.",
-  "The adjacent direction is specified as the object of protection.",
-  "The protection is requested always."
+  "Brahma sacrifice is performed first.",
+  "Then libation should be done."
  ],
- "inference": "Mahavajreshvari is invoked to provide constant protection to the adjacent direction.",
- "uncertainties": [],
- "plain_english": "May Mahavajreshvari always protect the adjacent direction."
+ "inference": "The prescribed sequence is brahma sacrifice first, then libation.",
+ "uncertainties": [
+  "Compound internal sandhi not expanded."
+ ],
+ "plain_english": "Having performed brahma sacrifice first, then one should do libation."
 }
