@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[in-fields](kṣetreṣu) [field-protector](kṣetra+pālaṃ) [should-be](syāt) [in-assembly-place](sabhā+sthāne) [Sarasvati](sarasvatī)
+[in-fields](kṣetreṣu) [field-protector](kṣetrapālaṃ) [would-be](syāt) [in-assembly-place](sabhāsthāne) [sarasvatī](sarasvatī)
 
 ## mukta-m0-p79-v1952
-[thus](evameva) [offering](baliṃ) [should-make](kuryād) [on-offering-seat](bali+pīṭhe) [should-place](vinikṣipet)
+[thus](evameva) [offering](baliṃ) [should-make](kuryād) [on-offering-altar](balipīṭhe) [should-place](vinikṣipet)
 
 ## mukta-m0-p79-v1953
-[auspicious-rite](kautukaṃ) [after-offering](bali+dānānte) [should-do](kuryād) [village-circumambulation](grāma+pradakṣiṇam)
+[festival](kautukaṃ) [after-offering](balidānānte) [should-do](kuryād) [village-circumambulation](grāmapradakṣiṇam)
 
 ## mukta-m0-p79-v1954
-[with-various-peoples](nānā+jana+padaiḥ) [endowed](yuktaṃ) [with-various-banners](nānā+dhvaja) [accompanied](samanvitam)
+[with-various-peoples](nānājanapadairyuktaṃ) [with-various-banners](nānādhvaja+samanvitam)
 
 ## mukta-m0-p79-v1955
-[in-first](prathame) [and](ca) [banners](patākāḥ) [ca](ca) [in-second](dvitīye) [musicians](vādyakaḥ) [thus](tathā)
+[first](prathame) [and](ca) [banners](patākāśca) [second](dvitīye) [musicians](vādyakastathā)
 
 ## mukta-m0-p79-v1956
-[in-fifth](paṃcame) [dancers-and-instruments](nṛta+yantrāḥ) [ca](ca) [then](tadā) [staff-bearers](yaṣṭi+taṭātakān)
+[fifth](paṃcame) [dancers-instruments](nṛtayantrāśca) [then](tadā) [staff-bearers](yaṣṭitaṭātakān)
 
 ## mukta-m0-p79-v1957
-[in-ninth](navame) [tu](tu) [bull](vṛṣabhaṃ) [in-tenth](daśame) [then](tataḥ)
+[ninth](navame) [tu](tu) [vṛṣabha](vṛṣabhaṃ) [tenth](daśame) [then](tataḥ)
 
 ## mukta-m0-p79-v1958
-[begging-round](bhikṣā+ṭanaṃ) [after-that](tad+ante) [tu](tu) [half-woman](ardha+nārīṃ) [fourteenth](caturdaśa)
+[begging-round](bhikṣāṭanaṃ) [after-that](tadante) [tu](tu) [half-woman](ardhanārīṃ) [fourteenth](caturdaśa)
 
 ## mukta-m0-p79-v1959
-[in-sixteenth](ṣoḍaśe) [Hari-half](hari+ardhaṃ) [tu](tu) [after-that](tad+ante) [Kalah](kālahā) [should-go](vrajet)
+[sixteenth](ṣoḍaśe) [hari-half](harirardhaṃ) [tu](tu) [after-that](tadante) [kālahā](kālahā) [would-go](vrajet)
 
 ## mukta-m0-p79-v1960
-[above-image](bimba+ūrdhve) [tu](tu) [best-of-brahmins](vipra+indra) [Uma-shoulder-borne](umā+skanda+hitaṃ) [should-go](vrajet)
+[above-image](bimbakordhve) [tu](tu) [best-of-brahmins](viprendra) [umā-shoulder-benefit](umāskandahitaṃ) [would-go](vrajet)
 
 ## mukta-m0-p79-v1961
-[village-circumambulation](grāma+pradakṣiṇaṃ) [having-done](kṛtvā) [of-offering](bali+dānasya) [teacher](deśikaḥ)
+[village-circumambulation](grāmapradakṣiṇaṃ) [having-done](kṛtvā) [of-offering](balidānasya) [teacher](deśikaḥ)
 
 ## mukta-m0-p79-v1962
-[temple](ālayaṃ) [should-enter](praviśet) [learned](vidvān) [circumambulation](pariveṣam) [then](atha) [is-said](ucyate)
+[temple](ālayaṃ) [would-enter](praviśed) [learned](vidvān) [feast-then-said](pariveṣamathocyate)
 
 ## mukta-m0-p79-v1963
-[facing-south](dakṣiṇa+abhimukhaḥ) [or](vā) [api](api) [facing-east](pūrva+abhimukhaḥ) [eva](eva) [or](vā)
+[south-facing](dakṣiṇābhimukho) [or](vāpi) [east-facing](pūrvābhimukha) [eva](eva) [vā](vā)
 
 ## mukta-m0-p79-v1964
-[great-boundary](mahā+maryādau) [boundary](maryādau) [should-make](kuryāt) [noda](noda) [pavilion](maṇḍapam)
+[great-boundary](mahāmaryādau) [boundary](maryādau) [should-make](kuryānnoda) [pavilion](maṇḍapam)
 
 ## mukta-m0-p79-v1965
-[bathing](snānaṃ) [should-do](kuryāt) [tu](tu) [best-brahmin](vipra+indraṃ) [with-sandal-flowers-etc](gandha+puṣpa+ādinā) [should-worship](arcayet)
+[bathing](snānaṃ) [should-do](kuryāttu) [best-brahmin](viprendraṃ) [with-sandal-flowers-etc](gandhapuṣpādinā'rcayet)
 
 ## mukta-m0-p79-v1966
-[in-north](uttare) [king](nṛpatiṃ) [should-know](vidyāt) [two](dvau) [sides](pārśvau) [women](yoṣitaḥ) [should-place](nyaset)
+[north](uttare) [king](nṛpatiṃ) [know](vidyād) [two](dvau) [sides](pārśvau) [women](yoṣito) [place](nyaset)
 
 ## mukta-m0-p79-v1967
-[on-south](dakṣiṇena) [tu](tu) [of-Shaivas](śaivānāṃ) [in-north](uttare) [initiates](samayān) [smiling](smitān)
+[south](dakṣiṇena) [tu](tu) [of-śaivas](śaivānāṃ) [north](uttare) [smiling-companions](samayānsmitān)
 
 ## mukta-m0-p79-v1968
-[at-that-time](tat+kāle) [ca](ca) [eva](eva) [best-brahmin](vipra+indra) [with-previously-stated-rite](pūrva+ukta+vidhinā) [with](saha)
+[at-that-time](tatkāle) [ca](ca) [eva](eva) [best-brahmin](viprendra) [with-previously-said-rite](pūrvoktavidhinā) [saha](saha)
 
 ## mukta-m0-p79-v1969
-[should-worship](arcayet) [with-sandal-flowers-etc](gandha+puṣpa+ādyaiḥ) [should-give](dadyāt) [vai](vai) [incense-lamp](dhūpa+dīpakam)
+[should-worship](arcayed) [with-sandal-flowers-etc](gandhapuṣpādyaiḥ) [should-give](dadyādvai) [incense-lamp](dhūpadīpakam)
 
 ## mukta-m0-p79-v1970
-[separately](pṛthak) [in-vessels](pātre) [having-placed](vinikṣipya) [female-attendant](gaṇikā) [should-hold](dhārayet) [in-order](kramāt)
+[separately](pṛthak) [in-vessel](pātre) [placing](vinikṣipya) [courtesan](gaṇikā) [should-hold](dhārayetkramāt)
 
 ## mukta-m0-p79-v1971
-[thus](evameva) [in-manner](prakāreṇa) [day](dinaṃ) [each](prati) [should-perform](samācaret)
+[thus](evameva) [manner](prakāreṇa) [day](dinaṃ) [prati](prati) [should-perform](samācaret)
 
 ## mukta-m0-p79-v1972
-[thus](iti) [in-Viratantra](vīra+tantre) [consecration-rite](adhivāsana+vidhiḥ) [forty-seventh](saptacatvāriṃśaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-vīratantre](vīratantre) [adhi-vāsana-rite](adhivāsanavidhiḥ) [forty-seventh](saptacatvāriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p79-v1973
-[of-Rakshasas](rākṣasānāṃ) [tu](tu) [on-day](divase) [forest-procession](vana+yātrāṃ) [should-begin](samārabhet)
+[of-rākṣasas](rākṣasānāṃ) [tu](tu) [day](divase) [forest-procession](vanayātrāṃ) [should-begin](samārabhet)
 
 ## mukta-m0-p79-v1974
-[Tripurantaka-form](tripura+antaka+rūpaṃ) [should-go](gacchet) [weapon-bearer](āyudhakaṃ) [should-hold](dharet)
+[tripurāntaka-form](tripurāntakarūpaṃ) [would-go](gacchedāyudhakaṃ) [would-hold](dharet)
 
 ## mukta-m0-p79-v1975
-[some](kecit) [bow-bearers](dhanur+dharāḥ) [ca](ca) [eva](eva) [some](kecit) [sword-bearers](khaḍga+dharāḥ) [tathā](tathā)
+[some](keciddhanurdharāścaiva) [bow-bearers](keciddhanurdharāścaiva) [some](kecitkhaḍgadharāstathā) [sword-bearers](kecitkhaḍgadharāstathā)

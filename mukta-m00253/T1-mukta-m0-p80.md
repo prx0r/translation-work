@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-thus-even(evameva) by-day(divā) should-do(kuryād) at-night(rātrau) kautuka-binding(kautuka+bandhanam)
+[thus-thus](evameva) [day](divā) [do](kuryād) [night](rātrau) [kautuka+bandhanam](kautukabandhanam)
 
 ## mukta-m0-p80-v1977
-kautuka-and-also(kautukaṃ+ca+eva) trident-and(śūlaṃ+ca) should-increase(vardhayet) kautuka(kautukaṃ) by-heart(hṛdā)
+[kautuka](kautukaṃ) [and-also](caiva) [shula](śūlaṃ) [and](ca) [increase](vardhayet) [kautuka](kautukaṃ) [heart](hṛdā)
 
 ## mukta-m0-p80-v1978
-small-pot(sthalikāṃ) should-place(vinyaset) there(tatra) rice-grains(taṇḍulān) upon(upari) should-place(nyaset)
+[sthalika](sthalikāṃ) [place](vinyaset) [there](tatra) [rice](taṇḍulān) [upon](upari) [place](nyaset)
 
 ## mukta-m0-p80-v1979
-sandal-flowers-etc(gandha+puṣpa+ādinā) having-worshipped(abhyarcya) by-shrine(prāsādena) indeed(tu) with-mantra(mantrataḥ)
+[fragrance-flowers-etc](gandhapuṣpādinā) [by-worshiping](abhyarcya) [temple](prāsādena) [but](tu) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p80-v1980
-various-lamps(nānā+dīpa) endowed-with(samāyuktaṃ) various-instruments(nānā+vādya) accompanied-by(samanvitam)
+[various-lamps](nānādīpa) [endowed](samāyuktaṃ) [various-instruments](nānāvādya) [accompanied](samanvitam)
 
 ## mukta-m0-p80-v1981
-by-previously-spoken(pūrva+uktena) indeed(tu) mantra(mantra) trident(śūlaṃ) indeed(vai) should-bind(bandhayet) then(tataḥ)
+[by-previously-said](pūrvoktena) [but](tu) [by-mantra](mantreṇa) [shula](śūlaṃ) [indeed](vai) [bind](bandhayet) [then](tataḥ)
 
 ## mukta-m0-p80-v1982
-tirtha-collection(tīrtha+saṃgrahaṇaṃ) should-do(kuryāt) before-śiva(śiva+agre) pavilion(maṇṭapaṃ) then(tataḥ)
+[tirtha-collection](tīrthasaṃgrahaṇaṃ) [do](kuryāc) [shiva-before](śivāgre) [pavilion](maṇṭapaṃ) [then](tataḥ)
 
 ## mukta-m0-p80-v1983
-in-middle(madhyame) should-place(vinyaset) pot(kumbhaṃ) with-cloth(sa+vastraṃ) with-lid(sa+apidhānakam)
+[middle](madhyame) [place](vinyaset) [pot](kumbhaṃ) [with-cloth](savastraṃ) [with-lid](sāpidhānakam)
 
 ## mukta-m0-p80-v1984
-gold(hemaṃ) there-indeed(tatra+eva) having-deposited(nikṣipya) sandal-flowers-etc(gandha+puṣpa+ādinā) should-worship(arcayet)
+[gold](hemaṃ) [there-indeed](tatraiva) [deposit](nikṣipya) [fragrance-flowers-etc](gandhapuṣpādinā) [worship](arcayet)
 
 ## mukta-m0-p80-v1985
-on-bank(tīre) level(samatalaṃ) having-made(kṛtvā) should-place(sthāpayet) * * * then(tataḥ)
+[bank](tīre) [level](samatalaṃ) [make](kṛtvā) [place](sthāpayet) [*](*) [*](*) [*](*) [then](tataḥ)
 
 ## mukta-m0-p80-v1986
-direction-binding(dig+bandhanaṃ) indeed(tu) should-be-done(kartavyaṃ) by-astra-mantra(astra+mantreṇa) teacher(deśikaḥ)
+[direction-binding](digbandhanaṃ) [but](tu) [to-be-done](kartavyaṃ) [weapon-mantra](astramantreṇa) [teacher](deśikaḥ)
 
 ## mukta-m0-p80-v1987
-with-consecrated-pots(sādhita+aiḥ+kalaśaiḥ) there(tatra) trident(śūlaṃ) indeed(vai) should-bathe(snāpayet) then(tataḥ)
+[accomplished](sādhitaiḥ) [pots](kalaśaistatra) [shula](śūlaṃ) [indeed](vai) [bathe](snāpayet) [then](tataḥ)
 
 ## mukta-m0-p80-v1988
-thus(iti) in-vīra-tantra(vīra+tantre) procession-yātrā(yātrā) kautuka-rite(kautuka+vidhiḥ) forty-eighth(aṣṭa+catvāriṃśaḥ) chapter(paṭalaḥ)
+[thus](iti) [in-vira-tantra](vīratantre) [procession](yātrā) [kautuka-rite](kautukavidhiḥ) [thirty-eighth](aṣṭacatvāriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p80-v1989
-kautuka(kautukaṃ) after-bali-offering(bali+dāna+ante) should-do(kuryād) village-circumambulation(grāma+pradakṣiṇam)
+[kautuka](kautukaṃ) [after-offering](balidānānte) [do](kuryād) [village-circumambulation](grāmapradakṣiṇam)
 
 ## mukta-m0-p80-v1990
-of-kautuka(kautukasya) before(agre) or(vā) also(api) powder(cūrṇam) having-sprinkled(abhyukṣya) in-mortar(lūkhale)
+[kautuka](kautukasya) [before](agratas) [or](vāpi) [powder](cūrṇam) [sprinkle](abhyukṣya) [mortar](lūkhale)
 
 ## mukta-m0-p80-v1991
-cow-dung-plastering(gomaya+ālepanaṃ) having-done(kṛtvā) altar-ground(sthaṇḍilaṃ) with-rice(śālinā) make(kuru)
+[cow-dung-plastering](gomayālepanaṃ) [make](kṛtvā) [altar](sthaṇḍilaṃ) [rice](śālinā) [do](kuru)
 
 ## mukta-m0-p80-v1992
-lotus-eight-petaled(padmam+aṣṭa+dalaṃ) having-placed(nyasya) with-kuśa-grass(darbhaiḥ+ca+eva) should-surround(paristaret)
+[lotus](padmam) [eight-petaled](aṣṭadalaṃ) [place](nyasya) [kusha-and-also](darbhaiścaiva) [spread-around](paristaret)
 
 ## mukta-m0-p80-v1993
-plakṣa-udumbara-aśvattha(plakṣa+udumbara+aśvatthaṃ) foot(padaṃ) indeed(vai) not(na) tu(tu) mortar(lūkhalam)
+[plaksha-udumbara-ashvattha](plakṣodumbaramaśvatthaṃ) [foot](padaṃ) [indeed](vai) [not](na) [but](tu) [mortar](lūkhalam)
 
 ## mukta-m0-p80-v1994
-should-wash(kṣālayet) by-astra-mantra(astra+mantreṇa) should-place(sthāpayet) by-heart(hṛdayena) indeed(tu)
+[wash](kṣālayet) [weapon-mantra](astramantreṇa) [place](sthāpayet) [heart](hṛdayena) [but](tu)
 
 ## mukta-m0-p80-v1995
-mortar(lūkhale) * * having-placed(vinyasya) by-middle(madhyena) by-heart(hṛdayena) indeed(tu)
+[mortar](lūkhale) [*](*) [*](*) [place](vinyasya) [middle](madhyena) [heart](hṛdayena) [but](tu)
 
 ## mukta-m0-p80-v1996
-* * * with-fans(vyajanaiḥ+yuktaṃ) courtesan(gaṇikā) should-powder(cūrṇayet) then(tataḥ)
+[*](*) [*](*) [*](*) [fan-endowed](vyajanairyuktaṃ) [courtesan](gaṇikā) [powder](cūrṇayet) [then](tataḥ)
 
 ## mukta-m0-p80-v1997
-takkola(takkolaṃ) and-also(ca+eva) jāti(jātī) courtesan(gaṇikā) should-powder(cūrṇayet) then(tataḥ)
+[takkola](takkolaṃ) [and-also](caiva) [jasmine](jātī) [and](ca) [courtesan](gaṇikā) [powder](cūrṇayet) [then](tataḥ)
 
 ## mukta-m0-p80-v1998
-with-cloth(sa+vastra) with-gold(sa+hemasaṃyuktaṃ) sandal-flowers-etc(gandha+puṣpa+ādinā) should-worship(arcayet)
+[with-cloth](savastra) [gold-endowed](hemasaṃyuktaṃ) [fragrance-flowers-etc](gandhapuṣpādinā) [worship](arcayet)
 
 ## mukta-m0-p80-v1999
-at-root-image(mūla+bimbe) should-place(nyaset) there(tatra) powder(cūrṇaṃ) and-also(ca+eva) indeed(tu) oil(tailakam)
+[root-image](mūlabimbe) [place](nyaset) [there](tatra) [powder](cūrṇaṃ) [and-also](caiva) [but](tu) [oil](tailakam)
 
 ## mukta-m0-p80-v2000
-of-devotees(bhaktānāṃ) of-retinues(parivārāṇāṃ) powder(cūrṇaṃ) should-give(dadyāt) especially(viśeṣataḥ)
+[devotees](bhaktānāṃ) [attendants](parivārāṇāṃ) [powder](cūrṇaṃ) [give](dadyād) [especially](viśeṣataḥ)

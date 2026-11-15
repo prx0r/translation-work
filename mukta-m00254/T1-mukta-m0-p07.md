@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[bound-soul](paśu) [self](ātmā) [independent](svatantraḥ) [and](ca) [pure-consciousness](cinmātraḥ) [defiled-by-impurity](maladūṣitaḥ)
+[paśuḥ](paśurātmā) [svatantraḥ](svatantraśca) [cit-mātraḥ](cinmātro) [mala-dūṣitaḥ](maladūṣitaḥ)
 
 ## mukta-m0-p07-v152
-[of-the-self](ātmano) [pervasive](vyāpikaḥ) [infinite](anantā) [consciousness-form](cidrūpā) [corpse](śava) [remembered](smṛtāḥ)
+[ātmanaḥ](ātmano) [vyāpikaḥ](vyāpiko'nantā) [cit-rūpā](cidrūpā) [śavaḥ](śava) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p07-v153
-[māyā](māyā) [karma-impurity-cut](karmamalacchinnas) [with-all-powers](sakalas) [called](abhidhīyate)
+[māyā](māyā) [karma-mala-chinnaḥ](karmamalacchinnassakalasso'bhidhīyate) [sakalaḥ](sakalasso'bhidhīyate) [iti](sakalasso'bhidhīyate) [abhidhīyate](sakalasso'bhidhīyate)
 
 ## mukta-m0-p07-v154
-[impurity](mala) [desire-covered](kāmāvṛtaḥ) [who](yaḥ) [tu](tu) [he](saḥ) [becomes](bhavet) [pralayākala](pralayākalaḥ)
+[mala](mala) [kāma-āvṛtaḥ](kāmāvṛto) [yaḥ](yastu) [tu](yastu) [saḥ](sa) [bhavet](bhavetpralayākalaḥ) [pralaya-ākalaḥ](bhavetpralayākalaḥ)
 
 ## mukta-m0-p07-v155
-[in-the-kalā-tattva-level](kalātatvodhva) [in-the-world](bhuvane) [liberation](kaivalyaṃ) [may-arise](saṃbhavet) [of-the-bound-soul](paśoḥ)
+[kalā-tattva-ūrdhva](kalātatvodhva) [bhuvane](bhuvane) [kaivalyam](kaivalyaṃ) [saṃbhavet](saṃbhavetpaśoḥ) [paśoḥ](saṃbhavetpaśoḥ)
 
 ## mukta-m0-p07-v156
-[three-causes](upādānatrayaṃ) [this](etat) [cause](kāraṇaṃ) [thus](tam) [declared](udāhṛtam)
+[upādāna-trayam](upādānatrayaṃ) [etat](etat) [kāraṇam](kāraṇaṃ) [tam](tamudāhṛtam) [udāhṛtam](tamudāhṛtam)
 
 ## mukta-m0-p07-v157
-[gross](sthūla) [subtle](sūkṣmā) [supreme](parā) [thus-indeed](ityeva) [great-māyā](mahāmāyā) [becomes](bhavet) [threefold](tridhā)
+[sthūla](sthūla) [sūkṣmā](sūkṣmā) [parā](paretyeva) [iti](paretyeva) [eva](paretyeva) [mahā-māyā](mahāmāyā) [bhavet](bhavettridhā) [tri-dhā](bhavettridhā)
 
 ## mukta-m0-p07-v158
-[subtle-kalā-etc](sūkṣmakālādi) [principles](tattvānāṃ) [undivided](avibhāga) [own-nature](svarūpiṇī)
+[sūkṣma-kāla-ādi](sūkṣmakālādi) [tattvānām](tattvānāṃ) [avibhāga](avibhāga) [svarūpiṇī](svarūpiṇī)
 
 ## mukta-m0-p07-v159
-[mantra-source](maṃtrayoniḥ) [supreme](parā) [māyā](māyā) [eternal](nityā) [kuṇḍalinī](kuṇḍalinī) [indeed](tu) [which](yā)
+[mantra-yoniḥ](maṃtrayoniḥ) [parā](parā) [māyā](māyā) [nityā](nityā) [kuṇḍalinī](kuṇḍalinī) [tu](tu) [yā](yā)
 
 ## mukta-m0-p07-v160
-[in-the-pure-path](śuddhedhvani) [śiva](śivaḥ) [maker](kartā) [declared](proktaḥ) [ananta](anantaḥ) [in-the-white](site) [lord](prabhuḥ)
+[śuddha-adhvani](śuddhedhvani) [śivaḥ](śivaḥ) [kartā](kartā) [proktaḥ](prokto'nanto) [anantaḥ](prokto'nanto) [site](site) [prabhuḥ](prabhuḥ)
 
 ## mukta-m0-p07-v161
-[sadāśiva](sadāśivaḥ) [maheśa](maheśaḥ) [ca](ca) [rudra](rudraḥ) [ca](ca) [iti](iti) [threefold](tridhā) [considered](matā)
+[sadāśivaḥ](sadāśivo) [maheśaḥ](maheśaśca) [ca](maheśaśca) [rudraḥ](rudraśceti) [ca](rudraśceti) [iti](rudraśceti) [tri-dhā](tridhā) [matā](matā)
 
 ## mukta-m0-p07-v162
-[efficient-cause](nimittam) [called-īśvara](īśvarākhyaṃ) [that](yat) [seen](dṛṣṭaṃ) [together](saha) [with-cause](kāraṇam)
+[nimittam](nimittamīśvarākhyaṃ) [īśvara-ākhyam](nimittamīśvarākhyaṃ) [yat](yat) [tat](taddṛṣṭaṃ) [dṛṣṭam](taddṛṣṭaṃ) [saha](saha) [kāraṇam](kāraṇam)
 
 ## mukta-m0-p07-v163
-[that-action-causing](tatkāryakārikā) [power](śaktiḥ) [called-action](kriyākhyā) [subtle-form](sūkṣmarūpiṇī)
+[tat-kārya-kārikā](tatkāryakārikā) [śaktiḥ](śaktiḥ) [kriyā-ākhyā](kriyākhyā) [sūkṣma-rūpiṇī](sūkṣmarūpiṇī)
 
 ## mukta-m0-p07-v164
-[subtle](sūkṣmā) [pure-path-ending](śuddhādhvanigarāṃ) [gross](sthūla) [mixed-path-situated](miśrādhvasaṃsthitā)
+[sūkṣmā](sūkṣmā) [śuddha-adhva-nigarām](śuddhādhvanigarāṃ) [sthūla-miśra-adhva-saṃsthitā](sthūlamiśrādhvasaṃsthitā)
 
 ## mukta-m0-p07-v165
-[there](tatra) [words](śabdāḥ) [three](trayaḥ) [doors](dvāraḥ) [three](trayaḥ) [ca](ca) [meaning](artha) [spoken](samīritāḥ)
+[tatra](tatra) [śabdāḥ](śabdāstriyodvānaḥ) [tri-yodvanāḥ](śabdāstriyodvānaḥ) [trayaḥ](trayaścārtha) [ca](trayaścārtha) [artha](trayaścārtha) [samīritāḥ](samīritāḥ)
 
 ## mukta-m0-p07-v166
-[world-path](bhuvanādhvā) [ca](ca) [principle-path](tatvādhva) [kalā-path](kalādhvā) [meaning](artha) [from](taḥ) [in-order](kramāt)
+[bhuvana-adhvā](bhuvanādhvā) [ca](ca) [tattva-adhvā](tatvādhva) [kalā-adhvā](kalādhvārthataḥ) [arthataḥ](kalādhvārthataḥ) [kramāt](kramāt)
 
 ## mukta-m0-p07-v167
-[from-the-gross](sthūlāt) [five](pañca) [elements](bhūtāya) [presiding](adhiṣṭhātrī) [as](yathā) [so](tathā)
+[sthūlāt](sthūlātpañca) [pañca](sthūlātpañca) [bhūtāya](bhūtāya) [adhiṣṭhātrī](adhiṣṭhātrī) [yathā](yathā) [tathā](tathā)
 
 ## mukta-m0-p07-v168
-[gross](sthūlaṃ) [element-body](bhūtaśarīraṃ) [ca](ca) [subtle](sūkṣmaṃ) [puryaṣṭaka](puryaṣṭakaṃ) [becomes](bhavet)
+[sthūlam](sthūlaṃ) [bhūta-śarīram](bhūtaśarīrañca) [ca](bhūtaśarīrañca) [sūkṣmam](sūkṣmaṃ) [puri-aṣṭakam](puryaṣṭakaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p07-v169
-[āṇava](āṇavaṃ) [ca](ca) [eva](eva) [māyeya](māyeyaṃ) [karma](karmeyaṃ) [syāt](syāt) [three-impurities](malatrayam)
+[āṇavam](āṇavaṃ) [ca](caiva) [eva](caiva) [māyeyam](māyeyaṃ) [karmeyam](karmeyaṃ) [syāt](syāt) [mala-trayam](malatrayam)
 
 ## mukta-m0-p07-v170
-[innate](sahajaṃ) [impurity-connected](malasaṃbaddhaṃ) [alone](kevalaṃ) [thus](tam) [declared](udāhṛtam)
+[sahajam](sahajaṃ) [mala-saṃbaddham](malasaṃbaddhaṃ) [kevalam](kevalaṃ) [tam](tamudāhṛtam) [udāhṛtam](tamudāhṛtam)
 
 ## mukta-m0-p07-v171
-[māyeya](māyeyaṃ) [that](tad) [know](vijānīyā) [merit-sin-named-karma-born](puṇyapāpākhyakarmajam)
+[māyeyam](māyeyaṃ) [tat](tadvijānīyā) [vijānīyā](tadvijānīyā) [puṇya-pāpa-ākhya-karma-jam](puṇyapāpākhyakarmajam)
 
 ## mukta-m0-p07-v172
-[karma](karmeyaṃ) [threefold](trividhaṃ) [seen](dṛṣṭvā) [seen-birth-enjoyment](dṛṣṭajanmopabhogyakam)
+[karmeyam](karmeyaṃ) [tri-vidham](trividhaṃ) [dṛṣṭvā](dṛṣṭvā) [dṛṣṭa-janma-upabhogyakam](dṛṣṭajanmopabhogyakam)
 
 ## mukta-m0-p07-v173
-[that-birth](tajjanmani) [eva](eva) [fruit-giving](phalado) [seen-enjoyment](dṛṣṭabhogaṃ) [not](na) [released](mucyate)
+[tat-janmani](tajjanmanyeva) [eva](tajjanmanyeva) [phala-daḥ](phalado) [dṛṣṭa-bhogam](dṛṣṭabhogaṃ) [na](na) [mucyate](mucyate)
 
 ## mukta-m0-p07-v174
-[unseen-to-be-experienced](adṛṣṭavedanīyaṃ) [that](tat) [karma](karma) [said](uktaṃ) [in-śiva-view](śivadarśane)
+[adṛṣṭa-vedanīyam](adṛṣṭavedanīyaṃ) [tat](tat) [karma](karmoktaṃ) [uktam](karmoktaṃ) [śiva-darśane](śivadarśane)
 
 ## mukta-m0-p07-v175
-[ādhyātmika](adyātmam) [ādhibhautika](adhibhūtaṃ) [ca](ca) [ādidaivika](ādidaivikam) [eva](eva) [ca](ca)
+[adhyātmam](adyātmamadhibhūtañca) [adhibhūtam](adyātmamadhibhūtañca) [ca](adyātmamadhibhūtañca) [ādi-daivikam](ādidaivikameva) [eva](ādidaivikameva) [ca](ca)

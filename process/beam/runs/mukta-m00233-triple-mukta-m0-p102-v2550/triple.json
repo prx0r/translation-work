@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "locative of sthāna",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "harārdhe",
+     "gloss": "half-hara",
+     "grounds": "locative of harārdha",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsudevaṃ",
+     "gloss": "vāsudeva",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tathānyataḥ",
+     "gloss": "and-elsewhere",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should vāsudeva be placed relative to half-hara and elsewhere?",
+   "premises": [
+    "vāsudeva appears in accusative case",
+    "half-hara appears in locative case",
+    "elsewhere is named as additional location"
+   ],
+   "inference": "The verse directs placement of vāsudeva in relation to half-hara and elsewhere.",
+   "uncertainties": [
+    "Exact ritual operation remains unclear from isolated verse",
+    "Full syntactic relation is not fully recoverable"
+   ],
+   "plain_english": "In place, half-hara and vāsudeva, and elsewhere."
+  }
+ ]
+}

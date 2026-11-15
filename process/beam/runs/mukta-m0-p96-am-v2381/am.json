@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2381,
- "question": "What shape and quality describe the mandala decoration?",
+ "question": "Which places are given as possible ritual locations?",
  "premises": [
-  "The decoration is leaf-root-fruit-shaped.",
-  "It is heart-pleasing.",
-  "The forms are pleasing."
+  "bilva root is a location",
+  "cremation ground is a location",
+  "near that and forest place are locations"
  ],
- "inference": "The mandala decoration is shaped like leaf, root, and fruit and is heart-pleasing.",
+ "inference": "The verse lists bilva root, cremation ground, nearby place, or forest place.",
  "uncertainties": [
-  "Exact decorative placement is not stated."
+  "which location is preferred"
  ],
- "plain_english": "The decoration is shaped like leaf, root, and fruit and is heart-pleasing."
+ "plain_english": "At the bilva root, at the cremation ground, or near that in a forest place."
 }

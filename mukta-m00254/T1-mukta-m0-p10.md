@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[śāmbhavī-initiation](śāṃbhavī) [and-indeed](caiva) [śāktī-initiation](śāktī) [and](ca) [mantrī-initiation](mantrī) [and-thus](ceti) [in-śiva-āgama](śivāgame)
+[shambhavi](śāṃbhavī) [and](ca) [indeed](eva) [shakti](śāktī) [and](ca) [mantri](mantrī) [thus](iti) [in+shiva+agama](śivāgame)
 
 ## mukta-m0-p10-v227
-[by-guru's-glance](gururālokamātreṇa) [by-touch](sparśanāt) [by-speech](bhāṣaṇādapi)
+[guru](gurur) [by+mere+sight](ālokamātreṇa) [by+touch](sparśanāt) [by+speech](bhāṣaṇād) [also](api)
 
 ## mukta-m0-p10-v228
-[śakti-knowledge-bearing](śaktijñānavatī) [initiation](dīkṣā) [entering](praviśya) [disciple's-body](śiṣyadehaṃ) [and](ca)
+[shakti+jnana+possessing](śaktijñānavatī) [initiation](dīkṣā) [into+disciple+body](śiṣyadehaṃ) [entering](praviśya) [and](ca)
 
 ## mukta-m0-p10-v229
-[mantrī](mantrī) [action-bearing](kriyāvatī) [initiation](dīkṣā) [kuṇḍa-maṇḍala-preceded](kuṇḍamaṇḍalapūrvikā)
+[mantri](maṃtrī) [action+possessing](kriyāvatī) [initiation](dīkṣā) [kunda+mandala+preceded](kuṇḍamaṇḍalapūrvikā)
 
 ## mukta-m0-p10-v230
-[measure-maya](mānamayām) [iti-said](ityuktaṃ) [measure](pramāṇaṃ) [detail](vistaraṃ) [becomes](bhavet)
+[measure+mayam](mānamayām) [iti](ityuktaṃ) [measure](pramāṇaṃ) [detail](vistaraṃ) [becomes](bhavet)
 
 ## mukta-m0-p10-v231
-[measure-angula-first](mānāṅgulantu) [first](prathamaṃ) [measure-angula-second](mātrāṅgulyadvitīyakam)
+[measure+angula](mānāṅgulaṃ) [first](prathamaṃ) [matra+angula](mātrāṅgulaṃ) [second](dvitīyakam)
 
 ## mukta-m0-p10-v232
-[paramāṇu-below](paramāṇuradhaścaiva) [and](ca) [eva](eva) [hair-tip](piśukeśāgra) [eva](eva) [ca](ca)
+[paramanu](paramāṇu) [below](adhaś) [also](ca) [eva](eva) [in+hair+tip](piśukeśāgra) [eva](eva) [ca](ca)
 
 ## mukta-m0-p10-v233
-[measure-angula](mānāṃgulam) [iti-proclaimed](iti proktaṃ) [then](tato) [measure-angula](mātrāṅgulaṃ) [hear](śṛṇu)
+[measure+angula](mānāṃgulaṃ) [thus](iti) [proclaimed](proktaṃ) [then](tato) [matra+angula](mātrāṅgulaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p10-v234
-[joint-length-equal](parvadīrghasamaṃ) [not-I](nāhaṃ) [not-I](nāhaṃ) [threefold](trividham) [is-said](ucyate)
+[joint+long+equal](parvadīrghasamaṃ) [not](nāhaṃ) [not](nāhaṃ) [threefold](trividham) [called](ucyate)
 
 ## mukta-m0-p10-v235
-[village-etc-field-countable](grāmādyakṣetragaṇyeṣu) [measure-angula-rite](mānāṅgulavidhānataḥ)
+[village+etc](grāmādyakṣetragaṇyeṣu) [measure+angula+rule](mānāṅgulavidhānataḥ)
 
 ## mukta-m0-p10-v236
-[other-measure](anyamānaṃ) [not-to-be-done](na kartavyaṃ) [if-done](kartavyaṃ cettu) [fruitless](niṣphalam)
+[other+measure](anyamānaṃ) [not](na) [to+be+done](kartavyaṃ) [if+done](kṛtvā) [then](tu) [fruitless](niṣphalam)
 
 ## mukta-m0-p10-v237
-[excellent-etc-distinction](uttamādi vibhedena) [body-obtained](dehalabdhaṃ) [threefold](tridhā) [becomes](bhavet)
+[best+etc](uttamādi) [distinction](vibhedena) [body+obtained](dehalabdhaṃ) [threefold](tridhā) [becomes](bhavet)
 
 ## mukta-m0-p10-v238
-[thumb-ring-finger-joined](aṅguṣṭhānāmikā yuktaṃ) [vidhasti](vidhasti) [iti-called](iti cocyate)
+[thumb+ring+finger+joined](aṅguṣṭhānāmikā) [yuktaṃ](yuktaṃ) [vidhasti](vidhasti) [iti](iti) [ca](ca) [ucyate](ucyate)
 
 ## mukta-m0-p10-v239
-[prādeśa](prādeśaśca) [and](ca) [vidhasti](vidhastiśca) [and](ca) [go-ear](gokarṇaśca) [these](ime) [three](trayaḥ)
+[pradesha](prādeśaś) [ca](ca) [vidhasti](vidhastiś) [ca](ca) [gokarna](gokarṇaś) [ca](ca) [these](ime) [three](trayaḥ)
 
 ## mukta-m0-p10-v240
-[middle-thumb-joined](madhyamāṅguṣṭhasaṃyuktaṃ) [that-tāla](tattālam) [is-called](iti kathyate)
+[middle+thumb+joined](madhyamāṅguṣṭhasaṃyuktaṃ) [that](tad) [tala](tālaṃ) [iti](iti) [called](kathyate)
 
 ## mukta-m0-p10-v241
-[of-image](pratimāyāstu) [difficult-limit](dutsedhaṃ) [tāla-count](tālagaṇyena) [divide](bhājayet)
+[icon+of](pratimāyās) [tu](tu) [dutsedha](dutsedhaṃ) [tala+count](tālagaṇyena) [divide](bhājayet)
 
 ## mukta-m0-p10-v242
-[twenty-hundred](viṃśacchataṃ) [middle](madhyamantu) [little-finger](kanyasaṃ) [sixteen-etc](ṣoḍaśādikam)
+[twenty+hundred](viṃśacchataṃ) [middle](madhyamaṃ) [tu](tu) [little](kanyasaṃ) [sixteen+etc](ṣoḍaśādikam)
 
 ## mukta-m0-p10-v243
-[eight-hundred](aṣṭāśataṃ) [four-hundred](catuśśataṃ) [middle](madhyamaṃ) [little-finger](kanyasaṃ) [thus](tathā)
+[eight+hundred](aṣṭāśataṃ) [four+hundred](catuśśataṃ) [middle](madhyamaṃ) [little](kanyasaṃ) [tathā](tathā)
 
 ## mukta-m0-p10-v244
-[eight-tāla](aṣṭatālam) [this-proclaimed](idaṃ proktaṃ) [threefold](trividhaṃ) [as-before](pūrvavattataḥ)
+[eight+tala](aṣṭatālam) [idaṃ](idaṃ) [proclaimed](proktaṃ) [threefold](trividhaṃ) [as+before](pūrvavat) [tataḥ](tataḥ)
 
 ## mukta-m0-p10-v245
-[threefold](trividhaṃ) [ten-tāla](daśatālena) [three-forms](trimūrtīnāṃ) [declared](prakīrtitaḥ)
+[threefold](trividhaṃ) [ten+tala](daśatālena) [trimurti](trimūrtīnāṃ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p10-v246
-[eight-tāla](aṣṭatālena) [mortals](martyānāṃ) [seven-tāla](saptatālena) [protectors](rakṣatām)
+[eight+tala](aṣṭatālena) [mortals](martyānāṃ) [seven+tala](saptatālena) [rakshas](rakṣatām)
 
 ## mukta-m0-p10-v247
-[of-vāmana](vāmanasya) [thus-indeed](tathaiva) [syāt](syāt) [four-tāla](catustālantu) [of-bhūtas](bhūtakān)
+[vamana](vāmanasya) [tatha](tathaiva) [syāt](syāt) [four+tala](catustālaṃ) [tu](tu) [bhutas](bhūtakān)
 
 ## mukta-m0-p10-v248
-[egg-born](aṇḍajātaṃ) [thus](tathaikasya) [of-piśācas](piśācānāṃ) [especially](viśeṣataḥ)
+[egg+born](aṇḍajātaṃ) [tathā](tatha) [eka](ekasya) [pisachas](piśācānāṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p10-v249
-[small-large](alpe mahati vā) [equal](tulyaṃ) [fruit](phalam) [rich-poor](āḍhya daridrayoḥ)
+[small](alpe) [great](mahati) [vā](vā) [tulyaṃ](tulyaṃ) [fruit](phalam) [rich](āḍhya) [poor](daridrayoḥ)
 
 ## mukta-m0-p10-v250
-[two-parts](bhāgadvayañca) [for-dharma-artha](dharmārthaṃ) [since](yato) [always](nityaṃ) [indeed](hi) [life](jīvitam)
+[part+two](bhāgadvayañ) [ca](ca) [dharma+artha](dharmārthaṃ) [yato](yato) [nityaṃ](nityaṃ) [hi](hi) [jīvitam](jīvitam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[temple](prāsādaṃ) [destroyed](naṣṭam) [thus](evaṃ) [be](syāt) [temple](prāsādaṃ) [and](ca) [indeed](eva) [cause-make](kārayet)
+[temple](prāsādaṃ) [lost](naṣṭam) [thus](evaṃ) [be](syāt) [temple](prāsādaṃ) [and](ca) [also](eva) [make-let](kārayet)
 
 ## mukta-m0-p83-v2052
-[prior-place-gone](pūrvasthānagataṃ) [linga](liṃgaṃ) [other-place-gone](anyasthānagataṃ) [be](bhavet)
+[former-place](pūrva+sthāna) [gone](gataṃ) [liṅga](liṃgaṃ) [other-place](anya+sthāna) [gone](gataṃ) [be](bhavet)
 
 ## mukta-m0-p83-v2053
-[prior-region](pūrvadeśe) [movable](calaṃ) [linga](liṃgaṃ) [something-indeed](kiṃcideva) [but](tu) [established](saṃsthitam)
+[former-region](pūrva+deśe) [movable](calaṃ) [liṅga](liṃgaṃ) [somewhat](kiṃcit) [eva](eva) [then](tu) [established](saṃsthitam)
 
 ## mukta-m0-p83-v2054
-[linga](liṃgaṃ) [or](vā) [pedestal-thus](pīṭhamevaṃ) [or](vā) [cracked](sphuṭite) [burned-indeed](dagdhameva) [or](vā)
+[liṅga](liṃgaṃ) [or](vā) [pedestal](pīṭham) [thus](evaṃ) [vā](vā) [cracked](sphuṭite) [burnt](dagdham) [eva](eva) [vā](vā)
 
 ## mukta-m0-p83-v2055
-[removing-indeed](vyapohyaiva) [but](tu) [that-linga](talliṃgaṃ) [establish-new-linga](sthāpayennavaliṃgakam)
+[removing](vyapohya) [eva](eva) [then](tu) [that-liṅga](tad+liṃgaṃ) [establish](sthāpayet) [new-liṅga](nava+liṃgakam)
 
 ## mukta-m0-p83-v2056
-[that-linga](talliṃgaṃ) [establish-other-place-mark-endowed](sthāpayedanyaddeśilakṣaṇa) [endowed](saṃyutam)
+[that-liṅga](tad+liṃgaṃ) [establish](sthāpayet) [other](anyat) [deśa-lakṣaṇa](deśi+lakṣaṇa) [endowed](saṃyutam)
 
 ## mukta-m0-p83-v2057
-[water-sprinkling](jalasaṃprokṣaṇaṃ) [do](kuryāt) [mark-endowed](lakṣaṇanena) [with](samanvitam)
+[water-sprinkling](jala+saṃprokṣaṇaṃ) [do](kuryāt) [lakṣaṇa](lakṣaṇa) [with](nena) [endowed](samanvitam)
 
 ## mukta-m0-p83-v2058
-[jaggery](gulaṃ) [directly](sākṣāt) [honey-residue](madhūcchiṣṭaṃ) [with-sugar-juice](sajjarasamanvitam)
+[gula](gulaṃ) [directly](sākṣāt) [honey-residue](madhu+ucchiṣṭaṃ) [with-sajja-rasa](sajja+rasa+manvitam)
 
 ## mukta-m0-p83-v2059
-[water-sprinkling](jalasaṃprokṣaṇaṃ) [do](kuryāt) [nearby](samīpe) [bathing](snapanaṃ) [be](bhavet)
+[water-sprinkling](jala+saṃprokṣaṇaṃ) [do](kuryāt) [near](samīpe) [bathing](snapanaṃ) [be](bhavet)
 
 ## mukta-m0-p83-v2060
-[peace-homa](śāntihomaṃ) [indeed](tu) [cause-make](kārayet)
+[peace-homa](śānti+homaṃ) [then](tu) [make-let](kārayet)
 
 ## mukta-m0-p83-v2061
-[image](pratimasyāṃgahīnaṃ) [limb-lacking](tu) [by-artisan](śilpinā) [cause-make](kārayettataḥ)
+[image](pratimā) [limb-deficient](aṃga+hīnaṃ) [tu](tu) [by-artisan](śilpinā) [make-let](kārayet) [then](tataḥ)
 
 ## mukta-m0-p83-v2062
-[image](pratimāṃ) [and-indeed](caiva) [lord](deveśaṃ) [around](parito) [with-universe](viśvarairyutam)
+[image](pratimāṃ) [ca](ca) [eva](eva) [deveśa](deveśaṃ) [around](parito) [with-universe](viśva+raiḥ+yutam)
 
 ## mukta-m0-p83-v2063
-[having-offered](hutvā) [consecration-path](pratiṣṭhāmārgeṇa) [establish](sthāpayettadvadeva) [and](ca)
+[having-offered](hutvā) [consecration-path](pratiṣṭhā+mārgeṇa) [establish](sthāpayet) [likewise](tadvat) [eva](eva) [ca](ca)
 
 ## mukta-m0-p83-v2064
-[join-image](yojayetpratimāṃ) [brahmin-bathing](viprasnapanaṃ) [there](tatra) [cause-make](kārayet)
+[connect](yojayet) [image](pratimāṃ) [brāhmaṇa-bathing](vipra+snapanaṃ) [there](tatra) [make-let](kārayet)
 
 ## mukta-m0-p83-v2065
-[broken](bhinne) [and](ca) [cracked](sphuṭite) [and-indeed](caiva) [by-negligence-cutting](pramādācchedane) [also](api) [and](ca)
+[broken](bhinne) [ca](ca) [cracked](sphuṭite) [ca](ca) [eva](eva) [by-negligence](pramādāt) [cutting](chedane) [api](api) [ca](ca)
 
 ## mukta-m0-p83-v2066
-[water-sprinkling](jalasaṃprokṣaṇaṃ) [having-done](kṛtvā) [peace-homa](śāntihomaṃ) [indeed](tu) [cause-make](kārayet)
+[water-sprinkling](jala+saṃprokṣaṇaṃ) [having-done](kṛtvā) [peace-homa](śānti+homaṃ) [tu](tu) [make-let](kārayet)
 
 ## mukta-m0-p83-v2067
-[with-sandal-etc](sadyogandhādināpūjya) [shiva](śivamaṣṭaśataṃ) [japet](japet)
+[with-sadyogandha-etc](sadyo+gandha+ādinā) [having-worshipped](pūjya) [śiva](śivam) [eight-hundred](aṣṭa+śataṃ) [japet](japet)
 
 ## mukta-m0-p83-v2068
-[as-before](pūrvavatparimanyā) [or](vā) [sprinkling-etc](saṃprokṣaṇādi) [cause-make](kārayet)
+[as-before](pūrvavat) [parimanyā](parimanyā) [vā](vā) [sprinkling-etc](saṃprokṣaṇa+ādi) [do](kārayet)
 
 ## mukta-m0-p83-v2069
-[fever-etc-affliction](jvarādipīḍanaṃ) [do](kuryād) [pacification](upaśāntiṃ) [make](karoti) [and](ca)
+[fever-etc-affliction](jvara+ādi+pīḍanaṃ) [do](kuryāt) [pacification](upaśāntiṃ) [make](karoti) [ca](ca)
 
 ## mukta-m0-p83-v2070
-[four-directions](catudikṣu) [four-vedas](caturvedaiḥ) [do](kuryād) [study](adhyayanaṃ) [then](tataḥ)
+[four-directions](catuḥ+dikṣu) [four-vedas](catur+vedaiḥ) [do](kuryāt) [study](adhyayanaṃ) [then](tataḥ)
 
 ## mukta-m0-p83-v2071
-[samid-ghee-caru](samidājyacaruṃ) [parched-grain](lājā) [roasted-grain](saktuṃ) [and-indeed](caiva) [then](tu) [is-offered](hūyate)
+[samid-ājya-caru](samid+ājya+caruṃ) [lājā](lājā) [saktu](saktuṃ) [ca](ca) [eva](eva) [tu](tu) [offered](hūyate)
 
 ## mukta-m0-p83-v2072
-[hundred-eight](aṣṭottaraśataṃ) [and-indeed](caivaṃ) [offer](homayeddeśikottamaḥ)
+[eight-plus-hundred](aṣṭottara+śataṃ) [ca](ca) [evaṃ](evaṃ) [offer](homayet) [best-teacher](deśika+uttamaḥ)
 
 ## mukta-m0-p83-v2073
-[thus](evameva) [order](krameṇaiva) [seven-days](saptāhaṃ) [cause-make](kārayeddvijaḥ)
+[thus](evam) [eva](eva) [in-order](krameṇa) [eva](eva) [seven-days](saptāhaṃ) [do](kārayet) [brāhmaṇa](dvijaḥ)
 
 ## mukta-m0-p83-v2074
-[shaivas](śaivāṃśca) [feed](bhojayettatra) [with-left-service-attendants](savyaṣṭiparicārakān)
+[śaiva](śaivān) [ca](ca) [feed](bhojayet) [there](tatra) [with-savyaṣṭi-attendants](savyaṣṭi+paricārakān)
 
 ## mukta-m0-p83-v2075
-[day-end](dinānte) [and-indeed](caiva) [brahmin-lord](viprendra) [night](rātrau) [village-offering](grāmabaliṃ) [give](dadet)
+[day-end](dinānte) [ca](ca) [eva](eva) [brāhmaṇa-lord](viprendra) [night](rātrau) [village-offering](grāma+baliṃ) [give](dadet)

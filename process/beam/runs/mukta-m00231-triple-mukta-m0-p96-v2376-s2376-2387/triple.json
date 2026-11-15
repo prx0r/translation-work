@@ -1,0 +1,556 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2376,
+   "rows": [
+    {
+     "surface": "yaṣṭividdhaṃ",
+     "gloss": "staff-pierced",
+     "grounds": "compound adjective describing pierced state",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūlaviddhaṃ",
+     "gloss": "spear-pierced",
+     "grounds": "compound adjective describing pierced state",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "khaḍgaviddhaṃ",
+     "gloss": "sword-pierced",
+     "grounds": "compound adjective describing pierced state",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "payomṛtam",
+     "gloss": "milk-nectar",
+     "grounds": "compound noun naming substance",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which pierced forms and milk-nectar are named in this ritual list?",
+   "premises": [
+    "three pierced forms are listed",
+    "milk-nectar is named",
+    "the list is ritual in context"
+   ],
+   "inference": "The verse enumerates pierced forms together with milk-nectar.",
+   "uncertainties": [
+    "exact ritual use is not stated"
+   ],
+   "plain_english": "Staff-pierced, spear-pierced, sword-pierced, and milk-nectar."
+  },
+  {
+   "verse": 2377,
+   "rows": [
+    {
+     "surface": "taruṇaṃ",
+     "gloss": "youthful",
+     "grounds": "adjective describing person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sundaraṃ",
+     "gloss": "beautiful",
+     "grounds": "adjective describing person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūraṃ",
+     "gloss": "hero",
+     "grounds": "noun naming warrior",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "raṇe",
+     "gloss": "in-battle",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "naṣṭaṃ",
+     "gloss": "lost",
+     "grounds": "past participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samujjvalam",
+     "gloss": "radiant",
+     "grounds": "adjective describing person",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What qualities and battle fate are attributed to the hero?",
+   "premises": [
+    "the hero is youthful and beautiful",
+    "the hero is lost in battle",
+    "radiance is also attributed"
+   ],
+   "inference": "The verse praises a youthful beautiful hero lost in battle yet radiant.",
+   "uncertainties": [
+    "whether lost means slain or missing"
+   ],
+   "plain_english": "A youthful, beautiful, radiant hero lost in battle."
+  },
+  {
+   "verse": 2378,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghātayed",
+     "gloss": "should-kill",
+     "grounds": "causative optative verb",
+     "morph": "3.sg.act-opt + root ghāt"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "participial noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrāṇi",
+     "gloss": "mantras",
+     "grounds": "plural noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root varj"
+    }
+   ],
+   "question": "What restraint does the learned practitioner observe regarding killing and mantras?",
+   "premises": [
+    "the learned one should not kill oneself",
+    "mantras should be avoided there",
+    "the verse gives ritual restraint"
+   ],
+   "inference": "The learned practitioner must not kill himself and must avoid mantras there.",
+   "uncertainties": [
+    "the exact referent of there"
+   ],
+   "plain_english": "The learned one should not kill himself and should avoid mantras there."
+  },
+  {
+   "verse": 2379,
+   "rows": [
+    {
+     "surface": "anāturamṛtaṃ",
+     "gloss": "unafflicted-nectar",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṣṭhi",
+     "gloss": "leper",
+     "grounds": "noun naming person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptarātrordhvagaṃ",
+     "gloss": "seven-nights-upward-going",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What nectar, person, and upward-going condition are mentioned?",
+   "premises": [
+    "unafflicted nectar is named",
+    "a leper is named",
+    "seven-nights-upward-going is named"
+   ],
+   "inference": "The verse names unafflicted nectar, a leper, and a seven-night upward-going condition.",
+   "uncertainties": [
+    "syntactic relation among items"
+   ],
+   "plain_english": "Unafflicted nectar, a leper, and seven-nights-upward-going, thus."
+  },
+  {
+   "verse": 2380,
+   "rows": [
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive verb form",
+     "morph": "absolutive + root gṛh"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental compound noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūjāsthāne",
+     "gloss": "at-worship-place",
+     "grounds": "locative compound noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samānayet",
+     "gloss": "should-bring-together",
+     "grounds": "causative optative verb",
+     "morph": "3.sg.act-opt + root samān"
+    }
+   ],
+   "question": "What should be brought together at the worship place with the root mantra?",
+   "premises": [
+    "having taken something is implied",
+    "the root mantra is instrumental",
+    "the worship place is locative",
+    "bringing together is commanded"
+   ],
+   "inference": "After taking, one should bring together at the worship place by the root mantra.",
+   "uncertainties": [
+    "object of having-taken is omitted"
+   ],
+   "plain_english": "Having taken it, one should bring it together at the worship place with the root mantra."
+  },
+  {
+   "verse": 2381,
+   "rows": [
+    {
+     "surface": "bilvamūle",
+     "gloss": "at-bilva-root",
+     "grounds": "locative compound noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "at-cremation-ground",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamīpe",
+     "gloss": "near-that",
+     "grounds": "locative compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vanasthale",
+     "gloss": "in-forest-place",
+     "grounds": "locative compound noun",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which places are given as possible ritual locations?",
+   "premises": [
+    "bilva root is a location",
+    "cremation ground is a location",
+    "near that and forest place are locations"
+   ],
+   "inference": "The verse lists bilva root, cremation ground, nearby place, or forest place.",
+   "uncertainties": [
+    "which location is preferred"
+   ],
+   "plain_english": "At the bilva root, at the cremation ground, or near that in a forest place."
+  },
+  {
+   "verse": 2382,
+   "rows": [
+    {
+     "surface": "vīrārdanāṅkite",
+     "gloss": "hero-marked",
+     "grounds": "locative compound adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "illusion",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "moho",
+     "gloss": "delusion",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "passive present verb",
+     "morph": "3.sg.pass-pres + root vid"
+    }
+   ],
+   "question": "What is said not to exist on the hero-marked ground?",
+   "premises": [
+    "the ground is hero-marked",
+    "illusion and delusion are named",
+    "existence is denied"
+   ],
+   "inference": "On the hero-marked ground, illusion and delusion do not exist.",
+   "uncertainties": [
+    "exact meaning of hero-marked"
+   ],
+   "plain_english": "On the hero-marked ground, illusion and delusion do not exist."
+  },
+  {
+   "verse": 2383,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atretyādimantreṇa",
+     "gloss": "with-atretyādi-mantra",
+     "grounds": "instrumental compound noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "puṣpāñjaliṃ",
+     "gloss": "flower-offering",
+     "grounds": "accusative compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-cast",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root kṣip"
+    }
+   ],
+   "question": "Who should cast a flower offering on the ground with the atretyādi mantra?",
+   "premises": [
+    "those who are addressed",
+    "the atretyādi mantra is instrumental",
+    "flower offering is accusative",
+    "casting is commanded"
+   ],
+   "inference": "Those addressed should cast a flower offering on the ground with the atretyādi mantra.",
+   "uncertainties": [
+    "identity of ye"
+   ],
+   "plain_english": "Those should cast a flower offering on the ground with the atretyādi mantra."
+  },
+  {
+   "verse": 2384,
+   "rows": [
+    {
+     "surface": "māyāsphuradvayaṃ",
+     "gloss": "illusion-pulsing-pair",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasphuradvitayaṃ",
+     "gloss": "pulsing-pair",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What paired pulsing elements are repeated again?",
+   "premises": [
+    "illusion-pulsing-pair is named",
+    "pulsing-pair is named",
+    "again is repeated"
+   ],
+   "inference": "The verse names an illusion-pulsing pair and a pulsing pair, repeated again.",
+   "uncertainties": [
+    "exact ritual sequence"
+   ],
+   "plain_english": "The illusion-pulsing pair, again the pulsing pair, again."
+  },
+  {
+   "verse": 2385,
+   "rows": [
+    {
+     "surface": "caṭayugmaṃ",
+     "gloss": "caṭa-pair",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadante",
+     "gloss": "at-end-of-that",
+     "grounds": "locative compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pracaṭadvitayaṃ",
+     "gloss": "pracaṭa-pair",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What caṭa and pracaṭa pairs occur at the end of that?",
+   "premises": [
+    "caṭa-pair is named",
+    "at end of that is locative",
+    "pracaṭa-pair is named",
+    "again is stated"
+   ],
+   "inference": "At the end of that, a caṭa pair and a pracaṭa pair occur again.",
+   "uncertainties": [
+    "referent of that"
+   ],
+   "plain_english": "The caṭa pair, and at the end of that the pracaṭa pair, again."
+  },
+  {
+   "verse": 2386,
+   "rows": [
+    {
+     "surface": "ghātayadvitayaṃ",
+     "gloss": "killing-pair",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varmaphaḍanto",
+     "gloss": "armor-phaṭ-ending",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aghorako",
+     "gloss": "aghoramantra",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What killing pair and aghora mantra ending are described?",
+   "premises": [
+    "killing-pair is named",
+    "armor-phaṭ-ending is named",
+    "aghoramantra is named",
+    "mantra is named"
+   ],
+   "inference": "The verse describes a killing pair with armor-phaṭ ending and an aghora mantra.",
+   "uncertainties": [
+    "exact mantra construction"
+   ],
+   "plain_english": "The killing pair, armor-phaṭ ending, and the aghora mantra."
+  },
+  {
+   "verse": 2387,
+   "rows": [
+    {
+     "surface": "varmāstrānto",
+     "gloss": "armor-weapon-ending",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāmantraḥ",
+     "gloss": "great-mantra",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sudarśanasya",
+     "gloss": "of-sudarśana",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kīrttitaḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What great mantra of Sudarśana is declared with armor-weapon ending?",
+   "premises": [
+    "armor-weapon-ending is named",
+    "great-mantra is named",
+    "of Sudarśana is genitive",
+    "declared is stated"
+   ],
+   "inference": "The great mantra of Sudarśana is declared with armor-weapon ending.",
+   "uncertainties": [
+    "exact mantra text"
+   ],
+   "plain_english": "The great mantra of Sudarśana is declared with armor-weapon ending."
+  }
+ ]
+}

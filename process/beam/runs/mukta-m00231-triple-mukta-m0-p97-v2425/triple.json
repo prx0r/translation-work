@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2425,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayitvā",
+     "gloss": "having-made",
+     "grounds": "causative gerund of kṛ",
+     "morph": "caus.gerund (kṛ)"
+    },
+    {
+     "surface": "varam",
+     "gloss": "boon",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "should-request",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.opt.act (prārth)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What must a man do before requesting a boon after recitation?",
+   "premises": [
+    "truth must first be made",
+    "then the boon is requested",
+    "the man acts after recitation"
+   ],
+   "inference": "A man should request a boon only after having made truth.",
+   "uncertainties": [
+    "the exact object of satyaṃ kārayitvā is not explicit in this verse"
+   ],
+   "plain_english": "Then, having made truth, a man should request a boon."
+  }
+ ]
+}

@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2380,
- "question": "What colors are assigned to filaments and pedestal limbs?",
+ "question": "What should be brought together at the worship place with the root mantra?",
  "premises": [
-  "Filaments are yellow-red.",
-  "Pedestal limbs are white.",
-  "The colors are specified."
+  "having taken something is implied",
+  "the root mantra is instrumental",
+  "the worship place is locative",
+  "bringing together is commanded"
  ],
- "inference": "Filaments are yellow-red and pedestal limbs are white.",
+ "inference": "After taking, one should bring together at the worship place by the root mantra.",
  "uncertainties": [
-  "Exact number of filaments is not stated."
+  "object of having-taken is omitted"
  ],
- "plain_english": "The filaments are yellow-red and the pedestal limbs are white."
+ "plain_english": "Having taken it, one should bring it together at the worship place with the root mantra."
 }

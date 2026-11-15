@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-south+side and north+side circle make best-teacher
+[south](dakṣiṇe) [and-north](cottare) [circle](vṛttaṃ) [should-make](kārayet) [best+teacher](deśikottamaḥ)
 
 ## mukta-m0-p88-v2177
-corner+etc there thread and place best-teacher
+[corner-etc](koṇādi) [there](tatra) [thread](sūtraṃ) [and](ca) [should-place+best+teacher](vinyaseddeśikottamaḥ)
 
 ## mukta-m0-p88-v2178
-square's diagonal indeed take indeed best-brahmin
+[of-square](caturaśrasya) [diagonal](karṇaṃ) [indeed](tu) [should-take](grāhayet) [indeed](tu) [best+twice-born](dvijottamaḥ)
 
 ## mukta-m0-p88-v2179
-part one place east from-middle eastward rotate
+[part-one](bhāgamekaṃ) [should-place+east](nyasetpūrve) [from-middle](madhyāt) [east-etc](pūrvādi) [should-rotate](bhrāmayet)
 
 ## mukta-m0-p88-v2180
-eight-part-made field one-part indeed south
+[eight-part-made](aṣṭabhāgakṛtaṃ) [field](kṣetraṃ) [one-part](ekabhāgaṃ) [indeed](tu) [south](dakṣiṇe)
 
 ## mukta-m0-p88-v2181
-place indeed brahmin-lord by that measure thread
+[should-place+and+indeed](vinyaseccaiva) [best+lord](viprendra) [by-that](tena) [measure](mānena) [thread](sūtrakam)
 
 ## mukta-m0-p88-v2182
-seven-part-made field place east one-by-one
+[seven-part-made](saptabhāgakṛtaṃ) [field](kṣetraṃ) [should-place+east+one-by-one](vinyasetpūrvamekaśaḥ)
 
 ## mukta-m0-p88-v2183
-diagonal-half eightfold split diagonal-half accompanied
+[half-diagonal-eightfold](karṇārdhamaṣṭadhā) [having-divided](bhitvā) [with-half-diagonal](karṇārdhena) [joined](samanvitam)
 
 ## mukta-m0-p88-v2184
-small-part indeed field be east one place
+[small-part](likeśāṃśaṃ) [indeed](tu) [field](kṣetraṃ) [should-be](syāt) [east-by-one](pūrvamekena) [should-place](vinyaset)
 
 ## mukta-m0-p88-v2185
-field thirty-two-part indeed field-half indeed join
+[field](kṣetraṃ) [thirty-two-part](dvātriṃśadaṃśaṃ) [indeed](tu) [with-half-field](kṣetrārdhena) [indeed](tu) [should-join](yojayet)
 
 ## mukta-m0-p88-v2186
-eight-part-made field south and half-part-from
+[eight-part-made](vasubhāgakṛtaṃ) [field](kṣetraṃ) [south](dakṣiṇe) [and-half-part-from](cārdhabhāgataḥ)
 
 ## mukta-m0-p88-v2187
-therefrom middle take indeed make six-corner indeed and
+[from-that](tasmāt) [middle](madhyaṃ) [having-taken](gṛhītvā) [indeed](tu) [having-made](kṛtvā) [six-corner](ṣaṭkoṇam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p88-v2188
-south and north and one corner thus called
+[south](dakṣiṇe) [and](ca) [north](uttare) [and-one](caikaṃ) [corner](koṇam) [thus-called](ityabhidhīyate)
 
 ## mukta-m0-p88-v2189
-eight-petal equal make lotus-kunda here called
+[eight-petal-equal](aṣṭapatrasamaṃ) [having-made](kṛtvā) [lotus-kuṇḍa](padmakuṇḍam) [here-called](ihocyate)
 
 ## mukta-m0-p88-v2190
-inside indeed place four-directions especially
+[inside](abhyantare) [indeed](tu) [having-placed](vinyasya) [four-directions](caturdikṣu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p88-v2191
-mark corner take this inside indeed
+[mark](lāṃchanaṃ) [corner](koṇakaṃ) [having-taken](gṛhya) [this](etad) [of-inner](abhyantarasya) [indeed](tu)
 
 ## mukta-m0-p88-v2192
-or other-way kunda make indeed teacher
+[or](athavā) [other-way](anyaprakāreṇa) [kuṇḍa](kuṇḍaṃ) [should-make](kuryāt) [indeed](tu) [teacher](deśikaḥ)
 
 ## mukta-m0-p88-v2193
-girdle and make width height that-equal
+[rim](mekhalāṃ) [and](ca) [should-be-made](prakartavyaṃ) [width-height-equal](vistārotsedhatatsamam)
 
 ## mukta-m0-p88-v2194
-below girdle brahmin two-angula that here called
+[below](adhastāt) [rim](mekhalā) [brahmin](vipra) [two-angula](dvyaṃgulaṃ) [that-here-called](tadihocyate)
 
 ## mukta-m0-p88-v2195
-width four-angula seven-angula indeed length
+[width](vistāraṃ) [four-angula](caturaṃgulyaṃ) [seven-angula](saptāṃgulaṃ) [indeed](tu) [length](dairghyakam)
 
 ## mukta-m0-p88-v2196
-hand-measure dig earth width bottom same indeed
+[hand-measure](hastamātraṃ) [should-dig](khanet) [ground](bhūmiṃ) [width](vistāraṃ) [bottom-same](talameva) [indeed](tu)
 
 ## mukta-m0-p88-v2197
-middle navel arrange then one-angula indeed seat
+[middle](madhye) [navel](nābhiṃ) [having-fixed](prakalpya) [then](atha) [one-angula](ekāṃgulaṃ) [indeed](tu) [seat](viṣṭharam)
 
 ## mukta-m0-p88-v2198
-vajra shakti and staff and sword noose and goad
+[thunderbolt](vajraṃ) [spear](śaktiṃ) [and](ca) [staff](daṇḍaṃ) [and](ca) [sword](khaḍgaṃ) [noose](pāśaṃ) [and](tathā) [goad](aṃkuśam)
 
 ## mukta-m0-p88-v2199
-gold silver copper sacrificial tree indeed or
+[golden](sauvarṇaṃ) [silver](rājataṃ) [copper](tāmraṃ) [sacrificial](yājñikaṃ) [tree](vṛkṣam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p88-v2200
-vaikankata-made or make weapon supreme
+[of-vaikaṃkata](vaikaṃkatamayaṃ) [or](vā) [also](api) [should-make](kuryāt) [weapon](astram) [unsurpassed](anuttamam)

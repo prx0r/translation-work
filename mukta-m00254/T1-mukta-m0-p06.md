@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-where where according-to-rule by-which by-which and path
+[where](yatra) [where](yatra) [according-to-rule](yathānyāyaṃ) [by-which](yena) [by-which](yena) [and](ca) [path](vartmanā)
 
 ## mukta-m0-p06-v127
-as from-opposition all if tantra Śiva-natured
+[as](yathā) [from-opposition](virodhataḥ) [all](sarvaṃ) [if](yadi) [tantra](tantraṃ) [śiva-natured](śivātmakam)
 
 ## mukta-m0-p06-v128
-to-be-done if+to-be-performed Śaiva-dharma opposing that
+[to-be-done](kartavyaṃ) [if](ced) [to-be-performed](anuṣṭheyaṃ) [śaiva-duty](śaivadharma) [opposing](virodhi) [which](yat)
 
 ## mukta-m0-p06-v129
-to-be-accepted Vedic Śaiva opposing-Śaiva-statement that
+[to-be-accepted](saṃgrāhya) [vedic](vaidikaṃ) [śaiva](śaivaṃ) [śaiva-statement-opposing](śaivavākyavirodhi) [which](yat)
 
 ## mukta-m0-p06-v130
-vow-of-knowledge completed but having-taken its by-path
+[vidyā-vow](vidyāvrata) [completed](samāpte) [then](tu) [having-taken](gṛhītvā) [its](tasya) [path](vartmanā)
 
 ## mukta-m0-p06-v131
-indifferent practitioner and householder twofold may-be
+[indifferent](udāsīnassādhakaśca) [practitioner-and](udāsīnassādhakaśca) [householder](gṛhastho) [twofold](dvividho) [becomes](bhavet)
 
 ## mukta-m0-p06-v132
-debts three+having-repaid having-abandoned wife wealth-etc
+[debts](ṛṇāni) [three](trīṇyapākṛtya) [having-repaid](trīṇyapākṛtya) [having-abandoned](tyaktvā) [wife](bhāryā) [wealth-etc](dhanādikam)
 
 ## mukta-m0-p06-v133
-of-three of-stages but householder source is-called
+[of-three](trayāṇāmāśramāṇāntu) [āśramas](trayāṇāmāśramāṇāntu) [then](tu) [householder](gṛhastho) [womb](yonirucyate) [is-called](yonirucyate)
 
 ## mukta-m0-p06-v134
-of-childless world+empty of-childless whence happiness
+[of-sonless](aputrasya) [world-empty](jagacchūnyaṃ) [of-sonless](aputrasya) [whence-happiness](kutassukham)
 
 ## mukta-m0-p06-v135
-without-wife with-wife twofold+in-pleasing-Śiva
+[without-wife](apatnīkassapatnīko) [with-wife](apatnīkassapatnīko) [twofold](dvividhaśśivatoṣaṇe) [for-śiva-pleasing](dvividhaśśivatoṣaṇe)
 
 ## mukta-m0-p06-v136
-of-householder vow which that with-wife so indeed and
+[of-householder](gṛhasthasya) [vow](vrataṃ) [which](yattat) [that](yattat) [with-wife](sapatnīkastathaiva) [and-so](sapatnīkastathaiva) [also](ca)
 
 ## mukta-m0-p06-v137
-on-good-ground in-speech or also on-kuśa or on-bed+or
+[good-ground](subhūmau) [speech](vacane) [or](vāpi) [kuśa](kuśe) [or](vā) [bed](śayane'thavā) [or](śayane'thavā)
 
 ## mukta-m0-p06-v138
-having-done bathing at-three-times deity+fire+teacher+worship
+[having-done](kṛtvā) [bathing](snānaṃ) [three-times](trikāleṣu) [god-fire-guru-worship](devāgnigurupūjanam)
 
 ## mukta-m0-p06-v139
-state twofold declared pure+impure+by-distinction
+[states](avasthā) [twofold](dvividhā) [declared](proktā) [pure-impure-distinction](śuddhāśuddhavibhedataḥ)
 
 ## mukta-m0-p06-v140
-giving-birth+downward-facing may-be upward giving-liberation
+[world-giving](bhavapradā'dhomukhī) [downward-facing](bhavapradā'dhomukhī) [is](syāt) [upward](ūrdhvā) [liberation-giving](mokṣapradāyinī)
 
 ## mukta-m0-p06-v141
-each-one but twofold to-be-known desireless+desirous by-distinction
+[one-by-one](ekaikantu) [twofold](dvidhā) [to-be-known](jñeya) [desireless-desired](akāmākāma) [distinction](bhedataḥ)
 
 ## mukta-m0-p06-v142
-twofold in-self-done they-say penance for-purification
+[twofold](dviguṇaṃ) [for-own-deed](svakṛte) [they-say](prāhuḥ) [expiation](prāyaścitta) [for-purification](viśuddhaye)
 
 ## mukta-m0-p06-v143
-elemental+birth+of-sacrificers purification+twofold opinion
+[of-elemental-born](bhautikājjanmādhvarīṇāṃ) [sacrificers](bhautikājjanmādhvarīṇāṃ) [purification-twofold](śodhanadviguṇaṃ) [opinion](matam)
 
 ## mukta-m0-p06-v144
-near and so far to-be-abandoned+to-be-accepted indeed and
+[near](antikañca) [and](ca) [far](tathādūraṃ) [to-be-abandoned-to-be-accepted](heyopādānameva) [also](ca)
 
 ## mukta-m0-p06-v145
-contracted and scattered and true and untrue indeed and
+[gathered](saṃhṛtañca) [and](ca) [scattered](prakīrṇañca) [true](satyañcāsatyameva) [and](ca) [untrue](satyañcāsatyameva) [also](ca)
 
 ## mukta-m0-p06-v146
-pleasant and-indeed so pleasant today-tomorrow and so indeed and
+[pleasing](hṛdyaṃ) [and](caiva) [so](tathā) [pleasing](hṛdyaṃ) [today-tomorrow](adyaśvañca) [and-so](tathaiva) [also](ca)
 
 ## mukta-m0-p06-v147
-cold+hot and that declared pleasure+pain so indeed and
+[cold-hot](śītamuṣṇañca) [and](ca) [which-declared](yatproktaṃ) [pleasure-pain](sukhaduḥkhaṃ) [and-so](tathaiva) [also](ca)
 
 ## mukta-m0-p06-v148
-attachment+aversion and of-beings effort+laziness so indeed and
+[attachment-aversion](rāgadveṣañca) [and](ca) [of-beings](jantūnāṃ) [effort-laziness](yatnālasyaṃ) [and-so](tathaiva) [also](ca)
 
 ## mukta-m0-p06-v149
-well-situated ill-situated+and+indeed moving and immovable indeed and
+[well-situated](susthitaṃ) [ill-situated-and](dusthitañcaiva) [moving](calañcācalameva) [and](ca) [immovable](calañcācalameva) [also](ca)
 
 ## mukta-m0-p06-v150
-all this he indeed lord therefore other not is-found
+[all-this](sarvametatsa) [he](eveśa) [lord](eveśa) [therefore](tasmādanyaṃ) [other](tasmādanyaṃ) [not](na) [is-known](vidyate)

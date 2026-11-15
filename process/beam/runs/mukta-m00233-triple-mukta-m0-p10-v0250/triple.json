@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "stambhotsedhe",
+     "gloss": "pillar-height",
+     "grounds": "compound stambha-utsedha in locative sense",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrāṃśe",
+     "gloss": "rudra-portion",
+     "grounds": "compound rudra-aṃśa in locative sense",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "paṅktinandāṣṭabhāgike",
+     "gloss": "row-nanda-eight-part",
+     "grounds": "compound paṅkti-nanda-aṣṭa-bhāgika in locative sense",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ga",
+     "gloss": "ga",
+     "grounds": "abbreviated or symbolic token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure applies to pillar height in the rudra portion under the row-nanda-eight-part scheme?",
+   "premises": [
+    "Pillar height is being specified.",
+    "Rudra portion is the context.",
+    "Row-nanda-eight-part scheme governs."
+   ],
+   "inference": "The verse fixes a pillar-height value for the rudra portion.",
+   "uncertainties": [
+    "Exact numeric value of ga is unclear.",
+    "Whether ga abbreviates a larger term is unclear."
+   ],
+   "plain_english": "But in pillar height, in the rudra portion, under the row-nanda-eight-part scheme, ga."
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "mūlāgramadhyagulikamṛjubhittyantarārpaṇāt",
+     "gloss": "root-tip-middle-pellet-straight-wall",
+     "grounds": "fused compound ending in -āt ablative; internal members include root, tip, middle, pellet, straight, wall, between, placement",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What placement of the pellet between root tip and middle in a straight wall is being described?",
+   "premises": [
+    "The token names placement of a pellet.",
+    "It is in ablative case.",
+    "It refers to root tip middle straight wall."
+   ],
+   "inference": "The verse specifies an ablative placement relation among root tip middle pellet straight wall.",
+   "uncertainties": [
+    "Exact syntactic role of each compound member is unclear."
+   ],
+   "plain_english": "from the placement of the pellet between root, tip, and middle in a straight wall"
+  }
+ ]
+}

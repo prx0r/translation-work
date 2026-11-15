@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb continuing the preceding instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaṇḍa+niryūha+jhaṣa+pañjaram",
+     "gloss": "fragment-pediment-fish-cage",
+     "grounds": "compound of khaṇḍa, niryūha, jhaṣa, and pañjara; fused form transcribed whole",
+     "morph": "compound (khaṇḍa+niryūha+jhaṣa+pañjara)"
+    }
+   ],
+   "question": "What additional cage-like architectural element should be made in the same manner?",
+   "premises": [
+    "tathā means thus",
+    "khaṇḍa+niryūha+jhaṣa+pañjaram names a fragment-pediment-fish-cage",
+    "the verse continues the list of cage forms"
+   ],
+   "inference": "Thus a fragment-pediment-fish-cage is also to be made.",
+   "uncertainties": [
+    "exact architectural referent of niryūha and jhaṣa remains uncertain"
+   ],
+   "plain_english": "Thus [make] a fragment-pediment-fish-cage."
+  }
+ ]
+}
