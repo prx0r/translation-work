@@ -37,8 +37,20 @@ SVREAD = ROOT.parent / "svread" / "data" / "scholar"
 
 
 def registry_works() -> list[str]:
+    """Registry work names resolved through STATUS `alias_of` + deduped, so an
+    alias row (ipvv-vivrti-vimarsini -> ipvv) contributes the canonical work's
+    songs instead of none. Same resolution verify_core uses."""
+    from workcfg import resolve_alias
     reg = json.loads((ROOT / "REGISTRY.json").read_text(encoding="utf-8"))
-    return [w["work"] for w in reg["works"] if w.get("work")]
+    out, seen = [], set()
+    for w in reg["works"]:
+        if not w.get("work"):
+            continue
+        resolved = resolve_alias(w["work"])
+        if resolved not in seen:
+            seen.add(resolved)
+            out.append(resolved)
+    return out
 
 
 def load_core(path: str) -> dict:
