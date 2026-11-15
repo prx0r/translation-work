@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 112,
- "question": "Which facial openings are blocked with the fingers?",
+ "question": "Which implements are to be made here?",
  "premises": [
-  "fingers are used",
-  "mouth ear nose and eyes are named",
-  "blocking is performed"
+  "The token list names staff and spear.",
+  "The token list names black deer skin and fire."
  ],
- "inference": "the rite blocks the main facial openings with fingers",
- "uncertainties": [],
- "plain_english": "Blocking mouth, ear, nose, and eyes with the fingers."
+ "inference": "The unit prescribes making staff, spear, black deer skin, and fire implements.",
+ "uncertainties": [
+  "The exact deity context is not explicit in these tokens."
+ ],
+ "plain_english": "Make staff, spear, black deer skin, and fire."
 }

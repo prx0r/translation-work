@@ -1,0 +1,886 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2251,
+   "rows": [
+    {
+     "surface": "karambā",
+     "gloss": "karamba-herb",
+     "grounds": "ritual substance name",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ścoḍumbā",
+     "gloss": "and-udumba-herb",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "balā",
+     "gloss": "bala-herb",
+     "grounds": "ritual substance name",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "cātibalā",
+     "gloss": "and-atibala-herb",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which herbs are named for filling the ritual vessels in this sequence?",
+   "premises": [
+    "karamba and udumba are named",
+    "bala and atibala are named",
+    "thus marks the listed sequence"
+   ],
+   "inference": "The verse enumerates karamba, udumba, bala, and atibala as substances for the rite.",
+   "uncertainties": [
+    "exact sandhi of ścoḍumbā is not expanded"
+   ],
+   "plain_english": "Karamba, udumba, bala, and atibala are thus named."
+  },
+  {
+   "verse": 2252,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrākṣaṃ",
+     "gloss": "rudraksha-bead",
+     "grounds": "ritual substance",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-proper-order",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bead and ordering rule accompany the herb list?",
+   "premises": [
+    "rudraksha is named",
+    "and repeats the conjunction",
+    "proper order governs placement"
+   ],
+   "inference": "Rudraksha beads are included and arranged in proper order.",
+   "uncertainties": [
+    "exact bead count is not stated here"
+   ],
+   "plain_english": "And rudraksha beads are placed in proper order."
+  },
+  {
+   "verse": 2253,
+   "rows": [
+    {
+     "surface": "catvāriṃśacca",
+     "gloss": "forty-and",
+     "grounds": "fused numeral and conjunction",
+     "morph": "num.indecl."
+    },
+    {
+     "surface": "dravyairuktaiḥ",
+     "gloss": "with-stated-substances",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "one-should-fill-completely",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How many vessels are filled with the stated substances?",
+   "premises": [
+    "forty is stated",
+    "stated substances are used",
+    "complete filling is commanded"
+   ],
+   "inference": "Forty vessels are to be completely filled with the stated substances.",
+   "uncertainties": [
+    "the exact vessel type is supplied by context"
+   ],
+   "plain_english": "One should completely fill forty vessels with the stated substances."
+  },
+  {
+   "verse": 2254,
+   "rows": [
+    {
+     "surface": "hemakarpūrakuṅkumaiḥ",
+     "gloss": "with-gold-camphor-saffron",
+     "grounds": "compound instrumental plural",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "Which precious substances fill the vessels in this line?",
+   "premises": [
+    "gold is named",
+    "camphor is named",
+    "saffron is named"
+   ],
+   "inference": "Gold, camphor, and saffron are the substances used.",
+   "uncertainties": [
+    "whether these are mixed or separate is not explicit"
+   ],
+   "plain_english": "With gold, camphor, and saffron."
+  },
+  {
+   "verse": 2255,
+   "rows": [
+    {
+     "surface": "pañcamāvaraṇe",
+     "gloss": "in-fifth-enclosure",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tadvad",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāsaptatiśatadvayam",
+     "gloss": "two-hundred-seventy-two",
+     "grounds": "compound numeral",
+     "morph": "num.indecl."
+    }
+   ],
+   "question": "How many vessels are filled in the fifth enclosure?",
+   "premises": [
+    "fifth enclosure is named",
+    "likewise indicates same operation",
+    "two hundred seventy two is stated"
+   ],
+   "inference": "In the fifth enclosure, two hundred seventy two vessels are filled likewise.",
+   "uncertainties": [
+    "the exact substance list is carried from prior lines"
+   ],
+   "plain_english": "Likewise in the fifth enclosure, two hundred seventy two."
+  },
+  {
+   "verse": 2256,
+   "rows": [
+    {
+     "surface": "pūrayecchivasāvitryā",
+     "gloss": "one-should-fill-with-shiva-savitri",
+     "grounds": "fused verb and instrumental compound",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "prādakṣiṇyād",
+     "gloss": "clockwise",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the vessels filled with the Shiva Savitri mantra?",
+   "premises": [
+    "filling is commanded",
+    "clockwise direction is stated",
+    "rule governs the rite"
+   ],
+   "inference": "The vessels are filled with Shiva Savitri mantra clockwise according to rule.",
+   "uncertainties": [
+    "the exact mantra text is not given here"
+   ],
+   "plain_english": "One should fill them with Shiva Savitri, clockwise, according to rule."
+  },
+  {
+   "verse": 2257,
+   "rows": [
+    {
+     "surface": "gandhaṃ",
+     "gloss": "sandal-paste",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiraṇyaṃ",
+     "gloss": "gold",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "fused conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-place",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Which offerings are placed in the vessels?",
+   "premises": [
+    "sandal paste is named",
+    "gold is named",
+    "placement is commanded"
+   ],
+   "inference": "Sandal paste and gold are to be placed in the vessels.",
+   "uncertainties": [
+    "whether both go in every vessel is not explicit"
+   ],
+   "plain_english": "One should place sandal paste and gold."
+  },
+  {
+   "verse": 2258,
+   "rows": [
+    {
+     "surface": "syādīśāntaṃ",
+     "gloss": "from-isha-to-anta",
+     "grounds": "fused range expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramo'yaṃ",
+     "gloss": "this-order",
+     "grounds": "fused pronoun and noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "snapane'pi",
+     "gloss": "in-bathing-too",
+     "grounds": "fused locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does this same order apply to the bathing rite?",
+   "premises": [
+    "range from isha to anta is stated",
+    "this order is named",
+    "bathing is included"
+   ],
+   "inference": "The same order from isha to anta applies to bathing as well.",
+   "uncertainties": [
+    "the exact bathing procedure is not detailed here"
+   ],
+   "plain_english": "This order from isha to anta applies in bathing too."
+  },
+  {
+   "verse": 2259,
+   "rows": [
+    {
+     "surface": "agnirakṣonīleśāntaṃ",
+     "gloss": "from-agni-raksha-to-nilesha-anta",
+     "grounds": "fused range expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "snapayedapi",
+     "gloss": "one-should-bathe-too",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Which range of deities is filled and bathed in this operation?",
+   "premises": [
+    "range from agni raksha to nilesha anta is stated",
+    "filling is commanded",
+    "bathing is also commanded"
+   ],
+   "inference": "Vessels for the range from agni raksha to nilesha anta are filled and bathed.",
+   "uncertainties": [
+    "the exact deity list is compressed into the range"
+   ],
+   "plain_english": "One should fill and bathe from agni raksha to nilesha anta."
+  },
+  {
+   "verse": 2260,
+   "rows": [
+    {
+     "surface": "sadāśivādayaścāpi",
+     "gloss": "sadashiva-and-others-too",
+     "grounds": "fused compound with conjunction",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "śāntyatītādikāḥ",
+     "gloss": "beginning-with-shantyatita",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    }
+   ],
+   "question": "Which kalas are named after Sadashiva in this line?",
+   "premises": [
+    "sadashiva and others are named",
+    "shantyatita and following are named",
+    "kalas are the objects"
+   ],
+   "inference": "The kalas beginning with shantyatita after Sadashiva are included.",
+   "uncertainties": [
+    "the full list of kalas is not enumerated here"
+   ],
+   "plain_english": "Sadashiva and others, beginning with shantyatita, are kalas."
+  },
+  {
+   "verse": 2261,
+   "rows": [
+    {
+     "surface": "śivakumbhe",
+     "gloss": "in-shiva-pot",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "locative plural",
+     "morph": "adj.loc.pl.m"
+    },
+    {
+     "surface": "kalaśeṣvapi",
+     "gloss": "in-pots-too",
+     "grounds": "fused locative plural",
+     "morph": "n.loc.pl.m"
+    }
+   ],
+   "question": "Where are all the kalas placed?",
+   "premises": [
+    "shiva pot is named",
+    "all pots are included",
+    "too extends the operation"
+   ],
+   "inference": "All kalas are placed in the Shiva pot and in all pots.",
+   "uncertainties": [
+    "the exact distribution among pots is not specified"
+   ],
+   "plain_english": "But in the Shiva pot and in all pots too."
+  },
+  {
+   "verse": 2262,
+   "rows": [
+    {
+     "surface": "sarvatrāpi",
+     "gloss": "everywhere-too",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbheṣu",
+     "gloss": "in-pots",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "svarṇaṃ",
+     "gloss": "gold",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "māṣamitaṃ",
+     "gloss": "measured-as-masha",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-throw",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How much gold is placed in every pot?",
+   "premises": [
+    "everywhere and in pots are stated",
+    "gold is the substance",
+    "one masha measure is stated"
+   ],
+   "inference": "One masha of gold is to be placed in every pot.",
+   "uncertainties": [
+    "whether masha is weight or count is not explicit"
+   ],
+   "plain_english": "One should also place one masha of gold in every pot."
+  },
+  {
+   "verse": 2263,
+   "rows": [
+    {
+     "surface": "tridvyekaniṣkaṃ",
+     "gloss": "three-two-one-nishka",
+     "grounds": "compound numeral",
+     "morph": "num.indecl."
+    },
+    {
+     "surface": "śreṣṭhādyaṃ",
+     "gloss": "best-and-so-forth",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaghaṭe",
+     "gloss": "in-shiva-pot",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-throw",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How much gold is placed in the middle Shiva pot?",
+   "premises": [
+    "three two one nishka is stated",
+    "best and following is stated",
+    "middle shiva pot is named"
+   ],
+   "inference": "Three, two, or one nishka of gold is placed in the middle Shiva pot according to grade.",
+   "uncertainties": [
+    "the exact grade mapping is not explicit"
+   ],
+   "plain_english": "One should place three, two, or one nishka of gold in the middle Shiva pot."
+  },
+  {
+   "verse": 2264,
+   "rows": [
+    {
+     "surface": "śuddhatoyena",
+     "gloss": "with-pure-water",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "vastraṃ",
+     "gloss": "cloth",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kūrcaṃ",
+     "gloss": "brush",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāñcanam",
+     "gloss": "golden",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What cloth and brush items are used with pure water?",
+   "premises": [
+    "pure water is stated",
+    "cloth is named",
+    "brush is named",
+    "golden qualifies the items"
+   ],
+   "inference": "Pure water is used with cloth, brush, and golden items.",
+   "uncertainties": [
+    "whether golden modifies brush or cloth is not explicit"
+   ],
+   "plain_english": "With pure water, cloth, brush, and golden items."
+  },
+  {
+   "verse": 2265,
+   "rows": [
+    {
+     "surface": "aṣṭottarasahasrasya",
+     "gloss": "of-one-thousand-eight",
+     "grounds": "genitive compound numeral",
+     "morph": "num.gen.sg.n"
+    },
+    {
+     "surface": "prāgvacchivaghaṭaṃ",
+     "gloss": "as-before-shiva-pot",
+     "grounds": "fused adverb and accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "jalaiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.n"
+    }
+   ],
+   "question": "How is the Shiva pot filled as before?",
+   "premises": [
+    "one thousand eight is stated",
+    "shiva pot is named",
+    "waters are used"
+   ],
+   "inference": "The Shiva pot is filled with waters as before, in the amount of one thousand eight.",
+   "uncertainties": [
+    "the exact unit of one thousand eight is not explicit"
+   ],
+   "plain_english": "The Shiva pot is filled with waters as before, one thousand eight."
+  },
+  {
+   "verse": 2266,
+   "rows": [
+    {
+     "surface": "dravyairviṃśatibhiḥ",
+     "gloss": "with-twenty-substances",
+     "grounds": "fused instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many substances are used in order?",
+   "premises": [
+    "twenty substances are stated",
+    "in order is stated"
+   ],
+   "inference": "Twenty substances are used in order.",
+   "uncertainties": [
+    "the exact substance list is supplied by context"
+   ],
+   "plain_english": "With twenty substances, in order."
+  },
+  {
+   "verse": 2267,
+   "rows": [
+    {
+     "surface": "sakarpūraiḥ",
+     "gloss": "with-camphor",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "kusumānvitaiḥ",
+     "gloss": "with-flowers-included",
+     "grounds": "instrumental plural",
+     "morph": "adj.inst.pl.m"
+    }
+   ],
+   "question": "How are the vessels filled with camphor and flowers?",
+   "premises": [
+    "camphor is stated",
+    "filling is commanded",
+    "flowers are included"
+   ],
+   "inference": "The vessels are filled with camphor and flower-included substances.",
+   "uncertainties": [
+    "whether flowers are separate or mixed is not explicit"
+   ],
+   "plain_english": "One should fill them with camphor and flowers included."
+  },
+  {
+   "verse": 2268,
+   "rows": [
+    {
+     "surface": "tṛtīyāvaraṇaproktairmālyaṅgādyaiḥ",
+     "gloss": "with-third-enclosure-stated-garlands-limbs-and-so-forth",
+     "grounds": "fused compound",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "one-should-fill-completely",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Which third-enclosure items fill the vessels?",
+   "premises": [
+    "third enclosure is stated",
+    "garlands limbs and so forth are named",
+    "complete filling is commanded"
+   ],
+   "inference": "The vessels are completely filled with third-enclosure garlands, limbs, and related items.",
+   "uncertainties": [
+    "the exact item list is compressed"
+   ],
+   "plain_english": "One should completely fill them with third-enclosure garlands, limbs, and so forth."
+  },
+  {
+   "verse": 2269,
+   "rows": [
+    {
+     "surface": "dvitīyāvaraṇoditaiḥ",
+     "gloss": "with-second-enclosure-stated",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "Which enclosure's stated items are used here?",
+   "premises": [
+    "second enclosure is stated",
+    "stated items are implied"
+   ],
+   "inference": "Items stated for the second enclosure are used.",
+   "uncertainties": [
+    "the verb and object are carried from the previous line"
+   ],
+   "plain_english": "With items stated for the second enclosure."
+  },
+  {
+   "verse": 2270,
+   "rows": [
+    {
+     "surface": "śiṣṭāśītiprasaṃkhyānāṃ",
+     "gloss": "of-remaining-eighty-counted",
+     "grounds": "genitive compound",
+     "morph": "adj.gen.pl.m"
+    },
+    {
+     "surface": "navakānāṃ",
+     "gloss": "of-nine-groups",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-proper-order",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the remaining eighty nine-groups arranged?",
+   "premises": [
+    "remaining eighty is stated",
+    "nine groups are stated",
+    "proper order governs"
+   ],
+   "inference": "The remaining eighty nine-groups are arranged in proper order.",
+   "uncertainties": [
+    "the exact grouping is not explicit"
+   ],
+   "plain_english": "The remaining eighty nine-groups, in proper order."
+  },
+  {
+   "verse": 2271,
+   "rows": [
+    {
+     "surface": "nadīmṛdādikairdravyaiḥ",
+     "gloss": "with-river-clay-and-other-substances",
+     "grounds": "fused instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "pūrayed",
+     "gloss": "one-should-fill",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "vyomavidyayā",
+     "gloss": "with-sky-knowledge",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg.f"
+    }
+   ],
+   "question": "How are the vessels filled with river clay and sky knowledge?",
+   "premises": [
+    "river clay and other substances are stated",
+    "filling is commanded",
+    "sky knowledge is stated"
+   ],
+   "inference": "The vessels are filled with river clay and other substances by sky knowledge.",
+   "uncertainties": [
+    "the exact role of sky knowledge is not explicit"
+   ],
+   "plain_english": "One should fill them with river clay and other substances by sky knowledge."
+  },
+  {
+   "verse": 2272,
+   "rows": [
+    {
+     "surface": "tatastrayāṇāṃ",
+     "gloss": "then-of-three",
+     "grounds": "fused adverb and genitive",
+     "morph": "num.gen.pl.m"
+    },
+    {
+     "surface": "vyūhānāṃ",
+     "gloss": "of-arrays",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "dikkoṇāntāṃstu",
+     "gloss": "corner-ending-and",
+     "grounds": "fused accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "diksthitān",
+     "gloss": "placed-in-directions",
+     "grounds": "accusative plural participle",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "Which three arrays are placed at the corners and directions?",
+   "premises": [
+    "three arrays are stated",
+    "corner ending is stated",
+    "direction placed is stated"
+   ],
+   "inference": "The three arrays are placed at corners and in directions.",
+   "uncertainties": [
+    "the exact three arrays are supplied by context"
+   ],
+   "plain_english": "Then the three arrays, corner-ending and direction-placed."
+  },
+  {
+   "verse": 2273,
+   "rows": [
+    {
+     "surface": "pūrvoktadravyamantraiśca",
+     "gloss": "with-previously-stated-substances-and-mantras",
+     "grounds": "fused instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "sandhisthānapi",
+     "gloss": "junction-places-too",
+     "grounds": "fused locative plural",
+     "morph": "n.loc.pl.n"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How are junction places filled?",
+   "premises": [
+    "previously stated substances and mantras are used",
+    "junction places are named",
+    "filling is commanded"
+   ],
+   "inference": "Junction places are filled with previously stated substances and mantras.",
+   "uncertainties": [
+    "the exact junction places are not enumerated here"
+   ],
+   "plain_english": "One should fill junction places too with previously stated substances and mantras."
+  },
+  {
+   "verse": 2274,
+   "rows": [
+    {
+     "surface": "ekaviṃśatike",
+     "gloss": "in-twenty-one",
+     "grounds": "locative singular",
+     "morph": "num.loc.sg.m"
+    },
+    {
+     "surface": "vyūhe",
+     "gloss": "in-array",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "madhyakumbhaṃ",
+     "gloss": "middle-pot",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbahiḥ",
+     "gloss": "outside-that",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the middle pot in the twenty-one array?",
+   "premises": [
+    "twenty one array is stated",
+    "middle pot is named",
+    "outside that is stated"
+   ],
+   "inference": "In the twenty-one array, the middle pot is placed outside that.",
+   "uncertainties": [
+    "the exact spatial relation is compressed"
+   ],
+   "plain_english": "In the twenty-one array, the middle pot and outside that."
+  }
+ ]
+}

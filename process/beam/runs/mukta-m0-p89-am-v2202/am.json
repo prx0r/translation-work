@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2202,
- "question": "How many finger-joints constitute the measure called ratni?",
+ "question": "How many vessels are filled with gold-water?",
  "premises": [
-  "The ratni is a recognized unit of measure.",
-  "It is defined in terms of finger-joints.",
-  "Its value is twenty-one finger-joints."
+  "Twelve and eight counted vessels are named.",
+  "Gold-water fills them.",
+  "The filling is prescribed."
  ],
- "inference": "A ratni should be understood as equivalent to twenty-one finger-joints.",
- "uncertainties": [],
- "plain_english": "A ratni is to be known as twenty-one finger-joints."
+ "inference": "Twelve and eight vessels are filled with gold-water.",
+ "uncertainties": [
+  "Whether the count is twenty or separate groups is unclear."
+ ],
+ "plain_english": "Fill twelve and eight counted vessels with gold-water."
 }

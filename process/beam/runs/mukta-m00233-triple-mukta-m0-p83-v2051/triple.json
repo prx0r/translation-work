@@ -1,0 +1,914 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2051,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "compound of tad + bāhya",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "ca + api sandhi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paritastatastritripadāntaram",
+     "gloss": "around-then-three-triple-pad-interval",
+     "grounds": "compound of paritas + tatas + tri + tri + pada + antara",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "How are the outer three-triple-pad intervals arranged around the central array?",
+   "premises": [
+    "outer interval surrounds central array",
+    "three triple pad units are specified",
+    "arrangement is spatial and ordered"
+   ],
+   "inference": "The verse prescribes an outer ring of three-triple-pad intervals around the central structure.",
+   "uncertainties": [
+    "exact ritual referent of pad remains context-dependent"
+   ],
+   "plain_english": "Outside that, and also around, there are three-triple-pad intervals."
+  },
+  {
+   "verse": 2052,
+   "rows": [
+    {
+     "surface": "syurmadhyame",
+     "gloss": "in-middle",
+     "grounds": "syuh + madhyame sandhi",
+     "morph": "v.3pl.act-pres+root-as"
+    },
+    {
+     "surface": "vyūhe",
+     "gloss": "in-array",
+     "grounds": "locative of vyūha",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "pañcakānyatha",
+     "gloss": "fives-then",
+     "grounds": "pañcaka + atha",
+     "morph": "n.n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of krama",
+     "morph": "n.m.abl.sg"
+    }
+   ],
+   "question": "How are the fivefold units placed in the middle array?",
+   "premises": [
+    "middle array contains fivefold units",
+    "placement follows order",
+    "units are plural"
+   ],
+   "inference": "The fivefold units are to be set in the middle array in proper order.",
+   "uncertainties": [
+    "whether pañcaka refers to five pots or five cells"
+   ],
+   "plain_english": "In the middle array there are fives, then, in order."
+  },
+  {
+   "verse": 2053,
+   "rows": [
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "locative plural of koṇa",
+     "morph": "n.m.loc.pl"
+    },
+    {
+     "surface": "vikāranavakaṃ",
+     "gloss": "modification-nine",
+     "grounds": "compound of vikāra + navaka",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where are the nine modifications placed separately?",
+   "premises": [
+    "nine modifications are specified",
+    "they are placed in corners",
+    "placement is separate"
+   ],
+   "inference": "The nine modifications are to be placed separately in the corners.",
+   "uncertainties": [
+    "exact meaning of vikāra in this ritual context"
+   ],
+   "plain_english": "In the corners, the nine modifications are placed separately."
+  },
+  {
+   "verse": 2054,
+   "rows": [
+    {
+     "surface": "bāhyanavakaṃ",
+     "gloss": "outer-nine",
+     "grounds": "compound of bāhya + navaka",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "locative plural of caturdik",
+     "morph": "n.f.loc.pl"
+    },
+    {
+     "surface": "vilopayet",
+     "gloss": "remove",
+     "grounds": "causative optative of vilup",
+     "morph": "v.3sg.act-opt+root-lup"
+    }
+   ],
+   "question": "What is removed in the four directions from the outer nine?",
+   "premises": [
+    "outer nine is specified",
+    "four directions are specified",
+    "removal is commanded"
+   ],
+   "inference": "The outer nine is to be removed in the four directions.",
+   "uncertainties": [
+    "whether removal means omission or clearing"
+   ],
+   "plain_english": "Remove the outer nine in the four directions."
+  },
+  {
+   "verse": 2055,
+   "rows": [
+    {
+     "surface": "koṭimadhyasthamevaṃ",
+     "gloss": "corner-middle-standing-thus",
+     "grounds": "compound of koṭi + madhya + stha + evam",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "padasahasrakam",
+     "gloss": "pad-thousand",
+     "grounds": "compound of pada + sahasraka",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "What thousand-pad unit stands in the corner-middle?",
+   "premises": [
+    "corner-middle standing unit is specified",
+    "thousand pad units are specified",
+    "thus indicates prescribed arrangement"
+   ],
+   "inference": "A thousand-pad unit is to stand in the corner-middle position.",
+   "uncertainties": [
+    "whether pada means step, foot, or ritual unit"
+   ],
+   "plain_english": "Thus a thousand-pad unit stands in the corner-middle."
+  },
+  {
+   "verse": 2056,
+   "rows": [
+    {
+     "surface": "bāhye",
+     "gloss": "outer",
+     "grounds": "locative of bāhya",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "śiṣṭapaṅktidvayena",
+     "gloss": "remaining-row-pair",
+     "grounds": "compound of śiṣṭa + paṅkti + dvaya",
+     "morph": "n.n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What remains in the outer area by a pair of rows?",
+   "premises": [
+    "outer area is specified",
+    "remaining row pair is specified",
+    "but marks contrast"
+   ],
+   "inference": "In the outer area, a remaining pair of rows is used.",
+   "uncertainties": [
+    "whether śiṣṭa means leftover or selected"
+   ],
+   "plain_english": "But in the outer area, by a remaining pair of rows."
+  },
+  {
+   "verse": 2057,
+   "rows": [
+    {
+     "surface": "kalaśāstatpuṭeṣu",
+     "gloss": "pots-in-those-folds",
+     "grounds": "compound of kalaśa + tat + puṭa",
+     "morph": "n.m.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where are the pots placed indeed?",
+   "premises": [
+    "pots are specified",
+    "those folds are specified",
+    "indeed affirms placement"
+   ],
+   "inference": "The pots are to be placed in those folds.",
+   "uncertainties": [
+    "number of pots not stated in this verse"
+   ],
+   "plain_english": "Indeed the pots are in those folds."
+  },
+  {
+   "verse": 2058,
+   "rows": [
+    {
+     "surface": "tripañcāśatpuṭe",
+     "gloss": "three-fifty-fold",
+     "grounds": "compound of tri + pañcāśat + puṭa",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "kṣetre",
+     "gloss": "in-field",
+     "grounds": "locative of kṣetra",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "madhyasthanavakeṃ",
+     "gloss": "middle-standing-nine",
+     "grounds": "compound of madhya + stha + navaka",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "'mbujam",
+     "gloss": "lotus",
+     "grounds": "sandhi form of ambujam",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "What lotus stands in the middle of the three-fifty-fold field?",
+   "premises": [
+    "three-fifty-fold field is specified",
+    "middle-standing nine is specified",
+    "lotus is specified"
+   ],
+   "inference": "A lotus stands in the middle of the three-fifty-fold field.",
+   "uncertainties": [
+    "whether navaka modifies lotus or field"
+   ],
+   "plain_english": "In the three-fifty-fold field, a lotus stands in the middle."
+  },
+  {
+   "verse": 2059,
+   "rows": [
+    {
+     "surface": "dikkoṣṭhamekaikaṃ",
+     "gloss": "direction-cell-each",
+     "grounds": "compound of dik + koṣṭha + ekaika",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "lumped",
+     "gloss": "remove",
+     "grounds": "verb form",
+     "morph": "v.3sg.act-opt+root-lup"
+    },
+    {
+     "surface": "dvāraprasiddhaye",
+     "gloss": "door-accomplishment-for",
+     "grounds": "compound of dvāra + prasiddhi + e",
+     "morph": "n.f.dat.sg"
+    }
+   ],
+   "question": "Why is each directional cell removed?",
+   "premises": [
+    "each directional cell is specified",
+    "removal is commanded",
+    "door accomplishment is the purpose"
+   ],
+   "inference": "Each directional cell is removed for the accomplishment of the door.",
+   "uncertainties": [
+    "whether lumped is a variant of lumpet"
+   ],
+   "plain_english": "Remove each directional cell for the accomplishment of the door."
+  },
+  {
+   "verse": 2060,
+   "rows": [
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paṅktiṃ",
+     "gloss": "row",
+     "grounds": "accusative of paṅkti",
+     "morph": "n.f.acc.sg"
+    },
+    {
+     "surface": "vīthyarthaṃ",
+     "gloss": "street-purpose",
+     "grounds": "compound of vīthi + artha",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "parimārjayet",
+     "gloss": "clean",
+     "grounds": "optative of parimṛj",
+     "morph": "v.3sg.act-opt+root-mṛj"
+    }
+   ],
+   "question": "What row is cleaned around for street purpose?",
+   "premises": [
+    "row is specified",
+    "cleaning is commanded",
+    "street purpose is specified"
+   ],
+   "inference": "The row around is to be cleaned for the purpose of the street.",
+   "uncertainties": [
+    "whether parimārjayet means clean or polish"
+   ],
+   "plain_english": "Clean the row around for the street purpose."
+  },
+  {
+   "verse": 2061,
+   "rows": [
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lopyā",
+     "gloss": "removable",
+     "grounds": "feminine adjective",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "paṅktistu",
+     "gloss": "row-but",
+     "grounds": "paṅkti + tu",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "vīthaye",
+     "gloss": "for-street",
+     "grounds": "dative of vīthi",
+     "morph": "n.f.dat.sg"
+    }
+   ],
+   "question": "Which removable row is for the street?",
+   "premises": [
+    "removable row is specified",
+    "street is the purpose",
+    "but marks contrast"
+   ],
+   "inference": "The removable row is for the street.",
+   "uncertainties": [
+    "whether lopyā means removable or to be removed"
+   ],
+   "plain_english": "But the removable row is for the street."
+  },
+  {
+   "verse": 2062,
+   "rows": [
+    {
+     "surface": "dvāravīthyarthaṃ",
+     "gloss": "door-street-purpose",
+     "grounds": "compound of dvāra + vīthi + artha",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outer",
+     "grounds": "locative of bāhya",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "vīthyāṃ",
+     "gloss": "in-street",
+     "grounds": "locative of vīthi",
+     "morph": "n.f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "optative of yuj",
+     "morph": "v.3sg.act-opt+root-yuj"
+    }
+   ],
+   "question": "How is the door-street purpose joined in the outer street?",
+   "premises": [
+    "door-street purpose is specified",
+    "outer street is specified",
+    "joining is commanded"
+   ],
+   "inference": "The door-street purpose is to be joined in the outer street.",
+   "uncertainties": [
+    "whether yojayet means join or appoint"
+   ],
+   "plain_english": "Join the door-street purpose in the outer street."
+  },
+  {
+   "verse": 2063,
+   "rows": [
+    {
+     "surface": "antastripaṅktīḥ",
+     "gloss": "inside-three-rows",
+     "grounds": "compound of antas + tri + paṅkti",
+     "morph": "n.f.acc.pl"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahāvīthīstu",
+     "gloss": "great-street-but",
+     "grounds": "mahāvīthi + tu",
+     "morph": "n.f.acc.pl"
+    },
+    {
+     "surface": "mārjayet",
+     "gloss": "clean",
+     "grounds": "optative of mṛj",
+     "morph": "v.3sg.act-opt+root-mṛj"
+    }
+   ],
+   "question": "What three inner rows are cleaned around the great street?",
+   "premises": [
+    "three inner rows are specified",
+    "great street is specified",
+    "cleaning is commanded"
+   ],
+   "inference": "The three inner rows around the great street are to be cleaned.",
+   "uncertainties": [
+    "whether mārjayet means clean or wipe"
+   ],
+   "plain_english": "Clean the three inner rows around the great street."
+  },
+  {
+   "verse": 2064,
+   "rows": [
+    {
+     "surface": "rakṣedaṣṭadiśāsvaṣṭau",
+     "gloss": "protect-eight-directions-eight",
+     "grounds": "compound of rakṣa + aṣṭa + diś + aṣṭa",
+     "morph": "v.3sg.act-opt+root-rakṣ"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative plural of tad",
+     "morph": "pron.loc.pl"
+    },
+    {
+     "surface": "sandhighaṭān",
+     "gloss": "junction-knots",
+     "grounds": "compound of sandhi + ghaṭa",
+     "morph": "n.m.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "optative of ni-as",
+     "morph": "v.3sg.act-opt+root-as"
+    }
+   ],
+   "question": "What eight junction-knots are protected and placed in them?",
+   "premises": [
+    "eight directions are specified",
+    "eight junction-knots are specified",
+    "placement is commanded"
+   ],
+   "inference": "Eight junction-knots are to be protected and placed in the eight directions.",
+   "uncertainties": [
+    "whether rakṣedaṣṭadiśāsvaṣṭau is one fused verb phrase"
+   ],
+   "plain_english": "Protect and place eight junction-knots in the eight directions."
+  },
+  {
+   "verse": 2065,
+   "rows": [
+    {
+     "surface": "tattvakoṣṭhāni",
+     "gloss": "truth-cells",
+     "grounds": "compound of tattva + koṣṭha",
+     "morph": "n.n.acc.pl"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "establishing",
+     "grounds": "absolutive of saṃ-sthā",
+     "morph": "abs+root-sthā"
+    },
+    {
+     "surface": "lopyaṃ",
+     "gloss": "removable",
+     "grounds": "neuter adjective",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "paṅktidvayaṃ",
+     "gloss": "row-pair",
+     "grounds": "compound of paṅkti + dvaya",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of krama",
+     "morph": "n.m.abl.sg"
+    }
+   ],
+   "question": "What removable row pair is established after the truth-cells?",
+   "premises": [
+    "truth-cells are established",
+    "removable row pair is specified",
+    "order is specified"
+   ],
+   "inference": "After establishing the truth-cells, a removable row pair is set in order.",
+   "uncertainties": [
+    "whether lopyaṃ means removable or to be removed"
+   ],
+   "plain_english": "Having established the truth-cells, set the removable row pair in order."
+  },
+  {
+   "verse": 2066,
+   "rows": [
+    {
+     "surface": "kṛtisaṃkhyāni",
+     "gloss": "work-number",
+     "grounds": "compound of kṛti + saṃkhyā",
+     "morph": "n.n.acc.pl"
+    },
+    {
+     "surface": "tannandapadānyantarvilopayet",
+     "gloss": "that-bliss-pad-inner-remove",
+     "grounds": "compound of tat + ānanda + pada + antar + vilopayet",
+     "morph": "v.3sg.act-opt+root-lup"
+    }
+   ],
+   "question": "What inner bliss-pads are removed by work-number?",
+   "premises": [
+    "work-number is specified",
+    "that bliss-pads are specified",
+    "inner removal is commanded"
+   ],
+   "inference": "The inner bliss-pads are to be removed according to work-number.",
+   "uncertainties": [
+    "whether kṛti means work or square"
+   ],
+   "plain_english": "Remove the inner bliss-pads by work-number."
+  },
+  {
+   "verse": 2067,
+   "rows": [
+    {
+     "surface": "paṅktitrayaṃ",
+     "gloss": "row-three",
+     "grounds": "compound of paṅkti + traya",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outer",
+     "grounds": "locative of bāhya",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "paṅktimekāṃ",
+     "gloss": "row-one",
+     "grounds": "compound of paṅkti + ekā",
+     "morph": "n.f.acc.sg"
+    },
+    {
+     "surface": "vilopayet",
+     "gloss": "remove",
+     "grounds": "optative of vilup",
+     "morph": "v.3sg.act-opt+root-lup"
+    }
+   ],
+   "question": "What outer three rows and one row are removed?",
+   "premises": [
+    "outer three rows are specified",
+    "one row is specified",
+    "removal is commanded"
+   ],
+   "inference": "The outer three rows and one row are to be removed.",
+   "uncertainties": [
+    "whether paṅktimekāṃ is separate or part of paṅktitrayaṃ"
+   ],
+   "plain_english": "Remove the outer three rows and one row."
+  },
+  {
+   "verse": 2068,
+   "rows": [
+    {
+     "surface": "prārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive of pra-ārabh",
+     "morph": "abs+root-rabh"
+    },
+    {
+     "surface": "paṅktirekā",
+     "gloss": "row-one",
+     "grounds": "compound of paṅkti + ekā",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "compound of yathā + krama",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does one row proceed from the beginning in order?",
+   "premises": [
+    "beginning is specified",
+    "one row is specified",
+    "order is specified"
+   ],
+   "inference": "One row proceeds from the beginning in proper order.",
+   "uncertainties": [
+    "whether prārabhya modifies row or removal"
+   ],
+   "plain_english": "Beginning with one row, in order."
+  },
+  {
+   "verse": 2069,
+   "rows": [
+    {
+     "surface": "tattvakoṣṭhānāṃ",
+     "gloss": "truth-cells",
+     "grounds": "genitive plural of tattvakoṣṭha",
+     "morph": "n.n.gen.pl"
+    },
+    {
+     "surface": "dvādaśātra",
+     "gloss": "twelve-here",
+     "grounds": "dvādaśa + atra",
+     "morph": "n.n.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "indeed",
+     "grounds": "present of bhū",
+     "morph": "v.3pl.act-pres+root-bhū"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many truth-cells are there here?",
+   "premises": [
+    "truth-cells are specified",
+    "twelve is specified",
+    "here is specified"
+   ],
+   "inference": "There are twelve truth-cells here.",
+   "uncertainties": [
+    "whether dvādaśātra means twelve here or twelve in this"
+   ],
+   "plain_english": "Here there are indeed twelve truth-cells."
+  },
+  {
+   "verse": 2070,
+   "rows": [
+    {
+     "surface": "antarvyūhe",
+     "gloss": "inner-array",
+     "grounds": "compound of antar + vyūha",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "kṛtighaṭā",
+     "gloss": "work-knot",
+     "grounds": "compound of kṛti + ghaṭa",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "dvitīye",
+     "gloss": "second",
+     "grounds": "locative of dvitīya",
+     "morph": "adj.m.loc.sg"
+    },
+    {
+     "surface": "sāṣṭakaṃ",
+     "gloss": "with-eight",
+     "grounds": "compound of sa + aṣṭaka",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "accusative of śata",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "How many work-knots are in the second inner array?",
+   "premises": [
+    "inner array is specified",
+    "work-knot is specified",
+    "second is specified",
+    "with-eight hundred is specified"
+   ],
+   "inference": "In the second inner array there are one hundred eight work-knots.",
+   "uncertainties": [
+    "whether sāṣṭakaṃ modifies śatam or kṛtighaṭā"
+   ],
+   "plain_english": "In the second inner array, one hundred eight work-knots."
+  },
+  {
+   "verse": 2071,
+   "rows": [
+    {
+     "surface": "sandhiṣvaṣṭau",
+     "gloss": "in-junctions-eight",
+     "grounds": "compound of sandhi + aṣṭa",
+     "morph": "n.m.loc.pl"
+    },
+    {
+     "surface": "caturthe",
+     "gloss": "fourth",
+     "grounds": "locative of caturtha",
+     "morph": "adj.m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "catvāriṃśadghṭādikam",
+     "gloss": "forty-pot-beginning",
+     "grounds": "compound of catvāriṃśat + ghaṭa + ādika",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "What forty-pot beginning is in the fourth junctions?",
+   "premises": [
+    "junctions are specified",
+    "eight is specified",
+    "fourth is specified",
+    "forty-pot beginning is specified"
+   ],
+   "inference": "In the fourth junctions there is a forty-pot beginning.",
+   "uncertainties": [
+    "whether catvāriṃśadghṭādikam means forty pots and so on"
+   ],
+   "plain_english": "In the fourth junctions, forty pots and so on."
+  },
+  {
+   "verse": 2072,
+   "rows": [
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "knowable",
+     "grounds": "gerundive of jñā",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative of madhya",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "śivaghaṭo",
+     "gloss": "shiva-pot",
+     "grounds": "compound of śiva + ghaṭa",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "'dhikaḥ",
+     "gloss": "more",
+     "grounds": "sandhi form of adhikaḥ",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "What is knowable in the middle as the greater Shiva-pot?",
+   "premises": [
+    "knowable is specified",
+    "middle is specified",
+    "Shiva-pot is specified",
+    "more is specified"
+   ],
+   "inference": "The greater Shiva-pot is knowable in the middle.",
+   "uncertainties": [
+    "whether 'dhikaḥ modifies śivaghaṭo or jñeyaṃ"
+   ],
+   "plain_english": "Knowable in the middle is the greater Shiva-pot."
+  },
+  {
+   "verse": 2073,
+   "rows": [
+    {
+     "surface": "dvicatvāriṃśat",
+     "gloss": "two-forty",
+     "grounds": "compound of dvi + catvāriṃśat",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "syurubhaśobhāśca",
+     "gloss": "syurubha-beauty-and",
+     "grounds": "compound of syurubha + śobhā + ca",
+     "morph": "n.f.nom.pl"
+    },
+    {
+     "surface": "tatsamāḥ",
+     "gloss": "those-equal",
+     "grounds": "compound of tat + sama",
+     "morph": "adj.f.nom.pl"
+    }
+   ],
+   "question": "What two-forty beauties are equal to those?",
+   "premises": [
+    "two-forty is specified",
+    "beauties are specified",
+    "those-equal is specified"
+   ],
+   "inference": "There are two-forty beauties equal to those.",
+   "uncertainties": [
+    "whether syurubha is a proper term or sandhi artifact"
+   ],
+   "plain_english": "Two-forty beauties, equal to those."
+  },
+  {
+   "verse": 2074,
+   "rows": [
+    {
+     "surface": "lāṅgalākārakoṇāni",
+     "gloss": "plough-shape-corner",
+     "grounds": "compound of lāṅgala + ākāra + koṇa",
+     "morph": "n.n.acc.pl"
+    },
+    {
+     "surface": "sarvavyūhe",
+     "gloss": "all-array",
+     "grounds": "compound of sarva + vyūha",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "arrange",
+     "grounds": "optative of kalp",
+     "morph": "v.3sg.act-opt+root-kalp"
+    }
+   ],
+   "question": "How are plough-shaped corners arranged in all arrays?",
+   "premises": [
+    "plough-shaped corners are specified",
+    "all arrays are specified",
+    "arrangement is commanded"
+   ],
+   "inference": "Plough-shaped corners are to be arranged in all arrays.",
+   "uncertainties": [
+    "whether lāṅgalākāra means plough-shaped or plough-like"
+   ],
+   "plain_english": "Arrange plough-shaped corners in all arrays."
+  }
+ ]
+}

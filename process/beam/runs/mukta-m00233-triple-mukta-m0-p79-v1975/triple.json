@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "paricārān",
+     "gloss": "attendants",
+     "grounds": "recipients named in the ritual list",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the listed recipients",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "recipients named in the ritual list",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vratinas",
+     "gloss": "vow-keepers",
+     "grounds": "recipients named in the ritual list",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "marks parallel treatment with prior recipients",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional persons and groups receive gifts alongside the teacher and his disciples in this rite?",
+   "premises": [
+    "Attendants are included among recipients.",
+    "Brahmins and vow-keepers are included.",
+    "Likewise marks parallel distribution."
+   ],
+   "inference": "The rite distributes gifts to attendants, brahmins, and vow-keepers in addition to earlier recipients.",
+   "uncertainties": [
+    "The exact ritual action beyond inclusion in the recipient list is not explicit in this fragment."
+   ],
+   "plain_english": "Attendants, brahmins, and vow-keepers are likewise included."
+  }
+ ]
+}

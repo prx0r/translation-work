@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 117,
- "question": "How is bodily sin washed away in this rite?",
+ "question": "Which goddess and color is being contemplated here?",
  "premises": [
-  "sin seated in body is lifted",
-  "washing is performed",
-  "left hand or side is used"
+  "The token list names Rakini.",
+  "A color term closes the unit."
  ],
- "inference": "bodily sin is lifted and washed with the left",
- "uncertainties": [],
- "plain_english": "Then, having lifted sin seated in the body, one washes it with the left."
+ "inference": "The unit prescribes contemplating dark-colored Rakini with the listed attributes.",
+ "uncertainties": [
+  "Some token boundaries are fused in the source."
+ ],
+ "plain_english": "Contemplate dark-colored Rakini with the listed attributes."
 }

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2043,
- "question": "How many circles should be arranged outside the pericarp?",
+ "question": "Why are two rows per row removed for the door?",
  "premises": [
-  "Circles are arranged",
-  "Outside the pericarp etc",
-  "Three are specified"
+  "The verse names two rows per row.",
+  "It states removal.",
+  "It names door purpose."
  ],
- "inference": "Three circles are arranged outside the pericarp",
+ "inference": "Two rows per row are removed for door purpose.",
  "uncertainties": [
-  "Circle radii unspecified"
+  "The exact door placement is not specified."
  ],
- "plain_english": "Three circles should be arranged outside the pericarp and so on."
+ "plain_english": "Two rows per row are removed for the door."
 }

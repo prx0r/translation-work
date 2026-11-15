@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 116,
- "question": "Where is water thrown and where is the remainder placed?",
+ "question": "Which goddess and color is being remembered here?",
  "premises": [
-  "water is thrown on own head",
-  "remainder is placed",
-  "right side is the placement"
+  "The token list names Lakini.",
+  "A color term closes the unit."
  ],
- "inference": "head receives thrown water and remainder goes to the right",
- "uncertainties": [],
- "plain_english": "One should throw water on one's own head and place the remainder on the right."
+ "inference": "The unit prescribes remembering black-colored Lakini with the listed attributes.",
+ "uncertainties": [
+  "Some token boundaries are fused in the source."
+ ],
+ "plain_english": "Remember black-colored Lakini with the listed attributes."
 }

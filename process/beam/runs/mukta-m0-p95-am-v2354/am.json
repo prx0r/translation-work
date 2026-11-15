@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p95",
  "verse": 2354,
- "question": "What blood-related pair and ending are named?",
+ "question": "Where is the sleep-pot placed in the sequence?",
  "premises": [
-  "The verse names a blood-pair.",
-  "It names a drink-pair.",
-  "It names blood and sphrom-end."
+  "placement follows prior order",
+  "sleep-pot is named",
+  "placement is commanded"
  ],
- "inference": "The rite names blood-pair, drink-pair, blood, and sphrom-end.",
+ "inference": "The verse commands placing the sleep-pot as before.",
  "uncertainties": [
-  "Exact pronunciation is not stated."
+  "exact location unspecified"
  ],
- "plain_english": "Blood-pair, drink-pair, blood, and sphrom-end are named."
+ "plain_english": "Place the sleep-pot as before."
 }

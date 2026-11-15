@@ -1,0 +1,1088 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2276,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭadikṣu",
+     "gloss": "in-eight-directions",
+     "grounds": "locative plural of aṣṭadik",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vyūhānāṃ",
+     "gloss": "of-arrays",
+     "grounds": "genitive plural of vyūha",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bāhyāvaraṇagān",
+     "gloss": "outer-enclosure-going",
+     "grounds": "compound describing pots going to outer enclosure",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ghaṭān",
+     "gloss": "pots",
+     "grounds": "accusative plural of ghaṭa",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How are the outer-enclosure pots arranged in the eight directions?",
+   "premises": [
+    "outer-enclosure pots are placed in eight directions",
+    "arrays are associated with those directions"
+   ],
+   "inference": "The ritual arranges outer-enclosure pots directionally around the arrays.",
+   "uncertainties": [
+    "exact ritual function of ghaṭān not specified"
+   ],
+   "plain_english": "Then place the pots belonging to the outer enclosure in the eight directions of the arrays."
+  },
+  {
+   "verse": 2277,
+   "rows": [
+    {
+     "surface": "mudgādibhiḥ",
+     "gloss": "mung-beans-etc",
+     "grounds": "instrumental plural of mudgādi",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvadbhiḥ",
+     "gloss": "so-many",
+     "grounds": "instrumental plural of tāvat",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "uktaiḥ",
+     "gloss": "said",
+     "grounds": "past participle instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dravyaiḥ",
+     "gloss": "substances",
+     "grounds": "instrumental plural of dravya",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "fill",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "With what substances should the outer-enclosure pots be filled?",
+   "premises": [
+    "mung beans and other named substances are used",
+    "the pots are filled with those substances"
+   ],
+   "inference": "The outer-enclosure pots are filled with mung beans and the other specified substances.",
+   "uncertainties": [
+    "tāvadbhiḥ quantity is context-dependent"
+   ],
+   "plain_english": "But fill them with mung beans and the other substances already mentioned, in that number."
+  },
+  {
+   "verse": 2278,
+   "rows": [
+    {
+     "surface": "samāpūrya",
+     "gloss": "completely-filling",
+     "grounds": "absolutive of samāpūr",
+     "morph": "abs"
+    },
+    {
+     "surface": "pārśva",
+     "gloss": "side",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyūha",
+     "gloss": "array",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṣṭakaṃ",
+     "gloss": "octad",
+     "grounds": "accusative singular of aṣṭaka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the octad of side arrays placed after filling?",
+   "premises": [
+    "filling is completed first",
+    "the octad of side arrays is placed outside"
+   ],
+   "inference": "After complete filling, the octad of side arrays is placed outside.",
+   "uncertainties": [
+    "pārśva-vyūha-aṣṭakaṃ is a compound phrase"
+   ],
+   "plain_english": "After completely filling, place the octad of side arrays outside."
+  },
+  {
+   "verse": 2279,
+   "rows": [
+    {
+     "surface": "nālikerapayobhiḥ",
+     "gloss": "coconut-water",
+     "grounds": "instrumental plural of nālikerapayas",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental singular of krama",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhipūrayet",
+     "gloss": "fill",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should the side arrays be filled with coconut water?",
+   "premises": [
+    "coconut water is the filling substance",
+    "filling proceeds in order"
+   ],
+   "inference": "The side arrays are filled with coconut water in proper order.",
+   "uncertainties": [
+    "krameṇa refers to ritual sequence"
+   ],
+   "plain_english": "And fill them with coconut water in order."
+  },
+  {
+   "verse": 2280,
+   "rows": [
+    {
+     "surface": "catuṣkoṇa",
+     "gloss": "four-cornered",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthita",
+     "gloss": "placed",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "accusative plural of kalaśa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śiṣṭaiḥ",
+     "gloss": "remaining",
+     "grounds": "instrumental plural of śiṣṭa",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dravyaiḥ",
+     "gloss": "substances",
+     "grounds": "instrumental plural of dravya",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "fill",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How are the four-cornered placed pots filled?",
+   "premises": [
+    "four-cornered placed pots are mentioned",
+    "remaining substances are used for filling"
+   ],
+   "inference": "The four-cornered placed pots are filled with the remaining substances.",
+   "uncertainties": [
+    "śiṣṭaiḥ dravyaiḥ refers to leftover substances"
+   ],
+   "plain_english": "Fill the four-cornered placed pots with the remaining substances."
+  },
+  {
+   "verse": 2281,
+   "rows": [
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "nominative plural of mantra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyante",
+     "gloss": "are-spoken",
+     "grounds": "passive present third plural",
+     "morph": "3.pl.pass.pres"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When are the mantras spoken in sequence?",
+   "premises": [
+    "mantras are spoken now",
+    "they are spoken in order"
+   ],
+   "inference": "The mantras are now spoken in sequence.",
+   "uncertainties": [
+    "kramaśaḥ refers to ritual order"
+   ],
+   "plain_english": "And now the mantras are spoken in order."
+  },
+  {
+   "verse": 2282,
+   "rows": [
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūhyāni",
+     "gloss": "hidden",
+     "grounds": "neuter plural to be inferred",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvaraṇavat",
+     "gloss": "enclosure-like",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular of krama",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How are the five hidden items treated in enclosure order?",
+   "premises": [
+    "five items are hidden",
+    "they are treated separately in enclosure-like order"
+   ],
+   "inference": "The five hidden items are handled separately in enclosure-like order.",
+   "uncertainties": [
+    "ūhyāni is elliptical"
+   ],
+   "plain_english": "The five hidden things are to be inferred separately, enclosure by enclosure, in order."
+  },
+  {
+   "verse": 2283,
+   "rows": [
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "nominative singular of mūla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "nominative plural of mantra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "are",
+     "grounds": "optative third plural",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "vyomavidyayā",
+     "gloss": "sky-knowledge",
+     "grounds": "instrumental singular of vyomavidyā",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What becomes the root mantra through sky-knowledge?",
+   "premises": [
+    "root is the subject",
+    "mantras are through sky-knowledge"
+   ],
+   "inference": "The root mantras are established through sky-knowledge.",
+   "uncertainties": [
+    "vyomavidyā is technical"
+   ],
+   "plain_english": "And the root mantras are through sky-knowledge."
+  },
+  {
+   "verse": 2284,
+   "rows": [
+    {
+     "surface": "dvitīya",
+     "gloss": "second",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "āvaraṇa",
+     "gloss": "enclosure",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "sya",
+     "gloss": "of",
+     "grounds": "genitive singular ending",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmādyāḥ",
+     "gloss": "left-etc",
+     "grounds": "nominative plural of vāmādi",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "nominative plural of śakti",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past participle nominative plural",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which powers are remembered for the second enclosure?",
+   "premises": [
+    "second enclosure is referenced",
+    "left and related powers are remembered"
+   ],
+   "inference": "The left and related powers are remembered for the second enclosure.",
+   "uncertainties": [
+    "vāmādyāḥ list is elliptical"
+   ],
+   "plain_english": "For the second enclosure also, the left and related powers are remembered."
+  },
+  {
+   "verse": 2285,
+   "rows": [
+    {
+     "surface": "caturtha",
+     "gloss": "fourth",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "āvaraṇa",
+     "gloss": "enclosure",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "sya",
+     "gloss": "of",
+     "grounds": "genitive singular ending",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daiva",
+     "gloss": "divine",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṅguṣṭhamātrakam",
+     "gloss": "thumb-measure",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What thumb-measure is associated with the fourth enclosure?",
+   "premises": [
+    "fourth enclosure is referenced",
+    "divine thumb-measure is mentioned"
+   ],
+   "inference": "The fourth enclosure has a divine thumb-measure associated with it.",
+   "uncertainties": [
+    "exact referent of aṅguṣṭhamātrakam is unclear"
+   ],
+   "plain_english": "Then for the fourth enclosure, a divine thumb-measure."
+  },
+  {
+   "verse": 2286,
+   "rows": [
+    {
+     "surface": "bhavaḥ",
+     "gloss": "bhava",
+     "grounds": "nominative singular of bhava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevaḥ",
+     "gloss": "great-god",
+     "grounds": "nominative singular of mahādeva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahādyutiḥ",
+     "gloss": "great-radiance",
+     "grounds": "nominative singular of mahādyuti",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities are named after bhava in this sequence?",
+   "premises": [
+    "bhava is named",
+    "mahādeva and mahādyuti follow"
+   ],
+   "inference": "Bhava, Mahādeva, and Mahādyuti are named in sequence.",
+   "uncertainties": [
+    "sequence may be directional"
+   ],
+   "plain_english": "Bhava, and then Mahādeva, great radiance."
+  },
+  {
+   "verse": 2287,
+   "rows": [
+    {
+     "surface": "kapālīśaḥ",
+     "gloss": "kapālīśa",
+     "grounds": "nominative singular of kapālīśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agniḥ",
+     "gloss": "fire",
+     "grounds": "nominative singular of agni",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "nominative singular of rudra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmyaḥ",
+     "gloss": "southern",
+     "grounds": "nominative singular of yāmya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirṛtisaṇjñakaḥ",
+     "gloss": "nirṛti-named",
+     "grounds": "nominative singular of nirṛtisaṇjñaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities are named in the southern and related directions?",
+   "premises": [
+    "kapālīśa, agni, and rudra are named",
+    "yāmya and nirṛti-named follow"
+   ],
+   "inference": "Kapālīśa, Agni, Rudra, Yāmya, and Nirṛti-named are listed.",
+   "uncertainties": [
+    "directional assignment is implicit"
+   ],
+   "plain_english": "Kapālīśa, Agni, Rudra, and the southern Nirṛti-named."
+  },
+  {
+   "verse": 2288,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "nominative plural of etad",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aṣṭadik",
+     "gloss": "eight-direction",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "stha",
+     "gloss": "placed",
+     "grounds": "nominative plural of stha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vyūhānām",
+     "gloss": "arrays",
+     "grounds": "genitive plural of vyūha",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "adhidevāḥ",
+     "gloss": "presiding-deities",
+     "grounds": "nominative plural of adhideva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular of krama",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past participle nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are remembered as presiding deities of the eight-direction arrays?",
+   "premises": [
+    "these are placed in eight directions",
+    "they are presiding deities of arrays"
+   ],
+   "inference": "The listed deities are remembered as presiding deities of the eight-direction arrays.",
+   "uncertainties": [
+    "ete refers to prior list"
+   ],
+   "plain_english": "These, placed in the eight directions, are remembered as presiding deities of the arrays in order."
+  },
+  {
+   "verse": 2289,
+   "rows": [
+    {
+     "surface": "pādyena",
+     "gloss": "with-water",
+     "grounds": "instrumental singular of pādya",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "accusative singular of idam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viṣṇurādyāt",
+     "gloss": "viṣṇu-first",
+     "grounds": "ablative singular of viṣṇurādi",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "āpohiṣṭha",
+     "gloss": "remove",
+     "grounds": "imperative second singular",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "ityanantaram",
+     "gloss": "etc",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What water rite follows after Viṣṇu-first?",
+   "premises": [
+    "pādya water is used",
+    "viṣṇu-first is the starting point"
+   ],
+   "inference": "After Viṣṇu-first, the pādya water rite is performed.",
+   "uncertainties": [
+    "āpohiṣṭha is a mantra word"
+   ],
+   "plain_english": "With pādya water, from Viṣṇu-first onward, remove, and so on."
+  },
+  {
+   "verse": 2290,
+   "rows": [
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "instrumental singular of ghṛta",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhunā",
+     "gloss": "with-honey",
+     "grounds": "instrumental singular of madhu",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "madhuvātataḥ",
+     "gloss": "madhuvāta",
+     "grounds": "ablative singular of madhuvāta",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What offerings follow ghee and honey after madhuvāta?",
+   "premises": [
+    "ghee and honey are used",
+    "madhuvāta is the reference point"
+   ],
+   "inference": "Ghee and honey offerings follow after madhuvāta.",
+   "uncertainties": [
+    "madhuvātataḥ is ablative of a mantra name"
+   ],
+   "plain_english": "Also with ghee and with honey, after madhuvāta."
+  },
+  {
+   "verse": 2291,
+   "rows": [
+    {
+     "surface": "upatvā",
+     "gloss": "upatva",
+     "grounds": "absolutive of upatvā",
+     "morph": "abs"
+    },
+    {
+     "surface": "agni",
+     "gloss": "agni",
+     "grounds": "vocative or compound member",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ikṣurasān",
+     "gloss": "ikṣu-rasa",
+     "grounds": "accusative plural of ikṣurasa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mānastokāt",
+     "gloss": "mānastoka",
+     "grounds": "ablative singular of mānastoka",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "karambhakaiḥ",
+     "gloss": "karambha",
+     "grounds": "instrumental plural of karambhaka",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What substances are used after upatvā and agni?",
+   "premises": [
+    "upatvā and agni are referenced",
+    "ikṣu-rasa and karambha are used"
+   ],
+   "inference": "After upatvā and Agni, ikṣu-rasa and karambha substances are used.",
+   "uncertainties": [
+    "upatvā is a mantra word"
+   ],
+   "plain_english": "After upatvā, Agni, with ikṣu-rasa, from mānastoka, with karambha."
+  },
+  {
+   "verse": 2292,
+   "rows": [
+    {
+     "surface": "dhānābhiḥ",
+     "gloss": "with-grains",
+     "grounds": "instrumental plural of dhānā",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "puṣpāvatyā",
+     "gloss": "puṣpāvatī",
+     "grounds": "instrumental singular of puṣpāvatī",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpakaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural of puṣpaka",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What grain and flower offerings are used with puṣpāvatī?",
+   "premises": [
+    "grains are used",
+    "flowers are used with puṣpāvatī"
+   ],
+   "inference": "Grains and flowers are offered with Puṣpāvatī.",
+   "uncertainties": [
+    "puṣpāvatyā is instrumental of a mantra name"
+   ],
+   "plain_english": "With grains, then with Puṣpāvatī, with flowers."
+  },
+  {
+   "verse": 2293,
+   "rows": [
+    {
+     "surface": "saktvadbhiḥ",
+     "gloss": "with-saktu",
+     "grounds": "instrumental plural of saktu",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "sprinkle",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "maheśvaram",
+     "gloss": "maheśvara",
+     "grounds": "accusative singular of maheśvara",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is sprinkled on Maheśvara with saktu?",
+   "premises": [
+    "saktu is the substance",
+    "Maheśvara is the recipient"
+   ],
+   "inference": "Maheśvara is sprinkled with saktu.",
+   "uncertainties": [
+    "saktvadbhiḥ may be a variant form"
+   ],
+   "plain_english": "Sprinkle Maheśvara with saktu."
+  },
+  {
+   "verse": 2294,
+   "rows": [
+    {
+     "surface": "vāstoṣpati",
+     "gloss": "vāstoṣpati",
+     "grounds": "vocative or compound member",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śālyadbhiḥ",
+     "gloss": "śāli",
+     "grounds": "instrumental plural of śāli",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dūrvādbhiḥ",
+     "gloss": "dūrvā",
+     "grounds": "instrumental plural of dūrvā",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyaneti",
+     "gloss": "āyana",
+     "grounds": "quotation of mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances are used with vāstoṣpati and āyana?",
+   "premises": [
+    "śāli and dūrvā are used",
+    "vāstoṣpati and āyana are referenced"
+   ],
+   "inference": "Śāli and dūrvā are used with Vāstoṣpati and Āyana.",
+   "uncertainties": [
+    "āyaneti is a quoted mantra word"
+   ],
+   "plain_english": "With Vāstoṣpati, with śāli and dūrvā, and indeed āyana."
+  },
+  {
+   "verse": 2295,
+   "rows": [
+    {
+     "surface": "āśuśśiśāna",
+     "gloss": "āśuśiśāna",
+     "grounds": "vocative or mantra word",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ādyena",
+     "gloss": "etc",
+     "grounds": "instrumental singular of ādi",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "snapayet",
+     "gloss": "bathe",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mṛttikāmbubhiḥ",
+     "gloss": "clay-water",
+     "grounds": "instrumental plural of mṛttikāmbu",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How is bathing performed with āśuśiśāna and clay water?",
+   "premises": [
+    "āśuśiśāna is referenced",
+    "clay water is used for bathing"
+   ],
+   "inference": "Bathing is performed with clay water under āśuśiśāna and related terms.",
+   "uncertainties": [
+    "āśuśśiśāna is a mantra word"
+   ],
+   "plain_english": "With āśuśiśāna and so on, bathe with clay water."
+  },
+  {
+   "verse": 2296,
+   "rows": [
+    {
+     "surface": "dhānyādbhiḥ",
+     "gloss": "with-grains",
+     "grounds": "instrumental plural of dhānya",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sārādbhiḥ",
+     "gloss": "with-sāra",
+     "grounds": "instrumental plural of sāra",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pauruṣeṇa",
+     "gloss": "pauruṣa",
+     "grounds": "instrumental singular of pauruṣa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What grain, sāra, and pauruṣa offerings are used?",
+   "premises": [
+    "grains are used",
+    "sāra and pauruṣa are used"
+   ],
+   "inference": "Grains, sāra, and pauruṣa are used in the rite.",
+   "uncertainties": [
+    "pauruṣeṇa may be a mantra name"
+   ],
+   "plain_english": "With grains, with sāra, and with pauruṣa, then."
+  },
+  {
+   "verse": 2297,
+   "rows": [
+    {
+     "surface": "bhasmādbhiḥ",
+     "gloss": "with-ashes",
+     "grounds": "instrumental plural of bhasman",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "imāṃ",
+     "gloss": "this",
+     "grounds": "accusative singular of idam",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rudrāya",
+     "gloss": "to-rudra",
+     "grounds": "dative singular of rudra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kūpa",
+     "gloss": "well",
+     "grounds": "vocative or compound member",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "pai?jaiḥ",
+     "gloss": "pai-jai",
+     "grounds": "instrumental plural of pai?jai",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What ashes and well-related substances are offered to Rudra?",
+   "premises": [
+    "ashes are used",
+    "Rudra is the recipient",
+    "well-related substances are used"
+   ],
+   "inference": "Ashes and well-related substances are offered to Rudra.",
+   "uncertainties": [
+    "pai?jaiḥ is an undecidable token"
+   ],
+   "plain_english": "With ashes, this to Rudra, well, with pai?jai."
+  },
+  {
+   "verse": 2298,
+   "rows": [
+    {
+     "surface": "taṭākādbhiḥ",
+     "gloss": "with-pond-water",
+     "grounds": "instrumental plural of taṭāka",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "aghoreṇa",
+     "gloss": "aghora",
+     "grounds": "instrumental singular of aghora",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samudragāt",
+     "gloss": "ocean-going",
+     "grounds": "ablative singular of samudraga",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What pond water and aghora rite follows ocean-going?",
+   "premises": [
+    "pond water is used",
+    "aghora is referenced",
+    "ocean-going is the reference point"
+   ],
+   "inference": "Pond water with Aghora follows the ocean-going rite.",
+   "uncertainties": [
+    "samudragāt is ablative of a mantra name"
+   ],
+   "plain_english": "With pond water, with aghora, from ocean-going."
+  },
+  {
+   "verse": 2299,
+   "rows": [
+    {
+     "surface": "gaṅgeti",
+     "gloss": "gaṅgā",
+     "grounds": "quotation of mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhadvāreti",
+     "gloss": "gandhadvāra",
+     "grounds": "quotation of mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gomayāt",
+     "gloss": "from-cow-dung",
+     "grounds": "ablative singular of gomaya",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What mantra words and cow-dung reference close this sequence?",
+   "premises": [
+    "gaṅgā is quoted",
+    "gandhadvāra is quoted",
+    "cow dung is the reference point"
+   ],
+   "inference": "The sequence closes with Gaṅgā, Gandhadvāra, and cow dung.",
+   "uncertainties": [
+    "gomayāt is ablative of a substance or mantra name"
+   ],
+   "plain_english": "Gaṅgā, thus; Gandhadvāra, thus; from cow dung."
+  }
+ ]
+}

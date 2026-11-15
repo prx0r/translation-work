@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 110,
- "question": "What should the hero-lord place in water after resolving?",
+ "question": "Which posture and vehicle are being described here?",
  "premises": [
-  "resolution precedes placement",
-  "hero-lord acts with mantra",
-  "placement is in water"
+  "The token list gives a posture.",
+  "The token list gives a chariot."
  ],
- "inference": "the resolved rite places a mantra-charged element in water",
- "uncertainties": [],
- "plain_english": "Having resolved by these, the hero-lord should place with mantra in water."
+ "inference": "The unit describes a form standing in alidha posture on a four-lion chariot.",
+ "uncertainties": [
+  "Color and deity name are not explicit in these tokens."
+ ],
+ "plain_english": "The form stands in alidha posture on a four-lion chariot."
 }

@@ -1,0 +1,461 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1901,
+   "rows": [
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural of dik",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "bhūtakrūreṇa",
+     "gloss": "by-fierce-creature",
+     "grounds": "instrumental singular of bhūtakrūra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "locative singular of niś",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which directions, fierce creature, or night condition governs this ritual step?",
+   "premises": [
+    "The verse lists directions, fierce creature, and night.",
+    "It gives alternatives rather than a single fixed condition.",
+    "The ritual step depends on one of these circumstances."
+   ],
+   "inference": "The practitioner chooses the appropriate directional, creature, or nocturnal condition before proceeding.",
+   "uncertainties": [
+    "The exact ritual action governed by this condition is not stated in this verse."
+   ],
+   "plain_english": "In the directions, by a fierce creature, or at night."
+  },
+  {
+   "verse": 1902,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyetya",
+     "gloss": "having-approached",
+     "grounds": "absolutive of abhi-i",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhūtidādīn",
+     "gloss": "prosperity-givers-and-others",
+     "grounds": "accusative plural of bhūtida etc",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom should the practitioner approach in order after the preceding condition?",
+   "premises": [
+    "The verse follows the conditional opening.",
+    "It names prosperity-givers and others.",
+    "It prescribes approaching them in order."
+   ],
+   "inference": "The next operation is an ordered approach to the prosperity-givers and related beings.",
+   "uncertainties": [
+    "The full list of beings after bhūtida is not given here."
+   ],
+   "plain_english": "Then, having approached the prosperity-givers and others in order."
+  },
+  {
+   "verse": 1903,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of snā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "balidānādanantaram",
+     "gloss": "after-offering",
+     "grounds": "compound meaning after the offering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purification and offering sequence must precede the next ritual placement?",
+   "premises": [
+    "The verse begins with bathing.",
+    "It then refers to after the offering.",
+    "The sequence is bath followed by offering."
+   ],
+   "inference": "The practitioner bathes and then makes the offering before continuing.",
+   "uncertainties": [
+    "The exact offering substance is not specified in this verse."
+   ],
+   "plain_english": "Having bathed, after the offering."
+  },
+  {
+   "verse": 1904,
+   "rows": [
+    {
+     "surface": "yānāderavaropyātha",
+     "gloss": "vehicle-and-others-lowering-then",
+     "grounds": "compound with absolutive sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular of deva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "locative singular of pīṭha",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "placing",
+     "grounds": "absolutive of ni-dhā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the deity placed after lowering the vehicle and related items?",
+   "premises": [
+    "The verse mentions lowering vehicle and others.",
+    "It names the deity as object.",
+    "It places the deity on a seat."
+   ],
+   "inference": "After lowering the vehicle and related items, the deity is placed on the seat.",
+   "uncertainties": [
+    "The exact items included in 'and others' are not listed here."
+   ],
+   "plain_english": "Then, lowering the vehicle and others, placing the deity on the seat."
+  },
+  {
+   "verse": 1905,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utsavadinānāṃ",
+     "gloss": "of-festival-days",
+     "grounds": "genitive plural of utsavadin",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "to-be-known",
+     "grounds": "feminine nominative singular of vijñeya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rātrayaḥ",
+     "gloss": "nights",
+     "grounds": "nominative plural of rātri",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the nights of festival days to be known in order?",
+   "premises": [
+    "The verse concerns festival days.",
+    "It says their nights are to be known.",
+    "It specifies knowing them in order."
+   ],
+   "inference": "The festival nights form an ordered sequence that must be recognized.",
+   "uncertainties": [
+    "The full ordered list begins in the next verse."
+   ],
+   "plain_english": "Here, the nights of the festival days are to be known in order."
+  },
+  {
+   "verse": 1906,
+   "rows": [
+    {
+     "surface": "brahmabhūtendragandharvayakṣarākṣasarātrayaḥ",
+     "gloss": "brahma-bhuta-indra-gandharva-yaksha-rakshasa-nights",
+     "grounds": "compound nominative plural listing six nights",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which six nights are named in the festival-night sequence?",
+   "premises": [
+    "The verse is one compound token.",
+    "It lists brahma, bhuta, indra, gandharva, yaksha, and rakshasa nights.",
+    "It supplies the first six nights of the sequence."
+   ],
+   "inference": "The ordered festival nights include brahma, bhuta, indra, gandharva, yaksha, and rakshasa nights.",
+   "uncertainties": [
+    "Whether these six are consecutive or grouped is not stated here."
+   ],
+   "plain_english": "The brahma, bhuta, indra, gandharva, yaksha, and rakshasa nights."
+  },
+  {
+   "verse": 1907,
+   "rows": [
+    {
+     "surface": "viṣṇurātramaṣṭamaṃ",
+     "gloss": "vishnu-night-eighth",
+     "grounds": "compound with eighth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "neuter nominative singular of aṣṭama",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paricakṣate",
+     "gloss": "they-declare",
+     "grounds": "third plural of pari-cakṣ",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "What position is assigned to the Vishnu night in the festival sequence?",
+   "premises": [
+    "The verse names the Vishnu night.",
+    "It calls it eighth.",
+    "It says authorities declare this."
+   ],
+   "inference": "The Vishnu night is declared to be the eighth night.",
+   "uncertainties": [
+    "The relation to the six previously named nights is not fully explicit."
+   ],
+   "plain_english": "They declare the Vishnu night to be the eighth."
+  },
+  {
+   "verse": 1908,
+   "rows": [
+    {
+     "surface": "sapuṣpakuśaśuddhānnaṃ",
+     "gloss": "with-flowers-kuśa-pure-food",
+     "grounds": "compound describing offering materials",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmarātre",
+     "gloss": "on-brahma-night",
+     "grounds": "locative singular of brahmarātri",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "nominative singular of bali",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle of smṛ",
+     "morph": "m.nom.sg.past-part"
+    }
+   ],
+   "question": "What offering is remembered for the brahma night?",
+   "premises": [
+    "The verse names the brahma night.",
+    "It describes offering materials with flowers, kuśa, and pure food.",
+    "It calls this offering remembered."
+   ],
+   "inference": "On the brahma night, the offering remembered consists of flowers, kuśa, and pure food.",
+   "uncertainties": [
+    "The exact ritual use of these materials is not detailed here."
+   ],
+   "plain_english": "On the brahma night, the offering remembered is with flowers, kuśa, and pure food."
+  },
+  {
+   "verse": 1909,
+   "rows": [
+    {
+     "surface": "khyātaṃ",
+     "gloss": "renowned",
+     "grounds": "neuter nominative singular of khyāta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūtarātre",
+     "gloss": "on-bhuta-night",
+     "grounds": "locative singular of bhūtarātri",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "should-give",
+     "grounds": "causative optative of dā",
+     "morph": "3.sg.caus.opt"
+    }
+   ],
+   "question": "What is renowned and to be given on the bhuta night?",
+   "premises": [
+    "The verse names the bhuta night.",
+    "It uses a renowned neuter noun.",
+    "It prescribes giving."
+   ],
+   "inference": "A renowned item is to be given on the bhuta night.",
+   "uncertainties": [
+    "The exact item referred to by khyātaṃ is not specified in this verse."
+   ],
+   "plain_english": "On the bhuta night, the renowned item should be given."
+  },
+  {
+   "verse": 1910,
+   "rows": [
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative singular of bali",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative of dā",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular of deśika",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should give the offering in this ritual instruction?",
+   "premises": [
+    "The verse names the offering.",
+    "It prescribes giving.",
+    "It names the teacher as agent."
+   ],
+   "inference": "The teacher should give the offering.",
+   "uncertainties": [
+    "The recipient and occasion are supplied by surrounding verses."
+   ],
+   "plain_english": "The teacher should give the offering."
+  },
+  {
+   "verse": 1911,
+   "rows": [
+    {
+     "surface": "yakṣarātrākhye",
+     "gloss": "in-yaksha-night-named",
+     "grounds": "locative singular of yakṣarātrākhya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṣpānnājyāmbubhirbaliḥ",
+     "gloss": "flowers-food-ghee-water-offering",
+     "grounds": "compound instrumental plural with bali",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offering materials are prescribed for the yaksha night?",
+   "premises": [
+    "The verse names the yaksha night.",
+    "It lists flowers, food, ghee, and water.",
+    "It identifies the offering."
+   ],
+   "inference": "On the yaksha night, the offering consists of flowers, food, ghee, and water.",
+   "uncertainties": [
+    "The exact proportions or ritual handling are not stated here."
+   ],
+   "plain_english": "On the yaksha night, the offering is with flowers, food, ghee, and water."
+  },
+  {
+   "verse": 1912,
+   "rows": [
+    {
+     "surface": "tvatha",
+     "gloss": "then",
+     "grounds": "particle with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paiśāce",
+     "gloss": "in-paishaca",
+     "grounds": "locative singular of paiśāca",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māṣānnaṃ",
+     "gloss": "bean-food",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛsaraṃ",
+     "gloss": "mixed-rice",
+     "grounds": "accusative singular of kṛsara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "accusative singular of madhu",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What foods are prescribed for the paishaca night?",
+   "premises": [
+    "The verse names the paishaca night.",
+    "It lists bean food, mixed rice, and honey.",
+    "These are ritual food offerings."
+   ],
+   "inference": "On the paishaca night, the prescribed foods are bean food, mixed rice, and honey.",
+   "uncertainties": [
+    "Whether these are combined or separate offerings is not explicit."
+   ],
+   "plain_english": "Then, for the paishaca night: bean food, mixed rice, and honey."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "nihatadaityāya",
+     "gloss": "to-daitya-slayer",
+     "grounds": "compound adjective in dative singular masculine",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śāṅkarāya",
+     "gloss": "to-śāṅkara",
+     "grounds": "proper name in dative singular masculine",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "homage",
+     "grounds": "indeclinable salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "indeclinable salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is honored with repeated homage as the slayer of daityas?",
+   "premises": [
+    "Homage is offered to Śāṅkara.",
+    "Śāṅkara is called daitya-slayer.",
+    "The offering is repeated."
+   ],
+   "inference": "The verse identifies Śāṅkara as recipient of double homage.",
+   "uncertainties": [
+    "No doctrinal elaboration beyond salutation."
+   ],
+   "plain_english": "Homage, homage to Śāṅkara, slayer of the daityas."
+  }
+ ]
+}

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p87",
  "verse": 2155,
- "question": "Which divine figures are named as leaders in this battle?",
+ "question": "How does the golden-horn recitation conclude the ordered sequence?",
  "premises": [
-  "The minister and commander are named.",
-  "The wealth mistress is mounted on horse."
+  "The token names golden horn.",
+  "It begins a recitation.",
+  "It ends in order."
  ],
- "inference": "The verse lists goddesses in martial roles.",
- "uncertainties": [],
- "plain_english": "The minister, commander, and wealth mistress mounted on horse are named."
+ "inference": "The golden-horn recitation concludes the ordered recitation sequence.",
+ "uncertainties": [
+  "Exact endpoint is not specified."
+ ],
+ "plain_english": "The golden-horn recitation concludes the ordered recitation sequence."
 }

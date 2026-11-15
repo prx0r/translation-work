@@ -1,0 +1,905 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1926,
+   "rows": [
+    {
+     "surface": "vācayitvā",
+     "gloss": "having-recited",
+     "grounds": "causative perfect participle of vac",
+     "morph": "verb.3.sg.act-perf.participle+root-vac"
+    },
+    {
+     "surface": "iṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "perfect participle of yaj",
+     "morph": "verb.3.sg.act-perf.participle+root-yaj"
+    },
+    {
+     "surface": "sulagne",
+     "gloss": "well-timed",
+     "grounds": "su+lagna compound",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "gaṇanāyakam",
+     "gloss": "lord-of-hosts",
+     "grounds": "compound gaṇa+nāyaka",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "What preliminary recitation and worship of the host-lord must occur at an auspicious time before the rite proceeds?",
+   "premises": [
+    "The officiant recites and worships.",
+    "The timing is well chosen.",
+    "The host-lord is addressed."
+   ],
+   "inference": "The rite begins with recitation, worship, and auspicious timing.",
+   "uncertainties": [
+    "Exact mantra recited is not specified."
+   ],
+   "plain_english": "Having recited and worshipped the lord of hosts at an auspicious time."
+  },
+  {
+   "verse": 1927,
+   "rows": [
+    {
+     "surface": "navaguṇaṃ",
+     "gloss": "nine-fold",
+     "grounds": "nava+guṇa",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sauvarṇaṃ",
+     "gloss": "golden",
+     "grounds": "suvarṇa adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samauktikam",
+     "gloss": "with-pearls",
+     "grounds": "sa+muktika",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What kind of golden image adorned with pearls is prepared for the deity?",
+   "premises": [
+    "The image is nine-fold.",
+    "The image is golden.",
+    "The image includes pearls."
+   ],
+   "inference": "A nine-fold golden image with pearls is prepared.",
+   "uncertainties": [
+    "Nine-fold may refer to size or quality."
+   ],
+   "plain_english": "A nine-fold golden image with pearls."
+  },
+  {
+   "verse": 1928,
+   "rows": [
+    {
+     "surface": "gandhapuṣpādyair",
+     "gloss": "with-sandal-paste-flowers-etc",
+     "grounds": "gandha+puṣpa+ādi instrumental plural",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "bhasitaṃ",
+     "gloss": "anointed",
+     "grounds": "past participle of bhas",
+     "morph": "verb.3.sg.pass-perf.participle+root-bhas"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astramantrataḥ",
+     "gloss": "from-weapon-mantra",
+     "grounds": "astra+mantra+taḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what substances and mantra is the image anointed?",
+   "premises": [
+    "Sandal paste and flowers are used.",
+    "The image is anointed.",
+    "The weapon mantra is applied."
+   ],
+   "inference": "The image is anointed with sandal, flowers, and weapon mantra.",
+   "uncertainties": [
+    "Exact weapon mantra is not given."
+   ],
+   "plain_english": "Anointed with sandal paste, flowers, and so forth by the weapon mantra."
+  },
+  {
+   "verse": 1929,
+   "rows": [
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart",
+     "grounds": "hṛd instrumental",
+     "morph": "noun.inst.sg.n"
+    },
+    {
+     "surface": "śūlāstrasya",
+     "gloss": "of-spear-weapon",
+     "grounds": "śūla+astra genitive",
+     "morph": "noun.gen.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kautukam",
+     "gloss": "wonder",
+     "grounds": "noun",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "What wonder of the spear-weapon is performed with the heart?",
+   "premises": [
+    "The heart is involved.",
+    "The spear-weapon is referenced.",
+    "A wonder is performed."
+   ],
+   "inference": "A heart-centered wonder of the spear-weapon is performed.",
+   "uncertainties": [
+    "Ritual meaning of kautuka is context-dependent."
+   ],
+   "plain_english": "With the heart, the wonder of the spear-weapon."
+  },
+  {
+   "verse": 1930,
+   "rows": [
+    {
+     "surface": "rakṣāṃ",
+     "gloss": "protection",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of nikṣip",
+     "morph": "verb.3.sg.act-absolutive+root-kṣip"
+    },
+    {
+     "surface": "nīrājyārātrikeṇa",
+     "gloss": "with-lamp-waving-rite",
+     "grounds": "nīrājya+ārātrika instrumental",
+     "morph": "noun.inst.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is protection placed during the lamp-waving rite?",
+   "premises": [
+    "Protection is placed.",
+    "The lamp-waving rite is used.",
+    "The action is completed."
+   ],
+   "inference": "Protection is placed by means of the lamp-waving rite.",
+   "uncertainties": [
+    "Exact protective object is not specified."
+   ],
+   "plain_english": "Having placed protection with the lamp-waving rite."
+  },
+  {
+   "verse": 1931,
+   "rows": [
+    {
+     "surface": "yathāpūrvaṃ",
+     "gloss": "as-before",
+     "grounds": "yathā+pūrvaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityapūjāṃ",
+     "gloss": "daily-worship",
+     "grounds": "nitya+pūjā accusative",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "samāpya",
+     "gloss": "having-completed",
+     "grounds": "absolutive of samāp",
+     "morph": "verb.3.sg.act-absolutive+root-āp"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What daily worship is completed as before?",
+   "premises": [
+    "Daily worship is performed.",
+    "It follows prior order.",
+    "It is completed."
+   ],
+   "inference": "The daily worship is completed in the established order.",
+   "uncertainties": [
+    "No specific deity named."
+   ],
+   "plain_english": "Having completed daily worship as before."
+  },
+  {
+   "verse": 1932,
+   "rows": [
+    {
+     "surface": "viniveśyāgre",
+     "gloss": "having-placed-in-front",
+     "grounds": "viniveśya+agre",
+     "morph": "verb.3.sg.act-absolutive+root-viś"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "prācyāṃ",
+     "gloss": "to-east",
+     "grounds": "prācī locative",
+     "morph": "noun.loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vottare",
+     "gloss": "or-to-north",
+     "grounds": "vā+uttare",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the image placed in front of the deity?",
+   "premises": [
+    "It is placed in front.",
+    "The direction is east.",
+    "North is an alternative."
+   ],
+   "inference": "The image is placed in front, toward east or north.",
+   "uncertainties": [
+    "Choice between east and north is not resolved."
+   ],
+   "plain_english": "Having placed it in front, to the east or north."
+  },
+  {
+   "verse": 1933,
+   "rows": [
+    {
+     "surface": "vitānacchatrakalaśadīpadarpaṇacāmaraiḥ",
+     "gloss": "with-canopy-umbrella-pot-lamp-mirror-chowrie",
+     "grounds": "compound instrumental plural",
+     "morph": "noun.inst.pl.m"
+    }
+   ],
+   "question": "What ritual furnishings accompany the placed image?",
+   "premises": [
+    "A canopy is included.",
+    "An umbrella is included.",
+    "Pot, lamp, mirror, and chowrie are included."
+   ],
+   "inference": "The image is furnished with canopy, umbrella, pot, lamp, mirror, and chowrie.",
+   "uncertainties": [
+    "Whether all are simultaneous is not stated."
+   ],
+   "plain_english": "With canopy, umbrella, pot, lamp, mirror, and chowrie."
+  },
+  {
+   "verse": 1934,
+   "rows": [
+    {
+     "surface": "dhaute",
+     "gloss": "washed",
+     "grounds": "past participle",
+     "morph": "verb.3.sg.pass-perf.participle+root-dhāv"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "cloth",
+     "grounds": "instrumental",
+     "morph": "noun.inst.sg.n"
+    },
+    {
+     "surface": "paridhāpya",
+     "gloss": "having-covered",
+     "grounds": "causative absolutive",
+     "morph": "verb.3.sg.act-caus.absolutive+root-dhā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the washed cloth used in covering?",
+   "premises": [
+    "The cloth is washed.",
+    "The cloth is used for covering.",
+    "The action is completed."
+   ],
+   "inference": "After washing, the cloth is used to cover.",
+   "uncertainties": [
+    "What is covered is not explicit."
+   ],
+   "plain_english": "Having washed the cloth and covered with it."
+  },
+  {
+   "verse": 1935,
+   "rows": [
+    {
+     "surface": "svalaṅkṛtāḥ",
+     "gloss": "well-adorned",
+     "grounds": "su+alaṅkṛta",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "kanyā",
+     "gloss": "maidens",
+     "grounds": "nominative plural",
+     "morph": "noun.nom.pl.f"
+    },
+    {
+     "surface": "gāyantyo",
+     "gloss": "singing",
+     "grounds": "present participle",
+     "morph": "verb.3.pl.act-pres.participle+root-gai"
+    },
+    {
+     "surface": "madhurasvarāḥ",
+     "gloss": "sweet-voiced",
+     "grounds": "madhura+svara",
+     "morph": "adj.nom.pl.f"
+    }
+   ],
+   "question": "Who sings sweetly while well adorned?",
+   "premises": [
+    "Maidens are well adorned.",
+    "They are singing.",
+    "Their voices are sweet."
+   ],
+   "inference": "Well-adorned maidens sing in sweet voices.",
+   "uncertainties": [
+    "Their ritual role is not specified."
+   ],
+   "plain_english": "Well-adorned maidens singing in sweet voices."
+  },
+  {
+   "verse": 1936,
+   "rows": [
+    {
+     "surface": "dadhyakṣatājyadūrvāgragandhabījāṅkurāṇi",
+     "gloss": "curd-rice-ghee-dūrvā-tips-sandal-seeds-sprouts",
+     "grounds": "compound accusative plural",
+     "morph": "noun.acc.pl.n"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "num.acc.pl.n"
+    }
+   ],
+   "question": "What six substances are offered or applied?",
+   "premises": [
+    "Curd is included.",
+    "Rice, ghee, dūrvā tips, sandal, seeds, and sprouts are included.",
+    "The count is six."
+   ],
+   "inference": "Six substances are enumerated for ritual use.",
+   "uncertainties": [
+    "Exact ritual function of each is not stated."
+   ],
+   "plain_english": "Six: curd, rice, ghee, dūrvā tips, sandal, seeds, and sprouts."
+  },
+  {
+   "verse": 1937,
+   "rows": [
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "haimapātrādisaṃsthitam",
+     "gloss": "in-golden-vessel-etc",
+     "grounds": "haima+pātra+ādi+saṃsthita",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Where is the powder placed?",
+   "premises": [
+    "Powder is used.",
+    "It is in a golden vessel.",
+    "Other vessels may be included."
+   ],
+   "inference": "The powder is placed in a golden vessel and similar containers.",
+   "uncertainties": [
+    "Exact powder type is not specified."
+   ],
+   "plain_english": "Powder placed in a golden vessel and so forth."
+  },
+  {
+   "verse": 1938,
+   "rows": [
+    {
+     "surface": "devasya",
+     "gloss": "of-deity",
+     "grounds": "genitive",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "śirasy",
+     "gloss": "on-head",
+     "grounds": "śiras locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "āropya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of ārop",
+     "morph": "verb.3.sg.act-absolutive+root-ruh"
+    },
+    {
+     "surface": "mūlataḥ",
+     "gloss": "from-root",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the deity's head adorned from the root?",
+   "premises": [
+    "The deity's head is addressed.",
+    "Something is placed on it.",
+    "The root is the source."
+   ],
+   "inference": "The head is adorned by placing material from the root.",
+   "uncertainties": [
+    "The material placed is not explicit."
+   ],
+   "plain_english": "Having placed on the deity's head from the root."
+  },
+  {
+   "verse": 1939,
+   "rows": [
+    {
+     "surface": "devamastraṃ",
+     "gloss": "deity-weapon",
+     "grounds": "deva+astra",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "caṃ",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parimṛjyātha",
+     "gloss": "having-wiped-then",
+     "grounds": "parimṛjya+atha",
+     "morph": "verb.3.sg.act-absolutive+root-mṛj"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "with-cloth",
+     "grounds": "instrumental",
+     "morph": "noun.inst.sg.n"
+    }
+   ],
+   "question": "How is the deity's weapon wiped?",
+   "premises": [
+    "The deity's weapon is addressed.",
+    "It is wiped.",
+    "A cloth is used."
+   ],
+   "inference": "The deity's weapon is wiped with cloth.",
+   "uncertainties": [
+    "Whether wiping follows anointing is implied."
+   ],
+   "plain_english": "And having wiped the deity's weapon with cloth."
+  },
+  {
+   "verse": 1940,
+   "rows": [
+    {
+     "surface": "taccheṣaṃ",
+     "gloss": "that-remainder",
+     "grounds": "tat+śeṣa",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "bhaktamūrdhasu",
+     "gloss": "on-devotees-heads",
+     "grounds": "bhakta+mūrdhan locative plural",
+     "morph": "noun.loc.pl.m"
+    }
+   ],
+   "question": "Where is the remainder placed?",
+   "premises": [
+    "A remainder exists.",
+    "Devotees are present.",
+    "Their heads receive it."
+   ],
+   "inference": "The remainder is placed on devotees' heads.",
+   "uncertainties": [
+    "Nature of remainder is not specified."
+   ],
+   "plain_english": "That remainder on the devotees' heads."
+  },
+  {
+   "verse": 1941,
+   "rows": [
+    {
+     "surface": "sakalīkaraṇaṃ",
+     "gloss": "consecration",
+     "grounds": "sakala+īkaraṇa",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vidadhyāt",
+     "gloss": "he-should-perform",
+     "grounds": "optative of vidhā",
+     "morph": "verb.3.sg.act-optative+root-dhā"
+    }
+   ],
+   "question": "What consecration should be performed?",
+   "premises": [
+    "Consecration is named.",
+    "The officiant should perform it.",
+    "It follows prior steps."
+   ],
+   "inference": "The officiant should perform consecration.",
+   "uncertainties": [
+    "Exact consecration procedure is not detailed."
+   ],
+   "plain_english": "He should perform consecration."
+  },
+  {
+   "verse": 1942,
+   "rows": [
+    {
+     "surface": "athātra",
+     "gloss": "then-here",
+     "grounds": "atha+atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthayātrārthaṃ",
+     "gloss": "for-pilgrimage",
+     "grounds": "tīrtha+yātrā+arthaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "in-altar",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "agniṃ",
+     "gloss": "fire",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of nidhā",
+     "morph": "verb.3.sg.act-absolutive+root-dhā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is fire placed in the altar here?",
+   "premises": [
+    "Fire is placed.",
+    "The altar is used.",
+    "Pilgrimage is the purpose."
+   ],
+   "inference": "Fire is placed in the altar for pilgrimage.",
+   "uncertainties": [
+    "Pilgrimage destination is not specified."
+   ],
+   "plain_english": "Then here, for pilgrimage, having placed fire in the altar."
+  },
+  {
+   "verse": 1943,
+   "rows": [
+    {
+     "surface": "pālāśīḥ",
+     "gloss": "palāśa-twigs",
+     "grounds": "feminine accusative plural",
+     "morph": "noun.acc.pl.f"
+    },
+    {
+     "surface": "samidho",
+     "gloss": "fuel",
+     "grounds": "accusative plural",
+     "morph": "noun.acc.pl.f"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "carum",
+     "gloss": "offering",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "What fuel and offering are prepared for the fire?",
+   "premises": [
+    "Palāśa twigs are fuel.",
+    "Ghee is included.",
+    "An offering is prepared."
+   ],
+   "inference": "Palāśa twigs, ghee, and offering are prepared.",
+   "uncertainties": [
+    "Exact offering type is not specified."
+   ],
+   "plain_english": "Palāśa twigs as fuel, then ghee and offering."
+  },
+  {
+   "verse": 1944,
+   "rows": [
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tilājyābhyāṃ",
+     "gloss": "with-sesame-ghee",
+     "grounds": "tila+ājya instrumental dual",
+     "morph": "noun.inst.du.n"
+    },
+    {
+     "surface": "mūlāt",
+     "gloss": "from-root",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇāt",
+     "gloss": "full",
+     "grounds": "ablative adjective",
+     "morph": "adj.abl.sg.n"
+    },
+    {
+     "surface": "juhotu",
+     "gloss": "let-him-offer",
+     "grounds": "imperative of hu",
+     "morph": "verb.3.sg.act-imperative+root-hu"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is expiation offered from the root?",
+   "premises": [
+    "Expiation is offered.",
+    "Sesame and ghee are used.",
+    "The offering is full and from the root."
+   ],
+   "inference": "Expiation is offered fully from the root with sesame and ghee.",
+   "uncertainties": [
+    "Specific fault expiated is not stated."
+   ],
+   "plain_english": "Let him offer expiation with sesame and ghee, full, from the root."
+  },
+  {
+   "verse": 1945,
+   "rows": [
+    {
+     "surface": "caivājyaṃ",
+     "gloss": "and-ghee",
+     "grounds": "ca+eva+ājya",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive of hu",
+     "morph": "verb.3.sg.act-absolutive+root-hu"
+    },
+    {
+     "surface": "tvatha",
+     "gloss": "then",
+     "grounds": "tu+atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayādibhiḥ",
+     "gloss": "with-jaya-etc",
+     "grounds": "jaya+ādi instrumental plural",
+     "morph": "noun.inst.pl.m"
+    }
+   ],
+   "question": "What is offered with jaya and similar mantras?",
+   "premises": [
+    "Ghee is offered.",
+    "The offering is completed.",
+    "Jaya and related mantras are used."
+   ],
+   "inference": "Ghee is offered with jaya and related mantras.",
+   "uncertainties": [
+    "List of jaya mantras is not given."
+   ],
+   "plain_english": "Having offered ghee, then with jaya and so forth."
+  },
+  {
+   "verse": 1946,
+   "rows": [
+    {
+     "surface": "devamāropya",
+     "gloss": "having-placed-deity",
+     "grounds": "deva+āropya",
+     "morph": "verb.3.sg.act-absolutive+root-ruh"
+    },
+    {
+     "surface": "tīrthasnānāya",
+     "gloss": "for-holy-bath",
+     "grounds": "tīrtha+snāna+āya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "let-him-go",
+     "grounds": "optative of vraj",
+     "morph": "verb.3.sg.act-optative+root-vraj"
+    }
+   ],
+   "question": "Why does the officiant go after placing the deity?",
+   "premises": [
+    "The deity is placed.",
+    "Holy bath is the purpose.",
+    "He should go."
+   ],
+   "inference": "After placing the deity, he goes for the holy bath.",
+   "uncertainties": [
+    "Bathing location is not specified."
+   ],
+   "plain_english": "Having placed the deity, then let him go for the holy bath."
+  },
+  {
+   "verse": 1947,
+   "rows": [
+    {
+     "surface": "puraskṛtya",
+     "gloss": "having-led",
+     "grounds": "absolutive of puraskṛ",
+     "morph": "verb.3.sg.act-absolutive+root-kṛ"
+    },
+    {
+     "surface": "snānopakaraṇaiḥ",
+     "gloss": "with-bathing-implements",
+     "grounds": "snāna+upakaraṇa instrumental plural",
+     "morph": "noun.inst.pl.n"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accompanies the led procession for bathing?",
+   "premises": [
+    "The deity is led forward.",
+    "Bathing implements are included.",
+    "They accompany the procession."
+   ],
+   "inference": "The led procession includes bathing implements.",
+   "uncertainties": [
+    "Specific implements are not listed."
+   ],
+   "plain_english": "Having led, with bathing implements."
+  },
+  {
+   "verse": 1948,
+   "rows": [
+    {
+     "surface": "pradīpadhūpakalaśairvidhṛtaiścāṣṭamaṅgalaiḥ",
+     "gloss": "with-lamp-incense-pot-held-eight-auspicious",
+     "grounds": "compound instrumental plural",
+     "morph": "noun.inst.pl.m"
+    }
+   ],
+   "question": "What held auspicious items accompany the procession?",
+   "premises": [
+    "Lamp is included.",
+    "Incense and pot are included.",
+    "Eight auspicious items are held."
+   ],
+   "inference": "The procession includes lamp, incense, pot, and eight auspicious items.",
+   "uncertainties": [
+    "Exact eight auspicious items are not enumerated."
+   ],
+   "plain_english": "With lamp, incense, pot, held eight auspicious items."
+  },
+  {
+   "verse": 1949,
+   "rows": [
+    {
+     "surface": "viśiṣṭasindhunadyabdhitīrthādyaṃ",
+     "gloss": "excellent-sea-river-ocean-holy-place-etc",
+     "grounds": "compound accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "pracurāmbumat",
+     "gloss": "abundant-water",
+     "grounds": "pracura+ambu+mat",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What kind of holy place with abundant water is sought?",
+   "premises": [
+    "An excellent holy place is sought.",
+    "Sea, river, and ocean are included.",
+    "Water is abundant."
+   ],
+   "inference": "An excellent holy place with abundant water is sought.",
+   "uncertainties": [
+    "Specific tīrtha is not named."
+   ],
+   "plain_english": "An excellent sea, river, ocean, holy place, and so forth with abundant water."
+  }
+ ]
+}

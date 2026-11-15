@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2214,
- "question": "What consequences follow from a fire-pit lacking a throat or having a deficient excavation?",
+ "question": "Which mantras are recited in order?",
  "premises": [
-  "A fire-pit without a throat is defective.",
-  "A fire-pit with a deficient excavation is defective.",
-  "These defects cause speech obstruction and failure."
+  "Order is named.",
+  "Mantras are named.",
+  "The compound specifies a counted set."
  ],
- "inference": "A throatless fire-pit causes obstruction of speech, and a deficient pit causes lack of success.",
- "uncertainties": [],
- "plain_english": "In a fire-pit without a throat there would be obstruction of speech, and in a deficient excavation there would be failure."
+ "inference": "Recite the counted mantras in order.",
+ "uncertainties": [
+  "Exact mantra count is embedded in the compound."
+ ],
+ "plain_english": "Recite the counted mantras in order."
 }

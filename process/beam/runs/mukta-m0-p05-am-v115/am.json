@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 115,
- "question": "How many times should the earth-water seed be mantrified?",
+ "question": "Which goddess and color is being contemplated here?",
  "premises": [
-  "earth-water seed is named",
-  "mantrification is prescribed",
-  "three times is the count"
+  "The token list names Kini.",
+  "A color term closes the unit."
  ],
- "inference": "the seed is mantrified three times",
- "uncertainties": [],
- "plain_english": "One should mantrify the earth-water seed three times."
+ "inference": "The unit prescribes contemplating yellow-colored Kini with the listed attributes.",
+ "uncertainties": [
+  "Some token boundaries are fused in the source."
+ ],
+ "plain_english": "Contemplate yellow-colored Kini with the listed attributes."
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p87",
  "verse": 2168,
- "question": "How did the charioteer respond to the demon lord?",
+ "question": "How do dhatri and four milk trees complete the set?",
  "premises": [
-  "Having heard the lord's word.",
-  "He drove the chariot quickly."
+  "The token names dhatri.",
+  "It names four milk trees.",
+  "It is connective."
  ],
- "inference": "The verse shows immediate obedience.",
- "uncertainties": [],
- "plain_english": "Having heard the demon lord's word, he drove the chariot quickly."
+ "inference": "Dhatri and four milk trees complete the set.",
+ "uncertainties": [
+  "Exact completion role is not specified."
+ ],
+ "plain_english": "Dhatri and four milk trees complete the set."
 }

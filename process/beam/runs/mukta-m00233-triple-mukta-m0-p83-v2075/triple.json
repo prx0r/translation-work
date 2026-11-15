@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverb marking the central position of the array",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive/gerund of saṃ-sthā, governing the following accusative object",
+     "morph": "gerund root saṃ-sthā"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "cardinal numeral modifying saṃpuṭān",
+     "morph": "numeral (indecl.)"
+    },
+    {
+     "surface": "saṃpuṭān",
+     "gloss": "containers",
+     "grounds": "accusative plural masculine object of saṃsthāpya",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "How many containers are to be established in the middle of the ritual array?",
+   "premises": [
+    "nine containers are established in the middle",
+    "the action is performed by saṃsthāpya",
+    "the containers are the direct object"
+   ],
+   "inference": "the ritual array requires nine containers placed centrally",
+   "uncertainties": [
+    "the specific ritual function of each saṃpuṭa is not stated in this verse"
+   ],
+   "plain_english": "Having established nine containers in the middle."
+  }
+ ]
+}

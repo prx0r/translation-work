@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[smṛti](smṛtiṃ) [ca](ca) [medhā](medhāṃ) [prajñā](prajñāṃ) [ca](ca) [pūrvavat+nandikeśvara](pūrvavannandikeśvara)
+[memory](smṛtiṃ) [and](ca) [intelligence](medhāṃ) [and](ca) [wisdom](prajñāṃ) [ca](ca) [as-before-nandikesvara](pūrvavannandikeśvara)
 
 ## mukta-m0-p73-v1802
-[vāyavya](vāyavye) [tu](tu) [śikhā](śikhāṃ) [yajet](yajet)
+[in-vayavya-direction](vāyavye) [tu](tu) [crest](śikhāṃ) [let-one-worship](yajet)
 
 ## mukta-m0-p73-v1803
-[savya](savye) [tu](tu) [dala+madhya](dalamadhye) [tu](tu) [pūjayet](pūjayenmantra) [mantra+rājaka](mantrarājakam)
+[on-left](savye) [tu](tu) [in-middle-of-petal](dalamadhye) [tu](tu) [let-one-worship](pūjayenmantra) [royal](rājakam)
 
 ## mukta-m0-p73-v1804
-[namo+rudra+anvita](namorudrānvitāścaitā) [iti](iti) [śakvarī](śakvari) [saṃkhyaka](saṃkhyakāḥ)
+[namo-rudra-accompanied-these](namorudrānvitāścaitā) [thus](iti) [sakvari](śakvari) [numbered](saṃkhyakāḥ)
 
 ## mukta-m0-p73-v1805
-[sva+sva+nāman](svasvanāmnā) [ca](ca) [saṃpūjya](saṃpūjya) [sva+svarūpa](svasvarūpaṃ) [vibhāvayet](vibhāvayet)
+[by-own-names](svasvanāmnā) [ca](ca) [having-worshipped](saṃpūjya) [own-form](svasvarūpaṃ) [let-one-contemplate](vibhāvayet)
 
 ## mukta-m0-p73-v1806
-[abhiṣeka](abhiṣekaṃ) [huta](hutaṃ) [ca](ca) [eva](caiva) [bhakti+yukta](bhaktiyuktaḥ) [samācaret](samācaret)
+[abhisheka](abhiṣekaṃ) [huta](hutaṃ) [ca](ca) [eva](eva) [devotion-endowed](bhaktiyuktaḥ) [let-one-perform](samācaret)
 
 ## mukta-m0-p73-v1807
-[madhura+traya](madhuratraya) [saṃsikta](saṃsiktaiḥ) [śveta](śvetaiśśubhaiśśītalairapi)
+[with-three-sweets](madhuratraya) [sprinkled](saṃsiktaiḥ) [white](śvetaiś) [auspicious](śubhaiś) [cool](śītalairapi)
 
 ## mukta-m0-p73-v1808
-[prātar](prātaḥ) [snātvā](snātvā) [samācamya](samācamya) [nyāsa+ādi+sahita](nyāsādisahitaḥ) [kramāt](kramāt)
+[morning](prātaḥ) [having-bathed](snātvā) [having-sipped](samācamya) [with-nyasa-etc](nyāsādisahitaḥ) [in-order](kramāt)
 
 ## mukta-m0-p73-v1809
-[mūla+mantra](mūlamantra) [sahasra](sahasraṃ) [ca](ca) [japitvā](japitvā) [tat+jala](tajjalaṃ) [pibet](pibet)
+[root-mantra](mūlamantra) [thousand](sahasraṃ) [ca](ca) [having-chanted](japitvā) [that-water](tajjalaṃ) [let-one-drink](pibet)
 
 ## mukta-m0-p73-v1810
-[hṛdaya+avadhi](hṛdayāvadhike) [toya](toye) [sthitvā](sthitvā) [bhāskara+bimbaka](bhāskarabimbake)
+[in-water-from-heart-to-limit](hṛdayāvadhike) [toye](toye) [standing](sthitvā) [sun-disk](bhāskarabimbake)
 
 ## mukta-m0-p73-v1811
-[sahasra+tritaya](sahasra tritayaṃ) [japtvā](japtvā) [maṇḍala+avadhi](maṇḍalāvadhi) [nityaśaḥ](nityaśaḥ)
+[thousand-threefold](sahasra) [tritayaṃ](tritayaṃ) [having-chanted](japtvā) [up-to-mandala](maṇḍalāvadhi) [daily](nityaśaḥ)
 
 ## mukta-m0-p73-v1812
-[tri+svādu](trisvādu) [madhu+bilva+uttha](madhubilvotthaiḥ) [su+patra](supatraiścā) [yuta](yutaṃ) [hunet](hunet)
+[with-three-sweets-honey-bilva-leaves](trisvādu) [madhubilvotthaiḥ](madhubilvotthaiḥ) [with-good-leaves](supatraiścā) [yutaṃ](yutaṃ) [let-one-offer](hunet)
 
 ## mukta-m0-p73-v1813
-[kṛta+añjali](kṛtāñjali) [samiddha+homa](samiddhomāṃ) [madhura+traya+saṃyuta](madhuratrayasaṃyutām)
+[with-folded-hands](kṛtāñjali) [well-kindled-homa](samiddhomāṃ) [with-three-sweets](madhuratrayasaṃyutām)
 
 ## mukta-m0-p73-v1814
-[brahmī+rasa](brahmīrasena) [payasā](payasā) [ghṛta+yukta](ghṛtayuktaṃ) [su+pācayet](supācayet)
+[brahmi-juice](brahmīrasena) [with-milk](payasā) [with-ghee](ghṛtayuktaṃ) [let-one-cook-well](supācayet)
 
 ## mukta-m0-p73-v1815
-[karṣaka+traya+mātra](karṣakatrayamātreṇa) [kavitā](kavitā) [maṇḍala+ād+bhavet](maṇḍalādbhavet)
+[by-three-karsha-measure](karṣakatrayamātreṇa) [poetry](kavitā) [from-mandala](maṇḍalādbhavet)
 
 ## mukta-m0-p73-v1816
-[saindhava](saindhavaṃ) [ca](ca) [ajamoda](ājamodaṃ) [ca](ca) [vāca](vācaścaitā) [ca](ca) [pippalī](pippalīḥ)
+[rock-salt](saindhavaṃ) [ca](ca) [ajmoda](ājamodaṃ) [ca](ca) [vaca](vācaścaitā) [ca](ca) [pippali](pippalīḥ)
 
 ## mukta-m0-p73-v1817
-[brahmī+rasa](brahmīrasena) [bahuśaḥ](bahuśo) [bhāvayitvā](bhāvayitvā) [vicakṣaṇa](vicakṣaṇaḥ)
+[with-brahmi-juice](brāhmīrasena) [repeatedly](bahuśo) [having-impregnated](bhāvayitvā) [wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p73-v1818
-[ardha+māsa](ardhamāsa) [prayoga](prayogena) [bhakṣayet](bhakṣayedardhamātrakam)
+[for-half-month](ardhamāsa) [practice](prayogena) [let-one-eat](bhakṣayedardhamātrakam)
 
 ## mukta-m0-p73-v1819
-[tasmāt](tasmātkavitva) [kavitva+saṃsiddhi](kavitvasaṃsiddhiravivāraṃ) [tu](tu) [sādhake](sādhake)
+[therefore](tasmātkavitva) [poetic-perfection](saṃsiddhiravivāraṃ) [tu](tu) [for-practitioner](sādhake)
 
 ## mukta-m0-p73-v1820
-[sahasra](sahasraṃ) [tu](tu) [dina+ādau](dinādau) [tu](tu) [japtvā](japtvā) [nityaṃ](nityaṃ) [tu](tu) [māsaka](māsakam)
+[thousand](sahasraṃ) [tu](tu) [at-day-beginning](dinādau) [tu](tu) [having-chanted](japtvā) [daily](nityaṃ) [tu](tu) [for-month](māsakam)
 
 ## mukta-m0-p73-v1821
-[kavitva](kavitvaṃ) [ca](ca) [yaśas+vaśya](yaśovaśyaṃ) [draviṇatva](draviṇatvaṃ) [ca](ca) [sidhyati](sidhyati)
+[poetry](kavitvaṃ) [ca](ca) [fame-subjection](yaśovaśyaṃ) [wealth](draviṇatvaṃ) [ca](ca) [succeeds](sidhyati)
 
 ## mukta-m0-p73-v1822
-[a+kāra+ādi+kṣa+kāra+anta](akārādikṣakārāntaṃ) [pañcāśat](pañcāśadapi) [ca](ca) [oṣadhi](cauṣadhīḥ)
+[from-a-to-ksha](akārādikṣakārāntaṃ) [fifty](pañcāśadapi) [ca](ca) [herbs](cauṣadhīḥ)
 
 ## mukta-m0-p73-v1823
-[uśīra](uśīraṃ) [kuṣṭhaka](kuṣṭhakaṃ) [ca](ca) [eva](caiva) [pari+kunkuma](parikuṃkumameva) [ca](ca)
+[usira](uśīraṃ) [kustha](kuṣṭhakaṃ) [ca](ca) [eva](eva) [saffron](parikuṃkumameva) [ca](ca)
 
 ## mukta-m0-p73-v1824
-[gandha](gandhaṃ) [ca](ca) [rocanā](rocanāṃ) [ca](ca) [eva](caiva) [patra](patraṃ) [tadanu](tadanu) [pippalī](pippalīm)
+[fragrance](gandhaṃ) [ca](ca) [rochana](rocanāṃ) [ca](ca) [eva](eva) [leaf](patraṃ) [then](tadanu) [pippali](pippalīm)
 
 ## mukta-m0-p73-v1825
-[udumbara](udumbaraṃ) [kāmarīkā](kāmarīkāṃ) [vārā+majja](vārāmajjaṃ) [tathā+eva](tathaiva) [ca](ca)
+[udumbara](udumbaraṃ) [kamarika](kāmarīkāṃ) [marrow](vārāmajjaṃ) [tathaiva](tathaiva) [ca](ca)

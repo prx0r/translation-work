@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-[sādhaka](sādhakaṃ) [jñāna+vṛddha](jñānavṛddhaṃ) [ca](ca) [jyeṣṭha](jyeṣṭhaṃ) [bhakti+samanvita](bhaktisamanvitam)
+[adept](sādhakaṃ) [knowledge+grown](jñānavṛddhaṃ) [and](ca) [elder](jyeṣṭhaṃ) [devotion+endowed](bhaktisamanvitam)
 
 ## mukta-m0-p35-v852
-[nirmālya](nirmālyantu) [tu](tu) [na](na) [bhuñjīta](bhuñjīta) [śiva+bhakta](śivabhaktānna) [na](na) [nindayet](nindayet)
+[remnant+but](nirmālyantu) [not](na) [should-eat](bhuñjīta) [śiva-devotees+not](śivabhaktānna) [should-scold](nindayet)
 
 ## mukta-m0-p35-v853
-[śiva+agni](śivāgni) [guru+pūjā](gurupūjā) [vai](vai) [kartavyā](kartavyā) [jīvika+arthibhiḥ](jīvikārthibhiḥ)
+[śiva-fire](śivāgni) [guru-worship](gurupūjā) [indeed](vai) [to-be-done](kartavyā) [by-livelihood-seekers](jīvikārthibhiḥ)
 
 ## mukta-m0-p35-v854
-[niyama](niyamena) [ca](ca) [kartavya](kartavyaṃ) [catuṣṭaya](catuṣṭayamapi) [api](api) [krama](kramāt)
+[by-rule](niyamena) [and](ca) [to-be-done](kartavyaṃ) [fourfold](catuṣṭayam) [also](api) [in-order](kramāt)
 
 ## mukta-m0-p35-v855
-[a+dīkṣita](adīkṣitasya) [bandhutva](bandhutvaṃ) [kṛtaghna+avivekatā](kṛtaghnatvāvivekatām)
+[uninitiated](adīkṣitasya) [kinship](bandhutvaṃ) [ungratefulness](kṛtaghnatvā) [and](vā) [non-discrimination](avivekatām)
 
 ## mukta-m0-p35-v856
-[eteṣām](eteṣāṃ) [saptaviṃśa](saptaviṃśānāṃ) [śrāvaka](śrāvakāṇāṃ) [viśeṣataḥ](viśeṣataḥ)
+[of-these](eteṣāṃ) [twenty-seven](saptaviṃśānāṃ) [of-disciples](śrāvakāṇāṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p35-v857
-[pūrvavat](pūrvavat) [pañca+gavya](pañcagavyaṃ) [ca](ca) [caru+saṃbhojana](carusaṃbhojanaṃ) [bhavet](bhavet)
+[as-before](pūrvavat) [five-cows](pañcagavyaṃ) [and](ca) [rice-offering](carusaṃbhojanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p35-v858
-[vrata+aṅga+poṣa](vratāṃgapoṣāssarve'pi) [sarve](sarve) [api](api) [yogya](yogyameva) [eva](eva) [tad+ādika](tadādikam)
+[vow-limb-nourishments](vratāṃgapoṣāssarve) [all](api) [fit](yogyameva) [then-first](tadādikam)
 
 ## mukta-m0-p35-v859
-[pañca+brahma](pañcabrahmatadaṃgaiśca) [tad+aṅga](tad+aṅgaiḥ) [ca](ca) [parijapya](parijapya) [yathodita](yathoditam)
+[five-brahmans](pañcabrahma) [their-limbs](tadaṃgaiśca) [and](ca) [having-chanted](parijapya) [as-stated](yathoditam)
 
 ## mukta-m0-p35-v860
-[labdhvā](labdhvā) [śiva+ājñā](śivājñāṃ) [yogya](yogyāya) [vrata](vratānetānvadedguruḥ) [etān](etān) [vadet](vaded) [guru](guruḥ)
+[having-obtained](labdhvā) [śiva-command](śivājñāṃ) [to-worthy-one](yogyāya) [vows](vratān) [these](etān) [would-tell](vaded) [guru](guruḥ)
 
 ## mukta-m0-p35-v861
-[samādāya](samādāya) [hṛdā](hṛdā) [deva](devaṃ) [dharet](dharecchiṣyopasaṃyutaḥ) [śiṣya](śiṣya) [upasaṃyuta](upasaṃyutaḥ)
+[having-accepted](samādāya) [by-heart](hṛdā) [thus](evaṃ) [would-wear](dharec) [with-disciple](śiṣyopasaṃyutaḥ)
 
 ## mukta-m0-p35-v862
-[liṅga+arcana](liṃgārcanaṃ) [ca](cāpi) [api](api) [tathā](tathaiva) [eva](eva) [kuryāt](kuryāt)
+[liṅga-worship](liṃgārcanaṃ) [and](ca) [also](api) [thus](tathaiva) [should-do](kuryāt)
 
 ## mukta-m0-p35-v863
-[yoga+da](yogadaṃ) [jñāna+da](jñānadaṃ) [ca](ca) [eva](eva) [mokṣa+da](mokṣadaṃ) [bhakti+vardhana](bhaktivardhanam)
+[yoga-giving](yogadaṃ) [knowledge-giving](jñānadaṃ) [and](ca) [indeed](eva) [liberation-giving](mokṣadaṃ) [devotion-increasing](bhaktivardhanam)
 
 ## mukta-m0-p35-v864
-[ātma+artha](ātmārthaṃ) [ca](ca) [para+artha](parārthaṃ) [ca](ca) [dvividha](dvividhaṃ) [śiva+pūjana](śivapūjanam)
+[self-purpose](ātmārthaṃ) [and](ca) [other-purpose](parārthaṃ) [and](ca) [twofold](dvividhaṃ) [śiva-worship](śivapūjanam)
 
 ## mukta-m0-p35-v865
-[pūjā+phala](pūjāphalaṃ) [tu](tu) [sāmānya](sāmānye) [sarva+bhūta](sarvabhūtāya) [nirdiśet](nirdiśet)
+[worship-fruit](pūjāphalaṃ) [but](tu) [in-common](sāmānye) [to-all-beings](sarvabhūtāya) [should-declare](nirdiśet)
 
 ## mukta-m0-p35-v866
-[sarva+tattva+ādika](sarvatatvādikaṃ) [jñeya](jñeyaṃ) [sarva+kāraṇa+kāraṇa](sarvakāraṇakāraṇam)
+[all-principles](sarvatatvādikaṃ) [to-be-known](jñeyaṃ) [all-causes](sarvakāraṇa) [cause](kāraṇam)
 
 ## mukta-m0-p35-v867
-[tat+prabhā](tatprabhā) [śakti](śaktirityuktā) [iti](iti) [uktā](uktā) [pīṭhikā](pīṭhikā) [sā](saiva) [eva](eva) [na](na) [adyathā](nādyathā)
+[its-radiance](tatprabhā) [śakti](śaktir) [thus-called](ityuktā) [seat](pīṭhikā) [that](saiva) [not](na) [otherwise](adyathā)
 
 ## mukta-m0-p35-v868
-[līyate](līyate) [nikhila](nikhilaṃ) [tasmin](tasmin) [layatva](layatvālliṃgamucyate) [liṅga](liṅga) [ucyate](ucyate)
+[dissolves](līyate) [all](nikhilaṃ) [in-that](tasmin) [by-dissolution](layatvāt) [liṅga](liṃgam) [is-called](ucyate)
 
 ## mukta-m0-p35-v869
-[tṛpti](tṛptirbhavati) [bhavati](bhavati) [śākhā](śākhānāṃ) [vṛkṣa+mūla](vṛkṣamūle) [jala+arpaṇa](jalārpaṇāt)
+[satisfaction](tṛptir) [becomes](bhavati) [branches](śākhānāṃ) [tree-root](vṛkṣamūle) [water-offering](jalārpaṇāt)
 
 ## mukta-m0-p35-v870
-[ātma+artha](ātmārthaṃ) [cara](caraliṃgaṃ) [liṅga](liṅgaṃ) [ca](ca) [tad](tadviśeṣācchṛṇuṣvatha) [viśeṣa](viśeṣāt) [śṛṇuṣva](śṛṇuṣva) [atha](atha)
+[self-purpose](ātmārthaṃ) [movable-liṅga](caraliṃgaṃ) [and](ca) [its-distinction](tadviśeṣāc) [hear](śṛṇuṣvatha)
 
 ## mukta-m0-p35-v871
-[śaila+ja](śailajaṃ) [ca](ca) [eka](caikabhedaṃ) [bheda](bhedaṃ) [syāt](syād) [bhoga](bhogamokṣa) [mokṣa](mokṣa) [phala+prada](phalapradam)
+[mountain-born](śailajaṃ) [and](ca) [one-kind](ekabhedaṃ) [would-be](syād) [enjoyment-liberation](bhogamokṣa) [fruit-giving](phalapradam)
 
 ## mukta-m0-p35-v872
-[māṇikya](māṇikyaṃ) [ca](ca) [prabāla](prabālaṃ) [ca](ca) [vaiḍūrya](vaiḍūryaṃ) [sphāṭika](sphāṭikaṃ) [tathā](tathā)
+[ruby](māṇikyaṃ) [and](ca) [coral](prabālaṃ) [and](ca) [beryl](vaiḍūryaṃ) [crystal](sphāṭikaṃ) [thus](tathā)
 
 ## mukta-m0-p35-v873
-[māṇikya](māṇikyaṃ) [śrī+prada](śrīpradaṃ) [jñeya](jñeyaṃ) [pravāla](pravālaṃ) [vaśya+da](vaśyadaṃ) [bhavet](bhavet)
+[ruby](māṇikyaṃ) [prosperity-giving](śrīpradaṃ) [to-be-known](jñeyaṃ) [coral](pravālaṃ) [subjugation-giving](vaśyadaṃ) [becomes](bhavet)
 
 ## mukta-m0-p35-v874
-[śatru+kṣaya+kara](śatrukṣayakaraṃ) [vajra](vajraṃ) [marakata](marakataṃ) [puṣṭi+vardhana](puṣṭivardhanam)
+[enemy-destruction](śatrukṣayakaraṃ) [diamond](vajraṃ) [emerald](marakataṃ) [nourishment-increasing](puṣṭivardhanam)
 
 ## mukta-m0-p35-v875
-[evaṃ](evaṃ) [ratna+ja](ratnajamākhyātaṃ) [ākhyāta](ākhyātaṃ) [loha+ja](lohajaṃ) [punaḥ](punarucyate) [ucyate](ucyate)
+[thus](evaṃ) [gem-born](ratnajam) [called](ākhyātaṃ) [metal-born](lohajaṃ) [again](punar) [is-said](ucyate)

@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "uktotsavadinānyevamativāhya",
+     "gloss": "spoken-festival-days-thus-passing-over",
+     "grounds": "fused accusative plural neuter noun phrase plus indeclinable plus gerund; internal sandhi kept unsplit",
+     "morph": "acc.pl.n+indecl.+gerund"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rite",
+     "grounds": "indeclinable adverbial phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the spoken festival days be passed over according to rite?",
+   "premises": [
+    "spoken festival days are named",
+    "days are passed over",
+    "rite governs passing"
+   ],
+   "inference": "the rite directs passing spoken festival days",
+   "uncertainties": [
+    "internal sandhi of fused token not expanded"
+   ],
+   "plain_english": "Thus, having passed the spoken festival days according to rite."
+  }
+ ]
+}

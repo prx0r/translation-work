@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2030,
- "question": "Which fire-pit shapes are named in this instruction?",
+ "question": "What is removed entirely in this operation?",
  "premises": [
-  "Six-cornered is named",
-  "Lotus-shaped is named",
-  "Eight-cornered is named"
+  "The verse states a removal.",
+  "It states the removal is total.",
+  "No separate object is named here."
  ],
- "inference": "Named shapes include six-cornered, lotus-shaped, and eight-cornered",
+ "inference": "The operation removes everything in the stated scope.",
  "uncertainties": [
-  "Whether all are kuṇḍa types"
+  "The exact object of removal is supplied by context."
  ],
- "plain_english": "Six-cornered, lotus-shaped, and eight-cornered are named."
+ "plain_english": "Everything in scope is removed."
 }

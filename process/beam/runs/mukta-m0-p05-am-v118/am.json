@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 118,
- "question": "What follows after washing in this purification sequence?",
+ "question": "Which goddess and color is being saluted here?",
  "premises": [
-  "washing comes first",
-  "both hands are involved",
-  "sipping follows immediately"
+  "The token list names Dakini.",
+  "A color term closes the unit."
  ],
- "inference": "after washing one sips with both hands",
- "uncertainties": [],
- "plain_english": "Having washed, one then sips with both hands."
+ "inference": "The unit prescribes saluting red-colored Dakini with the listed attributes.",
+ "uncertainties": [
+  "Some token boundaries are fused in the source."
+ ],
+ "plain_english": "Salute red-colored Dakini with the listed attributes."
 }

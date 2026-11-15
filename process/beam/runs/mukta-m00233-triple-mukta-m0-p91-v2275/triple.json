@@ -1,0 +1,28 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "tadbāhyaviṃśativyūhamadhyasthakalaśāṃstataḥ",
+     "gloss": "then-pots-middle-outside-twenty-arrangement",
+     "grounds": "compound accusative plural masculine; members tad, bāhya, viṃśati, vyūha, madhyastha, kalaśa; tataḥ indicates sequence after previous arrangement",
+     "morph": "m.acc.pl; compound=tad+bāhya+viṃśati+vyūha+madhyastha+kalaśa"
+    }
+   ],
+   "question": "Which pots are arranged after the middle pot and outside twenty-one arrangement?",
+   "premises": [
+    "previous substances and mantras fill junction places",
+    "twenty-one arrangement has middle pot outside",
+    "then outside twenty arrangement middle pots follow"
+   ],
+   "inference": "the ritual sequence moves from the twenty-one arrangement to pots in the middle of an outside twenty arrangement",
+   "uncertainties": [
+    "exact spatial relation of tadbāhya to vyūha remains context-dependent",
+    "whether tataḥ marks immediate next operation or general sequence is not explicit"
+   ],
+   "plain_english": "Then [arrange] the pots situated in the middle of the twenty arrangement outside that."
+  }
+ ]
+}

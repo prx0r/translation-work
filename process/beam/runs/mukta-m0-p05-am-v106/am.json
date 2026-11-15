@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 106,
- "question": "With what mantric elements should the practitioner sip water?",
+ "question": "Which deity form and color is being prescribed here?",
  "premises": [
-  "sipping uses self-principle and related elements",
-  "praṇava and svadhā endings are included"
+  "The token list gives iconographic attributes.",
+  "A color term closes the unit."
  ],
- "inference": "water sipping is accompanied by specified mantric elements",
- "uncertainties": [],
- "plain_english": "One should sip water with self-principle and related elements, praṇava and svadhā endings."
+ "inference": "The unit prescribes a vermilion-colored form with the listed attributes.",
+ "uncertainties": [
+  "Exact deity name is not explicit in these tokens."
+ ],
+ "plain_english": "Make the vermilion-colored form bearing the listed attributes."
 }

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-moth tawny also Hara creator-named
+[moth](pataṃgaḥ) [tawny](piṃgalaḥ) [and](ca) [indeed](eva) [shiva](haraḥ) [creator](vidhātra) [named](saṃjñakaḥ)
+
 ## mukta-m0-p83-v2052
-with-cause house-liberation then worship
+[with-cause](saheto) [in-world-dissolution](bhavanirvṛttau) [equally](samā) [external](bāhyā) [then](atha) [worship](pūjayet)
+
 ## mukta-m0-p83-v2053
-pervading pervader form-formless first-first radiance-radiance
+[pervading](vyāpi) [pervader](vyāpin) [form](rūpa) [formless](arūpa) [first](prathama) [first](prathama) [radiance](teja) [radiance](tejaḥ)
+
 ## mukta-m0-p83-v2054
-na na na na dhū dhū dhū dhū om earth om mid-air om heaven
+[no](nā) [no](nā) [no](nā) [no](nā) [dhū](dhū) [dhū](dhū) [dhū](dhū) [dhū](dhū) [oṃ](oṃ) [bhūḥ](bhūḥ) [oṃ](oṃ) [bhuvaḥ](bhuvaḥ) [oṃ](oṃ) [suvaḥ](suvaḥ)
+
 ## mukta-m0-p83-v2055
-great-god true-being-lord great-radiance yoga-lord
+[great-god](mahādeva) [true-being-lord](sadbhāveśvara) [great-radiance](mahātejo) [yoga-lord](yogādhipate)
+
 ## mukta-m0-p83-v2056
-seed and reca which mantra Vamadeva Shiva crest-channel
+[seed](bījaṃ) [and](ca) [reca](reca) [yo](yo) [mantra](mantraḥ) [vāmadeva](vāmadeva) [shiva](śiva) [crest-channel](śikhānāḍī)
+
 ## mukta-m0-p83-v2057
-tongue-air-joined sense then becomes
+[tongue-breath-joined](rasanāvāyusaṃyuktam) [sense](indriyaṃ) [and](ca) [then](tadā) [becomes](bhavet)
+
 ## mukta-m0-p83-v2058
-lotus-joined half-moon and circle water thus
+[lotus-joined](abjopetā) [half-moon](ardhacandraṃ) [and](ca) [circle](maṇḍalaṃ) [varuṇa](vāruṇaṃ) [thus](tathā)
+
 ## mukta-m0-p83-v2059
-world-named universe-all within-world remember
+[world-name](bhuvanāmā) [all-world](jagatsarvaṃ) [within-bhuvana](bhuvānāntargataṃ) [remember](smaret)
+
 ## mukta-m0-p83-v2060
-om hram hrim hram utter consecration and story thus
+[oṃ](oṃ) [hrāṃ](hrāṃ) [hrīṃ](hrīṃ) [hrāṃ](hrāṃ) [uttering](samuccārya) [consecration](pratiṣṭhāṃ) [and](ca) [story](kathāṃ) [thus](tathā)
+
 ## mukta-m0-p83-v2061
-om hram hrim hram consecration-garland-noose-to hum-phat
+[oṃ](oṃ) [hrāṃ](hrāṃ) [hrīṃ](hrīṃ) [hrāṃ](hrāṃ) [consecration-garland-bound](pratiṣṭhākalāpāśāya) [huṃphaṭ](huṃphaṭ)
+
 ## mukta-m0-p83-v2062
-seal and thus-attract hum-phat-ending he seed-joined
+[by-mudra](mudrayā) [and-thus](caivam) [attract](ākarṣed) [huṃphaṭ-ending](huṃphaḍantaṃ) [that](sa) [seed-joined](bījayuk)
+
 ## mukta-m0-p83-v2063
-* * * seal taking breath-retention heart-below
+[mudra](mudrayā) [taking](gṛhya) [kumbhaka](kumbhakena) [heart](hṛdā) [other](anyad) [below](adhaḥ)
+
 ## mukta-m0-p83-v2064
-om hram hrim consecration garland-noose-to namah
+[oṃ](oṃ) [hrāṃ](hrāṃ) [hrīṃ](hrīṃ) [consecration](pratiṣṭhā) [garland-bound](kalāpāśāya) [salutation](namaḥ)
+
 ## mukta-m0-p83-v2065
-exhalation specially pot and thus establish
+[by-exhalation](recakeṇa) [especially](viśeṣeṇa) [in-kumbha](kuṃbhe) [and-indeed](caiva) [establish](vidhāpayet)
+
 ## mukta-m0-p83-v2066
-by-this indeed mantra invoke visualize
+[by-this-very](anenaiva) [indeed](tu) [mantra](mantreṇa) [having-removed](cāpayitvā) [contemplate](vibhāvayet)
+
 ## mukta-m0-p83-v2067
-presence-offering and thus as-before do guru
+[presence-offering](sannidhānāhutiṃ) [and-indeed](caiva) [as-before](pūrvavat) [do](kuryād) [guru](guruḥ)
+
 ## mukta-m0-p83-v2068
-by-this indeed mantra Vishnu-invite worship and
+[by-this-very](anenaiva) [indeed](tu) [mantra](mantreṇa) [viṣṇu](viṣṇum) [having-invoked](āvāhya) [worship](pūjya) [and](ca)
+
 ## mukta-m0-p83-v2069
-to-be-meditated by-you favorable Vishnu inform thus
+[to-be-contemplated](bhāvyaṃ) [by-you](tvayā) [favorably](anukūlena) [viṣṇu](viṣṇuṃ) [inform](vijñāpayet) [thus](iti)
+
 ## mukta-m0-p83-v2070
-flower right-hand disciple-chest strike
+[by-flower](puṣpeṇa) [right-hand](dakṣahastena) [disciple-chest](śiṣyavakṣasi) [strike](tāḍayet)
+
 ## mukta-m0-p83-v2071
-hum-phat-ending utter enter mantra-preceded
+[huṃphaṭ-ending](huṃphaḍantaṃ) [uttering](samuccārya) [enter](praviśet) [mantra-first](mantrapūrvakam)
+
 ## mukta-m0-p83-v2072
-noose-joined but weapon eldest-hook-seal
+[noose-joined](pāśayuktaṃ) [indeed](tu) [weapon](śastreṇa) [eldest](jyeṣṭhayā) [goad-mudra](aṃkuśamudrayā)
+
 ## mukta-m0-p83-v2073
-previously-said indeed mantra svaha-ending clear and
+[by-previously-spoken](pūrvoktena) [indeed](tu) [mantra](mantreṇa) [svāhā-ending](svāhānta) [clearly](sphuṭitena) [and](ca)
+
 ## mukta-m0-p83-v2074
-parents union lift seal-born this
+[of-parents](pitroḥ) [union](saṃyogam) [lifting](uddhārya) [by-mudra](mudrayā) [born](udbhavayā) [this](anayā)
+
 ## mukta-m0-p83-v2075
-limb-birth thus five-headed birth thus
+[in-body-birth](gātrotpattau) [thus](tathā) [five-headed](paṃcaśirasā) [for-birth](janmane) [thus](tathā)

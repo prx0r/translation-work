@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[dhanta](dhāntaṃ) [bhanta](bhāntaṃ) [ca](ca) [vanta](vāntaṃ) [ca](ca) [lanta](lāntaṃ) [manta](māntaṃ) [tathaiva](tathaiva) [ca](ca)
+[dhāntaṃ](dhāntaṃ) [bhāntaṃ](bhāntaṃ) [ca](ca) [vāntaṃ](vāntaṃ) [ca](ca) [lāntaṃ](lāntaṃ) [māntaṃ](māntaṃ) [tathaiva](tathaiva) [ca](ca)
 
 ## mukta-m0-p19-v452
-[bhanta](bhāntaṃ) [lanta](lāntaṃ) [ca](ca) [manta](māntaṃ) [ca](ca) [dhanta](dhāntaṃ) [vanta](vāntaṃ) [tatah-param](tataḥ+param)
+[bhāntaṃ](bhāntaṃ) [lāntaṃ](lāntaṃ) [ca](ca) [māntaṃ](māntaṃ) [ca](ca) [dhāntaṃ](dhāntaṃ) [vāntaṃ](vāntaṃ) [tataḥ](tataḥ) [param](param)
 
 ## mukta-m0-p19-v453
-[lanta](lāntaṃ) [vanta](vāntaṃ) [ca](ca) [bhanta](bhāntaṃ) [ca](ca) [manta](māntaṃ) [dhanta](dhāntaṃ) [tathaiva](tathaiva) [ca](ca)
+[lāntaṃ](lāntaṃ) [vāntaṃ](vāntaṃ) [ca](ca) [bhāntaṃ](bhāntaṃ) [ca](ca) [māntaṃ](māntaṃ) [dhāntaṃ](dhāntaṃ) [tathaiva](tathaiva) [ca](ca)
 
 ## mukta-m0-p19-v454
-[manta](māntaṃ) [dhanta](dhāntaṃ) [ca](ca) [lanta](lāntaṃ) [ca](ca) [vanta](vāntaṃ) [panta](pāntaṃ) [parataram](parātparam)
+[māntaṃ](māntaṃ) [dhāntaṃ](dhāntaṃ) [ca](ca) [lāntaṃ](lāntaṃ) [ca](ca) [vāntaṃ](vāntaṃ) [pāntaṃ](pāntaṃ) [parātparam](parātparam)
 
 ## mukta-m0-p19-v455
-[vanta](vāntaṃ) [dhanta](dhāntaṃ) [ca](ca) [manta](māntaṃ) [ca](ca) [bhanta](bhāntaṃ) [lanta](lāntaṃ) [parataram](parātparam)
+[vāntaṃ](vāntaṃ) [dhāntaṃ](dhāntaṃ) [ca](ca) [māntaṃ](māntaṃ) [ca](ca) [bhāntaṃ](bhāntaṃ) [lāntaṃ](lāntaṃ) [parātparam](parātparam)
 
 ## mukta-m0-p19-v456
-[manta](māntaṃ) [dhanta](dhāntaṃ) [ca](ca) [lanta](lāntaṃ) [ca](ca) [vanta](vāntaṃ) [bhantam-atah-param](bhāntam+ataḥ+param)
+[māntaṃ](māntaṃ) [dhāntaṃ](dhāntaṃ) [ca](ca) [lāntaṃ](lāntaṃ) [ca](ca) [vāntaṃ](vāntaṃ) [bhāntam](bhāntam) [ataḥ](ataḥ) [param](param)
 
 ## mukta-m0-p19-v457
-[vanta](vāntaṃ) [manta](māntaṃ) [ca](ca) [dhanta](dhāntaṃ) [ca](ca) [bhanta](bhāntaṃ) [lanta](lāntaṃ) [ca](ca) [bhavanam](bhāvanam)
+[vāntaṃ](vāntaṃ) [māntaṃ](māntaṃ) [ca](ca) [dhāntaṃ](dhāntaṃ) [ca](ca) [bhāntaṃ](bhāntaṃ) [lāntaṃ](lāntaṃ) [ca](ca) [bhāvanam](bhāvanam)
 
 ## mukta-m0-p19-v458
-[dhanta](dhāntaṃ) [manta](māntaṃ) [ca](ca) [vanta](vāntaṃ) [ca](ca) [lanta](lāntaṃ) [bhanta](bhāntaṃ) [parataram](parātparam)
+[dhāntaṃ](dhāntaṃ) [māntaṃ](māntaṃ) [ca](ca) [vāntaṃ](vāntaṃ) [ca](ca) [lāntaṃ](lāntaṃ) [bhāntaṃ](bhāntaṃ) [parātparam](parātparam)
 
 ## mukta-m0-p19-v459
-[iti](iti) [etat](etat) [panca-cakranam](pañcacakrāṇāṃ) [panca-vimsat-satam](pañcaviṃśatśataṃ) [srnu](śṛṇu)
+[ityetat](ityetat) [pañcacakrāṇāṃ](pañca+cakrāṇāṃ) [pañcaviṃśatśataṃ](pañcaviṃśat+śataṃ) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p19-v460
-[devah](devassadāśivajñeyaḥ) [unmani-sakti-samyutam](unmanīśaktisaṃyutam)
+[devassadāśivajñeyaḥ](devaḥ+sadāśiva+jñeyaḥ) [unmanīśaktisaṃyutam](unmanī+śakti+saṃyutam)
 
 ## mukta-m0-p19-v461
-[vimsat-padam](viṃśatpadaṃ) [tu](tu) [brahmanam](brāhmāṇāṃ) [padam](padaṃ) [prati](prati) [padam](padaṃ) [prati](prati)
+[viṃśatpadaṃ](viṃśat+padaṃ) [tu](tu) [brāhmāṇāṃ](brāhmāṇāṃ) [padaṃ](padaṃ) [prati](prati) [padaṃ](padaṃ) [prati](prati)
 
 ## mukta-m0-p19-v462
-[madhye-eka-padam](madhyamekapadaṃ) [sthapya](sthāpya) [omkaram](oṃkāraṃ) [paramesvaram](parameśvaram)
+[madhyamekapadaṃ](madhyama+eka+padaṃ) [sthāpya](sthāpya) [oṃkāraṃ](oṃkāraṃ) [parameśvaram](parameśvaram)
 
 ## mukta-m0-p19-v463
-[dhanta](dhāntaṃ) [nakara-evoktam](nakāramevoktaṃ) [bhanta](bhāntaṃ) [makara-evoktam](makārameva+ca)
+[dhāntaṃ](dhāntaṃ) [nakāramevoktaṃ](na+kāram+eva+uktaṃ) [bhāntaṃmakārameva](bhāntaṃ+ma+kāram+eva) [ca](ca)
 
 ## mukta-m0-p19-v464
-[manta](māntaṃ) [yakara-evoktam](yakāramevoktaṃ) [namah-sivaya](namaśśivāya) [mantrakah](mantrakaḥ)
+[māntaṃ](māntaṃ) [yakāramevoktaṃ](ya+kāram+eva+uktaṃ) [namaśśivāya](namaḥ+śivāya) [mantrakaḥ](mantrakaḥ)
 
 ## mukta-m0-p19-v465
-[sarva-mangala-raksa-artham](sarvamaṅgalarakṣārthaṃ) [sarva-satru-ksayam](sarvaśatrukṣayaṃ) [bhavet](bhavet)
+[sarvamaṅgalarakṣārthaṃ](sarva+maṅgala+rakṣā+artham) [sarvaśatrukṣayaṃ](sarva+śatru+kṣayam) [bhavet](bhavet)
 
 ## mukta-m0-p19-v466
-[mrga-sirsa-naksatre](mṛgaśīrṣanakṣatre) [tu](tu) [adhivasanam-arabhet](adhivāsanamārabhet)
+[mṛgaśīrṣanakṣatre](mṛgaśīrṣa+nakṣatre) [tu](tu) [adhivāsanamārabhet](adhivāsanam+ārabhet)
 
 ## mukta-m0-p19-v467
-[sarva-abharana-bhusyam](sarvābharaṇabhūṣyaṃ) [tu](tu) [sarva-angam](sarvāṅgaṃ) [samalamkrtam](samalaṃkṛtam)
+[sarvābharaṇabhūṣyaṃ](sarva+ābharaṇa+bhūṣyam) [tu](tu) [sarvāṅgaṃ](sarva+aṅgam) [samalaṃkṛtam](sam+alaṃkṛtam)
 
 ## mukta-m0-p19-v468
-[tat-madhye](tanmadhye) [gaurim-asthapya](gaurīmāsthāpya) [krtva](kṛtvā) [kautuka-bandhanam](kautukabandhanam)
+[tanmadhye](tat+madhye) [gaurīmāsthāpya](gaurīm+āsthāpya) [kṛtvā](kṛtvā) [kautukabandhanam](kautuka+bandhanam)
 
 ## mukta-m0-p19-v469
-[paricarakam-uddhr](paricārakamuddhṛ) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [daksinam](dakṣiṇam)
+[paricārakamuddhṛ](paricārakam+uddhṛ) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [dakṣiṇam](dakṣiṇam)
 
 ## mukta-m0-p19-v470
-[sankha-dundubhi-nirghosaih](śaṅkhadundubhinirghoṣaiśśrotramaṅgalavācakaiḥ) [srotra-mangala-vacakaih](śrotramaṅgalavācakaiḥ)
+[śaṅkhadundubhinirghoṣaiśśrotramaṅgalavācakaiḥ](śaṅkha+dundubhi+nirghoṣaiḥ+śrotra+maṅgala+vācakaiḥ)
 
 ## mukta-m0-p19-v471
-[triyambakena](triyambakena) [mantrena](mantreṇa) [kautukam](kautukaṃ) [bandhayet-tatah](bandhayettataḥ)
+[triyambakena](triyambakena) [mantreṇa](mantreṇa) [kautukaṃ](kautukaṃ) [bandhayettataḥ](bandhayet+tataḥ)
 
 ## mukta-m0-p19-v472
-[dhupa-dipau](dhūpadīpau) [harau](harau) [datva](datvā) [tambulam](tāmbūlaṃ) [tu](tu) [nivedayet](nivedayet)
+[dhūpadīpau](dhūpa+dīpau) [harau](harau) [datvā](datvā) [tāmbūlaṃ](tāmbūlaṃ) [tu](tu) [nivedayet](nivedayet)
 
 ## mukta-m0-p19-v473
-[nava-vastraih-alamkrtya](navavastrairalaṃkṛtya) [samasta-abharanaih-api](samastābharaṇairapi)
+[navavastrairalaṃkṛtya](nava+vastraiḥ+alaṃkṛtya) [samastābharaṇairapi](samasta+ābharaṇaiḥ+api)
 
 ## mukta-m0-p19-v474
-[sivagre](śivāgre) [sthandilam](sthaṇḍilaṃ) [kuryat](kuryāt) [astadrodnaih-ca](aṣṭadroṇaiśca) [salibhih](śālibhiḥ)
+[śivāgre](śiva+agre) [sthaṇḍilaṃ](sthaṇḍilaṃ) [kuryāt](kuryāt) [aṣṭadroṇaiśca](aṣṭa+droṇaiḥ+ca) [śālibhiḥ](śālibhiḥ)
 
 ## mukta-m0-p19-v475
-[tad-urdhve](tadūrdhve) [gaurim-asthapya](gaurīmāsthāpya) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[tadūrdhve](tat+ūrdhve) [gaurīmāsthāpya](gaurīm+āsthāpya) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)

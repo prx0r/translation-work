@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1932,
- "question": "Which specific yoginī tradition is identified as the source of this root mantra?",
+ "question": "Where is the image placed in front of the deity?",
  "premises": [
-  "The statement functions as a concluding identification.",
-  "It names Kula Yoginī as the associated figure.",
-  "It designates the content as a root mantra."
+  "It is placed in front.",
+  "The direction is east.",
+  "North is an alternative."
  ],
- "inference": "The preceding formula is identified as the root mantra of Kula Yoginī.",
- "uncertainties": [],
- "plain_english": "Thus is the root mantra of Kula Yoginī."
+ "inference": "The image is placed in front, toward east or north.",
+ "uncertainties": [
+  "Choice between east and north is not resolved."
+ ],
+ "plain_english": "Having placed it in front, to the east or north."
 }

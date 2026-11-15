@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "ravibāhur",
+     "gloss": "sun-armed",
+     "grounds": "compound of ravi (sun) and bāhu (arm); fused nominative form",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "mayūrasthā",
+     "gloss": "peacock-seated",
+     "grounds": "compound of mayūra (peacock) and sthā (seated)",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "varadā",
+     "gloss": "boon-giver",
+     "grounds": "compound of vara (boon) and dā (giver)",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "śaktidhariṇī",
+     "gloss": "spear-bearer",
+     "grounds": "compound of śakti (spear or power) and dhariṇī (bearer)",
+     "morph": "compound.nom.sg.f"
+    }
+   ],
+   "question": "Which four attributes identify the goddess described here?",
+   "premises": [
+    "The verse lists four attributes.",
+    "Each attribute is nominative feminine.",
+    "They describe one goddess."
+   ],
+   "inference": "The goddess is sun-armed, peacock-seated, boon-giving, and spear-bearing.",
+   "uncertainties": [
+    "Exact sandhi and case of ravibāhur are not fully resolved."
+   ],
+   "plain_english": "Sun-armed, peacock-seated, boon-giver, spear-bearer."
+  }
+ ]
+}

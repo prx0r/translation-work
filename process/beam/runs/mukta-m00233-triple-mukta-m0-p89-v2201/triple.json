@@ -1,0 +1,874 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2201,
+   "rows": [
+    {
+     "surface": "dvipañcāśaddviśatavad",
+     "gloss": "two-fifty",
+     "grounds": "compound quantity as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dravyair",
+     "gloss": "with-substances",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "mantraiśca",
+     "gloss": "with-mantras",
+     "grounds": "instrumental plural with ca",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "daivataiḥ",
+     "gloss": "with-deities",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "What quantities of substances, mantras, and deities are prescribed for the rite?",
+   "premises": [
+    "Fifty-two substances are prescribed.",
+    "Mantras accompany the substances.",
+    "Deities accompany the substances."
+   ],
+   "inference": "The rite uses fifty-two substances with mantras and deities.",
+   "uncertainties": [
+    "Exact substance list is not given in this verse."
+   ],
+   "plain_english": "Fifty-two substances, with mantras and deities."
+  },
+  {
+   "verse": 2202,
+   "rows": [
+    {
+     "surface": "dvādaśāṣṭaprasaṃkhyāni",
+     "gloss": "twelve-eight-counted",
+     "grounds": "compound quantity as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hemāmbhobhiḥ",
+     "gloss": "with-gold-water",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "fill",
+     "grounds": "verb form as given",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "How many vessels are filled with gold-water?",
+   "premises": [
+    "Twelve and eight counted vessels are named.",
+    "Gold-water fills them.",
+    "The filling is prescribed."
+   ],
+   "inference": "Twelve and eight vessels are filled with gold-water.",
+   "uncertainties": [
+    "Whether the count is twenty or separate groups is unclear."
+   ],
+   "plain_english": "Fill twelve and eight counted vessels with gold-water."
+  },
+  {
+   "verse": 2203,
+   "rows": [
+    {
+     "surface": "sapañcaratnahemādbhiḥ",
+     "gloss": "with-five-jewels-gold-water",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "samāpūrya",
+     "gloss": "fill-properly",
+     "grounds": "gerund as given",
+     "morph": "v.ger"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rite",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should the vessels be filled with five-jewel gold-water?",
+   "premises": [
+    "Five-jewel gold-water is used.",
+    "Filling is done properly.",
+    "The rite governs the filling."
+   ],
+   "inference": "Fill properly with five-jewel gold-water according to rite.",
+   "uncertainties": [
+    "Exact vessel count is not stated here."
+   ],
+   "plain_english": "Fill properly with five-jewel gold-water according to rite."
+  },
+  {
+   "verse": 2204,
+   "rows": [
+    {
+     "surface": "madhyatrikāṣṭake",
+     "gloss": "middle-three-eight",
+     "grounds": "locative compound as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sadvādaśaśa",
+     "gloss": "good-twelve",
+     "grounds": "compound quantity as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ghaṭān",
+     "gloss": "pots",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "Which pots stand in the middle three-eight arrangement?",
+   "premises": [
+    "Middle three-eight arrangement is named.",
+    "Good twelve pots are named.",
+    "Pots are the objects."
+   ],
+   "inference": "Good twelve pots stand in the middle three-eight arrangement.",
+   "uncertainties": [
+    "Spatial layout is not fully specified."
+   ],
+   "plain_english": "In the middle three-eight arrangement, good twelve pots."
+  },
+  {
+   "verse": 2205,
+   "rows": [
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navakāvaraṇadvaye",
+     "gloss": "nine-enclosure-two",
+     "grounds": "locative dual compound",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "Where are the pots placed around the enclosures?",
+   "premises": [
+    "Around is specified.",
+    "Nine-enclosure two is named.",
+    "Placement is around."
+   ],
+   "inference": "Pots are placed around the two nine-enclosures.",
+   "uncertainties": [
+    "Exact pot count is not stated here."
+   ],
+   "plain_english": "Around the two nine-enclosures."
+  },
+  {
+   "verse": 2206,
+   "rows": [
+    {
+     "surface": "madhyakumbheṣu",
+     "gloss": "in-middle-pots",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "tāvaddravyāṇi",
+     "gloss": "so-many-substances",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "place",
+     "grounds": "verb form as given",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "Where should the corresponding substances be placed?",
+   "premises": [
+    "Middle pots are named.",
+    "So-many substances are named.",
+    "Placement is prescribed."
+   ],
+   "inference": "Place the corresponding substances in the middle pots.",
+   "uncertainties": [
+    "Exact substance count is not stated here."
+   ],
+   "plain_english": "Place the corresponding substances in the middle pots."
+  },
+  {
+   "verse": 2207,
+   "rows": [
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvāñ",
+     "gloss": "all",
+     "grounds": "accusative plural",
+     "morph": "adj.acc.pl"
+    },
+    {
+     "surface": "śuddhāmbhomiḥ",
+     "gloss": "with-pure-water",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "fill",
+     "grounds": "verb form as given",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "How should all pots be filled?",
+   "premises": [
+    "All pots are named.",
+    "Pure water is used.",
+    "Filling is prescribed."
+   ],
+   "inference": "Fill all pots with pure water.",
+   "uncertainties": [
+    "Whether every pot receives identical water is not stated."
+   ],
+   "plain_english": "Fill all pots with pure water."
+  },
+  {
+   "verse": 2208,
+   "rows": [
+    {
+     "surface": "rudreṇaivā",
+     "gloss": "with-Rudra-indeed",
+     "grounds": "instrumental singular with eva",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "bhiṣecayet",
+     "gloss": "consecrate",
+     "grounds": "verb form as given",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "By whom should consecration be performed?",
+   "premises": [
+    "Rudra is named.",
+    "Consecration is prescribed.",
+    "Indeed emphasizes Rudra."
+   ],
+   "inference": "Consecrate with Rudra indeed.",
+   "uncertainties": [
+    "Ritual details of consecration are not given."
+   ],
+   "plain_english": "Consecrate with Rudra indeed."
+  },
+  {
+   "verse": 2209,
+   "rows": [
+    {
+     "surface": "vallībhir",
+     "gloss": "with-creeper-plants",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "abhiṣicya",
+     "gloss": "consecrating",
+     "grounds": "gerund as given",
+     "morph": "v.ger"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should consecration with creeper plants proceed?",
+   "premises": [
+    "Creeper plants are used.",
+    "Consecrating is named.",
+    "Order is specified."
+   ],
+   "inference": "Consecrate with creeper plants in order.",
+   "uncertainties": [
+    "Exact plant list is not given."
+   ],
+   "plain_english": "Consecrate with creeper plants in order."
+  },
+  {
+   "verse": 2210,
+   "rows": [
+    {
+     "surface": "saṃhitām",
+     "gloss": "samhita",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anubhiḥ",
+     "gloss": "with-anus",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the samhita to be used in order?",
+   "premises": [
+    "Samhita is named.",
+    "Anus are named.",
+    "Order is specified."
+   ],
+   "inference": "Use the samhita with anus in order.",
+   "uncertainties": [
+    "The term anus is obscure in this ritual context."
+   ],
+   "plain_english": "Use the samhita with anus in order."
+  },
+  {
+   "verse": 2211,
+   "rows": [
+    {
+     "surface": "gurur",
+     "gloss": "guru",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattatsūktāny",
+     "gloss": "those-hymns",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-sequence",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who recites the hymns to the deity in sequence?",
+   "premises": [
+    "Guru is named.",
+    "Deity is named.",
+    "Those hymns are named.",
+    "Sequence is specified."
+   ],
+   "inference": "The guru recites those hymns to the deity in sequence.",
+   "uncertainties": [
+    "Which hymns are included is not specified."
+   ],
+   "plain_english": "The guru recites those hymns to the deity in sequence."
+  },
+  {
+   "verse": 2212,
+   "rows": [
+    {
+     "surface": "kuśakūrcaistu",
+     "gloss": "with-kusha-brushes",
+     "grounds": "instrumental plural with tu",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "saṃspṛśantastathā",
+     "gloss": "touching",
+     "grounds": "participle with tatha",
+     "morph": "v.part"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "Shiva",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How are the pots touched while invoking Shiva?",
+   "premises": [
+    "Kusha brushes are used.",
+    "Pots are named.",
+    "Touching is named.",
+    "Shiva is named."
+   ],
+   "inference": "Touch the pots with kusha brushes while invoking Shiva.",
+   "uncertainties": [
+    "Exact touching procedure is not given."
+   ],
+   "plain_english": "Touch the pots with kusha brushes while invoking Shiva."
+  },
+  {
+   "verse": 2213,
+   "rows": [
+    {
+     "surface": "śuddhādbhiḥ",
+     "gloss": "with-pure-water",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "fill",
+     "grounds": "verb form as given",
+     "morph": "v.3.sg.act.opt"
+    },
+    {
+     "surface": "saṃhitājapāt",
+     "gloss": "samhita-japa-from",
+     "grounds": "ablative singular compound",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What fills the pots from samhita japa?",
+   "premises": [
+    "Pure water is used.",
+    "Filling is prescribed.",
+    "Samhita japa is the source."
+   ],
+   "inference": "Fill with pure water from samhita japa.",
+   "uncertainties": [
+    "Whether japa accompanies every filling is unclear."
+   ],
+   "plain_english": "Fill with pure water from samhita japa."
+  },
+  {
+   "verse": 2214,
+   "rows": [
+    {
+     "surface": "kramān",
+     "gloss": "in-order",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "mantrairaṣṭottaraśatoditaiḥ",
+     "gloss": "mantras",
+     "grounds": "instrumental plural compound",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "Which mantras are recited in order?",
+   "premises": [
+    "Order is named.",
+    "Mantras are named.",
+    "The compound specifies a counted set."
+   ],
+   "inference": "Recite the counted mantras in order.",
+   "uncertainties": [
+    "Exact mantra count is embedded in the compound."
+   ],
+   "plain_english": "Recite the counted mantras in order."
+  },
+  {
+   "verse": 2215,
+   "rows": [
+    {
+     "surface": "navakamadhyastha",
+     "gloss": "nine-middle-standing",
+     "grounds": "compound adjective as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "kumbhāstāvanta",
+     "gloss": "pots",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What stands in the middle of the nine?",
+   "premises": [
+    "Nine-middle-standing is named.",
+    "Pots are named.",
+    "Indeed and hi emphasize."
+   ],
+   "inference": "Pots stand in the middle of the nine.",
+   "uncertainties": [
+    "Exact pot count is not stated here."
+   ],
+   "plain_english": "Pots indeed stand in the middle of the nine."
+  },
+  {
+   "verse": 2216,
+   "rows": [
+    {
+     "surface": "dravyadvādaśakaṃ",
+     "gloss": "substance-twelve",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiṣṭaṃ",
+     "gloss": "remainder",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṇeṣv",
+     "gloss": "corners",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "āvaraṇatraye",
+     "gloss": "in-enclosure-three",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where does the remaining twelve substances go?",
+   "premises": [
+    "Twelve substances are named.",
+    "Remainder is named.",
+    "Corners and three enclosures are named."
+   ],
+   "inference": "The remaining twelve substances go in corners of three enclosures.",
+   "uncertainties": [
+    "Distribution among corners is not specified."
+   ],
+   "plain_english": "The remaining twelve substances go in corners of three enclosures."
+  },
+  {
+   "verse": 2217,
+   "rows": [
+    {
+     "surface": "madhyādikeṣu",
+     "gloss": "middle-etc",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vyūheṣv",
+     "gloss": "in-arrays",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "apy",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekāśītiprasaṅgyayā",
+     "gloss": "eighty-one-association",
+     "grounds": "instrumental singular compound",
+     "morph": "n.instr.sg"
+    }
+   ],
+   "question": "How are the middle arrays associated?",
+   "premises": [
+    "Middle arrays are named.",
+    "Even is specified.",
+    "Eighty-one association is named."
+   ],
+   "inference": "Middle arrays are associated by eighty-one.",
+   "uncertainties": [
+    "Exact array structure is not specified."
+   ],
+   "plain_english": "Middle arrays are associated by eighty-one."
+  },
+  {
+   "verse": 2218,
+   "rows": [
+    {
+     "surface": "tattaduddiṣṭam",
+     "gloss": "that-that-indicated",
+     "grounds": "accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "adhvānaṃ",
+     "gloss": "honey",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaḍvidhaṃ",
+     "gloss": "six-fold",
+     "grounds": "accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "caiṣu",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "verb form as given",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "What six-fold honey path is joined?",
+   "premises": [
+    "That indicated is named.",
+    "Honey is named.",
+    "Six-fold is named.",
+    "Joining is prescribed."
+   ],
+   "inference": "Join the indicated six-fold honey path.",
+   "uncertainties": [
+    "Meaning of adhvānaṃ as honey is uncertain."
+   ],
+   "plain_english": "Join the indicated six-fold honey path."
+  },
+  {
+   "verse": 2219,
+   "rows": [
+    {
+     "surface": "gurur",
+     "gloss": "guru",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rudreṇa",
+     "gloss": "with-Rudra",
+     "grounds": "instrumental singular",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "brahmabhistathā",
+     "gloss": "with-Brahma",
+     "grounds": "instrumental plural with tatha",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "With which deities does the guru approach the deity?",
+   "premises": [
+    "Guru is named.",
+    "Deity is named.",
+    "Rudra is named.",
+    "Brahma is named."
+   ],
+   "inference": "The guru approaches the deity with Rudra and Brahma.",
+   "uncertainties": [
+    "Exact ritual action is not specified."
+   ],
+   "plain_english": "The guru approaches the deity with Rudra and Brahma."
+  },
+  {
+   "verse": 2220,
+   "rows": [
+    {
+     "surface": "śrīsuktaṃ",
+     "gloss": "Shri-sukta",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pavamānaṃ",
+     "gloss": "Pavamana",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japeyuḥ",
+     "gloss": "chant",
+     "grounds": "verb form as given",
+     "morph": "v.3.pl.act.opt"
+    },
+    {
+     "surface": "kūrcapāṇayaḥ",
+     "gloss": "brush-handed",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "Who chants Shri-sukta and Pavamana?",
+   "premises": [
+    "Shri-sukta is named.",
+    "Pavamana is named.",
+    "Chanting is prescribed.",
+    "Brush-handed ones are named."
+   ],
+   "inference": "Brush-handed ones chant Shri-sukta and Pavamana.",
+   "uncertainties": [
+    "Identity of brush-handed ones is not specified."
+   ],
+   "plain_english": "Brush-handed ones chant Shri-sukta and Pavamana."
+  },
+  {
+   "verse": 2221,
+   "rows": [
+    {
+     "surface": "kuśatīrthajalair",
+     "gloss": "with-kusha-tirtha-water",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "ghaṭam",
+     "gloss": "pot",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What water is used for the pot?",
+   "premises": [
+    "Kusha tirtha water is named.",
+    "Pot is named.",
+    "Water is used."
+   ],
+   "inference": "Use kusha tirtha water for the pot.",
+   "uncertainties": [
+    "Which pot is intended is not specified."
+   ],
+   "plain_english": "Use kusha tirtha water for the pot."
+  },
+  {
+   "verse": 2222,
+   "rows": [
+    {
+     "surface": "agnyādikoṇakumbhāṃstu",
+     "gloss": "fire-etc-corner-pots",
+     "grounds": "accusative plural with tu",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pādyā",
+     "gloss": "with-foot-water",
+     "grounds": "instrumental singular",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "cāmārghyagavyakaiḥ",
+     "gloss": "mouth-water",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "What offerings are made to fire-etc corner pots?",
+   "premises": [
+    "Fire-etc corner pots are named.",
+    "Foot water is named.",
+    "Mouth water is named."
+   ],
+   "inference": "Offer foot water and mouth water to fire-etc corner pots.",
+   "uncertainties": [
+    "Exact offering sequence is not specified."
+   ],
+   "plain_english": "Offer foot water and mouth water to fire-etc corner pots."
+  },
+  {
+   "verse": 2223,
+   "rows": [
+    {
+     "surface": "kaṣāyatoyagomūtrapuṣpagomayakāñcanaiḥ",
+     "gloss": "astringent-water",
+     "grounds": "instrumental plural compound",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "What substances are listed in the compound?",
+   "premises": [
+    "Astringent water is named.",
+    "Cow urine is named.",
+    "Flower cow-dung gold is named."
+   ],
+   "inference": "The compound lists astringent water, cow urine, flower, cow-dung, and gold.",
+   "uncertainties": [
+    "Exact parsing of the long compound is uncertain."
+   ],
+   "plain_english": "Astringent water, cow urine, flower, cow-dung, and gold."
+  },
+  {
+   "verse": 2224,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvitīyāvaraṇe",
+     "gloss": "second-enclosure",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dūrvāyavatilāmbubhiḥ",
+     "gloss": "with-durva-barley-sesame-water",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "What water is used in the second enclosure?",
+   "premises": [
+    "Then is specified.",
+    "Second enclosure is named.",
+    "Durva barley sesame water is named."
+   ],
+   "inference": "Use durva barley sesame water in the second enclosure.",
+   "uncertainties": [
+    "Exact vessel count is not stated here."
+   ],
+   "plain_english": "Then use durva barley sesame water in the second enclosure."
+  }
+ ]
+}

@@ -1,0 +1,959 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2026,
+   "rows": [
+    {
+     "surface": "dvipañcāśatsamadhikaṃ",
+     "gloss": "two-fifty-plus",
+     "grounds": "compound count",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "padānāṃ",
+     "gloss": "of-padas",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "dual numeral",
+     "morph": "num.nom.acc.dual.n"
+    },
+    {
+     "surface": "śate",
+     "gloss": "hundred",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many padas are clearly counted beyond the two hundred in this arrangement?",
+   "premises": [
+    "The verse gives a count of padas.",
+    "It specifies two hundred as base.",
+    "It adds an excess beyond that base."
+   ],
+   "inference": "The total count exceeds two hundred by the stated excess.",
+   "uncertainties": [
+    "Exact arithmetic depends on the fused count token."
+   ],
+   "plain_english": "Two hundred padas are clearly exceeded by the stated count."
+  },
+  {
+   "verse": 2027,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "paṅktyatikramāt",
+     "gloss": "by-row-excess",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "What happens outside that region when rows exceed their measure?",
+   "premises": [
+    "The verse names an outside region.",
+    "It names row excess as cause.",
+    "The operation concerns boundary placement."
+   ],
+   "inference": "Row excess determines the outer boundary placement.",
+   "uncertainties": [
+    "The exact outer operation is not fully specified here."
+   ],
+   "plain_english": "Outside that region, row excess governs the boundary."
+  },
+  {
+   "verse": 2028,
+   "rows": [
+    {
+     "surface": "vīthīṣaṭkaṃ",
+     "gloss": "street-six",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "svavyāyataṃ",
+     "gloss": "self-extended",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "root bhū",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What becomes self-extended as a six-street formation?",
+   "premises": [
+    "The verse names a six-street formation.",
+    "It calls it self-extended.",
+    "It states that it becomes so."
+   ],
+   "inference": "The six-street formation becomes self-extended.",
+   "uncertainties": [
+    "The spatial extent is not quantified."
+   ],
+   "plain_english": "A six-street formation becomes self-extended."
+  },
+  {
+   "verse": 2029,
+   "rows": [
+    {
+     "surface": "madhyabrahmapadāmbhoje",
+     "gloss": "middle-brahma-lotus",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "śivākhyaḥ",
+     "gloss": "shiva-named",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kalaśo'pi",
+     "gloss": "kalasha-also",
+     "grounds": "fused kalasha plus api",
+     "morph": "n.nom.sg.m+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shiva-named kalasha is also placed in the middle brahma lotus?",
+   "premises": [
+    "The verse locates the middle brahma lotus.",
+    "It names a shiva-named kalasha.",
+    "It adds that kalasha also."
+   ],
+   "inference": "A shiva-named kalasha is also present in the middle brahma lotus.",
+   "uncertainties": [
+    "The exact placement relation is not specified."
+   ],
+   "plain_english": "A shiva-named kalasha is also in the middle brahma lotus."
+  },
+  {
+   "verse": 2030,
+   "rows": [
+    {
+     "surface": "lumpedaśeṣataḥ",
+     "gloss": "removes-all",
+     "grounds": "fused verb and adverb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What is removed entirely in this operation?",
+   "premises": [
+    "The verse states a removal.",
+    "It states the removal is total.",
+    "No separate object is named here."
+   ],
+   "inference": "The operation removes everything in the stated scope.",
+   "uncertainties": [
+    "The exact object of removal is supplied by context."
+   ],
+   "plain_english": "Everything in scope is removed."
+  },
+  {
+   "verse": 2031,
+   "rows": [
+    {
+     "surface": "tatastrikoṣṭhāt",
+     "gloss": "then-three-cells",
+     "grounds": "compound ablative",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "paritas",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripadācca",
+     "gloss": "three-padas-and",
+     "grounds": "fused ablative plus ca",
+     "morph": "n.abl.sg.m+(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "then",
+     "grounds": "adverb or accusative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows around the three cells and three padas?",
+   "premises": [
+    "The verse names three cells.",
+    "It names three padas.",
+    "It states a following operation around them."
+   ],
+   "inference": "A further operation follows around the three cells and three padas.",
+   "uncertainties": [
+    "The exact following operation is not named in this verse."
+   ],
+   "plain_english": "Then an operation follows around the three cells and three padas."
+  },
+  {
+   "verse": 2032,
+   "rows": [
+    {
+     "surface": "vīthayo'ṣṭau",
+     "gloss": "streets-eight",
+     "grounds": "fused nominative plural",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become-indeed",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many streets become present in this stage?",
+   "premises": [
+    "The verse names streets.",
+    "It gives the number eight.",
+    "It states that they become present."
+   ],
+   "inference": "Eight streets become present in this stage.",
+   "uncertainties": [
+    "Their exact placement is not specified here."
+   ],
+   "plain_english": "Eight streets become present."
+  },
+  {
+   "verse": 2033,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśatisaṃkhyāni",
+     "gloss": "twenty-eight-count",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "trikānyapi",
+     "gloss": "trikas-also",
+     "grounds": "fused nominative plural plus api",
+     "morph": "n.nom.pl.n+(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become-indeed",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many trikas become present in this stage?",
+   "premises": [
+    "The verse names trikas.",
+    "It gives a count of twenty-eight.",
+    "It states that they become present."
+   ],
+   "inference": "Twenty-eight trikas become present in this stage.",
+   "uncertainties": [
+    "Their arrangement is not specified here."
+   ],
+   "plain_english": "Twenty-eight trikas become present."
+  },
+  {
+   "verse": 2034,
+   "rows": [
+    {
+     "surface": "kalaśāsteṣu",
+     "gloss": "kalashas-there-middle",
+     "grounds": "fused locative plural",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "śivaghaṭo'dhikaḥ",
+     "gloss": "shiva-pot-greater",
+     "grounds": "fused nominative singular",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which kalasha is greater among those in the middle?",
+   "premises": [
+    "The verse names kalashas in the middle.",
+    "It names a shiva pot.",
+    "It calls that pot greater."
+   ],
+   "inference": "The shiva pot is the greater kalasha among those in the middle.",
+   "uncertainties": [
+    "The comparison group is only implied."
+   ],
+   "plain_english": "The shiva pot is greater among the middle kalashas."
+  },
+  {
+   "verse": 2035,
+   "rows": [
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "asterisk",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "vilaṅghanāt",
+     "gloss": "by-transgression",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "What results from transgression in this damaged verse?",
+   "premises": [
+    "The verse contains editorial asterisks.",
+    "It ends with a relative and an ablative.",
+    "The ablative names transgression."
+   ],
+   "inference": "The verse links transgression to an unspecified result.",
+   "uncertainties": [
+    "Most of the verse is missing or damaged."
+   ],
+   "plain_english": "The damaged verse links transgression to an unspecified result."
+  },
+  {
+   "verse": 2036,
+   "rows": [
+    {
+     "surface": "pratidiśaṃ",
+     "gloss": "each-direction",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīthayoṣṭau",
+     "gloss": "streets-eight",
+     "grounds": "fused nominative plural",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become-indeed",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many streets become present in each direction there?",
+   "premises": [
+    "The verse says each direction.",
+    "It says there.",
+    "It states eight streets become present."
+   ],
+   "inference": "Eight streets become present in each direction there.",
+   "uncertainties": [
+    "The total across directions is not stated."
+   ],
+   "plain_english": "Eight streets become present in each direction there."
+  },
+  {
+   "verse": 2037,
+   "rows": [
+    {
+     "surface": "vyūhāḥ",
+     "gloss": "arrays",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "syurmadhyavyūhe",
+     "gloss": "syur-middle-array",
+     "grounds": "fused verb and locative",
+     "morph": "3.pl.act-opt+(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "from-middle",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where do arrays arise in relation to the middle array?",
+   "premises": [
+    "The verse names arrays.",
+    "It names a middle array.",
+    "It states arising from the middle."
+   ],
+   "inference": "Arrays arise from the middle array.",
+   "uncertainties": [
+    "The exact number of arrays is not stated."
+   ],
+   "plain_english": "Arrays arise from the middle array."
+  },
+  {
+   "verse": 2038,
+   "rows": [
+    {
+     "surface": "viṃśatyadhikaṃ",
+     "gloss": "twenty-plus",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "padasaptaśataṃ",
+     "gloss": "pada-seven-hundred",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "n.nom.acc.sg.n"
+    }
+   ],
+   "question": "How many padas are remembered in this count?",
+   "premises": [
+    "The verse names padas.",
+    "It gives seven hundred as base.",
+    "It adds twenty beyond that base."
+   ],
+   "inference": "Seven hundred twenty padas are remembered.",
+   "uncertainties": [
+    "The exact total depends on the fused count."
+   ],
+   "plain_english": "Seven hundred twenty padas are remembered."
+  },
+  {
+   "verse": 2039,
+   "rows": [
+    {
+     "surface": "kṣetre",
+     "gloss": "field",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "divided",
+     "grounds": "past participle",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "pañcacatvāriṃśatpuṭe",
+     "gloss": "forty-five-puṭa",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "same",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "adj.loc.sg.m"
+    }
+   ],
+   "question": "How is the field divided into equal puṭas?",
+   "premises": [
+    "The verse names a field.",
+    "It says the field is divided.",
+    "It names forty-five puṭas and equality."
+   ],
+   "inference": "The field is divided into forty-five equal puṭas.",
+   "uncertainties": [
+    "The exact division method is not stated."
+   ],
+   "plain_english": "The field is divided into forty-five equal puṭas."
+  },
+  {
+   "verse": 2040,
+   "rows": [
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīthyai",
+     "gloss": "street",
+     "grounds": "dative singular",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "lumpecca",
+     "gloss": "lumpecca",
+     "grounds": "fused verb and ca",
+     "morph": "3.sg.act-pres+(indecl.)"
+    },
+    {
+     "surface": "tadbahiḥ",
+     "gloss": "that-outside",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is removed around the street and outside it?",
+   "premises": [
+    "The verse says around.",
+    "It names a street.",
+    "It says removal and outside."
+   ],
+   "inference": "Removal occurs around the street and outside it.",
+   "uncertainties": [
+    "The exact removed material is not named."
+   ],
+   "plain_english": "Removal occurs around the street and outside it."
+  },
+  {
+   "verse": 2041,
+   "rows": [
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṅktīḥ",
+     "gloss": "rows",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "vimṛjed",
+     "gloss": "vimṛjed",
+     "grounds": "verb form",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vīthiṣu",
+     "gloss": "streets",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.f"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "three",
+     "grounds": "locative plural",
+     "morph": "num.loc.pl.m"
+    }
+   ],
+   "question": "What rows are wiped around in three streets?",
+   "premises": [
+    "The verse says around.",
+    "It names rows.",
+    "It names three streets."
+   ],
+   "inference": "Rows are wiped around in three streets.",
+   "uncertainties": [
+    "The exact rows are not specified."
+   ],
+   "plain_english": "Rows are wiped around in three streets."
+  },
+  {
+   "verse": 2042,
+   "rows": [
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṅktidvayād",
+     "gloss": "row-two",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens again outside two rows as before?",
+   "premises": [
+    "The verse says as before.",
+    "It says again.",
+    "It names two rows and outside."
+   ],
+   "inference": "The prior operation is repeated outside two rows.",
+   "uncertainties": [
+    "The exact operation is supplied by context."
+   ],
+   "plain_english": "The prior operation is repeated outside two rows."
+  },
+  {
+   "verse": 2043,
+   "rows": [
+    {
+     "surface": "pratipaṅktidvayaṃ",
+     "gloss": "per-row-two",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "lumped",
+     "gloss": "lumped",
+     "grounds": "verb form",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dvārārthaṃ",
+     "gloss": "door-purpose",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "svadigāyatam",
+     "gloss": "own-direction-extended",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Why are two rows per row removed for the door?",
+   "premises": [
+    "The verse names two rows per row.",
+    "It states removal.",
+    "It names door purpose."
+   ],
+   "inference": "Two rows per row are removed for door purpose.",
+   "uncertainties": [
+    "The exact door placement is not specified."
+   ],
+   "plain_english": "Two rows per row are removed for the door."
+  },
+  {
+   "verse": 2044,
+   "rows": [
+    {
+     "surface": "vikārakumbhanyāsārthaṃ",
+     "gloss": "distortion-pot-placement",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "rakṣenmadhyapadāni",
+     "gloss": "protect-middle-padas",
+     "grounds": "fused verb and accusative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What middle padas are protected for pot placement?",
+   "premises": [
+    "The verse names pot placement.",
+    "It names middle padas.",
+    "It states protection."
+   ],
+   "inference": "Middle padas are protected for pot placement.",
+   "uncertainties": [
+    "The exact pot placement is not specified."
+   ],
+   "plain_english": "Middle padas are protected for pot placement."
+  },
+  {
+   "verse": 2045,
+   "rows": [
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "num.acc.pl.n"
+    },
+    {
+     "surface": "padāni",
+     "gloss": "padas",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "dvāri",
+     "gloss": "door",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "mārjayet",
+     "gloss": "cleanse",
+     "grounds": "verb form",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How many padas are cleansed outside at the door?",
+   "premises": [
+    "The verse says outside.",
+    "It names five padas.",
+    "It names door and cleansing."
+   ],
+   "inference": "Five padas are cleansed outside at the door.",
+   "uncertainties": [
+    "The exact cleansing method is not stated."
+   ],
+   "plain_english": "Five padas are cleansed outside at the door."
+  },
+  {
+   "verse": 2046,
+   "rows": [
+    {
+     "surface": "tatastu",
+     "gloss": "then",
+     "grounds": "fused adverb and tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viparītenāpyupaśobhā",
+     "gloss": "reverse-also",
+     "grounds": "fused adjective and noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "vimārjayet",
+     "gloss": "vimārjayet",
+     "grounds": "verb form",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What is cleansed by reverse adornment then?",
+   "premises": [
+    "The verse says then.",
+    "It names reverse adornment.",
+    "It states cleansing."
+   ],
+   "inference": "Reverse adornment is cleansed then.",
+   "uncertainties": [
+    "The exact object of cleansing is not named."
+   ],
+   "plain_english": "Reverse adornment is cleansed then."
+  },
+  {
+   "verse": 2047,
+   "rows": [
+    {
+     "surface": "tāvatyaḥ",
+     "gloss": "so-many",
+     "grounds": "adjective",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "pañcāvaraṇasaṃjñite",
+     "gloss": "five-cover-named",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "How many items are named in the five-cover field?",
+   "premises": [
+    "The verse says so many.",
+    "It names five-cover.",
+    "It locates them in that field."
+   ],
+   "inference": "So many items are named in the five-cover field.",
+   "uncertainties": [
+    "The exact number is not stated."
+   ],
+   "plain_english": "So many items are named in the five-cover field."
+  },
+  {
+   "verse": 2048,
+   "rows": [
+    {
+     "surface": "kṣetre",
+     "gloss": "field",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tvekonapañcāśatpuṭe",
+     "gloss": "one-less-forty-nine-puṭa",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "madhyagataiḥ",
+     "gloss": "middle-gone",
+     "grounds": "compound instrumental plural",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "padaiḥ",
+     "gloss": "padas",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.n"
+    }
+   ],
+   "question": "How many puṭas are in the field with middle padas?",
+   "premises": [
+    "The verse names a field.",
+    "It names one-less-forty-nine puṭas.",
+    "It names middle padas."
+   ],
+   "inference": "The field has one-less-forty-nine puṭas with middle padas.",
+   "uncertainties": [
+    "The exact total is forty-nine minus one."
+   ],
+   "plain_english": "The field has forty-eight puṭas with middle padas."
+  },
+  {
+   "verse": 2049,
+   "rows": [
+    {
+     "surface": "bāhyapaṅktau",
+     "gloss": "outer-row",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "dikṣvekakoṣṭhakam",
+     "gloss": "directions-one-cell",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How many cells are placed in each direction in the outer row?",
+   "premises": [
+    "The verse names outer row.",
+    "It names directions.",
+    "It names one cell."
+   ],
+   "inference": "One cell is placed in each direction in the outer row.",
+   "uncertainties": [
+    "The total across directions is not stated."
+   ],
+   "plain_english": "One cell is placed in each direction in the outer row."
+  }
+ ]
+}

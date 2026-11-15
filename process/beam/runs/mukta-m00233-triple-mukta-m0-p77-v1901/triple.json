@@ -1,0 +1,890 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1901,
+   "rows": [
+    {
+     "surface": "dikṣu",
+     "gloss": "directions",
+     "grounds": "locative plural of dik",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "bhūtakrūreṇa",
+     "gloss": "fierce-creature",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "night",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which directions and times are named for the fierce creature?",
+   "premises": [
+    "dikṣu means directions",
+    "bhūtakrūreṇa means fierce creature",
+    "niśi means night"
+   ],
+   "inference": "The verse names directions and night in connection with a fierce creature.",
+   "uncertainties": [
+    "exact ritual action is not stated"
+   ],
+   "plain_english": "In the directions, by the fierce creature, or at night."
+  },
+  {
+   "verse": 1902,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyetya",
+     "gloss": "approaching",
+     "grounds": "absolutive from abhi-i",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhūtidādīn",
+     "gloss": "prosperity-givers+etc",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which beings are approached in order after that?",
+   "premises": [
+    "tato means then",
+    "abhyetya means approaching",
+    "bhūtidādīn means prosperity-givers and others",
+    "yathākramam means in order"
+   ],
+   "inference": "After that, one approaches the prosperity-givers and others in order.",
+   "uncertainties": [
+    "the full list of beings is abbreviated"
+   ],
+   "plain_english": "Then, approaching the prosperity-givers and others in order."
+  },
+  {
+   "verse": 1903,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive from snā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "balidānādanantaram",
+     "gloss": "after+offering",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must happen before the offering sequence continues?",
+   "premises": [
+    "snātvā means having bathed",
+    "balidānādanantaram means after offering"
+   ],
+   "inference": "Bathing precedes the subsequent offering step.",
+   "uncertainties": [
+    "the exact offering type is not specified"
+   ],
+   "plain_english": "Having bathed, after the offering."
+  },
+  {
+   "verse": 1904,
+   "rows": [
+    {
+     "surface": "yānāderavaropyātha",
+     "gloss": "vehicle+etc+lowering+then",
+     "grounds": "compound with absolutive sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "placing",
+     "grounds": "absolutive from ni-dhā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the deity placed after lowering the vehicle?",
+   "premises": [
+    "yānāderavaropyātha means vehicle and so on lowering then",
+    "devaṃ means deity",
+    "pīṭhe means on seat",
+    "nidhāya means placing"
+   ],
+   "inference": "After lowering the vehicle and related items, the deity is placed on the seat.",
+   "uncertainties": [
+    "the exact vehicle items are abbreviated"
+   ],
+   "plain_english": "Then, lowering the vehicle and so on, placing the deity on the seat."
+  },
+  {
+   "verse": 1905,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utsavadinānāṃ",
+     "gloss": "festival-days",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "to-be-known",
+     "grounds": "feminine nominative plural participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "rātrayaḥ",
+     "gloss": "nights",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which nights are to be known for festival days?",
+   "premises": [
+    "atra means here",
+    "utsavadinānāṃ means of festival days",
+    "vijñeyā means to be known",
+    "rātrayaḥ means nights",
+    "kramāt means in order"
+   ],
+   "inference": "For festival days, the nights are to be known in order.",
+   "uncertainties": [
+    "the specific nights are listed in the next verse"
+   ],
+   "plain_english": "Here, for festival days, the nights are to be known in order."
+  },
+  {
+   "verse": 1906,
+   "rows": [
+    {
+     "surface": "brahmabhūtendragandharvayakṣarākṣasarātrayaḥ",
+     "gloss": "brahma+bhūta+indra+gandharva+yakṣa+rākṣasa+nights",
+     "grounds": "compound nominative plural feminine",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which named nights belong to the festival sequence?",
+   "premises": [
+    "the compound lists brahma, bhūta, indra, gandharva, yakṣa, and rākṣasa nights"
+   ],
+   "inference": "The festival nights include brahma, bhūta, indra, gandharva, yakṣa, and rākṣasa nights.",
+   "uncertainties": [
+    "the exact order beyond the compound is not explicit here"
+   ],
+   "plain_english": "Brahma, bhūta, indra, gandharva, yakṣa, and rākṣasa nights."
+  },
+  {
+   "verse": 1907,
+   "rows": [
+    {
+     "surface": "viṣṇurātramaṣṭamaṃ",
+     "gloss": "viṣṇu-night",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paricakṣate",
+     "gloss": "they-declare",
+     "grounds": "third person plural present",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "Which night is declared the eighth?",
+   "premises": [
+    "viṣṇurātramaṣṭamaṃ means viṣṇu night",
+    "aṣṭamaṃ means eighth",
+    "paricakṣate means they declare"
+   ],
+   "inference": "They declare the viṣṇu night to be the eighth.",
+   "uncertainties": [
+    "the preceding seven nights are implied"
+   ],
+   "plain_english": "They declare the viṣṇu night to be the eighth."
+  },
+  {
+   "verse": 1908,
+   "rows": [
+    {
+     "surface": "sapuṣpakuśaśuddhānnaṃ",
+     "gloss": "with-flowers+kuśa+pure+food",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmarātre",
+     "gloss": "brahma-night",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle masculine nominative singular",
+     "morph": "m.nom.sg.past-part"
+    }
+   ],
+   "question": "What offering is remembered for brahma night?",
+   "premises": [
+    "sapuṣpakuśaśuddhānnaṃ means with flowers, kuśa, and pure food",
+    "brahmarātre means on brahma night",
+    "baliḥ means offering",
+    "smṛtaḥ means remembered"
+   ],
+   "inference": "For brahma night, the offering remembered includes flowers, kuśa, and pure food.",
+   "uncertainties": [
+    "exact quantities are not given"
+   ],
+   "plain_english": "On brahma night, the offering is remembered as with flowers, kuśa, and pure food."
+  },
+  {
+   "verse": 1909,
+   "rows": [
+    {
+     "surface": "khyātaṃ",
+     "gloss": "renowned",
+     "grounds": "neuter nominative singular participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūtarātre",
+     "gloss": "bhūta-night",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "should-give",
+     "grounds": "third person singular optative causative",
+     "morph": "3.sg.opt.caus"
+    }
+   ],
+   "question": "What is renowned for bhūta night?",
+   "premises": [
+    "khyātaṃ means renowned",
+    "bhūtarātre means on bhūta night",
+    "dāpayet means should give"
+   ],
+   "inference": "On bhūta night, something renowned should be given.",
+   "uncertainties": [
+    "the exact item to be given is not named in this verse"
+   ],
+   "plain_english": "On bhūta night, the renowned item should be given."
+  },
+  {
+   "verse": 1910,
+   "rows": [
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "third person singular optative",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should give the offering?",
+   "premises": [
+    "baliṃ means offering",
+    "dadyāt means should give",
+    "deśikaḥ means teacher"
+   ],
+   "inference": "The teacher should give the offering.",
+   "uncertainties": [
+    "the specific offering type is carried from context"
+   ],
+   "plain_english": "The teacher should give the offering."
+  },
+  {
+   "verse": 1911,
+   "rows": [
+    {
+     "surface": "yakṣarātrākhye",
+     "gloss": "yakṣa-night+named",
+     "grounds": "locative singular feminine compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "puṣpānnājyāmbubhirbaliḥ",
+     "gloss": "flowers+food+ghee+water",
+     "grounds": "compound nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offering is named for yakṣa night?",
+   "premises": [
+    "yakṣarātrākhye means named yakṣa night",
+    "puṣpānnājyāmbubhirbaliḥ means offering with flowers, food, ghee, and water"
+   ],
+   "inference": "For yakṣa night, the offering includes flowers, food, ghee, and water.",
+   "uncertainties": [
+    "exact proportions are not given"
+   ],
+   "plain_english": "On the named yakṣa night, the offering is with flowers, food, ghee, and water."
+  },
+  {
+   "verse": 1912,
+   "rows": [
+    {
+     "surface": "tvatha",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paiśāce",
+     "gloss": "in-paiśāca",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "māṣānnaṃ",
+     "gloss": "bean-food",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛsaraṃ",
+     "gloss": "mixed-rice",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What foods are named for the paiśāca rite?",
+   "premises": [
+    "tvatha means then",
+    "paiśāce means in paiśāca",
+    "māṣānnaṃ means bean food",
+    "kṛsaraṃ means mixed rice",
+    "madhu means honey"
+   ],
+   "inference": "For the paiśāca rite, bean food, mixed rice, and honey are named.",
+   "uncertainties": [
+    "whether all are offered together is implied"
+   ],
+   "plain_english": "Then, in the paiśāca rite: bean food, mixed rice, and honey."
+  },
+  {
+   "verse": 1913,
+   "rows": [
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "milk-rice",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sājyaṃ",
+     "gloss": "with-ghee",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vikirennavame",
+     "gloss": "should-scatter",
+     "grounds": "compound verb form",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be scattered again in the ninth?",
+   "premises": [
+    "pāyasaṃ means milk rice",
+    "sājyaṃ means with ghee",
+    "vikirennavame means should scatter in the ninth",
+    "punaḥ means again"
+   ],
+   "inference": "In the ninth, milk rice with ghee should be scattered again.",
+   "uncertainties": [
+    "the exact scattering context is ritual"
+   ],
+   "plain_english": "Milk rice with ghee should be scattered again in the ninth."
+  },
+  {
+   "verse": 1914,
+   "rows": [
+    {
+     "surface": "kecid",
+     "gloss": "some",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ācāryāḥ",
+     "gloss": "teachers",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāhūrvai",
+     "gloss": "declare",
+     "grounds": "third person plural present",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "gaṇasaptakam",
+     "gloss": "gaṇa-seven",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What do some teachers declare?",
+   "premises": [
+    "kecid means some",
+    "ācāryāḥ means teachers",
+    "prāhūrvai means declare",
+    "gaṇasaptakam means seven gaṇas"
+   ],
+   "inference": "Some teachers declare seven gaṇas.",
+   "uncertainties": [
+    "the exact seven gaṇas are not listed here"
+   ],
+   "plain_english": "Some teachers declare seven gaṇas."
+  },
+  {
+   "verse": 1915,
+   "rows": [
+    {
+     "surface": "navapakṣe",
+     "gloss": "nine-fortnight",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "skandamātṛsamanvitāḥ",
+     "gloss": "skanda+mothers+accompanied",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are accompanied in the nine-fortnight?",
+   "premises": [
+    "navapakṣe means in the nine-fortnight",
+    "skandamātṛsamanvitāḥ means accompanied by Skanda and mothers"
+   ],
+   "inference": "In the nine-fortnight, Skanda and the mothers are accompanied.",
+   "uncertainties": [
+    "the exact ritual grouping is implied"
+   ],
+   "plain_english": "In the nine-fortnight, accompanied by Skanda and the mothers."
+  },
+  {
+   "verse": 1916,
+   "rows": [
+    {
+     "surface": "tilaistaṇḍulamiśraistu",
+     "gloss": "sesame+rice-mixed",
+     "grounds": "instrumental plural masculine compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "pitṛrātre",
+     "gloss": "pitṛ-night",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dvitīyake",
+     "gloss": "second",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What mixture is used on the second pitṛ night?",
+   "premises": [
+    "tilaistaṇḍulamiśraistu means with sesame and mixed rice",
+    "pitṛrātre means on pitṛ night",
+    "dvitīyake means second"
+   ],
+   "inference": "On the second pitṛ night, sesame and mixed rice are used.",
+   "uncertainties": [
+    "exact preparation is not stated"
+   ],
+   "plain_english": "On the second pitṛ night, with sesame and mixed rice."
+  },
+  {
+   "verse": 1917,
+   "rows": [
+    {
+     "surface": "sakṣīrapiṣṭasaktvadbhirnāgarātre",
+     "gloss": "with-milk+ground+flour",
+     "grounds": "compound locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "caturthake",
+     "gloss": "fourth",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is used on the fourth nāga night?",
+   "premises": [
+    "sakṣīrapiṣṭasaktvadbhirnāgarātre means on nāga night with milk, ground flour",
+    "caturthake means fourth"
+   ],
+   "inference": "On the fourth nāga night, milk and ground flour are used.",
+   "uncertainties": [
+    "the exact compound parsing is dense"
+   ],
+   "plain_english": "On the fourth nāga night, with milk and ground flour."
+  },
+  {
+   "verse": 1918,
+   "rows": [
+    {
+     "surface": "sājyena",
+     "gloss": "with-ghee",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "ṣaṣṭhe",
+     "gloss": "sixth",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaive",
+     "gloss": "śaiva",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "should-give",
+     "grounds": "third person singular optative causative",
+     "morph": "3.sg.opt.caus"
+    }
+   ],
+   "question": "What should be given on the sixth śaiva night?",
+   "premises": [
+    "sājyena means with ghee",
+    "ṣaṣṭhe means sixth",
+    "śaive means śaiva",
+    "dāpayet means should give"
+   ],
+   "inference": "On the sixth śaiva night, something with ghee should be given.",
+   "uncertainties": [
+    "the exact item is carried from context"
+   ],
+   "plain_english": "On the sixth śaiva night, with ghee, it should be given."
+  },
+  {
+   "verse": 1919,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhyannaṃ",
+     "gloss": "curd-rice",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mātṛrātrake",
+     "gloss": "mātṛ-night",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What food is named for mātṛ night?",
+   "premises": [
+    "dadhyannaṃ means curd rice",
+    "mātṛrātrake means on mātṛ night"
+   ],
+   "inference": "For mātṛ night, curd rice is named.",
+   "uncertainties": [
+    "whether it is offered or scattered is implied"
+   ],
+   "plain_english": "But curd rice on mātṛ night."
+  },
+  {
+   "verse": 1920,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikadinaiḥ",
+     "gloss": "more-days",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "śreṣṭhādyutsaveṣu",
+     "gloss": "best",
+     "grounds": "locative plural masculine",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the best festivals ordered with extra days?",
+   "premises": [
+    "ato means then",
+    "adhikadinaiḥ means with more days",
+    "śreṣṭhādyutsaveṣu means in best festivals",
+    "yathākramam means in order"
+   ],
+   "inference": "Then, in the best festivals, extra days are handled in order.",
+   "uncertainties": [
+    "the exact extra-day rule is not fully stated"
+   ],
+   "plain_english": "Then, with more days, in the best festivals, in order."
+  },
+  {
+   "verse": 1921,
+   "rows": [
+    {
+     "surface": "prasthairekaviṃśatisaṃkhyayā",
+     "gloss": "measures",
+     "grounds": "instrumental singular feminine compound",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "What measure is named for the offering?",
+   "premises": [
+    "prasthairekaviṃśatisaṃkhyayā means by measure of twenty-one prasthas"
+   ],
+   "inference": "The offering is measured by twenty-one prasthas.",
+   "uncertainties": [
+    "the exact substance is carried from context"
+   ],
+   "plain_english": "By a measure of twenty-one prasthas."
+  },
+  {
+   "verse": 1922,
+   "rows": [
+    {
+     "surface": "śālyādyanyatamaiḥ",
+     "gloss": "with-white+rice+etc",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "śuklaistaṇḍulaiḥ",
+     "gloss": "white+grains",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "sādhitaṃ",
+     "gloss": "prepared",
+     "grounds": "neuter nominative singular participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haviḥ",
+     "gloss": "offering",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What offering is prepared from white rice and grains?",
+   "premises": [
+    "śālyādyanyatamaiḥ means with white rice and others",
+    "śuklaistaṇḍulaiḥ means with white grains",
+    "sādhitaṃ means prepared",
+    "haviḥ means offering"
+   ],
+   "inference": "The offering is prepared from white rice and white grains.",
+   "uncertainties": [
+    "exact recipe proportions are not given"
+   ],
+   "plain_english": "The offering is prepared with white rice and white grains."
+  },
+  {
+   "verse": 1923,
+   "rows": [
+    {
+     "surface": "syuḥ",
+     "gloss": "become",
+     "grounds": "third person plural optative",
+     "morph": "3.pl.opt"
+    },
+    {
+     "surface": "snātā",
+     "gloss": "bathed",
+     "grounds": "nominative plural masculine participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śuklāmbarādikāḥ",
+     "gloss": "white+garments+etc",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What condition is prescribed for the twice-born?",
+   "premises": [
+    "syuḥ means become",
+    "snātā means bathed",
+    "dvijāḥ means twice-born",
+    "śuklāmbarādikāḥ means with white garments and so on"
+   ],
+   "inference": "The twice-born should become bathed and wear white garments and so on.",
+   "uncertainties": [
+    "the full list of garments is abbreviated"
+   ],
+   "plain_english": "The twice-born should be bathed and wear white garments and so on."
+  },
+  {
+   "verse": 1924,
+   "rows": [
+    {
+     "surface": "sājyaṃ",
+     "gloss": "with-ghee",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sakadalīphalam",
+     "gloss": "with-banana-fruit",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What accompaniments are named for the offering?",
+   "premises": [
+    "sājyaṃ means with ghee",
+    "sakadalīphalam means with banana fruit"
+   ],
+   "inference": "The offering is accompanied by ghee and banana fruit.",
+   "uncertainties": [
+    "the base offering is carried from context"
+   ],
+   "plain_english": "With ghee and banana fruit."
+  }
+ ]
+}

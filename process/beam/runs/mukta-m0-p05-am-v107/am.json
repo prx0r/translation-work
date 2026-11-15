@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 107,
- "question": "What bodily actions should the mantrin perform after touching the heads?",
+ "question": "Which goddesses are being enumerated here?",
  "premises": [
-  "the mantrin touches heads",
-  "ear and eye binding is made"
+  "The token list names three goddess types.",
+  "The final token indicates engagement."
  ],
- "inference": "the rite includes touching heads and binding ears and eyes",
- "uncertainties": [],
- "plain_english": "The mantrin should touch the heads and make ear and eye binding."
+ "inference": "The unit enumerates armor, sight, and weapon goddesses.",
+ "uncertainties": [
+  "The exact scope of ṣaḍīratāḥ is unclear."
+ ],
+ "plain_english": "The armor, sight, and weapon goddesses are engaged."
 }

@@ -1,0 +1,902 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1701,
+   "rows": [
+    {
+     "surface": "ratha",
+     "gloss": "chariot",
+     "grounds": "legacy hint chariot",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "legacy hint *",
+     "morph": "indecl."
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "legacy hint *",
+     "morph": "indecl."
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "legacy hint *",
+     "morph": "indecl."
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "legacy hint *",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hyāttu",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṭsaptāṣṭavitastibhiḥ",
+     "gloss": "with-six-seven-eight-spans",
+     "grounds": "legacy hint with-six-seven-eight-spans",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "chariot seat width half measure",
+    "pole length three hands",
+    "wheels breadth equal above axle"
+   ],
+   "inference": "The verses prescribe chariot measurements and ornamentation.",
+   "uncertainties": [
+    "asterisk tokens unresolved",
+    "technical measurements uncertain"
+   ],
+   "plain_english": "The verses describe chariot construction, dimensions, and ornamentation."
+  },
+  {
+   "verse": 1702,
+   "rows": [
+    {
+     "surface": "svavyāsādhyardhamāyāmo",
+     "gloss": "own-width-half-measure",
+     "grounds": "legacy hint own-width-half-measure",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "rathopasthasya",
+     "gloss": "of-chariot-seat",
+     "grounds": "legacy hint of-chariot-seat",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "kīrttitaḥ",
+     "gloss": "is-declared",
+     "grounds": "legacy hint is-declared",
+     "morph": "3.sg.pass-past"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "chariot seat width half measure"
+   ],
+   "inference": "The chariot seat width is declared as half measure.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The chariot seat width is declared."
+  },
+  {
+   "verse": 1703,
+   "rows": [
+    {
+     "surface": "baddhāḥ",
+     "gloss": "bound",
+     "grounds": "legacy hint bound",
+     "morph": "3.pl.pass-past"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "akṣottarordhvataḥ",
+     "gloss": "above-axle",
+     "grounds": "legacy hint above-axle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "bound above axle"
+   ],
+   "inference": "Parts are bound above the axle.",
+   "uncertainties": [
+    "exact referent uncertain"
+   ],
+   "plain_english": "Parts are bound above the axle."
+  },
+  {
+   "verse": 1704,
+   "rows": [
+    {
+     "surface": "agrākṣāt",
+     "gloss": "front-axle",
+     "grounds": "legacy hint front-axle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "madhyabhāraḥ",
+     "gloss": "middle-load",
+     "grounds": "legacy hint middle-load",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "legacy hint which",
+     "morph": "rel.pron.m.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "pron.m.sg"
+    },
+    {
+     "surface": "ceṣādaṇḍaḥ",
+     "gloss": "pole",
+     "grounds": "legacy hint pole",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-intended",
+     "grounds": "legacy hint is-intended",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "front axle middle load pole"
+   ],
+   "inference": "The pole is the middle load from the front axle.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The pole is intended as the middle load from the front axle."
+  },
+  {
+   "verse": 1705,
+   "rows": [
+    {
+     "surface": "tadāyāmaḥ",
+     "gloss": "its-measure",
+     "grounds": "legacy hint its-measure",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "hastatrayamitaḥ",
+     "gloss": "three-hands",
+     "grounds": "legacy hint three-hands",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "its measure three hands"
+   ],
+   "inference": "Its measure becomes three hands.",
+   "uncertainties": [
+    "referent uncertain"
+   ],
+   "plain_english": "Its measure becomes three hands."
+  },
+  {
+   "verse": 1706,
+   "rows": [
+    {
+     "surface": "bhāradārūṇām",
+     "gloss": "load-woods",
+     "grounds": "legacy hint load-woods",
+     "morph": "n.n.pl"
+    },
+    {
+     "surface": "phalakābhiḥ",
+     "gloss": "planks",
+     "grounds": "legacy hint planks",
+     "morph": "n.f.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "legacy hint tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yuktitaḥ",
+     "gloss": "with-skill",
+     "grounds": "legacy hint with-skill",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "load woods planks skill"
+   ],
+   "inference": "Load woods are joined with planks skillfully.",
+   "uncertainties": [
+    "exact construction uncertain"
+   ],
+   "plain_english": "Load woods are joined with planks skillfully."
+  },
+  {
+   "verse": 1707,
+   "rows": [
+    {
+     "surface": "svāyāmavedabhāgena",
+     "gloss": "own-measure-eighth-part",
+     "grounds": "legacy hint own-measure-eighth-part",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rathopasthāgranirgamaḥ",
+     "gloss": "chariot-seat-front-exit",
+     "grounds": "legacy hint chariot-seat-front-exit",
+     "morph": "n.m.sg"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "own measure eighth part front exit"
+   ],
+   "inference": "The front exit of the chariot seat is an eighth part.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The front exit of the chariot seat is an eighth part."
+  },
+  {
+   "verse": 1708,
+   "rows": [
+    {
+     "surface": "akṣottarāyāmasamā",
+     "gloss": "above-axle-measure-equal",
+     "grounds": "legacy hint above-axle-measure-equal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cakrāṇām",
+     "gloss": "of-wheels",
+     "grounds": "legacy hint of-wheels",
+     "morph": "n.n.pl"
+    },
+    {
+     "surface": "vistṛtiḥ",
+     "gloss": "breadth",
+     "grounds": "legacy hint breadth",
+     "morph": "n.f.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "is-remembered",
+     "grounds": "legacy hint is-remembered",
+     "morph": "3.sg.pass-past"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "above axle measure equal wheels breadth"
+   ],
+   "inference": "Wheel breadth equals the above-axle measure.",
+   "uncertainties": [
+    "exact measure uncertain"
+   ],
+   "plain_english": "Wheel breadth is remembered as equal to the above-axle measure."
+  },
+  {
+   "verse": 1709,
+   "rows": [
+    {
+     "surface": "tāsām",
+     "gloss": "of-them",
+     "grounds": "legacy hint of-them",
+     "morph": "pron.f.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "legacy hint tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "spread",
+     "grounds": "legacy hint spread",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "legacy hint around",
+     "morph": "indecl."
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "legacy hint is-remembered",
+     "morph": "3.sg.pass-past"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "of them spread around"
+   ],
+   "inference": "Their spread around is remembered.",
+   "uncertainties": [
+    "referent uncertain"
+   ],
+   "plain_english": "Their spread around is remembered."
+  },
+  {
+   "verse": 1710,
+   "rows": [
+    {
+     "surface": "pipīlikā",
+     "gloss": "ant",
+     "grounds": "legacy hint ant",
+     "morph": "n.f.sg"
+    },
+    {
+     "surface": "madhyā",
+     "gloss": "middle",
+     "grounds": "legacy hint middle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yava",
+     "gloss": "barley",
+     "grounds": "legacy hint barley",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "madhyāḥ",
+     "gloss": "middle",
+     "grounds": "legacy hint middle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "ant middle barley middle also or"
+   ],
+   "inference": "Wheel rim measures use ant and barley middles.",
+   "uncertainties": [
+    "technical measure uncertain"
+   ],
+   "plain_english": "Wheel rim measures use ant and barley middles."
+  },
+  {
+   "verse": 1711,
+   "rows": [
+    {
+     "surface": "nemeḥ",
+     "gloss": "of-rim",
+     "grounds": "legacy hint of-rim",
+     "morph": "n.m.sg"
+    },
+    {
+     "surface": "sīmāditaḥ",
+     "gloss": "from-boundary",
+     "grounds": "legacy hint from-boundary",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "of rim from boundary becomes"
+   ],
+   "inference": "The rim measure becomes from the boundary.",
+   "uncertainties": [
+    "exact boundary uncertain"
+   ],
+   "plain_english": "The rim measure becomes from the boundary."
+  },
+  {
+   "verse": 1712,
+   "rows": [
+    {
+     "surface": "puṣpasvastikakhaṇḍendumatsyādyaiḥ",
+     "gloss": "flowers-swastika-pieces-moon-fish-etc",
+     "grounds": "legacy hint flowers-swastika-pieces-moon-fish-etc",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadalaṅkṛtiḥ",
+     "gloss": "that-ornament",
+     "grounds": "legacy hint that-ornament",
+     "morph": "n.f.sg"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "flowers swastika pieces moon fish ornament"
+   ],
+   "inference": "That ornament uses flowers, swastika, pieces, moon, fish, etc.",
+   "uncertainties": [
+    "ornament placement uncertain"
+   ],
+   "plain_english": "That ornament uses flowers, swastika, pieces, moon, fish, and so on."
+  },
+  {
+   "verse": 1713,
+   "rows": [
+    {
+     "surface": "mūlāgrayoḥ",
+     "gloss": "root-tip",
+     "grounds": "legacy hint root-tip",
+     "morph": "n.n.du"
+    },
+    {
+     "surface": "te",
+     "gloss": "te",
+     "grounds": "legacy hint te",
+     "morph": "pron.m.pl"
+    },
+    {
+     "surface": "vyāsena",
+     "gloss": "by-diameter",
+     "grounds": "legacy hint by-diameter",
+     "morph": "indecl."
+    },
+    {
+     "surface": "catustryaṅgulasasmitāḥ",
+     "gloss": "four-three-angulas-smiling",
+     "grounds": "legacy hint four-three-angulas-smiling",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "root tip diameter four three angulas"
+   ],
+   "inference": "Root and tip diameters are four and three angulas.",
+   "uncertainties": [
+    "smiling term uncertain"
+   ],
+   "plain_english": "Root and tip diameters are four and three angulas."
+  },
+  {
+   "verse": 1714,
+   "rows": [
+    {
+     "surface": "stambhoccarāmabhāgaikabhāgāt",
+     "gloss": "pillar-rise-part-one-part",
+     "grounds": "legacy hint pillar-rise-part-one-part",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhittyunnatirbhavet",
+     "gloss": "wall-height",
+     "grounds": "legacy hint wall-height",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "pillar rise part one part wall height"
+   ],
+   "inference": "Wall height arises from pillar rise parts.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Wall height arises from pillar rise parts."
+  },
+  {
+   "verse": 1715,
+   "rows": [
+    {
+     "surface": "bhūtavyālagajādyaiḥ",
+     "gloss": "beings-serpents-elephants-etc",
+     "grounds": "legacy hint beings-serpents-elephants-etc",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nāṭakaiḥ",
+     "gloss": "actors",
+     "grounds": "legacy hint actors",
+     "morph": "n.m.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vibhūṣayet",
+     "gloss": "adorn",
+     "grounds": "legacy hint adorn",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "beings serpents elephants actors adorn"
+   ],
+   "inference": "Adorn with beings, serpents, elephants, and actors.",
+   "uncertainties": [
+    "exact figures uncertain"
+   ],
+   "plain_english": "Adorn with beings, serpents, elephants, and actors."
+  },
+  {
+   "verse": 1716,
+   "rows": [
+    {
+     "surface": "yuktitaḥ",
+     "gloss": "with-skill",
+     "grounds": "legacy hint with-skill",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "legacy hint having-made",
+     "morph": "gerund"
+    },
+    {
+     "surface": "stambhānām",
+     "gloss": "of-pillars",
+     "grounds": "legacy hint of-pillars",
+     "morph": "n.m.pl"
+    },
+    {
+     "surface": "upari",
+     "gloss": "upari",
+     "grounds": "legacy hint upari",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "legacy hint in-order",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "skill having made pillars above order"
+   ],
+   "inference": "Make pillars above in order skillfully.",
+   "uncertainties": [
+    "construction sequence uncertain"
+   ],
+   "plain_english": "Make pillars above in order skillfully."
+  },
+  {
+   "verse": 1717,
+   "rows": [
+    {
+     "surface": "prāsādamaṇḍapākāraṃ",
+     "gloss": "palace-pavilion-form",
+     "grounds": "legacy hint palace-pavilion-form",
+     "morph": "n.n.sg"
+    },
+    {
+     "surface": "ramyaṃ",
+     "gloss": "pleasing",
+     "grounds": "legacy hint pleasing",
+     "morph": "adj.n.sg"
+    },
+    {
+     "surface": "saśikharaṃ",
+     "gloss": "with-spire",
+     "grounds": "legacy hint with-spire",
+     "morph": "adj.n.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "palace pavilion form pleasing with spire"
+   ],
+   "inference": "It becomes a pleasing palace-pavilion form with spire.",
+   "uncertainties": [
+    "exact form uncertain"
+   ],
+   "plain_english": "It becomes a pleasing palace-pavilion form with spire."
+  },
+  {
+   "verse": 1718,
+   "rows": [
+    {
+     "surface": "dvicakraḥ",
+     "gloss": "two-wheeled",
+     "grounds": "legacy hint two-wheeled",
+     "morph": "adj.m.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "legacy hint syāt",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śikharastambhavarjitaḥ",
+     "gloss": "spire-pillar-except",
+     "grounds": "legacy hint spire-pillar-except",
+     "morph": "adj.m.sg"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "two wheeled except spire pillar"
+   ],
+   "inference": "It is two-wheeled except spire and pillar.",
+   "uncertainties": [
+    "variant reading uncertain"
+   ],
+   "plain_english": "It is two-wheeled except spire and pillar."
+  },
+  {
+   "verse": 1719,
+   "rows": [
+    {
+     "surface": "dvicakraḥ",
+     "gloss": "two-wheeled",
+     "grounds": "legacy hint two-wheeled",
+     "morph": "adj.m.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "legacy hint syāt",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhittistambhādivarjitaḥ",
+     "gloss": "wall-pillar-etc-except",
+     "grounds": "legacy hint wall-pillar-etc-except",
+     "morph": "adj.m.sg"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "two wheeled except wall pillar etc"
+   ],
+   "inference": "It is two-wheeled except wall, pillar, etc.",
+   "uncertainties": [
+    "variant reading uncertain"
+   ],
+   "plain_english": "It is two-wheeled except wall, pillar, and so on."
+  },
+  {
+   "verse": 1720,
+   "rows": [
+    {
+     "surface": "syuḥ",
+     "gloss": "become",
+     "grounds": "legacy hint become",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "tadākārāḥ",
+     "gloss": "that-form",
+     "grounds": "legacy hint that-form",
+     "morph": "adj.m.pl"
+    },
+    {
+     "surface": "kampapadmādyalaṅkṛtāḥ",
+     "gloss": "trembling-lotus-etc-ornamented",
+     "grounds": "legacy hint trembling-lotus-etc-ornamented",
+     "morph": "adj.m.pl"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "become that form trembling lotus ornamented"
+   ],
+   "inference": "They become that form ornamented with trembling lotus, etc.",
+   "uncertainties": [
+    "referent uncertain"
+   ],
+   "plain_english": "They become that form ornamented with trembling lotus and so on."
+  },
+  {
+   "verse": 1721,
+   "rows": [
+    {
+     "surface": "tripañcakāṅgulāḥ",
+     "gloss": "three-five-angulas",
+     "grounds": "legacy hint three-five-angulas",
+     "morph": "indecl."
+    },
+    {
+     "surface": "madhyāḥ",
+     "gloss": "middle",
+     "grounds": "legacy hint middle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaniṣṭhā",
+     "gloss": "smallest",
+     "grounds": "legacy hint smallest",
+     "morph": "adj.f.sg"
+    },
+    {
+     "surface": "dvādaśāṅgulāḥ",
+     "gloss": "twelve-angulas",
+     "grounds": "legacy hint twelve-angulas",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "three five angulas middle smallest twelve angulas"
+   ],
+   "inference": "Middle and smallest measures are three-five and twelve angulas.",
+   "uncertainties": [
+    "exact referent uncertain"
+   ],
+   "plain_english": "Middle and smallest measures are three-five and twelve angulas."
+  },
+  {
+   "verse": 1722,
+   "rows": [
+    {
+     "surface": "vyālahariprakhyāḥ",
+     "gloss": "serpent-tiger-like",
+     "grounds": "legacy hint serpent-tiger-like",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śreṣṭhā",
+     "gloss": "best",
+     "grounds": "legacy hint best",
+     "morph": "adj.f.sg"
+    },
+    {
+     "surface": "madhyāḥ",
+     "gloss": "middle",
+     "grounds": "legacy hint middle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "legacy hint tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atha",
+     "gloss": "atha",
+     "grounds": "legacy hint atha",
+     "morph": "indecl."
+    },
+    {
+     "surface": "adhamāḥ",
+     "gloss": "lowest",
+     "grounds": "legacy hint lowest",
+     "morph": "adj.f.pl"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "serpent tiger like best middle lowest"
+   ],
+   "inference": "Best, middle, and lowest are serpent-tiger-like.",
+   "uncertainties": [
+    "classification uncertain"
+   ],
+   "plain_english": "Best, middle, and lowest are serpent-tiger-like."
+  },
+  {
+   "verse": 1723,
+   "rows": [
+    {
+     "surface": "mithastulyāḥ",
+     "gloss": "mutually-equal",
+     "grounds": "legacy hint mutually-equal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "legacy hint auspicious",
+     "morph": "adj.f.pl"
+    },
+    {
+     "surface": "dārvādinirmitāḥ",
+     "gloss": "wood-etc-made",
+     "grounds": "legacy hint wood-etc-made",
+     "morph": "adj.f.pl"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "mutually equal auspicious wood etc made"
+   ],
+   "inference": "Mutually equal auspicious ones are made of wood, etc.",
+   "uncertainties": [
+    "material list uncertain"
+   ],
+   "plain_english": "Mutually equal auspicious ones are made of wood and so on."
+  },
+  {
+   "verse": 1724,
+   "rows": [
+    {
+     "surface": "kṣaumakārpāsapaṭṭābhyām",
+     "gloss": "linen-cotton-silk",
+     "grounds": "legacy hint linen-cotton-silk",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prastarau",
+     "gloss": "two-stones",
+     "grounds": "legacy hint two-stones",
+     "morph": "n.m.du"
+    },
+    {
+     "surface": "śreṣṭhamadhyamau",
+     "gloss": "best-middle",
+     "grounds": "legacy hint best-middle",
+     "morph": "adj.m.du"
+    }
+   ],
+   "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+   "premises": [
+    "linen cotton silk two stones best middle"
+   ],
+   "inference": "Best and middle are two stones with linen, cotton, silk.",
+   "uncertainties": [
+    "material pairing uncertain"
+   ],
+   "plain_english": "Best and middle are two stones with linen, cotton, and silk."
+  }
+ ]
+}

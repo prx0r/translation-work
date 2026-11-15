@@ -1,0 +1,784 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1751,
+   "rows": [
+    {
+     "surface": "prathamo",
+     "gloss": "first",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvitīyaścotsavāṅkuraḥ",
+     "gloss": "second-festival-sprout",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which two festival-sprout stages are named first and second?",
+   "premises": [
+    "The verse names first and second stages.",
+    "The second is called festival-sprout."
+   ],
+   "inference": "The sequence begins with first and second festival-sprout stages.",
+   "uncertainties": [
+    "Exact ritual sense of festival-sprout remains context-dependent."
+   ],
+   "plain_english": "The first and second are the festival-sprout stages."
+  },
+  {
+   "verse": 1752,
+   "rows": [
+    {
+     "surface": "dhvajaṃdaṇḍataruḥ",
+     "gloss": "flag-staff-tree",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūgastvaksāraḥ",
+     "gloss": "betel-nut-hard-wood",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāka",
+     "gloss": "teak",
+     "grounds": "tree option",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which woods may serve as the flag-staff tree?",
+   "premises": [
+    "The flag-staff tree may be betel-nut hard wood.",
+    "Teak is also allowed."
+   ],
+   "inference": "Betel-nut hard wood or teak may be used for the flag-staff tree.",
+   "uncertainties": [
+    "Whether other woods are permitted is not stated."
+   ],
+   "plain_english": "The flag-staff tree is betel-nut hard wood or teak."
+  },
+  {
+   "verse": 1753,
+   "rows": [
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ṛjurgranthyādivarjitaḥ",
+     "gloss": "straight-knot-free",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What quality must the flag-staff wood have?",
+   "premises": [
+    "The wood should be straight.",
+    "It should be free from knots."
+   ],
+   "inference": "The flag-staff wood must be straight and knot-free.",
+   "uncertainties": [
+    "Other defects are not enumerated."
+   ],
+   "plain_english": "It should be straight and free from knots."
+  },
+  {
+   "verse": 1754,
+   "rows": [
+    {
+     "surface": "samacchedāḥ",
+     "gloss": "even-cuts",
+     "grounds": "plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sādhuvṛttā",
+     "gloss": "well-rounded",
+     "grounds": "plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "manoramāḥ",
+     "gloss": "pleasing",
+     "grounds": "plural adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What shape qualities are required for the staff?",
+   "premises": [
+    "The cuts should be even.",
+    "The form should be well-rounded and pleasing."
+   ],
+   "inference": "The staff should have even cuts, a well-rounded form, and a pleasing appearance.",
+   "uncertainties": [
+    "Exact measurement standards are not given here."
+   ],
+   "plain_english": "The cuts should be even, well-rounded, and pleasing."
+  },
+  {
+   "verse": 1755,
+   "rows": [
+    {
+     "surface": "pañcapañcaguṇaṃ",
+     "gloss": "five-times-five-fold",
+     "grounds": "compound numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "superlative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhyamatyaṣṭisaṃmitaiḥ",
+     "gloss": "middle-eight-cubits-measured",
+     "grounds": "fused compound",
+     "morph": "inst.pl"
+    }
+   ],
+   "question": "How are best and middle staff heights measured?",
+   "premises": [
+    "The best height is five-times-five fold.",
+    "The middle is measured by eight cubits."
+   ],
+   "inference": "Best and middle heights are specified by these measures.",
+   "uncertainties": [
+    "The base unit for five-times-five is not explicit."
+   ],
+   "plain_english": "The best is five-times-five fold; the middle is eight cubits."
+  },
+  {
+   "verse": 1756,
+   "rows": [
+    {
+     "surface": "kaṇṭhamitaṃ",
+     "gloss": "throat-measured",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nīcaṃ",
+     "gloss": "low",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vṛṣatalocchritam",
+     "gloss": "bull-base-raised",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What height grades are given for the staff?",
+   "premises": [
+    "Heights include throat-measured, middle, and low.",
+    "The low grade is raised from the bull base."
+   ],
+   "inference": "The staff has throat-measured, middle, and low height grades.",
+   "uncertainties": [
+    "Exact numeric equivalents are not stated."
+   ],
+   "plain_english": "Heights are throat-measured, middle, and low from the bull base."
+  },
+  {
+   "verse": 1757,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśat",
+     "gloss": "thirty-six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṃśaccaivāṅgulāni",
+     "gloss": "thirty-also-inches",
+     "grounds": "fused compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What inch counts are specified for staff dimensions?",
+   "premises": [
+    "Thirty-six is given.",
+    "Thirty is also given in inches."
+   ],
+   "inference": "The dimensions include thirty-six and thirty inches.",
+   "uncertainties": [
+    "Which part each count measures is not explicit."
+   ],
+   "plain_english": "The counts are thirty-six and thirty inches."
+  },
+  {
+   "verse": 1758,
+   "rows": [
+    {
+     "surface": "dhvajadaṇḍasajātīyastūpadaṇḍatarurbhavet",
+     "gloss": "flag-staff-same-kind-stupa-staff-tree-should-be",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of tree should the stupa staff be?",
+   "premises": [
+    "The stupa staff tree should be of the same kind as the flag staff."
+   ],
+   "inference": "The stupa staff tree must match the flag-staff kind.",
+   "uncertainties": [
+    "The exact species is not repeated here."
+   ],
+   "plain_english": "The stupa staff tree should be the same kind as the flag staff."
+  },
+  {
+   "verse": 1759,
+   "rows": [
+    {
+     "surface": "upadaṇḍasya",
+     "gloss": "of-secondary-staff",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tuṅgaṃ",
+     "gloss": "height",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tannāhodvādaśāṅgulaḥ",
+     "gloss": "its-girth-twelve-inches",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What height and girth are prescribed for the secondary staff?",
+   "premises": [
+    "The secondary staff should have a specified height.",
+    "Its girth should be twelve inches."
+   ],
+   "inference": "The secondary staff has a prescribed height and a twelve-inch girth.",
+   "uncertainties": [
+    "The height value is not numerically explicit in this token."
+   ],
+   "plain_english": "The secondary staff has a set height and a twelve-inch girth."
+  },
+  {
+   "verse": 1760,
+   "rows": [
+    {
+     "surface": "sacchidrāgrāstrayaskandhāśchidraprotopadaṇḍakāḥ",
+     "gloss": "perforated-tip-three-trunks-perforated-secondary-staffs",
+     "grounds": "fused compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the secondary staffs constructed?",
+   "premises": [
+    "They have perforated tips.",
+    "They have three trunks and perforated secondary staffs."
+   ],
+   "inference": "The secondary staffs are perforated, three-trunked constructions.",
+   "uncertainties": [
+    "Assembly details are not fully explicit."
+   ],
+   "plain_english": "They are perforated, three-trunked secondary staffs."
+  },
+  {
+   "verse": 1761,
+   "rows": [
+    {
+     "surface": "upadaṇḍaḥ",
+     "gloss": "secondary-staff",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ketudaṇḍādagre",
+     "gloss": "from-banner-staff-front",
+     "grounds": "fused compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-front",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tālādhikāyataḥ",
+     "gloss": "palm-exceeding-length",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where and how long should the secondary staff be?",
+   "premises": [
+    "It is placed at the front of the banner staff.",
+    "Its length exceeds a palm measure."
+   ],
+   "inference": "The secondary staff is front-mounted and longer than a palm measure.",
+   "uncertainties": [
+    "Exact length beyond palm is not stated."
+   ],
+   "plain_english": "It is placed in front of the banner staff and exceeds a palm in length."
+  },
+  {
+   "verse": 1762,
+   "rows": [
+    {
+     "surface": "patākābandhanīrajjustadantaḥ",
+     "gloss": "flag-binding-cord-its-tooth",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃviśed",
+     "gloss": "should-enter",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the flag-binding cord be fitted?",
+   "premises": [
+    "The cord should enter as specified.",
+    "The tooth or peg is involved in fitting."
+   ],
+   "inference": "The flag-binding cord is fitted through the tooth or peg as prescribed.",
+   "uncertainties": [
+    "The exact fitting mechanism is not fully explicit."
+   ],
+   "plain_english": "The flag-binding cord should be fitted through the tooth as prescribed."
+  },
+  {
+   "verse": 1763,
+   "rows": [
+    {
+     "surface": "dhvajadaṇḍoccā",
+     "gloss": "flag-staff-high",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣālitā",
+     "gloss": "washed",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suviśodhitā",
+     "gloss": "well-purified",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the high flag staff be prepared?",
+   "premises": [
+    "The high flag staff should be washed.",
+    "It should be well purified."
+   ],
+   "inference": "The high flag staff must be washed and well purified.",
+   "uncertainties": [
+    "Purification substances are not named here."
+   ],
+   "plain_english": "The high flag staff should be washed and well purified."
+  },
+  {
+   "verse": 1764,
+   "rows": [
+    {
+     "surface": "madhyahārāyāṃ",
+     "gloss": "in-middle-garland",
+     "grounds": "locative compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "maryādāmadhyame'thavā",
+     "gloss": "boundary-middle-or",
+     "grounds": "fused compound",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Where should the middle garland or boundary be placed?",
+   "premises": [
+    "Placement is in the middle garland.",
+    "Alternatively it is at the middle boundary."
+   ],
+   "inference": "The middle garland or middle boundary marks the placement.",
+   "uncertainties": [
+    "The exact object being placed is not explicit."
+   ],
+   "plain_english": "It is placed in the middle garland or at the middle boundary."
+  },
+  {
+   "verse": 1765,
+   "rows": [
+    {
+     "surface": "nābhikaṭyūrudaghne",
+     "gloss": "navel-hip-thigh-height",
+     "grounds": "fused compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "gartte",
+     "gloss": "in-pit",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vilepite",
+     "gloss": "smeared",
+     "grounds": "participle",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Where and how should the pit be prepared?",
+   "premises": [
+    "The pit is at navel, hip, or thigh height.",
+    "It should be smeared."
+   ],
+   "inference": "The pit is prepared at body-height level and smeared.",
+   "uncertainties": [
+    "Which body height applies is not fixed."
+   ],
+   "plain_english": "The pit is at navel, hip, or thigh height and is smeared."
+  },
+  {
+   "verse": 1766,
+   "rows": [
+    {
+     "surface": "samucchritya",
+     "gloss": "having-raised",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "darbhamālāṃdyalaṅkṛtam",
+     "gloss": "darbha-garland-decorated",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the raised object be decorated?",
+   "premises": [
+    "It is raised up.",
+    "It is decorated with a darbha garland."
+   ],
+   "inference": "The raised object is decorated with a darbha garland.",
+   "uncertainties": [
+    "The raised object is not explicitly named."
+   ],
+   "plain_english": "Having raised it, decorate it with a darbha garland."
+  },
+  {
+   "verse": 1767,
+   "rows": [
+    {
+     "surface": "tanmūlavedikāṃ",
+     "gloss": "its-base-platform",
+     "grounds": "accusative compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-make",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvyekahastatatocchrayām",
+     "gloss": "two-one-cubit-its-height",
+     "grounds": "fused compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What platform should be made at the base?",
+   "premises": [
+    "A platform should be made at the base.",
+    "Its height is two or one cubit."
+   ],
+   "inference": "The base platform should be made two or one cubit high.",
+   "uncertainties": [
+    "Whether two or one cubit depends on context."
+   ],
+   "plain_english": "Make a base platform two or one cubit high."
+  },
+  {
+   "verse": 1768,
+   "rows": [
+    {
+     "surface": "tadvyāso",
+     "gloss": "its-diameter",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāsārdhācchikharaṃ",
+     "gloss": "from-half-diameter-spire",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the spire diameter relate to the base?",
+   "premises": [
+    "The diameter is given.",
+    "The spire should be half the diameter."
+   ],
+   "inference": "The spire should be half the diameter of the base.",
+   "uncertainties": [
+    "The exact base diameter value is not stated."
+   ],
+   "plain_english": "The spire should be half the diameter."
+  },
+  {
+   "verse": 1769,
+   "rows": [
+    {
+     "surface": "svāyāmapañcabhāgaikabhāgānmadhye",
+     "gloss": "own-length-five-parts-one-part-in-middle",
+     "grounds": "fused compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vṛṣaṃ",
+     "gloss": "bull",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-draw",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the bull be drawn?",
+   "premises": [
+    "The bull should be drawn.",
+    "It is placed one-fifth of the length from the middle."
+   ],
+   "inference": "The bull is drawn one-fifth of the length from the middle.",
+   "uncertainties": [
+    "The reference length is not fully explicit."
+   ],
+   "plain_english": "Draw the bull one-fifth of the length from the middle."
+  },
+  {
+   "verse": 1770,
+   "rows": [
+    {
+     "surface": "sitāsitaviśālākṣaḥ",
+     "gloss": "white-black-large-eyed",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sugrīvaḥ",
+     "gloss": "good-necked",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sumukhākṛtiḥ",
+     "gloss": "good-faced-form",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What appearance should the bull have?",
+   "premises": [
+    "The bull should have large white and black eyes.",
+    "It should have a good neck and good face."
+   ],
+   "inference": "The bull should be large-eyed, good-necked, and good-faced.",
+   "uncertainties": [
+    "Color distribution is not specified."
+   ],
+   "plain_english": "The bull should have large white and black eyes, a good neck, and a good face."
+  },
+  {
+   "verse": 1771,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yathoktavṛṣalakṣaṇaḥ",
+     "gloss": "as-described-bull-marked",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What alternative bull description is allowed?",
+   "premises": [
+    "Alternatively it should be as described.",
+    "The bull should bear the described marks."
+   ],
+   "inference": "The bull may instead follow the previously described bull marks.",
+   "uncertainties": [
+    "The referenced description is elsewhere."
+   ],
+   "plain_english": "Or it should have the bull marks as described."
+  },
+  {
+   "verse": 1772,
+   "rows": [
+    {
+     "surface": "viśeṣapūjāṃ",
+     "gloss": "special-worship",
+     "grounds": "accusative compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāya",
+     "gloss": "to-Shiva",
+     "grounds": "dative noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vṛṣabhāya",
+     "gloss": "to-bull",
+     "grounds": "dative noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is special worship offered?",
+   "premises": [
+    "Special worship is offered.",
+    "It is offered to Shiva and to the bull."
+   ],
+   "inference": "Special worship is offered to Shiva and the bull.",
+   "uncertainties": [
+    "The ritual sequence is not detailed."
+   ],
+   "plain_english": "Offer special worship to Shiva and the bull."
+  },
+  {
+   "verse": 1773,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar-ground",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śālibhistaṇḍulairapi",
+     "gloss": "with-rice-grains-also",
+     "grounds": "fused compound",
+     "morph": "inst.pl"
+    }
+   ],
+   "question": "How should the altar ground be made?",
+   "premises": [
+    "An altar ground should be made.",
+    "It is made with rice grains."
+   ],
+   "inference": "The altar ground is made with rice grains.",
+   "uncertainties": [
+    "Other materials are not excluded."
+   ],
+   "plain_english": "Make the altar ground with rice grains."
+  },
+  {
+   "verse": 1774,
+   "rows": [
+    {
+     "surface": "śuddhasalilaiḥ",
+     "gloss": "with-pure-water",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kūrcahemāmbrarānvitam",
+     "gloss": "brush-gold-cloth-included",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "With what is the altar ground sprinkled and adorned?",
+   "premises": [
+    "Pure water is used.",
+    "A brush, gold, and cloth are included."
+   ],
+   "inference": "The altar ground is sprinkled with pure water and adorned with brush, gold, and cloth.",
+   "uncertainties": [
+    "The exact arrangement is not explicit."
+   ],
+   "plain_english": "Sprinkle it with pure water and include brush, gold, and cloth."
+  }
+ ]
+}

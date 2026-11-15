@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2269,
- "question": "How is water used for the hosts?",
+ "question": "Which enclosure's stated items are used here?",
  "premises": [
-  "Water is thrown.",
-  "It is according to number.",
-  "Hosts are sprinkled."
+  "second enclosure is stated",
+  "stated items are implied"
  ],
- "inference": "Water is thrown according to number and hosts are sprinkled.",
+ "inference": "Items stated for the second enclosure are used.",
  "uncertainties": [
-  "The exact number is not specified here."
+  "the verb and object are carried from the previous line"
  ],
- "plain_english": "Throw water according to number, then sprinkle the hosts."
+ "plain_english": "With items stated for the second enclosure."
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p87",
  "verse": 2161,
- "question": "What animal-faced demon forms are listed?",
+ "question": "How many items fill the western set?",
  "premises": [
-  "Owl and camel-faced forms appear.",
-  "Great-bellied jackal-howling form is named."
+  "The token means fill.",
+  "It names the western direction.",
+  "It names nine."
  ],
- "inference": "The verse catalogs animalistic demon bodies.",
- "uncertainties": [],
- "plain_english": "Owl, camel-faced, great-bellied, and jackal-howling forms are listed."
+ "inference": "Nine items fill the western set.",
+ "uncertainties": [
+  "The specific items are not named here."
+ ],
+ "plain_english": "Nine items fill the western set."
 }

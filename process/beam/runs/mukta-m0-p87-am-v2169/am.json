@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p87",
  "verse": 2169,
- "question": "What does the charioteer say the demon lord desired?",
+ "question": "How are four triads ordered from the east?",
  "premises": [
-  "He addresses the demon lord.",
-  "Something desired is to be asked."
+  "The token names four triads.",
+  "It names east beginning.",
+  "It names order union."
  ],
- "inference": "The verse introduces a question to the lord.",
- "uncertainties": [],
- "plain_english": "Demon lord, by you something desired is to be asked."
+ "inference": "Four triads are ordered from the east in sequence.",
+ "uncertainties": [
+  "Exact ordering details are not specified."
+ ],
+ "plain_english": "Four triads are ordered from the east in sequence."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 123,
- "question": "Which entities are included along with the guru?",
+ "question": "Which color and form are being described here?",
  "premises": [
-  "guru is named",
-  "retinue is included",
-  "weapon and vehicle are included"
+  "The token list gives white color.",
+  "The token list gives ten arms and moon crest."
  ],
- "inference": "the guru is worshipped with retinue, weapon, and vehicle",
- "uncertainties": [],
- "plain_english": "The guru with retinue, weapon, and vehicle."
+ "inference": "The unit describes a white ten-armed form adorned with moon crest.",
+ "uncertainties": [
+  "Exact deity name is not explicit in these tokens."
+ ],
+ "plain_english": "The white ten-armed form is adorned with moon crest."
 }

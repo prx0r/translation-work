@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2223,
- "question": "How should the width taper toward the tip in the prescribed sequence?",
+ "question": "What substances are listed in the compound?",
  "premises": [
-  "The width is specified in a sequence.",
-  "The measures are three, two, and one finger-widths.",
-  "The tip is desired to be gradually lessened."
+  "Astringent water is named.",
+  "Cow urine is named.",
+  "Flower cow-dung gold is named."
  ],
- "inference": "The form is desired to taper gradually from three to two to one finger-width at the tip.",
+ "inference": "The compound lists astringent water, cow urine, flower, cow-dung, and gold.",
  "uncertainties": [
-  "The exact feature being tapered is implied by the preceding context."
+  "Exact parsing of the long compound is uncertain."
  ],
- "plain_english": "It is desired to have a width of three, two, and one finger-widths in sequence, with a gradually lessened tip."
+ "plain_english": "Astringent water, cow urine, flower, cow-dung, and gold."
 }

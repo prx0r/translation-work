@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2026,
- "question": "What must the vastu-knowledge expert examine first before construction?",
+ "question": "How many padas are clearly counted beyond the two hundred in this arrangement?",
  "premises": [
-  "The expert examines ground first",
-  "Ground quality matters",
-  "Construction follows examination"
+  "The verse gives a count of padas.",
+  "It specifies two hundred as base.",
+  "It adds an excess beyond that base."
  ],
- "inference": "Site inspection precedes building",
+ "inference": "The total count exceeds two hundred by the stated excess.",
  "uncertainties": [
-  "Exact examination criteria unspecified"
+  "Exact arithmetic depends on the fused count token."
  ],
- "plain_english": "First the expert in vastu knowledge should examine the ground."
+ "plain_english": "Two hundred padas are clearly exceeded by the stated count."
 }

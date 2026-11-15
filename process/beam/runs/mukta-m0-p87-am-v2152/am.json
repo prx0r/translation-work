@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p87",
  "verse": 2152,
- "question": "What did the observers see before the army was destroyed?",
+ "question": "How does the ninefold water-king formula enter the hymn sequence?",
  "premises": [
-  "The pictures had seemed fully drawn.",
-  "The observers saw them suddenly."
+  "The token names a ninefold formula.",
+  "It is tied to a hymn.",
+  "Sequence order is specified."
  ],
- "inference": "The verse stresses the apparent completeness before destruction.",
- "uncertainties": [],
- "plain_english": "They had seen the pictures as if fully drawn, indeed."
+ "inference": "The ninefold water-king formula is introduced from the hymn in sequence.",
+ "uncertainties": [
+  "Internal word boundaries are not split."
+ ],
+ "plain_english": "The ninefold water-king formula is introduced from the hymn in sequence."
 }

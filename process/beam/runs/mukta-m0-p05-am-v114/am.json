@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 114,
- "question": "How is water held and manipulated between the hands?",
+ "question": "Which goddess and color is being contemplated here?",
  "premises": [
-  "water is taken",
-  "left hand holds it",
-  "right hand acts"
+  "The token list names Shakini.",
+  "A color term closes the unit."
  ],
- "inference": "water is held in the left hand and handled with the right",
- "uncertainties": [],
- "plain_english": "Having taken water in the left hand, one acts with the right hand."
+ "inference": "The unit prescribes contemplating golden-colored Shakini with the listed attributes.",
+ "uncertainties": [
+  "Some token boundaries are fused in the source."
+ ],
+ "plain_english": "Contemplate golden-colored Shakini with the listed attributes."
 }

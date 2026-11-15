@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 124,
- "question": "On which goddess is meditation performed in this rite?",
+ "question": "Which color and implements are being described here?",
  "premises": [
-  "meditation comes first",
-  "goddess with covering is named",
-  "sun orb dwelling is specified"
+  "The token list gives noose and bell.",
+  "A color term closes the unit."
  ],
- "inference": "meditation is on the goddess with covering dwelling in the sun orb",
- "uncertainties": [],
- "plain_english": "Having meditated, one contemplates the goddess with covering dwelling in the sun orb."
+ "inference": "The unit describes a white-colored form bearing noose, bell, snake, and elephant goad.",
+ "uncertainties": [
+  "Exact deity name is not explicit in these tokens."
+ ],
+ "plain_english": "The white-colored form bears noose, bell, snake, and elephant goad."
 }

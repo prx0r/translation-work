@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2045,
- "question": "By what measure is the inner square's corner determined?",
+ "question": "How many padas are cleansed outside at the door?",
  "premises": [
-  "The inner square is referenced",
-  "Corner half-half measure applies",
-  "This sets its measure"
+  "The verse says outside.",
+  "It names five padas.",
+  "It names door and cleansing."
  ],
- "inference": "The inner square's corner is set by half-half measure",
+ "inference": "Five padas are cleansed outside at the door.",
  "uncertainties": [
-  "Exact placement unspecified"
+  "The exact cleansing method is not stated."
  ],
- "plain_english": "By corner half-half measure of the inner square."
+ "plain_english": "Five padas are cleansed outside at the door."
 }

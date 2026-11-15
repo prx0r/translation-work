@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2048,
- "question": "How far from the fire-pit should auspicious girdles be made?",
+ "question": "How many puṭas are in the field with middle padas?",
  "premises": [
-  "Two fingers are abandoned",
-  "Girdles are made",
-  "They are auspicious"
+  "The verse names a field.",
+  "It names one-less-forty-nine puṭas.",
+  "It names middle padas."
  ],
- "inference": "Auspicious girdles are made two fingers from the fire-pit",
+ "inference": "The field has one-less-forty-nine puṭas with middle padas.",
  "uncertainties": [
-  "Girdle count unspecified"
+  "The exact total is forty-nine minus one."
  ],
- "plain_english": "Having left two fingers from the fire-pit, auspicious girdles should be made."
+ "plain_english": "The field has forty-eight puṭas with middle padas."
 }

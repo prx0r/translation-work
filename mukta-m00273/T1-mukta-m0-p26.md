@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[he](sa) [fourteen-nights](caturdaśarātraṃ) [would-be](syād) [on-tenth-day](daśāhe) [if](yadi) [fifth](pañcamī)
+[he](sa) [fourteen-night](caturdaśarātraṃ) [would-be](syād) [on-tenth-day](daśāhe) [if](yadi) [fifth](pañcamī)
 
 ## mukta-m0-p26-v627
-[other+clan](anyagotra) [entered](praviṣṭānāṃ) [inheritance](dāyamaṃ) [and](ca) [impurity](aśaucameva) [also](ca)
+[other-gotra](anyagotra) [entered](praviṣṭānāṃ) [inheritance](dāyamaṃ) [and](ca) [impurity](aśaucam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p26-v628
-[or](athavā) [other](anya) [manner](prakāreṇa) [I-will-declare](pravakṣyāmi) [briefly](samāsataḥ)
+[or](athavā) [another](anya) [manner](prakāreṇa) [I-will-declare](pravakṣyāmi) [briefly](samāsataḥ)
 
 ## mukta-m0-p26-v629
-[impurity](āśaucaṃ) [with-relatives](jñātibhissārdhaṃ) [his](tasya) [not-was](nāsīt) [in-order](krameṇa) [and](ca)
+[impurity](āśaucaṃ) [with-relatives](jñātibhiḥ+sārdhaṃ) [of-him](tasya) [not-was](nāsīt) [in-order](krameṇa) [and](ca)
 
 ## mukta-m0-p26-v630
-[remover](rutthahāri) [he](sa) [eva](eva) [would-be](syāttadāghamadhunocyate) [then](tadā) [sin](aghama) [now](adhunā) [is-declared](ucyate)
+[ruttha-hāri](rutthahāri) [he](sa) [indeed](eva) [would-be](syāt) [then-sin](tadāgham) [now-declared](adhunocyate)
 
 ## mukta-m0-p26-v631
-[which](yatkriyāśiṣyohyārabhya) [action](kriyā) [disciple](śiṣya) [indeed](hi) [beginning](ārabhya) [and](ca) [teacher](ācārya) [attendants](paricārakāḥ)
+[whose-action](yatkriyā) [disciples](śiṣyāḥ) [indeed](hi) [beginning](ārabhya) [and](ca) [teacher](ācārya) [attendants](paricārakāḥ)
 
 ## mukta-m0-p26-v632
-[cow-bathing](gavyasnānaṃ) [then](tataḥ) [having-done](kṛtvā) [remaining-rite](śeṣakarma) [should-perform](samācaret)
+[cow-urine-bath](gavyasnānaṃ) [then](tataḥ) [having-done](kṛtvā) [remaining-rites](śeṣakarma) [should-perform](samācaret)
 
 ## mukta-m0-p26-v633
-[initiated](dīkṣitānāṃ) [vow-standing](vratasthānāṃ) [yogis](yogināṃ) [and](ca) [thus](tathaiva) [also](ca)
+[initiated](dīkṣitānāṃ) [vow-observers](vratasthānāṃ) [yogis](yogināṃ) [and](ca) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p26-v634
-[afterwards](paścādāyogyadinaṃ) [unfit-day](ayogyadinaṃ) [cow-bathing](gavyasnānaṃ) [sprinkling](saṃprokṣaṇaṃ) [having-done](kṛtvā)
+[after](paścāt) [unfit-day](āyogyadinaṃ) [cow-urine-bath](gavyasnānaṃ) [sprinkling](saṃprokṣaṇaṃ) [having-done](kṛtvā)
 
 ## mukta-m0-p26-v635
-[death-impurity](śāvauśauce) [having-arisen](samutpanne) [childbirth](sūtikaṃ) [tu](tu) [as](yathā) [becomes](bhavet)
+[corpse-impurity](śāvauśauce) [arisen](samutpanne) [childbirth-impurity](sūtikaṃ) [but](tu) [as](yathā) [becomes](bhavet)
 
 ## mukta-m0-p26-v636
-[childbirth](sūtikaṃ) [by-childbirth](sūtikenaivaṃ) [death](śāvaṃ) [by-death](śāvena) [is-purified](śudhyati)
+[childbirth-impurity](sūtikaṃ) [by-childbirth-impurity](sūtikena) [thus](evaṃ) [corpse](śāvaṃ) [by-corpse](śāvena) [becomes-pure](śudhyati)
 
 ## mukta-m0-p26-v637
-[previous](pūrvasyāṃtadine) [day](dine) [if](yadi) [two-days](dvivasāt) [purified](śuddhe) [morning](prabhāte) [three-days](tryahāt)
+[previous](pūrvasyāṃ) [on-that-day](tadine) [if](yadi) [from-two-days](dvivasāt) [pure](śuddhe) [morning](prabhāte) [from-three-days](tryahāt)
 
 ## mukta-m0-p26-v638
-[man](puruṣoktavadācārya) [as-spoken](uktavat) [teacher](ācārya) [god-servant](devadāsyāśca) [and](ca) [appointed](kalpitāḥ)
+[as-man-said](puruṣoktavad) [teacher](ācārya) [of-god's-slave](devadāsyāḥ) [and](ca) [appointed](kalpitāḥ)
 
 ## mukta-m0-p26-v639
-[this](etat) [scripture](śāstraṃ) [having-abandoned](parityajya) [and](ca) [other-scripture](anyaśāstraṃ) [not](na) [should-think](cintaye)
+[this](etat) [scripture](śāstraṃ) [abandoning](parityajya) [and](ca) [other-scripture](anyaśāstraṃ) [not](na) [consider](cintaye)
 
 ## mukta-m0-p26-v640
-[birth-impurity](janmāśaucaṃ) [death-impurity](mṛtāśaucaṃ) [of-eye](cakṣuṣo) [is-purified](śudhyati) [in-order](kramāt)
+[birth-impurity](janmāśaucaṃ) [death-impurity](mṛtāśaucaṃ) [by-eye](cakṣuṣaḥ) [becomes-pure](śudhyati) [in-order](kramāt)
 
 ## mukta-m0-p26-v641
-[fifteen-days](pañcadaśāhaṃ) [if-son](putrī) [cet](cet) [then](tadaiva) [with-born-soul](sahajātmanām)
+[fifteen-days](pañcadaśāhaṃ) [daughter](putrī) [if](cet) [then-indeed](tadaiva) [of-born-souls](sahajātmanām)
 
 ## mukta-m0-p26-v642
-[on-sixth](ṣaṣṭheṣu) [grain-day](sasyahāt) [purification](śuddhisapte) [sa](sa) [in-order](kramāt)
+[on-sixth](ṣaṣṭheṣu) [grain-day](sasyahāt) [purification-seventh](śuddhisapte) [he](sa) [in-order](kramāt)
 
 ## mukta-m0-p26-v643
-[if](yadyasti) [husband's](bharturāśaucaṃ) [impurity](āśaucaṃ) [wife's](bhāryāyāśca) [no](na) [doubt](saṃśayaḥ)
+[if](yadi) [is](asti) [husband's-impurity](bharturāśaucaṃ) [wife's](bhāryāyāḥ) [and](ca) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p26-v644
-[son's](putroryāt) [giving](dātraṃ) [son](putrastasyāśaucaṃ) [his-impurity](āśaucaṃ) [is-prescribed](vidhīyate)
+[of-son](putroryāt) [gift](dātraṃ) [son](putraḥ) [his-impurity](tasyāśaucaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p26-v645
-[by-parents](pitṛbhyāṃ) [in-childhood](śaiśave) [elsewhere](anyatra) [giving](datro) [who](yaḥ) [there](tatra) [action-doer](karmakṛt)
+[by-parents](pitṛbhyāṃ) [in-childhood](śaiśave) [elsewhere](anyatra) [gift](datraḥ) [who](yaḥ) [there](tatra) [action-doer](karmakṛt)
 
 ## mukta-m0-p26-v646
-[previous-clan](pūrvagotre) [no](na) [connection](saṃbandhaḥ) [by-parents](pitṛbhyāṃ) [tu](tu) [without](vinā) [when](kadā)
+[previous-gotra](pūrvagotre) [no](na) [relation](saṃbandhaḥ) [by-parents](pitṛbhyāṃ) [but](tu) [without](vinā) [when](kadā)
 
 ## mukta-m0-p26-v647
-[sacrificer](yajamānaḥ) [action-son](kriyāputre) [previous-impurity](purāśaucamutpannaṃ) [cet](cet)
+[sacrificer](yajamānaḥ) [ritual-son](kriyāputre) [former-impurity](purāśaucam) [arisen](utpannaṃ) [if](cet)
 
 ## mukta-m0-p26-v648
-[impurity](āśaucamācaret) [should-perform](ācaret) [afterwards](paścāt) [when](kadā) [fit-day](yogyadinaṃ) [in-order](kramāt)
+[impurity](āśaucam) [should-observe](ācaret) [after](paścāt) [when](kadā) [fit-day](yogyadinaṃ) [in-order](kramāt)
 
 ## mukta-m0-p26-v649
-[arisen](utpannaṃ) [if](yadi) [which](yat) [time](kāle) [so](tadvadāśauca) [impurity](āśauca) [should-perform](mācaret)
+[arisen](utpannaṃ) [if](yadi) [at-what-time](yatkāle) [accordingly](tadvat) [impurity](āśaucaṃ) [should-observe](ācaret)
 
 ## mukta-m0-p26-v650
-[should-cause](kārayettu) [rites](saṃskārādi) [that-action](tatkarmāṇi) [should-perform](samācaret)
+[should-cause](kārayet) [but](tu) [rites-etc](saṃskārādi) [those-actions](tatkarmāṇi) [should-perform](samācaret)

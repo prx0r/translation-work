@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-who? [abhiṣiñcet](ke) should-consecrate [kramāt](kramānnityaṃ) in-order always [amṛta-ambu](amṛtāmbu) nectar-water [vibhāvayet](vibhāvayet) should-visualize
+[who](ke) [sprinkles](abhiṣiñcet) [in-order](kramāt) [always](nityam) [nectar-water](amṛta+ambu) [should-contemplate](vibhāvayet)
 
 ## mukta-m0-p26-v627
-[astra-abhimantritam](astrābhimantritaṃ) weapon-mantra-consecrated [toyam](toyamabhitaḥ) water around [pariṣecayet](pariṣecayet) should-sprinkle
+[weapon-mantra-empowered](astrābhimantritaṃ) [water](toyam) [around](abhitaḥ) [should-sprinkle](pariṣecayet)
 
 ## mukta-m0-p26-v628
-[kuṃbhe](kuṃbhe) in-pot [snānam](snānaṃ) bathing [prakurvīta](prakurvīta) should-perform [pūrvokta-vidhi-mantrakaiḥ](pūrvoktavidhimantrakaiḥ) with-previously-stated-rite-mantras
+[in-pot](kuṃbhe) [bathing](snānaṃ) [should-perform](prakurvīta) [aforementioned-rite-mantras](pūrvokta+vidhi+mantrakaiḥ)
 
 ## mukta-m0-p26-v629
-[tāmra-acchata-guṇam](tāmrācchataguṇaṃ) copper-purity-quality [raupyam](raupyaṃ) silver [rajatāt](rajatāddhaimakaṃ) from-silver golden [śatam](śatam) hundred
+[copper-hundredfold](tāmrāc+chataguṇaṃ) [silver](raupyaṃ) [from-silver-hundredfold-gold](rajatād+dhaimakaṃ+śatam)
 
 ## mukta-m0-p26-v630
-[cakravarti-upacāreṇa](cakravartyupacāreṇa) with-royal-service [sugandha-āmalaka-ādinā](sugandhāmalakādinā) with-fragrant-amalaka-etc
+[imperial-service](cakravarty+upacāreṇa) [fragrant-amalaka-etc](sugandha+āmalaka+ādinā)
 
 ## mukta-m0-p26-v631
-[naiṣṭhikasya](naiṣṭhikasyāpi) of-ascetic also [kāṣāyam](kāṣāyamuttamaṃ) ochre-robe best [śvetam](śvetameva) white indeed [vā](vā) or
+[of-renunciant](naiṣṭhikasya+api) [ochre](kāṣāyaṃ) [best](uttamaṃ) [white-only](śvetaṃ+eva+vā)
 
 ## mukta-m0-p26-v632
-[dvādaśa-aṅgula-vistāram](dvādaśāṃgulavistāraṃ) twelve-finger-breadth [daśa-aṅgulam](daśāṃgulamathāpi) ten-finger then also [vā](vā) or
+[twelve-finger-breadth](dvādaśāṃgula+vistāraṃ) [ten-finger-or](daśāṃgulam+atha+api+vā)
 
 ## mukta-m0-p26-v633
-[ācamya](ācamya) sipping [vidhivat](vidhivacchuddhaḥ) according-to-rite purified [tatva-traya](tatvatraya) three-principles [samanvitaḥ](samanvitaḥ) endowed-with
+[having-sipped](ācamya) [according-to-rite-pure](vidhivat+śuddhaḥ) [triad-endowed](tatva+traya+samanvitaḥ)
 
 ## mukta-m0-p26-v634
-[naraiḥ](narairetādṛśaiścaiva) by-men such and indeed [khara](kharoṣṭragrāmasūkaraiḥ) donkey [uṣṭra](uṣṭra) camel [grāma](grāma) village [sūkaraiḥ](sūkaraiḥ) pigs
+[by-men-such](naraiḥ+etādṛśaiḥ+ca+eva) [donkey-camel-village-pig](khara+uṣṭra+grāma+sūkaraiḥ)
 
 ## mukta-m0-p26-v635
-[guru-dravya-apahartā](gurudravyāpahartā) teacher-property-stealer [ca](ca) and [tat-tat-dravya-vināśibhiḥ](tattaddravyavināśibhiḥ) those-property-destroyers
+[guru-property-thief](guru+dravya+apahartā) [ca](ca) [that-property-destroying](tattat+dravya+vināśibhiḥ)
 
 ## mukta-m0-p26-v636
-[adīkṣitāḥ](adīkṣitāśca) uninitiated and [sarve](sarve'pi) all also [taiḥ](taissaṃspṛṣṭairviśeṣataḥ) by-them touched especially
+[uninitiated-all](adīkṣitāḥ+ca+sarve+api) [by-them-touched-especially](taiḥ+saṃspṛṣṭaiḥ+viśeṣataḥ)
 
 ## mukta-m0-p26-v637
-[mantra-vic](mantravicchuklasaṃparko) mantra-knower white contact [nābheḥ](nābherūrdhvaṃ) of-navel above [karau](karau) hands [vinā](vinā) except
+[mantra-pure-contact](mantra+vic+śukla+saṃparkaḥ) [above-navel-hands-except](nābheḥ+ūrdhvaṃ+karau+vinā)
 
 ## mukta-m0-p26-v638
-[vijayam](vijayaṃ) victory [śrī-karam](śrīkaraṃ) prosperity-giving [puṇyam](puṇyaṃ) meritorious [sarva-pāpa-vināśanam](sarvapāpavināśanam) all-sin-destroying
+[victory](vijayaṃ) [auspicious](śrīkaraṃ) [meritorious](puṇyaṃ) [all-sin-destroying](sarva+pāpa+vināśanam)
 
 ## mukta-m0-p26-v639
-[devānām](devānāṃ) of-gods [ca](ca) and [viśeṣeṇa](viśeṣeṇa) especially [daityānām](daityānāṃ) of-demons [ca](ca) and [viśeṣataḥ](viśeṣataḥ) especially
+[of-gods-especially](devānāṃ+ca+viśeṣeṇa) [of-demons-especially](daityānāṃ+ca+viśeṣataḥ)
 
 ## mukta-m0-p26-v640
-[bhasma-saṃsparśana-arthāya](bhasmasaṃsparśanārthāya) for-ash-contact [jala-snānam](jalasnānaṃ) water-bath [puroditam](puroditam) previously-stated
+[for-ash-touching](bhasma+saṃsparśana+arthāya) [water-bath-aforementioned](jala+snānaṃ+puroditam)
 
 ## mukta-m0-p26-v641
-[bhasma-snāna](bhasmasnāna) ash-bath [vihīnam](vihīnaṃ) lacking [cet](cejjantuhantṛtvamāvahet) if creature-killing would-bring
+[ash-bath-without](bhasma+snāna+vihīnaṃ) [if](ce) [creature-killing-brings](jantu+hantṛtvaṃ+āvahet)
 
 ## mukta-m0-p26-v642
-[tasmāt](tasmātsarva) therefore all [prayatnena](prayatnena) with-effort [bhasmanā](bhasmanā) with-ash [snānam](snānamiṣyate) bath is-prescribed
+[therefore-all-effort](tasmāt+sarva+prayatnena) [ash-bath-desired](bhasmanā+snānam+iṣyate)
 
 ## mukta-m0-p26-v643
-[bhautikasya](bhautikasya) of-elemental [viśeṣeṇa](viśeṣeṇa) especially [tripuṇḍram](tripuṇṭraṃ) three-lines [vidhinā](vidhinārdrataḥ) by-rite with-moisture
+[elemental-especially](bhautikasya+viśeṣeṇa) [tripuṇḍra-rite-wet](tripuṇḍraṃ+vidhinā+ārdrataḥ)
 
 ## mukta-m0-p26-v644
-[anukalpam](anukalpaṃ) secondary [dvitīyam](dvitīyaṃ) second [ca](ca) and [tṛtīyam](tṛtiyamupakalpakam) third auxiliary
+[alternative-second](anukalpaṃ+dvitīyaṃ) [ca](ca) [third-substitute](tṛtīyam+upakalpakam)
 
 ## mukta-m0-p26-v645
-[varjyāḥ](varjyā) to-be-avoided [vṛddhāḥ](vṛddhā) old [vyādhitāḥ](vyādhitāśca) diseased and [durlakṣaṇa-yutāḥ](durlakṣaṇayutāstathā) ill-marked also
+[avoidable-aged-sick](varjyā+vṛddhā+vyādhitāḥ+ca) [ill-marked-etc](durlakṣaṇa+yutāḥ+tathā)
 
 ## mukta-m0-p26-v646
-[sulakṣaṇām](sulakṣaṇāṃ) well-marked [ca](ca) and [kapilām](kapilāṃ) brown [raktām](raktāṃ) red [śuklām](śuklāṃ) white [sita-uttarām](sitottarām) white-excellent
+[good-marked](sulakṣaṇāṃ) [ca](ca) [tawny](kapilāṃ) [red](raktāṃ) [white](śuklāṃ) [very-white](sitottarām)
 
 ## mukta-m0-p26-v647
-[pālāśa-patrake](pālāśapatrake) palasha-leaf [vā](vāpi) or also [hastābhyām](hastābhyāṃ) with-hands [vyomni](vyomni) in-sky [dhārayet](dhārayet) should-hold
+[palasha-leaf-or](pālāśa+patrake+vā+api) [hands-in-sky-hold](hastābhyāṃ+vyomni+dhārayet)
 
 ## mukta-m0-p26-v648
-[upari](uparyadhastathā) above below thus [kuryāt](kuryād) should-do [visṛjet](visṛjenmadhyamaṃ) should-release middle [punaḥ](punaḥ) again
+[above-below-thus](upari+adhaḥ+tathā) [should-do](kuryāt) [release-middle-again](visṛjet+madhyamaṃ+punaḥ)
 
 ## mukta-m0-p26-v649
-[aghoreṇa](aghoreṇa) by-aghora [ca](ca) and [saṃśoṣya](saṃśoṣya) drying [śuddha-deśe](śuddhadeśe) in-pure-place [dahet](dahetpunaḥ) should-burn again
+[by-aghora-drying](aghoreṇa+ca+saṃśoṣya) [pure-place-burn-again](śuddha+deśe+dahet+punaḥ)
 
 ## mukta-m0-p26-v650
-[karpūra](karpūrośīra) camphor [uśīra](uśīra) ushira [hrībera](hrīberaketakaiścampakaistathā) hrivara ketaka champaka also
+[camphor-usira-hribera-ketaka-campaka-etc](karpūra+uśīra+hrībera+ketakaiḥ+campakaiḥ+tathā)

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 120,
- "question": "What is visualized before the goddess with hosts?",
+ "question": "Which goddess and color is being contemplated here?",
  "premises": [
-  "visualization comes first",
-  "yantra is placed before",
-  "goddess with hosts is there"
+  "The token list names Yakini.",
+  "A color term closes the unit."
  ],
- "inference": "the rite visualizes a yantra before the goddess with hosts",
- "uncertainties": [],
- "plain_english": "Having visualized, one places the yantra before, and there the goddess with hosts."
+ "inference": "The unit prescribes contemplating multicolored Yakini with the listed attributes.",
+ "uncertainties": [
+  "Some token boundaries are fused in the source."
+ ],
+ "plain_english": "Contemplate multicolored Yakini with the listed attributes."
 }

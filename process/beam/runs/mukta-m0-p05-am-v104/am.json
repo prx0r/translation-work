@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 104,
- "question": "What kind of grass counts as darbha in this rite?",
+ "question": "Which deity form and color is being meditated upon here?",
  "premises": [
-  "this alone becomes darbha",
-  "forest-born grass is not darbha"
+  "The token list gives iconographic attributes.",
+  "A color term closes the unit."
  ],
- "inference": "ritual darbha is defined by rite, not forest origin",
- "uncertainties": [],
- "plain_english": "This alone becomes darbha; forest-born grass is not darbha."
+ "inference": "The unit prescribes a red-colored form with the listed attributes.",
+ "uncertainties": [
+  "Exact deity name is not explicit in these tokens."
+ ],
+ "plain_english": "Take refuge in the red-colored form bearing the listed attributes."
 }

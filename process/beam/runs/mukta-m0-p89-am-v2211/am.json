@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2211,
- "question": "What harmful consequences arise from a crooked fire-pit or a broken girdle?",
+ "question": "Who recites the hymns to the deity in sequence?",
  "premises": [
-  "A crooked fire-pit is a defect.",
-  "A broken girdle is a defect.",
-  "Such defects produce distress and death."
+  "Guru is named.",
+  "Deity is named.",
+  "Those hymns are named.",
+  "Sequence is specified."
  ],
- "inference": "A crooked fire-pit brings distress and a broken girdle brings death.",
+ "inference": "The guru recites those hymns to the deity in sequence.",
  "uncertainties": [
-  "The exact distribution of consequences between the two defects is compressed in the verse."
+  "Which hymns are included is not specified."
  ],
- "plain_english": "In a crooked fire-pit there is distress, and in one with a broken girdle there is death."
+ "plain_english": "The guru recites those hymns to the deity in sequence."
 }

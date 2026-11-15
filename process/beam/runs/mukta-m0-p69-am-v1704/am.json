@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1704,
- "question": "What happens after the mantra is revealed to the demon king?",
+ "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
  "premises": [
-  "The mantra is revealed.",
-  "The demon king approves it."
+  "front axle middle load pole"
  ],
- "inference": "Revealing the mantra gains the demon king's approval.",
+ "inference": "The pole is the middle load from the front axle.",
  "uncertainties": [
-  "Exact mantra content is not given."
+  "compound segmentation uncertain"
  ],
- "plain_english": "Then, having revealed this mantra to the demon king, it was approved."
+ "plain_english": "The pole is intended as the middle load from the front axle."
 }

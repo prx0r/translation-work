@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[gaṇa+pa](gaṇapaṃ) [ratna+saṃkāśa](ratnasaṃkāśaṃ) [gaja+vaktra+samanvita](gajavaktrasamanvitam)
+[lord-of-hosts](gaṇapaṃ) [gem-like](ratnasaṃkāśaṃ) [elephant-faced-endowed](gajavaktrasamanvitam)
 
 ## mukta-m0-p67-v1652
-[dvitīya+āvaraṇa](dvitīyāvaraṇaṃ) [prokta](proktaṃ) [tṛtīya](tṛtīyaṃ) [ca+aṅga+saṃyuta](cāṃgasaṃyutam)
+[second-enclosure](dvitīyāvaraṇaṃ) [declared](proktaṃ) [third](tṛtīyaṃ) [and-limb-endowed](cāṃgasaṃyutam)
 
 ## mukta-m0-p67-v1653
-[sva+sva+nāman](svasvanāmnā) [ca](ca) [gandha+ādi](gandhādyaiḥ) [pūjayet](pūjayet) [nandikeśvara](nandikeśvara)
+[by-own-name](svasvanāmnā) [and](ca) [with-gandha-etc](gandhādyaiḥ) [should-worship](pūjayet) [nandikesvara](nandikeśvara)
 
 ## mukta-m0-p67-v1654
-[catur+sahasra](catussahasra) [saṃyukta](saṃyuktaṃ) [japa+saṃkhyā](japasaṃkhyā) [krama+udita](kramoditā)
+[four-thousand](catussahasra) [endowed](saṃyuktaṃ) [japa-count](japasaṃkhyā) [order-declared](kramoditā)
 
 ## mukta-m0-p67-v1655
-[japa+ante](japānte) [juhuyāt](juhuyāt) [aṣṭa+dravyaiḥ](aṣṭadravyaiḥ) [tat](tattu) [daśa+aṃśataḥ](daśāṃśataḥ)
+[after-japa](japānte) [should-offer](juhuyāt) [with-eight-substances](aṣṭadravyaiḥ) [that-indeed](tattu) [tenth-part](daśāṃśataḥ)
 
 ## mukta-m0-p67-v1656
-[saktavaḥ](saktavo) [nālikera](nālikeraśca) [ca](ca) [kadalī](kadalī) [phala+aṣṭaka](phalamaṣṭakam)
+[roasted-grain](saktavaḥ) [coconut](nālikeraḥ) [and](ca) [banana](kadalī) [eight-fruits](phalamaṣṭakam)
 
 ## mukta-m0-p67-v1657
-[guruṇā](guruṇā) [ca](ca) [abhiṣikta](abhiṣiktaśca) [ca](ca) [kalaśaiḥ](kalaśaiśca) [ca](ca) [catur+vidhaiḥ](caturvidhaiḥ)
+[by-guru-consecrated](guruṇācābhiṣiktaḥ) [and](ca) [with-pots](kalaśaiḥ) [and](ca) [four-kinds](caturvidhaiḥ)
 
 ## mukta-m0-p67-v1658
-[kṣīra+pādapa](kṣīrapādapabilvaṃ) [bilva](bilvaṃ) [ca](ca) [vaṭa](vaṭaṃ) [pippala](pippalameva) [eva](eva) [ca](ca)
+[milk-tree-bilva](kṣīrapādapabilvaṃ) [and](ca) [banyan](vaṭaṃ) [peepal-indeed](pippalameva) [and](ca)
 
 ## mukta-m0-p67-v1659
-[pūjayet](pūjayet) [kalaśān](kalaśānsamyak) [samyak](samyak) [gaṇeśān](gaṇeśān) [ṣaṭ](ṣaṭ) [samarcayet](samarcayet)
+[should-worship-pots-properly](pūjayetkalaśānsamyak) [six-ganesas](gaṇeśānṣaṭ) [should-honor](samarcayet)
 
 ## mukta-m0-p67-v1660
-[abhiṣiṃcet](abhiṣiṃcedguruḥ) [guruḥ](guruḥ) [śiṣyaṃ](śiṣyaṃ) [anugraha+purassaram](anugrahapurassaram)
+[should-consecrate](abhiṣiṃcet) [guru](guruḥ) [disciple](śiṣyaṃ) [grace-foremost](anugrahapurassaram)
 
 ## mukta-m0-p67-v1661
-[hema+aṅgulīyakaiḥ](hemāṃgulīyakaiścaiva) [ca](ca) [eva](eva) [citra+vastraiḥ](citravastraiśca) [ca](ca) [vrīhibhiḥ](vrīhibhiḥ)
+[with-gold-rings-and-indeed](hemāṃgulīyakaiścaiva) [with-colored-cloths](citravastraiḥ) [and](ca) [with-rice](vrīhibhiḥ)
 
 ## mukta-m0-p67-v1662
-[vibhavasya](vibhavasyānusāreṇa) [anusāreṇa](anusāreṇa) [deśikāya](deśikāya) [nivedayet](nivedayet)
+[according-to-wealth](vibhavasyānusāreṇa) [to-teacher](deśikāya) [should-offer](nivedayet)
 
 ## mukta-m0-p67-v1663
-[aṣṭa+dravyaiḥ](aṣṭadravyaiśca) [ca](ca) [hutvā](hutvā) [tu](tu) [tat+tat+dravya+samāptaye](tattaddravyasamāptaye)
+[with-eight-substances](aṣṭadravyaiḥ) [and](ca) [having-offered](hutvā) [indeed](tu) [for-completion-of-each-substance](tattaddravyasamāptaye)
 
 ## mukta-m0-p67-v1664
-[go+kṣīreṇa](gokṣīreṇa) [jñāna+sidhyai](jñānasidhyai) [lakṣmyai](lakṣmyai) [go+sarpiṣā](gosarpiṣā) [tathā](tathā)
+[with-cow-milk](gokṣīreṇa) [for-knowledge-accomplishment](jñānasidhyai) [for-lakshmi](lakṣmyai) [with-cow-ghee](gosarpiṣā) [thus](tathā)
 
 ## mukta-m0-p67-v1665
-[annena](annenānnasamṛddhiḥ) [anna+samṛddhiḥ](annasamṛddhiḥ) [syāt](syāt) [tilaiḥ](tilairgranthasamṛddhaye) [grantha+samṛddhaye](granthasamṛddhaye)
+[by-food](annena) [food-prosperity](annasamṛddhiḥ) [may-be](syāt) [by-sesame](tilaiḥ) [for-text-prosperity](granthasamṛddhaye)
 
 ## mukta-m0-p67-v1666
-[abhīṣṭa+kṣetra+mṛtsnāṃ](abhīṣṭakṣetramṛtsnāṃ) [ca](ca) [saṃgṛhya](saṃgṛhya) [kṣīra+miśritam](kṣīramiśritam)
+[desired-field-soil](abhīṣṭakṣetramṛtsnāṃ) [and](ca) [having-collected](saṃgṛhya) [milk-mixed](kṣīramiśritam)
 
 ## mukta-m0-p67-v1667
-[pratipakṣa+kṣatriyasya](pratipakṣakṣatriyasya) [nagara+utsava+mṛtsnubhiḥ](nagarotsavamṛtsnubhiḥ)
+[of-opposing-kshatriya](pratipakṣakṣatriyasya) [with-city-festival-soils](nagarotsavamṛtsnubhiḥ)
 
 ## mukta-m0-p67-v1668
-[rājya+āptiḥ](rājyāptirnacirādeva) [na+cirāt+eva](nacirādeva) [sidhyati](sidhyatyeva) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[kingdom-attainment](rājyāptiḥ) [soon-indeed](nacirādeva) [accomplishes-indeed](sidhyatyeva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p67-v1669
-[juhuyāt](juhuyātpatikāmī) [pati+kāmī](patikāmī) [ca](ca) [chinna+udbhava+samid+varaiḥ](chinnodbhavasamidvaraiḥ)
+[should-offer](juhuyāt) [desiring-husband](patikāmī) [and](ca) [with-cut-born-twigs](chinnodbhavasamidvaraiḥ)
 
 ## mukta-m0-p67-v1670
-[rājyānāṃ](rājyānāṃ) [vṛddhaye](vṛddhaye) [padmaiḥ](padmaiḥ) [ta](ta) [k](k) [phalaiḥ](phalairapi) [api](api)
+[for-growth-of-kingdoms](rājyānāṃ+vṛddhaye) [with-lotuses](padmaiḥ) [ta](ta) [k](k) [with-fruits-also](phalairapi)
 
 ## mukta-m0-p67-v1671
-[samid+varaiḥ](samidvaraiśca) [ca](ca) [juhuyāt](juhuyāl) [lavaṇaiḥ](lavaṇairaśvāyavaitasaḥ) [aśva+āyava+aitasaḥ](aśvāyavaitasaḥ)
+[with-twigs](samidvaraiḥ) [and](ca) [should-offer](juhuyāt) [with-salts](lavaṇaiḥ) [horse-weapon](aśvāyavaitasaḥ)
 
 ## mukta-m0-p67-v1672
-[madhura+traya+saṃyuktaiḥ](madhuratrayasaṃyuktaiḥ) [juhuyāt](juhuyānnandikeśvara) [nandikeśvara](nandikeśvara)
+[with-three-sweets](madhuratrayasaṃyuktaiḥ) [should-offer](juhuyāt) [nandikesvara](nandikeśvara)
 
 ## mukta-m0-p67-v1673
-[dūrvā+kāṇḍasya](dūrvākāṇḍasya) [homena](homena) [dīrgha+āyuḥ](dīrghāyuśca) [ca](ca) [bhavet](bhavetsadā) [sadā](sadā)
+[by-durva-stalk-offering](dūrvākāṇḍasya+homana) [long-life](dīrghāyuḥ) [and](ca) [may-become](bhavet) [always](sadā)
 
 ## mukta-m0-p67-v1674
-[chinna+udbhavaiḥ](chinnodbhavaissamidbhiśca) [samidbhiḥ](samidbhiśca) [ca](ca) [pañca+mṛta+samanvitaiḥ](pañcamṛtasamanvitaiḥ)
+[with-cut-born-twigs](chinnodbhavaissamidbhiḥ) [and](ca) [with-five-nectars](pañcamṛtasamanvitaiḥ)
 
 ## mukta-m0-p67-v1675
-[caturthitaṃ](caturthitaṃ) [japet](japennityaṃ) [nityaṃ](nityaṃ) [gurau](gurau) [bhakti+samanvitaḥ](bhaktisamanvitaḥ)
+[fourth](caturthitaṃ) [should-japa](japet) [always](nityaṃ) [in-guru](gurau) [with-devotion-endowed](bhaktisamanvitaḥ)

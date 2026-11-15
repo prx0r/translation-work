@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 121,
- "question": "How should the best sādhaka satisfy the deity?",
+ "question": "Which ornament and garment are being described here?",
  "premises": [
-  "satisfaction is performed",
-  "deity mouth is the locus",
-  "rite governs the act"
+  "The token list gives tawny ornament.",
+  "The token list gives deer skin upper garment."
  ],
- "inference": "the best sādhaka satisfies the deity at its mouth according to rite",
- "uncertainties": [],
- "plain_english": "The best sādhaka should satisfy the deity at its mouth according to rite."
+ "inference": "The unit describes a form equipped with tawny ornament and deer-skin upper garment.",
+ "uncertainties": [
+  "Color and deity name are not explicit in these tokens."
+ ],
+ "plain_english": "The form is equipped with tawny ornament and deer-skin upper garment."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[garment+ornament](vastramābharaṇaṃ) [flower](puṣpaṃ) [incense-lamp](dhūpadīpau) [wise-one-should-give](dadedbudhaḥ)
+[cloth](vastram) [ornament](ābharaṇaṃ) [flower](puṣpaṃ) [incense](dhūpa)+[lamp](dīpau) [should-give](daded) [wise-one](budhaḥ)
 
 ## mukta-m0-p50-v1227
-[with-head](śirasā) [flower](puṣpam) [having-worshipped](abhyarcya) [bell](ghaṇṭām) [with-mantra](mantreṇa) [should-strike](tāḍayet)
+[head](śirasā) [flower](puṣpam) [having-worshipped](abhyarcya) [bell](ghaṇṭā)+[mantra](mantreṇa) [should-strike](tāḍayet)
 
 ## mukta-m0-p50-v1228
-[īśāna](īśānaṃ) [in-pericarp-middle](karṇikāmadhye) [in-east](pūrve) [tatpuruṣa](tatpuruṣaṃ) [should-worship](yajet)
+[ishana](īśānaṃ) [pericarp](karṇikā)+[middle](madhye) [east](pūrve) [tatpurusha](tatpuruṣaṃ) [should-worship](yajet)
 
 ## mukta-m0-p50-v1229
-[sadya](sadyaṃ) [in-west-region](paścimadeśe) [then](tu) [five-brahma](brahmapañcakam) [should-worship](pūjayet)
+[sadya](sadyaṃ) [west](paścima)+[region](deśe) [indeed](tu) [should-worship](pūjayed) [brahma](brahma)+[fivefold](pañcakam)
 
 ## mukta-m0-p50-v1230
-[ash](bhasma) [mirror](darpaṇaṃ) [umbrella](chatraṃ) [and](ca) [chowrie](cāmaraṃ) [fan](tālavṛntakam)
+[ash](bhasma) [mirror](darpaṇaṃ) [umbrella](chatraṃ) [and](ca) [fly-whisk](cāmaraṃ) [fan](tālavṛntakam)
 
 ## mukta-m0-p50-v1231
-[with-lakṣmī-flowers](lakṣmīpuṣpair) [especially](viśeṣeṇa) [on-crown](maulau) [should-place-then](vāropayettadā)
+[lakshmi](lakṣmī)+[flowers](puṣpair) [especially](viśeṣeṇa) [crown](maulau) [should-place](vāropayet) [then](tadā)
 
 ## mukta-m0-p50-v1232
-[ārati](nīrājanaṃ) [should-perform](prakurvīta) [with-new-vessel](navapātram) [or](athāpi) [also](vā)
+[arati](nīrājanaṃ) [should-perform](prakurvīta) [new](nava)+[vessel](pātram) [then](atha) [also](api) [or](vā)
 
 ## mukta-m0-p50-v1233
-[with-one-paste](ekapiṣṭena) [heated](saṃtaptān) [lamps](dīpān) [having-kindled](prajvālya) [everywhere](sarvaśaḥ)
+[one](eka)+[paste](piṣṭena) [heated](saṃtaptān) [lamps](dīpān) [having-kindled](prajvālya) [everywhere](sarvaśaḥ)
 
 ## mukta-m0-p50-v1234
-[by-astra](astreṇa) [sprinkling](prokṣaṇaṃ) [is-declared](proktam) [anointing](abhyukṣaṇam) [then](atho) [by-heart](hṛdā)
+[weapon](astreṇa) [sprinkling](prokṣaṇaṃ) [declared](proktam) [anointing](abhyukṣaṇam) [then](atho) [heart](hṛdā)
 
 ## mukta-m0-p50-v1235
-[by-navel-fire](nābhisthenāgninā) [and](ca) [eva](eva) [with-pūraka-fire](pūrakeṇāgninā) [with](saha)
+[navel](nābhi)+[situated](sthena) [fire](agninā) [and](ca) [indeed](eva) [puraka](pūrakeṇa) [fire](agninā) [with](saha)
 
 ## mukta-m0-p50-v1236
-[fire-image](vahnibimbe) [outside](bahiḥ) [having-thrown](kṣipya) [should-throw](kṣiped) [into-ārātrika](ārātrike) [or](athavā)
+[fire](vahni)+[image](bimbe) [outside](bahiḥ) [having-thrown](kṣipya) [should-throw](kṣipet) [aratrika](ārātrike) [then](atha) [or](vā)
 
 ## mukta-m0-p50-v1237
-[per-lamp](pratidīpaṃ) [thus](tathā) [having-given](datvā) [lamp-mudrā](dīpamudrāṃ) [should-show](pradarśayet)
+[each-lamp](pratidīpaṃ) [thus](tathā) [having-given](datvā) [lamp](dīpa)+[mudra](mudrāṃ) [should-show](pradarśayet)
 
 ## mukta-m0-p50-v1238
-[left-thumb](vāmāṃguṣṭhaṃ) [for-blocking](nirodhāya) [showing](darśayan) [with-nine-lamps](navadīpakaiḥ)
+[left](vāma)+[thumb](aṃguṣṭhaṃ) [for-restraint](nirodhāya) [showing](darśayan) [nine](nava)+[lamps](dīpakaiḥ)
 
 ## mukta-m0-p50-v1239
-[by-high-low-order](uccanīcakrameṇaiva) [of-god](devam) [head-near](astakasannidhau)
+[high](ucca)+[low](nīca)+[order](krameṇa) [indeed](eva) [god](deva)+[head](mastaka)+[near](sannidhau)
 
 ## mukta-m0-p50-v1240
-[fragrant-white-flowers](sugandhisitasūnāni) [should-sprinkle](prokṣayet) [with-astra-water](astravāriṇā)
+[fragrant](sugandhi)+[white](sita)+[flowers](sūnāni) [should-sprinkle](prokṣayet) [weapon](astra)+[water](vāriṇā)
 
 ## mukta-m0-p50-v1241
-[having-placed](nikṣipya) [in-lamp](dīpe) [there](tatrāsmai) [remaining-ash](śeṣabhasma) [and](ca) [collection](saṃgrahe)
+[having-placed](nikṣipya) [lamp](dīpe) [there](tatra) [to-him](asmai) [remainder](śeṣa)+[ash](bhasma) [and](ca) [collection](saṃgrahe)
 
 ## mukta-m0-p50-v1242
-[in-heart](hṛdaye) [in-arm-regions](bāhudeśeṣu) [and](ca) [in-īśāna-corner](aiśāne) [koṇake](koṇake) [becomes](bhavet)
+[heart](hṛdaye) [arm](bāhu)+[regions](deśeṣu) [and](ca) [ishana](aiśāne) [corner](koṇake) [should-be](bhavet)
 
 ## mukta-m0-p50-v1243
-[ārati-etc](nīrājanādi) [all-that](tatsarvaṃ) [as-before](pūrvavat) [should-do](kārayet) [in-order](kramāt)
+[arati](nīrājana)+[etc](ādi) [all-that](tatsarvaṃ) [as-before](pūrvavat) [should-cause](kārayet) [in-order](kramāt)
 
 ## mukta-m0-p50-v1244
-[vessels](pātrāṇi) [those](tāni) [all](sarvāṇi) [outside-pedestal](bahiḥpīṭhe) [should-place](vinikṣipet)
+[vessels](pātrāṇi) [those](tāni) [all](sarvāṇi) [outside](bahiḥ)+[seat](pīṭhe) [should-place](vinikṣipet)
 
 ## mukta-m0-p50-v1245
-[of-agnīśa](agnīśāyā) [indeed](tu) [of-winds](vāyūnāṃ) [in-directions](dikṣu) [four](catvāri) [in-order](anukramāt)
+[agni](agni)+[ishana](īśāyā) [indeed](tu) [vayu](vāyūnāṃ) [directions](dikṣu) [four](catvāri) [in-sequence](anukramāt)
 
 ## mukta-m0-p50-v1246
-[crest](śikhā) [japā](japābhā) [nandīśa](nandīśa) [armor](tanutrāṇaṃ) [and](ca) [like-bhṛṃga](bhṛṃgavat)
+[crest](śikhā) [japa](japa)+[radiance](bhā) [nandisha](nandīśa) [armor](tanutrāṇaṃ) [and](ca) [like-bhringi](bhṛṃgavat)
 
 ## mukta-m0-p50-v1247
-[lotus-seat-joined](aṃbhojāsanasaṃyuktāj) [matted-crown-bearing](jaṭāmakuṭadhāriṇaḥ)
+[lotus](aṃbhoja)+[seat](āsana)+[endowed](saṃyuktāt) [matted-hair](jaṭā)+[crown](makuṭa)+[wearing](dhāriṇaḥ)
 
 ## mukta-m0-p50-v1248
-[spear-trident-fear-boon](śaktiśūlābhayavarān) [of-śiva](śivasya) [facing](abhimukhasthitān)
+[shakti](śakti)+[trident](śūla)+[fearlessness](abhaya)+[boon](varān) [of-shiva](śivasya) [facing-standing](abhimukhasthitān)
 
 ## mukta-m0-p50-v1249
-[then-time-fang-very-fierce](tatkāladaṃṣṭramatyugramastraṃ) [and](ca) [like-thunderbolt](aśani) [sannibham](sannibham)
+[that-time](tatkāla)+[tusk](daṃṣṭram) [very-fierce](atyugram) [weapon](astraṃ) [and](ca) [thunderbolt](āśani) [resembling](sannibham)
 
 ## mukta-m0-p50-v1250
-[by-own-mantra](svasvamantreṇa) [having-worshipped](saṃpūjya) [pādya-etc](pādyādīn) [by-heart-anu](hṛdayāṇunā)
+[own](svasva)+[mantra](mantreṇa) [having-worshipped](saṃpūjya) [foot-wash](pādya)+[etc](ādīn) [heart](hṛdaya)+[atom](aṇunā)

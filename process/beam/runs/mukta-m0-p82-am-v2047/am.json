@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2047,
- "question": "How deep should the fire-pit be dug?",
+ "question": "How many items are named in the five-cover field?",
  "premises": [
-  "The width is given",
-  "Digging equals that amount",
-  "This is declared"
+  "The verse says so many.",
+  "It names five-cover.",
+  "It locates them in that field."
  ],
- "inference": "Digging depth equals the fire-pit's width",
+ "inference": "So many items are named in the five-cover field.",
  "uncertainties": [
-  "Width value unspecified"
+  "The exact number is not stated."
  ],
- "plain_english": "The digging should be as much as the fire-pit's width."
+ "plain_english": "So many items are named in the five-cover field."
 }

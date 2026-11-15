@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2201,
- "question": "How are the smallest units of ritual measurement defined in relation to each other?",
+ "question": "What quantities of substances, mantras, and deities are prescribed for the rite?",
  "premises": [
-  "Eight hair-tips make one louse-egg.",
-  "Eight louse-eggs make one louse.",
-  "This equivalence is traditionally remembered."
+  "Fifty-two substances are prescribed.",
+  "Mantras accompany the substances.",
+  "Deities accompany the substances."
  ],
- "inference": "The measurement system begins with a fixed progression from hair-tip to louse-egg to louse.",
- "uncertainties": [],
- "plain_english": "Eight hair-tips are called a louse-egg, and eight louse-eggs are remembered as a louse."
+ "inference": "The rite uses fifty-two substances with mantras and deities.",
+ "uncertainties": [
+  "Exact substance list is not given in this verse."
+ ],
+ "plain_english": "Fifty-two substances, with mantras and deities."
 }

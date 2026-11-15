@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 111,
- "question": "How should the chanted root water be applied to the head?",
+ "question": "Which implements are to be made here?",
  "premises": [
-  "root is chanted tenfold",
-  "that water is poured",
-  "pouring is on the head"
+  "The token list names arrow and bow.",
+  "The token list names conch and lotus."
  ],
- "inference": "tenfold root chanting consecrates water for head pouring",
- "uncertainties": [],
- "plain_english": "Having chanted the root tenfold, one should pour that water on the head."
+ "inference": "The unit prescribes making arrow, bow, conch, and lotus implements.",
+ "uncertainties": [
+  "The exact deity context is not explicit in these tokens."
+ ],
+ "plain_english": "Make arrow, bow, conch, and lotus likewise."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 119,
- "question": "To whom is arghya offered and what is said?",
+ "question": "Which goddess and color is being contemplated here?",
  "premises": [
-  "arghya is offered",
-  "recipient possesses manifest power",
-  "svāhā is then said"
+  "The token list names Hakini.",
+  "A color term closes the unit."
  ],
- "inference": "arghya is offered to the power-possessed deity with svāhā",
- "uncertainties": [],
- "plain_english": "One offers arghya to the one possessed of manifest power, then says svāhā."
+ "inference": "The unit prescribes contemplating white-colored Hakini with the listed attributes.",
+ "uncertainties": [
+  "Some token boundaries are fused in the source."
+ ],
+ "plain_english": "Contemplate white-colored Hakini with the listed attributes."
 }

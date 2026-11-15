@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2266,
- "question": "What should a good sadhaka perform with scented waters?",
+ "question": "How many substances are used in order?",
  "premises": [
-  "Abhisheka is performed.",
-  "Scented waters are used.",
-  "A good sadhaka is the agent."
+  "twenty substances are stated",
+  "in order is stated"
  ],
- "inference": "A good sadhaka performs abhisheka with scented waters.",
+ "inference": "Twenty substances are used in order.",
  "uncertainties": [
-  "The recipient of abhisheka is not specified here."
+  "the exact substance list is supplied by context"
  ],
- "plain_english": "A good sadhaka performs abhisheka with scented waters."
+ "plain_english": "With twenty substances, in order."
 }

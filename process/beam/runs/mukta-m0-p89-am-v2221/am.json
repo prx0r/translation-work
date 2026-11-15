@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2221,
- "question": "How should the girdle, throat, and navel features be formed from the given measure?",
+ "question": "What water is used for the pot?",
  "premises": [
-  "The established measure is to be used.",
-  "It must be divided appropriately.",
-  "The girdle, throat, and navel are to be made from it."
+  "Kusha tirtha water is named.",
+  "Pot is named.",
+  "Water is used."
  ],
- "inference": "By dividing that measure, one should make the girdle, throat, and navel.",
- "uncertainties": [],
- "plain_english": "Having divided by that measure, one should make the girdle, throat, and navel."
+ "inference": "Use kusha tirtha water for the pot.",
+ "uncertainties": [
+  "Which pot is intended is not specified."
+ ],
+ "plain_english": "Use kusha tirtha water for the pot."
 }

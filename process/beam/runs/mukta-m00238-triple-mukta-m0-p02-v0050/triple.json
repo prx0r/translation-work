@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "brahmādīnāṃ",
+     "gloss": "of-brahma-and-others",
+     "grounds": "genitive plural of brahmādi (brahma and others)",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "neuter nominative singular of para (supreme)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cihnaṃdhārayaṃtyaḥprakīrtitāḥ",
+     "gloss": "mark-bearing-proclaimed",
+     "grounds": "fused sandhi form cihnaṃ-dhārayaṃtyaḥ-prakīrtitāḥ; mark-bearing ones proclaimed",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-colored",
+     "grounds": "compound raktavarṇa (red color) masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which beings are proclaimed as bearing the supreme mark of brahma and others and having red color?",
+   "premises": [
+    "Brahma and others have a supreme mark.",
+    "Those bearing that mark are proclaimed.",
+    "They are red-colored."
+   ],
+   "inference": "The red-colored mark-bearers are the proclaimed associates of brahma and others.",
+   "uncertainties": [
+    "Fused token cihnaṃdhārayaṃtyaḥprakīrtitāḥ requires sandhi parsing; exact grammatical agreement uncertain."
+   ],
+   "plain_english": "Those proclaimed as bearing the supreme mark of brahma and the rest are red-colored."
+  }
+ ]
+}

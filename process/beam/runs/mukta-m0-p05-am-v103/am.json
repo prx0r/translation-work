@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 103,
- "question": "Which grasses may Śāktas take themselves and which are excluded?",
+ "question": "Which deity form and color is being meditated upon here?",
  "premises": [
-  "Śāktas take grass themselves there",
-  "wild kuśa grasses are excluded"
+  "The token list gives iconographic attributes.",
+  "A color term closes the unit."
  ],
- "inference": "the rite distinguishes self-taken grass from wild kuśa",
- "uncertainties": [],
- "plain_english": "There, Śāktas should take grass themselves, not wild kuśa grasses."
+ "inference": "The unit prescribes a golden-colored form with the listed attributes.",
+ "uncertainties": [
+  "Exact deity name is not explicit in these tokens."
+ ],
+ "plain_english": "Contemplate the golden-colored form bearing the listed attributes."
 }
