@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p03",
  "verse": 52,
- "question": "Which five ṭha-syllable seeds are declared false?",
+ "question": "How must the form of the rims correspond to the form of the pits?",
  "premises": [
-  "Five ṭha seeds are named.",
-  "They are called false.",
-  "Other false items are added."
+  "The pits have a certain form.",
+  "The rims are associated with the pits.",
+  "The rims must match that form."
  ],
- "inference": "The verse declares five ṭha seeds false.",
- "uncertainties": [
-  "The five seeds are not listed."
- ],
- "plain_english": "Five ṭha-syllable seeds are false, along with others."
+ "inference": "The form of the rims should be of the same kind as the form of the pits.",
+ "uncertainties": [],
+ "plain_english": "Whatever form the pits have, the rims should have that same form."
 }

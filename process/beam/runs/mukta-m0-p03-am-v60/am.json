@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p03",
  "verse": 60,
- "question": "Which space power and fire seeds are joined with vāgbhava?",
+ "question": "How should the depth of digging relate to the width of the pit?",
  "premises": [
-  "Space power fire seeds are named.",
-  "They are joined.",
-  "Vāgbhava is included."
+  "The pit has a certain width.",
+  "The digging has a certain depth.",
+  "The depth is declared to match the width."
  ],
- "inference": "The verse joins space power fire seeds with vāgbhava.",
- "uncertainties": [
-  "The resulting mantra is not fully stated."
- ],
- "plain_english": "Having joined the space, power, and fire seeds, likewise vāgbhava."
+ "inference": "The depth of digging is declared to be equal to the width of the pit.",
+ "uncertainties": [],
+ "plain_english": "The depth of the excavation is declared to be as much as the width of the pit."
 }

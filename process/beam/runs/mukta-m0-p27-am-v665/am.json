@@ -1,14 +1,12 @@
 {
  "song": "mukta-m0-p27",
  "verse": 665,
- "question": "What is the secret name of this preparation?",
+ "question": "Does a thing perish in itself while doing nothing or remain unchanged?",
  "premises": [
-  "preparation is called fruit-ghee",
-  "it is declared secret"
+  "Perishing implies a change or action affecting the thing.",
+  "If it does nothing and remains thus, it continues as it is."
  ],
- "inference": "This preparation is secretly declared by the name fruit-ghee.",
- "uncertainties": [
-  "ingredients of fruit-ghee unclear"
- ],
- "plain_english": "Indeed, this is declared by name as the secret fruit-ghee."
+ "inference": "Therefore, a thing either perishes through change or remains in its own state.",
+ "uncertainties": [],
+ "plain_english": "Does it perish in itself while doing nothing, or does it indeed remain just as it is?"
 }

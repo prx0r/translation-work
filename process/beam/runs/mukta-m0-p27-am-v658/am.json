@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p27",
  "verse": 658,
- "question": "What outcome is promised for a son conceived at menstrual time for seven days?",
+ "question": "Can a pot be produced directly from another pot alone?",
  "premises": [
-  "menstrual time is specified",
-  "seven days are specified",
-  "son becomes long-lived"
+  "Production of a pot depends on factors like inherence and material causes.",
+  "A pot itself does not directly produce another pot."
  ],
- "inference": "A son conceived under these conditions becomes long-lived.",
- "uncertainties": [
-  "medical claim unverified"
- ],
- "plain_english": "Indeed, at menstrual time for seven days, the son becomes long-lived."
+ "inference": "Therefore, a pot does not arise from a pot.",
+ "uncertainties": [],
+ "plain_english": "A pot is not produced from a pot, because of dependence on inherence and other factors."
 }

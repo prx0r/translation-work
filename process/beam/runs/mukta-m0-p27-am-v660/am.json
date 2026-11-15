@@ -1,14 +1,12 @@
 {
  "song": "mukta-m0-p27",
  "verse": 660,
- "question": "Which ingredients are listed for the medicinal preparation?",
+ "question": "Can an undefective sense organ produce error merely from similarity?",
  "premises": [
-  "ajamodā and haridrā are named",
-  "asafoetida and katukarohiṇī are named"
+  "Error may arise from similarity between objects.",
+  "An undefective sense organ can still apprehend as in prior cognition."
  ],
- "inference": "The preparation includes ajamodā, haridrā, asafoetida, and katukarohiṇī.",
- "uncertainties": [
-  "quantities unspecified"
- ],
- "plain_english": "Ajamodā, haridrā, asafoetida, and katukarohiṇī are the ingredients."
+ "inference": "Therefore, error can occur from similarity even when the sense organ is undefective.",
+ "uncertainties": [],
+ "plain_english": "If the sense organ is undefective, error may still arise from similarity, as in prior cognition."
 }

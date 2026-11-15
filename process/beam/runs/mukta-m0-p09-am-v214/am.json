@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p09",
  "verse": 214,
- "question": "Which plants are named before the textual lacuna?",
+ "question": "What textual section concludes with this colophon in the Śivadṛṣṭi commentary?",
  "premises": [
-  "kaṃsaka is named",
-  "black tulasī is named",
-  "a lacuna follows"
+  "The verse is a colophon formula.",
+  "It names the author and the work.",
+  "It specifies the chapter number."
  ],
- "inference": "the list is interrupted after these plants",
- "uncertainties": [
-  "missing text prevents full reading"
- ],
- "plain_english": "Kaṃsaka and black tulasī appear before a lacuna."
+ "inference": "This marks the end of the second chapter in the commentary on the Śivadṛṣṭi.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the second chapter in the venerable commentary on the Śivadṛṣṭi composed by the revered Utpaladeva."
 }

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "prasaṅgān",
+     "gloss": "incidentally",
+     "grounds": "indicates an incidental or contextual mention",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāthavargāṇāṃ",
+     "gloss": "of-nātha-groups",
+     "grounds": "compound denoting groups or classes of nāthas",
+     "morph": "nātha-varga+gen.pl.m"
+    },
+    {
+     "surface": "pūjāmaṇḍalam",
+     "gloss": "worship-circle",
+     "grounds": "compound denoting a circle or arrangement for worship",
+     "morph": "pūjā-maṇḍala+n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating something stated",
+     "morph": "ppp.n.nom.sg(√īr)"
+    }
+   ],
+   "question": "What worship circle is declared for the groups of nāthas in passing?",
+   "premises": [
+    "The statement is introduced incidentally in the context.",
+    "The subject concerns the groups of nāthas.",
+    "A worship circle associated with them is declared."
+   ],
+   "inference": "Therefore, a worship circle for the groups of nāthas is stated as an incidental declaration.",
+   "uncertainties": [],
+   "plain_english": "Incidentally, the worship circle of the groups of nāthas has been declared."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "vyāpakāḥ",
+     "gloss": "pervading",
+     "grounds": "describes the all-pervasive nature of the subjects",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle adding a further attribute",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuity with the preceding account",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal quantifier referring to all beings or selves",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "emphatic universal qualifier reinforcing totality",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle restricting or affirming identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmasaṃvidaḥ",
+     "gloss": "self-awarenesses",
+     "grounds": "compound denoting beings whose essence is awareness of self",
+     "morph": "f.nom.pl, compound: ātma+self+saṃvid+awareness"
+    }
+   ],
+   "question": "What universal nature belongs to all beings as pervading self-awareness?",
+   "premises": [
+    "All beings are pervading in nature.",
+    "All beings are likewise characterized without exception.",
+    "All beings are identical with self-awareness."
+   ],
+   "inference": "Therefore, every being is universally pervading and essentially constituted as self-awareness.",
+   "uncertainties": [
+    "Whether sarve and sarva qualify the same subject or function distributively is contextually inferred."
+   ],
+   "plain_english": "And likewise, all are pervading; indeed, all are nothing but self-awareness."
+  }
+ ]
+}

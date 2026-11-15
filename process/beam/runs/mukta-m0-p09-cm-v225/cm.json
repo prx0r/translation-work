@@ -3,24 +3,39 @@
  "verse": 225,
  "rows": [
   {
-   "lemma": "yadi",
+   "lemma": "anena",
+   "morph": "pron.instr.sg.m",
+   "grounds": "demonstrative pronoun referring to the accompanying prayer"
+  },
+  {
+   "lemma": "agnim",
+   "morph": "m.acc.sg",
+   "grounds": "ritual fire addressed in dismissal"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conditional particle introducing a hypothetical case"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "auṣṇyāvyatirekatve",
-   "morph": "auṣṇya-avyatireka-tva, loc.sg.n.",
-   "grounds": "compound expressing the state of being inseparable from heat"
+   "lemma": "saṃprārthya",
+   "morph": "gerund sam-pra-√arth",
+   "grounds": "act of formally addressing the fire before dismissal"
   },
   {
-   "lemma": "dṛṣṭānto",
-   "morph": "dṛṣṭānta, m.nom.sg.",
-   "grounds": "illustrative instance cited in the argument"
+   "lemma": "kṣamasva",
+   "morph": "impv.2.sg.ātmanepada √kṣam",
+   "grounds": "direct plea spoken to the fire"
   },
   {
-   "lemma": "dāhakāśrayāt",
-   "morph": "dāhaka-āśraya, abl.sg.",
-   "grounds": "ablative source indicating the locus of burning used as example"
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "marks the quoted prayer formula"
+  },
+  {
+   "lemma": "visarjayet",
+   "morph": "opt.3.sg.parasmaipada vi-√sṛj",
+   "grounds": "prescribed concluding action toward the fire"
   }
  ]
 }

@@ -20,7 +20,7 @@
 },
 {
 "surface": "uktam",
-"quick_gloss": "said"
+"quick_gloss": "stated"
 },
 {
 "surface": "prāk",
@@ -110,8 +110,8 @@
 "quick_gloss": "due-to-accomplishing-all-purposes"
 },
 {
-"surface": "dvirūpā",
-"quick_gloss": "twofold"
+"surface": "dvi+rūpā",
+"quick_gloss": "of-two-forms"
 },
 {
 "surface": "śaktiḥ",
@@ -139,7 +139,7 @@
 "quick_gloss": "endowed"
 },
 {
-"surface": "maheśānaḥ",
+"surface": "mahā+īśānaḥ",
 "quick_gloss": "the-great-lord"
 },
 {
@@ -172,12 +172,16 @@
 "quick_gloss": "not"
 },
 {
-"surface": "kalā+piṇḍa+saṃbaddhaḥ",
-"quick_gloss": "bound-to-the-mass-of-kalā"
+"surface": "kalā+piṇḍa",
+"quick_gloss": "with-limited-body"
 },
 {
 "surface": "saṃbaddhaḥ",
-"quick_gloss": "bound"
+"quick_gloss": "connected"
+},
+{
+"surface": "saṃbaddhaḥ",
+"quick_gloss": "connected"
 },
 {
 "surface": "asau",
@@ -189,7 +193,7 @@
 },
 {
 "surface": "paśuḥ",
-"quick_gloss": "the-bound-soul"
+"quick_gloss": "bound-soul"
 }
 ]
 },
@@ -201,12 +205,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśuvat",
-"quick_gloss": "like-the-bound-soul"
+"surface": "paśu+vat",
+"quick_gloss": "like-bound-soul"
 },
 {
-"surface": "kalā+ādi+ātmaka+śarīra+abhāvāt",
-"quick_gloss": "due-to-absence-of-a-body-consisting-of-kalā-etc."
+"surface": "kalā+ādi+ātmaka",
+"quick_gloss": "consisting-of-kalā-etc."
+},
+{
+"surface": "śarīra+abhāvāt",
+"quick_gloss": "due-to-absence-of-body"
 },
 {
 "surface": "niṣkalaḥ",
@@ -222,7 +230,7 @@
 },
 {
 "surface": "uktam",
-"quick_gloss": "said"
+"quick_gloss": "stated"
 },
 {
 "surface": "prāk",
@@ -283,8 +291,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñāna+ādi+abhāvaḥ",
-"quick_gloss": "absence-of-knowledge-etc."
+"surface": "jñāna+ādi",
+"quick_gloss": "knowledge-etc."
+},
+{
+"surface": "abhāvaḥ",
+"quick_gloss": "absence"
 }
 ]
 },
@@ -297,7 +309,7 @@
 "tokens": [
 {
 "surface": "cit+vyakti+artham",
-"quick_gloss": "for-the-manifestation-of-consciousness"
+"quick_gloss": "for-manifestation-of-consciousness"
 },
 {
 "surface": "kalā+yogam",
@@ -308,8 +320,8 @@
 "quick_gloss": "expects"
 },
 {
-"surface": "susaṃsthite",
-"quick_gloss": "in-the-well-established"
+"surface": "su+saṃsthite",
+"quick_gloss": "in-well-established-state"
 }
 ]
 },
@@ -322,7 +334,7 @@
 "tokens": [
 {
 "surface": "vyañjaka+apekṣe",
-"quick_gloss": "requiring-a-manifestor"
+"quick_gloss": "requiring-manifestor"
 },
 {
 "surface": "iti",
@@ -359,7 +371,7 @@
 },
 {
 "surface": "paśuḥ",
-"quick_gloss": "a-bound-soul"
+"quick_gloss": "bound-soul"
 }
 ]
 },
@@ -372,10 +384,10 @@
 "tokens": [
 {
 "surface": "kalā+ādi+yogāt",
-"quick_gloss": "due-to-connection-with-kalā-etc."
+"quick_gloss": "due-to-connection-with-kalā"
 },
 {
-"surface": "devadatta+ādivat",
+"surface": "devadatta+ādi+vat",
 "quick_gloss": "like-Devadatta-etc."
 },
 {
@@ -384,7 +396,7 @@
 },
 {
 "surface": "paśuḥ",
-"quick_gloss": "a-bound-soul"
+"quick_gloss": "bound-soul"
 },
 {
 "surface": "prasajyate",
@@ -417,7 +429,7 @@
 },
 {
 "surface": "kārya+kṛt",
-"quick_gloss": "performing-action"
+"quick_gloss": "performer-of-action"
 },
 {
 "surface": "yadi",
@@ -475,7 +487,7 @@
 },
 {
 "surface": "bhoga+mokṣa+prasādhakaḥ",
-"quick_gloss": "the-accomplisher-of-enjoyment-and-liberation"
+"quick_gloss": "accomplisher-of-enjoyment-and-liberation"
 }
 ]
 },
@@ -528,8 +540,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mala+ādi+pāśa+vicchittiḥ",
-"quick_gloss": "severance-of-the-bonds-of-impurity-etc."
+"surface": "mala+ādi",
+"quick_gloss": "of-impurity-etc."
+},
+{
+"surface": "pāśa+vicchittiḥ",
+"quick_gloss": "severance-of-bonds"
 },
 {
 "surface": "sarva+jñāna+kriyā+udbhavaḥ",
@@ -546,7 +562,7 @@
 "tokens": [
 {
 "surface": "paścāt",
-"quick_gloss": "then"
+"quick_gloss": "afterwards"
 },
 {
 "surface": "ātmā",
@@ -554,11 +570,11 @@
 },
 {
 "surface": "mocyamānatvāt",
-"quick_gloss": "because-of-being-liberated"
+"quick_gloss": "due-to-being-liberated"
 },
 {
 "surface": "karma+kārakam",
-"quick_gloss": "an-instrument-of-action"
+"quick_gloss": "as-object-of-action"
 },
 {
 "surface": "iṣyate",
@@ -590,7 +606,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "bhogavat",
+"surface": "bhoga+vat",
 "quick_gloss": "like-enjoyment"
 },
 {
@@ -612,7 +628,7 @@
 "tokens": [
 {
 "surface": "sarvajñatā+ādi+rūpa+avāptitaḥ",
-"quick_gloss": "due-to-attainment-of-the-nature-of-omniscience-etc."
+"quick_gloss": "by-attainment-of-omniscience-etc.-nature"
 },
 {
 "surface": "sva+ātma+kartṛkaḥ",
@@ -645,7 +661,15 @@
 "tokens": [
 {
 "surface": "avive(ko? kā",
-"quick_gloss": "ignorance-arising-from-non-discriminative-determination"
+"quick_gloss": "from-non-discrimination"
+},
+{
+"surface": "avasāya+uttham",
+"quick_gloss": "arising-from-determination"
+},
+{
+"surface": "ajñānam",
+"quick_gloss": "ignorance"
 },
 {
 "surface": "vinivartate",
@@ -662,7 +686,7 @@
 "tokens": [
 {
 "surface": "sva+kāraṇa+nivṛttyā",
-"quick_gloss": "by-the-cessation-of-its-own-cause"
+"quick_gloss": "by-cessation-of-its-own-cause"
 },
 {
 "surface": "eva",
@@ -699,15 +723,15 @@
 },
 {
 "surface": "ātma+dharmaḥ",
-"quick_gloss": "a-property-of-the-self"
+"quick_gloss": "property-of-the-self"
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "a-positive-entity"
+"quick_gloss": "a-state"
 },
 {
 "surface": "syāt",
-"quick_gloss": "if-it-were"
+"quick_gloss": "if"
 },
 {
 "surface": "tucchatve",
@@ -736,15 +760,23 @@
 },
 {
 "surface": "na+ātma+dharmaḥ",
-"quick_gloss": "not-a-property-of-the-self"
+"quick_gloss": "not-property-of-the-self"
 },
 {
 "surface": "syāt?",
 "quick_gloss": "(would-be?)"
 },
 {
-"surface": "tat+anādi+nirodhakam",
-"quick_gloss": "obstructing-that-beginninglessly"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "an+ādi",
+"quick_gloss": "beginningless"
+},
+{
+"surface": "nirodhakam",
+"quick_gloss": "obstructing"
 }
 ]
 }
