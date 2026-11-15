@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "nāgāndhakārīkāhvaṃ",
-"quick_gloss": "snake+darkness-maker-called"
+"quick_gloss": "nāga+andhakārikā+āhvam"
 },
 {
 "surface": "ca",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "stambhāndhakārikā",
-"quick_gloss": "pillar+darkness-maker"
+"quick_gloss": "stambha+andhakārikā"
 },
 {
 "surface": "punaḥ",
@@ -33,15 +33,15 @@
 "tokens": [
 {
 "surface": "andhākhyā",
-"quick_gloss": "darkness-named"
+"quick_gloss": "andha+ākhyā"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "marīcyaṅkā",
-"quick_gloss": "ray-marked"
+"quick_gloss": "marīci+aṅkā"
 },
 {
 "surface": "mūlaśākheti",
@@ -62,7 +62,7 @@
 "tokens": [
 {
 "surface": "vedaikasārdhair",
-"quick_gloss": "veda+one+with-half"
+"quick_gloss": "veda+eka+sārdhaiḥ"
 },
 {
 "surface": "vedaistu",
@@ -71,6 +71,10 @@
 {
 "surface": "bhavāmburūpa",
 "quick_gloss": "world+water+form"
+},
+{
+"surface": "tapa",
+"quick_gloss": "kh, gh: austerity"
 },
 {
 "surface": "turyakaiḥ",
@@ -117,10 +121,6 @@
 {
 "surface": "mūlavat",
 "quick_gloss": "like-root"
-},
-{
-"surface": "]",
-"quick_gloss": "closing-bracket"
 }
 ]
 },
@@ -133,23 +133,19 @@
 "tokens": [
 {
 "surface": "jāhravī",
-"quick_gloss": "Jahnavi"
+"quick_gloss": "jāhravī"
 },
 {
 "surface": "yamune",
-"quick_gloss": "and-Yamuna"
+"quick_gloss": "and-yamunā"
 },
 {
-"surface": "ca",
+"surface": "cāpi",
 "quick_gloss": "and"
 },
 {
-"surface": "api",
-"quick_gloss": "also"
-},
-{
 "surface": "tatpārśve",
-"quick_gloss": "their-side"
+"quick_gloss": "their-sides"
 },
 {
 "surface": "bhāravāhikā",
@@ -179,19 +175,19 @@
 "tokens": [
 {
 "surface": "śobhayat",
-"quick_gloss": "adorn"
+"quick_gloss": "adorning"
 },
 {
 "surface": "yatnataḥ",
 "quick_gloss": "with-effort"
 },
 {
-"surface": "śākhāḥ",
+"surface": "śākhās",
 "quick_gloss": "branches"
 },
 {
-"surface": "tadhanayaiḥ",
-"quick_gloss": "with-those-ornaments"
+"surface": "tadhanayaiś",
+"quick_gloss": "with-those-riches"
 },
 {
 "surface": "ca",
@@ -224,7 +220,7 @@
 },
 {
 "surface": "sarvāvayavaśobhitāḥ",
-"quick_gloss": "all+limb+adorned"
+"quick_gloss": "adorned-with-all-parts"
 }
 ]
 },
@@ -249,11 +245,11 @@
 },
 {
 "surface": "vevyo",
-"quick_gloss": "goddesses"
+"quick_gloss": "vevīs"
 },
 {
 "surface": "nādyavyāpārasaṃsthitāḥ",
-"quick_gloss": "in-channel+activity+situated"
+"quick_gloss": "situated-in-channel-activity"
 }
 ]
 },
@@ -282,7 +278,7 @@
 },
 {
 "surface": "nāgadantānvitaṃ",
-"quick_gloss": "with-elephant-tusks"
+"quick_gloss": "endowed-with-nāgadantas"
 },
 {
 "surface": "dṛḍham",
@@ -299,15 +295,15 @@
 "tokens": [
 {
 "surface": "dvārocchrayārdhapādena",
-"quick_gloss": "by-door+height+half+quarter"
-},
-{
-"surface": "karapādadvayena",
-"quick_gloss": "by-hand+foot+two"
+"quick_gloss": "by-half-quarter-of-door-height"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
+},
+{
+"surface": "karapādadvayena",
+"quick_gloss": "by-two-hand-feet"
 }
 ]
 },
@@ -324,7 +320,7 @@
 },
 {
 "surface": "guṇagiritryaṃśaiḥ",
-"quick_gloss": "by-quality+mountain+third-parts"
+"quick_gloss": "by-thirds-of-quality-mountain"
 },
 {
 "surface": "dvi",
@@ -332,11 +328,11 @@
 },
 {
 "surface": "dvibhāge",
-"quick_gloss": "in-two+parts"
+"quick_gloss": "in-two-parts"
 },
 {
 "surface": "khuradvayam",
-"quick_gloss": "base+two"
+"quick_gloss": "two-bases"
 }
 ]
 },
@@ -346,7 +342,12 @@
 "verse": 2889,
 "quick_english": "",
 "quick_english_source": "t1parse",
-"tokens": []
+"tokens": [
+{
+"surface": "aṇḍajam",
+"quick_gloss": "gh: egg-born"
+}
+]
 },
 {
 "verse_id": "mukta-m0-p116-v2890",
@@ -364,8 +365,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "caturyamāṃśaiḥ",
-"quick_gloss": "by-four+measures+parts"
+"surface": "caturyamāṃśaiś",
+"quick_gloss": "by-four-measure-parts"
 },
 {
 "surface": "dehalī",
@@ -373,7 +374,7 @@
 },
 {
 "surface": "vyāghrapaṭṭikā",
-"quick_gloss": "tiger+strip"
+"quick_gloss": "tiger-strip"
 }
 ]
 },
@@ -389,8 +390,12 @@
 "quick_gloss": "all"
 },
 {
+"surface": "sa ca",
+"quick_gloss": "mū: and-that"
+},
+{
 "surface": "vedhavināśāya",
-"quick_gloss": "for-piercing+destruction"
+"quick_gloss": "for-destruction-of-piercing"
 },
 {
 "surface": "kiñcit",
@@ -419,15 +424,19 @@
 },
 {
 "surface": "tadvarjanānārthāya",
-"quick_gloss": "for-that+avoidance+purpose"
+"quick_gloss": "for-the-purpose-of-avoiding-that"
 },
 {
-"surface": "guroḥ",
-"quick_gloss": "of-teacher"
+"surface": "guror",
+"quick_gloss": "by-guru"
+},
+{
+"surface": "rājñā",
+"quick_gloss": "kh: by-king"
 },
 {
 "surface": "jñātvaṃ",
-"quick_gloss": "to-be-known"
+"quick_gloss": "that-knowledge"
 },
 {
 "surface": "taducyate",
@@ -447,6 +456,10 @@
 "quick_gloss": "by-road"
 },
 {
+"surface": "ratha",
+"quick_gloss": "mū, gh: by-chariot"
+},
+{
 "surface": "viddhe",
 "quick_gloss": "pierced"
 },
@@ -460,7 +473,7 @@
 },
 {
 "surface": "catuṣpathena",
-"quick_gloss": "by-crossroad"
+"quick_gloss": "by-crossroads"
 },
 {
 "surface": "rūkṣatā",
@@ -481,11 +494,15 @@
 },
 {
 "surface": "vittanāśaḥ",
-"quick_gloss": "wealth+destruction"
+"quick_gloss": "loss-of-wealth"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
+},
+{
+"surface": "stu",
+"quick_gloss": "gh: indeed"
 },
 {
 "surface": "stambhena",
@@ -493,7 +510,7 @@
 },
 {
 "surface": "parabhṛtyatā",
-"quick_gloss": "another's+servitude"
+"quick_gloss": "servitude-to-another"
 }
 ]
 },
@@ -510,7 +527,7 @@
 },
 {
 "surface": "rājadaṇḍaḥ",
-"quick_gloss": "king+punishment"
+"quick_gloss": "royal-punishment"
 },
 {
 "surface": "syāt",
@@ -522,7 +539,7 @@
 },
 {
 "surface": "dvāraśākhayā",
-"quick_gloss": "by-door+leaf"
+"quick_gloss": "by-door-jamb"
 }
 ]
 },
@@ -534,8 +551,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śatroḥ",
-"quick_gloss": "of-enemy"
+"surface": "śatror",
+"quick_gloss": "from-enemy"
 },
 {
 "surface": "bhayaṃ",
@@ -551,7 +568,7 @@
 },
 {
 "surface": "devabiddheba",
-"quick_gloss": "by-deity+pierced"
+"quick_gloss": "pierced-by-deity"
 },
 {
 "surface": "bandhanam",
@@ -572,7 +589,7 @@
 },
 {
 "surface": "paśunāśaḥ",
-"quick_gloss": "cattle+destruction"
+"quick_gloss": "loss-of-cattle"
 },
 {
 "surface": "syāt",
@@ -584,7 +601,7 @@
 },
 {
 "surface": "govyadhā",
-"quick_gloss": "cow+injury"
+"quick_gloss": "killing-of-cows"
 }
 ]
 },
@@ -608,16 +625,20 @@
 "quick_gloss": "friend"
 },
 {
-"surface": "dogaḥ",
-"quick_gloss": "enmity"
+"surface": "cakrena vasu",
+"quick_gloss": "gh: by-wheel wealth"
+},
+{
+"surface": "dogas",
+"quick_gloss": "milking"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "ālindaśravaṇena",
-"quick_gloss": "by-veranda+ear"
+"quick_gloss": "by-hearing-in-veranda"
 },
 {
 "surface": "bhīḥ",
@@ -634,11 +655,7 @@
 "tokens": [
 {
 "surface": "kṛtamityarthaḥ",
-"quick_gloss": "done+thus+meaning"
-},
-{
-"surface": "]",
-"quick_gloss": "closing-bracket"
+"quick_gloss": "kṛtamityarthaḥ)"
 },
 {
 "surface": "śvabhreṇa",
@@ -650,7 +667,7 @@
 },
 {
 "surface": "sutakṣayaḥ",
-"quick_gloss": "son+destruction"
+"quick_gloss": "loss-of-son"
 }
 ]
 },
@@ -666,8 +683,12 @@
 "quick_gloss": "by-kaṇḍanyā"
 },
 {
+"surface": "kuṇḍalyā",
+"quick_gloss": "by-kuṇḍalī"
+},
+{
 "surface": "dhananāśaḥ",
-"quick_gloss": "wealth+destruction"
+"quick_gloss": "loss-of-wealth"
 },
 {
 "surface": "syāt",
@@ -675,11 +696,11 @@
 },
 {
 "surface": "śilābiddhe",
-"quick_gloss": "by-stone+pierced"
+"quick_gloss": "pierced-by-stone"
 },
 {
 "surface": "rujā",
-"quick_gloss": "pain"
+"quick_gloss": "disease"
 },
 {
 "surface": "tathā",

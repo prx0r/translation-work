@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p121-v3001
-[karkoṭa+ending-with](karkoṭāntaṃ) [with-own-mantra](svamantreṇa) [one-should-worship](pūjayet) [in-water+direction+house](jaladiggṛhe)
+[up-to-karkoṭa](karkoṭāntaṃ) [with-one's-own-mantra](sva+mantreṇa) [one-should-worship](pūjayet) [in-water-direction](jala+dig) [+house](gṛhe)
 
 ## mukta-m0-p121-v3002
-[nāga+group-of-eight](nnāgāṣṭakāṃs) [then](tataḥ)
+[and](n) [nāga-octad](nāga+aṣṭakān) [then](tataḥ) [variant-thus](tathā)
 
 ## mukta-m0-p121-v3003
-[Śaṅkha](śaṅkhaṃ) [Vāsuki](vāsukiṃ) [and+indeed](caiva) [Padma](padmaṃ) [Karkoṭaka+ending-with](karkoṭakāntakam)
+[śaṅkha](śaṅkhaṃ) [vāsuki](vāsukiṃ) [and-also](ca+eva) [padma](padmaṃ) [karkoṭaka-antaka](karkoṭaka+antakam)
 
 ## mukta-m0-p121-v3004
-[five-products-of-cow](pañcagavyakam)
+[five](pañca) [+cow](ga) [+product](vya) [+mixture](kam)
 
 ## mukta-m0-p121-v3005
-[or+half+desired](vādhisārdhakām])
+[or](vā) [+adhi](adhi) [+one-and-a-half](sārdha) [+desired](kām)
 
 ## mukta-m0-p121-v3006
-[having-bathed-well](susnāpya) [with-fragrance+garments+and-so-on](gandhavastrādyaiḥ) [having-worshipped](saṃpūjyā) [with-Ananta+mantra](nantamantrataḥ)
+[having-bathed-well](su+snāpya) [with-fragrance](gandha) [+garments](vastra) [+and-so-forth](ādyaiḥ) [having-worshipped](saṃpūjya) [with-ananta-mantra](ananta+mantrataḥ)
 
 ## mukta-m0-p121-v3007
-[twenty](viṃśa;) [bamboo](g, gh: vaṃśa])
+[twenty](viṃśa) [variant-bamboo](vaṃśa)
 
 ## mukta-m0-p121-v3008
-[hū/](hū/) [hū/](hū/) [to-Ananta](anantāya) [to-lord+of-nāgas](nāgādhipataye) [obeisance](namaḥ)
+[hū/](hū/) [hū/](hū/) [to-ananta](anantāya) [variant-to-ananta-nāga](ananta+nāgāya) [to-lord-of-nāgas](nāga+ādhipataye) [salutation](namaḥ)
 
 ## mukta-m0-p121-v3009
-[with-razor](khurikenā) [having-cut-off](vadhāryeṣa) [with-secret-mantra](guhyenā) [in-water](mbhasi) [or](vā) [one-should-throw](kṣipet)
+[with-knife](khurikena) [having-fixed](avadhārya) [this](eṣa) [variant-jyeṣṭha](jyeṣṭha) [with-secret-mantra](guhyena) [in-water](ambhasi) [or](vā) [one-should-cast](kṣipet)
 
 ## mukta-m0-p121-v3010
-[brown-cow+tail](kapilāpuccha) [attached](lagno'tra) [should-cross](santared) [sacrificer](yajamānakaḥ)
+[tawny-cow-tail](kapilā+puccha) [variant-vāmadeva](vāmadevaṃ) [clinging](lagnaḥ) [here](atra) [should-cross](santaret) [the-sacrificer](yajamānakaḥ)
 
 ## mukta-m0-p121-v3011
-[then](tataś) [eight+hundred](cāṣṭaśataṃ) [oblation](homaṃ) [with-Bahurūpa-mantra](bahurūpeṇa) [one-should-offer](homayet)
+[then](tataḥ) [and](ca) [eight-hundred](aṣṭa+śataṃ) [oblation](homaṃ) [with-bahurūpa-mantra](bahurūpeṇa) [one-should-offer](homayet)
 
 ## mukta-m0-p121-v3012
-[cooked-rice-offering](caruṃ) [one-should-prepare](saṃśādhayet) [with-that](tena) [pacification](śāntiṃ) [with-that+indeed](tenaiva) [one-should-perform](kārayet)
+[cooked-rice](caruṃ) [one-should-prepare](saṃśādhayet) [with-that](tena) [pacification](śāntiṃ) [with-that-indeed](tena+eva) [one-should-perform](kārayet)
 
 ## mukta-m0-p121-v3013
-[that](tāṃ) [and](ca) [cow](gāṃ) [to-guru](gurave) [one-should-give](dadyāt) [and-one-should-satisfy](toṣayecca) [according-to-own+wealth](svavittataḥ)
+[that](tāṃ) [and](ca) [cow](gāṃ) [to-the-guru](gurave) [one-should-give](dadyāt) [and-one-should-satisfy](toṣayet) [variant-with-khāgni](khāgnyena) [according-to-one's-wealth](sva+vittataḥ)
 
 ## mukta-m0-p121-v3014
-[in-directions](dikṣv) [in-suns](arkeṣu) [Marīci+and-others](marīcyādyān) [in-middle](madhyeṣaṭ) [in-six-part-squares](padakeṣv) [unborn](ajam)
+[in-the-directions](dikṣu) [in-the-suns](arkeṣu) [marīci-and-others](marīci+ādyān) [in-the-middle](madhye) [in-six-part-sections](ṣaṭ+padakeṣu) [unborn](ajam) [variant-flag](dhvajaḥ)
 
 ## mukta-m0-p121-v3015
-[in-its+middle](tanmadhye) [Kālarudra+lord](kālarudreśaṃ) [having-worshipped](pūjya) [with-fragrance+and-so-on](gandhādi) [as-before](pūrvavat)
+[in-its-middle](tat+madhye) [kālarudra-lord](kālarudra+īśaṃ) [having-worshipped](pūjya) [with-fragrance](gandha) [+and-so-forth](ādi) [+as-before](pūrvavat)
 
 ## mukta-m0-p121-v3016
-[five-products-of-cow](pañcagavyaṃ) [one-should-throw](kṣipet) [in-well](kūpe) [with-Gaṅgā+mantra+water](gaṅgāmantrāmbunā) [together-with](saha)
+[five-cow-products](pañca+gavyaṃ) [one-should-cast](kṣipet) [in-the-well](kūpe) [with-gaṅgā-mantra](gaṅgā+mantra) [+water](ambunā) [together](saha)
 
 ## mukta-m0-p121-v3017
-[in-hand+interval+placed](karāntarastha) [with-wooden-ladles](dārvībhir) [with-pots](dhaṭībhir) [wooden+wheel](dārucakrakam)
+[in-hand](kara+antara) [+held](stha) [+with-sticks](dārvībhiḥ) [with-pots](ghaṭībhiḥ) [wooden-wheel](dāru+cakrakam)
 
 ## mukta-m0-p121-v3018
-[asleep](prasuptaṃ) [with-sacrifice+preceded](yāgapūrvakam)
+[asleep](prasuptaṃ) [preceded-by-worship](yāga+pūrvakam)
 
 ## mukta-m0-p121-v3019
-[in-gardens](udyāneṣu) [or-at-god+foremost-place](surāgre) [or](vā) [in-directions](dikṣu) [well](kūpaṃ) [and](ca) [as-before](pūrvavat)
+[in-gardens](udyāneṣu) [or-at-god's-forefront](sura+agre) [variant-in-forefronts](agreṣu) [or](vā) [in-the-directions](dikṣu) [well](kūpaṃ) [and](ca) [as-before](pūrvavat)
 
 ## mukta-m0-p121-v3020
-[throwing](kṣepaṇaṃ) [sowing](vapanaṃ) [and](yacca) [with-left+and-right](savyāsavyena) [one-should-perform](kārayet)
+[casting](kṣepaṇaṃ) [sowing](vapanaṃ) [and](yat) [which](ca) [with-left-and-right](savya+asavyena) [one-should-perform](kārayet)
 
 ## mukta-m0-p121-v3021
-[with-own+stars](svaistārakaiḥ) [one-should-perform](prakuryāc) [and](ca) [with-sesame-seeds](tilair) [oblation](homaṃ) [and](ca) [with-those-in-middle](madhyagaiḥ)
+[with-their-own](svaiḥ) [+stars](tārakaiḥ) [one-should-perform](prakuryāt) [and](ca) [with-sesame](tilaiḥ) [oblation](homaṃ) [and](ca) [by-those-in-the-middle](madhya+gaiḥ)
 
 ## mukta-m0-p121-v3022
-[in-eastern+house](pūrvāgāre) [then]('tha) [to-be-offered](hotavyaṃ) [of-trees](vṛkṣāṇāṃ) [tree+deity](vṛkṣadaivatam)
+[in-the-eastern-house](pūrva+āgāre) [now](atha) [to-be-offered](hotavyaṃ) [of-trees](vṛkṣāṇāṃ) [tree-deity](vṛkṣa+daivatam)
 
 ## mukta-m0-p121-v3023
-[arrow](bāṇam) [from-that](atāt) [having-taken](samādāya) [written](likhitaṃ) [and](ca) [with-its+syllables](tadakṣaraiḥ)
+[arrow](bāṇa) [+from-that](matāt) [having-taken](samādāya) [written](likhitaṃ) [and](ca) [with-its-syllables](tat+akṣaraiḥ)
 
 ## mukta-m0-p121-v3024
-[nāma+thus](nāmeti) [word](śabdo) [li0](li0) [pu0](pu0) [not](nāsti) [thirtieth](katriṃśo) [rite](vidhiḥ)
+[nāma-word](nāma+iti) [word](śabdaḥ) [in-written](li0) [in-manuscript](pu0) [not](na+asti) [thirtieth](katriṃśaḥ) [rite](vidhiḥ)
 
 ## mukta-m0-p121-v3025
-[pavitra+ascending](pavitrārohaṇaṃ) [to-be-done](kāryaṃ) [four-months](cāturmāsyaṃ) [vow](vrataṃ) [practicing](caran)
+[pavitrārohaṇa](pavitra+ārohaṇaṃ) [variant-ropaṇa](ropaṇaṃ) [to-be-done](kāryaṃ) [four-monthly](cāturmāsyaṃ) [vow](vrataṃ) [observing](caran)
