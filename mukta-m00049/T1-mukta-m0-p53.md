@@ -5,73 +5,73 @@
 [by-that-name](tannāmnā) [humans](mānavāḥ) [all](sarve) [bow-down](praṇamanti) [with-reverence](sasambhramāḥ)
 
 ## mukta-m0-p53-v1302
-[of-Ādyā+Kālī+form+named](ādyākālīsvarūpākhyaṃ) [hundred-names](śatanāma) [proclaimed](prakīrtitam)
+[primordial](ādyā) + [kālī](kālī) + [form](svarūpa) + [named](ākhyaṃ) [hundred](śata) + [name](nāma) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p53-v1303
-[with-preliminary-rites+endowed](puraskriyānvitaṃ) [hymn](stotraṃ) [all+desired+fruit+granting](sarvābhīṣṭaphalapradam)
+[with-preliminary-rite](puraskriyā) + [endowed](anvitaṃ) [hymn](stotraṃ) [all](sarva) + [desired](abhīṣṭa) + [fruit](phala) + [granting](pradam)
 
 ## mukta-m0-p53-v1304
-[may-recite](paṭhedvā) [or](vā) [may-cause-to-recite](pāṭhayedvāpi) [may-hear](śṛṇuyācchrāvayedapi)
+[may-recite](paṭhed) + [or](vā) [may-cause-to-recite](pāṭhayed) + [or](vā) + [also](api) [may-hear](śṛṇuyāt) + [or](ca) + [may-cause-to-hear](śrāvayed) + [also](api)
 
 ## mukta-m0-p53-v1305
-[from-all+sins+freed](sarvapāpavinirmukto) [identity-with-Brahman](brahmasāyujyamāpnuyāt)
+[all](sarva) + [sin](pāpa) + [freed-from](vinirmukto) [with-brahman](brahma) + [union](sāyujyam) + [attains](āpnuyāt)
 
 ## mukta-m0-p53-v1306
-[with-reverence](sasambhramāḥ) [with-fear](sabhayāḥ) [with-respect](sādarā) [or](vā)
+[with-reverence](sasambhramāḥ) [with-fear](sabhayāḥ) [with-respect](sādarā) [or](vā) || [50](50)
 
 ## mukta-m0-p53-v1307
-[of-Ādyā](ādyāyāḥ) [of-Śrī+Kālikā](śrīkālikāyāḥ) [armor](kavacaṃ) [hear](śṛṇu) [now](sāmpratam)
+[of-the-primordial](ādyāyāḥ) [of-śrī-kālikā](śrīkālikāyāḥ) [armor](kavacaṃ) [hear](śṛṇu) [now](sāmpratam)
 
 ## mukta-m0-p53-v1308
-[meter](chando) [anuṣṭubh](anuṣṭub) [deity](devatā) [and](ca) [Ādyā](ādyā) [Kālī](kālī) [proclaimed](prakīrtitā)
+[meter](chando) + [anuṣṭubh](anuṣṭub) + [deity](devatā) [and](ca) [primordial](ādyā) [kālī](kālī) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p53-v1309
-[krīṃ](krī/) [peg](kīlakaṃ) [in-desire+accomplishment](kāmyasiddhau) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
+[krīṃ](krī/) [peg](kīlakaṃ) [in-desire](kāmya) + [accomplishment](siddhau) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p53-v1310
-[heart](hṛdayaṃ) [krīṃ](krī/) [supreme](parā) [power](śaktiḥ) [may-protect](pāyāt) [throat](kaṇṭhaṃ) [supreme-of-supremes](parātparā)
+[heart](hṛdayaṃ) [krīṃ](krī/) [supreme](parā) [power](śaktiḥ) [may-protect](pāyāt) [throat](kaṇṭhaṃ) [supreme-of-supreme](parātparā)
 
 ## mukta-m0-p53-v1311
-[nose](ghrāṇaṃ) [may-protect](pātu) [Great-Illusion](mahāmāyā) [tongue](rasanāṃ) [all+auspicious](sarvamaṅgalā)
+[nose](ghrāṇaṃ) [may-protect](pātu) [great-illusion](mahāmāyā) [tongue](rasanāṃ) [all-auspicious](sarvamaṅgalā)
 
 ## mukta-m0-p53-v1312
-[lips+lower-lip](oṣṭhādharau) [Kṣamā](kṣamā) [may-protect](rakṣet) [chin](cibukaṃ) [and](ca) [beautifully-smiling](āruhāsinī)
+[lips](oṣṭha) + [and-lower-lip](adharau) [forbearance](kṣamā) [may-protect](rakṣet) [chin](cibukaṃ) [and](ca) + [beautifully-smiling](aruhāsinī)
 
 ## mukta-m0-p53-v1313
-[two](dvau) [arms](bāhū) [arm-giver](bāhudā) [may-protect](rakṣet) [hands](karau) [liberation+giver](kaivalyadāyinī)
+[two](dvau) [arms](bāhū) [arm-giver](bāhudā) [may-protect](rakṣet) [hands](karau) [liberation](kaivalya) + [giver](dāyinī)
 
 ## mukta-m0-p53-v1314
-[sides](pārśve) [may-protect](pāyād) [Aparṇā](aparṇā) [my](me) [waist](kaṭiṃ) [my](me) [tortoise-seated](kamaṭhāsanā)
+[sides](pārśve) [may-protect](pāyāt) + [aparṇā](aparṇā) [me](me) [waist](kaṭiṃ) [me](me) [tortoise](kamaṭha) + [seated](āsanā)
 
 ## mukta-m0-p53-v1315
-[Śrī+Sadāśiva](śrīsadāśiva) [said](uvāca) [thus-spoken+and-so-forth](kathitamityādi)
+[śrī-sadāśiva](śrīsadāśiva) [said](uvāca) [thus-spoken](kathitam) + [and-so-forth](ityādi) || [55](55)
 
 ## mukta-m0-p53-v1316
-[thighs](ūrū) [may-protect](rakṣatu) [Kalyāṇī](kalyāṇī) [feet](pādau) [my](me) [may-protect](pātu) [Pārvatī](pārvatī)
+[thighs](ūrū) [may-protect](rakṣatu) [kalyāṇī](kalyāṇī) [feet](pādau) [me](me) [may-protect](pātu) [pārvatī](pārvatī)
 
 ## mukta-m0-p53-v1317
-[protection+without](rakṣāhīnaṃtu) [which](yat) [place](sthānaṃ) [omitted](varjitaṃ) [by-armor](kavacena) [and](ca)
+[protection](rakṣā) + [without](ahīnaṃ) + [indeed](tu) [which](yat) [place](sthānaṃ) [omitted](varjitaṃ) [by-armor](kavacena) [and](ca)
 
 ## mukta-m0-p53-v1318
-[thus](iti) [to-you](te) [told](kathitaṃ) [divine](divyaṃ) [three-worlds+conquest+named](trailokyavijayābhidham)
+[thus](iti) [to-you](te) [spoken](kathitaṃ) [divine](divyaṃ) [three-world](trailokya) + [victory](vijaya) + [named](abhidham)
 
 ## mukta-m0-p53-v1319
-[armor](kavacaṃ) [of-Kālikā+goddess](kālikādevyā) [of-Ādyā](ādyāyāḥ) [supremely+wondrous](paramādbhutam)
+[armor](kavacaṃ) [of-kālikā-devī](kālikādevyā) [of-the-primordial](ādyāyāḥ) [supremely](parama) + [wondrous](adbhutam)
 
 ## mukta-m0-p53-v1320
-[mantra+accomplishment](mantrasiddhir) [may-be](bhaved) [quickly](āśu) [servants](kiṅkarāḥ) [minor+powers](kṣudrasiddhayaḥ)
+[mantra](mantra) + [accomplishment](siddhir) + [may-be](bhaved) + [quickly](āśu) [servants](kiṅkarāḥ) [minor](kṣudra) + [powers](siddhayaḥ)
 
 ## mukta-m0-p53-v1321
-[knowledge+seeker](vidyārthī) [obtains](labhate) [knowledge](vidyāṃ) [desirer](kāmī) [desires](kāmān) [may-obtain](avāpnuyāt)
+[knowledge](vidyā) + [seeker](arthī) [obtains](labhate) [knowledge](vidyāṃ) [desirer](kāmī) [desires](kāmān) + [obtains](avāpnuyāt)
 
 ## mukta-m0-p53-v1322
-[preliminary-rites+accomplished](puraścaraṇasampannaṃ) [as-stated+fruit+giving](yathoktaphaladaṃ) [may-be](bhavet)
+[preliminary-rites](puraścaraṇa) + [accomplished](sampannaṃ) [as-stated](yathokta) + [fruit](phala) + [giving](daṃ) [may-be](bhavet)
 
 ## mukta-m0-p53-v1323
-[on-birch-bark](bhūrje) [having-written](vilikhya) [amulet](guṭikāṃ) [in-gold+placed](svarṇasthāṃ) [may-wear](dhārayed) [if](yadi)
+[on-birch-bark](bhūrje) [having-written](vilikhya) [amulet](guṭikāṃ) [in-gold](svarṇa) + [placed](sthāṃ) [may-wear](dhārayed) [if](yadi)
 
 ## mukta-m0-p53-v1324
-[by-these-and-others](ityādibhiḥ)
+[thus](iti) + [and-so-forth](ādibhiḥ) || [67](67)
 
 ## mukta-m0-p53-v1325
-[of-the-armor](varmaṇaḥ) [of-the-protective-charm](kavacasya)
+[of-the-armor](varmaṇaḥ) [of-the-protective-covering](kavacasya) || [69](69)

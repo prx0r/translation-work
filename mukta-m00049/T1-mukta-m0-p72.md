@@ -5,10 +5,10 @@
 [of-śūdras](śūdrāṇām) [and-of-others](itareṣām) [and](ca) [tuft](śikhāṃ) [having-offered](hutvā) [indeed](eva) [consecration](saṃskriyā)
 
 ## mukta-m0-p72-v1777
-[guru](guruḥ) [having-raised](utthāpya) [that](taṃ) [disciple](śiṣyaṃ) [in-right-ear](dakṣa+karṇe) [should-say](vadet) [this](idam)
+[the-guru](guruḥ) [having-raised](utthāpya) [that](taṃ) [disciple](śiṣyaṃ) [in-right-ear](dakṣa+karṇe) [should-say](vadet) [this](idam)
 
 ## mukta-m0-p72-v1778
-[without-mine-ness](nirmamaḥ) [without-ego](nirahaṅkāraḥ) [by-own-nature](sva+bhāvena) [in-happiness](sukhaṃ) [wander](cara)
+[without-mine-ness](nirmamaḥ) [without-ego](nirahaṅkāraḥ) [by-own-nature](svabhāvena) [in-happiness](sukhaṃ) [move](cara)
 
 ## mukta-m0-p72-v1779
 [consisting-of-brahman](brahma+mayaḥ) [of-brahman-nature](brahma+svarūpaḥ)
@@ -17,10 +17,10 @@
 [of-mixed-castes](varṇa+saṅkarāṇām) [||-262](|| 262)
 
 ## mukta-m0-p72-v1781
-[of-aham-iti-etc.](aham+iti+asyādeḥ) [elision](lopaḥ) [indeed](tu) [archaic](ārṣaḥ)
+[of-aham-iti-etc](aham+iti+asya+ādeḥ) [elision](lopaḥ) [indeed](tu) [archaic](ārṣaḥ)
 
 ## mukta-m0-p72-v1782
-[of-self-nature](ātma+svarūpaṃ) [that](taṃ) [having-thought](matvā) [should-bow](praṇamet) [with-head](śirasā) [guru](guruḥ)
+[of-self-nature](ātma+svarūpaṃ) [that](taṃ) [having-considered](matvā) [should-bow](praṇamet) [with-head](śirasā) [the-guru](guruḥ)
 
 ## mukta-m0-p72-v1783
 [you](tvam) [alone](eva) [that](tat) [you](tat+tvam) [alone](eva) [of-universal-form](viśva+rūpa) [salutation](namaḥ) [be](astu) [to-you](te)
@@ -32,34 +32,34 @@
 [for-those-devoted-to-own-will-conduct](sva+icchā+ācāra+parāṇāṃ) [but](tu) [transgression](pratyavāyaḥ) [not](na) [exists](vidyate)
 
 ## mukta-m0-p72-v1786
-[should-wander](viharet) [by-own-will](sva+icchayā) [disciple](śiṣyaḥ) [directly](sākṣāt) [consisting-of-brahman](brahma+mayaḥ) [on-earth](bhuvi)
+[should-wander](viharet) [by-own-will](sva+icchayā) [the-disciple](śiṣyaḥ) [directly](sākṣād) [consisting-of-brahman](brahma+mayaḥ) [on-earth](bhuvi)
 
 ## mukta-m0-p72-v1787
-[forgetting](vismaran) [names-and-forms](nāma+rūpāṇi) [meditating-on](dhyāyan) [self](ātmānam) [in-self](ātmani)
+[forgetting](vismaran) [names-and-forms](nāma+rūpāṇi) [meditating-on](dhyāyan) [the-self](ātmānam) [in-the-self](ātmani)
 
 ## mukta-m0-p72-v1788
 [with-head](śirasā) [should-bow](praṇamet)
 
 ## mukta-m0-p72-v1789
-[salutation-to-you](namas+tubhyam) [etc.](ityādikam)
+[salutation-to-you](namas+tubhyam) [and-so-forth](iti+ādikam)
 
 ## mukta-m0-p72-v1790
 [taking-of-renunciation](saṃnyāsa+grahaṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p72-v1791
-[knowledge-of-brahman](brahma+jñāna) [etc.](ityādi)
+[by-knowledge-of-brahman](brahma+jñānena) [and-so-forth](iti+ādi)
 
 ## mukta-m0-p72-v1792
 [free-from-dualities](nirdvandvaḥ) [of-that-nature](tat+svarūpaḥ)
 
 ## mukta-m0-p72-v1793
-[without-mine-ness](nirmamaḥ) [without-ego](nirahaṅkāraḥ) [renunciant](saṃnyāsī) [should-wander](viharet) [on-earth](kṣitau)
+[without-mine-ness](nirmamaḥ) [without-ego](nirahaṅkāraḥ) [the-renunciate](saṃnyāsī) [should-wander](viharet) [on-earth](kṣitau)
 
 ## mukta-m0-p72-v1794
 [equal-in-pleasure-and-pain](sukha+duḥkha+samaḥ) [wise](dhīraḥ) [self-controlled](jita+ātmā) [free-from-desire](vigata+spṛhaḥ)
 
 ## mukta-m0-p72-v1795
-[ever-blissful](sadā+ānandaḥ) [pure](śuciḥ) [peaceful](śāntaḥ) [without-expectations](nirapekṣaḥ) [unperturbed](nirākulaḥ)
+[ever-blissful](sadā+ānandaḥ) [pure](śuciḥ) [peaceful](śāntaḥ) [without-expectation](nirapekṣaḥ) [unperturbed](nirākulaḥ)
 
 ## mukta-m0-p72-v1796
 [free-from-anger-and-fear](vigata+amarṣa+bhīḥ) [self-restrained](dāntaḥ) [without-resolve](niḥ+saṅkalpaḥ) [without-effort](nirudyamaḥ)

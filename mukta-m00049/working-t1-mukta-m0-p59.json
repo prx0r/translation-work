@@ -16,7 +16,7 @@
 },
 {
 "surface": "tulya+bhāvena",
-"quick_gloss": "with-equal-disposition"
+"quick_gloss": "with-equal+disposition"
 },
 {
 "surface": "matvā",
@@ -45,7 +45,7 @@
 },
 {
 "surface": "varāya",
-"quick_gloss": "to-the-chosen-bridegroom"
+"quick_gloss": "to-the-suitor"
 },
 {
 "surface": "viduṣe",
@@ -53,7 +53,7 @@
 },
 {
 "surface": "dhana+ratna+samanvitā",
-"quick_gloss": "endowed-with-wealth-and-jewels"
+"quick_gloss": "with-wealth+jewels+endowed"
 }
 ]
 },
@@ -70,7 +70,7 @@
 },
 {
 "surface": "cetasā",
-"quick_gloss": "mind"
+"quick_gloss": "with-mind"
 },
 {
 "surface": "vikṛtena",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "manasā",
-"quick_gloss": "mind"
+"quick_gloss": "with-mind"
 }
 ]
 },
@@ -95,7 +95,7 @@
 },
 {
 "surface": "nirjana+sthāne",
-"quick_gloss": "in-a-deserted-place"
+"quick_gloss": "in-a-deserted+place"
 }
 ]
 },
@@ -108,11 +108,11 @@
 "tokens": [
 {
 "surface": "anya+niketane",
-"quick_gloss": "in-another's-house"
+"quick_gloss": "in-another's+dwelling"
 },
 {
 "surface": "para+gṛhe",
-"quick_gloss": "in-another's-home"
+"quick_gloss": "in-another's+house"
 }
 ]
 },
@@ -137,7 +137,7 @@
 },
 {
 "surface": "ūrddhvam",
-"quick_gloss": "after"
+"quick_gloss": "above"
 }
 ]
 },
@@ -162,7 +162,11 @@
 },
 {
 "surface": "viṃśati+abda+adhikān",
-"quick_gloss": "sons-more-than-twenty-years-old"
+"quick_gloss": "beyond-twenty+years"
+},
+{
+"surface": "putrān",
+"quick_gloss": "sons"
 }
 ]
 },
@@ -216,7 +220,7 @@
 },
 {
 "surface": "udāsīnān",
-"quick_gloss": "and-neutral-persons"
+"quick_gloss": "and-neutrals"
 },
 {
 "surface": "gṛhasthaḥ",
@@ -261,7 +265,7 @@
 },
 {
 "surface": "loka+garhitaḥ",
-"quick_gloss": "condemned-by-the-world"
+"quick_gloss": "world+condemned"
 }
 ]
 },
@@ -327,7 +331,7 @@
 },
 {
 "surface": "sarva+karmasu",
-"quick_gloss": "in-all-actions"
+"quick_gloss": "in-all+actions"
 }
 ]
 },
@@ -344,11 +348,19 @@
 },
 {
 "surface": "na",
-"quick_gloss": "should-not-respect"
+"quick_gloss": "not"
 },
 {
-"surface": "na+avamanyeta",
-"quick_gloss": "should-not-despise"
+"surface": "manyeta",
+"quick_gloss": "should-respect"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "avamanyeta",
+"quick_gloss": "should-disrespect"
 },
 {
 "surface": "māninaḥ",
@@ -398,7 +410,7 @@
 "tokens": [
 {
 "surface": "mitra+amitra+bhinnān",
-"quick_gloss": "distinguished-as-friends-and-enemies"
+"quick_gloss": "friend+enemy+distinguished"
 }
 ]
 },
@@ -411,7 +423,7 @@
 "tokens": [
 {
 "surface": "loka+garhitatvam",
-"quick_gloss": "and-the-state-of-being-condemned-by-the-world"
+"quick_gloss": "and-world-condemnedness"
 },
 {
 "surface": "ca",
@@ -431,7 +443,7 @@
 },
 {
 "surface": "yadi+ityādinā",
-"quick_gloss": "beginning-with-\"if\""
+"quick_gloss": "beginning-with-if"
 }
 ]
 },
@@ -489,8 +501,12 @@
 "quick_gloss": "valiant"
 },
 {
-"surface": "na+avamanyeta",
-"quick_gloss": "should-not-despise"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "avamanyeta",
+"quick_gloss": "should-disrespect"
 },
 {
 "surface": "na",
@@ -532,7 +548,7 @@
 },
 {
 "surface": "ātma+bhāvān",
-"quick_gloss": "one's-own-nature"
+"quick_gloss": "one's-own+natures"
 },
 {
 "surface": "na",
@@ -573,7 +589,7 @@
 },
 {
 "surface": "dharma+jñaḥ",
-"quick_gloss": "the-knower-of-dharma"
+"quick_gloss": "the-dharma-knower"
 },
 {
 "surface": "na",
@@ -594,11 +610,11 @@
 "tokens": [
 {
 "surface": "guruṇā",
-"quick_gloss": "with-an-elder"
+"quick_gloss": "with-elder"
 },
 {
 "surface": "laghunā",
-"quick_gloss": "with-a-younger"
+"quick_gloss": "with-younger"
 },
 {
 "surface": "ca",
@@ -638,12 +654,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "asatām",
-"quick_gloss": "association-with-the-wicked"
+"surface": "asatām+saṅgam",
+"quick_gloss": "with-the-wicked+association"
 },
 {
 "surface": "mithyā+droham",
-"quick_gloss": "false-hostility"
+"quick_gloss": "false+hostility"
 },
 {
 "surface": "parityajet",

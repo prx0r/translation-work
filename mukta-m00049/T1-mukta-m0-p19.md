@@ -5,73 +5,73 @@
 [body](tanuḥ) [your](tava) [thus](iti) [ellipsis](śeṣaḥ)
 
 ## mukta-m0-p19-v452
-[formless](nirākārā) [even](api) [with-form](sākārā) [who](kaḥ) [you](tvāṃ) [to-know](veditum) [is-able](arhati)
+[formless](nirākārā) [even](api) [having-form](sākārā) [who](kaḥ) [you](tvāṃ) [to-know](veditum) [is-able](arhati)
 
 ## mukta-m0-p19-v453
-[of-demons](dānavānāṃ) [for-destruction](vināśāya) [you-assume](dhatse) [various](nānāvidhāḥ) [bodies](tanūḥ)
+[of-demons](dānavānāṃ) [for-destruction](vināśāya) [you-assume](dhatse) [various](nānā) [kinds](vidhāḥ) [bodies](tanūḥ)
 
 ## mukta-m0-p19-v454
-[you](tvam) [alone](eva) [for-world+protection](viśva+rakṣārthaṃ) [various+weapons+missiles+bearer](nānā+śastra+astra+dhāriṇī)
+[you](tvam) [indeed](eva) [for-universe](viśva) [protection](rakṣā) [sake](artham) [various](nānā) [weapons](śastra) [missiles](astra) [bearing](dhāriṇī)
 
 ## mukta-m0-p19-v455
-[stated](kathitaṃ) [in-all+tantras](sarva+tantreṣu) [states](bhāvāḥ) [and](ca) [stated](kathitāḥ) [three](trayaḥ)
+[stated](kathitaṃ) [in-all](sarva) [tantras](tantreṣu) [states](bhāvāḥ) [and](ca) [stated](kathitāḥ) [three](trayaḥ)
 
 ## mukta-m0-p19-v456
-[hero+practice+actions](vīra+sādhana+karmāṇi) [perceptible](pratyakṣāṇi) [in-kali+yuga](kalau+yuge)
+[hero](vīra) [practice](sādhana) [acts](karmāṇi) [perceptible](pratyakṣāṇi) [in-kali](kalau) [age](yuge)
 
 ## mukta-m0-p19-v457
-[therefore](tasmāt) [with-all+effort](sarva+prayatnena) [one-should-practice](sādhayet) [kula+practice](kula+sādhanam)
+[therefore](tasmāt) [with-all](sarva) [effort](prayatnena) [one-should-practice](sādhayet) [kula](kula) [practice](sādhanam)
 
 ## mukta-m0-p19-v458
-[brahman+knowledge+endowed](brahma+jñāna+yutaḥ) [mortal](martyaḥ) [living+liberated](jīvan+muktaḥ) [no](na) [doubt](saṃśayaḥ)
+[with-brahman](brahma) [knowledge](jñāna) [endowed](yuto) [mortal](martyo) [liberated-while-living](jīvanmukto) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p19-v459
-[is](bhavati) [not](na) [anyone](kaḥ) [also](api) [thus+meaning](iti+arthaḥ)
+[exists](bhavati) [not](na) [anyone](ko'pi) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p19-v460
-[various+kinds+bodies](nānā+vidhāḥ+tanūḥ) [indeed](eva) [showing](darśayan) [says](āha) [four-armed+etc](caturbhuja+ityādi) [17](|| 17)
+[various](nānā) [kinds](vidhāḥ) [body](tanūḥ) [indeed](eva) [showing](darśayann) [says](āha) [four-armed](caturbhuja) [etcetera](ityādi) [17](|| 17)
 
 ## mukta-m0-p19-v461
-[in-brahman+knowledge](brahma+jñāne) [arisen](samutpanne) [pure+impure](medhya+amedhyaṃ) [not](na) [is-known](vidyate)
+[in-brahman](brahma) [knowledge](jñāne) [arisen](samutpanne) [pure](medhya) [impure](amedhyaṃ) [not](na) [is-known](vidyate)
 
 ## mukta-m0-p19-v462
-[what](kim) [is](asti) [impure](amedhyaṃ) [before-him](tasya+agre) [all](sarvaṃ) [brahman](brahma) [thus](iti) [knowing](jānataḥ)
+[what](kim) [is](asti) [impure](amedhyaṃ) [before-him](tasya) [in-front](agre) [all](sarvaṃ) [brahman](brahma) [thus](iti) [knowing](jānataḥ)
 
 ## mukta-m0-p19-v463
-[being-pleased](tuṣṭāyāṃ) [in-you](tvayi) [o-goddess+lord](deva+īśi) [of-all](sarveṣāṃ) [satisfaction](toṣaṇaṃ) [would-be](bhavet)
+[being-pleased](tuṣṭāyāṃ) [you](tvayi) [o-goddess](deveśi) [of-all](sarveṣāṃ) [satisfaction](toṣaṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p19-v464
-[from-you](tvattaḥ) [born](jātaṃ) [world](jagat) [all](sarvaṃ) [supreme+brahman+desire-to-create](para+brahma+sisṛkṣayā)
+[from-you](tvatto) [born](jātaṃ) [world](jagat) [all](sarvaṃ) [with-supreme-brahman](parabrahma) [desire-to-create](sisṛkṣayā)
 
 ## mukta-m0-p19-v465
-[instrumental+cause+only](nimitta+mātraṃ) [that](tat) [brahman](brahma) [of-all+causes+cause](sarva+kāraṇa+kāraṇam)
+[instrumental](nimitta) [cause-only](mātraṃ) [that](tad) [brahman](brahma) [of-all](sarva) [causes](kāraṇa) [cause](kāraṇam)
 
 ## mukta-m0-p19-v466
-[always+one+form](sadā+eka+rūpaṃ) [consciousness+alone](cit+mātraṃ) [unstained](nirliptaṃ) [in-all+things](sarva+vastuṣu)
+[always](sadā) [one](eka) [form](rūpaṃ) [consciousness](cit) [alone](mātraṃ) [unstained](nirliptaṃ) [in-all](sarva) [things](vastuṣu)
 
 ## mukta-m0-p19-v467
-[truth](satyaṃ) [knowledge](jñānam) [without-beginning+end](an+ādi+antam) [beyond-speech+mind+range](a+vāk+manasa+gocaram)
+[truth](satyaṃ) [knowledge](jñānam) [without-beginning](anādi) [end](antam) [beyond-speech](avāk) [mind](manasa) [scope](gocaram)
 
 ## mukta-m0-p19-v468
-[because-of-form+emptiness](ākṛti+śūnyatvāt) [of-speech+mind](vāk+manasayoḥ) [also](api) [not+object](a+viṣaya+bhūtam)
+[due-to-form](ākṛti) [absence](śūnyatvāt) [of-speech](vāk) [and-mind](manasayoḥ) [also](api) [not-object](aviṣaya) [being](bhūtam)
 
 ## mukta-m0-p19-v469
-[cause](kāraṇaṃ) [instrumental+cause](nimitta+bhūtam)
+[cause](kāraṇaṃ) [instrumental](nimitta) [being](bhūtam)
 
 ## mukta-m0-p19-v470
-[you-make](karoṣi) [you-protect](pāsi) [you-destroy](haṃsi) [in-the-end](ante) [world](jagat) [this](etat) [moving+unmoving](cara+acaram)
+[you-make](karoṣi) [you-protect](pāsi) [you-destroy](haṃsi) [in-the-end](ante) [world](jagat) [this](etat) [moving](cara) [unmoving](acaram)
 
 ## mukta-m0-p19-v471
-[at-great+dissolution+time](mahā+saṃhāra+samaye) [time](kālaḥ) [all](sarvaṃ) [will-swallow](grasiṣyati)
+[at-great](mahā) [dissolution](saṃhāra) [time](samaye) [time](kālaḥ) [all](sarvaṃ) [will-devour](grasiṣyati)
 
 ## mukta-m0-p19-v472
-[of-great+kāla](mahā+kālasya) [by-devouring](kalanāt) [you](tvam) [primordial](ādyā) [kālikā](kālikā) [supreme](parā)
+[of-great-time](mahākālasya) [by-manifesting](kalanāt) [you](tvam) [primordial](ādyā) [Kali](kālikā) [supreme](parā)
 
 ## mukta-m0-p19-v473
-[because-of-time-nature](kālatvāt) [because-of-being-primordial](ādi+bhūtatvāt) [primordial](ādyā) [kālī](kālī) [thus](iti) [is-sung](gīyate)
+[because-of-time-nature](kālatvāt) [because-of-being-primordial](ādibhūtatvāt) [primordial](ādyā) [Kali](kālī) [thus](iti) [is-sung](gīyate)
 
 ## mukta-m0-p19-v474
-[beyond-speech](vācā+atītaṃ) [accessible-to-mind](manaḥ+gamyaṃ) [you](tvam) [one](ekā) [alone](eva) [will-remain](avaśiṣyase)
+[beyond-speech](vācā) [transcending](atītaṃ) [by-mind](manaḥ) [accessible](gamyaṃ) [you](tvam) [one](ekā) [alone](eva) [will-remain](avaśiṣyase)
 
 ## mukta-m0-p19-v475
-[you](tvaṃ) [origin-of-all](sarva+ādiḥ) [without-beginning](an+ādiḥ) [you](tvam) [creator](kartrī) [destroyer](hartrī) [and](ca) [protectress](pālikā)
+[you](tvaṃ) [of-all](sarva) [beginning](ādiḥ) [without-beginning](anādiḥ) [you](tvaṃ) [creator](kartrī) [destroyer](hartrī) [and](ca) [protector](pālikā)

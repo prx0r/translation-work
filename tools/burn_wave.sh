@@ -10,4 +10,11 @@ for d in $(ls -d mukta-m* 2>/dev/null); do
   [ -f "$d/STATUS.json" ] || continue
   python3 tools/auto_burn.py --work "$d" --from 1 --to 999 || true
 done
+# External (non-Muktabodha) works join the burn by convention: an `ext-*` dir
+# with a validated source/manifest.json + STATUS.json. See SOURCE-INTAKE.md.
+for d in $(ls -d ext-* 2>/dev/null); do
+  [ -f "$d/source/manifest.json" ] || continue
+  [ -f "$d/STATUS.json" ] || continue
+  python3 tools/auto_burn.py --work "$d" --from 1 --to 999 || true
+done
 echo "WAVE DONE $(date -Is)"
