@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p20",
  "verse": 483,
- "question": "Which mantra governs the offering of flowers and bilva leaves?",
+ "question": "With what should the circle be sprinkled?",
  "premises": [
-  "Flowers are to be offered.",
-  "Bilva leaves are to be offered.",
-  "The mantra 'tryambakam' is recited for this offering."
+  "ordinary arghya water is named",
+  "indeed is stated",
+  "should sprinkle circle is stated"
  ],
- "inference": "One should offer flowers and bilva leaves with the mantra 'tryambakam'.",
- "uncertainties": [],
- "plain_english": "One should offer flowers and bilva leaves with the mantra 'tryambakam'."
+ "inference": "ordinary arghya water sprinkles the circle",
+ "uncertainties": [
+  "sequence after then not stated"
+ ],
+ "plain_english": "Indeed, sprinkle the circle with ordinary arghya water, then proceed."
 }

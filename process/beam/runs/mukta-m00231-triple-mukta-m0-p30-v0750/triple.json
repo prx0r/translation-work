@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vattīrthamāvāhya",
+     "gloss": "having-invoked-tirtha",
+     "grounds": "absolutive form with fused tīrtha object",
+     "morph": "absolutive (root āvāh)"
+    },
+    {
+     "surface": "pūrvavan",
+     "gloss": "as-before",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "object of likhet",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-draw",
+     "grounds": "prescriptive verbal instruction",
+     "morph": "3.sg.act-optative (root likh)"
+    }
+   ],
+   "question": "What ritual sequence should a practitioner follow after invoking the tīrtha?",
+   "premises": [
+    "Invoke tīrtha before drawing maṇḍala.",
+    "Draw maṇḍala as before.",
+    "Instruction is prescriptive."
+   ],
+   "inference": "The verse prescribes invoking the tīrtha first, then drawing the maṇḍala in the prior manner.",
+   "uncertainties": [
+    "Exact referent of pūrvavan is not specified in this verse."
+   ],
+   "plain_english": "First invoke the tīrtha, then draw the maṇḍala as before."
+  }
+ ]
+}

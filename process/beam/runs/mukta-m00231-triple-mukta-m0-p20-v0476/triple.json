@@ -1,0 +1,1151 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "nārikelodbhavā",
+     "gloss": "coconut-born",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīdā",
+     "gloss": "śrī-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aikṣavaṃ",
+     "gloss": "sugarcane",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sukhavarddhanam",
+     "gloss": "happiness-increasing",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substances are named as coconut-born śrī-giving and sugarcane happiness-increasing?",
+   "premises": [
+    "coconut-born śrī-giving is named",
+    "sugarcane happiness-increasing is named"
+   ],
+   "inference": "the verse lists auspicious ritual substances",
+   "uncertainties": [
+    "exact ritual use not stated"
+   ],
+   "plain_english": "Coconut-born śrī-giving and sugarcane happiness-increasing are named."
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "anyā",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vihitā",
+     "gloss": "prescribed",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhakarī",
+     "gloss": "auspicious-doing",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣapradāḥ",
+     "gloss": "liberation-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "saptikāḥ",
+     "gloss": "sevenfold",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which prescribed always auspicious sevenfold things are liberation-giving?",
+   "premises": [
+    "other prescribed things are always auspicious",
+    "they are liberation-giving and sevenfold"
+   ],
+   "inference": "the verse praises a sevenfold prescribed set",
+   "uncertainties": [
+    "the seven items are not listed here"
+   ],
+   "plain_english": "Other prescribed things are always auspicious, liberation-giving, and sevenfold."
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "libation",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parameśānyāḥ",
+     "gloss": "of-supreme-goddess",
+     "grounds": "genitive compound",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sarvakāmaphalapradam",
+     "gloss": "all-desire-fruit-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whose libation gives all desired fruits?",
+   "premises": [
+    "libation is named",
+    "of supreme goddess is named",
+    "all-desire-fruit-giving is named"
+   ],
+   "inference": "the libation to the supreme goddess grants all desired fruits",
+   "uncertainties": [
+    "ritual procedure not stated"
+   ],
+   "plain_english": "The libation of the supreme goddess gives all desired fruits."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root kṛ"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "until-then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devārcanaṃ",
+     "gloss": "god-worship",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "whence",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can god-worship occur before the mantrin acts?",
+   "premises": [
+    "until the mantrin does not act",
+    "until then god-worship is questioned",
+    "whence would it arise"
+   ],
+   "inference": "mantrin action precedes god-worship",
+   "uncertainties": [
+    "exact required action unspecified"
+   ],
+   "plain_english": "Until the mantrin acts, how can god-worship arise?"
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "svapriyeṇa",
+     "gloss": "by-own-dear",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hataṃ",
+     "gloss": "killed",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rauravaṃ",
+     "gloss": "raurava",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root vraj"
+    }
+   ],
+   "question": "What hell results from meat killed by one's own dear?",
+   "premises": [
+    "meat killed by own dear is named",
+    "raurava hell is named",
+    "would go is stated"
+   ],
+   "inference": "such meat leads to raurava hell",
+   "uncertainties": [
+    "context of prohibition not stated"
+   ],
+   "plain_english": "Meat killed by one's own dear would lead to raurava hell."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "kṛte'pi",
+     "gloss": "even-if-done",
+     "grounds": "compound with api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhihāniḥ",
+     "gloss": "accomplishment-loss",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "kruddhā",
+     "gloss": "angry",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root bhū"
+    },
+    {
+     "surface": "caṇḍikā",
+     "gloss": "caṇḍikā",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What loss follows even if the rite is done while caṇḍikā is angry?",
+   "premises": [
+    "even if done is stated",
+    "accomplishment-loss would be",
+    "caṇḍikā becomes angry"
+   ],
+   "inference": "anger of caṇḍikā causes loss of accomplishment",
+   "uncertainties": [
+    "remedy not stated"
+   ],
+   "plain_english": "Even if done, accomplishment is lost when caṇḍikā becomes angry."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "vāmabhāge",
+     "gloss": "left-side",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭkoṇaṃ",
+     "gloss": "six-cornered",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "its-middle",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmarandhrakam",
+     "gloss": "brahma-opening",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where is the six-cornered brahma-opening placed?",
+   "premises": [
+    "left side is named",
+    "six-cornered is named",
+    "its middle brahma-opening is named"
+   ],
+   "inference": "the brahma-opening is in the middle of the left-side six-cornered figure",
+   "uncertainties": [
+    "exact diagram not stated"
+   ],
+   "plain_english": "On the left side, the brahma-opening is in the middle of the six-cornered figure."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "sāmānyārghyajalena",
+     "gloss": "ordinary-arghya-water",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root prokṣ"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what should the circle be sprinkled?",
+   "premises": [
+    "ordinary arghya water is named",
+    "indeed is stated",
+    "should sprinkle circle is stated"
+   ],
+   "inference": "ordinary arghya water sprinkles the circle",
+   "uncertainties": [
+    "sequence after then not stated"
+   ],
+   "plain_english": "Indeed, sprinkle the circle with ordinary arghya water, then proceed."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjayet",
+     "gloss": "should-worship",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root pūj"
+    },
+    {
+     "surface": "vahnimaṇḍalaṃ",
+     "gloss": "fire-circle",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be worshipped there after sprinkling?",
+   "premises": [
+    "there is stated",
+    "should worship is stated",
+    "fire-circle is named",
+    "after that is stated"
+   ],
+   "inference": "the fire-circle is worshipped there next",
+   "uncertainties": [
+    "further steps not stated"
+   ],
+   "plain_english": "There, worship the fire-circle after that."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "tāmraṃ",
+     "gloss": "copper",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūmimayaṃ",
+     "gloss": "earth-made",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lauhavivarjitam",
+     "gloss": "metal-free",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which materials are permitted for the vessel?",
+   "premises": [
+    "copper is named",
+    "earth-made is named",
+    "or api is stated",
+    "or metal-free is named"
+   ],
+   "inference": "copper, earth-made, or metal-free materials are permitted",
+   "uncertainties": [
+    "exact vessel type not stated"
+   ],
+   "plain_english": "Copper, earth-made, or metal-free materials are permitted."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "kāṃsyaṃ",
+     "gloss": "bronze",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāntikaraṃ",
+     "gloss": "peace-doing",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛṇmayaṃ",
+     "gloss": "clay-made",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣṭidaṃ",
+     "gloss": "nourishing",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effects are assigned to bronze and clay vessels?",
+   "premises": [
+    "bronze is peace-doing",
+    "clay-made is nourishing",
+    "thus is stated"
+   ],
+   "inference": "bronze brings peace and clay brings nourishment",
+   "uncertainties": [
+    "other materials not compared"
+   ],
+   "plain_english": "Bronze is peace-doing, and clay-made is nourishing, thus."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "kalasānāṃ",
+     "gloss": "of-pots",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "measure",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "mouth",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭāṅgulaṃ",
+     "gloss": "eight-angula",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root bhū"
+    }
+   ],
+   "question": "What measure is given for a pot's mouth?",
+   "premises": [
+    "of pots measure is named",
+    "mouth is named",
+    "eight-angula would be"
+   ],
+   "inference": "a pot's mouth should be eight angulas",
+   "uncertainties": [
+    "height or body measure not stated"
+   ],
+   "plain_english": "A pot's mouth should be eight angulas."
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "ādhāre",
+     "gloss": "on-base",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "absolutive + root sthā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root pūj"
+    },
+    {
+     "surface": "sūryamaṇḍalam",
+     "gloss": "sun-circle",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be worshipped after placing on the base?",
+   "premises": [
+    "on base having placed is stated",
+    "indeed is stated",
+    "should worship sun-circle is stated"
+   ],
+   "inference": "the sun-circle is worshipped after placement on the base",
+   "uncertainties": [
+    "base details not stated"
+   ],
+   "plain_english": "Having placed on the base, worship the sun-circle."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "bhūṣayet",
+     "gloss": "should-adorn",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root bhūṣ"
+    },
+    {
+     "surface": "raktapuṣpeṇa",
+     "gloss": "with-red-flower",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "raktamālyena",
+     "gloss": "with-red-garland",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "With what should the practitioner adorn?",
+   "premises": [
+    "should adorn is stated",
+    "with red flower is stated",
+    "with red garland is stated",
+    "practitioner is stated"
+   ],
+   "inference": "the practitioner adorns with red flower and red garland",
+   "uncertainties": [
+    "object adorned not stated"
+   ],
+   "plain_english": "The practitioner should adorn with red flower and red garland."
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "somamaṇḍalam",
+     "gloss": "moon-circle",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "absolutive + root arc"
+    },
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paribhāvya",
+     "gloss": "having-contemplated",
+     "grounds": "absolutive",
+     "morph": "absolutive + root bhāv"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is worshipped and contemplated in this moon rite?",
+   "premises": [
+    "moon-circle is named",
+    "having worshipped is stated",
+    "nectar is named",
+    "having contemplated is stated"
+   ],
+   "inference": "the moon-circle is worshipped and nectar contemplated",
+   "uncertainties": [
+    "sequence details not stated"
+   ],
+   "plain_english": "Having worshipped the moon-circle, contemplate nectar."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "praṇamet",
+     "gloss": "should-bow",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root nam"
+    },
+    {
+     "surface": "bhaktibhāvena",
+     "gloss": "with-devotion",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mudrābhiḥ",
+     "gloss": "with-mudras",
+     "grounds": "instrumental plural",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "pañcasaṃjñakaiḥ",
+     "gloss": "five-named",
+     "grounds": "instrumental adjective",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "How should one bow with the five named mudras?",
+   "premises": [
+    "should bow is stated",
+    "with devotion is stated",
+    "with mudras is stated",
+    "five-named is stated"
+   ],
+   "inference": "bowing is done with devotion and five named mudras",
+   "uncertainties": [
+    "exact mudras not named"
+   ],
+   "plain_english": "One should bow with devotion and the five named mudras."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "sakalāṅgulibhiḥ",
+     "gloss": "with-all-fingers",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samyaṅ",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudreyam",
+     "gloss": "this-mudra",
+     "grounds": "demonstrative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturasrikā",
+     "gloss": "square",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What shape is this mudra made with all fingers?",
+   "premises": [
+    "with all fingers is stated",
+    "properly is stated",
+    "this mudra is named",
+    "square is stated"
+   ],
+   "inference": "this mudra is square and made with all fingers",
+   "uncertainties": [
+    "finger arrangement not detailed"
+   ],
+   "plain_english": "This mudra, made properly with all fingers, is square."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "anyonyābhimukhau",
+     "gloss": "face-to-face",
+     "grounds": "compound adjective",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "hands",
+     "grounds": "noun",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "puṭākāreṇa",
+     "gloss": "in-cup-shape",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root kṛ"
+    }
+   ],
+   "question": "How should the two hands be made?",
+   "premises": [
+    "face-to-face hands are named",
+    "in cup-shape is stated",
+    "should make is stated"
+   ],
+   "inference": "the two hands are made face-to-face in cup shape",
+   "uncertainties": [
+    "exact ritual use not stated"
+   ],
+   "plain_english": "Make the two hands face-to-face in cup shape."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "etasyāḥ",
+     "gloss": "of-this",
+     "grounds": "genitive pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudrāyāḥ",
+     "gloss": "of-mudra",
+     "grounds": "genitive noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kaniṣṭhāmūladeśake",
+     "gloss": "little-finger-root-place",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the root place of this mudra's little finger?",
+   "premises": [
+    "of this indeed is stated",
+    "of mudra is stated",
+    "little-finger-root-place is named"
+   ],
+   "inference": "the little finger root place belongs to this mudra",
+   "uncertainties": [
+    "action at that place not stated"
+   ],
+   "plain_english": "Indeed, this mudra's little-finger root place is named."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "madhyame",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarale",
+     "gloss": "straight",
+     "grounds": "adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "absolutive + root kṛ"
+    },
+    {
+     "surface": "tarjanyupari",
+     "gloss": "index-above",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃsthite",
+     "gloss": "placed",
+     "grounds": "past participle",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is the middle finger positioned relative to the index?",
+   "premises": [
+    "middle is named",
+    "straight is stated",
+    "having made is stated",
+    "index-above is stated",
+    "placed is stated"
+   ],
+   "inference": "the middle finger is made straight and placed above the index",
+   "uncertainties": [
+    "hand context not stated"
+   ],
+   "plain_english": "Having made the middle finger straight, place it above the index."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "absolutive",
+     "morph": "absolutive + root yuj"
+    },
+    {
+     "surface": "aṅguṣṭhaparipīḍitā",
+     "gloss": "thumb-pressed",
+     "grounds": "compound adjective",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "How are all fingers joined and pressed?",
+   "premises": [
+    "all is stated",
+    "in one is stated",
+    "having joined is stated",
+    "thumb-pressed is stated"
+   ],
+   "inference": "all fingers are joined in one and thumb-pressed",
+   "uncertainties": [
+    "mudra name not stated"
+   ],
+   "plain_english": "Join all fingers in one and press with the thumb."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "hrāṃ",
+     "gloss": "hrāṃ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "namaḥ",
+     "grounds": "mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturasraṃ",
+     "gloss": "square",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "namaḥ",
+     "grounds": "mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvṛtaṃ",
+     "gloss": "closed",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra syllables correspond to square and closed forms?",
+   "premises": [
+    "hrāṃ namaḥ is stated",
+    "square would be is stated",
+    "hrīṃ namaḥ is stated",
+    "closed is stated",
+    "thus is stated"
+   ],
+   "inference": "hrāṃ namaḥ is square and hrīṃ namaḥ is closed",
+   "uncertainties": [
+    "full mantra sequence not stated"
+   ],
+   "plain_english": "Hrāṃ namaḥ would be square, and hrīṃ namaḥ closed, thus."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "saḥ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "namaḥ",
+     "grounds": "mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yonimudrā",
+     "gloss": "yoni-mudra",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "pañcamudrāḥ",
+     "gloss": "five-mudras",
+     "grounds": "compound noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which mudra is declared by saḥ namaḥ among five mudras?",
+   "premises": [
+    "saḥ namaḥ is stated",
+    "yoni-mudra would be is stated",
+    "five mudras are declared"
+   ],
+   "inference": "saḥ namaḥ corresponds to yoni-mudra among five mudras",
+   "uncertainties": [
+    "other four correspondences not stated"
+   ],
+   "plain_english": "Saḥ namaḥ would be yoni-mudra; five mudras are declared."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varuṇaṃ",
+     "gloss": "varuṇa",
+     "grounds": "proper noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sendu",
+     "gloss": "with-moon",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmadevaṃ",
+     "gloss": "vāmadeva",
+     "grounds": "proper noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṅeyutam",
+     "gloss": "with-ṅa",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which elements are combined with praṇava and varuṇa?",
+   "premises": [
+    "praṇava is named",
+    "varuṇa is named",
+    "with-moon is stated",
+    "vāmadeva is named",
+    "and is stated",
+    "with-ṅa is stated"
+   ],
+   "inference": "praṇava and varuṇa are combined with moon, vāmadeva, and ṅa",
+   "uncertainties": [
+    "exact mantra construction not stated"
+   ],
+   "plain_english": "Praṇava and varuṇa are combined with moon, vāmadeva, and ṅa."
+  }
+ ]
+}

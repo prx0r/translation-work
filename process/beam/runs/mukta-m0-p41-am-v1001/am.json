@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1001,
- "question": "What vessel material is acceptable when no other options are available?",
+ "question": "What happens to water when no dam restrains its flow?",
  "premises": [
-  "All preferred materials may be unavailable.",
-  "An earthen vessel remains possible.",
-  "The vessel may be fashioned by one's own hand."
+  "without dam water flows instantly downward",
+  "damless flow is uncontrolled"
  ],
- "inference": "In the absence of all other materials, a hand-made earthen vessel is acceptable.",
- "uncertainties": [],
- "plain_english": "But if nothing else is available, an earthen vessel fashioned by one's own hand may be used."
+ "inference": "absence of a dam lets water rush downward immediately",
+ "uncertainties": [
+  "none"
+ ],
+ "plain_english": "Without a dam, water flows downward instantly."
 }

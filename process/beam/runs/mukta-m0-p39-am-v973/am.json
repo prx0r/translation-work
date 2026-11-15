@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p39",
  "verse": 973,
- "question": "How should the three gates be constructed in relation to the bhupura?",
+ "question": "What fragrant and ornamental offerings are listed?",
  "premises": [
-  "Three gates are to be made.",
-  "A model for construction is indicated.",
-  "The gates in the bhupura provide that model."
+  "fragrance-flower is listed",
+  "garland is listed",
+  "red-flower ornament is listed"
  ],
- "inference": "Three gates should be made just as the gates in the bhupura are made.",
- "uncertainties": [],
- "plain_english": "Three gates should be made, just as the gates in the bhupura."
+ "inference": "The offerings include fragrance-flower, garland, and red-flower ornament.",
+ "uncertainties": [
+  "whether tathā connects previous list"
+ ],
+ "plain_english": "Fragrance-flower, garland, and red-flower ornament."
 }

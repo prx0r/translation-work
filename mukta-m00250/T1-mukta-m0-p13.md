@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[smell](gandha) [+](to) [taste](rasa) [+](antara) [form](rūpañ) [and](ca) [sound](śabda) [+](tanmātra) [+](pañcakam) [five-subtle-elements](śabdatanmātrapañcakam)
+[gantor](gantor)+[asantarūpañca](asantarūpañca) [śabda](śabda)+[tanmātra](tanmātra)+[pañcakam](pañcakam)
 
 ## mukta-m0-p13-v302
-[ear](śrotra) [+](t) [skin](tvak) [eye](cakṣu) [+](jihvā) [tongue](jihvā) [and](ca) [nose](ghrāṇa) [+](buddhīndriyaṃ) [sense-organ](buddhīndriyaṃ) [considered](matam)
+[śrotra](śrotra)+[tvak](tvak) [cakṣu](cakṣu)+[jihvā](jihvā) [ca](ca) [ghrāṇa](ghrāṇa)+[buddhi](buddhi)+[indriyaṃ](indriyaṃ) [matam](matam)
 
 ## mukta-m0-p13-v303
-[qualities](guṇā) [primordial-nature](prakṛtir) [thus](ity) [said](uktā) [twenty-four](caturviṃśat) [+](tvam) [principles](tvam) [indeed](eva) [and](ca)
+[guṇā](guṇā) [prakṛtiḥ](prakṛtiḥ)+[iti](iti)+[uktā](uktā) [caturviṃśat](caturviṃśat)+[tvam](tvam)+[eva](eva) [ca](ca)
 
 ## mukta-m0-p13-v304
-[on-the-head](śirasya) [with-vāma-mantra](vāmamantreṇa) [mantra](mantra) [+](dvayam) [pair](dvayam) [here](ih) [is-spoken](ocyate)
+[śirasi](śirasi) [vāma](vāma)+[mantreṇa](mantreṇa) [mantra](mantra)+[dvayam](dvayam)+[iha](iha)+[ucyate](ucyate)
 
 ## mukta-m0-p13-v305
-[Amareśa](amareśaḥ) [Prabhāsena](prabhāseno) [Naumīśa](naumīśaḥ) [Puṣkara](puṣkaraḥ) [remembered](smṛtaḥ)
+[amareśaḥ](amareśaḥ) [prabhāsena](prabhāsena) [naumīśaḥ](naumīśaḥ) [puṣkaraḥ](puṣkaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p13-v306
-[thus](ity) [of-eight](aṣṭaka) [+](tatvānāṃ) [principles](tatvānāṃ) [word](padaṃ) [principle](tattvam) [to-be-remembered](anusmṛtam)
+[ityaṣṭaka](ityaṣṭaka)+[tatvānāṃ](tatvānāṃ) [padaṃ](padaṃ) [tattvam](tattvam)+[anusmṛtam](anusmṛtam)
 
 ## mukta-m0-p13-v307
-[thus](ity) [of-eight](aṣṭaka) [+](saṃjñāyāṃ) [named](saṃjñāyāṃ) [in-fire-principle](agnitatve) [proclaimed](prakīrtitāḥ)
+[ityaṣṭaka](ityaṣṭaka)+[saṃjñāyāṃ](saṃjñāyāṃ) [agni](agni)+[tatve](tatve) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p13-v308
-[Vimaleśa](vimaleśo) [+](ṣṭa) [Aṣṭabhāsa](bhāsañ) [and](ca) [Mahendra](mahendro) [indeed](hi) [Maheśvara](maheśvaram)
+[vimaleśa](vimaleśa)+[uṣṭabhāsañca](uṣṭabhāsañca) [mahendraḥ](mahendraḥ) [hi](hi) [maheśvaram](maheśvaram)
 
 ## mukta-m0-p13-v309
-[Cakradvaṇḍa](cakradvaṇḍo) [Dviraṇḍa](dviraṇḍaś) [and](ca) [Mākoṭa](mākoṭo) [Maṇḍaleśvara](maṇḍaleśvaraḥ)
+[cakradvaṇḍaḥ](cakradvaṇḍaḥ) [dviraṇḍaḥ](dviraṇḍaḥ)+[ca](ca) [mākoṭaḥ](mākoṭaḥ) [maṇḍaleśvaraḥ](maṇḍaleśvaraḥ)
 
 ## mukta-m0-p13-v310
-[thus](ity) [in-this-way](evam) [eight](aṣṭa) [+](bhuvanaṃ) [worlds](bhuvanaṃ) [in-aṃkāra](aṃkāre) [indeed](tu) [situated](sthitaṃ) [should-be](bhavet)
+[ityevam](ityevam)+[aṣṭabhuvanaṃ](aṣṭabhuvanaṃ) [aṃkāre](aṃkāre) [tu](tu) [sthitaṃ](sthitaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p13-v311
-[Sauma](saumaṃ) [Śaila](śaila) [+](brahmaṇañ) [Brahmaṇa](brahmaṇañ) [and](ca) [thus](ity) [eight](aṣṭau) [in-intellect](buddhike) [situated](sthitam)
+[saumaṃ](saumaṃ) [śaila](śaila)+[brahmaṇañca](brahmaṇañca) [ityaṣṭau](ityaṣṭau) [buddhike](buddhike) [sthitam](sthitam)
 
 ## mukta-m0-p13-v312
-[Kaumāra](kaumāra) [Aumaka](aumakañ) [and](ca) [indeed](eva) [Śrīkaṇṭha](śrīkaṇṭham) [thus](iti) [is-called](kathyate)
+[kaumāra](kaumāra) [aumakañcaiva](aumakañcaiva) [śrīkaṇṭham](śrīkaṇṭham)+[iti](iti) [kathyate](kathyate)
 
 ## mukta-m0-p13-v313
-[twenty-one](ekaviṃśati) [word](padaṃ) [in-the-middle](madhye) [by-Maheśvara’s-power](maheśvaraparākramān)
+[ekaviṃśati](ekaviṃśati) [padaṃ](padaṃ) [madhye](madhye) [maheśvara](maheśvara)+[parākramān](parākramān)
 
 ## mukta-m0-p13-v314
-[Ekarudra](ekarudras) [Trimūrti](trimūrtiś) [and](ca) [Śrīkhaṇḍa](śrīkhaṇḍaś) [and](ca) [Śikhaṇḍin](śikhaṇḍinaḥ)
+[ekarudraḥ](ekarudraḥ) [trimūrtiḥ](trimūrtiḥ)+[ca](ca) [śrīkhaṇḍaḥ](śrīkhaṇḍaḥ)+[ca](ca) [śikhaṇḍinaḥ](śikhaṇḍinaḥ)
 
 ## mukta-m0-p13-v315
-[Sadāśiva](sadāśiva) [+](ṣaḍadhvātmā) [six-path-self](ṣaḍadhvātmā) [his](tasya) [vital-breath](prāṇa) [+](śiva) [Śiva](śiva) [remembered](smṛtaḥ)
+[sadāśiva](sadāśiva)+[ṣaḍadhvātmā](ṣaḍadhvātmā) [tasya](tasya) [prāṇa](prāṇa)+[śiva](śiva) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p13-v316
-[jasmine](kunda) [+](indu) [moon](indu) [+](sphaṭika) [crystal](sphaṭika) [+](ābhāsāṃ) [resembling](ābhāsāṃ) [with-matted-hair](jaṭā) [+](makuṭa) [crown](makuṭa) [+](maṇḍitam) [adorned](maṇḍitam)
+[kundendu](kundendu)+[sphaṭikābhāsāṃ](sphaṭikābhāsāṃ) [jaṭā](jaṭā)+[makuṭa](makuṭa)+[maṇḍitam](maṇḍitam)
 
 ## mukta-m0-p13-v317
-[with-all](sarvā) [+](bharaṇa) [ornaments](bharaṇa) [+](saṃyuktaṃ) [endowed](saṃyuktaṃ) [with-ten](daśa) [+](dorbhiḥ) [arms](dorbhiḥ) [+](samanvitam) [provided](samanvitam)
+[sarvābharaṇa](sarvābharaṇa)+[saṃyuktaṃ](saṃyuktaṃ) [daśa](daśa)+[dorbhiḥ](dorbhiḥ)+[samanvitam](samanvitam)
 
 ## mukta-m0-p13-v318
-[noose](pāśaṃ) [serpent](nāga) [+](aṅkuśañ) [goad](aṅkuśañ) [and](ca) [indeed](eva) [bell](ghaṇṭāṃ) [fire](vahniñ) [and](ca) [in-the-left](vāmake)
+[pāśaṃ](pāśaṃ) [nāga](nāga)+[aṅkuśañcaiva](aṅkuśañcaiva) [ghaṇṭāṃ](ghaṇṭāṃ) [vahniñca](vahniñca) [vāmake](vāmake)
 
 ## mukta-m0-p13-v319
-[Aghora](aghora) [+](mañjana) [collyrium](mañjana) [+](prakhyaṃ) [resembling](prakhyaṃ) [Puruṣa](puruṣaṃ) [saffron](kuṅkuma) [+](prabham) [radiant](prabham)
+[aghora](aghora)+[mañjanaprakhyaṃ](mañjanaprakhyaṃ) [puruṣaṃ](puruṣaṃ) [kuṅkuma](kuṅkuma)+[prabham](prabham)
 
 ## mukta-m0-p13-v320
-[Īśāna](īśānaṃ) [gold](kanakaṃ) [color](varṇaṃ) [Vāma](vāmaṃ) [face](mukham) [thus](iti) [remembered](smṛtam)
+[īśānaṃ](īśānaṃ) [kanakaṃ](kanakaṃ) [varṇaṃ](varṇaṃ) [vāmaṃ](vāmaṃ) [mukham](mukham)+[iti](iti) [smṛtam](smṛtam)
 
 ## mukta-m0-p13-v321
-[with-divine](divya) [+](gandha) [fragrance](gandha) [+](anuliptāṅgaṃ) [anointed-body](anuliptāṅgaṃ) [peaceful](śānta) [+](rūpaṃ) [form](rūpaṃ) [smiling](smita) [+](ānanam) [face](ānanam)
+[divyagandha](divyagandha)+[anuliptāṅgaṃ](anuliptāṅgaṃ) [śānta](śānta)+[rūpaṃ](rūpaṃ) [smita](smita)+[ānanam](ānanam)
 
 ## mukta-m0-p13-v322
-[in-present-state](vartamānasthitaṃ) [liṅga](liṅgam) [seated](āsīnantu) [superior-to-Śiva](śivādhikam)
+[vartamāna](vartamāna)+[sthitaṃ](sthitaṃ) [liṅgam](liṅgam)+[āsīnantu](āsīnantu) [śiva](śiva)+[adhikam](adhikam)
 
 ## mukta-m0-p13-v323
-[equal](sama) [+](bhāgaṃ) [part](bhāgaṃ) [Brahmā](brahma) [+](viṣṇuṃ) [Viṣṇu](viṣṇuṃ) [Śiva](śiva) [+](bhāga) [part](bhāga) [+](adhikaṃ) [greater](adhikaṃ) [likewise](tathā)
+[samabhāgaṃ](samabhāgaṃ) [brahma](brahma)+[viṣṇuṃ](viṣṇuṃ) [śiva](śiva)+[bhāga](bhāga)+[adhikaṃ](adhikaṃ) [tathā](tathā)
 
 ## mukta-m0-p13-v324
-[by-thirty-one](ekattriṃśati) [parts](bhāgena) [ten](daśa) [indeed](eva) [of-Brahmā-and-Viṣṇu](brāhmavaiṣṇavam)
+[ekattriṃśati](ekattriṃśati) [bhāgena](bhāgena) [daśa](daśa)+[eva](eva) [brāhma](brāhma)+[vaiṣṇavam](vaiṣṇavam)
 
 ## mukta-m0-p13-v325
-[of-svāyaṃbhuva-and-other](svāyaṃbhuvādi) [liṅgas](liṅgānāṃ) [equal](sama) [+](ākāraṃ) [form](ākāraṃ) [situated](sthitaṃ) [should-be](bhavet)
+[svāyaṃbhuvādi](svāyaṃbhuvādi) [liṅgānāṃ](liṅgānāṃ) [samākāraṃ](samākāraṃ) [sthitaṃ](sthitaṃ) [bhavet](bhavet)

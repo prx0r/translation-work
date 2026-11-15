@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p39",
  "verse": 966,
- "question": "Which luminaries preside over day, night, and the two twilights?",
+ "question": "What kinds of food should be offered?",
  "premises": [
-  "Daytime has a presiding luminary.",
-  "Nighttime has a presiding luminary.",
-  "The two twilights have fire as presiding."
+  "chewable food is offered",
+  "suckable food is offered",
+  "lickable drinkable edible eatable foods are offered"
  ],
- "inference": "The sun presides by day, the moon by night, and fire at the two twilights.",
- "uncertainties": [],
- "plain_english": "By day the sun, likewise at night the moon, and fire at the two twilights."
+ "inference": "All these categories of food should be offered.",
+ "uncertainties": [
+  "exact distinction among categories"
+ ],
+ "plain_english": "Chewable, suckable, lickable-drinkable, edible, and eatable foods should be offered."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p39",
  "verse": 951,
- "question": "What geometric forms constitute the described sacred diagram?",
+ "question": "After offering a lamp-array, what should the practitioner offer as the family lamp?",
  "premises": [
-  "A triangle is present in the structure.",
-  "A bindu-related element is present.",
-  "An auspicious eight-angled and mixed form is included."
+  "lamp-array is offered first",
+  "family lamp is then offered",
+  "offering is prescribed"
  ],
- "inference": "The sacred diagram is composed of triangular, bindu-related, eight-angled, and mixed elements.",
- "uncertainties": [],
- "plain_english": "The diagram consists of a triangle, a bindu-related element, an auspicious eight-angled figure, and a mixed form."
+ "inference": "The rite prescribes sequential lamp offerings, culminating in the family lamp.",
+ "uncertainties": [
+  "exact ritual context of kuladīpa"
+ ],
+ "plain_english": "After offering a lamp-array, one should offer the family lamp."
 }

@@ -3,24 +3,34 @@
  "verse": 1000,
  "rows": [
   {
-   "lemma": "syāt",
-   "morph": "3.sg.act-pres root-as",
-   "grounds": "verb syāt from as, third singular present active"
+   "lemma": "tarjanyā",
+   "morph": "f.ins.sg",
+   "grounds": "instrumental form indicating the index finger as the prohibited touching instrument"
   },
   {
-   "lemma": "sarvasya",
-   "morph": "m.gen.sg",
-   "grounds": "genitive singular of sarva, all"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negative particle forbidding the following action"
   },
   {
-   "lemma": "nivedyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular of nivedya, to-be-offered"
+   "lemma": "spṛśet",
+   "morph": "3.sg.opt.act (spṛś)",
+   "grounds": "optative verb expressing the prohibited act of touching"
   },
   {
-   "lemma": "prītidāyakam",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular adjective prītidāyaka, pleasure-giving"
+   "lemma": "mālām",
+   "morph": "f.acc.sg",
+   "grounds": "accusative object of the prohibited touching"
+  },
+  {
+   "lemma": "aṅguṣṭhāgreṇa",
+   "morph": "m.ins.sg (aṅguṣṭha+agra)",
+   "grounds": "instrumental compound naming the permitted moving instrument"
+  },
+  {
+   "lemma": "cālayet",
+   "morph": "3.sg.opt.act (caus. cal)",
+   "grounds": "optative verb prescribing movement of the garland"
   }
  ]
 }

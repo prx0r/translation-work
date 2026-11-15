@@ -1,0 +1,1097 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 951,
+   "rows": [
+    {
+     "surface": "dīpābaliṃ",
+     "gloss": "lamp-offering",
+     "grounds": "compound dīpa+āvali",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of dā",
+     "morph": "abs-√dā"
+    },
+    {
+     "surface": "kuladīpaṃ",
+     "gloss": "family-lamp",
+     "grounds": "compound kula+dīpa",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "causative optative",
+     "morph": "3.sg.opt-√nid"
+    }
+   ],
+   "question": "After offering a lamp-array, what should the practitioner offer as the family lamp?",
+   "premises": [
+    "lamp-array is offered first",
+    "family lamp is then offered",
+    "offering is prescribed"
+   ],
+   "inference": "The rite prescribes sequential lamp offerings, culminating in the family lamp.",
+   "uncertainties": [
+    "exact ritual context of kuladīpa"
+   ],
+   "plain_english": "After offering a lamp-array, one should offer the family lamp."
+  },
+  {
+   "verse": 952,
+   "rows": [
+    {
+     "surface": "dalāṣṭakayutaṃ",
+     "gloss": "eight-petaled",
+     "grounds": "compound dala+aṣṭaka+yuta",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vilikhya",
+     "gloss": "having-drawn",
+     "grounds": "absolutive of likh",
+     "morph": "abs-√likh"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What should the practitioner draw there before proceeding?",
+   "premises": [
+    "an eight-petaled lotus is drawn",
+    "drawing occurs there",
+    "practitioner performs it"
+   ],
+   "inference": "The practitioner draws an eight-petaled lotus at the ritual place.",
+   "uncertainties": [
+    "whether drawing is on ground or vessel"
+   ],
+   "plain_english": "The practitioner draws an eight-petaled lotus there."
+  },
+  {
+   "verse": 953,
+   "rows": [
+    {
+     "surface": "aṣṭapatreṣu",
+     "gloss": "eight-petals",
+     "grounds": "locative plural",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive of sthā",
+     "morph": "abs-√sthā"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the object be placed before the next step?",
+   "premises": [
+    "placement is in the middle",
+    "placement is among eight petals",
+    "next step follows"
+   ],
+   "inference": "The object is placed in the middle among the eight petals before proceeding.",
+   "uncertainties": [
+    "identity of placed object"
+   ],
+   "plain_english": "Having placed it in the middle among the eight petals, then proceed."
+  },
+  {
+   "verse": 954,
+   "rows": [
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "adverbial numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttolya",
+     "gloss": "having-lifted",
+     "grounds": "absolutive of uttol",
+     "morph": "abs-√tol"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "adverbial numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmayettataḥ",
+     "gloss": "should-whirl",
+     "grounds": "fused bhrāmayet+tataḥ",
+     "morph": "3.sg.opt-√bhram+(indecl.)"
+    }
+   ],
+   "question": "How should the lifted object be whirled there?",
+   "premises": [
+    "it is lifted there",
+    "it is whirled ninefold",
+    "sevenfold lifting precedes"
+   ],
+   "inference": "The object is lifted and then whirled ninefold at that place.",
+   "uncertainties": [
+    "exact gesture sequence"
+   ],
+   "plain_english": "Having lifted it there sevenfold, then whirl it ninefold."
+  },
+  {
+   "verse": 955,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "then",
+     "grounds": "fused tataḥ+ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaśreṣṭhaś",
+     "gloss": "best-practitioner",
+     "grounds": "compound sādhaka+śreṣṭha",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "cakramudrāṃ",
+     "gloss": "wheel-mudra",
+     "grounds": "compound cakra+mudrā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "should-show",
+     "grounds": "causative optative",
+     "morph": "3.sg.opt-√dṛś"
+    }
+   ],
+   "question": "What should the best practitioner show then?",
+   "premises": [
+    "best practitioner acts",
+    "wheel-mudra is shown",
+    "action follows previous rite"
+   ],
+   "inference": "The best practitioner should then display the wheel-mudra.",
+   "uncertainties": [
+    "hand configuration details"
+   ],
+   "plain_english": "Then the best practitioner should show the wheel-mudra."
+  },
+  {
+   "verse": 956,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yojayitvā",
+     "gloss": "having-joined",
+     "grounds": "absolutive of yuj",
+     "morph": "abs-√yuj"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhe",
+     "gloss": "little-finger",
+     "grounds": "locative noun",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "garbhake",
+     "gloss": "womb",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "agent noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How is the wise one to join the right side in this mudra?",
+   "premises": [
+    "right side is joined",
+    "little finger and womb are involved",
+    "wise one performs it"
+   ],
+   "inference": "The wise practitioner joins the right side with the little finger and womb position.",
+   "uncertainties": [
+    "exact finger placement"
+   ],
+   "plain_english": "The wise one, having joined the right side, places it at the little finger's womb."
+  },
+  {
+   "verse": 957,
+   "rows": [
+    {
+     "surface": "anyonyayogataś",
+     "gloss": "mutual-union",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakramudrā",
+     "gloss": "wheel-mudra",
+     "grounds": "compound cakra+mudrā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "is-declared",
+     "grounds": "past participle",
+     "morph": "ppp-√kṛt"
+    }
+   ],
+   "question": "By what principle is the wheel-mudra declared?",
+   "premises": [
+    "mutual union is the basis",
+    "wheel-mudra is declared",
+    "declaration is authoritative"
+   ],
+   "inference": "The wheel-mudra is declared on the basis of mutual union.",
+   "uncertainties": [
+    "scope of mutual union"
+   ],
+   "plain_english": "Thus the wheel-mudra is declared through mutual union."
+  },
+  {
+   "verse": 958,
+   "rows": [
+    {
+     "surface": "taijaseṣu",
+     "gloss": "metallic",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātreṣu",
+     "gloss": "vessels",
+     "grounds": "locative plural",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "prastare",
+     "gloss": "stone",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abjapatrake",
+     "gloss": "lotus-leaf",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "On what surfaces may the offering vessel be placed?",
+   "premises": [
+    "metallic vessels are allowed",
+    "stone is allowed",
+    "lotus leaf is allowed"
+   ],
+   "inference": "The offering may be placed on metallic vessels, stone, or a lotus leaf.",
+   "uncertainties": [
+    "priority among surfaces"
+   ],
+   "plain_english": "On metallic vessels, or stone, or a lotus leaf."
+  },
+  {
+   "verse": 959,
+   "rows": [
+    {
+     "surface": "sarvābhāve",
+     "gloss": "all-absence",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māheye",
+     "gloss": "earthen",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "svahastaghaṭite",
+     "gloss": "self-made",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What vessel is used if all others are absent?",
+   "premises": [
+    "all vessels absent",
+    "earthen vessel is used",
+    "it is self-made"
+   ],
+   "inference": "If no other vessel is available, a self-made earthen vessel is used.",
+   "uncertainties": [
+    "whether self-made is mandatory"
+   ],
+   "plain_english": "If all are absent, use a self-made earthen vessel."
+  },
+  {
+   "verse": 960,
+   "rows": [
+    {
+     "surface": "yadyogyaṃ",
+     "gloss": "if-suitable",
+     "grounds": "compound yad+yogya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvapātre",
+     "gloss": "all-vessels",
+     "grounds": "locative plural",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tannidhāya",
+     "gloss": "having-placed-that",
+     "grounds": "absolutive compound",
+     "morph": "abs-√dhā"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "causative optative",
+     "morph": "3.sg.opt-√nid"
+    }
+   ],
+   "question": "How should one offer when a suitable vessel is available?",
+   "premises": [
+    "suitability is checked",
+    "all vessels may be used",
+    "offering follows placement"
+   ],
+   "inference": "If suitable, one places the offering in any vessel and offers it.",
+   "uncertainties": [
+    "criteria of suitability"
+   ],
+   "plain_english": "If suitable, place it in any vessel and offer."
+  },
+  {
+   "verse": 961,
+   "rows": [
+    {
+     "surface": "na+gṛhṇāti",
+     "gloss": "not-accepts",
+     "grounds": "fused na+gṛhṇāti",
+     "morph": "3.sg.pres-√grah"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "great-goddess",
+     "grounds": "compound mahā+devī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "dattaṃ",
+     "gloss": "given",
+     "grounds": "past participle",
+     "morph": "ppp-√dā"
+    },
+    {
+     "surface": "vidhiśatairapi",
+     "gloss": "hundreds-of-rites",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "Will the great goddess accept offerings without proper vessel and rite?",
+   "premises": [
+    "great goddess does not accept",
+    "given offerings fail",
+    "hundreds of rites do not suffice"
+   ],
+   "inference": "The great goddess does not accept offerings merely given through many rites if conditions are wrong.",
+   "uncertainties": [
+    "exact missing condition"
+   ],
+   "plain_english": "The great goddess does not accept what is given, even by hundreds of rites."
+  },
+  {
+   "verse": 962,
+   "rows": [
+    {
+     "surface": "nānāvidhāni",
+     "gloss": "various",
+     "grounds": "adjective plural",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "dravyāṇi",
+     "gloss": "substances",
+     "grounds": "noun plural",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of dā",
+     "morph": "abs-√dā"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "dative noun",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "carefully",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should various substances be given to the goddess?",
+   "premises": [
+    "various substances are given",
+    "goddess is recipient",
+    "giving is careful"
+   ],
+   "inference": "Various substances should be carefully given to the goddess.",
+   "uncertainties": [
+    "list of substances"
+   ],
+   "plain_english": "Having carefully given various substances to the goddess."
+  },
+  {
+   "verse": 963,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of dā",
+     "morph": "abs-√dā"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "dative noun",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "carefully",
+     "grounds": "instrumental noun",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bahuvidhaṃ",
+     "gloss": "many-kinds",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What food should be carefully given to the goddess?",
+   "premises": [
+    "food is given",
+    "many kinds are included",
+    "giving is careful"
+   ],
+   "inference": "Many kinds of food should be carefully given to the goddess.",
+   "uncertainties": [
+    "specific food types"
+   ],
+   "plain_english": "Having carefully given many kinds of food to the goddess."
+  },
+  {
+   "verse": 964,
+   "rows": [
+    {
+     "surface": "kaṭu",
+     "gloss": "pungent",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "amla",
+     "gloss": "sour",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "madhuraṃ",
+     "gloss": "sweet",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramānnaṃ",
+     "gloss": "best-food",
+     "grounds": "compound parama+anna",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saśarkaram",
+     "gloss": "with-sugar",
+     "grounds": "compound sa+śarkarā",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What flavors and best food are included in the offering?",
+   "premises": [
+    "pungent sour sweet are included",
+    "best food is included",
+    "sugar is included"
+   ],
+   "inference": "The offering includes pungent, sour, and sweet best food with sugar.",
+   "uncertainties": [
+    "whether all are simultaneous"
+   ],
+   "plain_english": "Pungent, sour, and sweet best food with sugar."
+  },
+  {
+   "verse": 965,
+   "rows": [
+    {
+     "surface": "dugdhaṃ",
+     "gloss": "milk",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "takraṃ",
+     "gloss": "buttermilk",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "navanītaṃ",
+     "gloss": "butter",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saśarkaram",
+     "gloss": "with-sugar",
+     "grounds": "compound sa+śarkarā",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which dairy items are offered with sugar?",
+   "premises": [
+    "milk is offered",
+    "curd and buttermilk are offered",
+    "butter is offered with sugar"
+   ],
+   "inference": "Milk, curd, buttermilk, and butter with sugar are offered.",
+   "uncertainties": [
+    "whether sugar applies to all"
+   ],
+   "plain_english": "Milk, curd, buttermilk, and butter with sugar."
+  },
+  {
+   "verse": 966,
+   "rows": [
+    {
+     "surface": "carvyaṃ",
+     "gloss": "chewable",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "coṣyaṃ",
+     "gloss": "suckable",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "lehyapeyaṃ",
+     "gloss": "lickable-drinkable",
+     "grounds": "compound lehya+peya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhakṣyaṃ",
+     "gloss": "edible",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhojyaṃ",
+     "gloss": "eatable",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "causative optative",
+     "morph": "3.sg.opt-√nid"
+    }
+   ],
+   "question": "What kinds of food should be offered?",
+   "premises": [
+    "chewable food is offered",
+    "suckable food is offered",
+    "lickable drinkable edible eatable foods are offered"
+   ],
+   "inference": "All these categories of food should be offered.",
+   "uncertainties": [
+    "exact distinction among categories"
+   ],
+   "plain_english": "Chewable, suckable, lickable-drinkable, edible, and eatable foods should be offered."
+  },
+  {
+   "verse": 967,
+   "rows": [
+    {
+     "surface": "cullukañca",
+     "gloss": "culluka",
+     "grounds": "fused culluka+ca",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of dā",
+     "morph": "abs-√dā"
+    },
+    {
+     "surface": "prāṇamudrāṃ",
+     "gloss": "life-mudra",
+     "grounds": "compound prāṇa+mudrā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "should-show",
+     "grounds": "causative optative",
+     "morph": "3.sg.opt-√dṛś"
+    }
+   ],
+   "question": "What should be shown after giving culluka?",
+   "premises": [
+    "culluka is given",
+    "then life-mudra is shown",
+    "showing is prescribed"
+   ],
+   "inference": "After giving culluka, one should show the life-mudra.",
+   "uncertainties": [
+    "meaning of culluka"
+   ],
+   "plain_english": "After giving culluka, then show the life-mudra."
+  },
+  {
+   "verse": 968,
+   "rows": [
+    {
+     "surface": "vṛddhāmadhyātarjanībhir",
+     "gloss": "aged-middle-index",
+     "grounds": "instrumental plural compound",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "apānasya",
+     "gloss": "apāna",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "is-declared",
+     "grounds": "past participle",
+     "morph": "ppp-√kṛt"
+    }
+   ],
+   "question": "By which fingers is the apāna mudra declared?",
+   "premises": [
+    "aged middle index fingers are used",
+    "apāna is named",
+    "mudra is declared"
+   ],
+   "inference": "The apāna mudra is declared with the aged, middle, and index fingers.",
+   "uncertainties": [
+    "exact finger combination"
+   ],
+   "plain_english": "The apāna mudra is declared with the aged, middle, and index fingers."
+  },
+  {
+   "verse": 969,
+   "rows": [
+    {
+     "surface": "kaniṣthābhinnasarvābhir",
+     "gloss": "little-finger-separated-all",
+     "grounds": "instrumental plural compound",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "udānasya",
+     "gloss": "udāna",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "is-said",
+     "grounds": "past participle",
+     "morph": "ppp-√īr"
+    }
+   ],
+   "question": "By which fingers is the udāna mudra said to be made?",
+   "premises": [
+    "little finger separated from all is used",
+    "udāna is named",
+    "mudra is said"
+   ],
+   "inference": "The udāna mudra is made with all fingers except the little finger.",
+   "uncertainties": [
+    "exact separation gesture"
+   ],
+   "plain_english": "The udāna mudra is said to use all fingers except the little finger."
+  },
+  {
+   "verse": 970,
+   "rows": [
+    {
+     "surface": "prāṇā",
+     "gloss": "prāṇa",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "apānau",
+     "gloss": "apāna",
+     "grounds": "dual noun",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāna",
+     "gloss": "vyāna",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "udānaśca",
+     "gloss": "udāna",
+     "grounds": "fused udāna+ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samānakaḥ",
+     "gloss": "samāna",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which vital airs are enumerated in this group?",
+   "premises": [
+    "prāṇa is named",
+    "apāna is named",
+    "vyāna udāna samāna are named"
+   ],
+   "inference": "The five vital airs prāṇa, apāna, vyāna, udāna, and samāna are enumerated.",
+   "uncertainties": [
+    "whether samānakaḥ is variant"
+   ],
+   "plain_english": "Prāṇa, apāna, vyāna, udāna, and samāna."
+  },
+  {
+   "verse": 971,
+   "rows": [
+    {
+     "surface": "vāmahaste",
+     "gloss": "left-hand",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "prāsamudrā",
+     "gloss": "prāsa-mudra",
+     "grounds": "compound prāsa+mudrā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prāsavat",
+     "gloss": "prāsa-like",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "is-declared",
+     "grounds": "past participle",
+     "morph": "ppp-√kṛt"
+    }
+   ],
+   "question": "Where is the prāsa-mudra declared to be like a prāsa?",
+   "premises": [
+    "left hand is location",
+    "prāsa-mudra is named",
+    "it is declared prāsa-like"
+   ],
+   "inference": "The prāsa-mudra is declared in the left hand as prāsa-like.",
+   "uncertainties": [
+    "exact hand shape"
+   ],
+   "plain_english": "In the left hand, the prāsa-mudra is declared prāsa-like."
+  },
+  {
+   "verse": 972,
+   "rows": [
+    {
+     "surface": "svayambhūkusumaṃ",
+     "gloss": "self-born-flower",
+     "grounds": "compound svayambhū+kusuma",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuṇḍagolotthaṃ",
+     "gloss": "kuṇḍa-gola-born",
+     "grounds": "compound kuṇḍa+gola+uttha",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "rocanāgurum",
+     "gloss": "rocanā-guru",
+     "grounds": "compound rocanā+guru",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What flowers and substances are listed here?",
+   "premises": [
+    "self-born flower is listed",
+    "kuṇḍa-gola-born item is listed",
+    "rocanā-guru is listed"
+   ],
+   "inference": "The list includes self-born flower, kuṇḍa-gola-born substance, and rocanā-guru.",
+   "uncertainties": [
+    "whether all are flowers"
+   ],
+   "plain_english": "Self-born flower, kuṇḍa-gola-born substance, and rocanā-guru."
+  },
+  {
+   "verse": 973,
+   "rows": [
+    {
+     "surface": "gandhapuṣpaṃ",
+     "gloss": "fragrance-flower",
+     "grounds": "compound gandha+puṣpa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālyaṃ",
+     "gloss": "garland",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "raktapuṣpādibhūṣaṇam",
+     "gloss": "red-flower-etc-ornament",
+     "grounds": "compound rakta+puṣpa+ādi+bhūṣaṇa",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What fragrant and ornamental offerings are listed?",
+   "premises": [
+    "fragrance-flower is listed",
+    "garland is listed",
+    "red-flower ornament is listed"
+   ],
+   "inference": "The offerings include fragrance-flower, garland, and red-flower ornament.",
+   "uncertainties": [
+    "whether tathā connects previous list"
+   ],
+   "plain_english": "Fragrance-flower, garland, and red-flower ornament."
+  },
+  {
+   "verse": 974,
+   "rows": [
+    {
+     "surface": "droṇāparājitāpuṣpaṃ",
+     "gloss": "droṇa-aparājitā-flower",
+     "grounds": "compound droṇa+aparājitā+puṣpa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "karavīraṃ",
+     "gloss": "karavīra",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "javāṃ",
+     "gloss": "javā",
+     "grounds": "noun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which flowers are named in this final list?",
+   "premises": [
+    "droṇa-aparājitā flower is named",
+    "karavīra is named",
+    "javā is named"
+   ],
+   "inference": "The final flower list names droṇa-aparājitā, karavīra, and javā.",
+   "uncertainties": [
+    "whether tathā continues list"
+   ],
+   "plain_english": "Droṇa-aparājitā flower, karavīra, and javā."
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 645,
- "question": "Who must understand vidyās in all rites?",
+ "question": "What accompanies the mantra in this rite?",
  "premises": [
-  "vidyās are to be understood",
-  "mantra-knowers are the agents",
-  "all rites are the domain"
+  "Pure mantra-medicine is used.",
+  "A mantra string is given.",
+  "Both are linked."
  ],
- "inference": "mantra-knowers must understand vidyās in all rites",
+ "inference": "The rite uses pure mantra-medicine together with the given mantra.",
  "uncertainties": [
-  "whether vidyās are mantras or goddesses"
+  "Mantra segmentation is unclear."
  ],
- "plain_english": "Vidyās are to be understood by mantra-knowers in all rites."
+ "plain_english": "Use pure mantra-medicine with the given mantra."
 }

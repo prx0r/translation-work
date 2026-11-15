@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of root kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "third singular active present/optative of root pūj",
+     "morph": "3.sg.act-pres/opt + root pūj"
+    },
+    {
+     "surface": "pūrvavartmanā",
+     "gloss": "by-previous-path",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.instr.sg"
+    }
+   ],
+   "question": "How should the maṇḍala be worshipped after the prior rites are completed?",
+   "premises": [
+    "Prior rites are completed first.",
+    "The maṇḍala is made.",
+    "Worship follows the previous method."
+   ],
+   "inference": "After making the maṇḍala as before, one should worship it by the previous path.",
+   "uncertainties": [
+    "pūrvavartmanā may mean previous path or previous method."
+   ],
+   "plain_english": "Having made the maṇḍala as before, one should worship it by the previous method."
+  }
+ ]
+}

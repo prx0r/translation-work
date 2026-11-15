@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p20",
  "verse": 492,
- "question": "By which mantra is the mantra-flower offering to be made?",
+ "question": "What shape is this mudra made with all fingers?",
  "premises": [
-  "A mantra-flower offering is to be made.",
-  "The root mantra is specified as the means.",
-  "This offering follows in the sequence."
+  "with all fingers is stated",
+  "properly is stated",
+  "this mudra is named",
+  "square is stated"
  ],
- "inference": "One should offer the mantra-flower with the root mantra.",
- "uncertainties": [],
- "plain_english": "And thus one should also offer the mantra-flower with the root mantra."
+ "inference": "this mudra is square and made with all fingers",
+ "uncertainties": [
+  "finger arrangement not detailed"
+ ],
+ "plain_english": "This mudra, made properly with all fingers, is square."
 }

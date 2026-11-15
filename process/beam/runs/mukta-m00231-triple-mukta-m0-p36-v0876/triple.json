@@ -1,0 +1,926 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 876,
+   "rows": [
+    {
+     "surface": "pādyārghyācamanasnānavasanābharaṇāni",
+     "gloss": "foot-wash-offering-sipping-bath-garment-ornament",
+     "grounds": "compound of six ritual items",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "yaca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which six ritual items are grouped together at the opening of this pūjā sequence?",
+   "premises": [
+    "pādya arghya ācamana snāna vasana ābharaṇa are listed",
+    "they form one compound",
+    "yaca adds the following item"
+   ],
+   "inference": "The verse opens the sequence with these six items.",
+   "uncertainties": [],
+   "plain_english": "Foot-wash, offering, sipping, bath, garment, and ornament are given first."
+  },
+  {
+   "verse": 877,
+   "rows": [
+    {
+     "surface": "tāmbūlamarcanāstotraṃ",
+     "gloss": "betel-arcana-stotra",
+     "grounds": "compound of betel arcana and stotra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tarpaṇañca",
+     "gloss": "libation-and",
+     "grounds": "tarpaṇa plus ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows the initial six items in this ritual sequence?",
+   "premises": [
+    "betel arcana stotra is named",
+    "libation is added",
+    "then comes after"
+   ],
+   "inference": "Betel, arcana, stotra, and libation follow the opening items.",
+   "uncertainties": [],
+   "plain_english": "Then betel, worship, praise, and libation follow."
+  },
+  {
+   "verse": 878,
+   "rows": [
+    {
+     "surface": "madhuparkācamanañca",
+     "gloss": "honey-mixture-sipping-and",
+     "grounds": "madhu-parka-ācamana plus ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "gandhaprasūnake",
+     "gloss": "scent-flower",
+     "grounds": "gandha-puṣpaka compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual elements come after betel and libation?",
+   "premises": [
+    "honey mixture sipping is named",
+    "scent flower is named",
+    "then marks sequence"
+   ],
+   "inference": "Honey-mixture sipping and scent-flower follow.",
+   "uncertainties": [],
+   "plain_english": "Then honey-mixture sipping and scent-flower are given."
+  },
+  {
+   "verse": 879,
+   "rows": [
+    {
+     "surface": "gandhādayo",
+     "gloss": "scent-and-so-forth",
+     "grounds": "gandha-ādi compound",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "naivedyāntaḥ",
+     "gloss": "food-offering-end",
+     "grounds": "naivedya-anta compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "pañcopacārikā",
+     "gloss": "five-service",
+     "grounds": "pañca-upacārikā compound",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "How is the pūjā described from scent through food offering?",
+   "premises": [
+    "gandha and following items are named",
+    "naivedya marks the end",
+    "pūjā is five-service"
+   ],
+   "inference": "The pūjā runs from scent to food offering as five-service worship.",
+   "uncertainties": [],
+   "plain_english": "Worship runs from scent to food offering in five services."
+  },
+  {
+   "verse": 880,
+   "rows": [
+    {
+     "surface": "abhāve",
+     "gloss": "absence",
+     "grounds": "ablative sense of absence",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "puṣpatoyābhyāṃ",
+     "gloss": "flower-water",
+     "grounds": "puṣpa-toya dual instrumental",
+     "morph": "n.ins.du.n"
+    },
+    {
+     "surface": "patreṇa",
+     "gloss": "leaf",
+     "grounds": "instrumental leaf",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "tadabhāvataḥ",
+     "gloss": "that-absence",
+     "grounds": "ablative from that absence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substitutes are used when flowers and water are absent?",
+   "premises": [
+    "absence is stated",
+    "flower and water are named",
+    "leaf is used",
+    "that absence follows"
+   ],
+   "inference": "When flowers and water are absent, a leaf is used.",
+   "uncertainties": [],
+   "plain_english": "If flowers and water are absent, use a leaf."
+  },
+  {
+   "verse": 881,
+   "rows": [
+    {
+     "surface": "tadabhāve",
+     "gloss": "that-absence",
+     "grounds": "locative absence",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "akṣatenaiva",
+     "gloss": "unbroken-rice-only",
+     "grounds": "akṣata instrumental plus eva",
+     "morph": "n.ins.sg.m"
+    },
+    {
+     "surface": "dūrvayā",
+     "gloss": "dūrvā-grass",
+     "grounds": "instrumental dūrvā",
+     "morph": "n.ins.sg.f"
+    },
+    {
+     "surface": "tadabhāvataḥ",
+     "gloss": "that-absence",
+     "grounds": "ablative from that absence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substitutes are used when the previous offering is absent?",
+   "premises": [
+    "that absence is stated",
+    "unbroken rice is used",
+    "dūrvā grass is used",
+    "that absence follows"
+   ],
+   "inference": "When the previous item is absent, unbroken rice or dūrvā is used.",
+   "uncertainties": [],
+   "plain_english": "If that is absent, use unbroken rice or dūrvā grass."
+  },
+  {
+   "verse": 882,
+   "rows": [
+    {
+     "surface": "mūlānte",
+     "gloss": "root-end",
+     "grounds": "locative root end",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "devatānāma",
+     "gloss": "deity-name",
+     "grounds": "deity name compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ṅeyutañca",
+     "gloss": "with-ṅa-and",
+     "grounds": "ṅa-yuta plus ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "raise",
+     "grounds": "optative of sam-ud-dhṛ",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How is the deity name raised at the root end?",
+   "premises": [
+    "root end is named",
+    "deity name is named",
+    "with ṅa is added",
+    "raise is commanded"
+   ],
+   "inference": "The deity name with ṅa is raised at the root end.",
+   "uncertainties": [],
+   "plain_english": "At the root end, raise the deity name with ṅa."
+  },
+  {
+   "verse": 883,
+   "rows": [
+    {
+     "surface": "hṛdayena",
+     "gloss": "heart",
+     "grounds": "instrumental heart",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādyañca",
+     "gloss": "foot-wash-and",
+     "grounds": "pādya plus ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śirasārghyaṃ",
+     "gloss": "head-offering",
+     "grounds": "śiras-arghya compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "offer",
+     "grounds": "optative of nivid",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How are foot-wash and arghya offered with heart and head?",
+   "premises": [
+    "heart is named",
+    "foot-wash is named",
+    "head offering is named",
+    "offer is commanded"
+   ],
+   "inference": "Foot-wash is offered with heart and arghya with head.",
+   "uncertainties": [],
+   "plain_english": "Offer foot-wash with the heart and arghya with the head."
+  },
+  {
+   "verse": 884,
+   "rows": [
+    {
+     "surface": "śikhāmantreṇa",
+     "gloss": "crest-mantra",
+     "grounds": "śikhā-mantra instrumental",
+     "morph": "n.ins.sg.m"
+    },
+    {
+     "surface": "gandhañca",
+     "gloss": "scent-and",
+     "grounds": "gandha plus ca",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative flower",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "netreṇa",
+     "gloss": "eye",
+     "grounds": "instrumental eye",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "give",
+     "grounds": "causative optative of dā",
+     "morph": "3.sg.act.caus.opt"
+    }
+   ],
+   "question": "How are scent and flower given with crest mantra and eye?",
+   "premises": [
+    "crest mantra is named",
+    "scent is named",
+    "flower is named",
+    "eye is named",
+    "give is commanded"
+   ],
+   "inference": "Scent and flower are given with crest mantra and eye.",
+   "uncertainties": [],
+   "plain_english": "Give scent and flower with crest mantra and eye."
+  },
+  {
+   "verse": 885,
+   "rows": [
+    {
+     "surface": "pādyādikaṃ",
+     "gloss": "foot-wash-and-so-forth",
+     "grounds": "pādya-ādi compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nivedyātha",
+     "gloss": "offering-then",
+     "grounds": "nivedya plus atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānīyañca",
+     "gloss": "bathing-and",
+     "grounds": "snānīya plus ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "offer",
+     "grounds": "optative of nivid",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What is offered after foot-wash and bathing items?",
+   "premises": [
+    "foot-wash and so forth are named",
+    "offering then is named",
+    "bathing is named",
+    "offer is commanded"
+   ],
+   "inference": "Foot-wash items and bathing items are offered.",
+   "uncertainties": [],
+   "plain_english": "Offer foot-wash items and bathing items."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "nānāratnasamāyuktasvarṇasiṃhāsanānvite",
+     "gloss": "various-gems-adorned-gold-lion-throne-endowed",
+     "grounds": "long compound with anvite",
+     "morph": "adj.loc.sg.m"
+    }
+   ],
+   "question": "On what kind of throne is the deity seated?",
+   "premises": [
+    "various gems are named",
+    "gold lion throne is named",
+    "endowed is stated"
+   ],
+   "inference": "The deity is on a gold lion throne adorned with various gems.",
+   "uncertainties": [],
+   "plain_english": "The deity is seated on a gold lion throne adorned with gems."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "ghṛtenodvartanaṃ",
+     "gloss": "ghee-anointing",
+     "grounds": "ghṛta-udvartana compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "do",
+     "grounds": "gerundive of kṛ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "mind",
+     "grounds": "instrumental mind",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What anointing is done with ghee and mind?",
+   "premises": [
+    "ghee anointing is named",
+    "do is stated",
+    "mind is named",
+    "thereafter is stated"
+   ],
+   "inference": "Ghee anointing is done with the mind thereafter.",
+   "uncertainties": [],
+   "plain_english": "Then anoint with ghee, done mentally."
+  },
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "sahasraiḥ",
+     "gloss": "thousands",
+     "grounds": "instrumental thousands",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "svarṇakumbhaiśca",
+     "gloss": "gold-pots-and",
+     "grounds": "svarṇa-kumbha plus ca",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "sugandhajalapūritaiḥ",
+     "gloss": "fragrant-water-filled",
+     "grounds": "sugandha-jala-pūrita compound",
+     "morph": "adj.ins.pl.m"
+    }
+   ],
+   "question": "With what filled gold pots is bathing performed?",
+   "premises": [
+    "thousands are named",
+    "gold pots are named",
+    "fragrant water filled is stated"
+   ],
+   "inference": "Bathing uses thousands of gold pots filled with fragrant water.",
+   "uncertainties": [],
+   "plain_english": "Thousands of gold pots filled with fragrant water are used."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "nānātīrthodakaiḥ",
+     "gloss": "various-tīrtha-waters",
+     "grounds": "nānā-tīrtha-udaka compound",
+     "morph": "n.ins.pl.n"
+    },
+    {
+     "surface": "śuddhairgandharājasahasrakaiḥ",
+     "gloss": "pure-sandal-king-thousands",
+     "grounds": "śuddha-gandharāja-sahasraka compound",
+     "morph": "adj.ins.pl.m"
+    }
+   ],
+   "question": "What waters and sandal are used for bathing?",
+   "premises": [
+    "various tīrtha waters are named",
+    "pure sandal king thousands are named"
+   ],
+   "inference": "Various tīrtha waters and pure sandal are used.",
+   "uncertainties": [],
+   "plain_english": "Various sacred waters and pure sandal are used."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "pañcāmṛtaiḥ",
+     "gloss": "five-nectars",
+     "grounds": "pañca-amṛta compound",
+     "morph": "n.ins.pl.n"
+    },
+    {
+     "surface": "pañcagavyaiḥ",
+     "gloss": "five-cow-products",
+     "grounds": "pañca-gavya compound",
+     "morph": "n.ins.pl.n"
+    },
+    {
+     "surface": "snāpayettadanantaram",
+     "gloss": "bathe-thereafter",
+     "grounds": "snāpayet plus tadanantaram",
+     "morph": "3.sg.act.caus.opt"
+    }
+   ],
+   "question": "What five substances are used to bathe the deity thereafter?",
+   "premises": [
+    "five nectars are named",
+    "five cow products are named",
+    "bathe thereafter is commanded"
+   ],
+   "inference": "The deity is bathed with five nectars and five cow products.",
+   "uncertainties": [],
+   "plain_english": "Then bathe with five nectars and five cow products."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "saptamṛttikayā",
+     "gloss": "seven-clays",
+     "grounds": "saptan-mṛttikā instrumental",
+     "morph": "n.ins.sg.f"
+    },
+    {
+     "surface": "yukta",
+     "gloss": "with",
+     "grounds": "participle with",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "śītalena",
+     "gloss": "cool",
+     "grounds": "instrumental cool",
+     "morph": "adj.ins.sg.n"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "water",
+     "grounds": "instrumental water",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What clay and water are used for bathing?",
+   "premises": [
+    "seven clays are named",
+    "with is stated",
+    "cool water is named",
+    "and is stated"
+   ],
+   "inference": "Seven clays with cool water are used.",
+   "uncertainties": [],
+   "plain_english": "Use seven clays with cool water."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "suvāsitajalenaiva",
+     "gloss": "fragrant-water-only",
+     "grounds": "suvāsita-jala plus eva",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "goddess",
+     "grounds": "genitive goddess",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "accusative bathing",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "perform",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How is the goddess bathed with fragrant water?",
+   "premises": [
+    "fragrant water only is named",
+    "goddess is named",
+    "bathing is named",
+    "perform is commanded"
+   ],
+   "inference": "The goddess is bathed with fragrant water.",
+   "uncertainties": [],
+   "plain_english": "Perform the goddess's bathing with fragrant water."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "bhṛṅgārāṣṭakakumbhaistu",
+     "gloss": "bhṛṅgāra-eight-pots-but",
+     "grounds": "bhṛṅgāra-aṣṭaka-kumbha plus tu",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "goddess",
+     "grounds": "genitive goddess",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "accusative bathing",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-done",
+     "grounds": "absolutive of vidhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the goddess bathed with eight bhṛṅgāra pots?",
+   "premises": [
+    "eight bhṛṅgāra pots are named",
+    "goddess is named",
+    "bathing is named",
+    "having done is stated",
+    "and is stated"
+   ],
+   "inference": "The goddess is bathed with eight bhṛṅgāra pots.",
+   "uncertainties": [],
+   "plain_english": "Bathe the goddess with eight bhṛṅgāra pots."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "kārpāsaṃ",
+     "gloss": "cotton",
+     "grounds": "cotton cloth",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "vālkalaṃ",
+     "gloss": "bark",
+     "grounds": "bark cloth",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "vārkṣaṃ",
+     "gloss": "tree",
+     "grounds": "tree cloth",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "koṣajaṃ",
+     "gloss": "silk",
+     "grounds": "silk cloth",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "vastramiṣyate",
+     "gloss": "cloth-is-desired",
+     "grounds": "passive of iṣ",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "What kinds of cloth are desired for the deity?",
+   "premises": [
+    "cotton is named",
+    "bark is named",
+    "tree is named",
+    "silk is named",
+    "cloth is desired"
+   ],
+   "inference": "Cotton, bark, tree, and silk cloths are desired.",
+   "uncertainties": [],
+   "plain_english": "Cotton, bark, tree, or silk cloth is desired."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "sapītāmbarakauṣaṃ",
+     "gloss": "with-yellow-garment-silk",
+     "grounds": "sa-pīta-ambara-kauṣa compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svadevāya",
+     "gloss": "own-deity",
+     "grounds": "sva-deva dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utsṛjet",
+     "gloss": "release",
+     "grounds": "optative of utsṛj",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What yellow garment is released for one's own deity?",
+   "premises": [
+    "yellow garment silk is named",
+    "or is stated",
+    "own deity is named",
+    "and is stated",
+    "release is commanded"
+   ],
+   "inference": "A yellow garment is released for one's own deity.",
+   "uncertainties": [],
+   "plain_english": "Release a yellow garment for one's own deity."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "nīlaraktaṃ",
+     "gloss": "blue-red",
+     "grounds": "nīla-rakta compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadvastraṃ",
+     "gloss": "which-cloth",
+     "grounds": "yat-vastra compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tatsarvatra",
+     "gloss": "that-everywhere",
+     "grounds": "tat-sarvatra compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "avoid",
+     "grounds": "optative of vivarj",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Which cloth colors are to be avoided everywhere?",
+   "premises": [
+    "blue-red is named",
+    "but is stated",
+    "which cloth is named",
+    "that everywhere is stated",
+    "avoid is commanded"
+   ],
+   "inference": "Blue-red cloth is to be avoided everywhere.",
+   "uncertainties": [],
+   "plain_english": "Avoid blue-red cloth everywhere."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "vastraṃ",
+     "gloss": "cloth",
+     "grounds": "accusative cloth",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dadyānmahādevyai",
+     "gloss": "give-great-goddess",
+     "grounds": "dadyāt plus mahādevyai",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "nānyasmai",
+     "gloss": "not-other",
+     "grounds": "na-anyasmai",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom should cloth be given and not given?",
+   "premises": [
+    "cloth is named",
+    "give to great goddess is stated",
+    "not to other is stated",
+    "but is stated",
+    "ever is stated"
+   ],
+   "inference": "Cloth is given to the great goddess, never to another.",
+   "uncertainties": [],
+   "plain_english": "Give cloth to the great goddess, never to another."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "giving",
+     "grounds": "absolutive of dā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgalepanaṃ",
+     "gloss": "body-anointing",
+     "grounds": "aṅga-lepana compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kākiryaṃ",
+     "gloss": "kākirya",
+     "grounds": "substance named",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "gandhacandanasihlakaiḥ",
+     "gloss": "scent-sandal-sihlaka",
+     "grounds": "gandha-candana-sihlaka compound",
+     "morph": "n.ins.pl.m"
+    }
+   ],
+   "question": "What anointing and substances follow the giving of cloth?",
+   "premises": [
+    "giving is stated",
+    "body anointing is named",
+    "kākirya is named",
+    "scent sandal sihlaka is named"
+   ],
+   "inference": "After giving cloth, body anointing with kākirya and scent substances follows.",
+   "uncertainties": [],
+   "plain_english": "After giving cloth, anoint the body with kākirya and scent substances."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "yantramadhye",
+     "gloss": "yantra-middle",
+     "grounds": "yantra-madhya locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "samānīya",
+     "gloss": "bring",
+     "grounds": "absolutive of sam-ā-nī",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaskuryāt",
+     "gloss": "bow",
+     "grounds": "optative of namas-kṛ",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "focused",
+     "grounds": "participle focused",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How is the deity bowed to within the yantra?",
+   "premises": [
+    "yantra middle is named",
+    "bring is stated",
+    "bow is commanded",
+    "focused is stated"
+   ],
+   "inference": "Bring the deity into the yantra middle and bow with focus.",
+   "uncertainties": [],
+   "plain_english": "Bring into the yantra middle and bow with focus."
+  }
+ ]
+}

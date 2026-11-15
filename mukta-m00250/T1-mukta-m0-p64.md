@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[two-śiva](śiva-dvayaṃ) [droṇa](droṇam) [thus](iti) [stated](uktam) [that](tat) [pair](dvayaṃ) [khāri](khāniḥ) [is-called](ucyate)
+[two-shivas](śivadvayaṃ) [droṇa](droṇam) [thus-called](ityuktaṃ) [that-two](tadvayaṃ) [khāni](khāni)+[is-said](rucyate)
 
 ## mukta-m0-p64-v1577
-[hundred-bhāra](śata-bhāram) [best](uttamam) [declared](proktam) [fifty](pañcāśat) [middle](madhyamam) [should-be](bhavet)
+[hundred-bhāra](śatabhāram)+[best](uttamaṃ) [is-declared](proktaṃ) [fifty](pañcāśan)+[middle](madhyamaṃ) [becomes](bhavet)
 
 ## mukta-m0-p64-v1578
-[small](kṣudram) [but](tu) [five-bhāra](pañca-bhāram) [should-be](syāt) [low](nīcam) [two-bhāra](bhāra-dvayam) [likewise](tathā)
+[small](kṣudraṃ)+[five-bhāra](pañcabhāraṃ) [would-be](syāt)+[low](nīcaṃ) [two-bhāra](bhāradvayaṃ) [thus](tathā)
 
 ## mukta-m0-p64-v1579
-[āḍhaka](āḍhakam) [but](tu) [oblation](havim) [one-should-make](kuryāt) [its-half](tat-ardham) [caru](caruḥ) [is-called](ucyate)
+[āḍhaka](āḍhakam)+[tu](tu) [oblation](haviṃ) [should-make](kuryāt) [half](tadardhaṃ) [caru](caru)+[is-said](rucyate)
 
 ## mukta-m0-p64-v1580
-[gaurī-etc.](gaurī-ādi) [of-śaktis](śaktinām) [and](ca) [also](eva) [of-attendants](paricārāṇām) [likewise](tathā) [also](eva) [and](ca)
+[gaurī-etc](gauryādi) [of-śaktis](śaktināṃ)+[and](ca)+[eva](eva) [of-attendants](paricārāṇāṃ) [and](tathā)+[eva](eva) [ca](ca)
 
 ## mukta-m0-p64-v1581
-[oblation](haviḥ) [and](ca) [also](eva) [four-parts](catur-bhāva) [two-divisions](dvi-bhāgam) [but](tu) [one-should-offer](nivedayet)
+[oblation](haviḥ)+[ca](ca)+[eva](eva) [fourfold](caturbhāva)+[division](dvibhāgaṃ)+[tu](tu) [should-offer](nivedayet)
 
 ## mukta-m0-p64-v1582
-[oblation](haviḥ) [eightfold](aṣṭa-vidham) [declared](proktam) [mung-bean-rice](mudga-annam) [milk-rice](pāyasa-annagam)
+[oblation](haviḥ)+[eightfold](aṣṭavidhaṃ) [is-declared](proktaṃ) [mudga-rice](mudgānnaṃ) [payasa-rice](pāyasānnagaṃ)
 
 ## mukta-m0-p64-v1583
-[black-gram-rice](māṣa-annam) [and](ca) [also](eva) [plain-rice](śuddha-annam) [oblation](haviḥ) [eightfold](aṣṭa-vidham) [should-be](bhavet)
+[māṣa-rice](māṣānnaṃ)+[ca](ca)+[eva](eva) [pure-rice](śuddhānnaṃ) [oblation](haviḥ)+[eightfold](aṣṭavidhaṃ) [becomes](bhavet)
 
 ## mukta-m0-p64-v1584
-[rice-half](taṇḍula-ardham) [and](ca) [mung-bean](mudgam) [and](ca) [little](alpam) [with-salt](lavaṇa-saṃyutam)
+[half-rice](taṇḍulārdhaṃ)+[ca](ca) [mudga](mudgaṃ)+[ca](ca)+[little](alpaṃ) [with-salt](lavaṇasaṃyutam)
 
 ## mukta-m0-p64-v1585
-[with-plantain-and-jaggery](kadalī-gula-saṃyuktam) [cumin](jīrakam) [and](ca) [pepper](marīcikā)
+[with-banana-syrup](kadalīgulasaṃyuktaṃ) [cumin](jīrakaṃ)+[ca](ca) [pepper](marīcikā)
 
 ## mukta-m0-p64-v1586
-[mung-bean](mudgam) [and](ca) [coconut](nārikelam) [and](ca) [with-jackfruit](panasa-phala-samanvitam)
+[mudga](mudgaṃ)+[ca](ca) [coconut](nārikelaṃ)+[ca](ca) [with-jackfruit](panasaphalasamanvitam)
 
 ## mukta-m0-p64-v1587
-[cake-rice](apūpa-annam) [thus](iti) [known](khyātam) [at-all-times](sarva-kāle) [indeed](tu) [one-should-give](dāpayet)
+[apūpa-rice](apūpānnaṃ)+[iti](iti) [called](khyātaṃ) [at-all-times](sarvakāle) [tu](tu) [should-give](dāpayet)
 
 ## mukta-m0-p64-v1588
-[with-curd-and-ghee](dadhi-ghṛta-samāyuktam) [five-colored-oblation](pañca-varṇa-haviḥ) [one-should-give](dadet)
+[with-curd-ghee](dadhighṛtasamāyuktaṃ) [five-colored-oblation](pañcavarṇahavir)+[dadet](dadet)
 
 ## mukta-m0-p64-v1589
-[equal-to-that](tat-samam) [with-jaggery](gula-saṃyuktam) [with-pepper-and-salt](marīcī-lavaṇa-saṃyutam)
+[equal](tatsamaṃ) [with-syrup](gulasaṃyuktaṃ) [with-pepper-salt](marīcīlavaṇasaṃyutam)
 
 ## mukta-m0-p64-v1590
-[ghee](ghṛtam) [and](ca) [grinding](peṣaṇam) [having-done](kṛtvā) [pure-condiment](śuddha-upadaṃśam) [is-called](ucyate)
+[ghee](ghṛtaṃ)+[ca](ca) [grinding](peṣaṇaṃ) [having-done](kṛtvā) [pure-relish](śuddhopadaṃśaṃ)+[is-said](ucyate)
 
 ## mukta-m0-p64-v1591
-[sour-condiment](amla-upadaṃśam) [of-these](eteṣām) [with-pepper-salt-and-ghee](marīcī-lavaṇa-ghṛtaiḥ) [joined](yutam)
+[sour-relish](amlopadaṃśaṃ)+[of-these](eteṣāṃ) [with-pepper-salt-ghee](marīcīlavaṇaghṛtairyutam)
 
 ## mukta-m0-p64-v1592
-[overcooked](ati-pakvam) [and](ca) [uncooked](apakvam) [one-should-avoid](varjayet) [indeed](tu) [especially](viśeṣataḥ)
+[overcooked](atipakvam)+[uncooked](apakvaṃ)+[ca](ca) [should-avoid](varjayet)+[tu](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p64-v1593
-[dry](śuṣkam) [wet](ārdram) [and](ca) [uncooked](apakvam) [and](ca) [sour-cooked](amla-pakvam) [threefold](tridhā) [should-be](bhavet)
+[dry](śuṣkaṃ)+[moist-cooked](ārdravapakvaṃ)+[ca](ca)+[sour-cooked](amlapakvaṃ) [threefold](tridhā) [becomes](bhavet)
 
 ## mukta-m0-p64-v1594
-[white-and-green](śveta-harī) [fruit](phalam) [and](ca) [also](eva) [creeper-jackfruit](vallī-panasam) [also](eva) [and](ca)
+[white-harī](śvetaharī) [fruit](phalaṃ)+[ca](ca)+[eva](eva) [vine-jackfruit](vallīpanasaṃ)+[eva](eva) [ca](ca)
 
 ## mukta-m0-p64-v1595
-[drumstick](śigrū) [mārjārakālī](mārjārakāliñ) [and](ca) [timisī](timisīm) [citron](mātulaṅgakam)
+[śigru](śigrū)+[mārjāra](mārjāraka)+[kāli](kāliṃ)+[ca](ca) [timisi](timisī)+[mātulaṅga](mātulaṅgakaṃ)
 
 ## mukta-m0-p64-v1596
-[this](idam) [elsewhere](anyatra) [perforated-substance](cidravyam) [with-devotion](bhakti-yuktam) [should-be](bhavet) [the-wise-know](viduḥ)
+[this](idam)+[elsewhere](anyatra) [cid-dravya](cidravyaṃ) [with-devotion](bhaktiyuktaṃ) [would-be](bhaved)+[knowers](viduḥ)
 
 ## mukta-m0-p64-v1597
-[other-root](anya-mūlam) [but](tu) [of-these](eteṣām) [root-class](mūla-vargam) [one-should-give](dadet) [the-wise](budhaḥ)
+[other-root](anyamūlaṃ)+[tu](tu) [of-these](eteṣāṃ) [root-class](mūlavargaṃ) [should-give](daded)+[wise](budhaḥ)
 
 ## mukta-m0-p64-v1598
-[śakti-born](śakti-jātiḥ) [but](tu) [of-all](sarveṣām) [one-should-avoid](varjayet) [indeed](tu) [especially](viśeṣataḥ)
+[śakti-class](śaktijātiḥ)+[tu](tu) [of-all](sarveṣāṃ) [should-avoid](varjayet)+[tu](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p64-v1599
-[pepper](marīcī) [mustard](sarṣapam) [powder](cūrṇam) [cumin](jīrakam) [coconut](nārikelakam)
+[pepper](marīcī)+[mustard](sarṣapaṃ) [powder](cūrṇaṃ) [cumin](jīrakaṃ) [coconut](nārikelakaṃ)
 
 ## mukta-m0-p64-v1600
-[ghee](ghṛtam) [and](ca) [having-mixed](melayitvā) [indeed](tu) [all-substances](sarva-dravyāṇi) [combined](saṃyutam)
+[ghee](ghṛtaṃ)+[ca](ca) [mixing](melayitvā) [tu](tu) [with-all-dravyas](sarvadravyāṇi) [joined](saṃyutam)

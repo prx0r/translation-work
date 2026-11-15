@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p39",
  "verse": 967,
- "question": "How many days constitute the year according to this reckoning?",
+ "question": "What should be shown after giving culluka?",
  "premises": [
-  "A year is being defined.",
-  "The count includes three hundred.",
-  "The count includes an additional sixty."
+  "culluka is given",
+  "then life-mudra is shown",
+  "showing is prescribed"
  ],
- "inference": "The year consists of three hundred and sixty days.",
- "uncertainties": [],
- "plain_english": "And a year is indeed three hundred and sixty days."
+ "inference": "After giving culluka, one should show the life-mudra.",
+ "uncertainties": [
+  "meaning of culluka"
+ ],
+ "plain_english": "After giving culluka, then show the life-mudra."
 }

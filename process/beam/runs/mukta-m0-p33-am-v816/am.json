@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p33",
  "verse": 816,
- "question": "Which material among those listed grants all accomplishments?",
+ "question": "What self-offering mantra is recited with svāhā?",
  "premises": [
-  "Several materials were listed",
-  "Crystal is singled out",
-  "It gives all accomplishments"
+  "The phrase is a fused mantra.",
+  "It contains self and offering.",
+  "Svāhā closes it."
  ],
- "inference": "Among them, crystal is the material that grants all accomplishments",
- "uncertainties": [],
- "plain_english": "Among them, crystal indeed grants all accomplishments."
+ "inference": "The practitioner recites a self-offering mantra ending in svāhā.",
+ "uncertainties": [
+  "Internal sandhi is not split."
+ ],
+ "plain_english": "I myself, I offer me, svāhā."
 }

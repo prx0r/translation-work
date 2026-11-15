@@ -1,16 +1,14 @@
 {
  "song": "mukta-m0-p36",
  "verse": 880,
- "question": "What doctrinal claim places the hand on one's own knee orb?",
+ "question": "What substitutes are used when flowers and water are absent?",
  "premises": [
-  "hand is the agent",
-  "own modifies the object",
-  "knee orb is the target"
+  "absence is stated",
+  "flower and water are named",
+  "leaf is used",
+  "that absence follows"
  ],
- "inference": "The verse describes a bodily placement of hand on knee.",
- "uncertainties": [
-  "exact posture",
-  "whether svaṃ modifies hastaḥ or jānumaṇḍalam"
- ],
- "plain_english": "The hand is placed on one's own knee orb."
+ "inference": "When flowers and water are absent, a leaf is used.",
+ "uncertainties": [],
+ "plain_english": "If flowers and water are absent, use a leaf."
 }

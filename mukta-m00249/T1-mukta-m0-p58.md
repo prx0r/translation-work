@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[kubjikā+yugala](kubjakayugala) [womb+emanation+crest+maker](garbhasargacūlikākara-)
+[kubja-pair](kubjakayugala) [garbha-summit](garbhasargacūlikākara-) [fragment](niṣkalamidamahaṃbhāvanāni) [fragment](nissaṃganiru-)
 
 ## mukta-m0-p58-v1427
-[partless](niṣkalam) [this](idam) [I+contemplation](ahaṃbhāvanāni) [unattached+free-from](nissaṃganiru-)
+[fragment](kallola) [fragment](kolāhala) [fragment](sukhakarasannibhṛta) [fragment](nika-)
 
 ## mukta-m0-p58-v1428
-[wave](kallola) [uproar](kolāhala) [bliss+making](sukhakara) [full+of](sannibhṛta) [without](nika-)
+[fragment](śāṃka) [fragment](śatasahasrasaṃkāśa) [fragment](paraṃśivam-) [fragment](nirviṣṭya)
 
 ## mukta-m0-p58-v1429
-[fear](śāṃka) [hundred+thousand+resembling](śatasahasrasaṃkāśa) [supreme+Śiva](paraṃśivam-)
+[fragment](anusaṃdhatīdaṃ) [fragment](mūlādhāre) [fragment](smare) [fragment](ra-)
 
 ## mukta-m0-p58-v1430
-[having-entered](nirviṣṭya) [contemplates+this](anusaṃdhatīdaṃ) [at-root-support](mūlādhāre) [one-should-remember](smare) [at](ra-)
+[fragment](nābhau) [fragment](viṣṇumudāhṛtaṃ) [fragment](hṛdare) [fragment](ye)
 
 ## mukta-m0-p58-v1431
-[at-navel](nābhau) [Viṣṇu](viṣṇum) [is-declared](udāhṛtaṃ) [at-heart](hṛdare) [(ye)]((ye)) [only](kevalaṃ) [Rudra](rudraṃ-)
+[fragment](kevalaṃ) [fragment](rudraṃ-) [fragment](nāsāgre) [fragment](biṃdureva)
 
 ## mukta-m0-p58-v1432
-[at-nose-tip](nāsāgre) [bindu+indeed](biṃdureva) [and](ca) [called-nāda](nādākhyaṃ) [in-middle-of-eyebrows](bhruvamadhye) [but](tu-)
+[fragment](ca) [fragment](nādākhyaṃ) [fragment](bhruvamadhye) [fragment](tu-)
 
 ## mukta-m0-p58-v1433
-[one-should-know](vidyād) [above+dance](ūrdhvanṛttaṃ) [one-should-contemplate](vicintayet)
+[fragment](vidyādūrdhvanṛttaṃ) [fragment](vicintayet) [fragment](śivamadhyagato) [fragment](śāṃtaṃ)
 
 ## mukta-m0-p58-v1434
-[gone-to-middle-of-Śiva](śivamadhyagato) [peaceful](śāṃtaṃ) [beyond-peace](śāntyātītaṃ) [supreme-of-supremes](parātparaṃ)
+[fragment](śāntyātītaṃ) [fragment](parātparaṃ) [fragment](ādi) [fragment](caṃdraṃ)
 
 ## mukta-m0-p58-v1435
-[primordial](ādi) [moon](caṃdraṃ) [death](mṛtyu) [ornament](bhūṣaṇa) [moon+fragment](caṃdrakhaṇḍa) [quality+foremost](guṇāgra-)
+[fragment](mṛtyu) [fragment](bhūṣaṇa) [fragment](caṃdrakhaṇḍa) [fragment](guṇāgra-)
 
 ## mukta-m0-p58-v1436
-[poison+form](halākṛti) [auspicious](sāṃ) [beautiful](śugmaṃ) [three-peaked](triśikha) [two+bindus](dvibiṃbo-) [with-parts](ssakalo) [Śiva](śivaḥ)
+[fragment](halākṛti) [fragment](sāṃ) [fragment](śugmaṃ) [fragment](triśikha)
 
 ## mukta-m0-p58-v1437
-[having-ascended-palace](prāsādamāruhya) [to-be-led-along-path-of-parts](kalādhvanīyaṃ-) [in-supreme-nectar](parāmṛte) [there](tatra) [O-fair-haired-one](sukeśi) [immediately](sadhya)
+[fragment](dvibiṃbo-) [fragment](ssakalo) [fragment](śivaḥ) [fragment](prāsādamāruhya)
 
 ## mukta-m0-p58-v1438
-[dense-with-bliss](ānaṃdasāṃdraṃ) [tasting](rasayaṃ) [in-light](prakāśe) [eats](rbhakṣamati) [unattainable-by-others-who-leap](laṃghaparairalaṃghyam)
+[fragment](kalādhvanīyaṃ-) [fragment](parāmṛte) [fragment](tatra) [fragment](sukeśi)
 
 ## mukta-m0-p58-v1439
-[peak-of-palace](prāsādaśṛṃga-) [bodiless](manaṃgam) [they-make-subordinate](upāṃgayaṃti)
+[fragment](sadhya) [fragment](ānaṃdasāṃdraṃ) [fragment](rasayaṃ) [fragment](prakāśe)
 
 ## mukta-m0-p58-v1440
-[of-palace-alone](prāsādamātrasya) [they-worship](bhajaṃti-) [Śiva](śivettoraṇa) [having-made-drink](pāyanītvāṃ)
+[fragment](rbhakṣamati) [fragment](laṃghaparairalaṃghyam) [fragment](prāsādaśṛṃga-) [fragment](manaṃgamupāṃgayaṃti)
 
 ## mukta-m0-p58-v1441
-[consciousness](saṃviṃvayayiṃjiṃmana-) [mindless](amanasko) [having-bowed](namaskṛtvā) [not](na) [anything+even](kiṃcidapi) [one-should-think](ciṃtayet)
+[fragment](prāsādamātrasya) [fragment](bhajaṃti-) [fragment](śivettoraṇa) [fragment](pāyanītvāṃ)
 
 ## mukta-m0-p58-v1442
-[I+indeed+this](ahamevedyalaṃ) [I-know](vedmi) [you](tvamāla) [Śiva+indeed](śivameva) [and](ca)
+[fragment](saṃviṃvayayiṃjiṃmana-) [fragment](amanasko) [fragment](namaskṛtvā) [fragment](na)
 
 ## mukta-m0-p58-v1443
-[of-fire](vahnervṛṣadvayaṃ) [power](śakti) [to-sun](ravināya) [in-two-shining-ones](vibhāvibhau)
+[fragment](kiṃcidapi) [fragment](ciṃtayet) [fragment](ahamevedyalaṃ) [fragment](vedmi)
 
 ## mukta-m0-p58-v1444
-[when](yadaṣṣaḍadhva) [wave](laharīṃ) [impurity](kāluṣyam) [becomes-pacified](upaśāmyati)
+[fragment](tvamāla) [fragment](śivameva) [fragment](ca) [fragment](vahnervṛṣadvayaṃ)
 
 ## mukta-m0-p58-v1445
-[of-those-two](tayor) [for-sake-of-tasting](āsvādanārthasya) [consisting-of-Śiva-and-Śakti](śivaśaktimayo) [indeed](hi) [he](saḥ)
+[fragment](śakti) [fragment](ravināya) [fragment](vibhāvibhau) [fragment](yadaṣṣaḍadhva)
 
 ## mukta-m0-p58-v1446
-[in-heart-of-palace](prāsādahṛdayecchā) [with-breath](saniśvāsa) [supreme](paramaśśivaḥ)
+[fragment](laharīṃ) [fragment](kāluṣyamupaśāmyati) [fragment](tayorāsvādanārthasya) [fragment](śivaśaktimayo)
 
 ## mukta-m0-p58-v1447
-[of-those-bitten-by-serpent-of-saṃsāra](saṃsārasarpadaṣṭānāṃ) [this](etad) [is](asti) [great-medicine](mahauṣadham)
+[fragment](hi) [fragment](saḥ) [fragment](prāsādahṛdayecchā) [fragment](saniśvāsa)
 
 ## mukta-m0-p58-v1448
-[when-obtained](labdhe) [southern](dakṣiṇa) [existence](bhavave) [what](kiṃ) [who](yastālavṛnte) [for-us](naḥ)
+[fragment](paramaśśivaḥ) [fragment](saṃsārasarpadaṣṭānāṃ) [fragment](etadasti) [fragment](mahauṣadham)
 
 ## mukta-m0-p58-v1449
-[by-pervaded-things](vyāpyair) [pervader](vyāpaka) [causing-to-experience](bhāvako) [sound](dhvanimanān) [toward-each-object](pratyartha-)
+[fragment](labdhe) [fragment](dakṣiṇa) [fragment](bhavave) [fragment](kiṃ)
 
 ## mukta-m0-p58-v1450
-[by-pervaded-things](vyāpyair) [pervader](vyāpaka) [causing-to-experience](bhāvako) [sound](dhvanimanān) [toward-each-object](pratyartha-)
+[fragment](yastālavṛnte) [fragment](naḥ) [fragment](vyāpyairvyāpaka) [fragment](bhāvako)

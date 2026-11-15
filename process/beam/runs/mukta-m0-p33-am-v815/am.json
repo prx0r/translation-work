@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p33",
  "verse": 815,
- "question": "What actions must follow the construction of the wheel?",
+ "question": "How is the pair accepted in right-left order?",
  "premises": [
-  "The wheel is first constructed",
-  "Installation is prescribed",
-  "Worship is also prescribed"
+  "Acceptance is optative.",
+  "The pair is accusative.",
+  "Right and left are named."
  ],
- "inference": "After constructing the wheel one should install and worship it",
- "uncertainties": [],
- "plain_english": "Having made the wheel, one should install it and also worship it."
+ "inference": "The pair is accepted in right-left order by this means.",
+ "uncertainties": [
+  "The exact pair is unspecified."
+ ],
+ "plain_english": "One should accept the pair, right then left, in order, by this."
 }

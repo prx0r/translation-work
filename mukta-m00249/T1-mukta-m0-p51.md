@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[caṇḍa-rudraḥ](caṇḍarudro) [mahā-moḍī](mahāmoḍī) [vibudhaḥ](vibudho) [vihala-uttamaḥ](vihalottamaḥ)
+[fierce-rudra](caṇḍarudro) [great-modi](mahāmoḍī) [wise](vibudho) [excellent-vihala](vihalottamaḥ)
 
 ## mukta-m0-p51-v1252
-[etān](etān) [vimāna-pālān](vimānapālāśca) [ca](ca) [pūrva-ādīni](pūrvādīni) [kramāt](kramānnyaset) [nyaset](nyaset)
+[these](etān) [vimana-guardians](vimānapālān) [and](ca) [from-east-etc](pūrvādīni) [in-order](kramāt) [place](nyaset)
 
 ## mukta-m0-p51-v1253
-[puruṣam](puruṣaṃ) [prakṣutam](prakṣutaṃ) [ca](ca) [eva](eva) [govindaḥ](govindo) [matta-nāyakam](mattanāyakaṃ)
+[man](puruṣam) [prakshuta](prakṣutam) [and](caiva) [govinda](govindo) [intoxicated-leader](mattanāyakam)
 
 ## mukta-m0-p51-v1254
-[ajam](ajaṃ) [vai](vai) [sṛṣṭi-mūrtim](sṛṣṭi) [ca](mūrtiśca) [hiraṇya-garbham](hiraṇyagarbhaścaturmukhaṃ) [catur-mukham](caturmukhaṃ)
+[unborn](ajam) [indeed](vai) [creation](sṛṣṭi) [form](mūrtiś) [and](ca) [golden-womb](hiraṇyagarbhaḥ) [four-faced](caturmukham)
 
 ## mukta-m0-p51-v1255
-[kārtikeyam](kārtikeyaśca) [ca](ca) [senam](senaṃ) [ca](ca) [ṣaṇ-mukhaḥ](ṣaṇmukho) [śikhi-vāhanaḥ](śikhivāhanaḥ)
+[karttikeya](kārtikeyaḥ) [and](ca) [army](senam) [and](ca) [six-faced](ṣaṇmukhaḥ) [peacock-vehicle](śikhivāhanaḥ)
 
 ## mukta-m0-p51-v1256
-[māṇikkam](māṇikkaṃ) [puṣpa-rāgam](puṣparāgaṃ) [tu](tu) [sphaṭika-ābham](sphaṭikābhaṃ) [tu](tu) [*](*) [*](*)
+[ruby](māṇikkam) [topaz](puṣparāgam) [indeed](tu) [crystal-like](sphaṭikābham) [indeed](tu) [unknown](*) [unknown](*) [unknown](*) 
 
 ## mukta-m0-p51-v1257
-[ratnam](ratnaṃ) [ca](ca) [eva](eva) [mākhyātam](mākhyātaṃ) [labdha-mānena](labdhamānena) [kārayet](kārayet)
+[gem](ratnam) [and](caiva) [declared](mākhyātam) [by-obtained-measure](labdhamānena) [make](kārayet)
 
 ## mukta-m0-p51-v1258
-[nanda](nandadyabdhi) [dyabdhi](dyabdhi) [hṛdaya-vallike](hṛdayavallike) [praṇajām](praṇajāmapi) [api](api) [mṛtukā](mṛtukā)
+[nanda-dyabdhi](nandadyabdhi) [heart-vallike](hṛdayavallike) [praṇajāmapi](praṇajāmapi) [mṛtukā](mṛtukā)
 
 ## mukta-m0-p51-v1259
-[su-mukhī](sumukhī) [su-manā](sumanā) [ca](ca) [eva](eva) [ku-mukhī](kumukhī) [kāma-vardhanī](kāmavardhanī)
+[good-faced](sumukhī) [good-minded](sumanā) [and](caiva) [bad-faced](kumukhī) [desire-increasing](kāmavardhanī)
 
 ## mukta-m0-p51-v1260
-[para-siddham](parassiddhaṃ) [padma-aktikam](padmaktikaṃ) [ca](ca) [eva](eva) [mantra-jñaḥ](maṃtrajño) [mantra-vit-tamaḥ](maṃtravittamaḥ)
+[supremely-accomplished](parassiddham) [lotus-gem](padmaktikam) [and](caiva) [mantra-knower](maṃtrajñaḥ) [mantra-best-knower](maṃtravittamaḥ)
 
 ## mukta-m0-p51-v1261
-[siddhā](siddhāsvetāḥ) [svetāḥ](svetāḥ) [samākhyātāḥ](samākhyātā) [teṣām](teṣāṃ) [varṇāni](varṇāni) [kā](kā) [śṛṇu](śṛṇu)
+[accomplished-white](siddhāsvetāḥ) [declared](samākhyātā) [their](teṣām) [colors](varṇāni) [what](kā) [hear](śṛṇu)
 
 ## mukta-m0-p51-v1262
-[śaṃkha-pālaḥ](śaṃkhapālaśca) [ca](ca) [gulikaḥ](gulikaḥ) [padmakaḥ](padmako) [vāsukī](vāsukī) [tathā](tathā)
+[shankhapala](śaṃkhapālaḥ) [and](ca) [bead](gulikaḥ) [padmaka](padmakaḥ) [vasuki](vāsukī) [so](tathā)
 
 ## mukta-m0-p51-v1263
-[uttamam](uttamaṃ) [pūrva-dik-bhāge](pūrvadigbhāge) [catur-vaktram](caturvaktraṃ) [ca](cāgnigocare) [agni-gocare](agnigocare)
+[best](uttamam) [east-direction](pūrvadigbhāge) [four-faced](caturvaktram) [and](ca) [fire-region](agnigocare)
 
 ## mukta-m0-p51-v1264
-[vāruṇyām](vāruṇyā) [siṃha-mukhī](sihmamukhī) [ca](ca) [eva](eva) [vāyavyām](vāyavyāṃ) [tu](tu) [adhaḥ-mukham](adhomukhaṃ)
+[varuni](vāruṇyā) [lion-faced](sihmamukhī) [and](caiva) [northwest](vāyavyām) [indeed](tu) [downward-faced](adhomukham)
 
 ## mukta-m0-p51-v1265
-[iti](ityete) [ete](ete) [ca](cāṣṭabhūtānāṃ) [aṣṭa-bhūtānām](aṣṭabhūtānāṃ) [parivāra-agre](parivārāgre) [balim](baliṃ) [kṣipet](kṣipet)
+[thus](ityete) [and](ca) [of-eight-elements](aṣṭabhūtānām) [retinue-front](parivārāgre) [offering](balim) [throw](kṣipet)
 
 ## mukta-m0-p51-v1266
-[karavīram](karavīraṃ) [caṃpakam](caṃpakaścaiva) [ca](ca) [eva](eva) [nīla-utpalam](nīlotpalamathāṣṭakam) [atha](atha) [aṣṭakam](aṣṭakam)
+[oleander](karavīram) [champaka](caṃpakam) [and](caiva) [blue-lotus](nīlotpalam) [then](atha) [eightfold](aṣṭakam)
 
 ## mukta-m0-p51-v1267
-[dvāra-ūrdhve](dvārordhve) [vāma-pārśve](vāmapārśve) [sarasvatīm](sarasvatīṃ) [samprapūjayet](saṃprapūjayet)
+[door-above](dvārordhve) [left-side](vāmapārśve) [sarasvati](sarasvatīm) [worship](saṃprapūjayet)
 
 ## mukta-m0-p51-v1268
-[dvārasya](dvārasya) [dakṣiṇe](dakṣiṇe) [pārśve](pārśve) [gaṅgām](gaṃgā) [naṃdīśvaram](naṃdīśvaraṃ) [yajet](yajet)
+[door's](dvārasya) [right](dakṣiṇe) [side](pārśve) [ganges](gaṃgā) [nandishvara](naṃdīśvaram) [worship](yajet)
 
 ## mukta-m0-p51-v1269
-[bhuvaṅgam](bhuvaṃgaṃ) [ca](ca) [pataṅgam](pataṅgaṃ) [ca](ca) [ūrdhva-antam](ūrdhvāntaṃ) [samprapūjayet](saṃprapūjayet)
+[serpent](bhuvaṃgam) [and](ca) [moth](pataṃgam) [and](ca) [upward-end](ūrdhvāntam) [worship](saṃprapūjayet)
 
 ## mukta-m0-p51-v1270
-[gaṅgām](gaṃgāṃ) [ca](ca) [eva](eva) [mahā-naṃdīm](mahānaṃdī) [mahā-kālam](mahākālaṃ) [yamunām](yamunāṃ) [tathā](tathā)
+[ganges](gaṃgām) [and](caiva) [great-nandi](mahānaṃdī) [great-kala](mahākālam) [yamuna](yamunām) [so](tathā)
 
 ## mukta-m0-p51-v1271
-[vāgīśam](vāgīśaṃ) [ca](ca) [viśeṣeṇa](viśeṣeṇa) [āsanam](āsanaṃ) [tu](tu) [iti](iti) [paṭhyate](paṭhyate)
+[speech-lord](vāgīśam) [and](ca) [especially](viśeṣeṇa) [seat](āsanam) [thus](iti) [is-read](paṭhyate)
 
 ## mukta-m0-p51-v1272
-[dvāreṣu](dvāreṣu) [devatāḥ](devatāssarve) [sarve](sarve) [paraspara-nirīkṣaṇam](parasparanirīkṣaṇam)
+[at-doors](dvāreṣu) [deities](devatāḥ) [all](sarve) [mutual-looking](parasparanirīkṣaṇam)
 
 ## mukta-m0-p51-v1273
-[pataṅgasya](pataṃgasyordhve) [ūrdhve](ūrdhve) [gaṇeśam](gaṇeśaṃ) [tu](tu) [tasya](tasya) [vāme](vāme) [sarasvatīm](sarasvatī)
+[moth's-above](pataṃgasyordhve) [ganesha](gaṇeśam) [indeed](tu) [his](tasya) [left](vāme) [sarasvati](sarasvatī)
 
 ## mukta-m0-p51-v1274
-[yamunām](yamunāṃ) [ca](ca) [mahā-kālam](mahākālaṃ) [tasya](tasya) [vāme](vāme) [tu](tu) [pūjayet](pūjayet)
+[yamuna](yamunām) [and](ca) [great-kala](mahākālam) [his](tasya) [left](vāme) [indeed](tu) [worship](pūjayet)
 
 ## mukta-m0-p51-v1275
-[ṛṣabham](ṛṣabhaṃ) [pūjayet](pūjayedagre) [agre](agre) [gandha-puṣpa-ādibhiḥ](gaṃdhapuṣpādibhirbudhaḥ) [budhaḥ](budhaḥ)
+[bull](ṛṣabham) [worship](pūjayet) [in-front](agre) [with-sandal-flowers-etc](gaṃdhapuṣpādibhiḥ) [wise](budhaḥ)

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1010,
- "question": "What ritual act is performed for the deity using that specified vessel?",
+ "question": "What default counts may be used when no number is prescribed?",
  "premises": [
-  "A specific vessel has been indicated.",
-  "The deity is the object of ritual action.",
-  "The act is one of satisfying or offering."
+  "hundred-and-eight or thirty may be used",
+  "sometimes either count applies"
  ],
- "inference": "Whoever satisfies the deity with that vessel performs the prescribed offering.",
- "uncertainties": [],
- "plain_english": "Noble lady, whoever satisfies the deity with that vessel..."
+ "inference": "the default counts are one hundred eight or thirty",
+ "uncertainties": [
+  "none"
+ ],
+ "plain_english": "The default counts are one hundred eight or thirty, sometimes either."
 }

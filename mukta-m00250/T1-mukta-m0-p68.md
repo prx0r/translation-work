@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[four-cornered](caturaśraṃ) [altar](sthaṇḍilaṃ) [having-made](kṛtvā) [in-īśāna-direction](īśāne) [circular+altar](vṛttasthaṇḍilam)
+[square-altar](caturaśraṃ) [altar](sthaṇḍilaṃ) [having-made](kṛtvā) [in-northeast](īśāne) [round+altar](vṛttasthaṇḍilam)
 
 ## mukta-m0-p68-v1677
-[in-īśāna-direction](īśāne) [sadāśiva](sadāśivaṃ) [mantra](mantraṃ) [in-east](pūrve) [indeed](tu) [īśa+mantra](īśamantrakam)
+[in-northeast](īśāne) [sadāśiva-mantra](sadāśivaṃ) [mantra](mantraṃ) [in-east](pūrve) [tu](tu) [īśa-mantra](īśamantrakam)
 
 ## mukta-m0-p68-v1678
-[in-north](uttare) [brahma+mantra](brahmamantrantu) [according-to](yathā) [ability](śaktyā) [indeed](tu) [one-should-offer-oblation](homayet)
+[in-north](uttare) [brahma-mantra](brahmamantrantu) [as-able](yathā) [śakti](śaktyā) [tu](tu) [one-should-offer](homayet)
 
 ## mukta-m0-p68-v1679
-[twofold](dviguṇaṃ) [one-should-worship](pūjayettatra) [there](tatra) [great+oblation](mahāhavirnivedayet) [one-should-offer](nivedayet)
+[twofold](dviguṇaṃ) [one-should-worship](pūjayettatra) [there](tatra) [great-offering](mahāhavirnivedayet)
 
 ## mukta-m0-p68-v1680
-[from-indra](indrādi) [up-to-īśāna](aiśānaparyantaṃ) [eight+directions](aṣṭadik) [in-direction](diśi) [deities](devatāḥ)
+[from-indra-to-īśāna](indrādyaiśānaparyantaṃ) [eight-directions](aṣṭadik) [in-direction](diśi) [deities](devatāḥ)
 
 ## mukta-m0-p68-v1681
-[remaining](śeṣāṇi) [other](anyāni) [all](sarvāṇi) [fire-rite](agnikārya) [as-prescribed](uktam) [one-should-perform](ācaret)
+[remaining](śeṣāṇyanyāni) [all](sarvāṇi) [fire-rite](agnikāryoktamācaret)
 
 ## mukta-m0-p68-v1682
-[directional+oblation](diśāhomam) [thus](iti) [declared](proktaṃ) [vāstu+oblation](vāstuhomam) [thus](iti) [listen](śṛṇu)
+[district-offering](diśāhomamiti) [thus](proktaṃ) [vāstu-offering](vāstuhomamiti) [listen](śṛṇu)
 
 ## mukta-m0-p68-v1683
-[vāstu+pot](vāstukuṃbhaṃ) [having-installed](samāropya) [vāstu+deities](vāstudevān) [one-should-worship](samarcayet)
+[vāstu-pot](vāstukuṃbhaṃ) [having-placed](samāropya) [vāstu-deities](vāstudevān) [one-should-worship](samarcayet)
 
 ## mukta-m0-p68-v1684
-[eight+eight+squares](aṣṭāṣṭakapadaṃ) [or](vā'pi) [nine+nine+squares](navaṃ) [nine+squares](navapadameva) [indeed](vā)
+[eight-eightfold](aṣṭāṣṭakapadaṃ) [or](vā'pi) [nine](navaṃ) [ninefold](navapadameva) [or](vā)
 
 ## mukta-m0-p68-v1685
-[beginning-with-brahmā](brahmādi) [deity](devam) [having-worshipped](abhyarcya) [beginning-with-caskī](caskī) [beginning-with](prabhṛti) [one-should-worship](arcayet)
+[brahmā-etc](brahmādi) [deity](devamabhyarcya) [caskī-etc](caskī) [prabhṛti](prabhṛtirarcayet)
 
 ## mukta-m0-p68-v1686
-[vāstu+deities](vāstudevān) [having-worshipped](samabhyarcya) [with-bali+mantra](balimantreṇa) [one-should-offer](dāpayet)
+[vāstu-deities](vāstudevān) [having-worshipped](samabhyarcya) [offering-with-mantra](balimantreṇa) [one-should-give](dāpayet)
 
 ## mukta-m0-p68-v1687
-[with-own-name](svanādyena) [indeed](eva) [with-mantra](mantreṇa) [fuel-sticks](samidhāñca) [indeed](eva) [one-should-offer-oblation](homayet)
+[by-own-mantra](svanādyenaiva) [mantra](mantreṇa) [fuel-sticks](samidhāñcaiva) [one-should-offer](homayet)
 
 ## mukta-m0-p68-v1688
-[vāstu+puṇyāha](vāstupuṇyāham) [indeed](eva) [indeed](tu) [with-vāstu+pot](vāstukuṃbhena) [water](toyakam)
+[vāstu-purification](vāstupuṇyāhamevantu) [vāstu-pot](vāstukuṃbhena) [water](toyakam)
 
 ## mukta-m0-p68-v1689
-[thus](iti) [indeed](evaṃ) [oblation](homam) [declared](ākhyātaṃ) [with-respective](svasvaiḥ) [with-mantras](mantraiḥ) [indeed](tu) [is-offered](hūyate)
+[thus](ityevaṃ) [offering](homamākhyātaṃ) [by-own-mantras](svasvairmantraistu) [is-offered](hūyate)
 
 ## mukta-m0-p68-v1690
-[is-given](dīyate) [indeed](tu) [śiva+knowledge](śivajñānaṃ) [is-destroyed](kṣīyate) [indeed](tu) [impurity+triad](malatrayam)
+[is-given](dīyate) [tu](tu) [śiva-knowledge](śivajñānaṃ) [is-destroyed](kṣīyate) [tu](tu) [three-impurities](malatrayam)
 
 ## mukta-m0-p68-v1691
-[sevenfold](saptā) [śaiva](śaivam) [declared](uddiṣṭam) [in-this-text](atate) [them](tāni) [gone](gataḥ) [listen](śṛṇu)
+[seven-śaiva](saptāśaivamuddiṣṭamatate) [those](tāni) [gone](gataśśṛṇu)
 
 ## mukta-m0-p68-v1692
-[manda+śaiva](mandāśaivāḥ) [third](tṛtīyam) [indeed](tu) [fourth](caturthāñca) [indeed](tu) [śaiva](śaivakam)
+[third-mandāśaiva](mandāśaivāstṛtīyantu) [fourth](caturthāñco) [tu](tu) [śaiva](śaivakam)
 
 ## mukta-m0-p68-v1693
-[seventh](saptamañca) [final+śaiva](antyaśaivantu) [śaiva+divisions](śaivabhedāḥ) [are-declared](prakīrtitāḥ)
+[seventh-antyaśaiva](saptamañcāntyaśaivantu) [śaiva-divisions](śaivabhedāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p68-v1694
-[ādi+śaiva](ādi) [śaiva](śaivaṃ) [of-brāhmaṇas](viprāṇāṃ) [by-śiva](śivena) [initiated](dīkṣita) [is-remembered](smṛtaḥ)
+[ādi-śaiva](ādi) [of-brāhmaṇas](śaivaṃ) [viprāṇāṃ](viprāṇāṃ) [by-śiva](śivena) [initiated](dīkṣita) [remembered](smṛtaḥ)
 
 ## mukta-m0-p68-v1695
-[kauśika](kauśikaḥ) [kāśyapa](kāśyapaḥ) [and](ca) [bhāradvāja](bhāradvājaḥ) [maitra](maitrireva) [indeed](ca)
+[kauśika](kauśikaḥ) [kāśyapa](kāśyapaścaiva) [bhāradvāja](bhāradvājo) [maitri](maitrireva) [ca](ca)
 
 ## mukta-m0-p68-v1696
-[of-them](teṣāñca) [of-sages](ṛṣīṇāṃ) [mother](mātā) [and](ca) [indeed](eva) [śiva+brāhmaṇas](śivadvijāḥ)
+[of-them](teṣāñca) [ṛṣis](ṛṣīṇāṃ) [mother](mātā) [caiva](caiva) [śiva-brāhmaṇas](śivadvijāḥ)
 
 ## mukta-m0-p68-v1697
-[ādi+initiated](ādi) [initiated](dīkṣitaḥ) [knower-of-four-vedas](caturvedi) [śiva+worship](śivapūjāṃ) [not](na) [should-perform](kārayet)
+[ādi-initiated](ādi) [four-vedas](dīkṣitaścaturvedi) [śiva-worship](śivapūjāṃ) [not](na) [should-do](kārayet)
 
 ## mukta-m0-p68-v1698
-[by-ādi+śaiva](ādiśaivena) [to-be-done](kartavyaṃ) [of-brāhmaṇas-and-others](viprādīnāñca) [initiation](dīkṣayā)
+[by-ādiśaiva](ādiśaivena) [should-be-done](kartavyaṃ) [of-brāhmaṇas-etc](viprādīnāñca) [initiation](dīkṣayā)
 
 ## mukta-m0-p68-v1699
-[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [again+initiation](punardīkṣāṃ) [not](na) [exists](vidyate)
+[again-initiation](punardīkṣāṃ) [not](na) [is-known](vidyate)
 
 ## mukta-m0-p68-v1700
-[bathing](snapanaṃ) [for-purification-of-bond](pāgaśuddhyarthaṃ) [should-cause-to-perform](kārayettu) [śiva+brāhmaṇa](śivadvijaḥ)
+[ablution](snapanaṃ) [for-purity](pāgaśuddhyarthaṃ) [one-should-do](kārayettu) [śiva-brāhmaṇa](śivadvijaḥ)

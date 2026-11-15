@@ -1,0 +1,593 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1001,
+   "rows": [
+    {
+     "surface": "niḥsetuḥ",
+     "gloss": "without-dam",
+     "grounds": "compound niḥ+setuḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "neuter accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "ablative of time",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nimnaṃ",
+     "gloss": "downward",
+     "grounds": "neuter accusative direction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prasarpati",
+     "gloss": "flows",
+     "grounds": "root prasṛp present",
+     "morph": "3.sg.act-pres root prasṛp"
+    }
+   ],
+   "question": "What happens to water when no dam restrains its flow?",
+   "premises": [
+    "without dam water flows instantly downward",
+    "damless flow is uncontrolled"
+   ],
+   "inference": "absence of a dam lets water rush downward immediately",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Without a dam, water flows downward instantly."
+  },
+  {
+   "verse": 1002,
+   "rows": [
+    {
+     "surface": "śūdrāṇāṃ",
+     "gloss": "of-śūdras",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "candrabindustha",
+     "gloss": "moon-dot-situated",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aukāraḥ",
+     "gloss": "au-kāra",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "seturucyate",
+     "gloss": "dam-is-called",
+     "grounds": "passive present root vac",
+     "morph": "3.sg.pass-pres root vac"
+    }
+   ],
+   "question": "What is called the dam for śūdras?",
+   "premises": [
+    "śūdras have a moon-dot situated au-kāra",
+    "that au-kāra is called their dam"
+   ],
+   "inference": "the au-kāra situated at the moon-dot serves as the śūdra dam",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "For śūdras, the au-kāra situated at the moon-dot is called the dam."
+  },
+  {
+   "verse": 1003,
+   "rows": [
+    {
+     "surface": "dvisetavaḥ",
+     "gloss": "two-dams",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samākhyātāḥ",
+     "gloss": "are-declared",
+     "grounds": "passive participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijātayaḥ",
+     "gloss": "twice-born",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many dams are declared for the twice-born?",
+   "premises": [
+    "twice-born are declared two-dammed",
+    "this holds in every way"
+   ],
+   "inference": "the twice-born possess two dams in every respect",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The twice-born are declared to have two dams in every way."
+  },
+  {
+   "verse": 1004,
+   "rows": [
+    {
+     "surface": "setuṃ+vinā",
+     "gloss": "without-dam",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved+vayarthaṃ",
+     "gloss": "would-be-vain",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act-opt root bhū"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "setuṃ",
+     "gloss": "dam",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-practice",
+     "grounds": "optative root samācar",
+     "morph": "3.sg.act-opt root samācar"
+    }
+   ],
+   "question": "Why should one practice the dam?",
+   "premises": [
+    "without dam practice would be vain",
+    "therefore one should practice the dam"
+   ],
+   "inference": "the dam must be practiced because without it practice is vain",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Without the dam, practice would be vain; therefore one should practice the dam."
+  },
+  {
+   "verse": 1005,
+   "rows": [
+    {
+     "surface": "pūrvabījaṃ",
+     "gloss": "prior-seed",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japan",
+     "gloss": "reciting",
+     "grounds": "present participle root jap",
+     "morph": "m.nom.sg pres-part root jap"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parabījantu",
+     "gloss": "later-seed",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃspṛśet",
+     "gloss": "should-touch",
+     "grounds": "optative root saṃspṛś",
+     "morph": "3.sg.act-opt root saṃspṛś"
+    }
+   ],
+   "question": "What should one do with the later seed while reciting the prior seed?",
+   "premises": [
+    "one reciting prior seed should touch later seed",
+    "touching links the two seeds"
+   ],
+   "inference": "the practitioner reciting the prior seed should touch the later seed",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One reciting the prior seed should touch the later seed."
+  },
+  {
+   "verse": 1006,
+   "rows": [
+    {
+     "surface": "evam+ukta",
+     "gloss": "thus-declared",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "procedure",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vilambaṃ",
+     "gloss": "delay",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tvaritaṃ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "abandon",
+     "grounds": "optative root tyaj",
+     "morph": "3.sg.act-opt root tyaj"
+    }
+   ],
+   "question": "How should delay be treated under the declared procedure?",
+   "premises": [
+    "under declared procedure delay should be quickly abandoned",
+    "speed is required"
+   ],
+   "inference": "one should quickly abandon delay according to the declared procedure",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Under the declared procedure, one should quickly abandon delay."
+  },
+  {
+   "verse": 1007,
+   "rows": [
+    {
+     "surface": "gaṇanāvidhim",
+     "gloss": "counting-rule",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ullaṅghya",
+     "gloss": "transgressing",
+     "grounds": "gerund root ullaṅgh",
+     "morph": "m.nom.sg gerund root ullaṅgh"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recites",
+     "grounds": "optative root jap",
+     "morph": "3.sg.act-opt root jap"
+    },
+    {
+     "surface": "tajjapaṃ",
+     "gloss": "that-japa",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must one do if the counting rule is transgressed during japa?",
+   "premises": [
+    "transgressing counting rule and reciting requires repeating that japa",
+    "the japa must be done again"
+   ],
+   "inference": "if the counting rule is transgressed, that japa must be repeated",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "If one transgresses the counting rule while reciting, that japa must be repeated."
+  },
+  {
+   "verse": 1008,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karamālāyāṃ",
+     "gloss": "finger-rosary",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mātṛkāyāṃ",
+     "gloss": "in-mātṛkā",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative counting supports may be used likewise?",
+   "premises": [
+    "finger-rosary or mātṛkā may be used",
+    "both are used likewise"
+   ],
+   "inference": "counting may be done on finger-rosary or mātṛkā likewise",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Alternatively, counting may be done on the finger-rosary or in the mātṛkā likewise."
+  },
+  {
+   "verse": 1009,
+   "rows": [
+    {
+     "surface": "nityajape",
+     "gloss": "daily-japa",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "home",
+     "gloss": "homa",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "coditā",
+     "gloss": "prescribed",
+     "grounds": "passive participle root cod",
+     "morph": "f.nom.sg pass-part root cod"
+    }
+   ],
+   "question": "What applies when no number is prescribed for daily japa or homa?",
+   "premises": [
+    "where number is not prescribed for daily japa or homa",
+    "a default count applies"
+   ],
+   "inference": "when no number is prescribed, the stated default counts are used",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Where no number is prescribed for daily japa or homa, the default counts apply."
+  },
+  {
+   "verse": 1010,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "compound numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṃśat",
+     "gloss": "thirty",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "sometimes",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What default counts may be used when no number is prescribed?",
+   "premises": [
+    "hundred-and-eight or thirty may be used",
+    "sometimes either count applies"
+   ],
+   "inference": "the default counts are one hundred eight or thirty",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The default counts are one hundred eight or thirty, sometimes either."
+  },
+  {
+   "verse": 1011,
+   "rows": [
+    {
+     "surface": "yathāśakti",
+     "gloss": "according-to-ability",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "japa",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund root kṛ",
+     "morph": "m.nom.sg gerund root kṛ"
+    },
+    {
+     "surface": "prāṇāyāmaṃ",
+     "gloss": "prāṇāyāma",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "gerund root vidhā",
+     "morph": "m.nom.sg gerund root vidhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should follow japa performed according to ability?",
+   "premises": [
+    "after japa according to ability one performs prāṇāyāma",
+    "prāṇāyāma completes the rite"
+   ],
+   "inference": "japa according to ability is followed by prāṇāyāma",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "After performing japa according to ability, one performs prāṇāyāma."
+  },
+  {
+   "verse": 1012,
+   "rows": [
+    {
+     "surface": "tejomayaṃ",
+     "gloss": "tejas-filled",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japaphalaṃ",
+     "gloss": "japa-fruit",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-goddess",
+     "grounds": "genitive singular",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "hand",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "should-offer",
+     "grounds": "optative root samṛ",
+     "morph": "3.sg.act-opt root samṛ"
+    }
+   ],
+   "question": "Where should the tejas-filled fruit of japa be offered?",
+   "premises": [
+    "the tejas-filled fruit of japa should be offered",
+    "it is offered into the goddess's hand"
+   ],
+   "inference": "the fruit of japa is offered into the hand of the goddess",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The tejas-filled fruit of japa should be offered into the hand of the goddess."
+  }
+ ]
+}

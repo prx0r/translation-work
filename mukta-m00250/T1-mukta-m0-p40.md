@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-śiva+agre(śivāgre) maṇṭapam(maṇṭapaṃ) kuryāt(kuryāt) go+mayena(gomayena) tu(tu) lepayet(lepayet)
+[at-shiva's-front](śivāgre) [pavilion](maṇṭapaṃ) [should-make](kuryāt) [with-cow-dung](gomayena) [indeed](tu) [should-plaster](lepayet)
 
 ## mukta-m0-p40-v977
-sva+sram(svaśraṃ) ratam(rataṃ) vā(vāpi) api(api) athavā(athavā) kārpāsam(kārpāsam) eva(eva) ca(ca)
+[own?](svaśraṃ) [pleased?](rataṃ) [or](vāpi) [or](athavā) [kārpāsa?](kārpāsameva) [and](ca)
 
 ## mukta-m0-p40-v978
-sthalikām(sthalikāṃ) taṇḍule(taṇḍule) ca(ca) eva(eva) tat+madhye(tanmadhye) tantu(tantu) rakṣakam(rakṣakam)
+[small-pot](sthalikāṃ) [in-rice](taṇḍule) [and-indeed](caiva) [in-its-middle](tanmadhye) [thread-protector](tantu+rakṣakam)
 
 ## mukta-m0-p40-v979
-nava+vastra+samāyuktam(navavastrasamāyuktaṃ) sarva+doṣa+samanvitam(sarvadoṣasamanvitam)
+[with-new-cloth](navavastra+samāyuktaṃ) [with-all-defects?](sarvadoṣa+samanvitam)
 
 ## mukta-m0-p40-v980
-gandha+puṣpa+ādibhiḥ(gandhapuṣpādibhiḥ) pūjyam(pūjyam) aghoreṇa(aghoreṇa) deśikam(deśikam)
+[with-scent-flowers-etc](gandhapuṣpādibhiḥ) [should-worship](pūjyam) [by-aghora](aghoreṇa) [teacher](deśikam)
 
 ## mukta-m0-p40-v981
-umā+sahitam(umāsahitam) eva(eva) uktam(uktam) candra+śekharam(candraśekharam) eva(eva) ca(ca)
+[with-umā](umā+sahitam) [indeed-said](evoktaṃ) [candraśekhara](candraśekharam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p40-v982
-ṣoḍaśa(ṣoḍaśa) pratimāyām(pratimāyāñca) ca(ca) kautukam(kautukaṃ) bandhayet(bandhayet) kramāt(kramāt)
+[sixteen](ṣoḍaśa) [images](pratimāyāñca) [festive-thread](kautukaṃ) [should-bind-in-order](bandhayet+kramāt)
 
 ## mukta-m0-p40-v983
-aindre(aindre) ca(ca) pāvake(pāvake) vā(vā'tha) atha(atha) yamaḥ(yamo) vai(vai) rākṣase(rākṣase) api(api) vā(vā)
+[in-indra](aindre) [or-in-fire](ca+pāvake) [or](vā'tha) [yama](yamo) [indeed](vai) [in-rākṣasa](rākṣase'pi) [or](vā)
 
 ## mukta-m0-p40-v984
-maṇṭape(maṇṭape) samalam(samalaṃ) kuryāt(kuryāt) tat+madhye(tanmadhye) vedikām(vedikāṃ) kuru(kuru)
+[in-pavilion](maṇṭape) [should-make-clean](samalaṃ+kuryāt) [in-its-middle](tanmadhye) [altar](vedikāṃ) [make](kuru)
 
 ## mukta-m0-p40-v985
-hasta+dvayam(hastadvayantu) tu(tu) vistāram(vistāram) upavedi+samāyutam(upavedisamāyutam)
+[two-hands-width](hastadvayantu) [breadth](vistāram) [with-sub-altar](upavedi+samāyutam)
 
 ## mukta-m0-p40-v986
-eka+agnim(ekāgnim) adhamam(adhamam) proktam(proktaṃ) vṛttam(vṛttaṃ) vā(vā) catur+aśrakam(caturaśrakam)
+[one-fire-lowest](ekāgni+madhamaṃ) [said](proktaṃ) [round](vṛttaṃ) [or](vā) [square](caturaśrakam)
 
 ## mukta-m0-p40-v987
-yat+dvāra+abhimukham(yadvārābhimukhaṃ) liṅgam(liṅgaṃ) tat+dvāram(tadvāraṃ) kumbha+pūjayet(kuṃbhapūjayet)
+[whichever-door-facing](yadvāra+abhimukhaṃ) [liṅga](liṅgaṃ) [that-door](tadvāraṃ) [pot-worship](kuṃbha+pūjayet)
 
 ## mukta-m0-p40-v988
-ṣoḍaśa+staṃbha+saṃyuktam(ṣoḍaśastaṃbhasaṃyuktaṃ) dvādaśa+staṃbham(dvādaśastaṃbhameva) eva(eva) ca(ca)
+[sixteen-pillars](ṣoḍaśa+staṃbha+saṃyuktaṃ) [twelve-pillars](dvādaśa+staṃbham) [indeed](eva) [and](ca)
 
 ## mukta-m0-p40-v989
-yuga+toraṇa+saṃyuktam(yugatoraṇasaṃyuktaṃ) darbha+mālā+samanvitam(darbhamālāsamanvitam)
+[with-two-toraṇas](yuga+toraṇa+saṃyuktaṃ) [with-darbha-garland](darbha+mālā+samanvitam)
 
 ## mukta-m0-p40-v990
-vedikā+sthaṇḍilam(vedikāsthaṇḍilaṃ) kuryāt(kuryāt) aṣṭa+droṇaiḥ(aṣṭadroṇaiśca) ca(ca) śālibhiḥ(śālibhiḥ)
+[altar-ground](vedikā+sthaṇḍilaṃ) [should-make](kuryāt) [with-eight-droṇas](aṣṭa+droṇaiśca) [with-rice](śālibhiḥ)
 
 ## mukta-m0-p40-v991
-tat+madhye(tanmadhye) nalinam(nalinaṃ) likhya(likhya) aṣṭa+patram(aṣṭapatraṃ) sa+karṇikam(karṇikam)
+[in-its-middle](tanmadhye) [lotus](nalinaṃ) [having-drawn](likhya) [eight-petaled](aṣṭapatraṃ) [with-pericarp](sa+karṇikam)
 
 ## mukta-m0-p40-v992
-aṣṭa+vidyeśvarān(aṣṭavidyeśvarāhyete) hi(hi) ete(ete) pūrva+ādi+krama+vinyaset(pūrvādikramavinyaset)
+[eight-vidyeśvaras](aṣṭa+vidyeśvarāḥ) [these](hyete) [from-east-in-order](pūrvādi+krama+vinyaset)
 
 ## mukta-m0-p40-v993
-śiva+śaktim(śivaśaktiṃ) vardhanīm(vardhanīṃ) pūjya(pūjya) parā+śakti+samanvitam(parāśaktisamanvitam)
+[śiva-śakti](śiva+śaktiṃ) [increasing](vardhanīṃ) [having-worshipped](pūjya) [with-parāśakti](parāśakti+samanvitam)
 
 ## mukta-m0-p40-v994
-dvāra+kumbham(dvārakuṃbhaṃ) samādāya(samādāya) pūrva+ādi+īśa+antam(pūrvādīśāntam) ucyate(ucyate)
+[door-pot](dvāra+kuṃbhaṃ) [having-taken](samādāya) [from-east-to-īśa](pūrvādi+īśāntam) [is-said](ucyate)
 
 ## mukta-m0-p40-v995
-vāruṇī+ṣaṭkam(vāruṇyaṣaṭkaṃ) tathā(tathā) aiśiny(aiśviny) avāyau(avāyau) some(some) yugasya(yugasyātriḥ) atriḥ(atriḥ) kumbham(kuṃbham) īśe(īśe)
+[varuṇa-six](vāruṇyaṣaṭkaṃ) [and](tathā) [īśāni](aiśvinyavāyau?) [some](some) [of-yuga](yugasyātriḥ) [pot](kuṃbham) [in-īśa](īśe)
 
 ## mukta-m0-p40-v996
-sarva+devatam(sarvadevatam) āvāhya(āvāhya) gandha+puṣpa+ādinā(gandhapuṣpādinā) arcayet('rcayet)
+[all-deities](sarva+devatam) [having-invoked](āvāhya) [with-scent-flowers-etc](gandhapuṣpādinā) [should-worship](arcayet)
 
 ## mukta-m0-p40-v997
-puṇya+aham(puṇyāhaṃ) vācayet(vācayet) tatra(tatra) kautukam(kautukaṃ) bandhayet(bandhayet) kramāt(kramāt)
+[purification-rite](puṇyāhaṃ) [should-recite](vācayet) [there](tatra) [festive-thread](kautukaṃ) [should-bind-in-order](bandhayet+kramāt)
 
 ## mukta-m0-p40-v998
-kuṇḍa+saṃskāram(kuṇḍasaṃskāram) eva(eva) uktam(uktam) nirmala+jvālam(nirmalajvālameva) eva(eva) ca(ca)
+[pot-purification](kuṇḍa+saṃskāram) [indeed-said](evokta) [pure-flame](nirmala+jvālam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p40-v999
-ācārya+śiṣyaiḥ(ācāryaśiṣyastairyuktaṃ) taiḥ(taiḥ) yuktam(yuktaṃ) homam(homaṃ) kuryāt(kuryāt) vicakṣaṇaḥ(vicakṣaṇaḥ)
+[teacher-disciple-together](ācārya+śiṣya+stairyuktaṃ) [homa](homaṃ) [should-do](kuryāt) [expert](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v1000
-bilvam(bilvañca) ca(ca) khādiram(khādirañca) ca(ca) eva(eva) nyagrodham(nyagrodhaṃ) vahnim(vahnimeva) eva(eva) ca(ca)
+[bilva](bilvañca) [and-khadira](khādirañcaiva) [nyagrodha](nyagrodhaṃ) [and-fire](vahnimeva) [and](ca)

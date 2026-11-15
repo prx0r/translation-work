@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1009,
- "question": "What vessel material is especially prescribed for all immobilizing rites?",
+ "question": "What applies when no number is prescribed for daily japa or homa?",
  "premises": [
-  "Immobilizing rites form a distinct class.",
-  "All such rites are included.",
-  "An earthen vessel is especially specified."
+  "where number is not prescribed for daily japa or homa",
+  "a default count applies"
  ],
- "inference": "For all immobilizing rites, an earthen vessel is especially prescribed.",
- "uncertainties": [],
- "plain_english": "But especially in all rites of immobilization, one should use an earthen vessel."
+ "inference": "when no number is prescribed, the stated default counts are used",
+ "uncertainties": [
+  "none"
+ ],
+ "plain_english": "Where no number is prescribed for daily japa or homa, the default counts apply."
 }

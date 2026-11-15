@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p20",
  "verse": 485,
- "question": "Which mantra accompanies the offering of a mirror in the ritual?",
+ "question": "Which materials are permitted for the vessel?",
  "premises": [
-  "A mirror is to be offered.",
-  "The mantra beginning 'sa yaścāyaṃ puruṣa' is specified.",
-  "The offering follows the established sequence."
+  "copper is named",
+  "earth-made is named",
+  "or api is stated",
+  "or metal-free is named"
  ],
- "inference": "One should likewise offer a mirror with the mantra 'sa yaścāyaṃ puruṣa'.",
- "uncertainties": [],
- "plain_english": "Likewise, one should offer a mirror with the mantra 'sa yaścāyaṃ puruṣa'."
+ "inference": "copper, earth-made, or metal-free materials are permitted",
+ "uncertainties": [
+  "exact vessel type not stated"
+ ],
+ "plain_english": "Copper, earth-made, or metal-free materials are permitted."
 }

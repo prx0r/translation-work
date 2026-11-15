@@ -2,49 +2,49 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-its-height(tasyotsedhaṃ) in-six-parts(rasāṃśe) but(tu) one-should-make(kuryāt) by-one-part(aṃśena) support(dhṛk) should-be(bhavet)
+[its-height](tasyotsedhaṃ) [in-essence-part](rasāṃśe) [but](tu) [should-do-by-part](kuryādaṃśena) [bearer](dhṛk) [becomes](bhavet)
 
 ## mukta-m0-p75-v1852
-face(āsyam) by-one(ekena) should-be-made(kartavyaṃ) lotus(padmam) by-one(ekena) one-should-make(kārayet)
+[mouth](āsyamekena) [by-one](āsyamekena) [should-be-done](kartavyaṃ) [lotus](padmamekena) [by-one](padmamekena) [should-be-made](kārayet)
 
 ## mukta-m0-p75-v1853
-by-half-part(ardhāṃśena) indeed(eva) should-be-made(kartavyā) face-width(āsya+vistāram) is-stated(ucyate)
+[by-half-part](ardhāṃśenaiva) [should-be-done](kartavyā) [mouth-expansion](āsyavistāram) [is-said](ucyate)
 
 ## mukta-m0-p75-v1854
-by-middle(madhyena) increase-foot(vṛddhi+pādaṃ) should-be(syāt) fourfold(caturguṇam) but(tu) in-forgetfulness(vismṛtau)
+[by-middle](madhyena) [growth-foot](vṛddhipādaṃ) [would-be](syāt) [fourfold](caturguṇantu) [in-forgetting](vismṛtau)
 
 ## mukta-m0-p75-v1855
-staff-height(daṇḍa+utsedhaṃ) by-three-parts(guṇāṃśena) by-part(bhāgena) height(utsedham) is-stated(ucyate)
+[staff-height](daṇḍotsedhaṃ) [by-quality-part](guṇāṃśena) [by-portion](bhāgena) [height](utsedham) [is-said](ucyate)
 
 ## mukta-m0-p75-v1856
-of-vīrakaṇḍa(vīrakāṇḍasya) width(vistāraṃ) foot-width(pāda+vistāram) indeed(eva) or(vā)
+[hero-stem](vīrakāṇḍasya) [expansion](vistāraṃ) [foot-expansion](pādavistārameva) [or](vā)
 
 ## mukta-m0-p75-v1857
-by-five-parts(pañcāṃśena) best(uttamā) knowledge(vidyā) by-four(cature) middle(madhyamaṃ) should-be(bhavet)
+[five-parts](pañcāṃśena) [highest](uttamā) [knowledge](vidyā) [four](cature) [middle](madhyamaṃ) [becomes](bhavet)
 
 ## mukta-m0-p75-v1858
-by-one-part(aṃśena) bracket-height(potikā+utsedhaḥ) upper-beam(uttarā) is-remembered(smṛtam)
+[by-part](aṃśena) [potika-height](potikotsedha) [northern](uttarā) [is-remembered](smṛtam)
 
 ## mukta-m0-p75-v1859
-height(utsedham) but(tu) threefold(tridhā) having-made(kṛtvā) one-part(eka+bhāgam) but(tu) *(* *) *
+[height](utsedhantu) [threefold](tridhā) [having-made](kṛtvā) [one-portion](ekabhāgantu)
 
 ## mukta-m0-p75-v1860
-in-pālikā(pālike) in-five-parts(pañcabhāge) but(tu) pair-member(yugāṅgaṃ) lotus-width(padma+vistṛtam)
+[in-palika](pālike) [five-portion](pañcabhāge) [tu](tu) [yoke-limb](yugāṅgaṃ) [lotus-expanded](padmavistṛtam)
 
 ## mukta-m0-p75-v1861
-pot-width(kuṃbha+tāra) three-part-one(tribhāga+ekaṃ) of-pot(kuṃbhasya) below(adhova) attached(lagnakam)
+[pot-triple-part-one](kuṃbhatāratribhāgaikaṃ) [pot-below](kuṃbhasyādhova) [attached](lagnakam)
 
 ## mukta-m0-p75-v1862
-neck(kandharaṃ) three-times(triguṇaṃ) pāli(pāli) its-three-part-one(tat+tribhāga+eka) kuśmala(kuśmalam)
+[neck](kandharaṃ) [threefold](triguṇaṃ) [palika](pāli) [triple-part-one](tattribhāgaika) [kushmala](kuśmalam)
 
 ## mukta-m0-p75-v1863
-lotus-height(padma+uccaṃ) three-parts(tīrthyaṃśam) but(tu) smooth(snigdagdham) and(ca) half-face-part(āsya+ardha+aṃśakam)
+[lotus-high](padmoccaṃ) [tirthya-part](tīrthyaṃśantu) [smooth-glossy](snignagdhañcāsyārdhamaṃśakam)
 
 ## mukta-m0-p75-v1864
-one-and-half(adhyardha) upper-lotus(ūrdhva+padmam) but(tu) six-parts(rasāṃśaṃ) neck-height(grīva+ucchrayam)
+[one-and-half](adhyardha) [upward-lotus](ūrdhvapadmantu) [essence-part](rasāṃśaṃ) [neck-height](grīvamucchrayam)
 
 ## mukta-m0-p75-v1865
-finial-height(ku+ucchrayaṃ) five-part-half(paṃcabhāga+ardham) thus(evam) finial(sthūpiḥ) is-declared(udāhṛtam)
+[neck-height](kumucchrayaṃ) [five-portion-half](paṃcabhāgārdhamevaṃ) [stupa](sthūpirudāhṛtam)
 
 ## mukta-m0-p75-v1866
-by-temple-half-measure(prāsāda+ardha+pramāṇena) half-maṇḍapa(ardha+maṇṭapam) is-desired(iṣyate)
+[temple-half-measure](prāsādārdhapramāṇena) [half-mandapa](ardhamaṇṭapamiṣyate)

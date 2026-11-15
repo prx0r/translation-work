@@ -1,0 +1,995 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 726,
+   "rows": [
+    {
+     "surface": "puṇyavṛkṣasamudbhūtaṃ",
+     "gloss": "meritorious-tree-born",
+     "grounds": "compound adjective from puṇya-vṛkṣa-samudbhūta",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "noun pātra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kuryān",
+     "gloss": "should-make",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act-opt (kṛ)"
+    },
+    {
+     "surface": "manoramam",
+     "gloss": "pleasing",
+     "grounds": "adjective manorama",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What kind of vessel should be made from a meritorious tree?",
+   "premises": [
+    "A meritorious-tree-born vessel is prescribed.",
+    "The vessel should be pleasing.",
+    "The making is enjoined."
+   ],
+   "inference": "The rite requires a pleasing vessel born from a meritorious tree.",
+   "uncertainties": [
+    "Exact ritual context is not specified in this verse."
+   ],
+   "plain_english": "One should make a pleasing vessel born from a meritorious tree."
+  },
+  {
+   "verse": 727,
+   "rows": [
+    {
+     "surface": "kāpālaṃ",
+     "gloss": "skull-vessel",
+     "grounds": "kāpāla vessel",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "sphuṭa",
+     "gloss": "clear",
+     "grounds": "adjective sphuṭa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrasiddhijanakaṃ",
+     "gloss": "mantra-accomplishment-causing",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "muktipradaṃ",
+     "gloss": "liberation-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "mauktikam",
+     "gloss": "pearl",
+     "grounds": "adjective mauktika",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What qualities are attributed to the skull vessel?",
+   "premises": [
+    "The skull vessel is clear.",
+    "It causes mantra accomplishment.",
+    "It gives liberation.",
+    "It is pearl-like."
+   ],
+   "inference": "The skull vessel is praised as clear, mantra-accomplishing, liberation-giving, and pearl-like.",
+   "uncertainties": [
+    "Whether these are simultaneous or alternative qualities is not stated."
+   ],
+   "plain_english": "The skull vessel is clear, causes mantra accomplishment, gives liberation, and is pearl-like."
+  },
+  {
+   "verse": 728,
+   "rows": [
+    {
+     "surface": "śāntike",
+     "gloss": "for-pacification",
+     "grounds": "locative of purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilāpātraṃ",
+     "gloss": "stone-vessel",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "stambhe",
+     "gloss": "for-stambha",
+     "grounds": "locative of purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "indeed",
+     "grounds": "ca + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛṇmayam",
+     "gloss": "earthen",
+     "grounds": "adjective mṛṇmaya",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which vessels are prescribed for pacification and stambha?",
+   "premises": [
+    "For pacification a stone vessel is used.",
+    "For stambha an earthen vessel is used.",
+    "The verse joins both prescriptions."
+   ],
+   "inference": "Pacification calls for a stone vessel, while stambha calls for an earthen vessel.",
+   "uncertainties": [
+    "The exact ritual operation of stambha is not explained here."
+   ],
+   "plain_english": "For pacification use a stone vessel; for stambha use an earthen vessel."
+  },
+  {
+   "verse": 729,
+   "rows": [
+    {
+     "surface": "jñānapradaṃ",
+     "gloss": "knowledge-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kapālaṃ",
+     "gloss": "skull",
+     "grounds": "noun kapāla",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt (as)"
+    },
+    {
+     "surface": "māraṇe",
+     "gloss": "for-killing",
+     "grounds": "locative of purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lauhamuttamam",
+     "gloss": "iron-best",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What vessel is prescribed for killing and what gives knowledge?",
+   "premises": [
+    "A skull may be knowledge-giving.",
+    "For killing iron is best.",
+    "The verse pairs these prescriptions."
+   ],
+   "inference": "The skull is associated with knowledge, while iron is best for killing.",
+   "uncertainties": [
+    "Whether the skull is also for killing is not stated."
+   ],
+   "plain_english": "A skull may be knowledge-giving; for killing, iron is best."
+  },
+  {
+   "verse": 730,
+   "rows": [
+    {
+     "surface": "śaṅkhaṃ",
+     "gloss": "conch",
+     "grounds": "noun śaṅkha",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "jñānapradaṃ",
+     "gloss": "knowledge-giving",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "muktāśuktividyāpradāyinī",
+     "gloss": "pearl-shell-vidyā-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What is the conch said to give?",
+   "premises": [
+    "The conch is knowledge-giving.",
+    "A pearl-shell vidyā-giving feminine entity is mentioned.",
+    "The verse links conch and vidyā."
+   ],
+   "inference": "The conch is knowledge-giving and connected with pearl-shell vidyā.",
+   "uncertainties": [
+    "The exact relation between the conch and the feminine vidyā-giver is unclear."
+   ],
+   "plain_english": "The conch gives knowledge; a pearl-shell vidyā-giving power is also named."
+  },
+  {
+   "verse": 731,
+   "rows": [
+    {
+     "surface": "puṇyavṛkṣajapātrāṇi",
+     "gloss": "meritorious-tree-sacrificial-vessels",
+     "grounds": "compound noun plural",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "sarvapāpaharāṇi",
+     "gloss": "all-sins-removing",
+     "grounds": "compound adjective plural",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect do meritorious-tree sacrificial vessels have?",
+   "premises": [
+    "Meritorious-tree sacrificial vessels are named.",
+    "They remove all sins.",
+    "The conjunction adds them to the list."
+   ],
+   "inference": "Vessels made from meritorious trees remove all sins.",
+   "uncertainties": [
+    "No specific tree or vessel type is identified."
+   ],
+   "plain_english": "Sacrificial vessels from meritorious trees remove all sins."
+  },
+  {
+   "verse": 732,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṅgulavistāra",
+     "gloss": "sixteen-angula-breadth",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ṣaṣṭhāṅgulasamucchrayam",
+     "gloss": "sixty-angula-height",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What are the breadth and height measures given?",
+   "premises": [
+    "The breadth is sixteen angulas.",
+    "The height is sixty angulas.",
+    "Both are stated as measures."
+   ],
+   "inference": "The prescribed measure is sixteen angulas in breadth and sixty in height.",
+   "uncertainties": [
+    "The object measured is not named in this verse."
+   ],
+   "plain_english": "The breadth is sixteen angulas and the height is sixty angulas."
+  },
+  {
+   "verse": 733,
+   "rows": [
+    {
+     "surface": "ekāṅgulaṃ",
+     "gloss": "one-angula",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "particle tathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with-half",
+     "grounds": "adverb sārdham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭkañca",
+     "gloss": "six-also",
+     "grounds": "compound with ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "vai",
+     "grounds": "particle vai",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "by-measure",
+     "grounds": "ablative of pramāṇa",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional measure is specified?",
+   "premises": [
+    "One angula is mentioned.",
+    "A half is added.",
+    "Six also is mentioned.",
+    "The measure is stated by measure."
+   ],
+   "inference": "The measure includes one angula, a half, and six, stated by measure.",
+   "uncertainties": [
+    "The exact total or object is not fully explicit."
+   ],
+   "plain_english": "By measure, one angula, a half, and six are specified."
+  },
+  {
+   "verse": 734,
+   "rows": [
+    {
+     "surface": "na+yojayet",
+     "gloss": "not-join",
+     "grounds": "negative optative of yuj",
+     "morph": "3.sg.act-opt (yuj)"
+    },
+    {
+     "surface": "bhagnapātraṃ",
+     "gloss": "broken-vessel",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "svaprādeśaṃ",
+     "gloss": "own-region",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "praised",
+     "grounds": "passive of praśaṃs",
+     "morph": "3.sg.pass-pres (praśaṃs)"
+    }
+   ],
+   "question": "What is said about joining a broken vessel to one's own region?",
+   "premises": [
+    "One should not join a broken vessel.",
+    "The own region is mentioned.",
+    "The praised alternative is implied."
+   ],
+   "inference": "A broken vessel should not be joined to one's own region; the proper way is praised.",
+   "uncertainties": [
+    "The exact praised alternative is not stated."
+   ],
+   "plain_english": "Do not join a broken vessel to your own region; the proper practice is praised."
+  },
+  {
+   "verse": 735,
+   "rows": [
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "noun maṇḍala",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb pūrvavat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs (kṛ)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative of pūj",
+     "morph": "3.sg.act-opt (pūj)"
+    },
+    {
+     "surface": "pūrvavartmanā",
+     "gloss": "previous-path",
+     "grounds": "instrumental of pūrvavartman",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the maṇḍala be made and worshipped?",
+   "premises": [
+    "The maṇḍala is made as before.",
+    "Worship is enjoined.",
+    "The previous path is used."
+   ],
+   "inference": "Make the maṇḍala as before and worship by the previous path.",
+   "uncertainties": [
+    "The exact previous path is not detailed here."
+   ],
+   "plain_english": "Make the maṇḍala as before and worship according to the previous path."
+  },
+  {
+   "verse": 736,
+   "rows": [
+    {
+     "surface": "svarādyaṃ",
+     "gloss": "svara-first",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bindusahitaṃ",
+     "gloss": "with-bindu",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ṅeyutam",
+     "gloss": "ṅ-joined",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "arkamaṇḍalam",
+     "gloss": "sun-maṇḍala",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What is the sun maṇḍala composed of?",
+   "premises": [
+    "It begins with svara.",
+    "It includes bindu.",
+    "It is joined with ṅ.",
+    "It is the sun maṇḍala."
+   ],
+   "inference": "The sun maṇḍala is svara-first, with bindu, and joined with ṅ.",
+   "uncertainties": [
+    "The exact svara sequence is not given."
+   ],
+   "plain_english": "The sun maṇḍala begins with svara, includes bindu, and is joined with ṅ."
+  },
+  {
+   "verse": 737,
+   "rows": [
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalās",
+     "grounds": "noun kalā plural",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "sampūjayettatra",
+     "gloss": "worship-there",
+     "grounds": "compound verb form",
+     "morph": "3.sg.act-opt (pūj)"
+    },
+    {
+     "surface": "bhānordvādaśasaṃjñakāḥ",
+     "gloss": "of-sun-twelve-named",
+     "grounds": "compound adjective",
+     "morph": "n.acc.pl.f"
+    }
+   ],
+   "question": "What kalās are worshipped in the sun maṇḍala?",
+   "premises": [
+    "Kalās are worshipped there.",
+    "They are twelve-named.",
+    "They belong to the sun."
+   ],
+   "inference": "The twelve-named kalās of the sun are worshipped there.",
+   "uncertainties": [
+    "The individual kalā names are not listed."
+   ],
+   "plain_english": "There worship the sun's twelve-named kalās."
+  },
+  {
+   "verse": 738,
+   "rows": [
+    {
+     "surface": "suṣumnā",
+     "gloss": "suṣumnā",
+     "grounds": "noun suṣumnā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bhogadā",
+     "gloss": "enjoyment-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "viśvā",
+     "gloss": "viśvā",
+     "grounds": "noun viśvā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bodhinī",
+     "gloss": "awakening",
+     "grounds": "adjective bodhinī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "dhāriṇī",
+     "gloss": "holding",
+     "grounds": "adjective dhāriṇī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "patience",
+     "grounds": "noun kṣamā",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What kalā names are given for the sun?",
+   "premises": [
+    "Suṣumnā is enjoyment-giving.",
+    "Viśvā is awakening.",
+    "Dhāriṇī is holding.",
+    "Kṣamā is patience."
+   ],
+   "inference": "The sun kalās include suṣumnā, viśvā, bodhinī, dhāriṇī, and kṣamā with stated qualities.",
+   "uncertainties": [
+    "Whether this is a complete list of twelve is not stated."
+   ],
+   "plain_english": "The sun kalās include suṣumnā, viśvā, bodhinī, dhāriṇī, and kṣamā."
+  },
+  {
+   "verse": 739,
+   "rows": [
+    {
+     "surface": "bījādyāśca",
+     "gloss": "seed-etc",
+     "grounds": "compound with ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalās",
+     "grounds": "noun kalā",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "jñeyāś",
+     "gloss": "known",
+     "grounds": "participle jñeya",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "caturthyādyā",
+     "gloss": "fourth-etc",
+     "grounds": "compound adjective",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "namo'nvitāḥ",
+     "gloss": "with-namo",
+     "grounds": "compound adjective",
+     "morph": "n.nom.pl.f"
+    }
+   ],
+   "question": "How are the seed and later kalās to be known?",
+   "premises": [
+    "Seed and other kalās are mentioned.",
+    "They are to be known.",
+    "They begin from the fourth.",
+    "They are joined with namo."
+   ],
+   "inference": "The seed and subsequent kalās are known from the fourth onward and joined with namo.",
+   "uncertainties": [
+    "The exact seed syllables are not listed."
+   ],
+   "plain_english": "The seed and later kalās are known from the fourth onward, joined with namo."
+  },
+  {
+   "verse": 740,
+   "rows": [
+    {
+     "surface": "raktacandanapuṣpaiśca",
+     "gloss": "red-sandal-flowers",
+     "grounds": "compound instrumental plural",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sugandhaiḥ",
+     "gloss": "fragrant",
+     "grounds": "instrumental plural",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sumanoharaiḥ",
+     "gloss": "very-pleasing",
+     "grounds": "instrumental plural",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings are used in the worship?",
+   "premises": [
+    "Red sandal and flowers are used.",
+    "Fragrant substances are used.",
+    "Very pleasing substances are used."
+   ],
+   "inference": "The worship uses red sandal, flowers, fragrant, and very pleasing substances.",
+   "uncertainties": [
+    "The exact offering sequence is not specified."
+   ],
+   "plain_english": "Offer red sandal, flowers, fragrant, and very pleasing substances."
+  },
+  {
+   "verse": 741,
+   "rows": [
+    {
+     "surface": "varuṇaṃ",
+     "gloss": "varuṇa",
+     "grounds": "noun varuṇa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mūlamantrañca",
+     "gloss": "root-mantra",
+     "grounds": "compound with ca",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vilomamātṛkāṃ",
+     "gloss": "reverse-mātṛkā",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "paṭhan",
+     "gloss": "reciting",
+     "grounds": "participle paṭhat",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is recited for Varuṇa?",
+   "premises": [
+    "Varuṇa is named.",
+    "The root mantra is recited.",
+    "The reverse mātṛkā is recited."
+   ],
+   "inference": "For Varuṇa one recites the root mantra and the reverse mātṛkā.",
+   "uncertainties": [
+    "The exact mantra text is not given."
+   ],
+   "plain_english": "Recite the root mantra and reverse mātṛkā for Varuṇa."
+  },
+  {
+   "verse": 742,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb tatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūrvākṣatāraktapuṣpacandanasaṃyutam",
+     "gloss": "dūrvā-akṣata-red-flower-sandal-joined",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What is joined there in the offering?",
+   "premises": [
+    "The place is there.",
+    "Dūrvā, akṣata, red flower, and sandal are joined.",
+    "The compound describes the offering."
+   ],
+   "inference": "There the offering is joined with dūrvā, akṣata, red flower, and sandal.",
+   "uncertainties": [
+    "The base substance being joined is not named."
+   ],
+   "plain_english": "There join dūrvā, akṣata, red flower, and sandal."
+  },
+  {
+   "verse": 743,
+   "rows": [
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "noun māṃsa",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "matsyaṃ",
+     "gloss": "fish",
+     "grounds": "noun matsya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vinikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of vinikṣip",
+     "morph": "abs (vinikṣip)"
+    },
+    {
+     "surface": "mudrāñcaiva",
+     "gloss": "mudrā",
+     "grounds": "compound with ca eva",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb viśeṣataḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is placed especially in the rite?",
+   "premises": [
+    "Meat is placed.",
+    "Fish is placed.",
+    "Mudrā is especially mentioned."
+   ],
+   "inference": "Meat and fish are placed, and mudrā is especially included.",
+   "uncertainties": [
+    "The exact mudrā is not identified."
+   ],
+   "plain_english": "Place meat and fish, and especially include the mudrā."
+  },
+  {
+   "verse": 744,
+   "rows": [
+    {
+     "surface": "elālavaṅgakakṣvelajātīphalasamanvitam",
+     "gloss": "cardamom-clove-camphor-nutmeg-joined",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What fragrant substances are joined?",
+   "premises": [
+    "Cardamom is joined.",
+    "Clove is joined.",
+    "Camphor is joined.",
+    "Nutmeg is joined."
+   ],
+   "inference": "The offering is joined with cardamom, clove, camphor, and nutmeg.",
+   "uncertainties": [
+    "The base substance is not named."
+   ],
+   "plain_english": "Join cardamom, clove, camphor, and nutmeg."
+  },
+  {
+   "verse": 745,
+   "rows": [
+    {
+     "surface": "svayambhūkusumaṃ",
+     "gloss": "self-born-flower",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kuṇḍagolotthañca",
+     "gloss": "kuṇḍa-gola-born",
+     "grounds": "compound with ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "aṣṭagandhakam",
+     "gloss": "eight-gandha",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What flowers and substances are named?",
+   "premises": [
+    "Self-born flower is named.",
+    "Kuṇḍa-gola-born substance is named.",
+    "Eight-gandha is named."
+   ],
+   "inference": "The rite names self-born flower, kuṇḍa-gola-born substance, and eight-gandha.",
+   "uncertainties": [
+    "The exact identity of kuṇḍa-gola-born substance is unclear."
+   ],
+   "plain_english": "Use self-born flower, kuṇḍa-gola-born substance, and eight-gandha."
+  },
+  {
+   "verse": 746,
+   "rows": [
+    {
+     "surface": "sabinduṃ",
+     "gloss": "with-bindu",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vāmakarṇañca",
+     "gloss": "left-ear",
+     "grounds": "compound with ca",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ṅeyutaṃ",
+     "gloss": "ṅ-joined",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "somamaṇḍalam",
+     "gloss": "moon-maṇḍala",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What is the moon maṇḍala composed of?",
+   "premises": [
+    "It has bindu.",
+    "It includes left ear.",
+    "It is joined with ṅ.",
+    "It is the moon maṇḍala."
+   ],
+   "inference": "The moon maṇḍala has bindu, left ear, and ṅ.",
+   "uncertainties": [
+    "The exact role of left ear is not explained."
+   ],
+   "plain_english": "The moon maṇḍala has bindu, left ear, and ṅ."
+  },
+  {
+   "verse": 747,
+   "rows": [
+    {
+     "surface": "kalā",
+     "gloss": "kalās",
+     "grounds": "noun kalā",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "somasya",
+     "gloss": "of-moon",
+     "grounds": "genitive of soma",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviraṣṭasaṃkhyakā",
+     "gloss": "twice-eight-numbered",
+     "grounds": "compound adjective",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "optative of yaj",
+     "morph": "3.sg.act-opt (yaj)"
+    }
+   ],
+   "question": "How many moon kalās are worshipped?",
+   "premises": [
+    "The moon's kalās are worshipped.",
+    "There are twice eight.",
+    "Worship is enjoined."
+   ],
+   "inference": "Sixteen moon kalās are worshipped there.",
+   "uncertainties": [
+    "The individual kalā names are not listed."
+   ],
+   "plain_english": "Worship the moon's sixteen kalās there."
+  },
+  {
+   "verse": 748,
+   "rows": [
+    {
+     "surface": "śaśinī",
+     "gloss": "śaśinī",
+     "grounds": "noun śaśinī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "candrikā",
+     "gloss": "moonlight",
+     "grounds": "noun candrikā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kāntiḥ",
+     "gloss": "radiance",
+     "grounds": "noun kānti",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "jyotsnā",
+     "gloss": "moonlight",
+     "grounds": "noun jyotsnā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "śrī",
+     "grounds": "noun śrī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "delight",
+     "grounds": "noun prīti",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "aṅgadā",
+     "gloss": "limb-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What moon kalā names are given?",
+   "premises": [
+    "Śaśinī is named.",
+    "Candrikā is named.",
+    "Kānti is named.",
+    "Jyotsnā is named.",
+    "Śrī is named.",
+    "Prīti is named.",
+    "Aṅgadā is limb-giving."
+   ],
+   "inference": "The moon kalās include śaśinī, candrikā, kānti, jyotsnā, śrī, prīti, and aṅgadā.",
+   "uncertainties": [
+    "Whether this is the complete list of sixteen is not stated."
+   ],
+   "plain_english": "The moon kalās include śaśinī, candrikā, kānti, jyotsnā, śrī, prīti, and aṅgadā."
+  },
+  {
+   "verse": 749,
+   "rows": [
+    {
+     "surface": "akārādyā",
+     "gloss": "a-first",
+     "grounds": "compound adjective",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "binduyutā",
+     "gloss": "with-bindu",
+     "grounds": "compound adjective",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "ṅeyutāśca",
+     "gloss": "ṅ-joined",
+     "grounds": "compound with ca",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "namo'ntikāḥ",
+     "gloss": "with-namo-at-end",
+     "grounds": "compound adjective",
+     "morph": "n.nom.pl.f"
+    }
+   ],
+   "question": "How are the moon kalās described?",
+   "premises": [
+    "They begin with a.",
+    "They include bindu.",
+    "They are joined with ṅ.",
+    "They end with namo."
+   ],
+   "inference": "The moon kalās begin with a, include bindu, are joined with ṅ, and end with namo.",
+   "uncertainties": [
+    "The exact syllable sequence is not given."
+   ],
+   "plain_english": "The moon kalās begin with a, include bindu, are joined with ṅ, and end with namo."
+  }
+ ]
+}

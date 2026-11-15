@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p28",
  "verse": 699,
- "question": "Which syllables and goddess are to be placed at the end of the kṣetra word?",
+ "question": "What does the wise person do after grinding and making a pill?",
  "premises": [
-  "The syllables maṃ and yaṃ are specified.",
-  "The placement is at the end of the word kṣetra.",
-  "Kālarātrī is included following the previous pattern."
+  "The verse says having ground.",
+  "It says having made a pill.",
+  "It says having taken."
  ],
- "inference": "One should place maṃ and yaṃ with Kālarātrī at the end of the kṣetra word as before.",
- "uncertainties": [],
- "plain_english": "Use maṃ and yaṃ at the end of the word kṣetra with Kālarātrī, as before."
+ "inference": "The wise person grinds, makes a pill, and takes it.",
+ "uncertainties": [
+  "The pill's composition is not stated."
+ ],
+ "plain_english": "Having ground and made a pill, the wise person takes it."
 }

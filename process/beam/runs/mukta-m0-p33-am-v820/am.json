@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p33",
  "verse": 820,
- "question": "What compassionate instruction is requested by the beloved speaker?",
+ "question": "What washing alternative is given for the hand-pair?",
  "premises": [
-  "The speaker asks to be told",
-  "The request is made with compassion",
-  "The speaker claims to be beloved"
+  "Washing is optative.",
+  "The hand-pair is accusative.",
+  "An alternative is offered."
  ],
- "inference": "The beloved speaker requests compassionate instruction",
- "uncertainties": [],
- "plain_english": "Tell that to me with compassion, if I am dear to you."
+ "inference": "One should wash the hand-pair, or do one of two alternatives.",
+ "uncertainties": [
+  "The alternatives are not specified."
+ ],
+ "plain_english": "One should wash the hand-pair, or otherwise do one of two."
 }

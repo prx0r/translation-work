@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p39",
  "verse": 961,
- "question": "By whose radiance does the entirety of existence shine forth?",
+ "question": "Will the great goddess accept offerings without proper vessel and rite?",
  "premises": [
-  "A goddess possesses radiance.",
-  "All things shine forth.",
-  "Their shining is by that goddess's light."
+  "great goddess does not accept",
+  "given offerings fail",
+  "hundreds of rites do not suffice"
  ],
- "inference": "All things shine forth by the light of that goddess.",
- "uncertainties": [],
- "plain_english": "O Maheshani, by whose goddess's light all this shines forth."
+ "inference": "The great goddess does not accept offerings merely given through many rites if conditions are wrong.",
+ "uncertainties": [
+  "exact missing condition"
+ ],
+ "plain_english": "The great goddess does not accept what is given, even by hundreds of rites."
 }

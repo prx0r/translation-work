@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "dattātrayeṇa",
+     "gloss": "by-Dattatreya",
+     "grounds": "instrumental form of the proper name Dattatreya",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "muninā",
+     "gloss": "by-sage",
+     "grounds": "instrumental form of muni",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śukreṇa",
+     "gloss": "by-Śukra",
+     "grounds": "instrumental form of the proper name Śukra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahātmanā",
+     "gloss": "by-great-soul",
+     "grounds": "instrumental form of the compound mahā-ātman",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "Which figures are credited with transmitting this amṛta practice?",
+   "premises": [
+    "Dattatreya is named as a sage.",
+    "Śukra is named as great-souled.",
+    "The instrumental forms indicate agency."
+   ],
+   "inference": "Dattatreya and Śukra are presented as transmitters of the practice.",
+   "uncertainties": [
+    "The exact relation to Baladeva in the preceding line is not explicit."
+   ],
+   "plain_english": "By Dattatreya, the sage, and by Śukra, the great-souled one."
+  }
+ ]
+}

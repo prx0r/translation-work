@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p20",
  "verse": 489,
- "question": "Which mantra is recited while contemplating the ritual petition?",
+ "question": "With what should the practitioner adorn?",
  "premises": [
-  "A petition is to be contemplated or expressed.",
-  "The mantra beginning 'ajāta' is recited.",
-  "Recitation accompanies the petition."
+  "should adorn is stated",
+  "with red flower is stated",
+  "with red garland is stated",
+  "practitioner is stated"
  ],
- "inference": "One should contemplate the petition while reciting the mantra beginning 'ajāta'.",
+ "inference": "the practitioner adorns with red flower and red garland",
  "uncertainties": [
-  "The sense of vibhāvayet may be to manifest, express, or contemplate."
+  "object adorned not stated"
  ],
- "plain_english": "Reciting the mantra beginning 'ajāta', one should contemplate the petition."
+ "plain_english": "The practitioner should adorn with red flower and red garland."
 }

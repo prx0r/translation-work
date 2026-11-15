@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[with-all](sarva) [leaf](patra) [hand](karaiḥ) [endowed](yukta) [with-white](śukla) [garlands](mālyaiḥ) [adorned](alaṅkṛtam)
+[all+leaf+makers](sarvapatrakaraiḥ) [joined](yuktam) [white+garlands](śuklamālyaiḥ) [adorned](alaṅkṛtam)
 
 ## mukta-m0-p53-v1302
-[with-cloth](sa) [and-kuśa-grass](vastra) [bundles](kūrcān) [everywhere](sarvatra) [one-should-avoid](varjayet) [but](tu) [especially](viśeṣataḥ)
+[with+cloth+bunches](savastrakūrcān) [everywhere](sarvatra) [avoid](varjayet) [especially](viśeṣataḥ)
 
 ## mukta-m0-p53-v1303
-[in-bathing](snāna) [pavilion](maṇṭapa) [middle](madhya) [but](tu) [on-pedestal](pīḍhe) [image](biṃbaṃ) [one-should-place](nivedayet)
+[bath+pavilion](snānamaṇṭapam) [middle](adhyantu) [on+seat](pīḍhe) [image](biṃbaṃ) [offer](nivedayet)
 
 ## mukta-m0-p53-v1304
-[five-times](pañcakṛt) [with-five-products-of-cow](pañcagavyaiḥ) [and](ca) [having-known](jñātvā) [goddess](devīḥ) [Tryambaka](tryaṃbakam)
+[five+times](pañcakṛt) [five+cow-products](pañcagavyaiḥ) [knowing](jñātvā) [goddesses](devīḥ) [three-eyed](tryaṃbakam)
 
 ## mukta-m0-p53-v1305
-[fragrant-water](gandha) [and-water](udaka) [and-rice](odanaṃ) [place](sthānaṃ) [with-turmeric](haridrā) [and-myrobalan](āmalakaiḥ) [together](saha)
+[sandal+water+rice](gandhodakodanaṃ) [place](sthānaṃ) [turmeric+amalakas](haridrāmalakaiḥ) [with](saha)
 
 ## mukta-m0-p53-v1306
-[artisan](śilpiṃ) [one-should-dismiss](visarjayet) [there](tatra) [with-five-products-of-cow](pañcagavya) [one-should-sprinkle](abhiṣecayet)
+[artisan](śilpim) [dismiss](visarjayet) [there](tatra) [five+cow-products](pañcagavyaiḥ) [bathe](abhiṣecayet)
 
 ## mukta-m0-p53-v1307
-[with-pure](śuddha) [water](udakena) [with-images](beraiḥ) [and](ca) [sprinkling](abhiṣekaṃ) [there](tatra) [one-should-cause](kārayet)
+[pure+water](śuddhodakena) [images](beraiḥ) [bathing](abhiṣekaṃ) [there](tatra) [cause](kārayet)
 
 ## mukta-m0-p53-v1308
-[offering](arghyaṃ) [having-given](datvā) [especially](viśeṣeṇa) [flower](puṣpaṃ) [on-head](mūrdhni) [and](ca) [one-should-place](dāpayet)
+[arghya](arghyaṃ) [giving](datvā) [especially](viśeṣeṇa) [flower](puṣpaṃ) [on+head](mūrdhni) [give](dāpayet)
 
 ## mukta-m0-p53-v1309
-[before-image](biṃba) [in-front](agre) [altar](sthaṇḍilaṃ) [having-made](kṛtvā) [one-should-place](sthāpayet) [as-before](pūrvavat) [in-order](kramāt)
+[image+front](biṃbāgre) [altar](sthaṇḍilaṃ) [making](kṛtvā) [place](sthāpayet) [as+before](pūrvavat) [order](kramāt)
 
 ## mukta-m0-p53-v1310
-[with-syllables](varṇaiḥ) [with-Brahma](brahma) [and-limb](aṅga) [mantras](mantraiḥ) [and](tu) [knowledge](vidyā) [into-image](mūrti) [one-should-enter](viśet) [again](punaḥ)
+[colors](varṇaiḥ) [brahma+limb+mantras](brahmāṅgamantraiḥ) [vidya+form](vidyāmūrti) [enter+again](viśetpunaḥ)
 
 ## mukta-m0-p53-v1311
-[one-should-meditate](dhyāyet) [of-Aścindu-mantra](aścindu) [mantra](mantrasya) [in-heart](hṛdi) [middle](madhye) [concentrated](samāhitam)
+[meditate](dhyāyet) [aścindu+mantra](aścindumantrasya) [in+heart](hṛdi) [middle](madhye) [concentrated](samāhitam)
 
 ## mukta-m0-p53-v1312
-[in-pot](ghaṭe) [in-pot](ghaṭe) [smiling](smita) [that-mantra](tanmantraṃ) [jaya](jaya) [breath](prāṇaḥ) [but](tu) [formed](nirmitam)
+[pot](ghaṭe) [pot+mantra](ghaṭesmitanmantraṃ) [jayaprāṇa](jayaprāṇaḥ) [made](nirmitam)
 
 ## mukta-m0-p53-v1313
-[in-north](uttare) [of-vardhanī-vessel](vardhanī) [water](toyaṃ) [by-that-measure](tanmātreṇa) [indeed](tu) [teacher](deśikaḥ)
+[north](uttare) [vardhanī+water](vardhanītoyaṃ) [that+measure](tanmātreṇa) [teacher](deśikaḥ)
 
 ## mukta-m0-p53-v1314
-[in-image](pratimā) [heart](hṛdaye) [having-placed](nyastvā) [then](tataḥ) [with-pot](kuṃbha) [one-should-sprinkle](abhiṣecayet)
+[image](pratimā) [in+heart](hṛdaye) [placing](nyastvā) [then](tataḥ) [pot+bathing](kuṃbhābhiṣecayet)
 
 ## mukta-m0-p53-v1315
-[year](saṃvatsara) [syllable](akṣaraṃ) [or](vā) [also](api) [in-south](dakṣiṇe) [in-west](paścimena) [or](vā)
+[year+letter](saṃvatsarākṣaraṃ) [or](vā) [also](api) [south](dakṣiṇe) [west](paścimena) [or](vā)
 
 ## mukta-m0-p53-v1316
-[by-that](tena) [water](toyena) [of-goddess](devīṃ) [should-be](syāt) [sprinkling](abhiṣekaṃ) [one-should-perform](samācaret)
+[that+water](tena toyena) [goddess](devīṃ) [bathing](abhiṣekaṃ) [perform](samācaret)
 
 ## mukta-m0-p53-v1317
-[* * * * * * *](*) [or](va) [praṇava](praṇavaṃ) [on-head](mūrdhni) [one-should-place](vinyaset)
+[praṇava](praṇavaṃ) [on+head](mūrdhni) [place](vinyaset)
 
 ## mukta-m0-p53-v1318
-[fragrance](gandha) [and-others](ādīn) [one-should-worship](pūjayet) [afterwards](paścāt) [special](viśeṣa) [offering](ādhyaṃ) [then](tataḥ) [again](punaḥ)
+[sandal+etc](gandhādīn) [worship](pūjayet) [after](paścāt) [special+study](viśeṣādhyaṃ) [then](tataḥ) [again](punaḥ)
 
 ## mukta-m0-p53-v1319
-[garment](vastra) [ornament](ābharaṇa) [garland](mālā) [and](ca) [incense](dhūpa) [lamp](dīpaṃ) [one-should-give](dadet) [again](punaḥ)
+[cloth+ornament+garland](vastrābharaṇamālā) [and](ca) [incense+lamp](dhūpadīpaṃ) [give](dadet) [again](punaḥ)
 
 ## mukta-m0-p53-v1320
-[thus](evam) [beginning-with](ādīni) [all](sarvāṇi) [with-heart-mantra](hṛdayena) [one-should-offer](pradāpayet)
+[thus+etc](evamādīni) [all](sarvāṇi) [with+heart](hṛdayena) [offer](pradāpayet)
 
 ## mukta-m0-p53-v1321
-[stone-born](śailajaṃ) [first](prathamaṃ) [having-established](sthitvā) [metal-born](lohajaṃ) [and](ca) [movable-and-immovable](calācalam)
+[mountain-born](śailajaṃ) [first](prathamaṃ) [standing](sthitvā) [iron-born](lohajaṃ) [moving+immovable](calācalam)
 
 ## mukta-m0-p53-v1322
-[there](tatra) [first](ādau) [protective-thread-rite](kautukaṃ) [and](ca) [indeed](eva) [festival](utsavaṃ) [again](punaḥ) [one-should-perform](ācaret)
+[there+first](tatrādau) [kautuka](kautukaṃ) [and](ca) [eva](eva) [festival](utsavaṃ) [again](punar) [perform](ācaret)
 
 ## mukta-m0-p53-v1323
-[in-reclining](śayane) [by-reclining](śayana) [as-stated](uktena) [remaining](śeṣā) [all](sarvam) [this](ayaṃ) [they-know](viduḥ)
+[on+bed](śayane) [as+bed+stated](śayanoktena) [rest](śeṣā) [all+made](sarvamayaṃ) [know](viduḥ)
 
 ## mukta-m0-p53-v1324
-[stone-born](śailajā) [thus](iti) [with-root-mantra](mūlena) [one-should-place](vinyaset) [nine](nava) [gems](ratnakā)
+[mountain-born](śailajā) [thus](iti) [root](mūlena) [place](vinyaset) [nine+gems](navaratnakā)
 
 ## mukta-m0-p53-v1325
-[water](toya) [immersion](adhivāsanaṃ) [there](tatra) [then](tataḥ) [without](vinā) [reclining](upaśayanaṃ)
+[water+immersion](toyādhivāsanaṃ) [there](tatra) [then](tataḥ) [bedding](upaśayanaṃ) [without](vinā)

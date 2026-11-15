@@ -1,0 +1,1025 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "karmayajño",
+     "gloss": "karma-sacrifice",
+     "grounds": "compound karma+yajna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manoyajñaḥ",
+     "gloss": "mind-sacrifice",
+     "grounds": "compound mano+yajna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇayajño",
+     "gloss": "breath-sacrifice",
+     "grounds": "compound prana+yajna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hutāśanaḥ",
+     "gloss": "fire",
+     "grounds": "compound huta+asana",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which three sacrifices and fire are named as the ritual forms?",
+   "premises": [
+    "karma sacrifice is named",
+    "mind sacrifice is named",
+    "breath sacrifice is named"
+   ],
+   "inference": "The verse lists karma, mind, and breath sacrifices with fire.",
+   "uncertainties": [
+    "exact ritual context not specified"
+   ],
+   "plain_english": "Karma-sacrifice, mind-sacrifice, breath-sacrifice, and fire are named."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "brahmārpaṇaṃ",
+     "gloss": "brahma-offering",
+     "grounds": "compound brahma+arpana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmahavirbrahmāgnau",
+     "gloss": "brahma-oblation",
+     "grounds": "fused sandhi form",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmāgnau",
+     "gloss": "in-brahma-fire",
+     "grounds": "compound brahma+agni",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmaṇā hutam",
+     "gloss": "by-brahma-offered",
+     "grounds": "instrumental brahma + participle hutam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is brahma presented as offering, oblation, fire, and offerer?",
+   "premises": [
+    "brahma is offering",
+    "brahma is oblation",
+    "brahma is fire"
+   ],
+   "inference": "The verse identifies brahma with every element of sacrifice.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "Brahma is offering, oblation, fire, and that by which it is offered."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "brahmavat",
+     "gloss": "like-brahma",
+     "grounds": "compound brahma+vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamārgeṣu",
+     "gloss": "in-all-paths",
+     "grounds": "compound sarva+marga",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sarvakarma",
+     "gloss": "all-actions",
+     "grounds": "compound sarva+karma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samabhyaset",
+     "gloss": "practice",
+     "grounds": "verb sam+abhyas",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be practiced in all paths like brahma?",
+   "premises": [
+    "like brahma is stated",
+    "all paths are stated",
+    "all actions are stated"
+   ],
+   "inference": "One should practice all actions in all paths like brahma.",
+   "uncertainties": [
+    "optative force"
+   ],
+   "plain_english": "Like brahma, one should practice all actions in all paths."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "eṣāmanyatamaṃ",
+     "gloss": "of-these",
+     "grounds": "compound esa+anyatama",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "one",
+     "grounds": "absolutive krtva",
+     "morph": "abs."
+    },
+    {
+     "surface": "yantrarājaṃ",
+     "gloss": "yantra-king",
+     "grounds": "compound yantra+raja",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "draw",
+     "grounds": "verb sam+alikh",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should one draw after making one of these?",
+   "premises": [
+    "of these is stated",
+    "one is stated",
+    "yantra king is stated"
+   ],
+   "inference": "One should draw the yantra king after making one of these.",
+   "uncertainties": [
+    "antecedent of these"
+   ],
+   "plain_english": "Having made one of these, one should draw the yantra king."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "gaṇḍakītīrapāṣāṇe",
+     "gloss": "on-gandaki-bank-stone",
+     "grounds": "compound gandaki+tira+pashana",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "compound tatha+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rucipīṭhake",
+     "gloss": "on-ruci-seat",
+     "grounds": "compound ruci+pitha",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "On what surfaces may the yantra be drawn?",
+   "premises": [
+    "gandaki bank stone is stated",
+    "likewise is stated",
+    "ruci seat is stated"
+   ],
+   "inference": "The yantra may be drawn on Gandaki bank stone and likewise on Ruci seat.",
+   "uncertainties": [
+    "exact material"
+   ],
+   "plain_english": "On Gandaki bank stone, and likewise on Ruci seat."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "compound yat+va",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suvarṇarūpyādau",
+     "gloss": "in-gold-silver-etc",
+     "grounds": "compound suvarna+rupya+adi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tāmre",
+     "gloss": "in-copper",
+     "grounds": "locative tamra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable va",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darpaṇe",
+     "gloss": "in-mirror",
+     "grounds": "locative darpana",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable tatha",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On what additional materials may the yantra be drawn?",
+   "premises": [
+    "or is stated",
+    "gold silver etc is stated",
+    "copper is stated"
+   ],
+   "inference": "The yantra may be drawn on gold, silver, etc., copper, or mirror, likewise.",
+   "uncertainties": [
+    "list incomplete"
+   ],
+   "plain_english": "Or in gold, silver, etc., in copper, or in a mirror, likewise."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "gomayena",
+     "gloss": "with-cow-dung",
+     "grounds": "instrumental gomaya",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃlipte",
+     "gloss": "smeared",
+     "grounds": "participle sam+lip",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhūpradeśe",
+     "gloss": "earth-place",
+     "grounds": "compound bhu+pradesha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "manorame",
+     "gloss": "pleasing",
+     "grounds": "compound mano+rama",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "On what kind of smeared earth place may the yantra be drawn?",
+   "premises": [
+    "with cow dung is stated",
+    "smeared is stated",
+    "earth place is stated"
+   ],
+   "inference": "The yantra may be drawn on an earth place smeared with cow dung and pleasing.",
+   "uncertainties": [
+    "exact ritual use"
+   ],
+   "plain_english": "On a pleasing earth place smeared with cow dung."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "śuddhe",
+     "gloss": "pure",
+     "grounds": "locative shuddha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "same",
+     "gloss": "even",
+     "grounds": "locative sama",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhūrjapatre",
+     "gloss": "birch-leaf",
+     "grounds": "compound bhurja+patra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "athavānye",
+     "gloss": "or",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmrapaṭṭake",
+     "gloss": "copper-plate",
+     "grounds": "compound tamra+pattaka",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "On what pure even surfaces may the yantra be drawn?",
+   "premises": [
+    "pure is stated",
+    "even is stated",
+    "birch leaf is stated"
+   ],
+   "inference": "The yantra may be drawn on pure even birch leaf or copper plate.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "On pure even birch leaf, or on copper plate."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "ratne",
+     "gloss": "in-gem",
+     "grounds": "locative ratna",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable va",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulaśaktau",
+     "gloss": "in-family-power",
+     "grounds": "compound kula+shakti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable va",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "accusative yantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "verb kr",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "susādhakaḥ",
+     "gloss": "good-sadhaka",
+     "grounds": "compound su+sadhaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should make the yantra in gem or family power?",
+   "premises": [
+    "in gem is stated",
+    "in family power is stated",
+    "good sadhaka is stated"
+   ],
+   "inference": "A good sadhaka should make the yantra in gem or family power.",
+   "uncertainties": [
+    "kula sense"
+   ],
+   "plain_english": "A good sadhaka should make the yantra in gem or family power."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "svayambhu",
+     "gloss": "self-born",
+     "grounds": "compound svayam+bhu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kusumaṃ",
+     "gloss": "flower",
+     "grounds": "accusative kusuma",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍagolotthaṃ",
+     "gloss": "from-kunda-gola",
+     "grounds": "compound kunda+gola+uttha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rocanāguruṃ",
+     "gloss": "rochana-aguru",
+     "grounds": "compound rochana+aguru",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What substances are named for the yantra rite?",
+   "premises": [
+    "self-born flower is stated",
+    "from kunda gola is stated",
+    "rochana aguru is stated"
+   ],
+   "inference": "Self-born flower, kunda-gola substance, and rochana-aguru are named.",
+   "uncertainties": [
+    "exact use"
+   ],
+   "plain_english": "Self-born flower, kunda-gola substance, and rochana-aguru."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun esa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gandhaḥ",
+     "gloss": "fragrance",
+     "grounds": "nominative gandha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samākhyātaḥ",
+     "gloss": "declared",
+     "grounds": "participle sam+akhyata",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable sarvada",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍikāpriyaḥ",
+     "gloss": "chandika-dear",
+     "grounds": "compound chandika+priya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fragrance is declared always dear to Chandika?",
+   "premises": [
+    "this fragrance is stated",
+    "declared is stated",
+    "always is stated"
+   ],
+   "inference": "This fragrance is declared always dear to Chandika.",
+   "uncertainties": [
+    "substance identity"
+   ],
+   "plain_english": "This fragrance is declared always dear to Chandika."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "svayambhukusumenaiva",
+     "gloss": "by-self-born-flower",
+     "grounds": "compound svayambhu+kusuma+eva",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kuṇḍagolena",
+     "gloss": "by-kunda-gola",
+     "grounds": "instrumental kunda+gola",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable va",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable punah",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what may the rite be performed again?",
+   "premises": [
+    "by self-born flower is stated",
+    "by kunda gola is stated",
+    "or is stated"
+   ],
+   "inference": "The rite may be performed again by self-born flower or kunda gola.",
+   "uncertainties": [
+    "exact operation"
+   ],
+   "plain_english": "Again, by self-born flower or by kunda gola."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "candanāgurucandreṇa",
+     "gloss": "with-sandal-aguru-moon",
+     "grounds": "compound chandana+aguru+chandra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sindūrarajasāpi",
+     "gloss": "with-vermilion-powder",
+     "grounds": "compound sindura+rajas+api",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable va",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what substances may the rite be performed?",
+   "premises": [
+    "with sandal aguru moon is stated",
+    "with vermilion powder is stated",
+    "or is stated"
+   ],
+   "inference": "The rite may be performed with sandal-aguru-moon or vermilion powder.",
+   "uncertainties": [
+    "compound sense"
+   ],
+   "plain_english": "With sandal, aguru, and moon, or with vermilion powder."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "kuṇḍagolodbhavairdravyaiḥ",
+     "gloss": "with-kunda-gola-born-substances",
+     "grounds": "compound kunda+gola+udbhava+dravya",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "svayambhukusumena",
+     "gloss": "with-self-born-flower",
+     "grounds": "compound svayambhu+kusuma",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what substances and flower should the rite be done?",
+   "premises": [
+    "with kunda gola born substances is stated",
+    "with self-born flower is stated",
+    "and is stated"
+   ],
+   "inference": "The rite should be done with kunda-gola-born substances and self-born flower.",
+   "uncertainties": [
+    "exact combination"
+   ],
+   "plain_english": "With kunda-gola-born substances and self-born flower."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "suvarṇaratna",
+     "gloss": "gold-gem",
+     "grounds": "compound suvarna+ratna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lekhanyā",
+     "gloss": "pen",
+     "grounds": "instrumental lekhani",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sarvakāryārthasiddhaye",
+     "gloss": "for-all-works-purpose-accomplishment",
+     "grounds": "compound sarva+karya+artha+siddhi",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purpose is the gold-gem pen used?",
+   "premises": [
+    "gold gem is stated",
+    "pen is stated",
+    "for all works purpose accomplishment is stated"
+   ],
+   "inference": "The gold-gem pen is used for accomplishment of all works' purpose.",
+   "uncertainties": [
+    "exact pen use"
+   ],
+   "plain_english": "With a gold-gem pen, for accomplishment of all works' purpose."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "candrasūryātapaṃ",
+     "gloss": "moon-sun-heat",
+     "grounds": "compound chandra+surya+atapa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yā vā",
+     "gloss": "or",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable athava",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bilvakaṇṭakaiḥ",
+     "gloss": "with-bilva-thorns",
+     "grounds": "compound bilva+kantaka",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By what heat or thorns may the yantra be extracted?",
+   "premises": [
+    "moon sun heat is stated",
+    "or is stated",
+    "with bilva thorns is stated"
+   ],
+   "inference": "The yantra may be extracted by moon-sun heat or bilva thorns.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "Moon-sun heat, or with bilva thorns."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "eṣāmekatamaṃ",
+     "gloss": "of-these",
+     "grounds": "compound esa+ekatama",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "labdhā",
+     "gloss": "one",
+     "grounds": "participle labdha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svīyayantraṃ",
+     "gloss": "own-yantra",
+     "grounds": "compound sviiya+yantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "extract",
+     "grounds": "verb sam+uddhr",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should one extract after obtaining one of these?",
+   "premises": [
+    "of these is stated",
+    "one is stated",
+    "own yantra is stated"
+   ],
+   "inference": "One should extract one's own yantra after obtaining one of these.",
+   "uncertainties": [
+    "antecedent of these"
+   ],
+   "plain_english": "Having obtained one of these, one should extract one's own yantra."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun tat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "nominative phala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb labh",
+     "morph": "3.sg.mid.ind"
+    },
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "nominative vira",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtveṣṭacakradarśanam",
+     "gloss": "having-made-desired-circle-vision",
+     "grounds": "compound krta+ishta+cakra+darshana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Who obtains the fruit after making desired circle vision?",
+   "premises": [
+    "that fruit is stated",
+    "obtains is stated",
+    "hero is stated"
+   ],
+   "inference": "The hero obtains that fruit after making desired circle vision.",
+   "uncertainties": [
+    "exact fruit"
+   ],
+   "plain_english": "The hero obtains that fruit, having made desired circle vision."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "knowing",
+     "grounds": "absolutive jna",
+     "morph": "abs."
+    },
+    {
+     "surface": "suṣamāṃ rekhāṃ",
+     "gloss": "even-line",
+     "grounds": "compound susama+rekha",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nālikhya",
+     "gloss": "not-drawing",
+     "grounds": "negated participle alikhya",
+     "morph": "abs."
+    },
+    {
+     "surface": "suṣamaṃ mukhaṃ",
+     "gloss": "even-face",
+     "grounds": "compound susama+mukha",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What happens if one does not know the even line and does not draw the even face?",
+   "premises": [
+    "not is stated",
+    "knowing is stated",
+    "even line is stated"
+   ],
+   "inference": "Without knowing the even line and drawing the even face, the rite is defective.",
+   "uncertainties": [
+    "exact consequence"
+   ],
+   "plain_english": "Not knowing the even line, not drawing the even face."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "indeclinable atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-say",
+     "grounds": "verb vac",
+     "morph": "1.sg.act.fut"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāktānāṃ",
+     "gloss": "of-shaktas",
+     "grounds": "genitive shakta",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sāmānyaṃ",
+     "gloss": "common",
+     "grounds": "nominative samanya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantramūttamam",
+     "gloss": "yantra-supreme",
+     "grounds": "compound yantra+uttama",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme yantra will now be declared common to Shaktas?",
+   "premises": [
+    "now is stated",
+    "I will say is stated",
+    "of shaktas is stated"
+   ],
+   "inference": "Now the supreme yantra common to Shaktas will be declared.",
+   "uncertainties": [
+    "exact yantra"
+   ],
+   "plain_english": "Now I will declare the supreme yantra common to Shaktas."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "karavīre",
+     "gloss": "in-karavira",
+     "grounds": "locative karavira",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "raktaśukle",
+     "gloss": "red-white",
+     "grounds": "compound rakta+shukla",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "droṇe",
+     "gloss": "in-drona",
+     "grounds": "locative drona",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable va",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantrarājake",
+     "gloss": "in-yantra-king",
+     "grounds": "compound yantra+raja",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In what vessels or yantra king may the rite be done?",
+   "premises": [
+    "in karavira is stated",
+    "red white is stated",
+    "in drona is stated"
+   ],
+   "inference": "The rite may be done in karavira, red-white drona, or yantra king.",
+   "uncertainties": [
+    "exact vessel"
+   ],
+   "plain_english": "In karavira, in red-white drona, or in yantra king."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "paśorālokanaṃ",
+     "gloss": "of-animal-vision",
+     "grounds": "compound pashu+alokana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāttathā",
+     "gloss": "be",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "thus",
+     "grounds": "verb kr",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "do",
+     "grounds": "indeclinable prayatnatah",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should animal vision be done thus with effort?",
+   "premises": [
+    "of animal vision is stated",
+    "not is stated",
+    "be is stated"
+   ],
+   "inference": "Animal vision should not be done thus; one should act with effort.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "Animal vision should not be so; one should act with effort."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "devyaṅgakṣatirevātra",
+     "gloss": "goddess-limb-injury",
+     "grounds": "compound devi+anga+kshati+eva+atra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "indeed",
+     "grounds": "verb kr",
+     "morph": "3.sg.pass.ind"
+    },
+    {
+     "surface": "pāpabuddhinā",
+     "gloss": "by-sinful-mind",
+     "grounds": "compound papa+buddhi",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What injury is done by a sinful mind in this rite?",
+   "premises": [
+    "goddess limb injury is stated",
+    "indeed is stated",
+    "by sinful mind is stated"
+   ],
+   "inference": "A sinful mind indeed causes injury to the goddess's limb in this rite.",
+   "uncertainties": [
+    "exact injury"
+   ],
+   "plain_english": "Goddess limb injury is indeed done by a sinful mind."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "uttarāśā",
+     "gloss": "north-direction",
+     "grounds": "compound uttara+asha",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable tada",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāpi",
+     "gloss": "that",
+     "grounds": "pronoun sa+api",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrvāśaiva",
+     "gloss": "east-direction",
+     "grounds": "compound purva+asha+eva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "compound na+samsaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What directional doubt is removed about north and east?",
+   "premises": [
+    "north direction is stated",
+    "then is stated",
+    "that is stated"
+   ],
+   "inference": "Then that north direction is east direction, without doubt.",
+   "uncertainties": [
+    "ritual direction"
+   ],
+   "plain_english": "Then that north direction is east direction, no doubt."
+  }
+ ]
+}

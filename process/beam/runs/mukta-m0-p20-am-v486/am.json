@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p20",
  "verse": 486,
- "question": "Which mantra formula is used when properly sounding the conch?",
+ "question": "What effects are assigned to bronze and clay vessels?",
  "premises": [
-  "The conch is to be sounded.",
-  "It must be sounded properly.",
-  "The mantra fragment 'adhyavocad adhityevaṃ' is specified."
+  "bronze is peace-doing",
+  "clay-made is nourishing",
+  "thus is stated"
  ],
- "inference": "One should properly sound the conch with the mantra 'adhyavocad adhityevaṃ'.",
- "uncertainties": [],
- "plain_english": "One should properly sound the conch with the mantra 'adhyavocad adhityevaṃ'."
+ "inference": "bronze brings peace and clay brings nourishment",
+ "uncertainties": [
+  "other materials not compared"
+ ],
+ "plain_english": "Bronze is peace-doing, and clay-made is nourishing, thus."
 }

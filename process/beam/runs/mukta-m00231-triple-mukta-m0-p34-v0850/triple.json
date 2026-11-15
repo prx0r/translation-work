@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "khaṭvāṅgaṃ",
+     "gloss": "skull-staff",
+     "grounds": "accusative object attribute in the bowing phrase",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vyomanīlaṃ",
+     "gloss": "sky-blue",
+     "grounds": "adjective modifying kṣetrapālaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ḍamarukasahitaṃ",
+     "gloss": "with-ḍamaru",
+     "grounds": "compound adjective modifying kṣetrapālaṃ",
+     "morph": "compound.adj.acc.sg.n"
+    },
+    {
+     "surface": "kṣetrapālaṃ",
+     "gloss": "field-protector",
+     "grounds": "direct object of namāmi",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "I-bow",
+     "grounds": "first-person verb of reverence",
+     "morph": "v.1.sg.act.pres.√nam"
+    }
+   ],
+   "question": "What form of the field-protector does the practitioner bow to in this Kaula rite?",
+   "premises": [
+    "khaṭvāṅgaṃ names the staff attribute",
+    "vyomanīlaṃ names the sky-blue color",
+    "ḍamarukasahitaṃ names the drum accompaniment"
+   ],
+   "inference": "The verse directs bowing to a sky-blue field-protector bearing a skull-staff and a ḍamaru.",
+   "uncertainties": [
+    "kṣetrapālaṃ is treated as masculine accusative",
+    "ritual setting beyond the verse is not specified"
+   ],
+   "plain_english": "I bow to the field-protector, sky-blue, bearing a skull-staff and a ḍamaru."
+  }
+ ]
+}

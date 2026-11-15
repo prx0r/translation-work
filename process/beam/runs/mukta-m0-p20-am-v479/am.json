@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p20",
  "verse": 479,
- "question": "Which mantra accompanies the offering of the sacred thread?",
+ "question": "How can god-worship occur before the mantrin acts?",
  "premises": [
-  "The sacred thread is to be offered.",
-  "The mantra 'namo harikeśāya' is specified.",
-  "The mantra accompanies the offering act."
+  "until the mantrin does not act",
+  "until then god-worship is questioned",
+  "whence would it arise"
  ],
- "inference": "One should offer the sacred thread with the mantra 'namo harikeśāya'.",
- "uncertainties": [],
- "plain_english": "One should offer the sacred thread with the mantra 'namo harikeśāya'."
+ "inference": "mantrin action precedes god-worship",
+ "uncertainties": [
+  "exact required action unspecified"
+ ],
+ "plain_english": "Until the mantrin acts, how can god-worship arise?"
 }

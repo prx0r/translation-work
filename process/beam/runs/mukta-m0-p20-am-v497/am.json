@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p20",
  "verse": 497,
- "question": "What is the title and position of the chapter concluding this worship exposition?",
+ "question": "Which mantra syllables correspond to square and closed forms?",
  "premises": [
-  "The section expounds the method of worship.",
-  "It is identified by a formal title.",
-  "It is the sixth chapter."
+  "hrāṃ namaḥ is stated",
+  "square would be is stated",
+  "hrīṃ namaḥ is stated",
+  "closed is stated",
+  "thus is stated"
  ],
- "inference": "This is the sixth chapter, named the exposition of the worship method.",
- "uncertainties": [],
- "plain_english": "This is the sixth chapter, named the exposition of the worship method."
+ "inference": "hrāṃ namaḥ is square and hrīṃ namaḥ is closed",
+ "uncertainties": [
+  "full mantra sequence not stated"
+ ],
+ "plain_english": "Hrāṃ namaḥ would be square, and hrīṃ namaḥ closed, thus."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p39",
  "verse": 953,
- "question": "What essential nature characterizes the three cities of the wheel?",
+ "question": "Where should the object be placed before the next step?",
  "premises": [
-  "The three cities belong to the wheel.",
-  "The three cities have a defined nature.",
-  "That nature is moon, sun, and fire."
+  "placement is in the middle",
+  "placement is among eight petals",
+  "next step follows"
  ],
- "inference": "The three cities of the wheel are essentially moon, sun, and fire.",
- "uncertainties": [],
- "plain_english": "And the three cities of the wheel are of the nature of moon, sun, and fire."
+ "inference": "The object is placed in the middle among the eight petals before proceeding.",
+ "uncertainties": [
+  "identity of placed object"
+ ],
+ "plain_english": "Having placed it in the middle among the eight petals, then proceed."
 }

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "datte",
+     "gloss": "gives",
+     "grounds": "surface copied exactly; verb form of root dā",
+     "morph": "verb.3.sg.act-pres root dā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface copied exactly; indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "surface copied exactly; indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "javāpuṣpe",
+     "gloss": "in-javā-flower",
+     "grounds": "surface copied exactly; locative singular of javāpuṣpa",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "paṭṭavastraphalaṃ",
+     "gloss": "cloth-garment-fruit",
+     "grounds": "surface copied exactly; accusative singular compound object",
+     "morph": "noun.acc.sg.n compound"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtains",
+     "grounds": "surface copied exactly; verb form of root labh",
+     "morph": "verb.3.sg.mid-pres root labh"
+    }
+   ],
+   "question": "What fruit is obtained when cloth and garment are given with javā flower?",
+   "premises": [
+    "javā flower is specified as offering context",
+    "cloth and garment are given",
+    "fruit is obtained as result"
+   ],
+   "inference": "Offering cloth and garment with javā flower yields fruit.",
+   "uncertainties": [
+    "exact ritual context is not specified",
+    "grammatical voice of datte is interpreted from surface form"
+   ],
+   "plain_english": "When cloth and garment are given with javā flower, one obtains fruit."
+  }
+ ]
+}

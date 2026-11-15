@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 637,
- "question": "Which syllable count is named for the mantra here?",
+ "question": "Where is the vidyā placed and what mantra is used?",
  "premises": [
-  "mantra is named",
-  "thirty-three is named"
+  "The vidyā is placed in her yoni.",
+  "A mantra string is given.",
+  "Placement and mantra are linked."
  ],
- "inference": "thirty-three is the named count",
+ "inference": "The practitioner places the vidyā in her yoni with the given mantra.",
  "uncertainties": [
-  "whether athāpi vā adds another count"
+  "Mantra segmentation is unclear."
  ],
- "plain_english": "A mantra of thirty-three syllables is named."
+ "plain_english": "Place the vidyā in her yoni with the mantra."
 }

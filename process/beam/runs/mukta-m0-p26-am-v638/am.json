@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 638,
- "question": "Up to what count would the described occurrence extend?",
+ "question": "What does the practitioner utter as the root mantra?",
  "premises": [
-  "sixty-three is named",
-  "occurrence extends up to that count"
+  "A mantra string is given.",
+  "The practitioner utters it.",
+  "The practitioner is the sādhaka."
  ],
- "inference": "up to sixty-three",
+ "inference": "The sādhaka utters the given mantra as root.",
  "uncertainties": [
-  "the exact event of occurrence is not specified"
+  "Mantra segmentation is unclear."
  ],
- "plain_english": "It would occur up to sixty-three."
+ "plain_english": "The practitioner utters the given root mantra."
 }

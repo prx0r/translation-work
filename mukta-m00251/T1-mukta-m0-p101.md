@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p101-v2501
-[warp-and-woof](ota+protam) [without-beginning-and-end](an+ādi+antaṃ) [by-powers](śaktibhiḥ) [pervading](vyāpya) [abiding](saṃsthitaḥ)
+[woven-and-stretched](otaprotamanādyantaṃ) [pervaded-by-powers](śaktibhirvyāpya) [established](saṃsthitaḥ)
 
 ## mukta-m0-p101-v2502
-[on-all-sides](sarvataḥ) [in-all-beings](sarva+bhūteṣu) [in-immovable](sthāvareṣu) [in-movable](careṣu) [and](ca)
+[everywhere](sarvataḥ) [in-all-beings](sarvabhūteṣu) [in-immovable-ones](sthāvareṣu) [in-movable-ones](careṣu) [and](ca)
 
 ## mukta-m0-p101-v2503
-[in-the-beginning](agre) [one-should-manifest](prakāśayet) [because](yasmāt) [in-the-beginning](agre) [in-śiva-sacrifice](śiva+adhvare) [called-śiva](śiva+vāc)
+[foremost](agre) [would-illuminate](prakāśayedyasmāt) [foremost](agre) [śiva-speech](śivavācchivādhvare)
 
 ## mukta-m0-p101-v2504
-[abiding-in-absorption-in-all](sarva+antaḥ+samādhi+stha) [within-the-range-of-inner-organ](antaḥkaraṇa+gocaraḥ)
+[all-inner-samadhi-seated](sarvāntassamādhistha) [within-the-inner-organ](antaḥkaraṇagocaraḥ)
 
 ## mukta-m0-p101-v2505
-[soul-of-all](sarva+ātmā) [of-all-beings](sarva+bhūtānāṃ) [devoid-of-all-beings](sarva+bhūta+vivarjitaḥ)
+[all-self](sarvātmā) [of-all-beings](sarvabhūtānāṃ) [devoid-of-all-beings](sarvabhūtavivarjitaḥ)
 
 ## mukta-m0-p101-v2506
-[withdrawer-of-qualities-of-pradhāna](pradhāna+guṇa+saṃhartā) [that-principle](tatvaṃ) [by-me](mayā) [supreme](varaṃ) [remembered](smṛtam)
+[principal-quality-gatherer](pradhānaguṇasaṃhartā) [principle](tatvaṃ) [by-me](mayā) [boon](varaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p101-v2507
-[abiding-as-the-self-of-all-beings](sarva+bhūta+ātma+saṃsthānaṃ) [gone-everywhere](sarvatra+gatam) [imperishable](avyayam)
+[all-being-self-abode](sarvabhūtātmasaṃsthānaṃ) [everywhere](sarvatra) [gone](gatam) [imperishable](avyayam)
 
 ## mukta-m0-p101-v2508
-[thus](evaṃ) [supreme-liberation](parama+nirvāṇa) [consisting-of-own-māyā](sva+māyī) [supreme](paramaḥ) [śiva](śivaḥ)
+[thus](evaṃ) [supreme-liberation](paramanirvāṇa) [own-illusioned](svamāyī) [supreme-śiva](paramaśśivaḥ)
 
 ## mukta-m0-p101-v2509
-[this](eṣa) [cause-of-transcending-suffering](duḥkha+atigaḥ+hetuḥ) [this](eṣa) [bestower-of-welfare](kṣema+karaḥ) [śiva](śivaḥ)
+[this](eṣa) [beyond-suffering](duḥkhātigo) [cause](hetureṣa) [welfare-maker](kṣemakaraśśivaḥ)
 
 ## mukta-m0-p101-v2510
-[śiva](śivaḥ) [eternal](sadā) [inner-cause-of-causes](kāraṇa+kāraṇa+antaraḥ)
+[śiva-always-cause-of-cause](śivassadākāraṇakāraṇāntaraḥ)
 
 ## mukta-m0-p101-v2511
-[he](sa) [liberation](nirvāṇaḥ) [supreme](paraḥ) [pure](śuddhaḥ) [free-from-māyā](nir+māyī) [supreme](paramaḥ) [śiva](śivaḥ)
+[he](sa) [liberated](nirvāṇaḥ) [supreme-pure](paraśśuddho) [illusion-free](nirmāyī) [supreme-śiva](paramaśśivaḥ)
 
 ## mukta-m0-p101-v2512
-[by-meditation](anudhyānena) [that](tat) [constantly](nityaṃ) [remembering](smarantī) [with-mind](manasā) [with-intellect](dhiyaḥ)
+[by-meditation](anudhyānena) [that-eternally](tannityaṃ) [remember](smarantī) [by-mind](manasā) [intellects](dhiyaḥ)
 
 ## mukta-m0-p101-v2513
-[in-the-niśvāsa](niśvāse) [indeed](tu) [in-the-supreme-tantra](pare+tantre) [without-parts](niṣkalaḥ) [of-the-with-parts](sakalasya) [indeed](tu)
+[in-breath](niśvāse) [but](tu) [supreme](pare) [tantra](tantre) [partless](niṣkalassakalasya) [but](tu)
 
 ## mukta-m0-p101-v2514
-[to-be-given](deyaṃ) [to-one-consecrated-in-śaivism](śaiva+abhiṣiktāya) [not](na) [one-should-give](dadyāt) [to-one-initiated-in-another](para+dīkṣite)
+[to-be-given](deyaṃ) [to-śaiva-anointed](śaivābhiṣiktāya) [not-give](na dadyātparadīkṣite)
 
 ## mukta-m0-p101-v2515
-[omniscient](sarva+jñaḥ) [omnipotent](sarva+kartā) [and](ca) [gracious](prasādī) [be](bhava) [to-me](me) [o-lord](prabho)
+[all-knowing](sarvajñaḥ) [all-doer](sarvakartā) [ca](ca) [gracious](prasādī) [be](bhava) [me](me) [lord](prabho)
 
 ## mukta-m0-p101-v2516
-[tell](kathayasva) [o-great-god](mahā+deva) [mantra-practice](mantra+cāraṃ) [to-me](mama) [o-lord](prabho)
+[tell](kathayasva) [great-god](mahādeva) [mantra-course](mantracāraṃ) [my](mama) [lord](prabho)
 
 ## mukta-m0-p101-v2517
-[of-brahmā](brahmaṇāṃ) [and-also](ca+eva) [o-lord-of-gods](deva+īśa) [tell](kathayasva) [out-of-grace](prasādataḥ)
+[of-brahmans](brahmaṇāñcaiva) [lord-of-gods](deveśa) [tell](kathayasva) [graciously](prasādataḥ)
 
 ## mukta-m0-p101-v2518
-[in-the-kalās](kaleṣu) [is-made](kriyatī) [enumeration](saṃkhyā) [the-lord](prabhuḥ) [scatters](kirati) [with-sprout](sa+aṅkuraḥ)
+[in-times](kaleṣu) [is-done](kriyatī) [number](saṃkhyā) [lord](prabhuḥ) [scatters](kirati) [sprout](sāṅkuraḥ)
 
 ## mukta-m0-p101-v2519
-[beginning-with-the-tenfold-self](daśa+ātmam) [from-the-beginning](āditaḥ) [having-made](kṛtvā) [of-its-limbs](tasya+aṅgānāṃ) [in-due-order](yathā+kramam)
+[ten-self-from-beginning](daśātmamāditaḥ) [having-made](kṛtvā) [of-its-limbs](tasyāṅgānāṃ) [in-order](yathākramam)
 
 ## mukta-m0-p101-v2520
-[in-the-padas](padeṣu) [how-great](kiyatī) [enumeration](saṃkhyā) [the-lord](prabhuḥ) [moves](carati) [constantly](nityaśaḥ)
+[in-feet](padeṣu) [how-much](kiyatī) [number](saṃkhyā) [lord-moves](prabhuścarati) [always](nityaśaḥ)
 
 ## mukta-m0-p101-v2521
-[how](katham) [moves](carati) [o-lord-of-gods](deva+īśa) [tell](kathayasva) [and](ca) [o-śaṅkara](śaṅkara)
+[how-moves](kathañcarati) [lord-of-gods](deveśa) [tell](kathayasva) [ca](ca) [śaṅkara](śaṅkara)
 
 ## mukta-m0-p101-v2522
-[listen](śṛṇu) [o-goddess](devi) [great-knowledge](mahā+jñānaṃ) [which](yat) [by-you](tvayā) [asked](paripṛcchritam)
+[hear](śṛṇu) [goddess](devi) [great-knowledge](mahājñānaṃ) [which-by-you](yattvayā) [asked](paripṛcchritam)
 
 ## mukta-m0-p101-v2523
-[of-all](sarveṣām) [indeed](eva) [of-mantras](mantrāṇāṃ) [mantra-practice](mantra+cāram) [in-order](anukramāt)
+[of-all-mantras](sarveṣāmeva mantrāṇāṃ) [mantra-course-in-sequence](mantracāramanukramāt)
 
 ## mukta-m0-p101-v2524
-[mantra-practice](mantra+cāraṃ) [o-great-goddess](mahā+devi) [difficult-to-obtain](dur+labhaṃ) [even-by-gods](tridaśaiḥ+api)
+[mantra-course](mantracāraṃ) [great-goddess](mahādevi) [rare](durlabhaṃ) [by-thirty-gods](tridaśairapi)
 
 ## mukta-m0-p101-v2525
-[I-tell](kathayāmi) [without-doubt](na+saṃdigdhaṃ) [with-life](prāṇena) [together](saha) [o-virtuous-one](su+vṛte)
+[i-tell](kathayāmi) [not-doubtful](na saṃdigdhaṃ) [with-breath](prāṇena) [with](saha) [well-versed](suvṛte)

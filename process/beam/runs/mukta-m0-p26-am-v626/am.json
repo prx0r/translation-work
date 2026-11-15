@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 626,
- "question": "Is a four-hundred-syllabled mantra classified as old?",
+ "question": "How should the adorned and well-dressed figure be positioned for the rite?",
  "premises": [
-  "a four-hundred-syllabled mantra is called old",
-  "the classification is stated directly"
+  "The figure is adorned.",
+  "The figure is well-dressed.",
+  "It is placed on a cushion."
  ],
- "inference": "yes, it is called old",
+ "inference": "The rite requires placing the adorned, well-dressed figure on a cushion.",
  "uncertainties": [
-  "vṛddha may mean aged rather than merely old"
+  "Exact ritual referent is unclear."
  ],
- "plain_english": "A four-hundred-syllabled mantra is also called old."
+ "plain_english": "Place the adorned, well-dressed figure on a cushion."
 }

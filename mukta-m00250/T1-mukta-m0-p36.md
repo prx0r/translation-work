@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-western-door+in-mansion(paścimadvāraharmye) indeed(tu) vāstu-spirit+offering(vāstubhūtabaliṃ) in-order(kramāt)
+[western+gate+mansion](paścimadvāraharmye) [tu](tu) [site-born+offering](vāstubhūtabaliṃ) [in-order](kramāt)
 
 ## mukta-m0-p36-v877
-this+offering+sequence(etadbalikramaṃ) one-should-do(kuryāt) daily+indeed(nityameva) offering(baliṃ) one-should-cast(kṣipet)
+[this+offering+order](etadbalikramaṃ) [do](kuryāt) [always+indeed](nityameva) [offering](baliṃ) [cast](kṣipet)
 
 ## mukta-m0-p36-v878
-beginning-with-jyeṣṭhā+ending-with-vighna(jyeṣṭhādivighnaparyantaṃ) own+own+name(svasvanāma) offering(baliṃ) one-should-cast(kṣipet)
+[eldest+etc+obstacle+limit](jyeṣṭhādivighnaparyantaṃ) [own+own+name](svasvanāma) [offering](baliṃ) [cast](kṣipet)
 
 ## mukta-m0-p36-v879
-in-that+door(tadvāre) indeed(tu) mahālakṣmī(mahālakṣīṃ) in-cow-station(gosthāne) indeed(tu) sarasvatī(sarasvatīm)
+[that+gate](tadvāre) [tu](tu) [great+lakshmi](mahālakṣīṃ) [cow+place](gosthāne) [tu](tu) [sarasvati](sarasvatīm)
 
 ## mukta-m0-p36-v880
-in-northeast(īśāne) sundarī(sundarī) and+indeed(caiva) in-goddess+niche(devikoṣṭhe) offering(baliṃ) one-should-cast(kṣipet)
+[northeast](īśāne) [beautiful+indeed](sundarī+caiva) [divine+treasury](devikoṣṭhe) [offering](baliṃ) [cast](kṣipet)
 
 ## mukta-m0-p36-v881
-in-water(jale) indeed(tu) bhṛga-born(bhṛgataṃ) one-should-make(kuryāt) one-should-release(sarjayet) food+liṅga(annaliṅgakam)
+[water](jale) [tu](tu) [bhrgu+act](bhṛgataṃ) [do](kuryāt) [release](sarjayed) [annalinga](annaliṅgakam)
 
 ## mukta-m0-p36-v882
-with-thirty-two(dvātriṃśena) offering(baliṃ) one-should-do(kuryāt) sixteen(ṣoḍaśaṃ) day+indeed(dinameva) and(ca)
+[thirty-two](dvātriṃśena) [offering](baliṃ) [do](kuryāt) [sixteen](ṣoḍaśaṃ) [day+indeed](dinameva) [ca](ca)
 
 ## mukta-m0-p36-v883
-eighteen(aṣṭādaśa) offering(baliṃ) one-should-do(kuryāt) comfort+service(saukhyasevaṃ) is-prescribed(vidhīyate)
+[eighteen](aṣṭādaśa) [offering](baliṃ) [do](kuryāt) [comfort+service](saukhyasevaṃ) [prescribed](vidhīyate)
 
 ## mukta-m0-p36-v884
-offering+number(balisaṃkhyā) thus(iti) declared(proktā) of-festival(utsavasya) procedure(vidhiṃ) listen(śṛṇu)
+[offering+number](balisaṃkhyā) [iti](iti) [declared](proktā) [festival+gen](utsavasya) [rite](vidhiṃ) [hear](śṛṇu)
 
 ## mukta-m0-p36-v885
-consecration+festival(pratiṣṭhādutsavā) in-absence(hīne) as-desired(yatheṣṭaṃ) in-month(māsi) or(vā) one-should-conduct(nayet)
+[consecration+from+festival](pratiṣṭhādutsavā) [deficient](hīne) [as-desired](yatheṣṭaṃ) [month](māsi) [or](vā) [lead](nayet)
 
 ## mukta-m0-p36-v886
-in-which+door(yadvāre) indeed(tu) great+pedestal(mahāpīṭhaṃ) temple(prāsādaṃ) and+above(ca+ūrdhvam) indeed(eva) and(ca)
+[which+gate](yadvāre) [tu](tu) [great+seat](mahāpīṭhaṃ) [temple+and+above+indeed](prāsādañcūrdhvameva) [ca](ca)
 
 ## mukta-m0-p36-v887
-consecration+etc.+spire(pratiṣṭhādiśikharaṃ) in-absence(hīne) festival(utsavaṃ) one-should-avoid(varjayet) wise-one(budhaḥ)
+[consecration+etc+spire](pratiṣṭhādiśikharaṃ) [deficient](hīne) [festival](utsavaṃ) [avoid](varjayed) [wise](budhaḥ)
 
 ## mukta-m0-p36-v888
-of-temple+door+pedestals(prāsādadvārapīṭhānāṃ) limb(aṅgam) thus(evam) here(iha) is-stated(ucyate)
+[temple+gate+seat+gen](prāsādadvārapīṭhānāṃ) [limb+thus+here+said](aṅgamevamihocyate)
 
 ## mukta-m0-p36-v889
-begun+festival(prārabdhamutsave) in-absence(hīne) as-desired(yatheṣṭaṃ) in-month(māsi) or(vā) one-should-conduct(nayet)
+[begun+festival](prārabdhamutsave) [deficient](hīne) [as-desired](yatheṣṭaṃ) [month](māsi) [or](vā) [lead](nayet)
 
 ## mukta-m0-p36-v890
-previous+festival(pūrvotsava) in-absence(vihīne) and(ca) as-desired(yatheṣṭaṃ) in-month(māsi) or(vā) one-should-conduct(nayet)
+[prior+festival+lacking](pūrvotsavavihīne) [ca](ca) [as-desired](yatheṣṭaṃ) [month+or+lead](māsavānnayet)
 
 ## mukta-m0-p36-v891
-expiation+procedure(prāyaścittavidhiṃ) one-should-do(kuryāt) pacification+oblation(śāntihomaṃ) one-should-perform(samācaret)
+[expiation+rite](prāyaścittavidhiṃ) [do](kuryāt) [peace+homa](śāntihomaṃ) [perform](samācaret)
 
 ## mukta-m0-p36-v892
-village+asterism+tīrtha+end(grāmanakṣatratīrthāntaṃ) consecration+asterism(pratiṣṭhānakṣatram) indeed(eva) and(ca)
+[village+nakshatra+tirtha+end](grāmanakṣatratīrthāntaṃ) [consecration+nakshatra+indeed](pratiṣṭhānakṣatrameva) [ca](ca)
 
 ## mukta-m0-p36-v893
-moon+asterism(candranakṣatram) thus(iti) stated(uktam) solar+bath+tīrtha(saurasāpanatīrthakam)
+[moon+nakshatra](candranakṣatram) [iti+called](ityukta) [solar+apa+crossing](saurasāpanatīrthakam)
 
 ## mukta-m0-p36-v894
-daily(nitya) occasional(naimittikaṃ) optional(kāmyam) festival(utsavaṃ) threefold(trividhaṃ) should-be(bhavet)
+[daily+occasional](nityanaimittikaṃ) [desired](kāmyam) [festival](utsavaṃ) [threefold](trividhaṃ) [becomes](bhavet)
 
 ## mukta-m0-p36-v895
-as-desired+optional(yatheṣṭakāmyam) thus(iti) stated(uktam) festival(utsavaṃ) threefold(trividhaṃ) should-be(bhavet)
+[as-desired+desired](yatheṣṭakāmyam) [iti+called](ityuktam) [festival](utsavaṃ) [threefold](trividhaṃ) [becomes](bhavet)
 
 ## mukta-m0-p36-v896
-in-desired+month(iṣṭamāse) indeed(tu) for-optional-purpose(kāmyārtham) festival(utsavaṃ) one-should-perform(kārayet) wise-one(budhaḥ)
+[desired+month](iṣṭamāse) [tu](tu) [desired+purpose](kāmyārtham) [festival](utsavaṃ) [cause](kārayed) [wise](budhaḥ)
 
 ## mukta-m0-p36-v897
-banner(dhvajaṃ) having-caused-to-mount(savāhayitvā) indeed(tu) one-should-avoid(varjayet) indeed(tu) discerning-one(vicakṣaṇaḥ)
+[flag](dhvajaṃ) [with+vehicle](savāhayitvā) [tu](tu) [avoid](varjayettu) [discerning](vicakṣaṇaḥ)
 
 ## mukta-m0-p36-v898
-on-banner(dhvaje) banner(dhvajaḥ) not(na) to-be-done(kartavyaṃ) to-be-done(kartavyaṃ) bull+banner(vṛṣabhadhvajam)
+[flag](dhvaje) [flag](dhvajo) [na](na) [to-be-made](kartavyaṃ) [to-be-made](kartavyaṃ) [bull+flag](vṛṣabhadhvajam)
 
 ## mukta-m0-p36-v899
-viṣṇu+wedding(viṣṇukalyāṇam) indeed(eva) stated(uktam) śiva+part(śivāṅgam) and(ca) one-should-perform(samācaret)
+[vishnu+auspicious+indeed+called](viṣṇukalyāṇamevoktaṃ) [shiva+limb+and](śivāṅgañca) [perform](samācaret)
 
 ## mukta-m0-p36-v900
-of-gods(devānām) even(api) in-wedding(kalyāṇe) king+wedding(nṛpakalyāṇaṃ) not(na) one-should-perform(kārayet)
+[gods+gen+also](devānāmapi) [auspicious](kalyāṇe) [king+auspicious](nṛpakalyāṇaṃ) [na](na) [do](kārayet)

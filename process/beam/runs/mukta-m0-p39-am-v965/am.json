@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p39",
  "verse": 965,
- "question": "How many rays are attributed to the moon in this teaching?",
+ "question": "Which dairy items are offered with sugar?",
  "premises": [
-  "The moon possesses rays.",
-  "A specific number is given.",
-  "That number is one hundred and thirty-six."
+  "milk is offered",
+  "curd and buttermilk are offered",
+  "butter is offered with sugar"
  ],
- "inference": "The moon has one hundred and thirty-six rays.",
- "uncertainties": [],
- "plain_english": "O Shiva, the moon has one hundred and thirty-six rays."
+ "inference": "Milk, curd, buttermilk, and butter with sugar are offered.",
+ "uncertainties": [
+  "whether sugar applies to all"
+ ],
+ "plain_english": "Milk, curd, buttermilk, and butter with sugar."
 }

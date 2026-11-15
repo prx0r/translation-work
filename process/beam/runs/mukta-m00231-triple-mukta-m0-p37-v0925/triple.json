@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stavena",
+     "gloss": "with-hymn",
+     "grounds": "instrumental singular of stava",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saṃstutya",
+     "gloss": "having-praised",
+     "grounds": "absolutive of sam-stu",
+     "morph": "abs."
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative singular masculine/neuter",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nijaguruṃ",
+     "gloss": "own-guru",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition follows after praising one's own guru with this hymn?",
+   "premises": [
+    "Praise is offered to one's own guru.",
+    "The hymn is used for praise.",
+    "A conditional follows the praise."
+   ],
+   "inference": "The verse sets up a conditional act after guru praise.",
+   "uncertainties": [
+    "The verse fragment lacks its main clause."
+   ],
+   "plain_english": "Thus, having praised one's own guru with this hymn, if..."
+  }
+ ]
+}

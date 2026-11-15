@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "golodbhavaṃ",
+     "gloss": "gola-born",
+     "grounds": "token as given; legacy hint gola-born",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-will-declare",
+     "grounds": "token as given; legacy hint I-will-declare",
+     "morph": "1.sg.act-fut + root pravac"
+    },
+    {
+     "surface": "vīrāṇāṃ",
+     "gloss": "for-heroes",
+     "grounds": "token as given; legacy hint for-heroes",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "siddhihetave",
+     "gloss": "for-siddhi-cause",
+     "grounds": "token as given; legacy hint for-siddhi",
+     "morph": "dat.sg.m"
+    }
+   ],
+   "question": "What gola-born substance will be declared for the heroes' siddhi?",
+   "premises": [
+    "gola-born substance is declared",
+    "declaration is for heroes",
+    "purpose is siddhi"
+   ],
+   "inference": "The verse promises a declaration of a gola-born substance for heroes' siddhi.",
+   "uncertainties": [
+    "The exact referent of the gola-born substance is not specified in this verse."
+   ],
+   "plain_english": "I will declare the gola-born substance for the heroes, for siddhi."
+  }
+ ]
+}

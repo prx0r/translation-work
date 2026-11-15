@@ -1,13 +1,18 @@
 {
  "song": "mukta-m0-p20",
  "verse": 499,
- "question": "What compassionate response is requested after the worship procedure has been explained?",
+ "question": "Which elements are combined with praṇava and varuṇa?",
  "premises": [
-  "The procedure has been explained.",
-  "The speaker asks for compassion.",
-  "The speaker requests favor."
+  "praṇava is named",
+  "varuṇa is named",
+  "with-moon is stated",
+  "vāmadeva is named",
+  "and is stated",
+  "with-ṅa is stated"
  ],
- "inference": "Having explained that procedure, the speaker asks the deity to favor her with compassion.",
- "uncertainties": [],
- "plain_english": "Having explained that procedure, please favor me with compassion."
+ "inference": "praṇava and varuṇa are combined with moon, vāmadeva, and ṅa",
+ "uncertainties": [
+  "exact mantra construction not stated"
+ ],
+ "plain_english": "Praṇava and varuṇa are combined with moon, vāmadeva, and ṅa."
 }

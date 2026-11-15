@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p20",
  "verse": 490,
- "question": "Which mantra accompanies the presentation of the great lamp-waving?",
+ "question": "What is worshipped and contemplated in this moon rite?",
  "premises": [
-  "The great lamp-waving is to be presented.",
-  "The mantra 'na tatra sūryo bhāti' is specified.",
-  "The mantra accompanies this presentation."
+  "moon-circle is named",
+  "having worshipped is stated",
+  "nectar is named",
+  "having contemplated is stated"
  ],
- "inference": "One should present the great lamp-waving with the mantra 'na tatra sūryo bhāti'.",
- "uncertainties": [],
- "plain_english": "One should present the great lamp-waving with the mantra 'na tatra sūryo bhāti'."
+ "inference": "the moon-circle is worshipped and nectar contemplated",
+ "uncertainties": [
+  "sequence details not stated"
+ ],
+ "plain_english": "Having worshipped the moon-circle, contemplate nectar."
 }

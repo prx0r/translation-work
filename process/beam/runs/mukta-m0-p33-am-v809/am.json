@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p33",
  "verse": 809,
- "question": "How many divisions does each wheel possess according to this claim?",
+ "question": "Which bodily faculties are enumerated in sequence?",
  "premises": [
-  "Each wheel is considered individually",
-  "Three divisions are stated",
-  "The statement is emphatic"
+  "Eye, tongue, nose, speech, hand, foot are named.",
+  "Then indicates sequence.",
+  "Likewise extends the list."
  ],
- "inference": "Each wheel indeed has three divisions",
- "uncertainties": [],
- "plain_english": "Indeed, each wheel has three divisions."
+ "inference": "The passage enumerates sensory and motor faculties in order.",
+ "uncertainties": [
+  "The ritual operation is implicit."
+ ],
+ "plain_english": "Eye, then tongue, nose, speech, hand, foot, likewise."
 }

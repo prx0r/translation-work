@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p30",
  "verse": 732,
- "question": "Which beings from all realms are included as dwellers in this context?",
+ "question": "What are the breadth and height measures given?",
  "premises": [
-  "The verse names dwellers of multiple realms.",
-  "The realms include divine, sky, earth, mountain, water, and forest.",
-  "These beings are grouped together as inhabitants."
+  "The breadth is sixteen angulas.",
+  "The height is sixty angulas.",
+  "Both are stated as measures."
  ],
- "inference": "Beings inhabiting divine, aerial, earthly, mountainous, aquatic, and forest realms are all included.",
- "uncertainties": [],
- "plain_english": "Those dwelling in the divine realms, sky, earth, mountains, waters, and forests."
+ "inference": "The prescribed measure is sixteen angulas in breadth and sixty in height.",
+ "uncertainties": [
+  "The object measured is not named in this verse."
+ ],
+ "plain_english": "The breadth is sixteen angulas and the height is sixty angulas."
 }

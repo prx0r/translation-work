@@ -1,0 +1,923 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 751,
+   "rows": [
+    {
+     "surface": "ānandabhairavīṃ",
+     "gloss": "bliss-bhairavi",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which goddess should the teacher worship in that place?",
+   "premises": [
+    "teacher worships bliss-bhairavi goddess there"
+   ],
+   "inference": "The teacher first worships the bliss-bhairavi goddess in that place.",
+   "uncertainties": [
+    "exact ritual context not specified"
+   ],
+   "plain_english": "The teacher worships the bliss-bhairavi goddess there."
+  },
+  {
+   "verse": 752,
+   "rows": [
+    {
+     "surface": "āvāhanyādimudrāśca",
+     "gloss": "invocation-etc-mudras",
+     "grounds": "legacy hint",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darśayettataḥ",
+     "gloss": "should-show",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Which mudras should the practitioner show after invocation?",
+   "premises": [
+    "practitioner shows invocation mudras"
+   ],
+   "inference": "The practitioner should show the invocation and related mudras.",
+   "uncertainties": [
+    "exact mudra list not given"
+   ],
+   "plain_english": "The practitioner should then show the invocation mudras."
+  },
+  {
+   "verse": 753,
+   "rows": [
+    {
+     "surface": "darśayitvā",
+     "gloss": "having-shown",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudrāmiṣṭadevaṃ",
+     "gloss": "mudra",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iṣṭadevaṃ",
+     "gloss": "desired-deity",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajettataḥ",
+     "gloss": "should-worship",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Whom should one worship after showing the mudra?",
+   "premises": [
+    "after showing mudra worship desired deity"
+   ],
+   "inference": "After showing the mudra, one should worship the desired deity.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Having shown the mudra, one should then worship the desired deity."
+  },
+  {
+   "verse": 754,
+   "rows": [
+    {
+     "surface": "akathāditrirekhāyāṃ",
+     "gloss": "in-triple-line",
+     "grounds": "legacy hint",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyāṃ",
+     "gloss": "maya",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "should-draw",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where should maya be drawn in the triple line?",
+   "premises": [
+    "draw maya in middle of triple line"
+   ],
+   "inference": "Maya should be drawn in the middle of the triple line.",
+   "uncertainties": [
+    "exact line symbolism not specified"
+   ],
+   "plain_english": "In the middle of the triple line, one should draw maya."
+  },
+  {
+   "verse": 755,
+   "rows": [
+    {
+     "surface": "sampūjayettataḥ",
+     "gloss": "should-worship-then",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaratnaṃ",
+     "gloss": "five-gems",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "susādhakaḥ",
+     "gloss": "good-practitioner",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the good practitioner worship afterwards?",
+   "premises": [
+    "good practitioner worships five gems afterwards"
+   ],
+   "inference": "The good practitioner should afterwards worship the five gems.",
+   "uncertainties": [
+    "ritual sequence inferred"
+   ],
+   "plain_english": "Afterwards, the good practitioner should worship the five gems."
+  },
+  {
+   "verse": 756,
+   "rows": [
+    {
+     "surface": "gaganānte",
+     "gloss": "at-sky-end",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratnebhyo",
+     "gloss": "to-gems",
+     "grounds": "legacy hint",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "namo'ntamanumuddharet",
+     "gloss": "namo-end",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "To whom should namo be uttered at the sky end?",
+   "premises": [
+    "at sky end utter namo to gems"
+   ],
+   "inference": "At the sky end, one should utter namo to the gems.",
+   "uncertainties": [
+    "exact mantra ending uncertain"
+   ],
+   "plain_english": "At the end of the sky, one should utter namo to the gems."
+  },
+  {
+   "verse": 757,
+   "rows": [
+    {
+     "surface": "svargapadaṃ",
+     "gloss": "heaven-word",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ratnebhyo",
+     "gloss": "to-gems",
+     "grounds": "legacy hint",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "nama",
+     "gloss": "nama",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityapi",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What word should be uttered to the gems after heaven?",
+   "premises": [
+    "utter heaven word then nama to gems"
+   ],
+   "inference": "One should utter the heaven word and then nama to the gems.",
+   "uncertainties": [
+    "mantra wording approximate"
+   ],
+   "plain_english": "Having uttered the heaven word, one says nama to the gems."
+  },
+  {
+   "verse": 758,
+   "rows": [
+    {
+     "surface": "pātālapada",
+     "gloss": "patala-word",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ratnebhyo",
+     "gloss": "to-gems",
+     "grounds": "legacy hint",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "namo'ntaścāparo",
+     "gloss": "namo-end",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra ends with namo to the gems?",
+   "premises": [
+    "patala word to gems namo end mantra"
+   ],
+   "inference": "Another mantra ends with namo to the gems after the patala word.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "The patala word to the gems, with namo at the end, is another mantra."
+  },
+  {
+   "verse": 759,
+   "rows": [
+    {
+     "surface": "martyaratne",
+     "gloss": "mortal-gem",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścādbhyo",
+     "gloss": "afterwards",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo'tra",
+     "gloss": "namo-here",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "should-utter",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where should namo be uttered after the mortal gem?",
+   "premises": [
+    "after mortal gem utter namo here"
+   ],
+   "inference": "After the mortal gem, one should utter namo here.",
+   "uncertainties": [
+    "exact location phrase uncertain"
+   ],
+   "plain_english": "Then, after the mortal gem, one should utter namo here."
+  },
+  {
+   "verse": 760,
+   "rows": [
+    {
+     "surface": "nāgapadaṃ",
+     "gloss": "serpent-word",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ratnebhyo",
+     "gloss": "to-gems",
+     "grounds": "legacy hint",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "nama",
+     "gloss": "nama",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityapi",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be uttered to the gems after the serpent word?",
+   "premises": [
+    "utter serpent word then nama to gems"
+   ],
+   "inference": "After uttering the serpent word, one says nama to the gems.",
+   "uncertainties": [
+    "mantra wording approximate"
+   ],
+   "plain_english": "Having uttered the serpent word, one says nama to the gems."
+  },
+  {
+   "verse": 761,
+   "rows": [
+    {
+     "surface": "vāgbhavānte",
+     "gloss": "at-vagbhava-end",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divyaughaṃ",
+     "gloss": "divine-stream",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurusaṃjñāñca",
+     "gloss": "guru-named",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pādukām",
+     "gloss": "footwear",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What should be worshipped at the end of vagbhava?",
+   "premises": [
+    "at vagbhava end worship divine stream guru footwear"
+   ],
+   "inference": "At the end of vagbhava, one should worship the divine stream and guru-named footwear.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "At the end of vagbhava, one worships the divine stream and the guru-named footwear."
+  },
+  {
+   "verse": 762,
+   "rows": [
+    {
+     "surface": "siddhaughaṃ",
+     "gloss": "siddha-stream",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mānavaughañca",
+     "gloss": "human-stream",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should one chant after worshipping the streams?",
+   "premises": [
+    "after worshipping siddha and human streams chant mantra"
+   ],
+   "inference": "After worshipping the siddha and human streams, one should chant the mantra.",
+   "uncertainties": [
+    "exact mantra not specified"
+   ],
+   "plain_english": "Having worshipped the siddha and human streams, one should chant the mantra."
+  },
+  {
+   "verse": 763,
+   "rows": [
+    {
+     "surface": "svacchandasphuraṇāmatra",
+     "gloss": "free-will-pulsation",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nidhehyakūlarūpiṇi",
+     "gloss": "place",
+     "grounds": "legacy hint",
+     "morph": "2.sg.act.imp"
+    }
+   ],
+   "question": "Where should free-will pulsation be placed?",
+   "premises": [
+    "place free-will pulsation in akula form"
+   ],
+   "inference": "One should place free-will pulsation in the akula-formed place.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Place free-will pulsation in the akula-formed place."
+  },
+  {
+   "verse": 764,
+   "rows": [
+    {
+     "surface": "amṛtatvaṃ",
+     "gloss": "immortality",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nidhehyasnin",
+     "gloss": "place",
+     "grounds": "legacy hint",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "vastuni",
+     "gloss": "in-object",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "klinnarūpiṇi",
+     "gloss": "kinnara-formed",
+     "grounds": "legacy hint",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Where should immortality be placed in the object?",
+   "premises": [
+    "place immortality in object kinnara-formed"
+   ],
+   "inference": "One should place immortality in the kinnara-formed object.",
+   "uncertainties": [
+    "exact object unclear"
+   ],
+   "plain_english": "Place immortality in the kinnara-formed object."
+  },
+  {
+   "verse": 765,
+   "rows": [
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "parāmṛtākāraṃ",
+     "gloss": "supreme-nectar-form",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "in-me",
+     "grounds": "legacy hint",
+     "morph": "1.sg.loc"
+    },
+    {
+     "surface": "citsphuraṇaṃ",
+     "gloss": "consciousness-pulsation",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "legacy hint",
+     "morph": "2.sg.act.imp"
+    }
+   ],
+   "question": "What should be made to pulsate in me?",
+   "premises": [
+    "become supreme nectar form make consciousness pulsation in me"
+   ],
+   "inference": "Having become supreme nectar form, one should make consciousness pulsate in me.",
+   "uncertainties": [
+    "exact ritual action inferred"
+   ],
+   "plain_english": "Having become supreme nectar form, make consciousness pulsate in me."
+  },
+  {
+   "verse": 766,
+   "rows": [
+    {
+     "surface": "brahmāṇḍakhaṇḍasambhūtamaśeṣarasasambhavam",
+     "gloss": "brahmanda-fragment-born",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is born from the brahmanda fragment?",
+   "premises": [
+    "brahmanda fragment born all rasa arising"
+   ],
+   "inference": "The whole arises from the brahmanda fragment.",
+   "uncertainties": [
+    "single compound meaning approximate"
+   ],
+   "plain_english": "Born from the brahmanda fragment, it is the source of all rasa."
+  },
+  {
+   "verse": 767,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vagbhava",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣauṇīṃ",
+     "gloss": "earth",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāmaśrotrasamanvitam",
+     "gloss": "left-ear-joined",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is joined with the left ear in the fifth vagbhava?",
+   "premises": [
+    "fifth vagbhava earth left ear joined"
+   ],
+   "inference": "The fifth vagbhava is joined with earth and the left ear.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "The fifth vagbhava is joined with earth and the left ear."
+  },
+  {
+   "verse": 768,
+   "rows": [
+    {
+     "surface": "amṛtavarṣiṇi",
+     "gloss": "nectar-showering",
+     "grounds": "legacy hint",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-spoken",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "srāvayadvayam",
+     "gloss": "should-cause-flow",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be caused to flow after speaking?",
+   "premises": [
+    "nectar-showering having spoken cause nectar flow"
+   ],
+   "inference": "After speaking, one should cause nectar to flow.",
+   "uncertainties": [
+    "exact addressee unclear"
+   ],
+   "plain_english": "Having spoken, one should cause nectar to flow."
+  },
+  {
+   "verse": 769,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vagbhava",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadayugmañca",
+     "gloss": "pair-word",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāgvādini",
+     "gloss": "speech-goddess",
+     "grounds": "legacy hint",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is spoken to the speech goddess after vagbhava?",
+   "premises": [
+    "vagbhava pair word to speech goddess then beyond"
+   ],
+   "inference": "After vagbhava, the pair word is spoken to the speech goddess, then beyond.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Vagbhava and the pair word are spoken to the speech goddess, then beyond."
+  },
+  {
+   "verse": 770,
+   "rows": [
+    {
+     "surface": "kledayadvitayaṃ",
+     "gloss": "should-moisten-pair",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mahāmokṣaṃ",
+     "gloss": "great-liberation",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurudvayaṃ",
+     "gloss": "should-do-pair",
+     "grounds": "legacy hint",
+     "morph": "2.du.act.imp"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-speak",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be spoken after moistening the pair?",
+   "premises": [
+    "moisten pair great liberation do pair speak"
+   ],
+   "inference": "One should moisten the pair, do the pair for great liberation, and speak.",
+   "uncertainties": [
+    "exact ritual sequence inferred"
+   ],
+   "plain_english": "Moisten the pair, do the pair for great liberation, and speak."
+  },
+  {
+   "verse": 771,
+   "rows": [
+    {
+     "surface": "pretabījaṃ",
+     "gloss": "preta-seed",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "hasaurnamastataḥ",
+     "gloss": "haha",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "param",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be uttered after the preta seed?",
+   "premises": [
+    "utter preta seed then haha namas param"
+   ],
+   "inference": "After uttering the preta seed, one says haha, namas, then param.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Having uttered the preta seed, one says haha, namas, then param."
+  },
+  {
+   "verse": 772,
+   "rows": [
+    {
+     "surface": "ānandabhairavaṃ",
+     "gloss": "bliss-bhairava",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devamānandabhairavīmapi",
+     "gloss": "god",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which deities are named after the preta seed?",
+   "premises": [
+    "bliss-bhairava god and bliss-bhairavi goddess"
+   ],
+   "inference": "The bliss-bhairava god and bliss-bhairavi goddess are named.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "The bliss-bhairava god and the bliss-bhairavi goddess."
+  },
+  {
+   "verse": 773,
+   "rows": [
+    {
+     "surface": "pūrvoktāścāturasrādyāḥ",
+     "gloss": "previously-said",
+     "grounds": "legacy hint",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaṅkhamudrāṃ",
+     "gloss": "conch-mudra",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mudra is named after the previously said forms?",
+   "premises": [
+    "previously said forms then conch mudra beyond"
+   ],
+   "inference": "After the previously said forms, the conch mudra is named, then beyond.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "The previously said forms, then the conch mudra, then beyond."
+  },
+  {
+   "verse": 774,
+   "rows": [
+    {
+     "surface": "dakṣiṇāṃṅguṣṭha",
+     "gloss": "right-thumb",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃsṛṣṭhā",
+     "gloss": "joined",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mudraiṣā",
+     "gloss": "mudra-this",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṅkhasaṃjñikā",
+     "gloss": "conch-named",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the conch-named mudra formed?",
+   "premises": [
+    "right thumb joined this mudra conch-named"
+   ],
+   "inference": "The conch-named mudra is formed by joining the right thumb.",
+   "uncertainties": [
+    "exact hand gesture inferred"
+   ],
+   "plain_english": "This conch-named mudra is formed by joining the right thumb."
+  }
+ ]
+}

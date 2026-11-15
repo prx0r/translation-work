@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p33",
  "verse": 817,
- "question": "What power is attributed to a yantra made of gold?",
+ "question": "What protective mantra for the speaker is recited?",
  "premises": [
-  "The yantra is made of gold",
-  "It affects all kings",
-  "It brings them under control"
+  "The phrase is a fused mantra.",
+  "It asks protection for the speaker.",
+  "Svāhā closes it."
  ],
- "inference": "A gold-made yantra brings all kings under control",
- "uncertainties": [],
- "plain_english": "A yantra made of gold brings all kings under control."
+ "inference": "The practitioner recites a protective mantra for the speaker ending in svāhā.",
+ "uncertainties": [
+  "Internal sandhi is not split."
+ ],
+ "plain_english": "May it protect me, the speaker, svāhā."
 }

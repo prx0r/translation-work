@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 408,
- "question": "Why are flowers obtained by begging unsuitable for the deity's worship?",
+ "question": "On what pure even surfaces may the yantra be drawn?",
  "premises": [
-  "Flowers obtained by begging are inauspicious.",
-  "They are inauspicious specifically in the worship of this deity."
+  "pure is stated",
+  "even is stated",
+  "birch leaf is stated"
  ],
- "inference": "Begged flowers must be excluded from the deity's worship because they are inauspicious.",
- "uncertainties": [],
- "plain_english": "Flowers obtained by begging are inauspicious in my worship."
+ "inference": "The yantra may be drawn on pure even birch leaf or copper plate.",
+ "uncertainties": [
+  "fused token not split"
+ ],
+ "plain_english": "On pure even birch leaf, or on copper plate."
 }
