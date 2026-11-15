@@ -1,0 +1,636 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "khadyotam",
+     "gloss": "firefly",
+     "grounds": "name/epithet of the seed or form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātaṃ",
+     "gloss": "celebrated",
+     "grounds": "describes the named entity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "grasinī",
+     "gloss": "grasinī",
+     "grounds": "name of a goddess/power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālarātri",
+     "gloss": "kālarātri",
+     "grounds": "name of a goddess/power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yuk",
+     "gloss": "joined-with",
+     "grounds": "indicates association/union",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine powers are associated with the celebrated firefly seed?",
+   "premises": [
+    "The entity is called khadyota and is celebrated.",
+    "Grasinī is present in this association.",
+    "Kālarātri is joined with it."
+   ],
+   "inference": "The celebrated firefly is associated with Grasinī joined with Kālarātri.",
+   "uncertainties": [
+    "The exact referent of khadyota (seed, form, or mantra) is not fully explicit."
+   ],
+   "plain_english": "It is celebrated as 'khadyota' (firefly), joined with Grasinī and Kālarātri."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "vidārī",
+     "gloss": "vidārī",
+     "grounds": "name of a power or attribute",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūṣitaṃ",
+     "gloss": "adorned-with",
+     "grounds": "describes the seed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "mantric seed syllable/form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaivasvata",
+     "gloss": "vaivasvata",
+     "grounds": "name/epithet qualifying the seed's nature",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātmakam",
+     "gloss": "consisting-of",
+     "grounds": "indicates essential nature",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the essential nature of the seed adorned by Vidārī?",
+   "premises": [
+    "The seed is adorned with Vidārī.",
+    "The goddess is directly addressed.",
+    "The seed is described as having the nature of Vaivasvata."
+   ],
+   "inference": "The seed adorned by Vidārī is of the nature of Vaivasvata.",
+   "uncertainties": [
+    "The specific identity of Vidārī and the Vaivasvata aspect remains context-dependent."
+   ],
+   "plain_english": "O Goddess, the seed adorned with Vidārī is of the nature of Vaivasvata."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "ordinal marker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "sectional division of the text",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which section of the text concludes at this point?",
+   "premises": [
+    "The term prathamaḥ indicates the first in sequence.",
+    "The term paṭalaḥ denotes a chapter or section."
+   ],
+   "inference": "This marks the end of the first chapter.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the first chapter."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "o-great-god",
+     "grounds": "vocative address to Śiva",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kathyatāṃ",
+     "gloss": "let-it-be-told",
+     "grounds": "request for instruction",
+     "morph": "3.sg.passive-imperative √kath"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "pinākadhṛk",
+     "gloss": "o-holder-of-pināka",
+     "grounds": "vocative epithet of Śiva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What request does the speaker make to the great god holding the Pināka?",
+   "premises": [
+    "The speaker addresses Mahādeva, holder of the Pināka.",
+    "The speaker asks for this very thing to be told.",
+    "The request is directed to the speaker."
+   ],
+   "inference": "The speaker requests the great god to explain this teaching.",
+   "uncertainties": [
+    "The specific content of 'this' depends on the preceding or following context."
+   ],
+   "plain_english": "O Mahādeva, O holder of the Pināka, let this indeed be told to me."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "atiguhyaṃ",
+     "gloss": "very-secret",
+     "grounds": "qualifies the teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahāpuṇyaṃ",
+     "gloss": "greatly-meritorious",
+     "grounds": "qualifies the teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattva",
+     "gloss": "principle",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "threefold grouping of principles",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the triad of principles characterized in this request?",
+   "premises": [
+    "The subject is the triad of principles.",
+    "It is described as very secret.",
+    "It is described as greatly meritorious."
+   ],
+   "inference": "The triad of principles is characterized as very secret and greatly meritorious.",
+   "uncertainties": [
+    "The specific three principles constituting the triad are not named here."
+   ],
+   "plain_english": "O fair-faced one, tell me of the very secret and greatly meritorious triad of principles."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "śaṅkā",
+     "gloss": "doubt",
+     "grounds": "hesitation or concern",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "states the occurrence of doubt",
+     "morph": "3.sg.present-middle √jan"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative expressing difficulty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the secret teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "shall-I-tell",
+     "grounds": "deliberative question",
+     "morph": "1.sg.present-active √kath"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "Why does the speaker hesitate to reveal the requested teaching to the goddess?",
+   "premises": [
+    "Even doubt arises in the speaker.",
+    "The speaker questions how that can be told.",
+    "The goddess is the intended recipient."
+   ],
+   "inference": "The speaker hesitates because doubt arises about revealing that teaching.",
+   "uncertainties": [
+    "The source or nature of the doubt is not specified."
+   ],
+   "plain_english": "O Goddess, even doubt arises in me—how shall I tell that?"
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "conditional action",
+     "morph": "3.sg.present-passive √kath"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessor of anger",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "krodhaḥ",
+     "gloss": "anger",
+     "grounds": "anticipated reaction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "states the consequence",
+     "morph": "3.sg.present-middle √jan"
+    }
+   ],
+   "question": "What consequence does the speaker fear if the teaching is not revealed?",
+   "premises": [
+    "The condition is that the teaching is not told.",
+    "The goddess is addressed directly.",
+    "Anger is said to arise in the goddess."
+   ],
+   "inference": "If the teaching is not told, the goddess's anger will arise.",
+   "uncertainties": [],
+   "plain_english": "But if that is not told, O Goddess, your anger will arise."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arthaṃ",
+     "gloss": "meaning",
+     "grounds": "object of knowledge",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "caitanyaṃ",
+     "gloss": "consciousness",
+     "grounds": "living power of the mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dharma",
+     "gloss": "dharma",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "artha",
+     "gloss": "wealth",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daṃ",
+     "gloss": "giving",
+     "grounds": "bestowing the three aims",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What aspects of the mantra bestow dharma, wealth, and desire?",
+   "premises": [
+    "The mantra's meaning is identified.",
+    "The mantra's consciousness is identified.",
+    "These are described as giving dharma, wealth, and desire."
+   ],
+   "inference": "The meaning and consciousness of the mantra bestow dharma, wealth, and desire.",
+   "uncertainties": [
+    "The syntactic connection to the following verse is implied but not explicit within this verse alone."
+   ],
+   "plain_english": "O beloved, the meaning of the mantra and the consciousness of the mantra bestow dharma, wealth, and desire."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "ajñātvā",
+     "gloss": "without-knowing",
+     "grounds": "prior condition of ignorance",
+     "morph": "(gerund) √jñā"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun for the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "may-recite",
+     "grounds": "ritual action of recitation",
+     "morph": "3.sg.optative-active √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "desired spiritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "states the absence of result",
+     "morph": "3.sg.present-middle √jan"
+    }
+   ],
+   "question": "What result follows from reciting a mantra without knowing its meaning and consciousness?",
+   "premises": [
+    "Someone recites a mantra without knowing.",
+    "The objects of knowledge are implied from the prior verse.",
+    "Success does not arise in that case."
+   ],
+   "inference": "Reciting a mantra without knowing its meaning and consciousness does not produce success.",
+   "uncertainties": [],
+   "plain_english": "Whoever recites a mantra without knowing this does not attain success."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "yoni",
+     "gloss": "yoni",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "mudrā",
+     "grounds": "ritual seal or gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "emphasizes immediacy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prasādhinī",
+     "gloss": "bestowing",
+     "grounds": "grants liberation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What spiritual power is attributed to the yoni-mudrā in this teaching?",
+   "premises": [
+    "The subject is the yoni-mudrā.",
+    "The goddess is addressed as Maheśāni.",
+    "It is described as directly bestowing liberation."
+   ],
+   "inference": "The yoni-mudrā directly bestows liberation.",
+   "uncertainties": [],
+   "plain_english": "O Maheśāni, the yoni-mudrā directly bestows liberation."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "continuous devotion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dāsaḥ",
+     "gloss": "servant",
+     "grounds": "speaker's self-identification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessor related to yoni",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "yoninā",
+     "gloss": "by-yoni",
+     "grounds": "instrumental or associative reference to the yoni",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How does the speaker express devotion to the supreme goddess through the yoni?",
+   "premises": [
+    "The speaker addresses the supreme goddess.",
+    "The speaker declares himself always her servant.",
+    "The declaration is made in relation to her yoni."
+   ],
+   "inference": "The speaker expresses perpetual servitude to the supreme goddess through her yoni.",
+   "uncertainties": [
+    "The precise force of the instrumental yoninā (by/through/in relation to the yoni) is interpretively open."
+   ],
+   "plain_english": "O Supreme Goddess, I am always your servant through your yoni."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "mṛtyu",
+     "gloss": "death",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jayaḥ",
+     "gloss": "conqueror",
+     "grounds": "one who conquers death",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "continuous state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kamalānane",
+     "gloss": "o-lotus-faced-one",
+     "grounds": "vocative epithet",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What victorious state does the speaker claim before the goddess of gods?",
+   "premises": [
+    "The speaker addresses the goddess of gods.",
+    "The speaker identifies as a conqueror of death.",
+    "This state is declared to be constant."
+   ],
+   "inference": "The speaker claims to be always a conqueror of death.",
+   "uncertainties": [],
+   "plain_english": "O Goddess of gods, O lotus-faced one, I am always the conqueror of death."
+  }
+ ]
+}

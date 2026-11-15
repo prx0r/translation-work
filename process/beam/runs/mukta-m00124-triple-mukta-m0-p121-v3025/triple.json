@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "liṅgavyāsa",
+     "gloss": "linga-diameter",
+     "grounds": "compound denoting the breadth or diameter of the linga, serving as the reference measure",
+     "morph": "compound: liṅga+vyāsa"
+    },
+    {
+     "surface": "aṣṭabhāgaika",
+     "gloss": "eight-part-one",
+     "grounds": "compound indicating one part out of eight, i.e. one eighth",
+     "morph": "compound: aṣṭa+bhāga+eka"
+    },
+    {
+     "surface": "ravātā",
+     "gloss": "by-extent",
+     "grounds": "term indicating extent or measure; exact derivation uncertain in this form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "drāmiḍabhūśilā",
+     "gloss": "dravida-ground-stone",
+     "grounds": "compound naming the base stone associated with the Drāviḍa type of linga",
+     "morph": "compound: drāmiḍa+bhū+śilā"
+    }
+   ],
+   "question": "What proportion of the linga diameter determines the Drāviḍa ground stone?",
+   "premises": [
+    "The linga diameter provides the reference measure.",
+    "One eighth part of that measure is specified.",
+    "This specification applies to the Drāviḍa ground stone."
+   ],
+   "inference": "The Drāviḍa ground stone is defined as one eighth of the linga diameter.",
+   "uncertainties": [
+    "The precise grammatical analysis and derivation of 'ravātā' are unclear."
+   ],
+   "plain_english": "For the Drāviḍa type, the ground stone measures one eighth of the linga's diameter."
+  }
+ ]
+}

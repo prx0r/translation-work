@@ -1,17 +1,13 @@
 {
  "song": "mukta-m0-p02",
  "verse": 46,
- "question": "Which goddess names appear in this list?",
+ "question": "What result follows from reciting a mantra without knowing its meaning and consciousness?",
  "premises": [
-  "Puṣṭi is named",
-  "Tuṣṭi is named",
-  "Lakṣmī is named",
-  "Sarasvatī is named",
-  "two editorial markers appear"
+  "Someone recites a mantra without knowing.",
+  "The objects of knowledge are implied from the prior verse.",
+  "Success does not arise in that case."
  ],
- "inference": "the list includes Puṣṭi, Tuṣṭi, Lakṣmī, and Sarasvatī with two unreadable items",
- "uncertainties": [
-  "two starred tokens are unresolved"
- ],
- "plain_english": "Puṣṭi, Tuṣṭi, and likewise two unreadable items, Lakṣmī, and Sarasvatī."
+ "inference": "Reciting a mantra without knowing its meaning and consciousness does not produce success.",
+ "uncertainties": [],
+ "plain_english": "Whoever recites a mantra without knowing this does not attain success."
 }

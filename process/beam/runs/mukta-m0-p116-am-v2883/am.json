@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p116",
  "verse": 2883,
- "question": "What quantities of food offering and oblation must be given in this ritual?",
+ "question": "What proportional measures define the courtyard and the hall width in this layout?",
  "premises": [
-  "A food offering is to be given.",
-  "The food offering must be double in quantity.",
-  "The oblation must be triple in quantity."
+  "The courtyard should be four parts in measure.",
+  "The hall width should be two parts."
  ],
- "inference": "The practitioner should give a double food offering and likewise a triple oblation.",
- "uncertainties": [
-  "The baseline quantity for 'double' and 'triple' is not specified."
- ],
- "plain_english": "One should give a double food offering and likewise a triple oblation."
+ "inference": "The courtyard is set at four parts and the hall width at two parts.",
+ "uncertainties": [],
+ "plain_english": "The courtyard should be four parts, and the hall width should be two parts."
 }

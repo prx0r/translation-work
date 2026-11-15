@@ -36,6 +36,8 @@ def _run(cmd: list[str], timeout: int = 300) -> dict:
         data = json.loads(r.stdout) if r.stdout.strip() else {}
     except ValueError:
         data = {"raw": r.stdout[-2000:], "stderr": r.stderr[-2000:]}
+    if isinstance(data, list):
+        data = {"results": data, "count": len(data)}
     data["_rc"] = r.returncode
     return data
 

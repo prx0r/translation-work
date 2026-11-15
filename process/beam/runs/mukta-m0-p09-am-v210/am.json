@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 210,
- "question": "What material composition is prescribed for rites such as killing and expulsion?",
+ "question": "What temporal span is defined for the prescribed observance or sequence?",
  "premises": [
-  "Certain rites require specific materials.",
-  "The rites include killing and expulsion.",
-  "The material is composed of bilva seed and moringa."
+  "The starting point is the day beginning with Caitra.",
+  "The ending point is the day ending with Phālguna.",
+  "The span is expressed as a continuous range."
  ],
- "inference": "A composition of bilva seed and moringa is used in killing, expulsion, and similar rites.",
- "uncertainties": [],
- "plain_english": "In killing, expulsion, and similar rites, use a preparation made of bilva seed and moringa."
+ "inference": "The prescribed period runs from the beginning of Caitra to the end of Phālguna.",
+ "uncertainties": [
+  "The exact calendrical reckoning of the boundary days is not specified."
+ ],
+ "plain_english": "Beginning from the day of Caitra and ending with the day of Phālguna."
 }

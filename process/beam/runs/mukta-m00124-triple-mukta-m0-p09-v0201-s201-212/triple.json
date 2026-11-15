@@ -1,0 +1,461 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "dik",
+     "gloss": "direction",
+     "grounds": "Spatial term in ritual enumeration.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhūpa+dīpako",
+     "gloss": "incense-and-lamp",
+     "grounds": "Compound naming ritual offerings; fused form kept as one token.",
+     "morph": "compound: dhūpa+coord+dīpaka; m.nom.sg"
+    },
+    {
+     "surface": "yaś+ca",
+     "gloss": "which-and",
+     "grounds": "Relative or connective element with enclitic conjunction.",
+     "morph": "compound: yaḥ+coord+ca"
+    },
+    {
+     "surface": "dhāgarāyās+tathā+ca+cavau",
+     "gloss": "of-dhāgarā-and-also-and-cavau",
+     "grounds": "Obscure ritual or technical sequence; internal sandhi noted but token not split.",
+     "morph": "compound: dhāgarā+ca+tathā+ca+cavau"
+    }
+   ],
+   "question": "Which ritual items and directional elements are included in this enumerated offering sequence?",
+   "premises": [
+    "Direction is named as an element.",
+    "Incense and lamp are specified together.",
+    "Additional connected terms extend the enumeration."
+   ],
+   "inference": "The verse lists components belonging to a ritual arrangement involving direction and offerings.",
+   "uncertainties": [
+    "The exact referents of dhāgarāyās and cavau are unclear.",
+    "The syntactic role of yaś+ca in this fragment is uncertain."
+   ],
+   "plain_english": "Direction, incense and lamp, and further connected items are included in this sequence."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "dete",
+     "gloss": "given",
+     "grounds": "Possibly a past participle or ritual term indicating what is given.",
+     "morph": "uncertain"
+    },
+    {
+     "surface": "bhaṇḍaratāś+ca+eva",
+     "gloss": "in-treasury-and-indeed",
+     "grounds": "Locative or abstract formation with emphatic and connective particles.",
+     "morph": "compound: bhaṇḍaratā+coord+ca+emph+eva"
+    },
+    {
+     "surface": "pīṭhaś+ca",
+     "gloss": "seat-and",
+     "grounds": "Ritual seat named with conjunction.",
+     "morph": "compound: pīṭha+coord+ca; m.nom.sg"
+    },
+    {
+     "surface": "kṣmaś+ca+eva+ca",
+     "gloss": "earth-and-indeed-and",
+     "grounds": "Earth element named with repeated connectives and emphasis.",
+     "morph": "compound: kṣmā/kṣma+coord+ca+emph+eva+coord+ca"
+    }
+   ],
+   "question": "What placed items and elemental supports are affirmed within the ritual setting?",
+   "premises": [
+    "Something given is indicated.",
+    "A treasury context and a seat are named.",
+    "Earth is included with emphatic connection."
+   ],
+   "inference": "The verse affirms multiple supports or locations, including a seat and the earth, in the ritual context.",
+   "uncertainties": [
+    "The precise form and meaning of dete are uncertain.",
+    "The grammatical analysis of bhaṇḍaratāś is unclear."
+   ],
+   "plain_english": "What is given, the treasury, the seat, and the earth are all included."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "svarādyaḥ+sa+visargopa",
+     "gloss": "beginning-with-vowels-with-visarga",
+     "grounds": "Descriptive compound referring to phonetic elements marked by visarga.",
+     "morph": "compound: svara+ādi+sa+visarga+upa"
+    },
+    {
+     "surface": "śivau",
+     "gloss": "two-śiva",
+     "grounds": "Dual form naming Śiva or a Śiva-related pair.",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "mucavasau+tathā",
+     "gloss": "mucavasau-and-also",
+     "grounds": "Obscure term followed by connective adverb.",
+     "morph": "compound: mucavasau+coord+tathā"
+    }
+   ],
+   "question": "Which phonetic forms and Śiva-related entities are specified in this ritual formula?",
+   "premises": [
+    "A vowel-initial form with visarga is indicated.",
+    "A dual Śiva term is named.",
+    "Another term is added with tathā."
+   ],
+   "inference": "The verse specifies phonetic markers together with a dual Śiva designation and an additional element.",
+   "uncertainties": [
+    "The meaning of mucavasau is unclear.",
+    "The exact referent of śivau in this context is uncertain."
+   ],
+   "plain_english": "A vowel form with visarga, the two Śivas, and mucavasau are likewise specified."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "dṛś+ca",
+     "gloss": "seeing-and",
+     "grounds": "Root-related or nominal form connected by ca.",
+     "morph": "compound: dṛś+coord+ca"
+    },
+    {
+     "surface": "svarādyo+maś+ca+eva",
+     "gloss": "beginning-with-vowels-ma-and-indeed",
+     "grounds": "Phonetic sequence with added syllable and emphasis.",
+     "morph": "compound: svara+ādi+ma+coord+ca+emph+eva"
+    },
+    {
+     "surface": "dīpako",
+     "gloss": "lamp",
+     "grounds": "Ritual lamp named as a distinct item.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śādṛmū+tathā",
+     "gloss": "śādṛmū-and-also",
+     "grounds": "Obscure term linked by tathā.",
+     "morph": "compound: śādṛmū+coord+tathā"
+    }
+   ],
+   "question": "What phonetic and ritual elements are conjoined in this part of the enumeration?",
+   "premises": [
+    "A seeing-related element is connected.",
+    "A vowel-initial phonetic element with ma is affirmed.",
+    "A lamp and another term are added."
+   ],
+   "inference": "The verse conjoins phonetic markers with a ritual lamp and further elements.",
+   "uncertainties": [
+    "The interpretation of dṛś is uncertain.",
+    "The meaning of śādṛmū is unclear."
+   ],
+   "plain_english": "Seeing, a vowel-initial element with ma, the lamp, and śādṛmū are also included."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "carvās+tathā",
+     "gloss": "carvās-and-also",
+     "grounds": "Plural or collective term followed by connective.",
+     "morph": "compound: carvāḥ+coord+tathā"
+    },
+    {
+     "surface": "nā+kṣi+paṃś+ca",
+     "gloss": "nā-kṣi-paṃ-and",
+     "grounds": "Sequence of syllabic or technical elements kept fused.",
+     "morph": "compound: nā+kṣi+paṃ+coord+ca"
+    },
+    {
+     "surface": "viṃ+ca",
+     "gloss": "viṃ-and",
+     "grounds": "Bīja-like syllable or marker with conjunction.",
+     "morph": "compound: viṃ+coord+ca"
+    },
+    {
+     "surface": "vaḥ+sa+visargakaḥ",
+     "gloss": "va-with-visarga",
+     "grounds": "Syllable described as having visarga.",
+     "morph": "compound: vaḥ+sa+visargaka; m.nom.sg"
+    }
+   ],
+   "question": "Which syllabic components and visarga-marked sounds are included in this formula?",
+   "premises": [
+    "Carvās are named with tathā.",
+    "A sequence nā, kṣi, paṃ is connected.",
+    "The syllables viṃ and vaḥ with visarga are included."
+   ],
+   "inference": "The verse enumerates specific syllabic elements, including a visarga-marked sound.",
+   "uncertainties": [
+    "The referent of carvās is unclear.",
+    "Whether nā+kṣi+paṃś forms a mantra unit or separate markers is uncertain."
+   ],
+   "plain_english": "Carvās, the sequence nā-kṣi-paṃ, viṃ, and vaḥ with visarga are included."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "deśaś+ca",
+     "gloss": "place-and",
+     "grounds": "Location or region named with conjunction.",
+     "morph": "compound: deśa+coord+ca; m.nom.sg"
+    },
+    {
+     "surface": "śadbhāmuraś+ca+eva",
+     "gloss": "śadbhāmura-and-indeed",
+     "grounds": "Obscure proper or technical term with emphasis.",
+     "morph": "compound: śadbhāmura+coord+ca+emph+eva"
+    },
+    {
+     "surface": "kāraḥ",
+     "gloss": "maker-syllable",
+     "grounds": "Term denoting a formative element or syllable component.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sā+arcisā+ga+śāḥ",
+     "gloss": "with-flame-sāga-śāḥ",
+     "grounds": "Complex fused sequence possibly describing flame-associated elements.",
+     "morph": "compound: sā+arcis+ga+śāḥ"
+    }
+   ],
+   "question": "What locational and formative elements are associated with flame-like components here?",
+   "premises": [
+    "A place is named.",
+    "An obscure term śadbhāmura is affirmed.",
+    "A kāra element and flame-associated sequence are included."
+   ],
+   "inference": "The verse links place, a formative element, and flame-associated components in one enumeration.",
+   "uncertainties": [
+    "The meaning of śadbhāmuraś is unclear.",
+    "The internal structure of sā+arcisā+ga+śāḥ is uncertain."
+   ],
+   "plain_english": "The place, śadbhāmura, the kāra element, and the flame-associated sequence are included."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "cakraṃ+tu",
+     "gloss": "wheel-but",
+     "grounds": "Ritual diagram or wheel marked by contrastive particle.",
+     "morph": "compound: cakra+particle+tu; n.acc.sg"
+    },
+    {
+     "surface": "gandha+puṣpa+ādyaiḥ",
+     "gloss": "with-fragrance-flower-and-others",
+     "grounds": "Instrumental plural compound listing worship substances.",
+     "morph": "compound: gandha+puṣpa+ādi; m/n.inst.pl"
+    },
+    {
+     "surface": "samabhyarcya+ca",
+     "gloss": "having-worshipped-and",
+     "grounds": "Gerund indicating completed worship before next action.",
+     "morph": "gerund: sam-abhi-arc; +coord+ca"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "should-display",
+     "grounds": "Optative prescribing the act of showing the wheel.",
+     "morph": "3.sg.opt.act; root dṛś"
+    }
+   ],
+   "question": "What ritual action must be performed with the wheel after worship with offerings?",
+   "premises": [
+    "The wheel is the object of focus.",
+    "Worship is performed with fragrance, flowers, and other items.",
+    "A subsequent act of showing is prescribed."
+   ],
+   "inference": "After worshipping the wheel with offerings, one should display it.",
+   "uncertainties": [],
+   "plain_english": "After worshipping the wheel with fragrance, flowers, and other offerings, one should display it."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "guru+ājñā+pūrvakaṃ+ca+evaṃ",
+     "gloss": "preceded-by-teacher-command-and-thus",
+     "grounds": "Adverbial compound indicating authorization by the teacher's command.",
+     "morph": "compound: guru+ājñā+pūrvaka+coord+ca+evaṃ; n.acc.sg/adv"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "should-receive",
+     "grounds": "Optative prescribing reception of the mantra.",
+     "morph": "3.sg.opt.act; root grah"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "Sacred formula as object of reception.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "Qualifies the mantra as highest.",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Under what authorization should the supreme mantra be received by the practitioner?",
+   "premises": [
+    "Reception is preceded by the teacher's command.",
+    "The act prescribed is receiving.",
+    "The object is the supreme mantra."
+   ],
+   "inference": "The practitioner should receive the supreme mantra under the prior authorization of the teacher.",
+   "uncertainties": [],
+   "plain_english": "Thus, preceded by the teacher's command, one should receive the supreme mantra."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "śiva+ādi+avani+paryantaṃ",
+     "gloss": "from-śiva-to-earth",
+     "grounds": "Compound expressing a range from highest principle to earth.",
+     "morph": "compound: śiva+ādi+avani+paryanta; n.acc.sg/adv"
+    },
+    {
+     "surface": "bhūta+bhāva+ādikaṃ",
+     "gloss": "elements-states-and-so-on",
+     "grounds": "Collective term for elements, states, and related categories.",
+     "morph": "compound: bhūta+bhāva+ādi+ka; n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "Ablative used adverbially to indicate sequential procedure.",
+     "morph": "m.abl.sg (indecl. use)"
+    }
+   ],
+   "question": "In what ordered range should the elements and states be contemplated or arranged?",
+   "premises": [
+    "The range extends from Śiva to earth.",
+    "Elements, states, and related items are included.",
+    "The procedure follows a sequence."
+   ],
+   "inference": "The elements and states should be taken in order from Śiva down to earth.",
+   "uncertainties": [],
+   "plain_english": "In order, one should proceed from Śiva down to earth, including the elements, states, and so forth."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "caitrya+ādi+dinam+ārabhya",
+     "gloss": "beginning-from-caitra-day",
+     "grounds": "Gerund phrase marking the starting point in time.",
+     "morph": "compound: caitra+ādi+dina; gerund ārabhya"
+    },
+    {
+     "surface": "phālgunī+anta+dina+antakam",
+     "gloss": "ending-at-phālguna-day",
+     "grounds": "Compound marking the terminal point of the period.",
+     "morph": "compound: phālgunī+anta+dina+antaka; n.acc.sg"
+    }
+   ],
+   "question": "What temporal span is defined for the prescribed observance or sequence?",
+   "premises": [
+    "The starting point is the day beginning with Caitra.",
+    "The ending point is the day ending with Phālguna.",
+    "The span is expressed as a continuous range."
+   ],
+   "inference": "The prescribed period runs from the beginning of Caitra to the end of Phālguna.",
+   "uncertainties": [
+    "The exact calendrical reckoning of the boundary days is not specified."
+   ],
+   "plain_english": "Beginning from the day of Caitra and ending with the day of Phālguna."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "nābhi+padma+daleṣu",
+     "gloss": "in-navel-lotus-petals",
+     "grounds": "Locative plural indicating placement on lotus petals at the navel.",
+     "morph": "compound: nābhi+padma+dala; n.loc.pl"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "Numeral specifying the count of syllables.",
+     "morph": "num.nom/acc.pl"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "syllables",
+     "grounds": "Phonetic units or letters placed in the petals.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dīpaka+pūrvakāḥ",
+     "gloss": "preceded-by-lamp",
+     "grounds": "Compound indicating the sequence begins with dīpaka.",
+     "morph": "compound: dīpaka+pūrvaka; m.nom.pl"
+    }
+   ],
+   "question": "How many syllables are placed on the navel-lotus petals and what precedes them?",
+   "premises": [
+    "The location is the petals of the navel lotus.",
+    "The number of syllables is eight.",
+    "The syllables are preceded by dīpaka."
+   ],
+   "inference": "Eight syllables, preceded by dīpaka, are placed on the petals of the navel lotus.",
+   "uncertainties": [
+    "Whether dīpaka refers to a syllable, deity, or ritual marker is uncertain."
+   ],
+   "plain_english": "Eight syllables, preceded by dīpaka, are placed on the petals of the navel lotus."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "ekena+vā",
+     "gloss": "by-one-or",
+     "grounds": "Instrumental with alternative particle indicating an option.",
+     "morph": "compound: eka+inst.sg+coord+vā"
+    },
+    {
+     "surface": "yajet+ahnā",
+     "gloss": "should-worship-in-day",
+     "grounds": "Optative verb with instrumental of time indicating daily worship.",
+     "morph": "3.sg.opt.act; root yaj; +ahnā m.inst.sg"
+    },
+    {
+     "surface": "cakre+asmin",
+     "gloss": "in-this-wheel",
+     "grounds": "Locative phrase specifying the ritual locus.",
+     "morph": "compound: cakra+loc.sg+asmin"
+    },
+    {
+     "surface": "savyavasthitam",
+     "gloss": "well-arranged",
+     "grounds": "Describes what is properly established in the wheel.",
+     "morph": "n.acc.sg (past participle)"
+    }
+   ],
+   "question": "What worship option is prescribed for what is properly arranged in this wheel?",
+   "premises": [
+    "An option of using one is indicated.",
+    "Worship should be performed in a day.",
+    "The locus is this wheel with something well arranged."
+   ],
+   "inference": "One may worship in a day, optionally with one, what is well arranged in this wheel.",
+   "uncertainties": [
+    "The referent of ekena (one syllable, one offering, or one day-unit) is unclear."
+   ],
+   "plain_english": "Or one should worship in a day what is well arranged in this wheel, using one."
+  }
+ ]
+}
