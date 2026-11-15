@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2390,
- "question": "What general pedestal characteristic applies to all lingas according to this rule?",
+ "question": "How is the lotus formed and what is done around it?",
  "premises": [
-  "The rule concerns all lingas.",
-  "A pedestal characteristic is being stated.",
-  "This characteristic is described as common."
+  "The lotus is formed by four cells.",
+  "One should do again.",
+  "The action is around that."
  ],
- "inference": "The stated measure is the common pedestal characteristic for all lingas.",
- "uncertainties": [],
- "plain_english": "This is the common characteristic of the pedestal for all lingas."
+ "inference": "The lotus is formed by four cells, and one should do again around it.",
+ "uncertainties": [
+  "Exact repeated action is not stated."
+ ],
+ "plain_english": "The lotus is formed by four cells; do again around it."
 }

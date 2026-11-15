@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2439,
- "question": "Which directional placements are assigned to the third and fourth base positions?",
+ "question": "Which mantra is declared first at the end after saying bṛhat-pada?",
  "premises": [
-  "A third base position is specified.",
-  "A fourth base position is specified.",
-  "Directional alternatives are given for their placement."
+  "having-said bṛhat-pada is named",
+  "at-end is named",
+  "first mantra is declared"
  ],
- "inference": "The third base may be placed in the southwest, and the fourth in the northwest.",
- "uncertainties": [],
- "plain_english": "The third base may be placed in the southwest, or the fourth in the northwest."
+ "inference": "The verse states that the first mantra is declared at the end after saying bṛhat-pada.",
+ "uncertainties": [
+  "exact mantra identity uncertain"
+ ],
+ "plain_english": "After saying bṛhat-pada, at the end, the first mantra is declared."
 }

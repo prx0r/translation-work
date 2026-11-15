@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 259,
- "question": "From where should the practitioner bathe after performing the ritual touching?",
+ "question": "What is there in the kadamba grove?",
  "premises": [
-  "Ritual touching precedes bathing.",
-  "The bathing uses consecrated water.",
-  "The water is taken from the middle of the Śiva-tīrtha."
+  "kadamba grove is named",
+  "there is named",
+  "liquor fragrance sweet is named"
  ],
- "inference": "After touching, the practitioner should bathe from the middle of the Śiva-consecrated water.",
- "uncertainties": [],
- "plain_english": "Having touched thus, one should bathe from the middle of the Śiva-consecrated water."
+ "inference": "The kadamba grove there is sweet with liquor fragrance.",
+ "uncertainties": [
+  "exact compound segmentation"
+ ],
+ "plain_english": "There the kadamba grove is sweet with liquor fragrance."
 }

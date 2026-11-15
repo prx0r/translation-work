@@ -3,24 +3,29 @@
  "verse": 150,
  "rows": [
   {
-   "lemma": "tadā",
+   "lemma": "yatra",
    "morph": "(indecl.)",
-   "grounds": "temporal adverb indicating the moment of revelation described in the preceding verses"
+   "grounds": "locative adverb introducing the place of assembly"
   },
   {
-   "lemma": "saptadaśavidyā",
-   "morph": "compound: saptadaśa+vidyā (f.nom.sg)",
-   "grounds": "compound of saptadaśa and vidyā referring to the seventeenfold mantra-knowledge"
+   "lemma": "śakramukhāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "compound with śakra as head and mukha indicating 'and others'; modifies devāḥ"
   },
   {
-   "lemma": "sākṣāt",
-   "morph": "(indecl.)",
-   "grounds": "adverb emphasizing immediate, unmediated presence or manifestation"
+   "lemma": "devāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "subject of samupasthitāḥ"
   },
   {
-   "lemma": "jñānasvarūpiṇī",
-   "morph": "compound: jñāna+svarūpiṇī (f.nom.sg)",
-   "grounds": "compound of jñāna and svarūpiṇī describing the vidyā as having knowledge as its very nature"
+   "lemma": "tripurāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "accusative object of samupasthitāḥ"
+  },
+  {
+   "lemma": "samupasthitāḥ",
+   "morph": "m.nom.pl.perf.part.",
+   "grounds": "perfect participle of sam-upa-sthā, agreeing with devāḥ"
   }
  ]
 }

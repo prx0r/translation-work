@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2441,
- "question": "How does the number of stones determine the quality ranking of the pedestal?",
+ "question": "Where is the pada located in three thighs and strides?",
  "premises": [
-  "A pedestal made of one stone is described.",
-  "A pedestal made of two stones is described.",
-  "Each is assigned a quality rank."
+  "whose in thighs is named",
+  "three is named",
+  "pada is named",
+  "in strides is named"
  ],
- "inference": "A single-stone pedestal is best, while a two-stone pedestal is of middle quality.",
- "uncertainties": [],
- "plain_english": "A pedestal made of one stone is best, and one made of two stones is of middle quality."
+ "inference": "The verse locates the pada in three thighs and then in strides.",
+ "uncertainties": [
+  "exact grammatical relation uncertain"
+ ],
+ "plain_english": "The pada is in three thighs, then in strides."
 }

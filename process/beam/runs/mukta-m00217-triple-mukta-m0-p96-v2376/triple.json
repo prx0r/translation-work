@@ -1,0 +1,1025 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2376,
+   "rows": [
+    {
+     "surface": "pulākadāhasaṃbhūtaṃ",
+     "gloss": "born-from-burning-of-pulāka",
+     "grounds": "compound describing origin from burning pulāka",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śyāmaṃ",
+     "gloss": "dark",
+     "grounds": "color adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bilvacchadotthitam",
+     "gloss": "arisen-from-bilva-leaf",
+     "grounds": "compound describing origin from bilva leaf",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What color and origin describe the substance used for the mandala?",
+   "premises": [
+    "The substance is born from burning pulāka.",
+    "It is dark.",
+    "It arises from bilva leaf."
+   ],
+   "inference": "The mandala substance is dark and derived from burned pulāka and bilva leaf.",
+   "uncertainties": [
+    "Exact ritual identity of pulāka is not specified."
+   ],
+   "plain_english": "The substance is dark, born from burning pulāka and arising from bilva leaf."
+  },
+  {
+   "verse": 2377,
+   "rows": [
+    {
+     "surface": "utsedhatārako",
+     "gloss": "height-star",
+     "grounds": "compound of height and star",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rekhāḥ",
+     "gloss": "lines",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "śuklā",
+     "gloss": "white",
+     "grounds": "color adjective",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "aṃgulamānataḥ",
+     "gloss": "finger-measure",
+     "grounds": "ablative of measure",
+     "morph": "adv"
+    }
+   ],
+   "question": "How are the white lines measured in the mandala?",
+   "premises": [
+    "The lines are white.",
+    "They are measured by finger measure.",
+    "The height-star compound names the feature."
+   ],
+   "inference": "White lines are drawn according to finger measure.",
+   "uncertainties": [
+    "Exact geometric placement is not stated."
+   ],
+   "plain_english": "White lines are measured by finger measure."
+  },
+  {
+   "verse": 2378,
+   "rows": [
+    {
+     "surface": "pītavarṇena",
+     "gloss": "yellow-colored",
+     "grounds": "instrumental adjective",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "cūrṇena",
+     "gloss": "powder",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "karṇikāṃ",
+     "gloss": "pericarp",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "pūrayettataḥ",
+     "gloss": "fill-then",
+     "grounds": "verb with then",
+     "morph": "v.3.sg.act-opt+adv"
+    }
+   ],
+   "question": "What powder fills the pericarp and in what order?",
+   "premises": [
+    "Yellow-colored powder is used.",
+    "The pericarp is filled.",
+    "Then follows the next step."
+   ],
+   "inference": "The pericarp is filled with yellow powder, then the rite continues.",
+   "uncertainties": [
+    "Exact quantity is not given."
+   ],
+   "plain_english": "Fill the pericarp with yellow powder, then proceed."
+  },
+  {
+   "verse": 2379,
+   "rows": [
+    {
+     "surface": "śyāmena",
+     "gloss": "dark",
+     "grounds": "instrumental adjective",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "rajasā",
+     "gloss": "powder",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "sandhiṃ",
+     "gloss": "joint",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mantraviccābhipūrayet",
+     "gloss": "mantra-knower-fills",
+     "grounds": "compound verb phrase",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What powder fills the joint and who performs it?",
+   "premises": [
+    "Dark powder is used.",
+    "The joint is filled.",
+    "The mantra-knower performs the filling."
+   ],
+   "inference": "The mantra-knower fills the joint with dark powder.",
+   "uncertainties": [
+    "Exact joint location is not specified."
+   ],
+   "plain_english": "The mantra-knower fills the joint with dark powder."
+  },
+  {
+   "verse": 2380,
+   "rows": [
+    {
+     "surface": "kiñjalkān",
+     "gloss": "filaments",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "pītaraktena",
+     "gloss": "yellow-red",
+     "grounds": "instrumental compound",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "pīṭhagātrāṇi",
+     "gloss": "pedestal-limbs",
+     "grounds": "accusative plural compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "śubhrataḥ",
+     "gloss": "white",
+     "grounds": "ablative adjective",
+     "morph": "adj.abl.sg.m"
+    }
+   ],
+   "question": "What colors are assigned to filaments and pedestal limbs?",
+   "premises": [
+    "Filaments are yellow-red.",
+    "Pedestal limbs are white.",
+    "The colors are specified."
+   ],
+   "inference": "Filaments are yellow-red and pedestal limbs are white.",
+   "uncertainties": [
+    "Exact number of filaments is not stated."
+   ],
+   "plain_english": "The filaments are yellow-red and the pedestal limbs are white."
+  },
+  {
+   "verse": 2381,
+   "rows": [
+    {
+     "surface": "patramūlaphalākāramaṇḍitā",
+     "gloss": "leaf-root-fruit-shaped",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "hṛdayaṅgamāḥ",
+     "gloss": "heart-pleasing",
+     "grounds": "plural adjective",
+     "morph": "adj.nom.pl.f"
+    }
+   ],
+   "question": "What shape and quality describe the mandala decoration?",
+   "premises": [
+    "The decoration is leaf-root-fruit-shaped.",
+    "It is heart-pleasing.",
+    "The forms are pleasing."
+   ],
+   "inference": "The mandala decoration is shaped like leaf, root, and fruit and is heart-pleasing.",
+   "uncertainties": [
+    "Exact decorative placement is not stated."
+   ],
+   "plain_english": "The decoration is shaped like leaf, root, and fruit and is heart-pleasing."
+  },
+  {
+   "verse": 2382,
+   "rows": [
+    {
+     "surface": "śubhreṇa",
+     "gloss": "white",
+     "grounds": "instrumental adjective",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "rajasā",
+     "gloss": "powder",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "dvāracatuṣkaṃ",
+     "gloss": "four-gates",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrayettataḥ",
+     "gloss": "fill-then",
+     "grounds": "verb with then",
+     "morph": "v.3.sg.act-opt+adv"
+    }
+   ],
+   "question": "What powder fills the four gates and what follows?",
+   "premises": [
+    "White powder is used.",
+    "The four gates are filled.",
+    "Then the rite continues."
+   ],
+   "inference": "The four gates are filled with white powder, then the rite continues.",
+   "uncertainties": [
+    "Exact gate order is not stated."
+   ],
+   "plain_english": "Fill the four gates with white powder, then proceed."
+  },
+  {
+   "verse": 2383,
+   "rows": [
+    {
+     "surface": "kṛṣṇavarṇena",
+     "gloss": "black-colored",
+     "grounds": "instrumental compound",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "koṇāni",
+     "gloss": "corners",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "bahī",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "adv"
+    },
+    {
+     "surface": "rekhātrayaṃ",
+     "gloss": "three-lines",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "adv"
+    }
+   ],
+   "question": "What is drawn outside the corners and when?",
+   "premises": [
+    "Black-colored powder is used.",
+    "The corners are outside.",
+    "Three lines are drawn then."
+   ],
+   "inference": "Outside the corners, three black lines are drawn, then the rite continues.",
+   "uncertainties": [
+    "Exact line spacing is not stated."
+   ],
+   "plain_english": "Outside the corners draw three black lines, then proceed."
+  },
+  {
+   "verse": 2384,
+   "rows": [
+    {
+     "surface": "sāmānyaṃ",
+     "gloss": "common",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sarvatobhadraṃ",
+     "gloss": "all-auspicious",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "hyetaduttamam",
+     "gloss": "indeed-this-excellent",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What kind of mandala is described as common and excellent?",
+   "premises": [
+    "The mandala is common.",
+    "It is all-auspicious.",
+    "It is indeed excellent."
+   ],
+   "inference": "The common mandala is all-auspicious and excellent.",
+   "uncertainties": [
+    "Exact ritual use is not stated."
+   ],
+   "plain_english": "This common mandala is all-auspicious and excellent."
+  },
+  {
+   "verse": 2385,
+   "rows": [
+    {
+     "surface": "pūrvokte",
+     "gloss": "previously-said",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "caturasre",
+     "gloss": "square",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvat+sūtrāṇi",
+     "gloss": "so-many-threads",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "let-fall",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What is done with threads in the previously said square?",
+   "premises": [
+    "The square was previously said.",
+    "Threads are let fall.",
+    "The action is prescribed."
+   ],
+   "inference": "In the previously described square, threads are let fall.",
+   "uncertainties": [
+    "Exact thread count is not stated."
+   ],
+   "plain_english": "In the previously described square, let the threads fall."
+  },
+  {
+   "verse": 2386,
+   "rows": [
+    {
+     "surface": "vedānvitaṃ",
+     "gloss": "veda-endowed",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "middle",
+     "grounds": "locative compound",
+     "morph": "adv"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ṣaṭtriṃśatā",
+     "gloss": "thirty-six",
+     "grounds": "instrumental numeral",
+     "morph": "num.inst.sg.f"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What lotus is placed in the middle and with what number?",
+   "premises": [
+    "The lotus is in the middle.",
+    "It is endowed with veda.",
+    "It is auspicious and thirty-six."
+   ],
+   "inference": "An auspicious thirty-six-petaled lotus is placed in the middle.",
+   "uncertainties": [
+    "Exact petal arrangement is not stated."
+   ],
+   "plain_english": "In the middle place an auspicious lotus of thirty-six."
+  },
+  {
+   "verse": 2387,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "adv"
+    },
+    {
+     "surface": "vāraśobhā",
+     "gloss": "gate-beauty",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "upaśobhā",
+     "gloss": "secondary-beauty",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "adv"
+    },
+    {
+     "surface": "nāsti+vai",
+     "gloss": "not-indeed",
+     "grounds": "compound verb",
+     "morph": "v.3.sg.act-pres+adv"
+    }
+   ],
+   "question": "What beauty is present and what is absent here?",
+   "premises": [
+    "Gate beauty would be as before.",
+    "Secondary beauty is not here indeed.",
+    "The distinction is stated."
+   ],
+   "inference": "Gate beauty remains as before, but secondary beauty is absent here.",
+   "uncertainties": [
+    "Exact meaning of secondary beauty is not stated."
+   ],
+   "plain_english": "Gate beauty remains as before, but secondary beauty is absent here."
+  },
+  {
+   "verse": 2388,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vidhātavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "proktamaṇḍalavacchubham",
+     "gloss": "as-proclaimed-mandala",
+     "grounds": "compound adverb",
+     "morph": "adv"
+    }
+   ],
+   "question": "How should all other work be done?",
+   "premises": [
+    "All other work is to be done.",
+    "It should be done as proclaimed for the mandala.",
+    "The auspicious method is prescribed."
+   ],
+   "inference": "All other work should be done as prescribed for the proclaimed mandala.",
+   "uncertainties": [
+    "Exact additional tasks are not listed."
+   ],
+   "plain_english": "All other work should be done as prescribed for the proclaimed mandala."
+  },
+  {
+   "verse": 2389,
+   "rows": [
+    {
+     "surface": "pātayet",
+     "gloss": "let-fall",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "gradually",
+     "grounds": "adverb",
+     "morph": "adv"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction",
+     "morph": "conj"
+    },
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "cells",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "adv"
+    }
+   ],
+   "question": "How is thread let fall in the mandala?",
+   "premises": [
+    "Thread is let fall gradually.",
+    "It continues until cells are formed.",
+    "The cells are everywhere."
+   ],
+   "inference": "Thread is let fall gradually until cells are formed everywhere.",
+   "uncertainties": [
+    "Exact thread count is not stated."
+   ],
+   "plain_english": "Let the thread fall gradually until cells are formed everywhere."
+  },
+  {
+   "verse": 2390,
+   "rows": [
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "by-four",
+     "grounds": "instrumental numeral",
+     "morph": "num.inst.pl.m"
+    },
+    {
+     "surface": "koṣṭhaiḥ",
+     "gloss": "cells",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "tatparitaḥ",
+     "gloss": "that-around",
+     "grounds": "adverb",
+     "morph": "adv"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "adv"
+    }
+   ],
+   "question": "How is the lotus formed and what is done around it?",
+   "premises": [
+    "The lotus is formed by four cells.",
+    "One should do again.",
+    "The action is around that."
+   ],
+   "inference": "The lotus is formed by four cells, and one should do again around it.",
+   "uncertainties": [
+    "Exact repeated action is not stated."
+   ],
+   "plain_english": "The lotus is formed by four cells; do again around it."
+  },
+  {
+   "verse": 2391,
+   "rows": [
+    {
+     "surface": "catuṣkeṣu",
+     "gloss": "in-fours",
+     "grounds": "locative plural",
+     "morph": "num.loc.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmāni",
+     "gloss": "lotuses",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "vidadhyān",
+     "gloss": "should-place",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "mantravittamaḥ",
+     "gloss": "mantra-knower-best",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who places lotuses in fours and where?",
+   "premises": [
+    "Lotuses are placed in fours.",
+    "The best mantra-knower does it.",
+    "The placement is prescribed."
+   ],
+   "inference": "The best mantra-knower places lotuses in fours.",
+   "uncertainties": [
+    "Exact total number is not stated."
+   ],
+   "plain_english": "The best mantra-knower places lotuses in fours."
+  },
+  {
+   "verse": 2392,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction",
+     "morph": "conj"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "num.acc.pl.n"
+    },
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "cells",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "mārjayet",
+     "gloss": "cleanse",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How many cells are cleansed and by whom?",
+   "premises": [
+    "Sixteen cells are cleansed.",
+    "These cells are specified.",
+    "The cleansing is prescribed."
+   ],
+   "inference": "These sixteen cells are cleansed.",
+   "uncertainties": [
+    "Exact cleansing method is not stated."
+   ],
+   "plain_english": "Cleanse these sixteen cells."
+  },
+  {
+   "verse": 2393,
+   "rows": [
+    {
+     "surface": "rajobhiḥ",
+     "gloss": "powders",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "śuklahāridraraktanīlaiḥ",
+     "gloss": "white-yellow-red-blue",
+     "grounds": "compound adjective",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "fill",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What powders fill the cells?",
+   "premises": [
+    "Powders are used.",
+    "They are white, yellow, red, and blue.",
+    "The cells are filled."
+   ],
+   "inference": "The cells are filled with white, yellow, red, and blue powders.",
+   "uncertainties": [
+    "Exact color-to-cell mapping is not stated."
+   ],
+   "plain_english": "Fill with white, yellow, red, and blue powders."
+  },
+  {
+   "verse": 2394,
+   "rows": [
+    {
+     "surface": "uditaṃ",
+     "gloss": "risen",
+     "grounds": "participle adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "hyetannavanābhaṃ",
+     "gloss": "indeed-this-nine-navel",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "suśobhanam",
+     "gloss": "very-beautiful",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What mandala is described as risen and very beautiful?",
+   "premises": [
+    "The mandala is risen.",
+    "It is nine-navel.",
+    "It is very beautiful."
+   ],
+   "inference": "The risen mandala is nine-navel and very beautiful.",
+   "uncertainties": [
+    "Exact nine-navel geometry is not stated."
+   ],
+   "plain_english": "The risen mandala is nine-navel and very beautiful."
+  },
+  {
+   "verse": 2395,
+   "rows": [
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "syāttu",
+     "gloss": "would-be-then",
+     "grounds": "compound verb",
+     "morph": "v.3.sg.act-opt+adv"
+    },
+    {
+     "surface": "pañcābjaṃ",
+     "gloss": "five-lotus",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "sarvakāmaphalapradam",
+     "gloss": "all-desires-fruit-giving",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What mandala gives all desired fruits?",
+   "premises": [
+    "The mandala would be five-lotus.",
+    "It gives all desired fruits.",
+    "The result is stated."
+   ],
+   "inference": "The five-lotus mandala gives all desired fruits.",
+   "uncertainties": [
+    "Exact five-lotus arrangement is not stated."
+   ],
+   "plain_english": "The five-lotus mandala gives all desired fruits."
+  },
+  {
+   "verse": 2396,
+   "rows": [
+    {
+     "surface": "etanmaṇḍalamadhye",
+     "gloss": "this-mandala-middle",
+     "grounds": "locative compound",
+     "morph": "adv"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādanyatamaṃ",
+     "gloss": "should-do-another",
+     "grounds": "compound verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What should the wise do in the middle of this mandala?",
+   "premises": [
+    "The action is in the middle of this mandala.",
+    "The wise should do another.",
+    "The instruction is prescribed."
+   ],
+   "inference": "The wise should do another rite in the middle of this mandala.",
+   "uncertainties": [
+    "Exact other rite is not stated."
+   ],
+   "plain_english": "The wise should do another rite in the middle of this mandala."
+  },
+  {
+   "verse": 2397,
+   "rows": [
+    {
+     "surface": "vedikāyām",
+     "gloss": "altar",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "āsane",
+     "gloss": "seat",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "prāṅmukhaḥ",
+     "gloss": "east-facing",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "saṃviśedatha",
+     "gloss": "should-sit-then",
+     "grounds": "compound verb",
+     "morph": "v.3.sg.act-opt+adv"
+    }
+   ],
+   "question": "How should he sit on the altar seat?",
+   "premises": [
+    "He sits on the altar seat.",
+    "He is east-facing.",
+    "Then he should sit."
+   ],
+   "inference": "He should sit east-facing on the altar seat.",
+   "uncertainties": [
+    "Exact posture details are not stated."
+   ],
+   "plain_english": "He should sit east-facing on the altar seat."
+  },
+  {
+   "verse": 2398,
+   "rows": [
+    {
+     "surface": "deśikendrastu",
+     "gloss": "teacher-lord-then",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "gerund",
+     "morph": "v.ger"
+    },
+    {
+     "surface": "pūjopakaraṇāni",
+     "gloss": "worship-implements",
+     "grounds": "accusative compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the teacher-lord do with worship implements?",
+   "premises": [
+    "The teacher-lord places worship implements.",
+    "The action is completed.",
+    "Then the rite continues."
+   ],
+   "inference": "The teacher-lord places the worship implements, then continues.",
+   "uncertainties": [
+    "Exact implements are not listed."
+   ],
+   "plain_english": "The teacher-lord places the worship implements, then continues."
+  },
+  {
+   "verse": 2399,
+   "rows": [
+    {
+     "surface": "sugandhijalapūrṇaṃ",
+     "gloss": "fragrant-water-filled",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "conj"
+    },
+    {
+     "surface": "hastaprakṣālanāya",
+     "gloss": "hand-washing",
+     "grounds": "dative compound",
+     "morph": "n.dat.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "conj"
+    }
+   ],
+   "question": "What is provided for hand washing?",
+   "premises": [
+    "It is filled with fragrant water.",
+    "It is for hand washing.",
+    "The provision is stated."
+   ],
+   "inference": "Fragrant water is provided for hand washing.",
+   "uncertainties": [
+    "Exact vessel is not stated."
+   ],
+   "plain_english": "Fragrant water is provided for hand washing."
+  }
+ ]
+}

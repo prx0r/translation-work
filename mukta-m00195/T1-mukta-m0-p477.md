@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p477-v11901
-[all](sarva) [limb](aṅga) [beautiful](sundaraṃ) [gentle](saumyaṃ) [all](sarva) [ornament](ābharaṇa) [adorned](bhūṣitam)
+[all-limbs-beautiful](sarvāṅgasundaraṃ) [gentle](saumyaṃ) [all-ornaments-adorned](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p477-v11902
-[discus](cakraṃ) [conch](śaṃkhaṃ) [bow](dhanuḥ) [sword](khaḍgaṃ) [mace](gadāṃ) [club](musalam) [goad](aṃkuśam)
+[discus](cakraṃ) [conch](śaṃkhaṃ) [bow](dhanuḥ) [sword](khaḍgaṃ) [mace](gadāṃ) [pestle](musalamaṃkuśam)
 
 ## mukta-m0-p477-v11903
-[all](sarva) [ornament](bhūṣā) [endowed-with](āḍhyayā) [lotus](padma) [hand](kara) [by-embraced](yā+āliṅgitaṃ) [one-should-meditate](smaret)
+[all-ornaments-rich](sarvabhūṣāḍhyayā) [lotus-handed](padmakarayā) [embraced](liṅgitaṃ) [remember](smaret)
 
 ## mukta-m0-p477-v11904
-[to-bird-king](pakṣirājāya) [svāhā](svāhā) [thus](iti) [his](tasya) [worship](pūjā) [mantra](manuḥ) [approved](mataḥ)
+[mantra](pakṣirājāyasvāheti) [his](tasya) [worship](pūjā) [approved](manurmataḥ)
 
 ## mukta-m0-p477-v11905
-[his](tat) [left](vāma) [on-thigh](ūrau) [to-be-worshipped](pūjanīyā) [by-practitioner](mantriṇā) [Śrī](śrīḥ) [to-Śrī](śriye) [obeisance](namaḥ)
+[then-left-thigh](tadvāmorau) [worship](pūjanīyā) [by-mantrin](mantriṇā) [śrī](śrīḥ) [to-śrī](śriye) [salutation](namaḥ)
 
 ## mukta-m0-p477-v11906
-[in-order](kramāt) [one-should-worship](abhyarccayet) [limb](aṅga) [sixfold](ṣaṭkaṃ) [should-be](syāt) [first](prathamā) [enclosure](āvṛtiḥ)
+[gradually](kramād) [worship](abhyarccayet) [six-limbs](aṅgaṣaṭkaṃ) [be](syāt) [first-circuit](prathamāvṛtiḥ)
 
 ## mukta-m0-p477-v11907
-[in-third](tṛtīye) [enclosure](āvaraṇe) [Lakṣmī](lakṣmī) [Vāgrā](vāgrā) [Prīti](prīti) [Kīrti](kīrttayaḥ)
+[third-enclosure](tṛtīyāvaraṇe) [lakṣmī](lakṣmī) [vāgrati-prīti-kīrti](vāgratiprītikīrttayaḥ)
 
 ## mukta-m0-p477-v11908
-[Indra](indra) [beginning-with](ādyān) [and](ca) [also](api) [thunderbolt](vajra) [beginning-with](ādīn) [in-fifth](pañcame) [and](ca) [thus](iti) [worship](pūjanam)
+[indra-etc](indrādyāṃś) [also](cāpi) [vajra-etc](vajrādīn) [fifth](pañcame) [thus](ceti) [worship](pūjanam)
 
 ## mukta-m0-p477-v11909
-[at-beginning](ādau) [klīm](klīm) [here](atra) [to-three-world](trailokya) [enchanting](mohanāya) [then](tataḥ) [one-should-say](vadet)
+[first](ādau) [klīm-mantra](klīmatra) [for-world-deluding](trailokyamohanāya) [then](tato) [say](vadet)
 
 ## mukta-m0-p477-v11910
-[with-namaḥ](namaḥ) [ending](antaiḥ) [five](pañca) [of-flowers](puṣpāṇām) [handfuls](añjalīn) [and](ca) [one-should-offer](samarppayet)
+[with-namah-endings](namontaiḥ) [five](pañca) [flowers](puṣpāṇām) [anjali](añjalīṃś) [also](ca) [offer](samarppayet)
 
 ## mukta-m0-p477-v11911
-[five](paṃca) [names](nāmāni) [thus](iti) [and](ca) [here](atra) [in-Puruṣottama](puruṣotta) [worship](pūjane)
+[five](paṃca) [names](nāmānīti) [also](cātra) [puruṣottama-worship](puruṣottapūjane)
 
 ## mukta-m0-p477-v11912
-[with-bilva-leaves](bilvaiḥ) [or](vā) [with-lotuses](kamalaiḥ) [afterwards](paścāt) [with-libations](tarppaṇa) [etc.](ādyaiḥ) [should-be](bhavet) [mantra](manuḥ)
+[with-bilva-or-lotus](bilvairvā) [lotuses](kamalaiḥ) [afterwards](paścāt) [tarpana-etc](tarppaṇādyair) [be](bhaven) [mantra](manuḥ)
 
 ## mukta-m0-p477-v11913
-[with-all](samasta) [offerings](ādhau) [one-should-offer-into-fire](prajuhuyāt) [eight](aṣṭa) [plus-hundred](uttara) [thousand](sahasrakam)
+[all-offerings](samastādhau) [offer](prajuhuyāt) [thousand-eight](aṣṭottarasahasrakam)
 
 ## mukta-m0-p477-v11914
-[eight](aṣṭa) [plus](adhika) [hundred](śataṃ) [having-recited](japtvā) [to-all](sarva) [people](loka) [dear](priyaḥ) [one-becomes](bhavet)
+[hundred-eight](aṣṭādhikaśataṃ) [chant](japtvā) [all-worlds-dear](sarvalokapriyo) [become](bhavet)
 
 ## mukta-m0-p477-v11915
-[kings](rājānaḥ) [under-control](vaśagāḥ) [all](sarve) [month](māsa) [mere](mātrāt) [not](na) [doubt](saṃśayaḥ)
+[kings](rājāno) [subdued](vaśagāḥ) [all](sarve) [month-only](māsamātrān) [no-doubt](na) [saṃśayaḥ]
 
 ## mukta-m0-p477-v11916
-[palāśa](palāśa) [flower](puṣpa) [by-oblation](homena) [as-before](prākvat) [brahmins](viprāḥ) [and](ca) [controllable](vaśyakāḥ)
+[palāśa-flower-homa](palāśapuṣpahomena) [as-before](prāgvat) [brahmins](viprāś) [also](ca) [subdued](vaśyakāḥ)
 
 ## mukta-m0-p477-v11917
-[day](dina) [at-beginning](ādau) [she](sā) [becoming-subdued](vaśībhūyāt) [I-am-servant](dāsyasmi) [thus](iti) [etc.](ādi) [speaking](vādinī)
+[from-day-beginning](dinādau) [she](sā) [subdued](vaśībhūyāt) [i-am-servant-etc](dāsyasmītyādivādinī)
 
 ## mukta-m0-p477-v11918
-[aśvattha](aśvattha) [produced](uttha) [with-fuel-sticks](samidbhiḥ) [but](tu) [one-should-offer](hunet) [fortnight](pakṣa) [three](trayaṃ) [self-restrained](yamī)
+[aśvattha-twigs](aśvatthotthasamidbhiḥ) [tu](tu) [offer](hunet) [three-fortnights](pakṣatrayaṃ) [yamī](yamī)
 
 ## mukta-m0-p477-v11919
-[thief](cauro) [goes](yāti) [wealth](dhanaṃ) [having-given](dattvā) [having-bowed](praṇamya) [own](sva) [house](gṛhaṃ) [towards](prati)
+[thief](cauro) [goes](yāti) [wealth](dhanaṃ) [giving](dattvā) [bowing](praṇamya) [own-house](svagṛhaṃ) [towards](prati)
 
 ## mukta-m0-p477-v11920
-[buried](nikhātaṃ) [enemy](śatru) [in-house](sadane) [enemy](śatrum) [one-should-expel](uccāṭayet) [certainly](dhruvam)
+[buried](nikhātaṃ) [enemy-house](śatrusadane) [enemy](śatrum) [uproot](uccāṭayed) [certainly](dhruvam)
 
 ## mukta-m0-p477-v11921
-[cruel](krūre) [on-day](vāre) [and](ca) [on-ascendant](lagne) [also](api) [enemy](śatrum) [one-should-expel](uccāṭayet) [certainly](dhruvam)
+[cruel](krūra) [weekday](vāre) [also](ca) [ascendant](lagnepi) [enemy](śatrum) [uproot](uccāṭayed) [certainly](dhruvam)
 
 ## mukta-m0-p477-v11922
-[white](śuklaṃ) [red](raktaṃ) [hair](keśa) [possessing](yuktaṃ) [enemy](ripum) [one-should-expel](uccāṭayet) [certainly](dhruvam)
+[white](śuklaṃ) [red](raktaṃ) [hair-joined](keśayuktaṃ) [enemy](ripum) [uproot](uccāṭayed) [certainly](dhruvam)
 
 ## mukta-m0-p477-v11923
-[enemy](ripuḥ) [death](nidhanam) [attains](āyāti) [with-eight](sa+aṣṭa) [plus-hundred](adhika) [thousand](sahasrataḥ)
+[enemy](ripuḥ) [death](nidhanam) [comes](āyāti) [thousand-eight](sāṣṭādhikasahasrataḥ)
 
 ## mukta-m0-p477-v11924
-[or](yadvā) [jyotiṣmatī](jyotiṣmatī) [oil](tailaṃ) [one-should-offer](hunet) [eight](aṣṭa) [thousand](sahasrakam)
+[or](yadvā) [jyotiṣmatī-oil](jyotiṣmatītailaṃ) [offer](hunet) [eight-thousand](aṣṭasahasrakam)
 
 ## mukta-m0-p477-v11925
-[practitioner](mantrī) [in-secluded](vivikte) [earth](bhū) [place](deśe) [recitation](japa) [oblation](homa) [worship](arcane) [devoted](rataḥ)
+[mantrin](mantrī) [secluded](vivikte) [place](bhūdeśe) [japa-homa-worship](japahomārcane) [delighted](rataḥ)

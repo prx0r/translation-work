@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 257,
- "question": "What effect does the ritual placement have on subtle impurities in the water?",
+ "question": "What shines there in autumn by Isha and Urja powers?",
  "premises": [
-  "Subtle impurities may exist in the water.",
-  "The ritual act targets these impurities.",
-  "The result is their expulsion."
+  "autumn season is named",
+  "Isha and Urja powers are named",
+  "there is named"
  ],
- "inference": "The ritual causes the expulsion of subtle impurities present in the water.",
- "uncertainties": [],
- "plain_english": "Whatever subtle impurities are in the water, their expulsion will occur."
+ "inference": "Autumn shines there by those powers.",
+ "uncertainties": [
+  "token spelling with question mark"
+ ],
+ "plain_english": "There autumn shines by Isha and Urja powers."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 252,
- "question": "Why does water that is constantly used become ritually impure?",
+ "question": "What shines in those houses during the dwelling season?",
  "premises": [
-  "Water may be used constantly.",
-  "Constant use affects the condition of water.",
-  "Such water becomes impure from that use."
+  "houses are named",
+  "those are named",
+  "dwelling season is named"
  ],
- "inference": "Because it is continually used, bathing water becomes impure and requires purification.",
- "uncertainties": [],
- "plain_english": "But water that is constantly used therefore becomes impure."
+ "inference": "The verse describes shining in houses during the dwelling season.",
+ "uncertainties": [
+  "exact season reference"
+ ],
+ "plain_english": "In those houses the dwelling season shines very beautifully."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p418-v10426
-[of-brahmins](viprāṇāṃ) [nourishment-giving](puṣṭidaṃ) [eye-triad+adorned+face](netra+tritaya+alaṃkṛta+ānanam)
+[of-brahmins](viprāṇāṃ) [nourishing](puṣṭidaṃ) [three-eyed](netratritaya) + [ornamented](alaṃkṛta) + [face](ānanam)
 
 ## mukta-m0-p418-v10427
-[mace](gadāṃ) [treasure](nidhiṃ) [and](ca) [bearing](bibhrāṇaṃ) [with-Lakṣmī](lakṣmyā) [united](yuktaṃ) [treasure-giver](nidhi+pradam)
+[mace](gadāṃ) [treasure](nidhiṃ) [and](ca) [bearing](bibhrāṇaṃ) [Lakshmi](lakṣmyā) [united](yuktaṃ) [treasure-giving](nidhipradam)
 
 ## mukta-m0-p418-v10428
-[noose-goad+shining+arms](pāśa+aṅkuśa+sphurat+bāhuṃ) [conch-disc+holder](śaṅkha+cakra+dharam) [lord](prabhum)
+[noose-goad](pāśāṃkuśa) + [flashing](sphurad) + [arm](bāhuṃ) [conch-disc-bearing](śaṃkhacakradharam) + [lord](prabhum)
 
 ## mukta-m0-p418-v10429
-[with-Lakṣmī](lakṣmyā) [united](yuktaṃ) [Narasimha](nārasiṃhaṃ) [should-worship](pūjayet) [practitioner](sādhakaḥ) [always](sadā)
+[Lakshmi](lakṣmyā) [united](yuktaṃ) [Narasimha](nārasiṃhaṃ) [worship](pūjayet) [devotee](sādhakaḥ) [always](sadā)
 
 ## mukta-m0-p418-v10430
-[conch](śaṃkhaṃ) [shield](kheṭaṃ) [mace](gadāṃ) [Śārṅga-bow](śārṅgaṃ) [should-worship](pūjayet) [of-god](deva) [on-left](vāmataḥ)
+[conch](śaṃkhaṃ) [shield](kheṭaṃ) [mace](gadāṃ) [bow](śārṅgaṃ) [worship](pūjayet) [god](deva) + [left-side](vāmataḥ)
 
 ## mukta-m0-p418-v10431
-[of-Lakṣmī](lakṣmī) [on-right-side](dakṣiṇataḥ) [satisfaction](tuṣṭiṃ) [on-left](vāme) [there-indeed](tatra+eva) [Kaustubha-jewel](kaustubham)
+[Lakshmi](lakṣmī) + [right-side](dakṣiṇataḥ) [satisfaction](tuṣṭiṃ) [left](vāme) [there](tatra) + [indeed](eva) [Kaustubha](kaustubham)
 
 ## mukta-m0-p418-v10432
-[yellow-garment](pīta+ambaraṃ) [sacred-thread](brahma+sūtraṃ) [navel-lotus](nābhi+padmaṃ) [crown](kirīṭakam)
+[yellow-garment](pītāmbaraṃ) [sacred-thread](brahmasūtraṃ) [navel-lotus](nābhipadmaṃ) [crown](kirīṭakam)
 
 ## mukta-m0-p418-v10433
-[Ṣaṣṭhī-Śraddhā+and-others](ṣaṣṭhī+śraddhā+ādibhiḥ) [faith](śraddhā) [wisdom](medhā) [satisfaction](tuṣṭiḥ) [and](ca) [bow](kārmukā)
+[sixth-faith-etc](ṣaṣṭhīśraddhādibhiḥ) [faith](śraddhā) [intelligence](medhā) [satisfaction](tuṣṭiḥ) + [and](ca) [bow](kārmukā)
 
 ## mukta-m0-p418-v10434
-[thus](evaṃ) [having-worshipped](sampūjya) [according-to-rule](vidhi+vat) [practitioner](sādhakaḥ) [desired-object](abhīṣṭam) [obtains](āpnuyāt)
+[thus](evaṃ) [worship](sampūjya) [duly](vidhivat) [devotee](sādhakaḥ) [desired](abhīṣṭam) [attain](āpnuyāt)
 
 ## mukta-m0-p418-v10435
-[that](tat) [thousand](sahasraṃ) [should-offer](prajuhuyāt) [with-ghee+smeared+oblation](ghṛta+ākta+haviṣā) [in-fire](anale)
+[that](tat) [thousand](sahasraṃ) [offer](prajuhuyāt) [ghee-anointed](ghṛtākta) + [oblation](haviṣā) + [fire](anale)
 
 ## mukta-m0-p418-v10436
-[should-make](kuryāt) [accomplished-mantra](saṃsiddha+mantraḥ) [then](tu) [practices](prayogān) [should-perform](ācaret) [thereafter](tataḥ)
+[do](kuryāt) [accomplished-mantra](saṃsiddhamantraḥ) + [indeed](tu) [applications](prayogān) [practice](ācaret) + [then](tataḥ)
 
 ## mukta-m0-p418-v10437
-[rising-thousand+sun+splendor](udyat+sahasra+arka+bhāsaṃ) [three-eyed](tri+netram) [terrible+form](bhīṣaṇa+ākṛtim)
+[rising-thousand-sun](udyatsahasrārka) + [radiance](bhāsaṃ) [three-eyed](trinetram) [terrifying-form](bhīṣaṇākṛtim)
 
 ## mukta-m0-p418-v10438
-[with-claws](nakhaiḥ) [torn+demon-lord](dārita+daitya+īśaṃ) [blood-stream+smeared+body](rakta+dhārā+akta+kāyakam)
+[nails-torn](nakhairdārita) + [demon-lord](daityeśaṃ) [blood-stream](raktadhārā) + [stained-body](aktakāyakam)
 
 ## mukta-m0-p418-v10439
-[universal-form+consisting](viśva+rūpa+mayaṃ) [meditation](dhyānaṃ) [of-Nṛhari](nṛhareḥ) [is-declared](procyate) [now](adhunā)
+[universal-form](viśvarūpamayaṃ) [meditation](dhyānaṃ) [Narahari](nṛhareḥ) [proclaimed](procyate) [now](adhunā)
 
 ## mukta-m0-p418-v10440
-[entrail-garland+wearing](antra+mālā+dharaṃ) [fierce](raudraṃ) [on-neck](kaṇṭhe) [with-necklace](hāreṇa) [adorned](śobhitam)
+[intestine-garland](antramālā) + [bearing](dharaṃ) [fierce](raudraṃ) [neck](kaṇṭhe) [necklace](hāreṇa) [adorned](śobhitam)
 
 ## mukta-m0-p418-v10441
-[moon-crested](candra+mauliṃ) [blue-throated](nīla+kaṇṭhaṃ) [in-each-face](prati+vaktre) [three-eyed](tri+locanam)
+[moon-crested](candramauliṃ) [blue-throated](nīlakaṇṭhaṃ) [each-face](prativaktre) [three-eyed](trilocanam)
 
 ## mukta-m0-p418-v10442
-[rosary](akṣa+sūtraṃ) [mace](gadāṃ) [lotus](padmaṃ) [conch](śaṅkhaṃ) [cow-milk+resembling](go+kṣīra+sannibham)
+[rosary](akṣasūtraṃ) [mace](gadāṃ) [lotus](padmaṃ) [conch](śaṅkhaṃ) [cow-milk-like](gokṣīrasannibham)
 
 ## mukta-m0-p418-v10443
-[sword](khaḍgaṃ) [trident](śūlaṃ) [and](ca) [arrow](bāṇaṃ) [and](ca) [Nṛhari](nṛhariṃ) [Rudra-protector](rudra+gopanam)
+[sword](khaḍgaṃ) [spear](śūlaṃ) [and](ca) [arrow](bāṇaṃ) [and](ca) [Narahari](nṛhariṃ) [Rudra-secret](rudragopanam)
 
 ## mukta-m0-p418-v10444
-[thus](evam) [terrible-Hari](ugra+hariṃ) [one-should-meditate](dhyāyet) [all-diseases+removal](sarva+vyādhi+nivṛttaye)
+[thus](evam) [fierce-Hari](ugraharim) [meditate](dhyāyet) [all-disease-removal](sarvavyādhinivṛttaye)
 
 ## mukta-m0-p418-v10445
-[Nṛsiṃha](nṛsiṃhaḥ) [all-worlds+lord](sarva+loka+īśaḥ) [all-ornaments+adorned](sarva+ābharaṇa+bhūṣitaḥ)
+[Narasimha](nṛsiṃhaḥ) [all-world-lord](sarvalokeśaḥ) [all-ornament-adorned](sarvābharaṇabhūṣitaḥ)
 
 ## mukta-m0-p418-v10446
-[conch-disc+holders](śaṅkha+cakra+dharau) [delightful](ramyau) [other-two](anyau) [arrow-bow+holders](bāṇa+dhanur+dharau)
+[conch-disc-bearing](śaṃkhacakradharau) [beautiful](ramyau) [two](anyau) [arrow-bow-bearing](bāṇadhanurdharau)
 
 ## mukta-m0-p418-v10447
-[noose-goad+holders](pāśa+aṅkuśa+dharau) [other-two](anyau) [two](dvau) [of-enemy+crown+placed](ripoḥ+mukuṭa+arpitau)
+[noose-goad-bearing](pāśāṃkuśadharau) [two](anyau) [two](dvau) [enemy-crown-placed](ripormukuṭārpitau)
 
 ## mukta-m0-p418-v10448
-[one-should-meditate](dhyāyet) [lotus-blue+resembling](ambuja+nīla+ābham) [in-fierce-deed](ugra+karmaṇi) [with-undivided-mind](ananya+dhīḥ)
+[meditate](dhyāyet) [lotus-blue-colored](ambujanīlābham) [fierce-action](ugrakarmaṇi) [unwavering-mind](ananyadhīḥ)
 
 ## mukta-m0-p418-v10449
-[Nṛsiṃha](nṛsiṃhaḥ) [all-ornaments+endowed](sarva+bhūṣā+āḍhyaḥ) [all-accomplishments+causing](sarva+siddhi+karaḥ) [lord](prabhuḥ)
+[Narasimha](nṛsiṃhaḥ) [all-ornament-rich](sarvabhūṣāḍhyaḥ) [all-accomplishment-maker](sarvasiddhikaraḥ) [lord](prabhuḥ)
 
 ## mukta-m0-p418-v10450
-[plough](halaṃ) [and](ca) [pestle](musalaṃ) [properly](samyak) [fearlessness](abhayaṃ) [and](ca) [goad](aṃkuśam) [likewise](tathā)
+[plough](halaṃ) [and](ca) [pestle](musalaṃ) [properly](samyak) [fearlessness](abhayaṃ) [and](ca) [goad](aṃkuśam) [thus](tathā)

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "aparādhijanān",
+     "gloss": "offending-people",
+     "grounds": "compound aparādhin-jana in accusative plural masculine; those who have committed offenses",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "daṇḍeyojayantī",
+     "gloss": "punishing",
+     "grounds": "feminine nominative singular present participle; causative action of imposing punishment",
+     "morph": "f.nom.sg.participle"
+    },
+    {
+     "surface": "susaṃsthitā",
+     "gloss": "well-situated",
+     "grounds": "feminine nominative singular adjective or participle; stable and well-established",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the goddess deal with offending people while remaining well-situated?",
+   "premises": [
+    "goddess punishes offending people",
+    "goddess remains well-situated"
+   ],
+   "inference": "punishment and stable abode coexist in her form",
+   "uncertainties": [
+    "exact syntactic relation of daṇḍeyojayantī remains uncertain",
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Well-situated, she punishes offending people."
+  }
+ ]
+}

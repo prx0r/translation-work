@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2503,
- "question": "Which deities are assigned in sequence to the north-facing tip lines?",
+ "question": "Can a gift that is not named as the self become bondage-causing?",
  "premises": [
-  "There are lines whose tips face north.",
-  "Brahma, the Sun, and the Moon are to be assigned.",
-  "The assignment follows a specific order."
+  "other gifts not named as self may become bondage-causing",
+  "such gifts bind rather than liberate"
  ],
- "inference": "Therefore, Brahma, the Sun, and the Moon are assigned in order to the north-facing tip lines.",
- "uncertainties": [],
- "plain_english": "To the lines with north-facing tips, Brahma, the Sun, and the Moon are assigned in order."
+ "inference": "gifts not identified with the self can produce bondage",
+ "uncertainties": [
+  "exact referent of anyat"
+ ],
+ "plain_english": "Even another gift, not named as the self, may become bondage-causing."
 }

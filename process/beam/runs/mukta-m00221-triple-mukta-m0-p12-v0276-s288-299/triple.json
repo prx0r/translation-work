@@ -1,0 +1,491 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "tadājñāmantarā",
+     "gloss": "that-command-between",
+     "grounds": "compound of tad, ājñā, antara",
+     "morph": "compound (tad+ājñā+antara)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naiṣat",
+     "gloss": "not-this",
+     "grounds": "negative particle with eṣat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "root prāp, present active",
+     "morph": "3.sg.act-pres (prāp)"
+    },
+    {
+     "surface": "tadrasam",
+     "gloss": "that-essence",
+     "grounds": "compound of tad and rasa",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What happens to the command's essence when it is not obtained there?",
+   "premises": [
+    "The command is between there and that essence.",
+    "It is not obtained there."
+   ],
+   "inference": "The essence remains unattained in that interval.",
+   "uncertainties": [
+    "Exact syntactic role of naiṣat is unclear."
+   ],
+   "plain_english": "There, between that command and its essence, it is not obtained."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "tyajanti",
+     "gloss": "abandon",
+     "grounds": "root tyaj, present active",
+     "morph": "3.pl.act-pres (tyaj)"
+    },
+    {
+     "surface": "tāpam",
+     "gloss": "heat",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśyanti",
+     "gloss": "see",
+     "grounds": "root paś, present active",
+     "morph": "3.pl.act-pres (paś)"
+    },
+    {
+     "surface": "jagattattvam",
+     "gloss": "world-principle",
+     "grounds": "compound of jagat and tattva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anāvṛtam",
+     "gloss": "uncovered",
+     "grounds": "negative prefix with āvṛta",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What do those who abandon heat come to see?",
+   "premises": [
+    "They abandon heat.",
+    "They see the world-principle uncovered."
+   ],
+   "inference": "Relief from heat reveals the world-principle without covering.",
+   "uncertainties": [
+    "Subject is implicit."
+   ],
+   "plain_english": "They abandon heat and see the world-principle uncovered."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "tatrāntare",
+     "gloss": "there-between",
+     "grounds": "compound of tatra and antara",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāsīnaḥ",
+     "gloss": "seated",
+     "grounds": "past participle of sam-ās",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūryaḥ",
+     "gloss": "sun",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jalajaviṣṭare",
+     "gloss": "water-born-seat",
+     "grounds": "compound of jalaja and viṣṭara",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the sun seated in that interval?",
+   "premises": [
+    "In that interval the sun is seated.",
+    "His seat is water-born."
+   ],
+   "inference": "The sun rests on a water-born seat in that interval.",
+   "uncertainties": [
+    "Exact referent of tatrāntare is implicit."
+   ],
+   "plain_english": "In that interval the sun is seated on a water-born seat."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "somaḥ",
+     "gloss": "moon",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "past participle of sthā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiraṃs",
+     "gloss": "scattering",
+     "grounds": "present participle of kir",
+     "morph": "m.nom.sg (participle)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhāṃśubhiḥ",
+     "gloss": "nectar-rays",
+     "grounds": "compound of sudhā and aṃśu",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "How does the moon-king scatter nectar there?",
+   "premises": [
+    "The moon is situated there as king.",
+    "He scatters nectar-rays there."
+   ],
+   "inference": "The moon-king radiates nectar from that place.",
+   "uncertainties": [
+    "Whether kiraṃs modifies somaḥ or rājā is implicit."
+   ],
+   "plain_english": "There the moon, situated as king, scatters nectar-rays."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "kaustubhākhyamaṇibrātanirmitaḥ",
+     "gloss": "kaustubha-named-gem-bracelet-made",
+     "grounds": "long compound describing the made form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rucirākṛtiḥ",
+     "gloss": "beautiful-form",
+     "grounds": "compound of rucira and ākṛti",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What beautiful form is made from the kaustubha-named gem bracelet?",
+   "premises": [
+    "It is made from the kaustubha-named gem bracelet.",
+    "Its form is beautiful."
+   ],
+   "inference": "The bracelet yields a beautiful form.",
+   "uncertainties": [
+    "Exact object or wearer is not stated."
+   ],
+   "plain_english": "A beautiful form is made from the kaustubha-named gem bracelet."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaustubhasaṅkḷptapote",
+     "gloss": "kaustubha-arranged-boat",
+     "grounds": "compound with kaustubha and arranged boat",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śṛṅgāranāmake",
+     "gloss": "erotic-named",
+     "grounds": "compound with śṛṅgāra and nāmaka",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What named boat is arranged by kaustubha there?",
+   "premises": [
+    "There is a kaustubha-arranged boat.",
+    "It is named erotic."
+   ],
+   "inference": "The kaustubha arrangement produces an erotic-named boat there.",
+   "uncertainties": [
+    "Exact location relation is implicit."
+   ],
+   "plain_english": "There, in the kaustubha-arranged boat named erotic."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "anekakoṭikandarapiratiprītigaṇairapi",
+     "gloss": "many-crore-cave-dwelling-delight-troops-also",
+     "grounds": "long compound with many, crore, cave, delight, troops, also",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "Who also delights in the many-crore cave-dwelling troops?",
+   "premises": [
+    "Many-crore cave-dwelling troops are present.",
+    "They are also delighting."
+   ],
+   "inference": "The troops themselves are included among the delighted ones.",
+   "uncertainties": [
+    "The main verb or governing noun is absent in this unit."
+   ],
+   "plain_english": "Also with many-crore cave-dwelling troops who delight."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "tatpāre",
+     "gloss": "that-beyond",
+     "grounds": "compound of tat and pāra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāpadmavanamāmodameduram",
+     "gloss": "great-lotus-forest-fragrance-dense",
+     "grounds": "long compound of great, lotus, forest, fragrance, dense",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dense fragrant great lotus forest lies beyond that?",
+   "premises": [
+    "Beyond that there is a great lotus forest.",
+    "It is dense with fragrance."
+   ],
+   "inference": "The beyond-place is a fragrant dense great lotus forest.",
+   "uncertainties": [
+    "Exact spatial relation to prior boat is implicit."
+   ],
+   "plain_english": "But beyond that is a great lotus forest dense with fragrance."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "karṇikāścāpi",
+     "gloss": "filaments-also",
+     "grounds": "compound of karṇikā and ca api",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atyantadīrghāḥ",
+     "gloss": "very-long",
+     "grounds": "compound of atyanta and dīrgha",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "pronoun in dative sense",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bravīmi",
+     "gloss": "I-say",
+     "grounds": "root brū, present active",
+     "morph": "1.sg.act-pres (brū)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "first-person pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What very long filaments does the speaker declare to you?",
+   "premises": [
+    "The filaments are also very long.",
+    "The speaker says this to you."
+   ],
+   "inference": "The speaker declares the existence of very long filaments to the listener.",
+   "uncertainties": [
+    "Whether tāḥ refers to filaments or another noun is implicit."
+   ],
+   "plain_english": "Those filaments are also very long; I say this to you."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "viṃśatiḥ",
+     "gloss": "twenty",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yojanānām",
+     "gloss": "yojanas-of",
+     "grounds": "genitive plural of yojana",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patrāyāmaḥ",
+     "gloss": "petal-length",
+     "grounds": "compound of patra and āyāma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "past participle of prakīrt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What petal length is declared in yojanas?",
+   "premises": [
+    "Twenty yojanas is the measure.",
+    "The petal length is declared."
+   ],
+   "inference": "The declared petal length is twenty yojanas.",
+   "uncertainties": [
+    "Whether viṃśatiḥ modifies yojanānām directly is implicit."
+   ],
+   "plain_english": "The petal length is declared to be twenty yojanas."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "yojanānām",
+     "gloss": "yojanas",
+     "grounds": "genitive plural of yojana",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "pañcadaśa",
+     "gloss": "fifteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kesarāṇām",
+     "gloss": "filaments-of",
+     "grounds": "genitive plural of kesara",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīrghatā",
+     "gloss": "length",
+     "grounds": "abstract noun from dīrgha",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the length of the filaments in yojanas?",
+   "premises": [
+    "Fifteen yojanas is given.",
+    "It is the length of the filaments."
+   ],
+   "inference": "The filaments are fifteen yojanas long.",
+   "uncertainties": [
+    "Whether pañcadaśa modifies yojanānām directly is implicit."
+   ],
+   "plain_english": "The length of the filaments is fifteen yojanas."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhṛṅgāmaṇinibhāḥ",
+     "gloss": "bee-gem-like",
+     "grounds": "compound of bhṛṅga, maṇi, and nibha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śailaśṛṅgamitāḥ",
+     "gloss": "mountain-peak-measured",
+     "grounds": "compound of śaila, śṛṅga, and mita",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "past participle of sthā",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What bee-gem-like mountain-peak-measured beings are situated there?",
+   "premises": [
+    "Bee-gem-like beings are situated there.",
+    "They are measured by mountain peaks."
+   ],
+   "inference": "There are situated beings resembling bee-gems and measured by mountain peaks.",
+   "uncertainties": [
+    "Exact referent of the beings is implicit."
+   ],
+   "plain_english": "There are situated bee-gem-like beings measured by mountain peaks."
+  }
+ ]
+}

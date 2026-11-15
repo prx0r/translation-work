@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p12",
  "verse": 292,
- "question": "What ornaments adorn the deity in the described visualization?",
+ "question": "What beautiful form is made from the kaustubha-named gem bracelet?",
  "premises": [
-  "The deity wears a crown set with priceless jewels.",
-  "The deity wears jeweled earrings.",
-  "Both ornaments are described as jewel-adorned."
+  "It is made from the kaustubha-named gem bracelet.",
+  "Its form is beautiful."
  ],
- "inference": "The deity is visualized with a priceless jeweled crown and jeweled earrings.",
- "uncertainties": [],
- "plain_english": "She wears a crown set with priceless jewels and jeweled earrings."
+ "inference": "The bracelet yields a beautiful form.",
+ "uncertainties": [
+  "Exact object or wearer is not stated."
+ ],
+ "plain_english": "A beautiful form is made from the kaustubha-named gem bracelet."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2430,
- "question": "How are the width and best height proportioned in this pedestal specification?",
+ "question": "What fragrant earth fragrance is remembered as fragrance-kuṭhī?",
  "premises": [
-  "The width is divided ninefold.",
-  "The height is related to that width.",
-  "The best height is one third of that width."
+  "fragrant earth fragrance is named",
+  "kuṭhī is named",
+  "fragrance-kuṭhī is remembered"
  ],
- "inference": "The width is set in nine divisions, and the best height is prescribed as one third of that width.",
- "uncertainties": [],
- "plain_english": "The width is divided ninefold, and the best height is one third of that."
+ "inference": "The verse remembers the fragrant earth fragrance as fragrance-kuṭhī.",
+ "uncertainties": [
+  "compound segmentation uncertain"
+ ],
+ "plain_english": "The fragrant earth fragrance is remembered as fragrance-kuṭhī."
 }

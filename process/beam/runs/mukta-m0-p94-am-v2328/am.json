@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p94",
  "verse": 2328,
- "question": "On which parts of the body or attire may rudrākṣa be worn?",
+ "question": "What ornaments are used in the worship preparation?",
  "premises": [
-  "The hand is named as a place of wearing.",
-  "Both ears are named as places of wearing.",
-  "The sacred thread is named as a place of wearing."
+  "The token is a single compound.",
+  "It lists ornaments in instrumental case.",
+  "It modifies preparation context."
  ],
- "inference": "Rudrākṣa may be worn on the hand, on both ears, and on the sacred thread.",
- "uncertainties": [],
- "plain_english": "On the hand, on both ears, and on the sacred thread."
+ "inference": "The rite uses garlands, earrings, armlets, rings, bracelets, and ornaments.",
+ "uncertainties": [
+  "Internal compound members not split."
+ ],
+ "plain_english": "With garlands, earrings, armlets, rings, bracelets, and ornaments."
 }

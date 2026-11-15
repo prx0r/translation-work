@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2431,
- "question": "What height specification applies to the base stone in the Vesara style?",
+ "question": "Which eightfold fragrance is Shaiva and made with tamala agaru camphor?",
  "premises": [
-  "The base stone is discussed in the Vesara style.",
-  "Its height is declared as high.",
-  "The height is divided ninefold."
+  "tamala agaru camphor are named",
+  "shaiva is named",
+  "eightfold fragrance is named"
  ],
- "inference": "In the Vesara style, the base stone is prescribed to have a high measurement divided into nine parts.",
- "uncertainties": [],
- "plain_english": "But the base stone in the Vesara style is declared to be high and divided ninefold."
+ "inference": "The verse identifies the Shaiva eightfold fragrance as made with tamala, agaru, and camphor.",
+ "uncertainties": [
+  "compound segmentation uncertain"
+ ],
+ "plain_english": "The Shaiva eightfold fragrance is made with tamala, agaru, and camphor."
 }

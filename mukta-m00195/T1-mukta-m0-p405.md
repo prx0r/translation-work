@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p405-v10101
-[of-which](yasya) [knowledge+mere-by](vijñāna+mātreṇa) [not+unachievable](na+asādhyam) [world+triad-in](bhuvana+traye)
+[whose](yasya) [knowledge-only](vijñānamātreṇa) [not-attainable](nāsādhyam) [three-worlds](bhuvanatraye)
 
 ## mukta-m0-p405-v10102
-[o-fear-maker](bhayaṃkari) [likewise](tathā) [huṃ](huṃ) [and](ca) [sixteen+syllabled](ṣoḍaśa+arṇaḥ) [considered](mataḥ) [mantra](manuḥ)
+[fear-causing](bhayaṃkari) [thus](tathā) [hum](huṃ) [and](ca) [sixteen-syllabled](ṣoḍaśārṇaḥ) [accepted](mataḥ) [mantra](manuḥ)
 
 ## mukta-m0-p405-v10103
-[lion+faced](siṃha+vaktrā) [great+magical-rite](mahā+kṛtyā) [fear-giving](bhīti+dā) [and](ca) [stated](uktā) [deity](devatā)
+[lion-faced](siṃhavaktrā) [great-actress](mahākṛtyā) [fear-giving](bhītidā) [goddess](devatā)
 
 ## mukta-m0-p405-v10104
-[head+armor+eye+weapon](śikhā+kavaca+netra+astram) [again](punar) [thus](evam) [one-should-assign](prakalpayet)
+[crest-armor-eye-weapon](śikhākavacanetrāstraṃ) [again-thus](punarevaṃ) [should-arrange](prakalpayet)
 
 ## mukta-m0-p405-v10105
-[tusk+terrible+faced](daṃṣṭrā+karāla+vadanāṃ) [three+eyed](tri+netrāṃ) [all+sides+blazing](sarvataḥ+jvalām)
+[tusk-fanged](daṃṣṭrākarāla) [faced](vadanāṃ) [three-eyed](trinetrāṃ) [all-around-blazing](sarvatojvalām)
 
 ## mukta-m0-p405-v10106
-[trident+discus+cup+skull-staff](triśūla+cakra+caṣaka+khaṭvāṅga) [hand+lotus-holding](kara+paṃkajām)
+[trident-disk-cup-skull-staff-lotus-handed](triśūlacakracaṣakakhaṭvāṅgakarapaṃkajām)
 
 ## mukta-m0-p405-v10107
-[killing-in](māraṇe) [black+colored](kṛṣṇa+varṇāṃ) [and](ca) [black+flower+garment+clad](kṛṣṇa+puṣpa+ambara+āvṛtām)
+[for-killing](māraṇe) [black-colored](kṛṣṇavarṇāṃ) [and](ca) [black-flowered-garmented](kṛṣṇapuṣpāmbarāvṛtām)
 
 ## mukta-m0-p405-v10108
-[east-in](pūrvasmin) [śāṃkarī](śāṃkarīṃ) [named](nāma) [white+color+garment+clad](śubhra+varṇa+ambara+āvṛtām)
+[in-east](pūrvasmin) [shankari-named](śāṃkarīṃ+nāma) [white-colored-garmented](śubhravarṇāmbarāvṛtām)
 
 ## mukta-m0-p405-v10109
-[south-in](dakṣiṇe) [mārikā](mārikāṃ) [named](nāma) [hanging+tongue](lamba+jihvām) [downward+faced](adhaḥ+mukhīm)
+[in-south](dakṣiṇe) [marika-named](mārikāṃ+nāma) [hanging-tongued-downward-faced](lambajihvāmadhomukhīm)
 
 ## mukta-m0-p405-v10110
-[four+armed](catur+bhujāṃ) [lion+roaring](siṃha+nādāṃ) [blazing+trident+skull-holder](jvalat+śūla+kapālinīm)
+[four-armed](caturbhujāṃ) [lion-roaring](siṃhanādāṃ) [blazing-trident-skull-bearing](jvalacchūlakapālinīm)
 
 ## mukta-m0-p405-v10111
-[west-in](paścime) [vāruṇī](vāruṇīṃ) [named](nāma) [gold+colored](svarṇa+varṇāṃ) [smiling+faced](hasat+mukhīm)
+[in-west](paścime) [varuni-named](vāruṇīṃ+nāma) [golden-colored](svarṇavarṇāṃ) [smiling-faced](hasanmukhīm)
 
 ## mukta-m0-p405-v10112
-[north-in](udīci) [bhītikā](bhītikāṃ) [named](nāma) [four+faced](catur+vaktrāṃ) [fear+causing](bhayaṃ+karām)
+[in-north](udīci) [bhiti-named](bhītikāṃ+nāma) [four-faced](caturvaktrāṃ) [fear-causing](bhayaṃkarām)
 
 ## mukta-m0-p405-v10113
-[then](tataḥ) [application-in](prayoge) [one-should-perform](kurvīta) [own+desired](sva+iṣṭam) [and](ca) [that](saḥ) [is-declared](nigadyate)
+[then](tataḥ) [in-rite](prayoge) [let-do](kurvīta) [desired](sveṣṭaṃ) [and](ca) [thus](nigadyate)
 
 ## mukta-m0-p405-v10114
-[syllable+hundred-thousand](varṇa+lakṣam) [one-should-recite](japet) [mantra](mantram) [daily](nityam) [eight+more-than-hundred](aṣṭa+uttaram) [hundred](śatam)
+[hundred-thousand](varṇalakṣaṃ) [let-chant](japen) [mantra](mantraṃ) [daily](nityam) [one-hundred-eight](aṣṭottaraṃ+śatam)
 
 ## mukta-m0-p405-v10115
-[all+magical-rites-in](sarva+kṛtyām) [terrifying](bhīṣaṇīṃ) [and](ca) [glorious](śrīmatīṃ) [and](ca) [established](pratiṣṭhitām)
+[all-acts](sarvakṛtyāṃ) [terrifying](bhīṣaṇīṃ) [and](ca) [glorious](śrīmatīṃ) [established](pratiṣṭhitām)
 
 ## mukta-m0-p405-v10116
-[of-that](tasya) [below](adhaḥ) [girdle+endowed](mekhalā+yuktam) [triangle](trikoṇam) [fire+seed-syllable](vahni+kūcakam)
+[below-her](tasyādhaḥ) [girdle-joined](mekhalāyuktaṃ) [triangle](trikoṇaṃ) [fire-pit](vahnikūcakam)
 
 ## mukta-m0-p405-v10117
-[vibhītaka+enclosure-with](vibhītaka+paridhyā) [and](ca) [one-should-construct](kalpayet) [of-whom](yasya) [killing](māraṇam)
+[with-vibhitaka-wood](vibhītakaparidhyā) [and](ca) [let-arrange](kalpayet) [whose](yasya) [killing](māraṇam)
 
 ## mukta-m0-p405-v10118
-[tear](dāraya) [this-one](enam) [dry-up](śoṣaya) [this-one](enam) [kill](māraya) [thus](iti) [having-said](abhidhāya) [and](ca)
+[tear-him](dārayainaṃ) [dry-him](śoṣayainaṃ) [kill](māraya) [thus](ityabhidhāya) [and](ca)
 
 ## mukta-m0-p405-v10119
-[oblation+end-at](homa+ante) [according-to-rule](vidhi+vat) [magical-rite](kṛtyām) [having-worshipped](ārādhya) [fire-of](agneḥ) [and](ca) [presence-in](sannidhau)
+[at-homa-end](homānte) [duly](vidhivat) [act](kṛtyām) [worship](ārādhya) [fire](agneḥ) [and](ca) [presence](sannidhau)
 
 ## mukta-m0-p405-v10120
-[eat](bhuṃkṣva) [raw-flesh](kravyam) [blood](asṛk) [of-him](tasya) [drink](piba) [thus](iti) [having-said](uktvā) [one-should-offer](nivedayet)
+[eat](bhuṃkṣva) [raw-flesh-blood](kravyamasṛk) [his](tasya) [drink](piba) [thus-saying](ityuktvā) [offer](nivedayet)
 
 ## mukta-m0-p405-v10121
-[offering](juhvati) [stands](tiṣṭhati) [as-long-as](yāvat) [he](saḥ) [so-long](tāvat) [of-this](asya) [enemy-of](ripoḥ) [death](mṛtiḥ)
+[as-long-as](yāvat) [he-offers](juhvati) [stands](tiṣṭhati) [so-long](tāvat) [of-his](asya) [enemy](ripoḥ) [death](mṛtiḥ)
 
 ## mukta-m0-p405-v10122
-[water-in](jale) [having-stirred](saṃloḍya) [mantra-with](mantreṇa) [enemy](ripum) [having-visualized](dhyātvā) [restrained+gaze](niruddha+dṛk)
+[in-water](jale) [stirring](saṃloḍya) [by-mantra](mantreṇa) [enemy](ripuṃ) [meditating](dhyātvā) [restrained-eyed](niruddhadṛk)
 
 ## mukta-m0-p405-v10123
-[nine+night+after](nava+rātra+uttare) [enemy](śatruḥ) [dies](mriyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[after-nine-nights](navarātrottare) [enemy](śatruḥ) [dies](mriyate) [no](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p405-v10124
-[of-one-offering](juhvataḥ) [dies](mriyate) [enemy](śatruḥ) [truly](satyam) [of-uśanas](auśanasam) [opinion](matam)
+[offering](juhvataḥ) [dies](mriyate) [enemy](śatruḥ) [true](satyam) [aushanasa](auśanasaṃ) [opinion](matam)
 
 ## mukta-m0-p405-v10125
-[phaṭ-syllable](phaṭ+kāram) [heart-in](hṛdaye) [having-made](kṛtvā) [śiva+remains-on](śiva+nirmālyake) [one-should-cast](kṣipet)
+[phat-sound](phaṭkāraṃ) [in-heart](hṛdaye) [making](kṛtvā) [shiva-remnant](śivanirmālyake) [throw](kṣipet)

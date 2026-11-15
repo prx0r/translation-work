@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p94",
  "verse": 2340,
- "question": "Who performs the rite and with which mantra is it to be carried out?",
+ "question": "What does the chief teacher do before the rite?",
  "premises": [
-  "The practitioner is the agent.",
-  "The action is to be performed.",
-  "The dhasauṃ mantra is the instrument."
+  "The chief teacher bathes.",
+  "He completes the daily rite.",
+  "The rite is by prescribed rite."
  ],
- "inference": "The practitioner should perform the rite with the dhasauṃ mantra.",
- "uncertainties": [],
- "plain_english": "The practitioner should perform the rite with the dhasauṃ mantra."
+ "inference": "The chief teacher bathes and completes the daily rite by prescribed rite.",
+ "uncertainties": [
+  "No uncertainty."
+ ],
+ "plain_english": "The chief teacher, having bathed and completed the daily rite by rite."
 }

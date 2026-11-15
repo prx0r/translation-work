@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p12",
  "verse": 297,
- "question": "Which goddess is identified as the great giver of prosperity in this mantra context?",
+ "question": "What petal length is declared in yojanas?",
  "premises": [
-  "Tripurā Bhairavī is named.",
-  "She is called the goddess.",
-  "She is described as the great giver of prosperity."
+  "Twenty yojanas is the measure.",
+  "The petal length is declared."
  ],
- "inference": "The deity is identified as Tripurā Bhairavī, the great giver of prosperity.",
- "uncertainties": [],
- "plain_english": "O beloved, the goddess is Tripurā Bhairavī, the great giver of prosperity."
+ "inference": "The declared petal length is twenty yojanas.",
+ "uncertainties": [
+  "Whether viṃśatiḥ modifies yojanānām directly is implicit."
+ ],
+ "plain_english": "The petal length is declared to be twenty yojanas."
 }

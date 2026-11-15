@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "prakalpya",
+     "gloss": "having-constructed",
+     "grounds": "absolutive of prakalp, indicating completed construction before the main action",
+     "morph": "absolutive-prakalp"
+    },
+    {
+     "surface": "sthānamevaṃ",
+     "gloss": "place-thus",
+     "grounds": "fused accusative place with indeclinable thus; no @ marker in supplied token",
+     "morph": "compound=sthāna+evam"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "feminine nominative singular pronoun referring to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛttabhūmau",
+     "gloss": "on-round-earth",
+     "grounds": "locative singular of compound vṛtta+bhūmi, indicating location of standing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "herself",
+     "grounds": "indeclinable emphasizing self-action",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "stood",
+     "grounds": "feminine nominative singular past participle of sthā",
+     "morph": "f.nom.sg past-participle-sthā"
+    }
+   ],
+   "question": "How does the goddess establish herself after constructing the place on the round earth?",
+   "premises": [
+    "place is constructed thus",
+    "she stands on round earth",
+    "standing is self-established"
+   ],
+   "inference": "The goddess's self-standing follows the construction of the place.",
+   "uncertainties": [
+    "token sthānamevaṃ is fused without an @ sandhi marker"
+   ],
+   "plain_english": "Having constructed the place thus, she herself stood on the round earth."
+  }
+ ]
+}

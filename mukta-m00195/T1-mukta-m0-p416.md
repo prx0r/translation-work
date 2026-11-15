@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p416-v10376
-[pure](śuddha) [in-water](toye) [having-mixed](samāloḍya) [that](tāṃ) [and](ca) [there](tatra) [one-should-cook](pacet) [oblation](carum)
+[pure-water](śuddhatoye) [having-stirred](samāloḍya) [that](tāṃ) [and](ca) [there](tatra) [cook](pacec) [oblation](carum)
 
 ## mukta-m0-p416-v10377
-[month](māsa) [six](ṣaṭkaṃ) [on-Friday](bhṛgoḥ+vāre) [indeed](hi) [thus](evaṃ) [having-done](kṛtvā) [one-obtains](labhet) [earth](dharām)
+[month](māsa) [six](ṣaṭkaṃ) [of-Bhṛgu](bhṛgor) [weekday](vāre) [thus](hyevaṃ) [having-done](kṛtvā) [obtain](labhet) [earth](dharām)
 
 ## mukta-m0-p416-v10378
-[oṃ-mahīṃ](oṃ-mahīṃ) [[oṃ glauṃ namaḥ bhagavatyai dharāyai dharaṇi dharedhare svāhā glauṃ hrīṃ oṃ m ||]]([oṃ glauṃ namaḥ bhagavatyai dharāyai dharaṇi dharedhare svāhā glauṃ hrīṃ oṃ m ||]) [glauṃ](glauṃ) [namaḥ](namaḥ) [having-uttered](procya) [to-bhagavatī](bhagavatyai) [word](padaṃ) [one-should-say](vadet)
+[om](oṃ-mahīṃ) [mantra](oṃ glauṃ namaḥ bhagavatyai dharāyai dharaṇi dharedhare svāhā glauṃ hrīṃ oṃ m) [glauṃ](glauṃ) [namaḥ](namaḥ) [to-goddess](bhagavatyai) [word](padaṃ) [speak](vadet)
 
 ## mukta-m0-p416-v10379
-[glauṃ](glauṃ) [hrīṃ](hrīṃ) [oṃ](tāraṃ) [having-pronounced](samuccārya) [twenty-four](caturviṃśa) [syllabled](akṣaraḥ) [mantra](manuḥ)
+[glauṃ](glauṃ) [hrīṃ](hrīṃ) [tāra](tāraṃ) [having-uttered](samuccārya) [twenty-four-syllable](caturviṃśākṣaro) [mantra](manuḥ)
 
 ## mukta-m0-p416-v10380
-[this](eṣa) [declared](uktaḥ) [indeed](tu) [of-Varāha](vārāhaḥ) [mantra](mantraḥ) [accomplished](siddha) [in-all](akhila) [desire-giving](iṣṭa+daḥ)
+[this](eṣa) [spoken](uktastu) [boar](vārāho) [mantra](mantraḥ) [wish-fulfilling](siddhokhileṣṭadaḥ)
 
 ## mukta-m0-p416-v10381
-[six](ṣaḍ) [long-vowel](dīrgha) [joined](yukta) [with-seed-syllable](bījena) [six-limb](ṣaḍ+aṅga) [procedure](vidhiḥ) [is-declared](īritaḥ)
+[six-long-seed](ṣaḍdīrghayuktabījena) [six-limb-rite](ṣaḍaṅgavidhirīritaḥ)
 
 ## mukta-m0-p416-v10382
-[all](sarvaṃ) [as-before](prāk+vat) [six-limbs](ṣaḍ+aṅgāni) [long-vowel](dīrgha) [six](ṣaṭka) [endowed-with](anvitena) [and](ca)
+[all](sarvaṃ) [as-before](prāgvat) [six-limbs](ṣaḍaṅgāni) [with-six-longs](dīrghaṣaṭkānvitena) [and](ca)
 
 ## mukta-m0-p416-v10383
-[every](prati) [Manvantara](manvantaraṃ) [indeed](vā) [this](ayam) [incarnation](avatāraḥ) [of-Hari](hareḥ) [would-be](bhavet)
+[each-manvantara](pratimanvantaraṃ) [wind](vāyam) [incarnation](avatāro) [of-Hari](harerbhavet)
 
 ## mukta-m0-p416-v10384
-[for-a-kalpa](ā+kalpaṃ) [exists](vidyate) [there](tatra) [devotee](bhakta) [grace](anugraha) [causing](kārakaḥ)
+[until-dissolution](ākalpaṃ) [exists](vidyate) [there](tatra) [devotee-grace-doing](bhaktānugrahakārakaḥ)
 
 ## mukta-m0-p416-v10385
-[thirty-two](dvātriṃśat) [syllabled](arṇakaḥ) [Gopya](gopyaḥ) [enjoyment](bhukti) [liberation](mukti) [giving](pradaḥ) [is-considered](mataḥ)
+[thirty-two-syllable](dvātriṃśadarṇako) [secret](gopyo) [enjoyment-liberation-giving](bhuktimuktiprado) [considered](mataḥ)
 
 ## mukta-m0-p416-v10386
-[Nṛsiṃha](nṛsiṃhaṃ) [terrible](bhīṣaṇaṃ) [Rudra](rudraṃ?) [death](mṛtyu) [of-death](mṛtyuṃ) [I-bow](namāmi) [I](aham)
+[Nṛsiṃha](nṛsiṃhaṃ) [terrifying](bhīṣaṇaṃ) [Rudra](rudraṃ) [death-of-death](mṛtyumṛtyuṃ) [I-bow](namāmyaham)
 
 ## mukta-m0-p416-v10387
-[first](prathamaḥ) [placement](nyāsa) [is-declared](uddiṣṭaḥ) [all](sarva) [desires](abhīṣṭa) [granting](pradāyakaḥ)
+[first](prathamo) [nyāsa](nyāsa) [declared](uddiṣṭaḥ) [all-desires-giving](sarvābhīṣṭapradāyakaḥ)
 
 ## mukta-m0-p416-v10388
-[six-limb](ṣaḍ+aṅga) [named](ākhyaḥ) [second](dvitīyaḥ) [this](ayam) [limb](aṅga) [placement](nyāsaḥ) [is-described](udāhṛtaḥ)
+[six-limb-named](ṣaḍaṅgākhyo) [second](dvitīyoyamaṅganyāsa) [limb-nyāsa](udāhṛtaḥ)
 
 ## mukta-m0-p416-v10389
-[on-right](dakṣiṇe) [arm-root](bāhu+mūle) [and](ca) [in-its-middle](tat+madhye) [on-wrist](maṇibandhake)
+[right](dakṣiṇe) [arm-root](bāhumūle) [and](ca) [its-middle](tanmadhye) [wrist](maṇibandhake)
 
 ## mukta-m0-p416-v10390
-[in-its-middle](tat+madhye) [on-wrist](maṇibandhe) [and](ca) [at-finger-root](aṅgulī+mūle) [at-their-end](tat+antake)
+[its-middle](tanmadhye) [wrist](maṇibandhe) [finger-root](cāṃgulīmūle) [its-end](tadantake)
 
 ## mukta-m0-p416-v10391
-[on-throat](kaṇṭhe) [on-heart](hṛdi) [likewise](tathā) [on-navel](nābhau) [on-right-side](dakṣa+pārśve) [and](ca) [on-left](vāmake)
+[throat](kaṇṭhe) [heart](hṛdi) [thus](tathā) [navel](nābhau) [right-side](dakṣapārśve) [and](ca) [left](vāmake)
 
 ## mukta-m0-p416-v10392
-[third](tṛtīyaḥ) [placement](nyāsa) [is-declared](uditaḥ) [directly](sākṣāt) [deity](deva) [consisting-of](mayaḥ) [one-becomes](bhavet)
+[third](tṛtīyo) [nyāsa](nyāsa) [spoken](uditaḥ) [directly-divine](sākṣāddevamayo) [become](bhavet)
 
 ## mukta-m0-p416-v10393
-[left](vāmāṃ) [little-finger](kaniṣṭhām) [beginning-from](ārabhya) [up-to-left-thumb](vāmā+aṅguṣṭha+avadhi) [one-should-place](nyaset)
+[left](vāmāṃ) [little-finger](kaniṣṭhāmārabhya) [left](vāmāṃguṣṭhāvadhi) [place](nyaset)
 
 ## mukta-m0-p416-v10394
-[p. 612)](p. 612)) [sin](pātakaṃ) [fourth](turya) [declared](uditaḥ) [placement](nyāsaḥ) [finger-etc.](aṅguly+ādikaḥ) [supreme](paraḥ)
+[p. 612](p. 612) [sin](pātakaṃ) [fourth](turya) [spoken](udito) [nyāsa-finger-etc](nyāsoṃgulyādikaḥ) [supreme](paraḥ)
 
 ## mukta-m0-p416-v10395
-[on-eyes](nayane) [below-eyes](nayana+adhaḥ) [and](ca) [on-cheeks](kapole) [at-ear-root](karṇa+mūlake)
+[eye](nayane) [below-eye](nayanādhaśca) [cheek](kapole) [ear-root](karṇamūlake)
 
 ## mukta-m0-p416-v10396
-[on-throat](kaṇṭhe) [on-navel](nābhau) [on-arm](bhuje) [on-right](dakṣe) [on-left](vāme) [and](ca) [on-heart](hṛdaye) [on-breast](stane)
+[throat](kaṇṭhe) [navel](nābhau) [arm](bhuje) [right](dakṣe) [left](vāme) [and](ca) [heart](hṛdaye) [breast](stane)
 
 ## mukta-m0-p416-v10397
-[on-genitals](liṅge) [on-thighs](corau) [likewise](tathā) [on-knees](jānau) [on-shanks](jaṅghāyāṃ) [and](ca) [also](api) [on-private-parts](guhyake)
+[linga](liṅge) [thief](corau) [thus](tathā) [knee](jānau) [calf](jaṅghāyāṃ) [and](cāpi) [secret-place](guhyake)
 
 ## mukta-m0-p416-v10398
-[on-whole-body](sarva+aṅge) [in-hair-pores](roma+kūpeṣu) [in-blood](rakta) [heart](hṛt) [flesh](palala) [bones](asthiṣu)
+[all-limbs](sarvāṅge) [hair-pores](romakūpeṣu) [blood-heart-flesh-bone](raktahṛtpalalāsthiṣu)
 
 ## mukta-m0-p416-v10399
-[this](ayam) [indeed](tu) [fifth](pañcamaḥ) [placement](nyāsaḥ) [all](sarva) [calamities](ariṣṭa) [removing](nivārakaḥ)
+[this](aymentu) [fifth](pañcamo) [nyāsa](nyāsaḥ) [all-calamity-removing](sarvāriṣṭanivārakaḥ)
 
 ## mukta-m0-p416-v10400
-[on-thighs](ūrvoḥ) [on-both-hips](kaṭi+dvaye) [on-navel](nābhau) [on-heart](hṛhi) [on-arms](bāhvoḥ) [likewise](tathā) [on-throat](gale)
+[thighs](ūrvoḥ) [two-hips](kaṭidvaye) [navel](nābhau) [heart](hṛhi) [arms](bāhvostathā) [throat](gale)

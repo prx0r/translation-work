@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p463-v11551
-[right](dakṣa) [+thumb](aṃguṣṭhaṃ) [having-started-from](samārabhya) [from-left](vāma) [+middle](madhyāt) [and](ca) [one-should-place](vinyaset)
+[right-thumb](dakṣāṃguṣṭhaṃ) [beginning-from](samārabhya) [left-middle-and](vāmamadhyācca) [place](vinyaset)
 
 ## mukta-m0-p463-v11552
-[thus](evam) [indeed](tu) [on-the-two-feet](pādayoḥ) [having-placed](nyasya) [placement](nyāsaḥ) [this](ayam) [tenth](daśamaḥ) [should-be](bhavet)
+[thus](evantu) [in-feet](pādayoḥ) [place](nyasyet) [nyāsa-this](nyāsoyaṃ) [tenth](daśamo) [becomes](bhavet)
 
 ## mukta-m0-p463-v11553
-[on-the-two-feet](pādayoḥ) [and](ca) [one-should-place](nyaset) [syllables](varṇān) [placement](nyāsaḥ) [eleventh](ekādaśaḥ) [remembered](smṛtaḥ)
+[in-feet](pādayoḥ) [place](ca) [letters](nyasedvarṇān) [nyāsa](nyāsa) [eleventh](ekādaśaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p463-v11554
-[with-the-hands](karmaṇā) [one-should-place](vinyaset) [syllables](varṇān) [placement](nyāsaḥ) [this](ayam) [twelfth](dvādaśaḥ) [remembered](smṛtaḥ)
+[by-action](karmaṇā) [place](vinyasedvarṇān) [nyāsa-this](nyāsoyaṃ) [twelfth](dvādaśaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p463-v11555
-[on-the-right](dakṣa) [+hip](sphici) [and](ca) [on-the-calf](jaṃghāyāṃ) [on-the-foot](pāde) [indeed](yatu) [thirteenth](trayodaśaḥ)
+[right-hip](dakṣasphici) [and](ca) [calf](jaṃghāyāṃ) [in-foot](pāde) [this](yantu) [thirteenth](trayodaśaḥ)
 
 ## mukta-m0-p463-v11556
-[first](prathama) [+syllable](arṇaṃ) [on-the-sole](pādatale) [on-the-foot](pada) [+top-of-foot](pādāgra) [+knees](jānuṣu)
+[first-syllable](prathamārṇaṃ) [foot-sole](pādatale) [foot-tip-knee](padapādāgrajānuṣu)
 
 ## mukta-m0-p463-v11557
-[on-the-chest](vakṣaḥ) [on-the-back](pṛṣṭha) [+heart](hṛdayeṣu) [on-the-throat](kaṇṭhe) [on-the-face](vaktre) [on-the-tip](nasaḥ) [+of-the-nose](tale)
+[chest](vakṣaḥ) [back-heart](pṛṣṭhahṛdayeṣu) [throat](kaṇṭhe) [mouth](vaktre) [nose-base](nasostale)
 
 ## mukta-m0-p463-v11558
-[all](sarva) [+obstacles](upadrava) [+destroying](hantā) [this](ayam) [placement](nyāsaḥ) [fifteenth](pañcadaśaḥ) [remembered](smṛtaḥ)
+[all-afflictions-destroyer](sarvopadravahantā) [this](ayaṃ) [nyāsa](nyāsaḥ) [fifteenth](pañcadaśaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p463-v11559
-[sixteenth](ṣoḍaśaḥ) [this](ayam) [thus](iti) [declared](proktaḥ) [tattva](tattva) [+cage](pañjara) [+named](sajñakaḥ)
+[sixteenth](ṣoḍaśaḥ) [this](oyamiti) [called](proktaḥ) [tattva-cage-named](tattvapañjarasajñakaḥ)
 
 ## mukta-m0-p463-v11560
-[Nṛsiṃha](nṛsiṃhaṃ) [in-the-fifth](pañcame) [declared](proktam) [they-should-practice](āceran) [form](mūrti) [+cage](pañjaram)
+[nṛsiṃha](nṛsiṃhaṃ) [fifth](pañcame) [said](proktam) [teacher](āceran) [form-cage](mūrtipañjaram)
 
 ## mukta-m0-p463-v11561
-[on-the-thighs](ūrvoḥ) [Vaiśya](vaiśyaṃ) [Śūdra](śūdra) [+class](varṇaṃ) [on-the-feet](pādayoḥ) [thus](iti) [one-should-place](vinyaset)
+[thighs](ūrvor) [vaiśya](vaiśyaṃ) [śūdra-color](śūdravarṇaṃ) [in-feet](pādayoḥ) [thus](iti) [place](vinyaset)
 
 ## mukta-m0-p463-v11562
-[neck-ornament](graiveyaṃ) [Kaustubha](kaustumaṃ) [on-the-throat](kaṇṭhe) [on-the-heart](hṛdi) [Śrīvatsa](śrīvatsa) [+garland](hārakam)
+[necklace](graiveyaṃ) [kaustubha](kaustumaṃ) [throat](kaṇṭhe) [heart](hṛdi) [śrīvatsa-garland](śrīvatsahārakam)
 
 ## mukta-m0-p463-v11563
-[bracelets](kaṅkaṇe) [on-the-two-hands](hastayoḥ) [having-placed](nyasya) [girdle](mekhalāṃ) [and](ca) [on-the-waist](kaṭau) [one-should-place](nyaset)
+[bracelet](kaṅkaṇe) [hands](hastayoḥ) [place](nyasya) [girdle](mekhalāṃ) [and](ca) [waist](kaṭau) [place](nyaset)
 
 ## mukta-m0-p463-v11564
-[on-the-lower-garment](paridhāne) [and](ca) [upper-garment](uttarīyaṃ) [on-the-feet](pādayoḥ) [anklets](nūpuraṃ) [likewise](tathā)
+[lower-garment](paridhāne) [and](ca) [upper-garment](cottarīyaṃ) [in-feet](pādayoḥ) [anklet](nūpuraṃ) [thus](tathā)
 
 ## mukta-m0-p463-v11565
-[below](adhaḥ) [+the-hands](pāṇyoḥ) [mace](gadā) [+lotuses](padme) [then](tataḥ) [meditation](dhyānaṃ) [one-should-perform](samācaret)
+[below-hands](adhaḥpāṇyoḥ) [mace-lotus](gadāpadme) [then](tato) [meditation](dhyānaṃ) [perform](samācaret)
 
 ## mukta-m0-p463-v11566
-[forest](vanaṃ) [one-should-visualize](sañcintayet) [there](tatra) [all](sakala) [+seasons](ṛtu) [+endowed-with](samanvitam)
+[forest](vanaṃ) [contemplate](sañcintayettatra) [with-all-seasons](sakalarttusamanvitam)
 
 ## mukta-m0-p463-v11567
-[by-gods](sura) [+demons](asura) [+sages](ṛṣi) [+and-others](pramukhaiḥ) [attended](sevitaṃ) [and](ca) [by-apsaras](apsaraḥ) [+groups](gaṇaiḥ)
+[gods-demons-sages](surāsurarṣipramukhaiḥ) [served](sevitaṃ) [and](ca) [apsaras-groups](apsarogaṇaiḥ)
 
 ## mukta-m0-p463-v11568
-[on-the-aforementioned](pūrvokta) [+pedestal](pīṭhe) [with-the-root-mantra](mūlena) [form](mūrtiṃ) [having-conceived](saṅkalya) [and](ca) [one-should-invoke](āhvayet)
+[previously-said-seat](pūrvoktapīṭhe) [by-root](mūlena) [form](mūrtiṃ) [collecting](saṅkalya) [and](ca) [invoke](āhvayet)
 
 ## mukta-m0-p463-v11569
-[Śrī](śriyaṃ) [yellow](pīta) [+garment](ambara) [+colored](aktāṃ) [and](ca) [Dhṛti](dhṛtiṃ) [Kānti](kāntiṃ) [white](sita) [+and-dark](asite)
+[śrī](śriyaṃ) [yellow-garment-anointed](pītāmbarāktāṃ) [and](ca) [steadiness](dhṛtiṃ) [beauty](kāntiṃ) [white-black](sitāsite)
 
 ## mukta-m0-p463-v11570
-[eight](aṣṭa) [+hundred-thousand](lakṣaṃ) [one-should-repeat](japet) [mantra](mantraṃ) [observing-vows](niyamasthaḥ) [sense-controlled](jitendriyaḥ)
+[eight-lakhs](aṣṭalakṣaṃ) [chant](japenmantraṃ) [rule-established](niyamastho) [conquered-senses](jitendriyaḥ)
 
 ## mukta-m0-p463-v11571
-[with-waters](jalaiḥ) [with-ghee](saghṛta) [+milk](dugdha) [+and-food](annaiḥ) [libation](tarppaṇa) [+and-so-forth](ādi) [one-should-perform](samācaret)
+[waters](jalaiḥ) [with-ghee-milk-food](saghṛtadugdhānnaistarppaṇādi) [perform](samācaret)
 
 ## mukta-m0-p463-v11572
-[then](tataḥ) [one-should-perform](kurvīta) [mantra-knower](mantrajñaḥ) [applications](prayogān) [and](ca) [for-success](prasiddhaye)
+[then](tataḥ) [do](kurvīta) [mantra-knower](mantrajñaḥ) [rites](prayogāṃśca) [for-success](prasiddhaye)
 
 ## mukta-m0-p463-v11573
-[with-the-three-sweets](madhura) [+triad](traya) [+mixed](saṃyuktaiḥ) [with-palāśa](palāśa) [+flowers](kusumaiḥ) [one-should-offer](hunet)
+[sweet-triad-joined](madhuratrayasaṃyuktaiḥ) [palāśa-flowers](palāśakusumairhunet)
 
 ## mukta-m0-p463-v11574
-[with-three-sweets](trisvādu) [+mixed](yuktaṃ) [salt](lavaṇaṃ) [one-should-offer](hunet) [at-night](niśi) [a-thousand](sahasrakam)
+[three-sweet-joined](trisvāduyuktaṃ) [salt](lavaṇaṃ) [offer-at-night](hunenniśi) [thousand](sahasrakam)
 
 ## mukta-m0-p463-v11575
-[ten-thousand](ayutaṃ) [one-should-offer](juhuyāt) [clarified-butter](ājyaṃ) [with-dūrvā](dūrvā) [+and-rice](bhaktaiḥ) [and](ca) [purified](śodhitam)
+[ten-thousand](ayutaṃ) [offer-ghee](juhuyādājyaṃ) [dūrvā-grains](dūrvābhaktaiśca) [and](ca) [purified](śodhitam)

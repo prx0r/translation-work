@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "vidrāviṇī",
+     "gloss": "dissolving",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ākarṣaṇī",
+     "gloss": "attracting",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśaṅkarī",
+     "gloss": "controlling",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which powers does the goddess exercise after dissolving and attracting?",
+   "premises": [
+    "The verse names dissolving and attracting.",
+    "The verse adds then afterwards controlling."
+   ],
+   "inference": "The goddess's sequence includes dissolving, attracting, and controlling.",
+   "uncertainties": [
+    "The exact syntactic relation to the preceding verse remains uncertain."
+   ],
+   "plain_english": "Dissolving and attracting, then afterwards controlling."
+  }
+ ]
+}

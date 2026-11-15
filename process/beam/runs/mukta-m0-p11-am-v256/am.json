@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 256,
- "question": "Where should the portion consecrated with the Śiva mantra be placed?",
+ "question": "What shines there in the rainy season by sky and cloud powers?",
  "premises": [
-  "One portion is consecrated by recitation of the Śiva mantra.",
-  "This portion is designated for a specific placement.",
-  "The placement is in the middle of the sacred water."
+  "sky and cloud powers are named",
+  "rainy season is named",
+  "there is named"
  ],
- "inference": "The portion consecrated with the Śiva mantra should be cast into the middle of the sacred water.",
- "uncertainties": [],
- "plain_english": "But the portion consecrated with the Śiva mantra should be cast into the middle of the sacred water."
+ "inference": "The rainy season shines there by sky and cloud powers.",
+ "uncertainties": [
+  "subject identity"
+ ],
+ "plain_english": "There the rainy season shines by sky and cloud powers."
 }

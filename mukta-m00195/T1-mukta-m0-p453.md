@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p453-v11301
-[conch+lotus](śaṅkhapadmau) [and](ca) [outside-that](tadbāhye) [guardians-of-directions+weapons](lokeśānāyudhānyapi)
+[conch+lotus](śaṅkhapadmau) [and](ca) [outside-that](tadbāhye) [world-lords+weapons+also](lokeśānāyudhānyapi)
 
 ## mukta-m0-p453-v11302
-[of-viṣṇu](hareḥ) [milk+pieces](pāyasakhaṇḍādi) [curd+etc](dadhibhiḥ) [scattered-around](parikīrttitam)
+[of-hari](hareḥ) [milk-rice+pieces+etc](pāyasakhaṇḍādidadhibhiḥ) [declared](parikīrttitam)
 
 ## mukta-m0-p453-v11303
-[again](punaḥ) [having-contemplated](sañcintya) [having-worshipped](sampūjya) [one-should-mutter](prajapet) [according-to-capacity](śaktito) [mantra](manum)
+[again](punaḥ) [considering](sañcintya) [worshipping](sampūjya) [should-recite](prajapecchaktito) [mantra](manum)
 
 ## mukta-m0-p453-v11304
-[with-clarified-butter](sarpiṣā) [one-should-offer](juhuyāt) [afterwards](paścāt) [tenth-part](daśāṃśaṃ) [one-should-offer-libations](tarpayet) [then](tataḥ)
+[with-ghee](sarpiṣā) [should-offer](juhuyātpaścāddaśāṃśaṃ) [should-satisfy](tarpayettataḥ)
 
 ## mukta-m0-p453-v11305
-[thus](itthaṃ) [accomplished-mantra](sādhitamantrastu) [applications](prayogān) [one-should-perform](vidadhīta) [indeed](vai)
+[thus](itthaṃ) [accomplished-mantra](sādhitamantrastu) [rites](prayogānvidadhīta) [indeed](vai)
 
 ## mukta-m0-p453-v11306
-[ten-thousand](ayutaṃ) [with-ghee+joined](ghṛtasaṃyuktaiḥ) [having-offered](hutvā) [that+ashes](tadbhasma) [one-should-wear](dhārayet)
+[ten-thousand](ayutaṃ) [with-ghee-mixed](ghṛtasaṃyuktairhutvā) [that-ash](tadbhasma) [should-bear](dhārayet)
 
 ## mukta-m0-p453-v11307
-[with-mantra+syllables](mantrārṇaiḥ) [hundred-thousand+number](lakṣasaṅkhyaṃ) [who](yo) [may-offer](hunet) [with-sweet+juices+endowed](madhurasānvitaiḥ)
+[mantra-syllables](mantrārṇairlakṣasaṅkhyaṃ) [who](yo) [would-offer](hunenmadhurasānvitaiḥ)
 
 ## mukta-m0-p453-v11308
-[red+etc+garment+desiring](raktādivasanākāṃkṣī) [one-should-offer](hunet) [with-flowers](puṣpaiḥ) [and](ca) [such](tādṛśaiḥ)
+[desiring-red-etc-garments](raktādivasanākāṃkṣī) [should-offer](hunetpuṣpaiśca) [such](tādṛśaiḥ)
 
 ## mukta-m0-p453-v11309
-[with-honey](madhunā) [joined](saṃyutaiḥ) [and](ca) [indeed](eva) [with-fragrant+eight+joined](sugandhāṣṭakasaṃyutaiḥ)
+[with-honey](madhunā) [mixed-also](saṃyutaiścaiva) [with-eight-fragrances](sugandhāṣṭakasaṃyutaiḥ)
 
 ## mukta-m0-p453-v11310
-[of-king](rājñaḥ) [priest](purohito) [having-become](bhūtvā) [enjoyment+sharing](bhuktibhāṅ) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[of-king](rājñaḥ) [priest](purohito) [becoming](bhūtvā) [enjoyer-no-doubt](bhuktibhāṅnātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p453-v11311
-[with-this+mantra](mantreṇānena) [one-should-perform](kurvīta) [by-those-two](tābhyāṃ) [than-mantra+best+boon](mantrottamādvarāt)
+[by-this-mantra](mantreṇānena) [should-do](kurvīta) [by-those](tābhyāṃ) [from-best-mantra](mantrottamādvarāt)
 
 ## mukta-m0-p453-v11312
-[is-born](jāyate) [in-hand+gone](hastagā) [of-him](tasya) [entire](sakalā) [earth](vasudhā) [for-long](ciram)
+[is-born](jāyate) [in-hand](hastagā) [his](tasya) [all](sakalā) [earth](vasudhā) [long](ciram)
 
 ## mukta-m0-p453-v11313
-[in-end](ante) [goes](yāti) [supreme](paraṃ) [abode](dhāma) [of-viṣṇu](vaiṣṇavaṃ) [by-sages+difficult-to-attain](munidurlabham)
+[at-end](ante) [goes](yāti) [supreme](paraṃ) [abode](dhāma) [vaishnava](vaiṣṇavaṃ) [hard-for-sages](munidurlabham)
 
 ## mukta-m0-p453-v11314
-[lakṣmī+śakti+mind-born+seed](lakṣmīśaktimanojātabījānte) [ten+syllabled](daśavarṇakam)
+[lakshmi-shakti-manoja-seed-end](lakṣmīśaktimanojātabījānte) [ten-syllable](daśavarṇakam)
 
 ## mukta-m0-p453-v11315
-[seer+etc](ṛṣyādikaṃ) [by-ten-syllabled+stated](daśārṇoktaṃ) [five+limbs](pañcāṅgam) [also](api) [such](tādṛśam)
+[seer-etc](ṛṣyādikaṃ) [ten-syllable-stated](daśārṇoktaṃ) [five-limbed-also](pañcāṅgamapi) [such](tādṛśam)
 
 ## mukta-m0-p453-v11316
-[lotus+blue-lotus+shining+hand](abjotpalalasaddhasta) [by-lotus+embraced](padmayāliṅgitaṃ) [with-joy](mudā)
+[lotus-lily-shining-hand-lotus-embraced](abjotpalalasaddhastapadmayāliṅgitaṃ) [with-joy](mudā)
 
 ## mukta-m0-p453-v11317
-[thus](evaṃ) [having-meditated](dhyātvā) [one-should-mutter+mantra](japenmantraṃ) [ten+hundred-thousand](daśalakṣaṃ) [concentrated](samāhitaḥ)
+[thus](evaṃ) [meditating](dhyātvā) [should-chant-mantra](japenmantraṃ) [ten-lakhs](daśalakṣaṃ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p453-v11318
-[by-libation+etc](tarpaṇādyaiḥ) [becomes](bhavet) [mantra](mantraḥ) [accomplished](siddhaḥ) [all+fruit+giving](aśeṣaphalapradaḥ)
+[with-libations-etc](tarpaṇādyairbhavenmantraḥ) [accomplished](siddhośeṣaphalapradaḥ)
 
 ## mukta-m0-p453-v11319
-[like-ten-syllabled](daśārṇavat) [muttering](japaḥ) [and](ca) [also](api) [to-be-performed](vidheyo) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[after-ten-syllable-chanting](daśārṇavajjapaścāpi) [should-be-done](vidheyo) [no-doubt](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p453-v11320
-[māyā+śrī+accompanied](māyāśrīsahito) [mantra](mantro) [ten-syllabled](daśārṇo) [twelve-syllabled](dvādaśākṣaraḥ)
+[maya-shri-accompanied](māyāśrīsahito) [mantra](mantro) [ten-syllable](daśārṇo) [twelve-syllable](dvādaśākṣaraḥ)
 
 ## mukta-m0-p453-v11321
-[procedure](vidhānam) [of-this](asya) [to-be-known](vijñeyaṃ) [by-sixteen-syllabled+stated+method](ṣoḍaśārṇoktavartmanā)
+[rite-of-this](vidhānamasya) [to-be-known](vijñeyaṃ) [sixteen-syllable-stated-path](ṣoḍaśārṇoktavartmanā)
 
 ## mukta-m0-p453-v11322
-[deity](devaḥ) [as-before+stated](prāguktavat) [there](tatra) [mantra+accomplishment](mantrasiddhiḥ) [quickly](drutaṃ) [becomes](bhavet)
+[deity](devaḥ) [as-before](prāguktavattatra) [mantra-accomplishment-quickly](mantrasiddhirdrutaṃ) [becomes](bhavet)
 
 ## mukta-m0-p453-v11323
-[which](ye) [mantras](mantrā) [of-ten-syllabled](daśavarṇasya) [variations](bhedāḥ) [accomplishment+effecting](siddhividhāyakāḥ)
+[which](ye) [mantras](mantrā) [of-ten-syllable](daśavarṇasya) [varieties](bhedāḥ) [accomplishment-causing](siddhividhāyakāḥ)
 
 ## mukta-m0-p453-v11324
-[lakṣmī+māyā+kāma+beginning-with](lakṣmīmāyāsmarādyaśca) [mantra+king](mantrarājo) [ten-syllabled](daśākṣaraḥ)
+[lakshmi-maya-smara-etc](lakṣmīmāyāsmarādyaśca) [mantra-king](mantrarājo) [ten-syllable](daśākṣaraḥ)
 
 ## mukta-m0-p453-v11325
-[seer+etc](munyādyantu) [procedure](vidhiḥ) [of-them](teṣāṃ) [in-series](paṅktyām) [by-stated+procedure](uktavidhānataḥ)
+[seer-etc](munyādyantu) [rite-theirs](vidhisteṣāṃ) [in-row-stated-rite](paṅktyāmuktavidhānataḥ)

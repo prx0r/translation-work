@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "amānasā",
+     "gloss": "not-mental",
+     "grounds": "negative prefix a- joined to mānasā; describes the womb-born ones",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "yonijebhyaḥ",
+     "gloss": "from-womb-born",
+     "grounds": "yonija plus ablative plural ending; those born from the womb",
+     "morph": "noun.abl.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amaratvam",
+     "gloss": "immortality",
+     "grounds": "a-mara-tva, state of not dying",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "second-person pronoun in instrumental case",
+     "morph": "pron.instr.sg.2"
+    },
+    {
+     "surface": "vṛtam",
+     "gloss": "chosen",
+     "grounds": "past participle of root vṛ, selected or granted",
+     "morph": "part.acc.sg.n"
+    }
+   ],
+   "question": "Why does the non-mental one not choose immortality for those born from the womb?",
+   "premises": [
+    "immortality is not chosen for womb-born beings",
+    "the non-mental ones are addressed as womb-born",
+    "the choice of immortality is withheld by you"
+   ],
+   "inference": "womb-born beings are denied immortality because it is not chosen for them",
+   "uncertainties": [
+    "referent of amānasā is not fully fixed",
+    "agency and voice of vṛtam remain ambiguous"
+   ],
+   "plain_english": "For the non-mental, womb-born ones, immortality is not chosen by you."
+  }
+ ]
+}

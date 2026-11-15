@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p412-v10276
-[cloud-dark](ghana) + [dark-blue](śyāmaḥ) [four-armed](caturbāhuḥ) [conch-disc-mace-holder](śaṅkha+cakra+gadā+dharaḥ)
+dark-cloud-colored + four-armed; conch-disc-club-bearer
 
 ## mukta-m0-p412-v10277
-[lotus-marked](padma+cihnita) + [all-limbs](sarva+aṅgaḥ) [beautiful](sundaraḥ) [and](ca) + [lovely-eyed](āru+locanaḥ)
+lotus-marked-all-limbs; beautiful + lovely-eyed
 
 ## mukta-m0-p412-v10278
-[every-day](pratyahaṃ) [of-that](tat) + [tenth-part](daśāṃśena) [in-vaiśākha](vaiśākhe) [in-kārtika](kārtike) [likewise](tathā)
+daily + that-tenth-part; in-Vaisakha + in-Kartika + likewise
 
 ## mukta-m0-p412-v10279
-[beginning](ārabhya) [bhādra-dark-fortnight](bhādra+bahulām) + [eighth-day](aṣṭamīṃ) [sixteen-day-period](ṣoḍaśa+ahakam)
+beginning + Bhadra-dark-fortnight-eighth; sixteen-day
 
 ## mukta-m0-p412-v10280
-[page-606](p. 606)) [likewise](tathaiva) [oblation](homaḥ) [to-be-done](kartavyaḥ) [and](tathā) + [on-other-days](anya+divaseṣu) [indeed](tu)
+likewise + oblation + to-be-done; likewise + other-days + indeed
 
 ## mukta-m0-p412-v10281
-[at-beginning-and-end](ādi+antayoḥ) [hundreds](śatāni) + [eight](aṣṭau) [one-should-offer-libations](tarpayet) + [and](ca) [likewise](tathā) [to-śrī](śriyam)
+at-beginning-and-end + eight-hundreds; satisfy + and + likewise + Sri
 
 ## mukta-m0-p412-v10282
-[thus](evam) [done](kṛte) [and](ca) + [in-one-year](eka+varṣāt) [mantra-accomplishment](mantra+siddhiḥ) [arises](prajāyate)
+thus + done + and + one-year; mantra-success + arises
 
 ## mukta-m0-p412-v10283
-[one-should-feed](bhojayet) [worship](pūjanam) [and](ca) + [of-him](asya) [one-should-perform](caret) + [in-water-reservoir](toya+āśaye) [always](sadā)
+feed + worship + and + his; perform + water-reservoir + always
 
 ## mukta-m0-p412-v10284
-[in-six-petals](ṣaṭ+patreṣu) [six-limbs](ṣaḍ+aṅgāni) [one-should-worship](yajet) + [in-outer-four-petals](bāhya+catur+dale)
+six-petals + six-limbs; worship + outer-four-petals
 
 ## mukta-m0-p412-v10285
-[outside-that](tat+bāhya) + [in-eight-petals](ga+dale) [to-be-worshipped](pūjyāḥ) [milk-etc](kṣīra+ādyāḥ) [seven-oceans](sapta+sindhavaḥ)
+that-outer-petal + worshipful; milk-etc + seven-rivers
 
 ## mukta-m0-p412-v10286
-[of-that](tasya) [outside](bāhye) [in-indra-petal](śakra+dale) [jewels](ratnāni) [indeed](tu) [fourteen](caturdaśa)
+its + outside + Indra-petal; jewels + indeed + fourteen
 
 ## mukta-m0-p412-v10287
-[gaṅgā-etc](gaṅgā+ādyāḥ) [sixteen](ṣoḍaśa) [then](tataḥ) [one-should-worship](pūjayet) + [and](ca) [great-rivers](mahā+apagāḥ)
+Ganga-etc + sixteen; then + worship + and + great-rivers
 
 ## mukta-m0-p412-v10288
-[lords-of-directions](dik+īśān) + [and](ca) [their-weapons](tat+astrāṇi) [nine-enclosure-worship](nava+āvaraṇa+pūjanam)
+direction-lords + and + those-weapons; nine-enclosure-worship
 
 ## mukta-m0-p412-v10289
-[this](etam) [well-consecrated](su+saṃskṛtam) [mantra](mantram) + [one-should-recite](japet) + [hundred-and-eight](aṣṭa+uttaram śatam)
+this + well-consecrated + mantra; recite + one-hundred-eight
 
 ## mukta-m0-p412-v10290
-[unobstructed](akuṇṭhitaḥ) [in-application](prayogeṇa) [not](na) [again](punaḥ) + [of-it](tasya) [consecration](saṃskṛtiḥ)
+unhesitating + by-application; not + again + his + consecration
 
 ## mukta-m0-p412-v10291
-[by-this](etat) + [enclosed](sampuṭitāḥ) [all](sarve) [vedic](vaidikāḥ) [accomplishment-giving](siddhi+dāḥ) [in-kali-age](kalau)
+this + enclosed + all; Vedic + success-giving + in-Kali
 
 ## mukta-m0-p412-v10292
-[of-gaṇeśa](gāṇeśāḥ) [of-viṣṇu](vaiṣṇavāḥ) [of-sūrya](saurāḥ) [accomplishment](siddhim) [would-give](dadyuḥ) + [when-enclosed](vidarbhitāḥ)
+Ganesha + Vaishnava + solar; success + give + joined
 
 ## mukta-m0-p412-v10293
-[therefore](tasmāt) + [declared](proktaḥ) [not](na) + [in-other-tantra](anya+tantre) [in-meru-tantra](meru+tantre) [revealed](prakāśitaḥ)
+therefore + declared; not + other-tantra + Meru-tantra + revealed
 
 ## mukta-m0-p412-v10294
-[one](ekaḥ) [tortoise-incarnation](kūrma+avatāraḥ) + [was](abhūt) + [while-churning](mathyamāne) [great-ocean](mahā+udadhau)
+one + Kurma-avatar + became; churning + great-ocean
 
 ## mukta-m0-p412-v10295
-[to-bearer-of-burden](dhurandharāya) [bowing-down](natyantaḥ) [siddha-syllable](siddha+varṇaḥ) [mantra](manuḥ) [is-remembered](smṛtaḥ)
+burden-bearer + bowing; perfected-syllable + mantra + remembered
 
 ## mukta-m0-p412-v10296
-[deity](devatā) [lord](bhagavān) + [viṣṇu](viṣṇuḥ) + [born](jātaḥ) [tortoise-form-bearer](kacchapa+rūpa+dhṛk)
+deity + Lord-Vishnu; born + tortoise-form-bearing
 
 ## mukta-m0-p412-v10297
-[application](niyogaḥ) [deity-meditation](devatā+dhyānam) [conch-disc-mace-holder](śaṅkha+cakra+gadā+dharam)
+rule + deity-meditation; conch-disc-club-bearer
 
 ## mukta-m0-p412-v10298
-[long-necked](dīrgha+grīvam) [great-crocodile](mahā+grāham) [swallowing](girantam) [red-eyed](rakta+locanam)
+long-necked + great-crocodile; swallowing + red-eyed
 
 ## mukta-m0-p412-v10299
-[ghee-oblation](ājya+homaḥ) + [libation](tarpaṇam) + [indeed](tu) [with-sandalwood-lotus-water](candana+utpala+vāribhiḥ)
+ghee-oblation + satisfaction + and; sandal-lotus-water
 
 ## mukta-m0-p412-v10300
-[outside-that](tat+bāhye) [indeed](tu) [in-four-directions](catur+dikṣu) [madana](madanam) [babhruka](babhrukam) [brahmā](brahmāṇam) [hari](harim)
+that-outside + indeed + four-directions; Madana + Babhruka + Brahma + Hari
