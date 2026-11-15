@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p108",
  "verse": 2689,
- "question": "Where is the navel thread located within the navel pit according to this instruction?",
+ "question": "What is the sound joined with vowels fire and heart?",
  "premises": [
-  "The subject is the navel thread.",
-  "The location described is the middle of that navel pit.",
-  "The instruction is addressed to the best twice-born."
+  "with-vowels is named svarairyutaḥ",
+  "sound is named nādaḥ",
+  "with-fire is named sāgniḥ",
+  "joined is named yuktaḥ",
+  "heart-etc is named hṛdādibhiḥ"
  ],
- "inference": "The navel thread is situated in the middle of that navel pit.",
- "uncertainties": [],
- "plain_english": "O best of the twice-born, the navel thread is situated in the middle of that navel pit."
+ "inference": "the sound is joined with vowels fire and heart",
+ "uncertainties": [
+  "compound senses are legacy hints only"
+ ],
+ "plain_english": "The sound is joined with vowels, fire, and heart."
 }

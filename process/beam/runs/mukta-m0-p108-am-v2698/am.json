@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p108",
  "verse": 2698,
- "question": "Which chapter of the Aṃśumān Kāśyapa text concludes with this colophon?",
+ "question": "What is held on the right then?",
  "premises": [
-  "The colophon marks the end of a section.",
-  "The text named is Aṃśumān in the Kāśyapa tradition.",
-  "The chapter is identified as the fifty-sixth on the excellent ten-tāla rule."
+  "thus is named tathā",
+  "or is named vā",
+  "holding is named bibhratīm",
+  "then is named atha",
+  "right is named dakṣiṇe"
  ],
- "inference": "This concludes the fifty-sixth chapter, on the excellent ten-tāla rule, in the Aṃśumān Kāśyapa.",
- "uncertainties": [],
- "plain_english": "Thus ends the fifty-sixth chapter, on the rule of the excellent ten-tāla system, in the Aṃśumān Kāśyapa."
+ "inference": "the figure is holding on the right then",
+ "uncertainties": [
+  "participle sense is legacy hint only"
+ ],
+ "plain_english": "Thus or holding then on the right."
 }

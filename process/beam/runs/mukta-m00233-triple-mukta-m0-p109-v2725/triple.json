@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "pārṣṇighātādibhir",
+     "gloss": "by-heel-strike-etc",
+     "grounds": "compound of pārṣṇi (heel), ghāta (strike), ādi (etc.), with instrumental plural ending bhiḥ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vighnān",
+     "gloss": "obstacles",
+     "grounds": "accusative plural of vighna",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhaumādīn",
+     "gloss": "earthly-etc",
+     "grounds": "accusative plural of bhauma plus ādi (and others)",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "apasārya",
+     "gloss": "removing",
+     "grounds": "gerund/absolutive of apasṛ, indicating removal before the main action",
+     "morph": "gerund-apasṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which earthly and other obstacles are removed by heel-strike before entry?",
+   "premises": [
+    "Heel-strike removes obstacles.",
+    "Earthly obstacles are included.",
+    "Removal precedes entry."
+   ],
+   "inference": "The practitioner removes earthly and other obstacles by heel-strike before proceeding.",
+   "uncertainties": [
+    "The exact list of obstacles beyond earthly ones is not specified."
+   ],
+   "plain_english": "Having removed earthly and other obstacles by heel-strike and the like, one proceeds."
+  }
+ ]
+}

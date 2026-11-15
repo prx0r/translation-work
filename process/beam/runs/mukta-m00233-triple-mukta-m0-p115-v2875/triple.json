@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2875,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing the clause",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadiṣṭatamam",
+     "gloss": "most-desired",
+     "grounds": "superlative adjective modifying the fruit",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative of loka",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dṛṣṭādṛṣṭaphalam",
+     "gloss": "seen-unseen-fruit",
+     "grounds": "compound of seen, unseen, and fruit in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "adjective modifying the fruit",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is the most desired great fruit in the world, both seen and unseen?",
+   "premises": [
+    "Most desired fruit includes seen and unseen results.",
+    "Great fruit is sought in the world.",
+    "The verse opens with a conditional if."
+   ],
+   "inference": "The verse presents the greatest desired fruit as encompassing both visible and invisible outcomes.",
+   "uncertainties": [
+    "The exact clause governed by yadi is not shown.",
+    "Whether yadiṣṭatamam modifies fruit or practitioner remains unclear."
+   ],
+   "plain_english": "If the most desired great fruit in the world is both seen and unseen."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p108",
+ "items": [
+  {
+   "verse": 2700,
+   "rows": [
+    {
+     "surface": "kāryāḥ",
+     "gloss": "to-be-done",
+     "grounds": "passive participle from kr̥; masculine nominative plural; surface kept exactly as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb; surface kept exactly as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīratarūdbhavāḥ",
+     "gloss": "milk-tree-born",
+     "grounds": "compound kṣīra-taru-udbhava; masculine nominative plural; surface kept exactly as given",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which substances born from the milk tree are to be prepared as before?",
+   "premises": [
+    "milk-tree-born items are to be done",
+    "they are to be done as before"
+   ],
+   "inference": "The verse directs that milk-tree-born items be prepared according to the earlier procedure.",
+   "uncertainties": [
+    "the exact ritual referent of the milk-tree-born items is not specified in this verse"
+   ],
+   "plain_english": "The milk-tree-born items are to be done as before."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "vṛttākārastu",
+     "gloss": "round-shaped",
+     "grounds": "describes the tree's overall form; tu is indeclinable particle",
+     "morph": "adj.nom.sg.m + (indecl.)"
+    },
+    {
+     "surface": "mūlāgrād",
+     "gloss": "from-root-to-tip",
+     "grounds": "ablative of compound mūla-agra indicating extent from root to tip",
+     "morph": "compound.abl.sg.n"
+    },
+    {
+     "surface": "bahuśākho",
+     "gloss": "many-branched",
+     "grounds": "adjective describing abundant branches",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "dṛḍhāyataḥ",
+     "gloss": "firm-elongated",
+     "grounds": "adjective describing sturdy length",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What physical form must a suitable ritual tree possess from root to tip?",
+   "premises": [
+    "round-shaped form extends root to tip",
+    "many branches mark suitability",
+    "firm elongated trunk completes form"
+   ],
+   "inference": "A suitable tree is round-shaped, many-branched, and firm-elongated from root to tip.",
+   "uncertainties": [
+    "internal sandhi of vṛttākārastu is not expanded into separate rows"
+   ],
+   "plain_english": "It is round-shaped, from root to tip many-branched and firm-elongated."
+  }
+ ]
+}

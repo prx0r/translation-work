@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p110",
  "verse": 2738,
- "question": "Why must the sequence not be omitted?",
+ "question": "Which world-lord deities are invoked in directions with mantras?",
  "premises": [
-  "Sequence omission is forbidden",
-  "The goal is one's desired accomplishment",
-  "Omission would hinder that goal"
+  "then is stated",
+  "directions are named",
+  "mantras are named",
+  "world-lord deities are named"
  ],
- "inference": "One must not omit the sequence, lest one's desired goal fail to be accomplished.",
+ "inference": "World-lord deities are invoked in directions with mantras.",
  "uncertainties": [
-  "The exact sequence is not specified"
+  "exact invocation verb omitted"
  ],
- "plain_english": "Do not omit the sequence, so your desired goal may be accomplished."
+ "plain_english": "Then world-lord deities are invoked in the directions with mantras."
 }

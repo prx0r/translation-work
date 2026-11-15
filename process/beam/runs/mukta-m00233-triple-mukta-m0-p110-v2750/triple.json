@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "hūṃ",
+     "gloss": "seed-syllable",
+     "grounds": "mantra seed syllable hūṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "oblation-formula",
+     "grounds": "mantra ending svāhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation-formula",
+     "grounds": "mantra salutation namaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional formulas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative object of throw",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-throw",
+     "grounds": "optative of root kṣip",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Which mantra formulas accompany the throwing of the offering?",
+   "premises": [
+    "The offering is thrown with hūṃ svāhā namaḥ.",
+    "Ceti indicates additional formulas.",
+    "Kṣipet is an optative throw."
+   ],
+   "inference": "The rite throws the offering while reciting hūṃ svāhā namaḥ and so forth.",
+   "uncertainties": [
+    "Exact ritual context beyond the offering throw is not stated."
+   ],
+   "plain_english": "Throw the offering with hūṃ svāhā namaḥ and so forth."
+  }
+ ]
+}

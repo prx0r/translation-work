@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p124",
  "verse": 3093,
- "question": "What colors of liṅga are obtained as appropriate for śūdras?",
+ "question": "Which south, southwest, and west directions are named?",
  "premises": [
-  "Liṅgas may vary in color",
-  "Certain colors are associated with śūdras"
+  "The verse names south.",
+  "It names southwest and west.",
+  "The token is fused."
  ],
- "inference": "For śūdras, a yellow or black liṅga is obtained as appropriate.",
- "uncertainties": [],
- "plain_english": "For śūdras, a yellow or black one is obtained as appropriate."
+ "inference": "The verse names south, southwest, and west directions.",
+ "uncertainties": [
+  "Exact list of directions incomplete."
+ ],
+ "plain_english": "And south, and southwest, west thus."
 }

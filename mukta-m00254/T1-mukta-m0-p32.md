@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-direct-perception inference word analogy with
+[direct-perception](pratyakṣam) [inference](anumānam) [and](ca) [word](śabdah) [comparison](upamayā) [with](saha)
 
 ## mukta-m0-p32-v777
-sense-organs etc causes visible direct-perception that here is-said
+[by-senses-etc-causes](akṣādikāraṇair) [seen](dṛśyaṃ) [direct-perception](pratyakṣaṃ) [here](iha) [called](ucyate)
 
 ## mukta-m0-p32-v778
-trustworthy-utterance words attainable word if that example
+[trustworthy-statement](āptoktir) [by-words](vacanair) [known](gamyaṃ) [word](śabdaḥ) [if](cet) [that](tam) [example](udāhṛtam)
 
 ## mukta-m0-p32-v779
-by-day food exists thus by-night not-exists thus is-inferred
+[day](divā) [food](bhojanam) [is](asti) [thus](iti) [night](rātrau) [not](nāsti) [thus](iti) [known](gamyate)
 
 ## mukta-m0-p32-v780
-such-etc means-of-knowledge but hard-to-discern that Shiva remembered
+[thus-etc](evamādi) [by-means](pramāṇaistu) [hard-to-discern](durlakṣyaṃ) [that](tac) [auspicious](śiva) [remembered](smṛtam)
 
 ## mukta-m0-p32-v781
-six-limbs limb-differences differences thirty-six remembered
+[six-limbs](ṣaḍaṅga) [limb-divisions](aṅgabhedāni) [divisions](bhedāḥ) [thirty-six](ṣaṭtriṃśati) [remembered](smṛtaḥ)
 
 ## mukta-m0-p32-v782
-knowledge-limb and indeed power-limb common-limb likewise indeed and
+[knowledge-limb](vidyāṅgaṃ) [and](ca) [eva](eva) [power-limb](śaktyāṃgaṃ) [common-limb](sāmānyāṅgaṃ) [thus](tathaiva) [ca](ca)
 
 ## mukta-m0-p32-v783
-element-limbs but should-worship god installation-etc entirely
+[element-limbs](bhūtāṅgaiḥ) [tu](tu) [worship](yajet) [god](devaṃ) [installation-etc](sthāpanādi) [all](sarvaśaḥ)
 
 ## mukta-m0-p32-v784
-atom-names joining element-limbs and should-perform
+[atom-names](aṇunāmāni) [joining](saṃyojya) [element-limbs](bhūtāṅgaiḥ) [ca](ca) [perform](samācaret)
 
 ## mukta-m0-p32-v785
-of-powers in-installation at-time power-limbs but should-perform
+[powers](śaktīnāṃ) [installation](sthāpane) [time](kāle) [power-limbs](śaktyaṅgaiḥ) [tu](tu) [perform](samācaret)
 
 ## mukta-m0-p32-v786
-namas svaha likewise vaushat hum shat phat and arise
+[namah-svaha](namassvāhā) [and](tathā) [vaushat](vauṣaṭ) [hum](huṃ) [six](ṣaṭ) [phat](phaṭ) [ca](ca) [arise](jāyataḥ)
 
 ## mukta-m0-p32-v787
-hum phat in-species cruel but rest peaceful proclaimed
+[hum](huṃ) [phat](phaṭ) [in-cruel-species](jātiṣu) [tu](tu) [rest](śeṣāḥ) [peaceful](śāntā) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p32-v788
-mantra-soul supreme-soul thus sixfold established
+[mantra-self](mantrātmā) [supreme-self](paramātmeti) [sixfold](ṣaḍvidhena) [established](vyavasthitaḥ)
 
 ## mukta-m0-p32-v789
-mantra-soul mantras knowable inner-soul with-words
+[mantra-self](mantrātmā) [mantras](mantrayo) [known](jñeyaṃ) [inner-self](antarātmā) [with-speech](girānvitaḥ)
 
 ## mukta-m0-p32-v790
-soul but life of-them by-these liberated supreme remembered
+[jiva](jīvastu) [life](jīvanaṃ) [their](teṣāṃ) [by-these-liberated](ebhirmuktaḥ) [supreme-remembered](parasmṛtaḥ)
 
 ## mukta-m0-p32-v791
-senses then in-objects always indeed proceed
+[senses](indriyāṇi) [then](tato) [objects](artheṣu) [always](nityameva) [proceed](pravartate)
 
 ## mukta-m0-p32-v792
-then delusion-natured state produces of-embodied
+[then](tato) [delusion-nature](mohātmakaṃ) [state](bhāvaṃ) [produces](utpādayati) [embodied](dehinām)
 
 ## mukta-m0-p32-v793
-which within resides sound of-that speech (pra)proceeds
+[which](yo) [within](antare) [stands](vartate) [sound](śabdaḥ) [its](tasya) [speech](vāca) [activator](pravartakaḥ)
 
 ## mukta-m0-p32-v794
-subtle indeed five subtle-elements mind ego indeed and
+[subtle](sūkṣmā) [vai](vai) [five](pañca) [tanmatra](tanmātraṃ) [mind](mano) [ego](ahaṅkārameva) [ca](ca)
 
 ## mukta-m0-p32-v795
-kalā time likewise maya knowledge ignorance lord and what
+[kalā](kalā) [time](kāla) [tathā](tathā) [māyā](māya) [knowledge](vidyā) [ignorance](avidyā) [lord](īśvaraḥ) [ca](ca) [yat](yat)
 
 ## mukta-m0-p32-v796
-of-these indeed by-union principle-soul purusha remembered
+[of-these](eteṣāmeva) [union](saṃyogāt) [tattva-self](tattvātmā) [puruṣa](puruṣa) [remembered](smṛtaḥ)
 
 ## mukta-m0-p32-v797
-pervader of-all-principles unborn unmanifest eternal
+[pervader](vyāpakaḥ) [all-principles](sarvatatvānāṃ) [unborn-manifest-eternal](ajovyaktassanādinīm)
 
 ## mukta-m0-p32-v798
-deluded ever-moving little-knowing lordless active
+[deluded](samūḍho) [eternally-moving](nityasañcārī) [somewhat-knowing](kiñcitjño) [non-lord](niśvaro) [active](kriyaḥ)
 
 ## mukta-m0-p32-v799
-gross-subtle-supreme here mantra-soul purusha remembered
+[gross-subtle-supreme](sthūlasūkṣmaparasyaiha) [mantra-self](mantrātmā) [puruṣa](puruṣasmṛtaḥ)
 
 ## mukta-m0-p32-v800
-by-thought devoid what but that supreme proclaimed
+[thought](cintayā) [devoid](rahitaṃ) [that](yattu) [supreme](tatparaṃ) [declared](parikīrtitam)

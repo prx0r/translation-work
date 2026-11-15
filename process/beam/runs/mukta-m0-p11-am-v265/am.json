@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p11",
  "verse": 265,
- "question": "What is the rampart and its end like?",
+ "question": "What collection of five is said first?",
  "premises": [
-  "ruby-made is named",
-  "rampart is named",
-  "fire-flame-red is named"
+  "of-five is named",
+  "collection is named",
+  "first is stated",
+  "is-said is stated"
  ],
- "inference": "The rampart is ruby-made and its end is fire-flame-red.",
+ "inference": "A collection of five is said first.",
  "uncertainties": [
-  "exact end reference"
+  "exact five items remain unresolved"
  ],
- "plain_english": "The ruby-made rampart has a fire-flame-red end."
+ "plain_english": "A collection of five is said first."
 }

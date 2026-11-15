@@ -3,24 +3,29 @@
  "verse": 2725,
  "rows": [
   {
-   "lemma": "atha",
+   "lemma": "pārṣṇighātādibhir",
+   "morph": "m.inst.pl",
+   "grounds": "compound of pārṣṇi (heel), ghāta (strike), ādi (etc.), with instrumental plural ending bhiḥ"
+  },
+  {
+   "lemma": "vighnān",
+   "morph": "m.acc.pl",
+   "grounds": "accusative plural of vighna"
+  },
+  {
+   "lemma": "bhaumādīn",
+   "morph": "m.acc.pl",
+   "grounds": "accusative plural of bhauma plus ādi (and others)"
+  },
+  {
+   "lemma": "apasārya",
+   "morph": "gerund-apasṛ",
+   "grounds": "gerund/absolutive of apasṛ, indicating removal before the main action"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "sequential particle introducing the next ritual rule"
-  },
-  {
-   "lemma": "kārttikamāsasya",
-   "morph": "m.gen.sg",
-   "grounds": "genitive of kārttika-māsa, the month of Kārttika"
-  },
-  {
-   "lemma": "śuklapratipadi",
-   "morph": "f.loc.sg",
-   "grounds": "locative of śukla-pratipad, first day of the bright fortnight"
-  },
-  {
-   "lemma": "dhruvam",
-   "morph": "(indecl.)",
-   "grounds": "adverb expressing ritual certainty"
+   "grounds": "indeclinable particle"
   }
  ]
 }

@@ -1,0 +1,953 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "śarabhāge",
+     "gloss": "arrow-part",
+     "grounds": "compound śara+bhāga, locative sense",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgoccaṃ",
+     "gloss": "two-part-height",
+     "grounds": "compound dvibhāga+ucca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talam",
+     "gloss": "floor",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "[lakam]",
+     "gloss": "lac",
+     "grounds": "bracketed token retained",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What heights and floor material are specified for this structure?",
+   "premises": [
+    "arrow-part height is named",
+    "two-part height is named",
+    "lac floor is named"
+   ],
+   "inference": "The structure may be built with arrow-part or two-part height and a lac floor.",
+   "uncertainties": [
+    "technical architectural terms remain unresolved"
+   ],
+   "plain_english": "The structure may have an arrow-part or two-part height, with a lac floor."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "sopapīṭham",
+     "gloss": "with-pedestal",
+     "grounds": "compound sa+upapīṭha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhiṣṭhānaṃ",
+     "gloss": "base",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "masūrakam",
+     "gloss": "lentil",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What base forms are permitted for the structure?",
+   "premises": [
+    "with-pedestal base is named",
+    "only base is named",
+    "lentil form is named"
+   ],
+   "inference": "The base may be with pedestal, only, or lentil-shaped.",
+   "uncertainties": [
+    "exact base typology remains unresolved"
+   ],
+   "plain_english": "The base may be with pedestal, only, or lentil-shaped."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "kapotapratisaṃyuktaḥ",
+     "gloss": "pigeon-associated",
+     "grounds": "compound kapota+pratisaṃyukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāmānyo",
+     "gloss": "common",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maṇḍapaḥ",
+     "gloss": "pavilion",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of pavilion is remembered as common?",
+   "premises": [
+    "pigeon-associated pavilion is named",
+    "common pavilion is named",
+    "remembered status is stated"
+   ],
+   "inference": "A pigeon-associated pavilion is remembered as common.",
+   "uncertainties": [
+    "pigeon association remains unresolved"
+   ],
+   "plain_english": "A pigeon-associated pavilion is remembered as common."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "prapāthavā",
+     "gloss": "water-shed",
+     "grounds": "compound prapā+atha+vā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What structure is named as a water-shed?",
+   "premises": [
+    "water-shed term is named"
+   ],
+   "inference": "A water-shed structure is named.",
+   "uncertainties": [
+    "exact compound segmentation remains unresolved"
+   ],
+   "plain_english": "A water-shed structure is named."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdvāraṃ",
+     "gloss": "four-gated",
+     "grounds": "compound catur+dvāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturbhistoraṇānvitam",
+     "gloss": "with-four-arches",
+     "grounds": "compound caturbhiḥ+torana+anvita",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What gated and arched form is permitted?",
+   "premises": [
+    "or is stated",
+    "four-gated form is named",
+    "with-four-arches form is named"
+   ],
+   "inference": "A four-gated form with four arches is permitted.",
+   "uncertainties": [
+    "exact architectural form remains unresolved"
+   ],
+   "plain_english": "A four-gated form with four arches is permitted."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "vadantīha",
+     "gloss": "they-call",
+     "grounds": "verb vad",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapāmapi",
+     "gloss": "water-shed",
+     "grounds": "compound prapām+api",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What do they call a pavilion or water-shed?",
+   "premises": [
+    "they call is stated",
+    "pavilion is named",
+    "water-shed is named"
+   ],
+   "inference": "They call it a pavilion or water-shed.",
+   "uncertainties": [
+    "referent remains unresolved"
+   ],
+   "plain_english": "They call it a pavilion or water-shed."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "puroktaḥ",
+     "gloss": "previously-stated",
+     "grounds": "compound pura+ukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "verb as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vedartvaṣṭadaśāṅgulaiḥ",
+     "gloss": "veda-eighteen-angulas",
+     "grounds": "compound veda+ṛtu+aṣṭadaśa+aṅgula",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What previously stated measure uses veda eighteen angulas?",
+   "premises": [
+    "previously-stated status is named",
+    "would-be is stated",
+    "veda-eighteen-angulas measure is named"
+   ],
+   "inference": "The previously stated measure would use veda eighteen angulas.",
+   "uncertainties": [
+    "exact measure remains unresolved"
+   ],
+   "plain_english": "The previously stated measure would use veda eighteen angulas."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "tvaksārairnirmitā",
+     "gloss": "bark-materials",
+     "grounds": "compound tvaksāra+nirmita",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syur",
+     "gloss": "would-be",
+     "grounds": "verb as",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "ūrdhvavaṃśottarāṇyapi",
+     "gloss": "upper-bamboo-rafters",
+     "grounds": "compound ūrdhva+vaṃśa+uttara+api",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What upper bamboo rafters may be made from bark materials?",
+   "premises": [
+    "bark-materials form is named",
+    "or is stated",
+    "would-be is stated",
+    "upper-bamboo-rafters are named"
+   ],
+   "inference": "Upper bamboo rafters may be made from bark materials.",
+   "uncertainties": [
+    "exact rafter construction remains unresolved"
+   ],
+   "plain_english": "Upper bamboo rafters may be made from bark materials."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "anyairvāpyupapattyā",
+     "gloss": "by-others",
+     "grounds": "compound anyaiḥ+vā+api+upapattyā",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patraiḥ",
+     "gloss": "leaves",
+     "grounds": "noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pracchādayet",
+     "gloss": "cover",
+     "grounds": "verb pracchād",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "prapām",
+     "gloss": "water-shed",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How may a water-shed be covered by others?",
+   "premises": [
+    "by others is stated",
+    "or is stated",
+    "leaves are named",
+    "cover is stated",
+    "water-shed is named"
+   ],
+   "inference": "A water-shed may be covered with leaves by others.",
+   "uncertainties": [
+    "exact covering method remains unresolved"
+   ],
+   "plain_english": "A water-shed may be covered with leaves by others."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "vedikoccaṃ",
+     "gloss": "platform-height",
+     "grounds": "compound vedikā+ucca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syān",
+     "gloss": "would-be",
+     "grounds": "verb as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "noun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raṅgaṃ",
+     "gloss": "stage",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "arrange",
+     "grounds": "verb kalp",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What platform height and stage arrangement is specified?",
+   "premises": [
+    "platform-height is named",
+    "would-be is stated",
+    "middle is named",
+    "stage is named",
+    "and is stated",
+    "arrange is stated"
+   ],
+   "inference": "A platform height would be set and a stage arranged in the middle.",
+   "uncertainties": [
+    "exact height remains unresolved"
+   ],
+   "plain_english": "A platform height would be set and a stage arranged in the middle."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "dvyaṃśastalimāyāmaḥ",
+     "gloss": "two-part-floor-length",
+     "grounds": "compound dvyaṃśa+talima+āyāma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prastaroṃ'śena",
+     "gloss": "slab-part",
+     "grounds": "compound prastara+aṃśa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What floor length and slab part are specified?",
+   "premises": [
+    "two-part-floor-length is named",
+    "slab-part is named",
+    "of-it is stated",
+    "and is stated"
+   ],
+   "inference": "The floor length is two-part and its slab part is specified.",
+   "uncertainties": [
+    "exact measurement remains unresolved"
+   ],
+   "plain_english": "The floor length is two-part and its slab part is specified."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "vasustambhaṃ",
+     "gloss": "sixteen-pillared",
+     "grounds": "compound vasu+stambha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśastambhakaṃ",
+     "gloss": "sixteen-pillared",
+     "grounds": "compound ṣoḍaśa+stambhaka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sixteen-pillared forms are permitted?",
+   "premises": [
+    "sixteen-pillared form is named",
+    "or is stated",
+    "sixteen-pillared form is named",
+    "and is stated",
+    "or is stated"
+   ],
+   "inference": "Sixteen-pillared forms are permitted.",
+   "uncertainties": [
+    "distinction between forms remains unresolved"
+   ],
+   "plain_english": "Sixteen-pillared forms are permitted."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "śālāsabhāprapāṇāṃ",
+     "gloss": "of-halls-assembly-water-sheds",
+     "grounds": "compound śālā+sabhā+prapā",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapānāṃ",
+     "gloss": "of-pavilions",
+     "grounds": "noun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "middle",
+     "grounds": "noun",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are halls, assemblies, water-sheds, and pavilions placed?",
+   "premises": [
+    "of-halls-assembly-water-sheds is named",
+    "or is stated",
+    "of-pavilions is named",
+    "and is stated",
+    "middle is named"
+   ],
+   "inference": "Halls, assemblies, water-sheds, and pavilions are placed in the middle.",
+   "uncertainties": [
+    "exact placement remains unresolved"
+   ],
+   "plain_english": "Halls, assemblies, water-sheds, and pavilions are placed in the middle."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "mṛt",
+     "gloss": "earth",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sudhā",
+     "gloss": "lime",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-so",
+     "grounds": "compound ca+iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍvidhāni",
+     "gloss": "six-fold",
+     "grounds": "compound ṣaṣ+vidha",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pracakṣate",
+     "gloss": "they-declare",
+     "grounds": "verb pracakṣ",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "What six-fold materials are declared?",
+   "premises": [
+    "earth is named",
+    "lime is named",
+    "and-so is stated",
+    "six-fold is named",
+    "they-declare is stated"
+   ],
+   "inference": "Earth, lime, and so on are declared as six-fold materials.",
+   "uncertainties": [
+    "remaining four materials remain unresolved"
+   ],
+   "plain_english": "Earth, lime, and so on are declared as six-fold materials."
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "pañcānāṃ",
+     "gloss": "of-five",
+     "grounds": "numeral",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṅgrahaḥ",
+     "gloss": "collection",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "verb vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What collection of five is said first?",
+   "premises": [
+    "of-five is named",
+    "collection is named",
+    "first is stated",
+    "is-said is stated"
+   ],
+   "inference": "A collection of five is said first.",
+   "uncertainties": [
+    "exact five items remain unresolved"
+   ],
+   "plain_english": "A collection of five is said first."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "latāśliṣṭāḥ",
+     "gloss": "creeper-clinging",
+     "grounds": "compound latā+śliṣṭa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kīṭajuṣṭāḥ",
+     "gloss": "insect-infested",
+     "grounds": "compound kīṭa+juṣṭa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sakaṇṭakāḥ",
+     "gloss": "thorny",
+     "grounds": "compound sa+kaṇṭaka",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What tree qualities are to be avoided?",
+   "premises": [
+    "creeper-clinging is named",
+    "insect-infested is named",
+    "thorny is named"
+   ],
+   "inference": "Creeper-clinging, insect-infested, and thorny trees are to be avoided.",
+   "uncertainties": [
+    "exact avoidance context remains unresolved"
+   ],
+   "plain_english": "Creeper-clinging, insect-infested, and thorny trees are to be avoided."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "bahupakṣimṛgairjuṣṭāś",
+     "gloss": "many-bird-beast-inhabited",
+     "grounds": "compound bahu+pakṣi+mṛga+juṣṭa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "caityamārga",
+     "gloss": "chaitya-path",
+     "grounds": "compound caitya+mārga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śmaśānajāḥ",
+     "gloss": "cremation-ground-born",
+     "grounds": "compound śmaśāna+ja",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What trees are unsuitable due to birds, beasts, or cremation grounds?",
+   "premises": [
+    "many-bird-beast-inhabited is named",
+    "chaitya-path is named",
+    "cremation-ground-born is named"
+   ],
+   "inference": "Trees inhabited by many birds and beasts or born in cremation grounds are unsuitable.",
+   "uncertainties": [
+    "exact unsuitability rule remains unresolved"
+   ],
+   "plain_english": "Trees inhabited by many birds and beasts or born in cremation grounds are unsuitable."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "palāśāḥ",
+     "gloss": "palasha",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kuṭajā",
+     "gloss": "kutaja",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "lodhrā",
+     "gloss": "lodhra",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bilvapīluśirīṣakāḥ",
+     "gloss": "bilva-pilu-shirisha",
+     "grounds": "compound bilva+pīlu+śirīṣaka",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which trees are listed as suitable or unsuitable?",
+   "premises": [
+    "palasha is named",
+    "kutaja is named",
+    "lodhra is named",
+    "bilva-pilu-shirisha is named"
+   ],
+   "inference": "These trees are listed among the relevant species.",
+   "uncertainties": [
+    "suitability status remains unresolved"
+   ],
+   "plain_english": "Palasha, kutaja, lodhra, and bilva-pilu-shirisha are listed."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "pathyākṣāmalakāḥ",
+     "gloss": "pathya-aksha-amalaka",
+     "grounds": "compound pathyā+akṣa+āmalaka",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pārthāḥ",
+     "gloss": "partha",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "snuhisnugvaraṇā",
+     "gloss": "snuhi-snu-varana",
+     "grounds": "compound snuhi+snu+varaṇa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional trees are listed?",
+   "premises": [
+    "pathya-aksha-amalaka is named",
+    "partha is named",
+    "snuhi-snu-varana is named",
+    "also is stated"
+   ],
+   "inference": "Additional trees including pathya-aksha-amalaka, partha, and snuhi-snu-varana are listed.",
+   "uncertainties": [
+    "suitability status remains unresolved"
+   ],
+   "plain_english": "Additional trees including pathya-aksha-amalaka, partha, and snuhi-snu-varana are listed."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "nyagrodhodumbarāśvatthaplakṣaśalmalitindukāḥ",
+     "gloss": "nyagrodha-udumbara-ashvattha-plaksha-shalmali-tinduka",
+     "grounds": "compound nyagrodha+udumbara+aśvattha+plakṣa+śalmali+tinduka",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which trees are named in this compound list?",
+   "premises": [
+    "nyagrodha-udumbara-ashvattha-plaksha-shalmali-tinduka is named"
+   ],
+   "inference": "These trees are named in one compound list.",
+   "uncertainties": [
+    "suitability status remains unresolved"
+   ],
+   "plain_english": "Nyagrodha, udumbara, ashvattha, plaksha, shalmali, and tinduka are named."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "sarpamārārimedāśca",
+     "gloss": "sarpa-mara-arimeda",
+     "grounds": "compound sarpa+māra+arimeda+ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "putrajīvāḥ",
+     "gloss": "putranjiva",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saḍuṇḍukāḥ",
+     "gloss": "saḍuṇḍuka",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which trees are named in this list?",
+   "premises": [
+    "sarpa-mara-arimeda is named",
+    "putranjiva is named",
+    "saḍuṇḍuka is named"
+   ],
+   "inference": "These trees are named in the list.",
+   "uncertainties": [
+    "suitability status remains unresolved"
+   ],
+   "plain_english": "Sarpa-mara-arimeda, putranjiva, and saḍuṇḍuka are named."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "varjanīyāḥ",
+     "gloss": "to-be-avoided",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syur",
+     "gloss": "would-be",
+     "grounds": "verb as",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "devamānuṣadhāmasu",
+     "gloss": "in-divine-human-abodes",
+     "grounds": "compound deva+mānuṣa+dhāma",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Which trees are to be avoided in divine and human abodes?",
+   "premises": [
+    "to-be-avoided is stated",
+    "would-be is stated",
+    "in-divine-human-abodes is named"
+   ],
+   "inference": "Certain trees would be avoided in divine and human abodes.",
+   "uncertainties": [
+    "exact trees remain unresolved"
+   ],
+   "plain_english": "Certain trees would be avoided in divine and human abodes."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "varṣavātātapasahā",
+     "gloss": "rain-wind-sun-enduring",
+     "grounds": "compound varṣa+vāta+ātapa+saha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jalasthalasahāśca",
+     "gloss": "water-land-enduring",
+     "grounds": "compound jala+sthala+saha+ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "and",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which trees endure rain, wind, sun, water, and land?",
+   "premises": [
+    "rain-wind-sun-enduring is named",
+    "water-land-enduring is named",
+    "and is stated"
+   ],
+   "inference": "Trees enduring rain, wind, sun, water, and land are named.",
+   "uncertainties": [
+    "exact species remain unresolved"
+   ],
+   "plain_english": "Trees enduring rain, wind, sun, water, and land are named."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "kṣīrataravo",
+     "gloss": "milky-trees",
+     "grounds": "compound kṣīra+taru",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuṣyagṛhocitāḥ",
+     "gloss": "suitable-for-human-houses",
+     "grounds": "compound manuṣya+gṛha+ucita",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Are milky trees suitable for human houses?",
+   "premises": [
+    "milky-trees is named",
+    "not is stated",
+    "suitable-for-human-houses is named"
+   ],
+   "inference": "Milky trees are not suitable for human houses.",
+   "uncertainties": [
+    "exact species remain unresolved"
+   ],
+   "plain_english": "Milky trees are not suitable for human houses."
+  }
+ ]
+}

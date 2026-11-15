@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[vijñāna-kevalaḥ](vijñānakevalaḥ) [śuddhaṃ](śuddhaṃ) [pañca-avasthaḥ](pañcāvasthaḥ) [pumān](pumān) [smṛtaḥ](smṛtaḥ)
+[consciousness-only](vijñānakevalaḥ) [pure](śuddhaṃ) [five-state](pañcāvasthaḥ) [person](pumān) [remembered](smṛtaḥ)
 
 ## mukta-m0-p27-v652
-[na](na) [vijñāna-kalāḥ](vijñānakalāḥ) [tena](tena) [na](na) [api](api) [pralaya-kevalaḥ](pralayakevalaḥ)
+[not](na) [consciousness-powers](vijñānakalāḥ) [by-him](tena) [nor](nāpi) [dissolution-only](pralayakevalaḥ)
 
 ## mukta-m0-p27-v653
-[tasmāt](tasmāt) [sakalaḥ](sakalaḥ) [eva](eva) [ayaṃ](ayaṃ) [labhate](labhate) [puruṣa-āhvayam](puruṣāhvayam)
+[therefore](tasmāt) [with-all-parts](sakalaḥ) [indeed](eva) [this](ayaṃ) [obtains](labhate) [person-named](puruṣāhvayam)
 
 ## mukta-m0-p27-v654
-[mala-karma](malakarma) [mahā-māyā](mahāmāyam) [māyā-arthaṃ](māyortham) [akhilaṃ](akhilaṃ) [jagat](jagat)
+[impurity](mala) [action](karma) [great-illusion](mahāmāyā) [illusion-object](māyārtha) [all](akhilaṃ) [world](jagat)
 
 ## mukta-m0-p27-v655
-[ulkā-vṛttiṃ](ulkāvṛttiṃ) [tad-anteṣu](tadanteṣu) [sthitvā](sthitvā) [sthitvā](sthitvā) [tad-ājñayā](tadājñayā)
+[meteor-course](ulkāvṛttiṃ) [in-their-end](tadanteṣu) [having-stood](sthitvā) [having-stood](sthitvā) [by-his-command](tadājñayā)
 
 ## mukta-m0-p27-v656
-[nivṛttiḥ](nivṛttiśca) [ca](ca) [pratiṣṭhā](pratiṣṭhā) [ca](ca) [vidyā-śāntiḥ](vidyāśāntiḥ) [anantaram](anantaram)
+[return](nivṛttiḥ) [and](ca) [establishment](pratiṣṭhā) [and](ca) [knowledge-peace](vidyāśāntiḥ) [thereafter](anantaram)
 
 ## mukta-m0-p27-v657
-[kalā](kalā) [vidyā](vidyā) [ca](ca) [rāgaḥ](rāgaśca) [ca](ca) [kālaḥ](kālo) [niyatiḥ](niyatireva) [eva](eva) [ca](ca)
+[power](kalā) [knowledge](vidyā) [and](ca) [attachment](rāgaḥ) [and](ca) [time](kālaḥ) [restriction](niyatiḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p27-v658
-[anna-prāṇa-mano-jñāna](annaprāṇamanojñāna) [mayā](mayā) [kośāḥ](kośāstathātmanaḥ) [tathā](tathā) [ātmanaḥ](ātmanaḥ)
+[food](anna) [breath](prāṇa) [mind](manas) [knowledge](jñāna) [sheaths](kośāḥ) [thus](tathā) [of-self](ātmanaḥ)
 
 ## mukta-m0-p27-v659
-[annaṃ](annam) [ādi-mayaṃ](ādimayaṃ) [devī](devīttyanyonyaṃ) [itya](itya) [anyonyaṃ](anyonyaṃ) [sūkṣma-rūpakam](sūkṣmarūpakam)
+[food](anna) [first-made](ādimayaṃ) [goddess](devī) [thus](iti) [mutually](anyonyaṃ) [subtle-form](sūkṣmarūpakam)
 
 ## mukta-m0-p27-v660
-[gṛhṇāti](gṛhṇātyannamayātmānaṃ) [anna-maya-ātmānaṃ](annamayātmānaṃ) [dehaḥ](deho) [lokāyataḥ](lokāyataḥ) [khalu](khalu)
+[takes](gṛhṇāti) [food-sheath-self](annamayātmānam) [body](dehaḥ) [worldly](lokāyataḥ) [indeed](khalu)
 
 ## mukta-m0-p27-v661
-[vijñāna-maya-ātmānaṃ](vijñānamayamātmānaṃ) [bandhāḥ](bandhā) [gṛhṇanti](gṛhṇanti) [na](na) [aparam](aparam)
+[knowledge-sheath-self](vijñānamayamātmānam) [bonds](bandhāḥ) [take](gṛhṇanti) [not-other](nāparam)
 
 ## mukta-m0-p27-v662
-[ahaṅkāra-ātmanā](ahaṅkārātmanā) [atītaṃ](atītaṃ) [prāhuḥ](prāhuḥ) [prāyaḥ](prāyo) [mano-mayaḥ](manomayaḥ)
+[beyond](atītaṃ) [ego-self](ahaṅkārātmanā) [they-say](prāhuḥ) [mostly](prāyaḥ) [mind-sheath](manomayaḥ)
 
 ## mukta-m0-p27-v663
-[samūha-skandha-śabda-arthaṃ](samūhaskandhaśabdārthaṃ) [tat-tat](tattatsantati) [santati](santati) [vācakaḥ](vācakaḥ)
+[aggregate](samūha) [trunk](skandha) [word-meaning](śabdārthaṃ) [that-that](tattat) [continuity](santati) [speaker](vācakaḥ)
 
 ## mukta-m0-p27-v664
-[saṃskāra-skandhaḥ](saṃskāraskandha) [iti](ityukto) [uktaḥ](uktaḥ) [vāsanā-ananta-santatiḥ](vāsanānantasantatiḥ)
+[impression-trunk](saṃskāraskandhaḥ) [thus](iti) [called](uktaḥ) [latent-tendency](vāsanā) [endless](ananta) [continuity](santatiḥ)
 
 ## mukta-m0-p27-v665
-[vedānāṃ](vedānāṃ) [skandhaḥ](skandha) [iti](ityukto) [uktaḥ](uktaḥ) [saṃjñā](saṃjñā) [syāt](syāt) [skandha-nāma](skandhanāma) [yat](yat)
+[of-vedas](vedānāṃ) [trunk](skandhaḥ) [thus](iti) [called](uktaḥ) [name](saṃjñā) [would-be](syāt) [trunk-name](skandhanāma) [that](yat)
 
 ## mukta-m0-p27-v666
-[āma-pakva-malaṃ](āmapakvamalaṃ) [garbhaṃ](garbhaṃ) [mūtra-āśaya](mūtrāśayeti) [iti](iti) [pañcakam](pañcakam)
+[raw](āma) [cooked](pakva) [impurity](malaṃ) [embryo](garbhaṃ) [urine-receptacle](mūtrāśaya) [thus](iti) [fivefold](pañcakam)
 
 ## mukta-m0-p27-v667
-[vitanya-kṣāṇi](vitanyakṣāṇi) [puṃsā-ardhāṃ](puṃsārdhāṃ) [na](na) [svayaṃ](svayaṃ) [sopi](sopi) [śaṃbhunā](śaṃbhunā)
+[seeds](vitanyāni) [of-men](puṃsāṃ) [half](ardhaṃ) [not](na) [by-itself](svayaṃ) [he-too](sopi) [by-śambhu](śaṃbhunā)
 
 ## mukta-m0-p27-v668
-[hṛdaya-ādi](hṛdayādi) [samārabhya](samārabhya) [nābhyā-antaṃ](nābhyāntantu) [tu](tu) [suṣuptikam](suṣuptikam)
+[heart](hṛdaya) [etc](ādi) [beginning](samārabhya) [navel](nābhi) [end](antaṃ) [deep-sleep](suṣuptikam)
 
 ## mukta-m0-p27-v669
-[jāgra-ādi](jāgrādi) [svapnaṃ](svapnamevaṃ) [evaṃ](evaṃ) [hi](hi) [pravartakaṃ](pravartakam) [iha](iha) [ucyate](ucyate)
+[waking](jāgra) [etc](ādi) [dream](svapna) [thus](evaṃ) [indeed](hi) [activator](pravartaka) [here](iha) [said](ucyate)
 
 ## mukta-m0-p27-v670
-[suṣuptau](suṣuptau) [mūrti-saṃjñasya](mūrtisaṃjñasyātturye) [atturye](atturye) [yugmaṃ](yugmaṃ) [yathā](yathā) [kramam](kramam)
+[in-deep-sleep](suṣuptau) [embodied-named](mūrtisaṃjñasya) [in-fourth](turye) [pair](yugmaṃ) [as](yathā) [order](kramam)
 
 ## mukta-m0-p27-v671
-[kintu](kintu) [guhyaṃ](guhyamidaṃ) [idaṃ](idaṃ) [vakṣye](vakṣye) [śṛṇutvaṃ](śṛṇutvaṃ) [nandikeśvara](nandikeśvara)
+[but](kintu) [secret](guhyaṃ) [this](idaṃ) [I-will-speak](vakṣye) [listen](śṛṇu) [you](tvaṃ) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p27-v672
-[sthūlaṃ](sthūlaṃ) [jāgraṃ](jāgramiti) [iti](iti) [jñeyaṃ](jñeyaṃ) [sūkṣmaṃ](sūkṣmaṃ) [svapnaṃ](svapnamihocyate) [iha](iha) [ucyate](ucyate)
+[gross](sthūlaṃ) [waking](jāgram) [thus](iti) [to-be-known](jñeyaṃ) [subtle](sūkṣmaṃ) [dream](svapnaṃ) [here](iha) [said](ucyate)
 
 ## mukta-m0-p27-v673
-[tataḥ](tato'dhikamatītaṃ) [adhikaṃ](adhikaṃ) [atītaṃ](atītaṃ) [syāt](syāt) [devaṃ](devaṃ) [pañca-vidhaṃ](pañcavidhaṃ) [smṛtam](smṛtam)
+[then](tataḥ) [beyond](adhikam) [past](atītaṃ) [would-be](syāt) [divine](devaṃ) [fivefold](pañcavidhaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p27-v674
-[sad-guroḥ](sadgurorūpadeśena) [ūpa-deśena](ūpadeśena) [prakāśena](prakāśenaiva) [eva](eva) [niścayaḥ](niścayaḥ)
+[by-true-guru-instruction](sadgurorūpadeśena) [by-manifestation](prakāśena) [indeed](eva) [certainty](niścayaḥ)
 
 ## mukta-m0-p27-v675
-[itya](ittyetattapaso) [etat](etat) [tapasaḥ](tapaso) [rūpaṃ](rūpaṃ) [su-ghoraṃ](sughoraṃ) [pañca-lakṣaṇam](pañcalakṣaṇam)
+[thus](iti) [this](etat) [austerity](tapasaḥ) [form](rūpaṃ) [very-terrible](sughoraṃ) [five-marked](pañcalakṣaṇam)

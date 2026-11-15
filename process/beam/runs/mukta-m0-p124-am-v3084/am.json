@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p124",
  "verse": 3084,
- "question": "How should that liṅga be worshipped with its proper mantra?",
+ "question": "Which audumbara, bilva, karañja, and indra-tree born items are named?",
  "premises": [
-  "That liṅga is to be worshipped",
-  "Worship requires mantra and respect"
+  "The verse names audumbara, bilva, karañja, and indra-tree born items.",
+  "It is a single compound token.",
+  "The legacy hint gives the gloss."
  ],
- "inference": "One should always worship that liṅga respectfully with its mantra.",
- "uncertainties": [],
- "plain_english": "One should always worship that liṅga with its mantra and with respect."
+ "inference": "The verse names audumbara, bilva, karañja, and indra-tree born items.",
+ "uncertainties": [
+  "Exact ritual use not specified in this token."
+ ],
+ "plain_english": "Audumbara and bilva, karañja and indra-tree born."
 }

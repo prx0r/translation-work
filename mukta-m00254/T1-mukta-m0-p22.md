@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[nīrāñjanaṃ+ca](nīrāñjanañca) [bhasma+ca](bhasmā) [cāmaraṃ](cāmaraṃ) [tālavṛntakam](tālavṛntakam)
+[nīrāñjana](nīrāñjanañca) [bhasma](bhasmā) [cāmara](cāmaraṃ) [tālavṛntaka](tālavṛntakam)
 
 ## mukta-m0-p22-v527
-[naivedyaṃ](naivedyaṃ) [homa-karmaṃ+ca](homakarmañca) [bali-dānaṃ+ca](balidānañca) [pañcadhā](pañcadhā)
+[naivedya](naivedyaṃ) [homakarma](homakarmañca) [balidāna](balidānañca) [pañcadhā](pañcadhā)
 
 ## mukta-m0-p22-v528
-[udakaṃ+ca+api](udakañcāpyamudvāhaṃ) [amudvāhaṃ](udakañcāpyamudvāhaṃ) [ṣaṭtriṃśat-upacārakam](ṣaṭtriṃśadupacārakam)
+[udaka](udakañca) [amudvāha](apyamudvāhaṃ) [ṣaṭtriṃśat](ṣaṭtriṃśad) [upacāra](upacārakam)
 
 ## mukta-m0-p22-v529
-[śiro-vaktraṃ+ca](śirovaktañca) [hṛdayaṃ](hṛdayamaṅgañceti) [aṅgaṃ+ca+iti](hṛdayamaṅgañceti) [prakīrtitam](prakīrtitam)
+[śiro](śirovaktañca) [vaktra](vaktañca) [hṛdaya](hṛdayamaṅgañca) [aṅga](aṅgañceti) [prakīrtita](prakīrtitam)
 
 ## mukta-m0-p22-v530
-[ūru-jānu-dvayaṃ+ca+eva](ūrujānudvayañcaiva) [pratyaṅgaṃ](pratyaṃgaṃ) [ca+iti](ceti) [kīrtitam](kīrtitam)
+[ūru](ūrujānudvayañcaiva) [jānu](jānudvayañcaiva) [dvaya](dvayañcaiva) [prati-aṅga](pratyaṃgaṃ) [kīrtita](ceti kīrtitam)
 
 ## mukta-m0-p22-v531
-[jaṭā-makuṭakaṃ+ca+eva](jaṭāmakuṭakañcaiva) [sāṅgaṃ](sāṅgaṃ) [ca+iti](ceti) [prakīrtitam](prakīrtitam)
+[jaṭā](jaṭāmakuṭakañcaiva) [makuṭa](makuṭakañcaiva) [sāṅga](sāṅgaṃ) [prakīrtita](ceti prakīrtitam)
 
 ## mukta-m0-p22-v532
-[sakalānāṃ+tu](sakalānāntu) [sarveṣāṃ](sarveṣāṃ) [kartavyaḥ](kartavyo) [bāla-biṃbake](bālabiṃbake)
+[sakala](sakalānāntu) [sarva](sarveṣāṃ) [kartavya](kartavyo) [bāla-biṃbaka](bālabiṃbake)
 
 ## mukta-m0-p22-v533
-[jānvantaṃ](jānvantaṃ) [kanyasaṃproktaṃ](kanyasaṃproktaṃ) [vāhvantaṃ](vāhvantaṃ) [madhyamaṃ](madhyamaṃ) [bhavet](bhavet)
+[jānu](jānvantaṃ) [kanyasa](kanyasaṃproktaṃ) [vāhu](vāhvantaṃ) [madhyama](madhyamaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p22-v534
-[pratimāṃ](pratimāṃ) [vā+api](vāpi) [pīṭhaṃ](pīṭhaṃ) [vā](vā) [deva-agre](devāgre) [sthāpayet](sthāpayedbudhaḥ) [budhaḥ](sthāpayedbudhaḥ)
+[pratimā](pratimāṃ) [pīṭha](pīṭhaṃ) [deva](devāgre) [agra](devāgre) [sthāpayet](sthāpayedbudhaḥ) [budha](budhaḥ)
 
 ## mukta-m0-p22-v535
-[pratyaṅga-ādīni](pratyaṅgādīni) [sarveṣāṃ](sarveṣāṃ) [chhinna-bhinne](chinnabhinne) [ca](ca) [saṃbhave](saṃbhave)
+[prati-aṅga](pratyaṅgādīni) [sarva](sarveṣāṃ) [chinna](chinnabhinne) [bhinna](bhinne) [saṃbhava](saṃbhave)
 
 ## mukta-m0-p22-v536
-[rahasyaṃ](rahasyaṃ) [kalpayet](kalpayettatra) [tatra](kalpayettatra) [punaḥ](punaḥ) [sandhānam](sandhānamācaret) [ācaret](sandhānamācaret)
+[rahasya](rahasyaṃ) [kalpayet](kalpayettatra) [punaḥ](punassandhānamācaret) [sandhāna](sandhānamācaret) [ācaret](ācaret)
 
 ## mukta-m0-p22-v537
-[pūrvavat](pūrvavat) [śakti-sahitaṃ](śaktisahitaṃ) [kalyāṇaṃ](kalyāṇaṃ) [kārayet](kārayedbudhaḥ) [budhaḥ](kārayedbudhaḥ)
+[pūrvavat](pūrvavat) [śakti](śaktisahitaṃ) [sahita](sahitaṃ) [kalyāṇa](kalyāṇaṃ) [kārayet](kārayedbudhaḥ) [budha](budhaḥ)
 
 ## mukta-m0-p22-v538
-[utsava-ādīni](utsavādīni) [sarvāṇi](sarvāṇi) [kṛtaṃ](kṛtañcedrākṣasāspadam) [ced](kṛtañcedrākṣasāspadam) [rākṣasa-āspadam](kṛtañcedrākṣasāspadam)
+[utsava](utsavādīni) [sarva](sarvāṇi) [kṛta](kṛtañcedrākṣasāspadam) [rākṣasa](rākṣasāspadam) [āspada](āspadam)
 
 ## mukta-m0-p22-v539
-[tasmāt](tasmātsarvaprayatnena) [sarva-prayatnena](tasmātsarvaprayatnena) [jīrṇam](jīrṇamuddhṛtya) [uddhṛtya](jīrṇamuddhṛtya) [kārayet](kārayet)
+[tasmāt](tasmātsarvaprayatnena) [sarva](sarvaprayatnena) [prayatna](prayatnena) [jīrṇa](jīrṇamuddhṛtya) [uddhṛtya](uddhṛtya) [kārayet](kārayet)
 
 ## mukta-m0-p22-v540
-[darśa-antaḥ](darśāntaḥ) [paurṇamānte](paurṇamānte) [ca](ca) [cāndra-māsaḥ](cāndramāsaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+[darśa](darśāntaḥ) [anta](antaḥ) [paurṇamāsa](paurṇamānte) [anta](ante) [cāndra](cāndramāsaḥ) [māsa](māsaḥ) [prakīrtita](prakīrtitaḥ)
 
 ## mukta-m0-p22-v541
-[aśvinyādi](aśvinyādi) [ca](ca) [paurṇāntaṃ](paurṇāntaṃ) [māsa-nakṣatraṃ](māsanakṣatramīritam) [īritam](māsanakṣatramīritam)
+[aśvinī](aśvinyādi) [ādi](ādi) [paurṇa](paurṇāntaṃ) [anta](antaṃ) [māsa](māsanakṣatramīritam) [nakṣatra](nakṣatramīritam) [īrita](īritam)
 
 ## mukta-m0-p22-v542
-[sāvanena](sāvanenaiva) [eva](sāvanenaiva) [kartavya](kartavya) [bhṛtyānāṃ](bhṛtyānāṃ) [vedanaṃ](vedanaṃ) [tathā](tathā)
+[sāvana](sāvanenaiva) [kartavya](kartavya) [bhṛtya](bhṛtyānāṃ) [vedana](vedanaṃ) [tathā](tathā)
 
 ## mukta-m0-p22-v543
-[sāvanaṃ](sāvanaṃ) [cāndra-nakṣatraṃ](cāndranakṣatraṃ) [māseṣu](māseṣu) [śakti-maṅgalau](śaktimaṃgalau)
+[sāvana](sāvanaṃ) [cāndra](cāndranakṣatraṃ) [nakṣatra](nakṣatraṃ) [māsa](māseṣu) [śakti](śaktimaṃgalau) [maṃgala](maṃgalau)
 
 ## mukta-m0-p22-v544
-[muktidaṃ](muktidaṃ) [cāndra-māse](cāndramāse) [tu](tu) [nakṣatraṃ](nakṣatraṃ) [pāpa-nāśanam](pāpanāśanam)
+[mukti](muktidaṃ) [da](daṃ) [cāndra](cāndramāse) [māsa](māse) [nakṣatra](nakṣatraṃ) [pāpa](pāpanāśanam) [nāśana](nāśanam)
 
 ## mukta-m0-p22-v545
-[tithi-pradhāna-tīrtha-antaṃ](tithipradhānatīrthāntaṃ) [cāndra-māsa-uktam](cāndramāsoktamuttamam) [uttamam](cāndramāsoktamuttamam)
+[tithi](tithipradhānatīrthāntaṃ) [pradhāna](pradhāna) [tīrtha](tīrthāntaṃ) [anta](antaṃ) [cāndra](cāndramāsoktamuttamam) [māsa](māsoktamuttamam) [ukta](uktaṃ) [uttama](uttamam)
 
 ## mukta-m0-p22-v546
-[sāvane](sāvane) [ca](ca) [utsavaṃ](utsavaṃ) [jñeyaṃ](jñeyaṃ) [sā](sā) [pratiṣṭha-utsavaṃ](pratiṣṭhotsavaṃ) [guha](guha)
+[sāvana](sāvane) [utsava](cotsavaṃ) [jñeya](jñeyaṃ) [pratiṣṭhā](pratiṣṭhotsavaṃ) [utsava](utsavaṃ) [guha](guha)
 
 ## mukta-m0-p22-v547
-[jñātvā](jñātvā) [pariharet](pariharettadvat) [tadvat](pariharettadvat) [sa](sa) [tīrtha-ṛkṣe](tīrtharkṣeścedvijottamaḥ) [ced](tīrtharkṣeścedvijottamaḥ) [vijottamaḥ](tīrtharkṣeścedvijottamaḥ)
+[jñātvā](jñātvā) [pariharet](pariharettadvat) [tadvat](tadvat) [tīrtha](tīrtharkṣeścedvijottamaḥ) [ṛkṣa](ṛkṣeścedvijottamaḥ) [īśa](īścedvijottamaḥ) [vijottama](vijottamaḥ)
 
 ## mukta-m0-p22-v548
-[na-iṣṭaṃ](neṣṭaṃ) [prathama-ṛkṣe](prathamarkṣe) [tu](tu) [anya-ṛkṣe](anyarkṣe) [tīrtham](tīrthamācaret) [ācaret](tīrthamācaret)
+[neṣṭa](neṣṭaṃ) [prathama](prathamarkṣe) [ṛkṣa](ṛkṣe) [anya](anyarkṣe) [ṛkṣa](ṛkṣe) [tīrtha](tīrthamācaret) [ācaret](ācaret)
 
 ## mukta-m0-p22-v549
-[tasmāt](tasmātsarvaprayatnena) [sarva-prayatnena](tasmātsarvaprayatnena) [tīrtham](tīrthamanyarkṣamācaret) [anya-ṛkṣam](tīrthamanyarkṣamācaret) [ācaret](tīrthamanyarkṣamācaret)
+[tasmāt](tasmātsarvaprayatnena) [sarva](sarvaprayatnena) [prayatna](prayatnena) [tīrtha](tīrthamanyarkṣamācaret) [anya](anyarkṣamācaret) [ṛkṣa](ṛkṣamācaret) [ācaret](ācaret)
 
 ## mukta-m0-p22-v550
-[tataṃ](tatañca) [ca](tatañca) [vitataṃ](vitatañcaiva) [ca+eva](vitatañcaiva) [ghanaṃ](ghanaṃ) [suṣiraṃ](suṣirameva) [eva](suṣirameva) [ca](suṣirameva)
+[tata](tatañca) [vitata](vitatañcaiva) [ghana](ghanaṃ) [suṣira](suṣirameva) [eva](eva) [ca](ca)

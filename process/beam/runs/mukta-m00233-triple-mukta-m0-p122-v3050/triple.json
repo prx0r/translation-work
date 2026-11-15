@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p122",
+ "items": [
+  {
+   "verse": 3050,
+   "rows": [
+    {
+     "surface": "caturthyantaḥ",
+     "gloss": "fourth-ending",
+     "grounds": "marks a fourth-case ending in the mantra form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kh: ntā",
+     "gloss": "kh-ntā",
+     "grounds": "mantra syllable cluster kept byte-exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "devotional salutation in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "mantra term as given by the verse",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What mantra form ends with a fourth-case salutation?",
+   "premises": [
+    "The verse lists a fourth-ending marker.",
+    "The verse includes the syllable cluster kh ntā.",
+    "The verse closes with salutation and mantra."
+   ],
+   "inference": "The mantra is formed with a fourth-case ending and salutation.",
+   "uncertainties": [
+    "Exact internal sandhi of kh: ntā remains unresolved."
+   ],
+   "plain_english": "A mantra ending in the fourth case, kh ntā, salutation, mantra."
+  }
+ ]
+}

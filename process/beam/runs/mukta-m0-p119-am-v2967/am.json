@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p119",
  "verse": 2967,
- "question": "What identity and defining properties are attributed to the mantra just described?",
+ "question": "Which deities are named in this group?",
  "premises": [
-  "The described formula is identified as Kāmeśvarī.",
-  "It is eternal.",
-  "It is an eleven-syllabled mantra that grants desires."
+  "gajanana is named",
+  "shamba is named",
+  "madhuka is named"
  ],
- "inference": "The described formula is the eternal, desire-granting, eleven-syllabled Kāmeśvarī.",
- "uncertainties": [],
- "plain_english": "This is Kāmeśvarī, the eternal, desire-granting eleven-syllabled mantra."
+ "inference": "The verse names Gajanana, Shamba, and Madhuka among the deities.",
+ "uncertainties": [
+  "their grouping with eight forms is in next verse"
+ ],
+ "plain_english": "Gajanana, then Shamba, then Madhuka, likewise."
 }

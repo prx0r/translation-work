@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p117",
+ "items": [
+  {
+   "verse": 2925,
+   "rows": [
+    {
+     "surface": "medhāprajñādike",
+     "gloss": "intelligence-wisdom-and-such",
+     "grounds": "compound naming paired faculties with ādi",
+     "morph": "compound loc.pl.n"
+    },
+    {
+     "surface": "dve dve",
+     "gloss": "two-two",
+     "grounds": "numeral repeated for two pairs",
+     "morph": "num.dual.f"
+    },
+    {
+     "surface": "dvāḥsthe",
+     "gloss": "door-guardians",
+     "grounds": "compound of door and standing guardian",
+     "morph": "compound loc.pl.m"
+    },
+    {
+     "surface": "dvāracatuṣṭaye",
+     "gloss": "fourfold-door",
+     "grounds": "compound of door and fourfold set",
+     "morph": "compound loc.sg.n"
+    }
+   ],
+   "question": "Which paired faculties are assigned to the guardians of the four doors?",
+   "premises": [
+    "medhā and prajñā are paired faculties",
+    "two pairs are assigned at the doors",
+    "four doors have guardians"
+   ],
+   "inference": "The verse assigns two pairs of medhā-prajñā faculties to the guardians of the four doors.",
+   "uncertainties": [
+    "exact pairing and door order are not specified by the verse"
+   ],
+   "plain_english": "Two each of medhā, prajñā, and related faculties are placed at the guardians of the four doors."
+  }
+ ]
+}

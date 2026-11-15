@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p119",
  "verse": 2971,
- "question": "What action should be performed with the vidyā syllables in the specified bodily places?",
+ "question": "What color and anointing attributes are given?",
  "premises": [
-  "The vidyā syllables are to be used.",
-  "The specified places have been named.",
-  "The action is to be done after that."
+  "white elephant is named",
+  "dark is named",
+  "yellow anointed is named"
  ],
- "inference": "After that, one should place the syllables of the vidyā in those specified places.",
- "uncertainties": [],
- "plain_english": "Thereafter, let him place the syllables of the vidyā in these places."
+ "inference": "The verse gives white elephant, dark, and yellow-anointed attributes.",
+ "uncertainties": [
+  "subject linkage is condensed"
+ ],
+ "plain_english": "White elephant, dark, yellow-anointed."
 }

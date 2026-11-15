@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p104",
  "verse": 2592,
- "question": "What mantra is given for the southern face in this kaula nyasa?",
+ "question": "What trident, axe, conch, and discus are placed on the left?",
  "premises": [
-  "the token is a mantra",
-  "it is offered to the southern face"
+  "trident and axe are named",
+  "conch and discus are named",
+  "left is named"
  ],
- "inference": "The verse supplies a mantra addressed to the southern face of Kalika.",
+ "inference": "the verse names these implements on the left",
  "uncertainties": [
-  "internal parsing of the mantra is not provided"
+  "compound analysis not expanded"
  ],
- "plain_english": "A mantra is given for the southern face of Kalika."
+ "plain_english": "Trident and axe, and conch and discus, on the left."
 }

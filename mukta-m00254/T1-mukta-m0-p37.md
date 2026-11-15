@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[vindhya](vindhya) [ca](ca) [pāriyātrā](pāriyātrā) [ca](ca) [sapta](sapta) [ete](ete) [kula+parvatāḥ](kulaparvatāḥ)
+[vindhya](vindhyaśca) [pariyatra](pāriyātrāśca) [seven](saptaite) [clan-mountains](kulaparvatāḥ)
 
 ## mukta-m0-p37-v902
-[samudrāḥ](samudrāḥ) [sapta](sapta) [vikhyāta](vikhyāta) [dviguṇāḥ](dviguṇāḥ) [ca](ca) [uttarottarāḥ](uttarottarāḥ)
+[oceans](samudrāssapta) [renowned](vikhyāta) [doubled-increasing](dviguṇācottarottarāḥ)
 
 ## mukta-m0-p37-v903
-[sapta+dvīpāḥ](saptadvīpāḥ) [samākhyātāḥ](samākhyātāḥ) [samudra+antaritāḥ](samudrāntaritāḥ) [mahat](mahat)
+[seven-islands](saptadvīpāssamākhyātā) [ocean-separated](samudrāntaritā) [great](mahat)
 
 ## mukta-m0-p37-v904
-[kuśe](kuśe) [hṛt](hṛt) [kāñcanaṃ](kāñcanaṃ) [kośe](kośe) [svayaṃbhu](svayaṃbhu) [vidhi](vidhi) [yakṣati](yakṣati)
+[kusha](kuśe) [heart](hṛtkāñcanaṃ) [self-born-rite](svayaṃbhuvidhi) [worships](yakṣati)
 
 ## mukta-m0-p37-v905
-[krauñcena](krauñcena) [yudhvā](yudhvā) [suciraṃ](suciraṃ) [citramāyīṃ](citramāyīṃ) [sumāyinā](sumāyinā)
+[with-krauncha](krauñcena) [fighting](yudhvā) [long](suciraṃ) [wondrous](citramāyīṃ) [skilled-in-maya](sumāyinā)
 
 ## mukta-m0-p37-v906
-[ketu](ketu) [nāma](nāma) [āgata+asya](āgamuktasya) [nāmnā](nāmnā) [krauñcaṃ](krauñcaṃ) [tam](tam) [ucyate](ucyate)
+[ketu-named](ketu+nāmāgamuktasya) [name](nāmnā) [krauncha](krauñcaṃtamucyate)
 
 ## mukta-m0-p37-v907
-[priya](priya) [marāṇāṃ](marāṇāṃ) [tat](tat) [ketuḥ](ketuḥ) [satadā+ākhyā](satadākhyā) [nibandhanaḥ](nibandhanaḥ)
+[dear-to-gods](priyomarāṇāṃ) [that-ketu](tatketuḥ) [hundred-named](satadākhyā) [bond](nibandhanaḥ)
 
 ## mukta-m0-p37-v908
-[yājya](yājya) [bhadvahni+kalpānāṃ](bhadvahnikalpānāṃ) [mauna+dhyāna](maunadhyānam) [anokule](anokule)
+[worshipful](yājyo) [fire-rite](bhadvahnikalpānāṃ) [silent-meditation](maunadhyānamanokule)
 
 ## mukta-m0-p37-v909
-[vavre](vavre) [taṃ](taṃ) [gautamaḥ](gautamaḥ) [kopāt](kopāt) [asapat](asapat) [somam](somam) [akṣayam](akṣayam)
+[chose](vavre) [him](taṃ) [gautama](gautamaḥ) [in-anger](kopāt) [with-soma](asapat) [imperishable](somamakṣayam)
 
 ## mukta-m0-p37-v910
-[tat](tat) [medasā](medasā) [mahi+cchinnā](mahicchinnā) [gomedas](gomedas) [santato](santato) [bhavet](bhavet)
+[by-that-fat](tanmedasā) [great-cut](mahicchinnā) [gomedha](gomedassantato) [becomes](bhavet)
 
 ## mukta-m0-p37-v911
-[tat](tat) [pā](pā) [sa](sa) [puṣkara+dvīpaḥ](puṣkaradvīpaḥ) [khyāpitaḥ](khyāpitassurasevitaḥ) [sura+sevitaḥ](surasevitaḥ)
+[that-foot](tatpā) [pushkara-island](sa+puṣkaradvīpaḥ) [declared](khyāpitassurasevitaḥ)
 
 ## mukta-m0-p37-v912
-[śāke](śāke) [medhātithiḥ](medhātithirnāma) [nāma](nāma) [vasuḥ](vasuśca) [ca](ca) [kuśa](kuśa) [saṃjñite](saṃjñite)
+[shaka](śāke) [medhatithi-named](medhātithirnāma) [vasu](vasuśca) [kusha-named](kuśa+saṃjñite)
 
 ## mukta-m0-p37-v913
-[gomedhe](gomedhe) [havyavāhaḥ](havyavāhastu) [tu](tu) [vasavaḥ](vasavaḥ) [puṣkaraḥ](puṣkaro) [tathā](tathā)
+[gomedha](gomedhe) [fire-bearer](havyavāhastu) [vasus](vasavaḥ) [pushkara](puṣkaro) [thus](tathā)
 
 ## mukta-m0-p37-v914
-[ādityasya](ādityasyāśvanāmāni) [aśva+nāmāni](aśvanāmāni) [pratyekaṃ](pratyekaṃ) [vacmi](vacmi) [sāṃpratam](sāṃpratam)
+[of-aditya](ādityasyāśvanāmāni) [horse-names](pratyekaṃ) [i-speak](vacmi) [now](sāṃpratam)
 
 ## mukta-m0-p37-v915
-[anuṣṭup](anuṣṭup) [tṛṣṭup](tṛṣṭup) [iti](ityuktaṃ) [uktaṃ](uktaṃ) [chandāṃsi](chandāṃsi) [harayaḥ](harayo) [hare](hare)
+[anustubh](anuṣṭup) [trishtubh](tṛṣṭupityuktaṃ) [meters](chandāṃsi) [haris](harayo) [to-hari](hare)
 
 ## mukta-m0-p37-v916
-[vaidyutaḥ](vaidyuto) [mānasaḥ](mānasaścaiva) [ca](ca) [eva](eva) [suprabhaḥ](suprabhobhrāṇi) [bhrāṇi](bhrāṇi) [sapta](sapta) [vai](vai)
+[electric](vaidyuto) [mental](mānasaścaiva) [suprabha](suprabhobhrāṇi) [seven](sapta) [indeed](vai)
 
 ## mukta-m0-p37-v917
-[saṃvāhaḥ](saṃvāho) [vivahaḥ](vivahastasmāt) [tasmāt](tasmāt) [ūrdhvaṃ](ūrdhvaṃ) [syāt](syāttu) [tu](tu) [parāvahaḥ](parāvahaḥ)
+[samvaha](saṃvāho) [vivaha](vivahastasmāt) [upward](ūrdhvaṃ) [then](syāttu) [paravaha](parāvahaḥ)
 
 ## mukta-m0-p37-v918
-[mṛga+pakṣī](mṛgapakṣīva) [iva](iva) [paśavaḥ](paśavaḥ) [caturthasya](caturthasya) [sarīsṛpaḥ](sarīsṛpaḥ)
+[beasts-birds](mṛgapakṣīva) [cattle](paśavaḥ) [fourth](caturthasya) [reptiles](sarīsṛpaḥ)
 
 ## mukta-m0-p37-v919
-[ūrdhva+pucchaṃ](ūrdhvapucchantu) [tu](tu) [yat](yaddhrasvaṃ) [hrasvaṃ](hrasvaṃ) [mṛgaṃ](mṛgaṃ) [vidyāt](vidyādvināyakam) [vināyakam](vināyakam)
+[upward-tail](ūrdhvapucchantu) [short](yaddhrasvaṃ) [beast](mṛgaṃ) [know](vidyādvināyakam)
 
 ## mukta-m0-p37-v920
-[dvipakṣaḥ](dvipakṣaḥ) [pakṣam](pakṣamityāhuḥ) [iti](iti) [āhuḥ](āhuḥ) [sarīsṛpam](sarīsṛpam) [uraplavam](uraplavam)
+[two-winged](dvipakṣaḥ) [wing](pakṣamityāhuḥ) [reptile](sarīsṛpamuraplavam)
 
 ## mukta-m0-p37-v921
-[sthāvaraṃ](sthāvaraṃ) [sthāpitaṃ](sthāpitaṃ) [proktaṃ](proktaṃ) [deva+yoni](devayonyajagaṃ) [aja+gaṃ](ajagaṃ) [tathā](tathā)
+[stationary](sthāvaraṃ) [established](sthāpitaṃ) [declared](proktaṃ) [divine-origin](devayonyajagaṃ) [thus](tathā)
 
 ## mukta-m0-p37-v922
-[bāhvikā](bāhvikā) [dākṣiṇātyāḥ](dākṣiṇātyāśca) [ca](ca) [sapta+bhāṣā](saptabhāṣā) [prakīrtitāḥ](prakīrtitāḥ)
+[bahlika](bāhvikā) [southern](dākṣiṇātyāśca) [seven-languages](saptabhāṣā) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p37-v923
-[vipra+ucchiṣṭaṃ](viprocchiṣṭañca) [ca](ca) [gavyaṃ](gavyañca) [ca](ca) [sapta](sapta) [ete](ete) [sthāna+śuddhayaḥ](sthānaśuddhayaḥ)
+[brahmin-leftover](viprocchiṣṭañca) [cow-product](gavyañca) [seven](saptaite) [place-purities](sthānaśuddhayaḥ)
 
 ## mukta-m0-p37-v924
-[iṣṭikā](iṣṭikā) [ca](ca) [sudhā](sudhā) [ca](ca) [eva](eva) [prādeśam](prādeśamavaṭaṃ) [avaṭaṃ](avaṭaṃ) [tyajet](tyajet)
+[brick](iṣṭikā) [plaster](ca+sudhā) [caiva](caiva) [span](prādeśamavaṭaṃ) [abandon](tyajet)
 
 ## mukta-m0-p37-v925
-[nivedya](nivedya) [visarjane](visarjane) [ca](ca) [eva](eva) [vāri](vārisaptasu) [saptasu](saptasu) [yojayet](yojayet)
+[offering](nivedya) [dismissal](visarjane) [caiva](caiva) [water-seven](vārisaptasu) [employ](yojayet)

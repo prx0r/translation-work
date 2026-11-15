@@ -2,73 +2,73 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[then-i](tatohaṃ) [will-tell](kathayiṣyāmi) [how](yathā) [becomes](bhavati) [that-hear](tacchṛṇu)
+then-i will-tell as becomes that-listen
 
 ## mukta-m0-p19-v452
-[shiva-japa](śivajapyaṃ) [becomes-this](bhavedeṣa) [shiva](śivaṃ) [indeed-non-shiva](hyaśiva) [doer](kāriṇam)
+śiva-mantra becomes-this śiva non-śiva doer
 
 ## mukta-m0-p19-v453
-[both](ubhau) [and-attracts](cākarṣayedyastu) [he](sa) [japa](japaṃ) [does](kurute) [guha](guha)
+both attracts-who that japa does guha
 
 ## mukta-m0-p19-v454
-[thus](evāṃ) [going-coming](gamāgamaṃ) [to-be-known](jñeyaṃ) [that](taṃ) [japa](japaṃ) [eternal-brahma](brahmaśāśvatam)
+thus going-coming known that japa brahma-eternal
 
 ## mukta-m0-p19-v455
-[fire-rite](agnikāryaṃ) [and](ca) [to-me](metātatatvamācakṣva) [that-truth](tat+tattvam) [declare](ācakṣva) [indeed](vai) [lord](prabho)
+fire-rite and that-tattva speak indeed lord
 
 ## mukta-m0-p19-v456
-[again-also](bhūyopi) [will-tell](kathayiṣyāmi) [fire-rite](agnikāryaṃ) [but](tu) [mental](mānasam)
+again will-speak fire-rite but mental
 
 ## mukta-m0-p19-v457
-[heart-situated](hṛdisthaṃ) [supreme](paramaṃ) [radiance](tejo) [not](na) [but](tu) [know](jānanti) [deluded](mohitāḥ)
+heart-seated supreme radiance not know deluded
 
 ## mukta-m0-p19-v458
-[of-fire](jvalanasya) [but](tu) [that](tat) [radiance](tejaḥ) [full](pūrṇamindustathaiva) [moon](induḥ) [so-indeed](tathā+eva) [and](ca)
+of-fire that radiance full-moon likewise
 
 ## mukta-m0-p19-v459
-[external-fires](bāhyegnīnāṃ) [offered](hutaṃ) [oblation](havyaṃ) [harm](hiṃsanti) [guhyakas-etc](guhyakādayaḥ)
+external-fires offered oblation harm guhyakas-etc
 
 ## mukta-m0-p19-v460
-[then](tadā) [to-you](te) [is-lost](lupyate) [child](vatsa) [in-external-fires](bāhyāgniṣu) [offered](hutaṃ) [oblation](haviḥ)
+then they lost child external-fires offered oblation
 
 ## mukta-m0-p19-v461
-[when](yadātra) [here](atra) [is-offered](hūyate) [because](yasmāt) [therefore](tasmāt) [that](taṃ) [preceded-by-harm](hiṃsapūrvakam)
+when-here offered because therefore that harm-first
 
 ## mukta-m0-p19-v462
-[shiva-fire](śivāgnirvaibhavatyeṣa) [becomes-powerful](vaibhavati) [this](eṣa) [shiva](śivaṃ) [removing-non-shiva](aśivahāriṇam)
+śiva-fire becomes-this śiva non-śiva-remover
 
 ## mukta-m0-p19-v463
-[not](na) [indeed](hi) [pit](kuṇḍaṃ) [surely](nu) [for-you](vaḥ) [to-be-done](kāryaṃ) [with-girdles](mekhalairvātha) [or](vā) [then](atha) [with-yoni](yoninā)
+not indeed kuṇḍa nor for-you do girdles-or yoni
 
 ## mukta-m0-p19-v464
-[three-pits](kuṇḍatrayaṃ) [situated](sthitaṃ) [in-body](dehe) [fire](agni) [triad](tritayameva) [indeed](eva) [and](ca)
+kuṇḍa-three situated body fire three-only
 
 ## mukta-m0-p19-v465
-[in-mouth-pit](mukhakuṇḍe) [situated](sthitaṃ) [child](vatsa) [by-name](nāmnācāhavaniyakam) [ahavaniya](āhavaniyakam)
+mouth-kuṇḍa situated child named āhavanīya
 
 ## mukta-m0-p19-v466
-[of-those](teṣāṃ) [homa](homaṃ) [should-perform](prakurvīta) [rite](vidhi) [seen](dṛṣṭena) [by-action](karmaṇā)
+of-them homa perform rite seen action
 
 ## mukta-m0-p19-v467
-[southern-fire](dakṣiṇāgniṃ) [then](tato) [should-offer](juhyānnābhikuṇḍe) [in-navel-pit](nābhikuṇḍe) [situated](sthite) [guha](guha)
+southern-fire then offer navel-kuṇḍa situated guha
 
 ## mukta-m0-p19-v468
-[then](tadācāhavanīyognirmukhakuṇḍe) [ahavaniya-fire](āhavaniyogniḥ) [in-mouth-pit](mukhakuṇḍe) [situated](sthito) [guha](guha)
+then-āhavanīya-fire mouth-kuṇḍa situated guha
 
 ## mukta-m0-p19-v469
-[in-that](tasmin) [full-offering](pūrṇāhutiṃ) [should-give](dadyādviṣuvatkaraṇena) [with-equinox-rite](viṣuvatkaraṇena) [but](tu)
+therein pūrṇāhuti give equinox-making indeed
 
 ## mukta-m0-p19-v470
-[in-that](tasmin) [time](kāle) [should-sacrifice](yajed) [who-indeed](yastu) [all-that](tatsarvaṃ) [and-imperishable](cākṣayaṃ) [becomes](bhavet)
+at-that time worships who that all imperishable becomes
 
 ## mukta-m0-p19-v471
-[prana-etc](prāṇādyā) [winds](vāyavaḥ) [five](pañca) [should-offer](homayet) [but](tu) [as](yathā) [order](kramam)
+prāṇa-etc winds five offer according-to order
 
 ## mukta-m0-p19-v472
-[nectar](amṛtaṃ) [becomes](bhavate) [child](vatsa) [nectar](amṛtaṃ) [that-indeed](taṃtu) [remains](tiṣṭhati)
+nectar becomes child nectar that remains
 
 ## mukta-m0-p19-v473
-[between-prana-apana-situated](prāṇāpānāntarasthaṃ) [but](tu) [by-whom](yairjñātaṃ) [known](jñātaṃ) [peacock-vehicle](śikhivāahana)
+prāṇa-apāna-between situated who known śikhivāhana
 
 ## mukta-m0-p19-v474
-[with-fourth-born-nectar-ghee](turyodbhavāmṛtājyena) [daily](nityamagniṃ) [fire](agniṃ) [should-worship](prapūjayet)
+fourth-born nectar-ghee always fire worship

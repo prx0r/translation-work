@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3200,
+   "rows": [
+    {
+     "surface": "tvatha",
+     "gloss": "but-then",
+     "grounds": "legacy hint but+then; fused form transcribed as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural masculine of sarva",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mahiṣaḥ",
+     "gloss": "buffalo",
+     "grounds": "nominative singular masculine of mahiṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "animal",
+     "grounds": "nominative singular masculine of paśu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular active of bhū",
+     "morph": "3.sg.act-opt (root bhū)"
+    }
+   ],
+   "question": "Which animal becomes the prescribed offering for all grades?",
+   "premises": [
+    "graded offerings precede this verse",
+    "buffalo or animal is named",
+    "the verb assigns becoming"
+   ],
+   "inference": "the verse assigns buffalo or animal as the offering for all",
+   "uncertainties": [
+    "exact ritual context beyond supplied lines remains unclear"
+   ],
+   "plain_english": "But then for all, a buffalo or animal becomes [the offering]."
+  }
+ ]
+}

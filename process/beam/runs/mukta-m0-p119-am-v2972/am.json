@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p119",
  "verse": 2972,
- "question": "What is the speaker about to declare for use in daily worship?",
+ "question": "What attributes are given to the ganadhyaksha?",
  "premises": [
-  "The speaker announces a new topic.",
-  "The topic is meditation.",
-  "It is enjoined for daily worships."
+  "he is black-clothed",
+  "he is sword-handed",
+  "he is a bow-bearer"
  ],
- "inference": "The speaker will now declare the meditation enjoined for daily worship.",
- "uncertainties": [],
- "plain_english": "Now I will declare the meditation enjoined in the daily worships."
+ "inference": "The ganadhyaksha is black-clothed, sword-handed, and a bow-bearer.",
+ "uncertainties": [
+  "exact deity identity is not stated"
+ ],
+ "plain_english": "Black-clothed, ganadhyaksha, sword-handed, bow-bearer."
 }

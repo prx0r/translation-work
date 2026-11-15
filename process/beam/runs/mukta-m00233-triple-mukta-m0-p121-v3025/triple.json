@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "śāstṛpāriṣadentaṃ",
+     "gloss": "teacher-attendants",
+     "grounds": "fused compound token taken as one accusative object; internal sandhi not split",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pariṣadbhyo",
+     "gloss": "from-assemblies",
+     "grounds": "ablative plural source",
+     "morph": "f.abl.pl"
+    },
+    {
+     "surface": "atha",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive singular possessive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are teacher-attendants to be drawn from the assemblies for the daily festival?",
+   "premises": [
+    "teacher-attendants follow appointed doorkeepers",
+    "assemblies supply the attendants",
+    "his attendants are also included"
+   ],
+   "inference": "the verse orders attendants from assemblies after doorkeepers",
+   "uncertainties": [
+    "exact internal sandhi of śāstṛpāriṣadentaṃ remains unresolved"
+   ],
+   "plain_english": "Then the teacher's attendants are taken from the assemblies, and his too."
+  }
+ ]
+}

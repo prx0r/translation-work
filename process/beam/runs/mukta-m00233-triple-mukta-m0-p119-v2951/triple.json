@@ -1,0 +1,1058 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2951,
+   "rows": [
+    {
+     "surface": "bharadvājo",
+     "gloss": "bharadvaja",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśvāmitro",
+     "gloss": "vishvamitra",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaśyapaḥ",
+     "gloss": "kashyapa",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which sages are named as the first group in this ritual enumeration?",
+   "premises": [
+    "bharadvaja is named",
+    "vishvamitra is named",
+    "kashyapa is named"
+   ],
+   "inference": "The verse lists bharadvaja, vishvamitra, and kashyapa among the sages.",
+   "uncertainties": [
+    "exact ritual role not stated in this verse"
+   ],
+   "plain_english": "Bharadvaja, Vishvamitra, then Kashyapa."
+  },
+  {
+   "verse": 2952,
+   "rows": [
+    {
+     "surface": "śiṃśumāraś",
+     "gloss": "dolphin",
+     "grounds": "being name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarataḥ",
+     "gloss": "to-north",
+     "grounds": "directional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "stationed",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which beings are said to be stationed to the north?",
+   "premises": [
+    "these beings are stationed",
+    "their station is to the north"
+   ],
+   "inference": "The listed beings are stationed to the north.",
+   "uncertainties": [
+    "full list depends on surrounding verses"
+   ],
+   "plain_english": "The dolphin and these others are stationed to the north."
+  },
+  {
+   "verse": 2953,
+   "rows": [
+    {
+     "surface": "pulastyo",
+     "gloss": "pulastya",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atrī",
+     "gloss": "atri",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vasiṣṭhaś",
+     "gloss": "vasishtha",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajānāṃ",
+     "gloss": "of-creatures",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "patayaḥ",
+     "gloss": "lords",
+     "grounds": "plural noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "stationed",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which lords of creatures are named as stationed?",
+   "premises": [
+    "pulastya is named",
+    "atri is named",
+    "vasishtha is named",
+    "they are lords of creatures"
+   ],
+   "inference": "Pulastya, Atri, and Vasishtha are lords of creatures stationed in place.",
+   "uncertainties": [
+    "exact direction not stated in this verse"
+   ],
+   "plain_english": "Pulastya, Atri, and Vasishtha, lords of creatures, are stationed."
+  },
+  {
+   "verse": 2954,
+   "rows": [
+    {
+     "surface": "sādhyāḥ",
+     "gloss": "sadhyas",
+     "grounds": "class name",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāgāḥ",
+     "gloss": "nagas",
+     "grounds": "class name",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vidyādharagaṇāḥ",
+     "gloss": "vidyadhara-groups",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which classes of beings are included in this ritual enumeration?",
+   "premises": [
+    "sadhyas are included",
+    "nagas are included",
+    "vidyadhara groups are included"
+   ],
+   "inference": "The verse adds sadhyas, nagas, and vidyadhara groups to the enumeration.",
+   "uncertainties": [
+    "their placement is not specified here"
+   ],
+   "plain_english": "Sadhyas, likewise nagas, and vidyadhara groups, likewise."
+  },
+  {
+   "verse": 2955,
+   "rows": [
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tārādisaṃjñābhir",
+     "gloss": "by-star-etc-names",
+     "grounds": "instrumental compound",
+     "morph": "f.instr.pl"
+    },
+    {
+     "surface": "namontaṃ",
+     "gloss": "namonta",
+     "grounds": "accusative form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nikṣiped",
+     "gloss": "should-place",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the offering to be placed for these beings?",
+   "premises": [
+    "the offering is placed",
+    "it is placed by star and related names",
+    "it is placed for these beings"
+   ],
+   "inference": "An offering is to be placed for these beings using star and related names.",
+   "uncertainties": [
+    "exact ritual sequence beyond this verse"
+   ],
+   "plain_english": "For these, by star and related names, one should place the offering."
+  },
+  {
+   "verse": 2956,
+   "rows": [
+    {
+     "surface": "ityādimantrair",
+     "gloss": "by-such-mantras",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "vikired",
+     "gloss": "should-scatter",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daśadiśāsv",
+     "gloss": "in-ten-directions",
+     "grounds": "locative compound",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the offering to be scattered in the directions?",
+   "premises": [
+    "the offering is scattered",
+    "it is scattered by such mantras",
+    "it is scattered in ten directions"
+   ],
+   "inference": "The offering is to be scattered in all ten directions by such mantras.",
+   "uncertainties": [
+    "mantra list not given here"
+   ],
+   "plain_english": "By such mantras one should scatter the offering in the ten directions also."
+  },
+  {
+   "verse": 2957,
+   "rows": [
+    {
+     "surface": "vidhāgrā",
+     "gloss": "vidhagra",
+     "grounds": "compound form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saviśeṣaṃ",
+     "gloss": "specially",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajed",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "giram",
+     "gloss": "speech",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is to be worshipped specially after this?",
+   "premises": [
+    "worship is to be performed",
+    "it is performed specially",
+    "speech is the object"
+   ],
+   "inference": "Speech is to be worshipped specially.",
+   "uncertainties": [
+    "vidhagra sense is unclear"
+   ],
+   "plain_english": "Then, specially, one should worship speech."
+  },
+  {
+   "verse": 2958,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapayitvā",
+     "gloss": "having-bathed",
+     "grounds": "gerund",
+     "morph": "ger"
+    },
+    {
+     "surface": "abhipūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund",
+     "morph": "ger"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory acts precede obtaining the fruit?",
+   "premises": [
+    "bathing is performed",
+    "worship is performed"
+   ],
+   "inference": "After bathing and worshipping, the fruit is obtained.",
+   "uncertainties": [
+    "exact object of worship is in the next verse"
+   ],
+   "plain_english": "But, having bathed and having worshipped."
+  },
+  {
+   "verse": 2959,
+   "rows": [
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "vāgīśvaryāḥ",
+     "gloss": "of-vagishvari",
+     "grounds": "genitive noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prasādataḥ",
+     "gloss": "by-grace",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "By whose grace is the fruit obtained?",
+   "premises": [
+    "the fruit is obtained",
+    "it is obtained by grace",
+    "the grace is of vagishvari"
+   ],
+   "inference": "The fruit is obtained by the grace of Vagishvari.",
+   "uncertainties": [
+    "specific fruit not named"
+   ],
+   "plain_english": "One obtains the fruit by the grace of Vagishvari."
+  },
+  {
+   "verse": 2960,
+   "rows": [
+    {
+     "surface": "śaivānusārāt",
+     "gloss": "according-to-shaiva",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "According to which tradition is the mantra formed?",
+   "premises": [
+    "the formation follows shaiva usage"
+   ],
+   "inference": "The mantra is formed according to Shaiva usage.",
+   "uncertainties": [
+    "exact mantra details follow in next verses"
+   ],
+   "plain_english": "According to Shaiva usage."
+  },
+  {
+   "verse": 2961,
+   "rows": [
+    {
+     "surface": "mantraś",
+     "gloss": "mantra",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apy",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antanādau",
+     "gloss": "at-end-and-beginning",
+     "grounds": "locative compound",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navamasvarabhūṣitau",
+     "gloss": "adorned-with-ninth-vowel",
+     "grounds": "compound participle",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "How is the mantra adorned at beginning and end?",
+   "premises": [
+    "the mantra is adorned",
+    "it is adorned at beginning and end",
+    "it is adorned with the ninth vowel"
+   ],
+   "inference": "The mantra is also adorned at beginning and end with the ninth vowel.",
+   "uncertainties": [
+    "ninth vowel identity not specified here"
+   ],
+   "plain_english": "The mantra also is adorned at beginning and end with the ninth vowel."
+  },
+  {
+   "verse": 2962,
+   "rows": [
+    {
+     "surface": "sadīrgho",
+     "gloss": "with-long",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'gnir",
+     "gloss": "fire",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāyur",
+     "gloss": "air",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "goptrepadaṃ",
+     "gloss": "protector-station",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which elements are associated with the protector station?",
+   "premises": [
+    "fire is named",
+    "air is named",
+    "the protector station is named"
+   ],
+   "inference": "Fire and air are associated with the protector station.",
+   "uncertainties": [
+    "exact phonetic rule is condensed"
+   ],
+   "plain_english": "With long vowel, fire and air, then the protector station."
+  },
+  {
+   "verse": 2963,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhāc",
+     "gloss": "from-sixth",
+     "grounds": "ablative adjective",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīrgho",
+     "gloss": "long",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anusvāranādavān",
+     "gloss": "with-anusvara-nada",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What phonetic modification is described from the sixth?",
+   "premises": [
+    "the fourth is taken",
+    "it becomes long",
+    "it has anusvara and nada"
+   ],
+   "inference": "From the sixth, the fourth becomes long with anusvara and nada.",
+   "uncertainties": [
+    "technical phonetic mapping is condensed"
+   ],
+   "plain_english": "From the sixth, the fourth becomes long with anusvara and nada."
+  },
+  {
+   "verse": 2964,
+   "rows": [
+    {
+     "surface": "śāstre",
+     "gloss": "in-scripture",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "goptre",
+     "gloss": "in-protector",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhave",
+     "gloss": "in-lord",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which domains are the six limbs to be classed?",
+   "premises": [
+    "scripture is named",
+    "protector is named",
+    "lord is named"
+   ],
+   "inference": "The six limbs are classed in scripture, protector, and lord domains.",
+   "uncertainties": [
+    "exact mapping to six limbs is in next verse"
+   ],
+   "plain_english": "In scripture, in protector, and in lord, likewise."
+  },
+  {
+   "verse": 2965,
+   "rows": [
+    {
+     "surface": "jātiyuktāḥ",
+     "gloss": "class-endowed",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "nominative noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the six limbs to be endowed with class?",
+   "premises": [
+    "six limbs are named",
+    "they would be class-endowed",
+    "they follow in order"
+   ],
+   "inference": "The six limbs are to be endowed with class in order.",
+   "uncertainties": [
+    "class details are not expanded here"
+   ],
+   "plain_english": "The six limbs would be class-endowed in order."
+  },
+  {
+   "verse": 2966,
+   "rows": [
+    {
+     "surface": "namontāḥ",
+     "gloss": "namonta",
+     "grounds": "nominative compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "śastramantrā",
+     "gloss": "weapon-mantras",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What would the weapon mantras be?",
+   "premises": [
+    "weapon mantras are named",
+    "they would be namonta",
+    "they follow in order"
+   ],
+   "inference": "The weapon mantras would be namonta in order.",
+   "uncertainties": [
+    "namonta formation is condensed"
+   ],
+   "plain_english": "The weapon mantras would be namonta in order."
+  },
+  {
+   "verse": 2967,
+   "rows": [
+    {
+     "surface": "gajānanaś",
+     "gloss": "gajanana",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāmbo",
+     "gloss": "shamba",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhukaś",
+     "gloss": "madhuka",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are named in this group?",
+   "premises": [
+    "gajanana is named",
+    "shamba is named",
+    "madhuka is named"
+   ],
+   "inference": "The verse names Gajanana, Shamba, and Madhuka among the deities.",
+   "uncertainties": [
+    "their grouping with eight forms is in next verse"
+   ],
+   "plain_english": "Gajanana, then Shamba, then Madhuka, likewise."
+  },
+  {
+   "verse": 2968,
+   "rows": [
+    {
+     "surface": "piṅgalākṣaś",
+     "gloss": "pingalaksha",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīrasenaś",
+     "gloss": "virasena",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāmbhavaḥ",
+     "gloss": "shambhava",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which additional deities are named in this group?",
+   "premises": [
+    "pingalaksha is named",
+    "virasena is named",
+    "shambhava is named"
+   ],
+   "inference": "The verse adds Pingalaksha, Virasena, and Shambhava.",
+   "uncertainties": [
+    "their exact roles are not stated here"
+   ],
+   "plain_english": "Pingalaksha and Virasena and Shambhava."
+  },
+  {
+   "verse": 2969,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aṣṭamūrtayaḥ",
+     "gloss": "eight-forms",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāstuḥ",
+     "gloss": "of-teacher",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pṛthivyādibhir",
+     "gloss": "by-earth-etc",
+     "grounds": "instrumental compound",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "anvitāḥ",
+     "gloss": "accompanied",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What are these eight forms accompanied by?",
+   "premises": [
+    "these are eight forms",
+    "they belong to the teacher",
+    "they are accompanied by earth and related elements"
+   ],
+   "inference": "The eight forms of the teacher are accompanied by earth and related elements.",
+   "uncertainties": [
+    "full list of elements is not given"
+   ],
+   "plain_english": "These are the eight forms of the teacher, accompanied by earth and the rest."
+  },
+  {
+   "verse": 2970,
+   "rows": [
+    {
+     "surface": "śāstā",
+     "gloss": "teacher",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guhāsannaḥ",
+     "gloss": "near-cave",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "senānīr",
+     "gloss": "army-leader",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtavallabhaḥ",
+     "gloss": "beloved-of-beings",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the teacher described?",
+   "premises": [
+    "the teacher is near a cave",
+    "the teacher is an army leader",
+    "the teacher is beloved of beings"
+   ],
+   "inference": "The teacher is described as near a cave, an army leader, and beloved of beings.",
+   "uncertainties": [
+    "specific cave is not named"
+   ],
+   "plain_english": "The teacher is near a cave, an army leader, beloved of beings."
+  },
+  {
+   "verse": 2971,
+   "rows": [
+    {
+     "surface": "śvetamātaṅgaḥ",
+     "gloss": "white-elephant",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāmaḥ",
+     "gloss": "dark",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pītānulepanaḥ",
+     "gloss": "yellow-anointed",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color and anointing attributes are given?",
+   "premises": [
+    "white elephant is named",
+    "dark is named",
+    "yellow anointed is named"
+   ],
+   "inference": "The verse gives white elephant, dark, and yellow-anointed attributes.",
+   "uncertainties": [
+    "subject linkage is condensed"
+   ],
+   "plain_english": "White elephant, dark, yellow-anointed."
+  },
+  {
+   "verse": 2972,
+   "rows": [
+    {
+     "surface": "kālavāsā",
+     "gloss": "black-clothed",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gaṇādhyakṣaḥ",
+     "gloss": "ganadhyaksha",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khaḍgahasto",
+     "gloss": "sword-handed",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanurdharaḥ",
+     "gloss": "bow-bearer",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What attributes are given to the ganadhyaksha?",
+   "premises": [
+    "he is black-clothed",
+    "he is sword-handed",
+    "he is a bow-bearer"
+   ],
+   "inference": "The ganadhyaksha is black-clothed, sword-handed, and a bow-bearer.",
+   "uncertainties": [
+    "exact deity identity is not stated"
+   ],
+   "plain_english": "Black-clothed, ganadhyaksha, sword-handed, bow-bearer."
+  },
+  {
+   "verse": 2973,
+   "rows": [
+    {
+     "surface": "śambaraś",
+     "gloss": "shambara",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cite",
+     "gloss": "in-cit",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭāviṃśatināmabhiḥ",
+     "gloss": "by-twenty-eight-names",
+     "grounds": "instrumental compound",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "How is Shambara to be invoked in cit?",
+   "premises": [
+    "shambara is named",
+    "the location is cit",
+    "twenty-eight names are used"
+   ],
+   "inference": "Shambara is invoked in cit by twenty-eight names.",
+   "uncertainties": [
+    "exact mantra list is not given"
+   ],
+   "plain_english": "Shambara indeed in cit by twenty-eight names."
+  },
+  {
+   "verse": 2974,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "natyantā",
+     "gloss": "ending-in-namah",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "home",
+     "gloss": "in-homa",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svāhāntayojitāḥ",
+     "gloss": "joined-with-svaha-end",
+     "grounds": "compound participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the namah-ending names used in homa?",
+   "premises": [
+    "they end in namah",
+    "they are used in homa",
+    "they are joined with svaha at the end"
+   ],
+   "inference": "The namah-ending names are used in homa with svaha joined at the end.",
+   "uncertainties": [
+    "exact homa procedure is not detailed"
+   ],
+   "plain_english": "And, ending in namah, in homa, joined with svaha at the end."
+  }
+ ]
+}
