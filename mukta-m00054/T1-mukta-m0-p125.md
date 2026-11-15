@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-[to-the-imitator](anukāriṇe) [obeisance](namaḥ) [to-the-one-with-good-kinsmen](subāndhavāya) [obeisance](namaḥ) [to-the-one-with-gourd-lute](tumbavīṇāya) [obeisance](namaḥ)
+imitator-to(anukāriṇe) homage(namaḥ) good-friend-to(subāndhavāya) homage(namaḥ) gourd-lute-to(tumbavīṇāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3102
-[to-the-greatly-wrathful](mahākrodhāya) [obeisance](namaḥ) [to-the-one-with-upward-semen](ūrddhvaretase) [obeisance](namaḥ)
+great-anger-to(mahākrodhāya) homage(namaḥ) upward-semen-to(ūrddhvaretase) homage(namaḥ)
 
 ## mukta-m0-p125-v3103
-[to-the-lord-of-waters](jaleśāya) [obeisance](namaḥ) [to-the-fierce](ugrāya) [obeisance](namaḥ) [to-the-maker-of-lineage](vaṃśakarāya) [obeisance](namaḥ)
+water-lord-to(jaleśāya) homage(namaḥ) fierce-to(ugrāya) homage(namaḥ) bamboo-maker-to(vaṃśakarāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3104
-[to-the-lineage](vaṃśāya) [obeisance](namaḥ) [to-the-sound-of-the-lineage](vaṃśanādāya) [obeisance](namaḥ) [to-the-blameless](aninditāya) [obeisance](namaḥ)
+bamboo-to(vaṃśāya) homage(namaḥ) bamboo-sound-to(vaṃśanādāya) homage(namaḥ) blameless-to(aninditāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3105
-[to-the-one-whose-form-is-all-limbs](sarvāṅgarūpāya) [obeisance](namaḥ) [to-the-possessor-of-magic](māyāvine) [obeisance](namaḥ)
+all-limb-form-to(sarvāṅgarūpāya) homage(namaḥ) possessor-of-magic-to(māyāvine) homage(namaḥ)
 
 ## mukta-m0-p125-v3106
-[to-the-friend](suhṛdāya) [obeisance](namaḥ) [to-the-wind](anilāya) [obeisance](namaḥ) [to-the-fire](analāya) [obeisance](namaḥ)
+good-hearted-to(suhṛdāya) homage(namaḥ) wind-to(anilāya) homage(namaḥ) fire-to(analāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3107
-[to-the-bondage](bandhanāya) [obeisance](namaḥ) [to-the-maker-of-bonds](bandhakartre) [obeisance](namaḥ)
+bondage-to(bandhanāya) homage(namaḥ) bondage-maker-to(bandhakartre) homage(namaḥ)
 
 ## mukta-m0-p125-v3108
-[to-the-releaser-from-good-bonds](subandhanavimocanāya) [obeisance](namaḥ) [to-the-enemy-of-sacrifices](sayajñāraye) [obeisance](namaḥ)
+good-bondage-liberator-to(subandhanavimocanāya) homage(namaḥ) with-sacrifice-enemy-to(sayajñāraye) homage(namaḥ)
 
 ## mukta-m0-p125-v3109
-[to-the-enemy-of-desires](sakāmāraye) [obeisance](namaḥ) [to-the-one-with-great-tusks](mahādaṃṣṭrāya) [obeisance](namaḥ)
+with-desire-enemy-to(sakāmāraye) homage(namaḥ) great-tusked-to(mahādaṃṣṭrāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3110
-[to-the-lord-of-immortals](amareśāya) [obeisance](namaḥ) [to-the-great-god](mahādevāya) [obeisance](namaḥ)
+lord-of-immortals-to(amareśāya) homage(namaḥ) great-god-to(mahādevāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3111
-[to-the-god-of-all](viśvadevāya) [obeisance](namaḥ) [to-the-slayer-of-enemies-of-gods](surārighne) [obeisance](namaḥ) [to-Ahirbudhnya](ahirbbudhnyāaya) [obeisance](namaḥ)
+all-gods-to(viśvadevāya) homage(namaḥ) enemy-of-gods-slayer-to(surārighne) homage(namaḥ) serpent-of-the-depths-to(ahirbbudhnyāaya) homage(namaḥ)
 
 ## mukta-m0-p125-v3112
-[to-the-one-with-the-splendor-of-wind](anilābhāya) [obeisance](namaḥ) [to-the-conscious-one](cekitāya) [obeisance](namaḥ) [to-the-oblation](haviṣe) [obeisance](namaḥ)
+wind-luster-to(anilābhāya) homage(namaḥ) shining-to(cekitāya) homage(namaḥ) oblation-to(haviṣe) homage(namaḥ)
 
 ## mukta-m0-p125-v3113
-[to-Aja-Ekapad](ajaikapade) [obeisance](namaḥ) [to-the-skull-bearer](kapāline) [obeisance](namaḥ) [to-Trishanku](triśaṅkave) [obeisance](namaḥ)
+unborn-one-footed-to(ajaikapade) homage(namaḥ) skull-bearer-to(kapāline) homage(namaḥ) triśaṅku-to(triśaṅkave) homage(namaḥ)
 
 ## mukta-m0-p125-v3114
-[to-the-unconquered](ajitāya) [obeisance](namaḥ) [to-the-auspicious](śivāya) [obeisance](namaḥ)
+unconquered-to(ajitāya) homage(namaḥ) auspicious-to(śivāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3115
-[to-Dhanvantari](dhanvantaraye) [obeisance](namaḥ) [to-the-smoke-bannered](dhūmaketave) [obeisance](namaḥ)
+dhanvantari-to(dhanvantaraye) homage(namaḥ) smoke-banner-to(dhūmaketave) homage(namaḥ)
 
 ## mukta-m0-p125-v3116
-[to-Skanda](skandāya) [obeisance](namaḥ) [to-Vaishravana](vaiśravaṇāya) [obeisance](namaḥ) [to-the-supporter](dhātre) [obeisance](namaḥ)
+skanda-to(skandāya) homage(namaḥ) vaiśravaṇa-to(vaiśravaṇāya) homage(namaḥ) creator-to(dhātre) homage(namaḥ)
 
 ## mukta-m0-p125-v3117
-[to-Shakra](śakrāya) [obeisance](namaḥ) [to-Vishnu](viṣṇave) [obeisance](namaḥ) [to-Mitra](mitrāya) [obeisance](namaḥ)
+śakra-to(śakrāya) homage(namaḥ) viṣṇu-to(viṣṇave) homage(namaḥ) friend-to(mitrāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3118
-[to-Tvashtar](tvaṣṭre) [obeisance](namaḥ) [to-the-firm](dhruvāya) [obeisance](namaḥ) [to-the-supporter](dharāya) [obeisance](namaḥ)
+tvaṣṭṛ-to(tvaṣṭre) homage(namaḥ) fixed-to(dhruvāya) homage(namaḥ) supporter-to(dharāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3119
-[to-the-majesty](prabhāvāya) [obeisance](namaḥ) [to-the-all-going](sarvagave) [obeisance](namaḥ) [to-Aryaman](aryamṇe) [obeisance](namaḥ)
+majesty-to(prabhāvāya) homage(namaḥ) all-going-to(sarvagave) homage(namaḥ) aryaman-to(aryamṇe) homage(namaḥ)
 
 ## mukta-m0-p125-v3120
-[to-Savitar](savitre) [obeisance](namaḥ) [to-the-sun](ravaye) [obeisance](namaḥ) [to-Ushangu](uṣaṅgave) [obeisance](namaḥ)
+impeller-to(savitre) homage(namaḥ) sun-to(ravaye) homage(namaḥ) dawn-ray-to(uṣaṅgave) homage(namaḥ)
 
 ## mukta-m0-p125-v3121
-[to-the-ordainer](vidhātre) [obeisance](namaḥ) [to-Mandhatar](māndhātre) [obeisance](namaḥ) [to-the-nurturer-of-beings](bhūtabhāvanāya) [obeisance](namaḥ)
+ordainer-to(vidhātre) homage(namaḥ) māndhātṛ-to(māndhātre) homage(namaḥ) being-nourisher-to(bhūtabhāvanāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3122
-[to-the-mighty](vibhave) [obeisance](namaḥ) [to-the-manifester-of-colors](varṇavibhāvine) [obeisance](namaḥ)
+lord-to(vibhave) homage(namaḥ) color-manifester-to(varṇavibhāvine) homage(namaḥ)
 
 ## mukta-m0-p125-v3123
-[to-the-bringer-of-all-desired-qualities](sarvakāmaguṇāvahāya) [obeisance](namaḥ) [to-the-lotus-naveled](padmanābhāya) [obeisance](namaḥ)
+all-desire-quality-bringer-to(sarvakāmaguṇāvahāya) homage(namaḥ) lotus-navel-to(padmanābhāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3124
-[to-the-great-womb](mahāgarbbhāya) [obeisance](namaḥ) [to-the-moon-faced](candravaktrāya) [obeisance](namaḥ) [to-the-wind](anilāya) [obeisance](namaḥ)
+great-womb-to(mahāgarbbhāya) homage(namaḥ) moon-faced-to(candravaktrāya) homage(namaḥ) wind-to(anilāya) homage(namaḥ)
 
 ## mukta-m0-p125-v3125
-[to-the-fire](analāya) [obeisance](namaḥ) [to-the-powerful](balavaten) [obeisance](namaḥ) [to-the-tranquil](upaśāntāya) [obeisance](namaḥ)
+fire-to(analāya) homage(namaḥ) powerful-to(balavate) homage(namaḥ) tranquil-to(upaśāntāya) homage(namaḥ)

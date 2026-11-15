@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p121-v3001
-[267](|| 267 ||) [battle+enemy+destroyer-to](yudhiśatruvināśanāya) [salutation](namaḥ) [268](|| 268 ||) [sāṅkhya+grace-to](sāṅkhyaprasādāya) [salutation](namaḥ) [||](||)
+[verse-marker](||) [267](267) [verse-marker](||) [in-battle+enemy+destroyer+homage](yudhiśatruvināśanāyanamaḥ) [verse-marker](||) [268](268) [verse-marker](||) [to-sāṅkhya+grace+homage](sāṅkhyaprasādāyanamaḥ) [verse-marker](||)
 
 ## mukta-m0-p121-v3002
-[page-462](p. 462)) [dūrvāsa-to](dūrvāsase) [salutation](namaḥ) [270](|| 270 ||) [all+virtuous+served-by-to](sarvasādhuniṣevitāya) [salutation](namaḥ)
+[page](p.) [462)](462)) [to-dūrvāsas+homage](dūrvāsasenamaḥ) [verse-marker](||) [270](270) [verse-marker](||) [by-all+saints+served+homage](sarvasādhuniṣevitāyanamaḥ)
 
 ## mukta-m0-p121-v3003
-[leaping-to](praskandanāya) [salutation](namaḥ) [272](|| 272 ||) [division+knower-to](vibhāgajñāya) [salutation](namaḥ) [273](|| 273 ||) [incomparable-to](atulyāya) [salutation](namaḥ) [||](||)
+[to-leaper+homage](praskandanāyanamaḥ) [verse-marker](||) [272](272) [verse-marker](||) [division+knower+homage](vibhāgajñāyanamaḥ) [verse-marker](||) [273](273) [verse-marker](||) [incomparable+homage](atulyāyanamaḥ) [verse-marker](||)
 
 ## mukta-m0-p121-v3004
-[274](274 ||) [sacrifice+share+knower-to](yajñabhāgavide) [salutation](namaḥ) [375](|| 375 ||) [all+dwelling-to](sarvavāsāya) [salutation](namaḥ)
+[274](274) [verse-marker](||) [sacrifice+share+knower+homage](yajñabhāgavidenamaḥ) [verse-marker](||) [375](375) [verse-marker](||) [all+dwelling+homage](sarvavāsāyanamaḥ)
 
 ## mukta-m0-p121-v3005
-[all+moving-to](sarvacāriṇe) [salutation](namaḥ) [277](|| 277 ||) [dūrvāsa-to](durvāsase) [salutation](namaḥ) [278](|| 278 ||) [vāsava-to](vāsavāya) [salutation](namaḥ)
+[all+moving+homage](sarvacāriṇenamaḥ) [verse-marker](||) [277](277) [verse-marker](||) [to-dūrvāsas+homage](durvāsasenamaḥ) [verse-marker](||) [278](278) [verse-marker](||) [to-vāsava+homage](vāsavāyanamaḥ)
 
 ## mukta-m0-p121-v3006
-[immortal-to](amarāya) [salutation](namaḥ) [280](|| 280 ||) [golden-to](haimāya) [salutation](namaḥ) [281](|| 281 ||) [gold+maker-to](hemakarāya) [salutation](namaḥ)
+[immortal+homage](amarāyanamaḥ) [verse-marker](||) [280](280) [verse-marker](||) [golden+homage](haimāyanamaḥ) [verse-marker](||) [281](281) [verse-marker](||) [gold+maker+homage](hemakarāyanamaḥ)
 
 ## mukta-m0-p121-v3007
-[non-sacrifice-to](ayajñāya) [salutation](namaḥ) [283](|| 283 ||) [all+sustainer-to](sarvadhāriṇe) [salutation](namaḥ) [284](|| 284 ||) [earth+best-to](dharottamāya) [salutation](namaḥ) [||](||)
+[non-sacrifice+homage](ayajñāyanamaḥ) [verse-marker](||) [283](283) [verse-marker](||) [all+sustainer+homage](sarvadhāriṇenamaḥ) [verse-marker](||) [284](284) [verse-marker](||) [earth+supreme+homage](dharottamāyanamaḥ) [verse-marker](||)
 
 ## mukta-m0-p121-v3008
-[285](285 ||) [red+eyed-to](lohitākṣāya) [salutation](namaḥ) [286](|| 286 ||) [great+eyed-to](mahākṣāya) [salutation](namaḥ)
+[285](285) [verse-marker](||) [red+eyed+homage](lohitākṣāyanamaḥ) [verse-marker](||) [286](286) [verse-marker](||) [great+eyed+homage](mahākṣāyanamaḥ)
 
 ## mukta-m0-p121-v3009
-[victory+eyed-to](vijayākṣāya) [salutation](namaḥ) [288](|| 288 ||) [skilled-to](viśāradāya) [salutation](namaḥ) [289](|| 289 ||) [comprehension-to](saṅgrahāya) [salutation](namaḥ) [||](||)
+[victory+eyed+homage](vijayākṣāyanamaḥ) [verse-marker](||) [288](288) [verse-marker](||) [skilled+homage](viśāradāyanamaḥ) [verse-marker](||) [289](289) [verse-marker](||) [comprehension+homage](saṅgrahāyanamaḥ) [verse-marker](||)
 
 ## mukta-m0-p121-v3010
-[290](290 ||) [restraint-to](nigrahāya) [salutation](namaḥ) [291](|| 291 ||) [doer-to](karttre) [salutation](namaḥ)
+[290](290) [verse-marker](||) [restraint+homage](nigrahāyanamaḥ) [verse-marker](||) [291](291) [verse-marker](||) [doer+homage](karttrenamaḥ)
 
 ## mukta-m0-p121-v3011
-[serpent+garment+dwelling-to](sarpacīranivāsanāya) [salutation](namaḥ) [293](|| 293 ||) [chief-to](mukhyāya) [salutation](namaḥ)
+[serpent+bark+garment+wearer+homage](sarpacīranivāsanāyanamaḥ) [verse-marker](||) [293](293) [verse-marker](||) [chief+homage](mukhyāyanamaḥ)
 
 ## mukta-m0-p121-v3012
-[non-chief-to](amukhyāya) [salutation](namaḥ) [295](|| 295 ||) [body-to](dehāya) [salutation](namaḥ) [296](|| 296 ||) [kāhala-to](kāhalaye) [salutation](namaḥ)
+[non-chief+homage](amukhyāyanamaḥ) [verse-marker](||) [295](295) [verse-marker](||) [body+homage](dehāyanamaḥ) [verse-marker](||) [296](296) [verse-marker](||) [to-drum+homage](kāhalayenamaḥ)
 
 ## mukta-m0-p121-v3013
-[all+desire+giver-to](sarvakāmadāya) [salutation](namaḥ) [298](|| 298 ||) [all+time+grace-to](sarvakālaprasādāya) [salutation](namaḥ)
+[all+desire+giver+homage](sarvakāmadāyanamaḥ) [verse-marker](||) [298](298) [verse-marker](||) [all+time+grace+homage](sarvakālaprasādāyanamaḥ)
 
 ## mukta-m0-p121-v3014
-[302](|| 302 ||) [all+giver-to](sarvadāya) [salutation](namaḥ) [303](|| 303 ||) [all+directions+faced-to](sarvatomukhāya) [salutation](namaḥ)
+[verse-marker](||) [302](302) [verse-marker](||) [all+giver+homage](sarvadāyanamaḥ) [verse-marker](||) [303](303) [verse-marker](||) [facing-all-directions+homage](sarvatomukhāyanamaḥ)
 
 ## mukta-m0-p121-v3015
-[sky+formless-to](ākāśanirvirūpāya) [salutation](namaḥ) [305](|| 305 ||) [descending-to](nipātine) [salutation](namaḥ) [306](|| 306 ||) [uncontrolled-to](avaśāya) [salutation](namaḥ) [||](||)
+[sky+without-form+homage](ākāśanirvirūpāyanamaḥ) [verse-marker](||) [305](305) [verse-marker](||) [descending+homage](nipātinenamaḥ) [verse-marker](||) [306](306) [verse-marker](||) [uncontrolled+homage](avaśāyanamaḥ) [verse-marker](||)
 
 ## mukta-m0-p121-v3016
-[āditya-to](|| ādityāya) [salutation](namaḥ) [311](|| 311 ||) [many+rayed-to](bahuraśmaye) [salutation](namaḥ) [312](|| 312 ||) [splendid-to](suvarccasvine) [salutation](namaḥ) [||](||)
+[verse-marker](||) [to-āditya+homage](ādityāyanamaḥ) [verse-marker](||) [311](311) [verse-marker](||) [many+rayed+homage](bahuraśmayenamaḥ) [verse-marker](||) [312](312) [verse-marker](||) [very-radiant+homage](suvarccasvinenamaḥ) [verse-marker](||)
 
 ## mukta-m0-p121-v3017
-[313](313 ||) [wealth+speed-to](vasuvegāya) [salutation](namaḥ) [314](|| 314 ||) [great+speed-to](mahāvegāya) [salutation](namaḥ)
+[313](313) [verse-marker](||) [wealth+speed+homage](vasuvegāyanamaḥ) [verse-marker](||) [314](314) [verse-marker](||) [great+speed+homage](mahāvegāyanamaḥ)
 
 ## mukta-m0-p121-v3018
-[prosperity+dwelling-in-to](|| śriyāvāsine) [salutation](namaḥ) [319](|| 319 ||) [instruction+maker-to](upadeśakarāya) [salutation](namaḥ) [320](|| 320 ||) [letter-a-to](akārāya) [salutation](namaḥ) [||](||)
+[verse-marker](||) [in-prosperity+dwelling+homage](śriyāvāsinenamaḥ) [verse-marker](||) [319](319) [verse-marker](||) [instruction+maker+homage](upadeśakarāyanamaḥ) [verse-marker](||) [320](320) [verse-marker](||) [letter-a+homage](akārāyanamaḥ) [verse-marker](||)
 
 ## mukta-m0-p121-v3019
-[321](321 ||) [sage-to](munaye) [salutation](namaḥ) [322](|| 322 ||) [self+illumination-to](ātmanirālokāya) [salutation](namaḥ)
+[321](321) [verse-marker](||) [sage+homage](munayenamaḥ) [verse-marker](||) [322](322) [verse-marker](||) [self+illumination+homage](ātmanirālokāyanamaḥ)
 
 ## mukta-m0-p121-v3020
-[broken-to](sambhagnāya) [salutation](namaḥ) [325](|| 325 ||) [thousand+limbed-to](sahasrāṅgāya) [salutation](namaḥ) [326](|| 326 ||) [all+limbed-to](sarvāṅgāya) [salutation](namaḥ)
+[broken+homage](sambhagnāyanamaḥ)
 
 ## mukta-m0-p121-v3021
-[327](|| 327 ||) [exceedingly+blazing-to](atidīptāya) [salutation](namaḥ) [328](|| 328 ||) [people+lord-to](viśāmpataye) [salutation](namaḥ)
+[verse-marker](||) [327](327) [verse-marker](||) [very+blazing+homage](atidīptāyanamaḥ) [verse-marker](||) [328](328) [verse-marker](||) [lord-of-people+homage](viśāmpatayenamaḥ)
 
 ## mukta-m0-p121-v3022
-[madness-to](unmādāya) [salutation](namaḥ) [330](|| 330 ||) [intoxicator-to](madanāya) [salutation](namaḥ) [331](|| 331 ||) [desire-to](kāmāya) [salutation](namaḥ)
+[madness+homage](unmādāyanamaḥ) [verse-marker](||) [330](330) [verse-marker](||) [intoxicator+homage](madanāyanamaḥ) [verse-marker](||) [331](331) [verse-marker](||) [desire+homage](kāmāyanamaḥ)
 
 ## mukta-m0-p121-v3023
-[sacred-fig-to](aśvatthāya) [salutation](namaḥ) [333](|| 333 ||) [purpose+maker-to](artthakarāya) [salutation](namaḥ) [334](|| 334 ||) [fame-to](yaśase) [salutation](namaḥ)
+[to-aśvattha-tree+homage](aśvatthāyanamaḥ) [verse-marker](||) [333](333) [verse-marker](||) [wealth+maker+homage](artthakarāyanamaḥ) [verse-marker](||) [334](334) [verse-marker](||) [fame+homage](yaśasenamaḥ)
 
 ## mukta-m0-p121-v3024
-[vāmadeva-to](vāmadevāya) [salutation](namaḥ) [336](|| 336 ||) [lovely-to](vāmāya) [salutation](namaḥ) [337](|| 337 ||) [eastern-to](prāce) [salutation](namaḥ)
+[to-vāmadeva+homage](vāmadevāyanamaḥ) [verse-marker](||) [336](336) [verse-marker](||) [beautiful+homage](vāmāyanamaḥ) [verse-marker](||) [337](337) [verse-marker](||) [eastern+homage](prācenamaḥ)
 
 ## mukta-m0-p121-v3025
-[southern-to](dakṣiṇāya) [salutation](namaḥ) [339](|| 339 ||) [dwarf-to](vāmanāya) [salutation](namaḥ) [340](|| 340 ||) [accomplished+yogin-to](siddhayogine) [salutation](namaḥ)
+[southern+homage](dakṣiṇāyanamaḥ) [verse-marker](||) [339](339) [verse-marker](||) [dwarf+homage](vāmanāyanamaḥ) [verse-marker](||) [340](340) [verse-marker](||) [accomplished+yogin+homage](siddhayoginenamaḥ)
