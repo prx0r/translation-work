@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p19",
  "verse": 454,
- "question": "What power is attributed to the seal addressed to the supreme goddess?",
+ "question": "What action is prescribed as the required ritual offering?",
  "premises": [
-  "A seal is named.",
-  "The seal bestows great Sarasvatī power."
+  "An action is prescribed",
+  "The action is giving",
+  "The form is injunctive-prescriptive"
  ],
- "inference": "The seal, O supreme goddess, bestows great Sarasvatī power.",
- "uncertainties": [],
- "plain_english": "O supreme goddess, this seal bestows great Sarasvatī power."
+ "inference": "One should give the offering.",
+ "uncertainties": [
+  "The specific object to be given is supplied by context"
+ ],
+ "plain_english": "One should give it."
 }

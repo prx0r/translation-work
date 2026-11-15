@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[hara](hara) [chest](vakṣaḥ) [standing](sthitā) [goddess](devī) [asks](pṛcchati) [indeed](sma) [mountain](naga) [born](ātmajā)
+[śiva+chest+seated](haravakṣaḥsthitā) [goddess](devī) [asks](pṛcchati) [indeed](sma) [mountain+daughter](nagātmajā)
 
 ## mukta-m0-p01-v2
-[blue](nīla) [throated](kaṇṭha) [world](jagat) [lord](nātha) [lord](prabho) [śaṅkara](śaṅkara) [o](bho) [hara](hara)
+[blue+throated](nīlakaṇṭha) [world+lord](jagannātha) [lord](prabho) [śaṅkara](śaṅkara) [o-hara](bho) [hara](hara)
 
 ## mukta-m0-p01-v3
-[refuge](śaraṇa) [approached](āgata) [wretched](dīna) [afflicted](ārtta) [deliverance](paritrāṇa) [devoted](parāyaṇa)
+[refuge+come+afflicted+distressed+protection+devoted](śaraṇā''gata-dīnārtta-paritrāṇa-parāyaṇa)
 
 ## mukta-m0-p01-v4
-[veda](veda) [knowledge](vidyā) [holder](dhara) [support](ādhāra) [gaṅgā](gaṅgā) [bearer](dhara) [salutation](namaḥ) [be](astu) [to-you](te)
+[veda+knowledge+bearer+support](vedavidyādharādhāra) [gaṅgā+bearer](gaṅgādhara) [salutation](namaḥ) [be](astu) [to-you](te)
 
 ## mukta-m0-p01-v5
-[which](yat) [having-heard](śrutvā) [quickly](śīghram) [comes](āyāti) [śiva](śiva) [world](lokam) [free-from-disease](anāmayam)
+[which](yat) [having-heard](śrutvā) [quickly](śīghram) [comes](āyāti) [śiva+world](śivalokam) [free-from-disease](anāmayam)
 
 ## mukta-m0-p01-v6
-[in-ḍāmara](ḍāmare) [in-yāmala](yāmale) [in-kālī](kālī) [all](sarva) [essence](sve) [in-yoni](yoni) [tantra](tantrake)
+[in-ḍāmara](ḍāmare) [in-yāmala](yāmale) [in-kālī+all-essence](kālīsarvasve) [in-yoni+tantra](yonitantrake)
 
 ## mukta-m0-p01-v7
-[in-mātṛkā](mātṛkā) [division](bheda) [tantra](tantre) [and](ca) [in-samayācāra](samayācāra) [tantra](tantrake)
+[in-mātṛkā+division+tantra](mātṛkābhedatantre) [and](ca) [in-samayācāra+tantra](samayācāratantrake)
 
 ## mukta-m0-p01-v8
-[in-jñāna](jñāna) [tantra](tantre) [and](ca) [in-nirvāṇa](nirvāṇe) [heard](śrutaṃ) [supreme](paramam) [with-respect](ādarāt)
+[in-jñāna+tantra](jñānatantre) [and](ca) [in-nirvāṇa](nirvāṇe) [heard](śrutaṃ) [supreme](paramam) [with-reverence](ādarāt)
 
 ## mukta-m0-p01-v9
-[having-heard](śrutvā) [living-being](jīvaḥ) [śiva](śiva) [state](tvaṃ) [and](ca) [obtains](labhate) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[having-heard](śrutvā) [living-being](jīvaḥ) [śiva+state](śivatvaṃ) [and](ca) [obtains](labhate) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p01-v10
-[woman](yoṣit) [fickle](capala) [nature](bhāva) [because-of](tvāt) [formerly](purā) [not](na) [spoken](uktaṃ) [by-you](tvayi) [beloved](priye)
+[woman+fickleness+nature](yoṣiccapalabhāvatvāt) [formerly](purā) [not](na) [said](uktaṃ) [by-you](tvayi) [beloved](priye)
 
 ## mukta-m0-p01-v11
-[is](asti) [and](ca) [one](ekaṃ) [muṇḍamālā](muṇḍamālā) [tantra](tantraṃ) [supreme](parama) [means-of-accomplishment](sādhanam)
+[is](asti) [and](ca) [one](ekaṃ) [muṇḍamālā+tantra](muṇḍamālātantraṃ) [supreme+practice](paramasādhanam)
 
 ## mukta-m0-p01-v12
-[very](ati) [secret](gopyaṃ) [great](mahā) [goddess](īśāni) [tantra](tantra) [king](rājaṃ) [mind](manaḥ) [charming](haram)
+[very+secret](atigopyaṃ) [o-great-goddess](maheśāni) [tantra+king](tantrarājaṃ) [mind-delighting](manoharam)
 
 ## mukta-m0-p01-v13
-[hear](śṛṇu) [secret](guhyaṃ) [beautiful](vara) [hipped-one](ārohe) [what](kiṃ) [you-ask](pṛcchasi) [mountain](naga) [daughter](ātmaje)
+[hear](śṛṇu) [secret](guhyaṃ) [o-fair-hipped-one](varārohe) [what](kiṃ) [you-ask](pṛcchasi) [o-mountain+daughter](nagātmaje)
 
 ## mukta-m0-p01-v14
-[of-three](trayāṇāṃ) [samayācāra](samayācāraṃ) [by-which](yena) [durgā](durgā) [is-pleased](prasīdati)
+[of-the-three](trayāṇāṃ) [samayācāra](samayācāraṃ) [by-which](yena) [durgā](durgā) [is-pleased](prasīdati)
 
 ## mukta-m0-p01-v15
-[bhairavī](bhairavī) [indeed](tu) [forest](vanā) [knowledge](vidyā) [chinnā](chinnā) [and](ca) [bagalāmukhī](bagalāmukhī)
+[bhairavī](bhairavī) [indeed](tu) [forest+knowledge](vanā) [vidyā](vidyā) [chinnā](chinnā) [and](ca) [bagalāmukhī](bagalāmukhī)
 
 ## mukta-m0-p01-v16
-[mātaṅgī](mātaṅgī) [wealth](dhana) [giver](dā) [parṇāvatī](parṇāvatī) [all](sarva) [goal](artha) [accomplishment](siddhi) [giver](dā)
+[mātaṅgī](mātaṅgī) [wealth-giver](dhanadā) [parṇāvatī](parṇāvatī) [all+purpose+accomplishment+giver](sarvārthasiddhidā)
 
 ## mukta-m0-p01-v17
-[in-various](nānā) [tantras](tantre) [great](mahā) [goddess](īśāni) [told](kathitā) [śiva](śiva) [beautiful-one](sundari)
+[in-various+tantras](nānātantre) [o-great-goddess](maheśāni) [told](kathitā) [o-śiva+beautiful-one](śivasundari)
 
 ## mukta-m0-p01-v18
-[muṇḍamālā](muṇḍamālā) [great](mahā) [tantra](tantraṃ) [of-all](sarveṣāṃ) [knowledge](jñāna) [means-of-accomplishment](sādhanam)
+[muṇḍamālā+great+tantra](muṇḍamālāmahātantraṃ) [of-all](sarveṣāṃ) [knowledge+practice](jñānasādhanam)
 
 ## mukta-m0-p01-v19
-[I](aham) [one](ekaḥ) [śiva](śivaḥ) [god](devaḥ) [not](na) [other](anyaḥ) [god](devaḥ) [in-any-way](kathañcana)
+[I](aham) [one](ekaḥ) [śiva](śivaḥ) [god](devo) [not](na) [other](anyaḥ) [god](devaḥ) [in-any-way](kathañcana)
 
 ## mukta-m0-p01-v20
-[then](tadā) [indeed](eva) [is-born](jāyate) [accomplishment](siddhiḥ) [devotion](bhaktiḥ) [unwavering](avyabhicāriṇī)
+[then](tadaiva) [is-born](jāyate) [accomplishment](siddhiḥ) [devotion](bhaktiḥ) [unwavering](avyabhicāriṇī)
 
 ## mukta-m0-p01-v21
-[therefore](ataḥ) [indeed](eva) [supreme](paraṃ) [knowledge](jñānaṃ) [should-contemplate](bhāvayet) [all](sarva) [skilled-one](kovidaḥ)
+[therefore](ata) [indeed](eva) [supreme](paraṃ) [knowledge](jñānaṃ) [should-contemplate](bhāvayet) [all+skilled-one](sarvakovidaḥ)
 
 ## mukta-m0-p01-v22
-[than-this](ataḥ) [higher](parataraṃ) [goddess](devi) [difficult](durgamaṃ) [supreme](para) [means-of-accomplishment](sādhanam)
+[than-this](ataḥ) [higher](parataraṃ) [o-goddess](devi) [difficult-to-attain](durgamaṃ) [supreme+practice](parasādhanam)
 
 ## mukta-m0-p01-v23
-[all](sarva) [disease](roga) [destruction](kṣaya) [causing](karam) [all](sarva) [accomplishment](sādhana) [purifying](śodhanam)
+[all+disease+destruction+causing](sarvarogakṣayakaraṃ) [all+practice+purifying](sarvasādhanaśodhanam)
 
 ## mukta-m0-p01-v24
-[who](yaḥ) [śākta](śāktaḥ) [on-earth](dharaṇī) [in-middle](madhye) [he](saḥ) [śiva](śivaḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[who](yaḥ) [śākta](śākto) [on-earth+middle](dharaṇīmadhye) [he](sa) [śiva](śivo) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p01-v25
-[with-devotion](bhaktyā) [with-devotion](bhaktyā) [should-repeat](japet) [mantra](mantraṃ) [practitioner](sādhakaḥ) [on-earth](dharaṇī) [on-surface](tale)
+[with-devotion](bhaktyā) [with-devotion](bhaktyā) [should-repeat](japen) [mantra](mantraṃ) [practitioner](sādhako) [on-earth+surface](dharaṇītale)

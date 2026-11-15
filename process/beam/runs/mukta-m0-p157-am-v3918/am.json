@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p157",
  "verse": 3918,
- "question": "What supreme weapon does the speaker declare having contemplated and addressed to the son?",
+ "question": "Who are said to attain supreme Brahman as those versed in all scriptures?",
  "premises": [
-  "The speaker addresses a son",
-  "The speaker contemplated something",
-  "That thing is the supreme Aghora weapon"
+  "They attain supreme Brahman.",
+  "They are described as versed in all scriptures.",
+  "This attainment is attributed to that group."
  ],
- "inference": "The speaker tells the son that he contemplated the supreme Aghora weapon.",
- "uncertainties": [],
- "plain_english": "O son, I contemplated the supreme Aghora weapon."
+ "inference": "The verse says those versed in all scriptures attain supreme Brahman.",
+ "uncertainties": [
+  "The grammatical subject is implied by context of prior verses."
+ ],
+ "plain_english": "Those versed in all scriptures attain supreme Brahman."
 }

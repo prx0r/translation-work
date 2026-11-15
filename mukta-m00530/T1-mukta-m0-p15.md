@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[of-tāra](tāra)[heart](hṛd)[lord](bhagavān) [ḍenta](ḍento) [to-vāsudeva](vāsudevāya) [that+supreme](tatparam)
+[tāra-hṛd](tārohṛd) [bhagavān](bhagavān) [ḍentaḥ](ḍento) [vāsudevāya](vāsudevāya) [tat-param](tatparam)
 
 ## mukta-m0-p15-v352
-[by-mantra](manunā)[by-this](anena) [that+all](tatsarvān)[seat+etc.](āsanādīn) [one-should-offer](pradāpayet)
+[manunā](manunā) [anena](anena) [tat](tat) [sarvān](sarvān) [āsana-ādīn](āsanādīn) [pradāpayet](pradāpayet)
 
 ## mukta-m0-p15-v353
-[honey-mixture](madhuparka)[sipping-water](ācamanaṃ)[bathing](snānaṃ) [garment](vasana)[ornaments](ābharaṇāni) [and](ca)
+[madhuparka-ācamanaṃ-snānaṃ](madhuparkā''camanaṃsnānaṃ) [vasana-ābharaṇāni](vasanā''bharaṇāni) [ca](ca)
 
 ## mukta-m0-p15-v354
-[circumambulation](pradakṣiṇaṃ) [obeisance](namaskāro) [dismissal](visargaḥ)[and+indeed](ca+eva) [sixteen](ṣoḍaśa)
+[pradakṣiṇaṃ](pradakṣiṇaṃ) [namaskāraḥ](namaskāro) [visargaḥ](visargaś) [ca](ca) [eva](eva) [ṣoḍaśa](ṣoḍaśa)
 
 ## mukta-m0-p15-v355
-[having-worshipped](abhyarcya) [one-should-offer-oblation](juhuyāt) [in-fire](vanhau) [consecrated](saṃskṛte) [by-previous+procedure](pūrvavartmanā)
+[abhyarcya](abhyarcya) [juhuyāt](juhuyād) [vanhau](vanhau) [saṃskṛte](saṃskṛte) [pūrva-vartmanā](pūrvavartmanā)
 
 ## mukta-m0-p15-v356
-[again](punar)[one-should-worship](yajet) [before-deity](devatāgre) [then](tataḥ) [attendants](pāriṣadān) [one-should-worship](yajet)
+[punaḥ](punar) [yajet](yajed) [devatā-agre](devatāgre) [tataḥ](tataḥ) [pāriṣadān](pāriṣadān) [yajet](yajet)
 
 ## mukta-m0-p15-v357
-[with-śānti+etc.](śāntyādi)[power+accompanied](śakti+sahitaiḥ) [supreme](parā) [with-twelve+forms](dvādaśa+mūrtibhiḥ)
+[śānti-ādi-śakti-sahitaiḥ](śāntyādiśaktisahitaiḥ) [parā](parā) [dvādaśa-mūrtibhiḥ](dvādaśamūrtibhiḥ)
 
 ## mukta-m0-p15-v358
-[thus](evaṃ) [well-worshipped](sampūjito) [viṣṇu](viṣṇuḥ) [is-pleased](prasīdati)[indeed](eva) [quickly](satvaram)
+[evam](evaṃ) [sampūjitaḥ](sampūjito) [viṣṇuḥ](viṣṇuḥ) [prasīdati](prasīdaty) [eva](eva) [satvaram](satvaram)
 
 ## mukta-m0-p15-v359
-[with-four+syllables](catur+varṇaiḥ) [śikhā](śikhā) [declared](proktā) [with-five+syllables](pañca+arṇaiḥ) [armor](kavacaṃ) [considered](matam)
+[catur-varṇaiḥ](caturvarṇaiḥ) [śikhā](śikhā) [proktā](proktā) [pañca-arṇaiḥ](pañcārṇaiḥ) [kavacaṃ](kavacaṃ) [matam](matam)
 
 ## mukta-m0-p15-v360
-[vāsudeva](vāsudevaḥ) [saṅkarṣaṇa](saṅkarṣaṇaḥ) [pradyumna](pradyumnaḥ)[and](ca)[aniruddha](aniruddhakaḥ)
+[vāsudevaḥ](vāsudevaḥ) [saṅkarṣaṇaḥ](saṅkarṣaṇaḥ) [pradyumnaḥ](pradyumnaś) [ca](cā) [aniruddhakaḥ](aniruddhakaḥ)
 
 ## mukta-m0-p15-v361
-[then](tataḥ)[and](ca) [temple](mandiraṃ) [one-should-give](dadyāt)[by-mantra](manunā)[by-this](anena) [person](mānavaḥ)
+[tataḥ](tataś) [ca](ca) [mandiraṃ](mandiraṃ) [dadyāt](dadyān) [manunā](manunā) [anena](anena) [mānavaḥ](mānavaḥ)
 
 ## mukta-m0-p15-v362
-[having-done](kṛtvā)[thus](evaṃ) [one-who-has-accomplished-purpose](kṛtakṛtyaḥ) [one-should-be](syāt) [truth](satyaṃ) [truth](satyaṃ) [no](na) [doubt](saṃśayaḥ)
+[kṛtvā](kṛtvā) [evam](evaṃ) [kṛta-kṛtyaḥ](kṛtakṛtyaḥ) [syāt](syāt) [satyam](satyaṃ) [satyam](satyaṃ) [na](na) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p15-v363
-[with-mantras](mantraiḥ)[āgamic](āgamikaiḥ)[and+indeed](ca+eva) [vaiṣṇava](vaiṣṇavaiḥ) [one-should-praise](kīrtayet)[abode](dhām)
+[mantraiḥ](mantrair) [āgamikaiḥ](āgamikaiś) [ca](ca) [eva](eva) [vaiṣṇavaiḥ](vaiṣṇavaiḥ) [kīrtayet](kīrtayed) [dhāma](dhām)
 
 ## mukta-m0-p15-v364
-[having-given](dattvā) [and](ca) [by-mantra](manunā)[by-this](anena) [breath-control](prāṇāyāmaṃ) [then](tataḥ)[one-should-perform](caret)
+[dattvā](dattvā) [ca](ca) [manunā](manunā) [anena](anena) [prāṇāyāmaṃ](prāṇāyāmaṃ) [tataḥ](tataś) [caret](caret)
 
 ## mukta-m0-p15-v365
-[with-gāyatrī](gāyatryā) [with-root+mantra](mūla+mantreṇa) [with-svāhā+ending](svāhā+antena) [o-best+of-twice-born](dvija+uttamaḥ)
+[gāyatryā](gāyatryā) [mūla-mantreṇa](mūlamantreṇa) [svāhā-antena](svāhāntena) [dvija-uttamaḥ](dvijottamaḥ)
 
 ## mukta-m0-p15-v366
-[to-priests](ṛtvigbhyaḥ) [fee](dakṣiṇāṃ) [having-given](dattvā) [one-should-feed](bhojayet)[and](ca) [best+twice-born](dvija+uttamān)
+[ṛtvigbhyaḥ](ṛtvigbhyo) [dakṣiṇāṃ](dakṣiṇāṃ) [dattvā](dattvā) [bhojayet](bhojayec) [ca](ca) [dvija-uttamān](dvijottamān)
 
 ## mukta-m0-p15-v367
-[vaiśya](vaiśyaḥ)[and](ca) [born-of-foot](pādajaḥ)[and](ca+eva) [all](sarve)[also](api)[here](atra)[qualified](adhikāriṇaḥ)
+[vaiśyaḥ](vaiśyaś) [ca](ca) [pāda-jaḥ](pādajaś) [ca](ca) [eva](eva) [sarve](sarve) [api](apy) [atra](atrā) [adhikāriṇaḥ](adhikāriṇaḥ)
 
 ## mukta-m0-p15-v368
-[thus](iti) [in-sanatkumāra](sanatkumārīye) [garland+determination](mālā+nirṇayo) [named](nāma) [tenth](daśamaḥ) [chapter](paṭalaḥ)
+[iti](iti) [sanatkumārīye](sanatkumārīye) [mālā-nirṇayaḥ](mālānirṇayo) [nāma](nāma) [daśamaḥ](daśamaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p15-v369
-[action-possessing](kriyāvatī) [art-possessing](kalāvatī) [syllable-natured](varṇātmā) [veda](vedam)[also](api)[even](api)
+[kriyāvatī](kriyāvatī) [kalāvatī](kalāvatī) [varṇa-ātmā](varṇātmā) [vedam](vedam) [api](apy) [api](api)
 
 ## mukta-m0-p15-v370
-[by-father+mother](pitṛ+mātṛ)[made](kṛtaṃ) [name](nāma) [having-abandoned](tyaktā)[life](āyur)[syllable+syllables](varṇa+varṇakān)
+[pitṛ-mātṛ-kṛtaṃ](pitṛmātṛkṛtaṃ) [nāma](nāma) [tyakta-āyuḥ](tyaktāyur) [varṇa-varṇakān](varṇavarṇakān)
 
 ## mukta-m0-p15-v371
-[āṣāḍha](āṣāḍho) [censured](nindito) [jyeṣṭha](jyeṣṭhaḥ) [pauṣa](pauṣo) [bhādrapada](bhādrapadaḥ)[likewise](tathā)
+[āṣāḍhaḥ](āṣāḍho) [ninditaḥ](nindito) [jyeṣṭhaḥ](jyeṣṭhaḥ) [pauṣaḥ](pauṣo) [bhādrapadaḥ](bhādrapadas) [tathā](tathā)
 
 ## mukta-m0-p15-v372
-[for-human-goals+attainment](puruṣārtha+samāvāptyai) [that](sa) [disciple](śiṣyo) [teacher](gurum)[should-resort-to](āśrayet)
+[puruṣārtha-samāvāptyai](puruṣārthasamāvāptyai) [saḥ](sa) [śiṣyaḥ](śiṣyo) [gurum](gurum) [āśrayet](āśrayet)
 
 ## mukta-m0-p15-v373
-[of-all+āgamas](sarva+āgamānāṃ) [essence-knower](sārajñaḥ) [of-all+scriptures](sarva+śāstra)[meaning+truth-knower](artha+tattvavit)
+[sarva-āgamānāṃ](sarvāgamānāṃ) [sāra-jñaḥ](sārajñaḥ) [sarva-śāstra-artha-tattva-vit](sarvaśāstrārthatattvavit)
 
 ## mukta-m0-p15-v374
-[unfailing+speech](amogha+vacanaḥ) [peaceful](śānto) [veda+vedāṅga](veda+vedāṅga)[one-who-has-crossed](pāragaḥ)
+[amogha-vacanaḥ](amoghavacanaḥ) [śāntaḥ](śānto) [veda-vedāṅga-pāragaḥ](vedavedāṅgapāragaḥ)
 
 ## mukta-m0-p15-v375
-[thus+etc.](iti+ādi)[quality+endowed](guṇa+sampanno) [teacher](guruḥ)[becomes](bhavati) [person](mānavaḥ)
+[iti-ādi-guṇa-sampannaḥ](ityādiguṇasampanno) [guruḥ](gurur) [bhavati](bhavati) [mānavaḥ](mānavaḥ)
