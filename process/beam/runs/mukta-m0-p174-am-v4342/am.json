@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p174",
  "verse": 4342,
- "question": "How are six six dice known by players?",
+ "question": "How should height and form be divided in this configuration?",
  "premises": [
-  "six six dice are mentioned",
-  "one color is stated",
-  "by players is stated"
+  "The height is divided into nine parts.",
+  "A four-sided form is specified.",
+  "Five parts are specified."
  ],
- "inference": "Players know six six dice as one color.",
+ "inference": "In height divided into nine, the form should be four-sided with five parts.",
  "uncertainties": [
-  "color assignment uncertain"
+  "The exact assignment of the five parts is not fully explicit."
  ],
- "plain_english": "Players know six six dice as one color."
+ "plain_english": "When the height is divided into nine parts, it should be four-sided with five parts."
 }

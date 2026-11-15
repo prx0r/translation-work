@@ -3,29 +3,34 @@
  "verse": 4344,
  "rows": [
   {
-   "lemma": "khelanaṃ",
-   "morph": "nom.sg.n",
-   "grounds": "surface as given"
+   "lemma": "khacarī",
+   "morph": "compound khacarī+tva",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "syāt",
-   "morph": "3.sg.opt.",
-   "grounds": "surface as given"
+   "lemma": "śatvam",
+   "morph": "n.acc.sg",
+   "grounds": "result obtained"
   },
   {
-   "lemma": "prasiddhākṣa",
-   "morph": "indecl.",
-   "grounds": "surface as given"
+   "lemma": "āpnoti",
+   "morph": "3.sg.pres.act √āp",
+   "grounds": "present result"
   },
   {
-   "lemma": "krīḍāvaditi",
-   "morph": "indecl.",
-   "grounds": "surface as given"
+   "lemma": "sāmrājya",
+   "morph": "compound sāmrājya+phala",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "niścayaḥ",
-   "morph": "nom.sg.m",
-   "grounds": "surface as given"
+   "lemma": "phala",
+   "morph": "compound sāmrājya+phala",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "sādhan",
+   "morph": "n.acc.sg",
+   "grounds": "qualifying result as given in token"
   }
  ]
 }

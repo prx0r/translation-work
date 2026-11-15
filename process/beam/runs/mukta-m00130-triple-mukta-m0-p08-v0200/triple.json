@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "maṇipūre",
+     "gloss": "in-manipura",
+     "grounds": "locative of the bodily center maṇipūra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "catuḥṣaṣṭhī",
+     "gloss": "sixty-four",
+     "grounds": "numeral specifying the count or measure of retention",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "one-should-retain",
+     "grounds": "optative prescribing retention",
+     "morph": "3.sg.act-opt~√dhṛ"
+    }
+   ],
+   "question": "In which bodily center and for what count must retention be performed?",
+   "premises": [
+    "The instruction directly addresses the great goddess.",
+    "Retention is prescribed in the manipura center.",
+    "The specified count for retention is sixty-four."
+   ],
+   "inference": "Therefore the practitioner should retain in manipura for sixty-four measures.",
+   "uncertainties": [
+    "The unit counted by sixty-four is not explicitly stated in this verse."
+   ],
+   "plain_english": "O great goddess, one should retain in maṇipūra for sixty-four."
+  }
+ ]
+}

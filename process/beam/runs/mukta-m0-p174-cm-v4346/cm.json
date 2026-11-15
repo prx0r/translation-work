@@ -3,19 +3,39 @@
  "verse": 4346,
  "rows": [
   {
-   "lemma": "caturāṇāṃ",
-   "morph": "gen.pl.m",
-   "grounds": "surface as given"
+   "lemma": "cakra",
+   "morph": "compound cakra+mastaka",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "hitārthāya",
-   "morph": "indecl.",
-   "grounds": "surface as given"
+   "lemma": "mastaka",
+   "morph": "compound cakra+mastaka",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "ṣaṇmukhākṣasukhelanam",
-   "morph": "indecl.",
-   "grounds": "surface as given"
+   "lemma": "saṃyuktaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "qualification"
+  },
+  {
+   "lemma": "cakra",
+   "morph": "compound cakra+aṅkā",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "aṅkāyāṃ",
+   "morph": "f.loc.sg",
+   "grounds": "locative of placement"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "particle"
+  },
+  {
+   "lemma": "deśikaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "agent"
   }
  ]
 }

@@ -3,29 +3,39 @@
  "verse": 4341,
  "rows": [
   {
-   "lemma": "saṃsthāpyārambhaṇaṃ",
-   "morph": "indecl.",
-   "grounds": "surface as given"
+   "lemma": "jñāna",
+   "morph": "compound jñāna+vijñāna+mokṣa+artha",
+   "grounds": "first member of purpose compound"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.opt.",
-   "grounds": "surface as given"
+   "lemma": "vijñāna",
+   "morph": "compound jñāna+vijñāna+mokṣa+artha",
+   "grounds": "member of purpose compound"
   },
   {
-   "lemma": "krīḍāyā",
-   "morph": "gen.sg.f",
-   "grounds": "surface as given"
+   "lemma": "mokṣa",
+   "morph": "compound jñāna+vijñāna+mokṣa+artha",
+   "grounds": "member of purpose compound"
   },
   {
-   "lemma": "iti",
-   "morph": "indecl.",
-   "grounds": "surface as given"
+   "lemma": "arthaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "purpose marker"
   },
   {
-   "lemma": "nirṇayaḥ",
-   "morph": "nom.sg.m",
-   "grounds": "surface as given"
+   "lemma": "yogīśatva",
+   "morph": "compound yogīśatva+pradāyaka",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "pradāyaka",
+   "morph": "compound yogīśatva+pradāyaka",
+   "grounds": "qualifying agent/result"
+  },
+  {
+   "lemma": "yakam",
+   "morph": "n.acc.sg",
+   "grounds": "demonstrative element as given in token"
   }
  ]
 }

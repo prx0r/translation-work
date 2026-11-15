@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p174",
  "verse": 4333,
- "question": "What colors are assigned to play pieces?",
+ "question": "What result follows from the previously stated arrangement?",
  "premises": [
-  "red and yellow are mentioned",
-  "black and green are mentioned"
+  "The prior verse specifies an arrangement.",
+  "An optative verb indicates attainment.",
+  "The attainment is presented as the outcome."
  ],
- "inference": "Play pieces have red yellow black and green colors.",
+ "inference": "One obtains the intended result from that arrangement.",
  "uncertainties": [
-  "piece assignment uncertain"
+  "The specific object obtained is carried over from the previous verse."
  ],
- "plain_english": "Play pieces are red yellow black and green."
+ "plain_english": "One may obtain it."
 }

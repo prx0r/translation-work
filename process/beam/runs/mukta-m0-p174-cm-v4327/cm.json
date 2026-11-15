@@ -3,29 +3,34 @@
  "verse": 4327,
  "rows": [
   {
-   "lemma": "ṣoḍaśānāṃ",
-   "morph": "gen.pl.m",
-   "grounds": "surface as given"
+   "lemma": "arāti",
+   "morph": "compound arāti+kṣaya",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "khelane",
-   "morph": "loc.sg.n",
-   "grounds": "surface as given"
+   "lemma": "kṣaya",
+   "morph": "compound arāti+kṣaya",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "syācchāra",
-   "morph": "indecl.",
-   "grounds": "surface as given"
+   "lemma": "vidveṣaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object of effect"
   },
   {
-   "lemma": "ekaḥ",
-   "morph": "nom.sg.m",
-   "grounds": "surface as given"
+   "lemma": "kīla",
+   "morph": "compound kīla+bheda",
+   "grounds": "instrumental means, first member"
   },
   {
-   "lemma": "prakīrtitaḥ",
-   "morph": "part.",
-   "grounds": "surface as given"
+   "lemma": "bhedena",
+   "morph": "m.ins.sg",
+   "grounds": "instrumental of method"
+  },
+  {
+   "lemma": "mohanam",
+   "morph": "n.acc.sg",
+   "grounds": "object of effect"
   }
  ]
 }

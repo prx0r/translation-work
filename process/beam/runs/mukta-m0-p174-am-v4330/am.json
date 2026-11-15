@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p174",
  "verse": 4330,
- "question": "How many straight squares are moved in this arrangement?",
+ "question": "How must the noose-headed and noose-bodied form be fashioned?",
  "premises": [
-  "three straights are mentioned",
-  "eight squares are mentioned",
-  "move is stated"
+  "A form endowed with a noose-head is specified.",
+  "A noose-body is specified.",
+  "The fashioning must follow prescribed rule."
  ],
- "inference": "Three straights move in eight squares.",
- "uncertainties": [
-  "exact movement rule uncertain"
- ],
- "plain_english": "Three straights move in eight squares."
+ "inference": "That form should be made with a noose-head and noose-body according to rule.",
+ "uncertainties": [],
+ "plain_english": "That should be endowed with a noose-head and fashioned with a noose-body according to the prescribed rule."
 }

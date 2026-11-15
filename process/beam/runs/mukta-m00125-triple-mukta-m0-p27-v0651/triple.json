@@ -1,0 +1,857 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "refers to all items previously mentioned",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sasūtravastrāḍhyāhemapaṃkajabhūṣitāḥ",
+     "gloss": "adorned-with-thread-cloth-rich-gold-lotuses",
+     "grounds": "compound describing decoration with thread, cloth, and abundant gold lotuses",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How should all the ritual items be adorned in this context?",
+   "premises": [
+    "All items are included",
+    "They are adorned with thread and cloth",
+    "They are decorated with abundant gold lotuses"
+   ],
+   "inference": "Every ritual item must be fully adorned with thread, cloth, and gold lotuses.",
+   "uncertainties": [],
+   "plain_english": "All of them should be adorned with thread, cloth, and abundant gold lotuses."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "snapanāddhyāyasaṃsiddhapramāṇena",
+     "gloss": "by-measure-established-in-bathing-chapter",
+     "grounds": "instrumental compound indicating the standard prescribed in the bathing chapter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samanvitāḥ",
+     "gloss": "endowed-with",
+     "grounds": "describes items being furnished according to that measure",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "By what standard must the ritual items be properly measured?",
+   "premises": [
+    "A measure is prescribed in the bathing chapter",
+    "That measure is established and authoritative",
+    "The items must conform to it"
+   ],
+   "inference": "The items must be prepared according to the measure established in the bathing chapter.",
+   "uncertainties": [],
+   "plain_english": "They should be furnished according to the measure established in the chapter on bathing."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "lokeśādiṣu",
+     "gloss": "among-world-guardians-and-others",
+     "grounds": "locative compound referring to the world guardians and related deities",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "hemāni",
+     "gloss": "gold-pieces",
+     "grounds": "objects of gold to be offered or placed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "prescriptive action of placing or casting",
+     "morph": "3.sg.optative-active √kṣip"
+    },
+    {
+     "surface": "bāhyaghaṭeṣvapi",
+     "gloss": "in-outer-pots-also",
+     "grounds": "locative with inclusive particle indicating outer pots as well",
+     "morph": "m.loc.pl+indecl."
+    }
+   ],
+   "question": "Where should gold pieces be cast during the ritual arrangement?",
+   "premises": [
+    "Gold pieces are to be cast",
+    "The world guardians and others are locations",
+    "The outer pots are also included"
+   ],
+   "inference": "Gold pieces should be cast among the world guardians and also in the outer pots.",
+   "uncertainties": [],
+   "plain_english": "One should cast gold pieces among the world guardians and others, and also in the outer pots."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "toraṇadvārakumbhāṃśca",
+     "gloss": "archway-door-pots-and",
+     "grounds": "accusative compound with conjunction for pots at archways and doors",
+     "morph": "m.acc.pl+indecl."
+    },
+    {
+     "surface": "lokapālaghaṭānapi",
+     "gloss": "world-guardian-pots-also",
+     "grounds": "accusative compound with inclusive particle for pots of world guardians",
+     "morph": "m.acc.pl+indecl."
+    }
+   ],
+   "question": "Which additional pots must be included in the ritual placement?",
+   "premises": [
+    "Archway and door pots are included",
+    "World guardian pots are included",
+    "Both groups are to be treated together"
+   ],
+   "inference": "The archway-door pots and the world-guardian pots must also be included.",
+   "uncertainties": [],
+   "plain_english": "One should also include the pots at the archways and doors, and the pots of the world guardians."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "maṅgalāṣṭakasaṃyuktaṃ",
+     "gloss": "joined-with-auspicious-octet",
+     "grounds": "describes something accompanied by the eight auspicious items",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśāstraṃ",
+     "gloss": "ten-weapons",
+     "grounds": "object referring to the set of ten weapons",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viniveśayet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive action of installing or arranging",
+     "morph": "3.sg.optative-causative-active √viś"
+    }
+   ],
+   "question": "What ritual set must be placed together with the auspicious octet?",
+   "premises": [
+    "The ten weapons are to be placed",
+    "They must be joined with the auspicious octet",
+    "Placement is a prescribed action"
+   ],
+   "inference": "One should place the ten weapons together with the auspicious octet.",
+   "uncertainties": [],
+   "plain_english": "One should place the set of ten weapons together with the eight auspicious items."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "sauvarṇaṃ",
+     "gloss": "golden",
+     "grounds": "first material option for the thread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājataṃ",
+     "gloss": "silver",
+     "grounds": "second material option for the thread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "the object whose material is being specified",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative option",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kārpāsanirmitam",
+     "gloss": "made-of-cotton",
+     "grounds": "alternative material, fashioned from cotton",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What materials are permitted for the ritual thread?",
+   "premises": [
+    "A thread is required",
+    "Gold and silver are permitted materials",
+    "Cotton is an alternative material"
+   ],
+   "inference": "The thread may be golden, silver, or made of cotton.",
+   "uncertainties": [],
+   "plain_english": "The thread may be golden, silver, or made of cotton."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "svalpādhikapramāṇāḍhya",
+     "gloss": "endowed-with-slightly-greater-measure",
+     "grounds": "compound indicating a measure slightly more than standard",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāgarājaphaṇānvitam",
+     "gloss": "possessed-of-serpent-king-hood",
+     "grounds": "compound describing the thread as having a serpent-king hood form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What specific form and size should the ritual thread possess?",
+   "premises": [
+    "The thread should be slightly larger in measure",
+    "It should have the form of a serpent king's hood",
+    "Both qualities define its proper form"
+   ],
+   "inference": "The thread should be slightly larger than standard and shaped like a serpent king's hood.",
+   "uncertainties": [],
+   "plain_english": "It should be of slightly greater measure and fashioned with the hood of the serpent king."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "anantastu",
+     "gloss": "Ananta-indeed",
+     "grounds": "names Ananta as the presiding deity",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "adhi",
+     "gloss": "presiding",
+     "grounds": "indicates presiding status",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devasyāt",
+     "gloss": "should-be-deity",
+     "grounds": "prescriptive identification of the deity",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "sauvarṇe",
+     "gloss": "in-golden",
+     "grounds": "locative specifying the golden case",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rājate'pi",
+     "gloss": "in-silver-also",
+     "grounds": "locative with inclusive particle specifying the silver case",
+     "morph": "n.loc.sg+indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which deity presides over the golden or silver ritual thread?",
+   "premises": [
+    "A presiding deity is specified",
+    "The context includes golden or silver forms",
+    "Ananta is named as that deity"
+   ],
+   "inference": "Ananta should be the presiding deity for the golden or silver thread.",
+   "uncertainties": [],
+   "plain_english": "Ananta should be the presiding deity, whether in the golden or in the silver form."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "grathitaṃ",
+     "gloss": "twisted",
+     "grounds": "describes the thread as braided or twisted",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhamityuktaṃ",
+     "gloss": "best-thus-said",
+     "grounds": "reports the traditional evaluation as best",
+     "morph": "n.nom.sg+indecl.+n.nom.sg"
+    },
+    {
+     "surface": "valayagrāhakānvitam",
+     "gloss": "endowed-with-ring-holder",
+     "grounds": "compound indicating the presence of a ring-holder",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What construction of the thread is declared ritually best?",
+   "premises": [
+    "A twisted form is mentioned",
+    "It is said to be best",
+    "It is endowed with a ring-holder"
+   ],
+   "inference": "A twisted thread endowed with a ring-holder is declared the best.",
+   "uncertainties": [],
+   "plain_english": "A twisted thread endowed with a ring-holder is said to be the best."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "śāntyarthaṃ",
+     "gloss": "for-peace",
+     "grounds": "states the purpose of peace",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijayārthantat",
+     "gloss": "for-victory-that",
+     "grounds": "states the purpose of victory with demonstrative reference",
+     "morph": "n.acc.sg+n.nom.sg"
+    },
+    {
+     "surface": "kalātmakamitismṛtam",
+     "gloss": "consisting-of-time-thus-remembered",
+     "grounds": "identifies it as time-formed according to tradition",
+     "morph": "n.nom.sg+indecl.+n.nom.sg"
+    }
+   ],
+   "question": "For what purposes is the time-formed thread traditionally prescribed?",
+   "premises": [
+    "It is prescribed for peace",
+    "It is prescribed for victory",
+    "It is remembered as consisting of time"
+   ],
+   "inference": "The time-formed thread is traditionally prescribed for peace and for victory.",
+   "uncertainties": [
+    "The exact referent of tat is context-dependent."
+   ],
+   "plain_english": "That, remembered as consisting of time, is for the sake of peace and for the sake of victory."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "ṣaḍaṃgamūrtipāṃgañcet",
+     "gloss": "six-limb-image-limb-if",
+     "grounds": "conditional compound referring to a six-limbed image and its limbs",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "putrāyuṣyaphalapradam",
+     "gloss": "giving-fruit-of-son-longevity",
+     "grounds": "describes the result as granting sons and long life",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fruit results when the thread relates to a six-limbed image?",
+   "premises": [
+    "A condition involving a six-limbed image is stated",
+    "A specific fruit is promised",
+    "That fruit concerns sons and longevity"
+   ],
+   "inference": "If connected with a six-limbed image, it grants the fruit of sons and longevity.",
+   "uncertainties": [
+    "The precise syntactic relation of the compound is compressed."
+   ],
+   "plain_english": "If it pertains to a six-limbed image and its limbs, it grants the fruit of sons and long life."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "saṃśoddhya",
+     "gloss": "having-purified",
+     "grounds": "absolutive indicating prior purification",
+     "morph": "indecl.absolutive √śudh"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "with-water",
+     "grounds": "instrumental specifying the means of purification",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "caivañ",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "candanenopalipya",
+     "gloss": "having-smeared-with-sandalwood",
+     "grounds": "absolutive indicating smearing with sandalwood paste",
+     "morph": "indecl.absolutive √lip"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What preparatory actions must be performed before further ritual placement?",
+   "premises": [
+    "Purification with water is required",
+    "Smearing with sandalwood is required",
+    "These actions precede later steps"
+   ],
+   "inference": "One must first purify with water and then smear with sandalwood.",
+   "uncertainties": [],
+   "plain_english": "Having purified it with water and having smeared it with sandalwood,"
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "separately",
+     "grounds": "indicates each item is treated individually",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "ritual ground or altar to be prepared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating preparation of the altar",
+     "morph": "indecl.absolutive √kṛ"
+    },
+    {
+     "surface": "tadūrdhve",
+     "gloss": "upon-that",
+     "grounds": "locative expression indicating placement above it",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yantrikopari",
+     "gloss": "upon-stand",
+     "grounds": "locative expression indicating placement on a stand",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should individual altars and stands be arranged for placement?",
+   "premises": [
+    "Each altar is made separately",
+    "Placement occurs upon that altar",
+    "A stand is placed above it"
+   ],
+   "inference": "One should make separate altars and place a stand upon each.",
+   "uncertainties": [],
+   "plain_english": "having made a separate altar for each, and upon that, on a stand,"
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "dviprasthāntairnataddhīnaiḥ",
+     "gloss": "ending-with-two-prasthas-not-less-than-that",
+     "grounds": "compound specifying quantities up to two prasthas and not less",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "droṇādyai",
+     "gloss": "beginning-with-droṇa",
+     "grounds": "instrumental indicating measures starting from a droṇa",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "rhṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "object of remembrance, likely the heart mantra or principle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle indicating mental recollection during action",
+     "morph": "m.nom.sg.present-participle-active √smṛ"
+    }
+   ],
+   "question": "What measures and mental focus accompany the ritual placement?",
+   "premises": [
+    "Measures range from droṇa onward",
+    "They extend up to two prasthas and not less",
+    "The heart is to be remembered"
+   ],
+   "inference": "Using measures from a droṇa up to two prasthas, one should act while remembering the heart.",
+   "uncertainties": [
+    "The exact ritual substance measured is not stated in this verse."
+   ],
+   "plain_english": "using measures beginning with a droṇa and ending with two prasthas, not less than that, while remembering the heart,"
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "abhinnayugmasuślakṣṇapūgasārasamanvitam",
+     "gloss": "endowed-with-unbroken-pair-very-smooth-areca-essence",
+     "grounds": "single compound describing betel material as an unbroken, very smooth pair with areca essence",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities must the betel offering material possess?",
+   "premises": [
+    "The material must be an unbroken pair",
+    "It must be very smooth",
+    "It must be endowed with areca essence"
+   ],
+   "inference": "The betel material must be an unbroken, very smooth pair endowed with areca essence.",
+   "uncertainties": [],
+   "plain_english": "endowed with an unbroken pair, very smooth, and with the essence of areca nut,"
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "the offering substance to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sūtrasahitaṃ",
+     "gloss": "accompanied-by-thread",
+     "grounds": "describes the betel as joined with thread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthaṇḍilopari",
+     "gloss": "upon-altar",
+     "grounds": "locative expression indicating placement on the altar",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive action of placing",
+     "morph": "3.sg.optative-active √nyas"
+    }
+   ],
+   "question": "Where and in what form should the betel offering be placed?",
+   "premises": [
+    "Betel is the offering",
+    "It is accompanied by thread",
+    "It must be placed upon the altar"
+   ],
+   "inference": "One should place betel accompanied by thread upon the altar.",
+   "uncertainties": [],
+   "plain_english": "one should place betel, accompanied by thread, upon the altar."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar",
+     "grounds": "locative specifying the altar as place of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūjayecchaktiṃ",
+     "gloss": "one-should-worship-śakti",
+     "grounds": "prescriptive worship of Śakti with sandhi fusion in the token",
+     "morph": "3.sg.optative-active √pūj+m.acc.sg"
+    },
+    {
+     "surface": "yaṃtrikāyāṃ",
+     "gloss": "on-stand",
+     "grounds": "locative specifying the stand as another place of worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tritatvakam",
+     "gloss": "three-principle-group",
+     "grounds": "object referring to the triad of principles",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which entities must be worshipped on the altar and on the stand?",
+   "premises": [
+    "Śakti is to be worshipped on the altar",
+    "The three-principle group is to be worshipped on the stand",
+    "Both acts are prescribed"
+   ],
+   "inference": "One should worship Śakti on the altar and the three-principle group on the stand.",
+   "uncertainties": [
+    "The exact composition of the three-principle group is not specified here."
+   ],
+   "plain_english": "On the altar one should worship Śakti, and on the stand the group of three principles."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "bhasmādhāre",
+     "gloss": "in-ash-receptacle",
+     "grounds": "locative specifying the container for ash",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "umākhyāsyāt",
+     "gloss": "called-Umā-should-be",
+     "grounds": "prescriptive identification of the presence as Umā",
+     "morph": "f.nom.sg+3.sg.optative-active √as"
+    },
+    {
+     "surface": "bhasite",
+     "gloss": "in-ash",
+     "grounds": "locative specifying the ash itself",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lakulīśvaram",
+     "gloss": "Lakulīśvara",
+     "grounds": "names Lakulīśvara as the deity present in the ash",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deities are to be recognized in the ash receptacle and the ash?",
+   "premises": [
+    "The ash receptacle is associated with Umā",
+    "The ash is associated with Lakulīśvara",
+    "Both identifications are prescribed"
+   ],
+   "inference": "Umā should be recognized in the ash receptacle and Lakulīśvara in the ash.",
+   "uncertainties": [],
+   "plain_english": "In the ash receptacle should be Umā, and in the ash, Lakulīśvara."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "pātram",
+     "gloss": "vessel",
+     "grounds": "object to be covered and arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācchādya",
+     "gloss": "having-covered",
+     "grounds": "absolutive indicating covering the vessel",
+     "morph": "indecl.absolutive √chad"
+    },
+    {
+     "surface": "paṭṭādyaiḥ",
+     "gloss": "with-cloth-and-others",
+     "grounds": "instrumental indicating cloth and similar coverings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mālāntaduparinyaset",
+     "gloss": "one-should-place-upon-ending-with-garland",
+     "grounds": "prescriptive placement on top, ending with a garland",
+     "morph": "3.sg.optative-active √nyas"
+    }
+   ],
+   "question": "How should the vessel be covered and completed in the ritual arrangement?",
+   "premises": [
+    "The vessel must be covered",
+    "Cloth and similar items are used for covering",
+    "A garland is placed on top at the end"
+   ],
+   "inference": "One should cover the vessel with cloth and other items and place a garland on top.",
+   "uncertainties": [],
+   "plain_english": "Having covered the vessel with cloth and other things, one should place a garland on top."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "grāmadakṣiṇaṃ",
+     "gloss": "village-circumambulation",
+     "grounds": "first circumambulation option around the village",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-then",
+     "grounds": "introduces an alternative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-temple",
+     "grounds": "genitive specifying the temple as object of circumambulation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "second circumambulation option around the temple",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What circumambulation options are permitted in this ritual sequence?",
+   "premises": [
+    "Circumambulation of the village is an option",
+    "Circumambulation of the temple is an option",
+    "The two are presented as alternatives"
+   ],
+   "inference": "One may perform circumambulation of the village or of the temple.",
+   "uncertainties": [],
+   "plain_english": "One may perform circumambulation of the village, or circumambulation of the temple."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhānāmikābhyantu",
+     "gloss": "with-thumb-ring-finger-indeed",
+     "grounds": "instrumental dual specifying the fingers used for grasping",
+     "morph": "f.inst.dual+indecl."
+    },
+    {
+     "surface": "grahītvā",
+     "gloss": "having-grasped",
+     "grounds": "absolutive indicating the act of grasping",
+     "morph": "indecl.absolutive √grah"
+    },
+    {
+     "surface": "vāmahastake",
+     "gloss": "in-left-hand",
+     "grounds": "locative specifying the left hand as the place",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How must the ritual object be grasped during the procedure?",
+   "premises": [
+    "The thumb and ring finger are used",
+    "The object is grasped",
+    "The grasping occurs in the left hand"
+   ],
+   "inference": "One should grasp it with the thumb and ring finger in the left hand.",
+   "uncertainties": [
+    "The object being grasped is implied from context."
+   ],
+   "plain_english": "Having grasped it with the thumb and ring finger in the left hand,"
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "mantreṇānuṣṭubhā",
+     "gloss": "with-mantra-in-anuṣṭubh",
+     "grounds": "instrumental indicating a mantra in anuṣṭubh meter",
+     "morph": "m.inst.sg+f.inst.sg"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "object of remembrance, likely the eye mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle indicating mental recollection",
+     "morph": "m.nom.sg.present-participle-active √smṛ"
+    },
+    {
+     "surface": "sarvaprakoṣṭhake",
+     "gloss": "in-every-compartment",
+     "grounds": "locative indicating application in every compartment",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What mantra and focus are required in every compartment of the ritual?",
+   "premises": [
+    "A mantra in anuṣṭubh meter is used",
+    "The eye is to be remembered",
+    "This applies in every compartment"
+   ],
+   "inference": "In every compartment one should remember the eye while using a mantra in anuṣṭubh meter.",
+   "uncertainties": [],
+   "plain_english": "remembering the eye with a mantra in the anuṣṭubh meter in every compartment,"
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "sarvātmanātha",
+     "gloss": "with-whole-being-then",
+     "grounds": "instrumental expression indicating total dedication, with particle",
+     "morph": "m.inst.sg+indecl."
+    },
+    {
+     "surface": "devīnāṃ",
+     "gloss": "of-goddesses",
+     "grounds": "genitive plural referring to the goddesses",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative indicating the left side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dakṣiṇetha",
+     "gloss": "on-right-or",
+     "grounds": "locative indicating the right side with alternative particle",
+     "morph": "n.loc.sg+indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "indecl."
+    }
+   ],
+   "question": "On which side may offerings to the goddesses be placed with full devotion?",
+   "premises": [
+    "The action is done with whole being",
+    "The goddesses are the recipients",
+    "Placement may be on the left or on the right"
+   ],
+   "inference": "With whole being, one may place offerings to the goddesses on the left or on the right.",
+   "uncertainties": [
+    "The exact action is continued from the surrounding context."
+   ],
+   "plain_english": "then, with one's whole being, on the left or on the right of the goddesses,"
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "tāmbūlañca",
+     "gloss": "betel-and",
+     "grounds": "accusative object with conjunction",
+     "morph": "n.acc.sg+indecl."
+    },
+    {
+     "surface": "phalāpūpanālikeraphalānvitam",
+     "gloss": "endowed-with-fruit-cake-coconut-fruit",
+     "grounds": "compound describing accompaniment by fruit, cake, and coconut",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What additional offerings accompany the betel in this ritual stage?",
+   "premises": [
+    "Betel is included",
+    "Fruit is included",
+    "Cake and coconut are included"
+   ],
+   "inference": "Betel should be offered together with fruit, cake, and coconut.",
+   "uncertainties": [],
+   "plain_english": "and betel, together with fruit, cake, and coconut."
+  }
+ ]
+}
