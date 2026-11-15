@@ -36,8 +36,16 @@
 "quick_gloss": "with-those"
 },
 {
-"surface": "iṣṭa+hṛdi+amilitaiḥ",
-"quick_gloss": "desired+heart+united"
+"surface": "iṣṭa",
+"quick_gloss": "desired"
+},
+{
+"surface": "hṛdi",
+"quick_gloss": "heart"
+},
+{
+"surface": "amilitaiḥ",
+"quick_gloss": "united"
 },
 {
 "surface": "havanāt",
@@ -69,8 +77,16 @@
 "quick_gloss": "prosperity"
 },
 {
-"surface": "sakala+kalyāṇa+nilayāṃ",
-"quick_gloss": "all+auspiciousness+abode"
+"surface": "sakala",
+"quick_gloss": "of-all"
+},
+{
+"surface": "kalyāṇa",
+"quick_gloss": "auspiciousness"
+},
+{
+"surface": "nilayāṃ",
+"quick_gloss": "abode"
 },
 {
 "surface": "labhate",
@@ -94,8 +110,12 @@
 "quick_gloss": "one-should-offer"
 },
 {
-"surface": "abda+mātreṇa",
-"quick_gloss": "in-a-year+only"
+"surface": "abda",
+"quick_gloss": "in-a-year"
+},
+{
+"surface": "mātreṇa",
+"quick_gloss": "only"
 },
 {
 "surface": "labhate",
@@ -119,8 +139,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "guḍa+ānvitaiḥ",
-"quick_gloss": "with-jaggery+mixed"
+"surface": "guḍa",
+"quick_gloss": "with-jaggery"
+},
+{
+"surface": "ānvitaiḥ",
+"quick_gloss": "mixed"
 },
 {
 "surface": "vā",
@@ -168,8 +192,8 @@
 "quick_gloss": "within-a-year"
 },
 {
-"surface": "ati+manoharām",
-"quick_gloss": "very+charming"
+"surface": "atimanoharām",
+"quick_gloss": "very-charming"
 }
 ]
 },
@@ -181,8 +205,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+dinaiḥ",
-"quick_gloss": "in-those+days"
+"surface": "tat",
+"quick_gloss": "on-those"
+},
+{
+"surface": "dinaiḥ",
+"quick_gloss": "days"
 },
 {
 "surface": "indirāḍhyaḥ",
@@ -193,8 +221,16 @@
 "quick_gloss": "one-becomes"
 },
 {
-"surface": "vidyā+havana+vaibhavāt",
-"quick_gloss": "by-mantra+oblation+power"
+"surface": "vidyā",
+"quick_gloss": "by-mantra"
+},
+{
+"surface": "havana",
+"quick_gloss": "oblation"
+},
+{
+"surface": "vaibhavāt",
+"quick_gloss": "power"
 }
 ]
 },
@@ -206,8 +242,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghṛta+kṣīra+tila+kṣaudra+guḍa+apūpa+samanvitam",
-"quick_gloss": "ghee+milk+sesame+honey+jaggery+cake+accompanied"
+"surface": "ghṛta",
+"quick_gloss": "with-ghee"
+},
+{
+"surface": "kṣīra",
+"quick_gloss": "milk"
+},
+{
+"surface": "tila",
+"quick_gloss": "sesame"
+},
+{
+"surface": "kṣaudra",
+"quick_gloss": "honey"
+},
+{
+"surface": "guḍa",
+"quick_gloss": "jaggery"
+},
+{
+"surface": "apūpa",
+"quick_gloss": "cake"
+},
+{
+"surface": "samanvitam",
+"quick_gloss": "accompanied"
 }
 ]
 },
@@ -220,27 +280,27 @@
 "tokens": [
 {
 "surface": "śālibhiḥ",
-"quick_gloss": "with-rice-grains"
+"quick_gloss": "with-rice"
 },
 {
 "surface": "taṇḍulaiḥ",
-"quick_gloss": "with-husked-rice"
+"quick_gloss": "with-grains"
 },
 {
 "surface": "mudgaiḥ",
-"quick_gloss": "with-mung-beans"
+"quick_gloss": "with-mudga-beans"
 },
 {
 "surface": "māṣaiḥ",
-"quick_gloss": "with-black-gram"
+"quick_gloss": "with-māṣa-beans"
 },
 {
 "surface": "gaura+itaraiḥ",
-"quick_gloss": "with-white+other+sesame"
+"quick_gloss": "with-white-and-other"
 },
 {
 "surface": "tilaiḥ",
-"quick_gloss": "with-sesame"
+"quick_gloss": "with-sesame-seeds"
 }
 ]
 },
@@ -252,16 +312,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṣudra+sarpis+tilaiḥ",
-"quick_gloss": "with-fine-ghee+sesame"
+"surface": "kṣudra+sarpis",
+"quick_gloss": "with-fine-ghee"
 },
 {
-"surface": "dundhu+kerondaiḥ",
+"surface": "tilaiḥ",
+"quick_gloss": "with-sesame"
+},
+{
+"surface": "dundhu+kera",
 "quick_gloss": "with-dundhu-kernels"
 },
 {
-"surface": "ikṣu+rasa+āplutaiḥ",
-"quick_gloss": "with-sugarcane-juice+sprinkled"
+"surface": "ikṣu+rasa",
+"quick_gloss": "with-sugarcane-juice"
+},
+{
+"surface": "āplutaiḥ",
+"quick_gloss": "soaked"
 }
 ]
 },
@@ -273,12 +341,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dugdha+sikta+panasa+asthi+parāgakaiḥ",
-"quick_gloss": "with-milk+sprinkled+jackfruit+seed+powder"
+"surface": "dugdha+sikta",
+"quick_gloss": "with-milk-sprinkled"
 },
 {
-"surface": "kṣīra+miśrita+panasa+vīja+parāgaiḥ",
-"quick_gloss": "with-milk+mixed+jackfruit+seed+powder"
+"surface": "panasa+asthi",
+"quick_gloss": "jackfruit-seed"
+},
+{
+"surface": "parāgakaiḥ",
+"quick_gloss": "powder"
+},
+{
+"surface": "kṣīra+miśrita",
+"quick_gloss": "with-milk-mixed"
+},
+{
+"surface": "panasa+vīja",
+"quick_gloss": "jackfruit-seed"
+},
+{
+"surface": "parāgaiḥ",
+"quick_gloss": "powder"
 }
 ]
 },
@@ -290,16 +374,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lalitā+vidyā+vaibhavāt",
-"quick_gloss": "by-Lalitā+mantra+power"
+"surface": "lalitā+vidyā",
+"quick_gloss": "by-Lalitā-mantra"
 },
 {
-"surface": "homavaibhavāt",
-"quick_gloss": "and-by-oblation+power"
+"surface": "vaibhavāt",
+"quick_gloss": "power"
+},
+{
+"surface": "homa+vaibhavāt",
+"quick_gloss": "and-by-oblation"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 }
 ]
 },
@@ -311,8 +399,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lalitā+vidyā+bhaktān",
-"quick_gloss": "Lalitā+mantra+devotees"
+"surface": "lalitā+vidyā",
+"quick_gloss": "Lalitā-mantra"
+},
+{
+"surface": "bhaktān",
+"quick_gloss": "devotees"
 },
 {
 "surface": "trīn",
@@ -340,7 +432,7 @@
 },
 {
 "surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"quick_gloss": "thus-the-meaning"
 },
 {
 "surface": "subhojayet",
@@ -357,7 +449,7 @@
 "tokens": [
 {
 "surface": "maghā+ādiṣu",
-"quick_gloss": "in-Maghā+etc."
+"quick_gloss": "in-Maghā-etc."
 },
 {
 "surface": "tathā",
@@ -376,8 +468,12 @@
 "quick_gloss": "should-be"
 },
 {
-"surface": "navasu+api",
-"quick_gloss": "in-nine+also"
+"surface": "navasu",
+"quick_gloss": "in-the-nine"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 }
 ]
 },
@@ -390,7 +486,7 @@
 "tokens": [
 {
 "surface": "māṣa+annaiḥ",
-"quick_gloss": "with-black-gram+rice"
+"quick_gloss": "with-māṣa-rice"
 },
 {
 "surface": "ca",
@@ -398,11 +494,11 @@
 },
 {
 "surface": "haridrā+annaiḥ",
-"quick_gloss": "with-turmeric+rice"
+"quick_gloss": "with-turmeric-rice"
 },
 {
 "surface": "guḍa+annaiḥ",
-"quick_gloss": "with-jaggery+rice"
+"quick_gloss": "with-jaggery-rice"
 },
 {
 "surface": "pāyasaiḥ",
@@ -426,12 +522,16 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "mūlā+ādi+navake",
-"quick_gloss": "in-Mūlā+beginning+group-of-nine"
+"surface": "mūlā+ādi",
+"quick_gloss": "in-Mūlā-etc."
+},
+{
+"surface": "navake",
+"quick_gloss": "nine-group"
 },
 {
 "surface": "kalibhiḥ",
-"quick_gloss": "with-grains"
+"quick_gloss": "with-kali-grains"
 },
 {
 "surface": "juhuyāt",
@@ -451,12 +551,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śāli+caṇaka+mudga+utthaiḥ",
-"quick_gloss": "with-rice+chickpea+mung-bean+produced"
+"surface": "śāli",
+"quick_gloss": "with-rice"
 },
 {
-"surface": "māṣa+piṣṭa+tila+udbhavaiḥ",
-"quick_gloss": "with-black-gram+flour+sesame+produced"
+"surface": "caṇaka",
+"quick_gloss": "chickpea"
+},
+{
+"surface": "mudga",
+"quick_gloss": "mudga-bean"
+},
+{
+"surface": "utthaiḥ",
+"quick_gloss": "produced"
+},
+{
+"surface": "māṣa+piṣṭa",
+"quick_gloss": "with-māṣa-flour"
+},
+{
+"surface": "tila",
+"quick_gloss": "sesame"
+},
+{
+"surface": "udbhavaiḥ",
+"quick_gloss": "produced"
 }
 ]
 },
@@ -469,11 +589,11 @@
 "tokens": [
 {
 "surface": "prokteṣu",
-"quick_gloss": "in-mentioned"
+"quick_gloss": "in-the-mentioned"
 },
 {
-"surface": "aśviny+ādiṣu",
-"quick_gloss": "in-Aśvinī+etc."
+"surface": "aśvinī+ādiṣu",
+"quick_gloss": "in-Aśvinī-etc."
 },
 {
 "surface": "kramāt",
@@ -481,11 +601,11 @@
 },
 {
 "surface": "ekaika+āplutaiḥ",
-"quick_gloss": "with-each-one+sprinkled"
+"quick_gloss": "with-each-one-soaked"
 },
 {
 "surface": "ekaika+dravya+kramāt",
-"quick_gloss": "in-each-substance+order"
+"quick_gloss": "in-order-of-each-substance"
 }
 ]
 },
@@ -505,16 +625,20 @@
 "quick_gloss": "one"
 },
 {
-"surface": "tadā+āpluta+dravyaṃ",
-"quick_gloss": "then+sprinkled+substance"
+"surface": "tadā",
+"quick_gloss": "then"
+},
+{
+"surface": "āpluta+dravyam",
+"quick_gloss": "soaked-substance"
 },
 {
 "surface": "tat+phalam",
-"quick_gloss": "and-its+result"
+"quick_gloss": "and-its-result"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 }
 ]
 },
@@ -539,11 +663,11 @@
 },
 {
 "surface": "mānyatām",
-"quick_gloss": "and-honor"
+"quick_gloss": "honor"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "labhet",
@@ -567,8 +691,12 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "amṛta+ākhya+yogeṣu",
-"quick_gloss": "in-Amṛta+named+conjunctions"
+"surface": "amṛta+ākhya",
+"quick_gloss": "in-Amṛta-named"
+},
+{
+"surface": "yogeṣu",
+"quick_gloss": "conjunctions"
 },
 {
 "surface": "juhuyāt",
@@ -576,7 +704,7 @@
 },
 {
 "surface": "roga+śāntaye",
-"quick_gloss": "for-disease+pacification"
+"quick_gloss": "for-disease-pacification"
 }
 ]
 },
@@ -589,7 +717,7 @@
 "tokens": [
 {
 "surface": "ucca+yogeṣu",
-"quick_gloss": "in-Ucca+conjunctions"
+"quick_gloss": "in-Ucca-conjunctions"
 },
 {
 "surface": "juhuyāt",
@@ -618,7 +746,7 @@
 "tokens": [
 {
 "surface": "parvata+ākhye",
-"quick_gloss": "in-Parvata+named"
+"quick_gloss": "in-Parvata-named"
 },
 {
 "surface": "hunet",
@@ -626,19 +754,15 @@
 },
 {
 "surface": "yoge",
-"quick_gloss": "in-conjunction"
+"quick_gloss": "conjunction"
 },
 {
 "surface": "yat+dravyaiḥ",
-"quick_gloss": "with-which+substances"
+"quick_gloss": "with-whatever-substances"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "hi",
-"quick_gloss": "indeed"
+"surface": "tat+hi",
+"quick_gloss": "that-indeed"
 },
 {
 "surface": "parvatam",
@@ -663,7 +787,7 @@
 },
 {
 "surface": "adbhutaṃ",
-"quick_gloss": "wonderful"
+"quick_gloss": "wondrous"
 },
 {
 "surface": "homam",
@@ -696,11 +820,11 @@
 },
 {
 "surface": "ghṛta+saṃsiktaiḥ",
-"quick_gloss": "with-ghee+sprinkled"
+"quick_gloss": "with-ghee-sprinkled"
 },
 {
 "surface": "sita+miśraiḥ",
-"quick_gloss": "with-sugar+mixed"
+"quick_gloss": "with-sugar-mixed"
 },
 {
 "surface": "tu",

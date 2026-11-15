@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p162-v4026
-[with-sauvīra-salt](sauvīrāktaiḥ) [soaked-in-sour-gruel](āranāla+āplutaiḥ)
+[sauvīra+dyed](sauvīrāktaiḥ) [sour-gruel+soaked](āranālāplutaiḥ)
 
 ## mukta-m0-p162-v4027
-[endowed-with-red-garland](rakta+srag) [red-fragrance](rakta+gandha) [red-flower](rakta+puṣpa) [and-red-seat-etc](rakta+āsana+ādi+yutaḥ)
+[red+garland](raktasrag) [red+fragrance](raktagandha) [red+flower](raktapuṣpa) [red+seat+etc.+endowed-with](raktāsanādiyutaḥ)
 
 ## mukta-m0-p162-v4028
-[with-snake-heads](sarpa+śīrṣakaiḥ) [with-ladles-fashioned-like-snake-heads](sarpa+śiraḥ+kalpita+srugbhiḥ)
+[serpent+head-shaped](sarpaśīrṣakaiḥ) [serpent+head+fashioned+ladles](sarpaśiraḥkalpitasrugbhiḥ)
 
 ## mukta-m0-p162-v4029
-[from-offering](havanāt) [and-also-from-offering](havanāt+api) [of-fuel-sticks-born-from-that-tree](tat+taru+udbhūta+samidhāṃ)
+[from-oblation](havanāt) [of-that+tree+born+fuel-sticks](tattarūdbhūtasamidhāṃ) [from-oblation+also](havanādapi)
 
 ## mukta-m0-p162-v4030
-[from-killing](ghātanāt) [by-tree-wall-snake-bite](druma+kuḍya+sarpa+daṃśāt) [and-by-mad-elephant-etc](matta+dvipa+ādi+ghātanāt)
+[tree+hollow+serpent+bite](drumakuḍyasarpadaṃśāt) [rutting+elephant+etc.+killing](mattadvipādighātanāt)
 
 ## mukta-m0-p162-v4031
-[by-yakṣas](yakṣa) [rākṣasas](rākṣasa) [gandharvas](gandharvva) [piśācas-and-brahmarākṣasas](piśāca+brahmarākṣasaiḥ)
+[by-yakṣas](yakṣa) [rākṣasas](rākṣasa) [gandharvas](gandharvva) [piśācas+brahma-rākṣasas](piśācabrahmarākṣasaiḥ)
 
 ## mukta-m0-p162-v4032
-[and-with-neem-leaves](nimva+patraiḥ+ca) [with-cotton-seeds](kārpāsa+bījaiḥ) [with-those-born](tat+jaiḥ) [with-karanja-born](karañja+jaiḥ)
+[with-neem+leaves](nimvapatraiśca) [with-cotton+seeds](kārpāsabījaiḥ) [with-those+born](tajjaiḥ) [with-karañja+born](karañjajaiḥ)
 
 ## mukta-m0-p162-v4033
-[in-inauspicious-conjunction](nīca+yoge) [one-should-offer-in-fire](hunet+agnau) [kindled-with-enemy-tree](ripu+vṛkṣa+samedhite)
+[in-inauspicious+conjunction](nīcayoge) [one-should-offer+in-fire](hunedagnau) [with-enemy+tree+fuel-kindled](ripuvṛkṣasamedhite)
 
 ## mukta-m0-p162-v4034
-[eradication](uccāṭanaṃ) [indeed-goes](prayāti+eva) [struck-by-mantra-power](mantra+śaktyā+abhitāḍitaḥ)
+[eradication](uccāṭanaṃ) [goes+indeed](prayātyeva) [by-mantra+power+struck](mantraśaktyābhitāḍitaḥ)
 
 ## mukta-m0-p162-v4035
-[of-the-enemy](arāteḥ) [elephants](dantino) [and-horses](vāhā) [certainly-perish-by-diseases](rogaiḥ+naśyanti+niścitam)
+[of-enemy](arāteḥ) [elephants](dantino) [horses](vāhā) [by-diseases+perish+certainly](rogairnaśyanti niścitam)
 
 ## mukta-m0-p162-v4036
-[by-immersion](nimajjanena) [by-falling-into-fire](pāvake+pātanena) [by-others](anyaiḥ) [by-epilepsy-etc](apasmāra+ādyaiḥ) [or](vā) [as-alternative](vikalpe)
+[by-immersion](nimajjanena) [in-fire](pāvake) [by-falling](pātanena) [by-others+epilepsy+etc.](anyaiḥ apasmārādyaiḥ) [or](vā) [in-alternative](vikalpe)
 
 ## mukta-m0-p162-v4037
-[and-with-fruits](phalaiḥ+ca) [thus-the-remainder](iti+śeṣaḥ) [sprinkled-with-mustard-oil](sarṣapa+sreha+siktaiḥ) [soaked-in-mustard-produced-oil](sarṣapa+udbhava+taila+āplutaiḥ)
+[and-with-fruits](phalaiśceti) [remainder](śeṣaḥ) [with-mustard+oil+sprinkled](sarṣapasreha siktaiḥ) [with-mustard+produced+oil+soaked](sarṣapodbhavatailāplutaiḥ)
 
 ## mukta-m0-p162-v4038
-[with-pieces-of-enemy-nakṣatra-tree](ripu+nakṣatra+vṛkṣa+khaṇḍaiḥ) [on-days](dinaiḥ) [prescribed](proktaiḥ) [by-circle-etc](maṇḍala+ādibhiḥ)
+[with-enemy+constellation+tree+pieces](ripunakṣatravṛkṣakhaṇḍaiḥ) [on-days](dinaiḥ) [prescribed](proktaiḥ) [with-circle+etc.](maṇḍalādibhiḥ)
 
 ## mukta-m0-p162-v4039
-[with-previously-mentioned-thorns-etc](prāk+ukta+kaṇṭaka+ādyaiḥ+tu) [whatever-limb](yat+aṅgaṃ) [one-should-pierce](vedhayet) [slowly](śanaiḥ)
+[with-previously+mentioned+thorn+etc.](prāguktakaṇṭakādyaistu) [which+limb](yadaṅgaṃ) [one-should-pierce+slowly](vedhayecchanaiḥ)
 
 ## mukta-m0-p162-v4040
-[at-half-prahara](arddha+praharake) [on-the-head](śīrṣe) [or-one-should-strike](praharet+vā) [slowly-slowly](śanaiḥ+śanaiḥ)
+[at-half+prahara](arddhapraharake) [on-head](śīrṣe) [one-should-strike+or](praharēdvā) [slowly+slowly](śanaiḥ śanaiḥ)
 
 ## mukta-m0-p162-v4041
-[or-with-knots](granthibhiḥ+vā) [fierce-in-increasing-wounds](kaṇṭaka+ādi+kṣata+vṛddhi+vidāruṇaiḥ)
+[with-knots+or](granthibhirvvā) [with-thorn+etc.+wound+increase+causing+terrible](kaṇṭakādikṣatavṛddhividāruṇaiḥ)
 
 ## mukta-m0-p162-v4042
-[in-donkey-urine-water](gardabhī+meha+salile) [having-placed](saṃsthāpya) [one-should-boil](kkāthayet) [slowly](śanaiḥ)
+[in-donkey+urine+water](gardabhīmehasalile) [having-placed](saṃsthāpya) [one-should-boil+slowly](kkāthayecchanaiḥ)
 
 ## mukta-m0-p162-v4043
-[with-beeswax](madhūcchiṣṭena) [having-made-that](tāṃ+kṛtvā) [one-should-heat-that](tāpayet+tāṃ) [at-night-slowly](niśi+śanaiḥ)
+[with-beeswax](madhūcchiṣṭena) [that](tāṃ) [having-made](kṛtvā) [one-should-heat+at-night+that+slowly](tāpayenniśi tāṃ śanaiḥ)
 
 ## mukta-m0-p162-v4044
-[one-should-offer](hunet) [one-should-sacrifice](jahuyāt) [elephants](dantino) [tuskers](gajāḥ) [vehicles](vāhāḥ) [horses](hayāḥ)
+[one-should-offer](hunej) [one-should-offer](jahuyāt) [elephants](dantino) [elephants](gajāḥ) [horses](vāhāḥ) [horses](hayāḥ)
 
 ## mukta-m0-p162-v4045
-[and](ca) [by-striking-etc](prahara+ādinā) [here-the-word-etc](iti+atra+ādi+śabdaḥ) [pertaining-to-cutting-etc](chedana+ādi+viṣayaḥ) [or](vā) [as-alternative](vikalpe)
+[and](ca) [by-striking+etc.](praharādinā) [here+ādi-word](ityatrādiśabdaḥ) [in-cutting+etc.+subject](chedanādiviṣayaḥ) [or](vā) [in-alternative](vikalpe)
 
 ## mukta-m0-p162-v4046
-[for-some-days](kaiścit+divasaiḥ)
+[by-some+days](kaiściddivasaiḥ)
 
 ## mukta-m0-p162-v4047
-[that-one-with-limbs-pierced-by-those-thorns](tāṃ+tat+kaṇṭaka+viddha+aṅgīṃ) [one-should-bury](khanet) [in-ancestors-house](pitṛ+gṛhe) [at-night](niśi)
+[that](tāṃ) [that+thorn+pierced+limbed](tatkaṇṭakaviddhāṅgīṃ) [one-should-bury](khanet) [in-ancestors+house](pitṛgṛhe) [at-night](niśi)
 
 ## mukta-m0-p162-v4048
-[with-those-very-previously-mentioned-substances](prāk+uktaiḥ+eva+tat+davyaiḥ) [all](aśeṣaiḥ) [the-doll](puttalīṃ) [likewise](tathā)
+[with-previously+mentioned+indeed](prāguktaireva) [with-those+substances](taddavyaiḥ) [with-all](aśeṣaiḥ) [doll](puttalīṃ) [likewise](tathā)
 
 ## mukta-m0-p162-v4049
-[in-kindled-fire](samiddhe+agnau) [with-fuel-sticks-born-from-that](tat+sabhidbhiḥ) [smeared-with-oil](taila+āktaiḥ) [one-should-offer-at-night](juhuyāt+niśi)
+[in-kindled+fire](samiddhegnau) [with-that+born](tatsabhidbhiḥ) [with-oil+smeared](tailāktaiḥ) [one-should-offer+at-night](juhuyānniśi)
 
 ## mukta-m0-p162-v4050
-[by-destruction-quickly](pralayaṃ+śanakaiḥ) [abandoning-the-body](dehaṃ+tyajan) [goes](yāti) [to-the-abode-of-yama](yama+ālayam)
+[destroying+quickly](pralayaṃśanakaiḥ) [body](dehaṃ) [abandoning](tyajan) [goes](yāti) [to-Yama+abode](yamālayam)
