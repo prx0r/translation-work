@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2257,
- "question": "What sound quality identifies a stone as old?",
+ "question": "How many steps and how many places are specified for the mandala?",
  "premises": [
-  "A stone may be joined with an open sound",
-  "Such a stone is declared old"
+  "The verse states twelve steps are here.",
+  "It states three places become in them."
  ],
- "inference": "A stone producing an open sound is classified as old",
- "uncertainties": [],
- "plain_english": "That stone which is joined with an open sound is declared to be old."
+ "inference": "The mandala has twelve steps, with three places within them.",
+ "uncertainties": [
+  "The exact places are not named in this verse."
+ ],
+ "plain_english": "There are twelve steps here; in them there become three places."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p384-v9576
-[tiger-etc](vyāghra+ādi) [by-beasts](paśubhiḥ) [pervaded](vyāptam) [with-peaks](sānu+yuktam) [mountain](girim) [one-should-remember](smaret)
+[tiger-etc-beasts-pervaded](vyāghrādipaśubhirvyāptaṃ) [with-attendants](sānuyuktaṃ) [mountain](giriṃ) [remember](smaret)
 
 ## mukta-m0-p384-v9577
-[dense-water](ghana+toyam) [with-waves](sa+kallolam) [ocean](akūpāram) [one-should-visualize](vicintayet)
+[dense-water](ghanatoyaṃ) [with-waves](sakallolam) [ocean](akūpāraṃ) [contemplate](vicintayet)
 
 ## mukta-m0-p384-v9578
-[yellow-colored](pīta+varṇam) [great-fire](mahā+vahnim) [one-should-remember](saṃsmaret) [for-enemy-pacification](śatru+śāntaye)
+[yellow-colored](pītavarṇaṃ) [great-fire](mahāvahniṃ) [remember-for-enemy-pacification](saṃsmarecchatruśāntaye)
 
 ## mukta-m0-p384-v9579
-[wind](pavanam) [one-should-remember](saṃsmaret) [world-life-giving](viśva+jīvanam) [in-form-of-breath](prāṇa+rūpataḥ)
+[wind](pavanaṃ) [remember-world-life](saṃsmaredviśvajīvanaṃ) [as-breath-form](prāṇarūpataḥ)
 
 ## mukta-m0-p384-v9580
-[support-being](ādhāra+bhūtā) [of-world](jagataḥ) [to-be-meditated](dhyeyā) [earth](pṛthvī) [here](iha) [by-practitioner](mantriṇā)
+[foundation-being](ādhārabhūtā) [of-world](jagato) [meditable](dhyeyā) [earth-here](pṛthvīha) [by-mantrin](mantriṇā)
 
 ## mukta-m0-p384-v9581
-[stainless](nirmalam) [sky](gaganam) [one-should-meditate](dhyāyet) [to-beings](prāṇinām) [shelter-giving](āśraya+pradam)
+[pure](nirmalaṃ) [sky](gaganaṃ) [meditate](dhyāyet) [shelter-giving-to-beings](prāṇināmāśrayapradam)
 
 ## mukta-m0-p384-v9582
-[one-should-recite](japet) [mantra](mantram) [by-tenth-part](daśa+aṃśena) [with-six-substances](ṣaṭ+dravyaiḥ) [oblation](homam) [one-should-perform](ācaret)
+[chant-mantra](japenmantraṃ) [tenth-part](daśāṃśena) [with-six-substances](ṣaḍdravyair) [perform-homa](homamācaret)
 
 ## mukta-m0-p384-v9583
-[these](etān) [having-offered](hutvā) [according-to-share](yathā+bhāgam) [on-seat](pīṭhe) [previously-stated](pūrva+udite) [one-should-worship](yajet)
+[having-offered-these](etānhutvā) [according-to-share](yathābhāgaṃ) [on-seat](pīṭhe) [previously-stated](pūrvodite) [worship](yajet)
 
 ## mukta-m0-p384-v9584
-[enemy-trouble](śatru+upadrave) [having-arisen](āpanne) [one-should-employ](yuñjīta) [here](atra) [great-mantra](mahā+manum)
+[enemy-calamity](śatrūpadrava) [having-occurred](āpanne) [employ-here](yuñjītātra) [great-mantra](mahāmanum)
 
 ## mukta-m0-p384-v9585
-[falling-facing](patana+unmukham) [very-fierce](ati+ugram) [in-eastern](prācyām) [direction](diśi) [one-should-visualize](vicintayet)
+[falling-prone](patanonmukham) [very-fierce](atyugraṃ) [in-east](prācyāṃ) [direction](diśi) [contemplate](vicintayet)
 
 ## mukta-m0-p384-v9586
-[ocean-formed](samudra+rūpiṇam) [terrible](bhīmam) [in-western](pratīcyām) [direction](diśi) [one-should-visualize](cintayet)
+[ocean-formed](samudrarūpiṇaṃ) [terrifying](bhīmaṃ) [in-west](pratīcyāṃ) [direction](diśi) [contemplate](cintayet)
 
 ## mukta-m0-p384-v9587
-[enemy-group](śatru+vargam) [and](ca) [binding](badhnantau) [one-should-visualize](cintayet) [self-controlled](niyata+ātmavān)
+[enemy-group](śatruvargaṃ) [and](ca) [binding](badhnantau) [contemplate](cintayet) [self-controlled](niyatātmavān)
 
 ## mukta-m0-p384-v9588
-[obstructing](nirundhānam) [one-should-remember](smaret) [practitioner](mantrī) [making](vidadhat) [enemy](ripum) [distressed](ākulam)
+[obstructing](nirundhānaṃ) [remember](smaret) [mantrin](mantrī) [making-enemy-distressed](vidadhadripumākulam)
 
 ## mukta-m0-p384-v9589
-[each](pratyekam) [but](tu) [obstructing](nirundhānam) [one-should-visualize](cintayet) [best-practitioner](sādhaka+uttamaḥ)
+[each](pratyekaṃ) [but](tu) [obstructing](nirundhānaṃ) [contemplate](cintayet) [best-sadhaka](sādhakottamaḥ)
 
 ## mukta-m0-p384-v9590
-[having-raised](utthāpya) [fire](vahnim) [that-body](tat+deham) [one-should-burn](pradahet) [he](saḥ) [mantra](manum) [should-remember](smaret)
+[raising](utthāpya) [fire](vahniṃ) [that-body](taddehaṃ) [burn](pradahet) [that](sa) [mantra](manuṃ) [remember](smaret)
 
 ## mukta-m0-p384-v9591
-[circle-triad](maṇḍala+tritayāt) [before](arvāk) [one-should-split](dārayet) [by-that](tena) [enemy](vidviṣam)
+[three-circles](maṇḍalatritayāt) [downward](arvāk) [tear](dārayet) [with-that](tena) [enemy](vidviṣam)
 
 ## mukta-m0-p384-v9592
-[having-purified](saṃśodhayitvā) [and](ca) [oneself](ātmānam) [for-self-protection](sva+rakṣāyai) [Hari](harim) [one-should-remember](smaret)
+[having-purified](saṃśodhayitvā) [and](ca) [self](ātmānaṃ) [for-self-protection](svarakṣāyai) [Hari](hariṃ) [remember](smaret)
 
 ## mukta-m0-p384-v9593
 [mantra](oṃ [oṃ hrīṃ namaḥ kṛṣṇavāsase stute viśvasahasrahiṃsini sahasrāvane mahabaleparājite pratyaṅgire parasainyaparakarmmavidhvaṃsini paramantrotsādini sarvabhūtadamani sarvadevānbandhabandha sarvavidyāṃ chindhi chindhi kṣobhayakṣobhaya parayantrāṇi sphoṭayasphoṭaya sarvaśṛṃkhalāṃ troṭayatroṭaya jvalajvālājihve karālavadane pratyaṃgire hrīṃ namaḥ || ] hrīṃ namaḥ kṛṣṇavāsase stute viśvasahasra)
 
 ## mukta-m0-p384-v9594
-[Pratyangira](pratyaṅgire) [enemy-army](para+sainya) [other-action](para+karma) [word](padam) [one-should-say](vadet)
+[Pratyangira](pratyaṅgire) [enemy-army](parasainya) [subsequent](para) [karma-word](karmmapadaṃ) [speak](vadet)
 
 ## mukta-m0-p384-v9595
-[all-beings](sarva+bhūta) [thus](iti) [subduer](damani) [all-gods](sarva+devān) [one-should-say](vadet) [then](tataḥ)
+[all-beings-etc](sarvabhūteti) [damani](damani) [all-gods](sarvadevān) [speak-then](vadettataḥ)
 
 ## mukta-m0-p384-v9596
-[other-devices](para+yantrāṇi) [thus](iti) [one-should-say](vadet) [burst-twice](sphoṭaya+dvitayam) [then](tataḥ)
+[enemy-yantras-etc](parayantrāṇīti) [speak](vadet) [sphoṭaya-twice](sphoṭayadvitayaṃ) [then](tataḥ)
 
 ## mukta-m0-p384-v9597
-[flame-tongue](jvālā+jihve) [terrible](karāla) [thus](iti) [face](vadane) [Pratyangira](pratyaṅ) [one-should-utter](uccaret)
+[flame-tongued](jvālājihve) [fierce-etc](karāleti) [in-mouth](vadane) [Pratyangira](pratyaṅ) [utter](uccaret)
 
 ## mukta-m0-p384-v9598
-[Brahma](brahma) [anushtubh](anuṣṭup) [sage-meter](muniḥ+chandaḥ) [goddess](devī) [Pratyangira](pratyaṅgirā) [is-considered](matā)
+[Brahma-anushtubh](brahmānuṣṭum) [muni](muni) [meter](chando) [goddess](devī) [Pratyangira](pratyaṅgirā) [considered](matā)
 
 ## mukta-m0-p384-v9599
-[of-six-limbs](ṣaṭ+aṅgānāṃ) [procedure](vidhiḥ) [and](ca) [here](atra) [with-six-long](ṣaṭ+dīrgha+anvita) [by-Maya](māyayā)
+[six-limbs](ṣaḍaṅgānāṃ) [rule](vidhiḥ) [and-here](cātra) [with-six-long-vowels](ṣaḍdīrghānvitam) [by-Maya](āyayā)
 
 ## mukta-m0-p384-v9600
-[trident-weapon](śūla+śastra) [in-hand](karā) [sword](khaḍgam) [holding](dadhatī) [who](yā) [indeed](tu) [her](tām) [I-worship](bhaje)
+[trident-weapon-handed](śūlaśastrakarā) [sword](khaḍgaṃ) [bearing](dadhatī) [who](yā) [but](tu) [her](tāṃ) [worship](bhaje)

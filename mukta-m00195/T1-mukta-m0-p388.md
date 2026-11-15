@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p388-v9676
-[hatred](vidveṣa) [and-subjugation](vaśyayoḥ) [and](ca) [here](atra) [applications](prayogāḥ) [by-direction-makers](dik+kṛtaiḥ) [measured](mitāḥ)
+[hatred-controlled-ones-and-here](vidveṣavaśyayoścātra) [uses](prayogā) [direction-made](dikkṛtair) [measured](mitāḥ)
 
 ## mukta-m0-p388-v9677
-[therefore](tasmāt) [seven-hundred](saptaśatī) [thus](iti) [indeed](evam) [by-Vyasa](vyāsena) [declared](parikīrtitā)
+[therefore](tasmāt) [seven-hundred](saptaśatī) [thus](ityevaṃ) [by-vyāsa](vyāsena) [declared](parikīrtitā)
 
 ## mukta-m0-p388-v9678
-[therefore](tasmāt) [seven-hundred](saptaśatī) [thus](iti) [indeed](evam) [proclaimed](proktā) [by-Vyasa](vyāsena) [wise](dhīmatā)
+[therefore](tasmāt) [seven-hundred](saptaśatī) [thus](ityevaṃ) [spoken](proktā) [by-vyāsa](vyāsena) [wise](dhīmatā)
 
 ## mukta-m0-p388-v9679
-[therefore](tasmāt) [seven-hundred](saptaśatī) [thus](iti) [indeed](evam) [proclaimed](proktā) [by-Vyasa](vyāsena) [wise](dhīmatā)
+[therefore](tasmāt) [seven-hundred](saptaśatī) [thus](ityevaṃ) [spoken](proktā) [by-vyāsa](vyāsena) [wise](dhīmatā)
 
 ## mukta-m0-p388-v9680
-[to-be-worshipped](upāsyāḥ) [deities](devatāḥ) [which](yāḥ) [those](tāḥ) [here](iha) [seven-hundred](saptaśatī) [indeed](hi) [therefore](ataḥ)
+[worshipped](upāsyā) [deities](devatā) [which](yāstā) [here](iha) [seven-hundred](saptaśatī) [hence](hyataḥ)
 
 ## mukta-m0-p388-v9681
-[Sarasvati](sarasvatī) [and](ca) [thus](iti) [seven](sapta) [indeed](hi) [to-be-worshipped](upāsyāḥ) [by-left-hand-path](vāma+mārgataḥ)
+[sarasvatī](sarasvatī) [and](ceti) [seven](sapta) [indeed](hyupāsyā) [left-path](vāmamārgataḥ)
 
 ## mukta-m0-p388-v9682
-[Bala](bālā) [Kubhra](kubhrā) [thus](iti) [Manus](manavaḥ) [indicated](sūcitāḥ) [well-declared](samprakīrtitāḥ)
+[bālā](bālā) [kubhrā](kubhreti) [mantras](manavaḥ) [indicated](sūcitāḥ) [declared](samprakīrtitāḥ)
 
 ## mukta-m0-p388-v9683
-[by-those](tat) [by-those-mantra](tat+mantra) [stated-indications](ukta+saṅketaiḥ) [mantra-power](mantra+śaktiḥ) [is-born](prajāyate)
+[those-mantra-indicated-signs](tattanmantroktasaṅketair) [mantra-power](mantraśaktiḥ) [arises](prajāyate)
 
 ## mukta-m0-p388-v9684
-[in-the-section](carite) [powers](śaktayaḥ) [seven](sapta) [ending-with-Camunda](cāmuṇḍā+antāḥ) [declared](prakīrtitāḥ)
+[deeds](carite) [powers](śaktayassapta) [ending-in-cāmuṇḍā](cāmuṇḍāntāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p388-v9685
-[beginning-with-Brahmani](brahmāṇī+ādyāḥ) [seven-in-number](sapta+saṃkhyāḥ) [present](vartamānāḥ) [and](ca) [there](tatra) [indeed](hi)
+[brahmāṇī-etc](brahmāṇyādyāḥ) [seven-number](saptasaṃkhyā) [existing](vartamānāśca) [there](tatra) [indeed](hi)
 
 ## mukta-m0-p388-v9686
-[powers](śaktayaḥ) [proclaimed](proktāḥ) [by-herself](svayam) [by-the-Goddess](devyāḥ) [therefore](tasmāt) [seven-hundred](saptaśatī) [remembered](smṛtā)
+[powers](śaktyaḥ) [spoken](proktāḥ) [by-goddess](svayaṃdevyāstasmātsaptaśatī) [remembered](smṛtā)
 
 ## mukta-m0-p388-v9687
-[three-quarters](pāda+ūnam) [Sri-Hari](śrī+hariḥ) [knows](vetti) [knows](vetti) [half](ardham) [but](tu) [Prajapati](prajāpatiḥ)
+[quarter-less](pādonaṃ) [śrī-hari](śrīharirvetti) [knows](vetti) [half](vettyardhantu) [prajāpati](prajāpatiḥ)
 
 ## mukta-m0-p388-v9688
-[as-mantra](yathā+mantraḥ) [but](tu) [for-accomplishment](siddhi+artham) [is-employed](yojyate) [is-done](kriyate) [or](atha+vā)
+[as-mantra](yathāmantrastu) [for-success](siddyarthaṃ) [to-be-joined](yojyate) [or-done](kriyatethavā)
 
 ## mukta-m0-p388-v9689
-[of-syllables](varṇānām) [and](ca) [of-words](padānām) [and](ca) [transposition](vyatyāsaḥ) [but](tu) [established](vyavasthitaḥ)
+[of-letters](varṇānāṃ) [and](ca) [of-words](padānāṃ) [ca](ca) [inversion](vyatyāsastu) [established](vyavasthitaḥ)
 
 ## mukta-m0-p388-v9690
-[not-opposed-to-grammar](śabda+śāstra+aviruddhaḥ) [but](tu) [reading](pāṭhaḥ) [in-peace-and-prosperity-rites](śāntika+pauṣṭike)
+[not-contrary-to-śabda-śāstra](śabdaśāstrāviruddhastu) [reading](pāṭhaḥ) [for-peace-and-prosperity](śantikapauṣṭike)
 
 ## mukta-m0-p388-v9691
-[one-should-recite](japet) [eight-hundred](aṣṭa+śatam) [root-mantra](mūlam) [to-the-deity](devatāyai) [one-should-offer](nivedayet)
+[should-chant](japedaṣṭaśatammūlaṃ) [root](mūlaṃ) [to-deity](devatāyai) [offer](nivedayet)
 
 ## mukta-m0-p388-v9692
-[hundred-Candi-rite](śata+caṇḍī+vidhānam) [but](tu) [I-shall-declare](pravakṣye) [and](ca) [dear](priyam) [to-men](nṛṇām)
+[hundred-chandi-rite](śatacaṇḍīvidhānantu) [will-declare](pravakṣye) [and](ca) [dear](priyaṃ) [to-men](nṛṇām)
 
 ## mukta-m0-p388-v9693
-[in-excessive-rain](ati+vṛṣṭyām) [in-drought](an+āvṛṣṭau) [in-enemy-army-fear](para+cakra+bhaye) [in-decline](kṣaye)
+[excessive-rain](ativṛṣṭyāmanāvṛṣṭau) [enemy-army-fear](paracakrabhaye) [destruction](kṣaye)
 
 ## mukta-m0-p388-v9694
-[of-diseases](rogāṇām) [of-enemies](vairiṇām) [destruction](nāśaḥ) [wealth-son-prosperity](dhana+putra+samṛddhayaḥ)
+[of-diseases](rogāṇāṃ) [of-enemies](vairiṇāṃ) [destruction](nāśo) [wealth-sons-prosperity](dhanaputrasamṛddhayaḥ)
 
 ## mukta-m0-p388-v9695
-[there](tatra) [fire-pit](kuṇḍam) [one-should-make](prakurvīta) [in-the-west](pratīcyām) [in-the-middle](madhyataḥ) [or](api) [or](vā)
+[there](tatra) [kuṇḍa](kuṇḍaṃ) [should-make](prakurvīta) [westward](pratīcyāmmadhyatopi) [or-middle](vā)
 
 ## mukta-m0-p388-v9696
-[skilled](vyutpannān) [in-Candika-recitation](caṇḍikā+pāṭhe) [devoted](ratān) [endowed-with-modesty-etc](lajjā+ādayā+āvataḥ)
+[proficient](vyutpannāṃścaṇḍikāpāṭhe) [in-caṇḍikā-recitation](caṇḍikāpāṭhe) [devoted](ratāṃllajjādayāvataḥ)
 
 ## mukta-m0-p388-v9697
-[water-for-feet](pādya) [water-for-offering](arghyam) [seat](āsanam) [garland](mālām) [one-should-give](dadyāt) [to-them](tebhyaḥ) [also](api) [food](bhojanam)
+[water-arghya-seat-garland](pādyārghyamāsanammālāṃ) [should-give](dadyāttebhyopi) [to-them](tebhyopi) [food](bhojanam)
 
 ## mukta-m0-p388-v9698
-[stated-in-Markandeya-Purana](mārkaṇḍeya+purāṇa+uktam) [ten-times](daśa+kṛtvaḥ) [with-attentive-minds](sa+cetasaḥ)
+[markaṇḍeya-purāṇa-stated](mārkaṇḍeyapurāṇoktaṃ) [ten-times](daśakṛtvaḥ) [with-mind](sacetasaḥ)
 
 ## mukta-m0-p388-v9699
-[the-sacrificer](yajamānaḥ) [should-worship](pūjayet) [and](ca) [of-maidens](kanyānām) [group-of-nine](navakam) [auspicious](śubham)
+[sacrificer](yajamānaḥ) [should-worship](pūjayecca) [girls](kanyānāṃ) [nine](navakaṃ) [auspicious](śubham)
 
 ## mukta-m0-p388-v9700
-[not-excessive-limbed](na+adhika+aṅgīm) [not-deficient-limbed](na+hīna+aṅgīm) [leprous](kuṣṭhinīm) [and](ca) [marked-by-wounds](vraṇa+aṅkitām)
+[not-extra-limbed](nādhikāṅgīṃ) [not-deficient-limbed](na hīnāṅgīṃ) [leprosy](kuṣṭhinīṃ) [and](ca) [scar-marked](vraṇāṅkitām)

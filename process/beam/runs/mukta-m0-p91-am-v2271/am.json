@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2271,
- "question": "Which architectural measurements are included alongside the sanctum measure?",
+ "question": "What results are assigned to performing the rite in Jyeshtha and Ashadha?",
  "premises": [
-  "The measure of the sanctum is considered",
-  "The measure of the door is likewise considered"
+  "The verse says in Jyeshtha it is death-giving.",
+  "It says in Ashadha it is kin-destroying."
  ],
- "inference": "Both sanctum and door measurements are taken into account",
- "uncertainties": [],
- "plain_english": "The measure of the sanctum and likewise the measure of the door are to be considered."
+ "inference": "Performing the rite in Jyeshtha gives death, and in Ashadha destroys kin.",
+ "uncertainties": [
+  "The subject sā is implied."
+ ],
+ "plain_english": "In Jyeshtha it is death-giving; in Ashadha, kin-destroying."
 }

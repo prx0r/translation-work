@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2266,
- "question": "Which fire rituals must be performed following the prescribed procedure?",
+ "question": "What offerings are assigned to ancestors in this rite?",
  "premises": [
-  "Fire establishment and related rites are included",
-  "All prescribed fire rites should be performed"
+  "The verse mentions curd, roasted grain, and food.",
+  "It assigns sesame and rice to ancestors."
  ],
- "inference": "The full sequence of prescribed fire rituals beginning with fire establishment must be carried out",
- "uncertainties": [],
- "plain_english": "One should perform all the prescribed fire rites, beginning with the establishment of the fire."
+ "inference": "Ancestors receive sesame and rice, while curd, roasted grain, and food are also specified.",
+ "uncertainties": [
+  "The exact distribution among days is contextual."
+ ],
+ "plain_english": "Curd, roasted grain, and food are thus said; sesame and rice are for ancestors."
 }

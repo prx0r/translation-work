@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p401-v10001
-[twenty-four+syllabled+this](caturviśati+varṇaḥ+ayaṃ) [yama+mantra](yama+mantraḥ) [all+desires+giving](akhila+iṣṭa+daḥ)
+[twenty-four](caturviśati) [letters](varṇaḥ) [this](ayaṃ) [Yama-mantra](yamamantraḥ) [gives](daḥ) [all](akhila) [desired](iṣṭa)
 
 ## mukta-m0-p401-v10002
-[cloud+dark](megha+śyāmaṃ) [pleased+faced](prasanna+āsyaṃ) [various+ornaments+adorned](nānā+alaṅkāra+saṃyutam)
+[cloud-dark](meghaśyāmaṃ) [pleased-faced](prasannāsyaṃ) [adorned](saṃyutam) [with-various-ornaments](nānālaṅkāra)
 
 ## mukta-m0-p401-v10003
-[various+forms+bearing+by-messengers](nānā+rūpa+dharaiḥ+dūtaiḥ) [white+garmented](śveta+vastraṃ) [one-should-worship+yama](bhajet+yamam)
+[with-various-forms](nānārūpa) [bearing](dhara) [messengers](dūtaiḥ) [white-garment](śvetavastraṃ) [one-should-worship](bhajet) [Yama](yamam)
 
 ## mukta-m0-p401-v10004
-[direction+lords+and](dig+īśān+ca) [in-yama's-place](yama+sthāne) [citragupta](citraguptaṃ) [one-should-worship](prapūjayet)
+[digīśas](digīśāṃśca) [and](ca) [in-Yama's-place](yamasthāne) [Citragupta](citraguptaṃ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p401-v10005
-[syllable+hundred-thousand](varṇa+lakṣaṃ) [one-should-repeat+mantra](japet+mantraṃ) [one-should-offer+with-ghee+mixed+with-sesame-seeds](hunet+ājya+anvitaiḥ+tilaiḥ)
+[one-lakh](varṇalakṣaṃ) [japa](japet) [mantra](mantraṃ) [homa](hunet) [with-ghee-mixed](ājyānvitaiḥ) [sesame](tilaiḥ)
 
 ## mukta-m0-p401-v10006
-[of-him](tasya) [by-remembrance+alone](saṃsmaraṇāt+eva) [all+calamities+removal](sakala+āpat+nivāraṇam)
+[by-his](tasya) [remembrance](saṃsmaraṇāt) [alone](eva) [all](sakala) [calamities](āpad) [removal](nivāraṇam)
 
 ## mukta-m0-p401-v10007
-[yama+thus](yama+iti) [having-said](uktvā) [and](ca) [to-fire+authority](vahi+kā+adhikāriṇe) [one-should-say](vadet) [then](tataḥ)
+[Yama](yama) [saying](ityuktvā) [ca](ca) [to-the-officer](adhikāriṇe) [of-the-gate](vahikā) [speak](vadet) [then](tataḥ)
 
 ## mukta-m0-p401-v10008
-[with-u+vowel+joined](ukāra+svara+saṃyuktāḥ) [with-moon](sa+candrāḥ) [seed-syllable](kūṭam) [is-called](ucyate)
+[with-u-sound](ukāra) [vowel](svara) [joined](saṃyuktāḥ) [with-moon](sacandrāḥ) [kūṭa](kūṭam) [called](ucyate)
 
 ## mukta-m0-p401-v10009
-[with-seven+six+manu+vasu+limbs+eye+syllables](sapta+ṣaṇ+manu+vasu+aṅga+netra+arṇaiḥ) [limb+formation](aṅga+kalpanam)
+[seven-six](saptaṣaṇ) [manu](manu) [vasvaṅga](vasvaṅga) [netra](netra) [letters](arṇaiḥ) [limb](aṅga) [formation](kalpanam)
 
 ## mukta-m0-p401-v10010
-[writer](lekhakaṃ) [of-sins+and-merits](pāpa+puṇyānāṃ) [citragupta](citraguptam) [i](aham) [worship](bhaje)
+[scribe](lekhakaṃ) [of-sins-and-merits](pāpapuṇyānāṃ) [Citragupta](citraguptam) [I-worship](ahambhaje)
 
 ## mukta-m0-p401-v10011
-[at-royal-gate](rāja+dvāre) [in-dispute](vivāde) [and](ca) [in-battle](saṃgrāme) [victory+giving](jaya+dāyakaḥ)
+[at-royal-gate](rājadvāre) [in-dispute](vivāde) [ca](ca) [in-battle](saṃgrāme) [victory-giving](jayadāyakaḥ)
 
 ## mukta-m0-p401-v10012
-[honorable](mānyāṃ) [fame](kīrtiṃ) [and](ca) [lineage](vaṃśaṃ) [and](ca) [having-established](saṃsthāpya) [to-heaven+going](svarga+gāminaḥ)
+[honor](mānyāṃ) [fame](kīrtiṃ) [ca](ca) [lineage](vaṃśaṃ) [ca](ca) [establishing](saṃsthāpya) [heaven-going](svargagāminaḥ)
 
 ## mukta-m0-p401-v10013
-[oṃ](oṃ) [kṣaṃ](kṣaṃ) [to-nirṛti](nirṛtaye) [to-lord-of-demons](rakṣaḥ+adhipataye) [word](padaṃ) [one-should-say](vadet)
+[oṃ](oṃ) [kṣaṃ](kṣaṃ) [to-Nirṛti](nirṛtaye) [rakṣas-lord](rakṣodhipataye) [pada](padaṃ) [speak](vadet)
 
 ## mukta-m0-p401-v10014
-[ending-in-ṅa](ṅa+antaḥ) [then](tataḥ) [and](ca) [heart](hṛdayaṃ) [thirty+syllabled](triṃśat+arṇaḥ) [mantra](manuḥ) [is-considered](mataḥ)
+[ṅe](ṅe) [then](tataśca) [heart](hṛdayaṃ) [thirty](triṃśat) [letters](arṇaḥ) [manu](manuḥ) [opinion](mataḥ)
 
 ## mukta-m0-p401-v10015
-[by-various+demon+hosts](nānā+rakṣaḥ+gaṇaiḥ) [served](sevyaṃ) [sword+shield+bearing](khaḍga+carma+dharaṃ) [i-worship](bhaje)
+[by-various-rakṣasa-troops](nānārakṣogaṇaiḥ) [served](sevyaṃ) [sword-shield-bearing](khaḍgacarmadharaṃ) [I-worship](bhaje)
 
 ## mukta-m0-p401-v10016
-[oṃ kṣaṃ nirṛtaye namaḥ hṛdayāya namaḥ, oṃ kṣaṃ rakṣodhipataye namaḥ śirase svāhā, oṃ kṣaṃ dhūmravarṇāya namaḥ śikhāyai vaṣaṭ, oṃ kṣaṃ khaḍgahastāya namaḥ kavacāya hum, oṃ kṣaṃ pretavāhanāya namaḥ netratrayāya vauṣaḍityādi ||](oṃ [oṃ kṣaṃ nirṛtaye namaḥ hṛdayāya namaḥ, oṃ kṣaṃ rakṣodhipataye namaḥ śirase svāhā, oṃ kṣaṃ dhūmravarṇāya namaḥ śikhāyai vaṣaṭ, oṃ kṣaṃ khaḍgahastāya namaḥ kavacāyahum, oṃ kṣaṃ pretavāhanāya namaḥ netratrayāya vauṣaḍityādi ||]) [beginning-with-kṣa+ending-with-hṛt](kṣa+ādyaiḥ+hṛt+antaiḥ) [and](ca) [with-five+limbs](pañca+aṅgaiḥ) [with-five+words](pañcabhiḥ+padaiḥ)
+[oṃ](oṃ) [kṣaṃ](kṣaṃ) [etc](ādi) [with-kṣamā-ending-heart](kṣamādyairhṛdantaiḥ) [ca](ca) [five-limbs](pañcāṅgaiḥ) [five](pañcabhiḥ) [padas](padaiḥ)
 
 ## mukta-m0-p401-v10017
-[in-five+corners](pañca+koṇeṣu) [on-platform+limbs](mañca+aṅgam) [in-eight+petals](aṣṭa+patre) [one-should-worship](yajet) [these](imāḥ)
+[five-angles](pañcakoṇeṣu) [mañcāṅga](mañcāṅgam) [eight-petalled](aṣṭapatra) [worship](yajet) [these](imāḥ)
 
 ## mukta-m0-p401-v10018
-[rākṣasī](rākṣasīṃ) [fear+giving](bhīti+dāṃ) [kṛtyā](kṛtyāṃ) [kheṭāna](kheṭān) [weapons](astrāṇi) [outside-that](tat+bahiḥ)
+[rākṣasī](rākṣasīṃ) [fear-giving](bhītidāṃ) [kṛtyā](kṛtyāṃ) [kheṭas](kheṭān) [weapons](astrāṇi) [outside](tadbahiḥ)
 
 ## mukta-m0-p401-v10019
-[thus](evam) [indeed](tu) [when-accomplished](siddhe) [in-this+mantra](mantre+asmin) [fearlessness](abhayaṃ) [arises](jāyate) [in-forest](vane)
+[thus](evaṃ) [tu](tu) [siddha](siddhe) [mantra](mantre) [asmin](asmin) [fearlessness](abhayaṃ) [arises](jāyate) [in-forest](vane)
 
 ## mukta-m0-p401-v10020
-[humans](manuṣyāḥ) [even](api) [who](ye) [wild](vanyāḥ) [of-beasts+and-others](mṛga+ādīnāṃ) [indeed](tu) [what+talk](kā+kathā)
+[humans](manuṣyāḥ) [api](api) [ye](ye) [forest-dwellers](vanyāḥ) [of-beasts](mṛgādīnāṃ) [tu](tu) [what](kā) [tale](kathā)
 
 ## mukta-m0-p401-v10021
-[by-themselves](svayam+eva) [flee](palāyante) [of-practitioner](sādhakasya) [from-battle+even](raṇāt+api)
+[themselves](svayameva) [flee](palāyante) [of-the-sādhaka](sādhakasya) [from-battle](raṇādapi)
 
 ## mukta-m0-p401-v10022
-[on-next-day](para+ahni) [or](vā) [jaggery+and-others](guḍa+ādyaṃ) [and](ca) [in-forest](kānane) [should-wander+wise-one](vicaret+budhaḥ)
+[next-day](parehni) [vā](vā) [jaggery-etc](guḍādyaṃ) [ca](ca) [in-forest](kānane) [should-wander](vicaret) [wise](budhaḥ)
 
 ## mukta-m0-p401-v10023
-[not](na) [fear](bhayaṃ) [arises](jāyate) [there](tatra) [tiger+thief+snake+born](vyāghra+caura+uraga+ādi+jam)
+[no](na) [fear](bhayaṃ) [arises](jāyate) [there](tatra) [from-tiger-thief-snake-etc](vyāghracauroragādijam)
 
 ## mukta-m0-p401-v10024
-[in-another-birth](janma+antare) [brahmin](dvijaḥ) [having-become](bhūtvā) [kāśī](kāśīṃ) [having-reached](prāpya) [is-liberated](vimucyate)
+[in-next-birth](janmāntare) [brāhmaṇa](dvijaḥ) [becoming](bhūtvā) [Kāśī](kāśīṃ) [reaching](prāpya) [liberated](vimucyate)
 
 ## mukta-m0-p401-v10025
-[in-kali-age](kalau) [quick+fruit+this](druta+phalaḥ+ca+etat) [similar](sadṛśaḥ) [not](na) [exists](asti) [and](ca) [in-scripture](āgame)
+[in-Kali](kalau) [quick-fruit](drutaphalaṃ) [ca](ca) [this](etat) [similar](sadṛśaḥ) [na](nāsti) [ca](ca) [in-āgama](āgame)

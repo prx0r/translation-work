@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "utsāritānām+bhūtānām",
+     "gloss": "of-driven-away-beings",
+     "grounds": "genitive plural of driven-away beings; plus marks the fused compound form",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "dadadvartma",
+     "gloss": "giving-path",
+     "grounds": "participle dadat joined with vartma, path",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "to-right",
+     "grounds": "right side, locative or directional sense",
+     "morph": "loc.sg.m/n"
+    }
+   ],
+   "question": "What path is given after the beings are driven away?",
+   "premises": [
+    "Driven-away beings are removed first.",
+    "A path is then given.",
+    "The direction given is to the right."
+   ],
+   "inference": "After the beings are driven away, the teacher gives a path to the right.",
+   "uncertainties": [
+    "The exact case and internal sandhi of dadadvartma remain unresolved.",
+    "The gender and number of dakṣiṇe are not fully fixed by this chunk."
+   ],
+   "plain_english": "After driving away the beings, the teacher gives a path to the right."
+  }
+ ]
+}
