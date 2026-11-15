@@ -1,0 +1,263 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3494,
+   "rows": [
+    {
+     "surface": "etaddravyasya",
+     "gloss": "of-this-substance",
+     "grounds": "compound of etad + dravya in genitive sense",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "toyena",
+     "gloss": "with-water",
+     "grounds": "instrumental of toya",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "snāpayāmi",
+     "gloss": "i-bathe",
+     "grounds": "causative present first person singular",
+     "morph": "v.1.sg.act-pres"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "indeclinable salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative third person singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What formula should the practitioner recite while bathing the substance with water?",
+   "premises": [
+    "The verse gives a bathing formula.",
+    "It pairs water with the substance.",
+    "It ends with a salutation."
+   ],
+   "inference": "The practitioner bathes the substance with water while reciting the salutation formula.",
+   "uncertainties": [
+    "The exact substance referred to by etad is context-dependent."
+   ],
+   "plain_english": "I bathe this substance with water; salutation, one should say."
+  },
+  {
+   "verse": 3495,
+   "rows": [
+    {
+     "surface": "kavoṣṇasalilaiḥ",
+     "gloss": "with-slightly-warm-waters",
+     "grounds": "compound of kavoṣṇa + salila in instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "should-bathe",
+     "grounds": "causative optative third person singular",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "accusative of pratimā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative of budha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should a wise practitioner bathe the image with warm water?",
+   "premises": [
+    "Warm waters are prescribed.",
+    "The image is the object.",
+    "The wise one performs the bathing."
+   ],
+   "inference": "A wise practitioner should also bathe the image with slightly warm waters.",
+   "uncertainties": [
+    "The degree of warmth is not quantified."
+   ],
+   "plain_english": "A wise one should also bathe the image with slightly warm waters."
+  },
+  {
+   "verse": 3496,
+   "rows": [
+    {
+     "surface": "śālītaṇḍulacūrṇena",
+     "gloss": "with-rice-grain-powder",
+     "grounds": "compound of śāli + taṇḍula + cūrṇa in instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mārjayitvā",
+     "gloss": "having-wiped",
+     "grounds": "absolutive of mārj",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "virukṣayet",
+     "gloss": "should-dry",
+     "grounds": "causative optative third person singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done after wiping the image with rice-grain powder?",
+   "premises": [
+    "Rice-grain powder is used for wiping.",
+    "Wiping precedes drying.",
+    "Drying is commanded."
+   ],
+   "inference": "After wiping with rice-grain powder, one should dry the image.",
+   "uncertainties": [
+    "The exact drying method is not specified."
+   ],
+   "plain_english": "Having wiped with rice-grain powder, one should dry it."
+  },
+  {
+   "verse": 3497,
+   "rows": [
+    {
+     "surface": "ityapekṣāyām",
+     "gloss": "thus-in-expectation",
+     "grounds": "compound of iti + apekṣā in locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "present third person singular of ah",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "eteṣu",
+     "gloss": "with-these",
+     "grounds": "locative plural of etad",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ityādinā",
+     "gloss": "etcetera",
+     "grounds": "compound of iti + ādi in instrumental",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What does the text say when expectation arises about these matters?",
+   "premises": [
+    "The verse marks an expectation.",
+    "It introduces a following statement.",
+    "It refers to these items."
+   ],
+   "inference": "When such expectation arises, the text says something further concerning these items and so on.",
+   "uncertainties": [
+    "The referenced following statement is not included in this verse."
+   ],
+   "plain_english": "Thus, in expectation, it says, concerning these and so on."
+  },
+  {
+   "verse": 3498,
+   "rows": [
+    {
+     "surface": "sammārjitāṅgīṃ",
+     "gloss": "with-wiped-limbs",
+     "grounds": "compound of sammārjita + aṅga in accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "accusative of pratimā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjāsthānaṃ",
+     "gloss": "to-worship-place",
+     "grounds": "compound of pūjā + sthāna in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samānayet",
+     "gloss": "should-bring",
+     "grounds": "causative optative third person singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the image with wiped limbs be brought?",
+   "premises": [
+    "The image has wiped limbs.",
+    "The destination is a worship place.",
+    "Bringing is commanded."
+   ],
+   "inference": "One should bring the image with wiped limbs to the worship place.",
+   "uncertainties": [
+    "The exact worship place is not named."
+   ],
+   "plain_english": "One should bring the image with wiped limbs to the place of worship."
+  },
+  {
+   "verse": 3499,
+   "rows": [
+    {
+     "surface": "kalaśaiḥ",
+     "gloss": "with-pots",
+     "grounds": "instrumental plural of kalaśa",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "snāpayed",
+     "gloss": "should-bathe",
+     "grounds": "causative optative third person singular",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "arcāṃ",
+     "gloss": "image",
+     "grounds": "accusative of arcā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of bhakti",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sādhakasattamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound of sādhaka + sattama in nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the best practitioner bathe the image with pots?",
+   "premises": [
+    "Pots are used for bathing.",
+    "Devotion accompanies the act.",
+    "The best practitioner performs it."
+   ],
+   "inference": "The best practitioner should bathe the image with pots, with devotion.",
+   "uncertainties": [
+    "The number and contents of the pots are not specified."
+   ],
+   "plain_english": "The best practitioner should bathe the image with pots, with devotion."
+  }
+ ]
+}

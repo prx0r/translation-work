@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-of-the-deity(devasya) in-front(agrataḥ) in-northeast(aiśānye) pavilion(maṇṭapaṃ) one-should-arrange(kalpayet) auspicious(śubham)
+[of-god](devasyāgrata) [in-northeast](aiśānye) [pavilion](maṇṭapam) [should-construct](kalpayet) [auspicious](śubham)
 
 ## mukta-m0-p64-v1577
-for-seven-days(saptāhaṃ) or(vā) for-three-days(tryāhaṃ) or(vā) at-three-junctures(trisandhyaṃ) oblation(homam) one-should-perform(ācaret)
+[seven-days](saptāham) [or](vā) [three-days](tryāham) [or](vā) [thrice-sandhyā](trisandhyam) [oblation](homam) [should-perform](ācaret)
 
 ## mukta-m0-p64-v1578
-all+defects+pacifying(sarva+doṣa+praśamanaṃ) śiva-mantra(śivamantraṃ) hundred-times(śataṃ) one-should-offer(hunet)
+[all-fault-pacifying](sarvadoṣapraśamanam) [śiva-mantra](śivamantram) [hundred](śatam) [should-offer](hunet)
 
 ## mukta-m0-p64-v1579
-cool+pot(śīta+kumbhaṃ) and(ca) according-to-rule(vidhinā) on-head+above(śiras+ūrdhvani) one-should-place(dāpayet)
+[cool-pot](śītakumbham) [and](ca) [by-rite](vidhinā) [on-head-above](śirasordhvani) [should-give](dāpayet)
 
 ## mukta-m0-p64-v1580
-five-products-of-cow+ablution(pañcagavya+abhiṣekaṃ) and(ca) one-should-perform(kuryāt) by-previously-stated+method(pūrvokta+vartmanā)
+[five-cow-products-ablution](pañcagavyābhiṣekam) [and](ca) [should-do](kuryāt) [by-previously-stated-way](pūrvoktavartmanā)
 
 ## mukta-m0-p64-v1581
-mirror(darpaṇaṃ) moved(calitaṃ) or(vā) also(api) worn-out(jīrṇaṃ) or(vā) fallen(patitaṃ) indeed(tu) or(vā)
+[mirror](darpaṇam) [shaken](calitam) [or](vāpi) [worn](jīrṇam) [or](vā) [fallen](patitam) [but](tu) [or](vā)
 
 ## mukta-m0-p64-v1582
-one-should-install(sthāpayet) with-varṇa-mantra(varṇa+mantreṇa) having-taken(gṛhītvā) mirror(darpaṇaṃ) new(navam)
+[should-establish](sthāpayet) [by-color-mantra](varṇamantreṇa) [having-taken](gṛhītvā) [mirror](darpaṇam) [new](navam)
 
 ## mukta-m0-p64-v1583
-in-east+etc.(pūrva+ādikṣu) in-four-directions(caturdikṣu) by-four-vedas(caturvedaiḥ) attended(niṣevitaḥ)
+[in-eastern-directions](pūrvādikṣu) [in-four-directions](caturdikṣu) [by-four-vedas](caturvedaiḥ) [attended](niṣevitaḥ)
 
 ## mukta-m0-p64-v1584
-with-five-products-of-cow(pañcagavyena) prepared(siddhena) likewise(tathā) with-five-nectars(pañcāmṛtena) and(ca)
+[by-five-cow-products](pañcagavyena) [perfected](siddhena) [thus](tathā) [by-five-nectars](pañcāmṛtena) [and](ca)
 
 ## mukta-m0-p64-v1585
-with-turmeric+amalaka+etc.(haridrā+āmalaka+ādyaiḥ) and(ca) with-pure-rice(śuddha+annaṃ) and(ca) one-should-bathe(abhiṣecayet)
+[by-turmeric-āmalaka-etc](haridrāmalakādyaiḥ) [and](ca) [pure-rice](śuddhānnam) [and](ca) [should-sprinkle](abhiṣecayet)
 
 ## mukta-m0-p64-v1586
-abundant(prabhūta) oblation(haviṣaṃ) having-given(datvā) at-its-end(tadante) double(dviguṇaṃ) is-prescribed(smṛtam)
+[abundant](prabhūta) [oblation](haviṣam) [having-given](datvā) [after-that](tadante) [double](dviguṇam) [remembered](smṛtam)
 
 ## mukta-m0-p64-v1587
-where(yatra) pacification(śāntiḥ) is-done(kṛtā) there(tatra) wealth+grain(dhana+dhānyaṃ) and(ca) increases(vardhate)
+[where](yatra) [peace-rite-done](śāntikṛtā) [there](tatra) [wealth-grain](dhanadhānyam) [and](ca) [increases](vardhate)
 
 ## mukta-m0-p64-v1588
-for-king+kingdom+prosperity(rāja+rāṣṭra+abhivṛddhyartham) expiation(prāyaścittaṃ) by-me(mayā) declared(uditam)
+[for-kingdom-prosperity](rājarāṣṭrābhivṛddhyartham) [expiation](prāyaścittam) [by-me-declared](mayoditam)
 
 ## mukta-m0-p64-v1589
-released(samuktaḥ) from-all-sins(sarva+pāpebhyaḥ) in-śiva's-world(śiva+loke) is-honored(mahīyate)
+[released](samuktaḥ) [from-all-sins](sarvapāpebhyaḥ) [in-śiva-world](śivaloke) [is-exalted](mahīyate)
 
 ## mukta-m0-p64-v1590
-that(tat) affliction(kleśaṃ) indeed(tu) for-accomplished-purpose(kṛtārthāya) he-goes(sa+yāti) to-supreme(paramāṃ) state(gatim)
+[that](tat) [distress](kleśam) [but](tu) [for-accomplished-purpose](kṛtārthāya) [goes](sayāti) [supreme](paramām) [state](gatim)
 
 ## mukta-m0-p64-v1591
-in-festival(utsave) at-offering-time(bali+kāle) indeed(tu) who(yaḥ) would-do(kuryāt) indeed(tu) circumambulation(pradakṣiṇam)
+[at-festival](utsave) [at-offering-time](balikāle) [but](tu) [who](yaḥ) [does](kuryāt) [but](tu) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p64-v1592
-on-ground+flower(sthale+puṣpaṃ) in-water+flower(jale+puṣpaṃ) flower+foot+water(puṣpa+pādya+asya) rejoices(modate)
+[land-flowers](sthalepuṣpam) [water-flowers](jalepuṣpam) [flower-offering](puṣpapādyasya) [delights](modate)
 
 ## mukta-m0-p64-v1593
-he(saḥ) indeed(eva) wealthy(dhanavān) glorious(śrīmān) in-this-world(iha+loke) well-honored(su+pūjitaḥ)
+[he](sa) [indeed](eva) [wealthy](dhanavān) [glorious](śrīmān) [in-this-world](ihaloke) [well-worshipped](supūjitaḥ)
 
 ## mukta-m0-p64-v1594
-in-my(mama) foot-water(pāda+jale) having-bathed(snātvā) that-fruit(tat+phalaṃ) one-obtains(samavāpnuyāt)
+[my](mama) [foot-water](pādajale) [having-bathed](snātvā) [that-fruit](tatphalam) [obtains](samavāpnuyāt)
 
 ## mukta-m0-p64-v1595
-one-should-bathe(snāpayet) the-lord-of-gods(deva+deva+īśaṃ) of-cows(gavāṃ) crore-fruit(koṭi+phalaṃ) would-be(bhavet)
+[should-bathe](snāpayet) [god-of-gods](devadeveśam) [of-cows](gavām) [crore-fruit](koṭiphalam) [becomes](bhavet)
 
 ## mukta-m0-p64-v1596
-with-various+enjoyments(nānā+bhoga) endowed(samopetā) in-śiva's-world(śiva+loke) is-honored(mahīyate)
+[with-various-enjoyments](nānābhogasamopetā) [in-śiva-world](śivaloke) [is-exalted](mahīyate)
 
 ## mukta-m0-p64-v1597
-garment+ornament+etc.(vastra+ābharaṇa+ādīni) who(yaḥ) would-give(dadyāt) indeed(tu) especially(viśeṣataḥ)
+[clothes-ornaments-etc](vastramābharaṇādīni) [who](yo) [gives](dadyāt) [but](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p64-v1598
-to-be-honored(pūjyavāni) in-this-world(iha+lokeṣu) śaiva(śaivaṃ) abode(padam) one-obtains(avāpnuyāt)
+[in-worshippable-worlds](pūjyavānihalokeṣu) [śaiva](śaivam) [state](padam) [obtains](avāpnuyāt)
 
 ## mukta-m0-p64-v1599
-of-villages(grāmāṇām) pavilion(antapaḥ) he-also(saḥ+api) in-prosperity+extent(vṛddhi+vyāme) sole-ruler(eka+rāṭ) would-be(bhavet)
+[of-villages](grāmāṇām) [pavilion](antapaḥ) [that-too](sopi) [growth](vṛddhi) [one-king](ekarāḍ) [becomes](bhavet)
 
 ## mukta-m0-p64-v1600
-in-this-world(iha+loke) like-lamp(dīpa+vat) shining(divyaḥ) similarity-of-form(sārūpyaṃ) and(ca) he(saḥ) attains(gacchati)
+[in-this-world](ihaloke) [lamp-like-divine](dīpavaddivyaḥ) [likeness](sārūpyam) [and](ca) [he](sa) [goes](gacchati)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p14-v326
-[viḍ](viḍ) [drop](binduḥ) [supreme+lord](parameśaḥ) [and](ca) [gandharva](gandharvaḥ) [supreme](paramaḥ) [remembered](smṛtaḥ)
+[viḍ](viḍ) [binduḥ](binduḥ) [parameśaḥ+ca](parameśaśca) [gandharvaḥ](gandharvaḥ) [paramaḥ](paramaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v327
-[indra+form](indramūrtiḥ) [man-lion+weapon](nṛsiṃhāstraṃ) [remembered](smṛtaḥ) [govinda](govindaḥ) [ī+lord](ī-svaraḥ)
+[indra-mūrtiḥ](indramūrtir) [nṛsiṃha-astraṃ](nṛsiṃhāstraṃ) [smṛtaḥ](smṛto) [govindaḥ](govinda) [īśvaraḥ](ī-svaraḥ)
 
 ## mukta-m0-p14-v328
-[victorious](vijayo) [obstacle+remover](vighnahartā) [and](ca) [viṣṇu](viṣṇuḥ) [u+syllable](ukārakaḥ) [remembered](smṛtaḥ)
+[vijayaḥ](vijayo) [vighna-hartā+ca](vighnahartā ca) [viṣṇu-ukārakaḥ](viṣṇurukārakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v329
-[indra+bow](indracāpaḥ) [and](atha) [subtle](sūkṣmaṃ) [and](ca) [six-faced](ṣaṇmukhaḥ) [six+vowel](ṣaṭsvaraḥ) [remembered](smṛtaḥ)
+[indra-cāpaḥ+atha](indracāpo'tha) [sūkṣmaṃ+ca](sūkṣmañca) [ṣaṇmukhaḥ](ṣaṇmukhaḥ) [ṣaṭ-svaraḥ](ṣaṭsvaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v330
-[ṛc+form](ṛṅmūrtiḥ) [and](tu) [striver](yati) [dharma](dharma) [enemy+slayer](ripughna) [ṛ+vowel](ṛ-svaraḥ) [remembered](smṛtaḥ)
+[ṛṅ-mūrtiḥ+tu](ṛṅmūrtistu) [yati](yati) [dharma-ripu-ghnaḥ](dharma(rmo)ripughna) [ṛ-svaraḥ](ṛ-svaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v331
-[immortality+lord](amrteśaḥ) [vowel](svaraḥ) [firm](sthāṇuḥ) [god+born](devaju) [eight+vowel](ko')ṣṭasvaraḥ) [remembered](smṛtaḥ)
+[amṛteśaḥ](amrteśaḥ) [svaraḥ](svaraḥ) [sthāṇuḥ](sthāṇur) [deva-juṣṭa-svaraḥ](devaju(ko')ṣṭasvaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v332
-[one+footed](ekāṅghriḥ) [thunderbolt+staff](vajradaṇḍaḥ) [and](ca) [sky+mountain](vyomādrī) [ḷ+vowel](ḷ-svaraḥ) [remembered](smṛtaḥ)
+[eka-aṅghriḥ](ekāṅghrir) [vajra-daṇḍaḥ+ca](vajradaṇḍaśca) [vyomādriḥ](vyomādrī) [ḷ-svaraḥ](ḷ-svaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v333
-[gaṇa+lord](gaṇeśaḥ) [and](ca) [three+throated](trikaṇṭhaḥ) [and](ca) [blue+footed](nīlāṅghriḥ) [tenth](daśamaḥ) [vowel](svaraḥ)
+[gaṇeśaḥ+ca](gaṇeśaśca) [trikaṇṭhaḥ+ca](trikaṇṭhaśca) [nīla-aṅghriḥ](nīlāṅghriḥ) [daśamaḥ](daśamaḥ) [svaraḥ](svaraḥ)
 
 ## mukta-m0-p14-v334
-[jhiṇṭī+lord](jhiṇṭīśaḥ) [desire+form](kāmarūpaḥ) [and](ca) [power](śaktiḥ) [e+syllable](ekārakaḥ) [remembered](smṛtaḥ)
+[jhiṇṭīśaḥ](jhiṇṭīśaḥ) [kāma-rūpaḥ+ca](kāmarūpaśca) [śaktiḥ](śaktiḥ) [eka-ārakaḥ](ekārakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v335
-[three-city+lord](traipuraḥ) [bowed](praṇato) [armor](varma) [and](marutau) [twelfth](dvādaśa) [vowel](svaraḥ)
+[traipuraḥ](traipuraḥ) [praṇataḥ](praṇato) [varma-marutau](varma-marutau) [dvādaśa-svaraḥ](dvādaśasvaraḥ)
 
 ## mukta-m0-p14-v336
-[mantra+lord](mantreśo) [mountain+named](nagasaṃjñaḥ) [and](ca) [mātrā+lord](mātreśaḥ) [and](tu) [o+vowel](osvaraḥ) [remembered](smṛtaḥ)
+[mantreśaḥ](mantreśo) [naga-saṃjñaḥ+ca](nagasaṃjñaśca) [mātreśaḥ+tu](mātreśastvo) [svaraḥ](svaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v337
-[man-lion+named](nṛsiṃhākhyo) [mura+enemy](murāriḥ) [and](ca) [illusion+possessing](māyāviḥ) [and](ca) [au+vowel](ausvaraḥ) [remembered](smṛtaḥ)
+[nṛsiṃha-ākhyaḥ](nṛsiṃhākhyo) [murāriḥ+ca](murāriśca) [māyā-vit+ca](māyāviccau) [svaraḥ](svaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v338
-[mind](manaḥ) [and](ca) [bodiless+armor](anaṅga-kavacau) [hidden](nigūḍha) [aṃ+vowel](aṃ-svaraḥ) [remembered](smṛtaḥ)
+[manaḥ+ca](manaścā) [anaṅga-kavacau](anaṅga-kavacau) [nigūḍhaḥ](nigūḍha) [aṃ-svaraḥ](aṃ-svaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v339
-[creation](sṛṣṭiḥ) [destruction+maker](saṃhārakartā) [and](ca) [poison](viṣaṃ) [and](ca) [aḥ+vowel](aḥ-svaraḥ) [remembered](smṛtaḥ)
+[sṛṣṭiḥ](sṛṣṭiḥ) [saṃhāra-kartā+ca](saṃhārakartā ca) [viṣaṃ+ca](viṣaṃ ca) [aḥ-svaraḥ](aḥ-svaraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v340
-[yādava+lord](yādaveśo) [mura+enemy](murāriḥ) [and](ca) [desire+limbed](kāmāṅgaḥ) [kā+syllable](kārṇakaḥ) [remembered](smṛtaḥ)
+[yādaveśaḥ](yādaveśo) [murāriḥ+ca](murāriśca) [kāmāṅgaḥ](kāmāṅgaḥ) [kārṇakaḥ](kārṇakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v341
-[kaiṭabha+enemy](kaiṭabhāriḥ) [and](ca) [mātaṅga](mātaṅgaḥ) [destruction](saṃhāraḥ) [kha+syllable](khārṇakaḥ) [remembered](smṛtaḥ)
+[kaiṭabhāriḥ+ca](kaiṭabhāriśca) [mātaṅgaḥ](mātaṅgaḥ) [saṃhāraḥ](saṃhāraḥ) [khārṇakaḥ](khārṇakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v342
-[cow+faced](gomukho) [elephant+temple](gajakumbhaḥ) [and](ca) [plough+lord](halīśaḥ) [and](ca) [elephant+faced](gajānanaḥ)
+[gomukhaḥ](gomukho) [gaja-kumbhaḥ+ca](gajakumbhaśca) [halīśaḥ+ca](halīśaśca) [gajānanaḥ](gajānanaḥ)
 
 ## mukta-m0-p14-v343
-[boar](varāho) [wealth+desire](dhanakāmaḥ) [and](ca) [śiva](śivā) [aghora](gho) [gha+syllable](ghārṇakaḥ) [remembered](smṛtaḥ)
+[varāhaḥ](varāho) [dhana-kāmaḥ+ca](dhanakāmaśca) [śivāghaḥ](śivā'gho) [ghārṇakaḥ](ghārṇakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v344
-[ḍāmara+lord](ḍāmareśo) [hari](hariḥ) [glorious](śrīmān) [rudra+lord](rudreśo) [ṅa+syllable](ṅāṇakaḥ) [remembered](smṛtaḥ)
+[ḍāmareśaḥ](ḍāmareśo) [hariḥ](hariḥ) [śrīmān](śrīmān) [rudreśaḥ](rudreśo) [ṅāṇakaḥ](ṅāṇakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v345
-[earth+splitter](bhūbhettā) [varied+moving](citracārī) [and](ca) [trembling](cañcalaḥ) [ca+syllable](cārṇako) [considered](mataḥ)
+[bhū-bhettā](bhūbhettā) [citra-cārī+ca](citracārī ca) [cañcalaḥ+ca](cañcalaścā) [ārṇakaḥ](ārṇako) [mataḥ](mataḥ)
 
 ## mukta-m0-p14-v346
-[three+drop](tribinduko) [fever](jvarī) [vāmā](vāmā) [embracing](śleṣakaḥ) [cha+syllable](chārṇakaḥ) [remembered](smṛtaḥ)
+[tribindukaḥ](tribinduko) [jvarī](jvarī) [vāmā](vāmā) [śleṣakaḥ](śleṣakaś) [chārṇakaḥ](chārṇakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v347
-[muttering+light](japajyotiḥ) [formless](anākāro) [generator](janaka) [and](uta) [ja+syllable](jārṇakaḥ)
+[japa-jyotiḥ](japajyotir) [anākāraḥ](anākāro) [janakaḥ](janaka) [uta](uta) [jārṇakaḥ](jārṇakaḥ)
 
 ## mukta-m0-p14-v348
-[renowned](vikhyātakaḥ) [stable+form](sthirākāro) [jhaṅkāra](jhaṅkāro) [jha+syllable](jhārṇako) [considered](mataḥ)
+[vikhyātakaḥ](vikhyātakaḥ) [sthira-ākāraḥ](sthirākāro) [jhaṅkāraḥ](jhaṅkāro) [jhārṇakaḥ](jhārṇako) [mataḥ](mataḥ)
 
 ## mukta-m0-p14-v349
-[very+righteous](sudharmo) [indeed](hi) [nasal](anunāsaḥ) [and](ca) [knowledge+going](jñaptigo) [ña+syllable](ñārṇakaḥ) [remembered](smṛtaḥ)
+[sudharmaḥ](sudharmo) [hi](hi) [anunāsaḥ+ca](anunāsaśca) [jñapti-gaḥ](jñaptigo) [ñārṇakaḥ](ñārṇakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v350
-[elephant+goad](gajāṅkuśo) [deer+first](mṛgādyaḥ) [and](ca) [young+moon](bālenduḥ) [ṭa+syllable](ṭārṇakaḥ) [remembered](smṛtaḥ)
+[gaja-aṅkuśaḥ](gajāṅkuśo) [mṛga-ādyaḥ+ca](mṛgādyaśca) [bālenduḥ](bālenduṣ) [ṭārṇakaḥ](ṭārṇakaḥ) [smṛtaḥ](smṛtaḥ)

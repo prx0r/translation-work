@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[then](tataḥ) [at-end](prānte) [great-goddess-acc](mahādevīṃ) [one-should-worship](yajet) [direction-hand-dwelling-acc](dikkaravāsinīm)
+[then](tataḥ) [at-end](prānte) [great-goddess](mahādevīṃ) [should-worship](yajet) [dikkaravāsinīm](dikkaravāsinīm)
 
 ## mukta-m0-p13-v302
-[seven-seat-loc](saptapīṭhe) [seven-hundred-thousand-acc](saptalakṣaṃ) [having-repeated](japtvā) [at-night](rātrau) [concentrated](samāhitaḥ)
+[at-seven-seats](saptapīṭhe) [seven-lakhs](saptalakṣaṃ) [having-chanted](japtvā) [at-night](rātrau) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p13-v303
-[thus](evaṃ) [done-loc](kṛte) [forgotten](vismṛtā) [if](cet) [in-own-name](svanāmni) [in-lineage-birth](gotrajanmani)
+[thus](evaṃ) [done](kṛte) [forgotten](vismṛtā) [if](cet) [own-name](svanāmni) [gotra-birth](gotrajanmani)
 
 ## mukta-m0-p13-v304
-[then](tataḥ) [having-bowed](praṇamya) [goddess-acc](deveśīṃ) [one-should-choose](vṛṇuyāt) [boon-acc](varam) [for-oneself](ātmanaḥ)
+[then](tataḥ) [having-bowed](praṇamya) [goddess-lord](deveśīṃ) [should-choose](vṛṇuyāt) [boon](varam) [for-self](ātmanaḥ)
 
 ## mukta-m0-p13-v305
-[unshaken-family-conduct-service-devoted](akṣobhitakulācāraparicaryāparāyaṇaḥ)
+[unshaken](akṣobhita) [clan](kula) [conduct](ācāra) [service](paricaryā) [devoted](parāyaṇaḥ)
 
 ## mukta-m0-p13-v306
-[then](tataḥ) [pleased](prasannā) [becomes](bhavati) [freely](svairaṃ) [family-boon-beloved](kulavarapriyā)
+[then](tataḥ) [pleased](prasannā) [becomes](bhavati) [freely](svairaṃ) [dear-to-best-clan](kulavarapriyā)
 
 ## mukta-m0-p13-v307
-[king-tree-acc](rājavṛkṣaṃ) [having-well-seen](samālokya) [that-root-loc](tanmūle) [own-desired-deity-acc](sveṣṭadevatām)
+[royal-tree](rājavṛkṣaṃ) [having-seen](samālokya) [at-its-root](tanmūle) [chosen-deity](sveṣṭadevatām)
 
 ## mukta-m0-p13-v308
-[hundred-thousand-seat-fruit-acc](lakṣapīṭhaphalaṃ) [O-god](deva) [obtains](labhate) [practitioner-best](sādhakottamaḥ)
+[fruit-of-lakh-seat](lakṣapīṭhaphalaṃ) [O-god](deva) [obtains](labhate) [best-sadhaka](sādhakottamaḥ)
 
 ## mukta-m0-p13-v309
-[collyrium-acc](añjanaṃ) [forehead-mark-acc](tilakaṃ) [concealment-acc](guptiṃ) [buffalo-demon-slayer-acc](mahiṣāsuramardinīm)
+[collyrium](añjanaṃ) [tilak](tilakaṃ) [concealment](guptiṃ) [mahiṣāsura-slayer](mahiṣāsuramardinīm)
 
 ## mukta-m0-p13-v310
-[one-should-accomplish](sādhayet) [practitioner-nom](sādhako) [desired-acc](abhīṣṭaṃ) [root-knowledge-acc](mūlavidyāṃ) [O-great-lord](maheśvara)
+[should-accomplish](sādhayet) [sadhaka](sādhakaḥ) [desired](abhīṣṭaṃ) [root-mantra](mūlavidyāṃ) [O-Maheśvara](maheśvara)
 
 ## mukta-m0-p13-v311
-[that-acc](tat) [to-me](me) [truth-acc](tattvaṃ) [tell](kathaya) [O-goddess](deveśi) [if](yadi) [affection-nom](sneho) [is](asti) [me-acc](māṃ) [toward](prati)
+[that](tan) [to-me](me) [truth](tattvaṃ) [tell](kathaya) [O-goddess](deveśi) [if](yadi) [affection](snehaḥ) [is](asti) [to-me](māṃ) [towards](prati)
 
 ## mukta-m0-p13-v312
-[Tuesday-loc](bhaumavāre) [midnight-loc](madhyarātrau) [corpse-seat-pair-marked-loc](śavāsanayugāṅkite)
+[on-Mars-day](bhaumavāre) [at-midnight](madhyarātrau) [corpse-seat](śavāsana) [pair](yuga) [marked](aṅkite)
 
 ## mukta-m0-p13-v313
-[that-acc](tat) [thousand-acc](sahasraṃ) [one-should-offer](hunet) [O-child](vatsa) [there](tatra) [only](eva) [ancestors-grove-loc](pitṛkānane)
+[that-thousand](tatsahasraṃ) [should-offer](hunet) [O-child](vatsa) [there-only](tatraiva) [in-ancestors-grove](pitṛkānane)
 
 ## mukta-m0-p13-v314
-[having-gone](gatvā) [Durgā-eighth-night-loc](durgāṣṭamīrātrau) [in-cremation-ground](śmaśāne) [one-should-place](nikṣipet) [then](tataḥ)
+[having-gone](gatvā) [on-Durgāṣṭamī-night](durgāṣṭamīrātrau) [at-cremation-ground](śmaśāne) [should-place](nikṣipet) [then](tataḥ)
 
 ## mukta-m0-p13-v315
-[corpse-seat-gone](śavāsanagato) [hero-nom](vīro) [one-should-recite](japet) [eight-thousand-acc](aṣṭasahasrakam)
+[seated-on-corpse-seat](śavāsanagataḥ) [hero](vīraḥ) [should-chant](japet) [eight-thousand](aṣṭasahasrakam)
 
 ## mukta-m0-p13-v316
-[sphe'm [sphreṃ sphreṃ] spheṃ](sphe'm [sphreṃ sphreṃ] spheṃ) [staff](daṇḍa) [O-great-fortuned](mahābhāga) [yoginī-heart-beloved](yoginīhṛdayapriya)
+[spheṃ](sphe'm) [sphreṃ sphreṃ](sphreṃ sphreṃ) [spheṃ](spheṃ) [staff](daṇḍa) [fortunate](mahābhāga) [dear-to-yoginī-heart](yoginīhṛdayapriya)
 
 ## mukta-m0-p13-v317
-[thus](evam) [having-invoked](āmantrya) [vetāla-acc](vetālaṃ) [where](yatra) [where](yatra) [is-employed](prayujyate)
+[thus](evam) [having-addressed](āmantrya) [vetala](vetālaṃ) [wherever](yatra yatra) [is-used](prayujyate)
 
 ## mukta-m0-p13-v318
-[go](gaccha) [go](gaccha) [O-great-fortuned](mahābhāge) [O-sandals](pāduke) [O-best-colored](varavarṇini)
+[go](gaccha) [go](gaccha) [fortunate](mahābhāge) [sandals](pāduke) [fair-complexioned](varavarṇini)
 
 ## mukta-m0-p13-v319
-[eight-metal-acc](aṣṭalohaṃ) [sword-arm-acc](khaḍgabāhuṃ) [having-attained](samāsādya) [fifty-finger-form-acc](pañcāśadaṅgulākṛtim)
+[eight-metal](aṣṭalohaṃ) [sword-armed](khaḍgabāhuṃ) [having-obtained](samāsādya) [fifty-angula-form](pañcāśadaṅgulākṛtim)
 
 ## mukta-m0-p13-v320
-[that-acc](tat) [thousand-acc](sahasraṃ) [then](tato) [having-repeated](japtvā) [great-corpse-body-loc](mahāśavakalevare)
+[that](tat) [thousand](sahasraṃ) [then](tataḥ) [having-chanted](japtvā) [on-great-corpse-body](mahāśavakalevare)
 
 ## mukta-m0-p13-v321
-[family-eighth-day-loc](kulāṣṭamyām) [half-night-loc](ardharātre) [pyre-middle-loc](citāmadhye) [concentrated](samāhitaḥ)
+[on-Kulāṣṭamī](kulāṣṭamyām) [at-midnight](ardharātre) [in-middle-of-pyre](citāmadhye) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p13-v322
-[sweet-trio-mixed-acc](madhuratrayasaṃyuktaṃ) [bilva-leaf-instr](bilvapatreṇa) [joined](saṃyutam)
+[three-sweets](madhuratraya) [combined](saṃyuktaṃ) [with-bilva-leaf](bilvapatreṇa) [joined](saṃyutam)
 
 ## mukta-m0-p13-v323
-[is-offered](balyante) [supreme](paramā) [māyā](māyā) [goddess](devī) [buffalo-slayer](mahiṣamardinī)
+[at-offering](balyante) [supreme](paramā) [illusion](māyā) [goddess](devī) [mahiṣa-slayer](mahiṣamardinī)
 
 ## mukta-m0-p13-v324
-[take](gṛhṇa) [O-child](vatsa) [thus](iti) [in-sound](śabde) [indeed](vai) [sword-acc](khaḍgam) [having-lifted](uttolya) [one-should-hold](dhārayet)
+[take](gṛhṇa) [child](vatsa) [thus](iti) [sound](śabde) [indeed](vai) [sword](khaḍgam) [raising](uttolya) [should-hold](dhārayet)
 
 ## mukta-m0-p13-v325
-[kāṁ īṁ ūṁ kuru kalyāṇi vipakṣacchedavistaram](kāṁ īṁ ūṁ kuru kalyāṇi vipakṣacchedavistaram)
+[kaṃ](kāṁ) [īṃ](īṁ) [ūṃ](ūṁ) [do](kuru) [auspicious](kalyāṇi) [enemy-cutting](vipakṣaccheda) [extensively](vistaram)

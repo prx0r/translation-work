@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[in-northwest](vāyvyāṃ) [smoke-colored](dhūmra+varṇaṃ) [should-be](syāt) [in-northeast](aiśānyāṃ) [white-colored](śveta+varṇakam)
+[in-vayu-direction](vāyvyāṃ) [smoke-colored](dhūmravarṇaṃ) [may-be](syāt) [in-northeast](aiśānyāṃ) [white-colored](śvetavarṇakam)
 
 ## mukta-m0-p41-v1002
-[of-four-doors-etc.](catur+dvāra+ādi) [color](varṇaṃ) [indeed](tu) [in-order](kramāt) [I-shall-tell](vakṣye) [O-great-lord](mahā+īśvara)
+[four-doors-etc-color](caturdvārādivarṇaṃ) [but](tu) [in-order](kramāt) [I-will-speak](vakṣye) [O-great-lord](maheśvara)
 
 ## mukta-m0-p41-v1003
-[with-green](haritena) [indeed](tu) [on-the-outside](bāhyena) [three-colored](tri+varṇaṃ) [and](ca) [in-order](kramāt) [one-should-place](nyaset)
+[with-green](haritena) [but](tu) [outer](bāhyena) [three-colored](trivarṇaṃ) [and](ca) [in-order-place](kramānyaset)
 
 ## mukta-m0-p41-v1004
-[with-rice](śāli) [and-wheat](godhūma) [flours](piṣṭaiḥ) [and](ca) [mixed-with-pearl-powder](muktā+cūrṇa+su+miśritam)
+[with-rice-wheat-flours+and](śāligodhūmapiṣṭaiśca) [pearl-powder-well-mixed](muktācūrṇasumiśritam)
 
 ## mukta-m0-p41-v1005
-[in-southeast](āgneye) [with-yellow-powders](pīta+cūrṇaiḥ) [and](ca) [with-blue-powder](nīla+cūrṇa) [one-should-apply](yamet) [this](athā)
+[in-southeast](āgneye) [with-yellow-powders+and](pītacūrṇaiśca) [blue-powder-place-thus](nīlacūrṇayametathā)
 
 ## mukta-m0-p41-v1006
-[pearl-powder](muktā+cūrṇaṃ) [in-west](paścime) [and](ca) [cat's-eye-powder](vaidūryaṃ) [powder](cūrṇam) [in-northwest](ānile)
+[pearl-powder](muktācūrṇaṃ) [in-west](paścime) [and](ca) [cat's-eye-powder-in-northwest](vaidūryaṃ cūrṇamānile)
 
 ## mukta-m0-p41-v1007
-[mineral](dhātuḥ) [and](ca) [flower-source](puṣpa+yoniḥ) [and](ca) [brahma-flower](brahma+puṣpaṃ) [and](ca) [with-lotuses](utpalaiḥ)
+[mineral+and](dhātuśca) [flower-source+and](puṣpayoniśca) [brahma-flower](brahmapuṣpaṃ) [and](ca) [with-lotuses](utpalaiḥ)
 
 ## mukta-m0-p41-v1008
-[turmeric](haridrā) [and-rice-colored](śāli+varṇaṃ) [and](ca) [from-middle-to-northeast](madhya+ādi+īśāna) [with-colors](varṇakaiḥ)
+[turmeric-rice-color](haridrāśālivarṇaṃ) [and](ca) [with-middle-etc-ishana-colors](madhyādīśānavarṇakaiḥ)
 
 ## mukta-m0-p41-v1009
-[kalpa-tree](kalpaṃ) [bilva](bilvaṃ) [śamī](śamīṃ) [and](ca) [and](eva) [banyan-tree](vaṭa+vṛkṣaṃ) [and](ca) [campaka](caṃpakam)
+[kalpa](kalpaṃ) [bilva](bilvaṃ) [shami](śamīṃ) [and-indeed](caiva) [banyan-tree](vaṭavṛkṣaṃ) [and](ca) [champaka](caṃpakam)
 
 ## mukta-m0-p41-v1010
-[sixteen](ṣoḍaśaṃ) [and](ca) [and](eva) [thirty-two](dvātriṃśat) [sixty-four](catuḥ+ṣaṣṭi) [plus-hundred](uttaraṃ+śatam)
+[sixteen](ṣoḍaśaṃ) [and-indeed](caiva) [thirty-two](dvātriṃśat) [sixty-four-plus-hundred](catuṣṣaṣṭyuttaraṃśatam)
 
 ## mukta-m0-p41-v1011
-[thousand](sahasraṃ) [or](vā) [half-of-that](tat+ardhaṃ) [or](vā) [sixteen](ṣoḍaśa) [twelve](dvādaśa) [or-eight](aṣṭa+vā)
+[thousand](sahasraṃ) [or](vā) [half-of-that](tadardhaṃ) [or](vā) [sixteen](ṣoḍaśa) [twelve-eight-or](dvādaśāṣṭavā)
 
 ## mukta-m0-p41-v1012
-[twenty-five](pañca+viṃśati) [thirty-two](dvātriṃśat) [thousand](sahasraṃ) [or](vā) [eight-hundred](śata+aṣṭakam)
+[twenty-five](pañcaviṃśati) [thirty-two](dvātriṃśat) [thousand](sahasraṃ) [or](vā) [eight-hundreds](śatāṣṭakam)
 
 ## mukta-m0-p41-v1013
-[maṇḍala](maṇḍalaṃ) [threefold](tri+vidhaṃ) [declared](proktaṃ) [then](tato) [rule-of-hasta](hasta+vidhiṃ) [hear](śṛṇu)
+[mandala](maṇḍalaṃ) [threefold](trividhaṃ) [declared](proktaṃ) [then](tato) [hand-rite](hastavidhiṃ) [hear](śṛṇu)
 
 ## mukta-m0-p41-v1014
-[eight-lice](yūkā+aṣṭaka) [eight-barleycorns](yava+aṣṭaṃ) [and](ca) [eight-fingers](aṅguli+aṣṭa) [two-spans](dvi+tālakam)
+[eight-lice-grains](yūkāṣṭakayavāṣṭaṃ) [and](ca) [eight-fingers](aṅgulyaṣṭa) [two-talas](dvitālakam)
 
 ## mukta-m0-p41-v1015
-[one-hasta](eka+hastaṃ) [or](vā) [two-hastas](dvi+hastaṃ) [or](vā) [or-four-hastas](catur+hastam) [or-even](atha+api) [or](vā)
+[one-hand](ekahastaṃ) [two-hand](dvihastaṃ) [or](vā) [four-hand](caturhastam) [and-also](athāpi) [or](vā)
 
 ## mukta-m0-p41-v1016
-[of-hastas](hastānāṃ) [twenty](viṃśatiṃ) [and](ca) [and](eva) [twenty-five](pañca+viṃśati) [hastas](hastakam)
+[of-hands](hastānāṃ) [twenty](viṃśatiṃ) [and-indeed](caiva) [twenty-five](pañcaviṃśati) [hands](hastakam)
 
 ## mukta-m0-p41-v1017
-[maṇḍala](maṇḍalaṃ) [indeed](tu) [having-made](kṛtaṃ) [having-worshipped](pūjya) [in-its-middle](tasya) [in-middle](madhye) [worship-of-Śiva](śiva+arcanam)
+[mandala](maṇḍalaṃ) [but](tu) [made](kṛtaṃ) [having-worshipped](pūjya) [its](tasya) [middle](madhye) [shiva-worship](śivārcanam)
 
 ## mukta-m0-p41-v1018
-[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [lamp](dīpaṃ) [and](ca) [incense](dhūpaṃ) [and](ca) [and](eva) [one-should-offer](pradāpayet)
+[sandal](gandhaṃ) [flower](puṣpaṃ) [and](ca) [lamp](dīpaṃ) [and](ca) [incense](dhūpaṃ) [and-indeed](caiva) [offer](pradāpayet)
 
 ## mukta-m0-p41-v1019
-[cake](apūpaṃ) [indeed](tu) [fruit](phalaṃ) [milk](kṣīraṃ) [with-astra-mantra](astra+mantreṇa) [one-should-offer](dāpayet)
+[cake](apūpaṃ) [but](tu) [fruit](phalaṃ) [milk](kṣīraṃ) [with-astra-mantra](astramantreṇa) [offer](dāpayet)
 
 ## mukta-m0-p41-v1020
-[one-should-offer](nivedayet) [cooked-rice](caruṃ) [properly](samyak) [half-of-that](tat+ardham) [indeed](tu) [one-should-offer](nivedayet)
+[offer](nivedayet) [caru](caruṃ) [properly](samyak) [half-of-that-but](tadardhantu) [offer](nivedayet)
 
 ## mukta-m0-p41-v1021
-[not-touching-with-teeth](dantaiḥ+a+spṛśya) [according-to-rule](vidhi+vat) [remembering](manu+smaran) [the-five-brahmas](pañca+brahma)
+[without-touching-teeth](dantairaspṛśya) [according-to-rite](vidhivat) [five-brahmas](pañcabrahma) [remembering-mantra](manusmaran)
 
 ## mukta-m0-p41-v1022
-[at-the-end-of-that](tat+ante) [having-uttered-the-mantra](mantram+uccārya) [in-the-disciple's-ear](śiṣya+karṇe) [indeed](tu) [right](dakṣiṇe)
+[after-that](tadante) [mantra-uttering](mantramuccārya) [in-student's-ear](śiṣyakarṇe) [but](tu) [right](dakṣiṇe)
 
 ## mukta-m0-p41-v1023
-[triyambakaṃ](triyambakaṃ) [a-hundred-times](śataṃ) [having-chanted](japtvā) [one-should-tie](badhnīyāt) [protective-thread](kautukaṃ) [before](puraḥ)
+[triyambaka](triyambakaṃ) [hundred](śataṃ) [having-chanted](japtvā) [tie](badhnīyāt) [kautuka](kautukaṃ) [before](puraḥ)
 
 ## mukta-m0-p41-v1024
-[for-women](strīṇām) [also](api) [and](ca) [for-śūdras](śūdrāṇāṃ) [without-mantra](a+mantraṃ) [on-the-left-hand](vāma+hastake)
+[of-women](strīṇām) [also](api) [and](ca) [of-shudras](śūdrāṇāṃ) [without-mantra](amantraṃ) [in-left-hand](vāmahastake)
 
 ## mukta-m0-p41-v1025
-[seated-on-a-bed-of-ashes](bhasma+śayyā) [having-mounted](sam+ārūḍhaṃ) [on-Śiva's-right-side](śiva+dakṣiṇa+pārśvake)
+[ash-bed](bhasmaśayyā) [mounted](samārūḍhaṃ) [on-shiva's-right-side](śivadakṣiṇapārśvake)

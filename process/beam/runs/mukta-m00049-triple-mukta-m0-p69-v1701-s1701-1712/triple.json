@@ -1,0 +1,499 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1701,
+   "rows": [
+    {
+     "surface": "kulabhedaṃ",
+     "gloss": "family-distinction",
+     "grounds": "compound of kula and bheda",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "varṇabhedaṃ",
+     "gloss": "caste-distinction",
+     "grounds": "compound of varṇa and bheda",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "gacchanty",
+     "gloss": "go",
+     "grounds": "verb root gam",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "adhamāṃ",
+     "gloss": "lowest",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "state",
+     "grounds": "noun gati",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What consequence follows from making distinctions of family and caste?",
+   "premises": [
+    "family-distinction and caste-distinction are rejected",
+    "those who make them go somewhere",
+    "the destination is the lowest state"
+   ],
+   "inference": "Making family or caste distinctions leads to the lowest state.",
+   "uncertainties": [
+    "exact scope of gati as state or rebirth"
+   ],
+   "plain_english": "Those who make distinctions of family and caste go to the lowest state."
+  },
+  {
+   "verse": 1702,
+   "rows": [
+    {
+     "surface": "tattvacakram",
+     "gloss": "truth-circle",
+     "grounds": "compound of tattva and cakra",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anuṣṭheyaṃ",
+     "gloss": "to-be-practiced",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dharmakāmārthamuktaye",
+     "gloss": "for-dharma-kama-artha-liberation",
+     "grounds": "compound dative",
+     "morph": "dat.sg.f"
+    }
+   ],
+   "question": "For what four aims should the truth-circle be practiced?",
+   "premises": [
+    "tattvacakra is to be practiced",
+    "its purpose is named",
+    "the named aims are dharma kama artha and liberation"
+   ],
+   "inference": "The truth-circle should be practiced for dharma, kama, artha, and liberation.",
+   "uncertainties": [
+    "whether muktaye is final liberation or release"
+   ],
+   "plain_english": "The truth-circle should be practiced for dharma, desire, wealth, and liberation."
+  },
+  {
+   "verse": 1703,
+   "rows": [
+    {
+     "surface": "saṃnyāsavihitāt",
+     "gloss": "from-renunciation-prescribed",
+     "grounds": "compound ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "dharmān",
+     "gloss": "duties",
+     "grounds": "noun dharma",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "out-of-compassion",
+     "grounds": "noun kṛpā instrumental",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "vaktum",
+     "gloss": "to-tell",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "arhasi",
+     "gloss": "you-should",
+     "grounds": "verb root arh",
+     "morph": "2.sg.act-pres"
+    }
+   ],
+   "question": "What is being requested regarding duties prescribed for renunciation?",
+   "premises": [
+    "duties prescribed for renunciation are at issue",
+    "the request is made out of compassion",
+    "the speaker asks that they be told"
+   ],
+   "inference": "Out of compassion, the renunciation-prescribed duties should be told.",
+   "uncertainties": [
+    "speaker and addressee not explicit in this verse"
+   ],
+   "plain_english": "Out of compassion, you should tell the duties prescribed for renunciation."
+  },
+  {
+   "verse": 1704,
+   "rows": [
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "noun vidhi instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "kartavyas",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "verb root śru imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "sāmpratam",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What instruction is given about hearing all that must be done?",
+   "premises": [
+    "all that is to be done is mentioned",
+    "it is to be heard",
+    "the time is now"
+   ],
+   "inference": "Hear now all that is to be done by the proper method.",
+   "uncertainties": [
+    "exact referent of tat sarvam"
+   ],
+   "plain_english": "Hear now all that is to be done by the proper method."
+  },
+  {
+   "verse": 1705,
+   "rows": [
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "madyādīni",
+     "gloss": "wine-and-such",
+     "grounds": "compound with ādi",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "verb root śudh causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done with wine and similar substances?",
+   "premises": [
+    "those substances are named",
+    "wine is included",
+    "purification is prescribed"
+   ],
+   "inference": "Wine and similar substances should be purified.",
+   "uncertainties": [
+    "exact list of madyādīni"
+   ],
+   "plain_english": "Those things, wine and the like, should be purified."
+  },
+  {
+   "verse": 1706,
+   "rows": [
+    {
+     "surface": "brāhmeṇa",
+     "gloss": "by-brahma",
+     "grounds": "adjective instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "by-manu",
+     "grounds": "noun manu instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "o/",
+     "gloss": "o/",
+     "grounds": "syllable token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saccidekaṃ brahmeti",
+     "gloss": "saccidekaṃ brahmeti",
+     "grounds": "mantra phrase token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "noun mantra instrumental",
+     "morph": "instr.sg.m"
+    }
+   ],
+   "question": "By what means are the substances to be purified?",
+   "premises": [
+    "purification is by brahma",
+    "purification is by manu",
+    "purification is by mantra",
+    "the mantra phrase is given"
+   ],
+   "inference": "The substances are purified by brahma, manu, and the mantra.",
+   "uncertainties": [
+    "syntax of o/ and saccidekaṃ brahmeti"
+   ],
+   "plain_english": "Purify them by brahma, by manu, and by the mantra 'saccidekaṃ brahmeti'."
+  },
+  {
+   "verse": 1707,
+   "rows": [
+    {
+     "surface": "gṛhasthānāmityādi",
+     "gloss": "for-householders-and-so-forth",
+     "grounds": "compound with ityādi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What topic is introduced for householders and others?",
+   "premises": [
+    "the term names householders",
+    "ityādi indicates continuation",
+    "a procedure follows"
+   ],
+   "inference": "The verse introduces procedure for householders and others.",
+   "uncertainties": [
+    "exact scope of ityādi"
+   ],
+   "plain_english": "For householders and so forth."
+  },
+  {
+   "verse": 1708,
+   "rows": [
+    {
+     "surface": "vidhānam",
+     "gloss": "procedure",
+     "grounds": "noun vidhāna",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sāmpratam",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idānīm",
+     "gloss": "at-this-time",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is the procedure to be given?",
+   "premises": [
+    "procedure is the topic",
+    "sāmpratam means now",
+    "idānīm means at this time"
+   ],
+   "inference": "The procedure is to be given now, at this time.",
+   "uncertainties": [
+    "difference between sāmpratam and idānīm"
+   ],
+   "plain_english": "The procedure is now, at this time."
+  },
+  {
+   "verse": 1709,
+   "rows": [
+    {
+     "surface": "adhyātmavidyānipuṇaḥ",
+     "gloss": "skilled-in-spiritual-knowledge",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saṃnyāsāśramam",
+     "gloss": "renunciation-stage",
+     "grounds": "compound of saṃnyāsa and āśrama",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "āśrayet",
+     "gloss": "should-resort-to",
+     "grounds": "verb root āśri optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Who should resort to the renunciation stage?",
+   "premises": [
+    "the person is skilled in spiritual knowledge",
+    "the stage is renunciation",
+    "resorting to it is prescribed"
+   ],
+   "inference": "One skilled in spiritual knowledge should resort to the renunciation stage.",
+   "uncertainties": [
+    "whether this is mandatory or recommended"
+   ],
+   "plain_english": "One skilled in spiritual knowledge should resort to the renunciation stage."
+  },
+  {
+   "verse": 1710,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "asamarthān",
+     "gloss": "incapable",
+     "grounds": "adjective",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "bandhūṃśca",
+     "gloss": "and-relatives",
+     "grounds": "noun bandhu with ca",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "pravrajann",
+     "gloss": "renouncing",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ārakī",
+     "gloss": "hell-dweller",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb root bhū optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens to one who renounces while abandoning incapable relatives?",
+   "premises": [
+    "incapable relatives are abandoned",
+    "renunciation is undertaken",
+    "the result is becoming a hell-dweller"
+   ],
+   "inference": "One who renounces after abandoning incapable relatives becomes a hell-dweller.",
+   "uncertainties": [
+    "exact meaning of asamarthān"
+   ],
+   "plain_english": "Having abandoned incapable relatives and renounced, one becomes a hell-dweller."
+  },
+  {
+   "verse": 1711,
+   "rows": [
+    {
+     "surface": "kulāvadhūtasaṃskāre",
+     "gloss": "in-family-avadhuta-consecration",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pañcānām",
+     "gloss": "of-five",
+     "grounds": "numeral genitive",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "adhikāritā",
+     "gloss": "eligibility",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is stated about eligibility in family avadhuta consecration?",
+   "premises": [
+    "the context is family avadhuta consecration",
+    "five are involved",
+    "eligibility is the topic"
+   ],
+   "inference": "Eligibility of five is stated in family avadhuta consecration.",
+   "uncertainties": [
+    "who the five are"
+   ],
+   "plain_english": "In family avadhuta consecration, eligibility belongs to five."
+  },
+  {
+   "verse": 1712,
+   "rows": [
+    {
+     "surface": "nirmamo",
+     "gloss": "without-attachment",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nilayād",
+     "gloss": "from-abode",
+     "grounds": "noun nilaya ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "gacchen",
+     "gloss": "should-go",
+     "grounds": "verb root gam optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "niṣkāmo",
+     "gloss": "without-desire",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vijitendriyaḥ",
+     "gloss": "senses-conquered",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How should one go from the abode?",
+   "premises": [
+    "one is without attachment",
+    "one goes from the abode",
+    "one is without desire",
+    "one has conquered the senses"
+   ],
+   "inference": "One should go from the abode without attachment, desire, and with conquered senses.",
+   "uncertainties": [
+    "whether nilayād means home or dwelling"
+   ],
+   "plain_english": "Without attachment, one should go from the abode, without desire and with senses conquered."
+  }
+ ]
+}

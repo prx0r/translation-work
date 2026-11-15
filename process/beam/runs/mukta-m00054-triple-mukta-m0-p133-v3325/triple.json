@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral six",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣara",
+     "gloss": "syllable",
+     "grounds": "syllable unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "placement",
+     "grounds": "ritual placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samāhita",
+     "gloss": "composed",
+     "grounds": "composed or settled",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "self or soul",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śaivena",
+     "gloss": "with-śaiva",
+     "grounds": "instrumental with Śaiva",
+     "morph": "adj.instr.sg.m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative of kṛ",
+     "morph": "v.3.sg.act-opt.root-kṛ"
+    },
+    {
+     "surface": "kavacena",
+     "gloss": "with-armor",
+     "grounds": "instrumental with armor",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "rakṣām",
+     "gloss": "protection",
+     "grounds": "protection or safeguard",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "How should a composed self perform protection using Śaiva armor and six-syllable nyāsa?",
+   "premises": [
+    "self is composed with six-syllable nyāsa",
+    "protection is made with Śaiva armor",
+    "kuryāt indicates ritual obligation"
+   ],
+   "inference": "The verse prescribes protective ritual combining six-syllable nyāsa and Śaiva kavaca.",
+   "uncertainties": [
+    "exact nyāsa placement and armor mantra not specified in this verse"
+   ],
+   "plain_english": "The self, composed through six-syllable nyāsa, should make protection with the Śaiva armor."
+  }
+ ]
+}

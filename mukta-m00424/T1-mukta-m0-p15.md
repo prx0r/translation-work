@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[of-aghora](aghorasya) [parts](kalāḥ) [and](ca) [eight](aṣṭau) [of-vāmadeva](vāmadeva) [thirteen](trayodaśa)
+[of-aghoras](aghorasya) [kalas](kalāś) [and](ca) [eight](aṣṭau) [vamadeva](vāmadeva) [thirteen](trayodaśa)
 
 ## mukta-m0-p15-v352
-[with-parts](kalābhiḥ) [and](tu) [part+power](kalā+śakti) [placement](nyāsaṃ) [i-shall-tell](vakṣye) [in-order](kramāt) [listen](śṛṇu)
+[by-kalas](kalābhistu) [kalasakti](kalāśakti) [nyasa](nyāsaṃ) [will-say](vakṣye) [in-order](kramāc) [hear](chṛṇu)
 
 ## mukta-m0-p15-v353
-[jvālinī](jvālinī) [and-so-on](iti) [parts](kalāḥ) [five](pañca) [in-order](kramāt) [these](etāḥ) [one-should-place](pravinyaset)
+[jvalini](jvālinīti) [thus](iti) [kalas](kalāḥ) [five](pañca) [in-order](kramādetāḥ) [these](etāḥ) [place](pravinyaset)
 
 ## mukta-m0-p15-v354
-[above](ūrdhvaṃ) [and](ca) [head](mūrdhva) [and](ca) [īśāna](īśānaṃ) [place](sthānaṃ) [in-five](pañcasu) [one-should-place](vinyaset)
+[upward](ūrdhvaṃ) [and](ca) [murdhvasishana](mūrdhvasīśānaṃ) [place](sthānaṃ) [in-five](pañcasu) [place](vinyaset)
 
 ## mukta-m0-p15-v355
-[these](etāḥ) [puruṣa+power](pūruṣa+śaktiḥ) [and](ca) [in-four+faces](catur+vaktreṣu) [one-should-place](vinyaset)
+[these](etāḥ) [purusha-sakti](pūruṣaśaktiśca) [and](ca) [in-four-faces](caturvaktreṣu) [place](vinyaset)
 
 ## mukta-m0-p15-v356
-[diti](ditiḥ) [ghaṭā](ghaṭā) [kṣayā](kṣayā) [aniṣṭhā](aniṣṭhā) [karmā](karmā) [and-so-on](yādi) [jvarā](jvarā) [then](tathā)
+[ditirghata](ditirghaṭā) [decay-unfavorable](kṣayāniṣṭhā) [karma-adi](karmāyādi) [fever-and-so](jvarātathā)
 
 ## mukta-m0-p15-v357
-[in-heart](hṛdaye) [and](ca) [indeed](eva) [in-throat](kaṇṭhe) [and](ca) [on-shoulder+pair](skandha+yugme) [likewise](tathaiva) [and](ca)
+[in-heart](hṛdaye) [and-indeed](caiva) [in-throat](kaṇṭhe) [and](ca) [in-shoulder-pair](skandhayugme) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p15-v358
-[on-chest](urasi) [thus](iti) [with-eight+places](aṣṭabhiḥ+sthānaiḥ) [will-be-told](vakṣyate) [and](ca) [as](yathā) [in-order](kramam)
+[in-chest](urasītyaṣṭabhisthānairvakṣyate) [thus](ityaṣṭabhisthānairvakṣyate) [eight-places](aṣṭabhisthānairvakṣyate) [will-be-said](vakṣyate) [and](ca) [in-order](yathākramam)
 
 ## mukta-m0-p15-v359
-[to-be-done](kāryā) [vṛddhi](vṛddhiḥ) [kriyā](kriyā) [dhātrī](dhātrī) [bhrāmaṇī](bhrāmaṇī) [and](ca) [likewise](tathā) [again](punaḥ)
+[to-be-done](kāryā) [growth](vṛddhiḥ) [kriyadhatri](kriyādhātrī) [revolving](bhrāmaṇī) [and](ca) [likewise](tathā) [again](punaḥ)
 
 ## mukta-m0-p15-v360
-[in-genitals](meḍhre) [in-anus](gude) [and](ca) [in-thighs](ūrvoḥ) [and](ca) [in-knees](jānunoḥ) [and](ca) [indeed](eva) [in-shanks](jaṅghayoḥ)
+[in-genitals](meḍhre) [in-anus](gude) [and](ca) [in-thighs](ūrvośca) [and](ca) [in-knees](jānunoścaiva) [indeed](caiva) [in-calves](jaṅghayoḥ)
 
 ## mukta-m0-p15-v361
-[siddhi](siddhi) [ṛddhi](ṛddhiḥ) [dviti](dvitiḥ) [and](ca) [indeed](eva) [lakṣmī](lakṣmī) [medhā](medhā) [likewise](tathaiva) [and](ca)
+[siddhi](siddhi) [rddhi-two](ṛddhidvitiścaiva) [indeed](caiva) [lakshmi-medha](lakṣmīmedhā) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p15-v362
-[in-feet](pādayoḥ) [in-hands](karayoḥ) [and](ca) [indeed](eva) [in-palms](hastayoḥ) [in-armpits](kakṣayoḥ) [one-should-place](nyaset)
+[in-feet](pādayoḥ) [in-hands](karayoścaiva) [indeed](caiva) [in-hands](hastayoḥ) [in-armpits](kakṣayo) [place](nyaset)
 
 ## mukta-m0-p15-v363
-[after-that](tadante) [piṇḍa+mantras](piṇḍa+mantrāṇi) [in-those+respective+places](tattat+sthāneṣu) [one-should-place](vinyaset)
+[thereafter](tadante) [pinda-mantras](piṇḍamantrāṇi) [in-respective-places](tattatsthāneṣu) [place](vinyaset)
 
 ## mukta-m0-p15-v364
-[aghora](aghoraṃ) [in-heart](hṛdaye) [having-placed](nyasya) [in-secret-place](guhye) [vāma](vāmaṃ) [one-should-assign](prakalpayet)
+[aghoras](aghoram) [in-heart-nyasa](hṛdayenyasya) [in-secret](guhye) [vama](vāmaṃ) [arrange](prakalpayet)
 
 ## mukta-m0-p15-v365
-[heart](hṛdayaṃ) [in-heart](hṛdaye) [having-placed](nyasya) [crest](śikhāḥ) [on-head](śirasi) [one-should-place](vinyaset)
+[heart](hṛdayaṃ) [in-heart-nyasa](hṛdayenyasya) [sikhas](śikhāśśirasi) [on-head](śirasi) [place](vinyaset)
 
 ## mukta-m0-p15-v366
-[in-eyes](netreṣu) [with-eye+mantra](netra+mantreṇa) [ten+direction+binding](daśa+dig+bandhanaṃ) [is-remembered](smṛtam)
+[in-eyes](netreṣu) [by-eye-mantra](netramantreṇa) [ten-direction-binding](daśadigbandhanaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p15-v367
-[in-ākāśa](ākāśa) [seed+group](bīja+varge) [and](tu) [six+syllable](ṣaḍ+ākṣara) [excluded](vivarjite)
+[akasha](ākāśa) [bija-group](bījavarge) [but](tu) [six-syllable](ṣaḍākṣara) [excluded](vivarjite)
 
 ## mukta-m0-p15-v368
-[aghora](aghoraṃ) [fifth](pañcamaṃ) [declared](proktaṃ) [nara](naraṃ) [eleventh](ekādaśaṃ) [should-be](bhavet)
+[aghoras](aghoram) [fifth](pañcamaṃ) [said](proktaṃ) [nara-eleventh](naramekādaśaṃ) [be](bhavet)
 
 ## mukta-m0-p15-v369
-[second](dvitīyaṃ) [heart](hṛdayaṃ) [declared](proktaṃ) [fourth](caturthaṃ) [and](tu) [head](śiraḥ) [should-be](bhavet)
+[second](dvitīyaṃ) [heart](hṛdayaṃ) [said](proktaṃ) [fourth](caturthaṃ) [but](tu) [head](śiro) [be](bhavet)
 
 ## mukta-m0-p15-v370
-[eye](netraṃ) [fifteenth](pañcadaśaṃ) [declared](proktaṃ) [weapon](astraṃ) [sixteenth](ṣoḍaśakaṃ) [likewise](tathā)
+[eye](netraṃ) [fifteenth](pañcadaśaṃ) [said](proktaṃ) [astra](astraṃ) [sixteenth](ṣoḍaśakaṃ) [likewise](tathā)
 
 ## mukta-m0-p15-v371
-[this](idam) [also](api) [for-limb+protection](aṅga+rakṣā+arthaṃ) [one-should-place](vinyase) [with-limbs](**(?)ṣaṃgakam)
+[this-also](idamapyaṅgarakṣārthaṃ) [limb-protection](aṅgarakṣārthaṃ) [purpose](arthaṃ) [place](vinyase**(?)ṣaṃgakam)
 
 ## mukta-m0-p15-v372
-[white](śveta) [yellow](pītaṃ) [and](ca) [red](raktaṃ) [and](ca) [black](kṛṣṇaṃ) [lightning](vidyut) [and](ca) [saffron](kuṅkumam)
+[white-yellow](śvetapītaṃ) [and](ca) [red](raktaṃ) [and](ca) [black](kṛṣṇaṃ) [lightning](vidyut) [and](ca) [kumkuma](kuṅkumam)
 
 ## mukta-m0-p15-v373
-[skull](kapālaṃ) [trident](śūla) [boon-giving](varadaṃ) [axe](paraśuṃ) [by-hands](pāṇibhiḥ) [held](ghṛtam)
+[skull](kapālaṃ) [trident-boon](śūlavaradaṃ) [axe](paraśuṃ) [in-hands](pāṇibhirghṛtam) [held](ghṛtam)
 
 ## mukta-m0-p15-v374
-[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense](dhūpaṃ) [and](ca) [with-color+mantra](varṇa+mantreṇa) [one-should-offer](dāpayet)
+[sandal](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense](dhūpaṃ) [and](ca) [by-color-mantra](varṇamantreṇa) [offer](dāpayet)
 
 ## mukta-m0-p15-v375
-[piṇḍa+mantra](piṇḍa+mantraṃ) [one-should-recite](japet) [afterwards](paścāt) [of-seeds](bījānāṃ) [cause](kāraṇaṃ) [listen](śṛṇu)
+[pinda-mantra](piṇḍamantraṃ) [chant](japet) [afterward](paścāt) [of-bijas](bījānāṃ) [reason](kāraṇaṃ) [hear](śṛṇu)

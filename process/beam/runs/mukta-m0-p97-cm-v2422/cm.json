@@ -3,19 +3,34 @@
  "verse": 2422,
  "rows": [
   {
-   "lemma": "pūrvoktakramayogena",
-   "morph": "noun.instr.sg.m",
+   "lemma": "yathā+",
+   "morph": "compound",
+   "grounds": "compound member"
+  },
+  {
+   "lemma": "śakti+",
+   "morph": "compound",
+   "grounds": "compound member"
+  },
+  {
+   "lemma": "upacāreṇa",
+   "morph": "instr.sg.m",
    "grounds": "instrumental means"
   },
   {
-   "lemma": "akṣamālāṃ",
-   "morph": "noun.acc.sg.f",
-   "grounds": "accusative object"
+   "lemma": "vighneśaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object worshipped"
   },
   {
-   "lemma": "vidhānataḥ",
-   "morph": "(indecl.)",
-   "grounds": "adverb of manner"
+   "lemma": "pūjayet",
+   "morph": "3.sg.opt.act",
+   "grounds": "root pūj"
+  },
+  {
+   "lemma": "guruḥ",
+   "morph": "m.nom.sg",
+   "grounds": "agent"
   }
  ]
 }

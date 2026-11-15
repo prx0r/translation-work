@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[pūtanā](pūtanā) [yellow+flame](pītaśikhinaḥ) [la-syllable+denoter](lakāravācakaḥ) [remembered](smṛtaḥ) [la](la)
+[putana](pūtanā) [yellow-crested](pītaśikhinaḥ) [l-syllable-denoting](lakāravācakaḥ) [remembered](smṛtaḥ) [la](la)
 
 ## mukta-m0-p18-v427
-[varuṇa](varuṇaḥ) [ocean](sāgaraḥ) [and](ca) [indeed](eva) [world](jagad) [speech](bhāṣā) [pure](śuciḥ) [and](tathā) [va](va)
+[twelve](12) [varuna](varuṇaḥ) [ocean-and-also](sāgaraścaiva) [world](jagad) [speech](bhāṣā) [pure-thus](śucistathā) [va](va)
 
 ## mukta-m0-p18-v428
-[distinction](viśeṣaḥ) [desire+form](kāmarūpī) [and](ca) [happiness+giver](saukhyadātā) [pure](śuciḥ) [and](tathā) [śa](śa)
+[distinction](viśeṣaḥ) [kamarupa](kāmarūpī) [and](ca) [happiness-giver](saukhyadātā) [pure-thus](śucistathā) [sha](śa)
 
 ## mukta-m0-p18-v429
-[pendant+belly](lambodaraḥ) [belly](jaṭharaḥ) [and](ca) [son-of-vināyakī](vaināyakaḥ) [yama](yamaḥ) [and](tathā) [ṣa](ṣa)
+[pot-bellied](lambodaro) [belly](jaṭharaśca) [ganesha](vaināyako) [yama-thus](yamastathā) [sha](ṣa)
 
 ## mukta-m0-p18-v430
-[world+seed](jagadbījaṃ) [water+named](jalākhyaḥ) [and](ca) [supreme+self](paramātmā) [immortal](amṛtaḥ) [remembered](smṛtaḥ) [sa](sa)
+[twenty](20) [world-seed](jagadbījaṃ) [water-named](jalākhyaśca) [supreme-soul](paramātmā'mṛtaḥ) [remembered](smṛtaḥ) [sa](sa)
 
 ## mukta-m0-p18-v431
-[serpent+world](nāgalokaḥ) [stainless+named](amalākhyaḥ) [and](ca) [śiva](śivaḥ) [peace+giver+named](śāntidasaṃjñakaḥ) [ha](ha)
+[one](1) [naga-world](nāgaloko'malākhyaśca) [shiva](śivaḥ) [peace-giving-named](śāntidasaṃjñakaḥ) [ha](ha)
 
 ## mukta-m0-p18-v432
-[destruction](kṣayaḥ) [dissolution](saṃvartakaḥ) [declared](proktaḥ) [all+knowing](sarvajñaḥ) [field+protector](kṣetrapālakaḥ) [kṣa](kṣa)
+[four](4) [destruction](kṣayaḥ) [deluge](saṃvartakaḥ) [declared](proktaḥ) [all-knowing](sarvajñaḥ) [field-protector](kṣetrapālakaḥ) [ksha](kṣa)
 
 ## mukta-m0-p18-v433
-[mātṛkā+syllable+lexicon](mātṛkārṇa-nighaṇṭuṃ) [which](yaṃ) [I-shall-declare](pravakṣye) [child+intellect+for](bālabuddhaye)
+[matrika-syllable-lexicon](mātṛkārṇa-nighaṇṭuṃ) [which](yaṃ) [will-declare](pravakṣye) [child-intellect](bālabuddhaye)
 
 ## mukta-m0-p18-v434
-[threefold](trivṛd) [brahmā](brahmā) [three+mora](trimātraḥ) [and](ca) [words](śabdāḥ) [praṇava+denoters](praṇavavācakāḥ)
+[threefold](trivṛd) [brahma](brahmā) [three-matra](trimātraśca) [sounds](śabdāḥ) [pranava-denoting](praṇavavācakāḥ)
 
 ## mukta-m0-p18-v435
-[obstacle+lord](vighneśvaraḥ) [cessation](nivṛttiḥ) [and](ca) [śrīkaṇṭha](śrīkaṇṭhaḥ) [keśava](keśavaḥ) [light](laghuḥ)
+[ganesha](vighneśvaro) [return](nivṛttiśca) [shrikantha](śrīkaṇṭhaḥ) [kesava](keśavo) [light](laghuḥ)
 
 ## mukta-m0-p18-v436
-[nārāyaṇa](nārāyaṇaḥ) [obstacle+king](vighnarājaḥ) [establishment](pratiṣṭhā) [and](ca) [second](dvitīyakaḥ)
+[narayana](nārāyaṇo) [vighnaraja](vighnarājaḥ) [installation](pratiṣṭhā) [ca](ca) [second](dvitīyakaḥ)
 
 ## mukta-m0-p18-v437
-[gandharva](gandharvaḥ) [pāñcajanya](pāñcajanyaḥ) [but](tu) [i-syllable](ikāraḥ) [but](tu) [sacrifice+sprout](makhāṅkuraḥ)
+[gandharva](gandharvaḥ) [panchajanya](pāñcajanyastu) [i-syllable](ikārastu) [sacrifice-sprout](makhāṅkuraḥ)
 
 ## mukta-m0-p18-v438
-[three+form](trimūrtiḥ) [dwarf+eye](vāmanayanaḥ) [fire](vahniḥ) [ī-syllable](īkārakaḥ) [remembered](smṛtaḥ)
+[trimurti](trimūrtirvāmanayano) [fire](vahnirīkārakaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p18-v439
-[elephant+goad](gajāṅkuśaḥ) [right+ear](dakṣakarṇaḥ) [round+eye](vṛttākṣiḥ) [lord-of-gods](amareśvaraḥ)
+[elephant-goad](gajāṅkuśo) [right-ear](dakṣakarṇo) [round-syllable](vṛttākṣiramareśvaraḥ)
 
 ## mukta-m0-p18-v440
-[lamp](dīpikā) [left+ear](vāmakarṇa) [indra+bow](indra-cāpāḥ) [sixth+vowel](ṣaṣṭhasvaraḥ) [remembered](smṛtaḥ)
+[four](4) [lamp](dīpikā) [left-ear-indra-bow](vāmakarṇendra-cāpāḥ) [sixth-tone](ṣaṣṭhasvaraḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p18-v441
-[weight+being](bhārabhūtiḥ) [long+faced](dīghamukhī) [right+nose](dakṣanāsaḥ) [trivikrama](trivikramaḥ)
+[bharabhuti](bhārabhūtirdīghamukhī) [right-nose](dakṣanāsastrivikramaḥ)
 
 ## mukta-m0-p18-v442
-[demon+mother](daityamātā) [guest+lord](atithīśaḥ) [and](ca) [ocean](vāridhi(ṇi?)r) [gaṇa+leader](gaṇanāyakaḥ)
+[eight](8) [daitya-mother](daityamātā'tithīśaśca) [water-boundary](vāridhi(ṇi?)) [group-leader](rgaṇanāyakaḥ)
 
 ## mukta-m0-p18-v443
-[three+veda+knower](trivedakaḥ) [and](ca) [left+half](vāmārdhaḥ) [all-pervading](vibhuḥ) [one+footed](ekāṅghrikaḥ) [lvu](lvu) [......](......)
+[three-veda](trivedakaśca) [left-half](vāmārdho) [vibhu](vibhurekāṅghriko) [lvu](lvu) [......](......)
 
 ## mukta-m0-p18-v444
-[pot+bellied-female](kuṇḍodarī) [hari+lord](hariśaḥ) [and](ca) [blue+footed](nīlāṅghriḥ) [and](ca) [kubera+eye](kubera-dṛk)
+[twelve](12) [kundodari](kuṇḍodarī) [hari-sha](hariśaśca) [blue-foot](nīlāṅghriśca) [kubera-eye](kubera-dṛk)
 
 ## mukta-m0-p18-v445
-[moving](caraḥ) [power](śaktiḥ) [desire+form](kāmarūpaḥ) [triangle](trikoṇa) [upper+lower](ūrdhvādharaḥ) [vulva](bhagam)
+[moving](caraḥ) [shakti](śaktiḥ) [kamarupa](kāmarūpaḥ) [triangle-up-down](trikoṇordhvādharo) [bhaga](bhagam)
 
 ## mukta-m0-p18-v446
-[speech+supporting-pair](vāgadharau) [element+lord](bhautikeśaḥ) [speech+lord](vāgīśaḥ) [tripura](tripuraḥ) [and](ca) [ai](ai)
+[sixteen](16) [vagadhara](vāgadharau) [bhautikesha](bhautikeśo) [vagisha](vāgīśastripuraśca) [ai](ai)
 
 ## mukta-m0-p18-v447
-[chariot](rathaḥ) [matted-hair](kapardī) [world](bhuvanaṃ) [mantra+lord](mantreśaḥ) [o-vowel](o-svaraḥ) [remembered](smṛtaḥ)
+[chariot](rathaḥ) [kapardi](kapardī) [world](bhuvanaṃ) [mantra-lord](mantreśa) [o-syllable](o-svaraḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p18-v448
-[akrūra](akrūraḥ) [stability+named](sthiti-saṃjñaḥ) [and](ca) [bindu+moon](bindu-candrau) [and](ca) [aṃ-vowel](aṃ-svaraḥ)
+[akrura](akrūraḥ) [status-named](sthiti-saṃjñaśca) [bindu-moon](bindu-candrau) [ca](ca) [am-syllable](aṃ-svaraḥ)
 
 ## mukta-m0-p18-v449
-[full+nectar](pūrṇāmṛtā) [and](tathā) [endless](anantā) [aḥ-vowel](aḥ-svaraḥ) [but](tu) [bull+bannered](vṛṣadhvajaḥ)
+[eight](8) [full-nectar](pūrṇāmṛtā) [thus-infinite](tathānantā) [ah-syllable](aḥ-svarastu) [bull-banner](vṛṣadhvajaḥ)
 
 ## mukta-m0-p18-v450
-[right+arm+root+gone](dakṣadormūlagaḥ) [discus-bearer](cakrī) [kāmākha](kāmākhaḥ) [gaṇa+leader](gaṇanāyakaḥ)
+[right-arm-root](dakṣadormūlagaścakrī) [kamakha](kāmākho) [group-leader](gaṇanāyakaḥ)

@@ -1,0 +1,344 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2413,
+   "rows": [
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaula-practitioner",
+     "grounds": "subject of the verse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "modifies sacred place",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-place",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "inferential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative worship verb",
+     "morph": "3.sg.act.opt-arc"
+    }
+   ],
+   "question": "Why should a kaula practitioner be worshipped as the supreme sacred place?",
+   "premises": [
+    "kaula practitioner is supreme sacred place",
+    "therefore kaula should always be worshipped"
+   ],
+   "inference": "The practitioner himself becomes the highest tirtha, so constant worship of kaula is enjoined.",
+   "uncertainties": [
+    "exact ritual referent of kaula worship remains context-dependent"
+   ],
+   "plain_english": "A kaula practitioner is the supreme sacred place, therefore one should always worship the kaula."
+  },
+  {
+   "verse": 2414,
+   "rows": [
+    {
+     "surface": "vasanti",
+     "gloss": "dwell",
+     "grounds": "present verb",
+     "morph": "3.pl.act.pres-vas"
+    },
+    {
+     "surface": "kaulike",
+     "gloss": "in-kaula",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt-as"
+    },
+    {
+     "surface": "kaulikārcanāt",
+     "gloss": "from-kaula-worship",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What benefit or result is absent for one who dwells in a kaula body through kaula worship?",
+   "premises": [
+    "beings dwell in a kaula body",
+    "kaula worship is the source of benefit"
+   ],
+   "inference": "The verse implies that nothing desirable is lacking when kaula worship is performed in the kaula body.",
+   "uncertainties": [
+    "whether the question is rhetorical or literal"
+   ],
+   "plain_english": "What would not be present for those dwelling in a kaula body through kaula worship?"
+  },
+  {
+   "verse": 2415,
+   "rows": [
+    {
+     "surface": "dhanyo",
+     "gloss": "blessed",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mānyaḥ",
+     "gloss": "honorable",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṇya+",
+     "gloss": "meritorious",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tamaḥ",
+     "gloss": "most",
+     "grounds": "superlative member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deśaḥ",
+     "gloss": "place",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prārthate",
+     "gloss": "is-sought",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass.pres-prārth"
+    },
+    {
+     "surface": "suraiḥ",
+     "gloss": "by-gods",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Why is the kaula place called blessed, honorable, and most meritorious, sought by gods?",
+   "premises": [
+    "that place is blessed and honorable",
+    "that place is most meritorious",
+    "gods seek that place"
+   ],
+   "inference": "The kaula place is exalted above ordinary places and desired even by divine beings.",
+   "uncertainties": [
+    "whether deśa refers to physical place or practitioner"
+   ],
+   "plain_english": "That place is blessed, honorable, and most meritorious, and is sought by the gods."
+  },
+  {
+   "verse": 2416,
+   "rows": [
+    {
+     "surface": "puṇya+",
+     "gloss": "merit",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāpa+",
+     "gloss": "sin",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vihīnasya",
+     "gloss": "devoid",
+     "grounds": "genitive adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prabhāvaṃ",
+     "gloss": "power",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "present verb",
+     "morph": "3.sg.act.pres-vid"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Who on earth knows the power of one devoid of merit and sin?",
+   "premises": [
+    "one is devoid of merit and sin",
+    "such a one has power",
+    "who knows that power on earth"
+   ],
+   "inference": "The verse highlights the rarity and transcendence of the power belonging to one beyond merit and sin.",
+   "uncertainties": [
+    "whether vihīna means free from or lacking both"
+   ],
+   "plain_english": "Who on earth knows the power of one devoid of merit and sin?"
+  },
+  {
+   "verse": 2417,
+   "rows": [
+    {
+     "surface": "śikṣayan",
+     "gloss": "teaching",
+     "grounds": "participle",
+     "morph": "m.nom.sg.part-pres-śikṣ"
+    },
+    {
+     "surface": "loka+",
+     "gloss": "worldly",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yātrāñ+",
+     "gloss": "conduct",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulo",
+     "gloss": "kaula",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viharati",
+     "gloss": "wanders",
+     "grounds": "present verb",
+     "morph": "3.sg.act.pres-vihar"
+    },
+    {
+     "surface": "kṣitau",
+     "gloss": "on-earth",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "How does the kaula wander on earth while teaching worldly conduct?",
+   "premises": [
+    "kaula teaches worldly conduct",
+    "kaula wanders on earth"
+   ],
+   "inference": "The kaula remains active in the world, instructing ordinary conduct while moving through earthly life.",
+   "uncertainties": [
+    "whether lokayātrā means worldly life or ritual conduct"
+   ],
+   "plain_english": "Teaching worldly conduct, the kaula wanders on earth."
+  },
+  {
+   "verse": 2418,
+   "rows": [
+    {
+     "surface": "vidhānam",
+     "gloss": "procedure",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhiṣekasya",
+     "gloss": "of-consecration",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "out-of-compassion",
+     "grounds": "instrumental noun",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śrāvayasva",
+     "gloss": "cause-to-hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp-śru"
+    },
+    {
+     "surface": "mām",
+     "gloss": "to-me",
+     "grounds": "accusative pronoun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What consecration procedure should be compassionately taught to the seeker?",
+   "premises": [
+    "consecration has a procedure",
+    "the speaker asks to hear it",
+    "compassion motivates the teaching"
+   ],
+   "inference": "The verse requests compassionate instruction in the rite of consecration.",
+   "uncertainties": [
+    "whether abhiṣeka refers to initiation or ritual bathing"
+   ],
+   "plain_english": "Out of compassion, cause me to hear the procedure of consecration."
+  }
+ ]
+}

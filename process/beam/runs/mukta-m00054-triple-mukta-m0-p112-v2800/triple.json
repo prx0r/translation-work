@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "dūṣakadveṣanakarī",
+     "gloss": "corrupter-hatred-causing",
+     "grounds": "compound naming one who causes hatred toward corrupters",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dāhikā",
+     "gloss": "burning",
+     "grounds": "feminine adjective denoting burning",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dahanātmikā",
+     "gloss": "burning-nature",
+     "grounds": "compound of burning and nature",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which destructive powers does this goddess exercise against corrupters?",
+   "premises": [
+    "The goddess causes hatred toward corrupters.",
+    "She is burning.",
+    "Her nature is burning."
+   ],
+   "inference": "Therefore she is a destructive goddess who consumes corrupters through hatred and fire.",
+   "uncertainties": [
+    "The exact syntactic role of the three adjectives is not specified by the token list alone."
+   ],
+   "plain_english": "She causes hatred toward corrupters, she burns, and her nature is burning."
+  }
+ ]
+}

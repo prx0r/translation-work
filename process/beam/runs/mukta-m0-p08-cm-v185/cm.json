@@ -3,19 +3,34 @@
  "verse": 185,
  "rows": [
   {
-   "lemma": "ante'po",
+   "lemma": "sarvasmin",
+   "morph": "pron.loc.sg",
+   "grounds": "locative"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "fused sandhi form"
+   "grounds": "particle"
   },
   {
-   "lemma": "bhairavasyāyaṃ",
-   "morph": "n.nom.sg.m",
+   "lemma": "mantre",
+   "morph": "noun.m.loc.sg",
+   "grounds": "locative"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "particle"
+  },
+  {
+   "lemma": "nādaḥ",
+   "morph": "noun.m.nom.sg",
+   "grounds": "noun"
+  },
+  {
+   "lemma": "caitanya+rūpakaḥ",
+   "morph": "adj.m.nom.sg",
    "grounds": "compound"
-  },
-  {
-   "lemma": "manuraṣṭādaśākṣaraḥ",
-   "morph": "n.nom.sg.m",
-   "grounds": "compound numeral"
   }
  ]
 }

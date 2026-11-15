@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[previously-mentioned](pūrvokta) [nine-gems](nava+ratnaṃ) [indeed](tu) [thirty-pots](triṃśat+kalaśam) [only](eva) [and](ca)
+[previously+spoken](pūrvokta) [nine+gems](navaratnaṃ) [but](tu) [thirty+pots+indeed](triṃśatkalaśameva) [and](ca)
 
 ## mukta-m0-p68-v1677
-[pots](kalaśāni) [should-be](bhavet) [sixty](ṣaṣṭhī) [one-should-worship](vārcayet) [brahma-tantrikas](brahma+tantrakān)
+[pots](kalaśāni) [become](bhavet) [sixty](ṣaṣṭhī) [worship](vārcayed) [brahma+tantra+ones](brahmatantrakān)
 
 ## mukta-m0-p68-v1678
-[orpiment](haritālaṃ) [and](tathā) [realgar](āmārjam) [collyrium](añjanaṃ) [and](ca) [red-arsenic](manaśśilā)
+[orpiment](haritālaṃ) [and](tathā) [collyrium](āmārjamañjanaṃ) [realgar](ca) [manaśśilā](manaśśilā)
 
 ## mukta-m0-p68-v1679
-[with-thirty-four](catustriṃśat) [pots](kalaśaiḥ) [indeed](tu) [seven-metals](sapta+dhātvaṃ) [again](punā) [together](sahaḥ)
+[thirty+four](catustriṃśat) [pots+with](kalaśaistu) [seven+metals](saptadhātvaṃ) [again+with](punāsahaḥ)
 
 ## mukta-m0-p68-v1680
-[one-hundred-eight](aṣṭottaraṃ) [and](tathā) [sixty](ṣaṣṭhī) [pots](kalaśāni) [one-should-worship](prapūjayet)
+[eighty+one](aṣṭottaraṃ) [and](tathā) [sixty](ṣaṣṭhī) [pots](kalaśāni) [worship](prapūjayet)
 
 ## mukta-m0-p68-v1681
-[five-products-of-cow](pañca+gavyaṃ) [kuśa-grass-tip](kuśa+agraṃ) [and](ca) [five-enclosure-sequence](pañca+āvaraṇa+kramaṃ) [hear](śṛṇu)
+[five+cow+products](pañcagavyaṃ) [kuśa+tip](kuśāgraṃ) [and](ca) [five+covering+order](pañcāvaraṇakramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p68-v1682
-[with-five-products-of-cow-etc.](pañca+gavya+ādibhiḥ) [joined](yuktaṃ) [and](ca) [thirty-eight](aṣṭatriṃśat) [should-be](bhavet) [here](iha)
+[with+five+cow+products+etc](pañcagavyādibhiryuktaṃ) [thirty+eight](cāṣṭatriṃśadbhavediha)
 
 ## mukta-m0-p68-v1683
-[as-much](yāvat) [number](saṅkhyā) [may-be](bhavet) [those](tāni) [each](pratyekam) [northern-water](na+uttara+udakam)
+[as+many](yāvatsaṅkhyā) [become](bhavettāni) [each](pratyekannottarodakam)
 
 ## mukta-m0-p68-v1684
-[with-heart-mantra](hṛt+mantrān) [pots](kalaśān) [all](sarvān) [one-should-worship](pūjayet) [indeed](tu) [especially](viśeṣataḥ)
+[heart+mantras](hṛnmantrān) [pots](kalaśān) [all](sarvān) [worship](pūjayettu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p68-v1685
-[east-pointed](prāk+agraṃ) [ten-threads](daśa+sūtraṃ) [should-be](syāt) [north-pointed](udak+agraṃ) [likewise](tathā) [indeed](eva) [and](ca)
+[east+pointed](prāgagraṃ) [ten+thread](daśasūtraṃ) [be](syāt) [north+pointed](udagagraṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p68-v1686
-[with-thirty-six](ṣaṭtriṃśat) [threads-joined](sūtra+saṃyuktaṃ) [with-threads](sūtraiḥ) [covered](samāvṛtaṃ) [one-should-place](nyaset)
+[thirty+six](ṣaṭtriṃśat) [thread+joined](sūtrasaṃyuktaṃ) [threads](sūtrāssamāvṛtaṃ) [place](nyaset)
 
 ## mukta-m0-p68-v1687
-[in-middle](madhye) [śiva-place](śiva+padaṃ) [should-be-taken](grāhya) [nine](navaṃ) [there](tatra) [indeed](eva) [one-should-arrange](cārayet)
+[middle](madhye) [shiva+foot](śivapadaṃ) [take](grāhya) [new](navaṃ) [there+indeed](tatraiva) [move](cārayet)
 
 ## mukta-m0-p68-v1688
-[pots](kalaśāni) [as-stated](tathā+uktāni) [thousands](sahasrāṇi) [ten-hundreds](daśa+aṃśate)
+[pots](kalaśāni) [so+spoken](tathoktāni) [thousands](sahasrāṇi) [ten+percent](daśāṃśate)
 
 ## mukta-m0-p68-v1689
-[in-first](prathame) [and](ca) [indeed](eva) [seeds](bījāni) [in-red](lohinyā) [indeed](eva) [second](dvitīyakam)
+[first](prathame) [and+indeed](caiva) [seeds](bījāni) [red+indeed](lohinyaiva) [second](dvitīyakam)
 
 ## mukta-m0-p68-v1690
-[in-fifth](pañcame) [five-products-of-cow](pañca+gavyāni) [in-sixth](ṣaṣṭhe) [and](ca) [indeed](eva) [in-fruit-water](phala+udake)
+[fifth](pañcame) [five+cow+products](pañcagavyāni) [sixth](ṣaṣṭhe) [and+indeed](caiva) [fruit+water](phalodake)
 
 ## mukta-m0-p68-v1691
-[clay-water](mṛd+ambhaḥ) [and](ca) [in-eighth](aṣṭame) [indeed](eva) [and](ca) [unbroken-rice-water](akṣata+ambhaḥ) [thereafter](tataḥ+param)
+[earth+water](mṛdāmbhaścāṣṭamevaica) [grain+water](akṣatāmbhastataḥparam)
 
 ## mukta-m0-p68-v1692
-[from-gems-etc.](ratna+ādi) [up-to-five-products-of-cow](pañca+gavya+antaṃ) [as-before](pūrva+vat) [one-should-place](sthāpayet) [auspicious](śubham)
+[gems+etc](ratnādi) [five+cow+products+end](pañcagavyāntaṃ) [as+before](pūrvavat) [place+auspicious](sthāpayecchubham)
 
 ## mukta-m0-p68-v1693
-[plantain](kadalī) [bilva](bilva) [mango](cūtaṃ) [and](ca) [citron](mātulaṅgaṃ) [and](ca) [pomegranate](ḍāḍimam)
+[banana](kadalī) [bilva](bilvacūtaṃ) [mango](ca) [citron](mātulaṅgaṃ) [and](ca) [pomegranate](ḍāḍimam)
 
 ## mukta-m0-p68-v1694
-[flavored-waters](rāla+udakāni) [these](etāni) [in-different-rites](bhinaceṣṭā) [is-prescribed](abhidhīyate)
+[red+water](rālodakāni) [these](etāni) [different+rites](bhinaceṣṭābhidhīyate)
 
 ## mukta-m0-p68-v1695
-[pots](kalaśāni) [and](tathā) [lamp](dīpaṃ) [twenty-four](caturviṃśāt) [and](ca) [archways](toraṇam)
+[pots](kalaśāni) [and](tathā) [lamp](dīpaṃ) [twenty+four](caturviṃśāccatoraṇam)
 
 ## mukta-m0-p68-v1696
-[fragrances-etc.](gandha+ādi) [herbs](auṣadhayaḥ) [and](ca) [indeed](eva) [seven-enclosures](sapta+āvaraṇakaṃ) [auspicious](śubham)
+[fragrance+etc+herbs](gandhādyauṣadhayaścaiva) [seven+covering](saptāvaraṇakaṃ) [auspicious](śubham)
 
 ## mukta-m0-p68-v1697
-[sadābhadra](sadābhadraṃ) [and](ca) [śrīdevī](śrī+devī) [viṣṇukrāntā](viṣṇu+krānta) [śatārikā](śatārikam)
+[always+auspicious](sadābhadraṃ) [and](ca) [shri+goddess](śrīdevī) [vishnu+striding](viṣṇukrānta) [hundred+enemy](śatārikam)
 
 ## mukta-m0-p68-v1698
-[that](tāvat) [in-numbers](saṅkhyāsu) [should-be-known](vijñeyā) [placement](upasthānaṃ) [especially](viśeṣataḥ)
+[so+many](tāvat) [numbers](saṅkhyāsu) [know](vijñeyā) [attendance](upasthānaṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p68-v1699
-[of-herbs](oṣadhīnāṃ) [of-creepers](latāyāṃ) [and](ca) [of-trees](vṛkṣāṇāṃ) [and](ca) [fruits](phalāni) [and](ca)
+[herbs](oṣadhīnāṃ) [creeper](latāyāṃ) [and](ca) [trees](vṛkṣāṇāṃ) [and](ca) [fruits](phalāni) [and](ca)
 
 ## mukta-m0-p68-v1700
-[seventh-enclosure](saptama+āvaraṇaṃ) [declared](proktaṃ) [eighth-enclosure](aṣṭama+āvaraṇaṃ) [hear](śṛṇu)
+[seventh+covering](saptamāvaraṇaṃ) [spoken](proktaṃ) [eighth+covering](aṣṭamāvaraṇaṃ) [hear](śṛṇu)

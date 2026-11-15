@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[in-river](nadyāṃ) [in-tank](taṭāke) [in-well](kūpe) [or](vā) [purification](śaucaṃ) [having-done](kṛtvā) [according-to-rule](yathāvidhi)
+[river-loc](nadyāṃ) [pond-loc](taṭāke) [well-loc](kūpe) [or](vā) [purification-acc](śaucaṃ) [doing-ger](kṛtvā) [as-rule](yathāvidhi)
 
 ## mukta-m0-p06-v127
-[with-astra+mantra](astramantreṇa) [nose+mouth](nāsāsya) [teeth+purification](dantaśuddhiṃ) [one-should-perform](samācaret)
+[weapon-mantra-instr](astramantreṇa) [nose-mouth-acc](nāsāsya) [tooth-purity-acc](dantaśuddhiṃ) [perform](samācaret)
 
 ## mukta-m0-p06-v128
-[impurity+bath](malasnānaṃ) [first](purā) [having-done](kṛtvā) [mantra+bath+procedure](mantrasnānavidhiṃ) [hear](śṛṇu)
+[impurity-bath-acc](malasnānaṃ) [before](purā) [doing-ger](kṛtvā) [mantra-bath-rite-acc](mantrasnānavidhiṃ) [hear](śṛṇu)
 
 ## mukta-m0-p06-v129
-[watery](vāruṇaṃ) [fiery](taijasaṃ) [divine](divyaṃ) [airy](vāyavyaṃ) [mental](mānasaṃ) [likewise](tathā)
+[waterly](vāruṇaṃ) [fiery](taijasaṃ) [divine](divyaṃ) [airy](vāyavyaṃ) [mental](mānasaṃ) [and](tathā)
 
 ## mukta-m0-p06-v130
-[by-rain](vṛṣṭyā) [sādapyā](sādapyā) [dinyāṃ](dinyāṃ) [airy](vāyavyaṃ) [by-dust](rajasāṃ) [of-cows](gavām)
+[rain-instr](vṛṣṭyā) [pure-daily](sādapyā) [daily](dinyāṃ) [airy](vāyavyaṃ) [dust-gen](rajasāṃ) [cows-gen](gavām)
 
 ## mukta-m0-p06-v131
-[in-river](nadyāṃ) [or](vāpi) [in-tank](taṭākāṃ) [or](vā) [in-well](kūpe) [or](vā) [sacred-place+water](tīrthavāri) [and](ca)
+[river-loc](nadyāṃ) [or](vā) [pond-loc](taṭākāṃ) [or](vā) [well-loc](kūpe) [or](vā) [tirtha-water-acc](tīrthavāri) [and](ca)
 
 ## mukta-m0-p06-v132
-[śiva+liṅga](śivaliṅgeti) [to-you](te) [one-should-know](vidyācchiva) [by-śiva+foot+sprinkling](pādaprasecanāt)
+[shiva-linga-nom](śivaliṅgeti) [you-know](te) [vidyācchivapādaprasecanāt](vidyācchivapādaprasecanāt)
 
 ## mukta-m0-p06-v133
-[one-should-make](kuryāddhasta) [by-hand+measure](pramāṇena) [circle](maṇḍalaṃ) [four-cornered](caturaśrakam)
+[do-hand-measure-instr](kuryāddhastapramāṇena) [mandala-acc](maṇḍalaṃ) [square](caturaśrakam)
 
 ## mukta-m0-p06-v134
-[with-sadya-mantra](sadyena) [one-should-place](sthāpayet) [there](tatra) [with-vāma+mantra](vāmamantreṇa) [one-should-purify](śodhayet)
+[immediately](sadyena) [establish](sthāpayet) [there](tatra) [vama-mantra-instr](vāmamantreṇa) [purify](śodhayet)
 
 ## mukta-m0-p06-v135
-[with-east](pūrveṇa) [with-south](dakṣiṇenaivā) [likewise](tathā) [indeed](vai) [with-north](cottareṇa) [and](tu)
+[east-instr](pūrveṇa) [south-instr](dakṣiṇenaivā) [and](tathā) [vai](vai) [north-instr](cottareṇa) [tu](tu)
 
 ## mukta-m0-p06-v136
-[six+limbs](ṣaḍaṅgaṃ) [brahma-mantra](brahma) [having-muttered](japtvā) [then](tu) [from-east-etc.](pūrvādibhyo) [one-should-place](nyaset) [in-order](kramāt)
+[six-anga](ṣaḍaṅgaṃ) [brahma](brahma) [japtvā](japtvā) [tu](tu) [east-etc-from](pūrvādibhyo) [place](nyaset) [in-order](kramāt)
 
 ## mukta-m0-p06-v137
-[sadyojāta](sadyojāta) [clay+lump](mṛdābhogaṃ) [in-sacred-water+middle](stīrthamadhye) [one-should-throw](vinikṣipet)
+[sadyojata](sadyojāta) [clay-joy](mṛdābhogaṃ) [tirtha-middle-loc](stīrthamadhye) [place](vinikṣipet)
 
 ## mukta-m0-p06-v138
-[sixteen+syllable-mantra](ṣoḍaśākṣarakaṃ) [having-placed](nyastvā) [with-own+name+beginning](svanāmādyena) [one-should-write](lekhayet)
+[sixteen-syllable](ṣoḍaśākṣarakaṃ) [placing](nyastvā) [own-name-etc](svanāmādyena) [write](lekhayet)
 
 ## mukta-m0-p06-v139
-[in-water](jale) [subtle](sūkṣmāśca) [which](ye) [impurities](doṣāḥ) [of-them](teṣāmuccāṭanaṃ) [removal](bhavet)
+[water-loc](jale) [subtle-acc](sūkṣmāśca) [ye](ye) [faults-nom](doṣāḥ) [their](teṣām) [removal-nom](uccāṭanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p06-v140
-[as-before](pūrvavat) [placed+clay+lump](sthāpyamṛtpiṇḍaṃ) [all+limbs](sarvāṅgañca) [one-should-smear](vilepayet)
+[as-before](pūrvavat) [establish-clay-lump](sthāpyamṛtpiṇḍaṃ) [all-limbs-acc](sarvāṅgañca) [anoint](vilepayet)
 
 ## mukta-m0-p06-v141
-[brahma+fire](brahmāgniṃ) [ancestor+god+sage+sacred-places](pitṛdevarṣitīrthāni) [in-order](kramaśaḥ) [hear](śṛṇu)
+[brahma-agni](brahmāgniṃ) [pitri-deva-rishi-tirtha](pitṛdevarṣitīrthāni) [in-order](kramaśaḥ) [hear](śṛṇu)
 
 ## mukta-m0-p06-v142
-[fiery](āgneyaṃ) [ancestral](paitṛkaṃ) [afterwards](paścāt) [forefinger+thumb+middle-finger](tarjanyaṅguṣṭha) [from-middle](madhyataḥ)
+[agni-related](āgneyaṃ) [ancestral](paitṛkaṃ) [after](paścāt) [index-finger-thumb](tarjanyaṅguṣṭha) [middle-loc](madhyataḥ)
 
 ## mukta-m0-p06-v143
-[at-finger+tip](aṅgulyagre) [sacred-place+of-sages](tīrthamārṣaṃ) [five+gods](pañcadevāṃstu) [one-should-place](vinyaset)
+[finger-tip-loc](aṅgulyagre) [tirtha-rishi](tīrthamārṣaṃ) [five-devas-acc](pañcadevāṃstu) [place](vinyaset)
 
 ## mukta-m0-p06-v144
-[touching](sparśanaṃ) [with-ancestor+sacred-place](pitṛtīrthena) [with-god+sacred-place](daivatīrthena) [wiping](mārjanam)
+[touching](sparśanaṃ) [pitri-tirtha-instr](pitṛtīrthena) [divine-tirtha-instr](daivatīrthena) [sprinkling](mārjanam)
 
 ## mukta-m0-p06-v145
-[royal+service+accompanied](rājopacārasahitaṃ) [with-fragrant+āmalaka+etc.](sugandhāmalakādibhiḥ)
+[royal-service-with](rājopacārasahitaṃ) [fragrant-amalaka-etc](sugandhāmalakādibhiḥ)
 
 ## mukta-m0-p06-v146
-[water+immersion+end](jalāvagahanānte) [then](tu) [divine+women+attended](divyastrīparisevitam)
+[water-immersion-end-loc](jalāvagahanānte) [tu](tu) [divine-woman-served](divyastrīparisevitam)
 
 ## mukta-m0-p06-v147
-[with-limbs](aṅgairvyoma) [with-vyomavyāpin-mantra](vyāpinā) [and](ca) [with-tryambaka+named+etc.+mantras](tyambakākhyādimantrataḥ)
+[limbs-with](aṅgairvyomavyāpinā) [ca](ca) [tyambaka-etc-mantra-from](tyambakākhyādimantrataḥ)
 
 ## mukta-m0-p06-v148
-[sprinkling](abhiṣekaṃ) [slowly](śanairmūrdhni) [on-head](vidadhyādvaktra) [one-should-perform](mudrayā) [with-vaktra+mudrā](vidadhyādvaktramudrayā)
+[abhisheka](abhiṣekaṃ) [slowly](śanairmūrdhni) [do](vidadhyādvaktramudrayā)
 
 ## mukta-m0-p06-v149
-[right+foot+place](dakṣapādasthale) [having-placed](kṛtvā) [left+foot](vāmapādaṃ) [in-water](jalepi) [and](ca)
+[right-foot-loc](dakṣapādasthale) [doing](kṛtvā) [left-foot](vāmapādaṃ) [water-loc](jalepi) [ca](ca)
 
 ## mukta-m0-p06-v150
-[bean+measure](māṣamātra) [by-measure](pramāṇena) [of-water](jalānāṃ) [sipping](prāśanaṃ) [should-be](bhavet)
+[bean-measure](māṣamātra) [pramāṇena](pramāṇena) [waters-gen](jalānāṃ) [drinking-nom](prāśanaṃ) [becomes](bhavet)

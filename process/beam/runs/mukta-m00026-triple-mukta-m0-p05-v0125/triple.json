@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "mūlādhāre",
+     "gloss": "root-support-in",
+     "grounds": "locative of mūlādhāra, root support",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "japed",
+     "gloss": "one-should-recite",
+     "grounds": "optative of √jap, third singular",
+     "morph": "3.sg.act.opt.√jap"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "accusative object of recitation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "O-fair-faced-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Should the yantra be recited at the root support?",
+   "premises": [
+    "yantra is object of recitation",
+    "root support is location",
+    "goddess is addressed"
+   ],
+   "inference": "recitation of the yantra occurs at the root support",
+   "uncertainties": [
+    "exact ritual context unspecified"
+   ],
+   "plain_english": "O great goddess, O fair-faced one, one should recite the yantra at the root support."
+  }
+ ]
+}

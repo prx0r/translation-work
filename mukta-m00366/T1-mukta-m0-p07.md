@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[rāghava](rāghavaḥ) [fearful-woman](śaṅkinī) [hero](vīraḥ) [nārāyaṇa+and](nārāyaṇaśca) [decision](nirṇayaḥ)
+[rāghava](rāghavaḥ) [fearful](śaṅkinī) [hero](vīro) [nārāyaṇa](nārāyaṇaḥ) [and](ca) [decision](nirṇayaḥ)
 
 ## mukta-m0-p07-v152
-[left+hip+left+thigh](vāmasphigvāmakaṭyau) [and](ca) [desirous-woman](kāminī) [middle+ear](madhyakarṇakaḥ)
+[sixteen](16) [left-hip-left-waist](vāmasphigvāmakaṭyau) [and](ca) [desirous](kāminī) [middle-ear](madhyakarṇakaḥ)
 
 ## mukta-m0-p07-v153
-[jewel+neck+and](ratnakaśca(ṇṭhaḥ)) [dark-faced](śyāmamukhī) [boar-female](vārāhī) [crocodile+red](makaro'ruṇaḥ(ṇā))
+[jewel](ratnakaśca(ṇṭhaḥ)) [dark-faced](śyāmamukhī) [boar-goddess](vārāhī) [makara](makaro'ruṇaḥ(ṇā))
 
 ## mukta-m0-p07-v154
-[fragrance](gandho) [bimba](vimbam(śvā)) [wind+umbrella+and+anurādhā](marucchatraścānurādhā) [and](ca) [solar](saurakaḥ)
+[one](1) [fragrance](gandho) [reflection](vimbaṃ(śvā)) [parasol](marucchatraścānurādhā) [sauraka](ca saurakaḥ)
 
 ## mukta-m0-p07-v155
-[jayantī](jayantī) [horripilation](pulakaḥ) [delusion](bhrāntiḥ) [bodiless+love+mad+afflicted](anaṅgamadanāturā)
+[victorious](jayantī) [thrill](pulako) [confusion](bhrāntiranaṅgamadanāturā)
 
 ## mukta-m0-p07-v156
-[stone](śilī) [head-born](śirasijaḥ) [staff-bearer](daṇḍī) [bhadrakālī](bhadrakālī) [mountain](śiloccayaḥ)
+[four](4) [stone](śilī) [head-born](śirasijo) [staff-bearer](daṇḍī) [bhadrakālī](bhadrakālī) [mountain](śiloccayaḥ)
 
 ## mukta-m0-p07-v157
-[boon-giver](varadā) [enjoyment-giver](bhogadā) [hair](keśo) [left-knee](vāmajānū) [juice+fire](raso(po)'nalaḥ)
+[boon-giver](varadā) [enjoyment-giver](bhogadā) [hair](keśo) [left-knee](vāmajānū) [taste](raso(po)) [fire]('nalaḥ)
 
 ## mukta-m0-p07-v158
-[unsteady+ujjayinī](lolāpyu(lo)jjayinī(pūḥ)) [secret](guhyaḥ) [autumn+moon](śaraccandro) [sun-maker](divākaraḥ)
+[restless](lolāpyu(lo)) [victory-city](jjayinī(pūḥ)) [secret](guhyaḥ) [autumn-moon](śaraccandro) [sun](divākaraḥ)
 
 ## mukta-m0-p07-v159
-[poor](dīnaṃ) [knowledge+and](jñānañca) [gift+and](dānañca) [devotion+oblation-fire](bhaktirāhavanī) [earth](dharā)
+[poor](dīnaṃ) [knowledge](jñānañca) [gift](dānañca) [devotion](bhaktirāhavanī) [earth](dharā)
 
 ## mukta-m0-p07-v160
-[kātyāyanī](kātyāyanī) [auspicious-one](śivā) [durgā](durgā) [leaping](laṅghanā) [not](nā) [three-thorned](trikaṇṭakī)
+[kātyāyanī](kātyāyanī) [auspicious](śivā) [durgā](durgā) [leaping](laṅghanā) [not](nā) [three-thorned](trikaṇṭakī)
 
 ## mukta-m0-p07-v161
-[dharma+heart](dharmahṛd) [vāmadeva+and](vāmadevaśca) [whirling](bhramir) [arm](bāhuḥ) [very-fickle](sucañcalā)
+[dharma-heart](dharmahṛdvāmadevaśca) [whirling](bhramirbāhuḥ) [very-unsteady](sucañcalā)
 
 ## mukta-m0-p07-v162
-[turmeric](haridrā) [city+and+mountain](puramadriśca) [right-hand](dakṣapāṇiḥ) [three-lined](trirekhakaḥ)
+[turmeric](haridrā) [city-mountain](puramadriśca) [right-hand](dakṣapāṇistrirekhakaḥ)
 
 ## mukta-m0-p07-v163
-[fish-lord](mīneśaḥ) [conch-woman](śaṅkhinī) [water](toyaṃ) [serpent-lord](nāgeśo) [world-purifier](viśvapāvanī)
+[sixteen](16) [fish-lord](mīneśaḥ) [conch-woman](śaṅkhinī) [water](toyaṃ) [serpent-lord](nāgeśo) [all-purifying](viśvapāvanī)
 
 ## mukta-m0-p07-v164
-[yellow-robed](pītavāsāḥ) [three-colored+and](trivarṇā ca) [supporter](dhātā) [dharma+leaper](dharmaplavaṅgamaḥ)
+[yellow-garmented](pītavāsāstrivarṇā) [and](ca) [creator](dhātā) [dharma-boat](dharmaplavaṅgamaḥ)
 
 ## mukta-m0-p07-v165
-[left+foot+toe+root](vāmapādāṅgalermūlaṃ) [jyeṣṭhā](jyeṣṭhā) [gods'-city](surapuraṃ) [becoming](bhavaḥ)
+[twenty](20) [left-foot-toe-root](vāmapādāṅgalermūlaṃ) [jyeṣṭhā](jyeṣṭhā) [heaven-city](surapuraṃ) [bhava](bhavaḥ)
 
 ## mukta-m0-p07-v166
-[touch-self](sparśātmā) [long-shank](dīrghajaṅghā) [and](ca) [lord-of-wealth](dhaneśo) [wealth-accumulation](dhanasañcayaḥ)
+[one](1) [touch-self](sparśātmā) [long-shanked](dīrghajaṅghā) [and](ca) [wealth-lord](dhaneśo) [wealth-accumulation](dhanasañcayaḥ)
 
 ## mukta-m0-p07-v167
-[ram+and](meṣaśca) [sun](savitā) [eye](netraṃ) [tusked](danturo) [nārada+collyrium](nārado'ñjanaḥ)
+[ram](meṣaśca) [savitā](savitā) [eye](netraṃ) [toothed](danturo [danturā]) [nārada](nārado'ñjanaḥ)
 
 ## mukta-m0-p07-v168
-[son-of-vinata](vainateyaḥ) [praise](stutiḥ) [path](vartma) [ferryman](taraṇir) [bali+tradition](balirāgamaḥ)
+[vainateya](vainateyaḥ) [praise](stutirvartma) [sun](taraṇirbalirāgamaḥ)
 
 ## mukta-m0-p07-v169
-[sound-self](śabdātmā) [long-snouted](dīrghaghoṇā) [and](ca) [hastināpura+dark](hastināpura-mecakau)
+[sound-self](śabdātmā) [long-nosed](dīrghaghoṇā) [and](ca) [elephant-city-dark](hastināpura-mecakau)
 
 ## mukta-m0-p07-v170
-[mountain-lord+blue](girināyaka-nīlau) [and](ca) [auspicious](śivo) [beginningless](anādir) [great-minded](mahāmatiḥ)
+[eight](8) [mountain-lord-blue](girināyaka-nīlau) [and](ca) [śiva](śivo'nādirmahāmatiḥ)
 
 ## mukta-m0-p07-v171
-[secret-maker](guhyakartā) [treasure](nidhiḥ) [śeṣa](śeṣaḥ) [kālarātri](kālarātriḥ) [well-conveyed](suvāhitā)
+[secret-maker](guhyakartā) [treasure](nidhiḥ) [śeṣa](śeṣaḥ) [dark-night](kālarātriḥ) [well-carried](suvāhitā)
 
 ## mukta-m0-p07-v172
-[sāvitrī](sāvitrī) [protector](pātinī) [drink](pānaṃ) [hero-principle](vīratattvaṃ) [bow-holder](dhanurddharaḥ)
+[twelve](12) [sāvitrī](sāvitrī) [falling](pātinī) [drink](pānaṃ) [hero-tattva](vīratattvaṃ [vīratantraḥ]) [bow-holder](dhanurddharaḥ)
 
 ## mukta-m0-p07-v173
-[uḍḍīśa](uḍḍīśaṃ) [victorious-woman](jayinī) [pot](kumbho) [lazy](alaso) [line](rekhā) [and](ca) [deluder](mohakaḥ)
+[uddīśa](uḍḍīśaṃ [uḍḍīnaṃ]) [victorious](jayinī) [pot](kumbho'laso) [line](rekhā [kāntā'vasaṃ reṣā]) [and](ca) [deluder](mohakaḥ)
 
 ## mukta-m0-p07-v174
-[root](mūlā) [second](dvitīyam) [indra's-wife](indrāṇī) [world-eye](lokākṣī) [mind](mana) [soul-nature](ātmakaḥ)
+[root](mūlā) [second](dvitīyamindrāṇī) [world-eye](lokākṣī) [mind-self](mana ātmakaḥ [manatātmanaḥ(kaḥ)])
 
 ## mukta-m0-p07-v175
-[victory](jayā) [foot](pādaḥ) [crest](śikhā) [raudrī](raudrī) [hissing](phetkāraḥ) [śākhinī+beloved](śākhinīpriyaḥ)
+[victory](jayā) [foot](pādaḥ) [crest](śikhā) [fierce](raudrī) [phet-sound](phetkāraḥ) [branch-lover](śākhinīpriyaḥ)

@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-pot+characteristic(kumbhalakṣaṇa) endowed-with(saṃyuktaṃ) with-kuśa-grass(sakūrcaṃ) cloth+wrapped(vastraveṣṭitam)
-
+pot-feature(endowed-with) [kumbhalakṣaṇa] saṃyuktaṃ(sakūrcaṃ) vastraveṣṭitam(cloth-wrapped)
 ## mukta-m0-p53-v1302
-four+armed(caturbhujaṃ) three+eyed(triṇetraṃ) and(ca) trident+in-hand(śūlapāṇiṃ) matted-hair+bearing(jaṭādharam)
-
+four-armed [caturbhujaṃ] three-eyed [triṇetraṃ] trident-handed [śūlapāṇiṃ] matted-haired [jaṭādharam]
 ## mukta-m0-p53-v1303
-golden+sacred-thread(hemayajñopavītaṃ) and(ca) nine+gem+finger-ring(navaratnāṅgulīyakam)
-
+golden-sacrificial-cord [hemayajñopavītaṃ] nine-gem-ring [navaratnāṅgulīyakam]
 ## mukta-m0-p53-v1304
-vardhanī-pot(vardhanīṃ) kuśa-grass+endowed(kūrcaṃ) joined(saṃyuktāṃ) left+side(vāmapārśve) placed(pratiṣṭhitam)
-
+growth-vessel+brush endowed [vardhanīṃ] kūrcaṃ(saṃyuktāṃ) left-side established [vāmapārśve] pratiṣṭhitam
 ## mukta-m0-p53-v1305
-fearlessness(abhayaṃ) knowledge+gesture(jñānamudrāṃ) and(ca) holding(dadhānaṃ) lotus(padmam) goad(aṅkuśam)
-
+fearlessness [abhayaṃ] knowledge-mudra [jñānamudrāṃ] holding [dadhānaṃ] lotus+goad [padmamaṅkuśam]
 ## mukta-m0-p53-v1306
-foot-water(pādyam) sipping-water(ācamanaṃ) and(ca) arghya-water(arghyaṃ) jewel+water(ratnodakam) thereafter(ataḥ) then(param)
-
+foot-wash [pādyam] mouth-rinse [ācamanaṃ] arghya [cārghyaṃ] gem-water [ratnodakam] thereafter [ataḥ] param
 ## mukta-m0-p53-v1307
-indra+beginning( indrādīśāna) up-to-īśāna(paryantaṃ) pots(kumbhān) eight(aṣṭau) and(ca) one-should-place(vinyaset)
-
+from-Indra-to-Ishana [indrādīśānaparyantaṃ] eight-pots [kumbhānaṣṭau] arrange [ca] vinyaset
 ## mukta-m0-p53-v1308
-with-metal(lohena) or(vā) with-wood(dāruṇā) ten+weapons(daśāyudhāni) one-should-fashion(kalpayet)
-
+iron [lohena] wood [dāruṇā] or [vāpi] ten-weapons [daśāyudhāni] prepare [kalpayet]
 ## mukta-m0-p53-v1309
-one-should-worship(arcayet) them(tāni) all(sarvāṇi) of-the-pots(kalaśānāṃ) outside(bahiḥ) in-order(kramāt)
-
+worship [arcayet] all [tāni] sarvāṇi(kalaśānāṃ) outside [bahiḥ] in-order [kramāt]
 ## mukta-m0-p53-v1310
-in-the-north(uttare) cakra+deity(cakradevaṃ) but(tu) in-the-south(dakṣiṇe) lotus+deity(padmadaivatam)
-
+north [uttare] wheel-deity [cakradevaṃ] tu [tu] south [dakṣiṇe] lotus-deity [padmadaivatam]
 ## mukta-m0-p53-v1311
-trident(triśūlaṃ) in-vāyu+direction(vāyudigbhāge) at-three-junctures(trisandhyāṃ) one-should-worship(pūjayet) auspicious(śubham)
-
+trident [triśūlaṃ] wind-direction [vāyudigbhāge] three-sandhyas [trisandhyāṃ] worship [pūjayet] auspicious [śubham]
 ## mukta-m0-p53-v1312
-three+eyed(triyakṣaṃ) four+armed(caturbhujaṃ) god(devaṃ) moon+crescent+made+crest(candrārdhakṛtaśekharam)
-
+three-eyed [triyakṣaṃ] four-armed [caturbhujaṃ] god [devaṃ] half-moon-crested [candrārdhakṛtaśekharam]
 ## mukta-m0-p53-v1313
-with-heart+mantra(hṛnmantreṇa) fuel+collection(samitsaṅghaṃ) ghee(ghṛtaṃ) with-puruṣa+mantra(pūruṣamantrataḥ)
-
+heart-mantra [hṛnmantreṇa] fuel-bundle [samitsaṅghaṃ] ghee [ghṛtaṃ] purusha-mantra [pūruṣamantrataḥ]
 ## mukta-m0-p53-v1314
-groats(saktuṃ) with-vāma+mantra(vāmena) with-mantra(mantreṇa) milk(kṣīraṃ) indeed(vai) with-sadya+mantra(sadyamantrataḥ)
-
+roasted-grain [saktuṃ] left-mantra [vāmena] mantreṇa [mantreṇa] milk [kṣīraṃ] vai [vai] sadya-mantra [sadyamantrataḥ]
 ## mukta-m0-p53-v1315
-with-śiva+gāyatrī+mantra(śivagāyatrimantreṇa) molasses(gulaṃ) having-offered(hutvā) O-great-lord(maheśvara)
-
+Shiva-gayatri [śivagāyatrimantreṇa] jaggery [gulaṃ] offering [hutvā] Maheshvara [maheśvara]
 ## mukta-m0-p53-v1316
-at-end-of-substance(dravyānte) vyāhṛti(vyāhṛtiṃ) one-should-offer(juhuyāt) of-rudras(rudrāṇāṃ) names(nāma) I-shall-declare(yakṣyate)
-
+after-materials [dravyānte] vyahriti [vyāhṛtiṃ] offer [juhuyāt] Rudras [rudrāṇāṃ] name-yaksha [nāmayakṣyate]
 ## mukta-m0-p53-v1317
-smoking(dhūmayānaṃ) and(ca) being(bhūtaṃ) and(ca) earth(vasudhā) and(ca) tree(taruḥ) arts(kalāḥ)
-
+incense [dhūmayānaṃ] ca [ca] being [bhūtaṃ] ca [ca] earth [vasudhā] ca [ca] tree [taruḥ] arts [kalāḥ]
 ## mukta-m0-p53-v1318
-knowledge+flower(jñānapuṣpādi) etc.(ādi) song(gītyādi) etc.(ādi) seven+rudras(saptarudrāḥ) fourteen(caturdaśa)
-
+knowledge-flowers [jñānapuṣpādi] songs [gītyādi] seven-Rudras [saptarudrāḥ] fourteen [caturdaśa]
 ## mukta-m0-p53-v1319
-kālarudra(kālarudra) mahārudra(mahārudra) śiva(śivaṃ) three+day(tridinam) festival(utsavakaṃ) auspicious(śubham)
-
+Kala-Rudra [kālarudra] Maha-Rudra [mahārudra] Shiva [śivaṃ] three-day festival [tridinamutsavakaṃ] auspicious [śubham]
 ## mukta-m0-p53-v1320
-pure+rice(śuddhānnaṃ) curd+mixed(dadhimiśraṃ) laddu+cake+endowed(laḍḍukāpūpasaṃyutam)
-
+pure-rice [śuddhānnaṃ] curd-mixed [dadhimiśraṃ] laddu+cake endowed [laḍḍukāpūpasaṃyutam]
 ## mukta-m0-p53-v1321
-fruit(phalaṃ) and(ca) turmeric+powder(rajanīcūrṇaṃ) turmeric+rice(haridrānnaṃ) with(with) groats(saktukam)
-
+fruit [phalaṃ] ca [ca] night-powder [rajanīcūrṇaṃ] turmeric-rice [haridrānnaṃ] sa [sa] saktu [saktukam]
 ## mukta-m0-p53-v1322
-bilva+leaf(bilvapatra) kuśa+tips(kuśāgraiḥ) and(ca) rice+food(śālyannaṃ) with-ghee(sahamiśritam)
-
+bilva-leaves [bilvapatra] kusha-tips [kuśāgraiśca] shali-rice [śālyannaṃ] saham-mixed [sahamiśritam]
 ## mukta-m0-p53-v1323
-indravallī(indravallī) turmeric(haridrāḥ) and(ca) priyaṅgu+ghee+endowed(priyaṅgughṛtasaṃyutam)
-
+indravalli [indravallī] turmeric [haridrāśca] priyangu+ghee endowed [priyaṅgughṛtasaṃyutam]
 ## mukta-m0-p53-v1324
-lotus+flower(padmapuṣpaṃ) and(ca) turmeric(rajanī) parched-rice+endowed(lājayuktaṃ) and(ca) milk-rice(pāyasam)
-
+lotus-flower [padmapuṣpaṃ] ca [ca] night [rajanī] lāja-yukta [lājayuktaṃ] ca [ca] rice-pudding [pāyasam]
 ## mukta-m0-p53-v1325
-molasses+rice(gulodanaṃ) ghee+endowed(ghṛtopetaṃ) bṛhatī+fruit+endowed(bṛhatīphalasaṃyutam)
+jaggery-rice [gulodanaṃ] ghee-endowed [ghṛtopetaṃ] bṛhatī-fruit-endowed [bṛhatīphalasaṃyutam]

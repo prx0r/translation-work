@@ -3,29 +3,44 @@
  "verse": 2410,
  "rows": [
   {
-   "lemma": "saṃsthāpya",
-   "morph": "verb.3.sg.act-perf-participle",
-   "grounds": "absolutive of sam-sthā"
+   "lemma": "tat+",
+   "morph": "compound (first member)",
+   "grounds": "first member of compound with kalpa"
   },
   {
-   "lemma": "āsanam",
-   "morph": "noun.acc.sg.n",
-   "grounds": "accusative object"
+   "lemma": "tat+",
+   "morph": "compound (member)",
+   "grounds": "second member of compound with kalpa"
   },
   {
-   "lemma": "abhyarpya",
-   "morph": "verb.3.sg.act-perf-participle",
-   "grounds": "absolutive of abhi-arp"
+   "lemma": "kalpa+",
+   "morph": "compound (member)",
+   "grounds": "third member of compound with ukta"
   },
   {
-   "lemma": "svamantrānte",
-   "morph": "noun.loc.sg.m",
-   "grounds": "locative of compound"
+   "lemma": "ukta+",
+   "morph": "compound (member)",
+   "grounds": "fourth member of compound with vidhinā"
   },
   {
-   "lemma": "parāntataḥ",
-   "morph": "(indecl.)",
-   "grounds": "adverb of finality"
+   "lemma": "vidhinā",
+   "morph": "n.instr.sg.m",
+   "grounds": "instrumental singular masculine means"
+  },
+  {
+   "lemma": "dhyāna+",
+   "morph": "compound (first member)",
+   "grounds": "first member of compound with pūjāṃ"
+  },
+  {
+   "lemma": "pūjāṃ",
+   "morph": "n.acc.sg.f",
+   "grounds": "accusative singular feminine object"
+  },
+  {
+   "lemma": "samācaret",
+   "morph": "v.3.sg.opt.act (root samācar)",
+   "grounds": "third singular optative active of samācar"
   }
  ]
 }

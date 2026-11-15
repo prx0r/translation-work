@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "tattadvarṇābhāvāt",
+     "gloss": "absence-of-those-syllables",
+     "grounds": "fused sandhi form; ablative of absence of those syllables",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive pronoun referring to this",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "puraścaraṇaṃ",
+     "gloss": "preliminary-rite",
+     "grounds": "accusative object of the rite",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "japahomaśca",
+     "gloss": "recitation-oblation-and",
+     "grounds": "fused sandhi form; recitation and oblation with conjunction",
+     "morph": "acc.sg.m (indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the preliminary rite of this mantra lack recitation and oblation?",
+   "premises": [
+    "absence of those syllables",
+    "preliminary rite of this",
+    "recitation and oblation likewise"
+   ],
+   "inference": "because those syllables are absent, this preliminary rite has no recitation or oblation",
+   "uncertainties": [
+    "exact scope of tattadvarṇa remains unclear"
+   ],
+   "plain_english": "Because those syllables are absent, this preliminary rite has no recitation or oblation likewise."
+  }
+ ]
+}

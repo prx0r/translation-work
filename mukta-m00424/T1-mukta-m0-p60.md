@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [sacred-utterance](vyāhṛtim) [indeed](eva) [and](ca)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [?](?) [vyāhṛti](vyāhṛtim) [eva](eva) [ca](ca)
 
 ## mukta-m0-p60-v1477
-[of-weapons](āyudhānāṃ) [in-destruction](vināśe) [but](tu) [by-thief](taskareṇa) [terrible](bhayaṅkaram)
+[weapon](āyudhānām) [destruction](vināśe) [but](tu) [by-thief](taskareṇa) [fearful](bhayaṅkaram)
 
 ## mukta-m0-p60-v1478
-[having-done](kṛtvā) [with-characteristics](sa+lakṣaṇena) [indeed](eva) [should-sprinkle](prokṣayet) [but](tu) [with-Śiva-water](śiva+āṃbhasā)
+[having-done](kṛtvā) [with-good-marks](salakṣaṇena) [indeed](eva) [sprinkle](prokṣayet) [tu](tu) [with-śiva-water](śivāṃbhasā)
 
 ## mukta-m0-p60-v1479
-[O-Lord](īśa) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](?)
+[īśa](īśa) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [?](?)
 
 ## mukta-m0-p60-v1480
-[great-disease-arisen](mahā+vyādhi+samutpannaḥ) [crop-destruction](sasya+nāśaḥ) [not](na) [doubt](saṃśayaḥ)
+[great-disease-arisen](mahāvyādhisamutpannaḥ) [crop-destruction](sasyanāśaḥ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p60-v1481
-[then](tataḥ) [sprout-offering](aṅkura+arpaṇaṃ) [one-should-do](kuryāt) [beginning-with-trays](pālikā+ādi) [with-characteristics](sa+lakṣaṇam)
+[then](tataḥ) [sprout-offering](aṅkurārpaṇam) [do](kuryāt) [pālikā-etc](pālikādi) [with-good-marks](salakṣaṇam)
 
 ## mukta-m0-p60-v1482
-[deity-oblation](mūrti+homaṃ) [then](tataḥ) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](?)
+[image-homa](mūrtihomam) [then](tataḥ) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [?](?)
 
 ## mukta-m0-p60-v1483
-[in-pot-establishment-absence](kumbha+sthāpana+hīne) [and](ca) [famine](durbhikṣaṃ) [is-born](jāyate) [certainly](dhruvam)
+[pot-installation-lacking](kumbhasthāpanahīne) [and](ca) [famine](durbhikṣam) [arises](jāyate) [certainly](dhruvam)
 
 ## mukta-m0-p60-v1484
-[in-ritual-lamp-absence](yāga+pradīpa+hīne) [and](ca) [in-negligence](pramāde) [and](ca) [especially](viśeṣataḥ)
+[sacrifice-lamp-lacking](yāgapradīpahīne) [and](ca) [negligence](pramāde) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p60-v1485
-[terrible-mantra](ghora+mantraṃ) [hundred](śataṃ) [having-offered](hutvā) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](?)
+[terrible-mantra](ghoramantram) [hundred](śatam) [having-offered](hutvā) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [?](?)
 
 ## mukta-m0-p60-v1486
-[famine](durbhikṣaṃ) [is-born](jāyate) [in-fire-pit](kuṇḍe) [in-fire-interruption](vahni+vicchedane) [even](api) [and](ca)
+[famine](durbhikṣam) [arises](jāyate) [in-kunda](kuṇḍe) [fire-interruption](vahnivicchedane) [also](api) [and](ca)
 
 ## mukta-m0-p60-v1487
-[fuel-stick](samidhaṃ) [with-cooked-rice-and-parched-grain](caru+lājena) [one-should-offer](juhuyāt) [with-root-mantra](mūla+mantrataḥ)
+[fuel](samidham) [with-caru-and-lāja](carulājena) [offer](juhuyāt) [with-root-mantra](mūlamantrataḥ)
 
 ## mukta-m0-p60-v1488
-[in-ritual-lamp-absence](yāga+pradīpa+hīne) [and](ca) [in-negligence](pramāde) [and](ca) [especially](viśeṣataḥ)
+[sacrifice-lamp-lacking](yāgapradīpahīne) [and](ca) [negligence](pramāde) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p60-v1489
-[terrible-mantra](ghora+mantraṃ) [hundred](śataṃ) [having-offered](hutvā) [lamp](dīpam) [should-light](āropayet) [then](tataḥ)
+[terrible-mantra](ghoramantram) [hundred](śatam) [having-offered](hutvā) [lamp-place](dīpamāropayet) [then](tataḥ)
 
 ## mukta-m0-p60-v1490
-[in-other-limb-damage](itara+aṅga+vibhede) [and](ca) [again](punaḥ) [joining](sandhānam) [one-should-perform](ācaret)
+[other-limb-division](itarāṅgavibhede) [and](ca) [again](punaḥ) [reunion](sandhānam) [perform](ācaret)
 
 ## mukta-m0-p60-v1491
-[of-weapons](āyudhānāṃ) [in-destruction](praṇāśe) [but](tu) [in-damage](vibhede) [in-falling](patane) [even](api) [and](ca)
+[weapons](āyudhānām) [destruction](praṇāśe) [but](tu) [division](vibhede) [falling](patane) [also](api) [and](ca)
 
 ## mukta-m0-p60-v1492
-[lacuna](*) [lacuna](*) [lacuna](?) [with-mantra](peṇa) (mantreṇa) [recitation](japam) [eight-hundred](aṣṭa) (śataṃ) [one-should-offer](hunet)
+[unknown](*) [unknown](*) [unknown](*) [?](?) [peṇa](peṇa) [mantra](mantreṇa) [japa](japam) [eight](aṣṭa) [hundred](śatam) [offer](hunet)
 
 ## mukta-m0-p60-v1493
-[in-offering-vessel-absence](bali+pātre) [in-absence](vihīne) [and](ca) [wealth-and-grain](dhana+dhānyaṃ) [is-destroyed](vinaśyati)
+[offering-vessel](balipātre) [lacking](vihīne) [and](ca) [wealth-grain](dhanadhānyam) [perishes](vinaśyati)
 
 ## mukta-m0-p60-v1494
-[in-offering-cymbal-absence](bali+tāla) [in-absence](vihīne) [and](ca) [all-grain-unpleasant](sarva+dhā+vipriyaṃ) [may-be](bhavet)
+[offering-plate](balitāla) [lacking](vihīne) [and](ca) [all-wealth-unpleasant](sarvadhāvipriyam) [becomes](bhavet)
 
 ## mukta-m0-p60-v1495
-[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](?) [fortune-destruction](lakṣmī+nāśaḥ) [may-be](bhavet) [certainly](dhruvam)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [?](?) [Lakshmi-destruction](lakṣmīnāśaḥ) [becomes](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p60-v1496
-[twofold](dviguṇaṃ) [lamp](dīpam) [having-lit](āropya) [offering-remainder](bali+śeṣaṃ) [one-should-perform](samācaret)
+[double](dviguṇam) [lamp](dīpam) [having-placed](āropya) [remaining-offering](baliśeṣam) [perform](samācaret)
 
 ## mukta-m0-p60-v1497
-[of-that-village](tat+grāmasya) [destruction](kṣayaṃ) [declared](proktaḥ) [syllable-mantra](varṇa+mantraṃ) [hundred](śataṃ) [one-should-offer](hunet)
+[that-village](tadgrāmasya) [imperishable](akṣayam) [declared](proktaḥ) [varṇa-mantra](varṇamantram) [hundred](śatam) [offer](hunet)
 
 ## mukta-m0-p60-v1498
-[in-festival](utsave) [in-vehicle-absence](yāna+hīne) [and](ca) [king-death](rājā+maraṇam) [one-obtains](āpnuyāt)
+[in-festival](utsave) [vehicle-lacking](yānahīne) [and](ca) [king-death](rājāmaraṇam) [obtains](āpnuyāt)
 
 ## mukta-m0-p60-v1499
-[in-resuming-procession](punaḥ) (prakramaṇe) [not](na) [indeed](eva) [one-should-do](kuryāt) [village-circumambulation](grāma) (pradakṣiṇam)
+[again](punaḥ) [proceeding](prakramaṇe) [not-indeed](naiva) [do](kuryāt) [village](grāma) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p60-v1500
-[root-seed-mantra](mūla+bījaṃ) [hundred](śataṃ) [having-offered](hutvā) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](?)
+[root-seed](mūlabījam) [hundred](śatam) [having-offered](hutvā) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [?](?)

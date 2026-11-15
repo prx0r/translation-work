@@ -3,29 +3,34 @@
  "verse": 2407,
  "rows": [
   {
-   "lemma": "svasvanāmādikaṃ",
-   "morph": "noun.acc.sg.n",
-   "grounds": "accusative object"
+   "lemma": "karmāṇi",
+   "morph": "n.acc.pl.n",
+   "grounds": "neuter plural accusative actions to be performed"
   },
   {
-   "lemma": "kṛtvā",
-   "morph": "verb.3.sg.act-perf-participle",
-   "grounds": "absolutive of kṛ"
+   "lemma": "aparihāryāṇi",
+   "morph": "adj.acc.pl.n",
+   "grounds": "adjective agreeing with actions"
   },
   {
-   "lemma": "pūrvavad",
-   "morph": "(indecl.)",
-   "grounds": "adverb of comparison"
+   "lemma": "karma+",
+   "morph": "compound (first member)",
+   "grounds": "first member of compound karma-arthī"
   },
   {
-   "lemma": "balim",
-   "morph": "noun.acc.sg.m",
-   "grounds": "accusative object"
+   "lemma": "arthī",
+   "morph": "adj.nom.sg.m",
+   "grounds": "adjective describing one who desires action"
   },
   {
-   "lemma": "uddharet",
-   "morph": "verb.3.sg.act-opt",
-   "grounds": "optative of ud-dhṛ"
+   "lemma": "kartum",
+   "morph": "inf",
+   "grounds": "infinitive of action"
+  },
+  {
+   "lemma": "arhati",
+   "morph": "v.3.sg.act-pres (root arh)",
+   "grounds": "third singular present active of arh"
   }
  ]
 }

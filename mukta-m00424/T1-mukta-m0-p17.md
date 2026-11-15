@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-sky-first(vyomapūrvaṃ) visarga-ending(visargāntaṃ) sun-mantra(sūryamantraṃ) namaḥ-ending(namontakam)
+[sky-first](vyomapūrvaṃ) [visarga-ending](visargāntaṃ) [sun-mantra](sūryamantraṃ) [namah-ending](namontakam)
 
 ## mukta-m0-p17-v402
-to-arka(arkāya) on-head(śirase) having-placed(nyasya) bhūr-bhuvaḥ-svaḥ(bhūrbhuvasva) on-tuft(śikhā) should-place(nyaset)
+[for-sun](arkāya) [on-head](śirase) [placing](nyasya) [bhūr-bhuvas-svaḥ](bhūrbhuvasva) [on-crest-place](śikhānyaset)
 
 ## mukta-m0-p17-v403
-fire-seed(agnibījaṃ) visarga-ending(visargāntaṃ) solar-weapon(saurāstraṃ) direction(dik) and(ca) joined(saṃyutam)
+[fire-seed](agnibījaṃ) [visarga-ending](visargāntaṃ) [solar-astra](saurāstraṃ) [direction](dik) [and](ca) [joined](saṃyutam)
 
 ## mukta-m0-p17-v404
-without-bindu(abindum) once(ekam) having-uttered(uccārya) polka-sūrya-ending(polkasūryāntam) uttering(uccaran)
+[without-bindu-one](abindumekam) [uttering](uccārya) [polka-sun-ending](polkasūryāntam) [uttering](uccaran)
 
 ## mukta-m0-p17-v405
-with-kuśa-and-akṣata(kuśa+akṣatena) ending-with-yūpa(yūpāntaṃ) one-should-worship(arcayet) red-sandalwood(rakta+candanam)
+[kuśa-akṣata-yūpa-ending](kuśākṣatenayūpāntaṃ) [worship](arcayed) [red-sandal](raktacandanam)
 
 ## mukta-m0-p17-v406
-one-faced(eka+vaktraṃ) two-armed(dvi+bāhuṃ) and(ca) two-eyed(dvi+netraṃ) ghee-lotus(ghṛta+paṅkajam)
+[one-face](ekavaktraṃ) [two-arms](dvibāhuṃ) [and](ca) [two-eyes](dvinetraṃ) [ghee-lotus](ghṛtapaṅkajam)
 
 ## mukta-m0-p17-v407
-all-marks-endowed(sarva+lakṣaṇa+saṃpannaṃ) all-ornaments-adorned(sarva+ābharaṇa+bhūṣitam)
+[all-marks-endowed](sarvalakṣaṇasaṃpannaṃ) [all-ornaments-adorned](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p17-v408
-four-faced(catur+vaktram) eight-armed(aṣṭa+bāhuṃ) one-should-meditate(dhyāyet) day-maker(divasa+nāyakam)
+[four-faced](caturvaktram)+[eight-armed](aṣṭabāhuṃ) [meditate](dhyāyed) [day-lord](divasanāyakam)
 
 ## mukta-m0-p17-v409
-seven-horse-chariot-mounted(sapta+aśva+ratham+ārūḍhaṃ) light-maker(prabhā+karam) illuminator(vibhākaram)
+[seven-horse-chariot-mounted](saptāśvarathamārūḍhaṃ) [sun-radiant](prabhākaravibhākaram)
 
 ## mukta-m0-p17-v410
-intelligence(medhā) wisdom(prajñā) endowed-with(samāyuktaṃ) moon-etc-planets-joined(soma+ādi+graha+saṃyutam)
+[intelligence](medhā) [wisdom](prajñā) [endowed](samāyuktaṃ) [moon-etc-planet-joined](somādigrahasaṃyutam)
 
 ## mukta-m0-p17-v411
-rāhu(rāhuḥ) ketu(ketuṃ) in-order(kramāt) these(ete) planets(grahāḥ) death-destroying(mṛtyu+vināśanāḥ)
+[rahu](rāhuḥ) [ketu](ketuṃ) [in-order-these](kramādete) [planets](grahā) [death-destroying](mṛtyuvināśanāḥ)
 
 ## mukta-m0-p17-v412
-dark-colored(śyāma+varṇaḥ) budha-declared(budha+proktaḥ) blue-colored(nīla+varṇaḥ) bṛhaspati(bṛhaspatiḥ)
+[dark-colored](śyāmavarṇo) [mercury-called](budhaprokto) [blue-colored-jupiter](nīlavarṇobṛhaspatiḥ)
 
 ## mukta-m0-p17-v413
-crow-cloud-resembling(kāka+megha+nibhaḥ) rāhu(rāhuḥ) ketu(ketu) smoke-colored(dhūmra+ābhaḥ) is-called(ucyate)
+[crow-cloud-like-rahu](kākameghanibhorāhuḥ) [ketu](ketu) [smoke-colored](dhūmrābha) [is-said](ucyate)
 
 ## mukta-m0-p17-v414
-all-ornaments-filled(sarva+ābharaṇa+saṃpūrṇāḥ) two-armed(dvi+bhujāḥ) and(ca) are-declared(prakīrtitāḥ)
+[all-ornaments-complete](sarvābharaṇasaṃpūrṇā) [two-armed-and](dvibhujāśca) [proclaimed](prakīrtitāḥ)
 
 ## mukta-m0-p17-v415
-aṅgāraka(aṅkārakaṃ) in-southern-part(yāmya+bhāge) in-west(paścime) but(tu) bṛhaspati(bṛhaspatim)
+[mars](aṅkārakaṃ) [south-region](yāmyabhāge) [west-but](paścime tu) [jupiter](bṛhaspatim)
 
 ## mukta-m0-p17-v416
-ketu(ketuṃ) and(ca) in-naiṛta-quarter(naiṛte+bhāge) one-should-place(vinyaset) budha(budham) in-northwest(ānile)
+[ketu-and](ketuṃ ca) [southwest-region](naiṛte bhāge) [place-mercury-in-wind](vinyasedbudhamānile)
 
 ## mukta-m0-p17-v417
-prabhā(prabhām) uṣā(uṣāṃ) and(ca) sandhyā(sandhyāṃ) and(ca) prajñā(prajñāṃ) and(ca) indeed(eva) but(tu) one-should-place(vinyaset)
+[splendor-stealing-and](prabhāmuṣāṃ ca) [twilight-and](sandhyāṃ ca) [wisdom-and-indeed](prajñāṃ caiva) [but-place](tu vinyaset)
 
 ## mukta-m0-p17-v418
-then(atha) eight(aṣṭau) world-guardians(loka+pālāṃś) in-their-respective-places(tat+tat+sthāneṣu) one-should-worship(pūjayet)
+[then-eight](athāṣṭhau) [world-guardians-and](lokapālāṃśca) [in-respective-places](tattatsthāneṣu) [worship](pūjayet)
 
 ## mukta-m0-p17-v419
-six-limb-nyāsa(ṣaḍ+aṅga+nyāsam) having-offered(aṃbhasya) arghya(arghyaṃ) and(ca) indeed(eva) one-should-give(pradāpayet)
+[six-limb-nyasa-with-water](ṣaḍaṅganyāsamaṃbhasya) [arghya-and-indeed](arghyaṃ caiva) [offer](pradāpayet)
 
 ## mukta-m0-p17-v420
-five-enclosure-names(pañca+prākāra+nāmāni) hear(śṛṇuṣva) thus(evaṃ) o-maheśvara(maheśvara)
+[five-wall-names](pañcaprākāranāmāni) [hear-thus](śṛṇuṣvevaṃ) [great-lord](maheśvara)
 
 ## mukta-m0-p17-v421
-middle-enclosure(madhya+hāraṃ) third(tṛtīyaṃ) should-be(syāt) from-middle(madhya+ādi) and(ca) fourth(caturthakam)
+[middle-garland](madhyahāraṃ) [third](tṛtīyaṃ) [be](syāt) [middle-beginning-and](madhyādi ca) [fourth](caturthakam)
 
 ## mukta-m0-p17-v422
-of-these(eteṣām) measure(āya+mānaṃ) and(ca) of-enclosures(prākārāṇāṃ) hear(śṛṇu) in-order(kramāt)
+[of-these-measure-and](eteṣāmāyamānaṃ ca) [of-walls](prākārāṇāṃ) [hear](śṛṇu) [in-order](kramāt)
 
 ## mukta-m0-p17-v423
-inner-enclosure(antar+hārakam) one(ekaṃ) but(tu) middle-enclosure(madhya+hāraṃ) two-daṇḍas(dvi+daṇḍikā)
+[inner-garland-one](antarhārakamekaṃ) [but](tu) [middle-garland](madhyahāraṃ) [two-staff](dvidaṇḍikā)
 
 ## mukta-m0-p17-v424
-well-place(kūpa+sthānaṃ) of-third(tṛtīyasya) of-enclosure(prākārasya) of-lord-of-directions(dik+īśituḥ)
+[well-place](kūpasthānaṃ) [of-third](tṛtīyasya) [of-wall-direction-lord](prākārasyadikīśituḥ)
 
 ## mukta-m0-p17-v425
-between-southeast-and-south(āgneya+yāmyayoḥ+madhye) cloth-hall(vastra+śālā) is-stated(samīritā)
+[between-southeast-and-south](āgneya yāmyayormadhye) [cloth-hall-said](vastraśālāsamīritā)

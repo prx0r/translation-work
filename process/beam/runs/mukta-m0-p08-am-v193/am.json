@@ -1,16 +1,14 @@
 {
  "song": "mukta-m0-p08",
  "verse": 193,
- "question": "What does the speaker ask the listeners to do?",
+ "question": "Should the head-placed thing be revealed?",
  "premises": [
-  "I speak is stated",
-  "of you is stated",
-  "with affection is stated",
-  "to command you should is stated"
+  "It is to be placed on the head.",
+  "It should not be revealed."
  ],
- "inference": "The speaker asks the listeners to command with affection.",
+ "inference": "The head-placed thing should not be revealed.",
  "uncertainties": [
-  "command content not stated"
+  "Exact object."
  ],
- "plain_english": "I speak; you should command with affection."
+ "plain_english": "The head-placed thing should not be revealed."
 }

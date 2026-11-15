@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3550,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun introducing the result obtained",
+     "morph": "rel.pron.nom.sg.n"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "one-obtains",
+     "grounds": "third person singular active present of root prāp",
+     "morph": "3.sg.act-pres root prāp"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the fruit",
+     "morph": "dem.pron.nom.sg.n"
+    },
+    {
+     "surface": "atra+eva",
+     "gloss": "here-itself",
+     "grounds": "atra means here and eva adds emphasis itself",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sakṛt+piṇḍa+pradānataḥ",
+     "gloss": "by-offering-a-ball-of-rice-once",
+     "grounds": "sakṛt means once, piṇḍa means ball of rice, pradānataḥ means from or by offering",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "What fruit is obtained here itself by offering a rice-ball once?",
+   "premises": [
+    "A single rice-ball offering is made here.",
+    "The same fruit is obtained by that offering.",
+    "The result is not deferred to another place."
+   ],
+   "inference": "One rice-ball offering at this place itself yields the corresponding fruit.",
+   "uncertainties": [
+    "The exact referent of tat depends on the preceding verses.",
+    "Whether atra refers to the sacred field or another site is context-dependent."
+   ],
+   "plain_english": "What one obtains, that is obtained right here by offering a rice-ball once."
+  }
+ ]
+}

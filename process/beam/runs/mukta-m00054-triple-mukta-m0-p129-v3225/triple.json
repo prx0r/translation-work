@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3225,
+   "rows": [
+    {
+     "surface": "sargasusaṅkṣepavistarāya",
+     "gloss": "to-contraction-and-expansion-of-creation",
+     "grounds": "dative singular masculine of compound sarga-su-saṅkṣepa-vistara; sandhi fused in surface form",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable salutation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paryayanarāya",
+     "gloss": "to-cyclic-leader-of-men",
+     "grounds": "dative singular masculine of compound paryaya-nara; sandhi fused in surface form",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable salutation particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine aspects receive obeisance as contraction-expansion of creation and cyclic leader of men?",
+   "premises": [
+    "Obeisance is offered to contraction and expansion of creation.",
+    "Obeisance is offered to cyclic leader of men.",
+    "The salutation names two divine aspects."
+   ],
+   "inference": "The verse salutes the deity as both cosmic process and cyclic human leader.",
+   "uncertainties": [
+    "Exact deity identity is not specified by the tokens."
+   ],
+   "plain_english": "Obeisance to the contraction and expansion of creation; obeisance to the cyclic leader of men."
+  }
+ ]
+}

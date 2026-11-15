@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[seven+part](saptabhāgaṃ) [then](tataḥ) [having-made](kṛtvā) [lacuna](* * * * * (?)) [one-should-arrange](kalpayet)
-
+seven-part then having-made ... should-arrange
 ## mukta-m0-p50-v1227
-[middle](madhyamaṃ) [seven+cubits](aptahastaṃ) [and](ca) [half](tvadhaṃ) [six+cubits](ṣaḍahastakam)
-
+middle hand-span and lower six-hand-span
 ## mukta-m0-p50-v1228
-[five+tāla+highest](pañcatālottama) [lacuna](* * * * * * * * * * (?))
-
+five-measure excellent ...
 ## mukta-m0-p50-v1229
-[triangle+elongated](trikoṇamāyataṃ) [having-made](kṛtvā) [tail+two+equal](pucchadvayasama**(?))
-
+triangular elongated having-made tail-two-equal
 ## mukta-m0-p50-v1230
-[tail](pucchaṃ) [and](ca) [width+half](vistārārdhaṃ) [or](vā) [two+tails](dvipucchaṃ) [or](vā) [three+tails](tripucchakam)
-
+tail and width-half or two-tail or three-tail
 ## mukta-m0-p50-v1231
-[bull+of](vṛṣabhasya) [northern](uttare) [part](bhāge) [cow-dung+smeared](gomayālepite) [auspicious](śubhe)
-
+bull's north part cow-dung-smeared auspicious
 ## mukta-m0-p50-v1232
-[its+upon](tasyopari) [place+having-assigned](padanyasya) [one-should-draw](vilikhed) [bull+etc.](vṛṣabhādikam)
-
+on-it foot-placing should-draw bull-etc
 ## mukta-m0-p50-v1233
-[parasol](chatraṃ) [lamp+pair](dīpadvayaṃ) [and+indeed](caiva) [on-both-sides](pārśvayoḥ) [chowries](cāmare) [likewise](tathā)
-
+umbrella two-lamps and indeed sides fly-whisks thus
 ## mukta-m0-p50-v1234
-[white](śvetaṃ) [bull+form](vṛṣabharūpaṃ) [indeed](tu) [horns](śṛṅge) [red](rakte) [is-declared](prakīrtitam)
-
+white bull-form indeed horns red proclaimed
 ## mukta-m0-p50-v1235
-[black](asitaṃ) [white](vāsitaṃ) [or+even](vāpi) [auspicious](śubham) [one-should-draw](ālekhayed) [bull](vṛṣam)
-
+black or perfumed or auspicious should-draw bull
 ## mukta-m0-p50-v1236
-[nine+banner+endowed-with](navadhvajasamāyuktaṃ) [Indra's-mountain+elephant+form](aindrakūṭagajākṛtiḥ)
-
+nine-banner endowed Indra-peak elephant-form
 ## mukta-m0-p50-v1237
-[lion](siṃhaṃ) [southwest+direction](naiṛtadeśe) [indeed](tu) [crocodile](makaraṃ) [western](vāruṇe) [likewise](tathā)
-
+lion southwest-region indeed crocodile water-region thus
 ## mukta-m0-p50-v1238
-[northeast](aiśānyāṃ) [bull](vṛṣabhaṃ) [and+indeed](caiva) [this](metad) [southern+side](dakṣiṇapārśvake)
-
+northeast bull and indeed this right-side
 ## mukta-m0-p50-v1239
-[especially](viśeṣāt) [five+cow-products+with](pañcagavyena) [root+deity+worship](mūladevārcanaṃ) [auspicious](śubham)
-
+especially five-cow-products root-deity-worship auspicious
 ## mukta-m0-p50-v1240
-[according-to+resources+extent](yathāvibhavavistāraṃ) [one-should-worship](arcayed) [teacher+best](deśikottamaḥ)
-
+according-to-means-extent should-worship teacher-best
 ## mukta-m0-p50-v1241
-[two+cubits+of](dvihastasya) [indeed](tu) [width](vistāraṃ) [rice-grains+with](śālibhiḥ) [four+fingers](caturaṅgulam)
-
+two-hand's indeed width rice-grains four-finger
 ## mukta-m0-p50-v1242
-[unhusked-rice+with](adakena) [sesame-seeds+with](tilaiḥ) [afterwards](paścāt) [four+corner+etc.](catuṣkoṇādi) [one-should-draw](lekhayet)
-
+with-adaka sesame after square-etc should-draw
 ## mukta-m0-p50-v1243
-[kuśa-grass+upon](kūrcopari) [one-should-place](nyaset) [pot](kumbhaṃ) [color](varṇaṃ) [silver](rājata) [copper](tāmrakam)
-
+on-kusha should-place pot color silver copper
 ## mukta-m0-p50-v1244
-[gold+with](sauvarṇena) [or](atha) [silver+with](raupyeṇa) [cotton](kārpāsa) [made+with](vihitena) [or](vā)
-
+golden or silver cotton prescribed or
 ## mukta-m0-p50-v1245
-[fragrant+water+with](gandhodakena) [filled](saṃpūrṇaṃ) [five+gems+endowed-with](pañcaratnasamanvitam)
-
+scented-water filled five-gems accompanied
 ## mukta-m0-p50-v1246
-[these](etāni) [five+gems](pañcaratnāni) [bull+pot+in](vṛṣakumbhe) [one-should-place](vinikṣipet)
-
+these five-gems bull-pot should-insert
 ## mukta-m0-p50-v1247
-[cloth+with](vastreṇa) [having-wrapped](veṣṭayitvā) [and](ca) [fragrance](gandhaṃ) [flower](puṣpaṃ) [one-should-offer](pradāpayet)
-
+with-cloth having-wrapped and scent flower should-offer
 ## mukta-m0-p50-v1248
-[banner](dhvajaṃ) [south+side+one-should-place](dakṣiṇatonyasya) [banner+staff](dhvajayaṣṭi) [likewise+north](tathottaram)
-
+banner right placing banner-staff thus north
 ## mukta-m0-p50-v1249
-[slowly](śanaiḥ) [circumambulation](pradakṣiṇaṃ) [having-made](kṛtvā) [temple](ālayaṃ) [indeed](tu) [one-should-approach](samāśrayet)
-
+slowly clockwise having-made temple indeed should-resort
 ## mukta-m0-p50-v1250
-[banner+place+procedure](dhvajasthānakramaṃ) [I-shall-tell](vakṣye) [listen](śṛṇuṣva) [thus](evaṃ) [great+lord](maheśvara)
+banner-place-order will-speak listen-thus O-Maheshvara

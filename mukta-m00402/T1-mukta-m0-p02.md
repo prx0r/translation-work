@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[by-this-much+even](etāvatāpi) [god+lord](deveśa) [!]() [my](mama) [truth](tattvaṃ) [not](na) [is-known](jāyate)
+[by-this-much-even](etāvatāpi) [lord-of-gods](deveśa) [my](mama) [truth](tattvaṃ) [not](na) [is-born](jāyate)
 
 ## mukta-m0-p02-v27
-[yoga+freed+ka+practice](yoganirmuktakānuṣṭha) [means](upāyaḥ) [is-told](kathyate) [by-me](mayā)
+[freed-from-yoga](yoga+nirmukta) [practice](kānuṣṭha) [means](upāyaḥ) [is-told](kathyate) [by-me](mayā)
 
 ## mukta-m0-p02-v28
-[all+all-knowingness+giving](sarvasārvajñyadaṃ) [secret](guhyaṃ) [truth+knowledge+awakening](tattvabodhaprabodhakam)
+[all-knowing-giving](sarvasārvajñyadaṃ) [secret](guhyaṃ) [truth-awakening](tattva+bodha+prabodhakam)
 
 ## mukta-m0-p02-v29
-[all+wonder+full](sarvāścaryamayaṃ) [child](vatsa) [!] [of-the-wise+even](viduṣāmapi) [deluding](mohanam)
+[all-wonder-filled](sarvāścaryamayaṃ) [child](vatsa) [of-the-wise-even](viduṣām+api) [delusion](mohanam)
 
 ## mukta-m0-p02-v30
-[true+teacher+known](sadācāryaparijñātaṃ) [knowledge](jñānam) [true+disciple+supreme+abode](sacchiṣyaparamāspadam)
+[by-true-teacher-known](sadācārya+parijñātaṃ) [knowledge](jñānam) [true-disciple-supreme-abode](sacchiṣya+paramāspadam)
 
 ## mukta-m0-p02-v31
-[not](na) [by-me](mayā) [to-viṣṇu](viṣṇave) [told](proktaṃ) [not](na) [to-dhātṛ](dhātre) [to-gaṇapa](gaṇapāya) [not](na)
+[not](na) [by-me](mayā) [to-viṣṇu](viṣṇave) [spoken](proktaṃ) [not](na) [to-creator](dhātre) [to-gaṇapa](gaṇapāya) [not](na)
 
 ## mukta-m0-p02-v32
-[this+tantra](etattantraṃ) [without](vinā) [child](vatsa) [!] [not+authority](nādhikāro'sti) [maker+by-gods+even](kāraḥ) [even-if](yadyapi) [surairapi](surairapi)
+[this-tantra](etattantraṃ) [without](vinā) [child](vatsa) [no-authority](nādhikāro) [exists](asti) [even-by-gods](surair+api) [although](yadyapi)
 
 ## mukta-m0-p02-v33
-[practitioner](sādhakaḥ) [at-dawn+having-risen](prātarutthāya) [kula+tree](kulavṛkṣaṃ) [having-saluted](praṇamya) [and](ca)
+[adept](sādhakaḥ) [rising-early](prātar+utthāya) [clan-tree](kulavṛkṣaṃ) [having-bowed](praṇamya) [and](ca)
 
 ## mukta-m0-p02-v34
-[prahlāda+ānanda+nātha+named](prahlādānandanāthākhyaṃ) [sanaka+ānanda+indeed](sanakānandameva) [and](ca)
+[prahlāda-ānanda-nātha-named](prahlādānandanāthākhyaṃ) [sanaka-ānanda-even](sanakānandam+eva) [and](ca)
 
 ## mukta-m0-p02-v35
-[krodha+ānanda+sukha+ānanda](krodhānandasukhānandau) [jñāna+ānanda+thereafter](jñānānandamataḥparam)
+[wrath-bliss](krodhānanda) [joy-bliss](sukhānanda) [knowledge-bliss](jñānānanda) [thereafter-supreme](ataḥ+param)
 
 ## mukta-m0-p02-v36
-[great+rasa+joy+heart+bliss+eyes](mahārasarasollāsahṛdayānandalocanāḥ)
+[great-rasa-rasa-delight-heart-bliss-eyed](mahārasarasollāsahṛdayānandalocanāḥ)
 
 ## mukta-m0-p02-v37
-[kula+disciple+towards+compassion+filled+inner-organ+engaged](kulaśiṣyoparikṛpāpūrṇāntaḥkaraṇodyatāḥ)
+[clan-disciple-upon-compassion-filled-inner-organ-active](kulaśiṣyoparikṛpāpūrṇāntaḥkaraṇodyatāḥ)
 
 ## mukta-m0-p02-v38
-[thus](evaṃ) [kula+guru](kulaguruṃ) [having-saluted](natvā) [having-dismissed](visṛjya) [kula+mātṛkā](kulamātṛkām)
+[thus](evaṃ) [clan-guru](kulaguruṃ) [having-bowed](natvā) [releasing](visṛjya) [clan-mother](kulamātṛkām)
 
 ## mukta-m0-p02-v39
-[śākta](śāktaṃ) [kula+guru](kulaguruṃ) [child](vatsa) [!] [told](kathitaṃ) [and](ca) [happiness+bringing](sukhāvaham)
+[śākta](śāktaṃ) [clan-guru](kulaguruṃ) [child](vatsa) [spoken](kathitaṃ) [and](ca) [happiness-giving](sukhāvaham)
 
 ## mukta-m0-p02-v40
-[kula+lord](kulanāthaṃ) [having-abandoned](parityajya) [who](ye) [śāktas](śāktāḥ) [kula+serving](kulasevinaḥ) [other+serving](parasevinaḥ)
+[clan-lord](kulanāthaṃ) [abandoning](parityajya) [those](ye) [śāktas](śāktāḥ) [clan-servants](kulasevinaḥ) [others-servants](parasevinaḥ)
 
 ## mukta-m0-p02-v41
-[therefore](tasmāt) [with-all+effort](sarvaprayatnena) [of-good-family](kulīnaṃ) [guru](gurumāśrayet) [one-should-resort-to](gurumāśrayet)
+[therefore](tasmāt) [all-effort](sarvaprayatnena) [clan-born](kulīnaṃ) [guru](gurum) [should-resort](āśrayet)
 
 ## mukta-m0-p02-v42
-[initiation+lord](dīkṣāprabhuḥ) [he](sa) [alone](evātra) [of-all+mantra](sarvamantrasya) [not+other](nāparaḥ)
+[initiation-lord](dīkṣāprabhuḥ) [he](saḥ) [indeed](eva) [here](atra) [all-mantras](sarvamantrasya) [no-other](nāparaḥ)
 
 ## mukta-m0-p02-v43
-[black+red+green+blue](kṛṣṇaraktaharinnīlā) [various](vividhā) [my](mama) [forms](mūrtayaḥ)
+[black-red-deer-tawny](kṛṣṇaraktaharinnīlā) [various](vividhā) [my](mama) [forms](mūrtayaḥ)
 
 ## mukta-m0-p02-v44
-[heaven](divaṃ) [all](sarvam) [and+earth](athorvīṃ) [and](ca) [netherworld](pātālaṃ) [being+origin](bhūtasaṃbhavam)
+[heaven](divaṃ) [all](sarvam) [and-earth](athorvīṃ) [ca](ca) [pātāla](pātālaṃ) [being-born](bhūtasaṃbhavam)
 
 ## mukta-m0-p02-v45
-[kula+vessel](kulapātre) [with-dūrvā-grass](sadūrvaṃ) [and](ca) [with-sesame](satilaṃ) [with-water](sajalaṃ) [likewise](tathā)
+[clan-vessel](kulapātre) [good-dūrvā](sadūrvaṃ) [ca](ca) [with-sesame](satilaṃ) [with-water](sajalaṃ) [thus](tathā)
 
 ## mukta-m0-p02-v46
-[made+resolve](kṛtasaṃkalpa) [thus+first](evādau) [kula+circle](kulacakraṃ) [in-water](jale) [one-should-place](nyaset)
+[having-made-resolve](kṛtasaṃkalpaḥ) [indeed-first](evādau) [clan-circle](kulacakraṃ) [in-water](jale) [should-place](nyaset)
 
 ## mukta-m0-p02-v47
-[kula+sacred-waters](kulatīrthāni) [there+indeed](tatraiva) [having-invoked](samāvāhya) [kula+natured](kulātmakam)
+[clan-tīrthas](kulatīrthāni) [there-indeed](tatraiva) [having-invoked](samāvāhya) [clan-soul](kulātmakam)
 
 ## mukta-m0-p02-v48
-[kula+root](kulamūlāya) [to-god](devāya) [three-times+offering](tridhārghyaṃ) [having-prepared](parikalpya) [and](ca)
+[clan-root](kulamūlāya) [to-god](devāya) [threefold-arghya](tridhārghyaṃ) [having-prepared](parikalpya) [and](ca)
 
 ## mukta-m0-p02-v49
-[kula+natured](kulātmakān) [again+having-meditated](punardhyātvā) [kula+gods](kuladevāṃstu) [one-should-please](toṣayet)
+[clan-souled-ones](kulātmakān) [again](punar) [having-meditated](dhyātvā) [clan-gods](kuladevāṃs) [tu](tu) [should-please](toṣayet)
 
 ## mukta-m0-p02-v50
-[to-bhairava](bhairavāya) [and](ca) [to-god](devāya) [by-bhairava](bhairaveṇa) [and](ca) [by-agent](kartṛṇā)
+[to-bhairava](bhairavāya) [and](ca) [to-god](devāya) [by-bhairava](bhairaveṇa) [and](ca) [by-maker](kartṛṇā)

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3497,
- "question": "What material must be used to wrap all the junctions of the trident?",
+ "question": "What does the text say when expectation arises about these matters?",
  "premises": [
-  "All trident junctions are concerned.",
-  "Copper sheets are specified as material.",
-  "Wrapping is the prescribed action."
+  "The verse marks an expectation.",
+  "It introduces a following statement.",
+  "It refers to these items."
  ],
- "inference": "All the junctions of the trident should be wrapped with copper sheets.",
- "uncertainties": [],
- "plain_english": "One should wrap all the junctions of the trident with copper sheets."
+ "inference": "When such expectation arises, the text says something further concerning these items and so on.",
+ "uncertainties": [
+  "The referenced following statement is not included in this verse."
+ ],
+ "plain_english": "Thus, in expectation, it says, concerning these and so on."
 }

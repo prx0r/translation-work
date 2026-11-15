@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "gurukāruṇyamātreṇa",
+     "gloss": "guru-compassion-alone",
+     "grounds": "instrumental of the compound expressing the sole means",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "brahmadīkṣāṃ",
+     "gloss": "brahman-initiation",
+     "grounds": "accusative object of samāśrayet",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "samāśrayet",
+     "gloss": "should-resort-to",
+     "grounds": "optative expressing injunction governing the accusative object",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "By what means alone should one resort to brahman-initiation?",
+   "premises": [
+    "guru compassion alone suffices",
+    "brahman initiation is the object",
+    "resorting is enjoined"
+   ],
+   "inference": "Brahman-initiation is to be sought solely through the guru's compassion.",
+   "uncertainties": [
+    "compound internal sandhi not split in the row"
+   ],
+   "plain_english": "By the guru's compassion alone, one should resort to brahman-initiation."
+  }
+ ]
+}

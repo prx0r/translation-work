@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "nirmatsaraḥ",
+     "gloss": "without-envy",
+     "grounds": "adjective describing the brahmin; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niṣkapaṭaḥ",
+     "gloss": "without-deceit",
+     "grounds": "adjective describing the brahmin; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sva+vṛttau",
+     "gloss": "in-own-occupation",
+     "grounds": "compound locative singular feminine; internal sandhi marks the fused form",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brahmin",
+     "grounds": "subject of the verse; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of root bhū; third person singular",
+     "morph": "3.sg.opt.-bhū"
+    }
+   ],
+   "question": "What qualities and conduct define a brahmin in his own occupation?",
+   "premises": [
+    "Brahmin lacks envy and deceit.",
+    "Brahmin remains in own occupation.",
+    "Such a person should be."
+   ],
+   "inference": "A brahmin is defined by envy-free deceit-free conduct in his own occupation.",
+   "uncertainties": [
+    "Exact ritual context is not specified in this verse."
+   ],
+   "plain_english": "A brahmin should be free from envy and deceit, and remain in his own occupation."
+  }
+ ]
+}

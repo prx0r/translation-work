@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p116",
  "verse": 2895,
- "question": "How many brahmins and door guardians must be appointed for the rite?",
+ "question": "What portion and cattle are named?",
  "premises": [
-  "Nine brahmins are specified.",
-  "Eight door guardians are specified.",
-  "Both groups are to be included."
+  "The verse names portion.",
+  "It names your.",
+  "It names cattle."
  ],
- "inference": "One should appoint nine brahmins and eight door guardians.",
- "uncertainties": [],
- "plain_english": "Nine brahmins and indeed eight door guardians."
+ "inference": "The verse names a portion and cattle belonging to the deity.",
+ "uncertainties": [
+  "The token .āakhus is unclear."
+ ],
+ "plain_english": "A portion and your cattle."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[bright](dīptaṃ) [subtle](sūkṣmaṃ) [thousand](sahasraṃ) [and](ca) [sun-possessing](aṃśumān) [well-differentiating](su+prabhedakam)
+[bright](dīptaṃ) [subtle](sūkṣmaṃ) [thousand](sahasraṃ) [and](ca) [rayed](aṃśumān) [well](su) [differentiating](prabhedakam)
 
 ## mukta-m0-p02-v27
-[heroic](vīraṃ) [and](ca) [raurava](rauravaṃ) [and](ca+eva) [crown](makuṭaṃ) [stainless](vimalaṃ) [likewise](tathā)
+[heroic](vīraṃ) [and](ca) [raurava](rauravaṃ) [and-indeed](caiva) [crowned](makuṭaṃ) [pure](vimalaṃ) [thus](tathā)
 
 ## mukta-m0-p02-v28
-[accomplished](siddhaṃ) [continuity-named](santāna+saṃjñaṃ) [and](ca) [spoken-by-śarva](śarva+uktaṃ) [supreme-lord's](pārameśvaram)
+[perfected](siddhaṃ) [continuity-named](santānasaṃjñaṃ) [and](ca) [spoken-by-śarva](śarvoktaṃ) [supreme-lordly](pārameśvaram)
 
 ## mukta-m0-p02-v29
-[among-these](eteṣu) [first-decade](pūrva+daśakaṃ) [śiva-division](śiva+bhedaṃ) [declared](prakīrtitam)
+[these](eteṣu) [first-ten](pūrvadaśakaṃ) [śiva-difference](śivabhedaṃ) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p02-v30
-[consisting-of-śiva-and-rudra](śiva+rudra+ātmakaṃ) [tantra](tantraṃ) [twenty-eight-in-number](aṣṭāviṃśati+saṃkhyakam)
+[śiva-rudra-natured](śivarudrātmakaṃ) [tantra](tantraṃ) [twenty-eight-numbered](aṣṭāviṃśatisaṃkhyakam)
 
 ## mukta-m0-p02-v31
-[now](atha) [of-siddhānta-tantras](siddhānta+tantrāṇāṃ) [hearers](śrotāraṃ) [indeed](tu) [specifically](viśeṣataḥ)
+[then](atha) [of-siddhānta-tantras](siddhāntatantrāṇāṃ) [listener](śrotāraṃ) [but](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p02-v32
-[hearers](śrotāraḥ) [of-śiva-divisions](śiva+bhedānāṃ) [by-tradition](pāraṃparyāt) [three-by-three](trayaḥ+trayaḥ)
+[listeners](śrotāraś) [of-śiva-differences](śivabhedānāṃ) [tradition-three-three](pāraṃparyāstrayastrayaḥ)
 
 ## mukta-m0-p02-v33
-[praṇava](praṇavaḥ) [trikalā](trikalāḥ) [three-eyed](tryakṣaḥ) [sudhākhya](sudhākhyaḥ) [bhasmaka](bhasmakaḥ) [all-pervading](vibhuḥ)
+[praṇava](praṇavastrikalāstryakṣaḥ) [three-arts](trikalā) [three-eyed](tryakṣaḥ) [nectar-named](sudhākhyo) [ashy](bhasmako) [all-pervading](vibhuḥ)
 
 ## mukta-m0-p02-v34
-[śarvarudra](śarvarudraḥ) [prajeśa](prajeśaḥ) [and](ca) [subhu](subhuḥ) [śivaśiva](śivaśivaḥ) [acyuta](acyutaḥ)
+[śarva-rudra](śarvarudraḥ) [lord-of-creatures](prajeśaś) [and](ca) [good](subhuḥ) [śiva-śiva](śivaśivo) [acyuta]('cyutaḥ)
 
 ## mukta-m0-p02-v35
-[then](tato) [indeed](vai) [śravaṇa](śravaṇaḥ) [and](ca+eva) [prabha](prabhaṃ) [and](ca) [knowledge-designated](jñā+abhidhāyakaḥ)
+[then](tato) [indeed](vai) [hearing](śravaṇaś) [and-indeed](caiva) [radiance](prabhaṃ) [and](ca) [knowledge-named](jñābhidhāyakaḥ)
 
 ## mukta-m0-p02-v36
-[ravi](raviḥ) [vighneśa](vighneśvaḥ) [and](ca+eva) [dadhīśa](dadhīśaḥ) [śiva-named](śiva+nāmakaḥ)
+[sun](ravir) [and-vighneśa](vighneśvaś) [and-indeed](caiva) [dadhīśa](dadhīśaḥ) [śiva-named](śivanāmakaḥ)
 
 ## mukta-m0-p02-v37
-[anādi](anādiḥ) [parameśa](parameśaḥ) [and](ca) [daśārṇa](daśārṇaḥ) [girijā](girijā) [then](tataḥ)
+[beginningless](anādiḥ) [supreme-lord](parameśaś) [and](ca) [ten-syllabled](daśārṇo) [girijā](girijā) [then](tataḥ)
 
 ## mukta-m0-p02-v38
-[tejas](tejaḥ) [prajāpati](prajāpatiḥ) [and](ca+eva) [prameṇa](prameṇaḥ) [and](ca+ena) [naghnaka](naghnakaḥ)
+[radiance](tejaḥ) [prajāpati](prajāpatiś) [and-indeed](caiva) [prameṇa](prameṇaś) [and](cena) [naghnaka](naghnakaḥ)
 
 ## mukta-m0-p02-v39
-[ananta](anantaḥ) [bṛhaspati](bṛhaspatiḥ) [and](ca+eva) [praśānta](praśāntaḥ) [and](ca) [dadhīcaka](dadhīcakaḥ)
+[ananta](ananto) [bṛhaspati](bṛhaspatiś) [and-indeed](caiva) [tranquil](praśāntaś) [and](ca) [dadhīcaka](dadhīcakaḥ)
 
 ## mukta-m0-p02-v40
-[bindu](binduḥ) [caṇḍeśvara](caṇḍeśvaraḥ) [and](ca+eva) [devoted-to-śiva](śiva+niṣṭhaḥ) [savoplava](savoplavaḥ)
+[bindu](binduḥ) [caṇḍeśvara](caṇḍeśvaraś) [and-indeed](caiva) [śiva-devoted](śivaniṣṭho) [savoplava](savoplavaḥ)
 
 ## mukta-m0-p02-v41
-[devapītā](devapītā) [and](ca) [saṃvartna](saṃvartnaḥ) [śiva](śivaḥ) [mahākāla](mahākālaḥ) [likewise](tathā)
+[devapītā](devapītā) [and](ca) [saṃvartna](saṃvartnaḥ) [śiva](śivo) [mahākāla](mahākālaḥ) [thus](tathā)
 
 ## mukta-m0-p02-v42
-[of-root-tantras-and-subdivisions](mūla+tantra+upabhedāḥ) [and](ca) [will-be-stated](vakṣyate) [by-names](nāmabhiḥ) [in-order](kramāt)
+[root-tantra-subdivisions](mūlatantropabhedāś) [and](ca) [will-be-spoken](vakṣyate) [by-names](nāmabhiḥ) [in-order](kramāt)
 
 ## mukta-m0-p02-v43
-[sixfold-division](ṣaḍ+bhedaṃ) [cintya](cintya) [tantra](tantraṃ) [and](ca) [sevenfold-division](sapta+bhedaṃ) [indeed](tu) [kāraṇa](kāraṇam)
+[six-fold](ṣaḍbhedaṃ) [contemplated](cintya) [tantra](tantraṃ) [and](ca) [seven-fold](saptabhedaṃ) [but](tu) [causal](kāraṇam)
 
 ## mukta-m0-p02-v44
-[subtle](sūkṣmam) [onefold](eka+vidhaṃ) [declared](proktaṃ) [tenfold-division](daśa+bhedaṃ) [thousand](sahasrakam)
+[subtle](sūkṣmamekavidhaṃ) [one-fold](ekavidhaṃ) [proclaimed](proktaṃ) [ten-fold](daśabhedaṃ) [thousand](sahasrakam)
 
 ## mukta-m0-p02-v45
-[eightfold-division](aṣṭa+bhedaṃ) [indeed](tu) [vijaya](vijayaṃ) [niśvāsa](niśvāsaṃ) [and](ca) [eightfold-division](aṣṭa+bhedakam)
+[eight-fold](aṣṭabhedaṃ) [but](tu) [vijaya](vijayaṃ) [niśvāsa](niśvāsaṃ) [and](ca) [eight-fold](aṣṭabhedakam)
 
 ## mukta-m0-p02-v46
-[vīra-tantra](vīra+tantraṃ) [specifically](viśeṣeṇa) [divisions](bhedāḥ) [and](ca+eva) [thirteen](trayodaśa)
+[vīra-tantra](vīratantraṃ) [especially](viśeṣeṇa) [subdivisions](bhedāś) [and-indeed](caiva) [thirteen](trayodaśa)
 
 ## mukta-m0-p02-v47
-[vimala](vimalaṃ) [indeed](tu) [division-by-parts](kalā+bhedaṃ) [in-candrajñāna](candra+jñāne) [fourteen](caturdaśa)
+[pure](vimalaṃ) [but](tu) [art-division](kalābhedaṃ) [moon-knowledge](candrajñāne) [fourteen](caturdaśa)
 
 ## mukta-m0-p02-v48
-[lalita](lalitaṃ) [division-by-qualities](guṇa+bhedaṃ) [should-be](syāt) [siddha](siddhaṃ) [and](ca) [division-by-ages](yuga+bhedakam)
+[lalita](lalitaṃ) [quality-division](guṇabhedaṃ) [may-be](syāt) [siddha](siddhaṃ) [and](ca) [age-division](yugabhedakam)
 
 ## mukta-m0-p02-v49
-[parameśa](parameśaṃ) [sevenfold-division](sapta+bhedaṃ) [kiraṇa](kiraṇaṃ) [ninefold-division](nava+bhedakam)
+[supreme-lord](parameśaṃ) [seven-fold](saptabhedaṃ) [kiraṇa](kiraṇaṃ) [nine-fold](navabhedakam)
 
 ## mukta-m0-p02-v50
-[nārasiṃha](nārasiṃhaṃ) [and](ca) [vaktāra](vaktāraṃ) [bhairavottara](bhairava+uttaram) [indeed](eva) [and](ca)
+[nārasiṃha](nārasiṃhaṃ) [and](ca) [speaker](vaktāraṃ) [bhairava-uttara](bhairavottarameva) [indeed](ca)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-science(vijñānam) + medicine(āyurvedaṃ) and(ca) śrī-kālajñāna-named(śrīkālajñāna+saṃjñakam)
+[vijñānam](vijñānam) [āyurvedam](āyurvedaṃ) [ca](ca) [śrī](śrī) [kāla](kāla) [jñāna](jñāna) [saṃjñakam](saṃjñakam)
 
 ## mukta-m0-p04-v77
-bharata(bharataṃ) song(gīta) + instrument(vātodyaṃ) in-prodgīta(prodgīte) sixteen(ṣoḍaśa) + remembered(smṛtāḥ)
+[bharatam](bharataṃ) [gīta](gīta) [vātodyam](vātodyaṃ) [prodgīte](prodgīte) [ṣoḍaśa](ṣoḍaśa) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p04-v78
-kaumāra(kaumāraṃ) then(tataḥ) śālabheda(śāla+bhedaṃ) sārottara-named(sārottara+āhvayam)
+[kaumāram](kaumāraṃ) [tataḥ](tataḥ) [śāla](śāla) [bhedaṃ](bhedaṃ) [sāra](sāra) [uttara](uttara) [āhvayam](āhvayam)
 
 ## mukta-m0-p04-v79
-of-siddha-tantra(siddha+tantrasya) four(catvāraḥ) divisions(bhedāḥ) indeed(tu) declared(parikīrtitāḥ)
+[siddha](siddha) [tantrasya](tantrasya) [catvāraḥ](catvāro) [bhedāḥ](bhedāḥ) [tu](tu) [parikīrtitāḥ](parikīrtitāḥ)
 
 ## mukta-m0-p04-v80
-innumerable(asaṅkhyam) aniladvandva(anila+dvandvaṃ) in-santāna(santāne) sevenfold(sapta+bhedakaḥ)
+[asaṅkhyam](asaṅkhyam) [anila](anila) [dvandvam](dvandvaṃ) [santāne](santāne) [sapta](sapta) [bhedakaḥ](bhedakaḥ)
 
 ## mukta-m0-p04-v81
-spoken-by-vāyu(vāyu+proktaṃ) kuberākhya(kubera+ākhyaṃ) in-spoken-by-śarva(śarva+ukte) fivefold(pañcadhā) remembered(smṛtāḥ)
+[vāyu](vāyu) [proktaṃ](proktaṃ) [kubera](kubera) [ākhyaṃ](ākhyaṃ) [śarva](śarva) [ukte](ukte) [pañcadhā](pañcadhā) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p04-v82
-puṣkara(puṣkaraṃ) suprayoga(su+prayogaṃ) and(ca) sevenfold(saptadhā) in-parameśvara(parameśvare)
+[puṣkaram](puṣkaraṃ) [suprayogam](suprayogaṃ) [ca](ca) [sapta](sapta) [dhā](dhā) [parameśvare](parameśvare)
 
 ## mukta-m0-p04-v83
-prabuddha(prabuddhaṃ) henuka(henukaṃ) kāla(kālaṃ) in-kiraṇa(kiraṇe) nine(nava) + declared(kīrtitāḥ)
+[prabuddham](prabuddhaṃ) [henukam](henukaṃ) [kālam](kālaṃ) [kiraṇe](kiraṇe) [nava](nava) [kīrtitāḥ](kīrtitāḥ)
 
 ## mukta-m0-p04-v84
-sarva(sarvaṃ) and(ca) kālajñāna(kāla+jñānaṃ) and(ca) nitya(nityaṃ) all-purpose(sarva+arthakaṃ) likewise(tathā)
+[sarvam](sarvaṃ) [ca](ca) [kāla](kāla) [jñānam](jñānaṃ) [ca](ca) [nityam](nityaṃ) [sarva](sarva) [arthakam](arthakaṃ) [tathā](tathā)
 
 ## mukta-m0-p04-v85
-in-vātula-named(vātula+ākhye) great-tantra(mahā+tantre) divisions(bhedāḥ) twelve(dvādaśa) + declared(kīrtitāḥ)
+[vātula](vātula) [ākhya](ākhya) [mahā](mahā) [tantre](tantre) [bhedāḥ](bhedāḥ) [dvādaśa](dvādaśa) [kīrtitāḥ](kīrtitāḥ)
 
 ## mukta-m0-p04-v86
-beginning-with-kāmikā(kāmikā+ādi) + ending-with-ajita(ajita+antāḥ) indeed(tu) from-sadyojāta-face(sadyojāta+mukha+udbhavāḥ)
+[kāmika](kāmika) [ādi](ādi) [ajita](ajita) [antāḥ](antāḥ) [tu](tu) [sadyojāta](sadyojāta) [mukha](mukha) [udbhavāḥ](udbhavāḥ)
 
 ## mukta-m0-p04-v87
-beginning-with-vijaya(vijaya+ādyāḥ) indeed(tu) ending-with-vīra(vīra+antāḥ) scriptures(saṃhitāḥ) born-from-ghora-face(ghora+vaktra+jāḥ)
+[vijaya](vijaya) [ādyāḥ](ādyāḥ) [tu](tu) [vīra](vīra) [antāḥ](antāḥ) [saṃhitā](saṃhitā) [ghora](ghora) [vaktra](vaktra) [jāḥ](jāḥ)
 
 ## mukta-m0-p04-v88
-born-from-īśāna-face(īśāna+vaktra+saṃjātāḥ) declared(prodgītāḥ) beginning-with-prodgīta(prodgīta+ādi) + eight-scriptures(aṣṭa+saṃhitāḥ)
+[īśāna](īśāna) [vaktra](vaktra) [saṃjātāḥ](saṃjātāḥ) [prodgīta](prodgīta) [ādyāḥ](ādyāḥ) [aṣṭa](aṣṭa) [saṃhitāḥ](saṃhitāḥ)
 
 ## mukta-m0-p04-v89
-parārdha(parārdhaṃ) kāmika(kāmikaṃ) declared(proktaṃ) yogaja(yogajaṃ) hundred-thousand(lakṣam) + stated(ucyate)
+[parārdham](parārdhaṃ) [kāmikam](kāmikaṃ) [proktaṃ](proktaṃ) [yogajam](yogajaṃ) [lakṣam](lakṣam) [ucyate](ucyate)
 
 ## mukta-m0-p04-v90
-ajita(ajitaṃ) indeed(tu) ten-thousand(ayutaṃ) declared(proktaṃ) hundred-thousand(niyutaṃ) dīpta(dīptam) + stated(ucyate)
+[ajitam](ajitaṃ) [tu](tu) [ayutam](ayutaṃ) [proktaṃ](proktaṃ) [niyutam](niyutaṃ) [dīptam](dīptam) [ucyate](ucyate)
 
 ## mukta-m0-p04-v91
-aṃśumān(aṃśumān) five-hundred-thousand(pañca+lakṣaṃ) indeed(tu) suprabheda(suprabhedaṃ) three-crores(tri+koṭikam)
+[aṃśumān](aṃśumān) [pañca](pañca) [lakṣam](lakṣaṃ) [tu](tu) [suprabhedam](suprabhedaṃ) [tri](tri) [koṭikam](koṭikam)
 
 ## mukta-m0-p04-v92
-svāyambhuva(svāyambhuvaṃ) three-and-half-crores(tri+koṭi+ardhaṃ) anala(analaṃ) indeed(tu) thirty-thousand(ayuta+trayam)
+[svāyambhuvam](svāyambhuvaṃ) [tri](tri) [koṭi](koṭi) [ardham](ardhaṃ) [analam](analaṃ) [tu](tu) [ayuta](ayuta) [trayam](trayam)
 
 ## mukta-m0-p04-v93
-makuṭa(makuṭaṃ) hundred-thousand(śata+sāhasraṃ) vimala(vimalaṃ) and(ca) three-hundred-thousand(tri+lakṣakam)
+[makuṭam](makuṭaṃ) [śata](śata) [sāhasram](sāhasraṃ) [vimalam](vimalaṃ) [ca](ca) [tri](tri) [lakṣakam](lakṣakam)
 
 ## mukta-m0-p04-v94
-prodgīta(prodgītaṃ) three-hundred-thousand(tri+lakṣaṃ) may-be(syāt) lalita(lalitaṃ) and(ca) eight-thousand(aṣṭa+sahasrakam)
+[prodgītam](prodgītaṃ) [tri](tri) [lakṣam](lakṣaṃ) [syāt](syāt) [lalitam](lalitaṃ) [ca](ca) [aṣṭa](aṣṭa) [sahasrakam](sahasrakam)
 
 ## mukta-m0-p04-v95
-śarvodgīta(śarva+udgītaṃ) two-hundred-thousand(dvi+lakṣaṃ) may-be(syāt) pārameśa(pārameśa) two-hundred-thousand(dvi+lakṣakam)
+[śarva](śarva) [udgītam](udgītaṃ) [dvi](dvi) [lakṣam](lakṣaṃ) [syāt](syāt) [pārameśa](pārameśa) [dvi](dvi) [lakṣakam](lakṣakam)
 
 ## mukta-m0-p04-v96
-tantra-body(tantra+mūrtim) and(ca) briefly(saṃkṣepāt) I-shall-declare(pravakṣyāmi) O-maheśvara(maheśvara)
+[tantra](tantra) [mūrtim](mūrtiṃ) [ca](ca) [saṃkṣepāt](saṃkṣepāt) [pravakṣyāmi](pravakṣyāmi) [maheśvara](maheśvara)
 
 ## mukta-m0-p04-v97
-cintya(cintyaṃ) toe(pāda+aṅgulaṃ) declared(proktaṃ) pair-of-shanks(jaṃghā+yugmaṃ) indeed(tu) kāraṇa(kāraṇam)
+[cintyam](cintyaṃ) [pāda](pāda) [aṅgulam](aṅgulaṃ) [proktaṃ](proktaṃ) [jaṃghā](jaṃghā) [yugmam](yugmaṃ) [tu](tu) [kāraṇam](kāraṇam)
 
 ## mukta-m0-p04-v98
-sūkṣma(sūkṣmaṃ) and(ca) secret-seed(guhya+bījaṃ) may-be(syāt) sahasra(sahasraṃ) indeed(tu) hip-region(kaṭī+talam)
+[sūkṣmam](sūkṣmaṃ) [ca](ca) [guhya](guhya) [bījam](bījaṃ) [syāt](syāt) [sahasram](sahasraṃ) [tu](tu) [kaṭī](kaṭī) [talam](talam)
 
 ## mukta-m0-p04-v99
-vijaya(vijayaṃ) belly-region(kukṣi+deśaṃ) may-be(syāt) niśvāsa(niśvāsaṃ) heart(hṛdayaṃ) may-be(bhavet)
+[vijayam](vijayaṃ) [kukṣa](kukṣa) [deśam](deśaṃ) [syāt](syāt) [niśvāsam](niśvāsaṃ) [hṛdayam](hṛdayaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p04-v100
-vīra(vīraṃ) and(ca) ear-region(karṇa+deśaṃ) indeed(tu) raurava(rauravaṃ) pair-of-ears(śravaṇa+dvayam)
+[vīram](vīraṃ) [ca](ca) [karṇa](karṇa) [deśam](deśaṃ) [tu](tu) [rauravam](rauravaṃ) [śravaṇa](śravaṇa) [dvayam](dvayam)

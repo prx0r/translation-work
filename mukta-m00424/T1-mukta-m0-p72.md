@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-covering(saṃstrayo) with-cloth(parivastreṇa) with-fragrance+flower+etc.(gandha+puṣpa+ādibhiḥ) together(saha)
+[together](saṃstrayo) [with-garment](parivastreṇa) [with-perfume-flowers-etc](gandhapuṣpādibhiḥ) [with](saha)
 
 ## mukta-m0-p72-v1777
-cloth(vastram) having-covered+head(ācchādya+śirasā) should-fumigate(dhūpayet) with-ghee(dhṛtayena) indeed(tu)
+[covering-cloth](vastram) [covering](ācchādya) [head](śirasā) [incense](dhūpayet) [with-ghee](hṛtayena) [but](tu)
 
 ## mukta-m0-p72-v1778
-ash+sandalwood+earth+powder(bhasma+candana+mṛt+cūrṇaṃ) in-west(paścime) indeed(tu) in-direction(diśi) should-place(nyaset)
+[ash](bhasma) [sandal](candana) [clay-powder](mṛccūrṇaṃ) [west](paścime) [direction](tu) [place](diśi) [place](nyaset)
 
 ## mukta-m0-p72-v1779
-these(etāni) with-fragrance+flower+etc.(gandha+puṣpa+ādyaiḥ) should-worship(arcayet) with-ghee(dhṛtayena) indeed(tu)
+[these](etāni) [perfume-flowers-etc](gandhapuṣpādyaiḥ) [worship](arcayet) [with-ghee](hṛtayena) [but](tu)
 
 ## mukta-m0-p72-v1780
-there(tatra) having-worshipped(saṃpūjya) lord-of-gods(deva+īśaṃ) having-meditated(dhyātvā) tāṇḍava-deity(tāṇḍava+daivatam)
+[there](tatra) [worship](saṃpūjya) [lord](deveśaṃ) [meditating](dhyātvā) [tāṇḍava](tāṇḍava) [deity](daivatam)
 
 ## mukta-m0-p72-v1781
-with-darbha-grass(darbhaiḥ) having-covered(ācchādya) gods(devāḥ) and(ca) with-threads(sūtraiḥ) having-enwrapped(vāveṣṭya) wise-one(buddhimān)
+[with-kuśa-grass](darbhaiḥ) [covering](ācchādya) [gods](devāḥ) [ca](ca) [with-threads](sūtraiḥ) [binding](vāveṣṭya) [wise](buddhimān)
 
 ## mukta-m0-p72-v1782
-with-incense+lamps(dhūpa+dīpaiḥ) accompanied(samāyuktaṃ) should-worship(pūjayet) syllable-mantras(varṇa+mantrakān)
+[with-incense-lamp](dhūpadīpaiḥ) [endowed](samāyuktaṃ) [worship](pūjayet) [varṇa-mantras](varṇamantrakān)
 
 ## mukta-m0-p72-v1783
-abundant(prabhūtaṃ) and(ca) indeed(eva) food-offering(naivedyaṃ) with-five-syllables(pañca+varṇaiḥ) especially(viśeṣataḥ)
+[abundant](prabhūtaṃ) [ca](ca) [indeed](eva) [food-offering](naivedyaṃ) [five-colored](pañcavarṇaiḥ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p72-v1784
-substance(dravyastu) in-heart(hṛdaye) not(na) indeed(eva) to-be-offered(hotavyaṃ) utterance(vyāhṛtaṃ) then(tataḥ)
+[dravya](dravyaḥ) [tu](tu) [heart](hṛdaye) [not](na) [eva](eva) [offer](hotavyaṃ) [spoken](vyāhṛtaṃ) [then](tataḥ)
 
 ## mukta-m0-p72-v1785
-in-morning(prabhāte) according-to-rule(vidhivat) having-bathed(snātvā) with-body-made-complete(sakalī+kṛta+vigrahaḥ)
+[morning](prabhāte) [according-to-rite](vidhivat) [bathing](snātvā) [prepared-image](sakalīkṛtavigrahaḥ)
 
 ## mukta-m0-p72-v1786
-worship(pūjanaṃ) as-before(pūrva+vat) having-done(kṛtvā) lord-of-gods(deva+īśaṃ) *(?)ṇḍitānvitam(*(?)ṇḍita+anvitam)
+[worship](pūjanaṃ) [as-before](pūrvavat) [doing](kṛtvā) [lord](deveśaṃ) [with-scholars](ṇḍitānvitam)
 
 ## mukta-m0-p72-v1787
-sacred-thread(pavitraṃ) on-fire(vahni) having-placed(āropya) sprinkling-around(pariṣecanam) then(atha) should-perform(ācaret)
+[purifier](pavitraṃ) [fire](vahnim) [placing](āropya) [circumambulation](pariṣecanam) [then](atha) [do](ācaret)
 
 ## mukta-m0-p72-v1788
-of-other(anyeṣāṃ) and(ca) indeed(eva) liṅgas(liṅgānāṃ) should-give(dāpayet) indeed(tu) sacred-thread(pavitrakam)
+[others](anyeṣāṃ) [ca](ca) [indeed](eva) [liṅgas](liṅgānāṃ) [give](dāpayet) [tu](tu) [purifier](pavitrakam)
 
 ## mukta-m0-p72-v1789
-sacred-thread(pavitraṃ) should-give(dāpayet) he(saḥ) and(ca) then(āt) should-worship(pūjayet) indeed(tu) especially(viśeṣataḥ)
+[purifier](pavitraṃ) [give](dāpayet) [saścāt](saścāt) [worship](pūjayet) [tu](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p72-v1790
-with-fragrance+etc.(gandha+ādyaiḥ) indeed(tu) having-worshipped(saṃpūjya) with-incense+lamps(dhūpa+dīpaiḥ) especially(viśeṣataḥ)
+[perfume-etc](gandhādyaiḥ) [tu](tu) [worship](saṃpūjya) [incense-lamp](dhūpadīpaiḥ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p72-v1791
-at-end-of-oblation(homa+ante) and(ca) indeed(eva) to-be-done(kartavyaṃ) beginning+end(ādi+anta) my(mama) *(?) janam(*(?) +janam)
+[homa-end](homānte) [ca](ca) [eva](eva) [do](kartavyaṃ) [beginning-end](ādyanta) [mama](mama) [janam](janam)
 
 ## mukta-m0-p72-v1792
-with-garments(vastraiḥ) with-ornaments+etc.(ābharaṇa+ādyaiḥ) and(ca) teacher(ācāryaṃ) should-worship-well(saṃprapūjayet)
+[with-cloths](vastraiḥ) [ornaments-etc](ābharaṇādyaiḥ) [ca](ca) [teacher](ācāryaṃ) [worship](saṃprapūjayet)
 
 ## mukta-m0-p72-v1793
-withdrawal(pratyāhāraṃ) and(ca) meditation(dhyānaṃ) and(ca) concentration(dhāraṇāna) with-absorption(samādhikam)
+[withdrawal](pratyāhāraṃ) [ca](ca) [meditation](dhyānaṃ) [ca](ca) [concentration](dhāraṇā) [samādhi](samādhikam)
 
 ## mukta-m0-p72-v1794
-non-violence(ahiṃsā) truth(satyam) non-stealing(asteyaṃ) celibacy(brahmacaryā) non-possession(aparigraham)
+[nonviolence](ahiṃsā) [truth](satyam) [nonstealing](asteyaṃ) [celibacy](brahmacaryā) [nonpossession](aparigraham)
 
 ## mukta-m0-p72-v1795
-purity(śaucaṃ) contentment(santoṣakaṃ) there(tatra) austerity+tapas(tapas) self-study(svādhyāyam) indeed(eva) and(ca)
+[purity](śaucaṃ) [contentment](santoṣakaṃ) [there](tatra) [austerity](tapas) [study](svādhyāya) [eva](eva) [ca](ca)
 
 ## mukta-m0-p72-v1796
-cow-face(gomukhaṃ) auspicious-posture(svastikaṃ) and(ca) indeed(eva) lotus(padmaṃ) and(ca) indeed(eva) half-moon(ardha+candrakam)
+[gomukha](gomukhaṃ) [svastika](svastikaṃ) [ca](ca) [eva](eva) [lotus](padmaṃ) [ca](ca) [eva](eva) [half-moon](ardhacandrakam)
 
 ## mukta-m0-p72-v1797
-breath-control(prāṇāyāmaṃ) and(ca) previously-stated(pūrva+uktaṃ) withdrawal-sequence(pratyāhāra+kramaṃ) hear(śṛṇu)
+[prāṇāyāma](prāṇāyāmaṃ) [ca](ca) [previously-said](pūrvoktaṃ) [withdrawal-order](pratyāhārakramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p72-v1798
-as-long-as(yāvat) so-long(tāvat) become-own-nature(svarī+bhūtaṃ) withdrawal(pratyāhāraḥ) that(saḥ) is-called(ucyate)
+[as-long](yāvat) [so-long](tāvat) [become-sound](svarībhūtaṃ) [withdrawal](pratyāhāraḥ) [sa](sa) [called](ucyate)
 
 ## mukta-m0-p72-v1799
-from-concentration(dhāraṇāt) twofold(dvividhaṃ) declared(proktaḥ) meditation(dhyānam) indeed(eva) sequence(kramaṃ) hear(śṛṇu)
+[concentration](dhāraṇā) [twofold](dvividhaṃ) [proclaimed](prokto) [meditation](dhyānam) [eva](eva) [order](kramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p72-v1800
-above+below(ūrdhva+adha) lower(madhamaṃ) void(śūnyaṃ) middle-void(madhya+śūnyaṃ) free-from-illness(nirāmayam)
+[upward-downward](ūrdhvādhamadhamaṃ) [empty](śūnyaṃ) [middle-empty](madhyaśūnyaṃ) [diseaseless](nirāmayam)

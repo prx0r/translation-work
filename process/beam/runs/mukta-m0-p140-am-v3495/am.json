@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3495,
- "question": "What ritual topic has been completed and what topic is introduced next for instruction?",
+ "question": "How should a wise practitioner bathe the image with warm water?",
  "premises": [
-  "The installation of the trident has been declared.",
-  "A new topic is introduced.",
-  "The listener is asked to hear about rope-binding."
+  "Warm waters are prescribed.",
+  "The image is the object.",
+  "The wise one performs the bathing."
  ],
- "inference": "Having declared the trident installation, the text now introduces the topic of rope-binding.",
- "uncertainties": [],
- "plain_english": "The installation of the trident has been declared; now hear about the binding with ropes."
+ "inference": "A wise practitioner should also bathe the image with slightly warm waters.",
+ "uncertainties": [
+  "The degree of warmth is not quantified."
+ ],
+ "plain_english": "A wise one should also bathe the image with slightly warm waters."
 }

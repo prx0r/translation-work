@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "mātāmahādayo",
+     "gloss": "maternal-grandfather-and-others",
+     "grounds": "compound mātāmaha plus ādi; nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātāmahyādayo",
+     "gloss": "maternal-grandmother-and-others",
+     "grounds": "compound mātāmahī plus ādi; nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which maternal ancestors are to be worshipped among the pitṛs?",
+   "premises": [
+    "maternal grandfathers and others are also pitṛs",
+    "maternal grandmothers and others are also pitṛs",
+    "the worshipped ancestor list includes both maternal sides"
+   ],
+   "inference": "maternal ancestors of both genders are included among the worshipped pitṛs",
+   "uncertainties": [
+    "the exact scope of ādi is not specified"
+   ],
+   "plain_english": "Maternal grandfathers and others, and maternal grandmothers and others too, are also [to be worshipped]."
+  }
+ ]
+}

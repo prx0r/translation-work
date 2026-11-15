@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-fierce-faced (ugramukhīm) fierce-radiance (ugraprabhāṃ) blazing (pradīptāṃ) and (ca) likewise (tathaiva) and (ca)
+[fierce-faced](ugramukhīm) [fierce-radiance](ugraprabhāṃ) [blazing](pradīptāṃ) [and](ca) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p12-v277
-Brahmāṇī-etc (brahmāṇī+ādyāḥ) likewise (tathā) outside (bāhye) one-should-worship (yajet) in-eastern-petal (pūrva+dale) in-order (kramāt)
+[brahmanies-first](brahmāṇyādyāḥ) [likewise](tathā) [outside](bāhye) [worship](yajet) [eastern-petal](pūrvadale) [in-order](kramāt)
 
 ## mukta-m0-p12-v278
-a-hundred-thousand (lakṣaṃ) at-night (rātrau) likewise (tathā) a-hundred-thousand (lakṣaṃ) devoted-to-great-purity (mahā+śauca+parāyaṇaḥ)
+[hundred-thousand](lakṣaṃ) [night](rātrau) [likewise](tathā) [hundred-thousand](lakṣaṃ) [great-purity-devoted](mahāśaucaparāyaṇaḥ)
 
 ## mukta-m0-p12-v279
-at-night (rātrau) by-single-recitation (japa+eka+mātreṇa) giving-success (siddhi+dā) fee (dakṣiṇā) should-be (bhavet)
+[night](rātrau) [mantra-only-by](japaikamātreṇa) [success-giving](siddhidā) [southern](dakṣiṇā) [becomes](bhavet)
 
 ## mukta-m0-p12-v280
-in-forest (araṇyām) or (athavā) at-night (rātrau) Mahākālī (mahākālī) of-great-prosperity (mahā+udayā)
+[forest](araṇyām) [or](athavā) [night](rātrau) [great-kali](mahākālī) [great-rise](mahodayā)
 
 ## mukta-m0-p12-v281
-one-should-attract (ākarṣayet) celestial-maiden (deva+kanyāṃ) in-netherworld (pātāle) Nāga-maiden (nāga+kanyakām)
+[attract](ākarṣayet) [goddess-maiden](devakanyāṃ) [in-netherworld](pātāle) [serpent-maiden](nāgakanyakām)
 
 ## mukta-m0-p12-v282
-worship (pūjā) meditation (dhyānaṃ) application (prayogaṃ) and (ca) recitation (japaṃ) and (ca) indeed (eva) especially (viśeṣataḥ)
+[worship](pūjā) [meditation](dhyānaṃ) [application](prayogaṃ) [and](ca) [mantra](japaṃ) [and](ca) [indeed](eva) [especially](viśeṣataḥ)
 
 ## mukta-m0-p12-v283
-recitation-etc (japa+ādikaṃ) or (vā) all (sarvaṃ) previously-stated (pūrva+uktaṃ) and (ca) here (atra) declared (kīrtitam)
+[mantra-etc](japādikaṃ) [water](vāri) [all](sarvaṃ) [previously-said](pūrvoktaṃ) [and](ca) [here](atra) [proclaimed](kīrtitam)
 
 ## mukta-m0-p12-v284
-in-northeast (īśāne) conch (śaṅkham) having-reached (āsādya) there (tatra) diagram (yantraṃ) having-drawn (vilikhya) and (ca)
+[northeast](īśāne) [conch](śaṅkham) [having-obtained](āsādya) [there](tatra) [diagram](yantraṃ) [having-drawn](vilikhya) [and](ca)
 
 ## mukta-m0-p12-v285
-one-hundred-and-eight (aṣṭa+uttara+śataṃ) mortal (martyaḥ) having-consecrated (mantrayitvā) well-restrained (su+saṃyataḥ)
+[one-hundred-eight](aṣṭottaraśataṃ) [mortal](martyo) [having-mantra'd](mantrayitvā) [well-restrained](susaṃyataḥ)
 
 ## mukta-m0-p12-v286
-with-eyes-rolling-from-liquor (madirā+ghūrṇa+nayanaḥ) in-union-with-another's-wife (para+yoṣit+samāgame)
+[wine-rolling-eye](madirāghūrṇanayanaḥ) [in-union-with-another-woman](parayoṣitsamāgame)
 
 ## mukta-m0-p12-v287
-by-whose-name (yat+nāmnā) inscribed (darbhitaṃ) diagram (yantraṃ) one-should-worship (pūjayet) lover-of-heroes (vīra+vallabhaḥ)
+[which](yat) [by-name](nāmnā) [grass-tied](darbhitaṃ) [diagram](yantraṃ) [worship](pūjayed) [hero-beloved](vīravallabhaḥ)
 
 ## mukta-m0-p12-v288
-liquor (madyaṃ) meat (māṃsaṃ) likewise (tathā) O-child (vatsa) whatever (yat kiṃcit) Kula-instrument (kula+sādhanam)
+[wine](madyaṃ) [meat](māṃsaṃ) [likewise](tathā) [child](vatsa) [whatever](yat) [anything](kiṃcit) [clan-rite](kulasādhanam)
 
 ## mukta-m0-p12-v289
-its-permission (tat+anujñāṃ) on-head (mūrdhni) having-placed (kṛtvā) remainder (śeṣaṃ) and (ca) in-oneself (ātmani) one-should-apply (yojayet)
+[that](tad) [permission](anujñāṃ) [on-head](mūrdhni) [having-made](kṛtvā) [remainder](śeṣaṃ) [and](ca) [in-self](ātmani) [join](yojayet)
 
 ## mukta-m0-p12-v290
-of-a-thousand-other-births (janma+antara+sahasrasya) merit (sukṛtaṃ) of-him (tasya) is-destroyed (naśyati)
+[thousand-births-merit](janmāntarasahasrasya) [of-him](tasya) [perishes](naśyati)
 
 ## mukta-m0-p12-v291
-a-brāhmaṇa (brāhmaṇaḥ) in-copper-vessels (tāmra+pātreṣu) honey (madhu) liquor (madyaṃ) should-prepare (prakalpayet)
+[brahmin](brāhmaṇaḥ) [copper-vessels](tāmrapātreṣu) [honey](madhu) [wine](madyaṃ) [prepare](prakalpayet)
 
 ## mukta-m0-p12-v292
-by-yogins (yogibhiḥ) is-drunk (pīyate) liquor (madyaṃ) that (tat) liquor (madyaṃ) by-best-of-yogins (yogi+puṃgavaiḥ)
+[by-yogis](yogibhiḥ) [drunk](pīyate) [wine](madyaṃ) [that](tat) [wine](madyaṃ) [by-yogi-bulls](yogipuṃgavaiḥ)
 
 ## mukta-m0-p12-v293
-not (na) liquor (madyaṃ) fit-for-drinking (pāna+yogyaṃ) should-be (syāt) which (yat) liquor (madyaṃ) molasses-and-flour (guḍa+piṣṭakam)
+[not](na) [wine](madyaṃ) [drink-worthy](pānayogyaṃ) [is](syāt) [which](yat) [wine](madyaṃ) [jaggery-cake](guḍapiṣṭakam)
 
 ## mukta-m0-p12-v294
-having-brought (ānīya) goddess (devīṃ) in-her-body (tat gātre) pervading (vyāpakaṃ) one-should-place (vinyaset) then (tataḥ)
+[having-brought](ānīya) [goddess](devīṃ) [that](tat) [on-limb](gātre) [pervasive](vyāpakaṃ) [place](vinyaset) [then](tataḥ)
 
 ## mukta-m0-p12-v295
-having-drawn (vilikhya) diagram (yantraṃ) previously-stated (pūrva+uktaṃ) one-should-worship (pūjayet) according-to-Kula-path (kula+vartmanā)
+[having-drawn](vilikhya) [diagram](yantraṃ) [previously-said](pūrvoktaṃ) [worship](pūjayet) [clan-path-by](kulavartmanā)
 
 ## mukta-m0-p12-v296
-the-most-fortunate (mahā+bhāgāṃ) then (tataḥ) root-goddess (mūla+devīm) with-retinues (āvaraṇaiḥ) together (saha)
+[greatly-fortunate](mahābhāgāṃ) [then](tato) [root-goddess](mūladevīm) [with-coverings](āvaraṇaiḥ) [saha](saha)
 
 ## mukta-m0-p12-v297
-on-her-seat (tat+pīṭhe) called-Yoganidrā (yoganidrā+ākhyāṃ) having-worshipped (pūjayitvā) then (tataḥ) one-should-worship (yajet)
+[that](tat) [seat](pīṭhe) [yoga-sleep-named](yoganidrākhyāṃ) [having-worshipped](pūjayitvā) [then](tato) [sacrifice](yajet)
 
 ## mukta-m0-p12-v298
-to-Kāmarūpa (kāmarūpaṃ) then (tataḥ) having-gone (gatvā) then (tataḥ) Kātyāyanī (kātyāyanīṃ) one-should-worship (yajet)
+[kamarupa](kāmarūpaṃ) [then](tato) [having-gone](gatvā) [then](tataḥ) [katyayani](kātyāyanīṃ) [sacrifice](yajet)
 
 ## mukta-m0-p12-v299
-then (tataḥ) to-Jālandhara (jālaṃdhare) having-gone (gatvā) Pūrṇeśī (pūrṇeśīṃ) first (prathamaṃ) one-should-worship (yajet)
+[then](tato) [jalandhara](jālaṃdhare) [having-gone](gatvā) [purneshi](pūrṇeśīṃ) [first](prathamaṃ) [sacrifice](yajet)
 
 ## mukta-m0-p12-v300
-then (tataḥ) to-Pūrṇagiri (pūrṇa+girau) having-gone (gatvā) one-should-worship (yajet) Caṇḍī (caṇḍīṃ) then (tataḥ) one-should-recite (japet)
+[then](tataḥ) [purnagiri](pūrṇagirau) [having-gone](gatvā) [sacrifice](yajet) [chandi](caṇḍīṃ) [then](tato) [chant](japet)

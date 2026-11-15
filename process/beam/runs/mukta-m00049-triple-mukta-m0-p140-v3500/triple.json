@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "pādyārghyādyaiḥ",
+     "gloss": "with-foot-water-arghya-and-other-offerings",
+     "grounds": "instrumental plural of the compound pādya-arghya-ādi, indicating the ritual substances used in worship",
+     "morph": "instr.pl.m/n (compound)"
+    },
+    {
+     "surface": "arcayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive/gerund of arc, expressing completed worship before the next action",
+     "morph": "absol. root arc"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "should-pray",
+     "grounds": "optative third singular active of prārth, prescribing prayer after worship",
+     "morph": "3.sg.act.opt. root prārth"
+    },
+    {
+     "surface": "vihitāñjaliḥ",
+     "gloss": "with-folded-hands",
+     "grounds": "nominative singular masculine compound vihita + añjali, with sandhi ā + a; describes the worshipper's posture",
+     "morph": "nom.sg.m (compound)"
+    }
+   ],
+   "question": "What posture and action should the best practitioner adopt after worshipping the image with foot-water, arghya, and similar offerings?",
+   "premises": [
+    "worship is completed with foot-water, arghya, and other offerings",
+    "prayer follows that completed worship",
+    "the practitioner prays with folded hands"
+   ],
+   "inference": "After worshipping the image with pādya, arghya, and related offerings, the practitioner should pray while standing or seated with folded hands.",
+   "uncertainties": [
+    "the exact referent of ādi among the other offerings is not specified in this verse"
+   ],
+   "plain_english": "Having worshipped with foot-water, arghya, and the rest, one should pray with folded hands."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1714,
- "question": "What dimensions and ornaments define a chariot's wheels, seat, pole, and pavilion?",
+ "question": "What ritual departure practice should a renunciant follow when leaving the village and house?",
  "premises": [
-  "pillar rise part one part wall height"
+  "village is circumambulated",
+  "expectation is abandoned",
+  "departure is from house"
  ],
- "inference": "Wall height arises from pillar rise parts.",
+ "inference": "One should circumambulate the village and leave the house without expectation.",
  "uncertainties": [
-  "compound segmentation uncertain"
+  "whether village circumambulation is mandatory"
  ],
- "plain_english": "Wall height arises from pillar rise parts."
+ "plain_english": "Having circumambulated the village, one should leave the house without expectation."
 }

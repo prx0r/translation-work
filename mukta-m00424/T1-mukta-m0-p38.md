@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-there+eight+petal+lotus(tatrāṣṭadalapadmaṃ) and(ca) one-should-make(kārayed) two-finger+high(vyaṅgulonnatam)
+[there](tatra) [eight-petal-lotus](aṣṭadala+padmaṃ) [and](ca) [make](kārayet) [five-finger-raised](vyaṅgula+unnatam)
 
 ## mukta-m0-p38-v927
-thus(evaṃ) having-done(kṛtvā) specially(viśeṣeṇa) vessel(pātraṃ) but(tu) in-maṇḍala(maṇḍalaṃ) one-should-place(nyaset)
+[thus](evaṃ) [having-done](kṛtvā) [especially](viśeṣeṇa) [vessel](pātraṃ) [then](tu) [mandala](maṇḍalaṃ) [place](nyaset)
 
 ## mukta-m0-p38-v928
-flower+liṅga(puṣpaliṅgaṃ) but(tu) in-morning(pūrvāhne) in-evening(sāyāhneḥ) made-of-rice(taṇḍulātmakam)
+[flower-linga](puṣpa+liṅgaṃ) [then](tu) [morning](pūrvāhne) [evening](sāyāhne) [rice-grain-form](taṇḍula+ātmakam)
 
 ## mukta-m0-p38-v929
-best(uttamaṃ) and+āḍhaka(cāḍhakaṃ) declared(proktaṃ) middle(madhyamaṃ) but(tu) its+half(tadardhakam)
+[best](uttamaṃ) [and](ca) [adhaka](āḍhakaṃ) [said](proktaṃ) [middle](madhyamaṃ) [then](tu) [half](tad+ardhakam)
 
 ## mukta-m0-p38-v930
-not+unripe(nāpakvaṃ) not+overripe(nātipakvaṃ) and(ca) not+too-hot(nātyuṣṇaṃ) not+too-cold(nātiśītalam)
+[not-unripe](nāpakvaṃ) [not-overripe](nātipakvaṃ) [and](ca) [not-too-hot](nātyuṣṇaṃ) [not-too-cool](nātiśītalam)
 
 ## mukta-m0-p38-v931
-height(utsedhaṃ) twelve+fingers(dvādaśāṅgulyaṃ) base(mūlaṃ) its+double(tadviguṇaṃ) should-be(bhavet)
+[height](utsedhaṃ) [twelve-fingers](dvādaśa+aṅgulyaṃ) [root](mūlaṃ) [that-double](tad+viguṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p38-v932
-middle(madhyamaṃ) twelve+fingers(dvādaśāṅgulyaṃ) top(ūrdhvaṃ) but(tu) three+fingers(tryaṅgulaṃ) should-be(bhavet)
+[middle](madhyamaṃ) [twelve-fingers](dvādaśa+aṅgulyaṃ) [upward](ūrdhvaṃ) [then](tu) [three-fingers](tri+aṅgulaṃ) [becomes](bhavet)
 
 ## mukta-m0-p38-v933
-having-worshipped(saṃpūjya) mantra+enclosure(vidyāvaraṇaṃ) deity+meditation+sequence(devadhyānakramaṃ) listen(śṛṇu)
+[having-worshipped](saṃpūjya) [vidya-covering](vidyā+varaṇaṃ) [god-meditation-order](deva+dhyāna+kramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p38-v934
-rosary(akṣasūtraṃ) and(ca) trident(triśūlaṃ) bearing(bibhrāṇām) fearlessness(abhayaṃ) boon(varam)
+[rosary](akṣasūtraṃ) [trident](triśūlaṃ) [and](ca) [bearing](bibhrāṇām) [fearlessness](abhayaṃ) [boon](varam)
 
 ## mukta-m0-p38-v935
-lotus+gesture(padmamudrāṃ) salutation(namaskāraṃ) peace+gesture(śāntimudrāṃ) one-should-form(prakalpayet)
+[lotus-seal](padma+mudrāṃ) [salutation](namaskāraṃ) [peace-seal](śānti+mudrāṃ) [arrange](prakalpayet)
 
 ## mukta-m0-p38-v936
-ten+weapons(daśāyudhāni) all-around(paritaḥ) one-should-arrange(kalpayet) ritual+expert(kalpavittamaḥ)
+[ten-weapons](daśa+āyudhāni) [around](paritaḥ) [arrange](kalpayet) [best-of-kalpa](kalpa+vittamaḥ)
 
 ## mukta-m0-p38-v937
-trident(triśūlaṃ) to-east(pūrvato) should-go(gacchet) śiva+staff(śivadaṇḍāt) then+after(anantare)
+[trident](triśūlaṃ) [eastward](pūrvato) [goes](gacchet) [shiva-staff](śiva+daṇḍa) [then](tu) [after](anantare)
 
 ## mukta-m0-p38-v938
-purified+hands(pavitrapāṇi) silent(maunī) but(tu) hand+measure(hastamātreṇa) staff+holder(daṇḍadhṛk)
+[purified-hand](pavitrapāṇi) [silent](maunī) [then](tu) [hand-measure](hasta+mātreṇa) [staff-holder](daṇḍadhṛk)
 
 ## mukta-m0-p38-v939
-in-morning(pūrvāhne) brahmā+pleasure(brahmaprītiṃ) and(ca) at-midday(madhyāhne) but(tu) śiva+beloved(śivapriyaḥ)
+[morning](pūrvāhne) [brahma-pleasure](brahma+prītiṃ) [and](ca) [midday](madhyāhne) [then](tu) [shiva-pleasing](śiva+priyaḥ)
 
 ## mukta-m0-p38-v940
-previously+stated(pūrvoktaṃ) brahmā+color(brahmavarṇam) but(tu) rudra+color(rudravarṇaṃ) but(tu) is-spoken(kathyate)
+[previously-said](pūrvoktaṃ) [brahma-color](brahma+varṇam) [tu](tu) [rudra-color](rudra+varṇaṃ) [then](tu) [is-said](kathyate)
 
 ## mukta-m0-p38-v941
-at-midday(madhyāhne) one-should-hold(dhārayet) liṅga(liṅgaṃ) my+pleasure+causing(mama) +pleasure+causing(prītikaraṃ) auspicious(śubham)
+[midday](madhyāhne) [hold-linga](dhārayet+liṅgaṃ) [my](mama) [pleasing](prīti+karaṃ) [auspicious](śubham)
 
 ## mukta-m0-p38-v942
-in-evening(sāyāhne) one-should-hold(dhārayet) liṅga(liṅgaṃ) viṣṇu+pleasure+causing(viṣṇuprītikaraṃ) auspicious(śubham)
+[evening](sāyāhne) [hold-linga](dhārayet+liṅgaṃ) [vishnu-pleasing](viṣṇu+prīti+karaṃ) [auspicious](śubham)
 
 ## mukta-m0-p38-v943
-on-its+head(tanmūrdhniṃ) to-be-given(deyaṃ) having-established(saṃsthāpya) with-fragrance+flowers+etc(gandhapuṣpādibhiḥ) one-should-worship(yajet)
+[on-its-head](tan+mūrdhni) [give](deyaṃ) [having-placed](saṃsthāpya) [with-sandal-flowers-etc](gandha+puṣpa+ādibhiḥ) [worship](yajet)
 
 ## mukta-m0-p38-v944
-or(athavā) on-foot+going(pādagamanaṃ) circumambulation(pradakṣiṇaṃ) but(tu) one-should-perform(kārayet)
+[or](athavā) [foot-going](pāda+gamaṇaṃ) [circumambulation](pradakṣiṇaṃ) [then](tu) [make](kārayet)
 
 ## mukta-m0-p38-v945
-with-drums(kāhalaiḥ) with-cymbals+tālajaṅghas(tālajaṅghaiḥ) and(ca) with-lute+flute+sounds(vīṇāveṇuravaiḥ) likewise(tathā)
+[with-kahalas](kāhalaistāla+jaṃghaiśca) [and](ca) [with-vina-venu-sounds](vīṇā+veṇu+ravaiḥ+tathā)
 
 ## mukta-m0-p38-v946
-courtesan+dance+joined(gaṇikānṛtta) +joined(saṃyuktaṃ) divine+song+accompanied(divyageya) +accompanied(samanvitam)
+[with-courtesan-dance](gaṇikā+nṛtta) [joined](saṃyuktaṃ) [divine-song](divya+geya) [accompanied](samanvitam)
 
 ## mukta-m0-p38-v947
-veda+sound+joined(vedadhvanisamāyuktaṃ) divine+dance+accompanied(divyanṛttasamanvitam)
+[veda-sound-joined](veda+dhvani+samāyuktaṃ) [divine-dance-accompanied](divya+nṛtta+samanvitam)
 
 ## mukta-m0-p38-v948
-first(ādyaṃ) circumambulation(pradakṣiṇaṃ) one-should-do(kuryāt) bhṛṅga+tāla+accompanied(bhṛṅga) +tāla+accompanied(tālasamanvitam)
+[first](ādyaṃ) [circumambulation](pradakṣiṇaṃ) [do](kuryāt) [bhṛṅga](bhṛṅga) [tala-accompanied](tāla+samanvitam)
 
 ## mukta-m0-p38-v949
-two+tālas+joined(tāladvayasamāyuktaṃ) veda+sound+attended(vedadhvaniniṣevitam)
+[two-tala-accompanied](tāla+dvaya+samanvitam) [veda-sound-served](veda+dhvani+niṣevitam)
 
 ## mukta-m0-p38-v950
-all(samastaṃ) bhṛṅgiṇī+tāla(bhṛṅgiṇī) +tāla(tālaṃ) kartṛ+instrument(kartṛvādyaṃ) but(tu) ṭaṅkarī(ṭaṅkarī)
+[all](samastaṃ) [bhṛṅgiṇī-tala](bhṛṅgiṇī+tālaṃ) [having-done](kartṛvādyaṃ) [then](tu) [ṭaṅkarī](ṭaṅkarī)

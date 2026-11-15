@@ -3,24 +3,39 @@
  "verse": 2898,
  "rows": [
   {
-   "lemma": "saptasaptatikoṇeṣu",
-   "morph": "compound=saptasaptati+koṇa, m.loc.pl",
-   "grounds": "compound locative"
+   "lemma": "namas",
+   "morph": "n.nom.sg",
+   "grounds": "noun nominative"
   },
   {
-   "lemma": "yoniṣu",
-   "morph": "f.loc.pl",
-   "grounds": "locative noun"
+   "lemma": "te",
+   "morph": "pron.dat.sg",
+   "grounds": "dative singular"
   },
   {
-   "lemma": "pratiyoni",
+   "lemma": "bhagavann",
+   "morph": "n.voc.sg",
+   "grounds": "vocative singular"
+  },
+  {
+   "lemma": "astu",
+   "morph": "3.sg.subj",
+   "grounds": "subjunctive verb"
+  },
+  {
+   "lemma": "yataḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable distributive compound"
+   "grounds": "adverb"
   },
   {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "lemma": "svaḥ",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular"
+  },
+  {
+   "lemma": "samīhase",
+   "morph": "2.sg.act",
+   "grounds": "second person singular verb"
   }
  ]
 }

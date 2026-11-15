@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[strong](balī) [blood](raktaṃ) [angry-female](krodhinī) [and](ca) [matted-haired](jaṭī) [ending-in-ya](yāntaḥ) [ra-maker](ra-kārakaḥ)
+[strong](balī) [blood](raktaṃ) [angry-female](krodhinī) [and](ca) [ascetic](jaṭī) [going](yānto) [ra-maker](ra-kārakaḥ)
 
 ## mukta-m0-p20-v477
-[organs-of-action](kriyendrau) [lustful](lampaṭo) [earth](bhūmiḥ) [belonging-to-wind](vāyavīyaḥ) [la-maker](la-kārakaḥ)
+[sixteen](16) [kriyendrau](kriyendrau) [libertine](lampaṭo) [earth](bhūmir) [airy](vāyavīyo) [la-maker](la-kārakaḥ)
 
 ## mukta-m0-p20-v478
-[ending-in-la](lāntaḥ) [and](ca) [cloud](vāridaḥ) [fat](medaḥ) [nectar](sudhā) [cow](dhenuḥ) [va-maker](va-kārakaḥ)
+[ending-in-la](lāntaś) [and](ca) [cloud](vārido) [fat](medaḥ) [nectar](sudhā) [cow](dhenur) [va-maker](va-kārakaḥ)
 
 ## mukta-m0-p20-v479
-[bone](asthi) [self](ātmā) [and](ca) [most-excellent](vareṇyaḥ) [and](ca) [ending-in-va](vāntaḥ) [heart](hṛt) [right-hand-situated](dakṣahastagaḥ)
+[four](4) [bone-self](asthyātmā) [and](ca) [excellent](vareṇyaś) [and](ca) [ending-in-va](vānto) [heart-right-hand-placed](hṛddakṣahastagaḥ)
 
 ## mukta-m0-p20-v480
-[heart](hṛt) [left-arm-situated](vāmavāhugaḥ) [marrow](majjā) [ṣa-form](ṣaḍākāraḥ) [ṣa-maker](ṣa-kārakaḥ)
+[heart](hṛd) [left-arm-going](vāmavāhugo) [marrow](majjā) [six-formed](ṣaḍākāraḥ) [ṣa-maker](ṣa-kārakaḥ)
 
 ## mukta-m0-p20-v481
-[from-heart](hṛdaḥ) [right-foot-situated](dakṣiṇapādasthaḥ) [white](śvetā) [power](śaktiḥ) [moon](niśākaraḥ)
+[eight](8) [of-heart](hṛdo) [right-foot-placed](dakṣiṇapādasthah) [white](śvetā) [power](śaktir) [moon](niśākaraḥ)
 
 ## mukta-m0-p20-v482
-[Hayagrīva](hayagrīvaḥ) [red](aruṇaḥ) [Ananta](anantaḥ) [Varāha](varāhaḥ) [Nakulī](nakulī) [flame](śikhā)
+[horse-necked](hayagrīvo) [aruṇa](aruṇo) [ananta](ananto) [boar](varāho) [nakulī](nakulī) [crest](śikhā)
 
 ## mukta-m0-p20-v483
-[from-heart](hṛdayāt) [navel-going](nābhigaḥ) [soul](jīvaḥ) [dark](asitā) [and](ca) [indeed](eva) [la-maker](la-kārakaḥ)
+[twelve](12) [from-heart-to-navel](hṛdayānnābhigo) [life](jīvo) [dark](asitā) [and-indeed](caiva) [la-maker](la-kārakaḥ)
 
 ## mukta-m0-p20-v484
-[named-Ananta](anantākhyaḥ) [Gaṇeśa](gaṇeśaḥ) [and](ca) [Meru](meruḥ) [thunderbolt-bodied](vajratanuḥ) [kṣa-maker](kṣakaḥ)
+[named-ananta](anantākhyo) [gaṇeśa](gaṇeśaś) [and](ca) [meru](merur) [vajra-bodied](vajratanuḥ) [kṣa-maker](kṣakaḥ)
 
 ## mukta-m0-p20-v485
-[in-Rudrayāmala-tantra-stated](rudrayāmala+tantra+uktā) [by-me-stated](mayā+uktā) [by-teacher's-permission](guru+anujñayā)
+[sixteen](16) [spoken-in-rudrayāmala-tantra](rudrayāmalatantroktā) [spoken-by-me](mayoktā) [by-guru-permission](gurvanujñayā)
 
 ## mukta-m0-p20-v486
-[composed](grathitā) [for-easy-understanding](sukha+bodhena) [for-mantra-extraction](mantra+uddhārāya) [for-the-practitioner](mantriṇaḥ)
+[compiled](grathitā) [for-easy-understanding](sukhabodhena) [for-mantra-extraction](mantroddhārāya) [for-mantra-knowers](mantriṇaḥ)
 
 ## mukta-m0-p20-v487
-[pervasion](vyāptaṃ) [touch](sparśaḥ) [of-those-born-from-wind](vāyu+jānāṃ) [designation](saṃjñā) [declared](proktā) [by-the-wise](manīṣibhiḥ)
+[pervaded](vyāptaṃ) [touch](sparśo) [of-air-born](vāyujānāṃ) [name](saṃjñā) [declared](proktā) [by-wise](manīṣibhiḥ)
 
 ## mukta-m0-p20-v488
-[burning](dāhaḥ) [devouring](grāsaḥ) [and](ca) [designation-declared](saṃjñā+uktā) [of-fire-letters](vahni+arṇānāṃ) [in-order](kramāt) [this](iyam)
+[burning](dāho) [grasping](grāsaś) [and](ca) [name-declared](saṃjñoktā) [of-fire-letters](vahnyarṇānāṃ) [in-order-this](kramādiyam)
 
 ## mukta-m0-p20-v489
-[of-ten](daśānāṃ) [earth-letters](bhūmi+varṇānāṃ) [designation](saṃjñā) [declared](proktā) [by-the-skilled](vicakṣaṇaiḥ)
+[of-ten](daśānāṃ) [of-earth-letters](bhūmivarṇānāṃ) [name](saṃjñā) [declared](proktā) [by-experts](vicakṣaṇaiḥ)
 
 ## mukta-m0-p20-v490
-[of-ten](daśānāṃ) [water-letters](jala+varṇānāṃ) [designation-declared](saṃjñā+uktā) [by-former-teachers](pūrva+sūribhiḥ)
+[of-ten](daśānāṃ) [of-water-letters](jalavarṇānāṃ) [name-declared](saṃjñoktā) [by-ancient-sages](pūrvasūribhiḥ)
 
 ## mukta-m0-p20-v491
-[haṃsa](haṃsaḥ) [and](ca) [of-ether-letters](ākāśa+varṇānāṃ) [designation](saṃjñā) [māyā](māyā) [from-visarga](visargataḥ)
+[haṃsa](haṃsaś) [and](ca) [of-space-letters](ākāśavarṇānāṃ) [name](saṃjñā) [māyā](māyā) [from-visarga](visargataḥ)
 
 ## mukta-m0-p20-v492
-[this](eṣā) [in-independent-tantras-stated](svatantra+tantra+uktā) [letter-designation](varṇa+saṃjñā) [declared](samīritā)
+[this](eṣā) [in-independent-tantra](svatantratantroktā) [letter-name](varṇasaṃjñā) [declared](samīritā)
 
 ## mukta-m0-p20-v493
-[by-which](yābhiḥ) [composed](viracitābhiḥ) [and](ca) [rejoice](modante) [mantra-deities](mantra+devatāḥ)
+[by-which](yābhir) [fashioned](viracitābhiś) [and](ca) [delight](modante) [mantra-deities](mantradevatāḥ)
 
 ## mukta-m0-p20-v494
-[in-bathing](snāne) [and](ca) [in-invocation](āvāhane) [in-conch](śaṅkhe) [in-consecration](pratiṣṭhāyām) [and](ca) [in-protection](rakṣaṇe)
+[four](4) [in-bathing](snāne) [and](ca) [in-invocation](āvāhane) [in-conch](śaṅkhe) [in-consecration](pratiṣṭhāyāñ) [and](ca) [in-protection](rakṣaṇe)
 
 ## mukta-m0-p20-v495
-[in-placement](sthāne) [hand-gestures](mudrāḥ) [to-be-performed](prakartavyāḥ) [with-their-own-characteristics-endowed](sva+sva+lakṣaṇa+saṃyutāḥ)
+[in-place](sthāne) [mudrās](mudrāḥ) [should-be-made](prakartavyāḥ) [with-own-marks](svasvalakṣaṇasaṃyutāḥ)
 
 ## mukta-m0-p20-v496
-[likewise](tathā) [six-limb-gestures](ṣaḍ+aṅga+mudrāḥ) [and](ca) [in-all-mantras](sarva+mantreṣu) [one-should-employ](yojayet)
+[eight](8) [thus](tathā) [six-limbed-mudrās](ṣaḍaṅgamudrāś) [and](ca) [in-all-mantras](sarvamantreṣu) [should-join](yojayet)
 
 ## mukta-m0-p20-v497
-[conch](śaṅkha) [discus](cakra) [mace](gadā) [lotus](padma) [flute](veṇu) [Śrīvatsa](śrīvatsa) [Kaustubha](kaustubhāḥ)
+[conch-disk-club-lotus-flute-śrīvatsa-kaustubha](śaṅkhacakragadāpadmaveṇuśrīvatsakostubhāḥ)
 
 ## mukta-m0-p20-v498
-[named-Garuḍa](garuḍa+ākhyā) [supreme](parā) [gesture](mudrā) [of-Viṣṇu](viṣṇoḥ) [satisfaction-giving](santoṣa+dāyakāḥ)
+[twelve](12) [named-garuḍa](garuḍākhyā) [supreme](parā) [mudrā](mudrā) [of-viṣṇu](viṣṇoḥ) [satisfaction-giving](santoṣadāyakāḥ)
 
 ## mukta-m0-p20-v499
-[arrow-gesture](vāṇa+mudrā) [then](tataḥ) [axe](parśuḥ) [world-deluding](jagat+mohanikā) [supreme](parā)
+[arrow-mudrā](vāṇamudrā) [then](tataḥ) [axe](parśur) [world-enchanting](jaganmohanikā) [supreme](parā)
 
 ## mukta-m0-p20-v500
-[liṅga](liṅga) [yoni](yoni) [trident](triśūla) [rosary](akṣamālā) [sacrifice](iṣṭā) [terrible](abhī) [deer-named](mṛga+āhvayāḥ)
+[liṅga-yoni-trident-rosary-desired-fearful-deer-named](liṅgayonitriśūlākṣamāleṣṭābhīmṛgāhvayāḥ)

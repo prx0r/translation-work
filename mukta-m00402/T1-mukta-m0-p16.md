@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[yoginī-worship](yoginīpūjanaṃ) [there](tatra) [principal](pradhānaṃ) [kula-worship](kulapūjanam)
+[yoginī-pūjanam](yoginīpūjanaṃ) [tatra](tatra) [pradhānam](pradhānaṃ) [kula-pūjanam](kulapūjanam)
 
 ## mukta-m0-p16-v377
-[thus](tathā) [at-kula-guest-time](kulatithau) [Durgā](durgā) [worshipped](pūjitā) [boon-giving](varadāyinī)
+[tathā](tathā) [kula-tithau](kulatithau) [durgā](durgā) [pūjitā](pūjitā) [vara-dāyinī](varadāyinī)
 
 ## mukta-m0-p16-v378
-[meat-principal](māṃsapradhānaṃ) [food-offering](naivedyaṃ) [at-twilight-time](saṃdhyākāle) [is-prescribed](vidhīyate)
+[māṃsa-pradhānam](māṃsapradhānaṃ) [naivedyam](naivedyaṃ) [saṃdhyā-kāle](saṃdhyākāle) [vidhīyate](vidhīyate)
 
 ## mukta-m0-p16-v379
-[in-animal-form](paśurūpā) [she-comes](samāyāti) [with-retinue-groups](parivāragaṇaiḥ) [with](saha)
+[paśu-rūpā](paśurūpā) [samāyāti](samāyāti) [parivāra-gaṇaiḥ](parivāragaṇaiḥ) [saha](saha)
 
 ## mukta-m0-p16-v380
-[then-indeed](tadaiva) [auspiciousness](maṅgalaṃ) [of-him](tasya) [not-otherwise](nānyathā) [O-ornament-of-kula](kulabhūṣaṇa) [!]
+[tadaiva](tadaiva) [maṅgalam](maṅgalaṃ) [tasya](tasya) [nānyathā](nānyathā) [kula-bhūṣaṇa](kulabhūṣaṇa)
 
 ## mukta-m0-p16-v381
-[daily-śrāddha](nityaśrāddhaṃ) [and](tathā) [twilight-worship](saṃdhyāvandanaṃ) [ancestor-libation](pitṛtarpaṇam)
+[nitya-śrāddham](nityaśrāddhaṃ) [tathā](tathā) [saṃdhyā-vandanam](saṃdhyāvandanaṃ) [pitṛ-tarpaṇam](pitṛtarpaṇam)
 
 ## mukta-m0-p16-v382
-[in-animal-form](paśurūpāṃ) [auspicious](śivāṃ) [goddess](devīṃ) [who](yo) [not-worships](nārcayati) [in-solitude](nirjane)
+[paśu-rūpām](paśurūpāṃ) [śivām](śivāṃ) [devīm](devīṃ) [yo](yo) [nārcayati](nārcayati) [nirjane](nirjane)
 
 ## mukta-m0-p16-v383
-[mantra-recitation+worship+rites](japapūjāvidhānāni) [whatever](yatkiṃcit) [good-deeds](sukṛtāni) [and](ca)
+[japa-pūjā-vidhānāni](japapūjāvidhānāni) [yat-kiṃcit](yatkiṃcitsukṛtāni) [su-kṛtāni](yatkiṃcitsukṛtāni) [ca](ca)
 
 ## mukta-m0-p16-v384
-[by-one](ekayā) [is-enjoyed](bhujyate) [where](yatra) [by-Śivā](śivayā) [O-god](deva) [O-Bhairava](bhairava) [!]
+[ekayā](ekayā) [bhujyate](bhujyate) [yatra](yatra) [śivayā](śivayā) [deva](deva) [bhairava](bhairava)
 
 ## mukta-m0-p16-v385
-[animal-power](paśuśaktiḥ) [human-power](naraśaktiḥ) [bird-power](pakṣiśaktiḥ) [and-likewise](tathaiva) [and](ca)
+[paśu-śaktiḥ](paśuśaktir) [nara-śaktiḥ](naraśaktiḥ) [pakṣi-śaktiḥ](pakṣiśaktistathaiva) [tathā-eva](tathā-eva) [pakṣi-śaktiḥ-ca-bhairava](pakṣiśaktiśca bhairava) [ca](ca)
 
 ## mukta-m0-p16-v386
-[therefore](tena) [with-all-effort](sarvaprayatnena) [should-be-done](kartavyaṃ) [worship](pūjanaṃ) [great](mahat)
+[tena](tena) [sarva-prayatnena](sarvaprayatnena) [kartavyam](kartavyaṃ) [pūjanam](pūjanaṃ) [mahat](mahat)
 
 ## mukta-m0-p16-v387
-[auspicious+inauspicious](śubhāśubhāni) [actions](karmāṇi) [having-considered](vicintya) [offering](balim) [one-should-present](āharet)
+[śubha-aśubhāni](śubhāśubhāni) [karmāṇi](karmāṇi) [vicintya](vicintya) [balim](balim) [āharet](āharet)
 
 ## mukta-m0-p16-v388
-[auspicious+inauspicious-result](śubhāśubhaphalaṃ) [clearly](vyaktaṃ) [tell](brūhi) [accept](gṛhṇa) [offering](baliṃ) [your](tava)
+[śubha-aśubha-phalam](śubhāśubhaphalaṃ) [vyaktam](vyaktaṃ) [brūhi](brūhi) [gṛhṇa](gṛhṇa) [balim](baliṃ) [tava](tava)
 
 ## mukta-m0-p16-v389
-[when](yadā) [not](na) [is-accepted](gṛhyate) [O-child](vatsa) [!] [then](tadā) [not-indeed](naiva) [auspicious](śubhaṃ) [would-be](bhavet)
+[yadā](yadā) [na](na) [gṛhyate](gṛhyate) [vatsa](vatsa) [tadā](tadā) [na-eva](naiva) [śubham](śubhaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p16-v390
-[thus](evaṃ) [having-thought](matvā) [O-great-god](mahādeva) [!] [peace+benediction](śāntisvastyayanaṃ) [one-should-perform](caret)
+[evaṃ](evaṃ) [matvā](matvā) [mahādeva](mahādeva) [śānti-svastyayanam](śāntisvastyayanaṃ) [caret](caret)
 
 ## mukta-m0-p16-v391
-[not](na) [to-anyone](kasmaicit) [should-be-told](pravaktavyaṃ) [if-one-desires](yadīcchet) [eternal](śāśvataṃ) [happiness](sukham)
+[na](na) [kasmaicit](kasmaicit) [pravaktavyam](pravaktavyaṃ) [yadi](yadi) [icchet](icchec) [śāśvatam](śāśvataṃ) [sukham](sukham)
 
 ## mukta-m0-p16-v392
-[not](na) [in-father's](pituḥ) [presence](saṃnidhāne) [or](vā) [not](na) [in-mother's](mātuḥ) [presence](saṃnidhau) [likewise](tathā)
+[na](na) [pituḥ](pituḥ) [saṃnidhāne](saṃnidhāne) [vā](vā) [na](na) [mātuḥ](mātuḥ) [saṃnidhau](saṃnidhau) [tathā](tathā)
 
 ## mukta-m0-p16-v393
-[in-netherworld-pavilion](pātālamaṇḍape) [or](vāpi) [in-pavilion](maṇḍape) [or](vā) [well-constructed](suyantrite)
+[pātāla-maṇḍape](pātālamaṇḍape) [vā-api](vāpi) [maṇḍape](maṇḍape) [vā](vā) [su-yantrite](suyantrite)
 
 ## mukta-m0-p16-v394
-[kula-flower](kulapuṣpaṃ) [kula-substance](kuladravyaṃ) [kula-worship](kulapūjāṃ) [in-kula](kule) [mantra-recitation](japam)
+[kula-puṣpam](kulapuṣpaṃ) [kula-dravyam](kuladravyaṃ) [kula-pūjām](kulapūjāṃ) [kule](kule) [japam](japam)
 
 ## mukta-m0-p16-v395
-[kula-circle](kulacakraṃ) [kula-meditation](kuladhyānaṃ) [in-every-way](sarvathā) [not](na) [one-should-reveal](prakāśayet)
+[kula-cakram](kulacakraṃ) [kula-dhyānam](kuladhyānaṃ) [sarvathā](sarvathā) [na](na) [prakāśayet](prakāśayet)
 
 ## mukta-m0-p16-v396
-[from-revelation](prakāśāt) [mantra-destruction](mantranāśaḥ) [would-be](syāt) [from-revelation-indeed](prakāśāt) [indeed](eva) [harm](hiṃsanam)
+[prakāśāt](prakāśān) [mantra-nāśaḥ](mantranāśaḥ) [syāt](syāt) [prakāśāt](prakāśādeva) [eva](prakāśādeva) [hiṃsanam](hiṃsanam)
 
 ## mukta-m0-p16-v397
-[at-worship-time](pūjākāle) [but](tu) [O-lord-of-gods](deveśa) [!] [if](yadi) [anyone](ko'pi) [here](atra) [goes](gacchati)
+[pūjā-kāle](pūjākāle) [tu](tu) [deveśa](deveśa) [yadi](yadi) [ko-api](ko'pyatra) [atra](ko'pyatra) [gacchati](gacchati)
 
 ## mukta-m0-p16-v398
-[from-revelation](prakāśāt) [if](yadi) [concealment](guptiḥ) [would-be](syāt) [from-that-revelation](tatprakāśāt) [not](na) [fault](dūṣaṇam)
+[prakāśāt](prakāśādyadi) [yadi](prakāśādyadi) [guptiḥ](guptiḥ) [syāt](syāttatprakāśānna) [tat-prakāśāt](syāttatprakāśānna) [na](syāttatprakāśānna) [dūṣaṇam](dūṣaṇam)
 
 ## mukta-m0-p16-v399
-[sometimes](kadācit) [limb-injury](aṅgahāniḥ) [but](tu) [not](na) [and](ca) [manifestation](vyaktiḥ) [ever](kadācana)
+[kadācit](kadācidaṅgahānistu) [aṅga-hāniḥ](kadācidaṅgahānistu) [tu](kadācidaṅgahānistu) [na](na) [ca](ca) [vyaktiḥ](vyaktiḥ) [kadācana](kadācana)
 
 ## mukta-m0-p16-v400
-[this-tantra](etattantraṃ) [in-house](gṛhe) [of-whom](yasya) [with-kula-syllables](kulākṣarasamanvitam)
+[etat](etattantraṃ) [tantram](etattantraṃ) [gṛhe](gṛhe) [yasya](yasya) [kula-akṣara-samanvitam](kulākṣarasamanvitam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[sword-lord](khaḍgīśo) [flaming-one](jvālinī) [chest](vakṣaḥ) [crooked](vaṅkaḥ) + [poor](raṅkaḥ) [jar](kalasaṃ) [sun](ravi) [jar](kalasaṃ) [sound-expressor](dhvanivācakaḥ)
+[gloss](khaḍgīśo) [gloss](jvālinī) [gloss](vakṣaḥ) [gloss]([vaṅkaḥ) [gloss](+) [gloss](raṅkaḥ) [gloss](kalasaṃ) [gloss](ravi]) [gloss](kalasaṃ) [gloss](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[twelve](12) [threefold-element](tridhātuḥ) [Śaṅkara](śaṅkaraḥ) [best](śreṣṭho) [distinction](viśeṣo) [abode-of-Yama](yamasādanam)
+[gloss](12) [gloss](tridhātuḥ) [gloss](śaṅkaraḥ) [gloss](śreṣṭho) [gloss](viśeṣo) [gloss](yamasādanam)
 
 ## mukta-m0-p09-v203
-[mantra-syllable](śa)
+[gloss](śa)
 
 ## mukta-m0-p09-v204
-[happiness-named](saukhyanāmā) [youth](kumāro) + [is](asthi) [blue-throated](śrīkaṇṭho) [bull-bannered](vṛṣaketanaḥ)
+[gloss](saukhyanāmā) [gloss](kumāro'sthi) [gloss](śrīkaṇṭho) [gloss](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[sixteen](16) [death-god](mṛtyudevo) [death-god](mṛtyurdevo) [great-Lakṣmī](mahālakṣmīr) + [great-Indra](mahendraḥ) [family-Kaulinī](kulakaulinī)
+[gloss](16) [gloss](mṛtyudevo) [gloss]([mṛtyurdevo]) [gloss](mahālakṣmīrmahendraḥ) [gloss](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[beautiful-thighed](vāmoruḥ) [lotus-souled](puṇḍarīkātmā) [radiance](kāntiḥ) [auspiciousness-expressor](kalyāṇavācakaḥ)
+[gloss](vāmoruḥ) [gloss](puṇḍarīkātmā) [gloss](kāntiḥ) [gloss](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[supreme-lord](parameṣṭhī) [beautiful-armed](vāmabāhuḥ) [best](śreṣṭho) [womb-liberator](garbhavimocanaḥ)
+[gloss](parameṣṭhī) [gloss](vāmabāhuḥ) [gloss](śreṣṭho) [gloss](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[four](4) [very-beautiful](suśrīr) + [heat](uṣmā) [bull](vṛṣo) [modesty](lajjā) [wind-eater](marudbhakṣyaḥ) [dear](priyaḥ) [Śiva](śivaḥ)
+[gloss](4) [gloss](suśrīruṣmā) [gloss](vṛṣo) [gloss](lajjā) [gloss](marudbhakṣyaḥ) [gloss](priyaḥ) [gloss](śivaḥ)
 
 ## mukta-m0-p09-v209
-[blue-throated](kalakaṇṭho) [middle-divided](madhyabhinnā) [battle-natured](yuddhātmā) [impure](khalpūḥ) [impure](malapuḥ) [head](śiraḥ)
+[gloss](kalakaṇṭho) [gloss](madhyabhinnā) [gloss](yuddhātmā) [gloss](khalpūḥ) [gloss]([malapuḥ]) [gloss](śiraḥ)
 
 ## mukta-m0-p09-v210
-[eight](8) [world-seed](jagadbījaṃ) [power-named](śaktināmā) [I-am-that](so'haṃ) [delusion](moho) [speed-possessing](vega(śa)vatī) [Bhṛgu](bhṛguḥ)
+[gloss](8) [gloss](jagadbījaṃ) [gloss](śaktināmā) [gloss](so'haṃ) [gloss]([moho]) [gloss](vega(śa)vatī) [gloss](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[right-foot](dakṣapādo) + [immortal](amṛtaṃ) [Brāhmī](brāhmī) [supreme-self](paramātmā) [supreme](paro) + [imperishable](akṣaraḥ)
+[gloss](dakṣapādo'mṛtaṃ) [gloss](brāhmī) [gloss](paramātmā) [gloss](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[twelve](12) [beginning-with-breath](prāṇādyas) + [Tripurā-goddess](tripurādevī) [and](śca) [formerly](purā) [goddess](devī) [Lakṣmī](lakṣmīḥ) [Soma](somo) [golden-born](hiraṇyabhūḥ) [golden-bodied](hiraṇyapuḥ)
+[gloss](12) [gloss](prāṇādyastripurādevī) [gloss]([śca) [gloss](purā) [gloss](devī]) [gloss](lakṣmīḥ) [gloss](somo) [gloss](hiraṇyabhūḥ) [gloss]([hiraṇyapuḥ])
 
 ## mukta-m0-p09-v213
-[Durgā-deliverer](durgottāriṇī) [bewilderment](sammohā) [living-being](jīvo) [form-charming](mūrtimanoharaḥ) [mind-swift](manojavaḥ)
+[gloss](durgottāriṇī) [gloss](sammohā) [gloss](jīvo) [gloss](mūrtimanoharaḥ) [gloss]([manojavaḥ])
 
 ## mukta-m0-p09-v214
-[Nakulīśa](nakulīśo) [world-breath](jagatprāṇaḥ) [breath-lord](prāṇeśaḥ) [tawny](kapilā) + [stainless](amalaḥ) [impurity](malaḥ) [opinion](mataḥ)
+[gloss](nakulīśo) [gloss](jagatprāṇaḥ) [gloss](prāṇeśaḥ) [gloss](kapilā'malaḥ) [gloss]([malaḥ) [gloss](+) [gloss](mataḥ])
 
 ## mukta-m0-p09-v215
-[deer](mṛgo) + [fearless](abhayā) + [reddish](aruṇā) [firm-one](sthāṇuḥ) [jackal](kroṣṭuḥ) [well-resounding](kūpavirāvaṇaḥ) [well-resounding](kraṭakūpavirāvaṇaḥ) [peak-anger-removal](kūṭakoparivāraṇaḥ)
+[gloss](mṛgo'bhayā'ruṇā) [gloss](sthāṇuḥ) [gloss](kroṣṭuḥ) [gloss](kūpavirāvaṇaḥ) [gloss]([kraṭakūpavirāvaṇaḥ) [gloss](+) [gloss](kūṭakoparivāraṇaḥ])
 
 ## mukta-m0-p09-v216
-[one](1) [own-anger-removal](sva(sa)kopavāraṇaḥ) [trident-bearer](śūlī) [consciousness](caitanyaṃ) [foot-filling](pādapūraṇaḥ)
+[gloss](1) [gloss](sva(sa)kopavāraṇaḥ) [gloss](śūlī) [gloss](caitanyaṃ) [gloss](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[drop](bindur) + [Durgā](durgā) [beloved](priyā) [goddess](devī) [cloud](meghaḥ) [dark-lord](śyāmeśvaraḥ) [person](pumān)
+[gloss](bindurdurgā) [gloss](priyā) [gloss](devī) [gloss](meghaḥ) [gloss](śyāmeśvaraḥ) [gloss](pumān)
 
 ## mukta-m0-p09-v218
-[four](4) [right-foot](dakṣapādaḥ) [always](sadā) [Śambhu](śambhuḥ) [Sākhoṭa-tree](sākhoṭaḥ) [moon-circle](somamaṇḍalam)
+[gloss](4) [gloss](dakṣapādaḥ) [gloss](sadā) [gloss](śambhuḥ) [gloss](sākhoṭaḥ) [gloss](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[pervading](vyāpinī) [Śiva-giving](śivadā) [banner](ketur) + [world](jagat) [plough-crossing](sīrataraṃ) [force](haṭhaḥ)
+[gloss](vyāpinī) [gloss](śivadā) [gloss](keturjagat) [gloss](sīrataraṃ) [gloss](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[eight](8) [belly](jaṭharo) [mongoose](nakuliḥ) [yellow](pītaḥ) [yellow](pītā) [Śiva-lord](śiveśo) + [bodiless-garlanded](anaṅgamālinī)
+[gloss](8) [gloss](jaṭharo) [gloss](nakuliḥ) [gloss](pītaḥ) [gloss]([pītā]) [gloss](śiveśo'naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[mantra-syllable](kṣa)
+[gloss](kṣa)
 
 ## mukta-m0-p09-v222
-[man-lion](nṛsiṃho) [lightning](vidyutā) [illusion](māyā) [great-splendor](mahātejā) [age-destroyer](yugāntakaḥ)
+[gloss](nṛsiṃho) [gloss](vidyutā) [gloss](māyā) [gloss](mahātejā) [gloss](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[twelve](12) [all-limbed](sarvāṅgaṃ) [all-limbed](sarvāṃgaḥ) [ocean](sāgaraḥ) [desire](kāmaḥ) [union-end](saṃyogāntas) + [Tripuraka](tripūrakaḥ)
+[gloss](12) [gloss](sarvāṅgaṃ) [gloss]([sarvāṃgaḥ]) [gloss](sāgaraḥ) [gloss](kāmaḥ) [gloss](saṃyogāntastripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[face](mukhaṃ) [poetry](kavyaṃ) [great-endless](mahānantā) [poetry-bearing](kavyavahā) + [endless](anantā) [time-tongue](kālajihvā) [Gaṇeśvara](gaṇeśvaraḥ)
+[gloss](mukhaṃ) [gloss](kavyaṃ) [gloss](mahānantā) [gloss]([kavyavahā'nantā]) [gloss](kālajihvā) [gloss](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[shadow-son](chāyāputraś) + [and](ca) [conjunction](saṃghāto) [Malaya-glory](malayaśrīr) + [forehead](lalāṭakaḥ)
+[gloss](chāyāputraśca) [gloss](saṃghāto) [gloss](malayaśrīrlalāṭakaḥ)

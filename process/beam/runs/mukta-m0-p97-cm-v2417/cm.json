@@ -3,24 +3,39 @@
  "verse": 2417,
  "rows": [
   {
-   "lemma": "paṭṭasūtreṇa",
-   "morph": "noun.instr.sg.n",
-   "grounds": "instrumental means"
+   "lemma": "śikṣayan",
+   "morph": "m.nom.sg.part-pres-śikṣ",
+   "grounds": "participle"
   },
   {
-   "lemma": "badhnīyāt",
-   "morph": "verb.3.sg.act-opt",
-   "grounds": "optative verb"
+   "lemma": "loka+",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "śavapādadvayaṃ",
-   "morph": "noun.acc.sg.n",
-   "grounds": "accusative object"
+   "lemma": "yātrāñ+",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "tataḥ",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb of sequence"
+   "grounds": "conjunction"
+  },
+  {
+   "lemma": "kaulo",
+   "morph": "m.nom.sg",
+   "grounds": "subject"
+  },
+  {
+   "lemma": "viharati",
+   "morph": "3.sg.act.pres-vihar",
+   "grounds": "present verb"
+  },
+  {
+   "lemma": "kṣitau",
+   "morph": "f.loc.sg",
+   "grounds": "locative noun"
   }
  ]
 }

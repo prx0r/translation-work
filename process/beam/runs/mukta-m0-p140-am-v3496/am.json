@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3496,
- "question": "Which chapter of the Aṃśumān Kāśyapa text concludes with the trident installation rite?",
+ "question": "What should be done after wiping the image with rice-grain powder?",
  "premises": [
-  "The verse marks a conclusion.",
-  "It names the Aṃśumān Kāśyapa text.",
-  "It identifies the eighty-fourth chapter on trident installation."
+  "Rice-grain powder is used for wiping.",
+  "Wiping precedes drying.",
+  "Drying is commanded."
  ],
- "inference": "This concludes the eighty-fourth chapter, on the rule for trident installation, in the Aṃśumān Kāśyapa.",
- "uncertainties": [],
- "plain_english": "Thus ends the eighty-fourth chapter, on the rule for trident installation, in the Aṃśumān Kāśyapa."
+ "inference": "After wiping with rice-grain powder, one should dry the image.",
+ "uncertainties": [
+  "The exact drying method is not specified."
+ ],
+ "plain_english": "Having wiped with rice-grain powder, one should dry it."
 }

@@ -1,14 +1,17 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1369,
- "question": "What may mercury become when heated in a wheel-provided crucible?",
+ "question": "How are the six seeds and fire beautiful arranged?",
  "premises": [
-  "wheel crucible provided heated",
-  "ash mercury may become impurity"
+  "As before is stated.",
+  "Six seeds are named.",
+  "Then is stated.",
+  "In the end is stated.",
+  "Fire beautiful is named."
  ],
- "inference": "heated mercury may become ash impurity",
+ "inference": "The six seeds are arranged as before, then, and in the end with fire beautiful.",
  "uncertainties": [
-  "exact wheel unclear"
+  "Exact sequence is not fully specified."
  ],
- "plain_english": "When heated in a wheel-provided crucible, mercury may become ash impurity."
+ "plain_english": "As before, six seeds, then, in the end, fire beautiful."
 }

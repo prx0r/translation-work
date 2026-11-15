@@ -1,0 +1,79 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p77",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1923 ratio=0.897"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "f1e172876776f31f",
+ "source_digest_normalized_sha256": "f1e172876776f31f2660ff958331927b581477f785374d57c41bf2d3b2aa85be",
+ "source_sha256_raw": "b86ea0b3c225555b0480ab444f7c4760f30e908aa77b18f5295268f40c13c05f",
+ "source_sha256_raw_file": "/root/translation-work/kularnavatantra/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 147
+ },
+ "align": {
+  "min_ratio": 0.897,
+  "sub090": {
+   "1923": {
+    "ratio": 0.897,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 42,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 147,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v1923"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "2ab96409ff7ac915e5b5f6bd109aff1084892a3ee50aa0a522d59757283517f8",
+  "l0": "4d7a49b10a7bdc3290a55b2ec9826dc016df1147d8306d7a2af98dc75e9f735a",
+  "argmap": "ff2d2083e0857192ffc5d328f31e70ed73fd1b562108f786da09fe0de154dff9",
+  "l2": "e09ddafb26e63e302a2393fb058ac8ec86b49b3203ff6a4b83691369eb7a74fc",
+  "c1": "fe38e5f323f713e0f8cb5f3b2cbdc4513b70f7c1bbfd3ba81df0b7cecd3a4c43"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "f1e172876776f31f",
+  "t1": "kul-p77/data/kul-p77.t1.json",
+  "l0": "kul-p77/data/kul-p77.l0.json",
+  "l2": "kul-p77/data/kul-p77.l2.json",
+  "c1": "kul-p77/data/kul-p77.c1.json"
+ }
+}

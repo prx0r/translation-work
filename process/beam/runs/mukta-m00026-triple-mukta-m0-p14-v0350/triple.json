@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverbial from krama; indicates sequential performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptadaśa+arṇaṃ",
+     "gloss": "seventeen-syllabled",
+     "grounds": "compound saptadaśa+arṇa; accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "modifies dhyānam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "accusative object of ācaran",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ācaran",
+     "gloss": "performing",
+     "grounds": "participle modifying implied subject",
+     "morph": "pres.part.act.sg.m.nom"
+    }
+   ],
+   "question": "Which meditation is performed second in sequence, the seventeen-syllabled one?",
+   "premises": [
+    "The verse prescribes sequential performance.",
+    "The second meditation is seventeen-syllabled.",
+    "The practitioner performs it."
+   ],
+   "inference": "The second meditation in the sequence is the seventeen-syllabled meditation.",
+   "uncertainties": [
+    "Exact mantra syllables are not specified in this verse."
+   ],
+   "plain_english": "Performing in order, indeed the second meditation is the seventeen-syllabled one."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[in-left](vāme) [sword](khaḍgaṃ) [and](tathā) [shield](carma) [bow](dhanuḥ) [+](tarjanam) [indeed](eva) [and](ca)
+[left](vāme) [sword](khaḍgaṃ) [and](tathā) [shield](carma) [bow-arrow](dhanustarjanam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p15-v352
-[yellow-garment](pītāmbara) [+](dharāṃ) [goddess](devīṃ) [full](pīna) [+](unnata) [+](kuca) [+](dvayām)
+[yellow-garment-wearing](pītāmbaradharāṃ) [goddess](devīṃ) [full-raised-breast-pair](pīnonnatakucadvayām)
 
 ## mukta-m0-p15-v353
-[oṃ](oṃ) [buffalo](mahiṣa) [+](daitya) [+](enemy) [hūṃ](hūṃ) [phaṭ](phaṭ) [on-head](śirasi) [uttered](udīritam)
+[oṃ mahiṣa(daitya)śatro hūṃ phaṭ](oṃ mahiṣa(daitya)śatro hūṃ phaṭ) [on-head](śirasi) [uttered](udīritam)
 
 ## mukta-m0-p15-v354
-[oṃ](oṃ) [buffalo](mahiṣaṃ) [neigh](heṣaya) [neigh](heṣaya) [hūṃ](hūṃ) [phaṭ](phaṭ) [crest-mantra](śikhāmantraḥ) [declared](samīritaḥ)
+[oṃ mahiṣaṃ heṣaya heṣaya hūṃ (phaṭ)](oṃ mahiṣaṃ heṣaya heṣaya hūṃ (phaṭ)) [crest-mantra](śikhāmantraḥ) [pronounced](samīritaḥ)
 
 ## mukta-m0-p15-v355
-[buffalo-crusher](mahiṣamardinī) [hūṃ](hūṃ) [phaṭ](phaṭ) [weapons](astrāṇi) [hear](śṛṇu) [O-Bhairava](bhairava)
+[buffalo-crusher](mahiṣamardinī) [hūṃ phaṭ](hūṃ phaṭ) [weapons](astrāṇi) [hear](śṛṇu) [Bhairava](bhairava)
 
 ## mukta-m0-p15-v356
-[weapons](āyudhāni) [on-palāśa-leaf](palāśāgre) [with-ya-etc](yādibhiḥ) [in-order](kramaśaḥ) [one-should-worship](yajet)
+[weapons](āyudhāni) [on-palasha-leaf](palāśāgre) [with-ya-etc](yādibhiḥ) [in-order](kramaśaḥ) [should-worship](yajet)
 
 ## mukta-m0-p15-v357
-[accomplished-in-mantra](siddhamantrī) [those-weapons](tadastrāṇi) [application](prayogaṃ) [and](ca) [should-perform](samācaret)
+[accomplished-mantra-user](siddhamantrī) [those-weapons](tadastrāṇi) [application](prayogaṃ) [and](ca) [should-perform](samācaret)
 
 ## mukta-m0-p15-v358
-[this](eṣā) [knowledge](vidyā) [great-knowledge](mahāvidyā) [not](na) [to-be-given](deyā) [to-whomsoever](yasya) [to-anyone](kasyacit)
+[this](eṣā) [vidya](vidyā) [great-vidya](mahāvidyā) [not](na) [to-be-given](deyā) [to-anyone](yasya kasyacit)
 
 ## mukta-m0-p15-v359
-[initiated](dīkṣitā) [born-in-family](kulajā) [+](tu) [success-giving](siddhidā) [she-alone](saiva) [not-otherwise](nānyathā)
+[initiated](dīkṣitā) [kula-born](kulajātistu) [giver-of-siddhi](siddhidā) [that-alone](saiva) [not-otherwise](nānyathā)
 
 ## mukta-m0-p15-v360
-[attained](prāpta) [+](anantara) [+](sārṇave) [my](mama) [mind-swan](manaḥ) [+](haṃsaḥ) [for-long](ciraṃ) [may-rejoice](nandatu)
+[in-ocean-after-attainment](prāptānantarasārṇave) [my](mama) [mind-swan](manohaṃsaściraṃ) [may-rejoice](nandatu)
 
 ## mukta-m0-p15-v361
-[they-serve](sevante) [elephant-enemy](karivairiṇaṃ) [what](kim) [with-enemies](aribhiḥ) [fear](bhītiḥ) [may-be](bhavet) [of-worshipper](sevinaḥ)
+[serve](sevante) [elephant-enemy](karivairiṇaṃ) [what](kim) [by-enemies](aribhirbhītirbhavetsevinaḥ)
 
 ## mukta-m0-p15-v362
-[venerable](śrīmat) [+](pāda) [+](payoja) [+](cumbana) [+](paraṃ) [me](mām) [today](adya) [honor](saṃbhāvaya)
+[devoted-to-kissing-lotus-feet](cchrīmatpādapayojacumbanaparaṃ) [me](māmadya) [consider](saṃbhāvaya)
 
 ## mukta-m0-p15-v363
-[venerable](śrīmat) [+](pāda) [+](payoja) [+](cintana) [+](vidhau) [mind](cittaṃ) [always](sadā) [may-be](astu) [our](naḥ)
+[in-meditation-on-lotus-feet](śrīmatpādapayojacintanavidhau) [mind](cittaṃ) [always](sadaivāstu) [our](naḥ)
 
 ## mukta-m0-p15-v364
-[my-mind](maccitte) [+](akṣata) [+](saṃpadi) [may-spread](prasaratu) [O-bestower-of-welfare](kṣemaṃkari) [forgive](kṣamyatām)
+[in-my-mind](maccitte'kṣatasaṃpadi) [unbroken-prosperity](prasaratu) [welfare-doer](kṣemaṃkari) [forgive](kṣamyatām)
 
 ## mukta-m0-p15-v365
-[not](na) [honey](mādhvī) [+](pūrṇa) [+](bhavat) [+](pada) [+](eka) [+](kamala) [+](āmodena) [tasted](āsvāditaḥ)
+[by-fragrance-of-your-single-lotus-foot](nmādhvīpūrṇabhavatpadaikakamalāmodena) [not](nāsvāditaḥ)
 
 ## mukta-m0-p15-v366
-[venerable](śrīmad) [+](bhakti) [+](rasa) [+](ati) [+](durdina) [+](parīvāhaḥ) [always](sadā) [may-flow](sarpatu)
+[stream-of-intense-devotion-rain](śrīmadbhaktirasātidurdinaparīvāhaḥ) [always](sadā) [may-flow](sarpatu)
 
 ## mukta-m0-p15-v367
-[recitation](pāṭhaḥ)
+[reading](pāṭhaḥ)
 
 ## mukta-m0-p15-v368
-[proud](dṛpyat) [+](daivata) [+](vairi) [+](dāraṇa) [+](paṭuḥ) [may-be-victorious](jīyāt) [victory-delighting](jayāhlādinī)
+[skilled-in-crushing-proud-gods-enemies](dṛpyaddaivatavairdāraṇapaṭurjīyājjayāhlādinī)
 
 ## mukta-m0-p15-v369
-[breaking](truṭyat) [+](khaṇḍa) [+](vikhaṇḍita) [+](akhila) [+](śakunta) [+](kṣut) [+](pipāsā) [+](ujjvale)
+[bright-with-hunger-thirst-of-all-birds-broken](truṭyatkhaṇḍavikhaṇḍitākhilaśakuntakṣutpipāsojjvale)
 
 ## mukta-m0-p15-v370
-[one-should-remember](smaret) [thus](iti) [in-Tantrasāra](tantrasāre)
+[should-remember](smaret) [thus](iti) [in-Tantra-sara](tantrasāre)
 
 ## mukta-m0-p15-v371
-[twice](dvīḥ) [+](āsphāla) [+](lasat) [+](karāla) [+](vadanāṃ) [terrible](ghora) [+](aṭṭahāsa) [+](udbhaṭām)
+[terrifying-face-shining-with-clashing](dvīrāsphālalasatkarālavadanāṃ) [terrific-loud-laughter](ghorāṭṭahāsodbhaṭām)
 
 ## mukta-m0-p15-v372
-[paralysis](stambha) [+](uccāṭana) [+](māraṇa) [+](ādi) [+](kṛtināṃ) [of-them](teṣāṃ) [by-itself](svayaṃ) [arises](jāyate)
+[of-those-doing-immobilizing-etc](stambhoccāṭanamāraṇādikṛtināṃ) [their](teṣāṃ) [by-itself](svayaṃ) [arises](jāyate)
 
 ## mukta-m0-p15-v373
-[of-them](teṣāṃ) [in-hand](hastagatāḥ) [become](bhavanti) [of-worlds](jagatāṃ) [O-mother](mātaḥ) [salutation-to-you](namaste) [victory](jaya)
+[their](steṣāṃ) [in-hand](hastagatā) [become](bhavanti) [of-worlds](jagatāṃ) [mother](mātarnamaste) [victory](jaya)
 
 ## mukta-m0-p15-v374
-[see](paśya) [form](mūrtiṃ) [not](na) [and](ca) [fit-for-meditation](dhyānayogyāṃ) [to-me](mama) [happiness-giving](sukhāvaham)
+[see](paśya) [form](mūrtiṃ) [not](na) [and](ca) [fit-for-meditation](dhyānayogyāṃ) [my](mama) [bringing-happiness](sukhāvaham)
 
 ## mukta-m0-p15-v375
-[Tripurā](tripurā) [Bhairavī-form](bhairavīmūrtiḥ) [primordial](ādyā) [she](sā) [proclaimed](parikīrtitā)
+[Tripura](tripurā) [Bhairavi-form](bhairavīmūrtirādyā) [primordial](sā) [proclaimed](parikīrtitā)

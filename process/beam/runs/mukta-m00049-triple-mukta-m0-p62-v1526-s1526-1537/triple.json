@@ -1,0 +1,575 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1526,
+   "rows": [
+    {
+     "surface": "sasuccārya",
+     "gloss": "with-uttering",
+     "grounds": "compound adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaidikī",
+     "gloss": "vedic",
+     "grounds": "adjective feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāntrikī",
+     "gloss": "tantric",
+     "grounds": "adjective feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyā",
+     "gloss": "twilight-worship",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which twilight worship must be performed with utterance in both vedic and tantric forms?",
+   "premises": [
+    "This vedic and tantric twilight worship is to be done.",
+    "It is to be done with uttering."
+   ],
+   "inference": "The prescribed twilight worship includes both vedic and tantric utterance.",
+   "uncertainties": [
+    "Exact ritual context of sasuccārya is not specified."
+   ],
+   "plain_english": "This vedic and tantric twilight worship is to be performed with utterance."
+  },
+  {
+   "verse": 1527,
+   "rows": [
+    {
+     "surface": "gṛhyakaṃ",
+     "gloss": "household",
+     "grounds": "neuter adjective or noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vastu+jātam",
+     "gloss": "thing-collection",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛha+sambandhi",
+     "gloss": "house-related",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "pronoun adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vastu",
+     "gloss": "thing",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What household things related to the house are included among all things?",
+   "premises": [
+    "Household thing-collection is house-related.",
+    "All thing is included."
+   ],
+   "inference": "The verse enumerates household and house-related things among all things.",
+   "uncertainties": [
+    "Whether gṛhyakaṃ modifies vastu+jātam or stands separately."
+   ],
+   "plain_english": "Household things, the collection of things, and all house-related things are included."
+  },
+  {
+   "verse": 1528,
+   "rows": [
+    {
+     "surface": "prasiddhaṃ",
+     "gloss": "well-known",
+     "grounds": "past participle adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devatā+kṣetraṃ",
+     "gloss": "deity-place",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇya+tīrthaṃ",
+     "gloss": "holy-ford",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-proclaimed",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What well-known deity places and holy fords are proclaimed?",
+   "premises": [
+    "Well-known deity-place is proclaimed.",
+    "Holy ford is proclaimed."
+   ],
+   "inference": "The verse proclaims well-known deity places and holy fords.",
+   "uncertainties": [
+    "Whether prasiddhaṃ modifies both compounds."
+   ],
+   "plain_english": "Well-known deity places and holy fords are proclaimed."
+  },
+  {
+   "verse": 1529,
+   "rows": [
+    {
+     "surface": "narakāya",
+     "gloss": "for-hell",
+     "grounds": "dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb third singular",
+     "morph": "3.sg.act-pres + bhū"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-place",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrthāya",
+     "gloss": "to-sacred-place",
+     "grounds": "dative singular",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vrajatāṃ",
+     "gloss": "going",
+     "grounds": "participle genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "When does a sacred place become hell for men going to a sacred place?",
+   "premises": [
+    "A sacred place becomes hell.",
+    "It is for men going to a sacred place."
+   ],
+   "inference": "The verse warns that a sacred place can become hell for those going to it.",
+   "uncertainties": [
+    "Exact condition causing the reversal is not stated."
+   ],
+   "plain_english": "A sacred place becomes hell for men going to a sacred place."
+  },
+  {
+   "verse": 1530,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vratānāṃ",
+     "gloss": "of-vows",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "niyamo",
+     "gloss": "restriction",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhartuḥ",
+     "gloss": "of-husband",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śuśrūṣaṇaṃ",
+     "gloss": "service",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is there any restriction of vows without service to the husband?",
+   "premises": [
+    "There is no restriction of vows.",
+    "It is without service to the husband."
+   ],
+   "inference": "Vows have no restriction apart from service to the husband.",
+   "uncertainties": [
+    "Whether niyamo means rule or restriction in this context."
+   ],
+   "plain_english": "There is indeed no restriction of vows without service to the husband."
+  },
+  {
+   "verse": 1531,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+ātmanā",
+     "gloss": "with-whole-self",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pati+sevāṃ",
+     "gloss": "husband-service",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-practice",
+     "grounds": "verb third singular optative",
+     "morph": "3.sg.act-opt + sam+ā+car"
+    }
+   ],
+   "question": "Why should a woman practice service to her husband with whole self?",
+   "premises": [
+    "Therefore a woman should practice husband-service.",
+    "She should do so with whole self."
+   ],
+   "inference": "The verse commands wholehearted service to the husband.",
+   "uncertainties": [
+    "Whether sarva+ātmanā is instrumental of manner."
+   ],
+   "plain_english": "Therefore a woman should practice service to her husband with her whole self."
+  },
+  {
+   "verse": 1532,
+   "rows": [
+    {
+     "surface": "tat+ājñā+anucarī",
+     "gloss": "his-command-following",
+     "grounds": "compound adjective feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive",
+     "morph": "abs + bhū"
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "should-please",
+     "grounds": "verb third singular optative",
+     "morph": "3.sg.act-opt + tuṣ"
+    },
+    {
+     "surface": "pati+bāndhavān",
+     "gloss": "husband-relatives",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Whom should a wife please after becoming one who follows her husband's command?",
+   "premises": [
+    "Having become his-command-following, she should please.",
+    "She should please husband-relatives."
+   ],
+   "inference": "A wife who follows her husband's command should please his relatives.",
+   "uncertainties": [
+    "Whether tat refers to husband or another person."
+   ],
+   "plain_english": "Having become one who follows his command, she should please her husband's relatives."
+  },
+  {
+   "verse": 1533,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apriyaṃ",
+     "gloss": "unpleasant",
+     "grounds": "neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-do",
+     "grounds": "verb third singular optative",
+     "morph": "3.sg.act-opt + car"
+    },
+    {
+     "surface": "bhartuḥ",
+     "gloss": "of-husband",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pativratā",
+     "gloss": "chaste-wife",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What should a chaste wife not do even by mind toward her husband?",
+   "premises": [
+    "A chaste wife should not do unpleasant things.",
+    "She should not do them even by mind."
+   ],
+   "inference": "A chaste wife must avoid even mentally unpleasant acts toward her husband.",
+   "uncertainties": [
+    "Whether apriyaṃ is object of caret or predicate."
+   ],
+   "plain_english": "A chaste wife should not do anything unpleasant, even in mind, toward her husband."
+  },
+  {
+   "verse": 1534,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prīṇayati",
+     "gloss": "pleases",
+     "grounds": "verb third singular present",
+     "morph": "3.sg.act-pres + prī"
+    },
+    {
+     "surface": "bhartāraṃ",
+     "gloss": "husband",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sā+eva",
+     "gloss": "she-indeed",
+     "grounds": "demonstrative with emphatic",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahma+padaṃ",
+     "gloss": "brahman-state",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtains",
+     "grounds": "verb third singular optative",
+     "morph": "3.sg.act-opt + labh"
+    }
+   ],
+   "question": "What does a woman who pleases her husband obtain?",
+   "premises": [
+    "She who pleases her husband obtains brahman-state.",
+    "She indeed obtains it."
+   ],
+   "inference": "Pleasing the husband leads to obtaining the state of brahman.",
+   "uncertainties": [
+    "Whether brahma+padaṃ means liberation or divine status."
+   ],
+   "plain_english": "She who pleases her husband indeed obtains the state of brahman."
+  },
+  {
+   "verse": 1535,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgaṃ",
+     "gloss": "body",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "should-show",
+     "grounds": "verb third singular optative",
+     "morph": "3.sg.act-opt + dṛś"
+    },
+    {
+     "surface": "anyān",
+     "gloss": "to-others",
+     "grounds": "pronoun accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhartuḥ+ājñā+anusāriṇī",
+     "gloss": "husband-command-following",
+     "grounds": "compound adjective feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What should a wife who follows her husband's command not show to others?",
+   "premises": [
+    "She should not show body to others.",
+    "She is husband-command-following."
+   ],
+   "inference": "A wife following her husband's command must not display her body to others.",
+   "uncertainties": [
+    "Whether aṅgaṃ means body part or whole body."
+   ],
+   "plain_english": "And she who follows her husband's command should not show her body to others."
+  },
+  {
+   "verse": 1536,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strī+dharmān",
+     "gloss": "woman-duties",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "āha",
+     "gloss": "states",
+     "grounds": "verb third singular present",
+     "morph": "3.sg.act-pres + ah"
+    },
+    {
+     "surface": "na+tīrtha",
+     "gloss": "not-at-sacred-place",
+     "grounds": "compound adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityādibhiḥ",
+     "gloss": "etc",
+     "grounds": "ablative instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saptabhiḥ",
+     "gloss": "with-seven",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How are women's duties now stated, including not at sacred place and so on?",
+   "premises": [
+    "Now he states woman-duties.",
+    "He states them with not-at-sacred-place etc and seven."
+   ],
+   "inference": "The verse introduces a sevenfold statement of women's duties beginning with not at sacred place.",
+   "uncertainties": [
+    "Exact referent of saptabhiḥ is unclear."
+   ],
+   "plain_english": "Now he states women's duties, with not at sacred place and so on, in seven."
+  },
+  {
+   "verse": 1537,
+   "rows": [
+    {
+     "surface": "sarva+ātmanā",
+     "gloss": "with-whole-self",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sarva+prayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "With what whole self and all effort are these duties to be performed?",
+   "premises": [
+    "With whole self.",
+    "With all effort."
+   ],
+   "inference": "The duties are to be performed with whole self and all effort.",
+   "uncertainties": [
+    "The verb or object is omitted in this fragment."
+   ],
+   "plain_english": "With whole self and with all effort."
+  }
+ ]
+}

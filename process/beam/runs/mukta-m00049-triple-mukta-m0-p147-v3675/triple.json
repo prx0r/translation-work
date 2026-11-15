@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p147",
+ "items": [
+  {
+   "verse": 3675,
+   "rows": [
+    {
+     "surface": "kliśyantaḥ",
+     "gloss": "suffering",
+     "grounds": "present participle of kliś in nominative plural masculine, describing the subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tapasā",
+     "gloss": "by-austerity",
+     "grounds": "instrumental singular of tapas, indicating the means of suffering",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative singular object governed by vinā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition taking the accusative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "accusative singular goal not reached",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "third person plural active present of root yā",
+     "morph": "3.pl.act-pres + root yā"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative plural pronoun subject",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Can practitioners attain liberation through austerity alone when knowledge is absent?",
+   "premises": [
+    "Austerity without knowledge causes suffering.",
+    "Suffering practitioners do not attain liberation.",
+    "Knowledge is necessary for liberation."
+   ],
+   "inference": "Austerity alone cannot yield liberation; knowledge is required.",
+   "uncertainties": [
+    "Whether te refers to all practitioners or only a subset."
+   ],
+   "plain_english": "Those who suffer through austerity without knowledge do not attain liberation."
+  }
+ ]
+}

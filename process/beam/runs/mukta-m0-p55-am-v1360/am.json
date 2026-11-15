@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1360,
- "question": "How should each dose be ground in a heated mortar with sour?",
+ "question": "Who is declared seer of this?",
  "premises": [
-  "at each dose heated mortar",
-  "day with sour grind"
+  "Genitive refers to this.",
+  "Pañcavaktra is named.",
+  "Seer is declared."
  ],
- "inference": "each dose is ground with sour",
+ "inference": "Pañcavaktra is declared seer of this.",
  "uncertainties": [
-  "exact duration unclear"
+  "Antecedent of 'this' is not explicit."
  ],
- "plain_english": "At each dose, grind for a day in a heated mortar with sour."
+ "plain_english": "Pañcavaktra is the seer of this."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[outer-platform](bāhyapīṭhe) [in-order+having-circled](krama+āvṛtya) [temple](prāsādaṃ) [three-times+circumambulation](triḥ+pradakṣiṇam)
+[outer-seat-loc](bāhyapīṭhe) [step-by-step](kramāvṛtya) [temple-acc](prāsādaṃ) [thrice-circumambulation-acc](triḥpradakṣiṇam)
 
 ## mukta-m0-p39-v952
-[nine-claps](navatākaṃ) [serpent-clap](nāgatālaṃ) [corner-part](koṭikāṃsaṃ) [will-do](kariṣya) [and](ca)
+[nine-pools](navatākaṃ) [snake-palm](nāgatālaṃ) [crore-bronze](koṭikāṃsaṃ) [will-do](kariṣya) [and](ca)
 
 ## mukta-m0-p39-v953
-[thus+these](iti+ete) [arranged](kalpitāḥ) [and+indeed](ca+eva) [temple](prāsādaṃ) [three-times+circumambulation](triḥ+pradakṣiṇam)
+[thus-these](ityete) [imagined](kalpitāḥ) [and](ca) [eva](eva) [temple-acc](prāsādaṃ) [thrice-circumambulation-acc](triḥpradakṣiṇam)
 
 ## mukta-m0-p39-v954
-[heart](hṛdayaṃ) [mantra](mantram) [having-uttered](uccārya) [with-fragrance+flower+etc](gandha+puṣpa+ādinā) [one-should-worship](arcayet)
+[heart-acc](hṛdayaṃ) [mantra-acc](mantram) [uttering](uccārya) [sandal-flowers-etc-with](gandhapuṣpādinā) [worship-opt](arcayet)
 
 ## mukta-m0-p39-v955
-[image](pratimaṃ) [counter-liṅga](pratiliṅgam) [but](tu) [one-should-worship](pūjayet) [as-before+auspicious](pūrvavat+śubham)
+[image-acc](pratimaṃ) [linga-by-linga](pratiliṅgantu) [worship-opt](pūjayet) [as-before](pūrvavat) [auspicious](śubham)
 
 ## mukta-m0-p39-v956
-[one-should-worship+god-of-gods](pūjayet+deva+deva+īśaṃ) [one-should-bow](namaskuryāt) [and+with-gesture](ca+mudrayā)
+[worship-opt](pūjayet) [god-of-gods-acc](devadeveśaṃ) [salute-opt](namaskuryāt) [camudra-with](camudrayā)
 
 ## mukta-m0-p39-v957
-[circumambulation](pradakṣiṇaṃ) [sorrow-removing](duḥkha+haraṃ) [soma-line](soma+sūtraṃ) [not](na) [one-should-cross](laṅghayet)
+[circumambulation-acc](pradakṣiṇaṃ) [sorrow-removing](duḥkhaharaṃ) [soma-sutra-acc](somasūtraṃ) [not-cross-opt](na laṅghayet)
 
 ## mukta-m0-p39-v958
-[circumambulation-equal](pradakṣiṇa+samaṃ) [not](na) [exists](asti) [visible-fruit-accomplishment-giving](pratyakṣa+phala+siddhi+dam)
+[circumambulation-equal](pradakṣiṇasamaṃ) [not-is](nāsti) [direct-fruit-accomplishment-giving](pratyakṣaphalasiddhidam)
 
 ## mukta-m0-p39-v959
-[twofold-division-characteristic](dvibheda+lakṣaṇaṃ) [I-shall-tell](vakṣye) [listen+thus](śṛṇuṣva+evaṃ) [O-great-lord](mahā+īśvara)
+[two-fold-mark](dvibhedalakṣaṇaṃ) [will-speak](vakṣye) [listen-imp](śṛṇuṣva) [thus](evaṃ) [great-lord-voc](maheśvara)
 
 ## mukta-m0-p39-v960
-[shadow-below](chāyā+adhastāt) [to-be-done](prakartavyaṃ) [in-shrine](vimāne) [but](tu) [circumambulation](pradakṣiṇam)
+[shadow-under](chāyādhastāt) [to-be-done](prakartavyaṃ) [in-shrine](vimāne) [tu](tu) [circumambulation-acc](pradakṣiṇam)
 
 ## mukta-m0-p39-v961
-[not](na) [fault](doṣam) [at-other-times](anya+kāleṣu) [shadow-line](chāyā+sūtraṃ) [not](na) [one-should-cross](laṅghayet)
+[not-fault](na doṣam) [other-times](anyakāleṣu) [shadow-thread-acc](chāyāsūtraṃ) [not-cross-opt](na laṅghayet)
 
 ## mukta-m0-p39-v962
-[auspicious](śivaṃ) [circumambulation](pradakṣiṇaṃ) [of-Śambhu](śaṃbhoḥ) [world-protection-purpose-cause](jagat+rakṣā+artha+kāraṇam)
+[shiva-acc](śivaṃ) [circumambulation-acc](pradakṣiṇaṃ) [of-shambhu](śaṃbhoḥ) [world-protection-purpose-cause](jagadrakṣārthakāraṇam)
 
 ## mukta-m0-p39-v963
-[life-strength](āyuḥ+balam) [likewise+health](tathā+ārogyam) [untimely-death](apamṛtyu) [victory](jayaḥ) [may-be](bhavet)
+[life](āyur) [strength](balaṃ) [and](tathā) [health](ārogyaṃ) [untimely-death](apamṛtyu) [victory](jayo) [becomes](bhavet)
 
 ## mukta-m0-p39-v964
-[in-circumambulation](pradakṣiṇe) [of-shrines](vimānānāṃ) [right-side](dakṣiṇaṃ) [best](śreṣṭham) [is-said](ucyate)
+[circumambulation-in](pradakṣiṇe) [of-shrines](vimānānāṃ) [right](dakṣiṇaṃ) [best-said](śreṣṭhamucyate)
 
 ## mukta-m0-p39-v965
-[for-knowledge](jñāna+artham) [and](ca) [for-victory](jaya+artham) [and](ca) [for-subjugation](vaśya+artham) [and](ca) [for-wealth](dhana+arthakam)
+[knowledge-purpose](jñānārthaṃ) [ca](ca) [victory-purpose](jayārthaṃ) [ca](ca) [subjugation-purpose](vaśyārthaṃ) [ca](ca) [wealth-purpose](dhanārthakam)
 
 ## mukta-m0-p39-v966
-[minuteness](aṇimā) [for-magnificence](guṇimā+artham) [and](ca) [circumambulation](pradakṣiṇam) [here+is-said](iha+ucyate)
+[animā](aṇimā) [guṇimā-purpose](guṇimārthaṃ) [ca](ca) [circumambulation-here-said](pradakṣiṇamihocyate)
 
 ## mukta-m0-p39-v967
-[on-right](dakṣiṇe) [door-deity](dvāra+devam) [but](tu) [Naṭeśvara](naṭeśvaram) [one-should-remember](anusmaret)
+[right](dakṣiṇe) [door-deity-acc](dvāradevaṃ) [tu](tu) [nateshvara-acc](naṭeśvaraṃ) [remember-opt](manusmaret)
 
 ## mukta-m0-p39-v968
-[head-hands](śiraḥ+hastau) [and](ca) [ears](karṇau) [and](ca) [chin](cibukaṃ) [arm-pair](bāhu+yugmakam)
+[head](śiro) [hands](hastau) [ca](ca) [ears](karṇau) [ca](ca) [chin](cibukaṃ) [two-arms](bāhuyugmakam)
 
 ## mukta-m0-p39-v969
-[head](śiraḥ) [hands](hastau) [two-arms](dvi+bāhū) [and](ca) [having-made](kṛtvā) [knee](jānu) [and](ca) [placed](saṃsthitau)
+[head](śiro) [hands](hastau) [two-arms](dvibāhū) [ca](ca) [making](kṛtvā) [knee](jānu) [ca](ca) [standing](saṃsthitau)
 
 ## mukta-m0-p39-v970
-[at-its-end](tat+ante) [tāṇḍava-dance](tāṇḍavaṃ) [having-done](kṛtvā) [my-pleasure-causing](mama+prīti+karam) [auspicious](śubham)
+[then-end](tadante) [tandava-acc](tāṇḍavaṃ) [doing](kṛtvā) [my-pleasure-giving](mamaprītikaraṃ) [auspicious](śubham)
 
 ## mukta-m0-p39-v971
-[liṅga-embracing](liṅgam+āliṅganam) [one-should-do](kuryāt) [knowledge-gesture](jñāna+mudrām) [thereafter](anantaram)
+[linga-embrace](liṅgamāliṅganaṃ) [do-opt](kuryāt) [knowledge-mudra-acc](jñānamudrāmanantaram)
 
 ## mukta-m0-p39-v972
-[offering-liṅga](bali+liṅgam) [then+having-worshipped](tataḥ+abhyarcya) [on-outer-platform](bāhya+pīṭhe) [but](tu) [one-should-place](nikṣipet)
+[offering-linga-acc](baliliṅgaṃ) [then-worship](tatobhyarcya) [outer-seat-loc](bāhyapīṭhe) [tu](tu) [place-opt](nikṣipet)
 
 ## mukta-m0-p39-v973
-[kauśika](kauśikaṃ) [and](ca) [then](tataḥ) [having-done](kṛtvā) [in-evening](sāya+ahne) [and+indula](ca+indulam) [auspicious](śubham)
+[koushika-acc](kauśikaṃ) [ca](ca) [then](tataḥ) [doing](kṛtvā) [evening](sāyāhne) [ca](ca) [indula-auspicious](endulaṃ śubham)
 
 ## mukta-m0-p39-v974
-[untimely-death](apamṛtyu) [pacifying](praśamanam) [life-health-increasing](āyuḥ+ārogya+vardhanam)
+[untimely-death](apamṛtyu) [pacification](praśamanam) [life-health-increase](āyurārogyavardhanam)
 
 ## mukta-m0-p39-v975
-[giving-destruction-connection](dāna+kṣapaṇa+yogena) [initiation](dīkṣā) [and+thus](ca+iti) [is-called](abhidhīyate)
+[gift-expiation-yoga](dānakṣapaṇayogena) [initiation-etc-called](dīkṣācetyabhidhīyate)

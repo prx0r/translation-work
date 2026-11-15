@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[mantra](khphreṁ) [all+enemy+crusher](sakalaśatruprathamani) [to-the-weapon](astrāya) [mantra](phaṭ)
+[khphreṁ](khphreṁ) [sakala](sakala) [śatru](śatru) [prathamani](prathamani) [astrāya](astrāya) [phaṭ](phaṭ)
 
 ## mukta-m0-p01-v2
-[o-skull-bearer](muṇḍe) [mantra](hūṁ) [universal+form](viśvarūpe) [salutation+supreme+boon+giver](natiparavarade) [śeṣa+serpent+upper-garment](śeṣanāgottarīye)
+[muṇḍe](muṇḍe) [hūṁ](hūṁ) [viśvarūpe](viśvarūpe) [natiparavarade](natiparavarade) [śeṣanāgottarīye](śeṣanāgottarīye)
 
 ## mukta-m0-p01-v3
-[kali+impurity+remover](kalikaluṣahare) [ready+rāmā+and-other+terrible-one](sajyarāmādyaghore) [fierce-goddess](devī) [o-destroyer](hare)
+[kali](kali) [kaluṣa](kaluṣa) [hare](hare) [sajya](sajya) [rāma](rāma) [ādya](ādya) [ghore](ghore)
 
 ## mukta-m0-p01-v4
-[churn](matha) [churn](matha) [by-churning+afflictions](mathaneduḥ) [ingratitude+deeds](kṛtaghnāni) [o-goddess](devī) [destroy](matha)
+[matha](matha) [matha](matha) [mathaneduḥ](mathaneduḥ) [kṛtaghnāni](kṛtaghnāni) [devī](devī)
 
 ## mukta-m0-p01-v5
-[mantra](kha) [mantra](kha) [mantra](kha) [sky-goer](khagame) [roaring+sound+terrible](ghargharārāvaghore) [o-fierce-one](ghore) [mantra](phaṭ)
+[kha](kha) [kha](kha) [kha](kha) [khagame](khagame) [ghargharārāvaghore](ghargharārāvaghore)
 
 ## mukta-m0-p01-v6
-[mantra](hehehūṃkārarāve) [roar](rāve) [cook+cook+burning](pacapacadahane) [release+release+purifying](muñcamuñcapavarte) [o-goddess](devī)
+[hehehūṃkārarāve](hehehūṃkārarāve) [pacapacadahane](pacapacadahane) [muñcamuñcapavarte](muñcamuñcapavarte)
 
 ## mukta-m0-p01-v7
-[phat-sound+form](phetkārarūpet) [mantra](kahakaharamaṇi) [corpse+ash+smeared](pretabhasmopalipte) [o-terrible-one](ghore) [mantra](phaṭ)
+[phetkārarūpet](phetkārarūpet) [kahakaharamaṇi](kahakaharamaṇi) [pretabhasmopalipte](pretabhasmopalipte)
 
 ## mukta-m0-p01-v8
-[hūṁ-sound+resonance](hūṁkāranāde) [mantra](la) [mantra](la) [mantra](la) [mantra](la) [vibrating+cutting](laneccheda) [phaṭ-sound+form](phaṭkārarūpe)
+[hūṁkāranāde](hūṁkāranāde) [la](la) [la](la) [la](la) [la](la) [laneccheda](laneccheda) [phaṭ](phaṭ) [kārarūpe](kārarūpe)
 
 ## mukta-m0-p01-v9
-[bestow](vitara) [excellent+auspiciousness](varaśubhaṃ) [desire+form+descended](kāmarūpāvatīrṇaṃ) [o-goddess](devī) [grant](dehi)
+[vitaravaraśubhaṃ](vitaravaraśubhaṃ) [kāmarūpāvatīrṇaṃ](kāmarūpāvatīrṇaṃ)
 
 ## mukta-m0-p01-v10
-[mantra](thhsrauṁ) [svāhā](svāhā) [mantra](yāṁ) [svāhā](svāhā) [mantra](hskhphreṁ) [svāhā](svāhā) [mantra](glauṁ) [svāhā](svāhā) [ten](10) [hymn](stotraḥ)
+[thhsrauṁ](thhsrauṁ) [svāhā](svāhā) [yāṁ](yāṁ) [svāhā](svāhā) [hskhphreṁ](hskhphreṁ) [svāhā](svāhā) [glauṁ](glauṁ) [svāhā](svāhā) [10](10) [stotraḥ](stotraḥ)
 
 ## mukta-m0-p01-v11
-[bindu+triad](vindutriya) [three](3) [thus](iti) [fivefold-garland](paṃcavaliḥ) [invocation](āvāhana)
+[vindutriya](vindutriya) [3](3) [iti](iti) [paṃcavaliḥ](paṃcavaliḥ) [āvāhana](āvāhana)
 
 ## mukta-m0-p01-v12
-[mantra](oṃ) [mantra](juṁ) [mantra](saḥ) [to-death-conqueror](mṛtyuñjayāya) [complete+water-pot+embodied](saṃpūrṇakalaśamūrtaye) [obeisance](namaḥ)
+[oṃ](oṃ) [juṁ](juṁ) [saḥ](saḥ) [mṛtyuñjayāya](mṛtyuñjayāya) [saṃpūrṇakalaśamūrtaye](saṃpūrṇakalaśamūrtaye) [namaḥ](namaḥ)
 
 ## mukta-m0-p01-v13
-[mantra](oṃ) [mantra](hūṁ) [mantra](saḥ) [svāhā](svāhā) [ten](10) [hymn](stotra)
+[oṃ](oṃ) [hūṁ](hūṁ) [saḥ](saḥ) [svāhā](svāhā) [10](10) [stotra](stotra)
 
 ## mukta-m0-p01-v14
-[mantra](oṃ) [mantra](hrāṁ) [mantra](hūṁ) [mantra](hāṁ) [mantra](phreṁ) [mantra](kṣoṁ) [mantra](kroṁ) [obeisance](namaḥ)
+[oṃ](oṃ) [hrāṁ](hrāṁ) [hūṁ](hūṁ) [hāṁ](hāṁ) [phreṁ](phreṁ) [kṣoṁ](kṣoṁ) [kroṁ](kroṁ) [namaḥ](namaḥ)
 
 ## mukta-m0-p01-v15
-[invocation+and-so-forth](āvāhanādi) [womb+gesture](yonimudrāṃ) [recitation](japa) [mantra](khphreṁ) [svāhā](svāhā)
+[12a)](12a)) [āvāhanādi](āvāhanādi) [yonimudrāṃ](yonimudrāṃ) [japa](japa) [khphreṁ](khphreṁ) [svāhā](svāhā)
 
 ## mukta-m0-p01-v16
-[five+faced](pañcavaktra) [ten+armed](daśabhujā) [three+times-five+eyes+endowed](tripañcanayanairyutā) [o-goddess](devī)
+[pañcavaktrādaśabhujā](pañcavaktrādaśabhujā) [tripañcanayanairyutā](tripañcanayanairyutā)
 
 ## mukta-m0-p01-v17
-[mother-goddesses+eight+middle](matṛkāṣṭakamadhye) [indeed](tu) [siddha+yoginī](siddhiyogini) [worshipped](pūjitā)
+[matṛkāṣṭakamadhye](matṛkāṣṭakamadhye) [tu](tu) [siddhiyogini](siddhiyogini) [pūjitā](pūjitā)
 
 ## mukta-m0-p01-v18
-[exhalation+inhalation+union](ucchvāsocchvāsayogena) [should-shake](cālayet) [family+mountains](kulaparvatān) [by-power](yogena)
+[ucchvāsocchvāsayogena](ucchvāsocchvāsayogena) [cālayet](cālayet) [kulaparvatān](kulaparvatān)
 
 ## mukta-m0-p01-v19
-[somewhere](kvacit) [she-creates](sṛjet) [somewhere](kvacit) [she-protects](pālyet) [own-will+desire](svatantrecchā) [proceeds](pravartate)
+[kvacit](kvacit) [sṛjekvacit](sṛjekvacit) [pālyet](pālyet) [svatantrecchā](svatantrecchā) [pravartate](pravartate)
 
 ## mukta-m0-p01-v20
-[noose+goad+holding](pāśāṃkuśadharā) [goddess](devī) [boon+giving+fearlessness+handed](valadābhayapāṇinī) [o-devi](devī)
+[pāśāṃkuśadharā](pāśāṃkuśadharā) [devī](devī) [valadābhayapāṇinī](valadābhayapāṇinī)
 
 ## mukta-m0-p01-v21
-[left+skull-staff](vāmekhaṭvāṅgam) [very-fierce](atyugraṃ) [right+trident](dakṣiṇeśūlam) [supreme](uttamaṃ)
+[vāmekhaṭvāṅgamatyugraṃ](vāmekhaṭvāṅgamatyugraṃ) [dakṣiṇeśūlamuttamaṃ](dakṣiṇeśūlamuttamaṃ)
 
 ## mukta-m0-p01-v22
-[left+hands](savyahastaiḥ) [with-hair](sakesaṃ) [indeed](vai) [severed-head](muṇḍaṃ) [blood+vessel+like](śonitasāddṛkaṃ)
+[savyahastaiḥ](savyahastaiḥ) [sakesaṃvai](sakesaṃvai) [muṇḍaṃśonitasāddṛkaṃ](muṇḍaṃśonitasāddṛkaṃ)
 
 ## mukta-m0-p01-v23
-[this](eṣā) [Pratyangira](pratyaṅgirā) [goddess](devī) [tantra+king+teaching+gone](tantrarājopadeśagā) [revealed](gatā)
+[eṣā](eṣā) [pratyaṅgirā](pratyaṅgirā) [devī](devī) [tantrarājopadeśagā](tantrarājopadeśagā)
 
 ## mukta-m0-p01-v24
-[Pratyangira](pratyaṅgirā) [great-goddess](mahādevī) [siddhi+Lakshmi](siddhilakṣmīr) [victory+giver](jayapradā)
+[pratyaṅgirā](pratyaṅgirā) [mahādevī](mahādevī) [siddhilakṣmīrjayapradā](siddhilakṣmīrjayapradā)
 
 ## mukta-m0-p01-v25
-[mantra](khphreṁ) [mantra](oṃ) [mantra](hrāṁ) [mantra](hrīṁ) [mantra](hūṁ) [mantra](phreṁ) [mantra](kṣoṁ) [mantra](kroṁ) [obeisance](namaḥ) [offering](valiḥ)
+[khphreṁ](khphreṁ) [oṃ](oṃ) [hrāṁ](hrāṁ) [hrīṁ](hrīṁ) [hūṁ](hūṁ) [phreṁ](phreṁ) [kṣoṁ](kṣoṁ) [kroṁ](kroṁ) [namaḥ](namaḥ) [valiḥ](valiḥ)

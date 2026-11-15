@@ -1,0 +1,227 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3313,
+   "rows": [
+    {
+     "surface": "pūrṇa+āhuti+anta+kṛtyena",
+     "gloss": "with-final-offering-ending-rite",
+     "grounds": "compound instrumental singular denoting rite ending with final offering",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "homa+karma",
+     "gloss": "oblation-rite",
+     "grounds": "compound neuter noun for sacrificial action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "optative third singular active of sam-āp",
+     "morph": "3.sg.act.opt.+samāp"
+    }
+   ],
+   "question": "How should the well-consecration oblation be brought to completion after the stated sprinkling?",
+   "premises": [
+    "final offering ending rite completes oblation",
+    "oblation rite is to be completed",
+    "sprinkling follows completion"
+   ],
+   "inference": "The rite is completed by the final-offering ending procedure.",
+   "uncertainties": [
+    "exact ritual sequence beyond stated terms"
+   ],
+   "plain_english": "Complete the oblation rite with the final-offering ending procedure."
+  },
+  {
+   "verse": 3314,
+   "rows": [
+    {
+     "surface": "ukta+prokṣaṇa+mantreṇa",
+     "gloss": "with-stated-sprinkling-mantra",
+     "grounds": "compound instrumental singular mantra for sprinkling",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "optative third singular active of prokṣ",
+     "morph": "3.sg.act.opt.+prokṣ"
+    },
+    {
+     "surface": "kūpam",
+     "gloss": "well",
+     "grounds": "accusative singular masculine object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should be sprinkled with the stated mantra during excellent well consecration?",
+   "premises": [
+    "stated sprinkling mantra is used",
+    "well is sprinkled",
+    "well is called excellent"
+   ],
+   "inference": "The excellent well is sprinkled with the stated mantra.",
+   "uncertainties": [
+    "mantra content not supplied"
+   ],
+   "plain_english": "Sprinkle the excellent well with the stated sprinkling mantra."
+  },
+  {
+   "verse": 3315,
+   "rows": [
+    {
+     "surface": "sarva+bhūta+prīṇanāya",
+     "gloss": "for-all-beings-satisfaction",
+     "grounds": "compound dative singular purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "utsṛjet",
+     "gloss": "one-should-release",
+     "grounds": "optative third singular active of utsṛj",
+     "morph": "3.sg.act.opt.+utsṛj"
+    },
+    {
+     "surface": "kūpa+jalā+āśayam",
+     "gloss": "well-water-reservoir",
+     "grounds": "compound accusative singular object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Why is the well water reservoir released during consecration?",
+   "premises": [
+    "release is for all beings satisfaction",
+    "well water reservoir is released",
+    "satisfaction is intended for all beings"
+   ],
+   "inference": "The reservoir is released to satisfy all beings.",
+   "uncertainties": [
+    "scope of beings addressed"
+   ],
+   "plain_english": "Release the well water reservoir for the satisfaction of all beings."
+  },
+  {
+   "verse": 3316,
+   "rows": [
+    {
+     "surface": "suprīyantāṃ",
+     "gloss": "may-be-pleased",
+     "grounds": "optative third plural passive of su-prī",
+     "morph": "3.pl.pass.opt.+suprī"
+    },
+    {
+     "surface": "sarva+bhūtā",
+     "gloss": "all-beings",
+     "grounds": "compound nominative plural subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nabhaḥ+bhū+toya+vāsinaḥ",
+     "gloss": "sky-earth-water-dwellers",
+     "grounds": "compound nominative plural dwellers in sky earth and water",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which beings are asked to be pleased by the well consecration?",
+   "premises": [
+    "all beings may be pleased",
+    "dwellers in sky earth and water are included",
+    "beings are nominative plural subject"
+   ],
+   "inference": "All beings, including sky earth and water dwellers, are asked to be pleased.",
+   "uncertainties": [
+    "whether list is exhaustive"
+   ],
+   "plain_english": "May all beings, dwellers in sky, earth, and water, be pleased."
+  },
+  {
+   "verse": 3317,
+   "rows": [
+    {
+     "surface": "tṛpyantu",
+     "gloss": "may-be-satisfied",
+     "grounds": "optative third plural active of tṛp",
+     "morph": "3.pl.act.opt.+tṛp"
+    },
+    {
+     "surface": "sarva+bhūtāni",
+     "gloss": "all-beings",
+     "grounds": "nominative plural neuter subject",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "snāna+pāna+avagāhanaiḥ",
+     "gloss": "by-bathing-drinking-immersion",
+     "grounds": "compound instrumental plural means",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "By what means are all beings asked to be satisfied?",
+   "premises": [
+    "all beings may be satisfied",
+    "bathing drinking and immersion are means",
+    "instrumental plural indicates means"
+   ],
+   "inference": "All beings are to be satisfied by bathing, drinking, and immersion.",
+   "uncertainties": [
+    "whether all three apply equally"
+   ],
+   "plain_english": "May all beings be satisfied by bathing, drinking, and immersion."
+  },
+  {
+   "verse": 3318,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "whoever",
+     "grounds": "relative pronoun nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kecid",
+     "gloss": "some",
+     "grounds": "indefinite pronoun nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vipadyante",
+     "gloss": "perish",
+     "grounds": "present third plural middle of vipad",
+     "morph": "3.pl.mid.pres.+vipad"
+    },
+    {
+     "surface": "sva+sva+karma+vipākataḥ",
+     "gloss": "by-own-action-result",
+     "grounds": "compound ablative singular cause",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What cause is given for the perishing of some beings?",
+   "premises": [
+    "some beings perish",
+    "perishing is by own action result",
+    "relative and indefinite pronouns introduce them"
+   ],
+   "inference": "Some beings perish due to the result of their own actions.",
+   "uncertainties": [
+    "whether this is general doctrine or ritual context"
+   ],
+   "plain_english": "Some beings perish by the result of their own actions."
+  }
+ ]
+}

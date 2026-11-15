@@ -1,0 +1,341 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2407,
+   "rows": [
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "neuter plural accusative actions to be performed",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "aparihāryāṇi",
+     "gloss": "not-to-be-neglected",
+     "grounds": "adjective agreeing with actions",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "karma+",
+     "gloss": "action",
+     "grounds": "first member of compound karma-arthī",
+     "morph": "compound (first member)"
+    },
+    {
+     "surface": "arthī",
+     "gloss": "desiring",
+     "grounds": "adjective describing one who desires action",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kartum",
+     "gloss": "to-do",
+     "grounds": "infinitive of action",
+     "morph": "inf"
+    },
+    {
+     "surface": "arhati",
+     "gloss": "is-fit",
+     "grounds": "third singular present active of arh",
+     "morph": "v.3.sg.act-pres (root arh)"
+    }
+   ],
+   "question": "What must one who desires action do about unavoidable actions?",
+   "premises": [
+    "Actions are unavoidable for one desiring action.",
+    "One desiring action is fit to perform action."
+   ],
+   "inference": "The verse states that unavoidable actions must still be performed by one who desires action.",
+   "uncertainties": [
+    "Compound boundary for karma+ arthī is inferred from context."
+   ],
+   "plain_english": "Actions that cannot be avoided must still be performed by one who desires to act."
+  },
+  {
+   "verse": 2408,
+   "rows": [
+    {
+     "surface": "sampūjyā",
+     "gloss": "having-worshipped",
+     "grounds": "participial form agreeing with goddess",
+     "morph": "part.nom.sg.f"
+    },
+    {
+     "surface": "ādyāṃ",
+     "gloss": "primeval-goddess",
+     "grounds": "accusative singular feminine object of worship",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "pañca+",
+     "gloss": "with-five",
+     "grounds": "first member of compound with elements",
+     "morph": "compound (first member)"
+    },
+    {
+     "surface": "tattvaiḥ",
+     "gloss": "with-elements",
+     "grounds": "instrumental plural neuter",
+     "morph": "n.instr.pl.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "third singular optative active of kṛ",
+     "morph": "v.3.sg.opt.act (root kṛ)"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "accusative plural neuter objects",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaula-practitioner",
+     "grounds": "nominative singular masculine subject",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How should a kaula practitioner worship the primeval goddess with five elements?",
+   "premises": [
+    "The kaula practitioner worships the primeval goddess.",
+    "Worship is done with five elements."
+   ],
+   "inference": "After worshipping the primeval goddess with five elements, the kaula practitioner should perform these rites.",
+   "uncertainties": [
+    "sampūjyā may be a participial adjective rather than a gerund."
+   ],
+   "plain_english": "Having worshipped the primeval goddess with the five elements, the kaula practitioner should do these rites."
+  },
+  {
+   "verse": 2409,
+   "rows": [
+    {
+     "surface": "dhyāyan",
+     "gloss": "meditating-on",
+     "grounds": "present participle nominative singular masculine",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular feminine object",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle nominative singular masculine",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular masculine object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "gerund of nam",
+     "morph": "ger"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "third singular optative active of gam",
+     "morph": "v.3.sg.opt.act (root gam)"
+    },
+    {
+     "surface": "yathā+",
+     "gloss": "as",
+     "grounds": "first member of compound with āmati",
+     "morph": "compound (first member)"
+    },
+    {
+     "surface": "āmati",
+     "gloss": "one-thinks-fit",
+     "grounds": "accusative singular feminine noun in compound",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What should a practitioner do after meditating on the goddess and remembering the mantra?",
+   "premises": [
+    "One meditates on the goddess.",
+    "One remembers the mantra and bows."
+   ],
+   "inference": "After meditation, remembrance, and bowing, one should go as one thinks fit.",
+   "uncertainties": [
+    "The compound yathā+ āmati is interpreted as as one thinks fit."
+   ],
+   "plain_english": "Meditating on the goddess, remembering the mantra, and bowing, one should go as one thinks fit."
+  },
+  {
+   "verse": 2410,
+   "rows": [
+    {
+     "surface": "tat+",
+     "gloss": "by-that",
+     "grounds": "first member of compound with kalpa",
+     "morph": "compound (first member)"
+    },
+    {
+     "surface": "tat+",
+     "gloss": "by-that",
+     "grounds": "second member of compound with kalpa",
+     "morph": "compound (member)"
+    },
+    {
+     "surface": "kalpa+",
+     "gloss": "kalpa-stated",
+     "grounds": "third member of compound with ukta",
+     "morph": "compound (member)"
+    },
+    {
+     "surface": "ukta+",
+     "gloss": "by-method",
+     "grounds": "fourth member of compound with vidhinā",
+     "morph": "compound (member)"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "instrumental singular masculine means",
+     "morph": "n.instr.sg.m"
+    },
+    {
+     "surface": "dhyāna+",
+     "gloss": "meditation",
+     "grounds": "first member of compound with pūjāṃ",
+     "morph": "compound (first member)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "accusative singular feminine object",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "third singular optative active of samācar",
+     "morph": "v.3.sg.opt.act (root samācar)"
+    }
+   ],
+   "question": "By what method should meditation and worship be performed?",
+   "premises": [
+    "The method is stated by that kalpa.",
+    "Meditation and worship are to be performed."
+   ],
+   "inference": "One should perform meditation and worship by the method stated in that kalpa.",
+   "uncertainties": [
+    "The exact compound segmentation of tat tat kalpa ukta vidhinā is editorial."
+   ],
+   "plain_english": "By the method stated in that kalpa, one should perform meditation and worship."
+  },
+  {
+   "verse": 2411,
+   "rows": [
+    {
+     "surface": "kaulārcanaṃ",
+     "gloss": "kaula-worship",
+     "grounds": "accusative singular neuter object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dakṣiṇāñ+",
+     "gloss": "and-offering",
+     "grounds": "first member of compound with ca",
+     "morph": "compound (first member)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund of kṛ",
+     "morph": "ger"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "accusative singular neuter object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "third singular optative active of samāpay",
+     "morph": "v.3.sg.opt.act (root samāpay)"
+    }
+   ],
+   "question": "What should be completed after performing kaula worship and offering?",
+   "premises": [
+    "Kaula worship and offering are performed.",
+    "The rite is then completed."
+   ],
+   "inference": "After performing kaula worship and offering, one should complete the rite.",
+   "uncertainties": [
+    "dakṣiṇāñ+ includes sandhi and compound fusion."
+   ],
+   "plain_english": "Having performed kaula worship and offering, one should complete the rite."
+  },
+  {
+   "verse": 2412,
+   "rows": [
+    {
+     "surface": "uddeśyam",
+     "gloss": "to-be-designated",
+     "grounds": "accusative singular neuter object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "third singular optative active of arc",
+     "morph": "v.3.sg.opt.act (root arc)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular masculine object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sāmānyo",
+     "gloss": "general",
+     "grounds": "nominative singular masculine adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "nominative singular masculine subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "is-declared",
+     "grounds": "participle nominative singular masculine",
+     "morph": "part.nom.sg.m"
+    }
+   ],
+   "question": "What is the general rule for worshipping a designated deity?",
+   "premises": [
+    "The designated deity is to be worshipped.",
+    "The general rule is declared."
+   ],
+   "inference": "The general rule declares that one should worship the designated deity.",
+   "uncertainties": [
+    "uddeśyam may be a verbal adjective rather than a noun."
+   ],
+   "plain_english": "One should worship the designated deity; this is the declared general rule."
+  }
+ ]
+}

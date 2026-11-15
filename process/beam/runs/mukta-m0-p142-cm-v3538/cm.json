@@ -3,44 +3,34 @@
  "verse": 3538,
  "rows": [
   {
-   "lemma": "dharma",
+   "lemma": "yat+sthāpanāt",
+   "morph": "m.abl.sg",
+   "grounds": "compound ablative"
+  },
+  {
+   "lemma": "mahā+pāpaiḥ",
+   "morph": "n.abl.pl",
+   "grounds": "compound ablative plural"
+  },
+  {
+   "lemma": "muktaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "participle"
+  },
+  {
+   "lemma": "yāti",
+   "morph": "3.sg.act-pres",
+   "grounds": "third person singular"
+  },
+  {
+   "lemma": "paraṃ",
    "morph": "n.acc.sg",
-   "grounds": "legacy hint dharma"
+   "grounds": "accusative"
   },
   {
-   "lemma": "artha",
+   "lemma": "padam",
    "morph": "n.acc.sg",
-   "grounds": "legacy hint wealth"
-  },
-  {
-   "lemma": "kāma",
-   "morph": "n.acc.sg",
-   "grounds": "legacy hint desire"
-  },
-  {
-   "lemma": "mokṣān",
-   "morph": "n.acc.pl",
-   "grounds": "legacy hint and-liberation"
-  },
-  {
-   "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "legacy hint and"
-  },
-  {
-   "lemma": "guru",
-   "morph": "n.inst.sg",
-   "grounds": "legacy hint by-guru"
-  },
-  {
-   "lemma": "prasādena",
-   "morph": "n.inst.sg",
-   "grounds": "legacy hint grace"
-  },
-  {
-   "lemma": "sādhayet",
-   "morph": "verb.3.sg.act-opt",
-   "grounds": "legacy hint one-should-accomplish"
+   "grounds": "accusative"
   }
  ]
 }

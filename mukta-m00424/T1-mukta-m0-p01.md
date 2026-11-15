@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[wish-fulfilling-tree](kalpavṛkṣa)+[śamī-tree](śamī)+[tree](vṛkṣa)+[banyan](vaṭa)+[campaka](caṃpaka)+[pippala-trees](pippalaiḥ)
+[kalpa+tree](kalpavṛkṣa) [śamī+tree](śamīvṛkṣa) [aśvattha+tree](evaṭa) [campaka+tree](caṃpaka) [pippala+tree](pippalaiḥ)
 
 ## mukta-m0-p01-v2
-[in-the-great](mahā)+[assembly](sadasi)+[golden](sauvarṇe) [by-all](sarva)+[colors](varṇa)+[adorned](pariṣkṛte)
+[great+assembly+hall](mahāsadasisauvarṇe) [all+colors+adorned](sarvavarṇapariṣkṛte)
 
 ## mukta-m0-p01-v3
-[seated](āsīnaṃ) [supreme](parama)+[lord](īśānaṃ) [beyond-speech](avāk)+[and-mind](manasa)+[range](gocaram)
+[seated](āsīnaṃ) [supreme+lord](parameśānaṃ) [beyond+speech+mind+range](avāṅmanasagocaram)
 
 ## mukta-m0-p01-v4
-[of-all](sarva)+[knowledge](vidyā)+[bestower](vidhātāraṃ) [on-the-left](vāme) [with-gaurī](gauri)+[united](samāyutam)
+[all+knowledge+ordainer](sarvavidyāvidhātāraṃ) [left+side](vāme) [gaurī+united](gaurisamāyutam)
 
 ## mukta-m0-p01-v5
-[being](sa)+[praised](stūyamānaṃ) [by-gods](deva)+[and-others](ādyaiḥ) [with-hymn](stotra)+[auspicious](maṅgala)+[words](vācakaiḥ)
+[praised](sastūyamānaṃ) [gods+etc](devādyaiḥ) [hymn+auspicious+utterances](stotramaṅgalavācakaiḥ)
 
 ## mukta-m0-p01-v6
-[o-great-lord](maheśvara) [with-pleased](prasanna)+[mind](ātmā) [śiva](śiva)+[knowledge](jñānaṃ) [with-desire-to-receive](jighṛkṣayā)
+[great+lord](maheśvara) [pleased+self](prasannātmā) [śiva+knowledge](śivajñānaṃ) [eagerly+receive](jighṛllayā)
 
 ## mukta-m0-p01-v7
-[o-god](deva)+[of-gods](deva) [o-lord](nātha)+[of-the-world](jagat) [of-devotees](bhaktānām)+[suffering](ārti)+[destroyer](nāśanaḥ)
+[god+of+gods](devadeva) [world+lord](jagannātha) [devotees+affliction+destroyer](bhaktānāmārlināśanaḥ)
 
 ## mukta-m0-p01-v8
-[o-knower](jña)+[of-the-end](anta)+[of-the-ocean](ārṇava)+[of-śaiva-doctrine](śaivānta) [o-revealer](pradarśakaḥ)+[of-knowledge](jñāna)+[essence](ratna)
+[śaiva+end+ocean+end+knower](śaivāntamārṇavāntajña) [knowledge+attachment+revealer](jñānaraktapradarśakaḥ)
 
 ## mukta-m0-p01-v9
-[with-devotion](bhaktyā) [and](ca) [endowed-with](āyukta)+[supreme](para)+[consciousness](saṃvit)+[nature](svarūpayā)+[supreme](parayā)
+[devotion+with](bhaktyā) [ca](ca) [supreme+united](parayāyukta) [supreme+consciousness+essence](parasaṃvitsvarūpayā)
 
 ## mukta-m0-p01-v10
-[for-practitioners](sādhakānaṃ) [beneficial](hitaṃ) [meritorious](puṇyaṃ) [for-yogins](yogināṃ) [liberation](mokṣa)+[means](sādhanam)
+[practitioners+benefit](sādhakānaṃ) [hitaṃ](hitaṃ) [puṇyaṃ](puṇyaṃ) [yogins+liberation+means](yogināṃ) [mokṣasādhanam](mokṣasādhanam)
 
 ## mukta-m0-p01-v11
-[thus](evaṃ) [questioned](pṛṣṭhaḥ)+[by-the-great-lord](maheśena) [the-blessed](bhagavān) [supreme](parama)+[lord](īśvaraḥ)
+[thus](evaṃ) [asked](pṛṣṭho) [maheśena](maheśena) [bhagavān](bhagavān) [supreme+lord](parameśvaraḥ)
 
 ## mukta-m0-p01-v12
-[i-shall-speak](vakṣye) [by-concise](saṃkṣepa)+[method](mārgeṇa) [as](yathā)+[asked](praśnaṃ) [so](tathā)+[desired](īpsitam)
+[speak](vakṣye) [brief+path](saṃkṣepamārgeṇa) [as+question](yathāpraśnaṃ) [so+desired](thathepsitam)
 
 ## mukta-m0-p01-v13
-[śiva](śiva)+[knowledge](jñānaṃ) [supreme](paraṃ) [secret](guhyaṃ) [enjoyment](bhoga)+[and-liberation](mokṣa)+[giving](pradaṃ) [auspicious](śubham)
+[śiva+knowledge](śivajñānaṃ) [supreme](paraṃ) [secret](guhyaṃ) [enjoyment+liberation+giving](bhogamokṣapradaṃ) [auspicious](śubham)
 
 ## mukta-m0-p01-v14
-[endowed](yuktaṃ) [with-a-hundred](śata)+[thousand](sahasreṇa) [in-the-text](granthe) [all](sarva)+[purposes](artha)+[accomplishing](sādhakam)
+[united](yuktaṃ) [hundred+thousand](śatasahasreṇa) [treatise](granthe) [all+purposes+accomplishing](sarvārthasādhakam)
 
 ## mukta-m0-p01-v15
-[that](tat) [but](tu) [in-brief](saṃkṣepataḥ)+[to-you](tubhyaṃ) [now](adhunā) [will-be-told](saṃpravakṣyate)
+[that](tat) [tu](tu) [briefly](saṃkṣepatastubhyaṃ) [now](adhunā) [will+explain](saṃpravakṣyate)
 
 ## mukta-m0-p01-v16
-[upper](ūrdhva)+[śaiva](śaivaṃ) [indeed](tu) [first](prathamaṃ) [original](ādi)+[śaiva](śaivaṃ) [second](dvitīyakam)
+[upward+śaiva](ūrdhvaśaivaṃ) [tu](tu) [first](prathamaṃ) [ādi+śaiva](ādiśaivaṃ) [second](dvitīyakam)
 
 ## mukta-m0-p01-v17
-[intermediate](avāntaraṃ) [fifth](pañcamaṃ) [and](ca) [mixed](miśraṃ) [and](ca)+[indeed](eva) [but](tu) [sixth](ṣaṣṭhakam)
+[intermediate](avāntaraṃ) [fifth](pañcamaṃ) [ca](ca) [mixed](miśraṃ) [ca](ca) [eva](eva) [tu](tu) [sixth](ṣaṣṭhakam)
 
 ## mukta-m0-p01-v18
-[command](ājñā)+[śaiva](śaivaṃ) [indeed](tu) [ninth](navamaṃ) [of-śaiva](śaiva)+[divisions](bheda)+[order](kramaṃ) [listen](śṛṇu)
+[command+śaiva](ājñāśaivaṃ) [tu](tu) [ninth](navamaṃ) [śaiva+division+order](śaivabhedakramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p01-v19
-[among-them](teṣu) [most](śreṣṭha)+[excellent](tamam) [śaiva](śaiva) [from-upper](ūrdhva)+[stream](srotas)+[arisen](samudbhavam)
+[among+them](teṣu) [best](śreṣṭhatamaṃ) [śaiva](śaiva) [upward+stream+origin](mūrdhvasrotassamudbhavam)
 
 ## mukta-m0-p01-v20
-[gentle](saumyaṃ) [and](ca) [two](dvi)+[fold](vidhaṃ) [declared](proktaṃ) [right](dakṣiṇaṃ) [and](ca)+[indeed](eva) [mixed](miśrakam)
+[gentle](saumyaṃ) [ca](ca) [twofold](dvividhaṃ) [proclaimed](proktaṃ) [right](dakṣiṇaṃ) [ca](ca) [eva](eva) [mixed](miśrakam)
 
 ## mukta-m0-p01-v21
-[inverted](viparītaṃ) [indeed](tu) [left](vāmaṃ) [should-be](syāt) [of-the-two](dvayoḥ)+[mixed](miśraṃ) [indeed](tu) [union](saṅgamam)
+[reversed](viparītaṃ) [tu](tu) [left](vāmaṃ) [syāt](syāt) [of+two](dvayor) [mixed](miśraṃ) [tu](tu) [confluence](saṅgamam)
 
 ## mukta-m0-p01-v22
-[of-vedānta](vedānta)+[meaning](artha)+[consisting](mayaṃ) [knowledge](jñānaṃ) [siddhānta](siddhāntaṃ) [supreme](paramaṃ) [auspicious](śubham)
+[vedānta+meaning+full](vedāntārthamayaṃ) [knowledge](jñānaṃ) [siddhānta](siddhāntaṃ) [supreme](paramaṃ) [auspicious](śubham)
 
 ## mukta-m0-p01-v23
-[of-veda](veda)+[essence](sāra)+[meaning](artha)+[giving](daṃ) [to-be-known](jñeyaṃ) [other](anyat)+[indeed](tu)+[other](anya)+[purpose](artha)+[accomplishing](sādhanam)
+[veda+essence+meaning+giving](vedasārārthadaṃ) [to+be+known](jñeyaṃ) [other+other+purpose+accomplishing](anyatvanyārthasādhanam)
 
 ## mukta-m0-p01-v24
-[by-names](nāmabhiḥ) [beginning-with-kāmikā](kāmikā)+[and-so-on](ādiḥ)+[indeed](tu) [will-be-told](vakṣyate) [in-order](kramaśaḥ) [listen](śṛṇu)
+[names](nāmabhiḥ) [kāmika+etc](kāmikādistu) [will+be+spoken](vakṣyate) [in+order](kramaśaḥ) [hear](śṛṇu)
 
 ## mukta-m0-p01-v25
-[protection](trāṇaṃ) [and](ca) [it-does](kurute) [of-people](puṃsāṃ) [therefore](tena) [tantra](tantram)+[thus](iti) [remembered](smṛtam)
+[protection](trāṇaṃ) [ca](ca) [does](kurute) [men](puṃsāṃ) [therefore](tena) [tantra](tantram) [iti](iti) [remembered](smṛtam)

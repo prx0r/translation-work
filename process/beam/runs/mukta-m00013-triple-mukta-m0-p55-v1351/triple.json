@@ -1,0 +1,1241 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1351,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative of hṛd",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kālikāyai",
+     "gloss": "to-Kālikā",
+     "grounds": "dative feminine",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-goddess",
+     "grounds": "dative feminine",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which goddess is obeisance offered in the heart?",
+   "premises": [
+    "Obeisance is offered in the heart.",
+    "The recipient is Kālikā.",
+    "The recipient is called goddess."
+   ],
+   "inference": "The verse directs heart-offered obeisance to Kālikā as goddess.",
+   "uncertainties": [
+    "Exact ritual context is not stated."
+   ],
+   "plain_english": "Obeisance in the heart to Kālikā, the goddess."
+  },
+  {
+   "verse": 1352,
+   "rows": [
+    {
+     "surface": "pūrvoktānāṃ",
+     "gloss": "of-previously-stated",
+     "grounds": "genitive plural masculine/neuter",
+     "morph": "m/n.gen.pl"
+    },
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇāvat",
+     "gloss": "like-Dakṣiṇā",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "neuter accusative singular gerundive",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should all previously stated mantras be treated?",
+   "premises": [
+    "Previously stated mantras are referenced.",
+    "All of them are to be done.",
+    "They are to be done like Dakṣiṇā."
+   ],
+   "inference": "The previously stated mantras are to be performed in the Dakṣiṇā manner.",
+   "uncertainties": [
+    "Scope of 'all' is not enumerated."
+   ],
+   "plain_english": "All previously stated mantras are to be done like Dakṣiṇā."
+  },
+  {
+   "verse": 1353,
+   "rows": [
+    {
+     "surface": "anyāsāṃ",
+     "gloss": "of-others",
+     "grounds": "genitive plural feminine",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃkhya",
+     "gloss": "number",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣa",
+     "gloss": "hundred-thousand",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What recitation count is prescribed for other mantras?",
+   "premises": [
+    "Other mantras are referenced.",
+    "Their syllable number is considered.",
+    "Recitation is one hundred thousand."
+   ],
+   "inference": "For other mantras, recitation is one hundred thousand according to syllable count.",
+   "uncertainties": [
+    "Exact counting rule is not specified."
+   ],
+   "plain_english": "For other mantras, recitation is one hundred thousand by syllable count."
+  },
+  {
+   "verse": 1354,
+   "rows": [
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇa",
+     "gloss": "O-Dakṣiṇā",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kālike",
+     "gloss": "O-Kālikā",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which seed and māyā pair is addressed to Dakṣiṇā Kālikā?",
+   "premises": [
+    "Own seed pair is named.",
+    "Māyā pair is named.",
+    "Dakṣiṇā Kālikā is addressed.",
+    "Fire beloved is named."
+   ],
+   "inference": "The verse names own seed pair and māyā pair for Dakṣiṇā Kālikā, fire beloved.",
+   "uncertainties": [
+    "Whether these are mantra components or epithets is unclear."
+   ],
+   "plain_english": "Own seed pair and māyā pair, O Dakṣiṇā Kālikā, fire beloved."
+  },
+  {
+   "verse": 1355,
+   "rows": [
+    {
+     "surface": "nijaṃ",
+     "gloss": "own",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūrcaṃ",
+     "gloss": "kūrca",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lajjā",
+     "gloss": "lajjā",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "O-Dakṣiṇā",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kālike",
+     "gloss": "O-Kālikā",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "indeclinable mantra syllable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What own kūrca and lajjā elements are addressed to Dakṣiṇā Kālikā?",
+   "premises": [
+    "Own kūrca is named.",
+    "Lajjā is named.",
+    "Dakṣiṇā Kālikā is addressed.",
+    "Phaṭ is included."
+   ],
+   "inference": "The verse gives own kūrca and lajjā for Dakṣiṇā Kālikā with phaṭ.",
+   "uncertainties": [
+    "Syntactic relation of phaṭ is not explicit."
+   ],
+   "plain_english": "Own kūrca and lajjā, O Dakṣiṇā Kālikā, phaṭ."
+  },
+  {
+   "verse": 1356,
+   "rows": [
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seeds",
+     "grounds": "neuter nominative/accusative plural",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which six previous seeds are named with fire beloved?",
+   "premises": [
+    "Previous six seeds are named.",
+    "Fire beloved is named.",
+    "The seeds are plural."
+   ],
+   "inference": "The verse names the previous six seeds with fire beloved.",
+   "uncertainties": [
+    "Whether 'previous' modifies all six seeds is unclear."
+   ],
+   "plain_english": "The previous six seeds, fire beloved."
+  },
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "neuter nominative/accusative singular",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter nominative/accusative singular",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "dakṣiṇāvat",
+     "gloss": "like-Dakṣiṇā",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is everything else to be treated?",
+   "premises": [
+    "Other material is referenced.",
+    "All of it is included.",
+    "It is like Dakṣiṇā."
+   ],
+   "inference": "Everything else is to be treated like Dakṣiṇā.",
+   "uncertainties": [
+    "'Other' lacks explicit antecedent."
+   ],
+   "plain_english": "All other things are like Dakṣiṇā."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "bhairavo",
+     "gloss": "Bhairava",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'sya",
+     "gloss": "of-this",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "seer",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is declared the seer of this?",
+   "premises": [
+    "Bhairava is named.",
+    "The genitive refers to this.",
+    "Seer is declared."
+   ],
+   "inference": "Bhairava is declared the seer of this.",
+   "uncertainties": [
+    "Antecedent of 'this' is not explicit."
+   ],
+   "plain_english": "Bhairava is the seer of this."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūrca",
+     "gloss": "kūrca",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lajjā",
+     "gloss": "lajjā",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "yugaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which own seed, kūrca, and lajjā pairs are named with fire beloved?",
+   "premises": [
+    "Own seed pair is named.",
+    "Kūrca pair is named.",
+    "Lajjā pair is named.",
+    "Fire beloved is named."
+   ],
+   "inference": "The verse names own seed pair, kūrca pair, and lajjā pair with fire beloved.",
+   "uncertainties": [
+    "Whether these are separate or combined mantra elements is unclear."
+   ],
+   "plain_english": "Own seed pair, kūrca pair, lajjā pair, fire beloved."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "pañcavaktra",
+     "gloss": "Pañcavaktra",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "seer",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is declared seer of this?",
+   "premises": [
+    "Genitive refers to this.",
+    "Pañcavaktra is named.",
+    "Seer is declared."
+   ],
+   "inference": "Pañcavaktra is declared seer of this.",
+   "uncertainties": [
+    "Antecedent of 'this' is not explicit."
+   ],
+   "plain_english": "Pañcavaktra is the seer of this."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūrca",
+     "gloss": "kūrca",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lajjā",
+     "gloss": "lajjā",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which root triad, kūrca pair, and lajjā pair are named with fire beloved?",
+   "premises": [
+    "Root triad is named.",
+    "Kūrca pair is named.",
+    "Lajjā pair is named.",
+    "Fire beloved is named."
+   ],
+   "inference": "The verse names root triad, kūrca pair, and lajjā pair with fire beloved.",
+   "uncertainties": [
+    "Whether these are mantra components is unclear."
+   ],
+   "plain_english": "Root triad, kūrca pair, lajjā pair, fire beloved."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "O-Dakṣiṇā",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kālike",
+     "gloss": "O-Kālikā",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which root seed is addressed to Dakṣiṇā Kālikā with fire beloved?",
+   "premises": [
+    "Root seed is named.",
+    "Dakṣiṇā Kālikā is addressed.",
+    "Fire beloved is named."
+   ],
+   "inference": "The verse gives root seed for Dakṣiṇā Kālikā, fire beloved.",
+   "uncertainties": [
+    "Whether root seed is a mantra component is unclear."
+   ],
+   "plain_english": "Root seed, O Dakṣiṇā Kālikā, fire beloved."
+  },
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūrca",
+     "gloss": "kūrca",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māyāṃ",
+     "gloss": "māyā",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "punas",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "neuter accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which own seed, kūrca pair, and māyā are named again with fire beloved?",
+   "premises": [
+    "Own seed is named.",
+    "Kūrca pair is named.",
+    "Māyā is named.",
+    "Those are named again.",
+    "Fire beloved is named."
+   ],
+   "inference": "The verse names own seed, kūrca pair, and māyā again with fire beloved.",
+   "uncertainties": [
+    "Antecedent of 'those' is not explicit."
+   ],
+   "plain_english": "Own seed, kūrca pair, māyā, again those, fire beloved."
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "neuter nominative/accusative singular",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava",
+     "grounds": "neuter nominative/accusative singular",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kālikāyai",
+     "gloss": "to-Kālikā",
+     "grounds": "dative feminine",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "ṭha",
+     "gloss": "ṭha",
+     "grounds": "indeclinable syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which heart, vāgbhava, root pair, and ṭha pair are given to Kālikā?",
+   "premises": [
+    "Heart is named.",
+    "Vāgbhava is named.",
+    "Root pair is named.",
+    "Kālikā is recipient.",
+    "Ṭha pair is named."
+   ],
+   "inference": "The verse gives heart, vāgbhava, root pair, and ṭha pair to Kālikā.",
+   "uncertainties": [
+    "Whether these are mantra components is unclear."
+   ],
+   "plain_english": "Heart, vāgbhava, root pair, to Kālikā, ṭha pair."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "puraścaraṇaṃ",
+     "gloss": "preliminary-rite",
+     "grounds": "neuter nominative/accusative singular",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "lakṣa",
+     "gloss": "hundred-thousand",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the prescribed recitation count for the preliminary rite?",
+   "premises": [
+    "Preliminary rite is named.",
+    "Recitation is named.",
+    "Count is one hundred thousand."
+   ],
+   "inference": "The preliminary rite requires one hundred thousand recitations.",
+   "uncertainties": [
+    "Whether this applies to all rites is not stated."
+   ],
+   "plain_english": "Preliminary rite: one hundred thousand recitations."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "caturbhujāṃ",
+     "gloss": "four-armed",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇavarṇām",
+     "gloss": "black-colored",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form of the goddess is described as four-armed and black-colored?",
+   "premises": [
+    "Four-armed is stated.",
+    "Black-colored is stated.",
+    "And so forth is stated."
+   ],
+   "inference": "The goddess is described as four-armed and black-colored, and so forth.",
+   "uncertainties": [
+    "Exact goddess name is not stated."
+   ],
+   "plain_english": "Four-armed, black-colored, and so forth."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "ekādaśākṣarī",
+     "gloss": "eleven-syllabled",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "Kālī",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturvarga",
+     "gloss": "four-goals",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "pradā",
+     "gloss": "giver",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the eleven-syllabled Kālī give?",
+   "premises": [
+    "Eleven-syllabled Kālī is named.",
+    "Four goals are named.",
+    "Fruit giver is named."
+   ],
+   "inference": "The eleven-syllabled Kālī gives the fruit of the four goals.",
+   "uncertainties": [
+    "Whether 'four goals' means puruṣārthas is not explicit."
+   ],
+   "plain_english": "Eleven-syllabled Kālī gives the fruit of the four goals."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "O-Dakṣiṇā",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kālike",
+     "gloss": "O-Kālikā",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and-thus",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astrāntā",
+     "gloss": "ending-with-astra",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samudīritā",
+     "gloss": "declared",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is declared for Dakṣiṇā Kālikā ending with astra?",
+   "premises": [
+    "Dakṣiṇā Kālikā is addressed.",
+    "Ending with astra is stated.",
+    "Declared is stated."
+   ],
+   "inference": "For Dakṣiṇā Kālikā, the astra-ending form is declared.",
+   "uncertainties": [
+    "Exact mantra form is not given."
+   ],
+   "plain_english": "Dakṣiṇā Kālikā, ending with astra, is declared."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seeds",
+     "grounds": "neuter nominative/accusative plural",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "ante",
+     "gloss": "in-the-end",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "beautiful",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the six seeds and fire beautiful arranged?",
+   "premises": [
+    "As before is stated.",
+    "Six seeds are named.",
+    "Then is stated.",
+    "In the end is stated.",
+    "Fire beautiful is named."
+   ],
+   "inference": "The six seeds are arranged as before, then, and in the end with fire beautiful.",
+   "uncertainties": [
+    "Exact sequence is not fully specified."
+   ],
+   "plain_english": "As before, six seeds, then, in the end, fire beautiful."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadbhiḥ",
+     "gloss": "by-the-good",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "Kālī",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇa",
+     "gloss": "Dakṣiṇā",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvikā",
+     "gloss": "preceded",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deity is declared by the good as Kālī preceded by Dakṣiṇā?",
+   "premises": [
+    "Deity is declared.",
+    "The good declare it.",
+    "Kālī is named.",
+    "Dakṣiṇā preceded is stated."
+   ],
+   "inference": "The deity declared by the good is Kālī, preceded by Dakṣiṇā.",
+   "uncertainties": [
+    "Whether 'preceded' means ritual order is unclear."
+   ],
+   "plain_english": "The deity declared by the good is Kālī, preceded by Dakṣiṇā."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "bhairavo",
+     "gloss": "Bhairava",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'sya",
+     "gloss": "of-this",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "seer",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "masculine nominative singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "tantra",
+     "gloss": "tantra",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "samanvitaḥ",
+     "gloss": "accompanied",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is declared seer of this accompanied by all tantra?",
+   "premises": [
+    "Bhairava is named.",
+    "Seer is declared.",
+    "All tantra accompanied is stated."
+   ],
+   "inference": "Bhairava is declared seer of this, accompanied by all tantra.",
+   "uncertainties": [
+    "Antecedent of 'this' is not explicit."
+   ],
+   "plain_english": "Bhairava is the seer of this, accompanied by all tantra."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "svāhāntā",
+     "gloss": "ending-with-svāhā",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "pradā",
+     "gloss": "giver",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the svāhā-ending mantra give?",
+   "premises": [
+    "Svāhā-ending is stated.",
+    "Mantra is declared.",
+    "All desire fruit giver is stated."
+   ],
+   "inference": "The svāhā-ending mantra gives the fruit of all desires.",
+   "uncertainties": [
+    "Whether 'all desires' is literal or formulaic is unclear."
+   ],
+   "plain_english": "The svāhā-ending mantra gives the fruit of all desires."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "pañcākṣarī",
+     "gloss": "five-syllabled",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcavaktra",
+     "gloss": "Pañcavaktra",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "seer",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "masculine nominative singular participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is remembered as seer of the five-syllabled great mantra?",
+   "premises": [
+    "Five-syllabled great mantra is named.",
+    "Pañcavaktra is named.",
+    "Seer is remembered."
+   ],
+   "inference": "Pañcavaktra is remembered as seer of the five-syllabled great mantra.",
+   "uncertainties": [
+    "Whether 'remembered' implies tradition is unclear."
+   ],
+   "plain_english": "Pañcavaktra is remembered as seer of the five-syllabled great mantra."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "svāhāntā",
+     "gloss": "ending-with-svāhā",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "sampat",
+     "gloss": "prosperity",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "karī",
+     "gloss": "making",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the svāhā-ending mantra considered to make?",
+   "premises": [
+    "Svāhā-ending is stated.",
+    "Mantra is declared.",
+    "All prosperity making is stated.",
+    "Considered is stated."
+   ],
+   "inference": "The svāhā-ending mantra is considered to make all prosperity.",
+   "uncertainties": [
+    "Whether 'all prosperity' is literal or formulaic is unclear."
+   ],
+   "plain_english": "The svāhā-ending mantra is considered to make all prosperity."
+  }
+ ]
+}

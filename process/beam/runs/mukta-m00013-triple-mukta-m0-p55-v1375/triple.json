@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "svāhāntā",
+     "gloss": "ending-with-svāhā",
+     "grounds": "feminine adjective agreeing with vidyā; svāhā-anta compound",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "part.pass.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra",
+     "grounds": "feminine nominative subject",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "modifies enemy-destruction phrase",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "compound member in enemy-destruction phrase",
+     "morph": "noun (stem)"
+    },
+    {
+     "surface": "kṣayaṅ",
+     "gloss": "destruction",
+     "grounds": "accusative object of making",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "karī",
+     "gloss": "making",
+     "grounds": "feminine nominative predicate",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What effect is attributed to the mantra declared as ending with svāhā?",
+   "premises": [
+    "The mantra ends with svāhā.",
+    "It is declared as vidyā.",
+    "It makes destruction of all enemies."
+   ],
+   "inference": "Therefore the svāhā-ending mantra is said to destroy all enemies.",
+   "uncertainties": [
+    "The exact syntactic case of śatru is not explicit in the token."
+   ],
+   "plain_english": "The mantra ending in svāhā is declared to be the one that destroys all enemies."
+  }
+ ]
+}

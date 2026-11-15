@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "karmaṇaḥ",
+     "gloss": "of-ritual",
+     "grounds": "genitive of karma",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive pronoun",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "parabrahman",
+     "gloss": "O-supreme-Brahman",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ayuktaṃ",
+     "gloss": "not-done",
+     "grounds": "negative participle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vihitam",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "What is the status of prescribed and unprescribed acts in this ritual?",
+   "premises": [
+    "ritual has prescribed acts",
+    "ritual has unprescribed acts",
+    "supreme Brahman is addressed"
+   ],
+   "inference": "Both prescribed and unprescribed acts are brought before supreme Brahman.",
+   "uncertainties": [
+    "exact syntactic relation of ayuktaṃ and vihitam remains open"
+   ],
+   "plain_english": "O supreme Brahman, whatever is not done and whatever is done in this ritual."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-at-that-time(tatkāle) guru+form(gururūpaṃ) indeed(tu) having-meditated(dhyātvā) Dakṣiṇanāyaka(dakṣiṇanāyakam)
+[at-that-time](tatkāle) [guru-form](gururūpaṃ) [indeed](tu) [having-meditated](dhyātvā) [right-leader](dakṣiṇanāyakam)
 
 ## mukta-m0-p42-v1027
-with-thread(sasūtraṃ) and(ca) with-garment(savastraṃ) and(ca) with-jewel(saratnaṃ) as-before(pūrvavat) made(kṛtam)
+[with-thread](sasūtraṃ) [and](ca) [with-cloth](savastraṃ) [and](ca) [with-jewels](saratnaṃ) [as-before](pūrvavat) [done](kṛtam)
 
 ## mukta-m0-p42-v1028
-beginning-with-Puruṣa(puruṣādi) and(ca) ending-with-Vāmā(vāmānta) from-east(pūrvādi) to-north(uttarato) one-should-place(nyaset)
+[from-puruṣa-to-vāma](puruṣādi+ca+vāmānta) [from-east-to-north](pūrvādyuttarato) [should-place](nyaset)
 
 ## mukta-m0-p42-v1029
-heart(hṛdayaṃ) mantra(mantram) having-uttered(uccārya) food-offering+etc.(naivedyādiṃ) and(ca) one-should-give(dāpayet)
+[heart](hṛdayaṃ) [mantra](mantram) [having-uttered](uccārya) [naivedya-etc](naivedyādiṃ) [and](ca) [should-give](dāpayet)
 
 ## mukta-m0-p42-v1030
-auspicious(śubhaṃ) or(vā) inauspicious(aśubhaṃ) or(vāpi) bad-dream(duṣṭasvapna) one-should-report(nivedayet)
+[auspicious](śubhaṃ) [or](vā) [inauspicious](aśubhaṃ) [or](vāpi) [bad-dream](duṣṭasvapna) [should-report](nivedayet)
 
 ## mukta-m0-p42-v1031
-having-washed(prakṣālya) feet(pādau) hands(hastau) and(ca) having-sipped-water(samācamya) according-to-rule(vidhānataḥ)
+[having-washed](prakṣālya) [feet](pādau) [hands](hastau) [ca](ca) [having-sipped](samācamya) [according-to-rite](vidhānataḥ)
 
 ## mukta-m0-p42-v1032
-or(athavā) with-new+garment(navavastreṇa) with-cotton+made(kārpāsavihitena) or(vā)
+[or](athavā) [with-new-cloth](navavastreṇa) [or](vā) [with-cotton-made](kārpāsavihitena)
 
 ## mukta-m0-p42-v1033
-facing-north(uttarābhimukho) **(? **(?) one-should-bind(badhnīyāt) indeed(tu) composed(samāhitaḥ)
+[north-facing](uttarābhimukho) [should-tie](badhnīyāt) [tu](tu) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p42-v1034
-with-Īśāna(īśānena) indeed(tu) with-mantra(mantreṇa) flower+offering(puṣpāñjalim) one-should-offer(upāharet)
+[by-īśāna-mantra](īśānena+tu+mantreṇa) [flower-offering](puṣpāñjalim) [should-offer](upāharet)
 
 ## mukta-m0-p42-v1035
-in-which(yasmin) garment(vastre) falls(patet) flower(puṣpaṃ) name+self(nāmātmaṃ) indeed(tu) of-that-nature(tadātmakam)
+[in-which-cloth](yasmin+vastre) [falls-flower](patet+puṣpaṃ) [name-self](nāmātmaṃ) [tu](tu) [that-self](tadātmakam)
 
 ## mukta-m0-p42-v1036
-Śaiva+principle(śaivatatvaṃ) and(ca) time(kālaṃ) and(ca) form(mūrtī) by-power+sequence(śaktikramāt) listen(śṛṇu)
+[śaiva-principle](śaivatatvaṃ) [and](ca) [time](kālaṃ) [and](ca) [forms](mūrtī) [by-śakti-order](śaktikramāc) [hear](śṛṇu)
 
 ## mukta-m0-p42-v1037
-Rudra(rudraṃ) Vāma(vāma) ego(ahaṃkāro) ninefold(navadhā) name(nāma) is-called(kathyate)
+[rudra](rudraṃ) [left-ego](vāmamahaṃkāro) [nine-fold](navadhā) [nāma](nāma) [is-called](kathyate)
 
 ## mukta-m0-p42-v1038
-beginning-with-Sadya(sadyādiḥ) of-direct-order(anulomasya) ending-with-Śakti(ṣaktyantaṃ) name(nāma) one-should-speak(bhāṣayet)
+[from-sadya-onward](sadyādiranulomasya) [up-to-śakti](ṣaktyantaṃ) [nāma](nāma) [should-speak](bhāṣayet)
 
 ## mukta-m0-p42-v1039
-Agastya+Gautama(agastyagautamo) Vasiṣṭhas(vasiṣṭhāḥ) Parāśara(parāśaraḥ) and(ca) indeed(eva) Romaśa(romaśaḥ)
+[agastya-gautama-vasiṣṭha](agastyagautamo+vasiṣṭhāḥ) [parāśara-and-romaśa](parāśaraścaivaromaśaḥ)
 
 ## mukta-m0-p42-v1040
-Bindu+thread(bindusūtraṃ) Viṣṇu+thread(viṣṇusūtraṃ) then(paścāt) Vāyavya+thread(vāyavyasūtrakam)
+[bindu-sūtra](bindusūtraṃ) [viṣṇu-sūtra](viṣṇusūtraṃ) [afterward-west-northwest-sūtra](paścādvāyavyasūtrakam)
 
 ## mukta-m0-p42-v1041
-Śiva(śivaḥ) Śikhā(śikhā) Ānanda+moonlight(ānandajyotsnā) Sāvitrī(sāvitri) Sadguṇa(sadguṇaḥ)
+[śiva](śivaḥ) [śikhā](śikhā) [ānanda](ānanda) [jyotsnā](jyotsnā) [sāvitrī](sāvitri) [six-fold](sadguṇaḥ)
 
 ## mukta-m0-p42-v1042
-Kalpa(kalpo) Bilva(bilva) Śamī(śamī) and(ca) indeed(eva) Vaṭa+tree(vaṭavṛkṣaḥ) and(ca) Campaka(campakam)
+[kalpa](kalpo) [bilva](bilva) [śamī](śamī) [ca](ca) [eva](eva) [vaṭa-tree](vaṭavṛkṣaśca) [campaka](campakam)
 
 ## mukta-m0-p42-v1043
-ruby(māṇikyaṃ) pearl(mauktikaṃ) and(ca) indeed(eva) topaz(puṣparāgaṃ) and(ca) sapphire(nīlakam)
+[māṇikya](māṇikyaṃ) [mauktika](mauktikaṃ) [ca](ca) [eva](eva) [puṣparāga](puṣparāgaṃ) [ca](ca) [nīlaka](nīlakam)
 
 ## mukta-m0-p42-v1044
-crystal(sphāṭikaṃ) and(ca) indeed(eva) jewels(ratnāni) ninefold(navadhā) declared(kīrtitāni) and(ca)
+[sphāṭika](sphāṭikaṃ) [ca](ca) [eva](eva) [gems](ratnāni) [nine-fold](navadhā) [declared](kīrtitāni) [ca](ca)
 
 ## mukta-m0-p42-v1045
-primordial(anādi) Śaiva(śaivaṃ) third(tṛtīyaṃ) Anuśaiva(anuśaivaṃ) fourth(caturthakam)
+[beginningless-śaiva](anādi+śaivaṃ) [third](tṛtīyaṃ) [anuśaiva](anuśaivaṃ) [fourth](caturthakam)
 
 ## mukta-m0-p42-v1046
-seventh(saptamaṃ) Bhedaśaiva(bhedaśaivaṃ) should-be(syāt) eighth(aṣṭamaṃ) Guṇaśaiva(guṇaśaivakam)
+[seventh](saptamaṃ) [bheda-śaiva](bhedaśaivaṃ) [syāt](syāt) [eighth](aṣṭamaṃ) [guṇa-śaiva](guṇaśaivakam)
 
 ## mukta-m0-p42-v1047
-Śiva+principle(śivatatvaṃ) fire+principle(vahnitatvaṃ) Śakti+knowledge+consisting(śaktijñānamayaṃ) then(tataḥ)
+[śiva-principle](śivatatvaṃ) [fire-principle](vahnitatvaṃ) [śakti-knowledge-filled](śaktijñānamayaṃ) [tataḥ](tataḥ)
 
 ## mukta-m0-p42-v1048
-declared(proktāni) nine+principles(navatatvāni) time+nine(kālan) nine(nava) hear(śṛṇu) in-order(kramāt)
+[declared](proktāni) [nine-principles](navatatvāni) [time-nine](kālannava) [hear](śṛṇu) [in-order](kramāt)
 
 ## mukta-m0-p42-v1049
-at-dissolution+time(saṃhārakāle) Rudra(rudraḥ) indeed(tu) at-enjoyment+time(bhogakāle) Maheśvara(maheśvaraḥ)
+[at-dissolution-time](saṃhārakāle) [rudra](rudrastu) [at-enjoyment-time](bhogakāle) [maheśvara](maheśvaraḥ)
 
 ## mukta-m0-p42-v1050
-at-sound+time(dhvanikāle) indeed(tu) of-Nāda+nature(nādātmā) at-command+time(ājñākāle) indeed(tu) powers(śaktayaḥ)
+[at-sound-time](dhvanikāle) [tu](tu) [nāda-self](nādātmā) [at-command-time](ājñākālestu) [śaktis](śaktayaḥ)

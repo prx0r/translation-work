@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[wind](maruta)+[path](patha)+[on-mountain](girau) [ḍākinī](ḍākinī) [sākinī](sākinī)+[of-them](nāṃ)
+[wind-path-mountain](marutapathagirau) [dakini](ḍākinī) [of-sakini](sākinīnāṃ)
 
 ## mukta-m0-p04-v77
-[bhṛgu](bhṛgu)+[city](pura)+[in-town](nagare) [kośa](kośa)+[lekamvuka](lekamvuke) [or](vā)
+[in-bhrgupura-city](bhṛgupuranagare) [in-kosala-or-kamboja](kośalekamvuke) [or](vā)
 
 ## mukta-m0-p04-v78
-[mountain](giri)+[cave](gahira)+[in-grotto](guhe) [cāku](cāku)+[veśi](vesiṃ)+[lion](siṃha)+[sound](nāde)
+[in-mountain-cave](girigahiraguhe) [in-cakuvesimha-roar](cākuvesiṃhanāde)
 
 ## mukta-m0-p04-v79
-[mleccha](sleccha)+[garland](māle) [malaya](malaya)+[mountain](giri)+[cave](guhā) [brahma](vrahma)+[land](deśe) [city](pure) [or](vā)
+[in-slecchamala](slecchamāle) [in-malaya-mountain-cave](malayagiriguhā) [in-brahma-country](vrahmadeśe) [in-city](pure) [or](vā)
 
 ## mukta-m0-p04-v80
-[accomplished](siddhā) [indeed](tu) [accomplished](siddhā) [various](vividha)+[wise](budha)+[praised](nutā) [divine](divya)+[power](siddhiṃ) [may-they-give](dadantu)
+[siddha](siddhā) [indeed](tu) [siddha](siddhā) [various-god-praised](vividhavudhanutā) [divine-siddhi](divyasiddhiṃ) [may-give](dadantu)
 
 ## mukta-m0-p04-v81
-[all](sarvāṇi)+[these](etā)+[may-give](dadantu) [letter](ali)+[blood](piśita)+[delighting](ratā) [with-bhairava](bhairavena)+[devoted](anuraktā)
+[all-these-may-give](sarvāṇyetādadantu) [alipishita-devoted](alipiśitaratā) [by-bhairava-devoted](bhairavenānuraktā)
 
 ## mukta-m0-p04-v82
-[mantra](mantra)+[mother](māta) [kilikili](kilikili)+[takiliḥ](takiliḥ) [kaula](kaula)+[speech](bhāṣā)+[uttering](aṅgirantī)
+[mantra-mother](mantramāta) [kilikilitakili](kilikilitakiliḥ) [kaula-language-singing](kaulabhāṣāṅgirantī)
 
 ## mukta-m0-p04-v83
-[caressing](lālayantī) [lalalalala](lalalalala)+[tā](tā)+[melting](drāvayantī) [drinking](pivantī)
+[caressing](lālayantī) [lalalalala](lalalalalatā) [melting](drāvayantī) [drinking](pivantī)
 
 ## mukta-m0-p04-v84
-[sixth](ṣaṣṭha)+[stationed](sthā) [drop](bindu)+[endowed](yuktā) [kula](kula)+[lotus](kamala)+[delighting](ratā) [tāraṇī](tāraṇī)+[kuṇḍalā](kuṇḍalā)+[named](ākhyā)
+[sixth-place](ṣaṣṭhasthā) [with-bindu](vinduyuktā) [lotus-devoted](kulakamalaratā) [named-tarani-kundala](tāraṇīkuṇḍalākhyā)
 
 ## mukta-m0-p04-v85
-[koṅkaṇā](koṅkaṇā)+[named](ākhyā)
+[named-konkana](koṅkaṇākhyā)
 
 ## mukta-m0-p04-v86
-[world](loka)+[mother](mātā) [śiva](śiva)+[sakala](sakala)+[facing](mukhā)+[mother](mātṛ) [śrī](śrī)+[nātha](nātha)+[in-circle](cakre)
+[world-mother](lokamātā) [shiva-whole-face-mother](śivasakalamukhāmātṛ) [in-shrinatha-chakra](śrīnāthacakre)
 
 ## mukta-m0-p04-v87
-[I-bow](naumi)+[with-devotion](bhaktyā) [manifested](prakaṭita)+[abode](nilayā) [five](pañca)+[ka](kā)+[beginning](ādi)+[end](anta)+[distinguished](bhinnā)
+[with-bowing-devotion](naumibhaktyā) [manifest-abode](prakaṭitanilayā) [five-beginning-end-distinct](pañcakādyantabhinnā)
 
 ## mukta-m0-p04-v88
-[this](idam)+[offering](naivedyam)+[food](nam) [obeisance](namaḥ) [recitation](jāpaḥ) [three-gods](trideva) [thhsrauṁ](thhsrauṁ) [svāhā](svāhā)
+[this-naivedya-namah](idannaivedyannamaḥ) [japa](jāpaḥ) [trideva](trideva) [thhsrauṁ svāhā](thhsrauṁ svāhā)
 
 ## mukta-m0-p04-v89
-[śrīṁ](śrīṁ) [hrīṁ](hrīṁ) [svāhā](svāhā) [10](10) [glauṁ](glauṁ) [svāhā](svāhā) [10](10) [with-root-mantra](mūlayā)
+[śrīṁ hrīṁ svāhā](śrīṁ hrīṁ svāhā) [10](10) [glauṁ svāhā](glauṁ svāhā) [10](10) [mūlayā](mūlayā)
 
 ## mukta-m0-p04-v90
-[oṃ](oṃ) [hrīṁ](hrīṁ) [hūṁ](hūṁ) [hāṁ](hāṁ) [phreṁ](phreṁ) [kṣoṁ](kṣoṁ) [kroṁ](kroṁ) [namaḥ](namaḥ) [svāhā](svāhā) [dhāra](dhāra)
+[oṃ hrīṁ hūṁ hāṁ phreṁ kṣoṁ kroṁ namaḥ svāhā](oṃ hrīṁ hūṁ hāṁ phreṁ kṣoṁ kroṁ namaḥ svāhā) [dhara](dhāra)
 
 ## mukta-m0-p04-v91
-[with-five](paṃca)+[praṇavas](praṇavena) [kevotaya](kevotaya) [5](5) [hymn](stotra)
+[with-five-pranava](paṃcapraṇavena) [kevotaya](kevotaya) [5](5) [stotra](stotra)
 
 ## mukta-m0-p04-v92
-[aiṁ](aiṁ) [5](5) [kālī](kālī) [vajreśvarī](vajreśvarī) [to-lohanandā](lohanandāya) [obeisance](namaḥ)
+[aim](aiṁ) [5](5) [kali](kālī) [vajreshvari](vajreśvarī) [to-lohananda](lohanandāya) [namah](namaḥ)
 
 ## mukta-m0-p04-v93
-[hraṁ](hraṁ) [to-weapon](astrāya) [phaṭ](phaṭ) [offering](vali)+[threefold](tridhā)
+[hram](hraṁ) [for-weapon](astrāya) [phat](phaṭ) [valitridha](valitridhā)
 
 ## mukta-m0-p04-v94
-[for-libation](tarpaṇayāya) [pleased](prīta)+[preta](preta)+[etc](atyādi) [in-statement](vākye) [drop](vindu)+[triad](triya) [3](3) [ritual](samaya)+[food](bhojyaṃ) [should-recite](paṭhet)
+[for-tarpana](tarpaṇayāya) [pleased-pretas-etc](prītapretātyādi) [in-sentence](vākye) [bindu-triya](vindutriya) [3](3) [samaya-food](samayabhojyaṃ) [recite](paṭhet)
 
 ## mukta-m0-p04-v95
-[that](tat) [state](padaṃ) [shown](darśitaṃ) [by-whom](yena) [to-him](tasmai) [śrī](śrī)+[to-guru](guruve) [obeisance](namaḥ)
+[that](tat) [word](padaṃ) [shown](darśitaṃ) [by-whom](yena) [to-him](tasmai) [to-shri-guru](śrīguruve) [namah](namaḥ)
 
 ## mukta-m0-p04-v96
-[divine](divya)+[eight](aṣṭau) [in-liberation](mutti)+[middle](madhye) [hasa](hasa)+[khapha](khapha)+[la](la)+[kalā](kalā) [drop](bindu)+[flower](puṣpā) [space](kha)+[mudrā](mudrā)
+[divine-eight](divyāṣṭau) [in-middle](muttimadhye) [hasakhaphalakala](hasakhaphalakalā) [bindu-flower](vindupuṣpā) [sky-mudra](khamudrā)
 
 ## mukta-m0-p04-v97
-[of-them](teṣām) [indeed](vai) [son](putra)+[disciples](śiṣyā) [nine](nava)+[person](puruṣa)+[in-doctrine](mate) [among-them](teṣu) [in-middle](madhyā) [twice](dvi)+[eight](raṣṭau)
+[of-them](teṣām) [indeed](vai) [sons-disciples](putraśiṣyā) [nine-men](navapuruṣamate) [among-them](teṣu) [middle](madhyā) [twice-eight](dviraṣṭau)
 
 ## mukta-m0-p04-v98
-[purification](saṃkāraṃ) [by-three](tri)+[steps](kramena) [beast](paśu)+[impurity](mala)+[destruction](kṣaya)+[making](kṛt)+[body](piṇḍa)+[purification](śuddhiḥ) [in-śiva](śiva)+[fire](agnau)
+[purification](saṃkāraṃ) [by-three-steps](trikramena) [animal-impurity-destroying](paśumalakṣayakṛt) [pinda-purification](piṇḍaśuddhiḥ) [in-shiva-fire](śivāgnau)
 
 ## mukta-m0-p04-v99
-[united](saṃsṛṣṭaṃ) [by-whom](yena) [to-him](tasmai) [bow](namata) [guru](guru)+[best](varaṃ) [bhairava](bhairavaṃ) [śrī](śrī)+[kujeśa](kujeśaṃ)
+[mixed](saṃsṛṣṭaṃ) [by-whom](yena) [to-him](tasmai) [bow](namata) [best-guru](guruvaraṃ) [bhairava](bhairavaṃ) [shri-kujesha](śrīkujeśaṃ)
 
 ## mukta-m0-p04-v100
-[o-pratyaṅgirā](pratyaṅgire) [world](jagat)+[mother](dhātri) [royal](rāja)+[lakṣmī](lakṣmi) [obeisance](namaḥ)+[to-you](astu) [to-you](te)
+[pratyankira](pratyaṅgire) [world-mother](jagadhātri) [royal-lakshmi](rājalakṣmi) [namo-to-you](namostu te)

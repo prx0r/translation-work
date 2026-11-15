@@ -3,34 +3,29 @@
  "verse": 2403,
  "rows": [
   {
-   "lemma": "tatra",
+   "lemma": "preta+",
+   "morph": "compound",
+   "grounds": "compound member departed"
+  },
+  {
+   "lemma": "svargāya",
+   "morph": "m.dat.sg",
+   "grounds": "dative goal"
+  },
+  {
+   "lemma": "dadyāt",
+   "morph": "3.sg.opt",
+   "grounds": "optative verb"
+  },
+  {
+   "lemma": "||",
    "morph": "(indecl.)",
-   "grounds": "adverb of place"
+   "grounds": "punctuation"
   },
   {
-   "lemma": "ca",
+   "lemma": "89",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "caileyam",
-   "morph": "noun.acc.sg.n",
-   "grounds": "accusative object"
-  },
-  {
-   "lemma": "ajinaṃ",
-   "morph": "noun.acc.sg.n",
-   "grounds": "accusative object"
-  },
-  {
-   "lemma": "kambalāntaritaṃ",
-   "morph": "adj.acc.sg.n",
-   "grounds": "adjective modifying the placed items"
-  },
-  {
-   "lemma": "nyaset",
-   "morph": "verb.3.sg.act-opt",
-   "grounds": "optative of ni-as"
+   "grounds": "verse number"
   }
  ]
 }

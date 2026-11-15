@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-two-hands+pair(kara-dvandva)+fingers(aṅgulayaḥ) [karadvandvāṅgulayo] on-armour(varmaṇi) [varmaṇi] should-be(syuḥ) [syuḥ]
+[hand](kara)+[pair](dvandva)+[fingers](aṅgulayo) [in-armor](varmaṇi) [would-be](syuḥ)
 
 ## mukta-m0-p22-v527
-where(yatra) [yatrākṣiṇī] two-eyes(akṣiṇī) [yatrākṣiṇī] forefinger+middle-finger(tarjanī-madhyame) [tarjanimadhyame] are(staḥ) [staḥ]
+[where](yatra) [eyes](akṣiṇī) [index-middle](tarjanimadhyame) [are](staḥ)
 
 ## mukta-m0-p22-v528
-six(ṣaṭ) [ṣaḍaṅgamudrā] limb(aṅga) [ṣaḍaṅgamudrā] seals(mudrā) [ṣaḍaṅgamudrā] declared(kathitā) [kathitā] by-ritual-knowers(vidhi-jñaiḥ) [vidhijñaiḥ]
+[16](16) [six](ṣaḍ)+[limb](aṅga)+[seal](mudrā) [declared](kathitā) [by-knowers-of-rite](vidhijñaiḥ)
 
 ## mukta-m0-p22-v529
-of-Vaiṣṇavas(vaiṣṇavānām) [vaiṣṇavānāntu] and(tu) [vaiṣṇavānāntu] of-seals(mudrāṇām) [mudrāṇāṃ] are-told(kathyante) [kathyante] characteristics(lakṣaṇāni) [lakṣaṇānyatha] now(atha) [lakṣaṇānyatha]
+[of-Vaiṣṇavas](vaiṣṇavānām) [tu](tu) [of-seals](mudrāṇāṃ) [are-described](kathyante) [characteristics](lakṣaṇāni) [then](atha)
 
 ## mukta-m0-p22-v530
-having-made(kṛtvā) [kṛtvottānāṃ] upward-facing(uttānām) [kṛtvottānāṃ] then(tataḥ) [tato] fist(muṣṭim) [muṣṭimaṅguṣṭhantu] thumb(aṅguṣṭham) [muṣṭimaṅguṣṭhantu] and(tu) [muṣṭimaṅguṣṭhantu] one-should-extend(prasārayet) [prasārayet]
+[20](20) [having-made-upturned](kṛtvottānāṃ) [then](tato) [fist](muṣṭim) [thumb](aṅguṣṭham) [tu](tu) [should-extend](prasārayet)
 
 ## mukta-m0-p22-v531
-by-right+thumb(dakṣiṇa-aṅguṣṭha)+touched(saṃspṛṣṭāḥ) [dakṣiṇāṅguṣṭhasaṃspṛṣṭāḥ] conch+seal(śaṅkha-mudrā) [śaṅkhamudreyamīritā] this(iyam) [śaṅkhamudreyamīritā] declared(īritā) [śaṅkhamudreyamīritā]
+[1](1) [right-thumb-touched](dakṣiṇāṅguṣṭhasaṃspṛṣṭāḥ) [conch-seal](śaṅkhamudrā) [this](iyam) [declared](īritā)
 
 ## mukta-m0-p22-v532
-inside-palms(tala-antar)+joined(āṅguṣṭhau) [talāntarmilitāṅguṣṭhau] thumbs(militā) [talāntarmilitāṅguṣṭhau] well-bent(su-bhugnau) [subhugnau] well-extended(su-prasāritau) [suprasāritau]
+[palm](tala)+[within](antar)+[joined](milita)+[thumbs](aṅguṣṭhau) [well-bent](subhugnau) [well-extended](suprasāritau)
 
 ## mukta-m0-p22-v533
-facing-each-other(anyonya-abhimukhau) [anyonyābhimukhau] two-hands(hastau) [hastau] having-made(kṛtvā) [kṛtvā] and(tu) [tu] interlaced-fingers(grathita-aṅgulī) [grathitāṅgulī]
+[mutually-facing](anyonyābhimukhau) [hands](hastau) [having-made](kṛtvā) [tu](tu) [intertwined-fingers](grathitāṅgulī)
 
 ## mukta-m0-p22-v534
-mace+seal(gadā-mudrā) [gadāmudreyamākhyātā] this(iyam) [gadāmudreyamākhyātā] called(ākhyātā) [gadāmudreyamākhyātā] of-Viṣṇu(viṣṇoḥ) [viṣṇoḥ] satisfaction+increasing(santoṣa-varddhinī) [santoṣavarddhinī]
+[mace-seal](gadāmudrā) [this](iyam) [called](ākhyātā) [of-Viṣṇu](viṣṇoḥ) [joy-increasing](santoṣavarddhinī)
 
 ## mukta-m0-p22-v535
-inside-palms(tala-antar)+joined-thumbs(militā-aṅguṣṭhau) [talāntarmilitāṅguṣṭhau] seal(mudrā) [mudraiṣā] this(eṣā) [mudraiṣā] lotus+named(padma-saṃjñikā) [padmasaṃjñikā]
+[palm](tala)+[within](antar)+[joined](milita)+[thumbs](aṅguṣṭhau) [seal-this](mudraiṣā) [lotus-named](padmasaṃjñikā)
 
 ## mukta-m0-p22-v536
-with-right+thumb(dakṣiṇa-aṅguṣṭha)+joined(saṃlagnā) [dakṣiṇāṅguṣṭhasaṃlagnā] its-little-finger(tat-kaniṣṭhā) [tatkaniṣṭhā] extended(prasāritā) [prasāritā]
+[right](dakṣiṇa)+[thumb](aṅguṣṭha)+[joined](saṃlagnā) [that](tat)+[little-finger](kaniṣṭhā) [extended](prasāritā)
 
 ## mukta-m0-p22-v537
-flute+seal(veṇu-mudrā) [veṇumudrā] should-be(bhavet) [bhavedeṣā] this(eṣā) [bhavedeṣā] well-hidden(su-guptā) [suguptā] beloved(preyasī) [preyasī] of-Hari(hareḥ) [hareḥ]
+[flute-seal](veṇumudrā) [would-be-this](bhavedeṣā) [well-hidden](suguptā) [beloved](preyasī) [of-Hari](hareḥ)
 
 ## mukta-m0-p22-v538
-with-thumb(aṅguṣṭhena) [aṅguṣṭhena] indeed(tu) [tu] one-should-bind(badhnīyāt) [badhnīyāt] at-little-finger+root(kaniṣṭhā-mūla)+resting(saṃśri(sthi)te) [kaniṣṭhāmūlasaṃśri(sthi)te]
+[by-thumb](aṅguṣṭhena) [tu](tu) [should-bind](badhnīyāt) [little-finger-root-situated](kaniṣṭhāmūlasaṃśri(sthi)te)
 
 ## mukta-m0-p22-v539
-on-ring-finger+back(anāmikā-pṛṣṭha)+attached(lagnām) [anāmikāpṛṣṭhalagnāṃ] of-right(dakṣiṇasya) [dakṣiṇasya] little-finger(kaniṣṭhikām) [kaniṣṭhikām]
+[ring-finger](anāmikā)+[back](pṛṣṭha)+[attached](lagnām) [of-right](dakṣiṇasya) [little-finger](kaniṣṭhikām)
 
 ## mukta-m0-p22-v540
-left+ring-finger(vāmām-anāmām) [vāmāmanāmāṃ] one-should-bind(badhnīyāt) [vadhnīyāddakṣiṇāṅguṣṭhamūlake] at-right+thumb+root(dakṣiṇa-aṅguṣṭha-mūlake) [vadhnīyāddakṣiṇāṅguṣṭhamūlake]
+[left](vāma)+[ring-finger](anāmām) [should-bind](vadhnīyāt) [at-right-thumb-root](dakṣiṇāṅguṣṭhamūlake)
 
 ## mukta-m0-p22-v541
-four(catasraḥ) [catasro'pyagrasaṃlagnā] also(api) [catasro'pyagrasaṃlagnā] tip+joined(agra-saṃlagnā) [catasro'pyagrasaṃlagnā] seal(mudrā) [mudrā] Kaustubha+named(kaustubha-saṃjñikā) [kaustubhasaṃjñikā]
+[four](catasraḥ) [api](api) [tip-joined](agrasaṃlagnā) [seal](mudrā) [Kaustubha-named](kaustubhasaṃjñikā)
 
 ## mukta-m0-p22-v542
-with-two-hands(kara-dvayena) [karadvayenamālāvanmudreyam] like-garland(mālā-vat) [karadvayenamālāvanmudreyam] seal(mudrā) [karadvayenamālāvanmudreyam] this(iyam) [karadvayenamālāvanmudreyam] Vanamālikā(vanamālikā) [vanamālikā]
+[1](1) [with-two-hands-garland-like](karadvayenamālāvat) [seal-this](mudreyam) [forest-garland](vanamālikā)
 
 ## mukta-m0-p22-v543
-left-hand+lotus(vāma-hasta-anu(mbu)jam) [vāmahastānu(mbu)jaṃ] on-left+knee+top(vāma-jānu-mūrddhani) [vāmajānumūrddhani] one-should-place(vinyaset) [vinyaset]
+[left](vāma)+[hand](hasta)+[lotus](aṅgujaṃ) [on-left-knee-top](vāmajānumūrddhani) [should-place](vinyaset)
 
 ## mukta-m0-p22-v544
-knowledge+seal(jñāna-mudrā) [jñānamudrā] should-be(bhavet) [bhavedeṣā] this(eṣā) [bhavedeṣā] of-Rāmacandra(rāmacandrasya) [rāmacandrasya] beloved(preyasī) [preyasī]
+[4](4) [knowledge-seal](jñānamudrā) [would-be-this](bhavedeṣā) [of-Rāmacandra](rāmacandrasya) [beloved](preyasī)
 
 ## mukta-m0-p22-v545
-mutually(mithaḥ) [mithastarjanike] forefingers(tarjanike) [mithastarjanike] clasped(śliṣṭe) [śliṣṭe] clasped(śliṣṭau) [śliṣṭāvaṅguṣṭhakau] thumbs(aṅguṣṭhakau) [śliṣṭāvaṅguṣṭhakau] likewise(tathā) [tathā]
+[mutually-index-fingers](mithastarjanike) [joined](śliṣṭe) [joined-thumbs](śliṣṭāvaṅguṣṭhakau) [tathā](tathā)
 
 ## mukta-m0-p22-v546
-this(eṣā) [eṣā] Garuḍa+seal(garuḍa-mudrā) [garuḍamudrā] should-be(syāt) [syādviṣṇoḥ] of-Viṣṇu(viṣṇoḥ) [syādviṣṇoḥ] satisfaction+increasing(santoṣa-varddhinī) [santoṣavarddhinī]
+[12](12) [this](eṣā) [Garuḍa-seal](garuḍamudrā) [would-be](syāt) [of-Viṣṇu](viṣṇoḥ) [joy-increasing](santoṣavarddhinī)
 
 ## mukta-m0-p22-v547
-two-hands(hastau) [hastau] indeed(tu) [tu] ground+touching(bhūmi-saṃlagnau) [bhūmisaṃlagnau] trembling(kampamānau) [kampamānau] again-and-again(punaḥ punaḥ) [punaḥ] [punaḥ]
+[hands](hastau) [tu](tu) [earth-joined](bhūmisaṃlagnau) [trembling](kampamānau) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p22-v548
-Narasimha's(nārasiṃhī) [nārasiṃhī] should-be(bhavet) [bhavedeṣā] this(eṣā) [bhavedeṣā] seal(mudrā) [mudrā] his-delight+increasing(tat-prīti-varddhinī) [tatprītivarddhinī]
+[16](16) [Nārasiṃhī](nārasiṃhī) [would-be-this](bhavedeṣā) [seal](mudrā) [that-joy-increasing](tatprītivarddhinī)
 
 ## mukta-m0-p22-v549
-with-downward-facing(adhaḥ-mukhībhiḥ) [adhomukhībhiḥ] with-all(sarvābhiḥ) [sarvābhirmudreyaṃ] seal(mudrā) [sarvābhirmudreyaṃ] this(iyam) [sarvābhirmudreyaṃ] of-man-lion(nṛ-hareḥ) [nṛhareḥ] remembered(smṛtā) [smṛtā]
+[downward-faced](adhomukhībhiḥ) [all](sarvābhiḥ) [seal-this](mudreyam) [of-Nṛhari](nṛhareḥ) [remembered](smṛtā)
 
 ## mukta-m0-p22-v550
-one-should-rotate(bhrā(na)mayet) [bhrā(na)mayediti] thus(iti) [bhrā(na)mayediti] declared(saṃproktā) [saṃproktā] seal(mudrā) [mudrā] boar+named(vārāha-saṃjñikā) [vārāhasaṃjñikā]
+[20](20) [should-rotate](bhrā(na)mayet) [iti](iti) [declared](saṃproktā) [seal](mudrā) [Vārāha-named](vārāhasaṃjñikā)

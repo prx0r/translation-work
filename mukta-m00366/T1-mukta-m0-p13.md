@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[man](naro) [river](nadī) [and](ca) [channel](nādī) [and](ca) [na-sound+and](na-kāraśca) [nasal](anunāsikaḥ)
+[man](naro) [river](nadī) [and](ca) [nasal-sound](nādī) [and](ca) [na-letter](na-kāraḥ) [nasalized](anunāsikaḥ)
 
 ## mukta-m0-p13-v302
-[lotus-lord](padmeśo) [na-final](nāntimaḥ) [pha-initial](phādiḥ) [pa-sound+also](pa-kāro'pi) [proclaimed](prakīrtitaḥ)
+[sixteen](16) [padmeśa](padmeśo) [not-last](nāntimaḥ) [phādi](phādiḥ) [pa-letter](pa-kāro) [also](api) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p13-v303
-[phaṭ-sound](phaṭkāraḥ) [is-declared](procyate) [by-the-good](sadhbiḥ) [pha-sound](pha-kāraḥ) [pa-final+thus](pāntimastathā)
+[phaṭ-sound](phaṭkāraḥ) [proclaimed](procyate) [by-good](sadhbiḥ) [pha-letter](pha-kāraḥ) [p-last](pāntimaḥ) [likewise](tathā)
 
 ## mukta-m0-p13-v304
-[good-essence](suraso) [vajra-fist+and](vajramuṣṭiśca) [ba-sound](ba-kāro) [bha-first+also](bhādimo'pi) [and](ca)
+[twenty](20) [surasa](suraso) [vajramuṣṭi](vajramuṣṭiḥ) [and](ca) [ba-letter](ba-kāro) [bh-first](bhādimaḥ) [also](api) [and](ca)
 
 ## mukta-m0-p13-v305
-[frown](bhṛkuṭī) [and](ca) [bharadvāja](bharadvājo) [bha-sound+and](bha-kāraśca) [fear-causing](bhayāvahaḥ)
+[bhṛkuṭī](bhṛkuṭī) [and](ca) [bharadvāja](bharadvājo) [bha-letter](bha-kāraḥ) [and](ca) [fear-bringing](bhayāvahaḥ)
 
 ## mukta-m0-p13-v306
-[mantra-lord](mantreśo) [mandala](maṇḍalo) [proud](mānī) [poison](viṣaṃ) [sun](sūryo) [ma-sound](ma-kārakaḥ)
+[mantra-lord](mantreśo) [maṇḍala](maṇḍalo) [proud](mānī) [poison](viṣaṃ) [sun](sūryo) [ma-maker](ma-kārakaḥ)
 
 ## mukta-m0-p13-v307
-[yamunā](yamunā) [descendant-of-yamunā](yāmuneyaśca) [ya-sound](ya-kāro) [ma-final](māntimaḥ) [remembered](smṛtaḥ)
+[four](4) [yamunā](yamunā) [yāmuneya](yāmuneyaḥ) [and](ca) [ya-letter](ya-kāro) [m-last](māntimaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p13-v308
-[radiant](rociṣmān) [southern-part](dakṣiṇāṃśaśca) [shining](ruciro) [repha](repha) [declared](īritaḥ)
+[radiant](rociṣmān) [southern-part](dakṣiṇāṃśaḥ) [and](ca) [bright](ruciro) [repha](rephaḥ) [uttered](īritaḥ)
 
 ## mukta-m0-p13-v309
-[libertine](lampaṭaḥ) [indra-named](śakrasaṃjñaśca) [wind-born](vāyavīyo) [la-sound](la-kārakaḥ)
+[eight](8) [lustful](lampaṭaḥ) [indra-named](śakrasaṃjñaḥ) [and](ca) [airy](vāyavīyaḥ) [la-maker](la-kārakaḥ)
 
 ## mukta-m0-p13-v310
-[heart-maker](hṛ(u)tkārī) [water-named](jalasaṃjñaśca) [caṇḍīśa+also](caṇḍīśo'pi) [va-sound](va-kārakaḥ)
+[heart-striker](hṛ(u)tkārī) [water-named](jalasaṃjñaḥ) [and](ca) [caṇḍī-lord](caṇḍīśaḥ) [also](api) [va-maker](va-kārakaḥ)
 
 ## mukta-m0-p13-v311
-[conch-ear](śaṅkha(ṅku)karṇo'sthi-) [bone-named+and](saṃjñaśca) [śa-sound](śa-kāro) [by-the-knowers](vidbhir) [declared](īritaḥ)
+[twelve](12) [conch/ear](śaṅkha(ṅku)karṇaḥ) [bone-named](asthisaṃjñaḥ) [and](ca) [śa-letter](śa-kāraḥ) [by-wise](vidbhiḥ) [uttered](īritaḥ)
 
 ## mukta-m0-p13-v312
-[six-faced](ṣaḍānanaḥ) [six-form](ṣaḍākāraḥ) [ṣa-sound](ṣa-kāraḥ) [proclaimed](kīrtito) [by-the-wise](budhaiḥ)
+[six-faced](ṣaḍānanaḥ) [six-formed](ṣaḍākāraḥ) [ṣa-letter](ṣa-kāraḥ) [proclaimed](kīrtitaḥ) [by-wise](budhaiḥ)
 
 ## mukta-m0-p13-v313
-[convention](samayaḥ) [singer](sāmagaḥ) [venus](śukraḥ) [union](saṅgatiḥ) [with-sound](sārṇakaḥ) [moon](śaśī)
+[sixteen](16) [convention](samayaḥ) [sāmaga](sāmagaḥ) [śukra](śukraḥ) [union](saṅgatiḥ) [sārṇaka](sārṇakaḥ) [moon](śaśī)
 
 ## mukta-m0-p13-v314
-[sadāśiva](sadāśivo'ruṇaḥ) [breath](prāṇo) [hayagrīva](hayagrīvo) [ha-sound](ha-kārakaḥ)
+[sadāśiva](sadāśivaḥ) [aruṇa](aruṇaḥ) [breath](prāṇaḥ) [hayagrīva](hayagrīvaḥ) [ha-maker](ha-kārakaḥ)
 
 ## mukta-m0-p13-v315
-[light-effort+and](laghuprayatnaśca) [near-final](upāntyo(tyo)) [la-sound](la-kāraḥ) [is-declared](procyate) [by-the-wise](budhaiḥ)
+[twenty](20) [light-effort](laghuprayatnaḥ) [upāntya](upāntyaḥ) [la-letter](la-kāraḥ) [proclaimed](procyate) [by-wise](budhaiḥ)
 
 ## mukta-m0-p13-v316
-[ananta](anantaḥ) [supreme-self](paramātmā) [and](ca) [vajra-body](vajrakāyo'ntimaḥ) [kṣa-sound](kṣa-kaḥ)
+[ananta](anantaḥ) [supreme-self](paramātmā) [and](ca) [vajra-bodied](vajrakāyaḥ) [last](antimaḥ) [kṣa-letter](kṣa-kaḥ)
 
 ## mukta-m0-p13-v317
-[from-a-beginning-to-kṣa-end](akārādikṣakārāntā) [letter-names](varṇasaṃjñāḥ) [in-order](kramād) [i-declare](bruve)
+[from-a](akārādi) [to-kṣa](kṣakārāntā) [letter-names](varṇasaṃjñāḥ) [in-order](kramāt) [I-speak](bruve)
 
 ## mukta-m0-p13-v318
-[all-pervading](vibhuḥ) [sky+and](khañca) [moving](caraḥ) [pure](śucir) [earth](bhūr) [forest](vanaṃ) [heaven+and](svañca) [with-power](śaktiyuk)
+[four](4) [vibhu](vibhuḥ) [kha](khaṃ) [and](ca) [moving](caraḥ) [pure](śuciḥ) [bhūrvanaṃ](bhūrvanaṃ) [svaña](svaña) [śakti-yoked](śaktiyuk)
 
 ## mukta-m0-p13-v319
-[sky](kam) [cloud](abhra) [sound](nāda) [dāva+and](dāvau) [and](ca) [earth](kuḥ) [water](pātho) [from-sky](vyomato) [wind](rayaḥ)
+[kamabhra](kamabhra) [nāda-dāvau](nāda-dāvau) [and](ca) [kuḥ](kuḥ) [water](pāthaḥ) [from-space](vyomataḥ) [ray](rayaḥ)
 
 ## mukta-m0-p13-v320
-[earth](bhūmī) [essence](raso) [sky+and](nabhaścaiva) [pervaded](vyāptaṃ) [heat](dāho) [essence-water](rasā'mbu) [and](ca)
+[eight](8) [earth](bhūmī) [taste](rasaḥ) [sky](nabhaḥ) [and](ca) [pervaded](vyāptaṃ) [burning](dāhaḥ) [taste-water](rasāmbu) [and](ca)
 
 ## mukta-m0-p13-v321
-[mother-letter-names+indeed](mātṛkāvarṇasaṃjñāstu) [them](tā) [having-known](jñātvā) [and](ca) [should-extract](uddharen) [mantras](manūn)
+[mātṛkā-letter-names](mātṛkāvarṇasaṃjñāḥ) [indeed](tu) [those](tāḥ) [knowing](jñātvā) [and](ca) [extract](uddharet) [mantras](manūn)
 
 ## mukta-m0-p13-v322
-[mother-letter-knowledge-this](mātṛkākṣarasaṃjñeyaṃ) [having-bound](badvā) [for-self-and-other-intelligence](svaparabuddhaye)
+[twelve](12) [mātṛkā-letter-name](mātṛkākṣarasaṃjñā) [this](iyam) [binding](badvā) [for-own-other-understanding](svaparabuddhaye)
 
 ## mukta-m0-p13-v323
-[veda-beginning+and](vedādyas) [savior](tārako'vyaktaḥ) [branch-beginning](śākhādiḥ) [praṇava](praṇavaḥ) [remembered](smṛtaḥ)
+[veda-first](vedādyaḥ) [tāraka](tārakaḥ) [unmanifest](avyaktaḥ) [branch-first](śākhādiḥ) [praṇava](praṇavaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p13-v324
-[time-beginning+and](kalādyaḥ) [keśava](keśavaḥ) [kṛṣṇa](kṛṣṇo) [bhūteśa](bhūteśaḥ) [first](prathamo) [may-be](bhavet)
+[four](4) [kalā-first](kalādyaḥ) [keśava](keśavaḥ) [kṛṣṇa](kṛṣṇaḥ) [bhūteśa](bhūteśaḥ) [first](prathamaḥ) [be](bhavet)
 
 ## mukta-m0-p13-v325
-[ananta](ananto) [vāsudeva+and](vāsudevaśca) [vedānta](vedāntaḥ) [maker](kārakaḥ) [remembered](smṛtaḥ)
+[ananta](anantaḥ) [vāsudeva](vāsudevaḥ) [and](ca) [vedānta](vedāntaḥ) [maker](kārakaḥ) [remembered](smṛtaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[just-as](yathā) [pit+gone](kuṇḍa+gataḥ) [and+fire](ca+agniḥ) [by-wind](vāyunā) [blazes-forth](paridīpyate)
+[yathā](yathā) [kuṇḍa-gata](kuṇḍagata) [ca](ca) [agni](agni) [vāyu](vāyunā) [pari-dīpyate](paridīpyate)
 
 ## mukta-m0-p29-v702
-[by-invocation+named](āvāhya+ānākhyayā) [by-invoking](āvāhya) [by-establishing](sthāpinyā) [by-establishing+gesture](sthāpya+mudrayā)
+[āvāhya](āvāhyā) [an-ākhyayā](anākhyayā) [āvāhya](āvāhya) [sthāpinī](sthāpinyā) [sthāpya](sthāpyam) [mudrā](udrayā)
 
 ## mukta-m0-p29-v703
-[by-niṣṭhunā](niṣṭhunā) [liṅga+gesture](liṅga+mādrāṃ) [and](ca) [lotus+eye+weapon+gesture](padma+netra+astra+mudrikā)
+[niṣṭhu](niṣṭhunā) [liṅga](liṅgam) [ādrāṃ](ādrāṃ) [ca](ca) [padma-netra-astra-mudrikā](padmanetrāstramudrikā)
 
 ## mukta-m0-p29-v704
-[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense](dhūpaṃ) [and](ca) [lamp](dīpaṃ) [and+indeed](ca+eva) [one-should-offer](pradāpayet)
+[gandha](gandhaṃ) [puṣpa](puṣpaṃ) [ca](ca) [dhūpa](dhūpaṃ) [ca](ca) [dīpa](dīpaṃ) [ca](ca) [eva](eva) [pradāpayet](pradāpayet)
 
 ## mukta-m0-p29-v705
-[liṅga+root](liṅga+mūlaṃ) [indeed](tu) [feet](caraṇau) [liṅga+tip](liṅga+agraṃ) [mouth](mukham) [is-called](ucyate)
+[liṅga-mūla](liṅgamūlaṃ) [tu](tu) [caraṇau](caraṇau) [liṅga-agra](liṅgāgraṃ) [mukha](mukham) [ucyate](ucyate)
 
 ## mukta-m0-p29-v706
-[from-Īśvara](īśvarāt) [southern+part](dakṣiṇa+aṃśe) [indeed](tu) [Brahmā](brahmā) [creation+purpose](sṛṣṭhi+artham) [engaged](udyataḥ)
+[īśvara](īśvarād) [dakṣiṇa-aṃśe](dakṣiṇāṃśe) [tu](tu) [brahmā](brahmā) [sṛṣṭi-artham](sṛṣṭhyartham) [udyataḥ](udyataḥ)
 
 ## mukta-m0-p29-v707
-[in-nose](nāsāyāṃ) [wind](vāyuḥ) [arisen](utpanna) [in-ears](śrotrayoḥ) [indeed](tu) [directions+ten](diśaḥ+daśa)
+[nāsā](nāsāyāṃ) [vāyu](vāyur) [utpanna](utpanna) [śrotra](śrotrayos) [tu](tu) [diśodaśa](diśodaśa)
 
 ## mukta-m0-p29-v708
-[in-heart](hṛdaye) [of-them](eṣāṃ) [mouth](mukho) [born](jāto) [sun](bhāskaro) [navel+born](nābhi+saṃbhavaḥ)
+[hṛdaya](hṛdayeṣāṃ) [mukha](mukho) [jāta](jāto) [bhāskara](bhāskaro) [nābhi-saṃbhava](nābhisaṃbhavaḥ)
 
 ## mukta-m0-p29-v709
-[left+eye+born](vāma+netra+udbhūto) [god](devaḥ) [Soma](somaḥ) [thus](iti) [remembered](smṛtaḥ)
+[vāma-netra](vāmanetras) [udbhūta](udbhūto) [deva](devas) [soma](soma) [iti](iti) [smṛta](smṛtaḥ)
 
 ## mukta-m0-p29-v710
-[from-hand+tip](hasta+agrāt) [weapon+origin](āyudha+udbhūti) [of-Rati](ratyāḥ) [and+indeed](ca+eva) [nail+origin](nakha+udbhavāḥ)
+[hasta-agra](hastāgrād) [āyudha-udbhūti](āyudhodbhūti) [rati](ratyāś) [ca](ca) [eva](eva) [nakha-udbhavāḥ](nakhodbhavāḥ)
 
 ## mukta-m0-p29-v711
-[from-feet](pādayoḥ) [of-all+gods](sarva+devānāṃ) [of-Śiva+knowledge](śiva+jñānasya) [and+origin](ca+udbhavaḥ)
+[pāda](pādayos) [sarva-deva](sarvadevānāṃ) [śiva-jñāna](śivajñānasya) [ca](ca) [udbhava](udbhavaḥ)
 
 ## mukta-m0-p29-v712
-[liṅga+form](liṅga+mūrti) [of-true-nature](svarūpasya) [in-middle](madhye) [Sadākhya](sādākhyam) [one-should-worship](arcayet)
+[liṅga-mūrti](liṅgamūrti) [svarūpa](svarūpasya) [madhye](madhye) [sādākhya](sādākhyam) [arcayet](arcayet)
 
 ## mukta-m0-p29-v713
-[five+faced](pañca+āsya) [five+headed](pañca+mūrdhānaṃ) [each+face](prati+vaktraṃ) [three+eyed](tri+locanam)
+[pañca-āsya](pañcāsya) [pañca-mūrdhāna](pañcamūrdhānaṃ) [prati-vaktra](prativaktraṃ) [tri-locana](trilocanam)
 
 ## mukta-m0-p29-v714
-[eight+eared](aṣṭa+śrotra) [two+footed](dvi+pādaṃ) [and](ca) [slightly](kiñcit) [smiling+faced](prahasita+ānanam)
+[aṣṭa-śrotra](aṣṭaśrotra) [dvi-pāda](dvipādaṃ) [ca](ca) [kiñcit](kiñcit) [prahasita-ānana](prahasitānanam)
 
 ## mukta-m0-p29-v715
-[discus](cakraṃ) [and](ca) [knowledge+gesture](jñāna+mudrāṃ) [and](ca) [in-right+side](savya+bhāge) [fearlessness](bhayaṃ) [in-order](kramāt)
+[cakra](cakraṃ) [ca](ca) [jñāna-mudrā](jñānamudrāṃ) [ca](ca) [savya-bhāge](savyabhāge) [bhaya](bhayaṃ) [kramāt](kramāt)
 
 ## mukta-m0-p29-v716
-[boon-giving](varadaṃ) [wonder](vismayaṃ) [and+indeed](ca+eva) [bearing](vibhrāṇaṃ) [with-left+hands](vāma+pāṇibhiḥ)
+[varada](varadaṃ) [vismaya](vismayaṃ) [ca](ca) [eva](eva) [vibhrāṇa](vibhrāṇaṃ) [vāma-pāṇi](vāmapāṇibhiḥ)
 
 ## mukta-m0-p29-v717
-[with-Sadya+Vāma+etc.](sadya+vāma+ādi) [with-mantra](mantreṇa) [one-should-establish](sthāpayet) [as-before](pūrva+vat) [auspicious](śubham)
+[sadya-vāma-ādi](sadyavāmādi) [mantreṇa](mantreṇa) [sthāpayet](sthāpayet) [pūrva-vat](pūrvavat) [śubham](śubham)
 
 ## mukta-m0-p29-v718
-[in-faces](vaktreṣu) [with-face+mantra](vaktra+mantreṇa) [one-should-give](dadyāt) [sipping-water](ācamanīyakam)
+[vaktreṣu](vaktreṣu) [vaktra-mantra](vaktramantreṇa) [dadyāt](dadyād) [ācamanīyaka](ācamanīyakam)
 
 ## mukta-m0-p29-v719
-[in-faces](mukheṣu) [fragrance](gandhaṃ) [with-Vāma](vāmena) [flower](puṣpam) [with-Īśāna](īśena) [on-heads](mūrdhasu)
+[mukheṣu](mukheṣu) [gandha](gandhaṃ) [vāmena](vāmena) [puṣpa](puṣpam) [īśena](īśena) [mūrdhasu](mūrdhasu)
 
 ## mukta-m0-p29-v720
-[food-offering](naivedyaṃ) [with-face+mantra](vaktra+mantreṇa) [in-order](kramāt) [one-should-give](dadyāt) [O-Great-Lord](maheśvara)
+[naivedya](naivedyaṃ) [vaktra-mantra](vaktramantreṇa) [kramāt](kramād) [dadyāt](dadyān) [maheśvara](maheśvara)
 
 ## mukta-m0-p29-v721
-[with-five+Brahmans](pañca+brahma) [with-six+limbs](ṣaḍ+aṅgaiḥ) [and](ca) [one-should-consecrate](kalpayet) [with-cow+gesture](dhenu+mudraya)
+[pañca-brahma](pañcabrahma) [ṣaḍ-aṅgaiś](ṣaḍaṅgaiś) [ca](ca) [kalpayet](kalpayed) [dhenu-mudraya](dhenumudraya)
 
 ## mukta-m0-p29-v722
-[of-Varuṇa](vāruṇaṃ) [seed-syllable](bījam) [having-uttered](uccārya) [in-water+vessel](jala+bhāṇḍe) [indeed](tu) [one-should-worship](pūjayet)
+[vāruṇa](vāruṇaṃ) [bīja](bījam) [uccārya](uccārya) [jala-bhāṇḍe](jalabhāṇḍe) [tu](tu) [pūjayet](pūjayet)
 
 ## mukta-m0-p29-v723
-[in-four+directions](catur+dikṣu) [in-four+corners](catur+koṇeṣu) [sipping-water+arghya](ācam+arghyaṃ) [one-should-offer](pradāpayet)
+[catur-dikṣu](caturdikṣu) [catuṣ-koṇeṣu](catuṣkoṇeṣu) [ācamārghya](ācamārghyaṃ) [pradāpayet](pradāpayet)
 
 ## mukta-m0-p29-v724
-[milk](kṣīraṃ) [indeed](tu) [Rudra+deity](rudra+daivatyaṃ) [to-Maheśa](maheśoṃ) [curd](dadhi) [and+is-called](ca+ucyate)
+[kṣīra](kṣīraṃ) [tu](tu) [rudra-daivatya](rudradaivatyaṃ) [maheśa](maheśoṃ) [dadhi](dadhi) [ca](ca) [ucyate](ucyate)
 
 ## mukta-m0-p29-v725
-[in-five+essences](pañca+sāre) [indeed](tu) [food-offering](naivedyaṃ) [one-should-show](darśayet) [knowledge+gesture](jñāna+mudrikām)
+[pañca-sāre](pañcasāre) [tu](tu) [naivedya](naivedyaṃ) [darśayed](darśayed) [jñāna-mudrikām](jñānamudrikām)

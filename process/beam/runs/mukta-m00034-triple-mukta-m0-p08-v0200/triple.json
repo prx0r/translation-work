@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "jñānādhikatvāt",
+     "gloss": "knowledge-predominance-by",
+     "grounds": "ablative of cause indicating predominance of knowledge",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "siddheḥ",
+     "gloss": "accomplishment-of",
+     "grounds": "genitive singular of siddhi",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun nominative masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cinmātralakṣaṇaḥ",
+     "gloss": "consciousness-only-characterized",
+     "grounds": "compound of cin, mātra, and lakṣaṇa in nominative masculine singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the accomplished state characterized by consciousness alone despite knowledge predominance?",
+   "premises": [
+    "knowledge predominance indicates accomplishment",
+    "accomplishment is characterized by consciousness alone",
+    "but marks a contrasting qualification"
+   ],
+   "inference": "therefore the accomplished state is defined by consciousness alone",
+   "uncertainties": [
+    "exact referent of saḥ is not explicit in this verse"
+   ],
+   "plain_english": "Because of the predominance of knowledge, of accomplishment, but that is characterized by consciousness alone."
+  }
+ ]
+}
