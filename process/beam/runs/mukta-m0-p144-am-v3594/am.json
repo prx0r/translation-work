@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p144",
  "verse": 3594,
- "question": "How is the month of Bhādrapada characterized in terms of its fortnights?",
+ "question": "Which epithet makes gaṇeśa's eye-opening and closing world's birth and dissolution?",
  "premises": [
-  "The month of Bhādrapada is described as deficient.",
-  "It has two fortnights.",
-  "The fortnights are bright and dark."
+  "single compound verse",
+  "jagajjanma and laya are cosmic",
+  "unmeṣa and nimiṣa are eye motions"
  ],
- "inference": "Bhādrapada is characterized as a deficient month consisting of bright and dark fortnights.",
- "uncertainties": [],
- "plain_english": "The month of Bhādrapada is deficient, with its bright and dark fortnights."
+ "inference": "gaṇeśa's blinking governs cosmic cycles",
+ "uncertainties": [
+  "compound segmentation"
+ ],
+ "plain_english": "Whose opening and closing of eyes are the birth and dissolution of the world."
 }

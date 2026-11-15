@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p144",
  "verse": 3591,
- "question": "By what measurements may the ritual item be sized?",
+ "question": "Which epithets trace gaṇeśa's origin to śambhu's face laughter and anger?",
  "premises": [
-  "A garment measure is given as a standard.",
-  "A single thread of the pavilion is given as another standard.",
-  "These provide sizing options."
+  "verse repeats śambhu origin",
+  "vaktrodbhava and hāsyabhū are births",
+  "kopahā is anger-destroyer"
  ],
- "inference": "The ritual item may be sized by the measure of a garment or by a single thread of the pavilion.",
- "uncertainties": [],
- "plain_english": "By the measure of a garment, or by a single thread of the pavilion."
+ "inference": "gaṇeśa arises from śambhu's expressions",
+ "uncertainties": [
+  "śambhukopahā parsing"
+ ],
+ "plain_english": "Born from Śambhu's face, destroyer of Śambhu's anger, born from Śambhu's laughter."
 }

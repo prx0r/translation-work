@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "śrīm",
+     "gloss": "auspicious-seed",
+     "grounds": "bija syllable śrīṃ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āyā",
+     "gloss": "maya-seed",
+     "grounds": "bija for māyā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kūrcca",
+     "gloss": "kūrcca-seed",
+     "grounds": "bija kūrcca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vāk",
+     "gloss": "speech-seed",
+     "grounds": "bija for vāk",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bījaiḥ",
+     "gloss": "seed-syllables",
+     "grounds": "instrumental plural of bīja",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "vajravairocanīye",
+     "gloss": "vajra-vairocani-form",
+     "grounds": "locative form of vajravairocanī",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "hūṃ",
+     "gloss": "hum-seed",
+     "grounds": "bija hūṃ",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which seed-syllables compose the vajravairocanīye mantra?",
+   "premises": [
+    "śrīṃ māyā kūrcca vāk bījaiḥ hūṃ form mantra",
+    "vajravairocanīye names the mantra context"
+   ],
+   "inference": "The verse lists the seed syllables of the vajravairocanīye mantra.",
+   "uncertainties": [
+    "Exact sandhi and grammatical role of vajravairocanīye remain unclear."
+   ],
+   "plain_english": "The mantra runs: śrīṃ māyā kūrcca vāk bījaiḥ vajravairocanīye hūṃ."
+  }
+ ]
+}

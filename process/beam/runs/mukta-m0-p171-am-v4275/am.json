@@ -1,16 +1,16 @@
 {
  "song": "mukta-m0-p171",
  "verse": 4275,
- "question": "Which divine figure is described as grace-filled Krishna-raja and forgiveness-armed?",
+ "question": "Who is identified as the best husband, foremost lord of progeny, son of Marici, and chief?",
  "premises": [
-  "Śrī Cāmuṇḍā is named first.",
-  "The verse lists grace-filled as an epithet.",
-  "Forgiveness-armed modifies the named figure."
+  "bharttuḥ śreṣṭhaḥ means best husband",
+  "prajeśa agryo means foremost lord of progeny",
+  "marīci janaka agraṇīḥ means born of Marici and chief"
  ],
- "inference": "The verse presents Śrī Cāmuṇḍā with the epithets grace-filled, Krishna-raja, and forgiveness-armed.",
+ "inference": "The verse names a figure by these combined epithets.",
  "uncertainties": [
-  "The exact syntactic relation among the four tokens is not fully resolved.",
-  "Compound and sandhi boundaries are preserved without expansion."
+  "exact syntactic relation among the epithets is not fully resolved",
+  "prajeśa may be a compound member rather than standalone genitive"
  ],
- "plain_english": "Śrī Cāmuṇḍā, grace-filled, Krishna-raja, forgiveness-armed."
+ "plain_english": "Best husband, foremost lord of progeny, born of Marici, and chief."
 }

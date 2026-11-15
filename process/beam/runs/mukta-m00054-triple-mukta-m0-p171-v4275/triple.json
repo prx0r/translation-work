@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p171",
+ "items": [
+  {
+   "verse": 4275,
+   "rows": [
+    {
+     "surface": "bharttuḥ",
+     "gloss": "of-husband",
+     "grounds": "genitive singular masculine of bhartṛ, legacy hint of-husband",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śreṣṭhaḥ",
+     "gloss": "best",
+     "grounds": "nominative singular masculine adjective, legacy hint best",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajeśa",
+     "gloss": "of-progeny-lords",
+     "grounds": "genitive singular masculine compound sense, legacy hint of-progeny-lords",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "agryo",
+     "gloss": "foremost",
+     "grounds": "nominative singular masculine adjective, legacy hint foremost",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "marīci",
+     "gloss": "of-marīci",
+     "grounds": "genitive singular masculine proper name, legacy hint of-marīci",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "janaka",
+     "gloss": "born",
+     "grounds": "nominative singular masculine, legacy hint born",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agraṇīḥ",
+     "gloss": "chief",
+     "grounds": "nominative singular masculine, legacy hint chief",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is identified as the best husband, foremost lord of progeny, son of Marici, and chief?",
+   "premises": [
+    "bharttuḥ śreṣṭhaḥ means best husband",
+    "prajeśa agryo means foremost lord of progeny",
+    "marīci janaka agraṇīḥ means born of Marici and chief"
+   ],
+   "inference": "The verse names a figure by these combined epithets.",
+   "uncertainties": [
+    "exact syntactic relation among the epithets is not fully resolved",
+    "prajeśa may be a compound member rather than standalone genitive"
+   ],
+   "plain_english": "Best husband, foremost lord of progeny, born of Marici, and chief."
+  }
+ ]
+}

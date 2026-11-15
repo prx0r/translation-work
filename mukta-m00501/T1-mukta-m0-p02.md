@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-breath(prāṇa) + wind(anile) with-attention(sāvadhānaṃ) bound(vaddhe) by-mere(kevala) retention(kuṃbhataḥ)
+[prāṇa](prāṇān) [anila](anile) [sāvadhāna](sāvadhānaṃ) [vaddha](vaddhe) [kevala](kevala) [kuṃbha](kuṃbhataḥ)
 
 ## mukta-m0-p02-v27
-then(atha) in-one(ekasmin) + alone(eva) firmly(dṛḍhaṃ) bound(vaddhe) in-accomplished-posture(siddhāsane) always(sadā)
+[atha](atha) [eka](ekasmin) [eva](eva) [dṛḍha](dṛḍhaṃ) [vaddha](vaddhe) [siddhāsana](siddhāsane) [sadā](sadā)
 
 ## mukta-m0-p02-v28
-not(na) to-khecarī(khecarī) equal(samā) seal(mudrā) not(na) to-sound(nāda) similar(sadṛśaḥ) + absorption(layaḥ)
+[na](na) [khecarī](khecarī) [samā](samā) [mudrā](mudrā) [na](na) [nāda](nāda) [sadṛśa](sadṛśo) [laya](layaḥ)
 
 ## mukta-m0-p02-v29
-destruction(vināśa) + causing(kāri) + of-impurities(amināṃ) lotus-posture(padmāsanaṃ) is-declared(procyate)
+[vināśa-kārin](vināśakāri) [yamin](yamināṃ) [padmāsana](padmāsanaṃ) [procyate](procyate)
 
 ## mukta-m0-p02-v30
-thigh(ūru) in-middle(madhye) of-those-two(tayoḥ) + upturned(uttānau) hands(pāṇī) having-made(kṛtvā) then(tato) firmly(dṛḍhau)
+[ūru](ūru) [madhya](madhye) [tayā](tayā) [uttāna](uttānau) [pāṇi](pāṇī) [kṛtvā](kṛtvā) [tatas](tato) [dṛḍha](dṛḍhau)
 
 ## mukta-m0-p02-v31
-having-raised(uttabhya) chin(civukaṃ) on-chest(vakṣasi) + having-pressed(āpya) breath(pavanaṃ) slowly(śanaiḥ)
+[uttabhya](uttabhya) [civuka](civukaṃ) [vakṣas](vakṣas) [phaccha](phacchāpya) [pavana](pavanaṃ) [śanaiḥ](śanaiḥ)
 
 ## mukta-m0-p02-v32
-difficult-to-obtain(durlabhaṃ) by-whom(yena) by-anyone(kenāpi) by-wise(dhīmatā) is-obtained(labhyate) on-earth(bhuvi)
+[durlabha](durlabhaṃ) [yena](yena) [kenāpi](kenāpi) [dhīmat](dhīmatā) [labhyate](labhyate) [bhuvi](bhuvi)
 
 ## mukta-m0-p02-v33
-to-breath(prāṇām) approaches(upaiti) knowledge(vodham) + incomparable(atulaṃ) by-power(śakti) + influence(pramāvāt) + from-that(ataḥ)
+[prāṇa](prāṇām) [upaiti](upaiti) [vā](vā) [udha](udha) [matula](matulaṃ) [śakti](śakti) [pramāvāda](pramāvādataḥ)
 
 ## mukta-m0-p02-v34
-breath(mārutaṃ) should-hold(dhārayet) + who(yastu) liberated(sa) + liberated(mukto) not(na) + here(atra) doubt(saṃśayaḥ)
+[māruta](mārutaṃ) [dhārayet](dhārayedyas) [tu](tu) [samukta](samukto) [na](na) [atra](atra) [saṃśaya](saṃśayaḥ)
 
 ## mukta-m0-p02-v35
-on-right(dakṣiṇe) left(savya) + ankle(gulpha) and(ca) right(dakṣa) + ankle(gulphaṃ) and(ca) on-left(savyake)
+[dakṣiṇa](dakṣiṇe) [savya-gulpha](savyagulpha) [ca](ca) [dakṣa-gulpha](dakṣagulphaṃ) [ca](ca) [savyake](savyake)
 
 ## mukta-m0-p02-v36
-open(vyātta) + mouth(vaktro) gazing(nirīkṣena) nose(nāsā) + tip(agaṃ) well(su) + concentrated(samāhitaḥ)
+[vyātta](vyātta) [vaktra](vaktro) [nirīkṣeṇa](nirīkṣena) [nāsā-ga](nāsāgaṃ) [susamāhita](susamāhitaḥ)
 
 ## mukta-m0-p02-v37
-of-lock(bandhasya) joining(saṃdhānaṃ) makes(kurute) and(ca) + posture(āsana) + best(uttamaṃ)
+[vaṃdha](vaṃdhasya) [saṃdhāna](saṃdhānaṃ) [kurute](kurute) [ca](cā) [āsana-uttama](asanottamaṃ)
 
 ## mukta-m0-p02-v38
-side(pārśva) + feet(pādau) and(ca) with-hands(pāṇibhyāṃ) firmly(dṛḍhaṃ) having-bound(vadhvā) very(su) + motionless(niścalaṃ)
+[pārśva-pāda](pārśvapādau) [ca](ca) [pāṇi](pāṇibhyāṃ) [dṛḍha](dṛḍhaṃ) [vadhvā](vadhvā) [suniścala](suniścalaṃ)
 
 ## mukta-m0-p02-v39
-gorakṣa(Gorakṣa) + posture(āsanam) + this(idam) indeed(vai) declare(prāhuḥ) + they(te) accomplished(siddha) + yogins(yoginaḥ)
+[gorakṣāsana](gorakṣāsanam) [idaṃ](idaṃ) [vai](vai) [prāhuḥ](prāhuste) [siddha-yogin](siddhayoginaḥ)
 
 ## mukta-m0-p02-v40
-then(atha) should-practice(abhyaset) + channel(nāḍi) purification(śuddhaṃ) seal(mudrā) + etc.(ādi) breath(pavana) activity(kriyāṃ)
+[atha](atha) [abhyaset](abhyasennāḍi) [nāḍi](nāḍi) [śuddha](śuddhaṃ) [mudrā-ādi](mudrādi) [pavana](pavana) [kriyā](kriyāṃ)
 
 ## mukta-m0-p02-v41
-then(atha) sound(nāda) + contemplation(anusaṃdhānam) practice(abhyāsa) + sequence(anukramaḥ) in-haṭha(haṭhe)
+[atha](atha) [nāda-anusaṃdhāna](nādānusaṃdhānam) [abhyāsa-anukrama](abhyāsānukramo) [haṭha](haṭhe)
 
 ## mukta-m0-p02-v42
-from-sound(avdāt) + upward(ūrdhvaṃ) becomes(bhavet) accomplished(siddho) not(na) + here(atra) duty(kāryā) + consideration(vicāraṇā)
+[avdādūrdhvaṃ](avdādūrdhvaṃ) [bhavet](bhavet) [siddha](siddho) [na](na) [atra](atra) [kārya-avicāraṇā](kāryāvicāraṇā)
 
 ## mukta-m0-p02-v43
-is-eaten(bhujyate) for-Śiva(śiva) + satisfaction(saṃprītyai) measured(mita) + food(āhāraḥ) that(saḥ) is-called(ucyate)
+[bhujyate](bhujyate) [śiva-saṃprīti](śivasaṃprītyai) [mita-āhāra](mitāhāraḥ) [sa](sa) [ucyate](ucyate)
 
 ## mukta-m0-p02-v44
-excessive(ati) + salt(lavaṇa) + liquor(āsava) + meat(palalaṃ) + hard-to-chew(kadaśana) + vegetables(śāka) + pungent(utkaṭa) + flour(piṣṭaṃ)
+[ati-lavaṇa-āsava-palalaṃka-daśana-śāka-utkaṭa-piṣṭa](atilavaṇāsavapalalaṃkadaśanaśākotkaṭapiṣṭaṃ)
 
 ## mukta-m0-p02-v45
-morning(prātaḥ) bathing(snāna) + fasting(upavāsa) + etc.(ādi) body(kāyaṃ) affliction(kleśa) rule(vidhiṃ) likewise(tathā)
+[prātaḥ](prātaḥ) [snāna-upavāsa-ādi](snānopavāsādi) [kāya](kāyaṃ) [kleśa](kleśa) [vidhi](vidhiṃ) [tathā](tathā)
 
 ## mukta-m0-p02-v46
-wholesome(pathyaṃ)
+[pathya](pathyaṃ)
 
 ## mukta-m0-p02-v47
-mind(manaḥ) + desired(abhilaṣitaṃ) suitable(yogyaṃ) yogin(yogī) food(bhojanam) + should-eat(ācaret)
+[mano-abhilaṣita](manobhilaṣitaṃ) [yogya](yogyaṃ) [yogī](yogī) [bhojana](bhojanam) [ācaret](ācaret)
 
 ## mukta-m0-p02-v48
-from-practice(abhyāsāt) success(siddhim) + obtains(āpnoti) in-all(sarva) + yogas(yogeṣu) + unwearied(ataṃdritaḥ)
+[abhyāsāt](abhyāsāt) [siddhim](siddhim) [āpnoti](āpnoti) [sarva-yogeṣu](sarvayogeṣv) [ataṃdrita](ataṃdritaḥ)
 
 ## mukta-m0-p02-v49
-all(sarvaḥ) + also(api) + this(ayaṃ) haṭha(haṭha) + practice(abhyāsaḥ) rāja-yoga(rājayoga) fruit(phala) + limit(avadhiḥ)
+[sarva](sarvopyayaṃ) [haṭha-abhyāsa](haṭhābhyāso) [rāja-yoga](rājayoga) [phala-avadhi](phalāvadhiḥ)
 
 ## mukta-m0-p02-v50
-by-guru(guru) + taught(upadiṣṭa) + path(mārgeṇa) breath-controls(prāṇāyāmān) should-practice-well(samabhyaset)
+[guru-upadiṣṭa-mārga](gurūpadiṣṭamārgeṇa) [prāṇāyāma](prāṇāyāmān) [samabhyaset](samabhyaset)

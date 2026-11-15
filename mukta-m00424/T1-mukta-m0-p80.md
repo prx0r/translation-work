@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-[koladvīpa+peak+summit](koladvīpābhagakūḍaṃ) [buffalo+dwelling+desired](mahiṣāḍapakāmataḥ)
+[island](koladvīpa) [part](abhaga) [peak](kūḍaṃ) [from-desire](mahiṣāḍapakāmataḥ)
 
 ## mukta-m0-p80-v1977
-[upward-gazing](udvīkṣaṇāṃ) [blood-giving](raktadaṃ) [lacuna](*********)
+[looking](udvīkṣaṇāṃ) [blood-giving](raktadaṃ) [unknown](*********)
 
 ## mukta-m0-p80-v1978
-[thousand+pride+ornamented](sahasradarpābharaṇāṃ) [red+flower+unguented](raktapuṣpānulepanām)
+[thousand-pride-ornament](sahasradarpābharaṇāṃ) [red-flower-anointed](raktapuṣpānulepanām)
 
 ## mukta-m0-p80-v1979
-[blazing](jvalat) [destruction+time+fire+form](saṃhārakālāgnimūrti) [Bhairava+formed](bhairavarūpiṇīm)
+[blazing](jvalat) [destruction-fire-form](saṃhārakālāgnimūrti) [bhairava-formed](bhairavarūpiṇīm)
 
 ## mukta-m0-p80-v1980
-[lacuna](**) [should-be](syāt) [shield+bracelet](kheṭakaṭakaṃ) [kuśa+noose](kuśopāśa) [skull-cup](kapālakam)
+[unknown](**) [may-be](syāt) [shield-bracelet](kheṭakaṭakaṃ) [kusha-noose](kuśopāśa) [skull](kapālakam)
 
 ## mukta-m0-p80-v1981
-[always](sadā) [by-these](amenaraiḥ) [or](vā) [by-left+raised](amerudvataiḥ) [by-lotus-hands](karapaṅkajaiḥ)
+[always](sadā) [with-men?](menarairvā) [meru-like](merudvataiḥ) [lotus-hands](karapaṅkajaiḥ)
 
 ## mukta-m0-p80-v1982
-[destruction+wheel+standing](saṃhāracakrasthā) [my+command+element](myājādhātu) [lacuna](pra*****)
+[destruction-wheel](saṃhāracakra) [standing?](sthāmyājādhātu) [unknown](pra*****)
 
 ## mukta-m0-p80-v1983
-[always](sadā) [with-breath+pervaded](avasvāsavyāpūrṇaṃ) [skull-cup+holding+hands](kapāladharapāṇibhiḥ)
+[always](sadā) [breath-filled](vasvāsavyāpūrṇaṃ) [skull-bearing-hands](kapāladharapāṇibhiḥ)
 
 ## mukta-m0-p80-v1984
-[essence+blood+flow+from](rasāsṛkramaṇād) [existing](āsti) [born+life+delighting](janyaprāṇaratonviṣām)
+[from-rasa-blood-flow](rasāsṛkramaṇādā) [born-prana-poison](stijanyaprāṇaratonviṣām)
 
 ## mukta-m0-p80-v1985
-[calamity+uplifting](āpaduddhāraṇī) [devotees](bhaktān) [Kālarudra+and-other](kālarudrādi) [Bhairavī](bhairavīm)
+[deliverer-from-calamity](āpaduddhāraṇī) [devotees](bhaktān) [kalarudra-etc-bhairavi](kālarudrādi+bhairavīm)
 
 ## mukta-m0-p80-v1986
-[of-well-enjoyed](sadbhuktasya) [always+quickly](sadāśīghraṃ) [all+desire+fruit+giving](sarvakāma) (phalapradam)
+[always](sadā) [quickly](śīghraṃ) [all-desires-fruit-giving](sarvakāma+phalapradam)
 
 ## mukta-m0-p80-v1987
-[one+two+eight+thousand+up-to](ekadvaṣṭa) (sahasrāntaṃ) [syllable+lacuna](varṇa******)
+[one-two-thousand-end](ekadvaṣṭa+sahasrāntaṃ) [color-unknown](varṇa******)
 
 ## mukta-m0-p80-v1988
-[serpent+form+lacuna](sarparū*(?)) [mantra+revolving](pumanubhra) [serpent+strung](sarpaprota) [sacred-thread](japopavīta) [released](muktā)
+[serpent-formed](sarparū*) [man?](pumanubhra) [serpent-thread](sarpaprota) [japa-sacred-thread](japopavīta) [pearl](muktā)
 
 ## mukta-m0-p80-v1989
-[lacuna](***(?)) [Śiva+enclosure](śivagoṣṭhaṃ) [and](ca) [eastern+enclosure](prācīkoṣṭhaṃ) [Sadāśiva](sadāśivam)
+[unknown](***?) [shiva-assembly](śivagoṣṭhaṃ) [eastern-chamber](prācīkoṣṭhaṃ) [sadashiva](sadāśivam)
 
 ## mukta-m0-p80-v1990
-[in-west](paścime) [Kāla+enclosure](kālakoṣṭhaṃ) [and](ca) [enclosure+worship](koṣṭhapūjāṃ) [one-should-perform](samācaret)
+[western-one-chamber](paścimekālakoṣṭhaṃ) [chamber-worship](koṣṭhapūjāṃ) [perform](samācaret)
 
 ## mukta-m0-p80-v1991
-[with-jewel](ratnena) [vessel](pātrami) [lacuna](* * * * * * * * * * (?))
+[with-gem](ratnena) [vessel](pātram) [unknown](i*********)
 
 ## mukta-m0-p80-v1992
-[three+parts](tripādaṃ) [milk](kṣīram) [thus+said](ityuktaṃ) [four+parts](catuṣpandañ) [and](ca) [cow-dung](gomayam)
+[three-footed](tripādaṃ) [milk-thus-said](kṣīramityuktaṃ) [four-footed-cow-dung](catuṣpandañcagomayam)
 
 ## mukta-m0-p80-v1993
-[milk+pot](kṣīrakumṃbhaṃ) [and](ca) [in-middle](madhye) [indeed](tu) [curd](dadhi) [in-east](pūrve) [indeed](tu) [one-should-place](vinyaset)
+[milk-pot](kṣīrakumṃbhaṃ) [middle](madhye) [then](tu) [curd-east](dadhipūrve) [place](vinyaset)
 
 ## mukta-m0-p80-v1994
-[lacuna](* * * * * * * * * * * * * (?)) [endowed-with](saṃyutam)
+[unknown](**************) [joined](saṃyutam)
 
 ## mukta-m0-p80-v1995
-[one-prastha](prasthaṃ) [two-prasthas](prasthadvayaṃ) [and](ca) [indeed](eva) [one-kuḍuba](kuḍubaṃ) [two-kuḍubas](kuḍubadvayam)
+[prastha](prasthaṃ) [two-prastha](prasthadvayaṃ) [also](caiva) [kuḍuba](kuḍubaṃ) [two-kuḍuba](kuḍubadvayam)
 
 ## mukta-m0-p80-v1996
-[honey](madhum) [thus](dhyeti) [having-placed](saṃsthāpya) [milk](kṣīram) [in-southeast](āgneya) [one-should-place](vinyaset)
+[honey-middle](madhumdhyeti) [establish](saṃsthāpya) [milk-southeast](kṣīramāgneya) [place](vinyaset)
 
 ## mukta-m0-p80-v1997
-[milk](kṣīraṃ) [indeed](tu) [Skanda+deity](skanda) (daivatyaṃ) [curd](dadhiṃ) [Gaṇapati](gaṇapatiṃ) [likewise](tathā)
+[milk](kṣīraṃ) [tu](tu) [skanda-deity](skanda+daivatyaṃ) [curd](dadhiṃ) [ganapati](gaṇapatiṃ) [thus](tathā)
 
 ## mukta-m0-p80-v1998
-[altar](sthaṇḍilaṃ) [one-should-make](kārayet) [rice](chāliṃ) [each](pratyekaṃ) [one-prastha](prastham) [one-should-do](ācaret)
+[altar](sthaṇḍilaṃ) [make-rice](kārayecchāliṃ) [each](pratyekaṃ) [prastha-perform](prasthamācaret)
 
 ## mukta-m0-p80-v1999
-[on-that-night](tadrātrau) [indeed](tu) [Śiva](śivaṃ) [having-worshipped](pūjyaṃ) [that+fruit](tatphalaṃ) [immersed](magni) [for-me](me) [at-night](niśi)
+[that-night](tadrātrau) [tu](tu) [shiva-worship](śivaṃ+pūjyaṃ) [that-fruit](tatphalaṃ) [magni-me-night](magni+me+niśi)
 
 ## mukta-m0-p80-v2000
-[through-negligence](pramādāt) [or](atva) [on-the-other-hand](pakṣe) [indeed](tu) [king+kingdom](rājarāṣṭraṃ) [is-destroyed](vinaśyati)
+[from-negligence](pramādādatvapakṣe) [tu](tu) [kingdom-destroyed](rājarāṣṭraṃ+vinaśyati)

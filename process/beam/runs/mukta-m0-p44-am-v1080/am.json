@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p44",
  "verse": 1080,
- "question": "What proportional measures are assigned to platform height and to the neck measure?",
+ "question": "On which arms do man and woman wear this armor?",
  "premises": [
-  "One part is assigned to the platform height.",
-  "One and a half parts are assigned to the neck measure.",
-  "These are stated as named measures in this instruction."
+  "man wears it on right arm",
+  "woman wears it on left arm"
  ],
- "inference": "The platform height is one part, and the neck measure is one and a half parts.",
+ "inference": "The verse assigns right arm to man and left arm to woman.",
  "uncertainties": [
-  "The base unit of these parts is not stated in this verse."
+  "whether tathā adds further placement"
  ],
- "plain_english": "One part is the platform height; one and a half parts is the neck measure."
+ "plain_english": "A man on the right arm, a woman on the left arm, likewise."
 }

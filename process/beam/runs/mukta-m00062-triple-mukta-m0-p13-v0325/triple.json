@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "mahā+argha+ratna+māṃsañ",
+     "gloss": "very-precious-jewel-flesh",
+     "grounds": "compound of mahā, argha, ratna, and māṃsa; accusative singular neuter form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇa+varṇaṃ",
+     "gloss": "black-colored",
+     "grounds": "compound of kṛṣṇa and varṇa; accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "catur+bhujam",
+     "gloss": "four-armed",
+     "grounds": "compound of catur and bhujam; accusative singular",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What form and attributes does the described deity bear?",
+   "premises": [
+    "The deity has very precious jewel flesh.",
+    "The deity is black-colored.",
+    "The deity has four arms."
+   ],
+   "inference": "The verse describes a black-colored, four-armed deity with very precious jewel flesh.",
+   "uncertainties": [
+    "The exact gender and case resolution of the compound are not fully recoverable from the surface alone."
+   ],
+   "plain_english": "The deity is black-colored and four-armed, with very precious jewel flesh."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "optative of bhū, third person singular",
+     "morph": "3.sg.act-opt-bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive singular masculine pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "iṣṭa",
+     "gloss": "desired",
+     "grounds": "past participle of iṣ, qualifying the gift",
+     "morph": "m.nom.sg (participle)"
+    },
+    {
+     "surface": "dā",
+     "gloss": "giver",
+     "grounds": "feminine adjective/noun in apposition with devī",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative singular feminine subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasannā",
+     "gloss": "pleased",
+     "grounds": "past participle agreeing with devī",
+     "morph": "f.nom.sg (participle)"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "bhuvaneshvari",
+     "grounds": "proper name of the goddess in nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does a pleased Bhuvaneśvarī grant the devotee's desired boon?",
+   "premises": [
+    "Pleased Bhuvaneśvarī is the giver.",
+    "The gift is the devotee's desired boon.",
+    "The devotee is the recipient."
+   ],
+   "inference": "A pleased Bhuvaneśvarī becomes the giver of the devotee's desired boon.",
+   "uncertainties": [
+    "Whether dā is read as adjective or noun in the compound."
+   ],
+   "plain_english": "May the pleased goddess Bhuvaneśvarī become the giver of the desired boon to him."
+  }
+ ]
+}

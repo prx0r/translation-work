@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[base+contraction](ādhāra+ākuṃcanaṃ) [should-do](kuryāt) [washing](kṣālanaṃ) [enema+action+doer](vasti+karma+kṛt)
+[contraction-of-base](ādhārākuṃcana) [do](kuryā) [cleansing-enema](kṣālanaṃvasti) [action-doer](karmakṛt)
 
 ## mukta-m0-p04-v77
-[enema+action+by-power](vasti+karma+prabhāveṇa) [are-warded-off](vāryaṃte) [those](sa) [phlegm+diseases](kala+āmayāḥ)
+[by-enema-action](vastikarmaprabhāveṇa) [are-restrained](vāryaṃte) [they](sa) [kalā-possessed](kalāmayāḥ)
 
 ## mukta-m0-p04-v78
-[entire+impurity+accumulation](aśeṣa+doṣa+upacayaṃ) [here+destroys](ni+hanyād) [having-practiced](abhyasya) [duly](mānaṃ) [water+enema+action](jala+vasti+karma)
+[all](aśeṣa) [fault-accumulation](doṣopacayaṃ) [destroy](mihanyādabhyasya) [measure](mānaṃ) [water-enema](jalavasti) [action](karma)
 
 ## mukta-m0-p04-v79
-[gradual+familiarity+controlled](krama+paricaya+vaśya) [wind+passage](vāyu+mārgā) [elephant+action+thus](gaja+karaṇī+iti) [is-called](gadyate) [haṭha+knowers+by](haṭha+jñaiḥ)
+[gradual-practice](kramaparicaya) [controlled](vaśya) [wind-path](vāyumārgā) [elephant-action](gajakaraṇīti) [is-called](gadyate) [by-haṭha-knowers](haṭhajñaiḥ)
 
 ## mukta-m0-p04-v80
-[nose+mouth+from](nāsā+mukhāt) [should-expel](nirgamayet) [and+these](ca+eṣān) [thus](iti) [adepts+by](siddhaiḥ) [is-declared](nigadyate)
+[not](na) [from-mouth](śāmukhānnirgamayeccaiṣānīti) [is-declared](siddhairnigadyate)
 
 ## mukta-m0-p04-v81
-[knee+upward+born+disease+multitude](jānu+ūrdhva+jāta+roga+aughaṃ) [in-world](jagati) [quickly](āśu) [being-good+bowing](satī+nati)
+[knee-above](jānūrdhvajātarogaughaṃ) [world](jagatyāśu) [quickly](satīnati)
 
 ## mukta-m0-p04-v82
-[tear+falling+up-to-limit](aśru+saṃpāta+paryaṃtam) [teachers+by](ācāryaiḥ) [gazing](trāṭakaṃ) [is-remembered](smṛtaṃ)
+[tears](aśru) [falling-limit](saṃpātaparyaṃtamācāryaistrāṭakaṃ) [is-remembered](smṛtaṃ)
 
 ## mukta-m0-p04-v83
-[with-effort](yatnataḥ) [gazing](trāṭakaṃ) [to-be-kept-secret](gopyaṃ) [as](yathā) [gold+casket](hāṭaka+peṭakaṃ)
+[carefully](yatnataḥ) [trāṭaka](trāṭakaṃ) [secret](gopyaṃ) [as](yathā) [golden-box](hāṭakapeṭakaṃ)
 
 ## mukta-m0-p04-v84
-[bowed+shoulders](nata+aṃso) [should-rotate](bhramayed) [regions](deśān) [nauli+gauda+by](nauli+gauḍaiḥ) [is-revealed](prakāśyate)
+[bent-shoulders](natāṃso) [rotate](bhramayed) [defects](deṣānauligauḍaiḥ) [is-manifested](prakāśyate)
 
 ## mukta-m0-p04-v85
-[entire+impurity+disease+drying](aśeṣa+doṣa+āmaya+śoṣaṇī) [and](ca) [haṭha+action](haṭha+kriyā) [mauli+this](mauliḥ+iyaṃ) [and](ca) [nauli](naulī)
+[all](aśeṣadoṣāmaya) [drying](śoṣaṇī) [and](ca) [haṭha-action](haṭhakriyā) [crown](mauliriyaṃ) [and](ca) [naulī](naulī)
 
 ## mukta-m0-p04-v86
-[skull+shining](kapāla+bhātī) [renowned](vikhyātā) [phlegm+impurity](kapha+doṣaḥ) [drying](viśoṣiṇī)
+[skull-shining](kapālabhātī) [famous](vikhyātā) [phlegm-fault](kaphadoṣo) [drying](viśoṣiṇī)
 
 ## mukta-m0-p04-v87
-[breath+control](prāṇa+āyāmaṃ) [then](tataḥ) [should-do](kuryāt) [without-effort](an+āyāsena) [is-accomplished](sidhyati)
+[prāṇāyāma](prāṇāyāmaṃ) [then](tataḥ) [do](kuryādanāyāsena) [is-accomplished](sidhyati)
 
 ## mukta-m0-p04-v88
-[teachers+of](ācāryāṇāṃ) [indeed](tu) [of-some](keṣāṃ) [other](cit) [other+action](anyat+karma) [not](na) [approved](saṃmataṃ)
+[of-teachers](ācāryāṇāṃ) [but](tu) [of-some](keṣāṃ) [other](cidanyat) [action](karma) [not](na) [approved](saṃmataṃ)
 
 ## mukta-m0-p04-v89
-[became](abhūvan) [endless+fear](ananta+bhayāḥ) [therefore](tasmāt) [wind](pavanam) [should-practice](abhyaset)
+[there-were](abhūvannaṃtakabhayāstasmāt) [wind](pavanamabhyaset)
 
 ## mukta-m0-p04-v90
-[with-mind+endless+fear](samanaska+ananta+bhayaṃ) [therefore](tasmāt) [wind](pavanam) [should-practice](abhyaset)
+[with-mind](samanaskoṃtakabhayaṃ) [therefore](tasmāt) [wind](pavanamabhyaset)
 
 ## mukta-m0-p04-v91
-[as-long-as](yāvat) [sees](paśyet) [eyebrow+of-middle](bhruvoḥ+madhyaṃ) [so-long](tāvat) [time+fear](kāla+bhayaṃ) [whence](kutaḥ)
+[as-long-as](yāvat) [between-eyebrows](paścodbhruvormadhyaṃ) [so-long](tāvat) [time-fear](kālabhayaṃ) [whence](kutaḥ)
 
 ## mukta-m0-p04-v92
-[suṣumṇā+opening](suṣumṇā+vadanaṃ) [having-pierced](bhitvā) [from-mouth](mukhāt) [enters](viśati) [wind](mārutaḥ)
+[suṣumṇā](suṣumṇā) [mouth](vadanaṃ) [piercing](bhitvā) [from-mouth](mukhādviśati) [wind](mārutaḥ)
 
 ## mukta-m0-p04-v93
-[which](yaḥ) [mind+of](manaḥ) [well-steady+state](su+sthirī+bhāvaḥ) [that+this+state](sā+eṣā+avasthā) [mind-transcending](manonmanī)
+[whose](yo) [mind](manaḥ) [steadfast](susthirī) [state](bhāvaḥ) [that](saiṣāvasthā) [manonmanī](manonmanī)
 
 ## mukta-m0-p04-v94
-[various+retention+by-practice](vicitra+kuṃbhaka+abhyāsāt) [various](vicitrāṃ) [accomplishment](siddhim) [obtains](āpnuyāt)
+[various](vicitra) [kumbhaka-practice](kuṃbhakābhyāsādvicitrāṃ) [perfection](siddhimāpnuyāt)
 
 ## mukta-m0-p04-v95
-[bellows](bhastrikā) [bee](bhramarī) [fainting](mūrchā) [absolute](kevalaḥ) [and+eight+retentions](ca+aṣṭa+kuṃbhakāḥ)
+[bhastrikā](bhastrikā) [bhramarī](bhramarī) [mūrchā](mūrchā) [kevala](kevalaścāṣṭakuṃbhakāḥ)
 
 ## mukta-m0-p04-v96
-[retention+at-end](kuṃbhaka+ante) [exhalation+at-beginning](recaka+ādau) [to-be-done](kartavyaḥ) [sūḍiyāṇaka](sūḍiyāṇakaḥ)
+[kumbhaka-end](kuṃbhakāṃte) [rechaka-etc](recakādau) [should-be-done](kartavyaḥ) [uḍḍiyāna](sūḍiyāṇakaḥ)
 
 ## mukta-m0-p04-v97
-[in-middle](madhye) [western+stretching+by](paścima+tānena) [becomes](syāt) [attainable](prāpyaḥ) [brahman+channel+going](brahma+nāḍi+gaḥ)
+[middle](madhye) [posterior-stretch](paścimatānena) [becomes](syāt) [attainable](prāpyo) [brahma-nāḍī](brahmanāḍigaḥ)
 
 ## mukta-m0-p04-v98
-[yogi](yogī) [old-age+freed-from](jarā+vinirmuktaḥ) [sixteen+year+age+with](ṣoḍaśa+varṣa+vayasā) [becomes](bhavet)
+[yogī](yogījarā) [free-from-old-age](vinirmuktaḥ) [sixteen-years](ṣoḍaśīvayasā) [becomes](bhavet)
 
 ## mukta-m0-p04-v99
-[right+channel+by](dakṣa+nāḍyā) [having-drawn-in](samākṛṣya) [outside-standing](bahiḥ+sthaṃ) [wind](pavanaṃ) [slowly](śanaiḥ)
+[right-nāḍī](dakṣanāḍyā) [drawing](samākṛṣya) [external](bahisthaṃ) [wind](pavanaṃ) [slowly](śanaiḥ)
 
 ## mukta-m0-p04-v100
-[then](tataḥ) [slowly](śanaiḥ) [left+channel+by](vāma+nāḍyā) [should-expel](recayet) [wind](pavanaṃ) [slowly](śanaiḥ)
+[then](tataḥ) [slowly](śanairvāmanāḍyā) [left-nāḍī](recayet) [expel](pavanaṃ) [wind](śanaiḥ)
