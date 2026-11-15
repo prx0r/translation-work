@@ -7,7 +7,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mano",
+"surface": "manaḥ",
 "quick_gloss": "mind"
 },
 {
@@ -16,7 +16,7 @@
 },
 {
 "surface": "aśubhāvāt",
-"quick_gloss": "due-to-unsuitability"
+"quick_gloss": "due-to-non-simultaneity"
 },
 {
 "surface": "ca",
@@ -48,7 +48,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ata",
+"surface": "ataḥ",
 "quick_gloss": "therefore"
 },
 {
@@ -86,7 +86,7 @@
 "tokens": [
 {
 "surface": "anyaḥ",
-"quick_gloss": "another"
+"quick_gloss": "other"
 },
 {
 "surface": "arthapratyayaḥ",
@@ -94,7 +94,7 @@
 },
 {
 "surface": "aparaḥ",
-"quick_gloss": "other"
+"quick_gloss": "another"
 }
 ]
 },
@@ -147,12 +147,8 @@
 "quick_gloss": "arises"
 },
 {
-"surface": "sati",
-"quick_gloss": "when-there-is"
-},
-{
-"surface": "ahaṅkṛtiḥ",
-"quick_gloss": "ego-sense"
+"surface": "satyahaṅkṛtiḥ",
+"quick_gloss": "when-ego-exists"
 }
 ]
 },
@@ -168,7 +164,7 @@
 "quick_gloss": "arising"
 },
 {
-"surface": "ayaṃ",
+"surface": "ayam",
 "quick_gloss": "this"
 },
 {
@@ -176,20 +172,16 @@
 "quick_gloss": "agitation"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
-},
-{
 "surface": "ahaṃpratyayaḥ",
-"quick_gloss": "I-cognition"
+"quick_gloss": "or-I-cognition"
 },
 {
 "surface": "ahaṅkārasya",
-"quick_gloss": "of-ego-sense"
+"quick_gloss": "of-ego-sense-alone"
 },
 {
 "surface": "eva",
-"quick_gloss": "alone"
+"quick_gloss": "indeed"
 },
 {
 "surface": "kāryaḥ",
@@ -222,7 +214,7 @@
 },
 {
 "surface": "sāttvikādayaḥ",
-"quick_gloss": "sāttvika-etc"
+"quick_gloss": "sattvic-etc"
 }
 ]
 },
@@ -234,12 +226,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bāhulyāt",
-"quick_gloss": "due-to-predominance"
-},
-{
 "surface": "sattvādiguṇabāhulyāt",
-"quick_gloss": "of-sattva-etc-qualities"
+"quick_gloss": "due-to-predominance-of-sattva-etc-qualities"
 }
 ]
 },
@@ -256,11 +244,11 @@
 },
 {
 "surface": "saḥ",
-"quick_gloss": "it"
+"quick_gloss": "that"
 },
 {
 "surface": "sāttvikāt",
-"quick_gloss": "from-sāttvika"
+"quick_gloss": "from-sattvic"
 },
 {
 "surface": "jātaḥ",
@@ -268,7 +256,7 @@
 },
 {
 "surface": "svānurūpāt",
-"quick_gloss": "from-own-corresponding"
+"quick_gloss": "from-its-own-corresponding"
 },
 {
 "surface": "ahaṅkṛtaḥ",
@@ -296,12 +284,8 @@
 "quick_gloss": "by-restriction"
 },
 {
-"surface": "asiddhāt",
-"quick_gloss": "from-unestablished"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "asiddhādeva",
+"quick_gloss": "from-unestablished-etc"
 },
 {
 "surface": "hetutaḥ",
@@ -367,8 +351,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadgatān",
-"quick_gloss": "located-in-that"
+"surface": "tadgatāṃś",
+"quick_gloss": "and-located-in-that"
 },
 {
 "surface": "ca",
@@ -417,7 +401,7 @@
 },
 {
 "surface": "kalpyate",
-"quick_gloss": "is-conceived"
+"quick_gloss": "is-postulated"
 }
 ]
 },
@@ -430,7 +414,7 @@
 "tokens": [
 {
 "surface": "devebhyaḥ",
-"quick_gloss": "for-gods"
+"quick_gloss": "from-deities"
 },
 {
 "surface": "buddhayaḥ",
@@ -500,7 +484,7 @@
 "tokens": [
 {
 "surface": "pumarthadātṛ",
-"quick_gloss": "human-purpose-giving"
+"quick_gloss": "human-goal-giving"
 },
 {
 "surface": "yat",
@@ -524,7 +508,7 @@
 },
 {
 "surface": "iritam",
-"quick_gloss": "stated"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -536,12 +520,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ca",
-"quick_gloss": "thus"
-},
-{
 "surface": "iti",
-"quick_gloss": "meaning"
+"quick_gloss": "thus"
 },
 {
 "surface": "arthaḥ",
@@ -690,7 +670,7 @@
 "tokens": [
 {
 "surface": "sāttvikāt",
-"quick_gloss": "from-sāttvika"
+"quick_gloss": "from-sattvic"
 },
 {
 "surface": "saṃbhave",
@@ -702,7 +682,7 @@
 },
 {
 "surface": "sāttvarājasavargayoḥ",
-"quick_gloss": "of-sāttvika-and-rājasa-groups"
+"quick_gloss": "of-sattvic-and-rajasic-groups"
 }
 ]
 },
@@ -719,7 +699,7 @@
 },
 {
 "surface": "tāmasaḥ",
-"quick_gloss": "of-tāmasa"
+"quick_gloss": "of-tamasic"
 },
 {
 "surface": "tasmāt",
@@ -744,7 +724,7 @@
 "tokens": [
 {
 "surface": "puṃbodhavyaktibhūmitvāt",
-"quick_gloss": "due-to-being-ground-of-manifestation"
+"quick_gloss": "due-to-being-ground-of-manifestation-of-soul-cognition"
 },
 {
 "surface": "bodhaḥ",

@@ -4,12 +4,18 @@
  "work": "tantraloka-a21",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [],
+ "warnings": [
+  "C1_WORDS 931 > 700"
+ ],
+ "mode": "shastra",
  "source_sha": "61bfe52e8f885df2",
+ "source_digest_normalized_sha256": "61bfe52e8f885df29a7ec77e984a4bb4c2e6f147c491361229b7264d0a190ed2",
+ "source_sha256_raw": "6c84580d946fa3c91c3aa6b922700f9d8eca011087a66fa48a6e1ae8c685c805",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/tantraloka.txt",
  "source_verses": 61,
  "t1_verses": 61,
  "l0": {
-  "parsed": 460,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 460
@@ -20,8 +26,8 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 102,
- "c1_words": 682,
+ "c1_iast_prose_info": 0,
+ "c1_words": 931,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 61,
@@ -57,16 +63,16 @@
   "l0": "0fce869e57ee7cb9d83e40620414d827e78fe28db3ed4aa002d5b03647bfcd07",
   "argmap": "61b0e25966e38dce7b692c0e57d1495db213e2951620db549227b8fd25e099d4",
   "l2": "b360c728a5c33459f9bdf7247c6b532367ecd6ceda229d7e46402752afb422ff",
-  "c1": "ff0a7849aa3164bcab011590f0c4aa3da458b63a140a383a712ef82158c7b430",
+  "c1": "15bbef60e096ac1d3a0dcc56bee4e2c451fba895ca5c62a1e01ef187bbf838ac",
   "l3": "243614f9b972b2aa17fcc5efdd49867aa8706ebe376f943efe2e121e677f1435",
   "l4": "d94805ae462dd83773719bda787bce93e3831d4d207fa545ca8753649d9d705b"
  },
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "61bfe52e8f885df2",
-  "t1": "T1-tal-a21.md",
-  "l0": "T1-tal-a21.l0.jsonl",
-  "l2": "L2-tal-a21.md",
-  "c1": "c1/C1-tal-a21.md"
+  "t1": "tal-a21/data/tal-a21.t1.json",
+  "l0": "tal-a21/data/tal-a21.l0.json",
+  "l2": "tal-a21/data/tal-a21.l2.json",
+  "c1": "tal-a21/data/tal-a21.c1.json"
  }
 }

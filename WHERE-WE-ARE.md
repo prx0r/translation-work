@@ -5,6 +5,18 @@ throughout. Deep docs: `PROCESS-NOTES-2026-11-14.md` (how to do the work),
 `CORE-VALIDATION-2026-11-14.md` (current proof state), `PROVE-EXPOSE.md`
 (publish/serve), `skills/proof/SKILL.md` (what a proof is), `MCP.md` (tools).*
 
+## Trika scope freeze (current priority)
+
+1. The 95-work Trika gold corpus is frozen for expansion-sensitive work:
+   repair, verify, serve, and human-review it first.
+2. The background burn remains T1+L0-only infrastructure and must not create
+   new Trika translations, proofs, claims, or external-literature intakes.
+3. Non-Muktabodha additions such as Jayadrathayamala remain deferred until all
+   95 Trika works are served and their blockers are resolved or explicitly
+   assigned to a human owner.
+4. No work is “done” when machine-proposed; it is done only after the review
+   step its status already requires.
+
 ## The goal
 
 Not volume. **The Trika core is the product; proving it and serving it to

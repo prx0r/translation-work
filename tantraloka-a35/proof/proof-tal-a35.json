@@ -4,14 +4,16 @@
  "work": "tantraloka-a35",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [
-  "C1_WORDS 1151 > 700"
- ],
+ "warnings": [],
+ "mode": "shastra",
  "source_sha": "8c12ab8fcd6ac843",
+ "source_digest_normalized_sha256": "8c12ab8fcd6ac8430ec67d1521470874a6bcdfabd61b8576e26026032e67e0ca",
+ "source_sha256_raw": "6c84580d946fa3c91c3aa6b922700f9d8eca011087a66fa48a6e1ae8c685c805",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/tantraloka.txt",
  "source_verses": 44,
  "t1_verses": 44,
  "l0": {
-  "parsed": 341,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 341
@@ -22,11 +24,11 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 172,
- "c1_words": 1151,
+ "c1_iast_prose_info": 0,
+ "c1_words": 249,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 44,
+  "checked": 88,
   "failures": []
  },
  "ledger": {
@@ -66,9 +68,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "8c12ab8fcd6ac843",
-  "t1": "T1-tal-a35.md",
-  "l0": "T1-tal-a35.l0.jsonl",
-  "l2": "L2-tal-a35.md",
-  "c1": "c1/C1-tal-a35.md"
+  "t1": "tal-a35/data/tal-a35.t1.json",
+  "l0": "tal-a35/data/tal-a35.l0.json",
+  "l2": "tal-a35/data/tal-a35.l2.json",
+  "c1": "tal-a35/data/tal-a35.c1.json"
  }
 }
