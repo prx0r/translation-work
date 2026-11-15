@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-as-long-as(yāvat) not(na) worshipped(pūjitā) Gaurī(gaurī) not(na) then(tāvat) eating(bhakṣaṇaṃ) beneficial(hitaṃ)
-
+[until-not](yāvanna) [worshipped](pūjitā) [Gauri](gaurī) [not](na) [until](tāvat) [eating](bhakṣaṇaṃ) [beneficial](hitaṃ)
 ## mukta-m0-p24-v577
-morning+time(prabhāta+samaye) with-devotion(bhaktyā) Bhavānīṃ(bhavānīṃ) should-worship(pūjayet) always(sadā)
-
+[at-dawn](prabhātasamaye) [with-devotion](bhaktyā) [Bhavani](bhavānīṃ) [worship](pūjayet) [always](sadā)
 ## mukta-m0-p24-v578
-grinding-stone(khaṇḍanīṃ) pestle(peṣaṇīṃ) hearth(cullīṃ) broom(mārjanīṃ) threshold(dehalīṃ) likewise(tathā)
-
+[grinding-stone](khaṇḍanīṃ) [pestle](peṣaṇīṃ) [stove](cullīṃ) [broom](mārjanīṃ) [threshold](dehalīṃ) [and](tathā)
 ## mukta-m0-p24-v579
-old-person(sthaviraṃ) scissors(kartariṃ) red(raktaṃ) cloth(vastra) with-feet(pādaiḥ) not(na) should-touch(saṃspṛśet)
-
+[old](sthaviraṃ) [scissors](kartariṃ) [red](raktaṃ) [cloth](vastra) [feet-not](pādairna) [touch](saṃspṛśet)
 ## mukta-m0-p24-v580
-oil+meat+etc.(taila+māṃsa+ādikaṃ) O-child(vatsa) to-be-avoided(varjya) on-festival(parvaṇi) on-festival(parvaṇi)
-
+[oil-meat-etc](tailamāṃsādikaṃ) [child](vatsa) [avoid](varjya) [festival](parvaṇi) [festival](parvaṇi)
 ## mukta-m0-p24-v581
-at-solstice(saṃkrāṃte) at-eclipse(grahaṇe) and(ca) indeed(eva) in-ṣaḍaśīti+occasions(ṣaḍaśīti+mukheṣu) and(ca)
-
+[transit](saṃkrāṃte) [eclipse](grahaṇe) [and](ca) [indeed](eva) [sixty-eight](ṣaḍaśīti) [mouths](mukheṣu) [and](ca)
 ## mukta-m0-p24-v582
-on-third(tṛtīyā) vigil(jāgaraṃ) to-be-done(kāryaṃ) on-fourth(caturthaṃ) worship(pūjanaṃ) likewise(tathā)
-
+[third](tṛtīyā) [wakefulness](jāgaraṃ) [do](kāryaṃ) [fourth](caturthaṃ) [worship](pūjanaṃ) [and](tathā)
 ## mukta-m0-p24-v583
-of-uninitiated(adīkṣitānāṃ) in-front(purataḥ) worship(pūjanaṃ) should-avoid(parivarjayet)
-
+[uninitiated](adīkṣitānāṃ) [before](purataḥ) [worship](pūjanaṃ) [avoid](parivarjayet)
 ## mukta-m0-p24-v584
-fragrant(sugaṃdhā) fortunate(subhagā) should-be-made(kāryā) on-fourth(caturthaṃ) worship(pūjanaṃ) likewise(tathā)
-
+[fragrant](sugaṃdhā) [auspicious](subhagā) [do](kāryā) [fourth](caturthaṃ) [worship](pūjanaṃ) [and](tathā)
 ## mukta-m0-p24-v585
-in-eight+parts(aṣṭa+bhāge) two+parts(dve+ga+bhāgo) by-doubling(dvi+vṛdhyāt) double+wind(dvi+guṇa+mārutaḥ)
-
+[eighth-part-quick](aṣṭabhāgedvega) [part](bhāgo) [double-increase](dvivṛdhyāt) [double-wind](dviguṇamārutaḥ)
 ## mukta-m0-p24-v586
-thus(evaṃ) up-to-twenty+parts(viṃśati+bhāgāṃtaṃ) up-to-viḍa+end(viḍatāṃtaṃ) one-should-arrange(parikalpayet)
-
+[thus](evaṃ) [twenty](viṃśati) [part-end](bhāgāṃtaṃ) [excrement-end](viḍatāṃtaṃ) [calculate](parikalpayet)
 ## mukta-m0-p24-v587
-two-storeys(dvi+talaṃ) three-storey+verandahs(tri+tala+ālindrān) wall(bhittiḥ) and(ca) by-outer+count(bahiḥ+saṃkhyayā)
-
+[two-storey](dvitalaṃ) [three-storey](tritalaṃ) [Indra](indrān) [wall](bhittiḥ) [and](ca) [outside-count](bahisaṃkhyayā)
 ## mukta-m0-p24-v588
-by-dhātri(dhātrena) with-three+quarters(sa+tri+pādena) with-two+quarters(dvi+pādena) additionally(adhika) should-arrange(kalpayet)
-
+[with-measure](dhātrena) [with-three-feet](satripādena) [with-two-feet](dvipādena) [extra-calculate](adhikalpayet)
 ## mukta-m0-p24-v589
-from-base(adhiṣṭānāt) six+group(ṣaḍ+vargaṃ) as-before(pūrva+vat) one-should-arrange(parikalpayet)
-
+[base-base](adhiṣṭānādhi) [six-group](ṣaḍvargaṃ) [as-before](pūrvavat) [calculate](parikalpayet)
 ## mukta-m0-p24-v590
-head+weapon(mastaka+astra) to-be-known(vi+saṃjñeyaṃ) smallest(kaniṣṭaṃ) middle(madhyama) best(uttamaṃ)
-
+[head-?](mastakastra) [unconscious](visaṃjñeyaṃ) [smallest](kaniṣṭaṃ) [middle](madhyama) [best](uttamaṃ)
 ## mukta-m0-p24-v591
-twice+height(dviḥ+utsedham) unequal-measure(a+saṃmānam) best(uttamaṃ) hear(śṛṇu) is-stated(ucyate)
-
+[double-height](dvirotsedhaṃ) [disrespect](asaṃmānaṃ) [best](uttamaṃ) [hear](śṛṇu) [liberated](mucyate)
 ## mukta-m0-p24-v592
-food+portion(bhakṣāṃśaṃ) bhīma(bhīma) then(atha) maraṃ(maraṃ) avisatta(avisatta) but(tu) best(muttamaṃ)
-
+[food-part](bhakṣāṃśaṃ) [Bhima](bhīma) [then](atha) [death](maraṃ) [not-attached](avisatta) [but](tu) [best](muttamaṃ)
 ## mukta-m0-p24-v593
-labvi(labvi) thirty(triṃśat) moving(callaṃ) śāni(śāni) dīśa+etc.(dīśa+ādi) dīśa+etc.(dīśa+ādi) śāditā(śāditā)
-
+[obtain](labvi) [thirty](triṃśat) [movable](calaṃ) [?](śāni) [direction-direction](dīśādīśādi) [directed](śāditā)
 ## mukta-m0-p24-v594
-one+part(bhāgam+eka) equal(samaṃ) having-placed(ropya) as-long-as(yāvat) its(tasya) auspicious+arising(śubha+udayaṃ)
-
+[part](bhāgaṃ) [one](ekaṃ) [equal](samaṃ) [raise](ropya) [until](yāvat) [its](tasya) [auspicious-rise](śubhodayaṃ)
 ## mukta-m0-p24-v595
-three-storeys(tri+tālaṃ) but(tu) four-storeys(catuḥ+sthālaṃ) or(atha) even(api) five-storeys(pañca+tālam) or(vā)
-
+[three-storey](tritālaṃ) [but](tu) [four-storey](catusthālaṃ) [five-storey](pañcatālaṃ) [or](vā) [also](api)
 ## mukta-m0-p24-v596
-above+pedestal(pīṭha+upariṣṭāt) lotus(padmaṃ) but(tu) into-fifty(pañcāśaṃ) but(tu) when-divided(vibhājite)
-
+[seat-above](pīṭhopariṣṭāt) [lotus](padmaṃ) [but](tu) [fifty](pañcāśaṃ) [but](tu) [divided](vibhājite)
 ## mukta-m0-p24-v597
-one+part(eka+aṃśaṃ) but(tu) petal+height(dala+utsedhaṃ) upper+part(ūrdhva+aṃśaṃ) but(tu) pericarp(karṇikā)
-
+[one-part](ekāṃśaṃ) [but](tu) [petal-height](dalotsedhaṃ) [upward-part](ūrdhvaṃśaṃ) [pericarp](karṇikā)
 ## mukta-m0-p24-v598
-goddess+measure(devī+ā+māna) threefold(tridhā) declared(proktaṃ) according-to-Śiva-liṅga(śiva+liṅga+anurūpataḥ)
-
+[goddess-measure](devyāmāna) [threefold](tridhā) [stated](proktaṃ) [Shiva-linga](śivaliṃga) [according](anurūpataḥ)
 ## mukta-m0-p24-v599
-four+five(catuḥ+paṃca) times(guṇaṃ) or(vā) even(api) worship+part(pūjā+aṃśa) height(ucca) three+quarters(tri+pādakam)
-
+[four-five](catuṣpaṃca) [fold](guṇaṃ) [or](vā) [worship-part](pūjāṃśa) [high](ucca) [three-footed](tripādakam)
 ## mukta-m0-p24-v600
-worship(pūjā) and(ca) height(ucca) four+parts(catur+vaṃśa) hundred(śataṃ) or(vā) or(atha) having-divided(vibhajya) and(ca)
+[worship](pūjā) [and](ca) [high](ucca) [twenty-four](caturviṃśa) [hundred](śataṃ) [or](vā) [then](atha) [dividing](vibhajya) [and](ca)

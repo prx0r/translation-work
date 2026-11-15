@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p14",
  "verse": 330,
- "question": "Which ritual implements does the goddess hold in her hands?",
+ "question": "What toe ornament should be given?",
  "premises": [
-  "The goddess is described as holding objects.",
-  "The objects named are noose, goad, book, and rosary."
+  "A toe ring is specified.",
+  "It should be given.",
+  "Various gems adorn it."
  ],
- "inference": "The goddess holds a noose, a goad, a book, and a rosary.",
- "uncertainties": [],
- "plain_english": "She holds a noose and goad, a book, and a rosary."
+ "inference": "The verse prescribes giving a toe ring adorned with various gems.",
+ "uncertainties": [
+  "Compound internal sandhi is not expanded."
+ ],
+ "plain_english": "One should give a toe ring adorned with various gems."
 }

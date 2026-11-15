@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[body-end](dehāntena) [fully-liberated](vinirmuktaḥ) [with-differentiated-senses](saṃvibhakta+indriyaḥ) [gradually](kramāt)
+[freed-from](dehāntena) [released](vinirmukto) [divided-senses](saṃvibhaktendriyaḥ) [gradually](kramāt)
 
 ## mukta-m0-p54-v1327
-[*](*) [*](*) [*](*) [*](*) [indeed](vai) [O-child](vatsa) [thousand-bodies](sahasra+dehaṃ) [may-enter](viśet) [the-wise](budhaḥ)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [indeed](vai) [child](vatsa) [thousand-bodies](sahasradehaṃ) [wise-one-enters](viśedbudhaḥ)
 
 ## mukta-m0-p54-v1328
-[thus](iti) [in-the-Kālottara](kālottare) [in-the-section-on-touch-yoga](sparśa+yoga+vidhāne) [focused-on-rites-for-the-dead-and-living](mṛta+kārya+jīva+kārya+pradhānaṃ) [named](nāma) [twenty-third](trayoviṃśatiḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-kālottara](kālottare) [in-touch-yoga-rite](sparśayogavidhāne) [dead-work-living-work-principal](mṛtakāryajīvakāryapradhānaṃ) [named](nāma) [twenty-third](trayoviṃśatiḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p54-v1329
-[the-great-yoga](mahā+yogaṃ) [I-shall-declare](pravakṣyāmi) [accomplishing-all-desires-and-aims](sarva+kāma+artha+sādhanam)
+[great-yoga](mahāyogaṃ) [i-will-declare](pravakṣyāmi) [all-desires-wealth-accomplishment](sarvakāmārthasādhanam)
 
 ## mukta-m0-p54-v1330
-[in-the-middle-of-the-lotus](padma+madhye) [having-entered](praviśya) [this](etat) [called-Prāsāda](prāsāda+ākhyaṃ) [Śiva](śivaṃ) [abode](padam)
+[into-lotus-middle](padmamadhye) [entering](praviśyaitatprāsādākhyaṃ) [śiva](śivaṃ) [foot](padam)
 
 ## mukta-m0-p54-v1331
-[moon-disk](śaśāṅka+maṇḍalaṃ) [there](tatra) [slightly-less](kiñcit+dhīnaṃ) [one-should-visualize](vicintayet)
+[moon-disk](śaśāṅkamaṇḍalaṃ) [there](tatra) [somewhat-deficient](kiñciddhīnaṃ) [one-should-contemplate](vicintayet)
 
 ## mukta-m0-p54-v1332
-[fire-disk](kṛśānu+maṇḍalaṃ) [first](pūrvaṃ) [triangular](trikoṇaṃ) [by-the-seed-mantra](bīja+mantrataḥ)
+[fire-disk](kṛśānumaṇḍalaṃ) [first](pūrvaṃ) [triangle](trikoṇaṃ) [seed-mantra-wise](bījamantrataḥ)
 
 ## mukta-m0-p54-v1333
-[three-fire-orbs](agni+bimba+trayaṃ) [less](hīnaṃ) [sun-disk](sūrya+maṇḍalam) [supreme](uttamam)
+[fire-image-three](agnibimbatrayaṃ) [deficient](hīnaṃ) [sun-disk](sūryamaṇḍalamuttamam)
 
 ## mukta-m0-p54-v1334
-[above-it](tasya+upariṣṭāt) [the-Puruṣa](puruṣaṃ) [joined-with-the-twenty-fifth](pañcaviṃśaka+saṃyutam)
+[above-it](tasyopariṣṭātpuruṣaṃ) [twenty-five](pañcaviṃśaka) [endowed](saṃyutam)
 
 ## mukta-m0-p54-v1335
-[divine-with-lustre-like-ruby](māṇikka+vat+prabhā+divyaṃ) [somewhat-like-bee-in-lustre](kiñcit+bhṛṅga+sama+prabham)
+[ruby-like](māṇikkavatprabhādivyaṃ) [somewhat](kiñcidbhṛṅga) [equal-radiance](samaprabham)
 
 ## mukta-m0-p54-v1336
-[called-Īśvara](īśvara+ākhyaṃ) [indeed](tu) [that-principle](tat+tattvaṃ) [by-that](tena) [this](idaṃ) [is-impelled](preryate) [world](jagat)
+[īśvara-named](īśvarākhyaṃ) [indeed](tu) [that-principle](tattattvaṃ) [by-that](tenedaṃ) [world](preryate) [is-driven](jagat)
 
 ## mukta-m0-p54-v1337
-[knowledge-power](vidyā+śaktiṃ) [indeed](tu) [that](tām) [they-call](āhuḥ) [beyond-that](tat+paraḥ) [supreme](paramaḥ) [Śiva](śivaḥ)
+[vidyā-śakti](vidyāśaktiṃ) [indeed](tu) [that](tāmāhuḥ) [devoted](tatparaḥ) [supreme](paramaḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p54-v1338
-[one-should-abide](tiṣṭhet) [practicing-equally](samabhyasaṃ+stāvaṃ) [with-all-fluctuations-restrained](niruddha+aśeṣa+vṛddhikān)
+[one-should-stand](tiṣṭhetsamabhyasaṃstāvaṃ) [restrained-all-growth](niruddhāśeṣavṛddhikān)
 
 ## mukta-m0-p54-v1339
-[thus](iti) [having-realized-everything](sākṣāt+kṛta+aśeṣaḥ) [cause-of-creation-and-dissolution](sarga+saṃhāra+kārakaḥ)
+[thus](iti) [directly-realized-all](sākṣātkṛtāśeṣaḥ) [creation-dissolution-maker](sargasaṃhārakārakaḥ)
 
 ## mukta-m0-p54-v1340
-[rays-day-bright-fortnight](raśmi+ahaḥ+śukla+pakṣa) [six-months-and-northern-year](ṣaṇ+māsa+uttara+vatsarān)
+[rays-days](raśmyahaḥ) [bright-fortnight](śuklapakṣa) [six-months](ṣaṇmāsottaravatsarān)
 
 ## mukta-m0-p54-v1341
-[these](ete) [twelve-Ādityas](dvādaśa+ādityāḥ) [indeed](tu) [eleven-Rudras](rudra+ekādaśa) [Īśvara](īśvaraḥ)
+[these](ete) [twelve-suns](dvādaśādityāstu) [eleven-rudras](rudraikādaśa) [īśvara](īśvaraḥ)
 
 ## mukta-m0-p54-v1342
-[of-Īśvara](īśvarasya) [great-power](mahā+śaktiḥ) [Manonmanī](manonmanī) [higher-and-lower](parā+avarā)
+[of-īśvara](īśvarasya) [great-śakti](mahāśaktirmanonmanī) [higher-lower](parāvarā)
 
 ## mukta-m0-p54-v1343
-[by-that](tena) [led](nītaṃ) [to-Śiva](śivaṃ) [one-goes](gacchet) [with-all-impurities-removed](vigata+aśeṣa+kalmaṣaḥ)
+[by-that](tena) [led](nītaṃ) [śiva](śivaṃ) [goes](gacchedvigatāśeṣa) [all-sin](kalmaṣaḥ)
 
 ## mukta-m0-p54-v1344
-[all-knowing](sarva+jñaṃ) [of-true-will](satya+saṃkalpaṃ) [cause-of-all-causes](sarva+kāraṇa+kāraṇam)
+[all-knowing](sarvajñaṃ) [true-resolve](satyasaṃkalpaṃ) [all-causes-cause](sarvakāraṇakāraṇam)
 
 ## mukta-m0-p54-v1345
-[by-those-who-have-conquered-all-vital-fluctuations](jita+aśeṣa+amarut+vṛttaiḥ) [means-to-liberation](mokṣa+upāyaḥ) [indeed](tu) [has-been-described](varṇitaḥ)
+[conquered-all-winds](jitāśeṣāmarudvṛttaiḥ) [liberation-means](mokṣopāyastu) [described](varṇitaḥ)
 
 ## mukta-m0-p54-v1346
-[by-this](anena) [one-goes](yāti) [to-liberation](nirvāṇaṃ) [death](mṛtyuḥ) [in-the-body](dehe) [situated](vyavasthitaḥ)
+[by-this](anena) [goes](yāti) [nirvāṇa](nirvāṇaṃ) [death](mṛtyurdehe) [established](vyavasthitaḥ)
 
 ## mukta-m0-p54-v1347
-[by-own-will](sva+icchayā) [having-gone-out](nirgataḥ) [from-the-body](dehāt) [liberation](muktiṃ) [goes](yāti) [as](yathā) [a-man](naraḥ)
+[by-will](svecchayānirgato) [from-body](dehāt) [liberation](muktiṃ) [goes](yāti) [like-man](yathānaraḥ)
 
 ## mukta-m0-p54-v1348
-[situated-in-the-third-class-mantra](tṛtīya+varga+mantra+stham) [then](athaḥ) [fire](vahnim) [held-by-breath](marut+dhṛtam)
+[third-class-mantra](tṛtīyavargamantrasthamatho) [fire-extracted](vahnimaruddhṛtam)
 
 ## mukta-m0-p54-v1349
-[having-placed](vinyasya) [in-the-navel](nābhau) [lord-of-seed](bīja+īśaṃ) [having-placed](vinyasya) [in-the-heart](hṛdi) [likewise](tathā) [the-supreme](param)
+[placing](vinyasya) [navel](nābhau) [seed-lord](bījeśaṃ) [heart](hṛdinyasya) [thus](tathā) [supreme](param)
 
 ## mukta-m0-p54-v1350
-[the-syllable](varṇaṃ) [lord-of-syllables](varṇa+īśvaraṃ) [afterwards](paścāt) [below](arvāk) [on-the-head](śirasi) [one-should-place](vinyaset)
+[letter](varṇaṃ) [letter-lord](varṇeśvaraṃ) [afterwards](paścādarvāk) [head](śirasi) [one-should-place](vinyaset)

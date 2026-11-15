@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2994,
- "question": "What measurement is prescribed for the back at the middle of the chest?",
+ "question": "To whom is the goddess addressed as boon-giver and buffalo-slayer?",
  "premises": [
-  "The reference region is the middle of the chest.",
-  "The location measured is the back.",
-  "The prescribed measure is six and a half finger-units."
+  "she is addressed to devotees",
+  "she is called boon-giver and buffalo-slayer"
  ],
- "inference": "At the middle of the chest, the back should measure six and a half finger-units.",
- "uncertainties": [],
- "plain_english": "At the middle region of the chest, the back is six and a half finger-units."
+ "inference": "the goddess is praised as boon-giver and buffalo-slayer for devotees",
+ "uncertainties": [
+  "exact devotee group"
+ ],
+ "plain_english": "O boon-giving goddess, buffalo-slayer, salutation be to you, for devotees."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p134",
  "verse": 3328,
- "question": "Which weapons of the goddess are to be worshipped around her?",
+ "question": "Which cosmic eaters are named in this compound?",
  "premises": [
-  "Arrows and a bow are named as objects of worship.",
-  "A noose and a goad are named as objects of worship.",
-  "These are to be worshipped around the goddess."
+  "moon water earth space air fire are listed",
+  "eaters are the referents",
+  "compound is genitive plural"
  ],
- "inference": "After the previous step, the practitioner should worship the arrows, bow, noose, and goad around her.",
- "uncertainties": [],
- "plain_english": "Then one should worship the arrows, the bow, the noose, and the goad all around."
+ "inference": "The verse names moon, water, earth, space, air, and fire eaters.",
+ "uncertainties": [
+  "exact referent of eaters unclear"
+ ],
+ "plain_english": "Of the moon, water, earth, space, air, and fire eaters."
 }

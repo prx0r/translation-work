@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-if(yadi) or(vā) if(yadi) or(vā) in-dream(svapne) he(sa) after-fortnight(pakṣāt) death(maraṇaṃ) may-be(bhavet)
+[if](yadi) [or](vā) [if](yadi) [or](vā) [in-dream](svapne) [he](sa) [from-wings](pakṣāt) [death](maraṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p47-v1152
-unwilling(akāmo) earth+quake(bhūmi+kampaṃ) or(vā) in-ten-days(daśāhāt) death(maraṇaṃ) may-be(bhavet)
+[unwilling](akāmaḥ) [earthquake](bhūmikampaṃ) [or](vā) [ten-days](daśāhāt) [death](maraṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p47-v1153
-if(yadi) one-may-see(paśyet) in-middle+body(madhya+dehe) for-two-days(dvi+dinena) he(sa) lives(jīvati)
+[if](yadi) [sees](paśyet) [middle-body](madhyadehe) [two-days](dvidinena) [he](sa) [lives](jīvati)
 
 ## mukta-m0-p47-v1154
-in-middle+body(madhya+dehe) when(yadā) one-may-see(paśyet) viśe(viśe) *(* ) *(* ) *(* ) *(* ) *(* ) *(* )
+[middle-body](madhyadehe) [when](yadā) [sees](paśyet) [special](viśe)
 
 ## mukta-m0-p47-v1155
-teacher(śāstā) sound(svaraṃ) or(vā) teacher(śāstāraṃ) in-heart(hṛdaye) in-middle+body(madhya+dehake)
+[teacher](śāstā) [sound](svaraṃ) [or](vā) [teacher](śāstāraṃ) [heart](hṛdaye) [middle-body](madhyadehake)
 
 ## mukta-m0-p47-v1156
-black(kṛṣṇāṃ) of-cows(gavāṃ) on-two-horns(śṛṅgayoḥ+dve) having-grasped(gṛhītvā) runs(dhāvate) if(yadi)
+[black](kṛṣṇāṃ) [cows](gavāṃ) [horns](śṛṅgayoḥ) [two](dve) [taking](gṛhītvā) [runs](dhāvate) [if](yadi)
 
 ## mukta-m0-p47-v1157
-in-bow(kodaṇḍe) in-eternal+place(śāśvata+sthāne) at-head+end(mūrdha+ante) twelve+finger-breadths(dvādaśa+aṅgule)
+[bow](kodaṇḍe) [eternal-place](śāśvatasthāne) [head-end](mūrdhānte) [twelve-angulas](dvādaśāṅgule)
 
 ## mukta-m0-p47-v1158
-death+destroying(mṛtyu+nāśritaṃ) meditation(dhyānaṃ) and(ca) now(sāṃprataṃ) hear(śṛṇu) o-six-faced-one(ṣaṇmukha)
+[death-refuge](mṛtyunāśritaṃ) [meditation](dhyānaṃ) [ca](ca) [now](sāṃprataṃ) [hear](śṛṇu) [six-faced](ṣaṇmukha)
 
 ## mukta-m0-p47-v1159
-the-prāsāda-mantra(prāsādaṃ) with-moon+disk(candra+bimbena) having-enclosed(saṃpuṭīkṛtya) the-wise-one(buddhimān)
+[palace](prāsādaṃ) [moon-disc](candrabimbena) [enclosing](saṃpuṭīkṛtya) [wise](buddhimān)
 
 ## mukta-m0-p47-v1160
-in-one-year(vivatsareṇa) indeed(vai) o-child(vatsa) death+destruction(mṛtyu+nāśanam) supreme(uttamam)
+[by-year](vivatsareṇa) [indeed](vai) [child](vatsa) [death-destruction](mṛtyunāśanam) [best](uttamam)
 
 ## mukta-m0-p47-v1161
-like-Indra's+wrath(indra+kopa+nibhaṃ) one-should-meditate(dhyāyet) the-prāsāda-mantra(prāsādaṃ) moon+disk(śaśi+bimbakam)
+[indra-like](indrakopanibhaṃ) [meditate](dhyāyet) [palace](prāsādaṃ) [moon-disc](śaśibimbakam)
 
 ## mukta-m0-p47-v1162
-by-bindu+nāda+śikhā(bindu+nāda+śikhā) pervaded(ākrāntaṃ) ghaṭikā(ghaṭikā) seventh(saptamā) may-be(bhavet)
+[bindu](bindunā) [nada](nāda) [crest](śikhā) [overcome](krāntaṃ) [ghatika](ghaṭikā) [seventh](saptamā) [becomes](bhavet)
 
 ## mukta-m0-p47-v1163
-conch+jasmine+moon+white(śaṅkha+kunda+indu+dhavalaṃ) the-prāsāda-mantra(prāsādaṃ) in-middle+body(madhya+dehake)
+[conch-white](śaṅkhakundendudhavalaṃ) [palace](prāsādaṃ) [middle-body](madhyadehake)
 
 ## mukta-m0-p47-v1164
-for-thirty-two+years(dvātriṃśat+vatsaraṃ) one-should-meditate(dhyāyet) six+thousand(ṣaṭ+sahasraṃ) he(sa) lives(jīvati)
+[thirty-two-years](dvātriṃśadvatsaraṃ) [meditate](dhyāyet) [six-thousand](ṣaṭsahasraṃ) [he](sa) [lives](jīvati)
 
 ## mukta-m0-p47-v1165
-in-its-middle(tasya+madhye) but(tu) the-self(ātmānaṃ) with-moon+disk(candra+bimbena) one-should-enclose(saṃpuṭet)
+[its](tasya) [middle](madhye) [tu](tu) [ca](ca) [self](ātmānaṃ) [moon-disc](candrabimbena) [enclose](saṃpuṭet)
 
 ## mukta-m0-p47-v1166
-he(sa) may-live(jīvet) seven+thousand(sapta+sāhasraṃ) years(vatsaraṃ) but(tu) o-six-faced-one(ṣaḍ+ānana)
+[he](sa) [lives](jīvet) [seven-thousand](saptasāhasraṃ) [year](vatsaraṃ) [tu](tu) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p47-v1167
-below+above(adhaḥ+ūrdhvaṃ) with-moon+disk(candra+bimbena) having-enclosed(sampuṭīkṛtya) the-wise-one(buddhimān)
+[below-above](adhordhvaṃ) [moon-disc](candrabimbena) [enclosing](sampuṭīkṛtya) [wise](buddhimān)
 
 ## mukta-m0-p47-v1168
-for-twenty-four+years(caturviṃśat+vatsaraṃ) but(tu) thousand+eight(sahasra+aṣṭau) he(sa) lives(jīvati)
+[twenty-four-years](caturviṃśadvatsaraṃ) [tu](tu) [thousand-eight](sahasrāṣṭau) [he](sa) [lives](jīvati)
 
 ## mukta-m0-p47-v1169
-in-its-middle(tasya+madhye) but(tu) the-self(ātmānaṃ) with-the-fourth(caturthena) but(tu) one-should-enclose(saṃpuṭet)
+[its](tasya) [middle](madhye) [tu](tu) [ca](ca) [self](ātmānaṃ) [fourth](caturthena) [tu](tu) [enclose](saṃpuṭet)
 
 ## mukta-m0-p47-v1170
-nine(nava) thousand(sahasraṃ) he(sa) may-live(jīveta) thus(iti) truth(satyaṃ) o-six-faced-one(ṣaḍ+ānana)
+[nine](nava) [thousand](sahasraṃ) [he](sa) [lives](jīveta) [thus](iti) [truth](satyaṃ) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p47-v1171
-he(sa) with-the-fourth(caturthena) indeed(vai) oh(hanta) with-bindu+nāda(bindu+nāda+samanvitam) endowed(samanvitam)
+[he](sa) [fourth](caturthena) [vai](vai) [alas](hanta) [bindu-nada](bindunādasamanvitam)
 
 ## mukta-m0-p47-v1172
-seventeen(saptadaśa) ghaṭikās(ghaṭikā) one-should-meditate(dhyāyet) twenty-six(ṣaḍviṃśati) but(tu) years(vatsarān)
+[seventeen](saptadaśa) [ghatikas](ghaṭikā) [meditate](dhyāyet) [twenty-six](ṣaḍviṃśati) [tu](tu) [years](vatsarān)
 
 ## mukta-m0-p47-v1173
-in-heart+lotus(hṛt+padme) in-circle(maṇḍale) there(tatra) the-knower-of-the-field(kṣetrajñaṃ) one-should-enclose(saṃpuṭet) a-person(naraḥ)
+[heart-lotus](hṛtpadme) [circle](maṇḍale) [there](tatra) [knower-field](kṣetrajñaṃ) [enclose](saṃpuṭennaraḥ)
 
 ## mukta-m0-p47-v1174
-endowed-with-bindu(bindu+yuktaḥ) but(tu) the-wise-one(medhāvī) for-twenty-seven+years(saptaviṃśati+vatsarān)
+[bindu-joined](binduyukto) [tu](tu) [wise](medhāvī) [twenty-seven-years](saptaviṃśativatsarān)
 
 ## mukta-m0-p47-v1175
-ten-thousand(ayutaṃ) two+thousand(dvi+sahasraṃ) but(tu) he(sa) may-live(jīvet) not(na) here(atra) doubt(saṃśayaḥ)
+[ten-thousand](ayutaṃ) [two-thousand](dvisahasraṃ) [tu](tu) [he](sa) [lives](jīvet) [no](nātra) [doubt](saṃśayaḥ)

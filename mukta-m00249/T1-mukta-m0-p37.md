@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[having-performed] (kṛtvā) [indeed] (tu) [according-to-rule] (vidhinā) [bath] (snānaṃ) [body+purification] (deha+śuddhiḥ) [thereafter] (tataḥ) [next] (paraṃ)
+[having-done](kṛtvā) [but](tu) [by-ritual](vidhinā) [bathing](snānaṃ) [body](deha)+[purity](śuddhiḥ) [then](tataḥ) [beyond](paraṃ)
 
 ## mukta-m0-p37-v902
-[one-should-invoke] (āvāhayet) [thereafter] (tataḥ) [earth] (bhūmiṃ) [bath+purification] (snāna+śuddhiḥ) [thereafter] (tataḥ) [next] (paraṃ)
+[one-should-invoke](āvāhayet) [then](tato) [earth](bhūmiṃ) [bathing-purity](snānaśuddhiḥ) [then](tataḥ) [beyond](paraṃ)
 
 ## mukta-m0-p37-v903
-[in-the-armor-mantra] (kavace) [not] (na) [indeed] (eva) [one-should-hesitate] (kuṇṭhya) [then] (atha) [by-that] (tena) [indeed] (eva) [opening] (unmīlanaṃ) [do] (kuru)
+[in-armor](kavace) [not-indeed](naiva) [with-kunthi](kuṇṭhyā) [then](atha) [by-that-very](tenaiva) [unveiling](unmīlanaṃ) [do](kuru)
 
 ## mukta-m0-p37-v904
-[previously+worshipped] (pūrva+vat+arcitaṃ) [flower] (puṣpaṃ) [in-īśa] (īśe) [not] (na) [indeed] (eva) [one-should-discard] (vivarjayet)
+[as-before](pūrvavat) [twice-worshipped](dvayarcitaṃ) [flower](puṣpaṃ) [to-īśa](īśe) [not-indeed](naiva) [abandon](vivarjayet)
 
 ## mukta-m0-p37-v905
-[in-worships] (yajaneṣu) [to-be-employed] (prayoktavyaṃ) [mantra+purification] (maṃtra+śuddhiḥ) [declared] (udāhṛdam)
+[in-sacrifices](yajaneṣu) [to-be-used](prayoktavyaṃ) [mantra-purity](maṃtraśuddhiḥ) [declared](udāhṛdam)
 
 ## mukta-m0-p37-v906
-[teeth+palate+lips] (danta+tālu+oṣṭa) [in-contact] (saṃcāre) [of-the-mantra] (maṃtrasya) [impurity] (aśau) [and] (ca) [from-removal] (nirhaṇāt)
+[tooth-palate-lip](dantatāloṣṭa) [in-movement](saṃcāre) [of-mantra](maṃtrasya) [impurity](aśau) [and](ca) [removal](nirhaṇāt)
 
 ## mukta-m0-p37-v907
-[in-the-pericarp] (karṇikāyāṃ) [likewise] (tathā) [īśāna] (īśānaṃ) [one-should-worship] (pūjayet) [indeed] (tu) [especially] (viśeṣataḥ)
+[in-karṇikā](karṇikāyāṃ) [thus](tathā) [īśāna](aiśānaṃ) [one-should-worship](pūjayet) [indeed](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p37-v908
-[in-the-west] (paścime) [indeed] (tu) [one-should-worship] (yajet) [sadya] (sadyaḥ) [vāmadeva] (vāmadevaṃ) [indeed] (tu) [in-the-north] (saumyake)
+[in-west](paścime) [then](tu) [one-should-sacrifice](yajet) [immediately](sadyaḥ) [vāmadeva](vāmadevaṃ) [then](tu) [in-saumyaka](saumyake)
 
 ## mukta-m0-p37-v909
-[kavaca] (kavacaṃ) [in-the-wind+direction] (vāyu+deśe) [indeed] (tu) [the-head-mantra] (śiraḥ) [indeed] (vai) [in-the-īśāna+region] (īśāna+gocare)
+[armor](kavacaṃ) [in-vāyu-region](vāyudeśe) [tu](tu) [head-īśāna](śirovaiśāna) [in-range](gocare)
 
 ## mukta-m0-p37-v910
-[first+enclosure] (prathama+āvaraṇaṃ) [declared] (proktaṃ) [second+enclosure] (dvitīya+āvaraṇaṃ) [hear] (śṛṇu)
+[first-enclosure](prathamāvaraṇaṃ) [declared](proktaṃ) [second-enclosure](dvitīyāvaraṇaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p37-v911
-[second+enclosure] (dvitīya+āvaraṇaṃ) [declared] (proktaṃ) [third+enclosure] (tṛtīya+āvaraṇaṃ) [hear] (śṛṇu)
+[second-enclosure](dvitīyāvaraṇaṃ) [declared](proktaṃ) [third-enclosure](tṛtīyāvaraṇaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p37-v912
-[gaṇeśa] (gaṇeśaṃ) [in-the-south] (yāmye) [indeed] (tu) [having-worshipped] (saṃpūjya) [guha] (guhaṃ) [indeed] (vai) [in-the-west] (varuṇe) [one-should-worship] (yajet)
+[gaṇeśa](gaṇeśaṃ) [in-south](yāmye) [tu](tu) [having-worshipped](saṃpūjya) [guha](guhaṃ) [vai](vai) [in-varuṇa](varuṇe) [one-should-sacrifice](yajet)
 
 ## mukta-m0-p37-v913
-[in-the-southeast+etc.] (āgneya+ādiṣu) [in-the-corners] (koṇeṣu) [having-worshipped] (pūjayitvā) [according-to+rule] (yathā+vidhi)
+[from-āgneya-etc](āgneyādiṣu) [in-corners](koṇeṣu) [having-worshipped](pūjayitvā) [according-to-ritual](yathāvidhi)
 
 ## mukta-m0-p37-v914
-[indra+etc.+world+guardians] (indra+ādi+loka+pālān) [and] (ca) [in-the-east+etc.] (aindra+ādiṣu) [one-should-place] (prakalpayet)
+[indra-etc-lokapālas](indrādilokapālāṃśca) [in-aindra-etc](aindrādiṣu) [one-should-place](prakalpayet)
 
 ## mukta-m0-p37-v915
-[fourth+enclosure] (caturtha+āvaraṇaṃ) [indeed] (hi) [thus] (evaṃ) [fifth+enclosure] (pañcama+āvaraṇaṃ) [hear] (śṛṇu)
+[fourth-enclosure](caturthāvaraṇaṃ) [indeed](hyevaṃ) [fifth-enclosure](pañcamāvaraṇaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p37-v916
-[seven+mothers] (sapta+mātra) [one-should-place] (nyaset) [in-the-middle] (madhye) [of-the-direction+lords+and-gaṇeśa] (āśā+adhipa+gaṇeśayoḥ)
+[seven-only](saptamātra) [one-should-place-in-middle](nyasenmadhye) [of-āśādhipa-gaṇeśas](āśādhipagaṇeśayoḥ)
 
 ## mukta-m0-p37-v917
-[vārāhī] (vārāhī) [and] (ca) [likewise] (tathā) [indrāṇī] (indrāṇī) [cāmuṇḍī] (cāmuṇḍī) [seven+mothers] (sapta+mātaraḥ)
+[vārāhī](vārāhī) [and](ca) [then](tathā) [indrāṇī](indrāṇī) [cāmuṇḍī](cāmuṇḍī) [seven-mothers](saptamātaraḥ)
 
 ## mukta-m0-p37-v918
-[with-fragrance+flowers+etc.] (gandha+puṣpa+ādinā) [and] (ca) [indeed] (eva) [with-own+name] (sva+nāmnā) [teacher+best] (deśika+uttamaḥ)
+[with-sandal-flower-etc](gandhapuṣpādinā) [ca](ca) [eva](eva) [by-own-name](svanāmā) [excellent-teacher](deśikottamaḥ)
 
 ## mukta-m0-p37-v919
-[worshipped+worshipper+worship+worship+fruits] (pūjya+āpūjaka+pūjya+pūjana+phalān) [by-the-support+form] (ādhāra+mūrtyā-)
+[worshipper-worshipped-worship-fruit](pūjyāpūjakapūjyapūjanaphalān) [support-form](ādhāramūrtyā)
 
 ## mukta-m0-p37-v920
-[inward] (pratyak) [with-measure+abode] (samātrālayā) [*] (*) [with-mudrā+worship+limb+face+hand] (mudrā+arcā+aṅga+mukha+hasta-)
+[every-side](pratyak) [equal-measure-shrine](samātrālayā) [mudarccā-etc](mudarccāṃgamukhahasta)
 
 ## mukta-m0-p37-v921
-[not] (na) [raising] (samunnayañcana) [the-wise-one] (sudhī) [having-consecrated] (saṃskṛtya) [śaṃbhu] (śaṃbhuṃ) [one-should-worship] (yajet)
+[not](na) [elevating](samunnayañcana) [wise](sudhī) [having-purified](saṃskṛtya) [śambhu](śaṃbhuṃ) [one-should-sacrifice](yajet)
 
 ## mukta-m0-p37-v922
-[with-water] (jalena) [indeed] (eva) [endowed] (samāyuktaṃ) [foot-water] (pādyam) [supreme] (uttamam) [is-called] (ucyate)
+[by-water-indeed](jalenaiva) [joined](samāyuktaṃ) [best-pādya](pādyamuttamam) [is-said](ucyate)
 
 ## mukta-m0-p37-v923
-[with-water] (udakena) [endowed] (samāyuktaṃ) [middle] (madhyamaṃ) [foot-water] (pādyam) [is-called] (ucyate)
+[by-water](udakena) [joined](samāyuktaṃ) [middle-pādya](madhyamaṃpādyam) [is-said](ucyate)
 
 ## mukta-m0-p37-v924
-[each] (pratyekaṃ) [dhanaraṇa] (dhanaraṇaṃ) [best] (śreṣṭhaṃ) [its+half] (tasya+ardhaṃ) [middle] (madhyamaṃ) [should-be] (bhavet)
+[for-each](pratyekaṃ) [wealth-offering](dhanaraṇaṃ) [best](śreṣṭhaṃ) [its-half](tasyārdhaṃ) [middle](madhyamaṃ) [becomes](bhavet)
 
 ## mukta-m0-p37-v925
-[uśīra+jāti+camphor] (uśīra+jāti+karpūra) [tudī+tī+clove] (tudī+tī+pūlavaṃgakam)
+[ushira-jāti](uśīrajāti) [camphor](karpūra) [tudīti](tudītī) [pūlavaṃgakam](pūlavaṃgakam)

@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p131",
  "verse": 3275,
- "question": "In what manner must the pair of offerings, fire-oblation, and conclusion be performed?",
+ "question": "Is the prescribed morning repetition count one thousand eight?",
  "premises": [
-  "A pair of offerings is prescribed as a ritual element.",
-  "A fire-oblation is prescribed as a ritual element.",
-  "A concluding act is prescribed to complete the rite.",
-  "The manner of performance follows the previously described procedure."
+  "morning chanting is prescribed",
+  "the count is one thousand eight",
+  "the mantra is to be chanted"
  ],
- "inference": "The practitioner should perform the pair of offerings, the fire-oblation, and the conclusion in the same manner as before.",
- "uncertainties": [],
- "plain_english": "One should perform the pair of offerings, the fire-oblation, and the concluding act just as before."
+ "inference": "The verse prescribes chanting one thousand eight repetitions in the morning.",
+ "uncertainties": [
+  "exact syntactic role of aṣṭottarasahasrakam remains contextual",
+  "whether the count modifies japtavyam directly is inferred"
+ ],
+ "plain_english": "Indeed, in the morning, one thousand eight are to be chanted."
 }

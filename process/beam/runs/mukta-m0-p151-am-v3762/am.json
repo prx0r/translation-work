@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p151",
  "verse": 3762,
- "question": "What alternative material is equivalent to a pearl rosary for practice?",
+ "question": "Which ages and conditions are enumerated?",
  "premises": [
-  "A pearl rosary is established",
-  "A crystal-made one is compared to it",
-  "The comparison implies equivalence"
+  "old are named",
+  "children are named",
+  "mature and youth-proud are named"
  ],
- "inference": "A crystal rosary is equivalent in use to a pearl rosary",
- "uncertainties": [],
- "plain_english": "Just as one made of pearls, so also one made of crystal."
+ "inference": "Old, children, mature, and youth-proud are enumerated.",
+ "uncertainties": [
+  "action unspecified"
+ ],
+ "plain_english": "Old, children, mature, and those proud of youth."
 }

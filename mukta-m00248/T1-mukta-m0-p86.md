@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p86-v2126
-of-ba(bakāra)(bakārasya) three-times-to-be-done(tri+kartavyam) firmly(dṛḍham) properly(samyak) [one-should]-stretch(pratārayet)
+[of-ba-letter](bakārasya) [three-things-to-be-done](trikartavyaṃ) [firm](dṛḍhaṃ) [properly-deceive](samyakpratārayet)
 
 ## mukta-m0-p86-v2127
-of-those-two(tayoḥ) indeed(vai) earring(kuṇḍalam) properly(samyak) likewise(tathā) also(eva) upper(uttaram) indeed(eva) hi(hi)
+[of-those-two](tayorvai) [earring](kuṇḍalaṃ) [properly](samyak) [and-so-also-upper-indeed](tathaivottarameva) [hi](hi)
 
 ## mukta-m0-p86-v2128
-from-tip(agrāt) and(ca) four-fingers(catur+aṅgulyāt) bound(baddham) for-Kṛṣṇa(kṛṣṇāya) O-six-faced-one(ṣaṇmukha)
+[from-tip](agrācca) [four-fingers](caturaṅgulyāt) [bound](baddhaṃ) [to-kṛṣṇa](kṛṣṇāya) [six-faced](ṣaṇmukha)
 
 ## mukta-m0-p86-v2129
-possible(śakyam) with-rabbit(sāśam) of-ba(bakārasya) properly-bound(samyak+baddhvā) indeed(tu) wise-one(buddhimān)
+[possible](śakyaṃ) [with-arrow](sāśaṃ) [of-ba-letter](bakārasya) [properly-bound](samyagbaddhvā) [tu](tu) [wise](buddhimān)
 
 ## mukta-m0-p86-v2130
-five-spans-in-extent(pañca+prādeśa+vistāram) very-firm(su+dṛḍham) round(vartulam) [it-should]-be(bhavet)
+[five-hand-spans](pañcaprādeśavistāraṃ) [very-firm](sudṛḍhaṃ) [round](vartulaṃ) [becomes](bhavet)
 
 ## mukta-m0-p86-v2131
-by-three-hundred(tri+śatena) by-fruits(phalena) indeed(eva) each-support(eka+eka+ādhāram) is-called(ucyate)
+[by-three-hundred](triśatena) [fruit-indeed](phalenaiva) [one-by-one-support](ekaikādhāram) [is-said](ucyate)
 
 ## mukta-m0-p86-v2132
-balance(tulā) measure(pratyayaḥ) thus(evam) [it-should]-be(syāt) in-balance-weight(tulā+bhāre) indeed(tu) auspicious(śobhanam)
+[balance](tulā) [proof](pratyaya) [thus](evaṃ) [syāt](syāt) [balance-weight](tulābhāre) [tu](tu) [auspicious](śobhanam)
 
 ## mukta-m0-p86-v2133
-first(pūrvam) having-placed(saṃveśya) mantra-knower(mantra+jñaḥ) with-prāsāda-mantra(prāsādena) O-six-faced-one(ṣaḍānana)
+[first](pūrvaṃ) [having-seated](saṃveśya) [mantra-knower](mantrajñaḥ) [by-shrine](prāsādena) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p86-v2134
-jāmbūnada-gold(jāmbūnadam) śātakumbha-gold(śātakumbham) chariot-gold(ratha+kāñcanam) indeed(eva) and(ca)
+[jāmbūnada](jāmbūnadaṃ) [śātakumbha](śātakumbhaṃ) [chariot-gold-indeed](rathakāñcanameva) [ca](ca)
 
 ## mukta-m0-p86-v2135
-gold(suvarṇam) made-of-gold(kāñcanamayam) in-gold-form(kurvātmake) indeed(tu) [one-should]-place(vinyaset)
+[gold](suvarṇaṃ) [golden](kāñcanamayaṃ) [in-maker-form](kurvātmake) [tuṃ](tuṃ) [place](vinyaset)
 
 ## mukta-m0-p86-v2136
-ten-niṣkas(daśa+niṣkam) and(ca) one-niṣka(niṣkam) or(vā) in-gold(suvarṇe) more(adhikam) [it-should]-be(bhavet)
+[ten-niṣka](daśaniṣkaṃ) [ca](ca) [niṣka](niṣkaṃ) [vā](vā) [in-gold](suvarṇe) [ca](ca) [more](adhikaṃ) [becomes](bhavet)
 
 ## mukta-m0-p86-v2137
-middle(madhyam) with-fifty-more(pañcāśa+adhikam) lowest(kanyasam) ten-niṣkas(daśa+niṣkakam)
+[middle](madhyaṃ) [fifty-plus](pañcāśādhikaṃ) [smaller](kanyasaṃ) [ten-niṣka](daśaniṣkakam)
 
 ## mukta-m0-p86-v2138
-in-east(prācyām) and(ca) indeed(eva) indeed(tu) in-southeast(āgneyyām) by-Ṛg-veda-priest(bahu+vṛcau) oblation(homam) indeed(eva) indeed(tu)
+[eastern](prācyāṃ) [ca](ca) [eva](eva) [tu](tu) [āgneyī](āgneyyāṃ) [bahuvṛcau](bahuvṛcau) [homa-indeed](homameva) [tu](tu)
 
 ## mukta-m0-p86-v2139
-in-west(paścime) and(ca) indeed(eva) in-northwest(vāyavye) by-Sāma-veda-priest(sāmagena) oblation(homam) [one-should]-begin(ārabhet)
+[western](paścime) [ca](ca) [eva](eva) [vāyavya](vāyavye) [sāmagen](sāmagena) [homa-begin](homamārabhet)
 
 ## mukta-m0-p86-v2140
-preceptor(deśikaḥ) in-middle(madhyame) [should]-offer(juhuyāt) of-Kubera(dhanadasya) indeed(eva) indeed(tu) to-east(pūrvataḥ)
+[initiator](deśiko) [middle](madhyame) [offers](juhuyāt) [of-dhanada-indeed](dhanadasyaiva) [tu](tu) [eastern](pūrvataḥ)
 
 ## mukta-m0-p86-v2141
-Viṣṇu-hymn(viṣṇu+sūktam) Rudra-hymn(rudra+sūktam) Brahma-jajñāna(brahma+jajñānam) indeed(eva) and(ca)
+[viṣṇu-sūkta](viṣṇusūktaṃ) [rudra-sūkta](rudrasūktaṃ) [brahma-born-knowledge-indeed](brahmajajñānameva) [ca](ca)
 
 ## mukta-m0-p86-v2142
-Tryambaka(triyambakam) Haṃsa-śuciḥ(haṃsa+śuciḥ) Tripada(tripadam) Jātavedas(jātavedasam)
+[triyambaka](triyambakaṃ) [haṃsa-śuci](haṃsaśuciḥ) [tripada](tripadaṃ) [jātavedasam](jātavedasam)
 
 ## mukta-m0-p86-v2143
-Brahma-sāman(brahma+sāma) Jyeṣṭha-sāman(jyeṣṭha+sāma) Bṛhat-and-Rathantara(bṛhat+rathantaram) indeed(eva) and(ca)
+[brahma-sāma](brahmasāma) [jyeṣṭha-sāma](jyeṣṭhasāma) [bṛhat-rathantara-indeed](bṛhadrathantarameva) [ca](ca)
 
 ## mukta-m0-p86-v2144
-outside(bahiḥ) Pavamāna(pavamānam) [one-should]-offer(juhuyāt) Viṣṇu-sāman(viṣṇu+sāma) and(ca) [one-should]-offer(homayet)
+[outside](bahiḥ) [pavamāna](pavamānaṃ) [offers](juhuyāt) [viṣṇu-sāma](viṣṇusāma) [ca](ca) [homayet](homayet)
 
 ## mukta-m0-p86-v2145
-Nārāyaṇa(nārāyaṇam) Brahma-śilā(brahma+śilām) Atharva-śiras(atharva+śirasaḥ) likewise(tathā)
+[nārāyaṇa](nārāyaṇaṃ) [brahma-śilā](brahmaśilāṃ) [atharva-śirasas-tathā](atharvaśirasastathā)
 
 ## mukta-m0-p86-v2146
-with-Pippalāda(pippalādaiḥ) Bārhaspatya(bārhaspatyam) Āṅgirasa(āṅgīrasam) Saura-and-Vaiṣṇava(saura+vaiṣṇavam)
+[pippalāda](pippalādair) [bārhaspatya](bārhaspatyaṃ) [āṅgīrasa](āṅgīrasaṃ) [saura-vaiṣṇava](sauravaiṣṇavam)
 
 ## mukta-m0-p86-v2147
-of-priests(ṛtvijānām) and(ca) of-all(sarveṣām) vyāhṛti(vyāhṛtim) and(ca) hundred(śatam) [one-should]-offer(hunet)
+[of-ṛtvijas](ṛtvijānāṃ) [ca](ca) [all](sarveṣāṃ) [vyāhṛti](vyāhṛtiṃ) [ca](ca) [hundred](śataṃ) [hunet](hunet)
 
 ## mukta-m0-p86-v2148
-each(aṣṭa+sāhasram) eight-thousand(pratyekam) fuel-sticks(samidhaḥ) separately(pṛthak) indeed(eva) indeed(tu)
+[each](pratyekam) [eight-thousand](aṣṭasāhasraṃ) [samidh](samidhaḥ) [separately-indeed](pṛthageva) [tu](tu)
 
 ## mukta-m0-p86-v2149
-bilva(bilva) udumbara(udumbara) śāmī(śāmī) and(ca) apāmārga(apāmārgam) is-declared(udāhṛtam)
+[bilva-udumbara-śamī](bilvodumbaraśāmī) [ca](ca) [apāmārga](apāmārgam) [udāhṛtam](udāhṛtam)
 
 ## mukta-m0-p86-v2150
-five-ghaṭikās(pañca+ghaṭikā) three-ghaṭikās(tri+ghaṭikā) two-ghaṭikās(dvi+ghaṭikā) or(vā) also(api) [one-should]-hold(dhārayet)
+[five-ghaṭikā](pañcaghaṭikā) [three-ghaṭikā](trighaṭikā) [two-ghaṭikā](dvighaṭikā) [or](vāpi) [dhārayet](dhārayet)

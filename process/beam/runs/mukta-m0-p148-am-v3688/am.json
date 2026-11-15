@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3688,
- "question": "What epithets declare the terrifying goddess as great knowledge of great power?",
+ "question": "How are downward-facing lotuses arranged from the root?",
  "premises": [
-  "This verse lists epithets of a goddess.",
-  "She is called terrifying and called goddess.",
-  "She is named great knowledge and of great power."
+  "downward-facing lotuses are named",
+  "from root etc is named",
+  "in order is named"
  ],
- "inference": "The terrifying goddess is declared great knowledge, great in power.",
- "uncertainties": [],
- "plain_english": "She is the terrifying goddess, the great knowledge, great in power."
+ "inference": "downward-facing lotuses are arranged in order from the root",
+ "uncertainties": [
+  "lotus count"
+ ],
+ "plain_english": "Downward-facing lotuses are arranged in order from the root."
 }

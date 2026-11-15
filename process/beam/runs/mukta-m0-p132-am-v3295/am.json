@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3295,
- "question": "What alternative bodily bends are allowed for the image in this prescription?",
+ "question": "When may chanting be used in dispute or family practice?",
  "premises": [
-  "A slight bend is mentioned.",
-  "An even bend is also named.",
-  "The options are presented as alternatives."
+  "dispute is a context",
+  "chanting time is a context",
+  "family practice is a context"
  ],
- "inference": "The image may be fashioned with a slight bend or with an even bend.",
- "uncertainties": [],
- "plain_english": "It is known as having a slight bend, or else an even bend."
+ "inference": "Chanting may be used in dispute, at chanting time, or in family practice.",
+ "uncertainties": [
+  "exact application not specified"
+ ],
+ "plain_english": "In dispute, at chanting time, or in family practice, whatever applies."
 }

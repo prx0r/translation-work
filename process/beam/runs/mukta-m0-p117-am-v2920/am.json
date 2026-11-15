@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p117",
  "verse": 2920,
- "question": "What further designation is applied to the heart garland?",
+ "question": "Do crestless mantras ever succeed?",
  "premises": [
-  "This is designated the heart garland",
-  "Another designation is also given",
-  "The further designation is shoulder garland"
+  "Crestless mantras are named",
+  "They do not succeed ever"
  ],
- "inference": "This heart garland is also called the shoulder garland.",
- "uncertainties": [],
- "plain_english": "This should be the heart garland, and it is likewise called the shoulder garland."
+ "inference": "Crestless mantras never succeed.",
+ "uncertainties": [
+  "Whether 'crest' is essential in all cases"
+ ],
+ "plain_english": "Crestless mantras never succeed."
 }

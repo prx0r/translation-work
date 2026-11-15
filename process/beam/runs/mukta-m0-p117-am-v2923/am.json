@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p117",
  "verse": 2923,
- "question": "How should the deity be fashioned in relation to the described comfortable seat?",
+ "question": "What cannot be accomplished by binding alone?",
  "premises": [
-  "The comfortable seat has been described",
-  "The deity is to be fashioned accordingly",
-  "The prescription follows the prior description"
+  "Binding alone is named",
+  "Nothing remains unaccomplished by it"
  ],
- "inference": "The deity should be fashioned in the manner prescribed for the comfortable seat.",
- "uncertainties": [],
- "plain_english": "As the comfortable seat has been described, so the deity should be fashioned."
+ "inference": "By binding alone, there is nothing that cannot be accomplished.",
+ "uncertainties": [
+  "Exact scope of 'that'"
+ ],
+ "plain_english": "By binding alone, there is nothing that it cannot accomplish."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3687,
- "question": "What fame is declared for the messenger of Yama worshipped by gods and demons?",
+ "question": "Is there any second path in the body for the supreme?",
  "premises": [
-  "This verse declares her fame and status.",
-  "She is known as the messenger of Yama.",
-  "She is worshipped by gods and demons."
+  "no other path is named",
+  "second is named",
+  "in body is named",
+  "supreme and is named"
  ],
- "inference": "She is famed as Yama’s messenger and is worshipped by gods and demons.",
- "uncertainties": [],
- "plain_english": "She is famed as the messenger of Yama, worshipped by gods and demons."
+ "inference": "there is no second path in the body for the supreme",
+ "uncertainties": [
+  "supreme referent"
+ ],
+ "plain_english": "There is no other second path in the body for the supreme."
 }

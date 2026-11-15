@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p141",
  "verse": 3503,
- "question": "What supreme identity is attributed to the goddess being saluted?",
+ "question": "When and how many times is the mantra recited?",
  "premises": [
-  "The speaker performs an act of bowing.",
-  "The goddess is called sovereign of all.",
-  "She is identified as Mahashri Siddhamatrika."
+  "one thousand recitations are made",
+  "recitation occurs at night",
+  "it occurs on sun day"
  ],
- "inference": "The saluted goddess is affirmed as the supreme sovereign and as Mahashri Siddhamatrika.",
- "uncertainties": [],
- "plain_english": "I bow to the goddess, the sovereign of all, the great and auspicious Siddhamatrika."
+ "inference": "The mantra is recited one thousand times at night on Sunday.",
+ "uncertainties": [
+  "the mantra itself is not named here"
+ ],
+ "plain_english": "Having recited one thousand times at night on Sunday."
 }

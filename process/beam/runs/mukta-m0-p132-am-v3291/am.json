@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3291,
- "question": "Which chapter concerning the half-Hari image concludes with this colophon statement?",
+ "question": "For how long should one hundred eight be chanted?",
  "premises": [
-  "The verse marks a textual conclusion.",
-  "It names the chapter on the characteristics of the half-Hari image.",
-  "It gives the chapter’s ordinal position as seventy-sixth."
+  "one hundred eight is to be chanted",
+  "the count lasts as long as life",
+  "duration is lifelong"
  ],
- "inference": "This is the colophon of the seventy-sixth chapter on the characteristics of the half-Hari image.",
- "uncertainties": [],
- "plain_english": "Thus ends the seventy-sixth chapter, on the characteristics of the half-Hari image, in the Aṃśumān of Kāśyapa."
+ "inference": "One chants one hundred eight for as long as one lives.",
+ "uncertainties": [
+  "daily versus total count not specified"
+ ],
+ "plain_english": "One hundred eight are to be chanted for as long as life lasts."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[o-god](deva) [be-gracious](prasīda) [of-you](bhavataḥ) [to-the-two-afflicted-by-worldly-suffering](bhava+duḥkhitābhyām)
+[god](deva) [be-gracious](prasīda) [of-yours](bhavato) [by-the-sorrowful-ones](bhavaduḥkhitābhyām)
 
 ## mukta-m0-p93-v2302
-[obeisance](namaḥ) [obeisance](namaḥ) [to-the-cause-of-causes](kāraṇa+kāraṇāya) [to-the-soul-of-all](sarva+ātmane) [to-the-bestower-of-auspiciousness-on-all](sarva+śivaṃkarāya)
+[bow](namo) [bow](namaḥ) [to-cause-of-causes](kāraṇakāraṇāya) [to-all-soul](sarvātmane) [to-all-auspicious-maker](sarvaśivaṃkarāya)
 
 ## mukta-m0-p93-v2303
-[of-the-path-of-śiva](śiva+mārga) [to-the-guide](praṇetāram) [I-bow](praṇamāmi) [to-sadāśiva](sadāśivam)
+[to-Śiva-path](śivamārga) [guide](praṇetāraṃ) [I-bow](praṇamāmi) [Sadāśiva](sadāśivam)
 
 ## mukta-m0-p93-v2304
-[to-the-lord-of-the-universe](viśva+viśveśvaram) [to-the-god](devam) [to-śaṃkara](śaṃkaram) [I-bow](praṇamāmi) [I](aham)
+[universe-lord](viśvaviśveśvaraṃ) [god](devaṃ) [Śaṃkara](śaṃkaraṃ) [I-bow](praṇamāmyaham)
 
 ## mukta-m0-p93-v2305
-[to-the-firm](sthiram) [abiding-in-the-state-of-yoga](āsthāna+yoga+stham) [to-sthāṇu](sthāṇum) [to-īśa](īśam) [I-bow](namāmi) [I](aham)
+[firm-seat-yoga-seated](sthiramāsthānayogasthaṃ) [pillar-fish](sthāṇumīnaṃ) [I-bow](namāmyaham)
 
 ## mukta-m0-p93-v2306
-[to-the-remover-of-all-sins](sarva+pāpa+haram) [to-the-lord](nātham) [I-bow](namāmi) [to-the-remover-of-distress](ārti+haram) [to-the-supreme](param)
+[all-sin-remover](sarvapāpaharaṃ) [lord](nāthaṃ) [I-bow-to-suffering-remover](namāmyārtiharaṃ) [supreme](param)
 
 ## mukta-m0-p93-v2307
-[to-the-lord](īśānam) [of-all-beings](sarva+bhūtānām) [to-īśāna](īśānam) [I-bow](praṇamāmi) [I](aham)
+[lord](īśānaṃ) [of-all-beings](sarvabhūtānāṃ) [lord](īśānaṃ) [I-bow](praṇamāmyaham)
 
 ## mukta-m0-p93-v2308
-[the-great](mahat) [two](dvau) [having-fallen-into-suffering](duḥkham+āpannau) [having-bowed-down](praṇipatya) [again-and-again](muhuḥ+muhuḥ)
+[great-two](mahaddvau) [sorrow-afflicted](duḥkhamāpannau) [bowing](praṇipatya) [again-and-again](muhurmuhuḥ)
 
 ## mukta-m0-p93-v2309
-[to-the-three-eyed](tri+akṣam) [to-the-four-armed](catur+bhujam) [to-the-god](devam) [having-the-crescent-moon-as-crest](candra+ardha+kṛta+śekharam)
+[three-eyed](tryakṣaṃ) [four-armed](caturbhujaṃ) [god](devaṃ) [half-moon-crest](candrārdhakṛtaśekharam)
 
 ## mukta-m0-p93-v2310
-[with-ṛg-yajus-sāman-atharvan](ṛg+yajus+sāman+atharvaiḥ) [and](ca) [having-seen](dṛṣṭvā) [the-god](devam) [maheśvara](maheśvaram)
+[with-Ṛg-Yajus-Sāma-Atharva](ṛgyajussāmātharvaiśca) [seeing](dṛṣṭvā) [god](devaṃ) [Maheśvara](maheśvaram)
 
 ## mukta-m0-p93-v2311
-[from-brahmā-to-a-blade-of-grass](brahmā+ādi+stamba+paryantam) [thus](evam) [indeed](hi) [in-existence](sthityā) [o-janārdana](janārdana)
+[from-Brahmā-to-pillar-end](brahmādistambaparyantaṃ) [stability-thus](sthityaitvaṃ) [indeed](hi) [Janārdana](janārdana)
 
 ## mukta-m0-p93-v2312
-[by-whom](kena) [all](sarvam) [this](idam) [in-the-world](loke) [great](mahat) [being](bhūtam) [o-maheśvara](maheśvaram)
+[by-whom](kena) [all-this](sarvamidaṃ) [in-world](loke) [great-being](mahadbhūtaṃ) [Maheśvara](maheśvaram)
 
 ## mukta-m0-p93-v2313
-[by-knowledge](jñānena) [variously](nānā) [supreme](paramam) [knowledge](jñānam) [this](eṣaḥ)
+[by-knowledge](jñānena) [various](nānā) [supreme](paramaṃ) [knowledge](jñāna) [this](eṣaḥ)
 
 ## mukta-m0-p93-v2314
-[moon-and-sun](candra+ādityau) [joined-with-hosts-of-planets](graha+gaṇa+yutau) [wind](vāyuḥ) [fire](agniḥ) [directions](diśaḥ) [and](ca)
+[moon-sun](candrādityau) [planets-included](grahagaṇayutau) [wind-fire-directions](vāyuragnirdiśaśca)
 
 ## mukta-m0-p93-v2315
-[thus](eva) [*](*) [*](*) [*](*) [*](*) [having-gone-to-dissolution](layam+upagatāḥ) [by-whom](yena) [therefore](tasmāt) [indeed](hi) [liṅga](liṅgam)
+[thus](eva) [dissolution-attained](layamupagatā) [by-whom](yena) [therefore-indeed](tasmāddhi) [liṅga](liṅgam)
 
 ## mukta-m0-p93-v2316
-[gods](devāḥ) [daityas-and-rākṣasas](daitya+ārākṣasāḥ) [yātudhānas](yātudhānāḥ) [with-all-gods](sarvaiḥ+devaiḥ) [dānavas](dānavāḥ) [mothers](mātaraḥ) [and](ca)
+[gods](devā) [demons-rākṣasas](daityārākṣasā) [yātudhānas](yātudhānāḥ) [with-all-gods](sarvairdevaiḥ) [dānavas](dānavā) [mothers](mātaraśca)
 
 ## mukta-m0-p93-v2317
-[islands-and-others](dvīpa+ādyāḥ) [oceans](sāgarāḥ) [chiefs-of-serpents](pannaga+indrāḥ) [play](līlāḥ) [in-that](tasmin) [by-whom](yena) [therefore](tasmāt) [indeed](hi) [liṅga](liṅgam)
+[islands-etc](dvīpādyāḥ) [oceans](sāgarāḥ) [serpent-lords](pannagendrāḥ) [play-in-that](līlāstasmin) [by-whom](yena) [therefore-indeed](tasmāddhi) [liṅga](liṅgam)
 
 ## mukta-m0-p93-v2318
-[this](etat) [indeed](hi) [liṅga](liṅgam) [first](prathamam) [third](tṛtīyam) [created](sṛṣṭam) [formerly](pūrvam) [for-the-sake-of-grace](anugraha+artham)
+[this-liṅga](etaddhiliṅgaṃ) [first](prathamaṃ) [third](tṛtīyaṃ) [created](sṛṣṭaṃ) [formerly-for-grace](pūrvamanugrahārtham)
 
 ## mukta-m0-p93-v2319
-[this](etat) [indeed](hi) [liṅga](liṅgam) [supreme](paramam) [pure](pavitram) [with-the-whole-self](sarva+ātmanā) [always](nityam) [here](iha) [to-be-worshipped](arcanīyam)
+[this-indeed-liṅga](etaddhi liṅgaṃ) [supreme](paramaṃ) [pure](pavitraṃ) [with-all-soul](sarvātmanā) [always-here-worshipful](nityamihārcanīyam)
 
 ## mukta-m0-p93-v2320
-[devoted-to-fasting](upavāsa+ratāḥ) [and](ca) [indeed](eva) [with-bilva-leaves-lotuses-and-others](bilva+patra+utpala+ādibhiḥ)
+[fasting-devoted](upavāsaratāścaiva) [with-bilva-leaves-lotuses-etc](bilvapatrotpalādibhiḥ)
 
 ## mukta-m0-p93-v2321
-[they](te) [trident-in-hand](śūla+hastāḥ) [foremost](prathamāḥ) [my](madīyāḥ) [become](bhavanti) [*](*) [*](*) [*](*) [o-rāma](rāmi) [with-liberated-ones](muktābhiḥ)
+[they](te) [trident-handed](śūlahastā) [first](prathamā) [mine](madīyā) [become](bhavanti) [Rāmi](rāmi) [with-pearls](muktābhiḥ)
 
 ## mukta-m0-p93-v2322
-[three-eyed](tri+akṣa) [with-trident-and-sword-in-hand](śūla+asi+hastāḥ) [gone-to-my-realm](mama+viṣaya+gatāḥ) [they](te) [lords](gaṃteśāḥ) [become](bhavanti)
+[three-eyed](tryakṣa) [trident-sword-handed](śūlāsihastā) [mine](mama) [realm-gone](viṣayagatāste) [Gaṃteśas](gaṃteśā) [become](bhavanti)
 
 ## mukta-m0-p93-v2323
-[on-the-right](dakṣiṇe) [dissolves](līyate) [brahmā](brahmā) [and](ca) [on-the-left](vāmataḥ) [janārdana](janārdanaḥ)
+[on-right](dakṣiṇe) [dissolves](līyate) [Brahmā](brahmā) [on-left](vāmataśca) [Janārdana](janārdanaḥ)
 
 ## mukta-m0-p93-v2324
-[directions](diśaḥ) [but](tu) [dissolved-in-the-ears](śrotrayoḥ+līnāḥ) [in-the-heart](hṛdaye) [gāyatrī](gāyatrī) [deities](devatāḥ)
+[directions](diśastu) [in-ears-dissolved](śrotrayorlīnāḥ) [in-heart](hṛdaye) [Gāyatrī](gāyatrī) [deities](devatāḥ)
 
 ## mukta-m0-p93-v2325
-[on-the-forehead](lalāṭe) [bhadrakālī](bhadrakālī) [but](tu) [three](tri) [*](*) [*](*) [earth](bhūmiḥ) [dissolves](līyate)
+[on-forehead](lalāṭe) [Bhadrakālī](bhadrakālī) [indeed](tu) [earth-dissolves](bhūmirlīyate)

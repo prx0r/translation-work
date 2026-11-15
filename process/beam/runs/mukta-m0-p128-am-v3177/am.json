@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3177,
- "question": "How should the left and right feet be positioned in this form?",
+ "question": "How should the deity be meditated upon in this rite?",
  "premises": [
-  "The left foot is described as well placed.",
-  "The right foot is prescribed to be bent."
+  "meditation is directed to deity",
+  "upper form is specified"
  ],
- "inference": "The iconographic form requires a firmly placed left foot and a bent right foot.",
- "uncertainties": [],
- "plain_english": "The left foot should be firmly placed, but the right foot should be bent."
+ "inference": "One meditates on the deity in the corresponding upper form.",
+ "uncertainties": [
+  "compound segmentation not expanded"
+ ],
+ "plain_english": "Meditate on the deity likewise in that upper form."
 }

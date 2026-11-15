@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3450,
- "question": "Which stage of enclosure worship is prescribed after the sixth in this ritual sequence?",
+ "question": "Should the inscribed charm be worn with the left hand at throat or armpit?",
  "premises": [
-  "The preceding context names the worship of the fifth enclosure.",
-  "The immediately preceding context names the worship of the sixth enclosure.",
-  "Ritual sequences in this text proceed through ordered enclosures."
+  "The charm is worn with the left hand.",
+  "The wearing place is throat or armpit."
  ],
- "inference": "The next prescribed stage in the sequence is the worship of the seventh enclosure.",
- "uncertainties": [],
- "plain_english": "Worship of the seventh enclosure."
+ "inference": "The practitioner should wear the inscribed charm with the left hand, placing it at either the throat or the armpit.",
+ "uncertainties": [
+  "The exact object being worn is supplied by the preceding context.",
+  "Whether both placements are equally permitted or contextually distinguished is not stated."
+ ],
+ "plain_english": "It should be worn with the left hand, at the throat or the armpit."
 }

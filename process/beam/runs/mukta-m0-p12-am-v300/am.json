@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 300,
- "question": "At which locations should threads be dropped in the yantra?",
+ "question": "Should one perform the outer rite after having performed the inner rite?",
  "premises": [
-  "Threads are dropped at junctions.",
-  "The junctions are specified there.",
-  "The act is prescriptive."
+  "inner rite is performed first",
+  "outer rite follows it",
+  "performance is prescribed"
  ],
- "inference": "The verse prescribes dropping threads at the junctions.",
+ "inference": "The verse prescribes performing the outer rite after the inner rite.",
  "uncertainties": [
-  "Exact yantra context inferred from preceding verses."
+  "exact ritual sequence beyond the verse is not specified"
  ],
- "plain_english": "There, at the junctions, one should drop the threads."
+ "plain_english": "Having performed the inner rite, one should perform the outer rite."
 }

@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p20",
  "verse": 500,
- "question": "What preparatory physical and mental condition qualifies a worshipper to receive the prescribed ritual procedure?",
+ "question": "What is the ordered sequence of ritual elements directed toward Paśupati after the mudrās?",
  "premises": [
-  "The worshipper must have completed ritual bathing.",
-  "The worshipper must be ritually pure.",
-  "The worshipper must have a restrained mind.",
-  "The worshipper must wear two washed garments."
+  "poison and kūrca are named",
+  "then points to Paśupati",
+  "after-that closes the sequence"
  ],
- "inference": "A worshipper who fulfills these bodily and mental conditions is properly prepared for the prescribed worship.",
- "uncertainties": [],
- "plain_english": "Having bathed, pure, with a restrained mind, and wearing two washed garments."
+ "inference": "the verse prescribes poison then kūrca then offering to Paśupati thereafter",
+ "uncertainties": [
+  "exact ritual function of kūrca unresolved",
+  "whether viṣaṃ is literal or symbolic unresolved"
+ ],
+ "plain_english": "Poison, then kūrca, then to Paśupati, and after that."
 }

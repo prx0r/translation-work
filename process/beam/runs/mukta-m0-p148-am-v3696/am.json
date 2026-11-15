@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3696,
- "question": "What places are named together as battle, royal house, among enemies, and great forest?",
+ "question": "Which qualities are named among the six?",
  "premises": [
-  "This verse lists places or situations.",
-  "It names battle, royal house, among enemies, and great forest.",
-  "These are presented as locations of concern."
+  "sharpness is named",
+  "health is named",
+  "non-dejection is named",
+  "and is named"
  ],
- "inference": "The verse names battle, the royal house, the midst of enemies, and the great forest.",
- "uncertainties": [],
- "plain_english": "In battle, in the royal house, among enemies, and in the great forest."
+ "inference": "sharpness, health, and non-dejection are among them",
+ "uncertainties": [
+  "remaining three"
+ ],
+ "plain_english": "Sharpness, health, and non-dejection."
 }

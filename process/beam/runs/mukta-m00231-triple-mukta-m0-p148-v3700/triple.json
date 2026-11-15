@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "vicintya",
+     "gloss": "considering",
+     "grounds": "root vicint (think) with gerund ending -ya; indeclinable participle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthiracittena",
+     "gloss": "with-steady-mind",
+     "grounds": "compound sthira-citta (steady-mind) in instrumental case",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "adhiṣṭhānaṃ",
+     "gloss": "support",
+     "grounds": "noun adhiṣṭhāna (support/base) in accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prabhedayet",
+     "gloss": "break-open",
+     "grounds": "causative prabhedaya with optative ending -et; break open",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What should the practitioner do after visualizing the support with a steady mind?",
+   "premises": [
+    "steady mind enables visualization",
+    "support is to be broken open",
+    "ritual act follows contemplation"
+   ],
+   "inference": "The practitioner contemplates the support steadily, then breaks it open.",
+   "uncertainties": [
+    "exact referent of support unclear from this verse alone"
+   ],
+   "plain_english": "Having considered with a steady mind, one should break open the support."
+  }
+ ]
+}

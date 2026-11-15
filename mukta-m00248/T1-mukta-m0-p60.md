@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-immovable(sthāvaraṃ) moving(jaṅgamaṃ) and(ca) indeed(eva) artificial(kṛttimaṃ) doubt+destroying(vimata+āśamam)
+[immovable](sthāvaraṃ) [movable](jaṅgamaṃ) [and](ca) [indeed](eva) [artificial](kṛttimaṃ) [vimata-aśamam](vimatāśamam)
 
 ## mukta-m0-p60-v1477
-sound+touch(śabda+sparśaṃ) and(ca) form(rūpaṃ) and(ca) taste(rasaṃ) and(ca) indeed(eva) four+qualities(catur+guṇam)
+[sound](śabdasparśaṃ) [touch](sparśaṃ) [form](rūpaṃ) [taste](rasaṃ) [and-indeed](caiva) [fourfold](caturguṇam)
 
 ## mukta-m0-p60-v1478
-fiery(āgneyaṃ) circle(maṇḍalaṃ) one-should-meditate(dhyāyet) triangle(trikoṇaṃ) with-svastikas(svastikaiḥ) endowed(yutam)
+[fiery](āgneyaṃ) [circle](maṇḍalaṃ) [meditate](dhyāyet) [triangular](trikoṇaṃ) [with-swastikas](svastikairyutam)
 
 ## mukta-m0-p60-v1479
-in-the-sixth(ṣaṣṭame) with-ten+joined(daśa+saṃyuktaṃ) with-bindu(bindu+yuktaṃ) O-six-faced-one(ṣaḍ+ānana)
+[sixth](ṣaṣṭame) [ten-joined](daśasaṃyuktaṃ) [with-bindu](binduyuktaṃ) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p60-v1480
-sound+touch(śabda+sparśaṃ) and(ca) form(rūpaṃ) and(ca) fire+disk(agni+bimbaṃ) one-should-contemplate(vicintayet)
+[sound](śabdasparśaṃ) [touch](sparśaṃ) [form](rūpaṃ) [fire-image](agnibimbaṃ) [contemplate](vicintayet)
 
 ## mukta-m0-p60-v1481
-exhalation(recakaṃ) as-before(pūrva+vat) one-should-perform(kuryāt) wind(anilaṃ) with-mind(manasā) one-should-conquer(jayet)
+[exhalation](recakaṃ) [as-before](pūrvavatkuryāt) [wind](anilaṃ) [by-mind](manasā) [conquer](jayet)
 
 ## mukta-m0-p60-v1482
-in-that-moment(tat+kṣaṇāt) it-perishes(naśyate) O-child(vatsa) of-lion(siṃhasya) like(iva) as(yathā) elephant(gajaḥ)
+[instantly](tatkṣaṇānnaśyate) [child](vatsa) [like-lion-elephant](siṃhasyeva+yathā+gajaḥ)
 
 ## mukta-m0-p60-v1483
-ray(gabhasti) deity(daivataṃ) O-child(vatsa) with-double(dvi+guṇena) endowed(samanvitam)
+[ray](gabhasti) [deity](daivataṃ) [child](vatsa) [doubled](dviguṇena) [endowed](samanvitam)
 
 ## mukta-m0-p60-v1484
-on-bindu+crest(bindu+śekharam) mounted(ārūḍhaṃ) in-throat+hollow(kaṇṭha+kūpe) but(tu) one-should-meditate(dhyāyayet)
+[bindu-peak](binduśekharamārūḍhaṃ) [throat-pit](kaṇṭhakūpe) [meditate](tu+dhyāyayet)
 
 ## mukta-m0-p60-v1485
-in-iḍā(iḍāyāṃ) in-piṅgalā(piṅgalāyāṃ) but(tu) in-suṣumnā(suṣumnāyāṃ) and(ca) one-should-fill(pūrayet)
+[in-iḍā](iḍāyāṃ) [in-piṅgalā](piṅgalāyāṃ) [and](tu) [in-suṣumnā](suṣumnāyāṃ) [ca](ca) [fill](pūrayet)
 
 ## mukta-m0-p60-v1486
-thus(evaṃ) indeed(vai) one-should-meditate(dhyāyayet) O-child(vatsa) all+wind+conquest(sarva+vāyu+jayaṃ) will-be(bhavet)
+[thus](evaṃ) [indeed](vai) [meditate](dhyāyayedvatsa) [child](vatsa) [all-wind-conquest](sarvavāyujayaṃ) [becomes](bhavet)
 
 ## mukta-m0-p60-v1487
-heart+lotus+born(hṛt+saroruha+jaṃ) which(ye) but(tu) ether(ākāśaṃ) dark-blue+splendor(mecaka+prabham)
+[heart-lotus-born](hṛtsaroruhajaṃ) [those](ye) [tu](tu) [space](ākāśaṃ) [dark-blue-radiance](mecakaprabham)
 
 ## mukta-m0-p60-v1488
-supreme-lord(parameśvaraṃ) and-presiding-deity(ca+adhidaivaṃ) all+cause+cause(sarva+kāraṇa+kāraṇam)
+[supreme-lord](parameśvaraṃ) [and-presiding-deity](cādhidaivaṃ) [cause-of-all-causes](sarvakāraṇakāraṇam)
 
 ## mukta-m0-p60-v1489
-one-should-meditate(dhyāyet) space(vyomaṃ) in-head+middle(śiras+madhye) Śiva+supported(śiva+ādhāraṃ) very-pure(su+nirmalam)
+[meditate-space](dhyāyedvyomaṃ) [head-middle](śiromadhye) [śiva-support](śivādhāraṃ) [pure](sunirmalam)
 
 ## mukta-m0-p60-v1490
-as-before(pūrva+vat) inhalation(pūrakaṃ) one-should-perform(kuryāt) retention(kumbhakaṃ) exhalation(recakaṃ) likewise(tathā)
+[as-before-inhalation](pūrvavatpūrakaṃ) [do](kuryāt) [retention](kumbhakaṃ) [exhalation](recakaṃ) [thus](tathā)
 
 ## mukta-m0-p60-v1491
-great+wheel(mahā+cakraṃ) again(punar) one-should-meditate(dhyāyet) by-all+gods(sarva+devaiḥ) practiced(anuṣṭhitam)
+[great-circle](mahācakraṃ) [again-meditate](punardhyāyet) [by-all-gods](sarvadevairanuṣṭhitam)
 
 ## mukta-m0-p60-v1492
-great+lotus(mahā+padmam) this(idam) O-child(vatsa) Śiva+lotus(śiva+padmaṃ) very-beautiful(su+śobhanam)
+[great-lotus](mahāpadmamidaṃ) [child](vatsa) [śiva-lotus](śivapadmaṃ) [beautiful](suśobhanam)
 
 ## mukta-m0-p60-v1493
-petals+eight+over+hundred(kesara+aṣṭa+uttara+śataṃ) separate+deity(pṛthak+devaṃ) one-should-arrange(prakalpayet)
+[petals-hundred-eight](kesarāṣṭottaraśataṃ) [separately-deity](pṛthagdevaṃ) [arrange](prakalpayet)
 
 ## mukta-m0-p60-v1494
-Vasus(vasavaḥ) and-eight(ca+aṣṭa) they(te) and(ca) indeed(eva) eight(aṣṭau) and(ca) indeed(eva) lords-of-gaṇas(gaṇa+īśvarān)
+[vasus-eight](vasavaścāṣṭa) [those-indeed](te+caiva) [eight](aṣṭau) [and-indeed](caiva) [gaṇeśvaras](gaṇeśvarān)
 
 ## mukta-m0-p60-v1495
-of-Rudra+mother+hosts(rudra+mātṛ+gaṇānāṃ) and(ca) Yakṣas+Vidyādharas(yakṣa+vidyādharāḥ) likewise(tathā)
+[rudra-mātṛ-gaṇas](rudramātṛgaṇānāṃ) [ca](ca) [yakṣa-vidyādharas](yakṣavidyādharāstathā)
 
 ## mukta-m0-p60-v1496
-Marut+hosts(marut+gaṇāḥ) Pitṛ+hosts(pitṛ+gaṇāḥ) Kinnaras+Apsarases(kinnara+apsarasas) likewise(tathā)
+[marud-gaṇas](marudgaṇāḥ) [pitṛ-gaṇas](pitṛgaṇāḥ) [kinnara-apsarasas](kinnarāpsarasastathā)
 
 ## mukta-m0-p60-v1497
-Nāgas(nāgāḥ) and(ca) various(vividhāḥ) and(ca) indeed(eva) constellations+planets+abodes(nakṣatra+graha+rāśayaḥ)
+[nāgas](nāgāśca) [various](vividhāścaiva) [nakṣatra-graha-rāśis](nakṣatragraharāśayaḥ)
 
 ## mukta-m0-p60-v1498
-divine+maidens(deva+kanyāḥ) sage+maidens(ṛṣi+kanyāḥ) beings(bhūtāḥ) indeed(vai) field+guardians(kṣetra+pālakāḥ)
+[deva-maidens](devakanyā) [ṛṣi-maidens](ṛṣikanyā) [bhūtas](bhūtā) [vai](vai) [kṣetrapālakas](kṣetrapālakāḥ)
 
 ## mukta-m0-p60-v1499
-with-great+external(mahā+bāhyena) having-placed(vinyasya) threefold+having-made(tri+guṇī+kṛtya) one-should-envelop(veṣṭayet)
+[great-outer](mahābāhyena) [place](vinyasya) [threefold](triguṇīkṛtya) [encircle](veṣṭayet)
 
 ## mukta-m0-p60-v1500
-consonants(vyañjanāni) and(ca) all(sarvaṃ) but(tu) to-be-understood(gamyakaṃ) * * * * * *
+[consonants](vyañjanāni) [ca](ca) [all](sarvaṃ) [tu](tu) [gamyakaṃ](gamyakaṃ) [asterisks](*) [asterisks](*) [asterisks](*) [asterisks](*) [asterisks](*)

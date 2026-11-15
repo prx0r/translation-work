@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3693,
- "question": "What mixed epithets are assigned including skull-earringed, the long one, skull-bearer, and clan-goer?",
+ "question": "What happens to the crest of radiant joy?",
  "premises": [
-  "This verse assigns several epithets.",
-  "One is called skull-earringed and another the long one.",
-  "Others are called skull-bearer and clan-goer."
+  "of radiant joy is named",
+  "crest is named",
+  "goes is named",
+  "very bright is named"
  ],
- "inference": "The verse assigns epithets: skull-earringed, the long one, skull-bearer, and clan-goer.",
- "uncertainties": [],
- "plain_english": "She is called the skull-earringed one, the long one, the skull-bearer, and the clan-goer."
+ "inference": "the crest of radiant joy goes very bright",
+ "uncertainties": [
+  "crest location"
+ ],
+ "plain_english": "The crest of radiant joy goes very bright."
 }

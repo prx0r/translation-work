@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[two-like+two-measure](dvayavadvaya) [by-measure](pramāṇena) [strip+sides](paṭṭikāpārśvayoḥ) [likewise](tathā)
+[dvaya](dvayavadvaya) [measure](pramāṇena) [strip](paṭṭikā)+[side](pārśvayoḥ)+[thus](tathā)
 
 ## mukta-m0-p34-v827
-[that+equal](tatsamaṃ) [extended](vistṛtaṃ) [one-should-know](vidyāt) [altar](vediḥ) [should-be](syāt) [seven-mothers](saptamātṛkaṃ)
+[that](tatsamaṃ) [spread](vistṛtaṃ) [know](vidyāt) [vedi](vedissyāt)+[seven-mothers](saptamātṛkaṃ)
 
 ## mukta-m0-p34-v828
-[bilva-shaped](bilvaṃ) [well-rounded](suvṛttam) [is-declared](ākhyātaṃ) [likewise](tadvat) [having-dug](khyātvāt) [with-effort](prayatnataḥ)
+[bilva](bilvaṃ) [well-rounded](suvṛttam)+[called](ākhyātaṃ) [thus](tadvat)+[called](khyātvāt)+[carefully](prayatnataḥ)
 
 ## mukta-m0-p34-v829
-[of-bilva](bilvasya) [around](paritaḥ) [having-made](kṛtvā) [strip+two-measure](paṭṭikādvayamānataḥ)
+[of-bilva](bilvasya) [around](paritaḥ) [having-made](kṛtvā) [two-strips](paṭṭikādvayaṃ)+[measure](mānataḥ)
 
 ## mukta-m0-p34-v830
-[around](parito) [of-altar](vedikāyāṃ) [indeed](tu) [by-yava-measure](yavatrā) [by-which](yena) [strip](paṭṭikā)
+[around](parito) [in-altar](vedikāyāṃ) [tu](tu) [yava](yavatrā) [by-which](yena) [strip](paṭṭikā)
 
 ## mukta-m0-p34-v831
-[or](athavā) [dug+measure-only](khātamātraṃ) [or](vā) [with-proper-method](yuktyā) [one-should-make](kuryāt) [charming](manoramaṃ)
+[or](athavā) [excavated-measure](khātamātraṃ) [or](vā) [skillfully](yuktyā) [should-do](kuryān)+[pleasing](manoramaṃ)
 
 ## mukta-m0-p34-v832
-[kalaśa+form-like](kalaśākṛtivat) [having-made](kṛtvā) [twelve+finger](ravyaṃgulaṃ) [indeed](tu) [circumference](nāhakaṃ)
+[pot-shaped](kalaśākṛtivat)+[having-made](kṛtvā) [ray-angula](ravyaṃgulaṃ) [tu](tu) [navel](nāhakaṃ)
 
 ## mukta-m0-p34-v833
-[strip+two](paṭṭikādvayaṃ) [ten+less](daśāhīnaṃ) [circumference](nāhaṃ) [one-should-make](kuryāt) [with-effort](prayatnataḥ)
+[two-strips](paṭṭikādvayaṃ) [ten-less](daśāhīnaṃ) [navel](nāhaṃ) [should-do](kuryāt)+[carefully](prayatnataḥ)
 
 ## mukta-m0-p34-v834
-[thus](evaṃ) [ladle+characteristic](srulakṣaṇaṃ) [declared](proktaṃ) [spoon](sruvaṃ) [characteristic](lakṣaṇam) [is-stated](ucyate)
+[thus](evaṃ) [spoon-mark](srulakṣaṇaṃ) [declared](proktaṃ) [spoon](sruvaṃ) [mark](lakṣaṇam)+[is-said](ucyate)
 
 ## mukta-m0-p34-v835
-[root+neck+end](mūlagrīvāṃtakaṃ) [as-far-as](yāvat) [gradually](krameṇa) [made+tapering](kṛtatā) [one-should-make](kuru)
+[root-neck-end](mūlagrīvāṃtakaṃ) [as-far](yāvat) [in-order](krameṇa) [having-done](kṛtatā) [do](kuru)
 
 ## mukta-m0-p34-v836
-[tip](agraṃ) [side+finger](pakṣāṃgulaṃ) [long](dīrghaṃ) [of-circumference](nāhasyāṃ) [indeed](tu) [six+finger](rasāṃgulaṃ)
+[tip](agraṃ) [wing-angula](pakṣāṃgulaṃ) [long](dīrghaṃ) [of-navel](nāhasyāṃ) [tu](tu) [rasa-angula](rasāṃgulaṃ)
 
 ## mukta-m0-p34-v837
-[knob](gaṇḍikā) [one-should-make](kārayed) [round](vṛttaṃ) [spoon+characteristic](sruvalakṣaṇam) [is-stated](ucyate)
+[cheek](gaṇḍikā)+[should-make](kārayed)+[round](vṛttaṃ) [spoon-mark](sruvalakṣaṇam)+[is-said](ucyate)
 
 ## mukta-m0-p34-v838
-[one-should-sprinkle](prokṣayed) [weapon+mantra](astra) (maṃtreṇa) [for-ritual-purpose](kriyārthaṃ) [one-should-take](saṃgrahed) [wise-one](budhaḥ)
+[should-sprinkle](prokṣayedastra) [mantra](maṃtreṇa) [for-rite](kriyārthaṃ) [should-grasp](saṃgrahed)+[wise](budhaḥ)
 
 ## mukta-m0-p34-v839
-[in-old](purātane) [knob+knob](gaṇḍagaṇḍa) [upper-altar](upavedikā) [likewise](tathā) [altars](vedikāḥ)
+[ancient](purātane) [cheek-cheek](gaṇḍagaṇḍa) [sub-altar](upavedikā) [thus](tatho)+[altars](vedikāḥ)
 
 ## mukta-m0-p34-v840
-[six](ṣaṃ) [again](punar) [pit+knob+measure](garta) (gaṇḍiparimitaṃ) [spoon](sruvaṃ)
+[ṣaṃ](ṣaṃ) [again-pit](punargarta) [cheek-measure](gaṇḍiparimitaṃ) [spoon](sruvaṃ)
 
 ## mukta-m0-p34-v841
-[its+breadth](tadvistāraṃ) [in-two-parts](dvidhā) [having-divided](bhajya) [one+part+measure](eka) (bhāgapramāṇataḥ)
+[that-spread](tadvistāraṃ) [in-two](dvidhā)+[divide](bhajya) [one](eka) [part-measure](bhāgapramāṇataḥ)
 
 ## mukta-m0-p34-v842
-[that+breadth+two+fingers](tadvistāradvayāṃgulyaṃ) [thickness](ghanam) [one+finger](ekoṃgulaṃ) [should-be](bhavet)
+[that-spread-two-angula](tadvistāradvayāṃgulyaṃ) [solid](ghanaṃ)+[one-angula](ekoṃgulaṃ) [becomes](bhavet)
 
 ## mukta-m0-p34-v843
-[arch+pillar+circumference](toraṇāṃghripariṇāhaṃ) [nine-times](navayā) [one-should-make](kārayed) [wise-one](budhaḥ)
+[torana-foot-circumference](toraṇāṃghripariṇāhaṃ) [nine](navayā) [should-do](kārayed)+[wise](budhaḥ)
 
 ## mukta-m0-p34-v844
-[arch](toraṇaṃ) [and](ca) [indeed](eva) [is-declared](mākhyātaṃ) [eight](maṣṭaṃ) [auspicious](maṃgalam) [is-stated](ucyate)
+[torana](toraṇaṃ) [ca](ca)+[eva](eva) [called](mākhyātaṃ) [eighth](maṣṭaṃ) [auspicious](maṃgalam)+[is-said](ucyate)
 
 ## mukta-m0-p34-v845
-[its+part](tadvikāṃśaṃ) [thickness](ghanaṃ) [declared](proktaṃ) [one-should-take](grāhayet) [plank+wood](phalakāṣṭakaṃ)
+[that-part](tadvikāṃśaṃ) [solid](ghanaṃ) [declared](proktaṃ) [should-take](grāhayet)+[plank-eight](phalakāṣṭakaṃ)
 
 ## mukta-m0-p34-v846
-[of-which+height](yasyoccasya) [fourth+part](caturthāṃśe) [one](ekaṃ) [that+width](tattāram) [is-stated](ucyate)
+[whose](yasyoccasya) [fourth-part](caturthāṃśe) [one](ekaṃ) [that-star](tattāram)+[is-said](ucyate)
 
 ## mukta-m0-p34-v847
-[in-height](utsedhantv) [thus](evam) [is-declared](ākhyātaṃ) [in-breadth](vistāre) [that+two](tadvayaṃ) [one-should-diminish](kṣayet)
+[height](utsedhantvevamākhyātaṃ) [spread](vistāre) [that-two](tadvayaṃ) [should-diminish](kṣayet)
 
 ## mukta-m0-p34-v848
-[or](athavā) [by-another+method](anyaprakāreṇa) [breadth](vistāram) [now](adhunā) [is-stated](ucyate)
+[or](athavā)+[other-way](nyaprakāreṇa) [spread](vistāram)+[now](adhunocyate)
 
 ## mukta-m0-p34-v849
-[height](usedhaṃ) [in-two-parts](yugadhā) [having-divided](bhajya) [side](pakṛ) [one-should-make](kuryāt) [on-that-one](tadekataḥ)
+[height](usedhaṃ) [in-pairs](yugadhā) [divide](bhajya) [pakṛ](pakṛ) [should-do](kuryāt)+[that-one](tadekataḥ)
 
 ## mukta-m0-p34-v850
-[śrīvatsa](śrīvatsaṃ) [fish+pair](matsya) (yugmaṃ) [and](ca) [svastika](svastikaṃ) [dakṣiṇa](dakṣiṇaṃ) [likewise](tathā)
+[śrīvatsa](śrīvatsaṃ) [fish](matsya) [pair](yugmaṃ) [ca](ca) [svastika](svastikaṃ) [right](dakṣiṇaṃ) [thus](tathā)

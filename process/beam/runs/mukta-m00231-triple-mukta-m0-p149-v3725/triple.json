@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3725,
+   "rows": [
+    {
+     "surface": "bindusthāṃ",
+     "gloss": "situated-in-bindu",
+     "grounds": "feminine accusative singular adjective agreeing with hākinīm; compound sense bindu + sthā",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "hākinīṃ",
+     "gloss": "hakini",
+     "grounds": "accusative singular feminine noun, object of the implied predication",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "śukramedomajjāsvarūpiṇīm",
+     "gloss": "semen-fat-marrow-nature",
+     "grounds": "feminine accusative singular adjective; compound naming semen, fat, marrow, and intrinsic nature",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What is Hakini's nature and placement in the bindu?",
+   "premises": [
+    "Hakini is situated in the bindu.",
+    "Hakini has semen-fat-marrow nature.",
+    "The verse presents Hakini as object."
+   ],
+   "inference": "Hakini is a bindu-resident power whose nature comprises semen, fat, and marrow.",
+   "uncertainties": [
+    "The exact internal parsing of the long compound remains uncertain."
+   ],
+   "plain_english": "Hakini, situated in the bindu, is of the nature of semen, fat, and marrow."
+  }
+ ]
+}

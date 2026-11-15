@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[universal-attraction](viśvākarṣaṇa) [paralysis](staṃbha) [*](* ) [*](* ) [*](* ) [in-time](kāle) [one-should-arrange](prakalpayet)
+[world-attracting](viśvākarṣaṇa) [stambha](staṃbha) [time](kāle) [should-appoint](prakalpayet)
 
 ## mukta-m0-p20-v477
-[setting](astam) [setting](astamanaṃ) [auspicious](śastaṃ) [having-known](jñātvā) [time](kālaṃ) [and](ca) [it-succeeds](sidhyati)
+[setting](astamastamanaṃ) [auspicious](śastaṃ) [knowing](jñātvā) [time](kālaṃ) [ca](ca) [succeeds](sidhyati)
 
 ## mukta-m0-p20-v478
-[there](tatra) [uninterrupted](avyavahantaraḥ) [time](kālo) [to-be-known](vijñeyaḥ) [and](ca) [threefold-situated](tridhā+sthitaḥ)
+[there](tatrāvyavahantaraḥ) [time](kālo) [to-be-known](vijñeyaśca) [threefold](tridhāsthitaḥ)
 
 ## mukta-m0-p20-v479
-[universal-attraction](viśvākarṣaṇa) [delusion](moha) [and-so-on](ādīn) [by-piṅgalā](piṃgalena) [it-succeeds](prasidhyati)
+[world-attracting-delusion-etc](viśvākarṣaṇamohādīn) [by-piṅgalā](piṃgalena) [succeeds](prasidhyati)
 
 ## mukta-m0-p20-v480
-[each-one](eka+ekaṃ) [fivefold](pañcadhā) [to-be-known](jñeyā) [channel-flow](nāḍī+cāraṃ) [with-effort](prayatnataḥ)
+[one-by-one](ekaikaṃ) [fivefold](pañcadhā) [to-be-known](jñeyā) [nāḍī-course](nāḍīcāraṃ) [carefully](prayatnataḥ)
 
 ## mukta-m0-p20-v481
-[downward-touching](adhaḥ+spṛk) [it-flows](pravahet) [because](yasmāt) [earth](pṛthivī) [by-name](nāma+nāmataḥ)
+[downward-touching](adhaspṛk) [carries](pravahedyasmāt) [earth](pṛthivī) [name-by-name](nāmanāmataḥ)
 
 ## mukta-m0-p20-v482
-[in-the-aperture](raṃdhre) [in-the-side](pārśve) [may-be](bhavet) [wind](vāyuḥ) [all](sarvaṃ) [pervading](vyāpya) [likewise](tathā) [the-lower](amavaraṃ)
+[hole](raṃdhre) [side](pārśve) [becomes-wind](bhavedvāyuḥ) [all](sarvaṃ) [pervading](vyāpya) [thus](tathā) [lower](amavaraṃ)
 
 ## mukta-m0-p20-v483
-[subjugation](vaśya) [attraction](ākarṣaṇa) [*](* ) [and-so-on](hādīn) [by-the-fiery](taijasena) [no](na) [doubt](saṃśayaḥ)
+[subjugation-attracting-etc](vaśyākarṣaṇa) [by-taijasa](taijasena) [no-doubt](na+saṃśayaḥ)
 
 ## mukta-m0-p20-v484
-[thus](iti) [this](etat) [briefly](leśataḥ) [declared](khyātaṃ) [of-time](kālasya) [indeed](tu) [*](* ) [*](* ) [*](* ) [by-which](yā)
+[thus-this-briefly](ityetalleśataḥ) [known](khyātaṃ) [of-time](kālasya) [tu](tu) [yā](yā)
 
 ## mukta-m0-p20-v485
-[therefore](tasmāt) [with-all-effort](sarva+prayatnena) [knowledge-of-time](kāla+jñānaṃ) [one-should-practice](samabhyaset)
+[therefore](tasmāt) [all-effort](sarvaprayatnena) [time-knowledge](kālajñānaṃ) [should-practice](samabhyaset)
 
 ## mukta-m0-p20-v486
-[characteristics](lakṣaṇaḥ) [seventeenth](saptadaśamaḥ) [chapter](paṭalaḥ)
+[characteristic](lakṣaṇaḥ) [seventeenth](saptadaśamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p20-v487
-[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [or](va) [out-of-affection](snehāt) [o-six-faced-one](ṣaḍ+ānana)
+[mantra](*) [from-affection](snehāt) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p20-v488
-[by-those-desiring-prosperity](bhūti+kāmaiḥ) [always](sadā) [to-be-practiced](sevyam) [life](āyuḥ) [nourishment](puṣṭi) [increasing](vivardhanaṃ)
+[by-desiring-prosperity](bhūtikāmaissadā) [should-be-served](sevyamāyuḥ) [life](āyuḥ) [nourishment-growth](puṣṭivivardhanaṃ)
 
 ## mukta-m0-p20-v489
-[fivefold](pañca+prakāraṃ) [briefly](saṃkṣepāt) [rituals](kalpante) [I-tell](kathayāmi) [I](aham)
+[five-kinds](pañcaprakāraṃ) [in-brief](saṃkṣepāt) [kalpante](kalpante) [I-say](kathayāmyahaṃ)
 
 ## mukta-m0-p20-v490
-[beginning-and-end](ādya+antaṃ) [having-extracted-from-the-supreme](parataḥ+uddhṛtya) [that-very](tat+eva) [with-modification](sa+vikāriṇaṃ)
+[beginning-end](ādyaṃtaṃ) [beyond](paratoddhrṭya) [that-itself](tadeva) [with-modifications](savikāriṇaṃ)
 
 ## mukta-m0-p20-v491
-[ending-with-the-fourth](caturthī+antaṃ) [to-be-made](prakartavyaṃ) [of-gaurī](gauryā) [complete-expression](saṃpūrṇa+vācakaṃ)
+[fourth-ending](caturthyantaṃ) [should-be-made](prakartavyaṃ) [gaurī](gauryāsaṃpūrṇāvācakaṃ)
 
 ## mukta-m0-p20-v492
-[from-īśvara](īśvarāt) [up-to-śakti](śakti+paryantaṃ) [with-the-form](mūrta) [with-one's-own-heart](sva+hṛdayena) [indeed](tu)
+[from-īśvara-to-śakti](īśvarācchakti) [limit](paryantaṃ) [embodied](mūrta) [by-own-heart](svahṛdayena) [tu](tu)
 
 ## mukta-m0-p20-v493
-[the-ūhaka](ūhakaṃ) [and](ca) [likewise](tathā) [time](kālaṃ) [śiva-seed](śiva+bījaṃ) [one-should-extract](samuddharet)
+[ūhaka](ūhakaṃ) [ca](ca) [thus](tathā) [time](kālaṃ) [śiva-seed](śivabījaṃ) [should-extract](samuddharet)
 
 ## mukta-m0-p20-v494
-[the-seat](āsanaṃ) [with-the-praṇava](praṇavena) [here](atra) [sixfold-raised](ṣaḍ+utthaṃ) [indeed](tu) [he](sa) [indeed](tu) [one-should-place](nyaset)
+[seat](āsanaṃ) [by-oṃ](praṇavenātra) [six-risen](ṣaḍutthaṃ) [tu](tu) [sa](sa) [tu](tu) [should-place](nyaset)
 
 ## mukta-m0-p20-v495
-[the-yāmala](yāmalaṃ) [told](kathitaṃ) [o-child](vatsa) [of-the-ekavīra-doctrine](eka+vīra+mataḥ) [listen](śṛṇu)
+[yāmala](yāmalaṃ) [spoken](kathitaṃ) [child](vatsa) [single-hero-doctrine](ekavīramataḥ) [listen](śṛṇu)
 
 ## mukta-m0-p20-v496
-[consisting-of-śiva-and-śakti](śiva+śakti+mayaṃ) [seed](bījaṃ) [devoid-of-heart-etc](hṛdaya+ādi+vivarjitaḥ)
+[śiva-śakti-made](śivaśaktimayaṃ) [seed](bījaṃ) [from-heart-etc](hṛdayādi) [devoid](vivarjitaḥ)
 
 ## mukta-m0-p20-v497
-[meditation-mantra](dhyāna+maṃtraṃ) [I-shall-declare](pravakṣyāmi) [as](yathā) [in-due-order](vat+anupūrvaśaḥ)
+[meditation-mantra](dhyānamaṃtraṃ) [I-will-declare](pravakṣyāmi) [as](yathā) [mouth-order](vadanupūrvaśaḥ)
 
 ## mukta-m0-p20-v498
-[in-the-house](gṛhe) [indeed](tu) [in-reality](tatvataḥ) [to-be-done](kāryaṃ) [outside](bahiḥ) [of-temple-measure](prāsāda+mānataḥ)
+[in-house](gṛhe) [tu](tu) [truly](tatvataḥ) [should-be-done](kāryaṃ) [outside](bahiḥ) [temple-measure](prāsādamānataḥ)
 
 ## mukta-m0-p20-v499
-[made-of-white-sandal](śveta+caṃdana+ja) [fragrant](vāyī) [made-of-devadāru](deva+dāru+mayī) [auspicious](śubhā)
+[white-sandal-paste](śvetacaṃdanajāvāyī) [devadāru-made](devadārumayī) [auspicious](śubhā)
 
 ## mukta-m0-p20-v500
-[in-the-corners](koṇeṣu) [and](ca) [circular](vṛttāni) [above-that](tat+ūrdhve) [the-fifth](pañcamaṃ) [should-be](bhavet)
+[in-corners](koṇeṣu) [ca](ca) [round](vṛttāni) [that-above](tadūrdhve) [fifth](pañcamaṃ) [becomes](bhavet)

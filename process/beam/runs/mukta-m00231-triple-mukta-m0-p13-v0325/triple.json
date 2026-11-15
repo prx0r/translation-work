@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "nānātīrthajalena",
+     "gloss": "by-various-pilgrimage-waters",
+     "grounds": "compound of nānā, tīrtha, and jala in instrumental singular",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "should-bathe",
+     "grounds": "causative optative form of root snā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "paradevatām",
+     "gloss": "supreme-deity",
+     "grounds": "compound of para and devatā in accusative singular",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "With what water should the supreme deity be bathed?",
+   "premises": [
+    "Various pilgrimage waters are prescribed.",
+    "The supreme deity is bathed.",
+    "The bathing is enjoined."
+   ],
+   "inference": "Ritual bathing of the supreme deity uses waters from many tīrthas.",
+   "uncertainties": [
+    "Exact ritual context is unspecified."
+   ],
+   "plain_english": "Indeed, one should bathe the supreme deity with water from various pilgrimage places."
+  }
+ ]
+}

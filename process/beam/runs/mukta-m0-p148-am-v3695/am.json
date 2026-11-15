@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3695,
- "question": "What boon is invoked to give me kingdom and progeny belonging to Indra and also one possessing progeny?",
+ "question": "What six qualities arise for men?",
  "premises": [
-  "This verse invokes giving to the speaker.",
-  "It asks for kingdom and for progeny.",
-  "It mentions progeny belonging to Indra and one possessing progeny."
+  "of men is named",
+  "these are named",
+  "six qualities are named",
+  "arise is named"
  ],
- "inference": "The verse invokes a boon granting kingdom and progeny including those named forms.",
- "uncertainties": [],
- "plain_english": "May she give me kingdom, and progeny belonging to Indra, and also one who possesses progeny."
+ "inference": "these six qualities arise for men",
+ "uncertainties": [
+  "quality list"
+ ],
+ "plain_english": "These six qualities arise for men."
 }

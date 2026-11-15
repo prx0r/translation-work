@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p126-v3126
-bhava(bhava) śarva(śarva) tathā(tathā) īśāna(īśāna) paśupatiḥ(paśupatiḥ) nāma(nāma) devatā(devatā)
+[bhava](bhava) [śarva](śarva) [atha](atha) [īśāna](īśāna) [paśupati](paśupati) [nāma](nāma) [devatā](devatā)
 
 ## mukta-m0-p126-v3127
-iḍāyām(iḍāyām) adhi+daivam(adhidaivaṃ) hi(hi) proktam(proktaṃ) vajra+kavāṭake(vajrakavāṭake)
+[iḍā](iḍā) [adhi-daiva](adhi+daiva) [hi](hi) [prokta](prokta) [vajra-kavāṭa](vajra+kavāṭa) [ke](ke)
 
 ## mukta-m0-p126-v3128
-śūla+pāṇiḥ(śūlapāṇiḥ) kṛtti+vāsāḥ(kṛttivāsāḥ) kapardī(kapardī) megha+vāhanaḥ(meghavāhanaḥ)
+[śūla-pāṇi](śūla+pāṇi) [kṛttivāsā](kṛttivāsā) [kapardī](kapardī) [megha-vāhana](megha+vāhana)
 
 ## mukta-m0-p126-v3129
-gaṅgā+dharaḥ(gaṅgādharo) virūpa+akṣaḥ(virupākṣo) nīla+grīvaḥ(nīlagrīvo) vṛṣa+dhvajaḥ(vṛṣadhvajaḥ)
+[gaṅgā-dhara](gaṅgā+dhara) [virūpākṣa](virūpākṣa) [nīla-grīva](nīla+grīva) [vṛṣa-dhvaja](vṛṣa+dhvaja)
 
 ## mukta-m0-p126-v3130
-umā+patiḥ(umāpatiḥ) ca(ca) navamaḥ(navamaḥ) suṣumnā+vajra+śiṣṭake(suṣumnāvajraśiṣṭake)
+[umā-pati](umā+pati) [ca](ca) [navama](navama) [suṣumnā-vajra-śiṣṭa](suṣumnā+vajra+śiṣṭa) [ke](ke)
 
 ## mukta-m0-p126-v3131
-piṅgalā+vajra+kavāṭam(piṅgalāvajrakavāṭaṃ) rahasyam(rahasyam) idam(idam) uttamam(uttamam)
+[piṅgalā-vajra-kavāṭa](piṅgalā+vajra+kavāṭa) [rahasya](rahasya) [idam](idam) [uttama](uttama)
 
 ## mukta-m0-p126-v3132
-mahā+īśa(maheśa) vara+dam(varadaṃ) hi(hi) etat(etat) rahasyam(rahasyaṃ) vajra+kavāṭakam(vajrakavāṭakam)
+[maheśa](maheśa) [vara-da](vara+da) [hi](hi) [etat](etat) [rahasya](rahasya) [vajra-kavāṭa](vajra+kavāṭa)
 
 ## mukta-m0-p126-v3133
-māyā+ūrdhvam(māyordhvaṃ) tu(tu) saṃsthitam(saṃsthitaṃ) ca(ca) bindu+nāda+samanvitam(bindunādasamanvitam)
+[māyā-ūrdhva](māyā+ūrdhva) [tu](tu) [saṃsthita](saṃsthita) [ca](ca) [bindu-nāda](bindu+nāda) [samanvita](samanvita)
 
 ## mukta-m0-p126-v3134
-trayodaśam(trayodaśaṃ) vāma+stambham(vāmastambhaṃ) śakra+cāpa+sama+prabham(śakracāpasamaprabham)
+[trayodaśa](trayodaśa) [vāma-stambha](vāma+stambha) [śakra-cāpa](śakra+cāpa) [sama-prabha](sama+prabha)
 
 ## mukta-m0-p126-v3135
-sandhyā+ambuda+sama+prakhyam(sandhyāmbuda) īṣat+śaśi+sama+prabham(samaprakhyamīṣacchaśi) sama+prabham(samaprabham)
+[sandhyā-ambuda](sandhyā+ambuda) [sama-prakhya](sama+prakhya) [īṣat-chaśi](īṣat+chaśi) [sama-prabha](sama+prabha)
 
 ## mukta-m0-p126-v3136
-bhramaram(bhramaraṃ) ṣaṣṭham(ṣaṣṭham) evam(evaṃ) tu(tu) tava(tava) poraṭa+sama+prabham(pora(ṭa)? samaprabham)
+[bhramara](bhramara) [ṣaṣṭha](ṣaṣṭha) [evam](evam) [tu](tu) [tava](tava) [poraṭa](poraṭa) [sama-prabha](sama+prabha)
 
 ## mukta-m0-p126-v3137
-bhinna+añjana+sama+prakhyam(bhinnāñjanasamaprakhyaṃ) sarva+siddhi+karam(sarvasiddhikaraṃ) param(param)
+[bhinna-añjana](bhinna+añjana) [sama-prakhya](sama+prakhya) [sarva-siddhi-kara](sarva+siddhi+kara) [param](param)
 
 ## mukta-m0-p126-v3138
-bindu+mastakam(bindumastakam) ākrāntam(ākrāntam) atasī+kusuma+prabham(atasī kusumaprabham)
+[bindu-mastaka](bindu+mastaka) [ākrānta](ākrānta) [atasī](atasī) [kusuma-prabha](kusuma+prabha)
 
 ## mukta-m0-p126-v3139
-ugraḥ(ugraḥ) śāntaḥ(śāntaḥ) su+śāntaḥ(suśāntaḥ) ca(ca) pinākī(pinākī) tridaśa+īśvaraḥ(tridaśeśvaraḥ)
+[ugra](ugra) [śānta](śānta) [su-śānta](su+śānta) [ca](ca) [pinākī](pinākī) [tridaśa-īśvara](tridaśa+īśvara)
 
 ## mukta-m0-p126-v3140
-iti(iti) kālottare(kālottare) vajra+kavāṭa+lakṣaṇa+paṭalaḥ(kajrakavāṭalakṣaṇapaṭalaḥ) eka+ṣaṣṭitamaḥ(ekaṣaṣṭitamaḥ)
+[iti](iti) [kālottara](kālottara) [kajra-kavāṭa-lakṣaṇa-paṭala](kajra+kavāṭa+lakṣaṇa+paṭala) [eka-ṣaṣṭi-tama](eka+ṣaṣṭi+tama)
 
 ## mukta-m0-p126-v3141
-caturthasya(caturthasya) caturtham(caturthaṃ) tu(tu) jāta+vedasa+samanvitam(jātavedasamanvitam)
+[caturthasya](caturthasya) [caturtha](caturtha) [tu](tu) [jātaveda-samanvita](jātaveda+samanvita)
 
 ## mukta-m0-p126-v3142
-vajra+kavāṭam(vajrakavāṭam) ekam(ekaṃ) tu(tu) yat(yat) suraiḥ(suraiḥ) api(api) dur+labham(durlabham)
+[vajra-kavāṭa](vajra+kavāṭa) [eka](eka) [tu](tu) [yat](yat) [suraiḥ](suraiḥ) [api](api) [durlabha](durlabha)
 
 ## mukta-m0-p126-v3143
-kavāṭa+stambha+vāme(kavāṭastambhavāme) tu(tu) indra+kropaka+san+nibham(indrakropakasannibham)
+[kavāṭa-stambha](kavāṭa+stambha) [vāme](vāme) [tu](tu) [indra-kropa](indra+kropa) [sannibha](sannibha)
 
 ## mukta-m0-p126-v3144
-caturthasya(caturthasya) dvitīyam(dvitīyaṃ) tu(tu) bindu+śekhara+bhūṣitam(binduśekharabhūṣitam)
+[caturthasya](caturthasya) [dvitīya](dvitīya) [tu](tu) [bindu-śekhara-bhūṣita](bindu+śekhara+bhūṣita)
 
 ## mukta-m0-p126-v3145
-bhramara+yonī(bhramarayonī) imau(imau) vatsa(vatsa) te(te) ca(ca) dvau(dvau) parikīrtitau(parikīrtitau)
+[bhramara-yonī](bhramara+yonī) [imau](imau) [vatsa](vatsa) [te](te) [ca](ca) [dvau](dvau) [parikīrtita](parikīrtita)
 
 ## mukta-m0-p126-v3146
-atha(atha) vai(vai) puṭa+bījam(puṭabījantu) tu(tu) bindu+śekhara+bhūṣitam(binduśekharabhūṣitam)
+[atha](atha) [vai](vai) [puṭa-bīja](puṭa+bīja) [tu](tu) [bindu-śekhara-bhūṣita](bindu+śekhara+bhūṣita)
 
 ## mukta-m0-p126-v3147
-caturtha+ādi(caturthādi) prayoktavyam(prayoktavyaṃ) trayodaśa+samanvitam(trayodaśasamanvitam)
+[caturtha-ādi](caturtha+ādi) [prayoktavya](prayoktavya) [trayodaśa-samanvita](trayodaśa+samanvita)
 
 ## mukta-m0-p126-v3148
-kośam(kośaṃ) vai(vai) hasti+jihvāyāḥ(hastijihvāyāḥ) kavāṭasya(kavāṭasya) hi(hi) ṣaṭ+mukha(ṣaṇmukha)
+[kośa](kośa) [vai](vai) [hasti-jihvā](hasti+jihvā) [kavāṭa](kavāṭa) [hi](hi) [ṣaṇmukha](ṣaṇmukha)
 
 ## mukta-m0-p126-v3149
-pūṣā+kavāṭam(pūṣākavāṭaṃ) vakṣyāmi(vakṣyāmi) yena(yena) mṛtyuñjayam(mṛtyuñjayaṃ) bhavet(bhavet)
+[pūṣā-kavāṭa](pūṣā+kavāṭa) [vakṣyāmi](vakṣyāmi) [yena](yena) [mṛtyuñjaya](mṛtyuñjaya) [bhavet](bhavet)
 
 ## mukta-m0-p126-v3150
-ūrdhvam(ūrdhvaṃ) vai(vai) prabhu+śaktiḥ(prabhuśaktistu) tu(tu) bindu+nāda+samanvitam(bindu+nāda samanvitam)
+[ūrdhva](ūrdhva) [vai](vai) [prabhu-śakti](prabhu+śakti) [tu](tu) [bindu-nāda](bindu+nāda) [samanvita](samanvita)

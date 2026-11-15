@@ -1,13 +1,19 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3457,
- "question": "What orientation must the trident have when laid upon the ritual bed?",
+ "question": "Which offerings are listed for the rite?",
  "premises": [
-  "The trident is laid on a bed",
-  "Its head is directed eastward",
-  "Its face is directed upward"
+  "tāmbūla means betel",
+  "dhūpa means incense",
+  "udakaṃ means water",
+  "patraṃ means leaf",
+  "puṣpaṃ means flower",
+  "phalaṃ means fruit",
+  "dadhi means curd"
  ],
- "inference": "The trident should be laid on the bed with its head to the east and its face upward",
- "uncertainties": [],
- "plain_english": "One should lay the trident on the bed with its head toward the east and its face upward."
+ "inference": "The rite lists betel, incense, water, leaf, flower, fruit, and curd.",
+ "uncertainties": [
+  "whether all are used together"
+ ],
+ "plain_english": "Betel, incense, water, leaf, flower, fruit, and curd."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3449,
- "question": "Which enclosure worship is identified at this point?",
+ "question": "What should be placed on ground if made with own name?",
  "premises": [
-  "An enclosure worship is named.",
-  "It is identified by ordinal position.",
-  "The position is sixth."
+  "own name darbhita is stated",
+  "having made is stated",
+  "if on ground should place"
  ],
- "inference": "This identifies the worship of the sixth enclosure.",
- "uncertainties": [],
- "plain_english": "The worship of the sixth enclosure."
+ "inference": "If made with own name, place it on ground.",
+ "uncertainties": [
+  "darbhita meaning unclear"
+ ],
+ "plain_english": "Own-name-darbhita having made, if on ground should place."
 }

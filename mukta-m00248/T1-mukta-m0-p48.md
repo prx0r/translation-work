@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[prāsāda-mantra](prāsādaṃ) [should-meditate](cintayet) [o-child](vatsa) [in-heart](hṛdaye) [left+middle-situated](savya+madhyagam)
+[palace](prāsādaṃ) [should-think](cintayed) [O-child](vatsa) [in-heart](hṛdaye) [left-middle-situated](savyamadhyagam)
 
 ## mukta-m0-p48-v1177
-[hibiscus+rosary+equal+splendor](japā+suma+sama+prakhyaṃ) [always](nityam) [indeed](eva) [should-meditate](vicintayet)
+[red-hibiscus-like](japāsumasamaprakhyaṃ) [always](nityam) [indeed](eva) [should-meditate](vicintayet)
 
 ## mukta-m0-p48-v1178
-* * * * * * * * [with-one-pointed+mind](eka+cittena) [the-wise-one](buddhimān)
+[with-one-mind](ekacittena) [wise-one](buddhimān)
 
 ## mukta-m0-p48-v1179
-[fifteen](pañcadaśa) [thousand](sahasraṃ) [indeed](tu) [he](sa) [lives](jīvati) [o-six-faced-one](ṣaḍānana)
+[fifteen](pañcadaśa) [thousand](sahasraṃ) [indeed](tu) [he](sa) [lives](jīvati) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p48-v1180
-[prāsāda-mantra](prāsādaṃ) [should-meditate](cintayet) [there](tatra) [with-sixteen+vowels+adorned](ṣoḍaśa+svara+bhūṣitam)
+[palace](prāsādaṃ) [should-think](cintayet) [there](tatra) [sixteen-vowel-adorned](ṣoḍaśasvarabhūṣitam)
 
 ## mukta-m0-p48-v1181
-[in-offering+pits](homa+kūpeṣu) [in-all](sarveṣu) [black+form](kṛṣṇa+rūpaṃ) [should-meditate](vicintayet)
+[in-all](sarveṣu) [fire-pits](homakūpeṣu) [black-form](kṛṣṇarūpaṃ) [should-meditate](vicintayet)
 
 ## mukta-m0-p48-v1182
-[grey-hair+arresting](palita+stambhanaṃ) [indeed](hi) [this](etat) [year+one+nineteen](vatsara+eka+ūna+viṃśati)
+[gray-hair-stopping](palitastambhanaṃ) [indeed](hi) [this](etat) [twenty-one-years](vatsaraikonaviṃśati)
 
 ## mukta-m0-p48-v1183
-[ten-thousand+two](ayuta+dvayaṃ) [he](sa) [may-live](jīveta) [in-celibacy+vow](brahmacarya+vrāte) [situated](sthitam)
+[two-ten-thousands](ayutadvayaṃ) [he](sa) [lives](jīveta) [in-brahmacarya-vow](brahmacaryavrāte) [situated](sthitam)
 
 ## mukta-m0-p48-v1184
-[hundred-petaled-lotus](śatadalaṃ) [with-moon+disk](candra+bimbena) [having-enclosed](saṃpuṭīkṛtya) [the-wise-one](buddhimān)
+[hundred-petaled](śatadalaṃ) [with-moon-disc](candrabimbena) [enclosing](saṃpuṭīkṛtya) [wise-one](buddhimān)
 
 ## mukta-m0-p48-v1185
-[up-to-Kālāgniśiva](kālāgniśiva+paryantam) [thus](iti) [white](śvetaṃ) [should-meditate](vicintayet)
+[from-kalagni-to-shiva](kālāgniśivaparyantam) [thus](iti) [white](śvetaṃ) [should-meditate](vicintayet)
 
 ## mukta-m0-p48-v1186
-[from-old-age+death](jarā+maraṇa) [freed](nimuktam) [ten-thousand+three](ayuta+trayaṃ) [he](sa) [lives](jīvati)
+[old-age-death-freed](jarāmaraṇanimuktam) [three-ten-thousands](ayutatrayaṃ) [he](sa) [lives](jīvati)
 
 ## mukta-m0-p48-v1187
-[oneself](ātmānaṃ) [there](tatra) [in-middle](madhye) [indeed](tu) [at-prāsāda+tip](prāsāda+agre) [should-meditate](vicintayet)
+[self](ātmānaṃ) [there](tatra) [in-middle](madhye) [indeed](tu) [palace-front](prāsādāgre) [should-meditate](vicintayet)
 
 ## mukta-m0-p48-v1188
-[with-moon+disk+nectar](candra+bimba+amṛtena) [indeed](eva) [body](vigrahaṃ) [should-flood](plāvayet) [then](tataḥ)
+[with-moon-disc-nectar](candrabimbāmṛtena) [indeed](eva) [body](vigrahaṃ) [should-bathe](plāvayet) [then](tataḥ)
 
 ## mukta-m0-p48-v1189
-[ten-thousand](ayutaṃ) [fourth](caturthakaṃ) [may-live](jīvet) [of-twice-eight+syllables+form](dvi+aṣṭa+varṇa+kṛtiḥ)
+[fourth](caturthakaṃ) [ten-thousand](ayutaṃ) [lives](jīvet) [twice-eight-letter-form](dviraṣṭavarṇakṛtiḥ)
 
 ## mukta-m0-p48-v1190
-[of-that](tasya) [in-middle](madhye) [indeed](tu) [prāsāda-mantra](prāsādaṃ) [with-moon](śaśinā) [enclosed](saṃpuṭīkṛtam)
+[its](tasya) [in-middle](madhye) [indeed](tu) [palace](prāsādaṃ) [with-moon](śaśinā) [enclosed](saṃpuṭīkṛtam)
 
 ## mukta-m0-p48-v1191
-[by-that](tena) [flooded](plāvitam) [oneself](ātmānaṃ) [being-filled](āpūryantaṃ) [should-meditate](vicintayet)
+[by-that](tena) [bathed](plāvitam) [self](ātmānaṃ) [filling](āpūryantaṃ) [should-meditate](vicintayet)
 
 ## mukta-m0-p48-v1192
-[ten-thousand](ayutaṃ) [fivefold](pañcakaṃ) [may-live](jīvet) [not](na) [here](atra) [duty](kārya) [consideration](vicāraṇā)
+[fifth](pañcakaṃ) [ten-thousand](ayutaṃ) [lives](jīvet) [no-here](nātra) [need](kārya) [deliberation](vicāraṇā)
 
 ## mukta-m0-p48-v1193
-[prāsāda-mantra](prāsādaṃ) [should-meditate](cintayet) [the-wise-one](vidvān) [oneself](ātmānaṃ) [in-its+middle-situated](tasya+madhyagam)
+[palace](prāsādaṃ) [should-think](cintayed) [scholar](vidvān) [self](ātmānaṃ) [its-in-middle-situated](tasya+madhyagam)
 
 ## mukta-m0-p48-v1194
-[flowing+nectar](sravantam+amṛtaṃ) [should-meditate](dhyāyet) [having-filled](āpūrya) [should-flood](plāvayet) [the-wise-one](budhaḥ)
+[flowing](sravantam) [nectar](amṛtaṃ) [should-meditate](dhyāyet) [filling](āpūrya) [should-bathe](plāvayed) [wise-one](budhaḥ)
 
 ## mukta-m0-p48-v1195
-[cow+milk+white](go+kṣīra+dhavalaṃ) [gentle](saumyam) [from-foot+sole+to-middle-situated](ā+pāda+tala+madhyagam)
+[cow-milk-white](gokṣīradhavalaṃ) [gentle](saumyam) [foot-sole-middle-situated](āpādatalamadhyagam)
 
 ## mukta-m0-p48-v1196
-[exhalation](recakaṃ) [indeed](tu) [having-abandoned](parityajya) [inhalation](pūrakaṃ) [indeed](tu) [always](sadā) [should-practice](abhyaset)
+[exhalation](recakaṃ) [indeed](tu) [abandoning](parityajya) [inhalation](pūrakaṃ) [indeed](tu) [always-practice](sadābhyaset)
 
 ## mukta-m0-p48-v1197
-[by-own+nose](ātma+nāsikayā) [inward](abhyantaṃ) [up-to-belly+interior+end](jaṭhara+abhyantara+antakam)
+[by-self-nostril](ātmanāsikayā) [inward](abhyantaṃ) [belly-inner-end](jaṭharābhyantarāntakam)
 
 ## mukta-m0-p48-v1198
-[of-that](tasya) [in-middle](madhye) [indeed](tu) [oneself](cātmānaṃ) [with-moon](śaśinā) [enclosed](saṃpuṭīkṛtam)
+[its](tasya) [in-middle](madhye) [indeed](tu) [self](cātmānaṃ) [with-moon](śaśinā) [enclosed](saṃpuṭīkṛtam)
 
 ## mukta-m0-p48-v1199
-[in-space+middle](kha+madhye) [make](kuru) [oneself](cātmānaṃ) [in-self+middle](ātma+madhye) [indeed](tu) [space](khaṃ) [make](kuru)
+[in-space](khamadhye) [make](kuru) [self](cātmānaṃ) [self-in-middle](ātmamadhye) [indeed](tu) [space](khaṃ) [make](kuru)
 
 ## mukta-m0-p48-v1200
-[visibly](sākṣāt) [death+conquering](mṛtyuñjayo) [yoga](yogo) [great+dissolution](mahā+pralayaṃ) [he](sa) [lives](jīvati)
+[directly](sākṣāt) [death-conquering](mṛtyuñjayaḥ) [yoga](yogaḥ) [great-dissolution](mahāpralayaṃ) [he](sa) [lives](jīvati)

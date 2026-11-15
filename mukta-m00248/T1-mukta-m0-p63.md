@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-indra(indram) agni(agniṃ) yama(yamaṃ) varuṇa(varuṇaṃ) soma(somaṃ) gandharva(gandharvaṃ) likewise(tathā)
+[indra](indram) [agni](agniṃ) [yama](yamaṃ) [varuṇa](varuṇaṃ) [soma](somaṃ) [gandharva](gandharvaṃ) [tathā](tathā)
 
 ## mukta-m0-p63-v1552
-inhalation(pūrakaṃ) retention(kumbhakaṃ) and(ca) indeed(eva) all+fluctuation+cessation(sarvavṛttinirodhanam)
+[pūraka](pūrakaṃ) [kumbhaka](kumbhakaṃ) [ca](ca) [eva](eva) [sarva+vṛtti+nirodhana](sarvavṛttinirodhanam)
 
 ## mukta-m0-p63-v1553
-sovereign(cakravartī) and(ca) eight+form(aṣṭamūrti) rudra+eleven(rudraikādaśa) indeed(eva) and(ca)
+[cakra+vartī](cakravartī) [ca](ca) [aṣṭa+mūrti](aṣṭamūrti) [rudra+ekādaśa](rudraikādaśa) [eva](eva) [ca](ca)
 
 ## mukta-m0-p63-v1554
-one-should-meditate(dhyāyet) unagitated+mind(avyagramanasā) that+that+state(tattatpadam) one-may-attain(avāpnuyāt)
+[dhyāyet](dhyāyed) [dravya+grama+manasā](dravyagramanasā) [tat+tat+padam](tattatpadam) [avāpnuyāt](avāpnuyāt)
 
 ## mukta-m0-p63-v1555
-that+half+measure(tadardhamātraṃ) soundless(nirhāsaṃ) form+devoid(rūpaśūnyaṃ) but(tu) one-should-contemplate(bhāvayet)
+[tad+ardha+mātra](tadardhamātraṃ) [nirhāsa](nirhāsaṃ) [rūpa+śūnya](rūpaśūnyaṃ) [tu](tu) [bhāvayet](bhāvayet)
 
 ## mukta-m0-p63-v1556
-or(athavā) same+flavor+state(samarasībhāvaṃ) absorption(samādhis) by-that(tena) and(ca) is-called(ucyate)
+[athavā](athavā) [sama+rasī+bhāva](samarasībhāvaṃ) [samādhiḥ+tena](samādhistena) [ca](ca) [ucyate](ucyate)
 
 ## mukta-m0-p63-v1557
-sadāśiva(sadāśivam) I(ahaṃ) having-become(bhūtvā) not(na) anything(kiñcid) even(api) one-should-think(cintayet)
+[sadāśiva](sadāśivam) [aham](aham) [bhūtvā](bhūtvā) [na](na) [kiñcid](kiñcid) [api](api) [cintayet](cintayet)
 
 ## mukta-m0-p63-v1558
-transverse+gone(tiryaggataṃ) supreme(paraṃ) principle(tattvam) I(aham) indeed(eva) but(tu) that(tad) may-become(bhavet)
+[tiryag+gata](tiryaggataṃ) [para](paraṃ) [tattva](tattvam) [aham](aham) [eva](eva) [tu](tu) [tat](tat) [bhavet](bhavet)
 
 ## mukta-m0-p63-v1559
-in-middle(madhye) and(ca) indeed(eva) but(tu) indeed(vai) child(vatsa) directly(sākṣāc) śiva(śivam) free-from-ailment(anāmayam)
+[madhye](madhye) [ca](ca) [eva](eva) [tu](tu) [vai](vai) [vatsa](vatsa) [sākṣāt+śivam](sākṣācchivam) [anāmayam](anāmayam)
 
 ## mukta-m0-p63-v1560
-waking+dream+devoid(jāgratsvapnavihīnaṃ) but(tu) deep-sleep(suṣuptaṃ) and(ca) one-should-abandon(vivarjayet)
+[jāgrat+svapna+vihīna](jāgratsvapnavihīnaṃ) [tu](tu) [suṣupta](suṣuptaṃ) [ca](ca) [vivarjayet](vivarjayet)
 
 ## mukta-m0-p63-v1561
-śiva+ether(śivākāśaṃ) supreme(paraṃ) subtle(sūkṣmaṃ) all+knowing(sarvajñaṃ) all+facing(sarvatomukham)
+[śiva+ākāśa](śivākāśaṃ) [para](paraṃ) [sūkṣma](sūkṣmaṃ) [sarvajña](sarvajñaṃ) [sarvatomukha](sarvatomukham)
 
 ## mukta-m0-p63-v1562
-cave+dwelling(guhāśayam) beginningless(anādiṃ) and(ca) all+duality+devoid(sarvadvandvavivarjitam)
+[guhā+śaya](guhāśayam) [anādi](anādiṃ) [ca](ca) [sarva+dvandva+vivarjita](sarvadvandvavivarjitam)
 
 ## mukta-m0-p63-v1563
-subtle(sūkṣmaṃ) śiva(śivaṃ) cause(kāraṇam) inconceivable(apratarkyam) free-from-ailment(anāmayam)
+[sūkṣma](sūkṣmaṃ) [śiva](śivaṃ) [kāraṇa](kāraṇam) [apratarkya](apratarkyam) [anāmayam](anāmayam)
 
 ## mukta-m0-p63-v1564
-bodiless+natured(aśarīrātmakaḥ) having-made(kṛtvā) not(na) anything(kiñcid) even(api) one-should-think(cintayet)
+[aśarīra+ātmakaḥ](aśarīrātmakaḥ) [kṛtvā](kṛtvā) [na](na) [kiñcid](kiñcid) [api](api) [cintayet](cintayet)
 
 ## mukta-m0-p63-v1565
-lotus+middle(saroruhamadhye) but(tu) sun+ten-million+equal+splendor(sūryakoṭisamaprabham)
+[saro+ruha+madhye](saroruhamadhye) [tu](tu) [sūrya+koṭi+sama+prabha](sūryakoṭisamaprabham)
 
 ## mukta-m0-p63-v1566
-that(tat) indeed(vai) in-middle(madhye) but(tu) and(ca) self(ātmānaṃ) make(kuru) always(nityaṃ) six+faced(ṣaḍānana)
+[tat](tat) [vai](vai) [madhye](madhye) [tu](tu) [ca](ca) [ātmānaṃ](ātmānaṃ) [kuru](kuru) [nityaṃ](nityaṃ) [ṣaḍānana](ṣaḍānana)
 
 ## mukta-m0-p63-v1567
-this(eṣa) death+conquering(mṛtyuñjayo) yoga(yogaḥ) same+flavor+state+resorting-to(samarasībhāvamāśritaḥ)
+[eṣa](eṣa) [mṛtyuñjaya](mṛtyuñjayo) [yogaḥ](yogaḥ) [sama+rasī+bhāvam](samarasībhāvam) [āśritaḥ](āśritaḥ)
 
 ## mukta-m0-p63-v1568
-palate+aperture(tālurandhre) supreme(paraṃ) knowledge(jñānaṃ) lightning+fire(vidyutpāvaka) that(sa) splendor(prabham)
+[tālu+randhre](tālurandhre) [para](paraṃ) [jñāna](jñānaṃ) [vidyut+pāvaka](vidyutpāvaka) [sa](sa) [prabha](prabham)
 
 ## mukta-m0-p63-v1569
-quality+number(guṇasaṃkhyā) one-should-remember(smaren) always(nityaṃ) death+destruction(mṛtyunāśanam) supreme(uttamam)
+[guṇa+saṃkhyā](guṇasaṃkhyā) [smaret](smaret) [nityaṃ](nityaṃ) [mṛtyu+nāśana](mṛtyunāśanam) [uttama](uttamam)
 
 ## mukta-m0-p63-v1570
-worlds(bhuvanāni) seven(sapta) there(tatra) indeed(eva) having-cast(prakṣipya) śiva+middle+gone(śivamadhyage)
+[bhuvanāni](bhuvanāni) [sapta](sapta) [tatra](tatra) [eva](eva) [prakṣipya](prakṣipya) [śiva+madhyage](śivamadhyage)
 
 ## mukta-m0-p63-v1571
-to-eye(cakṣuṣe) is-seen(dṛśyate) yoga(yogas) seven+worlds(saptalokān) elevation(samucchrayaḥ)
+[cakṣuṣe](cakṣuṣe) [dṛśyate](dṛśyate) [yogaḥ](yogaḥ) [sapta+lokān](saptalokān) [samucchrayaḥ](samucchrayaḥ)
 
 ## mukta-m0-p63-v1572
-brahma+aperture(brahmarandhre) but(tu) wise-one(medhāvī) earth+number(bhū) (saṃkhyāṃ) but(tu) one-should-mix(vimiśrayet)
+[brahma+randhre](brahmarandhre) [tu](tu) [medhāvī](medhāvī) [bhū](bhū) [saṃkhyāṃ](saṃkhyāṃ) [tu](tu) [vimiśrayet](vimiśrayet)
 
 ## mukta-m0-p63-v1573
-that+middle(tanmadhye) śiva+form(śivarūpaṃ) but(tu) flashing+lightning+splendor(sphuratsaudāminīprabham)
+[tan+madhye](tanmadhye) [śiva+rūpaṃ](śivarūpaṃ) [tu](tu) [sphurat+saudāminī+prabha](sphuratsaudāminīprabham)
 
 ## mukta-m0-p63-v1574
-there(tatra) having-made(kṛtvā) but(tu) and(ca) self(ātmānaṃ) six+sheath(ṣaṭkauśike) but(tu) in-body(vigrahe)
+[tatra](tatra) [kṛtvā](kṛtvā) [tu](tu) [ca](ca) [ātmānaṃ](ātmānaṃ) [ṣaṭ+kauśike](ṣaṭkauśike) [tu](tu) [vigrahe](vigrahe)
 
 ## mukta-m0-p63-v1575
-thus(itthaṃ) earth+number+month(bhūsaṃkhyamāse) but(tu) year+three+contemplation(vatsaratrayabhāvanāt)
+[itthaṃ](itthaṃ) [bhū+saṃkhyam](bhūsaṃkhyam) [āse](āse) [tu](tu) [vatsara+traya+bhāvanāt](vatsaratrayabhāvanāt)

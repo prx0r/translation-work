@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-with-weapon(astreṇa) indeed(eva) thus(iti) to-be-offered(hotavyam) at(upā) exit(niṣkrāmaṇe) hundred(śatam)
+[by-weapon+thus+indeed](astreṇaiveti) [to-be-offered](hotavyam) [unto](upa) [at-exit](niṣkrāmaṇe) [hundred](śatam)
 
 ## mukta-m0-p32-v777
-at-tonsure(caule) but(tu) three-hundred(triśatam) one-should-offer(juhuyāt) at-initiation(upanayane) four-hundred(catuḥśatam)
+[on-tonsure](caule) [but](tu) [three-hundred](triśataṃ) [let-one-offer](juhuyāt) [at-initiation](upanayane) [four-hundred](catuḥśatam)
 
 ## mukta-m0-p32-v778
-mahānāndi-vow(mahānāndi) mahāvrata-vow(mahāvrata) upaniṣad-vow(upaniṣad) cow-gift(godānam) indeed(eva) and(ca)
+[great-ananda](mahānāndi) [great-vow](mahāvrata) [upanishad](upaniṣad) [cow-gift](godānameva) [and](ca)
 
 ## mukta-m0-p32-v779
-śiva-vow(śivavratam) but(tu) seventh(saptamam) of-vows(vratānām) best(pravaraḥ) considered(matam)
+[shiva-vow](śivavrataṃ) [but](tu) [seventh](saptamaṃ) [of-vows](vratānāṃ) [best](pravaronmatam)
 
 ## mukta-m0-p32-v780
-in-body(dehe) indeed(vai) śūdra-birth(śūdra+jātiḥ) but(tu) by-fire(analena) but(tu) six-faced(ṣaṇmukha)
+[in-body](dehe) [indeed](vai) [shudra-birth](śūdrajātistu) [by-fire](analena) [but](tu) [six-faced](ṣaṇmukha)
 
 ## mukta-m0-p32-v781
-directly(sākṣāt) brahminhood(vipratvam) attained(āpanne) afterwards(paścāt) initiation(dīkṣām) you-should-perform(kuruṣva) indeed(hi)
+[directly](sākṣāt) [brahminhood](vipratvamāpanne) [afterwards](paścāddīkṣāṃ) [do](kuruṣva) [indeed](hi)
 
 ## mukta-m0-p32-v782
-worship(arcanam) striking(tāḍanam) and(ca) indeed(eva) attraction(ākarṣaṇam) placement(sanniveśanam)
+[worship](arcanaṃ) [beating](tāḍanaṃ) [and](caiva) [attraction](ākarṣaṇaṃ) [placement](sanniveśanam)
 
 ## mukta-m0-p32-v783
-piercing(vedanam) joining(ghaṭanam) and(ca) indeed(eva) victim-circling(paśu+bhramaṇam) indeed(eva) and(ca)
+[perception](vedanaṃ) [joining](ghaṭanaṃ) [and](caiva) [animal-wandering](paśubhramaṇameva) [and](ca)
 
 ## mukta-m0-p32-v784
-with-heart-mantra(hṛdayena) but(tu) to-be-done(kartavyam) all-action(sarva+karma) six-faced(ṣaḍānana)
+[by-heart](hṛdayena) [but](tu) [to-be-done](kartavyaṃ) [all-action](sarvakarma) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p32-v785
-girdle(mekhalā) turban(uṣṇīṣakam) and(ca) indeed(eva) loincloth(kaupīnam) sacred-ash(bhasma) indeed(eva) and(ca)
+[girdle-turban](mekhaloṣṇīṣakaṃ) [and](caiva) [loincloth](kaupīnaṃ) [ash](bhasma) [indeed](eva) [and](ca)
 
 ## mukta-m0-p32-v786
-with-aghora-mantra(aghoreṇa) but(tu) with-mantra(mantreṇa) sacred-thread(upavītam) and(ca) one-should-give(dāpayet)
+[by-aghora](aghoreṇa) [but](tu) [mantra](mantreṇa) [sacred-thread](upavītaṃ) [and](ca) [let-one-give](dāpayet)
 
 ## mukta-m0-p32-v787
-loincloth(kaupīnam) with-vāmadeva-mantra(vāmadevena) sacred-ash(bhasmam) with-īśāna-mantra(īśena) one-should-give(dāpayet)
+[loincloth](kaupīnaṃ) [by-vamadeva](vāmadevena) [ash](bhasmam) [by-ishana](īśena) [let-one-give](dāpayet)
 
 ## mukta-m0-p32-v788
-very-white(suśvetam) of-brahmin(brāhmaṇasya) declared(uktam) flaxen(kṣaubham) indeed(vai) of-kṣatriya(kṣatriyasya) but(tu)
+[very-white](suśvetaṃ) [of-brahmin](brāhmaṇasyoktaṃ) [kshobha](kṣaubhaṃ) [indeed](vai) [of-kshatriya](kṣatriyasya) [but](tu)
 
 ## mukta-m0-p32-v789
-cotton(kārpāsam) and(ca) sacred-thread(upavītam) but(tu) of-brahmin(viprasya) but(tu) six-faced(ṣaḍānana)
+[cotton](kārpāsaṃ) [sacred-thread](copavītaṃ) [but](tu) [of-brahmin](viprasya) [but](tu) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p32-v790
-black-antelope-skin(kṛṣṇa+ajinam) of-brahmin(brāhmaṇasya) of-king(nṛpasya) tiger-skin(vyāghra+ajinam) should-be(bhavet)
+[black-antelope-skin](kṛṣṇājinaṃ) [of-brahmin](brāhmaṇasya) [of-king](nṛpasya) [tiger-skin](vyāghrājinaṃ) [becomes](bhavet)
 
 ## mukta-m0-p32-v791
-navel(nābhim) clockwise(pradakṣiṇam) having-made(kṛtvā) skin(ajinam) and(ca) sacred-thread(upavītakam)
+[navel](nābhiṃ) [clockwise](pradakṣiṇaṃ) [having-done](kṛtvā) [skin](ajinaṃ) [sacred-thread](copavītakam)
 
 ## mukta-m0-p32-v792
-threefold(tritayam) and(ca) one-should-place(adhivā) should-do(kuryāt) second(dvitīyam) and(ca) sacred-thread(upavītakam)
+[triad](tritayaṃ) [and](cādhivā) [let-one-do](kuryāt) [second](dvitīyaṃ) [sacred-thread](copavītakam)
 
 ## mukta-m0-p32-v793
-of-vaiśya(vaiśyasya) śimā-leaf(śimā+patram) should-be(syāt) staffs(daṇḍān) according-to-class-order(varṇa+kramāt) one-should-give(dadet)
+[of-vaishya](vaiśyasya) [shimapatra](śimāpatraṃ) [may-be](syāt) [staff](daṇḍān) [by-varna-order](varṇakramāddadet)
 
 ## mukta-m0-p32-v794
-neck-measure(gala+mātram) of-vaiśya-birth(vaiśya+jāteḥ) three(trayam) and(ca) this(etat) one-should-arrange(prakalpayet)
+[throat-measure](galamātraṃ) [of-vaishya-birth](vaiśyajāteḥ) [triad](trayaṃ) [this](caitat) [let-one-appoint](prakalpayet)
 
 ## mukta-m0-p32-v795
-of-women(strīṇām) and(ca) indeed(eva) but(tu) of-all(sarvāsām) for-grace(anugraha+artham) śiva(śivaḥ) should-be(bhavet)
+[of-women](strīṇāṃ) [and](caiva) [but](tu) [all](sarvāsāṃ) [for-grace](anugrahārthaṃ) [shiva](śivo) [becomes](bhavet)
 
 ## mukta-m0-p32-v796
-initiation(upanayanam) but(tu) in-consecration(dīkṣāyām) one-should-cause-to-perform(kārayet) but(tu) six-faced(ṣaḍānana)
+[initiation](upanayanaṃ) [but](tu) [in-diksha](dīkṣāyāṃ) [let-one-cause](kārayettu) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p32-v797
-of-twice-born-women(dvijāti+strīṇām) of-all(sarvāsām) tuft(śikhā) and(ca) indeed(eva) sacred-thread(upavītakam)
+[twice-born-women](dvijātistrīṇāṃ) [all](sarvāsāṃ) [tuft](śikhā) [and](caiva) [sacred-thread](upavītakam)
 
 ## mukta-m0-p32-v798
-initiation(upanayanam) but(tu) in-consecration(dīkṣāyām) at-that-time(tat+kāle) but(tu) marriage(vivāhakam)
+[initiation](upanayanaṃ) [but](tu) [in-diksha](dīkṣāyāṃ) [at-that-time](tatkāle) [but](tu) [marriage](vivāhakam)
 
 ## mukta-m0-p32-v799
-in-sacrifice(yāge) and(ca) indeed(eva) in-fire-offering(agnihotre) and(ca) mantra-brahman(mantra+brahmā) is-called(abhidhīyate)
+[in-sacrifice](yāge) [and](caiva) [in-agnihotra](agnihotre) [ca](ca) [mantra-brahma](mantrabrahmābhidhīyate)
 
 ## mukta-m0-p32-v800
-by-agni-soma-and-other-sacrifices(agnīṣoma+ādibhiḥ) by-sacrifices(yajñaiḥ) sacrificer(yajamānaḥ) but(tu) with-wives(patnibhiḥ)
+[by-agnishoma-etc](agnīṣomādibhiryajñaiḥ) [sacrificer](yajamānastu) [with-wives](patnibhiḥ)

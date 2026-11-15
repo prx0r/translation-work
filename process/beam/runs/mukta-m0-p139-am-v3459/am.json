@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3459,
- "question": "What designation applies to the pot filled with a droṇa of fragrant water?",
+ "question": "How many times is the mantra chanted before giving the rite to anyone?",
  "premises": [
-  "The pot contains a droṇa of fragrant water",
-  "The pot is completely filled",
-  "A specific ritual name is assigned"
+  "aṣṭottaraśataṃ means hundred-and-eight",
+  "japtvā means having-chanted",
+  "yasmai kasmai means to-whomsoever",
+  "prayacchati means gives"
  ],
- "inference": "The pot filled with a droṇa of fragrant water is called the Śiva pot",
- "uncertainties": [],
- "plain_english": "That pot, filled with a droṇa of fragrant water, is called the Śiva pot."
+ "inference": "After chanting one hundred eight times, one gives it to whomever.",
+ "uncertainties": [
+  "recipient scope"
+ ],
+ "plain_english": "Having chanted one hundred eight times, one gives it to whomever."
 }

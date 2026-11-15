@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "dvilakṣeṇa",
+     "gloss": "by-two-lakhs",
+     "grounds": "instrumental count indicating two hundred thousand repetitions",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "mahāvāgmī",
+     "gloss": "great-orator",
+     "grounds": "compound adjective-noun naming the attained status",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "trilakṣeṇa",
+     "gloss": "by-three-lakhs",
+     "grounds": "instrumental count indicating three hundred thousand repetitions",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "mahākaviḥ",
+     "gloss": "great-poet",
+     "grounds": "compound adjective-noun naming the attained status",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What repetition counts make a practitioner a great orator and a great poet?",
+   "premises": [
+    "two lakhs repetitions yield great orator",
+    "three lakhs repetitions yield great poet"
+   ],
+   "inference": "mantra count determines poetic and oratorical attainment",
+   "uncertainties": [
+    "exact mantra and ritual context unspecified"
+   ],
+   "plain_english": "By two lakhs one becomes a great orator; by three lakhs a great poet."
+  }
+ ]
+}

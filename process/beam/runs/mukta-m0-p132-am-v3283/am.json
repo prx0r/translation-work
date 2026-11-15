@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3283,
- "question": "Which weapons are held in the right and left hands of the described deity?",
+ "question": "How many chants bring prosperity to the practitioner?",
  "premises": [
-  "An axe is placed in the right hand.",
-  "A conch weapon is placed in the left hand.",
-  "The conch weapon is described as supreme."
+  "one hundred eight is chanted",
+  "the practitioner chants",
+  "prosperity is obtained"
  ],
- "inference": "The deity holds an axe in the right hand and a supreme conch weapon in the left hand.",
- "uncertainties": [],
- "plain_english": "He holds an axe in the right hand and the supreme conch weapon in the left hand."
+ "inference": "Chanting one hundred eight times brings prosperity to the practitioner.",
+ "uncertainties": [
+  "mantra identity not stated"
+ ],
+ "plain_english": "Having chanted one hundred eight times, the practitioner obtains prosperity."
 }

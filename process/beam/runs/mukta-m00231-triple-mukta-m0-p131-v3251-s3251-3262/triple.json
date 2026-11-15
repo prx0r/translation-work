@@ -1,0 +1,501 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3251,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "kuladevaśca",
+     "gloss": "clan-deity-and",
+     "grounds": "compound with ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "kuladruma",
+     "gloss": "clan-tree",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "m.nom.sg.past-part + root gam"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What standing does the practitioner gain when the clan deity and clan tree are purified?",
+   "premises": [
+    "The practitioner becomes the clan deity.",
+    "The clan tree is situated and pure."
+   ],
+   "inference": "Purification establishes the practitioner's divine clan standing.",
+   "uncertainties": [
+    "Exact ritual referent of kuladruma is not specified."
+   ],
+   "plain_english": "He becomes the clan deity, the clan tree situated and pure."
+  },
+  {
+   "verse": 3252,
+   "rows": [
+    {
+     "surface": "tatsudhādhārasāreṇa",
+     "gloss": "by-that-nectar-stream-essence",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tarpayen",
+     "gloss": "he-should-satisfy",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root tṛp"
+    },
+    {
+     "surface": "mātṛkānane",
+     "gloss": "in-mother-grove",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the practitioner satisfy the mother-grove in this rite?",
+   "premises": [
+    "He should satisfy by that nectar-stream essence.",
+    "The satisfaction occurs in the mother-grove."
+   ],
+   "inference": "The rite uses nectar-stream essence to satisfy the mother-grove.",
+   "uncertainties": [
+    "The exact substance called nectar-stream essence is not defined."
+   ],
+   "plain_english": "By that nectar-stream essence he should satisfy the mother-grove."
+  },
+  {
+   "verse": 3253,
+   "rows": [
+    {
+     "surface": "cāmaraṃ",
+     "gloss": "whisk",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ravivimbañca",
+     "gloss": "sun-disk-and",
+     "grounds": "compound with ca",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "tilapuṣpaṃ",
+     "gloss": "sesame-flower",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarovaram",
+     "gloss": "lake",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which ritual objects are named in this enumeration?",
+   "premises": [
+    "The whisk is named.",
+    "The sun-disk and sesame-flower are named.",
+    "The lake is named."
+   ],
+   "inference": "The verse enumerates ritual objects for the practice.",
+   "uncertainties": [
+    "Their ritual use is not stated in this verse."
+   ],
+   "plain_english": "Whisk, sun-disk, sesame-flower, and lake."
+  },
+  {
+   "verse": 3254,
+   "rows": [
+    {
+     "surface": "mukhaprasādaṃ",
+     "gloss": "face-grace",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "suvacaḥ",
+     "gloss": "good-speech",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sulocanaṃ",
+     "gloss": "good-eyes",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "suhāsyakam",
+     "gloss": "good-smile",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What bodily and expressive benefits are promised to the practitioner?",
+   "premises": [
+    "Face-grace is promised.",
+    "Good speech and good eyes are promised.",
+    "Good smile is promised."
+   ],
+   "inference": "The practice yields graceful face, speech, eyes, and smile.",
+   "uncertainties": [
+    "Whether these are literal or symbolic benefits is not stated."
+   ],
+   "plain_english": "Face-grace, good speech, good eyes, and good smile."
+  },
+  {
+   "verse": 3255,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres + root labh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāsaṃkhyaṃ",
+     "gloss": "according-to-number",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthiramānasaḥ",
+     "gloss": "steady-minded",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who obtains the promised results in their proper number?",
+   "premises": [
+    "The practitioner obtains them.",
+    "The practitioner is steady-minded.",
+    "The results come according to number."
+   ],
+   "inference": "A steady-minded practitioner obtains the promised results in due measure.",
+   "uncertainties": [
+    "The exact number is not given here."
+   ],
+   "plain_english": "The steady-minded practitioner obtains them according to number."
+  },
+  {
+   "verse": 3256,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśāṃśena",
+     "gloss": "sixteenth-part",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nārhanita",
+     "gloss": "not-deserve",
+     "grounds": "negated participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śavāḥ",
+     "gloss": "corpses",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do the corpses not deserve even a sixteenth part of his fruit?",
+   "premises": [
+    "His fruit is not shared equally.",
+    "The corpses do not deserve it.",
+    "Even a sixteenth part is denied."
+   ],
+   "inference": "The corpses are excluded from the practitioner's fruit.",
+   "uncertainties": [
+    "The identity of the corpses is not specified."
+   ],
+   "plain_english": "Even a sixteenth part of his fruit the corpses do not deserve."
+  },
+  {
+   "verse": 3257,
+   "rows": [
+    {
+     "surface": "latārateṣu",
+     "gloss": "in-creeper-gems",
+     "grounds": "compound locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "japtavyaṃ",
+     "gloss": "to-be-chanted",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg.pass-gerundive + root jap"
+    },
+    {
+     "surface": "mahāpātakamuktaye",
+     "gloss": "for-great-sin-release",
+     "grounds": "compound dative",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Where should chanting be performed for release from great sin?",
+   "premises": [
+    "Chanting is to be done in creeper-gems.",
+    "The purpose is release from great sin."
+   ],
+   "inference": "Chanting in creeper-gems releases from great sin.",
+   "uncertainties": [
+    "The meaning of creeper-gems is not explained."
+   ],
+   "plain_english": "In creeper-gems one should chant for release from great sin."
+  },
+  {
+   "verse": 3258,
+   "rows": [
+    {
+     "surface": "latābhāve",
+     "gloss": "in-absence-of-creeper",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samutsārya",
+     "gloss": "having-expelled",
+     "grounds": "absolutive",
+     "morph": "absolutive + root sam-utsṛ"
+    },
+    {
+     "surface": "svaśukraṃ",
+     "gloss": "own-semen",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the best practitioner do when no creeper is present?",
+   "premises": [
+    "In absence of creeper, he expels his own semen.",
+    "The actor is the best practitioner."
+   ],
+   "inference": "Without creeper, the best practitioner expels his own semen.",
+   "uncertainties": [
+    "The ritual purpose of this act is not stated."
+   ],
+   "plain_english": "In absence of creeper, the best practitioner, having expelled his own semen."
+  },
+  {
+   "verse": 3259,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cīnakrameṇaiva",
+     "gloss": "by-china-method",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tārā",
+     "gloss": "Tara",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śīghraphalapradā",
+     "gloss": "quick-fruit-giving",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What result does Tara give through the China method?",
+   "premises": [
+    "Thus by the China method.",
+    "Tara is quick-fruit-giving."
+   ],
+   "inference": "Tara gives quick fruit through the China method.",
+   "uncertainties": [
+    "The exact fruit is not specified."
+   ],
+   "plain_english": "Thus by the China method Tara is quick-fruit-giving."
+  },
+  {
+   "verse": 3260,
+   "rows": [
+    {
+     "surface": "mahācīnakrameṇaiva",
+     "gloss": "by-great-china-method",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "Kalika",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "phaladāyiṇī",
+     "gloss": "fruit-giving",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What result does Kalika give through the great China method?",
+   "premises": [
+    "By the great China method.",
+    "Kalika is fruit-giving."
+   ],
+   "inference": "Kalika gives fruit through the great China method.",
+   "uncertainties": [
+    "The exact fruit is not specified."
+   ],
+   "plain_english": "By the great China method Kalika is fruit-giving."
+  },
+  {
+   "verse": 3261,
+   "rows": [
+    {
+     "surface": "tāsāntu",
+     "gloss": "their",
+     "grounds": "pronoun with tu",
+     "morph": "f.gen.pl + (indecl.)"
+    },
+    {
+     "surface": "samatā",
+     "gloss": "equality",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg.pass-gerundive + root jñā"
+    },
+    {
+     "surface": "guptasādhanasādhane",
+     "gloss": "in-secret-practice",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What equality must be known in secret practice?",
+   "premises": [
+    "Their equality is to be known.",
+    "It is known in secret practice."
+   ],
+   "inference": "The equality of those goddesses must be known in secret practice.",
+   "uncertainties": [
+    "The exact equality intended is not specified."
+   ],
+   "plain_english": "Their equality is to be known in secret practice."
+  },
+  {
+   "verse": 3262,
+   "rows": [
+    {
+     "surface": "tāsāṃ",
+     "gloss": "their",
+     "grounds": "pronoun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samatā",
+     "gloss": "equality",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg.pass-gerundive + root jñā"
+    },
+    {
+     "surface": "guptasādhanasādhane",
+     "gloss": "in-secret-practice",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What equality must be known in secret practice?",
+   "premises": [
+    "Their equality is to be known.",
+    "It is known in secret practice."
+   ],
+   "inference": "The equality of those goddesses must be known in secret practice.",
+   "uncertainties": [
+    "The exact equality intended is not specified."
+   ],
+   "plain_english": "But their equality is to be known in secret practice."
+  }
+ ]
+}

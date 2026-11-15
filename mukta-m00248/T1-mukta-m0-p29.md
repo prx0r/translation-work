@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[rampart](prākāro) [drinking-place](pānakaṃ) [or](vāpi) [assembly-hall](sabhāṃ) [or](vā) [enclosure](vāṭālayaṃ) [indeed](tu) [or](vā)
+[wall](prākāro) [drink](pānakaṃ) [or](vāpi) [assembly-hall](sabhāṃ) [garden+house](vāṭālayaṃ) [but](tu) [or](vā)
 
 ## mukta-m0-p29-v702
-[elephant](gajaṃ) [or](vā) [horse-herd](turaga+yūthaṃ) [or](vā) [or](atha) [also](api) [man-herd](nara+yūtham) [or](vā)
+[elephant](gajaṃ) [horse+herd](turagayūthaṃ) [or](vā) [man+herd](narayūtham) [also](athāpi) [or](vā)
 
 ## mukta-m0-p29-v703
-[bad-dream](duḥsvapnaṃ) [should-cause-to-hear](śrāvayet) [outside](bāhyaḥ) [good-dream](susvapnaṃ) [should-cause-to-grasp](grāhayet) [man](naraḥ)
+[bad+dream](duḥsvapnaṃ) [should-tell](śrāvayed) [outside](bāhyas) [good+dream](susvapnaṃ) [should-make-grasp](grāhayet) [man](naraḥ)
 
 ## mukta-m0-p29-v704
-[black](kṛṣṇaṃ) [and](ca) [cowherd](goplavaṃ) [one-should-see](paśyet) [maiden](kanyakāṃ) [in-dream](svapne) [indeed](tu) [one-should-eat](bhakṣayet)
+[black](kṛṣṇaṃ) [and](ca) [cow+crossing](goplavaṃ) [would-see](paśyet) [girl](kanyakāṃ) [in+dream](svapne) [but](tu) [would-eat](bhakṣayet)
 
 ## mukta-m0-p29-v705
-[who](yaḥ) [indeed](tu) [sees](paśyati) [at-dream-end](svapna+ante) [wealth-grain-loss](dhana+dhānya+kṣayaḥ) [should-be](bhavet)
+[who](yas) [but](tu) [sees](paśyati) [at+dream+end](svapnānte) [wealth+grain+loss](dhanadhānyakṣayo) [becomes](bhavet)
 
 ## mukta-m0-p29-v706
-[from-feces](purīṣāt) [wealth-loss](dhana+kṣayaṃ) [child](vatsa) [from-urine](mūtrāt) [grain-loss](dhānya+kṣayaṃ) [should-be](bhavet)
+[from+feces](purīṣād) [wealth+loss](dhanakṣayaṃ) [child](vatsa) [from+urine](mūtrād) [grain+loss](dhānyakṣayaṃ) [becomes](bhavet)
 
 ## mukta-m0-p29-v707
-[having-uttered-hum](huṃkṛtvā) [awakens](buddhyati) [at-dream-end](svapna+ante) [life-prosperity-fame-increase](āyuḥ+śrī+kīrti+vardhanam)
+[having-hummed](huṃkṛtvā) [awakens](buddhyati) [at+dream+end](svapnānte) [life+glory+fame+increase](āyuḥśrīkīrtivardhanam)
 
 ## mukta-m0-p29-v708
-[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [in-union](saṃyoge) [sexual-intercourse](maithunaṃ) [auspicious](śubham)
+[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [in+union](saṃyoge) [intercourse](maithunaṃ) [auspicious](śubham)
 
 ## mukta-m0-p29-v709
-[thus](iti) [in-Kālottara](kālottare) [dream-chapter](svapna+paṭalaḥ) [fifteenth](pañcadaśaḥ)
+[thus](iti) [in+kālottara](kālottare) [dream+chapter](svapnapaṭalaḥ) [fifteenth](pañcadaśaḥ)
 
 ## mukta-m0-p29-v710
-[those-bathed-with-mud-and-amalaka](mudrā+amalaka+kṛta+āsnātān) [having-performed-purification](kṛta+śauca) [sense-controlled](jita+indiyān)
+[seal+mal+made+bathed](mudrāmalakṛtāsnātān) [made+purified](kṛtaśauca) [conquered+senses](jitendiyān)
 
 ## mukta-m0-p29-v711
-[or](athavā) [with-cotton](kārpāsikena) [even](api) [cool-smooth](śita+ślakṣṇena) [with-garment](vāsasā)
+[or](athavā) [with+cotton](kārpāsikena) [also](api) [white+smooth](śitaślakṣṇena) [cloth](vāsasā)
 
 ## mukta-m0-p29-v712
-[therefore](tasmāt) [with-all-effort](sarva+prayatnena) [with-auspicious-garment](śubha+vastreṇa) [one-should-bind](bandhayet)
+[therefore](tasmāt) [all+effort](sarvaprayatnena) [auspicious+cloth](śubhavastreṇa) [should-bind](bandhayet)
 
 ## mukta-m0-p29-v713
-[with-lotus](śataparṇena) [flower](puṣpaṃ) [indeed](tu) [or](api) [with-half-of-that](tat+ardhena) [one-should-make](kārayet)
+[with+hundred+petals](śataparṇena) [flower](puṣpaṃ) [but](tu) [that+half](tadardhena) [also](api) [should-make](kārayet)
 
 ## mukta-m0-p29-v714
-[with-Īśāna-mantra](īśānena) [indeed](eva) [with-mantra](mantreṇa) [in-hollowed-palms](añjalau) [flower](puṣpam) [one-should-cast](ākṣipet)
+[by+īśāna](īśānena) [indeed](eva) [with+mantra](mantreṇa) [in+palms](añjalau) [flower](puṣpam) [should-throw](ākṣipet)
 
 ## mukta-m0-p29-v715
-[having-meditated](dhyātvā) [indeed](tu) [on-lord-of-gods](deva+deva+īśaṃ) [one-should-cast](kṣipet) [flower](puṣpaṃ) [concentrated](samāhitaḥ)
+[having-meditated](dhyātvā) [but](tu) [god+of+gods+lord](devadeveśaṃ) [should-throw](kṣipet) [flower](puṣpaṃ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p29-v716
-[that-mantra](tat+mantraṃ) [succeeds](siddhyate) [for-him](tasya) [or](vāpi) [it-bestows](kurute) [grace](anugraham)
+[that+mantra](tanmantraṃ) [becomes+accomplished](siddhyate) [of+him](tasya) [does](kurute) [or](vā) [also](api) [favor](anugraham)
 
 ## mukta-m0-p29-v717
-[on-disciple's](śiṣyasya) [on-head](śirasi) [having-cast](kṣipya) [with-fragrance-etc.](gandha+ādibhiḥ) [then](atha) [one-should-worship](arcayet)
+[of+disciple](śiṣyasya) [on+head](śirasi) [having-thrown](kṣipya) [with+sandal+etc](gandhādibhir) [then](athā) [worships](arcayet)
 
 ## mukta-m0-p29-v718
-[Aghora](aghoraṃ) [in-heart](hṛdaye) [having-placed](nyasya) [secret](guhyaṃ) [Vāma](vāmaṃ) [indeed](tu) [one-should-place](vinyaset)
+[aghora](aghoraṃ) [at+heart](hṛdaye) [having-placed](nyasya) [secret](guhyaṃ) [vāma](vāmaṃ) [but](tu) [should-place](vinyaset)
 
 ## mukta-m0-p29-v719
-[in-heart](hṛdaye) [heart](hṛdaye) [having-placed](nyasya) [in-three-parts](trike) [head](śiraḥ) [on-head](śirasi) [one-should-place](vinyaset)
+[heart](hṛdaye) [heart](hṛdaye) [having-placed](nyasya) [at+triad](trike) [head](śiraḥ) [head](śirasi) [should-place](vinyaset)
 
 ## mukta-m0-p29-v720
-[weapon](astraṃ) [in-hand-regions](hasta+pradeśeṣu) [in-eyes](netre) [eyes](netre) [indeed](tu) [one-should-place](vinyaset)
+[weapon](astraṃ) [hand+regions](hastapradeśeṣu) [eye](netre) [eye](netre) [but](tu) [should-place](vinyaset)
 
 ## mukta-m0-p29-v721
-[of-the-deity](devasya) [on-right](dakṣiṇe) [on-side](pārśve) [having-placed](sthāpa) [one-should-place](vinyaset)
+[of+god](devasya) [right](dakṣiṇe) [side](pārśve) [place](sthāpa) [should-place](vinyaset)
 
 ## mukta-m0-p29-v722
-[mantra-path](mantra+adhvā) [and](ca) [word-path](pada+adhvā) [and](ca) [principle-path](tatva+adhvā) [consisting-of-worlds](bhuvana+ātmakaḥ)
+[mantra+path](mantrādhvā) [and](ca) [pada+path](padādhvā) [and](ca) [tattva+path](tatvādhvā) [world+soul](bhuvanātmakaḥ)
 
 ## mukta-m0-p29-v723
-[mantra-path](mantra+adhvānaṃ) [one-should-place](nyaset) [on-head](mūrdhni) [word-path](pada+adhvānaṃ) [in-mouth](mukhe) [one-should-place](nyaset)
+[mantra+path](mantrādhvānaṃ) [should-place](nyaset) [on+head](mūrdhni) [pada+path](padādhvānaṃ) [in+mouth](mukhe) [should-place](nyaset)
 
 ## mukta-m0-p29-v724
-[letter-path](varṇa+adhvānaṃ) [at-root-of-genitals](meḍhra+mūle) [kalā-path](kalā+adhvānaṃ) [in-foot](pade) [one-should-place](nyaset)
+[varṇa+path](varṇādhvānaṃ) [genital+root](meḍhramūle) [kalā+path](kalādhvānaṃ) [in+foot](pade) [should-place](nyaset)
 
 ## mukta-m0-p29-v725
-[in-east-and-south](pūrva+dakṣiṇataḥ) [and](ca) [indeed](eva) [in-west-north](paścima+uttara) [above](ūrdhvataḥ)
+[east+south](pūrvadakṣiṇataś) [and](ca) [indeed](eva) [west+north](paścimottara) [upward](ūrdhvataḥ)

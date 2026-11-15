@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3193,
- "question": "Which deity appears within the bud and with what form?",
+ "question": "What follows after the hard seed and world mother?",
  "premises": [
-  "Brahma is located within the bud.",
-  "Brahma is described as four-faced and four-armed."
+  "hard seed is mentioned",
+  "world mother is mentioned",
+  "that end follows"
  ],
- "inference": "Brahma appears inside the bud in a four-faced, four-armed form.",
- "uncertainties": [],
- "plain_english": "Within the bud is Brahma, four-faced and four-armed."
+ "inference": "Then hard seed and world mother lead to that end.",
+ "uncertainties": [
+  "sequence unclear"
+ ],
+ "plain_english": "Then hard seed, world mother, that end."
 }

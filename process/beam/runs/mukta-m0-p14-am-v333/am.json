@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p14",
  "verse": 333,
- "question": "What radiant appearance should the goddess be visualized as having?",
+ "question": "What garland and ring ornaments are specified?",
  "premises": [
-  "The goddess is the object of visualization.",
-  "She shines like the young sun and resembles a hibiscus flower."
+  "A triple bliss garland is specified.",
+  "A ring gem is specified.",
+  "Both are ornaments."
  ],
- "inference": "The goddess should be meditated upon as red and radiant like the rising sun and hibiscus.",
- "uncertainties": [],
- "plain_english": "Meditate on the goddess, radiant like the young sun and resembling a hibiscus flower."
+ "inference": "The verse specifies a triple bliss garland and a ring gem.",
+ "uncertainties": [
+  "Compound internal sandhi is not expanded."
+ ],
+ "plain_english": "A triple bliss garland and a ring gem are specified."
 }

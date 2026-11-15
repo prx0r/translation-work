@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p14",
  "verse": 334,
- "question": "How are the goddess's breasts described in this iconographic detail?",
+ "question": "What blouse and lip adornment are specified?",
  "premises": [
-  "A specific bodily feature is described.",
-  "They are full, raised, and shaped like golden pots."
+  "A gold-tinged blouse is specified.",
+  "Lac is specified.",
+  "The lips are the place."
  ],
- "inference": "The goddess is visualized with full, uplifted breasts likened to golden pots.",
- "uncertainties": [],
- "plain_english": "She has full, raised breasts shaped like golden pots."
+ "inference": "The verse specifies a gold-tinged blouse and lac for the lips.",
+ "uncertainties": [
+  "Compound internal sandhi is not expanded."
+ ],
+ "plain_english": "A gold-tinged blouse and lac for the lips are specified."
 }

@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "niveśya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of niveśayati, to place or set down",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative singular of bhūmi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive of saṃsthāpayati, to establish or fix",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "romasthaḥ",
+     "gloss": "hair-standing",
+     "grounds": "compound roma-stha, hair that stands",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kukkuṭāsanaḥ",
+     "gloss": "cock-posture",
+     "grounds": "compound kukkuṭa-āsana, cock seat or posture",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What bodily configuration constitutes the cock-posture in this Kaula yoga instruction?",
+   "premises": [
+    "The practitioner places something on the ground.",
+    "The practitioner establishes a fixed position.",
+    "The hair stands while assuming the posture."
+   ],
+   "inference": "The cock-posture is performed with the body placed and established on the ground while the hair stands.",
+   "uncertainties": [
+    "The exact referent of niveśya is not specified in this verse.",
+    "Whether romasthaḥ describes the practitioner or an accompanying sign is not explicit."
+   ],
+   "plain_english": "Having placed on the ground and established the position, with hair standing, one assumes the cock-posture."
+  }
+ ]
+}

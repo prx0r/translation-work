@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p98-v2426
-separately(pṛthak) indeed(vai) cloth+pair(by-vastra+yugmena) having-worshipped(pūjayitvā) on-all-sides(samantataḥ)
+[separately-indeed](pṛthagvai) [with-cloth-pair](vastrayugmena) [having-worshipped](pūjayitvā) [all-around](samantataḥ)
 
 ## mukta-m0-p98-v2427
-jars(kalaśān) having-placed(nyastvā) according-to-rule(vidhānena) afterwards(paścāt) oblation(homam) one-should-begin(samārabhet)
+[placing-pots](kalaśānnyastvā) [by-rite](vidhānena) [afterwards-offering](paścāddhomaṃ) [should-begin](samārabhet)
 
 ## mukta-m0-p98-v2428
-in-special-cases(viśeṣeṣu) and(ca) to-be-made(kartavyam) square(caturaśram) all+fire-pit(sarva+kuṇḍakam)
+[in-special-cases](viśeṣeṣu) [and](ca) [to-be-done](kartavyaṃ) [square](caturaśraṃ) [all-altars](sarvakuṇḍakam)
 
 ## mukta-m0-p98-v2429
-square(caturaśram) should-be(bhavet) in-east(pūrvam) in-southeast(āgneyyām) but(tu) triangular(trikoṇakam)
+[square](caturaśraṃ) [should-be-first](bhavetpūrvaṃ) [in-āgneya](āgneyyāṃ) [but](tu) [triangular](trikoṇakam)
 
 ## mukta-m0-p98-v2430
-in-west(vāruṇyām) circular(vartulam) fire-pit(kuṇḍam) in-northwest(vāyavyām) five-cornered(pañcakoṇakam)
+[in-vāruṇa](vāruṇyāṃ) [round](vartulaṃ) [altar](kuṇḍaṃ) [in-vāyava](vāyavyāṃ) [pentagonal](pañcakoṇakam)
 
 ## mukta-m0-p98-v2431
-in-square(caturaśre) vāstu+oblation(vāstu+homam) and(ca) vāstu+knowledge+expert(vāstu+vidyā+viśāradaḥ)
+[in-square](caturaśre) [vāstu-offering](vāstuhomaṃ) [and](ca) [vāstu-science-expert](vāstuvidyāviśāradaḥ)
 
 ## mukta-m0-p98-v2432
-with-necklaces+armlets+bracelets(hāra+keyūra+kaṭakaiḥ) with-sacred-thread+finger-rings(ūpavīta+aṅgulīyakaiḥ)
+[with-garlands+armlets+bracelets+sacred-thread+rings](hārakeyūrakaṭakairūpavītāṅgulīyakaiḥ)
 
 ## mukta-m0-p98-v2433
-in-east(aindrām) and(ca) indeed(eva) but(tu) in-southeast(āgneyyām) with-cloth(vastrataḥ) oblation(homam) one-should-begin(ārabhet)
+[aindra?](aindrāṃ?) [and-indeed](caiva) [but](tu) [in-āgneya](āgneyyāṃ) [from-cloth](vastrato) [offering-begin](homamārabhet)
 
 ## mukta-m0-p98-v2434
-in-west(vāruṇyām) and(ca) indeed(eva) in-northwest(vāyavyām) sāma-singer(sāmagaḥ) oblation(homam) one-should-begin(ārabhet)
+[in-vāruṇa](vāruṇyāṃ) [and-indeed](caiva) [in-vāyava](vāyavyāṃ) [sāmaveda-reciter](sāmago) [offering-begin](homamārabhet)
 
 ## mukta-m0-p98-v2435
-at-head(śirasi) place(sthānam) teacher(ācāryaḥ) twofold(dviguṇam) oblation(homam) one-should-begin(ārabhet)
+[on-head](śirasi) [place](sthānam) [teacher](ācāryo) [double](dviguṇaṃ) [offering-begin](homamārabhet)
 
 ## mukta-m0-p98-v2436
-palāśa(palāśa) khadira(khadira) aśvattha(aśvattha) plakṣa(plakṣa) nyagrodha(nyagrodha) indeed(eva) and(ca)
+[palāśa+khadira+aśvattha](palāśakhadirāśvattha) [plakṣa+nyagrodha](plakṣanyagrodha) [indeed](eva) [and](ca)
 
 ## mukta-m0-p98-v2437
-jātī(jātī) vakula(vakula) rājārka(rājārka) kadamba(kadambaṃ) mango(cūtam) indeed(eva) and(ca)
+[jasmine+?+?+arka](jātīvakularājārka) [kadamba](kadambaṃ) [mango-indeed](cūtameva) [and](ca)
 
 ## mukta-m0-p98-v2438
-two-spans(dvi+prādeśam) should-be(bhavet) fuel(idhmam) firewood(samid) indeed(vai) palm-measure(tāla+mātrataḥ)
+[two-spans](dviprādeśaṃ) [should-be](bhaved) [fuel](idhmaṃ) [firewood-indeed](samidvai) [palm-measure](tālamātrataḥ)
 
 ## mukta-m0-p98-v2439
-churned+fire(mathita+agnim) especially(viśeṣāt) but(tu) vedic-scholar’s(śrotriyasya) in-house(gṛhe) also(api) or(vā)
+[churned-fire](mathitāgniṃ) [especially](viśeṣāttu) [of-brāhmaṇa-scholar](śrotriyasya) [in-house](gṛhepi) [or](vā)
 
 ## mukta-m0-p98-v2440
-conception+etc.+rites(garbhādhāna+ādi+karmāṇi) one-should-cause-to-perform(kārayet) there(tatra) accomplished-one(pāragaḥ)
+[conception-etc-rites](garbhādhānādikarmāṇi) [should-cause-there](kārayettatra) [expert](pāragaḥ)
 
 ## mukta-m0-p98-v2441
-ladle(sruvam) spoon(darvīm) sruvā(sruvā) and(ca) indeed(eva) valabhṛt(valabhṛt) rice(taṇḍulam) ghee(ghṛtam)
+[ladle](sruvaṃ) [spoons](darvīssruvā) [and-indeed](caiva) [valabhṛt-rice](valabhṛttaṇḍulaṃ) [ghasa?](ghaṣam)
 
 ## mukta-m0-p98-v2442
-kuśa-bundle(kūrca+rājam) sesame(tilam) and(ca) indeed(eva) mustard(sarṣapam) śāli-bamboo(śāli+veṇavam)
+[kūrca-king](kūrcarājaṃ) [sesame](tilaṃ) [and-indeed](caiva) [mustard](sarṣapaṃ) [rice-bamboo](śāliveṇavam)
 
 ## mukta-m0-p98-v2443
-moon-shaped(candra+rūpāṇi) indeed(vai) child(vatsa) one-should-accomplish(sādhayet) all(sarvam) indeed(eva) verily(hi)
+[moon-forms](candrarūpāṇi) [indeed](vai) [child](vatsa) [should-accomplish-all-indeed](sādhayetsarvameva) [indeed](hi)
 
 ## mukta-m0-p98-v2444
-having-consecrated(saṃskṛtya) according-to-rule(vidhivat) and(ca) fire(agnim) to-priests(ṛtvijebhyaḥ) one-should-give(pradāpayet)
+[having-purified](saṃskṛtya) [according-to-rite-and-fire-to-priests](vidhivaccāgnimṛtvijebhyaḥ) [should-give](pradāpayet)
 
 ## mukta-m0-p98-v2445
-in-east(pūrve) tatpuruṣa(tatpuruṣam) mantra(mantram) imā-rudreti(imā-rudreti) one-should-offer(homayet)
+[in-east](pūrve) [tatpuruṣa-mantra](tatpuruṣaṃ mantraṃ) [imā-rudra](imā rudreti) [should-offer](homayet)
 
 ## mukta-m0-p98-v2446
-in-south(dakṣiṇe) but(tu) aghora(aghoram) then(tu) parito-rudreṇa(parito-rudreṇa) one-should-offer(homayet)
+[in-south](dakṣiṇe) [but](tu) [aghora](aghorantu) [around](parito) [with-rudra](rudreṇa) [should-offer](homayet)
 
 ## mukta-m0-p98-v2447
-in-west(paścime) with-sadya-mantra(sadya+mantreṇa) agna-āyāhi-vai-guha(agna-āyāhi-vai-guha) one-should-offer(homayet)
+[in-west](paścime) [sadya-mantra](sadyamantreṇa) [agna-come](agna āyāhi) [indeed](vai) [guha](guha)
 
 ## mukta-m0-p98-v2448
-in-north(saumyāyām) with-vāmadeva(vāmadevena) śanno-devīrabhiṣṭaye(śanno-devīrabhiṣṭaye) one-should-offer(homayet)
+[in-northeast?](saumyāyāṃ) [vāmadeva](vāmadevena) [śaṃ-no-devī](śanno devīrabhiṣṭaye)
 
 ## mukta-m0-p98-v2449
-with-forty-nine-mantras(nava+catvāri+mantreṇa) vāstu+oblation(vāstu+homam) then(tu) one-should-cause-to-perform(kārayet)
+[nine-four-mantra](navacatvārimantreṇa) [vāstu-offering](vāstuhomantu) [should-cause](kārayet)
 
 ## mukta-m0-p98-v2450
-temple+oblation(prāsāda+homam) with-aṣṭāyur-bīja-chief(aṣṭāyur+bīja+mukhyena) one-should-offer(homayet)
+[palace-offering-with-eight-year-seed-chief](prāsādahomamaṣṭāyurbījamukhyena) [should-offer](homayet)

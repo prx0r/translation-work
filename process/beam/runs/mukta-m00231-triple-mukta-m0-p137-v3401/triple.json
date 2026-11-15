@@ -1,0 +1,991 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3401,
+   "rows": [
+    {
+     "surface": "mudrāṃ",
+     "gloss": "seal",
+     "grounds": "accusative object of baddhvā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣobhiṇīṃ",
+     "gloss": "agitating",
+     "grounds": "adjective modifying mudrām",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "absolutive of bandh",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "accusative object of japet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṣṭaśataṃ",
+     "gloss": "eight-hundred",
+     "grounds": "numeral modifying japet",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative of jap",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What preliminary rite must the practitioner perform before chanting the mantra eight hundred times?",
+   "premises": [
+    "The practitioner binds the agitating seal.",
+    "Then he chants the mantra eight hundred times."
+   ],
+   "inference": "The verse prescribes binding the kṣobhiṇī mudrā before the eight-hundredfold mantra recitation.",
+   "uncertainties": [
+    "The exact ritual identity of kṣobhiṇī mudrā is not specified here."
+   ],
+   "plain_english": "Having bound the agitating seal, he should chant the mantra eight hundred times."
+  },
+  {
+   "verse": 3402,
+   "rows": [
+    {
+     "surface": "tato'pi",
+     "gloss": "then",
+     "grounds": "adverbial particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhika",
+     "gloss": "more",
+     "grounds": "adjective modifying sarvāṅgīm",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvāṅgīṃ",
+     "gloss": "all-limbed",
+     "grounds": "accusative object of supīḍitām",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāmabāṇaiḥ",
+     "gloss": "with-love-arrows",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "supīḍitām",
+     "gloss": "well-pressed",
+     "grounds": "accusative participle",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the all-limbed form to be treated after the eight-hundredfold chanting?",
+   "premises": [
+    "After that, more is done.",
+    "The all-limbed form is well pressed with love-arrows."
+   ],
+   "inference": "The verse intensifies the rite by pressing the all-limbed form with love-arrows.",
+   "uncertainties": [
+    "The referent of sarvāṅgī is not explicitly named."
+   ],
+   "plain_english": "Then, more: the all-limbed one is well pressed with love-arrows."
+  },
+  {
+   "verse": 3403,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākarṣayet",
+     "gloss": "attract",
+     "grounds": "optative of ākṛṣ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nārīṃ",
+     "gloss": "woman",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yojanānāṃ+śatair+api",
+     "gloss": "even-by-hundreds-of-yojanas",
+     "grounds": "instrumental phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result follows from performing the rite in this manner?",
+   "premises": [
+    "Thus he attracts the woman.",
+    "Even hundreds of yojanas do not prevent it."
+   ],
+   "inference": "The verse claims the rite attracts a woman across great distances.",
+   "uncertainties": [
+    "The exact distance formula is compressed in the fused token."
+   ],
+   "plain_english": "Thus he attracts the woman, even across hundreds of yojanas."
+  },
+  {
+   "verse": 3404,
+   "rows": [
+    {
+     "surface": "aṣṭamīrātrim",
+     "gloss": "from-eighth-night",
+     "grounds": "accusative temporal phrase",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive of ārabh",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "until-fourteenth",
+     "grounds": "locative temporal",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "complete",
+     "grounds": "optative of samāp",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What is the prescribed duration of this attraction rite?",
+   "premises": [
+    "Beginning from the eighth night.",
+    "Complete it by the fourteenth."
+   ],
+   "inference": "The rite runs from the eighth night to the fourteenth night.",
+   "uncertainties": [
+    "Whether lunar nights are intended is not stated."
+   ],
+   "plain_english": "Beginning from the eighth night, complete it by the fourteenth."
+  },
+  {
+   "verse": 3405,
+   "rows": [
+    {
+     "surface": "tāmbūlapūritamukhaḥ",
+     "gloss": "betel-filled-mouth",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktakeśaḥ",
+     "gloss": "loose-haired",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jitendriyaḥ",
+     "gloss": "sense-conquered",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What bodily and mental condition should the practitioner maintain during the rite?",
+   "premises": [
+    "His mouth is filled with betel.",
+    "His hair is loose.",
+    "His senses are conquered."
+   ],
+   "inference": "The verse prescribes a betel-filled mouth, loose hair, and conquered senses.",
+   "uncertainties": [
+    "The exact ritual significance of each condition is not explained."
+   ],
+   "plain_english": "With betel-filled mouth, loose hair, and conquered senses."
+  },
+  {
+   "verse": 3406,
+   "rows": [
+    {
+     "surface": "gandhacandanapuṣpaiḥ",
+     "gloss": "with-sandal-perfume-flowers",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "digvāsāḥ",
+     "gloss": "sky-clad",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulabhūṣaṇaḥ",
+     "gloss": "clan-ornament",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What adornment and attire accompany the practitioner's ritual condition?",
+   "premises": [
+    "He is adorned with sandal, perfume, and flowers.",
+    "He is sky-clad and clan-ornament."
+   ],
+   "inference": "The verse adds fragrant adornment, sky-cladness, and clan ornamentation.",
+   "uncertainties": [
+    "The precise meaning of kulabhūṣaṇa is context-dependent."
+   ],
+   "plain_english": "With sandal, perfume, and flowers; sky-clad and clan-ornament."
+  },
+  {
+   "verse": 3407,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samāyāti",
+     "gloss": "comes",
+     "grounds": "present of samāyā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kāmārttā",
+     "gloss": "love-afflicted",
+     "grounds": "adjective modifying sā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjakaḥ",
+     "gloss": "worshipper",
+     "grounds": "nominative apposition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who comes to the practitioner and under what condition?",
+   "premises": [
+    "The love-afflicted one comes.",
+    "She comes where the god-worshipper is."
+   ],
+   "inference": "The verse states that the love-afflicted woman comes to the place of the worshipping god.",
+   "uncertainties": [
+    "Whether deva means deity or adept is not fixed."
+   ],
+   "plain_english": "The love-afflicted one comes where the god-worshipper is."
+  },
+  {
+   "verse": 3408,
+   "rows": [
+    {
+     "surface": "vāmabhāge",
+     "gloss": "on-left-side",
+     "grounds": "locative phrase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samāsīnam",
+     "gloss": "seated",
+     "grounds": "accusative participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "raktavastravibhūṣitam",
+     "gloss": "red-garment-adorned",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the practitioner to be visualized in this rite?",
+   "premises": [
+    "He is seated on the left side.",
+    "He is adorned with red garments."
+   ],
+   "inference": "The verse visualizes the practitioner seated on the left, red-garmented.",
+   "uncertainties": [
+    "The exact seat or altar is not specified."
+   ],
+   "plain_english": "Seated on the left side, adorned with red garments."
+  },
+  {
+   "verse": 3409,
+   "rows": [
+    {
+     "surface": "sarvaśṛṅgāraveśāḍhyam",
+     "gloss": "all-ornament-rich",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sphuraccakitalocanam",
+     "gloss": "trembling-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What further visual qualities belong to the practitioner?",
+   "premises": [
+    "He is rich in all ornament.",
+    "His eyes are trembling."
+   ],
+   "inference": "The verse adds full ornamentation and trembling eyes to the visualization.",
+   "uncertainties": [
+    "The exact ornament set is not enumerated."
+   ],
+   "plain_english": "Rich in all ornament, with trembling eyes."
+  },
+  {
+   "verse": 3410,
+   "rows": [
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantramālikhya",
+     "gloss": "mantra-written",
+     "grounds": "absolutive of ālikh",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "sādhyanāmavidarbhitam",
+     "gloss": "target-name-included",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is to be written on the practitioner's forehead?",
+   "premises": [
+    "On the forehead, the mantra is written.",
+    "The target's name is included."
+   ],
+   "inference": "The verse prescribes writing the mantra on the forehead with the target's name included.",
+   "uncertainties": [
+    "The script or yantra form is not specified."
+   ],
+   "plain_english": "On the forehead, write the mantra including the target's name."
+  },
+  {
+   "verse": 3411,
+   "rows": [
+    {
+     "surface": "tāmbūlapūritamukhaḥ",
+     "gloss": "betel-filled-mouth",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "clan",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadabhisaṃhitam",
+     "gloss": "that-mentioned",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the relation between the betel-filled mouth and the clan?",
+   "premises": [
+    "The mouth is filled with betel.",
+    "The clan is that mentioned."
+   ],
+   "inference": "The verse links the betel-filled mouth with the clan named in the rite.",
+   "uncertainties": [
+    "The exact clan reference depends on prior context."
+   ],
+   "plain_english": "With betel-filled mouth, the clan so mentioned."
+  },
+  {
+   "verse": 3412,
+   "rows": [
+    {
+     "surface": "yannāmnā",
+     "gloss": "whose-name-written",
+     "grounds": "instrumental phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhitaṃ+yantraṃ",
+     "gloss": "yantra",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāñca",
+     "gloss": "her",
+     "grounds": "accusative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nayati",
+     "gloss": "leads",
+     "grounds": "present of nī",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect does the yantra bearing the target's name have?",
+   "premises": [
+    "The yantra is written with whose name.",
+    "It leads her instantly."
+   ],
+   "inference": "The verse claims the name-inscribed yantra leads the woman instantly.",
+   "uncertainties": [
+    "The mechanism of leading is not explained."
+   ],
+   "plain_english": "The yantra written with her name leads her instantly."
+  },
+  {
+   "verse": 3413,
+   "rows": [
+    {
+     "surface": "dvīpāntarasahasreṣu",
+     "gloss": "across-thousands-of-islands",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "rakṣitāṃ",
+     "gloss": "protected",
+     "grounds": "accusative participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nigaḍādibhiḥ",
+     "gloss": "by-chains-etc",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Can distance and physical restraint prevent the rite's effect?",
+   "premises": [
+    "She may be across thousands of islands.",
+    "She may be protected by chains and the like."
+   ],
+   "inference": "The verse implies that even distance and chains do not prevent attraction.",
+   "uncertainties": [
+    "The verse is fragmentary and depends on surrounding context."
+   ],
+   "plain_english": "Even across thousands of islands, protected by chains and the like."
+  },
+  {
+   "verse": 3414,
+   "rows": [
+    {
+     "surface": "nitambavimbaviddhvasta",
+     "gloss": "hip-orb-shattered",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sphurajjaghanamaṇḍalām",
+     "gloss": "trembling-hip-circle",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What physical description is given of the attracted woman?",
+   "premises": [
+    "Her hip-orb is shattered.",
+    "Her hip-circle is trembling."
+   ],
+   "inference": "The verse describes the woman with shattered hip-orb and trembling hip-circle.",
+   "uncertainties": [
+    "The poetic anatomy is not literally explained."
+   ],
+   "plain_english": "With shattered hip-orb and trembling hip-circle."
+  },
+  {
+   "verse": 3415,
+   "rows": [
+    {
+     "surface": "kavāṭalohasannaddha",
+     "gloss": "iron-door-bound",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrikāvivarāntare",
+     "gloss": "pūrikā-gap",
+     "grounds": "locative phrase",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What barriers are said not to stop the attracted woman?",
+   "premises": [
+    "She is bound by iron doors.",
+    "She is in the pūrikā gap."
+   ],
+   "inference": "The verse suggests that even iron doors and narrow gaps do not stop her.",
+   "uncertainties": [
+    "The exact architectural term pūrikā is unclear."
+   ],
+   "plain_english": "Iron-door-bound, in the pūrikā gap."
+  },
+  {
+   "verse": 3416,
+   "rows": [
+    {
+     "surface": "evamākṛṣṭisiddhiḥ",
+     "gloss": "thus-attraction-success",
+     "grounds": "compound subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "cet",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "sādhaka",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kauliko",
+     "gloss": "kaulika",
+     "grounds": "nominative predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What status does the practitioner attain if attraction succeeds?",
+   "premises": [
+    "If attraction succeeds thus.",
+    "The sādhaka becomes kaulika."
+   ],
+   "inference": "The verse states that successful attraction makes the practitioner a kaulika.",
+   "uncertainties": [
+    "The exact grade of kaulika is not defined here."
+   ],
+   "plain_english": "If attraction succeeds thus, the sādhaka becomes a kaulika."
+  },
+  {
+   "verse": 3417,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vīravaraḥ",
+     "gloss": "hero-best",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divyaḥ",
+     "gloss": "divine",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-sādhaka",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who may perform this rite according to the verse?",
+   "premises": [
+    "At night, the best hero.",
+    "Or the divine one.",
+    "Or the best sādhaka."
+   ],
+   "inference": "The verse permits the rite to the best hero, divine one, or best sādhaka.",
+   "uncertainties": [
+    "Whether these are separate grades or synonyms is unclear."
+   ],
+   "plain_english": "At night: the best hero, or the divine one, or the best sādhaka."
+  },
+  {
+   "verse": 3418,
+   "rows": [
+    {
+     "surface": "vilikhya",
+     "gloss": "having-drawn",
+     "grounds": "absolutive of vilikh",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "mālinīṃ+devīm",
+     "gloss": "mālinī-devī",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āraktavasanojjvalām",
+     "gloss": "red-garment-shining",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What form of the goddess is to be drawn?",
+   "premises": [
+    "Having drawn Mālinī Devī.",
+    "She is shining in red garments."
+   ],
+   "inference": "The verse prescribes drawing Mālinī Devī shining in red garments.",
+   "uncertainties": [
+    "The exact iconographic form is not detailed."
+   ],
+   "plain_english": "Having drawn Mālinī Devī, shining in red garments."
+  },
+  {
+   "verse": 3419,
+   "rows": [
+    {
+     "surface": "maṇinā",
+     "gloss": "with-jewel",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sādhyanāmānaṃ",
+     "gloss": "target-name",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vilikhya",
+     "gloss": "having-written",
+     "grounds": "absolutive of vilikh",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tasya+madhyataḥ",
+     "gloss": "in-its-middle",
+     "grounds": "locative phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the target's name to be written in the drawn form?",
+   "premises": [
+    "With a jewel, write the target's name.",
+    "Write it in its middle."
+   ],
+   "inference": "The verse places the target's name in the middle of the drawn form, written with a jewel.",
+   "uncertainties": [
+    "The exact jewel and script are not specified."
+   ],
+   "plain_english": "With a jewel, write the target's name in its middle."
+  },
+  {
+   "verse": 3420,
+   "rows": [
+    {
+     "surface": "kāmarājena+saṃyuktāṃ",
+     "gloss": "with-kāmarāja",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of dhyā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "susādhakaḥ",
+     "gloss": "good-sādhaka",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meditation accompanies the rite?",
+   "premises": [
+    "Meditate on the god joined with Kāmarāja.",
+    "The good sādhaka does so."
+   ],
+   "inference": "The verse prescribes meditating on the god joined with Kāmarāja.",
+   "uncertainties": [
+    "The identity of Kāmarāja is not explained."
+   ],
+   "plain_english": "Meditating on the god joined with Kāmarāja, the good sādhaka."
+  },
+  {
+   "verse": 3421,
+   "rows": [
+    {
+     "surface": "yannāmnā",
+     "gloss": "whose-name",
+     "grounds": "instrumental phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "given",
+     "grounds": "passive present of dā",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśyaṃ",
+     "gloss": "subjection",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratipadyate",
+     "gloss": "attains",
+     "grounds": "present of pratipad",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What result follows when the rite is performed with the target's name?",
+   "premises": [
+    "When given with whose name.",
+    "She attains subjection."
+   ],
+   "inference": "The verse claims that the named rite brings the woman into subjection.",
+   "uncertainties": [
+    "The exact offering or gift is not specified."
+   ],
+   "plain_english": "When given with her name, she attains subjection."
+  },
+  {
+   "verse": 3422,
+   "rows": [
+    {
+     "surface": "yoginyo",
+     "gloss": "yoginīs",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "apsarasaś",
+     "gloss": "apsarases",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ke",
+     "gloss": "who",
+     "grounds": "interrogative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pare",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "narakiṅkarāḥ",
+     "gloss": "servants",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which beings are said to come under this rite's power?",
+   "premises": [
+    "Yoginīs and apsarases.",
+    "Also other servants."
+   ],
+   "inference": "The verse extends the rite's power to yoginīs, apsarases, and other servants.",
+   "uncertainties": [
+    "The list may be illustrative rather than exhaustive."
+   ],
+   "plain_english": "Yoginīs, apsarases, and other servants too."
+  },
+  {
+   "verse": 3423,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "cet",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāyate",
+     "gloss": "known",
+     "grounds": "passive present of jñā",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "lokaiḥ",
+     "gloss": "by-people",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhraṣṭaḥ",
+     "gloss": "fallen",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future of bhū",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "What warning is given if the rite becomes publicly known?",
+   "premises": [
+    "If it is known by people.",
+    "Then he will be fallen."
+   ],
+   "inference": "The verse warns that public knowledge of the rite causes the practitioner's fall.",
+   "uncertainties": [
+    "The exact social or spiritual fall is not specified."
+   ],
+   "plain_english": "If people know it, then he will be fallen."
+  },
+  {
+   "verse": 3424,
+   "rows": [
+    {
+     "surface": "anayākṛṣṭikarmajñaḥ",
+     "gloss": "by-this-attraction-rite",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "cet",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratipadyate",
+     "gloss": "attains",
+     "grounds": "present of pratipad",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What follows if one is known as skilled in this attraction rite?",
+   "premises": [
+    "If known as skilled in this attraction rite.",
+    "Then he attains."
+   ],
+   "inference": "The verse states that being known as skilled in this rite leads to attainment.",
+   "uncertainties": [
+    "The object of attainment is not specified."
+   ],
+   "plain_english": "If known as skilled in this attraction rite, he attains."
+  }
+ ]
+}

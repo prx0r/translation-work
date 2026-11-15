@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p117",
  "verse": 2919,
- "question": "What alternative name is given to this neck band?",
+ "question": "What is born from that and serves as lamp for all mantras?",
  "premises": [
-  "This element is known as the neck band",
-  "It is now given another designation",
-  "The alternative designation is heart garland"
+  "Mantra-crest is born",
+  "It is lamp for all mantras"
  ],
- "inference": "This neck band is also now called the heart garland.",
- "uncertainties": [],
- "plain_english": "This is known as the neck band, and now it is called the heart garland."
+ "inference": "The mantra-crest born from that is the lamp for all mantras.",
+ "uncertainties": [
+  "Antecedent of 'that'"
+ ],
+ "plain_english": "From that, the mantra-crest is born, the lamp of all mantras."
 }

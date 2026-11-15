@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3699,
- "question": "What epithets describe her as intoxicating, maddened by desire, Mandara, and afflicted by desire?",
+ "question": "What goddess is borne dark-colored with triad?",
  "premises": [
-  "This verse lists descriptive epithets.",
-  "She is called intoxicating and maddened by desire.",
-  "She is called Mandara and afflicted by desire."
+  "bearing is named",
+  "dark-colored is named",
+  "rākiṇī is named",
+  "with triad is named"
  ],
- "inference": "She is described as intoxicating, maddened by desire, Mandara, and afflicted by desire.",
- "uncertainties": [],
- "plain_english": "She is intoxicating, maddened by desire, Mandara, and afflicted by desire."
+ "inference": "rākiṇī is borne dark-colored and with triad",
+ "uncertainties": [
+  "triad identity"
+ ],
+ "plain_english": "Bearing dark-colored rākiṇī with triad."
 }

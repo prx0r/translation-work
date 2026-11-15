@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[all](sarva) [ornament](alaṃkāra) [endowed-with](saṃyuktaṃ) [all](sarva) [decoration](ābharaṇa) [adorned](bhūṣitaṃ)
+[all-ornament](sarvālaṃkāra) [connected](saṃyuktaṃ) [all-jewel-adorned](sarvābharaṇabhūṣitaṃ)
 
 ## mukta-m0-p47-v1152
-[agent](kartṛ) [sādākhya](sādākhyaṃ) [indeed](eva) [said](uktaṃ) [action](karma) [sādākhya](sādākhyaṃ) [is-called](ucyate)
+[agent-sadakhya-thus-said](kartṛsādākhyamevoktaṃ) [action-sadakhya-is-said](karmasādākhyamucyate)
 
 ## mukta-m0-p47-v1153
-[action](kriyā) [power](śaktiḥ) [tenth](daśa) [part](aṃśena) [action](karma) [sādākhya](sādākhya) [born](udbhavam)
+[action-power-ten-part](kriyāśaktirdaśāṃsena) [action-sadakhya-born](karma+sādākhyadbhavam)
 
 ## mukta-m0-p47-v1154
-[liṅga](liṃga) [pedestal](pīṭhe) [in-manner](prakāreṇa) [action](karma) [sādākhya](sādākhyaṃ) [arisen](udbhavaṃ)
+[linga-seat-manner](liṃgapīṭhe+prakāreṇa) [action-sadakhya-born](karmasādākhyamudbhavaṃ)
 
 ## mukta-m0-p47-v1155
-[sound](nādaṃ) [drop](bindu) [joined-with](yutaṃ) [form](rūpaṃ) [action](karma) [sādākhya](sādākhyaṃ) [is-called](ucyate)
+[sound-with-bindu-form](nādaṃ+binduyutaṃ+rūpaṃ) [action-sadakhya-is-said](karmasādākhyamucyate)
 
 ## mukta-m0-p47-v1156
-[liṅga](liṃga) [Śambhu](śaṃbuḥ) [thus](iti) [to-be-known](jñeyaṃ) [pedestal](pīṭha) [Śakti](śaktiḥ) [declared](udāhṛtaṃ)
+[linga-shambhu-thus-known](liṃgaśaṃburiti+jñeyaṃ) [seat-power-declared](pīṭhaśaktirudāhṛtaṃ)
 
 ## mukta-m0-p47-v1157
-[then](tadā) [union](saṃyoga) [state](bhāvatvāt) [action](karma) [state](bhāvaṃ) [declared](udāhṛtam)
+[then-union-state](tadā+saṃyoga+bhāvatvāt) [action-state-declared](karmabhāvamudāhṛtam)
 
 ## mukta-m0-p47-v1158
-[form](mūrti) [middle](madhye) [gone](gataṃ) [principle](tatvaṃ) [principle](tatva) [middle](madhye) [gone](gataṃ) [Śiva](śivam)
+[form-middle-gone-principle](mūrtimadhye+gataṃ+tatvaṃ) [principle-middle-gone-shiva](tatvamadhye+gataṃ+śivam)
 
 ## mukta-m0-p47-v1159
-[by-liṅga](liṃgena) [is-born](jāyate) [there](tatra) [world](jagat) [stationary](sthāvara) [moving](jaṃgamam)
+[by-linga-born-there](liṃgena+jāyate+tatra) [world-stationary-moving](jagatsthāvarajaṃgamam)
 
 ## mukta-m0-p47-v1160
-[action](karma) [arising](udayena) [creation](sṛṣṭiḥ) [would-be](syāt) [action](karma) [end](ante) [dissolution](saṃhṛtiḥ) [would-be](bhavet)
+[by-action-rise-creation](karmodayena+sṛṣṭissyāt) [by-action-end-dissolution](karmānte+saṃhṛtirbhavet)
 
 ## mukta-m0-p47-v1161
-[five](pañca) [sādākhya](sādākhya) [source](yonena) [action](karma) [sādākhya](sādākhyaṃ) [is-called](ucyate)
+[five-sadakhya-womb](pañcasādākhya+yonena) [action-sadakhya-is-said](karmasādākhyamucyate)
 
 ## mukta-m0-p47-v1162
-[formless](amūrtaṃ) [indeed](hi) [O-Mahāsena](mahāsena) [Śiva](śiva) [sādākhya](sādākhyam) [resorted-to](āśritaḥ)
+[formless-indeed-great-army](amūrtaṃ+hi+mahāsena) [shiva-sadakhya-refuge](śivasādākhyamāśritaḥ)
 
 ## mukta-m0-p47-v1163
-[therefore](tasmāt) [action](karma) [lord](īśa) [form](rūpaṃ) [indeed](tu) [five](pañca) [form](mūrti) [supported-by](āśrayaṃ) [they-know](viduḥ)
+[therefore-action-lord-form](tasmātkarmeśarūpaṃ+tu) [five-form-refuge-known](pañcamūrtyāśrayaṃ+viduḥ)
 
 ## mukta-m0-p47-v1164
-[this](etat) [indeed](vai) [form](mūrti) [having-condensed](piṇḍitvā) [pedestal](piṇḍi) [function](kāryam) [thus](iti) [remembered](smṛtaṃ)
+[this-indeed-form-lump](etadvai+mūrtipiṇḍitvā) [lump-work-thus-remembered](piṇḍikāryamiti+smṛtaṃ)
 
 ## mukta-m0-p47-v1165
-[by-mass](piṇḍena) [condensed](piṇḍitaṃ) [mass](piṇḍaṃ) [mass](piṇḍa) [form](rūpam) [declared](udāhṛtam)
+[by-lump-lumped-lump](piṇḍena+piṇḍitaṃ+piṇḍaṃ) [lump-form-declared](piṇḍarūpamudāhṛtam)
 
 ## mukta-m0-p47-v1166
-[five](pañca) [form](mūrti) [consisting-of](mayaṃ) [god](devaṃ) [five](pañca) [principle](tatva) [consisting-of](ātmakaṃ) [would-be](bhavet)
+[five-form-god](pañcamūrtimayaṃ+devaṃ) [five-principle-self-become](pañcatatvātmakaṃ+bhavet)
 
 ## mukta-m0-p47-v1167
-[that](tat) [division](bheda) [cutting](kṛttu) [Maheśa](maheśa) [etc.](ādi) [all](sarva) [principle](tatva) [etc.](ādi) [origin](saṃbhavā)
+[that-difference-maker](tadbheda+kṛttu) [great-lord-etc-all-principle-born](maheśādi+sarvatatvādisaṃbhavā)
 
 ## mukta-m0-p47-v1168
-[of-god](devasya) [higher](utta) [part](kala) [endowed-with](upetaḥ) [that](taṃ) [element](dhātu) [mass](piṇḍam) [thus](iti) [remembered](smṛtaṃ)
+[god-uttara-part-joined](devasyotta+kalopeto) [that-element-lump-thus-remembered](taṃ+dhātupiṇḍamiti+smṛtaṃ)
 
 ## mukta-m0-p47-v1169
-[all](sarva) [limbs](aṃgāni) [and](ca) [complete](saṃpūrṇaṃ) [all](sarva) [parts](avayava) [beautiful](sundaram)
+[all-limbs-and-complete](sarvāṃgāni+ca+saṃpūrṇaṃ) [all-parts-beautiful](sarvāvayavasundaram)
 
 ## mukta-m0-p47-v1170
-[partless](niṣkalaṃ) [that](tat) [in-absence](apāye) [but](tu) [therefore](tasmāt) [with-parts](sakala) [and-partless](niṣkalaṃ)
+[formless-that-departure](niṣkalaṃ+tadapāye+tu) [therefore-with-form-formless](tasmātsakalāniṣkalaṃ)
 
 ## mukta-m0-p47-v1171
-[moon](caṃdra) [bow](cāpam) [like](iva) [in-sky](ākāśe) [mirror](darpaṇaṃ) [toward](prati) [reflection](biṃbavat)
+[moon-bow-like-sky](caṃdracāpamivākāśe) [mirror-toward-reflection](darpaṇaṃ+prati+biṃbavat)
 
 ## mukta-m0-p47-v1172
-[meditation](dhyāna) [characteristic](lakṣaṇam) [indeed](eva) [said](uktaṃ) [limb](aṃga) [state](bhāvam) [now](atha) [is-spoken](ucyate)
+[meditation-mark-thus-said](dhyānalakṣaṇamevoktaṃ) [limb-state-now-said](aṃgabhāvamathocyate)
 
 ## mukta-m0-p47-v1173
-[stone](aśmānaḥ) [nameless](anāmakaḥ) [asya](asya) [bank](kūlam) [one](ekaṃ) [twofold](dvidhā) [form](kṛtiḥ)
+[stone-not-bow-bank](aśmānonamavohasya) [bank-one-two-form](kūlamekaṃ+dvidhākṛtiḥ)
 
 ## mukta-m0-p47-v1174
-[partless](niṣkalaḥ) [mountain](śaila) [born](jā) [agent](kartṛ) [with-parts](sakalaṃ) [to-be-conceived](bhāvya) [form](rūpakaṃ)
+[formless-mountain-born-agent](niṣkalaśśailajā+kartṛ) [with-form-meditation-form](sakalaṃ+bhāvyarūpakaṃ)
 
 ## mukta-m0-p47-v1175
-[part](kalā) [principles](tatvāni) [letters](varṇāni) [mantras](maṃtrāṇi) [worlds](bhuvanāni) [indeed](hi)
+[art-principle-letters-mantras](kalātatvāni+varṇāni+maṃtrāṇi) [worlds-indeed](bhuvanāni+hi)

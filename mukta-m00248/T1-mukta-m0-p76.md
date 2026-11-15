@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[twelve](dvādaśaṃ) [sixteen](ṣoḍaśaṃ) [or](vāpi) [twenty](viṃśat) [or](vā) [twenty-five](pañcaviṃśakam)
+[twelve](dvādaśaṃ) [sixteen](ṣoḍaśaṃ) [or](vāpi) [twenty](viṃśadvā) [twenty-five](pañcaviṃśakam)
 
 ## mukta-m0-p76-v1877
-[forty](catvāriṃśat) [and](ca) [indeed](vai) [child](vatsa) [fifty](pañcāśat) [sixty](ṣaṣṭim) [even](eva) [and](ca)
+[forty](catvāriṃśacca) [indeed](vai) [child](vatsa) [fifty](pañcāśat) [sixty](ṣaṣṭimeva) [and](ca)
 
 ## mukta-m0-p76-v1878
-[two-hundred](dviśataṃ) [five-hundred](pañcaśataṃ) [or](vāpi) [thousand](sahasraṃ) [or](vāpi) [one-should-wear](dhārayet)
+[two-hundred](dviśataṃ) [five-hundred](pañcaśataṃ) [or](vāpi) [thousand](sahasraṃ) [or](vāpi) [should-wear](dhārayet)
 
 ## mukta-m0-p76-v1879
-[aeon+crore+thousands](kalpa+koṭi+sahasrāṇi) [in-rudra's-world](rudra+loke) [one-is-honored](mahīyate)
+[kalpa-crore-thousands](kalpakoṭisahasrāṇi) [in-rudra-world](rudraloke) [is-honored](mahīyate)
 
 ## mukta-m0-p76-v1880
-[this+thousand-fold+fruit](etat+sahasra+phalaṃ) [to-be-known](jñeyaṃ) [from-wearing-thousand-rudrākṣas](sahasra+rudrākṣa+dhāraṇāt)
+[this-thousand-fruit](etatsahasraphalaṃ) [to-be-known](jñeyaṃ) [from-wearing-thousand-rudraksha](sahasrarudrākṣadhāraṇāt)
 
 ## mukta-m0-p76-v1881
-[Rudra](rudraḥ) [by-giving-rudrākṣa](rudrākṣa+dānena) [one-becomes](bhavati) [thus](iti) [what+wonder](kim+adbhutam)
+[rudra](rudro) [by-giving-rudraksha](rudrākṣadānena) [becomes](bhavatīti) [what-wonder](kimadbhutam)
 
 ## mukta-m0-p76-v1882
-[according-to-rule](yathāvidhiḥ) [having-initiated](dīkṣayitvā) [afterwards](paścāt) [with-mantra](mantreṇa) [one-should-wear](dhārayet)
+[according-to-rite](yathāvidhirdīkṣayitvā) [afterwards-by-mantra](paścānmantreṇa) [should-wear](dhārayet)
 
 ## mukta-m0-p76-v1883
-[with-Aghora](aghoreṇa) [on-neck+to-be-worn](gale+dhāryam) [with-Aghora](aghoreṇa) [on-heart+one-should-wear](hṛdi+dharet)
+[by-aghora](aghoreṇa) [throat-wear](galedhāryam) [by-aghora](aghoreṇa) [heart-wear](hṛdirdharet)
 
 ## mukta-m0-p76-v1884
-[with-Vyomavyāpi](vyomavyāpi) [thus](iti) [with-mantra](mantreṇa) [fifty+garland](śata+ardha+mālāṃ) [and](ca) [one-should-wear](dhārayet)
+[by-vyomavyapi-mantra](vyomavyāpīti) [mantra](mantreṇa) [half-hundred-garland](śatārdhamālāṃ) [and](ca) [should-wear](dhārayet)
 
 ## mukta-m0-p76-v1885
-[with-Prāsāda](prāsādena) [indeed](eva) [with-mantra](mantreṇa) [rudrākṣa](rudrākṣaṃ) [seven](sapta) [one-should-wear](dhārayet)
+[by-prasada-mantra](prāsādenaiva) [mantra](mantreṇa) [rudraksha](rudrākṣaṃ) [seven](sapta) [should-wear](dhārayet)
 
 ## mukta-m0-p76-v1886
-[with-Prāsāda](prāsāde) [indeed](naiva) [with-mantra](mantreṇa) [rudrākṣa](rudrākṣaṃ) [all](sarvam) [indeed](eva) [certainly](hi)
+[in-prasada](prāsāde) [not-indeed](naiva) [mantra](mantreṇa) [rudraksha](rudrākṣaṃ) [all-indeed](sarvameva) [indeed](hi)
 
 ## mukta-m0-p76-v1887
-[with-leaf-lamps](patra+dīpaiḥ) [hundred](śataṃ) [to-be-known](jñeyaṃ) [with-lotus-seeds](padma+akṣaiḥ) [but](tu) [thousand](sahasrakam)
+[by-leaf-lamps](patradīpaiḥ) [hundred](śataṃ) [to-be-known](jñeyaṃ) [by-lotus-beads](padmākṣaistu) [thousand](sahasrakam)
 
 ## mukta-m0-p76-v1888
-[with-red-sandal+palāśa](rakta+candana+pālāśaiḥ) [with-white-sandal+wood-made](śveta+candana+dāru+jaiḥ)
+[by-red-sandal-palasha](raktacandanapālāśaiḥ) [by-white-sandal-wood](śvetacandanadārujaiḥ)
 
 ## mukta-m0-p76-v1889
-[with-copper-seeds](tāmra+akṣaiḥ) [forty](catvāriṃśat) [with-silver-seeds](rajata+akṣakaiḥ) [fifty](pañcāśat)
+[by-copper-beads-forty](tāmrajākṣaiścatvāriṃśat) [fifty-silver-beads](pañcāśadrajatākṣakaiḥ)
 
 ## mukta-m0-p76-v1890
-[with-finger](aṅgulyā) [but](tu) [one-should-recite](japet) [child](vatsa) [poverty](dāridryaṃ) [disease](vyādhim) [one-obtains](āpnuyāt)
+[by-finger](aṅgulyā) [indeed](tu) [should-chant](japedvatsa) [poverty](dāridryaṃ) [disease](vyādhimāpnuyāt)
 
 ## mukta-m0-p76-v1891
-[Meru](meruṃ) [circumambulation](pradakṣiṇī) [having-made](kṛtya) [recitation](japaṃ) [one-should-do](kuryāt) [properly](samāsataḥ)
+[meru](meruṃ) [circumambulate](pradakṣiṇī) [having-done](kṛtya) [japa](japaṃ) [should-do-briefly](kuryātsamāsataḥ)
 
 ## mukta-m0-p76-v1892
-[eight-more-hundred](aṣṭa+uttara+śataṃ) [or](vāpi) [one-should-make](kuryāt) [indeed](vai) [and](ca) [rosary](akṣa+sūtrakam)
+[one-hundred-eight](aṣṭottaraśataṃ) [or](vāpi) [should-do](kuryādvai) [bead-rosary](cākṣasūtrakam)
 
 ## mukta-m0-p76-v1893
-[thumb](aṅguṣṭhā) [middle-finger](madhyamā) [and](ca) [indeed](eva) [in-all-subjugations](sarva+vaśyeṣu) [indeed](vai) [one-should-recite](japet)
+[thumb](aṅguṣṭhā) [middle](madhyamā) [and-indeed](caiva) [for-all-subjugation-best](sarvavaśyeṣṭa) [indeed](vai) [should-chant](japet)
 
 ## mukta-m0-p76-v1894
-[by-little-finger+thumb+union](kaniṣṭhā+aṅguṣṭha+yogena) [in-hatred+uprooting+killing](vidveṣa+uccāṭana+māraṇaiḥ)
+[by-little-finger-thumb-union](kaniṣṭhāṅguṣṭhayogena) [hatred-expulsion-killing](vidveṣoccāṭanamāraṇaiḥ)
 
 ## mukta-m0-p76-v1895
-[dharma+wealth+desire+liberation](dharma+artha+kāma+mokṣaṃ) [and](ca) [wealth+sons](artha+putrān) [one-may-obtain](avāpnuyāt)
+[dharma-wealth-desire-liberation](dharmārthakāmamokṣaṃ) [and](ca) [wealth-sons-obtain](arthaputrānavāpnuyāt)
 
 ## mukta-m0-p76-v1896
-[female-servants](dāsīḥ) [and-male-servants](dāsān) [and](ca) [bulls](ānaḍuham) [land](bhūmiṃ) [garment](vastraṃ) [wife](kalatrakam)
+[female-slaves](dāsīrdāsāṃścānaḍuhaṃ) [land](bhūmiṃ) [cloth](vastraṃ) [wife](kalatrakam)
 
 ## mukta-m0-p76-v1897
-[rosary](akṣa+sūtraṃ) [without](vinā) [child](vatsa) [recitation](japaṃ) [all](sarvaṃ) [and](ca) [one-should-avoid](varjayet)
+[bead-rosary](akṣasūtraṃ) [without](vinā) [child](vatsa) [japa](japaṃ) [all](sarvaṃ) [and](ca) [should-avoid](varjayet)
 
 ## mukta-m0-p76-v1898
-[one+faced](eka+mukhaṃ) [but](tu) [rudrākṣa](rudrākṣaṃ) [supreme](paraṃ) [Brahma+Śiva](brahma+śivaṃ) [becomes](bhavet)
+[one-faced](eka) [face](mukhaṃ) [indeed](tu) [rudraksha](rudrākṣaṃ) [supreme](paraṃ) [brahma-shiva](brahmaśivaṃ) [becomes](bhavet)
 
 ## mukta-m0-p76-v1899
-[three+faced](tri+mukhaṃ) [and](ca) [fire+deity](agni+daivatyaṃ) [Māheśa](māheśaṃ) [and](ca) [six+faced](ṣaḍ+ānana)
+[three-faced](trimukhaṃ) [and-fire-deity](cāgnidaivatyaṃ) [mahesha](māheśaṃ) [and](ca) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p76-v1900
-[directly](sākṣāt) [Sadāśiva](sadāśivaṃ) [know](viddhi) [grandfather](pitāmahaṃ) [six+faced](ṣaḍ+ānana)
+[directly-sadashiva](sākṣātsadāśivaṃ) [know](viddhi) [grandfather](pitāmahaṃ) [six-faced](ṣaḍānana)

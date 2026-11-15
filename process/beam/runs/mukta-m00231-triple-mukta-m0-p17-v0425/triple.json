@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "paścimāśāmukho",
+     "gloss": "west-direction-faced",
+     "grounds": "compound paścimāśā + mukha with nominative ending",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent noun from mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathācakraṃ",
+     "gloss": "as-circle",
+     "grounds": "indeclinable adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "extract",
+     "grounds": "sam-ud-hṛ optative third singular",
+     "morph": "3.sg.act.opt (sam-ud-hṛ)"
+    }
+   ],
+   "question": "What extraction procedure should a west-facing mantra-practitioner perform as-circle?",
+   "premises": [
+    "west-facing mantra-practitioner extracts",
+    "extraction follows circle order",
+    "procedure is prescribed here"
+   ],
+   "inference": "The verse prescribes a west-facing practitioner's circular extraction.",
+   "uncertainties": [
+    "exact ritual referent of cakra remains unclear",
+    "scope of samuddharet is not specified"
+   ],
+   "plain_english": "A mantra-practitioner facing west should extract according to the circle."
+  }
+ ]
+}

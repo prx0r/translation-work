@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "ityuktvā",
+     "gloss": "thus-saying",
+     "grounds": "iti + uktvā fused",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaṅkaro",
+     "gloss": "shankara",
+     "grounds": "subject of action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mohāt",
+     "gloss": "from-delusion",
+     "grounds": "ablative of cause",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mūrcchitaḥ",
+     "gloss": "fainted",
+     "grounds": "participle describing state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punarudgataḥ",
+     "gloss": "again-arisen",
+     "grounds": "participle describing recovery",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to Śaṅkara after he declares the mother's power?",
+   "premises": [
+    "Śaṅkara speaks the declaration",
+    "delusion causes him to faint",
+    "he rises again afterward"
+   ],
+   "inference": "The declaration overwhelms Śaṅkara before he recovers.",
+   "uncertainties": [
+    "The exact doctrinal cause of the fainting is not specified"
+   ],
+   "plain_english": "After saying this, Śaṅkara faints from delusion and then rises again."
+  }
+ ]
+}

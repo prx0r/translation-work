@@ -1,0 +1,1068 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3176,
+   "rows": [
+    {
+     "surface": "dhāryaṃ",
+     "gloss": "worn",
+     "grounds": "legacy hint worn",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "neck",
+     "grounds": "legacy hint neck",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "legacy hint if",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "legacy hint success",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "pīḍanaṃ",
+     "gloss": "pressing",
+     "grounds": "legacy hint pressing",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "legacy hint his",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause",
+     "grounds": "legacy hint cause",
+     "morph": "v.3.sg.caus.-opt"
+    }
+   ],
+   "question": "What should be done when the rite is not worn at the neck?",
+   "premises": [
+    "wearing at neck is required",
+    "pressing is prescribed otherwise"
+   ],
+   "inference": "The verse prescribes pressing if success is not achieved by wearing.",
+   "uncertainties": [
+    "exact ritual object unspecified"
+   ],
+   "plain_english": "If it is not worn at the neck, pressing should be caused."
+  },
+  {
+   "verse": 3177,
+   "rows": [
+    {
+     "surface": "dhyāyettu",
+     "gloss": "meditate-but",
+     "grounds": "legacy hint meditate-but",
+     "morph": "v.3.sg.act.-opt"
+    },
+    {
+     "surface": "devatāṃ",
+     "gloss": "deity",
+     "grounds": "legacy hint deity",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "legacy hint likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadadhottararūpiṇīm",
+     "gloss": "that-upper-form",
+     "grounds": "legacy hint that-upper-form",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "How should the deity be meditated upon in this rite?",
+   "premises": [
+    "meditation is directed to deity",
+    "upper form is specified"
+   ],
+   "inference": "One meditates on the deity in the corresponding upper form.",
+   "uncertainties": [
+    "compound segmentation not expanded"
+   ],
+   "plain_english": "Meditate on the deity likewise in that upper form."
+  },
+  {
+   "verse": 3178,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtena",
+     "gloss": "by-element",
+     "grounds": "legacy hint by-element",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "legacy hint by-mantra",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "offering",
+     "grounds": "legacy hint offering",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "legacy hint to-be-done",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "legacy hint day",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "legacy hint day",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What offering is to be performed daily in this practice?",
+   "premises": [
+    "offering is to be done",
+    "element and mantra are used",
+    "daily repetition is stated"
+   ],
+   "inference": "A homa is performed daily with element and mantra.",
+   "uncertainties": [
+    "exact element unspecified"
+   ],
+   "plain_english": "Thus offering is to be done daily with element and mantra."
+  },
+  {
+   "verse": 3179,
+   "rows": [
+    {
+     "surface": "bālāyāḥ",
+     "gloss": "of-girl",
+     "grounds": "legacy hint of-girl",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "tritayaṃ",
+     "gloss": "triad",
+     "grounds": "legacy hint triad",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "legacy hint seed",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ādyante",
+     "gloss": "beginning-end",
+     "grounds": "legacy hint beginning-end",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "legacy hint his",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "legacy hint join",
+     "morph": "v.3.sg.act.-opt"
+    }
+   ],
+   "question": "How is the seed triad joined in this rite?",
+   "premises": [
+    "triad of seed is used",
+    "beginning and end are joined"
+   ],
+   "inference": "The triad seed is joined at beginning and end.",
+   "uncertainties": [
+    "referent of his unclear"
+   ],
+   "plain_english": "Join the triad seed of the girl at beginning and end."
+  },
+  {
+   "verse": 3180,
+   "rows": [
+    {
+     "surface": "poṣito'yaṃ",
+     "gloss": "nourished-this",
+     "grounds": "legacy hint nourished-this",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "legacy hint become",
+     "morph": "v.3.sg.act.-opt"
+    },
+    {
+     "surface": "siddho",
+     "gloss": "accomplished",
+     "grounds": "legacy hint accomplished",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "legacy hint if",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "do",
+     "grounds": "legacy hint do",
+     "morph": "v.3.sg.act.-opt"
+    },
+    {
+     "surface": "śoṣaṇam",
+     "gloss": "drying",
+     "grounds": "legacy hint drying",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What is done if nourishment does not bring accomplishment?",
+   "premises": [
+    "nourishment may lead to accomplishment",
+    "drying is prescribed otherwise"
+   ],
+   "inference": "If nourishment fails, drying is performed.",
+   "uncertainties": [
+    "object of drying unspecified"
+   ],
+   "plain_english": "If this nourished one does not become accomplished, do drying."
+  },
+  {
+   "verse": 3181,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "legacy hint knowledge",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "gale",
+     "gloss": "throat",
+     "grounds": "legacy hint throat",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dhāryā",
+     "gloss": "worn",
+     "grounds": "legacy hint worn",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "likhitā",
+     "gloss": "written",
+     "grounds": "legacy hint written",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "śavabhasmanā",
+     "gloss": "corpse-ash",
+     "grounds": "legacy hint corpse-ash",
+     "morph": "n.inst.sg.n"
+    }
+   ],
+   "question": "How is this knowledge to be worn at the throat?",
+   "premises": [
+    "knowledge is to be worn",
+    "it is written with corpse ash"
+   ],
+   "inference": "The knowledge is written with corpse ash and worn at the throat.",
+   "uncertainties": [
+    "exact script unspecified"
+   ],
+   "plain_english": "This knowledge is to be worn at the throat, written with corpse ash."
+  },
+  {
+   "verse": 3182,
+   "rows": [
+    {
+     "surface": "āgneyena",
+     "gloss": "by-fire",
+     "grounds": "legacy hint by-fire",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "by-seed",
+     "grounds": "legacy hint by-seed",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "legacy hint of-mantra",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "ekaikamakṣaram",
+     "gloss": "each-letter",
+     "grounds": "legacy hint each-letter",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How is each letter of the mantra treated by fire seed?",
+   "premises": [
+    "fire seed is used",
+    "each letter of mantra is addressed"
+   ],
+   "inference": "Each letter of the mantra is treated with the fire seed.",
+   "uncertainties": [
+    "operation unspecified"
+   ],
+   "plain_english": "But by fire seed, each letter of the mantra."
+  },
+  {
+   "verse": 3183,
+   "rows": [
+    {
+     "surface": "brahmavṛkṣasya",
+     "gloss": "of-brahma-tree",
+     "grounds": "legacy hint of-brahma-tree",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "tailena",
+     "gloss": "by-oil",
+     "grounds": "legacy hint by-oil",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "mantramālikhya",
+     "gloss": "mantra-writing",
+     "grounds": "legacy hint mantra-writing",
+     "morph": "abs."
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "wear",
+     "grounds": "legacy hint wear",
+     "morph": "v.3.sg.act.-opt"
+    }
+   ],
+   "question": "How is the mantra to be written and worn?",
+   "premises": [
+    "oil of brahma tree is used",
+    "mantra is written",
+    "wearing is prescribed"
+   ],
+   "inference": "Write the mantra with brahma-tree oil and wear it.",
+   "uncertainties": [
+    "exact wearing place unspecified"
+   ],
+   "plain_english": "Having written the mantra with brahma-tree oil, wear it."
+  },
+  {
+   "verse": 3184,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "by-order",
+     "grounds": "legacy hint by-order",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "do",
+     "grounds": "legacy hint do",
+     "morph": "v.3.sg.act.-opt"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "legacy hint preliminary-rite",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "legacy hint excellent",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How should the preliminary rite be performed?",
+   "premises": [
+    "it is done in order",
+    "it is called excellent"
+   ],
+   "inference": "Perform the excellent preliminary rite in proper order.",
+   "uncertainties": [
+    "specific steps not listed"
+   ],
+   "plain_english": "Thus do the excellent preliminary rite in order."
+  },
+  {
+   "verse": 3185,
+   "rows": [
+    {
+     "surface": "mantrasiddhiḥ",
+     "gloss": "mantra-success",
+     "grounds": "legacy hint mantra-success",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "become-by",
+     "grounds": "legacy hint become-by",
+     "morph": "v.3.sg.act.-opt"
+    },
+    {
+     "surface": "yena",
+     "gloss": "which",
+     "grounds": "legacy hint which",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "puraścaryādibhirvinā",
+     "gloss": "preliminary-rites-without",
+     "grounds": "legacy hint preliminary-rites-without",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What brings mantra success without preliminary rites?",
+   "premises": [
+    "mantra success is stated",
+    "preliminary rites are absent"
+   ],
+   "inference": "The verse names a means of mantra success without preliminary rites.",
+   "uncertainties": [
+    "means not explicit in this verse"
+   ],
+   "plain_english": "Mantra success becomes possible by which means without preliminary rites."
+  },
+  {
+   "verse": 3186,
+   "rows": [
+    {
+     "surface": "kṣapayati",
+     "gloss": "destroys",
+     "grounds": "legacy hint destroys",
+     "morph": "v.3.sg.act.-pres"
+    },
+    {
+     "surface": "duradṛṣṭaṃ",
+     "gloss": "bad-fortune",
+     "grounds": "legacy hint bad-fortune",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vādirāḍ",
+     "gloss": "king-of-debaters",
+     "grounds": "legacy hint king-of-debaters",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "v.3.sg.act.-pres"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "legacy hint he",
+     "morph": "pron.nom.sg.m"
+    }
+   ],
+   "question": "What happens to bad fortune and the debater?",
+   "premises": [
+    "bad fortune is destroyed",
+    "he becomes king of debaters"
+   ],
+   "inference": "The practitioner destroys bad fortune and becomes king of debaters.",
+   "uncertainties": [
+    "causal link unspecified"
+   ],
+   "plain_english": "He destroys bad fortune and becomes king of debaters."
+  },
+  {
+   "verse": 3187,
+   "rows": [
+    {
+     "surface": "madhumatir",
+     "gloss": "sweet-minded",
+     "grounds": "legacy hint sweet-minded",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "legacy hint even",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "heyaḥ",
+     "gloss": "rejectable",
+     "grounds": "legacy hint rejectable",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kiṃpunaḥ",
+     "gloss": "what-then",
+     "grounds": "legacy hint what-then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhisaṅghāḥ",
+     "gloss": "accomplished-hosts",
+     "grounds": "legacy hint accomplished-hosts",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Why are accomplished hosts even more rejectable?",
+   "premises": [
+    "sweet-minded is rejectable",
+    "accomplished hosts are questioned"
+   ],
+   "inference": "If even sweet-minded is rejectable, accomplished hosts are more so.",
+   "uncertainties": [
+    "context of rejection unspecified"
+   ],
+   "plain_english": "Even sweet-minded is rejectable; what then of accomplished hosts?"
+  },
+  {
+   "verse": 3188,
+   "rows": [
+    {
+     "surface": "manupuṭita",
+     "gloss": "mantra-wrapped",
+     "grounds": "legacy hint mantra-wrapped",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "paṭīyān",
+     "gloss": "strong",
+     "grounds": "legacy hint strong",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "legacy hint accomplish",
+     "morph": "v.3.sg.act.-opt"
+    },
+    {
+     "surface": "śāntacetāḥ",
+     "gloss": "calm-minded",
+     "grounds": "legacy hint calm-minded",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Who accomplishes the mantra-wrapped strong rite?",
+   "premises": [
+    "mantra-wrapped is strong",
+    "calm-minded one accomplishes"
+   ],
+   "inference": "A calm-minded person accomplishes the strong mantra-wrapped rite.",
+   "uncertainties": [
+    "exact rite unspecified"
+   ],
+   "plain_english": "The calm-minded one accomplishes the strong mantra-wrapped rite."
+  },
+  {
+   "verse": 3189,
+   "rows": [
+    {
+     "surface": "racita",
+     "gloss": "composed",
+     "grounds": "legacy hint composed",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yuvativeśaḥ",
+     "gloss": "young-woman-dress",
+     "grounds": "legacy hint young-woman-dress",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "taddhiyā",
+     "gloss": "that-mind",
+     "grounds": "legacy hint that-mind",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "dhyāyate",
+     "gloss": "meditates",
+     "grounds": "legacy hint meditates",
+     "morph": "v.3.sg.act.-pres"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "legacy hint he",
+     "morph": "pron.nom.sg.m"
+    }
+   ],
+   "question": "What does he meditate on in young woman's dress?",
+   "premises": [
+    "he is composed in young woman's dress",
+    "he meditates with that mind"
+   ],
+   "inference": "He meditates with that mind while in composed young woman's dress.",
+   "uncertainties": [
+    "object of meditation unspecified"
+   ],
+   "plain_english": "He, composed in young woman's dress, meditates with that mind."
+  },
+  {
+   "verse": 3190,
+   "rows": [
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "legacy hint himself",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "legacy hint even",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "racitāṅgaḥ",
+     "gloss": "composed-limb",
+     "grounds": "legacy hint composed-limb",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kṣobhakṛt",
+     "gloss": "agitation-maker",
+     "grounds": "legacy hint agitation-maker",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "yoginīnām",
+     "gloss": "of-yoginis",
+     "grounds": "legacy hint of-yoginis",
+     "morph": "n.gen.pl.f"
+    }
+   ],
+   "question": "What effect does the composed-limbed one have on yoginis?",
+   "premises": [
+    "he is composed in limb",
+    "he is agitation-maker of yoginis"
+   ],
+   "inference": "Even himself, composed in limb, becomes agitation-maker of yoginis.",
+   "uncertainties": [
+    "mechanism unspecified"
+   ],
+   "plain_english": "Even himself, composed in limb, is an agitation-maker of yoginis."
+  },
+  {
+   "verse": 3191,
+   "rows": [
+    {
+     "surface": "manupuṭita",
+     "gloss": "mantra-wrapped",
+     "grounds": "legacy hint mantra-wrapped",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vimṛgyaṃ",
+     "gloss": "sought",
+     "grounds": "legacy hint sought",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "legacy hint join",
+     "morph": "v.3.sg.act.-opt"
+    },
+    {
+     "surface": "tadbahir",
+     "gloss": "that-outside",
+     "grounds": "legacy hint that-outside",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "legacy hint who",
+     "morph": "pron.nom.sg.m"
+    }
+   ],
+   "question": "What does the mantra-wrapped one join outside?",
+   "premises": [
+    "mantra-wrapped is stated",
+    "sought thing is joined outside"
+   ],
+   "inference": "The mantra-wrapped one joins the sought thing outside.",
+   "uncertainties": [
+    "sought object unspecified"
+   ],
+   "plain_english": "The mantra-wrapped one joins the sought thing outside."
+  },
+  {
+   "verse": 3192,
+   "rows": [
+    {
+     "surface": "stava",
+     "gloss": "your",
+     "grounds": "legacy hint your",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "caraṇatalāntar",
+     "gloss": "foot-sole-within",
+     "grounds": "legacy hint foot-sole-within",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dhūlijālaiḥ",
+     "gloss": "dust-nets",
+     "grounds": "legacy hint dust-nets",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "viśālaiḥ",
+     "gloss": "wide",
+     "grounds": "legacy hint wide",
+     "morph": "adj.inst.pl.m"
+    }
+   ],
+   "question": "What is within the foot sole?",
+   "premises": [
+    "foot sole within is mentioned",
+    "wide dust nets are used"
+   ],
+   "inference": "Wide dust nets are within the foot sole.",
+   "uncertainties": [
+    "ritual meaning unspecified"
+   ],
+   "plain_english": "Within your foot sole are wide dust nets."
+  },
+  {
+   "verse": 3193,
+   "rows": [
+    {
+     "surface": "tadanu",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭhinabījaṃ",
+     "gloss": "hard-seed",
+     "grounds": "legacy hint hard-seed",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "lokadhātrīṃ",
+     "gloss": "world-mother",
+     "grounds": "legacy hint world-mother",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "tadantaḥ",
+     "gloss": "that-end",
+     "grounds": "legacy hint that-end",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows after the hard seed and world mother?",
+   "premises": [
+    "hard seed is mentioned",
+    "world mother is mentioned",
+    "that end follows"
+   ],
+   "inference": "Then hard seed and world mother lead to that end.",
+   "uncertainties": [
+    "sequence unclear"
+   ],
+   "plain_english": "Then hard seed, world mother, that end."
+  },
+  {
+   "verse": 3194,
+   "rows": [
+    {
+     "surface": "śivabhṛgumadapṛthvīśaktiyuktaṃ",
+     "gloss": "shiva-bhrigu-mada-earth-shakti-joined",
+     "grounds": "legacy hint shiva-bhrigu-mada-earth-shakti-joined",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "susiddhaṃ",
+     "gloss": "well-accomplished",
+     "grounds": "legacy hint well-accomplished",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "hariharacaturāsyasvasvabhūtiprasūtam",
+     "gloss": "hari-hara-four-faced-own-power-born",
+     "grounds": "legacy hint hari-hara-four-faced-own-power-born",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is well accomplished and born from own power?",
+   "premises": [
+    "joined shakti is stated",
+    "well accomplished is stated",
+    "born from own power is stated"
+   ],
+   "inference": "The joined shakti is well accomplished and born from own power.",
+   "uncertainties": [
+    "compound segmentation not expanded"
+   ],
+   "plain_english": "Joined with shiva-bhrigu-mada-earth-shakti, well accomplished, born from hari-hara-four-faced own power."
+  },
+  {
+   "verse": 3195,
+   "rows": [
+    {
+     "surface": "bhuvanabhayavināśaḥ",
+     "gloss": "world-fear-destruction",
+     "grounds": "legacy hint world-fear-destruction",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kṣobhiṇīṃ",
+     "gloss": "agitating",
+     "grounds": "legacy hint agitating",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "yojayitvā",
+     "gloss": "join-having",
+     "grounds": "legacy hint join-having",
+     "morph": "abs."
+    }
+   ],
+   "question": "What is destroyed by joining the agitating power?",
+   "premises": [
+    "world fear destruction is stated",
+    "agitating one is joined"
+   ],
+   "inference": "Joining the agitating power destroys world fear.",
+   "uncertainties": [
+    "exact power unspecified"
+   ],
+   "plain_english": "Having joined the agitating one, world fear is destroyed."
+  },
+  {
+   "verse": 3196,
+   "rows": [
+    {
+     "surface": "smaraharaharirūpī",
+     "gloss": "smara-hara-hari-form",
+     "grounds": "legacy hint smara-hara-hari-form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kāmarūpaḥ",
+     "gloss": "desire-form",
+     "grounds": "legacy hint desire-form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kuberaḥ",
+     "gloss": "kubera",
+     "grounds": "legacy hint kubera",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who is described as desire-form Kubera?",
+   "premises": [
+    "smara-hara-hari form is stated",
+    "desire form is stated",
+    "Kubera is named"
+   ],
+   "inference": "Kubera is described in smara-hara-hari and desire form.",
+   "uncertainties": [
+    "theological identification unspecified"
+   ],
+   "plain_english": "Kubera is smara-hara-hari form and desire form."
+  },
+  {
+   "verse": 3197,
+   "rows": [
+    {
+     "surface": "bhajati",
+     "gloss": "worships",
+     "grounds": "legacy hint worships",
+     "morph": "v.3.sg.act.-pres"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "legacy hint if",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurūṇāṃ",
+     "gloss": "of-gurus",
+     "grounds": "legacy hint of-gurus",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "varṇamūlaṃ",
+     "gloss": "letter-root",
+     "grounds": "legacy hint letter-root",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vimṛgyam",
+     "gloss": "sought",
+     "grounds": "legacy hint sought",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What does one worship if the guru letter-root is sought?",
+   "premises": [
+    "worship is stated",
+    "guru letter-root is sought"
+   ],
+   "inference": "One worships when the guru letter-root is sought.",
+   "uncertainties": [
+    "object of worship unspecified"
+   ],
+   "plain_english": "If the guru letter-root is sought, he worships."
+  },
+  {
+   "verse": 3198,
+   "rows": [
+    {
+     "surface": "tadupari",
+     "gloss": "above-that",
+     "grounds": "legacy hint above-that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛgacihnaṃ",
+     "gloss": "deer-mark",
+     "grounds": "legacy hint deer-mark",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dvandvametat",
+     "gloss": "pair-this",
+     "grounds": "legacy hint pair-this",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhavānyāḥ",
+     "gloss": "of-bhavani",
+     "grounds": "legacy hint of-bhavani",
+     "morph": "n.gen.sg.f"
+    }
+   ],
+   "question": "What pair of Bhavani is above that?",
+   "premises": [
+    "above that is stated",
+    "deer mark is stated",
+    "pair of Bhavani is stated"
+   ],
+   "inference": "Above that is the deer mark, this pair of Bhavani.",
+   "uncertainties": [
+    "symbolic meaning unspecified"
+   ],
+   "plain_english": "Above that is the deer mark, this pair of Bhavani."
+  },
+  {
+   "verse": 3199,
+   "rows": [
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "legacy hint your",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "samanaya",
+     "gloss": "equal-union",
+     "grounds": "legacy hint equal-union",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "joined",
+     "grounds": "legacy hint joined",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bījamanyad",
+     "gloss": "seed-other",
+     "grounds": "legacy hint seed-other",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhavānyāḥ",
+     "gloss": "of-bhavani",
+     "grounds": "legacy hint of-bhavani",
+     "morph": "n.gen.sg.f"
+    }
+   ],
+   "question": "What other seed of Bhavani is joined in equal union?",
+   "premises": [
+    "equal union is stated",
+    "other seed is stated",
+    "of Bhavani is stated"
+   ],
+   "inference": "Another seed of Bhavani is joined in equal union.",
+   "uncertainties": [
+    "exact seed unspecified"
+   ],
+   "plain_english": "Your equal union joined with another seed of Bhavani."
+  }
+ ]
+}

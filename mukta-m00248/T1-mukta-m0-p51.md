@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[blue](nīla) [+](varṇa) [+](pratīkāśaṃ) [beginning-with-ra](rephādi) [with](bindu) [+](saṃyutam)
+[blue-colored](nīlavarṇapratīkāśaṃ) [with-bindu](bindusaṃyutam) [repha-etc](rephādi)
 
 ## mukta-m0-p51-v1252
-[exhalation](recakaṃ) [inhalation](pūrvakaṃ) [and](ca) [indeed](eva) [retention](kumbhakaṃ) [but](tu) [always](sadā) [one-should-practice](abhyaset)
+[recaka](recakaṃ) [first](pūrvakaṃ) [and](ca) [eva](eva) [kumbhaka](kumbhakaṃ) [always](sadā) [practice](abhyaset)
 
 ## mukta-m0-p51-v1253
-[retention](kumbhakaḥ) [but](tu) [sixty-four](catuṣṣaṣṭi) [+](divasaḥ) [O-Śiva](śiva) [conjoined](saṃyutam)
+[kumbhaka](kumbhakaḥ) [sixty-four-days](catuṣṣaṣṭidivasaḥ) [with-śiva](śiva+saṃyutam)
 
 ## mukta-m0-p51-v1254
-[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [having-practiced-well](samabhyasya) [double](dviguṇaṃ) [again](punar) [one-should-perform](ācaret)
+[practice](samabhyasya) [twofold](dviguṇaṃ) [again](punar) [do](ācaret)
 
 ## mukta-m0-p51-v1255
-[in](pañcame) [year](vatsare) [practitioner-of-mantra](mantrī) [sixty-four](catuṣṣaṣṭi) [+](guṇaṃ) [should-become](bhavet)
+[fifth-year](pañcame+vatsare) [mantrin](mantrī) [sixty-four-fold](catuṣṣaṣṭiguṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p51-v1256
-[by-the-path](mārgeṇa) [of-conquering](vijaya) [+](marūt) [variation](vikalpaṃ) [by-Keśava](keśavena) [and](ca)
+[maru-vijaya-path](marūdvijayamārgeṇa) [alternative](vikalpaṃ) [by-keśava](keśavena) [and](ca)
 
 ## mukta-m0-p51-v1257
-[of-going](gatyā) [+](gati) [+](prayogaḥ) [this](ayaṃ) [as-before](pūrvavat) [in-order](kramaśaḥ) [another](aparam)
+[going-coming-application](gatyāgatiprayogaḥ) [this](ayaṃ) [as-before](pūrvavat) [in-order](kramaśaḥ) [other](aparam)
 
 ## mukta-m0-p51-v1258
-[stated](uktaḥ) [in-sequence](kramāt) [two-years](dvi) [+](varṣaḥ) [this](ayaṃ) [by-Keśava](keśavena) [described](anuvarṇitam)
+[spoken](uktaḥ) [in-order](kramāt) [two-years](dvivarṣaḥ) [this](ayaṃ) [by-keśava](keśavena) [described](anuvarṇitam)
 
 ## mukta-m0-p51-v1259
-[lacuna](vi) [lacuna](*) [lacuna](*) [?](?) [knee](jānu) [+](gulphaṃ) [and](ca) [both](ubhau) [joints](sandhiḥ) [and](ca) [two-sides-of-back](pṛṣṭhasau)
+[jānu-ankle](jānugulphaṃ) [and](ca) [both](ubhau) [joint](sandhiḥ) [and](ca) [back](pṛṣṭha) [sau](sau)
 
 ## mukta-m0-p51-v1260
-[lacuna](*) [lacuna](*) [?](?) [but](tu) [conjoined](saṃyuktaḥ) [inhalation-etc.](pūrakādīn) [he](sa) [as-before](pūrvavat)
+[with](saṃyuktaḥ) [pūraka-etc](pūrakādīn) [he](sa) [as-before](pūrvavat)
 
 ## mukta-m0-p51-v1261
-[lacuna](a) [lacuna](*) [lacuna](*) [lacuna](kaṃ?) [corpse](śavaḥ) [also](api) [thus](evam) [practice](abhyāsaḥ) [is-declared](parigīyate)
+[corpse](śavaḥ) [also](api) [thus](evam) [practice](abhyāsaḥ) [is-sung](parigīyate)
 
 ## mukta-m0-p51-v1262
-[thus](iti) [exhalation](recakaḥ) [departure](prasthānaḥ?) [in-inhalation](pūrake) [by-resorting-to-haṃsa](haṃsa) [+](saṃśriyāt)
+[thus](iti) [recaka](recakaḥ) [departure](prasthānaḥ) [in-pūraka](pūrake) [haṃsa-refuge](haṃsasaṃśriyāt)
 
 ## mukta-m0-p51-v1263
-[heart](hṛt) [+](nābhiḥ) [abiding-in](sthaḥ) [all-siddhis](sarva) [+](siddhi) [hip](kaṭi) [+](kūrpara) [+](jānukaḥ)
+[heart-navel](hṛnnābhiḥ) [all-siddhi-seated](sarvasiddhisthaḥ) [waist-elbow-knee](kaṭikūrparajānukaḥ)
 
 ## mukta-m0-p51-v1264
-[endowed-with](samopetaṃ) [gentle-seed](saumya) [+](nbī?ja) [prāsāda-mantra](prāsādaṃ) [with](bindu) [+](saṃyutam)
+[saumya-bīja](saumyanbīja) [with](samopetaṃ) [prāsāda](prāsādaṃ) [with-bindu](bindusaṃyutam)
 
 ## mukta-m0-p51-v1265
-[unceasingly](anārataḥ) [from-practice](kriyā) [+](yogāt) [exhalation](recakaḥ) [of-the-two-previous](pūrvayoḥ) [in-sequence](kramāt)
+[unceasing](anārataḥ) [by-practice-yoga](kriyāyogāt) [recaka](recakaḥ) [of-two](pūrvayoḥ) [in-order](kramāt)
 
 ## mukta-m0-p51-v1266
-[in-heart](hṛt) [+](kaṇṭha) [+](tālu) [+](bhrū) [+](madhye) [in-the-two-ears](karṇayoḥ) [in-the-two-eyes](akṣayoḥ) [also](api)
+[heart-throat-palate-brow-middle](hṛtkaṇṭhatālubhrūmadhye) [of-ears](karṇayoḥ) [of-eyes](akṣayoḥ) [also](api)
 
 ## mukta-m0-p51-v1267
-[with-prāsāda](prasādena) [but](tu) [conjoined](saṃyuktaḥ) [from-the-breath](anilāt) [but](tu) [third](tṛtīyakaḥ)
+[by-grace](prasādena) [with](tu) [joined](saṃyuktaḥ) [from-air](anilāt) [third](tṛtīyakaḥ)
 
 ## mukta-m0-p51-v1268
-[in-both-hands](karayoḥ) [of-both](ubhayoḥ) [and](ca) [indeed](eva) [in-both-armpits](kakṣayoḥ) [of-both](ubhayoḥ) [also](api)
+[of-both-hands](karayoḥ+ubhayoḥ) [and](ca) [eva](eva) [of-both-armpits](kakṣayoḥ+ubhayoḥ) [also](api)
 
 ## mukta-m0-p51-v1269
-[bee-colored](bhṛṅga) [+](varṇaṃ) [udāna-breath](udānaḥ) [but](tu) [the-two-following](uttara) [+](dvayam) [situated-in-ya](yakāra) [+](stha)
+[bee-colored](bhṛṅgavarṇaṃ) [udāna](udānastu) [ya-letter](yakāraḥ) [upper-two](sthottaradvayam)
 
 ## mukta-m0-p51-v1270
-[lacuna](na?) [belly](kukṣiḥ) [and](ca) [back](pṛṣṭhaḥ) [and](ca) [in-all-limbs](sarva) [+](aṅga) [in-all-joints](sarva) [+](sandhiṣu)
+[belly](kukṣiḥ) [and](ca) [back](pṛṣṭhaḥ) [ca](ca) [all-limbs](sarvāṅga) [all-joints](sarvasandhiṣu)
 
 ## mukta-m0-p51-v1271
-[as-before](pūrvat) [inhalation](pūrakaṃ) [and](ca) [indeed](eva) [exhalation](recakaṃ) [retention](kumbhakaṃ) [but](tu) [or](vā)
+[as-before](pūrvat) [pūraka](pūrakaṃ) [and](ca) [eva](eva) [recaka](recakaṃ) [kumbhaka](kumbhakaṃ) [or](tu+vā)
 
 ## mukta-m0-p51-v1272
-[beginning-with-ya](yakārādi) [fourth](caturthaṃ) [but](tu) [ending-with-bha](bhāntam) [indeed](eva) [but](tu) [fifth](pañcamam)
+[ya-letter-from-fourth](yakārādicaturthaṃ) [tu](tu) [shining](bhāntam) [eva](eva) [tu](tu) [fifth](pañcamam)
 
 ## mukta-m0-p51-v1273
-[with-prāsāda](prāsādena) [but](tu) [by-the-deity](devena) [conquest-beginning-with-nātha](nāthādi) [+](vijayaṃ) [perform](kuru)
+[by-prāsāda](prāsādena) [by-god](tu+devena) [nātha-etc-victory](nāthādivijayaṃ) [do](kuru)
 
 ## mukta-m0-p51-v1274
-[in-reverse-order](pratiloma) [+](kramaṃ) [one-should-do](kuryāt) [of-Keśava](keśavasya) [but](tu) [of-the-wise](dhīmataḥ)
+[reverse-order](pratilomakramaṃ) [do](kuryāt) [of-keśava](keśavasya) [of-wise](tu+dhīmataḥ)
 
 ## mukta-m0-p51-v1275
-[conquest-of-all-breaths](sarva) [+](vāyu) [+](jayam) [one-should-desire](icchet) [through-practice](prayogataḥ) [of-vidyā-study](vidyā) [+](abhyāsa)
+[all-air-victory](sarvavāyujayam) [desires](icchet) [by-knowledge-practice-application](vidyābhyāsaprayogataḥ)

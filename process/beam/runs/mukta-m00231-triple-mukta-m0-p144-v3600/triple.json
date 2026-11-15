@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3600,
+   "rows": [
+    {
+     "surface": "kulāṣṭamyāmardharātre",
+     "gloss": "kula-eighth-night-midnight",
+     "grounds": "fused sandhi kula+aṣṭamyām+ardha+rātre; locative of midnight on kula-aṣṭamī",
+     "morph": "loc.sg.m (compound)"
+    },
+    {
+     "surface": "citāmadhye",
+     "gloss": "in-pyre-middle",
+     "grounds": "fused sandhi citā+madhye; locative in the middle of the pyre",
+     "morph": "loc.sg.m (compound)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed-focused",
+     "grounds": "participle/adjective describing the practitioner's settled state",
+     "morph": "nom.sg.m (participle)"
+    }
+   ],
+   "question": "When and where must the practitioner remain composed during the cremation-ground rite?",
+   "premises": [
+    "The rite occurs at midnight on kula-aṣṭamī.",
+    "The practitioner sits in the middle of the pyre.",
+    "He remains composed and focused."
+   ],
+   "inference": "The practitioner must be composed at midnight on kula-aṣṭamī in the pyre's middle.",
+   "uncertainties": [
+    "Exact sense of kula-aṣṭamī is not specified in this chunk."
+   ],
+   "plain_english": "At midnight on kula-aṣṭamī, in the middle of the pyre, he is composed."
+  }
+ ]
+}

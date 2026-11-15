@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p133",
  "verse": 3323,
- "question": "Which implements should the worshipper visualize the goddess holding in her hands?",
+ "question": "Who knows the mandalas similar to each element?",
  "premises": [
-  "The goddess is to be visualized in meditation.",
-  "She holds specific implements.",
-  "These are held in her hands."
+  "mandalas similar to each element are named",
+  "the wise know them"
  ],
- "inference": "One should meditate on her holding arrow, bow, noose, and goad in her hands.",
- "uncertainties": [],
- "plain_english": "One should meditate on her holding arrow, bow, noose, and goad in her hands."
+ "inference": "therefore the wise know element-similar mandalas",
+ "uncertainties": [
+  "compound analysis approximate"
+ ],
+ "plain_english": "The wise know mandalas similar to each element."
 }

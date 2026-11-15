@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[honey-sweet](madhumā) [of-brāhmaṇa](brāhmaṇī) [earth](bhūmiḥ) [astringent](kaṣāyā) [of-kṣatriya](kṣatriyasya) [but](tu)
+[honey-colored](madhumā) [brahmin](brāhmaṇī) [earth](bhūmiḥ) [astringent-colored](kaṣāyā) [of-kshatriya](kṣatriyasya) [but](tu)
 
 ## mukta-m0-p24-v577
-[ghee-smelling](ājyagandhā) [but](tu) [of-brāhmaṇa](viprasya) [blood-smelling](raktagandhā) [of-king](nṛpasya) [but](tu)
+[ghee-scented](ājyagandhā) [but](tu) [of-brahmin](viprasya) [blood-scented](raktagandhā) [of-king](nṛpasya) [but](tu)
 
 ## mukta-m0-p24-v578
-[wound-smell](vaṇagandhaṃ) [likewise](tathā) [taste](svādaṃ) [by-these](etaiḥ) [having-known](jñātvā) [but](tu) [by-characteristics](lakṣaṇaiḥ)
+[merchant-scent](vaṇagandhaṃ) [thus](tathā) [taste](svādaṃ) [by-these](etair) [knowing](jñātvā) [but](tu) [by-signs](lakṣaṇaiḥ)
 
 ## mukta-m0-p24-v579
-[hand-measure](hastamātraṃ) [one-should-dig](khanet) [earth](bhūmiṃ) [soil](pāṃsum) [having-taken-out](uddhṛtya) [one-should-fill](pūrayet)
+[hand-measure](hastamātraṃ) [dig](khaned) [earth](bhūmiṃ) [dust-raising](pāṃsumuddhṛtya) [fill](pūrayet)
 
 ## mukta-m0-p24-v580
-[middle](madhyamā) [equal-soil](samapāṃsuḥ) [but](tu) [inferior](hīnā) [and](ca) [also](api) [lowest](adhamā) [should-be](bhavet)
+[middle](madhyamā) [equal-dust](samapāṃsuḥ) [but](tu) [deficient](hīnā) [and](ca) [also](api) [lowest](adhamā) [becomes](bhavet)
 
 ## mukta-m0-p24-v581
-[ashes](bhasma) [coals](aṅgāra) [husks](tuṣān) [hairs](keśān) [bones](asthi) [and](ca) [also](api) [one-should-remove](uddharet) [O-cave](guha)
+[ashes](bhasma) [charcoal](aṅgāra) [husks](tuṣān) [hairs](keśān) [bones](asthi) [also](ca) [api](api) [remove](uddharet) [O-Guha](guha)
 
 ## mukta-m0-p24-v582
-[five-red-substances](pañcaraktaṃ) [one-should-cast](kṣipet) [there](tatra) [with-root-mantra](mūlamantreṇa) [teacher](deśikaḥ)
+[five-red](pañcaraktaṃ) [throw](kṣipet) [there](tatra) [root-mantra](mūlamantreṇa) [teacher](deśikaḥ)
 
 ## mukta-m0-p24-v583
-[mirror+interior+resembling](darpaṇodarasaṃkāśaṃ) [four-cornered](caturaśraṃ) [on-all-sides](samantataḥ)
+[mirror-belly-like](darpaṇodarasaṃkāśaṃ) [square](caturaśraṃ) [all-around](samantataḥ)
 
 ## mukta-m0-p24-v584
-[on-Himavat](himavat) [on-Hemakūṭa](hemakūṭe) [and](ca) [on-Vindhya](vindhye) [and](ca) [on-Pāriyātraka](pāriyātrake)
+[Himalaya](himavat) [golden-peak](hemakūṭe) [and](ca) [Vindhya](vindhye) [and](ca) [Pariyatra](pāriyātrake)
 
 ## mukta-m0-p24-v585
-[of-them](teṣāṃ) [in-own-fire](svāgnau) [and](ca) [to-be-done](kartavyaṃ) [at-holy-place](tīrthe) [or](vā) [one-should-cause-to-do](kārayet) [wise-one](budhaḥ)
+[of-them](teṣāṃ) [own-fire](svāgnau) [and](ca) [to-be-done](kartavyaṃ) [at-shrine](tīrthe) [or](vā) [cause-to-do](kārayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p24-v586
-[of-those-two](tayoḥ) [on-sides](pārśve) [and](ca) [or](vā) [one-should-do](kuryāt) [on-Sarayū](sarayū) [on-Gaṇḍaka](gaṇḍake) [also](api) [or](vā)
+[of-those](tayoḥ) [side](pārśve) [and](ca) [or](vā) [do](kuryāt) [Sarayu](sarayū) [Gandaki](gaṇḍake) [also](api) [or](vā)
 
 ## mukta-m0-p24-v587
-[on-Sarasvatī+bank](sārasvatī) [on-bank](tīrake) [also](api) [of-Dṛṣadvatī](dṛṣadvatyāḥ) [and](ca) [on-bank](tīrake)
+[Sarasvati](sārasvatī) [at-shore](tīrake) [also](api) [of-Drisadvati](dṛṣadvatyāḥ) [and](ca) [at-shore](tīrake)
 
 ## mukta-m0-p24-v588
-[on-field+bank](kṣetratīre) [in-Vārāṇasī](vārāṇasyāṃ) [or](vā) [in-Badarī+hermitage](badaryāśrama) [indeed](eva) [and](ca)
+[field-shore](kṣetratīre) [Varanasi](vārāṇasyāṃ) [or](vā) [Badari-ashram](badaryāśrame) [indeed](eva) [and](ca)
 
 ## mukta-m0-p24-v589
-[in-Devadāru+forest](devadāruvane) [or](vā) [also](api) [in-Naimiśa](naimiśe) [in-Puṣkara](puṣkare) [also](api) [or](vā)
+[deodar-forest](devadāruvane) [or](vā) [api](api) [Naimisha](naimiśe) [Pushkara](puṣkare) [also](api) [or](vā)
 
 ## mukta-m0-p24-v590
-[in-holy+garden](puṇyodyāne) [then](atha) [in-cow-pen](goṣṭhe) [or](vā) [there](tatra) [worship](yāgaṃ) [one-should-begin](samārabhet)
+[auspicious-garden](puṇyodyāne) [then](atha) [cow-pen](goṣṭhe) [or](vā) [there](tatra) [sacrifice](yāgaṃ) [begin](samārabhet)
 
 ## mukta-m0-p24-v591
-[near-temple](devālayasamīpe) [and](ca) [of-holy-river](puṇyanadyāḥ) [and](ca) [on-bank](tīrake)
+[temple-near](devālayasamīpe) [and](ca) [auspicious-river](puṇyanadyāḥ) [and](ca) [at-shore](tīrake)
 
 ## mukta-m0-p24-v592
-[pavilion](kūṭaṃ) [or](vā) [hall](maṇḍapaṃ) [or](vā) [also](api) [inside+pillar](antastambha) [devoid-of](vivarjitam)
+[pavilion](kūṭaṃ) [or](vā) [hall](maṇḍapaṃ) [or](vā) [api](api) [inner-pillar](antastambha) [devoid](vivarjitam)
 
 ## mukta-m0-p24-v593
-[with-canopy](vitānena) [above](ūrdhvam) [having-covered](ācchādya) [with-bell+chowrie](ghaṇṭācāmara) [adorned](bhūṣitam)
+[canopy](vitānena) [above](ūrdhvam) [covering](ācchādya) [bell-flywhisk-adorned](ghaṇṭācāmarabhūṣitam)
 
 ## mukta-m0-p24-v594
-[with-divine+ground+fragrance](divyabhūmisugandhāḍhyaṃ) [with-incense+lamp](dhūpadīpa) [endowed-with](samanvitam)
+[divine-earth-fragrant-rich](divyabhūmisugandhāḍhyaṃ) [incense-lamp-endowed](dhūpadīpasamanvitam)
 
 ## mukta-m0-p24-v595
-[with-conch+drum+sound](śaṅkhadundubhinirghoṣaṃ) [with-brahman+sound](brahmaghoṣa) [endowed-with](samanvitam)
+[conch-drum-sound](śaṅkhadundubhinirghoṣaṃ) [brahma-chant-endowed](brahmaghoṣasamanvitam)
 
 ## mukta-m0-p24-v596
-[divine+atmospheric+earthly](dra(di)vyāntarikṣabhūmiṣṭha) [omens](nimittāni) [one-should-observe](upalakṣayet)
+[substances-sky-earth-standing](dra(di)vyāntarikṣabhūmiṣṭha) [omens](nimittāni) [observe](upalakṣayet)
 
 ## mukta-m0-p24-v597
-[east-line](prāksūtraṃ) [first](prathamaṃ) [one-should-make](kuryāt) [in-west](paścime) [but](tu) [one-should-extend](visārayet)
+[eastern-thread](prāksūtraṃ) [first](prathamaṃ) [do](kuryāt) [western](paścime) [but](tu) [release](visārayet)
 
 ## mukta-m0-p24-v598
-[four-cornered](caturaśraṃ) [equal](samaṃ) [having-made](kṛtvā) [one-should-draw](vartayet) [lotus](padmam) [supreme](uttamam)
+[square](caturaśraṃ) [even](samaṃ) [making](kṛtvā) [draw](vartayet) [lotus](padmam) [excellent](uttamam)
 
 ## mukta-m0-p24-v599
-[of-khādira](khādirāḥ) [pegs](śaṅkavaḥ) [one-should-make](kuryāt) [mango+bilva+kadamba+born](cūtabilvakadambajāḥ)
+[khadira](khādirāḥ) [pegs](śaṅkavaḥ) [make](kuryāt) [mango-bilva-kadamba-born](cūtabilvakadambajāḥ)
 
 ## mukta-m0-p24-v600
-[sixteen-finger](ṣoḍaśāṅgulam) [height](utsedhaṃ) [its-half](tadardhaṃ) [thickness](nāham) [is-said](ucyate)
+[sixteen-angula](ṣoḍaśāṅgulam) [height](utsedhaṃ) [half-of-that](tadardhaṃ) [not](na) [I-say](ahamucyate)

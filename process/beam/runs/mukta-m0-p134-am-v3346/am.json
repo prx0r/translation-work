@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p134",
  "verse": 3346,
- "question": "What is identified as the twenty-five-syllabled mantra of Kurukulla?",
+ "question": "How does the hero-lord place both feet?",
  "premises": [
-  "A particular vidya is being identified.",
-  "It belongs to Kurukulla.",
-  "It is described as a twenty-five-syllabled mantra."
+  "on thighs is location",
+  "hero-lord is agent",
+  "foot soles both are object"
  ],
- "inference": "That vidya is the twenty-five-syllabled mantra of Kurukulla.",
- "uncertainties": [],
- "plain_english": "That vidya is the twenty-five-syllabled mantra of Kurukulla."
+ "inference": "The hero-lord, having done so, places both foot soles on the thighs.",
+ "uncertainties": [
+  "exact posture unspecified"
+ ],
+ "plain_english": "The hero-lord, having done so, places both soles on the thighs."
 }

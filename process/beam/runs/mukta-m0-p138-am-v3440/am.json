@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3440,
- "question": "What surrounding ornaments and insignia accompany the goddess?",
+ "question": "Whom does this practice delude?",
  "premises": [
-  "The goddess is surrounded on all sides.",
-  "She is accompanied by ornaments.",
-  "These include variegated items such as black chowries."
+  "deludes is stated",
+  "king is listed",
+  "horse and wicked elephant are listed"
  ],
- "inference": "The goddess is surrounded by variegated ornaments including black chowries and the like.",
- "uncertainties": [],
- "plain_english": "She is surrounded on all sides by variegated ornaments, including black chowries and others."
+ "inference": "It deludes king, horse, and wicked elephant.",
+ "uncertainties": [
+  "whether all targets simultaneous unclear"
+ ],
+ "plain_english": "It deludes king, horse, wicked elephant."
 }

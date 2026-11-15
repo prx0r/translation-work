@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2872,
- "question": "What range of fingers is specified while excluding each root end?",
+ "question": "What kinds of persons are described as lost-hearted and foolish?",
  "premises": [
-  "The range begins with the index finger.",
-  "The range extends to the end of the little finger.",
-  "Each root end is excluded."
+  "then is the time",
+  "lost-hearted village fool is described",
+  "great sinner is described"
  ],
- "inference": "The specified span runs from the index finger to the little finger while excluding their root ends.",
+ "inference": "Then a lost-hearted village fool and great sinner are described.",
  "uncertainties": [
-  "final token kri? is abbreviated or unclear in the source"
+  "exact causal relation is implicit"
  ],
- "plain_english": "From the index finger to the little finger, excluding the end of each root, the action is indicated."
+ "plain_english": "Then a lost-hearted village fool and great sinner are described."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p134",
  "verse": 3333,
- "question": "What effect does this manner of worship have for the goddess Lalita?",
+ "question": "Which tithis are auspicious for nourishment?",
  "premises": [
-  "The worship is performed in the manner described.",
-  "The worship is directed to the goddess Lalita.",
-  "Such worship is described as producing what is dear to her."
+  "ninth is auspicious",
+  "eighth and ninth are named",
+  "nourishment is context"
  ],
- "inference": "Worship performed in this way is pleasing to the goddess Lalita.",
- "uncertainties": [],
- "plain_english": "Thus worshipped in this way, it becomes pleasing to the goddess Lalita."
+ "inference": "For nourishment, the ninth is auspicious, and the eighth and ninth are also named.",
+ "uncertainties": [
+  "whether eighth is for nourishment unclear"
+ ],
+ "plain_english": "The ninth is auspicious for nourishment; the eighth and ninth likewise."
 }

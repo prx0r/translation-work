@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[tat+abhāvāt](tadabhāvād) [haret](dhared) [rājā](rājā) [vittam](vittaṃ) [pakṣa+dvayam](pakṣadvayaṃ) [vinā](vinā)
+[that-absence](tadabhāvāt) [takes](harati) [king](rājā) [wealth](vittaṃ) [two-sides](pakṣadvayaṃ) [without](vinā)
 
 ## mukta-m0-p17-v402
-[vivāhitā](vivāhitā) [prajā+nārī](prajānārī) [bhartṛ+pakṣa](bhartṛpakṣa) [kula+kṣīṇā](kulakhinā)
+[married](vivāhitā) [people-woman](prajānārī) [husband-side](bhartṛpakṣa) [family-afflicted](kulakhinā)
 
 ## mukta-m0-p17-v403
-[prabhuṇā](prabhuṇā) [dāsa+sambhūtam](dāsasaṃbhūtaṃ) [vittam](vittaṃ) [grāhyam](grāhyaṃ) [samāsataḥ](samāsataḥ)
+[by-lord](prabhuṇā) [slave-born](dāsasaṃbhūtaṃ) [wealth](vittaṃ) [receivable](grāhyaṃ) [in-short](samāsataḥ)
 
 ## mukta-m0-p17-v404
-[satsu](satsv) [apatyeṣu](apatyeṣu) [teṣām](teṣāṃ) [vai](vai) [grāhyam](grāhyaṃ) [ṣaḍ+bhāga+mātrataḥ](ṣaḍbhāgamātrataḥ)
+[good-offspring](satsvapatyeṣu) [their](teṣāṃ) [indeed](vai) [receivable](grāhyaṃ) [sixth-part-only](ṣaḍbhāgamātrataḥ)
 
 ## mukta-m0-p17-v405
-[mahā+argham](mahārghaṃ) [dantinaḥ](dantino) [vājin](pājīn) [nṛ+pateḥ](nṛpatestu) [samarpayet](samarpayet)
+[high-priced](mahārghaṃ) [elephant](dantino) [tribute](pājīn) [king's](nṛpatestu) [should-offer](samarpayet)
 
 ## mukta-m0-p17-v406
-[kaivartaka+ādikam](kaivartakādikaṃ) [grāhyam](grāhyaṃ) [upasparśa+samudbhavaḥ](upasparśasamudbhavaḥ)
+[fishermen-etc](kaivartakādikaṃ) [receivable](grāhyaṃ) [touch-born](upasparśasamudbhavaḥ)
 
 ## mukta-m0-p17-v407
-[iti](iti) [aṣṭādaśadhā](aṣṭādaśadhā) [ṛtvam](ritvaṃ) [śāstra+budhyā](śāstrabudhyā) [vibhājayet](vibhājapet)
+[thus-eighteen-fold](ityaṣṭādaśadhāritvaṃ) [by-scripture-wisdom](śāstrabudhyā) [should-divide](vibhājapet)
 
 ## mukta-m0-p17-v408
-[piṇḍa+dātṛ+anusāreṇa](piṇḍadātranusāreṇa) [dāyādaḥ](dāyādāsyān) [syāt](na) [na](ca) [anyadā](anyadā)
+[body-gift-following](piṇḍadātranusāreṇa) [heirship](dāyādāsyān) [not-other](na+cānyadā)
 
 ## mukta-m0-p17-v409
-[evam](evaṃ) [tu](tu) [rikthinaḥ](rikthinaḥ) [proktāḥ](proktā) [varjayet](varjayet) [tat+aliṅginaḥ](tadaliṃginaḥ)
+[thus](evaṃ) [but](tu) [heirs](rikthinaḥ) [declared](proktā) [should-avoid](varjayet) [that-markless](tadaliṃginaḥ)
 
 ## mukta-m0-p17-v410
-[yat](yacca) [ca](ca) [bhoga+vihīnam](bhogavihīnaṃ) [tu](tu) [triṃśat+varṣam](triṃśadvarṣaṃ) [vinā](vinā) [hitam](hitaṃ)
+[and](yacca) [enjoyment-devoid](bhogavihīnaṃ) [but](tu) [thirty-years](triṃśadvarṣaṃ) [without](vinā) [benefit](hitaṃ)
 
 ## mukta-m0-p17-v411
-[nirīkṣya](nirīkṣya) [sākṣiṇaḥ](sākṣiṇoyasmād) [yasmāt](yasmād) [ubhaya+anumate](ubhayānumate) [sati](sati)
+[examining](nirīkṣya) [witnesses](sākṣiṇo) [because](yasmād) [both-consent](ubhayānumate) [being](sati)
 
 ## mukta-m0-p17-v412
-[vyavahāra+pratijñāḥ](vyavahāra) [tu](pratijñāstu) [sāra+bhūtāḥ](sārabhūtā) [vicārayet](vicārayet)
+[lawsuit](vyavahāra) [claims](pratijñāstu) [essence](sārabhūtā) [should-examine](vicārayet)
 
 ## mukta-m0-p17-v413
-[upakurvāṇakānām](upakurvāṇakānāṃ) [tu](tu) [śiva+ājñā](śivājñā) [tu](tu) [vidhāyinām](vidhāyināṃ)
+[beneficiaries](upakurvāṇakānāṃ) [but](tu) [Shiva-command](śivājñā) [but](tu) [of-ordainers](vidhāyināṃ)
 
 ## mukta-m0-p17-v414
-[vitta+bhūmi+ādikam](vitta) [*](bhūmyādikaṃ) [*](*) [*](*) [gāḥ](gāśramamathābhyagāt) [āśramam](āśramam) [atha](atha) [abhyagāt](abhyagāt)
+[wealth](vitta) [land-etc](bhūmyādikaṃ) [gap](*) [gap](*) [gap](*) [hermitage-then-went](gāśramamathābhyagāt)
 
 ## mukta-m0-p17-v415
-[mātṛ+putra+ādi](mātṛputrādi) [bhrātṝṇām](bhrātṛṇāṃ) [pratibhāgam](pratibhāgaṃ) [prakalpayet](prakalpayet)
+[mother-son-etc](mātṛputrādi) [brothers](bhrātṛṇāṃ) [share](pratibhāgaṃ) [should-allocate](prakalpayet)
 
 ## mukta-m0-p17-v416
-[aṣṭādaśa](aṣṭādaśa) [padam](padaṃcātra) [ca](ca) [atra](atra) [vyavahāram](vyavahāraṃ) [parīkṣayet](parīkṣayet)
+[eighteen](aṣṭādaśa) [topic](padaṃ) [here](cātra) [lawsuit](vyavahāraṃ) [should-test](parīkṣayet)
 
 ## mukta-m0-p17-v417
-[śrutena](śrutena) [vayasā](vayasā) [jātyā](jātyā) [samāyuktaḥ](samāyukto'tha) [atha](atha) [kanyasaḥ](kanyasaḥ)
+[by-learning](śrutena) [by-age](vayasā) [by-caste](jātyā) [endowed](samāyukto) [then](atha) [younger](kanyasaḥ)
 
 ## mukta-m0-p17-v418
-[pradakṣiṇīyaḥ](pradakṣiṇīyo) [jyeṣṭhena](jyeṣṭena) [guru+vat](guruvadvābhinaṃdayet) [vā](vā) [abhinandayet](abhinandayet)
+[circumambulated](pradakṣiṇīyo) [by-elder](jyeṣṭena) [like-teacher](guruvadvā) [should-greet](abhinaṃdayet)
 
 ## mukta-m0-p17-v419
-[tat+abhāvāt](tada) [tu](bhāvāstu) [bhāryā](bhāryā) [vā](vā) [pūjanīyā](pūjanīyā) [prayatnataḥ](prayatnataḥ)
+[that](tada) [absence](bhāvāstu) [wife](bhāryā) [or](vā) [worshipful](pūjanīyā) [diligently](prayatnataḥ)
 
 ## mukta-m0-p17-v420
-[na](na) [deyā](deyāstriṣu) [strīṣu](strīṣu) [samayā](samayā) [na](na) [kāryā](kāryā) [liṅginī](liṃginī) [kvacit](kvacit)
+[not-givable](na+deyāstriṣu) [three](samayā) [not-done](na+kāryā) [marked-woman](liṃginī) [ever](kvacit)
 
 ## mukta-m0-p17-v421
-[jyeṣṭhaḥ](jyeṣṭho) [bhrātā](bhrātā) [sadā](sadā) [pūjyaḥ](pūjyaḥ) [śāstram](śāstramanveṣṭayet) [anveṣṭayet](anveṣṭayet) [tataḥ](tataḥ)
+[eldest](jyeṣṭho) [brother](bhrātā) [always](sadā) [worshipful](pūjyaḥ) [scripture](śāstram) [should-seek](anveṣṭayet) [then](tataḥ)
 
 ## mukta-m0-p17-v422
-[guru+vat](guruvatpūjayennityaṃ) [pūjayet](pūjayet) [nityam](nityam) [nānātvam](nānātvaṃ) [parivarjayet](parivarjayet)
+[like-teacher](guruvat) [should-worship](pūjayennityaṃ) [diversity](nānātvaṃ) [should-avoid](parivarjayet)
 
 ## mukta-m0-p17-v423
-[śiva+vat](śivavatpūjayetsarvān) [pūjayet](pūjayet) [sarvān](sarvān) [yataḥ](yataste) [te](te) [mokṣa+dāḥ](mokṣadā) [nṛṇām](nṛṇāṃ)
+[like-Shiva](śivavat) [should-worship](pūjayetsarvān) [because](yataste) [liberators](mokṣadā) [of-men](nṛṇāṃ)
 
 ## mukta-m0-p17-v424
-[preraṇāt](preraṇāccodakaṃ) [codakam](codakam) [prāhuḥ](prāhuḥ) [guruḥ](guru) [dhaureyaḥ](dhaureya) [uttamaḥ](uttamaḥ)
+[by-impulsion](preraṇāccodakaṃ) [they-call](prāhuḥ) [teacher](guru) [burden-bearer](dhaureya) [best](uttamaḥ)
 
 ## mukta-m0-p17-v425
-[bodhakaḥ](bodhakastu) [tu](tu) [prayatnena](prayatnena) [pūjitavyaḥ](pūjitavyaḥ) [sadā](sadaiva) [eva](eva) [hi](hi)
+[teacher](bodhakastu) [diligently](prayatnena) [should-be-worshiped](pūjitavyaḥ) [always](sadaiva) [indeed](hi)

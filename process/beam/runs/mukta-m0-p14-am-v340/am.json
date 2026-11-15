@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p14",
  "verse": 340,
- "question": "Which deity is proclaimed as the presiding goddess of this mantra?",
+ "question": "What other flowers are also specified?",
  "premises": [
-  "A deity is being identified for the mantra.",
-  "She is named Mṛtasañjīvanī Devī."
+  "Other flowers are specified.",
+  "Kadamba is specified.",
+  "Pārijāta and so forth are specified."
  ],
- "inference": "The presiding deity of this mantra is proclaimed to be the goddess Mṛtasañjīvanī.",
- "uncertainties": [],
- "plain_english": "The goddess Mṛtasañjīvanī is proclaimed as the deity."
+ "inference": "The verse adds other flowers such as kadamba and pārijāta.",
+ "uncertainties": [
+  "Fused sandhi forms are not expanded."
+ ],
+ "plain_english": "Other flowers, kadamba, pārijāta, and so forth, are also specified."
 }

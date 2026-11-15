@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "dakṣapādādimūrdhāntaṃ",
+     "gloss": "right-foot-beginning-head-end",
+     "grounds": "compound naming the worship path from the right foot to the head",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vāmamūrdhādikaṃ",
+     "gloss": "left-head-beginning-etc",
+     "grounds": "compound naming the corresponding left-side worship path from the head onward",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable marking parallel completion of the rite",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner sequence worship from the right foot to the head and then from the left head onward?",
+   "premises": [
+    "Worship proceeds from right foot to head.",
+    "Then the left side proceeds from head onward.",
+    "Likewise marks parallel completion."
+   ],
+   "inference": "The rite prescribes a bodily circuit of worship.",
+   "uncertainties": [
+    "Exact body parts and ritual direction beyond the compound hints are not explicit."
+   ],
+   "plain_english": "Worship from the right foot up to the head, and likewise from the left head onward."
+  }
+ ]
+}

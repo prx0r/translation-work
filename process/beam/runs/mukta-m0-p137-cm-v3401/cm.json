@@ -3,19 +3,39 @@
  "verse": 3401,
  "rows": [
   {
-   "lemma": "ṣoḍaśāṃgulamāyāmaṃ",
+   "lemma": "mudrāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "accusative object of baddhvā"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "particle"
+  },
+  {
+   "lemma": "kṣobhiṇīṃ",
+   "morph": "f.acc.sg",
+   "grounds": "adjective modifying mudrām"
+  },
+  {
+   "lemma": "baddhvā",
+   "morph": "absolutive",
+   "grounds": "absolutive of bandh"
+  },
+  {
+   "lemma": "mantram",
    "morph": "m.acc.sg",
-   "grounds": "compound: ṣoḍaśa-aṅgula-m-āyāma; measure of length"
+   "grounds": "accusative object of japet"
   },
   {
-   "lemma": "kaṭidaṇḍasya",
-   "morph": "m.gen.sg",
-   "grounds": "compound: kaṭi-daṇḍa; genitive of possession"
+   "lemma": "aṣṭaśataṃ",
+   "morph": "(indecl.)",
+   "grounds": "numeral modifying japet"
   },
   {
-   "lemma": "deśika",
-   "morph": "m.voc.sg",
-   "grounds": "vocative address to the officiating master"
+   "lemma": "japet",
+   "morph": "3.sg.act-opt",
+   "grounds": "optative of jap"
   }
  ]
 }

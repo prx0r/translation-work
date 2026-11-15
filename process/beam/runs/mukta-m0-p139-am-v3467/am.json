@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3467,
- "question": "Which mantras govern the oblations of cooked offering and parched rice?",
+ "question": "Where should one cast the rite by this very procedure?",
  "premises": [
-  "Cooked offering is oblated with the Aghora mantra",
-  "Parched rice is oblated next",
-  "The Vāma mantra governs the second oblation"
+  "anenaiva means by-this-very-rite",
+  "vidhānena means procedure",
+  "jalamadhye means into-water",
+  "viniḥkṣipet means should-cast"
  ],
- "inference": "After offering cooked rice with Aghora, one should offer parched rice with Vāma",
- "uncertainties": [],
- "plain_english": "Having offered the cooked oblation with the Aghora mantra, one should offer parched rice with the Vāma mantra."
+ "inference": "By this very procedure, one should cast it into water.",
+ "uncertainties": [
+  "object referent"
+ ],
+ "plain_english": "By this very procedure, one should cast it into water."
 }

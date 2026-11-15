@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3775,
+   "rows": [
+    {
+     "surface": "pīyate",
+     "gloss": "is-drunk",
+     "grounds": "passive present of root pā",
+     "morph": "verb.3.sg.passive-present, root pā"
+    },
+    {
+     "surface": "khādyate",
+     "gloss": "is-eaten",
+     "grounds": "passive present of root khād",
+     "morph": "verb.3.sg.passive-present, root khād"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "whatever",
+     "grounds": "fused yat + tu",
+     "morph": "pron.nom.sg.n (indecl. tu)"
+    },
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "that-all",
+     "grounds": "demonstrative plus sarva",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "kuṇḍalīmukhe",
+     "gloss": "kundali-mouth",
+     "grounds": "fused compound in locative",
+     "morph": "compound.loc.sg.n"
+    }
+   ],
+   "question": "Where does all that is drunk or eaten ultimately go in this practice?",
+   "premises": [
+    "All drink is drunk.",
+    "All food is eaten.",
+    "All of it enters Kundali's mouth."
+   ],
+   "inference": "Consumption is absorbed into Kundali.",
+   "uncertainties": [
+    "Exact ritual referent of Kundali remains unclear."
+   ],
+   "plain_english": "Whatever is drunk or eaten, all of it is in the mouth of Kundali."
+  }
+ ]
+}
