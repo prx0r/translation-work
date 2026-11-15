@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[this](etat) + [established](siddhaṃ) [always](sadā) [śaiva](śaivaṃ) [guru](guru) + [form](rūpam) [unborn](ajanmakam)
+[this](etat) [established](siddhaṃ) [always](sadā) [śaiva](śaivaṃ) [guru+form](guru+rūpam) [unborn](ajanmakam)
 
 ## mukta-m0-p08-v177
-[śiva](śiva) + [ending](anta) + [named](nāmakāḥ) [all](sarve) [ash](bhasma) + [limbed](āṅgā) [celibates](brahmacāriṇaḥ)
+[śiva+ending](śiva+anta) [named](nāmakāḥ) [all](sarve) [ash+limbed](bhasma+aṅgā) [celibates](brahmacāriṇaḥ)
 
 ## mukta-m0-p08-v178
-[let-distinguish](viśeṣayātu) [general](sāmānyā) [guru](gurur) + [indeed](apy) [thus](evam) [indeed](eva) [but](tu)
+[should-distinguish](viśeṣayātu) [general](sāmānyā) [guru](guruḥ) [indeed](api) [thus](evam) [only](eva) [indeed](tu)
 
 ## mukta-m0-p08-v179
-[water-born](ambhojaṃ) [mud-born](paṅkajaṃ) [as](yadvat) [so](tadvat) [śaivas](śaivā) [not](na) [and](ca) + [others](itare)
+[lotus](ambhojaṃ) [mud-born-lotus](paṅkajaṃ) [as](yadvat) [so](tadvat) [śaivas](śaivā) [not](na) [others](cetare)
 
 ## mukta-m0-p08-v180
-[likewise](tathaiva) [of-śiva-liṅgas](śiva) + [liṅgas](liṅgānāṃ) [śaivas](śaivāḥ) [pāśupatas](pāśupata) + [and-others](ādayaḥ)
+[likewise](tathaiva) [śiva+liṅgas](śiva+liṅgānāṃ) [śaivas](śaivāḥ) [pāśupatas+and-others](pāśupata+ādayaḥ)
 
 ## mukta-m0-p08-v181
-[liṅga](liṅga) + [difference](bheda) + [results](phalair) + [endowed](yukto) [goes](yāty) + [he](asau) [to-raurava](rauravaṃ) [certainly](dhruvam)
+[liṅga+difference+results](liṅga+bheda+phalaiḥ) [endowed](yuktaḥ) [goes](yāti) [he](asau) [to-raurava](rauravaṃ) [certainly](dhruvam)
 
 ## mukta-m0-p08-v182
-[otherwise](anyathā) [sin](pāpa) + [doer](kārī) [would-be](syād) [thus](iti) + [command](ājñā) [supreme-lord's](pārameśvarī)
+[otherwise](anyathā) [sin+doer](pāpa+kārī) [would-be](syāt) [thus](iti) [command](ājñā) [supreme-lord's](pārameśvarī)
 
 ## mukta-m0-p08-v183
-[celibate](brahmacārī) + [householder](gṛhastha) + [state](tva) + [distinction](bheda) + [divided](bhinnaṃ) [twofold](dvidhā) [situated](sthitam)
+[celibate+householder+state](brahmacārī+gṛhastha+tva) [division+divided](bheda+bhinnam) [twofold](dvidhā) [established](sthitam)
 
 ## mukta-m0-p08-v184
-[desire-based](kāmya) + [desireless](akāmi) + [action](kriyāṃ) [I-speak](vacmi) [now](sāmprataṃ) [with-proper](saṃpra) + [distinction](bhedataḥ)
+[desireful+desireless+rites](kāmya+akāmi+kriyām) [I-speak](vacmi) [now](sāmprataṃ) [with-proper+distinction](sam+prabhedataḥ)
 
 ## mukta-m0-p08-v185
-[enjoyment](bhukti) + [liberation](mukti) + [desiring](īcchukaḥ) [desirous-one](kāmī) [should-perform](kuryād) [initiation](dīkṣā) + [and-so-forth](ādim) [by-command](ājñayā)
+[enjoyment+liberation+desiring](bhukti+mukti+īcchukaḥ) [desireful](kāmī) [should-perform](kuryāt) [initiation+and-so-on](dīkṣā+ādim) [by-command](ājñayā)
 
 ## mukta-m0-p08-v186
-[consecration](pratiṣṭhā) + [and-other](ādi) + [rites](kriyā) + [all](śeṣā) [by-him](tat) + [done](kṛtā) [well](saṃpra) + [commended](śasyate)
+[consecration+and-other+rites](pratiṣṭhā+ādi+kriyāḥ) [all](aśeṣāḥ) [by-him+done](tat+kṛtāḥ) [highly-praised](sam+praśasyate)
 
 ## mukta-m0-p08-v187
-[śiva](śiva) + [authority](adhikāra) + [engaged](vṛttir) + [who](yaḥ) [he](sa) [sāntānika](sāntānika) [is-called](ucyate)
+[śiva+authority+conduct](śiva+adhikāra+vṛttiḥ) [who](yaḥ) [he](saḥ) [sāntānika](sāntānikaḥ) [is-called](ucyate)
 
 ## mukta-m0-p08-v188
-[afterwards](paścāt) [should-perform](kuryād) [marriage](vivāhaṃ) [and](ca) [householder](gṛhasthaḥ) [he](sa) [vow](vata) + [offerer](arpakaḥ)
+[afterwards](paścāt) [should-perform](kuryāt) [marriage](vivāham) [and](ca) [householder](gṛhasthaḥ) [he](saḥ) [vow+offerer](vata+arpakaḥ)
 
 ## mukta-m0-p08-v189
-[alms](bhaikṣya) + [eating](āśī) [self](saṃyata) + [restrained](ātmā) [and](ca) [vow-observer](vratī) [he](sa) [is-proclaimed](parikīrtitaḥ)
+[alms+eating](bhaikṣya+āśī) [restrained+self](saṃyata+ātmā) [and](ca) [vow-holder](vratī) [he](saḥ) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p08-v190
-[flower](puṣpa) + [falling](pāta) + [named](abhidhānaṃ) [but](tu) [dwelling-in-monastery](maṭhī) [by-seals](mudrābhir) [is-desired](iṣyate)
+[flower+falling+named](puṣpa+pāta+abhidhānam) [indeed](tu) [maṭha-dweller](maṭhī) [by-seals](mudrābhiḥ) [is-desired](iṣyate)
 
 ## mukta-m0-p08-v191
-[good](sad) + [garment](vastram) [ointment](añjanaṃ) [oil](tailaṃ) [leads](nayate) [delights](ramate) [indeed](hi) [him](tam)
+[good+garment](sat+vastram) [ointment](añjanam) [oil](tailam) [leads](nayate) [delights](ramate) [indeed](hi) [him](tam)
 
 ## mukta-m0-p08-v192
-[for-mākṣā](mākṣāya) [vow-observer](vratinaṃ) [and](ca) [indeed](eva) [should-choose](varayen) [wise](matimān) + [man](naraḥ)
+[for-mākṣā](mākṣāya) [vow-holder](vratinam) [and](ca) [indeed](eva) [should-choose](varayet) [wise+man](matimān+naraḥ)
 
 ## mukta-m0-p08-v193
-[worldly](laukiko) [wealth](dravya) + [sharer](bhāgī) [should-be](syād) [knowledge](vidyā) + [sharer](bhāk) [otherworldly](pāralaukikaḥ)
+[worldly](laukikaḥ) [wealth+sharer](dravya+bhāgī) [should-be](syāt) [knowledge+sharer](vidyā+bhāk) [otherworldly](pāralaukikaḥ)
 
 ## mukta-m0-p08-v194
-[of-brothers](bhrātṛṇaṃ) [in-guru](guru) + [absence](abhāve) [should-be](syād) [of-householders](gṛhasthānāṃ) [own](sva) + [son](putrakam)
+[of-brothers](bhrātṛṇam) [in-guru+absence](guru+abhāve) [should-be](syāt) [of-householders](gṛhasthānām) [own+son](sva+putrakam)
 
 ## mukta-m0-p08-v195
-[unfit](ayogyāḥ) [in-śiva](śiva) + [duties](kāryeṣu) [bell](ghaṇṭā) + [connected](sambandhino) [should-remove](haret)
+[unfit](ayogyāḥ) [in-śiva+works](śiva+kāryeṣu) [bell+connected](ghaṇṭā+sambandhinaḥ) [should-remove](haret)
 
 ## mukta-m0-p08-v196
-[in-debt](ṛṇe) [in-wealth](dravye) [and](ca) [in-offering](piṇḍe) [and](ca) [he](sa) [alone](eva) + [one](ekaḥ) [is-commended](praśasyate)
+[in-debt](ṛṇe) [in-wealth](dravye) [and](ca) [in-offering](piṇḍe) [and](ca) [he](saḥ) [alone](eva+ekaḥ) [is-praised](praśasyate)
 
 ## mukta-m0-p08-v197
-[four](catur) + [domain](gocara) + [middle](madhye) [and](ca) [śaiva](śaivo) [as-eldest](jyeṣṭhāyate) [supremely](param)
+[four+domain+middle](catur+gocara+madhye) [and](ca) [śaiva](śaivaḥ) [as-eldest](jyeṣṭhāyate) [supremely](param)
 
 ## mukta-m0-p08-v198
-[śaiva](śaiva) + [teacher](ācāryas) [then](tataḥ) [most-excellent](śreṣṭhaḥ) [should-install](sthāpayet) [all](sarva) + [deities](devatāḥ)
+[śaiva+teacher](śaiva+ācāryaḥ) [then](tataḥ) [best](śreṣṭhaḥ) [should-install](sthāpayet) [all+deities](sarva+devatāḥ)
 
 ## mukta-m0-p08-v199
-[enjoyment](bhukti) + [liberation](mukti) + [giver](pradātā) [and](ca) [not](na) + [other](anyo) [indeed](vai) [universe](viśva) + [creating](kṛd) + [guru](guruḥ)
+[enjoyment+liberation+giver](bhukti+mukti+pradātā) [and](ca) [not](na) [other](anyaḥ) [indeed](vai) [world+making+guru](viśva+kṛt+guruḥ)
 
 ## mukta-m0-p08-v200
-[in-his](tad) + [absence](abhāve) [but](tu) [to-be-appointed](kartavyāḥ) [own](sva) + [deity](deva) + [vow](vrata) + [practitioners](cāriṇaḥ)
+[in-his+absence](tat+abhāve) [indeed](tu) [to-be-appointed](kartavyāḥ) [own+deity+vow+practitioners](sva+deva+vrata+cāriṇaḥ)

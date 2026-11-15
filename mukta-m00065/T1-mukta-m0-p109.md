@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-[in-written-books](likhitapustakeṣu) [not](nāsti) [twenty-sixth](ṣaḍviṃśaḥ) [rule](vidhiḥ)
+[in-written-books](likhitapustakeṣu) [not](na) [exists](asti) [twenty-sixth](ṣaḍviṃśaḥ) [rule](vidhiḥ)
 
 ## mukta-m0-p109-v2702
-[with-rathaka+īrṇa+nine+seven+arrows](rathakernavasapteṣusaṅkhyaiḥ) [according-to-Arka's-opinion](arkamatāt) [I-speak](bruve)
+[rathaka+corner+nine+seven+five](rathakernavasapteṣusaṅkhyaiḥ) [by-sun+opinion](arkamatāt) [I-speak](bruve)
 
 ## mukta-m0-p109-v2703
-[beginning-with-openings](randhrādi) [with-eight+seven-parts](vasusaptāṃśaiḥ) [middle+half-rathaka](madhyārdharathakaḥ) [with-planets](grahaiḥ)
+[from-cavity](randhrādi) [eight+seven+parts](vasusaptāṃśaiḥ) [middle+half+rathaka](madhyārdharathakaḥ) [by-planets](grahaiḥ)
 
 ## mukta-m0-p109-v2704
-[rathakas](rathakāḥ) [four-and-a-half](sārdhacatvāraḥ) [and-four](catvāraḥ) [and](ca) [chala-projections](chalāgamāḥ)
+[rathakas](rathakāḥ) [with-half+four](sārdhacatvāraḥ) [and](ca) [four](catvāraḥ) [and](ca) [recess+projections](chalāgamāḥ)
 
 ## mukta-m0-p109-v2705
-[then](tataḥ) [and](ca) [by-leaving-one-by-one](ekaikasantyāgāt) [six-sections](ṣaḍaṇḍaṃ) [nine](nava) [storeys](bhūmikāḥ)
+[then](tataḥ) [and](ca) [by-one+one+abandonment](ekaikasantyāgāt) [six-sections](ṣaḍaṇḍaṃ) [nine](nava) [storeys](bhūmikāḥ)
 
 ## mukta-m0-p109-v2706
-[with-vidyādharas+and-immortals](vidyādharāmaraiḥ) [endowed](yuktaṃ) [should-be](syāt) [thus](evaṃ) [best-temple](jyeṣṭhakhadrumaḥ)
+[with-vidyādharas+immortals](vidyādharāmaraiḥ) [endowed](yuktaṃ) [should-be](syāt) [thus](evaṃ) [best+tree-temple](jyeṣṭhakhadrumaḥ)
 
 ## mukta-m0-p109-v2707
-[the-upākhya](upākhyaḥ) [with-limbs+arrows](sāṅgribāṇena) [with-sages](munibhiḥ) [and](ca) [aṇuka](aṇukaṃ) [should-be](bhavet)
+[the-upākhya](upākhyaḥ) [with-limb+arrow](sāṅgribāṇena) [by-sages](munibhiḥ) [and](ca) [aṇuka](aṇukaṃ) [should-be](bhavet)
 
 ## mukta-m0-p109-v2708
-[water-interval](jalāntaraṃ) [with-three](tribhiḥ) [thus](evaṃ) [water-half](jalārdhaṃ) [but](tu) [with-one](ekam) [only](eva) [indeed](tu)
+[water+interval](jalāntaraṃ) [by-three](tribhiḥ) [thus](evaṃ) [water+half](jalārdhaṃ) [but](tu) [by-one](ekam) [only](eva) [indeed](tu)
 
 ## mukta-m0-p109-v2709
-[with-desire-parts](kāmāṃśaiḥ) [first-storey](prathamābhūmiḥ) [with-diminution-one-by-one](ekaikahrāsayogataḥ)
+[by-desire+parts](kāmāṃśaiḥ) [first+storey](prathamābhūmiḥ) [by-one+one+diminution+application](ekaikahrāsayogataḥ)
 
 ## mukta-m0-p109-v2710
-[with-candraśālā+etc.](candraśālādi) [abundant](pratrāḍhyā) [as-before](pūrvavat) [platform](vedikā) [outside](bahiḥ)
+[with-candraśālā+etc.](candraśālādi) [abundantly-adorned](pratrāḍhyā) [as-before](pūrvavat) [platform](vedikā) [outside](bahiḥ)
 
 ## mukta-m0-p109-v2711
-[by-element-part](bhūtāṃśena) [indeed](tu) [corner](koṇaḥ) [should-be](syāt) [by-four](vedena) [upper-ratha](uparathaḥ) [likewise](tathā)
+[by-element+part](bhūtāṃśena) [indeed](tu) [corner](koṇaḥ) [should-be](syāt) [by-four](vedena) [upper+rathaka](uparathaḥ) [likewise](tathā)
 
 ## mukta-m0-p109-v2712
-[thus](evaṃ) [remaining-half](śeṣārdhakaṃ) [to-be-made](kāryaṃ) [endowed-with-five-storey-rathakas](pañcabhūrathakānvitam)
+[thus](evaṃ) [remaining+half](śeṣārdhakaṃ) [to-be-made](kāryaṃ) [with-five+storey+rathakas](pañcabhūrathakānvitam)
 
 ## mukta-m0-p109-v2713
-[by-loss-of-unity](rūpanāśāt) [gradually](kramāt) [other](anyāḥ) [ending-with-eight](vasvantāḥ) [five-storeys](pañcabhūmayaḥ)
+[by-unit+loss+sequence](rūpanāśātkramāt) [other](anyāḥ) [ending-with-eight](vasvantāḥ) [five+storeys](pañcabhūmayaḥ)
 
 ## mukta-m0-p109-v2714
-[having-made](kṛtvā) [with-one](ekena) [indeed](tu) [recess](saṃveśam) [first](ādyaḥ) [corner-ratha](koṇarathaḥ) [should-be](bhavet)
+[having-made](kṛtvā) [by-one](ekena) [indeed](tu) [recess](saṃveśam) [first](ādyaḥ) [corner+rathaka](koṇarathaḥ) [should-be](bhavet)
 
 ## mukta-m0-p109-v2715
-[fifth](pañcamī) [with-rathakas](rathakaiḥ) [structure](dhāma) [and-likewise](tathā) [another](anyat) [by-element-part](bhūta+bhāgataḥ)
+[fifth](pañcamī) [with-rathakas](rathakaiḥ) [structure](dhāma) [likewise](tathā) [other](anyat) [by-element+part](bhūta+bhāgataḥ)
 
 ## mukta-m0-p109-v2716
-[by-one-each](ekaikena) [recess](praveśaḥ) [but](tu) [by-two](dvābhyāṃ) [middle+half-going](madhyardhagaḥ) [ratha](rathaḥ)
+[by-one+one](ekaikena) [projection](praveśaḥ) [but](tu) [by-two](dvābhyāṃ) [middle+half+going](madhyardhagaḥ) [rathaka](rathaḥ)
 
 ## mukta-m0-p109-v2717
-[width](vistaraḥ) [below-platform](vedyadhaḥ) [which](yaḥ) [should-be](syāt) [likewise](tathā) [spire-height](mañjarikocchritiḥ)
+[width](vistaraḥ) [below-platform](vedyadhaḥ) [which](yaḥ) [should-be](syāt) [likewise](tathā) [spire+height](mañjarikocchritiḥ)
 
 ## mukta-m0-p109-v2718
-[lowest](adhamaḥ) [by-nine-parts](navabhāgaiḥ) [should-be](syāt) [thick+middle+slender](sthūlā+madhya+kṛśāḥ) [threefold](tridhā)
+[lowest](adhamaḥ) [by-nine+parts](navabhāgaiḥ) [should-be](syāt) [thick+middle+slender](sthūlāmadhyakṛśāḥ) [threefold](tridhā)
 
 ## mukta-m0-p109-v2719
-[equal-to-that](tatulyā) [in-smallest-structure](kanyase) [dhāmni](dhāmni) [spire](śikharaṃ) [double](dviguṇaṃ) [in-three](triṣu)
+[equal-to-that](tatulyā) [in-smallest](kanyase) [structure](dhāmni) [spire](śikharaṃ) [twofold](dviguṇaṃ) [in-three](triṣu)
 
 ## mukta-m0-p109-v2720
-[with-half-double](sārdhadviguṇa) [less-by-quarter](pādonā) [triple](triguṇā) [spire](mañjarī) [threefold](tridhā)
+[with-half+twofold](sārdhadviguṇa) [less-by-quarter](pādonā) [threefold](triguṇā) [spire](mañjarī) [threefold](tridhā)
 
 ## mukta-m0-p109-v2721
-[of-them](teṣāṃ) [two-corners](koṇadvayaṃ) [by-arrows](bāṇaiḥ) [by-one-each](ekaikena) [water-drip](jalacyutiḥ)
+[of-them](teṣāṃ) [corner+pair](koṇadvayaṃ) [by-arrows](bāṇaiḥ) [by-one+one](ekaikena) [water+fall](jalacyutiḥ)
 
 ## mukta-m0-p109-v2722
-[middle-ratha](madhyarathaḥ) [indeed](hi) [by-one-part](bhāgena) [to-be-made](kāryaḥ) [consisting-of-twenty-parts](viṃśatibhāgikaḥ)
+[middle+rathaka](madhyarathaḥ) [indeed](hi) [by-part](bhāgena) [to-be-made](kāryaḥ) [twenty-parted](viṃśatibhāgikaḥ)
 
 ## mukta-m0-p109-v2723
-[other](anyā) [by-direction+planet-parts](diggrahabhāgaiḥ) [should-be](syāt) [storey](bhūmikā) [as-before](pūrvavat) [best](varā)
+[other](anyā) [by-direction+planet+parts](diggrahabhāgaiḥ) [should-be](syāt) [storey](bhūmikā) [as-before](pūrvavat) [best](varā)
 
 ## mukta-m0-p109-v2724
-[square+octagonal+circular](caturaṣṭāsravṛttāḥ) [and](ca) [their-varieties](tadbhedāḥ) [and](ca) [other](apare) [three](trayaḥ)
+[square+octagonal+circular](caturaṣṭāsravṛttāḥ) [and](ca) [their+varieties](tadbhedāḥ) [and](ca) [other](apare) [three](trayaḥ)
 
 ## mukta-m0-p109-v2725
-[himāṃśuka](himāṃśukaḥ)
+[Himāṃśuka](himāṃśukaḥ)

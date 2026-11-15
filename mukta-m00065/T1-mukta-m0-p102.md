@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p102-v2526
-[tables](pañjikāḥ)
+[tables](pañjikāḥ) [end-bracket](])
 
 ## mukta-m0-p102-v2527
 [vāstu-deities](vāstudevatā)
 
 ## mukta-m0-p102-v2528
-[head+mouth+heart+breast+navel](mūrdhā+āsya+hṛt+stana+unābhiḥ) [great-vital-points](mahāmarmāṇi) [five](pañca) [and](ca)
+[head](mūrdhā) [mouth](āsya) [heart](hṛt) [breast](stana) [navel](u) [nābhiḥ](nābhiḥ) [great-vital-points](mahāmarmāṇi) [five](pañca) [and](ca)
 
 ## mukta-m0-p102-v2529
-[spine+sub-spine-lines](vaṃśa+upavaṃśa+rekhāḥ) [should-be](syuḥ) [trident-six](śūla+ṣaṭkam) [then](atha) [thunderbolt](aśaniḥ)
+[main-lines](vaṃśa) [secondary-lines](upavaṃśa) [lines](rekhāḥ) [should-be](syuḥ) [six-spikes](śūlaṣaṭkam) [then](atha) [thunderbolt](aśaniḥ)
 
 ## mukta-m0-p102-v2530
-[īśa+agni+pitṛs](īśa+agni+pitaro) [vāyu](vāyuḥ) [always](sadā) [in-tridents](śūleṣu) [situated](avasthitāḥ)
+[Īśa](īśa) [Agni](agni) [Pitṛs](pitaro) [Vāyu](vāyuḥ) [always](sadā) [in-spikes](śūleṣu) [situated](avasthitāḥ)
 
 ## mukta-m0-p102-v2531
 [pierced](biddhe) [vital-point](marmaṇi) [death](mṛtyuḥ) [should-be](syāt) [of-sons](putrāṇām) [in-minor-vital-point](upamarmaṇi)
 
 ## mukta-m0-p102-v2532
-[in-sub-spine](upavaṃśe) [should-be](bhavet) [pain](pīḍā) [embryo-destruction](garbha+nāśaḥ) [in-tri-trident](triśūlake)
+[in-secondary-line](upavaṃśe) [should-be](bhavet) [suffering](pīḍā) [embryo-destruction](garbhanāśaḥ) [in-triple-spike](triśūlake)
 
 ## mukta-m0-p102-v2533
-[in-tail](lāṅgūle) [and](ca) [head-disease](śiraḥ+rogaṃ) [in-deity-piercings](deva+vedheṣu) [affliction](pīḍanam)
+[in-tail](lāṅgūle) [and](ca) [head-disease](śirorogaṃ) [in-deity-piercing](devavedheṣu) [affliction](pīḍanam)
 
 ## mukta-m0-p102-v2534
-[from-foot](padāt) [by-sixteenth-part](ṣoḍaśa+bhāgena) [head-measure](śiraḥ+mānam) [here](iha) [stated](uditam)
+[from-foot](padāt) [by-sixteenth-part](ṣoḍaśabhāgena) [head-measure](śiromānam) [here](iha) [stated](uditam)
 
 ## mukta-m0-p102-v2535
-[gross-measure](sthūla+mānam) [this](idam) [declared](proktam) [subtle-measure](sūkṣma+mānam) [here](iha) [is-stated](ucyate)
+[gross-measure](sthūlamānam) [this](idaṃ) [declared](proktaṃ) [subtle-measure](sūkṣmamānam) [here](iha) [is-stated](ucyate)
 
 ## mukta-m0-p102-v2536
-[from-soma](somataḥ) [from-east](pūrvataḥ) [or](vāpi) [consisting-of-thread-movement](sūtra+sañcālanātkamāt)
+[from-Soma-side](somataḥ) [from-east](pūrvato) [or](vāpi) [thread-moving](sūtrasañcālanātkamāt)
 
 ## mukta-m0-p102-v2537
-[knowingly](jñānataḥ) [unknowingly](ajñānataḥ) [or](vāpi) [vital-point-piercing](marma+vedhaḥ) [when](yadā) [should-be](bhavet)
+[knowingly](jñānato) [unknowingly](ajñānato) [or](vāpi) [vital-point-piercing](marmavedho) [when](yadā) [should-be](bhavet)
 
 ## mukta-m0-p102-v2538
-[thus](iti) [stated](uktā) [vāstu-worship](vāstu+pūjā) [here](atra) [of-house-and-temple](gṛha+prāsādayoḥ) [always](sadā)
+[thus](iti) [stated](uktā) [vāstu-worship](vāstupūjā) [here](atra) [of-house](gṛha) [and-temples](prāsādayoḥ) [always](sadā)
 
 ## mukta-m0-p102-v2539
-[of-tvaṣṭṛ](tvaṣṭuḥ) [son](sutaḥ) [named-jayanta](jayanta+ākhyaḥ) [mahendra](mahendraḥ) [lord-of-gods](deva+nāyakaḥ)
+[of-Tvaṣṭṛ](tvaṣṭuḥ) [son](suto) [named-Jayanta](jayantākhyo) [Mahendra](mahendro) [lord-of-gods](devanāyakaḥ)
 
 ## mukta-m0-p102-v2540
-[and-agni](tvagni) [vaiśvānara](vaiśvānaro) [considered](mataḥ)
+[skin](tvagni) [end-bracket](]) [Vaiśvānara](rvaiśvānaro) [considered](mataḥ)
 
 ## mukta-m0-p102-v2541
-[in-moving-and-unmoving](ścarācare)
+[in-moving-and-unmoving](ścarācare) [end-bracket](])
 
 ## mukta-m0-p102-v2542
-[should-be](syāt) [lord-of-rākṣasas](rākṣasa+adhipaḥ)
+[should-be](syāt) [lord-of-demons](rākṣasādhipaḥ)
 
 ## mukta-m0-p102-v2543
-[puṣpadanta](puṣpadantaḥ) [chief-of-gaṇas](gaṇa+śreṣṭhaḥ) [varuṇa](varuṇaḥ) [and](ca) [lord-of-waters](jala+adhipaḥ)
+[Puṣpadanta](puṣpadanto) [chief-of-gaṇas](gaṇaśreṣṭho) [Varuṇa](varuṇaḥ) [and](ca) [lord-of-waters](jalādhipaḥ)
 
 ## mukta-m0-p102-v2544
-[pāpa](pāpaḥ) [manda](mandaḥ) [thus](iti) [known](khyātaḥ) [vega](vegaḥ) [vāpu](vāpuḥ) [and](ca) [called](kīrtitaḥ)
+[Pāpa](pāpo) [Manda](manda) [thus](iti) [known](khyāto) [Vega](vego) [Vāpu](vāpuḥ) [and](ca) [called](kīrtitaḥ)
 
 ## mukta-m0-p102-v2545
-[bhallāṭa](bhallāṭaḥ) [king-of-yakṣas](yakṣa+rājā) [he](asau) [soma](somaḥ) [moon](candraḥ) [of-immortal-nature](amṛta+ātmakaḥ)
+[Bhallāṭa](bhallāṭo) [king-of-yakṣas](yakṣarājā) [he](asau) [Soma](somaḥ) [moon](candraḥ) [of-immortal-nature](amṛtātmakaḥ)
 
 ## mukta-m0-p102-v2546
-[mother-of-daityas](daitya+mātā) [diti](ditiḥ) [and](ca) [stated](uktā) [āpa](āpaḥ) [and](ca) [indeed](eva) [himācala](himācalaḥ)
+[mother-of-daityas](daityamātā) [Diti](ditiḥ) [and](ca) [stated](uktā) [Āpas](āpaḥ) [and](ca) [indeed](eva) [Himācala](himācalaḥ)
 
 ## mukta-m0-p102-v2547
-[savitṛ](savitā) [and](ca) [another](aparaḥ) [indeed](hi) [sun](arkaḥ) [sāvitrī](sāvitrī) [wife-of-brahmā](brahma+patnikā)
+[Savitṛ](savitā) [and](ca) [another](aparo) [indeed](hi) [sun](arkaḥ) [Sāvitrī](sāvitrī) [wife-of-Brahmā](brahmapatnikā)
 
 ## mukta-m0-p102-v2548
-[indrajit](indrajit) [son-of-rākṣasa](rākṣasaḥ) [son](putraḥ) [mitra](mitraḥ) [third-sun](bhānuḥ) [third](tṛtīyakaḥ)
+[Indrajit](indrajit) [son-of-demon](rakṣasaḥ) [mū-reading](mū:) [Indradāsa](indradāsaḥ) [son](putro) [Mitra](mitro) [third-sun](bhānuḥ) [third](tṛtīyakaḥ)
 
 ## mukta-m0-p102-v2549
-[mountain-holder](dharā+dharaḥ) [indeed](hi) [ananta](anantaḥ) [should-be](syāt) [brahmā](brahmā) [four-faced](catur+mukhaḥ) [considered](mataḥ)
+[earth-bearer](dharādharo) [indeed](hi) [Ananta](anantaḥ) [should-be](syāt) [Brahmā](brahmā) [four-faced](caturmukho) [considered](mataḥ)
 
 ## mukta-m0-p102-v2550
-[rākṣasas](rākṣasā)
+[demons](rākṣasā)
