@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[milk](kṣīra) [sugar+etc.](khaṇḍa+ādya) [with-foods](bhojyaiḥ) [and](ca) [with-respect+preceded](bahumāna+puraḥsaram)
+[milk](kṣīra)+[sugar](khaṇḍa)+[and-other](ādyaiḥ) [with-foods](bhojyaiḥ)+[and](ca) [with-respect](bahumāna)+[preceded-by](puraḥsaram) [together](saha)
 
 ## mukta-m0-p11-v252
-[together](saha) [thus](evaṃ) [accomplished](siddha) [mantra+minister](manuḥ+mantrī) [should-accomplish](sādhayet) [all+desired-things](sakala+īpsitān)
+[thus](evam) [accomplished](siddha)+[mantra](manuḥ)+[practitioner](mantrī) [should-accomplish](sādhayet)+[all](sakala)+[desired-objects](īpsitān) [with](saha)
 
 ## mukta-m0-p11-v253
-[from-touch](sparśāt) [up-to-liberation](vimukti+paryantaṃ) [should-repeat+mantra](japet+mantram) [with-undivided+mind](ananya+dhīḥ)
+[from-touch](sparśāt)+[up-to-liberation](vimukti)+[extending-to](paryantam) [should-repeat](japet)+[mantra](mantram)+[with-undivided](ananya)+[mind](dhīḥ) [without-doubt](sandehaḥ)
 
 ## mukta-m0-p11-v254
-[doubt](sandehaḥ) [of-recitation](japasya) [fruit+sharer](phala+bhāk) [would-become](bhavet)
+[of-repetition](japasya) [fruit](phala)+[sharer](bhāk)+[one-becomes](bhavet) [with-concentration](samāhitaḥ) [thus](evam)
 
 ## mukta-m0-p11-v255
-[composed](samāhitaḥ)
+[concentrated](samāhitaḥ) [of-mantra](mantrasya) [arises](jāyate) [accomplishment](siddhiḥ)+[supreme](uttamā)
 
 ## mukta-m0-p11-v256
-[of-mantra](mantrasya) [is-born](jāyate) [accomplishment](siddhiḥ) [supreme](uttamā)
+[all](sarva)+[fitting](samañjasam) [then](tataḥ) [or](athavā) [of-that](tat)+[tenth-part](daśāṃśena)
 
 ## mukta-m0-p11-v257
-[all+fitting](sarva+samañjasam)
+[oblation](homa)+[and-others](ādīn)+[and](ca) [one-should-perform](samācaret) [becomes](syāt)+[deity](devatā) [and](ca)
 
 ## mukta-m0-p11-v258
-[then](tataḥ) [or](athavā) [by-its+tenth-part](tat+daśāṃśena) [oblations+etc.](homa+ādīn) [and](ca) [one-should-perform](samācaret)
+[is-pleased](prasīdati) [he](saḥ) [goes](yāti) [O-supreme-goddess](parameśāni) [hell](naraka)+[twenty-one](ekaviṃśatim)
 
 ## mukta-m0-p11-v259
-[becomes](syāt) [deity](devatā) [and](ca) [is-pleased](prasīdati)
+[by-mere](kevala)+[repetition](japa)+[only](mātra)+[preliminary-rite](puraścaraṇe) [done](kṛte) [not](na)+[eligibility](adhikāraḥ) [thus](iti)
 
 ## mukta-m0-p11-v260
-[he](saḥ) [goes](yāti) [O-supreme-goddess](parameśāni) [hells+twenty-one](naraka+anekaviṃśatim)
+[by-all](sarva)+[agreed](sammatam) [and](ca)+[should-perform](ācaret) [is-praised](praśasyate) [in-eclipse](grahaṇe)
 
 ## mukta-m0-p11-v261
-[mere+recitation+only+preliminary-rite](kevala+japa+mātra+puraścaraṇe) [done](kṛte) [not+qualification](na+adhikāraḥ) [thus](iti) [by-all+agreed](sarva+sammatam)
+[and](ca) [at-great](mahā)+[sacred-place](tīrthe) [not](na) [time](kālam)+[should-determine](avadhārayet) [with-five](pañca)+[offerings](upacāraiḥ)
 
 ## mukta-m0-p11-v262
-[and](ca) [one-should-perform](ācaret)
+[one-should-worship](pūjayet) [in-this](evam)+[manner](krameṇa) [others](anyān)+[also](api) [one-should-worship](pūjayet) [on-altar](vedikā)+[in-middle](madhye)
 
 ## mukta-m0-p11-v263
-[is-praised](praśasyate) [at-eclipse](grahaṇe) [and](ca) [at-great+holy-place](mahā+tīrthe) [not](na) [time](kālam) [one-should-determine](avadhārayet)
+[with-five](pañca)+[offerings](upacāraiḥ)+[Gaṇeśa](gaṇeśam) [one-should-worship](pūjayet) [bathing](snāna)+[and-other](ādikam) [having-done](kṛtvā)
 
 ## mukta-m0-p11-v264
-[with-five+offerings](pañca+upacāraiḥ) [one-should-worship](pūjayet) [in-this+manner](evaṃ+krameṇa) [others](anyān) [also](api) [one-should-worship](pūjayet)
+[benediction](svasti)+[recitation](vācana)+[preceded-by](pūrvakam) [resolve](saṅkalpam) [one-should-make](kuryāt) [until](madhyandinam) [up-to](yāvat)+[repetition](japam)
 
 ## mukta-m0-p11-v265
-[in-altar+middle](vedikā+madhye) [with-five+offerings](pañca+upacāraiḥ) [Gaṇeśa](gaṇeśaṃ) [one-should-worship](pūjayet)
+[one-should-do](kuryāt) [then](tataḥ) [oblation](homaḥ)+[then](tataḥ)+[libation](tarpaṇam) [in-bathing](snāna)+[section](prakaraṇe)
 
 ## mukta-m0-p11-v266
-[bathing+etc.](snāna+ādikaṃ) [having-done](kṛtvā) [with-benediction+preceded](svastivācana+pūrvakaṃ) [resolve](saṅkalpaṃ) [one-should-make](kuryāt)
+[to-be-stated](vaktavyam) [sprinkling](abhiṣiñcat)+[own](sva)+[head](mūrddhānam) [with-waters](toyaiḥ) [with-pot](kumbha)+[named](ākhya)+[gesture](mudrayā)
 
 ## mukta-m0-p11-v267
-[until-midday](madhyandinaṃ) [up-to](yāvat) [recitation](japaṃ) [one-should-do](kuryāt) [then](tataḥ) [oblation](homaḥ) [then](tataḥ) [libation](tarpaṇam)
+[then](tataḥ)+[unbroken](acchidra)+[retention](avadhāraṇam) [one-should-do](kuryāt) [preliminary-rite](puraścaraṇa)+[procedure](prayogaḥ)
 
 ## mukta-m0-p11-v268
-[in-bathing+section](snāna+prakaraṇe) [to-be-said](vaktavyam)
+[accomplishment](siddhi)+[giving](dāyakam) [in-Śaiva-tradition](śaive) [ashes](bhasma) [declared](samākhyātam)
 
 ## mukta-m0-p11-v269
-[sprinkling](abhiṣiñcat) [own+head](sva+mūrddhānaṃ) [with-waters](toyaiḥ) [with-pot+named+gesture](kumbha+ākhya+mudrayā)
+[in-mātṛkā](mātṛkā)+[diagram](yantra)+[drawing](lekhane) [vaṃ](vaṃ) [in-directions](vidikṣu) [ṭhaṃ](ṭhaṃ) [one-should-write](likhet)
 
 ## mukta-m0-p11-v270
-[then](tataḥ) [unbroken+retention](acchidra+avadhāraṇaṃ) [one-should-do](kuryāt)
+[mātṛkā](mātṛkā)+[diagram](yantram) [thus](evam) [accomplished](siddham) [mantra](mantram) [one-should-practice](sādhayet)
 
 ## mukta-m0-p11-v271
-[preliminary-rite+procedure](puraścaraṇa+prayogaḥ)
+[with-devotion](bhaktyā) [with-concentration](samāhitaḥ) [daily](nityam) [repetition](japam) [one-should-perform](caret)
 
 ## mukta-m0-p11-v272
-[accomplishment+giving](siddhi+dāyakam)
+[by-that](tena) [supreme](paramā) [accomplishment](siddhiḥ) [is-obtained](labhyate) [without-doubt](asaṃśayam)
 
 ## mukta-m0-p11-v273
-[in-Śaiva](śaive) [ashes](bhasma) [declared](samākhyātaṃ) [in-mātṛkā+diagram+drawing](mātṛkā+yantra+lekhane)
+[for-all](sarva)+[purposes](kāryeṣu) [this](ayam) [mantra](mantraḥ) [is-effective](siddhidaḥ) [always](sadā)
 
 ## mukta-m0-p11-v274
-[vaṃ](vaṃ) [in-directions](vidikṣu) [ṭhaṃ](ṭhaṃ) [one-should-write](likhet)
+[thus](iti) [declared](uktam) [in-scripture](śāstre) [by-the-wise](budhaiḥ) [with-certainty](niścitam)
 
 ## mukta-m0-p11-v275
-[mātṛkā+diagram](mātṛkā+yantram)
+[here](atra) [ends](samāptam) [preliminary-rite](puraścaraṇa)+[chapter](prakaraṇam) [auspiciousness](śubham) [be](astu)

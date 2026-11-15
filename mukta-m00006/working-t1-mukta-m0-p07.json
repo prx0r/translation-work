@@ -7,12 +7,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "adhikāraḥ",
-"quick_gloss": "qualification"
+"surface": "adhikāro",
+"quick_gloss": "authority"
 },
 {
 "surface": "gurutvena",
-"quick_gloss": "by+authority"
+"quick_gloss": "by+teacherhood"
 },
 {
 "surface": "brāhmaṇasya",
@@ -40,8 +40,8 @@
 "quick_gloss": "then+best+teacher"
 },
 {
-"surface": "śrīmān+agra+janmā",
-"quick_gloss": "glorious+first-born"
+"surface": "śrī+mān+agra+janmā",
+"quick_gloss": "fortunate+first+born"
 },
 {
 "surface": "su+peśalaḥ",
@@ -52,12 +52,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śruteḥ",
-"quick_gloss": "from+scripture"
-},
-{
-"surface": "brāhmaṇasya+eva",
-"quick_gloss": "of+brahmin+only"
+"surface": "śruteḥ+brāhmaṇasya+eva",
+"quick_gloss": "from+scripture+of+brahmin+only"
 }
 ]
 },
@@ -69,12 +65,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
+"surface": "yo",
 "quick_gloss": "who"
 },
 {
 "surface": "vetti+eva",
-"quick_gloss": "knows+indeed"
+"quick_gloss": "knows+only"
 },
 {
 "surface": "niyuktaḥ",
@@ -94,7 +90,7 @@
 },
 {
 "surface": "guruḥ",
-"quick_gloss": "is+teacher"
+"quick_gloss": "teacher"
 }
 ]
 },
@@ -106,15 +102,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+atattva+vida",
-"quick_gloss": "not+knower+of+truth"
+"surface": "na+atattva+vid",
+"quick_gloss": "not+non-truth+knower"
 },
 {
-"surface": "anabhyasta+karma+mārgaḥ+api",
-"quick_gloss": "not+practiced+action+path+also"
+"surface": "anabhyasta+karma+mārga+api",
+"quick_gloss": "not+practiced+action+path+even"
 },
 {
-"surface": "na",
+"surface": "no",
 "quick_gloss": "not"
 },
 {
@@ -135,20 +131,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaiva+mānam",
-"quick_gloss": "śaiva+view"
+"surface": "śaiva+māna",
+"quick_gloss": "śaiva+authority"
 },
 {
 "surface": "avindadbhiḥ",
-"quick_gloss": "not+finding+by"
+"quick_gloss": "not+finding"
 },
 {
 "surface": "paśu+māna",
-"quick_gloss": "animal+view"
+"quick_gloss": "animal+authority"
 },
 {
 "surface": "anuvāsitaiḥ",
-"quick_gloss": "dwelling+by"
+"quick_gloss": "by+those+persuaded"
 }
 ]
 },
@@ -160,8 +156,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ana+ekāntika+tva+āt",
-"quick_gloss": "non+definiteness+from"
+"surface": "anaikāntikatvāt",
+"quick_gloss": "not+exclusiveness"
 }
 ]
 },
@@ -174,7 +170,7 @@
 "tokens": [
 {
 "surface": "sva+prakāśam",
-"quick_gloss": "own+luminous"
+"quick_gloss": "self+luminous"
 },
 {
 "surface": "asau",
@@ -203,7 +199,7 @@
 "tokens": [
 {
 "surface": "vakṣyamāṇa+vat",
-"quick_gloss": "as+said+before"
+"quick_gloss": "as+will+be+said"
 },
 {
 "surface": "sva+prakāśasya+īśvarasya",
@@ -211,7 +207,7 @@
 },
 {
 "surface": "buddhi+upārohaḥ",
-"quick_gloss": "to+buddhi+ascent"
+"quick_gloss": "to+intellect+ascent"
 },
 {
 "surface": "siddhyet",
@@ -251,8 +247,8 @@
 "quick_gloss": "this"
 },
 {
-"surface": "atra+sthena",
-"quick_gloss": "here+being+by"
+"surface": "atra+sthenā",
+"quick_gloss": "by+one+standing+here"
 },
 {
 "surface": "anubhūyate",
@@ -268,20 +264,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "upalabhya+upalabdhṛt+idam",
-"quick_gloss": "by+perceiving+perceiver+this"
+"surface": "upalabhya",
+"quick_gloss": "by+perceiving"
 },
 {
-"surface": "tad+abhāvāt",
-"quick_gloss": "that+non-existence+from"
+"surface": "upalabdhṛt",
+"quick_gloss": "perceiver"
+},
+{
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "abhāvāt",
+"quick_gloss": "from+non+existence"
 },
 {
 "surface": "idam",
 "quick_gloss": "this"
 },
 {
-"surface": "tu+asat",
-"quick_gloss": "but+non-existent"
+"surface": "tu",
+"quick_gloss": "but"
+},
+{
+"surface": "asat",
+"quick_gloss": "non+existent"
 }
 ]
 },
@@ -306,19 +314,19 @@
 },
 {
 "surface": "draṣṭavyā",
-"quick_gloss": "should+be+seen"
+"quick_gloss": "is+to+be+seen"
 },
 {
 "surface": "buddhi+adhyavasitatvāt",
-"quick_gloss": "by+buddhi+determination+from"
+"quick_gloss": "by+intellect+determined"
 },
 {
 "surface": "puruṣaḥ+api",
-"quick_gloss": "puruṣa+also"
+"quick_gloss": "person+also"
 },
 {
 "surface": "ca+ityate",
-"quick_gloss": "is+called"
+"quick_gloss": "thus+is+called"
 },
 {
 "surface": "iti",
@@ -343,15 +351,15 @@
 },
 {
 "surface": "buddhiḥ",
-"quick_gloss": "buddhi"
+"quick_gloss": "intellect"
 },
 {
 "surface": "syāt",
-"quick_gloss": "would+be"
+"quick_gloss": "may+be"
 },
 {
-"surface": "virodhaḥ+ca+api",
-"quick_gloss": "contradiction+also"
+"surface": "virodhaḥ+api",
+"quick_gloss": "opposition+also"
 },
 {
 "surface": "darśane",
@@ -367,8 +375,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva+rūpe+avasthānam",
-"quick_gloss": "in+own+form+abiding"
+"surface": "sva+rūpe",
+"quick_gloss": "in+own+form"
+},
+{
+"surface": "avasthānam",
+"quick_gloss": "abiding"
 },
 {
 "surface": "iti",
@@ -397,11 +409,11 @@
 },
 {
 "surface": "pāśatvāt",
-"quick_gloss": "from+being+pāśa"
+"quick_gloss": "from+bondage"
 },
 {
 "surface": "nigaḍa+ādi+vat",
-"quick_gloss": "like+fetters+etc"
+"quick_gloss": "like+fetter+etc"
 }
 ]
 },
@@ -413,8 +425,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "khaḍge+abhīśumataḥ",
-"quick_gloss": "in+sword+of+rider"
+"surface": "khaḍge",
+"quick_gloss": "in+sword"
+},
+{
+"surface": "abhīśumataḥ",
+"quick_gloss": "of+one+having+reins"
 },
 {
 "surface": "yadvat",
@@ -422,11 +438,15 @@
 },
 {
 "surface": "tad+aṃśasya",
-"quick_gloss": "that+part+of"
+"quick_gloss": "of+that+part"
 },
 {
-"surface": "tu+asau",
-"quick_gloss": "but+that"
+"surface": "tu",
+"quick_gloss": "but"
+},
+{
+"surface": "asau",
+"quick_gloss": "that"
 },
 {
 "surface": "bhramaḥ",
@@ -455,7 +475,7 @@
 },
 {
 "surface": "prakāśāya",
-"quick_gloss": "for+illumination"
+"quick_gloss": "of+light"
 },
 {
 "surface": "abhivāñchitāḥ",
@@ -471,11 +491,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+abhibhāvyābhiḥ+ulkābhiḥ",
-"quick_gloss": "not+to+be+overpowered+by+torches"
+"surface": "na+abhibhāvya",
+"quick_gloss": "not+to+be+overpowered"
 },
 {
-"surface": "dinakṛt+ca",
+"surface": "ulkābhiḥ",
+"quick_gloss": "by+torches"
+},
+{
+"surface": "dina+kṛt+ca",
 "quick_gloss": "and+sun+also"
 },
 {
@@ -492,8 +516,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śiva+śakti+kale+śuddhe",
-"quick_gloss": "in+śiva+śakti+kalā+pure"
+"surface": "śiva+śakti+kale",
+"quick_gloss": "in+śiva+śakti+kalā"
+},
+{
+"surface": "śuddhe",
+"quick_gloss": "pure"
 },
 {
 "surface": "śivaḥ",
@@ -562,12 +590,16 @@
 "quick_gloss": "to+be+known"
 },
 {
-"surface": "tasmāt+īśaḥ",
-"quick_gloss": "therefore+lord"
+"surface": "tasmāt",
+"quick_gloss": "therefore"
+},
+{
+"surface": "īśaḥ",
+"quick_gloss": "lord"
 },
 {
 "surface": "aṇu+bandhanaiḥ",
-"quick_gloss": "by+atom+bonds"
+"quick_gloss": "by+atom+bondages"
 }
 ]
 },
@@ -596,7 +628,7 @@
 "quick_gloss": "śiva"
 },
 {
-"surface": "śakti+ādibhiḥ",
+"surface": "śakti+ādi+bhiḥ",
 "quick_gloss": "with+śakti+etc"
 },
 {
@@ -613,7 +645,7 @@
 },
 {
 "surface": "gata+āvṛtiḥ",
-"quick_gloss": "gone+covering"
+"quick_gloss": "gone+obstruction"
 }
 ]
 },
@@ -626,11 +658,15 @@
 "tokens": [
 {
 "surface": "na",
-"quick_gloss": "no"
+"quick_gloss": "not"
 },
 {
-"surface": "draṣṭṛ+draṣṭavyayoḥ+dvayoḥ+api",
-"quick_gloss": "of+seer+and+seen+of+both+also"
+"surface": "draṣṭṛ+draṣṭavya+yoḥ",
+"quick_gloss": "seer+seen"
+},
+{
+"surface": "dvayoḥ+api",
+"quick_gloss": "of+both+also"
 },
 {
 "surface": "vyāpakatvena",
@@ -642,7 +678,7 @@
 },
 {
 "surface": "darśana+asaṃbhavāt",
-"quick_gloss": "of+seeing+impossibility+from"
+"quick_gloss": "seeing+impossibility"
 }
 ]
 },
@@ -655,7 +691,7 @@
 "tokens": [
 {
 "surface": "sakala+aṇoḥ",
-"quick_gloss": "of+sakala+atom"
+"quick_gloss": "of+entire+atom"
 },
 {
 "surface": "śiva+jñānam",
@@ -666,8 +702,12 @@
 "quick_gloss": "is+seen"
 },
 {
-"surface": "tat+katham",
-"quick_gloss": "that+how"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "katham",
+"quick_gloss": "how"
 },
 {
 "surface": "bhavet",
@@ -688,11 +728,11 @@
 },
 {
 "surface": "ākāśa+vāyu+hetutvena",
-"quick_gloss": "ākāśa+wind+causality+by"
+"quick_gloss": "of+ether+wind+cause"
 },
 {
 "surface": "pāśatvāt",
-"quick_gloss": "by+being+pāśa"
+"quick_gloss": "from+bondage"
 },
 {
 "surface": "katham",
@@ -704,7 +744,7 @@
 },
 {
 "surface": "tat+pratipattiḥ",
-"quick_gloss": "that+knowledge"
+"quick_gloss": "that+apprehension"
 }
 ]
 }

@@ -11,8 +11,12 @@
 "quick_gloss": "milk"
 },
 {
-"surface": "khaṇḍa+ādya",
-"quick_gloss": "sugar+etc."
+"surface": "khaṇḍa",
+"quick_gloss": "sugar"
+},
+{
+"surface": "ādyaiḥ",
+"quick_gloss": "and-other"
 },
 {
 "surface": "bhojyaiḥ",
@@ -23,8 +27,16 @@
 "quick_gloss": "and"
 },
 {
-"surface": "bahumāna+puraḥsaram",
-"quick_gloss": "with-respect+preceded"
+"surface": "bahumāna",
+"quick_gloss": "with-respect"
+},
+{
+"surface": "puraḥsaram",
+"quick_gloss": "preceded-by"
+},
+{
+"surface": "saha",
+"quick_gloss": "together"
 }
 ]
 },
@@ -36,11 +48,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saha",
-"quick_gloss": "together"
-},
-{
-"surface": "evaṃ",
+"surface": "evam",
 "quick_gloss": "thus"
 },
 {
@@ -48,16 +56,28 @@
 "quick_gloss": "accomplished"
 },
 {
-"surface": "manuḥ+mantrī",
-"quick_gloss": "mantra+minister"
+"surface": "manuḥ",
+"quick_gloss": "mantra"
+},
+{
+"surface": "mantrī",
+"quick_gloss": "practitioner"
 },
 {
 "surface": "sādhayet",
 "quick_gloss": "should-accomplish"
 },
 {
-"surface": "sakala+īpsitān",
-"quick_gloss": "all+desired-things"
+"surface": "sakala",
+"quick_gloss": "all"
+},
+{
+"surface": "īpsitān",
+"quick_gloss": "desired-objects"
+},
+{
+"surface": "saha",
+"quick_gloss": "with"
 }
 ]
 },
@@ -73,16 +93,32 @@
 "quick_gloss": "from-touch"
 },
 {
-"surface": "vimukti+paryantaṃ",
+"surface": "vimukti",
 "quick_gloss": "up-to-liberation"
 },
 {
-"surface": "japet+mantram",
-"quick_gloss": "should-repeat+mantra"
+"surface": "paryantam",
+"quick_gloss": "extending-to"
 },
 {
-"surface": "ananya+dhīḥ",
-"quick_gloss": "with-undivided+mind"
+"surface": "japet",
+"quick_gloss": "should-repeat"
+},
+{
+"surface": "mantram",
+"quick_gloss": "mantra"
+},
+{
+"surface": "ananya",
+"quick_gloss": "with-undivided"
+},
+{
+"surface": "dhīḥ",
+"quick_gloss": "mind"
+},
+{
+"surface": "sandehaḥ",
+"quick_gloss": "without-doubt"
 }
 ]
 },
@@ -94,20 +130,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sandehaḥ",
-"quick_gloss": "doubt"
-},
-{
 "surface": "japasya",
-"quick_gloss": "of-recitation"
+"quick_gloss": "of-repetition"
 },
 {
-"surface": "phala+bhāk",
-"quick_gloss": "fruit+sharer"
+"surface": "phala",
+"quick_gloss": "fruit"
+},
+{
+"surface": "bhāk",
+"quick_gloss": "sharer"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-become"
+"quick_gloss": "one-becomes"
+},
+{
+"surface": "samāhitaḥ",
+"quick_gloss": "with-concentration"
+},
+{
+"surface": "evam",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -120,24 +164,15 @@
 "tokens": [
 {
 "surface": "samāhitaḥ",
-"quick_gloss": "composed"
-}
-]
+"quick_gloss": "concentrated"
 },
-{
-"verse_id": "mukta-m0-p11-v256",
-"song": "mukta-m0-p11",
-"verse": 256,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
 {
 "surface": "mantrasya",
 "quick_gloss": "of-mantra"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "is-born"
+"quick_gloss": "arises"
 },
 {
 "surface": "siddhiḥ",
@@ -150,25 +185,20 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p11-v257",
+"verse_id": "mukta-m0-p11-v256",
 "song": "mukta-m0-p11",
-"verse": 257,
+"verse": 256,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+samañjasam",
-"quick_gloss": "all+fitting"
-}
-]
+"surface": "sarva",
+"quick_gloss": "all"
 },
 {
-"verse_id": "mukta-m0-p11-v258",
-"song": "mukta-m0-p11",
-"verse": 258,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
+"surface": "samañjasam",
+"quick_gloss": "fitting"
+},
 {
 "surface": "tataḥ",
 "quick_gloss": "then"
@@ -178,12 +208,29 @@
 "quick_gloss": "or"
 },
 {
-"surface": "tat+daśāṃśena",
-"quick_gloss": "by-its+tenth-part"
+"surface": "tat",
+"quick_gloss": "of-that"
 },
 {
-"surface": "homa+ādīn",
-"quick_gloss": "oblations+etc."
+"surface": "daśāṃśena",
+"quick_gloss": "tenth-part"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v257",
+"song": "mukta-m0-p11",
+"verse": 257,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "homa",
+"quick_gloss": "oblation"
+},
+{
+"surface": "ādīn",
+"quick_gloss": "and-others"
 },
 {
 "surface": "ca",
@@ -192,16 +239,7 @@
 {
 "surface": "samācaret",
 "quick_gloss": "one-should-perform"
-}
-]
 },
-{
-"verse_id": "mukta-m0-p11-v259",
-"song": "mukta-m0-p11",
-"verse": 259,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
 {
 "surface": "syāt",
 "quick_gloss": "becomes"
@@ -213,20 +251,20 @@
 {
 "surface": "ca",
 "quick_gloss": "and"
-},
-{
-"surface": "prasīdati",
-"quick_gloss": "is-pleased"
 }
 ]
 },
 {
-"verse_id": "mukta-m0-p11-v260",
+"verse_id": "mukta-m0-p11-v258",
 "song": "mukta-m0-p11",
-"verse": 260,
+"verse": 258,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
+{
+"surface": "prasīdati",
+"quick_gloss": "is-pleased"
+},
 {
 "surface": "saḥ",
 "quick_gloss": "he"
@@ -240,8 +278,86 @@
 "quick_gloss": "O-supreme-goddess"
 },
 {
-"surface": "naraka+anekaviṃśatim",
-"quick_gloss": "hells+twenty-one"
+"surface": "naraka",
+"quick_gloss": "hell"
+},
+{
+"surface": "ekaviṃśatim",
+"quick_gloss": "twenty-one"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v259",
+"song": "mukta-m0-p11",
+"verse": 259,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "kevala",
+"quick_gloss": "by-mere"
+},
+{
+"surface": "japa",
+"quick_gloss": "repetition"
+},
+{
+"surface": "mātra",
+"quick_gloss": "only"
+},
+{
+"surface": "puraścaraṇe",
+"quick_gloss": "preliminary-rite"
+},
+{
+"surface": "kṛte",
+"quick_gloss": "done"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "adhikāraḥ",
+"quick_gloss": "eligibility"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v260",
+"song": "mukta-m0-p11",
+"verse": 260,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "sarva",
+"quick_gloss": "by-all"
+},
+{
+"surface": "sammatam",
+"quick_gloss": "agreed"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "ācaret",
+"quick_gloss": "should-perform"
+},
+{
+"surface": "praśasyate",
+"quick_gloss": "is-praised"
+},
+{
+"surface": "grahaṇe",
+"quick_gloss": "in-eclipse"
 }
 ]
 },
@@ -253,66 +369,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kevala+japa+mātra+puraścaraṇe",
-"quick_gloss": "mere+recitation+only+preliminary-rite"
-},
-{
-"surface": "kṛte",
-"quick_gloss": "done"
-},
-{
-"surface": "na+adhikāraḥ",
-"quick_gloss": "not+qualification"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "sarva+sammatam",
-"quick_gloss": "by-all+agreed"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p11-v262",
-"song": "mukta-m0-p11",
-"verse": 262,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "ācaret",
-"quick_gloss": "one-should-perform"
-}
-]
+"surface": "mahā",
+"quick_gloss": "at-great"
 },
 {
-"verse_id": "mukta-m0-p11-v263",
-"song": "mukta-m0-p11",
-"verse": 263,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "praśasyate",
-"quick_gloss": "is-praised"
-},
-{
-"surface": "grahaṇe",
-"quick_gloss": "at-eclipse"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "mahā+tīrthe",
-"quick_gloss": "at-great+holy-place"
+"surface": "tīrthe",
+"quick_gloss": "sacred-place"
 },
 {
 "surface": "na",
@@ -324,28 +390,36 @@
 },
 {
 "surface": "avadhārayet",
-"quick_gloss": "one-should-determine"
+"quick_gloss": "should-determine"
+},
+{
+"surface": "pañca",
+"quick_gloss": "with-five"
+},
+{
+"surface": "upacāraiḥ",
+"quick_gloss": "offerings"
 }
 ]
 },
 {
-"verse_id": "mukta-m0-p11-v264",
+"verse_id": "mukta-m0-p11-v262",
 "song": "mukta-m0-p11",
-"verse": 264,
+"verse": 262,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "pañca+upacāraiḥ",
-"quick_gloss": "with-five+offerings"
-},
 {
 "surface": "pūjayet",
 "quick_gloss": "one-should-worship"
 },
 {
-"surface": "evaṃ+krameṇa",
-"quick_gloss": "in-this+manner"
+"surface": "evam",
+"quick_gloss": "in-this"
+},
+{
+"surface": "krameṇa",
+"quick_gloss": "manner"
 },
 {
 "surface": "anyān",
@@ -358,6 +432,92 @@
 {
 "surface": "pūjayet",
 "quick_gloss": "one-should-worship"
+},
+{
+"surface": "vedikā",
+"quick_gloss": "on-altar"
+},
+{
+"surface": "madhye",
+"quick_gloss": "in-middle"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v263",
+"song": "mukta-m0-p11",
+"verse": 263,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "pañca",
+"quick_gloss": "with-five"
+},
+{
+"surface": "upacāraiḥ",
+"quick_gloss": "offerings"
+},
+{
+"surface": "gaṇeśam",
+"quick_gloss": "Gaṇeśa"
+},
+{
+"surface": "pūjayet",
+"quick_gloss": "one-should-worship"
+},
+{
+"surface": "snāna",
+"quick_gloss": "bathing"
+},
+{
+"surface": "ādikam",
+"quick_gloss": "and-other"
+},
+{
+"surface": "kṛtvā",
+"quick_gloss": "having-done"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v264",
+"song": "mukta-m0-p11",
+"verse": 264,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "svasti",
+"quick_gloss": "benediction"
+},
+{
+"surface": "vācana",
+"quick_gloss": "recitation"
+},
+{
+"surface": "pūrvakam",
+"quick_gloss": "preceded-by"
+},
+{
+"surface": "saṅkalpam",
+"quick_gloss": "resolve"
+},
+{
+"surface": "kuryāt",
+"quick_gloss": "one-should-make"
+},
+{
+"surface": "madhyandinam",
+"quick_gloss": "until"
+},
+{
+"surface": "yāvat",
+"quick_gloss": "up-to"
+},
+{
+"surface": "japam",
+"quick_gloss": "repetition"
 }
 ]
 },
@@ -368,72 +528,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "vedikā+madhye",
-"quick_gloss": "in-altar+middle"
-},
-{
-"surface": "pañca+upacāraiḥ",
-"quick_gloss": "with-five+offerings"
-},
-{
-"surface": "gaṇeśaṃ",
-"quick_gloss": "Gaṇeśa"
-},
-{
-"surface": "pūjayet",
-"quick_gloss": "one-should-worship"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p11-v266",
-"song": "mukta-m0-p11",
-"verse": 266,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "snāna+ādikaṃ",
-"quick_gloss": "bathing+etc."
-},
-{
-"surface": "kṛtvā",
-"quick_gloss": "having-done"
-},
-{
-"surface": "svastivācana+pūrvakaṃ",
-"quick_gloss": "with-benediction+preceded"
-},
-{
-"surface": "saṅkalpaṃ",
-"quick_gloss": "resolve"
-},
-{
-"surface": "kuryāt",
-"quick_gloss": "one-should-make"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p11-v267",
-"song": "mukta-m0-p11",
-"verse": 267,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "madhyandinaṃ",
-"quick_gloss": "until-midday"
-},
-{
-"surface": "yāvat",
-"quick_gloss": "up-to"
-},
-{
-"surface": "japaṃ",
-"quick_gloss": "recitation"
-},
 {
 "surface": "kuryāt",
 "quick_gloss": "one-should-do"
@@ -453,6 +547,88 @@
 {
 "surface": "tarpaṇam",
 "quick_gloss": "libation"
+},
+{
+"surface": "snāna",
+"quick_gloss": "in-bathing"
+},
+{
+"surface": "prakaraṇe",
+"quick_gloss": "section"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v266",
+"song": "mukta-m0-p11",
+"verse": 266,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "vaktavyam",
+"quick_gloss": "to-be-stated"
+},
+{
+"surface": "abhiṣiñcat",
+"quick_gloss": "sprinkling"
+},
+{
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "mūrddhānam",
+"quick_gloss": "head"
+},
+{
+"surface": "toyaiḥ",
+"quick_gloss": "with-waters"
+},
+{
+"surface": "kumbha",
+"quick_gloss": "with-pot"
+},
+{
+"surface": "ākhya",
+"quick_gloss": "named"
+},
+{
+"surface": "mudrayā",
+"quick_gloss": "gesture"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v267",
+"song": "mukta-m0-p11",
+"verse": 267,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "tataḥ",
+"quick_gloss": "then"
+},
+{
+"surface": "acchidra",
+"quick_gloss": "unbroken"
+},
+{
+"surface": "avadhāraṇam",
+"quick_gloss": "retention"
+},
+{
+"surface": "kuryāt",
+"quick_gloss": "one-should-do"
+},
+{
+"surface": "puraścaraṇa",
+"quick_gloss": "preliminary-rite"
+},
+{
+"surface": "prayogaḥ",
+"quick_gloss": "procedure"
 }
 ]
 },
@@ -464,12 +640,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "snāna+prakaraṇe",
-"quick_gloss": "in-bathing+section"
+"surface": "siddhi",
+"quick_gloss": "accomplishment"
 },
 {
-"surface": "vaktavyam",
-"quick_gloss": "to-be-said"
+"surface": "dāyakam",
+"quick_gloss": "giving"
+},
+{
+"surface": "śaive",
+"quick_gloss": "in-Śaiva-tradition"
+},
+{
+"surface": "bhasma",
+"quick_gloss": "ashes"
+},
+{
+"surface": "samākhyātam",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -481,102 +669,17 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "abhiṣiñcat",
-"quick_gloss": "sprinkling"
+"surface": "mātṛkā",
+"quick_gloss": "in-mātṛkā"
 },
 {
-"surface": "sva+mūrddhānaṃ",
-"quick_gloss": "own+head"
+"surface": "yantra",
+"quick_gloss": "diagram"
 },
 {
-"surface": "toyaiḥ",
-"quick_gloss": "with-waters"
+"surface": "lekhane",
+"quick_gloss": "drawing"
 },
-{
-"surface": "kumbha+ākhya+mudrayā",
-"quick_gloss": "with-pot+named+gesture"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p11-v270",
-"song": "mukta-m0-p11",
-"verse": 270,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "tataḥ",
-"quick_gloss": "then"
-},
-{
-"surface": "acchidra+avadhāraṇaṃ",
-"quick_gloss": "unbroken+retention"
-},
-{
-"surface": "kuryāt",
-"quick_gloss": "one-should-do"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p11-v271",
-"song": "mukta-m0-p11",
-"verse": 271,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "puraścaraṇa+prayogaḥ",
-"quick_gloss": "preliminary-rite+procedure"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p11-v272",
-"song": "mukta-m0-p11",
-"verse": 272,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "siddhi+dāyakam",
-"quick_gloss": "accomplishment+giving"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p11-v273",
-"song": "mukta-m0-p11",
-"verse": 273,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "śaive",
-"quick_gloss": "in-Śaiva"
-},
-{
-"surface": "bhasma",
-"quick_gloss": "ashes"
-},
-{
-"surface": "samākhyātaṃ",
-"quick_gloss": "declared"
-},
-{
-"surface": "mātṛkā+yantra+lekhane",
-"quick_gloss": "in-mātṛkā+diagram+drawing"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p11-v274",
-"song": "mukta-m0-p11",
-"verse": 274,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
 {
 "surface": "vaṃ",
 "quick_gloss": "vaṃ"
@@ -596,6 +699,159 @@
 ]
 },
 {
+"verse_id": "mukta-m0-p11-v270",
+"song": "mukta-m0-p11",
+"verse": 270,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "mātṛkā",
+"quick_gloss": "mātṛkā"
+},
+{
+"surface": "yantram",
+"quick_gloss": "diagram"
+},
+{
+"surface": "evam",
+"quick_gloss": "thus"
+},
+{
+"surface": "siddham",
+"quick_gloss": "accomplished"
+},
+{
+"surface": "mantram",
+"quick_gloss": "mantra"
+},
+{
+"surface": "sādhayet",
+"quick_gloss": "one-should-practice"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v271",
+"song": "mukta-m0-p11",
+"verse": 271,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "bhaktyā",
+"quick_gloss": "with-devotion"
+},
+{
+"surface": "samāhitaḥ",
+"quick_gloss": "with-concentration"
+},
+{
+"surface": "nityam",
+"quick_gloss": "daily"
+},
+{
+"surface": "japam",
+"quick_gloss": "repetition"
+},
+{
+"surface": "caret",
+"quick_gloss": "one-should-perform"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v272",
+"song": "mukta-m0-p11",
+"verse": 272,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "tena",
+"quick_gloss": "by-that"
+},
+{
+"surface": "paramā",
+"quick_gloss": "supreme"
+},
+{
+"surface": "siddhiḥ",
+"quick_gloss": "accomplishment"
+},
+{
+"surface": "labhyate",
+"quick_gloss": "is-obtained"
+},
+{
+"surface": "asaṃśayam",
+"quick_gloss": "without-doubt"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v273",
+"song": "mukta-m0-p11",
+"verse": 273,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "sarva",
+"quick_gloss": "for-all"
+},
+{
+"surface": "kāryeṣu",
+"quick_gloss": "purposes"
+},
+{
+"surface": "ayam",
+"quick_gloss": "this"
+},
+{
+"surface": "mantraḥ",
+"quick_gloss": "mantra"
+},
+{
+"surface": "siddhidaḥ",
+"quick_gloss": "is-effective"
+},
+{
+"surface": "sadā",
+"quick_gloss": "always"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p11-v274",
+"song": "mukta-m0-p11",
+"verse": 274,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "uktam",
+"quick_gloss": "declared"
+},
+{
+"surface": "śāstre",
+"quick_gloss": "in-scripture"
+},
+{
+"surface": "budhaiḥ",
+"quick_gloss": "by-the-wise"
+},
+{
+"surface": "niścitam",
+"quick_gloss": "with-certainty"
+}
+]
+},
+{
 "verse_id": "mukta-m0-p11-v275",
 "song": "mukta-m0-p11",
 "verse": 275,
@@ -603,8 +859,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātṛkā+yantram",
-"quick_gloss": "mātṛkā+diagram"
+"surface": "atra",
+"quick_gloss": "here"
+},
+{
+"surface": "samāptam",
+"quick_gloss": "ends"
+},
+{
+"surface": "puraścaraṇa",
+"quick_gloss": "preliminary-rite"
+},
+{
+"surface": "prakaraṇam",
+"quick_gloss": "chapter"
+},
+{
+"surface": "śubham",
+"quick_gloss": "auspiciousness"
+},
+{
+"surface": "astu",
+"quick_gloss": "be"
 }
 ]
 }

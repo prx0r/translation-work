@@ -12,7 +12,7 @@
 },
 {
 "surface": "bhoktṛtayā",
-"quick_gloss": "by-enjoyership"
+"quick_gloss": "by-experiencer-ness"
 },
 {
 "surface": "bhogaiḥ",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "śarīra+indriya+gocaraiḥ",
-"quick_gloss": "body+sense+objects"
+"quick_gloss": "body+sense+object-range"
 }
 ]
 },
@@ -37,11 +37,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "only"
 },
 {
 "surface": "tat+saṃbhavāt",
-"quick_gloss": "because-of-the-arising-of-that"
+"quick_gloss": "of-that+arising"
 }
 ]
 },
@@ -65,7 +65,7 @@
 "quick_gloss": "cause"
 },
 {
-"surface": "śuddha+aśuddhayoḥ",
+"surface": "śuddhayoḥ+aśuddhayoḥ",
 "quick_gloss": "of-pure+and-impure"
 },
 {
@@ -112,15 +112,11 @@
 "tokens": [
 {
 "surface": "saṃbhavāt",
-"quick_gloss": "and-because-of-arising"
+"quick_gloss": "and-from-arising"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "adhikāra+mala+kṣayaḥ",
-"quick_gloss": "of-authority+impurity+destruction"
+"surface": "ca+adhikāra+mala+kṣayaḥ",
+"quick_gloss": "and-of-authority+impurity+destruction"
 },
 {
 "surface": "tat+viveke",
@@ -128,7 +124,7 @@
 },
 {
 "surface": "bhavati",
-"quick_gloss": "occurs"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -141,7 +137,7 @@
 "tokens": [
 {
 "surface": "uttīrṇa+māyam",
-"quick_gloss": "who-has-crossed-māyā"
+"quick_gloss": "crossed-beyond-māyā"
 },
 {
 "surface": "ātmānaṃ",
@@ -162,7 +158,7 @@
 "tokens": [
 {
 "surface": "śarīra+ādīni",
-"quick_gloss": "body+and-so-forth"
+"quick_gloss": "body+etc."
 },
 {
 "surface": "utpādayati",
@@ -223,7 +219,7 @@
 "quick_gloss": "by-parts"
 },
 {
-"surface": "prāk+uktaṃ",
+"surface": "prāg+uktaṃ",
 "quick_gloss": "previously-stated"
 },
 {
@@ -257,7 +253,7 @@
 },
 {
 "surface": "māyā+eka+deśena",
-"quick_gloss": "by-a-part-of-māyā"
+"quick_gloss": "by-one-part-of-māyā"
 },
 {
 "surface": "vikaroti",
@@ -269,7 +265,7 @@
 },
 {
 "surface": "akhilam",
-"quick_gloss": "the-whole"
+"quick_gloss": "entire"
 }
 ]
 },
@@ -282,7 +278,7 @@
 "tokens": [
 {
 "surface": "pragamaḥ",
-"quick_gloss": "progression"
+"quick_gloss": "manifestation"
 },
 {
 "surface": "saṃbhavati",
@@ -348,7 +344,7 @@
 },
 {
 "surface": "upasaṃhṛta+vyāpāratvāt",
-"quick_gloss": "because-of-withdrawn+activity"
+"quick_gloss": "due-to-withdrawn+activity"
 },
 {
 "surface": "layaḥ",
@@ -369,11 +365,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "khalu",
-"quick_gloss": "verily"
+"quick_gloss": "indeed"
 },
 {
 "surface": "cit+śaktiḥ",
@@ -397,12 +393,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "abhisaṃbandhāt",
-"quick_gloss": "by-connection"
+"surface": "tayā",
+"quick_gloss": "by-that"
 },
 {
 "surface": "etayā",
-"quick_gloss": "with-this"
+"quick_gloss": "by-this"
+},
+{
+"surface": "abhisaṃbandhāt",
+"quick_gloss": "by-connection"
 },
 {
 "surface": "ekaḥ",
@@ -460,12 +460,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyāpti+paṭīyasī",
-"quick_gloss": "skilled-in-pervading"
-},
-{
-"surface": "śānta+udita+prapañca+ādi+bindu",
-"quick_gloss": "quiescent+arisen+manifestation+etc.+bindu"
+"surface": "śānta+udita+prapañca+ādi+bindu+vyāpti+paṭīyasī",
+"quick_gloss": "quiescent+arisen+manifestation+etc.+bindu+pervasion+capable"
 }
 ]
 },
@@ -478,7 +474,7 @@
 "tokens": [
 {
 "surface": "ādi+madhya+anta+rahitā",
-"quick_gloss": "devoid-of-beginning+middle+end"
+"quick_gloss": "beginning+middle+end+devoid"
 },
 {
 "surface": "rahitā",
@@ -527,16 +523,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "abhisambandha+viśeṣāt",
-"quick_gloss": "by-special-connection"
+"surface": "tayā",
+"quick_gloss": "by-that"
 },
 {
 "surface": "etayā",
-"quick_gloss": "with-this"
+"quick_gloss": "by-this"
+},
+{
+"surface": "abhisambandha+viśeṣāt",
+"quick_gloss": "by-connection+particularity"
 },
 {
 "surface": "nitya+rūpayā",
-"quick_gloss": "of-eternal+nature"
+"quick_gloss": "by-eternal+natured"
 }
 ]
 },
@@ -615,11 +615,11 @@
 "tokens": [
 {
 "surface": "eka+aneka+vibhāgā",
-"quick_gloss": "as-if-one+and-many+division"
+"quick_gloss": "one+many+division"
 },
 {
 "surface": "iva",
-"quick_gloss": "indeed"
+"quick_gloss": "as-if"
 },
 {
 "surface": "kārya+bhedāt",
@@ -640,11 +640,11 @@
 "tokens": [
 {
 "surface": "icchā+kāryam",
-"quick_gloss": "desire+effect"
+"quick_gloss": "will+effect"
 },
 {
-"surface": "an+icchā",
-"quick_gloss": "though-not-desiring"
+"surface": "anicchā",
+"quick_gloss": "though-not-willing"
 },
 {
 "surface": "api",
@@ -656,7 +656,7 @@
 },
 {
 "surface": "icchā",
-"quick_gloss": "desire"
+"quick_gloss": "will"
 },
 {
 "surface": "cit",
