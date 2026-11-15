@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[transformation](parivartanam) [which](yat)
+[transformation](parivartanaṃ) [which](yat) [that](tat) [indeed](hi)
 
 ## mukta-m0-p93-v2302
-[by-own-vision](sva+dṛṣṭyā)
+[by-own](sva) [+vision](dṛṣṭyā) [by-that](tayā) [indeed](eva)
 
 ## mukta-m0-p93-v2303
-[situated](sthitā) [you-are](asi)
+[situated](sthitā) [you-are](asi) [there](tatra) [always](sadā)
 
 ## mukta-m0-p93-v2304
-[again](punaḥ) [they-fall](patanti)
+[again](punaḥ) [they-fall](patanti) [down](adhaḥ) [indeed](eva)
 
 ## mukta-m0-p93-v2305
-[indeed](khalu) [entire-world-etc.-origins](aśeṣa+bhuvana+ādi+bhuvaḥ) [spread-forth](prathante)
+[indeed](khalu) [+entire](aśeṣa) [+world](bhuvana) [+and-other](ādi) [+origins](bhuvaḥ) [spread-forth](prathante)
 
 ## mukta-m0-p93-v2306
-[space](kham) [pervading](aśnuvānā)
+[sky](kham) [pervading](aśnuvānā) [all](sarvam) [always](sadā)
 
 ## mukta-m0-p93-v2307
-[womb-bearing](garbha+bhājaḥ)
+[womb](garbha) [+bearing](bhājaḥ) [those](te) [beings](janāḥ)
 
 ## mukta-m0-p93-v2308
-[O-Gauri](gauri) [form](mūrttim)
+[O-Gauri](gauri) [form](mūrttim) [divine](divyām) [supreme](parām)
 
 ## mukta-m0-p93-v2309
-[O-lady-of-the-worlds](bhuvaneśvari) [yogins](yoginaḥ) [you](tvām)
+[O-lady-of-the-worlds](bhuvaneśvari) [yogins](yoginaḥ) [you](tvām) [worship](bhajanti)
 
 ## mukta-m0-p93-v2310
-[O-Bhavani](bhavāni) [O-Durga](durgā)
+[O-Bhavani](bhavāni) [O-Durga](durgā) [goddess](devi) [supreme](parā)
 
 ## mukta-m0-p93-v2311
-[tribal-maiden](pulinda+taruṇīm) [repeatedly](asakṛt) [I-remember](smarāmi)
+[mountain-tribe](pulinda) [+maiden](taruṇīm) [repeatedly](asakṛt) [I-remember](smarāmi)
 
 ## mukta-m0-p93-v2312
-[I-place](vidadhe) [your-two-feet](tava+aṃghrī)
+[I-place](vidadhe) [your](tava) [+feet](aṃghrī) [on-head](śirasi)
 
 ## mukta-m0-p93-v2313
-[to-you](tava) [bowed-down](ānataḥ) [I-am](asmi)
+[to-you](tava) [bowed-down](ānataḥ) [I-am](asmi) [always](sadā)
 
 ## mukta-m0-p93-v2314
-[may-transgress](vilaṅghayetām)
+[may-transgress](vilaṅghayet) [this](ām) [command](ājñām) [never](na)
 
 ## mukta-m0-p93-v2315
-[ever](kadāpi) [not](na) [I](aham)
+[ever](kadāpi) [not](na) [I](aham) [indeed](eva)
 
 ## mukta-m0-p93-v2316
-[thus](eva) [born](jātaḥ)
+[thus](evam) [born](jātaḥ) [I-am](asmi) [here](atra)
 
 ## mukta-m0-p93-v2317
-[ancient-bond](purāṇa+pāśaḥ)
+[ancient](purāṇa) [+bond](pāśaḥ) [this](ayam) [indeed](hi)
 
 ## mukta-m0-p93-v2318
-[at-feet-bowed-kings-crown-fortune-marks](pāda+namra+kṣitipa+mukuṭa+lakṣmī+lakṣaṇānām) [for-long](cirāya)
+[at-feet](pāda) [+bowed](namra) [+king](kṣitipa) [+crown](mukuṭa) [+fortune](lakṣmī) [+marks](lakṣaṇānāṃ) [for-long](cirāya)
 
 ## mukta-m0-p93-v2319
 [heard](śrutāḥ) [and](ca) [learned](adhigatāḥ) [all](sarvāḥ) [to-hear](śrotum) [I-wish](icchāmi) [now](sāṃpratam)
 
 ## mukta-m0-p93-v2320
-[three-worlds](trailokya) [auspicious](maṅgalam) [named](nāma) [armor](kavacam) [mantra-embodied](mantra+vigraham)
+[three-world](trailokya) [+auspicious](maṅgalaṃ) [named](nāma) [armor](kavacaṃ) [mantra](mantra) [+embodied](vigraham)
 
 ## mukta-m0-p93-v2321
-[by-recitation](paṭhanāt) [by-wearing](dhāraṇāt) [mortal](martyaḥ) [three-worlds-sovereignty-partaker](trailokya+aiśvarya+bhāk) [may-become](bhavet)
+[by-recitation](paṭhanāt) [and](ca) [by-wearing](dhāraṇāt) [mortal](martyaḥ) [three-world](trailokya) [+sovereignty](aiśvarya) [+sharer](bhāk) [may-become](bhavet)
 
 ## mukta-m0-p93-v2322
-[in-dharma-wealth-desire-liberation](dharma+artha+kāma+mokṣeṣu) [application](viniyogaḥ) [is-declared](prakīrttitaḥ)
+[in-dharma](dharma) [+wealth](artha) [+desire](kāma) [+liberation](mokṣeṣu) [application](viniyogaḥ) [is-declared](prakīrttitaḥ)
 
 ## mukta-m0-p93-v2323
-[aiṃ](aiṃ) [may-protect](pātu) [right-eye](dakṣa+netram) [my](me) [hrīṃ](hrīṃ) [may-protect](pātu) [left-eye](vāma+locanam)
+[aiṃ](aiṃ) [may-protect](pātu) [right](dakṣa) [+eye](netraṃ) [my](me) [hrīṃ](hrīṃ) [may-protect](pātu) [left](vāma) [+eye](locanam)
 
 ## mukta-m0-p93-v2324
-[left-ear](vāma+karṇam) [always](sadā) [may-protect](pātu) [aiṃ](aiṃ) [nose](ghrāṇam) [may-protect](pātu) [my](me) [always](sarvadā)
+[left](vāma) [+ear](karṇaṃ) [always](sadā) [may-protect](pātu) [aiṃ](aiṃ) [nose](ghrāṇaṃ) [may-protect](pātu) [my](me) [always](sarvadā)
 
 ## mukta-m0-p93-v2325
-[speech-enclosure](vāk+puṭā) [and](ca) [three-syllable-natured](tri+varṇa+ātmā) [throat](kaṇṭham) [may-protect](pātu) [supreme-natured](para+ātmikā)
+[speech](vāk) [+enclosure](puṭā) [and](ca) [three](tri) [+syllable](varṇa) [+natured](ātmā) [throat](kaṇṭhaṃ) [may-protect](pātu) [supreme](para) [+souled](ātmikā)

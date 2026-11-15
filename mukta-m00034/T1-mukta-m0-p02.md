@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[conceptual-construction+continuity](vikalpasāmanantaryāt) [without-conceptual-construction](nirvikalpaḥ) [proceeds](pravartate)
+[discursive-thought](vikalpa) [continuity](sāmanantaryāt) [non-discursive](nirvikalpaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p02-v27
-[excessive-measure+etc.](atimātrādibhedena) [therefore](tataḥ) [this](ayam) [arisen](uditaḥ) [sequence](kramaḥ)
+[excessive-measure](atimātra) [etc.](ādi) [by-difference](bhedena) [therefore](tatas) [this](ayam) [arisen](uditaḥ) [sequence](kramaḥ)
 
 ## mukta-m0-p02-v28
-[energy-descent+sequence](śaktipātakramo) [which](yaḥ) [this](ayaṃ) [great-intense+etc.](mahātīvratamādikaḥ)
+[descent-of-power](śaktipāta) [sequence](kramaḥ) [which](yaḥ) [this](ayaṃ) [very-intense](mahātīvra) [tama](tama) [etc.](ādikaḥ)
 
 ## mukta-m0-p02-v29
-[great-path+sequence](mahānayakrame) [first](pūrvaṃ) [great+word](mahāśabdaḥ) [meaning+reasoning+partaking](arthayuktibhāk)
+[great-path](mahānaya) [in-sequence](krame) [first](pūrvaṃ) [great](mahā) [word](śabdaḥ) [meaning](artha) [reasoning](yukti) [partaking](bhāk)
 
 ## mukta-m0-p02-v30
-[with-secrets+expansions](sarahasyapraprañceṣu) [own-nature+abiding+causes](svarūpasthitihetuṣu)
+[with-all-secrets](sarahasya) [in-manifestations](prapañceṣu) [own-nature](svarūpa) [abiding](sthiti) [in-causes](hetuṣu)
 
 ## mukta-m0-p02-v31
-[abiding](sthiteṣu) [even](api) [and](ca) [that+mention](sollekho) [pervading](vyāpako) [indeed](hi) [great-path](mahānayaḥ)
+[abiding](sthiteṣu) [even](api) [and](ca) [that](saḥ) [designation](ullekhaḥ) [pervasive](vyāpakaḥ) [indeed](hi) [great-path](mahānayaḥ)
 
 ## mukta-m0-p02-v32
-[is](asti) [not](na) [other](anyā) [course](gatiḥ) [of-them](teṣāṃ) [conceptual-construction+devouring+daring](vikalpagrāsasāhasāt)
+[is](asti) [not](na) [other](anyā) [course](gatiḥ) [of-them](teṣāṃ) [discursive-thought](vikalpa) [devouring](grāsa) [by-boldness](sāhasāt)
 
 ## mukta-m0-p02-v33
-[convention+etc.+talk+mere](saṅketādikathāmātraṃ) [likewise](tathā) [circle+worship](cakraprapūjanam)
+[convention](saṅketa) [etc.](ādi) [talk](kathā) [mere](mātraṃ) [likewise](tathā) [circle](cakra) [worship](prapūjanam)
 
 ## mukta-m0-p02-v34
-[that](tat) [expounded](prapañcitam) [elsewhere](anyatra) [which](yat) [therefore](ataḥ) [now](sāmprataṃ) [a-little](manāk)
+[that](tat) [elaborated](prapañcitam) [elsewhere](anyatra) [which](yat) [therefore](atas) [now](sāmprataṃ) [a-little](manāk)
 
 ## mukta-m0-p02-v35
-[properly](samyak) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [by-us](asmābhiḥ) [is-unfolded](unmīlyate)
+[properly](samyak) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [by-us](asmābhiḥ) [is-unfolded](unmīlyate)
 
 ## mukta-m0-p02-v36
-[seat-sequence+own-nature](pīṭhakramasvarūpaṃ) [having-bowed](natvā) [is-spread-out](santanyate) [first](prathamam)
+[seat-sequence](pīṭhakrama) [own-nature](svarūpaṃ) [having-bowed](natvā) [is-extended](santanyate) [first](prathamam)
 
 ## mukta-m0-p02-v37
-[seat-sequence+of](pīṭhakramasya) [structure](saṃsthānaṃ) [is-told](kathyate) [heart-reaching](hṛdayaṅgamam)
+[seat-sequence](pīṭhakramasya) [structure](saṃsthānaṃ) [is-told](kathyate) [heart-reaching](hṛdayaṅgamam)
 
 ## mukta-m0-p02-v38
-[worship+etc.+sequence+form](yāgādikramarūpeṇa) [knowledge](rajjñaptiḥ) [by-guru](guruṇā) [is-taught](ucyate)
+[worship](yāga) [etc.](ādi) [sequence](krama) [in-form](rūpeṇa) [instruction](ājñaptiḥ) [by-guru](guruṇā) [is-spoken](ucyate)
 
 ## mukta-m0-p02-v39
-[therefore](ataḥ) [seat-sequence+knowledge](pīṭhakramajñaptiḥ) [by-his-mouth](tanmukhena) [alone](eva) [is-told](kathyate)
+[therefore](atas) [seat-sequence](pīṭhakrama) [instruction](ājñaptiḥ) [through-his-mouth](tanmukhena) [alone](eva) [is-told](kathyate)
 
 ## mukta-m0-p02-v40
 [by-guru](guruṇā) [of-tradition](sampradāyasya) [vessel](bhājanaṃ) [is-made](kriyate) [bound-soul](paśuḥ)
 
 ## mukta-m0-p02-v41
-[seat-sequence](pīṭhakramo) [here](atra) [from-seats](pīṭhebhyo) [Vyomeśvarī+etc.](vyomeśvaryādayaḥ) [in-sequence](kramāt)
+[seat-sequence](pīṭhakramaḥ) [here](atra) [from-seats](pīṭhebhyaḥ) [Vyomeśvarī](vyomeśvaryā) [etc.](ādayaḥ) [in-order](kramāt)
 
 ## mukta-m0-p02-v42
-[body](kāyo) [which](yaḥ) [and](ca) [by-inertness](jaḍatvena) [external](bāhyena) [object+nature](viṣayātmanā)
+[body](kāyaḥ) [which](yaḥ) [and](ca) [by-inertness](jaḍatvena) [external](bāhyena) [object](viṣaya) [in-nature](ātmanā)
 
 ## mukta-m0-p02-v43
-[infinite+experience+support](anantānubhavādhāra) [accomplished-yoginī+served](siddhayoginiṣevitaḥ)
+[infinite](ananta) [experience](anubhava) [support](ādhāra) [accomplished](siddha) [yoginī](yoginī) [served](niṣevitaḥ)
 
 ## mukta-m0-p02-v44
-[are-seen](dṛśyante) [manifestly](prakaṭaṃ) [because](yasmāt) [that](asau) [seat-sequence](pīṭhakraḥ) [therefore](tataḥ)
+[are-seen](dṛśyante) [manifestly](prakaṭaṃ) [because](yasmāt) [that](asau) [seat-sequence](pīṭhakraḥ) [therefore](tatas)
 
 ## mukta-m0-p02-v45
-[exertion+etc.+sequence](udyogādikramaḥ) [in-body](kāye) [outside](bahiḥ) [earth+etc.+in-sequence](pṛthvyādyanukramāt)
+[exertion](udyoga) [etc.](ādi) [sequence](kramaḥ) [in-body](kāye) [outside](bahiḥ) [earth](pṛthvī) [etc.](ādi) [in-order](anukramāt)
 
 ## mukta-m0-p02-v46
-[support+supported+state](āśrayāśrayibhāvaḥ) [and](ca) [also](api) [by-non-difference](avibhinnatayā) [situated](sthitaḥ)
+[support](āśraya) [supported](āśrayi) [relation](bhāvaḥ) [and](ca) [also](api) [by-non-difference](avibhinnatayā) [abiding](sthitaḥ)
 
 ## mukta-m0-p02-v47
-[seat+own-nature](pīṭhasvarūpe) [O-Vyomeśī](vyomeśi) [rest](viśrāntiḥ) [of-all-consciousnesses](sarvasaṃvidām)
+[seat](pīṭha) [in-nature](svarūpe) [O-Vyomeśī](vyomeśi) [repose](viśrāntiḥ) [of-all-consciousnesses](sarvasaṃvidām)
 
 ## mukta-m0-p02-v48
-[which](yaḥ) [up-to-action-organs](karmendriyaparyantaḥ) [consciousness+expansion](saṃvitsphārastadāśrayaḥ)
+[which](yaḥ) [up-to-organs-of-action](karmendriyaparyantaḥ) [consciousness](saṃvit) [expansion](sphāraḥ) [supported-by-that](tadāśrayaḥ)
 
 ## mukta-m0-p02-v49
-[of-this](etasya) [alone](eva) [as-support](āśrayatvena) [sky](nabhaḥ) [seat-part](pīṭhakalā) [outside](bahiḥ)
+[of-this](etasya) [alone](eva) [as-support](āśrayatvena) [sky](nabhaḥ) [seat](pīṭha) [part](kalā) [outside](bahiḥ)
 
 ## mukta-m0-p02-v50
-[time+burning+sole-ground](kāladāhaikabhūḥ) [she](sā) [this](eṣā) [cremation-ground](śmaśānaṃ) [sky-moving](khecarī) [regarded](matā)
+[time](kāla) [burning](dāha) [sole-ground](ekabhūḥ) [she](sā) [this](eṣā) [cremation-ground](śmaśānaṃ) [sky-moving](khecarī) [regarded](matā)
