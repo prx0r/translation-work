@@ -1,0 +1,263 @@
+{
+ "song": "net-p15",
+ "items": [
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "yadīcched",
+     "gloss": "if-desires",
+     "grounds": "conditional desire",
+     "morph": "3.sg.act-opt+root-icch"
+    },
+    {
+     "surface": "uttamāṃ",
+     "gloss": "highest",
+     "grounds": "superlative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "object of desire",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "alternative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāśvataṃ",
+     "gloss": "eternal",
+     "grounds": "qualifier of liberation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "firm",
+     "grounds": "qualifier of liberation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should one desire if seeking highest accomplishment or eternal firm liberation?",
+   "premises": [
+    "desire is stated conditionally",
+    "highest accomplishment is one goal",
+    "eternal firm liberation is another"
+   ],
+   "inference": "The verse presents two supreme aims as objects of desire.",
+   "uncertainties": [
+    "exact syntactic relation of vā is not explicit"
+   ],
+   "plain_english": "If one desires the highest accomplishment or eternal, firm liberation."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "anugrahārthaṃ",
+     "gloss": "for-grace",
+     "grounds": "purpose",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "martyānāṃ",
+     "gloss": "of-mortals",
+     "grounds": "beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhūpatīnāṃ",
+     "gloss": "of-kings",
+     "grounds": "beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kuṭumbinām",
+     "gloss": "of-householders",
+     "grounds": "beneficiaries",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "For whose grace are mortals, kings, and householders named?",
+   "premises": [
+    "grace is the stated purpose",
+    "mortals are named beneficiaries",
+    "kings and householders are named beneficiaries"
+   ],
+   "inference": "The verse lists recipients for whom grace is intended.",
+   "uncertainties": [
+    "whether the list is exhaustive is not stated"
+   ],
+   "plain_english": "For the grace of mortals, kings, and householders."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "yoginībhūtādyā",
+     "gloss": "yoginī-bhūta-etc",
+     "grounds": "compound listing beings",
+     "morph": "compound"
+    },
+    {
+     "surface": "nityaśuddhā",
+     "gloss": "ever-pure",
+     "grounds": "quality",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "rāgadveṣādihīnāḥ",
+     "gloss": "free-from-rāga-dveṣa-etc",
+     "grounds": "compound negation",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What qualities are attributed to yoginīs, bhūtas, and related beings?",
+   "premises": [
+    "yoginīs and bhūtas are named",
+    "ever-purity is attributed",
+    "freedom from rāga and dveṣa is attributed"
+   ],
+   "inference": "The verse characterizes these beings as ever-pure and free from attachment and aversion.",
+   "uncertainties": [
+    "the full scope of ādi is not specified"
+   ],
+   "plain_english": "Yoginīs, bhūtas, and others are ever-pure and free from rāga, dveṣa, and the rest."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "ājñaptā",
+     "gloss": "commanded",
+     "grounds": "past participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvoktadurācāracchidraṇāya",
+     "gloss": "for-piercing-prior-bad-conduct-flaws",
+     "grounds": "compound purpose",
+     "morph": "compound"
+    },
+    {
+     "surface": "niyuktāḥ",
+     "gloss": "appointed",
+     "grounds": "past participle",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Why are these beings commanded and appointed?",
+   "premises": [
+    "they are commanded",
+    "they are appointed",
+    "the purpose is piercing prior bad-conduct flaws"
+   ],
+   "inference": "The verse states that these beings are assigned to pierce flaws of prior bad conduct.",
+   "uncertainties": [
+    "who commands them is not explicit"
+   ],
+   "plain_english": "Commanded and appointed to pierce the flaws of prior bad conduct."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tacchāstroddiṣṭena",
+     "gloss": "by-scripture-indicated",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "daityonmūlanātmanā",
+     "gloss": "demon-uprooting",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "By what means is demon-uprooting accomplished according to scripture?",
+   "premises": [
+    "this is the stated means",
+    "scripture indicates it",
+    "demon-uprooting is the aim"
+   ],
+   "inference": "The verse identifies the means as scripture-indicated and demon-uprooting in nature.",
+   "uncertainties": [
+    "the exact referent of anena is not explicit"
+   ],
+   "plain_english": "By this, as indicated by scripture, for demon-uprooting."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "tattvavidaṃ",
+     "gloss": "knower-of-principle",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣa",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is the remainder called for the knower of principle?",
+   "premises": [
+    "knower-of-principle is named",
+    "remainder is named",
+    "auspicious is named"
+   ],
+   "inference": "The verse names the remainder as auspicious for the knower of principle.",
+   "uncertainties": [
+    "the exact doctrinal referent of śeṣa is not explicit"
+   ],
+   "plain_english": "For the knower of principle, the remainder is thus auspicious."
+  }
+ ]
+}

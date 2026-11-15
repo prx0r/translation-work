@@ -1,0 +1,512 @@
+{
+ "song": "sva-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "cakārāt",
+     "gloss": "from-ca",
+     "grounds": "ablative from ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kumbhakamūrdhvarecakaṃ",
+     "gloss": "kumbhaka-upward-exhalation",
+     "grounds": "compound kumbhaka+mūrdhva+recaka",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "mūlamantraḥ",
+     "gloss": "root-mantra",
+     "grounds": "compound mūla+mantra",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How do ca-marked breath operations and root-mantra principle define mantra utterance?",
+   "premises": [
+    "ca marks an added breath operation",
+    "kumbhaka and upward exhalation are named",
+    "root-mantra is the governing principle"
+   ],
+   "inference": "The verse links a specific breath operation to the root-mantra principle.",
+   "uncertainties": [
+    "exact syntactic relation of cakārāt remains compressed"
+   ],
+   "plain_english": "From ca comes kumbhaka and upward exhalation; the principle is the root mantra."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "svayam",
+     "gloss": "by-itself",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mūrdhvaṃ",
+     "gloss": "upward",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prasaret",
+     "gloss": "spreads",
+     "grounds": "verb prasṛ",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "arthāt",
+     "gloss": "meaning",
+     "grounds": "ablative artha",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What does it mean that the mantra spreads upward by itself?",
+   "premises": [
+    "svayam means by itself",
+    "mūrdhvaṃ means upward",
+    "prasaret means spreads"
+   ],
+   "inference": "The mantra's upward spreading is self-originated rather than externally forced.",
+   "uncertainties": [
+    "whether prasaret is imperative or indicative"
+   ],
+   "plain_english": "By itself, thus, the mantra spreads upward; that is the meaning."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "dhakadhakākṛtiśabdatulyākāraśrutiḥ",
+     "gloss": "dhakadhaka-form-sound-like-form-hearing",
+     "grounds": "long compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "uccarati",
+     "gloss": "utters",
+     "grounds": "verb uc-car",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does a dhakadhaka-like sound-form determine mantra utterance?",
+   "premises": [
+    "the compound names a sound-form",
+    "uccarati means utters",
+    "arthaḥ means meaning"
+   ],
+   "inference": "The verse defines utterance through a specific sound-shaped hearing.",
+   "uncertainties": [
+    "internal compound segmentation is compressed"
+   ],
+   "plain_english": "A dhakadhaka-shaped sound-like form is uttered; that is the meaning."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "tadrūpākāraḥ",
+     "gloss": "that-form-shape",
+     "grounds": "compound tat+rūpa+ākāra",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "uccarati",
+     "gloss": "utters",
+     "grounds": "verb uc-car",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does uttering that form-shape constitute mantra meaning?",
+   "premises": [
+    "tadrūpākāraḥ names that form-shape",
+    "uccarati means utters",
+    "arthaḥ means meaning"
+   ],
+   "inference": "Utterance is identified with the form-shape itself.",
+   "uncertainties": [
+    "antecedent of tat is not explicit"
+   ],
+   "plain_english": "That form-shape is uttered; that is the meaning."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "tadanukṛtiḥ",
+     "gloss": "that-imitation",
+     "grounds": "compound tat+anukṛti",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "makāraka(lpamu",
+     "gloss": "ma-kara",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "uccarati",
+     "gloss": "utters",
+     "grounds": "verb uc-car",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does imitating that form through ma-kara constitute utterance?",
+   "premises": [
+    "tadanukṛtiḥ means that imitation",
+    "makāraka(lpamu is the ma-kara element",
+    "uccarati means utters"
+   ],
+   "inference": "The verse ties utterance to imitating the prior form through ma-kara.",
+   "uncertainties": [
+    "token makāraka(lpamu is irregularly printed"
+   ],
+   "plain_english": "That imitation, ma-kara, is uttered; that is the meaning."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṛāvādiśabdāḥ",
+     "gloss": "ra-etc-sounds",
+     "grounds": "compound rāva+ādi+śabda",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "santi",
+     "gloss": "exist",
+     "grounds": "verb as",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why do ra and similar sounds also exist there?",
+   "premises": [
+    "tatra means there",
+    "api means also",
+    "ṛāvādiśabdāḥ names ra-etc sounds",
+    "santi means exist"
+   ],
+   "inference": "The verse asserts additional sounds are present in that same locus.",
+   "uncertainties": [
+    "exact locus referred to by tatra"
+   ],
+   "plain_english": "There also, ra and similar sounds indeed exist."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhedamayaḥ",
+     "gloss": "full-of-difference",
+     "grounds": "compound bheda+maya",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "saṃsāraḥ",
+     "gloss": "samsara",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does difference-filled existence constitute samsara?",
+   "premises": [
+    "evaṃ means thus",
+    "bhedamayaḥ means full of difference",
+    "saṃsāraḥ means samsara"
+   ],
+   "inference": "Samsara is characterized as pervaded by difference.",
+   "uncertainties": [
+    "whether evaṃ refers to prior sound distinctions"
+   ],
+   "plain_english": "Thus, difference-filled existence is samsara."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ācāryasya",
+     "gloss": "of-teacher",
+     "grounds": "genitive ācārya",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "bindunā",
+     "gloss": "by-bindu",
+     "grounds": "instrumental bindu",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "spaṣṭaḥ",
+     "gloss": "clear",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "pāṭhaḥ",
+     "gloss": "reading",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does the teacher's bindu reading become clear?",
+   "premises": [
+    "ācāryasya means of teacher",
+    "bindunā means by bindu",
+    "spaṣṭaḥ means clear",
+    "pāṭhaḥ means reading"
+   ],
+   "inference": "The teacher's reading is clarified through bindu.",
+   "uncertainties": [
+    "whether bindu is phonetic mark or metaphysical point"
+   ],
+   "plain_english": "Thus the teacher's reading by bindu is clear."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "ityatra",
+     "gloss": "here",
+     "grounds": "compound iti+atra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nāṃśabdasya",
+     "gloss": "of-na-aṃ-word",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "lopa",
+     "gloss": "elision",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "īśvaraḥ",
+     "gloss": "lord",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does elision of the na-aṃ word relate to the Lord here?",
+   "premises": [
+    "ityatra means here",
+    "nāṃśabdasya means of na-aṃ word",
+    "lopa means elision",
+    "īśvaraḥ means lord"
+   ],
+   "inference": "The verse connects a phonetic elision with the Lord.",
+   "uncertainties": [
+    "exact grammatical construction is compressed"
+   ],
+   "plain_english": "Here, elision of the na-aṃ word is the Lord."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "śobhanaḥ",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prayatnaḥ",
+     "gloss": "effort",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "divyakaraṇadhārādhiroharūpaḥ",
+     "gloss": "divine-instrument-stream-ascent-form",
+     "grounds": "long compound",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How does auspicious effort take divine-instrument stream-ascent form?",
+   "premises": [
+    "śobhanaḥ means auspicious",
+    "prayatnaḥ means effort",
+    "divyakaraṇadhārādhiroharūpaḥ names that form"
+   ],
+   "inference": "Auspicious effort is identified with a divine instrument stream-ascent form.",
+   "uncertainties": [
+    "compound internal order is compressed"
+   ],
+   "plain_english": "Auspicious effort is of divine-instrument stream-ascent form."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What becomes the meaning in this doctrinal context?",
+   "premises": [
+    "bhavati means becomes",
+    "iti means thus",
+    "arthaḥ means meaning"
+   ],
+   "inference": "The verse states that something becomes the meaning.",
+   "uncertainties": [
+    "subject of bhavati is omitted"
+   ],
+   "plain_english": "It becomes; that is the meaning."
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "bhedasya",
+     "gloss": "of-difference",
+     "grounds": "genitive bheda",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "aparityāgāt",
+     "gloss": "from-non-abandonment",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why does non-abandonment of difference matter doctrinally?",
+   "premises": [
+    "bhedasya means of difference",
+    "aparityāgāt means from non-abandonment",
+    "iti means thus"
+   ],
+   "inference": "The verse points to non-abandonment of difference as a stated condition.",
+   "uncertainties": [
+    "main predicate is omitted"
+   ],
+   "plain_english": "From non-abandonment of difference, thus."
+  }
+ ]
+}

@@ -1,16 +1,16 @@
 {
  "song": "mukta-m0-p09",
  "verse": 225,
- "question": "Which flowers and offering are to be worshipped for Guha in this instruction?",
+ "question": "Should the muttering japa be performed in a whispered mode?",
  "premises": [
-  "talapotaka flowers are prescribed for worship",
-  "kotapi is included in the prescription",
-  "the address is to Guha"
+  "saḥ japaḥ denotes muttering recitation",
+  "upāṃśuḥ denotes whispered recitation",
+  "smṛtaḥ marks authoritative remembrance"
  ],
- "inference": "The verse directs worship of talapotaka flowers and kotapi to Guha.",
+ "inference": "therefore muttering japa is to be whispered",
  "uncertainties": [
-  "identification of kotapi remains uncertain",
-  "the plus in the first token marks a compound rather than a separate token"
+  "modal force of syāt remains contextually inferred",
+  "whether upāṃśuḥ is adjective or noun is not fully resolved"
  ],
- "plain_english": "Worship talapotaka flowers and kotapi, O Guha."
+ "plain_english": "That muttering is remembered as whispered japa."
 }

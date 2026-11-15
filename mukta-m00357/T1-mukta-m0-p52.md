@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[offering](baliṃ) [giving](prayacchan) [harmful-beings](hiṃsrān) [with-weapon](śastreṇa) [killing](hiṃsan) [endlessness](ānantyam) [obtains](aśnuta) [thus](iti) [Surānanda](surānandaḥ)
+[offering](baliṃ) [giving](prayacchan) [violent-ones](hiṃsrān) [by-weapon](śastreṇa) [harming](hiṃsan) [endlessness](ānantyam) [obtains](aśnute) [thus](iti) [Surānanda](surānandaḥ)
 
 ## mukta-m0-p52-v1277
-[now](atha) [offering](bali) + [giving](dāna) + [procedure](vidhiṃ) [we-shall-explain](vakṣyāmaḥ)
+[then](atha) [offering-giving-rite](balidānavidhiṃ) [we-will-speak](vakṣyāmaḥ)
 
 ## mukta-m0-p52-v1278
 [from-digging-up](utkhananāt)
 
 ## mukta-m0-p52-v1279
-[law](dharma) + [guardian](pālaḥ) [cutting](cheda) + [fit](yogyaḥ) [if](cet) [this](saḥ) [indeed](eva) [otherwise](anyathā) [another](anyaḥ) [iron](lauhaḥ) [to-be-brought](āneyaḥ) [cutting](cheda) + [fit](yogyaḥ)
+[protector-of-dharma](dharmapālaḥ) [fit-for-cutting](chedayogyaḥ) [and](ca) [this](esaḥ) [eva](eva) [otherwise](anyathā) [other](anyaḥ) [iron](lauhaḥ) [to-be-brought](āneyaḥ) [fit-for-cutting](chedayogyaḥ)
 
 ## mukta-m0-p52-v1280
-[than-this](asmāt) [more](adhikaḥ) [is-desired](iṣyate) [||](||) [100](100)
+[not-more-than-this](nāsmādadhikaḥ) [is-desired](iṣyate)
 
 ## mukta-m0-p52-v1281
-[of-that](tat) + [half](ardha) + [long](āyataḥ) [like-that](tadvat) + [long](dīrghaḥ) [direction](dik) + [sword](khaḍgaḥ)
+[half-length](tadardhāyataḥ) [so-long](tadvat) [long](dīrghaḥ) [direction-sword](dikkhaḍgaḥ)
 
 ## mukta-m0-p52-v1282
-[Candrahāsa](candrahāsaḥ) [and](ca)
+[moon-smile](candrahāsaḥ) [and](ca)
 
 ## mukta-m0-p52-v1283
-[pair](dvandva) + [state](tva) + [limit](avadhiḥ) [wish](icchā) [of-sacrificer](yajamānasya) [or](vā) [of-artisan](kāroḥ)
+[pair-ness-limit](dvandvatvāvadhiḥ) [wish](icchā) [of-sacrificer](yajamānasya) [of-maker](kāroḥ) [or](vā)
 
 ## mukta-m0-p52-v1284
-[in-order](kramaśaḥ) [explained](vyākhyātāḥ) [they-become](bhavanti)
+[gradually](kramaśaḥ) [explained](vyākhyātāḥ) [become](bhavanti)
 
 ## mukta-m0-p52-v1285
-[by-name](saṃjñayā) [explained](vyākhyātaḥ) [it-becomes](bhavati) [thus](iti) [some](eke)
+[by-name](saṃjñayā) [explained](vyākhyātaḥ) [becomes](bhavati) [thus](iti) [some](eke)
 
 ## mukta-m0-p52-v1286
-[offering](bali) + [giving](dāna) + [procedure](vidhiḥ)
+[offering-giving-rite](balidānavidhiḥ)
 
 ## mukta-m0-p52-v1287
-[now](atha) [deity](devatā) + [installation](pratiṣṭhāṃ) [we-shall-explain](vakṣyāmaḥ)
+[then](atha) [deity-installation](devatāpratiṣṭhām) [we-will-speak](vakṣyāmaḥ)
 
 ## mukta-m0-p52-v1288
-[site](vāstu) + [oblation](homena) [and](ca) [they-proceed](pracaranti)
+[by-house-sacrifice](vāstuhomena) [and](ca) [they-perform](pracaranti)
 
 ## mukta-m0-p52-v1289
-[now](atha) [deity](devatā) + [grace](prasāda) + [accomplishment](siddhaye) [performance](anuṣṭhāna) + [sequence](kramaṃ) [we-shall-explain](vakṣyāmaḥ)
+[then](atha) [for-deity-grace-accomplishment](devatāprasādasiddhaye) [procedure-order](anuṣṭhānakramam) [we-will-speak](vakṣyāmaḥ)
 
 ## mukta-m0-p52-v1290
-[year](saṃvatsaram) [solstice](ayanam) [season](ṛtu) [month](māsa) [fortnight](pakṣa) [day](divā) [night](nakta) [or](vā) [one-should-perform](anutiṣṭhet)
+[year](saṃvatsaram) [solstice](ayana) [season](ṛtu) [month](māsa) [fortnight](pakṣa) [day](divā) [night](nakta) [or](vā) [he-should-perform](anutiṣṭhet)
 
 ## mukta-m0-p52-v1291
-[in-morning](prātaḥ) [right](dakṣī) [in-evening](sāyam) [left](vāmī) [or](vā) [of-both](ubhayoḥ) [either-one](anyataram) [northern](auttaraḥ)
+[morning-right](prātardakṣī) [evening-left](sāyavāmī) [or](vā) [of-both-one](ubhayoranyataram) [uttara](auttaraḥ)
 
 ## mukta-m0-p52-v1292
-[with-blood](rudhira) [or](vā) [with-ghee](ājyena) [with-unimpaired-portion](anavadānena) [with-milk](dugdhena) [with-curd](dadhnā) [or](vā) [as-stated](uktavat) [option](vikalpaḥ) [of-time](kālasya)
+[blood](rudhira) [or](vā) [with-ghee-without-cutting](ājyenānavadānena) [with-milk](dugdhena) [with-curd](dadhnā) [or](vā) [as-stated](uktavat) [alternative](vikalpa) [of-time](kālasya)
 
 ## mukta-m0-p52-v1293
-[who](yaḥ) [indeed](eva) [performs](vidadhāti) [solstice](ayanam) [he](saḥ) [deity](devatā) [sees](paśyati) [he](saḥ) [deity](devatā) [sees](paśyati)
+[who](yaḥ) [eva](eva) [performs](vidadhāti) [solstice](ayana) [he](saḥ) [deity](devatā) [sees](paśyati) [he](saḥ) [deity](devatā) [sees](paśyati)
 
 ## mukta-m0-p52-v1294
-[thus](tathā) [having-become](bhūtvā) [at-stated](ukta) + [which](yat) + [time](kāle) [with-supreme-bliss](pārānandaiḥ) [to-be-cut](chedyān) [offerings](balīn) [one-should-cut](chedayet)
+[thus](tathā) [having-become](bhūtvā) [at-stated-time](uktayatkāle) [by-Pārānanda](pārānandaiḥ) [cuttable](chedyān) [offerings](balīn) [he-should-cut](chedayet)
 
 ## mukta-m0-p52-v1295
-[season](ṛtu) [who](yaḥ) [indeed](eva) [performs](vidadhāti) [he](saḥ) [deity](devatā) [sees](paśyati) [he](saḥ) [deity](devatā) [sees](paśyati)
+[season](ṛtu) [who](yaḥ) [eva](eva) [performs](vidadhāti) [he](saḥ) [deity](devatā) [sees](paśyati) [he](saḥ) [deity](devatā) [sees](paśyati)
 
 ## mukta-m0-p52-v1296
-[one-should-give](dadyāt) [thus](iti) [Unmattabhairava](unmattabhairavaḥ)
+[he-should-give](dadyāt) [thus](iti) [Unmattabhairava](unmattabhairavaḥ)
 
 ## mukta-m0-p52-v1297
-[that](tat) [one-should-employ](viniyojayet) [thus](iti) [this](eṣaḥ) [own](sva) + [body](gātra) + [blood](asṛk) + [offering](bali) + [procedure](vidhiḥ)
+[that](tat) [he-should-employ](viniyojayet) [thus](iti) [this](eṣa) [own-limb-blood-offering-rite](svagātrāsṛgbalividhiḥ)
 
 ## mukta-m0-p52-v1298
-[of-deities](devatānām) [thus](iti) [in-fire](vahno) [one-should-offer](ninayet)
+[of-deities](devatānām) [thus](iti) [of-fire](vahnoḥ) [he-should-pour](ninayet)
 
 ## mukta-m0-p52-v1299
-[deity](devatā) [having-dismissed](visarjayitvā) [and](ca) [one-should-cease](viramet)
+[deity](devatā) [having-dismissed](visarjayitvā) [and](ca) [he-should-cease](viramet)
 
 ## mukta-m0-p52-v1300
-[deity](devatā) [having-worshipped](samabhyarcya) [with-flowers](puṣpaiḥ) [with-name](nāmnā) [with-thousand](sahasreṇa) [with-hundred](śatena) [or](vā) [with-ten](daśabhiḥ) [one-should-worship](arcayet)
+[deity](devatā) [having-worshipped](samabhyarcya) [with-flowers](puṣpaiḥ) [by-name](nāmnā) [with-thousand](sahasreṇa) [with-hundred](śatena) [with-ten](daśabhiḥ) [or](vā) [he-should-worship](arcayet)

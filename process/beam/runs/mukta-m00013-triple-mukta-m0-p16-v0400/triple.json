@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "avyaya+brahma",
+     "gloss": "imperishable-brahman",
+     "grounds": "fused compound token; avyaya qualifies brahma",
+     "morph": "compound (avyaya+brahma)"
+    },
+    {
+     "surface": "saṃyogāt",
+     "gloss": "from-union",
+     "grounds": "ablative singular of saṃyoga",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhūta+śuddhiḥ",
+     "gloss": "element-purification",
+     "grounds": "fused compound token; bhūta qualifies śuddhi",
+     "morph": "f.nom.sg compound (bhūta+śuddhi)"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun feminine nominative singular",
+     "morph": "f.nom.sg.pron"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "feminine nominative singular participle of man",
+     "morph": "f.nom.sg.participle (man)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle closing the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is this element-purification considered to arise from union with imperishable Brahman?",
+   "premises": [
+    "Element-purification is named as the result.",
+    "Its source is union with imperishable Brahman.",
+    "The statement is closed by iti."
+   ],
+   "inference": "The verse presents element-purification as arising from union with imperishable Brahman.",
+   "uncertainties": [
+    "The exact ritual referent of bhūta-śuddhi is not specified in this verse."
+   ],
+   "plain_english": "This element-purification is considered to arise from union with imperishable Brahman."
+  }
+ ]
+}

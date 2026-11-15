@@ -3,34 +3,34 @@
  "verse": 400,
  "rows": [
   {
-   "lemma": "trayodaśa",
+   "lemma": "avyaya+brahma",
+   "morph": "compound (avyaya+brahma)",
+   "grounds": "fused compound token; avyaya qualifies brahma"
+  },
+  {
+   "lemma": "saṃyogāt",
+   "morph": "m.abl.sg",
+   "grounds": "ablative singular of saṃyoga"
+  },
+  {
+   "lemma": "bhūta+śuddhiḥ",
+   "morph": "f.nom.sg compound (bhūta+śuddhi)",
+   "grounds": "fused compound token; bhūta qualifies śuddhi"
+  },
+  {
+   "lemma": "iyam",
+   "morph": "f.nom.sg.pron",
+   "grounds": "demonstrative pronoun feminine nominative singular"
+  },
+  {
+   "lemma": "matā",
+   "morph": "f.nom.sg.participle (man)",
+   "grounds": "feminine nominative singular participle of man"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "numeral adjective modifying kalāḥ"
-  },
-  {
-   "lemma": "kalāḥ",
-   "morph": "f.acc.pl",
-   "grounds": "accusative plural feminine noun, object of vinyaset"
-  },
-  {
-   "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable particle"
-  },
-  {
-   "lemma": "etāḥ",
-   "morph": "f.acc.pl",
-   "grounds": "demonstrative pronoun agreeing with kalāḥ"
-  },
-  {
-   "lemma": "vāmamantreṇa",
-   "morph": "m.instr.sg",
-   "grounds": "instrumental singular masculine compound noun indicating means"
-  },
-  {
-   "lemma": "vinyaset",
-   "morph": "3.sg.act.opt.",
-   "grounds": "optative verb expressing prescription"
+   "grounds": "quotative particle closing the statement"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[head](mastakañca) [forehead](lalāṭañca) [short](hrasvaśca) [o-fair-complexioned-one](varavarṇini) [!]
+[head](mastakañca) [forehead](lalāṭañca) [short](hrasvaśca) [beautiful-woman](varavarṇini)
 
 ## mukta-m0-p01-v2
-[4](4) [i-syllable](i-kāro) [mādhava](mādhavaḥ) [subtle](sūkṣmo) [right-eye](dakṣanetrañca) [eye](locanam)
+[four](4) [i-syllable](i-kāro) [madhava](mādhavaḥ) [subtle](sūkṣmo) [right-eye](dakṣanetrañca) [eye](locanam)
 
 ## mukta-m0-p01-v3
-[māyā](māyā) [lakṣmī](lakṣmī) [rati](ratih) [peace](śāntir) [vaiṣṇavī](vaiṣṇavī) [garlanded-with-bindu](bindumālinī)
+[illusion](māyā) [lakshmi](lakṣmī) [desire](ratih) [peace](śāntirvaiṣṇavī) [bindu-garlanded](bindumālinī)
 
 ## mukta-m0-p01-v4
-[8](8) [ū-syllable](ū-rarghīśo) [left-ear](vāmakarṇaḥ) [declared](kathito) [madhusūdana](madhusūdanaḥ)
+[eight](8) [u-syllable](ū-rarghīśo) [left-ear](vāmakarṇaḥ) [called](kathito) [madhusudana](madhusūdanaḥ)
 
 ## mukta-m0-p01-v5
-[ṛ-syllable](ṛ-kāro) [left-nostril](vāmanāsā) [and](ca) [lord-of-rising-left](vāmanodyadadhīśvaraḥ)
+[ṛ-syllable](ṛ-kāro) [left-nostril](vāmanāsā) [ca](ca) [left-rising-lord](vāmanodyadadhīśvaraḥ)
 
 ## mukta-m0-p01-v6
-[12](12) [ḷ-syllable](ḷ-kāro'pi) [hṛṣīkeśa](hṛṣīkeśo) [hara](haro'sau) [left-cheek](vāmagaṇḍakaḥ)
+[twelve](12) [ḷ-syllable](ḷ-kāro'pi) [hṛṣīkeśa](hṛṣīkeśo) [hara](haro'sau) [left-cheek](vāmagaṇḍakaḥ)
 
 ## mukta-m0-p01-v7
-[padmanābha](padmanābho) [o-great-goddess](maheśāni) [!] [declared](prokto) [lord-of-jhiṇṭī](jhiṇṭīśanāyakaḥ)
+[padmanabha](padmanābho) [maheshani](maheśāni) [proclaimed](prokto) [jhantisha-lord](jhiṇṭīśanāyakaḥ)
 
 ## mukta-m0-p01-v8
-[eight-vowels](aṣṭasvaro'pi) [to-be-known](vijñeyo) [o-daughter-of-snow-mountain](himaparvatakanyake) [!]
+[eight-voweled](aṣṭasvaro'pi) [to-be-known](vijñeyo) [snow-mountain-daughter](himaparvatakanyake)
 
 ## mukta-m0-p01-v9
-[4](4) [vāsudeva](vāsudevo) [o-great-goddess](maheśāni) [!] [teeth](dantome) [proclaimed](parikīrtitaḥ)
+[four](4) [vasudeva](vāsudevo) [maheshani](maheśāni) [tooth](dantome) [proclaimed](parikīrtitaḥ)
 
 ## mukta-m0-p01-v10
-[saṅkarṣaṇa](saṅkarṣaṇo'pi) [o-goddess-of-gods](deveśi) [!] [declared](kathito'nugraheśvaraḥ)
+[sankarshana](saṅkarṣaṇo'pi) [goddess](deveśi) [called](kathito'nugraheśvaraḥ)
 
 ## mukta-m0-p01-v11
-[8](8) [pradyumna](pradyumnaścākrūraścāpi) [akrūra](pradyumnaścākrūraścāpi) [and-also](pradyumnaścākrūraścāpi) [head](śīrṣañca) [and](śīrṣañca) [death](maraṇaṃ) [o-beloved](priye) [!]
+[eight](8) [pradyumna](pradyumnaścākrūraścāpi) [head](śīrṣañca) [death](maraṇaṃ) [beloved](priye)
 
 ## mukta-m0-p01-v12
-[aniruddha](aniruddho) [mahāsena](mahāsenaḥ) [knower-of-arts](kalājño'pi) [and-also](kalājño'pi) [ramā](ramāpi) [and](ramāpi) [also](ca)
+[aniruddha](aniruddho) [mahasena](mahāsenaḥ) [kalajna](kalājño'pi) [rama](ramāpi) [ca](ca)
 
 ## mukta-m0-p01-v13
-[12](12) [kha-syllable](khaścaṇḍo) [and](khaścaṇḍo) [caṇḍa](khaścaṇḍo) [o-goddess](devi) [!] [caṇḍeśa](caṇḍeśa) [prosperity](ṛddhiścaiva) [and-indeed](ṛddhiścaiva) [likewise](tathā) [gadī](gadī)
+[twelve](12) [kha](khaścaṇḍo) [devi](devi) [chandesh](caṇḍeśa) [prosperity](ṛddhiścaiva) [thus](tathā) [gadi](gadī)
 
 ## mukta-m0-p01-v14
-[gha-syllable](gha-kāraśca) [and](gha-kāraśca) [o-great-goddess](maheśāni) [!] [sword-bearer](khaḍgī) [and-indeed](caiva) [śivottama](śivottamaḥ)
+[gha-syllable](gha-kāraśca) [maheshani](maheśāni) [sword-bearer](khaḍgī) [caiva](caiva) [shiva-supreme](śivottamaḥ)
 
 ## mukta-m0-p01-v15
-[16](16) [ca-syllable](ca-kāraḥ) [named-kūrca](kūrcasaṃjñaḥ) [should-be](syāt) [declared](kathitaśca) [and](kathitaśca) [o-beloved](priye) [!] [halī](halī)
+[sixteen](16) [ca-syllable](ca-kāraḥ) [kurcha-named](kūrcasaṃjñaḥ) [syat](syāt) [called](kathitaśca) [beloved](priye) [hali](halī)
 
 ## mukta-m0-p01-v16
-[ja-syllable](jaḥ) [śiva](śivo'rcir) [flame](śivo'rcir) [o-great-goddess](maheśāani) [!] [trident-bearer](śūlī) [and](ca) [four-faced](caturānanaḥ)
+[ja](jaḥ) [shiva](śivo'rcirmaheśāani) [trident-bearer](śūlī) [ca](ca) [four-faced](caturānanaḥ)
 
 ## mukta-m0-p01-v17
-[20](20) [ṭa-syllable](ṭa-kāro) [o-goddess](devi) [!] [lord-of-soma](someśo) [mukunda](mukundaśca) [and](mukundaśca) [proclaimed](prakīrtitaḥ)
+[twenty](20) [ṭa-syllable](ṭa-kāro) [devi](devi) [somesh](someśo) [mukunda](mukundaśca) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p01-v18
-[ḍa-syllable](ḍa-kāraśca) [and](ḍa-kāraśca) [o-great-goddess](maheśāni) [!] [named-half-sword-shape](khaḍgārdhākārasaṃjñakaḥ)
+[ḍa-syllable](ḍa-kāraśca) [maheshani](maheśāni) [sword-half-shaped](khaḍgārdhākārasaṃjñakaḥ)
 
 ## mukta-m0-p01-v19
-[ṇa-syllable](ṇa-kāraścāpy) [and-also](ṇa-kāraścāpy) [lord-of-umā](umākānto) [to-be-known](vijñeyo) [conqueror-of-men](narajit) [o-beloved](priye) [!]
+[ṇa-syllable](ṇa-kāraścāpyumākānto) [to-be-known](vijñeyo) [narajit](narajit) [beloved](priye)
 
 ## mukta-m0-p01-v20
-[4](4) [tha-syllable](tha-kāro) [o-goddess-of-gods](devadeveśi) [!] [kuṣṭha](kuṣṭho) [staff-bearer](daṇḍī) [a](a) [proclaimed](kīrtitaḥ)
+[four](4) [tha-syllable](tha-kāro) [devadeveshi](devadeveśi) [kushta](kuṣṭho) [dandi](daṇḍī) [a](a) [proclaimed](kīrtitaḥ)
 
 ## mukta-m0-p01-v21
-[dha-syllable](dha-kāraśca) [and](dha-kāraśca) [o-great-goddess](maheśāni) [!] [fish](mīnaḥ) [with-attendants](sānuga) [indeed](eva) [and](ca)
+[dha-syllable](dha-kāraśca) [maheshani](maheśāni) [fish](mīnaḥ) [with-attendant](sānuga) [eva](eva) [ca](ca)
 
 ## mukta-m0-p01-v22
-[8](8) [pa-syllable](pa-kāro) [red](lohitaḥ) [side](pārśvaṃ) [śūra](śūraśca) [and](śūraśca) [o-supreme-goddess](parameśvari) [!]
+[eight](8) [pa-syllable](pa-kāro) [red](lohitaḥ) [side](pārśvaṃ) [hero](śūraśca) [parameshvari](parameśvari)
 
 ## mukta-m0-p01-v23
-[ba-syllable](ba-kāro) [earth-bearer](bhūdharaścaiva) [and-indeed](bhūdharaścaiva) [ten](daśa) [cheek](gaṇḍo) [o-fair-faced-one](varānane) [!]
+[ba-syllable](ba-kāro) [earth-bearer](bhūdharaścaiva) [ten](daśa) [cheek](gaṇḍo) [varanane](varānane)
 
 ## mukta-m0-p01-v24
-[12](12) [ma-syllable](ma) [āditya](ādityo) [mahākāla](mahākālo) [vaikuṇṭha](vaikuṇṭho'pi) [and-also](vaikuṇṭho'pi) [poison](viṣaṃ) [o-beloved](priye) [!]
+[twelve](12) [ma](ma) [aditya](ādityo) [mahakala](mahākālo) [vaikuntha](vaikuṇṭho'pi) [poison](viṣaṃ) [beloved](priye)
 
 ## mukta-m0-p01-v25
-[ra-syllable](ro'suḥ) [life](ro'suḥ) [lord-of-pañcakasī](pañcakasīśo'gnir) [fire](pañcakasīśo'gnir) [goad](aṅkuśaṃ) [o-supreme-teacher](paragurviṇī)
+[ro](ro'suḥ) [panchakesh](pañcakasīśo'gniraṅkuśaṃ) [paragurvini](paragurviṇī)

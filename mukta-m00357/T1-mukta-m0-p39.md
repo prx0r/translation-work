@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[with-imperishable-syllable](akṣāreṇa) [drunk](pītena) [one-becomes-vaiṣṇava](vaiṣṇavaḥ) [thus](iti) [some-say](eke)
+[by-ink](akṣāreṇa) [by-drinking](pītena) [vaiṣṇava](vaiṣṇava) [thus-some](ityeke)
 
 ## mukta-m0-p39-v952
-[of-clay](mṛttikāyā) + [marks](aṅkanāni) [or](vā) [they-should-make](kuryuḥ)
+[clay-marks](mṛttikāyāṅkanāni) [or](vā) [they-would-do](kuryuḥ)
 
 ## mukta-m0-p39-v953
-[twilight-worship](sandhyām) + [having-performed](upāsya) [own-chosen](sveṣṭāṃ) [deity](devatā) [one-should-worship](paricaret)
+[twilight](sandhyām) [having-worshipped](upāsya) [own-desired](sveṣṭāṃ) [deity](devatā) [he-would-serve](paricaret)
 
 ## mukta-m0-p39-v954
-[by-what](yat) + [marked](aṅkitaḥ) [one-becomes](bhavati) [that](tat) + [sin](pāpmānaṃ) [one-removes](nirasati)
+[when-marked](yadaṅkito) [he-becomes](bhavati) [that-sin](tatpāpmānaṃ) [he-removes](nirasati)
 
 ## mukta-m0-p39-v955
-[vāmī](vāmī) [if](cet) + [tantric](tāntrikīṃ) [twilight-worship](sandhyā) [having-performed](nirvartya) [own-chosen](sveṣṭāṃ) [one-should-worship](paricaret)
+[left-handed](vāmī) [if](cet) [tantric](tāntrikīṃ) [twilight](sandhyā) [having-performed](nirvartya) [own-desired](sveṣṭāṃ) [he-would-serve](paricaret)
 
 ## mukta-m0-p39-v956
-[by-which](yat) + [twilight-worship](sandhyām) + [one-performs](upāste) [by-that](tena) + [in-worship](arcane) [own-self](svātmānam) + [qualified](adhikṛtaṃ) [one-makes](kurute)
+[which-twilight](yatsandhyām) [he-worships](upāste) [by-that](tena) [in-worship](arcane) [own-self](svātmānam) [authorized](adhikṛtaṃ) [he-makes](kurute)
 
 ## mukta-m0-p39-v957
-[therefore](tatas) + [tantric](tāntram) + [indeed](eva) [twilight-worship](sandhyām) + [one-should-perform](upāsīta)
+[then](tataḥ) [tantric-only](tāntrameva) [twilight](sandhyām) [he-would-worship](upāsīta)
 
 ## mukta-m0-p39-v958
-[conch-vessel](śāṅkhaṃ) [metal-vessel](taijasa) [earthen-vessel](mārtikam) + [lotus-vessel](abjaṃ) [or](vā) + [having-obtained](āsādya) [one-should-consecrate](saṃkalpayet)
+[conch](śāṅkhaṃ) [fiery](taijasa) [earthen](mārtikmabjaṃ) [or](vā) [having-obtained](asādya) [he-would-resolve](saṃkalpayet)
 
 ## mukta-m0-p39-v959
-[food-offering](naivedyaṃ) [on-own-left](svavāmataḥ) [one-should-place](āsādayet) + [thus](iti) [some-say](kecit)
+[offering](naivedyaṃ) [by-own-left](svavāmata) [he-would-place](āsādayet) [thus](iti) [some](kecit)
 
 ## mukta-m0-p39-v960
-[two-vitasti](dvivitasti) + [high](ucchritaṃ) [deity](devatā) + [throne](siṃhāsanaṃ) [is](bhavati) + [thus](iti) + [some-say](eke)
+[two-spans-high](dvivitastyucchritaṃ) [deity-throne](devatāsiṃhāsanaṃ) [it-becomes](bhavati) [thus-some](ityeke)
 
 ## mukta-m0-p39-v961
-[deity](devatā) + [image](pratīkam) [one-should-place](āsādayet)
+[deity-image](devatāpratīkam) [he-would-place](āsādayet)
 
 ## mukta-m0-p39-v962
-[therefore](tasmāt) + [not](na) + [worship](arcanaṃ) [daily](naityaṃ) [smārta](smārtaṃ) [one-should-perform](vidadhyāt) + [second-view](dvitīyaḥ)
+[therefore](tasmāt) [not-worship](nārcanaṃ) [daily](naityaṃ) [smārta](smārtaṃ) [he-would-perform](vidadhyāt) [second](dvitīyaḥ)
 
 ## mukta-m0-p39-v963
-[in-front](purataḥ) [or](vā) + [behind](paścāt) [thus](tathā) + [one-should-worship](arcayīta) + [thus](iti) + [some-say](eke)
+[before](purataḥ) [after-or](paścādvā) [thus](tathā) [he-would-worship](arcayīta) [thus-some](ityeke)
 
 ## mukta-m0-p39-v964
-[he](sa) [to-south](dakṣiṇataḥ) + [of-fire](agneḥ) [pit](kuṇḍa) [or](vā) [altar](sthaṇḍilaṃ) [or](vā) [should-make](kuryāt)
+[he](sa) [to-right-of-fire](dakṣiṇato'gneḥ) [pit](kuṇḍa) [or](vā) [altar](sthaṇḍilaṃ) [or](vā) [he-would-make](kuryāt)
 
 ## mukta-m0-p39-v965
-[of-living-beings](prāṇabhṛtāṃ) [not](na) [bodies](vapūṃṣi) [therefore](tasmāt) + [in-them](teṣu) + [one-should-worship](arcayet) + [supreme-bliss](pārānandaḥ)
+[of-living-beings](prāṇabhṛtāṃ) [not](na) [bodies](vapūṃṣi) [therefore](tasmāt) [among-them](teṣu) [he-would-worship](arcayet) [pārānanda](pārānandaḥ)
 
 ## mukta-m0-p39-v966
-[all](sarvān) + [indeed](eva) + [one-should-worship](arcayet)
+[all-indeed](sarvānevā) [he-would-worship](arcayet)
 
 ## mukta-m0-p39-v967
-[offering-grass](prastaraḥ) + [then](tatas) + [therefore](tasmāt) + [in-them](teṣu) + [one-should-worship](arcayet) + [all](sarvān)
+[altar-stone](prastaraḥ) [then](tataḥ) [therefore](tasmāt) [among-them](teṣu) [he-would-worship](arcayet) [all](sarvān)
 
 ## mukta-m0-p39-v968
-[śāligrāma-stones](śāligrāmāḥ) [are-sacred](santi)
+[śāligrāmas](śāligrāmāḥ)
 
 ## mukta-m0-p39-v969
-[stones](upalāḥ) [are](santi) [śāligrāma-stones](śāligrāmāḥ)
+[stones](upalāḥ) [śāligrāmas](śāligrāmāḥ)
 
 ## mukta-m0-p39-v970
-[in-directions](dikṣu) + [in-sky-regions](ākāśapradeśeṣu) + [in-any-one](anyatame) [which](yāṃ) [deity](devatām) + [one-should-invoke](āvāhayet) + [that](tām) + [indeed](eva) [there](tatra) + [one-should-worship](arcayet)
+[in-directions](dikṣu) [sky-regions](ākāśapradeśeṣu) [any-one](anyatame) [which](yāṃ) [deity](devatām) [he-would-invoke](āvāhayet) [that-very](tāmeva) [there](tatra) [he-would-worship](arcayet)
 
 ## mukta-m0-p39-v971
-[if](yadi) [on-altar](sthaṇḍile) [one-worships](pūjayati) [of-those-two](tayoḥ) + [deity](devatā) + [feet](pādayoḥ) [possessing-firm-devotion](sthirabhaktimān) + [one-becomes](saṃpadyate)
+[if](yadi) [on-altar](sthaṇḍile) [he-worships](pūjayati) [of-those-two](tayoḥ) [deity-feet](devatāpādayoḥ) [firm-devotion](sthirabhaktimān) [he-becomes](saṃpadyate)
 
 ## mukta-m0-p39-v972
-[if](yadi) + [in-water](udake) [one-worships](pūjayati) [deity-devotion](devatābhakti) + [relishing](rasikaḥ) [indeed](eva) [one-becomes](saṃpadyate)
+[if](yadi) [in-water](udake) [he-worships](pūjayati) [deity-devotion](devatābhakti) [rasika](rasika) [indeed](eva) [he-becomes](saṃpadyate)
 
 ## mukta-m0-p39-v973
-[with-devotion](bhaktyā) [one-should-worship](pūjayet)
+[by-devotion](bhaktyā)
 
 ## mukta-m0-p39-v974
-[if](yadi) [in-air](vāyau) [one-worships](pūjayati) [devotion-strength](bhaktibalaḥ) [indeed](eva) [of-deity](devatāyāḥ) [one-becomes](saṃpadyate)
+[if](yadi) [in-air](vāyau) [he-worships](pūjayati) [devotion-strength](bhaktibala) [indeed](eva) [of-deity](devatāyāḥ) [he-becomes](saṃpadyate)
 
 ## mukta-m0-p39-v975
-[instructible](nirdeśyaḥ) [one-becomes](saṃpadyate)
+[designated](nirdeśyaḥ) [he-becomes](saṃpadyate)

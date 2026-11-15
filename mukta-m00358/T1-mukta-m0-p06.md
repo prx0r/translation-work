@@ -2,67 +2,67 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-peace(śānti) + chapter(prakaraṇaṃ) twelfth(dvādaśam)
+[peace-chapter](śāntiprakaraṇaṃ) [twelfth](dvādaśam)
 
 ## mukta-m0-p06-v127
-burns(dahati) calamities(vipadaḥ) merit(puṇyaṃ) sin(pāpaṃ) difficult-to-cross(duranta) + worldly-existence(bhava) + forest(aṭavīm)
+[burns](dahati) [misfortunes](vipadaḥ) [merit](puṇyaṃ) [sin](pāpaṃ) [endless-forest-of-becoming](durantabhavāṭavīm)
 
 ## mukta-m0-p06-v128
-supreme(parama) + state(padaṃ) gone(gatam) + indeed(eva) your(te) by-grace(prasādāt)
+[supreme-state](paramapadaṃ) [gone-indeed](gatameva) [your](te) [grace](prasādāt)
 
 ## mukta-m0-p06-v129
-O-great-lord(maheśa) your(tvat) + service(sevā) + known(vidita) + good-discrimination(suviveka) + fire(agni) + by-greatness(mahasā)
+[great-lord](maheśa) [your-service](tvatsevā) [known](vidita) [excellent-discrimination](suviveka) [fire-glory](agnimahasā)
 
 ## mukta-m0-p06-v130
-by-masses(jyotiḥ) + of-light(puñjaiḥ) what(kim) + other(aparam) + I(ahaṃ) O-god(deva) auspicious(bhadraṃ) desire(samīhe)
+[cluster-of-lights](jyotiḥpuñjaiḥ) [what-else](kimaparam) [i](ahaṃ) [lord](deva) [blessing](bhadraṃ) [desire](samīhe)
 
 ## mukta-m0-p06-v131
-today(adya) you(tvaṃ) by-three-worlds(tribhuvana) + speech(vāk) + mind(manas) + unattainable(alabhyaḥ) unobstructed(nirbādhaḥ) all(sakala) + paths(patha) + sole(eka) + accessible(gamya) + O-form(mūrte)
+[today](adya) [you](tvaṃ) [three-worlds-speech-mind-obtainable](tribhuvanavāṅmanasyalabhyaḥ) [unobstructed](nirbādhaḥ) [all-paths-single-form](sakalapathaikagamyamūrte)
 
 ## mukta-m0-p06-v132
-you(bhavantam) supreme-deity(adhidaivatam) in-world(bhava) + forest(vane) blazing(jvalantaṃ) by-itself(svataḥ)
+[you](bhavantam) [supreme-deity](adhidaivataṃ) [forest-of-becoming](bhavavane) [blazing](jvalantaṃ) [by-oneself](svataḥ)
 
 ## mukta-m0-p06-v133
-but(kiṃ) + indeed(tu) your(tvat) + foot(pada) + lotus(padma) + most-steady(niścalatara) + meditation(dhyānaṃ) I-desire(samīhe) O-lord(vibho)
+[but](kiṃ) [tu](tu) [your-lotus-feet](tvatpadapadma) [steadier-meditation](niścalataradhyānaṃ) [desire](samīhe) [lord](vibho)
 
 ## mukta-m0-p06-v134
-merit(puṇyaṃ) sin(pāpam) + deep(agāt) + destruction(vināśam) + here(iha) my(me) attained(prāptaḥ) awakening(prabodhaḥ) O-lord(vibho)
+[merit](puṇyaṃ) [sin](pāpam) [reached-destruction](agādvināśam) [here](iha) [me](me) [awakening](prāptaḥ) [prabodhaḥ) [lord](vibho)
 
 ## mukta-m0-p06-v135
-be(bhava) worldly-existence(bhava) + arisen(gata) + sorrow(duḥkhaṃ) cut(chindhi) and(ca) + sin(āgaḥ) forgive(kṣamasva)
+[be](bhava) [becoming-born-suffering](bhavagataduḥkhaṃ) [cut](chindhi) [offense](cāgaḥ) [forgive](kṣamasva)
 
 ## mukta-m0-p06-v136
-having-seen(dṛṣṭvā) + this(enam) very-frightened(bhīta) + frightened(bhītaṃ) refuge(śaraṇam) + approached(upagataṃ) protect(trāhi) me(māṃ) O-god(deva) from-death(mṛtyoḥ)
+[seeing](dṛṣṭvā) [this](enaṃ) [frightened-frightened](bhītabhītaṃ) [refuge-gone](śaraṇamupagataṃ) [protect](trāhi) [me](māṃ) [lord](deva) [from-death](mṛtyoḥ)
 
 ## mukta-m0-p06-v137
-speakers(vaktṝn) + hearers(śrotṝn) + cognizers(pramātṝn) + in-own(nija) + heart(hṛdaya) + cave(guhā) + Brahman(brahma) + reality(sattaṃ) they-lead(nayanti)
+[speakers](vaktṝñ) [listeners](śrotṝn) [knowers](pramātṝn) [own-heart-cave](nijahṛdayaguhā) [brahman-reality](brahmasattaṃ) [lead](nayanti)
 
 ## mukta-m0-p06-v138
-at-body's-end(dehānte) to-Brahman's-shore(brahma) + pāraṃ to-supreme-Śiva(paraśiva) + foot(caraṇa) + form(ākāram) + having-attained(abhyetya) the-knower(vidvān)
+[at-body-end](dehānte) [brahman-far-shore](brahmapāraṃ) [supreme-shiva-foot-form](paraśivacaraṇākāram) [approaching](abhyetya) [knower](vidvān)
 
 ## mukta-m0-p06-v139
-Brahman(brahma) + attainment(prāptim) + they-obtain(avāpnuvanti) by-recitation(paṭhanāt) + of-Śambhu(śaṃbhoḥ) + of-greatness(mahimnaḥ) + of-hymn(stuteḥ)
+[brahman-attainment](brahmaprāptim) [obtains](avāpnuvanti) [by-recitation](paṭhanāt) [shambhu-glory](śaṃbhormahimnaḥ) [praise](stuteḥ)
 
 ## mukta-m0-p06-v140
-splendor(tejaḥ) fame(kīrtiṃ) and(ca) prosperity(lakṣmīm) + desired(abhilaṣita) + state(padaṃ) attains(vyaśnute) hymn(stotra) + hero(vīraḥ)
+[radiance](tejaḥ) [fame](kīrtiṃ) [ca](ca) [wealth](lakṣmīm) [desired-state](abhilaṣitapadaṃ) [attains](vyaśnute) [stotra-hero](stotravīraḥ)
 
 ## mukta-m0-p06-v141
-all(samastāḥ) accomplishment(siddhiḥ) + also(api) + experiences(anubhavati) may-he-go(gacchet) + to-supreme-state(parapadam)
+[all](samastāḥ) [powers](siddhir) [api](api) [experiences](anubhavati) [goes-supreme-state](gacchetparapadam)
 
 ## mukta-m0-p06-v142
-hymn(stotraṃ) recites(paṭhet) + who(yaḥ) world(bhuvana) + sovereignty(ādhipatyaṃ) always(nityaṃ) guru-hood(gurutvaṃ) Śiva-ness(śivatām) + attains(upaiti)
+[stotra](stotraṃ) [recites](paṭhet) [yo](yo) [world-lordship](bhuvanādhipatyaṃ) [eternal](nityaṃ) [guru-status](gurutvaṃ) [shiva-hood](śivatām) [obtains](upaiti)
 
 ## mukta-m0-p06-v143
-than-Aghora(aghorāt) + not(na) + other(aparaḥ) mantra(mantraḥ) not(na) + exists(asti) principle(tattvaṃ) than-guru(guroḥ) higher(param)
+[not-terrible](aghorāt) [na](nā) [other](aparo) [mantra](mantraḥ) [na](nā) [asti](asti) [truth](tattvaṃ) [guru](guroḥ) [param](param)
 
 ## mukta-m0-p06-v144
-of-all(sarvāsām) + of-Upaniṣads(upaniṣadāṃ) Durvāsā(durvāsā) triumphs(jayati) teacher(deśikaḥ) first(prathamaḥ)
+[all](sarvāsām) [upanishads](upaniṣadāṃ) [durvasa](durvāsā) [conquers](jayati) [teacher](deśikaḥ) [first](prathamaḥ)
 
 ## mukta-m0-p06-v145
-of-supreme-Śambhu(paraśaṃbhoḥ) + hymn(stuti) + understanding(bodhaḥ) world(jagat) + support(ādhāraḥ) may-be(bhavet) + always(sadā) firm(dhīram)
+[supreme-shambhu-praise-knowledge](paraśaṃbhustutibodhaḥ) [world-support](jagadādhāraḥ) [becomes](bhavet) [always](sadā) [wise](dhīram)
 
 ## mukta-m0-p06-v146
-like-sun(raviḥ) + as(iva) world(jagat) + illuminating(prakāśam) + by-skill(ticāturyāt) + world(jagat) + teacher(guruḥ) + becomes(bhavati)
+[sun-like](raviriva) [world-illumination](jagatprakāśam) [from-skill](ticāturyāt) [world-teacher](jagadguruḥ) [becomes](bhavati)
 
 ## mukta-m0-p06-v147
-of-supreme-Śambhu(paraśaṃbhoḥ) + hymn(stava) + essence(hṛdayaṃ) in-worthy-recipients(satpātreṣu) should-reveal(prakāśayet) + with-compassion(sadayam)
+[supreme-shambhu-praise-heart](paraśaṃbhostavahṛdayaṃ) [good-vessels](satpātreṣu) [reveals](prakāśayet) [always](sadayam)

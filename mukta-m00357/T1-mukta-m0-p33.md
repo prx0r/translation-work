@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-thus(तथा) indeed(एव) + embrace-and-blessing(आलिङ्गनाशिषौ) should-be-applied(योजने)
+[tatha](tatha) [eva](eva) [āliṅganāśipā](āliṅganāśipā) [yojane](yojane)
 
 ## mukta-m0-p33-v802
-mother-father-teacher-lord(मातृपितृगुर्वीश्वराणां) in-meeting(समागमे) who(कः) should-bow(प्रणमेत्)
+[mātṛ](mātṛ) [pitṛ](pitṛ) [guru](guru) [īśvarāṇām](īśvarāṇām) [samāgame](samāgame) [ka](ka) [praṇamet](praṇamet)
 
 ## mukta-m0-p33-v803
-by-him-permitted(तदनुज्ञातः) first(पूर्वं) first(पूर्वं) should-bow(प्रणमेत्) thus(इति) some(केचित्)
+[tad](tad) [anujñāta](anujñāta) [pūrvaṃ](pūrvaṃ) [pūrvaṃ](pūrvaṃ) [praṇamet](praṇamet) [iti](iti) [kecit](kecit)
 
 ## mukta-m0-p33-v804
-teacher-venerable-offering-coincidence(गुरुगुरवर्घ्यसमयोगे) from-venerable-offering(गुर्वर्घ्यात्) permitted(अनुज्ञातः) teacher(गुरुम्) thus(इति) Kālabhairava(कालभैरवः)
+[guru](guru) [gurvarghya](gurvarghya) [samayoge](samayoge) [gurvarghyāt](gurvarghyāt) [anujñātaḥ](anujñātaḥ) [gurum](gurum) [iti](iti) [kālabhairavaḥ](kālabhairavaḥ)
 
 ## mukta-m0-p33-v805
-in-that-coincidence(तत्समयोगे) teacher(गुरुः) by-teacher-permitted(गुर्वनुज्ञातः) venerable-offering(गुर्वर्घ्यम्) thus(इति) Unmattabhairava(उन्मत्तभैरवः)
+[tat](tat) [samayoge](samayoge) [guru](guru) [gurvanujñātaḥ](gurvanujñātaḥ) [gurvarghyam](gurvarghyam) [iti](iti) [unmattabhairavaḥ](unmattabhairavaḥ)
 
 ## mukta-m0-p33-v806
-likewise(तथा) to-be-saluted(अभिवादनीयः) by-saluter(अभिवादकेन) should-speak(भाषेत) should-behave(वर्तेत) should-honor(पूजयीत)
+[tathā](tathā) [abhivādanīyaḥ](abhivādanīyaḥ) [abhivādakena](abhivādakena) [bhāṣeta](bhāṣeta) [varteta](varteta) [pūjayīta](pūjayīta)
 
 ## mukta-m0-p33-v807
-by-him-permitted(तदनुज्ञातः) according-to-own-will(स्वच्छन्दं) should-laugh(हसेत्) should-speak(वदेत्) should-look(पश्येत्) should-move-about(विहरेत्)
+[tad](tad) [anujñātaḥ](anujñātaḥ) [svacchandam](svacchandam) [haset](haset) [vadet](vadet) [paśyet](paśyet) [viharet](viharet)
 
 ## mukta-m0-p33-v808
-his-leftovers(तदुच्छिष्टान्) enjoyments(भोगान्) should-eat(भुञ्जीत)
+[tad](tad) [ucchiṣṭān](ucchiṣṭān) [bhogān](bhogān) [muñjīta](muñjīta)
 
 ## mukta-m0-p33-v809
-his-leftover(तदुच्छिष्टां) belonging-to-another(परकीयां) common(सामान्यां) or(वा) not(न) should-eat(भुञ्जीत) thus(इति) Kālabhairava(कालभैरवः)
+[tad](tad) [ucchiṣṭām](ucchiṣṭām) [parakīyām](parakīyām) [sāmānyām](sāmānyām) [yā](yā) [na](na) [bhuñjīta](bhuñjīta) [iti](iti) [kālabhairavaḥ](kālabhairavaḥ)
 
 ## mukta-m0-p33-v810
-by-him-permitted(तदनुमतः) should-eat(भुञ्जीत) thus(इति) Ākāśabhairava(आकाशभैरवः)
+[tad](tad) [anumataḥ](anumataḥ) [bhuñjīta](bhuñjīta) [iti](iti) [ākāśabhairavaḥ](ākāśabhairavaḥ)
 
 ## mukta-m0-p33-v811
-of-temple(प्रासादस्य) or(उ) or(वा) marked-with-prescribed-sign(विहितचिह्नितः) not(न) should-salute(अभिवादयेत्)
+[prāsādasya](prāsādasya) [vā](vā) [vihitacihnitaḥ](vihitacihnitaḥ) [vā](vā) [na](na) [abhivādayet](abhivādayet)
 
 ## mukta-m0-p33-v812
-in-own(स्वे) branch-front(शाखाग्रे) teacher(गुरुम्) others(अन्यान्) and(च) to-be-saluted(अभिवाद्यान्) not(न) should-salute(अभिवादयेत्)
+[sve](sve) [śākhāgre](śākhāgre) [gurum](gurum) [anyāḥ](anyāḥ) [ca](ca) [abhivādyān](abhivādyān) [na](na) [abhivādayet](abhivādayet)
 
 ## mukta-m0-p33-v813
-before-supreme-lord(अत्येशाग्रे) teacher(गुरुं) should-bow(प्रणमेत्) thus(इति) someone(कश्चित्)
+[atyeśāgre](atyeśāgre) [gurum](gurum) [praṇamet](praṇamet) [iti](iti) [kaścit](kaścit)
 
 ## mukta-m0-p33-v814
-expiation(प्रायश्चित्तम्)
+[prāyaścittam](prāyaścittam)
 
 ## mukta-m0-p33-v815
-begging-pardon(क्षमापयंस्) on-his-head(तन्मूर्धनि) six(षट्) flower-handfuls(पुष्पाञ्जलीन्) should-offer(प्रयच्छेत्) this(एषा) or(वा) expiation(प्रायश्चित्तिः)
+[kṣamāpayaṃs](kṣamāpayaṃs) [tanmūrdhani](tanmūrdhani) [ṣaṭ](ṣaṭ) [puṣpāñjalīn](puṣpāñjalīn) [prayacchet](prayacchet) [eṣā](eṣā) [vā](vā) [prāyaścittiḥ](prāyaścittiḥ)
 
 ## mukta-m0-p33-v816
-holding-deity-worship-implements(धृतदेवतार्चनसाधनः) not(न) should-salute(अभिवादयेत्)
+[dhṛtadevatārcanasādhanaḥ](dhṛtadevatārcanasādhanaḥ) [na](na) [abhivādayet](abhivādayet)
 
 ## mukta-m0-p33-v817
-by-speech-only(वाङ्मानेण) should-salute(अभिवादयेत्) thus(इति) Gārhapatya(गार्हपत्यः) fire(अग्निः)
+[vāṅmāneṇa](vāṅmāneṇa) [abhivādayet](abhivādayet) [iti](iti) [gārhapatyaḥ](gārhapatyaḥ) [agniḥ](agniḥ)
 
 ## mukta-m0-p33-v818
-uncollected-one(असमाहितं) not(न) should-bow(प्रणमेत्)
+[asamāhitaṃ](asamāhitaṃ) [na](na) [praṇamet](praṇamet)
 
 ## mukta-m0-p33-v819
-uncollected(असमाहितः) not(न) should-bow(प्रणमेत्)
+[asamāhitaḥ](asamāhitaḥ) [na](na) [praṇamet](praṇamet)
 
 ## mukta-m0-p33-v820
-father(पितरम्) thus(एवं) should-bow(प्रणमेत्)
+[pitaram](pitaram) [evaṃ](evaṃ) [praṇamet](praṇamet)
 
 ## mukta-m0-p33-v821
-by-consecratory-order(सांस्कारिकक्रमेण) should-honor(अभिपादयेत्) not(न) by-initiation-order(दीक्षाक्रमेण) thus(इति) Dakṣiṇa(दक्षिणाग्निः) fire(अग्निः)
+[sāṃskārikakrameṇa](sāṃskārikakrameṇa) [abhipādayet](abhipādayet) [na](na) [dīkṣākrameṇa](dīkṣākrameṇa) [iti](iti) [dakṣiṇāgniḥ](dakṣiṇāgniḥ)
 
 ## mukta-m0-p33-v822
-thus(इति) in-Pārānanda-sūtra(पारानन्दसूत्रे) seventh(सप्तमम्) daily-section(आह्निकम्)
+[iti](iti) [pārānandasūtre](pārānandasūtre) [saptamam](saptamam) [āhnikam](āhnikam)
 
 ## mukta-m0-p33-v823
-oṃ(ओं) now(अथ) worship-procedure(अर्चनक्रमं) we-shall-declare(वक्ष्यामः)
+[oṃ](oṃ) [atha](atha) [arcanakramaṃ](arcanakramaṃ) [vakṣyāmaḥ](vakṣyāmaḥ)
 
 ## mukta-m0-p33-v824
-with-various-ornaments-endowed(नानालङ्कारसंयुक्तं) with-red-sandal-smeared(रक्तचन्दनचर्चितम्) thus(इति) meditation(ध्यानं) of-elephant-faced-one(दन्तिनः)
+[nānālaṅkārasaṃyuktam](nānālaṅkārasaṃyuktam) [raktacandanacarcitam](raktacandanacarcitam) [iti](iti) [dhyānaṃ](dhyānaṃ) [dantinaḥ](dantinaḥ)
 
 ## mukta-m0-p33-v825
-with-various-ornaments-endowed(नानालङ्कारसंयुक्तं) with-white-sandal-smeared(श्वेतचन्दनचर्चितम्) thus(इति) meditation(ध्यानं) of-Śiva(शिवस्य)
+[nānālaṅkārasaṃyuktam](nānālaṅkārasaṃyuktam) [śvetacandanacarcitam](śvetacandanacarcitam) [iti](iti) [dhyānaṃ](dhyānaṃ) [śivasya](śivasya)

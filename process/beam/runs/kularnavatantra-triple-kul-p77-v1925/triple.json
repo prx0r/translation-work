@@ -1,0 +1,45 @@
+{
+ "song": "kul-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "madhuratraya",
+     "gloss": "three-sweets",
+     "grounds": "compound of madhura and traya; exact case role in the fused phrase is uncertain",
+     "morph": "neut.ins.sg"
+    },
+    {
+     "surface": "saṃyuktaiḥ",
+     "gloss": "united",
+     "grounds": "instrumental plural participle agreeing with the substances",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "compound of mantra and vit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-family-leader",
+     "grounds": "vocative address to the family leader",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What must the mantra-knower unite with three sweets when addressing the family leader?",
+   "premises": [
+    "mantra-knower addresses family leader",
+    "substances are united with three sweets",
+    "offering context continues from prior verse"
+   ],
+   "inference": "The ritual substances are to be joined with three sweets by the mantra-knower.",
+   "uncertainties": [
+    "exact syntactic case of madhuratraya within the fused phrase is uncertain"
+   ],
+   "plain_english": "O family leader, the mantra-knower [offers these] united with three sweets."
+  }
+ ]
+}

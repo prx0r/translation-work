@@ -1,0 +1,199 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p12",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v277 ratio=0.667",
+  "ALIGN_NODISP v278 ratio=0.688",
+  "ALIGN_NODISP v279 ratio=0.476",
+  "ALIGN_NODISP v281 ratio=0.873",
+  "ALIGN_NODISP v283 ratio=0.780",
+  "ALIGN_NODISP v284 ratio=0.522",
+  "ALIGN_NODISP v286 ratio=0.842",
+  "ALIGN_NODISP v287 ratio=0.898",
+  "ALIGN_NODISP v288 ratio=0.641",
+  "ALIGN_NODISP v289 ratio=0.795",
+  "ALIGN_NODISP v290 ratio=0.789",
+  "ALIGN_NODISP v291 ratio=0.894",
+  "ALIGN_NODISP v292 ratio=0.759",
+  "ALIGN_NODISP v293 ratio=0.862",
+  "ALIGN_NODISP v294 ratio=0.824",
+  "ALIGN_NODISP v295 ratio=0.800",
+  "ALIGN_NODISP v296 ratio=0.833",
+  "ALIGN_NODISP v297 ratio=0.800",
+  "ALIGN_NODISP v298 ratio=0.811",
+  "ALIGN_NODISP v299 ratio=0.786",
+  "ALIGN_NODISP v300 ratio=0.747"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "8204a132c6607fde",
+ "source_digest_normalized_sha256": "8204a132c6607fde5d84fc5a81677eab27c9d31e8c20ffa4b2e94332b647757b",
+ "source_sha256_raw": "8e7e8d7fd151603f3f5de9ac2e6ea6093a479e422d9cd4df2f1020b1afffbed1",
+ "source_sha256_raw_file": "/root/translation-work/svacchandatantra/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 101
+ },
+ "align": {
+  "min_ratio": 0.476,
+  "sub090": {
+   "277": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "278": {
+    "ratio": 0.688,
+    "disposition": null
+   },
+   "279": {
+    "ratio": 0.476,
+    "disposition": null
+   },
+   "281": {
+    "ratio": 0.873,
+    "disposition": null
+   },
+   "283": {
+    "ratio": 0.78,
+    "disposition": null
+   },
+   "284": {
+    "ratio": 0.522,
+    "disposition": null
+   },
+   "286": {
+    "ratio": 0.842,
+    "disposition": null
+   },
+   "287": {
+    "ratio": 0.898,
+    "disposition": null
+   },
+   "288": {
+    "ratio": 0.641,
+    "disposition": null
+   },
+   "289": {
+    "ratio": 0.795,
+    "disposition": null
+   },
+   "290": {
+    "ratio": 0.789,
+    "disposition": null
+   },
+   "291": {
+    "ratio": 0.894,
+    "disposition": null
+   },
+   "292": {
+    "ratio": 0.759,
+    "disposition": null
+   },
+   "293": {
+    "ratio": 0.862,
+    "disposition": null
+   },
+   "294": {
+    "ratio": 0.824,
+    "disposition": null
+   },
+   "295": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "296": {
+    "ratio": 0.833,
+    "disposition": null
+   },
+   "297": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "298": {
+    "ratio": 0.811,
+    "disposition": null
+   },
+   "299": {
+    "ratio": 0.786,
+    "disposition": null
+   },
+   "300": {
+    "ratio": 0.747,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 38,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 101,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v277",
+  "fix: word-order/gloss vs source for v278",
+  "fix: word-order/gloss vs source for v279",
+  "fix: word-order/gloss vs source for v281",
+  "fix: word-order/gloss vs source for v283",
+  "fix: word-order/gloss vs source for v284",
+  "fix: word-order/gloss vs source for v286",
+  "fix: word-order/gloss vs source for v287",
+  "fix: word-order/gloss vs source for v288",
+  "fix: word-order/gloss vs source for v289",
+  "fix: word-order/gloss vs source for v290",
+  "fix: word-order/gloss vs source for v291",
+  "fix: word-order/gloss vs source for v292",
+  "fix: word-order/gloss vs source for v293",
+  "fix: word-order/gloss vs source for v294",
+  "fix: word-order/gloss vs source for v295",
+  "fix: word-order/gloss vs source for v296",
+  "fix: word-order/gloss vs source for v297",
+  "fix: word-order/gloss vs source for v298",
+  "fix: word-order/gloss vs source for v299",
+  "fix: word-order/gloss vs source for v300"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "0e13a3f298b47208ac95ea9616eb29913ea9b406a38101585817df7b4cf91338",
+  "l0": "530e356c8819ece0803b6e61f7498850d5fe326c5d66f0a3730699e3508e08a9",
+  "argmap": "805f3f552ec09c37192f393a33b2d5e130f00702453456f001fbf1fb426e1aeb",
+  "l2": "606306346d94c5b459345c6fe90206285fa20b5cda280a71803c18314a62e604",
+  "c1": "2fb8105a214c06dca2c8a219f3be775c908f33ed0519bf2c92420b7ab033920e"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "8204a132c6607fde",
+  "t1": "sva-p12/data/sva-p12.t1.json",
+  "l0": "sva-p12/data/sva-p12.l0.json",
+  "l2": "sva-p12/data/sva-p12.l2.json",
+  "c1": "sva-p12/data/sva-p12.c1.json"
+ }
+}
