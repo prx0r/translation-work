@@ -7,16 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tri",
-"quick_gloss": "three"
-},
-{
-"surface": "kleśa",
-"quick_gloss": "affliction"
-},
-{
-"surface": "āśayāḥ",
-"quick_gloss": "abodes"
+"surface": "triklabāśayāḥ]",
+"quick_gloss": "three+affliction+abodes"
 }
 ]
 },
@@ -28,8 +20,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varṇa+āśrama",
-"quick_gloss": "class-and-stage"
+"surface": "varṇāśrama",
+"quick_gloss": "class+stage"
 },
 {
 "surface": "vyavasthāṃ",
@@ -40,12 +32,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "niyamān",
-"quick_gloss": "rules"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "niyamāṃśca",
+"quick_gloss": "rules+and"
 },
 {
 "surface": "śarīriṇām",
@@ -61,16 +49,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dharma+śāstrais",
+"surface": "dharmaśāstrais",
 "quick_gloss": "by-dharma-texts"
 },
 {
-"surface": "smṛtiḥ",
-"quick_gloss": "by-smṛti"
+"surface": "mṛtiḥ",
+"quick_gloss": "by-smṛti-texts"
 },
 {
 "surface": "śāstrair",
-"quick_gloss": "texts"
+"quick_gloss": "by-scriptures"
 },
 {
 "surface": "ācārasya",
@@ -78,7 +66,7 @@
 },
 {
 "surface": "pravarttanam",
-"quick_gloss": "promotion"
+"quick_gloss": "promulgation"
 }
 ]
 },
@@ -90,8 +78,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prati+varṇa+āśramaṃ",
-"quick_gloss": "for-each-class-and-stage"
+"surface": "prativarṇāśramaṃ",
+"quick_gloss": "for-each-class+and-stage"
 },
 {
 "surface": "ca",
@@ -102,12 +90,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "bhinna",
-"quick_gloss": "different"
-},
-{
-"surface": "bhinnā",
-"quick_gloss": "different"
+"surface": "bhinnabhinnā",
+"quick_gloss": "different+different"
 },
 {
 "surface": "vyavasthitiḥ",
@@ -123,12 +107,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prasaṃgeṣu",
-"quick_gloss": "in-connections"
-},
-{
-"surface": "para+dāra",
-"quick_gloss": "with-another's-wife"
+"surface": "paradāraprasaṃgeṣu",
+"quick_gloss": "in-adultery+associations"
 },
 {
 "surface": "yathā",
@@ -165,19 +145,15 @@
 },
 {
 "surface": "manaḥ+doṣa",
-"quick_gloss": "of-mind-fault"
+"quick_gloss": "mind+fault"
 },
 {
 "surface": "nivṛtyai",
-"quick_gloss": "for-removal"
+"quick_gloss": "by-removal"
 },
 {
-"surface": "daṇḍa",
-"quick_gloss": "punishment"
-},
-{
-"surface": "kalpanam",
-"quick_gloss": "prescription"
+"surface": "daṇḍa+kalpanam",
+"quick_gloss": "punishment+determination"
 }
 ]
 },
@@ -214,7 +190,7 @@
 },
 {
 "surface": "viśva+rakṣaṇe",
-"quick_gloss": "in-world-protection"
+"quick_gloss": "in-world+protection"
 }
 ]
 },
@@ -231,6 +207,10 @@
 },
 {
 "surface": "eva",
+"quick_gloss": "alone"
+},
+{
+"surface": "hi",
 "quick_gloss": "indeed"
 },
 {
@@ -238,16 +218,12 @@
 "quick_gloss": "designation"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
 "surface": "sarvasya",
 "quick_gloss": "of-all"
 },
 {
 "surface": "naya+vartmanaḥ",
-"quick_gloss": "of-policy-course"
+"quick_gloss": "policy+course"
 }
 ]
 },
@@ -260,19 +236,19 @@
 "tokens": [
 {
 "surface": "prajā+doṣasya",
-"quick_gloss": "of-people's-fault"
+"quick_gloss": "of-people+fault"
 },
 {
 "surface": "bāhulyāt",
 "quick_gloss": "from-abundance"
 },
 {
-"surface": "dvi+apekṣā",
-"quick_gloss": "twofold-consideration"
+"surface": "dvyapekṣā",
+"quick_gloss": "twofold+consideration"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "bhūyasī",
@@ -305,7 +281,7 @@
 },
 {
 "surface": "kalpanā+ātmanaḥ",
-"quick_gloss": "of-prescription-nature"
+"quick_gloss": "of-determination+nature"
 }
 ]
 },
@@ -318,7 +294,7 @@
 "tokens": [
 {
 "surface": "varttaṃta",
-"quick_gloss": "they-abide"
+"quick_gloss": "they-remain"
 },
 {
 "surface": "eva",
@@ -338,10 +314,10 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
-"surface": "hina+ātmaje",
+"surface": "hinātmaje",
 "quick_gloss": "in-low-born"
 }
 ]
@@ -354,15 +330,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manu+ādi",
-"quick_gloss": "Manu-and-others"
+"surface": "manvādi+kṛta",
+"quick_gloss": "Manu+and-others+composed"
 },
 {
-"surface": "kṛta+śāstrāṇi",
-"quick_gloss": "composed-texts"
+"surface": "śāstrāṇi",
+"quick_gloss": "scriptures"
 },
 {
-"surface": "pramāṇī+kṛtya",
+"surface": "pramāṇīkṛtya",
 "quick_gloss": "having-made-authority"
 },
 {
@@ -387,24 +363,12 @@
 "quick_gloss": "fear"
 },
 {
-"surface": "bhaṭa",
-"quick_gloss": "soldier"
+"surface": "bhaṭa+śreṇi",
+"quick_gloss": "soldier+rows"
 },
 {
-"surface": "śreṇi",
-"quick_gloss": "rows"
-},
-{
-"surface": "dvīpa",
-"quick_gloss": "island"
-},
-{
-"surface": "sādhana",
-"quick_gloss": "accomplishment"
-},
-{
-"surface": "saṃpadām",
-"quick_gloss": "wealth"
+"surface": "dvīpa+sādhana+saṃpadām",
+"quick_gloss": "island+accomplishment+wealth"
 }
 ]
 },
@@ -416,19 +380,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rājā+ādi",
-"quick_gloss": "of-king-and-others"
-},
-{
-"surface": "agocarāṇāṃ",
-"quick_gloss": "beyond-range"
+"surface": "rājādyagocarāṇāṃ",
+"quick_gloss": "of-king+and-others+beyond-range"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
-"surface": "keṣām+api",
+"surface": "keṣāmapi",
 "quick_gloss": "of-some"
 },
 {
@@ -445,16 +405,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yama+daṇḍa",
-"quick_gloss": "Yama's-punishment"
-},
-{
-"surface": "ādi",
-"quick_gloss": "and-so-forth"
+"surface": "yamadaṇḍādi",
+"quick_gloss": "Yama+punishment+etc."
 },
 {
 "surface": "śāstrāṇya",
-"quick_gloss": "texts"
+"quick_gloss": "scriptures"
 },
 {
 "surface": "pramāṇī",
@@ -466,7 +422,7 @@
 },
 {
 "surface": "vallatām",
-"quick_gloss": "fondness"
+"quick_gloss": "attachment"
 }
 ]
 },
@@ -478,16 +434,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rāja+daṇḍa+bhayāt",
-"quick_gloss": "from-fear-of-king's-punishment"
+"surface": "rājadaṇḍabhayāt",
+"quick_gloss": "from-king+punishment+fear"
 },
 {
 "surface": "eke",
 "quick_gloss": "some"
 },
 {
-"surface": "yama+daṇḍa+bhayāt",
-"quick_gloss": "from-fear-of-Yama's-punishment"
+"surface": "yamadaṇḍabhayāt",
+"quick_gloss": "from-Yama+punishment+fear"
 },
 {
 "surface": "pare",
@@ -508,7 +464,7 @@
 },
 {
 "surface": "madhyamā",
-"quick_gloss": "middle"
+"quick_gloss": "middling"
 },
 {
 "surface": "nīcāḥ",
@@ -524,11 +480,11 @@
 },
 {
 "surface": "adha'māḥ",
-"quick_gloss": "lower"
+"quick_gloss": "adharma+dharmas"
 },
 {
 "surface": "dhamāḥ",
-"quick_gloss": "lowest"
+"quick_gloss": "dharmas"
 }
 ]
 },
@@ -545,19 +501,15 @@
 },
 {
 "surface": "krameṇa",
-"quick_gloss": "in-order"
+"quick_gloss": "in-sequence"
 },
 {
 "surface": "sarveṣāṃ",
 "quick_gloss": "of-all"
 },
 {
-"surface": "citta+doṣa",
-"quick_gloss": "of-mind-fault"
-},
-{
-"surface": "nivāraṇe",
-"quick_gloss": "in-removal"
+"surface": "citta+doṣa+nivāraṇe",
+"quick_gloss": "mind+fault+removal"
 }
 ]
 },
@@ -574,7 +526,7 @@
 },
 {
 "surface": "sāma+upadeśasya",
-"quick_gloss": "of-conciliatory-instruction"
+"quick_gloss": "of-conciliation+instruction"
 },
 {
 "surface": "lakṣaṇaṃ",
@@ -582,7 +534,7 @@
 },
 {
 "surface": "saṃpracakṣmahe",
-"quick_gloss": "we-declare-fully"
+"quick_gloss": "we-declare"
 }
 ]
 },
@@ -606,16 +558,16 @@
 "quick_gloss": "everywhere"
 },
 {
-"surface": "sva+eva",
-"quick_gloss": "in-own"
+"surface": "sva",
+"quick_gloss": "own"
 },
 {
-"surface": "bhāryā",
-"quick_gloss": "wife"
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
-"surface": "avalaṃbatām",
-"quick_gloss": "dependence"
+"surface": "bhāryā+avalaṃbatām",
+"quick_gloss": "wife+dependence"
 }
 ]
 },
@@ -640,19 +592,15 @@
 },
 {
 "surface": "labdhena",
-"quick_gloss": "by-what-is-obtained"
+"quick_gloss": "by-obtained"
 },
 {
 "surface": "vastunā",
-"quick_gloss": "by-thing"
+"quick_gloss": "thing"
 },
 {
-"surface": "hṛdi",
-"quick_gloss": "in-heart"
-},
-{
-"surface": "tṛptatā",
-"quick_gloss": "satisfaction"
+"surface": "hṛdi+tṛptatā",
+"quick_gloss": "in-heart+satisfaction"
 }
 ]
 },
@@ -672,16 +620,12 @@
 "quick_gloss": "one-should-practice"
 },
 {
-"surface": "sa+ācārāḥ",
-"quick_gloss": "with-good-conduct"
+"surface": "sācārāḥ",
+"quick_gloss": "with-conduct"
 },
 {
-"surface": "śuddha+sva+ātma",
-"quick_gloss": "for-pure-self"
-},
-{
-"surface": "vimṛṣṭaye",
-"quick_gloss": "for-reflection"
+"surface": "śuddha+sva+ātma+vimṛṣṭaye",
+"quick_gloss": "for-pure+self+examination"
 }
 ]
 },
@@ -698,11 +642,11 @@
 },
 {
 "surface": "gṛhīta",
-"quick_gloss": "grasped"
+"quick_gloss": "grasped+dharma+and-wealth"
 },
 {
 "surface": "dharma+arthā",
-"quick_gloss": "dharma-and-wealth"
+"quick_gloss": "dharma+and-wealth"
 },
 {
 "surface": "vimṛśyan",
@@ -713,12 +657,8 @@
 "quick_gloss": "or"
 },
 {
-"surface": "ātmanaḥ",
-"quick_gloss": "of-self"
-},
-{
-"surface": "dhiyā",
-"quick_gloss": "by-intellect"
+"surface": "ātmanas+dhiyā",
+"quick_gloss": "by-own+mind+intellect"
 }
 ]
 },
@@ -730,7 +670,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+mūlaṃ",
+"surface": "tanmūlaṃ",
 "quick_gloss": "its-root"
 },
 {
@@ -739,7 +679,7 @@
 },
 {
 "surface": "mahā+duḥkhaṃ",
-"quick_gloss": "great-suffering"
+"quick_gloss": "great+suffering"
 },
 {
 "surface": "vimṛśyan",
@@ -747,7 +687,7 @@
 },
 {
 "surface": "nyāyam",
-"quick_gloss": "by-reasoning"
+"quick_gloss": "in-reasoning"
 },
 {
 "surface": "asthitā",
@@ -764,7 +704,7 @@
 "tokens": [
 {
 "surface": "bheda+upadeśa+mārgeṇa",
-"quick_gloss": "by-path-of-divisive-instruction"
+"quick_gloss": "by-division+instruction+path"
 },
 {
 "surface": "vyādiśan",
@@ -772,7 +712,7 @@
 },
 {
 "surface": "nara+madhyamān",
-"quick_gloss": "middle-men"
+"quick_gloss": "middle+men"
 }
 ]
 }

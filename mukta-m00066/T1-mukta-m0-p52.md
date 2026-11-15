@@ -8,19 +8,19 @@
 [by-piercings](todanaiḥ) [by-torments](pīḍanaiś) [and](ca) [indeed](eva) [in-their-mouth](tadāsye) [by-dust](dhūli) [fillings](pūraṇaiḥ)
 
 ## mukta-m0-p52-v1278
-[by-this-policy](anayā) [punished](daṇḍitāḥ) [all](sarve) [always](sadūram) [the-lowest-of-the-low](adhamādhamāḥ)
+[by-this-policy](anayā) [punished](daṇḍitāḥ) [all](sarve) [together](sa) [far](dūram) [lowest-of-the-low](adhamādhamāḥ)
 
 ## mukta-m0-p52-v1279
-[of-another](anyasya) [woman](striyam) [having-seen](ālokya) [of-whom](kasyana) [not](u) [agitated](vikṛtam) [mind](manaḥ)
+[of-another](anyasya) [woman](striyam) [having-seen](ālokya) [of-whom](kasya) [not](na) [agitated](vikṛtam) [mind](manaḥ)
 
 ## mukta-m0-p52-v1280
-[he-investigates](vicārayati) [with-punishment](daṇḍena) [he-considers](vimṛśati) [of-self](ātmanaḥ) [dissolution](layam)
+[he-reflects](vicārayati) [with-punishment](daṇḍena) [he-considers](vimṛśati) [of-self](ātmanaḥ) [dissolution](layam)
 
 ## mukta-m0-p52-v1281
-[thus](evaṃ) [four](catvāra) [are-said](uktā) [these](ye) [their-means](tadupāyā) [by-the-wise](manīṣiṇaḥ)
+[thus](evaṃ) [four](catvāra) [are-declared](uktā) [those](ye) [their-means](tadupāyā) [by-the-wise](manīṣiṇaḥ)
 
 ## mukta-m0-p52-v1282
-[of-Manu-and-others](manvādi) [prescribed](kṛta) [boundary](maryādā) [transgression](laṃghanaṃ) [not](na) [they-spread](vitanvate)
+[of-Manu](manu) [and-others](ādi) [prescribed](kṛta) [limit](maryādā) [transgression](laṃghanaṃ) [not](na) [they-commit](vitanvate)
 
 ## mukta-m0-p52-v1283
 [O-Ānandanātha](ānaṃdanātha) [worship](pūjā) [indeed](tu) [for-all-castes](sarvajāti) [equal](samā) [O-beloved](priye)
@@ -29,34 +29,34 @@
 [common-to-all](sarvasādhāraṇaḥ) [and](ca) [also](api) [great-yoga](mahāyogaḥ) [O-great-goddess](maheśvarī)
 
 ## mukta-m0-p52-v1285
-[of-animals](tiraścāṃ) [indeed](tu) [in-the-great-sacrifice](mahāyāge) [like-grass-eating](tṛṇabhakṣādivat) [supreme](param)
+[of-animals](tiraścāṃ) [indeed](tu) [in-great-rite](mahāyāge) [like-grass](tṛṇa) [eating](bhakṣa) [and-so-on](ādi) [supreme](vatparam)
 
 ## mukta-m0-p52-v1286
-[there](tatra) [also](api) [who](ye) [men](narāḥ) [not-wicked](aduṣṭāḥ) [like-animals](paśuvat) [foolish-conduct](mūrkhavṛttayaḥ)
+[there](tatra) [also](api) [those](ye) [men](narāḥ) [not-wicked](aduṣṭāḥ) [like-animals](paśuvat) [foolish](mūrkha) [in-conduct](vṛttayaḥ)
 
 ## mukta-m0-p52-v1287
-[who](ye) [heroes](vīrāḥ) [guru](guru) [minded](maṃtaḥ) [and](ca) [free-from-doubt](niḥsaṃdehāḥ) [firm-in-vow](dṛḍhavṛtāḥ)
+[those](ye) [heroes](vīrāḥ) [guru](guru) [minded](maṃtaḥ) [and](ca) [free-from-doubt](niḥsaṃdehā) [firm](dṛḍha) [in-vows](vṛtāḥ)
 
 ## mukta-m0-p52-v1288
-[by-which](yaiḥ) [indeed](eva) [fall](patanaṃ) [in-the-world](loke) [the-hero](vīraḥ) [by-those](taiḥ) [indeed](eva) [succeeds](siddhyati)
+[by-which](yaiḥ) [indeed](eva) [fall](patanaṃ) [in-the-world](loke) [the-hero](vīraḥ) [by-those](taiḥ) [indeed](eva) [attains-success](siddhyati)
 
 ## mukta-m0-p52-v1289
-[of-drink-and-others](pānādi) [things](vastu) [of-those-born](jātānāṃ) [form](rūpaṃ) [not](na) [fixed](niyataṃ) [anywhere](kvacit)
+[of-drink](pāna) [and-so-on](ādi) [things](vastu) [of-those-born](jātānāṃ) [form](rūpaṃ) [not](na) [fixed](niyataṃ) [anywhere](kvacit)
 
 ## mukta-m0-p52-v1290
-[this](ayaḥ) [indeed](tu) [O-learned-one](paṇḍitaṃ) [in-the-world](loke) [in-water](jale) [thrown](kṣiptaṃ) [sinks](nimajjati)
+[this](ayaḥ) [indeed](tu) [O-wise-one](paṇḍitaṃ) [in-the-world](loke) [in-water](jale) [thrown](kṣiptaṃ) [sinks](nimajjati)
 
 ## mukta-m0-p52-v1291
 [therefore](tasmāt) [not](na) [from-thing](vastutaḥ) [thing](vastu) [whatever](yat kiṃcit) [fixed](niyataṃ) [anywhere](kvacit)
 
 ## mukta-m0-p52-v1292
-[thus](iti) [by-you](tvad) [asked](pṛṣṭham) [declared](ākhyātaṃ) [all](sarvaṃ) [O-all-limbed-beautiful-one](sarvāṃgasundari)
+[thus](iti) [by-you](tvat) [asked](pṛṣṭham) [declared](ākhyātaṃ) [all](sarvaṃ) [O-all-limbed-beautiful-one](sarvāṃgasundari)
 
 ## mukta-m0-p52-v1293
 [desire-to-ask](pipṛcchiṣā) [again](punaḥ) [but](tu) [another](anyā) [some](kācid) [is](asti) [in-my-mind](mamāśaye)
 
 ## mukta-m0-p52-v1294
-[therefore](tad) [one](ekaḥ) [indeed](eva) [of-all](sarvasya) [of-scriptural-teaching](śāstravastu) [regulator](niyāmakaḥ)
+[therefore](tat) [one](ekaḥ) [indeed](eva) [of-all](sarvasya) [of-scriptural](śāstra) [things](vastu) [regulator](niyāmakaḥ)
 
 ## mukta-m0-p52-v1295
 [what](kim) [this](idaṃ) [by-difference-of-scriptures](śāstrabhedena) [of-intellect](buddhi) [confusion](vibhrama) [poison](vaiśasam)
@@ -68,7 +68,7 @@
 [of-atoms](paramāṇu) [nature](svarūpatvam) [another](anyaḥ) [declares](vadati) [O-Śaṅkara](śaṃkara)
 
 ## mukta-m0-p52-v1298
-[of-whom](kasya) [or](vā) [authority](śaṃ) [in-mind](karamate) [essential-truth](tātvikatvam) [I](ahaṃ) [praise](stuve)
+[of-whom](kasya) [or](vā) [authority](āśaṃ) [in-mind](karamate) [essential-truth](tātvikatvam) [I](ahaṃ) [praise](stuve)
 
 ## mukta-m0-p52-v1299
 [everywhere](sarvatra) [different](bhinnāḥ) [liberations](mokṣāḥ) [and](ca) [different](bhinnāḥ) [everywhere](sarvatra) [and](ca) [practices](kriyāḥ)
