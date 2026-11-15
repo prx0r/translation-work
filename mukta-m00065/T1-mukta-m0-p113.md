@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p113-v2801
-[corner](koṇaṃ) [and](ca) [indeed](eva) [according-to-division](vibhāgataḥ)
+[corner](koṇaṃ) [and](ca) [indeed](eva) [by-division](vibhāgataḥ)
 
 ## mukta-m0-p113-v2802
-[chariot-projection](rathaḥ) [mansion-marked](dhāmāṅkitaḥ) [story](bhūḥ) [and](ca) [cavity-middle-situated](kuharī+madhya+gaḥ) [chariot-projection](rathaḥ)
+[chariot](ratho) [mansion+marked](dhāmāṅkito) [story](bhūḥ) [and](ca) [cavity+middle+going](kuharīmadhyago) [chariot](rathaḥ)
 
 ## mukta-m0-p113-v2803
-[Bhṛgu-and-others](bhṛgu+ādayaḥ) [together](sahe) [thus](iti) [indeed](evaṃ) [Śrīvatsa](śrīvatsaḥ) [should-be](syāt) [of-Hari](hareḥ) [beloved](priyaḥ)
+[Bhṛgu+and-others](bhṛgādayaḥ) [with](sahe) [thus](iti) [indeed](evaṃ) [Śrīvatsa](śrīvatsaḥ) [should-be](syāt) [of-Hari](hareḥ) [beloved](priyaḥ)
 
 ## mukta-m0-p113-v2804
-[lion-shouldered](siṃha+skandhaḥ) [with-pure-essences](amala+āsāraiḥ) [endowed](yuktaḥ) [to-be-made](kāryaḥ) [house-lord](gṛha+adhipaḥ)
+[lion+shouldered](siṃhaskandhaḥ) [spotless+essences+endowed-with](amalāsārairyuktaḥ) [to-be-made](kāryo) [house+lord](gṛhādhipaḥ)
 
 ## mukta-m0-p113-v2805
-[by-various-demons-filled](nānā+asura+ākulaḥ) [delightful](ramnaḥ) [Nandana](nandanaḥ) [delighting-the-gods](sura+nandanaḥ)
+[various+demons+filled-with](nānāsurākulo) [delightful](ramno) [Nandana](nandanaḥ) [gods+delighting](suranandanaḥ)
 
 ## mukta-m0-p113-v2806
-[in-sequence](kramāt)
+[in-order](kramāt)
 
 ## mukta-m0-p113-v2807
-[with-pairs](yugaiḥ) [with-waters](jalaiḥ)
+[with-pairs](ryugaiḥ) [with-waters](jalaiḥ)
 
 ## mukta-m0-p113-v2808
-[valabhī-and-candraśālā-fronted](valabhī+candraśālā+āsyā) [with-four](catuḥ) [noses-faces](nāsā+āsya) [joined](saṃyutā)
+[valabhī+moon+hall+faced](valabhīcandraśālāsyā) [four](catu) [nose+faced+endowed-with](rnāsāsyasaṃyutā)
 
 ## mukta-m0-p113-v2809
-[by-bherī-and-induśālikā](bherī+indu+śālikā) [by-two](dvābhyāṃ) [by-meru](meruṇā) [spire-elevation](śikhara+unnatiḥ)
+[kettle-drum+moon+hall](bherīnduśālikā) [by-two](dvābhyāṃ) [by-Meru](meruṇā) [spire+elevation](śikharonnatiḥ)
 
 ## mukta-m0-p113-v2810
-[kaṅkaṭa-part](kaṅkaṭa+aṃśaṃ) [indeed](tu) [having-contracted](saṅkocya) [spire](śikharaṃ) [on-south-side](dakṣa+bhāgataḥ)
+[armor+part](kaṅkaṭāṃśaṃ) [but](tu) [having-contracted](saṅkocya) [spire](śikharaṃ) [right+side](dakṣabhāgataḥ)
 
 ## mukta-m0-p113-v2811
-[resembling-meru-and-others](meru+ādya+ābhāḥ) [somewhere](kvacit) [to-be-made](kāryāḥ) [six-lions](ṣaṭ+siṃhāḥ) [pot-headed](kumbha+mastakā)
+[Meru+and-others+resembling](mervādyābhāḥ) [somewhere](kvacit) [to-be-made](kāryāḥ) [six+lions](ṣaṭsiṃhāḥ) [pot+headed](kumbhamastakā)
 
 ## mukta-m0-p113-v2812
-[on-two-sides-of-six-pairs](dvi+ṣaṭka+pārśvayoḥ) [to-be-placed](yojyaṃ) [two](dvau) [two](dvau) [for-life-breath](prāṇa+artham) [in-front](agrataḥ)
+[two+six+on-both-sides](dviṣaṭkapārśvayoḥ) [to-be-placed](yojyaṃ) [two](dvau) [two](dvau) [life+purpose](prāṇārtham) [in-front](agrataḥ)
 
 ## mukta-m0-p113-v2813
-[of-the-mountain-like](ghrācalasyake)
+[of-the-mountain+in](ghrācalasyake)
 
 ## mukta-m0-p113-v2814
-[womb-circular](garbha+vṛttaḥ) [with-artha-and-veda-corners](artha+veda+asraḥ) [eighth-part](aṣṭāṃśaḥ) [or](vā) [for-the-lord-of-gods](sura+adhipe)
+[womb+circular](garbhavṛttaḥ) [wealth+Veda+cornered](arthavedāsro) [eight+part](aṣṭāṃśo) [or](vā) [in-god+lord](surādhipe)
 
 ## mukta-m0-p113-v2815
-[circular](vṛttaḥ) [or](vā) [with-lotus](abjena) [joined](saṃyuktaḥ) [with-sixteen-or-half](ṣoḍaśa+ardha) [petals](dalena) [and](ca)
+[circular](vṛttaḥ) [or](vā) [with-lotus](abjena) [endowed-with](saṃyuktaḥ) [sixteen+half](ṣoḍaśārdha) [with-petal](dalena) [and](ca)
 
 ## mukta-m0-p113-v2816
-[with-one-door](eka+dvāra) [with-one-nose](eka+nāsaḥ) [and](ca) [named-Padma](padma+nāmā) [divine-temple](sura+ālayaḥ)
+[one+door+one+nose](ekadvāraikanāsaḥ) [and](ca) [Padma+named](padmanāmā) [god+abode](surālayaḥ)
 
 ## mukta-m0-p113-v2817
-[circular](vṛttaḥ) [being](san) [called-Valaya](valaya+āhvaḥ) [should-be](syāt) [all-around](paritaḥ) [with-rings-endowed](valaya+anvitaḥ)
+[circular](vṛttaḥ) [being](san) [Valaya+named](valayāhvaḥ) [should-be](syāt) [all-around](parito) [with-rings+endowed](valayānvitaḥ)
 
 ## mukta-m0-p113-v2818
-[oblation](homa) [dear-to-gods](amara+priyaḥ)
+[oblation](homa) [gods+beloved](amarapriyaḥ)
 
 ## mukta-m0-p113-v2819
-[with-nose-and-womb](nāsā+garbhaḥ) [and](ca) [with-four-corners](veda+asrau) [with-five-stories-elevation](pañca+bhūmi+ucchrayaḥ) [Vṛṣa](vṛṣaḥ)
+[nose+womb](nāsāgarbhaḥ) [and](ca) [Veda+cornered](vedāsrau) [five+story+height](pañcabhūmyucchrayo) [Vṛṣa](vṛṣaḥ)
 
 ## mukta-m0-p113-v2820
-[with-the-wall](jaṅgayā) [and](ca) [of-the-vimāna](vimānasya) [with-the-hip](kaṭyā) [of-the-Bhadrāhvaya](bhadrāhvayasya) [and](ca)
+[with-shank](jaṅgayā) [and](ca) [of-vimāna](vimānasya) [with-hip](kaṭyā) [of-Bhadra+named](bhadrāhvayasya) [and](ca)
 
 ## mukta-m0-p113-v2821
-[of-the-maker](kartuḥ) [according-to-desire](icchā+vaśāt) [another](anyaḥ) [to-be-placed](nyastavyaḥ) [or](vā) [auspicious-giving](śubha+pradaḥ)
+[of-maker](kartu) [desire](ricchā) [by-will](vaśāt) [another](anyo) [to-be-placed](nyastavyo) [or](vā) [auspicious+giving](śubhapradaḥ)
 
 ## mukta-m0-p113-v2822
-[with-wings](pakṣa+saṃyutā)
+[wing+endowed-with](pakṣasaṃyutā)
 
 ## mukta-m0-p113-v2823
-[with-stream](sasaryaṃ) [hip-neck-fronted](kaṭi+kaṇṭha+āsyaṃ) [in-the-constructed](viṣṭiṣṭe) [in-the-desire-for-bricks](iṣṭakā+kāmaye)
+[with-?](sasaryaṃ) [hip+neck+faced](kaṭikaṇṭhāsyaṃ) [in-?](viṣṭiṣṭe) [in-desire-for-bricks](tviṣṭakāmaye)
 
 ## mukta-m0-p113-v2824
-[in-the-directions](dikṣu) [all](sarve) [valabhī-and-others](balabhyā+ādyāḥ) [with-staircase-and-platform](sopāna+jagatī+yutāḥ)
+[in-directions](dikṣu) [all](sarve) [valabhī+and-others](balabhyādyāḥ) [staircase+platform+endowed-with](sopānajagatīyutāḥ)
 
 ## mukta-m0-p113-v2825
-[above](ūrdhve) [and](ca) [by-half](ardhena) [Haṃsa](haṃsaḥ) [should-be](syāt) [equal-to-womb](garbha+tulyā) [indeed](tu) [platform](vedikā)
+[above](ūrdhve) [and](ca) [by-half](ardhena) [Haṃsa](haṃsaḥ) [should-be](syāt) [womb+equal](garbhatulyā) [but](tu) [platform](vedikā)
