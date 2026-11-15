@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2148,
- "question": "How does the placement of six threads produce a six-cornered fire-pit there?",
+ "question": "What is cast into fire after casting blazing kusha pair in ghee?",
  "premises": [
-  "Six threads are laid down there.",
-  "Their placement determines the form.",
-  "The resulting form is a fire-pit."
+  "Blazing kusha pair is in ghee.",
+  "It is cast in fire.",
+  "Then casting follows."
  ],
- "inference": "By the placement of six threads there, the fire-pit becomes six-cornered.",
- "uncertainties": [],
- "plain_english": "There, by the laying down of six threads, the fire-pit should become six-cornered."
+ "inference": "A further casting follows the blazing kusha pair.",
+ "uncertainties": [
+  "The second cast object is not explicit."
+ ],
+ "plain_english": "Having cast blazing kusha pair in ghee into fire, then cast."
 }

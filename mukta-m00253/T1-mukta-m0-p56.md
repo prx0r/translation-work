@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[apūpa](apūpaṃ) [pṛthuka](pṛthukaṃ) [ca](ca) [eva](eva) [phaṭkulī](phaṭkulī) [ca](ca) [samanvita](samanvitam)
+[rice-cake](apūpaṃ) [flattened-rice](pṛthukaṃ) [and-also](caiva) [phaṭkulī](phaṭkulī) [and](ca) [together-with](samanvitam)
 
 ## mukta-m0-p56-v1377
-[nivedayet](nivedayettu) [tu](tu) [śarva](śarvāya) [kṣetrapāla](kṣetrapālāṃśca) [ca](ca) [pūjayet](pūjayet)
+[offer](nivedayettu) [to-śarva](śarvāya) [field-protectors-and](kṣetrapālāṃśca) [worship](pūjayet)
 
 ## mukta-m0-p56-v1378
-[samudra-ghoṣa](samudraghoṣo) [vāyu-ghoṣa](vāyughoṣo) [anala-akṣa](analākṣaḥ) [pramardana](pramardanaḥ)
+[ocean-roar](samudraghoṣo) [wind-roar](vāyughoṣo) [fire-eyed](analākṣaḥ) [crusher](pramardanaḥ)
 
 ## mukta-m0-p56-v1379
-[nīla-jīmūta](nīlajīmūta) [saṃkāśa](saṃkāśa) [ūrdhva-keśa](ūrdhvakeśasamanvitam) [samanvita](samanvitam)
+[blue-cloud](nīlajīmūta) [resembling](saṃkāśa) [upward-hair](ūrdhvakeśa)+[together-with](samanvitam)
 
 ## mukta-m0-p56-v1380
-[evam-eva](evameva) [krameṇa-eva](krameṇaiva) [pūjayet](pūjayeddeśikottamaḥ) [deśika-uttama](deśikottamaḥ)
+[thus](evameva) [in-order](krameṇaiva) [worship](pūjayed) [best-teacher](deśikottamaḥ)
 
 ## mukta-m0-p56-v1381
-[śiras](śiro) [hastau](hastau) [dvijānu](dvijānvośca) [ca](ca) [cibuka](cibukaṃ) [bāhu-yuk](bāhuyuk) [tathā](tathā)
+[head](śiro) [hands](hastau) [two-knees-and](dvijānvośca) [chin](cibukaṃ) [with-arms](bāhuyuk) [thus](tathā)
 
 ## mukta-m0-p56-v1382
-[śiras](śiro) [hastau](hastau) [dvijānu](dvijānū) [ca](ca) [paṃcāṅga](paṃcāṃgamihocyate) [iha](iha) [ucyate](ucyate)
+[head](śiro) [hands](hastau) [two-knees](dvijānū) [and](ca) [five-limbs-here-called](paṃcāṃgamihocyate)
 
 ## mukta-m0-p56-v1383
-[paṃca-āvaraṇa](paṃcāvaraṇaṃ) [prokta](proktaṃ) [eka-āvaraṇa](ekāvaraṇamucyate) [ucyate](ucyate)
+[five-covering](paṃcāvaraṇaṃ) [said](proktaṃ) [one-covering](ekāvaraṇam) [is-called](ucyate)
 
 ## mukta-m0-p56-v1384
-[vimala-āsana](vimalāsanaṃ) [tṛtīya](tṛtīyaṃ) [syāt](syād) [āsana](āsanaṃ) [trīṇi](trīṇi) [kalpayet](kalpayet)
+[pure-seat](vimalāsanaṃ) [third](tṛtīyaṃ) [may-be](syād) [seat](āsanaṃ) [three](trīṇi) [arrange](kalpayet)
 
 ## mukta-m0-p56-v1385
-[eka-āvaraṇa](ekāvaraṇamevoktaṃ) [eva](eva) [ukta](uktaṃ) [pūjayet](pūjayeddeśikassadā) [deśika](deśikassadā) [sadā](sadā)
+[one-covering-only-said](ekāvaraṇamevoktaṃ) [worship](pūjayed) [teacher-always](deśikassadā)
 
 ## mukta-m0-p56-v1386
-[agni-kārya](agnikāryaṃ) [tataḥ](tataḥ) [kuryāt](kuryāllakṣaṇena) [lakṣaṇena](lakṣaṇena) [samanvita](samanvitam)
+[fire-rite](agnikāryaṃ) [then](tataḥ) [do](kuryāt) [with-marks](lakṣaṇena) [together](samanvitam)
 
 ## mukta-m0-p56-v1387
-[gandha-puṣpa-ādinā](gandhapuṣpādinā) [ca](ca) [eva](eva) [agni-deva](agnidevaṃ) [samarcayet](samarcayet)
+[with-incense-flowers-etc](gandhapuṣpādinā) [and-also](caiva) [fire-god](agnidevaṃ) [worship](samarcayet)
 
 ## mukta-m0-p56-v1388
-[prāsāda](prāsādena) [mantreṇa](mantreṇa) [śive](śive) [daśa-āhuti](daśāhutiṃ) [hunet](hunet)
+[with-prāsāda](prāsādena) [but](tu) [mantra](mantreṇa) [to-śiva](śive) [ten-offerings](daśāhutiṃ) [offer](hunet)
 
 ## mukta-m0-p56-v1389
-[paṃca-brahma-śiva-aṅga](paṃcabrahmaśivāṃgānāṃ) [ekaikam](ekaikaṃ) [homayet](homayettadā) [tadā](tadā)
+[five-brahma-śiva-limbs](paṃcabrahmaśivāṃgānāṃ) [one-by-one](ekaikaṃ) [offer](homayet) [then](tadā)
 
 ## mukta-m0-p56-v1390
-[eka-āhuti](ekāhutiṃ) [ca](ca) [hotavya](hotavyaṃ) [tat-tat-sva-nāma-mantrataḥ](tattatsvanāmamantrataḥ)
+[one-offering](ekāhutiṃ) [and](ca) [to-be-offered](hotavyaṃ) [by-respective-name-mantra](tattatsvanāmamantrataḥ)
 
 ## mukta-m0-p56-v1391
-[pustaka-ārādhana](pustakārādhanaṃ) [tatra](tatra) [gandha-puṣpa-ādinā](gandhapuṣpādinā) [saha](saha)
+[book-worship](pustakārādhanaṃ) [there](tatra) [with-incense-flowers-etc](gandhapuṣpādinā) [with](saha)
 
 ## mukta-m0-p56-v1392
-[ukta-anukta](uktānuktaṃ) [ca](ca) [tat-sarva](tatsarvaṃ) [hṛdayena](hṛdayena) [tu](tu) [dāpayet](dāpayet)
+[said-unsaid](uktānuktaṃ) [and](ca) [all-that](tatsarvaṃ) [by-heart](hṛdayena) [but](tu) [give](dāpayet)
 
 ## mukta-m0-p56-v1393
-[praviśya](praviśya) [vigṛha](vigṛhaṃ) [paścāt](paścād) [gṛha-devān](gṛhadevānsamarcayet) [samarcayet](samarcayet)
+[entering](praviśya) [temple](vigṛhaṃ) [afterwards](paścād) [house-gods](gṛhadevān) [worship](samarcayet)
 
 ## mukta-m0-p56-v1394
-[tasmāt](tasmātsarvaprayatnena) [sarva-prayatnena](sarvaprayatnena) [pūjayet](pūjayecchivamādarāt) [śivam](śivamādarāt) [ādarāt](ādarāt)
+[therefore](tasmāt) [with-all-effort](sarvaprayatnena) [worship](pūjayet) [śiva](śivam) [with-respect](ādarāt)
 
 ## mukta-m0-p56-v1395
-[ātma-artha](ātmārthaṃ) [pūjayet](pūjayed) [nitya](nityaṃ) [cala-liṅga](calaliṃgaṃ) [viśeṣataḥ](viśeṣataḥ)
+[for-self](ātmārthaṃ) [worship](pūjayet) [daily](nityaṃ) [movable-liṅga](calaliṃgaṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p56-v1396
-[ābhicāra](ābhicāraṃ) [kariṣyāmi](kariṣyāmi) [ekadhā](ekadhā) [daśadhā](daśadhā) [tataḥ](tataḥ)
+[abhicāra](ābhicāraṃ) [I-will-do](kariṣyāmi) [once](ekadhā) [tenfold](daśadhā) [then](tataḥ)
 
 ## mukta-m0-p56-v1397
-[evam-eva](evameva) [krameṇa-eva](krameṇaiva) [arcayet](arcayeddeśikassadā) [deśika](deśikassadā) [sadā](sadā)
+[thus](evameva) [in-order](krameṇaiva) [worship](arcayed) [teacher-always](deśikassadā)
 
 ## mukta-m0-p56-v1398
-[arcanā](arcanāyā) [vidhi](vidhiḥ) [prokta](proktaḥ) [agni-kārya](agnikāryaṃ) [tataḥ](tataḥ) [śṛṇu](śṛṇu)
+[of-worship](arcanāyā) [rite](vidhiḥ) [said](proktaḥ) [fire-rite](agnikāryaṃ) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p56-v1399
-[iti](iti) [vīra-tantre](vīratantre) [arcanā-vidhi](arcanāvidhiḥ) [aṣṭatriṃśa](aṣṭatriṃśaḥ) [paṭala](paṭalaḥ)
+[thus](iti) [in-Vīratantra](vīratantre) [worship-rite](arcanāvidhiḥ) [thirty-eighth](aṣṭatriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p56-v1400
-[kīdṛśa](kīdṛśaṃ) [ca](cāgnikāryaṃ) [agni-kārya](agnikāryaṃ) [ca](ca) [tat-sarva](tatsarvaṃ) [brūhi](brūhi) [me](me) [prabho](prabho)
+[what-kind](kīdṛśaṃ) [and](ca) [fire-rite](agnikāryaṃ) [and](ca) [all-that](tatsarvaṃ) [tell](brūhi) [me](me) [lord](prabho)

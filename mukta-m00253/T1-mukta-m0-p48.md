@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[trikoṇa](triangle) [maṇḍale](in-mandala) [vidyāt](know) [advitīyam](second) [vicintayet](meditate)
+[triangle-mandala-loc](trikoṇamaṇḍale) [knowledge-acc](vidyād) [second-acc](advitīyaṃ) [contemplate-opt](vicintayet)
 
 ## mukta-m0-p48-v1177
-[bhasma](ash) [bhūtaḥ](become) [śivam](śiva) [dhyātvā](meditating) [amṛtam](nectar) [plāvanam](flooding) [kuru](do)
+[ash-become-nom](bhasmabhūtaḥ) [shiva-acc](śivaṃ) [meditate-ger](dhyātvā) [nectar-acc](amṛtaṃ) [flooding-acc](plāvanaṃ) [do-imp](kuru)
 
 ## mukta-m0-p48-v1178
-[śveta](white) [padma](lotus) [pariṣṭāt](around) [tu](and) [candra](moon) [bimbam](disc) [adhomukham](downward-facing)
+[white-lotus-nom](śvetapadmo) [around-loc](pariṣṭāttu) [moon-disk-acc](candrabimbam) [downward-faced-acc](adhomukham)
 
 ## mukta-m0-p48-v1179
-[cintayet](meditate) [amṛtam](nectar) [toyam](water) [suṣumnā](suṣumnā) [bhinnam](pierced) [astakam](head)
+[contemplate-opt](cintayed) [nectar-acc](amṛtaṃ) [water-acc](toyaṃ) [sushumna-unbroken-head-acc](suṣumnābhinnamastakam)
 
 ## mukta-m0-p48-v1180
-[mṛtyu](death) [nāśanam](destruction) [evam](thus) [tu](indeed) [iti](thus) [śāstrasya](of-scripture) [niścayaḥ](certainty)
+[death-destruction-nom](mṛtyunāśanamevaṃ) [tu](tu) [iti](iti) [scripture-gen](śāstrasya) [certainty-nom](niścayaḥ)
 
 ## mukta-m0-p48-v1181
-[recakam](exhalation) [pūrakam](inhalation) [ca](and) [eva](indeed) [kumbhakam](retention) [trividham](threefold) [matam](considered)
+[exhalation-acc](recakaṃ) [inhalation-acc](pūrakaṃ) [ca](ca) [eva](eva) [retention-acc](kumbhakaṃ) [threefold-nom](trividhaṃ) [considered-nom](matam)
 
 ## mukta-m0-p48-v1182
-[āpūrṇa](full) [kumbhavat](like-pot) [tiṣṭhet](stand) [acalasya](of-immovable) [tu](and) [kumbhakam](retention)
+[full-pot-like-nom](āpūrṇakumbhavattiṣṭhed) [immovable-gen](acalasya) [tu](tu) [retention-nom](kumbhakam)
 
 ## mukta-m0-p48-v1183
-[hastābhyām](with-hands) [saṃspṛśet](touch) [pūrvam](first) [kādi](kā-series) [pādāntam](to-foot-end) [eva](indeed) [ca](and)
+[hands-ins](hastābhyāṃ) [touch-opt](saṃspṛśet) [first-acc](pūrvaṃ) [ka-to-pada-end-acc](kādipādāntameva) [ca](ca)
 
 ## mukta-m0-p48-v1184
-[divi](in-sky) [dikṣu](in-directions) [ca](and) [dātavyam](to-be-given) [ūrdhva](upward) [adhaḥ](downward) [ca](and) [eva](indeed) [vinyaset](place)
+[heaven-loc](divi) [directions-loc](dikṣu) [ca](ca) [give-ger](dātavyaṃ) [upward-downward-acc](ūrdhvādhaścaiva) [place-opt](vinyaset)
 
 ## mukta-m0-p48-v1185
-[galāt](from-throat) [dve](two) [tejas](radiance) [saṃśuddhi](purification) [lalāṭāt](from-forehead) [vāyu](air) [śudhyati](purifies)
+[throat-abl](galāddve) [fire-purification-nom](tejasaṃśuddhi) [forehead-abl](lalāṭādvāyu) [purified-nom](śudhyati)
 
 ## mukta-m0-p48-v1186
-[prathamam](first) [sṛṣṭi](creation) [nyāsam](placement) [tu](indeed) [sthiti](maintenance) [nyāsam](placement) [dvitīyakam](second)
+[first-acc](prathamaṃ) [creation-nyasa-acc](sṛṣṭinyāsaṃ) [tu](tu) [maintenance-nyasa-acc](sthitinyāsaṃ) [second-acc](dvitīyakam)
 
 ## mukta-m0-p48-v1187
-[gṛhasthaḥ](householder) [sṛṣṭi](creation) [mārgeṇa](by-path) [brahmacārī](celibate) [sthitiḥ](maintenance) [bhavet](becomes)
+[householder-nom](gṛhasthaḥ) [creation-path-ins](sṛṣṭimārgeṇa) [brahmachari-nom](brahmacārī) [maintenance-nom](sthitirbhavet)
 
 ## mukta-m0-p48-v1188
-[aṃguṣṭha](thumb) [ādi](beginning) [kaniṣṭha](little-finger) [antaṃ](to-end) [sṛṣṭi](creation) [nyāsam](placement) [udāhṛtam](declared)
+[thumb-to-little-end-acc](aṃguṣṭhādi) [kaniṣṭhāntaṃ](kaniṣṭhāntaṃ) [creation-nyasa-acc](sṛṣṭinyāsamudāhṛtam)
 
 ## mukta-m0-p48-v1189
-[īśānam](īśāna) [mūrdhni](on-head) [vinyasya](placing) [mukhe](in-mouth) [tatpuruṣam](tatpuruṣa) [nyaset](place)
+[ishana-acc](īśānaṃ) [head-loc](mūrdhni) [placing-ger](vinyasya) [mouth-loc](mukhe) [tatpurusha-acc](tatpuruṣaṃ) [place-opt](nyaset)
 
 ## mukta-m0-p48-v1190
-[sadyojāte](sadyojāta) [nyaset](place) [pādau](feet) [punar](again) [aṃgāni](limbs) [vinyaset](place)
+[sadyojata-loc](sadyojāte) [place-opt](nyaset) [feet-acc](pādau) [again](punaraṃgāni) [place-opt](vinyaset)
 
 ## mukta-m0-p48-v1191
-[brahmāṇam](brahmā) [mūrdhni](on-head) [vinyasya](placing) [lalāṭe](on-forehead) [viṣṇuḥ](viṣṇu) [ucyate](is-called)
+[brahma-acc](brahmāṇaṃ) [head-loc](mūrdhni) [placing-ger](vinyasya) [forehead-loc](lalāṭe) [vishnu-nom](viṣṇurucyate)
 
 ## mukta-m0-p48-v1192
-[sarasvatīm](sarasvatī) [tu](and) [vaśvāre](in-vaśvāra) [hṛdaye](in-heart) [īśvaram](īśvara) [tathā](also)
+[sarasvati-acc](sarasvatīṃ) [tu](tu) [heart-loc](vaśvāre) [heart-loc](hṛdaye) [ishvara-acc](īśvaraṃ) [tathā](tathā)
 
 ## mukta-m0-p48-v1193
-[subrahmaṇyasya](of-subrahmaṇya) [liṃge](in-liṅga) [ca](and) [pārśvayoḥ](on-sides) [ambikā](ambikā) [tathā](also)
+[subrahmanya-gen](subrahmaṇyasya) [linga-loc](liṃge) [ca](ca) [side-loc-dual](pārśvayorambikā) [tathā](tathā)
 
 ## mukta-m0-p48-v1194
-[akāram](a) [mūrdhni](on-head) [vinyasya](placing) [ākāram](ā) [tu](and) [lalāṭake](on-forehead)
+[a-kara-acc](akāraṃ) [head-loc](mūrdhni) [placing-ger](vinyasya) [aa-kara-acc](ākāraṃ) [tu](tu) [forehead-loc](lalāṭake)
 
 ## mukta-m0-p48-v1195
-[ukāram](u) [dakṣiṇe](right) [nāse](nostril) [ūkāram](ū) [vāma](left) [nāsike](nostril)
+[u-kara-acc](ukāraṃ) [right-loc](dakṣiṇe) [nose-loc](nāse) [uu-kara-acc](ūkāraṃ) [left-nose-loc](vāmanāsike)
 
 ## mukta-m0-p48-v1196
-[ḷkāram](ḷ) [dakṣiṇe](right) [gaṇḍe](cheek) [ṝkāram](ṝ) [vāma](left) [gaṇḍake](cheek)
+[ṛ-kara-acc](ḷkāraṃ) [right-loc](dakṣiṇe) [cheek-loc](gaṇḍe) [ṝ-kara-acc](ḷkāraṃ) [left-cheek-loc](vāmagaṇḍake)
 
 ## mukta-m0-p48-v1197
-[danta](tooth) [paṃkti](row) [dvaye](two) [nyasya](placing) [aṃaḥ](aṃ) [parikīrtitau](declared)
+[tooth-row-dual-loc](dantapaṃktidvaye) [placing-ger](nyasya) [am-ah-praised-dual](aṃaḥ) [parikīrtitau](parikīrtitau)
 
 ## mukta-m0-p48-v1198
-[ṭavargam](ṭ-group) [dakṣiṇe](right) [pāde](foot) [tavargam](t-group) [vāma](left) [pādake](foot)
+[ṭa-varga-acc](ṭavargaṃ) [right-loc](dakṣiṇe) [foot-loc](pāde) [ta-varga-acc](tavargaṃ) [left-foot-loc](vāmapādake)
 
 ## mukta-m0-p48-v1199
-[makāram](ma) [hṛdaye](in-heart) [nyasya](placing) [yakāram](ya) [tvaci](on-skin) [vinyaset](place)
+[ma-kara-acc](makāraṃ) [heart-loc](hṛdaye) [placing-ger](nyasya) [ya-kara-acc](yakāraṃ) [skin-loc](tvaci) [place-opt](vinyaset)
 
 ## mukta-m0-p48-v1200
-[vakāram](va) [medo](fat) [deśe](region) [tu](and) [śakāram](śa) [ca](and) [asthi](bone) [deśake](region)
+[va-kara-acc](vakāraṃ) [fat-region-loc](medodeśe) [tu](tu) [sha-kara-acc](śakāraṃ) [ca](ca) [bone-region-loc](asthideśake)

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "rasanā",
+     "gloss": "tongue",
+     "grounds": "legacy hint tongue; nominative feminine singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "second person singular pronoun",
+     "morph": "pron.2.sg"
+    },
+    {
+     "surface": "caṇḍikāyāḥ",
+     "gloss": "of-caṇḍikā",
+     "grounds": "genitive feminine singular of caṇḍikā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "suralokaprasādhakaḥ",
+     "gloss": "heaven-world-beautifier",
+     "grounds": "compound adjective nominative masculine singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What role does the tongue play as beautifier of the heavenly world for Caṇḍikā?",
+   "premises": [
+    "rasanā is addressed as you",
+    "it belongs to caṇḍikā",
+    "it beautifies heaven-world"
+   ],
+   "inference": "The tongue is praised as Caṇḍikā's beautifier of the heavenly world.",
+   "uncertainties": [
+    "exact ritual context unclear",
+    "compound parsing uncertain"
+   ],
+   "plain_english": "You, the tongue, are Caṇḍikā's beautifier of the heavenly world."
+  }
+ ]
+}

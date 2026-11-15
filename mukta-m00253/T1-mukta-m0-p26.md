@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[one-rudra](ekarudrastrimūrtiśca) [three-form](ekarudrastrimūrtiśca) [and](ca) [shri-kantha](śrīkaṇṭhaśca) [and](ca) [peacock-feathered](śikhaṇḍi) [and](ca)
+[one-rudra+three-form+and](ekarudrastrimūrtiśca) [srikantha+and](śrīkaṇṭhaśca) [sikhandi](śikhaṇḍi) [and](ca)
 
 ## mukta-m0-p26-v627
-[goloka](golokaṃ) [shiva-loka](śivalokaṃ) [and](ca) [in-order](kramameṣāṃ) [declared](prakīrtitam)
+[goloka](golokaṃ) [shiva-world](śivalokaṃ) [and](ca) [in-order](kramam) [of-these](eṣāṃ) [declared](prakīrtitam)
 
 ## mukta-m0-p26-v628
-[from-navel-root](nābhimūlātsamārabhya) [until](yāvaddhṛdayadeśakam) [heart-region](yāvaddhṛdayadeśakam)
+[from-navel-root](nābhimūlāt) [beginning](samārabhya) [until](yāvat) [heart-region](hṛdayadeśakam)
 
 ## mukta-m0-p26-v629
-[a-kara](akāraṃ) [at-head-place](mūrdhnideśe) [tu](tu) [a-kara](ākāraṃ) [tu](tu) [forehead](lalāṭake)
+[a-kara](akāraṃ) [at-head-place](mūrdhnideśe) [tu](tu) [a-kara](ākāraṃ) [at-forehead](lalāṭake)
 
 ## mukta-m0-p26-v630
-[ḷ-kara](ḷkāraṃ) [right-cheek](dakṣiṇe) [gaṇḍe](gaṇḍe) [ḷ-kara](ḷkāraṃ) [left-cheek](vāmagaṇḍake)
+[l-kara](ḷkāraṃ) [right-cheek](dakṣiṇe+gaṇḍe) [l-long-kara](ḷkāraṃ) [left-cheek](vāmagaṇḍake)
 
 ## mukta-m0-p26-v631
-[tooth-row-two](dantapaṃktidvaye) [place](nyasya) [aṃ](aṃ) [aḥ](aḥ) [syllable-two](ityakṣaradvayam)
+[tooth-row-two](dantapaṃktidvaye) [placing](nyasya) [am](aṃ) [ah](aḥ) [syllable-two](ityakṣaradvayam)
 
 ## mukta-m0-p26-v632
-[ṭa-varga](ṭavargaṃ) [right-foot](dakṣiṇe) [pāde](pāde) [ta-varga](tavargaṃ) [left-foot](vāmapādake)
+[t-varga](ṭavargaṃ) [right-foot](dakṣiṇe+pāde) [t-varga](tavargaṃ) [left-foot](vāmapādake)
 
 ## mukta-m0-p26-v633
-[ma-kara](makāraṃ) [heart](hṛdaye) [place](nyasya) [ya-kara](yakāraṃ) [also](caiva) [place](vinyaset)
+[ma-kara](makāraṃ) [at-heart](hṛdaye) [placing](nyasya) [ya-kara](yakāraṃ) [also](ca+eva) [place](vinyaset)
 
 ## mukta-m0-p26-v634
-[la-kara](lakāraṃ) [fat](mede) [place](vinyasya) [śa-kara](śakāraṃ) [and](ca) [upper-place](ādhideśake)
+[la-kara](lakāraṃ) [in-fat](mede) [placing](vinyasya) [sha-kara](śakāraṃ) [at-upper-place](cādhideśake)
 
 ## mukta-m0-p26-v635
-[ha-kara](hakāraṃ) [prāṇa](prāṇamityāhu) [la-kara](lakāraṃ) [genital](meḍhrameva) [ca](ca)
+[ha-kara](hakāraṃ) [prana](prāṇam) [thus-say](ityāhu) [la-kara](lakāraṃ) [genital](meḍhrameva) [ca](ca)
 
 ## mukta-m0-p26-v636
-[thirty-nine](navatriṃśatkalā) [kalā](kalā) [brāhmaṇa](vipra) [from-ka-to-pāda-end](kādipādāntavinyaset)
+[thirty-nine-kalas](navatriṃśatkalā) [brahmin](vipra) [from-ka-to-pa-ending](kādipādānta) [place](vinyaset)
 
 ## mukta-m0-p26-v637
-[nivṛtti](nivṛttiśca) [pratiṣṭhā](pratiṣṭhā) [vidyā](vidyā) [śānti](śāntistathaiva) [ca](ca)
+[nivritti](nivṛttiśca) [pratishtha](pratiṣṭhā) [ca](ca) [vidya](vidyā) [shanti](śāntiḥ) [thus](tathaiva) [ca](ca)
 
 ## mukta-m0-p26-v638
-[then](tato) [moha](mohau) [hunger](kṣudhānidrā) [sleep](kṣudhānidrā) [death](mṛtyumāyajarā) [māyā](māyā) [old-age](jarā) [by-me](mayā)
+[then](tato) [mohas](mohau) [hunger](kṣudhā) [sleep](nidrā) [death](mṛtyum) [maya](māyā) [old-age](jarā) [by-me](mayā)
 
 ## mukta-m0-p26-v639
-[dhṛti](dhṛtiḥ) [kāryā](kāryā) [ca](ca) [night](rātrī) [ca](ca) [bhrāmaṇī](bhrāmaṇī) [mohinī](mohinī) [tathā](tathā)
+[dhriti](dhṛtiḥ) [karya](kāryā) [ca](ca) [night](rātrī) [ca](ca) [bhramani](bhrāmaṇī) [mohini](mohinī) [thus](tathā)
 
 ## mukta-m0-p26-v640
-[thirty-nine-kalā-spread](navatriṃśatkalāvyātā) [deva-of-devas](devadevena) [meditate](dhīmahi)
+[thirty-nine-kalas-spread](navatriṃśatkalāvyātā) [god-of-gods](devadevena) [we-meditate](dhīmahi)
 
 ## mukta-m0-p26-v641
-[ākāśa](ākāśaṃ) [head](mūrdhni) [place](vinyasya) [five-elements](paṃcatatvānkramānnyaset)
+[space](ākāśaṃ) [at-head](mūrdhni) [placing](vinyasya) [five-elements](paṃcatatvān) [in-order](kramān) [place](nyaset)
 
 ## mukta-m0-p26-v642
-[elements](tatvā) [vaiśya-ghora](vaiśyaghoreṇa) [world-path](bhuvanādhvā) [puruṣa](puruṣeṇa) [tu](tu)
+[elements](tatvā) [by-vaishya-ghora](vaiśyaghoreṇa) [world-path](bhuvanādhvā) [by-purusha](puruṣeṇa) [tu](tu)
 
 ## mukta-m0-p26-v643
-[thus](evameva) [in-order](krameṇaiva) [then](tataḥ) [disciple-body](śiṣyadehe) [place](nyasettataḥ)
+[thus](evameva) [in-order](krameṇaiva) [in-disciple-body](śiṣyadehe) [place](nyaset) [then](tataḥ)
 
 ## mukta-m0-p26-v644
-[heart](hṛdaye) [brahma](brahmaṇaḥ) [said](proktaṃ) [aśvinī](aśvinyāṃ) [hands](hastayornyaset)
+[at-heart](hṛdaye) [of-brahma](brahmaṇaḥ) [said](proktaṃ) [in-ashvini](aśvinyāṃ) [at-hands](hastayor) [place](nyaset)
 
 ## mukta-m0-p26-v645
-[teacher](deśikaścātmanā) [by-self](deśikaścātmanā) [brāhmaṇa](vipra) [śiva](śivastatraiva) [there](tiṣṭhati)
+[teacher](deśikaś) [by-self](cātmanā) [brahmin](vipra) [shiva](śivaḥ) [there](tatraiva) [stands](tiṣṭhati)
 
 ## mukta-m0-p26-v646
-[which-thing](yaddravyaṃ) [vessel-remainder](pātraśeṣādi) [of-śiva](śivasya) [supreme-lord](parameṣṭhinaḥ)
+[which-thing](yaddravyaṃ) [vessel-remainder-etc](pātraśeṣādi) [of-shiva](śivasya) [supreme-lord](parameṣṭhinaḥ)
 
 ## mukta-m0-p26-v647
-[śiva](śivamuddiśya) [aiming](śivamuddiśya) [all](sarvaṃ) [tu](tu) [cloth-grain-gold-etc](vastradhānyādikāñcanam)
+[for-shiva](śivamuddiśya) [all](sarvaṃ) [tu](tu) [cloth-grain-gold-etc](vastradhānyādikāñcanam)
 
 ## mukta-m0-p26-v648
-[initiation-rite](dīkṣāvidhiriti) [said](proktaṃ) [abhiṣeka](abhiṣekamataḥ) [then](śṛṇu)
+[initiation-rite](dīkṣāvidhiḥ) [thus](iti) [said](proktaṃ) [abhisheka](abhiṣekam) [therefore](ataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p26-v649
-[thus](iti) [vīra-tantra](vīratantre) [initiation-rite](dīkṣāvidhiḥ) [ninth](navamaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-vira-tantra](vīratantre) [initiation-rite](dīkṣāvidhiḥ) [ninth](navamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p26-v650
-[abhiṣeka](abhiṣekaṃ) [how](kathaṃ) [deva](deva) [that-all](tatsarvaṃ) [speak](vada) [me](me) [lord](prabho)
+[abhisheka](abhiṣekaṃ) [how](kathaṃ) [deva](deva) [that-all](tatsarvaṃ) [speak](vada) [me](me) [lord](prabho)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[wheat](godhūma) [barley](yava) [mung-beans](mudgāṃś) [and](ca) [mustard](sarṣapaṃ) [and](ca) [in-order](yathākramam)
+[wheat+barley+mung-beans](godhūmayavamudgāṃśca) [and](ca) [mustard](sarṣapaṃ) [and](ca) [in-order](yathākramam)
 
 ## mukta-m0-p28-v677
-[lakshmi](lakṣmī) [and](ca) [sahadevi](sahādevī) [and](ca) [vishnukranti](viṣṇukrāntiṃ) [three](trayaṃ) [bala](balā)
+[lakshmi](lakṣmī) [and](ca) [saha-devi](sahādevī) [and](ca) [vishnu-kranti](viṣṇukrāntiṃ) [trayambala](trayaṃbalā)
 
 ## mukta-m0-p28-v678
-[place](vinyaset) [then](tu) [specially](viśeṣeṇa) [each-own-name-mantra](svasvanāmānumantrataḥ)
+[place](vinyasettu) [specially](viśeṣeṇa) [by-own-name-mantra](svasvanāmānumantrataḥ)
 
 ## mukta-m0-p28-v679
-[eight-directions](aṣṭadikṣu) [and](ca) [homa](homaḥ) [is](syāt) [with-mark](lakṣaṇena) [endowed](samanvitam)
+[in-eight-directions](aṣṭadikṣu) [and](ca) [homa](homaḥ) [should-be](syāt) [with-marks](lakṣaṇena) [endowed](samanvitam)
 
 ## mukta-m0-p28-v680
-[palasha](palāśa) [khadira](khadira) [ashvattha](aśvattha) [plaksha](plakṣa) [nyagrodha](nyagrodha) [bilva](bilvaiḥ)
+[palasha](palāśa) [khadira](khadira) [ashvattha](aśvattha) [plaksha](plakṣa) [nyagrodha](nyagrodha) [bilva](bilvakaiḥ)
 
 ## mukta-m0-p28-v681
-[firewood](samid) [ghee](ājya) [oblation](caru) [parched-grain](lājān) [sesame](tilān) [also](api) [and](yava) [rice](śāli)
+[samid](samid) [ajya](ājya) [caru](caru) [laja](lājān) [nyava](nyava) [shali](śāli) [tila](tilān) [also](api)
 
 ## mukta-m0-p28-v682
-[as-long-as](yāvat) [pot-number](kumbhasaṃkhyā) [so-long](tāvat) [number](saṃkhyā) [then](tu) [offer](homayet)
+[as-many-as](yāvat) [indeed](vai) [pot-count](kumbhasaṃkhyā) [indeed](tu) [that-many](tāvat) [count](saṃkhyā) [indeed](tu) [offer](homayet)
 
 ## mukta-m0-p28-v683
-[sacrifice-place](yāgasthānasya) [western](vāruṇyāṃ) [mahadeva](mahādevasya)
+[of-sacrifice-place](yāgasthānasya) [in-varuni](vāruṇyāṃ) [of-mahadeva](mahādevasya) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p28-v684
-[study](adhyayanaṃ) [and](ca) [should-be-done](kartavyaṃ) [four-vedas](caturvedaiḥ) [four-directions](caturdiśi)
+[study](adhyayanaṃ) [and](ca) [should-be-done](kartavyaṃ) [by-four-vedas](caturvedaiḥ) [in-four-directions](caturdiśi)
 
 ## mukta-m0-p28-v685
-[sacrifice-place](yāgasthānasya) [western](vāruṇyāṃ) [mahadeva](mahādevasya) [east](pūrvataḥ)
+[of-sacrifice-place](yāgasthānasya) [in-varuni](vāruṇyāṃ) [of-mahadeva](mahādevasya) [before](pūrvataḥ)
 
 ## mukta-m0-p28-v686
-[brahma](brahmair) [limbs](aṃgaiḥ) [and](ca) [joined](saṃyukta) [sky](vyoma) [vyapi](vyāpi) [endowed](samāyutam)
+[with-brahma-limbs](brahmairaṃgaiḥ) [and](ca) [joined](saṃyukta) [sky-vya-pi-endowed](vyomavyā(pi)samāyutam)
 
 ## mukta-m0-p28-v687
-[sandal](gandha) [flowers](puṣpādinā) [worship](pūjya) [temple](prāsādena) [then](tu) [mantra](mantrataḥ)
+[with-scent-flowers-etc](gandhapuṣpādinā) [worship](pūjya) [with-palace](prāsādena) [indeed](tu) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p28-v688
-[that](sā) [varnaka](varṇaka) [here](atra) [first](ādya) [end](anta) [lion](siṃha) [food](bhojanam)
+[she](sā) [varnaka](varṇaka) [*](*) [atraadya](atrādya) [*](*) [nta](nta) [lion-day](siṃhahani) [food](bhojanam)
 
 ## mukta-m0-p28-v689
-[mountain-vehicle](parvatavāhanam)
+[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [mountain-vehicle](parvatavāhanam)
 
 ## mukta-m0-p28-v690
-[to-teacher](ācāryāya) [give](pradātavyaṃ) [honor](mānaṃ) [and](ca) [offer](nivedayet)
+[to-teacher](ācāryāya) [should-be-given](pradātavyaṃ) [honor](mānaṃ) [and](ca) [report](nivedayet)
 
 ## mukta-m0-p28-v691
-[with-gula](sagulaṃ) [cow-ghee](goghṛtaiḥ) [joined](yuktaṃ) [banana-fruit](kadalīphala) [with](saṃyutam)
+[with-gula](sagulaṃ) [cow-ghee-joined](goghṛtairyuktaṃ) [banana-fruit-joined](kadalīphalasaṃyutam)
 
 ## mukta-m0-p28-v692
-[teacher](ācāryaḥ) [with-disciple](śiṣyasaṃyuktaṃ) [feed](bhojayet) [ritual-first](vidhipūrvakam)
+[teacher-disciple-joined](ācāryaḥśiṣyasaṃyuktaṃ) [feed](bhojayed) [according-to-rite](vidhipūrvakam)
 
 ## mukta-m0-p28-v693
-[parched-grain-end](lājānta) [joined](saṃyuktam) [cake](apūvaṃ) [ghee-joined](ghṛtasaṃyutam)
+[parched-rice-end](lājānta) [joined](saṃyuktam) [apupa](apūvaṃ) [ghee-joined](ghṛtasaṃyutam)
 
 ## mukta-m0-p28-v694
-[four-way](catuṣpathe) [path](pathe) [and](ca) [eva](eva) [two-way](dvipathe) [one](ekai) [ca](ca) [rule](vidhi) [rave](rave)
+[at-crossroads](catuṣpathe) [path](pathe) [and-indeed](caiva) [two-path-one](dvipathekai) [and](ca) [rite](vidhirave)
 
 ## mukta-m0-p28-v695
-[thus](evameva) [order](krameṇaiva) [abhisheka](abhiṣekaṃ) [then](tu) [do](kārayet)
+[thus](evam) [in-order-indeed](evakrameṇaiva) [abhisheka](abhiṣekaṃ) [indeed](tu) [cause-do](kārayet)
 
 ## mukta-m0-p28-v696
-[ritual](vidhinā) [do](kārayet) [who](yaḥ) [tu](tu) [his](tasya) [death](mṛtyuḥ) [not](na) [exists](vidyate)
+[by-rite](vidhinā) [who-causes](kārayet) [indeed](yastu) [his](tasya) [death](mṛtyuḥ) [not](na) [exists](vidyate)
 
 ## mukta-m0-p28-v697
-[abhisheka](abhiṣekaṃ) [by-me](mayā) [spoken](proktaṃ) [shaiva-practice](śaivācāraṃ) [then](tataḥ) [hear](śṛṇu)
+[abhisheka](abhiṣekaṃ) [by-me](mayā) [proclaimed](proktaṃ) [shaiva-conduct](śaivācāraṃ) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p28-v698
-[thus](iti) [vira-tantra](vīratantre) [six-thousand-samhita](ṣaṭsahasrasaṃhitāyāṃ) [abhisheka](abhiṣekaḥ) [named](nāma) [tenth](daśamaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-vira-tantra](vīratantre) [six-thousand-samhita](ṣaṭsahasrasaṃhitāyāṃ) [abhisheka](abhiṣekaḥ) [named](nāma) [tenth](daśamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p28-v699
-[what-kind](kīdṛśāni) [here](iha) [all](sarvaṃ) [that](tad) [speak](vaktuṃ) [all](sarvam) [here](iha) [worthy](arhasi)
+[what-kind](kīdṛśāni) [here](iha) [all](sarvaṃ) [that](tat) [to-speak](vaktuṃ) [all](sarvam) [here](iha) [worthy](arhasi)
 
 ## mukta-m0-p28-v700
-[from-insemination](niṣekādi) [to-sapinda](sapiṇḍāntaṃ) [hear](śrūyatāṃ) [lotus-seated](kamalāsana)
+[from-nisheka](niṣekādi) [to-sapinda](sapiṇḍāntaṃ) [hear](śrūyatāṃ) [lotus-seat](kamalāsana)

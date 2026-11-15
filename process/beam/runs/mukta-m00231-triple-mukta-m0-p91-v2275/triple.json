@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "pañcāṅgeyaṃ",
+     "gloss": "five-limbed",
+     "grounds": "legacy hint gives five-limbed; treated as adjective/compound member modifying puraskriyā",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "is-told",
+     "grounds": "legacy hint gives is-told; feminine nominative singular agreeing with puraskriyā",
+     "morph": "verb.3.sg.pass-past+root kath"
+    },
+    {
+     "surface": "puraskriyā",
+     "gloss": "puraskriyā",
+     "grounds": "ritual procedure named by the verse",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "susiddhaye",
+     "gloss": "for-success",
+     "grounds": "legacy hint gives for-success; dative of purpose",
+     "morph": "noun.dat.sg.f"
+    }
+   ],
+   "question": "What ritual procedure is declared for complete success?",
+   "premises": [
+    "five-limbed puraskriyā is declared",
+    "it is declared for complete success",
+    "the declaration concerns ritual procedure"
+   ],
+   "inference": "The verse presents the five-limbed puraskriyā as the declared means to complete success.",
+   "uncertainties": [
+    "exact case and sandhi analysis of pañcāṅgeyaṃ remain uncertain",
+    "puraskriyā is left as a technical term without further gloss"
+   ],
+   "plain_english": "And this five-limbed puraskriyā is declared for complete success."
+  }
+ ]
+}

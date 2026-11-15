@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2144,
- "question": "How should the remaining parts be rotated from the middle by measure?",
+ "question": "What parts of the ladle and spoon are purified in order?",
  "premises": [
-  "Remaining parts are to be used.",
-  "Rotation proceeds from the middle.",
-  "The rotation follows a specified measure."
+  "Tip middle and root are named.",
+  "Those are purified.",
+  "Order is specified."
  ],
- "inference": "One should rotate the remaining parts from the middle according to that measure.",
- "uncertainties": [],
- "plain_english": "Thus one should rotate the remaining parts from its middle by that measure."
+ "inference": "The tip, middle, and root are purified in order.",
+ "uncertainties": [
+  "Which object each part belongs to is compressed."
+ ],
+ "plain_english": "Purify their tip, middle, and root in order."
 }

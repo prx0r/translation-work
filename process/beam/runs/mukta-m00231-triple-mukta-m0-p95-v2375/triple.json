@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2375,
+   "rows": [
+    {
+     "surface": "caṣakaṃ",
+     "gloss": "cup",
+     "grounds": "ritual cup used in offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajña+kāṣṭhañ+ca",
+     "gloss": "sacrificial-wood-and",
+     "grounds": "fused compound plus conjunction ca",
+     "morph": "m.acc.sg+indecl."
+    },
+    {
+     "surface": "sva+prādeśa+pramāṇakam",
+     "gloss": "own-hand-span-measure",
+     "grounds": "measure taken by one's own hand span",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which ritual implements and measure are prescribed for the Kaula rite?",
+   "premises": [
+    "The verse lists ritual items.",
+    "It includes a cup.",
+    "It includes sacrificial wood.",
+    "It specifies own hand-span measure."
+   ],
+   "inference": "The rite requires these measured implements.",
+   "uncertainties": [
+    "Exact ritual context is not specified."
+   ],
+   "plain_english": "A cup, sacrificial wood, and an amount measured by one's own hand span."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2128,
- "question": "Where should one part be placed using this measure in the middle?",
+ "question": "Which classes of beings are listed in this ritual enumeration?",
  "premises": [
-  "One part is to be placed.",
-  "Placement uses this measure.",
-  "The placement is in the middle."
+  "Immortals are listed.",
+  "Ancestors and gandharvas are listed.",
+  "Yakshas nagas and pishachas are listed."
  ],
- "inference": "One part should be placed in the middle according to this measure.",
- "uncertainties": [],
- "plain_english": "One should place one part in the middle using this measure."
+ "inference": "The verse enumerates several spirit classes.",
+ "uncertainties": [
+  "Grammatical role is not explicit."
+ ],
+ "plain_english": "Immortals, ancestors, gandharvas, yakshas, nagas, and pishachas are listed."
 }

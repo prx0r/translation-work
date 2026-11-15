@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2108,
- "question": "What condition must the ground surface meet before the next ritual construction step?",
+ "question": "Whom should one worship as the form of yoga?",
  "premises": [
-  "The ritual proceeds on a prepared ground surface.",
-  "The ground must be pure.",
-  "The ground must be free from husk and charcoal."
+  "The verse names speech-lady and speech-lord.",
+  "It commands worship.",
+  "It identifies the object as yoga-form."
  ],
- "inference": "The next step should be performed on a pure ground surface devoid of husk and charcoal.",
- "uncertainties": [],
- "plain_english": "Then, on a pure ground surface free from husk and charcoal."
+ "inference": "The verse commands worship of the speech-lord and speech-lady as the form of yoga.",
+ "uncertainties": [
+  "Whether both or one is the primary object is not explicit."
+ ],
+ "plain_english": "One should worship the speech-lady and speech-lord as the form of yoga."
 }

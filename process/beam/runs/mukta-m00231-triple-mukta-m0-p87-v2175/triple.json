@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "offer",
+     "grounds": "optative of juh (offer) as prescribed in context",
+     "morph": "3.sg.act.opt.-root juh"
+    },
+    {
+     "surface": "aṅgamukhyānām",
+     "gloss": "of-chief-limbs",
+     "grounds": "compound aṅga-mukhya in genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "āvṛtīnām",
+     "gloss": "of-repetitions",
+     "grounds": "genitive plural of āvṛti",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of anukrama (sequence)",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How should oblations be offered to the chief limbs according to their repetitions?",
+   "premises": [
+    "Oblations are offered to chief limbs.",
+    "Repetitions determine the order.",
+    "The offering follows sequence."
+   ],
+   "inference": "The rite prescribes ordered offerings to chief limbs by repetition count.",
+   "uncertainties": [
+    "Exact number of repetitions is not stated in this verse."
+   ],
+   "plain_english": "One should offer oblations to the chief limbs in order, according to their repetitions."
+  }
+ ]
+}

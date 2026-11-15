@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2115,
- "question": "With what materials should the ritual pavilion be decorated?",
+ "question": "What protection follows after the weapon?",
  "premises": [
-  "The pavilion requires decoration.",
-  "The text lists canopy, darbha garlands, and similar items.",
-  "These items are the means of adornment."
+  "The verse names by weapon.",
+  "It says protected.",
+  "It then names by armor."
  ],
- "inference": "One should decorate the pavilion with a canopy, darbha garlands, and the like.",
- "uncertainties": [],
- "plain_english": "One should decorate the pavilion with a canopy, darbha garlands, and other such items."
+ "inference": "The verse describes protection first by weapon and then by armor.",
+ "uncertainties": [
+  "The protected object is not named in this verse."
+ ],
+ "plain_english": "Protected by weapon, it is afterwards covered by armor."
 }

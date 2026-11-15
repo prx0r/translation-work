@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "matsyaṃ",
+     "gloss": "fish",
+     "grounds": "accusative singular neuter of matsya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "accusative singular neuter of māṃsa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-so",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "neuter accusative singular passive participle from jñā",
+     "morph": "part.acc.sg.n (jñā)"
+    },
+    {
+     "surface": "rudhiraṃ",
+     "gloss": "blood",
+     "grounds": "accusative singular neuter of rudhira",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śuktimātrakam",
+     "gloss": "only-a-shellful",
+     "grounds": "compound of śukti and mātraka in accusative singular neuter",
+     "morph": "compound.acc.sg.n (śukti+mātraka)"
+    }
+   ],
+   "question": "What quantities of fish, meat, and blood are prescribed as known Kaula offerings?",
+   "premises": [
+    "fish and meat are listed",
+    "blood is to be known",
+    "the measure is only a shellful"
+   ],
+   "inference": "The verse fixes the Kaula offering measure for fish, meat, and blood at a shellful.",
+   "uncertainties": [
+    "whether śuktimātrakam modifies all three items or only blood",
+    "whether jñeyaṃ is a separate prescription or a gloss on the list"
+   ],
+   "plain_english": "Fish, meat, and blood are to be known, with the measure being only a shellful."
+  }
+ ]
+}

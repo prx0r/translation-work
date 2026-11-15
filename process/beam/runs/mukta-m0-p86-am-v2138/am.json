@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2138,
- "question": "What action is performed with the thread according to the stated measure?",
+ "question": "Which eight forms beginning with Brahma are worshipped clockwise?",
  "premises": [
-  "A thread is stretched.",
-  "The thread is swept or marked.",
-  "The action follows the stated measure."
+  "Clockwise worship is commanded.",
+  "They are worshipped.",
+  "Eight forms beginning with Brahma are named."
  ],
- "inference": "One stretches the thread and marks with it according to the stated measure.",
- "uncertainties": [],
- "plain_english": "Having stretched the thread and swept with it, one follows the stated measure."
+ "inference": "Eight forms beginning with Brahma are worshipped clockwise.",
+ "uncertainties": [
+  "The full list is compressed."
+ ],
+ "plain_english": "The eight forms beginning with Brahma are worshipped clockwise."
 }

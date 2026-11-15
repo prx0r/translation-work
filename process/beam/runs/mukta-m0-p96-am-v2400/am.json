@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2400,
- "question": "What ordinal number does this colophon assign to the chapter?",
+ "question": "Should the corpse be placed on a spread kuśa bed at that place?",
  "premises": [
-  "colophon token names chapter",
-  "ordinal ekonāśīti means seventy-nine",
-  "adhyāya means chapter"
+  "kuśa bed is spread there",
+  "corpse is to be placed",
+  "placement follows the rite"
  ],
- "inference": "therefore this is chapter seventy-nine",
+ "inference": "The rite directs placing the corpse on the spread kuśa bed.",
  "uncertainties": [
-  "sandhi fusion points not expanded",
-  "exact editorial punctuation retained"
+  "exact ritual context beyond this verse is not stated"
  ],
- "plain_english": "This is the seventy-ninth chapter."
+ "plain_english": "Having spread a kuśa bed there, one should place the corpse on it."
 }
