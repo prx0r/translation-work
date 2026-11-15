@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "ekākī",
+     "gloss": "alone",
+     "grounds": "solitary practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of chanting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kalpapādapaḥ",
+     "gloss": "kalpa-tree",
+     "grounds": "compound result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformation does solitary mantra recitation produce for the practitioner?",
+   "premises": [
+    "solitary recitation of mantra",
+    "practitioner becomes kalpa-tree"
+   ],
+   "inference": "The verse promises that one who chants alone becomes a kalpa-tree.",
+   "uncertainties": [
+    "exact ritual context of kalpa-tree result"
+   ],
+   "plain_english": "Alone, he should chant the mantra; he becomes a kalpa-tree."
+  }
+ ]
+}

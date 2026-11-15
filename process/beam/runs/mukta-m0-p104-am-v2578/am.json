@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p104",
  "verse": 2578,
- "question": "How many times and with which mantra should the best teacher make this offering?",
+ "question": "Until what point does ordered worship continue in this kaula rite?",
  "premises": [
-  "The fire-mantra is the prescribed formula.",
-  "The offering is to be repeated three times.",
-  "The best teacher is the qualified officiant."
+  "worship proceeds in order",
+  "it continues until no flower is found"
  ],
- "inference": "The best teacher should offer three times using the fire-mantra.",
- "uncertainties": [],
- "plain_english": "The best teacher should offer three times with the fire-mantra."
+ "inference": "The ordered worship is bounded by the availability of flowers.",
+ "uncertainties": [
+  "whether flower means literal offering or ritual token"
+ ],
+ "plain_english": "Thus in order the worshipful powers are worshipped until no flower is found."
 }

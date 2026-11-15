@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p94-v2326
-[with-good-condiments](sūpadaṃśa) [endowed-with](āḍhyaṃ) [with-roots](samūla) [fruits](phala) [and-sweets](modakam)
+[with-soup-and-condiments](sūpadaṃśāḍhyaṃ) [with-root-fruit-sweets](samūlaphalamodakam)
 
 ## mukta-m0-p94-v2327
-[with-cloves](lavaṅga) [nutmeg](jāti) [takkola](takkola) [camphor](karpūra) [and-cardamom](aila) [mixed-with](anvitaṃ) [water](jalam)
+[with-clove-nutmeg-takkola-camphor-cardamom](lavaṅgajātitakkolakarpūrailānvitaṃ) [water](jalam)
 
 ## mukta-m0-p94-v2328
-[with-nutmeg-fruit](sajātiphala) [takkola](takkola) [camphor](karpūra) [and-betel-nut](kramuka) [endowed-with](anvitam)
+[with-same-fruit-takkola-camphor-areca](sajātiphalatakkolakarpūrakramukānvitam)
 
 ## mukta-m0-p94-v2329
-[circumambulating](pradakṣiṇīkṛtya) [and](ca) [fire](agniṃ) [enclosing](saṃrudhya) [indeed](vai) [in-order](kramāt)
+[having-circumambulated](pradakṣiṇīkṛtya) [and](ca) [fire](agniṃ) [having-closed](saṃrudhya) [indeed](vai) [in-order](kramāt)
 
 ## mukta-m0-p94-v2330
-[at-the-door](dvāraka) [guardians-of-directions](īśān) [one-should-feed](bhojayet) [guru](guru) [and-image-bearers](mūrtipān)
+[door-guardians](dvārakokeśān) [should-feed](bhojayed) [guru-form-drinks](gurumūrtipān)
 
 ## mukta-m0-p94-v2331
-[the-poor](dīna) [blind](andha) [wretched](kṛpaṇa) [and-others](ādīn) [and](ca) [also](api) [other](anyān) [food](anna) [seeking](arthinaḥ) [people](janān)
+[poor-blind-pitiable-etc](dīnāndhakṛpaṇādīṃścāpyanyānannārthino) [people](janān)
 
 ## mukta-m0-p94-v2332
-[with-gifts](dakṣiṇābhiḥ) [and](ca) [with-garments](vasana) [ornaments](ābharaṇa) [and-so-forth](ādibhiḥ)
+[with-gifts](dakṣiṇābhiśca) [with-clothes-ornaments-etc](vasanābharaṇādibhiḥ)
 
 ## mukta-m0-p94-v2333
-[the-sacrificer](yajamānaḥ) [with-the-priest](sahācāryaḥ) [having-washed](kṣālita) [feet](aṅghri) [hands](kara) [and-face](ānanaḥ)
+[sacrificer](yajamānaḥ) [with-teacher](sahācāryaḥ) [washed-feet-hands-face](kṣālitāṅghrikarānanaḥ)
 
 ## mukta-m0-p94-v2334
-[with-fragrant-substances](sagandha) [dūrvā-grass](dūrvā) [and-flowers](kusumaṃ) [water](jalaṃ) [having-taken](saṃgṛhya) [in-hand](pāṇinā)
+[with-fragrant-dūrvā-flowers](sagandhadūrvākusumaṃ) [water](jalaṃ) [having-taken](saṃgṛhya) [by-hand](pāṇinā)
 
 ## mukta-m0-p94-v2335
-[with-this](anena) [verse](ślokena) [at-the-feet](pādayoḥ)
+[by-verse](ślokenānena) [at-feet](pādayoḥ)
 
 ## mukta-m0-p94-v2336
-[worshipped](pūjitaḥ) [and](ca) [you](tvaṃ) [given](dattaṃ) [to-be-given](deyaṃ) [and](ca) [what](yat) [by-me](mayā)
+[worshipped](pūjitaśca) [you](tvaṃ) [given](dattaṃ) [to-be-given](deyaṃ) [and](ca) [which](yanmayā)
 
 ## mukta-m0-p94-v2337
-[that](tat) [and](ca) [this](idam) [for-me](mama) [let-it-be](astu) [fruit](phala) [accomplishing](sādhakam)
+[that](taccedaṃ) [mine](mamāstu) [fruit-accomplishing](phalasādhakam)
 
 ## mukta-m0-p94-v2338
-[action](karma) [this](idam) [let-it-be](māstu) [for-me](me) [O-lord](nātha) [not](a) [binding](bandhakam)
+[deed](karmedaṃ) [not](māstu) [mine](me) [lord](nātha) [binding](bandhakam)
 
 ## mukta-m0-p94-v2339
-[in-the-installation](pratiṣṭhāyāṃ) [of-Śiva-liṅga](śivaliṅga) [briefly](samāsāt) [fully-shown](sampradarśitā)
+[in-śiva-liṅga-installation](śivaliṅgapratiṣṭhāyāṃ) [in-brief](samāsāt) [shown](sampradarśitā)
 
 ## mukta-m0-p94-v2340
-[of-tattva](tattva) [mūrti](mūrti) [and-so-forth](ādi) [arrangement](vinyāsa) [procedure](kramaḥ) [everywhere](sarvatra) [indeed](vai) [same](samaḥ)
+[truth-form-etc-placement-order](tattvamūrtyādivinyāsakramaḥ) [everywhere](sarvatra) [indeed](vai) [same](samaḥ)
 
 ## mukta-m0-p94-v2341
-[Durgā](durgā) [Gaurī](gaurī) [Sarasvatī](sarasvatyaḥ) [Śāstā](śāstā) [Kālī](kālī) [and](ca) [Mothers](mātaraḥ)
+[durgā-gaurī-sarasvatī](durgāgaurīsarasvatyaḥ) [śāstā](śāstā) [kālī](kālī) [and](ca) [mothers](mātaraḥ)
 
 ## mukta-m0-p94-v2342
-[to-be-installed](pratiṣṭhāpyāḥ) [to-be-worshipped](pūjyāḥ) [and](ca) [indeed](eva) [separately](pṛthak) [separately](pṛthak)
+[to-be-installed](pratiṣṭhāpyāḥ) [to-be-worshipped](pūjyāścaiva) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p94-v2343
-[briefly](samāsena) [properly](yathāvat) [now](atha) [is-told](kathyate)
+[in-brief](samāsena) [properly](yathāvadatha) [is-told](kathyate)
 
 ## mukta-m0-p94-v2344
-[in-that](tat) [installation](pratiṣṭhā) [rite](vidhau) [image](beraṃ) [should-be](syāt) [primary](mukhyaṃ) [of-ten-tāla-measure](daśatālataḥ)
+[in-that-installation-rite](tatpratiṣṭhāvidhau) [image](beraṃ) [should-be](syānmukhyaṃ) [ten-cubits](daśatālataḥ)
 
 ## mukta-m0-p94-v2345
-[that](tat) [made-of-gold](hema) [and-other](ādi) [metals](loha) [gems](ratna) [and-stone](śilā) [made-of](mayam)
+[that-gold-etc-metal-gem-stone-made](taddhemādiloharatnaśilāmayam)
 
 ## mukta-m0-p94-v2346
-[and-to-be-worshipped](ārādhyaḥ) [and](ca) [thus](iti) [as-before](pūrvataḥ)
+[to-be-worshipped](ārādhyaśceti) [from-east](pūrvataḥ)
 
 ## mukta-m0-p94-v2347
-[Piṅgala](piṅgalaḥ) [Caṇḍa](caṇḍaḥ) [Tīvra](tīvraḥ) [and](ca) [door-guardians](dvārapālakāḥ)
+[tawny](piṅgalaścaṇḍastīvraśca) [door-guardians](dvārapālakāḥ)
 
 ## mukta-m0-p94-v2348
-[marked-with](aṅkitāḥ) [guardians-of-directions](lokeśa) [and-weapons](astra) [to-be-worshipped](pūjyā) [banners](dhvajāḥ) [their-presiding-deities](tadadhidevatāḥ)
+[world-lords-marked](lokeśāstrāṅkitāḥ) [to-be-worshipped](pūjyā) [banners](dhvajāstadadhidevatāḥ)
 
 ## mukta-m0-p94-v2349
-[having-received](parigṛhya) [then](atha) [guardians-of-directions](lokeśān) [situated-in-pots](kumbhagān) [one-should-worship](yajet)
+[having-accepted](parigṛhyātha) [world-lords](lokeśān) [pot-born](kumbhagān) [should-sacrifice](yajet)
 
 ## mukta-m0-p94-v2350
-[with-own](sva) [root-mantras](mūla) [and-limbs](aṅgaiḥ) [then](tataḥ) [one-should-perform](kuryāt) [in-water](jale) [and](ca) [also](api) [immersion](adhivāsanam)
+[with-own-root-limbs](svamūlāṅgaistataḥ) [should-do](kuryājjale) [and](cāpyadhivāsanam) [consecration-in-water](adhivāsanam)

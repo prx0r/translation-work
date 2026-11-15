@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 100,
- "question": "Which mantras are declared garland-mantras according to syllable count?",
+ "question": "Who is named as composer of Kaulāvalīnirṇaya and which section ends here?",
  "premises": [
-  "Mantras exceeding twenty syllables are garland-mantras.",
-  "The verse declares this classification."
+  "iti marks the conclusion of the section",
+  "the composer is named as śrī jñānānanda paramahaṃsa",
+  "the section named is the first ullāsa"
  ],
- "inference": "Therefore garland-mantras are those with more than twenty syllables.",
+ "inference": "The colophon attributes the first ullāsa of Kaulāvalīnirṇaya to Śrī Jñānānanda Paramahaṃsa.",
  "uncertainties": [
-  "The adjective viṃśatyarṇādhikā ends in ā while mantrāḥ is masculine plural, suggesting possible sandhi or editorial form."
+  "exact sandhi and compound boundaries are not expanded beyond the fused token"
  ],
- "plain_english": "Mantras with more than twenty syllables are declared to be garland-mantras."
+ "plain_english": "Thus ends the first ullāsa of the Kaulāvalīnirṇaya composed by Śrī Jñānānanda Paramahaṃsa."
 }

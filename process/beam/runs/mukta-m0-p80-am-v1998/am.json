@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p80",
  "verse": 1998,
- "question": "What facial form should be fashioned for this image?",
+ "question": "What becomes quick-fruit when that same form begins?",
  "premises": [
-  "The comparison is to an elephant face",
-  "The face must be made accordingly",
-  "The instruction is addressed to the twice-born"
+  "that same form begins",
+  "it becomes quick-fruit"
  ],
- "inference": "The face should be made like the face of an elephant.",
- "uncertainties": [],
- "plain_english": "O twice-born, the face should be made just like the face of an elephant."
+ "inference": "The verse says that same form becomes quick-fruit.",
+ "uncertainties": [
+  "exact form"
+ ],
+ "plain_english": "That same form becomes quick-fruit."
 }

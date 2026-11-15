@@ -3,19 +3,24 @@
  "verse": 150,
  "rows": [
   {
-   "lemma": "ṣoḍaśasvarasaṃbhūtā",
-   "morph": "adj.f.nom.pl",
-   "grounds": "compound adjective describing elements arising from the sixteen vowels"
+   "lemma": "pañcaśuddhiṃ vinā",
+   "morph": "acc.sg.f + (indecl.)",
+   "grounds": "pañcaśuddhiṃ is the accusative object of vinā; vinā is indeclinable meaning without"
   },
   {
-   "lemma": "amṭādyā",
-   "morph": "noun.f.nom.pl",
-   "grounds": "am-group beginning with am, with following members"
+   "lemma": "pūjā",
+   "morph": "nom.sg.f",
+   "grounds": "subject of kalpate"
   },
   {
-   "lemma": "vidhikramāt",
-   "morph": "noun.m.abl.sg",
-   "grounds": "ablative of ritual sequence or prescribed procedure"
+   "lemma": "abhicārāya",
+   "morph": "dat.sg.m",
+   "grounds": "dative of purpose"
+  },
+  {
+   "lemma": "kalpate",
+   "morph": "3.sg.ātm.-pres. (root kḷp)",
+   "grounds": "finite verb of the sentence"
   }
  ]
 }

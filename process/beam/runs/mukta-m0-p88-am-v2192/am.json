@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2192,
- "question": "What measurement context is introduced for the brahma-sūtra in an eight-cubit field?",
+ "question": "Which deity named Dakshinamurti is declared for this mantra?",
  "premises": [
-  "The brahma-sūtra is the subject.",
-  "An eight-cubit field is specified.",
-  "Finger-units of that field are introduced."
+  "dakshinamurti-named is stated",
+  "shambhu is declared as deity"
  ],
- "inference": "The brahma-sūtra is next related to the finger-units of an eight-cubit field.",
+ "inference": "shambhu as dakshinamurti is the deity",
  "uncertainties": [
-  "The exact syntactic completion of this measurement statement continues beyond this verse."
+  "mantra text is absent"
  ],
- "plain_english": "Then the brahma-sūtra and the finger-units of an eight-cubit field are given."
+ "plain_english": "Shambhu, named Dakshinamurti, is declared as the deity."
 }

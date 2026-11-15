@@ -1,0 +1,689 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "hastaprakṣālanāt",
+     "gloss": "hand-washing-from",
+     "grounds": "ablative from hand-washing",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "śaucam",
+     "gloss": "purity",
+     "grounds": "nominative purity",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ācāmaḥ",
+     "gloss": "sipping",
+     "grounds": "nominative sipping",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-do",
+     "grounds": "optative of ācar",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What preparatory acts of hand-washing, purity, and sipping should be performed before worship?",
+   "premises": [
+    "hand-washing-from purity sipping and then should-do",
+    "preparation precedes worship"
+   ],
+   "inference": "The verse prescribes preliminary purification acts before proceeding.",
+   "uncertainties": [
+    "exact ritual sequence beyond these acts"
+   ],
+   "plain_english": "One should first wash the hands, establish purity, and sip water, then proceed."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive of saṃsthā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmabhāge",
+     "gloss": "left-side-in",
+     "grounds": "locative left side",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "accusative power",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "svāmiparāyaṇām",
+     "gloss": "lord-devoted",
+     "grounds": "accusative devoted to lord",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "Where and how should the power devoted to the lord be established?",
+   "premises": [
+    "having-established left-side-in and power lord-devoted",
+    "power is placed on the left side"
+   ],
+   "inference": "The practitioner establishes the lord-devoted power on the left side.",
+   "uncertainties": [
+    "identity of the power beyond context"
+   ],
+   "plain_english": "Having established the power devoted to the lord on the left side, one proceeds."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "power",
+     "grounds": "instrumental power",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "nominative worship",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "viphalā",
+     "gloss": "fruitless",
+     "grounds": "nominative fruitless",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative doubt",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Is worship without the power fruitless and beyond doubt?",
+   "premises": [
+    "without power and which worship fruitless not here doubt",
+    "worship lacking power yields no fruit"
+   ],
+   "inference": "Worship performed without the power is fruitless, with no doubt.",
+   "uncertainties": [
+    "whether power means Śakti or ritual energy"
+   ],
+   "plain_english": "Worship without the power is fruitless; there is no doubt about this."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "nominative power",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "great-goddess",
+     "grounds": "nominative great goddess",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "hararūpaḥ",
+     "gloss": "Shiva-form",
+     "grounds": "nominative Shiva form",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative practitioner",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Who is the power, the great goddess, Shiva-form, and practitioner?",
+   "premises": [
+    "which power she great-goddess Shiva-form and practitioner",
+    "power is identified with goddess and practitioner"
+   ],
+   "inference": "The power is the great goddess, Shiva-form, and the practitioner.",
+   "uncertainties": [
+    "exact non-dual identification intended"
+   ],
+   "plain_english": "That power is the great goddess, Shiva-form, and the practitioner."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "prāṇam",
+     "gloss": "life-breath",
+     "grounds": "accusative life breath",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "binā",
+     "gloss": "without",
+     "grounds": "indeclinable without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehī",
+     "gloss": "embodied-one",
+     "grounds": "nominative embodied one",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "spanditum",
+     "gloss": "to-move",
+     "grounds": "infinitive to move",
+     "morph": "inf"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "able",
+     "grounds": "passive present able",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Can an embodied being move without life-breath, as the verse states?",
+   "premises": [
+    "life-breath without as embodied-one to-move not indeed able",
+    "movement requires life-breath"
+   ],
+   "inference": "Just as a body cannot move without breath, worship requires its vital power.",
+   "uncertainties": [
+    "whether analogy is exact or rhetorical"
+   ],
+   "plain_english": "As an embodied being cannot move without life-breath, so worship cannot proceed without its power."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyādhivāsena",
+     "gloss": "substance-consecration",
+     "grounds": "instrumental substance consecration",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative of jap",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative of smṛ",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb always",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should chanting and remembering always require prior substance consecration?",
+   "premises": [
+    "without substance-consecration not should-chant not should-remember always",
+    "consecration is prerequisite"
+   ],
+   "inference": "Chanting and remembering are not to be done without substance consecration.",
+   "uncertainties": [
+    "scope of dravyādhivāsa"
+   ],
+   "plain_english": "Without consecrating the substance, one should neither chant nor remember, ever."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjām",
+     "gloss": "worship",
+     "grounds": "accusative worship",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japam",
+     "gloss": "chanting",
+     "grounds": "accusative chanting",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "accusative meditation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintanam",
+     "gloss": "contemplation",
+     "grounds": "accusative contemplation",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which ritual actions are prohibited when the required conditions are absent?",
+   "premises": [
+    "not worship not chanting should-do not meditation not and contemplation",
+    "all major practices are withheld"
+   ],
+   "inference": "Without proper preparation, worship, chanting, meditation, and contemplation are not to be done.",
+   "uncertainties": [
+    "exact absent condition referenced"
+   ],
+   "plain_english": "One should not perform worship, chanting, meditation, or contemplation."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "nominative truth",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "should-know",
+     "grounds": "optative of vijñā",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vākyam",
+     "gloss": "statement",
+     "grounds": "accusative statement",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śaṅkarabhāṣitam",
+     "gloss": "Shankara-spoken",
+     "grounds": "accusative spoken by Shankara",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Why should this statement spoken by Shankara be known as truth?",
+   "premises": [
+    "truth this should-know statement Shankara-spoken",
+    "the statement carries authoritative truth"
+   ],
+   "inference": "The practitioner should know this Shankara-spoken statement as true.",
+   "uncertainties": [
+    "which Shankara is meant"
+   ],
+   "plain_english": "One should know this statement spoken by Shankara to be true."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "absolutive of bhuj",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "absolutive of pā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative of smṛ",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative of jap",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one remember or chant after eating and drinking?",
+   "premises": [
+    "not having-eaten and not having-drunk and not should-remember not should-chant then",
+    "post-meal practice is prohibited"
+   ],
+   "inference": "After eating and drinking, one should neither remember nor chant.",
+   "uncertainties": [
+    "whether prohibition is temporary or absolute"
+   ],
+   "plain_english": "After eating and drinking, one should not remember or chant then."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "ānandena",
+     "gloss": "with-bliss",
+     "grounds": "instrumental bliss",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍikām",
+     "gloss": "Chandika",
+     "grounds": "accusative Chandika",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "paripūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative of paripūj",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Can Chandika be worshipped without bliss?",
+   "premises": [
+    "with-bliss without who and Chandika should-worship",
+    "bliss is required for worship"
+   ],
+   "inference": "Worshipping Chandika without bliss is not endorsed.",
+   "uncertainties": [
+    "whether bliss is emotional or ritual state"
+   ],
+   "plain_english": "One who worships Chandika without bliss is not properly worshipping."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative therefore",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "locative first",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "prakarttavyam",
+     "gloss": "should-be-done",
+     "grounds": "gerundive should be done",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "samvidāsavayojanam",
+     "gloss": "consciousness-nectar-union",
+     "grounds": "nominative consciousness nectar union",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What must be done first according to the stated conclusion?",
+   "premises": [
+    "therefore first should-be-done consciousness-nectar-union",
+    "union is the first task"
+   ],
+   "inference": "Therefore, the union of consciousness and nectar must be done first.",
+   "uncertainties": [
+    "exact meaning of consciousness-nectar-union"
+   ],
+   "plain_english": "Therefore, first one must perform the union of consciousness and nectar."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "vijayāgrahaṇam",
+     "gloss": "victory-taking",
+     "grounds": "accusative victory taking",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "accusative meditation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "present middle does",
+     "morph": "3.sg.mid.pres"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "nominative man",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What must a man do before meditation to make it effective?",
+   "premises": [
+    "victory-taking having-done meditation who does man",
+    "victory-taking precedes meditation"
+   ],
+   "inference": "A man who meditates after taking victory performs the practice properly.",
+   "uncertainties": [
+    "meaning of victory-taking"
+   ],
+   "plain_english": "A man who first takes victory and then meditates performs the practice."
+  }
+ ]
+}

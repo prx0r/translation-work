@@ -1,12 +1,13 @@
 {
  "song": "mukta-m0-p05",
  "verse": 123,
- "question": "In what sequence are the kāma and vāg seed-syllables to be written?",
+ "question": "Which entities are included along with the guru?",
  "premises": [
-  "The kāma seed is to be written.",
-  "The vāg seed is to be written after that."
+  "guru is named",
+  "retinue is included",
+  "weapon and vehicle are included"
  ],
- "inference": "The prescribed sequence places the kāma seed before the vāg seed.",
+ "inference": "the guru is worshipped with retinue, weapon, and vehicle",
  "uncertainties": [],
- "plain_english": "Having written the kāma seed, write the vāg seed after that."
+ "plain_english": "The guru with retinue, weapon, and vehicle."
 }

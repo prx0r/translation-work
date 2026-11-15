@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 239,
- "question": "What action with mouthfuls of water follows offering water to the deity?",
+ "question": "What happens if someone arrives during worship time?",
  "premises": [
-  "Water is first offered to the deity.",
-  "Mouthfuls of water are taken for rinsing.",
-  "The mouthfuls must be released afterward."
+  "At worship time is named.",
+  "Having arrived is named.",
+  "If someone goes here is named."
  ],
- "inference": "After offering water, one should then release the mouthfuls of water.",
- "uncertainties": [],
- "plain_english": "Having offered water to me, one should then release the mouthfuls of water."
+ "inference": "The verse poses a condition about someone arriving or going during worship time.",
+ "uncertainties": [
+  "The consequence is not stated in this verse."
+ ],
+ "plain_english": "If someone arrives or goes here during worship time."
 }

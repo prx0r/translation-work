@@ -7,7 +7,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātāpitrorvidheyaś",
+"surface": "mātāpitrorvidheyaḥ",
 "quick_gloss": "obedient-to-parents"
 },
 {
@@ -16,11 +16,11 @@
 },
 {
 "surface": "daiṣṭikaḥ",
-"quick_gloss": "fated"
+"quick_gloss": "astrologer"
 },
 {
-"surface": "kaula+udbhavaḥ",
-"quick_gloss": "born-in-good-family"
+"surface": "kaulavodbhavaḥ",
+"quick_gloss": "born-in-kaulava"
 }
 ]
 },
@@ -32,20 +32,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "taitula+karaṇe",
-"quick_gloss": "in-taitula-karaṇa"
+"surface": "taitulekaraṇejāto",
+"quick_gloss": "born-in-taitula-karaṇa"
 },
 {
-"surface": "jātaḥ",
-"quick_gloss": "born"
-},
-{
-"surface": "mṛdu+vāk",
+"surface": "mṛduvāk",
 "quick_gloss": "soft-spoken"
 },
 {
 "surface": "pāṭhakaḥ",
-"quick_gloss": "reader"
+"quick_gloss": "reciter"
 },
 {
 "surface": "sukhī",
@@ -61,19 +57,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "garaje+karaṇe",
-"quick_gloss": "in-garaja-karaṇa"
+"surface": "garajekaraṇejāto",
+"quick_gloss": "born-in-garaje-karaṇa"
 },
 {
-"surface": "jātaḥ",
-"quick_gloss": "born"
-},
-{
-"surface": "jita+śatruḥ",
+"surface": "jitaśatruḥ",
 "quick_gloss": "conqueror-of-enemies"
 },
 {
-"surface": "jana+priyaḥ",
+"surface": "janapriyaḥ",
 "quick_gloss": "dear-to-people"
 }
 ]
@@ -86,24 +78,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gupta+kṛtyaḥ",
-"quick_gloss": "secret-doer"
-},
-{
-"surface": "ati",
-"quick_gloss": "very"
+"surface": "guptakṛtyaḥ",
+"quick_gloss": "secret-deeds"
 },
 {
 "surface": "muṃḍaḥ",
-"quick_gloss": "shaven"
+"quick_gloss": "shaved-head"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "vaṇije+karaṇe",
-"quick_gloss": "in-vaṇija-karaṇa"
+"surface": "vaṇije",
+"quick_gloss": "merchant"
+},
+{
+"surface": "karaṇe",
+"quick_gloss": "karaṇa"
 },
 {
 "surface": "nṛpaḥ",
@@ -123,16 +115,12 @@
 "quick_gloss": "independent"
 },
 {
-"surface": "karaṇe+viṣṭyāṃ",
-"quick_gloss": "in-viṣṭi-karaṇa"
+"surface": "karaṇe",
+"quick_gloss": "in-karaṇa"
 },
 {
-"surface": "jātaḥ",
-"quick_gloss": "born"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
+"surface": "viṣṭyāṃjātaḥ",
+"quick_gloss": "born-in-viṣṭi"
 },
 {
 "surface": "lubdhaḥ",
@@ -144,7 +132,7 @@
 },
 {
 "surface": "caṃcalaḥ",
-"quick_gloss": "restless"
+"quick_gloss": "fickle"
 }
 ]
 },
@@ -157,7 +145,7 @@
 "tokens": [
 {
 "surface": "śakunau",
-"quick_gloss": "in-śakuni-karaṇa"
+"quick_gloss": "in-śakuna"
 },
 {
 "surface": "paritoṣī",
@@ -165,11 +153,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "go+bhūmi+parivārakaḥ",
-"quick_gloss": "possessed-of-cattle-and-land"
+"surface": "gobhūmiparivārakaḥ",
+"quick_gloss": "cow-land-attendant"
 }
 ]
 },
@@ -181,24 +169,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānā+ciṃtā",
-"quick_gloss": "various-anxieties"
+"surface": "nānāciṃtā",
+"quick_gloss": "various-thoughts"
 },
 {
-"surface": "kula+rogī",
+"surface": "kulorogī",
 "quick_gloss": "family-diseased"
 },
 {
 "surface": "kāṃtaḥ",
-"quick_gloss": "lovely"
+"quick_gloss": "beloved"
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "syāt"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "catuṣpadi",
-"quick_gloss": "in-catuṣpada-karaṇa"
+"quick_gloss": "quadruped"
 }
 ]
 },
@@ -210,28 +202,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vikaṭa+aṃgaḥ",
-"quick_gloss": "deformed-limbed"
+"surface": "vikaṭāṃgaḥ",
+"quick_gloss": "huge-limbed"
 },
 {
-"surface": "guṇī",
-"quick_gloss": "virtuous"
-},
-{
-"surface": "mānī",
-"quick_gloss": "proud"
+"surface": "guṇīmānī",
+"quick_gloss": "virtuous-proud"
 },
 {
 "surface": "nāge",
-"quick_gloss": "in-nāga-karaṇa"
+"quick_gloss": "in-nāga"
 },
 {
 "surface": "jātaḥ",
 "quick_gloss": "born"
 },
 {
-"surface": "alpa+bhuk",
-"quick_gloss": "eating-little"
+"surface": "ulpabhug",
+"quick_gloss": "little-eater"
 },
 {
 "surface": "bhavet",
@@ -280,19 +268,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mitra+ākhyaḥ",
-"quick_gloss": "named-mitra"
+"surface": "mitrākhyaḥ",
+"quick_gloss": "friend-named"
 },
 {
-"surface": "pitaraḥ",
-"quick_gloss": "pitṛs"
+"surface": "pitarobhūmiḥ",
+"quick_gloss": "fathers"
 },
 {
-"surface": "bhūmiḥ",
-"quick_gloss": "earth"
-},
-{
-"surface": "śrīḥ",
+"surface": "śrī",
 "quick_gloss": "śrī"
 },
 {
@@ -301,7 +285,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "yamaḥ",
@@ -309,7 +293,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -354,16 +338,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vajra+aṃkuśa+abhīti+karaṃ",
-"quick_gloss": "thunderbolt-and-goad-and-fearlessness-granting-hand"
+"surface": "vajrāṃkuśābhītikaraṃ",
+"quick_gloss": "vajra-aṅkuśa-abhīti-hand"
 },
 {
-"surface": "naumi",
-"quick_gloss": "I-bow"
-},
-{
-"surface": "īṃdrāṇī",
-"quick_gloss": "indrāṇī"
+"surface": "naumīṃdrāṇī",
+"quick_gloss": "bow-to-indrāṇī"
 },
 {
 "surface": "manoharam",
@@ -379,8 +359,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kanaka+varṇaḥ",
-"quick_gloss": "golden-colored"
+"surface": "kanakavarṇaḥ",
+"quick_gloss": "gold-colored"
 }
 ]
 },
@@ -392,28 +372,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "akṣa+sruk+sruva+kuṃḍa+āḍhyaṃ",
-"quick_gloss": "endowed-with-rosary-ladle-spoon-and-water-pot"
+"surface": "akṣasruksruvakuṃḍāḍhyaṃ",
+"quick_gloss": "akṣa-sruk-sruva-kuṃḍa-rich"
 },
 {
-"surface": "vaṃde",
-"quick_gloss": "I-praise"
-},
-{
-"surface": "māṃ",
-"quick_gloss": "her"
-},
-{
-"surface": "pātu",
-"quick_gloss": "may-he-protect"
-},
-{
-"surface": "saḥ",
-"quick_gloss": "he"
-},
-{
-"surface": "anvaham",
-"quick_gloss": "continually"
+"surface": "vaṃdemāṃpātusonvaham",
+"quick_gloss": "bow-to-mother-protect-daily"
 }
 ]
 },
@@ -425,8 +389,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāṭala+varṇaḥ",
-"quick_gloss": "pale-red-colored"
+"surface": "pāṭalavarṇaḥ",
+"quick_gloss": "pāṭala-colored"
 }
 ]
 },
@@ -438,24 +402,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gadā+vara+da+hastaṃ",
-"quick_gloss": "mace-and-boon-granting-hand"
+"surface": "gadāvaradahastaṃ",
+"quick_gloss": "mace-boon-hand"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "vaṃde",
-"quick_gloss": "I-praise"
-},
-{
-"surface": "ahaṃ",
-"quick_gloss": "I"
-},
-{
-"surface": "divasa+īśvaram",
-"quick_gloss": "lord-of-day"
+"surface": "vaṃdehaṃdivaseśvaram",
+"quick_gloss": "bow-to-sun-lord"
 }
 ]
 },
@@ -467,7 +423,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rakta+varṇaḥ",
+"surface": "raktavarṇaḥ",
 "quick_gloss": "red-colored"
 }
 ]
@@ -481,11 +437,11 @@
 "tokens": [
 {
 "surface": "saṃtuṣṭāḥ",
-"quick_gloss": "satisfied"
+"quick_gloss": "contented"
 },
 {
-"surface": "pitaraḥ",
-"quick_gloss": "pitṛs"
+"surface": "pitaro",
+"quick_gloss": "fathers"
 },
 {
 "surface": "mahyaṃ",
@@ -493,11 +449,11 @@
 },
 {
 "surface": "bhaveyuḥ",
-"quick_gloss": "may-be"
+"quick_gloss": "may-become"
 },
 {
-"surface": "vāñchita+artha+dāḥ",
-"quick_gloss": "givers-of-desired-objects"
+"surface": "vāñchitārthadāḥ",
+"quick_gloss": "desired-thing-givers"
 }
 ]
 },
@@ -509,7 +465,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nīla+varṇaḥ",
+"surface": "nīlavarṇaḥ",
 "quick_gloss": "blue-colored"
 }
 ]
@@ -523,23 +479,23 @@
 "tokens": [
 {
 "surface": "namasyāmi",
-"quick_gloss": "I-bow"
+"quick_gloss": "always-bow"
 },
 {
 "surface": "sadā",
-"quick_gloss": "always"
+"quick_gloss": "sadā"
 },
 {
 "surface": "sāmāṃ",
-"quick_gloss": "her"
+"quick_gloss": "sāmāṃ"
 },
 {
-"surface": "rakṣatāt",
-"quick_gloss": "may-she-protect"
+"surface": "rakṣatā",
+"quick_gloss": "protect"
 },
 {
-"surface": "śūbha+kārikā",
-"quick_gloss": "doer-of-good"
+"surface": "śubhakārikā",
+"quick_gloss": "auspicious-doer"
 }
 ]
 },
@@ -551,7 +507,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śveta+varṇā",
+"surface": "śvetavarṇā",
 "quick_gloss": "white-colored"
 }
 ]
@@ -564,20 +520,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaṃkha+cakra+vara+abhīti+pāṇiṃ",
-"quick_gloss": "conch-disc-boon-and-fearlessness-in-hand"
+"surface": "śaṃkhacakravarābhīti",
+"quick_gloss": "conch-disc-boon-abhaya-hand"
 },
 {
-"surface": "sa",
-"quick_gloss": "to-me"
+"surface": "pāṇiṃ",
+"quick_gloss": "pāṇi"
 },
 {
 "surface": "iṣṭaṃ",
-"quick_gloss": "desired-object"
+"quick_gloss": "desired"
 },
 {
 "surface": "prayacchatu",
-"quick_gloss": "may-he-grant"
+"quick_gloss": "may-grant"
 }
 ]
 },
@@ -589,8 +545,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kanaka+varṇā",
-"quick_gloss": "golden-colored"
+"surface": "kanakavarṇā",
+"quick_gloss": "gold-colored"
 }
 ]
 },
@@ -602,20 +558,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daṃḍa+pāśa+dharaṃ",
-"quick_gloss": "holding-staff-and-noose"
+"surface": "daṃḍapāśadharaṃ",
+"quick_gloss": "staff-noose-holder"
 },
 {
 "surface": "vaṃde",
-"quick_gloss": "I-praise"
+"quick_gloss": "bow"
 },
 {
-"surface": "dakṣiṇa+āśā+patiṃ",
-"quick_gloss": "lord-of-southern-quarter"
+"surface": "dakṣiṇāśāpatiṃ",
+"quick_gloss": "southern-quarter-lord"
 },
 {
 "surface": "vibhum",
-"quick_gloss": "mighty"
+"quick_gloss": "vibhu"
 }
 ]
 },
@@ -627,7 +583,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nīla+varṇaḥ",
+"surface": "nīlavarṇaḥ",
 "quick_gloss": "blue-colored"
 }
 ]

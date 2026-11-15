@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p154-v3826
-[name](yenadināthaḥ) [kṣatriyaḥ](kṣatriyaḥ) [crooked-crest](vakraśikhaḥ) [bound-palms](baddhāṃjaliḥ) [right-armpit](dakṣiṇakakṣe) [downward-facing-sword](adhomukhakhaḍgaḥ)
+[kṣatriyaḥ](kṣatriyaḥ) [vakraśikhaḥ](vakraśikhaḥ) [baddhāṃjaliḥ](baddhāṃjaliḥ) [dakṣiṇakakṣe+adhomukhakhaḍgaḥ](dakṣiṇakakṣe'dhomukhakhaḍgaḥ)
 
 ## mukta-m0-p154-v3827
-[name](kanna) [name](ṣṇa) [name](ppaḥ) [hunter](vyādhaḥ) [with-folded-hands](sāṃjalibandhaḥ) [left-bow-arrow](vāmedhanurbāṇau) [crooked-crest](vakraśikhaḥ) [at-feet-footwear](padoḥpādvau)
+[vyādhaḥ](vyādhaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ) [vāme+adhanurbāṇau](vāmedhanurbāṇau) [vakraśikhaḥ](vakraśikhaḥ) [padoḥ+pādvau](padoḥpādvau)
 
 ## mukta-m0-p154-v3828
-[name](kalānāthaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibandhaḥ) [left-mace](vāmegadā)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ) [vāme+gadā](vāmegadā)
 
 ## mukta-m0-p154-v3829
-[name](mānakuṃjaḥ) [kṣatriya](kṣatriyaḥ) [with-folded-hands](sāṃjalibandhaḥ) [standing](sthitaḥ)
+[kṣatriyaḥ](kṣatriyaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ)
 
 ## mukta-m0-p154-v3830
-[name](gonāthaḥ) [cowherd](gopaḥ) [flute-player-like](viṇuvādakanibhaḥ) [standing](sthitaḥ)
+[gopaḥ](gopaḥ) [viṇuvādakanibhaḥ](viṇuvādakanibhaḥ)
 
 ## mukta-m0-p154-v3831
-[name](śaṃkulādāyaḥ) [śūdra](śūdraḥ) [right-hand](dskṣakare) [razor](kṣurikā)
+[śūdraḥ](śūdraḥ) [dskṣakare+kṣurikā](dskṣakare kṣurikā)
 
 ## mukta-m0-p154-v3832
-[name](mūrtināthaḥ) [vaiśya](vaiśyaḥ) [with-folded-hands](sāṃjalibandhaḥ) [standing](sthitaḥ)
+[vaiśyaḥ](vaiśyaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ)
 
 ## mukta-m0-p154-v3833
-[name](rudrapaśupatiḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibandhaḥ) [standing](sthitaḥ)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ)
 
 ## mukta-m0-p154-v3834
-[name](skaṃdanāthaḥ) [brāhmaṇa](brāhmaṇaḥ) [in-two-hands](dvayoḥkarayoḥ) [flower-garland](puṣpamālā)
+[brāhmaṇaḥ](brāhmaṇaḥ) [dvayoḥ+karayoḥ+puṣpamālā](dvayoḥkarayoḥ puṣpamālā)
 
 ## mukta-m0-p154-v3835
-[name](naṃdanaḥ) [fifth-class](paṃcamaḥ) [with-folded-hands](sāṃjalibandhaḥ) [standing](sthitaḥ)
+[paṃcamaḥ](paṃcamaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ)
 
 ## mukta-m0-p154-v3836
-[name](vicāravān) [kṣatriya](kṣatriyaḥ) [with-folded-hands](sāṃjalibandhaḥ) [in-both-armpits](dvayoḥ) [in-both-armpits](kakṣayoḥ) [washed-cloth-seat-rosary-etc-bundle](dhautavastrāsanajapamālādigranthiḥ)
+[kṣatriyaḥ](kṣatriyaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ) [dvayoḥ+kakṣayoḥ+dhautavastrāsanajapamālādigranthiḥ](dvayoḥ kakṣayoḥ dhautavastrāsanajapamālādigranthiḥ)
 
 ## mukta-m0-p154-v3837
-[name](caṃḍeśvaraḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibandhaḥ) [wearing-crown](kirīṭī) [right-armpit](dakṣiṇakakṣe) [axe](paraśuḥ)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ) [kirīṭī](kirīṭī) [dakṣiṇakakṣe+paraśuḥ](dakṣiṇakakṣe paraśuḥ)
 
 ## mukta-m0-p154-v3838
-[name](kulapakṣakaḥ) [śūdra](śūdraḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [left](vāme) [cloth-bundle](vastragranthiḥ)
+[śūdraḥ](śūdraḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ) [vāme+vastragranthiḥ](vāme vastragranthiḥ)
 
 ## mukta-m0-p154-v3839
-[name](pūtavatī) [vaiśya-maiden](vaiśyakanyā) [with-folded-hands](sāṃjalibaṃdhā) [standing](sthitā)
+[vaiśyakanyā](vaiśyakanyā) [sāṃjalibaṃdhā](sāṃjalibaṃdhā)
 
 ## mukta-m0-p154-v3840
-[name](vidyāśūraḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3841
-[name](abhūticaraḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3842
-[name](navanaṃdaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3843
-[name](kalikāmaḥ) [fifth-class](paṃcamaḥ) [wearing-crown](kirīṭī) [with-folded-hands](sāṃjalibaṃdhaḥ) [left-sword](vāmekhaḍgaḥ)
+[paṃcamaḥ](paṃcamaḥ) [kirīṭī](kirīṭī) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ) [vāme+khaḍgaḥ](vāmekhaḍgaḥ)
 
 ## mukta-m0-p154-v3844
-[name](dabrabhaktaḥ) [buruḍa](buruḍaḥ) [with-cloth-blanket-etc-made-object-covered-up-to-ear-head](vastrakambalādinirmitavastuviśeṣeṇāvṛtakarṇāntamastakaḥ) [left-armpit](vāmakakṣe) [bag](vāśikā) [with-folded-hands](sāṃjalibaṃdhaḥ)
+[buruḍaḥ](buruḍaḥ) [vastrakambalādinirmitavastuviśeṣeṇāvṛtakarṇāntamastakaḥ](vastrakambalādinirmitavastuviśeṣeṇāvṛtakarṇāntamastakaḥ) [vāmakakṣe+vāśikā](vāmakakṣe vāśikā) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3845
-[name](śrīmūlaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [matted-hair-crown-bearer](jaṭāmakuṭadhārī)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ) [jaṭāmakuṭadhārī](jaṭāmakuṭadhārī)
 
 ## mukta-m0-p154-v3846
-[name](mārasukumāraḥ) [śūdra](śūdraḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
+[śūdraḥ](śūdraḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3847
-[name](kaśyanāthaḥ) [kṣatriya](kṣatriyaḥ) [crooked-crest](vakraśikhaḥ) [left-hand](vāmakare) [having-stone-child](śilāputrakavān) [with-outstretched-feet-seated](prasṛtapadbhyāmupaviṣṭaḥ)
+[kṣatriyaḥ](kṣatriyaḥ) [vakraśikhaḥ](vakraśikhaḥ) [vāmakare+śilāputrakavān](vāmakare śilāputrakavān) [prasṛtapadbhyām+upaviṣṭaḥ](prasṛtapadbhyāmupaviṣṭaḥ)
 
 ## mukta-m0-p154-v3848
-[name](mukhanaṃdanaḥ) [hunter](vyādhaḥ) [right-hand](dakṣakare) [short-wood-etc-cutting-sword-like-weapon-holding](hrasvaṃ) [short-wood-etc-cutting-sword-like-weapon-holding](kāṣṭhādicchedakaṃ) [short-wood-etc-cutting-sword-like-weapon-holding](khaḍgasadṛśamāyudhaṃdadhānaḥ)
+[vyādhaḥ](vyādhaḥ) [dakṣakare+hrasvaṃ+kāṣṭhādicchedakaṃ+khaḍgasadṛśamāyudhaṃdadhānaḥ](dakṣakare hrasvaṃ kāṣṭhādicchedakaṃ khaḍgasadṛśamāyudhaṃdadhānaḥ)
 
 ## mukta-m0-p154-v3849
-[name](niruddhaśārdūlaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3850
-[name](mataṃgaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
+[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)

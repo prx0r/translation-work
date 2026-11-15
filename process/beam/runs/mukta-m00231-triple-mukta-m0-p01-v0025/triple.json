@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "sarvajñaḥ",
+     "gloss": "all-knowing",
+     "grounds": "compound sarva+jña; nominative singular masculine ending -aḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvakartā",
+     "gloss": "all-maker",
+     "grounds": "compound sarva+kartṛ; nominative singular masculine ending -ā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveśo",
+     "gloss": "all-lord",
+     "grounds": "compound sarva+īśa; nominative singular masculine ending -o",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirmalodayaḥ",
+     "gloss": "pure-rise",
+     "grounds": "compound nirmala+udaya; nominative singular masculine ending -aḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities define the guru whose instruction must be sought?",
+   "premises": [
+    "guru instruction is necessary for practice",
+    "the guru is all-knowing and all-making",
+    "the guru is all-lord with pure rise"
+   ],
+   "inference": "therefore seek the guru's instruction",
+   "uncertainties": [
+    "verse lacks explicit guru noun",
+    "context supplies guru referent"
+   ],
+   "plain_english": "He is all-knowing, all-making, and all-lord, with pure rise."
+  }
+ ]
+}

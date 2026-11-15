@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2180,
- "question": "Over what range should the fire-pit measurement be progressively increased?",
+ "question": "What ten-syllable mantra ends with krishna and sugarcane bow?",
  "premises": [
-  "The increase begins from one cubit.",
-  "The increase extends up to ten cubits.",
-  "The practitioner is instructed to increase the measure."
+  "krishna word is included",
+  "sugarcane bow end is included",
+  "mantra has ten syllables"
  ],
- "inference": "The fire-pit size should be increased progressively from one cubit up to ten cubits.",
- "uncertainties": [],
- "plain_english": "Likewise, beginning from one cubit, one should increase the measure up to ten cubits."
+ "inference": "the mantra is a ten-syllable krishna mantra ending with sugarcane bow",
+ "uncertainties": [
+  "full mantra sequence is not given"
+ ],
+ "plain_english": "A ten-syllable mantra includes Krishna and ends with sugarcane bow."
 }

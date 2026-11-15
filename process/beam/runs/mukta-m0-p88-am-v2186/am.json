@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2186,
- "question": "What root measure in finger-units and barley-units corresponds to the previous quantity?",
+ "question": "Which god is named with pankti meter?",
  "premises": [
-  "A root of the previous quantity is stated.",
-  "The root includes forty-one finger-units.",
-  "The root also includes four barley-units."
+  "pankti meter is named",
+  "sadashiva is named as god"
  ],
- "inference": "The corresponding root measure is forty-one finger-units and four barley-units.",
- "uncertainties": [],
- "plain_english": "Its root is forty-one finger-units and four barley-units."
+ "inference": "sadashiva is the god associated with pankti meter",
+ "uncertainties": [
+  "mantra context is absent"
+ ],
+ "plain_english": "Sadashiva is the god associated with pankti meter."
 }

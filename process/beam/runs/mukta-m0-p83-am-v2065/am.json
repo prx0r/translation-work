@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p83",
  "verse": 2065,
- "question": "How does the height vary between the highest and the middle or lowest measures?",
+ "question": "What becomes the other vārāhī between the tāra pair?",
  "premises": [
-  "Different measure classes exist.",
-  "The highest has a reference height.",
-  "Middle and lowest are half that height."
+  "ttvāṃ means tvām",
+  "tārayormadhye means in middle of tāra pair",
+  "vārāhī names goddess",
+  "aparā means other",
+  "bhavet means becomes"
  ],
- "inference": "In the middle and lowest cases, they are half the height of the highest.",
- "uncertainties": [],
- "plain_english": "In the highest case they have that height, and in the middle and lowest cases they are half as high."
+ "inference": "Another vārāhī becomes situated between the tāra pair.",
+ "uncertainties": [
+  "fused sandhi in ttvāṃ"
+ ],
+ "plain_english": "Between the tāra pair, another vārāhī becomes."
 }

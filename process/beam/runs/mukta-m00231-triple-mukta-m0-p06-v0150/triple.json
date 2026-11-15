@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "pañcaśuddhiṃ vinā",
+     "gloss": "without-five-purification",
+     "grounds": "pañcaśuddhiṃ is the accusative object of vinā; vinā is indeclinable meaning without",
+     "morph": "acc.sg.f + (indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "subject of kalpate",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "abhicārāya",
+     "gloss": "for-sorcery",
+     "grounds": "dative of purpose",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "becomes",
+     "grounds": "finite verb of the sentence",
+     "morph": "3.sg.ātm.-pres. (root kḷp)"
+    }
+   ],
+   "question": "What does worship without the five purifications become fit for?",
+   "premises": [
+    "Worship lacks the five purifications.",
+    "Such worship becomes fit for sorcery."
+   ],
+   "inference": "The absence of the five purifications turns worship into something fit for sorcery.",
+   "uncertainties": [
+    "The exact constituents of pañcaśuddhi are not specified in this verse."
+   ],
+   "plain_english": "Worship without the five purifications becomes fit for sorcery."
+  }
+ ]
+}

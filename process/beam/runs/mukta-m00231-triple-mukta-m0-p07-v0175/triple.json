@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "ādhāraśaktiṃ",
+     "gloss": "base-power",
+     "grounds": "accusative object of saṃprocya",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "saṃprocya",
+     "gloss": "having-invoked",
+     "grounds": "gerund governing the accusative base-power",
+     "morph": "gerund (saṃ-pra-vac)"
+    },
+    {
+     "surface": "ṅeyutaṃ",
+     "gloss": "with-ṅa",
+     "grounds": "adjective modifying kamalāsanam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kamalāsanam",
+     "gloss": "lotus-seat",
+     "grounds": "accusative seat to be prepared",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What must be done with the base-power and the lotus-seat joined with ṅa?",
+   "premises": [
+    "Base-power is invoked first.",
+    "Lotus-seat is joined with ṅa.",
+    "Seat is prepared after invocation."
+   ],
+   "inference": "Ritual preparation requires invoking base-power before preparing the ṅa-joined lotus-seat.",
+   "uncertainties": [
+    "Exact ritual action of saṃprocya is not specified beyond invocation."
+   ],
+   "plain_english": "Having invoked the base power, one prepares the lotus seat joined with ṅa."
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rite",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devatā+ālayam",
+     "gloss": "deity-temple",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the practitioner prepare the self as a deity-temple after obtaining water according to rite?",
+   "premises": [
+    "water is obtained according to rite",
+    "the self is made a deity-temple"
+   ],
+   "inference": "ritual preparation transforms the self into a temple of the deity",
+   "uncertainties": [
+    "exact ritual sequence beyond verse"
+   ],
+   "plain_english": "Having obtained water according to rite, one makes the self a temple of the deity."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "unmajya",
+     "gloss": "having-emerged",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utthāya",
+     "gloss": "having-risen",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "kula+darbhaṃ",
+     "gloss": "kula-grass",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhārayet",
+     "gloss": "should-hold",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What should the practitioner hold after emerging and rising?",
+   "premises": [
+    "after emerging one rises",
+    "kula-grass is to be held"
+   ],
+   "inference": "the rite requires holding kula-grass after emergence and rising",
+   "uncertainties": [
+    "identity of kula-grass"
+   ],
+   "plain_english": "Having emerged, then risen, one should hold kula-grass."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāktaiḥ",
+     "gloss": "by-śāktas",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vanyāḥ",
+     "gloss": "wild",
+     "grounds": "legacy hint",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kuśāḥ",
+     "gloss": "kuśa-grasses",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kuśāḥ",
+     "gloss": "kuśa-grasses",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who should take the grass there, and which grasses are excluded?",
+   "premises": [
+    "there the grass is to be taken by śāktas themselves",
+    "wild kuśa-grasses are not to be taken"
+   ],
+   "inference": "the rite specifies self-taking by śāktas and rejects wild kuśa",
+   "uncertainties": [
+    "repeated kuśāḥ may be emphasis or variant"
+   ],
+   "plain_english": "There the grass is to be taken by śāktas themselves, not wild kuśa-grasses."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet+darbhaḥ",
+     "gloss": "becomes-grass",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darbho",
+     "gloss": "grass",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vana+sambhavaḥ",
+     "gloss": "forest-born",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which grass counts as proper darbha in this rite?",
+   "premises": [
+    "this indeed becomes grass",
+    "forest-born grass is not grass"
+   ],
+   "inference": "proper darbha is not merely forest-born grass",
+   "uncertainties": [
+    "referent of eṣa"
+   ],
+   "plain_english": "This indeed becomes grass; forest-born grass is not grass."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "tasmāt+dūrvā",
+     "gloss": "therefore-dūrvā",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "grahītavyā",
+     "gloss": "to-be-taken",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+puṣpa+mayī",
+     "gloss": "all-flower-made",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should dūrvā be taken, and what is it made of?",
+   "premises": [
+    "therefore dūrvā is to be taken",
+    "it is all-flower-made"
+   ],
+   "inference": "dūrvā is prescribed because it is all-flower-made",
+   "uncertainties": [
+    "causal clause incomplete in excerpt"
+   ],
+   "plain_english": "Therefore dūrvā is to be taken, because it is all-flower-made."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "ācāmet+ātma+tattva+ādyaiḥ",
+     "gloss": "should-sip-with-self-principle-etc",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "praṇava+ādyaiḥ",
+     "gloss": "praṇava-etc",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "svadhā+antikaiḥ",
+     "gloss": "svadhā-ending",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "With what should one sip during the rite?",
+   "premises": [
+    "one should sip with self-principle etc",
+    "praṇava etc and svadhā-ending are used"
+   ],
+   "inference": "sipping is accompanied by self-principle, praṇava, and svadhā-ending formulas",
+   "uncertainties": [
+    "exact sequence of sipping"
+   ],
+   "plain_english": "One should sip with self-principle etc, praṇava etc, and svadhā-ending."
+  }
+ ]
+}

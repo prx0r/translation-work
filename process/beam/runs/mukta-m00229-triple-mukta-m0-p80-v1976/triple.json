@@ -1,0 +1,996 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 1976,
+   "rows": [
+    {
+     "surface": "vana",
+     "gloss": "forest",
+     "grounds": "legacy hint forest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durga",
+     "grounds": "legacy hint durga",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ākhyā",
+     "gloss": "named",
+     "grounds": "legacy hint named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "m/f/n.nom.sg"
+    },
+    {
+     "surface": "durga",
+     "gloss": "durga",
+     "grounds": "legacy hint durga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vināśinī",
+     "gloss": "destroying",
+     "grounds": "legacy hint destroying",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which śakti named vana-durgā destroys all durgas?",
+   "premises": [
+    "vana-durgā is named forest-durgā",
+    "she destroys all durgas"
+   ],
+   "inference": "The verse identifies vana-durgā as the all-durga-destroying śakti.",
+   "uncertainties": [
+    "exact grammatical gender of sarva and durga"
+   ],
+   "plain_english": "Vana-durgā, named forest-durgā, is the śakti who destroys all durgas."
+  },
+  {
+   "verse": 1977,
+   "rows": [
+    {
+     "surface": "śakti",
+     "gloss": "śakti",
+     "grounds": "legacy hint śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon",
+     "grounds": "legacy hint weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "legacy hint fire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vadhūr",
+     "gloss": "bride",
+     "grounds": "legacy hint bride",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What becomes the weapon of śakti when fire is her bride?",
+   "premises": [
+    "śakti has a weapon",
+    "fire is her bride"
+   ],
+   "inference": "The verse states that śakti's weapon becomes fire's bride.",
+   "uncertainties": [
+    "precise ritual referent of vadhūr"
+   ],
+   "plain_english": "Śakti's weapon becomes fire's bride."
+  },
+  {
+   "verse": 1978,
+   "rows": [
+    {
+     "surface": "śakti",
+     "gloss": "śakti",
+     "grounds": "legacy hint śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "legacy hint three",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattva",
+     "gloss": "principles",
+     "grounds": "legacy hint principles",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāk",
+     "gloss": "speech",
+     "grounds": "legacy hint speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "legacy hint seed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāramantrān",
+     "gloss": "tāra-mantras",
+     "grounds": "legacy hint tāra-mantras",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "extracts",
+     "grounds": "legacy hint extracts",
+     "morph": "3.sg.act-pres+root ud-dhṛ"
+    }
+   ],
+   "question": "How does śakti extract tāra-mantras from three principles of speech?",
+   "premises": [
+    "śakti acts on three principles",
+    "speech-seed yields tāra-mantras"
+   ],
+   "inference": "The verse says śakti extracts tāra-mantras from the three principles of speech.",
+   "uncertainties": [
+    "exact relation of bījaṃ to tattva"
+   ],
+   "plain_english": "Śakti extracts the tāra-mantras from the three principles of speech."
+  },
+  {
+   "verse": 1979,
+   "rows": [
+    {
+     "surface": "dvicāntaḥ",
+     "gloss": "two-ended",
+     "grounds": "legacy hint two-ended",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triśaktiḥ",
+     "gloss": "three-śakti",
+     "grounds": "legacy hint three-śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāvadakṣarī",
+     "gloss": "so-many-syllables",
+     "grounds": "legacy hint so-many-syllables",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many syllables does the two-ended three-śakti form have?",
+   "premises": [
+    "the form is two-ended",
+    "it is three-śakti"
+   ],
+   "inference": "The verse calls that form tāvadakṣarī, a so-many-syllable form.",
+   "uncertainties": [
+    "exact syllable count"
+   ],
+   "plain_english": "That two-ended three-śakti form is a so-many-syllable form."
+  },
+  {
+   "verse": 1980,
+   "rows": [
+    {
+     "surface": "chinnamastā",
+     "gloss": "severed-head",
+     "grounds": "legacy hint severed-head",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "manu",
+     "grounds": "legacy hint manu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What becomes the manu of the severed-head goddess?",
+   "premises": [
+    "chinnamastā is the severed-head goddess",
+    "her manu is declared"
+   ],
+   "inference": "The verse states that chinnamastā's manu becomes as given.",
+   "uncertainties": [
+    "full manu text not supplied"
+   ],
+   "plain_english": "The severed-head goddess's manu becomes as declared."
+  },
+  {
+   "verse": 1981,
+   "rows": [
+    {
+     "surface": "māyāyugmaṃ",
+     "gloss": "māyā-pair",
+     "grounds": "legacy hint māyā-pair",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phaḍ",
+     "gloss": "phaṭ",
+     "grounds": "legacy hint phaṭ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "utters",
+     "grounds": "legacy hint utters",
+     "morph": "3.sg.act-pres+root uc-car"
+    }
+   ],
+   "question": "What is uttered together with the māyā-pair?",
+   "premises": [
+    "māyā-pair is present",
+    "phaṭ is uttered"
+   ],
+   "inference": "The verse says the māyā-pair is uttered with phaṭ.",
+   "uncertainties": [
+    "ritual placement of phaṭ"
+   ],
+   "plain_english": "The māyā-pair is uttered with phaṭ."
+  },
+  {
+   "verse": 1982,
+   "rows": [
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "five",
+     "grounds": "legacy hint five",
+     "morph": "m/f/n.instr.pl"
+    },
+    {
+     "surface": "ādyantamadhyeṣu",
+     "gloss": "beginning-middle-end",
+     "grounds": "legacy hint beginning-middle-end",
+     "morph": "m/f/n.loc.pl"
+    },
+    {
+     "surface": "militaiḥ",
+     "gloss": "united",
+     "grounds": "legacy hint united",
+     "morph": "m/f/n.instr.pl"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "legacy hint separately",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are five elements treated in beginning, middle, and end?",
+   "premises": [
+    "five are united",
+    "they are treated separately"
+   ],
+   "inference": "The verse says five united elements are treated separately in beginning, middle, and end.",
+   "uncertainties": [
+    "exact ritual operation"
+   ],
+   "plain_english": "Five united elements are treated separately in beginning, middle, and end."
+  },
+  {
+   "verse": 1983,
+   "rows": [
+    {
+     "surface": "samrāḍ",
+     "gloss": "emperor",
+     "grounds": "legacy hint emperor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "legacy hint here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "m.nom.sg.past-part+root pra-vac"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "legacy hint meter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "legacy hint of-her",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "legacy hint bhairava",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What meter is declared here for her bhairava form?",
+   "premises": [
+    "samrāḍ is declared here",
+    "her meter becomes bhairava"
+   ],
+   "inference": "The verse declares samrāḍ as the meter and her form becomes bhairava.",
+   "uncertainties": [
+    "identity of asyāḥ"
+   ],
+   "plain_english": "Here samrāḍ is declared as her meter, and her form becomes bhairava."
+  },
+  {
+   "verse": 1984,
+   "rows": [
+    {
+     "surface": "viyat",
+     "gloss": "space",
+     "grounds": "legacy hint space",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadādi",
+     "gloss": "that-beginning",
+     "grounds": "legacy hint that-beginning",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kendrāgni",
+     "gloss": "center-fire",
+     "grounds": "legacy hint center-fire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "legacy hint situated",
+     "morph": "n.nom.sg.past-part+root sthā"
+    },
+    {
+     "surface": "vāmākṣi",
+     "gloss": "left-eye",
+     "grounds": "legacy hint left-eye",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bindumat",
+     "gloss": "bindu",
+     "grounds": "legacy hint bindu",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the bindu situated from space through center-fire?",
+   "premises": [
+    "space begins the sequence",
+    "center-fire is situated",
+    "left-eye bindu is present"
+   ],
+   "inference": "The verse places bindu in the left eye after space and center-fire.",
+   "uncertainties": [
+    "exact spatial mapping"
+   ],
+   "plain_english": "From space through center-fire, the bindu is situated in the left eye."
+  },
+  {
+   "verse": 1985,
+   "rows": [
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "legacy hint first",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "legacy hint seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmabījaṃ",
+     "gloss": "kāma-seed",
+     "grounds": "legacy hint kāma-seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "legacy hint second",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which seed is first and which is second?",
+   "premises": [
+    "first seed is stated",
+    "kāma-seed is second"
+   ],
+   "inference": "The verse identifies the first seed and makes kāma-seed second.",
+   "uncertainties": [
+    "identity of first seed"
+   ],
+   "plain_english": "The first seed is stated, and kāma-seed is second."
+  },
+  {
+   "verse": 1986,
+   "rows": [
+    {
+     "surface": "pañcakūṭa",
+     "gloss": "five-peaks",
+     "grounds": "legacy hint five-peaks",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmikā",
+     "gloss": "nature",
+     "grounds": "legacy hint nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "legacy hint vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedyā",
+     "gloss": "known",
+     "grounds": "legacy hint known",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tripurabhairavī",
+     "gloss": "tripura-bhairavī",
+     "grounds": "legacy hint tripura-bhairavī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What five-peak vidyā is known as tripura-bhairavī?",
+   "premises": [
+    "five-peak nature is vidyā",
+    "it is known as tripura-bhairavī"
+   ],
+   "inference": "The verse identifies the five-peak vidyā with tripura-bhairavī.",
+   "uncertainties": [
+    "exact five peaks"
+   ],
+   "plain_english": "The five-peak vidyā known as tripura-bhairavī is tripura-bhairavī."
+  },
+  {
+   "verse": 1987,
+   "rows": [
+    {
+     "surface": "deśikaiḥ",
+     "gloss": "by-teachers",
+     "grounds": "legacy hint by-teachers",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "f.nom.sg.past-part+root vac"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "legacy hint goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tripurabhairavī",
+     "gloss": "tripura-bhairavī",
+     "grounds": "legacy hint tripura-bhairavī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who declared the goddess tripura-bhairavī?",
+   "premises": [
+    "teachers declared her",
+    "she is tripura-bhairavī"
+   ],
+   "inference": "The verse says teachers declared the goddess tripura-bhairavī.",
+   "uncertainties": [
+    "which teachers"
+   ],
+   "plain_english": "Teachers declared the goddess tripura-bhairavī."
+  },
+  {
+   "verse": 1988,
+   "rows": [
+    {
+     "surface": "candrabīja",
+     "gloss": "moon-seed",
+     "grounds": "legacy hint moon-seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "legacy hint below",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivabījam",
+     "gloss": "śiva-seed",
+     "grounds": "legacy hint śiva-seed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "sometimes",
+     "grounds": "legacy hint sometimes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is śiva-seed placed below moon-seed?",
+   "premises": [
+    "moon-seed is present",
+    "śiva-seed is below sometimes"
+   ],
+   "inference": "The verse says śiva-seed is sometimes below moon-seed.",
+   "uncertainties": [
+    "context of placement"
+   ],
+   "plain_english": "Sometimes śiva-seed is below moon-seed."
+  },
+  {
+   "verse": 1989,
+   "rows": [
+    {
+     "surface": "ṣaṭkūṭam",
+     "gloss": "six-peaks",
+     "grounds": "legacy hint six-peaks",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "called",
+     "grounds": "legacy hint called",
+     "morph": "n.nom.sg.past-part+root kath"
+    },
+    {
+     "surface": "bindunādayutaṃ",
+     "gloss": "bindu-nāda-joined",
+     "grounds": "legacy hint bindu-nāda-joined",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "legacy hint in-order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is this six-peak form called when joined with bindu and nāda?",
+   "premises": [
+    "this is six-peaks",
+    "it is joined with bindu and nāda"
+   ],
+   "inference": "The verse calls this six-peak form bindu-nāda-joined in order.",
+   "uncertainties": [
+    "exact ordering"
+   ],
+   "plain_english": "This six-peak form is called bindu-nāda-joined in order."
+  },
+  {
+   "verse": 1990,
+   "rows": [
+    {
+     "surface": "pūrvoktabhairavīmantre",
+     "gloss": "previously-declared-bhairavī-mantra",
+     "grounds": "legacy hint previously-declared-bhairavī-mantra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāmakūṭe",
+     "gloss": "kāma-peak",
+     "grounds": "legacy hint kāma-peak",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "legacy hint supreme",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivām",
+     "gloss": "śivā",
+     "grounds": "legacy hint śivā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is supreme śivā in the kāma-peak of the previously declared bhairavī mantra?",
+   "premises": [
+    "previously declared bhairavī mantra is referenced",
+    "kāma-peak contains supreme śivā"
+   ],
+   "inference": "The verse identifies supreme śivā in the kāma-peak of that mantra.",
+   "uncertainties": [
+    "exact mantra structure"
+   ],
+   "plain_english": "In the kāma-peak of the previously declared bhairavī mantra is supreme śivā."
+  },
+  {
+   "verse": 1991,
+   "rows": [
+    {
+     "surface": "mādanaṃ",
+     "gloss": "maddening",
+     "grounds": "legacy hint maddening",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "legacy hint seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "śiva",
+     "grounds": "legacy hint śiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "legacy hint threefold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "How does the maddening seed of śiva become here?",
+   "premises": [
+    "maddening seed is śiva's",
+    "it becomes threefold here"
+   ],
+   "inference": "The verse says the maddening seed of śiva becomes threefold here.",
+   "uncertainties": [
+    "threefold division"
+   ],
+   "plain_english": "Here the maddening seed of śiva becomes threefold."
+  },
+  {
+   "verse": 1992,
+   "rows": [
+    {
+     "surface": "cādyayugmaṃ",
+     "gloss": "c-initial-pair",
+     "grounds": "legacy hint c-initial-pair",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "antyaṃ",
+     "gloss": "final",
+     "grounds": "legacy hint final",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "visargavat",
+     "gloss": "with-visarga",
+     "grounds": "legacy hint with-visarga",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What final pair begins with c and has visarga?",
+   "premises": [
+    "c-initial pair is present",
+    "final form has visarga"
+   ],
+   "inference": "The verse describes a c-initial pair as final with visarga.",
+   "uncertainties": [
+    "exact syllables"
+   ],
+   "plain_english": "The c-initial pair is final with visarga."
+  },
+  {
+   "verse": 1993,
+   "rows": [
+    {
+     "surface": "ṣaṭkūṭabhairavīvarṇān",
+     "gloss": "six-peak-bhairavī-letters",
+     "grounds": "legacy hint six-peak-bhairavī-letters",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saṃhārakramato",
+     "gloss": "in-dissolution-order",
+     "grounds": "legacy hint in-dissolution-order",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "writes",
+     "grounds": "legacy hint writes",
+     "morph": "3.sg.act-pres+root likh"
+    }
+   ],
+   "question": "In what order are the six-peak bhairavī letters written?",
+   "premises": [
+    "six-peak bhairavī letters are present",
+    "they are written in dissolution order"
+   ],
+   "inference": "The verse says to write the six-peak bhairavī letters in dissolution order.",
+   "uncertainties": [
+    "exact dissolution sequence"
+   ],
+   "plain_english": "Write the six-peak bhairavī letters in dissolution order."
+  },
+  {
+   "verse": 1994,
+   "rows": [
+    {
+     "surface": "ḍāmareśvarabhairavyāḥ",
+     "gloss": "of-ḍāmareśvara-bhairavī",
+     "grounds": "legacy hint of-ḍāmareśvara-bhairavī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "kāma",
+     "grounds": "legacy hint kāma",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hitvā",
+     "gloss": "abandoning",
+     "grounds": "legacy hint abandoning",
+     "morph": "absolutive+root hā"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "O-goddess",
+     "grounds": "legacy hint O-goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is abandoned from ḍāmareśvara-bhairavī, O goddess?",
+   "premises": [
+    "ḍāmareśvara-bhairavī is referenced",
+    "kāma is abandoned"
+   ],
+   "inference": "The verse says to abandon kāma from ḍāmareśvara-bhairavī, O goddess.",
+   "uncertainties": [
+    "ritual implication"
+   ],
+   "plain_english": "Abandon kāma from ḍāmareśvara-bhairavī, O goddess."
+  },
+  {
+   "verse": 1995,
+   "rows": [
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "legacy hint name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "legacy hint bhairavī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samudāhṛtā",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "f.nom.sg.past-part+root sam-ud-ā-hṛ"
+    }
+   ],
+   "question": "What name of bhairavī is declared?",
+   "premises": [
+    "name is present",
+    "bhairavī is declared"
+   ],
+   "inference": "The verse declares the name bhairavī.",
+   "uncertainties": [
+    "which specific name"
+   ],
+   "plain_english": "The name bhairavī is declared."
+  },
+  {
+   "verse": 1996,
+   "rows": [
+    {
+     "surface": "ceyam",
+     "gloss": "and-this",
+     "grounds": "legacy hint and-this",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īśvarī",
+     "gloss": "goddess",
+     "grounds": "legacy hint goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is this goddess called?",
+   "premises": [
+    "this is present",
+    "she is īśvarī"
+   ],
+   "inference": "The verse calls this goddess īśvarī.",
+   "uncertainties": [
+    "exact referent"
+   ],
+   "plain_english": "This goddess is īśvarī."
+  },
+  {
+   "verse": 1997,
+   "rows": [
+    {
+     "surface": "bhṛgusargāḍhyo",
+     "gloss": "bhṛgu-creation-rich",
+     "grounds": "legacy hint bhṛgu-creation-rich",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "manu",
+     "grounds": "legacy hint manu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tārttiyam",
+     "gloss": "tārttīya",
+     "grounds": "legacy hint tārttīya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "n.nom.sg.past-part+root īr"
+    }
+   ],
+   "question": "What manu rich in bhṛgu-creation is declared as tārttīya?",
+   "premises": [
+    "bhṛgu-creation-rich manu is present",
+    "tārttīya is declared"
+   ],
+   "inference": "The verse declares the bhṛgu-creation-rich manu as tārttīya.",
+   "uncertainties": [
+    "exact manu text"
+   ],
+   "plain_english": "The bhṛgu-creation-rich manu is declared as tārttīya."
+  },
+  {
+   "verse": 1998,
+   "rows": [
+    {
+     "surface": "tathādiṃ",
+     "gloss": "and-beginning",
+     "grounds": "legacy hint and-beginning",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "legacy hint ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-same",
+     "grounds": "legacy hint that-same",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śīghraphalā",
+     "gloss": "quick-fruit",
+     "grounds": "legacy hint quick-fruit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What becomes quick-fruit when that same form begins?",
+   "premises": [
+    "that same form begins",
+    "it becomes quick-fruit"
+   ],
+   "inference": "The verse says that same form becomes quick-fruit.",
+   "uncertainties": [
+    "exact form"
+   ],
+   "plain_english": "That same form becomes quick-fruit."
+  },
+  {
+   "verse": 1999,
+   "rows": [
+    {
+     "surface": "tripureśānī",
+     "gloss": "tripureśānī",
+     "grounds": "legacy hint tripureśānī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhajatāṃ",
+     "gloss": "worshipping",
+     "grounds": "legacy hint worshipping",
+     "morph": "m/f/n.gen.pl.participle+root bhaj"
+    },
+    {
+     "surface": "kāmado",
+     "gloss": "desire-giving",
+     "grounds": "legacy hint desire-giving",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maṇiḥ",
+     "gloss": "jewel",
+     "grounds": "legacy hint jewel",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What jewel gives desires to those worshipping tripureśānī?",
+   "premises": [
+    "tripureśānī is worshipped",
+    "the jewel gives desires"
+   ],
+   "inference": "The verse calls the desire-giving jewel for worshippers of tripureśānī.",
+   "uncertainties": [
+    "exact jewel identity"
+   ],
+   "plain_english": "The desire-giving jewel is for those worshipping tripureśānī."
+  }
+ ]
+}

@@ -1,0 +1,1174 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2076,
+   "rows": [
+    {
+     "surface": "vighno",
+     "gloss": "obstacle",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatāsya",
+     "gloss": "of-the-deity",
+     "grounds": "genitive singular feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive singular neuter",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "udīritā",
+     "gloss": "declared",
+     "grounds": "past participle feminine nominative",
+     "morph": "f.nom.sg.pastpart"
+    }
+   ],
+   "question": "What obstacle is declared for this deity's form?",
+   "premises": [
+    "vighna is the obstacle",
+    "devatā is the deity",
+    "asya refers to this form"
+   ],
+   "inference": "The verse identifies an obstacle belonging to this deity-form.",
+   "uncertainties": [
+    "exact deity unnamed in this excerpt"
+   ],
+   "plain_english": "An obstacle is declared for this deity's form."
+  },
+  {
+   "verse": 2077,
+   "rows": [
+    {
+     "surface": "tārā",
+     "gloss": "tara-syllable",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛdaya",
+     "gloss": "heart",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "end",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "heramba",
+     "gloss": "heramba",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manu",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle masculine nominative",
+     "morph": "m.nom.sg.pastpart"
+    }
+   ],
+   "question": "Which mantra is declared from tara through heart to end?",
+   "premises": [
+    "tārā marks the beginning",
+    "hṛdaya marks the middle",
+    "antaḥ marks the end",
+    "heramba is the mantra"
+   ],
+   "inference": "The heramba mantra is declared with this syllabic span.",
+   "uncertainties": [
+    "exact syllable sequence not fully explicit"
+   ],
+   "plain_english": "This heramba mantra is declared from beginning through heart to end."
+  },
+  {
+   "verse": 2078,
+   "rows": [
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "nominative plural neuter",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "letters",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmaṇya",
+     "gloss": "brahman-related",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ātmako",
+     "gloss": "having-self",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of seven-letter mantra is described here?",
+   "premises": [
+    "sapta means seven",
+    "varṇaḥ means letters",
+    "sva-brahmaṇya-ātmaka qualifies the mantra"
+   ],
+   "inference": "The mantra has seven letters and an own brahman-self nature.",
+   "uncertainties": [
+    "exact mantra text not given"
+   ],
+   "plain_english": "A seven-letter mantra of own brahman-self nature is described."
+  },
+  {
+   "verse": 2079,
+   "rows": [
+    {
+     "surface": "durgām",
+     "gloss": "durga",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ārādhyāṃ",
+     "gloss": "to-be-worshipped",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "should-rescue",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What single worshipped durga should one rescue?",
+   "premises": [
+    "durgām is accusative",
+    "ekā means one",
+    "ārādhyāṃ means worshipped",
+    "samuddharet means should rescue"
+   ],
+   "inference": "One should rescue the single worshipped Durga.",
+   "uncertainties": [
+    "ritual context unspecified"
+   ],
+   "plain_english": "One should rescue the one worshipped Durga."
+  },
+  {
+   "verse": 2080,
+   "rows": [
+    {
+     "surface": "saṃproktaḥ",
+     "gloss": "well-declared",
+     "grounds": "past participle masculine nominative",
+     "morph": "m.nom.sg.pastpart"
+    },
+    {
+     "surface": "suśrī",
+     "gloss": "beautiful-sri",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vādi",
+     "gloss": "speaker",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Who is well-declared as speaker in order?",
+   "premises": [
+    "saṃproktaḥ means well-declared",
+    "suśrī qualifies the speaker",
+    "vādi means speaker",
+    "kramāt means in order"
+   ],
+   "inference": "The beautiful Sri speaker is well-declared in order.",
+   "uncertainties": [
+    "identity of speaker unclear"
+   ],
+   "plain_english": "The beautiful Sri speaker is well-declared in order."
+  },
+  {
+   "verse": 2081,
+   "rows": [
+    {
+     "surface": "ṅentam",
+     "gloss": "nga-enta",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucchiṣṭa",
+     "gloss": "leftover",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śabdāḍhyaṃ",
+     "gloss": "rich-in-sound",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āḍhyaṃ",
+     "gloss": "rich",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahātmānaṃ",
+     "gloss": "great-soul",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What great soul rich in leftover sound should one say?",
+   "premises": [
+    "ucchiṣṭa means leftover",
+    "śabdāḍhyaṃ means rich in sound",
+    "mahātmānaṃ means great soul",
+    "vadet means should say"
+   ],
+   "inference": "One should say the great soul rich in leftover sound.",
+   "uncertainties": [
+    "exact referent of ṅentam unclear"
+   ],
+   "plain_english": "One should say the great soul rich in leftover sound."
+  },
+  {
+   "verse": 2082,
+   "rows": [
+    {
+     "surface": "ṅentam",
+     "gloss": "nga-enta",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucchiṣṭa",
+     "gloss": "leftover",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svaha",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭāviṃśat",
+     "gloss": "twenty-eight",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arṇavān",
+     "gloss": "letters",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How many letters belong to the leftover svaha form?",
+   "premises": [
+    "ucchiṣṭa means leftover",
+    "svāhā is the offering word",
+    "aṣṭāviṃśat means twenty-eight",
+    "arṇavān means letters"
+   ],
+   "inference": "The leftover svaha form has twenty-eight letters.",
+   "uncertainties": [
+    "exact mantra sequence not given"
+   ],
+   "plain_english": "The leftover svaha form has twenty-eight letters."
+  },
+  {
+   "verse": 2083,
+   "rows": [
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭākṣaro",
+     "gloss": "eight-syllabled",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What eight-syllabled form arises with maya at end?",
+   "premises": [
+    "māyā is the syllable",
+    "ante means at end",
+    "namaḥ means salutation",
+    "aṣṭākṣaro means eight-syllabled"
+   ],
+   "inference": "An eight-syllabled form arises with maya at the end.",
+   "uncertainties": [
+    "full mantra not explicit"
+   ],
+   "plain_english": "An eight-syllabled form arises with maya at the end."
+  },
+  {
+   "verse": 2084,
+   "rows": [
+    {
+     "surface": "bhṛguḥ",
+     "gloss": "bhrgu",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃktiḥ",
+     "gloss": "pankti-meter",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "somo",
+     "gloss": "soma",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive singular neuter",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What meter and deity are assigned to this form?",
+   "premises": [
+    "bhṛguḥ is the seer",
+    "chandaḥ means meter",
+    "paṃktiḥ is the meter",
+    "somo is the deity"
+   ],
+   "inference": "The form has bhrgu as seer, pancti meter, and soma as deity.",
+   "uncertainties": [
+    "exact mantra not stated"
+   ],
+   "plain_english": "Bhrgu is seer, pancti is meter, and soma is deity."
+  },
+  {
+   "verse": 2085,
+   "rows": [
+    {
+     "surface": "marut",
+     "gloss": "marut",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sanetro",
+     "gloss": "with-eye",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atris",
+     "gloss": "atri",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tya",
+     "gloss": "that",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "apaścimaḥ",
+     "gloss": "without-last",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remainder and seer qualities are named here?",
+   "premises": [
+    "marut is named",
+    "śeṣaḥ means remainder",
+    "sanetro means with eye",
+    "atris is the seer",
+    "apaścimaḥ means without last"
+   ],
+   "inference": "The verse names marut, remainder, eyed form, atri, and no-last quality.",
+   "uncertainties": [
+    "syntactic grouping unclear"
+   ],
+   "plain_english": "Marut, remainder, eyed form, atri, and no-last quality are named."
+  },
+  {
+   "verse": 2086,
+   "rows": [
+    {
+     "surface": "savitā",
+     "gloss": "savitri",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhīṣṭa",
+     "gloss": "desired",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "success",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daḥ",
+     "gloss": "giver",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What desired success does savitri give?",
+   "premises": [
+    "savitā is savitri",
+    "abhīṣṭa means desired",
+    "siddhi means success",
+    "daḥ means giver"
+   ],
+   "inference": "Savitri gives desired success.",
+   "uncertainties": [
+    "ritual application unspecified"
+   ],
+   "plain_english": "Savitri gives desired success."
+  },
+  {
+   "verse": 2087,
+   "rows": [
+    {
+     "surface": "bhṛgur",
+     "gloss": "bhrgu",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhānoḥ",
+     "gloss": "of-sun",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akṣara",
+     "gloss": "syllable",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle masculine nominative",
+     "morph": "m.nom.sg.pastpart"
+    }
+   ],
+   "question": "What three-syllable sun mantra is declared by bhrgu?",
+   "premises": [
+    "bhṛgur is bhrgu",
+    "bhānoḥ means of sun",
+    "tri akṣara means three syllables",
+    "manuḥ means mantra",
+    "īritaḥ means declared"
+   ],
+   "inference": "Bhrgu declares a three-syllable sun mantra.",
+   "uncertainties": [
+    "exact syllables not given"
+   ],
+   "plain_english": "Bhrgu declares a three-syllable sun mantra."
+  },
+  {
+   "verse": 2088,
+   "rows": [
+    {
+     "surface": "tadādiḥ",
+     "gloss": "beginning-with-that",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarga",
+     "gloss": "creation",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃyutaḥ",
+     "gloss": "joined",
+     "grounds": "past participle masculine nominative",
+     "morph": "m.nom.sg.pastpart"
+    }
+   ],
+   "question": "What creation is joined from that beginning?",
+   "premises": [
+    "tadādiḥ means beginning with that",
+    "sarga means creation",
+    "saṃyutaḥ means joined"
+   ],
+   "inference": "Creation is joined from that beginning.",
+   "uncertainties": [
+    "referent of that unclear"
+   ],
+   "plain_english": "Creation is joined from that beginning."
+  },
+  {
+   "verse": 2089,
+   "rows": [
+    {
+     "surface": "girijāpatiḥ",
+     "gloss": "lord-of-girija",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is named as lord of girija?",
+   "premises": [
+    "girijāpatiḥ means lord of girija"
+   ],
+   "inference": "The lord of Girija is named.",
+   "uncertainties": [
+    "context of naming unclear"
+   ],
+   "plain_english": "The lord of Girija is named."
+  },
+  {
+   "verse": 2090,
+   "rows": [
+    {
+     "surface": "sādhayā",
+     "gloss": "by-accomplishment",
+     "grounds": "instrumental singular feminine",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "agnipriyā",
+     "gloss": "fire-beloved",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fire-beloved is accomplished then?",
+   "premises": [
+    "sādhayā means by accomplishment",
+    "agnipriyā means fire-beloved",
+    "tataḥ means then"
+   ],
+   "inference": "The fire-beloved is accomplished then.",
+   "uncertainties": [
+    "exact ritual step unclear"
+   ],
+   "plain_english": "The fire-beloved is accomplished then."
+  },
+  {
+   "verse": 2091,
+   "rows": [
+    {
+     "surface": "ṛṣir",
+     "gloss": "seer",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhṛgur",
+     "gloss": "bhrgu",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "chando",
+     "gloss": "meter",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gayatri",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "analaḥ",
+     "gloss": "fire",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What seer meter and deity are assigned here?",
+   "premises": [
+    "ṛṣir means seer",
+    "bhṛgur is bhrgu",
+    "chando means meter",
+    "gāyatrī is the meter",
+    "devatā means deity",
+    "analaḥ means fire"
+   ],
+   "inference": "Bhrgu is seer, gayatri is meter, and fire is deity.",
+   "uncertainties": [
+    "mantra text not explicit"
+   ],
+   "plain_english": "Bhrgu is seer, gayatri is meter, and fire is deity."
+  },
+  {
+   "verse": 2092,
+   "rows": [
+    {
+     "surface": "lohitākṣa",
+     "gloss": "red-eyed",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "imperative second singular active",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative singular first person",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "dadāpaya",
+     "gloss": "cause-to-give",
+     "grounds": "imperative second singular causative",
+     "morph": "2.sg.act.imp.caus"
+    },
+    {
+     "surface": "ṭha",
+     "gloss": "tha-syllable",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What red-eyed word and pair are requested?",
+   "premises": [
+    "lohitākṣa means red-eyed",
+    "padaṃ means word",
+    "dehi means give",
+    "me means to me",
+    "dadāpaya means cause to give",
+    "ṭha dvayam means pair of tha"
+   ],
+   "inference": "A red-eyed word and a pair of tha are requested.",
+   "uncertainties": [
+    "exact mantra construction unclear"
+   ],
+   "plain_english": "Give me the red-eyed word and cause the pair of tha to be given."
+  },
+  {
+   "verse": 2093,
+   "rows": [
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle feminine nominative",
+     "morph": "f.nom.sg.pastpart"
+    },
+    {
+     "surface": "manor",
+     "gloss": "of-mantra",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive singular neuter",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-wise-ones",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By whom is this mantra declared?",
+   "premises": [
+    "proktā means declared",
+    "manor means of mantra",
+    "asya means of this",
+    "manīṣibhiḥ means by wise ones"
+   ],
+   "inference": "This mantra is declared by wise ones.",
+   "uncertainties": [
+    "which wise ones unspecified"
+   ],
+   "plain_english": "This mantra is declared by wise ones."
+  },
+  {
+   "verse": 2094,
+   "rows": [
+    {
+     "surface": "ṛṣy",
+     "gloss": "seer",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādyāḥ",
+     "gloss": "beginning-ones",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive singular neuter",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāvako",
+     "gloss": "fire",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahān",
+     "gloss": "great",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What seer and great fire deity are assigned here?",
+   "premises": [
+    "ṛṣy means seer",
+    "ādyāḥ means beginning ones",
+    "prāgvat means as before",
+    "asya means of this",
+    "devatā means deity",
+    "pāvako means fire",
+    "mahān means great"
+   ],
+   "inference": "The seer beginning ones and great fire deity are assigned as before.",
+   "uncertainties": [
+    "exact seer list not given"
+   ],
+   "plain_english": "The seer beginning ones and great fire deity are assigned as before."
+  },
+  {
+   "verse": 2095,
+   "rows": [
+    {
+     "surface": "sohaṃ",
+     "gloss": "so-ham",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svaha",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varṇavān",
+     "gloss": "having-letters",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What eight-letter soham svaha form is described?",
+   "premises": [
+    "sohaṃ is soham",
+    "svāhā is svaha",
+    "aṣṭa means eight",
+    "varṇavān means having letters"
+   ],
+   "inference": "The soham svaha form has eight letters.",
+   "uncertainties": [
+    "exact mantra sequence not given"
+   ],
+   "plain_english": "The soham svaha form has eight letters."
+  },
+  {
+   "verse": 2096,
+   "rows": [
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jyotiḥ",
+     "gloss": "light",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svarūpa",
+     "gloss": "own-form",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhṛk",
+     "gloss": "bearer",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What supreme light own-form bearer is described?",
+   "premises": [
+    "sākṣāt means directly",
+    "paraṃ means supreme",
+    "jyotiḥ means light",
+    "svarūpa means own form",
+    "dhṛk means bearer"
+   ],
+   "inference": "The supreme light own-form bearer is described.",
+   "uncertainties": [
+    "theological referent unspecified"
+   ],
+   "plain_english": "The supreme light own-form bearer is described."
+  },
+  {
+   "verse": 2097,
+   "rows": [
+    {
+     "surface": "mantroyaṃ",
+     "gloss": "this-mantra",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past participle masculine nominative",
+     "morph": "m.nom.sg.pastpart"
+    },
+    {
+     "surface": "vasu",
+     "gloss": "vasu",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akṣara",
+     "gloss": "syllable",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ātmakaḥ",
+     "gloss": "having-self",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What vasu-syllable self-natured mantra is declared?",
+   "premises": [
+    "mantroyaṃ means this mantra",
+    "proktaḥ means declared",
+    "vasu akṣara means vasu syllable",
+    "ātmakaḥ means having self"
+   ],
+   "inference": "This declared mantra has vasu syllable self-nature.",
+   "uncertainties": [
+    "exact vasu count not stated"
+   ],
+   "plain_english": "This declared mantra has vasu syllable self-nature."
+  },
+  {
+   "verse": 2098,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gayatri",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṇur",
+     "gloss": "vishnu",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avyayaḥ",
+     "gloss": "imperishable",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What goddess gayatri deity and imperishable vishnu are named?",
+   "premises": [
+    "devī means goddess",
+    "gāyatrī is gayatri",
+    "devatā means deity",
+    "viṣṇur is vishnu",
+    "avyayaḥ means imperishable"
+   ],
+   "inference": "Goddess gayatri deity and imperishable vishnu are named.",
+   "uncertainties": [
+    "relation between them unclear"
+   ],
+   "plain_english": "Goddess gayatri deity and imperishable vishnu are named."
+  },
+  {
+   "verse": 2099,
+   "rows": [
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akṣaraḥ",
+     "gloss": "syllabled",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What twelve-syllabled mantra in tantra is described?",
+   "premises": [
+    "tantre means in tantra",
+    "mantro means mantra",
+    "ayam means this",
+    "dvādaśa means twelve",
+    "akṣaraḥ means syllabled"
+   ],
+   "inference": "This tantra mantra has twelve syllables.",
+   "uncertainties": [
+    "exact mantra text not given"
+   ],
+   "plain_english": "This tantra mantra has twelve syllables."
+  }
+ ]
+}

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p09",
  "verse": 209,
- "question": "How is the vidyā structurally ordered according to the trikūṭa arrangement?",
+ "question": "Should one remember or chant after eating and drinking?",
  "premises": [
-  "The addressee is Vāmakeśvara.",
-  "The subject is identified as the vidyā itself.",
-  "The vidyā is recited in the order of three kūṭas."
+  "not having-eaten and not having-drunk and not should-remember not should-chant then",
+  "post-meal practice is prohibited"
  ],
- "inference": "The vidyā is defined by its arrangement into a three-kūṭa sequence.",
- "uncertainties": [],
- "plain_english": "O Vāmakeśvara, this vidyā is recited in the order of the three kūṭas."
+ "inference": "After eating and drinking, one should neither remember nor chant.",
+ "uncertainties": [
+  "whether prohibition is temporary or absolute"
+ ],
+ "plain_english": "After eating and drinking, one should not remember or chant then."
 }

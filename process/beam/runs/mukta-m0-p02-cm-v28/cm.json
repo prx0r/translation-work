@@ -3,34 +3,39 @@
  "verse": 28,
  "rows": [
   {
-   "lemma": "tathā",
+   "lemma": "sukṛtaiḥ",
+   "morph": "n.inst.pl",
+   "grounds": "su + kṛta"
+  },
+  {
+   "lemma": "mānavaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "mānava"
+  },
+  {
+   "lemma": "bhūtvā",
+   "morph": "absolutive",
+   "grounds": "bhū"
+  },
+  {
+   "lemma": "jñānī",
+   "morph": "m.nom.sg",
+   "grounds": "jñānin"
+  },
+  {
+   "lemma": "ced",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
+   "grounds": "ced"
   },
   {
-   "lemma": "aṣṭārṇam",
-   "morph": "n.acc.sg.m",
-   "grounds": "compound aṣṭa+arṇa"
+   "lemma": "mokṣam",
+   "morph": "m.acc.sg",
+   "grounds": "mokṣa"
   },
   {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable"
-  },
-  {
-   "lemma": "uktas",
-   "morph": "ppp.nom.sg.m",
-   "grounds": "legacy hint ukta"
-  },
-  {
-   "lemma": "tasya",
-   "morph": "pron.gen.sg.m",
-   "grounds": "legacy hint tasya"
-  },
-  {
-   "lemma": "vistaraḥ",
-   "morph": "n.nom.sg.m",
-   "grounds": "legacy hint vistara"
+   "lemma": "āpnuyāt",
+   "morph": "3.sg.act.opt",
+   "grounds": "āp"
   }
  ]
 }

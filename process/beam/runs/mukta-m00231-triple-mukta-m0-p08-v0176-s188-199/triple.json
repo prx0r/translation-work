@@ -1,0 +1,473 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "aṅgasaṃspṛṣṭam",
+     "gloss": "body-touched",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āghrātaṃ",
+     "gloss": "smelled",
+     "grounds": "past participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "abandon",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which flowers touched by the body or smelled should the wise one always abandon?",
+   "premises": [
+    "body-touched flowers are rejected",
+    "smelled flowers are rejected",
+    "wise practitioner avoids them"
+   ],
+   "inference": "Purity of offering excludes flowers already touched or smelled.",
+   "uncertainties": [
+    "exact ritual context unspecified"
+   ],
+   "plain_english": "The wise one should always abandon flowers that have touched the body or been smelled."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "raktamarghyaṃ",
+     "gloss": "red-arghya",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śvetadūrvāṃ",
+     "gloss": "white-durva",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nīlakaṇṭhaṃ",
+     "gloss": "blue-throated",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuruṇṭakam",
+     "gloss": "kuruṇṭaka",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which red, white, blue-throated, and kuruṇṭaka items are named for worship?",
+   "premises": [
+    "red arghya is named",
+    "white durva is named",
+    "blue-throated and kuruṇṭaka are named"
+   ],
+   "inference": "The verse lists specific colored and named ritual items.",
+   "uncertainties": [
+    "whether all are flowers or substances"
+   ],
+   "plain_english": "Red arghya, white durva, blue-throated, and kuruṇṭaka are specified."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "sugandhiśvetalauhityakusumairarcayet",
+     "gloss": "fragrant-white-red-flowers-worship",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "kuśa-grass",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "With which fragrant white and red flowers and kuśa grass should one worship?",
+   "premises": [
+    "fragrant white and red flowers are used",
+    "kuśa grass is used",
+    "worship is performed with them"
+   ],
+   "inference": "Worship employs fragrant white and red flowers together with kuśa grass.",
+   "uncertainties": [
+    "exact deity unspecified"
+   ],
+   "plain_english": "One should worship with fragrant white and red flowers and kuśa grass."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "patraiḥ",
+     "gloss": "leaves",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cārcayed",
+     "gloss": "worship",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vilvapatravivarjitaiḥ",
+     "gloss": "bilva-leaf-except",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which leaves except bilva leaves should not be used to worship the goddess?",
+   "premises": [
+    "leaves are mentioned",
+    "goddess worship is mentioned",
+    "bilva leaves are excluded from prohibition"
+   ],
+   "inference": "Leaves other than bilva are not to be used for goddess worship.",
+   "uncertainties": [
+    "whether all non-bilva leaves are barred"
+   ],
+   "plain_english": "One should not worship the goddess with leaves except bilva leaves."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "javābandhūkamandāraiḥ",
+     "gloss": "java-bandhuka-mandara",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sindūraiśca",
+     "gloss": "vermilion-and",
+     "grounds": "compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mahotpalaiḥ",
+     "gloss": "great-lotus",
+     "grounds": "compound",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which java, bandhuka, mandara, vermilion, and great lotus items are named?",
+   "premises": [
+    "java bandhuka mandara are named",
+    "vermilion is named",
+    "great lotus is named"
+   ],
+   "inference": "The verse names these flowers and substances for ritual use.",
+   "uncertainties": [
+    "exact ritual action unspecified"
+   ],
+   "plain_english": "Java, bandhuka, mandara, vermilion, and great lotus are named."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "nandyāvarttaṃ",
+     "gloss": "nandyavarta",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tilapatraṃ",
+     "gloss": "sesame-leaf",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "keśarapatrakam",
+     "gloss": "kesara-leaf",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which nandyavarta, sesame leaf, and kesara leaf items are named?",
+   "premises": [
+    "nandyavarta is named",
+    "sesame leaf is named",
+    "kesara leaf is named"
+   ],
+   "inference": "The verse lists these named leaves and forms.",
+   "uncertainties": [
+    "exact ritual use unspecified"
+   ],
+   "plain_english": "Nandyavarta, sesame leaf, and kesara leaf are named."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "nānopahārabalibhirnānāpuṣpaimanoharaiḥ",
+     "gloss": "various-offerings-oblations-flowers-charming",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which various offerings, oblations, and charming flowers are named?",
+   "premises": [
+    "various offerings are named",
+    "oblations are named",
+    "charming flowers are named"
+   ],
+   "inference": "The verse names varied offerings and flowers for worship.",
+   "uncertainties": [
+    "exact grammatical split unspecified"
+   ],
+   "plain_english": "Various offerings, oblations, and charming flowers are named."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "kulapuṣpeṇa",
+     "gloss": "clan-flower",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dhūpena",
+     "gloss": "incense",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kuladīpena",
+     "gloss": "clan-lamp",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "accusative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "With which clan flower, incense, and clan lamp should the wise one worship her?",
+   "premises": [
+    "clan flower is used",
+    "incense is used",
+    "clan lamp is used"
+   ],
+   "inference": "The wise practitioner worships her with clan flower, incense, and clan lamp.",
+   "uncertainties": [
+    "identity of her unspecified"
+   ],
+   "plain_english": "The wise one should worship her with clan flower, incense, and clan lamp."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mālatīpuṣpaṃ",
+     "gloss": "jasmine-flower",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tārākālīprapūjakaḥ",
+     "gloss": "Tara-Kali-worshipper",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which jasmine flower should a Tara-Kali worshipper not give?",
+   "premises": [
+    "jasmine flower is mentioned",
+    "Tara-Kali worshipper is mentioned",
+    "giving is prohibited"
+   ],
+   "inference": "A Tara-Kali worshipper should not give jasmine flower.",
+   "uncertainties": [
+    "whether prohibition is absolute"
+   ],
+   "plain_english": "A Tara-Kali worshipper should not give jasmine flower."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paryuṣitadoṣo'sti",
+     "gloss": "stale-fault-exists",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-ind"
+    },
+    {
+     "surface": "jalajotpalacampake",
+     "gloss": "water-born-lotus-campaka",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "For which water-born lotus and campaka is there no stale fault?",
+   "premises": [
+    "stale fault is denied",
+    "water-born lotus is named",
+    "campaka is named"
+   ],
+   "inference": "Water-born lotus and campaka are exempt from stale fault.",
+   "uncertainties": [
+    "scope of exemption unspecified"
+   ],
+   "plain_english": "There is no stale fault for water-born lotus and campaka."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "nijadevasya",
+     "gloss": "own-deity",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pṛthakpātre",
+     "gloss": "separate-vessel",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "place",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "In which separate vessel should one place the flowers of one's own deity?",
+   "premises": [
+    "own deity flowers are mentioned",
+    "separate vessel is mentioned",
+    "placing is instructed"
+   ],
+   "inference": "Flowers of one's own deity should be placed in a separate vessel.",
+   "uncertainties": [
+    "whether mixing is prohibited"
+   ],
+   "plain_english": "One should place the flowers of one's own deity in a separate vessel."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "naivedyādīni",
+     "gloss": "offerings-etc",
+     "grounds": "compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānīhi",
+     "gloss": "know",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should one certainly know about all offerings and the like?",
+   "premises": [
+    "all offerings are mentioned",
+    "knowing is commanded",
+    "certainty is emphasized"
+   ],
+   "inference": "One should certainly know all offerings and related matters.",
+   "uncertainties": [
+    "exact content of knowledge unspecified"
+   ],
+   "plain_english": "Know certainly all offerings and the like."
+  }
+ ]
+}

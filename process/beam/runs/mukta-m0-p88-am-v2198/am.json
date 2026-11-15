@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2198,
- "question": "How should a wise practitioner proceed when constructing the ritual fire pits?",
+ "question": "Who is declared as deity and lord of worlds?",
  "premises": [
-  "Great effort must be undertaken.",
-  "The fire pits are to be constructed.",
-  "The agent is described as wise."
+  "deity is declared",
+  "lord of worlds is stated"
  ],
- "inference": "A wise practitioner should construct the fire pits with great care and effort.",
- "uncertainties": [],
- "plain_english": "Having undertaken great effort, the wise person should construct the fire pits."
+ "inference": "the declared deity is lord of worlds",
+ "uncertainties": [
+  "specific deity name is omitted"
+ ],
+ "plain_english": "The declared deity is lord of the worlds."
 }

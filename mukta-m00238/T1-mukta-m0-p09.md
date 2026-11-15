@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[discus](cakraṃ) [fist](muṣṭiṃ) [arrow](śaraṃ) [trident](śūlaṃ) [iron-mace](lohaṃ) [shield](kheṭaṃ) [and](ca) [javelin](tomaram)
+[wheel](cakraṃ) [fist](muṣṭiṃ) [arrow](śaraṃ) [spear](śūlaṃ) [iron](lohaṃ) [shield](kheṭaṃ) [and](ca) [lance](tomaram)
 
 ## mukta-m0-p09-v202
-[three-eyed](triṇetrāṃ) [long-bodied](dīrgha+tanvaṃgīṃ) [resembling-the-fire-of-time](kālāgni+sadṛśīṃ) [one-should-worship](bhajet)
+[three-eyed](triṇetrāṃ) [long-bodied](dīrghatanvaṃgīṃ) [like-kālāgni](kālāgnisadṛśīṃ) [worship](bhajet)
 
 ## mukta-m0-p09-v203
-[having-the-color-and-luster-of-cow-urine-and-milk](gomūtra+kṣīra+varṇa+ābhāṃ) [having-a-dark-form](kṛṣṇa+rūpāṃ) [supreme](parāṃ) [goddess](surām)
+[cow-urine-milk-colored](gomūtrakṣīravarṇābhāṃ) [black-form](kṛṣṇarūpāṃ) [supreme](parāṃ) [surā](surām)
 
 ## mukta-m0-p09-v204
-[who](yā) [liquor](surā) [she](sā) [indeed](hi) [Umā-goddess](umā+devī) [who](yaḥ) [delusion](mohaḥ) [he](saḥ) [great-lord](mahā+īśvaraḥ) [variegated-color](citravarṇaḥ)
+[that](yā) [surā](surā) [aid](sāhyumādevī) [who](yo) [moha](mohassamaheśvaraḥ)
 
 ## mukta-m0-p09-v205
-[adorned-with-pearl-lightning-cloud-crystal-and-fresh-hibiscus](muktā+vidyut+payoda+sphaṭika+nava+japā+baṃdhuraiḥ) [with-five-faces](paṃca+vaktraiḥ) [with-beautiful-eyes](rūpa+akṣaiḥ) [resembling-the-autumn-moon-with-breasts-like-pitchers](vakṣoja+na+mrāṃsa+kalaśa+śaśi+nibhāṃ) [Śāradā](śāradāṃ) [her](tāṃ) [I-bow](namāmi) [white-color](śubhravarṇaḥ)
+[pearl-lightning-cloud-crystal-hibiscus-garland](muktāvidyutpayodasphaṭikanavajapābaṃdhuraiḥ) [five-faced](paṃcavaktrairūpakṣairvakṣojana) [breast-jar-moon-like](mrāṃsakalaśaśinibhāṃ) [śāradā](śāradāṃ) [salute](namāmi)
 
 ## mukta-m0-p09-v206
-[having-a-crescent-moon-as-crest](ardha+indu+maulim) [red](aruṇām) [dwelling-in-the-sun's-orb](aruṇa+araviṃda+vāsāṃ) [mistress-of-letters](varṇa+īśvarīṃ) [to-one-bowing](praṇamataḥ) [bent-by-the-weight-of-breasts](stana+bhāra+namrām) [red-color](aruṇavarṇaḥ)
+[half-moon-crowned](ardhendumaulimaruṇāmaraviṃdavāsāṃ) [color-lady](varṇeśvarīṃ) [bow](praṇamatastanabhāra) [bent](namrām)
 
 ## mukta-m0-p09-v207
-[having-a-garland-of-red-lotuses-on-the-head](rakta+kaṃja+śiraḥ+mālāṃ) [having-a-crescent-moon-as-ornament](caṃdra+rekhā+avataṃsakām)
+[red-lotus-garland](raktakaṃjaśiromālāṃ) [moon-crescent-ornament](caṃdrarekhāvataṃsakām)
 
 ## mukta-m0-p09-v208
-[noose](pāśa) [sugarcane-bow](ikṣu+cāpam) [fearlessness](abhayaṃ) [skull](kapālaṃ) [book](pustakaṃ) [likewise](tathā)
+[noose-sugarcane-bow-fearlessness](pāśekṣucāpamabhayaṃ) [skull-book](kapālaṃpustakaṃ) [thus](tathā)
 
 ## mukta-m0-p09-v209
-[holding](dhārayaṃtīṃ) [twelve-and-a-half](dvādaśa+arddha) [goddess](devīṃ) [her](tāṃ) [I-bow](praṇamāmi) [I](aham) [red-color](raktavarṇaḥ)
+[bearing](dhārayaṃtīṃ) [twelve-half-goddess](dvādaśārddhadevīṃ) [her](tāṃ) [salute](praṇamāmyaham)
 
 ## mukta-m0-p09-v210
-[sleep](nidrā) [with-closed-eyes](nimīlat) [overpowering-the-worlds](bhuvana+atiraskariṇi) [may-she-protect](kāvatu) [blue-color](nīlavarṇaḥ)
+[sleep-closing-worlds](nidrānimīladbhuvanātiraskariṇikāvatu)
 
 ## mukta-m0-p09-v211
-[goddess](devī) [always](nityaṃ) [gracious](prasannā) [with-locks-of-hair-shining-with-the-moon](śaśadhara+vilasat+keśa+pāśā) [three-eyed](triṇetrā) [may-she-give](dadyāt) [giving](adyāna) [blameless](avadyā) [dear-attainment-of-all-happiness-and-family](sakala+sukha+kula+prāpti+hṛdyāṃ) [prosperity](śriyaṃ) [to-us](naḥ) [red-color](raktavarṇaḥ)
+[goddess](devī) [always-pleased](nityaṃprasannāśaśadharavilasatkeśapāśātriṇetrā) [give](dadyādadyānavadyā) [all-happiness](sakalasukhakulaprāpti) [heart](hṛdyāṃ) [splendor](śriyaṃnaḥ)
 
 ## mukta-m0-p09-v212
-[in-the-left-hand](vāma+haste) [holding-a-thunderbolt](vajra+dharāṃ) [with-the-right](dakṣiṇena) [granting-boons](vara+pradām)
+[left-hand-vajra-holder](vāmahaste vajradharāṃ) [right-bestower](dakṣiṇenavarapradām)
 
 ## mukta-m0-p09-v213
-[with-a-face-like-a-cheerful-lotus](prasanna+vadana+āṃbhojām) [attended-by-hosts-of-apsarases](apsaro+gaṇa+sevitām) [yellow-color](pītavarṇaḥ)
+[pleased-lotus-faced](prasannavadanāṃbhojāmapsarogaṇasevitām)
 
 ## mukta-m0-p09-v214
-[goddess](devīṃ) [with-a-pot-full-of-divine-nectar-and-food](divya+rasa+anna+pūrṇa+kalaśām) [holding-a-lotus-and-a-ladle-in-her-hands](aṃbhoja+darvī+karāṃ) [one-should-meditate](dhyāyet) [beloved-of-Śaṅkara](śaṃkara+vallabhāṃ) [three-eyed](trinayanām) [with-cloud-like-hair](abhrā+alakāṃ) [beautiful](sundarīm) [red-color](aruṇavarṇaḥ)
+[goddess](devīṃ) [divine-rasa-full-pot](divyarasānnapūrṇakalaśāmaṃbhojadarvīkarāṃ) [meditate](dhyāyecchaṃkaravallabhāṃ) [three-eyed](trinayanāmabhrālakāṃsundarīm)
 
 ## mukta-m0-p09-v215
-[whose-lotus-feet-are-adored-by-hosts-of-all-gods](nikhila+vibudha+vṛṃdā+avaṃdya+pāda+araviṃdā) [bees-intoxicated-by-the-fragrance-of-the-nectar-resting-there](hi+ati+śayita+maraṃda+āmoda+mādyan+mi+lindā)
+[all-gods-bowed-lotus-feet](nikhilavibudhavṛṃdāvaṃdyapādāraviṃdāhyati) [sleeping-fragrance](śayitamaraṃdāmodamādyanmi) [lindā](lindā)
 
 ## mukta-m0-p09-v216
-[garlanded-with-blooming-lotuses](vikaca+kamala+mālā) [whose-nature-is-praised-by-yogis](yogi+saṃgīta+śīlā) [may-she-dwell](avasatu) [with-charming-sport](rucira+līlā) [child-of-the-delight-of-moonlight](caṃdrikā+ānaṃda+bālā)
+[blooming-lotus-garland](vikacakamalamālā) [yogi-song-habit](yogisaṃgītaśīlāvasaturuciralīlācaṃdrikānaṃdabālā)
 
 ## mukta-m0-p09-v217
-[and-one-should-meditate](dhyāyet+ca) [boon-giving](varadāṃ) [goddess](devīṃ) [Caṃdirā](caṃdirāṃ) [supreme-goddess](parama+īśvarīm) [golden-color](svarṇavarṇaḥ)
+[meditate](dhyāyecca) [boon-giving-goddess](varadāṃdevīṃ) [moon](caṃdirāṃ) [supreme-lady](parameśvarīm)
 
 ## mukta-m0-p09-v218
-[gracious](prasannāṃ) [four-armed-with-lotus-water-lily-boon-and-fearlessness](padma+kalhāra+vara+abhaya+catur+bhujām)
+[pleased](prasannāṃ) [lotus-waterlily-boon-fearlessness-four-armed](padmakalhāravarābhayacaturbhujām)
 
 ## mukta-m0-p09-v219
-[clad-in-white-garments](dhvalā+aṃśuka+saṃyuktāṃ) [seated-on-a-lotus-throne](padma+āsana+niṣeduṣīm) [dark-color](śyāma+varṇaḥ)
+[white-garment-clad](dhvalāṃśukasaṃyuktāṃ) [lotus-seat-seated](padmāsananiṣeduṣīm)
 
 ## mukta-m0-p09-v220
-[maiden](kumārīṃ) [with-red-garments-and-limbs](rakta+vastra+aṃgīṃ) [with-red-garland-and-unguent](rakta+srag+anulepanām)
+[maiden](kumārīṃ) [red-clothed](raktavastrāṃgīṃ) [red-garland-anointed](raktasraganulepanām)
 
 ## mukta-m0-p09-v221
-[lotus](padma) [rosary](akṣa+mālā) [bracelet](valayaṃ) [bearing](vibhratīṃ) [in-the-right-hand](dakṣiṇe+kare)
+[lotus-rosary-bracelet](padmākṣamālāvalayaṃ) [bearing](vibhratīṃ) [right-hand](dakṣiṇekare)
 
 ## mukta-m0-p09-v222
-[fearlessness](abhayaṃ) [in-the-left-hand](vāma+haste) [and](ca) [established-on-a-lotus-seat](padma+pīṭhe+pratiṣṭitām)
+[fearlessness](abhayaṃ) [left-hand](vāmamaste) [and](ca) [lotus-seat](padmapīṭhe) [established](pratiṣṭitām)
 
 ## mukta-m0-p09-v223
-[elixir](rasāyanāṃ) [and](ca) [great-one](bṛhatīṃ) [established-in-the-gārhapatya-fire](gārhapatye+pratiṣṭhitām) [red-color](raktavarṇaḥ)
+[rasāyana](rasāyanāṃ) [and](ca) [great](bṛhatīṃ) [gārhapatya](gārhapatye) [established](pratiṣṭhitām)
 
 ## mukta-m0-p09-v224
-[youthful-woman](yuvatīṃ) [adorned-with-white-garments](śveta+vastra+āḍhyāṃ) [with-white-garland-and-unguent](śukla+srag+anulepanām)
+[young-woman](yuvatīṃ) [white-cloth-rich](śvetavastrāḍhyāṃ) [white-garland-anointed](śuklasraganulepanām)
 
 ## mukta-m0-p09-v225
-[rudrākṣa](rudrākṣa) [rosary](mālā) [bracelet](valayaṃ) [bearing](bibhratīṃ) [in-the-right-hand](dakṣiṇe+kare)
+[rudrākṣa-rosary-bracelet](rudrākṣamālāvalayaṃ) [bearing](bibhratīṃ) [right-hand](dakṣiṇekare)

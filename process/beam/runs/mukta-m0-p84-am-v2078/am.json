@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2078,
- "question": "What shared bodily features define the group of deities described here?",
+ "question": "What kind of seven-letter mantra is described here?",
  "premises": [
-  "The deities are four-armed.",
-  "The deities are three-eyed.",
-  "The deities are adorned with crowns of matted hair."
+  "sapta means seven",
+  "varṇaḥ means letters",
+  "sva-brahmaṇya-ātmaka qualifies the mantra"
  ],
- "inference": "The described deities share a common iconography of four arms, three eyes, and matted-hair crowns.",
- "uncertainties": [],
- "plain_english": "They are four-armed, three-eyed, and adorned with crowns of matted hair."
+ "inference": "The mantra has seven letters and an own brahman-self nature.",
+ "uncertainties": [
+  "exact mantra text not given"
+ ],
+ "plain_english": "A seven-letter mantra of own brahman-self nature is described."
 }

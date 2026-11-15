@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 191,
- "question": "What should be placed properly there?",
+ "question": "Which leaves should not be used to worship the goddess?",
  "premises": [
-  "rice-grains-etc is object",
-  "properly is stated",
-  "there is stated",
-  "should-place is stated"
+  "leaves are mentioned",
+  "goddess is worshipped",
+  "bilva-leaf-except leaves are excluded"
  ],
- "inference": "One should place rice-grains and similar items properly there.",
+ "inference": "Leaves other than bilva leaves should not be used to worship the goddess.",
  "uncertainties": [
-  "exact placement site"
+  "exact exclusion"
  ],
- "plain_english": "One should place rice-grains and similar items properly there."
+ "plain_english": "Do not worship the goddess with leaves except bilva leaves."
 }

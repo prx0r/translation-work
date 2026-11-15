@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2200,
- "question": "What fills the great belly of the sky in this scene?",
+ "question": "Which pada follows the ghoraghoratara element in the mantra?",
  "premises": [
-  "The sky's great belly is pervaded by a heap of wonderful weapons and missiles."
+  "ghoraghorataretyante marks the end of the ghoraghoratara element",
+  "tanurūpapadaṃ is the following pada",
+  "tataḥ indicates the sequence continues"
  ],
- "inference": "The battlefield sky is saturated with divine armaments.",
+ "inference": "the next pada after ghoraghoratara is tanurūpa",
  "uncertainties": [
-  "The exact grammatical case of the adjective is unclear from the two-token excerpt."
+  "exact internal sandhi of ghoraghorataretyante is editorially fused",
+  "tanurūpapadaṃ may be compound or phrase"
  ],
- "plain_english": "The great belly of the sky is pervaded by a heap of wonderful weapons and missiles."
+ "plain_english": "Then, after the ghoraghoratara element, comes the tanu-rūpa pada."
 }

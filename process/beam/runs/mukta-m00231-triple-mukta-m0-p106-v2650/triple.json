@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2650,
+   "rows": [
+    {
+     "surface": "eteṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural of etad",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "darśane",
+     "gloss": "seeing",
+     "grounds": "locative of darśana",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivaṃ",
+     "gloss": "not-thus",
+     "grounds": "na plus evam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakurvate",
+     "gloss": "they-do",
+     "grounds": "pra plus kṛ",
+     "morph": "3.pl.ātmanepada-pres + kṛ"
+    }
+   ],
+   "question": "What is the consequence if these practitioners see yet do not act thus?",
+   "premises": [
+    "Seeing alone is insufficient.",
+    "Action must follow recognition.",
+    "Failure to act breaks the rite."
+   ],
+   "inference": "The verse makes ritual efficacy depend on enactment after seeing.",
+   "uncertainties": [
+    "The exact referent of 'these' and 'thus' depends on the prior verse."
+   ],
+   "plain_english": "If these, upon seeing, do not act in this way..."
+  }
+ ]
+}

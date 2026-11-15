@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[obedient-to-parents](mātāpitrorvidheyaś) [and](ca) [fated](daiṣṭikaḥ) [born-in-good-family](kaula+udbhavaḥ)
+[obedient-to-parents](mātāpitrorvidheyaḥ) [and](ca) [astrologer](daiṣṭikaḥ) [born-in-kaulava](kaulavodbhavaḥ)
 
 ## mukta-m0-p105-v2602
-[in-taitula-karaṇa](taitula+karaṇe) [born](jātaḥ) [soft-spoken](mṛdu+vāk) [reader](pāṭhakaḥ) [happy](sukhī)
+[born-in-taitula-karaṇa](taitulekaraṇejāto) [soft-spoken](mṛduvāk) [reciter](pāṭhakaḥ) [happy](sukhī)
 
 ## mukta-m0-p105-v2603
-[in-garaja-karaṇa](garaje+karaṇe) [born](jātaḥ) [conqueror-of-enemies](jita+śatruḥ) [dear-to-people](jana+priyaḥ)
+[born-in-garaje-karaṇa](garajekaraṇejāto) [conqueror-of-enemies](jitaśatruḥ) [dear-to-people](janapriyaḥ)
 
 ## mukta-m0-p105-v2604
-[secret-doer](gupta+kṛtyaḥ) [very](ati) [shaven](muṃḍaḥ) [and](ca) [in-vaṇija-karaṇa](vaṇije+karaṇe) [king](nṛpaḥ)
+[secret-deeds](guptakṛtyaḥ) [shaved-head](muṃḍaḥ) [ca](ca) [merchant](vaṇije) [karaṇa](karaṇe) [king](nṛpaḥ)
 
 ## mukta-m0-p105-v2605
-[independent](svataṃtraḥ) [in-viṣṭi-karaṇa](karaṇe+viṣṭyāṃ) [born](jātaḥ) [but](tu) [greedy](lubdhaḥ) [and](tu) [restless](caṃcalaḥ)
+[independent](svataṃtraḥ) [in-karaṇa](karaṇe) [born-in-viṣṭi](viṣṭyāṃjātaḥ) [greedy](lubdhaḥ) [and](tu) [fickle](caṃcalaḥ)
 
 ## mukta-m0-p105-v2606
-[in-śakuni-karaṇa](śakunau) [contented](paritoṣī) [and](ca) [possessed-of-cattle-and-land](go+bhūmi+parivārakaḥ)
+[in-śakuna](śakunau) [contented](paritoṣī) [ca](ca) [cow-land-attendant](gobhūmiparivārakaḥ)
 
 ## mukta-m0-p105-v2607
-[various-anxieties](nānā+ciṃtā) [family-diseased](kula+rogī) [lovely](kāṃtaḥ) [may-be](syāt) [in-catuṣpada-karaṇa](catuṣpadi)
+[various-thoughts](nānāciṃtā) [family-diseased](kulorogī) [beloved](kāṃtaḥ) [syāt](syāt) [ca](ca) [quadruped](catuṣpadi)
 
 ## mukta-m0-p105-v2608
-[deformed-limbed](vikaṭa+aṃgaḥ) [virtuous](guṇī) [proud](mānī) [in-nāga-karaṇa](nāge) [born](jātaḥ) [eating-little](alpa+bhuk) [becomes](bhavet)
+[huge-limbed](vikaṭāṃgaḥ) [virtuous-proud](guṇīmānī) [in-nāga](nāge) [born](jātaḥ) [little-eater](ulpabhug) [becomes](bhavet)
 
 ## mukta-m0-p105-v2609
 [in-kiṃstughna-karaṇa](kiṃstughne+karaṇe) [born](jātaḥ) [enjoyer](bhogī) [renouncer](tyāgī) [man](naraḥ) [happy](sukhī)
 
 ## mukta-m0-p105-v2610
-[named-mitra](mitra+ākhyaḥ) [pitṛs](pitaraḥ) [earth](bhūmiḥ) [śrī](śrīḥ) [viṣṇu](viṣṇuḥ) [and](ca) [yama](yamaḥ) [likewise](tathā)
+[friend-named](mitrākhyaḥ) [fathers](pitarobhūmiḥ) [śrī](śrī) [viṣṇu](viṣṇuḥ) [ca](ca) [yama](yamaḥ) [thus](tathā)
 
 ## mukta-m0-p105-v2611
 [māṇibhadra](māṇibhadraḥ) [daṃda](daṃdaḥ) [śūka](śūkaḥ) [vāyu](vāyuḥ) [eleven](ekādaśa) [remembered](smṛtāḥ)
 
 ## mukta-m0-p105-v2612
-[thunderbolt-and-goad-and-fearlessness-granting-hand](vajra+aṃkuśa+abhīti+karaṃ) [I-bow](naumi) [indrāṇī](īṃdrāṇī) [charming](manoharam)
+[vajra-aṅkuśa-abhīti-hand](vajrāṃkuśābhītikaraṃ) [bow-to-indrāṇī](naumīṃdrāṇī) [charming](manoharam)
 
 ## mukta-m0-p105-v2613
-[golden-colored](kanaka+varṇaḥ) (lokapāleṃdravat ni0 4 )
+[gold-colored](kanakavarṇaḥ)
 
 ## mukta-m0-p105-v2614
-[endowed-with-rosary-ladle-spoon-and-water-pot](akṣa+sruk+sruva+kuṃḍa+āḍhyaṃ) [I-praise](vaṃde) [her](māṃ) [may-he-protect](pātu) [he](saḥ) [continually](anvaham)
+[akṣa-sruk-sruva-kuṃḍa-rich](akṣasruksruvakuṃḍāḍhyaṃ) [bow-to-mother-protect-daily](vaṃdemāṃpātusonvaham)
 
 ## mukta-m0-p105-v2615
-[pale-red-colored](pāṭala+varṇaḥ)
+[pāṭala-colored](pāṭalavarṇaḥ)
 
 ## mukta-m0-p105-v2616
-[mace-and-boon-granting-hand](gadā+vara+da+hastaṃ) [and](ca) [I-praise](vaṃde) [I](ahaṃ) [lord-of-day](divasa+īśvaram)
+[mace-boon-hand](gadāvaradahastaṃ) [ca](ca) [bow-to-sun-lord](vaṃdehaṃdivaseśvaram)
 
 ## mukta-m0-p105-v2617
-[red-colored](rakta+varṇaḥ)
+[red-colored](raktavarṇaḥ)
 
 ## mukta-m0-p105-v2618
-[satisfied](saṃtuṣṭāḥ) [pitṛs](pitaraḥ) [to-me](mahyaṃ) [may-be](bhaveyuḥ) [givers-of-desired-objects](vāñchita+artha+dāḥ)
+[contented](saṃtuṣṭāḥ) [fathers](pitaro) [to-me](mahyaṃ) [may-become](bhaveyuḥ) [desired-thing-givers](vāñchitārthadāḥ)
 
 ## mukta-m0-p105-v2619
-[blue-colored](nīla+varṇaḥ) (maghānakṣatradevatāvat ni0 5)
+[blue-colored](nīlavarṇaḥ)
 
 ## mukta-m0-p105-v2620
-[I-bow](namasyāmi) [always](sadā) [her](sāmāṃ) [may-she-protect](rakṣatāt) [doer-of-good](śūbha+kārikā)
+[always-bow](namasyāmi) [sadā](sadā) [sāmāṃ](sāmāṃ) [protect](rakṣatā) [auspicious-doer](śubhakārikā)
 
 ## mukta-m0-p105-v2621
-[white-colored](śveta+varṇā) (paṃcabhūtasthabhūmivat ni0 4)
+[white-colored](śvetavarṇā)
 
 ## mukta-m0-p105-v2622
-[conch-disc-boon-and-fearlessness-in-hand](śaṃkha+cakra+vara+abhīti+pāṇiṃ) [to-me](sa) [desired-object](iṣṭaṃ) [may-he-grant](prayacchatu)
+[conch-disc-boon-abhaya-hand](śaṃkhacakravarābhīti) [pāṇi](pāṇiṃ) [desired](iṣṭaṃ) [may-grant](prayacchatu)
 
 ## mukta-m0-p105-v2623
-[golden-colored](kanaka+varṇā)
+[gold-colored](kanakavarṇā)
 
 ## mukta-m0-p105-v2624
-[holding-staff-and-noose](daṃḍa+pāśa+dharaṃ) [I-praise](vaṃde) [lord-of-southern-quarter](dakṣiṇa+āśā+patiṃ) [mighty](vibhum)
+[staff-noose-holder](daṃḍapāśadharaṃ) [bow](vaṃde) [southern-quarter-lord](dakṣiṇāśāpatiṃ) [vibhu](vibhum)
 
 ## mukta-m0-p105-v2625
-[blue-colored](nīla+varṇaḥ)
+[blue-colored](nīlavarṇaḥ)

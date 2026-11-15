@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2228,
- "question": "What procedure forms the pericarp within the navel-area of the fire-pit?",
+ "question": "Which yamala texts spanning Vishnu, Brahma, Rudra, and others are cited?",
  "premises": [
-  "The navel-area must be divided",
-  "The division is threefold",
-  "The pericarp is made after division"
+  "The verse gives one fused compound.",
+  "The compound includes vishnu, brahma, and rudra.",
+  "The compound ends in yamala."
  ],
- "inference": "After dividing the navel-area into three parts, one should form the pericarp.",
- "uncertainties": [],
- "plain_english": "Having divided the navel-area into three parts, one should then make the pericarp."
+ "inference": "Devanatha cites yamala literature associated with Vishnu, Brahma, Rudra, and further deities.",
+ "uncertainties": [
+  "The full internal list after adi is not recoverable from this token alone."
+ ],
+ "plain_english": "Devanatha cites the Yamala texts of Vishnu, Brahma, Rudra, and others."
 }

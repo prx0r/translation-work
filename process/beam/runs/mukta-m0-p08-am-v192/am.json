@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 192,
- "question": "What interior is washed by pot-weapon-water?",
+ "question": "Which flowers and substances are named for worship?",
  "premises": [
-  "pot-weapon-water is instrumental",
-  "washed-interior is object"
+  "java flowers are named",
+  "bandhuka and mandara are named",
+  "vermilion and great lotus are named"
  ],
- "inference": "The interior is washed by pot-weapon-water.",
+ "inference": "Java, bandhuka, mandara, vermilion, and great lotus are named for worship.",
  "uncertainties": [
-  "exact washing rite"
+  "exact use"
  ],
- "plain_english": "The interior is washed by pot-weapon-water."
+ "plain_english": "Use java, bandhuka, mandara, vermilion, and great lotus."
 }

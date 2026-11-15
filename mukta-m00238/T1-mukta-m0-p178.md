@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p178-v4426
-[earth-lord+lineage+praised](bhūnātha+saṃtati+nutāṃ) [moon+piece+crest-jewel](soma+khaṃḍa+avataṃsinīm)
+[earth-lord-progeny-praised](bhūnāthasaṃtatinutāṃ) [moon-fragment-crown-jeweled](somakhaṃḍāvataṃsinīm)
 
 ## mukta-m0-p178-v4427
-[borne+beautiful+mother](samūḍha+suma+maṃ) [and](ca) [abiding](sthāṃ) [vehicle+ornament+serpent+jewel](vāha+ābhūṣā+phaṇā+maṇim)
+[well-gathered-good-mind](samūḍhasumamaṃ) [ca](ca) [standing](sthāṃ) [vehicle-ornament-serpent-gem](vāhābhūṣāphaṇāmaṇim)
 
 ## mukta-m0-p178-v4428
-[garment+swinging+star+necklace](śāṭī+luṭhat+tāra+hārāṃ) [lion+form+chariot+standing](siṃha+veṣa+ratha+sthitām)
+[shawl-stolen-garland](śāṭīluṭhattārahārāṃsiṃhaveṣarathasthitām)
 
 ## mukta-m0-p178-v4429
-[child+form+bearing](bāla+veṣa+dharāṃ) [goddess](devīṃ) [praise+I](vaṃde+ahaṃ) [Vindhya+dwelling](viṃdhya+vāsinīm)
+[young-garbed](bālāveṣadharāṃ) [goddess](devīṃ) [i-bow](vaṃdehaṃ) [vindhya-dweller](viṃdhyavāsinīm)
 
 ## mukta-m0-p178-v4430
-[fame](kīrtiṃ) [fortune](bhāgyaṃ) [good+offspring](su+saṃtānaṃ) [knowledge](vijñānaṃ) [obtains](labhate) [excellent-one](varaḥ)
+[fame-fortune-good-progeny](kīrtiṃbhāgyaṃsusaṃtānaṃ) [knowledge](vijñānaṃ) [obtains](labhate) [excellent](varaḥ)
 
 ## mukta-m0-p178-v4431
-[Vikrama+Āśvina+bright-fortnight](vikrama+āśvina+śuklasya) [on-first-day](prathamāyāṃ) [on-Sunday](ravau) [auspicious](śubhe)
+[valor-ashvina-shukla](vikramāśvinaśuklasya) [first](prathamāyāṃ) [sun-auspicious](ravauśubhe)
 
 ## mukta-m0-p178-v4432
-[specified+syllable+manner+verses](uddiṣṭa+akṣara+vat+ślokāḥ) [composed](racitā) [wise+pleasure+for](budha+tuṣṭaye) [8](|| 8||)
+[declared-syllable-verse](uddiṣṭākṣaravacchlokāracitābudhatuṣṭaye)
 
 ## mukta-m0-p178-v4433
-[one+beginning+with+vowels+place](eka+ādikam+acāṃ+sthāne) [ten](daśakaṃ) [long+knowing+in](dīrgha+bodhane)
+[one-etc-places](ekādikamacāṃsthānedaśakaṃdīrghabodhane)
 
 ## mukta-m0-p178-v4434
-[of-number](saṃkhyāyāḥ) [ka+beginning+nine](ka+ādi+navakaṃ) [foot+division+of](pāda+bhedasya) [ṭa+beginning](ṭa+ādikam)
+[number-ka-to-nine](saṃkhyāyāḥkādinavakaṃ) [foot-difference-ta-to](pādabhedasyaṭādikam)
 
 ## mukta-m0-p178-v4435
-[niṣka+beginning+weighing+in](niṣka+ādi+tulane) [śa+beginning](śa+ādi) [of-bindu](biṃdoḥ) [no](no) [of-pause](viśramasya) [ñaḥ](ñaḥ)
+[nishka-etc-weighing](niṣkāditulaneśādi) [bindu-not-rest](biṃdornoviśramasyañaḥ)
 
 ## mukta-m0-p178-v4436
-[whom](yaṃ) [praise](prastuvaṃti) [wise-men](vidvāṃso) [Bṛhaspati](bṛhaspati) [equal](samā) [even](api)
+[whom-praise](yaṃprastuvaṃti) [learned](vidvāṃso) [brihaspati-equal](bṛhaspati samā api)
 
 ## mukta-m0-p178-v4437
-[of-Śaka+Śālivāhana](śake+śālīvāhanasya) [three+four+seven+earth+measured](tri+catus+sapta+bhū+mite)
+[shaka-shalivahana](śakeśālīvāhanasya) [three-four-seven-earth](tricatussaptabhūmite)
 
 ## mukta-m0-p178-v4438
-[number+letters+by-number+letters](saṅkhyā+lipīnā+ali+pibhiḥ) [of-numbers](saṃkhyānāṃ) [indicator](bodhako) [great](mahān)
+[number-script-number-script](saṅkhyālipīnālipibhissaṃkhyānāṃ) [great-teacher](bodhako mahān)
 
 ## mukta-m0-p178-v4439
-[skin+ash+clay+bones](carma+bhasma+mṛd+asthīni) [silver](rajataṃ) [nail+cow-dung](nakha+gomaye)
+[leather-ash-clay-bones](carmabhasmamṛdasthīni) [silver](rajataṃ) [nail-cow-dung](nakhagomaye)
 
 ## mukta-m0-p178-v4440
-[food](annaṃ) [kāryāsaka](kāryāsakaṃ) [flower](puṣpaṃ) [skin](carma) [and](ca) [indeed](eva) [coral](pravālakaḥ)
+[food-work-impure](annaṃkāryāsakaṃ) [flower](puṣpaṃ) [leather](carma) [caiva](caiva) [coral](pravālakaḥ)
 
 ## mukta-m0-p178-v4441
-[grain](dhānyaṃ) [and](ca) [cow-dung](gomayaṃ) [and](ca) [indeed](eva) [metal+ash+etc.](loha+bhasma+ādayaḥ) [remembered](smṛtāḥ) [3](|| 3 ||)
+[grain](dhānyaṃ) [ca](ca) [cow-dung](gomayaṃ) [caiva](caiva) [iron-ash-etc-remembered](lohobhasmādayassmṛtāḥ)
 
 ## mukta-m0-p178-v4442
-[hair](keśaḥ) [gem](maṇiḥ) [and](ca) [silver](rajataṃ) [cotton](kārpāsaḥ) [clay](mṛt) [and](ca) [leaf](patrakam)
+[hair-gem](keśomaṇiśca) [silver](rajataṃ) [karpasa-clay-leaf](kārpāsomṛccapatrakam)
 
 ## mukta-m0-p178-v4443
-[salt](lavaṇaṃ) [and](ca) [thus](iti) [indeed](vai) [declared](proktāḥ) [substances](padārthāḥ) [sixteen](ṣoḍaśa) [here](atra) [indeed](hi) [5](|| 5 ||)
+[salt](lavaṇaṃ) [ceti](ceti) [vai](vai) [proktāḥ](proktāḥ) [substances-sixteen-here](padārthāṣṣoḍaśātrahi)
 
 ## mukta-m0-p178-v4444
-[metal](lohaḥ) [copper](tāmraṃ) [ash](bhasma) [and](ca) [bone](asthi) [living-thing](sañjīvaḥ) [hair](keśa) [indeed](eva) [and](ca)
+[iron-copper-ash-bone](lohastāmraṃ bhasmacāsthi) [sanjiva](sañjīvaḥ) [hair](keśa) [eva](eva) [ca](ca)
 
 ## mukta-m0-p178-v4445
-[silver](rajataṃ) [and](ca) [indeed](eva) [camphor](karpūraṃ) [coral](pravālaḥ) [gem](ratnam) [indeed](eva) [and](ca)
+[silver](rajataṃ) [caiva](caiva) [camphor](karpūraṃ) [coral](pravālo) [gem](ratnameva) [ca](ca)
 
 ## mukta-m0-p178-v4446
-[bone](asthi) [stone](aśmā) [hair](keśa) [salt](lavaṇau) [flower](puṣpa) [ash](bhūtī) [thus](iti) [remembered](smṛtāḥ) [8](|| 8 ||)
+[bone-stone-hair-salt](asthyaśmākeśalavaṇaupuṣpabhūtī) [iti](iti) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p178-v4447
-[living-thing](sajīvaḥ) [root](mūla) [dry-things](śuṣke) [and](ca) [mercury](rasa) [thus+beginning-with](iti+ādayaḥ) [gone](gatāḥ)
+[sanjiva-root-dry](sajīvomūlaśuṣke) [ca](ca) [rasa](rasa) [ityādayo](ityādayo) [gatāḥ](gatāḥ)
 
 ## mukta-m0-p178-v4448
-[dry-thing](śuṣkaṃ) [clay](mṛd) [arrow](iṣu) [to-be-known](vijñeyam) [thus](iti) [indeed](vai) [that+knowers](tad+vidaḥ) [know](viduḥ)
+[dry-clay-known](śuṣkaṃ mṛdeṣuvijñeyamiti) [vai](vai) [tadvidoviduḥ](tadvidoviduḥ)
 
 ## mukta-m0-p178-v4449
-[stone](śilā) [mercury](rasaḥ) [and](ca) [salt](lavaṇam) [thus+beginning-with](iti+ādīn) [that+knowers](tad+vidaḥ) [know](viduḥ)
+[stone-juice-salt-etc](śilārasaśca lavaṇamityādīṃstadvidoviduḥ)
 
 ## mukta-m0-p178-v4450
-[root](mūlaṃ) [mercury](rasaḥ) [living-thing](sajīvaḥ) [and](ca) [thus](iti) [thus](evaṃ) [to-be-known](jñeyaṃ) [by-wise-ones](vicakṣaṇaiḥ)
+[root-juice-sanjiva-thus](mūlaṃrasassajīvaścetyevaṃ) [known](jñeyaṃ) [wise](vicakṣaṇaiḥ)

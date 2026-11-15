@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2239,
- "question": "Which deities are named for worship in this sequence of the ritual layout?",
+ "question": "What world benefit does Devanatha declare his work to be?",
  "premises": [
-  "A list of deities is given",
-  "The names include sāvitra, savitṛ, śakra, indrajit",
-  "Rudra and his conqueror are named together"
+  "The verse names devanatha.",
+  "The verse says jagaddhitam.",
+  "The verse is a colophon statement."
  ],
- "inference": "The deities to be worshipped in this sequence are Sāvitra, Savitṛ, Śakra, Indrajit, Rudra, and his conqueror.",
+ "inference": "Devanatha declares his work to be for the benefit of the world.",
  "uncertainties": [
-  "The exact identity of rudratajjitau may depend on tradition"
+  "The exact verb or syntactic completion is not present in this token."
  ],
- "plain_english": "Sāvitra, Savitṛ, Śakra, Indrajit, Rudra, and the conqueror of him."
+ "plain_english": "Devanatha is for the benefit of the world."
 }

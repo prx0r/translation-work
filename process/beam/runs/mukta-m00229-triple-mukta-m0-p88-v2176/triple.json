@@ -1,0 +1,882 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2176,
+   "rows": [
+    {
+     "surface": "gāyatrī",
+     "gloss": "gayatri",
+     "grounds": "mantra name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "mantra deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "krishna",
+     "grounds": "named deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "passive participle",
+     "morph": "m.nom.sg-ppp"
+    }
+   ],
+   "question": "Which deity is declared as the devata of the gayatri mantra?",
+   "premises": [
+    "gayatri mantra has a deity",
+    "krishna is named as that deity"
+   ],
+   "inference": "the gayatri mantra's deity is krishna",
+   "uncertainties": [
+    "verse fragment lacks full mantra context"
+   ],
+   "plain_english": "The gayatri mantra's deity is declared to be Krishna."
+  },
+  {
+   "verse": 2177,
+   "rows": [
+    {
+     "surface": "māṃsādho",
+     "gloss": "meat-eater",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "blood",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cedaparo",
+     "gloss": "if-another",
+     "grounds": "sandhi fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "manu",
+     "grounds": "rule authority",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What rule about meat-eating and blood is attributed to another manu?",
+   "premises": [
+    "meat-eater and blood are mentioned",
+    "another manu is referenced"
+   ],
+   "inference": "the verse records a manu rule concerning meat and blood",
+   "uncertainties": [
+    "exact rule is elliptical"
+   ],
+   "plain_english": "Another manu is cited regarding a meat-eater and blood."
+  },
+  {
+   "verse": 2178,
+   "rows": [
+    {
+     "surface": "śikhivāmākṣiśaśikhaṇḍavibhūṣitāḥ",
+     "gloss": "peacock-left-eye-moon-crescent-adorned",
+     "grounds": "long compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What ornamental compound describes the adorned figure?",
+   "premises": [
+    "compound lists peacock left eye moon crescent adornment"
+   ],
+   "inference": "the figure is adorned with those elements",
+   "uncertainties": [
+    "subject is not explicit"
+   ],
+   "plain_english": "The figure is adorned with peacock, left eye, moon crescent, and related ornaments."
+  },
+  {
+   "verse": 2179,
+   "rows": [
+    {
+     "surface": "krīḍāsaktapraśabdānte",
+     "gloss": "play-attached-sound-end",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaden",
+     "gloss": "should-speak",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mucetase",
+     "gloss": "for-liberation-mind",
+     "grounds": "dative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What speech is prescribed at the end of play-attached sound for liberation?",
+   "premises": [
+    "speech is prescribed",
+    "liberation of mind is the aim"
+   ],
+   "inference": "one should speak for liberation at that point",
+   "uncertainties": [
+    "exact utterance is omitted"
+   ],
+   "plain_english": "One should speak for the liberation of the mind at the end of play-attached sound."
+  },
+  {
+   "verse": 2180,
+   "rows": [
+    {
+     "surface": "kṛṣṇapadaṃ",
+     "gloss": "krishna-word",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cekṣukārmukānte",
+     "gloss": "and-sugarcane-bow-end",
+     "grounds": "sandhi fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "daśākṣaraḥ",
+     "gloss": "ten-syllable",
+     "grounds": "mantra measure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ten-syllable mantra ends with krishna and sugarcane bow?",
+   "premises": [
+    "krishna word is included",
+    "sugarcane bow end is included",
+    "mantra has ten syllables"
+   ],
+   "inference": "the mantra is a ten-syllable krishna mantra ending with sugarcane bow",
+   "uncertainties": [
+    "full mantra sequence is not given"
+   ],
+   "plain_english": "A ten-syllable mantra includes Krishna and ends with sugarcane bow."
+  },
+  {
+   "verse": 2181,
+   "rows": [
+    {
+     "surface": "kramotkramavaśād",
+     "gloss": "order-reverse-control",
+     "grounds": "ablative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvipañcāśallipirmanuḥ",
+     "gloss": "fifty-two-letter-manu",
+     "grounds": "sandhi fused form",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many letters does the manu have by order and reverse order?",
+   "premises": [
+    "order and reverse order are mentioned",
+    "manu has fifty-two letters"
+   ],
+   "inference": "the manu is a fifty-two-letter form governed by order and reverse order",
+   "uncertainties": [
+    "exact ordering rule is not stated"
+   ],
+   "plain_english": "The manu is a fifty-two-letter form governed by order and reverse order."
+  },
+  {
+   "verse": 2182,
+   "rows": [
+    {
+     "surface": "ṛṣiś",
+     "gloss": "seer",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chando",
+     "gloss": "meter",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "virāḍbhavet",
+     "gloss": "virat-becomes",
+     "grounds": "sandhi fused form",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What seer meter and virat result are stated?",
+   "premises": [
+    "seer is stated",
+    "meter is stated",
+    "virat becomes the result"
+   ],
+   "inference": "the verse assigns seer meter and virat outcome",
+   "uncertainties": [
+    "specific names are omitted"
+   ],
+   "plain_english": "The verse states seer, meter, and that virat becomes."
+  },
+  {
+   "verse": 2183,
+   "rows": [
+    {
+     "surface": "sākṣilānto",
+     "gloss": "witness-lord-end",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "latānvito",
+     "gloss": "creeper-accompanied",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "marut",
+     "gloss": "wind",
+     "grounds": "deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What wind deity is accompanied by witness lord and creeper?",
+   "premises": [
+    "witness lord end is mentioned",
+    "creeper accompaniment is mentioned",
+    "wind is named"
+   ],
+   "inference": "the wind deity is accompanied by those elements",
+   "uncertainties": [
+    "exact ritual role is unclear"
+   ],
+   "plain_english": "The wind deity is accompanied by witness-lord and creeper elements."
+  },
+  {
+   "verse": 2184,
+   "rows": [
+    {
+     "surface": "vāmadevo",
+     "gloss": "vamadeva",
+     "grounds": "seer name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛṣiś",
+     "gloss": "seer",
+     "grounds": "apposition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃktir",
+     "gloss": "pankti",
+     "grounds": "meter name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īśo",
+     "gloss": "isha",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "its",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "apposition",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is the seer meter and deity of this mantra?",
+   "premises": [
+    "vamadeva is seer",
+    "pankti is meter",
+    "isha is deity"
+   ],
+   "inference": "the mantra's seer is vamadeva, meter pankti, deity isha",
+   "uncertainties": [
+    "mantra itself is not quoted"
+   ],
+   "plain_english": "Vamadeva is the seer, pankti the meter, and Isha the deity."
+  },
+  {
+   "verse": 2185,
+   "rows": [
+    {
+     "surface": "ṛṣiś",
+     "gloss": "seer",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg-ppp"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "umāpatiḥ",
+     "gloss": "uma-lord",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What seer meter and deity are declared for this mantra?",
+   "premises": [
+    "seer and meter are declared",
+    "deity would be uma's lord"
+   ],
+   "inference": "the mantra's deity is umapati",
+   "uncertainties": [
+    "specific seer and meter names are omitted"
+   ],
+   "plain_english": "The seer and meter are declared, and the deity is Umapati."
+  },
+  {
+   "verse": 2186,
+   "rows": [
+    {
+     "surface": "paṃktir",
+     "gloss": "pankti",
+     "grounds": "meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sadashiva",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which god is named with pankti meter?",
+   "premises": [
+    "pankti meter is named",
+    "sadashiva is named as god"
+   ],
+   "inference": "sadashiva is the god associated with pankti meter",
+   "uncertainties": [
+    "mantra context is absent"
+   ],
+   "plain_english": "Sadashiva is the god associated with pankti meter."
+  },
+  {
+   "verse": 2187,
+   "rows": [
+    {
+     "surface": "vasuvarṇo",
+     "gloss": "vasu-colored",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "manur",
+     "gloss": "manu",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "participle",
+     "morph": "m.nom.sg-ppp"
+    }
+   ],
+   "question": "What manu is considered vasu-colored?",
+   "premises": [
+    "vasu-colored is stated",
+    "manu is considered so"
+   ],
+   "inference": "the manu is considered vasu-colored",
+   "uncertainties": [
+    "exact manu identity is not given"
+   ],
+   "plain_english": "The manu is considered vasu-colored."
+  },
+  {
+   "verse": 2188,
+   "rows": [
+    {
+     "surface": "nigadito",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg-ppp"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyuñjayātmakaḥ",
+     "gloss": "death-conqueror-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What kind of mantra is declared?",
+   "premises": [
+    "mantra is declared",
+    "it is death-conqueror-natured"
+   ],
+   "inference": "the declared mantra is of death-conqueror nature",
+   "uncertainties": [
+    "full mantra text is absent"
+   ],
+   "plain_english": "The declared mantra is of death-conqueror nature."
+  },
+  {
+   "verse": 2189,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "its",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samīritaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg-ppp"
+    }
+   ],
+   "question": "What is declared as the deity of this mantra?",
+   "premises": [
+    "deity is the topic",
+    "it is declared for this mantra"
+   ],
+   "inference": "the mantra's deity is declared",
+   "uncertainties": [
+    "deity name is omitted in this fragment"
+   ],
+   "plain_english": "The deity of this mantra is declared."
+  },
+  {
+   "verse": 2190,
+   "rows": [
+    {
+     "surface": "vaṭamūlapadasyānte",
+     "gloss": "banyan-root-word-end",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paścānnivāsine",
+     "gloss": "afterward-dwelling",
+     "grounds": "dative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What word is placed after the banyan-root word for the afterward-dwelling one?",
+   "premises": [
+    "banyan-root word end is mentioned",
+    "a word is placed",
+    "afterward-dwelling one is referenced"
+   ],
+   "inference": "a word follows the banyan-root word for the afterward-dwelling one",
+   "uncertainties": [
+    "exact word is not supplied"
+   ],
+   "plain_english": "A word follows the banyan-root word for the one dwelling afterward."
+  },
+  {
+   "verse": 2191,
+   "rows": [
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvakāmaphalapradaḥ",
+     "gloss": "all-desire-fruit-giving",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What fruit does this mantra give?",
+   "premises": [
+    "mantra is named",
+    "it gives all desire fruits"
+   ],
+   "inference": "the mantra grants all desired fruits",
+   "uncertainties": [
+    "mantra identity is not stated"
+   ],
+   "plain_english": "This mantra grants all desired fruits."
+  },
+  {
+   "verse": 2192,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrttināmā",
+     "gloss": "dakshinamurti-named",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "asya",
+     "gloss": "its",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śambhur",
+     "gloss": "shambhu",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg-ppp"
+    }
+   ],
+   "question": "Which deity named Dakshinamurti is declared for this mantra?",
+   "premises": [
+    "dakshinamurti-named is stated",
+    "shambhu is declared as deity"
+   ],
+   "inference": "shambhu as dakshinamurti is the deity",
+   "uncertainties": [
+    "mantra text is absent"
+   ],
+   "plain_english": "Shambhu, named Dakshinamurti, is declared as the deity."
+  },
+  {
+   "verse": 2193,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrttiṃ",
+     "gloss": "dakshinamurti",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahyaṃ",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "1.sg.dat"
+    },
+    {
+     "surface": "medhām",
+     "gloss": "intelligence",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "udīrayet",
+     "gloss": "should-utter",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one utter for intelligence to oneself?",
+   "premises": [
+    "dakshinamurti is object",
+    "intelligence is object",
+    "uttering is prescribed"
+   ],
+   "inference": "one should utter dakshinamurti for intelligence",
+   "uncertainties": [
+    "ritual context is not given"
+   ],
+   "plain_english": "One should utter Dakshinamurti for intelligence."
+  },
+  {
+   "verse": 2194,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrttir",
+     "gloss": "dakshinamurti",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ākhyāto",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "m.nom.sg-ppp"
+    },
+    {
+     "surface": "vedavyākhyānatatparaḥ",
+     "gloss": "veda-explanation-devoted",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is Dakshinamurti called as devoted to?",
+   "premises": [
+    "dakshinamurti is called",
+    "he is devoted to veda explanation"
+   ],
+   "inference": "dakshinamurti is the one devoted to explaining the veda",
+   "uncertainties": [
+    "specific veda is not named"
+   ],
+   "plain_english": "Dakshinamurti is called the one devoted to explaining the Veda."
+  },
+  {
+   "verse": 2195,
+   "rows": [
+    {
+     "surface": "bahnibījasthā",
+     "gloss": "fire-seed-placed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīrghā",
+     "gloss": "long",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāntīndubhūṣitā",
+     "gloss": "peace-moon-adorned",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What long form is placed in fire seed and adorned with peace moon?",
+   "premises": [
+    "fire seed placement is stated",
+    "long is stated",
+    "peace moon adornment is stated"
+   ],
+   "inference": "the long form is placed in fire seed and adorned with peace moon",
+   "uncertainties": [
+    "exact syllable is not given"
+   ],
+   "plain_english": "The long form is placed in fire seed and adorned with peace moon."
+  },
+  {
+   "verse": 2196,
+   "rows": [
+    {
+     "surface": "nīlakaṇṭhātmakaḥ",
+     "gloss": "blue-throated-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg-ppp"
+    },
+    {
+     "surface": "viṣadvayaharaḥ",
+     "gloss": "two-poison-removing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What supreme blue-throated form removes two poisons?",
+   "premises": [
+    "blue-throated natured is declared",
+    "it removes two poisons",
+    "it is supreme"
+   ],
+   "inference": "the supreme blue-throated form removes two poisons",
+   "uncertainties": [
+    "which two poisons are not specified"
+   ],
+   "plain_english": "The supreme blue-throated form removes two poisons."
+  },
+  {
+   "verse": 2197,
+   "rows": [
+    {
+     "surface": "khyātaṃ",
+     "gloss": "famous",
+     "grounds": "participle",
+     "morph": "n.nom.sg-ppp"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvasamṛddhidam",
+     "gloss": "all-prosperity-giving",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What famous seed gives all prosperity?",
+   "premises": [
+    "seed is famous",
+    "it gives all prosperity"
+   ],
+   "inference": "the famous seed grants all prosperity",
+   "uncertainties": [
+    "seed syllable is not stated"
+   ],
+   "plain_english": "The famous seed grants all prosperity."
+  },
+  {
+   "verse": 2198,
+   "rows": [
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg-ppp"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jagatāṃ",
+     "gloss": "of-worlds",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "patiḥ",
+     "gloss": "lord",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is declared as deity and lord of worlds?",
+   "premises": [
+    "deity is declared",
+    "lord of worlds is stated"
+   ],
+   "inference": "the declared deity is lord of worlds",
+   "uncertainties": [
+    "specific deity name is omitted"
+   ],
+   "plain_english": "The declared deity is lord of the worlds."
+  },
+  {
+   "verse": 2199,
+   "rows": [
+    {
+     "surface": "tumbarūbījam",
+     "gloss": "tumburu-seed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sidhyanti",
+     "gloss": "succeed",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "sādhakāḥ",
+     "gloss": "practitioners",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "By which tumburu seed do practitioners succeed?",
+   "premises": [
+    "tumburu seed is named",
+    "practitioners succeed by it"
+   ],
+   "inference": "practitioners succeed by that tumburu seed",
+   "uncertainties": [
+    "seed syllable is not given"
+   ],
+   "plain_english": "Practitioners succeed by that Tumburu seed."
+  }
+ ]
+}

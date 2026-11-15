@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p09",
  "verse": 207,
- "question": "Which set of deities is specified in this enumeration of mantra constituents?",
+ "question": "Which ritual actions are prohibited when the required conditions are absent?",
  "premises": [
-  "Brahmā and Maheśa are named.",
-  "Indra and Śakti are added to the list.",
-  "Bhuvaneśvarī completes the enumeration."
+  "not worship not chanting should-do not meditation not and contemplation",
+  "all major practices are withheld"
  ],
- "inference": "These five deities form another specified set of mantra constituents.",
- "uncertainties": [],
- "plain_english": "Brahmā, Maheśa, Indra, Śakti, and Bhuvaneśvarī are named."
+ "inference": "Without proper preparation, worship, chanting, meditation, and contemplation are not to be done.",
+ "uncertainties": [
+  "exact absent condition referenced"
+ ],
+ "plain_english": "One should not perform worship, chanting, meditation, or contemplation."
 }

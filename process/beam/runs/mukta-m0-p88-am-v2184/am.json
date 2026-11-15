@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2184,
- "question": "Which smaller sub-units are added to refine the stated measurement?",
+ "question": "Who is the seer meter and deity of this mantra?",
  "premises": [
-  "Four lice-units are included.",
-  "Seven barley-units are included.",
-  "These additions continue the measurement specification."
+  "vamadeva is seer",
+  "pankti is meter",
+  "isha is deity"
  ],
- "inference": "The measurement is refined by adding four lice-units and seven barley-units.",
- "uncertainties": [],
- "plain_english": "And likewise there are four lice-units and seven barley-units."
+ "inference": "the mantra's seer is vamadeva, meter pankti, deity isha",
+ "uncertainties": [
+  "mantra itself is not quoted"
+ ],
+ "plain_english": "Vamadeva is the seer, pankti the meter, and Isha the deity."
 }

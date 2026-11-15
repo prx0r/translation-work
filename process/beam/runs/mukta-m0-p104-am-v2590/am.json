@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p104",
  "verse": 2590,
- "question": "What cumulative structure characterizes the ten mantras beginning with tārā used in the offering?",
+ "question": "What mantra is given for the crest in this kaula nyasa?",
  "premises": [
-  "Ten mantras beginning with tārā are prescribed.",
-  "Each mantra is joined with each preceding one.",
-  "The structure is cumulative."
+  "the token is a mantra",
+  "it is offered to the crest"
  ],
- "inference": "The offering uses ten mantras beginning with tārā, each joined with all the preceding ones.",
- "uncertainties": [],
- "plain_english": "With the ten mantras beginning with tārā, each joined with every preceding one."
+ "inference": "The verse supplies a mantra addressed to the crest.",
+ "uncertainties": [
+  "internal parsing of the mantra is not provided"
+ ],
+ "plain_english": "A mantra is given for the crest."
 }

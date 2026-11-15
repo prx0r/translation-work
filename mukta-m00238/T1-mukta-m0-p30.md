@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[beautiful-faced](sumukhaṃ) [supreme](param) [blue-lotus](utpala) [eye](dṛk) [boon-giving](varadaṃ) [with-Umā](umayā) [together](saha) [Oṃ](naumi) [this-form](svarūpam) [this](idam)
+[pada](sumukhaṃ) [pada](paramutpaladṛgvaradaṃ) [pada](hyumayāsahanaumisarūpamidam) [pada](sumukhaṃ)
 
 ## mukta-m0-p30-v727
-[white](śveta) [colored](varṇaḥ)
+[pada](śvetavarṇaḥ) [pada](śvetavarṇaḥ) [pada](śvetavarṇaḥ) [pada](śvetavarṇaḥ)
 
 ## mukta-m0-p30-v728
-[forehead](phāla) [situated](stha) [eye](akṣaṃ) [serene](prasannaṃ) [three](tri) [eye](nayana) [shining](lasitaṃ) [bound](baddha) [braid](veṇī) [crown](kirīṭaṃ) [on-left](vāme) [with-Gaurī](gauryā) [accompanied](sametaṃ) [to-those-who-bow](namata) [auspicious](śubha) [giving](karaṃ) [that](taṃ) [bull](vṛṣa) [mounted](ārūḍham) [Lord](īśam)
+[pada](phālasthākṣaṃ) [pada](prasannaṃtrinayanalasitaṃ) [pada](baddhaveṇīkirīṭaṃ) [pada](vāme)
 
 ## mukta-m0-p30-v729
-[Śivakāmavallī](śivakāmavallī) [near](samīpa) [standing](sthā) [mother](aṃbā) [like](vat) [to-be-made](kāryā)
+[pada](śivakāmavallī) [pada](caṃdraśekharasamīpasthāṃbāvatkāryā) [pada](śivakāmavallī) [pada](caṃdraśekharasamīpasthāṃbāvatkāryā)
 
 ## mukta-m0-p30-v730
-[Śambhu](śaṃbhuṃ) [right](dakṣiṇa) [Pārvatī](pārvatī) [hand](kara) [palm](talaṃ) [with-left](savyena) [grasping](saṃgṛhṇataṃ) [hatchet](ṭaṃkaṃ) [black](kṛṣṇa) [deer](mṛgaṃ) [holding](dharaṃ) [boon](vara) [hand](karaṃ) [crest](cūḍa) [moon](iṃdu) [bound](baddha) [respect](ādaram)
+[pada](śaṃbhuṃdakṣiṇapārvatīkaratalaṃ) [pada](savyena) [pada](saṃgṛhṇataṃṭaṃkaṃ) [pada](kṛṣṇamṛgaṃdharaṃ)
 
 ## mukta-m0-p30-v731
-[three](tri) [eyed](akṣaṃ) [four](catur) [armed](bhujaṃ) [I-bow](naṃsye) [new](nava) [youth](yauvana) [proud](garvitam)
+[pada](tryakṣaṃ) [pada](caturbhujaṃnaṃsye) [pada](navayauvanagarvitam) [pada](tryakṣaṃ)
 
 ## mukta-m0-p30-v732
-[bent](kuṃcitaṃ) [with-right](savya) [foot](pādena) [standing](sthita) [left](savyetara) [foot](aṃghrikam) [vermilion](siṃdūra) [colored](varṇaḥ)
+[pada](kuṃcitaṃ) [pada](savyapādena) [pada](sthitasavyetarāṃghrikam) [pada](siṃdūravarṇaḥ)
 
 ## mukta-m0-p30-v733
-[two](dvi) [armed](bāhukāṃ) [two](dvi) [eyed](netrāṃ) [and](ca) [all](sarva) [ornament](ābharaṇa) [adorned](bhūṣitām)
+[pada](dvibāhukāṃdvinetrāṃ) [pada](ca) [pada](sarvābharaṇabhūṣitām) [pada](dvibāhukāṃdvinetrāṃ)
 
 ## mukta-m0-p30-v734
-[silk](dukūla) [garment](vasanāṃ) [goddess](devīṃ) [one-should-make](kuryāt) [of-the-god](devasya) [on-left](vāmake) [dark](śyāma) [colored](varṇaḥ)
+[pada](dukūlavasanāṃ) [pada](devīṃ) [pada](kuryāddevasyavāmake) [pada](śyāmavarṇaḥ)
 
 ## mukta-m0-p30-v735
-[sacred-thread](yajñasūtra) [upper-garment](uttarīyaṃ) [and](ca) [matted-hair](jaṭā) [crown](makuṭa) [endowed-with](saṃyutam)
+[pada](yajñasūtrottarīyaṃ) [pada](ca) [pada](jaṭāmakuṭasaṃyutam) [pada](yajñasūtrottarīyaṃ)
 
 ## mukta-m0-p30-v736
-[ladle](sruvaṃ) [in-right](dakṣiṇa) [hand](haste) [but](tu) [book](pustakaṃ) [in-left](vāmake) [holding](dadham)
+[pada](sruvaṃdakṣiṇahaste) [pada](tu) [pada](pustakaṃ) [pada](vāmakedadham)
 
 ## mukta-m0-p30-v737
-[pit](kuṃḍaṃ) [indeed](tu) [four-cornered](caturaśraṃ) [verily](vai) [three](traya) [girdle](mekhalā) [endowed-with](saṃyutam)
+[pada](kuṃḍaṃ) [pada](tu) [pada](caturaśraṃ) [pada](vai)
 
 ## mukta-m0-p30-v738
-[one-should-make](kuryāt) [in-middle](madhye) [fire](havyavāhaṃ) [flame](jvālā) [five](paṃcaka) [surrounded](saṃvṛtam)
+[pada](kuryānmadhye) [pada](havyavāhaṃ) [pada](jvālāpaṃcakasaṃvṛtam) [pada](kuryānmadhye)
 
 ## mukta-m0-p30-v739
-[of-Brahmā](brahmaṇaḥ) [in-front](purataḥ) [part](bhāge) [placed](nyasta) [fire](agniṃ) [properly](samyak) [one-should-worship](arcayet) [pale-red](pāṭala) [colored](varṇaḥ)
+[pada](brahmaṇaḥ) [pada](puratobhāgenyastāgniṃ) [pada](samyagarcayet) [pada](pāṭalavarṇaḥ)
 
 ## mukta-m0-p30-v740
-[of-the-goddess](devyāḥ) [indeed](tu) [on-right](dakṣiṇe) [side](pārśve) [Menakā](menakā) [sweet](su) [smiling](smita) [faced](ānanām)
+[pada](devyāstu) [pada](dakṣiṇepārśve) [pada](menakāsusmitānanām) [pada](devyāstu)
 
 ## mukta-m0-p30-v741
-[all](sarva) [ornament](ābharaṇa) [endowed-with](saṃyuktāṃ) [all](sarva) [decoration](alaṃkāra) [shining](śobhitām) [golden](kāñcana) [colored](varṇaḥ)
+[pada](sarvābharaṇasaṃyuktāṃ) [pada](sarvālaṃkāraśobhitām) [pada](kāñcanavarṇaḥ) [pada](sarvābharaṇasaṃyuktāṃ)
 
 ## mukta-m0-p30-v742
-[in-two](dvaye) [hands](hasta) [golden](hema) [pot](kuṃbha) [water](jalaṃ) [holding](dhara) [form](kṛtiṃ) [one-should-conceive](bhajet)
+[pada](hastadvaye) [pada](hemakuṃbhajalaṃdharakṛtiṃ) [pada](bhajet) [pada](hastadvaye)
 
 ## mukta-m0-p30-v743
-[of-the-god](devasya) [on-left](vāma) [side](pārśve) [indeed](tu) [Sanaka](sanakaḥ) [and](ca) [Sanandana](sanaṃdanaḥ)
+[pada](devasyavāmapārśve) [pada](tu) [pada](sanakaśca) [pada](sanaṃdanaḥ)
 
 ## mukta-m0-p30-v744
-[Viṣṇu](viṣṇu) [and-others](ādi) [god](amara) [chiefs](mukhyāḥ) [and](ca) [in-wedding](vivāhe) [with-service](sevayā) [endowed](yutāḥ)
+[pada](viṣṇvādyamaramukhyāśca) [pada](vivāhe) [pada](sevayāyutāḥ) [pada](viṣṇvādyamaramukhyāśca)
 
 ## mukta-m0-p30-v745
-[Sanaka](sanaka) [and-Sanandana](sanandanau) [pale-red](pāṭala) [colored](varṇau) [of-Viṣṇu-and-others](viṣṇvādīnāṃ) [their-respective](tattad) [colors](varṇāḥ)
+[pada](sanakasanandanau) [pada](pāṭalavarṇau) [pada](viṣṇvādīnāṃ) [pada](tattadvarṇāḥ)
 
 ## mukta-m0-p30-v746
-[ash](bhasma) [smeared](digdhaṃ) [coral](vidruma) [colored](ābhaṃ) [at-waist](kaṭyāṃ) [with-serpent](pannaga) [encircled](saṃvṛtam)
+[pada](bhasmadigdhaṃ) [pada](vidrumābhaṃ) [pada](kaṭyāṃpannagasaṃvṛtam) [pada](bhasmadigdhaṃ)
 
 ## mukta-m0-p30-v747
-[right](dakṣiṇaṃ) [that](tat) [hand](kara) [tip](agraṃ) [indeed](tu) [deer](hariṇa) [mouth](āsya) [following](anugaṃ) [should-be](bhavet)
+[pada](dakṣiṇaṃ) [pada](tatkarāgraṃ) [pada](tu) [pada](hariṇāsyānugaṃ)
 
 ## mukta-m0-p30-v748
-[in-left](vāme) [indeed](tu) [other](apara) [hand](haste) [indeed](tu) [trident](triśūlaṃ) [feather](piṃcha) [holding](dhāriṇam)
+[pada](vāme) [pada](tvaparahaste) [pada](tu) [pada](triśūlaṃpiṃchadhāriṇam)
 
 ## mukta-m0-p30-v749
-[even](sama) [bent](bhaṃga) [posture](sthānakaṃ) [and](ca) [going](gamana) [facing](unmukha) [form](rūpakam)
+[pada](samabhaṃgasthānakaṃ) [pada](ca) [pada](gamononmukharūpakam) [pada](samabhaṃgasthānakaṃ)
 
 ## mukta-m0-p30-v750
-[thus](evaṃ) [Bhikṣāṭana](bhikṣāṭanaṃ) [declared](proktam) [pot-bellied](guṃḍodaram) [now](atha) [hear](uśṛṇu)
+[pada](evaṃ) [pada](bhikṣāṭanaṃ) [pada](proktam) [pada](guṃḍodaramathośṛṇu)

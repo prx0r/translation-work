@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 229,
- "question": "In what modes should the deity be contemplated by one with an undivided mind?",
+ "question": "What must be taken in the left hand before reciting this mantra?",
  "premises": [
-  "The deity may be contemplated as having divine form.",
-  "The deity may be contemplated as formless.",
-  "The contemplator must have an undivided mind."
+  "Having taken is named.",
+  "Left hand is named.",
+  "This mantra is to be recited."
  ],
- "inference": "One with an undivided mind should contemplate the deity as either divine form or formless.",
- "uncertainties": [],
- "plain_english": "With an undivided mind, one should contemplate me as having a divine form or as formless."
+ "inference": "The practitioner takes something in the left hand, then recites this mantra.",
+ "uncertainties": [
+  "The object taken is not explicitly named."
+ ],
+ "plain_english": "Having taken it in the left hand, recite this mantra, then proceed."
 }

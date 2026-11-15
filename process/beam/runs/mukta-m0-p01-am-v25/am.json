@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 25,
- "question": "Which tantra is named as the first among those enumerated?",
+ "question": "What qualities define the guru whose instruction must be sought?",
  "premises": [
-  "tantram names the scripture class",
-  "ādyaṃ marks first position",
-  "trailokya-mohana names the tantra"
+  "guru instruction is necessary for practice",
+  "the guru is all-knowing and all-making",
+  "the guru is all-lord with pure rise"
  ],
- "inference": "The first tantra enumerated is the Trailokya-mohana Tantra.",
+ "inference": "therefore seek the guru's instruction",
  "uncertainties": [
-  "exact syntactic relation to preceding enumeration is not fully explicit"
+  "verse lacks explicit guru noun",
+  "context supplies guru referent"
  ],
- "plain_english": "The first tantra is the Trailokya-mohana Tantra."
+ "plain_english": "He is all-knowing, all-making, and all-lord, with pure rise."
 }

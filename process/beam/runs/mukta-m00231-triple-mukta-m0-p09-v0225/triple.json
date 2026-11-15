@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "anayoḥ",
+     "gloss": "of-these-two",
+     "grounds": "genitive dual of ayam",
+     "morph": "gen.du.m/n"
+    },
+    {
+     "surface": "ekatareṇa",
+     "gloss": "by-one",
+     "grounds": "instrumental singular of ekatara",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśodhya",
+     "gloss": "having-purified",
+     "grounds": "absolutive of vi-śudh",
+     "morph": "abs"
+    },
+    {
+     "surface": "vijayām",
+     "gloss": "victory",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which of the two must be purified to attain victory?",
+   "premises": [
+    "One of two is purified.",
+    "Purification precedes victory.",
+    "Victory follows then."
+   ],
+   "inference": "Purifying one of the two leads to victory.",
+   "uncertainties": [
+    "Exact referents of 'these two' are unspecified."
+   ],
+   "plain_english": "Having purified by one of these two, victory then follows."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2523,
- "question": "What visual and radiant qualities should the kindled fire be contemplated as possessing?",
+ "question": "On which days is the human skull to be collected?",
  "premises": [
-  "The fire is kindled in the ritual.",
-  "It is to be seen as golden-colored and stainless.",
-  "It is to be seen as facing all directions."
+  "The verse names Mars.",
+  "It names Saturday.",
+  "It says human skull collected."
  ],
- "inference": "Therefore, one should contemplate the kindled fire as golden, stainless, and facing all directions.",
- "uncertainties": [],
- "plain_english": "One should contemplate the kindled fire as golden-colored, stainless, and facing in all directions."
+ "inference": "The human skull is to be collected on Mars day or Saturday.",
+ "uncertainties": [
+  "Whether both days are equally prescribed or alternatives is not explicit."
+ ],
+ "plain_english": "On Mars day or Saturday, the human skull is collected."
 }

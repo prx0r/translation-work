@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 246,
- "question": "What restriction applies to using a bilva twig for tooth cleaning?",
+ "question": "Where are guru and ganapati placed after meditation?",
  "premises": [
-  "Tooth cleaning is a ritual practice.",
-  "Different twigs may be used for cleaning.",
-  "The bilva twig is subject to a specific rule."
+  "Having meditated is named.",
+  "Guru is named.",
+  "Place-left, right, and ganapati are named."
  ],
- "inference": "One should never perform tooth cleaning with a bilva twig.",
- "uncertainties": [],
- "plain_english": "One should never clean the teeth with a twig from the bilva tree."
+ "inference": "After meditation, the guru is placed on the left and ganapati on the right.",
+ "uncertainties": [
+  "The exact placement context is not specified."
+ ],
+ "plain_english": "Having meditated, place the guru on the left and ganapati on the right, thus."
 }

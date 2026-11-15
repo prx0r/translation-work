@@ -1,0 +1,989 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "rbhāvaireva",
+     "gloss": "by-beautiful-ones",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manoharaiśca",
+     "gloss": "and-charming",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caraṇābjaikaprasādālayam",
+     "gloss": "foot-lotus-single-grace-abode",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "What abode of grace is praised through beautiful and charming feet?",
+   "premises": [
+    "The verse praises an abode of grace.",
+    "It is associated with beautiful and charming feet."
+   ],
+   "inference": "The verse identifies a grace-abode linked to lotus feet.",
+   "uncertainties": [
+    "Exact sandhi and compound members are not resolved here."
+   ],
+   "plain_english": "It praises an abode of grace at the lotus feet, beautiful and charming."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "jñānānandagiriḥ",
+     "gloss": "knowledge-bliss-mountain",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "maheśacaraṇābjaikaprasādālayaḥ",
+     "gloss": "mahesha-foot-lotus-single-grace-abode",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "What mountain of knowledge and bliss is identified with Mahesha's grace-abode?",
+   "premises": [
+    "The verse names a mountain of knowledge and bliss.",
+    "It is identified with Mahesha's grace-abode."
+   ],
+   "inference": "The verse equates a knowledge-bliss mountain with Mahesha's grace-abode.",
+   "uncertainties": [
+    "Compound analysis is approximate."
+   ],
+   "plain_english": "It names a mountain of knowledge and bliss as Mahesha's grace-abode."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "I-bow",
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "mahādevīṃ",
+     "gloss": "great-goddess",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "bāṇīṃ",
+     "gloss": "speech",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vāgvibhavapradām",
+     "gloss": "word-wealth-giver",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "To whom does the speaker bow as great goddess and giver of word-wealth?",
+   "premises": [
+    "The speaker bows to a great goddess.",
+    "She is described as giver of word-wealth."
+   ],
+   "inference": "The verse bows to a great goddess who gives word-wealth.",
+   "uncertainties": [
+    "The exact referent is not specified beyond the verse."
+   ],
+   "plain_english": "I bow to the great goddess, speech, giver of word-wealth."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "yāmalaṃ",
+     "gloss": "yamala",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śaktisaṃjñañca",
+     "gloss": "shakti-named-and",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvacūḍāmaṇiṃ",
+     "gloss": "bhava-crown-jewel",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What named Shakti and crown-jewel of bhava are listed together?",
+   "premises": [
+    "The verse lists a yamala.",
+    "It also names a Shakti and a crown-jewel of bhava."
+   ],
+   "inference": "The verse groups these Kaula items together.",
+   "uncertainties": [
+    "The exact doctrinal role is not stated."
+   ],
+   "plain_english": "It lists yamala, the Shakti-named, and the crown-jewel of bhava, thus."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "kulasāraṃ",
+     "gloss": "kula-essence",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuloḍḍīśaṃ",
+     "gloss": "kula-uddisha",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "kulāmṛtakulārṇavam",
+     "gloss": "kula-nectar-kula-ocean",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "What Kula essence, uddisha, and nectar-ocean are named?",
+   "premises": [
+    "The verse names kula-essence.",
+    "It also names kula-uddisha and kula-nectar-ocean."
+   ],
+   "inference": "The verse enumerates Kula-related items.",
+   "uncertainties": [
+    "The precise meaning of uddisha is not explained."
+   ],
+   "plain_english": "It names kula-essence, kula-uddisha, and kula-nectar-ocean."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "kālītantrakulānandaṃ",
+     "gloss": "kali-tantra-kula-bliss",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "kulacakraṃ",
+     "gloss": "kula-wheel",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What Kali-tantra-kula-bliss and kula-wheel are included?",
+   "premises": [
+    "The verse names Kali-tantra-kula-bliss.",
+    "It also names kula-wheel."
+   ],
+   "inference": "The verse adds these to the Kaula enumeration.",
+   "uncertainties": [
+    "No doctrinal explanation is given."
+   ],
+   "plain_english": "It includes Kali-tantra-kula-bliss and kula-wheel, thus and."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "samayākhya",
+     "gloss": "samaya-named",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "kālītantraṃ",
+     "gloss": "kali-tantra",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "phetkārīṃ",
+     "gloss": "phetkari",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pheravīṃ",
+     "gloss": "pheravi",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What samaya-named Kali tantra and goddesses are listed?",
+   "premises": [
+    "The verse names a samaya-named Kali tantra.",
+    "It also names phetkari and pheravi."
+   ],
+   "inference": "The verse continues the Kaula tantra enumeration.",
+   "uncertainties": [
+    "The exact status of each item is not stated."
+   ],
+   "plain_english": "It lists samaya-named Kali tantra, phetkari, and pheravi, thus."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "svatantraṃ",
+     "gloss": "self-tantra",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tantrarājañca",
+     "gloss": "tantra-king-and",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānamālāṃ",
+     "gloss": "knowledge-garland",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What self-tantra, tantra-king, and knowledge-garland are named beyond?",
+   "premises": [
+    "The verse names self-tantra.",
+    "It also names tantra-king and knowledge-garland."
+   ],
+   "inference": "The verse enumerates further Kaula tantras.",
+   "uncertainties": [
+    "The sense of beyond is not elaborated."
+   ],
+   "plain_english": "It names self-tantra, tantra-king, and knowledge-garland, then beyond."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "mantranirṇayatantrañca",
+     "gloss": "mantra-determination-tantra-and",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "yoginīhṛdayaṃ",
+     "gloss": "yogini-heart",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What mantra-determination tantra and yogini-heart are included?",
+   "premises": [
+    "The verse names mantra-determination tantra.",
+    "It also names yogini-heart."
+   ],
+   "inference": "The verse adds these to the enumeration.",
+   "uncertainties": [
+    "No further doctrinal detail is given."
+   ],
+   "plain_english": "It includes mantra-determination tantra and yogini-heart, thus."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "śivaśāsanatantrañca",
+     "gloss": "shiva-instruction-tantra-and",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "mandaraṃ",
+     "gloss": "mandara",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "plāvanīṃ",
+     "gloss": "plavani",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What Shiva-instruction tantra, mandara, and plavani are listed?",
+   "premises": [
+    "The verse names Shiva-instruction tantra.",
+    "It also names mandara and plavani."
+   ],
+   "inference": "The verse continues the Kaula tantra list.",
+   "uncertainties": [
+    "The exact referents are not explained."
+   ],
+   "plain_english": "It lists Shiva-instruction tantra, mandara, and plavani, thus."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "nīlatantraṃ",
+     "gloss": "blue-tantra",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "matsyasūktaṃ",
+     "gloss": "fish-hymn",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "lalitātantrameva",
+     "gloss": "lalita-tantra-indeed",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What blue tantra, fish hymn, and Lalita tantra are named?",
+   "premises": [
+    "The verse names blue tantra.",
+    "It also names fish hymn and Lalita tantra."
+   ],
+   "inference": "The verse enumerates further tantras.",
+   "uncertainties": [
+    "No doctrinal explanation is provided."
+   ],
+   "plain_english": "It names blue tantra, fish hymn, and Lalita tantra indeed, and."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "vaṭukasaṃhitāñcaiva",
+     "gloss": "vatuka-collection-and-indeed",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tārārṇavaṃ",
+     "gloss": "tara-ocean",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What vatuka collection and tara ocean are named beyond?",
+   "premises": [
+    "The verse names vatuka collection.",
+    "It also names tara ocean."
+   ],
+   "inference": "The verse adds these to the list.",
+   "uncertainties": [
+    "The exact sense of beyond is not stated."
+   ],
+   "plain_english": "It names vatuka collection and tara ocean, then beyond."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "samayākhyaṃ",
+     "gloss": "samaya-named",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tantrasāraṃ",
+     "gloss": "tantra-essence",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantravimarśinīm",
+     "gloss": "mantra-reflection",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "What samaya-named tantra essence and mantra reflection are named?",
+   "premises": [
+    "The verse names samaya-named tantra essence.",
+    "It also names mantra reflection."
+   ],
+   "inference": "The verse continues the enumeration.",
+   "uncertainties": [
+    "The exact relation is not explained."
+   ],
+   "plain_english": "It names samaya-named tantra essence, then mantra reflection."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "bhairavākhyaṃ",
+     "gloss": "bhairava-named",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahātantraṃ",
+     "gloss": "great-tantra",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhasārasvataṃ",
+     "gloss": "siddha-sarasvata",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What Bhairava-named great tantra and siddha-sarasvata are named?",
+   "premises": [
+    "The verse names Bhairava-named great tantra.",
+    "It also names siddha-sarasvata."
+   ],
+   "inference": "The verse adds these to the list.",
+   "uncertainties": [
+    "No doctrinal explanation is given."
+   ],
+   "plain_english": "It names Bhairava-named great tantra and siddha-sarasvata, then."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "chinnātantraṃ",
+     "gloss": "chinna-tantra",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "vātulañca",
+     "gloss": "vatula-and",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇāmūrttisaṃhitām",
+     "gloss": "dakshinamurti-collection",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "What chinna tantra, vatula, and Dakshinamurti collection are named?",
+   "premises": [
+    "The verse names chinna tantra.",
+    "It also names vatula and Dakshinamurti collection."
+   ],
+   "inference": "The verse continues the tantra enumeration.",
+   "uncertainties": [
+    "The exact status of each is not stated."
+   ],
+   "plain_english": "It names chinna tantra, vatula, and Dakshinamurti collection."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "guruṇāñca",
+     "gloss": "guru-and",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "mataṃ",
+     "gloss": "opinion",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "knowing",
+     "grounds": "legacy hint",
+     "morph": "abs"
+    },
+    {
+     "surface": "sārātsārataraṃ",
+     "gloss": "essence-from-essence-more",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What guru opinion and essence beyond essence is to be known?",
+   "premises": [
+    "The verse says knowing guru opinion.",
+    "It describes something as essence beyond essence and great."
+   ],
+   "inference": "The verse values guru opinion and a higher essence.",
+   "uncertainties": [
+    "The exact object of knowing is ambiguous."
+   ],
+   "plain_english": "Knowing guru opinion, one takes the greater essence beyond essence."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "atiyatnena",
+     "gloss": "with-great-effort",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "goptavyaṃ",
+     "gloss": "to-be-protected",
+     "grounds": "legacy hint",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "mātṛmaithunavat",
+     "gloss": "mother-intercourse-like",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should this knowledge be protected according to the verse?",
+   "premises": [
+    "The verse says it must be protected with great effort.",
+    "It compares protection to mother-intercourse-like secrecy."
+   ],
+   "inference": "The verse demands strict protection of the teaching.",
+   "uncertainties": [
+    "The comparison is obscure and not explained."
+   ],
+   "plain_english": "It must always be protected with great effort, like mother-intercourse secrecy."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "p. 4",
+     "gloss": "page-4",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "paraśiṣyāya",
+     "gloss": "to-other-disciple",
+     "grounds": "legacy hint",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "vañcakāya",
+     "gloss": "to-deceiver",
+     "grounds": "legacy hint",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "tathaiva ca",
+     "gloss": "thus-indeed-and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "To whom must this knowledge not be given?",
+   "premises": [
+    "The verse forbids giving it.",
+    "It names other disciple and deceiver as excluded."
+   ],
+   "inference": "The verse restricts transmission to unsuitable recipients.",
+   "uncertainties": [
+    "The page marker is editorial."
+   ],
+   "plain_english": "Do not give it to another disciple or a deceiver, thus indeed and."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "prakṛtācārayuktāya",
+     "gloss": "nature-conduct-endowed",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "gurusevāparāya",
+     "gloss": "guru-service-devoted",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What kind of disciple is fit to receive this knowledge?",
+   "premises": [
+    "The verse names one endowed with nature and conduct.",
+    "It also names one devoted to guru service."
+   ],
+   "inference": "The verse identifies fit recipients by conduct and devotion.",
+   "uncertainties": [
+    "The exact conduct standard is not defined."
+   ],
+   "plain_english": "Give it to one endowed with nature and conduct and devoted to guru service, and."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "śiṣyāya",
+     "gloss": "to-disciple",
+     "grounds": "legacy hint",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "bhaktiyuktāya",
+     "gloss": "devotion-endowed",
+     "grounds": "legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhakāya",
+     "gloss": "to-adept",
+     "grounds": "legacy hint",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "pradāpayet",
+     "gloss": "should-give",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "When should this knowledge be given to a devoted disciple or adept?",
+   "premises": [
+    "The verse says it should be given.",
+    "It names a disciple endowed with devotion and an adept."
+   ],
+   "inference": "The verse permits giving to devoted and adept recipients.",
+   "uncertainties": [
+    "The conditions of giving are not fully specified."
+   ],
+   "plain_english": "It should be given to a disciple endowed with devotion and to an adept."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhakṣyo",
+     "gloss": "eaten",
+     "grounds": "legacy hint",
+     "morph": "participle"
+    },
+    {
+     "surface": "yoginīvṛndair",
+     "gloss": "by-yogini-troop",
+     "grounds": "legacy hint",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "mṛte",
+     "gloss": "dead",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "go",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What consequence follows for one eaten by yogini troops after death?",
+   "premises": [
+    "The verse says he is eaten by yogini troops.",
+    "It says he goes to hell after death."
+   ],
+   "inference": "The verse states a severe postmortem consequence.",
+   "uncertainties": [
+    "The exact causal link is not explained."
+   ],
+   "plain_english": "He is eaten by yogini troops and, dead, goes to hell."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "pustakaṃ",
+     "gloss": "book",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vīkṣya",
+     "gloss": "seeing",
+     "grounds": "legacy hint",
+     "morph": "abs"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mūḍho",
+     "gloss": "fool",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "labdho",
+     "gloss": "obtained",
+     "grounds": "legacy hint",
+     "morph": "participle"
+    },
+    {
+     "surface": "guruvaktrataḥ",
+     "gloss": "from-guru-mouth",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "What happens to a fool who sees the book without guru instruction?",
+   "premises": [
+    "The verse names a fool who sees the book.",
+    "It says he has not obtained it from the guru's mouth."
+   ],
+   "inference": "The verse devalues book-learning without guru transmission.",
+   "uncertainties": [
+    "The exact consequence is stated in the next verse."
+   ],
+   "plain_english": "A fool who sees the book has not obtained it from the guru's mouth."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "legacy hint",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "legacy hint",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "legacy hint",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "narakāya",
+     "gloss": "for-hell",
+     "grounds": "legacy hint",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "legacy hint",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What becomes of all actions of such a person?",
+   "premises": [
+    "The verse says all his actions.",
+    "It says they become for hell."
+   ],
+   "inference": "The verse assigns hellward results to all his actions.",
+   "uncertainties": [
+    "The scope of all actions is not qualified."
+   ],
+   "plain_english": "All his actions indeed become for hell."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "knowing",
+     "grounds": "legacy hint",
+     "morph": "abs"
+    },
+    {
+     "surface": "gurorvaktrāt",
+     "gloss": "from-guru-mouth",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "sādhane",
+     "gloss": "in-practice",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yatnamācaret",
+     "gloss": "effort-should-make",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What effort should be made in practice after knowing from the guru?",
+   "premises": [
+    "The verse says therefore.",
+    "It says knowing from the guru's mouth, one should make effort in practice."
+   ],
+   "inference": "The verse concludes that guru-transmitted knowledge requires practice effort.",
+   "uncertainties": [
+    "The exact practice is not specified."
+   ],
+   "plain_english": "Therefore, knowing from the guru's mouth, one should make effort in practice."
+  }
+ ]
+}

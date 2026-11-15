@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2176,
- "question": "Which directional positions do the crocodile-pot and fish figures occupy in the ritual layout?",
+ "question": "Which deity is declared as the devata of the gayatri mantra?",
  "premises": [
-  "The crocodile and pot are placed to the north.",
-  "The fish is situated in the northeast direction.",
-  "These placements are specified as established positions."
+  "gayatri mantra has a deity",
+  "krishna is named as that deity"
  ],
- "inference": "The ritual layout assigns the crocodile-pot to the north and the fish to the northeast.",
+ "inference": "the gayatri mantra's deity is krishna",
  "uncertainties": [
-  "The exact identity or function of nakrakumbha as a single or paired figure is not fully explicit."
+  "verse fragment lacks full mantra context"
  ],
- "plain_english": "The crocodile and pot are placed to the north, while the fish is situated in the northeast."
+ "plain_english": "The gayatri mantra's deity is declared to be Krishna."
 }

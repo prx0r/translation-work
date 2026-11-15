@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2187,
- "question": "What quantity is specified together with an additional four finger-units?",
+ "question": "What manu is considered vasu-colored?",
  "premises": [
-  "Twenty-three hundreds are stated.",
-  "Four finger-units are added to them.",
-  "The expression forms a combined measure."
+  "vasu-colored is stated",
+  "manu is considered so"
  ],
- "inference": "The specified quantity is two thousand three hundred together with four finger-units.",
+ "inference": "the manu is considered vasu-colored",
  "uncertainties": [
-  "Whether the four finger-units are added to the total or form a separate component is slightly ambiguous."
+  "exact manu identity is not given"
  ],
- "plain_english": "And there are twenty-three hundreds together with four finger-units."
+ "plain_english": "The manu is considered vasu-colored."
 }

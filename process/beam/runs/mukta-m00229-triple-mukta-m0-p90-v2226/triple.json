@@ -1,0 +1,487 @@
+{
+ "song": "mukta-m0-p90",
+ "items": [
+  {
+   "verse": 2226,
+   "rows": [
+    {
+     "surface": "vasiṣṭhasaṃhitāṃ",
+     "gloss": "vasishta-samhita",
+     "grounds": "fused compound; accusative object",
+     "morph": "compound, acc.sg.f"
+    },
+    {
+     "surface": "gārgya-saṃhitāṃ",
+     "gloss": "gargya-samhita",
+     "grounds": "compound; accusative object",
+     "morph": "compound, acc.sg.f"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which authoritative samhitas and bhairava text does Devanatha enumerate among his sources?",
+   "premises": [
+    "The verse names vasishta samhita.",
+    "The verse names gargya samhita.",
+    "The verse names bhairava."
+   ],
+   "inference": "Devanatha presents his work as drawing on multiple named authoritative samhitas and bhairava material.",
+   "uncertainties": [
+    "The exact syntactic role of tatha within the larger list remains provisional."
+   ],
+   "plain_english": "Devanatha names the Vasishta Samhita, the Gargya Samhita, and Bhairava among his sources."
+  },
+  {
+   "verse": 2227,
+   "rows": [
+    {
+     "surface": "granthaṃ",
+     "gloss": "treatise",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pratiṣṭhāsāra",
+     "gloss": "essence-of-consecration",
+     "grounds": "fused compound",
+     "morph": "compound, acc.sg.m"
+    },
+    {
+     "surface": "saṃgraham",
+     "gloss": "compendium",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What kind of consecration compendium does Devanatha include among his cited works?",
+   "premises": [
+    "The verse names a grantha.",
+    "The verse names pratishthasara.",
+    "The verse names samgraha."
+   ],
+   "inference": "Devanatha includes a consecration compendium among the works he draws upon.",
+   "uncertainties": [
+    "Whether pratishthasara modifies grantha or samgraha is not fully settled."
+   ],
+   "plain_english": "Devanatha includes a treatise, the essence of consecration, and a compendium."
+  },
+  {
+   "verse": 2228,
+   "rows": [
+    {
+     "surface": "viṣṇubrahmarudrādiyāmalam",
+     "gloss": "yamala-of-vishnu-brahma-rudra-etc",
+     "grounds": "long fused compound",
+     "morph": "compound, acc.sg.n"
+    }
+   ],
+   "question": "Which yamala texts spanning Vishnu, Brahma, Rudra, and others are cited?",
+   "premises": [
+    "The verse gives one fused compound.",
+    "The compound includes vishnu, brahma, and rudra.",
+    "The compound ends in yamala."
+   ],
+   "inference": "Devanatha cites yamala literature associated with Vishnu, Brahma, Rudra, and further deities.",
+   "uncertainties": [
+    "The full internal list after adi is not recoverable from this token alone."
+   ],
+   "plain_english": "Devanatha cites the Yamala texts of Vishnu, Brahma, Rudra, and others."
+  },
+  {
+   "verse": 2229,
+   "rows": [
+    {
+     "surface": "pārvatīharasaṃvādaṃ",
+     "gloss": "dialogue-of-parvati-and-hara",
+     "grounds": "fused compound",
+     "morph": "compound, acc.sg.m"
+    },
+    {
+     "surface": "vārāhītantram",
+     "gloss": "varahi-tantra",
+     "grounds": "fused compound",
+     "morph": "compound, acc.sg.n"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "with-respect",
+     "grounds": "ablative of regard",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "Which dialogue and tantra does Devanatha cite with special regard?",
+   "premises": [
+    "The verse names parvati-hara dialogue.",
+    "The verse names varahi tantra.",
+    "The verse adds adarat."
+   ],
+   "inference": "Devanatha cites the Parvati-Hara dialogue and Varahi Tantra with respect.",
+   "uncertainties": [
+    "The exact scope of adarat across the list is not fully settled."
+   ],
+   "plain_english": "With respect, Devanatha cites the Parvati-Hara dialogue and the Varahi Tantra."
+  },
+  {
+   "verse": 2230,
+   "rows": [
+    {
+     "surface": "phetkāriṇītantraṃ",
+     "gloss": "phetkarini-tantra",
+     "grounds": "fused compound",
+     "morph": "compound, acc.sg.n"
+    },
+    {
+     "surface": "subhagodayam",
+     "gloss": "rise-of-subhaga",
+     "grounds": "fused compound",
+     "morph": "compound, acc.sg.m"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "with-respect",
+     "grounds": "ablative of regard",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "Which phetkarini tantra and subhagodaya work does Devanatha cite with respect?",
+   "premises": [
+    "The verse names phetkarini tantra.",
+    "The verse names subhagodaya.",
+    "The verse adds adarat."
+   ],
+   "inference": "Devanatha cites the Phetkarini Tantra and Subhagodaya with respect.",
+   "uncertainties": [
+    "Whether subhagodaya is a tantra or another genre is not stated."
+   ],
+   "plain_english": "With respect, Devanatha cites the Phetkarini Tantra and Subhagodaya."
+  },
+  {
+   "verse": 2231,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhāntaṃ",
+     "gloss": "siddhanta",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "viśvakarmaṇaḥ",
+     "gloss": "of-vishvakarman",
+     "grounds": "genitive of source",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "Whose siddhanta does Devanatha cite in the same manner?",
+   "premises": [
+    "The verse says tadvat.",
+    "The verse names siddhanta.",
+    "The verse names vishvakarman."
+   ],
+   "inference": "Devanatha likewise cites the siddhanta associated with Vishvakarman.",
+   "uncertainties": [
+    "The exact relation between siddhanta and Vishvakarman is not specified."
+   ],
+   "plain_english": "Likewise, Devanatha cites the siddhanta of Vishvakarman."
+  },
+  {
+   "verse": 2232,
+   "rows": [
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtiśāstrāṇi",
+     "gloss": "smriti-scriptures",
+     "grounds": "fused compound",
+     "morph": "compound, acc.pl.n"
+    },
+    {
+     "surface": "bhāratam",
+     "gloss": "bharata",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which various smriti scriptures and Bharata does Devanatha cite likewise?",
+   "premises": [
+    "The verse says vividham.",
+    "The verse says tadvat.",
+    "The verse names smriti shastras and bharata."
+   ],
+   "inference": "Devanatha likewise cites various smriti scriptures and the Bharata.",
+   "uncertainties": [
+    "Whether vividham modifies smriti shastras or the whole list is not fully settled."
+   ],
+   "plain_english": "Likewise, Devanatha cites various smriti scriptures and the Bharata."
+  },
+  {
+   "verse": 2233,
+   "rows": [
+    {
+     "surface": "puraścaryādikarmaṇaḥ",
+     "gloss": "of-preliminary-rites-etc",
+     "grounds": "fused compound with genitive",
+     "morph": "compound, gen.sg.n"
+    }
+   ],
+   "question": "What preliminary rites and related actions does Devanatha place in the genitive?",
+   "premises": [
+    "The verse gives one fused compound.",
+    "The compound includes purashcarya.",
+    "The compound ends in karmanah."
+   ],
+   "inference": "Devanatha refers to preliminary rites and related actions in the genitive.",
+   "uncertainties": [
+    "The exact syntactic head of the genitive phrase is not stated."
+   ],
+   "plain_english": "Devanatha refers to preliminary rites and related actions."
+  },
+  {
+   "verse": 2234,
+   "rows": [
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive of possession",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "kaumudī",
+     "gloss": "moonlight",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What does Devanatha call his beloved moonlight work?",
+   "premises": [
+    "The verse says vallabha.",
+    "The verse says mama.",
+    "The verse says kaumudi."
+   ],
+   "inference": "Devanatha calls his Mantrakaumudi his beloved moonlight.",
+   "uncertainties": [
+    "Whether vallabha is an adjective or a name is not fully settled."
+   ],
+   "plain_english": "My beloved moonlight is the Kaumudi."
+  },
+  {
+   "verse": 2235,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvanaṃ",
+     "gloss": "life",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive of possession",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "kaumudī",
+     "gloss": "moonlight",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What does Devanatha declare his Kaumudi to be for his life?",
+   "premises": [
+    "The verse asks kim.",
+    "The verse says jivanam.",
+    "The verse says mama kaumudi."
+   ],
+   "inference": "Devanatha declares his Kaumudi to be his life.",
+   "uncertainties": [
+    "The rhetorical force of kim ca is not fully settled."
+   ],
+   "plain_english": "What else? My Kaumudi is my life."
+  },
+  {
+   "verse": 2236,
+   "rows": [
+    {
+     "surface": "grāhyaṁ",
+     "gloss": "acceptable",
+     "grounds": "nominative adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bālādapi",
+     "gloss": "even-from-a-child",
+     "grounds": "fused ablative plus api",
+     "morph": "abl.sg.f + (indecl.)"
+    },
+    {
+     "surface": "subhāṣitam",
+     "gloss": "well-spoken-saying",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What well-spoken saying is acceptable even from a child?",
+   "premises": [
+    "The verse says grahyam.",
+    "The verse says balad api.",
+    "The verse says subhashitam."
+   ],
+   "inference": "A well-spoken saying is acceptable even when it comes from a child.",
+   "uncertainties": [
+    "The exact referent of subhashitam is not specified."
+   ],
+   "plain_english": "A well-spoken saying is acceptable even from a child."
+  },
+  {
+   "verse": 2237,
+   "rows": [
+    {
+     "surface": "pratipāditāya",
+     "gloss": "to-the-expounded",
+     "grounds": "dative of recipient",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "mahase",
+     "gloss": "for-glory",
+     "grounds": "dative of purpose",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-that",
+     "grounds": "dative pronoun",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "parasmainamaḥ",
+     "gloss": "salutation-to-the-supreme",
+     "grounds": "fused dative plus namaḥ",
+     "morph": "dat.sg.m + nom.sg.n"
+    }
+   ],
+   "question": "To whom does Devanatha offer salutation for the expounded glory?",
+   "premises": [
+    "The verse says pratipaditaya.",
+    "The verse says mahase.",
+    "The verse says tasmai parasmai namah."
+   ],
+   "inference": "Devanatha offers salutation to the supreme for the expounded glory.",
+   "uncertainties": [
+    "The exact referent of tasmai parasmai is not specified."
+   ],
+   "plain_english": "Salutation to that supreme one for the expounded glory."
+  },
+  {
+   "verse": 2238,
+   "rows": [
+    {
+     "surface": "devanātha",
+     "gloss": "devanatha",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vibudhena",
+     "gloss": "by-the-wise",
+     "grounds": "instrumental agent",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "satāṃ",
+     "gloss": "of-the-good",
+     "grounds": "genitive of relation",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "mude'stu",
+     "gloss": "may-it-be-for-joy",
+     "grounds": "fused dative plus verb",
+     "morph": "dat.sg.f + 3.sg.act.imp."
+    }
+   ],
+   "question": "For whose joy does Devanatha wish his work to be?",
+   "premises": [
+    "The verse names devanatha.",
+    "The verse says vibudhena.",
+    "The verse says satam mude astu."
+   ],
+   "inference": "Devanatha wishes his work to be for the joy of the good and wise.",
+   "uncertainties": [
+    "Whether vibudhena modifies devanatha or satam is not fully settled."
+   ],
+   "plain_english": "May Devanatha, composed by the wise, be for the joy of the good."
+  },
+  {
+   "verse": 2239,
+   "rows": [
+    {
+     "surface": "devanātho",
+     "gloss": "devanatha",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jagaddhitām",
+     "gloss": "world-benefit",
+     "grounds": "fused compound",
+     "morph": "compound, acc.sg.f"
+    }
+   ],
+   "question": "What world benefit does Devanatha declare his work to be?",
+   "premises": [
+    "The verse names devanatha.",
+    "The verse says jagaddhitam.",
+    "The verse is a colophon statement."
+   ],
+   "inference": "Devanatha declares his work to be for the benefit of the world.",
+   "uncertainties": [
+    "The exact verb or syntactic completion is not present in this token."
+   ],
+   "plain_english": "Devanatha is for the benefit of the world."
+  }
+ ]
+}

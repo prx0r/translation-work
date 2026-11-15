@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p104",
  "verse": 2582,
- "question": "Which early life rites follow in sequence after the birth rite in this ritual list?",
+ "question": "Which powers and kurcha pair are named in this sequence?",
  "premises": [
-  "The birth rite is performed first in this sequence.",
-  "The naming rite follows after it.",
-  "The first outing is included as a subsequent rite."
+  "speech maya lakshmi maya are named",
+  "two kurchas follow"
  ],
- "inference": "After the birth rite, one should perform the naming rite and the first outing.",
- "uncertainties": [],
- "plain_english": "Then the birth rite, the naming rite, and the first outing should be performed."
+ "inference": "The verse lists speech, Maya, Lakshmi, Maya, then two kurchas.",
+ "uncertainties": [
+  "whether kurcha means a mantra cluster or ritual implement"
+ ],
+ "plain_english": "Speech, Maya, Lakshmi, Maya, then two kurchas are named."
 }

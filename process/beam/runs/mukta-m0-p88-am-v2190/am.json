@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2190,
- "question": "What root measure in finger-units and barley-units corresponds to the stated seed value?",
+ "question": "What word is placed after the banyan-root word for the afterward-dwelling one?",
  "premises": [
-  "A root of that seed value is given.",
-  "The root includes fifty-eight finger-units.",
-  "The root includes six barley-units."
+  "banyan-root word end is mentioned",
+  "a word is placed",
+  "afterward-dwelling one is referenced"
  ],
- "inference": "The root of the seed value is fifty-eight finger-units and six barley-units.",
- "uncertainties": [],
- "plain_english": "Its root is fifty-eight finger-units and six barley-units."
+ "inference": "a word follows the banyan-root word for the afterward-dwelling one",
+ "uncertainties": [
+  "exact word is not supplied"
+ ],
+ "plain_english": "A word follows the banyan-root word for the one dwelling afterward."
 }

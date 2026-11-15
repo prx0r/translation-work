@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "ṛtucandrair",
+     "gloss": "season-moons",
+     "grounds": "instrumental plural of the compound ṛtucandra",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "vedarasair",
+     "gloss": "veda-sounds",
+     "grounds": "instrumental plural of the compound vedarasa",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "netrarāmair",
+     "gloss": "eye-delighters",
+     "grounds": "instrumental plural of the compound netrarāma",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "indeclinable adverb indicating sequential order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of prāṇāyāma aids should precede japa for the focused practitioner?",
+   "premises": [
+    "Prāṇāyāma precedes japa.",
+    "Season-moons, veda-sounds, and eye-delighters are used in order."
+   ],
+   "inference": "The practitioner performs prāṇāyāma with these aids sequentially before japa.",
+   "uncertainties": [
+    "The exact referents of the three instrumental compounds are not explicit in this verse."
+   ],
+   "plain_english": "Prāṇāyāma should be done before japa, using season-moons, veda-sounds, and eye-delighters in order."
+  }
+ ]
+}

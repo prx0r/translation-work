@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p09",
  "verse": 212,
- "question": "What phonetic and sonic features must accompany the extracted seed element?",
+ "question": "What must a man do before meditation to make it effective?",
  "premises": [
-  "The element is joined with the vowel of māyā.",
-  "It is endowed with nāda, bindu, and kalā.",
-  "These features qualify the same extracted element."
+  "victory-taking having-done meditation who does man",
+  "victory-taking precedes meditation"
  ],
- "inference": "The seed must be formed with the māyā vowel and the sonic marks nāda, bindu, and kalā.",
- "uncertainties": [],
- "plain_english": "It should be joined with the vowel of māyā and endowed with nāda, bindu, and kalā."
+ "inference": "A man who meditates after taking victory performs the practice properly.",
+ "uncertainties": [
+  "meaning of victory-taking"
+ ],
+ "plain_english": "A man who first takes victory and then meditates performs the practice."
 }

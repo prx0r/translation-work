@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "siddhāntaṃ",
+     "gloss": "siddhanta-text",
+     "grounds": "accusative singular noun naming an authority",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāraśrīsaṃhitāṃ",
+     "gloss": "sara-sri-samhita-text",
+     "grounds": "accusative singular feminine noun naming an authority",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of krama used adverbially",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Which two authorities are added in sequence after the previously listed texts?",
+   "premises": [
+    "siddhāntaṃ names an authority",
+    "sāraśrīsaṃhitāṃ names an authority",
+    "kramāt indicates sequential order"
+   ],
+   "inference": "The verse lists two more authorities in order",
+   "uncertainties": [
+    "specific siddhānta text is not identified"
+   ],
+   "plain_english": "the Siddhānta and the Sāraśrīsaṃhitā, in order"
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 235,
- "question": "What bodily posture and visual restraint are required before relieving oneself?",
+ "question": "In whose presence should this not be done?",
  "premises": [
-  "The head must be covered.",
-  "One must not look upward.",
-  "One must not look downward."
+  "Not in father's presence is named.",
+  "Or not in mother's presence is named.",
+  "Thus is named."
  ],
- "inference": "One should cover the head and avoid looking upward or downward.",
- "uncertainties": [],
- "plain_english": "Covering the head and looking neither upward nor downward—"
+ "inference": "This should not be done in the presence of father or mother.",
+ "uncertainties": [
+  "The exact act is elliptical."
+ ],
+ "plain_english": "Not in the father's presence, nor in the mother's presence, thus."
 }

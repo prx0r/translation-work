@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p83",
  "verse": 2057,
- "question": "What ritual action follows determining the directions by the sun’s motion?",
+ "question": "What is placed after gaṇapati at the varada end?",
  "premises": [
-  "Directions are known by the sun’s motion.",
-  "A wise person performs the rite.",
-  "An auspicious-day declaration is recited."
+  "gaṇapatiṃ is object",
+  "paścāt means afterwards",
+  "varānte means at varada end",
+  "varadaṃ padam means varada word"
  ],
- "inference": "After determining directions by the sun, the wise one should have the auspicious-day recited.",
- "uncertainties": [],
- "plain_english": "Having known the directions by the motion of the sun, the wise one should have the auspicious-day declaration recited."
+ "inference": "The varada word is placed after gaṇapati.",
+ "uncertainties": [
+  "exact ritual sequence"
+ ],
+ "plain_english": "Afterwards, at the varada end, the varada word after gaṇapati."
 }

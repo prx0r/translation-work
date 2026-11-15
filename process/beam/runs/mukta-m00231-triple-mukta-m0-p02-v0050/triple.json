@@ -1,0 +1,76 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "legacy hint as-long-as",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "legacy hint asti",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "legacy hint so-long",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣaṇam",
+     "gloss": "liberation",
+     "grounds": "legacy hint liberation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Under what condition does liberation continue to obtain?",
+   "premises": [
+    "that is absent",
+    "liberation obtains during absence",
+    "duration tied to absence"
+   ],
+   "inference": "Liberation lasts only while that is absent.",
+   "uncertainties": [
+    "referent of tat unspecified",
+    "exact scope of mokṣaṇam"
+   ],
+   "plain_english": "Liberation endures only as long as that is absent."
+  }
+ ]
+}
