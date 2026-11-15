@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "sauḥ",
-"quick_gloss": "mantra-sauḥ"
+"quick_gloss": "sauḥ-bīja"
 },
 {
 "surface": "pātu",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "sahrīṃ",
-"quick_gloss": "mantra-sahrīṃ"
+"quick_gloss": "sahrīṃ-bīja"
 },
 {
 "surface": "hṛdaye",
@@ -32,7 +32,7 @@
 },
 {
 "surface": "nābhideśake",
-"quick_gloss": "in-navel+region"
+"quick_gloss": "in-navel-region"
 }
 ]
 },
@@ -45,7 +45,7 @@
 "tokens": [
 {
 "surface": "sahahrīṃ",
-"quick_gloss": "mantra-sahahrīṃ"
+"quick_gloss": "sahahrīṃ-bīja"
 },
 {
 "surface": "māṃ",
@@ -61,7 +61,7 @@
 },
 {
 "surface": "saklīṃ",
-"quick_gloss": "mantra-saklīṃ"
+"quick_gloss": "saklīṃ-bīja"
 },
 {
 "surface": "pātu",
@@ -86,11 +86,11 @@
 "tokens": [
 {
 "surface": "hūṃ",
-"quick_gloss": "mantra-hūṃ"
+"quick_gloss": "hūṃ-bīja"
 },
 {
 "surface": "kṣe",
-"quick_gloss": "mantra-kṣe"
+"quick_gloss": "kṣe-bīja"
 },
 {
 "surface": "māṃ",
@@ -106,11 +106,11 @@
 },
 {
 "surface": "sahrīṃ",
-"quick_gloss": "mantra-sahrīṃ"
+"quick_gloss": "sahrīṃ-bīja"
 },
 {
 "surface": "saklīṃ",
-"quick_gloss": "mantra-saklīṃ"
+"quick_gloss": "saklīṃ-bīja"
 },
 {
 "surface": "manobhavā",
@@ -155,7 +155,7 @@
 },
 {
 "surface": "śivā",
-"quick_gloss": "auspicious"
+"quick_gloss": "auspicious-one"
 }
 ]
 },
@@ -172,7 +172,7 @@
 },
 {
 "surface": "prītyā",
-"quick_gloss": "by-pleasure"
+"quick_gloss": "for-pleasure"
 },
 {
 "surface": "mayā",
@@ -213,7 +213,7 @@
 },
 {
 "surface": "bhogamokṣapradaṃ",
-"quick_gloss": "enjoyment+liberation+granting"
+"quick_gloss": "enjoyment-and-liberation-granting"
 },
 {
 "surface": "śivam",
@@ -230,7 +230,7 @@
 "tokens": [
 {
 "surface": "ākarṣaṇakaraṃ",
-"quick_gloss": "attraction+causing"
+"quick_gloss": "attraction-causing"
 },
 {
 "surface": "devi",
@@ -238,7 +238,7 @@
 },
 {
 "surface": "stambhoccāṭakaraṃ",
-"quick_gloss": "paralyzing+uprooting+causing"
+"quick_gloss": "paralyzing-and-uprooting-causing"
 },
 {
 "surface": "śive",
@@ -259,18 +259,18 @@
 },
 {
 "surface": "arcayet",
-"quick_gloss": "should-worship"
+"quick_gloss": "worships"
 },
 {
 "surface": "yoginīvṛndaiḥ",
-"quick_gloss": "with-yoginī+multitudes"
+"quick_gloss": "with-hosts-of-yoginīs"
 },
 {
 "surface": "sa",
 "quick_gloss": "he"
 },
 {
-"surface": "bhakṣyo",
+"surface": "bhakṣyaḥ",
 "quick_gloss": "to-be-enjoyed"
 },
 {
@@ -312,7 +312,7 @@
 },
 {
 "surface": "adhikārī",
-"quick_gloss": "qualified"
+"quick_gloss": "qualified-one"
 },
 {
 "surface": "bhavet",
@@ -341,7 +341,7 @@
 },
 {
 "surface": "antakāle",
-"quick_gloss": "at-death+time"
+"quick_gloss": "at-time-of-death"
 }
 ]
 },
@@ -354,11 +354,15 @@
 "tokens": [
 {
 "surface": "taruṇārka",
-"quick_gloss": "young+sun"
+"quick_gloss": "young-sun"
 },
 {
-"surface": "koṭivilasattejaḥ",
-"quick_gloss": "crore+shining+splendor"
+"surface": "koṭi",
+"quick_gloss": "crore"
+},
+{
+"surface": "vilasattejaḥ",
+"quick_gloss": "shining-splendor"
 },
 {
 "surface": "svarūpāṃ",
@@ -366,7 +370,7 @@
 },
 {
 "surface": "śivām",
-"quick_gloss": "auspicious"
+"quick_gloss": "auspicious-one"
 }
 ]
 },
@@ -378,16 +382,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bālādityasamaprakāśa",
-"quick_gloss": "young+sun+equal+radiance"
+"surface": "bālāditya",
+"quick_gloss": "rising-sun"
 },
 {
-"surface": "vilasannetratrayodbhāsinīm",
-"quick_gloss": "shining+eye+triad"
+"surface": "samaprakāśa",
+"quick_gloss": "equal-radiance"
+},
+{
+"surface": "vilasat",
+"quick_gloss": "shining"
+},
+{
+"surface": "netratraya",
+"quick_gloss": "three-eyes"
 },
 {
 "surface": "udbhāsinīm",
-"quick_gloss": "illuminating"
+"quick_gloss": "illuminated-by"
 }
 ]
 },
@@ -399,12 +411,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pratyālīḍhorupādām",
-"quick_gloss": "pratyālīḍha+thigh+footed"
+"surface": "pratyālīḍha",
+"quick_gloss": "in-pratyālīḍha-posture"
+},
+{
+"surface": "ūrupādām",
+"quick_gloss": "thigh-and-foot"
 },
 {
 "surface": "aruṇitanayanāṃ",
-"quick_gloss": "reddened+eyes"
+"quick_gloss": "reddened-eyes"
 },
 {
 "surface": "yoginīṃ",
@@ -424,12 +440,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadyaśchinnātmakaṇṭha",
-"quick_gloss": "just+cut+own+throat"
+"surface": "sadyaḥ",
+"quick_gloss": "just"
+},
+{
+"surface": "chinna",
+"quick_gloss": "cut"
+},
+{
+"surface": "ātmakaṇṭha",
+"quick_gloss": "own-throat"
 },
 {
 "surface": "pragalitarudhiraiḥ",
-"quick_gloss": "flowing+blood"
+"quick_gloss": "flowing-blood"
 },
 {
 "surface": "ḍākinīṃ",
@@ -453,8 +477,12 @@
 "quick_gloss": "of-whom"
 },
 {
-"surface": "smerapadāravindayugale",
-"quick_gloss": "smiling+lotus+feet+pair"
+"surface": "smera",
+"quick_gloss": "smiling"
+},
+{
+"surface": "padāravindayugale",
+"quick_gloss": "lotus-feet-pair"
 },
 {
 "surface": "lābhaṃ",
@@ -504,7 +532,7 @@
 "tokens": [
 {
 "surface": "sarvasiddhipradaṃ",
-"quick_gloss": "all+siddhi+granting"
+"quick_gloss": "all-siddhis-granting"
 },
 {
 "surface": "sākṣāt",
@@ -512,7 +540,7 @@
 },
 {
 "surface": "mahāpātakanāśanam",
-"quick_gloss": "great+sin+destroying"
+"quick_gloss": "great-sins-destroying"
 }
 ]
 },
@@ -529,7 +557,7 @@
 },
 {
 "surface": "siddhiḥ",
-"quick_gloss": "siddhi"
+"quick_gloss": "success"
 },
 {
 "surface": "bhavet",
@@ -541,7 +569,7 @@
 },
 {
 "surface": "vāñchitārthapradāyinī",
-"quick_gloss": "desired+object+granting"
+"quick_gloss": "desired-objects-granting"
 }
 ]
 },
@@ -554,11 +582,11 @@
 "tokens": [
 {
 "surface": "vasundharāṃ",
-"quick_gloss": "earth"
+"quick_gloss": "earth-goddess"
 },
 {
 "surface": "mahāvidyām",
-"quick_gloss": "great+knowledge"
+"quick_gloss": "great-vidyā"
 },
 {
 "surface": "aṣṭau",
@@ -591,7 +619,7 @@
 },
 {
 "surface": "bhaktajanānukampini",
-"quick_gloss": "devotee+people+compassionate"
+"quick_gloss": "compassionate-to-devotees"
 },
 {
 "surface": "mahāmāye",
@@ -639,8 +667,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "adhigatā",
-"quick_gloss": "understood"
+"surface": "adhigatāḥ",
+"quick_gloss": "learned"
 },
 {
 "surface": "mayā",
@@ -657,7 +685,7 @@
 "tokens": [
 {
 "surface": "trailokyavijayaṃ",
-"quick_gloss": "three+world+conquest"
+"quick_gloss": "three-worlds-conquering"
 },
 {
 "surface": "nāma",
@@ -686,11 +714,11 @@
 "tokens": [
 {
 "surface": "trailokya",
-"quick_gloss": "three+world"
+"quick_gloss": "three-worlds"
 },
 {
 "surface": "vijayaṃ",
-"quick_gloss": "conquest"
+"quick_gloss": "conquering"
 },
 {
 "surface": "nāma",
@@ -702,7 +730,7 @@
 },
 {
 "surface": "sarvamohanam",
-"quick_gloss": "all+deluding"
+"quick_gloss": "all-deluding"
 }
 ]
 },
@@ -718,20 +746,16 @@
 "quick_gloss": "from-wearing"
 },
 {
-"surface": "paṭhanāt",
-"quick_gloss": "from-reciting"
-},
-{
-"surface": "īśaḥ",
-"quick_gloss": "O-lord"
+"surface": "paṭhanādīśaḥ",
+"quick_gloss": "from-recitation-etc."
 },
 {
 "surface": "trailokyavijayī",
-"quick_gloss": "three+world+conqueror"
+"quick_gloss": "three-worlds-conqueror"
 },
 {
 "surface": "vibhuḥ",
-"quick_gloss": "mighty"
+"quick_gloss": "lord"
 }
 ]
 },
