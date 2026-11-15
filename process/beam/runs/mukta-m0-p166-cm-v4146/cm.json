@@ -3,34 +3,44 @@
  "verse": 4146,
  "rows": [
   {
-   "lemma": "japakāle",
-   "morph": "m.loc.sg, compound=japa+kāla",
-   "grounds": "time when the rule applies"
-  },
-  {
-   "lemma": "sadā",
+   "lemma": "tatra",
    "morph": "(indecl.)",
-   "grounds": "emphasizes constant applicability"
+   "grounds": "locative adverb referring to that context"
   },
   {
-   "lemma": "vidvān",
-   "morph": "m.nom.sg",
-   "grounds": "qualified practitioner subject to the rule"
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "meruṃ",
-   "morph": "m.acc.sg",
-   "grounds": "special bead that must not be crossed"
+   "lemma": "ukta",
+   "morph": "compound:ukta+mantra",
+   "grounds": "first member of compound qualifying mantra"
   },
   {
-   "lemma": "naiva",
-   "morph": "(indecl.), compound=na+eva",
-   "grounds": "strong negation of crossing"
+   "lemma": "mantreṇa",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental specifying the mantra"
   },
   {
-   "lemma": "vilaṅghayet",
-   "morph": "3.sg.opt.act(vi-laṅgh)",
-   "grounds": "prohibited action"
+   "lemma": "tat",
+   "morph": "compound:tat+pūrva",
+   "grounds": "demonstrative first member of compound"
+  },
+  {
+   "lemma": "pūrva",
+   "morph": "compound:tat+pūrva+bīja",
+   "grounds": "member of compound qualifying the seed"
+  },
+  {
+   "lemma": "bījasya",
+   "morph": "n.gen.sg",
+   "grounds": "genitive specifying the seed syllable"
+  },
+  {
+   "lemma": "grahaṇam",
+   "morph": "n.nom.sg",
+   "grounds": "act of taking or employing the seed"
   }
  ]
 }

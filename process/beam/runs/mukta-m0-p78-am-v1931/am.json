@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1931,
- "question": "What daily worship is completed as before?",
+ "question": "What alternative statuses of an invited person are considered in this rule?",
  "premises": [
-  "Daily worship is performed.",
-  "It follows prior order.",
-  "It is completed."
+  "The person is invited",
+  "He may be observing a vow",
+  "He may alternatively be celibate"
  ],
- "inference": "The daily worship is completed in the established order.",
+ "inference": "The rule considers an invited person who is vow-observing or celibate.",
  "uncertainties": [
-  "No specific deity named."
+  "Continuation of the sentence likely in adjacent verses"
  ],
- "plain_english": "Having completed daily worship as before."
+ "plain_english": "Or again, if the invited person is observing a vow or is celibate..."
 }

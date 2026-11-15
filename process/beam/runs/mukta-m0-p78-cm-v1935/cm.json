@@ -3,24 +3,34 @@
  "verse": 1935,
  "rows": [
   {
-   "lemma": "svalaṅkṛtāḥ",
-   "morph": "adj.nom.pl.f",
-   "grounds": "su+alaṅkṛta"
+   "lemma": "kriyā",
+   "morph": "f.nom.sg",
+   "grounds": "subject of obligation"
   },
   {
-   "lemma": "kanyā",
-   "morph": "noun.nom.pl.f",
-   "grounds": "nominative plural"
+   "lemma": "kāryā",
+   "morph": "f.nom.sg.gerundive √kṛ",
+   "grounds": "gerundive expressing obligation"
   },
   {
-   "lemma": "gāyantyo",
-   "morph": "verb.3.pl.act-pres.participle+root-gai",
-   "grounds": "present participle"
+   "lemma": "daśāhena",
+   "morph": "compound daśa+aha; n.ins.sg",
+   "grounds": "instrumental of time limit"
   },
   {
-   "lemma": "madhurasvarāḥ",
-   "morph": "adj.nom.pl.f",
-   "grounds": "madhura+svara"
+   "lemma": "anyatra",
+   "morph": "(indecl.)",
+   "grounds": "adverbial exception marker"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "contrastive particle"
+  },
+  {
+   "lemma": "nivārakam",
+   "morph": "n.nom.sg",
+   "grounds": "predicate indicating restriction"
   }
  ]
 }

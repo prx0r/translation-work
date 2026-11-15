@@ -3,29 +3,34 @@
  "verse": 4140,
  "rows": [
   {
-   "lemma": "sthāpayitvā",
-   "morph": "abs(sthā)",
-   "grounds": "act of positioning the garland"
+   "lemma": "śarānunā",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental referring to the arrow-associated form"
   },
   {
-   "lemma": "tatra",
+   "lemma": "astra",
+   "morph": "compound:astra+mantra",
+   "grounds": "first member of compound naming the mantra"
+  },
+  {
+   "lemma": "mantreṇa",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental specifying the mantra used"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "location indicated by the previous verse"
+   "grounds": "quotation marker concluding the explanation"
   },
   {
-   "lemma": "mālāmaṃguṣṭhāgreṇa",
-   "morph": "f.acc.sg+m.ins.sg, compound=mālā+aṅguṣṭha+agra",
-   "grounds": "object placed and instrument used; internal sandhi joins mālām and aṅguṣṭhāgreṇa"
+   "lemma": "tad",
+   "morph": "compound:tad+arthaḥ",
+   "grounds": "demonstrative referring to the preceding teaching"
   },
   {
-   "lemma": "aṃguṣṭhāgreṇa",
-   "morph": "n.ins.sg, compound=aṅguṣṭha+agra",
-   "grounds": "explicit instrument for moving the garland"
-  },
-  {
-   "lemma": "tadgatam",
-   "morph": "n.acc.sg, compound=tad+gata",
-   "grounds": "refers to the bead or point reached there"
+   "lemma": "arthaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "states the purport of the teaching"
   }
  ]
 }

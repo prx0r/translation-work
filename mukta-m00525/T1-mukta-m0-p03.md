@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-of-fearlessness(abhayasya) of-hand(karasya) indeed(eva) wrist(maṇibandha) + palm-limit(talāvadhi)
+[of-protection](abhayasya) [of-hand](karasya) [indeed](eva) [wrist](maṇibandha) [palm+up-to](talāvadhi)
 
 ## mukta-m0-p03-v52
-situated-finger-tip(sthitāṅgulāgrakaṃ) in-left(vāme) + fearlessness-thumb-limit(abhayāṅguṣṭhāvadhi) O-beloved(priye)
+[situated+finger+tip](sthitāṅgulāgrakaṃ) [on-left](vāme) [protection+thumb+up-to](abhayāṅguṣṭhāvadhi) [O-beloved](priye)
 
 ## mukta-m0-p03-v53
-in-ninth(navama) + seventh-part(svartthake) on-thread(sūtre) situated(sthita) heel-limit(pārṣṇyāvadhi) situated(sthitam)
+[in-ninth](navama) [line](svartthake) [in-thread](sūtre) [situated](sthita) [heel+up-to](pārṣṇyāvadhi) [situated](sthitam)
 
 ## mukta-m0-p03-v54
-on-tenth-begun(daśamārabdha) thread(sūtre) but(tu) that-hand(taddhasta) + palm(tala) + middle(maddhyamam)
+[in-tenth+begun](daśamārabdha) [in-thread](sūtre) [but](tu) [that+hand+palm](taddhastastala) [middle](maddhyamam)
 
 ## mukta-m0-p03-v55
-of-eighth(aṣṭamasya) + half-part(ardha) + portion(bhāge) but(tu) buttock(sphik) + fleshy-parts(piṇḍau) + front(apuri) as(yathā)
+[of-eighth](aṣṭamasya) [half](ardha) [in-part](bhāge) [but](tu) [buttock](sphik) [fleshy-parts](piṇḍau) [on-both-sides](apuryathā)
 
 ## mukta-m0-p03-v56
-on-thirteenth-half(trayodaśārdha) thread(sūtre) but(tu) of-two-eyes(cakṣuṣoḥ) + middle(madhyamaṃ) O-beloved(priye)
+[in-thirteenth+half](trayodaśārdha) [in-thread](sūtre) [but](tu) [of-two-eyes](cakṣuṣoḥ) [middle](madhyamaṃ) [O-beloved](priye)
 
 ## mukta-m0-p03-v57
-thus(evaṃ) thread-originated(sūtrodbhavaṃ) having-made(kṛtvā) special-end(viśeṣāntaṃ) and(ca) from-thread(sūtrataḥ)
+[thus](evaṃ) [thread+arisen](sūtrodbhavaṃ) [having-made](kṛtvā) [special+end](viśeṣāntaṃ) [and](ca) [from-thread](sūtrataḥ)
 
 ## mukta-m0-p03-v58
-three-times-seven(trisaptakṛtvo) O-goddess-lord(deveśi) rays(raśmayaḥ) + indeed(ca) should-display(pradarśayet)
+[three+seven+times](trisaptakṛtvo) [O-lord-of-gods](deveśi) [rays](raśmayaḥ) [indeed](ca) [one-should-display](pradarśayet)
 
 ## mukta-m0-p03-v59
-colors(varṇān) or(vā) flowers(puṣpikāṃ) or(vāpi) same-colored-flowers(savarṇāpuṣpikā) + or(athavā)
+[colors](varṇān) [or](vā) [flowers](puṣpikāṃ) [or](vāpi) [same-color+flowers](savarṇāpuṣpikā) [or](athavā)
 
 ## mukta-m0-p03-v60
-this(etat) + wheel(cakraṃ) O-great-fair-one(mahāgauri) my-form(mamarūpa) + displaying(pradarśakam)
+[this](etat) [circle](cakraṃ) [O-great-Gaurī](mahāgauri) [my+form](mamarūpa) [revealing](pradarśakam)
 
 ## mukta-m0-p03-v61
-by-artisan(śilpinā) by-scriptural-method(śāstramārgeṇa) to-be-done(kāryaṃ) limb(pra) + filling(aṃgapūraṇam)
+[by-artisan](śilpinā) [scripture+path](śāstramārgeṇa) [to-be-done](kāryaṃ) [limb+filling](pra aṃgapūraṇam)
 
 ## mukta-m0-p03-v62
-all-gods-constituted(sarvadevātmakaṃ) lotus(padmaṃ) radiance-circle(prabhāvalaya) + rooted(mūligam)
+[all+god+consisting-of](sarvadevātmakaṃ) [lotus](padmaṃ) [radiance+circle+rooted](prabhāvalayammūligam)
 
 ## mukta-m0-p03-v63
-with-all-etc-five(sarvādi) + pentad(pañcaka) + endowed(upetaṃ) mantra(mantra) + scripture(śruti) + accompanied(samanvitam)
+[all+beginning](sarvādi) [five+endowed-with](pañcakopetaṃ) [mantra](mantra) [śruti+accompanied](śruti samanvitam)
 
 ## mukta-m0-p03-v64
-this(etat) lotus(padmaṃ) O-great-goddess(mahādevi) mantra-lotus(mantrābja) + conceived(parikalpitam)
+[this](etat) [lotus](padmaṃ) [O-great-goddess](mahādevi) [mantra+lotus+conceived](mantrābjaparikalpitam)
 
 ## mukta-m0-p03-v65
-twenty-two(dvāviṃśatiḥ) + and(ca) lines(rekhāḥ) and(ca) in-middle(madhye) praṇava(praṇava) + left(vāmayoḥ)
+[twenty-two](dvāviṃśatiḥ) [and](ca) [lines](rekhāḥ) [and](ca) [in-middle](madhye) [praṇava](praṇava) [of-left-and-right](vāmayoḥ)
 
 ## mukta-m0-p03-v66
-six-syllabled(ṣaḍakṣaraṃ) but(tu) having-placed(vinyasya) prāsa(prāsantu) six-syllabled(ṣaḍakṣaram)
+[six+syllable](ṣaḍakṣaraṃ) [but](tu) [having-placed](vinyasya) [then](prāsantu) [six+syllable](ṣaḍakṣaram)
 
 ## mukta-m0-p03-v67
-nama(nama) śivāya(śivāya) thus(iti) + indeed(evaṃ) ending-with-praṇava(praṇavāntāṃ) again(punaḥ) O-beloved(priye)
+[namaḥ](nama) [śivāya](śivāya) [thus](ityevaṃ) [praṇava+ending](praṇavāntāṃ) [again](punaḥ) [O-beloved](priye)
 
 ## mukta-m0-p03-v68
-five-syllabled(paripañcākṣaraṃ) having-placed(nyasya) in-middle(madhye) praṇava(praṇava) + garland(mālayoḥ)
+[all-around+five+syllable](paripañcākṣaraṃ) [having-placed](nyasya) [in-middle](madhye) [praṇava+of-garland](praṇavamālayoḥ)
 
 ## mukta-m0-p03-v69
-beginning-with-a(akārādi) ending-with-kṣa(kṣakārāntaṃ) beginning-with-praṇava(praṇavādi) ending-with-namaḥ(namontakam)
+[a+beginning](akārādi) [kṣa+ending](kṣakārāntaṃ) [praṇava+beginning](praṇavādi) [namaḥ+ending](namontakam)
 
 ## mukta-m0-p03-v70
-one-should-place(vinyaset) of-secret-mantra(guptamantrasya) life-mantra(prāṇamantraṃ) nine-syllabled(navākṣaram)
+[one-should-place](vinyaset) [of-secret+mantra](guptamantrasya) [life+mantra](prāṇamantraṃ) [nine+syllable](navākṣaram)
 
 ## mukta-m0-p03-v71
-on-thumb(aṃguṣṭhe) but(tu) letter-ya(yakāraḥ) should-be(syāt) letter-va(vākāraṃ) on-index-finger(tarjanī) one-should-place(nyaset)
+[on-thumb](aṃguṣṭhe) [but](tu) [ya+syllable](yakāraḥ) [should-be](syāt) [va+syllable](vākāraṃ) [on-forefinger](tarjanī) [one-should-place](nyaset)
 
 ## mukta-m0-p03-v72
-on-little-finger(kaniṣṭhe) but(tu) na(na) letter-ra(rautaṃ) should-be(syāt) by-creation-method(sṛṣṭimārgeṇa) and(ca) + O-goddess(īśvarī)
+[on-little-finger](kaniṣṭhe) [but](tu) [na](na) [ra+syllable](rautaṃ) [should-be](syāt) [by-creation+path](sṛṣṭimārgeṇa) [O-goddess](ceśvarī)
 
 ## mukta-m0-p03-v73
-on-ankles-and-hands(gulphapāṇyoḥ) + and(ca) on-shanks(jaṃghe) and(ca) on-knees-and-thighs(jānvorū) on-private(guhya) + region(deśake)
+[on-ankles+and-hands](gulphapāṇyoḥ) [and](ca) [on-shanks](jaṃghe) [and](ca) [on-knees+and-thighs](jānvorū) [secret](guhya) [in-region](deśake)
 
 ## mukta-m0-p03-v74
-on-arms(bāhū) on-elbow-region(kūrparadeśe) but(tu) on-wrist(maṇibandhe) O-great-goddess(maheśvari)
+[on-arms](bāhū) [in-elbow+region](kūrparadeśe) [but](tu) [on-wrist](maṇibandhe) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p03-v75
-letter-ma(makāraṃ) and(ca) letter-ya(yakārañca) letter-śi(śikāraṃ) subtle-pentad(sūkṣmapañcakam)
+[ma+syllable](makāraṃ) [and](ca) [ya+syllable](yakārañca) [śi+syllable](śikāraṃ) [subtle+five](sūkṣmapañcakam)

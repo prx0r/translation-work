@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1940,
- "question": "Where is the remainder placed?",
+ "question": "On which day may a wife follow a husband who died on the third day?",
  "premises": [
-  "A remainder exists.",
-  "Devotees are present.",
-  "Their heads receive it."
+  "The husband died on the third day",
+  "The fourth day is specified",
+  "Following is permitted on that day"
  ],
- "inference": "The remainder is placed on devotees' heads.",
+ "inference": "If the husband died on the third day, she may follow him on the fourth day.",
  "uncertainties": [
-  "Nature of remainder is not specified."
+  "Token anu functions with vrajet as following"
  ],
- "plain_english": "That remainder on the devotees' heads."
+ "plain_english": "If the husband died on the third day, she may follow him on the fourth day."
 }

@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1926,
+   "rows": [
+    {
+     "surface": "bhakṣaṇe",
+     "gloss": "in-eating",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "soma+dhānyasya",
+     "gloss": "of-soma-grain",
+     "grounds": "compound soma+dhānya, genitive object of eating",
+     "morph": "compound soma+dhānya; n.gen.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "object of observance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cāndrāyaṇañcaret",
+     "gloss": "should-perform-cāndrāyaṇa",
+     "grounds": "fused sandhi cāndrāyaṇam+caret; prescriptive act",
+     "morph": "3.sg.act-opt √car"
+    }
+   ],
+   "question": "What expiatory vow is required for eating soma grain?",
+   "premises": [
+    "Eating soma grain is the circumstance",
+    "A vow is prescribed as remedy",
+    "The cāndrāyaṇa observance must be performed"
+   ],
+   "inference": "One who eats soma grain must perform the cāndrāyaṇa vow.",
+   "uncertainties": [
+    "Exact identity of soma-dhānya is context-dependent"
+   ],
+   "plain_english": "If someone eats soma grain, they should perform the cāndrāyaṇa vow."
+  },
+  {
+   "verse": 1927,
+   "rows": [
+    {
+     "surface": "rāja+dhānyaṃ",
+     "gloss": "royal-grain",
+     "grounds": "compound object of eating",
+     "morph": "compound rāja+dhānya; n.acc.sg"
+    },
+    {
+     "surface": "śiśna+dhānyaṃ",
+     "gloss": "śiśna-grain",
+     "grounds": "compound object of eating",
+     "morph": "compound śiśna+dhānya; n.acc.sg"
+    },
+    {
+     "surface": "bhakṣaṇād",
+     "gloss": "from-eating",
+     "grounds": "ablative cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "viṣṇu+loka+bhāk",
+     "gloss": "attaining-viṣṇu-world",
+     "grounds": "compound result of act",
+     "morph": "compound viṣṇu+loka+bhāj; m.nom.sg"
+    }
+   ],
+   "question": "What spiritual attainment follows from eating royal grain or śiśna grain?",
+   "premises": [
+    "Royal grain and śiśna grain are eaten",
+    "Eating is stated as the cause",
+    "Attainment of Viṣṇu's world is the result"
+   ],
+   "inference": "Eating royal grain or śiśna grain leads to attaining Viṣṇu's world.",
+   "uncertainties": [
+    "Identification of śiśna-dhānya is uncertain"
+   ],
+   "plain_english": "By eating royal grain or śiśna grain, one attains the world of Viṣṇu."
+  },
+  {
+   "verse": 1928,
+   "rows": [
+    {
+     "surface": "nārāyaṇaṃ",
+     "gloss": "nārāyaṇa",
+     "grounds": "divine name or object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mādhavasya",
+     "gloss": "of-mādhava",
+     "grounds": "genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhogañ+ca",
+     "gloss": "enjoyment-and",
+     "grounds": "fused sandhi bhogam+ca; coordinated object",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What enjoyment connected to Nārāyaṇa and Mādhava is addressed to the beautiful one?",
+   "premises": [
+    "Nārāyaṇa is named",
+    "Mādhava is related by possession",
+    "Enjoyment is included and addressed to the beloved"
+   ],
+   "inference": "The verse invokes Nārāyaṇa and Mādhava's enjoyment for the beautiful one.",
+   "uncertainties": [
+    "Syntactic role of nārāyaṇaṃ is ambiguous without wider context"
+   ],
+   "plain_english": "O beautiful one, this concerns Nārāyaṇa and the enjoyment of Mādhava, which is mine."
+  },
+  {
+   "verse": 1929,
+   "rows": [
+    {
+     "surface": "nimantritaṃ",
+     "gloss": "invited",
+     "grounds": "past participle describing brāhmaṇa",
+     "morph": "m.acc.sg.past-part"
+    },
+    {
+     "surface": "brāhmaṇañ+ca",
+     "gloss": "brāhmaṇa-and",
+     "grounds": "fused sandhi brāhmaṇam+ca; object",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrāddhe",
+     "gloss": "in-śrāddha",
+     "grounds": "locative of occasion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive prohibition",
+     "morph": "3.sg.act-opt √vṛj+vi"
+    }
+   ],
+   "question": "What prohibition applies to avoiding an invited brāhmaṇa at a śrāddha rite?",
+   "premises": [
+    "A brāhmaṇa has been invited",
+    "The occasion is a śrāddha",
+    "Avoiding him is conditionally prohibited"
+   ],
+   "inference": "One should not avoid a brāhmaṇa invited to a śrāddha.",
+   "uncertainties": [
+    "Subject of vivarjayet is implicit"
+   ],
+   "plain_english": "If a brāhmaṇa has been invited to a śrāddha, one should not turn him away."
+  },
+  {
+   "verse": 1930,
+   "rows": [
+    {
+     "surface": "nimantrito",
+     "gloss": "invited",
+     "grounds": "past participle describing brāhmaṇa",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "main verb in condition",
+     "morph": "3.sg.mid-pres √bhuj"
+    },
+    {
+     "surface": "vipraḥ",
+     "gloss": "brāhmaṇa",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathañcana",
+     "gloss": "somehow",
+     "grounds": "indefinite adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What situation arises when an invited brāhmaṇa somehow eats in the house?",
+   "premises": [
+    "A brāhmaṇa has been invited",
+    "He eats in the house",
+    "The act happens somehow or under some condition"
+   ],
+   "inference": "The verse states the case of an invited brāhmaṇa eating in the house by some means.",
+   "uncertainties": [
+    "Apodosis likely continues in following verse"
+   ],
+   "plain_english": "If an invited brāhmaṇa somehow eats in the house..."
+  },
+  {
+   "verse": 1931,
+   "rows": [
+    {
+     "surface": "nimantrito",
+     "gloss": "invited",
+     "grounds": "past participle describing subject",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "vrata+sthaś+ca",
+     "gloss": "vow-observing-and",
+     "grounds": "fused sandhi vrata-sthaḥ+ca; compound attribute",
+     "morph": "compound vrata+stha; m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "brahma+cārya",
+     "gloss": "celibate",
+     "grounds": "compound attribute, nominative form in context",
+     "morph": "compound brahma+cārin; m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverbial particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative statuses of an invited person are considered in this rule?",
+   "premises": [
+    "The person is invited",
+    "He may be observing a vow",
+    "He may alternatively be celibate"
+   ],
+   "inference": "The rule considers an invited person who is vow-observing or celibate.",
+   "uncertainties": [
+    "Continuation of the sentence likely in adjacent verses"
+   ],
+   "plain_english": "Or again, if the invited person is observing a vow or is celibate..."
+  },
+  {
+   "verse": 1932,
+   "rows": [
+    {
+     "surface": "sadyo+ghṛtaṃ",
+     "gloss": "fresh-ghee",
+     "grounds": "compound item in list",
+     "morph": "compound sadyas+ghṛta; n.nom.sg"
+    },
+    {
+     "surface": "sadā+dhānyaṃ",
+     "gloss": "always-grain",
+     "grounds": "compound item in list",
+     "morph": "compound sadā+dhānya; n.nom.sg"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "item in list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tailaṃ",
+     "gloss": "oil",
+     "grounds": "item in list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "emphatic adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which food substances are enumerated together in this ritual context?",
+   "premises": [
+    "Fresh ghee is listed",
+    "Grain, meat, and oil are listed",
+    "The items are presented together"
+   ],
+   "inference": "Fresh ghee, grain, meat, and oil are enumerated as relevant substances.",
+   "uncertainties": [
+    "Prescriptive force depends on surrounding verses"
+   ],
+   "plain_english": "Fresh ghee, grain, meat, and likewise oil are mentioned."
+  },
+  {
+   "verse": 1933,
+   "rows": [
+    {
+     "surface": "gayā+śrāddhe",
+     "gloss": "at-gayā-śrāddha",
+     "grounds": "compound locative of occasion",
+     "morph": "compound gayā+śrāddha; n.loc.sg"
+    },
+    {
+     "surface": "preta+pakṣe",
+     "gloss": "in-ancestor-fortnight",
+     "grounds": "compound locative of occasion",
+     "morph": "compound preta+pakṣa; m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "coordinating adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anu+maraṇe",
+     "gloss": "at-following-death",
+     "grounds": "compound locative of occasion",
+     "morph": "compound anu+maraṇa; n.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which ritual occasions are specified for the addressed beloved in this context?",
+   "premises": [
+    "A śrāddha at Gayā is named",
+    "The fortnight of ancestors is named",
+    "Following in death is also named"
+   ],
+   "inference": "The verse specifies Gayā śrāddha, the ancestor fortnight, and following in death as occasions.",
+   "uncertainties": [
+    "The main action for these occasions is not stated in this verse"
+   ],
+   "plain_english": "O beloved, at a śrāddha in Gayā, in the fortnight of the ancestors, and likewise at the time of following in death..."
+  },
+  {
+   "verse": 1934,
+   "rows": [
+    {
+     "surface": "mukti+tīrthaṃ",
+     "gloss": "liberation-holy-place",
+     "grounds": "compound object of exception",
+     "morph": "compound mukti+tīrtha; n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition indicating exception",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprā",
+     "gloss": "o-brāhmaṇas",
+     "grounds": "vocative address",
+     "morph": "m.voc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anugacchet",
+     "gloss": "should-follow",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-opt √gam+anu"
+    },
+    {
+     "surface": "svakaṃ",
+     "gloss": "own",
+     "grounds": "possessive adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "patim",
+     "gloss": "husband",
+     "grounds": "object of following",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Under what condition may a wife not follow her own husband in death?",
+   "premises": [
+    "Following one's own husband is the action",
+    "A place of liberation is excluded as exception",
+    "The prohibition is addressed to brāhmaṇas"
+   ],
+   "inference": "Except at a place of liberation, a wife should not follow her own husband in death.",
+   "uncertainties": [
+    "Vocative viprā may address listeners rather than the subject"
+   ],
+   "plain_english": "O brāhmaṇas, except at a place of liberation, she should not follow her own husband in death."
+  },
+  {
+   "verse": 1935,
+   "rows": [
+    {
+     "surface": "kriyā",
+     "gloss": "rite",
+     "grounds": "subject of obligation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "daśāhena",
+     "gloss": "within-ten-days",
+     "grounds": "instrumental of time limit",
+     "morph": "compound daśa+aha; n.ins.sg"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "adverbial exception marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivārakam",
+     "gloss": "prohibition",
+     "grounds": "predicate indicating restriction",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What time limit and exception govern when the funeral rite must be performed?",
+   "premises": [
+    "The rite must be performed",
+    "The time limit is within ten days",
+    "Elsewhere there is a prohibition or restriction"
+   ],
+   "inference": "The rite should be done within ten days, but elsewhere there is a restriction.",
+   "uncertainties": [
+    "Exact scope of nivārakam is unclear without context"
+   ],
+   "plain_english": "The rite should be performed within ten days; elsewhere, however, there is a prohibition."
+  },
+  {
+   "verse": 1936,
+   "rows": [
+    {
+     "surface": "paryuṣite",
+     "gloss": "of-stale",
+     "grounds": "adjective describing corpse",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śave",
+     "gloss": "corpse-and",
+     "grounds": "locative noun, sandhi context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaya+kuṣṭhi+śave",
+     "gloss": "of-consumption-leprosy-corpse",
+     "grounds": "compound describing diseased corpse",
+     "morph": "compound kṣaya+kuṣṭhin+śava; n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which types of corpses are specified as special cases in this rule?",
+   "premises": [
+    "A stale corpse is mentioned",
+    "A corpse of one with consumption or leprosy is mentioned",
+    "Both cases are treated similarly"
+   ],
+   "inference": "The rule applies to a stale corpse and likewise to a corpse affected by consumption or leprosy.",
+   "uncertainties": [
+    "The prescribed action for these cases is given elsewhere"
+   ],
+   "plain_english": "In the case of a stale corpse, and likewise a corpse of someone who had consumption or leprosy..."
+  },
+  {
+   "verse": 1937,
+   "rows": [
+    {
+     "surface": "bahu+putrā",
+     "gloss": "having-many-sons",
+     "grounds": "compound adjective describing woman",
+     "morph": "compound bahu+putra; f.nom.sg"
+    },
+    {
+     "surface": "sa+garbhā",
+     "gloss": "pregnant",
+     "grounds": "compound adjective describing woman",
+     "morph": "compound sa+garbha; f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "coordinating adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rajasvalā",
+     "gloss": "menstruating",
+     "grounds": "adjective describing woman",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which categories of women are listed as exceptions in the following-death context?",
+   "premises": [
+    "A woman with many sons is listed",
+    "A pregnant woman is listed",
+    "A menstruating woman is listed"
+   ],
+   "inference": "Women with many sons, pregnant women, and menstruating women are specified as distinct cases.",
+   "uncertainties": [
+    "The exact restriction on these women is stated in adjacent verses"
+   ],
+   "plain_english": "A woman with many sons, a pregnant woman, and likewise a menstruating woman..."
+  },
+  {
+   "verse": 1938,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anugamana+arthañ+ca",
+     "gloss": "for-following-purpose-and",
+     "grounds": "fused sandhi artham+ca; compound purpose",
+     "morph": "compound anugamana+artha; n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "ekāhaṃ",
+     "gloss": "one-day",
+     "grounds": "duration of delay",
+     "morph": "compound eka+aha; n.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-caus-opt √sthā"
+    },
+    {
+     "surface": "śavam",
+     "gloss": "corpse",
+     "grounds": "object to be kept",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How long should the corpse be kept for the purpose of following in death?",
+   "premises": [
+    "The purpose is following in death",
+    "The corpse is the object",
+    "A duration of one day is prescribed"
+   ],
+   "inference": "For the purpose of following in death, the corpse should be kept for one day.",
+   "uncertainties": [],
+   "plain_english": "Then, for the purpose of following in death, one should keep the corpse for one day."
+  },
+  {
+   "verse": 1939,
+   "rows": [
+    {
+     "surface": "videśa+maraṇe",
+     "gloss": "in-foreign-death",
+     "grounds": "compound locative of circumstance",
+     "morph": "compound videśa+maraṇa; n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhartur",
+     "gloss": "of-husband",
+     "grounds": "genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yad+vastu",
+     "gloss": "whatever-thing",
+     "grounds": "fused sandhi yat+vastu; indefinite object",
+     "morph": "pron.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "verb of existence",
+     "morph": "3.sg.pass-pres √vid"
+    }
+   ],
+   "question": "What is considered when a husband dies in a foreign land?",
+   "premises": [
+    "The husband dies in a foreign land",
+    "Some belonging of the husband may exist",
+    "That existing thing becomes relevant"
+   ],
+   "inference": "If a husband dies abroad, whatever belonging of his exists is taken into account.",
+   "uncertainties": [
+    "The action to be taken with the object is stated later"
+   ],
+   "plain_english": "And if the husband dies in a foreign land, whatever belonging of his exists..."
+  },
+  {
+   "verse": 1940,
+   "rows": [
+    {
+     "surface": "tṛtīyāyāṃ",
+     "gloss": "on-third-day",
+     "grounds": "locative of time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mṛto",
+     "gloss": "died",
+     "grounds": "past participle describing husband",
+     "morph": "m.nom.sg.past-part √mṛ"
+    },
+    {
+     "surface": "bhartā",
+     "gloss": "husband",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturthyām",
+     "gloss": "on-fourth-day",
+     "grounds": "locative of time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anu",
+     "gloss": "should-follow",
+     "grounds": "verbal prefix or elliptical verb element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "prescriptive verb of following",
+     "morph": "3.sg.act-opt √vraj"
+    }
+   ],
+   "question": "On which day may a wife follow a husband who died on the third day?",
+   "premises": [
+    "The husband died on the third day",
+    "The fourth day is specified",
+    "Following is permitted on that day"
+   ],
+   "inference": "If the husband died on the third day, she may follow him on the fourth day.",
+   "uncertainties": [
+    "Token anu functions with vrajet as following"
+   ],
+   "plain_english": "If the husband died on the third day, she may follow him on the fourth day."
+  },
+  {
+   "verse": 1941,
+   "rows": [
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "locative adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maraṇe",
+     "gloss": "death",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "piṇḍam",
+     "gloss": "rice-ball",
+     "grounds": "object of offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "locative adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirvapet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive ritual verb",
+     "morph": "3.sg.act-opt √vap+nir"
+    }
+   ],
+   "question": "How should the rice-ball offering be made when death occurs in one place?",
+   "premises": [
+    "Death occurs in one place",
+    "A rice-ball offering is required",
+    "The offering should be made in one place"
+   ],
+   "inference": "When death occurs in one place, the rice-ball should be offered in one place.",
+   "uncertainties": [],
+   "plain_english": "O goddess, if the death occurs in one place, one should offer the rice-ball in one place."
+  },
+  {
+   "verse": 1942,
+   "rows": [
+    {
+     "surface": "dam+patyoś+caiva",
+     "gloss": "of-couple-and-indeed",
+     "grounds": "fused sandhi dampatyoḥ+ca+eva; compound genitive dual",
+     "morph": "compound dam+pati; m.gen.dual + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "piṇḍañ+ca",
+     "gloss": "rice-ball-and",
+     "grounds": "fused sandhi piṇḍam+ca; object",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "vartulaṃ",
+     "gloss": "round",
+     "grounds": "adjective describing rice-ball",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kārayen",
+     "gloss": "should-make",
+     "grounds": "prescriptive causative verb",
+     "morph": "3.sg.act-caus-opt √kṛ"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form of rice-ball should be made for the couple in this rite?",
+   "premises": [
+    "The offering concerns the couple",
+    "A rice-ball is to be made",
+    "It should be made round"
+   ],
+   "inference": "A man should have a round rice-ball made for the couple.",
+   "uncertainties": [],
+   "plain_english": "A man should have a round rice-ball made for the couple."
+  },
+  {
+   "verse": 1943,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍena",
+     "gloss": "with-rice-ball",
+     "grounds": "instrumental accompaniment",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "postposition with instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "prohibited item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śuṣka+āmraṃ",
+     "gloss": "dried-mango",
+     "grounds": "compound prohibited item",
+     "morph": "compound śuṣka+āmra; n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indefinite temporal adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which items must never be offered together with the rice-ball?",
+   "premises": [
+    "Milk is mentioned with the rice-ball",
+    "Dried mango is mentioned",
+    "Both are prohibited at any time"
+   ],
+   "inference": "Milk and dried mango must never be offered together with the rice-ball.",
+   "uncertainties": [],
+   "plain_english": "Milk should never be offered together with the rice-ball, nor dried mango at any time."
+  },
+  {
+   "verse": 1944,
+   "rows": [
+    {
+     "surface": "dāḍimaṃ",
+     "gloss": "pomegranate",
+     "grounds": "item in list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bīja+pūrañ+ca",
+     "gloss": "citron-and",
+     "grounds": "fused sandhi bījapūram+ca; compound item",
+     "morph": "compound bīja+pūra; n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "urvāruka+phalaṃ",
+     "gloss": "cucumber-fruit",
+     "grounds": "compound item in list",
+     "morph": "compound urvāruka+phala; n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "coordinating adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fruits are enumerated as relevant offerings in this sequence?",
+   "premises": [
+    "Pomegranate is listed",
+    "Citron is listed",
+    "Cucumber fruit is listed likewise"
+   ],
+   "inference": "Pomegranate, citron, and cucumber fruit are enumerated together.",
+   "uncertainties": [
+    "Whether these are prescribed or prohibited depends on context"
+   ],
+   "plain_english": "Pomegranate, citron, and likewise cucumber fruit are mentioned."
+  },
+  {
+   "verse": 1945,
+   "rows": [
+    {
+     "surface": "kaśeruñ+ca",
+     "gloss": "kaśeru-root-and",
+     "grounds": "fused sandhi kaśerum+ca; item in list",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "yugānañja",
+     "gloss": "yugānañja",
+     "grounds": "unidentified item in list",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kapilā+kṣīram",
+     "gloss": "tawny-cow-milk",
+     "grounds": "compound item in list",
+     "morph": "compound kapilā+kṣīra; n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional substances including tawny-cow milk are listed in this offering context?",
+   "premises": [
+    "Kaśeru root is listed",
+    "Yugānañja is listed",
+    "Milk of a tawny cow is listed"
+   ],
+   "inference": "Kaśeru root, yugānañja, and tawny-cow milk are included in the list.",
+   "uncertainties": [
+    "Meaning of yugānañja is uncertain"
+   ],
+   "plain_english": "Kaśeru root, yugānañja, and indeed the milk of a tawny cow are mentioned."
+  },
+  {
+   "verse": 1946,
+   "rows": [
+    {
+     "surface": "jambū+phalañ+ca",
+     "gloss": "jambū-fruit-and",
+     "grounds": "fused sandhi jambūphalam+ca; compound item",
+     "morph": "compound jambū+phala; n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "padma+ākṣaṃ",
+     "gloss": "lotus-seed",
+     "grounds": "compound item in list",
+     "morph": "compound padma+akṣa; n.acc.sg"
+    },
+    {
+     "surface": "jīvantīñ+ca",
+     "gloss": "jīvantī-herb-and",
+     "grounds": "fused sandhi jīvantīm+ca; item in list",
+     "morph": "f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive ritual verb",
+     "morph": "3.sg.act-caus-opt √vid+ni"
+    }
+   ],
+   "question": "Which items should be offered according to this ritual instruction?",
+   "premises": [
+    "Jambū fruit is listed",
+    "Lotus seed is listed",
+    "Jīvantī herb is listed and should be offered"
+   ],
+   "inference": "One should offer jambū fruit, lotus seed, and jīvantī herb.",
+   "uncertainties": [],
+   "plain_english": "One should offer jambū fruit, lotus seed, and the jīvantī herb."
+  },
+  {
+   "verse": 1947,
+   "rows": [
+    {
+     "surface": "kula+dharmam",
+     "gloss": "family-custom",
+     "grounds": "compound object considered",
+     "morph": "compound kula+dharma; m.acc.sg"
+    },
+    {
+     "surface": "anujñāya",
+     "gloss": "having-considered",
+     "grounds": "absolutive indicating prior consideration",
+     "morph": "absolutive √jñā+anu"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg.gerundive √dā"
+    },
+    {
+     "surface": "mantra+pūrvakam",
+     "gloss": "preceded-by-mantra",
+     "grounds": "compound adverbial manner",
+     "morph": "compound mantra+pūrvaka; n.acc.sg"
+    }
+   ],
+   "question": "How must a gift be given after considering family custom?",
+   "premises": [
+    "Family custom must be considered",
+    "Giving is obligatory",
+    "The gift must be preceded by mantra"
+   ],
+   "inference": "After considering family custom, one should give with a preceding mantra.",
+   "uncertainties": [],
+   "plain_english": "Having considered family custom, one should give the offering preceded by a mantra."
+  },
+  {
+   "verse": 1948,
+   "rows": [
+    {
+     "surface": "mantra+varjañ+ca",
+     "gloss": "without-mantra-and",
+     "grounds": "fused sandhi mantravarjam+ca; compound manner",
+     "morph": "compound mantra+varja; n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "vidhi+vad",
+     "gloss": "according-to-rule",
+     "grounds": "compound adverbial manner",
+     "morph": "compound vidhi+vat; (indecl.)"
+    },
+    {
+     "surface": "vahni+pāka+vivarjitaḥ",
+     "gloss": "fire-cooking-devoid",
+     "grounds": "compound describing offering or act",
+     "morph": "compound vahni+pāka+vivarjita; m.nom.sg"
+    }
+   ],
+   "question": "What alternative manner of ritual performance excludes mantra and fire-cooking?",
+   "premises": [
+    "Performance may be without mantra",
+    "It must still follow rule",
+    "It is devoid of fire-cooking"
+   ],
+   "inference": "The act may be done without mantra, according to rule, and without fire-cooking.",
+   "uncertainties": [
+    "Subject described by vivarjitaḥ is implicit"
+   ],
+   "plain_english": "It may also be done without mantra, according to rule, and without cooking on fire."
+  },
+  {
+   "verse": 1949,
+   "rows": [
+    {
+     "surface": "śikhareṣu",
+     "gloss": "on-peaks",
+     "grounds": "locative of place",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "girīndrāṇāṃ",
+     "gloss": "of-great-mountains",
+     "grounds": "genitive possessor",
+     "morph": "compound giri+indra; m.gen.pl"
+    },
+    {
+     "surface": "puṇya+deśe",
+     "gloss": "in-holy-place",
+     "grounds": "compound locative of place",
+     "morph": "compound puṇya+deśa; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāṅkari",
+     "gloss": "o-daughter-of-śaṅkara",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which sacred locations are invoked in addressing the daughter of Śaṅkara?",
+   "premises": [
+    "Peaks of great mountains are named",
+    "A holy place is named",
+    "The daughter of Śaṅkara is addressed"
+   ],
+   "inference": "The verse invokes holy places on the peaks of great mountains while addressing Śāṅkarī.",
+   "uncertainties": [
+    "The action associated with these places is not stated in this verse"
+   ],
+   "plain_english": "O daughter of Śaṅkara, on the peaks of great mountains, in a holy place..."
+  }
+ ]
+}

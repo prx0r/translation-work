@@ -3,24 +3,29 @@
  "verse": 1931,
  "rows": [
   {
-   "lemma": "yathāpūrvaṃ",
+   "lemma": "nimantrito",
+   "morph": "m.nom.sg.past-part",
+   "grounds": "past participle describing subject"
+  },
+  {
+   "lemma": "vrata+sthaś+ca",
+   "morph": "compound vrata+stha; m.nom.sg + (indecl.)",
+   "grounds": "fused sandhi vrata-sthaḥ+ca; compound attribute"
+  },
+  {
+   "lemma": "brahma+cārya",
+   "morph": "compound brahma+cārin; m.nom.sg",
+   "grounds": "compound attribute, nominative form in context"
+  },
+  {
+   "lemma": "athavā",
    "morph": "(indecl.)",
-   "grounds": "yathā+pūrvaṃ"
+   "grounds": "alternative conjunction"
   },
   {
-   "lemma": "nityapūjāṃ",
-   "morph": "noun.acc.sg.f",
-   "grounds": "nitya+pūjā accusative"
-  },
-  {
-   "lemma": "samāpya",
-   "morph": "verb.3.sg.act-absolutive+root-āp",
-   "grounds": "absolutive of samāp"
-  },
-  {
-   "lemma": "tu",
+   "lemma": "punaḥ",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "adverbial particle"
   }
  ]
 }
