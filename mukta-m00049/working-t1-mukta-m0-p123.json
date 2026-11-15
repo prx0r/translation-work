@@ -24,11 +24,15 @@
 },
 {
 "surface": "śaktaḥ",
-"quick_gloss": "able"
+"quick_gloss": "capable"
 },
 {
-"surface": "sthāvara+ādhipaḥ",
-"quick_gloss": "immovable-property+lord"
+"surface": "sthāvara",
+"quick_gloss": "immovable-property"
+},
+{
+"surface": "adhipaḥ",
+"quick_gloss": "owner"
 }
 ]
 },
@@ -48,12 +52,16 @@
 "quick_gloss": "in-absence"
 },
 {
-"surface": "suhṛdo",
-"quick_gloss": "kinsmen"
+"surface": "suhṛdaḥ",
+"quick_gloss": "of-kinsmen"
 },
 {
-"surface": "vikretṛ+icchā",
-"quick_gloss": "seller+wish"
+"surface": "vikretṛ",
+"quick_gloss": "seller"
+},
+{
+"surface": "icchā",
+"quick_gloss": "wish"
 },
 {
 "surface": "garīyasī",
@@ -69,8 +77,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāpta+dhanasya",
-"quick_gloss": "obtained+wealth"
+"surface": "prāpta",
+"quick_gloss": "obtained"
+},
+{
+"surface": "dhanasya",
+"quick_gloss": "wealth"
 },
 {
 "surface": "api",
@@ -78,15 +90,15 @@
 },
 {
 "surface": "pataye",
-"quick_gloss": "to-lord"
+"quick_gloss": "to-the-owner"
 },
 {
 "surface": "prāptrā",
-"quick_gloss": "by-obtainer"
+"quick_gloss": "by-the-obtainer"
 },
 {
 "surface": "puṃsā",
-"quick_gloss": "by-man"
+"quick_gloss": "by-the-man"
 },
 {
 "surface": "dāpayen",
@@ -103,7 +115,7 @@
 "tokens": [
 {
 "surface": "kṛti",
-"quick_gloss": "done"
+"quick_gloss": "kṛti"
 },
 {
 "surface": "iti",
@@ -115,7 +127,7 @@
 },
 {
 "surface": "ṣaṣṭhī",
-"quick_gloss": "genitive"
+"quick_gloss": "genitive-case"
 }
 ]
 },
@@ -140,15 +152,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+mūlyaṃ",
-"quick_gloss": "that+price"
+"surface": "tat",
+"quick_gloss": "its"
+},
+{
+"surface": "mūlyaṃ",
+"quick_gloss": "price"
 },
 {
 "surface": "cet",
 "quick_gloss": "if"
 },
 {
-"surface": "samīpastho",
+"surface": "samīpasthaḥ",
 "quick_gloss": "nearby-standing"
 },
 {
@@ -181,8 +197,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sannidhisthaḥ",
-"quick_gloss": "being-present"
+"surface": "sannidhi",
+"quick_gloss": "present-nearby"
+},
+{
+"surface": "sthaḥ",
+"quick_gloss": "standing"
 },
 {
 "surface": "tadā",
@@ -198,7 +218,7 @@
 },
 {
 "surface": "śaktaḥ",
-"quick_gloss": "able"
+"quick_gloss": "capable"
 },
 {
 "surface": "ativikraye",
@@ -222,8 +242,12 @@
 "quick_gloss": "alone"
 },
 {
-"surface": "tat+mūlyaṃ",
-"quick_gloss": "that+price"
+"surface": "tat",
+"quick_gloss": "its"
+},
+{
+"surface": "mūlyaṃ",
+"quick_gloss": "price"
 },
 {
 "surface": "dattvā",
@@ -239,7 +263,7 @@
 },
 {
 "surface": "arhati",
-"quick_gloss": "deserves"
+"quick_gloss": "is-fit"
 }
 ]
 },
@@ -289,7 +313,7 @@
 "tokens": [
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "should-be"
 },
 {
 "surface": "kintu",
@@ -357,8 +381,12 @@
 "quick_gloss": "immovable-property"
 },
 {
-"surface": "sannidhisthitaḥ",
-"quick_gloss": "one-present"
+"surface": "sannidhi",
+"quick_gloss": "present-nearby"
+},
+{
+"surface": "sthitaḥ",
+"quick_gloss": "situated"
 }
 ]
 },
@@ -387,7 +415,7 @@
 },
 {
 "surface": "sampannāṃ",
-"quick_gloss": "fertile"
+"quick_gloss": "prosperous"
 },
 {
 "surface": "kartum",
@@ -395,7 +423,7 @@
 },
 {
 "surface": "arhati",
-"quick_gloss": "deserves"
+"quick_gloss": "is-fit"
 }
 ]
 },
@@ -411,16 +439,24 @@
 "quick_gloss": "having-given"
 },
 {
-"surface": "daśa+aṃśaṃ",
-"quick_gloss": "tenth+part"
+"surface": "daśa",
+"quick_gloss": "tenth-part"
+},
+{
+"surface": "aṃśaṃ",
+"quick_gloss": "share"
 },
 {
 "surface": "bhuñjīyāt",
 "quick_gloss": "should-enjoy"
 },
 {
-"surface": "bhūmi+svāmī",
-"quick_gloss": "land+owner"
+"surface": "bhūmi",
+"quick_gloss": "land"
+},
+{
+"surface": "svāmī",
+"quick_gloss": "owner"
 },
 {
 "surface": "yataḥ",
@@ -445,7 +481,7 @@
 },
 {
 "surface": "arhati",
-"quick_gloss": "deserves"
+"quick_gloss": "is-fit"
 },
 {
 "surface": "iti",
@@ -473,8 +509,12 @@
 "quick_gloss": "even"
 },
 {
-"surface": "sthāvara+dhanam",
-"quick_gloss": "immovable+wealth"
+"surface": "sthāvara",
+"quick_gloss": "immovable"
+},
+{
+"surface": "dhanaṃ",
+"quick_gloss": "wealth"
 },
 {
 "surface": "na",
@@ -510,8 +550,8 @@
 "quick_gloss": "from-forest"
 },
 {
-"surface": "ṇa",
-"quick_gloss": "indeed"
+"surface": "ṇaḥ",
+"quick_gloss": "ṇa-suffix"
 },
 {
 "surface": "iti",
@@ -531,8 +571,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "para+aniṣṭa+kare",
-"quick_gloss": "to-others+harm+causing"
+"surface": "para",
+"quick_gloss": "to-others"
+},
+{
+"surface": "aniṣṭa",
+"quick_gloss": "harm"
+},
+{
+"surface": "kare",
+"quick_gloss": "causing"
 },
 {
 "surface": "deśe",
@@ -552,7 +600,7 @@
 },
 {
 "surface": "arhati",
-"quick_gloss": "deserves"
+"quick_gloss": "is-fit"
 }
 ]
 },
@@ -564,8 +612,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāna+adhikāriṇaḥ",
-"quick_gloss": "water+authorities"
+"surface": "pāna",
+"quick_gloss": "water"
+},
+{
+"surface": "adhikāriṇaḥ",
+"quick_gloss": "authorities"
 },
 {
 "surface": "sarve",
@@ -576,8 +628,12 @@
 "quick_gloss": "in-watering"
 },
 {
-"surface": "antika+vāsinaḥ",
-"quick_gloss": "nearby+dwellers"
+"surface": "antika",
+"quick_gloss": "nearby"
+},
+{
+"surface": "vāsinaḥ",
+"quick_gloss": "dwellers"
 }
 ]
 },
@@ -609,8 +665,12 @@
 "quick_gloss": "even"
 },
 {
-"surface": "sannidhi+vartinaḥ",
-"quick_gloss": "in-vicinity+dwelling"
+"surface": "sannidhi",
+"quick_gloss": "in-vicinity"
+},
+{
+"surface": "vartinaḥ",
+"quick_gloss": "dwelling"
 }
 ]
 },
@@ -626,16 +686,24 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "anirṇīta+vittānām",
-"quick_gloss": "of-undetermined+wealth"
+"surface": "anirṇīta",
+"quick_gloss": "of-undetermined"
+},
+{
+"surface": "vittānām",
+"quick_gloss": "wealth"
 },
 {
 "surface": "asiddhau",
 "quick_gloss": "in-non-accomplishment"
 },
 {
-"surface": "nyāsa+vikrayau",
-"quick_gloss": "deposit+and-sale"
+"surface": "nyāsa",
+"quick_gloss": "deposit"
+},
+{
+"surface": "vikrayau",
+"quick_gloss": "and-sale"
 }
 ]
 },
@@ -660,8 +728,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dūra+vartinām",
-"quick_gloss": "of-far+dwelling"
+"surface": "dūra",
+"quick_gloss": "of-far"
+},
+{
+"surface": "vartinām",
+"quick_gloss": "dwelling-ones"
 },
 {
 "surface": "tu",
@@ -685,8 +757,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+mūlyaṃ",
-"quick_gloss": "that+price"
+"surface": "tat",
+"quick_gloss": "its"
+},
+{
+"surface": "mūlyaṃ",
+"quick_gloss": "price"
 },
 {
 "surface": "dāpayet",
@@ -698,10 +774,10 @@
 },
 {
 "surface": "svāmine",
-"quick_gloss": "to-owner"
+"quick_gloss": "to-the-owner"
 },
 {
-"surface": "sarvarthā",
+"surface": "sarvathā",
 "quick_gloss": "in-every-way"
 },
 {
@@ -759,8 +835,12 @@
 "quick_gloss": "without"
 },
 {
-"surface": "kāla+lābhayoḥ",
-"quick_gloss": "of-time+and-gain"
+"surface": "kāla",
+"quick_gloss": "of-time"
+},
+{
+"surface": "lābhayoḥ",
+"quick_gloss": "and-gain"
 },
 {
 "surface": "anyathā",
@@ -768,7 +848,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-be"
+"quick_gloss": "should-be"
 }
 ]
 }

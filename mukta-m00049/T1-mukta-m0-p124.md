@@ -35,13 +35,13 @@
 [not+one-daughter](na+eka+kanyaḥ) [daughter](sutāṃ) [in-Śaiva+marriage](śaiva+udvāhe) [father+benefiting](pitṛ+hitaḥ) [man](pumān)
 
 ## mukta-m0-p124-v3087
-[what](yat) [one-may-perform](vidadhyāt) [representative](pratinidhiḥ) [that+commander's](tat+niyantuḥ) [act](kṛtiḥ) [would-be](bhavet)
+[whatever](yat) [he-may-perform](vidadhyāt) [representative](pratinidhiḥ) [that+appointer's](tat+niyantuḥ) [act](kṛtiḥ) [would-be](bhavet)
 
 ## mukta-m0-p124-v3088
-[by-commissioner+committed+fault](niyoktṛ+kṛta+doṣeṇa) [rule](vidhiḥ) [this](eṣaḥ) [eternal](sanātanaḥ)
+[by-appointer+committed+fault](niyoktṛ+kṛta+doṣeṇa) [rule](vidhiḥ) [this](eṣaḥ) [eternal](sanātanaḥ)
 
 ## mukta-m0-p124-v3089
-[whatever](yat+yat) [accepted](aṅgīkṛtaṃ) [by-people](lokaiḥ) [that](tat) [to-be-done](kāryaṃ) [dharma+approved](dharma+sammatam)
+[whatever](yat+yat) [accepted](aṅgīkṛtam) [by-people](lokaiḥ) [that](tat) [to-be-done](kāryam) [dharma+approved](dharma+sammatam)
 
 ## mukta-m0-p124-v3090
 [because](yataḥ) [to-fathers](pitṛbhyaḥ) [beneficial](hitaḥ) [therefore](ataḥ) [not](na) [one-should-give](dadyāt) [thus](iti) [meaning](arthaḥ)
@@ -50,19 +50,19 @@
 [rule](vidhiḥ) [injunction](vidhānam)
 
 ## mukta-m0-p124-v3092
-[their+protectors](tat+pātṝn) [protects](pāti) [lord-of-universe](viśva+īśaḥ) [therefore](tasmāt) [world+beneficial](loka+hitaḥ) [one-should-be](bhavet)
+[their+protectors](tat+pātṝn) [protects](pāti) [lord-of-universe](viśva+īśaḥ) [therefore](tasmāt) [world+beneficial](loka+hitaḥ) [he-should-be](bhavet)
 
 ## mukta-m0-p124-v3093
-[accepted](svīkṛtaṃ) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-done](akaraṇīyam) [thus](iti) [suggested](dhvanitam)
+[accepted](svīkṛtam) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-done](akaraṇīyam) [thus](iti) [indicated](dhvanitam)
 
 ## mukta-m0-p124-v3094
 [three-world+people+mother](tribhuvana+jana+mātā) [Pārvatī](pārvatī) [gave](prādat) [with-devotion](bhaktyā)
 
 ## mukta-m0-p124-v3095
-[of-subtle+most-subtle+being](sūkṣma+atisūkṣma+bhūtāyāḥ) [how](kathaṃ) [form+ascertainment](rūpa+nirūpaṇam)
+[of-subtle+most-subtle+being](sūkṣma+atisūkṣma+bhūtāyāḥ) [how](katham) [form+ascertainment](rūpa+nirūpaṇam)
 
 ## mukta-m0-p124-v3096
-[this](etat) [to-me](me) [doubt](saṃśayaṃ) [O-god](deva) [especially](viśeṣāt) [to-remove](chettum) [you-should](arhasi)
+[this](etat) [to-me](me) [doubt](saṃśayam) [O-god](deva) [especially](viśeṣāt) [to-remove](chettum) [you-should](arhasi)
 
 ## mukta-m0-p124-v3097
 [firm+mind](dṛḍha+mānasā)
@@ -71,7 +71,7 @@
 [she](sā) [Mahākālī](mahākālī) [this](etat) [this](etam)
 
 ## mukta-m0-p124-v3099
-[quality+action+according-to](guṇa+kriyā+anusāreṇa) [form](rūpaṃ) [of-goddess](devyāḥ) [fashioned](prakalpitam)
+[according-to-quality+action](guṇa+kriyā+anusāreṇa) [form](rūpam) [of-goddess](devyāḥ) [fashioned](prakalpitam)
 
 ## mukta-m0-p124-v3100
-[enter](praviśanti) [likewise](tathā) [into-Kālī](kālyāṃ) [all+beings](sarva+bhūtāni) [O-daughter-of-mountain](śailaje)
+[enter](praviśanti) [likewise](tathā) [into-Kālī](kālyām) [all+beings](sarva+bhūtāni) [O-daughter-of-mountain](śailaje)
