@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[beginning-with-jyeṣṭhā](jyeṣṭhādyā) [projections](nirgamā) [to-be-known](jñeyā) [rim](nemī) [deprived-of+its+quarter](tatpādavarjitā)
+[jyeṣṭha+beginning](jyeṣṭhādyā) [projections](nirgamā) [to-be-known](jñeyā) [rim](nemī) [that+quarter+deprived](tatpādavarjitā)
 
 ## mukta-m0-p105-v2602
-[from-the-middle-of+quarter-of+yuga](yugāṅghrermadhyato) [sanctum](garbhaḥ) [should-be](syāt) [by-one-part-of+that](tadekena) [pedestal](piṇḍikā)
+[age+quarter](yugāṅghrer) [from-middle](madhyato) [womb](garbhaḥ) [should-be](syāt) [by-that+one](tadekena) [pedestal](piṇḍikā)
 
 ## mukta-m0-p105-v2603
-[by-twenty-eight-parts](aṣṭāviṃśatibhir) [wall](bhittiḥ) [that](sā) [should-be](syāt) [pillar+maiden-figure](stambhakumārikā)
+[by-twenty-eight](aṣṭāviṃśatibhir) [wall](bhittiḥ) [that](sā) [should-be](syāt) [pillar+maiden](stambhakumārikā)
 
 ## mukta-m0-p105-v2604
-[four-pillared](catuḥ) [and-pillars](stāmbhāś) [and](ca) [in-the-middle-of+that](tanmadhye) [twelve](dvādaśa) [should-be](syuḥ) [maiden-figures](kumārikāḥ)
+[four](catuḥ) [pillared](stāmbhāś) [and](ca) [in-that+middle](tanmadhye) [twelve](dvādaśa) [should-be](syuḥ) [maidens](kumārikāḥ)
 
 ## mukta-m0-p105-v2605
-[on-the-sides](pārśvayo) [in-front](ragrato) [or](vāpi) [one-should-make](kuryād) [joined-with+vestibule](āsārasaṃyute)
+[on-two-sides](pārśvayo) [in-front](ragratā) [or](vāpi) [one-should-make](kuryād) [with-corridor+joined](āsārasaṃyute)
 
 ## mukta-m0-p105-v2606
-[endowed-with+corner+pillars](sakoṇastambhasaṃyukto) [pavilion](maṇḍapaś) [and](ca) [of-three-kinds](tridhā) [considered](mataḥ)
+[with-corner+pillar+joined](sakoṇastambhasaṃyukto) [hall](maṇḍapaś) [and](ca) [threefold](tridhā) [considered](mataḥ)
 
 ## mukta-m0-p105-v2607
-[by-twelve+parts](dvādalāṃśais) [then](tu) [them](tān) [all](sarvān) [in-the-temple](prāsāde) [in-the-best-and-higher](cottamodike)
+[by-twelve+parts](dvādalāṃśais) [indeed](tu) [them](tān) [all](sarvān) [in-temple](prāsāde) [and](ca) [in-best+etc](uttamodike)
 
 ## mukta-m0-p105-v2608
-[and](tathā) [elsewhere](anyataḥ)
+[likewise](tathā) [elsewhere](anyataḥ)
 
 ## mukta-m0-p105-v2609
-[from-the-part-of+platform](jagatīmaṃśato) [having-taken](dhṛtvā) [the-enclosing+part](veṣṭanāṃśaṃ) [then](tu) [one-should-remove](lopayet)
+[platform](jagatīm) [by-part](aṃśato) [having-taken](dhṛtvā) [enclosure+part](veṣṭanāṃśaṃ) [indeed](tu) [one-should-remove](lopayet)
 
 ## mukta-m0-p105-v2610
-[in-the-intermediate-directions](vidikṣu) [corner+structures](koṇadhāmāni) [with-eight+parts](vasvaṃśair) [together-with+pavilions](maṇḍapaiḥ) [with](saha)
+[in-intermediate-directions](vidikṣu) [corner+chambers](koṇadhāmāni) [by-eight+parts](vasvaṃśair) [with-halls](maṇḍapaiḥ) [together](saha)
 
 ## mukta-m0-p105-v2611
-[in-the-division-of+equal+lines](samasūtrāṅkake) [in-the-cutting](chede) [from-equal+division](samabhāgād) [one-should-turn-aside](vivartayet)
+[in-equal+line+marked](samasūtrāṅkake) [in-division](chede) [from-equal+part](samabhāgād) [one-should-turn](vivartayet)
 
 ## mukta-m0-p105-v2612
-[beautiful](cāru) [temple+pillars](surālayastambha) [balconies](balabhī) [and-spires](śikharāṇi) [and](ca)
+[beautiful](cāru) [temple+pillar+balcony+spire](surālayastambhabalabhīśikharāṇi) [and](ca)
 
 ## mukta-m0-p105-v2613
 [site+measure](vāstumānam) [thus](iti) [known](khyātaṃ) [liṅga+measure](liṅgamānam) [now](atha) [is-stated](ucyate)
 
 ## mukta-m0-p105-v2614
-[spire](mañjarī) [then](tu) [by-two+parts](dvibhāgābhyāṃ) [by-half-of+spire](mañjaryardhena) [vestibule-projection](nāsikā)
+[spire](mañjarī) [indeed](tu) [by-two+parts](dvibhāgābhyāṃ) [by-spire+half](mañjaryardhena) [nose](nāsikā)
 
 ## mukta-m0-p105-v2615
-[by-five+parts](pañcāṃśais) [its+breadth](tatpṛthutvaṃ) [and](ca) [likewise](tathā) [by-three+parts+above](ūrdhvastryaṃśakair) [neck](galaḥ)
+[by-five+parts](pañcāṃśais) [its+breadth](tatpṛthutvaṃ) [and](ca) [likewise](tathā) [by-upper+three+parts](ūrdhvastryaṃśakair) [neck](galaḥ)
 
 ## mukta-m0-p105-v2616
-[successively](kramād) [height-of+neck+and-so-on](grīvādikocchrayaḥ)
+[gradually](kramād) [neck+etc+height](grīvādikocchrayaḥ)
 
 ## mukta-m0-p105-v2617
-[from-half-of+structure](dhāmārdhāt) [circumambulation](bhramaṇa) [to-be-made](kāryā) [by-half-of+that](tadardhena) [and](ca) [walls](bhittayaḥ)
+[from-shrine+half](dhāmārdhāt) [circumambulation](bhramaṇa) [to-be-made](kāryā) [by-that+half](tadardhena) [and](ca) [walls](bhittayaḥ)
 
 ## mukta-m0-p105-v2618
-[by-measure-of+half-of+pavilion](maṇḍapārdhapramāṇena) [in-front](purato) [front+pavilion](mukhamaṇḍapaḥ)
+[by-hall+half+measure](maṇḍapārdhapramāṇena) [in-front](purato) [front+hall](mukhamaṇḍapaḥ)
 
 ## mukta-m0-p105-v2619
-[in-front-of+quadrangle](catuṣkikāgrato) [always](nityaṃ) [platform](jagatī) [by-measure-of+structure](dhāmamānataḥ)
+[in-front-of-catuṣkikā](catuṣkikāgrato) [always](nityaṃ) [platform](jagatī) [by-shrine+measure](dhāmamānataḥ)
 
 ## mukta-m0-p105-v2620
-[equal-to+that](tatsamā) [balconies](balabhī) [situated-in-directions](diksthāḥ) [endowed-with+own-measure+pavilions](svamānamaṇḍapānvitāḥ)
+[equal-to-that](tatsamā) [balcony](balabhī) [direction+situated](diksthāḥ) [with-own+measure+hall+endowed](svamānamaṇḍapānvitāḥ)
 
 ## mukta-m0-p105-v2621
-[by-a-quarter-part-of+temple](prāsādaturyabhāgena) [by-three-parts](tryaṃśair) [or](vā) [its+height](tatsamucchrayam)
+[by-temple+fourth+part](prāsādaturyabhāgena) [by-three+parts](tryaṃśair) [or](vā) [its+height](tatsamucchrayam)
 
 ## mukta-m0-p105-v2622
-[its+height](taducchrayaṃ) [divisor](haraṃ) [having-made](kṛtvā) [in-the-part-with+half](sādhāṃśe) [base-moulding](khura) [fillet](paṭṭikā)
+[that+height](taducchrayaṃ) [part](haraṃ) [having-made](kṛtvā) [in-with+half+part](sādhāṃśe) [base-moulding](khura) [band](paṭṭikā)
 
 ## mukta-m0-p105-v2623
-[threefold](tri) [times](guṇaṃ) [should-be](bhavet)
+[eightfold](’śaṃguṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p105-v2624
-[by-the-third](tṛtīyena) [upper-fillet](upapaṭṭī) [then](tu) [by-that-part](tathāṃśā) [and](c) [square](caturasrikā)
+[by-third](tṛtīyeno) [upper-band](papaṭṭī) [indeed](tu) [by-that+part](tapāṃśā) [and](c) [square](caturasrikā)
 
 ## mukta-m0-p105-v2625
-[its+two-parts](taddhyaṃśam) [eightfold](aṣṭadhā) [having-made](kṛtvā) [by-those](taiś) [and](ca) [lotus-moulding](padmaṃ) [one-should-form](vivartayet)
+[that+two+part](taddhyaṃśam) [eightfold](aṣṭadhā) [having-made](kṛtvā) [by-those](taiś) [and](ca) [lotus](padmaṃ) [one-should-turn](vivartayet)

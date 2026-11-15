@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[from-renunciation](prāvrājyāt) [perishes](naśyate) [formerly](pūrvaṃ) [from-woman+union](strīyogāt) [later](aparaṃ) [likewise](tathā)
+[by-renunciation](prāvrājyāt)+[is-destroyed](naśyate) [formerly](pūrvaṃ) [by-woman](strī)+[union](yogāt)+[later](aparaṃ) [likewise](tathā)
 
 ## mukta-m0-p10-v227
-[born-of-trikarṇa](trikarṇotthāḥ) [and-trikarṇas](trikarṇāḥ) [and](ca) [trikapa+descended](trikapānātma) [karṇakas](karṇakā)
+[trikarṇa](trikarṇa)+[born](utthās)+[trikarṇas](trikarṇās)+[and](ca) [trikapa](trikapa)+[descended](ātma) [karṇakas](karṇakā)
 
 ## mukta-m0-p10-v228
-[bhasmāṅkura](bhasmāṅkurastu) [indeed](tu) [kattha+ostha](katthosthas) [their+sons](tatsutāḥ) [kauśika+and-others](kauśikādayaḥ)
+[bhasmāṅkura](bhasmāṅkuras)+[indeed](tu) [katthostha](katthosthas)+[their](tat)+[sons](sutāḥ) [kauśika](kauśika)+[and-others](ādayaḥ)
 
 ## mukta-m0-p10-v229
-[kingdom+destruction+causing](rāṣṭrakṣayakarā) [indeed](hi) [these](ete) [who](ye) [and](ca) [heretics](paṣāṇḍino) [men](narāḥ)
+[kingdom](rāṣṭra)+[destruction](kṣaya)+[causing](karās) [indeed](hi)+[these](ete) [who](ye) [and](ca) [heretics](paṣāṇḍinas) [men](narāḥ)
 
 ## mukta-m0-p10-v230
-[scripture+beholding](śāstrāvalokanāt) [merely](eva) [caṇḍeśa](caṇḍeśas) [his](tasya) [punisher](śāsakaḥ)
+[scripture](śāstra)+[viewing](avalokanāt)+[merely](eva) [caṇḍeśa](caṇḍeśas)+[his](tasya) [punisher](śāsakaḥ)
 
 ## mukta-m0-p10-v231
-[he](sa) [goes](yāti) [to-hell](narakaṃ) [immediately](sadyo) [with-sacrificers](yājñikaiḥ) [together](saha) [the-initiator](daiśikaḥ)
+[he](sa) [goes](yāti) [to-hell](narakaṃ) [immediately](sadyas) [with-sacrificers](yājñikaiḥ) [together](saha) [preceptor](daiśikaḥ)
 
 ## mukta-m0-p10-v232
-[of-them](teṣām) [by-conduct](ācaraṇāt) [constantly](nityam) [teacher](ācārya) [thus](iti) [is-celebrated](kīrtyate)
+[of-them](teṣām)+[by-conduct](ācaraṇāt)+[always](nityam)+[teacher](ācāryas) [thus](iti) [is-celebrated](kīrtyate)
 
 ## mukta-m0-p10-v233
-[therefore](tasmāt) [not](na) [human](mānavīṃ) [intellect](buddhiṃ) [one-should-make](kārayed) [toward-the-initiator](daiśikaṃ) [regarding](prati)
+[therefore](tasmāt)+[not](na) [human](mānavīṃ) [intellect](buddhiṃ) [should-make](kārayet)+[toward-preceptor](daiśikaṃ) [regarding](prati)
 
 ## mukta-m0-p10-v234
-[five](pañca) [faces](vaktrāṇi) [of-the-god](devasya) [for-five+āgama+expansion](pañcāgamavivṛddhaye)
+[five](pañca)+[faces](vaktrāṇi) [of-the-god](devasya) [for-five](pañca)+[āgama](āgama)+[propagation](vivṛddhaye)
 
 ## mukta-m0-p10-v235
-[dīpta](dīptaṃ) [subtle](sūkṣmaṃ) [and](ca) [sāhasra](sāhasram) [aṃśumat](aṃśuma) [suprabha](tsuprabhaṃ) [ten](daśa)
+[dīpta](dīptaṃ) [sūkṣma](sūkṣmaṃ) [and](ca) [sāhasra](sāhasram)+[aṃśumat](aṃśumat) [suprabha](suprabhaṃ) [daśa](daśa)
 
 ## mukta-m0-p10-v236
-[vijaya](vijayaṃ) [pāramaiśvarya](pāramaiśvaryaṃ) [niśvāsa+udgīta+named](niśvāsodgītasaṃjñakam)
+[vijaya](vijayaṃ) [pāramaiśvarya](pāramaiśvaryaṃ) [niśvāsa](niśvāsa)+[udgīta](udgīta)+[named](saṃjñakam)
 
 ## mukta-m0-p10-v237
-[narasiṃha](narasiṃhaṃ) [candrahāsa](candrahāsaṃ) [vīra](vīraṃ) [svāyambhuva+raurava](svāyambhurauravam)
+[narasiṃha](narasiṃhaṃ) [candrahāsa](candrahāsaṃ) [vīra](vīraṃ) [svāyambhuva](svāyambhuva)+[raurava](rauravam)
 
 ## mukta-m0-p10-v238
-[rudra+divisions](rudrabhedāḥ) [declared](samākhyātā) [ten+eighteen](daśāṣṭādaśa) [and](ca) [upper-going](ūrdhvagāḥ)
+[rudra](rudra)+[divisions](bhedāḥ) [declared](samākhyātās) [ten](daśa)+[eighteen](aṣṭādaśas) [and](ca)+[upper](ūrdhvagāḥ)
 
 ## mukta-m0-p10-v239
-[five+element+division](pañcabhūta) [and](ca) [void+division+determination](śūnyabheda) [determination](vinirṇayam)
+[five](pañca)+[element](bhūta) [division](vibhāgaṃ) [and](ca) [void](śūnya)+[distinction](bheda) [determination](vinirṇayam)
 
 ## mukta-m0-p10-v240
 [kamboja](kambojaṃ) [kambala](kambalaṃ) [kaṅka](kaṅkaṃ) [kālakuṇḍa](kālakuṇḍaṃ) [kaṭāhaka](kaṭāhakam)
 
 ## mukta-m0-p10-v241
-[of-gāruḍa](gāruḍasya) [indeed](tu) [these](ime) [divisions](bhedā) [twenty-eight](aṣṭāviṃśatir) [declared](īritāḥ)
+[of-gāruḍa](gāruḍasya) [indeed](tu)+[these](ime) [divisions](bhedās) [twenty-eight](aṣṭāviṃśatir)+[declared](īritāḥ)
 
 ## mukta-m0-p10-v242
-[asitāṅga](asitāṅgaṃ) [ruru](ruruṃ) [and](ca) [indeed](eva) [kapālīśa](kapālīśaṃ) [samuccaya](samuccayam)
+[asitāṅga](asitāṅgaṃ) [ruru](ruruṃ) [and](ca)+[indeed](eva) [kapālīśa](kapālīśaṃ) [samuccaya](samuccayam)
 
 ## mukta-m0-p10-v243
-[bhīmāṅga](bhīmāṅgaṃ) [ḍāmarārāva](ḍāmarārāvaṃ) [bhīma](bhīmaṃ) [vetāla+mardaka](vetālamardakam)
+[bhīmāṅga](bhīmāṅgaṃ) [ḍāmarārāva](ḍāmarārāvaṃ) [bhīma](bhīmaṃ) [vetāla](vetāla)+[mardaka](mardakam)
 
 ## mukta-m0-p10-v244
-[triśira](triśiraṃ) [and](ca) [ekapāda](ekapādaṃ) [indeed](tu) [siddhayogeśvarī+doctrine](siddhayogeśvarīmatam)
+[triśira](triśiraṃ) [and](ca)+[ekapāda](ekapādaṃ) [indeed](tu) [siddhayogeśvarī](siddhayogeśvarī)+[doctrine](matam)
 
 ## mukta-m0-p10-v245
-[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkoca](saṅkocaṃ) [tilaka+udyāna+bhairava](tilakodyānabhairavam)
+[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkoca](saṅkocaṃ) [tilakodyāna](tilakodyāna)+[bhairava](bhairavam)
 
 ## mukta-m0-p10-v246
-[sixty-four](catuḥ) [measures](ṣaṣṭipramāṇāni) [from-the-southern-face](dakṣiṇāsyāt) [arisen](bhavāni) [and](ca)
+[sixty-four](catuḥ)+[ṣaṣṭi](ṣaṣṭi)+[measures](pramāṇāni) [from-dakṣiṇa](dakṣiṇāsyāt)+[arisen](bhavāni) [and](ca)
 
 ## mukta-m0-p10-v247
-[hand+worship+procedure](karapūjāvidhānaṃ) [indeed](tu) [vīṇā+tantra](vīṇātantraṃ) [that+higher](taduttaram)
+[hand](kara)+[worship](pūjā)+[procedure](vidhānaṃ) [indeed](tu) [vīṇā](vīṇā)+[tantra](tantraṃ) [that](tat)+[higher](uttaram)
 
 ## mukta-m0-p10-v248
-[siddhanitya+udaya](siddhanityodayaṃ) [jyeṣṭha](jyeṣṭhaṃ) [cintāmaṇi+mahā+udaya](cintāmaṇimahodayam)
+[siddhanityodaya](siddhanityodayaṃ) [jyeṣṭha](jyeṣṭhaṃ) [cintāmaṇi](cintāmaṇi)+[mahodaya](mahodayam)
 
 ## mukta-m0-p10-v249
-[ānanda+rudra+bhadra+named](ānandarudrabhadrākhyaṃ) [kiṅkara](kiṅkaraṃ) [kiṅkara+follower](kiṅkarānugam)
+[ānandarudra](ānandarudra)+[bhadra](bhadra)+[named](ākhyam) [kiṅkara](kiṅkaraṃ) [kiṅkara](kiṅkara)+[follower](ānugam)
 
 ## mukta-m0-p10-v250
-[vāmada](vāmadaṃ) [spoken-by-vāmadeva](vāmadevoktaṃ) [twenty-four+division+going](caturviṃśatibhedagam)
+[vāmada](vāmadaṃ) [vāmadeva](vāmadeva)+[spoken](uktaṃ) [twenty-four](caturviṃśati)+[division](bheda)+[going](gam)
