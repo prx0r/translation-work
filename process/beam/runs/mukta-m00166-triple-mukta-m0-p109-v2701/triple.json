@@ -1,0 +1,867 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2701,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to the practitioners described",
+     "morph": "pron.m.nom.pl"
+    },
+    {
+     "surface": "kīrti+bhājaḥ",
+     "gloss": "fame-sharers",
+     "grounds": "possessors of renown",
+     "morph": "compound: kīrti+bhāj (m.nom.pl)"
+    },
+    {
+     "surface": "nṛpa+pūjitāḥ",
+     "gloss": "king-honored",
+     "grounds": "honored by rulers",
+     "morph": "compound: nṛpa+pūjita (m.nom.pl)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "potential result for them",
+     "morph": "3.pl.act.opt √as"
+    }
+   ],
+   "question": "What worldly honor accrues to those devoted practitioners?",
+   "premises": [
+    "They become possessors of fame.",
+    "They receive honor from kings."
+   ],
+   "inference": "Devoted practitioners attain renown and royal respect.",
+   "uncertainties": [],
+   "plain_english": "They may become famous and honored by kings."
+  },
+  {
+   "verse": 2702,
+   "rows": [
+    {
+     "surface": "pota+ādikebhyaḥ+api",
+     "gloss": "boat-and-others-from-even",
+     "grounds": "from boats and similar dangers",
+     "morph": "compound: pota+ādi (m.abl.pl) + (indecl.)"
+    },
+    {
+     "surface": "bhavet+na",
+     "gloss": "may-be-not",
+     "grounds": "negated possibility of arising",
+     "morph": "3.sg.act.opt √bhū + (indecl.)"
+    },
+    {
+     "surface": "bhītiḥ",
+     "gloss": "fear",
+     "grounds": "fear or danger",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What protection from external dangers do such practitioners gain?",
+   "premises": [
+    "Boats and similar sources pose danger.",
+    "Fear from these does not arise for them."
+   ],
+   "inference": "Practitioners are freed from fear of external perils.",
+   "uncertainties": [],
+   "plain_english": "They would have no fear even from boats and such dangers."
+  },
+  {
+   "verse": 2703,
+   "rows": [
+    {
+     "surface": "tat+preṣyatāṃ",
+     "gloss": "his-servitude",
+     "grounds": "state of being his servant",
+     "morph": "compound: tad+preṣyatā (f.acc.sg)"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "they-go",
+     "grounds": "they come to attain",
+     "morph": "3.pl.act.pres √yā"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "rhetorical question marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "expects affirmative answer",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "through devotion",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "Why would others willingly enter service to such a practitioner?",
+   "premises": [
+    "Others approach him with devotion.",
+    "Devotion leads them to accept servitude."
+   ],
+   "inference": "His power naturally draws others into devoted service.",
+   "uncertainties": [],
+   "plain_english": "How could they not, out of devotion, come to serve him?"
+  },
+  {
+   "verse": 2704,
+   "rows": [
+    {
+     "surface": "vara+aṅganāḥ",
+     "gloss": "excellent-women",
+     "grounds": "noble or beautiful women",
+     "morph": "compound: vara+aṅganā (f.nom.pl)"
+    },
+    {
+     "surface": "na+anya+kalāḥ",
+     "gloss": "not-other-arts",
+     "grounds": "devoted to no other pursuits",
+     "morph": "compound: na+anya+kalā (f.nom.pl)"
+    },
+    {
+     "surface": "bhajante",
+     "gloss": "they-practice",
+     "grounds": "they attend or devote themselves",
+     "morph": "3.pl.mid.pres √bhaj"
+    }
+   ],
+   "question": "What exclusive devotion do excellent women show toward him?",
+   "premises": [
+    "Excellent women attend upon him.",
+    "They do not pursue other arts or attachments."
+   ],
+   "inference": "He commands the exclusive devotion of excellent women.",
+   "uncertainties": [],
+   "plain_english": "Excellent women, devoted to no other arts, attend upon him."
+  },
+  {
+   "verse": 2705,
+   "rows": [
+    {
+     "surface": "yoddhā",
+     "gloss": "warrior",
+     "grounds": "an opposing fighter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "other",
+     "grounds": "hostile or rival",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sammukham+āgataḥ+api",
+     "gloss": "face-to-face-come-even",
+     "grounds": "even when confronting directly",
+     "morph": "compound: sammukha+āgata (m.nom.sg) + (indecl.)"
+    }
+   ],
+   "question": "How does a hostile warrior fare when confronting him directly?",
+   "premises": [
+    "A hostile warrior may come face to face.",
+    "Such confrontation is presented as ineffective."
+   ],
+   "inference": "Even direct opposition by a warrior is overcome.",
+   "uncertainties": [
+    "The consequence is completed in the following verse."
+   ],
+   "plain_english": "Even when another warrior comes face to face with him..."
+  },
+  {
+   "verse": 2706,
+   "rows": [
+    {
+     "surface": "hata+ojasaḥ",
+     "gloss": "struck-vigor",
+     "grounds": "deprived of strength",
+     "morph": "compound: hata+ojas (m.nom.pl)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "how",
+     "grounds": "rhetorical question marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "expects affirmative answer",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pare",
+     "gloss": "others",
+     "grounds": "opponents or rivals",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhaveyuḥ",
+     "gloss": "may-become",
+     "grounds": "potential result for opponents",
+     "morph": "3.pl.act.opt √bhū"
+    }
+   ],
+   "question": "What loss of strength befalls opponents facing the practitioner?",
+   "premises": [
+    "Opponents confront the practitioner.",
+    "Their vigor becomes struck down."
+   ],
+   "inference": "Opponents are rendered powerless before him.",
+   "uncertainties": [],
+   "plain_english": "How could his opponents not become stripped of their strength?"
+  },
+  {
+   "verse": 2707,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "how",
+     "grounds": "rhetorical question marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na+arayaḥ",
+     "gloss": "not-enemies",
+     "grounds": "those who were enemies",
+     "morph": "(indecl.) + m.nom.pl"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "the practitioner",
+     "morph": "pron.m.acc.sg"
+    },
+    {
+     "surface": "śaraṇaṃ",
+     "gloss": "refuge",
+     "grounds": "shelter or protection",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajeyuḥ",
+     "gloss": "may-approach",
+     "grounds": "may go to for refuge",
+     "morph": "3.pl.act.opt √vraj"
+    }
+   ],
+   "question": "Why might former enemies seek refuge with this practitioner?",
+   "premises": [
+    "Enemies recognize his power.",
+    "Seeking refuge becomes their response."
+   ],
+   "inference": "Even enemies are compelled to take refuge in him.",
+   "uncertainties": [],
+   "plain_english": "How could his enemies not come to him for refuge?"
+  },
+  {
+   "verse": 2708,
+   "rows": [
+    {
+     "surface": "bādhāṃ",
+     "gloss": "obstruction",
+     "grounds": "harm or hindrance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidhātuṃ",
+     "gloss": "to-cause",
+     "grounds": "to inflict or create",
+     "morph": "infinitive √dhā+vi"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "first negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "emphatic repeated negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dasyavaḥ+api",
+     "gloss": "thieves-even",
+     "grounds": "even robbers or bandits",
+     "morph": "m.nom.pl + (indecl.)"
+    }
+   ],
+   "question": "Can thieves or bandits inflict harm upon the practitioner?",
+   "premises": [
+    "Thieves are potential sources of harm.",
+    "They are unable to cause obstruction."
+   ],
+   "inference": "The practitioner is protected even from thieves.",
+   "uncertainties": [],
+   "plain_english": "Even thieves would not be able to cause him any harm."
+  },
+  {
+   "verse": 2709,
+   "rows": [
+    {
+     "surface": "bhūtāḥ",
+     "gloss": "spirits",
+     "grounds": "hostile beings or entities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place or presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "intrude or gain access",
+     "morph": "3.pl.act.pres √viś"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do hostile spirits ever intrude upon the practitioner's domain?",
+   "premises": [
+    "Spirits might be expected to intrude.",
+    "They never enter there."
+   ],
+   "inference": "The practitioner's domain is inaccessible to hostile spirits.",
+   "uncertainties": [],
+   "plain_english": "Nor do spirits ever enter there."
+  },
+  {
+   "verse": 2710,
+   "rows": [
+    {
+     "surface": "vighnaṃ",
+     "gloss": "obstacle",
+     "grounds": "hindrance to practice or success",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidadhyuḥ+na",
+     "gloss": "may-create-not",
+     "grounds": "would not produce",
+     "morph": "3.pl.act.opt √dhā+vi + (indecl.)"
+    },
+    {
+     "surface": "kathaṃcana+api",
+     "gloss": "in-any-way-even",
+     "grounds": "under any circumstances",
+     "morph": "(indecl.) + (indecl.)"
+    }
+   ],
+   "question": "Can any obstacle be created against the practitioner under any circumstances?",
+   "premises": [
+    "Obstacles might arise in various ways.",
+    "None can be created against him."
+   ],
+   "inference": "The practitioner remains free from all obstacles.",
+   "uncertainties": [],
+   "plain_english": "They could not create any obstacle for him in any way at all."
+  },
+  {
+   "verse": 2711,
+   "rows": [
+    {
+     "surface": "pākalya+pohāya",
+     "gloss": "immaturity-removal-for",
+     "grounds": "for removing immaturity or imperfection",
+     "morph": "compound: pākalya+poha (m.dat.sg)"
+    },
+    {
+     "surface": "nava+īśam+enam",
+     "gloss": "new-lord-this",
+     "grounds": "this newly revealed lord or text",
+     "morph": "compound: nava+īśa (m.acc.sg) + pron.m.acc.sg"
+    }
+   ],
+   "question": "What purpose does this newly revealed lordly teaching serve?",
+   "premises": [
+    "Immaturity requires removal.",
+    "This new lordly teaching is directed to that removal."
+   ],
+   "inference": "The teaching is intended to remove spiritual immaturity.",
+   "uncertainties": [
+    "nava+īśam+enam may refer to a text or a form of the lord."
+   ],
+   "plain_english": "This new lordly teaching is for the removal of immaturity."
+  },
+  {
+   "verse": 2712,
+   "rows": [
+    {
+     "surface": "cirāt+anantaṃ",
+     "gloss": "after-long-time-infinite",
+     "grounds": "infinite after long duration",
+     "morph": "(indecl.) + m.acc.sg"
+    },
+    {
+     "surface": "param+āpyam",
+     "gloss": "supreme-attainable",
+     "grounds": "the supreme goal to be attained",
+     "morph": "compound: para+āpya (m.acc.sg)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "in-the-end",
+     "grounds": "ultimately",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What ultimate attainment does this teaching lead to over time?",
+   "premises": [
+    "The path unfolds over a long time.",
+    "It culminates in the infinite supreme goal."
+   ],
+   "inference": "The teaching ultimately leads to the infinite supreme attainment.",
+   "uncertainties": [],
+   "plain_english": "In the end, after a long time, it leads to the infinite, supreme attainment."
+  },
+  {
+   "verse": 2713,
+   "rows": [
+    {
+     "surface": "svargyam",
+     "gloss": "leading-to-heaven",
+     "grounds": "conducive to heavenly reward",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭhet+nitya+asamāhita+antaḥ",
+     "gloss": "should-recite-always-uncollected-mind",
+     "grounds": "one should recite it always even with an uncollected mind",
+     "morph": "3.sg.act.opt √paṭh + compound: nitya+asamāhita+antaḥ (m.nom.sg)"
+    }
+   ],
+   "question": "What benefit comes from reciting this teaching even without mental composure?",
+   "premises": [
+    "The teaching is conducive to heaven.",
+    "It should be recited always, even with an uncollected mind."
+   ],
+   "inference": "Constant recitation yields benefit despite lack of mental composure.",
+   "uncertainties": [],
+   "plain_english": "One should always recite this heaven-leading teaching, even with an uncollected mind."
+  },
+  {
+   "verse": 2714,
+   "rows": [
+    {
+     "surface": "mā+ākarṇayet",
+     "gloss": "should-listen",
+     "grounds": "one should listen to it",
+     "morph": "(indecl.) + 3.sg.act.opt √karṇ+ā"
+    },
+    {
+     "surface": "vā+akhila+karṇita+īhaḥ",
+     "gloss": "or-all-heard-desire",
+     "grounds": "or one who desires to hear all things",
+     "morph": "(indecl.) + compound: akhila+karṇita+īha (m.nom.sg)"
+    }
+   ],
+   "question": "Who is encouraged to listen attentively to this teaching?",
+   "premises": [
+    "Listening to the teaching is enjoined.",
+    "One who wishes to hear all should listen."
+   ],
+   "inference": "The teaching invites attentive hearing from those eager to learn.",
+   "uncertainties": [],
+   "plain_english": "One should listen to it, or anyone who wishes to hear everything should do so."
+  },
+  {
+   "verse": 2715,
+   "rows": [
+    {
+     "surface": "na+ānandayet",
+     "gloss": "not-should-delight",
+     "grounds": "rhetorical: whom would it not delight",
+     "morph": "(indecl.) + 3.sg.act.caus.opt √nand"
+    },
+    {
+     "surface": "kam+iha",
+     "gloss": "whom-here",
+     "grounds": "which person in this world",
+     "morph": "pron.m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "pūruṣatā+eka+hetuḥ",
+     "gloss": "manhood-sole-cause",
+     "grounds": "the sole cause of true personhood",
+     "morph": "compound: pūruṣatā+eka+hetu (m.nom.sg)"
+    }
+   ],
+   "question": "Why does this teaching delight all as the sole cause of true personhood?",
+   "premises": [
+    "The teaching is the sole cause of true personhood.",
+    "Such a cause naturally brings delight."
+   ],
+   "inference": "As the sole ground of true personhood, it delights everyone.",
+   "uncertainties": [],
+   "plain_english": "Whom here would it not delight, being the sole cause of true personhood?"
+  },
+  {
+   "verse": 2716,
+   "rows": [
+    {
+     "surface": "hantuṃ",
+     "gloss": "to-destroy",
+     "grounds": "for the purpose of destroying",
+     "morph": "infinitive √han"
+    },
+    {
+     "surface": "vā+aghaṃ",
+     "gloss": "or-sin",
+     "grounds": "sin or evil",
+     "morph": "(indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "tat+uditam+idam",
+     "gloss": "that-declared-this",
+     "grounds": "this teaching that has been declared",
+     "morph": "compound: tad+udita (n.nom.sg) + pron.n.nom.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "in all respects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+rūpam",
+     "gloss": "all-form",
+     "grounds": "having all forms",
+     "morph": "compound: sarva+rūpa (n.nom.sg)"
+    }
+   ],
+   "question": "How does this all-encompassing teaching function to destroy sin?",
+   "premises": [
+    "This declared teaching is all-encompassing in form.",
+    "It serves to destroy sin."
+   ],
+   "inference": "The all-formed teaching declared here destroys sin completely.",
+   "uncertainties": [],
+   "plain_english": "This declared teaching, all-encompassing in every way, serves to destroy sin."
+  },
+  {
+   "verse": 2717,
+   "rows": [
+    {
+     "surface": "rohaṃ",
+     "gloss": "ascend",
+     "grounds": "repeated imperative to rise",
+     "morph": "m.acc.sg (verbal noun/imperatival)"
+    },
+    {
+     "surface": "rohaṃ",
+     "gloss": "ascend",
+     "grounds": "emphatic repetition",
+     "morph": "m.acc.sg (verbal noun/imperatival)"
+    },
+    {
+     "surface": "su+sukha+saraṇiṃ",
+     "gloss": "very-happy-path",
+     "grounds": "the path of great bliss",
+     "morph": "compound: su+sukha+saraṇi (f.acc.sg)"
+    },
+    {
+     "surface": "ye+arcayanti+ādi+śaktim",
+     "gloss": "who-worship-primordial-power",
+     "grounds": "those who worship the primordial power",
+     "morph": "pron.m.nom.pl + 3.pl.act.pres √arc + compound: ādi+śakti (f.acc.sg)"
+    }
+   ],
+   "question": "What path of ascent opens for those who worship the primordial power?",
+   "premises": [
+    "Some worship the primordial power.",
+    "They are urged to ascend the path of great bliss."
+   ],
+   "inference": "Worship of the primordial power leads to ascent on the blissful path.",
+   "uncertainties": [],
+   "plain_english": "Ascend, ascend the path of great bliss, you who worship the primordial power."
+  },
+  {
+   "verse": 2718,
+   "rows": [
+    {
+     "surface": "śivamayi",
+     "gloss": "consisting-of-shiva",
+     "grounds": "whose nature is Śiva",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śiva+sakhi",
+     "gloss": "shiva-friend",
+     "grounds": "companion of Śiva",
+     "morph": "compound: śiva+sakhī (f.voc.sg)"
+    },
+    {
+     "surface": "bhava+ja+bhaya+hari",
+     "gloss": "birth-born-fear-remover",
+     "grounds": "remover of fear born from worldly existence",
+     "morph": "compound: bhava+ja+bhaya+hari (f.voc.sg)"
+    }
+   ],
+   "question": "What divine qualities define the goddess addressed in this invocation?",
+   "premises": [
+    "She is of the nature of Śiva and companion to Śiva.",
+    "She removes fear born of worldly existence."
+   ],
+   "inference": "The invoked goddess embodies Śiva-nature and removes existential fear.",
+   "uncertainties": [],
+   "plain_english": "O you who consist of Śiva, friend of Śiva, remover of the fear born of existence!"
+  },
+  {
+   "verse": 2719,
+   "rows": [
+    {
+     "surface": "bhaktānāṃ",
+     "gloss": "of-devotees",
+     "grounds": "for those devoted to her",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "the goddess",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "parama+vara+dā",
+     "gloss": "supreme-boon-giver",
+     "grounds": "bestower of the highest boon",
+     "morph": "compound: parama+vara+dā (f.nom.sg)"
+    },
+    {
+     "surface": "pūrṇa+māṅgalya+rūpā",
+     "gloss": "full-auspiciousness-form",
+     "grounds": "whose form is complete auspiciousness",
+     "morph": "compound: pūrṇa+māṅgalya+rūpa (f.nom.sg)"
+    }
+   ],
+   "question": "What boons and nature does the goddess offer to her devotees?",
+   "premises": [
+    "She is the giver of the supreme boon to devotees.",
+    "Her form is complete auspiciousness."
+   ],
+   "inference": "The goddess grants the highest boon and embodies full auspiciousness for devotees.",
+   "uncertainties": [],
+   "plain_english": "She is the giver of the supreme boon to devotees, whose form is complete auspiciousness."
+  },
+  {
+   "verse": 2720,
+   "rows": [
+    {
+     "surface": "kāvye",
+     "gloss": "in-poem",
+     "grounds": "in this poetic work",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nāma+vilāsa+nāmni",
+     "gloss": "name-sport-named",
+     "grounds": "named the sport of names",
+     "morph": "compound: nāma+vilāsa+nāman (n.loc.sg)"
+    },
+    {
+     "surface": "lalitā",
+     "gloss": "lalita",
+     "grounds": "the goddess Lalitā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrṇa+prathā",
+     "gloss": "full-fame",
+     "grounds": "of complete renown",
+     "morph": "compound: pūrṇa+prathā (f.nom.sg)"
+    },
+    {
+     "surface": "ṣoḍaśī",
+     "gloss": "sixteenfold",
+     "grounds": "the sixteenfold goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess Lalitā identified within this named poetic work?",
+   "premises": [
+    "The work is named the sport of names.",
+    "Lalitā appears as the sixteenfold goddess of full fame."
+   ],
+   "inference": "In this work, Lalitā is celebrated as the renowned sixteenfold goddess.",
+   "uncertainties": [],
+   "plain_english": "In this poem named the Sport of Names, Lalitā is the sixteenfold goddess of full renown."
+  },
+  {
+   "verse": 2721,
+   "rows": [
+    {
+     "surface": "kaulaḥ",
+     "gloss": "kaula",
+     "grounds": "the Kaula way or knower; see ledger",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśyāḥ",
+     "gloss": "of-great-goddess",
+     "grounds": "of the great goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "paripūrṇa+bhāvam",
+     "gloss": "complete-state",
+     "grounds": "the state of complete fullness",
+     "morph": "compound: paripūrṇa+bhāva (m.acc.sg)"
+    }
+   ],
+   "question": "What complete state of the great goddess is associated with the Kaula way?",
+   "premises": [
+    "The Kaula way is invoked.",
+    "It relates to the complete state of the great goddess."
+   ],
+   "inference": "The Kaula way embodies the complete fullness of the great goddess.",
+   "uncertainties": [
+    "Syntactic role may continue from or into adjacent verses."
+   ],
+   "plain_english": "The Kaula way is the complete state of the great goddess."
+  },
+  {
+   "verse": 2722,
+   "rows": [
+    {
+     "surface": "ṣoḍaśī",
+     "gloss": "sixteenfold",
+     "grounds": "the sixteenfold goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "devotional practice or state",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is devotion identified in relation to the sixteenfold goddess?",
+   "premises": [
+    "The sixteenfold goddess is named.",
+    "Devotion is equated or closely linked with her."
+   ],
+   "inference": "Devotion is identified with the sixteenfold goddess.",
+   "uncertainties": [
+    "The predication may depend on surrounding verses."
+   ],
+   "plain_english": "The sixteenfold goddess is devotion."
+  },
+  {
+   "verse": 2723,
+   "rows": [
+    {
+     "surface": "tat+nairmalya+vidhau",
+     "gloss": "its-purity-in-accomplishing",
+     "grounds": "in accomplishing its purification",
+     "morph": "compound: tad+nairmalya+vidhi (m.loc.sg)"
+    },
+    {
+     "surface": "cakoraka+taka+kṣodāḥ",
+     "gloss": "cakora-buttermilk-dust",
+     "grounds": "metaphorical image of fine particles",
+     "morph": "compound: cakoraka+taka+kṣoda (m.nom.pl)"
+    },
+    {
+     "surface": "sudhā+uddhārakāḥ",
+     "gloss": "nectar-extractors",
+     "grounds": "those that draw out nectar",
+     "morph": "compound: sudhā+uddhāraka (m.nom.pl)"
+    }
+   ],
+   "question": "What metaphor describes the agents that accomplish purification in this context?",
+   "premises": [
+    "Purification of that state is being accomplished.",
+    "Certain agents are likened to extractors of nectar."
+   ],
+   "inference": "The agents of purification are metaphorically described as nectar-extractors.",
+   "uncertainties": [
+    "The compound cakoraka+taka+kṣodāḥ is obscure and metaphorical."
+   ],
+   "plain_english": "In accomplishing its purification, they are like fine particles that extract nectar."
+  },
+  {
+   "verse": 2724,
+   "rows": [
+    {
+     "surface": "jānīmaḥ",
+     "gloss": "we-know",
+     "grounds": "statement of knowledge or its limit",
+     "morph": "1.pl.act.pres √jñā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na+sat+janasya",
+     "gloss": "not-good-person's",
+     "grounds": "of a truly good person",
+     "morph": "(indecl.) + compound: sat+jana (m.gen.sg)"
+    },
+    {
+     "surface": "paratā",
+     "gloss": "superiority",
+     "grounds": "higher excellence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kasmin+nu",
+     "gloss": "in-which-indeed",
+     "grounds": "in what state indeed",
+     "morph": "pron.m.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "bhāve",
+     "gloss": "state",
+     "grounds": "condition or state of being",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "same",
+     "gloss": "equal",
+     "grounds": "when all is equal or same",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In what equal state can the superiority of a truly good person be discerned?",
+   "premises": [
+    "The speaker claims not to know the answer.",
+    "The superiority of a good person is questioned in an equal state."
+   ],
+   "inference": "The superiority of a truly good person transcends ordinary equal conditions.",
+   "uncertainties": [],
+   "plain_english": "We do not know in what equal state the superiority of a truly good person could be found."
+  }
+ ]
+}
