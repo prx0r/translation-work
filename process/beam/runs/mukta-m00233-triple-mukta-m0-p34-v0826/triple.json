@@ -1,0 +1,1001 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 826,
+   "rows": [
+    {
+     "surface": "aṣṭādaśāṃśe",
+     "gloss": "in-eighteenth-part",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pīṭhocce",
+     "gloss": "pedestal-high",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres+root-bhū"
+    },
+    {
+     "surface": "sārdhāṃśataḥ",
+     "gloss": "half-part-from",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "khuram",
+     "gloss": "hoof",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How does the pedestal height relate to the hoof measure in this part?",
+   "premises": [
+    "aṣṭādaśāṃśe marks an eighteenth part",
+    "pīṭhocce marks pedestal height",
+    "khuram marks hoof"
+   ],
+   "inference": "The verse links pedestal height to hoof measure through the stated part.",
+   "uncertainties": [
+    "exact sandhi and case roles are not fully resolved"
+   ],
+   "plain_english": "In the eighteenth part, the high pedestal becomes related to the hoof measure."
+  },
+  {
+   "verse": 827,
+   "rows": [
+    {
+     "surface": "cārdhenopapaṭṭaṃ",
+     "gloss": "with-half-up-band",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kaṇṭhastryaṃśaḥ",
+     "gloss": "neck-three-part",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tadūrdhvataḥ",
+     "gloss": "that-above-from",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What neck and band proportions are specified above that point?",
+   "premises": [
+    "cārdhenopapaṭṭaṃ marks a half up-band",
+    "kaṇṭhastryaṃśaḥ marks a three-part neck",
+    "tadūrdhvataḥ marks above that"
+   ],
+   "inference": "The verse specifies neck and band proportions relative to the point above.",
+   "uncertainties": [
+    "compound internal analysis remains tentative"
+   ],
+   "plain_english": "The half up-band and three-part neck are specified above that point."
+  },
+  {
+   "verse": 828,
+   "rows": [
+    {
+     "surface": "vājanam",
+     "gloss": "horse-vehicle",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "uddiṣṭam",
+     "gloss": "declared",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ardham",
+     "gloss": "half",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paṭṭājyabhṛt",
+     "gloss": "band-ghee-bearing",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres+root-bhū"
+    }
+   ],
+   "question": "What declared horse-vehicle and band-ghee proportions become specified?",
+   "premises": [
+    "vājanam marks horse-vehicle",
+    "uddiṣṭam marks declared",
+    "paṭṭājyabhṛt marks band-ghee-bearing"
+   ],
+   "inference": "The verse declares a horse-vehicle and band-ghee proportion.",
+   "uncertainties": [
+    "exact grammatical relation is not fully resolved"
+   ],
+   "plain_english": "The declared horse-vehicle becomes half with band-ghee-bearing."
+  },
+  {
+   "verse": 829,
+   "rows": [
+    {
+     "surface": "pīṭhatuṅge",
+     "gloss": "pedestal-high",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ghṛtavāryardhataḥ",
+     "gloss": "ghee-water-half",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "legacy hint",
+     "morph": "3.pl.pass-pres+root-smṛ"
+    }
+   ],
+   "question": "What ghee-water half measures are remembered at the high pedestal?",
+   "premises": [
+    "pīṭhatuṅge marks high pedestal",
+    "ghṛtavāryardhataḥ marks ghee-water half",
+    "smṛtāḥ marks remembered"
+   ],
+   "inference": "The verse remembers ghee-water half measures at the high pedestal.",
+   "uncertainties": [
+    "plural subject is not explicit in the token list"
+   ],
+   "plain_english": "At the high pedestal, ghee-water half measures are remembered."
+  },
+  {
+   "verse": 830,
+   "rows": [
+    {
+     "surface": "pañcāṃśāḥ",
+     "gloss": "five-parts",
+     "grounds": "legacy hint",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "jagatī",
+     "gloss": "earth",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhāṃśena",
+     "gloss": "half-part-with",
+     "grounds": "legacy hint",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "khuram",
+     "gloss": "hoof",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres+root-bhū"
+    }
+   ],
+   "question": "How do five earth parts and hoof measure become related likewise?",
+   "premises": [
+    "pañcāṃśāḥ marks five parts",
+    "jagatī marks earth",
+    "khuram marks hoof"
+   ],
+   "inference": "The verse relates five earth parts and hoof measure in a like manner.",
+   "uncertainties": [
+    "exact instrumental relation is not fully resolved"
+   ],
+   "plain_english": "Five earth parts likewise become related to the hoof measure."
+  },
+  {
+   "verse": 831,
+   "rows": [
+    {
+     "surface": "atyaṣṭyaṃśe",
+     "gloss": "excess-eight-part",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pīṭhocce",
+     "gloss": "pedestal-high",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "khuram",
+     "gloss": "hoof",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "portion-by",
+     "grounds": "legacy hint",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "vaprakam",
+     "gloss": "rampart",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How does the hoof portion relate to the rampart at the high pedestal?",
+   "premises": [
+    "atyaṣṭyaṃśe marks excess eight part",
+    "pīṭhocce marks high pedestal",
+    "vaprakam marks rampart"
+   ],
+   "inference": "The verse relates hoof portion to rampart at the high pedestal.",
+   "uncertainties": [
+    "exact partitive relation is not fully resolved"
+   ],
+   "plain_english": "At the excess eight part and high pedestal, the hoof portion relates to the rampart."
+  },
+  {
+   "verse": 832,
+   "rows": [
+    {
+     "surface": "kampo'rdham",
+     "gloss": "tremor-half",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ardhenāmbhojam",
+     "gloss": "half-water-lotus",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vṛttam",
+     "gloss": "round",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dvāvardhato",
+     "gloss": "two-half-to",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "dalam",
+     "gloss": "petal",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How do tremor half and water-lotus half relate to petal measure?",
+   "premises": [
+    "kampo'rdham marks tremor half",
+    "ardhenāmbhojam marks half water-lotus",
+    "dalam marks petal"
+   ],
+   "inference": "The verse relates tremor half and water-lotus half to petal measure.",
+   "uncertainties": [
+    "sandhi in kampo'rdham is not expanded"
+   ],
+   "plain_english": "Tremor half and half water-lotus round relate to petal measure."
+  },
+  {
+   "verse": 833,
+   "rows": [
+    {
+     "surface": "dvyaṃśam",
+     "gloss": "two-part",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vājanam",
+     "gloss": "horse-vehicle",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ardhena",
+     "gloss": "half",
+     "grounds": "legacy hint",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṣepaṇamardhataḥ",
+     "gloss": "throwing-half",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What two-part horse-vehicle and lotus throwing proportions are specified?",
+   "premises": [
+    "dvyaṃśam marks two part",
+    "vājanam marks horse-vehicle",
+    "padmam marks lotus"
+   ],
+   "inference": "The verse specifies two-part horse-vehicle and lotus throwing proportions.",
+   "uncertainties": [
+    "exact instrumental relation is not fully resolved"
+   ],
+   "plain_english": "The two-part horse-vehicle and lotus throwing half are specified."
+  },
+  {
+   "verse": 834,
+   "rows": [
+    {
+     "surface": "galaṃ",
+     "gloss": "throat",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "cārdhamabjam",
+     "gloss": "half-lotus",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vṛttam",
+     "gloss": "circle",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "atyardhato",
+     "gloss": "half-to",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres+root-bhū"
+    }
+   ],
+   "question": "How does the throat become a half-lotus circle measure?",
+   "premises": [
+    "galaṃ marks throat",
+    "cārdhamabjam marks half-lotus",
+    "vṛttam marks circle"
+   ],
+   "inference": "The verse states the throat becomes a half-lotus circle measure.",
+   "uncertainties": [
+    "exact ablative endpoint is not fully resolved"
+   ],
+   "plain_english": "The throat becomes a half-lotus circle measure."
+  },
+  {
+   "verse": 835,
+   "rows": [
+    {
+     "surface": "vetraṃ",
+     "gloss": "cane",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sārdhāṃśaistribhiḥ",
+     "gloss": "half-part-with-three",
+     "grounds": "legacy hint",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "ūrdhvāmbujam",
+     "gloss": "above-lotus",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres+root-bhū"
+    }
+   ],
+   "question": "How does cane become an above-lotus measure with three half parts?",
+   "premises": [
+    "vetraṃ marks cane",
+    "sārdhāṃśaistribhiḥ marks half part with three",
+    "ūrdhvāmbujam marks above-lotus"
+   ],
+   "inference": "The verse states cane becomes an above-lotus measure with three half parts.",
+   "uncertainties": [
+    "exact instrumental relation is not fully resolved"
+   ],
+   "plain_english": "Cane becomes an above-lotus measure with three half parts."
+  },
+  {
+   "verse": 836,
+   "rows": [
+    {
+     "surface": "pīṭhocce",
+     "gloss": "pedestal-high",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ṣoḍaśāṃśe",
+     "gloss": "sixteen-part",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhāgābhyāṃ",
+     "gloss": "portion-by-two",
+     "grounds": "legacy hint",
+     "morph": "inst.du.m"
+    },
+    {
+     "surface": "mūlapaṭṭikā",
+     "gloss": "root-band",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What root-band portions are specified at the high pedestal in sixteen parts?",
+   "premises": [
+    "pīṭhocce marks high pedestal",
+    "ṣoḍaśāṃśe marks sixteen part",
+    "mūlapaṭṭikā marks root-band"
+   ],
+   "inference": "The verse specifies root-band portions at the high pedestal in sixteen parts.",
+   "uncertainties": [
+    "exact dual instrumental relation is not fully resolved"
+   ],
+   "plain_english": "At the high pedestal in sixteen parts, root-band portions are specified."
+  },
+  {
+   "verse": 837,
+   "rows": [
+    {
+     "surface": "vṛttam",
+     "gloss": "round",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhāgenārdhena",
+     "gloss": "portion-by-half",
+     "grounds": "legacy hint",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "paṅkajam",
+     "gloss": "lotus",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How does the round lotus measure become specified by half portion?",
+   "premises": [
+    "vṛttam marks round",
+    "bhāgenārdhena marks portion by half",
+    "paṅkajam marks lotus"
+   ],
+   "inference": "The verse specifies a round lotus measure by half portion.",
+   "uncertainties": [
+    "exact instrumental relation is not fully resolved"
+   ],
+   "plain_english": "The round lotus measure is specified by half portion."
+  },
+  {
+   "verse": 838,
+   "rows": [
+    {
+     "surface": "dhṛtabhṛt",
+     "gloss": "held-bearing",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvāṅgabhadrakam",
+     "gloss": "all-limb-auspicious",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What held-bearing declared form is called all-limb auspicious?",
+   "premises": [
+    "dhṛtabhṛt marks held-bearing",
+    "proktam marks declared",
+    "sarvāṅgabhadrakam marks all-limb auspicious"
+   ],
+   "inference": "The verse declares the held-bearing form as all-limb auspicious.",
+   "uncertainties": [
+    "exact subject-predicate relation is not fully resolved"
+   ],
+   "plain_english": "This held-bearing declared form is all-limb auspicious."
+  },
+  {
+   "verse": 839,
+   "rows": [
+    {
+     "surface": "netrendubhiḥ",
+     "gloss": "moon-eyes",
+     "grounds": "legacy hint",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "jagatyabjadhṛg",
+     "gloss": "earth-lotus-bearing",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vetraṃ",
+     "gloss": "cane",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dhṛk",
+     "gloss": "bearing",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "lotus",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do moon-eyes and earth-lotus-bearing relate to cane bearing?",
+   "premises": [
+    "netrendubhiḥ marks moon-eyes",
+    "jagatyabjadhṛg marks earth-lotus-bearing",
+    "vetraṃ marks cane"
+   ],
+   "inference": "The verse relates moon-eyes and earth-lotus-bearing to cane bearing.",
+   "uncertainties": [
+    "ca glossed lotus by legacy hint may be conjunction"
+   ],
+   "plain_english": "Moon-eyes and earth-lotus-bearing relate to cane bearing."
+  },
+  {
+   "verse": 840,
+   "rows": [
+    {
+     "surface": "sārdhāṃśāt",
+     "gloss": "half-part-from",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "jagatyardhena",
+     "gloss": "earth-half",
+     "grounds": "legacy hint",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "kampakam",
+     "gloss": "trembler",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How does the trembler arise from half part and earth half?",
+   "premises": [
+    "sārdhāṃśāt marks half part from",
+    "jagatyardhena marks earth half",
+    "kampakam marks trembler"
+   ],
+   "inference": "The verse derives the trembler from half part and earth half.",
+   "uncertainties": [
+    "exact ablative and instrumental relation is not fully resolved"
+   ],
+   "plain_english": "The trembler arises from half part and earth half."
+  },
+  {
+   "verse": 841,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṃśe",
+     "gloss": "sixteen-part",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "khuram",
+     "gloss": "hoof",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dvyaṃśam",
+     "gloss": "two-part",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "athārdhataḥ",
+     "gloss": "then-half",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How do hoof and two-part measures relate then by half?",
+   "premises": [
+    "ṣoḍaśāṃśe marks sixteen part",
+    "khuram marks hoof",
+    "dvyaṃśam marks two part"
+   ],
+   "inference": "The verse relates hoof and two-part measures then by half.",
+   "uncertainties": [
+    "exact ablative endpoint is not fully resolved"
+   ],
+   "plain_english": "In sixteen parts, hoof and two-part measures relate then by half."
+  },
+  {
+   "verse": 842,
+   "rows": [
+    {
+     "surface": "vajram",
+     "gloss": "diamond",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+root-as"
+    },
+    {
+     "surface": "ūrdhvābjam",
+     "gloss": "above-lotus",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vedabhāgataḥ",
+     "gloss": "veda-part-from",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How does one diamond above-lotus arise from veda part?",
+   "premises": [
+    "vajram marks diamond",
+    "ekaṃ marks one",
+    "ūrdhvābjam marks above-lotus"
+   ],
+   "inference": "The verse states one diamond above-lotus arises from veda part.",
+   "uncertainties": [
+    "exact ablative relation is not fully resolved"
+   ],
+   "plain_english": "One diamond above-lotus arises from veda part."
+  },
+  {
+   "verse": 843,
+   "rows": [
+    {
+     "surface": "sāmānyaṃ",
+     "gloss": "common",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nāgarādīnāṃ",
+     "gloss": "city-etc",
+     "grounds": "legacy hint",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "saumyaṃ",
+     "gloss": "gentle",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "pedestal",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What common gentle pedestal is declared for city and others?",
+   "premises": [
+    "sāmānyaṃ marks common",
+    "nāgarādīnāṃ marks city etc",
+    "pīṭham marks pedestal"
+   ],
+   "inference": "The verse declares a common gentle pedestal for city and others.",
+   "uncertainties": [
+    "exact genitive relation is not fully resolved"
+   ],
+   "plain_english": "A common gentle pedestal is declared for city and others."
+  },
+  {
+   "verse": 844,
+   "rows": [
+    {
+     "surface": "āyāmaḥ",
+     "gloss": "measure",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tatsamastasmāt",
+     "gloss": "that-all-from",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "tricaturbhāgahāpanāt",
+     "gloss": "three-four-part-less",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How does measure arise from that all by three-four part less?",
+   "premises": [
+    "āyāmaḥ marks measure",
+    "tatsamastasmāt marks that all from",
+    "tricaturbhāgahāpanāt marks three-four part less"
+   ],
+   "inference": "The verse derives measure from that all by three-four part less.",
+   "uncertainties": [
+    "exact ablative relation is not fully resolved"
+   ],
+   "plain_english": "Measure arises from that all by three-four part less."
+  },
+  {
+   "verse": 845,
+   "rows": [
+    {
+     "surface": "rāmāṃśāt",
+     "gloss": "beauty-part-from",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "khātam",
+     "gloss": "pit",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vyāsasamonnatiḥ",
+     "gloss": "diameter-high",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How does pit diameter height arise from beauty part?",
+   "premises": [
+    "rāmāṃśāt marks beauty part from",
+    "khātam marks pit",
+    "vyāsasamonnatiḥ marks diameter high"
+   ],
+   "inference": "The verse derives pit diameter height from beauty part.",
+   "uncertainties": [
+    "exact ablative relation is not fully resolved"
+   ],
+   "plain_english": "Pit diameter height arises from beauty part."
+  },
+  {
+   "verse": 846,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+root-as"
+    },
+    {
+     "surface": "ūrdhvapaṭṭabahulaṃ",
+     "gloss": "above-band-abundant",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "even",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pādādhikaṃ",
+     "gloss": "foot-more",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does above-band abundant become even foot-more?",
+   "premises": [
+    "syāt marks becomes",
+    "ūrdhvapaṭṭabahulaṃ marks above-band abundant",
+    "pādādhikaṃ marks foot-more"
+   ],
+   "inference": "The verse states above-band abundant becomes even foot-more.",
+   "uncertainties": [
+    "tu glossed or by legacy hint may be particle"
+   ],
+   "plain_english": "Above-band abundant becomes even foot-more."
+  },
+  {
+   "verse": 847,
+   "rows": [
+    {
+     "surface": "mūlaparyantaṃ",
+     "gloss": "root-to-end",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tatkrameṇonnataṃ",
+     "gloss": "that-sequence-high",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres+root-bhū"
+    }
+   ],
+   "question": "How does root-to-end become high by that sequence?",
+   "premises": [
+    "mūlaparyantaṃ marks root to end",
+    "tatkrameṇonnataṃ marks that sequence high",
+    "bhavet marks becomes"
+   ],
+   "inference": "The verse states root-to-end becomes high by that sequence.",
+   "uncertainties": [
+    "exact instrumental relation is not fully resolved"
+   ],
+   "plain_english": "Root-to-end becomes high by that sequence."
+  },
+  {
+   "verse": 848,
+   "rows": [
+    {
+     "surface": "adhomaṇḍanamekaṃ",
+     "gloss": "below-circle-one",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+root-as"
+    },
+    {
+     "surface": "naikaṃ",
+     "gloss": "not-one",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upapattitaḥ",
+     "gloss": "up-band-from",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How can below-circle be one or not one from up-band?",
+   "premises": [
+    "adhomaṇḍanamekaṃ marks below-circle one",
+    "naikaṃ marks not one",
+    "upapattitaḥ marks up-band from"
+   ],
+   "inference": "The verse allows below-circle to be one or not one from up-band.",
+   "uncertainties": [
+    "exact ablative relation is not fully resolved"
+   ],
+   "plain_english": "Below-circle may be one or not one from up-band."
+  },
+  {
+   "verse": 849,
+   "rows": [
+    {
+     "surface": "uparyaṅgāvasānaṃ",
+     "gloss": "above-limb-end",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tadūrdhvasantānam",
+     "gloss": "that-above-continuity",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-do",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+root-ācar"
+    }
+   ],
+   "question": "How should above-limb end and that-above continuity be performed?",
+   "premises": [
+    "uparyaṅgāvasānaṃ marks above-limb end",
+    "tadūrdhvasantānam marks that-above continuity",
+    "ācaret marks should do"
+   ],
+   "inference": "The verse instructs performing above-limb end and that-above continuity.",
+   "uncertainties": [
+    "exact object relation is not fully resolved"
+   ],
+   "plain_english": "One should perform above-limb end and that-above continuity."
+  }
+ ]
+}

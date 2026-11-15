@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "jagatyabja",
+     "gloss": "earth-lotus",
+     "grounds": "compound naming an earth-born lotus",
+     "morph": "compound (jagati+abja)"
+    },
+    {
+     "surface": "vetra",
+     "gloss": "cane",
+     "grounds": "reed or cane material",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "paṅkaja",
+     "gloss": "lotus",
+     "grounds": "mud-born lotus",
+     "morph": "compound (paṅka+ja)"
+    },
+    {
+     "surface": "paṭṭikā",
+     "gloss": "slab",
+     "grounds": "flat stone or metal plate",
+     "morph": "noun.f.nom.sg"
+    }
+   ],
+   "question": "Which four substances are named for the Lakṣmīsundara pīṭha's construction?",
+   "premises": [
+    "Lakṣmīsundara pīṭha is established by parts.",
+    "Earth-lotus cane lotus slab are listed.",
+    "These items complete the pīṭha's material set."
+   ],
+   "inference": "The verse enumerates the pīṭha's constituent materials.",
+   "uncertainties": [
+    "Exact grammatical case and ritual role of each item remain undetermined."
+   ],
+   "plain_english": "Earth-lotus, cane, lotus, and slab."
+  }
+ ]
+}

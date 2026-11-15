@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p164-v4076
-[pleasant-unpleasant](priyāpriyaṃ) [and](ca) [having-imagined](saṃkalpya) [equal-clod-stone-gold](samaloṣṭhāśmakāñcanaḥ)
+[priya-apriyam](priyāpriyaṃ) [ca](ca) [samkalpya](saṃkalpya) [sama-loṣṭha-aśma-kāñcanaḥ](samaloṣṭhāśmakāñcanaḥ)
 
 ## mukta-m0-p164-v4077
-[fear-from-people](janādbhīti) [endowed-with](samāyukto) [should-dwell-arm-pillow](vasedbāhūpadhānakaḥ)
+[janāt-bhīti](janādbhīti) [samāyuktaḥ](samāyukto) [vaset](vased) [bāhūpadhānakaḥ](bāhūpadhānakaḥ)
 
 ## mukta-m0-p164-v4078
-[palm-bowl](pāṇipātre) [begging-side](varetpārśve) [begged](yācitaṃ) [by-him](tena) [life](jīvitam)
+[pāṇi-pātre](pāṇipātre) [varet](varetpārśve) [pārśve](pārśve) [yācitam](yācitaṃ) [tena](tena) [jīvitam](jīvitam)
 
 ## mukta-m0-p164-v4079
-[of-the-wise](viduṣoḥ) [if-of-ascetic](yadyateḥ) [also](cāpi) [conduct](vartanaṃ) [Nandikeśvara](nandikeśvara)
+[viduṣoḥ](viduṣoryadyateścāpi) [yadi](yadi) [tasya](tasya) [ca](ca) [api](api) [vartanam](vartanaṃ) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p164-v4080
-[thus](evaṃ) [fourfold](catuṣṭayaṃ) [of-him](tasya) [of-the-wise](viduṣaḥ) [especially](viśeṣataḥ)
+[evam](evaṃ) [catuṣṭayam](catuṣṭayaṃ) [tasya](tasya) [viduṣaḥ](viduṣaśca) [ca](ca) [viśeṣataḥ](viśeṣataḥ)
 
 ## mukta-m0-p164-v4081
-[by-good-teacher-consecration](sadācāryābhiṣekeṇa) [endowed](yukto) [called-learned](vidvatsamākhyakaḥ)
+[sadācārya-abhiṣekeṇa](sadācāryābhiṣekeṇa) [yuktaḥ](yukto) [vidvat-samākhyakaḥ](vidvatsamākhyakaḥ)
 
 ## mukta-m0-p164-v4082
-[of-four-āśramas](caturāśramiṇāṃ) [among](madhye) [vaiśeṣika](vaiśeṣika) [vow](vrataṃ) [hear](śṛṇu)
+[catur-āśramiṇām](caturāśramiṇāṃ) [madhye](madhye) [vaiśeṣika](vaiśeṣika) [vrataṃ](vrataṃ) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p164-v4083
-[thus](tathā) [by-number](saṃkhyena) [they-will-count](saṃkhyāsyuḥ) [vow](vra?ktiścāpi) [hear](śṛṇu) [in-order](kramāt)
+[tathā](tathā) [saṃkhyena](saṃkhyena) [saṃkhyāsyuḥ](saṃkhyāsyurvra?ktiścāpi) [vrataḥ](vrataḥ) [ca](ca) [api](api) [śṛṇu](śṛṇu) [kramāt](kramāt)
 
 ## mukta-m0-p164-v4084
-[time](samaye) [mo](mo) [study](svādhyāyaḥ) [truthfulness](satyavāditā)
+[samaye](samaye) [mo](mo) [*](*) [*](*) [*](*) [*](*) [svādhyāyaḥ](svādhyāyassatyavāditā) [satya-vāditā](satya-vāditā)
 
 ## mukta-m0-p164-v4085
-[śāntika](śāntikaṃ) [pauṣṭika](pauṣṭikaṃ) [and](caiva) [of-difficult-ones](suduṣānāṃ) [always](sadā) [thus](tathā)
+[śāntikam](śāntikaṃ) [pauṣṭikam](pauṣṭikaṃ) [ca](ca) [eva](eva) [suduṣānām](suduṣānāṃ) [sadā](sadā) [tathā](tathā)
 
 ## mukta-m0-p164-v4086
-[falling](nipati) [on-ground](bhūmau) [for-eating](bhakṣaṇārtham) [approached](upetavat)
+[nipati](nipati) [*](*) [nkaṇān](nkaṇānbhūmau) [bhūmau](bhūmau) [bhakṣaṇa-artham](bhakṣaṇārthamupetavat) [upetavat](upetavat)
 
 ## mukta-m0-p164-v4087
-[by-practice](abhyāsāt) [constantly](satataṃ) [text](grantham) [āma](āmamādi) [great-famous](mahāyaśān)
+[abhyāsāt](abhyāsātsatataṃ) [satatam](satatam) [grantham](granthamāmamādi) [āmam](āmam) [ādi](ādi) [mahā-yaśān](mahāyaśān)
 
 ## mukta-m0-p164-v4088
-[on-riverbank](nadītīre) [also](api) [at-time](velāyāṃ) [hut](kuṭīṃ) [having-made](kṛtvā) [dwelling](nivāsanam)
+[nadī-tīre](nadītīre'pi) [api](api) [velāyām](velāyāṃ) [kuṭīm](kuṭīṃ) [kṛtvā](kṛtvā) [nivāsanam](nivāsanam)
 
 ## mukta-m0-p164-v4089
-[these](ete) [five](pañca) [vows](vratāḥ) [declared](proktāḥ) [preta-vetāla](pretavetāla)
+[ete](ete) [pañca](pañca) [vratāḥ](vratāḥ) [proktāḥ](proktāḥ) [preta-vetāla](pretavetāla) [*](*) [*](*)
 
 ## mukta-m0-p164-v4090
-[with-austerity-zeal](tapotsāhasamāyukto) [vetāla](vetāla) [image-endowed](pratimānayuk)
+[tapo-utsāha-samāyuktaḥ](tapotsāhasamāyukto) [vetāla](vetāla) [pratimāna-yuk](pratimānayuk)
 
 ## mukta-m0-p164-v4091
-[forest-dweller](vānaprasthāśramī) [on-ground](bhūmau)
+[vānaprastha-āśramī](vānaprasthāśramī) [bhūmau](bhūmau) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p164-v4092
-[self-born](svayamutpanna) [haṃsas](haṃsakāḥ) [those](te) [these](amī) [considered](matāḥ)
+[svayam-utpanna](svayamutpanna) [*](*) [*](*) [ca](śca) [haṃsakāḥ](haṃsakāste) [te](te) [amī](amī) [matāḥ](matāḥ)
 
 ## mukta-m0-p164-v4093
-[yogācāra](yogācāra) [sense-organs](karaṇendriya) [conquered](nirjitaḥ)
+[yogācāra](yogācāra) [*](*) [*](*) [*](*) [karaṇa-indriya](karaṇendriya) [nirjitaḥ](nirjitaḥ)
 
 ## mukta-m0-p164-v4094
-[abiding-in-śiva-knowledge](śivajñānagataḥ) [afterwards](paścād) [secret-conduct](gūḍhācāraḥ) [and](ca) [concealed](saṃvṛtaḥ)
+[śiva-jñāna-gataḥ](śivajñānagataḥ) [paścāt](paścād) [gūḍha-ācāraḥ](gūḍhācāraśca) [ca](ca) [saṃvṛtaḥ](saṃvṛtaḥ)
 
 ## mukta-m0-p164-v4095
-[cowherd](gopālā) [afterwards](paścād) [in-cow-abode](gonivāse) [dwelling](nivāsanaḥ)
+[gopālā](gopālā) [*](*) [*](*) [*](*) [paścāt](paścād) [go-nivāse](gonivāse) [nivāsanaḥ](nivāsanaḥ)
 
 ## mukta-m0-p164-v4096
-[vāyavya-tīrtha](vāyavyatīrthaṃ) [joined](saṃyuktaḥ) [five-senses](pañcendriya) [fashioned](vinirmitaḥ)
+[vāyavya-tīrtham](vāyavyatīrthaṃ) [saṃyuktaḥ](saṃyuktaḥ) [pañca-indriya](pañcendriya) [vinirmitaḥ](vinirmitaḥ)
 
 ## mukta-m0-p164-v4097
-[always](nityaṃ) [cāndrāyaṇa](cāndrāyaṇe) [not](naiva) [all-sin](sarvapāpaṃ) [perishes](vinaśyati)
+[nityam](nityaṃ) [cāndrāyaṇe](cāndrāyaṇe) [na](na) [eva](eva) [sarva-pāpam](sarvapāpaṃ) [vinaśyati](vinaśyati)
 
 ## mukta-m0-p164-v4098
-[of-huts](kuṭikānāṃ) [vow](vrataṃ) [indeed-this](hyetad) [knowledge-yoga](jñānayoga) [manifestation](prakāśanam)
+[kuṭikānām](kuṭikānāṃ) [vrataṃ](vrataṃ) [hi](hyetad) [etad](etad) [jñāna-yoga](jñānayoga) [prakāśanam](prakāśanam)
 
 ## mukta-m0-p164-v4099
-[begged-food-eating](bhikṣānnabhojanaṃ) [always](nityaṃ) [maṭha-named-vow](maṭhakākhyavrataṃ) [becomes](bhavet)
+[bhikṣānna-bhojanam](bhikṣānnabhojanaṃ) [nityam](nityaṃ) [maṭha-kākhya-vrataṃ](maṭhakākhyavrataṃ) [bhavet](bhavet)
 
 ## mukta-m0-p164-v4100
-[body](dehaṃ) [and](ca) [by-that](tena) [protecting](saṃrakṣya) [ghuṭikā-named](ghuṭikākhyo) [vow-holder](vratī) [becomes](bhavet)
+[deham](dehaṃ) [ca](ca) [tena](tena) [saṃrakṣya](saṃrakṣya) [ghuṭikākhyaḥ](ghuṭikākhyo) [vratī](vratī) [bhavet](bhavet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p180-v4476
-first (pūrvaṃ) but (tu) pavilion-door (maṇḍapa+dvāraṃ) there (tatra) on-auspicious-seat-situated (bhadrāsana+sthitān)
+[first](pūrvaṃ) [but](tu) [pavilion+door](maṇḍapadvāraṃ) [there](tatra) [throne+seated](bhadrāsanasthitān)
 
 ## mukta-m0-p180-v4477
-west (paścime) placing (nyasya) stone (śilāṃ) indeed (vai) named (saṃjñatām)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [west](paścime) [placing](nyasya) [stone](śilāṃ) [indeed](vai) [named](saṃjñatām)
 
 ## mukta-m0-p180-v4478
-there (tatra) from-hundred-weapons-obtained (śastra+śatāt+labdha) sleep-pot-fixed-seat (nidrā+kumbha+dhruva+āsanam)
+[there](tatra) [from+weapons+hundred](śastraśatāllabdha) [sleep+pot+fixed+seat](nidrākumbhadhruvāsanam)
 
 ## mukta-m0-p180-v4479
-afterwards (paścāt) hand (skaraṃ) fruit-head (phala+śirasā) and (ca)
+[after](paścāt) [hand](skaraṃ) [fruit+head](phalaśirasā) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) 
 
 ## mukta-m0-p180-v4480
-feet (padatāṃ) and (ca) planets-etc (graha+ādīni) by-heart (hṛdā) should-give (dadyāt) according-to-own-power (sva+śaktitaḥ)
+[footed](padatāṃ) [and](ca) [planets+etc](grahādīni) [by+heart](hṛdā) [give](dadyāt) [according+to+own+power](svaśaktitaḥ)
 
 ## mukta-m0-p180-v4481
-there (tatra) situated (sthito) guru (guruḥ) afterwards (paścāt) thirty-six-principle-collection (ṣaṭtriṃśat+tatva+saṃcayam)
+[there](tatra) [standing](sthito) [guru](guruḥ) [after](paścāt) [thirty+six+tattva+collection](ṣaṭtriṃśattatvasaṃcayam)
 
 ## mukta-m0-p180-v4482
-placing (vinyasya) with-flower-garlands (puṣpa+mālābhiḥ) triple-mark (tripuṇṭraṃ) should-arrange (parikalpayet)
+[placing](vinyasya) [flower+garlands](puṣpamālābhiḥ) [tripuṇḍra](tripuṇṭraṃ) [should+arrange](parikalpayet)
 
 ## mukta-m0-p180-v4483
-placing (vinyasye) with-arghya-vidyā (darghya+viddhyā) by-Śiva-self (śiva+ātmanā)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [placing](vinyasye) [oblation+knowledge](darghyaviddhyā) [by+śiva+self](śivātmanā)
 
 ## mukta-m0-p180-v4484
-earth-fire-sacrificer-sun (bhū+vahni+yajamāna+arka) water-air (jala+vāyu) moon (niśākarāt)
+[earth](bhū) [fire](vahni) [sacrificer](yajamāna) [sun](arka) [water](jala) [air](vāyu) [moon](niśākara) [from](āt)
 
 ## mukta-m0-p180-v4485
-Śarva (śarvaṃ) Paśupati (paśupatiṃ) and (ca) Ugra (ugraṃ) Rudra (rudraṃ) Bhava (bhavam) then (atha) Īśvara (īśvaram)
+[śarva](śarvaṃ) [paśupati](paśupatiṃ) [and](ca) [fierce](ugraṃ) [rudra](rudraṃ) [bhava](bhavam) [then](atha) [īśvara](īśvaram)
 
 ## mukta-m0-p180-v4486
-juice (rasa) pavasā (pavasāḥ) and (ca) three-night (trirātrika)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [rasa](rasa) [pavasā](pavasāśca) [three+night](trirātrika)
 
 ## mukta-m0-p180-v4487
-earth (kṣma) likewise (stathā)
+[earth](kṣma) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [thus](stathā)
 
 ## mukta-m0-p180-v4488
-creation (sṛṣṭi) in-order (krameṇa) for-enjoyment (bhogāya) for-liberation (mukti+artham) reversed (viparītakam)
+[creation](sṛṣṭi) [in+order](krameṇa) [for+enjoyment](bhogāya) [for+liberation](muktyarthaṃ) [reverse](viparītakam)
 
 ## mukta-m0-p180-v4489
-there (tatra) pair (dvayaṃ) should-place-or (nyased+vāpya) everywhere (sarvatra) two-fold-cause (dvya+asaka)
+[there](tatra) [two](dvayaṃ) [place](nyasedvāpya) [everywhere](sarvatra) [two+cause](dvyasakāraṇam)
 
 ## mukta-m0-p180-v4490
-to-be-seen (draṣṭavyā) forms (mūrti) and (ca) these (ete) enjoyers (bhogino)
+[to+be+seen](draṣṭavyā) [forms+and](mūrtipāścaite) [enjoyers](bhogino) [unknown](ma) [unknown](*) [unknown](*) [unknown](*) [unknown](*) 
 
 ## mukta-m0-p180-v4491
-bathed (kṛtasnātā) sandal-etc (candanādi)
+[bathed](kṛtasnātā) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [sandal+etc](candanādi) [unknown](*) [unknown](*) [unknown](*) [unknown](*) 
 
 ## mukta-m0-p180-v4492
-five-red (rakta+pañcaka) joined (saṃyuktaṃ) of-linga (liṃgasya) to-north (uttarataḥ) situated (sthitān)
+[red+five](raktapañcaka) [joined](saṃyuktaṃ) [of+liṅga](liṃgasya) [north](uttarataḥ) [standing](sthitān)
 
 ## mukta-m0-p180-v4493
-bathed-etc (kṛta+snāna+ādi) linga-base (liṃga+mūle) Śivā (śivāṃ) should-place (nyaset)
+[bathed+etc](kṛtasnānādikāntadvā) [at+liṅga+root](liṃgamūle) [śivā](śivāṃ) [place](nyaset)
 
 ## mukta-m0-p180-v4494
-tāra-first (tāra+pūrvaṃ) and (ca) mūsūṃhrīṃ (mantra) from-middle (madhyāt) by-another (anyatamena) and (ca)
+[tāra](tārapūrvaṃ) [and](ca) [mūsūṃhrīṃ](mūsūṃhrīṃ) [middle+etc](madhyādanyatamena) [and](ca)
 
 ## mukta-m0-p180-v4495
-should-do (kuryād) with-ashes-darbha-sesame (bhasma+darbha+tilaiḥ+yutaḥ)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [should+do](kuryād) [with+ashes+kuśa+sesame](bhasmadarbhatilairyutaḥ)
 
 ## mukta-m0-p180-v4496
-mantra (oṃ hrīṃ hrāṃ saḥ oṃ hāṃ bhauri rudra) these (ityete) svāhā (svāhā) also (api) and (ca) piṇḍikā (piṇḍikām)
+[oṃ hrīṃ hrāṃ saḥ oṃ hāṃ bhauri rudra](oṃ hrīṃ hrāṃ saḥ oṃ hāṃ bhauri rudra) [thus](ityete) [svāhā](svāhetyapi) [also](ca) [pedestal](piṇḍikām)
 
 ## mukta-m0-p180-v4497
-dhārikā (dhārikā) shining-very-fierce (dīpta+mati+ugrā) moonlight (jyotsnā) cetāsalotkaṭā (cetāsala+utkaṭā)
+[holder](dhārikā) [very+blazing](dīptamatyugrā) [moonlight](jyotsnā) [cetāsalotkaṭā](cetāsalotkaṭā)
 
 ## mukta-m0-p180-v4498
-Vāmā (vāmā) Jyeṣṭhā (jyeṣṭhā) Kriyājñānī (kriyā+jñāni) Ceṣṭā (ceṣṭā) three (tisraḥ) or (athavā) should-place (nyaset)
+[vāmā](vāmā) [jyeṣṭhā](jyeṣṭhā) [kriyā+jñāni](kriyājñāni) [ceṣṭā](ceṣṭā) [three](tisro) [or](athavā) [place](nyaset)
 
 ## mukta-m0-p180-v4499
-mā (mā) liberation (mokṣā) decay-sleep (kṣayā+nidrā) death (mṛtyuṃ) māyā-fear (māyā+bhaya) then (tha) wheel (cakratā)
+[not](mā) [liberation](mokṣā) [decay](kṣayā) [sleep](nidrā) [death](mṛtyuṃ) [māyā](māyā) [fear](bhaya) [then](tha) [wheel](cakratā)
 
 ## mukta-m0-p180-v4500
-in-ātma-vidyā-śiva-named (ātma+vidyā+śiva+ākhyeṣu) three (triṣu) forms (mūrtiṣu) should-place (vinyaset)
+[in+three+forms](triṣu mūrtiṣu) [named](ātmavidyāśivākhyeṣu) [place](vinyaset)

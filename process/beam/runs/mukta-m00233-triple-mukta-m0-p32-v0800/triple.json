@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative/imperative of kṛ; prescribes the action to perform",
+     "morph": "3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇvaṃśasamānoccaṃ",
+     "gloss": "equal-height-to-viṣṇu-part",
+     "grounds": "fused sandhi compound; height equal to the Viṣṇu portion",
+     "morph": "compound (viṣṇu+aṃśa+samāna+ucca)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-all-ways",
+     "grounds": "adverb of universal scope",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the height of the liṅga be set relative to the Viṣṇu portion?",
+   "premises": [
+    "The operation is to make something.",
+    "Its height equals the Viṣṇu portion.",
+    "This applies in all ways."
+   ],
+   "inference": "Therefore the liṅga height should match the Viṣṇu portion universally.",
+   "uncertainties": [
+    "The exact object being made is not explicit in this verse."
+   ],
+   "plain_english": "But one should indeed make it equal in height to the Viṣṇu portion in all ways."
+  }
+ ]
+}

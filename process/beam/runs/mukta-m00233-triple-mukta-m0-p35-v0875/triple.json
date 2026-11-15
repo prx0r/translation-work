@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "pīṭhāśraṃ",
+     "gloss": "pedestal-corner",
+     "grounds": "compound of pīṭha (pedestal) and aśra (corner); accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vedhasaṃ",
+     "gloss": "vedha",
+     "grounds": "accusative singular masculine noun; object of praśasyate",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive present, third singular, root praśaṃs",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Is a vedha at the pedestal corner considered praiseworthy?",
+   "premises": [
+    "pedestal-corner vedha is named",
+    "such vedha is not praised",
+    "praise is withheld from it"
+   ],
+   "inference": "A vedha located at the corner of the pedestal is not praiseworthy.",
+   "uncertainties": [
+    "exact ritual sense of vedha in this context is not specified"
+   ],
+   "plain_english": "A vedha at the corner of the pedestal is not praiseworthy."
+  }
+ ]
+}

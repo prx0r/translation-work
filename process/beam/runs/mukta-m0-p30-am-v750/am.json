@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p30",
  "verse": 750,
- "question": "What ritual sequence should a practitioner follow after invoking the tīrtha?",
+ "question": "When gold particles appear in the tested liquids, should the linga and pedestal be rejected?",
  "premises": [
-  "Invoke tīrtha before drawing maṇḍala.",
-  "Draw maṇḍala as before.",
-  "Instruction is prescriptive."
+  "gold particles in tested liquids indicate defect",
+  "defective linga and pedestal are rejectable",
+  "that condition makes them rejectable"
  ],
- "inference": "The verse prescribes invoking the tīrtha first, then drawing the maṇḍala in the prior manner.",
+ "inference": "therefore reject the linga and pedestal",
  "uncertainties": [
-  "Exact referent of pūrvavan is not specified in this verse."
+  "exact threshold of gold particles unspecified",
+  "which liquids beyond listed are intended"
  ],
- "plain_english": "First invoke the tīrtha, then draw the maṇḍala as before."
+ "plain_english": "If gold particles appear in the tested liquids, the linga and pedestal should be rejected."
 }

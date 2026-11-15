@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p30",
  "verse": 744,
- "question": "What fragrant substances are joined?",
+ "question": "What form division exists, and should mantra mixture not occur?",
  "premises": [
-  "Cardamom is joined.",
-  "Clove is joined.",
-  "Camphor is joined.",
-  "Nutmeg is joined."
+  "form division exists",
+  "mantra mixture should not be",
+  "both are stated"
  ],
- "inference": "The offering is joined with cardamom, clove, camphor, and nutmeg.",
+ "inference": "Form division exists, and mantra mixture should not occur.",
  "uncertainties": [
-  "The base substance is not named."
+  "relation between clauses not specified"
  ],
- "plain_english": "Join cardamom, clove, camphor, and nutmeg."
+ "plain_english": "Form division exists, and mantra mixture should not be."
 }

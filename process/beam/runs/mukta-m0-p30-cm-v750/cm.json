@@ -3,29 +3,34 @@
  "verse": 750,
  "rows": [
   {
-   "lemma": "pūrvaṃ",
+   "lemma": "tyājyaṃ",
+   "morph": "neut.nom.sg",
+   "grounds": "gerundive of tyaj; modifies liṅgaṃ and pīṭhaṃ"
+  },
+  {
+   "lemma": "liṅgaṃ",
+   "morph": "neut.acc.sg",
+   "grounds": "ritual linga under examination"
+  },
+  {
+   "lemma": "pīṭhaṃ",
+   "morph": "neut.acc.sg",
+   "grounds": "support for the linga"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb of time"
+   "grounds": "conjunction joining liṅgaṃ and pīṭhaṃ"
   },
   {
-   "lemma": "vattīrthamāvāhya",
-   "morph": "absolutive (root āvāh)",
-   "grounds": "absolutive form with fused tīrtha object"
+   "lemma": "tad",
+   "morph": "neut.nom.sg",
+   "grounds": "refers to the defective condition"
   },
   {
-   "lemma": "pūrvavan",
-   "morph": "(indecl.)",
-   "grounds": "adverbial compound"
-  },
-  {
-   "lemma": "maṇḍalaṃ",
-   "morph": "acc.sg.n",
-   "grounds": "object of likhet"
-  },
-  {
-   "lemma": "likhet",
-   "morph": "3.sg.act-optative (root likh)",
-   "grounds": "prescriptive verbal instruction"
+   "lemma": "bhavet",
+   "morph": "3.sg.opt.act-bhū",
+   "grounds": "conditional result of the defect"
   }
  ]
 }

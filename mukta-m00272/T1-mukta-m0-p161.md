@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p161-v4001
-[by-wind](vāyunā) [worshipped](pūjyamānaḥ) [he](asau) [wind-world](vāyulokaṃ) [he](sa) [goes](gacchati)
+[by-wind](vāyunā) [being-worshipped](pūjyamāno) [that](asau) [wind-world](vāyulokaṃ) [he](sa) [goes](gacchati)
 
 ## mukta-m0-p161-v4002
-[wool](ūrṇaṃ) [covering](prāvaraṇaṃ) [should-give](dadyāt) [to-śiva-devotee](śivabhaktāya) [powerful](śaktimān)
+[wool](ūrṇaṃ) [covering](prāvaraṇaṃ) [should-give](dadyāt) [to-shiva-devotee](śivabhaktāya) [powerful-one](śaktimān)
 
 ## mukta-m0-p161-v4003
-[those-various](tattad) [tiger-etc](vyāghrādi) [skins](carmāṇi) [that-etc](tatvādi) [fruit](phalam) [obtains](āpnuyāt)
+[those-various-tiger-etc](tattadvyāghrādi) [skins](carmāṇi) [that-fruit-etc](tatvādiphalam)+[obtains](āpnuyāt)
 
 ## mukta-m0-p161-v4004
-[kalpa](kalpa) [koṭi](koṭi) [thousands](sahasrāṇi) [in-rudra-world](rudraloke) [is-honored](mahīyate)
+[kalpa-crores](kalpakoṭi) [thousands](sahasrāṇi) [in-rudra-world](rudraloke) [is-honored](mahīyate)
 
 ## mukta-m0-p161-v4005
-[in-śiva-world-etc](śivalokādi) [in-worlds](lokeṣu) [like-śiva](śivavan) [delights](modate) [long](ciram)
+[in-shiva-world-etc](śivalokādi) [in-worlds](lokeṣu) [like-shiva](śivavan)+[rejoices](modate) [long](ciram)
 
 ## mukta-m0-p161-v4006
 [or](athavā) [knowledge-yoga-etc](jñānayogādīn) [having-obtained](labdhvā) [liberation](mokṣam) [obtains](avāpnuyāt)
 
 ## mukta-m0-p161-v4007
-[all](samastāḥ) [ancestors](pitaras) [those-too](te'pi) [in-śiva-world](śivaloke) [are-honored](mahīyate)
+[all](samastāḥ) [ancestors](pitaras) [they-also](te'pi) [in-shiva-world](śivaloke) [are-honored](mahīyate)
 
 ## mukta-m0-p161-v4008
-[by-gift-to-śiva-devotee](śivabhaktasya+dānena) [varuṇa](vāruṇaṃ) [world](lokaṃ) [obtains](āpnuyāt)
+[of-shiva-devotee](śivabhaktasya) [by-gift](dānena) [varuna-world](vāruṇaṃ lokam)+[obtains](āpnuyāt)
 
 ## mukta-m0-p161-v4009
-[years-koṭi-yuta](varṣakoṭiyutaṃ) [divine](divyaṃ) [by-viṣṇu](viṣṇunā) [worshipped](pūjito) [becomes](bhavet)
+[year-crore-joined](varṣakoṭiyutaṃ) [divine](divyaṃ) [by-vishnu](viṣṇunā) [worshipped](pūjito) [becomes](bhavet)
 
 ## mukta-m0-p161-v4010
-[kalpa-koṭi-thousands](kalpakoṭisahasrāṇi) [by-sun](sūryeṇa) [worshipped](pūjitaḥ) [becomes](bhavet)
+[kalpa-crore-thousands](kalpakoṭisahasrāṇi) [becomes](bhavet) [by-sun](sūryeṇa) [worshipped](pūjitaḥ)
 
 ## mukta-m0-p161-v4011
-[śiva-world](śivalokaṃ) [having-resorted](samāśritya) [not](na) [again](punar) [goes-here](gacchatīha) [he](saḥ)
+[shiva-world](śivalokaṃ) [having-resorted](samāśritya) [not](na) [again-goes](punargacchati) [here](iha) [he](saḥ)
 
 ## mukta-m0-p161-v4012
-[yuga-koṭi-hundred](yugakoṭiśataṃ) [divine](divyaṃ) [in-śiva-world](śivaloke) [is-honored](mahīyate)
+[yuga-crore-hundred](yugakoṭiśataṃ) [divine](divyaṃ) [in-shiva-world](śivaloke) [is-honored](mahīyate)
 
 ## mukta-m0-p161-v4013
-[all-tīrtha-fruit](sarvatīrthaphalaṃ) [having-obtained](labdhvā) [in-śiva-world](śivaloke) [is-honored](mahīyate)
+[all-tirtha-fruit](sarvatīrthaphalaṃ) [having-obtained](labdhvā) [in-shiva-world](śivaloke) [is-honored](mahīyate)
 
 ## mukta-m0-p161-v4014
-[cloth-pair](vastrayugma) [thousand](sahasrasya) [given](dattasya) [fruit](phalam) [obtains](āpnuyāt)
+[cloth-pair](vastrayugma) [of-thousand](sahasrasya) [of-given](dattasya) [fruit](phalam) [obtains](āpnuyāt)
 
 ## mukta-m0-p161-v4015
-[who](yo) [gives](dadyāt) [all](sakalaṃ) [given](dattaṃ) [like-śiva](śivavan) [delights](modate) [long](ciram)
+[who](yo) [should-give](dadyāt) [all](sakalaṃ) [given](dattaṃ) [like-shiva](śivavan)+[rejoices](modate) [long](ciram)
 
 ## mukta-m0-p161-v4016
-[koṭi-koṭi-yuta](koṭikoṭiyutaṃ) [merit](puṇyaṃ) [obtains-indeed](prāpnotyeva) [no](na) [doubt](saṃśayaḥ)
+[crore-crore-joined](koṭikoṭiyutaṃ) [merit](puṇyaṃ) [obtains-indeed](prāpnotyeva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p161-v4017
-[rudrākṣa](rudrākṣa) [garland-gift](mālādānena) [to-śiva-devotee](śivabhaktāya) [who](yo) [man](naraḥ)
+[rudraksha](rudrākṣa) [garland-gift](mālādānena) [to-shiva-devotee](śivabhaktāya) [who](yo) [man](naraḥ)
 
 ## mukta-m0-p161-v4018
-[to-śiva-devotee](śivabhaktāya) [who](yo) [gives](dadyāt) [umbrella](chatra) [staff](daṇḍa) [with](samanvitam)
+[to-shiva-devotee](śivabhaktāya) [who](yo) [should-give](dadyāt) [umbrella](chatra) [staff-accompanied](daṇḍasamanvitam)
 
 ## mukta-m0-p161-v4019
-[sandal](upānah) [to-śiva-devotee](śivabhaktāya) [gift](dānaṃ) [should-do](kuryāt) [indeed](tu) [who](yo) [man](naraḥ)
+[sandals](upānah) [to-shiva-devotee](śivabhaktāya) [gift](dānaṃ) [should-do](kuryāt) [indeed](tu) [who](yo) [man](naraḥ)
 
 ## mukta-m0-p161-v4020
-[without-instruction](upādeśaṃ+vinā) [because](yasmāt) [śiva](śiva) [dharma](dharmaṃ) [not](na) [practices](cārayet)
+[instruction](upadeśaṃ) [without](vinā) [because](yasmāt) [shiva](śiva) [dharma](dharmaṃ) [not](na) [should-practice](cārayet)
 
 ## mukta-m0-p161-v4021
-[done-unreversed](kṛtānupāvṛtaṃ) [and](caiva) [five](pañca) [equal-fruit](tulyaphalāḥ) [remembered](smṛtāḥ)
+[done-unreturned](kṛtānupāvṛtaṃ) [and-indeed](caiva) [five](pañca) [equal-fruit](tulyaphalāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p161-v4022
-[shrines-etc](ālayādīni) [all](sarvāṇi) [protector](rakṣakṣerṇa) [not](na) [lacking](vihīyate)
+[temples-etc](ālayādīni) [all](sarvāṇi) [by-protector](rakṣakṣerṇa) [not-abandoned](vihīyate)
 
 ## mukta-m0-p161-v4023
 [protector](rakṣako) [indeed](hi) [world-maker](jagatkartā) [protector](rakṣako) [indeed](hi) [world-teacher](jagadguruḥ)
 
 ## mukta-m0-p161-v4024
-[initiated](samayī) [servant-path](dāsamārgaśca) [śiva-devotion-devoted](śivabhaktiparāyaṇaḥ)
+[initiate](samayī) [servant-path](dāsamārgaśca) [shiva-devotion-devoted](śivabhaktiparāyaṇaḥ)
 
 ## mukta-m0-p161-v4025
-[śiva-worshipper](śivārcakaḥ) [son-path](putramārgī) [son-purification-initiated](putrasaṃskāradīkṣitaḥ)
+[shiva-worshipper](śivārcakaḥ) [son-path](putramārgī) [son-rites-initiated](putrasaṃskāradīkṣitaḥ)

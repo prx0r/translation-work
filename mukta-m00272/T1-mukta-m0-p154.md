@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p154-v3826
-[rice-pudding](pāyasaṃ) [or](vātha) [offering](naivedyaṃ) [around](parya) [lacuna](*) [lacuna](*) [lacuna](*) [only](meva) [or](vā)
+[rice-pudding](pāyasaṃ) [or](vātha) [offering](naivedyaṃ) [around](parya) [*] [*] [*] [indeed](meva) [or](vā)
 
 ## mukta-m0-p154-v3827
-[occasional-great-if](naimittikamahacceddhi) [beginning](samārabhya) [own-time](svakālake)
+[occasional](naimittikam) [great](mahat) [if](ced) [having-begun](samārabhya) [at-proper-time](svakālake)
 
 ## mukta-m0-p154-v3828
-[by-vedas](vaidaiśca) [and](ca) [in-pot](kalaśe) [god](devaṃ) [white-clad](sitedavadhite) [in-order](kramāt)
+[by-vedic-rites](vaidaiḥ) [and](ca) [in-pot](kalaśe) [god](devaṃ) [white](sita) [worshipped](avadhite) [in-order](kramāt)
 
 ## mukta-m0-p154-v3829
-[light](laghuṃ) [to-you](te) [similar](sadṛśaṃ) [that](taccet) [desire-practice](kāmācāro) [is-prescribed](vidhīyate)
+[light](laghuṃ) [to-you](te) [similar](sadṛśaṃ) [that](taccet) [by-desire](kāmācāraḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p154-v3830
-[lacuna](*) [lacuna](nalpa) [division](vibhāgena) [small-increase](svalpāsudayanādhikaḥ)
+[*] [*] [small](nalpa) [division](vibhāgena) [very-small](svalpa) [rising](sudaya) [more](adhikaḥ)
 
 ## mukta-m0-p154-v3831
-[sun](āditye) [being-grasped](gṛhyamāne) [but](tu) [being-released](mucyamāne) [moon](niśākare)
+[when-sun](āditye) [is-grasped](gṛhyamāne) [then](tu) [when-moon](mucyamāne) [is-released](niśākare)
 
 ## mukta-m0-p154-v3832
-[equinox](viṣuve) [mid-time](madhyakāle) [ca](ca) [bathing-etc](snapanādyaṃ) [should-perform](samācaret)
+[at-equinox](viṣuve) [mid-time](madhyakāle) [ca](ca) [bathing-etc](snapanādyaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p154-v3833
-[half-one-two](ardhamekadvayaṃ) [ca](cāpi) [watch](yāmaṃ) [or](vā) [ghaṭikā](ghaṭikāmapi)
+[half](ardha) [one](eka) [two](dvayaṃ) [ca](ca) [api](api) [watch](yāmaṃ) [or](vā) [ghaṭikā](ghaṭikām) [api](api)
 
 ## mukta-m0-p154-v3834
-[teacher](ācāryaṃ) [should-worship](pūjayetpaścād) [after](paścād) [clothes-gold-rings](vastrahemāṃgulīyakaiḥ)
+[teacher](ācāryaṃ) [should-worship](pūjayet) [afterwards](paścāt) [clothes](vastra) [gold](hema) [rings](aṃgulīyakaiḥ)
 
 ## mukta-m0-p154-v3835
-[to-teacher](ācāryāya) [ca](ca) [that-give](taddadyāt) [not-other-enjoyment](nānyabhogāya) [should-assign](kalpayet)
+[to-teacher](ācāryāya) [ca](ca) [that](tad) [should-give](dadyāt) [not](nānya) [enjoyment](bhoga) [for](āya) [should-appoint](kalpayet)
 
 ## mukta-m0-p154-v3836
-[cloth](vastraṃ) [post](sthaṇḍikaṃ) [pot](kumbhaṃ) [lacuna](*) [lacuna](*) [lacuna](*) [single-gift](caikaladāyikam)
+[cloth](vastraṃ) [post](sthaṇḍikaṃ) [pot](kumbhaṃ) [*] [*] [*] [ca](ca) [eka-dāyika](ekaladāyikam)
 
 ## mukta-m0-p154-v3837
-[that-homa-remainder-offering](taddhomacarunaivedya) [remainder](śeṣaṃ) [of-pavilion](yanmaṇḍapasya) [ca](ca)
+[that](tad) [homa](homa) [caru](caru) [naivedya](naivedya) [remainder](śeṣaṃ) [yan](yan) [pavilion](maṇḍapasya) [ca](ca)
 
 ## mukta-m0-p154-v3838
-[to-teacher](ācāryāya) [ca](ca) [that-give](taddeyaṃ) [good-path-family-lord](sanmārgakulanāyakam)
+[to-teacher](ācāryāya) [ca](ca) [that](tad) [should-give](deyaṃ) [good-path](sanmārga) [family-lord](kulanāyakam)
 
 ## mukta-m0-p154-v3839
-[niṣka-eight](niṣkāṣṭaka) [loss](hānyasyamaṣṭamārdhaṃ) [half](tadardhakam)
+[niṣka-eight](niṣkāṣṭaka) [hāni](hāni) [asya](asya) [ma](ma) [half-eighth](aṣṭamārdhaṃ) [that-half](tadardhakam)
 
 ## mukta-m0-p154-v3840
-[daily](nitye) [tu](tu) [should-assign-devotion](kalpayedbhaktiṃ) [mind-purification](tamanaskoṣaṇī) [tathā](tathā)
+[daily](nitye) [tu](tu) [should-appoint](kalpayet) [devotion](bhaktiṃ) [tamanas](tamanas) [koṣaṇī](koṣaṇī) [tathā](tathā)
 
 ## mukta-m0-p154-v3841
-[life-giving](āyuṣyakaramaste) [tu](tu) [sun-day](ravivāre) [second](dvitīyake)
+[life-giving](āyuṣyakaram) [aste](aste) [tu](tu) [sun-day](ravivāre) [second](dvitīyake)
 
 ## mukta-m0-p154-v3842
-[seventh](saptamyāṃ) [ca](ca) [should-do](kartavyaṃ) [by-rite](vidhinā) [nandikeśvara](nandikeśvara)
+[on-seventh](saptamyāṃ) [ca](ca) [should-do](kartavyaṃ) [by-rite](vidhinā) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p154-v3843
-[birth-three](janmatrayavipadṛkṣe) [danger-star](vipadṛkṣe) [each](pratyare) [six](ṣaṭtathāpi) [vā](vā)
+[birth-three](janmatraya) [inauspicious-star](vipadṛkṣe) [pratyare](pratyare) [six](ṣaṭ) [tathā](tathā) [api](api) [vā](vā)
 
 ## mukta-m0-p154-v3844
-[enemy-destruction](śatrunāśāya) [that-star](tadṛkṣe) [sixteen](ṣoḍaśī) [quality-increase](guṇavardhanam)
+[for-enemy-destruction](śatrunāśāya) [that-star](tadṛkṣe) [sixteen](ṣoḍaśī) [quality-increasing](guṇavardhanam)
 
 ## mukta-m0-p154-v3845
-[śivānanda](śivānandaṃ) [ca](ca) [that-all](tatsarvaṃ) [of-vows](vratānāmuttamottamam)
+[śivānanda](śivānandaṃ) [ca](ca) [that-all](tatsarvaṃ) [of-vows](vratānām) [best-best](uttamottamam)
 
 ## mukta-m0-p154-v3846
-[no-obstacle](na) [yama-servants](bādhā) [yamarājasya] [kiṃkarairapi] [increases](vardhate)
+[no](na) [obstacle](bādhā) [of-yama](yamarājasya) [servants](kiṃkaraiḥ) [api](api) [increases](vardhate)
 
 ## mukta-m0-p154-v3847
-[māgha-month](māghamāse) [fourteenth](caturdaśyāṃ) [dark-fortnight](kṛṣṇapakṣe) [especially](viśeṣataḥ)
+[in-māgha-month](māghamāse) [fourteenth](caturdaśyāṃ) [dark-fortnight](kṛṣṇapakṣe) [especially](viśeṣataḥ)
 
 ## mukta-m0-p154-v3848
-[previous-day](pūrve'hni) [well-bathed](kṛtasusnātaḥ) [done-duty](kṛtakṛtya) [rite-pure](vidhiśśuciḥ)
+[previous-day](pūrve) [ahni](ahni) [well-bathed](kṛtasusnātaḥ) [done-duty](kṛtakṛtya) [rite](vidhiḥ) [pure](śuciḥ)
 
 ## mukta-m0-p154-v3849
-[śivānanta](śivānantaṃ) [ca](ca) [should-chant](saṃjapya) [should-do](kartavyaṃ) [nandikeśvara](nandikeśvara)
+[śivānanta](śivānantaṃ) [ca](ca) [having-chanted](saṃjapya) [should-do](kartavyaṃ) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p154-v3850
-[fragment](khaṇḍūṃ) [peace-seat](śamāsanaṃ) [there](tatra) [having-made-present](saṃnidhīkṛtya) [joined](saṃyutaḥ)
+[khaṇḍū](khaṇḍūṃ) [śamāsana](śamāsanaṃ) [there](tatra) [having-made-present](saṃnidhīkṛtya) [united](saṃyutaḥ)
