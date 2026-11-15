@@ -45,7 +45,7 @@
 "tokens": [
 {
 "surface": "sadā+eka+rūpa",
-"quick_gloss": "always+one-form"
+"quick_gloss": "always+one+form"
 },
 {
 "surface": "iti",
@@ -218,7 +218,7 @@
 },
 {
 "surface": "svayam+eva",
-"quick_gloss": "by-oneself+indeed"
+"quick_gloss": "by-oneself+alone"
 },
 {
 "surface": "ātmā",
@@ -233,11 +233,11 @@
 "quick_gloss": "knows"
 },
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
-"surface": "ātmavit",
+"surface": "ātma+vit",
 "quick_gloss": "knower-of-self"
 }
 ]
@@ -250,8 +250,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caturvidha+avadhūtānām",
-"quick_gloss": "of-fourfold-avadhūtas"
+"surface": "catur+vidha+avadhūtānām",
+"quick_gloss": "of-fourfold+avadhūtas"
 },
 {
 "surface": "etat+eva",
@@ -291,15 +291,11 @@
 "quick_gloss": "wonderful"
 },
 {
-"surface": "avadhūtāḥ",
-"quick_gloss": "avadhūtas"
+"surface": "avadhūtāḥ+ca",
+"quick_gloss": "avadhūtas+and"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "caturvidhāḥ",
+"surface": "catur+vidhāḥ",
 "quick_gloss": "fourfold"
 }
 ]
@@ -312,8 +308,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caturvidha+avadhūtānām",
-"quick_gloss": "of-fourfold-avadhūtas"
+"surface": "catur+vidha+avadhūtānām",
+"quick_gloss": "of-fourfold+avadhūtas"
 },
 {
 "surface": "lakṣaṇaṃ",
@@ -321,7 +317,7 @@
 },
 {
 "surface": "sa+viśeṣataḥ",
-"quick_gloss": "with-particulars"
+"quick_gloss": "with+particulars"
 }
 ]
 },
@@ -333,16 +329,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrī+devī",
-"quick_gloss": "Śrī-Devī"
+"surface": "śrī+devī+uvāca",
+"quick_gloss": "Śrī-Devī+said"
 },
 {
-"surface": "uvāca",
-"quick_gloss": "said"
-},
-{
-"surface": "dvividhau+iti+ādi",
+"surface": "dvi+vidhau+iti+ādi",
 "quick_gloss": "twofold+thus+etc"
+},
+{
+"surface": "||",
+"quick_gloss": "141"
+},
+{
+"surface": "141",
+"quick_gloss": "141"
 }
 ]
 },
@@ -355,7 +355,7 @@
 "tokens": [
 {
 "surface": "gṛha+āśrame",
-"quick_gloss": "in-householder-stage"
+"quick_gloss": "in-householder+stage"
 },
 {
 "surface": "vasantaḥ",
@@ -379,7 +379,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "O-dear"
+"quick_gloss": "O-beloved"
 }
 ]
 },
@@ -392,7 +392,7 @@
 "tokens": [
 {
 "surface": "śaiva+avadhūtāḥ",
-"quick_gloss": "Śaiva-avadhūtas"
+"quick_gloss": "Śaiva+avadhūtas"
 },
 {
 "surface": "te",
@@ -425,7 +425,7 @@
 },
 {
 "surface": "sarva+karmāṇi",
-"quick_gloss": "all-actions"
+"quick_gloss": "all+actions"
 },
 {
 "surface": "mat+udīrita+vartmanā",
@@ -442,15 +442,11 @@
 "tokens": [
 {
 "surface": "niṣiddham+annaṃ",
-"quick_gloss": "forbidden-food"
+"quick_gloss": "forbidden+food"
 },
 {
-"surface": "toyam",
-"quick_gloss": "water"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "toyam+ca",
+"quick_gloss": "water+and"
 },
 {
 "surface": "na",
@@ -486,12 +482,8 @@
 "quick_gloss": "duty"
 },
 {
-"surface": "ācāraḥ",
-"quick_gloss": "conduct"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "ācāraḥ+ca",
+"quick_gloss": "conduct+and"
 },
 {
 "surface": "vara+ānane",
@@ -541,7 +533,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "O-dear"
+"quick_gloss": "O-beloved"
 }
 ]
 },
@@ -558,7 +550,7 @@
 },
 {
 "surface": "loka+ālaye",
-"quick_gloss": "in-abode-of-world"
+"quick_gloss": "in-world+abode"
 },
 {
 "surface": "tiṣṭhan",
@@ -569,7 +561,7 @@
 "quick_gloss": "self"
 },
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
@@ -591,7 +583,7 @@
 "tokens": [
 {
 "surface": "brahma+mantra+upāsakāḥ",
-"quick_gloss": "Brahman-mantra-worshippers"
+"quick_gloss": "brahma-mantra+worshippers"
 },
 {
 "surface": "ye",
@@ -600,6 +592,14 @@
 {
 "surface": "iti+ādi",
 "quick_gloss": "thus+etc"
+},
+{
+"surface": "||",
+"quick_gloss": "143"
+},
+{
+"surface": "143",
+"quick_gloss": "143"
 }
 ]
 },
@@ -616,7 +616,7 @@
 },
 {
 "surface": "brahma+paraḥ",
-"quick_gloss": "devoted-to-Brahman"
+"quick_gloss": "devoted-to-brahman"
 },
 {
 "surface": "bhūtvā",
@@ -715,7 +715,7 @@
 },
 {
 "surface": "tasya+abhīṣṭāya",
-"quick_gloss": "for-his-desired-goal"
+"quick_gloss": "for-his+desired-end"
 },
 {
 "surface": "tat",

@@ -1,0 +1,1137 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3251,
+   "rows": [
+    {
+     "surface": "bhāgārdham+ūrdhvakampaḥ",
+     "gloss": "half-part-upper-projection",
+     "grounds": "compound denoting upper projection of half a part",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root as"
+    },
+    {
+     "surface": "triḥ",
+     "gloss": "thrice",
+     "grounds": "indicates repetition or threefold measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptāṃśe",
+     "gloss": "in-seven-parts",
+     "grounds": "locative indicating division into seven parts",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "tad+unnate",
+     "gloss": "in-that-elevation",
+     "grounds": "compound referring to that height or elevation",
+     "morph": "n.loc.sg compound"
+    }
+   ],
+   "question": "How high should the upper projection be when the elevation is divided into seven parts?",
+   "premises": [
+    "The elevation is divided into seven parts",
+    "The upper projection is prescribed as half a part",
+    "The measure is applied thrice in that elevation"
+   ],
+   "inference": "The upper projection should measure half a part taken thrice within the seven-part elevation.",
+   "uncertainties": [
+    "The exact sense of triḥ in this proportional context is slightly ambiguous"
+   ],
+   "plain_english": "When the elevation is divided into seven parts, the upper projection should be half a part, taken thrice in that elevation."
+  },
+  {
+   "verse": 3252,
+   "rows": [
+    {
+     "surface": "bāhya+vājanam",
+     "gloss": "outer-vājana",
+     "grounds": "compound naming the outer vājana member",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "instrumental indicating one part",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kampam",
+     "gloss": "projection",
+     "grounds": "architectural projection member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭāṃśakaiḥ",
+     "gloss": "by-eight-parts",
+     "grounds": "instrumental indicating division into eight parts",
+     "morph": "m.inst.pl compound"
+    },
+    {
+     "surface": "galam",
+     "gloss": "neck",
+     "grounds": "architectural neck member",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements define the outer vājana, projection, and neck when divided into eight parts?",
+   "premises": [
+    "The division is made into eight parts",
+    "The outer vājana is assigned one part",
+    "The projection and neck are specified within this scheme"
+   ],
+   "inference": "In an eight-part division, the outer vājana takes one part, with the projection and neck measured accordingly.",
+   "uncertainties": [
+    "The exact allocation of parts to kampam and galam is not fully explicit"
+   ],
+   "plain_english": "With eight parts, the outer vājana should be one part, along with the projection and the neck."
+  },
+  {
+   "verse": 3253,
+   "rows": [
+    {
+     "surface": "siṃha+ibha+makaraiḥ",
+     "gloss": "with-lions-elephants-makaras",
+     "grounds": "compound listing decorative animal motifs",
+     "morph": "m.inst.pl compound"
+    },
+    {
+     "surface": "vyālaiḥ",
+     "gloss": "with-vyālas",
+     "grounds": "mythical beast motifs",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhūtaiḥ",
+     "gloss": "with-bhūtas",
+     "grounds": "spirit or goblin motifs",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "patraiḥ",
+     "gloss": "with-leaves",
+     "grounds": "foliate decorative motifs",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "alaṅkṛtam",
+     "gloss": "decorated",
+     "grounds": "past participle indicating ornamentation",
+     "morph": "n.nom.sg past-participle root alaṅkṛ"
+    }
+   ],
+   "question": "Which decorative motifs should be used to ornament the architectural member?",
+   "premises": [
+    "The member is to be decorated",
+    "Lions, elephants, and makaras are specified motifs",
+    "Vyālas, bhūtas, and leaves are also specified motifs"
+   ],
+   "inference": "The member should be decorated with lions, elephants, makaras, vyālas, bhūtas, and leaf designs.",
+   "uncertainties": [],
+   "plain_english": "It should be decorated with lions, elephants, makaras, vyālas, bhūtas, and leaf motifs."
+  },
+  {
+   "verse": 3254,
+   "rows": [
+    {
+     "surface": "arpite",
+     "gloss": "placed",
+     "grounds": "locative participle indicating placement",
+     "morph": "n.loc.sg past-participle root arp"
+    },
+    {
+     "surface": "na+arpite",
+     "gloss": "not-placed",
+     "grounds": "negated participle indicating absence of placement",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "matsyaiḥ",
+     "gloss": "with-fish",
+     "grounds": "fish motifs as decoration",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates universal application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "optative prescribing design action",
+     "morph": "3.sg.optative root parikalp"
+    }
+   ],
+   "question": "Where should fish motifs be designed, whether other motifs are placed or not placed?",
+   "premises": [
+    "Fish motifs are to be designed",
+    "This applies whether other elements are placed or not placed",
+    "The instruction applies everywhere"
+   ],
+   "inference": "One should design fish motifs everywhere, regardless of whether other motifs are placed or not.",
+   "uncertainties": [],
+   "plain_english": "Whether other motifs are placed or not, one should design fish motifs everywhere."
+  },
+  {
+   "verse": 3255,
+   "rows": [
+    {
+     "surface": "catuḥ+pañca+ṣaḍ+aṃśaṃ",
+     "gloss": "four-five-six-parts",
+     "grounds": "compound listing alternative divisions",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta+aṣṭāṃśam",
+     "gloss": "seven-eight-parts",
+     "grounds": "compound listing further alternative divisions",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "atha+api",
+     "gloss": "or-else",
+     "grounds": "compound particle introducing alternative",
+     "morph": "(indecl.) compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative part-divisions are permitted for the architectural member?",
+   "premises": [
+    "Divisions of four, five, or six parts are mentioned",
+    "Divisions of seven or eight parts are also mentioned",
+    "Disjunctive particles indicate alternatives"
+   ],
+   "inference": "The member may alternatively be divided into four, five, six, seven, or eight parts.",
+   "uncertainties": [],
+   "plain_english": "It may be divided into four, five, or six parts, or else into seven or eight parts."
+  },
+  {
+   "verse": 3256,
+   "rows": [
+    {
+     "surface": "parilopya",
+     "gloss": "having-divided",
+     "grounds": "absolutive indicating prior division",
+     "morph": "absolutive root parilup"
+    },
+    {
+     "surface": "vidhātavyam",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg gerundive root vidhā"
+    },
+    {
+     "surface": "ādya+ṅgam",
+     "gloss": "primary-member",
+     "grounds": "compound denoting the primary architectural member",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upapīṭhakam",
+     "gloss": "sub-base",
+     "grounds": "architectural sub-base member",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the primary member of the sub-base be constructed after division?",
+   "premises": [
+    "The material is first divided",
+    "The primary member must be made",
+    "This applies to the sub-base"
+   ],
+   "inference": "After dividing, one should construct the primary member of the sub-base.",
+   "uncertainties": [],
+   "plain_english": "Having divided it, one should make the primary member, namely the sub-base."
+  },
+  {
+   "verse": 3257,
+   "rows": [
+    {
+     "surface": "dvividhaṃ",
+     "gloss": "twofold",
+     "grounds": "indicates two kinds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb indicating present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching",
+     "morph": "n.nom.sg past-participle root pravac"
+    },
+    {
+     "surface": "pratyaṅgaṃ",
+     "gloss": "sub-member",
+     "grounds": "secondary architectural member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṭṭikā+ṅgakam",
+     "gloss": "fillet-member",
+     "grounds": "compound denoting fillet-type member",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "What two kinds of sub-members are declared for this architectural context?",
+   "premises": [
+    "The member is declared twofold here",
+    "One kind is the sub-member",
+    "Another kind is the fillet-member"
+   ],
+   "inference": "In this context, that member is declared twofold as the sub-member and the fillet-member.",
+   "uncertainties": [],
+   "plain_english": "Here that is declared to be twofold: the sub-member and the fillet-member."
+  },
+  {
+   "verse": 3258,
+   "rows": [
+    {
+     "surface": "jagaty",
+     "gloss": "base",
+     "grounds": "architectural base member jagatī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "aṣṭāṃśakena",
+     "gloss": "by-eight-parts",
+     "grounds": "instrumental indicating eight-part division",
+     "morph": "m.inst.sg compound"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "stated",
+     "grounds": "past participle indicating prescription",
+     "morph": "f.nom.sg past-participle root vac"
+    },
+    {
+     "surface": "kumudaṃ",
+     "gloss": "kumuda",
+     "grounds": "architectural moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat+samānakam",
+     "gloss": "equal-to-that",
+     "grounds": "compound indicating equality with that measure",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "What proportion is prescribed for the kumuda when the base is divided into eight parts?",
+   "premises": [
+    "The base is divided into eight parts",
+    "The kumuda is stated in this division",
+    "The kumuda is equal to that measure"
+   ],
+   "inference": "When the base is divided into eight parts, the kumuda is stated to be equal to that measure.",
+   "uncertainties": [
+    "The exact referent of tat in tat+samānakam is context-dependent"
+   ],
+   "plain_english": "When the base is divided into eight parts, the kumuda is stated to be equal to that."
+  },
+  {
+   "verse": 3259,
+   "rows": [
+    {
+     "surface": "karṇaḥ",
+     "gloss": "edge",
+     "grounds": "architectural edge or corner member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu+aṃśena",
+     "gloss": "by-one-part",
+     "grounds": "compound indicating one part measure",
+     "morph": "m.inst.sg compound"
+    },
+    {
+     "surface": "kampaṃ",
+     "gloss": "projection",
+     "grounds": "architectural projection member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root as"
+    },
+    {
+     "surface": "tryaṃśaṃ",
+     "gloss": "three-parts",
+     "grounds": "measure of three parts",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "vājanam",
+     "gloss": "vājana",
+     "grounds": "architectural vājana member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive indicating prescribed preference",
+     "morph": "3.sg.passive-present root iṣ"
+    }
+   ],
+   "question": "What measurements are specified for the edge, projection, and vājana members?",
+   "premises": [
+    "The edge is measured by one part",
+    "The projection is prescribed accordingly",
+    "The vājana is desired to be three parts"
+   ],
+   "inference": "The edge should be one part, the projection as specified, and the vājana is desired to be three parts.",
+   "uncertainties": [
+    "The syntactic link of kampaṃ syāt to the preceding measure is slightly compressed"
+   ],
+   "plain_english": "The edge should be one part, the projection as prescribed, and the vājana is desired to be three parts."
+  },
+  {
+   "verse": 3260,
+   "rows": [
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "lotus moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "by-one-part",
+     "grounds": "instrumental indicating one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg gerundive root kṛ"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates following previous rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.optative root ācar"
+    }
+   ],
+   "question": "How should the lotus and the remaining parts be executed according to prior instructions?",
+   "premises": [
+    "The lotus should be made with one part",
+    "A remainder is left after this",
+    "The remainder should be performed as before"
+   ],
+   "inference": "One should make the lotus with one part and perform the remainder as before.",
+   "uncertainties": [],
+   "plain_english": "The lotus should be made with one part, and one should perform the remainder as before."
+  },
+  {
+   "verse": 3261,
+   "rows": [
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "lotus moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "by-one-part",
+     "grounds": "instrumental indicating one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg gerundive root kṛ"
+    },
+    {
+     "surface": "kampam",
+     "gloss": "projection",
+     "grounds": "architectural projection member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśataḥ",
+     "gloss": "by-one-part",
+     "grounds": "ablative-like adverbial indicating one part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root bhū"
+    }
+   ],
+   "question": "What single-part measurements are assigned to the lotus and the projection?",
+   "premises": [
+    "The lotus should be made with one part",
+    "The projection is also specified",
+    "The projection should be one part"
+   ],
+   "inference": "The lotus should be made with one part and the projection should also be one part.",
+   "uncertainties": [],
+   "plain_english": "The lotus should be made with one part, and the projection should be one part."
+  },
+  {
+   "verse": 3262,
+   "rows": [
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "lotus moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśataḥ",
+     "gloss": "by-one-part",
+     "grounds": "adverbial indicating one part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "should-be-known",
+     "grounds": "gerundive indicating prescription",
+     "morph": "n.nom.sg gerundive root jñā"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vājana",
+     "grounds": "architectural vājana member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃśam",
+     "gloss": "two-parts",
+     "grounds": "measure of two parts",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive indicating prescribed preference",
+     "morph": "3.sg.passive-present root iṣ"
+    }
+   ],
+   "question": "What proportions are required for the lotus and the vājana members?",
+   "premises": [
+    "The lotus should be known as one part",
+    "The vājana is specified separately",
+    "The vājana is desired to be two parts"
+   ],
+   "inference": "The lotus should be one part and the vājana is desired to be two parts.",
+   "uncertainties": [],
+   "plain_english": "The lotus should be known as one part, and the vājana is desired to be two parts."
+  },
+  {
+   "verse": 3263,
+   "rows": [
+    {
+     "surface": "pañcāṃśā",
+     "gloss": "five-parts",
+     "grounds": "compound indicating five-part division",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "jagatī",
+     "gloss": "base",
+     "grounds": "architectural base member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching",
+     "morph": "f.nom.sg past-participle root pravac"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "lotus moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśataḥ",
+     "gloss": "by-one-part",
+     "grounds": "adverbial indicating one part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root bhū"
+    }
+   ],
+   "question": "How is a five-part base configured together with a one-part lotus?",
+   "premises": [
+    "The base is declared to be five parts",
+    "A lotus member is included",
+    "The lotus should be one part"
+   ],
+   "inference": "The base is declared as five parts and the lotus should be one part.",
+   "uncertainties": [],
+   "plain_english": "The base is declared to be five parts, and the lotus should be one part."
+  },
+  {
+   "verse": 3264,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prākvat",
+     "gloss": "as-before",
+     "grounds": "indicates following previous rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddiṣṭaṃ",
+     "gloss": "stated",
+     "grounds": "past participle indicating specification",
+     "morph": "n.nom.sg past-participle root samuddiś"
+    },
+    {
+     "surface": "kampa+stambha+udaya",
+     "gloss": "projection-pillar-height",
+     "grounds": "compound referring to height of projection and pillar",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "āśritam",
+     "gloss": "dependent-on",
+     "grounds": "past participle indicating dependence",
+     "morph": "n.nom.sg past-participle root āśri"
+    }
+   ],
+   "question": "On what does the remainder depend, as stated according to prior instructions?",
+   "premises": [
+    "The remainder is stated as before",
+    "The remainder is dependent on something",
+    "It depends on the height of the projection and pillar"
+   ],
+   "inference": "The remainder, as stated before, is dependent on the height of the projection and pillar.",
+   "uncertainties": [],
+   "plain_english": "The remainder, as stated before, is dependent on the height of the projection and pillar."
+  },
+  {
+   "verse": 3265,
+   "rows": [
+    {
+     "surface": "kampam",
+     "gloss": "projection",
+     "grounds": "architectural projection member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśataḥ",
+     "gloss": "by-one-part",
+     "grounds": "adverbial indicating one part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "should-be-known",
+     "grounds": "gerundive indicating prescription",
+     "morph": "n.nom.sg gerundive root jñā"
+    },
+    {
+     "surface": "ṣaḍaṃśaṃ",
+     "gloss": "six-parts",
+     "grounds": "measure of six parts",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "jagatīḥ",
+     "gloss": "base",
+     "grounds": "architectural base member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root bhū"
+    }
+   ],
+   "question": "What measurements define the projection and a six-part base in this configuration?",
+   "premises": [
+    "The projection should be known as one part",
+    "The base is specified as six parts",
+    "Both measures are prescribed together"
+   ],
+   "inference": "The projection should be one part and the base should be six parts.",
+   "uncertainties": [],
+   "plain_english": "The projection should be known as one part, and the base should be six parts."
+  },
+  {
+   "verse": 3266,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-parts",
+     "grounds": "measure of three parts",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "kumudaṃ",
+     "gloss": "kumuda",
+     "grounds": "architectural moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "lotus moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "measure of one part",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching",
+     "morph": "n.nom.sg past-participle root parikīrt"
+    }
+   ],
+   "question": "What proportions are declared for the kumuda and the lotus members?",
+   "premises": [
+    "The kumuda is assigned a measure",
+    "The lotus is assigned a measure",
+    "The kumuda is three parts and the lotus one part"
+   ],
+   "inference": "The kumuda is declared to be three parts and the lotus one part.",
+   "uncertainties": [],
+   "plain_english": "The kumuda is declared to be three parts and the lotus one part."
+  },
+  {
+   "verse": 3267,
+   "rows": [
+    {
+     "surface": "dalam",
+     "gloss": "petal",
+     "grounds": "petal or leaf-like moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "by-one-part",
+     "grounds": "instrumental indicating one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg gerundive root kṛ"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vājana",
+     "grounds": "architectural vājana member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃśam",
+     "gloss": "two-parts",
+     "grounds": "measure of two parts",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "stated",
+     "grounds": "past participle indicating specification",
+     "morph": "n.nom.sg past-participle root īr"
+    }
+   ],
+   "question": "What measurements are stated for the petal and the vājana members?",
+   "premises": [
+    "The petal should be made with one part",
+    "The vājana is specified separately",
+    "The vājana is stated to be two parts"
+   ],
+   "inference": "The petal should be made with one part and the vājana is stated to be two parts.",
+   "uncertainties": [],
+   "plain_english": "The petal should be made with one part, and the vājana is stated to be two parts."
+  },
+  {
+   "verse": 3268,
+   "rows": [
+    {
+     "surface": "ekabhāgena",
+     "gloss": "by-one-part",
+     "grounds": "instrumental indicating one part",
+     "morph": "m.inst.sg compound"
+    },
+    {
+     "surface": "janma",
+     "gloss": "base-moulding",
+     "grounds": "architectural base moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root as"
+    },
+    {
+     "surface": "pañcāṃśā",
+     "gloss": "five-parts",
+     "grounds": "measure of five parts",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "jagatīḥ",
+     "gloss": "base",
+     "grounds": "architectural base member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root bhū"
+    }
+   ],
+   "question": "How are the base-moulding and a five-part base proportioned in this scheme?",
+   "premises": [
+    "The base-moulding should be one part",
+    "The base is specified separately",
+    "The base should be five parts"
+   ],
+   "inference": "The base-moulding should be one part and the base should be five parts.",
+   "uncertainties": [],
+   "plain_english": "The base-moulding should be one part, and the base should be five parts."
+  },
+  {
+   "verse": 3269,
+   "rows": [
+    {
+     "surface": "ārtā+adhiṣṭhāna+tuṅgena",
+     "gloss": "by-base-height",
+     "grounds": "compound indicating height of the base; initial element uncertain",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "dviguṇā+pāta+tuṅgatā",
+     "gloss": "double-projection-height",
+     "grounds": "compound indicating projection height is double",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "How is the projection height determined in relation to the base height?",
+   "premises": [
+    "The base height is taken as the reference",
+    "The projection height is specified as double",
+    "A proportional relationship is established"
+   ],
+   "inference": "The projection height should be double the base height.",
+   "uncertainties": [
+    "The reading and meaning of ārtā in ārtā+adhiṣṭhāna+tuṅgena is uncertain"
+   ],
+   "plain_english": "The projection height should be double the height of the base."
+  },
+  {
+   "verse": 3270,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "measure of one part",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "jalajaṃ",
+     "gloss": "lotus",
+     "grounds": "lotus moulding member, literally water-born",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching",
+     "morph": "n.nom.sg past-participle root pravac"
+    },
+    {
+     "surface": "galam",
+     "gloss": "neck",
+     "grounds": "architectural neck member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ardhāṃśataḥ",
+     "gloss": "by-half-part",
+     "grounds": "adverbial indicating half a part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root bhū"
+    }
+   ],
+   "question": "What proportions are prescribed for the lotus and the neck members?",
+   "premises": [
+    "The lotus is declared to be one part",
+    "The neck is specified separately",
+    "The neck should be half a part"
+   ],
+   "inference": "The lotus is declared to be one part and the neck should be half a part.",
+   "uncertainties": [],
+   "plain_english": "The lotus is declared to be one part, and the neck should be half a part."
+  },
+  {
+   "verse": 3271,
+   "rows": [
+    {
+     "surface": "ardhena",
+     "gloss": "by-half",
+     "grounds": "instrumental indicating half a part",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "lotus moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ardhena",
+     "gloss": "by-half",
+     "grounds": "instrumental indicating half a part",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kampaṃ",
+     "gloss": "projection",
+     "grounds": "architectural projection member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyardhāṃśakaiḥ",
+     "gloss": "by-two-and-half-parts",
+     "grounds": "instrumental indicating two and a half parts",
+     "morph": "m.inst.pl compound"
+    },
+    {
+     "surface": "galam",
+     "gloss": "neck",
+     "grounds": "architectural neck member",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fractional measurements define the lotus, projection, and neck members?",
+   "premises": [
+    "The lotus is measured by half a part",
+    "The projection is measured by half a part",
+    "The neck is measured by two and a half parts"
+   ],
+   "inference": "The lotus and projection should each be half a part, and the neck two and a half parts.",
+   "uncertainties": [],
+   "plain_english": "The lotus should be half a part, the projection half a part, and the neck two and a half parts."
+  },
+  {
+   "verse": 3272,
+   "rows": [
+    {
+     "surface": "ṣaḍaṃśā",
+     "gloss": "six-parts",
+     "grounds": "measure of six parts",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "jagatī",
+     "gloss": "base",
+     "grounds": "architectural base member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "veda+bhāgaṃ",
+     "gloss": "four-parts",
+     "grounds": "compound using veda to denote four parts",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumudaṃ",
+     "gloss": "kumuda",
+     "grounds": "architectural moulding member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative root bhū"
+    }
+   ],
+   "question": "How should a six-part base and a four-part kumuda be arranged?",
+   "premises": [
+    "The base is specified as six parts",
+    "The kumuda is specified as four parts",
+    "Both are prescribed together"
+   ],
+   "inference": "The base should be six parts and the kumuda should be four parts.",
+   "uncertainties": [],
+   "plain_english": "The base should be six parts, and the kumuda should be four parts."
+  },
+  {
+   "verse": 3273,
+   "rows": [
+    {
+     "surface": "kampam",
+     "gloss": "projection",
+     "grounds": "architectural projection member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "instrumental indicating one part",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg gerundive root kṛ"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vājana",
+     "grounds": "architectural vājana member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃśam",
+     "gloss": "two-parts",
+     "grounds": "measure of two parts",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive indicating prescribed preference",
+     "morph": "3.sg.passive-present root iṣ"
+    }
+   ],
+   "question": "What measurements are required for the projection and the vājana members?",
+   "premises": [
+    "The projection should be made with one part",
+    "The vājana is specified separately",
+    "The vājana is desired to be two parts"
+   ],
+   "inference": "The projection should be made with one part and the vājana is desired to be two parts.",
+   "uncertainties": [],
+   "plain_english": "The projection should be made with one part, and the vājana is desired to be two parts."
+  },
+  {
+   "verse": 3274,
+   "rows": [
+    {
+     "surface": "ṣaḍviṃśati+aṃśakaṃ",
+     "gloss": "twenty-six-parts",
+     "grounds": "compound indicating division into twenty-six parts",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching",
+     "morph": "n.acc.sg past-participle root pravac"
+    },
+    {
+     "surface": "sarvasmin",
+     "gloss": "in-every",
+     "grounds": "locative indicating universal scope",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhāmni",
+     "gloss": "building",
+     "grounds": "architectural structure or shrine",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-apply",
+     "grounds": "optative prescribing application",
+     "morph": "3.sg.optative root yuj"
+    }
+   ],
+   "question": "How should the twenty-six-part division be applied across every building?",
+   "premises": [
+    "A twenty-six-part division is declared",
+    "The instruction applies to every building",
+    "One should apply this division"
+   ],
+   "inference": "One should apply the declared twenty-six-part division in every building.",
+   "uncertainties": [],
+   "plain_english": "One should apply the declared twenty-six-part division in every building."
+  }
+ ]
+}

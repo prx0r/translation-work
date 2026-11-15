@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p158",
+ "items": [
+  {
+   "verse": 3950,
+   "rows": [
+    {
+     "surface": "āyāma+vyāsa+nāha+āḍhyā",
+     "gloss": "endowed-with-length-breadth-depth",
+     "grounds": "bahuvrīhi compound: āyāma (length), vyāsa (breadth), nāha (depth), āḍhyā (endowed-with)",
+     "morph": "compound+f.nom.pl"
+    },
+    {
+     "surface": "raktāḥ",
+     "gloss": "red",
+     "grounds": "color quality of the collected materials",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "pītāḥ",
+     "gloss": "yellow",
+     "grounds": "color quality of the collected materials",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "sitāḥ",
+     "gloss": "white",
+     "grounds": "color quality of the collected materials",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "asitāḥ",
+     "gloss": "black",
+     "grounds": "color quality of the collected materials",
+     "morph": "adj.f.nom.pl"
+    }
+   ],
+   "question": "What physical dimensions and colors qualify materials collected for the liṅga?",
+   "premises": [
+    "Suitable materials are endowed with length, breadth, and depth.",
+    "Suitable materials may be red in color.",
+    "Suitable materials may be yellow, white, or black in color."
+   ],
+   "inference": "Materials collected for the liṅga must possess proper dimensions and may be red, yellow, white, or black.",
+   "uncertainties": [
+    "The exact referent of the feminine plural adjectives depends on the preceding context of collected materials."
+   ],
+   "plain_english": "They should be endowed with length, breadth, and depth, and may be red, yellow, white, or black."
+  }
+ ]
+}

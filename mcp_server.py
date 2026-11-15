@@ -168,10 +168,6 @@ def audit_align(work: str = "", all: bool = False) -> dict:
     cmd = ["tools/audit_align.py", "--json"]
     if work:
         cmd += ["--work", work]
-    elif all:
-        pass
-    else:
-        return {"error": "pass work='W' or all=true"}
     return _run(cmd, timeout=3600)
 
 
@@ -491,7 +487,7 @@ def concepts(term: str, top: int = 5) -> dict:
 def recycle(dry_run: bool = False) -> dict:
     """Halve + requeue retryable failed triples (the failure recycler).
     Safe: one generation only (rc2- ids), skips covered ranges."""
-    return _run(["--", "recycle_failed.py"] + (["--dry"] if dry_run else []))
+    return _run(["tools/recycle_failed.py"] + (["--dry"] if dry_run else []))
 
 
 @mcp.tool()
@@ -514,7 +510,7 @@ def queue_guard(fix: bool = False) -> dict:
     MUST run this (or the guarded seeder) before adding tasks: enforces
     unique ids and non-overlapping tal_triple verse ranges per song.
     fix=true marks overlapping pending/claimed rows 'superseded'."""
-    return _run(["--", "queue_guard.py"] + (["--fix"] if fix else []))
+    return _run(["tools/queue_guard.py"] + (["--fix"] if fix else []))
 
 
 @mcp.tool()

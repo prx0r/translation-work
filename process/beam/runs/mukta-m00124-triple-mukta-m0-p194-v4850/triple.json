@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p194",
+ "items": [
+  {
+   "verse": 4850,
+   "rows": [
+    {
+     "surface": "nāgara+āḍīśa+deśe",
+     "gloss": "in-nāgara-āḍīśa-region",
+     "grounds": "locative compound indicating the region associated with Nāgara and Āḍīśa",
+     "morph": "compound: nāgara+āḍīśa+deśa; loc.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed placement",
+     "morph": "3.sg.optative-active; √as"
+    },
+    {
+     "surface": "agastyaḥ",
+     "gloss": "agastya",
+     "grounds": "name of the sage placed in this region",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates placement in the same manner as previously stated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "additional connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which directional region is Agastya likewise to be situated?",
+   "premises": [
+    "The preceding verses prescribe specific placements and orientations for figures.",
+    "This verse names Agastya as the figure to be placed.",
+    "The term tathaiva indicates that Agastya's placement follows the same manner as before."
+   ],
+   "inference": "Agastya should likewise be situated in the Nāgara-Āḍīśa region.",
+   "uncertainties": [
+    "The precise directional identification of the Nāgara-Āḍīśa region depends on the ritual layout assumed in context."
+   ],
+   "plain_english": "And Agastya should likewise be placed in the region of Nāgara and Āḍīśa."
+  }
+ ]
+}

@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p127",
  "verse": 3165,
- "question": "What additional martial and musical objects are to be depicted?",
+ "question": "What proportional widths are prescribed for the pavilion of the temple?",
  "premises": [
-  "Specific instruments and weapons are included.",
-  "They are marked or associated with a vajra."
+  "The pavilion width is measured relative to the temple.",
+  "Possible proportions are one ninth, one eighth, or one tenth.",
+  "These define the pavilion width."
  ],
- "inference": "The depiction includes sharp weapons marked with a vajra and various drums.",
- "uncertainties": [
-  "The internal segmentation and exact sense of vajra+ālikhita+niśāna within the compound is interpretive."
- ],
- "plain_english": "Sharp weapons marked with a vajra, kettledrums, paṇava drums, and marddala drums."
+ "inference": "The pavilion width should be one ninth, one eighth, or one tenth of the temple.",
+ "uncertainties": [],
+ "plain_english": "The pavilion width should be a ninth, an eighth, or a tenth of the temple."
 }

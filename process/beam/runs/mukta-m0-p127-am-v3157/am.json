@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p127",
  "verse": 3157,
- "question": "Which meditation method is invoked for the following effects?",
+ "question": "How is the source category determined from even cubit measures?",
  "premises": [
-  "A meditation method was described earlier.",
-  "That method applies to subsequent results."
+  "Even cubit measures are used.",
+  "Values born from vowels are applied.",
+  "Division by threes yields the source."
  ],
- "inference": "The following effects follow the previously stated meditation method.",
- "uncertainties": [],
- "plain_english": "By the previously stated method of meditation."
+ "inference": "Using even cubits and vowel-derived values divided by three determines the source.",
+ "uncertainties": [
+  "svara+udbhūtaiḥ interpreted as vowel-born numerical values"
+ ],
+ "plain_english": "By even cubits and vowel-born values divided by three, the source is determined."
 }

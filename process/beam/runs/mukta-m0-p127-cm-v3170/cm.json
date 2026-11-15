@@ -3,29 +3,34 @@
  "verse": 3170,
  "rows": [
   {
-   "lemma": "atas",
+   "lemma": "bhitti+anta+sthaṃ",
+   "morph": "n.nom.sg (compound: bhitti+anta+stha)",
+   "grounds": "located within the wall"
+  },
+  {
+   "lemma": "pramāṇaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "measurement reference"
+  },
+  {
+   "lemma": "syāt",
+   "morph": "3.sg.optative-active (√as)",
+   "grounds": "prescriptive rule"
+  },
+  {
+   "lemma": "bhitti+bāhye",
+   "morph": "n.loc.sg (compound: bhitti+bāhya)",
+   "grounds": "outside the wall"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "transition"
+   "grounds": "contrast"
   },
   {
-   "lemma": "tat",
-   "morph": "n.acc.sg",
-   "grounds": "topic to be heard"
-  },
-  {
-   "lemma": "śṛṇu",
-   "morph": "2.sg.imp.act (śru)",
-   "grounds": "imperative to addressee"
-  },
-  {
-   "lemma": "vakṣyāmi",
-   "morph": "1.sg.fut.act (vac)",
-   "grounds": "speaker's intent"
-  },
-  {
-   "lemma": "sarva+abhīṣṭa+abhikārakāḥ",
-   "morph": "compound: sarva+abhīṣṭa+abhikāraka (f.acc.pl)",
-   "grounds": "quality of what will be told"
+   "lemma": "abāhyataḥ",
+   "morph": "(indecl.)",
+   "grounds": "not from the outermost side"
   }
  ]
 }

@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3151,
+   "rows": [
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "object of doubling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "multiplied by two",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive action",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "vasubhiḥ",
+     "gloss": "by-eights",
+     "grounds": "divisor",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "when-divided",
+     "grounds": "condition of division",
+     "morph": "m.loc.sg (past-participle, √bhaj)"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute marker",
+     "morph": "m.loc.sg (present-participle, √as)"
+    }
+   ],
+   "question": "How must the temple width be adjusted and divided to initiate the calculation?",
+   "premises": [
+    "The width is doubled.",
+    "The doubled width is divided by eight.",
+    "This division establishes the initial measure."
+   ],
+   "inference": "Doubling the width and dividing by eight yields the base value for subsequent calculations.",
+   "uncertainties": [],
+   "plain_english": "Having doubled the width and divided it by eight, the calculation begins."
+  },
+  {
+   "verse": 3152,
+   "rows": [
+    {
+     "surface": "udaye",
+     "gloss": "in-rising",
+     "grounds": "context of rising measure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vasubhiḥ",
+     "gloss": "by-eights",
+     "grounds": "first divisor",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saptaviṃśadbhiḥ",
+     "gloss": "by-twenty-seven",
+     "grounds": "second divisor",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "bhā",
+     "gloss": "star",
+     "grounds": "lunar mansion result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this system",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "is-stated",
+     "grounds": "declared result",
+     "morph": "n.nom.sg (past-participle, √vad)"
+    }
+   ],
+   "question": "Which divisors determine the star value in the rising calculation?",
+   "premises": [
+    "The calculation concerns the rising measure.",
+    "Division is performed by eight and by twenty-seven.",
+    "The resulting value is identified as the star."
+   ],
+   "inference": "Dividing by eight and twenty-seven in the rising measure yields the star.",
+   "uncertainties": [],
+   "plain_english": "In the rising measure, dividing by eight and by twenty-seven gives the star, as stated here."
+  },
+  {
+   "verse": 3153,
+   "rows": [
+    {
+     "surface": "sakalaṃ",
+     "gloss": "whole",
+     "grounds": "entire measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "threefold",
+     "grounds": "multiplied by three",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive action",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "triṃśadbhiḥ",
+     "gloss": "by-thirty",
+     "grounds": "divisor",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "bhājitā",
+     "gloss": "divided",
+     "grounds": "result of division",
+     "morph": "f.nom.sg (past-participle, √bhaj)"
+    },
+    {
+     "surface": "tithiḥ",
+     "gloss": "lunar-day",
+     "grounds": "calculated result",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the lunar day derived from the whole measure?",
+   "premises": [
+    "The whole measure is tripled.",
+    "The tripled measure is divided by thirty.",
+    "The result is the lunar day."
+   ],
+   "inference": "Tripling the whole measure and dividing by thirty yields the lunar day.",
+   "uncertainties": [],
+   "plain_english": "Having tripled the whole measure and divided it by thirty, one obtains the lunar day."
+  },
+  {
+   "verse": 3154,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udayaṃ",
+     "gloss": "rising",
+     "grounds": "measure taken again",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nanda+vasubhiḥ",
+     "gloss": "by-nine-eights",
+     "grounds": "divisor compound meaning seventy-two",
+     "morph": "m.inst.pl (compound: nanda+vasu)"
+    },
+    {
+     "surface": "vyayaḥ",
+     "gloss": "expenditure",
+     "grounds": "calculated result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.passive-present (√vac)"
+    }
+   ],
+   "question": "What divisor produces the expenditure value from the rising measure?",
+   "premises": [
+    "The rising measure is taken again.",
+    "It is divided by nine and eight together.",
+    "The result is called expenditure."
+   ],
+   "inference": "Dividing the rising measure by seventy-two yields the expenditure.",
+   "uncertainties": [
+    "nanda+vasubhiḥ interpreted as 9 and 8 indicating 72"
+   ],
+   "plain_english": "Again taking the rising measure and dividing it by seventy-two, the result is called the expenditure."
+  },
+  {
+   "verse": 3155,
+   "rows": [
+    {
+     "surface": "parikṣya",
+     "gloss": "having-examined",
+     "grounds": "prior assessment",
+     "morph": "gerund (√īkṣ with pari)"
+    },
+    {
+     "surface": "āya+ādi+ṣaṭkaṃ",
+     "gloss": "income-etc-sixfold",
+     "grounds": "six factors beginning with income",
+     "morph": "n.acc.sg (compound: āya+ādi+ṣaṭka)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "temple",
+     "grounds": "object to be designed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active (√kḷp with pari)"
+    }
+   ],
+   "question": "What preliminary assessment must precede the design of a temple?",
+   "premises": [
+    "The sixfold set beginning with income must be examined.",
+    "This examination is a prerequisite.",
+    "The temple is then to be designed."
+   ],
+   "inference": "One should design the temple only after examining the six factors beginning with income.",
+   "uncertainties": [],
+   "plain_english": "Having examined the six factors beginning with income, one should then design the temple."
+  },
+  {
+   "verse": 3156,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "following prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇitaṃ",
+     "gloss": "multiplied",
+     "grounds": "processed by multiplication",
+     "morph": "n.acc.sg (past-participle, √guṇ)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive action",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "division",
+     "grounds": "resulting part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "star",
+     "grounds": "stellar factor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+samam",
+     "gloss": "equal-to-that",
+     "grounds": "equivalence to prior result",
+     "morph": "n.acc.sg (compound: tad+sama)"
+    }
+   ],
+   "question": "How should the division and star be made equal in this calculation?",
+   "premises": [
+    "The measure is multiplied as before.",
+    "The division and the star are considered.",
+    "They are made equal to that prior result."
+   ],
+   "inference": "Multiplying as before, one should make the division and star equal to the established measure.",
+   "uncertainties": [],
+   "plain_english": "Having multiplied as before, one should make the division and the star equal to that."
+  },
+  {
+   "verse": 3157,
+   "rows": [
+    {
+     "surface": "yugma+hastaiḥ",
+     "gloss": "by-even-cubits",
+     "grounds": "measure in even cubits",
+     "morph": "m.inst.pl (compound: yugma+hasta)"
+    },
+    {
+     "surface": "svara+udbhūtaiḥ",
+     "gloss": "by-vowel-born",
+     "grounds": "derived from vowels",
+     "morph": "m.inst.pl (compound: svara+udbhūta)"
+    },
+    {
+     "surface": "śikhibhiḥ",
+     "gloss": "by-threes",
+     "grounds": "divisor three",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "source",
+     "grounds": "calculated category",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.passive-present (√vac)"
+    }
+   ],
+   "question": "How is the source category determined from even cubit measures?",
+   "premises": [
+    "Even cubit measures are used.",
+    "Values born from vowels are applied.",
+    "Division by threes yields the source."
+   ],
+   "inference": "Using even cubits and vowel-derived values divided by three determines the source.",
+   "uncertainties": [
+    "svara+udbhūtaiḥ interpreted as vowel-born numerical values"
+   ],
+   "plain_english": "By even cubits and vowel-born values divided by three, the source is determined."
+  },
+  {
+   "verse": 3158,
+   "rows": [
+    {
+     "surface": "triṃśat+bhaktaṃ",
+     "gloss": "by-thirty-divided",
+     "grounds": "divided by thirty",
+     "morph": "n.nom.sg (compound: triṃśat+bhakta)"
+    },
+    {
+     "surface": "tithiḥ",
+     "gloss": "lunar-day",
+     "grounds": "resulting category",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative-active (√as)"
+    },
+    {
+     "surface": "gṛha+dina+tithi+yogā+ādayaḥ",
+     "gloss": "house-day-lunar-day-conjunctions-etc",
+     "grounds": "list of categories",
+     "morph": "m.nom.pl (compound: gṛha+dina+tithi+yoga+ādi)"
+    },
+    {
+     "surface": "yoni+bhedāḥ",
+     "gloss": "source-varieties",
+     "grounds": "types of source",
+     "morph": "m.nom.pl (compound: yoni+bheda)"
+    }
+   ],
+   "question": "What categories are included among the varieties of the source?",
+   "premises": [
+    "Division by thirty yields the lunar day.",
+    "House, day, lunar day, and conjunctions are listed.",
+    "These constitute varieties of the source."
+   ],
+   "inference": "The lunar day and related categories such as house, day, and conjunctions are varieties of the source.",
+   "uncertainties": [],
+   "plain_english": "Divided by thirty it becomes the lunar day; house, day, lunar day, conjunctions, and so on are varieties of the source."
+  },
+  {
+   "verse": 3159,
+   "rows": [
+    {
+     "surface": "āyam",
+     "gloss": "income",
+     "grounds": "first factor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anyatara+yoni+ṛkṣakaṃ",
+     "gloss": "another-source-constellation",
+     "grounds": "alternative source and star",
+     "morph": "n.acc.sg (compound: anyatara+yoni+ṛkṣaka)"
+    },
+    {
+     "surface": "vāram",
+     "gloss": "weekday",
+     "grounds": "day factor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṃśaka+guṇa+kṣaya+kramāt",
+     "gloss": "part-multiplication-diminution-sequence",
+     "grounds": "procedural sequence",
+     "morph": "m.abl.sg (compound: aṃśaka+guṇa+kṣaya+krama)"
+    }
+   ],
+   "question": "By what sequential procedure are income, source, constellation, and weekday derived?",
+   "premises": [
+    "Income is to be determined.",
+    "Another source, constellation, and weekday are included.",
+    "They follow the sequence of part, multiplication, and diminution."
+   ],
+   "inference": "Income, source, constellation, and weekday are derived through the sequence of part, multiplication, and diminution.",
+   "uncertainties": [
+    "syntactic connection to a main verb is implicit from context"
+   ],
+   "plain_english": "Income, another source and constellation, and the weekday are derived by the sequence of part, multiplication, and diminution."
+  },
+  {
+   "verse": 3160,
+   "rows": [
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "the stated method",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "application to liṅga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakale",
+     "gloss": "in-image",
+     "grounds": "application to complete image",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvāre",
+     "gloss": "in-door",
+     "grounds": "application to doorway",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "stambha+ādike",
+     "gloss": "in-pillar-etc",
+     "grounds": "application to pillar and others",
+     "morph": "n.loc.sg (compound: stambha+ādika)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "is-considered",
+     "grounds": "accepted application",
+     "morph": "n.nom.sg (past-participle, √man)"
+    }
+   ],
+   "question": "To which architectural and ritual elements does this calculation method apply?",
+   "premises": [
+    "The method is stated as applicable.",
+    "It applies to the liṅga and the complete image.",
+    "It applies to the door, pillar, and similar elements."
+   ],
+   "inference": "This method is considered applicable to the liṅga, image, door, pillar, and related elements.",
+   "uncertainties": [],
+   "plain_english": "This is considered applicable to the liṅga, the image, the door, the pillar, and so forth."
+  },
+  {
+   "verse": 3161,
+   "rows": [
+    {
+     "surface": "parivāra+ālaye",
+     "gloss": "in-attendant-shrine",
+     "grounds": "subsidiary shrine",
+     "morph": "m.loc.sg (compound: parivāra+ālaya)"
+    },
+    {
+     "surface": "tuṅga+harmye",
+     "gloss": "in-tall-mansion",
+     "grounds": "elevated structure",
+     "morph": "n.loc.sg (compound: tuṅga+harmya)"
+    },
+    {
+     "surface": "anyasmin",
+     "gloss": "in-another",
+     "grounds": "other structures",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-apply",
+     "grounds": "prescriptive application",
+     "morph": "3.sg.optative-active (√kḷp with pra)"
+    }
+   ],
+   "question": "Where else should this design method be applied beyond the main elements?",
+   "premises": [
+    "The method extends to other structures.",
+    "Attendant shrines and tall mansions are included.",
+    "Application is prescribed for these as well."
+   ],
+   "inference": "One should apply this method also to attendant shrines, tall mansions, and other structures.",
+   "uncertainties": [],
+   "plain_english": "One should apply it also in attendant shrines, tall mansions, and other structures."
+  },
+  {
+   "verse": 3162,
+   "rows": [
+    {
+     "surface": "tri+aśa+eka+aṃśaḥ",
+     "gloss": "three-one-part",
+     "grounds": "one part out of three",
+     "morph": "m.nom.sg (compound: tri+aśa+eka+aṃśa)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive measure",
+     "morph": "3.sg.optative-active (√bhū)"
+    },
+    {
+     "surface": "garbhaḥ",
+     "gloss": "sanctum",
+     "grounds": "inner chamber",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcāṃśāt",
+     "gloss": "from-five-parts",
+     "grounds": "division into five",
+     "morph": "m.abl.sg (compound: pañca+aṃśa)"
+    },
+    {
+     "surface": "tri+aṃśam",
+     "gloss": "three-parts",
+     "grounds": "three parts measure",
+     "morph": "n.nom.sg (compound: tri+aṃśa)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional measures are prescribed for the sanctum relative to the whole?",
+   "premises": [
+    "The sanctum may be one third of the whole.",
+    "Alternatively it may be three fifths.",
+    "Both proportions are permitted."
+   ],
+   "inference": "The sanctum should measure either one third or three fifths of the whole.",
+   "uncertainties": [],
+   "plain_english": "The sanctum should be one third, or else three parts out of five."
+  },
+  {
+   "verse": 3163,
+   "rows": [
+    {
+     "surface": "rudra+bhāge",
+     "gloss": "in-eleven-parts",
+     "grounds": "division into eleven",
+     "morph": "m.loc.sg (compound: rudra+bhāga)"
+    },
+    {
+     "surface": "ṣaḍ+aṃśaḥ",
+     "gloss": "sixth-part",
+     "grounds": "six parts measure",
+     "morph": "m.nom.sg (compound: ṣaṣ+aṃśa)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive measure",
+     "morph": "3.sg.optative-active (√as)"
+    },
+    {
+     "surface": "viśva+aṃśe",
+     "gloss": "in-thirteen-parts",
+     "grounds": "division into thirteen",
+     "morph": "m.loc.sg (compound: viśva+aṃśa)"
+    },
+    {
+     "surface": "sapta+bhāgakaḥ",
+     "gloss": "seventh-part",
+     "grounds": "seven parts measure",
+     "morph": "m.nom.sg (compound: sapta+bhāgaka)"
+    }
+   ],
+   "question": "What sanctum proportions are specified for eleven-part and thirteen-part divisions?",
+   "premises": [
+    "When divided into eleven parts, six parts are assigned.",
+    "When divided into thirteen parts, seven parts are assigned.",
+    "These are prescribed sanctum measures."
+   ],
+   "inference": "The sanctum should be six elevenths or seven thirteenths depending on the division.",
+   "uncertainties": [],
+   "plain_english": "In an eleven-part division it should be six parts, and in a thirteen-part division seven parts."
+  },
+  {
+   "verse": 3164,
+   "rows": [
+    {
+     "surface": "vistāra+ardha+pramāṇaṃ",
+     "gloss": "width-half-measure",
+     "grounds": "half of the width",
+     "morph": "n.nom.sg (compound: vistāra+ardha+pramāṇa)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbha+vistāraḥ",
+     "gloss": "sanctum-width",
+     "grounds": "width of sanctum",
+     "morph": "m.nom.sg (compound: garbha+vistāra)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "prescribed preference",
+     "morph": "3.sg.passive-present (√iṣ)"
+    }
+   ],
+   "question": "What alternative width is recommended for the sanctum?",
+   "premises": [
+    "The sanctum width is under consideration.",
+    "Half the total width is proposed.",
+    "This measure is desired."
+   ],
+   "inference": "The sanctum width is desired to be half the total width.",
+   "uncertainties": [],
+   "plain_english": "But the sanctum width is desired to be half the total width."
+  },
+  {
+   "verse": 3165,
+   "rows": [
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-temple",
+     "grounds": "whole temple measure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nava+aṣṭa+aṃśaḥ",
+     "gloss": "ninth-or-eighth-part",
+     "grounds": "one ninth or one eighth",
+     "morph": "m.nom.sg (compound: nava+aṣṭa+aṃśa)"
+    },
+    {
+     "surface": "daśa+aṃśaḥ",
+     "gloss": "tenth-part",
+     "grounds": "one tenth",
+     "morph": "m.nom.sg (compound: daśa+aṃśa)"
+    },
+    {
+     "surface": "kūṭa+vistaraḥ",
+     "gloss": "pavilion-width",
+     "grounds": "width of pavilion",
+     "morph": "m.nom.sg (compound: kūṭa+vistara)"
+    }
+   ],
+   "question": "What proportional widths are prescribed for the pavilion of the temple?",
+   "premises": [
+    "The pavilion width is measured relative to the temple.",
+    "Possible proportions are one ninth, one eighth, or one tenth.",
+    "These define the pavilion width."
+   ],
+   "inference": "The pavilion width should be one ninth, one eighth, or one tenth of the temple.",
+   "uncertainties": [],
+   "plain_english": "The pavilion width should be a ninth, an eighth, or a tenth of the temple."
+  },
+  {
+   "verse": 3166,
+   "rows": [
+    {
+     "surface": "pañjaraḥ",
+     "gloss": "cage-turret",
+     "grounds": "architectural element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardha+bhāgaḥ",
+     "gloss": "half-part",
+     "grounds": "one half measure",
+     "morph": "m.nom.sg (compound: ardha+bhāga)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+pādaḥ",
+     "gloss": "three-quarters",
+     "grounds": "three fourths measure",
+     "morph": "m.nom.sg (compound: tri+pāda)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "else",
+     "grounds": "further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgikaḥ",
+     "gloss": "one-part",
+     "grounds": "one full part",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What alternative proportions are allowed for the cage-turret element?",
+   "premises": [
+    "The cage-turret is being measured.",
+    "It may be half, three quarters, or one full part.",
+    "These are alternative options."
+   ],
+   "inference": "The cage-turret may measure half, three quarters, or one full part.",
+   "uncertainties": [],
+   "plain_english": "The cage-turret may be half, or three quarters, or else one full part."
+  },
+  {
+   "verse": 3167,
+   "rows": [
+    {
+     "surface": "bhāga+ardha+dvi+tri+bhāgaṃ",
+     "gloss": "half-part-two-or-three-parts",
+     "grounds": "alternative fractional measures",
+     "morph": "n.nom.sg (compound: bhāga+ardha+dvi+tri+bhāga)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcatriṃśam",
+     "gloss": "thirty-fifth",
+     "grounds": "one thirty-fifth measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What further fractional alternatives are permitted in the proportional scheme?",
+   "premises": [
+    "Additional fractional measures are listed.",
+    "Options include half, two, or three parts.",
+    "A thirty-fifth part is also allowed."
+   ],
+   "inference": "The scheme permits half, two, or three parts, or alternatively a thirty-fifth part.",
+   "uncertainties": [
+    "exact parsing of bhāga+ardha+dvi+tri+bhāgaṃ is compressed"
+   ],
+   "plain_english": "It may be half a part, two or three parts, or else a thirty-fifth part."
+  },
+  {
+   "verse": 3168,
+   "rows": [
+    {
+     "surface": "mahatāṃ",
+     "gloss": "of-great",
+     "grounds": "large structures",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimānānāṃ",
+     "gloss": "of-vimānas",
+     "grounds": "temple towers",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "racanā",
+     "gloss": "arrangement",
+     "grounds": "construction design",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "authoritative rule",
+     "morph": "3.sg.passive-present (√dhā with vi)"
+    }
+   ],
+   "question": "For which structures is this arrangement specifically prescribed?",
+   "premises": [
+    "The arrangement concerns large structures.",
+    "It applies to great vimānas.",
+    "This prescription is given here."
+   ],
+   "inference": "This arrangement is prescribed here for great vimānas.",
+   "uncertainties": [],
+   "plain_english": "Here the arrangement for great vimānas is prescribed."
+  },
+  {
+   "verse": 3169,
+   "rows": [
+    {
+     "surface": "bahis+āndhārikā+andhāra+hāra+bhāgena",
+     "gloss": "by-outer-corridor-inner-corridor-enclosure-part",
+     "grounds": "combined corridor and enclosure divisions",
+     "morph": "m.inst.sg (compound: bahis+āndhārikā+andhāra+hāra+bhāga)"
+    },
+    {
+     "surface": "vistṛtāḥ",
+     "gloss": "extended",
+     "grounds": "expanded in width",
+     "morph": "f.nom.pl (past-participle, √stṛ with vi)"
+    }
+   ],
+   "question": "By which structural divisions are the great vimānas extended?",
+   "premises": [
+    "The structures are extended.",
+    "The extension uses outer corridor, inner corridor, and enclosure parts.",
+    "These divisions determine the breadth."
+   ],
+   "inference": "The structures are extended by the parts of the outer corridor, inner corridor, and enclosure.",
+   "uncertainties": [],
+   "plain_english": "They are extended by the parts of the outer corridor, inner corridor, and enclosure."
+  },
+  {
+   "verse": 3170,
+   "rows": [
+    {
+     "surface": "bhitti+anta+sthaṃ",
+     "gloss": "wall-inside-situated",
+     "grounds": "located within the wall",
+     "morph": "n.nom.sg (compound: bhitti+anta+stha)"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "measure",
+     "grounds": "measurement reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive rule",
+     "morph": "3.sg.optative-active (√as)"
+    },
+    {
+     "surface": "bhitti+bāhye",
+     "gloss": "wall-outside",
+     "grounds": "outside the wall",
+     "morph": "n.loc.sg (compound: bhitti+bāhya)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abāhyataḥ",
+     "gloss": "from-outside",
+     "grounds": "not from the outermost side",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the measurement be taken relative to the wall boundaries?",
+   "premises": [
+    "Measurement may be taken inside the wall.",
+    "It may also be taken outside the wall.",
+    "It should not be taken from the outermost exterior."
+   ],
+   "inference": "The measure should be taken from within or outside the wall, but not from the outermost exterior.",
+   "uncertainties": [
+    "abāhyataḥ interpreted as excluding the outermost boundary"
+   ],
+   "plain_english": "The measure should be taken inside the wall, or outside the wall, but not from the outermost exterior."
+  },
+  {
+   "verse": 3171,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "summary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaḥstha+vinyāsaḥ",
+     "gloss": "inner-arrangement",
+     "grounds": "internal layout",
+     "morph": "m.nom.sg (compound: antaḥstha+vinyāsa)"
+    },
+    {
+     "surface": "bāhya+vinyāsaḥ",
+     "gloss": "outer-arrangement",
+     "grounds": "external layout",
+     "morph": "m.nom.sg (compound: bāhya+vinyāsa)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.passive-present (√vac)"
+    }
+   ],
+   "question": "How are the inner and outer layouts of the structure designated?",
+   "premises": [
+    "The preceding rules define layouts.",
+    "One layout is internal.",
+    "One layout is external."
+   ],
+   "inference": "Thus the arrangements are designated as the inner arrangement and the outer arrangement.",
+   "uncertainties": [],
+   "plain_english": "Thus the inner arrangement and the outer arrangement are designated."
+  },
+  {
+   "verse": 3172,
+   "rows": [
+    {
+     "surface": "eka+eka+bhāga+veśāt",
+     "gloss": "by-each-single-part-entry",
+     "grounds": "by allocating each single part",
+     "morph": "m.abl.sg (compound: eka+eka+bhāga+veśa)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "procedural emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭa+śa+ādikaṃ",
+     "gloss": "pavilion-etc",
+     "grounds": "pavilion and similar elements",
+     "morph": "n.acc.sg (compound: kūṭa+śa+ādika)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-lead",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.optative-active (√nī)"
+    }
+   ],
+   "question": "How should pavilions and similar elements be positioned in the layout?",
+   "premises": [
+    "Each single part is allocated in sequence.",
+    "Pavilions and similar elements are to be placed.",
+    "Placement follows this part-by-part entry."
+   ],
+   "inference": "One should place the pavilion and similar elements by allocating each single part in turn.",
+   "uncertainties": [
+    "kūṭa+śa+ādikaṃ interpreted as pavilion and related elements"
+   ],
+   "plain_english": "By allocating each single part in turn, one should place the pavilion and similar elements."
+  },
+  {
+   "verse": 3173,
+   "rows": [
+    {
+     "surface": "talam",
+     "gloss": "storey",
+     "grounds": "floor level",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "single unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive measure",
+     "morph": "3.sg.optative-active (√bhū)"
+    },
+    {
+     "surface": "grāsaṃ",
+     "gloss": "projection",
+     "grounds": "offset or projection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khaṇḍa+harmyaṃ",
+     "gloss": "sectional-mansion",
+     "grounds": "sectioned structure",
+     "morph": "n.nom.sg (compound: khaṇḍa+harmya)"
+    },
+    {
+     "surface": "tri+bhūmike",
+     "gloss": "in-three-storeyed",
+     "grounds": "three-storey context",
+     "morph": "n.loc.sg (compound: tri+bhūmika)"
+    }
+   ],
+   "question": "What projection rule applies to a sectional mansion in a three-storeyed structure?",
+   "premises": [
+    "The context is a three-storeyed structure.",
+    "One storey constitutes a projection.",
+    "This applies to the sectional mansion."
+   ],
+   "inference": "In a three-storeyed structure, one storey should form the projection of the sectional mansion.",
+   "uncertainties": [],
+   "plain_english": "In a three-storeyed structure, one storey should be the projection for the sectional mansion."
+  },
+  {
+   "verse": 3174,
+   "rows": [
+    {
+     "surface": "saptaviṃśati+bhāge",
+     "gloss": "in-twenty-seven-parts",
+     "grounds": "division into twenty-seven",
+     "morph": "m.loc.sg (compound: saptaviṃśati+bhāga)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-temple",
+     "grounds": "temple measure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "āyaḥ",
+     "gloss": "income",
+     "grounds": "calculated income factor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.passive-present (√vac)"
+    }
+   ],
+   "question": "How is the income factor determined when the temple is divided into twenty-seven parts?",
+   "premises": [
+    "The temple is divided into twenty-seven parts.",
+    "A specific factor is derived from this division.",
+    "That factor is called income."
+   ],
+   "inference": "When the temple is divided into twenty-seven parts, the resulting factor is called income.",
+   "uncertainties": [],
+   "plain_english": "When the temple is divided into twenty-seven parts, the income is determined."
+  }
+ ]
+}

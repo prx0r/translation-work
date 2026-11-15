@@ -1,0 +1,1095 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3001,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśeṣu",
+     "gloss": "in-eight-parts",
+     "grounds": "locative plural of compound aṣṭa-aṃśa",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "viśāleṣu",
+     "gloss": "in-broad",
+     "grounds": "locative plural adjective qualifying divisions",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "utsedhāḥ",
+     "gloss": "heights",
+     "grounds": "subject noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāntikādikāḥ",
+     "gloss": "śāntika-and-others",
+     "grounds": "compound śāntika-ādi with nominative plural ending",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which śāntika and other heights apply within broad eight-part divisions?",
+   "premises": [
+    "The divisions are broad and consist of eight parts.",
+    "Heights are specified for these divisions.",
+    "The specified heights begin with śāntika."
+   ],
+   "inference": "In broad eight-part divisions, the heights are those beginning with śāntika.",
+   "uncertainties": [],
+   "plain_english": "In broad divisions of eight parts, the heights are śāntika and the others."
+  },
+  {
+   "verse": 3002,
+   "rows": [
+    {
+     "surface": "nāgare",
+     "gloss": "in-nāgara",
+     "grounds": "locative singular referring to nāgara style",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samahastāḥ",
+     "gloss": "equal-cubits",
+     "grounds": "compound sama-hasta with nominative plural ending",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.pl.act-opt √as"
+    },
+    {
+     "surface": "drāmiḍādiṣu",
+     "gloss": "in-drāviḍa-and-others",
+     "grounds": "compound drāmiḍa-ādi in locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable indicating prior rule applies",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are cubit measures determined for nāgara and drāviḍa styles?",
+   "premises": [
+    "The nāgara style is under consideration.",
+    "The drāviḍa and other styles are under consideration.",
+    "A prior rule provides the measure."
+   ],
+   "inference": "In the nāgara style the measures should be equal cubits, and in drāviḍa and other styles they should be as before.",
+   "uncertainties": [],
+   "plain_english": "In the nāgara style they should be of equal cubits, and in the drāviḍa and other styles as before."
+  },
+  {
+   "verse": 3003,
+   "rows": [
+    {
+     "surface": "pañcādaśāṃśake",
+     "gloss": "in-fifteen-parts",
+     "grounds": "locative singular of compound pañcadaśa-aṃśaka",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañcabhāga",
+     "gloss": "five-part",
+     "grounds": "compound pañca-bhāga qualifying height",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "accusative singular noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntikam",
+     "gloss": "śāntika",
+     "grounds": "nominative singular name of the type",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What height defines the śāntika type within a fifteen-part division?",
+   "premises": [
+    "A division of fifteen parts is specified.",
+    "A height of five parts is specified.",
+    "The type named is śāntika."
+   ],
+   "inference": "In a fifteen-part division, the śāntika type has a height of five parts.",
+   "uncertainties": [],
+   "plain_english": "In a division of fifteen parts, the śāntika height is five parts."
+  },
+  {
+   "verse": 3004,
+   "rows": [
+    {
+     "surface": "nāgaraṃ",
+     "gloss": "nāgara",
+     "grounds": "nominative singular referring to nāgara type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pauṣṭikaṃ",
+     "gloss": "pauṣṭika",
+     "grounds": "nominative singular name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "indeclinable indicating designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptāṃśoccaṃ",
+     "gloss": "seven-part-high",
+     "grounds": "compound sapta-aṃśa-ucca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivādhikam",
+     "gloss": "śiva-exceeding",
+     "grounds": "compound śiva-adhika indicating increase by one",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name and height characterize the next nāgara type after śāntika?",
+   "premises": [
+    "A nāgara type is being designated.",
+    "Its height is seven parts.",
+    "Its height exceeds by one śiva unit."
+   ],
+   "inference": "The nāgara type called pauṣṭika is seven parts high and exceeds by one.",
+   "uncertainties": [
+    "The exact value implied by śiva-adhika is inferred from traditional usage."
+   ],
+   "plain_english": "The nāgara type called pauṣṭika is seven parts high, exceeding by one."
+  },
+  {
+   "verse": 3005,
+   "rows": [
+    {
+     "surface": "jayadaṃ",
+     "gloss": "jayada",
+     "grounds": "nominative singular name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāgaraṃ",
+     "gloss": "nāgara",
+     "grounds": "nominative singular referring to nāgara type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "ablative singular pronoun indicating comparison",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "daśāṃśādhikatuṅgakam",
+     "gloss": "ten-part-exceeding-height",
+     "grounds": "compound daśa-aṃśa-adhika-tuṅgaka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What height distinguishes the jayada nāgara type from the previous one?",
+   "premises": [
+    "The jayada nāgara type is named.",
+    "It is compared to the previous type.",
+    "Its height exceeds by ten parts."
+   ],
+   "inference": "The jayada nāgara type has a height exceeding by ten parts compared to the previous one.",
+   "uncertainties": [],
+   "plain_english": "The jayada nāgara type has a height exceeding that by ten parts."
+  },
+  {
+   "verse": 3006,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable summarizing prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāgaraliṅge",
+     "gloss": "in-nāgara-liṅga",
+     "grounds": "locative singular of compound nāgara-liṅga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saudhamojaḥpadena",
+     "gloss": "by-saudha-ojaḥ-term",
+     "grounds": "instrumental singular of compound saudha-ojaḥ-pada",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what technical term is the nāgara liṅga height designation expressed?",
+   "premises": [
+    "The context is the nāgara liṅga.",
+    "A designation has been given thus.",
+    "The term saudha-ojaḥ-pada is used."
+   ],
+   "inference": "Thus in the nāgara liṅga, the designation is expressed by the term saudha-ojaḥ-pada.",
+   "uncertainties": [
+    "The precise technical meaning of saudha-ojaḥ-pada is context-dependent."
+   ],
+   "plain_english": "Thus, in the nāgara liṅga, this is expressed by the term saudha-ojaḥ-pada."
+  },
+  {
+   "verse": 3007,
+   "rows": [
+    {
+     "surface": "udayaṃ",
+     "gloss": "height",
+     "grounds": "accusative singular noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "drāmiḍaṃ",
+     "gloss": "drāviḍa",
+     "grounds": "accusative singular referring to drāviḍa type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.ppp √pra-vac"
+    },
+    {
+     "surface": "śāntipuṣṭijayāvaham",
+     "gloss": "peace-prosperity-victory-bringing",
+     "grounds": "compound śānti-puṣṭi-jaya-āvaha",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What effects are attributed to the declared drāviḍa height?",
+   "premises": [
+    "The drāviḍa height is declared.",
+    "It is associated with specific results.",
+    "The results are peace, prosperity, and victory."
+   ],
+   "inference": "The declared drāviḍa height brings peace, prosperity, and victory.",
+   "uncertainties": [],
+   "plain_english": "The drāviḍa height is declared to bring peace, prosperity, and victory."
+  },
+  {
+   "verse": 3008,
+   "rows": [
+    {
+     "surface": "adbhutaṃ",
+     "gloss": "adbhuta",
+     "grounds": "nominative singular name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhivāraṃ",
+     "gloss": "abhivāra",
+     "grounds": "nominative singular name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārvakāmikam",
+     "gloss": "all-desires-granting",
+     "grounds": "compound sārva-kāmika",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "present passive verb",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What additional names are given to the all-desires-granting type?",
+   "premises": [
+    "A type is called all-desires-granting.",
+    "Other names are also stated.",
+    "Those names are adbhuta and abhivāra."
+   ],
+   "inference": "The all-desires-granting type is also called adbhuta and abhivāra.",
+   "uncertainties": [],
+   "plain_english": "It is also called adbhuta, abhivāra, and sārvakāmika."
+  },
+  {
+   "verse": 3009,
+   "rows": [
+    {
+     "surface": "pauṣṭikaṃ",
+     "gloss": "pauṣṭika",
+     "grounds": "nominative singular name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tuṅgajayadaṃ",
+     "gloss": "high-jayada",
+     "grounds": "compound tuṅga-jayada",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jayadaṃ",
+     "gloss": "jayada",
+     "grounds": "nominative singular name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vesaraṃ",
+     "gloss": "vesara",
+     "grounds": "nominative singular referring to vesara type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.ppp √man"
+    }
+   ],
+   "question": "How are pauṣṭika and jayada types classified in the vesara style?",
+   "premises": [
+    "The pauṣṭika type is mentioned.",
+    "The jayada type is mentioned.",
+    "The vesara style is the context of classification."
+   ],
+   "inference": "The pauṣṭika is considered high-jayada, and the jayada is considered vesara.",
+   "uncertainties": [
+    "The syntactic grouping of tuṅgajayadaṃ with pauṣṭikaṃ is inferred from context."
+   ],
+   "plain_english": "The pauṣṭika is considered the high jayada, and the jayada is considered vesara."
+  },
+  {
+   "verse": 3010,
+   "rows": [
+    {
+     "surface": "drāmiḍe",
+     "gloss": "in-drāviḍa",
+     "grounds": "locative singular referring to drāviḍa style",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vesare",
+     "gloss": "in-vesara",
+     "grounds": "locative singular referring to vesara style",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "locative singular noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samabhāgapramāṇataḥ",
+     "gloss": "by-equal-part-measure",
+     "grounds": "compound sama-bhāga-pramāṇa with ablative adverbial suffix",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what measure are drāviḍa and vesara liṅgas proportioned?",
+   "premises": [
+    "The drāviḍa liṅga is under consideration.",
+    "The vesara liṅga is under consideration.",
+    "A measure based on equal parts is specified."
+   ],
+   "inference": "In the drāviḍa and vesara liṅgas, the proportion is by equal-part measure.",
+   "uncertainties": [],
+   "plain_english": "In the drāviḍa and vesara liṅgas, the measure is by equal parts."
+  },
+  {
+   "verse": 3011,
+   "rows": [
+    {
+     "surface": "mānave",
+     "gloss": "by-measure",
+     "grounds": "locative singular noun referring to measurement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "labdhadairghyaṃ",
+     "gloss": "obtained-length",
+     "grounds": "compound labdha-dairghya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viraṣṭāṃśake",
+     "gloss": "in-sixteen-parts",
+     "grounds": "locative singular of compound vi-raṣṭa-aṃśaka; sandhi form of ṣoḍaśa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-made",
+     "grounds": "locative singular past passive participle",
+     "morph": "n.loc.sg.ppp √kṛ"
+    }
+   ],
+   "question": "What length is taken when the measure is divided into sixteen parts?",
+   "premises": [
+    "A length is obtained by measurement.",
+    "That length is considered in a new division.",
+    "The division is made into sixteen parts."
+   ],
+   "inference": "The length obtained by measurement is taken when it is divided into sixteen parts.",
+   "uncertainties": [],
+   "plain_english": "Whatever length is obtained by measurement, that is taken when divided into sixteen parts."
+  },
+  {
+   "verse": 3012,
+   "rows": [
+    {
+     "surface": "ardhārdhādhikahīnaṃ",
+     "gloss": "half-half-increased-decreased",
+     "grounds": "compound ardha-ardha-adhika-hīna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyantaraṃ",
+     "gloss": "by-two-interval",
+     "grounds": "compound dvi-antara indicating interval of two",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśālakam",
+     "gloss": "breadth",
+     "grounds": "nominative singular noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the breadth adjusted by intervals of increase and decrease?",
+   "premises": [
+    "The breadth is being specified.",
+    "Adjustments involve increase and decrease by halves.",
+    "The interval of adjustment is two."
+   ],
+   "inference": "The breadth is increased and decreased by half and half at intervals of two.",
+   "uncertainties": [
+    "The exact arithmetic application of ardhārdhādhikahīnaṃ is technical and context-dependent."
+   ],
+   "plain_english": "The breadth is increased and decreased by half and half, at intervals of two."
+  },
+  {
+   "verse": 3013,
+   "rows": [
+    {
+     "surface": "aṣṭādaśāṃśake",
+     "gloss": "in-eighteen-parts",
+     "grounds": "locative singular of compound aṣṭādaśa-aṃśaka",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tuṅge",
+     "gloss": "in-height",
+     "grounds": "locative singular noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kauśikendriyavedikam",
+     "gloss": "kauśika-sense-veda",
+     "grounds": "compound kauśika-indriya-vedika indicating specific measures",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measures apply when the height is divided into eighteen parts?",
+   "premises": [
+    "The height is divided into eighteen parts.",
+    "Specific measures are prescribed for this division.",
+    "The measures are indicated by kauśika, senses, and vedas."
+   ],
+   "inference": "When the height is in eighteen parts, the measures are kauśika, indriya, and vedika.",
+   "uncertainties": [
+    "kauśika, indriya, and vedika likely denote numerical values by traditional convention."
+   ],
+   "plain_english": "When the height is divided into eighteen parts, the measures are kauśika, indriya, and vedika."
+  },
+  {
+   "verse": 3014,
+   "rows": [
+    {
+     "surface": "vesare",
+     "gloss": "in-vesara",
+     "grounds": "locative singular referring to vesara style",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viṃśadaṃśe",
+     "gloss": "in-twenty-parts",
+     "grounds": "locative singular of compound viṃśat-aṃśa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasubhānurasāṃśakam",
+     "gloss": "vasu-sun-taste-parts",
+     "grounds": "compound vasu-bhānu-rasa-aṃśaka indicating specific measures",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measures apply to the vesara style in twenty-part division?",
+   "premises": [
+    "The vesara style is under consideration.",
+    "The division consists of twenty parts.",
+    "Measures are indicated by vasu, bhānu, and rasa."
+   ],
+   "inference": "In the vesara style divided into twenty parts, the measures are vasu, bhānu, and rasa parts.",
+   "uncertainties": [
+    "vasu, bhānu, and rasa likely denote numerical values by traditional convention."
+   ],
+   "plain_english": "In the vesara style, when divided into twenty parts, the measures are vasu, bhānu, and rasa parts."
+  },
+  {
+   "verse": 3015,
+   "rows": [
+    {
+     "surface": "liṅgāyāma",
+     "gloss": "liṅga-length",
+     "grounds": "compound liṅga-āyāma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samo",
+     "gloss": "equal",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "diameter",
+     "grounds": "nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāṃśoccadvayena",
+     "gloss": "by-worship-part-height-two",
+     "grounds": "instrumental singular of compound pūjā-aṃśa-ucca-dvaya",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative proportions relate the liṅga diameter to its length?",
+   "premises": [
+    "The liṅga length is the reference.",
+    "The diameter may be equal to the length.",
+    "Alternatively it may relate to twice the worship-part height."
+   ],
+   "inference": "The diameter may be equal to the liṅga length, or determined by twice the worship-part height.",
+   "uncertainties": [
+    "The exact construction of pūjāṃśoccadvayena is technically compressed."
+   ],
+   "plain_english": "The diameter may be equal to the liṅga’s length, or determined by twice the height of the worship part."
+  },
+  {
+   "verse": 3016,
+   "rows": [
+    {
+     "surface": "vyāsārdham",
+     "gloss": "diameter-half",
+     "grounds": "compound vyāsa-ardha as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucchrayaṃ",
+     "gloss": "height",
+     "grounds": "accusative singular noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "dvātriṃśaddvyaṃśam",
+     "gloss": "thirty-two-two-parts",
+     "grounds": "compound dvātriṃśat-dvi-aṃśa indicating two of thirty-two parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "particle of restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative heights may be prescribed relative to the diameter?",
+   "premises": [
+    "A height is to be made.",
+    "One option is half the diameter.",
+    "Another option is two parts out of thirty-two."
+   ],
+   "inference": "One should make the height half the diameter, or else two thirty-second parts.",
+   "uncertainties": [
+    "The referent of dvātriṃśaddvyaṃśam depends on the implied base measure."
+   ],
+   "plain_english": "One should make the height half the diameter, or else two parts out of thirty-two."
+  },
+  {
+   "verse": 3017,
+   "rows": [
+    {
+     "surface": "uttamo",
+     "gloss": "best",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "navabhirbhāgaiḥ",
+     "gloss": "by-nine-parts",
+     "grounds": "instrumental plural of compound nava-bhāga",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "drāmiḍe",
+     "gloss": "in-drāviḍa",
+     "grounds": "locative singular referring to drāviḍa style",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pīṭhavistaraḥ",
+     "gloss": "pedestal-width",
+     "grounds": "compound pīṭha-vistara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What constitutes the best pedestal width in the drāviḍa style?",
+   "premises": [
+    "The drāviḍa style is under consideration.",
+    "The pedestal width is being specified.",
+    "The best measure is nine parts."
+   ],
+   "inference": "In the drāviḍa style, the best pedestal width is nine parts.",
+   "uncertainties": [],
+   "plain_english": "In the drāviḍa style, the best pedestal width is nine parts."
+  },
+  {
+   "verse": 3018,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive singular demonstrative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucce",
+     "gloss": "in-height",
+     "grounds": "locative singular noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṣṭabhāge",
+     "gloss": "in-eight-parts",
+     "grounds": "locative singular of compound aṣṭa-bhāga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktvaikaṃ",
+     "gloss": "having-left-one",
+     "grounds": "gerund tyaktvā fused with ekaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitribhāgikam",
+     "gloss": "two-three-parts",
+     "grounds": "compound dvi-tri-bhāgika",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the pedestal height determined from an eight-part division?",
+   "premises": [
+    "The height of that pedestal is divided into eight parts.",
+    "One part is to be left out.",
+    "The result is two or three parts."
+   ],
+   "inference": "In its height divided into eight parts, leaving one part gives two or three parts.",
+   "uncertainties": [
+    "The exact resulting measure indicated by dvitribhāgikam is context-dependent."
+   ],
+   "plain_english": "And in its height divided into eight parts, leaving out one, it is two or three parts."
+  },
+  {
+   "verse": 3019,
+   "rows": [
+    {
+     "surface": "drāmiḍe",
+     "gloss": "in-drāviḍa",
+     "grounds": "locative singular referring to drāviḍa style",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vihitaṃ",
+     "gloss": "prescribed",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.ppp √vi-dhā"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable summarizing prior rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vesaraṃ",
+     "gloss": "vesara",
+     "grounds": "nominative singular referring to vesara style",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-stated",
+     "grounds": "present passive verb",
+     "morph": "3.sg.pass-pres √ni-gad"
+    }
+   ],
+   "question": "How does the stated rule extend from drāviḍa to vesara style?",
+   "premises": [
+    "A rule is prescribed for the drāviḍa style.",
+    "The vesara style is now addressed.",
+    "The vesara rule is stated accordingly."
+   ],
+   "inference": "Thus it is prescribed in the drāviḍa style, and the vesara style is stated in the same way.",
+   "uncertainties": [],
+   "plain_english": "Thus it is prescribed in the drāviḍa style, and the vesara style is stated likewise."
+  },
+  {
+   "verse": 3020,
+   "rows": [
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-pedestal",
+     "grounds": "genitive singular noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saptanandāṃśaiḥ",
+     "gloss": "by-seven-nine-parts",
+     "grounds": "instrumental plural of compound sapta-nanda-aṃśa",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "adhamottamam",
+     "gloss": "lowest-highest",
+     "grounds": "compound adhama-uttama indicating range",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "present passive verb",
+     "morph": "3.sg.pass-pres √iṣ"
+    }
+   ],
+   "question": "What range of parts is prescribed for the pedestal measure?",
+   "premises": [
+    "The pedestal is the subject of measure.",
+    "Parts ranging from seven to nine are indicated.",
+    "This range covers lowest to highest."
+   ],
+   "inference": "For the pedestal, a range from seven to nine parts is desired as lowest to highest.",
+   "uncertainties": [
+    "nanda is taken as a conventional numerical term for nine."
+   ],
+   "plain_english": "For the pedestal, from seven to nine parts is desired as the lowest to the highest measure."
+  },
+  {
+   "verse": 3021,
+   "rows": [
+    {
+     "surface": "viṣṇubhāga",
+     "gloss": "viṣṇu-part",
+     "grounds": "compound viṣṇu-bhāga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samutsedhaḥ",
+     "gloss": "equal-height",
+     "grounds": "compound sama-utsedha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "nominative singular noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūgatam",
+     "gloss": "earth-situated",
+     "grounds": "compound bhū-gata",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "present passive verb",
+     "morph": "3.sg.pass-pres √iṣ"
+    }
+   ],
+   "question": "How should the viṣṇu part and the remainder be positioned in height?",
+   "premises": [
+    "The viṣṇu part has a specified height.",
+    "A remainder of the structure remains.",
+    "The remainder is to be situated in the earth."
+   ],
+   "inference": "The viṣṇu part should be of equal height, and the remainder is desired to be situated in the earth.",
+   "uncertainties": [],
+   "plain_english": "The viṣṇu part should be of equal height, and the remainder is desired to be placed in the earth."
+  },
+  {
+   "verse": 3022,
+   "rows": [
+    {
+     "surface": "viṣkambhatriguṇo",
+     "gloss": "diameter-three-times",
+     "grounds": "compound viṣkambha-tri-guṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "width",
+     "grounds": "nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "indeclinable indicating position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaśilāṃ",
+     "gloss": "brahma-stone",
+     "grounds": "accusative singular of compound brahma-śilā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-opt √ni-as"
+    }
+   ],
+   "question": "What width and placement are prescribed for the brahma stone below?",
+   "premises": [
+    "A brahma stone is to be placed below.",
+    "Its width is related to the diameter.",
+    "The width is three times the diameter."
+   ],
+   "inference": "One should place below a brahma stone whose width is three times the diameter.",
+   "uncertainties": [],
+   "plain_english": "Below, one should place the brahma stone with a width three times the diameter."
+  },
+  {
+   "verse": 3023,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "genitive singular relative pronoun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "liṅgasya",
+     "gloss": "of-liṅga",
+     "grounds": "genitive singular noun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "viṣkambhaḥ",
+     "gloss": "diameter",
+     "grounds": "nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭabhāgaikam",
+     "gloss": "eight-part-one",
+     "grounds": "compound aṣṭa-bhāga-eka indicating one eighth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "particle of restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional measure of the liṅga diameter is specified as an alternative?",
+   "premises": [
+    "A liṅga has a given diameter.",
+    "A proportional measure is being specified.",
+    "The measure is one eighth part as an alternative."
+   ],
+   "inference": "For whichever liṅga, the measure may be one eighth of its diameter, or alternatively so.",
+   "uncertainties": [
+    "The sentence continues into the next verse, so the full predicate is incomplete here."
+   ],
+   "plain_english": "For whichever liṅga, the diameter may be taken as one eighth part, or alternatively so."
+  },
+  {
+   "verse": 3024,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "nominative singular demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāgaraliṅge",
+     "gloss": "in-nāgara-liṅga",
+     "grounds": "locative singular of compound nāgara-liṅga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmākhyā",
+     "gloss": "brahma-named",
+     "grounds": "compound brahma-ākhyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "f.nom.sg.ppp √kath"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "nominative singular noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What stone is declared as brahma-named in the nāgara liṅga context?",
+   "premises": [
+    "The context is the nāgara liṅga.",
+    "A stone is being identified.",
+    "That stone is declared to be named brahma."
+   ],
+   "inference": "In the nāgara liṅga, this stone is declared to be called the brahma stone.",
+   "uncertainties": [],
+   "plain_english": "In the nāgara liṅga, this stone is declared to be called the brahma stone."
+  }
+ ]
+}
