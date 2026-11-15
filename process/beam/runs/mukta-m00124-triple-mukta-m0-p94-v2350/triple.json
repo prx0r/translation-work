@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "viśeṣāt",
+     "gloss": "especially",
+     "grounds": "ablative used adverbially to mark particular emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūbhṛtāṃ",
+     "gloss": "of-kings",
+     "grounds": "denotes the recipients for whom the vessel is commended",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śastaṃ",
+     "gloss": "commended",
+     "grounds": "past passive participle expressing prescribed approval",
+     "morph": "n.nom.sg.ppp(śaṃs)"
+    },
+    {
+     "surface": "carukaṃ",
+     "gloss": "caruka-vessel",
+     "grounds": "ritual vessel named in the preceding verses",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "first member of a compound indicating suitability for deities; analyzed as given without merging tokens",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yogyakam",
+     "gloss": "suitable",
+     "grounds": "expresses fitness or appropriateness for the stated recipients",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For which recipients is the caruka vessel especially commended and deemed suitable?",
+   "premises": [
+    "The caruka vessel is especially commended for kings.",
+    "The caruka vessel is suitable for gods.",
+    "These specifications assign distinct ritual appropriateness to the caruka vessel."
+   ],
+   "inference": "Therefore the caruka vessel is particularly prescribed for kings and considered fit for use in relation to gods.",
+   "uncertainties": [
+    "Whether 'deva yogyakam' should be read as a single compound or as closely related separate words is not fully resolved from the tokenization."
+   ],
+   "plain_english": "Especially for kings, the caruka vessel is commended, and it is suitable for the gods."
+  }
+ ]
+}

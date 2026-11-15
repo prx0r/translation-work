@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p62",
  "verse": 1541,
- "question": "What visual and bodily marks identify each meditative form in this catalogue?",
+ "question": "What distinct peg-tip shapes are prescribed for gods and for the twice-born?",
  "premises": [
-  "Each token names a form's mark.",
-  "Colors and attributes are listed.",
-  "The catalogue proceeds form by form."
+  "Gods and others receive one specified tip shape.",
+  "The twice-born receive a different tip shape.",
+  "The shapes are described as head-pointed and umbrella-like respectively."
  ],
- "inference": "The verses catalogue meditative forms by color posture and attribute.",
- "uncertainties": [
-  "Compendium quotation boundaries remain unclear."
- ],
- "plain_english": "These verses list meditative forms with colors and attributes."
+ "inference": "For gods and others the tip should be head-pointed, and for the twice-born it should resemble an umbrella.",
+ "uncertainties": [],
+ "plain_english": "For gods and others the tip should be head-pointed; for the twice-born it should resemble an umbrella."
 }

@@ -3,9 +3,7 @@
  "song": "kul-p77",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1923 ratio=0.897"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "f1e172876776f31f",
@@ -25,7 +23,7 @@
   "sub090": {
    "1923": {
     "ratio": 0.897,
-    "disposition": null
+    "disposition": "sandhi-only: palāśa+udumbara→palāśodumbara (a+u→o), udumbara+aśvattha→udumbarāśvattha (a+a→ā), plakṣa+apāmārga→plakṣāpāmārga (a+a→ā); 6 pada words = 6 source words, order verified token-by-token vs source 2026-11-15"
    }
   }
  },
@@ -58,9 +56,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1923"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "2ab96409ff7ac915e5b5f6bd109aff1084892a3ee50aa0a522d59757283517f8",
   "l0": "4d7a49b10a7bdc3290a55b2ec9826dc016df1147d8306d7a2af98dc75e9f735a",

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[śakti-sādhakaḥ](śaktisādhakaḥ) [śakti-sahitaḥ](śaktisahitaḥ) [sādhakaḥ](sādhakaḥ) [is](∅)
+[śakti+sādhakaḥ](śaktisādhakaḥ) [śakti+sahitaḥ](śaktisahitaḥ) [sādhakaḥ](sādhakaḥ) [iti](iti)
 
 ## mukta-m0-p50-v1227
-[delightful](manoramaṃ) [charming](ramyaṃ) [vessel](pātraṃ) [one-should-make](kuryāt)
+[manoramam](manoramaṃ) [ramyam](ramyaṃ) [pātram](pātraṃ) [kuryāt](kuryāt)
 
 ## mukta-m0-p50-v1228
-[then](tataḥ) [with-initiated-companions](sāmayikaiḥ) [together](sārddhaṃ) [drinking-and-eating](pānabhojanam) [one-should-perform](ācaret)
+[tataḥ](tataḥ) [sāmayikaiḥ](sāmayikaiḥ) [sārddham](sārddhaṃ) [pāna+bhojanam](pānabhojanam) [ācaret](ācaret)
 
 ## mukta-m0-p50-v1229
-[then](tataḥ) [with-very-delighted-mind](atihṛṣṭamanasā) [all](samastaḥ) [kula-practitioner](kulasādhakaḥ)
+[tataḥ](tato) [ati+hṛṣṭa+manasā](atihṛṣṭamanasā) [samastaḥ](samastaḥ) [kula+sādhakaḥ](kulasādhakaḥ)
 
 ## mukta-m0-p50-v1230
-[from-mūlādhāra](mūlādhārāt) [up-to-tongue](ijihvāntāṃ) [consciousness-form](cidrūpāṃ) [kula-kuṇḍalinī](kulakuṇḍalīm)
+[mūlādhārāt+jihvā+antām](mūlādhārādijihvāntāṃ) [cit+rūpām](cidrūpāṃ) [kula+kuṇḍalīm](kulakuṇḍalīm) [dhyāyet](dhyāyet)
 
 ## mukta-m0-p50-v1231
-[mutual-permission](parasparājñām) [having-taken](ādāya) [one-should-offer](juhuyāt) [in-mouth-of-kuṇḍalinī](kuṇḍalīmukhe)
+[paraspara+ājñām](parasparājñām) [ādāya](ādāya) [juhuyāt](juhuyāt) [kuṇḍalī+mukhe](kuṇḍalīmukhe)
 
 ## mukta-m0-p50-v1232
-[of-practitioners](sādhakānāṃ) [of-householders](gṛhasthānāṃ) [five-cups](pañcapātraṃ) [is-prescribed](prakīrtitam)
+[sādhakānām](sādhakānāṃ) [gṛhasthānām](gṛhasthānāṃ) [pañca+pātram](pañcapātraṃ) [prakīrtitam](prakīrtitam)
 
 ## mukta-m0-p50-v1233
-[from-excessive-drinking](atipānāt) [of-kula-members](kulīnānāṃ) [loss-of-success](siddhihāniḥ) [arises](prajāyate)
+[ati+pānāt](atipānāt) [kulīnānām](kulīnānāṃ) [siddhi+hāniḥ](siddhihāniḥ) [prajāyate](prajāyate)
 
 ## mukta-m0-p50-v1234
-[drinking-and-eating](pānabhojanam) [one-should-perform](ācaret)
+[pāna+bhojanam](pānabhojanam) [ācaret](ācaret) [iti](iti) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p50-v1235
-[that-much](tāvat) [drinking](pānaṃ) [one-should-do](prakurvīta) [beyond-that](ataḥ) [further](param) [animal-drinking](paśupānam)
+[tāvat](tāvat) [pānam](pānaṃ) [prakurvīta](prakurvīta) [paśu+pānam](paśupānam) [ataḥ](ataḥ) [param](param)
 
 ## mukta-m0-p50-v1236
-[he](sa) [most-sinful](pāpiṣṭhaḥ) [how](kathaṃ) [could-say](brūyāt) [the-primeval](ādyāṃ) [Kālī](kālīṃ) [I-worship](bhajāmi) [I](aham)
+[saḥ](sa) [pāpiṣṭhaḥ](pāpiṣṭhaḥ) [katham](kathaṃ) [brūyāt](brūyāt) [ādyām](ādyāṃ) [kālīm](kālīṃ) [bhajāmi](bhajāmyaham) [aham](aham)
 
 ## mukta-m0-p50-v1237
-[likewise](tathā) [in-your-grace](tava) [even](prasāde) [also](api) [distinction-of-caste](jātibhedaṃ) [one-should-abandon](vivarjayet)
+[tathā](tathā) [tava](tava) [prasāde](prasāde) [api](api) [jāti+bhedam](jātibhedaṃ) [vivarjayet](vivarjayet)
 
 ## mukta-m0-p50-v1238
-[wiping-of-smear](lepāvanodanaṃ) [one-should-do](kuryāt) [with-cloth](vastreṇa) [or](api) [with-water](vā) [pāthasā](pāthasā)
+[lepa+avanodanam](lepāvanodanaṃ) [kuryāt](kuryāt) [vastreṇa](vastreṇa) [pāthasā](pāthasā) [api](api) [vā](vā)
 
 ## mukta-m0-p50-v1239
-[smear-of-diagram](yantralepaṃ) [in-place-between-eyebrows](kūrcadeśe) [one-should-enjoy](viharet) [like-a-god](devavat) [on-earth](bhuvi)
+[yantra+lepam](yantralepaṃ) [kūrca+deśe](kūrcadeśe) [viharet](viharet) [deva+vat](devavad) [bhuvi](bhuvi)
 
 ## mukta-m0-p50-v1240
-[thus-far](yāvat) [thus](iti) [one-should-shake](cālayet) [one-should-swirl](ghūrṇayet)
+[yāvat](yāvat) [iti](iti) [cālayet](cālayet) [ghūrṇayet](ghūrṇayet)
 
 ## mukta-m0-p50-v1241
-[thus](evam) [thus](iti) [wiping-of-smear](lepāvanodanam) [removal-of-hand-smear](hastalepāpanayanam)
+[evam](evam) [iti](iti) [lepa+avanodanam](lepāvanodanam) [hasta+lepa+apanayanam](hastalepāpanayanam)
 
 ## mukta-m0-p50-v1242
-[kūrca](kūrcam) [space-between-eyebrows](astrībhruvormadhyam) [thus](iti) [Amara](amaraḥ)
+[kūrcam](kūrcam) [astrī](astrī) [bhruvoḥ+madhyam](bhruvormadhyam) [iti](iti) [amaraḥ](amaraḥ)
 
 ## mukta-m0-p50-v1243
-[producing-good-fortune-and-liberation](saubhāgyamokṣajananaṃ) [sole-means-of-brahman-knowledge](brahmajñānaikasādhanam)
+[saubhāgya+mokṣa+jananam](saubhāgyamokṣajananaṃ) [brahma+jñāna+eka+sādhanam](brahmajñānaikasādhanam) [etat](etat) [vidyāt](vidyāt)
 
 ## mukta-m0-p50-v1244
-[rule-of-nyāsa-and-worship](nyāsapūjāvidhānam) [and](ca) [by-distinction-of-external-and-internal](bāhyābhyantarabhedataḥ)
+[nyāsa+pūjā+vidhānam](nyāsapūjāvidhānañca) [ca](ca) [bāhya+abhyantara+bhedataḥ](bāhyābhyantarabhedataḥ) [śrutvā](śrutvā)
 
 ## mukta-m0-p50-v1245
-[bowed-down-with-humility](vinayāvanatā) [goddess](devī) [spoke](provāca) [toward-Śaṅkara](śaṅkaraṃ) [to](prati)
+[vinaya+avanatā](vinayāvanatā) [devī](devī) [provāca](provāca) [śaṅkaram](śaṅkaraṃ) [prati](prati)
 
 ## mukta-m0-p50-v1246
-[out-of-compassion](kṛpayā) [told](kathitaṃ) [O-god](deva) [practice-of-supreme-nature](parāprakṛtisādhanam)
+[kṛpayā](kṛpayā) [kathitam](kathitaṃ) [deva](deva) [parā+prakṛti+sādhanam](parāprakṛtisādhanam)
 
 ## mukta-m0-p50-v1247
-[especially](viśeṣataḥ) [in-Kali-age](kaliyuge) [for-beings](jīvānām) [quickly](āśu) [giving-success](siddhidam)
+[viśeṣataḥ](viśeṣataḥ) [kali+yuge](kaliyuge) [jīvānām](jīvānām) [āśu](āśu) [siddhi+dam](siddhidam)
 
 ## mukta-m0-p50-v1248
-[beginning-with-sadāśiva](sadāśivetyādi) [4](|| 4)
+[sadāśiva](sadāśiva) [iti](iti) [ādi](ādi) [4](|| 4)
 
 ## mukta-m0-p50-v1249
-[not](na) [to-rise](utthātum) [desires](īhate) [freely](svairaṃ) [again](bhūyaḥ) [requests](prārthayate) [soon](acirāt)
+[na](na) [utthātum](utthātum) [īhate](īhate) [svairam](svairaṃ) [bhūyaḥ](bhūyaḥ) [prārthayate](prārthayate) [acirāt](acirāt)
 
 ## mukta-m0-p50-v1250
-[hymn](stotram) [and](ca) [armor](kavacaṃ) [O-god](deva) [that](tat) [now](idānīṃ) [reveal](prakāśaya)
+[stotram](stotrañca) [ca](ca) [kavacam](kavacaṃ) [deva](deva) [tat](tat) [idānīm](idānīṃ) [prakāśaya](prakāśaya)

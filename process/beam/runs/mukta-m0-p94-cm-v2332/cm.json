@@ -3,9 +3,44 @@
  "verse": 2332,
  "rows": [
   {
-   "lemma": "sapretyakāmānādāyadātāramupatiṣṭhate",
+   "lemma": "pārśvayoḥ",
+   "morph": "n.loc.du",
+   "grounds": "location"
+  },
+  {
+   "lemma": "ubhayoḥ",
+   "morph": "adj.loc.du.n",
+   "grounds": "qualifies sides"
+  },
+  {
+   "lemma": "ca",
    "morph": "indecl.",
-   "grounds": "token as given"
+   "grounds": "connective"
+  },
+  {
+   "lemma": "eva",
+   "morph": "indecl.",
+   "grounds": "emphasis"
+  },
+  {
+   "lemma": "catur",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "bhāga",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "anta",
+   "morph": "compound-member",
+   "grounds": "third member of compound"
+  },
+  {
+   "lemma": "vistaram",
+   "morph": "m.acc.sg",
+   "grounds": "measure specified"
   }
  ]
 }

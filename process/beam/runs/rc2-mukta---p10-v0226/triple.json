@@ -1,0 +1,533 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "kūrccabījaṃ",
+     "gloss": "kūrca-seed",
+     "grounds": "identifies the kūrca bīja syllable",
+     "morph": "n.nom.sg (compound: kūrcca+bīja)"
+    },
+    {
+     "surface": "kapālañ",
+     "gloss": "skull",
+     "grounds": "bodily correlate named; sandhi form of kapālam before ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava-seed",
+     "grounds": "identifies the vāgbhava bīja syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vākyam",
+     "gloss": "speech",
+     "grounds": "bodily or functional correlate named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seed-syllables are correlated with the skull and speech?",
+   "premises": [
+    "The kūrca-seed is identified with the skull.",
+    "The vāgbhava-seed is identified with speech."
+   ],
+   "inference": "Specific bīja syllables correspond to particular bodily or verbal loci.",
+   "uncertainties": [
+    "Exact syntactic role of nominative and accusative forms in this list is compressed."
+   ],
+   "plain_english": "The kūrca seed is the skull, and the vāgbhava seed is indeed speech."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "trayonādaḥ",
+     "gloss": "three-nādas",
+     "grounds": "compound naming a triad of nādas",
+     "morph": "m.nom.sg (compound: traya+nāda)"
+    },
+    {
+     "surface": "śaktirūpo",
+     "gloss": "śakti-form",
+     "grounds": "describes the nature as having the form of śakti",
+     "morph": "m.nom.sg (compound: śakti+rūpa)"
+    },
+    {
+     "surface": "jihvāñ",
+     "gloss": "tongue",
+     "grounds": "bodily correlate named; sandhi form of jihvām before ca",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rocanīyakam",
+     "gloss": "illuminating",
+     "grounds": "qualifies the correlate as illuminating",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form and bodily correlate are assigned to the three nādas?",
+   "premises": [
+    "The three nādas are described as having the form of śakti.",
+    "The tongue is named as the illuminating correlate."
+   ],
+   "inference": "The triad of nādas manifests as śakti and is linked to the illuminating tongue.",
+   "uncertainties": [],
+   "plain_english": "The three nādas have the form of śakti, and the tongue is the illuminating element."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "kūrcaprāṇamayaṃ",
+     "gloss": "made-of-kūrca-life-force",
+     "grounds": "describes something composed of the kūrca life-essence",
+     "morph": "n.nom.sg (compound: kūrca+prāṇa+maya)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "phaṭkāraṃ",
+     "gloss": "phaṭ-sound",
+     "grounds": "names the phaṭ syllable or utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "stanayugmakam",
+     "gloss": "pair-of-breasts",
+     "grounds": "bodily correlate named as a pair",
+     "morph": "n.nom.sg (compound: stana+yugmaka)"
+    }
+   ],
+   "question": "What bodily correlate is assigned to the phaṭ-sound in this mapping?",
+   "premises": [
+    "The phaṭ-sound is described as made of the kūrca life-force.",
+    "The pair of breasts is named as its correlate."
+   ],
+   "inference": "The phaṭ-sound, imbued with kūrca life-force, corresponds to the pair of breasts.",
+   "uncertainties": [],
+   "plain_english": "O goddess, the phaṭ-sound, made of the kūrca life-force, is the pair of breasts."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "pañcākṣarī",
+     "gloss": "five-syllabled",
+     "grounds": "describes the vidyā as consisting of five syllables",
+     "morph": "f.nom.sg (compound: pañca+akṣara)"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "names the mantra or knowledge as great",
+     "morph": "f.nom.sg (compound: mahā+vidyā)"
+    },
+    {
+     "surface": "ḍākinī",
+     "gloss": "ḍākinī",
+     "grounds": "names the deity or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "states that this identification is declared",
+     "morph": "f.nom.sg (past participle, pari+√kīrt)"
+    }
+   ],
+   "question": "How is the five-syllabled great knowledge identified in this teaching?",
+   "premises": [
+    "A five-syllabled great knowledge is mentioned.",
+    "This great knowledge is proclaimed to be ḍākinī."
+   ],
+   "inference": "The five-syllabled mahāvidyā is identified with ḍākinī.",
+   "uncertainties": [],
+   "plain_english": "The five-syllabled great knowledge is proclaimed to be ḍākinī."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "dhanadā",
+     "gloss": "wealth-giver",
+     "grounds": "attributes the power of granting wealth",
+     "morph": "f.nom.sg (compound: dhana+dā)"
+    },
+    {
+     "surface": "mokṣadā",
+     "gloss": "liberation-giver",
+     "grounds": "attributes the power of granting liberation",
+     "morph": "f.nom.sg (compound: mokṣa+dā)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "names the subject as goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvakāmaphalapradā",
+     "gloss": "all-desire-fruit-bestower",
+     "grounds": "attributes the power of granting fruits of all desires",
+     "morph": "f.nom.sg (compound: sarva+kāma+phala+pradā)"
+    }
+   ],
+   "question": "What boons does the goddess ḍākinī bestow upon her devotees?",
+   "premises": [
+    "The goddess is described as a giver of wealth.",
+    "The goddess is described as a giver of liberation and all desired fruits."
+   ],
+   "inference": "The goddess grants both worldly prosperity and ultimate liberation.",
+   "uncertainties": [],
+   "plain_english": "The goddess gives wealth, gives liberation, and bestows the fruits of all desires."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "patir",
+     "gloss": "husband",
+     "grounds": "names a possible worshipper category",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūpatir",
+     "gloss": "king",
+     "grounds": "names another possible worshipper category",
+     "morph": "m.nom.sg (compound: bhū+pati)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "disjunctive particle with emphasis",
+     "morph": "(indecl., vā+api)"
+    },
+    {
+     "surface": "nānyo",
+     "gloss": "not-another",
+     "grounds": "negates the existence of another category; sandhi of na+anyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence",
+     "morph": "3.sg.pres.act (√as)"
+    },
+    {
+     "surface": "pūjakaḥ",
+     "gloss": "worshipper",
+     "grounds": "names the agent of worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "emphatic or continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is eligible to be a worshipper of this great knowledge?",
+   "premises": [
+    "A husband or a king may be a worshipper.",
+    "No other worshipper exists beyond these."
+   ],
+   "inference": "Eligibility for worship is restricted to the stated categories.",
+   "uncertainties": [
+    "The restriction may be rhetorical or context-specific rather than absolute."
+   ],
+   "plain_english": "Whether a husband or a king, there is no other worshipper again."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "śastraghātād",
+     "gloss": "from-weapon-strike",
+     "grounds": "names the cause or circumstance",
+     "morph": "m.abl.sg (compound: śastra+ghāta)"
+    },
+    {
+     "surface": "bhaven",
+     "gloss": "may-be",
+     "grounds": "expresses possibility or result; sandhi of bhavet",
+     "morph": "3.sg.opt.act (√bhū)"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "names the result attained",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "O-lord-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg (compound: sura+īśvarī)"
+    }
+   ],
+   "question": "What result can arise from a weapon strike according to this declaration?",
+   "premises": [
+    "Liberation may arise from a weapon strike.",
+    "This claim is emphatically affirmed as truth."
+   ],
+   "inference": "Even death by weapon strike can lead to liberation in this context.",
+   "uncertainties": [
+    "The specific ritual or devotional conditions for this liberation are not stated here."
+   ],
+   "plain_english": "O lord of gods, liberation may come from a weapon strike; this is truth, truth."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "dhūmāvatīṃ",
+     "gloss": "Dhūmāvatī",
+     "grounds": "names the deity as object of attention",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahāvidyāṃ",
+     "gloss": "great-knowledge",
+     "grounds": "identifies Dhūmāvatī as a great knowledge",
+     "morph": "f.acc.sg (compound: mahā+vidyā)"
+    },
+    {
+     "surface": "mahāyogaprabhāviṇīm",
+     "gloss": "powerful-through-great-yoga",
+     "grounds": "describes her as empowered by great yoga",
+     "morph": "f.acc.sg (compound: mahā+yoga+prabhāvin)"
+    }
+   ],
+   "question": "How is the deity Dhūmāvatī characterized in this introduction?",
+   "premises": [
+    "Dhūmāvatī is identified as a great knowledge.",
+    "Dhūmāvatī is described as powerful through great yoga."
+   ],
+   "inference": "Dhūmāvatī is presented as a mahāvidyā endowed with great yogic power.",
+   "uncertainties": [],
+   "plain_english": "Dhūmāvatī, the great knowledge, is powerful through great yoga."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "dhakāre",
+     "gloss": "in-dha-syllable",
+     "grounds": "locates the attribute in the syllable dha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvadhamanī",
+     "gloss": "all-sustaining",
+     "grounds": "attributes the power of sustaining all",
+     "morph": "f.nom.sg (compound: sarva+dhaman)"
+    },
+    {
+     "surface": "ukāre",
+     "gloss": "in-u-syllable",
+     "grounds": "locates the attribute in the syllable u",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pālinī",
+     "gloss": "protectress",
+     "grounds": "attributes the power of protection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "states traditional identification",
+     "morph": "f.nom.sg (past participle, √smṛ)"
+    }
+   ],
+   "question": "What powers are associated with the syllables dha and u in Dhūmāvatī's mantra?",
+   "premises": [
+    "In the syllable dha she is remembered as all-sustaining.",
+    "In the syllable u she is remembered as protectress."
+   ],
+   "inference": "Different syllables of the mantra embody distinct sustaining and protective powers.",
+   "uncertainties": [],
+   "plain_english": "In the syllable dha she is remembered as all-sustaining, and in the syllable u as protectress."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "dhṛkāre",
+     "gloss": "in-dhṛ-syllable",
+     "grounds": "locates the attribute in the syllable dhṛ",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nāśinī",
+     "gloss": "destroyer",
+     "grounds": "attributes the power of destruction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "names the subject as goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāpralayakāriṇī",
+     "gloss": "great-dissolution-causing",
+     "grounds": "attributes the power of causing great dissolution",
+     "morph": "f.nom.sg (compound: mahā+pralaya+kārin)"
+    }
+   ],
+   "question": "What destructive power is attributed to the syllable dhṛ in Dhūmāvatī's mantra?",
+   "premises": [
+    "In the syllable dhṛ the goddess is a destroyer.",
+    "She is described as causing the great dissolution."
+   ],
+   "inference": "The syllable dhṛ embodies the goddess's power of destruction and cosmic dissolution.",
+   "uncertainties": [],
+   "plain_english": "In the syllable dhṛ the goddess is the destroyer, causing the great dissolution."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "vakāre",
+     "gloss": "in-va-syllable",
+     "grounds": "locates the attribute in the syllable va",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāmarūpā",
+     "gloss": "desire-form",
+     "grounds": "attributes a form associated with desire or wish-fulfillment",
+     "morph": "f.nom.sg (compound: kāma+rūpa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tikāre",
+     "gloss": "in-ti-syllable",
+     "grounds": "locates the attribute in the syllable ti",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tīkṣnadhāriṇī",
+     "gloss": "sharp-bearing",
+     "grounds": "attributes the quality of bearing sharpness",
+     "morph": "f.nom.sg (compound: tīkṣṇa+dhārin)"
+    }
+   ],
+   "question": "What qualities are associated with the syllables va and ti in Dhūmāvatī's mantra?",
+   "premises": [
+    "In the syllable va she has the form of desire.",
+    "In the syllable ti she bears sharpness."
+   ],
+   "inference": "The syllables va and ti express desire-form and sharpness respectively.",
+   "uncertainties": [],
+   "plain_english": "In the syllable va she is of desire-form, and in the syllable ti she bears sharpness."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "vagalā",
+     "gloss": "Bagalā",
+     "grounds": "names the deity Bagalā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle introducing another subject",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "identifies Bagalā as a great knowledge",
+     "morph": "f.nom.sg (compound: mahā+vidyā)"
+    },
+    {
+     "surface": "tasyāmantraṃ",
+     "gloss": "her-mantra",
+     "grounds": "refers to the mantra belonging to her; fused form of tasyāḥ+mantram",
+     "morph": "n.acc.sg (compound: tad+mantra)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative command to listen",
+     "morph": "2.sg.imp.act (√śru)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What instruction is given regarding the mantra of the great knowledge Bagalā?",
+   "premises": [
+    "Bagalā is identified as a great knowledge.",
+    "The listener is commanded to hear her mantra."
+   ],
+   "inference": "The teaching transitions to revealing the mantra of Bagalā.",
+   "uncertainties": [],
+   "plain_english": "And Bagalā is a great knowledge; O beloved, hear her mantra."
+  }
+ ]
+}

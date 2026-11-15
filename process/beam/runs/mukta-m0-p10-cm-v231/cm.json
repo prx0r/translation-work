@@ -3,24 +3,44 @@
  "verse": 231,
  "rows": [
   {
-   "lemma": "tṛtīyasavanākhyāṃ",
-   "morph": "compound",
-   "grounds": "compound"
+   "lemma": "patir",
+   "morph": "m.nom.sg",
+   "grounds": "names a possible worshipper category"
   },
   {
-   "lemma": "ca",
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "dhyāyedvai",
-   "morph": "3.sg.act-opt + root dhyā",
-   "grounds": "verb"
+   "lemma": "bhūpatir",
+   "morph": "m.nom.sg (compound: bhū+pati)",
+   "grounds": "names another possible worshipper category"
   },
   {
-   "lemma": "viṣṇurūpiṇīm",
-   "morph": "compound",
-   "grounds": "compound"
+   "lemma": "vāpi",
+   "morph": "(indecl., vā+api)",
+   "grounds": "disjunctive particle with emphasis"
+  },
+  {
+   "lemma": "nānyo",
+   "morph": "m.nom.sg",
+   "grounds": "negates the existence of another category; sandhi of na+anyaḥ"
+  },
+  {
+   "lemma": "asti",
+   "morph": "3.sg.pres.act (√as)",
+   "grounds": "asserts existence"
+  },
+  {
+   "lemma": "pūjakaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "names the agent of worship"
+  },
+  {
+   "lemma": "punaḥ",
+   "morph": "(indecl.)",
+   "grounds": "emphatic or continuative particle"
   }
  ]
 }

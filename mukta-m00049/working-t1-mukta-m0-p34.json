@@ -12,7 +12,7 @@
 },
 {
 "surface": "antarjapaṃ",
-"quick_gloss": "internal+recitation"
+"quick_gloss": "internal+japa"
 },
 {
 "surface": "mātar",
@@ -24,11 +24,11 @@
 },
 {
 "surface": "kāli",
-"quick_gloss": "kālī"
+"quick_gloss": "Kali"
 },
 {
 "surface": "namo'stu",
-"quick_gloss": "obeisance+be"
+"quick_gloss": "salutation+be"
 },
 {
 "surface": "te",
@@ -74,11 +74,11 @@
 "tokens": [
 {
 "surface": "parameśvari",
-"quick_gloss": "o-supreme-goddess"
+"quick_gloss": "supreme-goddess"
 },
 {
 "surface": "svāheti",
-"quick_gloss": "svāhā"
+"quick_gloss": "svaha"
 },
 {
 "surface": "evameva",
@@ -86,11 +86,11 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "one-should-recite"
+"quick_gloss": "one-should-mutter"
 },
 {
 "surface": "jape",
-"quick_gloss": "in-recitation"
+"quick_gloss": "in-japa"
 },
 {
 "surface": "ayam",
@@ -98,7 +98,7 @@
 },
 {
 "surface": "anuloma",
-"quick_gloss": "in-natural-order"
+"quick_gloss": "in-order"
 },
 {
 "surface": "iti",
@@ -135,7 +135,7 @@
 },
 {
 "surface": "merur",
-"quick_gloss": "summit-bead"
+"quick_gloss": "summit"
 },
 {
 "surface": "ucyate",
@@ -151,7 +151,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ito",
+"surface": "itaḥ",
 "quick_gloss": "from-here"
 },
 {
@@ -219,7 +219,7 @@
 "tokens": [
 {
 "surface": "bhairavā",
-"quick_gloss": "bhairavas"
+"quick_gloss": "Bhairavas"
 },
 {
 "surface": "api",
@@ -259,12 +259,20 @@
 "quick_gloss": "māyā+womb"
 },
 {
-"surface": "trikoṇañca",
+"surface": "trikoṇañ",
 "quick_gloss": "triangle"
 },
 {
-"surface": "vṛttañca",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "vṛttañ",
 "quick_gloss": "circle"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "caturasrakam",
@@ -284,12 +292,16 @@
 "quick_gloss": "ending-in-ṅ"
 },
 {
-"surface": "ādhāraśaktiñca",
+"surface": "ādhāraśaktiñ",
 "quick_gloss": "support+power"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "namaḥśabdāvasānikām",
-"quick_gloss": "namaḥ+word+ending-with"
+"quick_gloss": "namaḥ+word+ending"
 }
 ]
 },
@@ -335,7 +347,7 @@
 },
 {
 "surface": "sthāpayet",
-"quick_gloss": "one-should-establish"
+"quick_gloss": "should-establish"
 },
 {
 "surface": "tatra",
@@ -360,7 +372,7 @@
 "tokens": [
 {
 "surface": "viśeṣārghyasya",
-"quick_gloss": "of-special-offering"
+"quick_gloss": "of-special-arghya"
 },
 {
 "surface": "iti",
@@ -393,7 +405,7 @@
 },
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "ādhāraśaktim",
@@ -418,7 +430,7 @@
 "tokens": [
 {
 "surface": "namo'ntena",
-"quick_gloss": "with-namaḥ+ending"
+"quick_gloss": "ending-in-namaḥ"
 },
 {
 "surface": "yajet",
@@ -467,7 +479,7 @@
 },
 {
 "surface": "ambike",
-"quick_gloss": "o-mother"
+"quick_gloss": "O-mother"
 }
 ]
 },
@@ -495,8 +507,12 @@
 "quick_gloss": "namaḥ"
 },
 {
-"surface": "ityapi",
+"surface": "ity",
 "quick_gloss": "thus"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 }
 ]
 },
@@ -526,11 +542,11 @@
 },
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "arghyapātraṃ",
-"quick_gloss": "offering+vessel"
+"quick_gloss": "arghya+vessel"
 },
 {
 "surface": "prapūrayet",
@@ -551,7 +567,7 @@
 },
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "tatraiva",
@@ -612,8 +628,12 @@
 "quick_gloss": "dūrvā+flower"
 },
 {
-"surface": "sākṣatañca",
+"surface": "sākṣatañ",
 "quick_gloss": "with-unbroken-rice"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "kṛtvā",
@@ -654,7 +674,7 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "one-should-recite"
+"quick_gloss": "one-should-mutter"
 }
 ]
 },
@@ -700,7 +720,7 @@
 },
 {
 "surface": "arghyapātraṃ",
-"quick_gloss": "offering+vessel"
+"quick_gloss": "arghya+vessel"
 },
 {
 "surface": "na",

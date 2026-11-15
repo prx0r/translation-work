@@ -3,9 +3,7 @@
  "song": "kul-p69",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1704 ratio=0.897"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "6212e1cd7bfd5f97",
@@ -25,7 +23,7 @@
   "sub090": {
    "1704": {
     "ratio": 0.897,
-    "disposition": null
+    "disposition": "sandhi-only: tathaiva+adīkṣitaḥ (aa→ā), adīkṣitaḥ+ca→adīkṣitaśca (visarga→ś before palatal), ca+api→cāpi; order verified token-by-token vs source 2026-11-15"
    }
   }
  },
@@ -58,9 +56,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1704"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "682fc77a8a76ce21ce7c52b0cbc1ab1b563612c60af585fda79daf57c23d4745",
   "l0": "84e8611e31a3b65c74de5c15c8244110bb5ceb9dd04115370b2083029410b773",

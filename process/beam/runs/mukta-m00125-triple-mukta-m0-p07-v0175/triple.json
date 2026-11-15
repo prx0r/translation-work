@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "snapanantu",
+     "gloss": "bathing-but",
+     "grounds": "sandhi fusion of snapanam (ritual-bathing) and tu (but/indeed); treated as one token",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "yathānmāyaṃ",
+     "gloss": "according-to-measure",
+     "grounds": "sandhi fusion expressing proportion or due measure; treated as one token",
+     "morph": "indecl.+n.acc.sg"
+    },
+    {
+     "surface": "taccā",
+     "gloss": "that-and",
+     "grounds": "sandhi fusion of tat (that) and ca (and); treated as one token",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "nekavidhaṃ",
+     "gloss": "of-many-kinds",
+     "grounds": "expresses multiplicity or variety; treated as one token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative indicating what is to be done",
+     "morph": "3.sg.act.opt+√bhū"
+    }
+   ],
+   "question": "What manner and variety of ritual bathing is required in inauspicious circumstances?",
+   "premises": [
+    "Ritual bathing is prescribed as a response in the described inauspicious situations.",
+    "The bathing should be performed according to due measure.",
+    "The bathing should also be of many kinds."
+   ],
+   "inference": "Therefore, the prescribed ritual bathing must be both proportionate and varied in form.",
+   "uncertainties": [
+    "The exact internal analysis of yathānmāyaṃ is uncertain, though its sense as according to measure is clear in context."
+   ],
+   "plain_english": "But the ritual bathing should be performed according to due measure, and it may be of many kinds."
+  }
+ ]
+}

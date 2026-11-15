@@ -3,9 +3,29 @@
  "verse": 1539,
  "rows": [
   {
-   "lemma": "raktavarṇaḥ",
+   "lemma": "agre",
+   "morph": "n.loc.sg",
+   "grounds": "locative indicating the peg's end"
+  },
+  {
+   "lemma": "tryaṅgulavistāraḥ",
+   "morph": "compound m.nom.sg",
+   "grounds": "alternative tip width specification"
+  },
+  {
+   "lemma": "śaṅkur",
    "morph": "m.nom.sg",
-   "grounds": "token as given"
+   "grounds": "subject of the specification"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "introduces an alternative"
+  },
+  {
+   "lemma": "sarvavāstuṣu",
+   "morph": "compound n.loc.pl",
+   "grounds": "indicates applicability to all sites"
   }
  ]
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "dharmāḥ",
+     "gloss": "principles",
+     "grounds": "plural of dharma, denoting the qualities or principles listed as a set",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dharma+ādibhiḥ",
+     "gloss": "beginning-with-dharma",
+     "grounds": "compound with ādi indicating dharma and others; instrumental plural qualifying vargaiḥ",
+     "morph": "dharma+ādi-bahuvrihi;m.inst.pl"
+    },
+    {
+     "surface": "vargaiḥ",
+     "gloss": "groups",
+     "grounds": "classes or sets accompanying the arrangement",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "chadana+ābhyāṃ",
+     "gloss": "two-coverings",
+     "grounds": "dual form denoting a pair of coverings",
+     "morph": "n.inst.du"
+    },
+    {
+     "surface": "samanvitaiḥ",
+     "gloss": "endowed-with",
+     "grounds": "past participle agreeing with vargaiḥ, expressing accompaniment or endowment",
+     "morph": "sam-anv-ita;m.inst.pl"
+    }
+   ],
+   "question": "Which groups beginning with dharma and which coverings endow the described arrangement?",
+   "premises": [
+    "Groups beginning with dharma are included in the arrangement.",
+    "Two coverings accompany these groups.",
+    "The arrangement is endowed with these groups and coverings together."
+   ],
+   "inference": "The described arrangement is endowed with dharma-led groups and two coverings.",
+   "uncertainties": [
+    "The specific members of the dharma-led groups are not enumerated in this verse."
+   ],
+   "plain_english": "It is endowed with the groups beginning with dharma and with the two coverings."
+  }
+ ]
+}

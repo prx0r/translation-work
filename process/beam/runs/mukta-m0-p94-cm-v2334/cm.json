@@ -3,19 +3,44 @@
  "verse": 2334,
  "rows": [
   {
-   "lemma": "hastyaśvarathasaṃpanne",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "lemma": "pṛṣṭha",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "varcasvāñjāyate",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "lemma": "āvāsa",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "kule",
+   "lemma": "sabhā",
+   "morph": "f.nom.sg",
+   "grounds": "subject compared"
+  },
+  {
+   "lemma": "tadvat",
    "morph": "indecl.",
-   "grounds": "token as given"
+   "grounds": "comparison marker"
+  },
+  {
+   "lemma": "anyat",
+   "morph": "pron.nom.sg.n",
+   "grounds": "remaining elements"
+  },
+  {
+   "lemma": "sarvam",
+   "morph": "adj.nom.sg.n",
+   "grounds": "totality of remainder"
+  },
+  {
+   "lemma": "adhaḥ",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "sthale",
+   "morph": "n.loc.sg",
+   "grounds": "location of comparison"
   }
  ]
 }
