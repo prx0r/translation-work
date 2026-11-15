@@ -23,12 +23,8 @@
 "quick_gloss": "creates"
 },
 {
-"surface": "śiva",
-"quick_gloss": "by-Śiva"
-},
-{
-"surface": "īritaḥ",
-"quick_gloss": "impelled"
+"surface": "śiva+īritaḥ",
+"quick_gloss": "by-śiva+impelled"
 }
 ]
 },
@@ -115,7 +111,7 @@
 },
 {
 "surface": "gamayati",
-"quick_gloss": "causes-to-go"
+"quick_gloss": "leads"
 },
 {
 "surface": "iti",
@@ -152,7 +148,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "in-Śiva"
+"quick_gloss": "in-śiva"
 },
 {
 "surface": "tataḥ",
@@ -169,7 +165,7 @@
 "tokens": [
 {
 "surface": "vyatiriktā",
-"quick_gloss": "as-different"
+"quick_gloss": "different"
 },
 {
 "surface": "iti",
@@ -198,19 +194,15 @@
 },
 {
 "surface": "samavāyinyau",
-"quick_gloss": "inhering"
+"quick_gloss": "inherent"
 },
 {
 "surface": "śive",
-"quick_gloss": "in-Śiva"
+"quick_gloss": "in-śiva"
 },
 {
-"surface": "jñāna+ātmike",
-"quick_gloss": "of-knowledge-nature"
-},
-{
-"surface": "kriyā+ātmike",
-"quick_gloss": "of-action-nature"
+"surface": "jñāna+kriyā+ātmike",
+"quick_gloss": "knowledge+action+natured"
 }
 ]
 },
@@ -223,7 +215,7 @@
 "tokens": [
 {
 "surface": "jñāna+śaktyā",
-"quick_gloss": "by-knowledge-power"
+"quick_gloss": "by-knowledge+power"
 },
 {
 "surface": "vijānāti",
@@ -252,7 +244,7 @@
 "tokens": [
 {
 "surface": "śivaḥ",
-"quick_gloss": "Śiva"
+"quick_gloss": "śiva"
 },
 {
 "surface": "iti",
@@ -273,7 +265,7 @@
 "tokens": [
 {
 "surface": "tābhyāṃ",
-"quick_gloss": "from-those-two"
+"quick_gloss": "from-them"
 },
 {
 "surface": "na",
@@ -305,11 +297,11 @@
 },
 {
 "surface": "śivaṃ",
-"quick_gloss": "without-Śiva"
+"quick_gloss": "without-śiva"
 },
 {
 "surface": "vinā",
-"quick_gloss": "vinā"
+"quick_gloss": "without"
 }
 ]
 },
@@ -321,24 +313,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īśā",
-"quick_gloss": "of-Īśā"
+"surface": "īśā+adhika",
+"quick_gloss": "of-īśā+and-more"
 },
 {
-"surface": "adhika+kriyā+śaktyoḥ",
-"quick_gloss": "and-of-higher-action-power"
+"surface": "kriyā+śaktyoḥ",
+"quick_gloss": "of-action+powers"
 },
 {
-"surface": "vidyā",
-"quick_gloss": "of-vidyā"
-},
-{
-"surface": "jñāna",
-"quick_gloss": "and-of-knowledge"
+"surface": "vidyā+jñāna",
+"quick_gloss": "of-vidyā+knowledge"
 },
 {
 "surface": "atiriktayoḥ",
-"quick_gloss": "distinct"
+"quick_gloss": "beyond"
 }
 ]
 },
@@ -350,8 +338,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñāna+śaktyā+ādhikye",
-"quick_gloss": "in-superiority-of-knowledge-power"
+"surface": "jñāna+śaktyā",
+"quick_gloss": "of-knowledge+power"
+},
+{
+"surface": "ādhikye",
+"quick_gloss": "in-superiority"
 },
 {
 "surface": "api",
@@ -359,7 +351,7 @@
 },
 {
 "surface": "vidyā+tattva+ātmā",
-"quick_gloss": "of-vidyā-tattva-nature"
+"quick_gloss": "of-vidyā+tattva+nature"
 }
 ]
 },
@@ -379,12 +371,8 @@
 "quick_gloss": "various"
 },
 {
-"surface": "sva+bhāva",
-"quick_gloss": "by-own-nature"
-},
-{
-"surface": "lalitāḥ",
-"quick_gloss": "playful"
+"surface": "sva+bhāva+lalitāḥ",
+"quick_gloss": "by-own-nature+playful"
 },
 {
 "surface": "priyāḥ",
@@ -405,11 +393,11 @@
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "Śiva"
+"quick_gloss": "śiva"
 },
 {
 "surface": "śakteḥ",
-"quick_gloss": "from-power"
+"quick_gloss": "of-power"
 },
 {
 "surface": "ananyāyāḥ",
@@ -417,7 +405,7 @@
 },
 {
 "surface": "kriyā+ātmanaḥ",
-"quick_gloss": "of-action-nature"
+"quick_gloss": "of-action+nature"
 }
 ]
 },
@@ -458,7 +446,7 @@
 },
 {
 "surface": "kriyā+ātmikā",
-"quick_gloss": "of-action-nature"
+"quick_gloss": "of-action+nature"
 }
 ]
 },
@@ -483,11 +471,11 @@
 },
 {
 "surface": "tattva+augham",
-"quick_gloss": "mass-of-tattvas"
+"quick_gloss": "tattva+multitude"
 },
 {
 "surface": "aneka+bhuvana+āvalim",
-"quick_gloss": "series-of-many-worlds"
+"quick_gloss": "of-many+worlds+series"
 }
 ]
 },
@@ -553,7 +541,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "in-Śiva"
+"quick_gloss": "in-śiva"
 }
 ]
 },
@@ -573,8 +561,8 @@
 "quick_gloss": "says"
 },
 {
-"surface": "jaḍatvaḥ",
-"quick_gloss": "insentience"
+"surface": "jaḍatve",
+"quick_gloss": "in-insentience"
 },
 {
 "surface": "iti",
@@ -591,11 +579,15 @@
 "tokens": [
 {
 "surface": "śivasya",
-"quick_gloss": "of-Śiva"
+"quick_gloss": "of-śiva"
 },
 {
-"surface": "anupama+akhaṇḍa+cid+ghana+eka+svarūpiṇaḥ",
-"quick_gloss": "of-incomparable-undivided-mass-of-consciousness-sole-nature"
+"surface": "anupama+akhaṇḍa",
+"quick_gloss": "of-incomparable+undivided"
+},
+{
+"surface": "cit+ghana+eka+svarūpiṇaḥ",
+"quick_gloss": "consciousness+mass+single+nature"
 }
 ]
 },
@@ -607,8 +599,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tva+cetanatva+ādi+doṣa+prasaṅgāt",
-"quick_gloss": "because-of-entailment-of-faults-of-non-consciousness-etc."
+"surface": "acetana+tva+ādi+doṣa",
+"quick_gloss": "of-unconsciousness+etc.+fault"
+},
+{
+"surface": "prasaṅgāt",
+"quick_gloss": "from-entailment"
 }
 ]
 },
@@ -632,12 +628,16 @@
 "quick_gloss": "reasoning"
 },
 {
-"surface": "śāstraṃ",
+"surface": "śāstram",
 "quick_gloss": "scripture"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
 },
 {
 "surface": "ātmā",
@@ -649,7 +649,7 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 },
 {
 "surface": "ca",
@@ -670,7 +670,7 @@
 "tokens": [
 {
 "surface": "bhoga+mokṣa+kartṛtayā",
-"quick_gloss": "because-of-being-agent-of-enjoyment-and-liberation"
+"quick_gloss": "by-enjoyment+liberation+agency"
 },
 {
 "surface": "devatā",
@@ -699,15 +699,15 @@
 "tokens": [
 {
 "surface": "kriyayā",
-"quick_gloss": "because-of-being-cause-by-action"
+"quick_gloss": "by-action"
 },
 {
 "surface": "hetu+bhūtatvāt",
-"quick_gloss": "hetu+bhūtatvāt"
+"quick_gloss": "by-being-cause"
 },
 {
 "surface": "kriyā+śaktiḥ",
-"quick_gloss": "action-power"
+"quick_gloss": "action+power"
 },
 {
 "surface": "cit",
@@ -732,11 +732,11 @@
 "tokens": [
 {
 "surface": "kriyā+hetu+bhūtatvāt",
-"quick_gloss": "because-of-being-cause-of-action"
+"quick_gloss": "by-being-cause+of-action"
 },
 {
 "surface": "jñāna+śaktiḥ",
-"quick_gloss": "knowledge-power"
+"quick_gloss": "knowledge+power"
 },
 {
 "surface": "eva",
@@ -744,7 +744,7 @@
 },
 {
 "surface": "kriyā+śaktiḥ",
-"quick_gloss": "action-power"
+"quick_gloss": "action+power"
 },
 {
 "surface": "ucyate",

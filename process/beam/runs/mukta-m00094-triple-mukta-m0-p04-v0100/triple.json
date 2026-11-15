@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "gurumantreṣṭadevīnāṃ",
+     "gloss": "of-guru-mantra-chosen-goddess",
+     "grounds": "compound genitive plural denoting guru, mantra, and iṣṭadevatā as a group",
+     "morph": "compound: guru+mantra+iṣṭa+devī; gen.pl.f"
+    },
+    {
+     "surface": "ekatvaṃ",
+     "gloss": "oneness",
+     "grounds": "abstract noun expressing identity or unity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikathyate",
+     "gloss": "is-declared",
+     "grounds": "predicate asserting a doctrinal teaching",
+     "morph": "3.sg.pass-pres; √kath"
+    }
+   ],
+   "question": "What unity is doctrinally affirmed among guru, mantra, and chosen goddess?",
+   "premises": [
+    "Guru, mantra, and chosen goddess are named together as a related set.",
+    "Oneness is predicated of this set.",
+    "This oneness is explicitly declared as a teaching."
+   ],
+   "inference": "The guru, the mantra, and the chosen goddess are taught to be one.",
+   "uncertainties": [],
+   "plain_english": "The oneness of the guru, the mantra, and the chosen goddess is declared."
+  }
+ ]
+}

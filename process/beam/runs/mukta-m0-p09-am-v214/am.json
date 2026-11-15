@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 214,
- "question": "What textual section concludes with this colophon in the Śivadṛṣṭi commentary?",
+ "question": "For which range of ritual aims are specific seals or procedures applied?",
  "premises": [
-  "The verse is a colophon formula.",
-  "It names the author and the work.",
-  "It specifies the chapter number."
+  "Multiple ritual aims are listed.",
+  "They include pacification, subjugation, and paralysis.",
+  "They also include hatred, expulsion, and killing."
  ],
- "inference": "This marks the end of the second chapter in the commentary on the Śivadṛṣṭi.",
- "uncertainties": [],
- "plain_english": "Thus ends the second chapter in the venerable commentary on the Śivadṛṣṭi composed by the revered Utpaladeva."
+ "inference": "The teaching applies across pacification, subjugation, paralysis, hatred, expulsion, and killing rites.",
+ "uncertainties": [
+  "The verse lists contexts but does not explicitly restate which seal applies to each."
+ ],
+ "plain_english": "In pacification, subjugation, paralysis, and in hatred, expulsion, and killing rites."
 }

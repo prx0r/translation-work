@@ -3,29 +3,39 @@
  "verse": 207,
  "rows": [
   {
-   "lemma": "evaṃ",
+   "lemma": "yadi",
    "morph": "(indecl.)",
-   "grounds": "in this manner"
+   "grounds": "introduces a conditional case"
   },
   {
-   "lemma": "bhavaprakriyāyā",
-   "morph": "f.gen.sg",
-   "grounds": "the process of worldly becoming or manifestation"
+   "lemma": "kāmī",
+   "morph": "m.nom.sg",
+   "grounds": "one motivated by a specific desire"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.optative-active + bhū",
+   "grounds": "conditional state of being"
+  },
+  {
+   "lemma": "ca+eva",
+   "morph": "compound: ca+eva (indecl.)",
+   "grounds": "emphatic connective"
+  },
+  {
+   "lemma": "śūdraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "member of the śūdra social class"
   },
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "inclusive particle"
+   "grounds": "inclusive particle extending applicability"
   },
   {
-   "lemma": "sūkṣmatarā",
-   "morph": "f.nom.sg",
-   "grounds": "even subtler than the previously mentioned state"
-  },
-  {
-   "lemma": "sthitiḥ",
-   "morph": "f.nom.sg",
-   "grounds": "abiding condition"
+   "lemma": "homa+karmaṇi",
+   "morph": "compound: homa+karmaṇi (n.loc.sg)",
+   "grounds": "the ritual act of fire offering"
   }
  ]
 }

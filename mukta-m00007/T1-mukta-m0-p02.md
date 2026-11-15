@@ -2,52 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-knowledge-named(vidyā+ākhyam) principle(tattvam) thus-said(iti+uktam) by-those-various(tais+tais) in-those-āgamas(tad+āgameṣu) thus(ittham)
+[knowledge-named](vidyākhyaṃ) [principle](tattvam) [thus](iti) [stated](uktam) [by-those+by-those](taistais) [in-those+in-scriptures](tadāgameṣu) [thus](ittham)
 
 ## mukta-m0-p02-v27
-here(iha) but(punar) otherwise(anyā+eva) stated(uktā) not-inhering-in-person(puruṣa+asamavāyinī) speech(vāk) because(yasmāt)
+[here](iha) [however](punar) [otherwise](anyā) [indeed](eva) [stated](uktā) [not-inhering-in-person](puruṣāsamavāyinī) [speech](vāg) [because](yasmāt)
 
 ## mukta-m0-p02-v28
-proper(yuktam) due-to-consequence-of-mutability(pariṇāmitva+prasaṅgāt) therefore(tasmāt) not(na+eva) this(iyam) here-stated(atra+uktā)
+[proper](yuktam) [due-to-consequence+of-mutability](pariṇāmitvaprasaṅgāt) [therefore](tasmāt) [not](na) [indeed](eva) [this](iyam) [here](atra) [stated](uktā)
 
 ## mukta-m0-p02-v29
-in-many-ways(bahudhā) to-exist(sthātum) or(yad+vā) in-absence-of-consciousness(caitanya+vinākṛtau) due-to-mutability(vikāritvāt)
+[in-many-ways](bahudhā) [to-remain](sthātuṃ) [or](yadvā) [in-absence+of-consciousness](caitanyavinākṛtau) [due-to-mutability](vikāritvāt)
 
 ## mukta-m0-p02-v30
-therefore(tasmāt) different-from-each-person(prati+puruṣāt) and-from-its-power(tat+śakteḥ+ca) distinct(bhinnā) kuṇḍalinī(kuṇḍalinī) cause-of-sound(nāda+kāraṇam) established(siddhā) thus(iti)
+[therefore](tasmāt) [from-each-person](pratipuruṣāt) [and-from-that+power](tacchakteśca) [different](bhinnā) [kuṇḍalinī](kuṇḍalinī) [cause+of-sound](nādakāraṇaṃ) [established](siddhā) [thus](iti)
 
 ## mukta-m0-p02-v31
-though-non-conscious(acit+api) due-to-purity(śuddhatvāt) even-from-māyā(māyātaḥ+api) other(anyā) going-above-that(tad+ūrdhvagā) declared(kathitā)
+[non-conscious](acit) [also](api) [due-to-purity](śuddhatvāt) [from-māyā](māyātaḥ) [also](api) [other](anyā) [going-above+that](tadūrdhvagā) [declared](kathitā)
 
 ## mukta-m0-p02-v32
-as-said(yat+uktam) above-māyā(māyā+upari) mahāmāyā(mahāmāyā) in-raurava-saṃhitā(rau0+saṃ0) 4|28(4|28) thus(iti)
+[which](yat) [said](uktam) [above-māyā](māyopari) [great-māyā](mahāmāyā) [(rau0 saṃ0 4|28)]((rau0 saṃ0 4|28)) [thus](iti)
 
 ## mukta-m0-p02-v33
-on-the-path(adhvani) stated(uktam) and(ca) by-others(anyaiḥ) by-true-āgamas(sat+āgamaiḥ) for-welfare(śreyase) and(ca) its-cause(tat+hetuḥ)
+[in-the-path](adhvani) [stated](uktam) [and](ca) [by-others](anyaiḥ) [by-true+scriptures](sadāgamaiḥ) [for-welfare](śreyase) [and](ca) [cause+of-that](taddhetuḥ)
 
 ## mukta-m0-p02-v34
-accomplishment(siddhiḥ) and-liberation(muktiḥ+ca) supreme(parā) and(ca) knowledge-and-action-of-sound(nāda+jñāna+kriyā) fruitful(sa+phalā) thus(iti)
+[accomplishment](siddhiḥ) [and-liberation](muktiśca) [supreme](parā) [knowledge+and-action+of-sound](nādajñānakriyā) [and](ca) [fruitful](saphalā) [thus](iti)
 
 ## mukta-m0-p02-v35
-they-say(kathayanti) thus(iti) connection-with-previous-action(pūrva+kriyā+anuṣaṅgaḥ)
+[they-say](kathayanti) [thus](iti) [connection+of-previous-action](pūrvakriyānuṣaṅgaḥ)
 
 ## mukta-m0-p02-v36
-its-effect(tat+kāryam) due-to-attachment(abhiṣvaṅgāt) and-from-union-of-seeing-and-doing(dṛk+kriyayoḥ+mīlanāt+ca) different(bhinnam) which(yat)
+[effect+of-that](tatkāryam) [from-attachment](abhiṣvaṅgāt) [and-from-union+of-seeing+and-action](dṛkkriyayormīlanācca) [different](bhinnaṃ) [which](yat)
 
 ## mukta-m0-p02-v37
-and-due-to-consequence-of-non-conception-of-principles(tattva+parikalpanā+abhāva+prasaṅgāt+ca)
+[and-due-to-consequence+of-non-postulation+of-principles](tattvaparikalpanābhāvaprasaṅgācca)
 
 ## mukta-m0-p02-v38
-by-which(yena) gross(sthūlam) sound(śabdam) mantra(mantram) consisting-of-tantra(tantra+ātmakam) proceeds(pravartate) or(vā+api)
+[by-which](yena) [gross](sthūlaṃ) [sound](śabdaṃ) [mantra](mantraṃ) [consisting-of-tantra](tantrātmakaṃ) [proceeds](pravartate) [or](vāpi)
 
 ## mukta-m0-p02-v39
-but(tu) of-the-gross(sthūlasya) due-to-manifesting-that(tat+abhivyañjakatvāt) denotativeness(vācakatvam) thus-said(iti+uktam)
+[of-the-gross](sthūlasya) [but](tu) [due-to-manifesting+that](tadabhivyañjakatvāt) [state-of-being-expressor](vācakatvam) [thus](iti) [stated](uktam)
 
 ## mukta-m0-p02-v40
-collection-of-denoters(vācaka+jātam) having-created(nirmāya) from-within(antarataḥ) that(tat) manifests(vyanakti) in-the-external(bāhye+api)
+[collection+of-expressors](vācakajātaṃ) [having-created](nirmāya) [from-within](antarataḥ) [that](tad) [manifests](vyanakti) [in-the-external](bāhye) [also](api)
 
 ## mukta-m0-p02-v41
-making(kurvantaḥ) cognition(buddhim) distinct-from-the-denoted(vācya+vibhinnām) they-increase(vardhayanti) course-of-the-world(jana+yātrām)
+[different+from-the-expressed](vācyavibhinnāṃ) [cognition](buddhiṃ) [making](kurvantaḥ) [they-increase](vardhayanti) [course+of-the-world](janayātrām)
 
 ## mukta-m0-p02-v42
-son-of-nārāyaṇakaṇṭha(nārāyaṇakaṇṭha+sutaḥ) in-kashmir(kāśmīre) in-twenty-five-verses(vṛtta+pañcaviṃśatyā)
+[son+of-nārāyaṇakaṇṭha](nārāyaṇakaṇṭhasutaḥ) [in-kashmir](kāśmīre) [by-twenty-five+verses](vṛttapañcaviṃśatyā)

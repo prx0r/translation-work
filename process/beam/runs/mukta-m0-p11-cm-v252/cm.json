@@ -3,24 +3,34 @@
  "verse": 252,
  "rows": [
   {
-   "lemma": "iti",
+   "lemma": "tava",
+   "morph": "pron.gen.sg",
+   "grounds": "possessive referring to Vasiṣṭha"
+  },
+  {
+   "lemma": "bhakti+vaśena",
+   "morph": "m.inst.sg (bhakti+vaśa)",
+   "grounds": "cause motivating the speaker's action"
+  },
+  {
+   "lemma": "asmi",
+   "morph": "1.sg.pres.act √as",
+   "grounds": "speaker's present state"
+  },
+  {
+   "lemma": "prakāśya",
+   "morph": "gerund √prakāś",
+   "grounds": "action of making known"
+  },
+  {
+   "lemma": "iha",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle"
+   "grounds": "locative context of revelation"
   },
   {
-   "lemma": "kālottare",
-   "morph": "n.loc.sg",
-   "grounds": "locative singular in Kālottara"
-  },
-  {
-   "lemma": "puṣpa+gandha+paṭalaḥ",
-   "morph": "compound",
-   "grounds": "compound naming the chapter"
-  },
-  {
-   "lemma": "pañcamaḥ",
-   "morph": "adj.nom.sg",
-   "grounds": "nominative singular fifth"
+   "lemma": "tatparaḥ",
+   "morph": "m.nom.sg (tad+para)",
+   "grounds": "speaker's focused disposition"
   }
  ]
 }

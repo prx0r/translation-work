@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p13",
  "verse": 321,
- "question": "What contrasting materials adorn the deity's body?",
+ "question": "Which personal occasions are suitable for performing the prescribed rite?",
  "premises": [
-  "She wears gold armlets and bracelets.",
-  "She is adorned with ornaments made of great bones.",
-  "Both precious metal and bone adornments are present."
+  "One's own birth day is named",
+  "The day of pervasion is named",
+  "These are presented as alternatives"
  ],
- "inference": "Her adornment combines gold armlets and bracelets with ornaments made of great bones.",
- "uncertainties": [],
- "plain_english": "She wears gold armlets and bracelets and is adorned with ornaments made of great bones."
+ "inference": "The rite may be performed on one's own birth day or on the day of pervasion.",
+ "uncertainties": [
+  "The exact meaning of vyāptivāsara is context-dependent"
+ ],
+ "plain_english": "One may do it on one's own birth day, or else on the day of pervasion."
 }
