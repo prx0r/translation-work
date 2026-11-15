@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p117",
+ "items": [
+  {
+   "verse": 2925,
+   "rows": [
+    {
+     "surface": "kapālapāśinī",
+     "gloss": "skull-noose-bearing",
+     "grounds": "compound of kapāla (skull) and pāśinī (noose-bearing); feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "seyam",
+     "gloss": "she-this",
+     "grounds": "sandhi fusion of sā and iyam",
+     "morph": "f.nom.sg pron"
+    },
+    {
+     "surface": "sarvaśatrubhayaṃkarī",
+     "gloss": "all-enemies-fear-causing",
+     "grounds": "compound of sarva (all), śatru (enemies), and bhayaṃkarī (fear-causing); feminine nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which feminine form is described as skull-and-noose-bearing and fear-causing to all enemies?",
+   "premises": [
+    "The verse names a skull-and-noose-bearing feminine form.",
+    "The same form is said to cause fear to all enemies.",
+    "The pronoun seyam identifies the described subject."
+   ],
+   "inference": "The verse identifies a goddess-like feminine power marked by skull, noose, and enemy-terrifying force.",
+   "uncertainties": [
+    "The exact deity or ritual context is not specified by these three tokens alone."
+   ],
+   "plain_english": "She, this skull-and-noose-bearing form, causes fear to all enemies."
+  }
+ ]
+}

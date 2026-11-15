@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-thus(evantu) union(sandhānaṃ) having-made(kṛtvā) full-offering(pūrṇāhutyā) but(tu) let-fall(pātayet)
+[thus](evantu) [junction](sandhānaṃ) [having-made](kṛtvā) [full-offering](pūrṇāhutyā) [but](tu) [let-him-drop](pātayet)
 
 ## mukta-m0-p27-v652
-that(sa) smoke(dhūmaḥ) crackling-sound(ciṭaciṭāśabdaḥ) adorned-with-viṣṇu-marks(viṣṇuliṅgairvirājitaḥ)
+[that](sa) [smoke](dhūmaściṭaciṭāśabdo) [with-viṣṇu-marks](viṣṇuliṅgairvirājitaḥ)
 
 ## mukta-m0-p27-v653
-blue-cloud-like-form(nīlamamranibhākāraṃ) that(sa) smoke(dhūmaṃ) śālikā(śālikā) considered(mataḥ)
+[blue-dark](nīlamamranibhākāraṃ) [that](sa) [smoke](dhūmaṃ) [is-considered](śālikā) [opinion](mataḥ)
 
 ## mukta-m0-p27-v654
-extent(vistaraṃ) terrible-form(ghorarūpaṃ) and(ca) that(sa) smoke(dhūmaṃ) and(ca) let-write(likhet) earth(mahīm)
+[extent](vistaraṃ) [terrible-form](ghorarūpañca) [that](sa) [smoke](dhūmañca) [let-him-write](likhenmahīm)
 
 ## mukta-m0-p27-v655
-of-all(sarveṣāṃ) form(rūpam) assumes(ādhatte) being-drawn(kṛṣyamānaḥ) even(api) fire(pāvakaḥ)
+[of-all](sarveṣāṃ) [form](rūpamādhatte) [being-drawn](kṛṣyamāno'pi) [fire](pāvakaḥ)
 
 ## mukta-m0-p27-v656
-minor-sinners(upapātakinaḥ) and(ca) others(anye) those(tāni) thus(evam) should-mark(upalakṣayet)
+[minor-sinners](upapātakināścānye) [those](tānyevamupalakṣayet)
 
 ## mukta-m0-p27-v657
-camel-vulture-voiced-terrible(uṣṭragṛdhrasvarāghorāḥ) jackal-monkey-howling(śivāvānararāvakāḥ)
+[camel-vulture-voice-terrible](uṣṭragṛdhrasvarāghorāḥ) [jackal-monkey-cries](śivāvānararāvakāḥ)
 
 ## mukta-m0-p27-v658
-burns(jalate) crackling-sound(kradhukā) sound(śabdaḥ) phaṭ-sound(phaṭkāraḥ) and(ca) once(sakṛt) once(sakṛt)
+[is-burning](jalate) [harsh-sound](kradhukā) [sound](śabdaḥ) [phaṭ-sound](phaṭkāraśca) [once](sakṛt) [once](sakṛt)
 
 ## mukta-m0-p27-v659
-having-seen(dṛṣṭvā) these(etāni) bad-signs(apacihnāni) initiation-rite(dīkṣākarma) not(na) should-do(kārayet)
+[having-seen](dṛṣṭvaitānyapacihnāni) [initiation-rite](dīkṣākarma) [not](na) [let-him-do](kārayet)
 
 ## mukta-m0-p27-v660
-should-offer(homayet) lamp(dīpanaṃ) and(ca) indeed(eva) nine-tattva-abode(navatarvālayaṃ) lord(prabhuḥ)
+[let-him-offer](homayeddīpanañcaiva) [nine-principle-abode](navatatvālayaṃ) [lord](prabhuḥ)
 
 ## mukta-m0-p27-v661
-afterwards(paścāt) tattva-made(tatvakṛtaṃ) tattva(tatvaṃ) again(punar) homa-made(homakṛtena) but(tu)
+[afterwards](paścāttatvakṛtaṃ) [principle](tatvaṃ) [again](punarhomakṛtena) [but](tu)
 
 ## mukta-m0-p27-v662
-as(yathā) poison(viṣaṃ) very-terrible(mahāghoraṃ) entered-seven-tissues(saptadhātugataṃ) removes(haret)
+[as](yathā) [poison](viṣaṃ) [very-terrible](mahāghoraṃ) [seven-tissue](saptadhātugataṃ) [removes](haret)
 
 ## mukta-m0-p27-v663
-brahmin-killing-etc-sins(brahmahatyādipāpāni) of-minor-sinners(upapātakināṃ) thus(tathā)
+[brahmin-killing-etc-sins](brahmahatyādipāpāni) [of-minor-sinners](upapātakināṃ) [thus](tathā)
 
 ## mukta-m0-p27-v664
-thus(evam) purifying(saṃśodhya) disciple(śiṣyam) initiation-rite(dīkṣākarma) should-begin(samārabhet)
+[thus](evaṃ) [purifying](saṃśodhya) [disciple](śiṣyantu) [initiation-rite](dīkṣākarma) [let-him-begin](samārabhet)
 
 ## mukta-m0-p27-v665
-by-telling(kathayā) fault(doṣam) comes(āyāti) therefore(tasmāt) angry(kruddhaṃ) avoid(vivarjayet)
+[tells](kathayā) [fault](doṣamāyāti) [therefore](tasmātkruddhaṃ) [let-him-avoid](vivarjayet)
 
 ## mukta-m0-p27-v666
-procedure-thread-yoga(prakriyāsūtrayogaṃ) and(ca) of-bonds(pāśānāṃ) grasping(grahaṇaṃ) thus(tathā)
+[procedure-thread-yoga](prakriyāsūtrayogañca) [of-nooses](pāśānāṃ) [grasping](grahaṇaṃ) [thus](tathā)
 
 ## mukta-m0-p27-v667
-girl(kanyā) by-agent-thread(kartṛtvasūtreṇa) threefold-threefold(triguṇītriguṇī) made(kṛte)
+[maiden](kanyā) [by-thread-principle](kartṛtvasūtreṇa) [threefold-threefold](triguṇītriguṇī) [made](kṛte)
 
 ## mukta-m0-p27-v668
-worship-eleven(arcyekādaśakena) indeed(eva) that-thread(tatsūtram) tu(tu) expert(vicakṣaṇaḥ)
+[by-eleven-archings](arcyekādaśakenaiva) [that-thread](tatsūtrantu) [expert](vicakṣaṇaḥ)
 
 ## mukta-m0-p27-v669
-at-toe-tip(pādāṅguṣṭhapradeśe) but(tu) thread(sūtraṃ) having-made(kṛtvā) should-hold(pradhārayet)
+[at-toe-tip-place](pādāṅguṣṭhapradeśe) [but](tu) [thread](sūtraṃ) [having-made](kṛtvā) [let-him-hold](pradhārayet)
 
 ## mukta-m0-p27-v670
-having-made-whole(sakalīkṛtya) that-thread(tatsūtraṃ) with-all-mantras(sarvamantraiḥ) expert(vicakṣaṇaḥ)
+[having-made-unified](sakalīkṛtya) [that-thread](tatsūtraṃ) [with-all-mantras](sarvamantrairvicakṣaṇaḥ)
 
 ## mukta-m0-p27-v671
-by-that(tena) bonds(pāśāni) having-grasped(saṃgṛhya) thread-knot(sūtragranthyā) but(tu) should-do(kārayet)
+[by-that](tena) [nooses](pāśāni) [having-grasped](saṃgṛhya) [thread-knot](sūtragranthyā) [but](tu) [let-him-do](kārayet)
 
 ## mukta-m0-p27-v672
-by-tattva(tatvena) should-bind(bandhayet) again(bhūyaḥ) those(tān) bonds(pāśāṃs) tu(tu) expert(vicakṣaṇaḥ)
+[by-principle](tatvena) [let-him-bind-again](bandhayedbhūyaḥ) [those](tān) [nooses](pāśāṃstu) [expert](vicakṣaṇaḥ)
 
 ## mukta-m0-p27-v673
-having-bound(badhvā) bond(pāśaṃ) according-to-rule(yathānyāyaṃ) should-enshrine(vāsayet) god(deva) joined(saṃyutam)
+[having-bound](badhvā) [noose](pāśaṃ) [according-to-rule](yathānyāyaṃ) [let-him-consecrate](vāsayeddeva) [with-deity](saṃyutam)
 
 ## mukta-m0-p27-v674
-should-ignite(dīpayeta) then(tataḥ) bonds(pāśāṃ) with-huṃ-phaṭ(huṃphaḍantaḥ) in-order(krameṇa) but(tu)
+[let-him-light](dīpayeta) [then](tataḥ) [nooses](pāśāṃ) [huṃ-phaṭ-ending](huṃphaḍantaḥ) [in-order](krameṇa) [but](tu)
 
 ## mukta-m0-p27-v675
-at-dawn(prabhāte) clear(vimale) mantra-expert(mantrī) ignited-fire(pradīpte) day(ahani) well-performed(suvṛte)
+[at-dawn](prabhāte) [clear](vemale) [mantrin](mantrī) [let-him-light](pradīptehani) [well-performed](suvṛte)

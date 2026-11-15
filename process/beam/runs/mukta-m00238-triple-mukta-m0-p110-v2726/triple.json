@@ -1,0 +1,933 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2726,
+   "rows": [
+    {
+     "surface": "ābharaṇāni",
+     "gloss": "ornaments",
+     "grounds": "token 1",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "abhivāṃchati",
+     "gloss": "desires",
+     "grounds": "token 2",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "gaurī+rūpam",
+     "gloss": "gauri-form",
+     "grounds": "token 3",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "token 4",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "prathamam",
+     "gloss": "first",
+     "grounds": "token 5",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vṛṣabhasya",
+     "gloss": "of-taurus",
+     "grounds": "token 6",
+     "morph": "n.gen.sg.m"
+    }
+   ],
+   "question": "What ornaments and form are assigned to the first Taurus figure?",
+   "premises": [
+    "First Taurus figure desires ornaments",
+    "First Taurus figure has Gauri form"
+   ],
+   "inference": "The verse assigns ornament-desire and Gauri form to the first Taurus figure.",
+   "uncertainties": [
+    "Astrological attribution follows quoted source",
+    "Compendium voice not original author"
+   ],
+   "plain_english": "The first Taurus figure desires ornaments and has Gauri form."
+  },
+  {
+   "verse": 2727,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "gaurava+varṇā",
+     "gloss": "fair-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What complexion is assigned to the woman in this Taurus description?",
+   "premises": [
+    "Woman is fair-complexioned",
+    "Taurus description continues"
+   ],
+   "inference": "The verse assigns fair complexion to the woman.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The woman is fair-complexioned."
+  },
+  {
+   "verse": 2728,
+   "rows": [
+    {
+     "surface": "skaṃdham",
+     "gloss": "shoulder",
+     "grounds": "token 1",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "udvahati",
+     "gloss": "bears",
+     "grounds": "token 2",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "gopati+tulyam",
+     "gloss": "bull-like",
+     "grounds": "token 3",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "kṣut+paraḥ",
+     "gloss": "hungry",
+     "grounds": "token 4",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "aja+ vadanaḥ",
+     "gloss": "goat-faced",
+     "grounds": "token 5",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mala+vāsāḥ",
+     "gloss": "ragged-clothed",
+     "grounds": "token 6",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What shoulder-bearing and bodily traits belong to this Taurus figure?",
+   "premises": [
+    "Figure bears bull-like shoulder",
+    "Figure is hungry goat-faced and ragged-clothed"
+   ],
+   "inference": "The verse assigns bull-like shoulder, hunger, goat face, and ragged clothing.",
+   "uncertainties": [
+    "Compound segmentation follows source"
+   ],
+   "plain_english": "He bears a bull-like shoulder, is hungry, goat-faced, and ragged-clothed."
+  },
+  {
+   "verse": 2729,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śveta+varṇaḥ",
+     "gloss": "white-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Taurus description?",
+   "premises": [
+    "Man is white-complexioned",
+    "Taurus description continues"
+   ],
+   "inference": "The verse assigns white complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is white-complexioned."
+  },
+  {
+   "verse": 2730,
+   "rows": [
+    {
+     "surface": "a+vimṛga+lomā",
+     "gloss": "not-deer-haired",
+     "grounds": "token 1",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vyākula+cittaḥ",
+     "gloss": "agitated-minded",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vṛṣabha+varasya",
+     "gloss": "bull-excellent",
+     "grounds": "token 3",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "prāṃta+gataḥ",
+     "gloss": "end-reached",
+     "grounds": "token 4",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "token 5",
+     "morph": "pron.nom.sg.m"
+    }
+   ],
+   "question": "Which traits identify the excellent bull figure at the end?",
+   "premises": [
+    "Figure is not deer-haired",
+    "Figure is agitated-minded and end-reached"
+   ],
+   "inference": "The verse identifies the excellent bull figure by these traits.",
+   "uncertainties": [
+    "Negated compound reading"
+   ],
+   "plain_english": "He is not deer-haired, is agitated-minded, and has reached the end of the excellent bull."
+  },
+  {
+   "verse": 2731,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kanaka+varṇaḥ",
+     "gloss": "golden-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Taurus description?",
+   "premises": [
+    "Man is golden-complexioned",
+    "Taurus description continues"
+   ],
+   "inference": "The verse assigns golden complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is golden-complexioned."
+  },
+  {
+   "verse": 2732,
+   "rows": [
+    {
+     "surface": "hīna+ātmajā",
+     "gloss": "deprived-of-sons",
+     "grounds": "token 1",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ṛtumatī",
+     "gloss": "menstruating",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "mṛdu+dīrgha+bāhuḥ",
+     "gloss": "soft-long-armed",
+     "grounds": "token 3",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "token 4",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tṛtīya+bhavanasya",
+     "gloss": "third-house",
+     "grounds": "token 5",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "vadaṃti",
+     "gloss": "speak",
+     "grounds": "token 6",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "taj+jñāḥ",
+     "gloss": "that-knowers",
+     "grounds": "token 7",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "What traits and house placement do knowers assign to this figure?",
+   "premises": [
+    "Figure is deprived of sons",
+    "Figure is menstruating and soft-long-armed",
+    "Knowers speak of first third house"
+   ],
+   "inference": "The verse assigns these traits and third-house placement.",
+   "uncertainties": [
+    "House terminology astrological"
+   ],
+   "plain_english": "Deprived of sons, menstruating, soft and long-armed; knowers speak of the first third house."
+  },
+  {
+   "verse": 2733,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "harid+varṇā",
+     "gloss": "greenish-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What complexion is assigned to the woman in this Taurus description?",
+   "premises": [
+    "Woman is greenish-complexioned",
+    "Taurus description continues"
+   ],
+   "inference": "The verse assigns greenish complexion to the woman.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The woman is greenish-complexioned."
+  },
+  {
+   "verse": 2734,
+   "rows": [
+    {
+     "surface": "krīḍā+ātmajaḥ",
+     "gloss": "playful-son",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "alaṃkaraṇāt",
+     "gloss": "ornamented",
+     "grounds": "token 2",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "tac+cittam",
+     "gloss": "that-mind",
+     "grounds": "token 3",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "makes",
+     "grounds": "token 4",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "token 5",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "mithunasya",
+     "gloss": "of-pair",
+     "grounds": "token 6",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "ca+ayam",
+     "gloss": "this",
+     "grounds": "token 7",
+     "morph": "pron.nom.sg.m"
+    }
+   ],
+   "question": "What does the ornamented playful son do in the middle of the pair?",
+   "premises": [
+    "Playful son is ornamented",
+    "He makes that mind",
+    "He is in middle of pair"
+   ],
+   "inference": "The verse says the ornamented playful son makes that mind in the middle of the pair.",
+   "uncertainties": [
+    "Pair sign context"
+   ],
+   "plain_english": "The ornamented playful son makes that mind in the middle of the pair."
+  },
+  {
+   "verse": 2735,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "harid+varṇaḥ",
+     "gloss": "greenish-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Taurus description?",
+   "premises": [
+    "Man is greenish-complexioned",
+    "Taurus description continues"
+   ],
+   "inference": "The verse assigns greenish complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is greenish-complexioned."
+  },
+  {
+   "verse": 2736,
+   "rows": [
+    {
+     "surface": "nṛtta+vādana+kalā+su+cavidvān",
+     "gloss": "dance-music-arts-skilled",
+     "grounds": "token 1",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kāvya+kṛt",
+     "gloss": "poet-maker",
+     "grounds": "token 2",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mithuna+rāśi+avasāne",
+     "gloss": "pair-sign-end",
+     "grounds": "token 3",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What skills and placement are assigned at the end of the pair sign?",
+   "premises": [
+    "Figure is skilled in dance music arts",
+    "Figure is poet-maker",
+    "Placement is end of pair sign"
+   ],
+   "inference": "The verse assigns artistic skill and poetic making at the end of the pair sign.",
+   "uncertainties": [
+    "Compound segmentation follows source"
+   ],
+   "plain_english": "Skilled in dance, music, and arts, a poet-maker, at the end of the pair sign."
+  },
+  {
+   "verse": 2737,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "harid+varṇaḥ",
+     "gloss": "greenish-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Taurus description?",
+   "premises": [
+    "Man is greenish-complexioned",
+    "Taurus description continues"
+   ],
+   "inference": "The verse assigns greenish complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is greenish-complexioned."
+  },
+  {
+   "verse": 2738,
+   "rows": [
+    {
+     "surface": "kroḍa+tulya+vadanaḥ",
+     "gloss": "boar-like-faced",
+     "grounds": "token 1",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "haya+karṇaḥ",
+     "gloss": "horse-eared",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "karkaṭe",
+     "gloss": "in-cancer",
+     "grounds": "token 3",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "prathama+rūpam",
+     "gloss": "first-form",
+     "grounds": "token 4",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uśaṃti",
+     "gloss": "declare",
+     "grounds": "token 5",
+     "morph": "v.3.pl.act-pres"
+    }
+   ],
+   "question": "What face and ear traits are declared for the first Cancer form?",
+   "premises": [
+    "First Cancer form is boar-like-faced",
+    "First Cancer form is horse-eared",
+    "They declare this in Cancer"
+   ],
+   "inference": "The verse declares boar-like face and horse ears for the first Cancer form.",
+   "uncertainties": [
+    "Astrological attribution follows quoted source"
+   ],
+   "plain_english": "Boar-like-faced and horse-eared, they declare the first form in Cancer."
+  },
+  {
+   "verse": 2739,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pāṭala+varṇaḥ",
+     "gloss": "pink-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Cancer description?",
+   "premises": [
+    "Man is pink-complexioned",
+    "Cancer description continues"
+   ],
+   "inference": "The verse assigns pink complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is pink-complexioned."
+  },
+  {
+   "verse": 2740,
+   "rows": [
+    {
+     "surface": "śākhām",
+     "gloss": "branch",
+     "grounds": "token 1",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "palāśasya",
+     "gloss": "of-palasha",
+     "grounds": "token 2",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "samāśritā",
+     "gloss": "resorted-to",
+     "grounds": "token 3",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhya+sthitā",
+     "gloss": "middle-situated",
+     "grounds": "token 5",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "karkaṭaka+ākhya",
+     "gloss": "cancer-named",
+     "grounds": "token 6",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "rāśeḥ",
+     "gloss": "sign",
+     "grounds": "token 7",
+     "morph": "n.gen.sg.m"
+    }
+   ],
+   "question": "What branch and placement are assigned in the Cancer sign?",
+   "premises": [
+    "Figure resorted to palasha branch",
+    "Figure is middle-situated",
+    "Cancer-named sign is referenced"
+   ],
+   "inference": "The verse assigns palasha branch resort and middle placement in Cancer.",
+   "uncertainties": [
+    "Astrological attribution follows quoted source"
+   ],
+   "plain_english": "Resorted to a palasha branch, and middle-situated in the Cancer-named sign."
+  },
+  {
+   "verse": 2741,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "pāṭala+varṇā",
+     "gloss": "pink-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What complexion is assigned to the woman in this Cancer description?",
+   "premises": [
+    "Woman is pink-complexioned",
+    "Cancer description continues"
+   ],
+   "inference": "The verse assigns pink complexion to the woman.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The woman is pink-complexioned."
+  },
+  {
+   "verse": 2742,
+   "rows": [
+    {
+     "surface": "haimaiḥ",
+     "gloss": "golden",
+     "grounds": "token 1",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yutaḥ+vibhūṣaṇaiḥ",
+     "gloss": "with-ornaments",
+     "grounds": "token 3",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "cipiṭa+āsyaḥ",
+     "gloss": "flat-faced",
+     "grounds": "token 4",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "token 5",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ca+karkaṭe",
+     "gloss": "in-cancer",
+     "grounds": "token 6",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What ornamented and facial traits are assigned in Cancer?",
+   "premises": [
+    "Figure is with golden ornaments",
+    "Figure is flat-faced",
+    "Figure is gone in Cancer"
+   ],
+   "inference": "The verse assigns golden ornaments, flat face, and Cancer placement.",
+   "uncertainties": [
+    "Astrological attribution follows quoted source"
+   ],
+   "plain_english": "With golden ornaments, flat-faced, gone in Cancer."
+  },
+  {
+   "verse": 2743,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pātala+varṇaḥ",
+     "gloss": "pinkish-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Cancer description?",
+   "premises": [
+    "Man is pinkish-complexioned",
+    "Cancer description continues"
+   ],
+   "inference": "The verse assigns pinkish complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is pinkish-complexioned."
+  },
+  {
+   "verse": 2744,
+   "rows": [
+    {
+     "surface": "rauti",
+     "gloss": "roaring",
+     "grounds": "token 1",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "mātṛ+pitṛ+viprayogataḥ",
+     "gloss": "mother-father-separation",
+     "grounds": "token 2",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "assiṃha",
+     "gloss": "this",
+     "grounds": "token 3",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "siṃha+rūpam",
+     "gloss": "lion-form",
+     "grounds": "token 4",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "token 5",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "token 6",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "token 7",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "What roaring lion form is said to arise from parental separation?",
+   "premises": [
+    "Figure roars from mother-father separation",
+    "This lion form is first",
+    "It is said"
+   ],
+   "inference": "The verse says the first lion form roars due to parental separation.",
+   "uncertainties": [
+    "Astrological attribution follows quoted source"
+   ],
+   "plain_english": "Roaring from separation of mother and father, this first lion form is said."
+  },
+  {
+   "verse": 2745,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dhūmra+pāṃḍu+varṇaḥ",
+     "gloss": "smoke-pale-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Leo description?",
+   "premises": [
+    "Man is smoke-pale-complexioned",
+    "Leo description continues"
+   ],
+   "inference": "The verse assigns smoke-pale complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is smoke-pale-complexioned."
+  },
+  {
+   "verse": 2746,
+   "rows": [
+    {
+     "surface": "durāsadaḥ",
+     "gloss": "hard-to-approach",
+     "grounds": "token 1",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "siṃha+iva",
+     "gloss": "like-lion",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ātta+kārmukaḥ",
+     "gloss": "bow-taken",
+     "grounds": "token 3",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "natāgra+nāsaḥ",
+     "gloss": "not-high-nosed",
+     "grounds": "token 4",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mṛga+rājaḥ",
+     "gloss": "lion-king",
+     "grounds": "token 5",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "madhyaḥ",
+     "gloss": "middle",
+     "grounds": "token 6",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What lion-king traits are assigned in the middle placement?",
+   "premises": [
+    "Figure is hard-to-approach like lion",
+    "Figure is bow-taken and not-high-nosed",
+    "Lion-king is middle"
+   ],
+   "inference": "The verse assigns hard-to-approach lion-like, bow-taken, not-high-nosed traits to the middle lion-king.",
+   "uncertainties": [
+    "Astrological attribution follows quoted source"
+   ],
+   "plain_english": "Hard to approach like a lion, bow-taken, not high-nosed, the lion-king in the middle."
+  },
+  {
+   "verse": 2747,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dhūmra+pāṃḍu+varṇaḥ",
+     "gloss": "smoke-pale-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Leo description?",
+   "premises": [
+    "Man is smoke-pale-complexioned",
+    "Leo description continues"
+   ],
+   "inference": "The verse assigns smoke-pale complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is smoke-pale-complexioned."
+  },
+  {
+   "verse": 2748,
+   "rows": [
+    {
+     "surface": "kūrci+manuṣyaḥ",
+     "gloss": "bearded-man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kuṭilaiḥ+ca+keśaiḥ",
+     "gloss": "curly-haired",
+     "grounds": "token 2",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "mṛgeśvarasya",
+     "gloss": "lion-lord",
+     "grounds": "token 3",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "aṃtya+gata+tribhāgaḥ",
+     "gloss": "end-reached-third-part",
+     "grounds": "token 4",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What bearded and curly-haired traits belong to the lion-lord's end third?",
+   "premises": [
+    "Figure is bearded man",
+    "Figure has curly hair",
+    "End-reached third part of lion-lord"
+   ],
+   "inference": "The verse assigns bearded, curly-haired traits to the end third of the lion-lord.",
+   "uncertainties": [
+    "Astrological attribution follows quoted source"
+   ],
+   "plain_english": "A bearded man with curly hair, end-reached third part of the lion-lord."
+  },
+  {
+   "verse": 2749,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "token 1",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dhūmra+pāṃḍu+varṇaḥ",
+     "gloss": "smoke-pale-complexioned",
+     "grounds": "token 2",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What complexion is assigned to the man in this Leo description?",
+   "premises": [
+    "Man is smoke-pale-complexioned",
+    "Leo description continues"
+   ],
+   "inference": "The verse assigns smoke-pale complexion to the man.",
+   "uncertainties": [
+    "Source attribution unclear"
+   ],
+   "plain_english": "The man is smoke-pale-complexioned."
+  }
+ ]
+}

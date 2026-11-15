@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3120,
- "question": "What elements are included in the visualization sequence after the previous steps?",
+ "question": "Which revered teacher is designated by this compound epithet?",
  "premises": [
-  "The red ocean is included.",
-  "The golden boat is included.",
-  "The lion throne comes after."
+  "The verse gives an epithet.",
+  "The epithet names a teacher."
  ],
- "inference": "The visualization sequence includes the red ocean, the golden boat, and then the lion throne.",
- "uncertainties": [],
- "plain_english": "The red ocean, the golden boat, and then the lion throne."
+ "inference": "The epithet designates the praised teacher.",
+ "uncertainties": [
+  "Exact referent depends on context."
+ ],
+ "plain_english": "Destroyer of worm-throated king, great ocean of all mantras."
 }

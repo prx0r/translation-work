@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-initiation(dīkṣā) offering(homaṃ) always(sadā) should-do(kuryāt) svāhā-ending(svāhākārāntikaṃ) word(padam)
+[initiation](dīkṣā) [fire-offering](homaṃ) [always](sadā) [should-do](kuryāt) [svāhā-ending](svāhākārāntikaṃ) [word](padam)
+
 ## mukta-m0-p25-v602
-with-vauṣaṭ-ending(vauṣaḍantena) goddess(deveśi) full-offering-until(pūrṇāhutyāntu) should-give(dāpayet)
+[vauṣaḍ-ending](vauṣaḍantena) [goddess](deveśi) [full-offering](pūrṇāhutyāntu) [should-give](dāpayet)
+
 ## mukta-m0-p25-v603
-five-six(pañcaṣaṭ) seven-eight(saptacāṣṭau) indeed(tu) many-syllabled(bahvakṣaramayaḥ) supreme(paraḥ)
+[five-six-seven-eight](pañcaṣaṭ) [saptacāṣṭau] [tu] [many-syllabled](bahvakṣaramayaḥ) [supreme](paraḥ)
+
 ## mukta-m0-p25-v604
-from-foot-to-head(āpādatalamūrdhāntaṃ) pervading(vyāpayitvā) established(vyavasthitaḥ)
+[from-foot-sole-to-crown](āpādatalamūrdhāntaṃ) [pervading](vyāpayitvā) [established](vyavasthitaḥ)
+
 ## mukta-m0-p25-v605
-twenty-four(caturviṃśatibhiḥ) principles(tatvaiḥ) natures(prakṛtibhiḥ) proclaimed(parikīrtitaḥ)
+[with-twenty-four-principles](caturviṃśatibhistatvaiḥ) [by-nature](prakṛtibhiḥ) [declared](parikīrtitaḥ)
+
 ## mukta-m0-p25-v606
-for-worlds(bhuvanārthaṃ) twenty-four(caturviṃśat) explained(vyākhyātāni) by-Śiva(śivena) indeed(tu)
+[for-worlds](bhuvanārthaṃ) [twenty-four](caturviṃśat) [explained](vyākhyātāni) [by-śiva](śivena) [tu]
+
 ## mukta-m0-p25-v607
-told(kathitaṃ) Viṣṇu-deity(viṣṇudaivatyaṃ) from-heart(hṛdayāt) to-pericarp(karṇikāvadhi)
+[declared](kathitaṃ) [viṣṇu-deity](viṣṇudaivatyaṃ) [from-heart-to-pericarp](hṛdayāt+karṇikāvadhi)
+
 ## mukta-m0-p25-v608
-with-Viṣṇu(viṣṇunā) together(saha) rejoice(modante) Viṣṇu-equal-valor(viṣṇutulyaparākramāḥ)
+[with-viṣṇu](viṣṇunā) [saha] [rejoice](modante) [viṣṇu-equal-power](viṣṇutulyaparākramāḥ)
+
 ## mukta-m0-p25-v609
-knowledge-lords-and(vidyāvidyeśvaraiścaiva) there(tatra) they(te) with-worlds(bhuvanaissaha)
+[with-vidyā-īśvaras](vidyāvidyeśvaraiścaiva) [there](tatra) [they](te) [with-worlds](bhuvanaissaha)
+
 ## mukta-m0-p25-v610
-plays(krīḍate) in-Rudra-world(rudraloke) indeed(tu) Rudra-equal-strength(rudratulyabalo) on-earth(bhuvi)
+[play](krīḍate) [in-rudra-world](rudraloke) [tu] [rudra-equal-strength](rudratulyabalo) [on-earth](bhuvi)
+
 ## mukta-m0-p25-v611
-he(sa) there(tatra) lord(īśvaro) god(devaḥ) by-supremacy(ādhipatyena) established(saṃsthitaḥ)
+[he](sa) [there](tatra) [īśvara](īśvaro) [god](devaḥ) [with-lordship](ādhipatyena) [established](saṃsthitaḥ)
+
 ## mukta-m0-p25-v612
-there(tatra) god(devaḥ) Sadākhya(sadākhyastu) by-supremacy(ādhipatyena) established(saṃsthitaḥ)
+[there](tatra) [god](devaḥ) [sadākhya](sadākhyastu) [with-lordship](ādhipatyena) [established](saṃsthitaḥ)
+
 ## mukta-m0-p25-v613
-by-gross-subtle-distinction(sthūlasūkṣmavibhāgena) knowing(viditvā) liberation(mokṣam) obtains(āpnuyāt)
+[by-gross-subtle-distinction](sthūlasūkṣmavibhāgena) [knowing](viditvā) [liberation](mokṣam) [obtains](āpnuyāt)
+
 ## mukta-m0-p25-v614
-Iḍikā(iḍikā) Dīpikā(dīpikā) and(caiva) Rocikā(rocikā) Mocikā(mocikā) thus(tathā)
+[iḍikā](iḍikādīpikā) [caiva] [rocikā](rocikā) [mocikā](mocikā) [tathā]
+
 ## mukta-m0-p25-v615
-these-kalās(kalāhyetāstu) four(catvāraḥ) in-unity(ekatve) indeed(tu) when(yadā) situated(sthitāḥ)
+[these-four-kalās](kalāhyetāstu) [catvāraḥ] [in-unity](ekatve) [tu] [when](yadā) [situated](sthitāḥ)
+
 ## mukta-m0-p25-v616
-subtle-one(sūkṣmamekavidhañcaiva) upward-going(ūrdhvagāmīti) renowned(viśrutam)
+[subtle-onefold](sūkṣmamekavidhañcaiva) [upward-going](ūrdhvagāmīti) [renowned](viśrutam)
+
 ## mukta-m0-p25-v617
-by-pervasion-yoga(vyāptiyogena) to-be-known(jñātavyā) deities(devatā) indeed-destroyers-of-sin(aghānāśanāḥ)
+[by-pervasion-yoga](vyāptiyogena) [to-be-known](jñātavyā) [deities](devatāhyaghanāśanāḥ)
+
 ## mukta-m0-p25-v618
-subtle(sūkṣmā) and(caiva) very-subtle(susūkṣmā) and(ca) immortal(amṛtā) and(ca) mortal-immortal(mṛtāmṛtā)
+[subtle](sūkṣmā) [caiva] [very-subtle](susūkṣmā) [ca] [immortal](amṛtā) [ca] [mortal-immortal](mṛtāmṛtā)
+
 ## mukta-m0-p25-v619
-beyond-that(tasyāpi) further(parataḥ) subtle(sūkṣmā) pervading(vyāpinī) thus-called(ityabhidhīyate)
+[beyond-that](tasyāpi) [parataḥ] [subtle](sūkṣmā) [pervading](vyāpinītyabhidhīyate)
+
 ## mukta-m0-p25-v620
-that(taṃ) knowing(viditvā) are-liberated(vimucyante) men(narāḥ) from-ocean-of-saṃsāra(saṃsārasāgarāt)
+[that](taṃ) [knowing](viditvā) [are-liberated](vimucyante) [men](narāssaṃsārasāgarāt)
+
 ## mukta-m0-p25-v621
-in-that(tasmin) void-dissolution(śūnyalayaṃ) goddess(devi) obstructing(vighnantīṃ) should-indicate(vinirdiśet)
+[in-that](tasmin) [void-dissolution](śūnyalayaṃ) [goddess](devi) [obstacle-causing](vighnantīṃ) [declare](vinirdiśet)
+
 ## mukta-m0-p25-v622
-in-throat(kaṇṭhastho) ceases-sound(viramecchabdaḥ) half-moon(ardhacandra) thus(iti) remembered(smṛtaḥ)
+[in-throat](kaṇṭhastho) [ceases-sound](viramecchabdaḥ) [half-moon](ardhacandra) [iti] [smṛtaḥ]
+
 ## mukta-m0-p25-v623
-restraining(nirodhī) that(sā) indicated(vinirdiṣṭā) in-forehead(lalāṭe) indeed(tu) dissolution(layaṃ) know(viduḥ)
+[restraint](nirodhī) [sā] [declared](vinirdiṣṭā) [in-forehead](lalāṭe) [tu] [dissolution](layaṃ) [know](viduḥ)
+
 ## mukta-m0-p25-v624
-undivided(abhinno) knot(ghāṭam) thus-said(ityuktaṃ) in-forehead(lalāṭe) indeed(tu) dissolution(layaṃ) know(viduḥ)
+[undivided](abhinno) [ghāṭa](ghāṭamityuktaṃ) [lalāṭe] [tu] [layaṃ] [viduḥ]
+
 ## mukta-m0-p25-v625
-undivided(abhinno) knot(ghāṭam) thus-said(ityuktaṃ) in-forehead-standing(lalāṭastho) returns(nivartate)
+[undivided](abhinno) [ghāṭa](ghāṭamityuktaṃ) [in-forehead](lalāṭastho) [returns](nivartate)

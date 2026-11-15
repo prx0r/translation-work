@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2850,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "locative singular masculine/neuter adjective used adverbially for the right side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karedaṃḍaṃ",
+     "gloss": "hand-staff",
+     "grounds": "compound kara+daṇḍa in accusative singular neuter; fused form kept as one token",
+     "morph": "compound (kara+daṇḍa), acc.sg.n"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left",
+     "grounds": "locative singular masculine/neuter adjective used for the left side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caivā",
+     "gloss": "and-indeed",
+     "grounds": "fused sandhi form of ca+eva with final ā retained before bhayaṃkare; not expanded",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhayaṃkare",
+     "gloss": "fear-causing",
+     "grounds": "locative singular masculine/neuter adjective describing the left-hand object or hand",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which implements are held in the deity's right and left hands?",
+   "premises": [
+    "The right hand holds a staff.",
+    "The left hand holds a fear-causing implement.",
+    "The verse specifies both hands."
+   ],
+   "inference": "The described iconographic form carries a staff in the right hand and a fear-causing object in the left hand.",
+   "uncertainties": [
+    "The fused token caivā is not expanded into its internal sandhi parts.",
+    "The noun for the left-hand object is implied rather than explicitly named."
+   ],
+   "plain_english": "In the right hand, indeed, a staff; in the left, indeed, a fear-causing implement."
+  }
+ ]
+}

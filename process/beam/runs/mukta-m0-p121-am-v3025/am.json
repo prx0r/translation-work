@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p121",
  "verse": 3025,
- "question": "How are teacher-attendants to be drawn from the assemblies for the daily festival?",
+ "question": "Does knowledge release both the human being and Vishnu from all bonds of samsara?",
  "premises": [
-  "teacher-attendants follow appointed doorkeepers",
-  "assemblies supply the attendants",
-  "his attendants are also included"
+  "knowledge releases a man from all samsara bonds",
+  "the same release is extended to Vishnu",
+  "the verse names Vishnu as included in that release"
  ],
- "inference": "the verse orders attendants from assemblies after doorkeepers",
+ "inference": "The verse asserts that knowledge liberates both the human being and Vishnu from all bonds of samsara.",
  "uncertainties": [
-  "exact internal sandhi of śāstṛpāriṣadentaṃ remains unresolved"
+  "the fused first token contains multiple words and sandhi boundaries that are not split in this row",
+  "the exact syntactic relation of caiva to the preceding clause is compressed"
  ],
- "plain_english": "Then the teacher's attendants are taken from the assemblies, and his too."
+ "plain_english": "Having known, a man is released from all bonds of samsara, and indeed Vishnu too."
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2975,
+   "rows": [
+    {
+     "surface": "gaṃgāsāgarike",
+     "gloss": "in-ganges-sagara",
+     "grounds": "locative singular of gaṅgāsāgara",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viṣṇuṃ",
+     "gloss": "viṣṇu",
+     "grounds": "accusative singular of viṣṇu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "citrakūṭe",
+     "gloss": "in-citrakūṭa",
+     "grounds": "locative singular of citrakūṭa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāghavam",
+     "gloss": "rāghava",
+     "grounds": "accusative singular of rāghava",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deity is to be worshipped at Gaṅgāsāgara and which at Citrakūṭa?",
+   "premises": [
+    "Viṣṇu is named at Gaṅgāsāgara.",
+    "Rāghava is named at Citrakūṭa.",
+    "The two places are distinguished by tu."
+   ],
+   "inference": "The verse pairs Gaṅgāsāgara with Viṣṇu and Citrakūṭa with Rāghava.",
+   "uncertainties": [
+    "The exact ritual force of the locative pairing is not stated in this verse."
+   ],
+   "plain_english": "At Gaṅgāsāgara, Viṣṇu; at Citrakūṭa, Rāghava."
+  }
+ ]
+}

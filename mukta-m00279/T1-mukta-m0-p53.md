@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[after-establishing](ketumīśānasthāpya) [then](tato) [mantras](mantrāḥ) [should-be-arranged](prakalpayet)
+[ketu](ketu) [īśāna](īśāna) [sthāpya](sthāpya) [tato](tato) [mantrāḥ](mantrāḥ) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p53-v1302
-[whole](sakalaṃ) [and-partless](niṣkalañcaiva) [and-emptiness-principle](śūnyatatvaṃ) [and-so](tathaiva) [also](ca)
+[sakalaṃ](sakalaṃ) [niṣkalaṃ](niṣkalaṃ) [ca](ca) [eva](eva) [śūnya+tattvaṃ](śūnyatatvaṃ) [tathā](tatha) [eva](eva) [ca](ca)
 
 ## mukta-m0-p53-v1303
-[throat-lip](kaṇṭhoṣṭhyañcaiva) [and](ca) [of-lord](deveśe) [these](ete) [houses](gṛhāḥ) [are-declared](prakīrtitāḥ)
+[kaṇṭha+oṣṭhyaṃ](kaṇṭhoṣṭhyaṃ) [ca](ca) [eva](eva) [deveśe](deveśe) [gṛhāḥ](gṛhāḥ) [hi](hi) [ete](ete) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p53-v1304
-[supreme-syllable](parākṣaraṃ) [supreme](paraṃ) [god](devaṃ) [by-brahma-place](brahmasthānena) [should-place](vinyaset)
+[parākṣaraṃ](parākṣaraṃ) [paraṃ](paraṃ) [devaṃ](devaṃ) [brahma+sthānena](brahmasthānena) [vinyaset](vinyaset)
 
 ## mukta-m0-p53-v1305
-[in-pericarp](karṇike) [deity-installation](devatānyāsaṃ) [should-be-done](kartavyaṃ) [by-time-knower](kālavedinā)
+[karṇike](karṇike) [devatā+nyāsaṃ](devatānyāsaṃ) [kartavyaṃ](kartavyaṃ) [kāla+vedinā](kālavedinā)
 
 ## mukta-m0-p53-v1306
-[by-sakala-order](sakalādikrameṇaiva) [I-speak](kathayāmi) [briefly](samāsataḥ)
+[sakala+ādi+krameṇa](sakalādikrameṇa) [eva](eva) [kathayāmi](kathayāmi) [samāsataḥ](samāsataḥ)
 
 ## mukta-m0-p53-v1307
-[these](ete) [life-breaths](prāṇāḥ) [are-remembered](smṛtā) [goddess](devi) [should-divide](vibhajeta) [in-order](yathākramam)
+[ete](ete) [prāṇāḥ](prāṇāḥ) [smṛtāḥ](smṛtāḥ) [devi](devi) [vibhajeta](vibhajeta) [yathākramam](yathākramam)
 
 ## mukta-m0-p53-v1308
-[hundreds](śatāni) [seven](saptavijñeyamekaikasya) [are-to-be-known](vijñeyam) [each](ekaikasya) [beautiful-faced](varānane)
+[śatāni](śatāni) [sapta](sapta) [vijñeyam](vijñeyam) [ekaikasya](ekaikasya) [varānane](varānane)
 
 ## mukta-m0-p53-v1309
-[in-petal](patre) [in-petal](patre) [tu](tu) [having-placed](saṃsthāpya) [houses](gṛhān) [all](sarvān) [beautiful-faced](varānane)
+[patre](patre) [patre](patre) [tu](tu) [saṃsthāpya](saṃsthāpya) [gṛhān](gṛhān) [sarvān](sarvān) [varānane](varānane)
 
 ## mukta-m0-p53-v1310
-[fiery-limbed](dīptāṅgāriṇi) [smoke](dhūmā) [ca](ca) [three-places](sthānatrayam) [is-declared](udāhṛtam)
+[dīpta+aṅgāriṇi](dīptāṅgāriṇi) [dhūmā](dhūmā) [ca](ca) [sthāna+trayaṃ](sthānatrayaṃ) [udāhṛtam](udāhṛtam)
 
 ## mukta-m0-p53-v1311
-[with-self](ātmanā) [saha](saha) [united](saṃyuktaḥ) [in-pericarp](karṇikāsthaḥ) [lord](prabhu) [is-remembered](smṛtaḥ)
+[ātmanā](ātmanā) [saha](saha) [saṃyuktaḥ](saṃyuktaḥ) [karṇikā+sthaḥ](karṇikāsthaḥ) [prabhu](prabhu) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p53-v1312
-[in-northeast](raudramāgneyadigbhāge) [peace](śāntiṃ) [vai](vai) [by-south](dakṣiṇena) [tu](tu)
+[raudra+āgneya+digbhāge](raudramāgneyadigbhāge) [śāntiṃ](śāntiṃ) [vai](vai) [dakṣiṇena](dakṣiṇena) [tu](tu)
 
 ## mukta-m0-p53-v1313
-[in-northwest](vāyavyāṃ) [for-quick-destruction](kṣipranāśāya) [for-wealth-gain](dhanalābhāya) [ca](ca) [in-north](cottare)
+[vāyavyāṃ](vāyavyāṃ) [kṣipra+nāśāya](kṣipranāśāya) [dhana+lābhāya](dhanalābhāya) [ca](ca) [uttare](uttare)
 
 ## mukta-m0-p53-v1314
-[for-peace](śāntike) [for-nourishment](pauṣṭike) [ca](ca) [eva](eva) [thus-in-order](evamādikrameṇa) [tu](tu)
+[śāntike](śāntike) [pauṣṭike](pauṣṭike) [ca](ca) [eva](eva) [evam+ādi+krameṇa](evamādikrameṇa) [tu](tu)
 
 ## mukta-m0-p53-v1315
-[inauspicious](aśubhamekataḥ) [is-declared](proktaṃ) [in-second](dvitīyasmin) [auspicious](śubhaṃ) [one-says](vadet)
+[aśubham](aśubham) [ekataḥ](ekataḥ) [proktaṃ](proktaṃ) [dvitīyasmin](dvitīyasmin) [śubhaṃ](śubhaṃ) [vadet](vadet)
 
 ## mukta-m0-p53-v1316
-[that-house](tadgṛhaṃ) [should-worship](pūjayennityaṃ) [always](nityaṃ) [in-pericarp](karṇikāsthaṃ) [when-wise](yadā) [budhaḥ](budhaḥ)
+[tad](tad) [gṛhaṃ](gṛhaṃ) [pūjayet](pūjayet) [nityaṃ](nityaṃ) [karṇikā+sthaṃ](karṇikāsthaṃ) [yadā](yadā) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p53-v1317
-[each](ekaikasya) [house](gṛho) [goddess](devi) [days-and-nights](horātrāṇi) [are-declared](prakīrtitāḥ)
+[ekaikasya](ekaikasya) [gṛhaḥ](gṛhaḥ) [devi](devi) [horātrāṇi](horātrāṇi) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p53-v1318
-[each](ekaikasya) [tu](tu) [in-hour](horāyāṃ) [hundreds](śatāni) [nine-number](navasaṃkhyayā)
+[ekaikasya](ekaikasya) [tu](tu) [horāyāṃ](horāyāṃ) [śatāni](śatāni) [nava+saṃkhyayā](navasaṃkhyayā)
 
 ## mukta-m0-p53-v1319
-[this](etatte) [cāra](cāram) [is-declared](ākhyātaṃ) [by-śiva](śivena) [supreme-self](paramātmanā)
+[etat](etat) [te](te) [cāraṃ](cāraṃ) [ākhyātaṃ](ākhyātaṃ) [śivena](śivena) [paramātmanā](paramātmanā)
 
 ## mukta-m0-p53-v1320
-[by-house-hour-strength](gṛhahorabalenaiva) [should-be-spoken](vaktavyantu) [auspicious-inauspicious](śubhāśubham)
+[gṛha+hora+balena](gṛhahorabalena) [eva](eva) [vaktavyaṃ](vaktavyaṃ) [tu](tu) [śubha+aśubham](śubhāśubham)
 
 ## mukta-m0-p53-v1321
-[thus](evaṃ) [strength-weakness](balābalaṃ) [having-known](jñātvā) [of-self](ātmanasya) [of-other](parasya) [vā](vā)
+[evaṃ](evaṃ) [bala+abalaṃ](balābalaṃ) [jñātvā](jñātvā) [ātmanasya](ātmanasya) [parasya](parasya) [vā](vā)
 
 ## mukta-m0-p53-v1322
-[in-body](dehasthaṃ) [is-declared](kathitaṃ) [goddess](devi) [hour-cāra](horacāram) [unsurpassed](anuttamam)
+[deha+sthaṃ](dehasthaṃ) [kathitaṃ](kathitaṃ) [devi](devi) [hora+cāraṃ](horacāraṃ) [anuttamam](anuttamam)
 
 ## mukta-m0-p53-v1323
-[in-sign](rāśau) [in-sign](rāśau) [when-self](yadāhyātmā) [moves](carate) [I-speak](kathayāmyaham)
+[rāśau](rāśau) [rāśau](rāśau) [yadā](yadā) [hi](hi) [ātmā](ātmā) [carate](carate) [kathayāmi](kathayāmi) [aham](aham)
 
 ## mukta-m0-p53-v1324
-[a-syllable](akāraḥ) [first](prathamo) [goddess](devi) [aries-sign](meṣarāśiḥ) [is-declared](prakīrtitaḥ)
+[akāraḥ](akāraḥ) [prathamaḥ](prathamaḥ) [devi](devi) [meṣa+rāśiḥ](meṣarāśiḥ) [prakīrtitaḥ](prakīrtitaḥ)
 
 ## mukta-m0-p53-v1325
-[there-staying](tatrasthaścarate) [moves](carate) [hy](hy) [self](ātmā) [as-properly](yathāvattannibodhame) [understand-this](nibodhame)
+[tatra+sthaḥ](tatrasthaḥ) [carate](carate) [hi](hi) [ātmā](ātmā) [yathāvat](yathāvat) [tat](tat) [nibodha](nibodha) [me](me)

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "pītāḥ",
+     "gloss": "yellow",
+     "grounds": "color adjective in verse",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "hairaṇyagarbhā",
+     "gloss": "golden-womb",
+     "grounds": "compound color-form name",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "thus",
+     "grounds": "copular verb in verse",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "raktā",
+     "gloss": "red",
+     "grounds": "color adjective in verse",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "pradyumnarūpiṇī",
+     "gloss": "pradyumna-form",
+     "grounds": "compound form name",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "Which divine form corresponds to yellow and red stones in this taxonomy?",
+   "premises": [
+    "Yellow stones are called golden-womb.",
+    "Red stones are called pradyumna-form.",
+    "The verse assigns forms to colors."
+   ],
+   "inference": "Color determines divine form in this classification.",
+   "uncertainties": [
+    "hairaṇyagarbhā may be a compound; exact ritual referent uncertain."
+   ],
+   "plain_english": "Yellow stones are golden-womb; red stones are pradyumna-form."
+  }
+ ]
+}

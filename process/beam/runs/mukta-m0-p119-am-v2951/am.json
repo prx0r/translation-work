@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p119",
  "verse": 2951,
- "question": "Which sages are named as the first group in this ritual enumeration?",
+ "question": "Which color and form of the deity is described in this passage?",
  "premises": [
-  "bharadvaja is named",
-  "vishvamitra is named",
-  "kashyapa is named"
+  "The passage gives a color.",
+  "The color is white."
  ],
- "inference": "The verse lists bharadvaja, vishvamitra, and kashyapa among the sages.",
+ "inference": "The described form is white-colored.",
  "uncertainties": [
-  "exact ritual role not stated in this verse"
+  "Quotation boundary unclear."
  ],
- "plain_english": "Bharadvaja, Vishvamitra, then Kashyapa."
+ "plain_english": "The form is white-colored."
 }

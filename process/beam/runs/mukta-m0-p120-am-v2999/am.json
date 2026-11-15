@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2999,
- "question": "Why is the second birth necessary for accomplishment?",
+ "question": "Which additional sacred places are named at the close of the enumeration?",
  "premises": [
-  "accomplishment becomes quick through it",
-  "otherwise not even by millions of births"
+  "The verse adds further place-names.",
+  "The places are given in locative case.",
+  "The list closes the enumeration."
  ],
- "inference": "the second birth is necessary because accomplishment comes quickly through it and not otherwise",
+ "inference": "The passage adds Srimushti, Venkatadri, Salagrama, and Naimisha to the enumeration.",
  "uncertainties": [
-  "exact mechanism of second birth"
+  "The final token is a fused locative ending."
  ],
- "plain_english": "Because accomplishment becomes quick; otherwise not even by millions of births."
+ "plain_english": "At Srimushti and Venkatadri, and at Salagrama, and at Naimisha."
 }

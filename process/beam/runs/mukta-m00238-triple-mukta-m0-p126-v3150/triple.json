@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "viṣvaktanaṃ",
+     "gloss": "all-pervading",
+     "grounds": "adjective modifying the poison",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viṣaya",
+     "gloss": "sense-object",
+     "grounds": "object of greed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lobhaviṣaṃ",
+     "gloss": "greed-poison",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nijābhiḥ",
+     "gloss": "by-own",
+     "grounds": "instrumental adjective",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "gāḍhānu",
+     "gloss": "firm",
+     "grounds": "qualifier of meditations",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāvagaruḍadhvaja",
+     "gloss": "bhava-garuda-banner",
+     "grounds": "compound noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhāvanābhiḥ",
+     "gloss": "by-meditations",
+     "grounds": "instrumental plural",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "How does one overcome the all-pervading poison of greed for sense-objects?",
+   "premises": [
+    "Greed for sense-objects is poison.",
+    "Firm meditations act as Garuda-banner.",
+    "Own meditations destroy that poison."
+   ],
+   "inference": "Therefore firm own meditations destroy greed-poison.",
+   "uncertainties": [
+    "Compound segmentation and exact syntactic role uncertain.",
+    "Sense of gāḍhānu as adverb or adjective uncertain."
+   ],
+   "plain_english": "The all-pervading poison of greed for sense-objects is destroyed by one's own firm meditations, the Garuda-banner of bhava."
+  }
+ ]
+}

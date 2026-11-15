@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "nārāyaṇakṛpāpātraṃ",
+     "gloss": "recipient-of-narayana-grace",
+     "grounds": "exact token; compound of nārāyaṇa, kṛpā, and pātra; accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrībhūtapuranāyakaḥ",
+     "gloss": "lord-of-sri-bhutapura",
+     "grounds": "exact token; compound of śrī, bhūtapura, and nāyaka; nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who receives Narayana's grace and rules Sri Bhutapura?",
+   "premises": [
+    "The verse names a recipient of Narayana's grace.",
+    "The verse names a lord of Sri Bhutapura.",
+    "Both descriptions apply to one figure."
+   ],
+   "inference": "The figure described is the recipient of Narayana's grace and lord of Sri Bhutapura.",
+   "uncertainties": [
+    "The exact identity of the figure is not stated in this verse alone.",
+    "The compound boundaries are inferred from the fused token."
+   ],
+   "plain_english": "Recipient of Narayana's grace, lord of Sri Bhutapura."
+  }
+ ]
+}
