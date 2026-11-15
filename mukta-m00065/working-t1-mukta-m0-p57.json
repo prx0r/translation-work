@@ -7,12 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "punarvasvanurādhā",
-"quick_gloss": "punarvasu+anurādhā"
+"surface": "punarvasu",
+"quick_gloss": "punarvasu"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
+},
+{
+"surface": "anurādhā",
+"quick_gloss": "anurādhā"
 },
 {
 "surface": "citrā",
@@ -48,8 +52,12 @@
 "quick_gloss": "for-śūdra"
 },
 {
-"surface": "svātīphalgunikādvayam",
-"quick_gloss": "svātī+two-phalgunīs"
+"surface": "svātī",
+"quick_gloss": "svātī"
+},
+{
+"surface": "phalgunikādvayam",
+"quick_gloss": "and-pair-of-phalgunīs"
 }
 ]
 },
@@ -65,8 +73,12 @@
 "quick_gloss": "these"
 },
 {
-"surface": "pravīṇa[mū, a, gh: pravaṇi]lokānāṃ",
-"quick_gloss": "favorable+for-people"
+"surface": "pravīṇalokānāṃ",
+"quick_gloss": "for-skilled-people"
+},
+{
+"surface": "tathā",
+"quick_gloss": "and"
 },
 {
 "surface": "catvāry",
@@ -79,10 +91,6 @@
 {
 "surface": "antyaje",
 "quick_gloss": "for-outcaste"
-},
-{
-"surface": "tathā",
-"quick_gloss": "likewise"
 }
 ]
 },
@@ -99,7 +107,7 @@
 },
 {
 "surface": "siddhipradā",
-"quick_gloss": "success+giving"
+"quick_gloss": "success-giving"
 },
 {
 "surface": "liṅge",
@@ -107,11 +115,11 @@
 },
 {
 "surface": "āyurdā",
-"quick_gloss": "life+giving"
+"quick_gloss": "life-giving"
 },
 {
 "surface": "āṣāḍhayugmakam",
-"quick_gloss": "two-aṣāḍhās"
+"quick_gloss": "pair-of-āṣāḍhās"
 }
 ]
 },
@@ -127,12 +135,16 @@
 "quick_gloss": "citrā"
 },
 {
-"surface": "tu",
+"surface": "tvat",
 "quick_gloss": "quickly"
 },
 {
-"surface": "arthasukhaṃ",
-"quick_gloss": "wealth+happiness"
+"surface": "artha",
+"quick_gloss": "wealth"
+},
+{
+"surface": "sukhaṃ",
+"quick_gloss": "and-happiness"
 },
 {
 "surface": "nityaṃ",
@@ -144,7 +156,7 @@
 },
 {
 "surface": "rogavināśakṛt",
-"quick_gloss": "disease+destroying"
+"quick_gloss": "disease-destroying"
 }
 ]
 },
@@ -156,20 +168,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yugmabhādrapradā",
-"quick_gloss": "pair+bhādrapadās"
+"surface": "yugmabhādra",
+"quick_gloss": "pair-of-bhādrapadās"
+},
+{
+"surface": "pradā",
+"quick_gloss": "giving"
 },
 {
 "surface": "vṛddhiṃ",
 "quick_gloss": "growth"
 },
 {
-"surface": "bahumitrāṇi",
-"quick_gloss": "many+friends"
-},
-{
 "surface": "ca",
 "quick_gloss": "and"
+},
+{
+"surface": "bahumitrāṇi",
+"quick_gloss": "many-friends"
 },
 {
 "surface": "aśvinī",
@@ -186,7 +202,7 @@
 "tokens": [
 {
 "surface": "phalgunīdvitayaṃ",
-"quick_gloss": "two-phalgunīs"
+"quick_gloss": "pair-of-phalgunīs"
 },
 {
 "surface": "vṛddhiṃ",
@@ -198,7 +214,7 @@
 },
 {
 "surface": "ripubhedadā",
-"quick_gloss": "enemy+splitting+giving"
+"quick_gloss": "enemy-breaking-giving"
 }
 ]
 },
@@ -215,7 +231,7 @@
 },
 {
 "surface": "śāntiprado",
-"quick_gloss": "peace+giving"
+"quick_gloss": "peace-giving"
 },
 {
 "surface": "nityaṃ",
@@ -251,12 +267,16 @@
 "quick_gloss": "jupiter"
 },
 {
-"surface": "navarddhīṣu",
-"quick_gloss": "in-nine+prosperities"
+"surface": "nava",
+"quick_gloss": "in-nine"
+},
+{
+"surface": "rddhīṣu",
+"quick_gloss": "and-eleven"
 },
 {
 "surface": "saptasthāneṣu",
-"quick_gloss": "in-seven+places"
+"quick_gloss": "in-seven-places"
 },
 {
 "surface": "sarvadā",
@@ -272,8 +292,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saptartutriśādisthaḥ",
-"quick_gloss": "in-seven+six+three+etc.+situated"
+"surface": "sapta",
+"quick_gloss": "in-seven"
+},
+{
+"surface": "ṛtu",
+"quick_gloss": "six"
+},
+{
+"surface": "tri",
+"quick_gloss": "three"
+},
+{
+"surface": "śādisthaḥ",
+"quick_gloss": "and-one-etc.-places"
 },
 {
 "surface": "śaśāṅko",
@@ -281,7 +313,7 @@
 },
 {
 "surface": "baladas",
-"quick_gloss": "strength+giving"
+"quick_gloss": "strength-giving"
 },
 {
 "surface": "tathā",
@@ -297,16 +329,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭtristhānagataḥ",
-"quick_gloss": "in-six+three+places+gone"
+"surface": "ṣaṭ",
+"quick_gloss": "in-six"
 },
 {
-"surface": "śastā[mū, a, k, g, ṅ: śreṣṭhā]",
+"surface": "tristhānagataḥ",
+"quick_gloss": "and-three-places"
+},
+{
+"surface": "śastā",
 "quick_gloss": "auspicious"
 },
 {
-"surface": "mandāṅgārakaketavaḥ",
-"quick_gloss": "saturn+mars+ketus"
+"surface": "manda",
+"quick_gloss": "saturn"
+},
+{
+"surface": "aṅgāraka",
+"quick_gloss": "mars"
+},
+{
+"surface": "ketavaḥ",
+"quick_gloss": "and-ketus"
 }
 ]
 },
@@ -335,15 +379,19 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "and"
 },
 {
 "surface": "ārddhikī",
 "quick_gloss": "half"
 },
 {
-"surface": "grahabhūtayoḥ",
-"quick_gloss": "in-planet+being+two"
+"surface": "graha",
+"quick_gloss": "in-planets"
+},
+{
+"surface": "bhūtayoḥ",
+"quick_gloss": "and-elements"
 }
 ]
 },
@@ -360,11 +408,11 @@
 },
 {
 "surface": "saṃpadākhyā",
-"quick_gloss": "prosperity+named"
+"quick_gloss": "called-prosperity"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "and"
 },
 {
 "surface": "caturthī",
@@ -372,7 +420,7 @@
 },
 {
 "surface": "kṣemasaṃjñitā",
-"quick_gloss": "welfare+named"
+"quick_gloss": "named-well-being"
 }
 ]
 },
@@ -392,12 +440,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "ātimitrā",
-"quick_gloss": "very+friend"
+"surface": "atimitrā",
+"quick_gloss": "very-friend"
 },
 {
 "surface": "syād",
-"quick_gloss": "may-be"
+"quick_gloss": "should-be"
 },
 {
 "surface": "etāḥ",
@@ -409,7 +457,7 @@
 },
 {
 "surface": "balapradāḥ",
-"quick_gloss": "strength+giving"
+"quick_gloss": "strength-giving"
 }
 ]
 },
@@ -422,31 +470,31 @@
 "tokens": [
 {
 "surface": "vṛddhiḥ",
-"quick_gloss": "growth"
+"quick_gloss": "vṛddhi"
 },
 {
 "surface": "siddhir",
-"quick_gloss": "success"
+"quick_gloss": "siddhi"
 },
 {
 "surface": "dhravaḥ",
-"quick_gloss": "firm"
+"quick_gloss": "dhruva"
 },
 {
 "surface": "sādhyo",
-"quick_gloss": "accomplishable"
+"quick_gloss": "sādhya"
 },
 {
 "surface": "varīyāñ",
-"quick_gloss": "better"
+"quick_gloss": "varīyān"
 },
 {
-"surface": "chi[mū, a, g: ñchubha]",
-"quick_gloss": "auspicious"
+"surface": "chiva",
+"quick_gloss": "śiva"
 },
 {
-"surface": "vaśulkakau",
-"quick_gloss": "bright+pure"
+"surface": "śulkakau",
+"quick_gloss": "and-śukla"
 }
 ]
 },
@@ -508,15 +556,15 @@
 },
 {
 "surface": "viṣṭihīnaṃ",
-"quick_gloss": "viṣṭi+without"
+"quick_gloss": "without-viṣṭi"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "and"
 },
 {
 "surface": "pakṣayoḥ",
-"quick_gloss": "in-two-fortnights"
+"quick_gloss": "in-both-fortnights"
 }
 ]
 },
@@ -528,12 +576,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vṛṣakumbhau",
-"quick_gloss": "taurus+aquarius"
+"surface": "vṛṣa",
+"quick_gloss": "taurus"
+},
+{
+"surface": "kumbhau",
+"quick_gloss": "and-aquarius"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "and"
 },
 {
 "surface": "bhuñjāte",
@@ -545,7 +597,7 @@
 },
 {
 "surface": "pādavarjitāḥ",
-"quick_gloss": "quarter+deprived"
+"quick_gloss": "deprived-of-quarter"
 }
 ]
 },
@@ -558,15 +610,19 @@
 "tokens": [
 {
 "surface": "pādonāḥ",
-"quick_gloss": "quarter+less"
+"quick_gloss": "less-by-quarter"
 },
 {
 "surface": "ṣaṭ",
 "quick_gloss": "six"
 },
 {
-"surface": "tulākanye",
-"quick_gloss": "libra+virgo"
+"surface": "tulā",
+"quick_gloss": "libra"
+},
+{
+"surface": "kanye",
+"quick_gloss": "and-virgo"
 },
 {
 "surface": "ghaṭikāḥ",
@@ -574,11 +630,11 @@
 },
 {
 "surface": "sārdhapañca",
-"quick_gloss": "with-half+five"
+"quick_gloss": "five-and-half"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "and"
 }
 ]
 },
@@ -594,16 +650,28 @@
 "quick_gloss": "movable"
 },
 {
-"surface": "dhanustulāmeṣāḥ",
-"quick_gloss": "sagittarius+libra+aries"
+"surface": "dhanus",
+"quick_gloss": "sagittarius"
+},
+{
+"surface": "tulā",
+"quick_gloss": "libra"
+},
+{
+"surface": "meṣāḥ",
+"quick_gloss": "and-aries"
 },
 {
 "surface": "prāgyugmaṃ",
-"quick_gloss": "eastern+pair"
+"quick_gloss": "eastern-pair"
 },
 {
-"surface": "mīnakanyake",
-"quick_gloss": "pisces+virgo"
+"surface": "mīna",
+"quick_gloss": "pisces"
+},
+{
+"surface": "kanyake",
+"quick_gloss": "and-virgo"
 }
 ]
 },
@@ -619,8 +687,12 @@
 "quick_gloss": "fixed"
 },
 {
-"surface": "śubhagrahairdṛṣṭaḥ",
-"quick_gloss": "by-auspicious+planets+seen"
+"surface": "śubhagrahair",
+"quick_gloss": "by-benefic-planets"
+},
+{
+"surface": "dṛṣṭaḥ",
+"quick_gloss": "aspected"
 },
 {
 "surface": "śasto",
@@ -632,7 +704,7 @@
 },
 {
 "surface": "śubhāśritaḥ",
-"quick_gloss": "by-auspicious+resorted"
+"quick_gloss": "occupied-by-benefics"
 }
 ]
 },
@@ -645,7 +717,7 @@
 "tokens": [
 {
 "surface": "rājya",
-"quick_gloss": "kingdom"
+"quick_gloss": "kingship"
 },
 {
 "surface": "saukhya",
@@ -665,7 +737,7 @@
 },
 {
 "surface": "dharmādikaṃ",
-"quick_gloss": "dharma+etc."
+"quick_gloss": "dharma-etc."
 },
 {
 "surface": "bahu",
@@ -681,8 +753,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "guruśukrabudhās",
-"quick_gloss": "jupiter+venus+mercury"
+"surface": "guru",
+"quick_gloss": "jupiter"
+},
+{
+"surface": "śukra",
+"quick_gloss": "venus"
+},
+{
+"surface": "budhās",
+"quick_gloss": "and-mercury"
 },
 {
 "surface": "tatra",
@@ -690,7 +770,7 @@
 },
 {
 "surface": "sarvasiddhipradāyakāḥ",
-"quick_gloss": "all+success+giving"
+"quick_gloss": "all-success-giving"
 }
 ]
 },
@@ -711,15 +791,15 @@
 },
 {
 "surface": "aniṣṭakāryārthe",
-"quick_gloss": "inauspicious+action+purpose"
+"quick_gloss": "for-unfavorable-works"
 },
 {
 "surface": "yojyās",
-"quick_gloss": "to-be-employed"
+"quick_gloss": "should-be-employed"
 },
 {
 "surface": "tithyādayo",
-"quick_gloss": "tithi+etc."
+"quick_gloss": "tithi-etc."
 },
 {
 "surface": "budhaiḥ",
@@ -736,7 +816,7 @@
 "tokens": [
 {
 "surface": "sulagne",
-"quick_gloss": "in-good+ascendant"
+"quick_gloss": "in-good-ascendant"
 },
 {
 "surface": "ca",
@@ -744,23 +824,23 @@
 },
 {
 "surface": "mahābhogo",
-"quick_gloss": "great+enjoyment"
+"quick_gloss": "great-enjoyment"
 },
 {
 "surface": "viṣuve",
-"quick_gloss": "in-equinox"
+"quick_gloss": "at-equinox"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "ipsitaṃ",
-"quick_gloss": "desired+result"
+"surface": "īpsitaṃ",
+"quick_gloss": "desired-fruit"
 },
 {
 "surface": "phalam",
-"quick_gloss": "fruit"
+"quick_gloss": "result"
 }
 ]
 }
