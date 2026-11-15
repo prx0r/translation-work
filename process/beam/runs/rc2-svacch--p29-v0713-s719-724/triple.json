@@ -1,0 +1,245 @@
+{
+ "song": "sva-p29",
+ "items": [
+  {
+   "verse": 719,
+   "rows": [
+    {
+     "surface": "madhyaprāṇavāhāvadhānena",
+     "gloss": "by-fixation-of-middle-breath-flow",
+     "grounds": "compound fused form; sandhi internal",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "pratyayāntarapraśamāt",
+     "gloss": "from-cessation-of-other-cognitions",
+     "grounds": "compound fused form; sandhi internal",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "supraśāntaḥ",
+     "gloss": "very-tranquil",
+     "grounds": "prefixed adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does fixation of middle breath-flow and cessation of other cognitions produce deep tranquility?",
+   "premises": [
+    "middle breath-flow fixation steadies prana",
+    "other cognition cessation removes disturbance",
+    "together they yield deep tranquility"
+   ],
+   "inference": "Deep tranquility arises from breath fixation plus cognition cessation.",
+   "uncertainties": [
+    "exact technical sense of middle breath-flow"
+   ],
+   "plain_english": "By fixing the middle breath-flow and ceasing other cognitions, one becomes very tranquil."
+  },
+  {
+   "verse": 720,
+   "rows": [
+    {
+     "surface": "mṛtyum",
+     "gloss": "death",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādiśet",
+     "gloss": "should-indicate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt, root ādiś"
+    }
+   ],
+   "question": "When should death be indicated in this yogic context?",
+   "premises": [
+    "death is the object indicated",
+    "the verb is optative",
+    "indication follows prior signs"
+   ],
+   "inference": "Death should be indicated when the described signs appear.",
+   "uncertainties": [
+    "precise trigger not stated in this fragment"
+   ],
+   "plain_english": "One should indicate death."
+  },
+  {
+   "verse": 721,
+   "rows": [
+    {
+     "surface": "cīravāgākhyaprāṇikāryaciñcinītulyaṃ",
+     "gloss": "like-cincini-breath-work-named-old-speech",
+     "grounds": "long compound fused form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śabdaṃ",
+     "gloss": "sound",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇotyeva",
+     "gloss": "indeed-hears",
+     "grounds": "verb with emphatic particle",
+     "morph": "3.sg.act-pres, root śru"
+    }
+   ],
+   "question": "What sound is heard like the cincini breath-work named old speech?",
+   "premises": [
+    "the sound is compared to cincini breath-work",
+    "old speech names the comparison",
+    "the yogi indeed hears it"
+   ],
+   "inference": "The heard sound resembles the cincini breath-work called old speech.",
+   "uncertainties": [
+    "identity of cincini and old speech"
+   ],
+   "plain_english": "Indeed one hears a sound like the cincini breath-work called old speech."
+  },
+  {
+   "verse": 722,
+   "rows": [
+    {
+     "surface": "karṇarandhrakṛtāṃguṣṭhaḥ",
+     "gloss": "thumb-placed-in-ear-hole",
+     "grounds": "compound fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anuvartate",
+     "gloss": "is-understood",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres, root anuvṛt"
+    }
+   ],
+   "question": "How is the thumb placed in the ear-hole understood in this practice?",
+   "premises": [
+    "thumb is placed in ear-hole",
+    "thus marks the described gesture",
+    "the gesture is understood as stated"
+   ],
+   "inference": "The ear-hole thumb placement is understood as the described gesture.",
+   "uncertainties": [
+    "exact procedural meaning"
+   ],
+   "plain_english": "Thus the thumb placed in the ear-hole is understood."
+  },
+  {
+   "verse": 723,
+   "rows": [
+    {
+     "surface": "prāṇasya",
+     "gloss": "of-breath",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svasthānānasāpathāt",
+     "gloss": "from-not-path-of-own-place",
+     "grounds": "compound fused form",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "utpāṭanāt",
+     "gloss": "from-uprooting",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "utpāṭaḥ",
+     "gloss": "uprooting",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is meant by uprooting breath from its own place and path?",
+   "premises": [
+    "breath has its own place",
+    "uprooting removes it from that path",
+    "this removal is called uprooting"
+   ],
+   "inference": "Uprooting breath means removing it from its own place and path.",
+   "uncertainties": [
+    "physiological referent of own place"
+   ],
+   "plain_english": "This uprooting is the uprooting of breath from the path of its own place."
+  },
+  {
+   "verse": 724,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇaḥ",
+     "gloss": "breath",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahet",
+     "gloss": "flows",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt, root vah"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇavāhanimīlanāt",
+     "gloss": "from-closing-southern-flow",
+     "grounds": "compound fused form",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṇaḥ",
+     "gloss": "one-eyed",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens if breath flows and the southern flow is closed?",
+   "premises": [
+    "if breath flows",
+    "then closing southern flow follows",
+    "this also makes one one-eyed"
+   ],
+   "inference": "Closing the southern flow while breath flows results in one-eyedness.",
+   "uncertainties": [
+    "exact physiological outcome"
+   ],
+   "plain_english": "If breath flows, then from closing the southern flow this one also becomes one-eyed."
+  }
+ ]
+}

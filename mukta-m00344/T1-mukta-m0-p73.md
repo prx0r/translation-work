@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[deluded](mugdho) [foolish](mūḍhaḥ) [own](sva) [self](ātmānam)
+[mugdhaḥ](mugdhaḥ) [mūḍhaḥ](mūḍhaḥ) [svam](svam) [ātmānam](ātmānam)
 
 ## mukta-m0-p73-v1802
-[not](na) [grieves](śocati) [anywhere](kvacit) [others](ca) [others](anyān) [sorrow](śucā) [afflicted](yuktān) [laughs](hasati) [also](api)
+[na](na) [śocati](śocati) [kvacit](kvacit) [cānyān](cānyān) [śucāyuktān](śucāyuktān) [hasatyapi](hasatyapi)
 
 ## mukta-m0-p73-v1803
-[laughs](hasati) [also](api) [magician's](aindrajālikasya) [approach](āgamaḥ) [spell](mantraḥ) [that](saḥ) [deluding](mohakaḥ) [my](mama) [thus](iti) [known](jñātaḥ) [by-whom](yena)
+[hasatyapi](hasatyapi) [aindrajālikasyagamo](aindrajālikasyagamo) [mantraḥ](mantraḥ) [sa](sa) [mohako](mohako) [mameti](mameti) [jñāto](jñāto) [yena](yena)
 
 ## mukta-m0-p73-v1804
-[grieving](śocataḥ) [like-you](tvādṛśān) [by-illusion](māyā) [deluded](mūḍhān) [laugh-at](pravihasanti) [and](ca)
+[śocatastvādṛśān](śocatastvādṛśān) [māyāmūḍhān](māyāmūḍhān) [pravihasanti](pravihasanti) [ca](ca)
 
 ## mukta-m0-p73-v1805
-[in-the-illustrated](dārṣṭāntike) [applies](yojayati) [thus](evam) [thus](iti)
+[dārṣṭāntike](dārṣṭāntike) [yojayati](yojayati) [evamiti](evamiti)
 
 ## mukta-m0-p73-v1806
-[abandon](jahi) [sorrow](śokaṃ) [O-mighty-armed](mahābāho) [delusion](moha) [born](utthaṃ) [by-proper](sat) [reflection](vimarśanāt)
+[jahi](jahi) [śokaṃ](śokaṃ) [mahābāho](mahābāho) [mohotthaṃ](mohotthaṃ) [sadvimarśanāt](sadvimarśanāt)
 
 ## mukta-m0-p73-v1807
-[O-blessed-lord](bhagavan) [which](yaḥ) [by-you](tvayā) [declared](proktaḥ) [example](dṛṣṭāntaḥ) [incongruous](viṣamaḥ) [that](saḥ) [indeed](hi)
+[bhagavan](bhagavan) [yastvayā](yastvayā) [prokto](prokto) [dṛṣṭānto](dṛṣṭānto) [viṣamaḥ](viṣamaḥ) [sa](sa) [hi](hi)
 
 ## mukta-m0-p73-v1808
-[example](dṛṣṭāntaḥ) [dream](svapna) [magic](indra+jāla) [etc.](ādi) [form](rūpaḥ)
+[dṛṣṭāntaḥ](dṛṣṭāntaḥ) [svapnendrajālādirūpaḥ](svapnendrajālādirūpaḥ)
 
 ## mukta-m0-p73-v1809
-[this](ayaṃ) [waking](jāgrat) [world](prapañcaḥ) [but](tu) [real](satyaḥ) [all](sarva) [purpose](artha) [accomplishing](sādhakaḥ)
+[ayaṃ](ayaṃ) [jāgratprapañcastu](jāgratprapañcastu) [satyaḥ](satyaḥ) [sarvārthasādhakaḥ](sarvārthasādhakaḥ)
 
 ## mukta-m0-p73-v1810
-[thus](iti) [meaning](arthaḥ)
+[ityarthaḥ](ityarthaḥ)
 
 ## mukta-m0-p73-v1811
-[thus](iti) [addressed](uktaḥ) [again](punar) [explained](ācakhyau) [sage's](muni) [son](putraḥ) [very](ati) [intelligent](buddhimān)
+[ityuktaḥ](ityuktaḥ) [punarācakhyau](punarācakhyau) [muniputro'tibuddhimān](muniputro'tibuddhimān)
 
 ## mukta-m0-p73-v1812
-[dream](svāpna) [etc.](ādi) [world](prapañcaḥ) [unreal](asatyaḥ) [thus](iti) [meaning](bhāvaḥ)
+[svāpnādiprapañco'satya](svāpnādiprapañco'satya) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p73-v1813
-[this](eṣaḥ) [delusion](mohaḥ) [second](dvitīyaḥ) [your](te) [in-dream](svapne) [of-dream](svāpnasya) [as](yādṛśaḥ)
+[eṣa](eṣa) [moho](moho) [dvitīyaste](dvitīyaste) [svapne](svapne) [svāpnasya](svāpnasya) [yādṛśaḥ](yādṛśaḥ)
 
 ## mukta-m0-p73-v1814
-[dream](svāpna) [person's](puruṣasya) [in-rope](rajjau) [snake](sarpa) [illusion](bhrama) [similar](sadṛśaḥ) [thus](iti) [meaning](arthaḥ)
+[svāpnapuruṣasya](svāpnapuruṣasya) [rajjau](rajjau) [sarpabhramasadṛśa](sarpabhramasadṛśa) [ityarthaḥ](ityarthaḥ)
 
 ## mukta-m0-p73-v1815
-[of-travelers](pānthānāṃ) [why](kiṃ) [not](na) [removes](harati) [heat](tāpraṃ) [by-shade](chāyā) [giving](pradānataḥ)
+[pānthānāṃ](pānthānāṃ) [kiṃ](kiṃ) [na](na) [harati](harati) [tāpraṃ](tāpraṃ) [chāyāpradānataḥ](chāyāpradānataḥ)
 
 ## mukta-m0-p73-v1816
-[stable](sthiraḥ) [and](ca) [thus](iti) [meaning](arthaḥ)
+[sthiraścetyarthaḥ](sthiraścetyarthaḥ)
 
 ## mukta-m0-p73-v1817
-[waking](jāgrat) [world](prapañcaḥ) [also](api) [all](sarvaḥ) [in-deep-sleep](suṣuptau) [why](kiṃ) [not](na) [sublated](bādhitaḥ)
+[jāgratprapañco'pi](jāgratprapañco'pi) [sarvaḥ](sarvaḥ) [suṣuptau](suṣuptau) [kiṃ](kiṃ) [na](na) [bādhitaḥ](bādhitaḥ)
 
 ## mukta-m0-p73-v1818
-[of-dream](svāpnasya) [also](api) [on-next-day](para+dine) [not](na) [continuance](anuvṛttiḥ) [where](kva) [or](vā) [say](vada)
+[svāpnasyāpi](svāpnasyāpi) [paradine](paradine) [nānuvṛttiḥ](nānuvṛttiḥ) [kva](kva) [vā](vā) [vada](vada)
 
 ## mukta-m0-p73-v1819
-[of-dream](svāpnasya) [also](api) [this](etat) [equal](tulyam) [thus](iti) [says](āha) [of-dream](svāpnasya) [thus](iti)
+[svāpnasyāpyetattulyamityāha](svāpnasyāpyetattulyamityāha) [svāpnasyeti](svāpnasyeti)
 
 ## mukta-m0-p73-v1820
-[in-waking](jāgrati) [also](api) [where](kva) [continuance](anuvṛtti) [appearance](bhāsaḥ) [in-new](navya) [manifestation](avabhāsake)
+[jāgratyapi](jāgratyapi) [kvānuvṛttibhāso](kvānuvṛttibhāso) [navyāvabhāsake](navyāvabhāsake)
 
 ## mukta-m0-p73-v1821
-[meaning](bhāvaḥ)
+[bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p73-v1822
-[likewise](tathā) [in-dream](svapne) [also](api) [appears](bhāti) [indeed](eva) [continuance](anuvṛttiḥ) [in-stable](sthira) [appearance](bhāsane)
+[tathā](tathā) [svapne'pi](svapne'pi) [bhātyevānuvṛttiḥ](bhātyevānuvṛttiḥ) [sthirabhāsane](sthirabhāsane)
 
 ## mukta-m0-p73-v1823
-[meaning](bhāvaḥ)
+[bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p73-v1824
-[with-subtle](sūkṣma) [intellect](buddhyā) [examine](vimṛśa) [that](tat) [reality](vastu) [in-waking](jāgrati) [situated](saṃsthitam)
+[sūkṣmabuddhyā](sūkṣmabuddhyā) [vimṛśa](vimṛśa) [tadvastu](tadvastu) [jāgrati](jāgrati) [saṃsthitam](saṃsthitam)
 
 ## mukta-m0-p73-v1825
-[meaning](bhāvaḥ)
+[bhāvaḥ](bhāvaḥ)

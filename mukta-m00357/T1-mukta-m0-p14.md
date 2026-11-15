@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p14-v326
-[good+food](subhojyam) [without+rule](avidhānena) [silent-one](mun) [hell](narakam) [obtains](āpnuyāt) [thus](iti)
+[well-eatable](subhojyam) [without-procedure](avidhānena) [hell](munnannarakam) [obtains](āpnuyāt) [thus](iti)
 
 ## mukta-m0-p14-v327
-[not](na) [of-him](tasya) [good+destination](sadgatiḥ) [anywhere](kvāpi) [by-austerity+pilgrimage+vow+etc](tapas+tīrtha+vrata+ādibhiḥ) [thus](iti)
+[not](na) [his](tasya) [good-gati](sadgatiḥ) [anywhere](kvāpi) [austerities+tirthas+vows+etc](tapastīrthavratādibhiḥ) [thus](iti)
 
 ## mukta-m0-p14-v328
-[not](na) [meditation](dhyānaṃ) [not](na) [austerity](tapas) [not](na) [worship](arcāṃ) [not](na) [doctrine](matam) [not](na) [and](ca) [good+action](satkriyām) [thus](iti)
+[not](na) [meditation](dhyānaṃ) [not](na) [austerity](tapo) [not](na) [worship](arcāṃ) [not](na) [opinion](mataṃ) [not](na) [also](ca) [good-rites](satkriyām) [thus](iti)
 
 ## mukta-m0-p14-v329
-[only](kevalaṃ) [sense-object+attached](viṣaya+āsaktaḥ) [falls](patati) [indeed](eva) [not](na) [doubt](saṃśayaḥ) [drinking](piban) [thus](iti)
+[only](kevalaṃ) [sense-objects-attached](viṣayāsaktaḥ) [falls-indeed](patatyeva) [not](na) [doubt](saṃśayaḥ) [drinking-thus](pibanniti)
 
 ## mukta-m0-p14-v330
-[so-much+drinking](tāvat+pānaṃ) [should-do](prakurvīta) [animal+drinking](paśu+pānam) [from-this](itaḥ) [beyond](param) [thus](iti)
+[so-long-drinking](tāvatpānaṃ) [should-do](prakurvīta) [paśu-drinking](paśupānamitaḥ) [beyond-this-thus](paramiti)
 
 ## mukta-m0-p14-v331
-[living+liberated](jīvan+muktaḥ) [should-drink](pibet) [thus](evam) [otherwise](anyathā) [fallen](patitaḥ) [would-be](bhavet) [thus](iti)
+[liberated-while-living](jīvanmuktaḥ) [drinks-indeed-thus](pibedevam) [otherwise](anyathā) [fallen](patito) [becomes-thus](bhavediti)
 
 ## mukta-m0-p14-v332
-[having-risen](utthāya) [and](ca) [again](punaḥ) [having-drunk](pītvā) [again+birth](punar+janma) [not](na) [exists](vidyate) [thus](iti)
+[rising](utthāya) [and](ca) [again](punaḥ) [drinking](pītvā) [rebirth](punarjanma) [not](na) [exists](vidyate) [thus](iti)
 
 ## mukta-m0-p14-v333
-[then](tataḥ) [having-accepted](svīkṛtya) [and](ca) [guru](guruḥ) [to-disciples](śiṣyebhyaḥ) [remainder+giver](śeṣa+daḥ) [should-be](bhavet) [thus](iti)
+[then](tataḥ) [accepting](svīkṛtya) [and](ca) [guru](guruḥ) [to-disciples](śiṣyebhyaḥ) [remainder](śeṣado) [becomes-thus](bhavediti)
 
 ## mukta-m0-p14-v334
-[own+guru+own-lord](sva+guru+sveśayoḥ) [in-front](agre) [not](na) [having-sat](upaviśya) [should-drink](pibet) [oblation](haviḥ) [thus](iti)
+[own-guru-own-lord-before](svagurusveśayoragre) [not-sitting](nopaviśya) [drinks](pibed) [thus](dhaviriti)
 
 ## mukta-m0-p14-v335
-[with+second](sa+dvitīyaṃ) [should-drink](pibet) [first](ādyam) [elder+in-front](jyeṣṭha+agre) [kaula+best](kaulika+uttamaḥ) [thus](iti)
+[with-second](sadvitīyaṃ) [drinks](pibed) [first](ādyaṃ) [eldest-before](jyeṣṭhāgre) [kaulika-best](kaulikottama) [thus](iti)
 
 ## mukta-m0-p14-v336
-[in-secret](rahasi) [indeed](eva) [third](tṛtīyaṃ) [but](tu) [should-do](kurvīta) [kula+approved](kula+saṃmatam) [thus](iti)
+[secretly](rahasyeva) [third](tṛtīyaṃ) [then](tu) [should-do](kurvīta) [clan-approved](kulasaṃmata) [thus](iti)
 
 ## mukta-m0-p14-v337
-[third](tṛtīyaṃ) [like+first](ādya+vat) [thus](iti) [some](kecit)
+[third](tṛtīyaṃ) [like-first-thus](ādyavaditi) [some](kecit)
 
 ## mukta-m0-p14-v338
-[here](atra) [indeed](eva) [name+rule](nāma+vidhānam) [some](ke) [also](api)
+[here-only](atraiva) [name-rite](nāmavidhānaṃ) [some](ke'pi)
 
 ## mukta-m0-p14-v339
-[second+conduct+initiated](dvitīya+ācāra+dīkṣitaḥ) [in-second+conduct](dvitīya+ācāre) [not](na) [should-initiate](dīkṣayet) [so-long](tāvat)
+[second-conduct-initiated](dvitīyācāradīkṣito) [in-second-conduct](dvitīyācāre) [not](na) [initiates-so-long](dīkṣayettāvat)
 
 ## mukta-m0-p14-v340
-[so-long](tāvat) [not](na) [disciples](śiṣyān) [should-make](kurvīta) [vāmī](vāmī) [in-vāma](vāme) [but](tu) [ever](karhicit) [thus](iti)
+[so-long-not](tāvanna) [disciples-should-make](śiṣyānkurvīta) [vāmī](vāmī) [in-vāma](vāme) [tu](tu) [sometimes](karhicit) [thus](iti)
 
 ## mukta-m0-p14-v341
-[what](kiṃ) [or](vā) [these](etān) [should-instruct](śāsayet) [thus](iti) [own-lord+own-meditation+form+commanded](sveśa+sva+dhyeya+rūpa+ājñaptaḥ) [in-dream](svapne) [disciples](śiṣyān) [should-make](kurvīta)
+[why](kiṃ) [these](vaitān) [punish-thus](śāsayeti) [own-lord-own-study-form-commanded](sveśasvadhyeyarūpājñaptaḥ) [in-dream](svapne) [disciples-should-make](śiṣyānkurvīta)
 
 ## mukta-m0-p14-v342
-[them](tān) [indeed](eva) [should-instruct](śāsayet) [not](na) [others](anyān)
+[those-only](tāneva) [punish-not-others](śāsayennānyān)
 
 ## mukta-m0-p14-v343
-[second+conduct+initiated](dvitīya+ācāra+dīkṣitaḥ) [in-vāma](vāme) [should-initiate](dīkṣayet)
+[second-conduct-initiated](dvitīyācāradīkṣito) [in-vāma](vāme) [initiates](dīkṣayet)
 
 ## mukta-m0-p14-v344
-[should-initiate](dīkṣet) [should-initiate](dīkṣet) [should-initiate](dīkṣet) [should-initiate](dīkṣet)
+[initiates](dīkṣet)
 
 ## mukta-m0-p14-v345
-[in-consecration](saṃskāre) [also](api) [vāmī](vāmī) [should-initiate](dīkṣayet)
+[in-purification-also](saṃskāre'pi) [vāmī](vāmī) [initiates](dīkṣayet)
 
 ## mukta-m0-p14-v346
-[vāma+practitioner](vāma+ācārī) [in-vāma+mantras](vāma+mantreṣu) [all+deity+consisting](sarva+devatā+keṣu) [qualified](adhikṛtaḥ) [becomes](bhavati)
+[vāma-conduct](vāmācārī) [in-vāma-mantras](vāmamantreṣu) [all-deities](sarvadevatākeṣu) [authorized](adhikṛto) [becomes](bhavati)
 
 ## mukta-m0-p14-v347
-[thus](iti) [and](ca) [instructed](upadiṣṭaḥ)
+[thus](iti) [also](ca) [taught](upadiṣṭaḥ)
 
 ## mukta-m0-p14-v348
-[new](navyaḥ) [disciple](śiṣyaḥ) [deity](devatā) [with-head](mūrdhnā) [having-bowed](praṇamya) [here](atra) [indeed](eva) [lord+in-front](īśa+agre) [guru+salutation](guru+abhivādanam)
+[new](navyaḥ) [disciple](śiṣyo) [deity](devatā) [with-head](mūrdhnā) [bowing-here-lord-before](praṇamyātraiveśāgre) [guru-salutation](gurvabhivādanam)
 
 ## mukta-m0-p14-v349
-[having-saluted](abhivādya) [||](||) [100](100)
+[saluting](abhivādya) [||](||) [100](100)
 
 ## mukta-m0-p14-v350
-[with-group](sa+gaṇikaḥ) [with-group+fellow-student+assembly](sa+gaṇika+satīrtha+maṇḍalaḥ) [oblation+receiving+house](haviḥ+pratipatti+agāraṃ) [should-enter](praviśet)
+[with-attendants](sagaṇikaḥ) [with-attendants-fellow-students-circle](sagaṇikasatīrthyamaṇḍalo) [oblation-receiving-house](haviḥpratipattyagāraṃ) [enters](praviśet)

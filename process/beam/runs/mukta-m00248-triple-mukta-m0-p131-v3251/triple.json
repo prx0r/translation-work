@@ -1,0 +1,1037 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3251,
+   "rows": [
+    {
+     "surface": "ravicandrāgnimadhyasthaṃ",
+     "gloss": "sun-moon-fire-situated-middle",
+     "grounds": "compound of sun moon fire middle situated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "padmasya",
+     "gloss": "of-lotus",
+     "grounds": "genitive of padma",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "upari",
+     "gloss": "upon",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇike",
+     "gloss": "pericarp",
+     "grounds": "locative of karṇikā",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Where is the sun-moon-fire triad situated in the lotus meditation?",
+   "premises": [
+    "The triad is situated in the middle.",
+    "It is upon the lotus pericarp."
+   ],
+   "inference": "The meditation places the triad in the lotus pericarp.",
+   "uncertainties": [
+    "Exact compound parsing not fully resolved."
+   ],
+   "plain_english": "The sun, moon, and fire are situated in the middle upon the lotus pericarp."
+  },
+  {
+   "verse": 3252,
+   "rows": [
+    {
+     "surface": "ghaṭikādvayaṃ",
+     "gloss": "two-ghaṭikās",
+     "grounds": "compound of ghaṭikā and dvaya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dalaṃ",
+     "gloss": "petal",
+     "grounds": "nominative of dala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījaiḥ",
+     "gloss": "with-seed-syllables",
+     "grounds": "instrumental plural of bīja",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "in-order",
+     "grounds": "ablative of krama",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "color",
+     "grounds": "accusative of varṇa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadaivatam",
+     "gloss": "always-indeed-that",
+     "grounds": "compound of sadā eva tat",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How are the two ghaṭikās and petal colored with seed syllables?",
+   "premises": [
+    "Two ghaṭikās and a petal are named.",
+    "Seed syllables color them in order."
+   ],
+   "inference": "The petals are colored by seed syllables in sequence.",
+   "uncertainties": [
+    "sadaivatam parsing uncertain."
+   ],
+   "plain_english": "Two ghaṭikās and a petal are colored with seed syllables in order, always indeed that."
+  },
+  {
+   "verse": 3253,
+   "rows": [
+    {
+     "surface": "vasavaḥ",
+     "gloss": "vasus",
+     "grounds": "nominative plural of vasu",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭabhiś",
+     "gloss": "with-eight",
+     "grounds": "instrumental plural of aṣṭa",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśvinau",
+     "gloss": "two-aśvins",
+     "grounds": "nominative dual of aśvin",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "nominative dual of dvi",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-due-order",
+     "grounds": "compound of yathā and krama",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are arranged with eight vasus and two aśvins?",
+   "premises": [
+    "Vasus are named with eight.",
+    "Two aśvins are named."
+   ],
+   "inference": "The deities are arranged in due order.",
+   "uncertainties": [
+    "Exact ritual context not stated."
+   ],
+   "plain_english": "The vasus and indeed the two aśvins are arranged in due order."
+  },
+  {
+   "verse": 3254,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural of sarva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative plural of tad",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhavalaprakhyāṃ",
+     "gloss": "white-shining",
+     "grounds": "compound of dhavala and prakhyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mṛtyunāśanakarmaṇi",
+     "gloss": "in-death-destruction-rite",
+     "grounds": "compound locative of mṛtyu nāśana karma",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What color do all these deities have in the death-destruction rite?",
+   "premises": [
+    "All of them are named.",
+    "They have white shining form."
+   ],
+   "inference": "In the death-destruction rite they are white shining.",
+   "uncertainties": [
+    "Scope of te unclear."
+   ],
+   "plain_english": "All of them are white-shining in the death-destruction rite."
+  },
+  {
+   "verse": 3255,
+   "rows": [
+    {
+     "surface": "śaṅkhakundendudhavalaṃ",
+     "gloss": "conch-jasmine-moon-white",
+     "grounds": "compound of śaṅkha kunda indu dhavala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mokṣārthaṃ",
+     "gloss": "for-liberation-purpose",
+     "grounds": "compound accusative of mokṣa artha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative of cint",
+     "morph": "3.sg.act-opt-cint"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form should one meditate on for liberation?",
+   "premises": [
+    "The form is conch-jasmine-moon-white.",
+    "One should meditate always."
+   ],
+   "inference": "For liberation one meditates on that white form.",
+   "uncertainties": [
+    "Exact deity not named."
+   ],
+   "plain_english": "One should always meditate on the conch-jasmine-moon-white form for liberation."
+  },
+  {
+   "verse": 3256,
+   "rows": [
+    {
+     "surface": "vidveṣaṇe",
+     "gloss": "in-hostility",
+     "grounds": "locative of vidveṣaṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhūrmavarṇaṃ",
+     "gloss": "smoke-colored",
+     "grounds": "compound of dhūma and varṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uccāṭe",
+     "gloss": "in-expulsion",
+     "grounds": "locative of uccāṭa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇavarṇakam",
+     "gloss": "black-colored",
+     "grounds": "compound of kṛṣṇa and varṇaka",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What colors are used in hostility and expulsion rites?",
+   "premises": [
+    "Hostility uses smoke color.",
+    "Expulsion uses black color."
+   ],
+   "inference": "The rites use smoke and black colors respectively.",
+   "uncertainties": [
+    "Grammatical object omitted."
+   ],
+   "plain_english": "In hostility it is smoke-colored; in expulsion it is black-colored."
+  },
+  {
+   "verse": 3257,
+   "rows": [
+    {
+     "surface": "chedane",
+     "gloss": "in-cutting",
+     "grounds": "locative of chedana",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śikrośinibhaṃ",
+     "gloss": "like-fire",
+     "grounds": "compound of śikhin and nibha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭavarṇaṃ",
+     "gloss": "eight-colored",
+     "grounds": "compound of aṣṭa and varṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedane",
+     "gloss": "in-splitting",
+     "grounds": "locative of bhedana",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What colors apply in cutting and splitting rites?",
+   "premises": [
+    "Cutting uses fire-like color.",
+    "Splitting uses eight-colored form."
+   ],
+   "inference": "The rites use fire-like and eight-colored forms.",
+   "uncertainties": [
+    "śikrośinibhaṃ reading uncertain."
+   ],
+   "plain_english": "In cutting it is fire-like; indeed in splitting it is eight-colored."
+  },
+  {
+   "verse": 3258,
+   "rows": [
+    {
+     "surface": "jvālāmālāsahasraiś",
+     "gloss": "with-thousands-flame-garlands",
+     "grounds": "instrumental plural compound",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dābhaś",
+     "gloss": "burn",
+     "grounds": "verb root dah",
+     "morph": "3.sg.act-pres-dah"
+    },
+    {
+     "surface": "cantruṃ",
+     "gloss": "enemy",
+     "grounds": "accusative of cantru",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "māhave",
+     "gloss": "in-battle",
+     "grounds": "locative of māhava",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is the enemy burned in battle?",
+   "premises": [
+    "Thousands of flame garlands are used.",
+    "The enemy is burned in battle."
+   ],
+   "inference": "The enemy is burned with thousands of flame garlands in battle.",
+   "uncertainties": [
+    "cantruṃ form uncertain."
+   ],
+   "plain_english": "With thousands of flame garlands one burns the enemy in battle."
+  },
+  {
+   "verse": 3259,
+   "rows": [
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "locative of mastaka",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāstrobhya",
+     "gloss": "with-weapon",
+     "grounds": "instrumental plural of śāstra",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śikhābandhantu",
+     "gloss": "crest-binding",
+     "grounds": "compound of śikhā and bandhu",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rajjunā",
+     "gloss": "with-cord",
+     "grounds": "instrumental of rajju",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "?",
+     "gloss": "unknown",
+     "grounds": "unresolved token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is bound on the head with weapon and cord?",
+   "premises": [
+    "The head is the location.",
+    "Crest binding uses weapon and cord."
+   ],
+   "inference": "A crest binding is made on the head with weapon and cord.",
+   "uncertainties": [
+    "Final token unresolved."
+   ],
+   "plain_english": "On the head, crest binding is done with weapon and cord."
+  },
+  {
+   "verse": 3260,
+   "rows": [
+    {
+     "surface": "ākarṣaṇe",
+     "gloss": "in-attraction",
+     "grounds": "locative of ākarṣaṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prayogoyaṃ",
+     "gloss": "this-application",
+     "grounds": "compound of prayoga and ayam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaśye",
+     "gloss": "in-subjugation",
+     "grounds": "locative of vaśya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vādena",
+     "gloss": "by-speech",
+     "grounds": "instrumental of vāda",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ghaṭṭayet",
+     "gloss": "one-should-strike",
+     "grounds": "optative of ghaṭṭ",
+     "morph": "3.sg.act-opt-ghaṭṭ"
+    }
+   ],
+   "question": "How is attraction and subjugation performed by speech?",
+   "premises": [
+    "This application is for attraction.",
+    "One should strike by speech in subjugation."
+   ],
+   "inference": "Attraction and subjugation are performed by striking with speech.",
+   "uncertainties": [
+    "prayogoyaṃ sandhi unresolved."
+   ],
+   "plain_english": "This application is for attraction; in subjugation one should strike by speech."
+  },
+  {
+   "verse": 3261,
+   "rows": [
+    {
+     "surface": "uccāṭane",
+     "gloss": "in-expulsion",
+     "grounds": "locative of uccāṭana",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "instrumental of viśeṣa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vāyavyena",
+     "gloss": "by-vāyavya",
+     "grounds": "instrumental of vāyavya",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ṣaḍānana",
+     "gloss": "o-six-faced-one",
+     "grounds": "vocative of ṣaḍānana",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which deity is especially invoked in expulsion by vāyavya?",
+   "premises": [
+    "Expulsion is the rite.",
+    "Vāyavya is used especially."
+   ],
+   "inference": "The six-faced one is invoked in expulsion by vāyavya.",
+   "uncertainties": [
+    "Deity identity inferred from epithet."
+   ],
+   "plain_english": "Especially by vāyavya, O six-faced one, in expulsion."
+  },
+  {
+   "verse": 3262,
+   "rows": [
+    {
+     "surface": "stambhe",
+     "gloss": "in-paralysis",
+     "grounds": "locative of stambha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māhendram",
+     "gloss": "māhendra",
+     "grounds": "accusative of māhendra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "declared",
+     "grounds": "past participle of vac",
+     "morph": "n.nom.sg.pass-pp-vac"
+    },
+    {
+     "surface": "mohe",
+     "gloss": "in-delusion",
+     "grounds": "locative of moha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāyavyeśānataḥ",
+     "gloss": "from-vāyavya-and-īśāna",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What is declared for paralysis and delusion?",
+   "premises": [
+    "Māhendra is declared for paralysis.",
+    "Delusion comes from vāyavya and īśāna."
+   ],
+   "inference": "Paralysis uses māhendra; delusion uses vāyavya and īśāna.",
+   "uncertainties": [
+    "Syntax of uktam unclear."
+   ],
+   "plain_english": "For paralysis māhendra is indeed declared; for delusion from vāyavya and īśāna."
+  },
+  {
+   "verse": 3263,
+   "rows": [
+    {
+     "surface": "agnimaṇḍalamadhyasthaṃ",
+     "gloss": "situated-middle-fire-circle",
+     "grounds": "compound of agni maṇḍala madhya stha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "compound of tat and madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śakramaṇḍalam",
+     "gloss": "indra-circle",
+     "grounds": "compound of śakra and maṇḍala",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is situated in the middle of the fire circle?",
+   "premises": [
+    "The fire circle is named.",
+    "Indra circle is in its middle."
+   ],
+   "inference": "The indra circle is situated in the middle of the fire circle.",
+   "uncertainties": [
+    "śakra vs indra gloss."
+   ],
+   "plain_english": "Situated in the middle of the fire circle, the indra circle is in its middle."
+  },
+  {
+   "verse": 3264,
+   "rows": [
+    {
+     "surface": "jvālāmālāsahasraiś",
+     "gloss": "with-thousands-flame-garlands",
+     "grounds": "instrumental plural compound",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dahet",
+     "gloss": "one-should-burn",
+     "grounds": "optative of dah",
+     "morph": "3.sg.act-opt-dah"
+    },
+    {
+     "surface": "paracamūṃ",
+     "gloss": "enemy-army",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "guha",
+     "gloss": "o-guha",
+     "grounds": "vocative of guha",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Whom should one burn with thousands of flame garlands?",
+   "premises": [
+    "Thousands of flame garlands are used.",
+    "The enemy army is burned."
+   ],
+   "inference": "O Guha, one should burn the enemy army with flame garlands.",
+   "uncertainties": [
+    "guha vocative."
+   ],
+   "plain_english": "With thousands of flame garlands, O Guha, one should burn the enemy army."
+  },
+  {
+   "verse": 3265,
+   "rows": [
+    {
+     "surface": "vijitvā",
+     "gloss": "having-conquered",
+     "grounds": "absolutive of vijay",
+     "morph": "abs-vijay"
+    },
+    {
+     "surface": "parasenāṃ",
+     "gloss": "enemy-army",
+     "grounds": "accusative of parasenā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "supure",
+     "gloss": "in-own-city",
+     "grounds": "locative of supura",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "accusative of sukha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "edhate",
+     "gloss": "prospers",
+     "grounds": "verb root edh",
+     "morph": "3.sg.mid-pres-edh"
+    }
+   ],
+   "question": "What follows after conquering the enemy army?",
+   "premises": [
+    "The enemy army is conquered.",
+    "One prospers in one's own city."
+   ],
+   "inference": "After conquering the enemy army one prospers happily in one's own city.",
+   "uncertainties": [
+    "edhate voice."
+   ],
+   "plain_english": "Having conquered the enemy army, one indeed prospers happily in one's own city."
+  },
+  {
+   "verse": 3266,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-kālottara",
+     "grounds": "locative of kālottara",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vajrakavāṭalakṣaṇe",
+     "gloss": "in-characteristic-vajra-kavāṭa",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhruvormadhyadhāraṇe",
+     "gloss": "in-concentration-between-eyebrows",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "senāstambhapaṭalaḥ",
+     "gloss": "chapter-army-paralysis",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "catuḥṣaṣṭitamaḥ",
+     "gloss": "sixty-fourth",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is described in the Kālottara?",
+   "premises": [
+    "It is in Kālottara.",
+    "The chapter is on army paralysis."
+   ],
+   "inference": "The sixty-fourth chapter on army paralysis is described.",
+   "uncertainties": [
+    "vajrakavāṭa context."
+   ],
+   "plain_english": "Thus in Kālottara, in the characteristic of vajra-kavāṭa and concentration between eyebrows, the sixty-fourth chapter on army paralysis."
+  },
+  {
+   "verse": 3267,
+   "rows": [
+    {
+     "surface": "karṇikākesaropetaṃ",
+     "gloss": "endowed-pericarp-filaments",
+     "grounds": "compound of karṇikā kesara upeta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tuṣārarajataprabham",
+     "gloss": "snow-silver-splendor",
+     "grounds": "compound of tuṣāra rajata prabhā",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What splendor does the pericarp with filaments have?",
+   "premises": [
+    "It is endowed with pericarp and filaments.",
+    "It has snow-silver splendor."
+   ],
+   "inference": "The pericarp with filaments has snow-silver splendor.",
+   "uncertainties": [
+    "Case role in larger sentence."
+   ],
+   "plain_english": "Endowed with pericarp and filaments, it has snow-silver splendor."
+  },
+  {
+   "verse": 3268,
+   "rows": [
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "accusative of utsedha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "in-pericarp",
+     "grounds": "locative of karṇikā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īṣaccāmīkaraprabham",
+     "gloss": "slight-gold-splendor",
+     "grounds": "compound of īṣat cāmīkara prabhā",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What height and splendor are in the pericarp?",
+   "premises": [
+    "Height is in the pericarp.",
+    "It has slight gold splendor."
+   ],
+   "inference": "The pericarp has height and slight gold splendor.",
+   "uncertainties": [
+    "īṣaccāmīkara parsing."
+   ],
+   "plain_english": "The height in the pericarp is but slight gold splendor."
+  },
+  {
+   "verse": 3269,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative of dhyai",
+     "morph": "3.sg.act-opt-dhyai"
+    },
+    {
+     "surface": "nārāyaṇaṃ",
+     "gloss": "nārāyaṇa",
+     "grounds": "accusative of nārāyaṇa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative of deva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaṅkhagokṣīrasannibham",
+     "gloss": "resembling-conch-cow-milk",
+     "grounds": "compound of śaṅkha go kṣīra sannibha",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "On whom should one meditate resembling conch and cow milk?",
+   "premises": [
+    "Nārāyaṇa is the god.",
+    "He resembles conch and cow milk."
+   ],
+   "inference": "One should meditate on Nārāyaṇa resembling conch and cow milk.",
+   "uncertainties": [
+    "go kṣīra compound."
+   ],
+   "plain_english": "One should meditate on god Nārāyaṇa resembling conch and cow milk."
+  },
+  {
+   "verse": 3270,
+   "rows": [
+    {
+     "surface": "sarvajñaṃ",
+     "gloss": "all-knowing",
+     "grounds": "compound of sarva and jña",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvagaṃ",
+     "gloss": "all-pervading",
+     "grounds": "compound of sarva and ga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "accusative of śānta",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvatokṣiśiromukham",
+     "gloss": "eyes-heads-faces-everywhere",
+     "grounds": "compound of sarvatas akṣi śiras mukha",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What attributes does the all-knowing peaceful deity have?",
+   "premises": [
+    "He is all-knowing and all-pervading.",
+    "He is peaceful with eyes heads faces everywhere."
+   ],
+   "inference": "The deity is all-knowing, all-pervading, peaceful, and has eyes, heads, faces everywhere.",
+   "uncertainties": [
+    "sarvatokṣiśiromukham parsing."
+   ],
+   "plain_english": "All-knowing, all-pervading, peaceful, with eyes, heads, and faces everywhere."
+  },
+  {
+   "verse": 3271,
+   "rows": [
+    {
+     "surface": "kalpodakasamāyuktaṃ",
+     "gloss": "endowed-dissolution-waters",
+     "grounds": "compound of kalpa udaka samāyukta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthitisaṃhārasaṃyutam",
+     "gloss": "endowed-maintenance-dissolution",
+     "grounds": "compound of sthiti saṃhāra saṃyuta",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What waters and cosmic functions are joined to the deity?",
+   "premises": [
+    "It is endowed with dissolution waters.",
+    "It is joined with maintenance and dissolution."
+   ],
+   "inference": "The deity is joined with dissolution waters, maintenance, and dissolution.",
+   "uncertainties": [
+    "kalpa udaka compound."
+   ],
+   "plain_english": "Endowed with dissolution waters, joined with maintenance and dissolution."
+  },
+  {
+   "verse": 3272,
+   "rows": [
+    {
+     "surface": "sthitiṃ",
+     "gloss": "maintenance",
+     "grounds": "accusative of sthiti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative of rūpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "accusative of para",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "nominative of etad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "somarūpamidaṃ",
+     "gloss": "this-soma-form",
+     "grounds": "compound of soma rūpa idam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "nominative of para",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the supreme form of maintenance?",
+   "premises": [
+    "Maintenance is the form.",
+    "This is the supreme soma form."
+   ],
+   "inference": "Maintenance is the supreme form, indeed this is the supreme soma form.",
+   "uncertainties": [
+    "etat and idam relation."
+   ],
+   "plain_english": "Maintenance is the supreme form; indeed this is the supreme soma form."
+  },
+  {
+   "verse": 3273,
+   "rows": [
+    {
+     "surface": "mṛtyuñjayamidaṃ",
+     "gloss": "this-conqueror-death",
+     "grounds": "compound of mṛtyuñjaya idam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "vocative of vatsa",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "satatābhyāsayogataḥ",
+     "gloss": "through-constant-practice-yoga",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does this conqueror of death become effective?",
+   "premises": [
+    "This is the conqueror of death.",
+    "It is through constant practice of yoga."
+   ],
+   "inference": "This conqueror of death is effective through constant yoga practice.",
+   "uncertainties": [
+    "vatsa addressee."
+   ],
+   "plain_english": "This conqueror of death, O child, is through constant practice of yoga."
+  },
+  {
+   "verse": 3274,
+   "rows": [
+    {
+     "surface": "prajāpatestrayodaśaṃ",
+     "gloss": "thirteenth-of-prajāpati",
+     "grounds": "compound genitive ordinal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhya",
+     "gloss": "having-taken",
+     "grounds": "absolutive of grah",
+     "morph": "abs-grah"
+    },
+    {
+     "surface": "dvimātreṇa",
+     "gloss": "with-two-mātrās",
+     "grounds": "instrumental of dvimātra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined",
+     "grounds": "past participle of samyuj",
+     "morph": "n.acc.sg.pass-pp-samyuj"
+    }
+   ],
+   "question": "What is taken and joined with two mātrās?",
+   "premises": [
+    "The thirteenth of Prajāpati is taken.",
+    "It is joined with two mātrās."
+   ],
+   "inference": "The thirteenth of Prajāpati is taken and joined with two mātrās.",
+   "uncertainties": [
+    "prajāpatestrayodaśaṃ parsing."
+   ],
+   "plain_english": "Having taken the thirteenth of Prajāpati, it is joined with two mātrās."
+  }
+ ]
+}

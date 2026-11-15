@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-[face-downward](avāṅmukhaḥ) [for-a-moment](kṣaṇaṃ) [having-stood](sthitvā) [having-reflected](vicārya) [within](antaḥ) [by-them](tayā) [spoken](īritam)
+[down-faced](avāṅmukhaḥ) [moment](kṣaṇaṃ) [having-stood](sthitvā) [having-considered+internally-uttered](vicāryāntastayeritam)
 
 ## mukta-m0-p88-v2177
-[dejected](vimanāḥ) [as-if](iva) [agitated-minded](vyagra+cittaḥ) [as-if](iva) [within](antaḥ) [in-the-mind](manasi)
+[distressed](vimanā) [like](iva) [agitated-mind](vyagracitta) [like](iva) [within](antaḥ) [in-mind](manasi)
 
 ## mukta-m0-p88-v2178
-[o-ascetic-woman](tāpasi) [I](aham) [not](na) [know](jānāmi) [of-your-question](tvad+praśnasya) [answer](uttaraṃ) [word](vacaḥ)
+[ascetic+I](tāpasyahaṃ) [not](na) [know](jānāmi) [your-question's](tvatpraśnasya) [answer](uttaraṃ) [word](vacaḥ)
 
 ## mukta-m0-p88-v2179
-[of-that](tasyāḥ) [ascetic-woman](tāpasyāḥ) [answer-to-question](praśna+uttaram) [to-that](tāṃ) [ascetic-woman](tāpasīm)
+[her](tasyāḥ) [ascetic's](tāpasyāḥ) [question-answer](praśnottaram) [her](tāṃ) [ascetic-woman](tāpasīm)
 
 ## mukta-m0-p88-v2180
-[not](na) [I](aham) [speak](vadāmi) [untruth](anṛtakaṃ) [destroying-austerity](tapaḥ+haram) [useless](anarthakam)
+[not](na) [I](ahaṃ) [speak](vadāmi) [false](anṛtakaṃ) [austerity-stealing](tapoharam) [useless](anarthakam)
 
 ## mukta-m0-p88-v2181
-[fitting](saṅgatam) [this](etat) [speak](vada) [unknown](aviditam) [even](api) [I-know](jānāmi) [thus](iti) [untruth](anṛtakam)
+[consistent](saṅgatam) [this](etat) [say](vada) [unknown](aviditam) [even](api) [I-know](jānāmīti) [false](anṛtakam)
 
 ## mukta-m0-p88-v2182
-[to-Aṣṭāvakra](aṣṭāvakraṃ) [replied](pratyuvāca) [while-hearing](śṛṇvatāṃ) [and](ca) [of-the-assembly-members](sabhā+sadām)
+[Ashtavakra](aṣṭāvakraṃ) [replied](pratyuvāca) [listening](śṛṇvatāṃ) [and](ca) [assembly-members](sabhāsadām)
 
 ## mukta-m0-p88-v2183
-[of-him](tasya) [of-Aṣṭāvakra](aṣṭāvakrasya)
+[his](tasya) [Ashtavakra's](aṣṭāvakrasya)
 
 ## mukta-m0-p88-v2184
-[by-dry-reasoning](śuṣka+tarkaiḥ) [unknowable](avijñeyaṃ) [everywhere](sarvatra) [indeed](eva) [well-concealed](su+gopitam)
+[dry-arguments](śuṣkatarkaiḥ) [unknowable](avijñeyaṃ) [everywhere](sarvatra) [indeed](eva) [well-hidden](sugopitam)
 
 ## mukta-m0-p88-v2185
-[this](etat) [resolution-of-stated-contradiction](prokta+virodha+samādhānam) [this](etat) [unknowable](avijñeyam) [everywhere](sarvatra) [in-the-scriptures](śāstreṣu)
+[this](etat) [resolution-of-stated-contradiction](proktavirodhasamādhānam) [this](etad) [unknowable](avijñeyam) [everywhere](sarvatra) [in-scriptures](śāstreṣu)
 
 ## mukta-m0-p88-v2186
-[king](rājā) [this](ayam) [knows](vetti) [I](aham) [or](vā) [also](api) [know](vedmi) [not](na) [another](anyaḥ) [but](tu) [anyone](kaścana)
+[king](rājā) [this](ayam) [knows](vetty) [I](ahaṃ) [or](vā) [also](api) [know](vedmi) [not](na) [other](anyaḥ) [but](tu) [anyone](kaścana)
 
 ## mukta-m0-p88-v2187
-[not](na) [knows](vijānāti) [anyone](kaścana) [thus](iti) [this](etat) [indeed](eva) [again](bhūyaḥ) [for-clarity](spaṣṭa+artham) [says](āha) [not-another-but](na+anyaḥ+tu) [thus](iti)
+[not](na) [knows](vijānāti) [anyone](kaścana) [thus](iti) [this](etat) [indeed](eva) [again](bhūyaḥ) [clear-meaning](spaṣṭārtham) [says](āha) [not](na) [other](anyaḥ) [but](tu) [thus](iti)
 
 ## mukta-m0-p88-v2188
-[generally](prāyaḥ) [know](viduḥ) [indeed](hi) [the-wise](vidvāṃsaḥ) [mere-reasoning](tarka+mātra) [dependent-on](samāśrayāḥ)
+[mostly](prāyaḥ) [know](viduḥ) [indeed](hi) [learned](vidvāṃsaḥ) [relying-on-logic-only](tarkamātrasamāśrayāḥ)
 
 ## mukta-m0-p88-v2189
-[without](vinā) [service-to-true-guru](sat+guru+sevāyāḥ) [without](vinā) [grace-of-deity](devatā+anugrahāt)
+[without](vinā) [service-to-true-teacher](sadgurusevāyā) [divine-grace](devatānugrahāt) [without](vinā)
 
 ## mukta-m0-p88-v2190
-[not](na) [this](idam) [having-heard](śrutvā) [even](api) [knowable](vijñeyaṃ) [by-detached](tāṭasthya+prāṇayā) [intellect](dhiyā)
+[not](na) [this](idaṃ) [having-heard](śrutvā) [even](api) [knowable](vijñeyaṃ) [impartial-life](tāṭasthyaprāṇayā) [by-intellect](dhiyā)
 
 ## mukta-m0-p88-v2191
-[outward-facing](bahir+mukhī) [thus](iti) [purport](tātparyam)
+[outward-facing](bahirmukhyā) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p88-v2192
-[so-long](tāvat) [thousands-of-times](sahasraśaḥ) [taught](proktaṃ) [heard](śrutaṃ) [and](ca) [also](api) [useless](nirarthakam)
+[so-long](tāvat) [thousands](sahasraśaḥ) [spoken](proktaṃ) [heard](śrutaṃ) [and](ca) [even](api) [meaningless](nirarthakam)
 
 ## mukta-m0-p88-v2193
-[by-guru](guruṇā) [taught](proktaṃ) [by-oneself](svena) [heard](śrutaṃ) [and](ca)
+[by-teacher](guruṇā) [spoken](proktaṃ) [by-self](svena) [heard](śrutaṃ) [and](ca)
 
 ## mukta-m0-p88-v2194
-[not-having-known](avijñāya) [stolen](hṛtaṃ) [by-thieves](cauraiḥ) [thinks](manyate) [due-to-delusion](mūḍha+bhāvataḥ)
+[without-knowing](avijñāya) [taken](hṛtaṃ) [by-thieves](caurair) [thinks](manyate) [from-delusion](mūḍhabhāvataḥ)
 
 ## mukta-m0-p88-v2195
-[oneself](sva+ātmānam) [without-pointing-out](anudāhṛtya) [as-long-as](yāvat) [at-the-throat](kaṇṭhaṃ) [not](na) [sees](paśyati)
+[own-self](svātmānam) [without-exemplifying](anudāhṛtya) [until](yāvat) [throat](kaṇṭhaṃ) [not](na) [sees](paśyati)
 
 ## mukta-m0-p88-v2196
-[there](tatra) [activity-of-senses](indriya+vyāpāram) [without-doing](akṛtvā) [thus](iti) [this](etat)
+[there](tatra) [sense-activity](indriyavyāpāram) [not-doing](akṛtvā) [thus](iti) [this](etat)
 
 ## mukta-m0-p88-v2197
-[thus](evam) [the-sage's-son](muni+suta) [the-self](ātmānaṃ) [one's-own-nature](sva+svabhāvaṃ) [having-heard](niśamya) [and](ca)
+[thus](evaṃ) [sage's-son-self](munisutātmānaṃ) [own-nature](svasvabhāvaṃ) [having-heard](niśamya) [and](ca)
 
 ## mukta-m0-p88-v2198
-[one's-own-nature](sva+svabhāvaṃ) [one's-own-form](sva+svarūpaṃ) [having-heard](niśamya) [having-listened](śrutvā)
+[own-nature](svasvabhāvaṃ) [own-form](svasvarūpaṃ) [having-heard](niśamya) [having-heard](śrutvā)
 
 ## mukta-m0-p88-v2199
-[so-long](yāvat) [then](tāvat) [outside](bahiḥ) [where](kutra) [how](kathaṃ) [that](tat) [known](viditaṃ) [would-be](bhavet)
+[until](yāvat) [so-long](tāvad) [outside](bahiḥ) [where](kutra) [how](kathaṃ) [that](tad) [known](viditaṃ) [becomes](bhavet)
 
 ## mukta-m0-p88-v2200
-[that](tat) [nature-of-self](ātma+rūpam)
+[that](tat) [self-form](ātmarūpam)

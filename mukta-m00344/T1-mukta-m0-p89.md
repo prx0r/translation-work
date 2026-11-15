@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[self](svayaṃ) [illuminability](prakāśyatāṃ) [not+goes](na+eti) [anywhere](kvacit) [of-lamp](dīpasya) [of-any](kasyacit)
+[self](svayaṃ) [illumination](prakāśyatāṃ) [not-goes](naiti) [somewhere](kvacit) [lamp](dīpasya) [of-any](kasyacit)
 
 ## mukta-m0-p89-v2202
-[illuminability](prakāśyatāṃ) [not+goes](na+eti) [indeed](hi) [ever](kadācit) [of-any](kasyacit)
+[illumination](prakāśyatāṃ) [not-goes](naiti)
 
 ## mukta-m0-p89-v2203
-[established](sthitāḥ) [thus](iti) [all](sarve) [entities](bhāvāḥ) [self-luminous](svaprakāśāḥ) [indeed](eva)
+[established](sthitāḥ)
 
 ## mukta-m0-p89-v2204
-[in-self-luminous](svaprakāśe) [other+non-dependent](anya+anapekṣāḥ) [by-themselves](svataḥ) [shine](prakāśante) [all](sarve) [things](arthāḥ)
+[in-self-illumination](svaprakāśe) [others-not-expecting](anyānapekṣāḥ) [by-self](svataḥ) [shine](prakāśante)
 
 ## mukta-m0-p89-v2205
-[not](na) [exist](santi) [not](na) [shine](prakāśanta) [thus](iti) [to-say](vaktuṃ) [indeed](hi) [is-fitting](yujyate)
+[not](na) [are](santi) [not](na) [shine](prakāśanta) [thus](iti) [to-say](vaktuṃ) [indeed](hi) [fitting](yujyate)
 
 ## mukta-m0-p89-v2206
-[what](kim) [not](na) [is-fitting](yujyate) [thus](iti) [meaning](arthaḥ) [indeed](eva) [this](ayam)
+[what](kim) [not](na) [fitting](yujyata) [meaning](ityarthaḥ)
 
 ## mukta-m0-p89-v2207
-[absolutely](atyantam) [non-illuminable](aprakāśyaṃ) [which](yat) [consciousness-principle](cit+tattvaṃ) [that](tat) [whence](kutaḥ) [say](vada) [you](tvam)
+[utterly](atyantam) [unilluminable](aprakāśyaṃ) [which](yat) [consciousness-principle](cittattvaṃ) [that](tat) [whence](kuto) [say](vada)
 
 ## mukta-m0-p89-v2208
-[connection](sambandhaḥ) [indeed](hi) [not](na) [exists](asti) [there](tatra) [any](kaścit) [at-all](eva)
+[relation](sambandhaḥ)
 
 ## mukta-m0-p89-v2209
-[therefore](tasmāt) [you](tvam) [inward-turned](antarmukhayā) [by-vision](dṛṣṭyā) [properly](samyag) [investigate](vicaraya) [this](etat)
+[therefore](tasmāt) [you](tvam) [inward-facing](antarmukhayā) [view](dṛṣṭyā) [well](samyag) [investigate](vicaraya)
 
 ## mukta-m0-p89-v2210
-[properly](samyag) [investigate](vicāraya) [indeed](eva) [you](tvam) [with-attention](sāvadhānam) [this-truth](etat+tattvam)
+[well-investigate](samyagvicāraya)
 
 ## mukta-m0-p89-v2211
-[all-illuminating](sarva+avabhāsinī) [where](kutra) [when](kadā) [or](vā) [not](na) [shines](prakāśate) [consciousness](citiḥ)
+[all-illuminating](sarvāvabhāsinī) [where](kutra) [when](kadā) [or](vā) [not](na) [shines](prakāśate)
 
 ## mukta-m0-p89-v2212
-[shines](prakāśate) [everywhere](sarvatra) [always](sarvadā) [in-all-forms](sarva+rūpeṇa) [and](ca) [shines](prakāśate) [indeed](eva) [thus](iti) [meaning](arthaḥ)
+[shines](prakāśate) [everywhere](sarvatra) [always](sarvadā) [in-all-forms](sarvarūpeṇa) [and](ca) [shines](prakāśata) [indeed](eva) [meaning](ityarthaḥ)
 
 ## mukta-m0-p89-v2213
-[by-non-manifestation](aprakāśena) [also](api) [that-very](sa+eva) [consciousness-power](citi+śaktiḥ) [shines](prakāśate) [indeed](eva) [always](sadā)
+[by-unillumined](aprakāśenāpi) [that-same](saiva) [consciousness-power](citiśaktiḥ) [shines](prakāśate)
 
 ## mukta-m0-p89-v2214
-[would-be-established](siddhyet) [thus](iti) [sense](bhāvaḥ) [indeed](eva) [this](ayam) [is](asti)
+[accomplished](siddhyet) [thus](iti) [sense](bhāvaḥ)
 
 ## mukta-m0-p89-v2215
-[shines](bhāti) [if](cet) [that](sā) [how](kathaṃ) [shines](bhāti) [reflect-on](vimṛśa) [this](etat) [very-subtly](susūkṣmataḥ)
+[shines](bhāti) [if](cet) [she](sā) [how](kathaṃ) [shines](bhāti) [reflect](vimṛśa) [this](etat) [very-subtly](susūkṣmataḥ)
 
 ## mukta-m0-p89-v2216
-[with-subtle-vision](sūkṣma+dṛśā) [you](tvam) [indeed](eva) [reflect](vimṛśa) [thus](iti) [says](āha) [it-shines](bhāsate) [thus](iti)
+[subtle-view](sūkṣmadṛśā) [you](tvam) [indeed](eva) [reflect](vimṛśa) [thus](iti) [āha](āha) [shines](bhāsata) [iti](iti)
 
 ## mukta-m0-p89-v2217
-[without-inward-vision](anantar+dṛṣṭayaḥ) [by-that](tena) [deluded](mohitāḥ) [wander](saṃsaranti) [and](ca) [in-world](saṃsāre) [beings](janāḥ)
+[without-inner-vision](anantardṛṣṭayaḥ) [by-him](tena) [deluded](mohitāḥ) [transmigrate](saṃsaranti) [and](ca)
 
 ## mukta-m0-p89-v2218
-[by-being-without-inward-vision](anantar+dṛṣṭitvena) [by-reason](hetunā) [indeed](eva) [thus](iti) [deluded](mohitāḥ) [they-wander](te+saṃsaranti)
+[by-being-without-inner-vision](anantardṛṣṭitvena) [cause](hetunā)
 
 ## mukta-m0-p89-v2219
-[then](tāvat) [inward-vision](antar+dṛṣṭitā) [also](api) [not](na) [would-be](syāt) [indeed](eva) [in-any-way](kathañcana) [possible](sambhavā)
+[so-long-inner-vision](tāvadantardṛṣṭitā) [even](api) [not](na) [would-be](syāt) [indeed](eva) [somehow](kathañcana)
 
 ## mukta-m0-p89-v2220
-[sense](bhāvaḥ) [indeed](eva) [this](ayam) [is](asti) [here](atra) [intended](abhipretaḥ) [thus](iti)
+[sense](bhāvaḥ)
 
 ## mukta-m0-p89-v2221
-[inward-vision](antar+dṛṣṭiḥ) [without-activity](nirīhā) [would-be](syāt) [with-activity](sa+īhāyāḥ) [that](sā) [how](kathaṃ) [would-be](bhavet) [possible](sambhavā)
+[inner-vision](antardṛṣṭiḥ) [effortless](nirīhā) [would-be](syāt) [that](sā) [of-her](sehāyāḥ) [how](kathaṃ) [becomes](bhavet)
 
 ## mukta-m0-p89-v2222
-[gone-forth](nirgatā) [activity](īhā) [thought](saṅkalpaḥ) [of-which](yasyāḥ) [of-vision](dṛṣṭeḥ) [of-mind](manasaḥ) [that](sā) [inward-vision](antar+dṛṣṭiḥ)
+[gone-out](nirgatā) [effort](īhā) [intention](saṅkalpo) [whose](yasyā) [vision](dṛṣṭeḥ) [mind](manasaḥ) [that](sā) [inner-vision](antardṛṣṭiḥ)
 
 ## mukta-m0-p89-v2223
-[without-reflection](nirvimarśaḥ) [remained](sthitaḥ) [then](tataḥ) [beyond](param) [that](tat) [state](avasthā) [indeed](eva)
+[without-reflection](nirvimarśaḥ) [established](sthitaḥ) [then](tataḥ) [beyond](param)
 
 ## mukta-m0-p89-v2224
-[unperceivable](asaṃvedyaṃ) [well-perceivable](suvedyaṃ) [and](ca) [that](tat) [thus](evaṃ) [principle](tattvam) [is-called](ucyate) [indeed](iti)
+[unperceivable](asaṃvedyaṃ) [well-perceivable](suvedyaṃ) [and](ca) [that](tat) [thus](evaṃ) [principle](tattvam) [is-called](ucyate)
 
 ## mukta-m0-p89-v2225
-[thus](iti) [all](samastaṃ) [you](tvaṃ) [by-yourself](svataḥ) [indeed](eva) [know](vetsi) [will-know](jñāsyasi) [thus](iti) [meaning](arthaḥ)
+[thus](iti) [all](samastaṃ) [you](tvaṃ) [by-self](svata) [indeed](eva) [know](vetsi) [will-know](jñāsyasi) [meaning](ityarthaḥ)

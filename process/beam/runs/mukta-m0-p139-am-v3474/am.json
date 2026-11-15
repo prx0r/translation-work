@@ -1,14 +1,17 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3474,
- "question": "Which bronze-born linga is worshipped for fame?",
+ "question": "Which numbered items are named among fire, wind, and moon?",
  "premises": [
-  "kīrtikāmorcayell.imgaṃ is action",
-  "sadākāṃsya samudbhavam is object"
+  "fire is named",
+  "wind is named",
+  "moon is named",
+  "sixth is named",
+  "fourteenth is named"
  ],
- "inference": "The bronze-born linga is worshipped for fame.",
+ "inference": "The verse names fire, wind, moon, sixth, and fourteenth.",
  "uncertainties": [
-  "token contains spaces and punctuation"
+  "exact list unclear"
  ],
- "plain_english": "Worship the bronze-born linga for fame."
+ "plain_english": "Fire, wind, moon, sixth indeed, fourteenth."
 }

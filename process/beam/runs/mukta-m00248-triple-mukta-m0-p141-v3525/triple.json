@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "murāricordhvasaṃyuktaṃ",
+     "gloss": "with-murari-above-joined",
+     "grounds": "fused sandhi form murāri+ūrdhva+saṃyuktaṃ; analyzed as given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ādhāram",
+     "gloss": "support",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is declared as the support of that joined with Murāri above?",
+   "premises": [
+    "support is declared for that entity",
+    "the entity is joined with Murāri above"
+   ],
+   "inference": "The support of the entity joined with Murāri above is declared.",
+   "uncertainties": [
+    "exact referent of tasya is not explicit in this verse",
+    "internal sandhi of murāricordhvasaṃyuktaṃ is analyzed without splitting the token"
+   ],
+   "plain_english": "Its support, joined with Murāri above, is declared."
+  }
+ ]
+}

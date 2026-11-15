@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p136",
+ "items": [
+  {
+   "verse": 3400,
+   "rows": [
+    {
+     "surface": "prākṛtaṃ",
+     "gloss": "material",
+     "grounds": "material adjective modifying state",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhāvam",
+     "gloss": "state",
+     "grounds": "object of abandonment",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "utsṛjya",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive from utsṛj",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "śivo'hamiti",
+     "gloss": "I-am-Śiva-thus",
+     "grounds": "sandhi of śivaḥ+aham+iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-contemplate",
+     "grounds": "causative optative",
+     "morph": "verb.3.sg.act.opt"
+    }
+   ],
+   "question": "Should one contemplate 'I am Śiva' after abandoning the material state?",
+   "premises": [
+    "material state is abandoned",
+    "Śiva-identity is contemplated",
+    "contemplation follows abandonment"
+   ],
+   "inference": "The verse prescribes replacing material awareness with contemplation of Śiva-identity.",
+   "uncertainties": [
+    "witness-specific recension and punctuation not verified"
+   ],
+   "plain_english": "Having abandoned the material state, one should contemplate 'I am Śiva'."
+  }
+ ]
+}

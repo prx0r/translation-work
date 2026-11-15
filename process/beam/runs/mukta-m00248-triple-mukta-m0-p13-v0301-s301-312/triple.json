@@ -1,0 +1,557 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "palace",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāstreṇa",
+     "gloss": "by-shiva-weapon",
+     "grounds": "instrumental compound",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "one-should-hold",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.√dhṛ"
+    },
+    {
+     "surface": "mṛtyunāśanam",
+     "gloss": "death-destruction",
+     "grounds": "accusative result",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the palace be held with the shiva weapon for death destruction?",
+   "premises": [
+    "palace is held",
+    "shiva weapon is instrument",
+    "death destruction is result"
+   ],
+   "inference": "The verse prescribes holding the palace by the shiva weapon to destroy death.",
+   "uncertainties": [
+    "exact ritual referent of palace"
+   ],
+   "plain_english": "One should hold the palace with the shiva weapon, which destroys death."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "śuddhyanti",
+     "gloss": "are-purified",
+     "grounds": "plural verb",
+     "morph": "3.pl.act-pres.√śudh"
+    },
+    {
+     "surface": "pañcabhūtāni",
+     "gloss": "five-elements",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śarīrasthāni",
+     "gloss": "situated-in-body",
+     "grounds": "locative compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣaṇmukha",
+     "gloss": "six-faced-one",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which five elements situated in the body are purified, O six-faced one?",
+   "premises": [
+    "five elements are purified",
+    "they are situated in body",
+    "six-faced one is addressed"
+   ],
+   "inference": "The five bodily elements are purified.",
+   "uncertainties": [
+    "which five elements specifically"
+   ],
+   "plain_english": "The five elements situated in the body are purified, O six-faced one."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpaśuddhiḥ",
+     "gloss": "sin-purification",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.√as"
+    },
+    {
+     "surface": "jānvādyā",
+     "gloss": "knee-etc",
+     "grounds": "compound qualifier",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nābhikaṃ",
+     "gloss": "up-to-navel",
+     "grounds": "limit qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guha",
+     "gloss": "cavity",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How is sin purification fourfold from knee to navel, O cavity?",
+   "premises": [
+    "sin purification is fourfold",
+    "range is knee to navel",
+    "cavity is addressed"
+   ],
+   "inference": "Sin purification occurs in four ways up to the navel.",
+   "uncertainties": [
+    "exact fourfold division"
+   ],
+   "plain_english": "Sin purification may be fourfold from the knee up to the navel, O cavity."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyuśuddhistu",
+     "gloss": "vayu-purification",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "galāntaṃ",
+     "gloss": "up-to-throat",
+     "grounds": "limit qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidhārayet",
+     "gloss": "one-should-hold",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.√dhṛ"
+    }
+   ],
+   "question": "How is vayu purification twofold up to the throat?",
+   "premises": [
+    "vayu purification is twofold",
+    "limit is throat",
+    "one should hold it"
+   ],
+   "inference": "Vayu purification is twofold up to the throat.",
+   "uncertainties": [
+    "exact twofold division"
+   ],
+   "plain_english": "Indeed, vayu purification is twofold up to the throat, and one should hold it."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "suṣumnāgranthiṃ",
+     "gloss": "sushumna-knot",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivāstreṇa",
+     "gloss": "by-shiva-weapon",
+     "grounds": "instrumental compound",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "ākāśagranthimeva",
+     "gloss": "space-knot",
+     "grounds": "fused sandhi form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the sushumna knot and space knot treated with the shiva weapon?",
+   "premises": [
+    "sushumna knot is object",
+    "shiva weapon is instrument",
+    "space knot is also object"
+   ],
+   "inference": "Both knots are addressed with the shiva weapon.",
+   "uncertainties": [
+    "exact operation on knots"
+   ],
+   "plain_english": "With the shiva weapon, the sushumna knot and also the space knot."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "śūnyaṃ",
+     "gloss": "void",
+     "grounds": "nominative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "nominative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirālambaṃ",
+     "gloss": "without-support",
+     "grounds": "nominative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vijñānaṃ",
+     "gloss": "consciousness",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "alone",
+     "grounds": "nominative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "n.nom.sg.past.part.√sthā"
+    }
+   ],
+   "question": "What is the nature of consciousness when it is void, unsupported, and alone?",
+   "premises": [
+    "consciousness is void",
+    "consciousness is without support",
+    "consciousness is alone"
+   ],
+   "inference": "Consciousness stands alone, void and without support.",
+   "uncertainties": [
+    "ontological scope of void"
+   ],
+   "plain_english": "Consciousness is void, all, without support, and situated alone."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "vigrahe",
+     "gloss": "in-body",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suṣumne",
+     "gloss": "in-sushumna",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "suṣṭhu",
+     "gloss": "very-well",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nityamevaṃ",
+     "gloss": "always",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.√cint"
+    }
+   ],
+   "question": "How should god be contemplated in the body and sushumna?",
+   "premises": [
+    "contemplation is in body",
+    "contemplation is in sushumna",
+    "god is always contemplated"
+   ],
+   "inference": "One should always contemplate god well in the body and sushumna.",
+   "uncertainties": [
+    "exact contemplative method"
+   ],
+   "plain_english": "In the body and in sushumna, one should always contemplate god very well."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "sakalaṃ",
+     "gloss": "with-form",
+     "grounds": "nominative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśvare",
+     "gloss": "in-mahesvara",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp.√vid"
+    },
+    {
+     "surface": "sadāśivaṃ",
+     "gloss": "sadasiva",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "with-form",
+     "grounds": "nominative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣkalam",
+     "gloss": "without-form",
+     "grounds": "nominative qualifier",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are with-form and without-form known in mahesvara and sadasiva?",
+   "premises": [
+    "mahesvara contains with-form",
+    "sadasiva is known",
+    "with-form and without-form are paired"
+   ],
+   "inference": "Know sadasiva in mahesvara as both with-form and without-form.",
+   "uncertainties": [
+    "exact relation of forms"
+   ],
+   "plain_english": "Know in mahesvara that sadasiva is both with-form and without-form."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "sāṃprataṃ",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayiṣyāmi",
+     "gloss": "i-shall-tell",
+     "grounds": "future verb",
+     "morph": "1.sg.act-fut.√kath"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "with-form",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp.√śru"
+    },
+    {
+     "surface": "ṣaṇmukha",
+     "gloss": "six-faced-one",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What with-form teaching will now be told to the six-faced one?",
+   "premises": [
+    "speaker will tell now",
+    "with-form is topic",
+    "six-faced one should hear"
+   ],
+   "inference": "The speaker will now tell the with-form teaching to the six-faced one.",
+   "uncertainties": [
+    "content of with-form teaching"
+   ],
+   "plain_english": "Now I shall tell the with-form teaching; hear, O six-faced one."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "tryakṣaṃ",
+     "gloss": "three-eyed",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daśabhujaṃ",
+     "gloss": "ten-armed",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jaṭāmakuṭamaṇḍitam",
+     "gloss": "matted-hair-crown",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What are the bodily marks of the peaceful three-eyed ten-armed form?",
+   "premises": [
+    "form is three-eyed",
+    "form is ten-armed",
+    "form is peaceful and crowned"
+   ],
+   "inference": "The form is three-eyed, ten-armed, peaceful, and crowned with matted hair.",
+   "uncertainties": [
+    "whether all qualifiers modify one form"
+   ],
+   "plain_english": "The form is three-eyed, ten-armed, peaceful, and adorned with a matted-hair crown."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "divyāmbaradharaṃ",
+     "gloss": "divine-cloth-wearing",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "divyahṛdgandhabhūṣaṇam",
+     "gloss": "divine-heart-fragrance-ornamented",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What divine ornaments and garments characterize this god?",
+   "premises": [
+    "god wears divine cloth",
+    "god is ornamented with divine heart fragrance",
+    "both qualify god"
+   ],
+   "inference": "This god wears divine cloth and is ornamented with divine heart fragrance.",
+   "uncertainties": [
+    "exact meaning of heart fragrance"
+   ],
+   "plain_english": "The god wears divine cloth and is ornamented with divine heart fragrance."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "vṛṣabhavāhanaṃ",
+     "gloss": "bull-vehicle",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraśudhāriṇam",
+     "gloss": "axe-bearing",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What vehicle and weapons belong to this god?",
+   "premises": [
+    "god has bull vehicle",
+    "god has trident",
+    "god bears axe"
+   ],
+   "inference": "This god rides a bull and bears trident and axe.",
+   "uncertainties": [
+    "whether trident is held or associated"
+   ],
+   "plain_english": "The god rides a bull and bears a trident and an axe."
+  }
+ ]
+}

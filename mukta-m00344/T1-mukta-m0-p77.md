@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p77-v1901
-[your](tava) [this](etat) [wonder](citraṃ) [shines](bhāsate) [thus](iti) [connection](sambandhaḥ)
+[tava](tava) [etat](etat) [citram](citram) [bhāsate](bhāsate) [iti](iti) [sambandhaḥ](sambandhaḥ)
 
 ## mukta-m0-p77-v1902
-[world](jagat) [entity](bhāva) [nature](svabhāvaḥ) [this](ayaṃ) [with-diversity](vividhatvena) [shining](bhāsanam)
+[jagat](jagat) [bhāva](bhāva) [svabhāvaḥ](svabhāvaḥ) [ayam](ayam) [vividhatvena](vividhatvena) [bhāsanam](bhāsanam)
 
 ## mukta-m0-p77-v1903
-[of-entity](bhāvasya) [with-contradictoriness](viruddhatvena) [shining](bhāsanaṃ) [nature](svabhāvaḥ) [indeed](eva)
+[bhāvasya](bhāvasya) [viruddhatvena](viruddhatvena) [bhāsanam](bhāsanam) [svabhāvaḥ](svabhāvaḥ) [eva](eva)
 
 ## mukta-m0-p77-v1904
-[of-day-blind](divāndhānām) [darkness](andhakāraḥ) [of-others](itareṣāṃ) [but](tu) [illuminating](bhāsakaḥ)
+[divā](divā) [andhānām](andhānām) [andhakāraḥ](andhakāraḥ) [itareṣām](itareṣām) [tu](tu) [bhāsakaḥ](bhāsakaḥ)
 
 ## mukta-m0-p77-v1905
-[entity](bhāva) [exemplifies](anudāharati) [one](ekaḥ) [alone](eva) [thus](iti) [twofoldness](dvaividhyam) [indeed](eva) [says](āha) [of-day-blind](divāndhānām) [thus](iti)
+[bhāvān](bhāvān) [udāharati](udāharati) [ekaḥ](ekaḥ) [eva](eva) [iti](iti) [dvaividhyam](dvaividhyam) [eva](eva) [āha](āha) [divā](divā) [andhānām](andhānām) [iti](iti)
 
 ## mukta-m0-p77-v1906
-[of-fish](matsya) [and-others](ādīnāṃ) [outside](bahiḥ) [breath](śvāsa) [obstruction](pratirodhaḥ) [in-water](jale) [not](nahi)
+[matsya](matsya) [ādīnām](ādīnām) [bahiḥ](bahiḥ) [śvāsa](śvāsa) [pratirodhaḥ](pratirodhaḥ) [jale](jale) [na](na) [hi](hi)
 
 ## mukta-m0-p77-v1907
-[in-itself](svasmin) [immersed](nimagna) [human](manuṣya) [animal](paśu) [and-others](ādeḥ) [outside](bahiḥ) [in-waterless](nirjale) [place](deśe)
+[svasmin](svasmin) [nimagna](nimagna) [manuṣya](manuṣya) [paśu](paśu) [ādeḥ](ādeḥ) [bahiḥ](bahiḥ) [nirjale](nirjale) [deśe](deśe)
 
 ## mukta-m0-p77-v1908
-[fire](vahniḥ) [perishes](naśyati) [by-water](toyena) [that](saḥ) [in-water](jale) [burns](jvalati) [somewhere](kvacit)
+[vahniḥ](vahniḥ) [naśyati](naśyati) [toyena](toyena) [saḥ](saḥ) [jale](jale) [jvalati](jvalati) [kvacit](kvacit)
 
 ## mukta-m0-p77-v1909
-[partridge](tittiriḥ) [eats](bhakṣayati) [that](taṃ) [not](na) [burns](dahati) [somewhere](kvacit) [in-submarine-fire](vaḍavānala) [pit](kuṇḍa) [and-others](ādau)
+[tittiriḥ](tittiriḥ) [bhakṣayati](bhakṣayati) [tam](tam) [na](na) [dahati](dahati) [kvacit](kvacit) [vaḍavānala](vaḍavānala) [kuṇḍa](kuṇḍa) [ādau](ādau)
 
 ## mukta-m0-p77-v1910
-[thus](evaṃ) [with-sense-organs](sa+indriya) [occurrences](vṛttāntāḥ) [but](tu) [others](anye) [some](ke'pi) [without-sense-organs](nirindriyāḥ)
+[evam](evam) [sa](sa) [indriya](indriya) [vṛttāntāḥ](vṛttāntāḥ) [tu](tu) [anye](anye) [ke](ke) [api](api) [nirindriyāḥ](nirindriyāḥ)
 
 ## mukta-m0-p77-v1911
-[without-sense-organs](nirindriyāḥ) [imperceptible](parokṣāḥ) [of-entities](bhāvānāṃ) [contradictory](viruddha) [natures](svabhāvāḥ)
+[nirindriyāḥ](nirindriyāḥ) [parokṣāḥ](parokṣāḥ) [bhāvānām](bhāvānām) [viruddha](viruddha) [svabhāvāḥ](svabhāvāḥ)
 
 ## mukta-m0-p77-v1912
-[here](atra) [explanation](upapattiṃ) [I-shall-tell](vakṣyāmi) [with-collected-mind](samāhita+manāḥ) [listen](śṛṇu)
+[atra](atra) [upapattim](upapattim) [vakṣyāmi](vakṣyāmi) [samāhita](samāhita) [manāḥ](manāḥ) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p77-v1913
-[if](cet) [with-explanation](upapatti+pūrvakaṃ) [to-tell](vaktum) [begins](upakramate) [here](atra) [thus](iti)
+[ced](ced) [upapatti](upapatti) [pūrvakam](pūrvakam) [vaktum](vaktum) [upakramate](upakramate) [atra](atra) [iti](iti)
 
 ## mukta-m0-p77-v1914
-[not](na) [and](ca) [than-visual](ākṣuṣāt) [part](aṃśataḥ) [other](anyat) [visible](dṛśyam) [exists](asti) [anywhere](kvacit) [outside](bahiḥ)
+[na](na) [ca](ca) [ākṣuṣāt](ākṣuṣāt) [aṃśataḥ](aṃśataḥ) [anyat](anyat) [dṛśyam](dṛśyam) [asti](asti) [kvacit](kvacit) [bahiḥ](bahiḥ)
 
 ## mukta-m0-p77-v1915
-[of-entities](bhāvānāṃ) [due-to-external-nonexistence](bahiḥ+asattvāt) [not](na) [exists](asti) [contradiction](virodhaḥ) [thus](iti) [says](vadati) [this](etat) [thus](iti)
+[bhāvānām](bhāvānām) [bahiḥ](bahiḥ) [asattvāt](asattvāt) [na](na) [asti](asti) [virodhaḥ](virodhaḥ) [iti](iti) [vadati](vadati) [etaḥ](etaḥ) [iti](iti)
 
 ## mukta-m0-p77-v1916
-[as](yathā) [one-with-cataract](taimirikaḥ) [another](anyaḥ) [but](tu) [sees](paśyati) [one](ekaṃ) [twofold](dvidhā) [situated](sthitam)
+[yathā](yathā) [taimirikaḥ](taimirikaḥ) [anyaḥ](anyaḥ) [tu](tu) [paśyati](paśyati) [ekam](ekam) [dvidhā](dvidhā) [sthitam](sthitam)
 
 ## mukta-m0-p77-v1917
-[here](atra) [example](dṛṣṭāntaḥ) [as](yathā) [thus](iti) [one-with-cataract](taimirikaḥ) [by-cataract-defect](timira+doṣa) [afflicted](upahata) [eye](netraḥ)
+[atra](atra) [dṛṣṭāntaḥ](dṛṣṭāntaḥ) [yathā](yathā) [iti](iti) [taimirikaḥ](taimirikaḥ) [timira](timira) [doṣa](doṣa) [upahata](upahata) [netraḥ](netraḥ)
 
 ## mukta-m0-p77-v1918
-[exists](asti) [of-eastern-ocean](pūrva+samudrasya) [in-middle](madhye) [named-Kāraṇḍaka](kāraṇḍaka+āhvayaḥ)
+[asti](asti) [pūrva](pūrva) [samudrasya](samudrasya) [madhye](madhye) [kāraṇḍaka](kāraṇḍaka) [āhvayaḥ](āhvayaḥ)
 
 ## mukta-m0-p77-v1919
-[thus](evaṃ) [in-Ramaṇaka-island](ramaṇaka+dvīpe) [always](sadā) [see](paśyanti) [indeed](vai) [people](janāḥ)
+[evam](evam) [ramaṇaka](ramaṇaka) [dvīpe](dvīpe) [sadā](sadā) [paśyanti](paśyanti) [vai](vai) [janāḥ](janāḥ)
 
 ## mukta-m0-p77-v1920
-[all](sarva) [entities](bhāvān) [red](raktān) [see](paśyanti)
+[sarva](sarva) [bhāvān](bhāvān) [raktān](raktān) [paśyanti](paśyanti)
 
 ## mukta-m0-p77-v1921
-[thus](evam) [in-other](anyeṣu) [islands](dvīpeṣu) [diverse](vividhaṃ) [entity](bhāva) [multitude](maṇḍalam)
+[evam](evam) [anyeṣu](anyeṣu) [dvīpeṣu](dvīpeṣu) [vividham](vividham) [bhāva](bhāva) [maṇḍalam](maṇḍalam)
 
 ## mukta-m0-p77-v1922
-[inverted](vyatyastam) [head-below](adhaḥ+mastakam) [feet-above](ūrdhva+pādam) [and-so-on](ityādi)
+[vyatyastam](vyatyastam) [adhoma](adhoma) [staka](staka) [mūrdhva](mūrdhva) [pādam](pādam) [ityādi](ityādi)
 
 ## mukta-m0-p77-v1923
-[there](tatra) [by-them](teṣām) [otherwise](anyathā) [but](tu) [is-seen](dṛśyate) [if](yadi) [somewhere](kutracit)
+[tatra](tatra) [teṣām](teṣām) [anyathā](anyathā) [tu](tu) [dṛśyate](dṛśyate) [yadi](yadi) [kutracit](kutracit)
 
 ## mukta-m0-p77-v1924
-[they-see](paśyanti) [meaning](iti+arthaḥ)
+[paśyanti](paśyanti) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p77-v1925
-[therefore](atas) [but](tu) [by-eye](cakṣuṣā) [as-much-as](yāvat) [is-seen](dṛśyate) [on-earth](jagatī+tale)
+[ataḥ](ataḥ) [tu](tu) [cakṣuṣā](cakṣuṣā) [yāvat](yāvat) [dṛśyate](dṛśyate) [jagatī](jagatī) [tale](tale)

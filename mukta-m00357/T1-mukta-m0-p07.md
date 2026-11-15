@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[supreme-bliss+guru+opinion](pārānanda(guru)mata) [pure](śuddha) [taste+knower-by](rasajñena) [by-me+lifted](mayā+uddhṛtam) [thus](iti)
+[pāra-ānanda-guru-mata](pārānanda(guru)mata) [śuddha-rasa-jñena](śuddha rasajñena) [mayā-uddhṛtam](mayoddhṛtam) [iti](iti)
 
 ## mukta-m0-p07-v152
-[and](ca) [further](anu) [to-be-considered](saṃdheyam)
+[ca-anusaṃdheyam](cānusaṃdheyam)
 
 ## mukta-m0-p07-v153
-[thus](evaṃ) [mutually](parasparam)
+[evam](evaṃ) [parasparam](parasparam)
 
 ## mukta-m0-p07-v154
-[in-offering+etc](homa+ādiṣu) [in-later+rite+end](uttara+kratu+anteṣu) [killing+for-purpose](vadha+artham) [in-sacrifices](yajñeṣu)
+[homa-ādiṣu](homādiṣūttarakratvanteṣu) [uttara-kratu-anteṣu](homādiṣūttarakratvanteṣu) [vadha-artham](vadhārthaṃ) [yajñeṣu](yajñeṣu)
 
 ## mukta-m0-p07-v155
-[as-many](yāvantaḥ) [animals](paśavaḥ) [so-many](tāvantaḥ) [images](pratikṛtayaḥ)
+[yāvantaḥ](yāvantaḥ) [paśavaḥ](paśavastāvantaḥ) [tāvantaḥ](paśavastāvantaḥ) [pratikṛtayaḥ](pratikṛtayaḥ)
 
 ## mukta-m0-p07-v156
-[own+lord+mark-on](sva+īśvara+cihna+upari) [other+mark](anya+cihnam) [not](na) [to-be-worn](dhāryam)
+[sva-īśvara-cihna](sveśvaracihnoparyanyacihnaṃ) [upari](sveśvaracihnoparyanyacihnaṃ) [anya-cihnam](sveśvaracihnoparyanyacihnaṃ) [na](na) [dhāryam](dhāryam)
 
 ## mukta-m0-p07-v157
-[except](ṛte) [worship+remnant](pūjā+avaśiṣṭāt)
+[ṛte](ṛte) [pūjā-avaśiṣṭāt](pūjāvaśiṣṭāt)
 
 ## mukta-m0-p07-v158
-[that](tat) [having-wiped](proṃchya) [or](vā)
+[tat](tatproṃchya) [proṃchya](tatproṃchya) [vā](vā)
 
 ## mukta-m0-p07-v159
-[own+worshipped+image+remnant-on](sva+iṣṭa+arcā+avaśiṣṭa+upari) [other+image+remnant](anya+arcā+avaśiṣṭam) [not](na) [to-be-worn](dhāryam)
+[sva-iṣṭa-arcā-śiṣṭa](sveṣṭārcāśiṣṭoparyanyārcāśiṣṭaṃ) [upari](sveṣṭārcāśiṣṭoparyanyārcāśiṣṭaṃ) [anya-arcā-śiṣṭam](sveṣṭārcāśiṣṭoparyanyārcāśiṣṭaṃ) [na](na) [dhāryam](dhāryam)
 
 ## mukta-m0-p07-v160
-[of-lords](īśānām) [mutually](parasparam) [seized+heart-because](grasta+hṛdayatvāt) [that](tat) [having-wiped](proṃchya) [to-be-worn](dhāryam) [thus](iti) [some](eke)
+[īśānām](īśānāṃ) [parasparam](parasparaṃ) [grasta-hṛdayatvāt](grastahṛdayatvāttatproṃchya) [tat](grastahṛdayatvāttatproṃchya) [proṃchya](grastahṛdayatvāttatproṃchya) [dhāryam](dhāryamityeke) [iti](dhāryamityeke) [eke](dhāryamityeke)
 
 ## mukta-m0-p07-v161
-[not](na) [other+lord+mark](anya+īśa+cihnam) [should-wear](dhārayet)
+[na](nānyeśacihnaṃ) [anya-īśa-cihnam](nānyeśacihnaṃ) [dhārayet](dhārayet)
 
 ## mukta-m0-p07-v162
-[not](na) [other+lord+fast](anya+īśa+upavāsam) [should-observe](upavaset)
+[na](nānyeśopavāsamupavaset) [anya-īśa-upavāsam](nānyeśopavāsamupavaset) [upavaset](nānyeśopavāsamupavaset)
 
 ## mukta-m0-p07-v163
-[mutually](parasparam) [seized+heart-because](grasta+hṛdayatvāt) [should-observe](upavaset) [some](eke)
+[parasparam](parasparaṃ) [grasta-hṛdayatvāt](grastahṛdayatvādupavasedeke) [upavaset](grastahṛdayatvādupavasedeke) [eke](grastahṛdayatvādupavasedeke)
 
 ## mukta-m0-p07-v164
-[not](na) [other+lord](anya+īśam) [should-worship](arcayet)
+[na](nānyeśamarcayet) [anya-īśam](nānyeśamarcayet) [arcayet](nānyeśamarcayet)
 
 ## mukta-m0-p07-v165
-[without-desire](anīhaḥ) [well](sam) [should-worship](arcayet)
+[anīhaḥ](anīhaḥ) [samarcayet](samarcayet)
 
 ## mukta-m0-p07-v166
-[other+lords](anya+īśān) [having-worshipped](abhyarcya) [in-own+worshipped](sva+upāsye) [devotion](bhaktim) [may-seek](īheta) [from-them](tebhyaḥ)
+[anya-īśān](anyeśānabhyarcya) [abhyarcya](anyeśānabhyarcya) [sva-upāsye](svopāsye) [bhaktim](bhaktimīhettebhyaḥ) [īhet](bhaktimīhettebhyaḥ) [tebhyaḥ](bhaktimīhettebhyaḥ)
 
 ## mukta-m0-p07-v167
-[from-own+worshipped](sva+upāsyāt) [vision](darśanam)
+[sva-upāsyāt](svopāsyāddarśanam) [darśanam](svopāsyāddarśanam)
 
 ## mukta-m0-p07-v168
-[living+liberated](jīvan+muktaḥ) [not](na) [by-actions](karmabhiḥ) [is-stained](lipyate) [by-merits](puṇyaiḥ) [by-sins](pāpaiḥ) [or](vā)
+[jīvan-muktaḥ](jīvanmukto) [na](na) [karmabhiḥ](karmabhirlipyate) [lipyate](karmabhirlipyate) [puṇyaiḥ](puṇyaiḥ) [pāpaiḥ](pāpairvā) [vā](pāpairvā)
 
 ## mukta-m0-p07-v169
-[not](na) [he](sa) [again](punar) [returns](āvartate) [not](na) [he](sa) [again](bhūyaḥ) [to-samsara](saṃsāram) [attains](saṃpadyate)
+[na](na) [saḥ](sa) [punar-āvartate](punarāvartate) [na](na) [saḥ](sa) [bhūyaḥ](bhūyaḥ) [saṃsāram](saṃsāraṃ) [saṃpadyate](saṃpadyate)
 
 ## mukta-m0-p07-v170
-[therefore](tasmāt) [that+vision-in](tat+darśane) [should-be-striven](yatitavyam)
+[tasmāt](tasmāttaddarśane) [tat-darśane](tasmāttaddarśane) [yatitavyam](yatitavyam)
 
 ## mukta-m0-p07-v171
-[knower](jñānī) [devotee](bhaktaḥ) [should-be](bhavet)
+[jñānī](jñānī) [bhaktaḥ](bhakto) [bhavet](bhavet)
 
 ## mukta-m0-p07-v172
-[supreme+self+world](parama+ātma+lokaṃ) [attains](āpnoti) [brahma+knower](brahma+vit) [attains](āpnoti) [supreme](param) [thus](iti) [from-scripture](śabdāt)
+[paramātma-lokam](paramātmalokamāpnoti) [āpnoti](paramātmalokamāpnoti) [brahma-vid](brahmavidāpnoti) [āpnoti](brahmavidāpnoti) [param](paramiti) [iti](paramiti) [śabdāt](śabdāt)
 
 ## mukta-m0-p07-v173
-[eternal](nityāni) [prescribed](vihitāni) [actions](karmāṇi) [that](tat) [should-follow](anukuryāt)
+[nityāni](nityāni) [vihitāni](vihitāni) [karmāṇi](karmāṇi) [tat](tadanukuryāt) [anukuryāt](tadanukuryāt)
 
 ## mukta-m0-p07-v174
-[now](atha) [especially](viśeṣataḥ)
+[atha](atha) [viśeṣataḥ](viśeṣataḥ)
 
 ## mukta-m0-p07-v175
-[brahmacarin](brahmacārī) [knowledge+yoga-by](jñāna+yogena) [śruti+tantra+smṛti+purāṇas-of](śruti+tantra+smṛti+purāṇānām)
+[brahmacārī](brahmacārī) [jñāna-yogena](jñānayogena) [śruti-tantra-smṛti-purāṇānām](śrutitantrasmṛtipurāṇānām)

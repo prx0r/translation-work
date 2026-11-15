@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[supreme-bliss-ones](pārānandāḥ) [section-end](||) [hundred](100)
+[pārānanda](pārānandāḥ) [hundred](100)
 
 ## mukta-m0-p11-v252
-[if](yadi) [other+opinion](anyamati) [śrīcakra](śrīcakraṃ) [they-may-go](vrajeyuḥ)
+[if](yadi) [other](anya) [mind](mati) [śrīcakra](śrīcakraṃ) [would-go](vrajeyuḥ)
 
 ## mukta-m0-p11-v253
-[meat](māṃsaṃ) [with-head](murdhnā) [having-bowed](praṇamya) [not](na) [they-should-take](gṛhṇīyuḥ)
+[meat](māṃsaṃ) [with-head](murdhnā) [having-bowed](praṇamya) [not](na) [would-take](gṛhṇīyuḥ)
 
 ## mukta-m0-p11-v254
-[of-whom](yeṣāṃ) [of-castes](varṇānāṃ) [in-right](dakṣe) [authority](adhikāras) [of-them](teṣām) [only](eva) [from-left](vāmataḥ)
+[whose](yeṣāṃ) [varṇas](varṇānāṃ) [in-right](dakṣe) [authority](adhikāraḥ) [of-those](teṣām) [eva](eva) [from-left](vāmataḥ)
 
 ## mukta-m0-p11-v255
-[from-supreme-bliss](pārānandād) [from-brahmin](brāhmaṇāt) [supreme-bliss](pārānanda) [left-practice](vāmācāra) [initiated-one](dīkṣito) [should-become](bhavet)
+[from-pārānanda](pārānandāt) [brāhmaṇa](brāhmaṇāt) [pārānanda-left-practice-initiated](pārānandavāmācāradīkṣitaḥ) [would-become](bhavet)
 
 ## mukta-m0-p11-v256
-[mantra](mantram) [should-instruct](upadiśet)
+[mantra](mantram) [would-teach](upadiśet)
 
 ## mukta-m0-p11-v257
-[duties](dharmān) [should-practice](ācared) [thus](iti) [should-instruct](upadiśet)
+[duties](dharmān) [not-practice](ācaret) [thus](iti) [would-teach](upadiśet)
 
 ## mukta-m0-p11-v258
-[own](sva) [name](nāma) [should-tell](kathayec) [and](ca)
+[own-name](svanāma) [would-tell](kathayet) [ca](ca)
 
 ## mukta-m0-p11-v259
-[nātha](nātha) [word](śabda) [ending](antaṃ) [name](nāma) [in-disciple](śiṣye) [should-bestow](vidaghyād) [in-second](dvitīye)
+[nātha-word-ending](nāthaśabdāntam) [name](nāma) [to-disciple](śiṣye) [would-make-known](vidaghyāt) [in-second](dvitīye)
 
 ## mukta-m0-p11-v260
-[own](sva) [known](vidita) [name](nāmā) [guru](gurum) [should-salute](abhivādayet)
+[own-known-name](svaviditanāmā) [guru](gurum) [would-salute](abhivādayet)
 
 ## mukta-m0-p11-v261
-[the-rest](śiṣṭaṃ) [explained](vyākhyātam)
+[rest](śiṣṭam) [explained](vyākhyātam)
 
 ## mukta-m0-p11-v262
-[in-brahmin](brahma) [kṣatriya](kṣatra) [vaiśyas](vaiśyeṣu) [vedic](śrautaṃ) [tantric](tāntraṃ) [or](vā)
+[brahma-kṣatriya-vaiśya](brahmakṣatravaiśyeṣu) [śrauta](śrautaṃ) [tantra](tāntraṃ) [or](vā)
 
 ## mukta-m0-p11-v263
-[than-that](tad) [in-others](itareṣu) [tantric](tāntram) [only](eva)
+[that-others](taditareṣu) [tantra-only](tāntrameva)
 
 ## mukta-m0-p11-v264
-[mantra](mantraṃ) [two](dvi) [seed](bījaṃ) [of-vaiśyas](vaiśyānāṃ) [of-śūdras](śūdrāṇāṃ) [but](tu) [one](eka) [seed](bījakam) [thus](iti)
+[mantra](mantram) [two-bīja](dvibījam) [of-vaiśyas](vaiśyānāṃ) [of-śūdras](śūdrāṇāṃ) [tu](tu) [one-bīja](ekabījakam) [iti](iti)
 
 ## mukta-m0-p11-v265
-[by-smṛti](smṛti) [initiation](saṃskāra) [share](bhāgena) [and](ca) [practices](ācārān) [to-transcend](kramituṃ) [capable](kṣama) [thus](iti)
+[smṛti-purification-share](smṛtisaṃskārabhāgena) [ca](ca) [practices](ācārān) [to-proceed](kramituṃ) [able](kṣamaḥ) [iti](iti)
 
 ## mukta-m0-p11-v266
-[brahmin](brahma) [kṣatriyas](kṣatrau) [vaiśya](vaiśya) [śūdras](śūdrau) [not](na) [other](anya) [initiation](saṃskāram) [deserve](arhataḥ) [and](ca)
+[brahma-kṣatriya](brahmakṣatrau) [vaiśya-śūdra](vaiśyaśūdrau) [not-other-purification](nānyasaṃskāram) [deserve](arhataḥ) [ca](ca)
 
 ## mukta-m0-p11-v267
-[not](na) [practices](ācārān) [to-transcend](kramituṃ) [fit](yogyaḥ) [and](ca) [other](anya) [scripture](śāstra) [well](su) [refined](saṃskṛta) [thus](iti)
+[not-practices](nācārān) [to-proceed](kramituṃ) [fit](yogyaḥ) [ca](ca) [other-śāstra-well-purified](anyaśāstrasusaṃskṛtaḥ) [iti](iti)
 
 ## mukta-m0-p11-v268
-[one](eka) [syllable](akṣaraṃ) [of-all](sarveṣām) [only](eva) [thus](iti) [some](kecit)
+[one-syllable](ekākṣaram) [of-all](sarveṣām) [eva](eva) [iti](iti) [some](kecit)
 
 ## mukta-m0-p11-v269
-[made](kṛta) [effort](prayatno) [even](apy) [unarisen](anudbhūta) [success](siddhir) [slightly](īpad) [slipped](vrasita) [right](dakṣa) [practitioner](ācārī) [guru](gurv) [commanded](ājñapto) [or](vā)
+[having-made-effort](kṛtaprayatnaḥ) [api](api) [unmanifest-siddhi](anudbhūtasiddhiḥ) [īpa-dvrasita-right-practitioner](īpadvrasitadakṣācārī) [guru-commanded](gurvājñaptaḥ) [vā](vā)
 
 ## mukta-m0-p11-v270
-[left-practitioner](vāmācārī) [supreme-bliss](pārānanda) [right](dakṣa) [teacher](ācārya) [commanded](ājñaptas) [that](tac) [disciple](chiṣyaṃ) [in-left-practice](vāmācāre) [should-initiate](dīkṣayet)
+[left-practitioner](vāmācārī) [pārānanda-right-ācārya-commanded](pārānandadakṣācāryājñaptaḥ) [that-disciple](tacchiṣyam) [in-left-practice](vāmācāre) [would-initiate](dīkṣayet)
 
 ## mukta-m0-p11-v271
-[to-abandon](hātum) [deserves](arhati)
+[would-abandon](hātum) [deserves](arhati)
 
 ## mukta-m0-p11-v272
-[left](vāma) [salutation](abhivādana) [sequence](krameṇa) [having-saluted](abhivādya) [with-services](upacārair) [guru](guruṃ) [should-please](toṣayet)
+[left-salutation-procedure](vāmābhivādanakrameṇa) [saluting-services](abhivādyopacāraiḥ) [guru](guruṃ) [would-please](toṣayet)
 
 ## mukta-m0-p11-v273
-[of-guru](guroḥ) [as](pūrva) [before](vat)
+[of-guru](guroḥ) [as-before](pūrvavat)
 
 ## mukta-m0-p11-v274
-[directly](sākṣāt) [sin](pāpa) [consisting](mayo) [to-be-known](jñeyo) [who](yo) [other](deva) [deity](antaram) [resorts-to](āśrayed) [thus](iti) [is-known](vijñāyate)
+[directly-sinful](sākṣātpāpamayaḥ) [to-be-known](jñeyaḥ) [yo](yo) [other-deity](devāntaram) [would-resort](āśrayet) [iti](iti) [is-known](vijñāyate)
 
 ## mukta-m0-p11-v275
-[other](devatā) [deity](antaram) [resorted-to](āśrita) [thus](iti) [some](kecit)
+[other-deity-resorted](devatāntaramāśritaḥ) [iti](iti) [some](kecit)

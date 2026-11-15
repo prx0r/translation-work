@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p13",
  "verse": 311,
- "question": "Which weapons and implements does the goddess hold in sequence?",
+ "question": "What divine ornaments and garments characterize this god?",
  "premises": [
-  "She holds a bow and arrows",
-  "She holds a pair of noose and goad",
-  "These are held in order"
+  "god wears divine cloth",
+  "god is ornamented with divine heart fragrance",
+  "both qualify god"
  ],
- "inference": "The goddess's hands bear the bow, arrows, noose, and goad in sequence",
- "uncertainties": [],
- "plain_english": "O Goddess, she holds in order a bow, arrows, and the pair of noose and goad."
+ "inference": "This god wears divine cloth and is ornamented with divine heart fragrance.",
+ "uncertainties": [
+  "exact meaning of heart fragrance"
+ ],
+ "plain_english": "The god wears divine cloth and is ornamented with divine heart fragrance."
 }

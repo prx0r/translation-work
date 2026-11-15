@@ -1,0 +1,479 @@
+{
+ "song": "sva-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "by-order",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guru",
+     "gloss": "guru",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "sādhaka",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paripāṭyā",
+     "gloss": "sequence",
+     "grounds": "instrumental noun",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "How does the guru establish the sādhaka's ordered sequence?",
+   "premises": [
+    "The guru acts by order.",
+    "The sādhaka follows sequence."
+   ],
+   "inference": "Ordered guru guidance structures the sādhaka's practice.",
+   "uncertainties": [
+    "Context of sequence not fully specified."
+   ],
+   "plain_english": "By order, thus the guru guides the sādhaka in sequence."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "kācit",
+     "gloss": "some",
+     "grounds": "indefinite pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of loss is acknowledged in this rite?",
+   "premises": [
+    "Some loss occurs.",
+    "It is acknowledged as real."
+   ],
+   "inference": "The rite accepts a partial loss rather than denying it.",
+   "uncertainties": [
+    "What is lost is not named."
+   ],
+   "plain_english": "Some loss indeed, thus."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "should-do",
+     "grounds": "gerund",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What remains after the prescribed action is performed?",
+   "premises": [
+    "The action is done.",
+    "The remainder remains."
+   ],
+   "inference": "Completion leaves a remainder to be handled.",
+   "uncertainties": [
+    "Nature of remainder unspecified."
+   ],
+   "plain_english": "Having done, the remainder indeed, thus."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "śivam",
+     "gloss": "śiva",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is Śiva alone called the supreme?",
+   "premises": [
+    "Śiva is the object.",
+    "The supreme is affirmed."
+   ],
+   "inference": "Śiva is identified as the supreme reality.",
+   "uncertainties": [
+    "No argument beyond affirmation."
+   ],
+   "plain_english": "Śiva indeed, thus the supreme."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "adhivāsa",
+     "gloss": "adhivāsa",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is named the third adhivāsa chapter?",
+   "premises": [
+    "Adhivāsa is named.",
+    "It is the third chapter."
+   ],
+   "inference": "The adhivāsa rite occupies the third paṭala.",
+   "uncertainties": [
+    "Scope of adhivāsa not detailed."
+   ],
+   "plain_english": "Adhivāsa, named the third chapter."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "krimiḥ",
+     "gloss": "worm",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lākṣā",
+     "gloss": "lac",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭham",
+     "gloss": "best",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why are worm and lac called best among all?",
+   "premises": [
+    "Worm and lac are named.",
+    "All is called best."
+   ],
+   "inference": "Even humble substances are elevated as best in this rite.",
+   "uncertainties": [
+    "Exact ritual use unclear."
+   ],
+   "plain_english": "Worm, lac, all best."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "proper",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vādaḥ",
+     "gloss": "speech",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃvādaḥ",
+     "gloss": "dialogue",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does proper speech become dialogue?",
+   "premises": [
+    "Speech is proper.",
+    "Dialogue is affirmed."
+   ],
+   "inference": "Correct speech constitutes ritual dialogue.",
+   "uncertainties": [
+    "Participants not specified."
+   ],
+   "plain_english": "Proper speech, dialogue, thus."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root dṛś"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhivāse",
+     "gloss": "adhivāsa",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is seen in the adhivāsa rite?",
+   "premises": [
+    "That is seen.",
+    "It occurs in adhivāsa."
+   ],
+   "inference": "The adhivāsa rite makes something visible.",
+   "uncertainties": [
+    "Referent of 'that' unspecified."
+   ],
+   "plain_english": "That is seen in adhivāsa indeed."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "nṛttam",
+     "gloss": "dance",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is dance called the supreme?",
+   "premises": [
+    "Dance is affirmed.",
+    "The supreme is affirmed."
+   ],
+   "inference": "Dance is identified with the supreme principle.",
+   "uncertainties": [
+    "Metaphorical or literal dance unclear."
+   ],
+   "plain_english": "Dance indeed, thus the supreme."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dīkṣāntarāya",
+     "gloss": "initiation-obstacle",
+     "grounds": "compound noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "upaśāntiḥ",
+     "gloss": "pacification",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is an initiation obstacle pacified?",
+   "premises": [
+    "Thus being the case.",
+    "Pacification of initiation obstacle."
+   ],
+   "inference": "The stated condition leads to pacification of initiation obstacles.",
+   "uncertainties": [
+    "Condition not fully stated."
+   ],
+   "plain_english": "Thus being, pacification of initiation obstacle."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "prāyaścitta",
+     "gloss": "expiation",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāntyartham",
+     "gloss": "for-peace",
+     "grounds": "compound noun",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "sthaṇḍila",
+     "gloss": "altar",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhairavam",
+     "gloss": "bhairava",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is a Bhairava altar used for expiation and peace?",
+   "premises": [
+    "Expiation is for peace.",
+    "The altar is Bhairava's."
+   ],
+   "inference": "Bhairava's altar serves expiation and peace.",
+   "uncertainties": [
+    "Ritual procedure not detailed."
+   ],
+   "plain_english": "Expiation for peace, Bhairava altar."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "tadvidhiḥ",
+     "gloss": "that-rite",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "ahead",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future verb",
+     "morph": "3.sg.act-fut + root bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When will that rite be explained?",
+   "premises": [
+    "That rite is named.",
+    "It will be ahead."
+   ],
+   "inference": "The rite's full procedure is deferred to a later passage.",
+   "uncertainties": [
+    "Which rite is deferred."
+   ],
+   "plain_english": "That rite will be ahead, thus."
+  }
+ ]
+}

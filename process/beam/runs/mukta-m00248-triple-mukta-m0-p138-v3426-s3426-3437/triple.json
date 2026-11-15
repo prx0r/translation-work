@@ -1,0 +1,599 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3426,
+   "rows": [
+    {
+     "surface": "vāgbhavāt",
+     "gloss": "speech-born",
+     "grounds": "ablative of speech-born element",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "caturdaśaṃ",
+     "gloss": "fourteenth",
+     "grounds": "ordinal numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yojya",
+     "gloss": "having-joined",
+     "grounds": "gerundive sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vāgbhavāt",
+     "gloss": "speech-born",
+     "grounds": "ablative of speech-born element",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ṣaṣṭam",
+     "gloss": "sixth",
+     "grounds": "ordinal numeral",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are the fourteenth and sixth speech-born elements joined?",
+   "premises": [
+    "speech-born elements are joined",
+    "fourteenth and sixth are named",
+    "joining is prescribed"
+   ],
+   "inference": "The verse prescribes joining the fourteenth and sixth speech-born elements.",
+   "uncertainties": [
+    "exact ritual referent of speech-born elements"
+   ],
+   "plain_english": "The fourteenth and sixth speech-born elements are to be joined."
+  },
+  {
+   "verse": 3427,
+   "rows": [
+    {
+     "surface": "parivārān",
+     "gloss": "attendants",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-shall-declare",
+     "grounds": "first person future",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "dalaiḥ",
+     "gloss": "with-petals",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "in-sixteen",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃsthitān",
+     "gloss": "arranged",
+     "grounds": "accusative plural participle",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How are the sixteen attendants arranged on petals?",
+   "premises": [
+    "attendants are declared",
+    "sixteen are arranged",
+    "petals are the support"
+   ],
+   "inference": "The verse declares sixteen attendants arranged on petals.",
+   "uncertainties": [
+    "specific petal arrangement"
+   ],
+   "plain_english": "I shall declare the sixteen attendants arranged on petals."
+  },
+  {
+   "verse": 3428,
+   "rows": [
+    {
+     "surface": "mādyā",
+     "gloss": "beginning-with-mā",
+     "grounds": "compound beginning",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhṛṅgadale",
+     "gloss": "on-bhr̥ṅga-petal",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kundasya",
+     "gloss": "of-jasmine",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kusumaprabhau",
+     "gloss": "flower-lustre",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Where is the mā-syllable placed among flower-lustre petals?",
+   "premises": [
+    "mā-syllable is placed",
+    "bhr̥ṅga petal is the site",
+    "jasmine flower lustre is named"
+   ],
+   "inference": "The verse places the mā-syllable on the bhr̥ṅga petal with jasmine flower lustre.",
+   "uncertainties": [
+    "exact petal identity"
+   ],
+   "plain_english": "Beginning with mā, place it on the bhr̥ṅga petal, jasmine flower lustre."
+  },
+  {
+   "verse": 3429,
+   "rows": [
+    {
+     "surface": "mīdhīdvayaṃ",
+     "gloss": "mī-dhī-pair",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vitathe",
+     "gloss": "on-vitathe",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japāpāñjana",
+     "gloss": "hibiscus-collyrium",
+     "grounds": "nominative singular compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "nominative singular pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prabhau",
+     "gloss": "lustre",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Where is the mī-dhī pair placed with hibiscus collyrium lustre?",
+   "premises": [
+    "mī-dhī pair is named",
+    "vitathe is the site",
+    "hibiscus collyrium lustre is named"
+   ],
+   "inference": "The verse places the mī-dhī pair on vitathe with hibiscus collyrium lustre.",
+   "uncertainties": [
+    "exact vitathe referent"
+   ],
+   "plain_english": "The mī-dhī pair on vitathe, but hibiscus collyrium, that lustre."
+  },
+  {
+   "verse": 3430,
+   "rows": [
+    {
+     "surface": "madhūdvayaṃ",
+     "gloss": "madhu-pair",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhṛṅgarāje",
+     "gloss": "on-bhr̥ṅgarāja",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "campakābhṛṅga",
+     "gloss": "campaka-bee",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sannibhau",
+     "gloss": "similar",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Where is the madhu pair placed with campaka bee similarity?",
+   "premises": [
+    "madhu pair is named",
+    "bhr̥ṅgarāja is the site",
+    "campaka bee similarity is named"
+   ],
+   "inference": "The verse places the madhu pair on bhr̥ṅgarāja with campaka bee similarity.",
+   "uncertainties": [
+    "exact bhr̥ṅgarāja referent"
+   ],
+   "plain_english": "The madhu pair on bhr̥ṅgarāja, campaka bee similar."
+  },
+  {
+   "verse": 3431,
+   "rows": [
+    {
+     "surface": "mṝdhṝdvayaṃ",
+     "gloss": "mṝ-dhṝ-pair",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sugrīve",
+     "gloss": "on-sugrīva",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "raktakokila",
+     "gloss": "red-cuckoo",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sannibhau",
+     "gloss": "similar",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Where is the mṝ-dhṝ pair placed with red cuckoo similarity?",
+   "premises": [
+    "mṝ-dhṝ pair is named",
+    "sugrīva is the site",
+    "red cuckoo similarity is named"
+   ],
+   "inference": "The verse places the mṝ-dhṝ pair on sugrīva with red cuckoo similarity.",
+   "uncertainties": [
+    "exact sugrīva referent"
+   ],
+   "plain_english": "The mṝ-dhṝ pair on sugrīva, red cuckoo similar."
+  },
+  {
+   "verse": 3432,
+   "rows": [
+    {
+     "surface": "mḹ",
+     "gloss": "mḹ-dhḹ-pair",
+     "grounds": "first member of pair",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhḹ",
+     "gloss": "pair",
+     "grounds": "second member of pair",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śoṣe",
+     "gloss": "on-śoṣa",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyuccastāsa",
+     "gloss": "lightning-castor-oil",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samaprabhau",
+     "gloss": "similar",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Where is the mḹ-dhḹ pair placed with lightning castor oil similarity?",
+   "premises": [
+    "mḹ-dhḹ pair is named",
+    "śoṣa is the site",
+    "lightning castor oil similarity is named"
+   ],
+   "inference": "The verse places the mḹ-dhḹ pair on śoṣa with lightning castor oil similarity.",
+   "uncertainties": [
+    "exact śoṣa referent"
+   ],
+   "plain_english": "The mḹ-dhḹ pair on śoṣa, but lightning castor oil similar."
+  },
+  {
+   "verse": 3433,
+   "rows": [
+    {
+     "surface": "maidhai",
+     "gloss": "mai-dhai",
+     "grounds": "compound members",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mukhye",
+     "gloss": "on-mukhya",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tittirīyaka",
+     "gloss": "partridge",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sannibhau",
+     "gloss": "similar",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Where should the mai-dhai pair be placed with partridge similarity?",
+   "premises": [
+    "mai-dhai pair is named",
+    "mukhya is the site",
+    "partridge similarity is named"
+   ],
+   "inference": "The verse says to place the mai-dhai pair on mukhya with partridge similarity.",
+   "uncertainties": [
+    "exact mukhya referent"
+   ],
+   "plain_english": "On mukhya place two, but partridge similar."
+  },
+  {
+   "verse": 3434,
+   "rows": [
+    {
+     "surface": "maṃ",
+     "gloss": "maṃ",
+     "grounds": "syllable token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhaṃ",
+     "gloss": "dhaṃ",
+     "grounds": "syllable token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "īśe",
+     "gloss": "on-īśa",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyāsagrantha",
+     "gloss": "placement-text",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "accusative singular participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How are maṃ and dhaṃ placed on īśa with placement text?",
+   "premises": [
+    "maṃ and dhaṃ are named",
+    "īśa is the site",
+    "placement text is endowed"
+   ],
+   "inference": "The verse places maṃ and dhaṃ on īśa with placement text.",
+   "uncertainties": [
+    "exact placement text"
+   ],
+   "plain_english": "Maṃ and dhaṃ on īśa, but having placed, placement text endowed."
+  },
+  {
+   "verse": 3435,
+   "rows": [
+    {
+     "surface": "mantrarājasya",
+     "gloss": "of-mantra-king",
+     "grounds": "genitive singular compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahāmeru",
+     "gloss": "great-meru",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samaprabham",
+     "gloss": "equal-lustre",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What lustre is assigned to the mantra king syllable?",
+   "premises": [
+    "mantra king syllable is named",
+    "great meru is named",
+    "equal lustre is named"
+   ],
+   "inference": "The verse assigns equal lustre to the mantra king syllable with great meru.",
+   "uncertainties": [
+    "exact mantra king"
+   ],
+   "plain_english": "The mantra king syllable indeed great meru equal lustre."
+  },
+  {
+   "verse": 3436,
+   "rows": [
+    {
+     "surface": "juṃsahaṃsena",
+     "gloss": "with-juṃsahaṃsa",
+     "grounds": "instrumental singular compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saṃpuṭya",
+     "gloss": "having-enclosed",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kanakaparvatam",
+     "gloss": "golden-mountain",
+     "grounds": "accusative singular compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should one meditate on after enclosing with juṃsahaṃsa?",
+   "premises": [
+    "enclosure with juṃsahaṃsa is prescribed",
+    "meditation is prescribed",
+    "golden mountain is the object"
+   ],
+   "inference": "The verse prescribes meditating on the golden mountain after enclosing with juṃsahaṃsa.",
+   "uncertainties": [
+    "exact juṃsahaṃsa"
+   ],
+   "plain_english": "Having enclosed with juṃsahaṃsa, one should meditate on the golden mountain."
+  },
+  {
+   "verse": 3437,
+   "rows": [
+    {
+     "surface": "ardharātre",
+     "gloss": "at-midnight",
+     "grounds": "locative singular compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ghaṭikā",
+     "gloss": "ghaṭikās",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dvādaśaṃ",
+     "gloss": "twelve",
+     "grounds": "accusative singular numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guha",
+     "gloss": "O-Guha",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "When and for how many ghaṭikās should one meditate, O Guha?",
+   "premises": [
+    "midnight is the time",
+    "meditation is prescribed",
+    "twelve ghaṭikās are named"
+   ],
+   "inference": "The verse prescribes meditation at midnight for twelve ghaṭikās, O Guha.",
+   "uncertainties": [
+    "exact duration reckoning"
+   ],
+   "plain_english": "At midnight one should meditate, but twelve ghaṭikās, O Guha."
+  }
+ ]
+}

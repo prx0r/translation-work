@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "atiśītena",
+     "gloss": "very-cold",
+     "grounds": "adjective atiśīta with instrumental ending -ena",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "past participle saṃyukta in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rudraviṣṇusamanvitam",
+     "gloss": "accompanied-by-rudra-and-viṣṇu",
+     "grounds": "compound participle rudra-viṣṇu-samanvita in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities and divine accompaniments are prescribed for the mṛtyuñjaya mantra?",
+   "premises": [
+    "The mantra is joined with extreme cold.",
+    "It is accompanied by Rudra.",
+    "It is accompanied by Viṣṇu."
+   ],
+   "inference": "Thus the instruction joins extreme cold with Rudra and Viṣṇu.",
+   "uncertainties": [
+    "The exact ritual referent of atiśīta remains unclear."
+   ],
+   "plain_english": "joined with extreme cold and accompanied by Rudra and Viṣṇu."
+  }
+ ]
+}

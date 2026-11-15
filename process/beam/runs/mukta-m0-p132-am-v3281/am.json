@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p132",
  "verse": 3281,
- "question": "What divine form is identified by the described bodily marks?",
+ "question": "Whose retinue will be told now to the six-faced one?",
  "premises": [
-  "Verse lists marks and names form."
+  "a retinue is named",
+  "the speaker will tell it now",
+  "the six-faced one is addressed"
  ],
- "inference": "The marks identify the named deity.",
+ "inference": "The verse announces that the retinue of that one will now be told to the six-faced listener.",
  "uncertainties": [
-  "Compendium quotation boundary unclear."
+  "the antecedent of tasya is not explicit"
  ],
- "plain_english": "Goad-shaped faced, endowed with dharma-wheel."
+ "plain_english": "I will now tell the retinue of that one; listen, O six-faced one."
 }

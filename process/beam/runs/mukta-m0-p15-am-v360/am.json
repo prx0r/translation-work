@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p15",
  "verse": 360,
- "question": "Who composed the text in śāradāpaṭala?",
+ "question": "Which bodily tissues are named for placement?",
  "premises": [
-  "the text is in śāradāpaṭala",
-  "it is composed",
-  "the composer is the speaker himself"
+  "skin blood flesh fat bone marrow semen",
+  "etc in bodily tissues"
  ],
- "inference": "The speaker himself composed the text in śāradāpaṭala.",
+ "inference": "The named bodily tissues include skin, blood, flesh, fat, bone, marrow, and semen.",
  "uncertainties": [
-  "whether api modifies composed or text"
+  "exact letter mapping to tissues not stated"
  ],
- "plain_english": "In the text composed by me myself in śāradāpaṭala also."
+ "plain_english": "Skin, blood, flesh, fat, bone, marrow, semen, and other bodily tissues are named."
 }

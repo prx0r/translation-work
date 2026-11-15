@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p85-v2101
-[by-him](tena)+[invited](upahūtā) [brahmins](vipra)+[and-others](ādyā) [not](na) [went](yayuḥ) [there](tatra) [in-great-numbers](bhūriśaḥ)
+[by-him](tena) [invited](upahūtāḥ) [brahmins-and-others](vipra+ādyāḥ) [not](na) [went](yayuḥ) [there](tatra) [many](bhūriśaḥ)
 
 ## mukta-m0-p85-v2102
-[there](tatra) [in-Varuṇa's](varuṇa)+[sacrifice](yāge) [in-great-numbers](bhūriśaḥ) [many](bahavaḥ)
+[there](tatra) [varuna-sacrifice](varuṇa+yāge) [many](bahavaḥ)
 
 ## mukta-m0-p85-v2103
-[then](atha)+[came](ājagāma) [Varuṇa's](varuṇa)+[son](dāyādaḥ) [with-Buddhist](bauddha)+[learning](sampadā)
+[then](atha) [came](ājagāma) [varuna-descendant](varuṇa+dāyādaḥ) [buddhist-wealth](bauddha+sampadā)
 
 ## mukta-m0-p85-v2104
-[in-logic](tarka)+[skilled](kuśalaḥ) [thus](iti) [the-intended-meaning](tātparyam)
+[logic-skilled](tarka+kuśalaḥ) [thus](iti) [meaning](tātparyam)
 
 ## mukta-m0-p85-v2105
-[having-approached](āsādya) [sacrifice](yajña)+[hall](sadanam) [the-king](nṛpam) [having-joined](saṃyojya) [and](ca)+[with-blessing](āśiṣā)
+[reaching](āsādya) [sacrifice-hall](yajña+sadanam) [king](nṛpam) [joining](saṃyojya) [with-blessing](ca+āśiṣā)
 
 ## mukta-m0-p85-v2106
-[to-lead](netum)+[came](ājagāma) [by-crooked](kūṭa)+[path](vartmanā) [by-deceitful](kapaṭa)+[way](mārgeṇa)
+[to-lead](netum) [came](ājagāma) [by-crooked-path](kūṭa+vartmanā) [by-deceitful-way](kapaṭa+mārgeṇa)
 
 ## mukta-m0-p85-v2107
-[O-king](rājan)+[your](te) [sacrifice](yajña)+[hall](sadanam)+[exceedingly](atyantam) [not](na)+[indeed](eva) [shines](śobhate)
+[king](rājan) [this](te) [sacrifice-hall](yajña+sadanam) [exceedingly](atyantam) [not](na) [indeed](eva) [shines](śobhate)
 
 ## mukta-m0-p85-v2108
-[an-assembly](sabhā) [by-scholar](vidvat)+[multitudes](samudayaiḥ) [shining](śobhinī) [shines](śobhate)+[exceedingly](itarām)
+[assembly](sabhā) [with-scholars](vidvat+samudayaiḥ) [shining](śobhinī) [shines-more](śobhatetarām)
 
 ## mukta-m0-p85-v2109
-[shining](śobhinī)+[thus](iti) [by-itself](svataḥ) [shining](śobhamānā) [exceedingly](nitarām) [shines](śobhate)
+[shining](śobhinī) [thus](iti) [by-itself](svataḥ) [shining](śobhamānā) [exceedingly](nitarām) [shines](śobhate)
 
 ## mukta-m0-p85-v2110
-[therefore](tat)+[here](atra) [in-learning](vidyā)+[bright](viśadam) [not](na) [I-see](paśyāmi)+[even-one](ekam)+[even](api)+[fit](alam)
+[there](tatra) [knowledge-clear](vidyā+viśadam) [not](na) [see](paśyāmi) [one](ekam) [even](api) [enough](alam)
 
 ## mukta-m0-p85-v2111
-[syntactic-connection](sambandhaḥ) [syntactic-connection](sambandhaḥ) [syntactic-connection](sambandhaḥ) [syntactic-connection](sambandhaḥ)
+[connection](sambandhaḥ)
 
 ## mukta-m0-p85-v2112
-[how](katham) [assembly](sabhām)+[this](imām) [fool](mūrkha)+[abounding](pracurām) [shall-enter](saṃviśāmi)+[I](aham)
+[how](katham) [assembly](sabhām) [this](imām) [fool-filled](mūrkha+pracurām) [enter](saṃviśāmi) [I](aham)
 
 ## mukta-m0-p85-v2113
-[what](kim)+[O](are) [brahmin](dvija)+[in-name-only](bandho) [you](tvam)+[revile](adhikṣipasi) [all](sarvataḥ)
+[why](kim) [O-brahmin-born](are) [dvija-born](dvija+bandho) [you](tvam) [insult](adhikṣipasi) [everywhere](sarvataḥ)
 
 ## mukta-m0-p85-v2114
-[of-the-angry](kruddhānām) [speech](vacanam) [what](kim)+[O](are) [thus](iti) [all](sarvataḥ) [everyone](sarvān)
+[angry-ones](kruddhānām) [speech](vacanam) [why](kim) [O](are) [thus](iti) [everywhere](sarvataḥ) [all](sarvān)
 
 ## mukta-m0-p85-v2115
-[in-vain](vṛthā) [you-boast](katthasi) [O-evil-minded-one](durbuddhe) [having-conquered](jitvā)+[us](asmān)+[you](tvam) [will-go](gamiṣyasi)
+[vainly](vṛthā) [boast](katthasi) [fool](durbuddhe) [having-conquered](jitvā) [us](asmān) [you](tvam) [will-go](gamiṣyasi)
 
 ## mukta-m0-p85-v2116
-[conquered](jitāḥ) [we-become](bhavāmaḥ) [thus](iti) [ellipsis](śeṣaḥ)
+[conquered](jitāḥ) [we-are](bhavāmaḥ) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p85-v2117
-[what](kim) [you](tvam) [earth](bhū)+[world](lokam)+[alone](eva)+[today](adya) [to-conquer](jetum)+[wish](icchasi) [O-evil-minded-one](durmate)
+[what](kim) [you](tvam) [earth-world](bhūloka) [only](eva) [today](adya) [to-conquer](jetum) [wish](icchasi) [fool](durmate)
 
 ## mukta-m0-p85-v2118
-[earth-world](bhūloka)+[situated](saṃsthānāḥ) [earth-world](bhūloka)+[dwelling](sthāḥ) [here](atra) [assembled](saṅgatāḥ) [gathered](militāḥ) [are-present](vartantaḥ) [thus](iti) [ellipsis](śeṣaḥ)
+[earth-world-dwellers](bhūloka+saṃsthānāḥ) [earth-world-residents](bhūloka+sthāḥ) [here](atra) [assembled](saṅgatāḥ) [gathered](militāḥ) [exist](vartante) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p85-v2119
-[thus](iti)+[having-been-spoken](uktavatsu) [when-the-assembly-members](sabhyeṣu) [Varuṇa's-son](vāruṇiḥ) [again](punar)+[said](āha) [to-them](tān)
+[thus](ityuktavatsu) [in-assembly](sabhyeṣu) [varuni](vāruṇiḥ) [again](punar) [said](āha) [to-them](tān)
 
 ## mukta-m0-p85-v2120
-[I](aham) [defeated](jitaḥ) [by-you](bhavadbhiḥ)+[indeed](tu) [in-the-ocean](samudre) [shall-be](syām) [submerged](nikajjitaḥ)
+[I](aham) [conquered](jitaḥ) [by-you](bhavadbhiḥ) [tu](tu) [in-ocean](samudre) [would-be](syām) [submerged](nikajjitaḥ)
 
 ## mukta-m0-p85-v2121
-[by-agreement](samayena) [by-vow](pratijñayā) [the-agreement](samayam)+[indeed](eva)+[states](āha) [I](aham)+[thus](iti)
+[by-agreement](samayena) [by-promise](pratijñayā) [agreement](samayam) [indeed](eva) [says](āha) [I](aham) [thus](iti)
 
 ## mukta-m0-p85-v2122
-[having-accepted](upetya)+[indeed](eva)+[thus](tu) [agreement](samayam) [let-them-debate](vivadantu) [with-me](mayā) [together](saha)
+[approaching](upetya) [thus](evam) [tu](tu) [agreement](samayam) [dispute](vivadantu) [with-me](mayā) [with](saha)
 
 ## mukta-m0-p85-v2123
-[having-accepted](upetya) [having-consented](aṅgīkṛtya) [having-accepted](upetya) [having-consented](aṅgīkṛtya)
+[approaching](upetya) [accepting](aṅgīkṛtya)
 
 ## mukta-m0-p85-v2124
-[debate](vivādam) [they-made](cakruḥ)+[exceedingly](atyantam) [with-him](tena) [with-Varuṇa's-son](vāruṇinā) [the-brahmins](dvijāḥ)
+[dispute](vivādam) [made](cakruḥ) [exceedingly](atyantam) [by-that](tena) [varuni](vāruṇinā) [brahmins](dvijāḥ)
 
 ## mukta-m0-p85-v2125
-[assent](sammatim) [vow](pratijñā)+[acceptance](aṅgīkāram) [assent](sammatim) [vow](pratijñā)+[acceptance](aṅgīkāram)
+[consent](sammatim) [promise-acceptance](pratijñā+aṅgīkāram)

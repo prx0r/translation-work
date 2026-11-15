@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[latent-impression](vāsanā) [mass](piṇḍa) [accompanied-by](sahitā) [consciousness](citiḥ) [mind](cittam) [is-declared](udīritam)
+[vāsanā-piṇḍa-sahitā](vāsanāpiṇḍasahitā) [citiḥ](citiś) [cittam](cittam) [udīritam](udīritam)
 
 ## mukta-m0-p81-v2002
-[mind](cittam) [thus](iti) [is-called](ucyate) [thus](iti) [says](āha) [latent-impression](vāsanā) [etc.](iti)
+[cittam](cittam) [iti](ity) [ucyate](ucyata) [iti](ity) [āha](āha) [vāsanā](vāsanā) [iti](iti)
 
 ## mukta-m0-p81-v2003
-[of-persons](puruṣāṇāṃ) [by-difference](vibhedena) [mind](cittaṃ) [of-many-kinds](bahuvidhaṃ) [would-be](bhavet)
+[puruṣāṇām](puruṣāṇāṃ) [vibhedena](vibhedena) [cittam](cittaṃ) [bahuvidham](bahuvidhaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p81-v2004
-[mind](cittaṃ) [divided](bhinnam) [therefore](ataḥ) [of-many-kinds](bahuvidham) [thus](iti) [meaning](arthaḥ)
+[cittam](cittaṃ) [bhinnam](bhinnam) [ataḥ](ato) [bahuvidham](bahuvidham) [ity-arthaḥ](ityarthaḥ)
 
 ## mukta-m0-p81-v2005
-[nature-state](prakṛtitvaṃ) [attains](samāyāti) [at-its-end](tadante) [mind-state](cittatām) [would-go](iyāt)
+[prakṛtitvam](prakṛtitvaṃ) [samāyāti](samāyāti) [tad-ante](tadante) [cittatām](cittatām) [iyāt](iyāt)
 
 ## mukta-m0-p81-v2006
-[mind](cittam) [thus](iti) [meaning](bhāvaḥ)
+[cittam](cittam) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p81-v2007
-[of-the-unmanifest](avyakta) [predominance](prādhānyataḥ) [but](tu) [mind](citta) [nature-state](prakṛtitām) [would-go](iyāt)
+[avyakta-prādhānyataḥ](avyaktaprādhānyatastu) [tu](tu) [citta-prakṛtitām](cittaprakṛtitām) [iyāt](iyāt)
 
 ## mukta-m0-p81-v2008
-[specific](viśiṣṭa) [text](grantha) [purport](tātparyam)
+[viśiṣṭa-grantha-tātparyam](viśiṣṭagranthatātparyam)
 
 ## mukta-m0-p81-v2009
-[ego](ahaṅkāra) [intellect](buddhi) [mind](manaḥ) [in-the-form-of](rūpeṇa) [O-best-of-kings](nṛpasattama)
+[ahaṅkāra-buddhi-mano-rūpeṇa](ahaṅkārabuddhimanorūpeṇa) [nṛpa-sattama](nṛpasattama)
 
 ## mukta-m0-p81-v2010
-[threefold](trividham) [thus](iti) [meaning](arthaḥ)
+[trividham](trividham) [ity-arthaḥ](ityarthaḥ)
 
 ## mukta-m0-p81-v2011
-[sound](śabda) [etc.](ādi) [space](gagana) [etc.](ādīni) [elements](bhūtāni) [in-gross-and-subtle-forms](sthūla+sūkṣmataḥ)
+[śabdādi-gaganādīni](śabdādigaganādīni) [bhūtāni](bhūtāni) [sthūla-sūkṣmataḥ](sthūlasūkṣmataḥ)
 
 ## mukta-m0-p81-v2012
-[play](krīḍāṃ) [does](karoti) [in-the-order-of-creation](sṛṣṭi+ādi+krameṇa) [witness-of-all](sarva+sākṣiṇī)
+[krīḍām](krīḍāṃ) [karoti](karoti) [sṛṣṭy-ādi-krameṇa](sṛṣtyādikrameṇa) [sarva-sākṣiṇī](sarvasākṣiṇī)
 
 ## mukta-m0-p81-v2013
-[by-creation](sṛṣṭi) [etc.](ādi) [arising](gata) [qualities-and-defects](guṇa+doṣaiḥ) [untainted](alepaḥ) [of-the-consciousness-self](saṃvid+ātmanaḥ) [to-be-known](jñeyaḥ)
+[sṛṣṭy-ādi-gata-guṇa-doṣaiḥ](sṛṣṭyādigataguṇadoṣair) [alepaḥ](alepaḥ) [saṃvid-ātmano](saṃvidātmano) [jñeyaḥ](jñeyaḥ)
 
 ## mukta-m0-p81-v2014
-[Hiraṇyagarbha](hiraṇyagarbhaḥ) [who](yaḥ) [Brahmā](brahmā) [of-him](tasya) [this](etat) [arisen-from-conception](bhāvanā+utthitam)
+[hiraṇyagarbho](hiraṇyagarbho) [yaḥ](yo) [brahmā](brahmā) [tasya](tasya) [etat](etad) [bhāvanā-utthitam](bhāvanotthitam)
 
 ## mukta-m0-p81-v2015
-[by-conception](bhāvanayā) [this](etat) [world](jagat) [arisen](utthitam) [thus](iti) [connection](sambandhaḥ)
+[bhāvanayā](bhāvanayā) [etat](etaj) [jagat](jagad) [utthitam](utthitam) [iti](iti) [sambandhaḥ](sambandhaḥ)
 
 ## mukta-m0-p81-v2016
-[she](sā) [supreme](parā) [indeed](eva) [verily](hi) [consciousness-power](cit+śaktiḥ) [of-that](tat) [difference](bhedaḥ) [not](na) [indeed](tu) [exists](vidyate)
+[sā](sā) [parā](para) [eva](iva) [hi](hi) [cit-śaktiḥ](cicchaktiḥ) [tad-bhedaḥ](tadbhedo) [na](na) [tu](tu) [vidyate](vidyate)
 
 ## mukta-m0-p81-v2017
-[of-great-space](mahā+kāśa) [division](bhedaḥ) [thus](evam) [here-also](atra+api) [difference](bhedaḥ) [not](na) [exists](vidyate)
+[mahā-kāśa-bhedaḥ](mahākāśabhedaḥ) [evam](evam) [atra](atra) [api](api) [bhedaḥ](bhedo) [na](na) [vidyate](vidyate)
 
 ## mukta-m0-p81-v2018
-[of-that](tat) [conception](bhāvanā) [in-dissolution](upasaṃhāre) [not](na) [exists](asti) [of-difference](bhedasya) [appearance](bhāsanam)
+[tad-bhāvanā-upasaṃhāre](tadbhāvanopasaṃhāre) [na](nāsti) [asti](asti) [bhedasya](bhedasya) [bhāsanam](bhāsanam)
 
 ## mukta-m0-p81-v2019
-[here](atra) [indeed](eva) [ghamātṛkā](ghamātṛkā) [concluded](avasitā)
+[atra](atra) [eva](iva) [ghamātṛkā](ghamātṛkā) [avasitā](avasitā)
 
 ## mukta-m0-p81-v2020
-[of-that](tat) [veil](āvaraṇa) [upon-removal](hāne) [but](tu) [of-you](tava) [that](sā) [accomplishment](siddhim) [will-attain](eṣyati)
+[tad-āvaraṇa-hāne](tadāvaraṇahāne) [tu](tu) [tava](tava) [sā](sā) [siddhim](siddhim) [eṣyati](eṣyati)
 
 ## mukta-m0-p81-v2021
-[that](sā) [conception](bhāvanā) [accomplishment](siddhiṃ) [common-to-all](sarva+sādhāraṇa) [creation](sṛṣṭi) [power](sāmarthyam) [will-attain](eṣyati)
+[sā](sā) [bhāvanā](bhāvanā) [siddhim](siddhiṃ) [sarva-sādhāraṇa-sṛṣṭi-sāmarthyam](sarvasādhāraṇasṛṣṭisāmarthyam) [eṣyati](eṣyati)
 
 ## mukta-m0-p81-v2022
-[likewise](tathā) [that](tat) [there](tatra) [would-appear](bhāseta) [by-difference-of-long-and-subtle](dīrgha+sūkṣmatva+bhedataḥ)
+[tathā](tathā) [tat](tattatra) [tatra](tatra) [bhāseta](bhāseta) [dīrgha-sūkṣmatva-bhedataḥ](dīrghasūkṣmatvabhedataḥ)
 
 ## mukta-m0-p81-v2023
-[in-the-conceived-place](bhāvita+pradeśa) [etc.](ādau) [in-accordance-with-conception](bhāvanā+anurodhena) [by-difference-of-long-and-subtle](dīrgha+sūkṣmatva+bhedataḥ) [would-appear](bhāseta)
+[bhāvita-pradeśādau](bhāvitapradeśādau) [bhāvanā-anurodhena](bhāvanānurodhena) [dīrgha-sūkṣmatva-bhedataḥ](dīrghasūkṣmatvabhedato) [bhāseta](bhāseta)
 
 ## mukta-m0-p81-v2024
-[by-Brahmā](brahmaṇā) [so-much](tāvat) [indeed](eva) [here](atra) [in-the-form-of-twelve-hundred-millions](dvādaśa+arbuda+rūpataḥ)
+[brahmaṇā](brahmaṇā) [tāvat](tāvad) [eva](evātra) [atra](atra) [dvādaśa-arbuda-rūpataḥ](dvādaśārbudarūpataḥ)
 
 ## mukta-m0-p81-v2025
-[in-the-world-created-by-Brahmā](brahma+sṛṣṭa+loke) [in-form](rūpataḥ) [conceived](bhāvitam) [thus](iti) [connection](anvayaḥ)
+[brahma-sṛṣṭa-loke](brahmasṛṣṭaloke) [rūpataḥ](rūpato) [bhāvitam](bhāvitam) [ity-anvayaḥ](ityanvayaḥ)

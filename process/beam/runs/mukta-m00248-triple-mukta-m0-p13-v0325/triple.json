@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "pañcaratnaiḥ",
+     "gloss": "five-jewels",
+     "grounds": "compound of pañca and ratna in instrumental plural",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "vicitraṃ",
+     "gloss": "variegated",
+     "grounds": "adjective agreeing with implied neuter object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "enclitic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamūrdhni",
+     "gloss": "on-five-heads",
+     "grounds": "compound of pañca and mūrdhan in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ṣaḍānana",
+     "gloss": "six-faced-one",
+     "grounds": "compound of ṣaṣ and ānana, address to the deity",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "What adornment distinguishes the five heads of the six-faced deity?",
+   "premises": [
+    "Five jewels variegate the five heads.",
+    "The six-faced one is addressed directly.",
+    "Adornment marks each head."
+   ],
+   "inference": "The icon's five heads are distinguished by jeweled variegation.",
+   "uncertainties": [
+    "Exact grammatical case of ṣaḍānana is uncertain.",
+    "Whether pañcamūrdhni is singular or plural in sense is unclear."
+   ],
+   "plain_english": "Variegated with five jewels on the five heads, O six-faced one."
+  }
+ ]
+}

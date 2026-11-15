@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[subtle](sūkṣma)+[investigators](vimarśi)+[by](bhir) [to-be-known](jñeyam)
+[subtle](sūkṣma) [discerners-by](vimarśibhiḥ) [known](jñeyam)
 
 ## mukta-m0-p75-v1852
-[that](tat)+[dream-in](svāpnān)+[own](nija)+[relatives](bandhūṃs)+[you](tvaṃ) [not](nahi) [you-grieve](śocasi) [indeed](vai) [why](kutaḥ)
+[that-dream-from](tatsvāpnāt) [own-relatives-you](nijabandhūṃstvaṃ) [not](nahi) [indeed](vai) [grieve](śocasi) [why](kutaḥ)
 
 ## mukta-m0-p75-v1853
-[emptiness](śūnyatā)+[contemplation-by](bhāvanena)+[also](api) [empty](śūnyaṃ) [unobstructed](niṣpratighaṃ) [it-may-become](bhavet)
+[emptiness-meditation-by-even](śūnyatābhāvanenāpi) [empty](śūnyaṃ) [unobstructed](niṣpratighaṃ) [become](bhavet)
 
 ## mukta-m0-p75-v1854
-[unobstructed](niṣpratigham)+[space-like](ākāśavad)+[unresisted](apratirodhakaṃ) [and](ca)
+[unobstructed](niṣpratigham) [space-like](ākāśavad) [non-resisting](apratirodhakaṃ) [and](ca)
 
 ## mukta-m0-p75-v1855
-[it-may-become](bhavet)+[then](tadā)+[self-nature-by](ātmabhāvena) [truth](satyam)+[this](etad) [o-king](mahīpate)
+[become](bhavet) [that-self-nature-by](tadātmabhāvena) [true](satyam) [this](etad) [earth-lord](mahīpate)
 
 ## mukta-m0-p75-v1856
-[this](imaṃ) [mountain](śailaṃ) [having-circumambulated](parikramya) [and](ca)+[come](ihi) [let-us-see](paśyāva) [now](samprati)
+[this](imaṃ) [mountain](śailaṃ) [circumambulating](parikramya) [come](caihi) [let's-see](paśyāva) [now](samprati)
 
 ## mukta-m0-p75-v1857
-[it-may-become](bhavet)+[therefore](ataḥ) [this](imaṃ) [mountain](śailaṃ) [having-circumambulated](parikramya) [let-us-see](paśyāva)+[thus](iti)+[says](āha) [this](imam)+[thus](iti)
+[become-thus](bhavedata) [this](imaṃ) [mountain](śailaṃ) [circumambulating](parikramya) [let's-see](paśyāvetyāha) [this-thus](imamiti)
 
 ## mukta-m0-p75-v1858
-[having-circumambulated](parikramya) [Gaṇḍa-mountain](gaṇḍaśailaṃ) [king](rājñā) [with](saha) [having-met](sametya) [indeed](tu)
+[circumambulating](parikramya) [rock-mountain](gaṇḍaśailaṃ) [king-with](rājñā) [meeting](saham) [indeed](tu)
 
 ## mukta-m0-p75-v1859
-[mountain](śailaṃ) [he-circumambulated](paricakrame) [king](rājñā) [with](saha) [having-circumambulated](parikramya) [then](tataḥ) [having-met](sametya) [own-place](svasthānam)+[having-come](āgatya)
+[mountain](śailaṃ) [circumambulated](paricakrame) [king-with](rājñā) [circumambulating](saha) [then](tataḥ) [meeting](sametya) [own-place-arriving](svasthānamāgatya)
 
 ## mukta-m0-p75-v1860
-[o-king](rājan) [seen](dṛṣṭaḥ) [this](eṣaḥ) [mountain](śailaḥ) [foot](pāda)+[gavyūti](gavyuti)+[measure-only](mātrakaḥ)
+[king](rājan) [seen](dṛṣṭa) [this](eṣa) [mountain](śailaḥ) [foot-measure-only](pādagavyutimātrakaḥ)
 
 ## mukta-m0-p75-v1861
-[wise-one](medhāvī) [disciple](śiṣya)+[instruction-in](bodhane)+[very-skillful](atikuśalaḥ) [gavyūti](gavyūtiḥ) [krośa](krośa)+[pair](yugam)
+[wise](medhāvī) [disciple-teaching-very-skilled](śiṣyabodhane'tikuśalaḥ) [gavyuti](gavyūtiḥ) [two-krosas](krośayugam)
 
 ## mukta-m0-p75-v1862
-[this](eṣaḥ) [waking](jāgrad)+[or](uta) [dream](svapnaḥ) [real](satyaḥ) [false](mithyā)+[natured](ātmakaḥ)+[or](api) [or](vā)
+[this](eṣa) [waking-or](jāgraduta) [dream](svapnaḥ) [true](satyo) [false-natured-or](mithyātmako'pi) [or](vā)
 
 ## mukta-m0-p75-v1863
-[false](mithyā)+[natured](ātmakaḥ) [indeed](eva) [or](vā) [discern](vvecaya)+[thus](iti) [remainder](śeṣaḥ)
+[false-natured](mithyātmaka) [indeed](eva) [or](vā) [discern](vivecayeti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p75-v1864
-[years](vatsarās)+[you](tvaṃ)+[experienced](anubhūtās)+[they](te) [real](satya)+[unreal](asatye) [discern](vivecaya)
+[years](vatsarāstvanubhūtāste) [indeed-experienced](anubhūtāste) [true-false](satyāsatye) [discern](vivecaya)
 
 ## mukta-m0-p75-v1865
-[from-this](asmād)+[this](etad)+[know](viddhi) [world](jagad) [ideation](bhāvanā)+[mere](mātra)+[essence](sārakam)
+[from-this](asmādetadviddhi) [know](viddhi) [world](jagad) [meditation-only-essence](bhāvanāmātrasārakam)
 
 ## mukta-m0-p75-v1866
-[dream-like](svapnavad) [ideation](bhāvanā)+[mere](mātra)+[nature](svarūpam) [not](na) [than-that](tataḥ)+[more](adhikaṃ) [anything](kiñcid)+[thus](iti)+[meaning](arthaḥ)
+[dream-like](svapnavad) [meditation-only-form](bhāvanāmātrasvarūpam) [not](na) [beyond-that](tato'dhikaṃ) [anything](kiñcit) [meaning](ityarthaḥ)
 
 ## mukta-m0-p75-v1867
-[therefore](tasmāc)+[grief](chokaṃ) [abandon](jahi) [o-king](nṛpa)+[this](etat)+[seeing](īkṣya) [dream-like](svāpna)+[equal](samaṃ) [world](jagat)
+[therefore](tasmācchokaṃ) [grief](śokaṃ) [abandon](jahi) [king](nṛpāvetya) [seeing](vekṣya) [dream-like](svāpnasamaṃ) [world](jagat)
 
 ## mukta-m0-p75-v1868
-[ideation](bhāvanā)+[mere](mātra)+[essence-ness](sāratvāt)+[of-world](jagataḥ)
+[meditation-only-essence-because-of](bhāvanāmātrasāratvāt) [world's](jagataḥ)
 
 ## mukta-m0-p75-v1869
-[mirror](darpaṇa)+[reflection](pratimaṃ) [having-considered](matvā) [situated](saṃsthitaḥ)+[you-are](asi) [as](yathā) [so](tathā)
+[mirror-like](darpaṇapratimaṃ) [considering](matvā) [established-you](saṃsthito'si) [as](yathā) [so](tathā)
 
 ## mukta-m0-p75-v1870
-[of-both](bhayoḥ)+[or](vā) [as](yathā) [not](na) [you-grieve](śocasi) [not](na) [you-rejoice](prahṛṣyasi) [and](ca)
+[fear-or](bhayorya) [joy](vā) [as](yathā) [not](na) [grieve](śocasi) [not](na) [rejoice](prahṛṣyasi) [and](ca)
 
 ## mukta-m0-p75-v1871
-[supreme](parama)+[blissful](ānandita)+[heart](svāntaḥ) [become](bhava) [quickly](śīghraṃ) [o-king](mahīpate)
+[supreme-bliss-mind](paramānanditasvānto) [become](bhava) [quickly](śīghraṃ) [earth-lord](mahīpate)
 
 ## mukta-m0-p75-v1872
-[impression](vāsanā)+[emptied](rikta)+[heart](svānta)+[manifested](abhivyakta)+[self-bliss](ātmānandaḥ) [become](bhava)+[thus](iti) [meaning](bhāvaḥ)
+[desire-empty-mind-manifest-self-bliss](vāsanāriktasvāntābhivyaktātmānando) [become](bhaveti) [thus](bhāvaḥ)
 
 ## mukta-m0-p75-v1873
-[world](jagat)+[condition](sthitiṃ) [dream-like](svāpna)+[equal](samāṃ) [having-known](jñātvā) [grief](śokaṃ) [abandoned](jahau) [quickly](drutam)
+[world-state](jagatsthitiṃ) [dream-like](svāpnasamāṃ) [knowing](jñātvā) [grief](śokaṃ) [abandoned](jahau) [quickly](drutam)
 
 ## mukta-m0-p75-v1874
-[world](jagad) [ideation](bhāvanā)+[mere](mātra)+[essence](sāram)+[thus](iti)+[having-heard](ākarṇya) [auspicious](śubhayā) [right-reasoning](sattarka)+[endowed](yutayā) [intellect](dhiyā)
+[world](jagad) [meditation-only-essence](bhāvanāmātrasāramityākarṇya) [hearing](ākarṇya) [auspicious](śubhayā) [good-reasoning-with](sattarkayutayā) [mind](dhiyā)
 
 ## mukta-m0-p75-v1875
-[o-sage-son](muniputra) [o-great-intellect](mahābuddhe) [you](tvaṃ) [higher-and-lower](parāvara)+[seer](darśanaḥ)
+[sage-son](muniputra) [great-intelligent](mahābuddhe) [you](tvaṃ) [higher-lower-seer](parāvaradarśanaḥ)

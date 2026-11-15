@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[yoga](yoga)+[fruit](phala)+[not](a)+[smeared](liptāḥ)
+[yoga+phala+ālipta](yogaphalāliptāḥ) [yoga](yoga) [fruit](phala) [anointed](ālipta)
 
 ## mukta-m0-p23-v552
-[yoga](yoga)+[fruit](phala)+[givers](dāḥ)+[by-his](tat)+[command](ājñayā)
+[yoga+phala+dā](yogaphaladā) [tadā](tadā) [ājñayā](ājñayā) [by-command](ājñayā)
 
 ## mukta-m0-p23-v553
-[by-souls](jīvaiḥ)+[to-be-worshipped](upāsyāḥ)+[by-beings](jīvaiḥ)+[adorable](upāsyāḥ)
+[jīvaiḥ](jīvaiḥ) [upāsyāḥ](upāsyāḥ) [by-living-beings](jīvaiḥ) [worshipful](upāsyāḥ)
 
 ## mukta-m0-p23-v554
-[by-souls](jīvaiḥ)+[worshipped](upāsitāḥ)+[by-beings](jīvaiḥ)+[adored](upāsitāḥ)
+[jīvaiḥ](jīvaiḥ) [upāsitāḥ](upāsitāḥ) [by-living-beings](jīvaiḥ) [worshipped](upāsitāḥ)
 
 ## mukta-m0-p23-v555
-[of-souls](jīvānāṃ)+[restraint](nigraha)+[and](anu)+[grace](graha)+[capable](kṣamāḥ)
+[jīvānām](jīvānām) [nigraha](nigraha) [anugraha](anugraha) [kṣamāḥ](kṣamāḥ)
 
 ## mukta-m0-p23-v556
-[all](sarve)+[all](sarva)+[doers](kartāraḥ)+[agents](kartāraḥ)
+[sarve](sarve) [sarva](sarva) [kartāraḥ](kartāraḥ) [all](sarve) [all-doers](sarvakartāraḥ)
 
 ## mukta-m0-p23-v557
-[sovereign](aiśvara)+[duty](dharma)+[by](taḥ)+[to-be-pleased](uṣyāḥ)
+[aiśvara](aiśvara) [dharma](dharma) [toṣyāḥ](toṣyāḥ) [divine-law](aiśvaradharma) [pleasing](toṣyāḥ)
 
 ## mukta-m0-p23-v558
-[sovereign](aiśvara)+[duty](dharma)+[doer](kṛt)+[approachable](gamyāḥ)
+[aiśvara](aiśvara) [dharma](dharma) [kṛt](kṛt) [gamyāḥ](gamyāḥ)
 
 ## mukta-m0-p23-v559
-[now](atha)+[specially](viśeṣataḥ)+[appointed](adhi)+[authorized](kṛtāḥ)
+[atha](atha) [viśeṣataḥ](viśeṣataḥ) [adhikṛtāḥ](adhikṛtāḥ) [then](atha) [especially](viśeṣataḥ)
 
 ## mukta-m0-p23-v560
-[in-creation](utpattau)+[Brahmā](brahmā)+[in-origination](utpattau)+[creator](brahmā)
+[utpattau](utpattau) [brahmā](brahmā) [in-creation](utpattau) [brahmā](brahmā)
 
 ## mukta-m0-p23-v561
-[in-preservation](sthitau)+[Viṣṇu](viṣṇuḥ)+[in-maintenance](sthitau)+[sustainer](viṣṇuḥ)
+[sthitau](sthitau) [viṣṇuḥ](viṣṇuḥ) [in-preservation](sthitau) [viṣṇu](viṣṇuḥ)
 
 ## mukta-m0-p23-v562
-[in-dissolution](pralaye)+[Śiva](śivaḥ)+[in-destruction](pralaye)+[destroyer](śivaḥ)
+[pralaye](pralaye) [śivaḥ](śivaḥ) [in-dissolution](pralaye) [śiva](śivaḥ)
 
 ## mukta-m0-p23-v563
-[in-obstacle-removal](nairvighne)+[Vighneśa](vighneśaḥ)+[in-non-obstruction](nairvighne)+[lord-of-obstacles](vighneśaḥ)
+[nairvighne](nairvighne) [vighneśaḥ](vighneśaḥ) [obstacle-free](nairvighne) [gaṇeśa](vighneśaḥ)
 
 ## mukta-m0-p23-v564
-[in-knowledge](jñāne)+[Kauśikī](kauśikī)+[in-wisdom](jñāne)+[goddess](kauśikī)
+[jñāne](jñāne) [kauśikī](kauśikī) [in-knowledge](jñāne) [kauśikī](kauśikī)
 
 ## mukta-m0-p23-v565
-[in-illumination](prakāśe)+[Sūrya](sūryaḥ)+[in-light](prakāśe)+[sun](sūryaḥ)
+[prakāśe](prakāśe) [sūryaḥ](sūryaḥ) [in-light](prakāśe) [sun](sūryaḥ)
 
 ## mukta-m0-p23-v566
-[liberation](mukti)+[givers](dāḥ)+[release](mukti)+[bestowers](dāḥ)
+[muktidāḥ](muktidāḥ) [liberation-givers](muktidāḥ) [mukti](mukti) [dāḥ](dāḥ)
 
 ## mukta-m0-p23-v567
-[lords](īśvarāḥ)+[without-beginning](anādi)+[and](an)+[without-end](antāḥ)
+[īśvarāḥ](īśvarāḥ) [anādi](anādi) [ananta](ananta) [lords](īśvarāḥ)
 
 ## mukta-m0-p23-v568
-[souls](jīvāḥ)+[possessing-knowledge](jñānavantaḥ)+[atomic-formed](aṇu+rūpāḥ)+[agents](kartāraḥ)+[yoga](yoga)+[fruit](phala)+[enjoyers](bhoktāraḥ)+[until-liberation](āmukteḥ)
+[jīvāḥ](jīvāḥ) [jñānavantaḥ](jñānavantaḥ) [aṇurūpāḥ](aṇurūpāḥ) [kartāraḥ](kartāraḥ)
 
 ## mukta-m0-p23-v569
-[with-mind](manasā)+[joined](yuktāḥ)+[with-those](tat)+[those](tat)+[sense-organs](indriyaiḥ)+[connected-and-disconnected](saṃvyayujaḥ)
+[manasā](manasā) [yuktāḥ](yuktāḥ) [tattat](tattat) [indriya](indriya)
 
 ## mukta-m0-p23-v570
-[without-beginning](anādi)+[and](an)+[without-end](antāḥ)+[atomic-formed](aṇu+rūpāḥ)+[souls](jīvāḥ)
+[anādi](anādi) [ananta](ananta) [aṇurūpāḥ](aṇurūpāḥ) [jīvāḥ](jīvāḥ)
 
 ## mukta-m0-p23-v571
-[knowledge](jñāna)+[formed](rūpāḥ)+[thus](iti)+[some](eke)
+[jñānarūpāḥ](jñānarūpāḥ) [iti](iti) [eke](eke) [knowledge-formed](jñānarūpāḥ)
 
 ## mukta-m0-p23-v572
-[supreme-bliss](parama+ānanda)+[world](loka)+[one](eka)+[part](deśaḥ)+[called-blissful](sānanda+ākhyaḥ)+[outward-facing](bahirmukhaḥ)
+[parama](parama) [ānanda](ānanda) [loka](loka) [eka-deśaḥ](eka-deśaḥ)
 
 ## mukta-m0-p23-v573
-[he-places](sthāpayati)+[he-establishes](sthāpayati)+[he-sets](sthāpayati)+[he-arranges](sthāpayati)
+[sthāpayati](sthāpayati) [establishes](sthāpayati) [sthā](sthā) [payati](payati)
 
 ## mukta-m0-p23-v574
-[not](na)+[where](yatra)+[done-good-deeds](kṛta+puṇyāḥ)+[rejoice](prahṛṣyante)+[and](ca)+[not](na)+[are-distressed](udvijante)+[done-evil-deeds](kṛta+pāpāḥ)
+[na](na) [yatra](yatra) [kṛtapuṇyāḥ](kṛtapuṇyāḥ) [prahṛṣyante](prahṛṣyante)
 
 ## mukta-m0-p23-v575
-[broken](khaṇḍa)+[axe](paraśuḥ)+[earth](bhūmiḥ)+[in-waters](apsu)+[dissolved](pralīnāḥ)+[makes](kurute)
+[khaṇḍaparaśuḥ](khaṇḍaparaśuḥ) [bhūmiḥ](bhūmiḥ) [apsu](apsu) [pralīnāḥ](pralīnāḥ)

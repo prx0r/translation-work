@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3575,
+   "rows": [
+    {
+     "surface": "śvetaṃ",
+     "gloss": "white",
+     "grounds": "color adjective in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black",
+     "grounds": "color adjective in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā+raktam",
+     "gloss": "and-red",
+     "grounds": "fused form tathā+raktam; tathā indeclinable plus raktam accusative singular",
+     "morph": "indecl.+m.acc.sg"
+    },
+    {
+     "surface": "haritaṃ",
+     "gloss": "green",
+     "grounds": "color adjective in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pārāvata+prabham",
+     "gloss": "dove-colored",
+     "grounds": "compound pārāvata+prabham; dove-colored accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which five colors are listed in this enumeration?",
+   "premises": [
+    "The enumeration includes white.",
+    "The enumeration includes black.",
+    "The enumeration includes red, green, and dove-colored."
+   ],
+   "inference": "The five colors enumerated are white, black, red, green, and dove-colored.",
+   "uncertainties": [
+    "The ritual or doctrinal context of the color list is not specified in the provided units."
+   ],
+   "plain_english": "White, black, and red; green; dove-colored."
+  }
+ ]
+}

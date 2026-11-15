@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "śakti",
+     "gloss": "power",
+     "grounds": "token as given",
+     "morph": "noun.fem.acc.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "token as given",
+     "morph": "noun.neu.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅkuraṃ",
+     "gloss": "sprout",
+     "grounds": "token as given",
+     "morph": "noun.masc.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "token as given",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "token as given",
+     "morph": "verb.3.sg.act.opt"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "token as given",
+     "morph": "noun.masc.nom.sg"
+    }
+   ],
+   "question": "Where should the wise one place the seed and sprout?",
+   "premises": [
+    "wise one places seed and sprout",
+    "placement occurs in the middle",
+    "seed and sprout are paired objects"
+   ],
+   "inference": "The verse instructs the wise one to place both seed and sprout in the middle.",
+   "uncertainties": [
+    "exact ritual referent of seed and sprout is not specified in this verse"
+   ],
+   "plain_english": "The wise one should place the seed and sprout in the middle."
+  }
+ ]
+}

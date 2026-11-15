@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3425,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the prior seed or end",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ādi+bījaṃ",
+     "gloss": "initial-seed",
+     "grounds": "compound naming the mantra's first seed",
+     "morph": "compound (ādi+bīja)"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "participle describing the seed's union",
+     "morph": "part.pass.sg.n.nom"
+    },
+    {
+     "surface": "tad+antena",
+     "gloss": "with-that-end",
+     "grounds": "compound in instrumental case with that end",
+     "morph": "compound (tad+anta)+instr.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "participle describing completion by that end",
+     "morph": "part.pass.sg.n.nom"
+    }
+   ],
+   "question": "How is the initial seed joined with its end to form the mantra?",
+   "premises": [
+    "initial seed is joined",
+    "joined with that end",
+    "endowed with that end"
+   ],
+   "inference": "The mantra's initial seed is joined and endowed with its final end.",
+   "uncertainties": [
+    "exact referent of tad in this witness"
+   ],
+   "plain_english": "That initial seed, joined with that end, is endowed with it."
+  }
+ ]
+}

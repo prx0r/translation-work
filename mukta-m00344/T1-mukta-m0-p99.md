@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p99-v2451
-[something](kiñcit) [exists](asti) [thus](iti) [to-be-noted](avadheyam)
+[kiñcid-asti-iti-avadheyam](kiñcidastītyavadheyam)
 
 ## mukta-m0-p99-v2452
-[indeterminate](nirvikalpaka) [cognition](vijñānaṃ) [by-anyone](kenacit) [not](na) [is-opposed](viruddhyate)
+[nirvikalpaka-vijñānam-kenacin-na-viruddhyate](nirvikalpakavijñānaṃ kenacinna viruddhyate)
 
 ## mukta-m0-p99-v2453
-[if](cet) [because-of-non-opposition](aviruddhatvāt) [thus](iti) [says](āha) [indeterminate](nirvikalpaka) [thus](iti)
+[ced-aviruddhatvāt-ity-āha-nirvikalpaketi](cedaviruddhatvādityāha - nirvikalpaketi)
 
 ## mukta-m0-p99-v2454
-[of-various](vicitra) [appearances](citrābhāsānāṃ) [like-a-wall](bhittivat) [well-established](suvyavasthitam)
+[vicitra-citrābhāsānām-bhittivat-suvyavasthitam](vicitracitrābhāsānāṃ bhittivat suvyavasthitam)
 
 ## mukta-m0-p99-v2455
-[indeterminate](nirvikalpakaṃ) [knowledge](jñānam) [substratum](āśrayam) [thus](iti) [meaning](arthaḥ)
+[nirvikalpakam-jñānam-āśrayam-ity-arthaḥ](nirvikalpakaṃ jñānamāśrayamityarthaḥ)
 
 ## mukta-m0-p99-v2456
-[there](tatra) [indeed](eva) [because-of-delineation](ullekhāt) [of-conceptualizations](vikalpānām) [determinate](savikalpakam)
+[tatra-eva-hi-vikalpānām-ullekhāt-savikalpakam](tatraiva hi vikalpānāmullekhāt savikalpakam)
 
 ## mukta-m0-p99-v2457
-[determinate](savikalpata) [thus](iti) [sense](bhāvaḥ)
+[savikalpaka-iti-bhāvaḥ](savikalpateti [k: lpaketi] bhāvaḥ)
 
 ## mukta-m0-p99-v2458
-[that](tat) [of-many-kinds](anekavidhaṃ) [as-effect](kārya) [and-cause](kāraṇa) [nature](ātmatayā) [situated](sthitam)
+[tad-aneka-vidham-kārya-kāraṇa-ātmatayā-sthitam](tadanekavidhaṃ kāryakāraṇātmatayā sthitam)
 
 ## mukta-m0-p99-v2459
-[of-effect-nature](kāryātmakam) [thus](iti) [of-many-kinds](anekavidham)
+[kārya-ātmakam-ity-aneka-vidham](kāryātmakamityanekavidham)
 
 ## mukta-m0-p99-v2460
-[consciousness](cit) [self](ātmā) [full](pūrṇaḥ) [indeed](eva) [would-be](syāt) [because-of-absence](vivarjanāt) [of-limitation](avaccheda)
+[cid-ātmā-pūrṇa-eva-syāt-avaccheda-vivarjanāt](cidātmā pūrṇa eva syādavacchedavivarjanāt)
 
 ## mukta-m0-p99-v2461
-[to-analyze](vivecayitum) [at-first](ādau) [fullness](pūrṇatāṃ) [explains](nirūpayati) [consciousness-self](cidātmā) [thus](iti)
+[vivecayitum-ādau-pūrṇatām-nirūpayati-cid-ātmeti](vivecayitumādau pūrṇatāṃ nirūpayati - cidātmeti)
 
 ## mukta-m0-p99-v2462
-[of-such](tathāvidha) [self](ātmanaḥ) [appearance](khyātiḥ) [as-non-fullness](apūrṇatvena) [which](yā) [situated](sthitā)
+[tathāvidha-ātmanaḥ-khyātir-apūrṇatvena-yā-sthitā](tathāvidhātmanaḥ khyātirapūrṇatvena yā sthitā)
 
 ## mukta-m0-p99-v2463
-[appearance-of-fullness](pūrṇatva+ākhyātiḥ) [thus](iti) [said](uktā) [root-ignorance](mūla+ajñānaṃ) [would-be](bhavet) [thus](iti) [connection](sambandhaḥ)
+[pūrṇatva-khyātir-ity-uktā-mūla-ajñānam-bhavet-iti-sambandhaḥ](pūrṇatvākhyātirityuktā mūlājñānaṃ bhavediti sambandhaḥ)
 
 ## mukta-m0-p99-v2464
-[of-that](tasya) [alone](eva) [sprout-like](pallava+prāyaṃ) [appearance](bhāsanam) [as-body-self](deha+ātmatva) [etc.](ādi)
+[tasya-eva-pallava-prāyam-deha-ātmatva-ādi-bhāsanam](tasyaiva pallavaprāyaṃ dehātmatvādibhāsanam)
 
 ## mukta-m0-p99-v2465
-[cessation](nivṛtte) [root-ignorance-ness](mūla+ajñānatvam) [etc.](ityādi) [to-be-known](jñeyam)
+[nivṛtte-mūla-ajñānatvam-ity-ādi-jñeyam](kh: nivṛtte] mūlājñānatvamityādi jñeyam)
 
 ## mukta-m0-p99-v2466
-[mediate](parokṣam) [and-immediate](aparokṣaṃ) [and](ca) [mediate](parokṣaṃ) [from-teacher-and-scripture](guru+śāstrataḥ)
+[parokṣam-aparokṣam-ca-parokṣam-guru-śāstrataḥ](parokṣamaparokṣaṃ ca parokṣaṃ guruśāstrataḥ)
 
 ## mukta-m0-p99-v2467
-[born](jātam) [thus](iti) [to-be-supplied](śeṣaḥ) [from-teacher-and-scripture](guru+śāstrataḥ) [thus](iti) [for-indicating](sūcanāya) [no-knowledge](na+jñānam) [of-one-not-resorting-to-teacher](anāśrita+guror)
+[jātam-iti-śeṣaḥ-guru-śāstrata-ity-anāśrita-guror-na-jñānam-iti-sūcanāya](jātamiti śeṣaḥ | guruśāstrata ityanāśritagurorna jñānamiti sūcanāya)
 
 ## mukta-m0-p99-v2468
-[of-what-kind](yādṛśaṃ) [for-you](te) [may-be](bhavet) [knowledge](jñānaṃ) [arising-from-scripture-hearing](śāstra+śruti+samudbhavam)
+[yādṛśam-te-bhavet-jñānam-śāstra-śruti-samudbhavam](yādṛśaṃ te bhavejjjñānaṃ śāstraśrutisamudbhavam)
 
 ## mukta-m0-p99-v2469
-[by-scripture-hearing](śāstra+śrutyā) [by-hearing-scripture](śāstra+śravaṇena) [arising](samudbhavaḥ) [of-which](yasya) [mediate](parokṣam) [thus](iti) [so-far](yāvat)
+[śāstra-śrutyā-śāstra-śravaṇena-samudbhavo-yasya-parokṣam-iti-yāvat](śāstraśrutyā śāstraśravaṇena samudbhavo yasya | parokṣamiti yāvat)
 
 ## mukta-m0-p99-v2470
-[immediate](aparokṣaṃ) [indeed](hi) [cognition](vijñānaṃ) [born-of-maturation-of-meditation](samādhi+paripāka+jam)
+[aparokṣam-hi-vijñānam-samādhi-paripāka-jam](aparokṣaṃ hi vijñānaṃ samādhiparipākajam)
 
 ## mukta-m0-p99-v2471
-[again](bhūyaḥ) [association-with-misfortune](anartha+saṅgaḥ) [thus](iti)
+[bhūyo-anartha-saṅgar-iti](bhūyo'narthasaṅgariti)
 
 ## mukta-m0-p99-v2472
-[meditation](samādhiḥ) [preceded-by-knowledge](jñāna+pūrvaḥ) [but](tu) [cognition](vijñānaṃ) [may-generate](janayet) [indeed](khalu)
+[samādhir-jñāna-pūrvaḥ-tu-vijñānam-janayet-khalu](samādhirjñānapūrvastu vijñānaṃ janayet khalu)
 
 ## mukta-m0-p99-v2473
-[immediate-knowledge](aparokṣa+jñānam)
+[aparokṣa-jñānam](aparokṣajñānam)
 
 ## mukta-m0-p99-v2474
-[as](yathā) [one-who-has-not-known-a-ruby](avidita+māṇikyaḥ) [seeing](paśyan) [in-a-treasure-house](kośa+gṛhe) [a-jewel](maṇim)
+[yathā-aviditam-āṇikyaḥ-paśyan-kośa-gṛhe-maṇim](yathā'viditamāṇikyaḥ paśyan kośagṛhe maṇim)
 
 ## mukta-m0-p99-v2475
-[ruby](māṇikyaṃ) [seeing](paśyan) [even](api) [this](idam) [that](tat) [ruby](māṇikyam) [thus](iti) [not](na) [knows](jānāti) [thus](iti) [construction](anvayaḥ)
+[māṇikyam-paśyann-api-idam-tan-māṇikyam-iti-na-jānāti-ity-anvayaḥ](māṇikyaṃ paśyannapidaṃ tanmāṇikyamiti na jānātītyanvayaḥ)

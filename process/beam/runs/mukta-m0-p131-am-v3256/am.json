@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p131",
  "verse": 3256,
- "question": "Where should attendants and kapālin be placed?",
+ "question": "What colors are used in hostility and expulsion rites?",
  "premises": [
-  "attendants are object",
-  "door is location",
-  "kapālin is object"
+  "Hostility uses smoke color.",
+  "Expulsion uses black color."
  ],
- "inference": "Attendants and kapālin are placed at the door.",
+ "inference": "The rites use smoke and black colors respectively.",
  "uncertainties": [
-  "sandhi split uncertain"
+  "Grammatical object omitted."
  ],
- "plain_english": "Place attendants and kapālin at the door."
+ "plain_english": "In hostility it is smoke-colored; in expulsion it is black-colored."
 }

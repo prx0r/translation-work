@@ -1,0 +1,1277 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3276,
+   "rows": [
+    {
+     "surface": "viṣasaṃharaṇaṃ",
+     "gloss": "poison-destruction",
+     "grounds": "legacy hint poison-destruction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "legacy hint seed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāvaraṃ",
+     "gloss": "stationary",
+     "grounds": "legacy hint stationary",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jaṅgamaṃ",
+     "gloss": "moving",
+     "grounds": "legacy hint moving",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "legacy hint which",
+     "morph": "rel.pron.acc.sg.n"
+    }
+   ],
+   "question": "What is the seed of poison-destruction for stationary and moving poisons?",
+   "premises": [
+    "poison-destruction has a seed",
+    "stationary and moving poisons are named",
+    "the seed is identified here"
+   ],
+   "inference": "The verse identifies the seed associated with poison-destruction for both stationary and moving poisons.",
+   "uncertainties": [
+    "exact referent of yat is not expanded"
+   ],
+   "plain_english": "The seed of poison-destruction is for stationary and moving poisons."
+  },
+  {
+   "verse": 3277,
+   "rows": [
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "legacy hint two",
+     "morph": "num.acc.du.m"
+    },
+    {
+     "surface": "kūṭena",
+     "gloss": "with-kūṭa",
+     "grounds": "legacy hint with-kūṭa",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mahāsena",
+     "gloss": "o-great-armed",
+     "grounds": "legacy hint o-great-armed",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "vāsukeḥ",
+     "gloss": "of-vāsuki",
+     "grounds": "legacy hint of-vāsuki",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "viṣanāśanam",
+     "gloss": "poison-destruction",
+     "grounds": "legacy hint poison-destruction",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does kūṭa destroy the poison of Vāsuki for the great-armed one?",
+   "premises": [
+    "two are named with kūṭa",
+    "Vāsuki's poison-destruction is stated",
+    "the great-armed one is addressed"
+   ],
+   "inference": "The verse states that two, by kūṭa, accomplish poison-destruction for Vāsuki.",
+   "uncertainties": [
+    "dvau's exact referent is unspecified"
+   ],
+   "plain_english": "Two, with kūṭa, destroy Vāsuki's poison, O great-armed one."
+  },
+  {
+   "verse": 3278,
+   "rows": [
+    {
+     "surface": "kūṭam",
+     "gloss": "kūṭa",
+     "grounds": "legacy hint kūṭa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "legacy hint having-uttered",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "wise-one",
+     "grounds": "legacy hint wise-one",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tisraḥ",
+     "gloss": "three",
+     "grounds": "legacy hint three",
+     "morph": "num.acc.pl.f"
+    },
+    {
+     "surface": "rekhāḥ",
+     "gloss": "lines",
+     "grounds": "legacy hint lines",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "legacy hint should-make",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should the wise one make after uttering kūṭa?",
+   "premises": [
+    "kūṭa is uttered",
+    "the wise one acts",
+    "three lines should be made"
+   ],
+   "inference": "After uttering kūṭa, the wise one should make three lines.",
+   "uncertainties": [
+    "placement context of the lines is not stated"
+   ],
+   "plain_english": "Having uttered kūṭa, the wise one should make three lines."
+  },
+  {
+   "verse": 3279,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "legacy hint at-night",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṣṭottaraśataṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "legacy hint hundred-and-eight",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-muttered",
+     "grounds": "legacy hint having-muttered",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "niśśaṅkhayā",
+     "gloss": "without-fear",
+     "grounds": "legacy hint without-fear",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "legacy hint should-mutter",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be muttered at night without fear after one hundred eight repetitions?",
+   "premises": [
+    "night is the time",
+    "one hundred eight are muttered",
+    "fearless muttering follows"
+   ],
+   "inference": "The verse prescribes fearless muttering at night after one hundred eight repetitions.",
+   "uncertainties": [
+    "the mantra being muttered is not named"
+   ],
+   "plain_english": "At night, having muttered one hundred eight times, one should mutter without fear."
+  },
+  {
+   "verse": 3280,
+   "rows": [
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-consecrated",
+     "grounds": "legacy hint having-consecrated",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "annena",
+     "gloss": "with-food",
+     "grounds": "legacy hint with-food",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhoktavyaṃ",
+     "gloss": "should-be-eaten",
+     "grounds": "legacy hint should-be-eaten",
+     "morph": "gerundive.n.acc.sg"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "legacy hint foot",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucidaṃśakam",
+     "gloss": "bitten-place",
+     "grounds": "legacy hint bitten-place",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be eaten after consecration with food at the bitten place?",
+   "premises": [
+    "consecration with food is performed",
+    "eating is prescribed",
+    "the foot and bitten place are named"
+   ],
+   "inference": "The verse prescribes eating, after consecration with food, at the foot and bitten place.",
+   "uncertainties": [
+    "the exact food or ritual sequence is not specified"
+   ],
+   "plain_english": "Having consecrated with food, one should eat at the foot and indeed the bitten place."
+  },
+  {
+   "verse": 3281,
+   "rows": [
+    {
+     "surface": "parivāraṃ",
+     "gloss": "retinue",
+     "grounds": "legacy hint retinue",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "legacy hint of-that",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-will-tell",
+     "grounds": "legacy hint I-will-tell",
+     "morph": "1.sg.act.fut"
+    },
+    {
+     "surface": "sāṃprataṃ",
+     "gloss": "now",
+     "grounds": "legacy hint now",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "legacy hint listen",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "ṣaṇmukha",
+     "gloss": "o-six-faced",
+     "grounds": "legacy hint o-six-faced",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "Whose retinue will be told now to the six-faced one?",
+   "premises": [
+    "a retinue is named",
+    "the speaker will tell it now",
+    "the six-faced one is addressed"
+   ],
+   "inference": "The verse announces that the retinue of that one will now be told to the six-faced listener.",
+   "uncertainties": [
+    "the antecedent of tasya is not explicit"
+   ],
+   "plain_english": "I will now tell the retinue of that one; listen, O six-faced one."
+  },
+  {
+   "verse": 3282,
+   "rows": [
+    {
+     "surface": "ṭhāḍā",
+     "gloss": "ṭhā-ḍā",
+     "grounds": "legacy hint ṭhā-ḍā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bhṛṅgavat",
+     "gloss": "like-bee",
+     "grounds": "legacy hint like-bee",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhūkakusumaprabhau",
+     "gloss": "bandhūka-flower-splendor",
+     "grounds": "legacy hint bandhūka-flower-splendor",
+     "morph": "du.acc.m"
+    }
+   ],
+   "question": "Where should ṭhāḍā be placed with bee-like bandhūka-flower splendor?",
+   "premises": [
+    "ṭhāḍā is to be placed",
+    "bee-like comparison is given",
+    "bandhūka-flower splendor is named"
+   ],
+   "inference": "The verse instructs placing ṭhāḍā with bee-like bandhūka-flower splendor.",
+   "uncertainties": [
+    "the exact bodily or diagrammatic location is not stated"
+   ],
+   "plain_english": "One should place ṭhāḍā, like a bee, with bandhūka-flower splendor."
+  },
+  {
+   "verse": 3283,
+   "rows": [
+    {
+     "surface": "ṭhī",
+     "gloss": "ṭhī",
+     "grounds": "legacy hint ṭhī",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍī",
+     "gloss": "ḍī",
+     "grounds": "legacy hint ḍī",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vitathe",
+     "gloss": "vitathe",
+     "grounds": "legacy hint vitathe",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bhadra",
+     "gloss": "bhadra",
+     "grounds": "legacy hint bhadra",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "atasīkusumaprabhau",
+     "gloss": "flax-flower-splendor",
+     "grounds": "legacy hint flax-flower-splendor",
+     "morph": "du.acc.m"
+    }
+   ],
+   "question": "Where should ṭhī and ḍī be placed with flax-flower splendor?",
+   "premises": [
+    "ṭhī and ḍī are named",
+    "placement is on vitathe",
+    "flax-flower splendor is named"
+   ],
+   "inference": "The verse instructs placing ṭhī and ḍī on vitathe with flax-flower splendor.",
+   "uncertainties": [
+    "the meaning of vitathe is not explained"
+   ],
+   "plain_english": "One should place ṭhī and ḍī on vitathe, O bhadra, with flax-flower splendor."
+  },
+  {
+   "verse": 3284,
+   "rows": [
+    {
+     "surface": "ṭhū",
+     "gloss": "ṭhū",
+     "grounds": "legacy hint ṭhū",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍū",
+     "gloss": "ḍū",
+     "grounds": "legacy hint ḍū",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bhṛṅgarāja",
+     "gloss": "bhṛṅgarāja",
+     "grounds": "legacy hint bhṛṅgarāja",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "bhṛṅgavarṇasamaprabhau",
+     "gloss": "bee-color-equal-splendor",
+     "grounds": "legacy hint bee-color-equal-splendor",
+     "morph": "du.acc.m"
+    }
+   ],
+   "question": "Where should ṭhū and ḍū be placed with bee-color equal splendor?",
+   "premises": [
+    "ṭhū and ḍū are named",
+    "placement is instructed",
+    "bee-color equal splendor is named"
+   ],
+   "inference": "The verse instructs placing ṭhū and ḍū with bee-color equal splendor.",
+   "uncertainties": [
+    "the exact placement location is not stated"
+   ],
+   "plain_english": "One should place ṭhū and ḍū, O bhṛṅgarāja, with bee-color equal splendor."
+  },
+  {
+   "verse": 3285,
+   "rows": [
+    {
+     "surface": "ṭhṝ",
+     "gloss": "ṭhṝ",
+     "grounds": "legacy hint ṭhṝ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍṝ",
+     "gloss": "ḍṝ",
+     "grounds": "legacy hint ḍṝ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "karṇikāra",
+     "gloss": "karṇikāra",
+     "grounds": "legacy hint karṇikāra",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "samaprabhau",
+     "gloss": "equal-splendor",
+     "grounds": "legacy hint equal-splendor",
+     "morph": "du.acc.m"
+    },
+    {
+     "surface": "?",
+     "gloss": "unknown",
+     "grounds": "legacy hint ?",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should ṭhṝ and ḍṝ be placed with equal splendor?",
+   "premises": [
+    "ṭhṝ and ḍṝ are named",
+    "placement is instructed",
+    "equal splendor is named"
+   ],
+   "inference": "The verse instructs placing ṭhṝ and ḍṝ with equal splendor.",
+   "uncertainties": [
+    "the final token is marked unknown"
+   ],
+   "plain_english": "One should place ṭhṝ and ḍṝ, O karṇikāra, with equal splendor."
+  },
+  {
+   "verse": 3286,
+   "rows": [
+    {
+     "surface": "ṭhḷ",
+     "gloss": "ṭhḷ",
+     "grounds": "legacy hint ṭhḷ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍḷ",
+     "gloss": "ḍḷ",
+     "grounds": "legacy hint ḍḷ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣe",
+     "gloss": "in-remainder",
+     "grounds": "legacy hint in-remainder",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māñjiṣṭha",
+     "gloss": "madder",
+     "grounds": "legacy hint madder",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "sadṛśaprabhau",
+     "gloss": "similar-splendor",
+     "grounds": "legacy hint similar-splendor",
+     "morph": "du.acc.m"
+    }
+   ],
+   "question": "Where should ṭhḷ and ḍḷ be placed in the remainder with similar splendor?",
+   "premises": [
+    "ṭhḷ and ḍḷ are named",
+    "placement is in the remainder",
+    "similar splendor is named"
+   ],
+   "inference": "The verse instructs placing ṭhḷ and ḍḷ in the remainder with similar splendor.",
+   "uncertainties": [
+    "the exact remainder location is not specified"
+   ],
+   "plain_english": "One should place ṭhḷ and ḍḷ, and in the remainder, O madder, with similar splendor."
+  },
+  {
+   "verse": 3287,
+   "rows": [
+    {
+     "surface": "ṭhai",
+     "gloss": "ṭhai",
+     "grounds": "legacy hint ṭhai",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍai",
+     "gloss": "ḍai",
+     "grounds": "legacy hint ḍai",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mukhye",
+     "gloss": "on-face",
+     "grounds": "legacy hint on-face",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṭalīkusumaprabhau",
+     "gloss": "pāṭalī-flower-splendor",
+     "grounds": "legacy hint pāṭalī-flower-splendor",
+     "morph": "du.acc.m"
+    }
+   ],
+   "question": "Where should ṭhai and ḍai be placed with pāṭalī-flower splendor?",
+   "premises": [
+    "ṭhai and ḍai are named",
+    "placement is on the face",
+    "pāṭalī-flower splendor is named"
+   ],
+   "inference": "The verse instructs placing ṭhai and ḍai on the face with pāṭalī-flower splendor.",
+   "uncertainties": [
+    "the exact face location is not specified"
+   ],
+   "plain_english": "One should place ṭhai and ḍai on the face, with pāṭalī-flower splendor."
+  },
+  {
+   "verse": 3288,
+   "rows": [
+    {
+     "surface": "ṭhau",
+     "gloss": "ṭhau",
+     "grounds": "legacy hint ṭhau",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍau",
+     "gloss": "ḍau",
+     "grounds": "legacy hint ḍau",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "edi",
+     "gloss": "on-body",
+     "grounds": "legacy hint on-body",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "legacy hint those-two",
+     "morph": "pron.acc.du.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japāyā",
+     "gloss": "of-japā-flower-splendor",
+     "grounds": "legacy hint of-japā-flower-splendor",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "kusumaprabhau",
+     "gloss": "flower-splendor",
+     "grounds": "legacy hint flower-splendor",
+     "morph": "du.acc.m"
+    }
+   ],
+   "question": "Where should ṭhau and ḍau be placed on the body with japā-flower splendor?",
+   "premises": [
+    "ṭhau and ḍau are named",
+    "placement is on the body",
+    "japā-flower splendor is named"
+   ],
+   "inference": "The verse instructs placing ṭhau and ḍau on the body with japā-flower splendor.",
+   "uncertainties": [
+    "the exact body location is not specified"
+   ],
+   "plain_english": "One should place ṭhau and ḍau on the body, those two, with japā-flower splendor."
+  },
+  {
+   "verse": 3289,
+   "rows": [
+    {
+     "surface": "ṭhaḥ",
+     "gloss": "ṭhaḥ",
+     "grounds": "legacy hint ṭhaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍaḥ",
+     "gloss": "ḍaḥ",
+     "grounds": "legacy hint ḍaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two-two",
+     "grounds": "legacy hint two-two",
+     "morph": "num.acc.du.f"
+    },
+    {
+     "surface": "dvi",
+     "gloss": "two",
+     "grounds": "legacy hint two",
+     "morph": "num.acc.du.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "jaye",
+     "gloss": "on-jaya",
+     "grounds": "legacy hint on-jaya",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "japākusuma",
+     "gloss": "japā-flower",
+     "grounds": "legacy hint japā-flower",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saprabhau",
+     "gloss": "with-splendor",
+     "grounds": "legacy hint with-splendor",
+     "morph": "du.acc.m"
+    }
+   ],
+   "question": "Where should ṭhaḥ and ḍaḥ be placed on jaya with japā-flower splendor?",
+   "premises": [
+    "ṭhaḥ and ḍaḥ are named",
+    "placement is on jaya",
+    "japā-flower splendor is named"
+   ],
+   "inference": "The verse instructs placing ṭhaḥ and ḍaḥ on jaya with japā-flower splendor.",
+   "uncertainties": [
+    "the exact meaning of jaya is not explained"
+   ],
+   "plain_english": "One should place ṭhaḥ and ḍaḥ, two and two, on jaya, with japā-flower splendor."
+  },
+  {
+   "verse": 3290,
+   "rows": [
+    {
+     "surface": "supūrṇaṃ",
+     "gloss": "full",
+     "grounds": "legacy hint full",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "candravat",
+     "gloss": "like-moon",
+     "grounds": "legacy hint like-moon",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "with-eyes",
+     "grounds": "legacy hint with-eyes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "llasaccandraṃ",
+     "gloss": "shining-moon",
+     "grounds": "legacy hint shining-moon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaḍānana",
+     "gloss": "o-six-faced",
+     "grounds": "legacy hint o-six-faced",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "What is described as full, moon-like, and shining before the six-faced one?",
+   "premises": [
+    "fullness is stated",
+    "moon-like shining is stated",
+    "the six-faced one is addressed"
+   ],
+   "inference": "The verse describes something full and moon-like, shining directly, before the six-faced one.",
+   "uncertainties": [
+    "the exact referent of the shining moon is not explicit"
+   ],
+   "plain_english": "Full, like the moon, directly shining moon, O six-faced one."
+  },
+  {
+   "verse": 3291,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "legacy hint therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartulākāraṃ",
+     "gloss": "circular-form",
+     "grounds": "legacy hint circular-form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdasya",
+     "gloss": "of-sound",
+     "grounds": "legacy hint of-sound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ṣaḍānana",
+     "gloss": "o-six-faced",
+     "grounds": "legacy hint o-six-faced",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "Why is the form of sound circular for the six-faced one?",
+   "premises": [
+    "therefore introduces a conclusion",
+    "circular form is stated",
+    "sound is the subject"
+   ],
+   "inference": "The verse concludes that the form of sound is circular, addressed to the six-faced one.",
+   "uncertainties": [
+    "the causal basis for the conclusion is not stated"
+   ],
+   "plain_english": "Therefore indeed the circular form of sound, O six-faced one."
+  },
+  {
+   "verse": 3292,
+   "rows": [
+    {
+     "surface": "tatrasthaṃ",
+     "gloss": "there-situated",
+     "grounds": "legacy hint there-situated",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "person",
+     "grounds": "legacy hint person",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "yajuḥ",
+     "gloss": "yajus",
+     "grounds": "legacy hint yajus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāsaḥ",
+     "gloss": "light",
+     "grounds": "legacy hint light",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "samudāhṛtam",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "pp.acc.sg.n"
+    }
+   ],
+   "question": "What is declared about the person situated there with yajus and light?",
+   "premises": [
+    "a person is situated there",
+    "yajus and light are named",
+    "the matter is declared"
+   ],
+   "inference": "The verse declares the person situated there together with yajus and light.",
+   "uncertainties": [
+    "the exact relation among person, yajus, and light is not explicit"
+   ],
+   "plain_english": "The person situated there, yajus, light, is declared."
+  },
+  {
+   "verse": 3293,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "legacy hint brahmā",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "hariḥ",
+     "gloss": "hari",
+     "grounds": "legacy hint hari",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "haraḥ",
+     "gloss": "hara",
+     "grounds": "legacy hint hara",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayaḥ",
+     "gloss": "three",
+     "grounds": "legacy hint three",
+     "morph": "num.nom.pl.m"
+    },
+    {
+     "surface": "trayaḥ",
+     "gloss": "three",
+     "grounds": "legacy hint three",
+     "morph": "num.nom.pl.m"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon",
+     "grounds": "legacy hint weapon",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-apply",
+     "grounds": "legacy hint should-apply",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should Brahmā, Hari, and Hara be applied as weapon?",
+   "premises": [
+    "Brahmā, Hari, and Hara are named",
+    "three and three are stated",
+    "weapon application is prescribed"
+   ],
+   "inference": "The verse prescribes applying Brahmā, Hari, and Hara, three and three, as a weapon.",
+   "uncertainties": [
+    "the exact weapon application method is not specified"
+   ],
+   "plain_english": "Brahmā, Hari, and Hara indeed, three and three, should be applied as a weapon."
+  },
+  {
+   "verse": 3294,
+   "rows": [
+    {
+     "surface": "savanatrayaṃ",
+     "gloss": "three-pressings",
+     "grounds": "legacy hint three-pressings",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "trisandhyaṃ",
+     "gloss": "three-twilights",
+     "grounds": "legacy hint three-twilights",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "three-qualities",
+     "grounds": "legacy hint three-qualities",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trivargakam",
+     "gloss": "three-aims",
+     "grounds": "legacy hint three-aims",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What threefold elements are named together with three pressings and three twilights?",
+   "premises": [
+    "three pressings are named",
+    "three twilights are named",
+    "three qualities and three aims are named"
+   ],
+   "inference": "The verse lists three pressings, three twilights, three qualities, and three aims.",
+   "uncertainties": [
+    "the doctrinal relation among these four triads is not explicit"
+   ],
+   "plain_english": "Three pressings, three twilights, and three qualities, and three aims."
+  },
+  {
+   "verse": 3295,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "legacy hint therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "legacy hint with-all-effort",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tadbījaṃ",
+     "gloss": "that-seed",
+     "grounds": "legacy hint that-seed",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyaset",
+     "gloss": "should-practice",
+     "grounds": "legacy hint should-practice",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "legacy hint always",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should that seed be practiced always with all effort?",
+   "premises": [
+    "therefore introduces a conclusion",
+    "that seed is named",
+    "practice with all effort is prescribed"
+   ],
+   "inference": "The verse concludes that that seed should always be practiced with all effort.",
+   "uncertainties": [
+    "the antecedent of that seed is not explicit"
+   ],
+   "plain_english": "Therefore, with all effort, that seed should always be practiced."
+  },
+  {
+   "verse": 3296,
+   "rows": [
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "legacy hint recitation",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "yānaṃ",
+     "gloss": "practice",
+     "grounds": "legacy hint practice",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "legacy hint should-be-done",
+     "morph": "gerundive.n.acc.sg"
+    },
+    {
+     "surface": "trisandhyaṃ",
+     "gloss": "three-twilights",
+     "grounds": "legacy hint three-twilights",
+     "morph": "adv"
+    },
+    {
+     "surface": "ghaṭikātrayam",
+     "gloss": "three-ghaṭikās",
+     "grounds": "legacy hint three-ghaṭikās",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "When should recitation and practice be done for three ghaṭikās?",
+   "premises": [
+    "recitation and practice are named",
+    "they should be done",
+    "three twilights and three ghaṭikās are named"
+   ],
+   "inference": "The verse prescribes recitation and practice at three twilights for three ghaṭikās.",
+   "uncertainties": [
+    "the exact duration of a ghaṭikā is not specified"
+   ],
+   "plain_english": "Recitation and practice should be done at three twilights for three ghaṭikās."
+  },
+  {
+   "verse": 3297,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "dvādaśavat",
+     "gloss": "twelve-like",
+     "grounds": "legacy hint twelve-like",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsarān",
+     "gloss": "years",
+     "grounds": "legacy hint years",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "abhyaset",
+     "gloss": "should-practice",
+     "grounds": "legacy hint should-practice",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "legacy hint concentrated",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "For how many years should this be practiced in a concentrated manner?",
+   "premises": [
+    "this is named",
+    "twelve-like years are stated",
+    "concentrated practice is prescribed"
+   ],
+   "inference": "The verse prescribes practicing this for twelve-like years while concentrated.",
+   "uncertainties": [
+    "the exact number of years is not explicit"
+   ],
+   "plain_english": "This should be practiced for twelve-like years, concentrated."
+  },
+  {
+   "verse": 3298,
+   "rows": [
+    {
+     "surface": "ṣoḍaśābdaṃ",
+     "gloss": "sixteen-years",
+     "grounds": "legacy hint sixteen-years",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardharātre",
+     "gloss": "at-midnight",
+     "grounds": "legacy hint at-midnight",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ghaṭikāṣṭakam",
+     "gloss": "eight-ghaṭikās",
+     "grounds": "legacy hint eight-ghaṭikās",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "abhyaset",
+     "gloss": "should-practice",
+     "grounds": "legacy hint should-practice",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "When and for how long should practice occur for sixteen years?",
+   "premises": [
+    "sixteen years are named",
+    "midnight is the time",
+    "eight ghaṭikās are named"
+   ],
+   "inference": "The verse prescribes practice for sixteen years at midnight for eight ghaṭikās.",
+   "uncertainties": [
+    "the exact practice content is not specified"
+   ],
+   "plain_english": "For sixteen years, and at midnight for eight ghaṭikās, one should practice."
+  },
+  {
+   "verse": 3299,
+   "rows": [
+    {
+     "surface": "śāśvate",
+     "gloss": "in-eternal",
+     "grounds": "legacy hint in-eternal",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sparśanaṃ",
+     "gloss": "touch",
+     "grounds": "legacy hint touch",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "jīrṇaṃ",
+     "gloss": "worn-out",
+     "grounds": "legacy hint worn-out",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śanaiḥ",
+     "gloss": "gradually",
+     "grounds": "legacy hint gradually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śanaiḥ",
+     "gloss": "gradually",
+     "grounds": "legacy hint gradually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "legacy hint best-teacher",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does the best teacher gradually touch in the eternal?",
+   "premises": [
+    "the eternal is named",
+    "touch is named",
+    "gradual action is stated"
+   ],
+   "inference": "The verse states that the best teacher gradually touches the worn-out in the eternal.",
+   "uncertainties": [
+    "the exact referent of worn-out is not explicit"
+   ],
+   "plain_english": "In the eternal, touch, worn-out, gradually, gradually, the best teacher."
+  }
+ ]
+}

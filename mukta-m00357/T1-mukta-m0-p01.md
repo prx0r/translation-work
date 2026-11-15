@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[om](oṃ) [now](atha) [therefore](ataḥ) [supreme+bliss](parama+ānandaṃ) [we-shall-explain](vyākhyāsyāmaḥ)
+[om](oṃ) [then](atha) [therefore](ataḥ) [supreme+bliss](paramānandaṃ) [we-will-explain](vyākhyāsyāmaḥ)
 
 ## mukta-m0-p01-v2
-[one](ekaḥ) [supreme](parama) [+self](ātmā) [is](asti)
+[one](ekaḥ) [supreme](parama) [soul](ātmā)
 
 ## mukta-m0-p01-v3
-[lords](īśvarāḥ) [are](santi) [seven](sapta) [in-number](saṃkhyayā)
+[lords](īśvarāḥ) [seven](sapta)
 
 ## mukta-m0-p01-v4
-[some](kecit) [six](ṣaṭ) [they](te) [accept](paḍicchanti)
+[some](kecit) [desire](paḍicchanti)
 
 ## mukta-m0-p01-v5
-[some](kecit) [five](pañca) [they](te) [accept](paḍicchanti)
+[some](kecit) [five](pañca)
 
 ## mukta-m0-p01-v6
-[innumerable](asaṃkhyā) [individual-souls](jīvāḥ) [are](santi) [there](santi)
+[countless](asaṃkhyā) [souls](jīvāḥ)
 
 ## mukta-m0-p01-v7
-[there](tatra) [supreme-self’s+command](parama+ātma+ājñā) [everywhere](sarvataḥ) [pervading](vyāptā)
+[there](tatra) [supreme+soul+knowledge](paramātmājñā) [everywhere](sarvatas) [pervaded](vyāptā)
 
 ## mukta-m0-p01-v8
-[then](tataḥ) [lord’s+command](īśvara+ājñā) [less-than-that](adarataḥ) [pervading](vyāptā)
+[then](tata) [lord+knowledge](īśvarājñā) [from-there](darataḥ) [pervaded](vyāptā)
 
 ## mukta-m0-p01-v9
-[then](tataḥ) [individual-soul’s+command](jīva+ājñā) [less-than-that](adarataḥ) [pervading](vyāptā)
+[then](tato) [soul+knowledge](jīvājñā) [from-there](darataḥ) [pervaded](vyāptā)
 
 ## mukta-m0-p01-v10
-[therefore](tasmāt) [by-commanded](āśiṣṭena) [by-strongest](baliṣṭhena) [by-firmest](draḍhiṣṭhena) [by-king](rājñā) [in-protection+of-dharma](dharma+pālane) [it-should-be](bhavitavyam)
+[therefore](tasmāt) [strongest](āśiṣṭena) [stronger](baliṣṭhena) [firmest](draḍhiṣṭhena) [by-king](rājñā) [in-dharma-protection](dharmapālane) [must-be](bhavitavyam)
 
 ## mukta-m0-p01-v11
-[not-doing](akurvan) [protection+of-dharma](dharma+pālanaṃ) [hell](narakaṃ) [he-attains](saṃpadyate)
+[not-doing](akurvan) [dharma-protection](dharmapālanam) [hell](narakaṃ) [becomes](saṃpadyate)
 
 ## mukta-m0-p01-v12
-[of-individual-souls](jīvānāṃ) [three](tisraḥ) [destinies](gatayaḥ) [are](santi)
+[of-souls](jīvānām) [three](tisraḥ) [paths](gatayaḥ)
 
 ## mukta-m0-p01-v13
-[hell](narakaḥ) [is](asti) [one-destiny](gatiḥ) [thus](iti)
+[hell](narakaḥ)
 
 ## mukta-m0-p01-v14
-[heaven](svargaḥ) [is](asti) [one-destiny](gatiḥ) [thus](iti)
+[heaven](svargaḥ)
 
 ## mukta-m0-p01-v15
-[of-the-lord](aiśvaraḥ) [world](lokaḥ) [is](asti) [one-destiny](gatiḥ)
+[divine](aiśvaraḥ) [world](lokaḥ)
 
 ## mukta-m0-p01-v16
-[sin](pāpaṃ) [doing](kurvantaḥ) [to-hell](narakam) [they-go](gacchanti)
+[sin](pāpam) [doing](kurvantaḥ) [hell](narakam)
 
 ## mukta-m0-p01-v17
-[merit](puṇyaṃ) [doing](kurvantaḥ) [to-heaven](svargam) [they-go](gacchanti)
+[merit](puṇyam) [doing](kurvantaḥ) [heaven](svargam)
 
 ## mukta-m0-p01-v18
-[worship+of-the-lord](aiśvaram+upāsanaṃ) [doing](kurvantaḥ) [to-the-lord’s](aiśvaraṃ) [world](lokam) [they-go](gacchanti)
+[divine](aiśvaram) [worship](upāsanam) [doing](kurvantaḥ) [divine](aiśvaram) [world](lokam)
 
 ## mukta-m0-p01-v19
-[veda+authority+asserting](veda+prāmāṇya+vādīni) [doctrines](matāni) [they-enter](praveśayanti) [therein](tatra)
+[Veda-authority-doctrines](vedaprāmāṇyavādīni) [opinions](matāni) [introduce](praveśayanti)
 
 ## mukta-m0-p01-v20
-[thus](iti) [in-Pārānanda-sūtra](pārānanda+sūtre) [first+section](prathama+āhnikaṃ) [completed](saṃpūrṇam)
+[thus](iti) [Pārānanda-sūtra](pārānandasūtre) [first-chapter](prathamāhnikam) [complete](saṃpūrṇam)
 
 ## mukta-m0-p01-v21
-[om](oṃ) [of-believers](āstikānāṃ) [veda+authority+asserting](veda+prāmāṇya+vādīni) [scriptures](śāstrāṇi) [twofold](dvividhāni)
+[om](oṃ) [of-āstikas](āstikānām) [Veda-authority-doctrines](vedaprāmāṇyavādīni) [scriptures](śāstrāṇi) [twofold](dvividhāni)
 
 ## mukta-m0-p01-v22
-[refinement](saṃskāra) [+expounding](pratipādakāni) [scriptures](śāstrāṇi) [are](santi)
+[purification-explaining](saṃskārapratipādakāni)
 
 ## mukta-m0-p01-v23
-[doctrine](mata) [+expounding](pratipādakāni) [scriptures](śāstrāṇi) [are](santi)
+[doctrine-explaining](matapratipādakāni)
 
 ## mukta-m0-p01-v24
-[duties+procedure+collection](itikartavyatā+kalāpa) [+expounding](pratipādakāni) [refinement](saṃskāra) [+scriptures](śāstrāṇi)
+[duty-collection-explaining](itikartavyatākalāpapratipādakāni) [purification-scriptures](saṃskāraśāstrāṇi)
 
 ## mukta-m0-p01-v25
-[world+individual-soul+lord+supreme-self+liberation+etc.](jagat+jīva+īśvara+parama+ātma+mukti+ādi) [+expounding](pratipādakāni) [doctrine](mata) [+scriptures](śāstrāṇi)
+[world-soul-lord-supreme-soul-liberation-etc-explaining](jagajjīveśvaraparamātmamuktyādipratipādakāni) [doctrine-scriptures](mataśāstrāṇi)

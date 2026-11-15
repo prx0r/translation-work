@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p86-v2126
-[in-ocean](sindhau) [sunk](nimajjitāḥ) [brahmins](viprāḥ) [by-hundreds](śataśaḥ) [and](atha) [by-thousands](sahasraśaḥ)
+[in-ocean](sindhau) [immersed](jimajjitāḥ) [brahmins](viprāḥ) [hundreds](śataśaḥ) [then](atha) [thousands](sahasraśaḥ)
 
 ## mukta-m0-p86-v2127
-[sunk](nimajjitāḥ) [immersed](nimajjitāḥ) [plunged](nimajjitāḥ) [submerged](nimajjitāḥ)
+[immersed](nimajjitāḥ)
 
 ## mukta-m0-p86-v2128
-[of-Varuna](vāruṇaṃ) [sacrifice](yajñam) [having-reached](āsādya) [rejoiced](mumuduḥ) [honored](pūjitāḥ) [greatly](bhṛśam)
+[varuna](vāruṇam) [sacrifice](yajñam) [having-approached](āsādya) [rejoiced](mumuduḥ) [honored](pūjitāḥ) [greatly](bhṛśam)
 
 ## mukta-m0-p86-v2129
-[by-Varuna](varuṇena) [honored](pūjitāḥ) [by-Varuna](varuṇena) [honored](pūjitāḥ)
+[by-varuna](varuṇena) [honored](pūjitāḥ)
 
 ## mukta-m0-p86-v2130
-[Aṣṭāvakra](aṣṭāvakraḥ) [having-arrived](samāgatya) [knowledge](jñāna) + [disputation](vaitaṇḍya) + [speaker](jalpakaḥ)
+[astavakra](aṣṭāvakraḥ) [having-arrived](samāgatya) [knowledge-disputant](jñānavaitaṇḍyajalpakaḥ)
 
 ## mukta-m0-p86-v2131
-[own-father](svapitaram) [sunk](majjitam) [Aṣṭāvakra](aṣṭāvakraḥ) [having-heard](śrutvā) [captious-disputation](vaitaṇḍyam) [wrangling](vitaṇḍā)
+[own-father](svapitaram) [immersed](majjitam) [astavakra](aṣṭāvakraḥ) [having-heard](śrutvā) [disputation](vaitaṇḍyam) [disputation](vitaṇḍā)
 
 ## mukta-m0-p86-v2132
-[then](atha) [having-become-manifest](prakāśam) + [having-attained](āpannaḥ) [son-of-Varuna](vāruṇiḥ) [brahmin](dvija) + [chiefs](mukhyakān)
+[then](atha) [manifest](prakāśam) [having-attained](āpannaḥ) [varuna](vāruṇiḥ) [best-brahmins](dvijamukhyakān)
 
 ## mukta-m0-p86-v2133
-[brahmin](vipra) + [guise](veṣam) [having-abandoned](parityaktavān) [thus](iti) [namely](yāvat)
+[brahmin-form](vipraveṣam) [having-abandoned](parityaktavān) [thus](iti) [as-much](yāvat)
 
 ## mukta-m0-p86-v2134
-[then](atha) [having-arrived](āgateṣu) [brahmins](vipreṣu) [of-Kahola](kahola) + [son](tanayaḥ) [greatly](bhṛśam)
+[then-arrived](athāgateṣu) [brahmins](vipreṣu) [kahola-son](kaholatanayaḥ) [greatly](bhṛśam)
 
 ## mukta-m0-p86-v2135
-[by-Aṣṭāvakra](aṣṭāvakreṇa) [insulted](vimatāḥ) [brahmins](viprāḥ) [sorrow](khedam) [attained](upāgatāḥ)
+[by-astavakra](aṣṭāvakreṇa) [disrespected](vimatāḥ) [brahmins](viprāḥ) [grief](khedam) [having-obtained](upāgatāḥ)
 
 ## mukta-m0-p86-v2136
-[insulted](vimatāḥ) [disrespected](avamānitāḥ) [rejected](apa) [insulted](vimatāḥ)
+[disrespected](vimatāḥ) [dishonored](avamānitāḥ) [variant](apa)
 
 ## mukta-m0-p86-v2137
-[them](tān) [having-consoled](samāśvāsya) [brahmins](viprān) [she](sā) [ochre](kāṣāya) + [garment](ambara) + [wearing](vāsinī)
+[them](tān) [having-comforted](samāśvāsya) [brahmins](viprān) [she](sā) [saffron-robed](kāṣāyāmbaravāsinī)
 
 ## mukta-m0-p86-v2138
-[of-Aṣṭāvakra](aṣṭāvakra) + [pride](darpa) + [for-crushing](bhañjanāya) [refuge](śaraṇam) [went](yayuḥ)
+[for-astavakra-pride-breaking](aṣṭāvakradarpabhañjanāya) [refuge](śaraṇam) [went](yayuḥ)
 
 ## mukta-m0-p86-v2139
 [assembly](sabhām) [having-approached](upetya) [spoke](provāca) [by-king](nṛpeṇa) [well-honored](abhisupūjitā)
 
 ## mukta-m0-p86-v2140
-[ever](nitya) + [young](taruṇī) [by-yoga](yogena) [old-age](jarā) + [devoid](varjitā)
+[ever-youthful](nityataruṇī) [by-yoga](yogena) [old-age-removed](jarāvarjitā)
 
 ## mukta-m0-p86-v2141
-[by-you](tvayā) [liberated](vimocitāḥ) [brahmins](viprāḥ) [in-debate](vāde) [having-defeated](nirjitya) [son-of-Varuna](vāruṇim)
+[by-you](tvayā) [freed](vimocitāḥ) [brahmins](viprāḥ) [in-debate](vāde) [having-defeated](nirjitya) [varuna](vāruṇim)
 
 ## mukta-m0-p86-v2142
-[which](yat) + [state](padam) [known](viditam) [all](sarva) + [immortality](amṛtatva) + [revealing](pratipādakam)
+[which-state](yatpadam) [known](viditam) [all-immortality](sarvāmṛtatvam) [establishing](pratipādakam)
 
 ## mukta-m0-p86-v2143
-[all](sarva) + [immortality](amṛtatvam) [unlimited](aparicchinna) + [immortality](amṛtatvam)
+[all-immortality](sarvāmṛtatvam) [limitless-immortality](aparicchinnāmṛtatvam)
 
 ## mukta-m0-p86-v2144
-[unknown](avijñātam) [not](na) [anything](kiñcit) [would-be](syāt) [desirable](āśāsyam) [or](vā) [not](na) [anything](kiñcana)
+[unknown](avijñātam) [not](na) [anything](kiñcit) [would-be](syāt) [desired](āśāsyam) [or](vā) [not](na) [anything](kiñcana)
 
 ## mukta-m0-p86-v2145
-[desirable](āśāsyam) [to-be-wished](vāñchitam) [desirable](āśāsyam) [to-be-wished](vāñchitam)
+[desired](āśāsyam) [wished](vāñchitam)
 
 ## mukta-m0-p86-v2146
-[by-ascetic-woman](tāpasyā) [thus](evam) [questioned](samāpṛṣṭaḥ) [of-Kahola](kahola) + [son](tanayaḥ) [spoke](abravīt)
+[by-ascetic](tāpasya) [thus](evam) [questioned](samāpṛṣṭaḥ) [kahola-son](kaholatanayaḥ) [said](abravīt)
 
 ## mukta-m0-p86-v2147
-[of-such-nature](evaṃvidham) [unknowable](avedyam) [that](tat) + [state](padam) [known](viditam) [if](cet) [speak](vada) [to-me](mām) [near-me](upa) [in-my-presence](matsamīpe)
+[such](evaṃvidham) [unknowable](avedyam) [that-state](tatpadam) [known](viditam) [if](ced) [speak](vada) [me](mām) [near](upa) [my-side](matsamīpe)
 
 ## mukta-m0-p86-v2148
-[not](na) [by-me](me) [indeed](hi) [unknown](aviditam) [in-world](loke) [is](asti) [anything](kiñcit) [however-small](kiyattvidam)
+[not](na) [my](me) [indeed](hi) [unknown](aviditam) [in-world](loke) [indeed](hi) [is](asti) [anything](kiñcit) [how-much](kiyattu) [this](idam)
 
 ## mukta-m0-p86-v2149
-[very-little](atyalpam) [thus](iti) [namely](yāvat) [very-little](atyalpam)
+[very-small](atyalpam) [thus](iti) [as-much](yāvat)
 
 ## mukta-m0-p86-v2150
-[which](yat) [you](tvam) [ask](pṛcchasi) [that](tat) [I-shall-tell](vakṣye) [listen](śṛṇu) [O-ascetic-woman](tāpasi) [in-truth](tattvataḥ)
+[what](yat) [you](tvam) [ask](pṛcchasi) [that](tad) [will-speak](vakṣye) [hear](śṛṇu) [ascetic](tāpasi) [truly](tattvataḥ)

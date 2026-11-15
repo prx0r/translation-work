@@ -1,0 +1,551 @@
+{
+ "song": "kjn-p26",
+ "items": [
+  {
+   "verse": 638,
+   "rows": [
+    {
+     "surface": "bhūloke",
+     "gloss": "in-earth-world",
+     "grounds": "locative of bhūloka",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devatānāñ",
+     "gloss": "of-gods",
+     "grounds": "genitive plural of devatā",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitavyaṃ",
+     "gloss": "to-be-told",
+     "grounds": "passive future participle",
+     "morph": "ptp.nom.sg.n"
+    },
+    {
+     "surface": "kulāgame",
+     "gloss": "in-kula-tradition",
+     "grounds": "locative of kulāgama",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What must be told in the kula tradition regarding gods on earth?",
+   "premises": [
+    "gods are named in the verse",
+    "the kula tradition is the setting",
+    "telling is required there"
+   ],
+   "inference": "The verse states that in the kula tradition, what concerns gods on earth must be told.",
+   "uncertainties": [
+    "exact scope of kathitavyaṃ"
+   ],
+   "plain_english": "In the kula tradition, what concerns the gods on earth is to be told."
+  },
+  {
+   "verse": 639,
+   "rows": [
+    {
+     "surface": "samayācārasamopetaṃ",
+     "gloss": "vow-conduct-endowed-with",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vijñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative of vijñāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvaitavāsinām",
+     "gloss": "of-duality-dwellers",
+     "grounds": "genitive plural compound",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "What knowledge is endowed with vow and conduct for duality-dwellers?",
+   "premises": [
+    "knowledge is the object",
+    "vow and conduct qualify it",
+    "duality-dwellers are the recipients"
+   ],
+   "inference": "The verse describes knowledge endowed with vow and conduct for those who dwell in duality.",
+   "uncertainties": [
+    "precise doctrinal sense of dvaitavāsin"
+   ],
+   "plain_english": "Knowledge endowed with vow and conduct belongs to those who dwell in duality."
+  },
+  {
+   "verse": 640,
+   "rows": [
+    {
+     "surface": "vatsalaḥ",
+     "gloss": "affectionate",
+     "grounds": "nominative adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sarvalokānāṃ",
+     "gloss": "of-all-people",
+     "grounds": "genitive plural compound",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sarvajīvadayānvitaḥ",
+     "gloss": "with-compassion-for-all-beings",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Who is affectionate and endowed with compassion for all beings?",
+   "premises": [
+    "affection is attributed",
+    "all people are referenced",
+    "compassion for all beings is present"
+   ],
+   "inference": "The verse attributes affection and universal compassion to the subject.",
+   "uncertainties": [
+    "subject is not explicit in these tokens"
+   ],
+   "plain_english": "Affectionate and endowed with compassion for all beings, he regards all people."
+  },
+  {
+   "verse": 641,
+   "rows": [
+    {
+     "surface": "kulabhāvaparāḥ",
+     "gloss": "kula-nature-devoted",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "kṛtakṛtyā",
+     "gloss": "one-whose-purpose-accomplished",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "surādhipāḥ",
+     "gloss": "gods-lords",
+     "grounds": "nominative plural compound",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Who are devoted to kula nature and have accomplished their purpose?",
+   "premises": [
+    "all are devoted to kula nature",
+    "their purpose is accomplished",
+    "they are lords of gods"
+   ],
+   "inference": "The verse identifies all lords of gods as devoted to kula nature and purpose-accomplished.",
+   "uncertainties": [
+    "whether surādhipāḥ is subject or epithet"
+   ],
+   "plain_english": "All lords of gods, devoted to kula nature, have accomplished their purpose."
+  },
+  {
+   "verse": 642,
+   "rows": [
+    {
+     "surface": "saṃsārataruvistīrṇam",
+     "gloss": "of-saṃsāra-tree-spread-out",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chinnaṃ",
+     "gloss": "cut",
+     "grounds": "past participle",
+     "morph": "ptp.acc.sg.n"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "instrumental/ablative pronoun",
+     "morph": "pron.abl.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.m"
+    }
+   ],
+   "question": "What has been cut today by the lord?",
+   "premises": [
+    "saṃsāra tree is spread out",
+    "cutting is stated",
+    "the lord is addressed"
+   ],
+   "inference": "The verse says the spread-out tree of saṃsāra has been cut today by the lord.",
+   "uncertainties": [
+    "exact grammatical case of saṃsārataruvistīrṇam"
+   ],
+   "plain_english": "O lord, today the spread-out tree of saṃsāra has been cut by you."
+  },
+  {
+   "verse": 643,
+   "rows": [
+    {
+     "surface": "daśakoṭis",
+     "gloss": "ten-crores",
+     "grounds": "numeral compound",
+     "morph": "num.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cārddhaṃ",
+     "gloss": "and-half",
+     "grounds": "numeral compound",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental of nāman",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "genitive of jñāna",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nirṇayaḥ",
+     "gloss": "determination",
+     "grounds": "nominative of nirṇaya",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the determined measure of knowledge by name?",
+   "premises": [
+    "ten crores and a half are given",
+    "knowledge is the measured object",
+    "determination is stated"
+   ],
+   "inference": "The verse gives a numerical determination of knowledge by name.",
+   "uncertainties": [
+    "whether daśakoṭis is nominative or accusative"
+   ],
+   "plain_english": "Ten crores and a half is the determined measure of knowledge by name."
+  },
+  {
+   "verse": 644,
+   "rows": [
+    {
+     "surface": "kāmarūpe",
+     "gloss": "in-kāmarūpa",
+     "grounds": "locative of kāmarūpa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "accusative pronoun",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "accusative of śāstra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yoginīnāṃ",
+     "gloss": "of-yoginīs",
+     "grounds": "genitive plural of yoginī",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "locative of gṛha",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "repeated locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is this scripture of the yoginīs located?",
+   "premises": [
+    "kāmarūpa is the place",
+    "this scripture belongs to yoginīs",
+    "house is repeated"
+   ],
+   "inference": "The verse places this scripture of the yoginīs in Kāmarūpa, house by house.",
+   "uncertainties": [
+    "whether gṛhe gṛhe means every house"
+   ],
+   "plain_english": "In Kāmarūpa, this scripture of the yoginīs is in every house."
+  },
+  {
+   "verse": 645,
+   "rows": [
+    {
+     "surface": "kurvanti",
+     "gloss": "they-do",
+     "grounds": "third plural active verb",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "jñānaprasādataḥ",
+     "gloss": "by-knowledge-grace",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What do they constantly do by the grace of knowledge?",
+   "premises": [
+    "action is constant",
+    "the goddess is addressed",
+    "knowledge grace is the cause"
+   ],
+   "inference": "The verse says they constantly act by the grace of this knowledge.",
+   "uncertainties": [
+    "exact action of kurvanti"
+   ],
+   "plain_english": "O goddess, by the grace of this knowledge they constantly act."
+  },
+  {
+   "verse": 646,
+   "rows": [
+    {
+     "surface": "kāmākhye",
+     "gloss": "in-kāmākhyā",
+     "grounds": "locative of kāmākhyā",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gīyate",
+     "gloss": "is-sung",
+     "grounds": "third singular passive verb",
+     "morph": "v.3.sg.pass-pres"
+    },
+    {
+     "surface": "nāthe",
+     "gloss": "o-lord",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "mahāmatsyodarasthitiḥ",
+     "gloss": "great-fish-womb-state",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What is sung in Kāmākhyā concerning the great fish womb?",
+   "premises": [
+    "Kāmākhyā is the place",
+    "singing is stated",
+    "great fish womb state is named"
+   ],
+   "inference": "The verse says the state of the great fish womb is sung in Kāmākhyā.",
+   "uncertainties": [
+    "whether nāthe is direct address or part of compound"
+   ],
+   "plain_english": "O lord, in Kāmākhyā the state of the great fish womb is sung."
+  },
+  {
+   "verse": 647,
+   "rows": [
+    {
+     "surface": "candradvīpavinirgate",
+     "gloss": "in-candradvīpa-emerged",
+     "grounds": "locative compound",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "dvāviṃśatitamaḥ",
+     "gloss": "twenty-second",
+     "grounds": "ordinal adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative of paṭala",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which chapter emerged in Candradvīpa?",
+   "premises": [
+    "Candradvīpa is the place",
+    "twenty-second is the ordinal",
+    "chapter is the subject"
+   ],
+   "inference": "The verse identifies the twenty-second chapter as emerged in Candradvīpa.",
+   "uncertainties": [
+    "whether vinirgate modifies chapter or place"
+   ],
+   "plain_english": "The twenty-second chapter emerged in Candradvīpa."
+  },
+  {
+   "verse": 648,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "mama",
+     "gloss": "to-me",
+     "grounds": "genitive/dative pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "ācakṣva",
+     "gloss": "tell",
+     "grounds": "second singular imperative",
+     "morph": "v.2.sg.imp-act"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of bhakti",
+     "morph": "n.instr.sg.f"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "they-know",
+     "grounds": "third plural active verb",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locative of bhūtala",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What should the lord tell with devotion that people know on earth?",
+   "premises": [
+    "telling is requested",
+    "devotion qualifies it",
+    "people on earth know it"
+   ],
+   "inference": "The verse requests the lord to tell, with devotion, what people know on earth.",
+   "uncertainties": [
+    "exact referent of tat"
+   ],
+   "plain_english": "O lord of gods, tell me with devotion that which they know on earth."
+  },
+  {
+   "verse": 649,
+   "rows": [
+    {
+     "surface": "kapotikā",
+     "gloss": "dove-woman",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛdhrī",
+     "gloss": "vulture-woman",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "haṃsī",
+     "gloss": "swan-woman",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakhī",
+     "gloss": "nail-woman",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which women are named in this list?",
+   "premises": [
+    "dove woman is named",
+    "vulture woman is named",
+    "swan woman and nail woman are named"
+   ],
+   "inference": "The verse lists dove, vulture, swan, and nail women.",
+   "uncertainties": [
+    "whether the list is exhaustive"
+   ],
+   "plain_english": "Dove woman, likewise vulture woman, swan woman indeed, and nail woman likewise."
+  }
+ ]
+}

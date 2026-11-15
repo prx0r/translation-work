@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p143",
  "verse": 3560,
- "question": "What ritual sequence applies equally to recitation, libation, fire offering, worship, and bathing?",
+ "question": "Which additional sages appear in the enumeration?",
  "premises": [
-  "Multiple ritual acts are listed.",
-  "The same order applies to them.",
-  "This order is to be followed."
+  "Vālmīki and Vāmadeva are named",
+  "Parāśara Vyāsa and Bhārgava are named"
  ],
- "inference": "This same sequence is used in recitation, libation, fire offering, worship, and bathing.",
- "uncertainties": [],
- "plain_english": "This same order applies also in recitation, libation, fire offerings, worship, and bathing."
+ "inference": "The passage continues the sage list.",
+ "uncertainties": [
+  "exact grouping"
+ ],
+ "plain_english": "Vālmīki, Vāmadeva, Parāśara, Vyāsa, and Bhārgava are named."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[knower-etc.](ghamātṛkā) [ended](avasitā])
+[ghamātṛkā-avasitā](ghamātṛkā'vasitā)
 
 ## mukta-m0-p82-v2027
-[in-place](deśe) [also](api) [thus-says](iti) [says](āha) [-](brahmaṇā) [thus](iti)
+[in-place](deśe) [also](api) [thus-says](ityāha) [brahmaṇa-thus](brahmaṇeti)
 
 ## mukta-m0-p82-v2028
-[thus](evaṃ) [and](ca) [both](dvayam) [also](api) [here](atra) [real](satyaṃ) [and](ca) [unreal](asatyam) [indeed](eva) [and](ca)
+[thus](evaṃ) [and](ca) [two](dvayam) [here](apyatra) [truth](satyaṃ) [and](ca) [untruth](asatyam) [only](eva) [and](ca)
 
 ## mukta-m0-p82-v2029
-[non-appearance](anavabhāsana) [form](rūpa) [sublation](bādha) [existence](sattvāt) [in-ultimate-sense](paramārthataḥ) [unreal](asatyam) [also](api)
+[non-manifest-form-negation](anavabhāsanarūpa) [refutation-existence](bādhasattvāt) [ultimately](paramārthataḥ) [untrue](asatyam) [also](api)
 
 ## mukta-m0-p82-v2030
-[having-contemplated](vibhāvya) [again](bhūyaḥ) [there](tatra) [indeed](eva) [contemplate](bhāvaya) [infinite](ananta) [union](yojanam)
+[having-manifested](vibhāvya) [again](bhūyaḥ) [there-only](tatraiva) [meditate](bhāvaya) [endless-union](anantayojanam)
 
 ## mukta-m0-p82-v2031
 [connection](sambandhaḥ)
 
 ## mukta-m0-p82-v2032
-[therefore](tasmāt) [contemplation](bhāvana) [mere](mātra) [nature](ātma) [form](rūpam) [this](etat) [world](jagat) [outside](bahiḥ)
+[therefore](tasmād) [meditation-only-self-form](bhāvanamātrātmarūpam) [this-world](etajjagad) [outside](bahiḥ)
 
 ## mukta-m0-p82-v2033
 [connection](sambandhaḥ)
 
 ## mukta-m0-p82-v2034
-[therefore](tasmāt) [external](bāhya) [nature](ātmaka) [unmanifest](avyakta) [ground](bhittau) [picture](citra) [made-of](mayaṃ) [world](jagat)
+[therefore](tasmād) [external-self-made-unmanifest-wall](bāhyātmakāvyaktabhittau) [picture-like](citramayaṃ) [world](jagat)
 
 ## mukta-m0-p82-v2035
-[thus](tathā) [unmanifest](avyakta) [ground](bhitti) [picture](citra) [like](kalpaṃ) [world](jagat) [manifest](vyakta) [ground](bhitti) [mere](mātram) [thus](iti) [connection](sambandhaḥ)
+[thus](tathā) [unmanifest-wall-picture-like](avyaktabhitticitrakalpaṃ) [world](jagad) [manifest-wall-only](vyaktabhittimātram) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p82-v2036
-[therefore](ataḥ) [indeed](eva) [after-long-time](cirāt) [reachable](gamyaḥ) [distant](dūra) [place](deśaḥ) [also](api) [for-yogin](yoginaḥ)
+[therefore](ata) [indeed](eva) [long](cirād) [reachable](gamyo) [far-place](dūradeśo) [also](api) [of-yogin](yoginaḥ)
 
 ## mukta-m0-p82-v2037
-[consciousness](cit) [self](ātma) [other-than](vyatirekeṇa) [of-world](jagataḥ) [unreality](asatyatvāt) [indeed](eva) [for-yogin](yoginaḥ) [they-see](paśyanti) [thus](iti) [construal](anvayaḥ)
+[consciousness-self-apart](cidātmavyatirekeṇa) [of-world](jagataḥ) [untruth](asatyatvāt) [indeed](eva) [of-yogin](yoginaḥ) [see](paśyanti) [thus-connection](ityanvayaḥ)
 
 ## mukta-m0-p82-v2038
-[therefore](tasmāt) [far](dūraṃ) [near](samīpaṃ) [or](vā) [long-time](ciraṃ) [quickly](śīghram) [or](atha) [also](api) [or](vā)
+[therefore](tasmād) [far](dūraṃ) [near](samīpaṃ) [or](vā) [long](ciraṃ) [quick](śīghram) [also](athāpi) [or](vā)
 
 ## mukta-m0-p82-v2039
-[having-ascertained](niścitya) [thus](evaṃ) [abandon](tyaja) [delusion](bhrāntiṃ) [pure](śuddha) [consciousness](cit) [contemplation](bhāvana) [course](kramāt)
+[having-decided](niścitya) [thus](evaṃ) [abandon](tyaja) [delusion](bhrāntiṃ) [pure-consciousness-meditation-order](śuddhacidbhāvanakramāt)
 
 ## mukta-m0-p82-v2040
-[thus](iti) [having-heard](śrutvā) [sage](muni) [son](suta) [speech](vacanaṃ) [sage](muni) [best](sattamaḥ)
+[thus](iti) [having-heard](śrutvā) [sage-son-speech](munisutavacanaṃ) [best-sage](munisattamaḥ)
 
 ## mukta-m0-p82-v2041
-[then](tataḥ) [reality](satyatva) [notion](abhimāna) [cessation](nivṛtti) [after](anantaram)
+[then](tataḥ) [truth-notion-removal-after](satyatvābhimānanivṛttyanantaram)
 
 ## mukta-m0-p82-v2042
-[absorption](samādhi) [practice](abhyāsa) [by-means-of](yogena) [having-accomplished](saṃsādhya) [own](nija) [contemplation](bhāvanām)
+[meditation-practice-yoga](samādhyabhyāsayogena) [having-accomplished](saṃsādhya) [own-meditation](nijabhāvanām)
 
 ## mukta-m0-p82-v2043
-[disposition](āśayaḥ) [whose](yasya)
+[intent](āśayo) [whose](yasya)
 
 ## mukta-m0-p82-v2044
-[body](deha) [appearance](ābhāsam) [then](atha) [having-uprooted](unmūlya) [great](mahā) [space](gagana) [resorting-to](saṃśrayaḥ)
+[body-appearance](dehābhāsam) [then-uprooting](athonmūlya) [great-sky-refuge](mahāgaganasaṃśrayaḥ)
 
 ## mukta-m0-p82-v2045
-[non-conceptual](nirvikalpa) [supreme](para) [consciousness](saṃvit)
+[nondual-supreme-consciousness](nirvikalpaparasaṃvit)
 
 ## mukta-m0-p82-v2046
-[thus](evaṃ) [world](jagat) [reality](satya) [state](bhāva) [contemplation](bhāvanā) [mere](mātra) [cause](hetutaḥ)
+[thus](evaṃ) [world](jagat) [truth-being-meditation-only-cause](satyabhāvabhāvanāmātrahetutaḥ)
 
 ## mukta-m0-p82-v2047
-[by-inquiry](vicāreṇa) [to-peace](śamaṃ) [may-go](yāyāt) [delusion](bhrāntiḥ) [your](te) [mind](citta) [resting-on](saṃśrayā)
+[by-inquiry](vicāreṇa) [peace](śamaṃ) [may-go](yāyād) [delusion](bhrāntiḥ) [your](te) [mind-refuge](cittasaṃśrayā)
 
 ## mukta-m0-p82-v2048
-[reflection](manana) [form](rūpa) [by-inquiry](vicāreṇa) [delusion](bhrāntiḥ) [to-peace](śamaṃ) [may-go](yāyāt)
+[reflection-form-inquiry](mananarūpavicāreṇa) [delusion](bhrāntiḥ) [peace](śamaṃ) [may-go](yāyāt)
 
 ## mukta-m0-p82-v2049
-[again](bhūyaḥ) [extremely](atyantaṃ) [astonished](vismitaḥ) [became](abhūt) [Rama](rāmaḥ) [Bhrigu](bhṛgu) [family](kula) [upholder](udvahaḥ)
+[again](bhūyaḥ) [extremely](atyantaṃ) [astonished](vismito) [became](abhūd) [Rāma](rāmo) [Bhṛgu-line-best](bhṛgukulodvahaḥ)
 
 ## mukta-m0-p82-v2050
-[again](punar) [having-come](āgatya) [doubt](saṃśayaṃ) [asked](papraccha) [thus](iti) [says](āha) [-](vimṛśya) [thus](iti)
+[again-coming](punarāgatya) [doubt](saṃśayaṃ) [asked](papraccha) [thus-says](etyāha) [reflect-thus](vimṛśyeti)

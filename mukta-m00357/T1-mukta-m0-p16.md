@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[here](atra) [eligibility](adhikāraḥ) [of-brāhmaṇa](brāhmaṇasya)
+[here](atra) [authority](adhikāraḥ) [of-brahmin](brāhmaṇasya)
 
 ## mukta-m0-p16-v377
-[of-celibate-student](brahmacāriṇaḥ) [other-than](atirikta+) [of-that](asya) [of-householder-etc](āśramiṇaḥ) [of-one-without-āśrama](anāśramiṇaḥ)
+[of-student](brahmacāriṇaḥ) [excess](atiriktasya) [of-āśrama-dweller](āśramiṇaḥ) [of-non-āśrama-dweller](anāśramiṇaḥ)
 
 ## mukta-m0-p16-v378
 [in-latter](uttare) [of-kṣatriya](kṣatrasya) [also](api) [thus](iti) [someone](kaścit)
 
 ## mukta-m0-p16-v379
-[should-receive](gṛhnīyāt) [from-higher](uttara+) [teacher](ācāriṇaḥ)
+[should-receive](gṛhnīyāt) [from-latter-practice](uttarācāriṇaḥ)
 
 ## mukta-m0-p16-v380
-[according-to](yathā+) [side](apakṣaṃ) [to-one-who-completed](nirvartita+) [initiation](dīkṣāya) [should-give](dadyāt) [this](enaṃ) [mantra](mantram) [for-purpose-of](adhikāra+) [eligibility](arthāya)
+[according-to-side](yathāpakṣam) [completed-initiation](nirvartitadīkṣāya) [should-give](dadyāt) [him](enam) [mantra](mantram) [for-authority-purpose](adhikārārthāya)
 
 ## mukta-m0-p16-v381
-[om](oṃ) [yāt](yāt) [thus](iti)
+[om](oṃ) [go](yāt) [thus](iti)
 
 ## mukta-m0-p16-v382
-[he](sa) [if](yadi) [renunciant](saṃnyāsī) [if](cet) [praṇava](praṇavam)
+[he](sa) [if](yadi) [renouncer](saṃnyāsī) [then](cet) [praṇava](praṇavam)
 
 ## mukta-m0-p16-v383
-[then](tataḥ) [his](tat+) [chosen](iṣṭa+) [deity](īśvaram) [first](agram) [in-order-of](upadeśa+) [instruction](krameṇa) [should-instruct](upadiśet)
+[then](tataḥ) [that-desired](tadiṣṭe) [lord](īśvaram) [first](agram) [by-instruction-order](upadeśakrameṇa) [should-instruct](upadiśet)
 
 ## mukta-m0-p16-v384
-[doctrine](mataṃ) [doctrines-of](mata+) [school](dharmān) [then](atha) [having-taught](upadiśya) [consistent-with](śruti+) [reason-and](mat+) [stated](ukta+) [suitable](yuktān) [duties](dharmān) [practice](ācara) [thus](iti) [should-instruct](upadiśet)
+[opinion](matam) [opinion-dharma](matadharmān) [then](atha) [having-instructed](upadiśya) [scriptural](śrutim) [unspoken](aduktayuktān) [dharmas](dharmān) [should-practice](ācaret) [thus](iti) [should-instruct](upadiśet)
 
 ## mukta-m0-p16-v385
-[ten](guhya+) [secret](dharma+) [duties](daśakam) [having-taught](upadiśya) [should-instruct](upadiśet)
+[secret-dharma-decade](guhyadharmadaśakam) [having-instructed](upadiśya) [should-instruct](upadiśet)
 
 ## mukta-m0-p16-v386
-[livelihood](vṛttiṃ) [making](kurvan) [unasked](ayācitāṃ) [should-live](varteta)
+[livelihood](vṛttim) [doing](kurvan) [unbegged](ayācitām) [should-live](varteta)
 
 ## mukta-m0-p16-v387
-[not](na) [should-desire](icchet) [wealth](dhanaṃ) [from-men](manuṣyebhyaḥ) [livelihood-by](sevā+) [service](vṛttiṃ) [should-practice](caret) [not](na) [and](ca) [thus](iti)
+[should-not-desire](necchet) [wealth](dhanam) [from-men](manuṣyebhyaḥ) [service-livelihood](sevāvṛttim) [should-practice](caret) [not](na) [and](ca) [thus](iti)
 
 ## mukta-m0-p16-v388
-[from-unasked](ayācitāt) [vow](vrataṃ) [should-be-taken](grāhyam) [even](api) [by-one-of-evil](duṣkṛta+) [deeds](karmaṇaḥ) [thus](iti)
+[from-unbegged](ayācitāt) [vow](vrataṃ) [should-be-taken](grāhyam) [even](api) [from-evil-doer](duṣkṛtakarmaṇaḥ) [thus](iti)
 
 ## mukta-m0-p16-v389
-[with-praṇava](sa+) [twenty-times](praṇava+) [recited](prayaḥ+) [gāyatrī](viṃśatikā) [gāyatrī](gāyatrīṃ) [should-recite](japet)
+[with-praṇava](sapraṇava) [twenty-five?](prayoviṃśatikā) [gāyatrī](gāyatrīm) [should-chant](japet)
 
 ## mukta-m0-p16-v390
-[ten](guhya+) [secret](dharma+) [duties](daśakaṃ) [should-perform](kuryāt)
+[secret-dharma-decade](guhyadharmadaśakam) [should-do](kuryāt)
 
 ## mukta-m0-p16-v391
-[here](atra) [initiated-one](dīkṣitaḥ) [transcending-birth](jāti+) [family](kula+) [lineage](gotra+) [class](varṇa+) [stage](āśrama+) [beyond](atītaḥ) [becomes](bhavati)
+[here](atra) [initiated](dīkṣitaḥ) [beyond-birth-family-gotra-varṇa-āśrama](jātikulagotravarṇāśramātītaḥ) [becomes](bhavati)
 
 ## mukta-m0-p16-v392
-[having-abandoned](parityajya) [duties](dharmān) [prescribed](vihitān) [others](anyān) [and](ca)
+[abandoning](parityajya) [dharmas](dharmān) [prescribed](vihitān) [others](anyān) [and](ca)
 
 ## mukta-m0-p16-v393
-[ten](guhya+) [secret](dharma+) [duties](daśakam) [practicing](anutiṣṭhan) [should-remain](tiṣṭhet) [eating-withered](śīrṇa+) [leaves](parṇa+) [food](aśanaḥ)
+[secret-dharma-decade](guhyadharmadaśakam) [practicing](anutiṣṭhan) [should-stand](tiṣṭhet) [withered-leaf-eater](śīrṇaparṇāśanaḥ)
 
 ## mukta-m0-p16-v394
-[now](atha) [or-what](kiṃvā)
+[then](atha) [what](kiṃ) [or](vā)
 
 ## mukta-m0-p16-v395
-[in-which](yasmin) [class-and](varṇa+) [stage](āśrame) [attainment-of](uttara+) [higher](ācāra+) [practice](lābhaḥ)
+[in-which](yasmin) [varṇa-āśrama](varṇāśramaḥ) [latter-practice-gain](uttarācāralābhaḥ)
 
 ## mukta-m0-p16-v396
-[duties-of-that](tat+) [class-and](varṇa+) [stage](āśrama+) [duties](dharmān) [should-perform](kurvīta)
+[that-varṇa-āśrama-dharmas](tadvarṇāśramadharmān) [should-do](kurvīta)
 
 ## mukta-m0-p16-v397
-[livelihood-by](sevā+) [service](vṛttim) [not-doing](akurvan) [but](tu) [livelihood](vṛttiṃ) [making](kurvan) [unasked](ayācitām) [thus](iti)
+[service-livelihood](sevāvṛttim) [not-doing](akurvan) [but](tu) [livelihood](vṛttim) [doing](kurvan) [unbegged](ayācitām) [thus](iti)
 
 ## mukta-m0-p16-v398
-[likewise](tadvat) [for-imperishable](akṣaya+) [and-painless](amayoḥ)
+[likewise](tadvat) [of-imperishable](akṣayā) [of-diseaseless](amayoḥ)
 
 ## mukta-m0-p16-v399
-[purification-of-that](tat+) [initiated](dīkṣita+) [one](pūyam) [if](cet)
+[that-initiated-purified?](taddīkṣitapūyam) [if](cet)
 
 ## mukta-m0-p16-v400
-[of-this](etat+) [teacher](ācāriṇaḥ) [daily](nityāḥ) [duties](dharmāḥ)
+[of-this-practice](etadācāriṇaḥ) [eternal](nityāḥ) [dharmas](dharmāḥ)

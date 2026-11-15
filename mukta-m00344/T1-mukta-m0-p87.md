@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p87-v2151
-[well-rubbed](saṃluṭhitāni) [well-churned](saṃloḍitāni) [thoroughly](samyag) [examined](vimṛṣṭāni) [thus](iti) [to-the-extent](yāvat)
+[well-mixed](saṃluṭhitāni) [well-churned](saṃloḍitāni) [well](samyag) [examined-thus](vimṛṣṭānīti) [as-far-as](yāvat)
 
 ## mukta-m0-p87-v2152
-[space-time-unlimited](deśa+kāla+anavacchinnaṃ) [pure](śuddha) [indivisible-consciousness-nature](akhaṇḍa+cit+ātmakam)
+[place](deśa)+[time](kāla)+[not](an)+[limited](avacchinnaṃ) [pure](śuddha)+[undivided](akhaṇḍa)+[consciousness](cit)+[natured](ātmakam)
 
 ## mukta-m0-p87-v2153
-[different-kind](vijātīya) [same-kind](sajātīya) [other-thing](vastu+antara) [non-difference](asambhedaḥ) [stated](uktaḥ)
+[different-class](vijātīya)+[same-class](sajātīya)+[other-thing](vastvantara)+[non-mixing](asambheda) [spoken](uktaḥ)
 
 ## mukta-m0-p87-v2154
-[mirror-city-resembling](ādarśa+nagara+prakhyaṃ) [that](tat) [this](etat) [supreme](paramaṃ) [state](padam)
+[mirror-city-like](ādarśanagaraprakhyaṃ) [that](tad) [this](etat) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p87-v2155
-[blue-form-etc.](nīla+rūpa+ādeḥ) [like](iva) [thus](iti) [says](āha) [mirror](ādarśa) [thus](iti)
+[blue-form-etc](nīlarūpāderivetyāha) [mirror-thus](ādarśeti)
 
 ## mukta-m0-p87-v2156
-[in-mirror](ādarśe) [being-known](vidite) [as](yadvat) [not](na) [doubt](sandehaḥ) [anywhere](kvacit) [would-be](bhavet)
+[in-mirror](ādarśe) [known](vidite) [as](yadvat) [no](na) [doubt](sandehaḥ) [anywhere](kvacid) [would-be](bhavet)
 
 ## mukta-m0-p87-v2157
-[of-reflections](pratibimbānām) [mirror-only-nature](ādarśa+mātra+ātmatvāt)
+[reflections](pratibimbānām) [mirror-only](ādarśamātra)+[nature](ātmatvāt)
 
 ## mukta-m0-p87-v2158
-[not](na) [to-be-desired](āśāsyaṃ) [or](vā) [would-be](bhavet) [anything](kiñcit) [thus](evam) [when-known](pravidite) [supreme](pare)
+[not](nāśāsyaṃ) [or](vā) [would-be](bhavet) [something](kiñcid) [thus](evaṃ) [known](pravidite) [supreme](pare)
 
 ## mukta-m0-p87-v2159
-[to-be-desired](āśāsyaṃ) [or](vā) [not](na) [would-be](bhavet) [thus](iti) [meaning](bhāvaḥ)
+[desirable](āśāsyaṃ) [or](vā) [not](na) [would-be](bhavediti) [sense](bhāvaḥ)
 
 ## mukta-m0-p87-v2160
-[thus](evam) [O-ascetic](tāpasi) [that](tat) [truth](tattvaṃ) [by-scriptural-vision](śāstra+dṛṣṭyā) [elucidated](vibhāvitam)
+[thus](evaṃ) [ascetic](tāpasi) [that](tat) [truth](tattvaṃ) [scripture-view](śāstradṛṣṭyā) [manifested](vibhāvitam)
 
 ## mukta-m0-p87-v2161
 [known](jñātam)
 
 ## mukta-m0-p87-v2162
-[O-sage's-son](muni+dāraka) [well-spoken](sūktaṃ) [by-you](te) [properly](yathāvat) [universally-accepted](sarva+sammatam)
+[sage-child](munidāraka) [well-spoken](sūktaṃ) [your](te) [properly](yathāvat) [all-approved](sarvasammatam)
 
 ## mukta-m0-p87-v2163
-[by-you](te) [by-you](tvayā) [properly-spoken](yathāvat+uktaṃ) [that](tat) [well-spoken](sūktaṃ) [universally-accepted](sarva+sammatam) [and](ca)
+[by-you](te) [properly](tvayā) [spoken](yathāvaduktaṃ) [that-speech](tatsūktaṃ) [all-approved](sarvasammataṃ) [and](ca)
 
 ## mukta-m0-p87-v2164
-[attains](prāpnoti) [that](tat) [having-known](viditvā) [indeed](eva) [and](ca) [immortal](amṛtaṃ) [state](padam) [imperishable](avyayam)
+[attains](prāpnoti) [that](tad) [knowing](viditvaiva) [immortal](cāmṛtaṃ) [state](padam) [imperishable](avyayam)
 
 ## mukta-m0-p87-v2165
-[there](tatra) [this-much](etāvān) [part](aṃśaḥ) [contradictory](viruddhaḥ) [thus](iti) [says](āha) [what-was-said](yat+uktam) [thus](iti)
+[there](tatra) [this-much](etāvānaṃśo) [contrary](viruddha) [thus-says](ityāha) [what-said](yaduktamiti)
 
 ## mukta-m0-p87-v2166
-[unknowable](avedyaṃ) [if](cet) [not](na) [I-know](jānāmi) [non-existent](na+asti) [thus](iti) [and](ca) [ascertain](nirūpaya)
+[unknowable](avedyaṃ) [if](cenna) [I-know-not](jānāmi) [not-exists](nāstīti) [ascertain](ca) [nirūpaya](nirūpaya)
 
 ## mukta-m0-p87-v2167
-[meaning](bhāvaḥ) [that-and-other-its-reality](tat+va+itara+tat+sattva)
+[sense](bhāvaḥ) [truth-other-truth-existence](tatvetaratatsattva)
 
 ## mukta-m0-p87-v2168
-[now](atha) [this](etat) [indeed](tu) [by-you](tvayā) [O-brahmin](vipra) [by-scriptural-vision](śāstra+dṛṣṭyā) [elucidated](vibhāvitam)
+[but](atha) [this](etattu) [by-you](tvayā) [brahmin](vipra) [scripture-view](śāstradṛṣtyā) [manifested](vibhāvitam)
 
 ## mukta-m0-p87-v2169
-[by-verbal-knowledge](vākya+jñānena) [elucidated](vibhāvitaṃ) [ascertained](viniścitam)
+[sentence-knowledge](vākyajñānena) [manifested](vibhāvitaṃ) [ascertained](viniścitam)
 
 ## mukta-m0-p87-v2170
-[having-seen](dṛṣṭvā) [directly](pratyakṣataḥ) [all](sarvaṃ) [reflection](pratibimbaṃ) [as-it-is](yathā+sthitam)
+[seeing](dṛṣṭvā) [directly](pratyakṣataḥ) [all](sarvaṃ) [reflection](pratibimbaṃ) [as-situated](yathāsthitam)
 
 ## mukta-m0-p87-v2171
-[meaning](bhāvaḥ)
+[sense](bhāvaḥ)
 
 ## mukta-m0-p87-v2172
-[thus](evam) [speaking](vadan) [in-assembly-middle](sabhā+madhye) [of-Janaka](janakasya) [of-this](asya) [indeed](vai) [in-front](puraḥ)
+[thus](evaṃ) [speaking](vadan) [assembly-middle](sabhāmadhye) [janaka's](janakasyāsya) [indeed](vai) [before](puraḥ)
 
 ## mukta-m0-p87-v2173
-[in-learned-assembly-middle](vidvat+sabhā+madhye) [there-also](tatra+api) [of-Janaka](janakasya) [of-crest-jewel-of-scholars](vidvat+śiromaṇeḥ) [in-front](puraḥ) [before](agrataḥ)
+[learned-assembly-middle](vidvatsabhāmadhye) [there](tatrāpi) [janaka](janakasya) [learned-crest](vidvacchiromaṇeḥ) [before](puro'grataḥ)
 
 ## mukta-m0-p87-v2174
-[thus-addressed](evam+uktaḥ) [by-her](tayā) [there](tatra) [not](na) [indeed](eva) [spoke](provāca) [anything](kiñcana)
+[thus-spoken](evamuktastayā) [there](tatra) [not-at-all](naiva) [spoke](provāca) [anything](kiñcana)
 
 ## mukta-m0-p87-v2175
-[well-connectedness-pride](su+sandarbhatā+abhimānaḥ) [but](tu) [exceedingly](sutarāṃ) [stupidity-revealer](mauḍhya+pradyotakaḥ) [thus](iti) [meaning](bhāvaḥ)
+[well-connected-pride](susandarbhatābhimānastu) [moreover](sutarāṃ) [foolishness-illuminator](mauḍhyapradyotaka) [sense](iti) [bhāvaḥ)
