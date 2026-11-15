@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[dissolution](pralaya) [cloud](ambuda) [color](varṇa) [resembling](ābhaḥ) [skull](muṇḍa) [skull-cup](kapāla) [garlanded](mālinaḥ) [who](kaḥ)
+[dissolution-cloud-color-resembling](pralayāmbudavarṇābho) [skull-cup-garlanded](muṇḍakāpālamālinaḥ) [who](kaḥ)
 
 ## mukta-m0-p48-v1177
-[caṇḍa](caṇḍa) [named](ākhyaḥ) [mothers](mātṛ) [in-middle](madhye) [indeed](tu) [situated](saṃsthitaḥ) [yellow](pīta) [tuft](kūrca) [bearing](bhṛt)
+[named-caṇḍa](caṇḍākhyo) [in-the-midst-of-mothers](mātṛmadhye) [indeed](tu) [situated](saṃsthitaḥ) [bearing-yellow-beard](pītakūrcabhṛt) [or](gh:) [bearing-thick-beard](pīnakūrkhadhṛk)
 
 ## mukta-m0-p48-v1178
-[his](tat) [six](ṣaḍ) [limbs](aṅgāni) [by-birth-mantras](jāti) [with-obeisance](anataiḥ) [void](kha) [joined-with](anvitaṃ) [and](ca) [in-order](kramāt) [one-should-worship](yajet)
+[his-six-limbs](tatṣaḍaṅgāni) [or](g:) [his-sons](taṃtsuta) [with-birth-and-obeisance](jātyanataiḥ) [with-void](khānvitaṃ) [and](ca) [in-order](kramād) [one-should-worship](yajet)
 
 ## mukta-m0-p48-v1179
-[nāda](nāda) [bindu](bindu) [indu](indu) [joined-with](saṃyuktaṃ) [mother](mātṛ) [lord](nātha) [end](anta) [illumined](dīpitam)
+[joined-with-nāda-bindu-indu](nādabindvindusaṃyuktaṃ) [or](k,) [or](g:) [joined-with-bindu](bindusaṃyuktaṃ) [illuminated-by-mother-lord-end](mātṛnāthānta) [or](kh:) [illuminated-by-lord-limb](nāthāṅga) [illuminated](dīpitam)
 
 ## mukta-m0-p48-v1180
-[secret](guhya) [deities](devāni) [other](anya) [forms](rūpāṇāṃ) [in-each](sve) [in-each](sve) [scripture](śāstre) [determination](viniścayaḥ)
+[of-secret-deities-and-others](guhyadevānyarūpāṇāṃ) [in-each-own](sve) [in-each-own](sve) [scripture](śāstre) [determination](viniścayaḥ)
 
 ## mukta-m0-p48-v1181
-[fivefold](pañcadhā) [images](pratimāḥ) [known](khyātāḥ) [by-measure](mānataḥ) [sevenfold](saptadhā) [likewise](tathā)
+[fivefold](pañcadhā) [images](pratimāḥ) [known](khyātā) [in-measure](mānataḥ) [sevenfold](saptadhā) [likewise](tathā)
 
 ## mukta-m0-p48-v1182
-[likewise](tathā) [from-Īśvara](īśvarāt) [gods](surāḥ) [all](sarve) [effect](kārya) [cause](kāraṇa) [by-difference](bhedataḥ)
+[likewise](tathā) [from-Īśvara](īśvarāt) [gods](surā) [all](sarve) [by-difference-of-cause-and-effect](kāryakāraṇabhedataḥ)
 
 ## mukta-m0-p48-v1183
-[thus](iti) [in-Lakṣaṇasamuccaya](lakṣaṇasamuccaye) [Rudra](rudra) [etc.](ādi) [manifest](vyakta) [liṅga](liṅga) [fashioning](vartanaṃ) [named](nāma) [sixth](ṣaṣṭaḥ) [rule](vidhiḥ)
+[thus](iti) [in-the-compendium-of-characteristics](lakṣaṇasamuccaye) [of-rudra-and-others](rudrādi) [manifest-mark](vyaktaliṅga) [description](vartanaṃ) [named](nāma) [sixth](ṣaṣṭo) [rule](vidhiḥ)
 
 ## mukta-m0-p48-v1184
-[five-faced](pañca) [etc.](āsya) [beginning-with](ādi) [according-to](yathā) [liṅga](liṅgaṃ) [should-be](bhavet) [well-manifest](suvyakta) [fivefold](pañcakam)
+[five-faced-and-so-on](pañcāsyādi) [according-to-mark](yathāliṅgaṃ) [should-be](bhavet) [well-manifest](suvyakta) [pentad](pañcakam) [or](mū,) [or](a:) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p48-v1185
-[five](pañca) [faced](vaktra) [in-undesirable-cases](aniṣṭeṣu) [four](catur) [faced](vaktraṃ) [happiness](sukha) [bringing](āvaham)
+[five-faced](pañcavaktram) [in-unfavorable-cases](aniṣṭeṣu) [four-faced](caturvaktraṃ) [happiness-giving](sukhāvaham)
 
 ## mukta-m0-p48-v1186
-[one](eka) [faced](vaktraṃ) [should-be](syāt) [disease](roga) [destroying](ghnaṃ) [not](na) [exceedingly-desirable](adhikāmyaṃ) [movable-and-immovable](calācalam)
+[one-faced](ekavaktraṃ) [should-be](syād) [disease-destroying](rogaghnaṃ) [not](na) [to-be-desired-more](adhikāmyaṃ) [movable-and-immovable](calācalam)
 
 ## mukta-m0-p48-v1187
-[four](catur) [faced](mukhaṃ) [indeed](tu) [on-pedestal](khādhāre) [five](pañca) [faced](āsyaṃ) [or](vā) [four](catur) [faced](mukham)
+[four-faced](caturmukhaṃ) [indeed](tu) [on-sky-support](khādhāre) [or](gh:) [on-happy-support](sukhādhāre) [or](k:) [indeed](tu) [in-grace](prasāde) [five-faced](pañcāsyaṃ) [or](vā) [four-faced](caturmukham)
 
 ## mukta-m0-p48-v1188
-[liṅga](liṅga) [head](mūrdhni) [situated](sthita) [face](vaktram) [Īśāna](aiśānaṃ) [indeed](tu) [Īśa](īśa) [looking-at](īkṣakam)
+[situated-on-liṅga-head](liṅgamūrdhnisthita) [face](vaktram) [Īśāna](aiśānaṃ) [indeed](tu) [looking-at-Īśa](īśamīkṣakam) [or](mū:) [looking](vīkṣakam)
 
 ## mukta-m0-p48-v1189
-[lion](siṃha) [faced](āsyaṃ) [beard](śmaśru) [hair](keśa) [endowed-with](āḍhyaṃ) [eastern](maindraṃ) [Tatpuruṣa](tatpurūṣa) [face](ānanam)
+[lion-faced](siṃhāsyaṃ) [or](gh:) [lion-tiger](siṃhāghraṃ) [endowed-with-beard-and-hair](śmaśrukeśāḍhyaṃ) [eastern](maindraṃ) [Tatpuruṣa-face](tatpurūṣānanam)
 
 ## mukta-m0-p48-v1190
-[tusks](daṃṣṭrā) [terrible](karālaṃ) [round](vṛtta) [eyed](akṣaṃ) [blazing](jvalat) [hair](keśa) [etc.](ādi) [adorned](bhūṣitam)
+[terrible-with-tusks](daṃṣṭrākarālaṃ) [round-eyed](vṛttākṣaṃ) [adorned-with-blazing-hair-and-so-on](jvalatkeśādibhūṣitam)
 
 ## mukta-m0-p48-v1191
-[lovely](kānta) [ornament](alaṅkāra) [hair](keśa) [etc.](ādi) [forehead-mark](tilaka) [curl](ulaka) [decorated](maṇḍitam)
+[adorned-with-lovely-ornaments-and-hair-and-so-on](kāntālaṅkārakeśādi) [or](k,) [or](kh:) [endowed-with-hair](keśāṃḍhya) [or](g:) [and-hair](keśāśca) [decorated-with-tilaka-and-forelock](tilakolakamaṇḍitam)
 
 ## mukta-m0-p48-v1192
-[three](tri) [eyed](akṣaṃ) [full](pīnaṃ) [youthful](yuva) [form](ākāraṃ) [very-pleased](suprasannaṃ) [very-beautiful](suśobhamam)
+[three-eyed](tryakṣaṃ) [full](pīnaṃ) [youthful-form](yuvākāraṃ) [very-serene](suprasannaṃ) [very-beautiful](suśobhamam)
 
 ## mukta-m0-p48-v1193
-[Sadyojāta](sadyaḥ) [and-Vāmadeva](puṃbhyāṃ) [two](dvi) [faced](vaktraṃ) [should-be](syāt) [with-Puruṣa](puruṣeṇa) [one](eka) [faced](vaktrakam)
+[with-Sadya-and-Puṃ](sadyaḥ) [with-Puṃ](puṃbhyāṃ) [two-faced](dvivaktraṃ) [should-be](syāt) [with-Puruṣa](puruṣeṇa) [one-faced](ekavaktrakam)
 
 ## mukta-m0-p48-v1194
-[by-those](tatvaiḥ) [liṅga](liṅgaṃ) [by-planets](grahaiḥ) [by-devotee](bhakte) [having-divided](hṛtvā) [water](ambhaḥ) [portion](aṃśaḥ) [in-intermediate-directions](vidikṣu) [and](ca)
+[with-those-elements](tatvair) [liṅga](liṅgaṃ) [with-planets](grahair) [with-devotee](bhakte) [having-taken](hṛtvā) [water-part](ambhoṃśo) [in-the-intermediate-directions](vidikṣu) [and](ca)
 
 ## mukta-m0-p48-v1195
-[by-direction](dik) [division](vibhāgena) [that](tat) [face](vaktraṃ) [elements](bhūta) [Vedas](veda) [faced](ānanaṃ) [always](sadā)
+[by-division-of-directions](digvibhāgena) [its-face](tadvaktraṃ) [or](mū:) [its-face](tadvaktaṃ) [having-four-or-five-faces](bhūtavedānanaṃ) [always](sadā)
 
 ## mukta-m0-p48-v1196
-[likewise](tadvat) [in-two-faces](dvyāsye) [two-measures](dvi) [mātra](mātra) [named](ākhyam) [in-one-face](ekāsye) [three-three](tritrika) [aṅgulas](aṅgulān)
+[likewise](tadvad) [in-two-faces](dyāsye) [called-two-measures](dvimātrākhyam) [in-one-face](ekāsye) [three-times-three-aṅgulas](tritrikāṅgulān)
 
 ## mukta-m0-p48-v1197
-[having-divided](hṛtvā) [in-corners](koṇeṣu) [by-space-parts](randhra) [aṃśaiḥ](aṃśaiḥ) [liṅga](liṅgaṃ) [six](ṣaṭ) [tāla](tāla) [encircled](veṣṭitam)
+[having-taken](hṛtvā) [in-the-corners](koṇeṣu) [by-parts-of-openings](randhrāṃśair) [liṅga](liṅgaṃ) [encircled-by-six-tālas](ṣaṭtālaveṣṭitam)
 
 ## mukta-m0-p48-v1198
-[by-two](dvābhyāṃ) [by-two](dvābhyāṃ) [and](ca) [there](tatra) [face](āsyaṃ) [liṅga](liṅgaṃ) [seven](sapta) [faced](āsya) [encircled](veṣṭitam)
+[by-twos](dvābhyāṃ) [by-twos](dvābhyāṃ) [and](ca) [there](tatrā) [face](asyaṃ) [liṅga](liṅgaṃ) [encircled-by-seven-faces](saptāsyaveṣṭitam)
 
 ## mukta-m0-p48-v1199
-[ninety](navati) [aṅgula](aṅgulakaṃ) [from-circular](vṛttāt) [one](eka) [faced](āsyaṃ) [east](pūrva) [facing](vaktrakam)
+[ninety-aṅgulas](navatyaṅgulakaṃ) [or](gh:) [three-aṅgulas](tryaṅgulakaṃ) [from-the-round](vṛttād) [one-faced](ekāsyaṃ) [east-facing](pūrvavaktrakam)
 
 ## mukta-m0-p48-v1200
-[below-that](tadadhaḥ) [six](ṣaḍ) [by-division](vibhāgena) [Śiva](śiva) [faces](vaktrāṇi) [one-should-make](vartayet)
+[below-that](tadadhaḥ) [by-division-into-six](ṣaḍvibhāgena) [faces-of-Śiva](śivavaktrāṇi) [one-should-make](vartayet)
