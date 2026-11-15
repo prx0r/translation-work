@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p44",
  "verse": 1081,
- "question": "What protective power shields the armored person from divine weapons?",
+ "question": "Which additional flowers continue the enumeration of acceptable offerings?",
  "premises": [
-  "Weapons like the brahma-weapon are powerful",
-  "The armor grants protection",
-  "Protected persons are not harmed"
+  "Dvikarni, kurava, and jati are listed.",
+  "Lakshmi-flower and bakula are listed.",
+  "The verse continues the same enumeration."
  ],
- "inference": "Weapons such as the brahma-weapon do not cut that person.",
- "uncertainties": [],
- "plain_english": "Weapons such as the brahma-weapon do not cut that person."
+ "inference": "Dvikarni, kurava, jati, lakshmi-flower, and bakula are further acceptable flowers.",
+ "uncertainties": [
+  "The precise botanical identification of dvikarni and lakṣmīś is uncertain."
+ ],
+ "plain_english": "Dvikarni, kurava, jati, lakshmi-flower, and bakula are likewise included."
 }

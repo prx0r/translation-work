@@ -1,0 +1,1040 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1076,
+   "rows": [
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandalwood",
+     "grounds": "substance named as fragrant material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agaruñ",
+     "gloss": "agarwood",
+     "grounds": "substance named as fragrant material; final sandhi form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṅkumaṃ",
+     "gloss": "saffron",
+     "grounds": "substance named as fragrant material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "category term for aromatic offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "defines the listed items as fragrance",
+     "morph": "3.sg.pass-pres/vac"
+    }
+   ],
+   "question": "Which substances are designated as the fragrant offering?",
+   "premises": [
+    "Sandalwood is listed as a fragrant substance.",
+    "Agarwood is listed as a fragrant substance.",
+    "Saffron is listed as a fragrant substance.",
+    "These substances are collectively called fragrance."
+   ],
+   "inference": "Sandalwood, agarwood, and saffron together constitute the prescribed fragrance.",
+   "uncertainties": [],
+   "plain_english": "Sandalwood, agarwood, and saffron are called the fragrance."
+  },
+  {
+   "verse": 1077,
+   "rows": [
+    {
+     "surface": "kāśmīragandhakarpūracandanaiḥ",
+     "gloss": "kashmir-scent-camphor-sandalwood",
+     "grounds": "compound listing alternative fragrant ingredients",
+     "morph": "compound=kāśmīra+gandha+karpūra+candana; n.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative preparation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "prescriptive instruction for preparing fragrance",
+     "morph": "3.sg.act-opt/pra-kḷp"
+    }
+   ],
+   "question": "What alternative ingredients may be used to prepare the fragrance?",
+   "premises": [
+    "Kashmir scent, camphor, and sandalwood are named together.",
+    "The particle vā indicates an alternative.",
+    "The verb prescribes preparation with these ingredients."
+   ],
+   "inference": "One may alternatively prepare the fragrance using Kashmir scent, camphor, and sandalwood.",
+   "uncertainties": [
+    "The exact referent of kāśmīragandha is treated as a fragrant substance from Kashmir."
+   ],
+   "plain_english": "Alternatively, one should prepare the fragrance with Kashmir scent, camphor, and sandalwood."
+  },
+  {
+   "verse": 1078,
+   "rows": [
+    {
+     "surface": "uttamottamaliṅgādāv",
+     "gloss": "for-best-best-liṅga-etc",
+     "grounds": "compound indicating the highest class of liṅga and similar cases",
+     "morph": "compound=uttama+uttama+liṅga+ādi; n.loc.sg"
+    },
+    {
+     "surface": "āpalādi",
+     "gloss": "from-one-pala-onwards",
+     "grounds": "specifies the lower bound of quantity",
+     "morph": "compound=ā+pala+ādi; n.nom.sg"
+    },
+    {
+     "surface": "palāvadhi",
+     "gloss": "up-to-one-pala",
+     "grounds": "specifies the upper bound of quantity",
+     "morph": "compound=pala+avadhi; n.nom.sg"
+    }
+   ],
+   "question": "What quantity range applies for offerings to the highest class of liṅga?",
+   "premises": [
+    "The context is the best of the best liṅga and similar cases.",
+    "A lower bound beginning from one pala is indicated.",
+    "An upper bound up to one pala is indicated."
+   ],
+   "inference": "For the highest class of liṅga, the prescribed quantity ranges from one pala up to one pala as specified.",
+   "uncertainties": [
+    "The precise graduated scale implied by āpalādi palāvadhi in this context is not fully explicit."
+   ],
+   "plain_english": "For the best of the best liṅga and so forth, the measure is from one pala up to one pala."
+  },
+  {
+   "verse": 1079,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the preceding prescriptions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādyādivastūnāṃ",
+     "gloss": "of-foot-water-etc-substances",
+     "grounds": "compound referring to foot-water and other offering materials",
+     "morph": "compound=pādya+ādi+vastu; n.gen.pl"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "measure",
+     "grounds": "the quantity or standard being declared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "is-declared",
+     "grounds": "concludes the statement of measures",
+     "morph": "n.nom.sg.past-pass-part/pari-kīrt"
+    }
+   ],
+   "question": "What has been declared regarding the measures of foot-water and other offerings?",
+   "premises": [
+    "The verse refers back with evaṃ to prior instructions.",
+    "Foot-water and other substances are the items in view.",
+    "Their measure is said to be declared."
+   ],
+   "inference": "The measures for foot-water and other offering substances have thus been declared.",
+   "uncertainties": [],
+   "plain_english": "Thus the measure of foot-water and other substances has been declared."
+  },
+  {
+   "verse": 1080,
+   "rows": [
+    {
+     "surface": "śvetapadmaṃ",
+     "gloss": "white-lotus",
+     "grounds": "named flower for offering",
+     "morph": "compound=śveta+padma; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punnāgaṃ",
+     "gloss": "punnaga",
+     "grounds": "named flower for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaṅkhapuṣpaṃ",
+     "gloss": "conch-flower",
+     "grounds": "named flower for offering",
+     "morph": "compound=śaṅkha+puṣpa; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mallikā",
+     "gloss": "jasmine",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which flowers begin the list of acceptable offerings in this sequence?",
+   "premises": [
+    "White lotus is named as an offering flower.",
+    "Punnaga is named as an offering flower.",
+    "Conch flower and jasmine are named as offering flowers."
+   ],
+   "inference": "White lotus, punnaga, conch flower, and jasmine are included among acceptable flowers.",
+   "uncertainties": [],
+   "plain_english": "White lotus, punnaga, conch flower, and jasmine are included."
+  },
+  {
+   "verse": 1081,
+   "rows": [
+    {
+     "surface": "dvikarṇi",
+     "gloss": "two-eared-flower",
+     "grounds": "named flower for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuravaṃ",
+     "gloss": "kurava",
+     "grounds": "named flower for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātī",
+     "gloss": "jasmine",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lakṣmīś",
+     "gloss": "lakshmi-flower",
+     "grounds": "named flower for offering; final sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakulaṃ",
+     "gloss": "bakula",
+     "grounds": "named flower for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional flowers continue the enumeration of acceptable offerings?",
+   "premises": [
+    "Dvikarni, kurava, and jati are listed.",
+    "Lakshmi-flower and bakula are listed.",
+    "The verse continues the same enumeration."
+   ],
+   "inference": "Dvikarni, kurava, jati, lakshmi-flower, and bakula are further acceptable flowers.",
+   "uncertainties": [
+    "The precise botanical identification of dvikarni and lakṣmīś is uncertain."
+   ],
+   "plain_english": "Dvikarni, kurava, jati, lakshmi-flower, and bakula are likewise included."
+  },
+  {
+   "verse": 1082,
+   "rows": [
+    {
+     "surface": "viṣakāsīsakusumaṃ",
+     "gloss": "visha-kasisa-flower",
+     "grounds": "compound naming a specific flower",
+     "morph": "compound=viṣa+kāsīsa+kusuma; n.nom.sg"
+    },
+    {
+     "surface": "bhadrā",
+     "gloss": "bhadra",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahatī",
+     "gloss": "mahati",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the named flower",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which flowers are added next to the list of acceptable offerings?",
+   "premises": [
+    "Visha-kasisa flower is named.",
+    "Bhadra and mahati are named.",
+    "The demonstrative sā refers back to the named item."
+   ],
+   "inference": "Visha-kasisa flower, bhadra, and that mahati are included among acceptable flowers.",
+   "uncertainties": [
+    "The botanical identity of viṣakāsīsakusuma and mahati is uncertain."
+   ],
+   "plain_english": "The visha-kasisa flower, bhadra, and that mahati are included."
+  },
+  {
+   "verse": 1083,
+   "rows": [
+    {
+     "surface": "hālikā",
+     "gloss": "halika",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śatapatraṃ",
+     "gloss": "hundred-petaled-flower",
+     "grounds": "named flower for offering",
+     "morph": "compound=śata+patra; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmanttaṃ",
+     "gloss": "datura",
+     "grounds": "named flower for offering; spelling as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuśapuṣpakam",
+     "gloss": "kusha-flower",
+     "grounds": "named flower for offering",
+     "morph": "compound=kuśa+puṣpaka; n.nom.sg"
+    }
+   ],
+   "question": "Which further flowers are included in the acceptable offering list?",
+   "premises": [
+    "Halika is named as an offering flower.",
+    "The hundred-petaled flower is named.",
+    "Datura and kusha-flower are named."
+   ],
+   "inference": "Halika, the hundred-petaled flower, datura, and kusha-flower are acceptable offerings.",
+   "uncertainties": [
+    "The exact botanical identity of hālikā and kuśapuṣpaka is uncertain."
+   ],
+   "plain_english": "Halika, the hundred-petaled flower, datura, and the kusha-flower are included."
+  },
+  {
+   "verse": 1084,
+   "rows": [
+    {
+     "surface": "raktapadmaṃ",
+     "gloss": "red-lotus",
+     "grounds": "named flower for offering",
+     "morph": "compound=rakta+padma; n.nom.sg"
+    },
+    {
+     "surface": "palāśaṃ",
+     "gloss": "palasha",
+     "grounds": "named flower for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktotpalaṃ",
+     "gloss": "red-water-lily",
+     "grounds": "named flower for offering",
+     "morph": "compound=rakta+utpala; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṭalī",
+     "gloss": "patali",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which red or related flowers are listed as acceptable offerings?",
+   "premises": [
+    "Red lotus is named as an offering flower.",
+    "Palasha and red water-lily are named.",
+    "Patali is named as an offering flower."
+   ],
+   "inference": "Red lotus, palasha, red water-lily, and patali are included among acceptable flowers.",
+   "uncertainties": [],
+   "plain_english": "Red lotus, palasha, red water-lily, and patali are included."
+  },
+  {
+   "verse": 1085,
+   "rows": [
+    {
+     "surface": "vyāghrī",
+     "gloss": "vyaghri",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktamandāraḥ",
+     "gloss": "red-mandara",
+     "grounds": "named flower for offering",
+     "morph": "compound=rakta+mandāra; m.nom.sg"
+    },
+    {
+     "surface": "paṭṭikā",
+     "gloss": "pattika",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaijikā",
+     "gloss": "vaijika",
+     "grounds": "named flower for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional flowers continue this sequence of acceptable offerings?",
+   "premises": [
+    "Vyaghri and red mandara are listed.",
+    "Pattika and vaijika are listed.",
+    "The verse continues the enumeration."
+   ],
+   "inference": "Vyaghri, red mandara, pattika, and vaijika are further acceptable flowers.",
+   "uncertainties": [
+    "The botanical identities of vyāghrī, paṭṭikā, and vaijikā are uncertain."
+   ],
+   "plain_english": "Vyaghri, red mandara, pattika, and vaijika are likewise included."
+  },
+  {
+   "verse": 1086,
+   "rows": [
+    {
+     "surface": "śonakyaṃ",
+     "gloss": "shonakya",
+     "grounds": "named flower for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇikāraṃ",
+     "gloss": "karnikara",
+     "grounds": "named flower for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "campakaṃ",
+     "gloss": "campaka",
+     "grounds": "named flower for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hemadhutturam",
+     "gloss": "golden-datura",
+     "grounds": "named flower for offering",
+     "morph": "compound=hema+dhuttura; n.nom.sg"
+    }
+   ],
+   "question": "Which flowers complete this part of the acceptable offering list?",
+   "premises": [
+    "Shonakya and karnikara are named.",
+    "Campaka is named.",
+    "Golden datura is named."
+   ],
+   "inference": "Shonakya, karnikara, campaka, and golden datura are included among acceptable flowers.",
+   "uncertainties": [
+    "The botanical identity of śonakya is uncertain."
+   ],
+   "plain_english": "Shonakya, karnikara, campaka, and golden datura are included."
+  },
+  {
+   "verse": 1087,
+   "rows": [
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative referring to previously listed flowers",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pītapuṣpāṇi",
+     "gloss": "yellow-flowers",
+     "grounds": "classifies the flowers by color",
+     "morph": "compound=pīta+puṣpa; n.nom.pl"
+    },
+    {
+     "surface": "kṛṣṇe",
+     "gloss": "for-the-dark-one",
+     "grounds": "specifies the recipient context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nīlotpalaṃ",
+     "gloss": "blue-water-lily",
+     "grounds": "named flower preferred in this context",
+     "morph": "compound=nīla+utpala; n.nom.sg"
+    },
+    {
+     "surface": "varam",
+     "gloss": "best",
+     "grounds": "marks superiority of the blue water-lily",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which flowers are classified as yellow and which is best for the dark deity?",
+   "premises": [
+    "The verse refers to these as yellow flowers.",
+    "The context specified is for the dark one.",
+    "The blue water-lily is declared best."
+   ],
+   "inference": "The listed flowers are yellow, while the blue water-lily is the best offering for the dark deity.",
+   "uncertainties": [
+    "The referent of kṛṣṇe is taken as a dark form of the deity."
+   ],
+   "plain_english": "These are yellow flowers, but for the dark one the blue water-lily is best."
+  },
+  {
+   "verse": 1088,
+   "rows": [
+    {
+     "surface": "apāmārgaṃ",
+     "gloss": "apamarga",
+     "grounds": "named plant or leaf for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuśā",
+     "gloss": "kusha-grasses",
+     "grounds": "named sacred grasses",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dūrvāḥ",
+     "gloss": "durva-grasses",
+     "grounds": "named sacred grasses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañcabilvāḥ",
+     "gloss": "five-bilva-leaves",
+     "grounds": "compound specifying bilva leaves in a set of five",
+     "morph": "compound=pañca+bilva; m.nom.pl"
+    },
+    {
+     "surface": "śamī",
+     "gloss": "shami",
+     "grounds": "named plant for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which leaves and grasses are included among acceptable ritual offerings?",
+   "premises": [
+    "Apamarga is named in the list.",
+    "Kusha and durva grasses are named.",
+    "Five bilva leaves and shami are named."
+   ],
+   "inference": "Apamarga, kusha grasses, durva grasses, five bilva leaves, and shami are acceptable offerings.",
+   "uncertainties": [],
+   "plain_english": "Apamarga, kusha grasses, durva grasses, five bilva leaves, and shami are likewise included."
+  },
+  {
+   "verse": 1089,
+   "rows": [
+    {
+     "surface": "ekapatrāravindaṃ",
+     "gloss": "one-leaf-lotus",
+     "grounds": "compound naming a specific lotus form",
+     "morph": "compound=eka+patra+aravinda; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇukrāntis",
+     "gloss": "vishnu-kranti",
+     "grounds": "named plant for offering; final sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional leaves or plants are included in the offering list?",
+   "premises": [
+    "The one-leaf lotus is named.",
+    "Vishnu-kranti is named.",
+    "The verse continues the enumeration emphatically."
+   ],
+   "inference": "The one-leaf lotus and vishnu-kranti are also included among acceptable offerings.",
+   "uncertainties": [
+    "The exact botanical identity of ekapatrāravinda is uncertain."
+   ],
+   "plain_english": "The one-leaf lotus and vishnu-kranti are likewise included."
+  },
+  {
+   "verse": 1090,
+   "rows": [
+    {
+     "surface": "evamādīni",
+     "gloss": "thus-beginning-with",
+     "grounds": "indicates an open-ended list of similar items",
+     "morph": "compound=evam+ādi; n.nom.pl"
+    },
+    {
+     "surface": "patrāṇi",
+     "gloss": "leaves",
+     "grounds": "category of offering materials",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "putravṛddhikarāṇi",
+     "gloss": "son-increase-causing",
+     "grounds": "compound stating the ritual effect of these leaves",
+     "morph": "compound=putra+vṛddhi+kara; n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual benefit is attributed to leaves of this kind?",
+   "premises": [
+    "Leaves of this and similar kinds are referred to.",
+    "These leaves are described as causing increase of sons.",
+    "The statement extends the preceding list."
+   ],
+   "inference": "Leaves of this kind and similar ones are said to promote the increase of sons.",
+   "uncertainties": [],
+   "plain_english": "Leaves such as these bring about the increase of sons."
+  },
+  {
+   "verse": 1091,
+   "rows": [
+    {
+     "surface": "arkapuṣpasahasrebhyo",
+     "gloss": "than-arka-flower-thousands",
+     "grounds": "compound expressing comparison with thousands of arka flowers",
+     "morph": "compound=arka+puṣpa+sahasra; n.abl.pl"
+    },
+    {
+     "surface": "bakapuṣpaṃ",
+     "gloss": "baka-flower",
+     "grounds": "flower declared superior in comparison",
+     "morph": "compound=baka+puṣpa; n.nom.sg"
+    },
+    {
+     "surface": "viśiṣyate",
+     "gloss": "is-superior",
+     "grounds": "states comparative excellence",
+     "morph": "3.sg.pass-pres/vi-śiṣ"
+    }
+   ],
+   "question": "Which flower is declared superior to thousands of arka flowers?",
+   "premises": [
+    "Thousands of arka flowers are the basis of comparison.",
+    "The baka flower is named.",
+    "The baka flower is said to be superior."
+   ],
+   "inference": "A single baka flower is superior to thousands of arka flowers.",
+   "uncertainties": [],
+   "plain_english": "The baka flower is superior to thousands of arka flowers."
+  },
+  {
+   "verse": 1092,
+   "rows": [
+    {
+     "surface": "dhuttūrakasahasrebhyaḥ",
+     "gloss": "than-dhuttura-thousands",
+     "grounds": "compound expressing comparison with thousands of dhuttura flowers",
+     "morph": "compound=dhuttūraka+sahasra; n.abl.pl"
+    },
+    {
+     "surface": "śamīpuṣpaṃ",
+     "gloss": "shami-flower",
+     "grounds": "flower declared superior in comparison",
+     "morph": "compound=śamī+puṣpa; n.nom.sg"
+    },
+    {
+     "surface": "viśiṣyate",
+     "gloss": "is-superior",
+     "grounds": "states comparative excellence",
+     "morph": "3.sg.pass-pres/vi-śiṣ"
+    }
+   ],
+   "question": "Which flower is declared superior to thousands of dhuttura flowers?",
+   "premises": [
+    "Thousands of dhuttura flowers are the basis of comparison.",
+    "The shami flower is named.",
+    "The shami flower is said to be superior."
+   ],
+   "inference": "A single shami flower is superior to thousands of dhuttura flowers.",
+   "uncertainties": [],
+   "plain_english": "The shami flower is superior to thousands of dhuttura flowers."
+  },
+  {
+   "verse": 1093,
+   "rows": [
+    {
+     "surface": "karavīrasamā",
+     "gloss": "equal-to-karavira",
+     "grounds": "states equivalence with karavira",
+     "morph": "compound=karavīra+sama; f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "should-be-known",
+     "grounds": "prescriptive instruction on evaluation",
+     "morph": "f.nom.sg.fut-pass-part/jñā"
+    },
+    {
+     "surface": "jātī",
+     "gloss": "jati",
+     "grounds": "flower being evaluated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vijayapāṭalī",
+     "gloss": "vijaya-patali",
+     "grounds": "compound naming another flower treated as equal",
+     "morph": "compound=vijaya+pāṭalī; f.nom.sg"
+    }
+   ],
+   "question": "Which flowers are declared equal in value to karavira?",
+   "premises": [
+    "Karavira is the standard of comparison.",
+    "Jati is said to be equal to karavira.",
+    "Vijaya-patali is also said to be equal to karavira."
+   ],
+   "inference": "Jati and vijaya-patali should be known as equal to karavira.",
+   "uncertainties": [],
+   "plain_english": "Jati and vijaya-patali should be known as equal to karavira."
+  },
+  {
+   "verse": 1094,
+   "rows": [
+    {
+     "surface": "nāgacampakapunnāgā",
+     "gloss": "naga-campaka-punnaga",
+     "grounds": "compound listing three flowers together",
+     "morph": "compound=nāga+campaka+punnāga; m.nom.pl"
+    },
+    {
+     "surface": "dhuttūrakasamāḥ",
+     "gloss": "equal-to-dhuttura",
+     "grounds": "states equivalence with dhuttura",
+     "morph": "compound=dhuttūraka+sama; m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "are-remembered",
+     "grounds": "records traditional equivalence",
+     "morph": "m.nom.pl.past-pass-part/smṛ"
+    }
+   ],
+   "question": "Which flowers are traditionally regarded as equal to dhuttura?",
+   "premises": [
+    "Naga, campaka, and punnaga are named together.",
+    "They are compared to dhuttura.",
+    "They are remembered as equal to dhuttura."
+   ],
+   "inference": "Naga, campaka, and punnaga are traditionally regarded as equal to dhuttura.",
+   "uncertainties": [],
+   "plain_english": "Naga, campaka, and punnaga are remembered as equal to dhuttura."
+  },
+  {
+   "verse": 1095,
+   "rows": [
+    {
+     "surface": "śirīṣasarjabandhūkakusumāni",
+     "gloss": "shirisha-sarja-bandhuka-flowers",
+     "grounds": "compound listing flowers to be avoided",
+     "morph": "compound=śirīṣa+sarja+bandhūka+kusuma; n.acc.pl"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive prohibition",
+     "morph": "3.sg.act-opt/vi-sṛj"
+    }
+   ],
+   "question": "Which flowers must be avoided in ritual offerings?",
+   "premises": [
+    "Shirisha, sarja, and bandhuka flowers are named.",
+    "The verb prescribes avoiding them.",
+    "The instruction is prohibitive in effect."
+   ],
+   "inference": "Shirisha, sarja, and bandhuka flowers should be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid shirisha, sarja, and bandhuka flowers."
+  },
+  {
+   "verse": 1096,
+   "rows": [
+    {
+     "surface": "vaibhītakāni",
+     "gloss": "vaibhitaka",
+     "grounds": "qualifies leaves or items from vaibhitaka",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "patrāṇi",
+     "gloss": "leaves",
+     "grounds": "category of items to be avoided",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kusumāni",
+     "gloss": "flowers",
+     "grounds": "category of items to be avoided",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive prohibition",
+     "morph": "3.sg.act-opt/vi-vṛj"
+    }
+   ],
+   "question": "Which vaibhitaka items are prohibited for ritual use?",
+   "premises": [
+    "Vaibhitaka leaves are named.",
+    "Vaibhitaka flowers are named.",
+    "The verb prescribes avoiding them."
+   ],
+   "inference": "Vaibhitaka leaves and flowers should be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid vaibhitaka leaves and flowers."
+  },
+  {
+   "verse": 1097,
+   "rows": [
+    {
+     "surface": "gandhavanty",
+     "gloss": "fragrant",
+     "grounds": "describes flowers having scent",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "apavitrāṇi",
+     "gloss": "impure",
+     "grounds": "marks the flowers as ritually impure",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kusumāni",
+     "gloss": "flowers",
+     "grounds": "category of items to be avoided",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive prohibition",
+     "morph": "3.sg.act-opt/vi-vṛj"
+    }
+   ],
+   "question": "What kind of fragrant flowers must be excluded from offerings?",
+   "premises": [
+    "The flowers in question are fragrant.",
+    "These fragrant flowers are described as impure.",
+    "The verb prescribes avoiding them."
+   ],
+   "inference": "Fragrant flowers that are impure should be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid fragrant flowers that are impure."
+  },
+  {
+   "verse": 1098,
+   "rows": [
+    {
+     "surface": "kanakāni",
+     "gloss": "kanaka-flowers",
+     "grounds": "named flowers permitted at night",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kadambāni",
+     "gloss": "kadamba-flowers",
+     "grounds": "named flowers permitted at night",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "specifies the time for offering",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "deyāni",
+     "gloss": "to-be-offered",
+     "grounds": "prescribes offering at the specified time",
+     "morph": "n.nom.pl.fut-pass-part/dā"
+    },
+    {
+     "surface": "śaṅkare",
+     "gloss": "to-shankara",
+     "grounds": "specifies the recipient deity",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which flowers are prescribed for nighttime offering to Shankara?",
+   "premises": [
+    "Kanaka flowers are named.",
+    "Kadamba flowers are named.",
+    "They are to be offered at night to Shankara."
+   ],
+   "inference": "Kanaka and kadamba flowers should be offered to Shankara at night.",
+   "uncertainties": [],
+   "plain_english": "Kanaka and kadamba flowers should be offered to Shankara at night."
+  },
+  {
+   "verse": 1099,
+   "rows": [
+    {
+     "surface": "praharārdhe",
+     "gloss": "at-half-prahara",
+     "grounds": "specifies a time period for jati",
+     "morph": "compound=prahara+ardha; n.loc.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "is-remembered",
+     "grounds": "records traditional timing",
+     "morph": "f.nom.sg.past-pass-part/smṛ"
+    },
+    {
+     "surface": "jātī",
+     "gloss": "jati",
+     "grounds": "flower with specified timing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karavīram",
+     "gloss": "karavira",
+     "grounds": "flower permitted day and night",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aharniśam",
+     "gloss": "day-and-night",
+     "grounds": "specifies continuous suitability",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What timing rules govern the offering of jati and karavira flowers?",
+   "premises": [
+    "Jati is remembered in relation to half a prahara.",
+    "Karavira is named alongside jati.",
+    "Karavira is associated with day and night."
+   ],
+   "inference": "Jati is remembered for half a prahara, while karavira is suitable day and night.",
+   "uncertainties": [
+    "The exact sense of praharārdhe as the valid duration for jati is not fully explicit."
+   ],
+   "plain_english": "Jati is remembered for half a prahara, while karavira is suitable day and night."
+  }
+ ]
+}

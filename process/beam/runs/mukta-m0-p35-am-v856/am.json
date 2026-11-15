@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p35",
  "verse": 856,
- "question": "Where should the bathing-ground urine and earth clay be cast?",
+ "question": "What simile illustrates the manifestation of the latent principle through effort?",
  "premises": [
-  "bathing-ground urine is named",
-  "earth clay is named",
-  "both are cast in a snake's mouth"
+  "Fire is manifested from wood.",
+  "Churning and similar actions serve as the means.",
+  "The simile explains gradual manifestation."
  ],
- "inference": "The materials are cast into a snake's mouth.",
- "uncertainties": [],
- "plain_english": "Cast bathing-ground urine and earth clay into a snake's mouth."
+ "inference": "Just as fire is manifested from wood by churning and other means, so the principle becomes manifest.",
+ "uncertainties": [
+  "Tokens 'a?', 'to', and 'vahnirvya?' are fragmentary in the source and interpreted by context."
+ ],
+ "plain_english": "Just as fire is manifested from wood by churning and other means."
 }

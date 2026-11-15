@@ -99,6 +99,12 @@ def main() -> int:
     except Exception as e:  # noqa: BLE001
         step('passages-ledger', False, str(e)[:160])
 
+    # 2c. MCP surface smoke — every tool registered, safe reads return a dict.
+    # Guards the whole agent interface (a broken tool = a broken operator);
+    # catches bad subprocess paths / bare-list returns. Read-only, ~4s.
+    rc, out = run([sys.executable, 'tools/mcp_smoke.py', '--quick'], timeout=600)
+    step('mcp-smoke', rc == 0, out.splitlines()[-1][:200] if rc else '')
+
     # 3. per-song validate (skip in --quick)
     if not quick:
         from workcfg import data_dir

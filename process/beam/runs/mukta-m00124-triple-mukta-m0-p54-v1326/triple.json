@@ -1,0 +1,1187 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1326,
+   "rows": [
+    {
+     "surface": "caturthīm",
+     "gloss": "fourth",
+     "grounds": "ordinal portion of oblation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "agnaye",
+     "gloss": "to-fire",
+     "grounds": "recipient deity Agni",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sviṣṭakṛte",
+     "gloss": "to-sviṣṭakṛt",
+     "grounds": "epithet of Agni as maker of good offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhutiñ",
+     "gloss": "oblation",
+     "grounds": "offering poured into fire",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-offer",
+     "grounds": "prescribes ritual action",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "To which form of Agni must the fourth oblation be offered with svāhā?",
+   "premises": [
+    "A fourth oblation is specified.",
+    "The recipient is Agni called sviṣṭakṛt.",
+    "The offering is made with the utterance svāhā."
+   ],
+   "inference": "The fourth oblation should be offered with svāhā to Agni sviṣṭakṛt.",
+   "uncertainties": [],
+   "plain_english": "One should offer the fourth oblation with svāhā to Agni Sviṣṭakṛt."
+  },
+  {
+   "verse": 1327,
+   "rows": [
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "refers to the stated division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhāgaḥ",
+     "gloss": "division",
+     "grounds": "arrangement of offerings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śukle",
+     "gloss": "in-bright-fortnight",
+     "grounds": "lunar bright half",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "kṛṣṇe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "lunar dark half",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūrya+āhutiṃ",
+     "gloss": "sun-oblation",
+     "grounds": "compound: oblation to Sūrya",
+     "morph": "f.acc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-offer",
+     "grounds": "prescribes ritual action",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "How does the prescribed oblation division differ between the bright and dark lunar fortnights?",
+   "premises": [
+    "This division applies in the bright fortnight.",
+    "In the dark fortnight a different offering is required.",
+    "The dark-fortnight offering is an oblation to Sūrya."
+   ],
+   "inference": "The stated division holds in the bright fortnight, but in the dark fortnight one should offer an oblation to Sūrya.",
+   "uncertainties": [],
+   "plain_english": "This division should be followed in the bright fortnight, but in the dark fortnight one should offer the oblation to Sūrya."
+  },
+  {
+   "verse": 1328,
+   "rows": [
+    {
+     "surface": "svaiḥ",
+     "gloss": "with-own",
+     "grounds": "respective or proper",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "svair",
+     "gloss": "with-own",
+     "grounds": "repeated for emphasis on respective mantras",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "ritual formulas",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samopetaṃ",
+     "gloss": "endowed-with",
+     "grounds": "accompanied or united with",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadyaṃ",
+     "gloss": "sadya",
+     "grounds": "Sadyojāta aspect or mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmena",
+     "gloss": "with-vāma",
+     "grounds": "Vāmadeva aspect or mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "ritual conjunction",
+     "morph": "3.sg.opt.act caus. √yuj"
+    }
+   ],
+   "question": "How must Sadya be joined with Vāma using their respective mantras?",
+   "premises": [
+    "The action uses each one's own mantras.",
+    "Sadya is to be endowed or accompanied accordingly.",
+    "Sadya must be joined with Vāma."
+   ],
+   "inference": "One should join Sadya, endowed with its own mantras, together with Vāma using Vāma's own mantra.",
+   "uncertainties": [
+    "Whether sadyaṃ refers to the Sadyojāta mantra, deity aspect, or ritual element is context-dependent."
+   ],
+   "plain_english": "Endowed with their respective mantras, one should join Sadya with Vāma."
+  },
+  {
+   "verse": 1329,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "refers to the previously joined element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśāne",
+     "gloss": "in-īśāna",
+     "grounds": "Īśāna aspect or mantra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyojyaṃ",
+     "gloss": "to-be-joined",
+     "grounds": "requires conjunction",
+     "morph": "m.acc.sg (gerundive)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "refers to the combined element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivena",
+     "gloss": "with-śiva",
+     "grounds": "Śiva aspect or mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "ritual conjunction",
+     "morph": "3.sg.opt.act caus. √yuj"
+    }
+   ],
+   "question": "Into which higher aspects must the previously joined element be further united?",
+   "premises": [
+    "The previously joined element must be joined in Īśāna.",
+    "That combined element must then be joined with Śiva.",
+    "The final joining is restricted to Śiva alone."
+   ],
+   "inference": "One should join that element in Īśāna and then unite it with Śiva alone.",
+   "uncertainties": [],
+   "plain_english": "And that should be joined in Īśāna, and then one should unite it with Śiva alone."
+  },
+  {
+   "verse": 1330,
+   "rows": [
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "respective",
+     "morph": "m.nom.sg (stem in compound context)"
+    },
+    {
+     "surface": "sva+mantra",
+     "gloss": "own-mantra",
+     "grounds": "compound: each with its own mantra",
+     "morph": "m.inst.sg (bahuvrīhi-like compound)"
+    },
+    {
+     "surface": "samopetaṃ",
+     "gloss": "endowed-with",
+     "grounds": "accompanied by",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadyojāta+ādito",
+     "gloss": "from-sadyojāta-onward",
+     "grounds": "compound: beginning with Sadyojāta",
+     "morph": "(indecl. ablative compound)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-lead",
+     "grounds": "conduct or guide in sequence",
+     "morph": "3.sg.opt.act √nī"
+    }
+   ],
+   "question": "From which starting point and with what accompaniment should the sequence be led?",
+   "premises": [
+    "Each element is endowed with its own mantra.",
+    "The sequence begins from Sadyojāta onward.",
+    "The practitioner must lead this sequence."
+   ],
+   "inference": "One should lead the sequence from Sadyojāta onward, each element endowed with its own mantra.",
+   "uncertainties": [],
+   "plain_english": "Endowed with their own mantras, one should lead the sequence beginning from Sadyojāta onward."
+  },
+  {
+   "verse": 1331,
+   "rows": [
+    {
+     "surface": "anna+prāśana",
+     "gloss": "rice-feeding",
+     "grounds": "compound: first feeding of food",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "cūḍa",
+     "gloss": "tonsure",
+     "grounds": "hair-cutting rite",
+     "morph": "m.nom.sg (compound member)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-other",
+     "grounds": "indicates a series of rites",
+     "morph": "m.nom.sg (compound member)"
+    },
+    {
+     "surface": "saṃskārāṇāṃ",
+     "gloss": "of-sacraments",
+     "grounds": "life-cycle consecratory rites",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prasiddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "purpose of successful performance",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For the accomplishment of which sacraments is the preceding ritual procedure intended?",
+   "premises": [
+    "Rice-feeding and tonsure are named rites.",
+    "Other sacraments are included by the term ādi.",
+    "The procedure aims at their accomplishment."
+   ],
+   "inference": "The procedure is for the accomplishment of sacraments such as rice-feeding, tonsure, and others.",
+   "uncertainties": [],
+   "plain_english": "This is for the accomplishment of sacraments such as the first feeding of rice, the tonsure, and others."
+  },
+  {
+   "verse": 1332,
+   "rows": [
+    {
+     "surface": "vauṣaḍ+antena",
+     "gloss": "ending-with-vauṣaṭ",
+     "grounds": "compound: mantra ending in vauṣaṭ",
+     "morph": "m.inst.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "primary mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sruk+sruvābhyāṃ",
+     "gloss": "with-sruk-and-sruva",
+     "grounds": "compound: two sacrificial ladles",
+     "morph": "f.inst.du (dvandva)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "marks special emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With which mantra form and ritual implements should the offering be performed especially?",
+   "premises": [
+    "The root mantra is used.",
+    "That mantra ends with vauṣaṭ.",
+    "The sruk and sruva ladles are employed."
+   ],
+   "inference": "The offering should be performed especially with the root mantra ending in vauṣaṭ and with the sruk and sruva.",
+   "uncertainties": [],
+   "plain_english": "Especially, it should be done with the root mantra ending in vauṣaṭ and with the sruk and sruva ladles."
+  },
+  {
+   "verse": 1333,
+   "rows": [
+    {
+     "surface": "grāhayet",
+     "gloss": "should-cause-to-take",
+     "grounds": "make someone receive or take",
+     "morph": "3.sg.opt.act caus. √grah"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak+bhāgaṃ",
+     "gloss": "separate-portion",
+     "grounds": "compound: a distinct share",
+     "morph": "m.acc.sg (karmadhāraya)"
+    },
+    {
+     "surface": "vahnim",
+     "gloss": "fire",
+     "grounds": "sacrificial fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddhṛtya",
+     "gloss": "having-drawn-out",
+     "grounds": "extracting a portion of fire",
+     "morph": "(gerund) √uddhṛ"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "carefully",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must a separate portion of fire be prepared and given with due care?",
+   "premises": [
+    "A separate portion is required.",
+    "Fire must be drawn out carefully.",
+    "Someone must be made to take that portion."
+   ],
+   "inference": "Having carefully drawn out the fire, one should cause a separate portion to be taken.",
+   "uncertainties": [],
+   "plain_english": "But having carefully drawn out the fire, one should cause a separate portion to be taken."
+  },
+  {
+   "verse": 1334,
+   "rows": [
+    {
+     "surface": "anāhute",
+     "gloss": "not-invoked",
+     "grounds": "without ritual invocation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-śiva",
+     "grounds": "Śiva presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "sacrificial fire locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "homas",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvāhite",
+     "gloss": "when-invoked",
+     "grounds": "after ritual invocation",
+     "morph": "m.loc.sg (past participle)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-śiva",
+     "grounds": "Śiva presence",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Under what condition regarding Śiva's invocation in the fire is the oblation properly situated?",
+   "premises": [
+    "The fire may be without Śiva invoked.",
+    "The fire may be with Śiva invoked.",
+    "The verse contrasts these two states for the oblation."
+   ],
+   "inference": "The oblation is considered in relation to whether Śiva is not invoked or invoked in the fire.",
+   "uncertainties": [
+    "The verse is elliptical and may imply prohibition in the uninvoked state and permission in the invoked state."
+   ],
+   "plain_english": "The oblation is contrasted between a fire in which Śiva is not invoked and one in which Śiva is invoked."
+  },
+  {
+   "verse": 1335,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from prior state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvadīya",
+     "gloss": "in-your",
+     "grounds": "belonging to you",
+     "morph": "m.loc.sg (compound member)"
+    },
+    {
+     "surface": "hṛt+padme",
+     "gloss": "heart-lotus",
+     "grounds": "compound: lotus of the heart",
+     "morph": "n.loc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-placed",
+     "grounds": "establishing ritually or mentally",
+     "morph": "(gerund) caus. √sthā"
+    },
+    {
+     "surface": "santarpayāmi",
+     "gloss": "i-satisfy",
+     "grounds": "perform satisfaction offering",
+     "morph": "1.sg.pres.act caus. √tṛp"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker or officiant",
+     "morph": "1.nom.sg"
+    }
+   ],
+   "question": "Where must the deity be placed before the officiant declares satisfaction of the deity?",
+   "premises": [
+    "A consequence follows from the previous condition.",
+    "The deity is placed in your heart-lotus.",
+    "The officiant then performs satisfaction."
+   ],
+   "inference": "Therefore, having placed the deity in your heart-lotus, I satisfy the deity.",
+   "uncertainties": [],
+   "plain_english": "Therefore, having placed you in the heart-lotus, I satisfy you."
+  },
+  {
+   "verse": 1336,
+   "rows": [
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "installing or arranging",
+     "morph": "(gerund) √vinyas"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-form",
+     "grounds": "mentally or ritually construct",
+     "morph": "3.sg.opt.act caus. √kḷp"
+    },
+    {
+     "surface": "mūrtiṃ",
+     "gloss": "form",
+     "grounds": "manifest image or body",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhāsvarāṃ",
+     "gloss": "radiant",
+     "grounds": "shining",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "suvarāṃ",
+     "gloss": "beautiful",
+     "grounds": "excellent in form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of supreme form should be fashioned after the deity has been placed?",
+   "premises": [
+    "The deity is first placed.",
+    "A form must then be fashioned.",
+    "That form is radiant, beautiful, and supreme."
+   ],
+   "inference": "After placing the deity, one should fashion a radiant, beautiful, supreme form.",
+   "uncertainties": [],
+   "plain_english": "Having placed the deity, one should fashion a radiant, beautiful, supreme form."
+  },
+  {
+   "verse": 1337,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "performing worship",
+     "morph": "(gerund) caus. √pūj"
+    },
+    {
+     "surface": "bahis",
+     "gloss": "outside",
+     "grounds": "external to the main form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "of-that",
+     "grounds": "refers to the fashioned form",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bhoga+aṅgāni",
+     "gloss": "enjoyment-limbs",
+     "grounds": "compound: subsidiary limbs for enjoyment",
+     "morph": "n.acc.pl (tatpuruṣa)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "set up or configure",
+     "morph": "3.sg.opt.act caus. √kḷp"
+    }
+   ],
+   "question": "What subsidiary elements must be arranged outside the form after worship has been performed?",
+   "premises": [
+    "Worship is performed first.",
+    "The arrangement is made outside that form.",
+    "The elements arranged are the enjoyment-limbs."
+   ],
+   "inference": "After worship, one should arrange the enjoyment-limbs outside that form.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped, one should arrange the enjoyment-limbs outside that form."
+  },
+  {
+   "verse": 1338,
+   "rows": [
+    {
+     "surface": "prarocya",
+     "gloss": "having-pleased",
+     "grounds": "making agreeable or delighting",
+     "morph": "(gerund) caus. √ruc"
+    },
+    {
+     "surface": "paramīkṛtya",
+     "gloss": "having-made-supreme",
+     "grounds": "elevating to the highest state",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "śiva+vaktra",
+     "gloss": "śiva-mouth",
+     "grounds": "compound: mouth or face of Śiva",
+     "morph": "n.nom.sg (compound member)"
+    },
+    {
+     "surface": "agni+vaktrayoḥ",
+     "gloss": "and-fire-mouth",
+     "grounds": "compound: mouths of Śiva and fire",
+     "morph": "n.loc.du (dvandva)"
+    }
+   ],
+   "question": "In relation to which two mouths must the ritual elements be pleased and made supreme?",
+   "premises": [
+    "The elements are first pleased.",
+    "They are then made supreme.",
+    "This concerns the mouths of Śiva and fire."
+   ],
+   "inference": "Having pleased and made them supreme, one acts in relation to the mouths of Śiva and fire.",
+   "uncertainties": [
+    "The exact syntactic role of śiva+vaktra in the compound chain is compressed and context-dependent."
+   ],
+   "plain_english": "Having pleased and made them supreme, one should do so in relation to the mouths of Śiva and fire."
+  },
+  {
+   "verse": 1339,
+   "rows": [
+    {
+     "surface": "yāga+sthāne",
+     "gloss": "in-worship-place",
+     "grounds": "compound: place of ritual worship",
+     "morph": "n.loc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "śivena",
+     "gloss": "with-śiva",
+     "grounds": "Śiva as the unifying principle",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ekībhūtaṃ",
+     "gloss": "become-one",
+     "grounds": "unified or merged",
+     "morph": "m.acc.sg (past participle)"
+    },
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "completely and correctly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-contemplate",
+     "grounds": "meditative visualization",
+     "morph": "3.sg.opt.act √cint"
+    }
+   ],
+   "question": "What unified state must be contemplated in the place of worship together with Śiva?",
+   "premises": [
+    "The contemplation occurs in the place of worship.",
+    "The object contemplated has become one with Śiva.",
+    "The contemplation must be done properly."
+   ],
+   "inference": "In the place of worship one should properly contemplate what has become one with Śiva.",
+   "uncertainties": [],
+   "plain_english": "In the place of worship, one should properly contemplate it as having become one with Śiva."
+  },
+  {
+   "verse": 1340,
+   "rows": [
+    {
+     "surface": "śivād",
+     "gloss": "from-śiva",
+     "grounds": "taking Śiva's portion as basis",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "daśāṃśato",
+     "gloss": "by-tenth-part",
+     "grounds": "one tenth in measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "subsidiary aspects or parts",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "offer satisfaction oblations",
+     "morph": "3.sg.opt.act caus. √tṛp"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvija+uttamāḥ",
+     "gloss": "o-best-twice-born",
+     "grounds": "compound: vocative address to foremost twice-born",
+     "morph": "m.voc.pl (tatpuruṣa)"
+    }
+   ],
+   "question": "In what proportion relative to Śiva should the limbs be satisfied, according to the address to the twice-born?",
+   "premises": [
+    "The instruction is addressed to the best of the twice-born.",
+    "The limbs must be satisfied.",
+    "Their measure is a tenth part relative to Śiva."
+   ],
+   "inference": "O best of the twice-born, one should satisfy the limbs by a tenth part relative to Śiva.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, one should satisfy the limbs with a tenth part of what is offered to Śiva."
+  },
+  {
+   "verse": 1341,
+   "rows": [
+    {
+     "surface": "ātma+arthe",
+     "gloss": "for-oneself",
+     "grounds": "compound: for one's own sake",
+     "morph": "m.loc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "para+arthe",
+     "gloss": "for-others",
+     "grounds": "compound: for another's sake",
+     "morph": "m.loc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "each day",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homam",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "carry out ritually",
+     "morph": "3.sg.opt.act √ācar"
+    }
+   ],
+   "question": "For whose benefit and with what frequency must the fire oblation be performed?",
+   "premises": [
+    "The oblation may be for oneself.",
+    "The oblation may be for others.",
+    "It must be performed daily."
+   ],
+   "inference": "One should perform the fire oblation daily, whether for oneself or for others.",
+   "uncertainties": [],
+   "plain_english": "One should perform the fire oblation daily, whether for oneself or for others."
+  },
+  {
+   "verse": 1342,
+   "rows": [
+    {
+     "surface": "ājya+abhāvāt",
+     "gloss": "from-lack-of-ghee",
+     "grounds": "compound: because ghee is unavailable",
+     "morph": "m.abl.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "tilair",
+     "gloss": "with-sesame",
+     "grounds": "sesame seeds as substitute",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "obligatory action",
+     "morph": "m.nom.sg (gerundive)"
+    },
+    {
+     "surface": "kṛṣṇa+varcasaiḥ",
+     "gloss": "with-black-color",
+     "grounds": "compound: having black appearance",
+     "morph": "m.inst.pl (bahuvrīhi)"
+    }
+   ],
+   "question": "What substitute material must be used for the oblation when ghee is unavailable?",
+   "premises": [
+    "Ghee may be unavailable.",
+    "An oblation must still be performed.",
+    "Black sesame seeds are specified as the material."
+   ],
+   "inference": "In the absence of ghee, the oblation should be performed with black sesame seeds.",
+   "uncertainties": [],
+   "plain_english": "If ghee is unavailable, the oblation should be performed with black sesame seeds."
+  },
+  {
+   "verse": 1343,
+   "rows": [
+    {
+     "surface": "triphalair",
+     "gloss": "with-triphala",
+     "grounds": "three-fruit mixture",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bilva+patrair",
+     "gloss": "with-bilva-leaves",
+     "grounds": "compound: leaves of the bilva tree",
+     "morph": "n.inst.pl (tatpuruṣa)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpair",
+     "gloss": "with-flowers",
+     "grounds": "floral offerings",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yājñikaiḥ",
+     "gloss": "sacrificial",
+     "grounds": "fit for ritual use",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "pure and favorable",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which alternative auspicious sacrificial materials may be used for the oblation?",
+   "premises": [
+    "Triphala may be used.",
+    "Bilva leaves may be used.",
+    "Auspicious sacrificial flowers may be used."
+   ],
+   "inference": "The oblation may be made with triphala, bilva leaves, or auspicious sacrificial flowers.",
+   "uncertainties": [],
+   "plain_english": "Or it may be done with triphala, with bilva leaves, or with auspicious sacrificial flowers."
+  },
+  {
+   "verse": 1344,
+   "rows": [
+    {
+     "surface": "mṛgīṃ",
+     "gloss": "mṛgī",
+     "grounds": "ritual hand gesture name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārāha+mudrāṃ",
+     "gloss": "vārāha-mudrā",
+     "grounds": "compound: boar hand gesture",
+     "morph": "f.acc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkhinīṃ",
+     "gloss": "śaṅkhinī",
+     "grounds": "ritual hand gesture name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "forming or executing",
+     "morph": "(gerund) √vidhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which alternative ritual hand gestures may be formed during the offering procedure?",
+   "premises": [
+    "The mṛgī gesture may be formed.",
+    "The vārāha-mudrā may be formed.",
+    "The śaṅkhinī gesture may be formed."
+   ],
+   "inference": "One may perform the mṛgī, vārāha-mudrā, or śaṅkhinī hand gesture.",
+   "uncertainties": [],
+   "plain_english": "And having formed the mṛgī, or the vārāha-mudrā, or the śaṅkhinī gesture."
+  },
+  {
+   "verse": 1345,
+   "rows": [
+    {
+     "surface": "su+sneha",
+     "gloss": "well-oiled",
+     "grounds": "compound: rich in oil or fat",
+     "morph": "m.nom.sg (compound member)"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "sweet offering substance",
+     "morph": "n.nom.sg (compound member)"
+    },
+    {
+     "surface": "dugdhānām",
+     "gloss": "of-milk",
+     "grounds": "milk substances",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "āhutiḥ",
+     "gloss": "oblation",
+     "grounds": "offering into fire",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "srava+ātmikā",
+     "gloss": "streaming-nature",
+     "grounds": "compound: consisting of a flowing stream",
+     "morph": "f.nom.sg (bahuvrīhi)"
+    }
+   ],
+   "question": "What flowing quality must characterize oblations made of well-oiled substances, honey, and milk?",
+   "premises": [
+    "The oblation involves well-oiled substances, honey, and milk.",
+    "The oblation has a prescribed nature.",
+    "That nature is a continuous stream."
+   ],
+   "inference": "The oblation of well-oiled substances, honey, and milk should be of a streaming nature.",
+   "uncertainties": [],
+   "plain_english": "The oblation of well-oiled substances, honey, and milk should be poured in a continuous stream."
+  },
+  {
+   "verse": 1346,
+   "rows": [
+    {
+     "surface": "paryāyāt",
+     "gloss": "in-turn",
+     "grounds": "successively or alternately",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sarva+bhakṣyāṇi",
+     "gloss": "all-eatables",
+     "grounds": "compound: all edible offerings",
+     "morph": "n.acc.pl (karmadhāraya)"
+    },
+    {
+     "surface": "pañca+agra+aṅgulibhis",
+     "gloss": "with-five-fingertips",
+     "grounds": "compound: using the tips of five fingers",
+     "morph": "f.inst.pl (bahuvrīhi)"
+    },
+    {
+     "surface": "tilān",
+     "gloss": "sesame",
+     "grounds": "sesame seeds",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How should all eatables and sesame be offered in sequence using the fingertips?",
+   "premises": [
+    "Offerings are made in turn.",
+    "All eatables and sesame are included.",
+    "They are offered with the tips of five fingers."
+   ],
+   "inference": "All eatables and sesame should be offered in turn with the tips of the five fingers.",
+   "uncertainties": [],
+   "plain_english": "In turn, all eatables and sesame should be offered with the tips of the five fingers."
+  },
+  {
+   "verse": 1347,
+   "rows": [
+    {
+     "surface": "hasta+piṇḍa+mitaṃ",
+     "gloss": "handful-measured",
+     "grounds": "compound: measured as a handful",
+     "morph": "n.nom.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "śākaṃ",
+     "gloss": "vegetable",
+     "grounds": "edible greens",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sva+aṣṭāṃśaṃ",
+     "gloss": "one-eighth",
+     "grounds": "compound: an eighth part of that amount",
+     "morph": "m.nom.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "kanda+jātayaḥ",
+     "gloss": "bulbous-roots",
+     "grounds": "compound: kinds of bulbous roots",
+     "morph": "f.nom.pl (tatpuruṣa)"
+    }
+   ],
+   "question": "What measured quantities are prescribed for vegetables and bulbous roots in the offering?",
+   "premises": [
+    "Vegetables are measured as a handful.",
+    "Bulbous roots are offered in a specified proportion.",
+    "That proportion is one eighth."
+   ],
+   "inference": "Vegetables should be a handful in measure, and bulbous roots one eighth of that amount.",
+   "uncertainties": [],
+   "plain_english": "Vegetables should be offered in a handful measure, and bulbous roots in one-eighth of that amount."
+  },
+  {
+   "verse": 1348,
+   "rows": [
+    {
+     "surface": "tri+khaṇḍāni",
+     "gloss": "in-three-pieces",
+     "grounds": "compound: divided into three parts",
+     "morph": "n.nom.pl (bahuvrīhi)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlāni",
+     "gloss": "roots",
+     "grounds": "root offerings",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dvi+aṅgulā",
+     "gloss": "two-fingers-long",
+     "grounds": "compound: measuring two finger-breadths",
+     "morph": "f.nom.pl (bahuvrīhi)"
+    },
+    {
+     "surface": "valli+jātayaḥ",
+     "gloss": "creepers",
+     "grounds": "compound: kinds of creepers",
+     "morph": "f.nom.pl (tatpuruṣa)"
+    }
+   ],
+   "question": "How must roots and creepers be cut or measured for the ritual offering?",
+   "premises": [
+    "Roots must be divided into three pieces.",
+    "Creepers must be measured in length.",
+    "The prescribed length for creepers is two finger-breadths."
+   ],
+   "inference": "Roots should be in three pieces, and creepers should be two finger-breadths long.",
+   "uncertainties": [],
+   "plain_english": "Roots should be cut into three pieces, and creepers should be two finger-breadths long."
+  },
+  {
+   "verse": 1349,
+   "rows": [
+    {
+     "surface": "haviṣya+annaṃ",
+     "gloss": "sacrificial-food",
+     "grounds": "compound: ritually pure food",
+     "morph": "n.acc.sg (karmadhāraya)"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "subsequent step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "final stage of offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "betel offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinivedayet",
+     "gloss": "should-offer",
+     "grounds": "present respectfully",
+     "morph": "3.sg.opt.act caus. √nived"
+    }
+   ],
+   "question": "What final offering must be presented after the sacrificial food has been given?",
+   "premises": [
+    "Sacrificial food is offered.",
+    "A subsequent final step follows.",
+    "Betel is presented at the end."
+   ],
+   "inference": "After offering the sacrificial food, one should finally present betel.",
+   "uncertainties": [],
+   "plain_english": "Then, at the end, one should offer sacrificial food and finally present betel."
+  }
+ ]
+}

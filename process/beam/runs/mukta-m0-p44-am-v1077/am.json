@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p44",
  "verse": 1077,
- "question": "What reward accrues from worship performed continuously for a full year?",
+ "question": "What alternative ingredients may be used to prepare the fragrance?",
  "premises": [
-  "Worship may be performed for a year",
-  "Sustained worship produces results",
-  "Ritual acts yield fruit"
+  "Kashmir scent, camphor, and sandalwood are named together.",
+  "The particle vā indicates an alternative.",
+  "The verb prescribes preparation with these ingredients."
  ],
- "inference": "One may obtain the fruit of worship performed for a year.",
- "uncertainties": [],
- "plain_english": "One may obtain the fruit of worship performed for a year."
+ "inference": "One may alternatively prepare the fragrance using Kashmir scent, camphor, and sandalwood.",
+ "uncertainties": [
+  "The exact referent of kāśmīragandha is treated as a fragrant substance from Kashmir."
+ ],
+ "plain_english": "Alternatively, one should prepare the fragrance with Kashmir scent, camphor, and sandalwood."
 }

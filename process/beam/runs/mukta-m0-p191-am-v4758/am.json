@@ -1,14 +1,14 @@
 {
  "song": "mukta-m0-p191",
  "verse": 4758,
- "question": "Which range of coercive ritual effects can a practitioner accomplish through this method?",
+ "question": "What is the starting count and increment for the number of walls?",
  "premises": [
-  "Paralysis is a possible effect.",
-  "Enmity is a possible effect.",
-  "Disease and expulsion are possible effects.",
-  "A person performs these acts."
+  "The wall count begins at three.",
+  "It increases by increments of vyoma-bhitti."
  ],
- "inference": "The practitioner can effect paralysis, enmity, disease, and expulsion.",
- "uncertainties": [],
- "plain_english": "A person can cause paralysis, enmity, disease, and expulsion."
+ "inference": "The number of walls is calculated starting from three with successive vyoma-bhitti increments.",
+ "uncertainties": [
+  "The exact numerical value of vyoma-bhitti is unclear."
+ ],
+ "plain_english": "Beginning with three walls, it should increase by increments of a vyoma-wall."
 }

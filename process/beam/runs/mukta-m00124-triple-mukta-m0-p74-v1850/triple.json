@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "daṇḍikam",
+     "gloss": "staff-type",
+     "grounds": "name of a specific arrangement type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svastikam",
+     "gloss": "svastika-type",
+     "grounds": "name of a specific arrangement type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting listed items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "another",
+     "grounds": "indefinite adjective indicating an additional item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prastaram",
+     "gloss": "spread-type",
+     "grounds": "name of a specific arrangement type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting listed items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrṇakam",
+     "gloss": "scattered-type",
+     "grounds": "name of a specific arrangement type",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which additional arrangement types are specified as included in this enumeration?",
+   "premises": [
+    "The staff-type arrangement is named.",
+    "The svastika-type arrangement is named.",
+    "Another spread-type arrangement is named.",
+    "A scattered-type arrangement is named."
+   ],
+   "inference": "The enumeration includes the staff-type, svastika-type, spread-type, and scattered-type arrangements.",
+   "uncertainties": [
+    "The precise technical definitions of daṇḍika, svastika, prastara, and prakīrṇaka in this ritual context are not fully specified."
+   ],
+   "plain_english": "The staff-type, the svastika-type, and another, the spread-type and the scattered-type."
+  }
+ ]
+}

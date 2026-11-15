@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p194",
  "verse": 4836,
- "question": "With which substances should the diagram be marked and written in this rite?",
+ "question": "What proportional options are given for the height of the base relative to the pillar?",
  "premises": [
-  "Buffalo and horse dung are used.",
-  "Cow urine is also used.",
-  "The marked diagram should then be written."
+  "Half the pillar height is one option for the base.",
+  "A seventh, eighth, or ninth part is another option."
  ],
- "inference": "One should write the diagram marked with buffalo dung, horse dung, and cow urine.",
- "uncertainties": [],
- "plain_english": "One should write it marked with buffalo and horse dung and with cow urine."
+ "inference": "The base may be made half the pillar height or a seventh, eighth, or ninth part.",
+ "uncertainties": [
+  "Whether the fractional options apply to the same total as the half-height option is not fully explicit."
+ ],
+ "plain_english": "The base should be half the pillar height, or a seventh, eighth, or ninth part."
 }

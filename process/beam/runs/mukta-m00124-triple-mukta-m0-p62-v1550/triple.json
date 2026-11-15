@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "kṛtakautukabandhas",
+     "gloss": "having-made-protective-thread-binding",
+     "grounds": "bahuvrīhi/participial compound kṛta-kautuka-bandhaḥ with nominative singular masculine ending; final visarga becomes s before tu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "adversative or continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍilasthaṃ",
+     "gloss": "placed-on-altar",
+     "grounds": "compound sthaṇḍila-stham, object of worship located on the ritual platform",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "3.sg.act.opt (√ṛc with sam)"
+    }
+   ],
+   "question": "What worship must be performed after binding the protective thread?",
+   "premises": [
+    "The protective thread binding has already been completed.",
+    "The object of worship is placed on the ritual altar.",
+    "A prescribed act of worship is enjoined in this state."
+   ],
+   "inference": "Therefore, after tying the protective thread, one should worship what is placed on the altar.",
+   "uncertainties": [
+    "The exact referent of sthaṇḍilasthaṃ is implicit and taken as the deity or ritual presence on the altar."
+   ],
+   "plain_english": "Having tied the protective thread, one should then worship the deity placed on the altar."
+  }
+ ]
+}

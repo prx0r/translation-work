@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "svāhā+antena",
+     "gloss": "ending-with-svāhā",
+     "grounds": "bahuvrīhi compound qualifying the mantra usage; svāhā kept as mantra syllable",
+     "morph": "compound: svāhā+anta, m.ins.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental of hṛd/hṛdaya, referring to the heart-mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking ritual elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "arghya-offering",
+     "grounds": "ritual oblation continued from previous verses",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dūrvā+ādyaṃ",
+     "gloss": "beginning-with-dūrvā",
+     "grounds": "bahuvrīhi compound qualifying arghya; dūrvā names the first material",
+     "morph": "compound: dūrvā+ādi, n.acc.sg"
+    },
+    {
+     "surface": "vauṣaṭ+antataḥ",
+     "gloss": "ending-with-vauṣaṭ",
+     "grounds": "compound with ablative adverbial suffix indicating termination; vauṣaṭ kept as mantra syllable",
+     "morph": "compound: vauṣaṭ+anta+tas, (indecl.)"
+    }
+   ],
+   "question": "Which mantra endings and initial materials must accompany the arghya offering in this ritual act?",
+   "premises": [
+    "The heart-mantra is applied with an ending in svāhā.",
+    "The arghya offering is presented as part of this ritual action.",
+    "The arghya is characterized as beginning with dūrvā.",
+    "The ritual formula is concluded with vauṣaṭ."
+   ],
+   "inference": "The arghya offering is to be performed with the heart-mantra ending in svāhā and with materials beginning with dūrvā, concluding with vauṣaṭ.",
+   "uncertainties": [
+    "The exact syntactic scope of ca in linking hṛdā and arghyaṃ is slightly ambiguous."
+   ],
+   "plain_english": "With the heart-mantra ending in svāhā, the arghya offering, beginning with dūrvā, is to be given and concluded with vauṣaṭ."
+  }
+ ]
+}

@@ -23,34 +23,34 @@
 [recitation](japaṃ) [having-offered](samarpya) [according-to-rule](vidhivat) [as-before](pūrvavat) [should-bow](praṇamet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p15-v358
-[by-whose+performance](yadanuṣṭhānato) [mantra-practitioner](mantrī) [pure+inner-organ](śuddhāntaḥkaraṇo) [may-become](bhavet)
+[by-whose+performance](yadanuṣṭhānato) [practitioner](mantrī) [pure+inner+organ](śuddhāntaḥkaraṇo) [may-become](bhavet)
 
 ## mukta-m0-p15-v359
-[supreme-lord](parameśvaraṃ) [ṅe+ending](ṅe'ntam) [having-said](uktvā) [we-know](vidmahe) [after-that](tadanantaram)
+[parama+īśvaram](parameśvaraṃ) [ṅe+ending](ṅe'ntam) [having-said](uktvā) [vidmahe](vidmahe) [after-that](tadanantaram)
 
 ## mukta-m0-p15-v360
-[this](iyaṃ) [auspicious+brahma+gāyatrī](śrībrahmagāyatrī) [four+goals+bestowing](caturvargapradāyinī)
+[this](iyaṃ) [śrī+brahma+gāyatrī](śrībrahmagāyatrī) [four+aims+bestowing](caturvargapradāyinī)
 
 ## mukta-m0-p15-v361
-[whatever+action](yadyatkarma) [one-may-perform](prakurvīta) [with-brahma+mantra](brahmamantreṇa) [one-should-accomplish](sādhayet)
+[whatever+whatever](yadyat) [action](karma) [one-may-perform](prakurvīta) [with-brahma+mantra](brahmamantreṇa) [one-should-accomplish](sādhayet)
 
 ## mukta-m0-p15-v362
 [as-before](pūrvavat) [should-bow](praṇamed) [to-brahman](brahma) [morning+duty](prātaḥkṛtyam) [this](idaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p15-v363
-[by-its+tenth-part](taddaśāṃśena) [fire-offering](havanaṃ) [libation](tarpaṇaṃ) [by-its+tenth-part](taddaśāṃśataḥ)
+[of-that+tenth+part](taddaśāṃśena) [oblation](havanaṃ) [libation](tarpaṇaṃ) [of-that+tenth+part](taddaśāṃśataḥ)
 
 ## mukta-m0-p15-v364
-[brahmins](brāhmaṇān) [should-feed](bhojayet) [mantra-practitioner](mantrī) [in-preliminary-rite+action](puraścaraṇakarmaṇi)
+[brāhmaṇas](brāhmaṇān) [should-feed](bhojayet) [practitioner](mantrī) [in-preliminary+rite+action](puraścaraṇakarmaṇi)
 
 ## mukta-m0-p15-v365
 [not](na) [time+purity+rule](kālaśuddhiniyamo) [not](na) [or](vā) [place+determination](sthānanirūpaṇam)
 
 ## mukta-m0-p15-v366
-[brahma+beginning+mantra](brahmetyādimantram)
+[brahma+iti+ādi+mantram](brahmetyādimantram)
 
 ## mukta-m0-p15-v367
-[one-should-practice](sādhayet) [supreme](paramaṃ) [mantra](mantraṃ) [by-own-will+conduct](svecchācāreṇa) [practitioner](sādhakaḥ)
+[one-should-practice](sādhayet) [supreme](paramaṃ) [mantra](mantraṃ) [by-own+will+conduct](svecchācāreṇa) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p15-v368
 [without](vinā) [nyāsa](nyāsaṃ) [without](vinā) [mudrā](mudrāṃ) [without](vinā) [setu](setuṃ) [o-fair-faced-one](varānane)

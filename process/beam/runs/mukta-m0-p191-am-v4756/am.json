@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p191",
  "verse": 4756,
- "question": "How far does the subjugating power of this rite extend among beings?",
+ "question": "What is the prescribed starting measure and increment for the hall's width?",
  "premises": [
-  "Mantra-holders become subjugated.",
-  "Deities become subjugated.",
-  "Women are even more readily subjugated by comparison."
+  "The measurement begins at five cubits.",
+  "The width increases by increments of vyoma-hasta."
  ],
- "inference": "The rite's subjugating power extends even to mantra-holders and deities, and thus certainly to women.",
- "uncertainties": [],
- "plain_english": "Mantra-holders and deities become subjugated; how much more so women, beloved."
+ "inference": "The hall's width is calculated starting from five cubits with successive vyoma-hasta increments.",
+ "uncertainties": [
+  "The exact numerical value of vyoma-hasta in this context is unclear."
+ ],
+ "plain_english": "Beginning from five cubits, it should increase by increments of a vyoma-hasta."
 }

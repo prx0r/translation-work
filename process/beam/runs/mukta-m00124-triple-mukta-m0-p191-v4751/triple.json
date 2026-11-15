@@ -1,0 +1,993 @@
+{
+ "song": "mukta-m0-p191",
+ "items": [
+  {
+   "verse": 4751,
+   "rows": [
+    {
+     "surface": "lāṅgalākāra-kuḍya-āḍhyaṃ",
+     "gloss": "plough-shaped-wall-endowed",
+     "grounds": "compound adjective describing the hall; lāṅgala = plough, ākāra = shape, kuḍya = wall, āḍhya = endowed",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "nānā-alaṅkāra-śobhitam",
+     "gloss": "various-ornament-adorned",
+     "grounds": "compound adjective describing the hall; nānā = various, alaṅkāra = ornament, śobhitam = adorned",
+     "morph": "compound.n.acc.sg"
+    }
+   ],
+   "question": "What architectural features must characterize the audience hall being prescribed?",
+   "premises": [
+    "The hall is endowed with plough-shaped walls.",
+    "The hall is adorned with various ornaments."
+   ],
+   "inference": "The prescribed audience hall must combine a specific plough-shaped wall structure with rich ornamentation.",
+   "uncertainties": [],
+   "plain_english": "One should make it endowed with plough-shaped walls and adorned with various ornaments."
+  },
+  {
+   "verse": 4752,
+   "rows": [
+    {
+     "surface": "dvāra-tāla-tala-upetaṃ",
+     "gloss": "door-lock-floor-provided",
+     "grounds": "compound adjective; dvāra = door, tāla = lock or bolt, tala = floor, upeta = provided with",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "kūṭa-koṣṭha-ādi-śobhitam",
+     "gloss": "pavilion-chamber-etc-adorned",
+     "grounds": "compound adjective; kūṭa = pavilion, koṣṭha = chamber, ādi = etc., śobhitam = adorned",
+     "morph": "compound.n.acc.sg"
+    }
+   ],
+   "question": "What additional structural elements must the prescribed hall include?",
+   "premises": [
+    "The hall is provided with doors, locks, and floors.",
+    "The hall is adorned with pavilions, chambers, and similar features."
+   ],
+   "inference": "The hall must be fully equipped with functional access elements and decorative architectural units.",
+   "uncertainties": [
+    "The precise architectural sense of tāla and kūṭa may vary by tradition."
+   ],
+   "plain_english": "It should be provided with doors, locks, and floors, and adorned with pavilions, chambers, and the like."
+  },
+  {
+   "verse": 4753,
+   "rows": [
+    {
+     "surface": "āsthāna-maṇḍapaṃ",
+     "gloss": "audience-hall",
+     "grounds": "object of construction; āsthāna = audience, maṇḍapa = hall",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive optative verb",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "dhāmnaḥ",
+     "gloss": "of-temple",
+     "grounds": "genitive indicating location relative to the temple",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "cardinal directions around the temple",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vidikṣu",
+     "gloss": "in-intermediate-directions",
+     "grounds": "intermediate directions around the temple",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining directions and intermediate directions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where must the audience hall be constructed in relation to the temple?",
+   "premises": [
+    "An audience hall is to be made.",
+    "It is to be placed in the cardinal and intermediate directions of the temple."
+   ],
+   "inference": "The audience hall should be constructed around the temple in all main and intermediate directions.",
+   "uncertainties": [],
+   "plain_english": "One should make an audience hall in the cardinal and intermediate directions of the temple."
+  },
+  {
+   "verse": 4754,
+   "rows": [
+    {
+     "surface": "sabhā",
+     "gloss": "assembly-hall",
+     "grounds": "alternative structure to be made",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction offering an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the same location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "ca-aṣṭa-dik-mukha-saṃyutam",
+     "gloss": "and-eight-direction-facing-endowed",
+     "grounds": "compound adjective; ca = and, aṣṭa = eight, dik = direction, mukha = facing, saṃyutam = endowed",
+     "morph": "compound.n.nom.sg"
+    }
+   ],
+   "question": "What alternative hall may be built and how must it be oriented?",
+   "premises": [
+    "An assembly hall may alternatively be made there.",
+    "It must be endowed with faces toward the eight directions."
+   ],
+   "inference": "Instead of an audience hall, an assembly hall facing all eight directions may be constructed.",
+   "uncertainties": [],
+   "plain_english": "Or an assembly hall should be made there, facing all eight directions."
+  },
+  {
+   "verse": 4755,
+   "rows": [
+    {
+     "surface": "eka-aneka-tala-upetaṃ",
+     "gloss": "one-or-many-story-provided",
+     "grounds": "compound adjective; eka = one, aneka = many, tala = story or level, upeta = provided with",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "pārśva-sopāna-saṃyutam",
+     "gloss": "side-staircase-endowed",
+     "grounds": "compound adjective; pārśva = side, sopāna = staircase, saṃyutam = endowed",
+     "morph": "compound.n.acc.sg"
+    }
+   ],
+   "question": "What vertical and access features may the prescribed hall possess?",
+   "premises": [
+    "The hall may have one or many stories.",
+    "The hall must be endowed with side staircases."
+   ],
+   "inference": "The hall may vary in height but must include staircases on its sides.",
+   "uncertainties": [],
+   "plain_english": "It may have one or many stories and should be provided with staircases on the sides."
+  },
+  {
+   "verse": 4756,
+   "rows": [
+    {
+     "surface": "pañca-hastaṃ",
+     "gloss": "five-cubits",
+     "grounds": "starting measurement for width",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "(indecl.) absolutive √rabh"
+    },
+    {
+     "surface": "vyoma-hasta-vivṛddhitaḥ",
+     "gloss": "by-space-cubit-increase",
+     "grounds": "compound indicating incremental increase; vyoma = space/zero or one in some systems, hasta = cubit, vivṛddhi = increase",
+     "morph": "compound.f.abl.sg"
+    }
+   ],
+   "question": "What is the prescribed starting measure and increment for the hall's width?",
+   "premises": [
+    "The measurement begins at five cubits.",
+    "The width increases by increments of vyoma-hasta."
+   ],
+   "inference": "The hall's width is calculated starting from five cubits with successive vyoma-hasta increments.",
+   "uncertainties": [
+    "The exact numerical value of vyoma-hasta in this context is unclear."
+   ],
+   "plain_english": "Beginning from five cubits, it should increase by increments of a vyoma-hasta."
+  },
+  {
+   "verse": 4757,
+   "rows": [
+    {
+     "surface": "vistāra-pāda-vṛddhyā",
+     "gloss": "by-width-quarter-increase",
+     "grounds": "instrumental indicating the mode of increase; vistāra = width, pāda = quarter, vṛddhi = increase",
+     "morph": "compound.f.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction indicating limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veda-guṇaṃ",
+     "gloss": "fourfold",
+     "grounds": "compound indicating four times; veda = four, guṇa = multiple",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "it-should-be",
+     "grounds": "optative expressing prescribed limit",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "Up to what limit may the hall's width be increased by quarter increments?",
+   "premises": [
+    "The width increases by quarter increments.",
+    "The increase continues until it becomes fourfold."
+   ],
+   "inference": "The hall's width may be expanded by quarter steps up to four times the base measure.",
+   "uncertainties": [],
+   "plain_english": "By increasing the width by a quarter at a time, it may become up to fourfold."
+  },
+  {
+   "verse": 4758,
+   "rows": [
+    {
+     "surface": "vahni-bhittiṃ",
+     "gloss": "three-wall",
+     "grounds": "starting point for wall count; vahni = fire, symbolically three",
+     "morph": "compound.f.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "(indecl.) absolutive √rabh"
+    },
+    {
+     "surface": "vyoma-bhitti-vivardhanāt",
+     "gloss": "by-space-wall-increase",
+     "grounds": "ablative indicating incremental increase in walls; vyoma = space/zero or one, bhitti = wall, vivardhana = increase",
+     "morph": "compound.n.abl.sg"
+    }
+   ],
+   "question": "What is the starting count and increment for the number of walls?",
+   "premises": [
+    "The wall count begins at three.",
+    "It increases by increments of vyoma-bhitti."
+   ],
+   "inference": "The number of walls is calculated starting from three with successive vyoma-bhitti increments.",
+   "uncertainties": [
+    "The exact numerical value of vyoma-bhitti is unclear."
+   ],
+   "plain_english": "Beginning with three walls, it should increase by increments of a vyoma-wall."
+  },
+  {
+   "verse": 4759,
+   "rows": [
+    {
+     "surface": "vistāra-bhitti-vasudhāṃ",
+     "gloss": "width-wall-ground",
+     "grounds": "compound object; vistāra = width, bhitti = wall, vasudhā = ground or area",
+     "morph": "compound.f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive √kṛ"
+    },
+    {
+     "surface": "ardha-ardha-vivardhanāt",
+     "gloss": "by-half-half-increase",
+     "grounds": "ablative indicating incremental increase; ardha-ardha = half by half, vivardhana = increase",
+     "morph": "compound.n.abl.sg"
+    }
+   ],
+   "question": "How should the ground area defined by width and walls be increased?",
+   "premises": [
+    "The ground area related to width and walls is established.",
+    "It is increased by half-and-half increments."
+   ],
+   "inference": "After setting the width-wall ground, one should expand it by successive half increments.",
+   "uncertainties": [
+    "The precise technical meaning of ardha-ardha-vivardhana is ambiguous."
+   ],
+   "plain_english": "Having established the ground area according to width and walls, one should increase it by half-and-half increments."
+  },
+  {
+   "verse": 4760,
+   "rows": [
+    {
+     "surface": "yugma-bhittiṣu",
+     "gloss": "in-even-walls",
+     "grounds": "locative specifying the condition; yugma = even, bhitti = wall",
+     "morph": "compound.f.loc.pl"
+    },
+    {
+     "surface": "madhyastha-pādānām",
+     "gloss": "of-middle-pillars",
+     "grounds": "genitive plural; madhyastha = middle, pāda = pillar",
+     "morph": "compound.m.gen.pl"
+    },
+    {
+     "surface": "oja-vistaraḥ",
+     "gloss": "odd-width",
+     "grounds": "predicate indicating the arrangement; oja = odd, vistara = width or extent",
+     "morph": "compound.m.nom.sg"
+    }
+   ],
+   "question": "What arrangement applies to middle pillars when the walls are even in number?",
+   "premises": [
+    "The condition concerns even-numbered walls.",
+    "The middle pillars have an odd width or extent."
+   ],
+   "inference": "When walls are even, the middle pillars are arranged with an odd extent.",
+   "uncertainties": [
+    "The technical sense of oja-vistara in pillar layout is not fully explicit."
+   ],
+   "plain_english": "When the walls are even in number, the middle pillars should have an odd extent."
+  },
+  {
+   "verse": 4761,
+   "rows": [
+    {
+     "surface": "oja-bhittiṣu",
+     "gloss": "in-odd-walls",
+     "grounds": "locative specifying the condition; oja = odd, bhitti = wall",
+     "morph": "compound.f.loc.pl"
+    },
+    {
+     "surface": "madhyastha-pada-śreṇi",
+     "gloss": "middle-pillar-row",
+     "grounds": "compound subject; madhyastha = middle, pada = pillar, śreṇi = row",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "numerical predicate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction indicating an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What arrangement applies to middle pillar rows when the walls are odd in number?",
+   "premises": [
+    "The condition concerns odd-numbered walls.",
+    "There may be two middle rows of pillars."
+   ],
+   "inference": "When walls are odd, the middle pillar arrangement may consist of two rows.",
+   "uncertainties": [
+    "The alternative implied by vā is not explicitly stated."
+   ],
+   "plain_english": "When the walls are odd in number, there may be two middle rows of pillars."
+  },
+  {
+   "verse": 4762,
+   "rows": [
+    {
+     "surface": "mūla-bhitti-pramāṇena",
+     "gloss": "by-base-wall-measure",
+     "grounds": "instrumental indicating standard of measurement; mūla = base, bhitti = wall, pramāṇa = measure",
+     "morph": "compound.n.ins.sg"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "pillar",
+     "grounds": "object being measured",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction offering alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardha-tri-pādakam",
+     "gloss": "half-or-three-quarters",
+     "grounds": "compound indicating alternative proportions; ardha = half, tri-pādaka = three-quarters",
+     "morph": "compound.n.acc.sg"
+    }
+   ],
+   "question": "What proportional measures may be used for pillars relative to the base wall?",
+   "premises": [
+    "The base wall provides the standard of measure.",
+    "A pillar may be equal to that measure or half or three-quarters of it."
+   ],
+   "inference": "Pillar dimensions may follow the base wall measure or be reduced to half or three-quarters.",
+   "uncertainties": [
+    "The exact parsing of ardha-tri-pādakam as alternative proportions is interpretive."
+   ],
+   "plain_english": "By the measure of the base wall, a pillar may be equal to it, or half, or three-quarters."
+  },
+  {
+   "verse": 4763,
+   "rows": [
+    {
+     "surface": "mūla-pādāt",
+     "gloss": "from-base-pillar",
+     "grounds": "ablative indicating reference point; mūla = base, pāda = pillar",
+     "morph": "compound.m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāra-sthāḥ",
+     "gloss": "door-standing",
+     "grounds": "compound adjective describing pillars at the door; dvāra = door, stha = standing",
+     "morph": "compound.m.nom.pl"
+    },
+    {
+     "surface": "pādāḥ",
+     "gloss": "pillars",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to pillars",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saṃsthitāḥ",
+     "gloss": "situated",
+     "grounds": "past participle describing placement",
+     "morph": "m.nom.pl.past-part √sthā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb indicating the present context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which pillars are identified in relation to the base pillar and the doorway?",
+   "premises": [
+    "The reference point is the base pillar.",
+    "Certain pillars are situated at the door."
+   ],
+   "inference": "The verse identifies the pillars standing at the doorway in relation to the base pillar.",
+   "uncertainties": [],
+   "plain_english": "And those pillars which are situated at the door, in relation to the base pillar, are considered here."
+  },
+  {
+   "verse": 4764,
+   "rows": [
+    {
+     "surface": "sva-sva-sthāna-gatāḥ",
+     "gloss": "in-own-places-gone",
+     "grounds": "compound adjective; sva-sva = each their own, sthāna = place, gata = gone/placed",
+     "morph": "compound.m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction indicating alternative placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhātavyāḥ",
+     "gloss": "to-be-placed",
+     "grounds": "gerundive expressing obligation",
+     "morph": "m.nom.pl.gerundive √dhā"
+    },
+    {
+     "surface": "vicakṣaṇaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "instrumental indicating the agents",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "How and by whom should the doorway pillars be positioned?",
+   "premises": [
+    "The pillars may be placed in their respective proper positions.",
+    "The wise are the agents who must place them."
+   ],
+   "inference": "Skilled practitioners must place the doorway pillars in their appropriate positions.",
+   "uncertainties": [],
+   "plain_english": "Or they should also be placed in their respective positions by the wise."
+  },
+  {
+   "verse": 4765,
+   "rows": [
+    {
+     "surface": "eteṣām",
+     "gloss": "of-these",
+     "grounds": "demonstrative pronoun referring to previously mentioned structures",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "quantifier emphasizing totality",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "ritual act to be described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "temporal adverb indicating the next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-told",
+     "grounds": "passive verb introducing the explanation",
+     "morph": "3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "What ritual procedure for all these structures is introduced next?",
+   "premises": [
+    "The topic concerns all of these structures.",
+    "The sprinkling rite is now to be explained."
+   ],
+   "inference": "The text now turns to explaining the sprinkling consecration for all the aforementioned structures.",
+   "uncertainties": [],
+   "plain_english": "Now the sprinkling rite for all of these is being explained."
+  },
+  {
+   "verse": 4766,
+   "rows": [
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "recipients of feeding",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhojayitvā",
+     "gloss": "having-fed",
+     "grounds": "absolutive indicating prior ritual action",
+     "morph": "(indecl.) absolutive caus. √bhuj"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat-ucchiṣṭaṃ",
+     "gloss": "their-remnants",
+     "grounds": "compound object; tat = their, ucchiṣṭa = remnants",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-discard",
+     "grounds": "optative prescribing disposal",
+     "morph": "3.sg.act.opt √vṛj"
+    }
+   ],
+   "question": "What preliminary action involving brahmins must precede the sprinkling rite?",
+   "premises": [
+    "Brahmins must first be fed.",
+    "Their remnants must then be discarded."
+   ],
+   "inference": "The rite begins with feeding brahmins and removing their leftover food.",
+   "uncertainties": [],
+   "plain_english": "First, having fed the brahmins, one should discard their remnants."
+  },
+  {
+   "verse": 4767,
+   "rows": [
+    {
+     "surface": "vāstu-homaṃ",
+     "gloss": "vāstu-offering",
+     "grounds": "ritual fire offering for the site; vāstu = site, homa = offering",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive √kṛ"
+    },
+    {
+     "surface": "paryagnikaraṇaṃ",
+     "gloss": "carrying-fire-around",
+     "grounds": "ritual act of carrying fire around; paryagni = around fire, karaṇa = doing",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-conduct",
+     "grounds": "optative prescribing the ritual action",
+     "morph": "3.sg.act.opt √nī"
+    }
+   ],
+   "question": "What fire rituals must be performed after feeding the brahmins?",
+   "premises": [
+    "A vāstu fire offering must be performed.",
+    "The rite of carrying fire around must then be conducted."
+   ],
+   "inference": "After feeding the brahmins, one must perform the vāstu-homa and the paryagnikaraṇa.",
+   "uncertainties": [],
+   "plain_english": "Then, having performed the vāstu offering, one should conduct the carrying of fire around."
+  },
+  {
+   "verse": 4768,
+   "rows": [
+    {
+     "surface": "nivṛtti-ādi-kalāḥ",
+     "gloss": "nivṛtti-etc-kalās",
+     "grounds": "compound object; nivṛtti = first kalā, ādi = etc., kalāḥ = kalās",
+     "morph": "compound.f.acc.pl"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-installed",
+     "grounds": "absolutive indicating ritual installation",
+     "morph": "(indecl.) absolutive √nyas"
+    },
+    {
+     "surface": "madhya-stambha-catuṣṭaye",
+     "gloss": "on-middle-pillar-quartet",
+     "grounds": "locative indicating placement; madhya = middle, stambha = pillar, catuṣṭaya = quartet",
+     "morph": "compound.n.loc.sg"
+    }
+   ],
+   "question": "Where must the kalās beginning with nivṛtti be ritually installed?",
+   "premises": [
+    "The kalās beginning with nivṛtti are to be installed.",
+    "They are installed on the quartet of middle pillars."
+   ],
+   "inference": "The sequence of kalās starting with nivṛtti must be placed on the four central pillars.",
+   "uncertainties": [],
+   "plain_english": "Having installed the kalās beginning with nivṛtti on the four middle pillars,"
+  },
+  {
+   "verse": 4769,
+   "rows": [
+    {
+     "surface": "vastraiḥ",
+     "gloss": "with-cloths",
+     "grounds": "instrumental indicating wrapping material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "instrumental indicating the mantra used; astra = weapon mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining instruments",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āveṣṭya",
+     "gloss": "having-wrapped",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive √veṣṭ"
+    },
+    {
+     "surface": "mālā-ādyaiḥ",
+     "gloss": "with-garlands-etc",
+     "grounds": "instrumental indicating adornments; mālā = garland, ādi = etc.",
+     "morph": "compound.n.ins.pl"
+    },
+    {
+     "surface": "bhūṣayet",
+     "gloss": "one-should-adorn",
+     "grounds": "optative prescribing adornment",
+     "morph": "3.sg.act.opt caus. √bhūṣ"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the pillars be ritually wrapped and adorned after installing the kalās?",
+   "premises": [
+    "The pillars must be wrapped with cloths using the astra mantra.",
+    "They must then be adorned with garlands and similar items."
+   ],
+   "inference": "After installing the kalās, the pillars are to be wrapped with cloths by the astra mantra and decorated.",
+   "uncertainties": [],
+   "plain_english": "Then, having wrapped them with cloths using the astra mantra, one should adorn them with garlands and the like."
+  },
+  {
+   "verse": 4770,
+   "rows": [
+    {
+     "surface": "mūrti-mūrtīśvarān",
+     "gloss": "images-and-image-lords",
+     "grounds": "compound object; mūrti = image/form, mūrtīśvara = lord of the image",
+     "morph": "compound.m.acc.pl"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-installed",
+     "grounds": "absolutive indicating ritual installation",
+     "morph": "(indecl.) absolutive √nyas"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maṇḍapasya",
+     "gloss": "of-hall",
+     "grounds": "genitive specifying the hall",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where must the images and their presiding lords be installed within the hall?",
+   "premises": [
+    "The images and lords of images are to be installed.",
+    "Their installation takes place in the middle of the hall."
+   ],
+   "inference": "The mūrtis and mūrtīśvaras must be ritually placed at the center of the hall.",
+   "uncertainties": [],
+   "plain_english": "Having installed the images and the lords of the images in the middle of the hall,"
+  },
+  {
+   "verse": 4771,
+   "rows": [
+    {
+     "surface": "taṇḍulaiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "instrumental indicating strewing material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tila-lājaiḥ",
+     "gloss": "with-sesame-and-parched-grains",
+     "grounds": "compound instrumental; tila = sesame, lāja = parched grain",
+     "morph": "compound.m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining materials",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darbhaiḥ-puṣpaiḥ",
+     "gloss": "with-darbha-grass-and-flowers",
+     "grounds": "compound instrumental; darbha = sacred grass, puṣpa = flower",
+     "morph": "compound.n.ins.pl"
+    },
+    {
+     "surface": "paristaret",
+     "gloss": "one-should-strew",
+     "grounds": "optative prescribing the ritual action",
+     "morph": "3.sg.act.opt √stṛ"
+    }
+   ],
+   "question": "What materials must be strewn as part of the hall's ritual preparation?",
+   "premises": [
+    "Rice grains, sesame, and parched grains are to be used.",
+    "Darbha grass and flowers are also to be strewn."
+   ],
+   "inference": "The ritual area must be strewn with rice, sesame, parched grains, darbha grass, and flowers.",
+   "uncertainties": [],
+   "plain_english": "One should strew the area with rice grains, sesame and parched grains, and with darbha grass and flowers."
+  },
+  {
+   "verse": 4772,
+   "rows": [
+    {
+     "surface": "tat-vāme",
+     "gloss": "to-its-left",
+     "grounds": "locative indicating position; tat = its, vāma = left",
+     "morph": "compound.n.loc.sg"
+    },
+    {
+     "surface": "vardhanīṃ",
+     "gloss": "sprinkling-vessel",
+     "grounds": "ritual vessel to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "locative pronoun referring to the vessel",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "the-goddess",
+     "grounds": "deity to be invoked",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "absolutive indicating ritual invocation",
+     "morph": "(indecl.) absolutive √vah"
+    },
+    {
+     "surface": "bhaktitaḥ",
+     "gloss": "with-devotion",
+     "grounds": "adverb indicating manner of invocation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and how must the goddess be invoked using the sprinkling vessel?",
+   "premises": [
+    "The sprinkling vessel is placed to the left.",
+    "The goddess is invoked in that vessel with devotion."
+   ],
+   "inference": "A sprinkling vessel placed on the left serves as the locus for devoutly invoking the goddess.",
+   "uncertainties": [],
+   "plain_english": "To its left, one should place the sprinkling vessel and, having invoked the goddess in it with devotion,"
+  },
+  {
+   "verse": 4773,
+   "rows": [
+    {
+     "surface": "dharmaṃ",
+     "gloss": "dharma",
+     "grounds": "first principle to be invoked or installed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "second principle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairāgyam",
+     "gloss": "detachment",
+     "grounds": "third principle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aiśvaryaṃ",
+     "gloss": "sovereignty",
+     "grounds": "fourth principle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative pronoun referring to previously mentioned loci",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vahnitaḥ",
+     "gloss": "from-fire",
+     "grounds": "ablative indicating direction or origin; vahni = fire",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which four principles must be established in them beginning from the fire direction?",
+   "premises": [
+    "Dharma, knowledge, detachment, and sovereignty are named.",
+    "They are to be placed in them starting from the fire direction."
+   ],
+   "inference": "The four principles dharma, jñāna, vairāgya, and aiśvarya must be installed in those loci beginning from the southeast/fire quarter.",
+   "uncertainties": [
+    "The exact referent of teṣu and the procedural sense of vahnitaḥ are context-dependent."
+   ],
+   "plain_english": "One should place dharma, knowledge, detachment, and sovereignty in them, beginning from the direction of fire."
+  },
+  {
+   "verse": 4774,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiva-agniṃ",
+     "gloss": "śiva-fire",
+     "grounds": "compound object; śiva = Śiva, agni = fire",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive indicating ritual establishment",
+     "morph": "(indecl.) absolutive caus. √sthā"
+    },
+    {
+     "surface": "samid-ājya-anna-lājakaiḥ",
+     "gloss": "with-fuel-ghee-rice-parched-grains",
+     "grounds": "compound instrumental listing oblations; samidh = fuel, ājya = ghee, anna = rice, lājaka = parched grain",
+     "morph": "compound.n.ins.pl"
+    }
+   ],
+   "question": "What ritual fire must be established and with what oblations should it be served?",
+   "premises": [
+    "The fire of Śiva must be established.",
+    "It is served with fuel, ghee, rice, and parched grains."
+   ],
+   "inference": "After the preceding steps, one must establish the Śiva-fire and make offerings with fuel, ghee, rice, and parched grains.",
+   "uncertainties": [],
+   "plain_english": "Then, having established the fire of Śiva, one should offer fuel, ghee, rice, and parched grains."
+  }
+ ]
+}

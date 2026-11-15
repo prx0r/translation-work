@@ -1,0 +1,965 @@
+{
+ "song": "mukta-m0-p194",
+ "items": [
+  {
+   "verse": 4826,
+   "rows": [
+    {
+     "surface": "aṅgula+dvayam",
+     "gloss": "two-fingers",
+     "grounds": "compound indicating a measure of two finger-breadths",
+     "morph": "compound"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive expressing starting point",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka+eka+aṅgula+vardhanāt",
+     "gloss": "by-each-one-finger-increase",
+     "grounds": "compound expressing incremental increase by one finger at a time",
+     "morph": "compound"
+    }
+   ],
+   "question": "From what base measure and by what increments should dimensions be increased?",
+   "premises": [
+    "The starting measure is two finger-breadths.",
+    "The increase proceeds by one finger-breadth at a time."
+   ],
+   "inference": "Dimensional calculation begins at two fingers and advances in single-finger increments.",
+   "uncertainties": [],
+   "plain_english": "Beginning from two finger-breadths, one should increase the measure by one finger at a time."
+  },
+  {
+   "verse": 4827,
+   "rows": [
+    {
+     "surface": "ṣaṭ+pañca+veda+rudra",
+     "gloss": "six-five-four-eleven",
+     "grounds": "compound listing numerical values six, five, four, and eleven",
+     "morph": "compound"
+    },
+    {
+     "surface": "akṣa+dvi+aṅgulaiḥ",
+     "gloss": "with-two-and-two-fingers",
+     "grounds": "compound indicating additional measures of two and two finger-breadths",
+     "morph": "compound"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "prescriptive verb directing calculation or design",
+     "morph": "3.sg.optative-active + root kḷp"
+    }
+   ],
+   "question": "Which specific numerical measures should be applied in the prescribed design?",
+   "premises": [
+    "The measures six, five, four, and eleven are specified.",
+    "Additional measures of two and two finger-breadths are included."
+   ],
+   "inference": "The design should be calculated using the stated numerical measures and finger-breadths.",
+   "uncertainties": [
+    "The exact architectural elements to which these numbers apply are not explicit in this verse alone."
+   ],
+   "plain_english": "One should design using the measures six, five, four, eleven, and also two and two finger-breadths."
+  },
+  {
+   "verse": 4828,
+   "rows": [
+    {
+     "surface": "sārva+deśika+harmye",
+     "gloss": "in-universal-temple",
+     "grounds": "compound referring to a temple for all regions or universal use",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or exception",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the previously stated rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed procedure or regulation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "verb indicating acceptance or approval",
+     "morph": "3.sg.present-passive + root iṣ"
+    }
+   ],
+   "question": "Does the previously stated measurement rule apply to a universal temple?",
+   "premises": [
+    "The context is a universal temple.",
+    "This rule is explicitly negated for that context."
+   ],
+   "inference": "The stated rule is not approved for use in a universal temple.",
+   "uncertainties": [],
+   "plain_english": "But this rule is not desired in a universal temple."
+  },
+  {
+   "verse": 4829,
+   "rows": [
+    {
+     "surface": "bāhya+nimnaṃ",
+     "gloss": "outer-lower",
+     "grounds": "compound describing a level lower on the outside",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle introducing an alternative or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sālānām",
+     "gloss": "of-the-halls",
+     "grounds": "refers to halls or enclosures",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "aṅkaṇaṃ",
+     "gloss": "courtyard",
+     "grounds": "open space or courtyard",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "refers to knowledgeable experts",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How should the courtyard of the halls be constructed by knowledgeable experts?",
+   "premises": [
+    "The courtyard belongs to the halls.",
+    "It should be made lower on the outside."
+   ],
+   "inference": "The wise should construct the halls' courtyard so that it is lower on the outer side.",
+   "uncertainties": [],
+   "plain_english": "The wise should make the courtyard of the halls lower on the outside."
+  },
+  {
+   "verse": 4830,
+   "rows": [
+    {
+     "surface": "sabhā+kṛtiḥ",
+     "gloss": "assembly-shaped",
+     "grounds": "compound describing a form like an assembly hall",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca+eka+dvi+tri+ka+bhittibhiḥ",
+     "gloss": "with-one-two-three-walls",
+     "grounds": "compound indicating construction with one, two, or three walls",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alternative forms and wall configurations are permitted for the structure?",
+   "premises": [
+    "An assembly-hall form is an option.",
+    "Construction may use one, two, or three walls."
+   ],
+   "inference": "The structure may be made assembly-shaped or built with one, two, or three walls.",
+   "uncertainties": [],
+   "plain_english": "Alternatively, it should be made in the form of an assembly hall, with one, two, or three walls."
+  },
+  {
+   "verse": 4831,
+   "rows": [
+    {
+     "surface": "upānāt",
+     "gloss": "from-the-base",
+     "grounds": "refers to the base or plinth as starting point",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive indicating starting point",
+     "morph": "gerund"
+    },
+    {
+     "surface": "mūla+prāsāda+tuṅgakam",
+     "gloss": "main-temple-height",
+     "grounds": "compound referring to the height of the main shrine",
+     "morph": "compound"
+    }
+   ],
+   "question": "From what point should the height of the main temple be measured?",
+   "premises": [
+    "The base is specified as the starting point.",
+    "The measurement concerns the main temple's height."
+   ],
+   "inference": "The height of the main temple should be measured beginning from the base.",
+   "uncertainties": [],
+   "plain_english": "Beginning from the base, one should take the height of the main temple."
+  },
+  {
+   "verse": 4832,
+   "rows": [
+    {
+     "surface": "dvi+pādaṃ",
+     "gloss": "two-parts",
+     "grounds": "compound indicating two parts or quarters",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāda+dairghyaṃ",
+     "gloss": "pillar-length",
+     "grounds": "compound referring to the length or height of the pillar",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣeṇa",
+     "gloss": "with-the-remainder",
+     "grounds": "refers to the remaining portion",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "prescriptive verb directing calculation",
+     "morph": "3.sg.optative-active + root kḷp"
+    }
+   ],
+   "question": "How should the pillar length be proportioned relative to the total height?",
+   "premises": [
+    "Two parts are assigned to the pillar length.",
+    "The remainder is used for the rest of the design."
+   ],
+   "inference": "The pillar length should be designed as two parts, with the remainder allocated accordingly.",
+   "uncertainties": [
+    "The total number of divisions is implied but not explicitly stated in this verse."
+   ],
+   "plain_english": "One should design the pillar length as two parts and use the remainder for the rest."
+  },
+  {
+   "verse": 4833,
+   "rows": [
+    {
+     "surface": "adhiṣṭhāna+dvi+bhāgena",
+     "gloss": "by-two-parts-of-base",
+     "grounds": "compound indicating two divisions for the base",
+     "morph": "compound"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "pillar",
+     "grounds": "refers to the pillar element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śeṣeṇa",
+     "gloss": "with-the-remainder",
+     "grounds": "refers to the remaining portion",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-design",
+     "grounds": "prescriptive verb directing calculation",
+     "morph": "3.sg.optative-active + root kḷp"
+    }
+   ],
+   "question": "What proportional division between base and pillar is prescribed in this alternative scheme?",
+   "premises": [
+    "Two parts are assigned to the base.",
+    "The pillar is designed with the remaining portion."
+   ],
+   "inference": "One should allocate two parts to the base and the remainder to the pillar.",
+   "uncertainties": [],
+   "plain_english": "One should design the base with two parts and the pillar with the remainder."
+  },
+  {
+   "verse": 4834,
+   "rows": [
+    {
+     "surface": "sapta+hasta+antaḥ",
+     "gloss": "up-to-seven-cubits",
+     "grounds": "compound indicating a maximum limit of seven cubits",
+     "morph": "compound"
+    },
+    {
+     "surface": "utsedhaḥ",
+     "gloss": "height",
+     "grounds": "vertical measurement or elevation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stambhānāṃ",
+     "gloss": "of-the-pillars",
+     "grounds": "refers to pillars or columns",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "is-declared",
+     "grounds": "verb indicating authoritative statement",
+     "morph": "m.nom.sg.past-passive-participle + root kīrt"
+    }
+   ],
+   "question": "What maximum height is declared for the pillars in this prescription?",
+   "premises": [
+    "The subject is the height of the pillars.",
+    "The declared limit reaches up to seven cubits."
+   ],
+   "inference": "The height of the pillars is declared to extend up to seven cubits.",
+   "uncertainties": [],
+   "plain_english": "The height of the pillars is declared to be up to seven cubits."
+  },
+  {
+   "verse": 4835,
+   "rows": [
+    {
+     "surface": "pakṣa+aṅgulaṃ",
+     "gloss": "two-fingers",
+     "grounds": "compound using pakṣa to denote two finger-breadths",
+     "morph": "compound"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ca+ardha+aṅgula+vivardhanāt",
+     "gloss": "by-half-finger-increase",
+     "grounds": "compound expressing incremental increase by half a finger-breadth",
+     "morph": "compound"
+    }
+   ],
+   "question": "From what measure and by what increment should the next calculation proceed?",
+   "premises": [
+    "The starting measure is two finger-breadths.",
+    "The increase proceeds by half a finger-breadth."
+   ],
+   "inference": "The calculation begins at two fingers and increases by half-finger increments.",
+   "uncertainties": [],
+   "plain_english": "Beginning from two finger-breadths, one should increase by half a finger-breadth."
+  },
+  {
+   "verse": 4836,
+   "rows": [
+    {
+     "surface": "pāda+ucca+ardham",
+     "gloss": "half-the-pillar-height",
+     "grounds": "compound indicating half of the pillar's height",
+     "morph": "compound"
+    },
+    {
+     "surface": "adhiṣṭhāna",
+     "gloss": "base",
+     "grounds": "refers to the base or platform",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saptama+aṣṭa+nava+aṃśakam",
+     "gloss": "seventh-eighth-ninth-part",
+     "grounds": "compound listing fractional parts as alternatives",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional options are given for the height of the base relative to the pillar?",
+   "premises": [
+    "Half the pillar height is one option for the base.",
+    "A seventh, eighth, or ninth part is another option."
+   ],
+   "inference": "The base may be made half the pillar height or a seventh, eighth, or ninth part.",
+   "uncertainties": [
+    "Whether the fractional options apply to the same total as the half-height option is not fully explicit."
+   ],
+   "plain_english": "The base should be half the pillar height, or a seventh, eighth, or ninth part."
+  },
+  {
+   "verse": 4837,
+   "rows": [
+    {
+     "surface": "pāda+ucce",
+     "gloss": "in-pillar-height",
+     "grounds": "compound referring to the height of the pillar",
+     "morph": "compound"
+    },
+    {
+     "surface": "tri+catur+bhāgena",
+     "gloss": "by-third-or-fourth-part",
+     "grounds": "compound indicating division into a third or fourth part",
+     "morph": "compound"
+    },
+    {
+     "surface": "athavā+api",
+     "gloss": "or-else-also",
+     "grounds": "compound particle introducing an alternative",
+     "morph": "compound"
+    },
+    {
+     "surface": "masūrakam",
+     "gloss": "base",
+     "grounds": "refers to the base or socle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative proportion of the pillar height may be used for the base?",
+   "premises": [
+    "The proportion is measured against the pillar height.",
+    "A third or fourth part is specified as an alternative."
+   ],
+   "inference": "Alternatively, the base may be made a third or a fourth of the pillar height.",
+   "uncertainties": [],
+   "plain_english": "Alternatively, the base may be a third or a fourth part of the pillar height."
+  },
+  {
+   "verse": 4838,
+   "rows": [
+    {
+     "surface": "prastara+ādi+pramāṇaṃ",
+     "gloss": "entablature-etc-measurement",
+     "grounds": "compound referring to the measurement of the entablature and related elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsāda+ukta+vat",
+     "gloss": "as-stated-for-temple",
+     "grounds": "compound indicating conformity with rules stated for the temple",
+     "morph": "compound"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive verb directing action",
+     "morph": "3.sg.optative-active + root car"
+    }
+   ],
+   "question": "According to what standard should the entablature and related measurements be executed?",
+   "premises": [
+    "The measurements concern the entablature and related elements.",
+    "They should follow what was stated for the temple."
+   ],
+   "inference": "The entablature and related measurements should be carried out as prescribed for the temple.",
+   "uncertainties": [],
+   "plain_english": "One should carry out the measurements of the entablature and so on as stated for the temple."
+  },
+  {
+   "verse": 4839,
+   "rows": [
+    {
+     "surface": "catuṣkoṇe",
+     "gloss": "in-a-square",
+     "grounds": "refers to a square or four-cornered area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive verb directing construction",
+     "morph": "3.sg.optative-active + root kṛ"
+    },
+    {
+     "surface": "garbhaṃ",
+     "gloss": "womb-chamber",
+     "grounds": "refers to the sanctum or inner chamber",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathama+iṣṭakām",
+     "gloss": "first-brick",
+     "grounds": "compound referring to the first foundation brick",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where may the womb chamber and the first brick be established as an option?",
+   "premises": [
+    "A square area is presented as a possible location.",
+    "Both the womb chamber and the first brick are to be placed."
+   ],
+   "inference": "One may establish the womb chamber and the first brick in a square area.",
+   "uncertainties": [],
+   "plain_english": "Alternatively, one may make the womb chamber and place the first brick in a square area."
+  },
+  {
+   "verse": 4840,
+   "rows": [
+    {
+     "surface": "svasya+dakṣiṇake+aṃśe",
+     "gloss": "in-one's-own-southern-part",
+     "grounds": "compound indicating the southern portion relative to oneself",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāra+koṇa+antare",
+     "gloss": "in-space-between-door-corners",
+     "grounds": "compound referring to the interval between the corners of the doorway",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative locations are specified for placing the designated element?",
+   "premises": [
+    "One option is one's own southern part.",
+    "Another option is the space between the door corners."
+   ],
+   "inference": "The element may be placed in the southern part or in the space between the door corners.",
+   "uncertainties": [
+    "The element being placed is carried over from the preceding verse."
+   ],
+   "plain_english": "It may also be placed in one's own southern part, or in the space between the corners of the doorway."
+  },
+  {
+   "verse": 4841,
+   "rows": [
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "location or position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "garbhasya",
+     "gloss": "of-the-womb-chamber",
+     "grounds": "refers to the sanctum or inner chamber",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nirdiṣṭaṃ",
+     "gloss": "is-prescribed",
+     "grounds": "past passive participle indicating authoritative prescription",
+     "morph": "n.nom.sg.past-passive-participle + root diś"
+    },
+    {
+     "surface": "tatra+sthā",
+     "gloss": "situated-there",
+     "grounds": "compound indicating location in that place",
+     "morph": "compound"
+    },
+    {
+     "surface": "prathama+iṣṭakā",
+     "gloss": "first-brick",
+     "grounds": "compound referring to the first foundation brick",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where is the first brick prescribed to be situated in relation to the womb chamber?",
+   "premises": [
+    "The place of the womb chamber is prescribed.",
+    "The first brick is situated there."
+   ],
+   "inference": "The first brick is prescribed to be placed at the location of the womb chamber.",
+   "uncertainties": [],
+   "plain_english": "The place of the womb chamber is prescribed, and the first brick is to be situated there."
+  },
+  {
+   "verse": 4842,
+   "rows": [
+    {
+     "surface": "bhitti+ūrdhva+stha+catuṣkoṇeṣu",
+     "gloss": "in-corners-above-wall",
+     "grounds": "compound referring to the four corners situated above the wall",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekasmin",
+     "gloss": "in-one",
+     "grounds": "indicates a single location among several",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niṣṭakāṃ",
+     "gloss": "brick",
+     "grounds": "refers to a brick to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive verb directing placement",
+     "morph": "3.sg.optative-active + root nyas"
+    }
+   ],
+   "question": "In which specific location above the wall should a brick be placed?",
+   "premises": [
+    "There are corners situated above the wall.",
+    "The brick should be placed in one of those corners."
+   ],
+   "inference": "One should place a brick in one of the corners above the wall.",
+   "uncertainties": [],
+   "plain_english": "One should place a brick in one of the corners above the wall."
+  },
+  {
+   "verse": 4843,
+   "rows": [
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "ordinal referring to the third brick or placement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhya+hārā",
+     "gloss": "middle-row",
+     "grounds": "compound indicating the middle row or course",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed state",
+     "morph": "3.sg.optative-active + root as"
+    },
+    {
+     "surface": "maryādā+ākhyā",
+     "gloss": "called-boundary",
+     "grounds": "compound indicating the name or designation as boundary",
+     "morph": "compound"
+    },
+    {
+     "surface": "caturthakā",
+     "gloss": "fourth",
+     "grounds": "ordinal referring to the fourth brick or placement",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What are the designated positions or names for the third and fourth placements?",
+   "premises": [
+    "The third is associated with the middle row.",
+    "The fourth is called the boundary."
+   ],
+   "inference": "The third placement should be in the middle row, and the fourth is designated the boundary.",
+   "uncertainties": [],
+   "plain_english": "The third should be in the middle row, and the fourth is called the boundary."
+  },
+  {
+   "verse": 4844,
+   "rows": [
+    {
+     "surface": "parivāra+amarān",
+     "gloss": "attendant-deities",
+     "grounds": "compound referring to subsidiary or attendant deities",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "quantifier indicating totality",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the previously mentioned place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpayet",
+     "gloss": "should-install",
+     "grounds": "prescriptive verb directing installation",
+     "morph": "3.sg.optative-causative-active + root sthā"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-teacher",
+     "grounds": "refers to the preceptor or ritual expert",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is responsible for installing all the attendant deities and where should this occur?",
+   "premises": [
+    "All attendant deities are to be installed.",
+    "The installation is to be done there by the teacher."
+   ],
+   "inference": "The teacher should install all the attendant deities in that place.",
+   "uncertainties": [],
+   "plain_english": "The teacher should install all the attendant deities there."
+  },
+  {
+   "verse": 4845,
+   "rows": [
+    {
+     "surface": "parivāra+vimānānāṃ",
+     "gloss": "of-attendant-shrines",
+     "grounds": "compound referring to the shrines of attendant deities",
+     "morph": "compound"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "dimension or measurement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "garbha+ardham",
+     "gloss": "half-the-womb-chamber",
+     "grounds": "compound indicating half the measure of the womb chamber",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure is prescribed for the shrines of the attendant deities?",
+   "premises": [
+    "The subject is the measure of attendant shrines.",
+    "Half the womb chamber is given as the measure."
+   ],
+   "inference": "The measure of the attendant shrines should be half that of the womb chamber.",
+   "uncertainties": [],
+   "plain_english": "The measure of the attendant shrines should be half that of the womb chamber."
+  },
+  {
+   "verse": 4846,
+   "rows": [
+    {
+     "surface": "eka+hastaṃ",
+     "gloss": "one-cubit",
+     "grounds": "compound indicating a measure of one cubit",
+     "morph": "compound"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "gerund"
+    },
+    {
+     "surface": "rudra+hasta+antam",
+     "gloss": "up-to-eleven-cubits",
+     "grounds": "compound using rudra to denote eleven, indicating an upper limit",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What range of cubit measurements is permitted for the attendant shrines?",
+   "premises": [
+    "The lower limit is one cubit.",
+    "The upper limit is eleven cubits."
+   ],
+   "inference": "The permitted range extends from one cubit up to eleven cubits.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the measure should range from one cubit up to eleven cubits."
+  },
+  {
+   "verse": 4847,
+   "rows": [
+    {
+     "surface": "aṅga+liṅga+ālaya+ākārāḥ",
+     "gloss": "having-form-of-limb-linga-shrines",
+     "grounds": "compound describing shrines shaped like limb or linga shrines",
+     "morph": "compound"
+    },
+    {
+     "surface": "parivāra+ālayāḥ",
+     "gloss": "attendant-shrines",
+     "grounds": "compound referring to shrines of attendant deities",
+     "morph": "compound"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "are-considered",
+     "grounds": "past passive participle indicating accepted view",
+     "morph": "m.nom.pl.past-passive-participle + root man"
+    }
+   ],
+   "question": "What architectural form is considered appropriate for attendant shrines?",
+   "premises": [
+    "Attendant shrines are the subject.",
+    "They are considered to have the form of limb or linga shrines."
+   ],
+   "inference": "Attendant shrines are regarded as having the form of limb or linga shrines.",
+   "uncertainties": [
+    "The precise distinction between aṅga and liṅga shrine forms is not specified here."
+   ],
+   "plain_english": "Attendant shrines are considered to have the form of limb shrines or linga shrines."
+  },
+  {
+   "verse": 4848,
+   "rows": [
+    {
+     "surface": "santyakta+pāda+rūpa+aṃśa+mūla+deśa+mukha+anvitāḥ",
+     "gloss": "endowed-with-faces-toward-root-place",
+     "grounds": "long compound describing orientation with faces toward the root place, with certain parts omitted",
+     "morph": "compound"
+    }
+   ],
+   "question": "What orientation is prescribed for the attendant shrines in relation to the root place?",
+   "premises": [
+    "The attendant shrines are described by a specific orientation.",
+    "They are endowed with faces toward the root place."
+   ],
+   "inference": "The attendant shrines should be oriented with their faces toward the root place.",
+   "uncertainties": [
+    "The exact meaning of the omitted elements in the compound is not fully clear from this verse alone."
+   ],
+   "plain_english": "They should be endowed with faces directed toward the root place."
+  },
+  {
+   "verse": 4849,
+   "rows": [
+    {
+     "surface": "dakṣa+sthāḥ",
+     "gloss": "those-in-south",
+     "grounds": "compound referring to those located in the south",
+     "morph": "compound"
+    },
+    {
+     "surface": "saumya+vaktrāḥ",
+     "gloss": "facing-north",
+     "grounds": "compound indicating faces directed northward",
+     "morph": "compound"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed state",
+     "morph": "3.pl.optative-active + root as"
+    },
+    {
+     "surface": "dakṣa+āsyāḥ",
+     "gloss": "facing-south",
+     "grounds": "compound indicating faces directed southward",
+     "morph": "compound"
+    },
+    {
+     "surface": "saumya+dik+gatāḥ",
+     "gloss": "located-in-north",
+     "grounds": "compound referring to those located in the northern direction",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the directional orientation of attendant figures differ between southern and northern locations?",
+   "premises": [
+    "Those located in the south should face north.",
+    "Those located in the north should face south."
+   ],
+   "inference": "Attendant figures in the south face north, while those in the north face south.",
+   "uncertainties": [],
+   "plain_english": "Those situated in the south should face north, and those situated in the north should face south."
+  }
+ ]
+}
