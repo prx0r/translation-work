@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[to-be-established](pratipādyaḥ) [am-I](asmi) [not](na) [other](anyaḥ) [is](asti) [lord](prabhuḥ) [in-world](jagati) [me](māṃ) [without](vinā)
+[to-be-established](pratipādyaḥ) [am-I](asmi) [not](na) [other](anyaḥ) [is](asti) [lord](prabhuḥ) [in-the-world](jagati) [me](māṃ) [without](vinā)
 
 ## mukta-m0-p06-v127
-[truth](satyam) [thus](iti) [indeed](hi) [in-determination](avadhāraṇe)
+[truth](satyam) [thus](iti) [hi](hi) [indeed](iti) [in-emphasis](avadhāraṇe)
 
 ## mukta-m0-p06-v128
-[by-me](mayā) [alone](eva) [spoken](uktam) [thus](iti) [connection](anvayaḥ)
+[by-me](mayā) [alone](eva) [spoken](uktam) [thus](iti) [construal](anvayaḥ)
 
 ## mukta-m0-p06-v129
 [to-be-instructed](bodhayitavyaḥ)
@@ -23,19 +23,19 @@
 [brahmin](brahma) [killer](hā) [father](pitṛ) [killer](hā) [woman](strī) [killer](ghnaḥ) [he](saḥ) [would-be](bhavet) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p06-v133
-[praised](śastāḥ) [in-rites](karmasu) [in-all](sarveṣu) [recitation](japa) [sacrifice](yajña) [action](kriyā) [and-so-forth](ādiṣu)
+[praised](śastāḥ) [in-actions](karmasu) [in-all](sarveṣu) [recitation](japa) [sacrifice](yajña) [rite](kriyā) [and-so-forth](ādiṣu)
 
 ## mukta-m0-p06-v134
 [in-Satya-age](satya) [and-so-forth](ādau) [fruitful](saphalāḥ) [were](āsan) [in-Kali-age](kalau) [they](te) [dead](mṛtakāḥ) [like](iva)
 
 ## mukta-m0-p06-v135
-[brahmin](brahma) [killers](ghātinaḥ) [they-would-become](bhaveyuḥ) [thus](iti) [remainder](śeṣaḥ)
+[brahmin](brahma) [killers](ghātinaḥ) [they-would-become](bhaveyuḥ) [thus](iti) [ellipsis](śeṣaḥ)
 
 ## mukta-m0-p06-v136
-[of-those](tat) [respective](tat) [fruit](phala) [bestowing](pradātṛtvāt) [and](ca) [very-great](ati) [excellence](prāśastyam) [states](āha) [in-Kali-age](kalau) [and-so-forth](ityādibhiḥ)
+[of-those](tat) [of-those](tat) [fruit](phala) [giving](pradātṛtvāt) [and](ca) [very-great](ati) [excellence](prāśastyam) [states](āha) [in-Kali-age](kalau) [and-so-forth](ityādibhiḥ)
 
 ## mukta-m0-p06-v137
-[of-those](tat) [respective](tat) [fruits](phalāni) [non-producers](aniṣpādakāḥ) [and](ca) [to-be-understood](boddhavyāḥ) [thus](iti) [connection](anvayaḥ)
+[of-those](tat) [of-those](tat) [fruits](phalāni) [non-producing](aniṣpādakāḥ) [and](ca) [to-be-understood](boddhavyāḥ) [thus](iti) [construal](anvayaḥ)
 
 ## mukta-m0-p06-v138
 [powerless](amūra) [in-strength](śaktāḥ) [in-actions](kāryeṣu) [likewise](tathā) [other](anye) [mantra](mantra) [multitudes](rāśayaḥ)
@@ -53,7 +53,7 @@
 [as](yathā) [by-tantra](tantra) [taught](uditaḥ) [path](mārgaḥ) [for-liberation](mokṣāya) [and](ca) [for-happiness](sukhāya) [and](ca)
 
 ## mukta-m0-p06-v143
-[of-accomplished](siddhānāṃ) [of-practitioners](sādhakānām) [and](ca) [methods](vidhānāni) [and](ca) [abundant](bhūriśaḥ)
+[of-the-accomplished](siddhānāṃ) [of-practitioners](sādhakānām) [and](ca) [methods](vidhānāni) [and](ca) [abundant](bhūriśaḥ)
 
 ## mukta-m0-p06-v144
 [ascertained](niścitam) [this](etat)
@@ -62,16 +62,16 @@
 [desires](vāñchati) [of-arka-tree](ārkam) [from-arka-tree](arka+vṛkṣa) [produced](udbhavam)
 
 ## mukta-m0-p06-v146
-[not](na) [other](anyaḥ) [thus](iti) [in-other-world](amutra) [in-higher-world](pare) [in-world](loke)
+[not](na) [other](anyaḥ) [thus](iti) [in-the-other-world](amutra) [in-the-beyond](pare) [world](loke)
 
 ## mukta-m0-p06-v147
-[by-kula](kula) [tradition](ācāra) [taught](uditam) [dharma](dharmam) [for-secrecy](gupti+artham) [told](kathitam) [somewhere](kvacit)
+[by-family-tradition](kula+ācāra) [taught](uditam) [dharma](dharmam) [for-secrecy](guptyartham) [declared](kathitam) [somewhere](kvacit)
 
 ## mukta-m0-p06-v148
-[gods](devāḥ) [of-various](nānā) [kinds](vidhāḥ) [declared](proktāḥ) [goddesses](devyaḥ) [also](api) [in-many-ways](bahudhāḥ) [O-beloved](priye)
+[gods](devāḥ) [of-various-kinds](nānāvidhāḥ) [declared](proktāḥ) [goddesses](devyaḥ) [also](api) [in-many-ways](bahudhāḥ) [O-beloved](priye)
 
 ## mukta-m0-p06-v149
 [Śāktas](śāktāḥ) [Śaivas](śaivāḥ) [Vaiṣṇavas](vaiṣṇavāḥ) [and](ca) [Sauras](saurāḥ) [Gāṇapatas](gāṇapatāḥ) [and-others](ādayaḥ)
 
 ## mukta-m0-p06-v150
-[with-much](bhūri) [effort](prayāsa) [accomplishable](sādhyāni) [as-stated](yathā+ukta) [fruit](phala) [giving](dāni) [and](ca)
+[with-much](bhūri) [effort](prayāsa) [to-be-accomplished](sādhyāni) [and](ca) [as-stated](yathā+ukta) [fruit](phala) [giving](dāni) [and](ca)

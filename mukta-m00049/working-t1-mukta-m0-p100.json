@@ -44,20 +44,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nava",
-"quick_gloss": "nine"
-},
-{
-"surface": "pātrāṇi",
-"quick_gloss": "vessels"
+"surface": "nava+pātrāṇi",
+"quick_gloss": "nine-vessels"
 },
 {
 "surface": "vinyaset",
-"quick_gloss": "should-place"
+"quick_gloss": "should-arrange"
 },
 {
 "surface": "sthāpayet",
-"quick_gloss": "should-establish"
+"quick_gloss": "should-place"
 }
 ]
 },
@@ -70,7 +66,7 @@
 "tokens": [
 {
 "surface": "rājatam",
-"quick_gloss": "silver"
+"quick_gloss": "made-of-silver"
 },
 {
 "surface": "iti+ādi",
@@ -95,11 +91,11 @@
 "tokens": [
 {
 "surface": "śaktyā",
-"quick_gloss": "according-to-capacity"
+"quick_gloss": "according-to-ability"
 },
 {
 "surface": "prakalpayet",
-"quick_gloss": "should-arrange"
+"quick_gloss": "should-prepare"
 },
 {
 "surface": "pātraṃ",
@@ -127,12 +123,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "amṛta+sampūrṇa",
-"quick_gloss": "with-nectar-filled"
+"surface": "tvam",
+"quick_gloss": "you"
 },
 {
-"surface": "ghaṭam",
-"quick_gloss": "pot"
+"surface": "amṛta+sampūrṇa+ghaṭam",
+"quick_gloss": "nectar-filled-pot"
 },
 {
 "surface": "abhyarcayet",
@@ -178,7 +174,7 @@
 "tokens": [
 {
 "surface": "sva+śaktyā",
-"quick_gloss": "with-own-capacity"
+"quick_gloss": "with-own-ability"
 },
 {
 "surface": "pūjayet",
@@ -219,7 +215,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "in-Śiva"
+"quick_gloss": "o-śiva"
 }
 ]
 },
@@ -236,7 +232,7 @@
 },
 {
 "surface": "bhavadbhiḥ",
-"quick_gloss": "by-you"
+"quick_gloss": "by-you-all"
 },
 {
 "surface": "anumanyatām",
@@ -269,7 +265,7 @@
 },
 {
 "surface": "para+tattva+parāyaṇaḥ",
-"quick_gloss": "devoted-to-supreme-reality"
+"quick_gloss": "devoted-to-supreme-truth"
 }
 ]
 },
@@ -289,7 +285,7 @@
 "quick_gloss": "with-aforementioned"
 },
 {
-"surface": "tat+tat+mantreṇa",
+"surface": "tat+tan+mantreṇa",
 "quick_gloss": "with-that-mantra"
 }
 ]
@@ -307,11 +303,11 @@
 },
 {
 "surface": "sarva+bhūta+balim",
-"quick_gloss": "to-all-beings-offering"
+"quick_gloss": "offering-to-all-beings"
 },
 {
 "surface": "haret",
-"quick_gloss": "should-remove"
+"quick_gloss": "should-take"
 },
 {
 "surface": "dadyāt",
@@ -341,7 +337,7 @@
 "tokens": [
 {
 "surface": "para+tattva+parāyaṇaḥ",
-"quick_gloss": "devoted-to-supreme-reality"
+"quick_gloss": "devoted-to-supreme-truth"
 },
 {
 "surface": "paraṃ+brahma+tatparaḥ",
@@ -378,11 +374,7 @@
 },
 {
 "surface": "vimalam",
-"quick_gloss": "pure"
-},
-{
-"surface": "ghaṭam",
-"quick_gloss": "pot"
+"quick_gloss": "pure-pot"
 }
 ]
 },
@@ -407,7 +399,7 @@
 },
 {
 "surface": "brahma+rataḥ",
-"quick_gloss": "delighting-in-brahman"
+"quick_gloss": "devoted-to-brahman"
 },
 {
 "surface": "astu",
@@ -444,7 +436,7 @@
 },
 {
 "surface": "kṛpā+anvitaḥ",
-"quick_gloss": "endowed-with-compassion"
+"quick_gloss": "filled-with-compassion"
 }
 ]
 },
@@ -482,11 +474,7 @@
 },
 {
 "surface": "vimalam",
-"quick_gloss": "pure"
-},
-{
-"surface": "ghaṭam",
-"quick_gloss": "pot"
+"quick_gloss": "pure-pot"
 },
 {
 "surface": "cālayet",
@@ -545,7 +533,7 @@
 "tokens": [
 {
 "surface": "durgā+lakṣmī+bhavānīḥ",
-"quick_gloss": "Durgā-Lakṣmī-Bhavānī"
+"quick_gloss": "durgā-lakṣmī-bhavānī"
 },
 {
 "surface": "tvām",
@@ -553,7 +541,7 @@
 },
 {
 "surface": "abhiṣiñcantu",
-"quick_gloss": "let-sprinkle"
+"quick_gloss": "may-consecrate"
 },
 {
 "surface": "mātaraḥ",
@@ -578,7 +566,7 @@
 },
 {
 "surface": "abhiṣiñcantu",
-"quick_gloss": "let-sprinkle"
+"quick_gloss": "may-consecrate"
 },
 {
 "surface": "mantra+pūtena",
@@ -586,7 +574,7 @@
 },
 {
 "surface": "vāriṇā",
-"quick_gloss": "water"
+"quick_gloss": "with-water"
 }
 ]
 },
@@ -607,11 +595,11 @@
 },
 {
 "surface": "abhiṣiñcantu",
-"quick_gloss": "let-sprinkle"
+"quick_gloss": "may-consecrate"
 },
 {
 "surface": "vagalā",
-"quick_gloss": "Bagalā"
+"quick_gloss": "bagalā"
 },
 {
 "surface": "vara+dā",
@@ -632,15 +620,15 @@
 "tokens": [
 {
 "surface": "indrāṇī",
-"quick_gloss": "Indrāṇī"
+"quick_gloss": "indrāṇī"
 },
 {
 "surface": "vāruṇī",
-"quick_gloss": "Vāruṇī"
+"quick_gloss": "vāruṇī"
 },
 {
 "surface": "raudrī",
-"quick_gloss": "Raudrī"
+"quick_gloss": "raudrī"
 },
 {
 "surface": "tvā",
@@ -648,7 +636,7 @@
 },
 {
 "surface": "abhiṣiñcantu",
-"quick_gloss": "let-sprinkle"
+"quick_gloss": "may-consecrate"
 },
 {
 "surface": "śaktayaḥ",

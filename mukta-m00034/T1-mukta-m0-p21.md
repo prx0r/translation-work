@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[of-that](tasya) [rest](viśrāntiḥ) [one](ekā) [alone](eva) [then](tatas) [of-goddesses](devyāḥ) [thirteen](trayodaśa)
+[of-that](tasya) [rest](viśrāntiḥ)+[one](ekā)+[alone](eva) [then](tataḥ) [goddesses](devyāḥ)+[thirteen](trayodaśa)
 
 ## mukta-m0-p21-v502
-[of-them](tāsām) [final](antyā) [own+rest](sva+viśrāntiḥ) [great+dissolution+ground](mahā+vilaya+bhūḥ) [supreme](parā)
+[of-them](tāsām)+[last](antyā) [own-rest](sva)+[rest](viśrāntiḥ)+[great-dissolution-ground](mahāvilayabhūḥ) [supreme](parā)
 
 ## mukta-m0-p21-v503
-[unnamed](anākhyam) [non-sequential](akramam) [also](api) [sequential-in-nature](krama+ātmā) [indeed](eva) [by-resorting-to-that](tat+āśrayāt)
+[unnamed](anākhyam)+[non-sequential](akramam)+[also](api) [sequential-in-nature](kramātma)+[indeed](eva) [by-resorting-to-that](tadāśrayāt)
 
 ## mukta-m0-p21-v504
-[of-time](kālasya) [suddenly](sahasā) [devouring+transition](grāsa+saṅkramā) [and-so-forth](ādi) [thus](ittham) [is-accepted](iṣyate)
+[of-time](kālasya) [suddenly](sahasā) [devouring](grāsa)+[transition](saṅkrama)+[and-so-forth](ādi)+[thus](ittham)+[is-accepted](iṣyate)
 
 ## mukta-m0-p21-v505
-[there](tatra) [there](tatra) [indeed](hi) [without-effort](an+āyāsāt) [unnamed+flashing-forth](anākhya+sphuraṇam) [is-established](sthitam)
+[there](tatra) [there](tatra) [indeed](hi)+[without-effort](anāyāsāt)+[unnamed-flashing-forth](anākhyasphuraṇaṃ) [is-established](sthitam)
 
 ## mukta-m0-p21-v506
-[untasted](acarvitaḥ) [manifestation](avabhāsaḥ) [would-be](syāt) [by-not-being-grasped](tat+amṛṣṭatayā) [how](katham)
+[untasted](acarvitaḥ)+[manifestation](avabhāsaḥ) [would-be](syāt) [by-not-being-grasped](tad)+[by-not-being-grasped](amṛṣṭatayā) [how](katham)
 
 ## mukta-m0-p21-v507
-[there](tatra) [there](tatra) [in-non-sequential-manner](akramatvena) [unnamed](anākhyam) [first](prathamam) [is-established](sthitam)
+[there](tatra) [there](tatra)+[in-non-sequential-manner](akramatvena) [the-unnamed](anākhyam) [first](prathamaṃ) [is-established](sthitam)
 
 ## mukta-m0-p21-v508
-[of-time+limiting-condition](kāla+upādheḥ) [without-transgressing](anākramya) [by-inseparability](nāntarīyatayā) [is-established](sthitā)
+[of-time](kāla)+[limiting-condition](upādheḥ)+[without-transgressing](anākramya) [by-inevitability](nāntarīyatayā) [is-established](sthitā)
 
 ## mukta-m0-p21-v509
-[by-relying-on-that+form+alone](tat+rūpa+mātra+avaṣṭambhāt) [from-limited+self+nature](paricchinna+ātma+rūpataḥ)
+[that-form](tad)+[mere-form](rūpa)+[reliance](mātra)+[by-support](āvaṣṭambhāt) [limited](paricchinna)+[self-nature](ātma)+[due-to-form](rūpataḥ)
 
 ## mukta-m0-p21-v510
-[non-sequentially](akrameṇa) [established](sthitam) [not](no) [if](cet) [blue+consciousness](nīla+saṃvit) [not](na) [is-accomplished](sidhyati)
+[non-sequentially](akrameṇa) [established](sthitaṃ) [not](no) [if](cet)+[blue-consciousness](nīla)+[consciousness](saṃvit)+[not](na) [is-accomplished](sidhyati)
 
 ## mukta-m0-p21-v511
-[by-mutual+exclusion](anyonya+parihāreṇa) [blue+consciousness](nīla+saṃvit) [not](na) [that](tat) [would-be](bhavet)
+[by-mutual-exclusion](anyonyaparihāreṇa) [blue-consciousness](nīla)+[consciousness](saṃvit)+[not](na) [that](tad) [would-be](bhavet)
 
 ## mukta-m0-p21-v512
-[not](na) [thus](evam) [any](kācit) [cognition](pratītiḥ) [would-be](syāt) [by-non-difference-of-various+parts+appearance](vividha+aṃśa+ābhā+bhedataḥ)
+[not](na)+[thus](evaṃ) [any](kācit) [cognition](pratītiḥ) [would-be](syāt)+[of-various-parts](vividhāṃśa)+[by-non-difference](abhabhedataḥ)
 
 ## mukta-m0-p21-v513
-[in-all+experience+established](sarva+anubhava+saṃsiddhau) [worldly+course](loka+yātrā) [is-established](pratiṣṭhitā)
+[in-all-experience](sarvānubhava)+[established](saṃsiddhau) [worldly-course](lokayātrā) [is-established](pratiṣṭhitā)
 
 ## mukta-m0-p21-v514
-[as](yathā) [experience](anubhavam) [of-this](etasya) [in-difference](bhede) [unnamed](anākhyam) [clearly](sphuṭam) [is-established](sthitam)
+[as](yathā)+[experience](anubhavam)+[of-this](etasya) [in-difference](bhede)+[the-unnamed](anākhyam) [clearly](sphuṭaṃ) [is-established](sthitam)
 
 ## mukta-m0-p21-v515
-[at-first](ādau) [unmanifested+expansion](akalita+ullāsaḥ) [its+enjoyment](tat+sambhogaḥ) [then](tatas) [after](param)
+[at-first](ādau)+[unmanifested-expansion](akalitollāsaḥ)+[its-enjoyment](tatsambhogaḥ)+[then](tataḥ) [after](param)
 
 ## mukta-m0-p21-v516
-[thus](evam) [in-mind+nature](māna+svarūpe) [also](api) [fourfold](caturdhā) [of-difference+arising](bheda+sambhavaḥ)
+[thus](evaṃ) [in-the-nature-of-mind](mānasvarūpe)+[also](api) [fourfold](caturdhā) [arising-of-difference](bhedasambhavaḥ)
 
 ## mukta-m0-p21-v517
-[here](atra) [everywhere](sarvatra) [rest](viśrāntiḥ) [one](ekā) [alone](eva) [without-limiting-condition](nirupādhikā)
+[here](atra) [everywhere](sarvatra) [rest](viśrāntiḥ)+[one](ekā)+[alone](eva) [without-limiting-condition](nirupādhikā)
 
 ## mukta-m0-p21-v518
-[of-conceptualization+impressions+devoid](vikalpa+vāsanā+śūnyam) [non-conceptual](nirvikalpam) [proceeds](pravartate)
+[of-conceptual-construction](vikalpa)+[impression](vāsanā)+[devoid-of](śūnyaṃ) [non-conceptual](nirvikalpaṃ) [proceeds](pravartate)
 
 ## mukta-m0-p21-v519
-[in-time+devouring+state](kāla+grāsa+pade) [properly](samyak) [they-enter](praviśanti) [in-supportless](nirāśraye)
+[in-the-state-of-devouring-time](kālagrāsapade) [properly](samyak) [they-enter](praviśanti) [in-the-supportless](nirāśraye)
 
 ## mukta-m0-p21-v520
-[from-two+sense-organs+arising](dvi+indriya+utpattitaḥ) [and](ca) [others](anye) [rest](viśrāmyanti) [in-supportless](nirāśraye)
+[from-the-arising-of-two-senses](dvīndriyotpattitaḥ)+[and](ca)+[others](anye) [rest](viśrāmyanti) [in-the-supportless](nirāśraye)
 
 ## mukta-m0-p21-v521
-[are-seen](dṛśyante) [in-time+dissolution](kāla+vilaye) [rest](viśrāntiḥ) [without-limiting-condition](nirupādhikā)
+[are-seen](dṛśyante) [in-the-dissolution-of-time](kālavilaye) [rest](viśrāntiḥ)+[without-limiting-condition](nirupādhikā)
 
 ## mukta-m0-p21-v522
-[object+level](prameya+bhūmim) [having-resorted-to](āśritya) [intent-on-time+devouring](kāla+grāsa+parāḥ) [are-established](sthitāḥ)
+[the-level-of-the-object-of-knowledge](prameyabhūmim)+[having-resorted-to](āśritya) [intent-on-devouring-time](kālagrāsaparāḥ) [they-remain](sthitāḥ)
 
 ## mukta-m0-p21-v523
-[Kālī+word](kālī+śabdaḥ) [of-four](catasṛṇām) [of-goddesses](devīnām) [denoter](vācakaḥ) [is-established](sthitaḥ)
+[the-word-Kālī](kālīśabdaḥ)+[of-the-four](catasṛṇāṃ) [goddesses](devīnāṃ) [denotative](vācakaḥ) [is-established](sthitaḥ)
 
 ## mukta-m0-p21-v524
-[from-activity](pravṛtteḥ) [by-force-of-inertia+and-so-forth](stāmyā+ādi+vaśāt) [time+devouring](kāla+grāsaḥ) [is-established](sthitaḥ)
+[of-activity](pravṛtteḥ)+[they](tā) [by-force-of-inertia-and-so-forth](stamyādivaśāt) [devouring-of-time](kālagrāsaḥ) [is-established](sthitaḥ)
 
 ## mukta-m0-p21-v525
-[of-them](teṣām) [by-resorting-to-that](tat+āśrayeṇa) [alone](eva) [time+devouring](kāla+grāsaḥ) [is-designated](abhidhīyate)
+[of-them](teṣāṃ) [by-resorting-to-that](tadāśrayeṇa)+[alone](eva) [devouring-of-time](kālagrāsaḥ)+[is-designated](abhidhīyate)
