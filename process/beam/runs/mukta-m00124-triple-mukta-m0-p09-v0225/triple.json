@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "yāśiyāne",
+     "gloss": "yāśiyāne",
+     "grounds": "Mantra or formula element; exact function uncertain in this fragmentary context; transliterated without semantic translation.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhābhiś+ca",
+     "gloss": "by-methods-and",
+     "grounds": "Instrumental plural of vidhā with enclitic ca; denotes methods or procedures conjoined in the formula.",
+     "morph": "f.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "yāgāya+yā",
+     "gloss": "for-worship-and-yā",
+     "grounds": "Dative of yāga conjoined with element yā; ritual or syllabic component, exact parsing uncertain.",
+     "morph": "m.dat.sg + (indecl.)"
+    },
+    {
+     "surface": "yūś+ca",
+     "gloss": "yū-and",
+     "grounds": "Syllabic or formula element yū with enclitic ca; transliterated as mantra material.",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "vī+tathā",
+     "gloss": "vī-thus",
+     "grounds": "Syllabic or formula element vī followed by tathā; marks continuation or inclusion in the sequence.",
+     "morph": "(indecl.) + (indecl.)"
+    }
+   ],
+   "question": "Which methods and syllabic elements are conjoined within this ritual worship formula?",
+   "premises": [
+    "The formula includes vidhābhiś+ca, indicating methods are conjoined.",
+    "The element yāgāya+yā links worship with an additional component.",
+    "The syllabic elements yūś+ca and vī+tathā are included in sequence."
+   ],
+   "inference": "This verse enumerates specific methods and syllabic elements jointly constituting a ritual worship formula.",
+   "uncertainties": [
+    "The precise referent and grammatical role of yāśiyāne are unclear.",
+    "The internal analysis of yāgāya+yā as ritual term or mantra syllable is uncertain."
+   ],
+   "plain_english": "In yāśiyāne, with methods, for worship and yā, and yū, and vī likewise are included."
+  }
+ ]
+}

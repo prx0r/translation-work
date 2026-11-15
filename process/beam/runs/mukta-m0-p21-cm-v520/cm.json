@@ -3,29 +3,34 @@
  "verse": 520,
  "rows": [
   {
-   "lemma": "vāmādhaḥkare+śaṃkhaḥ",
-   "morph": "compound",
-   "grounds": "fused sandhi form as given"
+   "lemma": "kalau",
+   "morph": "m.loc.sg",
+   "grounds": "specifies the cosmic age"
   },
   {
-   "lemma": "dakṣādhaḥkaregadā",
-   "morph": "compound",
-   "grounds": "fused sandhi form as given"
+   "lemma": "bhārata+varṣe",
+   "morph": "compound: bhārata+bhārata + varṣe+n.loc.sg",
+   "grounds": "specifies the geographical region; sandhi within token"
   },
   {
-   "lemma": "dakṣordhvakarepadmaṃ",
-   "morph": "compound",
-   "grounds": "fused sandhi form as given"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "vāmoccakare+cakram",
-   "morph": "compound",
-   "grounds": "fused sandhi form as given"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negates applicability elsewhere"
   },
   {
-   "lemma": "kanakavarṇaḥ",
-   "morph": "adj.nom.sg.m",
-   "grounds": "adjective nominative singular masculine"
+   "lemma": "anyat+varṣe",
+   "morph": "compound: anyat+other + varṣe+n.loc.sg",
+   "grounds": "contrasts with Bhārata; sandhi within token"
+  },
+  {
+   "lemma": "kadācana",
+   "morph": "(indecl.)",
+   "grounds": "emphasizes absolute exclusion"
   }
  ]
 }

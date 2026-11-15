@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1936,
- "question": "Which types of corpses are specified as special cases in this rule?",
+ "question": "What condition of life results from being freed from all misfortunes by that rite?",
  "premises": [
-  "A stale corpse is mentioned",
-  "A corpse of one with consumption or leprosy is mentioned",
-  "Both cases are treated similarly"
+  "The prior rite has a protective effect.",
+  "One becomes freed from all misfortunes.",
+  "One lives happily on earth."
  ],
- "inference": "The rule applies to a stale corpse and likewise to a corpse affected by consumption or leprosy.",
- "uncertainties": [
-  "The prescribed action for these cases is given elsewhere"
- ],
- "plain_english": "In the case of a stale corpse, and likewise a corpse of someone who had consumption or leprosy..."
+ "inference": "By that, freed from all misfortunes, one lives happily on earth.",
+ "uncertainties": [],
+ "plain_english": "By that, freed from all misfortunes, one lives happily on earth."
 }

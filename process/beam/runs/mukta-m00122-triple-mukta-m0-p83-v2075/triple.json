@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "locative of place indicating the central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting or adding to the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb referring to that specified locus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "refers to the Kuṇḍalinī-power described in the preceding verses",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nityānityā",
+     "gloss": "eternal-and-impermanent",
+     "grounds": "compound characterizing her dual nature; internal sandhi nityā+anityā",
+     "morph": "compound: nityā+anityā"
+    },
+    {
+     "surface": "gandhādinā",
+     "gloss": "with-fragrance-and-so-on",
+     "grounds": "instrumental indicating offerings beginning with fragrance",
+     "morph": "compound: gandha+ādi, m.inst.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive optative enjoining ritual worship",
+     "morph": "3.sg.opt.act √arc"
+    }
+   ],
+   "question": "In what place and manner should that eternal-and-impermanent Kuṇḍalinī-power be ritually worshipped?",
+   "premises": [
+    "The Kuṇḍalinī-power described earlier is the object of worship.",
+    "The prescribed locus of worship is there in the middle.",
+    "The worship is to be performed with fragrance and similar offerings."
+   ],
+   "inference": "Therefore, one should worship that eternal-and-impermanent Kuṇḍalinī-power there in the middle with fragrance and other offerings.",
+   "uncertainties": [
+    "The precise referent of 'in the middle' depends on the ritual context of the preceding passage.",
+    "The compound 'nityānityā' may characterize a dual nature or relate to the nityā cycle; the exact doctrinal nuance is context-dependent."
+   ],
+   "plain_english": "And there, in the middle, one should worship her, who is both eternal and impermanent, with fragrance and other offerings."
+  }
+ ]
+}

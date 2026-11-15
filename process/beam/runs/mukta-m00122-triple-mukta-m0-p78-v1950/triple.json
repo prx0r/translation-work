@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "hṛdaya+ādi",
+     "gloss": "beginning-with-heart",
+     "grounds": "compound indicating the starting point of the sequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāda+yuga+agra+avadhi",
+     "gloss": "up-to-tips-of-both-feet",
+     "grounds": "compound indicating the terminal limit of the sequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "parāmṛśan",
+     "gloss": "touching",
+     "grounds": "describes the act of mentally or physically traversing the body range",
+     "morph": "m.nom.sg.pres.part.act (parā-√mṛś)"
+    },
+    {
+     "surface": "hakāraṃ",
+     "gloss": "syllable-ha",
+     "grounds": "names the mantra syllable to be placed; bīja syllable kept as referent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribes the ritual placement action",
+     "morph": "3.sg.act.opt (√nyas)"
+    },
+    {
+     "surface": "iti+arthaḥ",
+     "gloss": "this-is-the-meaning",
+     "grounds": "concludes the explanation of the preceding instruction",
+     "morph": "compound"
+    }
+   ],
+   "question": "What bodily range and syllable placement are prescribed for this nyāsa act?",
+   "premises": [
+    "The practitioner touches from the heart onward.",
+    "The touch extends up to the tips of both feet.",
+    "The syllable ha is to be placed during this act."
+   ],
+   "inference": "The prescribed nyāsa consists in placing the syllable ha while traversing the body from the heart down to the tips of both feet.",
+   "uncertainties": [
+    "Whether parāmṛśan implies physical touch, mental visualization, or both is not explicit in this verse alone."
+   ],
+   "plain_english": "Touching from the heart down to the tips of both feet, one should place the syllable ha; this is the meaning."
+  }
+ ]
+}

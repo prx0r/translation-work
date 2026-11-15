@@ -1,18 +1,15 @@
 {
  "song": "mukta-m0-p21",
  "verse": 516,
- "question": "Which hand-attributes and bodily color define blue Aniruddha?",
+ "question": "How are previously stated seed-syllables and mantras to be determined?",
  "premises": [
-  "Aniruddha is blue",
-  "left upper hand holds conch",
-  "left lower hand holds lotus",
-  "right lower hand holds discus",
-  "right upper hand holds mace",
-  "body color is blue"
+  "A seed-syllable and mantra were previously stated",
+  "Each belongs to a particular referent",
+  "A determination of that referent is indicated"
  ],
- "inference": "The verse names Aniruddha and gives his blue color and four-armed arrangement.",
+ "inference": "The determination concerns whichever seed-syllable and mantra were previously stated for each",
  "uncertainties": [
-  "the first token fuses name and attribute description"
+  "The verse is syntactically incomplete and likely continues into the next verse"
  ],
- "plain_english": "Aniruddha, blue, holds conch, lotus, discus, and mace in the stated hands, blue color."
+ "plain_english": "For whomever the seed-syllable and mantra were previously stated, their determination is given."
 }

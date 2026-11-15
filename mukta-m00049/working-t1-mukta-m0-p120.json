@@ -7,16 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhana",
-"quick_gloss": "wealth"
-},
-{
-"surface": "bhāgitva",
-"quick_gloss": "share-ness"
-},
-{
-"surface": "sambandhāt",
-"quick_gloss": "connection"
+"surface": "dhanabhāgitvasambandhāt",
+"quick_gloss": "wealth+share-ness+connection-from"
 },
 {
 "surface": "trirātraṃ",
@@ -40,16 +32,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "punar",
-"quick_gloss": "again"
-},
-{
-"surface": "avibhakta",
-"quick_gloss": "undivided"
-},
-{
-"surface": "vidhānena",
-"quick_gloss": "by-rule"
+"surface": "punaravibhaktavidhānena",
+"quick_gloss": "again+undivided+rule-by"
 },
 {
 "surface": "dāyādā",
@@ -69,40 +53,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛte",
-"quick_gloss": "in-death"
+"surface": "mṛte'pi",
+"quick_gloss": "on-death+even"
 },
 {
-"surface": "api",
-"quick_gloss": "even"
-},
-{
-"surface": "maraṇe",
-"quick_gloss": "in-dying"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"surface": "maraṇe'pi",
+"quick_gloss": "on-dying+even"
 },
 {
 "surface": "te",
 "quick_gloss": "they"
 },
 {
-"surface": "dāyādās",
+"surface": "dāyādāḥ",
 "quick_gloss": "heirs"
 },
 {
-"surface": "tādṛg",
-"quick_gloss": "such"
-},
-{
-"surface": "vibhava",
-"quick_gloss": "wealth"
-},
-{
-"surface": "bhāgino",
-"quick_gloss": "sharers"
+"surface": "tādṛgvibhavabhāgino",
+"quick_gloss": "such+wealth+sharers"
 },
 {
 "surface": "bhaveyuḥ",
@@ -123,7 +91,7 @@
 },
 {
 "surface": "upalakṣaṇam",
-"quick_gloss": "indicative"
+"quick_gloss": "indicative-mark"
 }
 ]
 },
@@ -135,28 +103,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śravaṇāc",
+"surface": "śravaṇāt",
 "quick_gloss": "by-hearing"
 },
 {
-"surface": "śeṣa",
-"quick_gloss": "remaining"
+"surface": "śeṣadivasaiḥ",
+"quick_gloss": "remaining+days-by"
 },
 {
-"surface": "divasair",
-"quick_gloss": "by-days"
-},
-{
-"surface": "viśuddhyeyur",
+"surface": "viśuddhyeyuḥ",
 "quick_gloss": "should-be-purified"
 },
 {
-"surface": "dvija",
-"quick_gloss": "twice-born"
-},
-{
-"surface": "ādayaḥ",
-"quick_gloss": "and-others"
+"surface": "dvijādayaḥ",
+"quick_gloss": "twice-born+and-others"
 }
 ]
 },
@@ -189,7 +149,7 @@
 },
 {
 "surface": "saṃvatsarāt",
-"quick_gloss": "year"
+"quick_gloss": "year-from"
 },
 {
 "surface": "param",
@@ -213,7 +173,7 @@
 "quick_gloss": "impure"
 },
 {
-"surface": "putras",
+"surface": "putraḥ",
 "quick_gloss": "son"
 },
 {
@@ -246,7 +206,7 @@
 "quick_gloss": "world"
 },
 {
-"surface": "syād",
+"surface": "syāt",
 "quick_gloss": "should-be"
 },
 {
@@ -279,16 +239,8 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "karaṇa",
-"quick_gloss": "in-instrument"
-},
-{
-"surface": "adhikaraṇayoś",
-"quick_gloss": "and-locative"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "karaṇādhikaraṇayośca",
+"quick_gloss": "in-instrument+and-locative+and"
 },
 {
 "surface": "iti",
@@ -312,12 +264,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "maraṇa",
-"quick_gloss": "death"
-},
-{
-"surface": "viṣayakam",
-"quick_gloss": "pertaining-to"
+"surface": "maraṇaviṣayakam",
+"quick_gloss": "death+pertaining-to"
 },
 {
 "surface": "idaṃ",
@@ -337,19 +285,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gurva",
-"quick_gloss": "by-major"
-},
-{
-"surface": "śaucena",
-"quick_gloss": "impurity"
+"surface": "gurvaśaucena",
+"quick_gloss": "by-greater+impurity"
 },
 {
 "surface": "martyānāṃ",
 "quick_gloss": "of-mortals"
 },
 {
-"surface": "śuddhis",
+"surface": "śuddhiḥ",
 "quick_gloss": "purification"
 },
 {
@@ -370,16 +314,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyāpya",
-"quick_gloss": "of-pervaded"
-},
-{
-"surface": "vyāpakayor",
-"quick_gloss": "and-pervader"
+"surface": "vyāpyavyāpakayoḥ",
+"quick_gloss": "of-pervaded+and-pervader"
 },
 {
 "surface": "madhye",
-"quick_gloss": "between"
+"quick_gloss": "in-middle"
 },
 {
 "surface": "garīyo",
@@ -403,36 +343,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrva",
-"quick_gloss": "by-previous"
-},
-{
-"surface": "āśaucena",
-"quick_gloss": "impurity"
+"surface": "pūrvāśaucena",
+"quick_gloss": "by-previous+impurity"
 },
 {
 "surface": "śuddhiḥ",
 "quick_gloss": "purification"
 },
 {
-"surface": "syād",
+"surface": "syāt",
 "quick_gloss": "should-be"
 },
 {
-"surface": "agha",
-"quick_gloss": "by-impurity"
+"surface": "aghavṛddhyā",
+"quick_gloss": "by-impurity+increase"
 },
 {
-"surface": "vṛddhyā",
-"quick_gloss": "increase"
-},
-{
-"surface": "dina",
-"quick_gloss": "day"
-},
-{
-"surface": "dvayam",
-"quick_gloss": "two"
+"surface": "dinadvayam",
+"quick_gloss": "day+two"
 }
 ]
 },
@@ -473,7 +401,7 @@
 "quick_gloss": "of-mortals"
 },
 {
-"surface": "śuddhir",
+"surface": "śuddhiḥ",
 "quick_gloss": "purification"
 },
 {
@@ -490,7 +418,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "urutaraṃ",
+"surface": "gurutaraṃ",
 "quick_gloss": "more-heavy"
 },
 {
@@ -507,20 +435,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatra",
-"quick_gloss": "there"
+"surface": "tatrāpi",
+"quick_gloss": "there+also"
 },
 {
-"surface": "api",
-"quick_gloss": "also"
-},
-{
-"surface": "evam",
-"quick_gloss": "thus"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "evam+eva",
+"quick_gloss": "thus+indeed"
 },
 {
 "surface": "avagantavyam",
@@ -537,19 +457,19 @@
 "tokens": [
 {
 "surface": "jāte",
-"quick_gloss": "in-birth"
+"quick_gloss": "on-birth"
 },
 {
 "surface": "pariṇaye",
-"quick_gloss": "in-marriage"
+"quick_gloss": "on-marriage"
 },
 {
-"surface": "pitror",
+"surface": "pitroḥ",
 "quick_gloss": "of-parents"
 },
 {
 "surface": "mṛtau",
-"quick_gloss": "in-death"
+"quick_gloss": "on-death"
 },
 {
 "surface": "tryaham",
@@ -573,20 +493,12 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "gṛhītṛ",
-"quick_gloss": "by-adopter"
+"surface": "gṛhītṛgotreṇa",
+"quick_gloss": "by-taker+gotra-by"
 },
 {
-"surface": "gotreṇa",
-"quick_gloss": "by-gotra"
-},
-{
-"surface": "datta",
+"surface": "dattaputrasya",
 "quick_gloss": "of-adopted-son"
-},
-{
-"surface": "putrasya",
-"quick_gloss": "of-son"
 },
 {
 "surface": "gotritā",
@@ -602,16 +514,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva",
-"quick_gloss": "own"
-},
-{
-"surface": "gotra",
-"quick_gloss": "gotra"
-},
-{
-"surface": "nāmāny",
-"quick_gloss": "names"
+"surface": "svagotranāmāni",
+"quick_gloss": "own+gotra+names"
 },
 {
 "surface": "ullikhya",
@@ -622,12 +526,8 @@
 "quick_gloss": "should-perform-rites"
 },
 {
-"surface": "sva",
+"surface": "svajanaiḥ",
 "quick_gloss": "with-own-people"
-},
-{
-"surface": "janaiḥ",
-"quick_gloss": "with-people"
 },
 {
 "surface": "saha",
@@ -672,12 +572,8 @@
 "quick_gloss": "gotra-ness"
 },
 {
-"surface": "gotra",
-"quick_gloss": "gotra-possessing"
-},
-{
-"surface": "vattā",
-"quick_gloss": "state"
+"surface": "gotravattā",
+"quick_gloss": "having-gotra-ness"
 },
 {
 "surface": "syāt",
@@ -710,19 +606,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ādātror",
-"quick_gloss": "of-adopters"
+"surface": "ādātroḥ",
+"quick_gloss": "of-takers"
 },
 {
 "surface": "dattake",
-"quick_gloss": "in-adopted"
+"quick_gloss": "in-adopted-son"
 },
 {
 "surface": "tadvat",
 "quick_gloss": "likewise"
 },
 {
-"surface": "yato",
+"surface": "yataḥ",
 "quick_gloss": "because"
 },
 {
@@ -731,7 +627,7 @@
 },
 {
 "surface": "pitarau",
-"quick_gloss": "parents"
+"quick_gloss": "two-parents"
 },
 {
 "surface": "hi",
@@ -751,16 +647,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañca",
-"quick_gloss": "five"
-},
-{
-"surface": "varṣa",
-"quick_gloss": "year"
-},
-{
-"surface": "adhiko",
-"quick_gloss": "exceeding"
+"surface": "pañcavarṣādhiko",
+"quick_gloss": "five+years+older"
 },
 {
 "surface": "bālo",
@@ -768,7 +656,7 @@
 },
 {
 "surface": "dattako",
-"quick_gloss": "adopted"
+"quick_gloss": "adopted-son"
 },
 {
 "surface": "na",
