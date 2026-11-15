@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "239b8a9fc3262237",
+ "source_digest_normalized_sha256": "239b8a9fc3262237a10b2939f790d37323c4413592339b9d903ce963cee3b910",
+ "source_sha256_raw": "13e95f5635203784efc97b90b60122f1c1c019e67f9fe01acb01908f4f64c9f0",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/isvarasiddhi.txt",
  "source_verses": 9,
  "t1_verses": 9,
  "l0": {
-  "parsed": 111,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 111
@@ -26,7 +30,7 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 208,
+ "c1_words": 43,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 9,
@@ -73,9 +77,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "239b8a9fc3262237",
-  "t1": "T1-isva-p05.md",
-  "l0": "T1-isva-p05.l0.jsonl",
-  "l2": "L2-isva-p05.md",
-  "c1": "c1/C1-isva-p05.md"
+  "t1": "isva-p05/data/isva-p05.t1.json",
+  "l0": "isva-p05/data/isva-p05.l0.json",
+  "l2": "isva-p05/data/isva-p05.l2.json",
+  "c1": "isva-p05/data/isva-p05.c1.json"
  }
 }

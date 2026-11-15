@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "8fc6b9518424d58a",
+ "source_digest_normalized_sha256": "8fc6b9518424d58abccb83debcd43d17067ba294f0cb9511daf4f65a5829b453",
+ "source_sha256_raw": "dd647991e9912047622ececf84d4c8668fa0675f3e84256394a90022b3afe4e4",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/kramastotra.txt",
  "source_verses": 1,
  "t1_verses": 1,
  "l0": {
-  "parsed": 15,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 15
@@ -20,11 +24,11 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 2,
- "c1_words": 44,
+ "c1_iast_prose_info": 0,
+ "c1_words": 7,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 1,
+  "checked": 3,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "8fc6b9518424d58a",
-  "t1": "T1-kram-p01.md",
-  "l0": "T1-kram-p01.l0.jsonl",
-  "l2": "L2-kram-p01.md",
-  "c1": "c1/C1-kram-p01.md"
+  "t1": "kram-p01/data/kram-p01.t1.json",
+  "l0": "kram-p01/data/kram-p01.l0.json",
+  "l2": "kram-p01/data/kram-p01.l2.json",
+  "c1": "kram-p01/data/kram-p01.c1.json"
  }
 }

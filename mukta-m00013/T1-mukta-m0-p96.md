@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p96-v2376
-[above-below](ūrdhva+adhaḥ) [may-protect](pātu) [always](satataṃ) [brahmā-ananta](brahmā+anantaḥ) [as](yathā) [in-order](kramāt)
+[above](ūrdhva) [and-below](adhaḥ) [may-protect](pātu) [always](satataṃ) [Brahmā](brahmā) [and-Ananta](anantaḥ) [as](yathā) [in-order](kramāt)
 
 ## mukta-m0-p96-v2377
-[thus](iti) [to-you](te) [told](kathitaṃ) [meritorious](puṇyaṃ) [three-world-protection](trailokya+rakṣaṇaṃ) [supreme](param)
+[thus](iti) [to-you](te) [told](kathitaṃ) [meritorious](puṇyaṃ) [three-world](trailokya) [protection](rakṣaṇaṃ) [supreme](param)
 
 ## mukta-m0-p96-v2378
-[brahmā](brahmā) [viṣṇu-and](viṣṇuḥ+ca) [rudra-and](rudraḥ+ca) [from-holding](dhāraṇāt) [from-recitation-etc.](paṭhanāt+ādi) [because](yataḥ)
+[Brahmā](brahmā) [Viṣṇu](viṣṇuḥ) [and](ca) [Rudra](rudraḥ) [and](ca) [from-wearing](dhāraṇāt) [from-recitation](paṭhanāt) [and-so-forth](ādi) [because](yataḥ)
 
 ## mukta-m0-p96-v2379
-[flower-offering-octet](puṣpa+añjali+aṣṭakaṃ) [to-the-goddess](devyai) [with-root-mantra](mūlena) [indeed](eva) [one-should-offer](samarpayet)
+[flower](puṣpa) [offering](añjali) [octad](aṣṭakaṃ) [to-the-goddess](devyai) [with-root-mantra](mūlena) [indeed](eva) [one-should-offer](samarpayet)
 
 ## mukta-m0-p96-v2380
 [speech](vāṇī) [in-mouth](vaktre) [may-dwell](vaset) [of-him](tasya) [truth](satyaṃ) [truth](satyaṃ) [no](na) [doubt](saṃśayaḥ)
@@ -20,10 +20,10 @@
 [on-birch-bark](bhūrje) [having-written](vilikhya) [amulet](guṭikāṃ) [placed-in-gold](svarṇa+sthāṃ) [one-should-wear](dhārayet) [if](yadi)
 
 ## mukta-m0-p96-v2382
-[garlands](mālyāni) [flowers](kusumāni) [indeed](eva) [happiness-giving](sukha+dāni) [become](bhavanti) [indeed](hi)
+[garlands](mālyāni) [flowers](kusumāni) [indeed](eva) [happiness](sukha) [giving](dāni) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p96-v2383
-[I-contemplate](bhāvayāmi) [I-contemplate](bhāvayāmi) [I-contemplate](bhāvayāmi) [I-contemplate](bhāvayāmi)
+[I-meditate](bhāvayāmi) [I-meditate](bhāvayāmi) [I-meditate](bhāvayāmi) [I-meditate](bhāvayāmi)
 
 ## mukta-m0-p96-v2384
 [men](narāḥ) [those](te) [men](narāḥ) [those](te)
@@ -38,40 +38,40 @@
 [of-them](teṣām) [of-them](teṣām) [of-them](teṣām) [of-them](teṣām)
 
 ## mukta-m0-p96-v2388
-[evil-planets](duḥ+grahāḥ) [them](tān) [abandon](tyajanti) [evil-planets](duḥ+grahāḥ) [them](tān) [abandon](tyajanti)
+[evil](dur) [planets](grahāḥ) [them](tān) [abandon](tyajanti)
 
 ## mukta-m0-p96-v2389
 [having-contemplated](saṃvicintya) [having-contemplated](saṃvicintya) [having-contemplated](saṃvicintya) [having-contemplated](saṃvicintya)
 
 ## mukta-m0-p96-v2390
-[beautiful-breast-shining](su+vakṣoja+nabhrām) [beautiful-breast-shining](su+vakṣoja+nabhrām) [beautiful-breast-shining](su+vakṣoja+nabhrām) [beautiful-breast-shining](su+vakṣoja+nabhrām)
+[beautiful](su) [breast](vakṣoja) [shining](nabhrām) [beautiful](su) [breast](vakṣoja) [shining](nabhrām)
 
 ## mukta-m0-p96-v2391
-[bearing](dadhānāṃ) [great-jewel-ornament](bṛhat+ratna+bhūṣāṃ) [slender-waisted](su+madhyāṃ) [well-girdled](su+kāñcīm)
+[bearing](dadhānāṃ) [great](bṛhat) [jewel](ratna) [ornament](bhūṣāṃ) [slender-waisted](su+madhyāṃ) [beautiful-girdled](su+kāñcīm)
 
 ## mukta-m0-p96-v2392
-[by-held-powers](dhṛtābhiḥ) [by-held-powers](dhṛtābhiḥ) [by-held-powers](dhṛtābhiḥ) [by-held-powers](dhṛtābhiḥ)
+[by-held](dhṛtābhiḥ) [by-held](dhṛtābhiḥ) [by-held](dhṛtābhiḥ) [by-held](dhṛtābhiḥ)
 
 ## mukta-m0-p96-v2393
-[three-powers](tri+śaktiṃ) [I-worship](bhajāmi) [three-powers](tri+śaktiṃ) [I-worship](bhajāmi)
+[three](tri) [power](śaktiṃ) [I-worship](bhajāmi) [three](tri) [power](śaktiṃ) [I-worship](bhajāmi)
 
 ## mukta-m0-p96-v2394
-[even-a-fool](pāmaraḥ+api) [even-a-fool](pāmaraḥ+api) [even-a-fool](pāmaraḥ+api) [even-a-fool](pāmaraḥ+api)
+[even-a-fool](pāmaraḥ) [even](api) [even-a-fool](pāmaraḥ) [even](api)
 
 ## mukta-m0-p96-v2395
 [may-become](bhavet) [he](saḥ) [may-become](bhavet) [he](saḥ)
 
 ## mukta-m0-p96-v2396
-[may-obtain](labhet) [even-a-human](mānavaḥ+api) [may-obtain](labhet) [even-a-human](mānavaḥ+api)
+[may-obtain](labhet) [even-a-human](mānavaḥ) [even](api) [may-obtain](labhet) [even-a-human](mānavaḥ) [even](api)
 
 ## mukta-m0-p96-v2397
-[world-wind-form](jagat+vāyu+rūpā) [world-wind-form](jagat+vāyu+rūpā) [world-wind-form](jagat+vāyu+rūpā) [world-wind-form](jagat+vāyu+rūpā)
+[world](jagat) [wind](vāyu) [form](rūpā) [world](jagat) [wind](vāyu) [form](rūpā)
 
 ## mukta-m0-p96-v2398
-[be-gracious](prasīda) [be-gracious](prasīda) [be-gracious](prasīda) [be-gracious](prasīda)
+[be-pleased](prasīda) [be-pleased](prasīda) [be-pleased](prasīda) [be-pleased](prasīda)
 
 ## mukta-m0-p96-v2399
-[be-gracious](prasīda) [be-gracious](prasīda) [be-gracious](prasīda) [be-gracious](prasīda)
+[be-pleased](prasīda) [be-pleased](prasīda) [be-pleased](prasīda) [be-pleased](prasīda)
 
 ## mukta-m0-p96-v2400
-[be-gracious](prasīda) [be-gracious](prasīda) [be-gracious](prasīda) [be-gracious](prasīda)
+[be-pleased](prasīda) [be-pleased](prasīda) [be-pleased](prasīda) [be-pleased](prasīda)

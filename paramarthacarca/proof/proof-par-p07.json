@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "38dccb7576a2372a",
+ "source_digest_normalized_sha256": "38dccb7576a2372ad7c554b4f2d768364de39b74536b85a2aa519af23fce5d14",
+ "source_sha256_raw": "ff7495798d202aba1a47df828b63adb903f78cdf85fae820b12ead651c11c232",
+ "source_sha256_raw_file": "/root/translation-work/paramarthacarca/T1.md",
  "source_verses": 1,
  "t1_verses": 1,
  "l0": {
-  "parsed": 12,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 12
@@ -21,10 +25,10 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 6,
+ "c1_words": 17,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 1,
+  "checked": 2,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "38dccb7576a2372a",
-  "t1": "T1-par-p07.md",
-  "l0": "T1-par-p07.l0.jsonl",
-  "l2": "L2-par-p07.md",
-  "c1": "c1/C1-par-p07.md"
+  "t1": "par-p07/data/par-p07.t1.json",
+  "l0": "par-p07/data/par-p07.l0.json",
+  "l2": "par-p07/data/par-p07.l2.json",
+  "c1": "par-p07/data/par-p07.c1.json"
  }
 }

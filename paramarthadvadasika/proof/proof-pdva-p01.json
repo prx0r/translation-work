@@ -5,26 +5,30 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "ef7e760679203ce9",
+ "source_digest_normalized_sha256": "ef7e760679203ce978cf7ea49c72c6ce65fd28e8b4d87a0a8a941e4287a94aab",
+ "source_sha256_raw": "81c0dd4a9dd2d2ec621bf37345ebb1d547bd7271561cbee43013cedff7e0c971",
+ "source_sha256_raw_file": "/root/translation-work/paramarthadvadasika/source/edition.txt",
  "source_verses": 7,
  "t1_verses": 7,
  "l0": {
-  "parsed": 148,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 148
  },
  "align": {
-  "min_ratio": 0.986,
+  "min_ratio": 1.0,
   "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 9,
- "c1_words": 456,
+ "c1_iast_prose_info": 0,
+ "c1_words": 121,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 7,
+  "checked": 25,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "ef7e760679203ce9",
-  "t1": "T1-pdva-p01.md",
-  "l0": "T1-pdva-p01.l0.jsonl",
-  "l2": "L2-pdva-p01.md",
-  "c1": "c1/C1-pdva-p01.md"
+  "t1": "pdva-p01/data/pdva-p01.t1.json",
+  "l0": "pdva-p01/data/pdva-p01.l0.json",
+  "l2": "pdva-p01/data/pdva-p01.l2.json",
+  "c1": "pdva-p01/data/pdva-p01.c1.json"
  }
 }

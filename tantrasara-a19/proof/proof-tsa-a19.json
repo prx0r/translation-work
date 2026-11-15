@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "dd6e290250d96197",
+ "source_digest_normalized_sha256": "dd6e290250d96197d5c3a8dd5a28eb1d7533bee0498b950e9d60564e25128656",
+ "source_sha256_raw": "329925603922aef093a08ff11209fca3ec14b50f94721e3f4bf299fdc912d62f",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/tantrasara.txt",
  "source_verses": 7,
  "t1_verses": 7,
  "l0": {
-  "parsed": 145,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 145
@@ -20,8 +24,8 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 31,
- "c1_words": 564,
+ "c1_iast_prose_info": 0,
+ "c1_words": 127,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 7,
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "dd6e290250d96197",
-  "t1": "T1-tsa-a19.md",
-  "l0": "T1-tsa-a19.l0.jsonl",
-  "l2": "L2-tsa-a19.md",
-  "c1": "c1/C1-tsa-a19.md"
+  "t1": "tsa-a19/data/tsa-a19.t1.json",
+  "l0": "tsa-a19/data/tsa-a19.l0.json",
+  "l2": "tsa-a19/data/tsa-a19.l2.json",
+  "c1": "tsa-a19/data/tsa-a19.c1.json"
  }
 }

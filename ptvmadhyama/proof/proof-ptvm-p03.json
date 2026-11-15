@@ -5,23 +5,27 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "9a1149e404f14c69",
+ "source_digest_normalized_sha256": "9a1149e404f14c69b448fa8d0bc2952b4b4fa8262c7baee8d30b4c7017123890",
+ "source_sha256_raw": "11ee3f5cd7701ee073759eb67aee4615f2e5c26dd07df55325100aae251a28a3",
+ "source_sha256_raw_file": "/root/translation-work/ptvmadhyama/source/edition.txt",
  "source_verses": 9,
  "t1_verses": 9,
  "l0": {
-  "parsed": 79,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 79
  },
  "align": {
-  "min_ratio": 0.993,
+  "min_ratio": 1.0,
   "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 35,
- "c1_words": 379,
+ "c1_iast_prose_info": 0,
+ "c1_words": 65,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 9,
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "9a1149e404f14c69",
-  "t1": "T1-ptvm-p03.md",
-  "l0": "T1-ptvm-p03.l0.jsonl",
-  "l2": "L2-ptvm-p03.md",
-  "c1": "c1/C1-ptvm-p03.md"
+  "t1": "ptvm-p03/data/ptvm-p03.t1.json",
+  "l0": "ptvm-p03/data/ptvm-p03.l0.json",
+  "l2": "ptvm-p03/data/ptvm-p03.l2.json",
+  "c1": "ptvm-p03/data/ptvm-p03.c1.json"
  }
 }

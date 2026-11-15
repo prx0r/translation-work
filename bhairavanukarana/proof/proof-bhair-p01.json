@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "55360412ae3ac17c",
+ "source_digest_normalized_sha256": "55360412ae3ac17c058c3f15b7110a990f8736b07df9f6f22520a87855dbffcd",
+ "source_sha256_raw": "e6766709029b851d292732b362bb8edcb68cdce86575e6edaa2c91a4d4a13df6",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/ksemaraja-bhairavanukarana.txt",
  "source_verses": 10,
  "t1_verses": 10,
  "l0": {
-  "parsed": 112,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 112
@@ -20,11 +24,11 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 54,
- "c1_words": 219,
+ "c1_iast_prose_info": 0,
+ "c1_words": 57,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 10,
+  "checked": 20,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "55360412ae3ac17c",
-  "t1": "T1-bhair-p01.md",
-  "l0": "T1-bhair-p01.l0.jsonl",
-  "l2": "L2-bhair-p01.md",
-  "c1": "c1/C1-bhair-p01.md"
+  "t1": "bhair-p01/data/bhair-p01.t1.json",
+  "l0": "bhair-p01/data/bhair-p01.l0.json",
+  "l2": "bhair-p01/data/bhair-p01.l2.json",
+  "c1": "bhair-p01/data/bhair-p01.c1.json"
  }
 }

@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "309685b84a25636d",
+ "source_digest_normalized_sha256": "309685b84a25636d1186c264ba23dfdb46e11e1f9409047f1aa7a3bdbc7ad3fe",
+ "source_sha256_raw": "7b21e2fe9906de69b03c9fe552ee761fc1649088beaf5c1a0ae9eccd6d15534e",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/paramarthasara.txt",
  "source_verses": 9,
  "t1_verses": 9,
  "l0": {
-  "parsed": 139,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 139
@@ -25,11 +29,11 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 1,
- "c1_words": 79,
+ "c1_iast_prose_info": 0,
+ "c1_words": 27,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 9,
+  "checked": 18,
   "failures": []
  },
  "ledger": {
@@ -73,9 +77,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "309685b84a25636d",
-  "t1": "T1-param-p03.md",
-  "l0": "T1-param-p03.l0.jsonl",
-  "l2": "L2-param-p03.md",
-  "c1": "c1/C1-param-p03.md"
+  "t1": "param-p03/data/param-p03.t1.json",
+  "l0": "param-p03/data/param-p03.l0.json",
+  "l2": "param-p03/data/param-p03.l2.json",
+  "c1": "param-p03/data/param-p03.c1.json"
  }
 }

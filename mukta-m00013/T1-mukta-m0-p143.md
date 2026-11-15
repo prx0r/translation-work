@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[not](na) [of-him](tasya) [is-found](vidyate) [fear](bhītiḥ) [ever](kadācid) [even](api) [o-virtuous-one](suvrata)
+[not](na) [of-him](tasya) [is-found](vidyate) [fear](bhītiḥ) [ever+even](kadācit+api) [o-virtuous-one](suvrata)
 
 ## mukta-m0-p143-v3552
-[submissive](vaśyā) [become](bhavanti) [all](sarve) [and](ca) [brahmins](brāhmaṇā) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[submissive](vaśyā) [become](bhavanti) [all](sarve) [and](ca) [brahmins](brāhmaṇā) [not+here](na+atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p143-v3553
-[submissive](vaśyā) [become](bhavanti) [kings](rājāno) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
+[submissive](vaśyā) [become](bhavanti) [kings](rājāno) [not+here](na+atra) [to-be-done](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p143-v3554
-[with-darkness+born+flowers](tamāla+udbhava+puṣpaiḥ) [and](ca) [vaiśyas](vaiśyā) [submissive](vaśyā) [become](bhavanti) [indeed](hi)
+[darkness+born+flowers](tamāla+udbhava+puṣpaiḥ) [and](ca) [vaiśyas](vaiśyā) [submissive](vaśyā) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p143-v3555
 [on-forehead](lalāṭe) [when-placed](vidhṛte) [of-him](tasya) [all](sarve) [submissive](vaśyā) [become](bhavanti) [indeed](hi)
@@ -26,10 +26,10 @@
 [long+life](dīrgha+āyuḥ) [unobstructed+strength+vigor+endowed-with](apratihata+bala+vīrya+samanvitam)
 
 ## mukta-m0-p143-v3559
-[desire+lord](manoratha+patiṃ) [having-obtained](labdhvā) [for-long+time](dīrgha+kālañ) [and](ca) [he-sports](krīḍati)
+[desire+lord](manoratha+patiṃ) [having-obtained](labdhvā) [long+time](dīrgha+kālaṃ) [and](ca) [plays](krīḍati)
 
 ## mukta-m0-p143-v3560
-[is-given](dīyate) [to-whom](yasya) [to-whom](yasya) [thus](iti) [he](saḥ) [quickly](acirāt) [like-slave+submissive](dāsa+vat+vaśī)
+[is-given](dīyate) [to-whom](yasya) [to-whom](yasya) [thus](iti) [he](saḥ) [quickly](acirāt) [servant+like+submissive](dāsa+vat+vaśī)
 
 ## mukta-m0-p143-v3561
 [man](puruṣaṃ) [one-should-subdue](vaśayet) [woman](nārī) [by-this+indeed](anena+eva) [method](vidhānataḥ)
@@ -41,37 +41,37 @@
 [Pūtanā+breast+drinker](pūtanā+stana+pātāraṃ) [having-meditated](dhyātvā) [mantra](mantraṃ) [hundred](śataṃ) [one-should-recite](japet)
 
 ## mukta-m0-p143-v3564
-[threatening](tarjayantaṃ) [poison](viṣaṃ) [terrible](ghoraṃ) [with-hūṃ+sound](hūṃ+kāreṇa) [one-should-destroy](vināśayet)
+[threatening](tarjayantaṃ) [poison](viṣaṃ) [terrible](ghoraṃ) [by-hūṃ+sound](hūṃ+kāreṇa) [one-should-destroy](vināśayet)
 
 ## mukta-m0-p143-v3565
-[I-bow](namāmi) [Devakī+son](devakī+putraṃ) [dance+king](nṛtya+rājānam) [imperishable](acyutam)
+[I-bow](namāmi) [Devakī+son](devakī+putraṃ) [dance+king](nṛtya+rājānam) [the-infallible](acyutam)
 
 ## mukta-m0-p143-v3566
-[one-destroys](nāśayet) [not](na) [here](atra) [doubt](sandeho) [by-sight+mere](dṛṣṭi+mātreṇa) [mantra-practitioner](māntrikaḥ)
+[one-destroys](nāśayet) [not+here](na+atra) [doubt](sandeho) [by-sight+mere](dṛṣṭi+mātreṇa) [mantra-practitioner](māntrikaḥ)
 
 ## mukta-m0-p143-v3567
 [great+sovereignty](mahā+aiśvaryam) [then](atha) [having-obtained](prāpya) [world+famous](viśva+khyāto) [one-becomes](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p143-v3568
-[fear](bhayam) [quickly](āśu) [is-destroyed](vinaśyet) [indeed](tu) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
+[fear](bhayam) [quickly](āśu) [is-destroyed](vinaśyet) [indeed](tu) [not+here](na+atra) [to-be-done](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p143-v3569
-[thus](evam) [and](ca) [with-mind](manasā) [having-meditated](dhyātvā) [rain](vṛṣṭiṃ) [in-rains](varṣāsu) [and](ca) [one-should-bring](āharet)
+[thus](evam) [and](ca) [with-mind](manasā) [having-meditated](dhyātvā) [rain](vṛṣṭiṃ) [in-rains](varṣāsu) [one-should-bring](ca+āharet)
 
 ## mukta-m0-p143-v3570
-[rain](vṛṣṭiḥ) [becomes](bhavati) [out-of-season](akāle) [even](api) [great](mahatī) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[rain](vṛṣṭiḥ) [becomes](bhavati) [out-of-season+even](akāle+api) [great](mahatī) [not+here](na+atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p143-v3571
-[clarified-butter](ājyam) [eight+hundred](aṣṭa+śataṃ) [having-offered](hutvā) [with-kinnaras](kinnaraiḥ) [with](saha) [one-is-sung](gīyate)
+[clarified-butter](ājyam) [eight+hundred](aṣṭa+śataṃ) [having-offered](hutvā) [with-kinnaras](kinnaraiḥ) [with](saha) [is-sung](gīyate)
 
 ## mukta-m0-p143-v3572
-[having-offered](hutvā) [ten+thousand](daśa+sahasram) [indeed](tu) [at-that+moment](tat+kṣaṇāt) [one-destroys](nāśayet) [certainly](dhruvam)
+[having-offered](hutvā) [ten+thousand](daśa+sahasram) [indeed](tu) [at-that-moment](tat+kṣaṇāt) [one-destroys](nāśayet) [certainly](dhruvam)
 
 ## mukta-m0-p143-v3573
-[having-meditated](dhyātvā) [with-rice+dūrvā-grass](taṇḍula+dūrvābhiḥ) [having-offered](hutvā) [pacification](śāntikam) [one-should-bring](āharet)
+[having-meditated](dhyātvā) [with-rice-grains+dūrvā-grass](taṇḍula+dūrvābhiḥ) [having-offered](hutvā) [pacification](śāntikam) [one-should-bring](āharet)
 
 ## mukta-m0-p143-v3574
-[all](sarvān) [worlds](lokān) [having-subdued](vaśīkṛtya) [quickly](āśu) [knowing](vijñaḥ) [one-will-become](bhaviṣyati)
+[all](sarvān) [worlds](lokān) [having-subdued](vaśīkṛtya) [quickly](āśu) [knower](vijñaḥ) [one-will-become](bhaviṣyati)
 
 ## mukta-m0-p143-v3575
 [by-this+indeed](anena+eva) [method](vidhānena) [everywhere](sarvatra) [victorious](vijayī) [one-becomes](bhavet)

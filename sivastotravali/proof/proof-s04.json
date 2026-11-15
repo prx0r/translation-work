@@ -4,9 +4,8 @@
  "work": "sivastotravali",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [
-  "LEDGER_GLOSS_MISSING ['vatsala=fond', 'āspadam=abode (s03)']"
- ],
+ "warnings": [],
+ "mode": "shastra",
  "source_sha": "fd02c190f3ecc071",
  "source_digest_normalized_sha256": "fd02c190f3ecc071b505e8c1010356db2b6050faae6be04be0428d78ad0b59c6",
  "source_sha256_raw": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
@@ -14,7 +13,7 @@
  "source_verses": 25,
  "t1_verses": 25,
  "l0": {
-  "parsed": 521,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 521
@@ -47,18 +46,15 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 45,
+ "c1_words": 66,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 25,
+  "checked": 50,
   "failures": []
  },
  "ledger": {
-  "pairs": 2,
-  "gloss_missing_in_l2": [
-   "vatsala=fond",
-   "āspadam=abode (s03)"
-  ]
+  "pairs": 0,
+  "gloss_missing_in_l2": []
  },
  "data_objects": {
   "errors": [],
@@ -97,9 +93,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "fd02c190f3ecc071",
-  "t1": "T1-s04.md",
-  "l0": "T1-s04.l0.jsonl",
-  "l2": "L2-s04.md",
-  "c1": "c1/C1-s04.md"
+  "t1": "s04/data/s04.t1.json",
+  "l0": "s04/data/s04.l0.json",
+  "l2": "s04/data/s04.l2.json",
+  "c1": "s04/data/s04.c1.json"
  }
 }

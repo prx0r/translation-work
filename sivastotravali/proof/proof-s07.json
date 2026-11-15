@@ -5,6 +5,7 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "995b21b8333a5f78",
  "source_digest_normalized_sha256": "995b21b8333a5f7817b696ae28205b3b4304a289b2dbf7cd512fa44750d23475",
  "source_sha256_raw": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
@@ -12,7 +13,7 @@
  "source_verses": 9,
  "t1_verses": 9,
  "l0": {
-  "parsed": 82,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 82
@@ -71,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "995b21b8333a5f78",
-  "t1": "T1-s07.md",
-  "l0": "T1-s07.l0.jsonl",
-  "l2": "L2-s07.md",
-  "c1": "c1/C1-s07.md"
+  "t1": "s07/data/s07.t1.json",
+  "l0": "s07/data/s07.l0.json",
+  "l2": "s07/data/s07.l2.json",
+  "c1": "s07/data/s07.c1.json"
  }
 }

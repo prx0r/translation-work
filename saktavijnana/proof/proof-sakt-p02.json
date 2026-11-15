@@ -5,23 +5,27 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "edb5c3f83f8a6e25",
+ "source_digest_normalized_sha256": "edb5c3f83f8a6e2571ade34b0874da1f549608ab2415431aee7a58948c79e552",
+ "source_sha256_raw": "265b89675aa836ab29b03732d3a50da8705ce3b0299270475a4c49b61e25dbbf",
+ "source_sha256_raw_file": "/root/translation-work/saktavijnana/source/edition.txt",
  "source_verses": 10,
  "t1_verses": 10,
  "l0": {
-  "parsed": 94,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 94
  },
  "align": {
-  "min_ratio": 0.994,
+  "min_ratio": 1.0,
   "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 30,
- "c1_words": 439,
+ "c1_iast_prose_info": 0,
+ "c1_words": 107,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 10,
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "edb5c3f83f8a6e25",
-  "t1": "T1-sakt-p02.md",
-  "l0": "T1-sakt-p02.l0.jsonl",
-  "l2": "L2-sakt-p02.md",
-  "c1": "c1/C1-sakt-p02.md"
+  "t1": "sakt-p02/data/sakt-p02.t1.json",
+  "l0": "sakt-p02/data/sakt-p02.l0.json",
+  "l2": "sakt-p02/data/sakt-p02.l2.json",
+  "c1": "sakt-p02/data/sakt-p02.c1.json"
  }
 }

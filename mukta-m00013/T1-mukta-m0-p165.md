@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p165-v4101
-[he](sa) [not+obtains](nāpnoti) [fruit](phalaṃ) [of-that](tasya) [others](pare) [and](ca) [hell](narakaṃ) [may-go](vrajet)
+[he](sa) [not](na) [obtains](āpnoti) [fruit](phalaṃ) [of-that](tasya) [to-other](pare) [and](ca) [hell](narakaṃ) [may-go](vrajet)
 
 ## mukta-m0-p165-v4102
-[knowing+even](jānannapi) [that+beautiful-one](tatsundari) [mother+not](mātarna) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[knowing](jānan) [even](api) [that](tat) [o-beautiful-one](sundari) [o-mother](mātar) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4103
-[I-think](manye) [friend](mitraṃ) [wealth+wife](vittakalatraṃ) [not](na) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[I-consider](manye) [friend](mitraṃ) [wealth+wife](vitta+kalatraṃ) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4104
-[of-the-virtuous](sādhoḥ) [service](sevā) [much+god+devotion](bahusurabhaktirna) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[of-the-virtuous](sādhoḥ) [service](sevā) [much+god-devotion](bahu+sura+bhaktir) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4105
-[of-Viṣṇu+as](viṣṇoriva) [father+service+union](pitṛsevanayogo) [not](na) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[of-Viṣṇu](viṣṇor) [like](iva) [father+service+union](pitṛ+sevana+yogo) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4106
-[of-sacrifice](iṣṭeḥ) [worship](pūjā) [recitation+austerity+devotion](japatapobhaktirna) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[of-sacrifice](iṣṭeḥ) [worship](pūjā) [chanting+austerity+devotion](japa+tapo+bhaktir) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4107
-[incarnation+etc.](avatārādikamanyatsarvaṃ) [all](sarvaṃ) [not](na) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[incarnation+beginning-with](avatāra+ādikam) [other](anyat) [all](sarvaṃ) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4108
-[incarnations+thus](avatārāniti) [decade](daśakaṃ) [I-think](manye) [not](na) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[incarnations](avatārān) [thus](iti) [decade](daśakaṃ) [I-consider](manye) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4109
-[Yamunā](yamunā) [Revā](revā) [supreme+other+holy-place](parataratīrthaṃ) [not](na) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[Yamunā](yamunā) [Revā](revā) [supreme+other+holy-place](para+tara+tīrthaṃ) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4110
-[this+all](etatsarvaṃ) [beautiful-one](sundari) [mother+not](mātarna) [than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam)
+[this](etat) [all](sarvaṃ) [o-beautiful-one](sundari) [o-mother](mātar) [not](na) [than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4111
-[than-guru+greater](guroradhikaṃ) [not](na) [than-guru+greater](guroradhikam) [not](na) [than-guru+greater](guroradhikam)
+[than-guru](guror) [greater](adhikaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4112
-[universe+within](brahmāṇḍāntaryadyad) [to-be-known](jñeyaṃ) [all](sarvaṃ) [not](na) [than-guru+greater](guroradhikam)
+[universe+within](brahmāṇḍa+antar) [whatever](yadyad) [to-be-known](jñeyaṃ) [all](sarvaṃ) [not](na) [than-guru](guror) [greater](adhikam)
 
 ## mukta-m0-p165-v4113
-[Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān)
+[Hanūmān](hanūmān)
 
 ## mukta-m0-p165-v4114
-[Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān)
+[Hanūmān](hanūmān)
 
 ## mukta-m0-p165-v4115
-[wind+son](vāyusuto) [Hanumān](hanūmān) [wind+son](vāyusuto) [Hanumān](hanūmān)
+[wind+son](vāyu+suto) [Hanūmān](hanūmān)
 
 ## mukta-m0-p165-v4116
-[Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān)
+[Hanūmān](hanūmān)
 
 ## mukta-m0-p165-v4117
-[Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān)
+[Hanūmān](hanūmān)
 
 ## mukta-m0-p165-v4118
-[wind+son](vāyusutau) [Hanumān](hanūmān) [wind+son](vāyusutau) [Hanumān](hanūmān)
+[wind+son](vāyu+sutau) [Hanūmān](hanūmān)
 
 ## mukta-m0-p165-v4119
-[Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān) [Hanumān](hanūmān)
+[Hanūmān](hanūmān)
 
 ## mukta-m0-p165-v4120
-[battle+victory+giving](saṃgrāmajayadaṃ) [meritorious](puṇyaṃ) [of-gods+even](devānāmapi) [hard-to-obtain](durlabham)
+[battle+victory+giving](saṃgrāma+jaya+daṃ) [meritorious](puṇyaṃ) [of-gods](devānām) [even](api) [hard-to-obtain](durlabham)
 
 ## mukta-m0-p165-v4121
 [poison](viṣaṃ) [not](na) [afflicts](vādhate) [of-him](tasya) [not](na) [him](taṃ) [harm](hiṃsanti) [harmers](hiṃsakāḥ)
 
 ## mukta-m0-p165-v4122
-[son+desiring](putrārthī) [son](putramāpnoti) [obtains](putramāpnoti) [woman](nārī) [of-husband](patyuḥ) [dear](priyā) [may-become](bhavet)
+[son+desiring](putra+arthī) [son](putram) [obtains](āpnoti) [woman](nārī) [of-husband](patyuḥ) [dear](priyā) [may-become](bhavet)
 
 ## mukta-m0-p165-v4123
-[weak](durbalo) [strength](balamāpnoti) [obtains](balamāpnoti) [may-become](bhavetvāyusutopamaḥ) [wind+son+equal](bhavetvāyusutopamaḥ)
+[weak](durbalo) [strength](balam) [obtains](āpnoti) [may-become](bhavet) [wind+son+equal](vāyu+suta+upamaḥ)
 
 ## mukta-m0-p165-v4124
-[from-bondage](bandhanānmuktimāpnoti) [liberation](bandhanānmuktimāpnoti) [obtains](bandhanānmuktimāpnoti) [in-journey](yātrāyāṃ) [success+indeed](siddhireva) [and](ca)
+[from-bondage](bandhanāt) [release](muktim) [obtains](āpnoti) [in-journey](yātrāyāṃ) [success](siddhir) [indeed](eva) [and](ca)
 
 ## mukta-m0-p165-v4125
-[and](ca) [others](anye) [and](ca) [others](anye)
+[and](ca) [others](anye)

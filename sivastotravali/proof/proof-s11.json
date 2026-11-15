@@ -5,6 +5,7 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "fae6ba11a13d1b8e",
  "source_digest_normalized_sha256": "fae6ba11a13d1b8e28ae5770ec2942d5b904c74e4b509c96bd153b71c1c7b7e0",
  "source_sha256_raw": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
@@ -12,7 +13,7 @@
  "source_verses": 15,
  "t1_verses": 15,
  "l0": {
-  "parsed": 270,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 270
@@ -24,7 +25,7 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 45,
+ "c1_words": 37,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 15,
@@ -71,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "fae6ba11a13d1b8e",
-  "t1": "T1-s11.md",
-  "l0": "T1-s11.l0.jsonl",
-  "l2": "L2-s11.md",
-  "c1": "c1/C1-s11.md"
+  "t1": "s11/data/s11.t1.json",
+  "l0": "s11/data/s11.l0.json",
+  "l2": "s11/data/s11.l2.json",
+  "c1": "s11/data/s11.c1.json"
  }
 }

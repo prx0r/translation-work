@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "2b8b65b1a3be3f41",
+ "source_digest_normalized_sha256": "2b8b65b1a3be3f414794430d3775e6f03d5d4bbd1d9da26314441af70bd99333",
+ "source_sha256_raw": "8b355f6f2e34436991dc2232030f74d7b5c13804422a9037dd8153caa5e13e50",
+ "source_sha256_raw_file": "/root/translation-work/sivasutra/source/edition.txt",
  "source_verses": 7,
  "t1_verses": 7,
  "l0": {
-  "parsed": 17,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 17
@@ -20,8 +24,8 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 24,
- "c1_words": 163,
+ "c1_iast_prose_info": 0,
+ "c1_words": 21,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 7,
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "2b8b65b1a3be3f41",
-  "t1": "T1-span-p02.md",
-  "l0": "T1-span-p02.l0.jsonl",
-  "l2": "L2-span-p02.md",
-  "c1": "c1/C1-span-p02.md"
+  "t1": "span-p02/data/span-p02.t1.json",
+  "l0": "span-p02/data/span-p02.l0.json",
+  "l2": "span-p02/data/span-p02.l2.json",
+  "c1": "span-p02/data/span-p02.c1.json"
  }
 }

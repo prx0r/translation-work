@@ -5,26 +5,30 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "991ef9885498ae36",
+ "source_digest_normalized_sha256": "991ef9885498ae36b546935aac8be5cdf3e6bcc67fe9becd5878b11e463f0044",
+ "source_sha256_raw": "9231778a8794c2326f1df273be597648b2c6830b0441f36bb16bdbeb756bda18",
+ "source_sha256_raw_file": "/root/translation-work/vbt/source/edition.txt",
  "source_verses": 2,
  "t1_verses": 2,
  "l0": {
-  "parsed": 19,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 19
  },
  "align": {
-  "min_ratio": 0.993,
+  "min_ratio": 1.0,
   "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 9,
- "c1_words": 235,
+ "c1_iast_prose_info": 0,
+ "c1_words": 18,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 2,
+  "checked": 4,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "991ef9885498ae36",
-  "t1": "T1-vbt-p17.md",
-  "l0": "T1-vbt-p17.l0.jsonl",
-  "l2": "L2-vbt-p17.md",
-  "c1": "c1/C1-vbt-p17.md"
+  "t1": "vbt-p17/data/vbt-p17.t1.json",
+  "l0": "vbt-p17/data/vbt-p17.l0.json",
+  "l2": "vbt-p17/data/vbt-p17.l2.json",
+  "c1": "vbt-p17/data/vbt-p17.c1.json"
  }
 }

@@ -5,23 +5,27 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "b26d4991a7433256",
+ "source_digest_normalized_sha256": "b26d4991a743325661a0dd34824d0a67bf8c8a96048ec9a010e28f0fd53a6608",
+ "source_sha256_raw": "a30923267707ff60427b040eb8193a12a6949e429e253411e135877d8007188d",
+ "source_sha256_raw_file": "/root/translation-work/svabodhasiddhi/source/edition.txt",
  "source_verses": 8,
  "t1_verses": 8,
  "l0": {
-  "parsed": 75,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 75
  },
  "align": {
-  "min_ratio": 0.993,
+  "min_ratio": 1.0,
   "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 18,
- "c1_words": 309,
+ "c1_iast_prose_info": 0,
+ "c1_words": 62,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 8,
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "b26d4991a7433256",
-  "t1": "T1-svab-p02.md",
-  "l0": "T1-svab-p02.l0.jsonl",
-  "l2": "L2-svab-p02.md",
-  "c1": "c1/C1-svab-p02.md"
+  "t1": "svab-p02/data/svab-p02.t1.json",
+  "l0": "svab-p02/data/svab-p02.l0.json",
+  "l2": "svab-p02/data/svab-p02.l2.json",
+  "c1": "svab-p02/data/svab-p02.c1.json"
  }
 }

@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "ecccf427c95e5e5e",
+ "source_digest_normalized_sha256": "ecccf427c95e5e5e7090413dc495f60d999f95782acada749ff88641d39dcb1d",
+ "source_sha256_raw": "fe851af335239f8beebecaf0b5d445532c145af93337f5f0b25ec6e500c4356e",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/paryantapancasika.txt",
  "source_verses": 6,
  "t1_verses": 6,
  "l0": {
-  "parsed": 77,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 77
@@ -29,8 +33,8 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 41,
- "c1_words": 135,
+ "c1_iast_prose_info": 0,
+ "c1_words": 28,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 6,
@@ -77,9 +81,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "ecccf427c95e5e5e",
-  "t1": "T1-pary-p06.md",
-  "l0": "T1-pary-p06.l0.jsonl",
-  "l2": "L2-pary-p06.md",
-  "c1": "c1/C1-pary-p06.md"
+  "t1": "pary-p06/data/pary-p06.t1.json",
+  "l0": "pary-p06/data/pary-p06.l0.json",
+  "l2": "pary-p06/data/pary-p06.l2.json",
+  "c1": "pary-p06/data/pary-p06.c1.json"
  }
 }

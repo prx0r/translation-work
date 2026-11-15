@@ -15,12 +15,16 @@
 "quick_gloss": "poverty+renunciation"
 },
 {
-"surface": "dāsīvat",
+"surface": "dāsī+vat",
 "quick_gloss": "like-a-servant"
 },
 {
-"surface": "karavāṇi+aham",
+"surface": "karavāṇi",
 "quick_gloss": "I-shall-do"
+},
+{
+"surface": "aham",
+"quick_gloss": "I"
 }
 ]
 },
@@ -33,7 +37,7 @@
 "tokens": [
 {
 "surface": "homaḥ",
-"quick_gloss": "fire-offering"
+"quick_gloss": "oblation"
 },
 {
 "surface": "api",
@@ -82,7 +86,7 @@
 },
 {
 "surface": "su+manoharam",
-"quick_gloss": "very+charming"
+"quick_gloss": "very-beautiful"
 }
 ]
 },
@@ -136,7 +140,7 @@
 },
 {
 "surface": "matena",
-"quick_gloss": "by-opinion"
+"quick_gloss": "by-the-opinion"
 },
 {
 "surface": "asyāḥ",
@@ -144,7 +148,7 @@
 },
 {
 "surface": "pūjā+ādi",
-"quick_gloss": "worship+etc."
+"quick_gloss": "worship+etc"
 },
 {
 "surface": "kriyate",
@@ -164,12 +168,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrva+ādi",
-"quick_gloss": "from-east+beginning"
+"surface": "pūrvā+ādi",
+"quick_gloss": "from-east+etc"
 },
 {
-"surface": "uttara+antam",
-"quick_gloss": "to-north+end"
+"surface": "uttarā+antam",
+"quick_gloss": "up-to-north"
 },
 {
 "surface": "ca",
@@ -177,11 +181,11 @@
 },
 {
 "surface": "madhye",
-"quick_gloss": "in-middle"
+"quick_gloss": "in-the-middle"
 },
 {
 "surface": "devīṃ",
-"quick_gloss": "goddess"
+"quick_gloss": "the-goddess"
 },
 {
 "surface": "prapūjayet",
@@ -198,7 +202,7 @@
 "tokens": [
 {
 "surface": "hṛdaya+ādiṣu",
-"quick_gloss": "in-heart+etc."
+"quick_gloss": "in-the-heart+etc"
 }
 ]
 },
@@ -211,7 +215,7 @@
 "tokens": [
 {
 "surface": "nānā+alaṅkāra+bhūṣā+aṅgīṃ",
-"quick_gloss": "various+ornament+adorned+limbed"
+"quick_gloss": "with-various+ornament+adorned+limbs"
 },
 {
 "surface": "nagnāṃ",
@@ -222,8 +226,12 @@
 "quick_gloss": "intoxicated"
 },
 {
-"surface": "sadā+āsavaiḥ",
-"quick_gloss": "always+with-liquors"
+"surface": "sadā",
+"quick_gloss": "always"
+},
+{
+"surface": "āsavaiḥ",
+"quick_gloss": "with-liquors"
 }
 ]
 },
@@ -268,12 +276,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+vahis",
+"surface": "tat+bahis",
 "quick_gloss": "outside-that"
 },
 {
 "surface": "asitāṅga+ādi+bhairavān",
-"quick_gloss": "Asitanga+etc.+Bhairavas"
+"quick_gloss": "Asitāṅga+etc+Bhairavas"
 },
 {
 "surface": "pūjayet",
@@ -294,15 +302,15 @@
 },
 {
 "surface": "japet+mantraṃ",
-"quick_gloss": "one-should-chant+mantra"
+"quick_gloss": "one-should-repeat+mantra"
 },
 {
 "surface": "tat+daśāṃśena",
-"quick_gloss": "with-its+tenth-part"
+"quick_gloss": "with-its-tenth-part"
 },
 {
 "surface": "homayet",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "one-should-offer-oblation"
 }
 ]
 },
@@ -314,12 +322,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kālikā",
-"quick_gloss": "of-Kalika"
-},
-{
-"surface": "devyāḥ",
-"quick_gloss": "of-goddess"
+"surface": "kālikā+devyāḥ",
+"quick_gloss": "of-Kālikā+goddess"
 },
 {
 "surface": "iti",
@@ -330,8 +334,12 @@
 "quick_gloss": "with-own+seed-syllable"
 },
 {
-"surface": "iti+arthaḥ",
-"quick_gloss": "this-is-the-meaning"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -348,7 +356,7 @@
 },
 {
 "surface": "smaraṇa+mātreṇa",
-"quick_gloss": "by-remembrance+mere"
+"quick_gloss": "by-mere+remembrance"
 },
 {
 "surface": "pavanaḥ",
@@ -372,16 +380,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vahni+hīna+indra+yuṅ+māyā",
-"quick_gloss": "fire+without+Indra+joined+Maya"
+"surface": "vahni+hīna+indra+yuk+māyā",
+"quick_gloss": "without-fire+Indra+joined+Māyā"
 },
 {
 "surface": "sthira+māyā",
-"quick_gloss": "stable+Maya"
+"quick_gloss": "stable+Māyā"
 },
 {
 "surface": "prakīrtitā",
-"quick_gloss": "is-declared"
+"quick_gloss": "is-proclaimed"
 }
 ]
 },
@@ -415,11 +423,11 @@
 "tokens": [
 {
 "surface": "hlīṃ",
-"quick_gloss": "hlīṃ"
+"quick_gloss": "hlīṃ-seed"
 },
 {
 "surface": "bījaṃ",
-"quick_gloss": "seed-syllable"
+"quick_gloss": "seed"
 },
 {
 "surface": "guhya+deśe",
@@ -427,11 +435,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "svāhā+śaktiḥ",
-"quick_gloss": "svaha+power"
+"quick_gloss": "svāhā+power"
 },
 {
 "surface": "tu",
@@ -439,7 +447,7 @@
 },
 {
 "surface": "pādayoḥ",
-"quick_gloss": "on-feet"
+"quick_gloss": "on-the-feet"
 }
 ]
 },
@@ -518,7 +526,7 @@
 },
 {
 "surface": "mānasaiḥ",
-"quick_gloss": "with-mental-offerings"
+"quick_gloss": "with-mental+offerings"
 },
 {
 "surface": "sampūjya",
@@ -563,20 +571,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tarjanī+aṅguṣṭha+yogena",
-"quick_gloss": "with-forefinger+thumb+joining"
+"surface": "tarjanyā+aṅguṣṭha+yogena",
+"quick_gloss": "with-forefinger+thumb+union"
 },
 {
 "surface": "sa+aṅga+āvaraṇāṃ",
-"quick_gloss": "with-limbs+retinue"
+"quick_gloss": "with-limbs+attendants"
 },
 {
 "surface": "bagalāmukhī",
-"quick_gloss": "Bagalamukhi"
+"quick_gloss": "Bagalāmukhī"
 },
 {
 "surface": "tarpayet",
-"quick_gloss": "one-should-satisfy"
+"quick_gloss": "one-should-offer-libation"
 }
 ]
 },
@@ -589,7 +597,7 @@
 "tokens": [
 {
 "surface": "priyaṅgu+kusumena",
-"quick_gloss": "with-priyangu+flower"
+"quick_gloss": "with-priyaṅgu+flower"
 },
 {
 "surface": "api",
@@ -597,7 +605,7 @@
 },
 {
 "surface": "pīta+puṣpaiḥ",
-"quick_gloss": "with-yellow+flowers"
+"quick_gloss": "and-with-yellow+flowers"
 },
 {
 "surface": "ca",
@@ -605,7 +613,7 @@
 },
 {
 "surface": "homayet",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "one-should-offer-oblation"
 }
 ]
 },
@@ -618,7 +626,7 @@
 "tokens": [
 {
 "surface": "pīta+bhūṣaṇa+bhūṣām",
-"quick_gloss": "yellow+ornament+adorned"
+"quick_gloss": "with-yellow+ornament+adorned"
 },
 {
 "surface": "ca",
@@ -643,7 +651,7 @@
 "tokens": [
 {
 "surface": "japa+homa+prayoge",
-"quick_gloss": "in-chanting+offering+practice"
+"quick_gloss": "in-recitation+oblation+practice"
 },
 {
 "surface": "ca",
@@ -658,16 +666,12 @@
 "quick_gloss": "also"
 },
 {
-"surface": "api",
-"quick_gloss": "indeed"
-},
-{
 "surface": "ayutaṃ",
 "quick_gloss": "ten-thousand"
 },
 {
 "surface": "japet",
-"quick_gloss": "one-should-chant"
+"quick_gloss": "one-should-repeat"
 }
 ]
 },

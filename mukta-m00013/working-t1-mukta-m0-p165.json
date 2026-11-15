@@ -11,8 +11,12 @@
 "quick_gloss": "he"
 },
 {
-"surface": "nāpnoti",
-"quick_gloss": "not+obtains"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "āpnoti",
+"quick_gloss": "obtains"
 },
 {
 "surface": "phalaṃ",
@@ -24,7 +28,7 @@
 },
 {
 "surface": "pare",
-"quick_gloss": "others"
+"quick_gloss": "to-other"
 },
 {
 "surface": "ca",
@@ -48,28 +52,48 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jānannapi",
-"quick_gloss": "knowing+even"
+"surface": "jānan",
+"quick_gloss": "knowing"
 },
 {
-"surface": "tatsundari",
-"quick_gloss": "that+beautiful-one"
+"surface": "api",
+"quick_gloss": "even"
 },
 {
-"surface": "mātarna",
-"quick_gloss": "mother+not"
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "sundari",
+"quick_gloss": "o-beautiful-one"
+},
+{
+"surface": "mātar",
+"quick_gloss": "o-mother"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -82,14 +106,14 @@
 "tokens": [
 {
 "surface": "manye",
-"quick_gloss": "I-think"
+"quick_gloss": "I-consider"
 },
 {
 "surface": "mitraṃ",
 "quick_gloss": "friend"
 },
 {
-"surface": "vittakalatraṃ",
+"surface": "vitta+kalatraṃ",
 "quick_gloss": "wealth+wife"
 },
 {
@@ -97,16 +121,24 @@
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -126,20 +158,32 @@
 "quick_gloss": "service"
 },
 {
-"surface": "bahusurabhaktirna",
-"quick_gloss": "much+god+devotion"
-},
-{
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "bahu+sura+bhaktir",
+"quick_gloss": "much+god-devotion"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -151,11 +195,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣṇoriva",
-"quick_gloss": "of-Viṣṇu+as"
+"surface": "viṣṇor",
+"quick_gloss": "of-Viṣṇu"
 },
 {
-"surface": "pitṛsevanayogo",
+"surface": "iva",
+"quick_gloss": "like"
+},
+{
+"surface": "pitṛ+sevana+yogo",
 "quick_gloss": "father+service+union"
 },
 {
@@ -163,16 +211,24 @@
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -192,20 +248,32 @@
 "quick_gloss": "worship"
 },
 {
-"surface": "japatapobhaktirna",
-"quick_gloss": "recitation+austerity+devotion"
-},
-{
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "japa+tapo+bhaktir",
+"quick_gloss": "chanting+austerity+devotion"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -217,8 +285,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avatārādikamanyatsarvaṃ",
-"quick_gloss": "incarnation+etc."
+"surface": "avatāra+ādikam",
+"quick_gloss": "incarnation+beginning-with"
+},
+{
+"surface": "anyat",
+"quick_gloss": "other"
 },
 {
 "surface": "sarvaṃ",
@@ -229,16 +301,24 @@
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -250,8 +330,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avatārāniti",
-"quick_gloss": "incarnations+thus"
+"surface": "avatārān",
+"quick_gloss": "incarnations"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "daśakaṃ",
@@ -259,23 +343,31 @@
 },
 {
 "surface": "manye",
-"quick_gloss": "I-think"
+"quick_gloss": "I-consider"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -295,7 +387,7 @@
 "quick_gloss": "Revā"
 },
 {
-"surface": "parataratīrthaṃ",
+"surface": "para+tara+tīrthaṃ",
 "quick_gloss": "supreme+other+holy-place"
 },
 {
@@ -303,16 +395,24 @@
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -324,28 +424,44 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etatsarvaṃ",
-"quick_gloss": "this+all"
+"surface": "etat",
+"quick_gloss": "this"
+},
+{
+"surface": "sarvaṃ",
+"quick_gloss": "all"
 },
 {
 "surface": "sundari",
-"quick_gloss": "beautiful-one"
+"quick_gloss": "o-beautiful-one"
 },
 {
-"surface": "mātarna",
-"quick_gloss": "mother+not"
-},
-{
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "mātar",
+"quick_gloss": "o-mother"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -357,24 +473,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "guroradhikaṃ",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -386,8 +502,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmāṇḍāntaryadyad",
+"surface": "brahmāṇḍa+antar",
 "quick_gloss": "universe+within"
+},
+{
+"surface": "yadyad",
+"quick_gloss": "whatever"
 },
 {
 "surface": "jñeyaṃ",
@@ -402,8 +522,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "guroradhikam",
-"quick_gloss": "than-guru+greater"
+"surface": "guror",
+"quick_gloss": "than-guru"
+},
+{
+"surface": "adhikam",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -416,19 +540,7 @@
 "tokens": [
 {
 "surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
+"quick_gloss": "Hanūmān"
 }
 ]
 },
@@ -441,19 +553,7 @@
 "tokens": [
 {
 "surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
+"quick_gloss": "Hanūmān"
 }
 ]
 },
@@ -465,20 +565,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāyusuto",
+"surface": "vāyu+suto",
 "quick_gloss": "wind+son"
 },
 {
 "surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "vāyusuto",
-"quick_gloss": "wind+son"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
+"quick_gloss": "Hanūmān"
 }
 ]
 },
@@ -491,19 +583,7 @@
 "tokens": [
 {
 "surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
+"quick_gloss": "Hanūmān"
 }
 ]
 },
@@ -516,19 +596,7 @@
 "tokens": [
 {
 "surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
+"quick_gloss": "Hanūmān"
 }
 ]
 },
@@ -540,20 +608,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāyusutau",
+"surface": "vāyu+sutau",
 "quick_gloss": "wind+son"
 },
 {
 "surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "vāyusutau",
-"quick_gloss": "wind+son"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
+"quick_gloss": "Hanūmān"
 }
 ]
 },
@@ -566,19 +626,7 @@
 "tokens": [
 {
 "surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
-},
-{
-"surface": "hanūmān",
-"quick_gloss": "Hanumān"
+"quick_gloss": "Hanūmān"
 }
 ]
 },
@@ -590,7 +638,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃgrāmajayadaṃ",
+"surface": "saṃgrāma+jaya+daṃ",
 "quick_gloss": "battle+victory+giving"
 },
 {
@@ -598,8 +646,12 @@
 "quick_gloss": "meritorious"
 },
 {
-"surface": "devānāmapi",
-"quick_gloss": "of-gods+even"
+"surface": "devānām",
+"quick_gloss": "of-gods"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "durlabham",
@@ -656,15 +708,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "putrārthī",
+"surface": "putra+arthī",
 "quick_gloss": "son+desiring"
 },
 {
-"surface": "putramāpnoti",
+"surface": "putram",
 "quick_gloss": "son"
 },
 {
-"surface": "putramāpnoti",
+"surface": "āpnoti",
 "quick_gloss": "obtains"
 },
 {
@@ -697,19 +749,19 @@
 "quick_gloss": "weak"
 },
 {
-"surface": "balamāpnoti",
+"surface": "balam",
 "quick_gloss": "strength"
 },
 {
-"surface": "balamāpnoti",
+"surface": "āpnoti",
 "quick_gloss": "obtains"
 },
 {
-"surface": "bhavetvāyusutopamaḥ",
+"surface": "bhavet",
 "quick_gloss": "may-become"
 },
 {
-"surface": "bhavetvāyusutopamaḥ",
+"surface": "vāyu+suta+upamaḥ",
 "quick_gloss": "wind+son+equal"
 }
 ]
@@ -722,15 +774,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bandhanānmuktimāpnoti",
+"surface": "bandhanāt",
 "quick_gloss": "from-bondage"
 },
 {
-"surface": "bandhanānmuktimāpnoti",
-"quick_gloss": "liberation"
+"surface": "muktim",
+"quick_gloss": "release"
 },
 {
-"surface": "bandhanānmuktimāpnoti",
+"surface": "āpnoti",
 "quick_gloss": "obtains"
 },
 {
@@ -738,8 +790,12 @@
 "quick_gloss": "in-journey"
 },
 {
-"surface": "siddhireva",
-"quick_gloss": "success+indeed"
+"surface": "siddhir",
+"quick_gloss": "success"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "ca",
@@ -754,14 +810,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "anye",
-"quick_gloss": "others"
-},
 {
 "surface": "ca",
 "quick_gloss": "and"
