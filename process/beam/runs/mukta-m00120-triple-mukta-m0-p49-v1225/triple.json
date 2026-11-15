@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "śaktau",
+     "gloss": "in-power",
+     "grounds": "locative of locus; refers to śakti as the seat or presence",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "āvāhanaṃ",
+     "gloss": "invocation",
+     "grounds": "ritual act of summoning a deity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the existence or applicability of invocation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts non-existence in this context",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "introduces the reason for the absence of invocation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject identified as the deity herself",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sva+rūpiṇī",
+     "gloss": "own-natured",
+     "grounds": "compound indicating she is inherently present in her own form",
+     "morph": "f.nom.sg (sva+rūpin+ī)"
+    }
+   ],
+   "question": "Why is ritual invocation inapplicable when the goddess is inherently present as power?",
+   "premises": [
+    "Invocation presupposes the deity's absence from the locus.",
+    "The goddess is present in her own essential nature.",
+    "Power is the locus where her presence is already established."
+   ],
+   "inference": "Because the goddess is inherently present as power, no act of invocation is required.",
+   "uncertainties": [
+    "The precise referent of śaktau may depend on the ritual configuration described in the preceding verses."
+   ],
+   "plain_english": "There is no invocation in the power, because the goddess is present in her own essential form."
+  }
+ ]
+}
