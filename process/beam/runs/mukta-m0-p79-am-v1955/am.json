@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p79",
  "verse": 1955,
- "question": "Which additional deities are added to the continuing enumeration of worship forms?",
+ "question": "Which categories of śrāddha rites are to be observed together with the gods?",
  "premises": [
-  "Martanda Bhairava is named.",
-  "Mahaganapati is named.",
-  "Particles indicate their inclusion in the same list."
+  "Occasional rites are mentioned",
+  "Daily and occasional rites are mentioned again",
+  "These are performed together with gods"
  ],
- "inference": "Martanda Bhairava and Mahaganapati are added to the enumeration.",
- "uncertainties": [],
- "plain_english": "Martanda Bhairava and likewise Mahaganapati are included."
+ "inference": "Occasional, daily, and likewise occasional rites should be performed together with the gods.",
+ "uncertainties": [
+  "syntactic relation between repeated naimittikaṃ and nityaṃ is compressed"
+ ],
+ "plain_english": "The occasional rite together with the gods, and likewise the daily and occasional rites."
 }

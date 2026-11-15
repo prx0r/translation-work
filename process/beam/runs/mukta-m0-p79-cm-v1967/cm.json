@@ -3,24 +3,44 @@
  "verse": 1967,
  "rows": [
   {
-   "lemma": "īśenavighnādhipaśaktikṛṣṇā",
-   "morph": "m.nom.pl",
-   "grounds": "compound listing deities: īśa, ena/īśa, vighnādhipa, śakti, kṛṣṇa"
+   "lemma": "pitroḥ",
+   "morph": "m.gen.du",
+   "grounds": "parents as subjects"
   },
   {
-   "lemma": "madhyāgnikoṇakramatastu",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "compound: madhya+agni+koṇa+krama with tu fused"
+   "grounds": "connects conditions"
   },
   {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "particle"
+   "lemma": "jīvatoḥ",
+   "morph": "m.gen.du",
+   "grounds": "condition of parents"
   },
   {
-   "lemma": "pūjyāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "gerundive of pūj"
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
+  },
+  {
+   "lemma": "yajña",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "ādau",
+   "morph": "m.loc.sg",
+   "grounds": "includes similar rites"
+  },
+  {
+   "lemma": "śrāddha",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "vāsare",
+   "morph": "m.loc.sg",
+   "grounds": "ritual occasion"
   }
  ]
 }

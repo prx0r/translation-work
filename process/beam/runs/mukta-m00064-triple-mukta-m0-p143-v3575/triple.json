@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3575,
+   "rows": [
+    {
+     "surface": "lauhitya+pāyasi",
+     "gloss": "in-red-waters",
+     "grounds": "locative of compound lauhitya+pāyas referring to the waters of the Lauhitya",
+     "morph": "lauhitya+pāyas+loc.sg.nt"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive expressing a prior completed action",
+     "morph": "(gerund) snā"
+    },
+    {
+     "surface": "āruhya",
+     "gloss": "having-ascended",
+     "grounds": "absolutive expressing a subsequent completed action",
+     "morph": "(gerund) ā-ruh"
+    },
+    {
+     "surface": "vahni+parvatam",
+     "gloss": "fire-mountain",
+     "grounds": "accusative object of ascent; compound vahni+parvata",
+     "morph": "vahni+parvata+acc.sg.m"
+    }
+   ],
+   "question": "What ritual acts of bathing and ascent are required to reach the fire-mountain?",
+   "premises": [
+    "The practitioner bathes in the red waters of the Lauhitya.",
+    "After bathing, the practitioner ascends.",
+    "The destination of the ascent is the fire-mountain."
+   ],
+   "inference": "Reaching the fire-mountain requires first bathing in the Lauhitya waters and then ascending it.",
+   "uncertainties": [
+    "The precise identification of lauhitya+pāyas as a specific river or sacred water is not explicit in this verse."
+   ],
+   "plain_english": "Having bathed in the red waters of the Lauhitya, one should ascend the fire-mountain."
+  }
+ ]
+}

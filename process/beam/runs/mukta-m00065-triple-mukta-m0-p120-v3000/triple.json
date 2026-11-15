@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 3000,
+   "rows": [
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "ordinal adjective qualifying the following deity name in the sequence",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking items in the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "virūpākṣaṃ",
+     "gloss": "virūpākṣa",
+     "grounds": "name of a deity to be worshipped or installed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhrukuṭīśaṃ",
+     "gloss": "bhrukuṭīśa",
+     "grounds": "name of a deity to be worshipped or installed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daleṣu",
+     "gloss": "in-petals",
+     "grounds": "locative indicating placement within the petals of the lotus",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction continuing the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are assigned to the petals as the seventh and accompanying figures?",
+   "premises": [
+    "The term saptamaṃ marks a seventh item in the ongoing sequence.",
+    "Virūpākṣa and Bhrukuṭīśa are named as deities.",
+    "The location specified for them is daleṣu, the petals."
+   ],
+   "inference": "Virūpākṣa, as the seventh, and Bhrukuṭīśa are to be placed in the petals.",
+   "uncertainties": [
+    "The exact ritual action is carried over from the preceding verses' context of worship or installation."
+   ],
+   "plain_english": "And as the seventh, place Virūpākṣa, and also Bhrukuṭīśa, in the petals."
+  }
+ ]
+}

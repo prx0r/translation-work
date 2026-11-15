@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p79",
  "verse": 1965,
- "question": "What qualities characterize the forms famed in the northern transmission?",
+ "question": "In which daily ritual contexts are the stated observances applicable?",
  "premises": [
-  "Certain forms are famed in the northern transmission.",
-  "They are described as giving results quickly."
+  "Daily śrāddha and libation are mentioned",
+  "Daily worship of gods is mentioned",
+  "All are listed as ritual contexts"
  ],
- "inference": "The forms famed in the northern transmission grant results in a short time.",
- "uncertainties": [],
- "plain_english": "Those famed in the northern transmission give results quickly."
+ "inference": "The observances apply in daily śrāddha, libation, and daily worship of the gods.",
+ "uncertainties": [
+  "verse may continue a rule from adjacent verses"
+ ],
+ "plain_english": "In daily śrāddha, in libation, and in the daily worship of the gods."
 }

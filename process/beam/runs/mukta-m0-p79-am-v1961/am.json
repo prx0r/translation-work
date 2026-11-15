@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p79",
  "verse": 1961,
- "question": "Which Krishna-related mantra varieties are included in the prescribed enumeration?",
+ "question": "Which ancestors killed by weapons in battle are specially invoked for rites?",
  "premises": [
-  "Varieties of Shri Krishna mantras are named.",
-  "Forms called Dadhivamana are named."
+  "Ancestors are referred to as ours",
+  "Some died by weapon",
+  "Death occurred in battle"
  ],
- "inference": "Varieties of Shri Krishna mantras and those called Dadhivamana are included.",
- "uncertainties": [],
- "plain_english": "The varieties of Shri Krishna mantras and those called Dadhivamana are included."
+ "inference": "The verse invokes ancestors who were killed by weapons in battle.",
+ "uncertainties": [
+  "this verse functions as an invocation leading into subsequent instruction"
+ ],
+ "plain_english": "Even those of our fathers who died by the weapon in battle."
 }

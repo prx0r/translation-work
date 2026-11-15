@@ -1,0 +1,1173 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 1976,
+   "rows": [
+    {
+     "surface": "sapiṇḍīkaraṇaṃ",
+     "gloss": "sapiṇḍīkaraṇa-rite",
+     "grounds": "rite of uniting with ancestors; accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-exists",
+     "grounds": "negated existence",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvaṇam",
+     "gloss": "pārvaṇa-rite",
+     "grounds": "fortnightly ancestral rite; accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "prescribed or approved",
+     "morph": "3.sg.pass.pres √iṣ"
+    }
+   ],
+   "question": "Which ancestral rites are explicitly excluded as not required in this observance?",
+   "premises": [
+    "The sapiṇḍīkaraṇa rite does not exist in this context.",
+    "The pārvaṇa rite is not desired in this context."
+   ],
+   "inference": "Neither the sapiṇḍīkaraṇa nor the pārvaṇa ancestral rite is to be performed here.",
+   "uncertainties": [],
+   "plain_english": "There is no sapiṇḍīkaraṇa rite, and the pārvaṇa rite is not desired."
+  },
+  {
+   "verse": 1977,
+   "rows": [
+    {
+     "surface": "śuciṃ",
+     "gloss": "pure",
+     "grounds": "qualifies the place",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deśaṃ",
+     "gloss": "place",
+     "grounds": "location for ritual action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viviktañ",
+     "gloss": "secluded",
+     "grounds": "qualifies the place; final nasal shows sandhi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gomayena",
+     "gloss": "with-cow-dung",
+     "grounds": "instrument used for smearing",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "upalepayet",
+     "gloss": "one-should-smear",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √lip"
+    }
+   ],
+   "question": "How must the ritual place be prepared before the prescribed observance?",
+   "premises": [
+    "The place must be pure and secluded.",
+    "The place should be smeared with cow-dung."
+   ],
+   "inference": "One should prepare a pure, secluded place by smearing it with cow-dung.",
+   "uncertainties": [],
+   "plain_english": "One should smear a pure and secluded place with cow-dung."
+  },
+  {
+   "verse": 1978,
+   "rows": [
+    {
+     "surface": "śamanīya",
+     "gloss": "to-be-pacified",
+     "grounds": "qualifies the planetary condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "grahe",
+     "gloss": "in-planet",
+     "grounds": "astrological context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pāpa+āgāraṃ",
+     "gloss": "sin-abode",
+     "grounds": "compound: pāpa (sin) + āgāra (abode); place to be avoided",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "ritual prohibition",
+     "morph": "3.sg.opt.act √vṛj"
+    }
+   ],
+   "question": "What kind of place must be avoided when a planet requires pacification?",
+   "premises": [
+    "The context involves a planet to be pacified.",
+    "A place that is an abode of sin must be avoided."
+   ],
+   "inference": "When a planet is to be pacified, one should avoid a place that is an abode of sin.",
+   "uncertainties": [],
+   "plain_english": "O goddess, when a planet is to be pacified, one should avoid a place that is an abode of sin."
+  },
+  {
+   "verse": 1979,
+   "rows": [
+    {
+     "surface": "upaviṣṭeṣu",
+     "gloss": "when-seated",
+     "grounds": "describes participants already seated",
+     "morph": "m.loc.pl (past-passive-participle)"
+    },
+    {
+     "surface": "śrāddheṣu",
+     "gloss": "in-śrāddha-rites",
+     "grounds": "ritual occasions",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "kāma+bhṛt",
+     "gloss": "desire-granting",
+     "grounds": "compound: kāma (desire) + bhṛt (bearing/granting); object of worship",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "Who should be worshipped even when participants are seated in śrāddha rites?",
+   "premises": [
+    "Participants may already be seated in śrāddha rites.",
+    "The desire-granting one is still to be worshipped."
+   ],
+   "inference": "Even during seated śrāddha rites, one should worship the desire-granting one.",
+   "uncertainties": [
+    "The identity of the desire-granting one is not specified in this verse."
+   ],
+   "plain_english": "Even when people are seated in śrāddha rites, one should worship the desire-granting one."
+  },
+  {
+   "verse": 1980,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number of agents",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the fathers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pitaraḥ",
+     "gloss": "fathers",
+     "grounds": "ancestral beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ghnanti",
+     "gloss": "they-strike",
+     "grounds": "harmful action",
+     "morph": "3.pl.pres.act √han"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "person affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "aṅge",
+     "gloss": "in-body",
+     "grounds": "location of harm",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hetu+vistaram",
+     "gloss": "cause-expansion",
+     "grounds": "compound: hetu (cause) + vistara (expansion); object of striking in extended sense",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "What harmful consequence do these five fathers inflict upon a person’s body?",
+   "premises": [
+    "Five fathers are identified as agents.",
+    "They strike in the body of that person.",
+    "The object of their striking is described as a cause-expansion."
+   ],
+   "inference": "These five fathers strike that person’s body with an expansion of causes.",
+   "uncertainties": [
+    "The precise meaning of hetu+vistaram in this ritual context is unclear."
+   ],
+   "plain_english": "These five fathers strike his body with an expansion of causes."
+  },
+  {
+   "verse": 1981,
+   "rows": [
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "repetition or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+santuṣṭyai",
+     "gloss": "for-god-satisfaction",
+     "grounds": "compound: deva (god) + santuṣṭi (satisfaction); purpose",
+     "morph": "f.dat.sg (compound)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "obligation or prescribed action",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "actual performance of the action",
+     "morph": "3.sg.pres.act √kṛ"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What action may be done again for the satisfaction of the gods?",
+   "premises": [
+    "An action may be done again for the satisfaction of the gods.",
+    "The verse refers to one who does that action."
+   ],
+   "inference": "That which is to be done again for the satisfaction of the gods is what such a person does.",
+   "uncertainties": [
+    "The specific action referred to by tat is not named in this verse."
+   ],
+   "plain_english": "Or again, that which is to be done for the satisfaction of the gods is what one does."
+  },
+  {
+   "verse": 1982,
+   "rows": [
+    {
+     "surface": "vaiśvadevasya",
+     "gloss": "of-vaiśvadeva",
+     "grounds": "ritual offering to all gods",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārambhe",
+     "gloss": "at-beginning",
+     "grounds": "time of commencement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to śrāddha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrāddhañ",
+     "gloss": "śrāddha",
+     "grounds": "ancestral rite; final nasal shows sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "ritual prohibition",
+     "morph": "3.sg.opt.act √vṛj"
+    }
+   ],
+   "question": "What ritual must be avoided at the beginning of the vaiśvadeva offering?",
+   "premises": [
+    "The context is the beginning of the vaiśvadeva.",
+    "That śrāddha must be avoided."
+   ],
+   "inference": "One should avoid performing that śrāddha at the beginning of the vaiśvadeva.",
+   "uncertainties": [],
+   "plain_english": "And at the beginning of the vaiśvadeva, one should avoid that śrāddha."
+  },
+  {
+   "verse": 1983,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "states availability or presence",
+     "morph": "3.sg.pass.pres √vid"
+    },
+    {
+     "surface": "śyāma+pakṣe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "compound: śyāma (dark) + pakṣa (fortnight); time period",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "ritual prohibition",
+     "morph": "3.sg.opt.act √vṛj"
+    }
+   ],
+   "question": "What bathing practice is prohibited during the dark fortnight in this context?",
+   "premises": [
+    "The context concerns the dark fortnight.",
+    "Bathing there is to be avoided."
+   ],
+   "inference": "One should avoid bathing in the dark fortnight in that context.",
+   "uncertainties": [
+    "The first clause 'na vidyate' is syntactically compressed and its exact relation to the prohibition is unclear."
+   ],
+   "plain_english": "In the dark fortnight it is not present; there one should avoid bathing."
+  },
+  {
+   "verse": 1984,
+   "rows": [
+    {
+     "surface": "cakra+tīrthe",
+     "gloss": "at-cakra-tīrtha",
+     "grounds": "compound: cakra (wheel/discus) + tīrtha (sacred ford); place name",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "a-person",
+     "grounds": "human agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior action",
+     "morph": "(absolutive) √snā"
+    },
+    {
+     "surface": "sarva+pāpāt",
+     "gloss": "from-all-sin",
+     "grounds": "compound: sarva (all) + pāpa (sin); source of liberation",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "vimucyate",
+     "gloss": "is-liberated",
+     "grounds": "result of bathing",
+     "morph": "3.sg.pass.pres √muc"
+    }
+   ],
+   "question": "What spiritual result follows from bathing at the sacred site called Cakra-tīrtha?",
+   "premises": [
+    "A person bathes at Cakra-tīrtha.",
+    "Bathing there leads to liberation from all sin."
+   ],
+   "inference": "A person who bathes at Cakra-tīrtha is liberated from all sin.",
+   "uncertainties": [],
+   "plain_english": "A person who bathes at Cakra-tīrtha is freed from all sin."
+  },
+  {
+   "verse": 1985,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the previously mentioned place",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paścima+dig+bhāge",
+     "gloss": "in-western-direction-part",
+     "grounds": "compound: paścima (western) + diś (direction) + bhāga (part); location",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "pāṇḍunābhaḥ",
+     "gloss": "Pāṇḍunābha",
+     "grounds": "proper name of a figure or place-marker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā+valī",
+     "gloss": "greatly-powerful",
+     "grounds": "compound: mahā (great) + valin (powerful); epithet",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "Who is located in the western part of that previously mentioned sacred place?",
+   "premises": [
+    "The verse refers to the western part of that place.",
+    "Pāṇḍunābha, who is greatly powerful, is there."
+   ],
+   "inference": "In the western part of that place is the greatly powerful Pāṇḍunābha.",
+   "uncertainties": [
+    "Whether Pāṇḍunābha is a deity, person, or landmark is not explicit."
+   ],
+   "plain_english": "In its western part is the greatly powerful Pāṇḍunābha."
+  },
+  {
+   "verse": 1986,
+   "rows": [
+    {
+     "surface": "brahma+kuṇḍam",
+     "gloss": "Brahma-pool",
+     "grounds": "compound: brahma (Brahma) + kuṇḍa (pool); sacred site name",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or naming marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "famed or designated",
+     "morph": "n.nom.sg (past-passive-participle)"
+    },
+    {
+     "surface": "sarva+pāpa+praṇāśanam",
+     "gloss": "all-sin-destroying",
+     "grounds": "compound: sarva (all) + pāpa (sin) + praṇāśana (destroying); epithet",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What sacred pool is renowned as the destroyer of all sins?",
+   "premises": [
+    "A place is known as Brahma-kuṇḍa.",
+    "That place destroys all sins."
+   ],
+   "inference": "The place known as Brahma-kuṇḍa is renowned as the destroyer of all sins.",
+   "uncertainties": [],
+   "plain_english": "It is known as Brahma-kuṇḍa, the destroyer of all sins."
+  },
+  {
+   "verse": 1987,
+   "rows": [
+    {
+     "surface": "brahma+kuṇḍe",
+     "gloss": "in-Brahma-pool",
+     "grounds": "compound: brahma (Brahma) + kuṇḍa (pool); location",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "a-person",
+     "grounds": "human agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior action",
+     "morph": "(absolutive) √snā"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "success",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "obtains",
+     "grounds": "result of bathing",
+     "morph": "3.sg.pres.act √vid"
+    },
+    {
+     "surface": "tat+kṣaṇāt",
+     "gloss": "from-that-moment",
+     "grounds": "compound: tad (that) + kṣaṇa (moment); immediate time",
+     "morph": "m.abl.sg (compound)"
+    }
+   ],
+   "question": "What immediate benefit does a person gain by bathing in Brahma-kuṇḍa?",
+   "premises": [
+    "A person bathes in Brahma-kuṇḍa.",
+    "That person obtains success from that very moment."
+   ],
+   "inference": "Bathing in Brahma-kuṇḍa grants a person immediate success.",
+   "uncertainties": [],
+   "plain_english": "A person who bathes in Brahma-kuṇḍa obtains success at that very moment."
+  },
+  {
+   "verse": 1988,
+   "rows": [
+    {
+     "surface": "snāna+artham",
+     "gloss": "for-bathing-purpose",
+     "grounds": "compound: snāna (bathing) + artha (purpose); goal of movement",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "sampradhāvanti",
+     "gloss": "rush-forth",
+     "grounds": "eager movement toward the site",
+     "morph": "3.pl.pres.act √dhāv"
+    },
+    {
+     "surface": "tat+tīrthaṃ",
+     "gloss": "to-that-tīrtha",
+     "grounds": "compound: tad (that) + tīrtha (sacred ford); destination",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "deva+dānavāḥ",
+     "gloss": "gods-and-demons",
+     "grounds": "compound: deva (god) + dānava (demon); divine and anti-divine beings",
+     "morph": "m.nom.pl (compound)"
+    }
+   ],
+   "question": "Which beings rush to that sacred ford for the purpose of bathing?",
+   "premises": [
+    "Beings rush forth for the purpose of bathing.",
+    "The destination is that tīrtha.",
+    "The beings are gods and demons."
+   ],
+   "inference": "Gods and demons rush to that tīrtha for bathing.",
+   "uncertainties": [],
+   "plain_english": "Gods and demons rush to that tīrtha for the purpose of bathing."
+  },
+  {
+   "verse": 1989,
+   "rows": [
+    {
+     "surface": "māhātmyam",
+     "gloss": "glory",
+     "grounds": "greatness or sacred power",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "term of uncertain meaning in this context",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "-muttamamaṃ",
+     "gloss": "supreme",
+     "grounds": "superlative epithet; prefixed hyphen as given in token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to Brahma-kuṇḍa",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "brahma+kuṇḍasya",
+     "gloss": "of-Brahma-pool",
+     "grounds": "compound: brahma (Brahma) + kuṇḍa (pool); sacred site",
+     "morph": "n.gen.sg (compound)"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "O-beautiful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What supreme greatness is attributed to Brahma-kuṇḍa in this address?",
+   "premises": [
+    "The verse speaks of the glory of Brahma-kuṇḍa.",
+    "That glory is described as supreme."
+   ],
+   "inference": "Brahma-kuṇḍa possesses a supreme glory.",
+   "uncertainties": [
+    "The token 'aṇḍalaṃ' and the prefixed form '-muttamamaṃ' are unclear in meaning and relation."
+   ],
+   "plain_english": "O beautiful one, the glory of that Brahma-kuṇḍa is supreme."
+  },
+  {
+   "verse": 1990,
+   "rows": [
+    {
+     "surface": "maṇi+kāñcana+ratnāni",
+     "gloss": "gems-gold-jewels",
+     "grounds": "compound: maṇi (gem) + kāñcana (gold) + ratna (jewel); valuable offerings",
+     "morph": "n.acc.pl (compound)"
+    },
+    {
+     "surface": "yathā+vibhavam",
+     "gloss": "according-to-wealth",
+     "grounds": "compound: yathā (according to) + vibhava (wealth); measure of giving",
+     "morph": "(indecl.) (compound)"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-oneself",
+     "grounds": "refers to one's own capacity",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "According to what measure should one offer gems, gold, and jewels?",
+   "premises": [
+    "Gems, gold, and jewels are mentioned as offerings.",
+    "The measure is according to one's own wealth."
+   ],
+   "inference": "One should offer gems, gold, and jewels according to one's own wealth.",
+   "uncertainties": [
+    "The main verb governing these objects is not present in this verse."
+   ],
+   "plain_english": "Gems, gold, and jewels, according to one's own wealth."
+  },
+  {
+   "verse": 1991,
+   "rows": [
+    {
+     "surface": "pacyate",
+     "gloss": "is-cooked",
+     "grounds": "suffers torment",
+     "morph": "3.sg.pass.pres √pac"
+    },
+    {
+     "surface": "narake",
+     "gloss": "in-hell",
+     "grounds": "place of punishment",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ghore",
+     "gloss": "terrible",
+     "grounds": "qualifies hell",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "duration marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indrāḥ",
+     "gloss": "Indras",
+     "grounds": "cosmic time measure by reigns of Indra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteen",
+     "grounds": "number of Indras",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How long does one suffer torment in terrible hell according to this warning?",
+   "premises": [
+    "One is cooked in terrible hell.",
+    "The duration lasts as long as fourteen Indras."
+   ],
+   "inference": "The torment in terrible hell lasts for the duration of fourteen Indras.",
+   "uncertainties": [
+    "The subject who suffers this fate is not stated in this verse."
+   ],
+   "plain_english": "One is tormented in terrible hell for as long as fourteen Indras endure."
+  },
+  {
+   "verse": 1992,
+   "rows": [
+    {
+     "surface": "tīrtha+rāja+saraḥ",
+     "gloss": "tīrtha-king-lake",
+     "grounds": "compound: tīrtha (sacred ford) + rāja (king) + saras (lake); sacred lake name",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "sacred",
+     "grounds": "meritorious and holy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+tīrtha+phala+pradam",
+     "gloss": "all-tīrthas-fruit-giving",
+     "grounds": "compound: sarva (all) + tīrtha (sacred ford) + phala (fruit) + prada (giving); epithet",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What sacred quality is attributed to the lake called Tīrtha-rāja?",
+   "premises": [
+    "Tīrtha-rāja is a sacred lake.",
+    "It gives the fruit of all tīrthas."
+   ],
+   "inference": "The sacred lake Tīrtha-rāja bestows the merit of all tīrthas.",
+   "uncertainties": [],
+   "plain_english": "The sacred lake Tīrtha-rāja gives the fruit of all tīrthas."
+  },
+  {
+   "verse": 1993,
+   "rows": [
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "movement into a place",
+     "morph": "3.pl.pres.act √viś"
+    },
+    {
+     "surface": "sarva+tīrthāni",
+     "gloss": "all-tīrthas",
+     "grounds": "compound: sarva (all) + tīrtha (sacred ford); all sacred sites",
+     "morph": "n.nom.pl (compound)"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "demonstrative referring to the tīrthas",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "emphasizes totality",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tīrtha+rāje",
+     "gloss": "in-tīrtha-king",
+     "grounds": "compound: tīrtha (sacred ford) + rāja (king); location",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "suniścitam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty",
+     "morph": "n.nom.sg (past-passive-participle)"
+    }
+   ],
+   "question": "What is the certain relationship between all tīrthas and Tīrtha-rāja?",
+   "premises": [
+    "All tīrthas enter into Tīrtha-rāja.",
+    "This is stated as certain."
+   ],
+   "inference": "All tīrthas are certainly contained within Tīrtha-rāja.",
+   "uncertainties": [],
+   "plain_english": "All those tīrthas certainly enter into Tīrtha-rāja."
+  },
+  {
+   "verse": 1994,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws conclusion from previous statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner or accordingly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samasta+tīrtheṣu",
+     "gloss": "among-all-tīrthas",
+     "grounds": "compound: samasta (all) + tīrtha (sacred ford); comparison set",
+     "morph": "n.loc.pl (compound)"
+    },
+    {
+     "surface": "śreṣṭhaḥ",
+     "gloss": "best",
+     "grounds": "highest in rank",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this",
+     "grounds": "demonstrative referring to Tīrtha-rāja",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva+kāma+daḥ",
+     "gloss": "all-desires-granting",
+     "grounds": "compound: sarva (all) + kāma (desire) + da (giving); epithet",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "Why is this sacred site considered the best among all tīrthas?",
+   "premises": [
+    "This site is compared among all tīrthas.",
+    "It is the best and grants all desires."
+   ],
+   "inference": "Therefore this site is the best among all tīrthas because it grants all desires.",
+   "uncertainties": [],
+   "plain_english": "Therefore, among all tīrthas, this one is the best and grants all desires."
+  },
+  {
+   "verse": 1995,
+   "rows": [
+    {
+     "surface": "snānena",
+     "gloss": "by-bathing",
+     "grounds": "instrumental means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tīrtha+rājasya",
+     "gloss": "of-tīrtha-king",
+     "grounds": "compound: tīrtha (sacred ford) + rāja (king); sacred site",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+agha+saṃkṣayaḥ",
+     "gloss": "all-sins-destruction",
+     "grounds": "compound: sarva (all) + agha (sin) + saṃkṣaya (destruction); result",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What result is produced by bathing in the sacred site called Tīrtha-rāja?",
+   "premises": [
+    "Bathing in Tīrtha-rāja is performed.",
+    "The result is the destruction of all sins."
+   ],
+   "inference": "Bathing in Tīrtha-rāja brings about the destruction of all sins.",
+   "uncertainties": [],
+   "plain_english": "By bathing in Tīrtha-rāja, there is likewise the destruction of all sins."
+  },
+  {
+   "verse": 1996,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānaṃ",
+     "gloss": "abode",
+     "grounds": "dwelling place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "perpetual presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhoḥ",
+     "gloss": "of-lord",
+     "grounds": "refers to the deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nārāyaṇasya",
+     "gloss": "of-Nārāyaṇa",
+     "grounds": "name of the lord",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose perpetual abode is said to be present at that sacred location?",
+   "premises": [
+    "The place is described as an abode.",
+    "It is always the abode of Lord Nārāyaṇa."
+   ],
+   "inference": "That place is always the abode of Lord Nārāyaṇa.",
+   "uncertainties": [],
+   "plain_english": "Where indeed is always the abode of Lord Nārāyaṇa."
+  },
+  {
+   "verse": 1997,
+   "rows": [
+    {
+     "surface": "tisraḥ",
+     "gloss": "three",
+     "grounds": "part of a large number",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "navatyaḥ",
+     "gloss": "ninety",
+     "grounds": "part of a large number",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "navatāyutāni",
+     "gloss": "ninety-ten-thousands",
+     "grounds": "compound numeral expression",
+     "morph": "n.nom.pl (compound)"
+    },
+    {
+     "surface": "koṭyaḥ",
+     "gloss": "crores",
+     "grounds": "large numerical unit",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthāni",
+     "gloss": "tīrthas",
+     "grounds": "sacred sites",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "santi",
+     "gloss": "are",
+     "grounds": "existence",
+     "morph": "3.pl.pres.act √as"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many tīrthas are said to be present at that sacred location?",
+   "premises": [
+    "The verse states a vast number of tīrthas.",
+    "These tīrthas are present at that place."
+   ],
+   "inference": "An immense number of tīrthas are indeed present at that location.",
+   "uncertainties": [
+    "The exact numerical value of the compound expression is difficult to compute precisely."
+   ],
+   "plain_english": "Where indeed there are three, ninety, ninety ten-thousands, and crores of tīrthas."
+  },
+  {
+   "verse": 1998,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun introducing any act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "anything",
+     "grounds": "indefinite addition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "performed action",
+     "morph": "3.sg.pass.pres √kṛ"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "meritorious deed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣayaṃ",
+     "gloss": "imperishable",
+     "grounds": "never diminishing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What becomes of any meritorious act performed at that sacred place?",
+   "premises": [
+    "Any meritorious act may be performed there.",
+    "Such merit becomes imperishable."
+   ],
+   "inference": "Whatever merit is performed there becomes imperishable.",
+   "uncertainties": [],
+   "plain_english": "O beloved, whatever merit is performed there becomes imperishable."
+  },
+  {
+   "verse": 1999,
+   "rows": [
+    {
+     "surface": "tri+janmanaḥ",
+     "gloss": "of-three-births",
+     "grounds": "compound: tri (three) + janman (birth); relating to three births",
+     "morph": "n.gen.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trijanyajañ",
+     "gloss": "born-of-three-births",
+     "grounds": "form as given; appears to refer to what is born across three births",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "transgression or demerit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hara",
+     "gloss": "remove",
+     "grounds": "imperative request to remove sin",
+     "morph": "2.sg.imp.act √hṛ"
+    },
+    {
+     "surface": "lauhitya",
+     "gloss": "O-Lauhitya",
+     "grounds": "vocative address to the river or deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "perpetual removal",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What plea is made to Lauhitya regarding sins accumulated over three births?",
+   "premises": [
+    "Sin connected with three births is acknowledged.",
+    "Lauhitya is asked to remove that sin always."
+   ],
+   "inference": "The verse petitions Lauhitya to always remove sin accumulated over three births.",
+   "uncertainties": [
+    "The exact form and meaning of 'trijanyajañ' is unclear."
+   ],
+   "plain_english": "O Lauhitya, always remove whatever sin there is of three births and born of three births."
+  }
+ ]
+}

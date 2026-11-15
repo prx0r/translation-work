@@ -3,39 +3,34 @@
  "verse": 1951,
  "rows": [
   {
-   "lemma": "bhavānī",
-   "morph": "f.nom.sg",
-   "grounds": "name of goddess"
+   "lemma": "divya",
+   "morph": "compound-member",
+   "grounds": "qualifies pādapa"
   },
   {
-   "lemma": "vāyukoṇe",
-   "morph": "m.loc.sg",
-   "grounds": "compound: vāyu+koṇa; locative of direction"
+   "lemma": "pādapa",
+   "morph": "compound-member",
+   "grounds": "first member of locative compound"
   },
   {
-   "lemma": "tu",
+   "lemma": "mūleṣu",
+   "morph": "m.loc.pl",
+   "grounds": "location for ritual acts"
+  },
+  {
+   "lemma": "tulasī",
+   "morph": "compound-member",
+   "grounds": "sacred plant location"
+  },
+  {
+   "lemma": "madhyageṣu",
+   "morph": "m.loc.pl",
+   "grounds": "location among tulasī plants"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "particle"
-  },
-  {
-   "lemma": "śyāmā",
-   "morph": "f.nom.sg",
-   "grounds": "name of goddess"
-  },
-  {
-   "lemma": "tārā",
-   "morph": "f.nom.sg",
-   "grounds": "name of goddess"
-  },
-  {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "particle"
-  },
-  {
-   "lemma": "tatpare",
-   "morph": "n.loc.sg",
-   "grounds": "compound: tad+para; locative of following position"
+   "grounds": "connects locations"
   }
  ]
 }

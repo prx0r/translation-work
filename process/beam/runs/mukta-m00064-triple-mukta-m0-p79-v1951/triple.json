@@ -1,0 +1,1301 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1951,
+   "rows": [
+    {
+     "surface": "divya",
+     "gloss": "divine",
+     "grounds": "qualifies pādapa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pādapa",
+     "gloss": "tree",
+     "grounds": "first member of locative compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūleṣu",
+     "gloss": "at-roots",
+     "grounds": "location for ritual acts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tulasī",
+     "gloss": "tulasī",
+     "grounds": "sacred plant location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhyageṣu",
+     "gloss": "in-middle-places",
+     "grounds": "location among tulasī plants",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred tree and plant locations are suitable for prescribed rites?",
+   "premises": [
+    "Divine tree roots are specified locations",
+    "Middle places among tulasī are specified",
+    "Both locations are included together"
+   ],
+   "inference": "Rites may be performed at roots of divine trees and among tulasī plants.",
+   "uncertainties": [],
+   "plain_english": "At the roots of divine trees and in the midst of tulasī plants."
+  },
+  {
+   "verse": 1952,
+   "rows": [
+    {
+     "surface": "virajasya",
+     "gloss": "of-virajā",
+     "grounds": "river name",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "on-northern",
+     "grounds": "bank location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tīre",
+     "gloss": "bank",
+     "grounds": "place by river",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lauhityasya",
+     "gloss": "of-lauhitya",
+     "grounds": "river name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects river locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-southern",
+     "grounds": "bank location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which river banks are designated as appropriate ritual locations?",
+   "premises": [
+    "Northern bank of Virajā is specified",
+    "Southern bank of Lauhitya is specified",
+    "Both river banks are included"
+   ],
+   "inference": "The northern bank of the Virajā and southern bank of the Lauhitya are suitable locations.",
+   "uncertainties": [],
+   "plain_english": "On the northern bank of the Virajā and on the southern bank of the Lauhitya."
+  },
+  {
+   "verse": 1953,
+   "rows": [
+    {
+     "surface": "pūrveṣu",
+     "gloss": "in-eastern-regions",
+     "grounds": "location relative to river",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "karatoyāyā",
+     "gloss": "of-karatoyā",
+     "grounds": "river name",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates permissibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "prescribes offering",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "śrāddham",
+     "gloss": "śrāddha-offering",
+     "grounds": "ancestral rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "scriptural declaration",
+     "morph": "3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "Is performing śrāddha in regions east of the Karatoyā river permitted?",
+   "premises": [
+    "Eastern regions of Karatoyā are specified",
+    "Śrāddha is the act in question",
+    "Scripture states it should not be given there"
+   ],
+   "inference": "Śrāddha must not be performed in the regions east of the Karatoyā.",
+   "uncertainties": [],
+   "plain_english": "It is said that śrāddha should not be offered in the regions east of the Karatoyā."
+  },
+  {
+   "verse": 1954,
+   "rows": [
+    {
+     "surface": "paurṇamāsīṣu",
+     "gloss": "on-full-moon-days",
+     "grounds": "ritual timing",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "śrāddham",
+     "gloss": "śrāddha-offering",
+     "grounds": "ancestral rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-performed",
+     "grounds": "prescriptive obligation",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "akṣagocare",
+     "gloss": "within-sight-of-akṣa",
+     "grounds": "location condition; akṣa may be a place or marker",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "When and where must śrāddha be performed on full-moon days?",
+   "premises": [
+    "Full-moon days are specified times",
+    "Śrāddha is prescribed as obligatory",
+    "Performance must occur within sight of akṣa"
+   ],
+   "inference": "Śrāddha should be performed on full-moon days within sight of the akṣa.",
+   "uncertainties": [
+    "akṣagocare may refer to a specific place or visible marker"
+   ],
+   "plain_english": "And śrāddha should be performed on full-moon days within sight of the akṣa."
+  },
+  {
+   "verse": 1955,
+   "rows": [
+    {
+     "surface": "naimittikaṃ",
+     "gloss": "occasional",
+     "grounds": "type of rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suraiḥ",
+     "gloss": "with-gods",
+     "grounds": "participants in rite",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "type of rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naimittikaṃ",
+     "gloss": "occasional",
+     "grounds": "repeated type of rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which categories of śrāddha rites are to be observed together with the gods?",
+   "premises": [
+    "Occasional rites are mentioned",
+    "Daily and occasional rites are mentioned again",
+    "These are performed together with gods"
+   ],
+   "inference": "Occasional, daily, and likewise occasional rites should be performed together with the gods.",
+   "uncertainties": [
+    "syntactic relation between repeated naimittikaṃ and nityaṃ is compressed"
+   ],
+   "plain_english": "The occasional rite together with the gods, and likewise the daily and occasional rites."
+  },
+  {
+   "verse": 1956,
+   "rows": [
+    {
+     "surface": "vṛddhi",
+     "gloss": "prosperity",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "śrāddha-offering",
+     "grounds": "ancestral rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-performed",
+     "grounds": "prescriptive obligation",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "context of rite",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akarma",
+     "gloss": "non-action",
+     "grounds": "context of rite",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikeṣu",
+     "gloss": "and-so-forth",
+     "grounds": "includes similar contexts",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds contexts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which ritual contexts must the prosperity śrāddha be performed?",
+   "premises": [
+    "Prosperity śrāddha is specified",
+    "It is prescribed as obligatory",
+    "Contexts include action, non-action, and others"
+   ],
+   "inference": "The prosperity śrāddha must be performed in contexts of action, non-action, and so forth.",
+   "uncertainties": [
+    "karma-akarma-ādikeṣu may refer to specific ritual classifications"
+   ],
+   "plain_english": "And the prosperity śrāddha should be performed in contexts of action, non-action, and so forth."
+  },
+  {
+   "verse": 1957,
+   "rows": [
+    {
+     "surface": "kanyā",
+     "gloss": "virgo",
+     "grounds": "zodiacal sign",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gate",
+     "gloss": "gone",
+     "grounds": "sun's position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "savitari",
+     "gloss": "sun",
+     "grounds": "celestial body",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dināni",
+     "gloss": "days",
+     "grounds": "duration",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds numbers",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What duration is specified when the sun enters the sign of Virgo?",
+   "premises": [
+    "The sun entering Virgo is the condition",
+    "A period of days is specified",
+    "The count is ten and five days"
+   ],
+   "inference": "A period of fifteen days is specified when the sun is in Virgo.",
+   "uncertainties": [],
+   "plain_english": "When the sun has entered Virgo, for fifteen days."
+  },
+  {
+   "verse": 1958,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "subject of giving",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "act of offering",
+     "morph": "3.sg.act.pres √dā"
+    },
+    {
+     "surface": "guḍaiḥ",
+     "gloss": "with-jaggery",
+     "grounds": "mixed offering material",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "miśrān",
+     "gloss": "mixed",
+     "grounds": "describes sesame seeds",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tilān",
+     "gloss": "sesame-seeds",
+     "grounds": "offering material",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrāddha",
+     "gloss": "śrāddha",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-rite",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What offering during the śrāddha rite is described as meritorious?",
+   "premises": [
+    "A person gives an offering",
+    "Sesame seeds mixed with jaggery are offered",
+    "The offering occurs in the śrāddha rite"
+   ],
+   "inference": "Giving sesame seeds mixed with jaggery in the śrāddha rite is prescribed.",
+   "uncertainties": [],
+   "plain_english": "Whoever gives sesame seeds mixed with jaggery in the śrāddha rite."
+  },
+  {
+   "verse": 1959,
+   "rows": [
+    {
+     "surface": "kṛttikāsu",
+     "gloss": "under-kṛttikā",
+     "grounds": "lunar mansion timing",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "pitṝn",
+     "gloss": "ancestors",
+     "grounds": "objects of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "arcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktim",
+     "gloss": "liberation",
+     "grounds": "result attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "attainment of result",
+     "morph": "3.sg.act.pres √āp"
+    },
+    {
+     "surface": "mānavaḥ",
+     "gloss": "human",
+     "grounds": "performer",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What spiritual result follows from worshipping ancestors under the Kṛttikā constellation?",
+   "premises": [
+    "Ancestors are worshipped under Kṛttikā",
+    "A human performs this worship",
+    "Liberation is obtained as result"
+   ],
+   "inference": "A person who worships the ancestors under Kṛttikā obtains liberation.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the ancestors under Kṛttikā, a human being obtains liberation."
+  },
+  {
+   "verse": 1960,
+   "rows": [
+    {
+     "surface": "madhāsu",
+     "gloss": "under-maghā",
+     "grounds": "lunar mansion timing",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects results",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajāṃ",
+     "gloss": "offspring",
+     "grounds": "result attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "puṣṭiṃ",
+     "gloss": "prosperity",
+     "grounds": "result attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saubhāgyaṃ",
+     "gloss": "good-fortune",
+     "grounds": "result attained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phālgunīṣu",
+     "gloss": "under-phālgunī",
+     "grounds": "lunar mansion timing",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects timings",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What benefits arise from ancestral rites under Maghā and Phālgunī constellations?",
+   "premises": [
+    "Rites under Maghā yield offspring and prosperity",
+    "Rites under Phālgunī yield good fortune",
+    "Both timings are specified"
+   ],
+   "inference": "Worship under Maghā brings offspring and prosperity, and under Phālgunī brings good fortune.",
+   "uncertainties": [
+    "exact distribution of results across the two timings is implied"
+   ],
+   "plain_english": "Under Maghā one obtains offspring and prosperity, and under Phālgunī good fortune."
+  },
+  {
+   "verse": 1961,
+   "rows": [
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "our",
+     "grounds": "possessive",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "pitaro",
+     "gloss": "fathers",
+     "grounds": "ancestors",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative reference",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "mṛtāḥ",
+     "gloss": "dead",
+     "grounds": "state of ancestors",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śastreṇa",
+     "gloss": "by-weapon",
+     "grounds": "cause of death",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects circumstances",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhave",
+     "gloss": "in-battle",
+     "grounds": "place of death",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which ancestors killed by weapons in battle are specially invoked for rites?",
+   "premises": [
+    "Ancestors are referred to as ours",
+    "Some died by weapon",
+    "Death occurred in battle"
+   ],
+   "inference": "The verse invokes ancestors who were killed by weapons in battle.",
+   "uncertainties": [
+    "this verse functions as an invocation leading into subsequent instruction"
+   ],
+   "plain_english": "Even those of our fathers who died by the weapon in battle."
+  },
+  {
+   "verse": 1962,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśa",
+     "gloss": "fifteen",
+     "grounds": "duration or count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "śrāddha-offering",
+     "grounds": "ancestral rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-performed",
+     "grounds": "prescriptive obligation",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "kāmya",
+     "gloss": "desire-driven",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāvataḥ",
+     "gloss": "from-state",
+     "grounds": "motivation for rite",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Under what motivated condition must a fifteen-day śrāddha be performed?",
+   "premises": [
+    "A fifteen-day śrāddha is specified",
+    "Performance is prescribed as obligatory",
+    "It arises from a desire-driven state"
+   ],
+   "inference": "When motivated by desire, a fifteen-day śrāddha should be performed.",
+   "uncertainties": [
+    "pañcadaśa may qualify days or the rite itself"
+   ],
+   "plain_english": "When, out of a desire-driven intention, the fifteen-day śrāddha is to be performed."
+  },
+  {
+   "verse": 1963,
+   "rows": [
+    {
+     "surface": "daśamyā",
+     "gloss": "from-tenth",
+     "grounds": "starting lunar day",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "ādikam",
+     "gloss": "beginning-with",
+     "grounds": "inclusive starting point",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "initiating action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamyā",
+     "gloss": "from-fifth",
+     "grounds": "alternative starting lunar day",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "ādikam",
+     "gloss": "beginning-with",
+     "grounds": "inclusive starting point",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects alternatives",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which lunar days may the prescribed śrāddha period begin?",
+   "premises": [
+    "Beginning from the tenth day is specified",
+    "Beginning from the fifth day is specified",
+    "Both are presented as valid starting points"
+   ],
+   "inference": "The śrāddha period may begin from the tenth day or indeed from the fifth day.",
+   "uncertainties": [],
+   "plain_english": "Beginning from the tenth day, or indeed beginning from the fifth day."
+  },
+  {
+   "verse": 1964,
+   "rows": [
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "śrāddha-offering",
+     "grounds": "ancestral rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "amāvasyāṃ",
+     "gloss": "on-new-moon",
+     "grounds": "ritual timing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "māsi",
+     "gloss": "in-month",
+     "grounds": "repeated for distributive sense",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māsi",
+     "gloss": "in-month",
+     "grounds": "repeated for distributive sense",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "sometimes",
+     "grounds": "occasional application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How frequently should śrāddha be performed on the new-moon day?",
+   "premises": [
+    "Śrāddha performance is prescribed",
+    "The new-moon day is specified",
+    "Month after month repetition is indicated"
+   ],
+   "inference": "One should perform śrāddha on the new-moon day, month after month, at times.",
+   "uncertainties": [
+    "kvacit may qualify frequency or specific occasions"
+   ],
+   "plain_english": "One should perform śrāddha on the new-moon day, month after month, at certain times."
+  },
+  {
+   "verse": 1965,
+   "rows": [
+    {
+     "surface": "nitya",
+     "gloss": "daily",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śrāddhe",
+     "gloss": "in-śrāddha",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tarpaṇe",
+     "gloss": "in-libation",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sura",
+     "gloss": "god",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arcā",
+     "gloss": "worship",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nitya",
+     "gloss": "daily",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjane",
+     "gloss": "in-worship",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which daily ritual contexts are the stated observances applicable?",
+   "premises": [
+    "Daily śrāddha and libation are mentioned",
+    "Daily worship of gods is mentioned",
+    "All are listed as ritual contexts"
+   ],
+   "inference": "The observances apply in daily śrāddha, libation, and daily worship of the gods.",
+   "uncertainties": [
+    "verse may continue a rule from adjacent verses"
+   ],
+   "plain_english": "In daily śrāddha, in libation, and in the daily worship of the gods."
+  },
+  {
+   "verse": 1966,
+   "rows": [
+    {
+     "surface": "śrāddha",
+     "gloss": "śrāddha",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aśaktau",
+     "gloss": "in-inability",
+     "grounds": "condition of incapacity",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pretapakṣe",
+     "gloss": "in-ancestors-fortnight",
+     "grounds": "ritual period",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brāhmaṇas",
+     "grounds": "recipients of feeding",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "one-should-feed",
+     "grounds": "substitute injunction",
+     "morph": "3.sg.act.opt √bhuj-caus"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What substitute action is prescribed when one cannot perform śrāddha during the ancestors' fortnight?",
+   "premises": [
+    "Inability to perform śrāddha is the condition",
+    "The time is the ancestors' fortnight",
+    "Feeding brāhmaṇas is prescribed"
+   ],
+   "inference": "If unable to perform śrāddha in the ancestors' fortnight, one should feed brāhmaṇas.",
+   "uncertainties": [],
+   "plain_english": "O beloved, if unable to perform śrāddha during the fortnight of the ancestors, one should feed brāhmaṇas."
+  },
+  {
+   "verse": 1967,
+   "rows": [
+    {
+     "surface": "pitroḥ",
+     "gloss": "of-parents",
+     "grounds": "parents as subjects",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvatoḥ",
+     "gloss": "while-living",
+     "grounds": "condition of parents",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yajña",
+     "gloss": "sacrifice",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "and-so-forth",
+     "grounds": "includes similar rites",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrāddha",
+     "gloss": "śrāddha",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāsare",
+     "gloss": "on-day",
+     "grounds": "ritual occasion",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What ritual restriction applies while both parents are still living?",
+   "premises": [
+    "Both parents are living",
+    "Sacrifices and similar rites are contexts",
+    "The śrāddha day is specified"
+   ],
+   "inference": "While both parents live, special conditions apply on sacrifice occasions and śrāddha days.",
+   "uncertainties": [
+    "the consequence is stated in the following verse"
+   ],
+   "plain_english": "O goddess, while both parents are living, on occasions of sacrifice and so forth, and on the day of śrāddha."
+  },
+  {
+   "verse": 1968,
+   "rows": [
+    {
+     "surface": "abhojite",
+     "gloss": "unfed",
+     "grounds": "condition of parents not fed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hato",
+     "gloss": "destroyed",
+     "grounds": "result for sacrifice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajñaḥ",
+     "gloss": "sacrifice",
+     "grounds": "ritual act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrāddham",
+     "gloss": "śrāddha-offering",
+     "grounds": "ancestral rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hataṃ",
+     "gloss": "destroyed",
+     "grounds": "result for śrāddha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What consequence follows if living parents remain unfed during sacrifice or śrāddha?",
+   "premises": [
+    "Parents remain unfed as condition",
+    "Sacrifice is rendered destroyed",
+    "Śrāddha is also rendered destroyed"
+   ],
+   "inference": "If living parents are not fed, both the sacrifice and the śrāddha become fruitless.",
+   "uncertainties": [],
+   "plain_english": "If they are unfed, the sacrifice is destroyed, and the śrāddha too would be destroyed."
+  },
+  {
+   "verse": 1969,
+   "rows": [
+    {
+     "surface": "brāhmaṇānāṃ",
+     "gloss": "of-brāhmaṇas",
+     "grounds": "group to be fed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bahūnām",
+     "gloss": "of-many",
+     "grounds": "quantity",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhojane",
+     "gloss": "in-feeding",
+     "grounds": "ritual act",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What circumstance involving feeding many brāhmaṇas is being addressed?",
+   "premises": [
+    "Many brāhmaṇas are involved",
+    "Feeding them is the context",
+    "The goddess is addressed"
+   ],
+   "inference": "The verse introduces the context of feeding many brāhmaṇas.",
+   "uncertainties": [
+    "the main injunction continues in the following verse"
+   ],
+   "plain_english": "O great goddess, and in the feeding of many brāhmaṇas."
+  },
+  {
+   "verse": 1970,
+   "rows": [
+    {
+     "surface": "gayāṃ",
+     "gloss": "to-gayā",
+     "grounds": "sacred destination",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gaṅgāṃ",
+     "gloss": "to-gaṅgā",
+     "grounds": "sacred destination",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "śrāddha-offering",
+     "grounds": "ancestral rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "proper procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should one go to perform śrāddha according to proper ritual rule?",
+   "premises": [
+    "Going to Gayā and Gaṅgā is specified",
+    "Śrāddha performance is prescribed",
+    "It must follow proper procedure"
+   ],
+   "inference": "One should go to Gayā and the Gaṅgā and perform śrāddha according to rule.",
+   "uncertainties": [],
+   "plain_english": "Then, having gone to Gayā and to the Gaṅgā, one should perform śrāddha according to the prescribed rule."
+  },
+  {
+   "verse": 1971,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "correlative duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitṛ",
+     "gloss": "ancestors",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "purī",
+     "gloss": "city",
+     "grounds": "abode of ancestors",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śūnyā",
+     "gloss": "empty",
+     "grounds": "state of abode",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "correlative duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-viṣṇu",
+     "grounds": "deity whose awakening is awaited",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prabodhanam",
+     "gloss": "awakening",
+     "grounds": "time limit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How long does the city of the ancestors remain empty awaiting offerings?",
+   "premises": [
+    "The ancestors' city is described as empty",
+    "The duration is until Viṣṇu's awakening",
+    "A correlative time frame is established"
+   ],
+   "inference": "The city of the ancestors remains empty until the awakening of Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "The city of the ancestors remains empty so long as it is until the awakening of Viṣṇu."
+  },
+  {
+   "verse": 1972,
+   "rows": [
+    {
+     "surface": "niśvasya",
+     "gloss": "having-sighed",
+     "grounds": "ancestors' reaction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratigacchanti",
+     "gloss": "they-return",
+     "grounds": "ancestors depart",
+     "morph": "3.pl.act.pres √gam"
+    },
+    {
+     "surface": "śāpaṃ",
+     "gloss": "curse",
+     "grounds": "consequence given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suduṣkaram",
+     "gloss": "very-difficult",
+     "grounds": "severity of curse",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What consequence do ancestors impose if they return without receiving offerings?",
+   "premises": [
+    "Ancestors sigh and return",
+    "They give a curse",
+    "The curse is very difficult to bear"
+   ],
+   "inference": "If unfulfilled, the ancestors return sighing and leave behind a severe curse.",
+   "uncertainties": [],
+   "plain_english": "Sighing, they return, having given a very grievous curse."
+  },
+  {
+   "verse": 1973,
+   "rows": [
+    {
+     "surface": "khaḍga",
+     "gloss": "sword",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pātreṇa",
+     "gloss": "with-vessel",
+     "grounds": "ritual implement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jīvatpitṛko",
+     "gloss": "one-whose-father-lives",
+     "grounds": "person with living father",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "prohibitive injunction",
+     "morph": "3.sg.act.opt √vṛj"
+    }
+   ],
+   "question": "What ritual implement must a person whose father is living avoid using?",
+   "premises": [
+    "A sword-vessel is specified",
+    "The person has a living father",
+    "Avoidance is prescribed"
+   ],
+   "inference": "One whose father is living should avoid using the sword-vessel.",
+   "uncertainties": [
+    "khaḍga-pātreṇa may refer to a specific ritual vessel or offering method"
+   ],
+   "plain_english": "O goddess, one whose father is living should avoid the sword-vessel."
+  },
+  {
+   "verse": 1974,
+   "rows": [
+    {
+     "surface": "kadāpi",
+     "gloss": "ever",
+     "grounds": "unrestricted time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gayāṃ",
+     "gloss": "to-gayā",
+     "grounds": "sacred destination",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "prohibitive injunction in context",
+     "morph": "3.sg.act.opt √vraj"
+    }
+   ],
+   "question": "Is a person whose father is living permitted to travel to Gayā?",
+   "premises": [
+    "Going to Gayā is the action",
+    "The prohibition applies at any time",
+    "This continues the restriction on one with a living father"
+   ],
+   "inference": "One whose father is living should never go to Gayā.",
+   "uncertainties": [
+    "subject carried over from previous verse"
+   ],
+   "plain_english": "He should never go to Gayā."
+  }
+ ]
+}

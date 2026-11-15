@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[teacher+feet+lotus](ācārya+caraṇa+aṃbhoja) [service+indeed+I](śuśrūṣā+ni+aham) [with-respect](ādarāt)
+[teacher](ācārya)+[foot](caraṇa)+[lotus](āṃbhoja) [service](śuśrūṣā)+[other](anya)+[i](aham)+[with-respect](ādarāt)
 
 ## mukta-m0-p105-v2602
-[liberation+fortune+means](mokṣa+lakṣmī+sādhanāni) [four](catvāri) [these](e) [those](tāni) [are-spoken-of](bhūyate)
+[liberation](mokṣa)+[fortune](lakṣmī)+[means](sādhanāni) [four](catvāri)+[these](etāni) [are-spoken](bhūyate)
 
 ## mukta-m0-p105-v2603
-[there+also](tatra+api) [teacher](ācārya) [service](śuśrūṣā) [sacred+eight-syllable+delight](śrīmat+aṣṭākṣarī+ratiḥ)
+[there](tatra)+[also](api)+[teacher](ācārya) [service](śuśrūṣā) [sacred](śrīmat)+[eight-syllable-mantra](aṣṭākṣarī)+[delight](ratiḥ)
 
 ## mukta-m0-p105-v2604
-[householder](gṛhastha) [indeed](eva) [of-gods+also](devānām+api) [householder](gṛhastha) [indeed](eva) [of-gods+also](devānām+api) [of-ascetics](rahaṇāṃ) [of-yogins+also](yoginām+api)
+[householder](gṛhastha) [indeed](eva) [of-gods](devānāpi) [householder](gṛhastha) [indeed](eva) [of-gods](devānāpi) [of-ascetics](rahaṇāṃ) [of-yogins](yoginām)+[also](api)
 
 ## mukta-m0-p105-v2605
-[which+limit](yaṃ+gadha+avadhi+rā) [blind](aṃdhā) [vedic](vaidikaṃ) [to-do+incapable](kartam+akṣamāḥ)
+[which](yaṃ)+[low](gadha)+[limit](ovadhirā) [blind](aṃdhā)+[vedic-rite](vaidikaṃ) [to-do](kartam)+[incapable](akṣamāḥ)
 
 ## mukta-m0-p105-v2606
-[in-vedic-rites](śraute) [in-action](karma+rāya) [for-those-unable](aśaktānāṃ) [fourth+stage](caturtha+āśramaḥ) [is-declared](īritaḥ)
+[in-vedic](śraute) [ritual](karma)+[for-those-unable](rāyaśaktānāṃ) [fourth](caturthāḥ)+[stage-of-life](cama) [is-declared](īritaḥ)
 
 ## mukta-m0-p105-v2607
-[having-done](kṛtvā) [of-teacher](ācāryasya) [service](śuśrūṣāṃ) [sacred+eight-syllable](śrīmat+aṣṭākṣarīṃ) [that](tayan)
+[having-done](kṛtvā)+[teacher's](ācāryasya) [service](śuśrūṣāṃ) [sacred](śrīmat)+[eight-syllable-mantra](aṣṭākṣarīṃ) [that](tayan)
 
 ## mukta-m0-p105-v2608
-[brahman+bliss](brahma+naṃdam) [immersed](aṣīktim) [certainly](āvaśyaṃ) [obtains](abhate) [king](nṛpaḥ)
+[brahman](brahma)+[bliss](naṃdam)+[immersed](aṣīktimā)+[certainly](vaśyaṃ) [obtains](abhate) [king](nṛpaḥ)
 
 ## mukta-m0-p105-v2609
-[renunciation](nyāsaḥ) [with+eight-syllable](saha+aṣṭārāminu) [born-forth](prajāyī) [thus](hī) [eightfold+etc](tāṣṭātādyaiḥ) [with-pairs+worshipper](mithuna+arcakaḥ) [and](ca)
+[renunciation](nyāsaḥ)+[with](saha)+[eight-syllabled](aṣṭārāminu)+[born](prajāyī)+[offered](hītā)+[eightfold](aṣṭātādyaiḥ)+[with-couples](mithunārcakaḥ)+[and](ca)
 
 ## mukta-m0-p105-v2610
-[in-vaiśākha+bright-fortnight](vaiśākha+śukle) [on-day](divase) [named-akṣaya](akṣaya+ākhye) [in-yoga](yoge) [when-obtained](gha+labhye) [in-arrow+lord+yoga](ṣu+rameśa+yoge)
+[in-vaiśākha](vaiśākha)+[bright-fortnight](śukle)+[on-day](divase)+[named-akṣaya](kṣayākhye)+[in-conjunction](yoge)+[when-obtained](ghalabhye)+[in-rama's-conjunction](ṣurameśayoge)
 
 ## mukta-m0-p105-v2611
-[having-chanted](japtvā) [and](ca) [having-offered](hutvā) [guru+feet+pair](guru+pāda+yumi) [having-dedicated](samarpya) [wealth](vittaṃ) [abundant](vahulaṃ) [o-king](mahīśa)
+[having-chanted](japtvā) [and](ca) [having-offered](hutvā) [guru](guru)+[feet](pāda)+[pair](yumi)+[having-dedicated](samarpya)+[wealth](vittaṃ) [abundant](vahulaṃ) [o-king](mahīśa)
 
 ## mukta-m0-p105-v2612
-[with-ear-ornament+bracelet+pair+etc](tāṭaṃka+vālī+yugala+ādi) [with-ornaments](bhūṣaṇaiḥ) [having-worshipped](abhyarcya) [brahmins](viprān) [then](atha) [to-be-fed](bhojanīyāḥ)
+[ear-ornaments](tāṭaṃka)+[bracelets](vālī)+[pair](yugala)+[and-other](ādi)+[ornaments](bhūṣaṇaiḥ)+[having-honored](abhyarcya) [brahmins](viprāḥ)+[then](latha)+[to-be-fed](bhojanīyāḥ)
 
 ## mukta-m0-p105-v2613
-[long-life](āyuṣyam) [health](ārogyam) [then](atha) [wealth+attainment](artha+siddhiṃ) [jewels](ratnāni) [pearls](maktā) [horses+elephants+multitudes](haya+hasti+saṃghān)
+[long-life](āyuṣyam)+[health](ārogyam)+[then](atha)+[wealth-attainment](arthasiddhiṃ) [jewels](ratnāni)+[pearls](maktā)+[horses](haya)+[elephant](hasti)+[multitudes](saṃghān)
 
 ## mukta-m0-p105-v2614
-[of-mother](mātuḥ) [of-father](pituḥ) [or](vā) [with-hundred+lineages](śaśatān+vitaḥ) [then](te) [divine](divyaṃ) [chariot](vimānaṃ) [with-gems+gold+adorned](maṇī+kāṃcana+āhyaṃ)
+[of-mother](mātuḥ) [of-father](pituḥ)+[or](vā)+[lineage](śa)+[hundred](śatān)+[endowed-with](vitaḥ)+[then](te)+[divine](divyaṃ) [chariot](vimānaṃ) [gem](maṇī)+[golden](kāṃ)+[adorned](canāhyaṃ)
 
 ## mukta-m0-p105-v2615
-[of-bhṛgu](bhṛgoḥ) [daughter](sutā) [also](api) [day](dine) [day](dine) [who](yaḥ) [having-offered](āhutvā) [according-to-rule](vidhi+vat) [person](manuṣyaḥ)
+[of-bhṛgu](bhṛgoḥ)+[daughter](sutā)+[also](api) [day](dine) [day](dine) [who](yaḥ)+[vigorously](jasvā)+[having-offered](vahutvā)+[according-to-rule](vidhivat)+[person](manuṣyaḥ)
 
 ## mukta-m0-p105-v2616
-[with-sons+grandsons](putra+naptṛbhiḥ) [with](sahitāṃ) [prosperity](samṛddhiṃ) [having-obtained](prāpya) [then](atha) [directly](sākṣāt) [hari](hari) [abode](hṛyam) [goes](eti)
+[with-sons](put)+[and-grandsons](naghapautreḥ)+[together-with](assahitāṃ) [prosperity](samṛddhiṃ) [having-obtained](prāpya)+[then](atha) [directly](sākṣīt)+[hari](hari) [to-heart](hṛyam)+[goes](eti)
 
 ## mukta-m0-p105-v2617
-[with-foods](bhakṣyaiḥ) [with-enjoyments](rājya+bhokṣyaiḥ) [and](ca) [with-garments](vastraiḥ) [with-all](sakalyaiḥ) [having-satisfied](vātauṣapitvā) [best-brahmins](dvija+agryaḥ)
+[with-delicacies](bhakṣyai) [with-kingly-enjoyments](rājyabhokṣyaiḥ)+[and](ca) [with-garments](vastraiḥ)+[with-all](śakalyaiḥ)+[having-satisfied](vātauṣapitvā) [best-brahmins](dvijāgryaḥ)
 
 ## mukta-m0-p105-v2618
-[lineage+increase](vaṃśa+abhivṛddhiṃ) [having-obtained](samavāpya) [and](ca) [in-the-end](ante) [of-viṣṇu](viṣṇoḥ) [abode](padaṃ) [that](tat) [supreme+city](puram+aṃ) [goes](prayāti)
+[lineage](vaṃśa)+[increase](abhivṛddhiṃ) [having-obtained](samavāpya) [and](ca)+[then](ate) [of-viṣṇu](viṣṇoḥ) [abode](padaṃ) [that](tat)+[supreme](puramaṃ) [goes](prayāti)
 
 ## mukta-m0-p105-v2619
-[fulfilled-purpose](kṛta+arthāḥ) [among-men](manuje) [this](iṃ) [daily](nityaṃ) [having-attained+desires](saṃprātya+kāmāḥ) [then](atha) [go](yāṃti) [liberation](muktiṃ)
+[fulfilled-purpose](kṛtārthā)+[among-men](manuje) [this](iṃ) [daily](nityaṃ) [having-attained](saṃprātya)+[desires](kāmāḥ) [then](atha)+[go](yāṃti) [liberation](muktiṃ)
 
 ## mukta-m0-p105-v2620
-[sacred+eight-syllable](śrīmat+aṣṭākṣarī) [installation](nyāsa) [meter](chaṃdaḥ) [sage+etc](ārṣa+ādikaṃ) [speak](vuva)
+[sacred](śrīmat)+[eight-syllable-mantra](aṣṭākṣarī)+[installation](nyāsa) [meter](chaṃda) [sage-and-other](ārṣādikaṃ)+[speak](vuva)
 
 ## mukta-m0-p105-v2621
-[six](ṣaṭ) [me](me) [do](kuru) [of-form](nā+mūrte) [having-done](kṛtyayā) [o-son-of-dharma](dharma+naṃdana)
+[six](ṣaṭ)+[me](me)+[do](kuru)+[of-the-form](ṇāmūrte)+[for-the-sake](kṛtyayā) [o-son-of-dharma](dharmanaṃdana)
 
 ## mukta-m0-p105-v2622
-[meter](chaṃdaḥ) [sage+etc](āṣa+ādikaṃ) [all](sarvaṃ) [which](yat) [or](vā) [having-known](tvā) [accomplished](siddhimān) [one-becomes](bhavet)
+[meter](chaṃda) [sage-and-other](āṣādikaṃ) [all](sarvaṃ) [which](yat)+[or](vā)+[having-known](tvā) [accomplished](siddhimān)+[becomes](bhavet)
 
 ## mukta-m0-p105-v2623
-[meter](chaṃdaḥ) [gāyatrī](gāyatram) [is-declared](uddiṣṭaṃ) [of-knowledge](vidrayā) [śrī](śrīḥ) [sarasvatī](sarasvatī)
+[meter](chaṃdaḥ)+[gāyatrī](gāyatram)+[declared](uddiṣṭaṃ) [of-the-mantra](vidrayā) [śrī](śrīḥ)+[sarasvatī](sarasvatī)
 
 ## mukta-m0-p105-v2624
-[non-neuter](aklīva) [long](dīrgha) [short](hrīsva) [vowel-groups](ādha+vargauḥ) [with-six](ṣaḍbhiḥ) [six-limbed](ṣaḍ+aṃgakaṃ)
+[non-neuter](aklīva)+[long](dīrgha)+[short](hrīsva)+[vowel](ādha)+[groups](vargauḥ) [with-six](ṣaḍbhiḥ) [six-limbed](ṣaḍaṃgakaṃ)
 
 ## mukta-m0-p105-v2625
-[three-eyed](tri+nayanāṃ) [speech-goddess](vāk+devatām) [I-take-refuge](āśraye)
+[three-eyed](trinayanāṃ) [speech-goddess](vāgdevatām)+[i-take-refuge](āśraye)

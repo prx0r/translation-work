@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-[she+other](sānyā) [indeed+necessarily](uta+avaśyaṃ) [with+digits](sa+kalāḥ) [and](ca) [desires](kāmān) [Nārāyaṇa](nārāyaṇa) [does-not-see](apaśyati) [eye](cakṣuḥ) [as](iva)
+[he+other+certainly](sānyotyavaśyaṃ) [with-desires+and](sakarlāśca) [desires+Nārāyaṇa+does-not-see](kāmānnārāyaṇāpaśyati) [eye+as](cakṣurṣeva)
 
 ## mukta-m0-p118-v2927
-[in-imperishable](akṣayāyāṃ) [on-third](tṛtīyāyām) [thus](itthaṃ) [for-accomplishment+purpose](sidhy+artham) [one-should-practice](ācaret)
+[on-imperishable](akṣayāyāṃ) [on-third+thus](tṛtīyāyāmitthaṃ) [for-success+purpose](sidhyartham) [one-should-practice](ācaret)
 
 ## mukta-m0-p118-v2928
-[of-Śrī's+lord](śriyaḥ+pateḥ) [grace](prasādaḥ) [also](api) [becomes](bhavati) [indeed](eva) [imperishable](akṣayaḥ) [O-king](nṛpa)
+[of-Śrī+lord](śriyaḥpateḥ) [grace+also](prasādopi) [becomes+indeed+imperishable](bhavatyevākṣayo) [O-king](nṛpa)
 
 ## mukta-m0-p118-v2929
-[in-Bhagavat's+presence](bhagavat+sannidhau) [in-end](ante) [becomes](bhavet) [birth](jatiḥ) [without+chariot](rathi+kṣayā)
+[in-Bhagavat+presence](bhagavatsannidhāvaṃte) [becomes+charioteer+by-destruction](bhavejatirathīkṣayā)
 
 ## mukta-m0-p118-v2930
-[again](bhūyaḥ) [also](api) [I-shall-speak](saṃ+vakṣyāmi) [with-collected+mind](samāhita+manaḥ) [listen](śṛṇu)
+[again+also](bhūyopi) [I-shall-speak](saṃyavakṣyāmi) [with-concentrated+mind](samāhitamanaḥ) [listen](śṛṇu)
 
 ## mukta-m0-p118-v2931
-[by-Atigaṇḍa](atigaṃḍena) [by-yoga](yogena) [or](yadvā) [or](vā) [endowed](yukta) [thus](iti) [by-action](u karmaṇā)
+[with-great+intensity](atigaṃḍena) [by-yoga](yogena) [or](yadvā) [endowed+thus](yuktetyu) [by-action](karmaṇa)
 
 ## mukta-m0-p118-v2932
-[with-auspicious+day](saumya+vāsara) [joined](yukte) [or](vā) [on-twelfth+day](dvādaśī+divase) [also](api) [or](vā)
+[with-auspicious+day+joined](saumyavāsarayukte) [or](vā) [on-twelfth+day+also](dvādaśīdivasepi) [or](vā)
 
 ## mukta-m0-p118-v2933
-[yoga+king](yoga+rājaḥ) [by-me](ma) [declared](jānu+uktaḥ) [sun+festival](ravi+parva) [hundred+splendor](śata+prabhaḥ)
+[yoga+king](yogarājomajānukto) [sun+festival+hundred+splendor](raviparvaśataprabhaḥ)
 
 ## mukta-m0-p118-v2934
-[Lakṣmī+Nārāyaṇa](lakṣmī+nārāyaṇaḥ) [which](yaḥ) [this](eṣaḥ) [to-that](te) [not](na) [indeed](eva) [equal](samaḥ) [is-called](ucyate)
+[Lakṣmī+Nārāyaṇa+yoga](lakṣmīnārāyaṇoyegaste) [to-that](naiva) [equal](sama) [is-called](ucyate)
 
 ## mukta-m0-p118-v2935
-[by-years](varṣaiḥ) [twelve](dvādaśabhiḥ) [on-earth](bhūmau) [is-obtained](labhyate) [this](ayaṃ) [O-lord-of-earth](mahīpate)
+[by-years+twelve](varṣairdvāśabhirbhūmau) [on-earth](labhyateyaṃ) [this](mahīpate) [O-lord-of-earth](mahīpate)
 
 ## mukta-m0-p118-v2936
-[of-japa+homa+etc.](japa+homa+ādi) [to-doers](kartṛṇāṃ) [gives](dadāti) [imperishable](akṣayam) [desired](āśitaṃ)
+[of-japa+homa+etc.+doers](japahomādikartṛṇaṃ) [gives+imperishable+desired](dadātyakṣayamāśitaṃ)
 
 ## mukta-m0-p118-v2937
-[great+gift](mahā+dāna) [thousand](sahasraṃ) [or](vā) [which](ji) [this](ye) [life](āyuṃ) [indeed](taṃ) [or](tu) [or](vā)
+[great+gift](mahādāna) [thousand](sahasraṃ) [or](vājiyeyāyuṃtaṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p118-v2938
-[unattainable](alabhyaḥ) [not](na) [this+yoga](ayaṃ+yogaḥ) [this](ayaṃ) [of-all+yogas](sarva+yoga) [best](uttamaḥ) [great](maḥ)
+[unattainable](alabhyo) [not+this+yoga](nāmayogoyaṃ) [of-all+yogas+best](sarvayogottamomaḥ)
 
 ## mukta-m0-p118-v2939
-[having-bathed](srātvā) [new](navāṃ) [by-rule](vidhānena) [gods](devān) [sages](ṛṣi) [and](yaḥ) [ancestors](hṛn) [also](api)
+[having-bathed](srātvā) [new+by-method](navāṃvidhānena) [gods+ṛṣis+and+ancestors+also](devānṛṣiyohṛnapi)
 
 ## mukta-m0-p118-v2940
-[teacher's+feet](ācārya+caraṇa) [lotus](aṃbhoja) [pair](yugmaṃ) [having-bowed](natvā) [then](tataḥ) [after](paraṃ)
+[teacher+feet+lotus](ācāryacaraṇaṃbhojayugmaṃ) [having-bowed](natvā) [then](tataḥ) [after](paraṃ)
 
 ## mukta-m0-p118-v2941
-[three-hundred+more](triśata+adhika) [thousand](sāhasraṃ) [with-equal+renunciation](sama+sanyāsa) [joined](saṃyutāṃ)
+[three-hundred+more+thousand](triśatādhika sāhasraṃ) [with-equal+renunciation+joined](samasanyāsasaṃyutāṃ)
 
 ## mukta-m0-p118-v2942
-[sovereignty+Lakṣmī+vidyā](sāmrājya+lakṣmī+vidyāṃ) [or](vā) [six-syllabled](ṣaḍarṇīm) [or](atha) [or](vā) [of-Śrī](śriyaḥ)
+[sovereignty+Lakṣmī+vidyā](sāmrājyalakṣmīvidyāṃ) [or](vā) [six-syllabled+or+of-Śrī](ṣaḍarṇīmathavāśriyaḥ)
 
 ## mukta-m0-p118-v2943
-[as](yathā) [desire](ruci) [one-should-chant](jayet) [vidyā](vidyāṃ) [with-soft](komalaiḥ) [with-good+tulasī](su+lasī) [leaves](halaiḥ)
+[as](yathā) [according-to-desire](rucijayedvidyāṃ) [with-soft+fine+tulasī+leaves](komalaisulasīhalaiḥ)
 
 ## mukta-m0-p118-v2944
-[O-Lakṣmī+Nārāyaṇa](lakṣmī+nārāyaṇi) [afterwards](paścāt) [three-hundred](triśataṃ) [with-Brahman+vidyā](brahma+vidyayā)
+[O-Lakṣmī+Nārāyaṇa](lakṣmīnārāyaṇi) [afterward+three-hundred](paścātriśataṃ) [with-Brahman+knowledge](brahmavidyayā)
 
 ## mukta-m0-p118-v2945
-[according-to-rule](vidhivat) [in-consecrated](saṃskṛte) [in-fire](vahnau) [with-sesame-seeds](tilaiḥ) [with-cow+ghee](gavya+ghṛta) [soaked](plutaiḥ)
+[according-to-rule](vidhivat) [in-consecrated](saṃskṛte) [in-fire](vahnau) [with-sesame-seeds+in-ghee+immersed](tilairgavyaghṛtaplutaiḥ)
 
 ## mukta-m0-p118-v2946
-[eight+more-than-hundred](aṣṭa+uttara+śataṃ) [having-offered](datvā) [with-Śrī+mantra](śrī+maṃtreṇa) [ghee](ājyam) [with-reverence](ādarāt)
+[eight+more+hundred](aṣṭottaraśataṃ) [having-offered](datvā) [with-Śrī+mantra+ghee](śrīmaṃtreṇājyamādarāt) [with-reverence](ādarāt)
 
 ## mukta-m0-p118-v2947
-[expiation+oblations](prāyaścitta+āhutāḥ) [having-offered](hṛtvā) [to-Brahman+dedication+oblation](brahma+arpaṇa+āhutim)
+[expiatory+oblations](prāyaścittāhutā) [having-offered](hṛtvā) [to-Brahman+dedication+oblation](brahmārpaṇāhuti)
 
 ## mukta-m0-p118-v2948
-[in-teacher's+ears](ācārya+karṇayoḥ) [having-given](datvā) [earring+pair](kuṃḍala+dvayam) [with-reverence](ādarāt)
+[in-teacher+ears](ācāryakarṇayordatvā) [pair-of-earrings](kuṃḍaladvayamādarāt) [with-reverence](ādarāt)
 
 ## mukta-m0-p118-v2949
-[fine](sūkṣmaṃ) [garment+pair](vāsaḥ+yugaṃ) [having-given](datvā) [Śālagrāma+stone](śālagrāma+śilāṃ) [auspicious](śubhāṃ)
+[fine](sūkṣmaṃ) [pair-of-garments](vāsoyugaṃ) [having-given](datvā) [Śālagrāma+stone+auspicious](śālagrāmaśilāṃśubhāṃ)
 
 ## mukta-m0-p118-v2950
-[having-prayed](prārthayitvā) [also](api) [many-times](vahuśaḥ) [sesame-seeds](tilān) [also](api) [one-should-offer](samarpayet)
+[having-prayed](prārthayitvāpi) [repeatedly](vahuśastilānapi) [sesame-seeds+also](tilānapi) [one-should-offer](samarpayet)

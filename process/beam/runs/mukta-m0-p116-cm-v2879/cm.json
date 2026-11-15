@@ -3,24 +3,39 @@
  "verse": 2879,
  "rows": [
   {
-   "lemma": "teṣā/",
-   "morph": "pron.gen.pl",
-   "grounds": "genitive plural"
+   "lemma": "matsya+māṃsaṃ",
+   "morph": "compound:n.acc.sg",
+   "grounds": "compound naming foods consumed during the vow"
   },
   {
-   "lemma": "sahasrayojane'va",
-   "morph": "loc.sg",
-   "grounds": "locative phrase"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "dhanvāni",
-   "morph": "n.acc.pl",
-   "grounds": "plural accusative"
+   "lemma": "bhuñjaṃś+ca",
+   "morph": "m.nom.sg.present-participle-active:√bhuj",
+   "grounds": "present participle with sandhi-marked connective"
   },
   {
-   "lemma": "tanmasi",
-   "morph": "1.pl.act",
-   "grounds": "first person plural verb"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation of the following action"
+  },
+  {
+   "lemma": "rātrau",
+   "morph": "f.loc.sg",
+   "grounds": "time restriction for eating"
+  },
+  {
+   "lemma": "bhojanaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "object of the prohibited action"
+  },
+  {
+   "lemma": "caret",
+   "morph": "3.sg.optative-active:√car",
+   "grounds": "prescriptive injunction governing conduct"
   }
  ]
 }

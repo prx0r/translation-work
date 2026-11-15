@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[nārāyaṇa](nārāyaṇa) [iti](iti) [my](mat) [name](nāma) [supreme](paraṃ) [brahman](brahma) [with-śrī](śriyā) [endowed](anvitaḥ)
+[nārāyaṇa-iti](nārāyaṇeti) [my-name](mannāma) [supreme-brahman](paraṃbrahma) [with-śrī-endowed](śriyānvitaḥ)
 
 ## mukta-m0-p06-v127
-[others](anyāḥ) [but](tu) [all](sakalāḥ) [vidyās](vidhāḥ) [quickly](prakṣipra) [śrī](śrī) [with](samanvitāḥ)
+[others](anyāstu) [all](sakalā) [vidyās](vidhāḥ) [prakṣipra-śrī](prakṣipraśrī) [endowed-with](samanvitāḥ)
 
 ## mukta-m0-p06-v128
-[supreme](para) [light](tejaḥ) [consisting-of](mayīṃ) [consciousness](saṃvit) [great](mahā) [sovereignty](sāmrājya) [mistress](nāyikāṃ)
+[supreme-light-consisting](paratejomayīṃ) [consciousness](saṃvin) [great-sovereignty-queen](mahāsāmrājyanāyikāṃ)
 
 ## mukta-m0-p06-v129
-[I-give](dadāmi) [this](etāṃ) [great](mahā) [vidyā](vidyāṃ) [my](ma) [splendor](tejaḥ) [for-attainment](prāptaye) [of-you](tava)
+[I-give](dadāmi) [this](etāṃ) [great-vidyā](mahāvidyāṃ) [my-splendor](matejaḥ) [for-attainment](prāptaye) [of-you](tava)
 
 ## mukta-m0-p06-v130
-[**](**) [meter](chaṃdaḥ) [should-be](syāt) [gāyatra](gāyatraṃ) [not](na) [other](anyat) [said](uktaṃ) [is-born](jāyate)
+[**](**) [meter](chaṃdaḥ) [should-be-gāyatra](syāgāyatraṃ) [not-other](nānyad) [stated](uktaṃ) [is-born](jāyate)
 
 ## mukta-m0-p06-v131
-[my](mat) [eight](aṣṭa) [syllable](arṇa) [consisting-of](mayī) [to-be-known](jñeyā) [my](mama) [splendor](tejaḥ) [part](kalā) [endowed-with](anvitā)
+[my-eight-syllable-consisting](madaṣṭārṇamayī) [to-be-known](jñeyā) [my](mama) [splendor](tejaḥ) [portion-endowed](kalānvitā)
 
 ## mukta-m0-p06-v132
-[my](mat) [half](ardha) [splendor](tejasā) [united](yuktā) [woman](nārī) [lakṣmī](lakṣmīḥ) [thus](iti) [declared](īritā)
+[my-half-splendor-united](madardhatejasāyuktā) [woman-lakṣmī](nārīlakṣmīr) [thus-declared](itīritā)
 
 ## mukta-m0-p06-v133
-[twelve](dvādaśa) [syllable](arṇa) [great](mahā) [vidyā](vidhā) [form](rūpaḥ) [brahman](brahma) [consisting-of](mayaḥ) [I](aham)
+[twelve-syllable-great-vidyā-form](dvādaśārṇamahāvidhārūpo) [brahman-consisting](brahmamayo) [I](myahaṃ)
 
 ## mukta-m0-p06-v134
-[I](ahaṃ) [world](jagat) [consisting-of](mayatvena) [of-meters](chaṃdasāṃ) [jagati](jāgataṃ) [best](varaṃ)
+[I](ahaṃ) [world-consisting-by-nature](jaganmayatvena) [of-meters](chaṃdasāṃ) [jagata](jāgataṃ) [best](varaṃ)
 
 ## mukta-m0-p06-v135
-[brahma](brahma) [knowledge](vidyā) [thus](iti) [renowned](vikhyātā) [by-giving](pradānāt) [thus](iti) [to-you](tava)
+[brahma-vidyā-thus](brahmavidyeti) [renowned](vikhyātā) [by-giving](pradānād) [thus](ittas) [to-you](tava)
 
 ## mukta-m0-p06-v136
-[this](imām) [also](api) [great](mahā) [vidyā](vidyāṃ) [lakṣmī](lakṣmī) [nārāyaṇa](nārāyaṇa) [named](abhidhāṃ)
+[this](imām) [also](api) [great-vidyā](mahāvidyāṃ) [lakṣmī-nārāyaṇa-named](lakṣmīnārāyaṇabhidhāṃ)
 
 ## mukta-m0-p06-v137
-[who](yaḥ) [that](asau) [virāj](virāṅ) [consisting-of](mayaḥ) [directly](sākṣāt) [person](puruṣaḥ) [I](ahaṃ) [ancient](purātanaḥ)
+[who](yosau) [virāj-consisting](virāṅmayaḥ) [directly](sākṣāt) [puruṣa](puruṣo) [I](haṃ) [ancient](purātanaḥ)
 
 ## mukta-m0-p06-v138
-[he](saḥ) [indeed](eva) [veda](veda) [person](puruṣaḥ) [veda](veda) [nārāyaṇa](nārāyaṇaḥ) [I](aham)
+[he](sa) [indeed](eva) [veda-puruṣa](vedapuruṣo) [veda-nārāyaṇa](vedanārāyaṇo) [I](myahaṃ)
 
 ## mukta-m0-p06-v139
-[helpers](sahāyaṃ) [to-you](te) [they-will-do](kariṣyaṃti) [creation](sarga) [work](kārye) [o-prajāpati](prajāpate)
+[helpers](sahāyaṃ) [to-you](te) [they-will-make](kariṣyaṃti) [creation-work](sargakārye) [O-prajāpati](prajāpate)
 
 ## mukta-m0-p06-v140
-[by-that](tat) [to-be-spoken](vācyaḥ) [savitṛ](savitā) [o-brahman](brahman) [god](devaḥ) [nārāyaṇa](nārāyaṇaḥ) [I-am](asmi) [I](aham)
+[by-that-to-be-expressed](tadvācyaḥ) [savitṛ](savitā) [O-brahman](brahman) [god](devo) [nārāyaṇa](nārāyaṇo) [I-am](smyahaṃ)
 
 ## mukta-m0-p06-v141
-[birth](janma) [death](mṛtyu) [old-age](jarā) [disease](vyādhi) [saṃsāra](saṃsāra) [fear](bhaya) [destroyer](nāśanaḥ)
+[birth-death-old-age-disease](janmamṛtyujarāvyādhi) [saṃsāra-fear-destroyer](saṃsārabhayanāśanaḥ)
 
 ## mukta-m0-p06-v142
-[of-mātṛkā](mātṛkāyāḥ) [declared](samākhyātā) [sāman](sāma) [form](rūpā) [indeed](eva) [vāyu](vā) [vayate](vayate)
+[of-mātṛkā](mātṛkāyā) [declared](samākhyātā) [sāman-form-indeed](sāmadrūpaiva) [vāvayate](vāvayate)
 
 ## mukta-m0-p06-v143
-[lakṣmī](lakṣmī) [form](rūpaṃ) [and](ca) [my](mat) [form](rūpaṃ) [that](tat) [essence](sāraṃ) [not](na) [doubt](saṃśayaḥ)
+[lakṣmī-form](lakṣmīrūpaṃ) [and](ca) [my-form](madrūpaṃ) [that-essence](tatatsāraṃ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p06-v144
-[brahma](brahma) [knowledge](vidyā) [worshipper](upāsakaḥ) [my](me) [virāj](virāṭ) [person](puruṣa) [form](rūpa) [bearing](dhṛk)
+[brahma-vidyā-worshipper](brahmavidyopāsako) [my](me) [virāṭ-puruṣa-form-bearer](virāṭpuruṣarūpadhṛk)
 
 ## mukta-m0-p06-v145
-[my](mama) [state](tām) [worshipping](upāsma) [man](naraḥ) [directly](sākṣāt) [my](mama) [union](sāyujyaṃ) [attains](abhyute)
+[my-identity-worshipping-man](mamatāmupāsmanaraḥ) [directly](sākṣān) [my-sāyujya](mamasāyujya) [attains](mahyute)
 
 ## mukta-m0-p06-v146
-[my](mat) [consisting-of](ātmakaṃ) [**](**) [mantra](maṃtra) [therefore](tatasmāt) [my](mat) [consisting-of](ātmikā)
+[my-nature](madātmakaṃ) [**(?)](**(?)) [should-contemplate](maṃtrayī) [therefore](tatasmād) [my-essence](ātmadātmikā)
 
 ## mukta-m0-p06-v147
-[gāyatrī](gāyatrīṃ) [having-worshipped](samupāsya) [then](atha) [having-offered](hutvā) [me](māṃ) [in-jātavedas](jātavedasi)
+[gāyatrī](gāyatrīṃ) [having-worshipped](samupāsyātha) [having-offered](hutvāṃ) [me](māṃ) [in-jātavedas](jātavedasi)
 
 ## mukta-m0-p06-v148
-[as-long-as](yāvat) [and](ca) [having-worshipped](samupāsya) [then](atha) [glorious](śrīmat) [eight](aṣṭa) [syllable](akṣarīṃ) [since](yataḥ)
+[as-long-as](yāvaccha) [having-worshipped](samupāsyātha) [auspicious-eight-syllabled](śrīmaddaṣṭākṣarīṃ) [since](yata)
 
 ## mukta-m0-p06-v149
-[having-worshipped](upāsya) [my](mat) [time](kāla) [facing](āmukaḥ) [having-become](bhūtvā) [creation](sṛṣṭi) [doer](karaḥ) [become](bhava)
+[having-worshipped](upāsya) [my-time-facing](matkālāmuko) [having-become](bhūtvā) [creation-doer](sṛsṭikaro) [be](bhava)
 
 ## mukta-m0-p06-v150
-[by-you](tvayā) [created](sṛṣṭam) [this](idaṃ) [universe](viśva) [in-time](kāle) [in-time](kāle) [I-destroy](harāmi) [I](aham)
+[by-you](tvayā) [created](sṛṣṭam) [this](idaṃ) [universe](viśva) [in-time](kāle) [in-time](kāle) [I-destroy](harāmyahaṃ)

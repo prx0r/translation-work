@@ -3,19 +3,44 @@
  "verse": 1961,
  "rows": [
   {
-   "lemma": "śrīkṛṣṇamantrabhedāśca",
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "naḥ",
+   "morph": "pron.gen.pl",
+   "grounds": "possessive"
+  },
+  {
+   "lemma": "pitaro",
    "morph": "m.nom.pl",
-   "grounds": "compound: śrī+kṛṣṇa+mantra+bheda with enclitic ca"
+   "grounds": "ancestors"
+  },
+  {
+   "lemma": "yasya",
+   "morph": "pron.gen.sg",
+   "grounds": "relative reference"
+  },
+  {
+   "lemma": "mṛtāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "state of ancestors"
+  },
+  {
+   "lemma": "śastreṇa",
+   "morph": "n.inst.sg",
+   "grounds": "cause of death"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "connects circumstances"
   },
   {
-   "lemma": "dadhivāmanasaṃjñakāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "compound: dadhivāmana+saṃjñaka"
+   "lemma": "āhave",
+   "morph": "m.loc.sg",
+   "grounds": "place of death"
   }
  ]
 }

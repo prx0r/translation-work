@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1950,
- "question": "Which ladle is to be given when the cooked offering is presented?",
+ "question": "Which further locations, including battles, rivers, and the seven oceans, are enumerated as suitable sites?",
  "premises": [
-  "the cooked offering requires a ladle",
-  "the ladle is filled with ghee",
-  "the officiant should give that ladle"
+  "Battles are included among the enumerated locations.",
+  "Rivers are included among the enumerated locations.",
+  "The seven oceans are included among the enumerated locations."
  ],
- "inference": "The ritual prescribes giving a ghee-filled ladle.",
+ "inference": "The enumeration extends the list of suitable sites to battles, rivers, and the seven oceans.",
  "uncertainties": [
-  "exact ritual context is not fully supplied by the verse alone"
+  "The exact referent qualified by saptasu is not explicit within this verse alone, though it commonly refers to the seven oceans."
  ],
- "plain_english": "He should give a ghee-filled ladle."
+ "plain_english": "In battles, at rivers, and in the seven oceans as well."
 }

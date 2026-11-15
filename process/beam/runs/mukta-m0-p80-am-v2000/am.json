@@ -1,16 +1,16 @@
 {
  "song": "mukta-m0-p80",
  "verse": 2000,
- "question": "What color is attributed to the described entity?",
+ "question": "By what means and attitude should worship be performed, O fortunate one?",
  "premises": [
-  "nīlavarṇaḥ denotes blue color",
-  "the token stands alone",
-  "no further context given"
+  "Worship is enjoined as the prescribed action.",
+  "Supreme devotion must accompany the worship.",
+  "This specific mantra must be employed in the worship."
  ],
- "inference": "The described entity is blue-colored.",
+ "inference": "Therefore, one should perform worship with supreme devotion using this mantra.",
  "uncertainties": [
-  "single-token verse; context minimal",
-  "compound analysis inferred"
+  "The object of worship is not explicitly named in this verse and relies on context.",
+  "The referent of 'this mantra' is not specified within this verse."
  ],
- "plain_english": "The entity is blue-colored."
+ "plain_english": "O fortunate one, one should worship with supreme devotion using this mantra."
 }
