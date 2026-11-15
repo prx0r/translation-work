@@ -2,52 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p126-v3126
-[pada-gloss](hārāntaradvayaṃśenavistārāyāmameva) [pada-gloss](ca) [pada-gloss](daśāṃśaṃ) [pada-gloss](dvibhajedīrghaṃ)
+[hārāntaradvayaṃśena](hārāntaradvayaṃśena) [vistārāyāmameva](vistārāyāmameva) [ca](ca)
 ## mukta-m0-p126-v3127
-[pada-gloss](vistāraṃ) [pada-gloss](ca) [pada-gloss](tathā) [pada-gloss](bhavet)
+[daśāṃśaṃ](daśāṃśaṃ) [dvibhajedīrghaṃ](dvibhajedīrghaṃ) [vistāraṃ](vistāraṃ) [ca](ca) [tathā](tathā) [bhavet](bhavet)
 ## mukta-m0-p126-v3128
-[pada-gloss](ālindraṃ) [pada-gloss](dvekabhāgena) [pada-gloss](hārāvyāsaṃ) [pada-gloss](śivāṃśakam)
+[ālindraṃ](ālindraṃ) [dvekabhāgena](dvekabhāgena) [hārāvyāsaṃ](hārāvyāsaṃ) [śivāṃśakam](śivāṃśakam)
 ## mukta-m0-p126-v3129
-[pada-gloss](ekāṃśaṃ) [pada-gloss](pañcaravyāsamardhāṃśaṃ) [pada-gloss](harayonnaram) [pada-gloss](tritālaṃ)
+[ekāṃśaṃ](ekāṃśaṃ) [pañcaravyāsamardhāṃśaṃ](pañcaravyāsamardhāṃśaṃ) [harayonnaram](harayonnaram)
 ## mukta-m0-p126-v3130
-[pada-gloss](dvitivikhyātaṃ) [pada-gloss](caturbhumamadhaśṛṇu) [pada-gloss](dvitālādi) [pada-gloss](kalāntaṃ)
+[tritālaṃ](tritālaṃ) [dvitivikhyātaṃ](dvitivikhyātaṃ) [caturbhumamadhaśṛṇu](caturbhumamadhaśṛṇu)
 ## mukta-m0-p126-v3131
-[pada-gloss](ca) [pada-gloss](sārdhakoṭi) [pada-gloss](samanvitam) [pada-gloss](madhyakoṣṭhāṃśasaṃyuktaṃ)
+[dvitālādi](dvitālādi) [kalāntaṃ](kalāntaṃ) [ca](ca) [sārdhakoṭi](sārdhakoṭi) [samanvitam](samanvitam)
 ## mukta-m0-p126-v3132
-[pada-gloss](sārdhakoṭi) [pada-gloss](subhadrakam) [pada-gloss](dvayaṃśaṃ) [pada-gloss](bhittiviskambhamaṃśenā)
+[madhyakoṣṭhāṃśasaṃyuktaṃ](madhyakoṣṭhāṃśasaṃyuktaṃ) [sārdhakoṭi](sārdhakoṭi) [subhadrakam](subhadrakam)
 ## mukta-m0-p126-v3133
-[pada-gloss](dhārikaṃ) [pada-gloss](bhavet) [pada-gloss](vistāraṃ) [pada-gloss](daśadhā)
+[dvayaṃśaṃ](dvayaṃśaṃ) [bhittiviskambhamaṃśenā](bhittiviskambhamaṃśenā) [dhārikaṃ](dhārikaṃ) [bhavet](bhavet)
 ## mukta-m0-p126-v3134
-[pada-gloss](kṛtvā) [pada-gloss](karṇakūṭaviśāṃśakam) [pada-gloss](karṇakūṭāṃśakaṃ) [pada-gloss](tyaktvā)
+[vistāraṃ](vistāraṃ) [daśadhā](daśadhā) [kṛtvā](kṛtvā) [karṇakūṭaviśāṃśakam](karṇakūṭaviśāṃśakam)
 ## mukta-m0-p126-v3135
-[pada-gloss](āyāme) [pada-gloss](tu) [pada-gloss](viśeṣataḥ) [pada-gloss](śālādīrghaṃ)
+[karṇakūṭāṃśakaṃ](karṇakūṭāṃśakaṃ) [tyaktvā](tyaktvā) [āyāme](āyāme) [tu](tu) [viśeṣataḥ](viśeṣataḥ)
 ## mukta-m0-p126-v3136
-[pada-gloss](ṣaḍaṃśaṃ) [pada-gloss](tu) [pada-gloss](ardhāṃśena) [pada-gloss](tu)
+[śālādīrghaṃ](śālādīrghaṃ) [ṣaḍaṃśaṃ](ṣaḍaṃśaṃ) [tu](tu) [ardhāṃśena](ardhāṃśena) [tu](tu) [pañjaram](pañjaram)
 ## mukta-m0-p126-v3137
-[pada-gloss](pañjaram) [pada-gloss](triyodaśāṃśaṃ) [pada-gloss](vistāre) [pada-gloss](nālaṃ)
+[triyodaśāṃśaṃ](triyodaśāṃśaṃ) [vistāre](vistāre) [nālaṃ](nālaṃ) [gehe](gehe) [triyaṃśakam](triyaṃśakam)
 ## mukta-m0-p126-v3138
-[pada-gloss](gehe) [pada-gloss](triyaṃśakam) [pada-gloss](hāradīrghaṃ) [pada-gloss](ca)
+[hāradīrghaṃ](hāradīrghaṃ) [ca](ca) [mekāṃśaṃ](mekāṃśaṃ) [bāhyabhittiviśālakam](bāhyabhittiviśālakam)
 ## mukta-m0-p126-v3139
-[pada-gloss](mekāṃśaṃ) [pada-gloss](bāhyabhittiviśālakam) [pada-gloss](dvādaśāṅgulavistāramekāṃśaṃ) [pada-gloss](kūṭavismṛtam)
+[dvādaśāṅgulavistāramekāṃśaṃ](dvādaśāṅgulavistāramekāṃśaṃ) [kūṭavismṛtam](kūṭavismṛtam)
 ## mukta-m0-p126-v3140
-[pada-gloss](karṇakūṭāṃśakaṃ) [pada-gloss](tyaktvā) [pada-gloss](āyāme) [pada-gloss](tu)
+[karṇakūṭāṃśakaṃ](karṇakūṭāṃśakaṃ) [tyaktvā](tyaktvā) [āyāme](āyāme) [tu](tu) [viśeṣataḥ](viśeṣataḥ)
 ## mukta-m0-p126-v3141
-[pada-gloss](viśeṣataḥ) [pada-gloss](rasabhūmiriti) [pada-gloss](khyātaṃ) [pada-gloss](saptabhūmirathocyate)
+[rasabhūmiriti](rasabhūmiriti) [khyātaṃ](khyātaṃ) [saptabhūmirathocyate](saptabhūmirathocyate)
 ## mukta-m0-p126-v3142
-[pada-gloss](śālādīrghaṃ) [pada-gloss](tu) [pada-gloss](bhūtāṃśaṃ) [pada-gloss](śeṣaṃ)
+[śālādīrghaṃ](śālādīrghaṃ) [tu](tu) [bhūtāṃśaṃ](bhūtāṃśaṃ) [śeṣaṃ](śeṣaṃ) [hārāntaraṃ](hārāntaraṃ) [bhavet](bhavet)
 ## mukta-m0-p126-v3143
-[pada-gloss](hārāntaraṃ) [pada-gloss](bhavet) [pada-gloss](trayoviṃśāṃśamāyāmaṃ) [pada-gloss](rasāṃśaṃ)
+[trayoviṃśāṃśamāyāmaṃ](trayoviṃśāṃśamāyāmaṃ) [rasāṃśaṃ](rasāṃśaṃ) [koṣṭhadīrghikam](koṣṭhadīrghikam)
 ## mukta-m0-p126-v3144
-[pada-gloss](koṣṭhadīrghikam) [pada-gloss](śeṣaṃ) [pada-gloss](hārasamāyuktaṃ) [pada-gloss](saptabhūmimiti)
+[śeṣaṃ](śeṣaṃ) [hārasamāyuktaṃ](hārasamāyuktaṃ) [saptabhūmimiti](saptabhūmimiti) [smṛtam](smṛtam)
 ## mukta-m0-p126-v3145
-[pada-gloss](smṛtam) [pada-gloss](śālāśaṃ) [pada-gloss](bhūtabhāgaṃ) [pada-gloss](tu)
+[śālāśaṃ](śālāśaṃ) [bhūtabhāgaṃ](bhūtabhāgaṃ) [tu](tu) [śeṣaṃ](śeṣaṃ) [hāra](hāra) [sapañjaram](sapañjaram)
 ## mukta-m0-p126-v3146
-[pada-gloss](śeṣaṃ) [pada-gloss](hāra) [pada-gloss](sapāñjaram) [pada-gloss](trayoviṃśatibhāgaṃ)
+[trayoviṃśatibhāgaṃ](trayoviṃśatibhāgaṃ) [tu](tu) [pārśvakoṣṭhadvayaṃśakam](pārśvakoṣṭhadvayaṃśakam)
 ## mukta-m0-p126-v3147
-[pada-gloss](tu) [pada-gloss](pārśvakoṣṭhadvayaṃśakam) [pada-gloss](ekāṃśādhikaṃ) [pada-gloss](koṣṭhaṃ)
+[ekāṃśādhikaṃ](ekāṃśādhikaṃ) [koṣṭhaṃ](koṣṭhaṃ) [ca](ca) [śeṣaṃ](śeṣaṃ) [hārā](hārā) [sapañjaram](sapañjaram)
 ## mukta-m0-p126-v3148
-[pada-gloss](ca) [pada-gloss](śeṣaṃ) [pada-gloss](hārā) [pada-gloss](sapāñjaram)
+[evaṃ](evaṃ) [rasādībhūmyantaṃ](rasādībhūmyantaṃ) [triyaṃśaṃ](triyaṃśaṃ) [garbhagehakam](garbhagehakam)
 ## mukta-m0-p126-v3149
-[pada-gloss](evaṃ) [pada-gloss](rasādībhūmyantaṃ) [pada-gloss](triyaṃśaṃ) [pada-gloss](garbhagehakam)
+[pañjaram](pañjaram)
 ## mukta-m0-p126-v3150
-[pada-gloss](pañjaram) [pada-gloss](vistare) [pada-gloss](saptadāśāṃśaṃ) [pada-gloss](ekāṃśaṃ) [pada-gloss](kūṭavistṛtam)
+[vistare](vistare) [saptadāśāṃśaṃ](saptadāśāṃśaṃ) [ekāṃśaṃ](ekāṃśaṃ) [kūṭavistṛtam](kūṭavistṛtam)

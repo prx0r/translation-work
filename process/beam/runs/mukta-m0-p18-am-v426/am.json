@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 426,
- "question": "Which deity and seed-powers are identified with Brahma in sequence?",
+ "question": "What preparation step precedes the one-day glass-vessel sealing of the previous liquids?",
  "premises": [
-  "Brahma is identified as the deity.",
-  "The seed-powers are a and ū.",
-  "This identification follows a sequence."
+  "previous liquids are sealed",
+  "sealing lasts one day",
+  "glass vessel is used"
  ],
- "inference": "Brahma corresponds to the deity whose seed-powers are a and ū in order.",
- "uncertainties": [],
- "plain_english": "Brahma indeed is the deity, and its seed-powers are a and ū in sequence."
+ "inference": "The verse prescribes sealing previous liquids in a glass vessel for one day.",
+ "uncertainties": [
+  "exact liquid composition is not specified"
+ ],
+ "plain_english": "Seal the previous liquids in a glass vessel for one day."
 }

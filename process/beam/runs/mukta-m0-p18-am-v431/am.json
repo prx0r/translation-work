@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 431,
- "question": "How is the vital breath identified and situated within the self?",
+ "question": "What result follows when women drink milk after a meal?",
  "premises": [
-  "A conclusion is drawn from the previous statement.",
-  "The breath is called haṃsa.",
-  "The breath is situated in the form of the self."
+  "milk is drunk after a meal",
+  "women are the subjects",
+  "hundred is the stated number"
  ],
- "inference": "Therefore, the breath known as haṃsa abides in the form of the self.",
- "uncertainties": [],
- "plain_english": "Therefore, the breath, called haṃsa, is situated in the form of the self."
+ "inference": "The verse says women desire a hundred after drinking milk after a meal.",
+ "uncertainties": [
+  "the object of desire is not specified"
+ ],
+ "plain_english": "After a meal, women drink milk and desire a hundred."
 }

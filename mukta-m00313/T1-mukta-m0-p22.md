@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[brought](praṇītāṃ) [vajra+tuṇḍā+and](vajratuṇḍāñca) [mudrās](mudrān) [there](tatra) [should-employ](niyojayet)
+[praṇītām](praṇītāṃ) [vajra+tuṇḍām](vajratuṇḍāñca) [mudrām](mudrān) [tatra](tatra) [niyojayet](niyojayet)
 
 ## mukta-m0-p22-v527
-[vessel](pātre) [and](ca) [with-poison-blood](viṣaraktena) [appointed](niyuktā) [in-vajra-maṇḍala](vajramaṇḍale)
+[pātre](pātre) [ca](ca) [viṣa+raktena](viṣaraktena) [niyuktā](niyuktā) [vajra+maṇḍale](vajramaṇḍale)
 
 ## mukta-m0-p22-v528
-[pure+even](śuddhopi) [is-burned](dahyate) [by-that](tena) [itself](svayaṃ) [if](yadi) [water-lord](jalādhipaḥ)
+[śuddhaḥ](śuddhopi) [api](api) [dahyate](dahyate) [tena](tena) [svayam](svayaṃ) [yadi](yadi) [jala+adhipaḥ](jalādhipaḥ)
 
 ## mukta-m0-p22-v529
-[varuṇa](vāruṇaṃ) [maṇḍala](maṇḍalaṃ) [on-birch](bhūrje) [gorocanā](gorocana) [which](yā) [should-draw](samālikhet)
+[vāruṇam](vāruṇaṃ) [maṇḍalam](maṇḍalaṃ) [bhūrje](bhūrje) [gorocanayā](gorocana) [samālikhet](yā samālikhet)
 
 ## mukta-m0-p22-v530
-[should-place](nikṣipet) [pot+in-middle](kumbhamadhye) [but](tu) [divine+pillar](divyastambho) [would-be](bhaveddhruvam) [certainly](dhruvam)
+[nikṣipet](nikṣipet) [kumbha+madhye](kumbhamadhye) [tu](tu) [divya+stambhaḥ](divyastambho) [bhavet](bhaveddhruvam) [dhruvam](dhruvam)
 
 ## mukta-m0-p22-v531
-[on-birch](bhūrje) [with-gorocanā](rocanayā) [having-drawn](likhya) [vajra+maṇḍala](vajramaṇḍalamaṃ) [meditated](dhyataḥ)
+[bhūrje](bhūrje) [rocanayā](rocanayā) [likhya](likhya) [vajra+maṇḍalam](vajramaṇḍalamaṃ) [dhyātaḥ](dhyataḥ)
 
 ## mukta-m0-p22-v532
-[having-seized](ākrāmya) [should-hold](dhārayet) [him](taṃ) [but](tu) [makes-gamble](dyūtejayati) [man](mānavaḥ)
+[ākrāmya](ākrāmya) [dhārayet](dhārayettaṃ) [tam](tam) [tu](tu) [dyūte](dyūte) [jayati](jayati) [mānavaḥ](mānavaḥ)
 
 ## mukta-m0-p22-v533
-[opening+door](vivaradvāram) [having-resorted](āśritya) [bhedinī](bhedinī) [with-mudrā](mudrayā) [should-chant](japet)
+[vivara+dvāram](vivaradvāram) [āśritya](āśritya) [bhedinī](bhedinī) [mudrayā](mudrayā) [japet](japet)
 
 ## mukta-m0-p22-v534
-[terrified](santrastā) [on-exit](nirgame) [quickly](kṣipraṃ) [girl](kanyā) [pātāla+dwelling](pātālavāsinī)
+[santrastā](santrastā) [nirgame](nirgame) [kṣipram](kṣipraṃ) [kanyā](kanyā) [pātāla+vāsinī](pātālavāsinī)
 
 ## mukta-m0-p22-v535
-[divine+refuge](divyāśraye) [should-chant](japenmantrī) [mantrin](mantrī) [succeeds](siddhyate) [not](nātra) [here](atra) [doubt](saṃśayaḥ)
+[divya+āśraye](divyāśraye) [japet](japet) [mantrī](mantrī) [siddhyate](siddhyate) [na](nātra) [atra](atra) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p22-v536
-[sādhaka](sādhakaḥ) [steady+mind](sthiracittastu) [but](tu) [uninjured+limb+corpse+upon](akṣatāṅgaśavopari)
+[sādhakaḥ](sādhakaḥ) [sthira+cittaḥ](sthiracittastu) [tu](tu) [akṣata+aṅga+śava+upari](akṣatāṅgaśavopari)
 
 ## mukta-m0-p22-v537
-[in-instant](kṣaṇānniṣkamate) [emerges](niṣkamate) [tongue](jihvā) [sword](khaḍgaścā) [and](ca) [pill](guṭikātha) [or](vā)
+[kṣaṇāt](kṣaṇānniṣkamate) [niṣkamate](niṣkamate) [jihvā](jihvā) [khaḍgaḥ](khaḍgaścā) [ca](ca) [guṭikā](guṭikātha) [atha](atha) [vā](vā)
 
 ## mukta-m0-p22-v538
-[invisibility](antardhānī) [would-be](bhavet) [innate+enemy+division](sahijavairbheda) [he](sa) [is-seen](dṛśyate)
+[antardhānī](antardhānī) [bhavet](bhavet) [sahi](sahijavairbheda) [java](java) [bheda](bheda) [sa](sa) [dṛśyate](dṛśyate)
 
 ## mukta-m0-p22-v539
-[that](taccakṣurañjaneryuktaṃ) [eye+collyrium](cakṣurañjanena) [joined](yuktaṃ) [grasping](grahaṇaṃ) [perfected+collyrium](siddhamañjanam)
+[tat](taccakṣurañjaneryuktaṃ) [cakṣuḥ](cakṣuḥ) [añjanena](añjanena) [yuktaṃ](yuktaṃ) [grahaṇam](grahaṇaṃ) [siddham](siddhamañjanam) [añjanam](añjanam)
 
 ## mukta-m0-p22-v540
-[bhedinī](bhedinīṃ) [should-bind](vandhayen) [mantrin](mantrī) [should-chant](japedaṣṭaśataṃ) [eight+hundred](aṣṭaśataṃ) [then](tadā)
+[bhedinīm](bhedinīṃ) [bandhayet](vandhayen) [mantrī](mantrī) [japet](japedaṣṭaśataṃ) [aṣṭa+śatam](aṣṭaśataṃ) [tadā](tadā)
 
 ## mukta-m0-p22-v541
-[fire+channel](agnināḍīniruddhā) [restrained](niruddhā) [but](tu) [abdomen+going](koṣṭhagā) [seed+joined](vījasaṃyutā)
+[agni+nāḍī](agnināḍīniruddhā) [niruddhā](niruddhā) [tu](tu) [koṣṭha+gā](koṣṭhagā) [bīja+saṃyutā](vījasaṃyutā)
 
 ## mukta-m0-p22-v542
-[de-seeding+making](nirvījīkaraṇaṃ) [indeed](hyetad) [this](etad) [tree](vṛkṣaṃ) [dries](śoṣayate) [in-instant](kṣaṇāt)
+[nirvījīkaraṇam](nirvījīkaraṇaṃ) [hi](hyetad) [etat](etat) [vṛkṣam](vṛkṣaṃ) [śoṣayate](śoṣayate) [kṣaṇāt](kṣaṇāt)
 
 ## mukta-m0-p22-v543
-[sky+standing](vyomasthaṃ) [but](tu) [should-chant](japeddhyetajjapāṣṭa) [meditate](dhyeta) [japa+eight+hundred+count](japāṣṭaśatasaṃkhyayā)
+[vyoma+stham](vyomasthaṃ) [tu](tu) [japet](japeddhyetajjapāṣṭa) [dhyāyet](dhyetajjapāṣṭa) [etat](etat) [japa+aṣṭa+śata+saṃkhyayā](japāṣṭaśatasaṃkhyayā)
 
 ## mukta-m0-p22-v544
-[nectar](amṛtaṃ) [sky+going](vyomagaṃ) [having-made](kṛtvā) [that+instant](tatkṣaṇā'pyāyanaṃ) [rejuvenation](āpyāyanaṃ) [would-be](bhavet)
+[amṛtam](amṛtaṃ) [vyoma+gaṃ](vyomagaṃ) [kṛtvā](kṛtvā) [tat+kṣaṇāt](tatkṣaṇā'pyāyanaṃ) [āpyāyanam](āpyāyanam) [bhavet](bhavet)
 
 ## mukta-m0-p22-v545
-[restrained](niruddho) [wind](marutaḥ) [movement](saṃcāraḥ) [other+kingdom](pararāṣṭrasya) [facing](sanmukham)
+[niruddhaḥ](niruddho) [marutaḥ](marutaḥ) [saṃcāraḥ](saṃcāraḥ) [para+rāṣṭrasya](pararāṣṭrasya) [sanmukham](sanmukham)
 
 ## mukta-m0-p22-v546
-[should-peg](kīlayet) [should-stupefy](stambhayet) [all](sarvaṃ) [motionless](niśceṣṭaṃ) [strength+deprived](balavarjitam)
+[kīlayet](kīlayet) [stambhayet](stambhayet) [sarvam](sarvaṃ) [niśceṣṭam](niśceṣṭaṃ) [bala+varjitam](balavarjitam)
 
 ## mukta-m0-p22-v547
-[by-one](ekayā) [exit](nirgamo) [mantrin](mantrī) [vajratuṇḍā](vajratuṇḍā) [but](tu) [should-bind](bandhayet)
+[ekayā](ekayā) [nirgamaḥ](nirgamo) [mantrī](mantrī) [vajra+tuṇḍā](vajratuṇḍā) [tu](tu) [bandhayet](bandhayet)
 
 ## mukta-m0-p22-v548
-[ghost+departed](bhūtapreta) [of-piśācas](piśācānāṃ) [of-fanged](daṃṣṭriṇāṃ) [and](ca) [for-restraint](nigrahe)
+[bhūta+preta](bhūtapreta) [piśācānām](piśācānāṃ) [daṃṣṭriṇām](daṃṣṭriṇāṃ) [ca](ca) [nigrahe](nigrahe)
 
 ## mukta-m0-p22-v549
-[īśa](īśaḥ) [śakti](śaktiḥ) [bird](khago) [viṣṇu](viṣṇuḥ) [śiva](śivaścaiva) [and](ca) [indeed](eva) [sadāśiva](sadāśivaḥ)
+[īśaḥ](īśaḥ) [śaktiḥ](śaktiḥ) [khagaḥ](khago) [viṣṇuḥ](viṣṇuḥ) [śivaḥ](śivaścaiva) [ca](ca) [eva](eva) [sadāśivaḥ](sadāśivaḥ)
 
 ## mukta-m0-p22-v550
-[nāga+planets](nāgāgrahāṃstathā) [also](tathā) [clouds](meghānānayeṣṭa) [should-bring](ānayet) [desired+hundred](iṣṭaśatena) [but](tu)
+[nāga+agrahān](nāgāgrahāṃstathā) [tathā](tathā) [meghān](meghān) [ānayeṣṭa](ānayeṣṭa) [śatena](śatena) [tu](tu)

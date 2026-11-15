@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[this](ayaṃ) [mantra-group](mantragaṇaḥ) [siddhi](siddhiḥ) [abandon](tyaja) [and](ca) [other](anyaṃ) [like-chaff](palālavat)
+[this](ayaṃ) [mantra+group](mantragaṇaḥ) [accomplishment](siddhiḥ) [abandon](tyaja) [and](ca) [other](anyaṃ) [straw+like](palālavat)
 
 ## mukta-m0-p07-v152
-[thus-beginning](ityādye) [in-troṭala](troṭale) [great-tantra](mahātantre) [tvaritā-root-sūtra](tvaritāmūlasūtre) [second](dvitīyaḥ) [chapter](paṭalaḥ)
+[thus+beginning](ityādye) [in+Troṭala](troṭale) [great+tantra](mahātantre) [Tvaritā-root-sūtra](tvaritāmūlasūtre) [second](dvitīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p07-v153
-[three-palms](tālatrayaṃ) [with-sound](saśabdantu) [with-index-finger](tarjanyā) [threaten](tarjayed) [direction](diśam)
+[three+claps](tālatrayaṃ) [with+sound](saśabdantu) [with+index+finger](tarjanyā) [threaten](tarjayet) [direction](diśam)
 
 ## mukta-m0-p07-v154
-[upward](ūrddhvādho) [downward](adhodakṣiṇaṃ?) [right](dakṣiṇaṃ) [left](vāmā) [mantrin](mantrī) [weapon](cāstraṃ) [should-recite](samuccaret)
+[up+down](ūrddhvādho) [right](dakṣiṇaṃ) [left](vāmā) [mantrin](mantrī) [and](ca) [weapon](astraṃ) [utter](samuccaret)
 
 ## mukta-m0-p07-v155
-[placing](vinyasya) [in-hands](karayoḥ) [mantrin](mantrī) [in-directions](diśāsu) [and-intermediate-directions](vidiśāsu) [and](ca)
+[placing](vinyasya) [in+hands](karayoḥ) [mantrin](mantrī) [in+directions](diśāsu) [in+intermediate+directions](vidiśāsu) [and](ca)
 
 ## mukta-m0-p07-v156
-[secret-limb](guhyāṅgaṃ) [first](prathamaṃ) [placing](nyasya) [heart](hṛdayaṃ) [in-kanyā](kanyase) [place](nyaset)
+[secret+limb](guhyāṅgaṃ) [first](prathamaṃ) [placing](nyasya) [heart](hṛdayaṃ) [in+vagina](kanyase) [place](nyaset)
 
 ## mukta-m0-p07-v157
-[eldest](jyeṣṭhe) [but](tu) [armor](kavacaṃ) [join](yojyaṃ) [eye](netraṃ) [in-palm](hastatale) [place](nyaset)
+[in+eldest](jyeṣṭhe) [but](tu) [armor](kavacaṃ) [to+be+joined](yojyaṃ) [eye](netraṃ) [in+palm](hastatale) [place](nyaset)
 
 ## mukta-m0-p07-v158
-[messengers](dūtayaśca) [and](tathā) [join](yojyā) [from-eldest](jyeṣṭhādārabhya) [facing](saṃmukhāḥ)
+[messengers](dūtayaḥ) [and](ca) [thus](tathā) [to+be+joined](yojyā) [from+eldest](jyeṣṭhādārabhya) [facing](saṃmukhāḥ)
 
 ## mukta-m0-p07-v159
-[pana](panastu) [root-vidyā](mūlavidyāṃ) [tu](tu) [in-nails-shells](nakhaśuktiṣu) [place](vinyaset)
+[but](panastu) [root+vidyā](mūlavidyāṃ) [but](tu) [in+nails+shells](nakhaśuktiṣu) [place](vinyaset)
 
 ## mukta-m0-p07-v160
-[from-feet](pādādārabhya) [to-head](mūrddhāntaṃ) [from-head](śirādārabhya) [to-feet](pādayoḥ)
+[from+feet](pādādārabhya) [to+head](mūrddhāntaṃ) [from+head](śirādārabhya) [to+feet](pādayoḥ)
 
 ## mukta-m0-p07-v161
-[vidyā-limbs](vidyāṅgāni) [then](tato) [placing](nyasya) [direction-garment](digvastraṃ) [employ](viniyojayet)
+[vidyā+limbs](vidyāṅgāni) [then](tato) [placing](nyasya) [direction+cloth](digvastraṃ) [employ](viniyojayet)
 
 ## mukta-m0-p07-v162
-[batka-maṇḍala-head-end](vatkamaṇḍalamūrddhāntam) [down-up](adhorddhvaṃ) [and](ca) [from-first-seed](ādi+bījataḥ)
+[circle+head+end](vatkamaṇḍalamūrddhāntam) [down+up](adhorddhvaṃ) [and](ca) [beginning](ādi) [from+seed](bījataḥ)
 
 ## mukta-m0-p07-v163
-[with-outer-inner](savāhyābhyantaraṃ) [obstacles](vighnāndhvaṃ) [he](sa) [māyā](māyānti) [at-that-moment](tatkṣaṇāt)
+[with+outer+inner](savāhyābhyantaraṃ) [obstacles](vighnān) [destroy](dhvaṃ) [he](sa) [māyā](māyā) [go](anti) [in+that+moment](tatkṣaṇāt)
 
 ## mukta-m0-p07-v164
-[nyāsa](nyāsaṃ) [should-do](kuryād) [as-stated](yathoktaṃ) [tu](tu) [then-inside](tatontaḥ) [action](karaṇa) [do](kuru)
+[nyāsa](nyāsaṃ) [do](kuryāt) [as+spoken](yathoktaṃ) [but](tu) [then+inside](tatontaḥ) [action](karaṇa) [do](kuru)
 
 ## mukta-m0-p07-v165
-[entering](viśantaṃ) [through-brahmarandhra](brahmarandhreṇa) [sādhaka](sādhakastu) [should-contemplate](vicintayet)
+[entering](viśantaṃ) [through+brahma+aperture](brahmarandhreṇa) [sādhaka](sādhakaḥ) [but](tu) [contemplate](vicintayet)
 
 ## mukta-m0-p07-v166
-[head](mūrddhāsya) [throat](kaṇṭha) [heart](hṛt) [navel](nābhai) [secret](guhya) [thigh](ūru) [knee](jānu) [calf](jaṃghayoḥ)
+[head](mūrddhā) [mouth](āsya) [throat+heart+navel](kaṇṭhahṛnnābhau) [secret+thigh+knee](guhyorujānu) [calves](jaṃghayoḥ)
 
 ## mukta-m0-p07-v167
-[in-fingers](aṅgulīṣu) [as-stated](yathokteṣu) [seeds](vījāni) [limbs](aṅgāni) [join](yojayet)
+[in+fingers](aṅgulīṣu) [as+spoken](yathokteṣu) [seeds](vījāni) [limbs](aṅgāni) [join](yojayet)
 
 ## mukta-m0-p07-v168
-[upward](ūrddhva) [soma](somādadhaḥ) [downward](padmaṃ) [body](śarīraṃ) [seed-form](vījavigraham)
+[up](ūrddhva) [soma](somāt) [down](adhaḥ) [lotus](padmaṃ) [body](śarīraṃ) [seed+form](vījavigraham)
 
 ## mukta-m0-p07-v169
-[no-death](na+mṛtyuḥ) [no-old-age](na+jarā) [no-disease](na+vyādhiḥ) [no-harmers](na+hiṃsakāḥ)
+[not](na) [death](mṛtyuḥ) [not+old+age](najarātasya) [not](na) [disease](vyādhiḥ) [not](na) [and](ca) [harmers](hiṃsakāḥ)
 
 ## mukta-m0-p07-v170
-[wing-shaped](pakṣākāro) [hands](karau) [making](kṛtvā) [strike](choṭhayet) [with-five-nails](pañcabhir+nakhaiḥ)
+[wing+form](pakṣākāro) [hands](karau) [making](kṛtvā) [snap](choṭhayet) [with+five](pañcabhiḥ) [nails](nakhaiḥ)
 
 ## mukta-m0-p07-v171
-[horse-mounted](aśvārūḍhā) [radiant](sudīptāśca) [maidens](kumāryobhinna) [split-breasts](cūcukāḥ)
+[horse+mounted](aśvārūḍhā) [bright](sudīptāḥ) [and](ca) [maidens](kumāryaḥ) [split](obhinna) [breasts](cūcukāḥ)
 
 ## mukta-m0-p07-v172
-[sword-shield-bearers](khaṅgakheṭakadhāriṇyā) [with-own-weapon](svāstram) [lotus-handed](ambhojapāṇayaḥ)
+[sword+shield+bearing](khaṅgakheṭakadhāriṇyā) [own+weapon](svāstram) [lotus+handed](ambhojapāṇayaḥ)
 
 ## mukta-m0-p07-v173
-[bound-armor-girdles](nibaddhavarmakakṣāstu) [snake-king-upper-garments](bhujagendrottarīyakāḥ)
+[bound+armor+waist](nibaddhavarmakakṣāḥ) [but](tu) [serpent+lord+upper+garment](bhujagendrottarīyakāḥ)
 
 ## mukta-m0-p07-v174
-[placing](nyasitvā) [ca](cādi) [in-feet](pādeṣu) [second](dvitīyā) [in-calves](jaṃghayornyaset)
+[placing](nyasitvā) [and](ca) [beginning](ādi) [in+feet](pādeṣu) [second](dvitīyā) [in+calves](jaṃghayoḥ) [place](nyaset)
 
 ## mukta-m0-p07-v175
-[fifth](pañcamī) [in-secret-place](guhyadeśe) [tu](tu) [sixth](ṣaṣṭhī) [in-navel](nābhau) [ca](ca) [place](vinyaset)
+[fifth](pañcamī) [in+secret+place](guhyadeśe) [but](tu) [sixth](ṣaṣṭhī) [in+navel](nābhau) [and](ca) [place](vinyaset)

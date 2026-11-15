@@ -3,29 +3,44 @@
  "verse": 475,
  "rows": [
   {
-   "lemma": "sarvarakṣākarī",
-   "morph": "f.nom.sg",
-   "grounds": "compound sarva-rakṣā-karī, all-protection-making"
-  },
-  {
-   "lemma": "hi",
+   "lemma": "śatam",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "numeral modifying naraḥ"
   },
   {
-   "lemma": "eṣā",
-   "morph": "f.nom.sg",
-   "grounds": "demonstrative pronoun referring to kuntamudrā"
+   "lemma": "naraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "agent of kurute"
   },
   {
-   "lemma": "kuntamudrā",
-   "morph": "f.nom.sg",
-   "grounds": "compound kunta-mudrā"
+   "lemma": "yaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "relative pronoun referring to naraḥ"
   },
   {
-   "lemma": "samīritā",
-   "morph": "f.nom.sg",
-   "grounds": "past participle of sam-īr"
+   "lemma": "savilāsinīnām",
+   "morph": "f.gen.pl",
+   "grounds": "genitive plural feminine; modifies retaḥ"
+  },
+  {
+   "lemma": "retaḥ",
+   "morph": "n.nom.sg",
+   "grounds": "object of prapātam"
+  },
+  {
+   "lemma": "prapātam",
+   "morph": "m.acc.sg",
+   "grounds": "accusative object of kurute"
+  },
+  {
+   "lemma": "kurute",
+   "morph": "3.sg.mid-pres (kṛ)",
+   "grounds": "middle voice present of kṛ"
+  },
+  {
+   "lemma": "haṭhena",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental of manner"
   }
  ]
 }

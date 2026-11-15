@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[thus-indeed](tathaiva) [of-mantra](mantrasya) [and](ca) [to-be-known](veditavyaṃ) [other-birth](jātyantaraṃ) [indeed](hi) [by-one-form](ekamenaka) [form](rūpam)
+[tathaiva](tathaiva) [mantrasya](mantrasya) [ca](ca) [veditavyam](veditavyam) [jātyantaram](jātyantaram) [hy](hy) [ekam](ekam) [enaka](enaka) [rūpam](rūpam)
 
 ## mukta-m0-p08-v177
-[that-natured](tadātmaka) [remembered](smṛtā) [indeed](hi) [limbs](aṅgā) [external-placed](bahirāhita) [two-part-removers](dvibhāgahāḥ)
+[tadātmaka](tadātmaka) [smṛtā](smṛtā) [hy](hy) [aṅgā](aṅgā) [bahirāhita](bahirāhita) [dvibhāgahāḥ](dvibhāgahāḥ)
 
 ## mukta-m0-p08-v178
-[such-also](tādṛśopyupacārastu) [worship](upacāraḥ) [but](tu) [according-to-mantra-deity](mantradevānurūpataḥ)
+[tādṛśa](tādṛśa) [upacāra](upacāra) [tu](tu) [mantra-deva-anurūpataḥ](mantradevānurūpataḥ)
 
 ## mukta-m0-p08-v179
-[thus](tathā) [formed](rūpo) [becomes](bhaven) [mantra](mantraḥ) [then](tataḥ) [work-accomplishes](karmaprasādhayet)
+[tathā](tathā) [rūpa](rūpa) [bhavet](bhavet) [mantra](mantra) [tataḥ](tataḥ) [karma-prasādhayet](karmaprasādhayet)
 
 ## mukta-m0-p08-v180
-[all-refuge](sarvopāśraya) [endowed](sampannaṃ) [crystal](sphaṭiko) [like-pebble](kopalavadyathā)
+[sarva-upāśraya](sarvopāśraya) [sampannam](sampannaṃ) [sphaṭika](sphaṭiko) [kopalavat](kopalavadyathā)
 
 ## mukta-m0-p08-v181
-[all-knowing](sarvajñaḥ) [all-pervading](sarvagaścaiva) [all-formed](sarvarūpa) [indeed-he](mayo hi saḥ)
+[sarvajñaḥ](sarvajñaḥ) [sarvagaḥ](sarvagaścaiva) [ca](ca) [eva](eva) [sarvarūpa-maya](sarvarūpa+mayo) [hi](hi) [saḥ](saḥ)
 
 ## mukta-m0-p08-v182
-[disease-free](nirāmayaṃ) [support-free](nirādhāraṃ) [color-form](varṇarūpa) [devoid](vivarjitam)
+[nirāmayaṃ](nirāmayaṃ) [nirādhāraṃ](nirādhāraṃ) [varṇa-rūpa](varṇarūpa) [vivarjitam](vivarjitam)
 
 ## mukta-m0-p08-v183
-[beyond-senses](atīndriyo) [supportless](nirālambaḥ) [very-subtle](susūkṣmaḥ) [eternal](śāśvato) [pain](vyathaḥ)
+[atīndriyaḥ](atīndriyo) [nirālambaḥ](nirālambaḥ) [susūkṣmaḥ](susūkṣmaḥ) [śāśvataḥ](śāśvato) [vyathaḥ](vyathaḥ)
 
 ## mukta-m0-p08-v184
-[formless](niraupaumyau) [measurable](prameyaśca) [supreme-self](parātmā) [proclaimed](prakīrtitaḥ)
+[niraupaumyau](niraupaumyau) [prameyaḥ](prameyaśca) [ca](ca) [parātmā](parātmā) [prakīrtitaḥ](prakīrtitaḥ)
 
 ## mukta-m0-p08-v185
-[one-way](ekadhā) [many-way](bahudhā) [and-indeed](caiva) [thus-indeed](tathaiva) [attains](pratipadyate)
+[ekadhā](ekadhā) [bahudhā](bahudhā) [ca](ca) [eva](eva) [tathā](tathā) [eva](eva) [pratipadyate](pratipadyate)
 
 ## mukta-m0-p08-v186
-[all-desires-giving](sarvakāmaprado) [indeed-self](hyātmā) [spoken](proktaṣṣaḍbheda) [six-fold-expansion](ṣaḍbheda vistaraḥ)
+[sarva-kāma-pradaḥ](sarvakāmaprado) [hy](hy) [ātmā](ātmā) [prokta](proktaṣṣaḍbheda) [ṣaḍ-bheda](ṣaḍbheda) [vistaraḥ](vistaraḥ)
 
 ## mukta-m0-p08-v187
-[mantra-self](mantrātmā) [supreme-named](paramākhyāśca) [one-also](ekopi) [many-way](bahudhā) [stands](sthitaḥ)
+[mantrātmā](mantrātmā) [paramākhyāḥ](paramākhyāśca) [ca](ca) [ekaḥ](ekaḥ) [api](api) [bahudhā](bahudhā) [sthitaḥ](sthitaḥ)
 
 ## mukta-m0-p08-v188
-[mantra-self](mantrātmā) [mantra](mantraṃ) [who](yo) [to-be-known](jñeyo) [indeed](hi) [inner-self](antarātmā) [with-speech](girānvitaḥ)
+[mantrātmā](mantrātmā) [mantraṃ](mantraṃ) [yaḥ](yo) [jñeyaḥ](jñeyo) [hy](hy) [antarātmā](antarātmā) [girā-anvitaḥ](girānvitaḥ)
 
 ## mukta-m0-p08-v189
-[having-conquered](jitvā) [own-world](svabhuvanaṃ) [of-them](teṣāmebhirmuktaḥ) [supreme](parastuḥ)
+[jitvā](jitvā) [svabhuvanaṃ](svabhuvanaṃ) [teṣām](teṣāmebhirmuktaḥ) [ebhiḥ](ebhiḥ) [muktaḥ](muktaḥ) [paraḥ](parastuḥ) [tuḥ](tuḥ)
 
 ## mukta-m0-p08-v190
-[obtained-also](prāptopi) [he](sa) [two-fold](dvidhā) [becomes](bhāvi) [again-birth](punarbhāvamavāpnuyāt)
+[prāptaḥ](prāptopi) [api](api) [saḥ](saḥ) [dvidhā](dvidhā) [bhāvi](bhāvi) [punarbhāvam](punarbhāvam) [avāpnuyāt](avāpnuyāt)
 
 ## mukta-m0-p08-v191
-[truth-separation](tatvaviśleṣa) [at-time](kāle) [and](cādvaitaṃ) [attains](pratipadyate)
+[tatva-viśleṣa](tatvaviśleṣa) [kāle](kāle) [ca](cādvaitaṃ) [advaitaṃ](advaitaṃ) [pratipadyate](pratipadyate)
 
 ## mukta-m0-p08-v192
-[of-one](ekasya) [many-names](bahunāmāni) [separate-become](pṛthagbhūtānya) [by-millions](koṭibhiḥ)
+[ekasya](ekasya) [bahunāmāni](bahunāmāni) [pṛthagbhūtāni](pṛthagbhūtānya) [koṭibhiḥ](koṭibhiḥ)
 
 ## mukta-m0-p08-v193
-[as-manifested](yathābhivyajyate) [knowledge](jñānaṃ) [pure](vimalaṃ) [all-faced](sarvatomukham)
+[yathābhivyajyate](yathābhivyajyate) [jñānaṃ](jñānaṃ) [vimalaṃ](vimalaṃ) [sarvatomukham](sarvatomukham)
 
 ## mukta-m0-p08-v194
-[i-indeed](ahameva) [supreme-indeed-self](parohyātmā) [person](puruṣaḥ) [cause](kāraṇaḥ) [remembered](smṛtaḥ)
+[aham](ahameva) [eva](eva) [paraḥ](parohyātmā) [hy](hy) [ātmā](ātmā) [puruṣaḥ](puruṣaḥ) [kāraṇaḥ](kāraṇaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p08-v195
-[all](sarve) [destruction-absence](vināśakābhāvāṃ) [mind](mana) [indeed](eva) [various](pṛthagvidhāḥ)
+[sarve](sarve) [vināśakābhāvāṃ](vināśakābhāvāṃ) [manaḥ](mana) [eva](eva) [pṛthagvidhāḥ](pṛthagvidhāḥ)
 
 ## mukta-m0-p08-v196
-[yoga-renounced](yogasaṃnyasta) [action](karmāyo) [knowledge-resolved](jñānasaṃbhinna) [doubt](saṃśayaḥ)
+[yoga-saṃnyasta](yogasaṃnyasta) [karmāyaḥ](karmāyo) [jñāna-saṃbhinna](jñānasaṃbhinna) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p08-v197
-[meaning-objects](padārthāneka) [complete](sampūrṇa) [all-speech](sarvavāṅmaya) [means](sādhanam)
+[padārthān](padārthāneka) [eka](eka) [sampūrṇa](sampūrṇa) [sarva-vāṅmaya](sarvavāṅmaya) [sādhanam](sādhanam)
 
 ## mukta-m0-p08-v198
-[who-that](yo'sāvatīndriyo) [beyond-senses](atīndriyo) [graspable](grāhyastatvātīto) [beyond-truth](tatvātīto) [stainless](niraṃjanaḥ)
+[yaḥ](yo'sāvatīndriyo) [asāva](asāva) [atīndriyaḥ](atīndriyo) [grāhyaḥ](grāhyastatvātīto) [tatva-atītaḥ](tatvātīto) [niraṃjanaḥ](niraṃjanaḥ)
 
 ## mukta-m0-p08-v199
-[therefore-scripture](tasmācchāstraṃ) [exited](viniṣkrāntaṃ) [not-sound-form](nādarūpaṃ) [disease-free](nirāmayam)
+[tasmāt](tasmācchāstraṃ) [śāstraṃ](śāstraṃ) [viniṣkrāntaṃ](viniṣkrāntaṃ) [nāda-rūpaṃ](nādarūpaṃ) [nirāmayam](nirāmayam)
 
 ## mukta-m0-p08-v200
-[supreme-making](paramīkaraṇaṃ) [and-indeed](caiva) [speak](brūhi) [in-truth](tatvena) [shankara](śaṅkara)
+[paramīkaraṇaṃ](paramīkaraṇaṃ) [ca](ca) [eva](eva) [brūhi](brūhi) [tatvena](tatvena) [śaṅkara](śaṅkara)

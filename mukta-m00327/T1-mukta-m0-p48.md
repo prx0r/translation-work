@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[by-pāśupata](pāśupatena) [and-by-weapon](cāstreṇa) [dawn](uṣā) [form](rūpa) [bearing](dharā) [struck](hatāḥ)
+[by-pāśupata](pāśupatena) [and-by-weapon](cāstreṇa) [uṣā-form-bearer-struck](uṣārūpadharāhatāḥ)
 
 ## mukta-m0-p48-v1177
-[then-upward](tatordhvānaṃ) [let-one-make](prakurvīta) [of-śiva](śivasya) [of-supreme-soul](paramātmanaḥ)
+[then-upward](tatordhvānaṃ) [should-make](prakurvīta) [of-śiva](śivasya) [supreme-soul](paramātmanaḥ)
 
 ## mukta-m0-p48-v1178
-[having-worshipped](abhyarcya) [with-five](pañcabhir) [brahmans](brahmaiś) [to-caṇḍeśa](caṇḍeśāya) [let-one-offer](nivedayet)
+[having-worshipped](abhyarcya) [with-five-brahmans](pañcabhirbrahmaiḥ) [to-caṇḍeśa](caṇḍeśāya) [should-offer](nivedayet)
 
 ## mukta-m0-p48-v1179
-[in-right-hand](kareṇa+dakṣiṇe) [not-indeed](naiva) [remnants](nirmālyaṃ) [always](satataṃ) [wise-one](budhaḥ)
+[by-right-hand](kareṇa) [indeed-not](naiva) [leftover-flowers](nirmālyaṃ) [always](satataṃ) [wise-man](budhaḥ)
 
 ## mukta-m0-p48-v1180
-[not-touching](naśranya) [head](mastakaṃ) [liṅga](liṅgaṃ) [having-made](kṛtvā) [let-stand](tiṣṭhet) [sādhaka](sādhakaḥ)
+[not-head](naśranya) [head](mastakaṃ) [liṅga](liṅgaṃ) [having-made](kṛtvā) [should-stand](tiṣṭhet) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p48-v1181
-[with-index-finger](tarjanyā) [let-threaten](tarjayed) [obstacles](vighnān) [presence](sānnidhyaṃ) [liṅga-mudrā](liṅgamudrayā)
+[with-index-finger](tarjanyā) [should-threaten](tarjayed) [obstacles](vighnān) [presence](sānnidhyaṃ) [by-liṅga-mudrā](liṅgamudrayā)
 
 ## mukta-m0-p48-v1182
-[having-washed](saṃprakṣālya) [hands](karau) [mantrin](mantrī) [having-touched](spṛṣṭvā) [liṅga](liṃgaṃ) [again-and-again](punaḥ+punaḥ)
+[washing](saṃprakṣālya) [hands](karau) [mantra-reciter](mantrī) [touching](spṛṣṭvā) [liṅga](liṃgaṃ) [again-and-again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p48-v1183
-[having-moved](cālayitvā) [but](tu) [from-that-place](tatsthānāt) [back-side](pṛṣṭhadeśe) [let-place](nidhāpayet)
+[having-moved](cālayitvā) [but](tu) [from-that-place](tatsthānāt) [at-back-place](pṛṣṭhadeśe) [should-deposit](nidhāpayet)
 
 ## mukta-m0-p48-v1184
-[earthen](mṛṇmaye) [earthen-indeed](mṛṇmayaṃ) [and](caiva) [in-jewel](ratne) [jewel](ratnaṃ) [let-employ](niyojayet)
+[in-clay](mṛṇmaye) [clay](mṛṇmayaṃ) [and-indeed](caiva) [in-jewel](ratne) [jewel](ratnaṃ) [should-employ](niyojayet)
 
 ## mukta-m0-p48-v1185
-[by-previously-stated](pūrvoktena) [rite](vidhānena) [with-effort](prayatnena) [but](tu) [let-establish](sthāpayet)
+[by-previously-said-rite](pūrvoktena) [with-effort](prayatnena) [but](tu) [should-establish](sthāpayet)
 
 ## mukta-m0-p48-v1186
-[demons](rakṣo) [spirits](bhūta) [piśācas](pīśācāśca) [refuge](āśrayaṃ) [condemned](nivigarhitam)
+[rakṣas](rakṣo) [bhūta](bhūta) [and-piśāca](pīśācāśca) [refuge](āśrayaṃ) [condemned](nivigarhitam)
 
 ## mukta-m0-p48-v1187
-[nimusta](nimustaṃ) [base](bodhna) [let-make](taṃ+kuryād) [for-water](vārārthaṃ) [not-transgress](na+vyatikramet)
+[nimusta](nimustaṃ) [base](bodhna) [that](taṃ) [should-make](kuryād) [for-water-purpose](vārārthaṃ) [not-transgress](na) [vyatikramet]
 
 ## mukta-m0-p48-v1188
-[southern](yāmyāṃ) [or](vā) [western](paścimāṃ) [or-indeed](vāpi) [thread-one](sūtramekaṃ) [let-abandon](parityajet)
+[in-south](yāmyāṃ) [or](vā) [in-west](paścimāṃ) [or-indeed](vāpi) [thread-one](sūtramekaṃ) [should-abandon](parityajet)
 
 ## mukta-m0-p48-v1189
-[having-abandoned](utsṛjya) [scriptural](śāstroktaṃ) [rite](vidhim) [even-devoted](bhaktiyuktopi) [man](mānavaḥ)
+[scripture-stated-rite](śāstroktaṃ) [abandoning](vidhimutsṛjya) [devotion-joined](bhaktiyukto) [even](pi) [man](mānavaḥ)
 
 ## mukta-m0-p48-v1190
-[by-scripture-taught](śāstropadiṣṭamārgeṇa) [ghee](ghṛ) [not](nā) [oblations](hutibhiḥ) [in-order](kramāt)
+[by-scripture-taught-path](śāstropadiṣṭamārgeṇa) [ghee](ghṛ) [oblations](nāhutibhiḥ) [in-order](kramāt)
 
 ## mukta-m0-p48-v1191
-[let-draw-out-or](duddharedvāpi) [former](pūrva) [by-thread](sūtreṇa) [mantra-knower](mantravit)
+[should-remove](duddharedvāpi) [previous](pūrva) [thread](sūtreṇa) [mantra-knower](mantravit)
 
 ## mukta-m0-p48-v1192
-[with-curd-milk-ghee](dadhi+kṣīra+ghṛtaiḥ) [having-bathed](snāpya) [that-liṅga](tatoliṃgaṃ) [let-dry](virukṣayet)
+[with-curd-milk-ghee](dadhi) [bathing](snāpya) [that-liṅga](tatoliṃgaṃ) [should-dry](virukṣayet)
 
 ## mukta-m0-p48-v1193
-[with-barks](tvak+bhiśca) [various](vividhair) [sweet](maddhaiḥ) [from-milk-trees](kṣīravṛkṣasamudbhavaiḥ)
+[barks](tvak) [and](bhiśca) [various](vividhairmaddhaiḥ) [from-milk-trees-arisen](kṣīravṛkṣasamudbhavaiḥ)
 
 ## mukta-m0-p48-v1194
-[with-barley](yavaiḥ) [with-siddhārthaka](siddhārthakaiḥ) [joined](ryuktaṃ) [afterward](paścād) [arghya](arghyaṃ) [let-give](pradāpayet)
+[with-barley-and-mustard](yavaiḥ) [joined](siddhārthakaiḥryuktaṃ) [afterwards-arghya](paścādarghyaṃ) [should-give](pradāpayet)
 
 ## mukta-m0-p48-v1195
-[food](bhakṣya) [eatables](bhojyānna) [drink-etc](pānādi) [by-these](dyaiś) [let-contemplate](cintayed) [bindu-īśvara](bindumīśvaram)
+[edible](bhakṣya) [food](bhojyānna) [drink-etc](pānādi) [with-these](dyaiścintayedbindumīśvaram)
 
 ## mukta-m0-p48-v1196
-[with-śakti](śaktiyuktaṃ) [supreme](paraṃ) [god](deva) [by-me](mayā) [borne](bhṛtaṃ) [six-faced](ṣaḍānana)
+[śakti-joined](śaktiyuktaṃ) [supreme-god](paraṃ) [by-me-borne](mayā) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p48-v1197
-[all-knowing](sarvajñaḥ) [all-pervading](sarvagaś) [peaceful](śānto) [liberated](mūkto) [liberated](mūkto) [diseaseless](nirāmayaḥ)
+[all-knowing](sarvajñaḥ) [all-pervading](sarvagaśśānto) [peaceful](mūkto) [liberated](mūkto) [diseaseless](nirāmayaḥ)
 
 ## mukta-m0-p48-v1198
-[pure](meddhyāni) [but](tu) [from-that](bhaṃtihatasmāt) [everywhere](sarvatra) [let-employ](yojayet)
+[pure-things](meddhyāni) [but](tu) [from](bhaṃtihatasmāt) [everywhere](sarvatra) [should-employ](yojayet)
 
 ## mukta-m0-p48-v1199
 [of-śiva](śivasya) [by-śiva-mantra](śivamantreṇa) [thousand](sahasra) [count](parisaṃkhyayā)
 
 ## mukta-m0-p48-v1200
-[for-that-purpose](tasyārthena) [outside](bahiḥ) [afterward](paścāt) [image-homa](mūrti+homaṃ) [let-perform](samācaret)
+[for-that-purpose](tasyārthena) [outside](bahiḥ) [afterwards](paścāt) [image-homa](mūrti) [should-perform](homaṃ) [samācaret]

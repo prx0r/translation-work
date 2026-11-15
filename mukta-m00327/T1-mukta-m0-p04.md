@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[vijñāta](vijñāta) [śāśvata](śāśvata) [śuddhaḥ](śuddhassa) [śivaḥ](śivo) [na](nātra) [atra](atra) [saṃśayaḥ](saṃśayaḥ)
+known-eternal-pure-he(vijñāta+śāśvata+śuddhaḥ+sa) shiva(śivaḥ) no-here(na+atra) doubt(saṃśayaḥ)
 
 ## mukta-m0-p04-v77
-[parāpara](parāpara) [vibhāgena](vibhāgena) [sthūla](sthūla) [sūkṣma](sūkṣma) [vibhāgaśaḥ](vibhāgaśaḥ)
+higher-lower-distinction(parā+apara+vibhāgena) gross-subtle-distinction(sthūla+sūkṣma+vibhāgaśaḥ)
 
 ## mukta-m0-p04-v78
-[sthūlaḥ](sthūlo) [mantramayaḥ](mantramayaḥ) [proktaḥ](proktaḥ) [sūkṣmaḥ](sūkṣmo) [dhyāna](dhyāna) [eka](eka) [saṃsthitaḥ](saṃsthitaḥ)
+gross(sthūlaḥ) mantra-composed(mantra+mayaḥ) declared(proktaḥ) subtle(sūkṣmaḥ) meditation-only(dhyāna+eka) established(saṃsthitaḥ)
 
 ## mukta-m0-p04-v79
-[vāk](vāg) [vikalpa](vikalpa) [viśeṣeṇa](viśeṣeṇa) [manaḥ](manaḥ) [saṃmohakāriṇī](saṃmohakāriṇī)
+speech-variation(vāg+vikalpa+viśeṣeṇa) mind-deluding(manaḥ+saṃmohakāriṇī)
 
 ## mukta-m0-p04-v80
-[tat](tattad) [bhavati](bhavatyasaṃdehāt) [asaṃdehāt](asaṃdehāt) [sadā](sadā) [tad](tadbhāva) [bhāva](bhāva) [bhāvataḥ](bhāvataḥ)
+that-that-becomes(tat+tat+bhavati) without-doubt(asaṃdehāt) always-that-state(sadā+tat+bhāva+bhāvataḥ)
 
 ## mukta-m0-p04-v81
-[jñātvā](jñātvaivātmamayaṃ) [eva](eva) [ātma](ātmamayaṃ) [mayaṃ](mayaṃ) [sarvam](sarvam) [ātmānam](ātmānaṃ) [paryupāsate](paryupāsate)
+knowing-thus(jñātvā+eva) self-composed-all(ātma+mayaṃ+sarvam) self(ātmānam) worship-around(paryupāsate)
 
 ## mukta-m0-p04-v82
-[ātma](ātmavijñānamāśritya) [vijñānam](vijñānam) [āśritya](āśritya) [vimalam](vimalaṃ) [sarvataḥ](sarvato) [mukham](mukham)
+self-knowledge(ātma+vijñānam) relying(āśritya) pure(vimalam) all-around-face(sarvataḥ+mukham)
 
 ## mukta-m0-p04-v83
-[na](nānyaḥ) [anyaḥ](anyaḥ) [śaraṇadaḥ](śaraṇadaḥ) [kaścit](kaścidātmajñānādṛteḥ) [ātma](ātmajñānādṛteḥ) [jñānāt](jñānāt) [ṛte](ṛteḥ) [kvacit](kvacit)
+no-other(na+anyaḥ) refuge-giver(śaraṇa+daḥ) anyone(kaścit) without-self-knowledge(ātma+jñānāt+ṛte) ever(kvicit)
 
 ## mukta-m0-p04-v84
-[saḥ](sa) [mucyate](mucyate) [tvayatnena](tvayatnena) [sarva](sarvāvasthāṃ) [avasthām](avasthāṃ) [gataḥ](gatopi) [api](api) [san](san)
+he-liberated(saḥ+mucyate) effortlessly(tvayatnena) all-states(sarva+avasthām) having-gone(gataḥ+api+san)
 
 ## mukta-m0-p04-v85
-[tathā](tathātmānamupāsīta) [ātmānam](ātmānam) [upāsīta](upāsīta) [yaḥ](yoyamātmāparastu) [yaḥ](yaḥ) [ayam](ayam) [ātmā](ātmā) [paraḥ](paraḥ) [tu](tu) [saḥ](saḥ)
+thus(tathā) self-worship(ātmānam+upāsīta) whoever(yaḥ) this-self(yaḥ+ayam) other(ātmā+paraḥ) that(tu+saḥ)
 
 ## mukta-m0-p04-v86
-[sarvajñam](sarvajñaṃ) [tu](tu) [tam](tam) [ātmānam](ātmānaṃ) [paripūrṇam](paripūrṇaṃ) [sadā](sadā) [smaret](smaret)
+all-knowing(sarvajñam) indeed(tu) that-self(tam+ātmānam) full(paripūrṇam) always(sadā) remember(smaret)
 
 ## mukta-m0-p04-v87
-[saḥ](sa) [niṣkale](niṣkale) [pare](pare) [sthāne](sthāne) [tatra](tatra) [cittam](cittaṃ) [niveśayet](niveśayet)
+he(niṣkale) in-supreme-place(pare+sthāne) there(tatra) mind(cittam) place(niveśayet)
 
 ## mukta-m0-p04-v88
-[sarva](sarvaśūnyaṃ) [śūnyam](śūnyam) [tam](tam) [ābhāsa](ābhāsa) [samam](samātmānaṃ) [ātmānam](ātmānaṃ) [bhāvayet](bhāvayettha)
+all-void(sarva+śūnyam) that-radiance(tam+ābhāsa) same-self(sam+ātmānam) meditate(bhāvayet+tha)
 
 ## mukta-m0-p04-v89
-[pakṣapāta](pakṣapāta) [vinirmuktam](vinirmuktam) [ātmānam](ātmānaṃ) [paryupāsayet](paryupāsayet)
+bias-free(pakṣa+pāta+vinirmuktam) self(ātmānam) worship-around(paryupāsayet)
 
 ## mukta-m0-p04-v90
-[nirañjanam](nirañjanaṃ) [guṇātītam](guṇātītam) [ātmānam](ātmānaṃ) [paryupāsayet](paryupāsayet)
+stainless(nirañjanam) beyond-qualities(guṇa+atītam) self(ātmānam) worship-around(paryupāsayet)
 
 ## mukta-m0-p04-v91
-[svabhāva](svabhāvavimalaṃ) [vimalam](vimalaṃ) [nityam](nityam) [ātmānam](ātmānaṃ) [paryupāsayet](paryupāsayet)
+own-nature-pure(svabhāva+vimalam) eternal(nityam) self(ātmānam) worship-around(paryupāsayet)
 
 ## mukta-m0-p04-v92
-[bhāvayet](bhāvayedātmanātmānaṃ) [ātmanā](ātmanā) [ātmānam](ātmānaṃ) [mā](mātmanyevātmani) [ātmani](ātmani) [eva](eva) [ātmani](ātmani) [sthitam](sthitam)
+meditate-self-by-self(bhāvayet+ātmanā+ātmānam) in-self-only(mātmani+eva+ātmani) established(sthitam)
 
 ## mukta-m0-p04-v93
-[bhāvān](bhāvānetān) [etān](etān) [parityajya](parityajya) [svarūpam](svarūpaṃ) [bhāvayet](bhāvayed) [budhaḥ](budhaḥ)
+these-states(bhāvān+etān) abandoning(parityajya) own-form(svarūpam) meditate(bhāvayet) wise(budhaḥ)
 
 ## mukta-m0-p04-v94
-[sarva](sarvabhāvān) [bhāvān](bhāvān) [parityajya](parityajyātmābhāvaṃ) [ātma](ātmābhāvaṃ) [bhāvam](bhāvam) [tu](tu) [bhāvayet](bhāvayet)
+all-states(sarva+bhāvān) abandoning(parityajya) self-state(ātma+bhāvam) indeed(tu) meditate(bhāvayet)
 
 ## mukta-m0-p04-v95
-[ātma](ātmasaṃsthaṃ) [saṃstham](saṃsthaṃ) [manaḥ](manaḥ) [kṛtvā](kṛtvā) [na](na) [kiñcit](kiñcidapi) [api](api) [cintayet](cintayet)
+mind-in-self(ātma+saṃstham+manaḥ) making(kṛtvā) nothing(na+kiñcit+api) think(cintayet)
 
 ## mukta-m0-p04-v96
-[pakṣapāta](pakṣapāta) [vinirmuktam](vinirmuktam) [ātmānam](ātmānaṃ) [paryupāsayet](paryupāsayet)
+bias-free(pakṣa+pāta+vinirmuktam) self(ātmānam) worship-around(paryupāsayet)
 
 ## mukta-m0-p04-v97
-[nistatve](nistatve) [niṣkalī](niṣkalī) [bhūte](bhūte) [vindati](vindatyātmani) [ātmani](ātmani) [yat](yat) [sukham](sukham)
+in-reality-less(nistatve) partless(niṣkalī) become(bhūte) finds(vindati) in-self(ātmani) what-joy(yat+sukham)
 
 ## mukta-m0-p04-v98
-[tat](tatsukhaṃ) [sukham](sukham) [paramam](paramaṃ) [proktam](proktam) [ātyantikam](ātyantikam) [anaupamam](anaupamam)
+that-joy(tat+sukham) supreme(paramam) declared(proktam) ultimate(ātyantikam) incomparable(anaupamam)
 
 ## mukta-m0-p04-v99
-[yadā](yadā) [yāti](yātyunmanī) [unmanī](unmanī) [bhāvam](bhāvaṃ) [tadā](tadā) [tat](tatparamaṃ) [paramam](paramaṃ) [sukham](sukham)
+when(yadā) goes(yāti) beyond-mind(unmanī) state(bhāvam) then(tadā) that-supreme(tat+paramam) joy(sukham)
 
 ## mukta-m0-p04-v100
-[sarva](sarvavarṇāśramāṇāṃ) [varṇa](varṇa) [āśramāṇām](āśramāṇāṃ) [ca](ca) [jñāna](jñānabhedo) [bhedaḥ](bhedaḥ) [na](na) [vidyate](vidyate)
+all-varnas-ashramas(sarva+varṇa+āśramāṇām) and(ca) knowledge-difference(jñāna+bhedaḥ) not(na) exists(vidyate)

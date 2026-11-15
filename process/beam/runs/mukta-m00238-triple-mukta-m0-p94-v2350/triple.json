@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "dhūrtaḥkrotyantasaṃjātagarvaḥ",
+     "gloss": "rogue-anger-born-pride",
+     "grounds": "compound describing a rogue whose pride arises from anger",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvāphalgunyasti",
+     "gloss": "purva-phalguni-is",
+     "grounds": "nakshatra name with copular sense",
+     "morph": "noun"
+    },
+    {
+     "surface": "cejjanmakāle",
+     "gloss": "if-at-birth-time",
+     "grounds": "conditional phrase for birth moment",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What birth-time nakshatra condition produces a rogue whose pride is born of anger?",
+   "premises": [
+    "Purva Phalguni at birth time indicates rogue nature",
+    "anger-born pride characterizes the resulting person",
+    "the condition is stated as a birth-time rule"
+   ],
+   "inference": "A birth under Purva Phalguni yields a rogue whose pride arises from anger.",
+   "uncertainties": [
+    "exact syntactic relation between the nakshatra and the rogue-pride compound is compressed",
+    "the verse may be an astrological rule rather than a doctrinal claim"
+   ],
+   "plain_english": "If at birth time the moon is in Purva Phalguni, the person becomes a rogue whose pride is born of anger."
+  }
+ ]
+}

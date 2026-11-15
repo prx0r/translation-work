@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 200,
- "question": "Which weapons and implements are enumerated as carried by the goddess?",
+ "question": "How quickly does a chanter become stopped by sight?",
  "premises": [
-  "The token lists conch, sword, and bow.",
-  "The token lists skull and pestle.",
-  "The final token adds and-so."
+  "by sight a chanter becomes stopped",
+  "the stopping happens quickly",
+  "chanting is interrupted by sight"
  ],
- "inference": "The verse enumerates conch, sword, bow, skull, and pestle among the goddess's implements.",
+ "inference": "sight can halt mantra chanting quickly",
  "uncertainties": [
-  "The fused token boundaries preserve editorial sandhi and are not expanded.",
-  "No explicit goddess name appears in this verse."
+  "exact ritual context unclear"
  ],
- "plain_english": "Conch, sword, bow, and also skull and pestle, and so on."
+ "plain_english": "By sight, one who is chanting becomes stopped quickly."
 }

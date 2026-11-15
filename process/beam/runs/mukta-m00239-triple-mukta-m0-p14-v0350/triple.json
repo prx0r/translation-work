@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "dhātrīphalaṃ",
+     "gloss": "amla-fruit",
+     "grounds": "dhātrī = amla tree/fruit; phala = fruit; accusative object of piṣṭvā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "adverb modifying piṣṭvā: equal quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-pounded",
+     "grounds": "absolutive from piṣ; action of pounding",
+     "morph": "part.perf.act"
+    },
+    {
+     "surface": "lepo",
+     "gloss": "anointing",
+     "grounds": "resulting paste; nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yūkāvināśaka",
+     "gloss": "lice-destroyer",
+     "grounds": "compound: yūkā (lice) + vināśaka (destroyer); describes lepa",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What preparation destroys lice when applied as an anointing?",
+   "premises": [
+    "dhatri fruit is pounded equally",
+    "the resulting paste is anointed",
+    "this anointing destroys lice"
+   ],
+   "inference": "Equal pounding of dhatri fruit yields a lice-destroying anointing.",
+   "uncertainties": [
+    "exact proportion of 'equal' unspecified",
+    "application site not stated"
+   ],
+   "plain_english": "Pound dhatri (amla) fruit in equal measure and anoint; it destroys lice."
+  }
+ ]
+}

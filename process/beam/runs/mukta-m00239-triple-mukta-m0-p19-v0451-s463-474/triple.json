@@ -1,0 +1,725 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 463,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "causal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naraiḥ",
+     "gloss": "by-men",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "bheṣajataḥ",
+     "gloss": "by-medicine",
+     "grounds": "instrumental sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidheyā",
+     "gloss": "should-be-done",
+     "grounds": "passive participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gāḍhī",
+     "gloss": "firm",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "act",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manmathamandirasya",
+     "gloss": "of-love-temple",
+     "grounds": "genitive singular compound",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What should men do with medicine to make love's temple firm?",
+   "premises": [
+    "medicine makes love-temple firm",
+    "men should perform firm act",
+    "therefore ritual act follows"
+   ],
+   "inference": "Men should perform a firm medicinal act for love's temple.",
+   "uncertainties": [
+    "bheṣajataḥ exact case sense"
+   ],
+   "plain_english": "Therefore men should perform a firm medicinal act for love's temple."
+  },
+  {
+   "verse": 464,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "liptam",
+     "gloss": "smeared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madanātapatram",
+     "gloss": "love-god's-umbrella",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayāti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root yā"
+    },
+    {
+     "surface": "saṃkocam",
+     "gloss": "contraction",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "alam",
+     "gloss": "impurity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuvatyāḥ",
+     "gloss": "of-young-woman",
+     "grounds": "genitive singular",
+     "morph": "f.gen.sg"
+    }
+   ],
+   "question": "What happens to love's umbrella when smeared by this?",
+   "premises": [
+    "this smearing contracts love's umbrella",
+    "contraction removes impurity",
+    "young woman's state changes"
+   ],
+   "inference": "Smearing with this contracts love's umbrella and removes impurity.",
+   "uncertainties": [
+    "alam exact sense"
+   ],
+   "plain_english": "Smeared by this, love's umbrella contracts and removes impurity from the young woman."
+  },
+  {
+   "verse": 465,
+   "rows": [
+    {
+     "surface": "liptvā",
+     "gloss": "having-smeared",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "varāṅgam",
+     "gloss": "private-part",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhukena",
+     "gloss": "with-madhuca",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tulyam",
+     "gloss": "equal",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛddhā",
+     "gloss": "old-woman",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kanyeva",
+     "gloss": "like-maiden",
+     "grounds": "comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "purandhrī",
+     "gloss": "housewife",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What happens when an old woman's private part is smeared with madhuca?",
+   "premises": [
+    "smearing with madhuca equalizes",
+    "old woman becomes like maiden",
+    "housewife regains maidenhood"
+   ],
+   "inference": "An old woman becomes like a maiden after smearing with madhuca.",
+   "uncertainties": [
+    "tulyam exact comparison"
+   ],
+   "plain_english": "Having smeared the private part with madhuca, even an old woman becomes like a maiden."
+  },
+  {
+   "verse": 466,
+   "rows": [
+    {
+     "surface": "haṭhena",
+     "gloss": "by-force",
+     "grounds": "instrumental singular",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāḍham",
+     "gloss": "firmly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres + root labh"
+    },
+    {
+     "surface": "tadaṅgam",
+     "gloss": "that-limb",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭam",
+     "gloss": "seen",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naraireṣa",
+     "gloss": "by-men",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "haṭhena",
+     "gloss": "by-force",
+     "grounds": "instrumental singular",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What yoga is seen when men forcefully obtain that limb?",
+   "premises": [
+    "forceful firm obtaining occurs",
+    "men see this yoga",
+    "force defines the practice"
+   ],
+   "inference": "Men see a forceful yoga when they firmly obtain that limb.",
+   "uncertainties": [
+    "tadaṅgam referent"
+   ],
+   "plain_english": "By force men firmly obtain that limb; this forceful yoga is seen."
+  },
+  {
+   "verse": 467,
+   "rows": [
+    {
+     "surface": "yasyāḥ",
+     "gloss": "whose",
+     "grounds": "genitive singular",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "varāṅge",
+     "gloss": "private-part",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nihitā",
+     "gloss": "placed",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣaṇena",
+     "gloss": "in-moment",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kanyātvam",
+     "gloss": "maidenhood",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etyāha",
+     "gloss": "attains",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root i"
+    },
+    {
+     "surface": "sa",
+     "gloss": "sa",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūladevaḥ",
+     "gloss": "mūladeva",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Whose private part placement attains maidenhood in a moment?",
+   "premises": [
+    "placement in private part",
+    "maidenhood attained instantly",
+    "mūladeva declares this"
+   ],
+   "inference": "Mūladeva declares that placement in the private part attains maidenhood instantly.",
+   "uncertainties": [
+    "etyāha parsing"
+   ],
+   "plain_english": "Mūladeva says that placed in her private part, maidenhood is attained in a moment."
+  },
+  {
+   "verse": 468,
+   "rows": [
+    {
+     "surface": "navaprasūtā",
+     "gloss": "newly-delivered",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṭhena",
+     "gloss": "by-force",
+     "grounds": "instrumental singular",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanyā",
+     "gloss": "maiden",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "saṃyamataḥ",
+     "gloss": "from-restraint",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citram",
+     "gloss": "wonder",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Can a newly delivered woman become a maiden by force?",
+   "premises": [
+    "newly delivered woman",
+    "force makes her maiden",
+    "restraint makes it no wonder"
+   ],
+   "inference": "Even a newly delivered woman can become a maiden by force, and restraint makes it no wonder.",
+   "uncertainties": [
+    "saṃyamataḥ exact sense"
+   ],
+   "plain_english": "Even a newly delivered woman becomes a maiden by force; from restraint, this is no wonder."
+  },
+  {
+   "verse": 469,
+   "rows": [
+    {
+     "surface": "lepena",
+     "gloss": "by-ointment",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "nāryāḥ",
+     "gloss": "of-woman",
+     "grounds": "genitive singular",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "smarasadmarandhram",
+     "gloss": "love-abode-opening",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃkocayati",
+     "gloss": "contracts",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root saṃkuc"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṭhena",
+     "gloss": "by-force",
+     "grounds": "instrumental singular",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does ointment do to a woman's love-abode opening?",
+   "premises": [
+    "ointment contracts opening",
+    "contraction happens quickly",
+    "forceful yoga results"
+   ],
+   "inference": "Ointment quickly contracts a woman's love-abode opening, a forceful yoga.",
+   "uncertainties": [
+    "smarasadmarandhram exact compound"
+   ],
+   "plain_english": "By ointment a woman's love-abode opening contracts quickly; this is forceful yoga."
+  },
+  {
+   "verse": 470,
+   "rows": [
+    {
+     "surface": "nigadati",
+     "gloss": "declares",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root gad"
+    },
+    {
+     "surface": "yogam",
+     "gloss": "yoga",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rantidevaḥ",
+     "gloss": "rantideva",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "narendraḥ",
+     "gloss": "king",
+     "grounds": "appositive noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who declares this yoga according to the verse?",
+   "premises": [
+    "rantideva declares yoga",
+    "rantideva is king",
+    "declaration is authoritative"
+   ],
+   "inference": "King Rantideva declares this yoga.",
+   "uncertainties": [
+    "yoga referent"
+   ],
+   "plain_english": "King Rantideva declares this yoga."
+  },
+  {
+   "verse": 471,
+   "rows": [
+    {
+     "surface": "kiñcit",
+     "gloss": "a-little",
+     "grounds": "indefinite pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pallavayāmi",
+     "gloss": "I-will-describe",
+     "grounds": "verb",
+     "morph": "1.sg.act-fut + root pallav"
+    },
+    {
+     "surface": "nīrajadṛśām",
+     "gloss": "lotus-eyed",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "prītyā",
+     "gloss": "for-delight",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāminām",
+     "gloss": "of-lovers",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What will the speaker describe for the delight of lovers?",
+   "premises": [
+    "speaker describes a little",
+    "lotus-eyed women delight",
+    "supreme lovers are addressed"
+   ],
+   "inference": "The speaker will describe a little for the delight of supreme lovers with lotus-eyed women.",
+   "uncertainties": [
+    "kiñcit object"
+   ],
+   "plain_english": "I will describe a little for the delight of supreme lovers with lotus-eyed women."
+  },
+  {
+   "verse": 472,
+   "rows": [
+    {
+     "surface": "pralipya",
+     "gloss": "having-smeared",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tāsām",
+     "gloss": "their",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "puruṣaprasaṅgātprāgeva",
+     "gloss": "before-man's-contact",
+     "grounds": "fused sandhi token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīryacyutim",
+     "gloss": "semen-emission",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ātanoti",
+     "gloss": "causes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root tan"
+    }
+   ],
+   "question": "What happens when their parts are smeared before a man's contact?",
+   "premises": [
+    "smearing occurs before contact",
+    "semen emission is caused",
+    "result is prolonged"
+   ],
+   "inference": "Smearing before a man's contact causes semen emission.",
+   "uncertainties": [
+    "puruṣaprasaṅgātprāgeva fused token"
+   ],
+   "plain_english": "Having smeared them before a man's contact, it causes semen emission."
+  },
+  {
+   "verse": 473,
+   "rows": [
+    {
+     "surface": "drutā",
+     "gloss": "quick",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sahasaiva",
+     "gloss": "suddenly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭaḥ",
+     "gloss": "seen",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogarājaḥ",
+     "gloss": "yoga-king",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is seen as the king of yogas for women?",
+   "premises": [
+    "woman becomes quick suddenly",
+    "this is always seen",
+    "yoga-king is declared"
+   ],
+   "inference": "This quick sudden change in a woman is always seen as the king of yogas.",
+   "uncertainties": [
+    "drutā exact sense"
+   ],
+   "plain_english": "She may become quick suddenly; this is always seen indeed as the king of yogas."
+  },
+  {
+   "verse": 474,
+   "rows": [
+    {
+     "surface": "amībhiḥ",
+     "gloss": "with-these",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "ālipya",
+     "gloss": "having-smeared",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suliṅgam",
+     "gloss": "good-limb",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "makes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root kṛ"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nitambinīnām",
+     "gloss": "of-hipped-women",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    }
+   ],
+   "question": "What do these smeared substances make for hipped women?",
+   "premises": [
+    "smearing with these",
+    "good limb becomes seed",
+    "quickly for hipped women"
+   ],
+   "inference": "Smearing with these makes a good limb into seed quickly for hipped women.",
+   "uncertainties": [
+    "amībhiḥ referent"
+   ],
+   "plain_english": "Having smeared with these, it quickly makes a good limb into seed for hipped women."
+  }
+ ]
+}

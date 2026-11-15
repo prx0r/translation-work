@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 50,
- "question": "Which beings are proclaimed as bearing the supreme mark of brahma and others and having red color?",
+ "question": "Does reciting this mantra one thousand times grant success in the stated yogas?",
  "premises": [
-  "Brahma and others have a supreme mark.",
-  "Those bearing that mark are proclaimed.",
-  "They are red-colored."
+  "mantra is recited thousand times",
+  "recitation applies to stated yogas",
+  "success follows recitation"
  ],
- "inference": "The red-colored mark-bearers are the proclaimed associates of brahma and others.",
+ "inference": "thousand-fold recitation yields success",
  "uncertainties": [
-  "Fused token cihnaṃdhārayaṃtyaḥprakīrtitāḥ requires sandhi parsing; exact grammatical agreement uncertain."
+  "mantra token treated as one fused phrase"
  ],
- "plain_english": "Those proclaimed as bearing the supreme mark of brahma and the rest are red-colored."
+ "plain_english": "Reciting this mantra one thousand times brings success in the stated yogas."
 }

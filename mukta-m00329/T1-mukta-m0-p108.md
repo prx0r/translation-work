@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-gaṇāmbikā-ye (to Gaṇāmbikā) tu (indeed) mantreṇa (by-mantra) snāpayet (bathe) pūjayet (worship) tataḥ (then)
+[gaṇāmbikā](gaṇāmbikye) [tu](tu) [mantra](mantreṇa) [snāpayet](snāpayet) [pūjayet](pūjayet) [tataḥ](tataḥ)
 
 ## mukta-m0-p108-v2677
-tasya-uttare (to-its-north) nyaset (place) mantri-vardhanī (mantri-vardhanī) sa-hiraṇya-kām (with-gold-desire)
+[tasya](tasya) [uttare](uttare) [nyaset](nyasen) [mantrivardhanī](mantrivardhanī) [sahiraṇyakām](sahiraṇyakām)
 
 ## mukta-m0-p108-v2678
-niśāsu (at-nights) adhyāyanaṃ (study) kṛtvā (having-done) dvi-dhivat (like-two-ways) vaidapālagaiḥ (with-Veda-protectors)
+[niśāsu](niśāsvadhyāyanaṃ) [adhyāyanaṃ](niśāsvadhyāyanaṃ) [kṛtvā](kṛtvā) [dvidhivat](dvidhivadvaidapālagaiḥ) [vaidapālagaiḥ](dvidhivadvaidapālagaiḥ)
 
 ## mukta-m0-p108-v2679
-samidhā (with-kindling) ājya (ghee) carū (oblation) lājān (parched-grain) sarṣapān (mustard) ca (and) yavān (barley) tilān (sesame)
+[samidhā](samidhājyacarūrlājānsarṣapāśca) [ājya](samidhājyacarūrlājānsarṣapāśca) [carūḥ](samidhājyacarūrlājānsarṣapāśca) [lājān](samidhājyacarūrlājānsarṣapāśca) [sarṣapān](samidhājyacarūrlājānsarṣapāśca) [ca](samidhājyacarūrlājānsarṣapāśca) [yavān](yavāṃ) [tilān](tilān)
 
 ## mukta-m0-p108-v2680
-pālāśa (palāśa) udumbara (udumbara) ca (and) dhava (dhava) plakṣa (plakṣa) ca (and) eva (indeed) diśāsu (in-directions) vā (or)
+[pālāśa](pālāśodumbaraśca) [udumbara](pālāśodumbaraśca) [ca](pālāśodumbaraśca) [dhava](dhvaplakṣaśceva) [plakṣa](dhvaplakṣaśceva) [ca](dhvaplakṣaśceva) [eva](dhvaplakṣaśceva) [diśāsu](diśāsu) [vā](vā)
 
 ## mukta-m0-p108-v2681
-sahasraṃ (thousand) vā (or) tad-ardhaṃ (half-of-that) vā (or) tad-ardha-ardham (quarter-of-that) atha-api (then-also) vā (or)
+[sahasraṃ](sahasraṃ) [vā](vā) [tad-ardhaṃ](tadardhaṃ) [vā](vā) [tad-ardha-ardhaṃ](tadardhārdhamathāpi) [atha](tadardhārdhamathāpi) [api](tadardhārdhamathāpi) [vā](vā)
 
 ## mukta-m0-p108-v2682
-ghṛtam (ghee) īśāna-mantreṇa (by-Īśāna-mantra) puruṣeṇa (by-Puruṣa) caruḥ (oblation) tathā (so)
+[ghṛtaṃ](ghṛtamīśānamantreṇa) [īśāna-mantra](ghṛtamīśānamantreṇa) [puruṣa](puruṣeṇa) [caruḥ](carustathā) [tathā](carustathā)
 
 ## mukta-m0-p108-v2683
-tilān (sesame) pāśupata-astrēṇa (by-Pāśupata-weapon) kavacena (by-armor) yavān (barley) tathā (so)
+[tilān](tilānpāśupatāstreṇa) [pāśupata-astra](tilānpāśupatāstreṇa) [kavaca](kavacena) [yavān](yavāṃstathā) [tathā](yavāṃstathā)
 
 ## mukta-m0-p108-v2684
-prati-dravyaṃ (for-each-substance) sva-mantreṇa (by-own-mantra) sūcā (needle) pūrṇāhutiḥ (full-offering) bhavet (becomes)
+[pratidravyaṃ](pratidravyaṃ) [sva-mantra](svamantreṇa) [sūcā](sūcā) [pūrṇāhutiḥ](pūrṇāhutirbhavet) [bhavet](pūrṇāhutirbhavet)
 
 ## mukta-m0-p108-v2685
-sadyādi (from-Sadya) pañca-gavyena (with-five-cow-products) pañca-gavya-abhiṣecanaṃ (five-cow-product-ablution)
+[sadyādi](sadyādi) [pañcagavya](pañcagavyena) [pañcagavya-abhiṣecanaṃ](pañcagavyābhiṣecanaṃ)
 
 ## mukta-m0-p108-v2686
-haima-puṣpaṃ (golden-flower) ca (and) saṃyuktaṃ (joined) puṣpaṃ (flower) śirasi (on-head) dhārayet (hold)
+[haima-puṣpaṃ](haimapuṣpaṃ) [ca](ca) [saṃyuktaṃ](saṃyuktaṃ) [puṣpaṃ](puṣpaṃ) [śirasi](śirasi) [dhārayet](dhārayet)
 
 ## mukta-m0-p108-v2687
-kaṭakaṃ (bracelet) kuṇḍalaṃ (earring) ca (and) eva (indeed) yajña-sūtraṃ (sacrificial-thread) tu (but) haimakam (golden)
+[kaṭakaṃ](kaṭakaṃ) [kuṇḍalaṃ](kuṇḍalaṃ) [ca](ca) [eva](eva) [yajñasūtraṃ](yajñasūtraṃ) [tu](tu) [haimakam](haimakam)
 
 ## mukta-m0-p108-v2688
-su-muhūrte (at-auspicious-moment) tataḥ (then) dhyātvā (having-meditated) deva-devaṃ (god-of-gods) triyambakam (Tryambaka)
+[su-muhūrte](sumuhūrte) [tataḥ](tato) [dhyātvā](dhyātvā) [devadevaṃ](devadevaṃ) [triyambakam](triyambakam)
 
 ## mukta-m0-p108-v2689
-liṅgaṃ (liṅga) ca (and) mūrdhni (on-head) saṃyukte (joined) kalān (parts) ca (and) agāni (fires) vinyaset (place)
+[liṅgaṃ](liṅgaṃ) [ca](ca) [mūrdhni](mūrdhni) [saṃyukte](saṃyukte) [kalān](kalāṃmścāgāni) [ca](kalāṃmścāgāni) [agāni](kalāṃmścāgāni) [vinyaset](vinyaset)
 
 ## mukta-m0-p108-v2690
-tad-abhi (thereupon) snapayet (bathe) liṅga-prāsādaṃ (liṅga-temple) tu (but) manu-smaret (remember-Manu)
+[tad-abhi](tadabhi) [snapayet](snapayet) [liṅga-prāsādaṃ](liṅgaprāsādaṃ) [tu](tu) [manu-smaret](manusmaret)
 
 ## mukta-m0-p108-v2691
-śiva-kumbha-jale (in-Śiva-pot-water) devaṃ (god) vardhanyāṃ (in-vardhanī) piṇḍikām (base) api (also)
+[śiva-kumbha-jale](śivakumbhajale) [devaṃ](devaṃ) [vardhanyāṃ](vardhanyāṃ) [piṇḍikām](piṇḍikām) [api](api)
 
 ## mukta-m0-p108-v2692
-gandha-ādyaiḥ (with-sandal-etc) arcayet (worship) devaṃ (god) pañca-āvaraṇa-pūrvakam (with-five-enclosures-first)
+[gandha-ādyaiḥ](gandhādyairarcayed) [arcayed](gandhādyairarcayed) [devaṃ](devaṃ) [pañcāvaraṇa-pūrvakam](pañcāvaraṇapūrvakam)
 
 ## mukta-m0-p108-v2693
-saṃtoṣayet (satisfy) ca (and) śivaṃ (Śiva) sākṣāt (directly) bhadraṃ (auspicious) evaṃ (thus) prakīrtitam (declared)
+[saṃtoṣayet](saṃtoṣayet) [ca](cchivaṃ) [śivaṃ](cchivaṃ) [sākṣāt](sākṣād) [bhadraṃ](bhadramevaṃ) [evaṃ](bhadramevaṃ) [prakīrtitam](prakīrtitam)
 
 ## mukta-m0-p108-v2694
-santoṣayet (satisfy) ca (and) śivaṃ (Śiva) sākṣāt (directly) bhadraṃ (auspicious) evaṃ (thus) prakīrtitam (declared)
+[santoṣayet](santoṣayet) [ca](cchivaṃ) [śivaṃ](cchivaṃ) [sākṣāt](sākṣādbhadramevaṃ) [bhadraṃ](sākṣādbhadramevaṃ) [evaṃ](sākṣādbhadramevaṃ) [prakīrtitam](prakīrtitam)
 
 ## mukta-m0-p108-v2695
-iti (thus) sūkṣma-śāstre (in-subtle-treatise) saṃprokṣaṇa-vidhiṃ (sprinkling-rite) nāma (named) ekona-pañcāśat-paṭalaḥ (forty-ninth-chapter)
+[iti](iti) [sūkṣma-śāstre](sūkṣmaśāstre) [saṃprokṣaṇa-vidhiṃ](saṃprokṣaṇavidhiṃ) [nāma](nāma) [ekona-pañcāśat-paṭalaḥ](ekonapañcāśatpaṭalaḥ)
 
 ## mukta-m0-p108-v2696
-prāyo (mostly) vināśam (destruction) iti (thus) uktaṃ (said) cittaṃ (mind) sandhānam (union) ucyate (is-called)
+[prāyo](prāyovināśamityuktaṃ) [vināśam](prāyovināśamityuktaṃ) [iti](prāyovināśamityuktaṃ) [uktaṃ](prāyovināśamityuktaṃ) [cittaṃ](cittaṃ) [sandhānaṃ](sandhānamucyate) [ucyate](sandhānamucyate)
 
 ## mukta-m0-p108-v2697
-ādau (first) tu (but) niścaya-dravyaṃ (determined-substance) hi (indeed) na (not) vā (or) doṣa-kārakam (fault-causing)
+[ādau](ādau) [tu](tu) [niścaya-dravyaṃ](niścayadravyaṃ) [hi](hi) [na](na) [vā](vā) [doṣa-kārakam](doṣakārakam)
 
 ## mukta-m0-p108-v2698
-akalpitaṃ (unimagined) tu (but) yat (which) dravyaṃ (substance) hīne (deficient) doṣaṃ (fault) na (not) vidyate (is-found)
+[akalpitaṃ](akalpitaṃ) [tu](tu) [yat](yad) [dravyaṃ](dravyaṃ) [hīne](hīne) [doṣaṃ](doṣaṃ) [na](na) [vidyate](vidyate)
 
 ## mukta-m0-p108-v2699
-saura-pūjā-vihīne (without-solar-worship) ca (and) puṇyahaṃ (auspicious-day) gavya-hīnake (without-cow-products)
+[saura-pūjā-vihīne](saurapūjāvihīne) [ca](ca) [puṇyahaṃ](puṇyahaṃ) [gavya-hīnake](gavyahīnake)
 
 ## mukta-m0-p108-v2700
-pādyam (foot-wash) ācamanam (sipping) arghyaṃ (offering) hi (indeed) hīne (deficient) snāna-vihīnake (without-bathing)
+[pādyam](pādyamācamānārghyaṃ) [ācamana](pādyamācamānārghyaṃ) [arghyaṃ](pādyamācamānārghyaṃ) [hi](hi) [hīne](hīne) [snāna-vihīnake](snānavihīnake)

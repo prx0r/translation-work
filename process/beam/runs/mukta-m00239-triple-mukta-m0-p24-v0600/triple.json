@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "catvāriṃśatpalāni",
+     "gloss": "forty-palas",
+     "grounds": "specifies the quantity of forty palas",
+     "morph": "compound.acc.pl.n"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverbial connector to preceding instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastrapūtaṃ",
+     "gloss": "cloth-strained",
+     "grounds": "describes substance strained through cloth",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "carefully",
+     "grounds": "adverb indicating careful preparation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantity of cloth-strained substance should be prepared carefully in this rite?",
+   "premises": [
+    "forty palas are specified",
+    "cloth-straining is required",
+    "careful preparation is enjoined"
+   ],
+   "inference": "prepare forty palas carefully after straining the substance through cloth",
+   "uncertainties": [
+    "the exact substance is not named in this verse"
+   ],
+   "plain_english": "Prepare forty palas, thus strained through cloth, carefully."
+  }
+ ]
+}

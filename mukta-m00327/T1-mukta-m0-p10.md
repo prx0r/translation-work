@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-on-head(mūrdhni) drop(bindu) in-suṣumnā(suṣumnāsyāṃ) gāyatrī(gāyatrīṃ) that(tāṃ) should-indicate(vinirdiśet)
+[crown-loc](mūrdhni) [point](bindu) [suṣumnā-loc](suṣumnāsyāṃ) [gāyatrī-acc](gāyatrīṃ) [that-acc](tāṃ) [indicate-opt](vinirdiśet)
 
 ## mukta-m0-p10-v227
-three-eyes(netratrayaṃ) indeed(tu) that-should-be-known(tajjñeyaṃ) gradually(kramaśaḥ) should-join(saṃprayojayet)
+[three-eyes](netratrayaṃ) [but](tu) [that-acc](tajjñeyaṃ) [gradually](kramaśaḥ) [join-opt](saṃprayojayet)
 
 ## mukta-m0-p10-v228
-on-forehead(lalāṭe) śiva-principle(śivatatvaṃ) indeed(tu) three(trīṇi) among-five(pañcasu) should-place(vinyaset)
+[forehead-loc](lalāṭe) [śiva-principle](śivatatvaṃ) [but](tu) [three](trīṇi) [five-loc](pañcasu) [place-opt](vinyaset)
 
 ## mukta-m0-p10-v229
-should-place(vinyased) of-self(ātmanaḥ) first(pūrvaṃ) of-śiva(śivasya) and(ca) thus(tathā) again(punaḥ)
+[place-opt](vinyasedātmanaḥ) [first](pūrvaṃ) [śiva-gen](śivasya) [and](ca) [thus](tathā) [again](punaḥ)
 
 ## mukta-m0-p10-v230
-of-gaṇeśas(gaṇeśānāṃ) indeed(tu) gāyatrī(gāyatrīṃ) in-that(tasmin) presence-has-arrived(sānnidhyamāgatāḥ)
+[gaṇeśa-gen](gaṇeśānāṃ) [but](tu) [gāyatrī-acc](gāyatrīṃ) [there-loc](tasmin) [presence-acc](sānnidhyamāgatāḥ)
 
 ## mukta-m0-p10-v231
-astra-pāśupata(astrapāśupataṃ) blazing(dīptastra) mantra(mantraṃ) should-prepare(prakalpayet)
+[astra-pāśupata](astrapāśupataṃ) [bright](dīptastra) [mantra-acc](mantraṃ) [prepare-opt](prakalpayet)
 
 ## mukta-m0-p10-v232
-all-pervading(viśvakīd) knowers-of-all(viśvavettāro) all-maker(viśvakṛd) all-forms(viśva+mūrtayaḥ)
+[all-pervading](viśvakīdviśvavettāro) [all-maker](viśvakṛdviśva) [forms](mūrtayaḥ)
 
 ## mukta-m0-p10-v233
-worships(arccate) should-be-joined(saṃprayoktavyā) in-homa(home) with-svāhā-end(svāhāntasaṃyutāḥ)
+[worship-opt](arccate) [join-opt](saṃprayoktavyā) [oblation-loc](home) [svāhā-end](svāhāntasaṃyutāḥ)
 
 ## mukta-m0-p10-v234
-with-visarga(sa+visargāḥ) thus(tathā) blazing(dīptā) terrible-deed-doers(ghorakarmakarā) remembered(smṛtāḥ)
+[with-visarga](sa+visargāstathā) [bright](dīptā) [fierce-action-doer](ghorakarmakarā) [remembered](smṛtāḥ)
 
 ## mukta-m0-p10-v235
-half-ka(kakārārdha) having-made(yutaṃ+kṛtvā) kṣarikā-astra(kṣarikāstraṃ) proclaimed(prakīrtitam)
+[half-ka](kakārārdhayutaṃ) [make-opt](kṛtvā) [kṣarika-astra](kṣarikāstraṃ) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p10-v236
-by-all(sarvaiḥ+ebhiḥ) always(sadā) should-do(kuryāt) śivīkaraṇa(śivīkaraṇam) of-self(ātmanaḥ)
+[all-instr](sarvairebhiḥ) [always](sadā) [do-opt](kuryācchivīkaraṇamātmanaḥ)
 
 ## mukta-m0-p10-v237
-in-angry-bodies(kupitakarakāyeṣu) mantra-mantra-arya(mantrimantrārya) for-siddhi(siddhaye)
+[angry-hand-body-loc](kupitakarakāyeṣu) [mantra-mantra-arya](mantrimantrārya) [siddhi-dat](siddhaye)
 
 ## mukta-m0-p10-v238
-having-done(yatkṛtvā) indeed(tu) man(naraḥ) properly(samyak) śiva(bhavati) not-otherwise(nānyathā)
+[what-do-opt](yatkṛtvā) [but](tu) [man-nom](naraḥ) [properly](samyak) [śiva-nom](śivo) [becomes](bhavati) [not-otherwise](nānyathā)
 
 ## mukta-m0-p10-v239
-pure-body(śuddhadehaḥ) then(tato) having-become(bhūtvā) śiva-mantras(śivamantrān) should-employ(niyojayet)
+[pure-body-nom](śuddhadehastato) [becoming](bhūtvā) [śiva-mantra-acc](śivamantrān) [employ-opt](niyojayet)
 
 ## mukta-m0-p10-v240
-in-its-middle(tasya+madhye) indeed(tu) huṃ-sound(huṃkāraṃ) blazing(jvalantaṃ) fire-luster(pāvakaprabham)
+[that-gen](tasya) [middle-loc](madhye) [but](tu) [huṃ-sound](huṃkāraṃ) [blazing](jvalantaṃ) [fire-bright](pāvakaprabham)
 
 ## mukta-m0-p10-v241
-release-of-stra(utchra?ṭāntestra) indeed(tu) liberation(mokṣaḥ) with-huṃ(huṃkāreṇa) accompanied(samanvitaḥ)
+[utchra?ṭāntestra](utchra?ṭāntestra) [mokṣa-nom](mokṣastu) [huṃ-sound-instr](huṃkāreṇa) [accompanied](samanvitaḥ)
 
 ## mukta-m0-p10-v242
-well-restrained(sanniruddhe) done(kṛte) properly(samyak) upward(gūrdhvaṃ) wind(vāyuḥ) proceeds(pravartate)
+[well-restrained](sanniruddhe) [done](kṛte) [properly](samyak) [upward](gūrdhvaṃ) [wind-nom](vāyuḥ) [proceeds](pravartate)
 
 ## mukta-m0-p10-v243
-by-inhalation(pūrakeṇa) having-withdrawn(upasaṃhṛtya) by-heart(hṛdayena) indeed(tu) mantra-knower(mantravit)
+[by-pūraka](pūrakeṇopasaṃhṛtya) [heart-instr](hṛdayena) [but](tu) [mantra-knower](mantravit)
 
 ## mukta-m0-p10-v244
-of-huṃ-sound(huṃkārasya) of-śikhā-end(śikhāntasya) person(puruṣaṃ) seed-form(bījavigraham)
+[huṃ-sound-gen](huṃkārasya) [crest-end-gen](śikhāntasya) [person-acc](puruṣaṃ) [seed-form](bījavigraham)
 
 ## mukta-m0-p10-v245
-then(tataḥ) should-join(saṃyojayed) yogī(yogī) in-śiva(śive) supreme-cause(paramakāraṇe)
+[then](tataḥ) [join-opt](saṃyojayed) [yogī-nom](yogī) [śiva-loc](śive) [supreme-cause-loc](paramakāraṇe)
 
 ## mukta-m0-p10-v246
-by-one-udghāta(ekena+udghāta) measure(mātreṇa) one-lakh(ekalakṣaḥ) well-mantrified(sumantritaḥ)
+[one-instr](ekena) [udghāta](udghāta) [measure-instr](mātreṇa) [one-lakh](ekalakṣassumantritaḥ)
 
 ## mukta-m0-p10-v247
-by-seed-practice(bījavṛtyā) śikhā-cut(śikhelūna) principle-practice(tatva+vṛtyā) indeed(tu) principle-knower(tatvavit)
+[seed-practice](bījavṛtyāśikhelūna) [principle-practice](tatva+vṛtyā) [but](tu) [principle-knower](tatvavit)
 
 ## mukta-m0-p10-v248
-by-heart(hṛdā) indeed(tu) earthly-seed(pārthivaṃ+bījaṃ) with-water-principle(vāruṇaṃ) with-head(śirasā) together(saha)
+[heart-instr](hṛdā) [but](tu) [earthly-seed](pārthivaṃ) [bīja-acc](bījaṃ) [watery](vāruṇaṃ) [head-instr](śirasā) [with](saha)
 
 ## mukta-m0-p10-v249
-ho-sound-mantra(hokāra+mantrasaṃyuktaṃ) in-maṇḍalas(maṇḍaleṣu) should-employ(prayojayet)
+[ho-sound](hokāra) [mantra-joined](mantrasaṃyuktaṃ) [maṇḍala-loc](maṇḍaleṣu) [employ-opt](prayojayet)
 
 ## mukta-m0-p10-v250
-vaindavas(vaindavāḥ) indeed(tu) kalās(kalāḥ) those(tāḥ) ca(ca) nivṛti-etc(nivṛtyādyāḥ) proclaimed(prakīrtitāḥ)
+[vaindava-nom](vaindavāstu) [kalā-nom](kalāstāśca) [nivṛti-etc](nivṛtyādyāḥ) [proclaimed](prakīrtitāḥ)

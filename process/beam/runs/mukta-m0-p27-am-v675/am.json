@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p27",
  "verse": 675,
- "question": "What name and color characterize the dance with Gauri on the left?",
+ "question": "What herb should be drunk in the fifth month to remove fetal distress?",
  "premises": [
-  "Gauri dance is thus called.",
-  "Red color is assigned.",
-  "Left-side placement is specified."
+  "gokshura is drunk in fifth month",
+  "it removes fetal distress",
+  "remedy is prescribed for pregnancy"
  ],
- "inference": "The dance is named Gauri-tandava and colored red.",
+ "inference": "drinking gokshura in fifth month removes fetal distress",
  "uncertainties": [
-  "Quotation boundary unclear in compendium."
+  "exact dosage not specified",
+  "herb identification uncertain"
  ],
- "plain_english": "The dance is called Gauri-tandava and is red in color."
+ "plain_english": "In the fifth month, drink gokshura to remove fetal distress."
 }

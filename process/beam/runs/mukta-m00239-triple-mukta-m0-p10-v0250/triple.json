@@ -1,0 +1,93 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun feminine nominative singular referring to the woman who performs the fumigation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhūpayet",
+     "gloss": "fumigates",
+     "grounds": "causative/optative form of dhūp, third singular active",
+     "morph": "3.sg.act.opt.√dhūp"
+    },
+    {
+     "surface": "nijagṛhaṃ",
+     "gloss": "own-house",
+     "grounds": "compound of nija and gṛha, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vasanaṃ",
+     "gloss": "clothes",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śarīraṃ",
+     "gloss": "body",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "genitive singular feminine pronoun referring to that woman",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāsa",
+     "gloss": "servant",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "indeclinable comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "moham",
+     "gloss": "delusion",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "upaiti",
+     "gloss": "approaches",
+     "grounds": "compound verb upa + eti, third singular active present",
+     "morph": "3.sg.act.prs.√i"
+    },
+    {
+     "surface": "lokaḥ",
+     "gloss": "world",
+     "grounds": "nominative singular masculine subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to the world when a woman fumigates her own house, clothes, and body?",
+   "premises": [
+    "A woman fumigates her own house, clothes, and body.",
+    "The world approaches delusion like a servant.",
+    "The result is tied to her ritual action."
+   ],
+   "inference": "The fumigation ritual makes the world approach delusion as if it were her servant.",
+   "uncertainties": [
+    "The exact fumigation substance and ritual context are not specified in this verse."
+   ],
+   "plain_english": "Whoever fumigates her own house, clothes, and body, the world approaches delusion like a servant."
+  }
+ ]
+}

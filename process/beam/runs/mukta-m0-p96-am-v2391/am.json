@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2391,
- "question": "Who places lotuses in fours and where?",
+ "question": "Is vajra success, vyatipata, parivasha, or Shiva better?",
  "premises": [
-  "Lotuses are placed in fours.",
-  "The best mantra-knower does it.",
-  "The placement is prescribed."
+  "vajra and success are named",
+  "vyatipata is named",
+  "parivasha and Shiva are named"
  ],
- "inference": "The best mantra-knower places lotuses in fours.",
+ "inference": "The verse asks or states which among vajra success, vyatipata, parivasha, and Shiva is better.",
  "uncertainties": [
-  "Exact total number is not stated."
+  "syntax ambiguous"
  ],
- "plain_english": "The best mantra-knower places lotuses in fours."
+ "plain_english": "Vajra success, vyatipata, parivasha, and Shiva are compared for betterness."
 }

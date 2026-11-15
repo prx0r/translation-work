@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "ajaikapād",
+     "gloss": "ajaikapād",
+     "grounds": "proper name of a Rudra in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahirbudhnya",
+     "gloss": "ahirbudhnya",
+     "grounds": "proper name of a Rudra in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūṣaṇaś",
+     "gloss": "pūṣan",
+     "grounds": "pūṣan in nominative singular with final sandhi -ś",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cetikīrtitāḥ",
+     "gloss": "and-so-forth-proclaimed",
+     "grounds": "compound of ca, iti, and kīrtita in nominative plural",
+     "morph": "m.nom.pl.pass.part."
+    }
+   ],
+   "question": "Which deities are enumerated among the Rudras here?",
+   "premises": [
+    "ajaikapād is named",
+    "ahirbudhnya is named",
+    "pūṣan is named",
+    "and-so-forth is proclaimed"
+   ],
+   "inference": "The verse names Ajaikapād, Ahirbudhnya, Pūṣan, and others among the Rudras.",
+   "uncertainties": [
+    "The exact full list beyond 'and so forth' is not given in this verse."
+   ],
+   "plain_english": "Ajaikapād, Ahirbudhnya, Pūṣan, and so forth are proclaimed."
+  }
+ ]
+}

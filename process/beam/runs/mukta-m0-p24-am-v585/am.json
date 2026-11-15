@@ -1,17 +1,15 @@
 {
  "song": "mukta-m0-p24",
  "verse": 585,
- "question": "Which metals are listed for linga materials?",
+ "question": "What does she not bear, and what fetal origin is absent?",
  "premises": [
-  "silver is listed",
-  "copper is listed",
-  "brass is listed",
-  "bronze is listed",
-  "iron is listed"
+  "flower is negated",
+  "childbirth is not borne",
+  "fetal origin is absent"
  ],
- "inference": "The verse enumerates silver, copper, brass, bronze, and iron as linga materials.",
+ "inference": "She does not bear flower or childbirth, and fetal origin is absent.",
  "uncertainties": [
-  "their respective ritual effects are given in following verses"
+  "the subject's prior state is not specified here"
  ],
- "plain_english": "Silver, copper, brass, bronze, and iron are listed."
+ "plain_english": "She does not bear flower or childbirth, and there is no fetal origin."
 }

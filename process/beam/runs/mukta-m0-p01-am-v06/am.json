@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 6,
- "question": "What Kali-tantra-kula-bliss and kula-wheel are included?",
+ "question": "Which plant parts are gathered in spring and summer?",
  "premises": [
-  "The verse names Kali-tantra-kula-bliss.",
-  "It also names kula-wheel."
+  "spring is for leaf",
+  "summer is for fruit and seed",
+  "the two seasons are paired"
  ],
- "inference": "The verse adds these to the Kaula enumeration.",
+ "inference": "Leaves are gathered in spring, while fruit and seed are gathered in summer.",
  "uncertainties": [
-  "No doctrinal explanation is given."
+  "compound internal members not split"
  ],
- "plain_english": "It includes Kali-tantra-kula-bliss and kula-wheel, thus and."
+ "plain_english": "In spring leaves, and in summer fruit and seed."
 }

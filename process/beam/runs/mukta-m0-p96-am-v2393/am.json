@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2393,
- "question": "What powders fill the cells?",
+ "question": "What is east-facing, joined-palms, and situated upon a triangle?",
  "premises": [
-  "Powders are used.",
-  "They are white, yellow, red, and blue.",
-  "The cells are filled."
+  "east-facing is named",
+  "joined-palms is named",
+  "triangle-upon-situated is named"
  ],
- "inference": "The cells are filled with white, yellow, red, and blue powders.",
+ "inference": "The verse describes something east-facing, with joined palms, situated upon a triangle.",
  "uncertainties": [
-  "Exact color-to-cell mapping is not stated."
+  "referent unspecified"
  ],
- "plain_english": "Fill with white, yellow, red, and blue powders."
+ "plain_english": "Something east-facing, with joined palms, is situated upon a triangle."
 }

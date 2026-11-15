@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "oṃ namo bhagavatimātaṅgeśvarī sarvamukharañjini sarveṣāṃ mahāmāye mātaṅgi kumārike lahalahajihve sarvalokavaśaṃkari svāhā",
+     "gloss": "mantra-invocation",
+     "grounds": "full mantra phrase copied exactly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive of jap",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "uktayogānāṃ",
+     "gloss": "of-stated-yogas",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Does reciting this mantra one thousand times grant success in the stated yogas?",
+   "premises": [
+    "mantra is recited thousand times",
+    "recitation applies to stated yogas",
+    "success follows recitation"
+   ],
+   "inference": "thousand-fold recitation yields success",
+   "uncertainties": [
+    "mantra token treated as one fused phrase"
+   ],
+   "plain_english": "Reciting this mantra one thousand times brings success in the stated yogas."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "gift offering",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śastrāṇi",
+     "gloss": "weapons",
+     "grounds": "weapons plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "parighe",
+     "gloss": "in-parigha",
+     "grounds": "locative of parigha",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverbial particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What gifts and weapons are prescribed for use in the parigha rite?",
+   "premises": [
+    "dānam denotes a gift offering",
+    "śastrāṇi denotes weapons",
+    "parighe locates the action in parigha",
+    "tathā marks continuation"
+   ],
+   "inference": "The verse lists gift and weapons for parigha practice.",
+   "uncertainties": [
+    "Exact ritual function of gift and weapons is not specified"
+   ],
+   "plain_english": "Thus gift and weapons [are used] in the parigha."
+  }
+ ]
+}

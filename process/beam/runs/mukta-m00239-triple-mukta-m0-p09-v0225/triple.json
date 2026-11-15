@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "kṣaudreṇa",
+     "gloss": "with-honey",
+     "grounds": "honey in instrumental relation",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "absolutive of root piṣ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parilipya",
+     "gloss": "having-anointed",
+     "grounds": "absolutive of root lip",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nābhiṃ",
+     "gloss": "navel",
+     "grounds": "object of anointing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "stambhaṃ",
+     "gloss": "stiffness",
+     "grounds": "result attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prapadyet",
+     "gloss": "attains",
+     "grounds": "optative middle of root pad",
+     "morph": "3.sg.mid.opt"
+    },
+    {
+     "surface": "puruṣasya",
+     "gloss": "of-man",
+     "grounds": "possessive relation to seed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "object of stiffness",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does a man attain seed-stiffness by anointing the navel with honey-ground paste?",
+   "premises": [
+    "Honey is ground into paste.",
+    "Navel is anointed with paste.",
+    "Stiffness of seed is attained."
+   ],
+   "inference": "Anointing the navel with honey paste produces seed stiffness.",
+   "uncertainties": [
+    "Exact ritual context is unspecified."
+   ],
+   "plain_english": "Having ground honey and anointed the navel, one attains stiffness of a man's seed."
+  }
+ ]
+}

@@ -1,0 +1,1433 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "verse-final marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "honorific",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityanātha",
+     "gloss": "nityanātha",
+     "grounds": "author name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viracite",
+     "gloss": "composed",
+     "grounds": "participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāmaratne",
+     "gloss": "in-kāmaratna",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ākarṣaṇaṃ",
+     "gloss": "ākarṣaṇa",
+     "grounds": "topic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "apposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīya",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upadeśaḥ",
+     "gloss": "instruction",
+     "grounds": "title",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the title and ordinal of this instruction in the Kāmaratna?",
+   "premises": [
+    "The verse names the work Kāmaratna.",
+    "It calls the section ākarṣaṇa.",
+    "It marks the section as second."
+   ],
+   "inference": "This verse identifies the second instruction, on ākarṣaṇa, in the Kāmaratna.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the second instruction, named ākarṣaṇa, composed by Nityanātha in the Kāmaratna."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "bīja",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "bīja",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "bīja",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jeyāgre",
+     "gloss": "jeyāgre",
+     "grounds": "mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śata",
+     "gloss": "hundred",
+     "grounds": "number",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāpena",
+     "gloss": "jāpa",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jito",
+     "gloss": "conquered",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many repetitions of the mantra are said to conquer, and is any other way possible?",
+   "premises": [
+    "The verse prescribes one hundred jāpas.",
+    "It says the enemy is conquered.",
+    "It denies any other way."
+   ],
+   "inference": "One hundred repetitions of the mantra conquer, and no other way is admitted.",
+   "uncertainties": [],
+   "plain_english": "With one hundred repetitions of the mantra, one becomes victorious; not otherwise."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "spṛṣṭvā",
+     "gloss": "touching",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jāpena",
+     "gloss": "jāpa",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "moment",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "jitavān",
+     "gloss": "conquered",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens when one touches and recites the mantra?",
+   "premises": [
+    "The verse mentions touching and mantra recitation.",
+    "It says conquest occurs in a moment.",
+    "It refers to the practitioner."
+   ],
+   "inference": "By touching and reciting the mantra, the practitioner conquers in a moment.",
+   "uncertainties": [],
+   "plain_english": "Having touched and recited the mantra, he conquers that in a moment."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vādeṣu",
+     "gloss": "disputes",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "jayaṃ",
+     "gloss": "victory",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puṣye",
+     "gloss": "puṣya",
+     "grounds": "lunar mansion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samuddhṛtā",
+     "gloss": "extracted",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "When is the rite for victory in all disputes to be extracted?",
+   "premises": [
+    "The verse promises victory in all disputes.",
+    "It names the Puṣya mansion.",
+    "It says the rite is extracted then."
+   ],
+   "inference": "The rite for victory in all disputes is extracted under Puṣya.",
+   "uncertainties": [],
+   "plain_english": "He makes victory in all disputes; extracted under Puṣya."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "bāhau",
+     "gloss": "arm",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "head",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāryaṃ",
+     "gloss": "worn",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vivāde",
+     "gloss": "dispute",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vijayī",
+     "gloss": "victorious",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where must the rite be worn to become victorious in a dispute?",
+   "premises": [
+    "The verse gives arm or head as places.",
+    "It says the rite is to be worn.",
+    "It promises victory in dispute."
+   ],
+   "inference": "Wearing it on the arm or head makes one victorious in dispute.",
+   "uncertainties": [],
+   "plain_english": "It should be worn on the arm or head; one becomes victorious in dispute."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "candanena",
+     "gloss": "sandalwood",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "anvitaṃ",
+     "gloss": "with",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tilakena",
+     "gloss": "tilaka",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jayī",
+     "gloss": "victorious",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What combination of sandalwood and tilaka brings victory?",
+   "premises": [
+    "The verse mentions sandalwood.",
+    "It mentions tilaka.",
+    "It promises victory."
+   ],
+   "inference": "Sandalwood together with tilaka makes one victorious.",
+   "uncertainties": [],
+   "plain_english": "With sandalwood and all tilaka, one becomes victorious."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paśyet",
+     "gloss": "sees",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to an enemy who sees the tilaka?",
+   "premises": [
+    "The verse says someone makes a tilaka.",
+    "It says an enemy sees him.",
+    "It says the enemy is fivefold."
+   ],
+   "inference": "An enemy who sees the tilaka becomes fivefold, that is, multiplied or overpowered.",
+   "uncertainties": [
+    "pañcadhā may mean fivefold in a ritual sense."
+   ],
+   "plain_english": "Whoever makes the tilaka, an enemy who sees him becomes fivefold."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "sita",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guñjāṃ",
+     "gloss": "guñjā",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vapet",
+     "gloss": "sprinkle",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "its",
+     "grounds": "pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāharet",
+     "gloss": "gather",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be sprinkled and what root gathered there?",
+   "premises": [
+    "The verse names white guñjā.",
+    "It says sprinkle it there.",
+    "It says gather its root."
+   ],
+   "inference": "White guñjā is sprinkled there, and its root is gathered.",
+   "uncertainties": [],
+   "plain_english": "Sprinkle white guñjā there and gather its root."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "kṛta",
+     "gloss": "made",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭyā",
+     "gloss": "by-sight",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "paśyet",
+     "gloss": "sees",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sambhṛtaṃ",
+     "gloss": "collected",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the enemy see when the tilaka is made?",
+   "premises": [
+    "The verse says the tilaka is made.",
+    "It says the enemy sees by sight.",
+    "It says he sees his own collected thing."
+   ],
+   "inference": "When the tilaka is made, the enemy sees his own collected power or substance.",
+   "uncertainties": [
+    "sambhṛtaṃ is vague; likely collected power."
+   ],
+   "plain_english": "When the tilaka is made, the enemy sees his own collected thing by sight."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "auṣadhī",
+     "gloss": "herb",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siṃhikā",
+     "gloss": "siṃhikā",
+     "grounds": "name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "apposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "by-her",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ghṛṣṭo",
+     "gloss": "rubbed",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rasaḥ",
+     "gloss": "rasa",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What herb is named and what great rasa results from rubbing with it?",
+   "premises": [
+    "The verse names the herb siṃhikā.",
+    "It says one is rubbed with it.",
+    "It mentions a great rasa."
+   ],
+   "inference": "The herb siṃhikā, when used for rubbing, yields a great rasa.",
+   "uncertainties": [],
+   "plain_english": "The herb named siṃhikā; rubbed with it, there is a great rasa."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "pidhāya",
+     "gloss": "cover",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vadanaṃ",
+     "gloss": "mouth",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "his",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sikthakena",
+     "gloss": "wax",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samanvitaḥ",
+     "gloss": "with",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is covered with wax in this rite?",
+   "premises": [
+    "The verse says cover the mouth.",
+    "It refers to his mouth.",
+    "It says with wax."
+   ],
+   "inference": "The mouth is covered with wax.",
+   "uncertainties": [],
+   "plain_english": "Covering his mouth with wax."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "madonmattaḥ",
+     "gloss": "intoxicated",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gajaḥ",
+     "gloss": "elephant",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "darśanena",
+     "gloss": "sight",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "parāṅmukhaḥ",
+     "gloss": "turns-away",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What effect does his sight have on an intoxicated elephant?",
+   "premises": [
+    "The verse mentions an intoxicated elephant.",
+    "It mentions his sight.",
+    "It says the elephant turns away."
+   ],
+   "inference": "His sight makes an intoxicated elephant turn away.",
+   "uncertainties": [],
+   "plain_english": "An intoxicated elephant turns away at his sight."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vyāghrī",
+     "gloss": "vyāghrī",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāvidham",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is to be accomplished with vyāghrī as before?",
+   "premises": [
+    "The verse says accomplish as before.",
+    "It names vyāghrī.",
+    "It mentions fruit and such."
+   ],
+   "inference": "Vyāghrī and its fruit are to be accomplished in the same manner as before.",
+   "uncertainties": [],
+   "plain_english": "As before, accomplish vyāghrī and its fruit, such as that."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "jayā",
+     "gloss": "jayā",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "apposition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "royal",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "kule",
+     "gloss": "house",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "mouth",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃsthaṃ",
+     "gloss": "placed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jayapradam",
+     "gloss": "victory-giving",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the root of jayā placed to give victory?",
+   "premises": [
+    "The verse names the root of jayā.",
+    "It mentions royal house and mouth.",
+    "It says it is victory-giving."
+   ],
+   "inference": "The root of jayā, placed in the royal house or mouth, gives victory.",
+   "uncertainties": [],
+   "plain_english": "The root of jayā, placed in the royal house or mouth, is victory-giving."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "saṃgrāme",
+     "gloss": "battle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jayam",
+     "gloss": "victory",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "jayāṃ",
+     "gloss": "jayā",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smṛtvā",
+     "gloss": "remembering",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "jayī",
+     "gloss": "victorious",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How does one obtain victory in battle and become victorious?",
+   "premises": [
+    "The verse mentions battle and victory.",
+    "It mentions remembering jayā.",
+    "It promises becoming victorious."
+   ],
+   "inference": "By remembering jayā, one obtains victory in battle and becomes victorious.",
+   "uncertainties": [],
+   "plain_english": "One obtains victory in battle; remembering jayā, one becomes victorious."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "mouth",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prakṣipya",
+     "gloss": "putting",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vāde",
+     "gloss": "disputes",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "jayī",
+     "gloss": "victorious",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens when a man puts it in his mouth during disputes?",
+   "premises": [
+    "The verse says putting in the mouth.",
+    "It refers to a man.",
+    "It promises victory in all disputes."
+   ],
+   "inference": "A man who puts it in his mouth becomes victorious in all disputes.",
+   "uncertainties": [],
+   "plain_english": "Putting it in the mouth, a man becomes victorious in all disputes."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ghaṭitaṃ",
+     "gloss": "formed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śastraṃ",
+     "gloss": "weapon",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃgrāme",
+     "gloss": "battle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jayadāyakam",
+     "gloss": "victory-giving",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is formed on that day and what does it give in battle?",
+   "premises": [
+    "The verse refers to that day.",
+    "It says a weapon is formed.",
+    "It says it gives victory in battle."
+   ],
+   "inference": "On that day a weapon is formed that gives victory in battle.",
+   "uncertainties": [],
+   "plain_english": "On that day a weapon is formed, victory-giving in battle."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "jāyante",
+     "gloss": "are-born",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "saṃgrāme",
+     "gloss": "battle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vajrasārāṇi",
+     "gloss": "vajra-like",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is certainly born in battle from those things?",
+   "premises": [
+    "The verse says those things are born.",
+    "It locates them in battle.",
+    "It calls them vajra-like."
+   ],
+   "inference": "Those things are certainly born in battle as vajra-like.",
+   "uncertainties": [],
+   "plain_english": "Those are certainly born in battle, vajra-like."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ukta",
+     "gloss": "uktas",
+     "grounds": "participle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yogānāṃ",
+     "gloss": "yogas",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-them",
+     "grounds": "pronoun",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certainly becomes of all the yogas that were taught?",
+   "premises": [
+    "The verse refers to all taught yogas.",
+    "It says success becomes.",
+    "It says certainly to them."
+   ],
+   "inference": "Success certainly comes to all the taught yogas.",
+   "uncertainties": [],
+   "plain_english": "Success certainly becomes for all the taught yogas."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "bīja",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "namo",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahābala",
+     "gloss": "mahābala",
+     "grounds": "name",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "parākrama",
+     "gloss": "parākrama",
+     "grounds": "name",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śastra",
+     "gloss": "śastra",
+     "grounds": "name",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "name",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "viśārada",
+     "gloss": "viśārada",
+     "grounds": "name",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śārada",
+     "gloss": "śārada",
+     "grounds": "name",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "amukasya",
+     "gloss": "amukasya",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhujabalaṃ",
+     "gloss": "arm-strength",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bandhaya",
+     "gloss": "bind",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "bandhaya",
+     "gloss": "bind",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "dṛṣṭiṃ",
+     "gloss": "sight",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "stambhaya",
+     "gloss": "stambhaya",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "stambhaya",
+     "gloss": "stambhaya",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dhūnaya",
+     "gloss": "shake",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "dhūnaya",
+     "gloss": "dhūnaya",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "pātaya",
+     "gloss": "strike-down",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "pātaya",
+     "gloss": "pātaya",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "mahītale",
+     "gloss": "earth",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hūṃ",
+     "gloss": "hūṃ",
+     "grounds": "bīja",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What commands does this mantra give against the named person?",
+   "premises": [
+    "The verse salutes Mahābala and related names.",
+    "It names a person with amukasya.",
+    "It commands binding, stalling, shaking, and striking down."
+   ],
+   "inference": "The mantra commands binding arm-strength and sight, stalling limbs, shaking, and striking the named person to earth.",
+   "uncertainties": [
+    "amukasya is a placeholder name."
+   ],
+   "plain_english": "Om, salutation to Mahābala, Parākrama, Śastra-vidyā, Viśārada, Śārada: bind the arm-strength of so-and-so, bind; stall sight, stall; shake limbs, shake; strike down, strike down to earth, hūṃ."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "baddhvā",
+     "gloss": "binding",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "saubhāgyam",
+     "gloss": "good-fortune",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "svāmino",
+     "gloss": "mistress",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "durbhagā",
+     "gloss": "unfortunate",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does an unfortunate woman obtain by binding?",
+   "premises": [
+    "The verse says binding.",
+    "It says good fortune is obtained.",
+    "It says even an unfortunate woman."
+   ],
+   "inference": "By binding, even an unfortunate woman obtains good fortune from her mistress.",
+   "uncertainties": [],
+   "plain_english": "Binding, she obtains good fortune; even an unfortunate woman of the mistress."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "kṣaudraiḥ",
+     "gloss": "honey",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "pounding",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vaṭīḥ",
+     "gloss": "pills",
+     "grounds": "object",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "make",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tilakaiḥ",
+     "gloss": "tilakas",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "subhagā",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṅganā",
+     "gloss": "woman",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What pills are made with honey and tilakas for a woman?",
+   "premises": [
+    "The verse says pound with honey.",
+    "It says make pills.",
+    "It says with tilakas and auspicious woman."
+   ],
+   "inference": "Pills are made with honey and tilakas, making the woman auspicious.",
+   "uncertainties": [],
+   "plain_english": "Pounding with honey, make pills with tilakas; the woman becomes auspicious."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "place",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "saubhāgyaṃ",
+     "gloss": "good-fortune",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What is placed in the middle of honey and what becomes?",
+   "premises": [
+    "The verse says place in honey.",
+    "It says in the middle.",
+    "It says good fortune becomes."
+   ],
+   "inference": "Placing it in the middle of honey, good fortune becomes.",
+   "uncertainties": [],
+   "plain_english": "Place it in the middle of honey; good fortune becomes."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "place",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "saptāha",
+     "gloss": "seven",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "āt",
+     "gloss": "days",
+     "grounds": "ablative",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saubhāgyavān",
+     "gloss": "fortunate",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "After how many days does one become fortunate by placing it in honey?",
+   "premises": [
+    "The verse says place in honey.",
+    "It mentions seven days.",
+    "It says he becomes fortunate."
+   ],
+   "inference": "After seven days of placing it in honey, he becomes fortunate.",
+   "uncertainties": [],
+   "plain_english": "Place it in the middle of honey; after seven days he becomes fortunate."
+  }
+ ]
+}

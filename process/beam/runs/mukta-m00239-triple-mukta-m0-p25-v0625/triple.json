@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "kandamūlaṃ",
+     "gloss": "tuber-root",
+     "grounds": "compound noun denoting tuber root, object of grinding",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ghṛtaiḥ",
+     "gloss": "with-ghee",
+     "grounds": "instrumental plural of ghṛta",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "grinding",
+     "grounds": "absolutive of root piṣ",
+     "morph": "abs (indecl.)"
+    },
+    {
+     "surface": "ṛtau",
+     "gloss": "in-season",
+     "grounds": "locative singular of ṛtu",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "feminine pronoun subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "garbhiṇī",
+     "gloss": "pregnant",
+     "grounds": "feminine adjective describing the woman",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Which preparation and timing make a woman become pregnant?",
+   "premises": [
+    "tuber-root ground with ghee",
+    "seasonal timing specified",
+    "woman becomes pregnant"
+   ],
+   "inference": "A woman becomes pregnant when tuber-root ground with ghee is used in season.",
+   "uncertainties": [
+    "exact tuber species unspecified",
+    "medical efficacy not stated"
+   ],
+   "plain_english": "Grinding tuber-root with ghee, in season, she becomes pregnant."
+  }
+ ]
+}

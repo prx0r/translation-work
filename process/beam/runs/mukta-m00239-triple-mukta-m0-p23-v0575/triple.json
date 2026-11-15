@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "rajasvalā",
+     "gloss": "menstruating",
+     "grounds": "menstruating woman adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "becomes (optative)",
+     "morph": "3.sg.act-pres-opt+root bhū"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "woman",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mūladevena",
+     "gloss": "by-root-deity",
+     "grounds": "by root deity",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "bhāṣitam",
+     "gloss": "spoken",
+     "grounds": "spoken (as stated)",
+     "morph": "acc.sg.n.participle+root bhāṣ"
+    }
+   ],
+   "question": "What condition makes a woman menstruating according to the root deity's statement?",
+   "premises": [
+    "root deity declares menstruation condition",
+    "woman becomes menstruating thereby"
+   ],
+   "inference": "Menstruation is attributed to root deity's declaration.",
+   "uncertainties": [
+    "exact ritual context unclear"
+   ],
+   "plain_english": "A woman becomes menstruating, as spoken by the root deity."
+  }
+ ]
+}

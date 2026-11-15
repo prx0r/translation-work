@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p114-v2826
-auspicious-day(puṇyāham) recite(vācayet) wise(dhīmān) five-cow-products+endowed(pañcagavya+samanvitam)
+[auspicious-day](puṇyāhaṃ) [cause-to-recite](vācayet) [wise](ddhīmān) [five-cow-products+endowed](pañcagavyasamanvitam)
 
 ## mukta-m0-p114-v2827
-with-rice(śālibhiḥ) and(ca) earth-pots(vasudroṇaiḥ) small-altar(sthalikam) cause-to-make(kārayet) wise(budhaḥ)
+[with-rice](śālibhiśca) [with-earth-pots](vasudroṇaiḥ) [small-altar](sthalikaṃ) [cause-to-make+wise](kārayedbudhaḥ)
 
 ## mukta-m0-p114-v2828
-parched-rice(lājaiḥ) flowers(puṣpaiḥ) scatter-around(paristirya) five-colored(pañcavarṇena) fill(pūrayet)
+[with-parched-rice](lājaiḥ) [with-flowers](puṣpai) [scatter-around](paristirya) [with-five-colors](pañcavarṇena) [fill](pūrayet)
 
 ## mukta-m0-p114-v2829
-in-middle(tanmadhye) lotus(abja) to-be-made(prakartavyam) eight-petals+endowed(dalāṣṭaka+samanvitam)
+[in-middle](tanmadhye) [lotus](abja) [to-be-made](prakartavyaṃ) [eight-petals+endowed](dalāṣṭakasamanvitam)
 
 ## mukta-m0-p114-v2830
-thread(tantunā) cover(veṣaye) all-cow-like(sarvāgavaṃkṣa) resembling+men(sadṛśān+naram)
+[with-thread](tantunā) [cover](veṣaye) [all-cow?](sarvāgavaṃkṣa) [man-like](sadṛśānnaram)
 
 ## mukta-m0-p114-v2831
-arches+pots+weapons(toraṇa+kalaśa+astrān) direction-lords(dikpatīn) and(ca) in-order(yathākramam)
+[arches-pots-weapons](toraṇakalaśānastrān) [direction-lords](dikpatīśca) [in-order](yathākramam)
 
 ## mukta-m0-p114-v2832
-then(tataḥ) worship(saṃpūjya) sandal-etc(gandhādyaiḥ) altar-above(rvedikā+ūrdhve) śiva-seat(śivāsanam)
+[then](tataḥ) [worship](saṃpūjya) [with-sandal-etc](gandhādyaiḥ) [on-altar-above](rvedikordhve) [Shiva-seat](śivāsanam)
 
 ## mukta-m0-p114-v2833
-twelve-fingers-measure(dvādaśāṅgulamānena) circle(maṇḍalam) swastika-endowed(svastikānvitam)
+[twelve-angula-measure](dvādaśāṅgulamānena) [circle](maṇḍalaṃ) [swastika-endowed](svastikānvitam)
 
 ## mukta-m0-p114-v2834
-pair-linga-endowed(yugaliṅga+samāyuktam) swastika-arrange(svastika+saṃprakalapayet)
+[pair-linga-endowed](yugaliṅgasamāyuktaṃ) [swastika-arrange](svastikasaṃprakalapayet)
 
 ## mukta-m0-p114-v2835
-altar(staṇḍilam) there(tatra) to-be-made(kartavyam) pure(vimalaiḥ) rice-grains(śālitaṇḍulaiḥ)
+[altar](staṇḍilaṃ) [there](tatra) [to-be-made](kartavyaṃ) [pure](vimalaiḥ) [rice-grains](śālitaṇḍulaiḥ)
 
 ## mukta-m0-p114-v2836
-in-small-altar(sthalikāyām) place(anyaset) there(tatra) rice-flour(śālipiṣṭaiḥ) wise(vicakṣaṇaḥ)
+[in-small-altar](sthalikāyānyaset) [there](tatra) [with-rice-flour](śālipiṣṭaiḥ) [wise](vicakṣaṇaḥ)
 
 ## mukta-m0-p114-v2837
-all-limbs-complete(sarvāvayava+saṃpūrṇam) arrange(kalpayet) best-of-ritualists(kalpavittamaḥ)
+[all-limbs-complete](sarvāvayavasaṃpūrṇaṃ) [arrange](kalpayet) [best-of-ritual](kalpavittamaḥ)
 
 ## mukta-m0-p114-v2838
-donkey-horns-face(kharaśrīṅgāsya) ears(karṇau) and(ca) testicles(vṛṣaṇam) extra-two(dvātiriktakam)
+[donkey-horns-face](kharaśrīṅgāsya) [ears](karṇau) [and](ca) [testicles](vṛṣaṇaṃ) [two-extra](dvātiriktakam)
 
 ## mukta-m0-p114-v2839
-eyebrows(bhruvau) that-measure(tanmāna) lines(rekhāṇām) black-color(kṛṣṇavarṇa) thus(iti) remembered(smṛtam)
+[eyebrows](bhruvau) [that-measure](tanmāna) [lines](rekhāṇāṃ) [black-color](kṛṣṇavarṇemiti) [remembered](smṛtam)
 
 ## mukta-m0-p114-v2840
-all-flowers(sarvapuṣpaiḥ) decorate(alaṅkṛtya) incense-lamp-endowed(dhūpadīpa+samanvitam)
+[with-all-flowers](sarvapuṣpairalaṅkṛtya) [incense-lamp-endowed](dhūpadīpasamanvitam)
 
 ## mukta-m0-p114-v2841
-teacher(ācārya) taking(ādāya) bull(vṛṣabham) conch-sound-endowed(śaṅkhadhvani+samanvitam)
+[teacher-take](ācāryādāya) [bull](vṛṣabhaṃ) [conch-sound-endowed](śaṅkhadhvanisamanvitam)
 
 ## mukta-m0-p114-v2842
-durva-tips-eight-thousand-white-rice(dūrvāgra+maṣṭasāhasra+dhavala+akṣata+saṃyutam)
+[durva-tips-eight-thousand](dūrvāgramaṣṭasāhasrā) [white-rice-grains-endowed](dhavalākṣatasaṃyutam)
 
 ## mukta-m0-p114-v2843
-oblation(havim) offer(nivedayitvā) then(atha) split-mung-endowed(mudgabhinnasamanvitam)
+[oblation](haviṃ) [offer](nivedayitvātha) [split-mung-endowed](mudgabhinnasamanvitam)
 
 ## mukta-m0-p114-v2844
-then(tato) temple(devālayam) give(datvā) song-instrument-endowed(gītavādya+samanvitam)
+[then](tato) [temple](devālayaṃ) [give](datvā) [song-music-endowed](gītavādyasamanvitam)
 
 ## mukta-m0-p114-v2845
-new-right(bhadre) place(sthāpayet) as-before(pūrvavat) mind(mana)
+[nine?](navakadakṣiṇe) [auspicious](bhadre) [place](sthāpayet) [as-before](pūrvavanmana)
 
 ## mukta-m0-p114-v2846
-place(vinyaset) sandal-flowers-etc(gandhapuṣpādyaiḥ) with-heart(hṛdayena) wise(vicakṣaṇaḥ)
+[place](vinyased) [with-sandal-flowers-etc](gandhapuṣpādyaiḥ) [with-heart](hṛdayena) [wise](vicakṣaṇaḥ)
 
 ## mukta-m0-p114-v2847
-incense-lamps(dhūpadīpaiḥ) worship(samabhyarcya) pure-rice(śuddhānnam) and(ca) offer(nivedayet)
+[with-incense-lamps](dhūpadīpaiḥ) [worship](samabhyarcya) [pure-rice](śuddhānnaṃ) [and](ca) [offer](nivedayet)
 
 ## mukta-m0-p114-v2848
-from-āyana-to-marriage(āyanādi+vivāhāntam) by-previous-rite(pūrvoktavidhinā) do(kuru)
+[from-ayana](āyanādi) [to-marriage-end](vivāhāntaṃ) [by-previous-rite](pūrvoktavidhinā) [do](kuru)
 
 ## mukta-m0-p114-v2849
-pomegranate-flower-like(ḍāḍimipuṣpa+saṃkāśam) ten-arms-endowed(daśadobhiḥ+samanvitam)
+[pomegranate-flower-like](ḍāḍimipuṣpasaṃkāśaṃ) [ten-arms-endowed](daśadobhissamanvitam)
 
 ## mukta-m0-p114-v2850
-vajra-etc-trident-axe(vajrādi+śūla+ṭaṅkam) and(ca) fearlessness(abhayam) right(dakṣiṇe) held(dhṛtam)
+[vajra-etc-trident-axe](vajrādiśūlaṭaṅkaṃ) [and](ca) [fearlessness](abhayaṃ) [on-right](dakṣiṇe) [held](dhṛtam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[bhadra-pīṭha](bhadrapīṭhe) [viśeṣa](viśeṣo'sti) [mantra-nyāsa](mantranyāsa) [sam-uddharet](samuddharet)
+[auspicious-seat](bhadrapīṭhe) [special](viśeṣo) [exists](asti) [mantra-nyasa-should-be-erected](mantranyāsasamuddharet)
 
 ## mukta-m0-p105-v2602
-[gaurī](gauri) [ca](ca) [eva](eva) [manonmanī](manonmanyā) [bhavānī](bhavāni) [tri-vidha](trividhaṃ) [bhavet](bhavet)
+[gauri](gauri) [and](ca) [indeed](eva) [mind-arising](manonmanyā) [bhavani](bhavāni) [threefold](trividhaṃ) [becomes](bhavet)
 
 ## mukta-m0-p105-v2603
-[hasta-avalamba](hastāvalambā) [parama-īśvarī](parameśvariṃ) [syāt](syāt)
+[hand-support](hastāvalambā) [supreme-goddess](parameśvariṃ) [would-be](syāt)
 
 ## mukta-m0-p105-v2604
-[lamba](lambamekakara) [dakṣiṇa](dakṣiṇetpalaṃ) [yā](yā) [bhamanu-sāra-vaktra](bhamanusāravaktrakam)
+[pendant](lambamekakara) [right](dakṣiṇet) [lotus](palaṃ) [who](yā) [face-following](bhamanusāravaktrakam)
 
 ## mukta-m0-p105-v2605
-[su-mukha](sumukhamambikāyām) [ambikā](ambikāyām)
+[beautiful-face](sumukham) [ambika](ambikāyām)
 
 ## mukta-m0-p105-v2606
-[karaṇḍa-makuṭa-upeta](karaṇḍamakuṭopetā) [sarva-lakṣaṇa-saṃyuta](sarvalakṣaṇasaṃyutā)
+[basket-crown](karaṇḍamakuṭopetā) [all-marks-endowed](sarvalakṣaṇasaṃyutā)
 
 ## mukta-m0-p105-v2607
-[rakta-kamala-āsana](raktakamalāsanamanonmanisvarūpam) [manonmanī-svarūpa](manonmanisvarūpam)
+[red-lotus-seat](raktakamalāsanamanonmanisvarūpam)
 
 ## mukta-m0-p105-v2608
-[tuṅga-kuṭa-jvala](tuṅgakuṭojvalamanonmani) [manonmanī-svarūpa](svarūpam)
+[high-crown-radiant](tuṅgakuṭojvalamanonmani) [form](svarūpam)
 
 ## mukta-m0-p105-v2609
-[sakala](sakala) [śyāma-varṇa](śyāmavarṇañca) [gaurī](gaurim)
+[all](sakala) [done](kṛtaṃ) [syāt](syāt) [dark-color](śyāmavarṇañca) [gauri](gaurim)
 
 ## mukta-m0-p105-v2610
-[śrī-kāma-koṭi](śrikāmakoṭiṃ) [śiva-śakti-rūpa](śivaśakti rūpām)
+[shri-kama-koti](śrikāmakoṭiṃ) [shiva-shakti-form](śivaśakti) [rūpām](rūpām)
 
 ## mukta-m0-p105-v2611
-[para-rūpa-dhara-rūpa](pararūpadhararūpam)
+[other-form-bearing-form](pararūpadhararūpam)
 
 ## mukta-m0-p105-v2612
-[prakāra-abhyantare](prakārābhyantare) [vā](vā) [api](api) [aiśānya](aiśānye) [vā](vā) [viśiṣyate](viśiṣyate)
+[ways-inside](prakārābhyantare) [or](vā) [api](api) [northeast](aiśānye) [or](vā) [distinguished](viśiṣyate)
 
 ## mukta-m0-p105-v2613
-[atha-vā](athavānyaprakāreṇa) [anya-prakāra](anyaprakāreṇa) [dakṣiṇa-ai-ṛta-pāvaka](dakṣanai-ṛtapāvake)
+[or](athavā) [other-way](anyaprakāreṇa) [southeast-fire](dakṣanai-ṛtapāvake)
 
 ## mukta-m0-p105-v2614
-[svatantra-āla](svatantrāla) [saṃkalpya](saṃkalpya) [na](nacittestu) [citta](cittestu) [pratiṣṭhayet](pratiṣṭhayet)
+[independent](svatantrāla) [intending](saṃkalpya) [not](na) [mind](cittestu) [establish](pratiṣṭhayet)
 
 ## mukta-m0-p105-v2615
-[dakṣiṇa-abhimukha](dakṣiṇābhimukhaṃ) [kṛtvā](kṛtvā) [sarva-saṃpat-kara](sarvasaṃpatkaraṃ) [tathā](tathā)
+[south-facing](dakṣiṇābhimukhaṃ) [having-made](kṛtvā) [all-prosperity-causing](sarvasaṃpatkaraṃ) [thus](tathā)
 
 ## mukta-m0-p105-v2616
-[uttara-abhimukha](uttarābhimukhaṃ) [devī](devi) [saukhya-ka](saukhyakaṃ) [ca](ca) [tataḥ](tataḥ) [param](param)
+[north-facing](uttarābhimukhaṃ) [goddess](devi) [happiness-causing](saukhyakaṃ) [then](ca) [after](tataḥ) [param](param)
 
 ## mukta-m0-p105-v2617
-[yad-vaktra](yadvaktraṃ) [dvāra](dvāraṃ) [saṃkalpya](saṃkalpya) [prākāra-ādi](prākārādini) [kalpayet](kalpayet)
+[whose-face](yadvaktraṃ) [door](dvāraṃ) [intending](saṃkalpya) [wall-etc](prākārādini) [should-arrange](kalpayet)
 
 ## mukta-m0-p105-v2618
-[yoga](yoge) [liṅga](liṅga) [samāyukta](samāyuktaṃ) [bhoga](bhogaṃ) [vāme](vāme) [samanvita](samanvitam)
+[yoga](yoge) [linga](liṅga) [joined](samāyuktaṃ) [enjoyment](bhogaṃ) [left](vāme) [accompanied](samanvitam)
 
 ## mukta-m0-p105-v2619
-[uttare](uttare) [tu](tu) [yajet](yajed) [gaurī](gaurīṃ) [vāyu-deśe](vāyudeśe) [manonmanī](manonmanī)
+[north](uttare) [tu](tu) [worship](yajed) [gauri](gaurīṃ) [wind-region](vāyudeśe) [manonmani](manonmanī)
 
 ## mukta-m0-p105-v2620
-[gaurī](gauri) [dakṣiṇa-dig-bhāga](dakṣiṇadigbhāge) [pāvaka](pāvake) [tu](tu) [manonmanī](manonmanī)
+[gauri](gauri) [south-direction](dakṣiṇadigbhāge) [fire](pāvake) [tu](tu) [manonmani](manonmanī)
 
 ## mukta-m0-p105-v2621
-[sthāna](sthānaṃ) [saṃyukta-da-sthāna](saṃyuktadasthāne) [śakti](śaktināṃ) [jīrṇa-naṣṭaka](jīrṇanaṣṭake)
+[place](sthānaṃ) [joined-place](saṃyuktadasthāne) [shaktis](śaktināṃ) [worn-lost](jīrṇanaṣṭake)
 
 ## mukta-m0-p105-v2622
-[bhakta](bhaktāṃśca) [parivāra](parivārāṃśca) [kartabhaktyānukūla](kartabhaktyānukūlake)
+[devotees](bhaktāṃśca) [and](ca) [attendants](parivārāṃśca) [doer-devotion-favorable](kartabhaktyānukūlake)
 
 ## mukta-m0-p105-v2623
-[nyūna-adhikya](nyunādhikyaṃ) [na](na) [kartavya](kartavyaṃ) [pūrva-vat](pūrvavat) [parikalpayet](parikalpayet)
+[deficiency-excess](nyunādhikyaṃ) [not](na) [should-do](kartavyaṃ) [as-before](pūrvavat) [should-arrange](parikalpayet)
 
 ## mukta-m0-p105-v2624
-[svatantra-āla](svatantrālasaṃkalpya) [saṃkalpya](saṃkalpya) [sthāpayet](sthāpayet) [pūjayet](pūjayet) [tataḥ](tataḥ)
+[independent](svatantrālasaṃkalpya) [establish](sthāpayet) [worship](pūjayet) [then](tataḥ)
 
 ## mukta-m0-p105-v2625
-[dvi-bhujā](dvibhujāṃ) [ca](ca) [dvi-netrā](dvinetrāṃ) [ca](ca) [pīta-vastrā](pītavastrāṃ) [su-yauvanā](suyauvanām)
+[two-armed](dvibhujāṃ) [ca](ca) [two-eyed](dvinetrāṃ) [ca](ca) [yellow-garmented](pītavastrāṃ) [well-youthful](suyauvanām)

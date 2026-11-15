@@ -3,34 +3,29 @@
  "verse": 88,
  "rows": [
   {
-   "lemma": "nūnaṃ",
+   "lemma": "tasmāt",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
+   "grounds": "indeclinable adverb"
   },
   {
-   "lemma": "trilocanena",
-   "morph": "instr.sg.m",
+   "lemma": "imaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "accusative singular masculine"
+  },
+  {
+   "lemma": "prayatnena",
+   "morph": "m.inst.sg",
    "grounds": "instrumental singular masculine"
   },
   {
-   "lemma": "asau",
-   "morph": "nom.sg.m",
-   "grounds": "nominative singular masculine"
+   "lemma": "sādhayet",
+   "morph": "3.sg.act.opt+sādh",
+   "grounds": "optative of root sādh"
   },
   {
-   "lemma": "sarvataḥ",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable"
-  },
-  {
-   "lemma": "amaratāṃ",
-   "morph": "acc.sg.f",
-   "grounds": "accusative singular feminine"
-  },
-  {
-   "lemma": "gataḥ",
-   "morph": "nom.sg.m",
-   "grounds": "nominative singular masculine participle"
+   "lemma": "mantramuttamam",
+   "morph": "m.acc.sg+compound",
+   "grounds": "accusative singular masculine compound"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[vidyeśa](vidyeśa) [śata-japtvā](śatajaptvā) [tu](tu) [sarva-tīrtha-phalaṃ](sarvatīrthaphalaṃ) [labhet](labhet)
+[lord-of-vidyā](vidyeśa) [having-chanted-hundred](śatajaptvā) [but](tu) [fruit-of-all-tīrthas](sarvatīrthaphalaṃ) [obtains](labhet)
 
 ## mukta-m0-p15-v352
-[mahā-pātaka](mahāpātaka) [yukta-ātmā](yuktātmā) [lakṣaṇaiḥ](lakṣaṇaiḥ) [kena](kena) [mucyate](mucyate)
+[great-sin](mahāpātaka) [possessed-soul](yuktātmā) [by-what-signs](lakṣaṇaiḥ) [kena](kena) [is-liberated](mucyate)
 
 ## mukta-m0-p15-v353
-[trailokyaṃ](trailokyaṃ) [sakalaṃ](sakalaṃ) [hatvā](hatvā) [sa](sa) [deva-asura-mānuṣān](devāsuramānuṣān)
+[three-worlds](trailokyaṃ) [all](sakalaṃ) [having-slain](hatvā) [gods-demons-men](sa devāsuramānuṣān)
 
 ## mukta-m0-p15-v354
-[vidhinā](vidhinā) [nava-lakṣāṇi](navalakṣāṇi) [japtvā](japtvā) [sādhaka](sādhaka) [puṅgavaḥ](puṅgavaḥ)
+[by-rite](vidhinā) [nine-lakṣas](navalakṣāṇi) [having-chanted](japtvā) [sādhaka-best](sādhaka puṅgavaḥ)
 
 ## mukta-m0-p15-v355
-[pratimā](pratimā) [hema-tāro](hematāro) [vā](vā) [ratna](ratna) [muktā](muktā) [pravāla-jā](pravālajā)
+[image](pratimā) [golden-or-silver](hematāro) [or](vā) [gem-pearl-coral-born](ratna muktā pravālajā)
 
 ## mukta-m0-p15-v356
-[agarūṃ](agarūṃ) [devadārūṃ](devadārūṃ) [vā](vā) [pūrva-lakṣaṇa-lakṣitam](pūrvalakṣaṇalakṣitam)
+[agaru](agarūṃ) [devadāru](devadārūṃ) [or](vā) [marked-by-prior-signs](pūrvalakṣaṇalakṣitam)
 
 ## mukta-m0-p15-v357
-[paṭe](paṭe) [vā](vā) [likhitā](likhitā) [devī](devī) [kumārī](kumārī) [karttitena](karttitena) [tu](tu)
+[on-cloth](paṭe) [or](vā) [painted-goddess](likhitā devī) [maiden](kumārī) [by-artist](karttitena) [tu](tu)
 
 ## mukta-m0-p15-v358
-[smaśāna-vastre](smaśānavastre) [vā](vā) [likhya](likhya) [eka-hastaṃ](ekahastaṃ) [sva-mānataḥ](svamānataḥ)
+[on-cremation-cloth](smaśānavastre) [or](vā) [painted](likhya) [one-hand](ekahastaṃ) [by-own-measure](svamānataḥ)
 
 ## mukta-m0-p15-v359
-[sahasraṃ](sahasraṃ) [ca-eva](caiva) [vidyāyā](vidyāyā) [homayitvā](homayitvā) [anyaset](anyaset) [tanau](tanau)
+[thousand](sahasraṃ) [also](ca) [indeed](eva) [of-vidyā](vidyāyā) [having-offered](homayitvā) [anoint-body](nyasettanau)
 
 ## mukta-m0-p15-v360
-[putrañjīvaka](putrañjīvaka) [rudrākṣaiḥ](rudrākṣaiḥ) [tāra-hema-kṛtena](tārahemakṛtena) [vā](vā)
+[putrañjīvaka](putrañjīvaka) [rudrākṣas](rudrākṣaistārahemakṛtetha) [or](vā)
 
 ## mukta-m0-p15-v361
-[kumārī-karttite](kumārīkarttite) [sūtre](sūtre) [nava-tantu](navatantu) [kṛtena](kṛtena) [tu](tu)
+[maiden-made](kumārīkarttite) [thread](sūtre) [nine-strand](navatantu) [made](kṛtena) [tu](tu)
 
 ## mukta-m0-p15-v362
-[śataṃ](śataṃ) [sahasram](sahasram) [ayutaṃ](ayutaṃ) [japed](japed) [dhomaṃ](dhomaṃ) [prakīrtitam](prakīrtitam)
+[hundred](śataṃ) [thousand](sahasram) [ten-thousand](ayutaṃ) [japed](ñjaped) [homa](dhomaṃ) [declared](prakīrtitam)
 
 ## mukta-m0-p15-v363
-[evaṃ](evaṃ) [vidhāna-tāṃ](vidhānatāṃ) [japtvā](japtvā) [lakṣam](lakṣamekaṃ) [ekaṃ](lakṣamekaṃ) [homayet](homayet)
+[thus](evaṃ) [by-arrangement](vidhānatāṃ) [having-chanted](japtvā) [one-lakh](lakṣamekaṃ) [offer](homayet)
 
 ## mukta-m0-p15-v364
-[tilaiḥ](tilairyavaistathā) [yavaiḥ](tilairyavaistathā) [tathā](tilairyavaistathā) [lājaiḥ](lājaiḥ) [vrīhi-godhūma-kāṅgujaiḥ](vrīhigodhūmakāṅgujaiḥ)
+[with-sesame](tilairyavaistathā) [barley](lājairvrīhigodhūmakāṅgujaiḥ)
 
 ## mukta-m0-p15-v365
-[arddha-rātre](arddharātre) [tu](tu) [sannaddhaḥ](sannaddhaḥ) [khaḍga-kheṭaka-dhāriṇaḥ](khaḍgakheṭakadhāriṇaḥ)
+[at-midnight](arddharātre) [tu](tu) [armed](sannaddhaḥ) [sword-shield-bearer](khaḍgakheṭakadhāriṇaḥ)
 
 ## mukta-m0-p15-v366
-[eka-vāso](ekavāso) [vicitreṇa](vicitreṇa) [rakta-pīta-sitena](raktapītasitena) [vā](vā)
+[single-garment](ekavāso) [variegated](vicitreṇa) [red-yellow-white](raktapītasitena) [or](vā)
 
 ## mukta-m0-p15-v367
-[nābhi-mālipta](nābhimālipta) [dehaḥ](dehastu) [tu](dehastu) [kṛṣṇā](kṛṣṇā) [guru](guru) [sudhūpitaḥ](sudhūpitaḥ)
+[navel-anointed](nābhimālipta) [body](dehastu) [black](kṛṣṇā) [guru](guru) [well-incensed](sudhūpitaḥ)
 
 ## mukta-m0-p15-v368
-[bhūṣito](bhūṣito) [hema-ratna-ādyaiḥ](hemaratnādyaiḥ) [tāmbūla](tāmbūla) [mukha-pūritaḥ](mukhapūritaḥ)
+[adorned](bhūṣito) [gold-gems-etc](hemaratnādyaistāmbūla) [mouth-filled](mukhapūritaḥ)
 
 ## mukta-m0-p15-v369
-[sarva-aṅga-upakaraṇa-ādyaiḥ](sarvāṅgopakaraṇādyaiḥ) [pūjya](pūjya) [devīṃ](devīṃ) [svake](svake) [gṛhe](gṛhe)
+[with-all-limb-equipment](sarvāṅgopakaraṇādyaiḥ) [worship](pūjya) [goddess](devīṃ) [in-own-house](svake gṛhe)
 
 ## mukta-m0-p15-v370
-[vrajet](vrajoddakṣiṇadigbhāgaṃ) [udakṣiṇa-dig-bhāgaṃ](vrajoddakṣiṇadigbhāgaṃ) [dvāri](dvāridadyādvaliṃ) [dadyāt](dvāridadyādvaliṃ) [baliṃ](dvāridadyādvaliṃ) [budhaḥ](budhaḥ)
+[go](vrajoddakṣiṇadigbhāgaṃ) [door](dvāridadyādvaliṃ) [offering](budhaḥ)
 
 ## mukta-m0-p15-v371
-[catvare](catvare) [eka](eka) [vṛkṣeṣu](vṛkṣeṣu) [śaṅku-sthāne](śaṅkusthāne) [smaśānake](smaśānake)
+[at-crossroads](catvare) [one-tree](eka vṛkṣeṣu) [stake-place](śaṅkusthāne) [cremation-ground](smaśānake)
 
 ## mukta-m0-p15-v372
-[ekaṃ](ekaṃ) [kṛtvā](kṛtvā) [tono](tono) [mantrī](mantrī) [kṣipram](kṣipram) [āgamanaṃ](āgamanaṃ) [kuru](kuru)
+[one](ekaṃ) [having-made](kṛtvā) [tono](tono) [mantrin](mantrī) [quick-coming](kṣipramāgamanaṃ) [do](kuru)
 
 ## mukta-m0-p15-v373
-[yogibhiḥ](yogibhiḥ) [saha-melāpaṃ](sahamelāpaṃ) [bhavate](bhavate) [na-atra](nātra) [saṃśayaḥ](saṃśayaḥ)
+[with-yogis](yogibhiḥ) [meeting](sahamelāpaṃ) [becomes](bhavate) [no](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p15-v374
-[tadā](tadā) [divya](divya) [parijñānaṃ](parijñānaṃ) [bhavate](bhavate) [sādhakasya](sādhakasya) [tu](tu)
+[then](tadā) [divine](divya) [complete-knowledge](parijñānaṃ) [becomes](bhavate) [of-sādhaka](sādhakasya) [tu](tu)
 
 ## mukta-m0-p15-v375
-[satva-adhiko](satvādhiko) [mahā-tejo](mahātejo) [mano-vegaḥ](manovegaśca) [ca](manovegaśca) [jāyate](jāyate)
+[more-sattva](satvādhiko) [great-splendor](mahātejo) [mind-speed](manovegaśca) [arises](jāyate)

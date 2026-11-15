@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "lepa+mātreṇa",
+     "gloss": "by-smearing-alone",
+     "grounds": "lepa (smearing) + mātreṇa (by mere) compound in instrumental",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "vīrāṇām",
+     "gloss": "of-heroes",
+     "grounds": "vīra (hero) in genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "sarva+śastra+nivāraṇam",
+     "gloss": "all-weapons-warding-off",
+     "grounds": "sarva (all) + śastra (weapons) + nivāraṇa (warding off) compound",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What ritual act wards off all weapons for heroes?",
+   "premises": [
+    "Mere smearing is sufficient.",
+    "Heroes receive protection.",
+    "All weapons are warded off."
+   ],
+   "inference": "Smearing alone protects heroes from every weapon.",
+   "uncertainties": [
+    "Exact substance and ritual context are unspecified."
+   ],
+   "plain_english": "By mere smearing, all weapons are warded off for heroes."
+  }
+ ]
+}

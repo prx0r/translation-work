@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "krodha",
+     "gloss": "anger",
+     "grounds": "anger; subject of pacification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upaśamanaṃ",
+     "gloss": "pacification",
+     "grounds": "pacification; object of becoming",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "becoming; links anger to pacification",
+     "morph": "3.sg.act-pres (bhū)"
+    },
+    {
+     "surface": "prasāda",
+     "gloss": "favorable",
+     "grounds": "favorable grace; object of devotion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paro",
+     "gloss": "devoted",
+     "grounds": "devoted; qualifier of becoming",
+     "morph": "m.nom.sg (adj)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "becoming; links devotion to favorable grace",
+     "morph": "3.sg.act-pres (bhū)"
+    }
+   ],
+   "question": "What spiritual result follows from the pacification of anger?",
+   "premises": [
+    "Anger is pacified.",
+    "Favorable devotion arises.",
+    "Becoming follows pacification."
+   ],
+   "inference": "Pacifying anger leads to becoming devoted to favorable grace.",
+   "uncertainties": [
+    "Legacy glosses 'favorable' and 'devoted' may not capture exact doctrinal sense."
+   ],
+   "plain_english": "Anger is pacified; one becomes devoted to favorable grace."
+  }
+ ]
+}

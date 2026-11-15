@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p24",
  "verse": 584,
- "question": "What kinds of stains and dust are mentioned?",
+ "question": "For which woman does fetal origin not arise again?",
  "premises": [
-  "stain is mentioned",
-  "crow-foot scratch is mentioned",
-  "dust is mentioned"
+  "a woman is named",
+  "fetal origin is the subject",
+  "it does not arise again for her"
  ],
- "inference": "The verse lists stain, crow-foot scratch, and dust as relevant impurities.",
+ "inference": "For that woman, fetal origin does not arise again.",
  "uncertainties": [
-  "the exact ritual use of these impurities is not stated"
+  "the prior condition is not specified here"
  ],
- "plain_english": "Stain, and crow-foot scratch dust, are mentioned."
+ "plain_english": "For that woman, fetal origin does not arise again."
 }

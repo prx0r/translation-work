@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-thereafter (ator dhvam?) other (anyat) maya-principle (māyātatvam) very-difficult (sudustaram)
+[thereafter](ator) [indeed](dhvaṃ) [would-be](tu) [other](bhaved) [māyā-principle](anyanmāyātatvaṃ) [very-difficult-to-cross](sudustaram)
+
 ## mukta-m0-p27-v652
-in-its-middle (tasya madhye) situated (sthitā) goddess (devī) maya (māyā) many-formed (bahurūpiṇī)
+[of-that](tasya) [in-middle](madhye) [situated](sthitā) [goddess](devī) [māyā](māyā) [indeed](tu) [many-formed](bahurūpiṇī)
+
 ## mukta-m0-p27-v653
-indra-nil (indranīla) equal-radiance (samaprakhya) ray-net (raśmijāla) surrounded (avakuṃṭhitam)
+[sapphire-like-luster](indranīlasamaprakhya) [net-of-rays-enclosed](raśmijālāvakuṃṭhitam)
+
 ## mukta-m0-p27-v654
-left-practice (vāmacāra) three (trayaḥ) there (tatra) left-going (vāmagā) left-eyed (vāmalocanām)
+[left-practitioners](vāmacārāḥ) [three](trayas) [there](tatra) [left-going](vāmagā) [not-left-eyed](avāmalocanām)
+
 ## mukta-m0-p27-v655
-ḍaṃga-distraction (ḍaṃgavibhrama) makers (kāriṇyaḥ) ḍaṃga-affection (ḍaṃgasneha) tinged (anuraṃjitāḥ)
+[ḍaṃga-delusion-makers](ḍaṃgavibhramakāriṇyaḥ) [ḍaṃga-affection-colored](ḍaṃgasnehānuraṃjitāḥ)
+
 ## mukta-m0-p27-v656
-thus (tathā) also (ca) persons (puruṣāḥ) skanda (skanda) known (jñeyāḥ) maya (māyā) white-born (śuklasaṃbhavāḥ)
+[thus](tathā) [and](ca) [persons](puruṣāḥ) [O-Skanda](skanda) [to-be-known](jñeyāḥ) [māyā](māyā) [white-born](śuklasaṃbhavāḥ)
+
 ## mukta-m0-p27-v657
-or (athavā) all-principles (sarvatatvānām) exit (nirgamaṃ) oceanic (sāmudāvikaḥ)
+[or](athavā) [of-all-principles](sarvatatvānām) [exit](nirgamaṃ) [oceanic](sāmudāvikaḥ)
+
 ## mukta-m0-p27-v658
-whose (yasya) principle (tatvasya) which (yattatvaṃ) birth (janmani) named (abhidhikaṃ) becomes (bhavet)
+[whose](yasya) [of-principle](tatvasya) [which-principle](yattatvaṃ) [in-birth](janmani) [named](abhidhikaṃ) [would-be](bhavet)
+
 ## mukta-m0-p27-v659
-thus (evaṃ) indeed (hi) all-principles (sarvatatvānām) principle-nature (tatvabhāva) foremost (pradhaścidhā)
+[thus](evaṃ) [indeed](hi) [of-all-principles](sarvatatvānām) [principle-nature](tatvabhāva) [supreme](pradhaścidhā)
+
 ## mukta-m0-p27-v660
-sky-lord (gaganeśaḥ) indeed (hi) unattainable (asādhyaḥ) ca (ca) so (tathā) hari-hara (hariharau) both (ubhau)
+[sky-lord](gaganeśaḥ) [indeed](hi) [unattainable](asādhyaḥ) [and](ca) [thus](tathā) [Hari-and-Hara](hariharāvubhau)
+
 ## mukta-m0-p27-v661
-then (atha) saṃpuṭa (saṃpuṭaḥ) arrangement (saṃsthāḥ) te (te) maya-principle (māyātatvasya) six-faced (ṣaṇmukhā)
+[then](atha) [in-saṃpuṭa-situated](saṃpuṭassaṃsthāste) [of-māyā-principle](māyātatvasya) [O-six-faced](ṣaṇmukhā)
+
 ## mukta-m0-p27-v662
-patiently (kṣamuśaḥ) brahma (brahmaṇaḥ) slayer (hanta) vidyeśāna (vidyeśānaḥ) so (tathā) other (aparaḥ)
+[...](kṣamuśo) [of-Brahmā](brahmaṇohanta) [lord-of-knowledge](vidyeśānastathāparaḥ)
+
 ## mukta-m0-p27-v663
-amādhinaḥ (amādhinaḥ) remembered (smṛtāḥ) all (sarve) delusion-passion (moharāga) devoid (vivarjitāḥ)
+[...](amādhinaḥ) [remembered](smṛtāssarve) [delusion-attachment](moharāga) [devoid-of](vivarjitāḥ)
+
 ## mukta-m0-p27-v664
-then (atha) above (ūrdhvaṃ) tu (tu) becomes (bhavet) other (anyat) vidyā-principle (vidyātatvaṃ) six-faced (ṣaḍānana)
+[thereafter](athordhvaṃ) [indeed](tu) [would-be](bhavedanyat) [knowledge-principle](vidyātatvaṃ) [O-six-faced](ṣaḍānana)
+
 ## mukta-m0-p27-v665
-there (tatra) vidyā-lords (vidyādhipāḥ) known (jñeyāḥ) ruby (padmarāga) equal-radiance (samaprabhāḥ)
+[there](tatra) [knowledge-lords](vidyādhipā) [to-be-known](jñeyāḥ) [ruby](padmarāga) [equal-luster](samaprabhāḥ)
+
 ## mukta-m0-p27-v666
-therefore (tasmāt) issued (viniḥsṛtāḥ) mantras (mantrāḥ) five-limbed (pañcāṅgaṃ) made-marked (kṛtalakṣaṇāḥ)
+[from-that](tasmādviniḥsṛtā) [emerged](mantrā) [five-limbed](pañcāṅgaṃ) [made-marks](kṛtalakṣaṇāḥ)
+
 ## mukta-m0-p27-v667
-unthinkable (acintyāḥ) ipiṇas (ipiṇaḥ) all (sarve) all (sarve) ca (ca) bliss-power (ānandavikramāḥ)
+[unthinkable](acintyā) [all](ipiṇassarve) [all](sarve) [and](cānandavikramāḥ)
+
 ## mukta-m0-p27-v668
-fourfold-nectar (caturvidhāmṛtāḥ) all (sarve) earth-water-fire-air (pārthivāpyānalānilā)
+[fourfold-nectars](caturvidhāmṛtāssarve) [earth-water-fire-air](pārthivāpyānalānilā)
+
 ## mukta-m0-p27-v669
-by-hand (pāṇinā) unthinkable-difference (acintabhedāt) tu (tu) mantra-differences (mantrabhedaiḥ) supreme (paraḥ) śiva (śivāḥ)
+[by-hand](pāṇinācintabhedāttu) [by-mantra-differences](mantrabhedaiḥ) [supreme](paraḥ) [Śiva](śivāḥ)
+
 ## mukta-m0-p27-v670
-place (sthānaṃ) action (karma) ca (ca) state (bhāvañca) deity (devatā) pervasion (vyāptimeva) ca (ca)
+[place](sthānaṃ) [action](karma) [and](ca) [state](bhāvañca) [deity](devatā) [pervasion](vyāptimeva) [indeed](ca)
+
 ## mukta-m0-p27-v671
-thus (evaṃ) hi (hi) mantra-difference (mantrabhedastu) mantrī (mantrī) iti (itī) tasya (tasya) six-faced (ṣaṇmukha)
+[thus](evaṃ) [indeed](hi) [mantra-difference](mantrabhedastu) [O-six-faced](mantrītītasya) [ṣaṇmukha](ṣaṇmukha)
+
 ## mukta-m0-p27-v672
-as-many (yāvantaḥ) some (kecana) beings (satvāḥ) all-principles (sarvatatveṣu) situated (saṃsthitāḥ)
+[however-many](yāvantaḥ) [some-beings](kecanasatvāḥ) [in-all-principles](sarvatatveṣu) [situated](saṃsthitāḥ)
+
 ## mukta-m0-p27-v673
-such-form (yādṛgrūpaṃ) becomes (bhavet) their (teṣāṃ) name-gotra (nāmagotrañca) six-faced (ṣaṇmukha)
+[such-form](yādṛgrūpaṃ) [would-be](bhavet) [of-them](teṣāṃ) [name-gotra](nāmagotrañca) [O-six-faced](ṣaṇmukha)
+
 ## mukta-m0-p27-v674
-shadow-form (chāyārūpam) iva (iva) gross (sthūlaiḥ) subtle (sūkṣmaiḥ) more-subtle (sūkṣmataraṃ) tu (tu) taḥ (taḥ)
+[shadow-form](chāyārūpamiva) [by-gross](sthūlaiḥ) [by-subtle](sūkṣmaiḥ) [subtler](sūkṣmataraṃ) [indeed](tu) [taḥ](taḥ)
+
 ## mukta-m0-p27-v675
-living-being (prāṇī) dharma-etc (dharmādi) free (nirmuktas) sukha (sukha) duḥkha (duḥkha) fruit (phalaṃ) guha (guha)
+[living-being](prāṇī) [dharma-etc](dharmādi) [freed](nirmuktassukha) [suffering-fruit](duḥkhaphalaṃ) [O-Guha](guha)

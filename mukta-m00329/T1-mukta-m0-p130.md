@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[with-quarter](sapāda)+[two-part](dvyaṃśa)+[platform](mañca)+[elevated](uccam) [veda-part](vedāṃśaṃ) [foot-extended](caraṇāyatam)
+[with-quarter+two-part+mañca+high](sapādadvyaṃśamañcoccaṃ) [veda-part](vedāṃśaṃ) [foot-extended](caraṇāyatam)
 
 ## mukta-m0-p130-v3227
-[quarter-less](pādona)+[two-part](dvyaṃśa)+[platform](mañca)+[elevated](uccam) [quality-part](guṇāṃśaṃ) [palm-extended](talipāyatam)
+[foot-minus+two-part+mañca+high](pādonadvyaṃśamañcoccaṃ) [quality-part](guṇāṃśaṃ) [talipā-extended](talipāyatam)
 
 ## mukta-m0-p130-v3228
-[with-quarter](sapāda)+[part](aṃśa)+[platform](mañca)+[elevated](uccam) [pigeon-elevated](kapotoccaṃ) [wing-part](pakṣāṃśaṃ) [foot-extended](caraṇāyatam)
+[with-quarter+part+mañca+high](sapādāṃśaṃ) [pigeon-high](kapotoccaṃ) [wing-part+foot-extended](pakṣāṃśaṃ) [caraṇāyatam](caraṇāyatam)
 
 ## mukta-m0-p130-v3229
-[peak](śikharaṃ) [veda-part](vedabhāgaṃ) [then](tu) [remainder](śeṣaṃ) [stupa-etc](sthūpyādayaṃ) [becomes](bhavet)
+[peak](śikharaṃ) [veda-portion](vedabhāgaṃ) [tu](tu) [remainder](śeṣaṃ) [stūpa-etc](sthūpyādayaṃ) [becomes](bhavet)
 
 ## mukta-m0-p130-v3230
-[north-to-peak](uttarādiśikhāntaṃ) [and](ca) [ninety-six-parts](ṣaṇṇavatyaṃśakaṃ) [becomes](bhavet)
+[north-to-peak](uttarādiśikhāntaṃ) [ca](ca) [ninety-six-part](ṣaṇṇavatyaṃśakaṃ) [becomes](bhavet)
 
 ## mukta-m0-p130-v3231
-[three-foot-three-part-platform-elevated](tripādatryaṃśamañcoccaṃ) [breadth](vistāraṃ) [foot-extended](caraṇāyatam)
+[three-foot+three-part+mañca+high](tripādatryaṃśamañcoccaṃ) [breadth+foot-extended](vistāraṃ) [caraṇāyatam](caraṇāyatam)
 
 ## mukta-m0-p130-v3232
-[with-quarter](sapāda)+[three-part](tryaṃśa)+[platform](mañca)+[elevated](uccam) [six-part](ṣaḍaṃśaṃ) [palm-extended](talipāyatam)
+[with-quarter+three-part+mañca+high](sapādaṃ) [tryaṃśamañcoccaṃ](tryaṃśamañcoccaṃ) [six-part+talipā-extended](ṣaḍaṃśaṃ) [talipāyatam](talipāyatam)
 
 ## mukta-m0-p130-v3233
-[quarter-less](pādona)+[three-part](tryaṃśa)+[platform](mañca)+[elevated](uccam) [element-part](bhūtāṃśaṃ) [foot-extended](caraṇāyatam)
+[foot-minus+three-part+mañca+high](pādona) [tryaṃśamañcoccaṃ](tryaṃśamañcoccaṃ) [element-part+foot-extended](bhūtāṃśaṃ) [caraṇāyatam](caraṇāyatam)
 
 ## mukta-m0-p130-v3234
-[with-quarter](sapāda)+[two-part](dvyaṃśa)+[platform](mañca)+[elevated](uccam) [age-part](yugāṃśaṃ) [foot-extended](caraṇāyatam)
+[with-quarter+two-part+mañca+high](sapādadvyaṃśamañcoccaṃ) [yuga-part+foot-extended](yugāṃśaṃ) [caraṇāyatam](caraṇāyatam)
 
 ## mukta-m0-p130-v3235
-[quarter-not](pādo+na)+[two-part](dvyaṃśa)+[platform](mañca)+[elevated](uccam) [quality-part](guṇāṃśaṃ) [foot-extended](caraṇāyatam)
+[foot-not+two-part+mañca+high](pādo) [na](na) [dvyaṃśamañcorcaṃ](dvyaṃśamañcorcaṃ) [quality-part+foot-extended](guṇāṃśaṃ) [caraṇāyatam](caraṇāyatam)
 
 ## mukta-m0-p130-v3236
-[with-quarter](sapāda)+[part](aṃśa)+[platform](mañca)+[elevated](uccam) [wing-part](pakṣāṃśaṃ) [foot-extended](caraṇāyatam)
+[with-quarter+part+mañca+high](sapādādaṃśamañcoccaṃ) [wing-part+foot-extended](pakṣāṃśaṃ) [caraṇāyatam](caraṇāyatam)
 
 ## mukta-m0-p130-v3237
-[peak](śikharaṃ) [age-part](yugabhāgaṃ) [then](tu) [remainder](śeṣaṃ) [stupa-etc](sthūpyādayaṃ) [becomes](bhavet)
+[peak](śikharaṃ) [yuga-portion](yugabhāgaṃ) [tu](tu) [remainder](śeṣaṃ) [stūpa-etc](sthūpyādayaṃ) [becomes](bhavet)
 
 ## mukta-m0-p130-v3238
-[north-to-peak](uttarādi+śikhāntaṃ) [and](ca) [eight-above-hundred-above](aṣṭādhikaśatādhikam)
+[north-to-peak](uttarādi) [śikhāntaṃ](śikhāntaṃ) [ca](ca) [eight-plus-hundred-plus](aṣṭādhikaśatādhikam)
 
 ## mukta-m0-p130-v3239
-[veda-part](vedāṃśaṃ) [platform-measure](mañcamānaṃ) [then](tu) [with-half-seven-part-foot](sārdhasaptāṃśamaṅghrikam)
+[veda-part+mañca-measure](vedāṃśaṃ) [mañcamānaṃ](mañcamānaṃ) [tu](tu) [with-half+seven-part+foot](sārdhasaptāṃśamaṅghrikam)
 
 ## mukta-m0-p130-v3240
-[with-half-fire-part](sārdhāgnyaṃśaṃ) [pigeon-elevated](kapotorccaṃ) [palm](talipaṃ) [with-half-six](sārdhaṣaṭkakam)
+[with-half+fire-part+pigeon-high](sārdhāgnyaṃśaṃ) [kapotorccaṃ](kapotorccaṃ) [talipa+with-half+six](talipaṃ) [sārdhaṣaṭkakam](sārdhaṣaṭkakam)
 
 ## mukta-m0-p130-v3241
-[quality-part-platform-measure](guṇāṃśamañcamānaṃ) [then](tu) [with-half-element-part-foot](sārdhabhūtāṃśamaṅghrikam)
+[quality-part+mañca-measure](guṇāṃśamañcamānaṃ) [tu](tu) [with-half+element-part+foot](sārdhabhūtāṃśamaṅghrikam)
 
 ## mukta-m0-p130-v3242
-[with-half-wing-part-work](sārdhapakṣāṃśakarmaṃ) [and](ca) [with-half-wing-part-foot](sārdhapakṣāṃśamaghrikam)
+[with-half+wing-part+karma](sārdhapakṣāṃśakarmaṃ) [ca](ca) [with-half+wing-part+foot](sārdhapakṣāṃśamaghrikam)
 
 ## mukta-m0-p130-v3243
-[star-measure](śama+mānaṃ) [then](tu) [with-half-fire-part-foot-elevated](sārthāgnyaṃśāṅghrituṅgakam)
+[*](*) [*](*) [śama](śama) [*](*) [measure](mānaṃ) [tu](tu) [with-half+fire-part+foot-high](sārthāgnyaṃśāṅghrituṅgakam)
 
 ## mukta-m0-p130-v3244
-[with-half-part-platform-measure](sārdhāṃśaṃ+mañcamānaṃ) [then](tu) [with-half-wing-part-foot](sārdhapakṣāṃśamaghrikam)
+[with-half+part+mañca-measure](sārdhāṃśaṃ) [mañcamānaṃ](mañcamānaṃ) [tu](tu) [with-half+wing-part+foot](sārdhapakṣāṃśamaghrikam)
 
 ## mukta-m0-p130-v3245
-[peak-platform-measure](śa+śamañcamānaṃ) [then](tu) [neck](galaṃ) [same-thus](tatsamameva) [and](ca)
+[śa](śa) [*](*) [śamañcamānaṃ](śamañcamānaṃ) [tu](tu) [throat](galaṃ) [that-same+eva](tatsamameva) [ca](ca)
 
 ## mukta-m0-p130-v3246
-[man-earth-thus](manmabhūmiti) [spoken](proktaṃ) [tithi-earth-below](tithibhaumamadha) [hear](śṛṇu)
+[manma-bhūmi](manmabhūmiti) [proktaṃ](proktaṃ) [tithi-bhauma-below](tithibhaumamadha) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p130-v3247
-[five-measure](pañcamānaṃ) [age-part](yugāṃśaṃ) [then](tu) [with-half-wing-part-foot](sārdhapakṣāṃśamaghrikam)
+[fifth-measure](pañcamānaṃ) [yuga-part](yugāṃśaṃ) [tu](tu) [with-half+wing-part+foot](sārdhapakṣāṃśamaghrikam)
 
 ## mukta-m0-p130-v3248
-[age-part-platform-measure](yugāṃśamañcamānaṃ) [then](tu) [with-half-seven-foot](sārdhasaptamaśaṅghrikam)
+[yuga-part+mañca-measure](yugāṃśamañcamānaṃ) [tu](tu) [with-half+seven+foot](sārdhasaptamaśaṅghrikam)
 
 ## mukta-m0-p130-v3249
-[with-half-fire-part](sārdhāgnyaṃśa) [pigeon-elevated](kapotoccaṃ) [palm](talipaṃ) [with-half-six](sārdhaṣaṭkakam)
+[with-half+fire-part+pigeon-high](sārdhāgnyaṃśa) [kapotoccaṃ](kapotoccaṃ) [talipa+with-half+six](talipaṃ) [sārdhaṣaṭkakam](sārdhaṣaṭkakam)
 
 ## mukta-m0-p130-v3250
-[quality-part-platform-measure](guṇāṃśamañcamānaṃ) [then](tu) [foot](maghrikam)
+[quality-part+mañca-measure](guṇāṃśamañcamānaṃ) [tu](tu) [*](*) [*](*) [*](*) [*](*) [*](*) [foot](maghrikam)

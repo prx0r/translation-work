@@ -1,0 +1,1307 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "tatrāṅguṣṭhāsamārūḍhā",
+     "gloss": "there-thumb-mounted",
+     "grounds": "compound-like gloss from legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvakarma",
+     "gloss": "all-actions",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyubhe",
+     "gloss": "indeed-both",
+     "grounds": "sandhi h+y",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is the relation between thumb-mounted practice and all actions?",
+   "premises": [
+    "The verse links thumb-mounted practice to all actions.",
+    "It adds an emphatic both and thus.",
+    "The claim concerns ritual efficacy."
+   ],
+   "inference": "Thumb-mounted practice is presented as connected to all actions.",
+   "uncertainties": [
+    "Exact compound parsing is uncertain."
+   ],
+   "plain_english": "There, mounted on the thumb, both actions are thus."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "vidhimantravihīnaṃ",
+     "gloss": "without-rite-mantra",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāṣṭhavadbheṣajaṃ",
+     "gloss": "like-wood-medicine",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What happens to medicine lacking rite and mantra?",
+   "premises": [
+    "Medicine without rite and mantra is compared to wood.",
+    "The verse states it becomes ineffective.",
+    "The claim is about ritual necessity."
+   ],
+   "inference": "Without rite and mantra, medicine is like wood.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "But medicine without rite and mantra becomes like wood."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "kāryaviddhir",
+     "gloss": "rite-knowledge",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavettena",
+     "gloss": "becomes-thus",
+     "grounds": "sandhi",
+     "morph": "3.sg.act-pres+root bhū"
+    },
+    {
+     "surface": "vīryamasti",
+     "gloss": "power-is",
+     "grounds": "compound",
+     "morph": "3.sg.act-pres+root as"
+    },
+    {
+     "surface": "ca+tatra+vai",
+     "gloss": "and-there-indeed",
+     "grounds": "fused sandhi form",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where does power arise when rite-knowledge becomes established?",
+   "premises": [
+    "Rite-knowledge becomes established thus.",
+    "Power is present there.",
+    "The verse adds emphasis."
+   ],
+   "inference": "Power is present where rite-knowledge is established.",
+   "uncertainties": [
+    "Fused token is not expanded."
+   ],
+   "plain_english": "Rite-knowledge becomes thus; power is there indeed."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "jātā",
+     "gloss": "born",
+     "grounds": "participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vihitā",
+     "gloss": "prescribed",
+     "grounds": "participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "oṣadhayaḥ",
+     "gloss": "herbs",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "success-giving",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.pl.act-opt+root as"
+    }
+   ],
+   "question": "Would herbs born and prescribed by rite give success?",
+   "premises": [
+    "Herbs born and prescribed by rite are success-giving.",
+    "The verse denies they would be otherwise.",
+    "The claim concerns ritual herbs."
+   ],
+   "inference": "Herbs born and prescribed by rite give success.",
+   "uncertainties": [
+    "Optative nuance is uncertain."
+   ],
+   "plain_english": "Herbs born and prescribed by rite give success; they would not otherwise."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "nyūnaṃ",
+     "gloss": "deficient",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "excessive",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dravyam",
+     "gloss": "substance",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adravyaṃ",
+     "gloss": "non-substance",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagur",
+     "gloss": "say",
+     "grounds": "verb",
+     "morph": "3.pl.act-aor+root gad"
+    },
+    {
+     "surface": "bhiṣajaḥ",
+     "gloss": "physicians",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What do physicians say about deficient or excessive substance?",
+   "premises": [
+    "Physicians speak of deficient and excessive substance.",
+    "They also mention non-substance.",
+    "The claim concerns medical judgment."
+   ],
+   "inference": "Physicians distinguish deficient, excessive, and non-substance.",
+   "uncertainties": [
+    "Exact medical sense is uncertain."
+   ],
+   "plain_english": "Physicians say substance may be deficient or excessive, or non-substance."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "śrāddhair",
+     "gloss": "with-faith",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "upāsitair",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃgrāhyaṃ",
+     "gloss": "collected",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "auṣadham",
+     "gloss": "herb",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should all herbs be collected?",
+   "premises": [
+    "Herbs are collected with faith.",
+    "They are also worshipped.",
+    "The claim concerns proper collection."
+   ],
+   "inference": "All herbs should be collected with faith and worship.",
+   "uncertainties": [
+    "vāpi scope is uncertain."
+   ],
+   "plain_english": "With faith, or worshipped, all herbs should be collected."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vṛkṣasya",
+     "gloss": "of-tree",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mūlañca",
+     "gloss": "root",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "gerund",
+     "morph": "abs+root gam"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhimaṃtrayet",
+     "gloss": "mantra-address",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root mantr"
+    }
+   ],
+   "question": "What should one do first at the tree root?",
+   "premises": [
+    "One first goes to the tree root.",
+    "Then one addresses him with mantra.",
+    "The claim concerns herb gathering."
+   ],
+   "inference": "One should first go to the tree root and mantra-address it.",
+   "uncertainties": [
+    "tam reference is uncertain."
+   ],
+   "plain_english": "First, having gone to the tree root, one should mantra-address him."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "apasarpantu",
+     "gloss": "depart",
+     "grounds": "verb",
+     "morph": "3.pl.act-imp+root sṛp"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vṛkṣād",
+     "gloss": "from-tree",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "asmāc",
+     "gloss": "from-this",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śivājñayā",
+     "gloss": "by-shiva-command",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Who must depart from the tree by Shiva's command?",
+   "premises": [
+    "All of them must depart from this tree.",
+    "The departure is by Shiva's command.",
+    "The claim concerns clearing the tree."
+   ],
+   "inference": "All beings must depart from the tree by Shiva's command.",
+   "uncertainties": [
+    "te reference is uncertain."
+   ],
+   "plain_english": "Let all of them depart from this tree by Shiva's command."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "balam",
+     "gloss": "strength",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āyuśca",
+     "gloss": "life",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "verb",
+     "morph": "2.sg.act-imp+root dā"
+    },
+    {
+     "surface": "pāpān",
+     "gloss": "sins",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "me",
+     "gloss": "me",
+     "grounds": "accusative",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "trāhi",
+     "gloss": "protect",
+     "grounds": "verb",
+     "morph": "2.sg.act-imp+root trā"
+    },
+    {
+     "surface": "dūrataḥ",
+     "gloss": "far",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What does the practitioner ask the tree for?",
+   "premises": [
+    "The practitioner asks for strength and life.",
+    "He asks protection from sins far away.",
+    "The claim concerns mantra-address."
+   ],
+   "inference": "The practitioner asks the tree for strength, life, and protection from sins.",
+   "uncertainties": [
+    "Tree as addressee is inferred."
+   ],
+   "plain_english": "Give me strength and life; protect me from sins far away."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hīndro",
+     "gloss": "indeed-indra",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varuṇo",
+     "gloss": "varuna",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tvām",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "apacakrame",
+     "gloss": "approached",
+     "grounds": "verb",
+     "morph": "3.sg.act-aor+root cram"
+    }
+   ],
+   "question": "By what power did Indra and Varuna approach you?",
+   "premises": [
+    "Indra and Varuna approached by some power.",
+    "The verse asks by which power.",
+    "The claim concerns the tree's power."
+   ],
+   "inference": "The tree's power is what drew Indra and Varuna.",
+   "uncertainties": [
+    "apacakrame sense is uncertain."
+   ],
+   "plain_english": "By which power did Indra and then Varuna approach you?"
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "mā",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pātemāni",
+     "gloss": "fall",
+     "grounds": "sandhi",
+     "morph": "3.pl.act-opt+root pat"
+    },
+    {
+     "surface": "patite",
+     "gloss": "these",
+     "grounds": "participle",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mā",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "pronoun",
+     "morph": "2.gen.sg"
+    },
+    {
+     "surface": "tejo",
+     "gloss": "power",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "What must not happen to the tree's power?",
+   "premises": [
+    "The verse asks that these not fall.",
+    "It asks that your power not become otherwise.",
+    "The claim concerns preserving power."
+   ],
+   "inference": "The tree's power must not be diminished or altered.",
+   "uncertainties": [
+    "pātemāni parsing is uncertain."
+   ],
+   "plain_english": "May these not fall; may your power not become otherwise."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "pronoun",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "kārye",
+     "gloss": "work",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "siddhe",
+     "gloss": "accomplished",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svargaṃ",
+     "gloss": "heaven",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gamiṣyasi",
+     "gloss": "you-will-go",
+     "grounds": "verb",
+     "morph": "2.sg.act-fut+root gam"
+    }
+   ],
+   "question": "What reward follows successful completion of the work?",
+   "premises": [
+    "When my work is done and accomplished, then heaven follows.",
+    "The verse promises ascent.",
+    "The claim concerns ritual reward."
+   ],
+   "inference": "Successful completion leads to heaven.",
+   "uncertainties": [
+    "svarga sense is uncertain."
+   ],
+   "plain_english": "When my work is done and accomplished, then you will go to heaven."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "kathitaṃ",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cātra",
+     "gloss": "and",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mūlikāgrahaṇādikam",
+     "gloss": "herb-gathering-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What has been spoken here with effort?",
+   "premises": [
+    "Something has been spoken here with effort.",
+    "It concerns herb gathering and related matters.",
+    "The claim concerns instruction."
+   ],
+   "inference": "The text has carefully spoken about herb gathering and related matters.",
+   "uncertainties": [
+    "ādikam scope is uncertain."
+   ],
+   "plain_english": "Here, with effort, herb-gathering and related matters have been spoken."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "oṅkāraśirasaṃ",
+     "gloss": "om-headed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "oṅkāraśirasaṃ",
+     "gloss": "om-headed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is repeated with om-headed form?",
+   "premises": [
+    "The om-headed form is mentioned twice.",
+    "Then follows another step.",
+    "The claim concerns mantra structure."
+   ],
+   "inference": "The om-headed form is repeated before proceeding.",
+   "uncertainties": [
+    "Exact ritual object is uncertain."
+   ],
+   "plain_english": "The om-headed form, and again the om-headed form, then."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "nirāmiṣānnabhoktā",
+     "gloss": "meatless-food-eater",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japtavyo",
+     "gloss": "to-be-chanted",
+     "grounds": "gerundive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who should chant the mantra?",
+   "premises": [
+    "The mantra is to be chanted.",
+    "The chanter is a meatless-food eater.",
+    "The claim concerns ritual eligibility."
+   ],
+   "inference": "A meatless-food eater should chant the mantra.",
+   "uncertainties": [
+    "nirāmiṣānnabhoktā parsing is uncertain."
+   ],
+   "plain_english": "And a meatless-food eater should indeed chant the mantra."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "pronoun",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "gotrasamutpannāḥ",
+     "gloss": "lineage-born",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paśavo",
+     "gloss": "cattle",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which cattle are addressed in this rite?",
+   "premises": [
+    "Cattle born from the lineage are addressed.",
+    "Cattle from everywhere are also addressed.",
+    "The claim concerns ritual scope."
+   ],
+   "inference": "Both lineage-born and all cattle everywhere are addressed.",
+   "uncertainties": [
+    "me reference is uncertain."
+   ],
+   "plain_english": "Cattle born from my lineage, and cattle from everywhere."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "pṛṣṭvā",
+     "gloss": "having-asked",
+     "grounds": "gerund",
+     "morph": "abs+root pṛc"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "gerund",
+     "morph": "abs+root dṛś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sādhyā",
+     "gloss": "accomplishable",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "gerund",
+     "morph": "abs+root grah"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What must be done with accomplishable beings?",
+   "premises": [
+    "One asks and sees accomplishable beings.",
+    "One takes their name there.",
+    "The claim concerns ritual procedure."
+   ],
+   "inference": "Accomplishable beings are asked, seen, and named there.",
+   "uncertainties": [
+    "sādhyā scope is uncertain."
+   ],
+   "plain_english": "Having asked and seen, accomplishable beings are taken by name there indeed."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "siddhyanti",
+     "gloss": "accomplish",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+root sidh"
+    },
+    {
+     "surface": "sarvakāryāṇi",
+     "gloss": "all-works",
+     "grounds": "compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddhibhāg",
+     "gloss": "success-holder",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "How do all works become accomplished?",
+   "premises": [
+    "All works become accomplished.",
+    "Not otherwise does one become a success-holder.",
+    "The claim concerns ritual success."
+   ],
+   "inference": "Works are accomplished only through the prescribed procedure.",
+   "uncertainties": [
+    "nānyathā scope is uncertain."
+   ],
+   "plain_english": "All works are accomplished; not otherwise does one become a success-holder."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣobhayate",
+     "gloss": "shakes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root kṣubh"
+    },
+    {
+     "surface": "lokān",
+     "gloss": "worlds",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "darśanādeva",
+     "gloss": "by-sight",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "adept",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What power does the adept gain by sight?",
+   "premises": [
+    "The adept shakes worlds by sight alone.",
+    "The verse states this after the procedure.",
+    "The claim concerns adept power."
+   ],
+   "inference": "The adept can shake worlds merely by being seen.",
+   "uncertainties": [
+    "darśanādeva parsing is uncertain."
+   ],
+   "plain_english": "Then the adept shakes worlds by sight alone."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "vibhūtyā",
+     "gloss": "with-power",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "saṃyutaṃ",
+     "gloss": "joined",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lokavaśyakṛt",
+     "gloss": "world-subduing",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What makes the tilaka world-subduing?",
+   "premises": [
+    "The mantra joined with power makes tilaka.",
+    "The result is world-subduing.",
+    "The claim concerns tilaka efficacy."
+   ],
+   "inference": "Tilaka becomes world-subduing when joined with empowered mantra.",
+   "uncertainties": [
+    "vibhūtyā sense is uncertain."
+   ],
+   "plain_english": "The tilaka joined with empowered mantra subdues the world."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "puṣye",
+     "gloss": "on-pusya",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "punarnavāmūlaṃ",
+     "gloss": "again-punarnava-root",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saptābhimantritam",
+     "gloss": "seven-times-mantra",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "gerund",
+     "morph": "abs+root bandh"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūjyaḥ",
+     "gloss": "worshipful",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syān",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root as"
+    },
+    {
+     "surface": "mantrastavatraiva",
+     "gloss": "mantra",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root kath"
+    },
+    {
+     "surface": "aiṃ rauṃ ḍaṃ kṣobhaya bhagavati tvaṃ svāhā",
+     "gloss": "aiṃ-rauṃ-ḍaṃ-kṣobhaya-bhagavati-tvaṃ-svāhā",
+     "grounds": "mantra syllables",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrabhimamuktayogasya",
+     "gloss": "mantra-abhimuktayoga",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ayutadvayaṃ",
+     "gloss": "two-ten-thousands",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japettataḥ",
+     "gloss": "chant",
+     "grounds": "sandhi",
+     "morph": "3.sg.act-opt+root jap"
+    }
+   ],
+   "question": "What mantra and count are prescribed for this rite?",
+   "premises": [
+    "Punarnava root is bound in hand on Pushya.",
+    "The mantra is given and chanted in large count.",
+    "The claim concerns mantra prescription."
+   ],
+   "inference": "The prescribed mantra is chanted in a large count after binding punarnava root.",
+   "uncertainties": [
+    "mantrastavatraiva parsing is uncertain."
+   ],
+   "plain_english": "On Pushya, bind punarnava root in hand after seven mantras; chant the given mantra in great count."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-make",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root kṛ"
+    },
+    {
+     "surface": "vaśī",
+     "gloss": "subdue",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root kṛ"
+    },
+    {
+     "surface": "jagatrayam",
+     "gloss": "three-worlds",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result follows making tilaka on the forehead?",
+   "premises": [
+    "Tilaka is made on the forehead.",
+    "The result is subduing the three worlds.",
+    "The claim concerns tilaka power."
+   ],
+   "inference": "Making forehead tilaka subdues the three worlds.",
+   "uncertainties": [
+    "vaśī parsing is uncertain."
+   ],
+   "plain_english": "Make tilaka on the forehead; it subdues the three worlds."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "snāne",
+     "gloss": "in-bath",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lepe",
+     "gloss": "in-anointing",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taccūrṇaṃ",
+     "gloss": "that-powder",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yojyaṃ",
+     "gloss": "to-be-used",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaśyakaraṃ",
+     "gloss": "subduing",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "How is the powder used in bath and anointing?",
+   "premises": [
+    "The powder is to be used in bath and anointing.",
+    "It becomes subduing.",
+    "The claim concerns powder use."
+   ],
+   "inference": "The powder used in bath and anointing becomes subduing.",
+   "uncertainties": [
+    "taccūrṇaṃ reference is uncertain."
+   ],
+   "plain_english": "In bath and anointing, that powder should be used; it becomes subduing."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "śirasā",
+     "gloss": "on-head",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dhārettacca",
+     "gloss": "should-wear",
+     "grounds": "sandhi",
+     "morph": "3.sg.act-opt+root dhṛ"
+    },
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vaśyakṛt",
+     "gloss": "subduing",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What happens when the powder is worn on the head?",
+   "premises": [
+    "The powder is worn on the head.",
+    "It becomes subduing everywhere.",
+    "The claim concerns powder efficacy."
+   ],
+   "inference": "Wearing the powder on the head subdues everywhere.",
+   "uncertainties": [
+    "dhārettacca parsing is uncertain."
+   ],
+   "plain_english": "Wear that powder on the head; it subdues everywhere."
+  }
+ ]
+}

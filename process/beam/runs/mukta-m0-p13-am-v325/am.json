@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p13",
  "verse": 325,
- "question": "What sequence and proportions should the triphala water and three-part mixture be added?",
+ "question": "What cooking duration and fire intensity are prescribed for the equal-oil hair-dye preparation?",
  "premises": [
-  "triphala water is included",
-  "three-part mixture follows",
-  "order is specified"
+  "Equal oil is used for both ingredients.",
+  "Cooking lasts one moment.",
+  "Gentle fire is prescribed."
  ],
- "inference": "The recipe proceeds by adding triphala water then the three-part mixture in order.",
+ "inference": "The preparation should be briefly cooked with gentle fire in equal oil.",
  "uncertainties": [
-  "exact proportions are not fully specified by this verse alone"
+  "The exact referent of 'two' is not explicit in this verse.",
+  "The verb mood is fused and not fully recoverable."
  ],
- "plain_english": "Add triphala water and the three-part mixture in order."
+ "plain_english": "Cook for a moment with gentle fire, using oil equal for both."
 }

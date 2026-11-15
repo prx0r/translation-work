@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[īśāne](īśāne) [tribhire](tribhire) [vai](vai) [tadbhedinī](tadbhedinī) [tatra](tatra) [saṃsthitā](saṃsthitā)
+[lord](īśāne) [three](tribhire) [indeed](vai) [that+splitter](tadbhedinī) [there](tatra) [situated](saṃsthitā)
 
 ## mukta-m0-p20-v477
-[apasavyena](apasavyena) [trīṇi](trīṇi) [evaṃ](evaṃ) [mastra-saṃghān](mastrasaṃghānnipātayet) [nipātayet](mastrasaṃghānnipātayet)
+[reverse](apasavyena) [three+thus](trīṇyevaṃ) [mantra+group](mastrasaṃghān) [should+cast](nipātayet)
 
 ## mukta-m0-p20-v478
-[arcanī](arcanī) [krama-yogena](kramayogena) [madhye](madhye) [dvitri-pradakṣiṇān](dvitripradakṣiṇān)
+[worship](arcanī) [order+yoga](kramayogena) [middle](madhye) [two+three+clockwise](dvitripradakṣiṇān)
 
 ## mukta-m0-p20-v479
-[nṛtyanaṃ](nṛtyanaṃ) [vapanañca](vapanañcaiva) [eva](vapanañcaiva) [bandhanañca](bandhanañca) [pralāpanam](pralāpanam)
+[dancing](nṛtyanaṃ) [shaving+and+indeed](vapanañcaiva) [binding+and](bandhanañca) [chattering](pralāpanam)
 
 ## mukta-m0-p20-v480
-[vidyā-vyaktamato](vidyāvyaktamatodbhītā) [udbhītā](vidyāvyaktamatodbhītā) [bhedinī](bhedinī) [vandhanī](vandhanī) [kṣaṇāt](kṣaṇāt)
+[knowledge+manifest+fear](vidyāvyaktamatodbhītā) [splitter](bhedinī) [binder](vandhanī) [instantly](kṣaṇāt)
 
 ## mukta-m0-p20-v481
-[karālī](karālī) [krama-sodbhītā](kramasodbhītā) [tejaḥ](tejaḥ) [piṇḍaṃ](piṇḍaṃ) [mahā-adbhutam](mahadbhutam)
+[fierce](karālī) [order+born](kramasodbhītā) [radiance](tejaḥ) [mass](piṇḍaṃ) [great+wonder](mahadbhutam)
 
 ## mukta-m0-p20-v482
-[evaṃ](evañcaturbhiḥ) [caturbhiḥ](evañcaturbhiḥ) [sā](sā) [devī](devī) [tribhir](tribhiranyaiḥ) [anyaiḥ](tribhiranyaiḥ) [khageśvara](khageśvara)
+[thus+four](evañcaturbhiḥ) [she](sā) [goddess](devī) [three+others](tribhiranyaiḥ) [bird+lord](khageśvara)
 
 ## mukta-m0-p20-v483
-[bhedaṃ](bhedaṃ) [ca](caiva) [eva](caiva) [tu](tu) [bījānāṃ](bījānāṃ) [mudrā](mudrā) [bhedaṃ](bhedaṃ) [caturvidham](caturvidham)
+[splitting](bhedaṃ) [and+indeed](caiva) [but](tu) [of+seeds](bījānāṃ) [seal](mudrā) [splitting](bhedaṃ) [fourfold](caturvidham)
 
 ## mukta-m0-p20-v484
-[ekākī](ekākī) [deva-daityāḥ](devadaityāśca) [ca](devadaityāśca) [yakṣa-rakṣo-gaṇān](yakṣarakṣogaṇānapi) [api](yakṣarakṣogaṇānapi)
+[alone](ekākī) [gods+demons+and](devadaityāśca) [yaksha+rakshasa+groups+even](yakṣarakṣogaṇānapi)
 
 ## mukta-m0-p20-v485
-[kṣaṇāt](kṣaṇāddhijjayati) [adhijjayati](kṣaṇāddhijjayati) [saṅgrāme](saṅgrāme) [bhuṅkte](bhuṅkte) [rājyam](rājyamakaṇṭakam) [akaṇṭakam](rājyamakaṇṭakam)
+[instantly](kṣaṇāddhi) [conquers](jayati) [battle](saṅgrāme) [enjoys](bhuṅkte) [kingdom+thornless](rājyamakaṇṭakam)
 
 ## mukta-m0-p20-v486
-[tatrasthaḥ](tatrastho) [dhārayet](dhārayettaṃ) [taṃ](dhārayettaṃ) [turaṇe](turaṇe) [dyūte](dyūte) [jayo](jayo) [bhavet](bhavet)
+[there+standing](tatrastho) [should+hold](dhārayet) [him](taṃ) [quickly](turaṇe) [gambling](dyūte) [victory](jayo) [becomes](bhavet)
 
 ## mukta-m0-p20-v487
-[dhāraṇāt](dhāraṇādasya) [asya](dhāraṇādasya) [cakrasya](cakrasya) [jayate](jayate) [ripu-sainikam](ripusainikam)
+[by+holding](dhāraṇād) [of+this](asya) [wheel](cakrasya) [conquers](jayate) [enemy+army](ripusainikam)
 
 ## mukta-m0-p20-v488
-[alaktena](alaktena) [tu](tu) [saṃdvannaiḥ](saṃdvannaiḥ) [kramāt](kramādvīja) [vīja](kramādvīja) [stribhiḥ](stribhistribhiḥ) [tribhiḥ](stribhistribhiḥ)
+[with+alakta](alaktena) [but](tu) [well+anointed](saṃdvannaiḥ) [in+order](kramād) [seed](vīja) [three+three](stribhistribhiḥ)
 
 ## mukta-m0-p20-v489
-[nyaset](nyaset) [pūrvādi](pūrvādi) [yogena](yogena) [svarāṣṭrasya](svarāṣṭrasya) [vidhānataḥ](vidhānataḥ)
+[should+place](nyaset) [east+etc](pūrvādi) [yoga](yogena) [of+own+kingdom](svarāṣṭrasya) [according+to+rule](vidhānataḥ)
 
 ## mukta-m0-p20-v490
-[āyasa-asthi-mayā](āyasāsthimayā) [vā](vāpi) [api](vāpi) [nikhanet](nikhaneddigvidikṣu) [dig-vidikṣu](nikhaneddigvidikṣu) [ca](ca)
+[iron+bone+made](āyasāsthimayā) [or](vāpi) [should+bury](nikhanet) [directions+intermediate](digvidikṣu) [and](ca)
 
 ## mukta-m0-p20-v491
-[mantra-vidyā-paraiḥ](mantravidyāparairyuktāparacakropaghātanam) [yuktā](mantravidyāparairyuktāparacakropaghātanam) [para-cakra](mantravidyāparairyuktāparacakropaghātanam) [upaghātanam](mantravidyāparairyuktāparacakropaghātanam)
+[mantra+knowledge+experts](mantravidyāparaiḥ) [joined](yuktā) [enemy+wheel+destruction](paracakropaghātanam)
 
 ## mukta-m0-p20-v492
-[buddhi-vīrya-bala-bhraṣṭaṃ](buddhivīryabalabhraṣṭaṃ) [maneka-upadravaiḥ](manekopadravairyutam) [yutam](manekopadravairyutam)
+[intelligence+valor+strength+lost](buddhivīryabalabhraṣṭaṃ) [many+afflictions](manekopadravaiḥ) [endowed](yutam)
 
 ## mukta-m0-p20-v493
-[sādhayet](sādhayeda) [cirāt](cirādeva) [eva](cirādeva) [mahā-durga](mahādurga) [samāśritam](samāśritam)
+[should+accomplish](sādhayet) [quickly](cirādeva) [great+fortress](mahādurga) [resorted](samāśritam)
 
 ## mukta-m0-p20-v494
-[yaḥ](yo) [vijānāti](vijānāti) [tatvena](tatvena) [sa](sabhuṅkte) [bhuṅkte](sabhuṅkte) [pṛthivī-talam](pṛthivītalam)
+[who](yo) [knows](vijānāti) [in+truth](tatvena) [enjoys](sabhuṅkte) [earth+surface](pṛthivītalam)
 
 ## mukta-m0-p20-v495
-[kajra-tuṇḍā](kajratuṇḍā) [samāyuktaṃ](samāyuktaṃ) [manasā](manasā) [mantram](mantramuccaret) [uccaret](mantramuccaret)
+[thunderbolt+beak](kajratuṇḍā) [joined](samāyuktaṃ) [with+mind](manasā) [mantra](mantram) [should+utter](uccaret)
 
 ## mukta-m0-p20-v496
-[dravādi](dravādi) [tri-prayogaḥ](triprayogoyaṃ) [ayaṃ](triprayogoyaṃ) [karālā](karālā) [mudrayā](mudrayā) [saha](saha)
+[liquid+etc](dravādi) [three+application](triprayogaḥ) [this](yaṃ) [fierce](karālā) [seal](mudrayā) [with](saha)
 
 ## mukta-m0-p20-v497
-[nair-ṛtyādi](nair-ṛtyādi) [prayogaḥ](prayogoyaṃ) [ayaṃ](prayogoyaṃ) [praṇītā](praṇītā) [saha-yojitaḥ](sahayojitaḥ)
+[southwest+etc](nair-ṛtyādi) [application](prayogaḥ) [this](yaṃ) [excellent](praṇītā) [with+joined](sahayojitaḥ)
 
 ## mukta-m0-p20-v498
-[vyomāgni](vyomāgni) [yoga-yuktas](yogayuktastu) [tu](yogayuktastu) [vilomena](vilomena) [tad](tadeva) [eva](tadeva) [tu](tu)
+[sky+fire](vyomāgni) [yoga+joined](yogayuktas) [but](tu) [reverse](vilomena) [that+same](tadeva) [but](tu)
 
 ## mukta-m0-p20-v499
-[pūrvādi](pūrvādi) [bhedanī](bhedanī) [vaddhvā](vaddhvā) [daṣṭrikā](daṣṭrikā) [yā](yā) [tu](tu) [kīlanaḥ](kīlanaḥ)
+[east+etc](pūrvādi) [splitter](bhedanī) [having+bound](vaddhvā) [biter](daṣṭrikā) [which](yā) [but](tu) [pinning](kīlanaḥ)
 
 ## mukta-m0-p20-v500
-[nāga-rākṣasa](nāgarākṣasa) [yakṣāṃśca](yakṣāṃścapiśācān) [piśācān](yakṣāṃścapiśācān) [bhūta-sākinīm](bhūtasākinīm)
+[serpent+demons](nāgarākṣasa) [yakshas+and](yakṣāṃśca) [pishachas](piśācān) [spirits+sakini](bhūtasākinīm)

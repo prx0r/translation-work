@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "śāntikaṃ",
+     "gloss": "peace-making",
+     "grounds": "peace-making ritual act modifying karmma",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pauṣṭikañcaiva",
+     "gloss": "nourishing-and-indeed",
+     "grounds": "fused form of pauṣṭikam + ca + eva",
+     "morph": "adj.acc.sg.n + indecl."
+    },
+    {
+     "surface": "hyabhicārika",
+     "gloss": "and-hostile",
+     "grounds": "fused form carrying ha/i + abhicārika",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "karmma",
+     "gloss": "act",
+     "grounds": "neuter noun being classified",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which three ritual acts are enumerated in the passage?",
+   "premises": [
+    "śāntika means peace-making.",
+    "pauṣṭika means nourishing.",
+    "abhicārika means hostile.",
+    "karma is the act classified."
+   ],
+   "inference": "The verse enumerates three ritual acts: peace-making, nourishing, and hostile.",
+   "uncertainties": [
+    "Exact internal sandhi boundaries of hyabhicārika and pauṣṭikañcaiva are editorially fused."
+   ],
+   "plain_english": "Peace-making, nourishing, and hostile acts."
+  }
+ ]
+}

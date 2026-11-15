@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "tenāñjanena",
+     "gloss": "by-that-anointing",
+     "grounds": "fused form tena + añjanena; instrumental sense",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vaśatāṃ",
+     "gloss": "subjection",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "third person singular active present, root yā",
+     "morph": "3.sg.act-pres, root yā"
+    },
+    {
+     "surface": "lokaḥ",
+     "gloss": "world",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the world attain subjection through that anointing?",
+   "premises": [
+    "Anointing causes subjection.",
+    "World goes to subjection.",
+    "Indeed it happens."
+   ],
+   "inference": "That anointing brings the world into subjection.",
+   "uncertainties": [
+    "Exact referent of that anointing is unspecified."
+   ],
+   "plain_english": "By that anointing, the world indeed goes into subjection."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[tejas](tejaḥ) [piṇḍe](piṇḍe) [sthitaḥ](sthitaḥ) [sūryaḥ](sūryaḥ) [sarveṣām](sarveṣāṃ) [tejas](tejaḥ) [śaktayaḥ](śaktayaḥ)
+[radiance](tejaḥ) [mass](piṇḍe) [situated](sthitaḥ) [sun](sūryaḥ) [all](sarveṣāṃ) [radiance](tejaḥ) [powers](śaktayaḥ)
 
 ## mukta-m0-p13-v302
-[bhairavāḥ](bhairavāścograrūpāstu) [ugra-rūpāḥ](ugrarūpāstu) [tu](tu) [bhairavyaḥ](bhairavyo) [yoga-mātaraḥ](yogamātaraḥ)
+[bhairavas](bhairavāḥ) [and](ca) [fierce-forms](ugrarūpāḥ) [indeed](tu) [bhairavis](bhairavyaḥ) [yoga-mothers](yogamātaraḥ)
 
 ## mukta-m0-p13-v303
-[guhyakāḥ](guhyakāḥ) [kinnarāḥ](kinnarā) [dūtī](dūtī) [lāmā](lāmā) [śākinī](śākinī) [pūtanā](pūtanā)
+[guhyakas](guhyakāḥ) [kinnaras](kinnarāḥ) [messenger-lama](dūtīlāmā) [shakini](śākinī) [putana](pūtanā)
 
 ## mukta-m0-p13-v304
-[bhūta](būtapretapiśācāścagaṇāhyatra) [preta](preta) [piśācāḥ](piśācāścagaṇāhyatra) [ca](ca) [gaṇāḥ](gaṇāhyatra) [atra](atra) [vyavasthitāḥ](vyavasthitāḥ)
+[bhutas-pretas-pishachas](būtapretapiśācāḥ) [and](ca) [hosts](gaṇāḥ) [here](atra) [stationed](vyavasthitāḥ)
 
 ## mukta-m0-p13-v305
-[daityāḥ](daityā) [vidyādharāḥ](vidyādharāścaiva) [ca](ca) [eva](eva) [soma-grahāḥ](somagrahātatārakāḥ) [tārakāḥ](tārakāḥ)
+[daityas](daityāḥ) [vidyadharas](vidyādharāḥ) [and](ca) [eva](eva) [soma-planet-stars](somagrahātatārakāḥ)
 
 ## mukta-m0-p13-v306
-[durgā](durgā) [umā](umā) [sarasvatī](saratyo) [lakṣmīḥ](lakṣmīḥ) [kātyāyanī](kātyāyanīti) [iti](iti) [sā](sā)
+[durga](durgā) [uma](umā) [sarasvati](saratyo) [lakshmi](lakṣmīḥ) [katyayani](kātyāyanī) [thus](iti) [she](sā)
 
 ## mukta-m0-p13-v307
-[nityā](nityā) [yogeśvarī](yogeśvarī) [ca](ca) [eva](eva) [catuṣke](catuṣke) [navake](navake) [sthitāḥ](sthitāḥ)
+[eternal](nityā) [yoga-lady](yogeśvarī) [and](ca) [eva](eva) [in-four](catuṣke) [in-nine](navake) [situated](sthitāḥ)
 
 ## mukta-m0-p13-v308
-[raktā](raktā) [ca](ca) [carccikā](carccikā) [vidyā](vidyā) [pecikā](pecikā) [ca](ca) [karālinī](karālinī)
+[red](raktā) [and](ca) [carccika](carccikā) [vidya](vidyā) [pecika](pecikā) [and](ca) [karalini](karālinī)
 
 ## mukta-m0-p13-v309
-[brāhmī](brāhmī) [māheśvarī](māheśvarī) [ca](ca) [eva](eva) [kaumārī](kaumārī) [vaiṣṇavī](vaiṣṇavī) [tathā](tathā)
+[brahmi](brāhmī) [maheshvari](māheśvarī) [and](ca) [eva](eva) [kaumari](kaumārī) [vaishnavi](vaiṣṇavī) [so](tathā)
 
 ## mukta-m0-p13-v310
-[vāruṇī](vāruṇī) [ca](ca) [mahā-yakṣī](mahāyakṣī) [rākṣasī](rākṣasī) [vīra-nāyikā](vīranāyikā)
+[varuni](vāruṇī) [and](ca) [great-yakshi](mahāyakṣī) [rakshasi](rākṣasī) [hero-leader](vīranāyikā)
 
 ## mukta-m0-p13-v311
-[abhinandā](abhinandā) [sunandā](sunandā) [ca](ca) [nandā](nandā) [bhramara-vāsinī](bhramaravāsinī)
+[abhinanda](abhinandā) [sunanda](sunandā) [and](ca) [nanda](nandā) [bee-dweller](bhramaravāsinī)
 
 ## mukta-m0-p13-v312
-[mahā-māyā](mahāmāyā) [svadhā](svadhā) [svāhā](svāhā) [jvālā](jvālā) [ca](ca) [uṣmā](uṣmā) [śrī](śriyā) [kalā](kalā)
+[great-maya](mahāmāyā) [svadha](svadhā) [svaha](svāhā) [flame](jvālā) [and](ca) [heat-glory-particle](uṣmāśriyākalā)
 
 ## mukta-m0-p13-v313
-[trailokya-mātā](trailokyamātā) [viśveśī](viśveśī) [jagad-dhātrī](jagaddhātrī) [parāparā](parāparā)
+[three-worlds-mother](trailokyamātā) [universe-lady](viśveśī) [world-sustainer](jagaddhātrī) [beyond-beyond](parāparā)
 
 ## mukta-m0-p13-v314
-[pañca-bhūtātmikā](pañcabhūtātmikā) [sā](sā) [tu](tu) [pṛthivī](pṛthivī) [kaṭhine](kaṭhine) [sthitā](sthitā)
+[five-elements-self](pañcabhūtātmikā) [she](sā) [indeed](tu) [earth](pṛthivī) [hard](kaṭhine) [situated](sthitā)
 
 ## mukta-m0-p13-v315
-[vāyu-tatve](vāyutatve) [calā-rūpā](calārūpā) [sarvam](sarvaṃ) [vyāpayate](vyāpayate) [kṣaṇāt](kṣaṇāt)
+[air-principle](vāyutatve) [moving-form](calārūpā) [all](sarvaṃ) [pervades](vyāpayate) [instantly](kṣaṇāt)
 
 ## mukta-m0-p13-v316
-[vāg-ādi](vāgvādi) [karma-tatva-sthā](karmatatvasthā) [aśuddhi](aśuddhistanmātrakesthitā) [tanmātre](tanmātrakesthitā) [sthitā](sthitā)
+[speech-etc](vāgvādi) [action-principle-situated](karmatatvasthā) [impure](aśuddhiḥ) [subtle-elements](tanmātrakeṣu) [situated](sthitā)
 
 ## mukta-m0-p13-v317
-[prakṛtiḥ](prakṛtiḥ) [śiva-tatva-sthā](śivatatvasthā) [anantādi](anantādi) [śiva-ātmikā](śivātmikā)
+[prakriti](prakṛtiḥ) [shiva-principle-situated](śivatatvasthā) [ananta-etc](anantādi) [shiva-self](śivātmikā)
 
 ## mukta-m0-p13-v318
-[evam](evaṃ) [bhagavatī](bhagavatī) [devī](devī) [sarva-gā](sarvagā) [sarva-siddhi-dā](sarvasiddhidā)
+[thus](evaṃ) [goddess](bhagavatī) [devi](devī) [all-pervading](sarvagā) [all-accomplishment-giver](sarvasiddhidā)
 
 ## mukta-m0-p13-v319
-[tvat-priyārtham](tvatpriyārthaṃ) [mayā](mayā) [ākhyātā](akhyātā) [samaya-ghnena](samayaghnenadāpayet) [dāpayet](dāpayet)
+[for-your-pleasure](tvatpriyārthaṃ) [by-me](mayā) [told](akhyātā) [samaya-destroyer](samayaghna) [should-give](dāpayet)
 
 ## mukta-m0-p13-v320
-[deva-svam](devasvañca) [ca](ca) [guru-svam](gurusvañca) [ca](ca) [dravyam](dravyaṃ) [caṇḍeśvarasya](caṇḍeśvarasya) [ca](ca)
+[god's-property](devasvaṃ) [and](ca) [guru's-property](gurusvaṃ) [and](ca) [thing](dravyaṃ) [chandeshvara's](caṇḍeśvarasya) [and](ca)
 
 ## mukta-m0-p13-v321
-[anāthāyāḥ](anāthāyāḥ) [striyāḥ](striyā) [dravyam](dravyaṃ) [gaṇikāṣāḥ](gaṇikāṣāśca) [ca](ca) [varjayet](varjayet)
+[of-destitute](anāthāyāḥ) [woman's](striyāḥ) [property](dravyaṃ) [of-prostitutes](gaṇikānāṃ) [and](ca) [avoid](varjayet)
 
 ## mukta-m0-p13-v322
-[śiva-yogī](śivayogī) [ca](ca) [yoginyaḥ](yoginyo) [asaṃpūjya](asaṃpūjya) [na](na) [bhuñjayet](bhuñjayet)
+[shiva-yogi](śivayogī) [and](ca) [yoginis](yoginyaḥ) [without-worship](asaṃpūjya) [not](na) [eat](bhuñjayet)
 
 ## mukta-m0-p13-v323
-[na](na) [teṣām](teṣāṃ) [kārayet](kārayedduḥkhaṃ) [duḥkham](duḥkhaṃ) [dravyam](dravyaṃ) [na](na) [eva](eva) [apahārayet](apahārayet)
+[not](na) [their](teṣāṃ) [cause](kārayet) [suffering](duḥkhaṃ) [property](dravyaṃ) [not](na) [eva](eva) [take-away](apahārayet)
 
 ## mukta-m0-p13-v324
-[jñānine](jñānine) [duḥkha](duḥkha) [saṃtāpam](saṃtāpaṃ) [na](na) [āhatyāt](āhatyādvinivarttate) [vinivarttate](vinivarttate)
+[to-knower](jñānine) [suffering](duḥkha) [torment](saṃtāpaṃ) [not](na) [striking](āhatya) [turns-back](vinivarttate)
 
 ## mukta-m0-p13-v325
-[vāma-dakṣiṇa](vāmadakṣiṇa) [siddhānte](siddhānte) [mantraḥ](mantro) [na](na) [eva](eva) [prasiddhyati](prasiddhyati)
+[left-right](vāmadakṣiṇa) [doctrine](siddhānte) [mantra](mantraḥ) [not](na) [eva](eva) [succeeds](prasiddhyati)

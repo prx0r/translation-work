@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "vivādaṃ",
+     "gloss": "dispute",
+     "grounds": "accusative object of kārayet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāṇipīḍāñca",
+     "gloss": "hand-pain-and",
+     "grounds": "compound pāṇi+pīḍā; accusative object; ca conjunction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyuṣmatyapi",
+     "gloss": "even-for-long-lived-woman",
+     "grounds": "dative of the person for whom the action is done; api adds even",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "causative of kṛ in optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Should dispute and hand-pain be caused even for a long-lived woman?",
+   "premises": [
+    "Even a long-lived woman is included.",
+    "Dispute is to be caused.",
+    "Hand-pain is to be caused."
+   ],
+   "inference": "The verse prescribes causing both dispute and hand-pain even in the case of a long-lived woman.",
+   "uncertainties": [
+    "The ritual or social context of causing dispute and hand-pain is not specified in this verse."
+   ],
+   "plain_english": "Indeed, even for a long-lived woman, one should cause dispute and hand-pain."
+  }
+ ]
+}

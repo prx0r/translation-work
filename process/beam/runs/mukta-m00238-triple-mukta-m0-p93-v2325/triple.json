@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "aśvābharaṇasīmaṃtavāstukarmajaleśubhe",
+     "gloss": "in-auspicious-water-of-horse-ornament-parting-house-rite",
+     "grounds": "fused compound ending in locative jale-śubhe; internal sandhi joins aśva-abharaṇa-sīmaṃta-vāstukarma-jala-śubhe",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "-",
+     "gloss": "dash",
+     "grounds": "punctuation mark",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the auspicious ritual water in which the cloth offering is made?",
+   "premises": [
+    "The verse names an auspicious water.",
+    "It compounds horse-ornament, parting, and house-rite.",
+    "The offering occurs in that water."
+   ],
+   "inference": "The cloth offering is performed in this auspicious ritual water.",
+   "uncertainties": [
+    "The fused compound's exact syntactic role is inferred from surrounding context."
+   ],
+   "plain_english": "in the auspicious water of the horse-ornament, parting, and house rite -"
+  }
+ ]
+}

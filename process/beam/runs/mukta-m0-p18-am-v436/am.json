@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 436,
- "question": "To which deities is the offering directed in this sequence?",
+ "question": "What quarter-powder ingredient is combined with dead iron, honey, ghee, and sugar?",
  "premises": [
-  "Gaṇeśa, Brahma, and Viṣṇu are named as recipients.",
-  "Hara is named as a recipient.",
-  "The address is to the supreme goddess."
+  "a quarter of powder is used",
+  "dead iron is included",
+  "honey ghee and sugar are included"
  ],
- "inference": "The offering is directed to Gaṇeśa, Brahma, Viṣṇu, and Hara.",
- "uncertainties": [],
- "plain_english": "O Supreme Goddess, to Gaṇeśa, Brahma, and Viṣṇu, and to Hara."
+ "inference": "The verse combines a quarter powder with dead iron, honey, ghee, and sugar.",
+ "uncertainties": [
+  "exact powder identity is not specified"
+ ],
+ "plain_english": "Combine a quarter powder with dead iron, honey, ghee, and sugar."
 }

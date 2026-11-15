@@ -1,0 +1,65 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "jaṭharakuharamadhye",
+     "gloss": "belly-cavity-middle",
+     "grounds": "compound locative of madhya; fused sandhi not split",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "root yā present active",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "pākaṃ",
+     "gloss": "cooking",
+     "grounds": "accusative object of yāti",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvadramayati",
+     "gloss": "until-delights",
+     "grounds": "fused form yāvat + ramayati; internal sandhi retained",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "kṛśadehopyaṅganānāṃ",
+     "gloss": "thin-bodied-women",
+     "grounds": "genitive plural feminine; compound kṛśadeha",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "samaham",
+     "gloss": "same-time",
+     "grounds": "adverbial indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How long does milk remain undigested in the belly before it stops delighting thin-bodied women?",
+   "premises": [
+    "Milk goes into belly cavity.",
+    "It undergoes cooking there.",
+    "It does not delight thin-bodied women until cooked.",
+    "Same-time condition governs the process."
+   ],
+   "inference": "Digestion in the belly must complete before milk's delight ceases for thin-bodied women.",
+   "uncertainties": [
+    "Token five is a fused form with an internal sandhi boundary.",
+    "Pākaṃ may mean cooking or digestion in this context."
+   ],
+   "plain_english": "Milk goes into the middle of the belly cavity and is cooked; until it is cooked, it does not delight thin-bodied women at the same time."
+  }
+ ]
+}
