@@ -65,7 +65,7 @@
 },
 {
 "surface": "avadhāraṇe",
-"quick_gloss": "in-emphatic-sense"
+"quick_gloss": "in-determination"
 }
 ]
 },
@@ -94,7 +94,7 @@
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "construction"
+"quick_gloss": "connection"
 }
 ]
 },
@@ -156,7 +156,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niṣphalam",
+"surface": "niṣphalaṃ",
 "quick_gloss": "fruitless"
 },
 {
@@ -263,7 +263,7 @@
 },
 {
 "surface": "japa",
-"quick_gloss": "in-recitation"
+"quick_gloss": "recitation"
 },
 {
 "surface": "yajña",
@@ -271,7 +271,7 @@
 },
 {
 "surface": "kriyā",
-"quick_gloss": "ritual"
+"quick_gloss": "action"
 },
 {
 "surface": "ādiṣu",
@@ -345,7 +345,7 @@
 },
 {
 "surface": "śeṣaḥ",
-"quick_gloss": "ellipsis"
+"quick_gloss": "remainder"
 }
 ]
 },
@@ -362,7 +362,7 @@
 },
 {
 "surface": "tat",
-"quick_gloss": "of-those"
+"quick_gloss": "respective"
 },
 {
 "surface": "phala",
@@ -370,15 +370,19 @@
 },
 {
 "surface": "pradātṛtvāt",
-"quick_gloss": "bestowing-ness"
+"quick_gloss": "bestowing"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "ati+prāśastyam",
-"quick_gloss": "very-great-excellence"
+"surface": "ati",
+"quick_gloss": "very-great"
+},
+{
+"surface": "prāśastyam",
+"quick_gloss": "excellence"
 },
 {
 "surface": "āha",
@@ -407,7 +411,7 @@
 },
 {
 "surface": "tat",
-"quick_gloss": "of-those"
+"quick_gloss": "respective"
 },
 {
 "surface": "phalāni",
@@ -431,7 +435,7 @@
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "construction"
+"quick_gloss": "connection"
 }
 ]
 },
@@ -443,8 +447,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amūra+śaktāḥ",
+"surface": "amūra",
 "quick_gloss": "powerless"
+},
+{
+"surface": "śaktāḥ",
+"quick_gloss": "in-strength"
 },
 {
 "surface": "kāryeṣu",
@@ -533,7 +541,7 @@
 "quick_gloss": "bank"
 },
 {
-"surface": "kūpam",
+"surface": "kūpaṃ",
 "quick_gloss": "well"
 },
 {
@@ -554,7 +562,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amṛtam",
+"surface": "amṛtaṃ",
 "quick_gloss": "nectar"
 },
 {
@@ -571,7 +579,7 @@
 },
 {
 "surface": "ārkam",
-"quick_gloss": "of-Arka-tree"
+"quick_gloss": "of-arka-tree"
 },
 {
 "surface": "saḥ",
@@ -596,7 +604,7 @@
 },
 {
 "surface": "tantra",
-"quick_gloss": "by-Tantra"
+"quick_gloss": "by-tantra"
 },
 {
 "surface": "uditaḥ",
@@ -632,8 +640,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "siddhānām",
-"quick_gloss": "of-the-accomplished"
+"surface": "siddhānāṃ",
+"quick_gloss": "of-accomplished"
 },
 {
 "surface": "sādhakānām",
@@ -687,11 +695,11 @@
 },
 {
 "surface": "ārkam",
-"quick_gloss": "of-Arka"
+"quick_gloss": "of-arka-tree"
 },
 {
 "surface": "arka+vṛkṣa",
-"quick_gloss": "from-Arka-tree"
+"quick_gloss": "from-arka-tree"
 },
 {
 "surface": "udbhavam",
@@ -720,15 +728,15 @@
 },
 {
 "surface": "amutra",
-"quick_gloss": "in-the-other-world"
+"quick_gloss": "in-other-world"
 },
 {
 "surface": "pare",
-"quick_gloss": "in-the-beyond"
+"quick_gloss": "in-higher-world"
 },
 {
 "surface": "loke",
-"quick_gloss": "world"
+"quick_gloss": "in-world"
 }
 ]
 },
@@ -740,8 +748,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kula+ācāra",
-"quick_gloss": "by-Kula-tradition"
+"surface": "kula",
+"quick_gloss": "by-kula"
+},
+{
+"surface": "ācāra",
+"quick_gloss": "tradition"
 },
 {
 "surface": "uditam",
@@ -752,12 +764,12 @@
 "quick_gloss": "dharma"
 },
 {
-"surface": "guptyartham",
+"surface": "gupti+artham",
 "quick_gloss": "for-secrecy"
 },
 {
 "surface": "kathitam",
-"quick_gloss": "declared"
+"quick_gloss": "told"
 },
 {
 "surface": "kvacit",
@@ -777,8 +789,12 @@
 "quick_gloss": "gods"
 },
 {
-"surface": "nānāvidhāḥ",
-"quick_gloss": "of-various-kinds"
+"surface": "nānā",
+"quick_gloss": "of-various"
+},
+{
+"surface": "vidhāḥ",
+"quick_gloss": "kinds"
 },
 {
 "surface": "proktāḥ",
@@ -835,7 +851,7 @@
 },
 {
 "surface": "ādayaḥ",
-"quick_gloss": "and-so-forth"
+"quick_gloss": "and-others"
 }
 ]
 },
@@ -856,7 +872,7 @@
 },
 {
 "surface": "sādhyāni",
-"quick_gloss": "to-be-accomplished"
+"quick_gloss": "accomplishable"
 },
 {
 "surface": "yathā+ukta",

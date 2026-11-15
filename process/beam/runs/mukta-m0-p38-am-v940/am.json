@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p38",
  "verse": 940,
- "question": "What blue Vīrabhadra is worshipped with yellow garment?",
+ "question": "Over what sequence of lunar days should the offerings be applied?",
  "premises": [
-  "right side is named",
-  "yellow garment is named",
-  "Vīrabhadra is object"
+  "The ritual begins with the first lunar day.",
+  "The sequence proceeds in order.",
+  "All fifteen lunar days are included."
  ],
- "inference": "The blue Vīrabhadra with yellow garment is worshipped.",
- "uncertainties": [
-  "compound boundaries inferred"
- ],
- "plain_english": "We worship the blue Vīrabhadra with yellow garment on the right."
+ "inference": "The offerings are applied in order beginning with the first lunar day through all fifteen.",
+ "uncertainties": [],
+ "plain_english": "Beginning with the first lunar day, in order, through all fifteen as well."
 }
