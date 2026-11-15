@@ -37,11 +37,11 @@
 "tokens": [
 {
 "surface": "tat+chāyāyāḥ",
-"quick_gloss": "by-that-shadow's"
+"quick_gloss": "by-that-shadow"
 },
 {
 "surface": "praveśena",
-"quick_gloss": "entry"
+"quick_gloss": "by-entry"
 },
 {
 "surface": "paścimāṃ",
@@ -66,7 +66,7 @@
 "tokens": [
 {
 "surface": "mīna+yogyāṃ",
-"quick_gloss": "fit-for-fish"
+"quick_gloss": "suitable-for-pisces"
 },
 {
 "surface": "tathā",
@@ -111,7 +111,7 @@
 },
 {
 "surface": "pātatastatra",
-"quick_gloss": "by-falling"
+"quick_gloss": "by-casting"
 },
 {
 "surface": "siddhyati",
@@ -143,6 +143,10 @@
 "quick_gloss": "viśālā"
 },
 {
+"surface": "[kh: vilāsā]",
+"quick_gloss": "variant-vilāsā"
+},
+{
 "surface": "prāṇavāhinī",
 "quick_gloss": "prāṇavāhinī"
 }
@@ -157,7 +161,7 @@
 "tokens": [
 {
 "surface": "uttara+āsyāṃ",
-"quick_gloss": "in-northern-face"
+"quick_gloss": "in-northern-direction"
 },
 {
 "surface": "daśa+anyā",
@@ -202,7 +206,7 @@
 },
 {
 "surface": "sūtra+pātataḥ",
-"quick_gloss": "by-thread-laying"
+"quick_gloss": "by-casting-of-threads"
 }
 ]
 },
@@ -296,12 +300,8 @@
 "quick_gloss": "varuṇa"
 },
 {
-"surface": "daitya",
-"quick_gloss": "daitya"
-},
-{
-"surface": "śoṣau",
-"quick_gloss": "śoṣa"
+"surface": "daitya+śoṣau",
+"quick_gloss": "daitya-and-śoṣa"
 },
 {
 "surface": "ca",
@@ -375,7 +375,7 @@
 },
 {
 "surface": "kendra+antare",
-"quick_gloss": "in-intermediate-center"
+"quick_gloss": "in-interval-of-cardinal-points"
 },
 {
 "surface": "tu",
@@ -383,7 +383,7 @@
 },
 {
 "surface": "ṣaṭ+pade",
-"quick_gloss": "in-six-padas"
+"quick_gloss": "in-six-pada"
 }
 ]
 },
@@ -404,7 +404,7 @@
 },
 {
 "surface": "dvi+aṅghre",
-"quick_gloss": "in-two-parts"
+"quick_gloss": "in-two-part"
 },
 {
 "surface": "vivasvān",
@@ -412,15 +412,11 @@
 },
 {
 "surface": "ṣaṭ+pade",
-"quick_gloss": "in-six-padas"
+"quick_gloss": "in-six-pada"
 },
 {
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
-"surface": "adhaḥ",
-"quick_gloss": "below"
+"surface": "tu+adhaḥ",
+"quick_gloss": "but-below"
 }
 ]
 },
@@ -441,7 +437,7 @@
 },
 {
 "surface": "ṣaṭ+pade",
-"quick_gloss": "in-six-padas"
+"quick_gloss": "in-six-pada"
 },
 {
 "surface": "yajet",
@@ -457,7 +453,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaḍsthaṃ",
+"surface": "ṣaḍsthaṃ]",
 "quick_gloss": "standing-in-six"
 },
 {
@@ -486,6 +482,10 @@
 "quick_gloss": "one-should-worship"
 },
 {
+"surface": "[k, g: nyase]",
+"quick_gloss": "variant-one-should-place"
+},
+{
 "surface": "dīśa+ādi+bāhyataḥ",
 "quick_gloss": "outside-from-īśa-direction"
 }
@@ -499,7 +499,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śātmake",
+"surface": "śātmake]",
 "quick_gloss": "consisting-of-śāta"
 }
 ]
@@ -533,7 +533,7 @@
 },
 {
 "surface": "īśa+ādi+koṇa+gāḥ",
-"quick_gloss": "going-to-īśa-corner"
+"quick_gloss": "going-to-corners-beginning-with-īśa"
 }
 ]
 },
@@ -546,7 +546,7 @@
 "tokens": [
 {
 "surface": "pāpa+saṃjña+anilau",
-"quick_gloss": "pāpa-named-and-anila"
+"quick_gloss": "pāpa-and-anila-deities"
 },
 {
 "surface": "devā",
@@ -554,7 +554,7 @@
 },
 {
 "surface": "sārdha+sārdha+aṅghri+saṃsthitāḥ",
-"quick_gloss": "situated-in-half-and-half-parts"
+"quick_gloss": "situated-in-half-and-half-part"
 }
 ]
 },
@@ -567,7 +567,7 @@
 "tokens": [
 {
 "surface": "deva+vāstu+vidhau",
-"quick_gloss": "in-rules-of-divine-site"
+"quick_gloss": "in-rules-of-temple-site"
 },
 {
 "surface": "sarvaṃ",
@@ -595,8 +595,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rūpavat",
-"quick_gloss": "having-form"
+"surface": "[mū, ṅ: rūpavat]",
+"quick_gloss": "variant-rūpavat"
 }
 ]
 },
@@ -609,7 +609,7 @@
 "tokens": [
 {
 "surface": "sa+dig+viṃśat+karaḥ",
-"quick_gloss": "with-twenty-cubits-plus-directions"
+"quick_gloss": "with-six-and-twenty-cubits"
 },
 {
 "surface": "dairghyāt",
@@ -630,11 +630,11 @@
 "tokens": [
 {
 "surface": "rudra+dvi+guṇitaṃ",
-"quick_gloss": "multiplied-by-eleven"
+"quick_gloss": "eleven-times"
 },
 {
 "surface": "nāhāt",
-"quick_gloss": "from-perimeter"
+"quick_gloss": "in-circumference"
 },
 {
 "surface": "pṛthujyotiḥ",
@@ -663,11 +663,11 @@
 },
 {
 "surface": "vīthī",
-"quick_gloss": "street"
+"quick_gloss": "pathway"
 },
 {
 "surface": "vīthī+bhedāt",
-"quick_gloss": "by-difference-of-streets"
+"quick_gloss": "by-division-of-pathways"
 },
 {
 "surface": "anekadhā",

@@ -5,22 +5,22 @@
 [sound](śabdaḥ) [firmness+etc](taurya+ādikaḥ) [there](tatra) [parrot+smell](śuka+āghrā) [nose](nāsikā) [always](sadā)
 
 ## mukta-m0-p86-v2127
-[fierce+substance+equal](caṇḍa+dravya+samaḥ) [and](ca) [speech](vāc) [genitals](upasthaḥ) [pedestal+stalk](pīṭha+nālakaḥ)
+[fierce+substance+equal](caṇḍa+dravya+samaḥ) [and](ca) [genitals](upasthaḥ) [seat+stalk](pīṭha+nālakaḥ)
 
 ## mukta-m0-p86-v2128
-[determination](niścayaḥ) [should-be](syāt) [ego](ahaṅkāraḥ) [intellect](buddhiḥ) [in-that+resolution](tat+vyavasāyake)
+[determination](niścayaḥ) [should-be](syāt) [ego](ahaṅkāraḥ) [intellect](buddhiḥ) [in-that+ascertainment](tat+vyavasāyake)
 
 ## mukta-m0-p86-v2129
-[cause](kāraṇaṃ) [person](puruṣaḥ) [heart+dwelling](hṛt+sthaḥ) [attachment](rāgaḥ) [there+primordial-power+going](tatra+ādi+śakti+gaḥ)
+[cause](kāraṇaṃ) [person](puruṣaḥ) [heart+standing](hṛt+sthaḥ) [attachment](rāgaḥ) [there+primordial+power+gone](tatra+ādi+śakti+gaḥ)
 
 ## mukta-m0-p86-v2130
 [in-impelling](preraṇe) [and](ca) [kalā](kalā) [there](tatra) [time+count](kāla+saṅkhyā) [in-age+situated](vayas+sthitā)
 
 ## mukta-m0-p86-v2131
-[Śiva+abode+knowledge+discrimination](śiva+āyatana+vijñāna+vivekaḥ) [by-vidyā](vidyayā) [Īśvara](īśvaraḥ)
+[Śiva+abode+knowledge+discrimination](śiva+āyatana+vijñāna+vivekaḥ) [by-vidyā](vidyayā) [lord](īśvaraḥ)
 
 ## mukta-m0-p86-v2132
-[in-capacity](sāmarthye) [sustaining+power](dhāraṇā+śaktiḥ) [in-outer+inner+path](bahis+adhyātmike+adhvani)
+[in-capacity](sāmarthye) [sustaining+power](dhāraṇā+śaktiḥ) [in-external+internal+path](bahis+adhyātmike+adhvani)
 
 ## mukta-m0-p86-v2133
 [pedestal](piṇḍikā) [earth+called](jagatī+khyātā) [shrine](prāsādaḥ) [liṅga](liṅgam) [is-considered](iṣyate)
@@ -29,19 +29,19 @@
 [three](trīn) [gods](devān) [and](ca) [in-order](kramāt) [placing](nyasya) [Brahmā+Viṣṇu+Maheśvara](brahma+viṣṇu+maheśvarān)
 
 ## mukta-m0-p86-v2135
-[stable+named](sthira+ākhyaṃ) [existence+named](bhava+saṃjñaṃ) [and](ca) [wooden](dāravaṃ) [one-should-offer](juhuyāt) [again](punaḥ)
+[stable+named](sthira+ākhyaṃ) [existence+named](bhava+saṃjñaṃ) [and](ca) [wooden](dāravaṃ) [should-offer](juhuyāt) [again](punaḥ)
 
 ## mukta-m0-p86-v2136
 [name](nāma) [nineteenth](ekonaviṃśaḥ) [rule](vidhiḥ)
 
 ## mukta-m0-p86-v2137
-[one-should-install](sthāpayet) [by-rule](vidhinā) [properly](samyak) [of-banner+arrangement](dhvaja+kṛptimataḥ) [I-speak](bruve)
+[one-should-install](sthāpayet) [by-rule](vidhinā) [properly](samyak) [banner+arrangement+possessing](dhvaja+kḷpti+mataḥ) [I-speak](bruve)
 
 ## mukta-m0-p86-v2138
 [crest](cūlyaṃ) [pot](kumbhaṃ) [banner](dhvajaṃ) [and](ca) [here](atra) [characteristics](lakṣaṇāni) [one-should-tell](vadet) [likewise](tathā)
 
 ## mukta-m0-p86-v2139
-[stone+born](śaila+utthaṃ) [in-stone+born+shrine](śaila+je+dhāmni) [or](vā) [in-god](deve) [or](vā) [somewhere](kvacit) [in-opinion](mate)
+[stone+born](śaila+utthaṃ) [in-stone+born](śailaje) [in-abode](dhāmni) [or-in-god](deve+īhya+eva) [somewhere](kvacit) [in-opinion](mate)
 
 ## mukta-m0-p86-v2140
 [three+part+from](tri+bhāga+unāt) [of-Ādīśa](ādīśasya) [height+and+width](ānāha+vistarau)
@@ -50,13 +50,13 @@
 [otherwise](anyathā) [like-liṅga](liṅga+vat) [as](yathā)
 
 ## mukta-m0-p86-v2142
-[planet+crest](graha+cūlaṃ) [indeed](tu) [stone](śailaṃ) [or](vā) [encircled](veṣṭitaṃ) [by-pot](kalaśena) [or](vā)
+[planet+crest](graha+cūlaṃ) [indeed](tu) [stone](śailaṃ) [or](vā) [enveloped](veṣṭitaṃ) [by-pot](kalaśena) [or](vā)
 
 ## mukta-m0-p86-v2143
 [four+sided+eightfold](catur+asra+aṣṭakaṃ) [round](vṛttaṃ) [three+equal](tri+samaṃ) [liṅga+length+like](liṅga+dairghya+vat)
 
 ## mukta-m0-p86-v2144
-[like-liṅga](liṅga+vat) [and](ca) [entire](akhilaṃ) [one-should-make](kuryāt) [outside](bāhye) [or](vā) [pot+encircled](ghaṭa+veṣṭitam)
+[like-liṅga](liṅga+vat) [and](ca) [entire](akhilaṃ) [one-should-make](kuryāt) [outside](bāhye) [or](vā) [pot+enveloped](ghaṭa+veṣṭitam)
 
 ## mukta-m0-p86-v2145
 [in-bāṇa+named](bāṇa+ākhye) [from-seven+parts](sapta+aṃśāt) [from-two+parts](dvi+aṃśataḥ) [from-egg](aṇḍakāt)
@@ -65,7 +65,7 @@
 [seasons+suns](ṛtu+arka) [having-divided](bhājitaṃ) [having-made](kṛtvā) [pot](kalaśaṃ) [should-shape](vartayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p86-v2147
-[by-one+part](bhāga+ekena) [and](ca) [pot](kumbhaḥ) [of-it](asya) [pot+band](kumbha+paṭṭī) [indeed](tu) [from-quarter](pāda+taḥ)
+[by-one+part](bhāga+ekena) [and](ca) [pot](kumbhaḥ) [of-this](asya) [pot+band](kumbha+paṭṭī) [indeed](tu) [from-foot](pāda+taḥ)
 
 ## mukta-m0-p86-v2148
 [other+corner+etc+two+parts+situated](anya+koṇa+ādi+yuga+aṃśa+sthe) [south+below](yāmya+adhaḥ) [round](vṛttam) [from-sky](ābhramāt)
@@ -74,4 +74,4 @@
 [then](tataḥ) [and](ca) [upward+one+part+by](ūrdhva+eka+bhāgena) [neck](grīvā) [two+part+wide](dvi+bhāga+vistarā)
 
 ## mukta-m0-p86-v2150
-[above-that](tat+ūrdhvaḥ) [from-half+part](ardha+aṃśataḥ) [kāla](kālaḥ) [lotus](padmaṃ) [two+width+height](dvi+vistara+ucchrayam)
+[above-that](tat+ūrdhvaḥ) [from-half+part](ardha+aṃśataḥ) [top](kālaḥ) [lotus](padmaṃ) [two+width+height](dvi+vistara+ucchrayam)

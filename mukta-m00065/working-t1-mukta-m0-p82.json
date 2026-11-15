@@ -12,7 +12,7 @@
 },
 {
 "surface": "caṇḍasya",
-"quick_gloss": "and-of-caṇḍa"
+"quick_gloss": "and-of-Caṇḍa"
 },
 {
 "surface": "yāgaḥ",
@@ -49,15 +49,15 @@
 "tokens": [
 {
 "surface": "tat",
-"quick_gloss": "his"
+"quick_gloss": "that-remains"
 },
 {
 "surface": "nirmālyaṃ",
-"quick_gloss": "remains"
+"quick_gloss": "nirmālya"
 },
 {
 "surface": "kṣipet",
-"quick_gloss": "should-throw"
+"quick_gloss": "one-should-cast"
 },
 {
 "surface": "apsu",
@@ -114,12 +114,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "phala",
-"quick_gloss": "fruit"
-},
-{
-"surface": "dāyakam",
-"quick_gloss": "giving"
+"surface": "phala+dāyakam",
+"quick_gloss": "fruit-giving"
 }
 ]
 },
@@ -132,15 +128,11 @@
 "tokens": [
 {
 "surface": "sva+artha",
-"quick_gloss": "own-purpose"
+"quick_gloss": "for-own-purpose"
 },
 {
-"surface": "mantra",
-"quick_gloss": "in-mantra"
-},
-{
-"surface": "sthitiḥ",
-"quick_gloss": "abiding"
+"surface": "mantra+sthitiḥ",
+"quick_gloss": "mantra-abiding"
 },
 {
 "surface": "tena",
@@ -148,7 +140,7 @@
 },
 {
 "surface": "caṇḍeśaḥ",
-"quick_gloss": "caṇḍeśa"
+"quick_gloss": "Caṇḍeśa"
 },
 {
 "surface": "na",
@@ -156,7 +148,7 @@
 },
 {
 "surface": "sthireṣu",
-"quick_gloss": "in-immovable-images"
+"quick_gloss": "in-immovable-ones"
 },
 {
 "surface": "api",
@@ -197,28 +189,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaṇa+varga",
-"quick_gloss": "of-gaṇa-group"
-},
-{
-"surface": "ambikānāṃ",
-"quick_gloss": "and-of-ambikā"
+"surface": "gaṇa+varga+ambikānāṃ",
+"quick_gloss": "of-Gaṇa-group-and-Ambikā"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
 "surface": "nirmālyaṃ",
-"quick_gloss": "remains"
+"quick_gloss": "nirmālya"
 },
 {
 "surface": "śive",
-"quick_gloss": "in-śiva"
+"quick_gloss": "in-Śiva"
 },
 {
 "surface": "yathā",
@@ -255,12 +239,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvaita",
-"quick_gloss": "duality"
-},
-{
-"surface": "advaitāni",
-"quick_gloss": "and-non-duality"
+"surface": "dvaita+advaitāni",
+"quick_gloss": "duality-non-duality"
 },
 {
 "surface": "tāni",
@@ -293,7 +273,7 @@
 "tokens": [
 {
 "surface": "mārtaṇḍaḥ",
-"quick_gloss": "mārtaṇḍa"
+"quick_gloss": "Mārtaṇḍa"
 },
 {
 "surface": "ca",
@@ -313,7 +293,7 @@
 },
 {
 "surface": "nirmālyaṃ",
-"quick_gloss": "remains"
+"quick_gloss": "nirmālya"
 },
 {
 "surface": "ca",
@@ -321,7 +301,7 @@
 },
 {
 "surface": "caṇḍa+varjitam",
-"quick_gloss": "devoid-of-caṇḍa"
+"quick_gloss": "excluding-Caṇḍa"
 }
 ]
 },
@@ -334,7 +314,7 @@
 "tokens": [
 {
 "surface": "sva+iṣṭaṃ",
-"quick_gloss": "one's-own-deity"
+"quick_gloss": "one's-own-chosen-deity"
 },
 {
 "surface": "na",
@@ -342,7 +322,7 @@
 },
 {
 "surface": "darśayet",
-"quick_gloss": "should-show"
+"quick_gloss": "one-should-show"
 },
 {
 "surface": "loke",
@@ -404,11 +384,11 @@
 },
 {
 "surface": "bhrātṛ+putrāṇāṃ",
-"quick_gloss": "of-brothers-and-sons"
+"quick_gloss": "to-brothers-and-sons"
 },
 {
 "surface": "bhaginīnāṃ",
-"quick_gloss": "and-of-sisters"
+"quick_gloss": "of-sisters"
 },
 {
 "surface": "ca",
@@ -445,7 +425,7 @@
 },
 {
 "surface": "liṅga+sannihitaṃ",
-"quick_gloss": "near-liṅga"
+"quick_gloss": "near-the-liṅga"
 },
 {
 "surface": "yadā",
@@ -462,7 +442,7 @@
 "tokens": [
 {
 "surface": "jayadratha+ādayaḥ",
-"quick_gloss": "jayadratha-and-others"
+"quick_gloss": "Jayadratha-and-others"
 },
 {
 "surface": "api",
@@ -478,15 +458,15 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "speaks"
+"quick_gloss": "said"
 },
 {
 "surface": "bhagavān",
-"quick_gloss": "lord"
+"quick_gloss": "the-lord"
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "śiva"
+"quick_gloss": "Śiva"
 }
 ]
 },
@@ -503,11 +483,11 @@
 },
 {
 "surface": "lakṣaṇa+samuccaye",
-"quick_gloss": "in-lakṣaṇasamuccaya"
+"quick_gloss": "in-Lakṣaṇasamuccaya"
 },
 {
 "surface": "caṇḍeśvara+sthāpanaṃ",
-"quick_gloss": "installation-of-caṇḍeśvara"
+"quick_gloss": "installation-of-Caṇḍeśvara"
 },
 {
 "surface": "nāma",
@@ -564,7 +544,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "āha+varjanāt",
+"surface": "āhavarjanāt",
 "quick_gloss": "from-dismissal"
 }
 ]
@@ -607,7 +587,7 @@
 "tokens": [
 {
 "surface": "nimrabu+kusumaiḥ",
-"quick_gloss": "with-immersed-flowers"
+"quick_gloss": "with-unfading-flowers"
 },
 {
 "surface": "pūjā",
@@ -731,7 +711,7 @@
 "tokens": [
 {
 "surface": "eka+dvi+tri+kare",
-"quick_gloss": "in-one-two-three-cubits"
+"quick_gloss": "with-one-two-three-hands"
 },
 {
 "surface": "pūjyaḥ",
@@ -739,11 +719,11 @@
 },
 {
 "surface": "śiva+vat",
-"quick_gloss": "like-śiva"
+"quick_gloss": "like-Śiva"
 },
 {
 "surface": "bhagavān",
-"quick_gloss": "lord"
+"quick_gloss": "venerable"
 },
 {
 "surface": "guruḥ",
@@ -760,11 +740,11 @@
 "tokens": [
 {
 "surface": "aghoraṃ",
-"quick_gloss": "aghora-mantra"
+"quick_gloss": "Aghora"
 },
 {
 "surface": "paścima+āsyaṃ",
-"quick_gloss": "or-western-face"
+"quick_gloss": "western-face"
 },
 {
 "surface": "vā",
@@ -776,7 +756,7 @@
 },
 {
 "surface": "japa+saṃṅkhyayā",
-"quick_gloss": "according-to-number-of-recitation"
+"quick_gloss": "by-number-of-recitation"
 }
 ]
 }

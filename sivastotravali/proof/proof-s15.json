@@ -5,7 +5,6 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
- "mode": "shastra",
  "source_sha": "6b8a76390964cfde",
  "source_digest_normalized_sha256": "6b8a76390964cfde9a6b1e3aa684aad5de99049876c62c23f3dbe1b72b9b0db4",
  "source_sha256_raw": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
@@ -13,7 +12,7 @@
  "source_verses": 19,
  "t1_verses": 19,
  "l0": {
-  "parsed": 0,
+  "parsed": 231,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 231
@@ -25,7 +24,7 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 53,
+ "c1_words": 45,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 19,
@@ -72,9 +71,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "6b8a76390964cfde",
-  "t1": "s15/data/s15.t1.json",
-  "l0": "s15/data/s15.l0.json",
-  "l2": "s15/data/s15.l2.json",
-  "c1": "s15/data/s15.c1.json"
+  "t1": "T1-s15.md",
+  "l0": "T1-s15.l0.jsonl",
+  "l2": "L2-s15.md",
+  "c1": "c1/C1-s15.md"
  }
 }
