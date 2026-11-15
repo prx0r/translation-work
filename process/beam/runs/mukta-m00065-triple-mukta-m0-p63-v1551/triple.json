@@ -1,0 +1,1324 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1551,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "at-that",
+     "grounds": "demonstrative referring to previously mentioned time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "time",
+     "grounds": "occasion or moment for ritual action",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pradānaṃ",
+     "gloss": "gift",
+     "grounds": "offering or presentation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "ritual preceptor as recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "deyam",
+     "gloss": "to-be-given",
+     "grounds": "obligation to present offering",
+     "morph": "n.nom.sg.gerundive √dā"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "with-respect",
+     "grounds": "attitude of reverence accompanying gift",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What offering must be made to the guru at the appointed time?",
+   "premises": [
+    "A specific time is designated for action",
+    "A gift is to be given to the guru",
+    "The gift must be given with respect"
+   ],
+   "inference": "At the appointed time, a respectful gift must be presented to the guru.",
+   "uncertainties": [],
+   "plain_english": "At that time, a gift should also be given to the guru with respect."
+  },
+  {
+   "verse": 1552,
+   "rows": [
+    {
+     "surface": "dvādaśo",
+     "gloss": "twelfth",
+     "grounds": "ordinal number marking sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "prescribed ritual procedure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which numbered rite is being identified in this sequence?",
+   "premises": [
+    "The rite is assigned an ordinal position",
+    "The position named is twelfth"
+   ],
+   "inference": "The procedure described is identified as the twelfth rite.",
+   "uncertainties": [],
+   "plain_english": "This is the twelfth rite."
+  },
+  {
+   "verse": 1553,
+   "rows": [
+    {
+     "surface": "pūrṇa+kumbha",
+     "gloss": "full-pot",
+     "grounds": "auspicious vessel filled as ritual emblem",
+     "morph": "compound pūrṇa+member kumbha+member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates similar auspicious items",
+     "morph": "compound ādi+member"
+    },
+    {
+     "surface": "māṅgalye",
+     "gloss": "auspicious",
+     "grounds": "qualifies the occasion as favorable",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nimitte",
+     "gloss": "occasion",
+     "grounds": "ritual cause or event",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previously",
+     "grounds": "refers to earlier prescription",
+     "morph": "compound pūrva+member"
+    },
+    {
+     "surface": "cocite",
+     "gloss": "prescribed",
+     "grounds": "declared as proper in prior instruction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "codite",
+     "gloss": "enjoined",
+     "grounds": "commanded or directed by rule",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhū",
+     "gloss": "be",
+     "grounds": "verbal element; exact syntactic role unclear in isolation",
+     "morph": "root √bhū"
+    }
+   ],
+   "question": "On what kind of auspicious occasion are previously enjoined rites to be observed?",
+   "premises": [
+    "Auspicious items such as a full pot are involved",
+    "The occasion is described as auspicious",
+    "The actions are previously prescribed and enjoined"
+   ],
+   "inference": "On an auspicious occasion involving items like the full pot, the previously enjoined rites apply.",
+   "uncertainties": [
+    "The final token 'bhū' is syntactically ambiguous in this fragment."
+   ],
+   "plain_english": "On an auspicious occasion, such as one involving a full pot and the like, as previously prescribed and enjoined..."
+  },
+  {
+   "verse": 1554,
+   "rows": [
+    {
+     "surface": "maṅgala+arthaṃ",
+     "gloss": "for-auspiciousness",
+     "grounds": "purpose of producing auspiciousness",
+     "morph": "compound maṅgala+member artha+member; n.acc.sg"
+    },
+    {
+     "surface": "prayoktavyāḥ",
+     "gloss": "should-be-employed",
+     "grounds": "obligation to use or engage",
+     "morph": "f.nom.pl.gerundive √prayuj"
+    },
+    {
+     "surface": "śobha+arthaṃ",
+     "gloss": "for-beauty",
+     "grounds": "purpose of adornment or splendor",
+     "morph": "compound śobha+member artha+member; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "striyaḥ",
+     "gloss": "women",
+     "grounds": "female participants in auspicious rites",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "For what purposes should women be employed in auspicious ritual contexts?",
+   "premises": [
+    "Women are to be employed",
+    "One purpose is auspiciousness",
+    "Another purpose is beauty"
+   ],
+   "inference": "Women should likewise be employed for auspiciousness and for beauty.",
+   "uncertainties": [],
+   "plain_english": "Women should likewise be employed for auspiciousness and for beauty."
+  },
+  {
+   "verse": 1555,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to stated rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niyamaḥ",
+     "gloss": "rule",
+     "grounds": "restrictive regulation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇānāṃ",
+     "gloss": "of-brahmins",
+     "grounds": "members of the brahmin class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "parigrahe",
+     "gloss": "in-acceptance",
+     "grounds": "act of receiving or taking up",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Does the stated rule restrict acceptance to brahmins in this context?",
+   "premises": [
+    "A rule is under discussion",
+    "The context concerns acceptance by brahmins",
+    "The rule is explicitly negated here"
+   ],
+   "inference": "This rule does not apply as a restriction in the acceptance by brahmins in this context.",
+   "uncertainties": [
+    "The precise scope of 'parigrahe' in this ritual context is not fully specified."
+   ],
+   "plain_english": "And indeed, this rule does not apply here in the acceptance by brahmins."
+  },
+  {
+   "verse": 1556,
+   "rows": [
+    {
+     "surface": "utsave",
+     "gloss": "in-festival",
+     "grounds": "celebratory ritual occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maṅgala+arthe",
+     "gloss": "for-auspicious-purpose",
+     "grounds": "aimed at auspiciousness",
+     "morph": "compound maṅgala+member artha+member; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "proper",
+     "grounds": "correct and complete manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veda+svanaḥ",
+     "gloss": "veda-sound",
+     "grounds": "recitation or sound of Vedic texts",
+     "morph": "compound veda+member svana+member; m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "traditionally prescribed or taught",
+     "morph": "m.nom.sg.past-participle √smṛ"
+    }
+   ],
+   "question": "What role is assigned to Vedic recitation in an auspicious festival?",
+   "premises": [
+    "The context is a festival for an auspicious purpose",
+    "Proper Vedic sound is mentioned",
+    "This practice is traditionally remembered"
+   ],
+   "inference": "In an auspicious festival, proper Vedic recitation is prescribed.",
+   "uncertainties": [],
+   "plain_english": "But in a festival for an auspicious purpose, the proper sound of the Veda is prescribed."
+  },
+  {
+   "verse": 1557,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal scope",
+     "morph": "compound sarva+member"
+    },
+    {
+     "surface": "ārambheṣu",
+     "gloss": "in-beginnings",
+     "grounds": "commencements of undertakings",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to Vedic recitation or knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjyaṃ",
+     "gloss": "to-be-honored",
+     "grounds": "worthy of reverence",
+     "morph": "n.nom.sg.gerundive √pūj"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedaḥ",
+     "gloss": "veda",
+     "grounds": "Vedic text or tradition as such",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "determining reason",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the true basis for honor in all beginnings, if not the Veda itself?",
+   "premises": [
+    "Something is to be honored in all beginnings",
+    "The Veda is not the determining cause there",
+    "Honor is grounded in another principle"
+   ],
+   "inference": "In all beginnings what is to be honored is not the Veda itself but another underlying cause.",
+   "uncertainties": [
+    "The referent of 'tat' is contextually implied rather than explicit."
+   ],
+   "plain_english": "In all beginnings that is to be honored; the Veda is not the cause there."
+  },
+  {
+   "verse": 1558,
+   "rows": [
+    {
+     "surface": "jyotiḥ",
+     "gloss": "light-science",
+     "grounds": "astral or calendrical knowledge",
+     "morph": "compound jyotis+member"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "understanding or expertise",
+     "morph": "compound jñāna+member"
+    },
+    {
+     "surface": "artha",
+     "gloss": "purpose",
+     "grounds": "aim or application",
+     "morph": "compound artha+member"
+    },
+    {
+     "surface": "tattva+jñaḥ",
+     "gloss": "truth-knower",
+     "grounds": "one who knows the principles",
+     "morph": "compound tattva+member jña+member; m.nom.sg"
+    },
+    {
+     "surface": "daivajñaḥ",
+     "gloss": "astrologer",
+     "grounds": "expert in timing and omens",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "comes to be or arises",
+     "morph": "3.sg.passive-present √jan"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "introduces reason",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does an astrologer arise as a knower of principles for astral knowledge?",
+   "premises": [
+    "Astral knowledge has a specific purpose",
+    "A knower of principles is required",
+    "The astrologer arises in relation to this need"
+   ],
+   "inference": "Because of the purpose of astral knowledge, the astrologer arises as a knower of its principles.",
+   "uncertainties": [],
+   "plain_english": "Because of the purpose of knowledge of the luminaries, one who knows the principles becomes an astrologer."
+  },
+  {
+   "verse": 1559,
+   "rows": [
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "understanding and expertise",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃpūjyate",
+     "gloss": "is-honored",
+     "grounds": "receives reverence",
+     "morph": "3.sg.passive-present √pūj"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "continually or invariably",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātiḥ",
+     "gloss": "birth",
+     "grounds": "lineage or class by birth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "determining reason",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What qualifies a person for honor in ritual expertise, knowledge or birth?",
+   "premises": [
+    "Knowledge is always honored",
+    "Birth is not the determining cause",
+    "Honor is based on a different criterion"
+   ],
+   "inference": "Knowledge, not birth, is the basis for honor in this context.",
+   "uncertainties": [],
+   "plain_english": "Knowledge is always honored; birth is not the cause there."
+  },
+  {
+   "verse": 1560,
+   "rows": [
+    {
+     "surface": "nipuṇaṃ",
+     "gloss": "skilled",
+     "grounds": "expert and adept",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "supraṇītaṃ",
+     "gloss": "well-established",
+     "grounds": "properly conducted or reliable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyaya",
+     "gloss": "conviction",
+     "grounds": "trust or confidence",
+     "morph": "compound pratyaya+member"
+    },
+    {
+     "surface": "aneka",
+     "gloss": "many",
+     "grounds": "multiple instances",
+     "morph": "compound aneka+member"
+    },
+    {
+     "surface": "darśakam",
+     "gloss": "showing",
+     "grounds": "demonstrating or producing evidence",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What qualities should characterize the expert whose guidance inspires confidence?",
+   "premises": [
+    "The expert should be skilled",
+    "The expert should be well-established",
+    "The expert should demonstrate many grounds for confidence"
+   ],
+   "inference": "The qualified expert is skilled, reliable, and able to inspire confidence through repeated demonstration.",
+   "uncertainties": [
+    "The grammatical object described is implied from context, likely the astrologer."
+   ],
+   "plain_english": "One who is skilled, well-established, and able to inspire confidence in many ways."
+  },
+  {
+   "verse": 1561,
+   "rows": [
+    {
+     "surface": "p. 9",
+     "gloss": "page-nine",
+     "grounds": "editorial marker in the text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "sra'k",
+     "gloss": "garland",
+     "grounds": "ritual offering item; form as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vastra",
+     "gloss": "garment",
+     "grounds": "cloth offering",
+     "morph": "compound vastra+member"
+    },
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "scented substance offering",
+     "morph": "compound gandha+member"
+    },
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "aromatic smoke offering",
+     "morph": "compound dhūpa+member"
+    },
+    {
+     "surface": "ādyaiḥ",
+     "gloss": "and-so-forth",
+     "grounds": "indicates similar offerings",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "daivajñaṃ",
+     "gloss": "astrologer",
+     "grounds": "expert in timing to be honored",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃprapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual honoring with offerings",
+     "morph": "3.sg.optative.active √pūj"
+    }
+   ],
+   "question": "How should the astrologer be honored during the ritual procedure?",
+   "premises": [
+    "Offerings include garlands, garments, fragrance, incense, and the like",
+    "The astrologer is the recipient of honor",
+    "Worship of the astrologer is prescribed"
+   ],
+   "inference": "The astrologer should be duly worshipped with garlands, garments, fragrance, incense, and similar offerings.",
+   "uncertainties": [
+    "The token 'sra'k' preserves an unusual orthographic form as given."
+   ],
+   "plain_english": "One should worship the astrologer with garlands, garments, fragrance, incense, and the like."
+  },
+  {
+   "verse": 1562,
+   "rows": [
+    {
+     "surface": "ghaṭikā",
+     "gloss": "time-measure",
+     "grounds": "unit of time used in calculation",
+     "morph": "compound ghaṭikā+member"
+    },
+    {
+     "surface": "śaṅku",
+     "gloss": "gnomon",
+     "grounds": "shadow-casting instrument for time",
+     "morph": "compound śaṅku+member"
+    },
+    {
+     "surface": "yogena",
+     "gloss": "by-means-of",
+     "grounds": "through conjunction or use",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "installation",
+     "grounds": "ritual consecration event",
+     "morph": "compound pratiṣṭhā+member"
+    },
+    {
+     "surface": "lagnam",
+     "gloss": "ascendant",
+     "grounds": "auspicious rising moment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādiśet",
+     "gloss": "one-should-indicate",
+     "grounds": "declare or determine",
+     "morph": "3.sg.optative.active √diś"
+    }
+   ],
+   "question": "How should the auspicious moment for installation be determined?",
+   "premises": [
+    "Time is measured using the ghaṭikā and gnomon",
+    "The installation requires a determined moment",
+    "The ascendant for installation should be indicated"
+   ],
+   "inference": "Using the ghaṭikā and gnomon, one should determine the ascendant for the installation.",
+   "uncertainties": [],
+   "plain_english": "By means of the time-measure and the gnomon, one should indicate the ascendant for the installation."
+  },
+  {
+   "verse": 1563,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "complete range",
+     "morph": "compound sarva+member"
+    },
+    {
+     "surface": "upāyān",
+     "gloss": "means",
+     "grounds": "methods or resources",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vitaṃ",
+     "gloss": "endowed-with",
+     "grounds": "possessing or furnished with",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "meritorious",
+     "grounds": "auspicious and beneficial",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dharma",
+     "gloss": "duty",
+     "grounds": "righteous order",
+     "morph": "compound dharma+member"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "legitimate enjoyment",
+     "morph": "compound kāma+member"
+    },
+    {
+     "surface": "artha",
+     "gloss": "wealth",
+     "grounds": "material prosperity",
+     "morph": "compound artha+member"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "final release",
+     "morph": "compound mokṣa+member"
+    },
+    {
+     "surface": "dam",
+     "gloss": "giving",
+     "grounds": "bestowing or yielding",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What comprehensive benefits should the chosen installation moment provide?",
+   "premises": [
+    "The moment is endowed with all means",
+    "The moment is meritorious",
+    "The moment gives duty, desire, wealth, and liberation"
+   ],
+   "inference": "The proper installation moment should be meritorious, furnished with all means, and conducive to duty, desire, wealth, and liberation.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with all means, meritorious, and capable of granting dharma, desire, wealth, and liberation."
+  },
+  {
+   "verse": 1564,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun referring to an aim",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "achievable",
+     "grounds": "capable of being accomplished",
+     "morph": "n.nom.sg.gerundive √sādh"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedeṃṣu",
+     "gloss": "in-vedas",
+     "grounds": "within Vedic texts or rites; spelling as given",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "correlative to what precedes",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "susādhyaṃ",
+     "gloss": "well-achievable",
+     "grounds": "easily or fully accomplished",
+     "morph": "n.nom.sg.gerundive √sādh"
+    },
+    {
+     "surface": "śiva+āgame",
+     "gloss": "in-shiva-agama",
+     "grounds": "within the Śaiva scriptural tradition",
+     "morph": "compound śiva+member āgama+member; m.loc.sg"
+    }
+   ],
+   "question": "Where can aims unattainable through the Vedas be successfully accomplished?",
+   "premises": [
+    "Some aims are not achievable in the Vedas",
+    "The same aims are achievable elsewhere",
+    "The Śiva Āgama is named as that locus"
+   ],
+   "inference": "What cannot be achieved in the Vedas can be well achieved in the Śiva Āgama.",
+   "uncertainties": [],
+   "plain_english": "What cannot be achieved in the Vedas is well achievable in the Śiva Āgama."
+  },
+  {
+   "verse": 1565,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to stated cause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "reason or basis",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gh: caitaiḥ-",
+     "gloss": "variant-these",
+     "grounds": "editorial variant marker with reading as given",
+     "morph": "(marker+reading)"
+    },
+    {
+     "surface": "vedaiḥ",
+     "gloss": "by-vedas",
+     "grounds": "Vedic texts or authorities",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "pratiṣṭhāyāḥ",
+     "gloss": "of-installation",
+     "grounds": "ritual consecration",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śiva+āgame",
+     "gloss": "in-shiva-agama",
+     "grounds": "within the Śaiva scriptural tradition",
+     "morph": "compound śiva+member āgama+member; m.loc.sg"
+    }
+   ],
+   "question": "Are the Vedas the operative basis for installation within the Śiva Āgama?",
+   "premises": [
+    "A cause for installation is being considered",
+    "The Vedas are mentioned as a possible basis",
+    "The context is installation in the Śiva Āgama"
+   ],
+   "inference": "The Vedas are not the cause of installation in the Śiva Āgama.",
+   "uncertainties": [
+    "The token 'gh: caitaiḥ-' appears to contain an editorial variant marker whose exact integration is unclear."
+   ],
+   "plain_english": "And this is not the cause of installation in the Śiva Āgama by means of the Vedas."
+  },
+  {
+   "verse": 1566,
+   "rows": [
+    {
+     "surface": "devyā+matāt",
+     "gloss": "from-devimata",
+     "grounds": "from the Devīmata text or tradition",
+     "morph": "compound devī+member mata+member; n.abl.sg"
+    },
+    {
+     "surface": "samākṛṣya",
+     "gloss": "having-drawn",
+     "grounds": "having extracted or compiled",
+     "morph": "indeclinable-absolutive √kṛṣ"
+    },
+    {
+     "surface": "likhitaṃ",
+     "gloss": "written",
+     "grounds": "set down in writing",
+     "morph": "n.nom.sg.past-participle √likh"
+    },
+    {
+     "surface": "leśataḥ",
+     "gloss": "briefly",
+     "grounds": "in summary or in part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "the author as agent",
+     "morph": "1.ins.sg"
+    }
+   ],
+   "question": "What is the source and manner of the present written compilation?",
+   "premises": [
+    "Material was drawn from the Devīmata",
+    "The material was written down",
+    "The writing was done briefly by the author"
+   ],
+   "inference": "The author has briefly written this after drawing it from the Devīmata.",
+   "uncertainties": [],
+   "plain_english": "Having drawn from the Devīmata, it has been written briefly by me."
+  },
+  {
+   "verse": 1567,
+   "rows": [
+    {
+     "surface": "śodhayitvā",
+     "gloss": "having-purified",
+     "grounds": "having ritually cleansed",
+     "morph": "indeclinable-absolutive √śudh"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "ritual emblem to be installed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rathe",
+     "gloss": "on-chariot",
+     "grounds": "vehicle for procession",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu+āropya",
+     "gloss": "having-mounted",
+     "grounds": "having placed upon; sandhi fusion marked",
+     "morph": "indeclinable-absolutive √ruh"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "carefully and diligently",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory actions must precede transporting the liṅga in procession?",
+   "premises": [
+    "The liṅga must first be purified",
+    "The liṅga must then be mounted on a chariot",
+    "These actions must be done with care"
+   ],
+   "inference": "After purification, the liṅga should be carefully mounted on a chariot.",
+   "uncertainties": [],
+   "plain_english": "Then, having purified the liṅga, one should carefully mount it on a chariot."
+  },
+  {
+   "verse": 1568,
+   "rows": [
+    {
+     "surface": "ākarṣayet",
+     "gloss": "one-should-draw",
+     "grounds": "pull or convey forward",
+     "morph": "3.sg.optative.active √kṛṣ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāgaiḥ",
+     "gloss": "with-elephants",
+     "grounds": "animals used to draw the chariot",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "aśvaiḥ",
+     "gloss": "with-horses",
+     "grounds": "animals used to draw the chariot",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "mahiṣaiḥ",
+     "gloss": "with-buffaloes",
+     "grounds": "animals used to draw the chariot",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bṛṣai",
+     "gloss": "with-bulls",
+     "grounds": "animals used to draw the chariot; form as given",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ratham",
+     "gloss": "chariot",
+     "grounds": "vehicle carrying the liṅga",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which animals may be used to draw the chariot bearing the liṅga?",
+   "premises": [
+    "The chariot is to be drawn",
+    "Elephants, horses, buffaloes, or bulls are listed",
+    "These are presented as alternatives"
+   ],
+   "inference": "The chariot may be drawn by elephants, horses, buffaloes, or bulls.",
+   "uncertainties": [],
+   "plain_english": "And one should draw the chariot with elephants, horses, buffaloes, or bulls."
+  },
+  {
+   "verse": 1569,
+   "rows": [
+    {
+     "surface": "avatārya",
+     "gloss": "having-brought-down",
+     "grounds": "having lowered or removed",
+     "morph": "indeclinable-absolutive √tṝ"
+    },
+    {
+     "surface": "āgataṃ",
+     "gloss": "arrived",
+     "grounds": "having come to the destination",
+     "morph": "n.acc.sg.past-participle √gam"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "ritual emblem",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syandana+sthaṃ",
+     "gloss": "chariot-standing",
+     "grounds": "situated on the chariot",
+     "morph": "compound syandana+member stha+member; n.acc.sg"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "carefully and diligently",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the liṅga be handled upon arrival while still on the chariot?",
+   "premises": [
+    "The liṅga has arrived on the chariot",
+    "It must be brought down from the chariot",
+    "This must be done with care"
+   ],
+   "inference": "Upon arrival, the liṅga standing on the chariot should be carefully brought down.",
+   "uncertainties": [],
+   "plain_english": "Having brought down the arrived liṅga standing on the chariot, one should do so with care."
+  },
+  {
+   "verse": 1570,
+   "rows": [
+    {
+     "surface": "aṣṭa+aṅga",
+     "gloss": "eight-part",
+     "grounds": "consisting of eight components",
+     "morph": "compound aṣṭa+member aṅga+member"
+    },
+    {
+     "surface": "saṃskṛtaṃ",
+     "gloss": "consecrated",
+     "grounds": "ritually prepared",
+     "morph": "n.acc.sg.past-participle √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghaṃ",
+     "gloss": "honor-offering",
+     "grounds": "ritual reception offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "having presented",
+     "morph": "indeclinable-absolutive √dā"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "ritual emblem",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praveśayet",
+     "gloss": "one-should-cause-to-enter",
+     "grounds": "bring inside the designated place",
+     "morph": "3.sg.causative-optative.active √viś"
+    }
+   ],
+   "question": "What ritual steps must precede bringing the liṅga into its designated place?",
+   "premises": [
+    "An eight-part honor-offering is prepared",
+    "The honor-offering is given",
+    "The liṅga is then caused to enter"
+   ],
+   "inference": "After giving the consecrated eight-part honor-offering, one should cause the liṅga to enter.",
+   "uncertainties": [],
+   "plain_english": "Having given the consecrated eight-part argha, one should cause the liṅga to enter."
+  },
+  {
+   "verse": 1571,
+   "rows": [
+    {
+     "surface": "hema+pātra",
+     "gloss": "golden-vessel",
+     "grounds": "vessel made of gold",
+     "morph": "compound hema+member pātra+member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates similar items",
+     "morph": "compound ādi+member"
+    },
+    {
+     "surface": "gaiḥ",
+     "gloss": "with-these",
+     "grounds": "instrumental items used; form as given",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "etaiḥ",
+     "gloss": "with-these",
+     "grounds": "demonstrative specifying items",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "arghaṃ",
+     "gloss": "honor-offering",
+     "grounds": "ritual reception offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "present as offering",
+     "morph": "3.sg.optative.active √dā"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "next in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭabhiḥ",
+     "gloss": "with-eight",
+     "grounds": "eight items or components",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "With what set of items should the eightfold honor-offering be presented?",
+   "premises": [
+    "Items such as a golden vessel are included",
+    "The offering is the argha",
+    "The offering is given with eight items"
+   ],
+   "inference": "The argha should then be given with these eight items, beginning with a golden vessel and the like.",
+   "uncertainties": [
+    "The token 'gaiḥ' is morphologically unusual in this context; interpreted as instrumental plural by context."
+   ],
+   "plain_english": "Then one should give the argha with these eight items, such as a golden vessel and the like."
+  },
+  {
+   "verse": 1572,
+   "rows": [
+    {
+     "surface": "pāda+śaucaṃ",
+     "gloss": "foot-washing",
+     "grounds": "ritual cleansing of the feet",
+     "morph": "compound pāda+member śauca+member; n.acc.sg"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "next in sequence; form as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "having performed",
+     "morph": "indeclinable-absolutive √kṛ"
+    },
+    {
+     "surface": "pāduke",
+     "gloss": "on-sandals",
+     "grounds": "footwear or supports for placement",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "set or install",
+     "morph": "3.sg.causative-optative.active √sthā"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further or subsequently",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action follows the ritual washing of the feet in this sequence?",
+   "premises": [
+    "Foot-washing is performed",
+    "Placement on sandals follows",
+    "The placement is to be done again or next"
+   ],
+   "inference": "After performing foot-washing, one should place it again on the sandals.",
+   "uncertainties": [
+    "The object of placement is implied from context, likely the liṅga or its base."
+   ],
+   "plain_english": "Then, having performed the washing of the feet, one should place it again on the sandals."
+  },
+  {
+   "verse": 1573,
+   "rows": [
+    {
+     "surface": "kuṅkuma",
+     "gloss": "saffron",
+     "grounds": "fragrant coloring substance",
+     "morph": "compound kuṅkuma+member"
+    },
+    {
+     "surface": "aguru",
+     "gloss": "aloewood",
+     "grounds": "fragrant resinous wood",
+     "morph": "compound aguru+member"
+    },
+    {
+     "surface": "karpūraiḥ",
+     "gloss": "with-camphor",
+     "grounds": "aromatic substance used for anointing",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "limpeta",
+     "gloss": "one-should-anoint",
+     "grounds": "smear or coat ritually",
+     "morph": "3.sg.optative.active √lip"
+    },
+    {
+     "surface": "sama+candanaiḥ",
+     "gloss": "with-equal-sandalwood",
+     "grounds": "sandalwood in equal measure; compound as given",
+     "morph": "compound sama+member candana+member; n.ins.pl"
+    }
+   ],
+   "question": "With which substances should the ritual anointing be performed?",
+   "premises": [
+    "Saffron, aloewood, and camphor are specified",
+    "Sandalwood in equal measure is included",
+    "Anointing with these substances is prescribed"
+   ],
+   "inference": "One should anoint with saffron, aloewood, camphor, and sandalwood in equal measure.",
+   "uncertainties": [],
+   "plain_english": "One should anoint it with saffron, aloewood, camphor, and sandalwood in equal measure."
+  },
+  {
+   "verse": 1574,
+   "rows": [
+    {
+     "surface": "mukuṭaṃ",
+     "gloss": "crown",
+     "grounds": "ornament for the head",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍalaṃ",
+     "gloss": "earring",
+     "grounds": "ornament for the ears",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hāra",
+     "gloss": "necklace",
+     "grounds": "ornament for the neck",
+     "morph": "compound hāra+member"
+    },
+    {
+     "surface": "keyūra",
+     "gloss": "armlet",
+     "grounds": "ornament for the upper arm",
+     "morph": "compound keyūra+member"
+    },
+    {
+     "surface": "kaṅkaṇau",
+     "gloss": "bracelets",
+     "grounds": "ornaments for the wrists",
+     "morph": "n.acc.du"
+    }
+   ],
+   "question": "Which ornaments are to be applied as part of the adornment sequence?",
+   "premises": [
+    "A crown and earring are named",
+    "A necklace, armlet, and bracelets are named",
+    "These items form a set of ornaments"
+   ],
+   "inference": "The adornment includes a crown, earring, necklace, armlet, and bracelets.",
+   "uncertainties": [
+    "The verb governing these objects is implied from the surrounding context."
+   ],
+   "plain_english": "A crown, an earring, and indeed a necklace, an armlet, and bracelets."
+  }
+ ]
+}

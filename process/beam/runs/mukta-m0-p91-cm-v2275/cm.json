@@ -3,9 +3,44 @@
  "verse": 2275,
  "rows": [
   {
-   "lemma": "tadbāhyaviṃśativyūhamadhyasthakalaśāṃstataḥ",
-   "morph": "m.acc.pl; compound=tad+bāhya+viṃśati+vyūha+madhyastha+kalaśa",
-   "grounds": "compound accusative plural masculine; members tad, bāhya, viṃśati, vyūha, madhyastha, kalaśa; tataḥ indicates sequence after previous arrangement"
+   "lemma": "sva",
+   "morph": "compound-member",
+   "grounds": "first member of compound with jāti"
+  },
+  {
+   "lemma": "jāti",
+   "morph": "compound-member.f.nom.sg",
+   "grounds": "second member of compound with sva"
+  },
+  {
+   "lemma": "brāhmaṇī",
+   "morph": "f.nom.sg",
+   "grounds": "female member of the brahmin class"
+  },
+  {
+   "lemma": "vāpi",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive-inclusive particle"
+  },
+  {
+   "lemma": "yathā",
+   "morph": "(indecl.)",
+   "grounds": "particle indicating manner or accordance"
+  },
+  {
+   "lemma": "lābhaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object indicating what is obtained or available"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunctive particle"
+  },
+  {
+   "lemma": "gṛhyate",
+   "morph": "3.sg.pass-pres √grah",
+   "grounds": "passive action of acceptance or selection"
   }
  ]
 }

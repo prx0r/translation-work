@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p63",
  "verse": 1574,
- "question": "What follows after saying this?",
+ "question": "Which ornaments are to be applied as part of the adornment sequence?",
  "premises": [
-  "thus-saying introduces the next item",
-  "this-etc refers to the following mantra",
-  "the following one is next"
+  "A crown and earring are named",
+  "A necklace, armlet, and bracelets are named",
+  "These items form a set of ornaments"
  ],
- "inference": "The verse says the following mantra comes next.",
+ "inference": "The adornment includes a crown, earring, necklace, armlet, and bracelets.",
  "uncertainties": [
-  "The following mantra is not quoted here."
+  "The verb governing these objects is implied from the surrounding context."
  ],
- "plain_english": "Having said thus, the following this-and-so-forth comes next."
+ "plain_english": "A crown, an earring, and indeed a necklace, an armlet, and bracelets."
 }

@@ -1,0 +1,485 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "satyādi",
+     "gloss": "truth-and-so-on",
+     "grounds": "compound beginning with satya; indicates the series starting with truth",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañcahrasvāḍhyā",
+     "gloss": "endowed-with-five-short-vowels",
+     "grounds": "compound describing syllables or powers marked by five short vowels",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nyastavyā",
+     "gloss": "to-be-placed",
+     "grounds": "gerundive indicating ritual placement",
+     "morph": "gerundive.f.nom.pl"
+    },
+    {
+     "surface": "bhūtasaṃprabhāḥ",
+     "gloss": "shining-like-elements",
+     "grounds": "compound describing luminous forms associated with elements",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which luminous powers beginning with truth must be ritually placed?",
+   "premises": [
+    "The powers begin with truth and related terms",
+    "They are endowed with five short vowels",
+    "They shine like the elements",
+    "They are to be ritually placed"
+   ],
+   "inference": "The luminous elemental powers beginning with truth and marked by five short vowels must be placed.",
+   "uncertainties": [
+    "The exact referents of satyādi in this ritual context are not fully specified"
+   ],
+   "plain_english": "The luminous powers of the elements, beginning with truth and endowed with the five short vowels, are to be placed."
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable indicating universal application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karāṅganyāse",
+     "gloss": "in-hand-and-limb-placement",
+     "grounds": "compound referring to ritual placement on hands and limbs",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner or sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "sequence",
+     "grounds": "noun denoting ritual order",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sequence applies universally in hand and limb placement?",
+   "premises": [
+    "The context is hand and limb placement",
+    "The instruction applies everywhere",
+    "A specific sequence is indicated"
+   ],
+   "inference": "The same sequence is to be followed everywhere in hand and limb placement.",
+   "uncertainties": [],
+   "plain_english": "This is the sequence to be followed everywhere in the placement on the hands and limbs."
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "nyastavyaṃ",
+     "gloss": "to-be-placed",
+     "grounds": "gerundive indicating required placement",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "vadane",
+     "gloss": "on-face",
+     "grounds": "noun indicating body location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root-mantra",
+     "grounds": "noun referring to the primary mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable indicating repetition or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca+etāṃ",
+     "gloss": "and-this",
+     "grounds": "conjunction joined with demonstrative pronoun",
+     "morph": "(indecl.)+f.acc.sg"
+    },
+    {
+     "surface": "stanau",
+     "gloss": "on-breasts",
+     "grounds": "noun indicating body location",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative verb prescribing ritual action",
+     "morph": "3.sg.optative-active √nyas"
+    }
+   ],
+   "question": "Where must the root mantra and this power be placed on the body?",
+   "premises": [
+    "The root mantra is to be placed on the face",
+    "The same or related power is to be placed again",
+    "The breasts are specified as a location"
+   ],
+   "inference": "The root mantra should be placed on the face and this power should be placed on the breasts.",
+   "uncertainties": [
+    "The exact referent of etāṃ depends on the preceding context"
+   ],
+   "plain_english": "The root mantra should be placed on the face, and one should place this again on the breasts."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "savyāṃse",
+     "gloss": "on-left-shoulder",
+     "grounds": "compound indicating left shoulder location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parśvayugale",
+     "gloss": "on-both-sides",
+     "grounds": "compound indicating the pair of sides",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nābhideśe",
+     "gloss": "on-navel-region",
+     "grounds": "compound indicating the navel area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "noun denoting the ritual instructor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which additional body locations must the teacher use for placement?",
+   "premises": [
+    "The teacher performs the placement",
+    "The left shoulder is specified",
+    "Both sides and the navel region are specified"
+   ],
+   "inference": "The teacher should place on the left shoulder, both sides, and the navel region.",
+   "uncertainties": [],
+   "plain_english": "The teacher should place it on the left shoulder, on both sides, and on the navel region."
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable indicating universal application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How broadly should the prescribed placement method be applied?",
+   "premises": [
+    "A method has been described",
+    "The instruction states thus",
+    "The instruction states everywhere"
+   ],
+   "inference": "The prescribed method should be applied in this way everywhere.",
+   "uncertainties": [],
+   "plain_english": "Thus it should be done everywhere."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior mental visualization",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "adjective-noun use indicating offerings made in the mind",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating completed mental worship",
+     "morph": "absolutive sam-√pūj"
+    },
+    {
+     "surface": "vahiḥpūjām",
+     "gloss": "external-worship",
+     "grounds": "compound denoting worship performed outwardly",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ārabheta",
+     "gloss": "one-should-begin",
+     "grounds": "optative verb prescribing initiation of action",
+     "morph": "3.sg.optative-middle ā-√rabh"
+    }
+   ],
+   "question": "What preparatory acts must precede beginning external worship?",
+   "premises": [
+    "Meditation is performed first",
+    "Worship is performed with mental offerings",
+    "External worship is to be begun afterward"
+   ],
+   "inference": "After meditating and worshipping with mental offerings, one should begin external worship.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should begin the external worship."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "caturasraṃ",
+     "gloss": "four-cornered",
+     "grounds": "adjective describing the shape of the diagram",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturdvāram",
+     "gloss": "four-doored",
+     "grounds": "compound describing four openings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "diagram",
+     "grounds": "noun referring to the ritual maṇḍala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "one-should-draw",
+     "grounds": "optative verb prescribing drawing action",
+     "morph": "3.sg.optative-active ā-√likh"
+    }
+   ],
+   "question": "What kind of ritual diagram must be drawn for worship?",
+   "premises": [
+    "A diagram is to be drawn",
+    "It is four-cornered",
+    "It has four doors"
+   ],
+   "inference": "One should draw a four-cornered diagram with four doors.",
+   "uncertainties": [],
+   "plain_english": "One should draw a four-cornered diagram with four doors in this way."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable indicating universal application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavādinamo'ntena",
+     "gloss": "beginning-with-om-ending-with-namas",
+     "grounds": "compound describing mantra form starting with praṇava and ending with namas",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb prescribing worship",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "What mantra formula must be used for worship in all cases?",
+   "premises": [
+    "Worship is to be performed everywhere",
+    "The formula begins with praṇava",
+    "The formula ends with namas"
+   ],
+   "inference": "One should worship everywhere using a formula beginning with praṇava and ending with namas.",
+   "uncertainties": [
+    "The exact inserted deity name or mantra core is not specified here"
+   ],
+   "plain_english": "Everywhere one should worship using a formula that begins with Om and ends with namas."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "savāhanāya",
+     "gloss": "together-with-vehicle",
+     "grounds": "compound indicating inclusion of the deity's vehicle",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking quotation or formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramadīpikā",
+     "gloss": "kramadīpikā",
+     "grounds": "proper name of a cited text",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which textual source prescribes worship together with the vehicle?",
+   "premises": [
+    "The formula includes together with the vehicle",
+    "The statement is marked as a citation",
+    "The source named is Kramadīpikā"
+   ],
+   "inference": "The Kramadīpikā prescribes worship together with the vehicle.",
+   "uncertainties": [],
+   "plain_english": "Thus says the Kramadīpikā: worship together with the vehicle."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun referring to the mantra or deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "puraścaraṇaṃ",
+     "gloss": "preliminary-rite",
+     "grounds": "noun denoting preparatory ritual practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvātriṃśallakṣajapaḥ",
+     "gloss": "thirty-two-lakh-recitation",
+     "grounds": "compound specifying the number of mantra recitations",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What preliminary recitation count is required for this practice?",
+   "premises": [
+    "A preliminary rite is specified",
+    "The rite belongs to this mantra or deity",
+    "The recitation count is thirty-two lakhs"
+   ],
+   "inference": "The preliminary rite for this consists of reciting the mantra thirty-two lakhs of times.",
+   "uncertainties": [
+    "The exact referent of asya depends on prior context"
+   ],
+   "plain_english": "Its preliminary rite is the recitation of thirty-two lakhs."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "trisvāduryuktaiḥ",
+     "gloss": "mixed-with-three-sweets",
+     "grounds": "compound describing substances combined with the three sweets",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "optative verb prescribing fire offering",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "aṣṭadravyaiḥ",
+     "gloss": "with-eight-substances",
+     "grounds": "compound indicating eight ritual substances",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "daśāṃśataḥ",
+     "gloss": "as-a-tenth-part",
+     "grounds": "adverbial expression indicating one tenth of the recitation count",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many fire offerings and with what substances must be made?",
+   "premises": [
+    "Fire offerings are to be made",
+    "Eight substances are used",
+    "They are mixed with the three sweets",
+    "The amount is one tenth of the recitation"
+   ],
+   "inference": "One should make fire offerings amounting to one tenth of the recitation using eight substances mixed with the three sweets.",
+   "uncertainties": [
+    "The specific identities of the eight substances are not listed here"
+   ],
+   "plain_english": "One should offer oblations equal to a tenth part, using eight substances mixed with the three sweets."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "trisvād",
+     "gloss": "three-sweets",
+     "grounds": "compound naming the mixture of three sweet substances",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking definition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛtamadhuśarkarā",
+     "gloss": "ghee-honey-sugar",
+     "grounds": "compound listing the three sweet ingredients",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable closing the definition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ingredients constitute the three-sweet mixture for offerings?",
+   "premises": [
+    "The term three-sweets is defined",
+    "Ghee is included",
+    "Honey and sugar are included"
+   ],
+   "inference": "The three-sweet mixture consists of ghee, honey, and sugar.",
+   "uncertainties": [],
+   "plain_english": "The three sweets are ghee, honey, and sugar."
+  }
+ ]
+}
