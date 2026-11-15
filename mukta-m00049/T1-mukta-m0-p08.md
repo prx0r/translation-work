@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[indra+ādayaḥ](indrādayo) [loka+pālāḥ](lokapālāḥ) [sarve](sarve) [tat+vaśa+vartinaḥ](tadvaśavartinaḥ)
+[indra-etc.](indrādayo) [world-guardians](lokapālāḥ) [all](sarve) [under-his-control-abiding](tadvaśavartinaḥ)
 
 ## mukta-m0-p08-v177
-[tvam](tvaṃ) [parā](parā) [prakṛtiḥ](prakṛtis) [tasya](tasya) [pūjyā](pūjyā) [asi](asi) [bhuvana+traye](bhuvanatraye)
+[you](tvaṃ) [supreme](parā) [primordial-nature](prakṛtis) [of-him](tasya) [worshipable](pūjyā) [are](asi) [in-the-three-worlds](bhuvanatraye)
 
 ## mukta-m0-p08-v178
-[tat+bhinnaḥ](tadbhinnas) [tu](tv) [akhilaḥ](akhilaḥ) [pada+arthaḥ](padārtho') [na+evam+bhūtatvāt](nevambhūtatvād) [asatyaḥ](asatya) [iti+arthaḥ](ityarthaḥ)
+[different-from-him](tadbhinnas) [you](tva) [entire](akhilaḥ) [object](padārtho) [not-being-of-that-nature](anevambhūtatvād) [unreal](asatya) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p08-v179
-[prakāśate](prakāśate) [iti+anvayaḥ](ityanvayaḥ) [vayam](vayaṃ) [śaṅkara+ādayaḥ](śaṅkarādayaḥ)
+[shines](prakāśate) [thus-construction](ityanvayaḥ) [we](vayaṃ) [śaṅkara-etc.](śaṅkarādayaḥ)
 
 ## mukta-m0-p08-v180
-[sva+sva+karma](svasvakarma) [prakurvanti](prakurvanti) [na](na) [sva+tantrāḥ](svatantrāḥ) [kadācana](kadācana)
+[own-own-action](svasvakarma) [they-perform](prakurvanti) [not](na) [independent](svatantrāḥ) [ever](kadācana)
 
 ## mukta-m0-p08-v181
-[varṣanti](varṣanti) [toya+dāḥ](toyadāḥ) [kāle](kāle) [puṣpanti](puṣpanti) [taravaḥ](taravo) [vane](vane)
+[rain](varṣanti) [clouds](toyadāḥ) [in-time](kāle) [blossom](puṣpanti) [trees](taravo) [in-forest](vane)
 
 ## mukta-m0-p08-v182
-[vedānta+vedyaḥ](vedāntavedyo) [bhagavān](bhagavān) [yat+tat+śabda+upalakṣitaḥ](yattacchabdopalakṣitaḥ)
+[known-through-vedānta](vedāntavedyo) [lord](bhagavān) [which](yat) [that-word-indicated](tacchabdopalakṣitaḥ)
 
 ## mukta-m0-p08-v183
-[ā+brahma+stamba+paryantam](ābrahmastambaparyantaṃ) [tat+mayam](tanmayaṃ) [sakalam](sakalaṃ) [jagat](jagat)
+[from-brahmā-to-grass](ābrahmastambaparyantaṃ) [consisting-of-him](tanmayaṃ) [entire](sakalaṃ) [world](jagat)
 
 ## mukta-m0-p08-v184
-[tat+ārādhanataḥ](tadārādhanato) [devi](devi) [sarveṣām](sarveṣāṃ) [prīṇanam](prīṇanaṃ) [bhavet](bhavet)
+[by-worship-of-him](tadārādhanato) [o-goddess](devi) [of-all](sarveṣāṃ) [satisfaction](prīṇanaṃ) [would-be](bhavet)
 
 ## mukta-m0-p08-v185
-[viṣaye](viṣaye) [pravartitāḥ](pravartitāḥ) [na](na) [sva+tantrāḥ](svatantrāḥ) [na](na) [sva+ādhīnāḥ](svādhīnāḥ)
+[in-objects](viṣaye) [engaged](pravartitāḥ) [not](na) [independent](svatantrāḥ) [not](na) [self-dependent](svādhīnāḥ)
 
 ## mukta-m0-p08-v186
-[bodhitaḥ](bodhitaḥ) [iti](iti) [ayam](ayam) [arthaḥ](arthaḥ)
+[instructed](bodhitaḥ)
 
 ## mukta-m0-p08-v187
-[para+brahma+sva+rūpam](parabrahmasvarūpaṃ) [bhavati](bhavati) [iti](iti) [arthaḥ](arthaḥ)
+[supreme-brahman-nature](parabrahmasvarūpaṃ) [becomes](bhavati)
 
 ## mukta-m0-p08-v188
-[tasmin+iti+ādi](tasminnityādi) [ataḥ](ata) [iti](iti) [śeṣaḥ](śeṣaḥ) [tasmin](tasmin) [parama+ātmani](paramātmani)
+[in-that-etc.](tasminnityādi) [therefore](ata) [thus](iti) [to-be-supplied](śeṣaḥ) [in-that](tasmin) [supreme-self](paramātmani)
 
 ## mukta-m0-p08-v189
-[tṛpyanti](tṛpyanti) [tat+anuṣṭhānāt](tadanuṣṭhānāt) [tathā](tathā) [sarve](sarve) [amara+ādayaḥ](amarādayaḥ)
+[are-satisfied](tṛpyanti) [by-performance-of-that](tadanuṣṭhānāt) [likewise](tathā) [all](sarve) [immortals-etc.](amarādayaḥ)
 
 ## mukta-m0-p08-v190
-[bhavanti](bhavanti) [tuṣṭāḥ](tuṣṭāḥ) [sundaryaḥ](sundaryas) [tathā](tathā) [jānīhi](jānīhi) [su+vrate](suvrate)
+[become](bhavanti) [pleased](tuṣṭāḥ) [o-beautiful-one](sundaryas) [thus](tathā) [know](jānīhi) [o-vow-observing-one](suvrate)
 
 ## mukta-m0-p08-v191
-[tathā](tathā) [arcā+ādīni](arcādīni) [karmāṇi](karmāṇi) [tat+uddeśyāni](taduddeśyāni) [pārvati](pārvati)
+[likewise](tathā) [worship-etc.](arcādīni) [actions](karmāṇi) [aimed-at-him](taduddeśyāni) [o-pārvatī](pārvati)
 
 ## mukta-m0-p08-v192
-[tat+tat](tattad) [dadāti](dadāti) [saḥ](so') [adhyakṣaḥ](dhyakṣas) [taiḥ+taiḥ](taistair) [deva+gaṇaiḥ](devagaṇaiḥ) [śive](śive)
+[that-that](tattad) [gives](dadāti) [he](saḥ) [overseer](adhyakṣas) [by-those-those](taistair) [groups-of-gods](devagaṇaiḥ) [o-śivā](śive)
 
 ## mukta-m0-p08-v193
-[dhyeyaḥ](dhyeyaḥ) [pūjyaḥ](pūjyaḥ) [sukha+ārādhyaḥ](sukhārādhyas) [tam](taṃ) [vinā](vinā) [na+asti](nāsti) [muktaye](muktaye)
+[to-be-meditated](dhyeyaḥ) [to-be-worshipped](pūjyaḥ) [easy-to-propitiate](sukhārādhyas) [without-him](taṃ+vinā) [not](nāsti) [for-liberation](muktaye)
 
 ## mukta-m0-p08-v194
-[na+eva](naivā') [ācāra+ādi+niyamaḥ](cārādiniyamo) [na](na) [upacārāḥ](upacārāś) [ca](ca) [bhūriśaḥ](bhūriśaḥ)
+[not-indeed](na+eva) [conduct-etc.-rule](ācārādiniyamo) [nor](na) [observances](upacārāś) [and](ca) [many](bhūriśaḥ)
 
 ## mukta-m0-p08-v195
-[tat+anuṣṭhānāt](tadanuṣṭhānāt) [parama+īśvara+ārādhanāt](parameśvarārādhanāt) [iti](iti) [arthaḥ](arthaḥ)
+[by-performance-of-that](tadanuṣṭhānāt) [by-worship-of-the-supreme-lord](parameśvarārādhanāt)
 
 ## mukta-m0-p08-v196
-[yathā+iti+ādi](yathetyādi) [pūjanāt](pūjanāt) [mānasa+arcanāt](mānasārcanāt) [iti](iti) [arthaḥ](arthaḥ)
+[as-etc.](yathetyādi) [by-worship](pūjanāt) [by-mental-worship](mānasārcanāt)
 
 ## mukta-m0-p08-v197
-[yeṣām](yeṣām) [arcā+ādi+karmaṇām](arcādikarmaṇāṃ) [tāni](tāni) [iti](iti) [arthaḥ](arthaḥ)
+[of-which](yeṣām) [worship-etc.-actions](arcādikarmaṇāṃ) [those](tāni)
 
 ## mukta-m0-p08-v198
-[adhyakṣaḥ](adhyakṣaḥ) [sarveṣām](sarveṣāṃ) [prāṇinām](prāṇināṃ) [tat+tat+kriyāsu](tattatkriyāsu) [pravartakaḥ](pravartakaḥ)
+[overseer](adhyakṣaḥ) [of-all](sarveṣāṃ) [of-beings](prāṇināṃ) [in-their-respective-actions](tattatkriyāsu) [impeller](pravartakaḥ)
 
 ## mukta-m0-p08-v199
-[bahunā+iti+ādi](bahunetyādi) [sukhena+ārādhyaḥ](sukhenārādhya) [upāsyaḥ](upāsyaḥ) [sukha+ārādhyaḥ](sukhārādhyaḥ)
+[much-etc.](bahunetyādi) [easily-worshipable](sukhena+ārādhyaḥ) [to-be-worshipped](upāsyaḥ) [easy-to-propitiate](sukhārādhyaḥ)
 
 ## mukta-m0-p08-v200
-[pariśramaḥ](pariśramaḥ) [iti](iti) [ayam](ayam) [arthaḥ](arthaḥ)
+[effort](pariśramaḥ)

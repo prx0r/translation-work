@@ -11,7 +11,7 @@
 "quick_gloss": "by-letter-a"
 },
 {
-"surface": "jagatpātā",
+"surface": "jagat+pātā",
 "quick_gloss": "world-protector"
 },
 {
@@ -36,7 +36,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sacchabdena",
+"surface": "sat+śabdena",
 "quick_gloss": "by-word-sat"
 },
 {
@@ -78,7 +78,7 @@
 },
 {
 "surface": "sādhaka+abhīṣṭa+siddhi+daḥ",
-"quick_gloss": "practitioner-desired-accomplishment-giver"
+"quick_gloss": "practitioner-desired-accomplishment-giving"
 }
 ]
 },
@@ -90,8 +90,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "|| 29 ||",
+"surface": "||",
 "quick_gloss": "verse-29"
+},
+{
+"surface": "29",
+"quick_gloss": "29"
+},
+{
+"surface": "||",
+"quick_gloss": "verse-end"
 },
 {
 "surface": "sa",
@@ -135,8 +143,12 @@
 "quick_gloss": "by-akāreṇa-etc"
 },
 {
-"surface": "|| 31",
+"surface": "||",
 "quick_gloss": "verse-31"
+},
+{
+"surface": "31",
+"quick_gloss": "31"
 }
 ]
 },
@@ -160,12 +172,16 @@
 "quick_gloss": "states"
 },
 {
-"surface": "sacchabdena+ityādinā",
+"surface": "sat+śabdena+ityādinā",
 "quick_gloss": "by-sacchabdena-etc"
 },
 {
-"surface": "|| 33",
+"surface": "||",
 "quick_gloss": "verse-33"
+},
+{
+"surface": "33",
+"quick_gloss": "33"
 }
 ]
 },
@@ -181,16 +197,16 @@
 "quick_gloss": "that-knowledge"
 },
 {
-"surface": "parameśāni",
+"surface": "parama+īśāni",
 "quick_gloss": "O-supreme-goddess"
 },
 {
 "surface": "bhaktānāṃ",
-"quick_gloss": "for-devotees"
+"quick_gloss": "of-devotees"
 },
 {
 "surface": "siddhi+dāyakam",
-"quick_gloss": "accomplishment-giver"
+"quick_gloss": "accomplishment-giving"
 }
 ]
 },
@@ -261,7 +277,7 @@
 "tokens": [
 {
 "surface": "yugma+yugma+krameṇa",
-"quick_gloss": "by-pair-and-pair-sequence"
+"quick_gloss": "by-pair-pair-sequence"
 },
 {
 "surface": "api",
@@ -277,11 +293,11 @@
 },
 {
 "surface": "vividhaḥ",
-"quick_gloss": "manifold"
+"quick_gloss": "various"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "may-become"
 }
 ]
 },
@@ -294,15 +310,15 @@
 "tokens": [
 {
 "surface": "bhaktānāṃ",
-"quick_gloss": "for-devotees"
+"quick_gloss": "of-devotees"
 },
 {
 "surface": "siddhi+dāyakaṃ",
-"quick_gloss": "accomplishment-giver"
+"quick_gloss": "accomplishment-giving"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "may-become"
 }
 ]
 },
@@ -323,7 +339,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "may-become"
 }
 ]
 },
@@ -335,12 +351,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sat+cit+ekaṃ brahma+iti+anena",
-"quick_gloss": "by-saccid-ekam-brahma-thus"
+"surface": "sat+cit+ekaṃ",
+"quick_gloss": "by-saccid-ekaṃ-brahma-thus"
+},
+{
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "iti+anena",
+"quick_gloss": "by-this-statement"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "śrī+iti",
@@ -386,7 +410,7 @@
 "tokens": [
 {
 "surface": "aṅga+nyāsa+kara+nyāsau",
-"quick_gloss": "limb-nyāsa-and-hand-nyāsa"
+"quick_gloss": "limb-placements-and-hand-placements"
 },
 {
 "surface": "kathayāmi",
@@ -414,7 +438,7 @@
 "quick_gloss": "on-thumb-index-middle-ring-fingers"
 },
 {
-"surface": "maheśvari",
+"surface": "mahā+īśvari",
 "quick_gloss": "O-great-goddess"
 }
 ]
@@ -427,8 +451,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "namaḥ svāhā vaṣaṭ hū/ vauṣaṭ phaḍ+antaiḥ",
-"quick_gloss": "with-namaḥ-svāhā-vaṣaṭ-hūṁ-vauṣaṭ-phaṭ-ending"
+"surface": "namaḥ",
+"quick_gloss": "namaḥ"
+},
+{
+"surface": "svāhā",
+"quick_gloss": "svāhā"
+},
+{
+"surface": "vaṣaṭ",
+"quick_gloss": "vaṣaṭ"
+},
+{
+"surface": "hū/",
+"quick_gloss": "hūṃ"
+},
+{
+"surface": "vauṣaṭ",
+"quick_gloss": "vauṣaṭ"
+},
+{
+"surface": "phaḍ+antaiḥ",
+"quick_gloss": "ending-with-phaṭ"
 },
 {
 "surface": "yathā+kramam",
@@ -444,32 +488,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidbrahma",
-"quick_gloss": "cidbrahma"
+"surface": "cit+brahma",
+"quick_gloss": "consciousness-brahman"
 },
 {
-"surface": "|",
-"quick_gloss": "separator"
+"surface": "ekaṃ",
+"quick_gloss": "one-brahman"
 },
 {
-"surface": "ekaṃ brahma",
-"quick_gloss": "ekaṃ-brahma"
+"surface": "brahma",
+"quick_gloss": "brahma"
 },
 {
-"surface": "|",
-"quick_gloss": "separator"
+"surface": "sat+cit",
+"quick_gloss": "being-consciousness"
 },
 {
-"surface": "saccit",
-"quick_gloss": "saccit"
-},
-{
-"surface": "|",
-"quick_gloss": "separator"
-},
-{
-"surface": "cidekam+iti",
-"quick_gloss": "cidekam-thus"
+"surface": "cit+ekam+iti",
+"quick_gloss": "consciousness-one-thus"
 }
 ]
 },
@@ -482,11 +518,15 @@
 "tokens": [
 {
 "surface": "aṅga+nyāsa+ityādi",
-"quick_gloss": "limb-nyāsa-etc"
+"quick_gloss": "limb-placement-etc"
 },
 {
-"surface": "|| 39",
+"surface": "||",
 "quick_gloss": "verse-39"
+},
+{
+"surface": "39",
+"quick_gloss": "39"
 }
 ]
 },
@@ -498,7 +538,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hṛd+ādi+kara+paryantam",
+"surface": "hṛt+ādi+kara+paryantam",
 "quick_gloss": "up-to-heart-etc-and-hand"
 },
 {
@@ -536,7 +576,7 @@
 },
 {
 "surface": "pārvati",
-"quick_gloss": "O-Pārvatī"
+"quick_gloss": "O-Pārvati"
 }
 ]
 },
@@ -549,7 +589,7 @@
 "tokens": [
 {
 "surface": "pūayet",
-"quick_gloss": "should-fill"
+"quick_gloss": "one-should-fill"
 },
 {
 "surface": "pavanaṃ",
@@ -578,14 +618,14 @@
 "tokens": [
 {
 "surface": "japet",
-"quick_gloss": "should-recite"
+"quick_gloss": "one-should-recite"
 },
 {
 "surface": "dvātriṃśatā+āvṛttyā",
 "quick_gloss": "with-thirty-two-repetitions"
 },
 {
-"surface": "tato",
+"surface": "tataḥ",
 "quick_gloss": "then"
 },
 {
