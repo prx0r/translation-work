@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "ucca",
+     "gloss": "high",
+     "grounds": "first member of compound describing physical attribute; qualifies stanīṃ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stanīṃ",
+     "gloss": "full-breasted",
+     "grounds": "second member of bahuvrīhi-type compound with ucca; object of prapūjayet",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "first member of compound describing engagement in pleasure; qualifies ratāṃ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ratāṃ",
+     "gloss": "delighting",
+     "grounds": "second member of compound with kāma; object of prapūjayet",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidhavāñ",
+     "gloss": "widow",
+     "grounds": "sandhi form before ca; object of prapūjayet",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects preceding objects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual injunction; root pūj with pra",
+     "morph": "3.sg.act-optative (pra-√pūj)"
+    }
+   ],
+   "question": "Which specific women are prescribed as worthy recipients of ritual worship?",
+   "premises": [
+    "A high-breasted woman is named as an object of worship.",
+    "A woman delighting in desire is named as an object of worship.",
+    "A widow is also named as an object of worship."
+   ],
+   "inference": "The ritual injunction requires worship to be offered to these specified women.",
+   "uncertainties": [
+    "The ritual context and manner of prapūjayet are supplied by preceding verses.",
+    "The social or symbolic status of these categories within this tantra is not fully explicit in this verse alone."
+   ],
+   "plain_english": "One should worship a high-breasted woman, a woman delighting in desire, and a widow."
+  }
+ ]
+}

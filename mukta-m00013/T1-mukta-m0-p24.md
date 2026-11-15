@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[tenth-part](daśāṃśaṃ) [one-should-offer](juhuyāt) [at-end](ante) [with-sesame-seeds](tilaiḥ) [with-ghee](ājya) [+soaked](pariplutaiḥ)
+[tenth-part](daśāṃśaṃ) [one-should-offer](juhuyāt) [at-end](ante) [with-sesame-seeds](tilaiḥ) [with-ghee](ājya) [+](pariplutaiḥ)
 
 ## mukta-m0-p24-v577
-[ending-in-ṅe](ṅentā) [not-ultimate](anatyantakaḥ) [mantra](mantraṃ) [declared](proktaḥ) [eleven-syllabled](ekādaśa) [+syllabled](akṣaraḥ)
+[ending-in-ṅe](ṅentā) [without-end](anatyantako) [mantra](mantraṃ) [declared](proktaḥ) [eleven](ekādaśa) [+](akṣaraḥ)
 
 ## mukta-m0-p24-v578
-[seers](ṛṣi) [+etc.](ādi) [installation](nyāsaṃ) [one-should-perform](kuryāt)
+[of-seer](ṛṣi) [+](ādi) [+](nyāsaṃ) [one-should-perform](kuryāt)
 
 ## mukta-m0-p24-v579
 [in-secret](guhye) [maṃ](maṃ) [obeisance](namaḥ)
 
 ## mukta-m0-p24-v580
-[mantra](mantra) [+syllables](varṇān) [should-place](nyaset) [practitioner](mantrī) [with-speech-seed](vāgbhavena) [limb](aṅga) [+formation](kalpanā)
+[mantra](mantra) [+](varṇān) [should-place](nyaset) [practitioner](mantrī) [with-speech-seed](vāgbhavena) [limb](aṅga) [+](kalpanā)
 
 ## mukta-m0-p24-v581
-[thus](evaṃ) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](saṃpūjya) [conch](śaṅkha) [+installation](sthāpanaṃ) [one-should-perform](kuryāt)
+[thus](evaṃ) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](saṃpūjya) [conch](śaṅkha) [+](sthāpanaṃ) [one-should-perform](kuryāt)
 
 ## mukta-m0-p24-v582
-[then](tataḥ) [incense](dhūpa) [+etc.](ādi) [dismissal](visarjana) [+ending](antaṃ) [rite](karma) [one-should-complete](samāpayet)
+[then](tataḥ) [beginning-with-incense](dhūpa) [+](ādi) [ending-with-dismissal](visarjana) [+](antaṃ) [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p24-v583
-[with-nāga](nāga) [+campaka](campaka) [+flowers](puṣpaiḥ) [or](vā) [one-should-offer](juhuyāt) [practitioner](sādhaka) [+best](uttamaḥ)
+[with-nāga](nāga) [+](campaka) [+](puṣpaiḥ) [or](vā) [one-should-offer](juhuyāt) [best](sādhaka) [+](uttamaḥ)
 
 ## mukta-m0-p24-v584
-[speech](vāk) [+beginning-with](ādyaḥ) [mantra](manuḥ) [declared](ākhyātaḥ) [Rudra](rudra) [+number](saṃkhyā) [+syllabled](akṣaraḥ) [another](aparaḥ)
+[beginning-with-speech-seed](vāk) [+](ādyaḥ) [mantra](manuḥ) [declared](ākhyātaḥ) [rudra-number](rudra) [+](saṃkhyā) [+](akṣaraḥ) [another](aparaḥ)
 
 ## mukta-m0-p24-v585
-[thus](evaṃ) [in-heart](hṛdaya) [+etc.](ādiṣu)
+[thus](evaṃ) [in-heart](hṛdaya) [+](ādiṣu)
 
 ## mukta-m0-p24-v586
-[may-she-be](bhūyāt) [speech](vāk) [+presiding-deity](adhidevatā) [by-sages](muni) [+groups](gaṇaiḥ) [being-attended](āsevyamānā) [constantly](aniśam)
+[may-be](bhūyāt) [speech](vāk) [+](adhi) [+](devatā) [by-groups-of-sages](muni) [+](gaṇaiḥ) [being-attended](āsevyamānā) [constantly](aniśam)
 
 ## mukta-m0-p24-v587
-[Rudra](rudra) [+hundred-thousand](lakṣaṃ) [one-should-repeat](japet) [mantra](mantraṃ) [tenth-part](daśāṃśaṃ) [one-should-offer](juhuyāt) [with-ghee](ghṛtaiḥ)
+[rudra](rudra) [+](lakṣaṃ) [one-should-recite](japet) [mantra](mantraṃ) [tenth-part](daśāṃśaṃ) [one-should-offer](juhuyāt) [with-ghee](ghṛtaiḥ)
 
 ## mukta-m0-p24-v588
-[universal-essence](viśva) [+sāra](sāra) [by-statement](vacanāt) [speech-seed](vāgbhava) [+seed](bījam) [indeed](eva)
+[because-of-statement](vacanāt) [in-Viśvasāra](viśva) [+](sāra) [speech-seed](vāgbhava) [+](bījam) [indeed](eva)
 
 ## mukta-m0-p24-v589
-[limbs](aṅgāni) [should-form](kalpayet) [practitioner](mantrī) [with-twice-uttered](dviruktaiḥ) [with-class-suffixes](jāti) [+joined](saṃyutaiḥ)
+[limbs](aṅgāni) [should-assign](kalpayet) [practitioner](mantrī) [with-twice-uttered](dviruktaiḥ) [joined-with-class-suffixes](jāti) [+](saṃyutaiḥ)
 
 ## mukta-m0-p24-v590
-[thus](iti) [having-meditated](dhyātvā) [as-before](pūrvavat) [one-should-worship](pūjayet)
+[thus](iti) [having-meditated](dhyātvā) [as-before](pūrva) [+](vat) [one-should-worship](pūjayet)
 
 ## mukta-m0-p24-v591
-[with-milk-rice](pāyasaiḥ) [with-ghee](ājya) [+mixed](sammiśraiḥ) [in-consecrated](saṃskṛte) [fire](havyavāhane)
+[with-milk-rice](pāyasaiḥ) [mixed-with-ghee](ājya) [+](sammiśraiḥ) [in-consecrated](saṃskṛte) [fire](havya) [+](vāhane)
 
 ## mukta-m0-p24-v592
-[Sarasvatī](sarasvatī) [ending-in-ṅe](ṅentāḥ) [obeisance](natiḥ) [and](ca)
+[sarasvatī](sarasvatī) [ending-in-ṅe](ṅentāḥ) [obeisance](natiḥ) [and](ca)
 
 ## mukta-m0-p24-v593
 [to-Sarasvatī](sarasvatyai) [obeisance](namaḥ)
 
 ## mukta-m0-p24-v594
-[one-should-perform](kuryāt) [other](anyat) [all](sarvaṃ) [as-before](pūrvavat)
+[one-should-do](kuryāt) [other](anyat) [all](sarvaṃ) [as-before](pūrva) [+](vat)
 
 ## mukta-m0-p24-v595
-[six](ṣaḍ) [long](dīrgha) [vowel](svara) [+differentiated](sabhinna) [by-seed](bījena) [limb](aṅga) [+action](kriyā) [considered](matā)
+[by-seed](bījena) [differentiated-by-six-long-vowels](ṣaṭ) [+](dīrgha) [+](svara) [+](sabhinna) [limb](aṅga) [+](kriyā) [considered](matā)
 
 ## mukta-m0-p24-v596
-[for-your](bhavat) [desired](abhimata) [+attainment](prāptaye) [Bhāratī](bhāratī) [may-she-be](syāt)
+[for-attainment](prāptaye) [of-your-desired-object](bhavat) [+](abhimata) [Bhāratī](bhāratī) [may-be](syāt)
 
 ## mukta-m0-p24-v597
-[thus](iti) [Sarasvatī](sarasvatī) [+mantras](mantrāḥ)
+[thus](iti) [Sarasvatī](sarasvatī) [+](mantrāḥ)
 
 ## mukta-m0-p24-v598
 [which](yān) [having-known](jñātvā) [humans](mānavāḥ) [always](nityaṃ) [accomplish](sādhayanti) [desires](manorathān)
 
 ## mukta-m0-p24-v599
-[fifth](pañca) [+ending](antakaṃ) [letter-ga](gakāraḥ)
+[fifth-consonant-of-fifth-group](pañca) [+](antakaṃ) [letter-ga](ga) [+](kāraḥ)
 
 ## mukta-m0-p24-v600
-[seat](pīṭha) [+mantra](mantraḥ) [this](ayam) [by-this](etena) [one-should-offer](pradadyāt) [seat](āsanaṃ) [O-lord](vibhoḥ)
+[seat](pīṭha) [+](mantraḥ) [this](ayam) [by-this](etena) [one-should-offer](pradadyāt) [seat](āsanaṃ) [O-lord](vibhoḥ)

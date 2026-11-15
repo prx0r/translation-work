@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "tṛtīye",
+     "gloss": "in-third",
+     "grounds": "locative of ordinal indicating the third stage",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "romaharṣañ",
+     "gloss": "horripilation",
+     "grounds": "bodily sign arising at the third stage; final nasal shows sandhi before following ca",
+     "morph": "acc.sg.m."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the signs of the third and fourth stages",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthe",
+     "gloss": "in-fourth",
+     "grounds": "locative of ordinal indicating the fourth stage",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "aśru",
+     "gloss": "tear",
+     "grounds": "first member of compound denoting tears",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prapātanam",
+     "gloss": "falling",
+     "grounds": "action noun denoting the falling of tears at the fourth stage",
+     "morph": "nom.sg.n."
+    }
+   ],
+   "question": "What bodily signs manifest at the third and fourth stages of absorption?",
+   "premises": [
+    "The third stage is associated with a specific bodily sign.",
+    "Horripilation arises in the third stage.",
+    "The falling of tears arises in the fourth stage."
+   ],
+   "inference": "Distinct somatic signs mark progression through the third and fourth stages.",
+   "uncertainties": [],
+   "plain_english": "In the third stage there is horripilation, and in the fourth stage there is the falling of tears."
+  }
+ ]
+}

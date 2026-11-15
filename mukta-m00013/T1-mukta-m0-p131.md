@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p131-v3251
-one-faced(ekavaktraḥ) śiva(śivaḥ) directly(sākṣāt) brahmin-murder(brahmahatyāṃ) removes(vyapohati)
+one-faced [ekavaktraḥ] Śiva [śivaḥ] directly [sākṣāt] Brahmin-murder [brahmahatyāṃ] removes [vyapohati]
 
 ## mukta-m0-p131-v3252
-three-faced(trivaktro) fire(dahanaḥ) directly(sākṣāt) brahmin-murder(brahmahatyāṃ) removes(vyapohati)
+three-faced [trivaktro] fire [dahanaḥ] directly [sākṣāt] Brahmin-murder [brahmahatyāṃ] removes [vyapohati]
 
 ## mukta-m0-p131-v3253
-is-released(mucyate) from-all-sins(sarva+pāpebhyaḥ) of-five-faced(pañcavaktrasya) by-wearing(dhāraṇāt)
+is-released [mucyate] from-all-sins [sarvapāpebhyaḥ] of-five-faced [pañcavaktrasya] by-wearing [dhāraṇāt]
 
 ## mukta-m0-p131-v3254
-by-brahmin-murder-etc.(brahmāhatyā+ādibhiḥ) by-sins(pāpaiḥ) is-released(mucyate) not(nātra) doubt(saṃśayaḥ)
+by-Brahmin-murder-and-other [brahmāhatyādibhiḥ] by-sins [pāpair] is-released [mucyate] not [na] here [atra] doubt [saṃśayaḥ]
 
 ## mukta-m0-p131-v3255
-by-guru's-bed-etc.(gurutalpa+ādibhiḥ) by-sins(pāpaiḥ) is-released(mucyate) not(nātra) doubt(saṃśayaḥ)
+by-violating-guru's-bed-and-other [gurutalpādibhiḥ] by-sins [pāpair] is-released [mucyate] not [na] here [atra] doubt [saṃśayaḥ]
 
 ## mukta-m0-p131-v3256
-with-back-belly-hand(pṛṣṭha+udara+kareṇa) even(api) may-touch(saṃspṛśet) or(vā) of-guru(guroḥ) wife(striyam)
+with-back-belly-hand [pṛṣṭhodarakareṇāpi] may-touch [saṃspṛśed] or [vā] of-guru [guroḥ] wife [striyam]
 
 ## mukta-m0-p131-v3257
-obstacles(vighnāḥ) indeed(tu) of-him(tasya) perish(naśyanti) liberated(mukto) goes(yāti) to-supreme(parāṃ) state(gatim)
+obstacles [vighnāḥ] indeed [tu] of-him [tasya] perish [naśyanti] liberated [mukto] goes [yāti] to-supreme [parāṃ] state [gatim]
 
 ## mukta-m0-p131-v3258
-nine-faced(navavaktro) bhairava(bhairavaḥ) may-be(syāt) one-should-wear(dhārayed) or(vā) on-left(vāmake) arm(bhuje)
+nine-faced [navavaktro] Bhairava [bhairavaḥ] may-be [syād] should-wear [dhārayed] or [vā] on-left [vāmake] arm [bhuje]
 
 ## mukta-m0-p131-v3259
-that(tat) all(sarvaṃ) burns(dahate) quickly(śīghraṃ) of-nine-faced(navavaktrasya) by-wearing(dhāraṇāt)
+that-all [tatsarvaṃ] burns [dahate] quickly [śīghraṃ] of-nine-faced [navavaktrasya] by-wearing [dhāraṇāt]
 
 ## mukta-m0-p131-v3260
-serpents(pannagāḥ) and(ca) perish(vinaśyanti) of-ten-faced(daśavaktrasya) by-wearing(dhāraṇāt)
+serpents [pannagāḥ] and [ca] perish [vinaśyanti] of-ten-faced [daśavaktrasya] by-wearing [dhāraṇāt]
 
 ## mukta-m0-p131-v3261
-that(tat) fruit(phalaṃ) equally(sama) obtains(avāpnoti) of-eleven-faced(vaktra+ekādaśa) by-wearing(dhāraṇāt)
+that-fruit [tatphalaṃ] equally [samavāpnoti] of-eleven-faced [vaktraikādaśadhāraṇāt] by-wearing [vaktraikādaśadhāraṇāt]
 
 ## mukta-m0-p131-v3262
-sun(ādityaḥ) is-pleased(tuṣyate) always(nityaṃ) twelve-suns(dvādaśa+arkāḥ) are-established(vyavasthitāḥ)
+Āditya [ādityas] is-pleased [tuṣyate] always [nityaṃ] twelve-suns [dvādaśarkā] are-established [vyavasthitāḥ]
 
 ## mukta-m0-p131-v3263
-fourteen-faced(caturdaśa+āsyaḥ) lineage-uplift-maker(vaṃśa+uddhāra+karaḥ) supreme(paraḥ)
+fourteen-faced [caturdaśāsyaḥ] lineage-uplift-maker [vaṃśoddhārakaraḥ] supreme [paraḥ]
 
 ## mukta-m0-p131-v3264
-[oṃ](oṃ) [ḍaṃ](ḍaṃ) [māṃ](māṃ) [14](14)
+[oṃ] [ḍaṃ] [māṃ] | [14]
 
 ## mukta-m0-p131-v3265
-expiation(prāyaścittam) indeed(tu) tantra-prescribed(tantra+uktam) ten-thousand(ayutaṃ) by-mantra-recitation(mantra+jāpataḥ)
+expiation [prāyaścittan] indeed [tu] tantra-prescribed [tantroktam] ten-thousand [ayutaṃ] by-mantra-recitation [mantrajāpataḥ]
 
 ## mukta-m0-p131-v3266
-in-worship-procedure(upacāra+vidhau) this(etat) material(dravyam) they-say(āhuḥ) the-wise(manīṣiṇaḥ)
+in-worship-procedure [upacāravidhāv] this [etat] material [dravyam] declare [āhur] the-wise [manīṣiṇaḥ]
 
 ## mukta-m0-p131-v3267
-with-curd(daghnā) together(saha) one-pala(pala+ekam) indeed(tu) pure(śuddhaṃ) water(vāri) likewise(tathā) in-vessel(came)
+with-curd [daghnā] together [saha] one-pala [palaikan] indeed [tu] pure [śuddhaṃ] water [vāri] likewise [tathā] in-vessel [came]
 
 ## mukta-m0-p131-v3268
-with-pure-water(nirmalena+udakena) then(atha) everywhere(sarvatra) complete-filling(paripūrṇatā)
+with-pure-water [nirmalenodakenātha] everywhere [sarvatra] complete-filling [paripūrṇatā]
 
 ## mukta-m0-p131-v3269
-more-than-span-measure(vitasti+mātrāt+adhikaṃ) pair-of-garments(vāsaḥ+yugmam) and(ca) new(nūtanam)
+more-than-span-measure [vitastimātrādadhikaṃ] pair-of-garments [vāsoyugmañ] and [ca] new [nūtanam]
 
 ## mukta-m0-p131-v3270
-sandal-agarwood-camphor-paste-fragrance(candana+aguru+karpūra+paṅka+gandhaḥ) up-to-a-pala(pala+avadhiḥ)
+sandal-aloewood-camphor-paste-fragrance [candanāgurukarpūrapaṅkagandhaḥ] up-to-one-pala [palāvadhiḥ]
 
 ## mukta-m0-p131-v3271
-in-brass-etc.-made(kāṃsya+ādi+nirmite) vessel(pātre) incense(dhūpaḥ) guggulu-one-karṣa-part(guggulu+karṣa+bhāk)
+in-bell-metal-etc-made [kāṃsyādinirmite] vessel [pātre] incense [dhūpo] guggulu-karṣa-portion [guggulukarṣabhāk]
 
 ## mukta-m0-p131-v3272
-food-offering(naivedyaṃ) various(vividhaṃ) substance(vastu) eatables-etc.-fourfold(bhakṣya+ādi+caturvidham)
+food-offering [naivedyaṃ] various [vividhaṃ] substance [vastu] eatables-etc-fourfold [bhakṣyādikacaturvidham]
 
 ## mukta-m0-p131-v3273
-to-be-done(kāryaṃ) in-copper-etc.-vessel(tāmra+ādi+pātre) that(tat) for-pleasure(prītaye) of-vanamālin(vanamālinaḥ)
+to-be-done [kāryaṃ] in-copper-etc-vessel [tāmrādipātre] that [tat] for-pleasure [prītaye] of-Vanamālin [vanamālinaḥ]
 
 ## mukta-m0-p131-v3274
-supreme(uttamaḥ) this(ayam) procedure(vidhiḥ) declared(proktaḥ) when-wealth(vibhave) exists(sati) always(sarvadā)
+best [uttamaḥ] this [ayaṃ] procedure [vidhiḥ] declared [prokto] when-wealth [vibhave] exists [sati] always [sarvadā]
 
 ## mukta-m0-p131-v3275
-alternative(anukalpam) one-should-not-abandon(varjayet) and(ca) of-materials(dravyāṇāṃ) when-wealth(vibhave) exists(sati)
+alternative [anukalpaṃ] should-avoid [varjayec] and [ca] of-materials [dravyāṇāṃ] when-wealth [vibhave] exists [sati]

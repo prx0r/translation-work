@@ -3,19 +3,29 @@
  "verse": 1492,
  "rows": [
   {
-   "lemma": "citrāṃbaradharaṃdevaṃ",
-   "morph": "adj.acc.sg.m",
-   "grounds": "fused compound accusative"
+   "lemma": "dhyānapūjādikaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "compound: dhyāna+coord, pūjā+coord, ādika+head; accusative object"
   },
   {
-   "lemma": "dhyāyet",
-   "morph": "3.sg.act.opt. (dhyā)",
-   "grounds": "optative verb"
+   "lemma": "sarvaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "adjective qualifying dhyānapūjādikaṃ"
   },
   {
-   "lemma": "īśvarasaṃjñakam",
-   "morph": "adj.acc.sg.m",
-   "grounds": "compound accusative"
+   "lemma": "pūrvavat",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable comparative adverb"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction linking to prior instruction"
+  },
+  {
+   "lemma": "samācaret",
+   "morph": "3.sg.act.opt √car+sam+ā",
+   "grounds": "optative injunction for ritual performance"
   }
  ]
 }

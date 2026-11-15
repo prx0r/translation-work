@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1497,
- "question": "What color and form characterize each named year in this sequence?",
+ "question": "What mantra form results if the phaṭ syllable is added at its end?",
  "premises": [
-  "the color is gold",
-  "the noun is color"
+  "A condition concerns adding an element at the end",
+  "The added element is the phaṭ syllable",
+  "A resulting syllable count is specified"
  ],
- "inference": "the year's color is gold",
+ "inference": "If the phaṭ syllable is placed at its end, the mantra becomes five-syllabled",
  "uncertainties": [
-  "year reference is implicit"
+  "The antecedent of tadante depends on the preceding mantra context"
  ],
- "plain_english": "The color is gold."
+ "plain_english": "If the phaṭ syllable is added at its end, the mantra becomes five-syllabled."
 }

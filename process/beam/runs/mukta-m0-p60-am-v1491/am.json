@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1491,
- "question": "What color and form characterize each named year in this sequence?",
+ "question": "What oblation quantity and materials must the mantra practitioner offer in fire?",
  "premises": [
-  "the color is lotus",
-  "the noun is color"
+  "The mantra practitioner is the agent of oblation",
+  "A tenth part is specified as the measure",
+  "Red flowers smeared with ghee are the offering materials"
  ],
- "inference": "the year's color is lotus-colored",
+ "inference": "The mantra practitioner should offer a tenth part using red flowers smeared with ghee",
  "uncertainties": [
-  "padma is color term"
+  "The base quantity of which a tenth is offered is implied from prior context"
  ],
- "plain_english": "The color is lotus."
+ "plain_english": "The mantra practitioner should offer a tenth part as oblation with red flowers smeared with ghee."
 }

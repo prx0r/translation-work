@@ -5,10 +5,10 @@
 [in-desired-rite](iṣṭau) [in-varuṇa-sacrifice](varuṇa+yāge) [and](ca) [in-thorn](kaṇṭake) [in-enemy-crushing](vairi+mardane)
 
 ## mukta-m0-p161-v4002
-[in-binding](bandhane) [in-action-sacrifice](karma+yāge) [and](ca) [in-jewel-sacrifice](maṇi+yāge) [for-the-auspicious-one](subhadrake)
+[in-binding](bandhane) [in-action-sacrifice](karma+yāge) [and](ca) [in-jewel-sacrifice](maṇi+yāge) [for-auspicious-one](subhadrake)
 
 ## mukta-m0-p161-v4003
-[without-obstacle](nirvighne) [and](ca) [that-action](tat+karma) [with-all-parts](sāṅgam) [becomes](bhavati) [certain](niścitam)
+[in-obstacle-free](nirvighne) [and](ca) [that-action](tat+karma) [with-all-parts](sāṅgam) [becomes](bhavati) [certain](niścitam)
 
 ## mukta-m0-p161-v4004
 [obeisance-to-you](namas+te) [o-lover-of-revatī](revatī+kānta) [obeisance-to-you](namas+te) [o-kind-to-devotees](bhakta+vatsala)
@@ -17,7 +17,7 @@
 [o-enemy-of-pralamba](pralamba+are) [obeisance-to-you](namas+te) [be](astu) [protect](trāhi) [me](mām) [o-elder-brother-of-kṛṣṇa](kṛṣṇa+pūrvaja)
 
 ## mukta-m0-p161-v4006
-[who](yaḥ) [may-recite](paṭhet) [pure](aprayato) [with-devotion](bhaktyā) [of-all-accomplishments](sarva+siddheḥ) [he](sa) [recipient](bhājanam)
+[who](yaḥ) [may-recite](paṭhet) [with-discipline](aprayataḥ) [with-devotion](bhaktyā) [of-all-accomplishments](sarva+siddheḥ) [he](saḥ) [recipient](bhājanam)
 
 ## mukta-m0-p161-v4007
 [accomplished](siddhā) [accomplished](siddhā) [accomplished](siddhā) [accomplished](siddhā)
@@ -38,16 +38,16 @@
 [chief](mukhyā) [principal](mukhyā) [foremost](mukhyā) [supreme](mukhyā)
 
 ## mukta-m0-p161-v4013
-[you-meditate](dhyāyase) [o-mother](amba) [you-contemplate](dhyāyase) [o-mother](amba)
+[you-meditate](dhyāyase) [o-mother](amba) [you-meditate](dhyāyase) [o-mother](amba)
 
 ## mukta-m0-p161-v4014
-[I-accomplish](sādhayāmi) [I-achieve](sādhayāmi) [I-perfect](sādhayāmi) [I-fulfill](sādhayāmi)
+[I-accomplish](sādhayāmi) [I-accomplish](sādhayāmi) [I-accomplish](sādhayāmi) [I-accomplish](sādhayāmi)
 
 ## mukta-m0-p161-v4015
-[messengers](dūtāḥ) [envoys](dūtāḥ) [heralds](dūtāḥ) [agents](dūtāḥ)
+[messengers](dūtāḥ) [messengers](dūtāḥ) [messengers](dūtāḥ) [messengers](dūtāḥ)
 
 ## mukta-m0-p161-v4016
-[in-the-mind](matyām) [in-thought](matyām) [in-intellect](matyām) [in-understanding](matyām)
+[in-the-mind](matyām) [in-the-intellect](matyām) [in-the-thought](matyām) [in-the-understanding](matyām)
 
 ## mukta-m0-p161-v4017
 [of-this](etasya) [by-constant-practice](satata+abhyāsāt) [accomplishment](siddhiḥ) [on-the-palm](kara+tale) [situated](sthitā)
@@ -56,19 +56,19 @@
 [to-be-recited](paṭhanīyam) [with-effort](prayatnena) [in-occasional](naimittika) [worship](samarhaṇe)
 
 ## mukta-m0-p161-v4019
-[she](sā) [kālī](kālī) [by-counting-on-hand](karavāla+kāla+kalanā) [splendor-of-the-hand](hastva+śriyam) [caṇḍikā](caṇḍikā)
+[she](sā) [kālī](kālī) [by-counting-time-in-her-hand](karavāla+kāla+kalanā) [splendor-of-the-hand](hastva+śriyam) [caṇḍikā](caṇḍikā)
 
 ## mukta-m0-p161-v4020
-[of-devotees](bhaktānām) [fear-giver](abhaya+pradā) [victory-giver](vijaya+dā) [seated-on-the-siddha-seat-of-the-lord-of-the-universe](viśveśa+siddha+āsanā)
+[to-devotees](bhaktānām) [fear-giver](abhaya+pradā) [victory-giver](vijaya+dā) [seated-on-the-lord-of-the-universe's-siddha-seat](viśveśa+siddha+āsanā)
 
 ## mukta-m0-p161-v4021
-[may-purify](punātu) [may-sanctify](punātu) [may-cleanse](punātu) [may-make-pure](punātu)
+[may-purify](punātu) [may-purify](punātu) [may-purify](punātu) [may-purify](punātu)
 
 ## mukta-m0-p161-v4022
 [of-yakṣiṇī-leaders](yakṣiṇī+nāyikānām) [but](tu) [briefly](saṃkṣepāt) [accomplishment-giving](siddhi+dāyakam)
 
 ## mukta-m0-p161-v4023
-[the-yakṣiṇī](yakṣiṇī) [herself](svayam) [comes](āyāti) [by-mere-knowledge-of-the-armor](kavaca+jñāna+mātrataḥ)
+[the-yakṣiṇī](yakṣiṇī) [herself](svayam) [comes](āyāti) [from-mere-knowledge-of-the-armor](kavaca+jñāna+mātrataḥ)
 
 ## mukta-m0-p161-v4024
 [by-recitation](paṭhanāt) [by-retention](dhāraṇāt) [a-mortal](martyaḥ) [the-yakṣiṇī](yakṣiṇī) [may-bring-under-control](vaśam+ānayet)

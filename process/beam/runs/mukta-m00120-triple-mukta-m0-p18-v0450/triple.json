@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "mudrānukalpaṃ",
+     "gloss": "mudra-substitute",
+     "grounds": "compound denoting a substitute or alternative for mudrā",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "parame",
+     "gloss": "o-supreme-one",
+     "grounds": "vocative address to the supreme goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vibhāvasya",
+     "gloss": "of-vibhava",
+     "grounds": "proper name indicating the cited authority",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mataṃ",
+     "gloss": "held-opinion",
+     "grounds": "past passive participle expressing an accepted view",
+     "morph": "n.nom.sg (ppp, √man)"
+    },
+    {
+     "surface": "paśoḥ",
+     "gloss": "for-bound-practitioner",
+     "grounds": "paśu denotes the bound practitioner grade in the ritual hierarchy",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What substitute for ritual mudrā is deemed acceptable for the paśu practitioner?",
+   "premises": [
+    "The verse addresses the supreme goddess directly.",
+    "Vibhāva holds a specific authoritative opinion.",
+    "The paśu practitioner requires a substitute for mudrā."
+   ],
+   "inference": "According to Vibhāva, a substitute for mudrā is prescribed for the paśu.",
+   "uncertainties": [
+    "The specific substance or form of the mudrā substitute is not stated in this verse."
+   ],
+   "plain_english": "O Supreme One, according to Vibhāva, a substitute for mudrā is prescribed for the paśu practitioner."
+  }
+ ]
+}

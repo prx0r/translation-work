@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive demonstrative referring to the attainment described in the preceding verses",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "bhāvaṃ",
+     "gloss": "nature",
+     "grounds": "object of inquiry concerning the character of that attainment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "object of inquiry concerning the result of that attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kiñca",
+     "gloss": "and-what",
+     "grounds": "interrogative particle introducing a further inquiry",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadhāpyekadhā",
+     "gloss": "fivefold-and-also-onefold",
+     "grounds": "fused form pañcadhā+api+ekadhā indicating alternative modes, kept as one token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective linking the modes of manifestation to the inquiry",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun completing the question",
+     "morph": "pron.nom.sg.n"
+    }
+   ],
+   "question": "What nature, fruit, and modes of manifestation characterize the attainment just described?",
+   "premises": [
+    "The preceding verses describe an attainment leading to supreme parity.",
+    "An attainment can be characterized by its nature and its fruit.",
+    "An attainment may manifest in multiple modes, such as fivefold or onefold."
+   ],
+   "inference": "The inquiry seeks to determine the nature, fruit, and modal configuration of that attainment.",
+   "uncertainties": [
+    "The exact referent of asya depends on the broader context of the preceding verses."
+   ],
+   "plain_english": "And what is its nature and what is its fruit, and in what way is it fivefold and also onefold?"
+  }
+ ]
+}
