@@ -16,7 +16,7 @@
 },
 {
 "surface": "anuktaṃ",
-"quick_gloss": "unspoken"
+"quick_gloss": "unstated"
 },
 {
 "surface": "hṛdayena",
@@ -49,7 +49,7 @@
 },
 {
 "surface": "rudra+japtaḥ",
-"quick_gloss": "rudra-chanted"
+"quick_gloss": "chanted-with-rudra"
 },
 {
 "surface": "su+pūjitaḥ",
@@ -107,7 +107,7 @@
 },
 {
 "surface": "sahitaḥ",
-"quick_gloss": "accompanied-by"
+"quick_gloss": "accompanied"
 },
 {
 "surface": "kuśa+saṃstare",
@@ -131,12 +131,12 @@
 "quick_gloss": "having-performed-bath"
 },
 {
-"surface": "kuryāt",
+"surface": "karyā",
 "quick_gloss": "should-do"
 },
 {
 "surface": "patnī+anvitaḥ",
-"quick_gloss": "with-wife"
+"quick_gloss": "accompanied-by-wife"
 },
 {
 "surface": "vratī",
@@ -153,7 +153,7 @@
 "tokens": [
 {
 "surface": "kṛta+maṅgala+nirghoṣaiḥ",
-"quick_gloss": "with-auspicious-sounds-made"
+"quick_gloss": "with-performed-auspicious-sounds"
 },
 {
 "surface": "deva+snāna+ādikaṃ",
@@ -181,7 +181,7 @@
 "quick_gloss": "in-form-of-teacher"
 },
 {
-"surface": "mantra+śaktyā",
+"surface": "mantra+śattyā",
 "quick_gloss": "by-power-of-mantra"
 },
 {
@@ -199,7 +199,7 @@
 "tokens": [
 {
 "surface": "anugrahāya",
-"quick_gloss": "for-blessing"
+"quick_gloss": "for-grace"
 },
 {
 "surface": "lokānāṃ",
@@ -228,15 +228,15 @@
 "tokens": [
 {
 "surface": "tat+ayutaiḥ",
-"quick_gloss": "with-ten-thousands-of-that"
+"quick_gloss": "with-ten-thousand-of-that"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "putra+āhvaḥ",
-"quick_gloss": "called-putra"
+"surface": "putra+āhva",
+"quick_gloss": "called-son"
 },
 {
 "surface": "taiḥ+tāvadbhiḥ",
@@ -265,7 +265,7 @@
 },
 {
 "surface": "tāt",
-"quick_gloss": "dear-one"
+"quick_gloss": "father"
 }
 ]
 },
@@ -293,8 +293,8 @@
 "quick_gloss": "on-liṅga"
 },
 {
-"surface": "arghya+puṣpa+ākṣi+dhūpanaiḥ",
-"quick_gloss": "with-arghya-flowers-and-incense"
+"surface": "arghya+pūṣpa+āki+dhūpanaiḥ",
+"quick_gloss": "with-arghya-flower-etc.-and-incense"
 }
 ]
 },
@@ -401,12 +401,16 @@
 "quick_gloss": "with-secret-mantra"
 },
 {
-"surface": "rudraiḥ+vā",
-"quick_gloss": "or-with-rudra-mantras"
+"surface": "rudraiḥ",
+"quick_gloss": "with-rudra-mantras"
+},
+{
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
 "surface": "hṛdayena",
-"quick_gloss": "or-with-heart-mantra"
+"quick_gloss": "with-heart-mantra"
 },
 {
 "surface": "vā",
@@ -459,12 +463,12 @@
 "quick_gloss": "with-gold-water"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "go+śṛṅga+salilena",
 "quick_gloss": "with-cow-horn-water"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 }
 ]
 },
@@ -501,15 +505,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svaiḥ+svaiḥ+mantraiḥ",
-"quick_gloss": "with-their-own-respective-mantras"
+"surface": "svaiḥ",
+"quick_gloss": "with-their-own"
+},
+{
+"surface": "svaiḥ",
+"quick_gloss": "with-their-own"
+},
+{
+"surface": "mantraiḥ",
+"quick_gloss": "mantras"
 },
 {
 "surface": "hara+ādīnāṃ",
-"quick_gloss": "of-hara-and-others"
+"quick_gloss": "of-hara-etc."
 },
 {
-"surface": "miśrāṇām",
+"surface": "miśrāṇam",
 "quick_gloss": "of-mixed-ones"
 },
 {
@@ -538,12 +550,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "dhātryā",
-"quick_gloss": "with-dhātrī"
+"surface": "dhāgryā",
+"quick_gloss": "with-respectful"
 },
 {
 "surface": "tīrtha+dhunī+jalaiḥ",
-"quick_gloss": "with-sacred-river-waters"
+"quick_gloss": "sacred-river-waters"
 }
 ]
 },
@@ -617,12 +629,12 @@
 "quick_gloss": "ghee"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "goḥ",
 "quick_gloss": "of-cow"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "aghoreṇa",
@@ -680,7 +692,7 @@
 },
 {
 "surface": "ekattvam+āloḍya",
-"quick_gloss": "having-mixed-to-oneness"
+"quick_gloss": "having-mixed-into-oneness"
 },
 {
 "surface": "pañcabhiḥ",
