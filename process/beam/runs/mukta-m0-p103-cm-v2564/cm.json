@@ -3,34 +3,39 @@
  "verse": 2564,
  "rows": [
   {
-   "lemma": "caturaśraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "token as given"
+   "lemma": "tvaṃ",
+   "morph": "pron.nom.sg",
+   "grounds": "direct address to the goddess"
   },
   {
-   "lemma": "vṛtta+padmaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "fused token retained"
+   "lemma": "jagat",
+   "morph": "n.stem (compound: jagat-jananī)",
+   "grounds": "first member of compound describing the goddess as mother"
   },
   {
-   "lemma": "bhāga+ākṛtim",
-   "morph": "f.acc.sg",
-   "grounds": "fused token retained"
+   "lemma": "jananī",
+   "morph": "f.nom.sg (compound: jagat-jananī)",
+   "grounds": "identifies the goddess as source of the world"
   },
   {
-   "lemma": "atha",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "lemma": "durgā",
+   "morph": "f.nom.sg",
+   "grounds": "name of the goddess addressed"
   },
   {
-   "lemma": "api",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "lemma": "janma",
+   "morph": "n.stem (compound: janma-saṃsāra-mocanī)",
+   "grounds": "first member of compound naming the cycle of rebirth"
   },
   {
-   "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "lemma": "saṃsāra",
+   "morph": "m.stem (compound: janma-saṃsāra-mocanī)",
+   "grounds": "middle member of compound naming the cycle of rebirth"
+  },
+  {
+   "lemma": "mocanī",
+   "morph": "f.nom.sg (compound: janma-saṃsāra-mocanī)",
+   "grounds": "identifies the goddess as one who frees from rebirth"
   }
  ]
 }

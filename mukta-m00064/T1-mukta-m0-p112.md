@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[bowed-down](praṇata) [god+and+human](sura+narebhyaḥ) [horse+faced](vāji+vaktraḥ) [mura+enemy](murāriḥ)
+bowed-to(bowed-to)+gods-and-men(praṇatasuranarebhyo) horse-faced(vājivaktro) murāri(murāriḥ)
 
 ## mukta-m0-p112-v2777
-[jewel+peak](maṇi+kūṭa) [made+abode](kṛta+āvāsa) [lotus+eyed](kamala+akṣa) [obeisance](namaḥ) [be](astu) [to-you](te)
+jewel-mound-made-abode(maṇikūṭakṛtāvāsa) lotus-eyed(kamalākṣa) homage(be)+may-it-be(namo'stu) to-you(te)
 
 ## mukta-m0-p112-v2778
-[at-that+moment](tat+kṣaṇāt)
+at-that-moment(tatkṣaṇāt)
 
 ## mukta-m0-p112-v2779
-[circumambulation+three](pradakṣiṇa+trayaṃ) [one-should-do](kuryāt) [lotus+shaped](padma+ākāraṃ) [one-should-bow](namet) [then](tataḥ)
+circumambulation-three(pradakṣiṇatrayaṃ) should-do(kuryāt) lotus-shaped(padmākāraṃ) should-bow(namettataḥ)
 
 ## mukta-m0-p112-v2780
-[having-made](kṛtvā) [joined-palms](añjaliḥ) [then](tataḥ) [with-devotion](bhaktyā) [having-whirled](bhramayitvā) [one-should-bow](namet) [then](tataḥ)
+having-made(kṛtvā)+añjali(añjaliḥ) then(tataḥ) with-devotion(bhaktyā) having-caused-to-turn(bhramayitvā) should-bow(namettataḥ)
 
 ## mukta-m0-p112-v2781
-[who](yaḥ) [not](naḥ) [having-whirled](bhramayitvā) [and](ca) [offense](aparādhaḥ) [may-be](bhavet) [then](tadā)
+who(yaḥ) us(no) not-bows(named)+having-caused-to-turn(bhramayitvā) and(ca) offense(aparādho) may-be(bhavettadā)
 
 ## mukta-m0-p112-v2782
-[delusion+darkness](moha+andhakāra) [in-hell](narake) [is-cooked](pacyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
+delusion-darkness(narake) hell(mohāndhakāra) is-cooked(pacyate) not-here(nātra) doubt(saṃśayaḥ)
 
 ## mukta-m0-p112-v2783
-[curse](śapanti) [deities](devatāḥ) [of-him](tasya) [fruitless](viphalaṃ) [is-declared](parikīrtitam)
+they-curse(śapanti) gods(devatāḥ)+his(tasya) fruitless(viphalaṃ) is-proclaimed(parikīrtitam)
 
 ## mukta-m0-p112-v2784
-[in-body](śarīre) [or](vā) [o-great-goddess](mahā+īśāni) [of-him](tasya) [merit+fruit](puṇya+phalaṃ) [hear](śṛṇu)
+in-body(śarīre) or(vā) o-great-goddess(maheśāni) his(tasya) merit-fruit(puṇyaphalaṃ) hear(śṛṇu)
 
 ## mukta-m0-p112-v2785
-[for-so-many](tāvat) [year+thousands](varṇa+sahasrāṇi) [in-brahma+world](brahma+loke) [is-honored](mahīyate)
+so-many(tāvat)+varna-thousands(varṇasahasrāṇi) in-brahma-world(brahmaloke) is-honored(mahīyate)
 
 ## mukta-m0-p112-v2786
-[at-maṇikūṭa](maṇikūṭe) [by-you](tvayā) [this](ayaṃ) [viṣṇu](viṣṇuḥ) [established](sthāpitaḥ) [by-whom](kena) [indeed](vai) [formerly](purā)
+on-jewel-mound(maṇikūṭe) this-one(tvayaṃ) viṣṇuḥ(viṣṇuḥ) was-established(sthāpitaḥ) by-whom(kena) indeed(vai) formerly(purā)
 
 ## mukta-m0-p112-v2787
-[I-tell](kathayāmi) [ancient+account](purā+vṛttaṃ) [of-the-image](pratimāyāḥ) [and](ca) [origin](sambhavam)
+I-will-tell(kathayāmi) ancient-incident(purāvṛttaṃ) of-the-image(pratimāyāḥ)+and(ca) origin(sambhavam)
 
 ## mukta-m0-p112-v2788
-[cinmaya+distressed](cinmaya+ārtaḥ) [king](mahī+pālaḥ) [for-image](pratimā+artham) [day+and+night](ahar+niśam)
+mind-distressed(cinmayārtaḥ) king(mahīpālaḥ) for-an-image(pratimārtham)+day-and-night(aharniśam)
 
 ## mukta-m0-p112-v2789
-[creation+maintenance+end](sarga+sthiti+anta) [maker](kartāraṃ) [I-see](paśyāmi) [supreme+person](puruṣa+uttamam)
+creation-maintenance-destruction-doer(sargasthityantakartāram) I-see(paśyāmi) best-of-men(puruṣottamam)
 
 ## mukta-m0-p112-v2790
-[not](na) [enjoys](bhuṅkte) [various](vividhān) [pleasures](bhogān) [not](na) [bathing](snānaṃ) [not](na) [adornment](prasādhanam)
+not(na) enjoys(bhuṅkte) various(vividhān) pleasures(bhogān) not(na) bathing(snānam) not(na) adornment(prasādhanam)
 
 ## mukta-m0-p112-v2791
-[of-viṣṇu](viṣṇoḥ) [image+suitable](pratimā+yogyaḥ) [who](yaḥ) [all+marks](sarva+lakṣaṇa) [marked](lakṣitaḥ)
+of-viṣṇu(viṣṇoḥ) for-an-image(pratimā)+fit(yogyaḥ) who(yaḥ) all-marks-marked(sarvalakṣaṇalakṣitaḥ)
 
 ## mukta-m0-p112-v2792
-[that](tat) [by-whom](kena) [or](vā) [shall-I-do](kariṣyāmi) [let-command](cājñāpayatu) [to-me](me) [lord](prabhuḥ)
+that(tat) by-whom(kena) or(vā) I-will-do(kariṣyāmi) order(cājñāpayatu) to-me(me) lord(prabhuḥ)
 
 ## mukta-m0-p112-v2793
-[hari+meditation](hari+dhyāna) [intent-on](paraḥ) [having-become](bhūtvā) [slept-well](su+svāpa) [restrained+senses](niyata+indriyaḥ)
+on-hari-meditation(haridhyāna)+intent(paraḥ) having-become(bhūtvā) well-slept(susvāpa) controlled-senses(niyatendriyaḥ)
 
 ## mukta-m0-p112-v2794
-[himself](ātmānaṃ) [showed](darśayāmāsa) [hidden](guptaḥ) [to-him](tasmai) [and](ca) [discus+bearer](cakra+bhṛt)
+himself(ātmānam) showed(darśayāmāsa) hidden(guptaḥ)+to-him(tasmai) and(ca) cakra-bearer(cakrabhṛt)
 
 ## mukta-m0-p112-v2795
-[himself](ātmānaṃ) [showed](darśayāmāsa) [to-him](tasmai) [sleeping](suptāya) [discus+bearer](cakra+bhṛt)
+himself(ātmānam) showed(darśayāmāsa) to-him(tasmai) sleeping(suptāya) cakra-bearer(cakrabhṛt)
 
 ## mukta-m0-p112-v2796
-[age+end+sun](yuga+anta+āditya) [color+splendor](varṇa+ābhaṃ) [blue+beryl](nīla+vaidūrya) [resembling](sannibham)
+end-of-age-sun-color(yugāntādityavarṇābham) blue-vaiḍūrya-like(nīlavaidūryasannibham)
 
 ## mukta-m0-p112-v2797
-[by-sacrifice](kratunā) [by-this](anena) [by-gift](dānena) [by-intellect](dhiyā) [by-devotion](bhaktyā) [excellent](praśastayā)
+by-this-sacrifice(kratunā)+by-this(dānena) by-intellect(dhiyā) by-devotion(bhaktyā) by-excellent(praśastayā)
 
 ## mukta-m0-p112-v2798
-[which](yat) [here](atra) [image](pratimāṃ) [o-king](rājan) [world+worshipped](jagat+pūjyāṃ) [eternal](sanātanīm)
+which(yat)+here(atra) image(pratimām) o-king(rājan) world-worshipped(jagatpūjyām) eternal(sanātanīm)
 
 ## mukta-m0-p112-v2799
-[of-ocean](sāgarasya) [of-water](jalasya) [at-end](ante) [various+trees](nānā+druma) [adorned](vibhūṣite)
+of-the-ocean(sāgarasya) of-water(jalasya)+at-the-end(ante) various-trees-adorned(nānādrumavibhūṣite)
 
 ## mukta-m0-p112-v2800
-[in-hand](haste) [and](ca) [axe](paraśuṃ) [having-made](kṛtvā) [to-ūrminta](ūrmintaṃ) [then](tataḥ) [one-should-go](vrajet)
+in-hand(haste) axe(paraśum) having-made(kṛtvā) wave(ūrmim)+that(tam) then(tataḥ) may-go(vrajet)

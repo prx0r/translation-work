@@ -3,29 +3,39 @@
  "verse": 2569,
  "rows": [
   {
-   "lemma": "nibudaiḥ",
-   "morph": "m.ins.pl",
-   "grounds": "token as given"
+   "lemma": "nigama",
+   "morph": "m.stem (compound: nigama-āgama-tantrāṇi)",
+   "grounds": "first member of compound listing scriptural traditions"
   },
   {
-   "lemma": "kalaśaiḥ",
-   "morph": "m.ins.pl",
-   "grounds": "token as given"
+   "lemma": "āgama",
+   "morph": "m.stem (compound: nigama-āgama-tantrāṇi)",
+   "grounds": "second member of compound listing scriptural traditions"
   },
   {
-   "lemma": "vatsa",
-   "morph": "m.voc.sg",
-   "grounds": "token as given"
+   "lemma": "tantrāṇi",
+   "morph": "n.nom.pl (compound: nigama-āgama-tantrāṇi)",
+   "grounds": "third member of compound listing scriptural traditions"
   },
   {
-   "lemma": "mahāviṣṇu+kṛtaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "fused token retained"
+   "lemma": "sarva",
+   "morph": "adj.stem (compound: sarva-śāstra-mayī)",
+   "grounds": "first member of compound indicating all scriptures"
   },
   {
-   "lemma": "purā",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "lemma": "śāstra",
+   "morph": "n.stem (compound: sarva-śāstra-mayī)",
+   "grounds": "second member of compound indicating all scriptures"
+  },
+  {
+   "lemma": "mayī",
+   "morph": "f.nom.sg (compound: sarva-śāstra-mayī)",
+   "grounds": "indicates the goddess is composed of all scriptures"
+  },
+  {
+   "lemma": "śivā",
+   "morph": "f.nom.sg",
+   "grounds": "name or epithet of the goddess"
   }
  ]
 }
