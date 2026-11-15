@@ -3,24 +3,44 @@
  "verse": 1110,
  "rows": [
   {
-   "lemma": "ānandaśikhare",
+   "lemma": "tri",
+   "morph": "compound-member",
+   "grounds": "first member of compound naming the section"
+  },
+  {
+   "lemma": "kūṭa",
+   "morph": "compound-member",
+   "grounds": "second member of compound naming the section"
+  },
+  {
+   "lemma": "ante",
    "morph": "m.loc.sg",
-   "grounds": "locative singular"
+   "grounds": "locative indicating position after the three sections"
   },
   {
-   "lemma": "jāta",
-   "morph": "m.nom.sg",
-   "grounds": "past participle"
+   "lemma": "haṃsa",
+   "morph": "compound-member",
+   "grounds": "first member of compound naming the seed mantra"
   },
   {
-   "lemma": "ānandaśca",
-   "morph": "m.nom.sg",
-   "grounds": "compound with ca"
+   "lemma": "bījaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "object or subject element added at the end"
   },
   {
-   "lemma": "maheśvaraḥ",
-   "morph": "m.nom.sg",
-   "grounds": "noun"
+   "lemma": "tadā",
+   "morph": "(indecl.)",
+   "grounds": "temporal adverb indicating the resulting condition"
+  },
+  {
+   "lemma": "saptadaśī",
+   "morph": "f.nom.sg",
+   "grounds": "predicate indicating the resulting syllable count"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "verb expressing the resulting state"
   }
  ]
 }

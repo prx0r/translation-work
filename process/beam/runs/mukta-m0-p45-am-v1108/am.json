@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1108,
- "question": "In which ocean setting is the churning described?",
+ "question": "What scope of application is assigned to this procedural sequence?",
  "premises": [
-  "The verse says in ocean.",
-  "It says being churned.",
-  "It names milk ocean and best of oceans."
+  "A sequence has been established.",
+  "The sequence is to be applied in this manner.",
+  "The application extends to all cases."
  ],
- "inference": "The churning is set in the milk ocean, best of oceans.",
- "uncertainties": [
-  "The mythic reference is implied rather than explained."
- ],
- "plain_english": "But in the ocean being churned, in the milk ocean, best of oceans."
+ "inference": "Therefore, this sequence applies everywhere in the same way.",
+ "uncertainties": [],
+ "plain_english": "Thus the sequence applies everywhere."
 }

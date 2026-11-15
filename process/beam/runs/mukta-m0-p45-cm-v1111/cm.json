@@ -3,29 +3,44 @@
  "verse": 1111,
  "rows": [
   {
-   "lemma": "tasmādimāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "compound pronoun"
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating the end of everything"
   },
   {
-   "lemma": "surādevīṃ",
-   "morph": "f.acc.sg",
-   "grounds": "compound noun"
+   "lemma": "ante",
+   "morph": "m.loc.sg",
+   "grounds": "locative indicating final position"
   },
   {
-   "lemma": "pūrṇo'haṃ",
-   "morph": "m.nom.sg",
-   "grounds": "compound pronoun"
+   "lemma": "haṃsa",
+   "morph": "compound-member",
+   "grounds": "first member of compound naming the added element"
   },
   {
-   "lemma": "tāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "pronoun"
+   "lemma": "saṃyuktā",
+   "morph": "f.nom.sg ppp sam+√yuj",
+   "grounds": "describes the mantra as combined with haṃsa"
   },
   {
-   "lemma": "bhajāmyaham",
-   "morph": "1.sg.act-pres",
-   "grounds": "first person singular"
+   "lemma": "viṃśa",
+   "morph": "compound-member",
+   "grounds": "first member of compound specifying syllable count"
+  },
+  {
+   "lemma": "akṣarī",
+   "morph": "f.nom.sg",
+   "grounds": "predicate indicating the resulting syllable count"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "verb expressing the resulting state"
+  },
+  {
+   "lemma": "tadā",
+   "morph": "(indecl.)",
+   "grounds": "temporal adverb indicating the resulting condition"
   }
  ]
 }

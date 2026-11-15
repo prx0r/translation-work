@@ -1,0 +1,429 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "past passive participle describing vidyā",
+     "morph": "f.nom.sg.ppp (√kath)"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth",
+     "grounds": "ordinal adjective qualifying vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trailokya+subhaga+udayā",
+     "gloss": "three-worlds-good-fortune-arising",
+     "grounds": "compound describing the nature of the knowledge",
+     "morph": "compound (trailokya+subhaga+udaya), f.nom.sg"
+    }
+   ],
+   "question": "Which knowledge is declared the fifth arising as fortune of the three worlds?",
+   "premises": [
+    "A knowledge is declared",
+    "It is identified as fifth",
+    "It arises as fortune of the three worlds"
+   ],
+   "inference": "The fifth knowledge is the one arising as the good fortune of the three worlds.",
+   "uncertainties": [],
+   "plain_english": "The fifth knowledge is declared to be the one arising as the good fortune of the three worlds."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "jīvaḥ",
+     "gloss": "living-self",
+     "grounds": "identified with the letter sa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa+kāraḥ,",
+     "gloss": "letter-sa",
+     "grounds": "phonetic element equated with jīva; punctuation retained",
+     "morph": "compound (sa+kāra), m.nom.sg"
+    },
+    {
+     "surface": "prāṇo",
+     "gloss": "vital-breath",
+     "grounds": "identified with the letter ha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ha+kāraḥ",
+     "gloss": "letter-ha",
+     "grounds": "phonetic element equated with prāṇa",
+     "morph": "compound (ha+kāra), m.nom.sg"
+    }
+   ],
+   "question": "Which phonetic elements correspond to the living self and the vital breath?",
+   "premises": [
+    "The living self is the letter sa",
+    "The vital breath is the letter ha",
+    "Each principle maps to a phonetic element"
+   ],
+   "inference": "The living self corresponds to sa and the vital breath corresponds to ha.",
+   "uncertainties": [],
+   "plain_english": "The living self is the letter sa, and the vital breath is the letter ha."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "etena",
+     "gloss": "by-this",
+     "grounds": "instrumental referring to the preceding identification",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth",
+     "grounds": "the knowledge being divided",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāgbhava+śakti+kūṭa+bhedena",
+     "gloss": "speech-seed-power-seed-section-difference",
+     "grounds": "compound indicating the basis of division",
+     "morph": "compound (vāgbhava+śakti+kūṭa+bheda), m.inst.sg"
+    }
+   ],
+   "question": "By what distinction does the fifth knowledge become eightfold?",
+   "premises": [
+    "The fifth knowledge is considered",
+    "It becomes eightfold by this means",
+    "The division follows differences of speech-seed and power-seed sections"
+   ],
+   "inference": "The fifth knowledge becomes eightfold through distinctions of the speech-seed and power-seed sections.",
+   "uncertainties": [],
+   "plain_english": "By this, the fifth knowledge becomes eightfold through the distinctions of the speech-seed and power-seed sections."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the same knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturddhā",
+     "gloss": "fourfold",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgbhava+kuṭa+bhedāt",
+     "gloss": "speech-seed-section-difference",
+     "grounds": "compound indicating the basis of division",
+     "morph": "compound (vāgbhava+kuṭa+bheda), m.abl.sg"
+    }
+   ],
+   "question": "By what distinction does this knowledge become fourfold?",
+   "premises": [
+    "This knowledge is considered",
+    "It becomes fourfold",
+    "The division arises from differences of the speech-seed section"
+   ],
+   "inference": "This knowledge becomes fourfold through distinctions of the speech-seed section.",
+   "uncertainties": [],
+   "plain_english": "This knowledge becomes fourfold through the distinctions of the speech-seed section."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "eṣā+api",
+     "gloss": "this-also",
+     "grounds": "demonstrative with inclusive particle",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "pūrva+vat",
+     "gloss": "as-before",
+     "grounds": "comparative expression indicating similarity to prior division",
+     "morph": "compound (pūrva+vat), (indecl.)"
+    },
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "first manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyā",
+     "gloss": "another",
+     "grounds": "refers to a different form or division",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturddhā",
+     "gloss": "fourfold",
+     "grounds": "second manner of division",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what two ways is this knowledge further divided as before?",
+   "premises": [
+    "This knowledge is also divided as before",
+    "One division is eightfold",
+    "Another division is fourfold"
+   ],
+   "inference": "This knowledge is divided eightfold and also fourfold, as before.",
+   "uncertainties": [],
+   "plain_english": "This knowledge also becomes eightfold as before, and another form becomes fourfold."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "saṃsthāna+kṛta+rūpiṇī",
+     "gloss": "form-made-nature",
+     "grounds": "compound describing the nature of mahāmāyā",
+     "morph": "compound (saṃsthāna+kṛta+rūpin), f.nom.sg"
+    },
+    {
+     "surface": "mahā+māyā",
+     "gloss": "great-illusion",
+     "grounds": "subject identified by its nature",
+     "morph": "compound (mahā+māyā), f.nom.sg"
+    }
+   ],
+   "question": "What nature characterizes the great illusion in this context?",
+   "premises": [
+    "The great illusion is named",
+    "Its nature is defined by form-making",
+    "It embodies a shaped configuration"
+   ],
+   "inference": "The great illusion is characterized as having a nature made of form.",
+   "uncertainties": [],
+   "plain_english": "The great illusion has a nature constituted by form."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth",
+     "grounds": "identifies the knowledge or form as fifth",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which ordinal position is assigned to this form of knowledge?",
+   "premises": [
+    "A form is being identified",
+    "The ordinal assigned is fifth",
+    "This continues the preceding enumeration"
+   ],
+   "inference": "This form is identified as the fifth.",
+   "uncertainties": [
+    "The exact referent of pañcamī is elliptical without the preceding syntactic context."
+   ],
+   "plain_english": "It is the fifth."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "etāsām",
+     "gloss": "of-these",
+     "grounds": "demonstrative pronoun referring to previously mentioned knowledges",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvokta+śrīkrama+ukta+vidyānām",
+     "gloss": "previously-stated-śrīkrama-declared-knowledges",
+     "grounds": "compound specifying the group of knowledges",
+     "morph": "compound (pūrvokta+śrīkrama+ukta+vidyā), f.gen.pl"
+    }
+   ],
+   "question": "Which group of knowledges is being referred to as previously declared in the śrīkrama?",
+   "premises": [
+    "A group of knowledges is referenced",
+    "They were previously stated",
+    "They were declared in the śrīkrama"
+   ],
+   "inference": "The reference is to these knowledges previously declared in the śrīkrama.",
+   "uncertainties": [],
+   "plain_english": "Thus, of these knowledges previously declared in the śrīkrama."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "māyā+bindu+īśvara+yutaṃ",
+     "gloss": "illusion-drop-lord-joined",
+     "grounds": "compound describing what is joined together",
+     "morph": "compound (māyā+bindu+īśvara+yuta), n.acc.sg"
+    },
+    {
+     "surface": "sūrya+koṭi+sama+prabham",
+     "gloss": "ten-million-suns-equal-splendor",
+     "grounds": "compound describing brilliance",
+     "morph": "compound (sūrya+koṭi+sama+prabha), n.acc.sg"
+    }
+   ],
+   "question": "What luminous entity joined with māyā, bindu, and īśvara is to be contemplated?",
+   "premises": [
+    "An entity is joined with māyā, bindu, and īśvara",
+    "It possesses splendor equal to ten million suns",
+    "It is presented as the object of the next action"
+   ],
+   "inference": "The entity to be contemplated is joined with māyā, bindu, and īśvara and shines like ten million suns.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate that which is joined with māyā, bindu, and īśvara, and has splendor equal to ten million suns."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "etat+japtvā",
+     "gloss": "this-having-muttered",
+     "grounds": "gerund indicating prior recitation",
+     "morph": "compound (etad+japtvā), (indecl.) gerund (√jap)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "temporal adverb reinforcing sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgbhava+ākhyaṃ",
+     "gloss": "speech-seed-named",
+     "grounds": "compound naming the mantra element to be uttered",
+     "morph": "compound (vāgbhava+ākhya), n.acc.sg"
+    },
+    {
+     "surface": "samuccaret",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive verb for recitation",
+     "morph": "3.sg.opt.act (√sam-ud-car)"
+    }
+   ],
+   "question": "What should be uttered after reciting the previously indicated element?",
+   "premises": [
+    "The previous element has been recited",
+    "A subsequent action follows in sequence",
+    "The speech-seed named element should be uttered"
+   ],
+   "inference": "After reciting the previous element, one should utter the element called the speech-seed.",
+   "uncertainties": [],
+   "plain_english": "Having recited this, one should then afterwards utter that which is called the speech-seed."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "kāmarājaṃ",
+     "gloss": "love-seed",
+     "grounds": "mantra element to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-muttered",
+     "grounds": "gerund indicating prior recitation",
+     "morph": "(indecl.) gerund (√jap)"
+    },
+    {
+     "surface": "trailokya+kṣobha+kārakaḥ",
+     "gloss": "three-worlds-agitating-causing",
+     "grounds": "compound describing the effect or agent",
+     "morph": "compound (trailokya+kṣobha+kāraka), m.nom.sg"
+    }
+   ],
+   "question": "What effect is associated with reciting the love-seed in this sequence?",
+   "premises": [
+    "The love-seed is recited in sequence",
+    "An agitating effect on the three worlds is named",
+    "The recitation is linked to that effect"
+   ],
+   "inference": "Reciting the love-seed is associated with causing agitation in the three worlds.",
+   "uncertainties": [
+    "The compound may describe the mantra or the practitioner; the syntactic role is not fully explicit."
+   ],
+   "plain_english": "Then, having recited the love-seed, one becomes the cause of agitation in the three worlds."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "svapnāvatīṃ",
+     "gloss": "svapnāvatī",
+     "grounds": "name of the mantra or goddess to be recited; kept as name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahā+devi",
+     "gloss": "great-goddess",
+     "grounds": "vocative or epithet addressing the goddess",
+     "morph": "compound (mahā+devī), f.voc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-mutter",
+     "grounds": "prescriptive verb for recitation",
+     "morph": "3.sg.opt.act (√jap)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating context of practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "describes the mental state of the practitioner",
+     "morph": "m.nom.sg.ppp (sam-ā-√dhā)"
+    }
+   ],
+   "question": "In what mental state should one recite svapnāvatī, O great goddess?",
+   "premises": [
+    "Svapnāvatī is to be recited",
+    "The recitation occurs in that context",
+    "The practitioner should be composed"
+   ],
+   "inference": "One should recite svapnāvatī there while being composed.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, one should recite svapnāvatī there while composed."
+  }
+ ]
+}

@@ -3,29 +3,34 @@
  "verse": 1103,
  "rows": [
   {
-   "lemma": "tataḥ",
+   "lemma": "atra",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "locative adverb indicating the present context"
   },
   {
-   "lemma": "śrīgurupādāya",
-   "morph": "m.dat.sg",
-   "grounds": "dative singular"
-  },
-  {
-   "lemma": "sākṣāt",
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "inclusive particle extending the previous rule"
   },
   {
-   "lemma": "paraśivāya",
-   "morph": "m.dat.sg",
-   "grounds": "dative singular"
+   "lemma": "pūrva",
+   "morph": "compound-member",
+   "grounds": "first member of comparative expression"
   },
   {
-   "lemma": "ca",
+   "lemma": "vat",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "comparative suffix indicating similarity to what came before"
+  },
+  {
+   "lemma": "bīja",
+   "morph": "compound-member",
+   "grounds": "first member of compound naming the conjunction"
+  },
+  {
+   "lemma": "saṃyogaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject denoting the joining of seed elements"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p43",
  "verse": 1055,
- "question": "How many vessels are assigned to Rājarājeśvara and to the goddess thereafter?",
+ "question": "What is the status of the remaining elements in this case?",
  "premises": [
-  "Rājarājeśvara receives a vessel allocation.",
-  "The goddess receives a vessel allocation.",
-  "The assignments are given in sequence."
+  "Some elements remain unspecified here.",
+  "Those remaining elements are compared to a prior form.",
+  "They are declared the same."
  ],
- "inference": "One vessel is for Rājarājeśvara and one for the goddess after that.",
- "uncertainties": [],
- "plain_english": "One vessel is for Rājarājeśvara, and then one for the goddess."
+ "inference": "The rest of this form is the same as previously stated.",
+ "uncertainties": [
+  "The exact prior reference for comparison is context-dependent."
+ ],
+ "plain_english": "The rest is the same."
 }

@@ -1,0 +1,459 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1051,
+   "rows": [
+    {
+     "surface": "asyā",
+     "gloss": "of-this",
+     "grounds": "points to the mantra or goddess under discussion",
+     "morph": "pron.f.gen.sg"
+    },
+    {
+     "surface": "vāgbhava+kūṭam",
+     "gloss": "speech-origin-peak",
+     "grounds": "names the vāgbhava section of the mantra",
+     "morph": "compound: vāgbhava+ kūṭam (n.nom.sg)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes identity or restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakti+kūṭaṃ",
+     "gloss": "power-peak",
+     "grounds": "names the śakti section of the mantra",
+     "morph": "compound: śakti+ kūṭam (n.nom.sg)"
+    },
+    {
+     "surface": "vidyeyaṃ",
+     "gloss": "this-knowledge",
+     "grounds": "refers to this mantra-knowledge",
+     "morph": "compound: vidyā+ iyam (f.nom.sg)"
+    },
+    {
+     "surface": "candrārādhitā",
+     "gloss": "moon-worshipped",
+     "grounds": "identifies the deity or sage associated by worship",
+     "morph": "compound: candra+ ārādhitā (f.nom.sg)"
+    }
+   ],
+   "question": "How is the mantra worshipped by the moon structurally identified?",
+   "premises": [
+    "This knowledge belongs to the referenced goddess or mantra.",
+    "Its vāgbhava peak functions as its śakti peak.",
+    "This form is worshipped by the moon."
+   ],
+   "inference": "The moon-worshipped vidyā is identified by having the vāgbhava-kūṭa serve as its śakti-kūṭa.",
+   "uncertainties": [
+    "The exact referent of asyā depends on the preceding context."
+   ],
+   "plain_english": "For this one, the vāgbhava section itself is the śakti section; this knowledge is worshipped by the moon."
+  },
+  {
+   "verse": 1052,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "points to the mantra or goddess under discussion",
+     "morph": "pron.m/n.gen.sg"
+    },
+    {
+     "surface": "vāgbhava+kūṭam",
+     "gloss": "speech-origin-peak",
+     "grounds": "names the vāgbhava section of the mantra",
+     "morph": "compound: vāgbhava+ kūṭam (n.nom.sg)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes identity or restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakti+kūṭam",
+     "gloss": "power-peak",
+     "grounds": "names the śakti section of the mantra",
+     "morph": "compound: śakti+ kūṭam (n.nom.sg)"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "refers to this mantra-knowledge",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "kuberapūjitā",
+     "gloss": "Kubera-worshipped",
+     "grounds": "identifies the deity associated by worship",
+     "morph": "compound: kubera+ pūjitā (f.nom.sg)"
+    }
+   ],
+   "question": "How is the mantra worshipped by Kubera structurally identified?",
+   "premises": [
+    "This knowledge belongs to the referenced form.",
+    "Its vāgbhava peak functions as its śakti peak.",
+    "This form is worshipped by Kubera."
+   ],
+   "inference": "The Kubera-worshipped vidyā is identified by having the vāgbhava-kūṭa serve as its śakti-kūṭa.",
+   "uncertainties": [
+    "The exact referent of asya depends on the preceding context."
+   ],
+   "plain_english": "For this one, the vāgbhava section itself is the śakti section; this one is worshipped by Kubera."
+  },
+  {
+   "verse": 1053,
+   "rows": [
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "refers to the mantra being identified",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks distinction from the previous forms",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "specifies ordinal position in the sequence",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "lopāmudrā",
+     "gloss": "Lopāmudrā",
+     "grounds": "names this form of the vidyā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which named form is identified as the second in this sequence?",
+   "premises": [
+    "A specific mantra form is being singled out.",
+    "It is distinguished as the second.",
+    "Its name is Lopāmudrā."
+   ],
+   "inference": "The second form in the sequence is identified as Lopāmudrā.",
+   "uncertainties": [],
+   "plain_english": "But this second one is Lopāmudrā."
+  },
+  {
+   "verse": 1054,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "refers to the remaining elements",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "samānam",
+     "gloss": "same",
+     "grounds": "indicates identity with what was previously described",
+     "morph": "adj.n.nom.sg"
+    }
+   ],
+   "question": "What is the status of the remaining elements of this mantra form?",
+   "premises": [
+    "Some elements remain unspecified here.",
+    "Those remaining elements are compared to a prior form.",
+    "They are declared the same."
+   ],
+   "inference": "The rest of this form is the same as previously stated.",
+   "uncertainties": [
+    "The exact prior reference for comparison is context-dependent."
+   ],
+   "plain_english": "The rest is the same."
+  },
+  {
+   "verse": 1055,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "refers to the remaining elements",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "samānam",
+     "gloss": "same",
+     "grounds": "indicates identity with what was previously described",
+     "morph": "adj.n.nom.sg"
+    }
+   ],
+   "question": "What is the status of the remaining elements in this case?",
+   "premises": [
+    "Some elements remain unspecified here.",
+    "Those remaining elements are compared to a prior form.",
+    "They are declared the same."
+   ],
+   "inference": "The rest of this form is the same as previously stated.",
+   "uncertainties": [
+    "The exact prior reference for comparison is context-dependent."
+   ],
+   "plain_english": "The rest is the same."
+  },
+  {
+   "verse": 1056,
+   "rows": [
+    {
+     "surface": "śivaṃ",
+     "gloss": "Śiva",
+     "grounds": "refers to the Śiva element or syllable in the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indicates exclusion of the preceding element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturtham",
+     "gloss": "fourth",
+     "grounds": "specifies the fourth element",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a modification in the structure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tārtīye",
+     "gloss": "in-third",
+     "grounds": "locates the modification in the third section",
+     "morph": "adj.n.loc.sg"
+    },
+    {
+     "surface": "sakalaḥ",
+     "gloss": "whole",
+     "grounds": "describes Śiva as complete in this position",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "Śiva",
+     "grounds": "the Śiva element present in the third section",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the Śiva element modified in the third and fourth positions?",
+   "premises": [
+    "The fourth element is taken without Śiva.",
+    "A modification occurs in the third section.",
+    "In the third section Śiva is present as whole."
+   ],
+   "inference": "The structure omits Śiva in the fourth position while retaining whole Śiva in the third.",
+   "uncertainties": [
+    "The precise mantra components counted as third and fourth are not explicit."
+   ],
+   "plain_english": "Without Śiva as the fourth, but in the third section Śiva is present in full."
+  },
+  {
+   "verse": 1057,
+   "rows": [
+    {
+     "surface": "vidyeyaṃ",
+     "gloss": "this-knowledge",
+     "grounds": "refers to this mantra-knowledge",
+     "morph": "compound: vidyā+ iyam (f.nom.sg)"
+    },
+    {
+     "surface": "sūryapūjitā",
+     "gloss": "sun-worshipped",
+     "grounds": "identifies the deity associated by worship",
+     "morph": "compound: sūrya+ pūjitā (f.nom.sg)"
+    }
+   ],
+   "question": "By which deity is this particular vidyā said to be worshipped?",
+   "premises": [
+    "A specific vidyā is being identified.",
+    "That vidyā has an associated worshipper.",
+    "The associated worshipper is the sun."
+   ],
+   "inference": "This vidyā is identified as worshipped by the sun.",
+   "uncertainties": [],
+   "plain_english": "This knowledge is worshipped by the sun."
+  },
+  {
+   "verse": 1058,
+   "rows": [
+    {
+     "surface": "mahāmāyā",
+     "gloss": "Mahāmāyā",
+     "grounds": "names the mantra element or bīja to be uttered",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "coccaret",
+     "gloss": "one-should-utter",
+     "grounds": "prescribes the ritual utterance",
+     "morph": "3.sg.optative-active (√uc)"
+    }
+   ],
+   "question": "What mantra element should be uttered in this ritual instruction?",
+   "premises": [
+    "A ritual utterance is prescribed.",
+    "The object of utterance is specified.",
+    "That object is Mahāmāyā."
+   ],
+   "inference": "One should utter Mahāmāyā.",
+   "uncertainties": [
+    "Mahāmāyā may denote a specific bīja; it is kept as a name."
+   ],
+   "plain_english": "One should utter Mahāmāyā."
+  },
+  {
+   "verse": 1059,
+   "rows": [
+    {
+     "surface": "vinduhīnā",
+     "gloss": "dot-devoid",
+     "grounds": "indicates absence of the bindu",
+     "morph": "compound: vindu+ hīnā (f.nom.sg)"
+    },
+    {
+     "surface": "nādahīnā",
+     "gloss": "sound-devoid",
+     "grounds": "indicates absence of the nāda",
+     "morph": "compound: nāda+ hīnā (f.nom.sg)"
+    },
+    {
+     "surface": "durvāsaḥpūjitā",
+     "gloss": "Durvāsas-worshipped",
+     "grounds": "identifies the form associated with Durvāsas",
+     "morph": "compound: durvāsaḥ+ pūjitā (f.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "it-should-be",
+     "grounds": "states the resulting form or condition",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What phonetic modifications define the form worshipped by Durvāsas?",
+   "premises": [
+    "A specific mantra form is being described.",
+    "It lacks the bindu.",
+    "It lacks the nāda and is worshipped by Durvāsas."
+   ],
+   "inference": "The Durvāsas-worshipped form should be without bindu and without nāda.",
+   "uncertainties": [],
+   "plain_english": "It should be without bindu and without nāda, as the form worshipped by Durvāsas."
+  },
+  {
+   "verse": 1060,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of the preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśī",
+     "gloss": "fifteen-syllabled",
+     "grounds": "names the mantra as having fifteen syllables",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What mantra type is concluded by the preceding description?",
+   "premises": [
+    "The preceding description is being concluded.",
+    "The concluded form is named.",
+    "It is identified as the fifteen-syllabled mantra."
+   ],
+   "inference": "The preceding account concludes with the pañcadaśī.",
+   "uncertainties": [],
+   "plain_english": "Thus is the fifteen-syllabled mantra."
+  },
+  {
+   "verse": 1061,
+   "rows": [
+    {
+     "surface": "vidyādau",
+     "gloss": "at-knowledge-beginning",
+     "grounds": "locates an element at the beginning of the vidyā",
+     "morph": "compound: vidyā+ ādau (m/n.loc.sg)"
+    },
+    {
+     "surface": "pūrvokta",
+     "gloss": "previously-stated",
+     "grounds": "refers back to an earlier specification",
+     "morph": "compound: pūrva+ ukta (m.nom.sg or stem in compound context)"
+    },
+    {
+     "surface": "dvādaśavidyādau",
+     "gloss": "at-twelve-knowledge-beginning",
+     "grounds": "locates an element at the beginning of the twelvefold vidyā",
+     "morph": "compound: dvādaśa+ vidyā+ ādau (m/n.loc.sg)"
+    }
+   ],
+   "question": "Where is the previously stated element placed in relation to the vidyās?",
+   "premises": [
+    "An element was previously stated.",
+    "Placement at the beginning of the vidyā is indicated.",
+    "Placement at the beginning of the twelvefold vidyā is indicated."
+   ],
+   "inference": "The previously stated element applies at the beginning of the vidyā and of the twelvefold vidyā.",
+   "uncertainties": [
+    "The syntactic role of pūrvokta is compressed and context-dependent."
+   ],
+   "plain_english": "At the beginning of the vidyā, as previously stated, and at the beginning of the twelvefold vidyā."
+  },
+  {
+   "verse": 1062,
+   "rows": [
+    {
+     "surface": "vedādiḥ",
+     "gloss": "Veda-beginning",
+     "grounds": "refers to the initial element associated with the Veda, often the syllable oṃ",
+     "morph": "compound: veda+ ādiḥ (m.nom.sg)"
+    },
+    {
+     "surface": "praṇavaḥ,",
+     "gloss": "praṇava",
+     "grounds": "names the sacred syllable oṃ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maṇḍitā",
+     "gloss": "adorned",
+     "grounds": "indicates the mantra is adorned with this element",
+     "morph": "f.nom.sg (past participle)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "in-beginning",
+     "grounds": "specifies placement at the beginning",
+     "morph": "m/n.loc.sg"
+    },
+    {
+     "surface": "bhūṣitā",
+     "gloss": "decorated",
+     "grounds": "reinforces that the mantra is decorated with this element",
+     "morph": "f.nom.sg (past participle)"
+    }
+   ],
+   "question": "Which sacred syllable adorns the beginning of the mantra in this instruction?",
+   "premises": [
+    "A beginning element is specified.",
+    "That element is the Veda-beginning, the praṇava.",
+    "The mantra is adorned and decorated with it at the beginning."
+   ],
+   "inference": "The praṇava adorns the beginning of the mantra.",
+   "uncertainties": [
+    "vedādiḥ is taken as referring to the praṇava in apposition; exact nuance depends on context."
+   ],
+   "plain_english": "The praṇava, the beginning of the Veda, adorns and decorates it at the beginning."
+  }
+ ]
+}
