@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p44",
  "verse": 1080,
- "question": "On which arms do man and woman wear this armor?",
+ "question": "How should male and female practitioners wear this protective armor differently?",
  "premises": [
-  "man wears it on right arm",
-  "woman wears it on left arm"
+  "Men and women both use the armor",
+  "Placement differs by practitioner",
+  "Instructions specify right and left arms"
  ],
- "inference": "The verse assigns right arm to man and left arm to woman.",
- "uncertainties": [
-  "whether tathā adds further placement"
- ],
- "plain_english": "A man on the right arm, a woman on the left arm, likewise."
+ "inference": "A man wears it on the right arm, and likewise a woman on the left arm.",
+ "uncertainties": [],
+ "plain_english": "A man wears it on the right arm, and likewise a woman on the left arm."
 }

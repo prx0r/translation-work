@@ -1,0 +1,553 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2576,
+   "rows": [
+    {
+     "surface": "candrabījaṃ",
+     "gloss": "moon-seed",
+     "grounds": "bīja syllable associated with the moon",
+     "morph": "compound: candra+bīja; n.nom.sg"
+    },
+    {
+     "surface": "visargāḍhyaṃ",
+     "gloss": "endowed-with-visarga",
+     "grounds": "describes the seed as having a visarga",
+     "morph": "compound: visarga+āḍhya; n.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative wish for protection",
+     "morph": "3.sg.active-imperative √pā"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "speaker seeking protection",
+     "morph": "pronoun.1.sg.gen"
+    },
+    {
+     "surface": "guhyadeśakam",
+     "gloss": "secret-region",
+     "grounds": "part of the body to be protected",
+     "morph": "compound: guhya+deśaka; m.acc.sg"
+    }
+   ],
+   "question": "Which moon-seed mantra protects the speaker's secret bodily region?",
+   "premises": [
+    "The moon-seed is endowed with visarga.",
+    "The speaker seeks protection for the secret region.",
+    "The mantra is invoked to grant that protection."
+   ],
+   "inference": "The visarga-endowed moon-seed protects the speaker's secret region.",
+   "uncertainties": [
+    "The exact bīja syllable intended by candrabījaṃ is not specified in the verse."
+   ],
+   "plain_english": "May the moon-seed endowed with visarga protect my secret region."
+  },
+  {
+   "verse": 2577,
+   "rows": [
+    {
+     "surface": "śivo",
+     "gloss": "śiva-syllable",
+     "grounds": "mantric element identified as śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahni+samāyukto",
+     "gloss": "united-with-fire",
+     "grounds": "combined with the fire element or syllable",
+     "morph": "compound: vahni+samāyukta; m.nom.sg"
+    },
+    {
+     "surface": "vāmākṣi+vindu+bhūṣitaḥ",
+     "gloss": "adorned-with-left-eye-and-dot",
+     "grounds": "marked by the left-eye vowel and bindu",
+     "morph": "compound: vāmākṣi+vindu+bhūṣita; m.nom.sg"
+    }
+   ],
+   "question": "What mantric components constitute the described śiva syllable?",
+   "premises": [
+    "The syllable is identified as śiva.",
+    "It is united with fire.",
+    "It is adorned with the left-eye vowel and bindu."
+   ],
+   "inference": "The śiva syllable is formed by combining fire with the left-eye vowel and bindu.",
+   "uncertainties": [
+    "The precise phonetic values of vahni and vāmākṣi are implied by mantra convention."
+   ],
+   "plain_english": "The śiva syllable is united with fire and adorned with the left-eye vowel and the dot."
+  },
+  {
+   "verse": 2578,
+   "rows": [
+    {
+     "surface": "guhyāt+guhyataro",
+     "gloss": "more-secret-than-secret",
+     "grounds": "comparative emphasizing extreme secrecy",
+     "morph": "compound: guhya+guhyatara; m.nom.sg"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "the sacred formula being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāṃchā+cintāmaṇiḥ",
+     "gloss": "wish-fulfilling-gem",
+     "grounds": "metaphor for granting desired aims",
+     "morph": "compound: vāṃchā+cintāmaṇi; m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditionally known or declared",
+     "morph": "m.nom.sg.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "How is the secrecy and efficacy of this mantra characterized?",
+   "premises": [
+    "The mantra is more secret than secret.",
+    "It is remembered as a wish-fulfilling gem.",
+    "These qualities define its status."
+   ],
+   "inference": "This mantra is regarded as supremely secret and capable of fulfilling wishes.",
+   "uncertainties": [],
+   "plain_english": "This mantra is remembered as more secret than secret and as a wish-fulfilling gem."
+  },
+  {
+   "verse": 2579,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee of the teaching",
+     "morph": "pronoun.2.sg.dat"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "what has been communicated",
+     "morph": "n.nom.sg.past-passive-participle √kath"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "heavenly or transcendent quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triṣu+lokeṣu",
+     "gloss": "in-three-worlds",
+     "grounds": "scope across the three realms",
+     "morph": "compound: tri+loka; m.loc.pl"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "hard-to-obtain",
+     "grounds": "rare and difficult to attain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What status is claimed for the teaching just communicated to the listener?",
+   "premises": [
+    "The teaching has been told to the listener.",
+    "It is described as divine.",
+    "It is hard to obtain in the three worlds."
+   ],
+   "inference": "The communicated teaching is divine and exceedingly rare in the three worlds.",
+   "uncertainties": [],
+   "plain_english": "Thus this divine teaching, hard to obtain in the three worlds, has been told to you."
+  },
+  {
+   "verse": 2580,
+   "rows": [
+    {
+     "surface": "kuṣṭha+ādi+roga+śamanaṃ",
+     "gloss": "calming-leprosy-and-other-diseases",
+     "grounds": "therapeutic effect on leprosy and similar ailments",
+     "morph": "compound: kuṣṭha+ādi+roga+śamana; n.nom.sg"
+    },
+    {
+     "surface": "mahā+vyādhi+vināśanam",
+     "gloss": "destroying-great-diseases",
+     "grounds": "power to remove severe illnesses",
+     "morph": "compound: mahā+vyādhi+vināśana; n.nom.sg"
+    }
+   ],
+   "question": "What healing powers are attributed to the revealed mantra or teaching?",
+   "premises": [
+    "It calms leprosy and other diseases.",
+    "It destroys great diseases.",
+    "Both effects are presented as its properties."
+   ],
+   "inference": "The mantra or teaching possesses the power to cure both common and severe diseases.",
+   "uncertainties": [],
+   "plain_english": "It calms leprosy and other diseases and destroys great illnesses."
+  },
+  {
+   "verse": 2581,
+   "rows": [
+    {
+     "surface": "bahunā",
+     "gloss": "by-much",
+     "grounds": "excessive or lengthy speech",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "rhetorical question implying no need",
+     "morph": "pronoun.n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktena",
+     "gloss": "by-said",
+     "grounds": "by what has been spoken",
+     "morph": "n.ins.sg.past-passive-participle √vac"
+    },
+    {
+     "surface": "yat+yat",
+     "gloss": "whatever",
+     "grounds": "any and every thing",
+     "morph": "compound: yad+yad; n.nom.sg"
+    },
+    {
+     "surface": "manasi",
+     "gloss": "in-mind",
+     "grounds": "present in thought or desire",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "varttate",
+     "gloss": "exists",
+     "grounds": "is present or arises",
+     "morph": "3.sg.middle-present √vṛt"
+    }
+   ],
+   "question": "Why is further elaboration unnecessary regarding the mantra's benefits?",
+   "premises": [
+    "Much speaking is rhetorically dismissed as unnecessary.",
+    "Whatever exists in the mind is encompassed.",
+    "The mantra's scope is therefore complete."
+   ],
+   "inference": "Further explanation is unnecessary because the mantra addresses whatever arises in the mind.",
+   "uncertainties": [],
+   "plain_english": "What is the use of saying much here? Whatever exists in the mind is covered."
+  },
+  {
+   "verse": 2582,
+   "rows": [
+    {
+     "surface": "bhūta",
+     "gloss": "ghosts",
+     "grounds": "class of malevolent beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "preta",
+     "gloss": "spirits",
+     "grounds": "departed or restless spirits",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "piśācāḥ",
+     "gloss": "goblins",
+     "grounds": "class of harmful beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed beings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yakṣa",
+     "gloss": "yakṣas",
+     "grounds": "class of semi-divine beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gandharva",
+     "gloss": "gandharvas",
+     "grounds": "celestial musicians or beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rākṣasāḥ",
+     "gloss": "rākṣasas",
+     "grounds": "class of powerful malevolent beings",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which classes of supernatural beings are affected by the mantra's power?",
+   "premises": [
+    "Ghosts, spirits, and goblins are listed.",
+    "Yakṣas, gandharvas, and rākṣasas are also listed.",
+    "These represent a range of supernatural beings."
+   ],
+   "inference": "The mantra's power extends over various classes of supernatural beings.",
+   "uncertainties": [],
+   "plain_english": "Ghosts, spirits, goblins, yakṣas, gandharvas, and rākṣasas."
+  },
+  {
+   "verse": 2583,
+   "rows": [
+    {
+     "surface": "dūrāt",
+     "gloss": "from-far",
+     "grounds": "at a distance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "palāyante",
+     "gloss": "flee",
+     "grounds": "run away in fear",
+     "morph": "3.pl.middle-present √palāy"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the mantra or its holder",
+     "morph": "pronoun.m.gen.sg"
+    },
+    {
+     "surface": "saṃkīrtanāt",
+     "gloss": "from-recitation",
+     "grounds": "act of proclaiming or chanting",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasizes sufficiency of recitation alone",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect does mere recitation of the mantra have on harmful beings?",
+   "premises": [
+    "The listed beings flee from afar.",
+    "This happens from its recitation.",
+    "Even mere recitation is sufficient."
+   ],
+   "inference": "Even the recitation of the mantra causes harmful beings to flee from a distance.",
+   "uncertainties": [],
+   "plain_english": "They flee from far away even at its recitation."
+  },
+  {
+   "verse": 2584,
+   "rows": [
+    {
+     "surface": "ravivāre",
+     "gloss": "on-sunday",
+     "grounds": "day associated with the sun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects auspicious times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkrāntyāṃ",
+     "gloss": "at-solar-transition",
+     "grounds": "time of the sun's passage into a new sign",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saptamyām",
+     "gloss": "on-seventh-day",
+     "grounds": "seventh lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects auspicious times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "marks particular suitability",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific times are especially recommended for the mantra's ritual use?",
+   "premises": [
+    "Sunday is mentioned as a suitable time.",
+    "Solar transition and the seventh lunar day are mentioned.",
+    "These times are marked as especially appropriate."
+   ],
+   "inference": "Sunday, solar transition, and the seventh lunar day are especially recommended times.",
+   "uncertainties": [],
+   "plain_english": "Especially on Sunday, at the solar transition, and on the seventh lunar day."
+  },
+  {
+   "verse": 2585,
+   "rows": [
+    {
+     "surface": "tri+loha+madhya+gaṃ",
+     "gloss": "placed-in-three-metals",
+     "grounds": "inscribed or set within three metals",
+     "morph": "compound: tri+loha+madhya+ga; n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "after preparing it",
+     "morph": "indeclinable-absolutive √kṛ"
+    },
+    {
+     "surface": "dhārayed",
+     "gloss": "one-should-wear",
+     "grounds": "instruction to bear or wear",
+     "morph": "3.sg.active-optative √dhṛ"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "right side of the body",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhuje",
+     "gloss": "arm",
+     "grounds": "location for wearing",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should the mantra be prepared and worn for protective use?",
+   "premises": [
+    "The mantra should be placed in three metals.",
+    "It should then be worn.",
+    "The right arm is the specified location."
+   ],
+   "inference": "After placing it in three metals, one should wear it on the right arm.",
+   "uncertainties": [
+    "The specific three metals are not named in this verse."
+   ],
+   "plain_english": "Having placed it in three metals, one should wear it on the right arm."
+  },
+  {
+   "verse": 2586,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee of the teaching",
+     "morph": "pronoun.2.sg.dat"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "what has been communicated",
+     "morph": "n.nom.sg.past-passive-participle √kath"
+    },
+    {
+     "surface": "sāmba",
+     "gloss": "o-sāmba",
+     "grounds": "vocative address to Sāmba",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "trailokya+maṅgala+abhidham",
+     "gloss": "named-auspiciousness-of-three-worlds",
+     "grounds": "title indicating benefit for the three worlds",
+     "morph": "compound: trailokya+maṅgala+abhidha; n.nom.sg"
+    }
+   ],
+   "question": "What name and concluding address frame the teaching given to Sāmba?",
+   "premises": [
+    "The teaching is addressed to Sāmba.",
+    "It is declared as told to him.",
+    "It is named as bringing auspiciousness to the three worlds."
+   ],
+   "inference": "The teaching concluded to Sāmba is called the auspiciousness of the three worlds.",
+   "uncertainties": [],
+   "plain_english": "Thus, O Sāmba, this teaching called the auspiciousness of the three worlds has been told to you."
+  },
+  {
+   "verse": 2587,
+   "rows": [
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "spiritual or ritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "arises or comes into being",
+     "morph": "3.sg.middle-present √jan"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to one lacking the proper means",
+     "morph": "pronoun.m.gen.sg"
+    },
+    {
+     "surface": "kalpa+koṭi+śataiḥ",
+     "gloss": "by-hundreds-of-crores-of-kalpas",
+     "grounds": "vast spans of cosmic time",
+     "morph": "compound: kalpa+koṭi+śata; n.ins.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasizes impossibility despite long time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence is stated for one who lacks this mantra over vast time?",
+   "premises": [
+    "Success does not arise for that person.",
+    "Even hundreds of crores of kalpas pass.",
+    "The absence of success persists despite immense time."
+   ],
+   "inference": "Without this mantra, success does not arise even over hundreds of crores of kalpas.",
+   "uncertainties": [
+    "The referent of tasya is implied by context as one without this mantra or practice."
+   ],
+   "plain_english": "Success does not arise for him even in hundreds of crores of kalpas."
+  }
+ ]
+}

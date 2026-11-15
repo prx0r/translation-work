@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 95,
- "question": "How should a practitioner perform bathing and purification with clay, water, mantras, and bodily orientation?",
+ "question": "What calculation procedure should be applied to the given number?",
  "premises": [
-  "vidyeśvara and śiva are invoked",
-  "eleven rudras are also invoked"
+  "A specified number is taken as the base.",
+  "It is made sevenfold.",
+  "It should be divided by three."
  ],
- "inference": "The verse includes vidyeśvara, śiva, and eleven rudras in purification.",
+ "inference": "The procedure is to multiply the given number by seven and divide by three.",
  "uncertainties": [
-  "whether vidyeśvaraṃ and śivaṃ are objects of invocation"
+  "The referent of the given number depends on prior context."
  ],
- "plain_english": "One invokes vidyeśvara, śiva, and also the eleven rudras."
+ "plain_english": "Having made that number sevenfold, one should divide it by three."
 }

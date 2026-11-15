@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p44",
  "verse": 1084,
- "question": "What does the speaker ask the spotless Brahman to tell on earth?",
+ "question": "What request is made to Brahman regarding the teaching on the spotless earth?",
  "premises": [
-  "therefore tell this",
-  "O spotless Brahman on earth"
+  "The teaching is highly valued",
+  "A speaker is addressed as Brahman",
+  "The request concerns revealing this teaching"
  ],
- "inference": "The verse requests narration of this teaching.",
+ "inference": "Therefore, O Brahman, tell this on the spotless earth.",
  "uncertainties": [
-  "whether vimala/ modifies brahman"
+  "vimala/ mahītale may be a compound split across tokens."
  ],
- "plain_english": "Therefore tell this, O spotless Brahman, on earth."
+ "plain_english": "Therefore, O Brahman, tell this on the spotless earth."
 }
