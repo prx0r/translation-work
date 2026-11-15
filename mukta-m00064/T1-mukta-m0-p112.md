@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-bowed-to(praṇata) gods-and-men(suranarebhyaḥ) horse-faced(vājivaktraḥ) murāri(murāriḥ)
+praṇata-sura-narebhyaḥ(vājivaktraḥ) murāriḥ(murāriḥ) praṇata-sura-narebhyaḥ(praṇatasuranarebhyaḥ) vājivaktraḥ(vājivaktro) murāriḥ(murāriḥ)
 
 ## mukta-m0-p112-v2777
-jewel-peak(maṇikūṭa) made-abode(kṛtāvāsa) lotus-eyed(kamalākṣa) salutation(namaḥ) be(astu) to-you(te)
+maṇi-kūṭa-kṛta-āvāsa(kamalākṣa) namaḥ-astu(te) maṇi-kūṭa-kṛta-āvāsa(maṇikūṭakṛtāvāsa) kamalākṣa(kamalākṣa) namaḥ-astu(namo'stu) te(te)
 
 ## mukta-m0-p112-v2778
-then(tat) at-that-moment(kṣaṇāt)
+tat-kṣaṇāt(tatkṣaṇāt) tat-kṣaṇāt(tatkṣaṇāt)
 
 ## mukta-m0-p112-v2779
-circumambulation(pradakṣiṇa) three(trayam) should-do(kuryāt) lotus-shaped(padmākāram) should-bow(namet) then(tataḥ)
+pradakṣiṇa-trayam(kuryāt) padma-ākāram(namet-tataḥ) pradakṣiṇa-trayam(pradakṣiṇatrayaṃ) kuryāt(kuryāt) padma-ākāram(padmākāraṃ) namet-tataḥ(namettataḥ)
 
 ## mukta-m0-p112-v2780
-having-done(kṛtvā) añjali(añjaliḥ) then(tataḥ) with-devotion(bhaktyā) having-circled(bhramayitvā) should-bow(namet) then(tataḥ)
+kṛtvā-añjaliḥ-tataḥ(bhaktyā) kṛta-añjaliḥ(bhramayitvā) namet-tataḥ(kṛtvāñjalistato) bhaktyā(bhaktyā) kṛta-añjaliḥ(kṛtāñjaliḥ) bhramayitvā(bhramayitvā) namet-tataḥ(namettataḥ)
 
 ## mukta-m0-p112-v2781
-who(yaḥ) us(naḥ) not-bows(na) having-circled(bhramayitvā) and(ca) offense(aparādhaḥ) becomes(bhavet) then(tadā)
+yaḥ(naḥ) na-namet(bhramayitvā) ca(aparādhaḥ) bhavet-tadā(yaḥ) naḥ(no) na-namet(namedbhramayitvā) ca(ca) aparādhaḥ(aparādho) bhavet-tadā(bhavettadā)
 
 ## mukta-m0-p112-v2782
-delusion-darkness(moha+andhakāra) in-hell(narake) is-cooked(pacyate) not(na) here(atra) doubt(saṃśayaḥ)
+moha-andhakāra-narake(pacyate) na-atra(saṃśayaḥ) moha-andhakāra-narake(mohāndhakāranarake) pacyate(pacyate) na-atra(nātra) saṃśayaḥ(saṃśayaḥ)
 
 ## mukta-m0-p112-v2783
-they-curse(śapanti) gods(devatāḥ) of-him(tasya) fruitless(viphalaṃ) recited(parikīrtitam)
+śapanti(devatāḥ-tasya) viphalaṃ(parikīrtitam) śapanti(śapanti) devatāḥ-tasya(devatāstasya) viphalaṃ(viphalaṃ) parikīrtitam(parikīrtitam)
 
 ## mukta-m0-p112-v2784
-in-body(śarīre) or(vā) o-great-goddess(maheśāni) of-him(tasya) merit-fruit(puṇya+phalaṃ) hear(śṛṇu)
+śarīre(vā) mahā-īśāni(tasya) puṇya-phalaṃ(śṛṇu) śarīre(śarīre) vā(vā) mahā-īśāni(maheśāni) tasya(tasya) puṇya-phalaṃ(puṇyaphalaṃ) śṛṇu(śṛṇu)
 
 ## mukta-m0-p112-v2785
-so-many(tāvat) syllables-thousand(varṇa+sahasrāṇi) in-brahma-world(brahmaloke) is-honored(mahīyate)
+tāvat-varṇa-sahasrāṇi(brahma-loke) mahīyate(tāvatvarṇasahasrāṇi) brahma-loke(brahmaloke) mahīyate(mahīyate)
 
 ## mukta-m0-p112-v2786
-on-jewel-peak(maṇikūṭe) this(ayam) viṣṇu(viṣṇuḥ) was-established(sthāpitaḥ) by-whom(kena) indeed(vai) formerly(purā)
+maṇi-kūṭe(ayaṃ) viṣṇuḥ(sthāpitaḥ) kena(vai) purā(maṇikūṭe) ayaṃ(tvayaṃ) viṣṇuḥ(viṣṇuḥ) sthāpitaḥ(sthāpitaḥ) kena(kena) vai(vai) purā(purā)
 
 ## mukta-m0-p112-v2787
-I-will-tell(kathayāmi) ancient-story(purāvṛttam) of-image(pratimāyāḥ) and(ca) origin(sambhavam)
+kathayāmi(purā-vṛttam) pratimāyāḥ-ca(sambhavam) kathayāmi(kathayāmi) purā-vṛttam(purāvṛttaṃ) pratimāyāḥ-ca(pratimāyāśca) sambhavam(sambhavam)
 
 ## mukta-m0-p112-v2788
-by-cintamaya-afflicted(cinmayārtaḥ) king(mahīpālaḥ) for-image(pratimā+artham) day-and-night(aharniśam)
+cinmaya-ārtaḥ(mahī-pālaḥ) pratimā-artham-ahar-niśam(cinmayārto) mahī-pālaḥ(mahīpālaḥ) pratimā-artham-ahar-niśam(pratimārthamaharniśam)
 
 ## mukta-m0-p112-v2789
-creation-maintenance-destruction-doer(sarga+sthiti+anta+kartāram) I-see(paśyāmi) best-of-men(puruṣottamam)
+sarga-sthiti-anta-kartāram(paśyāmi) puruṣa-uttamam(sarga) sthiti-anta-kartāram(sthityantakartāraṃ) paśyāmi(paśyāmi) puruṣa-uttamam(puruṣottamam)
 
 ## mukta-m0-p112-v2790
-not(na) enjoys(bhuṅkte) various(vividhān) pleasures(bhogān) not(na) bathing(snānam) not(na) adornment(prasādhanam)
+na(bhuṅkte) vividhan(bhogān) na(snānam) na(prasādhanam) na(na) bhuṅkte(bhuṅkte) vividhan(vividhān) bhogān(bhogān) na(na) snānam(snānaṃ) na(na) prasādhanam(prasādhanam)
 
 ## mukta-m0-p112-v2791
-of-viṣṇu(viṣṇoḥ) for-image-fit(pratimā+yogyaḥ) who(yaḥ) all-marks-marked(sarva+lakṣaṇa+lakṣitaḥ)
+viṣṇoḥ(pratimā-yogyaḥ) yaḥ(sarva-lakṣaṇa-lakṣitaḥ) viṣṇoḥ(viṣṇoḥ) pratimā-yogyaḥ(pratimayogyo) yaḥ(yaḥ) sarva-lakṣaṇa-lakṣitaḥ(sarvalakṣaṇalakṣitaḥ)
 
 ## mukta-m0-p112-v2792
-that(tat) by-whom(kena) or(vā) I-will-do(kariṣyāmi) let-him-command(ājñāpayatu) to-me(me) lord(prabhuḥ)
+tat(kena) vā(kariṣyāmi) ca(ājñāpayatu) me(prabhuḥ) tat(tat) kena(kena) vā(vā) kariṣyāmi(kariṣyāmi) ca(ca) ājñāpayatu(ājñāpayatu) me(me) prabhuḥ(prabhuḥ)
 
 ## mukta-m0-p112-v2793
-on-hari-meditation-fixed(hari+dhyāna+paraḥ) having-become(bhūtvā) slept(susvāpa) controlled-senses(niyata+indriyaḥ)
+hari-dhyāna-paraḥ(bhūtvā) su-svāpa(niyata-indriyaḥ) hari-dhyāna-paraḥ(haridhyānaparo) bhūtvā(bhūtvā) su-svāpa(susvāpa) niyata-indriyaḥ(niyatendriyaḥ)
 
 ## mukta-m0-p112-v2794
-himself(ātmānam) showed(darśayāmāsa) hidden(guptaḥ) to-him(tasmai) and(ca) cakra-bearer(cakrabhṛt)
+ātmānam(darśayāmāsa) guptaḥ-tasmai(ca) cakra-bhṛt(ātmānam) darśayāmāsa(darśayāmāsa) guptaḥ-tasmai(guptastasmai) ca(ca) cakra-bhṛt(cakrabhṛt)
 
 ## mukta-m0-p112-v2795
-himself(ātmānam) showed(darśayāmāsa) to-him(tasmai) sleeping(suptāya) cakra-bearer(cakrabhṛt)
+ātmānam(darśayāmāsa) tasmai(suptāya) cakra-bhṛt(ātmānam) darśayāmāsa(darśayāmāsa) tasmai(tasmai) suptāya(suptāya) cakra-bhṛt(cakrabhṛt)
 
 ## mukta-m0-p112-v2796
-end-of-age-sun-color(yuga+anta+āditya+varṇa+ābham) blue-vaidūrya-like(nīla+vaidūrya+sannibham)
+yuga-anta-āditya-varṇa-ābhaṃ(nīla-vaidūrya-sannibham) yuga-anta-āditya-varṇa-ābhaṃ(yugāntādityavarṇābhaṃ) nīla-vaidūrya-sannibham(nīlavaidūryasannibham)
 
 ## mukta-m0-p112-v2797
-by-this-sacrifice(kratunā) by-this-gift(anena) by-this-gift(dānena) by-intellect(dhiyā) by-devotion(bhaktyā) by-praised(praśastayā)
+kratunā-anena(dānena) dhiyā(bhaktyā) praśastayā(ca) te(nṛpa) kratunā-anena(kratunānena) dānena(dānena) dhiyā(dhiyā) bhaktyā(bhaktyā) praśastayā(praśastayā) ca(ca) te(te) nṛpa(nṛpa)
 
 ## mukta-m0-p112-v2798
-which(yat) here(atra) image(pratimām) o-king(rājan) world-worshipped(jagat+pūjyām) eternal(sanātanīm)
+yad-atra(pratimām) rājan(jagat-pūjyām) sanātanīm(yadatra) pratimām(pratimāṃ) rājan(rājan) jagat-pūjyām(jagatpūjyāṃ) sanātanīm(sanātanīm)
 
 ## mukta-m0-p112-v2799
-of-ocean(sāgarasya) of-water(jalasya) at-end(ante) various-trees-adorned(nānā+druma+vibhūṣite)
+sāgarasya(jalasya-ante) nānā-druma-vibhūṣite(sāgarasya) jalasya-ante(jalasyānte) nānā-druma-vibhūṣite(nānādrumavibhūṣite)
 
 ## mukta-m0-p112-v2800
-in-hand(haste) axe(paraśum) having-taken(kṛtvā) wave(ūrmim) that(tam) then(tataḥ) should-go(vrajet)
+haste(paraśu-haste) ca(paraśum) kṛtvā(ūrmintam) tataḥ(vrajet) haste(haste) paraśu-haste(paraśuhaste) ca(ca) paraśum(paraśuṃ) kṛtvā(kṛtvā) ūrmintam(ūrmintaṃ) tataḥ(tato) vrajet(vrajet)
