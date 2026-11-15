@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p124-v3076
-[they-two-may-be](syātām)
+[may-be](syātām)
 
 ## mukta-m0-p124-v3077
 [its+price](tanmūlyaṃ) [by-king](nṛpeṇa) [not](na) [to-be-caused-to-give](dāpayitavyam) [thus](iti) [indicated](sūcayāmāsa)
@@ -23,7 +23,7 @@
 [fruit](phalam) [thus](iti) [Amara](amaraḥ)
 
 ## mukta-m0-p124-v3083
-[for-fruit](phala+arthaṃ) [not](na) [indeed](eva) [one-should-employ](yojayet)
+[for-fruit](phala+arthaṃ) [not](na) [indeed](eva) [should-employ](yojayet)
 
 ## mukta-m0-p124-v3084
 [its+sale](tat+vikrayaṇam) [otherwise](anyathā) [to-do](kartuṃ) [king](nṛpaḥ) [lord-of-men](nara+adhipaḥ) [capable](kṣamaḥ) [becomes](bhavati)
@@ -35,7 +35,7 @@
 [not+one-daughter](na+eka+kanyaḥ) [daughter](sutāṃ) [in-Śaiva+marriage](śaiva+udvāhe) [father+benefiting](pitṛ+hitaḥ) [man](pumān)
 
 ## mukta-m0-p124-v3087
-[whatever](yat) [he-may-perform](vidadhyāt) [representative](pratinidhiḥ) [that+appointer's](tat+niyantuḥ) [act](kṛtiḥ) [would-be](bhavet)
+[what](yat) [should-perform](vidadhyāt) [representative](pratinidhiḥ) [that](tat) [of-the-appointer](niyantuḥ) [act](kṛtiḥ) [would-be](bhavet)
 
 ## mukta-m0-p124-v3088
 [by-appointer+committed+fault](niyoktṛ+kṛta+doṣeṇa) [rule](vidhiḥ) [this](eṣaḥ) [eternal](sanātanaḥ)
@@ -44,13 +44,13 @@
 [whatever](yat+yat) [accepted](aṅgīkṛtam) [by-people](lokaiḥ) [that](tat) [to-be-done](kāryam) [dharma+approved](dharma+sammatam)
 
 ## mukta-m0-p124-v3090
-[because](yataḥ) [to-fathers](pitṛbhyaḥ) [beneficial](hitaḥ) [therefore](ataḥ) [not](na) [one-should-give](dadyāt) [thus](iti) [meaning](arthaḥ)
+[because](yataḥ) [to-fathers](pitṛbhyaḥ) [beneficial](hitaḥ) [therefore](ataḥ) [not](na) [should-give](dadyāt) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p124-v3091
 [rule](vidhiḥ) [injunction](vidhānam)
 
 ## mukta-m0-p124-v3092
-[their+protectors](tat+pātṝn) [protects](pāti) [lord-of-universe](viśva+īśaḥ) [therefore](tasmāt) [world+beneficial](loka+hitaḥ) [he-should-be](bhavet)
+[their+protectors](tat+pātṝn) [protects](pāti) [lord-of-all](viśva+īśaḥ) [therefore](tasmāt) [world+beneficial](loka+hitaḥ) [should-be](bhavet)
 
 ## mukta-m0-p124-v3093
 [accepted](svīkṛtam) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-done](akaraṇīyam) [thus](iti) [indicated](dhvanitam)
@@ -59,13 +59,13 @@
 [three-world+people+mother](tribhuvana+jana+mātā) [Pārvatī](pārvatī) [gave](prādat) [with-devotion](bhaktyā)
 
 ## mukta-m0-p124-v3095
-[of-subtle+most-subtle+being](sūkṣma+atisūkṣma+bhūtāyāḥ) [how](katham) [form+ascertainment](rūpa+nirūpaṇam)
+[of-subtle+most-subtle+being](sūkṣma+atisūkṣma+bhūtāyāḥ) [how](katham) [form+determination](rūpa+nirūpaṇam)
 
 ## mukta-m0-p124-v3096
 [this](etat) [to-me](me) [doubt](saṃśayam) [O-god](deva) [especially](viśeṣāt) [to-remove](chettum) [you-should](arhasi)
 
 ## mukta-m0-p124-v3097
-[firm+mind](dṛḍha+mānasā)
+[firm+minded](dṛḍha+mānasā)
 
 ## mukta-m0-p124-v3098
 [she](sā) [Mahākālī](mahākālī) [this](etat) [this](etam)

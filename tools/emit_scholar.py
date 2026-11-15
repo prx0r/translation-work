@@ -335,11 +335,17 @@ def main() -> int:
     idx_path = out / "index.json"
     # A full rebuild depends only on the current work set, not on any previous
     # index. A single-work update preserves the other indexed works.
-    # Registered-but-untranslatable projections (e.g. ipvv: withheld until
-    # gold-lane proofs) have no canonical T1 rows, so --all would drop them.
+    # Registered-but-untranslatable projections (a work whose songs are all
+    # withheld) have no canonical T1 rows, so --all would drop them.
     # Carry forward any on-disk projection that still hash-verifies instead.
     idx = {} if a.all else (json.loads(idx_path.read_text(encoding='utf-8')) if idx_path.exists() else {})
-    works=sorted({p.parent.parent.name for p in ROOT.glob('*/data/*.t1.json')}) if a.all else [a.work]
+    if a.all:
+        works=sorted({p.parent.parent.name for p in ROOT.glob('*/data/*.t1.json')})
+    else:
+        # An alias registry name resolves to its canonical work so we emit ONE
+        # projection under the canonical id (never a second copy of the data).
+        from workcfg import resolve_alias
+        works=[resolve_alias(a.work)]
     for work in works:
         doc=build(work);p=out/f'{work}.json'
         p.write_text(json.dumps(doc,ensure_ascii=False,indent=1),encoding='utf-8')

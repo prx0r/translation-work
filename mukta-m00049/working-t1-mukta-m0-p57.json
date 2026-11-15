@@ -12,15 +12,19 @@
 },
 {
 "surface": "itareṣām",
-"quick_gloss": "and-of-others"
+"quick_gloss": "+of-others"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "+and"
 },
 {
-"surface": "karma+liṅgam",
-"quick_gloss": "action-mark"
+"surface": "karma",
+"quick_gloss": "action"
+},
+{
+"surface": "liṅgaṃ",
+"quick_gloss": "+mark"
 },
 {
 "surface": "pṛthak",
@@ -40,12 +44,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gṛhamedhinām",
-"quick_gloss": "of-householders"
+"surface": "gṛha",
+"quick_gloss": "of-house"
 },
 {
-"surface": "gṛhasaṅgamavatām",
-"quick_gloss": "of-those-attached-to-household"
+"surface": "medhinām",
+"quick_gloss": "+sacrificers"
+},
+{
+"surface": "gṛha",
+"quick_gloss": "of-house"
+},
+{
+"surface": "saṅgam",
+"quick_gloss": "+attachment"
+},
+{
+"surface": "avatāṃ",
+"quick_gloss": "+possessing"
 },
 {
 "surface": "gṛhasthānām",
@@ -53,11 +69,11 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 },
 {
 "surface": "arthaḥ",
-"quick_gloss": "meaning"
+"quick_gloss": "+meaning"
 }
 ]
 },
@@ -86,12 +102,12 @@
 "quick_gloss": "of-renunciation"
 },
 {
-"surface": "grahaṇam",
-"quick_gloss": "taking"
+"surface": "grahaṇaṃ",
+"quick_gloss": "+acceptance"
 },
 {
 "surface": "kathitam",
-"quick_gloss": "is-stated"
+"quick_gloss": "stated"
 }
 ]
 },
@@ -104,19 +120,19 @@
 "tokens": [
 {
 "surface": "brāhmaṇa",
-"quick_gloss": "of-brahmins"
+"quick_gloss": "of-brahmin"
 },
 {
 "surface": "kṣatriya",
-"quick_gloss": "kshatriyas"
+"quick_gloss": "+kshatriya"
 },
 {
 "surface": "viśām",
-"quick_gloss": "and-vaishyas"
+"quick_gloss": "+vaishyas"
 },
 {
 "surface": "eva",
-"quick_gloss": "only"
+"quick_gloss": "+only"
 },
 {
 "surface": "vā",
@@ -128,7 +144,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 },
 {
 "surface": "viprāṇām",
@@ -136,11 +152,11 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 },
 {
 "surface": "ādi",
-"quick_gloss": "and-so-on"
+"quick_gloss": "+and-so-on"
 }
 ]
 },
@@ -152,11 +168,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gārhasthyam",
+"surface": "gārhasthyaṃ",
 "quick_gloss": "householder-stage"
 },
 {
-"surface": "prathamam",
+"surface": "prathamaṃ",
 "quick_gloss": "first"
 },
 {
@@ -185,7 +201,7 @@
 "quick_gloss": "then"
 },
 {
-"surface": "sarvam",
+"surface": "sarvaṃ",
 "quick_gloss": "all"
 },
 {
@@ -193,8 +209,12 @@
 "quick_gloss": "having-abandoned"
 },
 {
-"surface": "sannyāsa+āśramam",
-"quick_gloss": "renunciation-stage"
+"surface": "sannyāsa",
+"quick_gloss": "renunciation"
+},
+{
+"surface": "āśramam",
+"quick_gloss": "+stage"
 },
 {
 "surface": "ācaret",
@@ -248,10 +268,10 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "+and"
 },
 {
-"surface": "tanayam",
+"surface": "tanayaṃ",
 "quick_gloss": "son"
 },
 {
@@ -263,8 +283,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "avadhūta+āśramam",
-"quick_gloss": "avadhuta-stage"
+"surface": "avadhūta",
+"quick_gloss": "avadhuta"
+},
+{
+"surface": "āśramaṃ",
+"quick_gloss": "+stage"
 },
 {
 "surface": "vrajet",
@@ -293,15 +317,19 @@
 },
 {
 "surface": "etān",
-"quick_gloss": "these"
+"quick_gloss": "+these"
 },
 {
-"surface": "saḥ",
+"surface": "sa",
 "quick_gloss": "he"
 },
 {
-"surface": "mahā+pātakī",
-"quick_gloss": "great-sinner"
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "pātakī",
+"quick_gloss": "+sinner"
 },
 {
 "surface": "bhavet",
@@ -318,11 +346,11 @@
 "tokens": [
 {
 "surface": "kalau",
-"quick_gloss": "in-kali-age"
+"quick_gloss": "in-Kali-age"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "+also"
 },
 {
 "surface": "pṛthak",
@@ -334,11 +362,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "+exists"
 }
 ]
 },
@@ -355,7 +383,7 @@
 },
 {
 "surface": "āśramam",
-"quick_gloss": "stage"
+"quick_gloss": "+stage"
 },
 {
 "surface": "āśrāyet",
@@ -367,7 +395,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 },
 {
 "surface": "gārhasthyam",
@@ -375,11 +403,11 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 },
 {
 "surface": "ādi",
-"quick_gloss": "and-so-on"
+"quick_gloss": "+and-so-on"
 }
 ]
 },
@@ -391,12 +419,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tattva+jñāne",
-"quick_gloss": "in-knowledge-of-reality"
+"surface": "tat",
+"quick_gloss": "in-truth"
 },
 {
-"surface": "brahma+jñāne",
-"quick_gloss": "in-knowledge-of-brahman"
+"surface": "tva",
+"quick_gloss": "+knowledge"
+},
+{
+"surface": "jñāne",
+"quick_gloss": "+jñāne"
+},
+{
+"surface": "brahma",
+"quick_gloss": "in-Brahman"
+},
+{
+"surface": "jñāne",
+"quick_gloss": "+knowledge"
 }
 ]
 },
@@ -416,7 +456,11 @@
 "quick_gloss": "should-renounce"
 },
 {
-"surface": "|| 16",
+"surface": "||",
+"quick_gloss": "end"
+},
+{
+"surface": "16",
 "quick_gloss": "16"
 }
 ]
@@ -429,12 +473,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asantarpya",
-"quick_gloss": "without-satisfying"
+"surface": "a",
+"quick_gloss": "not"
 },
 {
-"surface": "sva+pitr+ādīn",
-"quick_gloss": "own-fathers-and-others"
+"surface": "santarpya",
+"quick_gloss": "+having-satisfied"
+},
+{
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "pitr",
+"quick_gloss": "+fathers"
+},
+{
+"surface": "ādīn",
+"quick_gloss": "+and-others"
 },
 {
 "surface": "yaḥ",
@@ -442,11 +498,15 @@
 },
 {
 "surface": "gacchet",
-"quick_gloss": "would-go"
+"quick_gloss": "goes"
 },
 {
-"surface": "bhikṣuka+āśrame",
-"quick_gloss": "to-beggar-stage"
+"surface": "bhikṣuka",
+"quick_gloss": "to-mendicant"
+},
+{
+"surface": "āśrame",
+"quick_gloss": "+stage"
 }
 ]
 },
@@ -459,7 +519,7 @@
 "tokens": [
 {
 "surface": "śaivena",
-"quick_gloss": "by-shaiva"
+"quick_gloss": "by-Shaiva"
 },
 {
 "surface": "vartmanā",
@@ -470,8 +530,8 @@
 "quick_gloss": "one-should-act"
 },
 {
-"surface": "eṣaḥ",
-"quick_gloss": "this"
+"surface": "eṣa",
+"quick_gloss": "+this"
 },
 {
 "surface": "dharmaḥ",
@@ -479,7 +539,7 @@
 },
 {
 "surface": "kalau",
-"quick_gloss": "in-kali"
+"quick_gloss": "in-Kali"
 },
 {
 "surface": "yuge",
@@ -499,12 +559,20 @@
 "quick_gloss": "of-brahmin"
 },
 {
-"surface": "vipra+bhinnānām",
-"quick_gloss": "of-those-other-than-brahmins"
+"surface": "vipra",
+"quick_gloss": "brahmin"
 },
 {
-"surface": "saṃskāra+ādīni",
-"quick_gloss": "consecrations-and-so-on"
+"surface": "bhinnānāṃ",
+"quick_gloss": "+other-than"
+},
+{
+"surface": "saṃskāra",
+"quick_gloss": "consecration"
+},
+{
+"surface": "ādīni",
+"quick_gloss": "+and-so-on"
 },
 {
 "surface": "me",
@@ -529,7 +597,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 },
 {
 "surface": "kathayāmi",
@@ -537,7 +605,7 @@
 },
 {
 "surface": "ādau",
-"quick_gloss": "first"
+"quick_gloss": "+first"
 },
 {
 "surface": "śṛṇu",
@@ -545,7 +613,7 @@
 },
 {
 "surface": "kaulini",
-"quick_gloss": "O-kaulini"
+"quick_gloss": "O-Kaulini"
 },
 {
 "surface": "tattvataḥ",
@@ -561,8 +629,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yadyat",
+"surface": "yad",
 "quick_gloss": "whatever"
+},
+{
+"surface": "yat",
+"quick_gloss": "+whatever"
 },
 {
 "surface": "karma",
@@ -578,7 +650,7 @@
 },
 {
 "surface": "brahmaṇi",
-"quick_gloss": "in-brahman"
+"quick_gloss": "in-Brahman"
 },
 {
 "surface": "samarpayet",
@@ -599,7 +671,7 @@
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "connection"
+"quick_gloss": "+connection"
 }
 ]
 },
@@ -612,7 +684,7 @@
 "tokens": [
 {
 "surface": "brahmaṇi",
-"quick_gloss": "in-brahman"
+"quick_gloss": "in-Brahman"
 },
 {
 "surface": "niṣṭhā",
@@ -620,15 +692,19 @@
 },
 {
 "surface": "yasya",
-"quick_gloss": "of-whom"
+"quick_gloss": "whose"
 },
 {
-"surface": "saḥ",
+"surface": "sa",
 "quick_gloss": "he"
 },
 {
-"surface": "brahmaniṣṭhaḥ",
-"quick_gloss": "steadfast-in-brahman"
+"surface": "brahma",
+"quick_gloss": "Brahman"
+},
+{
+"surface": "niṣṭhaḥ",
+"quick_gloss": "+steadfast"
 }
 ]
 },
@@ -645,11 +721,11 @@
 },
 {
 "surface": "atithi",
-"quick_gloss": "and-guest"
+"quick_gloss": "+guest"
 },
 {
 "surface": "pūjāsu",
-"quick_gloss": "worships"
+"quick_gloss": "+worships"
 },
 {
 "surface": "gṛhasthaḥ",
@@ -657,7 +733,7 @@
 },
 {
 "surface": "nirataḥ",
-"quick_gloss": "devoted"
+"quick_gloss": "engaged"
 },
 {
 "surface": "bhavet",
@@ -689,8 +765,12 @@
 "quick_gloss": "always"
 },
 {
-"surface": "sarva+prayatnataḥ",
-"quick_gloss": "with-all-effort"
+"surface": "sarva",
+"quick_gloss": "with-all"
+},
+{
+"surface": "prayatnataḥ",
+"quick_gloss": "+effort"
 }
 ]
 },
@@ -715,11 +795,15 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "O-goddess"
+"quick_gloss": "+O-goddess"
 },
 {
-"surface": "para+brahma",
-"quick_gloss": "supreme-brahman"
+"surface": "para",
+"quick_gloss": "supreme"
+},
+{
+"surface": "brahma",
+"quick_gloss": "+Brahman"
 },
 {
 "surface": "prasīdati",
@@ -739,7 +823,7 @@
 "quick_gloss": "of-you-two"
 },
 {
-"surface": "prīṇanam",
+"surface": "prīṇanaṃ",
 "quick_gloss": "pleasing"
 },
 {
@@ -751,16 +835,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "kim",
+"surface": "kiṃ",
 "quick_gloss": "what"
 },
 {
 "surface": "gṛhiṇām",
-"quick_gloss": "for-householders"
+"quick_gloss": "of-householders"
 },
 {
 "surface": "tapaḥ",
-"quick_gloss": "austerity"
+"quick_gloss": "+austerity"
 }
 ]
 }

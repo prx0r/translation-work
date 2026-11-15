@@ -49,7 +49,7 @@
 },
 {
 "surface": "sthaṇḍilam",
-"quick_gloss": "altar"
+"quick_gloss": "altar-ground"
 },
 {
 "surface": "āpūjya",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "uddhṛtya",
-"quick_gloss": "having-extracted"
+"quick_gloss": "having-lifted"
 },
 {
 "surface": "mūlānte",
@@ -131,20 +131,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāma",
-"quick_gloss": "with-vāmā"
-},
-{
-"surface": "iti",
-"quick_gloss": "etc."
-},
-{
-"surface": "ādi",
-"quick_gloss": "beginning"
+"surface": "vāma+iti+ādi",
+"quick_gloss": "with-vāmā-etc."
 },
 {
 "surface": "arddhena",
-"quick_gloss": "with-half-verse"
+"quick_gloss": "half-verse"
 }
 ]
 },
@@ -165,11 +157,11 @@
 },
 {
 "surface": "bhrāmayan",
-"quick_gloss": "rotating"
+"quick_gloss": "causing-to-revolve"
 },
 {
 "surface": "sthaṇḍilopari",
-"quick_gloss": "above-the-altar"
+"quick_gloss": "upon-the-altar-ground"
 }
 ]
 },
@@ -181,12 +173,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmanaḥ",
-"quick_gloss": "toward-oneself"
-},
-{
-"surface": "abhimukhīkṛtya",
-"quick_gloss": "facing"
+"surface": "ātmanaḥ+abhimukhīkṛtya",
+"quick_gloss": "towards-oneself"
 },
 {
 "surface": "yoniyantre",
@@ -397,7 +385,7 @@
 },
 {
 "surface": "amalam",
-"quick_gloss": "spotless"
+"quick_gloss": "stainless"
 },
 {
 "surface": "samiddhaṃ",
@@ -467,7 +455,7 @@
 },
 {
 "surface": "uddīpayet",
-"quick_gloss": "should-ignite"
+"quick_gloss": "should-inflame"
 }
 ]
 },
@@ -484,7 +472,7 @@
 },
 {
 "surface": "vahniprajvālane",
-"quick_gloss": "in-fire-kindling"
+"quick_gloss": "in-kindling-fire"
 },
 {
 "surface": "smṛtaḥ",
@@ -529,7 +517,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ihāvahāvaha",
+"surface": "iha+āvaha+āvaha",
 "quick_gloss": "here-invoke-invoke"
 },
 {
@@ -541,12 +529,8 @@
 "quick_gloss": "having-said"
 },
 {
-"surface": "lohitākṣapada",
-"quick_gloss": "lohitākṣa-word"
-},
-{
-"surface": "antaram",
-"quick_gloss": "ending"
+"surface": "lohitākṣapadāntaram",
+"quick_gloss": "ending-with-lohitākṣa-word"
 }
 ]
 },
@@ -566,12 +550,8 @@
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "hiraṇyādi",
-"quick_gloss": "hiraṇyā-etc."
-},
-{
-"surface": "saptajihvāḥ",
-"quick_gloss": "seven-tongues"
+"surface": "hiraṇyādi+saptajihvāḥ",
+"quick_gloss": "hiraṇyā-etc.-seven-tongues"
 },
 {
 "surface": "prapūjayet",
@@ -624,7 +604,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jātavedaprabhṛtayaḥ",
+"surface": "jātaveda+prabhṛtayaḥ",
 "quick_gloss": "jātaveda-etc."
 },
 {
@@ -649,12 +629,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "padmādi",
-"quick_gloss": "padma-etc."
-},
-{
-"surface": "aṣṭanidhīn",
-"quick_gloss": "eight-treasures"
+"surface": "padma+ādi+aṣṭanidhīn",
+"quick_gloss": "padma-etc.-eight-treasures"
 },
 {
 "surface": "iṣṭvā",
@@ -665,12 +641,8 @@
 "quick_gloss": "one-should-worship"
 },
 {
-"surface": "indrādi",
-"quick_gloss": "indra-etc."
-},
-{
-"surface": "dikpatīn",
-"quick_gloss": "guardians-of-directions"
+"surface": "indra+ādi+dikpatīn",
+"quick_gloss": "indra-etc.-guardians-of-directions"
 }
 ]
 },
@@ -686,12 +658,8 @@
 "quick_gloss": "of-fire"
 },
 {
-"surface": "hiraṇyādi",
-"quick_gloss": "hiraṇyā-etc."
-},
-{
-"surface": "saptajihvāḥ",
-"quick_gloss": "seven-tongues"
+"surface": "hiraṇyādi+saptajihvāḥ",
+"quick_gloss": "hiraṇyā-etc.-seven-tongues"
 },
 {
 "surface": "gandhapuṣpādibhiḥ",
@@ -724,7 +692,7 @@
 },
 {
 "surface": "yajet",
-"quick_gloss": "one-should-worship"
+"quick_gloss": "should-worship"
 }
 ]
 }

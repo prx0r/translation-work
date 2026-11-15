@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[by-that-name](tannāmnā) [humans](mānavāḥ) [all](sarve) [bow-down](praṇamanti) [with-reverence](sasambhramāḥ)
+[by-that+name](tannāmnā) [humans](mānavāḥ) [all](sarve) [bow-down](praṇamanti) [with-reverence](sasambhramāḥ)
 
 ## mukta-m0-p53-v1302
-[primordial](ādyā) + [kālī](kālī) + [form](svarūpa) + [named](ākhyaṃ) [hundred](śata) + [name](nāma) [proclaimed](prakīrtitam)
+[Ādyā+Kālī+form+named](ādyākālīsvarūpākhyaṃ) [hundred+names](śatanāma) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p53-v1303
-[with-preliminary-rite](puraskriyā) + [endowed](anvitaṃ) [hymn](stotraṃ) [all](sarva) + [desired](abhīṣṭa) + [fruit](phala) + [granting](pradam)
+[with-preliminary-rites+endowed](puraskriyānvitaṃ) [hymn](stotraṃ) [all+desired+fruit+giving](sarvābhīṣṭaphalapradam)
 
 ## mukta-m0-p53-v1304
-[may-recite](paṭhed) + [or](vā) [may-cause-to-recite](pāṭhayed) + [or](vā) + [also](api) [may-hear](śṛṇuyāt) + [or](ca) + [may-cause-to-hear](śrāvayed) + [also](api)
+[may-recite+or](paṭhedvā) [may-cause-to-recite+or+also](pāṭhayedvāpi) [may-hear+or](śṛṇuyācchrāvayedapi) [may-cause-to-hear+also](śrāvayedapi)
 
 ## mukta-m0-p53-v1305
-[all](sarva) + [sin](pāpa) + [freed-from](vinirmukto) [with-brahman](brahma) + [union](sāyujyam) + [attains](āpnuyāt)
+[all+sins+completely-freed](sarvapāpavinirmukto) [Brahman+union](brahmasāyujyam) [attains](āpnuyāt)
 
 ## mukta-m0-p53-v1306
-[with-reverence](sasambhramāḥ) [with-fear](sabhayāḥ) [with-respect](sādarā) [or](vā) || [50](50)
+[with-reverence](sasambhramāḥ) [with-fear](sabhayāḥ) [with-respect](sādarā) [or](vā)
 
 ## mukta-m0-p53-v1307
-[of-the-primordial](ādyāyāḥ) [of-śrī-kālikā](śrīkālikāyāḥ) [armor](kavacaṃ) [hear](śṛṇu) [now](sāmpratam)
+[of-Ādyā](ādyāyāḥ) [of-Śrī+Kālikā](śrīkālikāyāḥ) [armor](kavacaṃ) [hear](śṛṇu) [now](sāmpratam)
 
 ## mukta-m0-p53-v1308
-[meter](chando) + [anuṣṭubh](anuṣṭub) + [deity](devatā) [and](ca) [primordial](ādyā) [kālī](kālī) [proclaimed](prakīrtitā)
+[meter](chando) [anuṣṭubh](anuṣṭub) [deity](devatā) [and](ca) [Ādyā](ādyā) [Kālī](kālī) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p53-v1309
-[krīṃ](krī/) [peg](kīlakaṃ) [in-desire](kāmya) + [accomplishment](siddhau) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
+[krīṃ](krī/) [peg](kīlakaṃ) [in-desire+accomplishment](kāmyasiddhau) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p53-v1310
-[heart](hṛdayaṃ) [krīṃ](krī/) [supreme](parā) [power](śaktiḥ) [may-protect](pāyāt) [throat](kaṇṭhaṃ) [supreme-of-supreme](parātparā)
+[heart](hṛdayaṃ) [krīṃ](krī/) [supreme](parā) [power](śaktiḥ) [may-protect](pāyāt) [throat](kaṇṭhaṃ) [supreme-of-supremes](parātparā)
 
 ## mukta-m0-p53-v1311
-[nose](ghrāṇaṃ) [may-protect](pātu) [great-illusion](mahāmāyā) [tongue](rasanāṃ) [all-auspicious](sarvamaṅgalā)
+[nose](ghrāṇaṃ) [may-protect](pātu) [great-illusion](mahāmāyā) [tongue](rasanāṃ) [all+auspicious](sarvamaṅgalā)
 
 ## mukta-m0-p53-v1312
-[lips](oṣṭha) + [and-lower-lip](adharau) [forbearance](kṣamā) [may-protect](rakṣet) [chin](cibukaṃ) [and](ca) + [beautifully-smiling](aruhāsinī)
+[lips+and-lower-lip](oṣṭhādharau) [Kṣamā](kṣamā) [may-protect](rakṣet) [chin](cibukaṃ) [beautiful+smiling-one](cāruhāsinī)
 
 ## mukta-m0-p53-v1313
-[two](dvau) [arms](bāhū) [arm-giver](bāhudā) [may-protect](rakṣet) [hands](karau) [liberation](kaivalya) + [giver](dāyinī)
+[two](dvau) [arms](bāhū) [arm+giving](bāhudā) [may-protect](rakṣet) [hands](karau) [liberation+giving](kaivalyadāyinī)
 
 ## mukta-m0-p53-v1314
-[sides](pārśve) [may-protect](pāyāt) + [aparṇā](aparṇā) [me](me) [waist](kaṭiṃ) [me](me) [tortoise](kamaṭha) + [seated](āsanā)
+[sides](pārśve) [may-protect](pāyād) [Aparṇā](aparṇā) [me](me) [waist](kaṭiṃ) [me](me) [tortoise+seated](kamaṭhāsanā)
 
 ## mukta-m0-p53-v1315
-[śrī-sadāśiva](śrīsadāśiva) [said](uvāca) [thus-spoken](kathitam) + [and-so-forth](ityādi) || [55](55)
+[Śrī+Sadāśiva](śrīsadāśiva) [said](uvāca) [thus-spoken+and-so-forth](kathitamityādi)
 
 ## mukta-m0-p53-v1316
-[thighs](ūrū) [may-protect](rakṣatu) [kalyāṇī](kalyāṇī) [feet](pādau) [me](me) [may-protect](pātu) [pārvatī](pārvatī)
+[thighs](ūrū) [may-protect](rakṣatu) [Kalyāṇī](kalyāṇī) [feet](pādau) [me](me) [may-protect](pātu) [Pārvatī](pārvatī)
 
 ## mukta-m0-p53-v1317
-[protection](rakṣā) + [without](ahīnaṃ) + [indeed](tu) [which](yat) [place](sthānaṃ) [omitted](varjitaṃ) [by-armor](kavacena) [and](ca)
+[protection+without](rakṣāhīnaṃtu) [which](yat) [place](sthānaṃ) [omitted](varjitaṃ) [by-armor](kavacena) [and](ca)
 
 ## mukta-m0-p53-v1318
-[thus](iti) [to-you](te) [spoken](kathitaṃ) [divine](divyaṃ) [three-world](trailokya) + [victory](vijaya) + [named](abhidham)
+[thus](iti) [to-you](te) [told](kathitaṃ) [divine](divyaṃ) [three-worlds+conquest+named](trailokyavijayābhidham)
 
 ## mukta-m0-p53-v1319
-[armor](kavacaṃ) [of-kālikā-devī](kālikādevyā) [of-the-primordial](ādyāyāḥ) [supremely](parama) + [wondrous](adbhutam)
+[armor](kavacaṃ) [of-Kālikā+goddess](kālikādevyā) [of-Ādyā](ādyāyāḥ) [supremely+wondrous](paramādbhutam)
 
 ## mukta-m0-p53-v1320
-[mantra](mantra) + [accomplishment](siddhir) + [may-be](bhaved) + [quickly](āśu) [servants](kiṅkarāḥ) [minor](kṣudra) + [powers](siddhayaḥ)
+[mantra+accomplishment](mantrasiddhir) [may-be](bhaved) [quickly](āśu) [servants](kiṅkarāḥ) [minor+powers](kṣudrasiddhayaḥ)
 
 ## mukta-m0-p53-v1321
-[knowledge](vidyā) + [seeker](arthī) [obtains](labhate) [knowledge](vidyāṃ) [desirer](kāmī) [desires](kāmān) + [obtains](avāpnuyāt)
+[knowledge+seeker](vidyārthī) [obtains](labhate) [knowledge](vidyāṃ) [desirer](kāmī) [desires](kāmān) [obtains](avāpnuyāt)
 
 ## mukta-m0-p53-v1322
-[preliminary-rites](puraścaraṇa) + [accomplished](sampannaṃ) [as-stated](yathokta) + [fruit](phala) + [giving](daṃ) [may-be](bhavet)
+[preliminary-rites+accomplished](puraścaraṇasampannaṃ) [as-stated+fruit+giving](yathoktaphaladaṃ) [may-be](bhavet)
 
 ## mukta-m0-p53-v1323
-[on-birch-bark](bhūrje) [having-written](vilikhya) [amulet](guṭikāṃ) [in-gold](svarṇa) + [placed](sthāṃ) [may-wear](dhārayed) [if](yadi)
+[on-birch-bark](bhūrje) [having-written](vilikhya) [amulet](guṭikāṃ) [in-gold+placed](svarṇasthāṃ) [should-wear](dhārayed) [if](yadi)
 
 ## mukta-m0-p53-v1324
-[thus](iti) + [and-so-forth](ādibhiḥ) || [67](67)
+[thus+and-so-forth](ityādibhiḥ)
 
 ## mukta-m0-p53-v1325
-[of-the-armor](varmaṇaḥ) [of-the-protective-covering](kavacasya) || [69](69)
+[of-armor](varmaṇaḥ) [of-protective-armor](kavacasya)

@@ -47,8 +47,15 @@ OUT_OF_SCOPE = {
 
 
 def registry_works() -> list[str]:
+    """Registry work names, resolved through STATUS `alias_of` and deduped.
+
+    An alias row (ipvv-vivrti-vimarsini -> ipvv) must verify the canonical
+    work's songs, not silently verify zero. Dedupe so a registry that carries
+    both names still yields one entry.
+    """
+    from workcfg import resolve_alias
     reg = json.loads((ROOT / "REGISTRY.json").read_text(encoding="utf-8"))
-    return sorted({w["work"] for w in reg["works"] if w.get("work")})
+    return sorted({resolve_alias(w["work"]) for w in reg["works"] if w.get("work")})
 
 
 def stored_gate(path: Path) -> str | None:

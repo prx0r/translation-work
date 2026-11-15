@@ -48,24 +48,30 @@ def projection_source_verses(work: str) -> int:
 
 
 def row(work: str) -> dict:
-    audited = emit_scholar._source_audited(work)
+    # An alias registry name (ipvv-vivrti-vimarsini -> ipvv) resolves to the
+    # canonical work so the scorecard reports the real source/projection, not
+    # a false "unaudited". No second projection or ledger is created.
+    from workcfg import resolve_alias
+    canonical = resolve_alias(work)
+    audited = emit_scholar._source_audited(canonical)
     try:
         sys.path.insert(0, str(ROOT / "tools"))
         import workcfg
-        cfg = workcfg.work_config(work)
+        cfg = workcfg.work_config(canonical)
         src = bool(cfg and cfg.get("source") and Path(cfg["source"]).is_file())
     except Exception:
         src = False
-    ps = projection_source_verses(work)
+    ps = projection_source_verses(canonical)
     return {
         "work": work,
+        "alias_of": canonical if canonical != work else None,
         "audited": audited,
         "source": src,
         "proj_src": ps,
-        "traces": _count(SVREAD / "data" / "traces", f"{work}-*.json"),
-        "verify": _count(SVREAD / "data" / "verify", f"{work}-*"),
-        "claims": len([p for p in (SVREAD / "claim" / work).glob("*") if p.is_dir()])
-        if (SVREAD / "claim" / work).is_dir() else 0,
+        "traces": _count(SVREAD / "data" / "traces", f"{canonical}-*.json"),
+        "verify": _count(SVREAD / "data" / "verify", f"{canonical}-*"),
+        "claims": len([p for p in (SVREAD / "claim" / canonical).glob("*") if p.is_dir()])
+        if (SVREAD / "claim" / canonical).is_dir() else 0,
         "served": ps > 0,
     }
 

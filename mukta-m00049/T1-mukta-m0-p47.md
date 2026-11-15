@@ -5,22 +5,22 @@
 [vāmā](vāmā) [jyeṣṭhā](jyeṣṭhā) [and](tathā) [raudrī](raudrī) [ambikā](ambikā) [thus](iti) [in-order](yathākramāt)
 
 ## mukta-m0-p47-v1152
-[thus](iti) [altar](sthaṇḍilam) [having-worshipped](āpūjya) [in-its-middle](tanmadhye) [root-form-goddess](mūlarūpiṇīm)
+[thus](iti) [altar-ground](sthaṇḍilam) [having-worshipped](āpūjya) [in-its-middle](tanmadhye) [root-form-goddess](mūlarūpiṇīm)
 
 ## mukta-m0-p47-v1153
-[fire](vahnim) [having-extracted](uddhṛtya) [at-end-of-root-mantra](mūlānte) [kūrca+weapon-mantra](kūrcamastraṃ) [uttering](samuccaran)
+[fire](vahnim) [having-lifted](uddhṛtya) [at-end-of-root-mantra](mūlānte) [kūrca+weapon-mantra](kūrcamastraṃ) [uttering](samuccaran)
 
 ## mukta-m0-p47-v1154
 [with-weapon-mantra](astreṇa) [fire](vahniṃ) [having-gazed-at](saṃvīkṣya) [with-kūrca-alone](kūrcena+eva) [one-should-enclose](avaguṇṭhayet)
 
 ## mukta-m0-p47-v1155
-[with-vāmā](vāma) [etc.](iti) [beginning](ādi) [with-half-verse](arddhena)
+[with-vāmā-etc.](vāma+iti+ādi) [half-verse](arddhena)
 
 ## mukta-m0-p47-v1156
-[in-clockwise-order](prādakṣiṇyakrameṇa) [fire](agniṃ) [rotating](bhrāmayan) [above-the-altar](sthaṇḍilopari)
+[in-clockwise-order](prādakṣiṇyakrameṇa) [fire](agniṃ) [causing-to-revolve](bhrāmayan) [upon-the-altar-ground](sthaṇḍilopari)
 
 ## mukta-m0-p47-v1157
-[toward-oneself](ātmanaḥ) [facing](abhimukhīkṛtya) [in-the-yoni-diagram](yoniyantre) [one-should-place](niyojayet)
+[towards-oneself](ātmanaḥ+abhimukhīkṛtya) [in-the-yoni-diagram](yoniyantre) [one-should-place](niyojayet)
 
 ## mukta-m0-p47-v1158
 [to-consciousness](caitanyāya) [obeisance](namo) [of-fire](vahneḥ) [consciousness](caitanyaṃ) [one-should-worship](paripūjayet)
@@ -41,37 +41,37 @@
 [then](tataḥ) [with-folded-hands](kṛtāñjaliḥ) [having-become](bhūtvā) [one-should-perform](prakuryāt) [fire-salutation](agnivandanam)
 
 ## mukta-m0-p47-v1164
-[golden-colored](suvarṇavarṇam) [spotless](amalam) [well-kindled](samiddhaṃ) [facing-all-directions](sarvatomukham)
+[golden-colored](suvarṇavarṇam) [stainless](amalam) [well-kindled](samiddhaṃ) [facing-all-directions](sarvatomukham)
 
 ## mukta-m0-p47-v1165
 [with-desired-name](sveṣṭanāmnā) [fire-name](vahnināma) [having-made](kṛtvā) [worship](abhyarcanam) [one-should-perform](ācaret)
 
 ## mukta-m0-p47-v1166
-[with-mantra](mantreṇa) [mantra-knower](mantravit) [practitioner](sādhakaḥ) [fire](vahniṃ) [should-kindle](prajvālayet) [should-ignite](uddīpayet)
+[with-mantra](mantreṇa) [mantra-knower](mantravit) [practitioner](sādhakaḥ) [fire](vahniṃ) [should-kindle](prajvālayet) [should-inflame](uddīpayet)
 
 ## mukta-m0-p47-v1167
-[mantra](manuḥ) [in-fire-kindling](vahniprajvālane) [is-remembered](smṛtaḥ)
+[mantra](manuḥ) [in-kindling-fire](vahniprajvālane) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p47-v1168
 [fire-salutation-mantra](agnivandanamantram) [he-states](āha) [kindled-fire](agniṃ+prajvalitaṃ) [I-salute](vande) [thus-etc.](iti+āti)
 
 ## mukta-m0-p47-v1169
-[here-invoke-invoke](ihāvahāvaha) [thus](iti) [having-said](uktvā) [lohitākṣa-word](lohitākṣapada) [ending](antaram)
+[here-invoke-invoke](iha+āvaha+āvaha) [thus](iti) [having-said](uktvā) [ending-with-lohitākṣa-word](lohitākṣapadāntaram)
 
 ## mukta-m0-p47-v1170
-[thus](iti) [having-worshipped](abhyarcya) [hiraṇyā-etc.](hiraṇyādi) [seven-tongues](saptajihvāḥ) [one-should-worship](prapūjayet)
+[thus](iti) [having-worshipped](abhyarcya) [hiraṇyā-etc.-seven-tongues](hiraṇyādi+saptajihvāḥ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p47-v1171
 [six-limbs](ṣaḍaṅgaṃ) [one-should-worship](pūjayet) [of-fire](vahneḥ) [then](tataḥ) [forms](mūrtīḥ) [one-should-worship](yajet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p47-v1172
-[jātaveda-etc.](jātavedaprabhṛtayaḥ) [forms](mūrtayaḥ) [eight](aṣṭau) [are-declared](prakīrtitāḥ)
+[jātaveda-etc.](jātaveda+prabhṛtayaḥ) [forms](mūrtayaḥ) [eight](aṣṭau) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p47-v1173
-[padma-etc.](padmādi) [eight-treasures](aṣṭanidhīn) [having-worshipped](iṣṭvā) [one-should-worship](yajet) [indra-etc.](indrādi) [guardians-of-directions](dikpatīn)
+[padma-etc.-eight-treasures](padma+ādi+aṣṭanidhīn) [having-worshipped](iṣṭvā) [one-should-worship](yajet) [indra-etc.-guardians-of-directions](indra+ādi+dikpatīn)
 
 ## mukta-m0-p47-v1174
-[of-fire](vahneḥ) [hiraṇyā-etc.](hiraṇyādi) [seven-tongues](saptajihvāḥ) [with-fragrance-flowers-etc.](gandhapuṣpādibhiḥ) [one-should-worship](pūjayet)
+[of-fire](vahneḥ) [hiraṇyā-etc.-seven-tongues](hiraṇyādi+saptajihvāḥ) [with-fragrance-flowers-etc.](gandhapuṣpādibhiḥ) [one-should-worship](pūjayet)
 
 ## mukta-m0-p47-v1175
-[of-fire](vahneḥ) [forms](mūrtīḥ) [wise-one](sudhīḥ) [one-should-worship](yajet)
+[of-fire](vahneḥ) [forms](mūrtīḥ) [wise-one](sudhīḥ) [should-worship](yajet)

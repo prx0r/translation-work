@@ -516,6 +516,31 @@ WORKS = {
 }
 
 
+def resolve_alias(work: str) -> str:
+    """Follow `<work>/STATUS.json` `alias_of` to the canonical work directory.
+
+    Aliases exist where a registry/DB work name differs from the local
+    directory (e.g. `ipvv-vivrti-vimarsini` -> `ipvv`). One canonical path:
+    every consumer that reads a registry name resolves it here instead of
+    hardcoding the mapping. Fail-closed — only a *recorded* `alias_of` whose
+    target directory exists resolves; anything else returns `work` unchanged.
+    Never invents an alias and never creates a second copy of the data.
+    """
+    if not work:
+        return work
+    status = ROOT / work / "STATUS.json"
+    if not status.is_file():
+        return work
+    try:
+        target = json.loads(status.read_text(encoding="utf-8")).get("alias_of")
+    except (OSError, ValueError):
+        return work
+    if (isinstance(target, str) and target and target != work
+            and (ROOT / target).is_dir()):
+        return target
+    return work
+
+
 def work_config(work: str) -> dict | None:
     """Resolve existing registrations or a pinned source-intake manifest."""
     if work in WORKS and WORKS[work].get("kind") != "segments":
