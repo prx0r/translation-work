@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1435,
- "question": "What ritual teaching has now been fully communicated to the listener?",
+ "question": "What great danger has arrived from unlimited powers?",
  "premises": [
-  "The speaker addresses the blessed one",
-  "The worship of the first enclosure has been told"
+  "powers are unlimited",
+  "great danger has arrived",
+  "the danger is present"
  ],
- "inference": "The teaching of the first enclosure worship is complete",
- "uncertainties": [],
- "plain_english": "Thus, O blessed one, the worship of the first enclosure has been told to you."
+ "inference": "The verse states that great danger from unlimited powers has arrived.",
+ "uncertainties": [
+  "compound segmentation"
+ ],
+ "plain_english": "Great danger from unlimited powers has arrived."
 }

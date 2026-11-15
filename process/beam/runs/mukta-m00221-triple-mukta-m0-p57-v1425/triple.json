@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to the warriors just named",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "karaṅkapramukhāḥ",
+     "gloss": "headed-by-karanka",
+     "grounds": "compound of karaṅka and pramukha, 'led by Karanka'",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "sarpiṇyā",
+     "gloss": "serpent-woman",
+     "grounds": "instrumental singular feminine of sarpiṇī",
+     "morph": "noun.ins.sg.f"
+    },
+    {
+     "surface": "amoghayā",
+     "gloss": "unfailing",
+     "grounds": "adjective modifying sarpiṇyā in instrumental singular feminine",
+     "morph": "adj.ins.sg.f"
+    },
+    {
+     "surface": "yutāḥ",
+     "gloss": "endowed",
+     "grounds": "past participle of yu, 'joined or endowed'",
+     "morph": "part.nom.pl.m"
+    }
+   ],
+   "question": "Are Karanka and the others endowed with the unfailing serpent-woman?",
+   "premises": [
+    "Karanka leads the warriors.",
+    "They are endowed with serpent-woman.",
+    "The serpent-woman is unfailing."
+   ],
+   "inference": "The named warriors possess the unfailing serpent-woman.",
+   "uncertainties": [
+    "Exact identity and role of sarpiṇī remain unclear."
+   ],
+   "plain_english": "These, headed by Karanka, are endowed with the unfailing serpent-woman."
+  }
+ ]
+}

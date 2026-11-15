@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb of manner indicating the preceding reflection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicintya",
+     "gloss": "having-thought",
+     "grounds": "absolutive expressing completed reflection",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "in-mind",
+     "grounds": "instrumental of manas as means of reflection",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "namaskṛtya",
+     "gloss": "having-saluted",
+     "grounds": "absolutive expressing completed salutation",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "parāmbikām",
+     "gloss": "supreme-mother",
+     "grounds": "accusative object of namaskṛtya",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What action follows the devotee's reflection on Tripurā's grace?",
+   "premises": [
+    "reflection precedes salutation",
+    "salutation is directed to supreme mother",
+    "mind is instrument of reflection"
+   ],
+   "inference": "The verse depicts mental reflection followed by salutation to Parāmbikā.",
+   "uncertainties": [
+    "No explicit doctrinal claim beyond narrative action"
+   ],
+   "plain_english": "Thus, having thought in mind, he saluted the supreme mother."
+  }
+ ]
+}

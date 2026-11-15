@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p51",
  "verse": 1266,
- "question": "How should the construction of the second ground level proceed?",
+ "question": "What happens next after the command, when they go together to the great queen?",
  "premises": [
-  "A second ground level is to be constructed",
-  "The method follows the previous pattern",
-  "The same procedure must be applied"
+  "they go together with her",
+  "they bow to the great queen"
  ],
- "inference": "The second ground level should be made in the same way.",
- "uncertainties": [],
- "plain_english": "The second ground level should be made in the same way."
+ "inference": "The party proceeds to the great queen and pays homage.",
+ "uncertainties": [
+  "whether ca coordinates another unexpressed action"
+ ],
+ "plain_english": "Then, having gone together with her, they bowed to the great queen."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p62",
  "verse": 1537,
- "question": "What offering should be given to the supreme power at this stage?",
+ "question": "How are eight enemies made lifeless?",
  "premises": [
-  "The verb dadyāt prescribes giving an offering.",
-  "The offering is betel together with camphor.",
-  "The recipient is the supreme power."
+  "nispranan means lifeless",
+  "ashtau means eight",
+  "karna-akrishtaih ghanush-cyutaih means arrows drawn and released from bow"
  ],
- "inference": "Betel mixed with camphor should be offered to the supreme power.",
- "uncertainties": [],
- "plain_english": "One should offer betel together with camphor to the supreme power."
+ "inference": "Eight enemies are killed by bow-released arrows.",
+ "uncertainties": [
+  "compound internal parsing"
+ ],
+ "plain_english": "He made eight lifeless with arrows drawn and released from the bow."
 }

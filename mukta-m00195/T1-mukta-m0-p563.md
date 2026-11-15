@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p563-v14051
-[similarity-of-form](sārūpyam) [quarter+less](pāda+hīnaṃ) [should-be](syāt) [union](sāyujyam) [complete](pūrṇam) [is-called](ucyate)
-
+[gloss](sārūpyampādahīnaṃ) [gloss](syātsāyujyampūrṇamucyate)
 ## mukta-m0-p563-v14052
-[with-restraints](yamaiḥ) [and](ca) [with-observances](niyamaiḥ) [endowed](yuktaḥ) [complete+dharma](pūrṇa+dharmaḥ) [indeed](tu) [alone](kevalaḥ)
-
+[gloss](yamaiśca) [gloss](niyamairyuktaḥ) [gloss](pūrṇadharmastu) [gloss](kevalaḥ)
 ## mukta-m0-p563-v14053
-[by-own-dharma](sva+dharmeṇa) [acquired](ārjjitaṃ) [wealth](dravyaṃ) [alone](kevalaṃ) [there](tatra) [means](sādhanam)
-
+[gloss](svadharmeṇārjjitaṃ) [gloss](dravyaṃ) [gloss](kevalaṃ) [gloss](tatra) [gloss](sādhanam)
 ## mukta-m0-p563-v14054
-[by-that](tena) [time+form-ness](kāla+svarūpatvaṃ) [that](tat) [liberation](kaivalyam) [is-proclaimed](prakīrttitam)
-
+[gloss](tena) [gloss](kālasvarūpatvaṃ) [gloss](tatkaivalyamprakīrttitam)
 ## mukta-m0-p563-v14055
-[by-upper](ūrddhvena) [by-right](dakṣiṇena) [by-one](eka) [lamp+and-so-on](dīpa+ādi) [by-sequence](krama+taḥ) [all](akhilāḥ)
-
+[gloss](ūrddhvena) [gloss](dakṣiṇenaikadīpādikramatokhilāḥ)
 ## mukta-m0-p563-v14056
-[there](tatra) [mixed-caste](saṃkara) [śūdra+and-others](śūdra+ādyāḥ) [ending-with-brāhmaṇa](vipra+antāḥ) [and](ca) [qualified](adhikāriṇaḥ)
-
+[gloss](tatra) [gloss](saṃkaraśūdrādyā) [gloss](viprāntāścādhikāriṇaḥ)
 ## mukta-m0-p563-v14057
-[low+service](hīna+sevā) [indeed](tu) [of-superiors](uttamānāṃ) [donkey+riding](rāsabha+ārohaṇaṃ) [as](yathā)
-
+[gloss](hīnasevā) [gloss](tūttamānāṃ) [gloss](rāsabhārohaṇaṃ) [gloss](yathā)
 ## mukta-m0-p563-v14058
-[who](yaḥ) [of-Sudarśana-disc](sudarśana+cakrasya) [incarnation](avatāraḥ) [on-earth+surface](kṣiti+maṇḍale)
-
+[gloss](yaḥ) [gloss](sudarśanacakrasyāvatāraḥ) [gloss](kṣitimaṇḍale)
 ## mukta-m0-p563-v14059
-[vedhā](vedhā) [earth+moon+peace](dhara+indu+śānti) [endowed-with](āḍhyaḥ) [sleep+arghīśa+fire+dot](nidrā+arghīśa+agni+bindu) [joined-with](yuk)
-
+[gloss](vedhā) [gloss](dharenduśāntyāḍhyo) [gloss](nidrārghīśāgnibinduyuk)
 ## mukta-m0-p563-v14060
-[repha](rephaḥ) [dot+seat](bindu+āsanaḥ) [ananta](anantaḥ) [fire-borns](vahni+jau) [in-ears](karṇa+saṃsthitau)
-
+[gloss](repho) [gloss](bindvāsanonanto) [gloss](vahnijau) [gloss](karṇasaṃsthitau)
 ## mukta-m0-p563-v14061
-[less-by-nineteen](ūna+viṃśati) [syllables](varṇaḥ) [whose](yan) [beginning-with-tārā](tārā+ādiḥ) [nail+syllable](nakha+varṇakaḥ)
-
+[gloss](ūnaviṃśativarṇoyantārādirnakhavarṇakaḥ)
 ## mukta-m0-p563-v14062
-[Kārttavīrya+Arjuna](kārttavīryya+arjunaḥ) [god](devaḥ) [seed](bījaṃ) [power](śaktiḥ) [dhruva](dhruvaḥ) [and](ca) [heart](hṛt)
-
+[gloss](kārttavīryyārjuno) [gloss](devo) [gloss](bījaṃ) [gloss](śaktidhruvaśca) [gloss](hṛt)
 ## mukta-m0-p563-v14063
-[ūṃhaṃ](ūṃhaṃ) [head](śikhā) [declared](samākhyātā) [kroṃśrīṃ](kroṃśrīṃ) [armor](kavacam) [spoken](īritam)
-
+[gloss](ūṃhaṃ) [gloss](śikhā) [gloss](samākhyātā) [gloss](kroṃśrīṃ) [gloss](kavacamīritam)
 ## mukta-m0-p563-v14064
-[in-heart](hṛdaye) [in-belly](jaṭhare) [in-navel](nābhau) [in-hips](jaghane) [in-private+place](guhya+deśake)
-
+[gloss](hṛdaye) [gloss](jaṭhare) [gloss](nābhau) [gloss](jaghane) [gloss](guhyadeśake)
 ## mukta-m0-p563-v14065
-[one-should-place](vinyaset) [seed+ten](bīja+daśakam) [praṇava+pair](praṇava+dvaya) [situated-in-middle](madhyagam)
-
+[gloss](vinyasedbījadaśakampraṇavadvayamadhyagam)
 ## mukta-m0-p563-v14066
-[of-eyebrows](bhruvoḥ) [of-ears](śrutyoḥ) [likewise](tathā) [indeed](eva) [of-eyes](akṣṇoḥ) [of-nose](nasi) [in-mouth](vakttre) [in-throat](gale) [on-shoulders](aṃsayoḥ)
-
+[gloss](p.) [gloss](811)bhruvoḥ [gloss](śrutyostathaivākṣṇornasi) [gloss](vakttre) [gloss](galeṃsayoḥ)
 ## mukta-m0-p563-v14067
-[for-all+desired+accomplishment](sarva+iṣṭa+siddhaye) [one-should-meditate](dhyāyet) [on-Kārttavīrya+Arjuna+lord](kārttavīryya+arjuna+īśvaram)
-
+[gloss](sarveṣṭasiddhaye) [gloss](dhyāyetkārttavīryyārjjuneśvaram)
 ## mukta-m0-p563-v14068
-[to-be-meditated](dhyeyaḥ) [red+garment+turbaned](rakta+aṃśuka+uṣṇīṣī) [with-various+ornaments](nānā+kalpa) [shining](virājitaḥ)
-
+[gloss](dhyeyo) [gloss](raktāṃśukoṣṇīṣī) [gloss](nānākalpavirājitaḥ)
 ## mukta-m0-p563-v14069
-[by-dhaṭṭaṃkāra+sounds](dadhaṭṭaṃkāra+śabdaiḥ) [and](ca) [terrified+all+evil-people](trāsita+akhila+durjanaḥ)
-
+[gloss](dadhaṭṭaṃkāraśabdaiśca) [gloss](trāsitākhiladurjanaḥ)
 ## mukta-m0-p563-v14070
-[by-king+crown](bhūpāla+mukuṭa) [rubbed+lotus-feet](āghṛṣṭa+pāda+padmaḥ) [lotus+eyed](abja+locanaḥ)
-
+[gloss](bhūpālamukuṭāghṛṣṭapādapadmobjalocanaḥ)
 ## mukta-m0-p563-v14071
-[in-Vaiṣṇava](vaiṣṇave) [indeed](tu) [one-should-worship](yajet) [on-platform](pīṭhe) [lotus](padmaṃ) [ten+petaled](daśa+dalaṃ) [one-should-draw](caret)
-
+[gloss](vaiṣṇave) [gloss](tu) [gloss](yajetpīṭhe) [gloss](padmaṃ) [gloss](daśadalaṃ) [gloss](caret)
 ## mukta-m0-p563-v14072
-[in-fire+Īśa+Asura+Vāyu](agni+īśa+asura+vāyavya) [in-corners](koṇeṣu) [heart+and-so-on](hṛdaya+ādikāḥ)
-
+[gloss](agnīśāsuravāyavyakoṇeṣu) [gloss](hṛdayādikāḥ)
 ## mukta-m0-p563-v14073
-[sword+shield+holding](khaḍga+carmma+dharāḥ) [to-be-meditated](dhyeyāḥ) [moon+colored](candra+ābhāḥ) [limb+forms](aṅga+mūrttayaḥ)
-
+[gloss](khaḍgacarmmadharā) [gloss](dhyeyāścandrābhā) [gloss](aṅgamūrttayaḥ)
 ## mukta-m0-p563-v14074
-[four+armed](catur+bhujāḥ) [shining](rocamānāḥ) [all](sarve) [red+eyed](rakta+vilocanāḥ)
-
+[gloss](caturbhujā) [gloss](rocamonāḥ) [gloss](sarve) [gloss](raktavilocanāḥ)
 ## mukta-m0-p563-v14075
-[thief+pride+crusher](caura+mada+vibhañjanaḥ) [plague+pride+crusher](mārī+mada+vibhañjanaḥ)
+[gloss](cauramadavibhañjano) [gloss](mārīmadavibhañjanaḥ)

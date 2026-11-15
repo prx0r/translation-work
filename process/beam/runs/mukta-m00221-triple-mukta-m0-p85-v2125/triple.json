@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "gajā'nīkasvāminī",
+     "gloss": "elephant-army-mistress",
+     "grounds": "fused form gajā'nīka+svāminī; feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "anaphoric feminine nominative singular",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "tatpaścāt",
+     "gloss": "thereafter",
+     "grounds": "fused temporal compound tat+paścāt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampadīśvarī",
+     "gloss": "wealth-lady",
+     "grounds": "fused compound sampad+īśvarī; feminine nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who becomes the mistress of the elephant army and then the wealth-lady?",
+   "premises": [
+    "The subject is feminine nominative.",
+    "She is mistress of elephant army.",
+    "Thereafter she is wealth-lady."
+   ],
+   "inference": "The verse identifies the goddess as elephant-army mistress then wealth-lady.",
+   "uncertainties": [
+    "Exact mythic referent is not specified in this excerpt."
+   ],
+   "plain_english": "She, mistress of the elephant army, thereafter is the wealth-lady."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1675,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karomi",
+     "gloss": "i-do",
+     "grounds": "root kṛ, first person singular active present",
+     "morph": "1.sg.act-pres (kṛ)"
+    },
+    {
+     "surface": "nāsīnme",
+     "gloss": "not-was-for-me",
+     "grounds": "fused form of na āsīt me; negated imperfect of as with first-person dative pronoun",
+     "morph": "3.sg.act-impf (as) + 1.sg.dat (me)"
+    },
+    {
+     "surface": "mṛtyuryuddheṣu",
+     "gloss": "death-in-battles",
+     "grounds": "fused sandhi form of mṛtyuḥ yuddheṣu",
+     "morph": "m.nom.sg (mṛtyu) + loc.pl.n (yuddha)"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action remains for one who has no death in battle?",
+   "premises": [
+    "Death in battle is absent for me.",
+    "The speaker asks what to do.",
+    "The absence is total in every way."
+   ],
+   "inference": "The verse expresses bewilderment after invulnerability in battle.",
+   "uncertainties": [
+    "The fused forms nāsīnme and mṛtyuryuddheṣu are segmented by inferred sandhi."
+   ],
+   "plain_english": "Then what do I do? There was no death for me in battles in any way."
+  }
+ ]
+}

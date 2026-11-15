@@ -1,0 +1,31 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "citraśastrāstranicayavyāptā",
+     "gloss": "wonderful-weapons-missiles-heap-pervaded",
+     "grounds": "compound adjective describing the sky's great belly as pervaded by a heap of wonderful weapons and missiles",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "ākāśamahodaram",
+     "gloss": "sky-great-belly",
+     "grounds": "compound noun naming the great belly of the sky",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "What fills the great belly of the sky in this scene?",
+   "premises": [
+    "The sky's great belly is pervaded by a heap of wonderful weapons and missiles."
+   ],
+   "inference": "The battlefield sky is saturated with divine armaments.",
+   "uncertainties": [
+    "The exact grammatical case of the adjective is unclear from the two-token excerpt."
+   ],
+   "plain_english": "The great belly of the sky is pervaded by a heap of wonderful weapons and missiles."
+  }
+ ]
+}

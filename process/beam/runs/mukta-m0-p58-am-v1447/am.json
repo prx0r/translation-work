@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1447,
- "question": "Which wheel and petal structure form the next ritual location?",
+ "question": "Who is the delicate-limbed queen named Lalita?",
  "premises": [
-  "The location is the all-agitating wheel",
-  "It is expanded with eight petals"
+  "Lalita is named",
+  "she is queen",
+  "she is delicate-limbed"
  ],
- "inference": "The next ritual location is the all-agitating wheel expanded into eight petals",
- "uncertainties": [],
- "plain_english": "In the all-agitating wheel, expanded with eight petals."
+ "inference": "The verse identifies Lalita as the delicate-limbed queen.",
+ "uncertainties": [
+  "compound segmentation"
+ ],
+ "plain_english": "She, indeed, is Lalita, the delicate-limbed queen."
 }

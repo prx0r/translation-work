@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[by-viṣṇu](viṣṇunā) [slain](nihato) [in-battle](yuddhe) [unrivaled](apratimo) [in-strength+and-prowess](bala+prauruṣe)
+[by-vishnu](viṣṇunā) [slain](nihato) [in-battle](yuddhe'pratimo) [in-strength](balaprauruṣe)
 
 ## mukta-m0-p27-v652
-[you](to) [by-this-very](anayaiva) [supreme](parayā) [by-great-demon-armies](mahāsura+balair) [surrounded](vṛtaḥ)
+[to-him](to'nayaiva) [by-supreme](parayā) [with-great-asura-forces](mahāsurabalairvṛtaḥ)
 
 ## mukta-m0-p27-v653
-[not](na) [what](kiṃ) [you-remember](smarasi) [of-gaurī](gauryā) [your](te) [in-battle](yuddhe) [former-defeat](pūrva+parābhavam)
+[not](na) [do-you-remember](kiṃ smarasi) [of-gauri](gauryā) [your](te) [in-battle](yuddhe) [former-defeat](pūrvaparābhavam)
 
 ## mukta-m0-p27-v654
-[is-served](sevyate) [who](yā) [by-many-crores](aneka+koṭi) [gaurī-foremost](gaurī+pramukha) [by-powers](śaktibhiḥ)
+[served](sevyate) [by-many-crore-gauri-led-powers](yā'nekakoṭigaurīpramukhaśaktibhiḥ)
 
 ## mukta-m0-p27-v655
-[whose](yasya) [by-grace-alone](prasādāt+eva) [you](tvaṃ) [consider-yourself](manyase) [of-the-strong](balināṃ) [best](varam)
+[by-whose-grace](yasya prasādādeva) [you](tvaṃ) [think](manyase) [best-of-strong](balināṃ varam)
 
 ## mukta-m0-p27-v656
-[therefore-enough](tat+alam) [of-own-self+all-wealth](sva+ātma+sarva+artha) [destruction](nāśana) [intentness](abhiniveśataḥ)
+[enough](tadalaṃ) [from-self-destruction](svā'tmasarvārthanāśanā'bhiniveśataḥ)
 
 ## mukta-m0-p27-v657
-[I](ahaṃ) [you](tvāṃ) [there](tatra) [will-lead](neṣyāmi) [of-the-supreme-śakti](parāśakteḥ) [to-the-presence](pada+antikam)
+[i](ahaṃ) [you](tvāṃ) [there](tatra) [will-lead](neṣyāmi) [to-feet-of-supreme-power](parāśakteḥ padāntikam)
 
 ## mukta-m0-p27-v658
-[kingdom](rājyaṃ) [rule](prasādhi) [in-the-netherworld](pātāle) [heaven](divaṃ) [let-rule](śāsatu) [vāsava](vāsavaḥ)
+[rule](rājyaṃ) [prosper](prasādhi) [in-patala](pātāle) [heaven](divaṃ) [let-rule](śāsatu) [indra](vāsavaḥ)
 
 ## mukta-m0-p27-v659
-[not](na) [you-will-do](kariṣyasi) [my-advice](mat+proktaṃ) [when](yadā) [go](yahi) [you-will-perish](vinaṅkṣyasi)
+[not](na) [will-do](kariṣyasi) [my-spoken](matproktaṃ) [when](yadā) [go](yahi) [you-will-perish](vinaṅkṣyasi)
 
 ## mukta-m0-p27-v660
-[with-intellect](dhiyā) [sāttvika](sāttvikayā) [and-this](ca+etat) [consider](vimṛśa) [self-protection](sva+ātma+rakṣaṇam)
+[with-sattvic-intellect](dhiyā sāttvikayā) [this](caitadvimṛśa) [reflect](svātmarakṣaṇam)
 
 ## mukta-m0-p27-v661
-[with-hand](hastena) [having-taken](ādāya) [the-divine-sage](devarṣiṃ) [he-ascended](prārohat) [palace-summit](saudha+śekharam)
+[by-hand-taking](hastenā'dāya) [divine-sage](devarṣiṃ) [ascended](prārohat) [palace-roof](saudhaśekharam)
 
 ## mukta-m0-p27-v662
-[in-window](vātāyane) [jeweled](maṇimaye) [he-entered](viveśa) [on-soft-seat](mṛdu+viṣṭare)
+[through-window](vātāyane) [jeweled](maṇimaye) [entered](viveśa) [soft-seat](mṛduviṣṭare)
 
 ## mukta-m0-p27-v663
-[divine-sage](devarṣi) [in-me](mayi) [anger](roṣaṃ) [you](tvaṃ) [not](na) [to-harbor](śiṣye) [ought](kartum+arhasi)
+[divine-sage](devarṣamayi) [anger](roṣaṃ) [you](tvaṃ) [not](na) [should-make](śiṣye kartumarhasi)
 
 ## mukta-m0-p27-v664
-[whatever](yat) [you-say](bravīṣi) [all](akhilaṃ) [that](tat) [by-you](te) [not](na) [otherwise](anyathā) [known](viditaṃ) [by-me](mayā)
+[what-you-say](yadbravīṣyakhilaṃ) [all](tatte) [not](nā'nyathā) [known](viditaṃ) [by-me](mayā)
 
 ## mukta-m0-p27-v665
-[you-know](jānāsi) [all](sarvaṃ) [my](me) [conduct](vṛttaṃ) [in-sport](līlayā) [thus](evaṃ) [you-speak](bravīṣi) [to-me](mām)
+[you-know](jānāsi) [all](sarvaṃ) [my](me) [conduct](vṛttaṃ) [playfully](līlayaivaṃ) [you-speak](bravīṣi) [to-me](mām)
 
 ## mukta-m0-p27-v666
-[once](kadācit) [she](sā) [for-propitiation](toṣaṇāya) [of-tripurā](tripurāyā) [great-austerity](mahat+tapaḥ)
+[sometimes](kadācit) [she](sā) [for-pleasing](toṣaṇāya) [tripura](tripurāyā) [great-austerity](mahattapaḥ)
 
 ## mukta-m0-p27-v667
-[once](kadācit) [kinnarī](kinnarī) [some](kācit) [with-youth](tāruṇya) [nectar-filled](amṛta+pūritā)
+[sometimes](kadācit) [a-kinnari](kinnarī kācittāruṇyā'mṛtapūritā)
 
 ## mukta-m0-p27-v668
-[by-stream](srotas) [being-carried-away](abhiruhyamānā) [she](sā) [savior](trātāraṃ) [not](na) [obtained](adhigacchata)
+[by-stream-carried](sroto'bhiruhyamānā) [she](sā) [rescuer](trātāraṃ) [not-found](nā'dhigacchata)
 
 ## mukta-m0-p27-v669
-[her](tāṃ) [on-back](pṛṣṭhataḥ) [having-lifted](samāropya) [to-bank](taṭam) [having-climbed](āruhya) [quickly](sattvaram)
+[her](tāṃ) [on-back](pṛṣṭhataḥ) [having-mounted](samāropya) [bank](taṭamāruhya) [quickly](sattvaram)
 
 ## mukta-m0-p27-v670
-[by-touch-of-her-body](tat+aṅga+sparśanāt) [and](ca) [I](ahaṃ) [of-beauty](lāvaṇyasya) [from-beholding](samīkṣaṇāt)
+[by-touch-of-her-limbs](tadaṅgasparśanāścāhaṃ) [of-beauty](lāvaṇyasya) [by-seeing](samīkṣaṇāt)
 
 ## mukta-m0-p27-v671
-[O-fair-one](kalyāṇi) [you](tvaṃ) [rescued](rakṣitā) [are](asi) [by-me](mayā) [from-death's-mouth](mṛtyoḥ+mukhāt) [as-it-were](iva)
+[auspicious-one](kalyāṇi) [you](tvaṃ) [protected](rakṣitā'si) [by-me](mayā) [from-death](mṛtyormukhādivā)
 
 ## mukta-m0-p27-v672
-[for-a-deed-done](kṛte) [return](pratikṛtīṃ) [one-should-do](kuryāt) [capable](śaktaḥ) [with-whole-self](sarva+ātmanā) [oneself](svayam)
+[for-deed](kṛte) [return](pratikṛtīṃ) [would-do](kuryācchaktaḥ) [with-all-self](sarvātmanā) [himself](svayam)
 
 ## mukta-m0-p27-v673
-[therefore-me](tat+māṃ) [by-fire-of-desire](kāma+agninā) [possessed](āviṣṭam) [distressed](ārtaṃ) [to-you](te) [come-for-refuge](śaraṇa+āgatam)
+[therefore-me](tanmāṃ) [by-love-fire](kāmāgninā'viṣṭamārtaṃ) [to-you](te) [refuge-come](śaraṇā'gatam)
 
 ## mukta-m0-p27-v674
-[having-heard](śrutvā) [my-improper-speech](mat+viparīta+uktiṃ) [virtuous](sādhvī) [she](sā) [kinnarī](kinnarī) [words](vacaḥ)
+[hearing](śrutvā) [my-opposite-speech](madviparītoktiṃ) [virtuous](sādhvī) [she](sā) [kinnari](kinnarī) [speech](vacaḥ)
 
 ## mukta-m0-p27-v675
-[not](mā) [loss-of-reason](buddhi+bhraṃśam) [go-to](āgaccha) [kinnarī](kinnarī) [devoted-to-husband](pati+devatā)
+[not](mā) [mind-confusion](buddhibhraṃśamāgaccha) [kinnari](kinnarī) [husband-devoted](patidevatā)

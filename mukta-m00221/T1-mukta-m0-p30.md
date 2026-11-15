@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[I-wait](pratīkṣāmi) [when](kadā) [having-come](āgatya) [he-will-do](vidhiṣyati) [and](ca) [to-me](mām) [thus](iti)
+[wait](pratīkṣāmi) [when](kadā) [having-come](agatya) [will-do](vidhiṣyati) [and](ca) [me](mām) [thus](iti)
 
 ## mukta-m0-p30-v727
-[in-that-world](tat+loke) [I-dwell](nivasāmi) [quickly](āśu) [thus](iti) [my](me) [hastens](tvarte) [mind](manaḥ)
+[that-world](talloke) [dwell](nivasāmi) [quickly](āśu) [thus](iti) [my](me) [in-heart](tvarte) [mind](manaḥ)
 
 ## mukta-m0-p30-v728
-[thus](iti) [having-heard](śrutvā) [Bhaṇḍa's-speech](bhaṇḍa+vacaḥ) [Nārada](nāradaḥ) [joyful-minded](hṛṣṭa+mānasaḥ)
+[thus](iti) [having-heard](śrutvā) [bhaṇḍa's-speech](bhaṇḍavaco) [nārada](nārado) [glad-minded](hṛṣṭamānasaḥ)
 
 ## mukta-m0-p30-v729
-[went](jagāma) [to-desired](abhimataṃ) [place](sthānaṃ) [Nārada](nāradaḥ) [best-of-sages](muni+sattamaḥ)
+[went](jagāma) [desired](abhimataṃ) [place](sthānaṃ) [nārada](nārado) [best-sage](munisattamaḥ)
 
 ## mukta-m0-p30-v730
-[by-force-of-compassion](kṛpā+vaśāt) [description-of-attaining-the-Goddess's-abode](devī+dhāma+prāpti+varṇanaṃ) [named](nāma) [fifty-ninth](ekona+ṣaṣṭitamaḥ) [chapter](adhyāyaḥ)
+[by-grace](kṛpāvaśāt) [devī-abode](devīdhāma) [arrival-description](prāptivarṇanaṃ) [named](nāma) [sixty-first](ekonaṣaṣṭitamo) [chapter](adhyāyaḥ)
 
 ## mukta-m0-p30-v731
-[pleased](prasannaḥ) [spoke](prāha) [delighted](saṃhṛṣṭaḥ) [from-describing-his-own-experience](sva+anubhūta+nirūpaṇāt)
+[pleased](prasannaḥ) [said](prāha) [delighted](saṃhṛṣtaḥ) [from-self-experience-description](svānubhūtanirūpaṇāt)
 
 ## mukta-m0-p30-v732
-[mental](mānasaṃ) [external](bāhyam) [also](api) [and](ca) [my](mama) [was](āsīt) [former](purātanam)
+[mind](mānasaṃ) [external](bāhyam) [also](api) [ca](ca) [my](mama) [was](āsīt) [which](yat) [ancient](purātanam)
 
 ## mukta-m0-p30-v733
-[for-a-long-time](cira+kālena) [disappeared](antaritam) [also](api) [today](adya) [indeed](eva) [by-your-speech](tava+uktitaḥ)
+[long-time](cirakālena) [separated](antaritam) [even](api) [today](adya) [eva](eva) [by-your-speech](tavoktitaḥ)
 
 ## mukta-m0-p30-v734
-[which](yat) [by-supreme-compassion](para+kṛpayā) [all](sarvaṃ) [known](viditaṃ) [external-and-internal](bāhya+āntaram)
+[which](yat) [by-supreme-grace](parākṛpayā) [all](sarvaṃ) [known](viditaṃ) [external](bhāhyam) [internal](āntaram)
 
 ## mukta-m0-p30-v735
-[past](atītam) [internal](āntaraṃ) [external](bāhyaṃ) [when-telling](kathate) [known](viditaṃ) [indeed](hi) [became](abhūt)
+[past](atītam) [internal](āntaraṃ) [external](bhāhyaṃ) [is-spoken](kathate) [known](viditaṃ) [indeed](hi) [became](abhūt)
 
 ## mukta-m0-p30-v736
-[having-heard](śrutvā) [thus](itthaṃ) [Nārada's-speech](nārada+vacaḥ) [having-smiled](prahasya) [Hāritāyana](hāritāyanaḥ)
+[having-heard](śrutvā) [thus](itthaṃ) [nārada's-speech](nāradavacaḥ) [laughing](prahasya) [hāritāyana](hāritāyanaḥ)
 
 ## mukta-m0-p30-v737
-[here](atra) [the-explanation](upapattiḥ) [in-another](apare) [section](khaṇḍe) [properly](samyak) [will-be](bhaviṣyati)
+[here](atra) [reasoning](upapattiḥ) [other](apare) [section](khaṇḍe) [properly](samyak) [will-be](bhaviṣyati)
 
 ## mukta-m0-p30-v738
-[by-boon](vareṇa) [of-Brahmā](brahmaṇaḥ) [all](sarva) [external](bāhyaṃ) [or](vā) [also](api) [internal](āntaraṃ) [likewise](tathā)
+[by-boon](vareṇa) [of-brahmā](brahmaṇaḥ) [all-external](sarvabāhyaṃ) [or](vā) [also](api) [internal](āntaraṃ) [thus](tathā)
 
 ## mukta-m0-p30-v739
-[I-remember](saṃsmarāmi) [unerringly](avidagdham) [indeed](nu) [by-Śrī-Devī's](śrī+devyāḥ) [supreme-grace](su+prasādataḥ)
+[remember](saṃsmarāmi) [clever](avidagdhaṃ) [nu](nu) [of-śrī-devī](śrīdevyāḥ) [by-good-grace](suprasādataḥ)
 
 ## mukta-m0-p30-v740
-[listen](śṛṇu) [O-Bhārgava](bhārgava) [that](tat) [afterwards](paścāt) [for-the-pitcher-born](kumbha+janmane) [of-Hāyāsya](hāyā'syaḥ)
+[hear](śṛṇu) [bhārgava](bhārgava) [that-after](tatpaścāt) [dhāyā](dhāyā) [asya](asyaḥ) [kumbha-born](kumbhajanmane)
 
 ## mukta-m0-p30-v741
-[listen](śṛṇu) [O-pitcher-born](kumbhodbhava) [O-sage](mune) [born-from-sacrificial-fire](homa+agni+janitāṃ) [auspicious-one](śivām)
+[hear](śṛṇu) [kumbha-born](kumbhodbhava) [sage](mune) [from-homa-fire-born](homāgnijanitāṃ) [śivā](śivām)
 
 ## mukta-m0-p30-v742
-[having-seen](dṛṣṭvā) [Indra-and-others](śakra+mukhāḥ) [gods](devāḥ) [thought](cintayāmāsuḥ) [within](āntare)
+[having-seen](dṛṣṭvā) [indra-and-others](śakramukhā) [gods](devāḥ) [thought](cintayāmāsuḥ) [among-themselves](āntare)
 
 ## mukta-m0-p30-v743
-[like-a-creeper](latā+iva) [without-support](ālamba+rahitā) [without-husband](bhartṛ+hīnā) [not](na) [shines](śaobhate)
+[like-creeper](lateva) [without-support](alambarahitā) [without-husband](bhartṛhīnā) [not](na) [shines](śobhate)
 
 ## mukta-m0-p30-v744
-[they-meditated-on](dadhyuḥ) [Kāmeśvara](kāmeśvaraṃ) [while](yāvat) [then](tāvat) [he](saḥ) [also](api) [came-forth](vinirgataḥ)
+[meditated](dadhyuḥ) [kāmeśvara](kāmeśvaraṃ) [until](yāvat) [then](tāvat) [he](saḥ) [also](api) [emerged](vinirgataḥ)
 
 ## mukta-m0-p30-v745
-[having-seen](dṛṣṭvā) [suitable](anurūpaḥ) [of-the-Goddess](devyāḥ) [to-them](te) [husband](patiḥ) [of-her](asyāḥ) [excellent](varaḥ) [deemed](mataḥ)
+[having-seen](dṛṣṭvā) [suitable](anurūpa) [of-devī](devyāḥ) [te](te) [husband](patiḥ) [asya](asyā) [varo](varo) [mataḥ](mataḥ)
 
 ## mukta-m0-p30-v746
-[having-understood-that](tat+vijñāya) [Brahmā-and-others](vidhi+mukhāḥ) [having-prayed](prārthya) [to-the-Goddess](devīṃ) [supreme](parāt+parām)
+[that-knowing](tadvijñāya) [brahmā-and-others](vidhimukhāḥ) [prayed](prārthya) [devī](devīṃ) [supreme](parātparām)
 
 ## mukta-m0-p30-v747
-[then](atha) [by-the-gods](devaiḥ) [prayed-to](prārthitā) [she](sā) [Lalitā](lalitā) [supreme-Goddess](parama+īśvarī)
+[then](atha) [by-gods](devaiḥ) [prayed](prārthitā) [she](sā) [lalitā](lalitā) [supreme-goddess](parameśvarī)
 
 ## mukta-m0-p30-v748
-[all](samasta) [hosts-of-attendant-deities](āvaraṇa+aughān) [and](ca) [by-remembrance](smaraṇāt) [created](samavāsṛjat)
+[all](samastā) [covering-floods](varaṇaughāṃś) [ca](ca) [by-remembrance](smaraṇāt) [samava](samavā) [created](asṛjat)
 
 ## mukta-m0-p30-v749
-[having-bowed](praṇamya) [like-a-staff](daṇḍavat) [to-the-Goddess](devīṃ) [having-praised](stutvā) [with-various-hymns](vividha+saṃstavaiḥ)
+[having-bowed](praṇamya) [prostrate](daṇḍavad) [devī](devīṃ) [having-praised](stutvā) [various-hymns](vividhasaṃstavaiḥ)
 
 ## mukta-m0-p30-v750
-[O-Goddess](devi) [I](aham) [have-arrived](samanuprāptaḥ) [of-Bhaṇḍa-daitya](bhaṇḍa+daityasya) [in-the-presence](sannidhe)
+[devī](devyā) [I](ahaṃ) [have-arrived](samanuprāptaḥ) [bhaṇḍa-daitya's](bhaṇḍadaityasya) [presence](sannidhe)

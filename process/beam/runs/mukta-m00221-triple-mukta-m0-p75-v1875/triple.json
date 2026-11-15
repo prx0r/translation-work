@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "seeing",
+     "grounds": "past participle used adverbially",
+     "morph": "indecl."
+    },
+    {
+     "surface": "channāṃ",
+     "gloss": "covered",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śastragaṇairvimatāḥ",
+     "gloss": "by-weapon-groups-opposed",
+     "grounds": "compound: śastra-gaṇa + vimatāḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaktyo",
+     "gloss": "powers",
+     "grounds": "plural nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "abhavat",
+     "gloss": "became",
+     "grounds": "root bhū",
+     "morph": "3.sg.act-indic"
+    }
+   ],
+   "question": "What happens to the powers when they see the goddess covered by weapon groups?",
+   "premises": [
+    "powers see covered goddess",
+    "weapon groups cover her",
+    "powers become opposed"
+   ],
+   "inference": "the powers become opposed upon seeing the covered goddess",
+   "uncertainties": [
+    "exact sense of vimatāḥ in this context"
+   ],
+   "plain_english": "Seeing her covered by weapon groups, the powers became opposed."
+  }
+ ]
+}

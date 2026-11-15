@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "daṇḍanāthe",
+     "gloss": "to-daṇḍanātha",
+     "grounds": "locative destination",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vayaṃ",
+     "gloss": "we",
+     "grounds": "first-person plural subject",
+     "morph": "pron.nom.pl"
+    },
+    {
+     "surface": "yātāḥ",
+     "gloss": "have-gone",
+     "grounds": "perfect participle of yā",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "sampaddevyā",
+     "gloss": "prosperity-goddess",
+     "grounds": "instrumental companion",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "sahā'suraiḥ",
+     "gloss": "with-demons",
+     "grounds": "saha fused with asuraiḥ",
+     "morph": "indecl.+m.instr.pl"
+    }
+   ],
+   "question": "Which lord do the yoginīs reach together with the prosperity-goddess and demons?",
+   "premises": [
+    "Yoginīs have gone to Daṇḍanātha.",
+    "They are accompanied by Sampaddevī.",
+    "They are accompanied by asuras."
+   ],
+   "inference": "The verse records arrival at Daṇḍanātha with divine and demonic companions.",
+   "uncertainties": [
+    "Exact sandhi of sahā'suraiḥ unresolved."
+   ],
+   "plain_english": "We have gone to Daṇḍanātha with the prosperity-goddess and the demons."
+  }
+ ]
+}

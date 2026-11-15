@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p62",
  "verse": 1544,
- "question": "Which deity and which seed-syllable are identified in this ritual instruction?",
+ "question": "Which shakti of Vārāhī is described as supreme and chief in function?",
  "premises": [
-  "Ratneśvarī is named as the deity.",
-  "Māyā is named as the seed.",
-  "The seed is reaffirmed as bījakam."
+  "varahya means of Varahi",
+  "vrtti-mukhya means chief function",
+  "jambhini is named",
+  "shaktih uttama means best shakti"
  ],
- "inference": "The deity is Ratneśvarī and her seed-syllable is māyā.",
- "uncertainties": [],
- "plain_english": "The deity is Ratneśvarī, and the seed-syllable is māyā."
+ "inference": "Jambhinī is the supreme shakti of Vārāhī.",
+ "uncertainties": [
+  "duplicate uttama"
+ ],
+ "plain_english": "Of Vārāhī, the chief-function shakti named Jambhinī is supreme."
 }

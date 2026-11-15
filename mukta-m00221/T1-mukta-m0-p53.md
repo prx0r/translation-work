@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[thus+having-said](ityukvā) [at-side](parśvataḥ) [looked-at](praikṣat) [squint-eyed](kuṭilākṣaṃ) [army+commander](camūpatim)
+[thus-saying](ityukvā) [from-side](parśvataḥ) [looked](praikṣat) [crooked-eyed](kuṭilākṣaṃ) [army-commander](camūpatim)
 
 ## mukta-m0-p53-v1302
-[O-prince](yuvarāja) [why+thus](kimevaṃ) [you](tvaṃ) [speak](bravīṣi) [in-me](mayi) [living](jīvati)
+[young-prince](yuvarāja) [why-thus](kimevaṃ) [you](tvaṃ) [speak](bravīṣi) [in-me](mayi) [living](jīvati)
 
 ## mukta-m0-p53-v1303
-[army+army+commanders](senāsenādhipaiḥ) [together-with](sākaṃ) [having-gone](gatvā'haṃ) [I](ahaṃ) [will-accomplish](sādhayāmi) [her](tām)
+[with-army-commanders](senāsenādhipaiḥ) [together](sākaṃ) [going](gatvā) [I](ahaṃ) [accomplish](sādhayāmi) [her](tām)
 
 ## mukta-m0-p53-v1304
-[thus+having-said](ityuktvā) [having-bowed](praṇipatyaitānniryayau) [to-these](etān) [went-out](niryayau) [from-city](nagarādbahiḥ) [outside](bahiḥ)
+[thus-saying](ityuktvā) [bowing](praṇipatyaitān) [went-out](niryayau) [from-city](nagarādbahiḥ)
 
 ## mukta-m0-p53-v1305
-[then](athā'gatya) [having-come](āgatya) [Durmada+named](durmadā'khyovāhinīṣo) [army+lord](vāhinīṣo) [great+powerful](mahābalaḥ)
+[then](athāgatya) [named-durmada](durmadākhyo) [army-chief](vāhinīṣo) [great-powerful](mahābalaḥ)
 
 ## mukta-m0-p53-v1306
-[spoke](prāhā'haṅkāraśailasthaḥ) [pride+mountain+standing](ahaṅkāraśailasthaḥ) [having-bowed](praṇamyā'tmacamūpatim) [own+army+commander](ātmacamūpatim)
+[said](prāhāhaṅkāraśailasthaḥ) [bowing](praṇamyātmacamūpatim)
 
 ## mukta-m0-p53-v1307
-[Avala+conquest+by](avalāvijayenaiva) [indeed](eva) [march](prayāṇaṃ) [of-you](vaḥ) [well+approved](susammatam)
+[by-avalā-vijaya](avalāvijayenaiva) [departure](prayāṇaṃ) [your](vaḥ) [well-approved](susammatam)
 
 ## mukta-m0-p53-v1308
-[moment+mere+from](muhūrtamātrādyadi) [if](yadi) [her](tāṃ) [not+shall-bring](nā'neṣyāmi) [then+by-you](tatastvayā)
+[for-a-moment](muhūrtamātrādyadi) [her](tāṃ) [not-bring](nāneṣyāmi) [then](tatastvayā)
 
 ## mukta-m0-p53-v1309
-[causing-to-sound](vādayan) [victory+march+part+instruments](jaitrayātrā'ṅgavāditrāṇi) [again+again](muhurmuhaḥ)
+[sounding](vādayan) [victory-march](jaitrayātrāṅgavāditrāṇi) [again-and-again](muhurmuhaḥ)
 
 ## mukta-m0-p53-v1310
-[demon+army+commencement+tumult+great+sound](daityasenāsamārabhmakolāhalamaharavam)
+[demon-army](daityasenāsamārabhmakolāhalamaharavam)
 
 ## mukta-m0-p53-v1311
-[having-gone](gatvā) [glorious+mother](śrīmātaraṃ) [having-bowed](natvā) [minister+woman](mantriṇī) [Daṇḍinī+also](daṇḍinīmapi)
+[going](gatvā) [auspicious-mother](śrīmātaraṃ) [bowing](natvā) [minister](mantriṇī) [commander](daṇḍinīmapi)
 
 ## mukta-m0-p53-v1312
-[went](yayatuḥ) [Śakti+armies+with](śaktisenābhirasaṅkhyābhiḥ) [innumerable+with](asaṅkhyābhiḥ) [accompanied](samāyute)
+[went](yayatuḥ) [with-shakti-armies](śaktisenābhirasaṅkhyābhiḥ) [equipped](samāyute)
 
 ## mukta-m0-p53-v1313
-[battle+tumult+narration](raṇakolāhalā'khyānaṃ) [snow+mountain+like](prāleyā'dririvonnatam) [lofty](unnatam)
+[battle-tumult](raṇakolāhalākhyānaṃ) [snow-mountain](prāleyādririvonnatam)
 
 ## mukta-m0-p53-v1314
-[youth+ocean+wave](tāruṇyāmbhodhilaharī) [beauty+flood+ocean](lāvaṇyaughasamudrikā)
+[youth-ocean-wave](tāruṇyāmbhodhilaharī) [beauty-flood-ocean](lāvaṇyaughasamudrikā)
 
 ## mukta-m0-p53-v1315
-[demon+ocean+of](daityāmbudheḥ) [for-drying-up](śoṣaṇāya) [arrows](śarān) [sun+ray+like](bhānukaropamān)
+[for-drying](śoṣaṇāya) [demon-ocean](daityāmbudheḥ) [arrows](śarān) [sun-ray-like](bhānukaropamān)
 
 ## mukta-m0-p53-v1316
-[innumerable](asaṅkhyā) [elephant+mounted](vāraṇā'ruḍhā) [Śaktis+and+also](śaktyaścā'pi) [such](tādṛśāḥ)
+[countless](asaṅkhyā) [elephant-mounted](vāraṇāruḍhā) [shaktis](śaktyaścāpi) [such](tādṛśāḥ)
 
 ## mukta-m0-p53-v1317
-[each](pratyekaṃ) [such](tādṛśī) [Śakti](śaktirgarjane) [in-roaring](garjane) [three+goad+holding](tryaṅkuśagrahā)
+[each](pratyekaṃ) [such](tādṛśī) [shakti](śaktirgarjane) [three-goad](tryaṅkuśagrahā)
 
 ## mukta-m0-p53-v1318
-[in-some](kasmiṃścidekā) [one](ekā) [mounted](saṃruḍhā'nekāścā'nyeṣu) [many+and+in-others](anekāścā'nyeṣu) [situated](saṃsthitāḥ)
+[somewhere](kasmiṃścidekā) [one](saṃruḍhānekāścānyeṣu) [stood](saṃsthitāḥ)
 
 ## mukta-m0-p53-v1319
-[devouring+as-if](grasantīva) [demon+army](daityasenāṃ) [having-pervaded](vyāpya) [earth](bhūmimuṣā'yayau) [at-dawn+came](uṣā'yayau)
+[devouring](grasantīva) [demon-army](daityasenāṃ) [pervading](vyāpya) [earth](bhūmimuṣāyayau)
 
 ## mukta-m0-p53-v1320
-[demon+army](daityasenāṃ) [approached](samāseduste) [they](te) [in-battles](yuddheṣvanivartinaḥ) [not-turning-back](anivartinaḥ)
+[demon-army](daityasenāṃ) [approached](samāseduste) [in-battles](yuddheṣvanivartinaḥ)
 
 ## mukta-m0-p53-v1321
-[began](pravṛttaḥ) [weapon+fall+also](śastrapāto'pi) [life+stealing+great+sound](prāṇacoramahāravaḥ)
+[began](pravṛttaḥ) [weapon-fall](śastrapāto'pi) [life-thief-great-roar](prāṇacoramahāravaḥ)
 
 ## mukta-m0-p53-v1322
-[vulture+crow+heron+owl+eagle+peacock+resorted-to](gṛghrakākakaṅkaghūkabhāsakekyadhisaṃśrayāḥ)
+[vulture-crow-kite-owl-hawk](gṛghrakākakaṅkaghūkabhāsakekyadhisaṃśrayāḥ)
 
 ## mukta-m0-p53-v1323
-[fierce+spear+sword+discus+javelin+holders](caṇḍaśūlakhaḍgacakrabhindipāladharāḥ) [others](pare)
+[fierce-trident-sword-discus](caṇḍaśūlakhaḍgacakrabhindipāladharāḥ) [others](pare)
 
 ## mukta-m0-p53-v1324
-[thus+kind+with](evaṃvidhairdaityagaṇaiḥ) [demon+troops+with](daityagaṇaiḥ) [accompanied](sametā) [Śakti+army](śaktivāhinī)
+[thus](evaṃvidhairdaityagaṇaiḥ) [assembled](sametā) [shakti-army](śaktivāhinī)
 
 ## mukta-m0-p53-v1325
-[mutually](parasparaṃ) [hurling](kṣipantaste) [they](te) [with-words](vākyaiḥ) [bitter+rasa+producing](kaṭurasodayaiḥ)
+[each-other](parasparaṃ) [throwing](kṣipantaste) [words](vākyaiḥ) [harsh-rising](kaṭurasodayaiḥ)

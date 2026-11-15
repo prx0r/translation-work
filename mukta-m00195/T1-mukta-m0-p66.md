@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[flower](puṣpasya) [handfuls](añjalayaḥ) [to-be-offered](deyāḥ) [on-head](mastake) [on-heart](hṛdaye) [on-anus](gude)
+[flower's](puṣpasya) [handfuls](añjalayaḥ) [offered](deyāḥ) [head](mastake) [heart](hṛdaye) [anus](gude)
 
 ## mukta-m0-p66-v1627
-[with-four](caturbhiḥ) [with-offerings](upacāraiḥ) [and](ca) [food-offering](naivedyaṃ) [should-offer](vinivedayet)
+[with-four](caturbhir) [offerings](upacāraiḥ) [and](ca) [food-offering](naivedyaṃ) [present](vinivedayet)
 
 ## mukta-m0-p66-v1628
-[should-employ](prayuñjīta) [all](sarvam) [this](etat) [concentrated](samāhitaḥ)
+[use](prayuñjīta) [all](sarvam) [this](etat) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p66-v1629
-[four-cornered](catuṣkoṇam) [fire-pit](agni+kuṇḍaṃ) [should-visualize](vicintayet)
+[square](catuṣkoṇam) [fire-pit](agnikuṇḍam) [contemplate](vicintayet)
 
 ## mukta-m0-p66-v1630
-[dharma-and-adharma](dharma+adharma) [oblation](haviḥ) [kindled](dīptaḥ) [in-self-fire](ātma+agnau) [by-mind](manasā) [indeed](tu) [verily](vai)
+[dharma+adharma+offering+blazing](dharmādharmahavirdīpta) [self-fire](ātmāgnau) [mind](manasā) [indeed](tu) [truly](vai)
 
 ## mukta-m0-p66-v1631
-[svāhā-thus](svāhā+iti) [at-verse-end](śloka+ante) [should-pronounce](proccaret) [again](punaḥ)
+[svāhā](svāhā) [thus](iti) [verse-end](ślokānte) [utter](proccaret) [again](punaḥ)
 
 ## mukta-m0-p66-v1632
-[resolution](saṅkalpaḥ) [doubt](vikalpaḥ) [dharma](dharmaḥ) [indeed](eva) [and](ca)
+[intention](saṅkalpaḥ) [doubt](vikalpaḥ) [dharma](dharmaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p66-v1633
-[with-light-and-awareness](prakāśa+āmarśa) [with-hands](hastābhyām) [having-grasped](avalambya) [in-unmanī-states](unmanīṣu) [and](ca)
+[light+touch+hands](prakāśāmarśahastābhyām) [supporting](avalambya) [unmani](unmanīṣu) [and](ca)
 
 ## mukta-m0-p66-v1634
-[having-given](dattvā) [by-breath-control](prāṇa+āyāma) [by-restraint](nirodhataḥ)
+[giving](dattvā) [pranayama-restraint](prāṇāyāmanirodhataḥ)
 
 ## mukta-m0-p66-v1635
-[breath-control](prāṇa+āyāma) [triad](trayaṃ) [having-done](kṛtvā) [sage-etc.](ṛṣi+ādi) [installation](nyāsam) [should-perform](ācaret)
+[three-pranayamas](prāṇāyāmatrayam) [doing](kṛtvā) [rishi-etc-nyasa](ṛṣyādinyāsam) [perform](ācaret)
 
 ## mukta-m0-p66-v1636
-[guru-lineage](guru+paṅktiḥ) [to-be-worshipped-northward](udak+pūjyā) [great-gaṇapati](mahā+gaṇapatiḥ) [indeed](tu) [avāk](avāk)
+[guru-row](gurupaṅktiḥ) [water-worshipped](udakpūjyā) [Mahaganapati](mahāgaṇapatiḥ) [south](avāk)
 
 ## mukta-m0-p66-v1637
-[of-that](tasya) [above](ūrdhvaṃ) [rudra](rudraḥ) [kālānala](kāla+analaḥ) [likewise](tathā)
+[above](tasyordhvam) [Rudra](rudraḥ) [Kala-anala](kālānalaḥ) [likewise](tathā)
 
 ## mukta-m0-p66-v1638
-[at-tusk-tip](daṃṣṭrā+agre) [earth](pṛthivīm) [should-worship](arcayet) [again](punaḥ)
+[fang-tip](daṃṣṭrāgre) [earth](pṛthivīm) [worship](arcayet) [again](punaḥ)
 
 ## mukta-m0-p66-v1639
-[and](ca) [in-its-middle](tat+madhye) [above-that](tat+ūrdhvaṃ) [nandana](nandanaṃ) [forest](vanam)
+[and](ca) [in-middle](tanmadhye) [above-that](tadūrdhvam) [Nandana](nandanaṃ) [forest](vanam)
 
 ## mukta-m0-p66-v1640
-[golden-enclosure](svarṇa+prākāram) [at-its-end](asya+ante) [in-its-middle](tat+madhye) [jewel-pavilion](ratna+maṇḍapam)
+[golden-wall](svarṇaprākāram) [its-end](asyānte) [in-middle](tanmadhye) [jewel-pavilion](ratnamaṇḍapam)
 
 ## mukta-m0-p66-v1641
-[to-be-visualized](bhāvanīyam) [should-worship](pūjayet) [with-sandalwood-etc.](candana+ādinā)
+[to-be-meditated](bhāvanīyam) [worship](pūjayet) [sandal-etc](candanādinā)
 
 ## mukta-m0-p66-v1642
-[should-worship](yajet) [properly](samyak) [from-southeast-etc.](āgneya+ādi) [up-to-śiva](śiva+antakam)
+[sacrifice](yajet) [properly](samyak) [Agni-to-Shiva](āgneyādiśivāntakam)
 
 ## mukta-m0-p66-v1643
-[dispassion](vairāgyaṃ) [like-element](bhūtavat) [yellow](pītam) [lordship](aiśvaryaṃ) [like-black-elephant](kṛṣṇa+hastivat)
+[detachment](vairāgyam) [like-bhuta](bhūtavat) [drunk](pītam) [lordship](aiśvaryam) [like-Krishna-elephant](kṛṣṇahastivat)
 
 ## mukta-m0-p66-v1644
-[and](ca) [in-its-middle](tat+madhye) [ananta](anantaṃ) [of-principle-form](tattva+ākṛtiṃ) [should-worship](yajet)
+[and](ca) [in-middle](tanmadhye) [Ananta](anantam) [tattva-form](tattvākṛtim) [sacrifice](yajet)
 
 ## mukta-m0-p66-v1645
-[consciousness-stalk](saṃvit+nālaṃ) [with-modification-petals](vikāra+keśaram)
+[consciousness-stalk](saṃvinnālam) [modification-filament](vikārakeśaram)
 
 ## mukta-m0-p66-v1646
-[and](ca) [aṇimā-etc.](aṇimā+ādyaṃ) [their-names](tat+nāmāni) [declare](bravīmi) [I](aham)
+[and](ca) [anima-etc](aṇimādyam) [its-names](tannāmāni) [I-speak](bravīmi) [I](aham)
 
 ## mukta-m0-p66-v1647
-[prākāmya](prākāmyam) [īśitva](īśitvam) [vaśitva](vaśitvaṃ) [and](ca) [eight-siddhis](aṣṭa+siddhayaḥ)
+[prakamya](prākāmyam) [ishitva](īśitvam) [vashitva](vaśitvam) [and](ca) [eight-siddhis](aṣṭasiddhayaḥ)
 
 ## mukta-m0-p66-v1648
-[qualities](guṇān) [sattva-etc.](sattva+ādikān) [there](tatra) [likewise](tadvat) [in-front](agre) [triad](trayaṃ) [should-worship](yajet)
+[qualities](guṇān) [sattva-etc](sattvādikān) [there](tatra) [likewise](tadvat) [before](agre) [three](trayam) [sacrifice](yajet)
 
 ## mukta-m0-p66-v1649
-[māyā](māyā) [kalā](kalā) [vidyā](vidyā) [with-para-first](para+pūrvaṃ) [and](ca) [principle](tattvakam)
+[maya](māyā) [kala](kalā) [vidya](vidyā) [para-first](parapūrvam) [and](ca) [tattva](tattvakam)
 
 ## mukta-m0-p66-v1650
-[of-that-seat](tat+pīṭhasya) [described-by-those-principles](tat+tanmātra+ukta) [nine](nava) [powers](śaktīḥ) [should-worship](prapūjayet)
+[that-that-matra-said-seat's](tattanmatroktapīṭhasya) [nine](nava) [shaktis](śaktīḥ) [thoroughly-worship](prapūjayet)

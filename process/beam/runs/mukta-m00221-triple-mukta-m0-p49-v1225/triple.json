@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "locative of mūrdhan 'head'",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "viśukrasya",
+     "gloss": "of-viśukra",
+     "grounds": "genitive of proper name Viśukra",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ruṣā",
+     "gloss": "in-anger",
+     "grounds": "instrumental of ruṣ 'anger' used adverbially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampatakarī",
+     "gloss": "sampatakarī",
+     "grounds": "nominative subject goddess Sampatakarī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "balāt",
+     "gloss": "forcefully",
+     "grounds": "ablative of bala 'force' used adverbially",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does Sampatakarī finally subdue Viśukra after his defeat?",
+   "premises": [
+    "Sampatakarī acts in anger.",
+    "She strikes Viśukra's head.",
+    "The blow is forceful."
+   ],
+   "inference": "Sampatakarī forcefully strikes Viśukra's head in anger.",
+   "uncertainties": [
+    "The struck object is implied rather than named in this verse."
+   ],
+   "plain_english": "In anger, Sampatakarī forcefully struck Viśukra on the head."
+  }
+ ]
+}

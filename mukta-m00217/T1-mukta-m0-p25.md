@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[īśāna+beginning](īśānādyā) [verses](ṛcaḥ) [properly](samyak) [on-fingers](aṅgulīṣu) [in-due-order](yathākramam)
+īśāna-ādyāḥ(īśānādyā) ṛcaḥ(ṛcaḥ) samyak-aṅgulīṣu(samyagaṃgulīṣu) yathā-kramam(yathākramam)
 
 ## mukta-m0-p25-v602
-[on-head+face+heart+lotus+secret-place+feet](mūrdhāsyahṛdayāmbhojaguhyapādeṣu) [or](vā) [again](punaḥ)
+mūrdha-āsya-hṛdaya-ambhoja-guhya-pādeṣu(mūrdhāsyahṛdayāmbhojaguhyapādeṣu) vā(vā) punaḥ(punaḥ)
 
 ## mukta-m0-p25-v603
-[tāra+pentad](tārapañcakam) [having-uttered](uccārya) [to-the-all-knowing](sarvajñāya) [spoken-as-heart](hṛdīritam)
+tāra-pañcakam(tārapañcakam) uccārya(uccārya) sarvajñāya(sarvajñāya) hṛdi-īritam(hṛdīritam)
 
 ## mukta-m0-p25-v604
-[at-its-end](tadante) [to-brahman-head](brahmaśirase) [head+limb](śiro'ṅgaṃ) [ending-with-jvalita](jvalitāntataḥ)
+tad-ante(tadante) brahma-śirase(brahmaśirase) śiraḥ-aṅgam(śiro'ṅgaṃ) jvalita-antataḥ(jvalitāntataḥ)
 
 ## mukta-m0-p25-v605
-[to-the-thunderbolt-bearer](vajriṇe) [to-the-thunderbolt-handed](vajrahastāya) [to-the-independent](svatantrāya) [body+armor](tanucchadaḥ)
+vajriṇe(vajriṇe) vajra-hastāya(vajrahastāya) svatantrāya(svatantrāya) tanu-cchadaḥ(tanucchadaḥ)
 
 ## mukta-m0-p25-v606
-[eye+declared](netramuktaṃ) [ślīṃ+paśu+huṃ+phaṭ+ending](ślīṃpaśu) (huṃ) (phaḍanto'nantaśaktaye)
+netra-muktam(netramuktaṃ) ślīṃ-paśu(ślīṃpaśu) huṃ(huṃ) phaṭ-antaḥ(phaḍanto'nantaśaktaye) ananta-śaktaye(anantaśaktaye)
 
 ## mukta-m0-p25-v607
-[then](tataḥ) [should-deposit](pravinyaset) [the-wise-one](vidvān) [thirty-eight+kalās](aṣṭātriṃśatkalās) [in-the-body](tanau)
+tataḥ(tataḥ) pravinyaset(pravinyased) vidvān(vidvānaṣṭātriṃśatkalāstanau) aṣṭā-triṃśat-kalāḥ(aṣṭātriṃśatkalāḥ) tanau(tanau)
 
 ## mukta-m0-p25-v608
-[in-the-faces](vaktreṣu) [five](pañca) [should-deposit](vinyaset) [of-īśāna](īśānasya) [kalās](kalāḥ) [in-order](kramāt)
+vaktreṣu(vaktreṣu) pañca(pañca) vinyaset(vinyased) īśānasya(īśānasya) kalāḥ(kalāḥ) kramāt(kramāt)
 
 ## mukta-m0-p25-v609
-[īśvaraḥ](īśvaraḥ) [of-all-beings](sarvabhūtānām) [aṅgadā](aṅgadā) [after-that](tadanantaram)
+īśvaraḥ(īśvaraḥ) sarva-bhūtānām(sarvabhūtānāmaṅgadā) aṅga-dā(aṅgadā) tad-anantaram(tadanantaram)
 
 ## mukta-m0-p25-v610
-[brahma+desired-giving](brahmeṣṭadā) [third](tṛtīyā) [should-be](syāt) [śiva](śivaḥ) [to-me](me) [let-be](astu) [after-that](tatparā)
+brahma-iṣṭa-dā(brahmeṣṭadā) tṛtīyā(tṛtīyā) syāt(syācchivo) śivaḥ(śivaḥ) me(me) astu(astu) tat-parā(tatparā)
 
 ## mukta-m0-p25-v611
-[aṃśumālinī](aṃśumālinī) [then](atha) [another](parā) [beginning-with-praṇava](praṇavādyā) [ending-with-namas](namontakāḥ)
+aṃśu-mālinī(aṃśumālinyatha) atha(atha) parā(parā) praṇava-ādyāḥ(praṇavādyā) namaḥ-antakāḥ(namontakāḥ)
 
 ## mukta-m0-p25-v612
-[four](catasraḥ) [should-deposit](vinyaset) [the-practitioner](mantrī) [of-puruṣa](puruṣasya) [kalās](kalāḥ) [in-order](kramāt)
+catasraḥ(catasro) vinyaset(vinyasenmantrī) mantrī(mantrī) puruṣasya(puruṣasya) kalāḥ(kalāḥ) kramāt(kramāt)
 
 ## mukta-m0-p25-v613
-[to-mahādeva](mahādevāya) [at-the-end-of-word](śabdānte) [dhīmahi](dhīmahi) [should-be](syāt) [then](tataḥ) [after](param)
+mahādevāya(mahādevāya) śabda-ante(śabdānte) dhīmahi(dhīmahi) syāt(syāt) tataḥ(tataḥ) param(param)
 
 ## mukta-m0-p25-v614
-[pratiṣṭhā](pratiṣṭhā) [declared](kathitā) [afterwards](paścāt) [third](tṛtīyā) [should-be](syāt) [with-pracodayāt](pracodayāt)
+pratiṣṭhā(pratiṣṭhā) kathitā(kathitā) paścāt(paścāt) tṛtīyā(tṛtīyā) syāt(syāt) pracodayāt(pracodayāt)
 
 ## mukta-m0-p25-v615
-[in-heart+neck+two-shoulders](hṛdgrīvāṃsadvaye) [in-navel](nābhau) [in-belly](kukṣau) [in-back](pṛṣṭhe) [and](ca) [in-chest](vakṣasi)
+hṛd-grīvā-aṃsa-dvaye(hṛdgrīvāṃsadvaye) nābhau(nābhau) kukṣau(kukṣau) pṛṣṭhe(pṛṣṭhe) ca(ca) vakṣasi(vakṣasi)
 
 ## mukta-m0-p25-v616
-[aghorebhyaḥ](aghorebhyaḥ) [that](tamā) [first](pūrvam) [declared](īritā) [first](prathamā) [kalā](kalā)
+aghorebhyaḥ(aghorebhyastamā) tamā(tamā) pūrvam(pūrvam) īritā(īritā) prathamā(prathamā) kalā(kalā)
 
 ## mukta-m0-p25-v617
-[at-end-of-ghora](ghorānte) [should-be](syāt) [kṣamā](kṣamā) [afterwards](paścāt) [third](tṛtīyā) [declared](parikīrtitā)
+ghora-ante(ghorānte) syāt(syāt) kṣamā(kṣamā) paścāt(paścāt) tṛtīyā(tṛtīyā) parikīrtitā(parikīrtitā)
 
 ## mukta-m0-p25-v618
-[vyādhi](vyādhiḥ) [indeed](tu) [fifth](pañcamī) [declared](proktā) [to-all](sarvebhyaḥ) [after-that](tadanantaram)
+vyādhiḥ(vyādhistu) tu(tu) pañcamī(pañcamī) proktā(proktā) sarvebhyaḥ(sarvebhyastadanantaram) tad-anantaram(tadanantaram)
 
 ## mukta-m0-p25-v619
-[kṣudhā](kṣudhā) [should-be](syāt) [seventh](saptamī) [declared](proktā) [to-rudra-forms](rudrarūpebhyaḥ) [tṛṣṇikā](tṛṣṇikā)
+kṣudhā(kṣudhā) syāt(syāt) saptamī(saptamī) proktā(proktā) rudra-rūpebhyaḥ(rudrarūpebhyastṛṣṇikā) tṛṣṇikā(tṛṣṇikā)
 
 ## mukta-m0-p25-v620
-[in-hips](kaṭyāṃ) [in-two-sides](pārśvadvaye) [and](ca) [indeed](eva) [of-vāmadeva](vāmadevakalāḥ) [kalās](kalāḥ) [should-deposit](nyaset)
+kaṭyām(kaṭyāṃ) pārśva-dvaye(pārśvadvaye) ca-eva(caiva) vāmadeva-kalā(vāmadevakalā) nyaset(nyaset)
 
 ## mukta-m0-p25-v621
-[should-be](syāt) [to-jyeṣṭhā](jyeṣṭhāya) [namas](namaḥ) [rakṣā](rakṣā) [second](dvitīyā) [declared](parikīrtitā)
+syāt(syājjyeṣṭhāya) jyeṣṭhāya(jyeṣṭhāya) namaḥ(namo) rakṣā(rakṣā) dvitīyā(dvitīyā) parikīrtitā(parikīrtitā)
 
 ## mukta-m0-p25-v622
-[to-kāla](kālāya) [namas](namaḥ) [at-the-end](ityante) [mālinī](mālinī) [declared](parikīrtitā)
+kālāya(kālāya) namaḥ(nama) iti(ityante) ante(ante) mālinī(mālinī) parikīrtitā(parikīrtitā)
 
 ## mukta-m0-p25-v623
-[namaḥ](namaḥ) [saṃyaminī](saṃyaminī) [sixth](ṣaṣṭhī) [declared](kathitā) [after-that](tadanantaram)
+namaḥ(namaḥ) saṃyaminī(saṃyaminī) ṣaṣṭhī(ṣaṣṭhī) kathitā(kathitā) tad-anantaram(tadanantaram)
 
 ## mukta-m0-p25-v624
-[namaḥ](namaḥ) [vṛddhi](vṛddhiḥ) [eighth](aṣṭamī) [should-be](syāt) [at-end-of-balā](balānte) [and](ca) [situated](sthitā) [kalā](kalā)
+namaḥ(namo) vṛddhiḥ(vṛddhiraṣṭamī) aṣṭamī(aṣṭamī) syāt(syādbalānte) bala-ante(balānte) ca(ca) sthitā(sthitā) kalā(kalā)
 
 ## mukta-m0-p25-v625
-[to-the-subduer-of-all-beings](sarvabhūtadamanāya) [at-end-of-namas](namo'nte) [bhrāmiṇī](bhrāmiṇī) [kalā](kalā)
+sarva-bhūta-damanāya(sarvabhūtadamanāya) namaḥ(namo'nte) ante(ante) bhrāmiṇī(bhrāmiṇī) kalā(kalā)

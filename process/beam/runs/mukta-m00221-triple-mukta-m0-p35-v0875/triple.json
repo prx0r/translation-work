@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "balañcasarvaṃ",
+     "gloss": "strength-and-all",
+     "grounds": "fused form balaṃ ca sarvaṃ; accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tatkṛtyaṃ",
+     "gloss": "that-duty",
+     "grounds": "compound tat + kṛtya; accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jñatvāa",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā; surface retains extra a",
+     "morph": "abs."
+    },
+    {
+     "surface": "yāhi",
+     "gloss": "go",
+     "grounds": "imperative of yā",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "druta",
+     "gloss": "quickly",
+     "grounds": "adverbial qualifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should one do after knowing all strength and that duty?",
+   "premises": [
+    "all strength is known",
+    "that duty is known",
+    "one should go quickly again"
+   ],
+   "inference": "one should proceed quickly again",
+   "uncertainties": [
+    "jñatvāa has an extra a in the supplied surface",
+    "exact sandhi of balañcasarvaṃ is inferred"
+   ],
+   "plain_english": "Having known all strength and that duty, go quickly again."
+  }
+ ]
+}

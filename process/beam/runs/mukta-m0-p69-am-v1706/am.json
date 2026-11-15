@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1706,
- "question": "What kind of wheel is to be worshipped in the western direction?",
+ "question": "What offerings are made before the ritual proceeds?",
  "premises": [
-  "The direction specified is west.",
-  "The wheel is drawn with red ochre.",
-  "The wheel is then worshipped."
+  "Liquor and meat offerings are made.",
+  "Various offerings are presented."
  ],
- "inference": "In the west one worships a wheel drawn with red ochre.",
- "uncertainties": [],
- "plain_english": "Then, in the west, one should worship a wheel drawn with red ochre."
+ "inference": "The ritual includes varied liquor and meat offerings.",
+ "uncertainties": [
+  "Exact recipient of offerings is implicit."
+ ],
+ "plain_english": "Then, having offered various liquor, meat, and other offerings."
 }

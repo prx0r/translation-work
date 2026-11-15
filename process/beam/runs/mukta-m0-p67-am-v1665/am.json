@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p67",
  "verse": 1665,
- "question": "What defining feature characterizes the first prescribed pavilion type?",
+ "question": "Who is commanded for protection by the thousand-numbered mantra lords?",
  "premises": [
-  "The pavilion may be without an archway and similar elements.",
-  "This arrangement is designated as the first type."
+  "thousand-numbered lords are named",
+  "protection is the purpose"
  ],
- "inference": "The first pavilion type is defined as being arranged without an archway and related features.",
- "uncertainties": [],
- "plain_english": "Arranged thus without an archway and so on, this would be the first type."
+ "inference": "the verse records a command for protection",
+ "uncertainties": [
+  "compound resolution"
+ ],
+ "plain_english": "The thousand-numbered mantra lords commanded for protection."
 }

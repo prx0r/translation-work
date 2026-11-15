@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[third](tṛtīyaṃ) [ear+chin](śrotra+cibuke) [fourth](caturthaṃ) [nose+palates](ghrāṇa+tāluṣu)
+[third](tṛtīyaṃ) [ear-chin](śrotracibuke) [fourth](caturthaṃ) [nose-palate](ghrāṇatāluṣu)
 
 ## mukta-m0-p128-v3177
-[root+middle+tip](mūla+madhya+agrato) [should-place](nyasyet) [in-nine-ways](navadhā) [with-root-syllables](mūla+varṇakaiḥ)
+[root-middle-tip](mūlamadhyāgrato) [place](nyasyennavadhā) [root-letters](mūlavarṇakaiḥ)
 
 ## mukta-m0-p128-v3178
-[red-garment+ornament+garland+unguent](lohitā+aṃśuka+bhūṣā+srag+lepanāṃ) [six-faced+lotus](ṣaṇ+mukha+ambujām)
+[red-garment-ornament-garland](lohitāṃśukabhūṣāsraglepanāṃ) [six-faced-lotus](ṣaṇmukhāmbujām)
 
 ## mukta-m0-p128-v3179
-[with-priceless-gem-studded+ruby-crown+shining](anarghya+ratna+ghaṭita+māṇikya+mukuṭa+ujjvalām)
+[priceless-gem-studded](anarghyaratnaghaṭitamāṇikmukuṭojjvalām)
 
 ## mukta-m0-p128-v3180
-[with-jewel-cluster-adorned+shining-breast](ratna+stabaka+saṃbhinna+lasat+vakṣaḥsthalāṃ) [auspicious](śubhām)
+[gem-cluster-shining-chest](ratnastabakasaṃbhinnalasadvakṣaḥsthalāṃ) [auspicious](śubhām)
 
 ## mukta-m0-p128-v3181
-[with-arms+twelve](bhujaiḥ+dvādaśabhiḥ) [endowed](yuktāṃ) [sovereign-of-all](sarva+īśīṃ) [consisting-of-all-speech](sarva+vāṅmayīm)
+[twelve-arms](bhujairdvādaśabhiryuktāṃ) [all-lady](sarveśīṃ) [all-speech](sarvavāṅmayīm)
 
 ## mukta-m0-p128-v3182
-[jewel-filled](ratna+pūrṇaṃ) [indeed](tu) [cup](caṣakaṃ) [roll](luṅgīṃ) [exposition-gesture](vyākhyāna+mudrikām)
+[gem-filled-cup](ratnapūrṇaṃ) [cup](caṣakaṃ) [citron](luṅgīṃ) [explanation-ring](vyākhyānamudrikām)
 
 ## mukta-m0-p128-v3183
-[golden](haimīṃ) [and](ca) [stylus](lekhanīṃ) [jewel-garland](ratna+mālāṃ) [conch](kambu) [excellent](varaṃ) [with-arms](bhujaiḥ)
+[golden](haimīṃ) [pen](lekhanīṃ) [gem-garland](ratnamālāṃ) [conch-excellent](kambu) [varaṃ](varaṃ) [arms](bhujaiḥ)
 
 ## mukta-m0-p128-v3184
-[by-yakṣas+rākṣasas+gods+sages+siddhas+vidyādharas+and-others](yakṣa+rākṣasa+deva+ṛṣi+siddha+vidyādhara+ādibhiḥ)
+[yaksha-rakshasa-sage-siddha-vidyadhara-etc](yakṣarākṣasadevarṣisiddhavidyādharādibhiḥ)
 
 ## mukta-m0-p128-v3185
-[white](sitāṃ) [for-speech-power-alone](kevala+vāk+siddhyai) [for-Lakṣmī](lakṣmyai) [golden-lustered](hema+prabhām) [also](api)
+[white](sitāṃ) [speech-siddhi-only](kevalavāksiddhyai) [lakshmi](lakṣmyai) [gold-radiance](hemaprabhāmapi)
 
 ## mukta-m0-p128-v3186
-[blue](nīlāṃ) [and](ca) [in-silencing](mūkī+karaṇe) [one-should-meditate](smaret) [according-to-those-purposes](tat+tat+apekṣayā)
+[blue](nīlāṃ) [muting](mūkīkaraṇe) [remember](smarettattadapekṣayā)
 
 ## mukta-m0-p128-v3187
-[many-formed](bahu+rūpā) [variegated-formed](citra+rūpā) [delightful](ramyā) [also](api) [in-bliss+play](ānanda+kautuke)
+[many-formed](bahurūpā) [variegated-formed](citrarūpā) [lovely](ramyāpyānandakautuke)
 
 ## mukta-m0-p128-v3188
-[outside](bahis) [on-eight-petaled-lotus](aṣṭa+cchada+ambhoje) [Brāhmī-and-others](brāhmyā+ādyāḥ) [them](tāḥ) [one-should-worship](samarcayet)
+[outer-eight-petaled-lotus](bahiraṣṭacchadāmbhoje) [brahma-etc](brāhmyādyāstāḥ) [worship](samarcayet)
 
 ## mukta-m0-p128-v3189
-[Indra+Agni+Yama+Rākṣasa](indra+agni+yama+rakṣaḥ) [lord-of-waters+wind+moon](varuṇa+anila+soma+kān)
+[indra-agni-yama-raksha-varuna-vayu-soma](indrāgniyamarakṣorbhirvaruṇānilasomakān)
 
 ## mukta-m0-p128-v3190
-[ending-with-śakti](śaktyā+antaiḥ) [with-names](nāmabhiḥ) [as-before](prāk+vat) [one-should-worship](pūjayet) [for-all-accomplishments](sarva+siddhaye)
+[power-ending-names](śaktyāntairnāmabhiḥ) [as-before](prāgvat) [worship](pūjayet) [all-siddhi](sarvasiddhaye)
 
 ## mukta-m0-p128-v3191
-[in-its-middle](tat+madhye) [situated-in-two-circles](vṛtta+yugma+sthaṃ) [one-should-make](kuryāt) [eight-petaled-lotus](aṣṭa+cchada+ambujam)
+[there-middle-two-circles](tanmadhye) [make-eight-petaled-lotus](vṛttayugmasthaṃ) [kuryādaṣṭacchadāmbujam](kuryādaṣṭacchadāmbujam)
 
 ## mukta-m0-p128-v3192
-[having-made](kṛtvā) [here](atra) [her](tāṃ) [having-invoked](samāvāhya) [as-before](prāk+vat) [properly](samyak) [then](atha) [one-should-worship](arcayet)
+[having-made-there](kṛtvātra) [her-invoke](tāṃ) [samāvāhya](samāvāhya) [as-before-properly-then-worship](prāgvat) [samyagathārcayet](samyagathārcayet)
 
 ## mukta-m0-p128-v3193
-[likewise](tathaiva) [ending-with-world-guardians](loka+pāla+anta) [śaktis](śaktīḥ) [at-the-two-doors](dvāra+dvaye) [one-should-worship](arcayet)
+[thus-world-guardians-ending-powers](tathaiva) [lokapālāntaśaktī](lokapālāntaśaktī) [two-gates](dvāradvaye'rcayet)
 
 ## mukta-m0-p128-v3194
-[with-seven-syllabled-mantra](sapta+akṣaryā) [offering](baliṃ) [one-should-give](dadyāt) [at-end-of-worship](pūjā+ante) [with-Kurukullā](kurukullayā)
+[seven-syllable](saptākṣaryā) [offering](baliṃ) [give](dadyāt) [worship-end](pūjānte) [kurukulla](kurukullayā)
 
 ## mukta-m0-p128-v3195
-[Nityānityā](nityā+nityāṃ) [hear](śṛṇu) [O-wise-one](prājñe) [on-her-dependent](tat+āyattam) [this](idam) [world](jagat)
+[eternal-non-eternal](nityānityāṃ) [hear](śṛṇu) [wise](prājñe) [that-dependent-this-world](tadāyattamidaṃ) [jagat](jagat)
 
 ## mukta-m0-p128-v3196
-[who](yā) [indeed](asau) [of-all-beings](samasta+bhūtānāṃ) [in-body+abiding+causing](deha+sthiti+vidhāyinī)
+[that-all-beings-body-residence-arranger](yāsau) [samastabhūtānāṃ](samastabhūtānāṃ) [dehasthitividhāyinī](dehasthitividhāyinī)
 
 ## mukta-m0-p128-v3197
-[with-vidyā](vidyayā) [of-Kulasundarī](kula+sundaryā) [joined](yojitaḥ) [according-to-tradition](sampradāyataḥ)
+[knowledge](vidyayā) [kula-sundari](kulasundaryā) [joined](yojitaḥ) [tradition](sampradāyataḥ)
 
 ## mukta-m0-p128-v3198
-[at-brow-center+throat+heart+navel+secret-place+base](bhrū+madhye+kaṇṭha+hṛt+nābhi+guhya+ādhāreṣu) [and](ca) [in-sequence](kramāt)
+[brow-middle-throat-heart-navel-secret-places](bhrūmadhye) [kaṇṭhahṛnnābhiguhyādhāreṣu](kaṇṭhahṛnnābhiguhyādhāreṣu) [ca](ca) [in-order](kramāt)
 
 ## mukta-m0-p128-v3199
-[pervading](vyāpakaṃ) [indeed](tu) [with-the-whole](samastena) [having-established](vidhāya) [with-method](vidhinā) [endowed](yutam)
+[pervading](vyāpakaṃ) [tu](tu) [all](samastena) [vidhāya](vidhāya) [vidhinā](vidhinā) [yutam](yutam)
 
 ## mukta-m0-p128-v3200
-[rising-sun-orb+resembling](udyat+bhāskara+bimba+ābhāṃ) [with-ruby-crown+shining](māṇikya+mukuṭa+ujjvalām)
+[rising-sun-disk-like](udyadbhāskarabimbābhāṃ) [ruby-crown-shining](māṇikyamukuṭojjvalām)

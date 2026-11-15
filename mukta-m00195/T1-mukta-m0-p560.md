@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p560-v13976
-[great-hero](mahāvīra) [thus](iti) [me](mām) [this](enaṃ) [protect](rakṣa) [protect](rakṣa) [thrice](tridhā) [thrice](tridhā)
+[great-hero](mahāvīra) [thus](iti) [me](mām) [him](enam) [protect](rakṣa) [protect](rakṣa) [thrice](tridhā) [thrice](tridhā)
 
 ## mukta-m0-p560-v13977
-[all](sarva) [pain](pīḍā) [remover](haraḥ) [Rāma](rāma) [control](vaśa) [causing](kṛt) [fortune](bhāgya) [giver](dāyakaḥ)
+[all-pain-remover](sarvapīḍāharaḥ) [rama-subjugation-maker](rāmavaśakṛt) [fortune-giver](bhāgyadāyakaḥ)
 
 ## mukta-m0-p560-v13978
-[tāra](tāraḥ) [obeisance](namaḥ) [to-Hanumān](hanumate) [should-say](vadet) [all](sarva) [planets](grahān) [thus](iti)
+[tara](tāraḥ) [homage](namo) [hanuman](hanumate) [say](vadet) [all-planets](sarvagrahān) [thus](iti)
 
 ## mukta-m0-p560-v13979
-[past](bhūta) [thus](iti) [and](ca) [future](bhaviṣyat) [and](ca) [present](varttamānān) [word](padaṃ) [should-say](vadet)
+[past](bhūta) [thus](iti) [and](ca) [future](bhaviṣyat) [and](ca) [present](varttamānān) [word](padam) [say](vadet)
 
 ## mukta-m0-p560-v13980
-[drive-away](uccāṭaya) [twice](dvayaṃ) [should-utter](procya) [of-others](para) [thus](iti) [and](ca) [forces](balāni) [and](ca)
+[destroy](uccāṭayat) [pair](dvayam) [having-said](procya) [other](para) [thus](iti) [and](ca) [powers](balāni) [and](ca)
 
 ## mukta-m0-p560-v13981
-[hrāṃ](hrāṃ) [hrīṃ](hrīṃ) [hrūṃ](hrūṃ) [twice](dvis) [thrice](trayaṃ) [phaṭ](phaṭ) [and](ca) [svāhā](svāhā) [ending](antaḥ) [this](ayaṃ) [mantra](manuḥ) [is-considered](mataḥ)
+[seed](hrāṃ) [seed](hrīṃ) [seed](hrūṃ) [two](dvi) [three](trayam) [phat](phaṭ) [and](ca) [svaha-ended](svāhāntaḥ) [this](ayam) [mantra](manuḥ) [considered](mataḥ)
 
 ## mukta-m0-p560-v13982
-[by-others](para) [made](kṛta) [yantra](yantra) [mantra](mantra) [arrogance](parāhaṃkāra) [with](saṃ) [should-say](vadet)
+[other-made-yantra-mantra](parakṛtayantramantra) [other-ego](parāhaṃkāra) [converse](saṃvadet)
 
 ## mukta-m0-p560-v13983
-[evil-eye](dṛṣṭi) [disease](roga) [and-others](ādikān) [should-utter](procya) [twice](dvis) [terrify](trāsaya) [ward-off](nivāraya)
+[eye-disease-etc](dṛṣṭirogādikān) [having-said](procya) [two](dvi) [frighten](strāsaya) [ward-off](nivāraya)
 
 ## mukta-m0-p560-v13984
-[thus](iti) [indeed](eva) [this](ayaṃ) [mantra](manuḥ) [declared](proktaḥ) [all](sarva) [calamities](āpatti) [removing](nivārakaḥ)
+[thus](iti) [indeed](eva) [this](ayam) [mantra](manuḥ) [declared](proktaḥ) [all-calamity-warder](sarvāpattinivārakaḥ)
 
 ## mukta-m0-p560-v13985
-[of-Lakṣmaṇa](lakṣmaṇa) [life](prāṇa) [giver](dātre) [and](ca) [of-Sītā](sītā) [sorrow](śoka) [destroyer](vināśakaḥ)
+[lakshmana-life-giver](lakṣmaṇaprāṇadātre) [and](ca) [sita-sorrow-destroyer](sītāśokavināśakaḥ)
 
 ## mukta-m0-p560-v13986
-[of-the-wicked](duṣṭa) [for-destruction](vināśanāya) [thus](iti) [enemy](ripu) [thief](caura) [word](padaṃ) [should-say](vadet)
+[wicked-destroyer](duṣṭavināśanāya) [for](iti) [enemy-thief-word](ripucaurapadam) [say](vadet)
 
 ## mukta-m0-p560-v13987
-[wicked](duṣṭa) [beings](sattva) [for-destruction](vināśa) [thus](iti) [nāya](nāya) [huṃ](huṃ) [phaḍ](phaḍ) [fire’s-consort](hutāṅganā)
+[wicked-being-destroyer](duṣṭasattvavināśa) [thus](iti) [naya](nāya) [hum](huṃ) [phat](phaḍ) [fire-offering-woman](hutāṅganā)
 
 ## mukta-m0-p560-v13988
-[especially](viśeṣataḥ) [of-untimely-death](apamṛtyoḥ) [and](ca) [destroyer](nāśakaḥ) [Rāma’s-beloved](rāma+vallabhaḥ)
+[especially](viśeṣataḥ) [untimely-death](upamṛtyoḥ) [and](ca) [destroyer](nāśakaḥ) [rama-beloved](rāmavallabhaḥ)
 
 ## mukta-m0-p560-v13989
-[drive-away](uccāṭaya) [huṃ](huṃ) [phaṭ](phaṭ) [and](ca) [svāhā](svāhā) [ending](antaḥ) [mantra](manuḥ) [is-declared](īritaḥ)
+[destroy](uccāṭaya) [hum](huṃ) [phat](phaṭ) [and](ca) [svaha-ended](svāhāntaḥ) [mantra](manuḥ) [uttered](īritaḥ)
 
 ## mukta-m0-p560-v13990
-[great-hero](mahāvīraḥ) [here](atra) [Hanumān](hanumān) [deity](devatā) [well](sam) [proclaimed](prakīrtitaḥ)
+[great-hero](mahāvīraḥ) [here](atra) [hanuman](hanumān) [deity](devatā) [proclaimed](samprakīrtitaḥ)
 
 ## mukta-m0-p560-v13991
-[eleven](ekādaśa) [syllable](kūṭa) [preceded-by](pūrvaṃ) [name](nāma) [installation](nyāsaṃ) [one-should-perform](samācaret)
+[eleven-peaked-prior](ekādaśakūṭapūrvam) [name-nyasa](nāmanyāsam) [perform](samācaret)
 
 ## mukta-m0-p560-v13992
-[Hanumān](hanumān) [Rāma’s-messenger](rāma+dūtaḥ) [and](ca) [of-Lakṣmaṇa](lakṣmaṇa) [life](prāṇa) [giver](dāyakaḥ)
+[hanuman](hanumān) [rama-messenger](rāmadūtaḥ) [and](ca) [lakshmana-life-giver](lakṣmaṇaprāṇadāyakaḥ)
 
 ## mukta-m0-p560-v13993
-[up-to-the-eyes](netra+antam) [thus](evaṃ) [having-done](kṛtvā) [then](tu) [of-Laṅkā](laṅkā) [palace](prāsāda) [breaker](bhañjakaḥ)
+[eye-end](netrāntam) [thus](evam) [having-done](kṛtvā) [but](tu) [lanka-palace-breaker](laṅkāprāsādabhañjakaḥ)
 
 ## mukta-m0-p560-v13994
-[in-seven-nights](saptāhāt) [arises](jāyate) [success](siddhiḥ) [by-the-Wind-son’s](vāyu+putra) [grace](prasādataḥ)
+[from-seven-days](saptāhāt) [arises](jāyate) [success](siddhiḥ) [wind-son-grace](vāyuputraprasādataḥ)
 
 ## mukta-m0-p560-v13995
-[ten](daśa) [days](vāsara) [for-the-duration](paryyantaṃ) [king](rāja) [enemy](śatru) [fear](bhayaṃ) [removes](haret)
+[ten](daśa) [days-until](vāsaraparyantam) [king-enemy-fear](rājaśatrubhayam) [remove](haret)
 
 ## mukta-m0-p560-v13996
-[by-him](tena) [consecrated](abhimantritaṃ) [given](dattaṃ) [everything](sarvaṃ) [fruitfulness](saphalatāṃ) [attains](vrajet)
+[by-that](tena) [consecrated](abhimantritam) [given](dattam) [all](sarvam) [fruitfulness](saphalatām) [go](vrajet)
 
 ## mukta-m0-p560-v13997
-[smeared](carcitaṃ) [others’](para) [affliction](bādhā) [and-others](ādi) [of-him](tasya) [perishes](naśyati) [without-doubt](asaṃśayam)
+[anointed](carcitam) [other-affliction-etc](parabādhādi) [of-him](tasya) [perishes](naśyati) [undoubtedly](asaṃśayam)
 
 ## mukta-m0-p560-v13998
-[servitude](dāsatāṃ) [goes](yāti) [even-a-god](devaḥ) [api](api) [among-humans](manuṣyeṣu) [and](ca) [what](kā) [talk](kathā)
+[servitude](dāsatām) [goes](yāti) [god](devaḥ) [even](api) [among-men](manuṣyeṣu) [and](ca) [what-talk](kathā)
 
 ## mukta-m0-p560-v13999
-[in-this-manner](prakāreṇa) [by-the-great-hero](mahābīra) [fever-stricken](jvaritaḥ) [to-peace](śāntitām) [may-go](iyāt)
+[by-method](prakāreṇa) [great-hero-fevered](mahābīrajvaritaḥ) [peace](śāntitām) [attain](iyāt)
 
 ## mukta-m0-p560-v14000
-[twelve](dvādaśa) [syllable](arṇa) [applications](prayogān) [and](ca) [all](nikhilān) [them](tān) [there](tatra) [one-should-perform](kārayet)
+[twelve-syllable-uses](dvādaśārṇaprayogān) [and](ca) [all](nikhilān) [there](tatra) [cause-do](kārayet)

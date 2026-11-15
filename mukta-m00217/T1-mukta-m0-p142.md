@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p142-v3526
-[may-protect](rakṣantu) [me](māṃ) [always](sarvadā) [they](tāḥ) [may-make](kurvantu) [wish](icchāṃ) [in-auspicious-things](śubheṣu) [and](ca)
+[protect](rakṣantu) [me](māṃ) [always](sarvadā) [those](tāḥ) [do-desire](kurvantvicchāṃ) [in-auspicious](śubheṣu) [and](ca)
 
 ## mukta-m0-p142-v3527
-[likewise](tathā) [horse+mounted](haya+samārūḍhāḥ) [may-protect](pāntu) [me](māṃ) [from-all-sides](sarvataḥ) [always](sadā)
+[thus](tathā) [horse-mounted](hayasamārūḍhāḥ) [protect](pāntu) [me](māṃ) [from-all-sides](sarvataḥ) [always](sadā)
 
 ## mukta-m0-p142-v3528
-[chariot+mounted](ratha+ārūḍhāḥ) [and](ca) [me](māṃ) [may-protect](pāntu) [from-all-sides](sarvataḥ) [always](sadā) [in-battle](raṇe)
+[chariot-mounted](rathārūḍhāśca) [me](māṃ) [protect](pāntu) [from-all-sides](sarvataḥ) [always](sarvadā) [in-battle](raṇe)
 
 ## mukta-m0-p142-v3529
-[earth+going](bhū+gatāḥ) [always](sarvadā) [may-protect](pāntu) [me](māṃ) [everywhere](sarvatra) [and](ca) [always](sarvadā)
+[earth-going](bhūgatāḥ) [always](sarvadā) [protect](pāntu) [me](māṃ) [everywhere](sarvatra) [and](ca) [always](sarvadā)
 
 ## mukta-m0-p142-v3530
-[may-they-drive-away](drāvayantu) [of-own-powers](sva+śaktīnāṃ) [with-terrible](bhīṣaṇaiḥ) [with-weapons](āyudhaiḥ) [of-me](mama)
+[drive-away](drāvayantu) [of-own-powers](svaśaktīnāṃ) [with-terrifying-weapons](bhīṣaṇairāyudhairmama)
 
 ## mukta-m0-p142-v3531
-[innumerable](asaṃkhyāḥ) [powers](śaktayaḥ) [goddesses](devyaḥ) [may-protect](pāntu) [me](māṃ) [from-all-sides](sarvataḥ) [always](sadā)
+[countless-powers](asaṃkhyāḥśaktayo) [goddesses](devyaḥ) [protect](pāntu) [me](māṃ) [from-all-sides](sarvataḥ) [always](sadā)
 
 ## mukta-m0-p142-v3532
-[ever](kadācit) [not](na) [inauspicious](aśubhaṃ) [may-he-see](paśyet) [not](na) [hears](śṛṇoti) [and](ca) [equal-to-that](tat+samaḥ)
+[never](kadācinnāśubhaṃ) [see](paśyenna) [not](na) [hear](śṛṇoti) [and](ca) [like-that](tatsamaḥ)
 
 ## mukta-m0-p142-v3533
-[by-four](caturbhiḥ) [kuḍavas](kuḍavaiḥ) [prastha](prasthaḥ) [prasthas](prasthāḥ) [four](catvāraḥ) [āḍhaka](āḍhakaḥ)
+[with-four](caturbhiḥ) [kuḍava](kuḍavaiḥ) [prastha](prasthaḥ) [prasthas](prasthāścatvāra) [āḍhaka](āḍhakaḥ)
 
 ## mukta-m0-p142-v3534
-[kumbha](kumbho) [droṇa+pair](droṇa+dvayaṃ) [śūrpa](śūrpaḥ) [khārī](khārī) [droṇas](droṇāḥ) [but](tu) [sixteen](ṣoḍaśa)
+[pot](kumbho) [two-droṇa](droṇadvayaṃ) [śūrpa](śūrpaḥ) [khārī](khārī) [droṇas](droṇāstu) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p142-v3535
-[circle](vṛttaṃ) [thirty-six+cornered](ṣaṭtriṃśat+asraṃ) [and](ca) [like-that](tadvat) [eighteen+cornered](aṣṭādaśa+asrakam)
+[circle](vṛttaṃ) [thirty-six-sided](ṣaṭtriṃśadasraṃ) [and](ca) [likewise-eighteen-sided](tadvadaṣṭādaśāsrakam)
 
 ## mukta-m0-p142-v3536
-[four+cornered](catur+asram) [then](atha) [three+cornered](tri+asram) [thus](iti) [divisions](bhedāḥ) [nine](nava) [in-order](kramāt)
+[square](caturasramatha) [triangle](tryasramiti) [varieties](bhedā) [nine](nava) [in-order](kramāt)
 
 ## mukta-m0-p142-v3537
-[by-that](tena) [seventy-two](dvāsaptatiḥ) [divisions](bhedāḥ) [among-them](teṣu) [by-eternal+syllable+difference](nitya+arṇa+bhedataḥ)
+[thereby](tena) [seventy-two](dvāsaptatirbhedāsteṣu) [eternal-ocean-variety](nityārṇabhedataḥ)
 
 ## mukta-m0-p142-v3538
-[among-these](eteṣu) [of-the-first](ādyasya) [of-the-circle](vṛttasya) [by-arrangement](vinyāsena) [another](anyat) [one-should-derive](unnayet)
+[in-these](eteṣvādyasya) [circle](vṛttasya) [by-arrangement](vinyāsenānyadunnayet)
 
 ## mukta-m0-p142-v3539
-[thus](evaṃ) [again](punaḥ) [again](punaḥ) [one-should-do](kuryāt) [by-one+finger-each](eka+eka+aṅgulataḥ) [outside](bahiḥ)
+[thus](evaṃ) [again](punaḥ) [again](punaḥ) [do](kuryādekaikāṃgulato) [outside](bahiḥ)
 
 ## mukta-m0-p142-v3540
-[by-thirty-six](ṣaṭtriṃśadbhiḥ) [then](tataḥ) [in-them](teṣu) [one-should-place](nyaset) [letters](varṇān) [thus](tathā) [from-beginning](āditaḥ)
+[with-thirty-six](ṣaṭtriṃśadbhistatasteṣu) [place-letters](nyasedvarṇāstathāditaḥ)
 
 ## mukta-m0-p142-v3541
-[outer+inner+reversed](bāhya+antara+parāvṛttī) [likewise](tathā) [scattered](vyākīrṇam) [thus](iti) [also](api)
+[outer-inner-reversal](bāhyāntaraparāvṛttī) [thus](tathā) [scattered](vyākīrṇamityapi)
 
 ## mukta-m0-p142-v3542
-[one-should-arrange](yojayet) [with-outer+cell+situated](bāhya+koṣṭha+sthaiḥ) [by-previously+stated+method](prāk+ukta+vidhinā) [in-order](kramāt)
+[join](yojayadvāhyakoṣṭhasthaiḥ) [by-previously-stated-method](prāguktavidhinā) [in-order](kramāt)
 
 ## mukta-m0-p142-v3543
-[in-eight+cornered](aṣṭa+asre) [sixteen+spokes](ṣoḍaśa+arāḥ) [should-be](syuḥ) [thirty-six](ṣaṭtriṃśat) [circle](vṛttam) [like-other](anyavat)
+[in-octagon](aṣṭāsre) [sixteen-spokes](ṣoḍaśārāḥ) [are](syuḥ) [thirty-six-circle](ṣaṭtriṃśadvṛttamanyavat)
 
 ## mukta-m0-p142-v3544
-[having-made](kṛtvā) [in-petals](daleṣu) [in-order](kramaśaḥ) [speech+goddess+eight+group](vāk+devī+aṣṭaka+m) [one-should-write](ālikhet)
+[having-made](kṛtvā) [in-petals](daleṣu) [in-order](kramaśo) [eight-goddesses-of-speech](vāgdevyaṣṭakamālikhet)
 
 ## mukta-m0-p142-v3545
-[O-creator](vidhāta) [one-should-worship](pūjayet) [daily](nityaṃ) [for-book+worship+stated+success](pusta+pūjā+ukta+siddhaye)
+[creator](vidhāta) [worship](pūjayennityaṃ) [for-book-worship-stated-success](pustapūjoktasiddhaye)
 
 ## mukta-m0-p142-v3546
-[not](na) [ever](kadācit) [of-fortune](śriyaḥ) [loss](hāniḥ) [will-be](bhaviṣyati) [and](ca) [in-that+family](tat+kule)
+[not](na) [ever](kadācicchriyo) [loss](hānirbhaviṣyati) [and](ca) [in-that-family](tatkule)
 
 ## mukta-m0-p142-v3547
-[there](tatra) [goddess](devīṃ) [having-invoked](samāvāhya) [having-worshipped](saṃpūjya) [according-to-rule](vidhi+vat) [at-night](niśi)
+[there](tatra) [goddess](devīṃ) [invoking](samāvāhya) [worshipping](saṃpūjya) [according-to-rite](vidhivanniśi)
 
 ## mukta-m0-p142-v3548
-[having-worshipped](saṃpūjya) [disciple](śiṣyaṃ) [having-established](saṃsthāpya) [with-devotion](bhaktyā) [him](tam) [one-should-consecrate](abhiṣecayet)
+[worshipping](saṃpūjya) [disciple](śiṣyaṃ) [establishing](saṃsthāpya) [with-devotion](bhaktyā) [him](tamabhiṣecayet)
 
 ## mukta-m0-p142-v3549
-[one-should-give](kuryāt) [of-a-karṣa+gold](karṣa+suvarṇasya) [ring](mudrikā) [cow](gauḥ) [and](ca) [fee](dakṣiṇā)
+[do](kuryāt) [of-gold-karṣa](karṣasuvarṇasya) [ring](mudrikā) [cow](gauśca) [fee](dakṣiṇā)
 
 ## mukta-m0-p142-v3550
-[by-kings](pārthivaḥ) [of-him](tasya) [to-be-honored](vandyaḥ) [or](vā) [he-will-be](bhaviṣyati) [not](na) [doubt](saṃśayaḥ)
+[earthly-one](pārthivastasya) [venerable](vandyo) [or](vā) [will-be](bhaviṣyati) [not](na) [doubt](saṃśayaḥ)

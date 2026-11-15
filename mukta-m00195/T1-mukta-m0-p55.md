@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[suitable](yogyam) [arisen](utpannam) [thus](iti) [one-should-contemplate](bhāvayet)
+[suitable](yogyam) [born](utpannam) [thus](iti) [meditate](bhāvayet)
 
 ## mukta-m0-p55-v1352
-[one-should-give](dadyāt) [without-devotion](abhaktyā) [worship](pūjanaṃ) [as](yathā)
+[give](dadyāt) [without-devotion](abhaktyā) [worship](pūjanaṃ) [as](yathā)
 
 ## mukta-m0-p55-v1353
-[sages](munayaḥ) [aja](aja) [īśa](īśa) [lotus-born](padmajāḥ)
+[sages](munayaḥ) [jeśa](jeśa) [lotus-born](padmajāḥ)
 
 ## mukta-m0-p55-v1354
-[in-the-mouth](vakre) [indeed](tu) [meters](chandāṃsi) [in-the-heart](hṛdi) [deity](devatām)
+[in-crooked](vakre) [tu](tu) [mantras](ucchandāṃsi) [in-heart](hṛdi) [deity](devatām)
 
 ## mukta-m0-p55-v1355
-[obeisance](namaḥ) [kroṃ](kroṃ) [to-the-peg](kīlāya) [assignment](niyogaḥ) [in-life-situation](asu+sthitau) [thus](iti)
+[salutation](namaḥ) [kroṃ](kroṃ) [kīlāya](kīlāya) [niyoga](niyogo) [asusthitau](asusthitāviti)
 
 ## mukta-m0-p55-v1356
-[five-elements](pañca+tattvaṃ) [having-pronounced](samuccārya) [long-form](dīrgha+ākāraṃ) [likewise](tathaiva) [and](ca)
+[five-elements](pañcatattvaṃ) [uttering](samuccārya) [long-form](dīrghākāraṃ) [thus-also](tathaiva) [ca](ca)
 
 ## mukta-m0-p55-v1357
-[of-that-kind](tādṛk) [ṭ-class](ṭa+vargaṃ) [ear-etc.](śrotraka+ādi) [and](ca)
+[such-class](tādṛkṭavargaṃ) [ear-etc](śrotrakādi) [ca](ca)
 
 ## mukta-m0-p55-v1358
-[eṃ](eṃ) [tuṃ](tuṃ) [and](ca) [speech-etc.](vāk+ādīni) [to-that-self](tat+ātmane)
+[eṃ](eṃ) [tuṃ](tuṃ) [ca](ca) [speech-etc](vāgādīni) [to-self](tadātmane)
 
 ## mukta-m0-p55-v1359
-[previously-stated](pūrva+ukta) [oṃ](oṃ) [pa-class](pa+vargaṃ) [and](ca) [of-that-kind](tādṛśam)
+[previously-said](pūrvokta) [oṃ](oṃ) [pavarga](pavargaṃ) [ca](ca) [such](tādṛśam)
 
 ## mukta-m0-p55-v1360
-[and](ca) [of-the-latter-kind](anta+ādṛk) [ya-class](ya+vargaṃ) [mind-etc.](manaḥ+ādi) [and](ca)
+[ca](ca) [antādṛgyavargaṃ](antādṛgyavargaṃ) [mind-etc](mana-ādi) [ca](ca)
 
 ## mukta-m0-p55-v1361
-[at-the-end-of-the-palm](hasta+tala+ante) [one-should-place](nyaset) [thus](evam) [indeed](eva) [certainly](hi)
+[at-palm-end](hastatalānte) [place-thus](nyasedevameva) [hi](hi)
 
 ## mukta-m0-p55-v1362
-[kroṃ](kroṃ) [in-order](kramataḥ) [having-placed](nyasya) [in-the-eight-petals-of-the-heart-lotus](hṛt+padma+aṣṭa+daleṣu) [and](ca)
+[kroṃ](kroṃ) [in-order](kramato) [placing](nyasya) [heart-lotus-eight-petals](hṛtpadmāṣṭadaleṣu) [ca](ca)
 
 ## mukta-m0-p55-v1363
-[haṃ](haṃ) [ṣaṃ](ṣaṃ) [yaṃ](yaṃ) [and](ca) [vaṃ](vaṃ) [and](ca) [saṃ](saṃ) [śaṃ](śaṃ) [kṣaṃ](kṣaṃ) [thus](iti) [by-class](vargataḥ)
+[haṃ](haṃ) [ṣaṃ](ṣaṃ) [yaṃ](yaṃ) [ca](ca) [vaṃ](vaṃ) [ca](ca) [saṃ](saṃ) [śaṃ](śaṃ) [kṣaṃ](kṣaṃ) [iti](iti) [by-class](vargataḥ)
 
 ## mukta-m0-p55-v1364
-[meditation](dhyānaṃ) [which](yat) [here](atra) [indeed](eva) [that](tat) [I-tell](bravīmi) [listen](śṛṇu) [O-beloved](priye)
+[meditation](dhyānaṃ) [which-here](yadatraiva) [that](tad) [I-say](bravīmi) [listen](śṛṇu) [dear](priye)
 
 ## mukta-m0-p55-v1365
-[with-lotus-hands](kara+abjaiḥ) [red](raktām) [three-eyed](tri+netrām) [I-bow](praṇamāmi) [to-the-goddess](devīm)
+[with-lotus-hands](karābjai) [red](raktāṃ) [three-eyed](trinetrām) [I-bow](praṇamāmi) [goddess](devīm)
 
 ## mukta-m0-p55-v1366
-[again](punaḥ) [having-said-that](tat+uktvā) [my](mama) [indeed](tu) [speech-mind-eye](vāk+manaḥ+cakṣuḥ) [one-should-utter](uccaret)
+[again](punar) [that-saying](taduktvā) [mama](mama) [tu](tu) [speech-mind-eye](vāṅmanaścakṣur) [uccaret](uccaret)
 
 ## mukta-m0-p55-v1367
-[let-them-stand](tiṣṭhantu) [ending-with-vahnijāyā](vahni+jāyā+antam) [having-said](uktvā) [the-praṇava](tāraṃ) [then](tataḥ) [one-should-repeat](japet)
+[let-stand](tiṣṭhantu) [fire-born-wife-end](vahnijāyāntam) [saying](uktvā) [tāra](tāraṃ) [then](tato) [japet](japet)
 
 ## mukta-m0-p55-v1368
-[three-breath-controls](prāṇa+āyāma+trayaṃ) [having-done](kṛtvā) [mātṛkā-nyāsa](mātṛkā+nyāsam) [one-should-perform](ācarat)
+[prāṇāyāma-three](prāṇāyāmatrayaṃ) [doing](kṛtvā) [mātṛkā-nyāsa](mātṛkānyāsam) [perform](ācarat)
 
 ## mukta-m0-p55-v1369
-[for-destruction-of-sin](pāpa+nāśāya) [yoga-accomplishment](yoga+siddhiḥ) [result](phalaṃ) [in-order](kramāt)
+[sin-destruction](pāpanāśāya) [yoga-siddhi](yogasiddhiḥ) [fruit](phalaṃ) [gradually](kramāt)
 
 ## mukta-m0-p55-v1370
-[at-the-beginning-of-recitation](japasya+ādau) [at-the-end-of-recitation](japasya+ante) [done](kṛtaḥ) [if](yadi)
+[of-japa](japasya) [at-beginning](ādau) [of-japa](japasya) [at-end](ānte) [done](kṛto) [if](yadi)
 
 ## mukta-m0-p55-v1371
-[as-much-as-possible](yāvat+śaktaḥ) [having-restrained-the-breath](niyamya+asum) [with-the-mind-alone](manasā+eva) [the-mantra](manuṃ) [one-should-repeat](japet)
+[as-able](yāvacchakto) [restraining-breath](niyamyāsuṃ) [by-mind-alone](manasaiva) [mantra](manuṃ) [japet](japet)
 
 ## mukta-m0-p55-v1372
-[three-breath-controls](prāṇa+āyāma+trayaṃ) [declared](proktaṃ) [which](yat) [other](anyat) [done-by-mind](manasā+kṛtam)
+[prāṇāyāma-three](prāṇāyāmatrayaṃ) [said](proktaṃ) [which-other](yadanyan) [by-mind](manasā) [done](kṛtam)
 
 ## mukta-m0-p55-v1373
-[with-half](sārddhaṃ) [preceded-by-seven-vyāhṛtis](sapta+vyāhṛti+pūrvikām)
+[with](sārddhaṃ) [seven-vyāhṛti-prior](saptavyāhṛtipūrvikām)
 
 ## mukta-m0-p55-v1374
-[from-middle-and-root](madhya+mūla+ādi) [up-to-the-tip](yāvat+agram) [with-the-thumb](aṅguṣṭhena) [is-pressed](nipīḍyate)
+[from-middle-root](madhyamūlādyāvadagramaṅguṣṭhena) [nipīḍyate](nipīḍyate)
 
 ## mukta-m0-p55-v1375
-[circumambulation-of-the-knee](jānu+pradakṣiṇī) [one-should-make](kuryāt) [for-as-much-time](yāvat+kālena) [the-hand](hastakaḥ)
+[knee-clockwise](jānupradakṣiṇī) [do](kuryāt) [as-long-time](yāvatkālena) [hand](hastakaḥ)

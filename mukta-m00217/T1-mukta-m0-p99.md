@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p99-v2451
-life-breath+establishment (prāṇasaṃsthāpanaṃ) having-done (kṛtvā) of-the-kalās (kalānāṃ) should-worship (pūjayet) and (ca) them (tāḥ)
+[establishing-breath](prāṇasaṃsthāpanaṃ) [having-done](kṛtvā) [of-arts](kalānāṃ) [should-worship](pūjayecca) [and](ca) [those](tāḥ)
 
 ## mukta-m0-p99-v2452
-nivṛtti-and-others (nivṛttyādyāḥ) and (ca) also (api) should-worship (yajet) by-stated-method (uktayuktyā) the-wise-one (vicakṣaṇaḥ)
+[beginning-with-nivṛtti](nivṛttyādyāścāpi) [should-worship](yajeduktayuktyā) [wise](vicakṣaṇaḥ)
 
 ## mukta-m0-p99-v2453
-śakti-ending-with-sāntā (śaktisāntāvamī) seven (sapta) dhruva-divisions (dhruvabhedāḥ) are-declared (samīritāḥ)
+[seven](sapta) [these](amī) [dhruva-differences](dhruvabhedāḥ) [declared](samīritāḥ)
 
 ## mukta-m0-p99-v2454
-with-indra+creeper+bound (sutrāmavallarīnaddhaiḥ) wish-fulfilling-tree (kalpavṛkṣa) like-a-jewel (maṇīpayā)
+[with-sūtrāma-vallarī-bound](sutrāmavallarīnaddhaiḥ) [kalpa-tree-gem](kalpavṛkṣamanīpayā)
 
 ## mukta-m0-p99-v2455
-afterwards (paścāt) with-unhusked-rice+joined (akṣatasaṃyuktāṃ) with-fruit (saphalāṃ) auspicious-disk (śubhacakrikām)
+[afterwards](paścādakṣatasaṃyuktāṃ) [fruitful](saphalāṃ) [auspicious-wheel](śubhacakrikām)
 
 ## mukta-m0-p99-v2456
-of-wish-fulfilling-tree+fruits (kalpavṛkṣaphalānāṃ) indeed (hi) with-understanding (matyā) of-clear-intellect (viśadadhīḥ) teacher (guruḥ)
+[of-kalpa-tree-fruits](kalpavṛkṣaphalānāṃ) [indeed](hi) [with-intellect](matyā) [clear-minded](viśadadhīrguruḥ)
 
 ## mukta-m0-p99-v2457
-principal-pot (pradhānakumbhaṃ) having-established (saṃsthāpya) on-the-altar (vedyām) thus (evam) best-of-teachers (gurūttamaḥ)
+[principal-pot](pradhānakumbhaṃ) [having-established](saṃsthāpya) [on-altar](vedyāmevaṃ) [best-guru](gurūttamaḥ)
 
 ## mukta-m0-p99-v2458
-as-before (prāgvat) maṇḍala (maṇḍalam) having-drawn (ālikhya) lotus (padmaṃ) and (ca) eight-petaled (aṣṭadalaṃ) auspicious (śubham)
+[before](prāgvanmaṇḍalamālikhya) [lotus](padmaṃ) [and](ca) [eight-petaled](aṣṭadalaṃ) [auspicious](śubham)
 
 ## mukta-m0-p99-v2459
-dhruva (dhruvaṃ) earth (dharāṃ) lord-of-speech (vākpatiṃ) and (ca) lord-of-obstacles (vighneśaṃ) in-them (teṣu) should-worship (pūjayet)
+[dhruva](dhruvaṃ) [earth](dharāṃ) [speech-lord](vākpatiṃ) [and](ca) [obstacle-lord](vighneśaṃ) [among-them](teṣu) [should-worship](pūjayet)
 
 ## mukta-m0-p99-v2460
-amṛta (amṛtaṃ) durjaya (durjayaṃ) and (ca) indeed (eva) siddhārtha (siddhārthaṃ) maṅgala (maṅgalaṃ) likewise (tathā)
+[nectar](amṛtaṃ) [invincible](durjayaṃ) [and](caiva) [accomplished-aim](siddhārthaṃ) [auspicious](maṅgalaṃ) [thus](tathā)
 
 ## mukta-m0-p99-v2461
-in-east-etc. (pūrvādiṣu) in-eight-pots (aṣṭakumbheṣu) with-their (teṣāṃ) mantras (mantraiḥ) and (tu) with-vedic (vaidikaiḥ)
+[in-eastern-etc-eight-pots](pūrvādiṣvaṣṭakumbheṣu) [their](teṣāṃ) [mantras](mantraistu) [vedic](vaidikaiḥ)
 
 ## mukta-m0-p99-v2462
-airāvata (airāvataṃ) puṇḍarīka (puṇḍarīkaṃ) vāmana (vāmanaṃ) kumuda (kumuda) añjana (añjanau)
+[airāvata](airāvataṃ) [puṇḍarīka](puṇḍarīkaṃ) [vāmana](vāmanaṃ) [kumuda-añjana](kumudāñjanau)
 
 ## mukta-m0-p99-v2463
-again (punar) to-the-altar (vedyāṃ) teacher (guruḥ) having-gone (gatvā) having-sat (upaviśya) on-own-seat (nijāsane)
+[again](punarvedyāṃ) [guru](gururgatvā) [having-gone](gatvā) [sitting](upaviśya) [own-seat](nijāsane)
 
 ## mukta-m0-p99-v2464
-in-that (tasyāṃ) image (mūrtau) having-invoked (samāvāhya) should-worship (pūjayet) chosen-deity (iṣṭadevatām)
+[in-that-image](tasyāṃ) [mūrti](mūrtau) [having-invoked](samāvāhya) [should-worship](pūjayediṣṭadevatām)
 
 ## mukta-m0-p99-v2465
-having-caused-to-exit (nirgamayya) and (ca) consciousness (caitanyaṃ) from-nostril-tip+emerged (nāsikāgravinirgatam)
+[having-led-out](nirgamayya) [and](ca) [consciousness](caitanyaṃ) [from-nose-tip](nāsikāgravinirgatam)
 
 ## mukta-m0-p99-v2466
-up-to-head-end (mastakāntaṃ) having-raised (samutthāpya) in-that (tasyām) should-invoke (āvāhayet) then (tataḥ)
+[up-to-head](mastakāntaṃ) [having-raised](samutthāpya) [in-that](tasyāmāvāhayet) [then](tataḥ)
 
 ## mukta-m0-p99-v2467
-confinement (sannirodha) and (ca) unification (sakalīkaraṇaṃ) and (tu) veiling (avaguṇṭhanam)
+[restraint](sannirodha) [and](ca) [making-whole](sakalīkaraṇaṃ) [covering](tvavaguṇṭhanam)
 
 ## mukta-m0-p99-v2468
-beginning-with-seat (āsanādi) ending-with-flower (prasūnānta) offerings (upacārān) having-arranged (prakalpya) and (ca)
+[from-seat-etc-flowers](āsanādiprasūnāntānupacārān) [having-prepared](prakalpya) [and](ca)
 
 ## mukta-m0-p99-v2469
-at-the-very-end (sarvānte) of-the-world-guardians (lokapālānāṃ) and (ca) of-their-weapons (tadastrāṇāṃ) worship (pūjanam)
+[at-end](sarvānte) [of-world-guardians](lokapālānāṃ) [their-weapons](tadastrāṇāṃ) [and](ca) [worship](pūjanam)
 
 ## mukta-m0-p99-v2470
-auspicious-sprout+vessels (maṅgalāṅkurapātrāṇi) to-be-placed (sthāpanīyāni) by-the-mantrin (mantriṇā)
+[auspicious-sprout-vessels](maṅgalāṃkurapātrāṇi) [to-be-placed](sthāpanīyāni) [by-mantrin](mantriṇā)
 
 ## mukta-m0-p99-v2471
-having-established (saṃsthāpya) fire (vahniṃ) having-consecrated (saṃskṛtya) vaiśvadeva-rite (vaiśvadevaṃ) should-perform (samācaret)
+[having-established](saṃsthāpya) [fire](vahniṃ) [having-purified](saṃskṛtya) [vaiśvadeva](vaiśvadevaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p99-v2472
-with-root-mantra (mūlāṇunā) then (tataḥ) having-offered (hutvā) with-ghee-mixed (sājyena) oblation (haviṣā) the-wise-one (sudhīḥ)
+[with-root-atom](mūlāṇunā) [then](tato) [having-offered](hutvā) [with-ghee](sājyena) [oblation](haviṣā) [wise](sudhīḥ)
 
 ## mukta-m0-p99-v2473
-having-worshipped (sampūjya) her (tāṃ) with-sandalwood-etc. (candanādyaiḥ) in-pedestal+image (pīṭhamūrtau) indeed (tu) should-unite (yojayet)
+[having-worshipped](sampūjya) [her](tāṃ) [with-sandal-etc](candanādyaiḥ) [pedestal-image](pīṭhamūrtau) [then](tu) [should-join](yojayet)
 
 ## mukta-m0-p99-v2474
-to-the-attendants (pārṣadebhyaḥ) with-sandalwood-etc.+flower+unhusked-rice+accompanied (candanādipuṣpākṣatasamanvitam)
+[to-attendants](pārṣadebhyaścandanādipuṣpākṣatasamanvitam)
 
 ## mukta-m0-p99-v2475
-again (punar) should-worship (yajet) and (ca) with-offerings (upacāraiḥ) five (pañcabhiḥ) should-show (darśayet) then (tataḥ)
+[again](punaryajeccopacāraiḥ) [with-five](pañcabhirdarśayet) [then](tataḥ)

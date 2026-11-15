@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1426,
- "question": "Which deities continue the sequence after the previously named ones?",
+ "question": "Who is the power-army leader named Lalita?",
  "premises": [
-  "Sarvonmādinikā is named in the sequence",
-  "Sarvamahāṃkuśā follows thereafter"
+  "Lalita is named",
+  "she leads the power army",
+  "her name is heard"
  ],
- "inference": "The sequence continues with Sarvonmādinikā and then Sarvamahāṃkuśā",
- "uncertainties": [],
- "plain_english": "And indeed Sarvonmādinikā, and then Sarvamahāṃkuśā."
+ "inference": "The verse identifies Lalita as the named leader of the power army.",
+ "uncertainties": [
+  "exact sandhi resolution of lalitā'bhidhā"
+ ],
+ "plain_english": "Lalita, the leader of the power army, is the one whose name is heard."
 }

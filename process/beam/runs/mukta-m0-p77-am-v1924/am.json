@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p77",
  "verse": 1924,
- "question": "What musical instrument and earrings complete the goddess's graceful iconography?",
+ "question": "What does the goddess do before mounting her chariot?",
  "premises": [
-  "A vīṇā quivers in her hand",
-  "She wears pure conch earrings"
+  "She mounts the chariot named wheel-king.",
+  "She bows to the supreme goddess.",
+  "The actions are sequential."
  ],
- "inference": "The goddess is depicted with musical grace and distinctive conch ornaments",
- "uncertainties": [],
- "plain_english": "She holds a quivering vīṇā in her hand and wears pure conch earrings."
+ "inference": "The goddess bows to the supreme goddess before mounting her chariot.",
+ "uncertainties": [
+  "cakrarājākhyarathaṃ is a compound; exact internal membership is contextual."
+ ],
+ "plain_english": "Mounting the chariot named wheel-king, bowing to the supreme goddess."
 }

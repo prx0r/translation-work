@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "prāha",
+     "gloss": "spoke",
+     "grounds": "aorist form of prāh (to speak)",
+     "morph": "3.sg.act-aor + root prāh"
+    },
+    {
+     "surface": "bhaṇḍaḥ",
+     "gloss": "bhaṇḍa",
+     "grounds": "nominative singular masculine of bhaṇḍa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smayan",
+     "gloss": "smiling",
+     "grounds": "present participle of smi, nominative singular masculine",
+     "morph": "pres.part.act.nom.sg.m + root smi"
+    },
+    {
+     "surface": "kiñcitcchṛṇu",
+     "gloss": "listen-to-something",
+     "grounds": "imperative of śru fused with kiñcit",
+     "morph": "2.sg.act-imp + root śru"
+    },
+    {
+     "surface": "daityetyupākraman",
+     "gloss": "demon-thus-began",
+     "grounds": "aorist of upākram fused with daitya and iti",
+     "morph": "3.sg.act-aor + root upākram"
+    }
+   ],
+   "question": "What does Bhaṇḍa say while smiling before beginning as the demon?",
+   "premises": [
+    "Bhaṇḍa spoke while smiling.",
+    "He asks someone to listen to something.",
+    "He begins as the demon."
+   ],
+   "inference": "Bhaṇḍa opens his reply with a smiling address before taking up the demon role.",
+   "uncertainties": [
+    "The exact addressee and the content of kiñcit are not specified in this verse."
+   ],
+   "plain_english": "Bhaṇḍa spoke, smiling: 'Listen to something,' and began as the demon."
+  }
+ ]
+}

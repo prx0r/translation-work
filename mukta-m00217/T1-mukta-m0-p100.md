@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[to-the-deity](devatāyai) [having-offered](nivedya) [then](atha) [that](taṃ) [recitation](japaṃ) [for-prosperity](saṃpade) [then](tataḥ)
-
+to-deity [devatāyai] having-offered [nivedya] then [atha] that [taṃ] japa [japaṃ] for-prosperity [saṃpade] then [tataḥ]
 ## mukta-m0-p100-v2477
-[gold+cloth+endowed](suvarṇa+vastra+saṃyuktaṃ) [water-pot](karakaṃ) [water+filled](jala+pūritam)
-
+golden-cloth-joined [suvarṇavastrasaṃyuktaṃ] water-pot [karakaṃ] water-filled [jalapūritam]
 ## mukta-m0-p100-v2478
-[in-the-west-facing-direction](paścimāsyāṃ) [sword+shield+holding](khaḍga+kheṭa+dhāriṇīṃ) [lion+seated](siṃha+saṃsthitām)
-
+west-facing [paścimāsyāṃ] sword-shield-bearing [khaḍgakheṭadhāriṇīṃ] lion-seated [siṃhasaṃsthitām]
 ## mukta-m0-p100-v2479
-[should-carry-around](bhramet) [inside](antaḥ) [but](tu) [protect](rakṣa) [thus](iti) [of-the-world-guardians](lokeśānām) [uttering](iti+īrayan)
-
+wander-inside-but [bhramedantastu] protect [rakṣa] thus [iti] of-world-lords [lokeśānām] thus-saying [itīrayan]
 ## mukta-m0-p100-v2480
-[in-own-place](sva+sthāne) [should-place](sthāpayet) [that](taṃ) [but](tu) [with-the-phaṇ-mantra](phaṇ+mantreṇa) [then](tataḥ) [should-worship](arcayet)
-
+in-own-place [svasthāne] let-him-place [sthāpayet] that [taṃ] but [tu] with-phaṇ-mantra [phaṇmantreṇa] then-worship [tato'rcayet]
 ## mukta-m0-p100-v2481
-[then](tataḥ) [fire](vahniṃ) [having-well-consecrated](su+saṃskṛtya) [rice-dish](caruṃ) [with-cow's-milk](go+payasā) [should-cook](pacet)
-
+then [tato] fire [vahniṃ] well-prepared [susaṃskṛtya] caru [caruṃ] with-cow-milk [gopayasā] let-him-cook [pacet]
 ## mukta-m0-p100-v2482
-[with-the-root-mantra](mūla+aṇunā) [having-consecrated](abhimantrya) [then](atha) [rice-grains](taṇḍulān) [rice+born](śāli+sambhavān)
-
+with-root-mantra [mūlāṇunā] having-consecrated [abhimantrya] then [atha] rice-grains [taṇḍulān] rice-born [śālisambhavān]
 ## mukta-m0-p100-v2483
-[with-washed](prakṣālitena) [vessel](pātreṇa) [vessel+mouth](pātra+vaktraṃ) [having-covered](pidhāya) [and](ca)
-
+with-washed [prakṣālitena] vessel [pātreṇa] vessel-mouth [pātravaktraṃ] covering [pidhāya] and [ca]
 ## mukta-m0-p100-v2484
-[should-cook](pacet) [teacher](guruḥ) [facing-east](prāṅ+mukhaḥ) [but](tu) [when-cooked](svinne) [that](tam) [should-hold](abhidhārayet)
-
+let-him-cook [paced] guru [guruḥ] east-facing [prāṅmukhas] but [tu] cooked [svinne] that [taṃ] let-him-hold [abhidhārayet]
 ## mukta-m0-p100-v2485
-[with-the-huṃ-mantra](huṃ+mantreṇa) [with-weapon-mantra+consecrated](astra+saṃjapte) [on-kuśa-grass+spread](kuśa+āstīrṇe) [having-divided](vibhajya) [that](tat)
-
+with-huṃ-mantra [huṃmantreṇa] weapon-consecrated [astrasaṃjapte] kuśa-spread [kuśāstīrṇe] having-divided [vibhajya] that [tat]
 ## mukta-m0-p100-v2486
-[remainder](śiṣṭaṃ) [with-disciple](śiṣyeṇa) [accompanied](sahitaḥ) [teacher](guruḥ) [should-eat](bhuñjīta) [mantra-knower](mantra+vit)
-
+remainder [śiṣṭaṃ] with-disciple [śiṣyeṇa] guru [guruḥ] let-him-eat [bhuñjīta] mantra-knower [mantravit]
 ## mukta-m0-p100-v2487
-[span+measure](prādeśa+mātraṃ) [with-hṛt-mantra+recited](hṛñ+japtaṃ) [as-prescribed](yathā+uktaṃ) [tooth+cleaning-stick](danta+dhāvanam)
-
+finger-length [prādeśamātraṃ] hṛṃ-consecrated [hṛñjaptaṃ] as-said [yathoktaṃ] tooth-cleaning [dantadhāvanam]
 ## mukta-m0-p100-v2488
-[declared](gaditaḥ) [preliminary-rite](adhivāsaḥ)
-
+spoken [gaditas] adhivāsa [adhivāsaḥ]
 ## mukta-m0-p100-v2489
-[made-of-clay](mṛṇmayī) [made-of-udumbara-wood](audumbarī) [or](vā) [also](api) [rice-dish+pot](caru+sthālī) [is-recommended](praśasyate)
-
+clay-or-udumbara [mṛṇmayyaudumbarī] or [vāpi] caru-pot [carusthālī] is-praised [praśasyate]
 ## mukta-m0-p100-v2490
-[not](na) [too+loose](ca+ati+śithilaḥ) [to-be-cooked](pācyaḥ) [not](na) [and](ca) [devoid-of-essence](vīta+rasaḥ) [should-be](bhavet)
-
+not-too-loose [nacātiśithilaḥ] to-be-cooked [pācyas] not [na] and [ca] juiceless [vītarasas] let-it-be [bhavet]
 ## mukta-m0-p100-v2491
-[of-the-completed](niṣpannasya) [and](ca) [they](te) [all](sarve) [to-be-performed](vidheyāḥ) [should-be](syuḥ) [in-order](krameṇa) [indeed](vai)
-
+of-completed [niṣpannasya] and [ca] those [te] all [sarve] to-be-done [vidheyāḥ] may-be [syuḥ] in-order [krameṇa] indeed [vai]
 ## mukta-m0-p100-v2492
-[in-well-consecrated](su+saṃskṛte) [of-the-teacher](guroḥ) [fire-pit](kuṇḍe) [with-consecrations](saṃskāraiḥ) [and](ca) [according-to-rule](yathā+vidhi)
-
+well-prepared [susaṃskṛte] of-guru [guroḥ] kuṇḍa [kuṇḍe] with-purifications [saṃskāraiśca] as-prescribed [yathāvidhi]
 ## mukta-m0-p100-v2493
-[with-the-root-mantra](mūla+aṇunā) [and](ca) [having-inspected](saṃvīkṣya) [having-sprinkled](saṃprokṣya) [with-the-weapon-mantra](astra+aṇunā) [then](tataḥ)
-
+with-root-mantra [mūlāṇunā] and [ca] having-inspected [saṃvīkṣya] having-sprinkled [saṃprokṣyāstrāṇunā] then [tataḥ]
 ## mukta-m0-p100-v2494
-[digging](khananaṃ) [should-be](syāt) [with-the-arrow-mantra](śareṇa) [then](atha) [with-that](tena) [alone](eva) [lifting-out](uddhāraḥ) [declared](īritaḥ)
-
+digging [khananaṃ] may-be [syācchareṇātha] by-that-same [tenaivoddhāra] declared [īritaḥ]
 ## mukta-m0-p100-v2495
-[with-the-armor-mantra](kavacena) [then](atha) [with-the-weapon-mantra](śastreṇa) [pounding](kuṭṭanaṃ) [with-the-armor-mantra](varmaṇā) [considered](matam)
-
+with-armor [kavacenātha] with-weapon [śastreṇa] pounding [kuṭṭanaṃ] with-armor [varmaṇā] considered [matam]
 ## mukta-m0-p100-v2496
-[should-make](kuryāt) [making-three-lines](tri+sūtrī+karaṇaṃ) [with-the-namo-mantra](namaḥ+mantreṇa) [should-fill](pūrayet)
-
+let-him-do [kuryāt] three-thread-making [trisūtrīkaraṇaṃ] with-nama-mantra [namomantreṇa] let-him-fill [pūrayet]
 ## mukta-m0-p100-v2497
-[with-the-armor-mantra](kavacena) [of-the-senses](indriyāṇām) [and](ca) [also](api) [opening](udghāṭanam) [then](atha) [should-perform](ācaret)
-
+with-armor [kavacenendriyāṇāṃ] and [ca] opening [udghāṭanamathācaret]
 ## mukta-m0-p100-v2498
-[one-should-consecrate](saṃskuryāt) [or](atha+vā) [them](tāni) [with-four](caturbhiḥ) [first+uttered](prathama+uditaiḥ)
-
+let-him-purify [saṃskuryādathavā] those [tāni] with-four [caturbhiḥ] first-mentioned [prathamoditaiḥ]
 ## mukta-m0-p100-v2499
-[with-thumb+ring-finger](aṃguṣṭha+anāmikābhyāṃ) [but](tu) [with-the-heart-mantra](hṛdayena) [then](atha) [should-fill](pūrayet)
-
+with-thumb-and-ring-finger [aṃguṣṭhānāmikābhyāṃ] but [tu] with-heart [hṛdayenātha] let-him-fill [pūrayet]
 ## mukta-m0-p100-v2500
-[three-lines+encircling](tri+sūtrī+paridhānaṃ) [and](ca) [with-the-armor-mantra](varmaṇā) [sprinkling](abhyukṣaṇaṃ) [with-the-heart-mantra](hṛdā)
+three-thread-wearing [trisūtrīparidhānaṃ] and [ca] with-armor [varmaṇābhyukṣaṇaṃ] with-heart [hṛdā]

@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "matvā",
+     "gloss": "having-thought",
+     "grounds": "absolute of man",
+     "morph": "absolutive (man)"
+    },
+    {
+     "surface": "rathaṃ",
+     "gloss": "chariot",
+     "grounds": "accusative object",
+     "morph": "noun acc.sg.m"
+    },
+    {
+     "surface": "saṅkucitaṃ",
+     "gloss": "contracted",
+     "grounds": "past participle modifying rathaṃ",
+     "morph": "participle acc.sg.m (saṅkuc)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative of place",
+     "morph": "noun loc.sg.f"
+    },
+    {
+     "surface": "tābhyām",
+     "gloss": "by-those-two",
+     "grounds": "instrumental dual agent",
+     "morph": "pronoun instr.dual.m"
+    },
+    {
+     "surface": "bhūt",
+     "gloss": "became",
+     "grounds": "finite verb of state",
+     "morph": "verb 3.sg.act-aor (bhū)"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "made",
+     "grounds": "past participle result",
+     "morph": "participle acc.sg.n (kṛ)"
+    }
+   ],
+   "question": "What became of the chariot when the two fighters struck with maces?",
+   "premises": [
+    "The chariot was thought contracted on ground.",
+    "Those two made it so.",
+    "Mace combat preceded this action."
+   ],
+   "inference": "The verse records the chariot's contraction on the ground by the two fighters.",
+   "uncertainties": [
+    "Exact syntactic relation of bhūt and kṛtam is unclear.",
+    "Referent of tābhyām is unspecified."
+   ],
+   "plain_english": "Thinking the chariot had contracted on the ground, those two made it so."
+  }
+ ]
+}

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1437,
- "question": "Which attracting deities are named in this part of the sequence?",
+ "question": "Can a very strong other be defeated without strategy?",
  "premises": [
-  "Kāmākarṣiṇikā is named",
-  "Buddhyākarṣiṇikā is named likewise"
+  "strategy is absent",
+  "defeat is not possible",
+  "the other is very strong"
  ],
- "inference": "The sequence includes Kāmākarṣiṇikā and Buddhyākarṣiṇikā",
- "uncertainties": [],
- "plain_english": "Kāmākarṣiṇikā, and indeed Buddhyākarṣiṇikā likewise."
+ "inference": "The verse says a very strong opponent cannot be defeated without strategy.",
+ "uncertainties": [
+  "voice of jīyeta"
+ ],
+ "plain_english": "Without strategy, a very strong opponent is not defeated."
 }

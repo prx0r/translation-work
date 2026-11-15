@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-above(ūrdhve) banner(dhvajaṃ) and(ca) one-should-bind(badhnīyāt) bell+chowrie+adorned(ghaṇṭā+cāmara+bhūṣitam)
+[upward](ūrdhve) [flag](dhvajaṃ) [and](ca) [bind](badhnīyāt) [bell](ghaṇṭā)+[fly-whisk](cāmara)+[ornamented](bhūṣitam)
 
 ## mukta-m0-p84-v2077
-then(tataḥ) but(tu) of-world-guardians(lokapālānāṃ) flags(patākāḥ) arm-measure(bāhu+sammitāḥ)
+[then](tataḥ)+[tu](tu) [world-protectors](lokapālānāṃ) [banners](patākāḥ) [arm-measured](bāhu-sammitāḥ)
 
 ## mukta-m0-p84-v2078
-yellow+red+dark-blue+smoky+white+grey+black+white(pīta+arakta+śyāma+dhūmrā+śveta+dhūmra+asita+arjunāḥ)
+[yellow](pīta)+[red](rakta)+[dark](śyāma)+[smoky](dhūmra)+[white](śveta)+[smoky](dhūmra)+[black](asita)+[arjuna](arjunaḥ)
 
 ## mukta-m0-p84-v2079
-as-appropriate(yathā+yogyaṃ) with-staff-endowed(daṇḍa+yutāḥ) with-their-respective-mantra(tat+tat+mantreṇa) them(tān) one-should-place(nyaset)
+[as-suitable](yathāyogyaṃ) [staff-equipped](daṇḍayutāḥ) [those](tāḥ) [their-mantra](tad-mantra)+[by](ena) [place](nyaset)
 
 ## mukta-m0-p84-v2080
-silk-cloth+wrapped+pillar(dukūla+veṣṭita+stambhaṃ) with-various-lamps-etc.+adorned(nānā+dīpa+ādi+alaṃkṛtam)
+[cloth-wrapped](dukūla-veṣṭita) [pillar](stambhaṃ) [various-lamps-etc-ornamented](nānā-dīpa-ādi-alaṃkṛtam)
 
 ## mukta-m0-p84-v2081
-wrapped(veṣṭitaṃ) with-grass-rope(darbha+rajjvā) and(ca) one-should-make(vidadhyāt) pavilion(maṇḍapaṃ) auspicious(śubham)
+[wrapped](veṣṭitaṃ) [kuśa-rope](darbha-rajju) [and](ca) [make](vidadhyāt) [pavilion](maṇḍapaṃ) [auspicious](śubham)
 
 ## mukta-m0-p84-v2082
-with-one-hundred-and-eight(aṣṭa+uttara+śataiḥ) cubits(hastaiḥ) with-one-hundred-cubits(śata+hastaiḥ) or(atha) also(api) or(vā)
+[one-hundred-eight](aṣṭottara-śataiḥ) [cubits](hastaiḥ) [one-hundred](śata)+[cubits](hastaiḥ) [or](athāpi) [or](vā)
 
 ## mukta-m0-p84-v2083
-with-sixty-cubits(ṣaṣṭi+hastaiḥ) with-forty-eight(aṣṭa+catvāriṃśadbhiḥ) cubits(hastakaiḥ) in-order(kramāt)
+[sixty](ṣaṣṭi)+[cubits](hastaiḥ) [forty-eight](aṣṭa-catvāriṃśat)+[cubits](hastakaiḥ) [in-order](kramāt)
 
 ## mukta-m0-p84-v2084
-with-twenty-four-cubits(caturviṃśati+hastaiḥ) or(vā) pavilion(maṇḍapaṃ) should-make(kārayet) wise-one(budhaḥ)
+[twenty-four](catur-viṃśati)+[cubits](hastaiḥ) [or](vā) [pavilion](maṇḍapaṃ) [make](kārayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p84-v2085
-triangular(tri+koṇam) eight-petal-like(aṣṭa+patra+ābhaṃ) nine-cornered(nava+koṇam) two-cornered(dvi+koṇakam)
+[triangular](trikoṇa) [eight-petaled](aṣṭa-patra-ābhaṃ) [nine-cornered](nava-koṇaṃ) [two-cornered](dvi-koṇakam)
 
 ## mukta-m0-p84-v2086
-twelve-cornered(dvādaśaṃ) sixteen-cornered(ṣoḍaśaṃ) and(ca) eighteen+twenty-cornered(aṣṭādaśa+viṃśati+koṇakam)
+[twelve](dvādaśaṃ) [sixteen](ṣoḍaśaṃ) [ca](ca) [eighteen](aṣṭādaśa)+[twenty](viṃśati)+[cornered](koṇakam)
 
 ## mukta-m0-p84-v2087
-thirty-two-cornered(dvātriṃśat+koṇakaṃ) and(ca) indeed(eva) thirty-six-cornered(ṣaṭtriṃśat+koṇakaṃ) likewise(tathā)
+[thirty-two](dvā-triṃśat)+[cornered](koṇakaṃ) [ca](ca) [eva](eva) [thirty-six](ṣaṭ-triṃśat)+[cornered](koṇakaṃ) [tathā](tathā)
 
 ## mukta-m0-p84-v2088
-winnowing-basket+spear+sword+crossroads+bow+mace+shape(śūrpa+kunta+asi+śṛṅgāṭa+dhanur+mudgara+ka+ākṛtiḥ)
+[winnowing-fan](śūrpa)+[spear](kunta)+[sword](asi)+[water-chestnut](śṛṅgāṭa)+[bow](dhanus)+[mallet](mudgara)+[crow-shape](kākṛtiḥ)
 
 ## mukta-m0-p84-v2089
-in-full-consecration(pūrṇa+abhiṣeke) in-initiation(dīkṣāyām) in-consecration-etc.-pacifications(abhiṣeka+ādi+śāntiṣu)
+[full-abhiṣeka](pūrṇa-abhiṣeke) [initiation](dīkṣāyām) [abhiṣeka-etc-peace-rites](abhiṣeka-ādi-śāntiṣu)
 
 ## mukta-m0-p84-v2090
-to-be-done(kartavyāni) especially(viśeṣeṇa) in-that-respective-rite(tat+tat+karmaṇi) by-the-unwearied(atandritaiḥ)
+[to-be-done](kartavyāni) [especially](viśeṣeṇa) [their-respective-rite](tad-tad-karmaṇi) [unwearied](atandritaiḥ)
 
 ## mukta-m0-p84-v2091
-in-them(teṣu) subtle(sūkṣmāḥ) spread(visarpante) dust-particles( reṇukāḥ) atom-particles(trasareṇavaḥ)
+[among-them](teṣu) [subtle](sūkṣmāḥ) [spread](visarpante) [dust](reṇu)+[weapon-dust](astra-sareṇavaḥ)
 
 ## mukta-m0-p84-v2092
-they(te) eight(aṣṭau) called-hair(keśa+āhvayāḥ) they(te) eight(aṣṭau) nit(likṣāḥ) louse(yukāḥ) that-eight(tat+aṣṭakam)
+[those](te) [eight](aṣṭau) [hair-named](keśa-āhvayāḥ) [those](te) [eight](aṣṭau) [lice](likṣāḥ) [yūka](yūkāḥ) [that-eightfold](tad-aṣṭakam)
 
 ## mukta-m0-p84-v2093
-that(sā) indeed(tu) highest-finger(uttama+aṅguliḥ) seven-barleycorns(sapta+yavā) that(sā) indeed(eva) but(tu) middle(madhyamā)
+[she](sā) [tu](tu) [top-finger](uttama-aṃguliḥ) [seven-grains](sapta-yavā) [she](sā) [eva](eva) [tu](tu) [middle](madhyamā)
 
 ## mukta-m0-p84-v2094
-by-placed(vinyastaiḥ) transversely(tiryak) by-eight(aṣṭābhiḥ) barleycorns(yavaiḥ) another-measure-finger(māna+antara+aṅgulam)
+[placed](vinyastaiḥ) [transverse](tiryak) [eight](aṣṭābhiḥ) [grains](yavaiḥ) [measure-between-fingers](māna-antara-aṃgulam)
 
 ## mukta-m0-p84-v2095
-in-teacher's-right-hand(ācārya+dakṣiṇa+kare) middle-finger-middle(madhyamā+aṅguli+madhyagam)
+[teacher](ācārya)+[right-hand](dakṣiṇa-kare) [middle-finger-middle](madhyama-aṃguli-madhya-gam)
 
 ## mukta-m0-p84-v2096
-without-thumb(vinā+aṅguṣṭhena) with-remaining(śeṣābhiḥ) fist(muṣṭim) by-fingers(aṅgulibhiḥ) made(kṛtam)
+[without](vinā) [thumb](aṃguṣṭhena) [remaining](śeṣābhiḥ) [fist](muṣṭi) [finger](aṃguli)+[by](bhiḥ) [made](kṛtam)
 
 ## mukta-m0-p84-v2097
-whatever(yam+kaṃcit) man-height(pauruṣa+āyāmaṃ) having-divided(vibhajya) tenfold(daśadhā) again(punaḥ)
+[whatever](yaṃ) [kaṃcit](kaṃcit) [man-length](pauruṣa-āyāmaṃ) [dividing](vibhajya) [tenfold](daśadhā) [again](punaḥ)
 
 ## mukta-m0-p84-v2098
-body-derived-finger(deha+labdha+aṅgulaṃ) by-name(nāma) one-should-know(jānīyāt) of-that(tasya) that(tat) again(punaḥ)
+[body-obtained-finger](deha-labdha-aṃgulaṃ) [named](nāma) [know](jānīyāt) [its](tasya) [that](tat) [again](punaḥ)
 
 ## mukta-m0-p84-v2099
-great-measure-finger(mahā+māna+aṅguliḥ) thus(iti) measure-finger(mātrā+aṅguliḥ) here(iha) is-called(ucyate)
+[great-measure-finger](mahā-māna-aṃguliḥ) [iti](iti) [measure-finger](mātrā-aṃguliḥ) [here](iha) [called](ucyate)
 
 ## mukta-m0-p84-v2100
-of-altar+platform+palanquin+chariot-etc.(vedikā+pīṭha+śivikā+ratha+ādīnāṃ) rule(vidhiḥ) again(punaḥ)
+[altar](vedikā)+[seat](pīṭha)+[palanquin](śivikā)+[chariot](ratha)+[etc](ādīnāṃ) [rule](vidhiḥ) [again](punaḥ)

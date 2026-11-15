@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p35",
  "verse": 859,
- "question": "What enclosing form should be drawn after the outer lotus?",
+ "question": "What happens when he again reaches your presence in battle?",
  "premises": [
-  "The lotus drawing is completed.",
-  "An earth-circle must be drawn next.",
-  "It should be well-rounded."
+  "He reaches your presence.",
+  "He is defeated again in battle."
  ],
- "inference": "Then one should draw a well-rounded earth-circle.",
- "uncertainties": [],
- "plain_english": "O Supreme Goddess, then one should draw a well-rounded earth-circle."
+ "inference": "Even reaching your presence does not prevent defeat.",
+ "uncertainties": [
+  "The identity of 'he' depends on prior context."
+ ],
+ "plain_english": "He too, having reached your presence, is defeated again in battle."
 }

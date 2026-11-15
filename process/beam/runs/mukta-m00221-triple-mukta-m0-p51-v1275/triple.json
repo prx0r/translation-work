@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "tatte",
+     "gloss": "that",
+     "grounds": "fused sandhi form tat+te",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "mārgaḥ",
+     "gloss": "path",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pravidito",
+     "gloss": "known",
+     "grounds": "past participle in nominative singular masculine",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "vadā",
+     "gloss": "tell",
+     "grounds": "imperative second singular active",
+     "morph": "verb.2sg.act-imp+vad"
+    },
+    {
+     "surface": "asmākaṃ",
+     "gloss": "to-us",
+     "grounds": "first person plural genitive/dative",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "course",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the known path determine the course that is to be followed?",
+   "premises": [
+    "the path is already known",
+    "the speaker asks for its course",
+    "the course must be declared"
+   ],
+   "inference": "The verse requests an explanation of how the known path unfolds into the proper course.",
+   "uncertainties": [
+    "tatte may be a fused pronoun form with unresolved internal sandhi",
+    "asmākaṃ may function as dative or genitive in context"
+   ],
+   "plain_english": "That path is known; tell us how the course proceeds."
+  }
+ ]
+}

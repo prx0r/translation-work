@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[here](atrā'pi) [i-think](manye) [of-women+children+faces](strī+bāla+mukhānāṃ) [not](na) [indeed](hi) [possibility](sambhavam)
+[here+also](atrā'pi) [I-think](manye) [of-women-and-children-mouths](strībālamukhānāṃ) [not](n) [indeed](hi) [possibility](sambhavam)
 
 ## mukta-m0-p34-v827
-[now](atha) [or](vā) [this](etat) [by-me](mayā) [formerly](pūrvaṃ) [heard](śrutam) [from-lotus-seated-one's+mouth](abja+āsanāt+mukhāt)
+[then](atha) [from-that](vaitanmayā) [formerly](pūrvaṃ) [heard](śrutam) [from-lotus-seated](abjāsanāt) [from-mouth](mukhāt)
 
 ## mukta-m0-p34-v828
-[thus](iti) [therefore](tat) [my](me) [retinue](parīvāraṃ) [not](na) [may-dry-up](śoṣayatu) [she](sā) [supreme](parā)
+[thus](iti) [that](tan) [my](me) [retinue](parīvāraṃ) [not](na) [let-dry](śoṣayatu) [she](sā) [supreme](parā)
 
 ## mukta-m0-p34-v829
-[of-knowing](jānānasya) [even](api) [of-me](me) [goddess](devī) [delusion](moham) [produces](utpādayati) [greatly](alam)
+[even-though-knowing](jānānasyā'pi) [my](me) [goddess](devī) [delusion](moham) [causes](utpādayati) [enough](alam)
 
 ## mukta-m0-p34-v830
-[therefore](tat) [him](taṃ) [with-whole](sarveṇa) [disposition](bhāvena) [refuge](śaraṇaṃ) [having-attained](prāptavān) [i](aham)
+[that](tattaṃ) [by-all](sarveṇa) [with-mind](bhāvena) [refuge](śaraṇaṃ) [obtained-I](prāptavānaham)
 
 ## mukta-m0-p34-v831
-[protect](pāhi) [me](māṃ) [o-supreme-goddess](parameśāni) [o-refuge-giver](śaraṇye) [refuge-taken](śaraṇa+āgatam)
+[protect](pāhi) [me](māṃ) [supreme-goddess](parameśāni) [refuge-giver](śaraṇye) [refuge-seeker](śaraṇāgatam)
 
 ## mukta-m0-p34-v832
-[thus](iti) [having-prayed](prārthya) [great-goddess](mahā+devīṃ) [tripurā](tripurāṃ) [bhaṇḍa+demon](bhaṇḍa+dānavaḥ)
+[thus](iti) [praying](prārthya) [great-goddess](mahādevīṃ) [Tripura](tripurāṃ) [Bhanda-demon](bhaṇḍadānavaḥ)
 
 ## mukta-m0-p34-v833
-[delighting](harṣayan) [thus](iti) [spoke](ha) [uvāca](uvāca) [with-valor+endowed](parākrama+yutaṃ) [speech](vacaḥ)
+[delighting](harṣayanniti) [thus](iti) [said](hovāca) [valiant](parākramayutaṃ) [speech](vacaḥ)
 
 ## mukta-m0-p34-v834
-[not](na) [of-me](me) [death](mṛyuḥ) [from-anywhere](kutaḥ+api) [is](asti) [of-death](mṛtyoḥ) [death](mṛtyuḥ) [i](aham) [as](yathā)
+[not](na) [my](me) [death](mṛyuḥ) [from-anywhere](kuto'pyasti) [death-of-death](mṛtyormṛtyur) [I](ahaṃ) [as](yatha)
 
 ## mukta-m0-p34-v835
-[of-moving+non-moving+worlds](sa+cara+a+cara+lokānāṃ) [creator](sraṣṭā) [i](aham) [of-you](vaḥ) [in-presence](samakṣataḥ)
+[of-moving-and-nonmoving-worlds](sacarā'caralokānāṃ) [creator-I](sraṣṭā'haṃ) [before-you](vaḥ) [in-presence](samakṣataḥ)
 
 ## mukta-m0-p34-v836
-[therefore](tat) [this](imām) [weak-woman](abalāṃ) [knowing](jñātvā) [not](na) [quickly](śīghraṃ) [to-kill](hantum) [i-desire](utshe)
+[therefore-this-weak-woman](tatremāmabalāṃ) [knowing](jñātvā) [not](na) [quickly](śīghraṃ) [to-kill](hantumutshe)
 
 ## mukta-m0-p34-v837
-[own+inner+palace](sva+antaḥ+puraṃ) [having-brought](samānīya) [great+bliss](mahā+ānandam) [i-shall-enjoy](uṣaimi) [greatly](alam)
+[own](svā'ntaḥ) [inner-city](puraṃ) [bringing](samānīya) [great-joy](mahā'nandamuṣaimyalam)
 
 ## mukta-m0-p34-v838
-[of-bhaṇḍa+asura](bhaṇḍa+asurasya) [of-speech+and-reply](ūha+apohavarṇanaṃ) [named](nāma) [sixtieth](ṣaṣṭitamaḥ) [chapter](adhyāyaḥ)
+[Bhanda-asura's-chapter](bhaṇṇdāsurasyohāmapohavarṇanaṃ) [named-sixty-chapter](nāma ṣaṣṭitamo'dhyāyaḥ)
 
 ## mukta-m0-p34-v839
-[spoke](babhāṣe) [with-anger+red+eyed](krodha+tāmra+akṣaḥ) [chariot](rathaḥ) [let-be-yoked](saṃyujyatām) [thus](iti)
+[spoke](babhāṣe) [anger-reddened-eyes](krodhatāmrākṣo) [chariot](rathaḥ) [let-be-yoked](saṃyujyatāmiti)
 
 ## mukta-m0-p34-v840
-[announced](nivedayat) [to-demon+lord](daitya+nāthe) [having-bowed](praṇamya) [very+humbly](ati+vinītavat)
+[informing-demon-lord](nivedayaddaityanāthe) [bowing](praṇamyā'tivinītavat) [very-humble](ativinītavat)
 
 ## mukta-m0-p34-v841
-[having-taken](gṛhītvā) [with-arrow](sa+śaraṃ) [bow](cāpaṃ) [he-set-forth](pracacāla) [very+angered](ati+roṣitaḥ)
+[taking](gṛhītvā) [with-arrow](saśaraṃ) [bow](cāpaṃ) [went](pracacālā'tiroṣitaḥ) [greatly-angry](atiroṣitaḥ)
 
 ## mukta-m0-p34-v842
-[demons](daityāḥ) [went-forth](viniryayuḥ) [quickly](śīghraṃ) [armored](sannaddhāḥ) [with-anger+fainted](krodha+mūrchitāḥ)
+[demons](daityā) [went-out](viniryayuḥ) [quickly](śīghraṃ) [armed](sannaddhāḥ) [anger-fainted](krodhamūrchitāḥ)
 
 ## mukta-m0-p34-v843
-[went-forth](niryayuḥ) [demon+warriors](daitya+subhaṭāḥ) [in-multitudes](saṅghaśaḥ) [holding+weapons](dhṛta+hetayaḥ)
+[went-out](niryayurdaityasubhaṭāḥ) [demon-warriors](daityasubhaṭāḥ) [in-groups](saṅghaśo) [holding-weapons](dhṛtahetayaḥ)
 
 ## mukta-m0-p34-v844
-[kuṭilākṣa](kuṭilākṣaḥ) [elder-brother](agrajaḥ) [of-them](teṣām) [of-immeasurable+strength+valor](ameya+bala+vikramaḥ)
+[crooked-eyed](kuṭilākṣo'grajasteṣāmameyabalavikramaḥ) [elder-brother](agrajaḥ) [of-them](teṣām) [immeasurable-strength-valor](ameyabalavikramaḥ)
 
 ## mukta-m0-p34-v845
-[with-akṣauhiṇī+hundred+joined](akṣauhiṇī+śata+yutāḥ) [bhaṇḍa+demons](bhaṇḍa+daityāḥ) [in-front](agrataḥ) [went](yayuḥ)
+[with-hundred-akshauhini](akṣauhiṇīśatayutā) [Bhanda-demons](bhaṇḍadaityā'grato) [in-front](agrato) [went](yayuḥ)
 
 ## mukta-m0-p34-v846
-[on-two-sides](pārśvayoḥ) [of-demon+king](daitya+parājasya) [viṣaṅga](viṣaṅgaḥ) [and](ca) [viśukraka](viśukrakaḥ)
+[on-sides](pārśvayordaityparājasya) [of-demon-king](daityarājasya) [Vishanga](viṣaṅgaśca) [and](ca) [Vishukra](viśukrakaḥ)
 
 ## mukta-m0-p34-v847
-[chariot-standing](ratha+sthau) [those-two](tau) [having-great+bows](mahā+cāpau) [with-anger+reddened+eyes](krudhā+aruṇita+locanau)
+[on-chariots](rathasthau) [those-two](tau) [great-bows](mahācāpau) [anger-reddened-eyes](krudhā'ruṇitalocanau)
 
 ## mukta-m0-p34-v848
-[each](pratyekam) [of-akṣauhiṇīs](akṣauhiṇīnāṃ) [by-hundred](śatena) [surrounded](parivāritau)
+[each](pratyekamakṣauhiṇīnāṃ) [of-akshauhini](akṣauhiṇīnāṃ) [with-hundred](śatena) [surrounded](parivāritau)
 
 ## mukta-m0-p34-v849
-[followed](anujagmuḥ) [demon+king](daitya+parim) [with-hundred+akṣauhiṇīs+joined](śata+akṣauhiṇi+saṃyutāḥ)
+[followed](anujagmurdaityapariṃ) [demon-army](daityapariṃ) [with-hundred-akshauhini](śatā'kṣauhiṇisaṃyutāḥ)
 
 ## mukta-m0-p34-v850
-[shone](rarāja) [royal+road](rāja+pathyā) [indeed](tu) [rainy-season+river](prāvṛṭ+kāla+nadī) [like](yathā)
+[shone](rarāja) [royal-road](rājapathyā) [tu](tu) [rainy-season-river](prāvṛṭkālanadī) [like](yathā)

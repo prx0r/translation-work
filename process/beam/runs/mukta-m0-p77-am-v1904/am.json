@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p77",
  "verse": 1904,
- "question": "Which martial implements are enumerated as attributes held by the goddess?",
+ "question": "What is the result of the demons becoming weaponless before her prowess?",
  "premises": [
-  "The trident, drum, and sword are named",
-  "The shield is also included"
+  "The demons are weaponless.",
+  "They became so before her.",
+  "Her prowess is the cause."
  ],
- "inference": "The goddess bears a set of martial and ritual implements signifying power",
- "uncertainties": [],
- "plain_english": "She holds a trident, a drum, a sword, and likewise a shield."
+ "inference": "The demons' loss of weapons exposes them to the goddess's superior power.",
+ "uncertainties": [
+  "jātāstasyāḥ is fused; exact boundary is editorial."
+ ],
+ "plain_english": "Thus the demons became weaponless before her prowess."
 }

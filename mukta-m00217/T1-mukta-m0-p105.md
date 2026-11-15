@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[weak-digestion](mandāgnir) + [diseased](āmayāvī) [and](ca) [poor](daridraś) + [and](ca) + [is-born](upajāyate)
+[weak-fire](mandāgni) [diseased](āmayāvī) [and](ca) [poor](daridraḥ) [born](upajāyate)
 
 ## mukta-m0-p105-v2602
-[of-the-lunar-mansions](nakṣatrāṇāṃ) [with](sa) + [weekdays](vārāṇāṃ) [with](sa) + [zodiac-signs](rāśīnāṃ) [in-due-order](yathākramaṃ)
+[stars](nakṣatrāṇāṃ) [days](savārāṇāṃ) [signs](sarāśīnāṃ) [in-order](yathākramaṃ)
 
 ## mukta-m0-p105-v2603
-[of-the-stars](tārāṇām) + [beginning-with-aśvinī](aśvinyādīnāṃ) [zodiac-sign](rāśiḥ) [quarter](pāda) + [exceeding](adhikaṃ) [two](dvayam)
+[stars](tārāṇām) [from-aśvinī](aśvinyādīnāṃ) [sign](rāśiḥ) [foot-plus-two](pādādhikaṃ) [pair](dvayam)
 
 ## mukta-m0-p105-v2604
-[to-the-deities](devatābhyaḥ) [word](padaṃ) [having-uttered](proktvā) [day](divā) + [and-night](naktaṃ) [one-should-say](vadet) + [likewise](tathā)
+[deities](devatābhyaḥ) [foot](padaṃ) [spoken](proktvā) [day-night](divānaktaṃ) [thus](tathā)
 
 ## mukta-m0-p105-v2605
-[thus](evaṃ) [in-the-zodiac-sign](rāśau) [indeed](tu) [being-complete](sampūrṇe) [in-that](tasmiṃs) + [in-the-same-way](tadvat) [one-should-apply](prayojayet)
+[thus](evaṃ) [in-sign](rāśau) [complete](sampūrṇe) [there](tasmin) [likewise](tadvat) [employ](prayojayet)
 
 ## mukta-m0-p105-v2606
-[of-the-seven](saptānāṃ) [karaṇas](karaṇāṇāṃ) [and](ca) [one-should-give](dadyān) + [named-mīna](mīnāhvam) + [to-meṣa](eṣayoḥ)
+[seven](saptānāṃ) [karaṇas](karaṇānāṃ) [give](dadyāt) [fish-ram](mīnāhvameṣayoḥ)
 
 ## mukta-m0-p105-v2607
-[again](punar) + [the-offering](nivedyam) + [having-removed](uddhṛtya) [as-before](pūrvavat) [having-worshipped](paripūjya) [and](ca)
+[again](punaḥ) [offered](nivedyam) [removed](uddhṛtya) [as-before](pūrvavat) [worshipped](paripūjya) [and](ca)
 
 ## mukta-m0-p105-v2608
-[having-praised](stutvā) [duly](yathāvat) [should-bow](praṇamed) + [with-devotion](bhaktiyuktas) + [indeed](tu) [the-practitioner](sādhakaḥ)
+[praised](stutvā) [properly](yathāvat) [bow](praṇamet) [devoted](bhaktiyuktaḥ) [sādhaka](sādhakaḥ)
 
 ## mukta-m0-p105-v2609
-[cancer](kulīra) + [and-leo](siṃho) [and](ca) [likewise](tathā) [in-the-southwest](nair-ṛtyāṃ) [virgo](kanyakā) [situated](sthitā)
+[cancer](kulīra) [lion](siṃhaḥ) [and](ca) [thus](tathā) [southwest](nairṛtyāṃ) [virgin](kanyakā) [stood](sthitā)
 
 ## mukta-m0-p105-v2610
-[capricorn](nakra) + [and-aquarius](kumbhāv) + [in-the-north](uttarato) [pisces](mīnam) + [in-the-east](īśe) [indeed](tu) [situated](saṃsthitam)
+[crocodile-pot](nakrakumbhau) [northward](uttarato) [fish](mīnam) [in-īśa](īśe) [situated](saṃsthitam)
 
 ## mukta-m0-p105-v2611
-[twelfth](dvādaśaḥ) [breath](śvāsaḥ) [section](śvāsaḥ) [completed](dvādaśaḥ)
+[twelfth](dvādaśaḥ) [breath](śvāsaḥ)
 
 ## mukta-m0-p105-v2612
-[again](punaḥ) [with-the-to-be-accomplished](sādhyena) [with-the-mantra](manunā) [eight](aṣṭa) + [more-than](uttara) + [thousand](sahasrakam)
+[again](punaḥ) [by-sādhya](sādhyena) [mantra](manunā) [thousand-eight](aṣṭottarasahasrakam)
 
 ## mukta-m0-p105-v2613
-[the-disciple](śiṣyaṃ) [bathed](snātaṃ) [five](pañca) + [products-of-the-cow](gavyam) [should-make-drink](pāyayen) + [mantra](mantra) + [knower](vit) + [best](tamaḥ)
+[disciple](śiṣyaṃ) [bathed](snātaṃ) [five-cow-products](pañcagavyaṃ) [give-drink](pāyayet) [mantra-knower](mantravittamaḥ)
 
 ## mukta-m0-p105-v2614
-[from-the-heart](hṛt) + [lotus](puṇḍarīkāc) + [consciousness](caitanyaṃ) [of-him](tasya) [in-one's-own](svā) + [self](tmani) [one-should-unite](yojayet)
+[heart-lotus](hṛtpuṇḍarīkāt) [consciousness](caitanyaṃ) [his](tasya) [own-self](svātmani) [unite](yojayet)
 
 ## mukta-m0-p105-v2615
-[they](te) [kalā](kalā) + [tattva](tattva) + [bhuvana](bhuvana) + [varṇa](arṇa) + [pada](padā) [mantra](mantra) + [preceded-by](pūrvakāḥ)
+[those](te) [kalā-tattva-world-ocean-foot](kalātattvabhuvanārṇapadā) [mantra-prefixed](mantrapūrvakāḥ)
 
 ## mukta-m0-p105-v2616
-[kalās](kalā) [nivṛtti](nivṛtti) + [beginning-with](prasukhās) + [that](tad) + [path](adhvā) [five](pañca) [are-declared](kīrtitāḥ)
+[kalās](kalāḥ) [nivṛtti-pleasant](nivṛttiprasukhāḥ) [that-path](tadadhvā) [five](pañca) [declared](kīrtitāḥ)
 
 ## mukta-m0-p105-v2617
-[there](tatra) [śaiva](śaivāni) [principles](tattvāni) [six](ṣaṭ) + [thirty](triṃśat) + [measured](pramitāny) + [now](atha)
+[there](tatra) [śaiva](śaivāni) [tattvas](tattvāni) [thirty-six](ṣaṭtriṃśat) [measured](pramitānyatha)
 
 ## mukta-m0-p105-v2618
-[knowledge](vidyā) [and](ca) + [these](etāni) [pure](śuddhāni) [pure](śuddhā) + [impure](śuddhāni) [seven](sapta) [and](ca)
+[knowledge](vidyā) [these](caitāni) [pure](śuddhāni) [pure-impure](śuddhāśuddhāni) [seven](sapta) [and](ca)
 
 ## mukta-m0-p105-v2619
-[puruṣa](puruṣaś) + [and](ca) + [also](apy) + [impure](aśuddhāni) [prakṛti](prakṛtir) + [buddhi](buddhy) + [ahaṃkāra](ahaṃkṛtiḥ)
+[puruṣa](puruṣaḥ) [also-impure](cāpyaśuddhāni) [prakṛti](prakṛtiḥ) [buddhi](buddhi) [ahaṃkāra](ahaṃkṛtiḥ)
 
 ## mukta-m0-p105-v2620
-[declared](uktāni) [śaiva](śaiva) + [principles](tattvāni) [six](ṣaṭ) + [thirty](triṃśan) + [by-mantra](mantra) + [knowers](vedibhiḥ)
+[spoken](uktāni) [śaiva-tattvas](śaivatattvāni) [thirty-six](ṣaṭtriṃśat) [mantra-knowers](mantravedibhiḥ)
 
 ## mukta-m0-p105-v2621
-[will-be-explained](vakṣyante) [with-jīva](jīva) + [accompanied](sahitaḥ) [prāṇa](prāṇo) [buddhi](buddhir) + [mind](manas) + [then](tataḥ)
+[will-be-spoken](vakṣyante) [with-jīva](jīvasahitaḥ) [prāṇa](prāṇaḥ) [buddhi](buddhiḥ) [mind](manas) [then](tataḥ)
 
 ## mukta-m0-p105-v2622
-[heart](hṛt) + [lotus](padmaṃ) [of-energies](tejasāṃ) [and](ca) + [indeed](eva) [three](trayaṃ) [four](catvāra) [indeed](eva) [and](ca)
+[heart-lotus](hṛtpadmaṃ) [tejas](tejasāṃ) [and](ca) [three](trayaṃ) [four](catvāraḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p105-v2623
-[subtle-elements](tanmātrāś) + [and](ca) + [sense-organs](indriyāṇi) [are](syur) + [mind](mano) + [ego]('haṅkāra) + [intellect](buddhayaḥ)
+[tanmātras](tanmātrāḥ) [senses](indriyāṇi) [become](syuḥ) [mind](manaḥ) [ahaṃkāra](ahaṅkāra) [buddhis](buddhayaḥ)
 
 ## mukta-m0-p105-v2624
-[nivṛtti](nivṛtty) + [beginning-with](ādyāḥ) [kalās](kalāḥ) [five](pañca) [then](tato) [bindu](bindu) + [kalā](kalā) [again](punaḥ)
+[(nivṛttyādyāḥ kalāḥ pañca tato bindukalā punaḥ](nivṛttyādyāḥ kalāḥ pañca tato bindukalā punaḥ)
 
 ## mukta-m0-p105-v2625
-[seven](sapta) [principles](tattvāni) [declared](proktāni) [by-tantra](tantra) + [knowers](jñais) + [of-three](tri) + [pada](padā) + [nature](tmanaḥ)
+[seven](sapta) [tattvas](tattvāni) [spoken](proktāni) [tantra-knowers](tantrajñaiḥ) [tripadātman](tripadātmanaḥ)

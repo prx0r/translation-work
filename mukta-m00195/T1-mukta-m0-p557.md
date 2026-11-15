@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p557-v13901
-[in-belly](kukṣau) [in-navel](nābhau) [on-genitals](dhvaje) [on-knees](jānvoḥ) [on-feet](pādayoḥ) [syllables-of-the-mantra](manu+varṇakān)
+[in-belly](kukṣau) [in-navel](nābhau) [in-banner](dhvaje) [in-knees](jānvoḥ) [in-feet](pādayoḥ) [mantra-letters](manuvarṇakān)
 
 ## mukta-m0-p557-v13902
-[on-feet](pādayoḥ) [one-should-place](vinyaset) [the-mantra](mantraṃ) [six-seed-syllables](ṣaṭ+bījāni) [two-feet](pada+dvayam)
+[in-feet](pādayoḥ) [place](vinyaset) [mantra](mantraṃ) [six-seeds](ṣaḍbījāni) [two-feet](padadvayam)
 
 ## mukta-m0-p557-v13903
-[with-sound](nādena) [indeed](eva) [terrifying](trāsayantaṃ) [served-by-Sugrīva-and-others](sugrīva+ādi+ka+sevitam)
+[by-sound](nādena) [indeed](eva) [terrifying](trāsayantaṃ) [sugrīva-etc-served](sugrīvādikasevitam)
 
 ## mukta-m0-p557-v13904
-[one-should-worship](yajet) [in-eight-petaled](aṣṭa+dale) [lotus](padme) [on-filaments](keśareṣu) [worship-of-limbs](aṅga+pūjanam)
+[worship](yajet) [eight-petaled](aṣṭadale) [lotus](padme) [in-filaments](keśareṣu) [limb-worship](aṅgapūjanam)
 
 ## mukta-m0-p557-v13905
-[carrier-of-Droṇa-mountain](droṇa+adri+hārakaḥ) [performer-of-worship-on-Meru-seat](meru+pīṭhaka+arcana+kārakaḥ)
+[mountain-remover](droṇādrihārakaḥ) [meru-seat-worship-doer](merupīṭhakārcanakārakaḥ)
 
 ## mukta-m0-p557-v13906
-[thus](evaṃ) [on-petals](patreṣu) [names](nāmāni) [one-should-worship](pūjayet) [and](ca) [at-tips-of-petals](dala+agrataḥ)
+[thus](evaṃ) [in-petals](patreṣu) [names](nāmāni) [worship](pūjayet) [ca](ca) [at-petal-tips](dalāgrataḥ)
 
 ## mukta-m0-p557-v13907
-[Suṣeṇa](suṣeṇaṃ) [Dvividha](dvividaṃ) [and](ca) [indeed](eva) [in-ground-enclosure](bhupūre) [guardians-of-directions](dik+patīn) [also](api)
+[suṣeṇa](suṣeṇaṃ) [dvivida](dvividaṃ) [ca](ca) [eva](eva) [bhūpura](bhupūre) [direction-lords](dikpatīn) [api](api)
 
 ## mukta-m0-p557-v13908
-[thus](evaṃ) [with-accomplished-mantra](siddha+manuḥ) [the-practitioner](maṃtrī) [applications](prayogān) [should-perform](ācaret) [then](tathā)
+[thus](evaṃ) [accomplished-mantra](siddhamanuḥ) [mantrin](mantrī) [rites](prayogān) [should-perform](ācaret) [tathā](tathā)
 
 ## mukta-m0-p557-v13909
-[twenty-two](dvāviṃśatiṃ) [celibate](brahmacārī) [brahmins](viprān) [one-should-feed](sambhojayet) [then](tataḥ)
+[twenty-two](dvāviṃśatiṃ) [brahmacārī](brahmacārī) [brāhmaṇas](viprān) [feed](sambhojayet) [tataḥ](tataḥ)
 
 ## mukta-m0-p557-v13910
-[with-one-hundred-and-eight](aṣṭa+uttara+śatena) [consecrated](abhimantritaṃ) [destroyer-of-poison](viṣa+nāśanam)
+[by-one-hundred-eight](aṣṭottaraśatena) [consecrated](abhimantritaṃ) [poison-destroyer](viṣanāśanam)
 
 ## mukta-m0-p557-v13911
-[which](yaḥ) [man](naraḥ) [of-him](tasya) [are-destroyed](naśyanti) [fears-from-king-and-enemy](rāja+śatru+prabhītayaḥ)
+[which](yaḥ) [man](naraḥ) [his](tasya) [perish](naśyanti) [king-enemy-fears](rājaśatruprabhītayaḥ)
 
 ## mukta-m0-p557-v13912
-[with-ashes](bhasmabhiḥ) [or](vā) [with-waters](salilaiḥ) [one-should-strike](tāḍayet) [the-fevered-person](jvariṇaṃ) [with-anger](krudhā)
+[with-ashes](bhasmabhiḥ) [with-waters](salilair) [vā](vā) [api](api) [strike](tāḍayet) [feverish](jvariṇaṃ) [angrily](krudhā)
 
 ## mukta-m0-p557-v13913
-[that-mantra-consecrated-medicine](tat+mantrita+auṣadhaṃ) [having-eaten](jagdhvā) [free-from-disease](nīrogaḥ) [one-becomes](jāyate) [certainly](dhruvam)
+[that-mantra-enchanted-medicine](tanmantritauṣadhaṃ) [having-eaten](jagdhvā) [disease-free](nīrogaḥ) [becomes](jāyate) [certainly](dhruvam)
 
 ## mukta-m0-p557-v13914
-[smeared-with-ashes-consecrated-by-that-mantra](tat+japta+bhasma+lipta+aṅgaḥ) [by-hosts-of-enemies](śatru+saṃghaiḥ) [not](na) [is-troubled](bādhyate)
+[that-mantra-ash-smeared-limbs](tajjaptabhasmaliptāṅgaḥ) [by-enemy-hosts](śatrusaṃghaiḥ) [not](na) [harmed](bādhyate)
 
 ## mukta-m0-p557-v13915
-[touched-by-that-consecrated-three-times](triḥ+mantritena) [touched](saṃspṛṣṭaḥ) [from-three-days](tri+dināt) [goes](yāti) [to-dryness](śuṣkatām)
+[thrice-mantra-touched](trirmantritena) [touched](saṃspṛṣṭaḥ) [three-days](tridināt) [becomes-dry](yāti-śuṣkatām)
 
 ## mukta-m0-p557-v13916
-[nail](kīlakaṃ) [ashes](bhasma) [and](ca) [having-taken](ādāya) [for-a-week](sapta+aha+avadhi) [endowed](saṃyutam)
+[peg](kīlakaṃ) [ash](bhasma) [ca](ca) [taking](ādāya) [seven-days-limit](saptāhāvadhi) [joined](saṃyutam)
 
 ## mukta-m0-p557-v13917
-[afflicted-by-fear](bhayāt+āpannāḥ) [from-hatred](vidveṣāt) [flee](palāyante) [enemies](arayaḥ) [quickly](cirāt)
+[from-hatred](vidveṣāt) [fear](bhayam) [having-obtained](āpannāḥ) [flee](palāyante) [enemies](arayaḥ) [quickly](cirāt)
 
 ## mukta-m0-p557-v13918
-[cruel](krūrāḥ) [themselves](svayaṃ) [indeed](tu) [thieves-and-others](caura+ādyāḥ) [become](bhavanti) [variously](vividhā) [subdued](vaśāḥ)
+[cruel](krūrāḥ) [themselves](svayaṃ) [tu](tu) [ca](ca) [thieves-etc](caurādyāḥ) [become](bhavanti) [various](vividhāḥ) [subdued](vaśāḥ)
 
 ## mukta-m0-p557-v13919
-[thumb-sized](aṃguṣṭha+mātrāṃ) [image](pratimāṃ) [having-made](samvidhāya) [of-Hanumān](hanūmataḥ)
+[thumb-sized](aṃguṣṭhamātrāṃ) [image](pratimāṃ) [having-made](samvidhāya) [of-hanūmat](hanūmataḥ)
 
 ## mukta-m0-p557-v13920
-[facing-the-house](gṛhasya+abhimukhīṃ) [at-door](dvāre) [one-should-bury](nikhanet) [consecrated-by-mantra](mantra+mantritām)
+[of-house](gṛhasya) [facing](abhimukhīṃ) [at-door](dvāre) [bury](nikhanet) [mantra-consecrated](mantramantritām)
 
 ## mukta-m0-p557-v13921
-[daily](pratyahaṃ) [with-wealth-sons-and-others](dhana+putra+ādyaiḥ) [prospers](edhate) [that-house](tat+gṛhaṃ) [for-long](ciram)
+[daily](pratyahaṃ) [wealth-sons-etc](dhanaputrādyaiḥ) [grows](edhate) [that-house](tadgṛhaṃ) [long](ciram)
 
 ## mukta-m0-p557-v13922
-[of-enemy](śatroḥ) [effigy](pratikṛtiṃ) [having-made](kṛtvā) [on-heart](hṛdi) [name](nāma) [one-should-write](samālikhet)
+[of-enemy](śatroḥ) [likeness](pratikṛtiṃ) [having-made](kṛtvā) [in-heart](hṛdi) [name](nāma) [write](samālikhet)
 
 ## mukta-m0-p557-v13923
-[at-end-of-mantra](mantra+ante) [one-should-utter](proccaret) [of-enemy](śatroḥ) [name](nāma) [cut](chindhi) [and](ca) [break](bhindhi) [and](ca)
+[at-mantra-end](mantrānte) [utter](proccaret) [enemy-name](śatroḥnāma) [cut](cchindhi) [ca](ca) [break](bhindhi) [ca](ca)
 
 ## mukta-m0-p557-v13924
-[thus](evaṃ) [for-seven-days](sapta+dinaṃ) [doing](kurvan) [one-kills](hanyāt) [enemies](śatrūn) [no](na) [doubt](saṃśayaḥ)
+[thus](evaṃ) [seven-days](saptadinaṃ) [doing](kurvan) [kill](hanyāt) [enemies](śatrūn) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p557-v13925
-[with-loosened-hair](mukta+keśaḥ) [dwelling-in-cremation-ground](śmaśāna+sthaḥ) [with-mustard-and-black-mustard](bala+asaurāṣṭrikā+yutaiḥ)
+[loose-haired](muktakeśaḥ) [cremation-ground-dweller](śmaśānasthaḥ) [with-balāsaurāṣṭrika](balāsaurāṣṭrikāyutaiḥ)

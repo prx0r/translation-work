@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p35",
  "verse": 868,
- "question": "What cosmic principle and number of worlds are associated with the letter ī?",
+ "question": "How is the army encamped there?",
  "premises": [
-  "The letter ī is identified.",
-  "It is called mahāmāyā.",
-  "It is associated with fourteen worlds."
+  "Army commanders encamp the army.",
+  "They do so there in divisions."
  ],
- "inference": "The letter ī is mahāmāyā and is associated with the fourteen worlds.",
- "uncertainties": [],
- "plain_english": "The letter ī is Mahāmāyā, associated with the fourteen worlds."
+ "inference": "The army is divided and encamped by its commanders.",
+ "uncertainties": [
+  "The number of divisions is not specified."
+ ],
+ "plain_english": "Having encamped the army there in divisions by the army commanders."
 }

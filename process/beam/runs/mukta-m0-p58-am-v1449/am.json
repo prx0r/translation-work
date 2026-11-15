@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1449,
- "question": "Which deities are named in sequence within this eight-petaled wheel?",
+ "question": "Who hears Vishanga's speech and is king?",
  "premises": [
-  "Anaṅgamadanā is named",
-  "Anaṅgamadanāturā follows after"
+  "Vishanga's speech is heard",
+  "Kutilaksha is named",
+  "he is king"
  ],
- "inference": "The sequence includes Anaṅgamadanā and then Anaṅgamadanāturā",
- "uncertainties": [],
- "plain_english": "Anaṅgamadanā, and after her Anaṅgamadanāturā."
+ "inference": "The verse says Kutilaksha, the king, hears Vishanga's speech.",
+ "uncertainties": [
+  "sandhi in kuṭilāks'śca"
+ ],
+ "plain_english": "Hearing Vishanga's speech, Kutilaksha, the king, acts."
 }

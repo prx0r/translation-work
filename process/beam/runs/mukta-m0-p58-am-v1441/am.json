@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1441,
- "question": "In which wheel and petal formation are these deities situated?",
+ "question": "Who surrounds all the armored ones by Vishukra?",
  "premises": [
-  "They are in the all-wishes-filling wheel",
-  "They are in the sixteen-petaled formation"
+  "all are armored",
+  "Vishukra is involved",
+  "they are surrounded"
  ],
- "inference": "These deities are situated in the sixteen-petaled all-wishes-filling wheel",
- "uncertainties": [],
- "plain_english": "They are situated in the all-wishes-filling wheel with sixteen petals."
+ "inference": "The verse says all armored ones are surrounded by Vishukra.",
+ "uncertainties": [
+  "sandhi in viśukreṇā'pi"
+ ],
+ "plain_english": "All are armored and surrounded by Vishukra."
 }

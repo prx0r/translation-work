@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p43",
  "verse": 1075,
- "question": "What ritual fruit is gained by making that offering to the goddess?",
+ "question": "Do demons declare that flight in battle is unworthy of noble-born warriors?",
  "premises": [
-  "The offering is made to the goddess at that time.",
-  "The previously described aṣṭāṅgārghya constitutes the offering.",
-  "Such an offering yields the fruit of a Vedic sacrifice."
+  "demons speak in battle",
+  "flight is judged unequal",
+  "noble-born warriors are referenced"
  ],
- "inference": "The worshipper obtains the fruit of the Agniṣṭoma sacrifice.",
- "uncertainties": [],
- "plain_english": "O great king, one would then obtain the fruit of the Agniṣṭoma sacrifice for the goddess."
+ "inference": "The verse presents demonic speech contrasting retreat with the honor expected of noble-born fighters.",
+ "uncertainties": [
+  "exact syntactic role of palāyanam",
+  "whether naitatsamaṃ modifies flight or battle"
+ ],
+ "plain_english": "The demons say that such flight in battle is not fitting for those of noble birth."
 }

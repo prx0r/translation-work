@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "prahṛṣṭa",
+     "gloss": "delighted",
+     "grounds": "the king is delighted after hearing the counsel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "utthāya",
+     "gloss": "rising",
+     "grounds": "he rises from his seat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "object of embrace",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "repeated object, same referent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "drutaṃ",
+     "gloss": "quickly",
+     "grounds": "speed of the embrace",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the king acts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pariṣasvaje",
+     "gloss": "embraced",
+     "grounds": "he embraces the speaker",
+     "morph": "3.sg.mid-perf + pariṣvaj"
+    }
+   ],
+   "question": "What action does the delighted king take after hearing the counsel?",
+   "premises": [
+    "the king becomes delighted",
+    "he rises from his seat",
+    "he embraces the speaker quickly"
+   ],
+   "inference": "The king rises and quickly embraces the speaker.",
+   "uncertainties": [
+    "the repeated taṃ may be emphatic or editorial duplication"
+   ],
+   "plain_english": "Delighted, the king rose and quickly embraced him."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "ekākinīṃ",
+     "gloss": "alone",
+     "grounds": "accusative feminine singular adjective modifying the girl",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "rathāruḍhāṃ",
+     "gloss": "chariot-mounted",
+     "grounds": "accusative feminine singular adjective describing her riding a chariot",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "mṛdvaṅgīm",
+     "gloss": "soft-limbed",
+     "grounds": "accusative feminine singular adjective describing her body",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "aṣṭahāyanām",
+     "gloss": "eight-years-old",
+     "grounds": "accusative feminine singular adjective giving her age",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What physical and solitary condition characterizes the eight-year-old goddess as seen by the demon commander?",
+   "premises": [
+    "The demon commander sees the girl.",
+    "She is alone on a chariot.",
+    "She is soft-limbed and eight years old."
+   ],
+   "inference": "The verse portrays the goddess as a solitary, youthful, chariot-mounted figure before confrontation.",
+   "uncertainties": [
+    "The verse supplies description rather than an explicit doctrinal claim; battle context comes from surrounding verses."
+   ],
+   "plain_english": "Alone, mounted on a chariot, soft-limbed, and eight years old."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "rātriḥ",
+     "gloss": "night",
+     "grounds": "nominative subject of asti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "alpa+avaśeṣā",
+     "gloss": "little-remaining",
+     "grounds": "compound adjective modifying rātriḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "copula linking subject and predicate",
+     "morph": "3.sg.act-pres + as"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating renewed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya+udayaṃ",
+     "gloss": "sunrise",
+     "grounds": "compound accusative goal of prati",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "preposition governing sūrya-udayaṃ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What temporal limit remains before the next sunrise and renewed action?",
+   "premises": [
+    "night has little remaining",
+    "sunrise is the next goal",
+    "action resumes again"
+   ],
+   "inference": "The verse marks a brief remaining night before sunrise-oriented renewal.",
+   "uncertainties": [
+    "exact ritual action implied by punaḥ is not specified"
+   ],
+   "plain_english": "The night has little remaining; again, toward sunrise."
+  }
+ ]
+}

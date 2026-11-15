@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[eight-weapons](aṣṭāyudhānām) [in-places](sthāneṣu) [counter-weapon](pratiheti) [and](ca) [sixteen](ṣoḍaśa)
+[of-eight-weapons](aṣṭāyudhānāṃ) [in-places](sthāneṣu) [counter-weapon](pratiheti) [and](ca) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p117-v2902
-[on-sides](pārśvayoḥ) [one](ekam) [one](ekam) [and](ca) [of-goddess](devyāḥ) [on-back](pṛṣṭhe) [pot-triad](ghaṭa+trayam)
+[at-sides](pārśvayoḥ) [one-each](ekamekam) [and](ca) [of-goddess](devyāḥ) [at-back](pṛṣṭhe) [three-pots](ghaṭatrayam)
 
 ## mukta-m0-p117-v2903
-[guru-maṇḍala](guru+maṇḍala) [construction](nirmāṇam) [six-corner](ṣaṭ+koṇa) [eight-petal](aṣṭa+abja) [in-middle](madhyataḥ)
+[guru-mandala-construction](gurumaṇḍalanirmāṇaṃ) [from-middle-of-hexagon-eight-lotus](ṣaḍkoṇāṣṭābjamadhyataḥ)
 
 ## mukta-m0-p117-v2904
-[planet-maṇḍala](graha+maṇḍalam) [in-northeast](īśāne) [sarvatobhadra-maṇḍala](sarvatobhadra+maṇḍalam)
+[planet-mandala](grahamaṇḍalam) [in-northeast](īśāne) [sarvatobhadra-mandala](sarvatobhadramaṇḍalam)
 
 ## mukta-m0-p117-v2905
-[southeast-east](āgneya+pūrva) [in-middle](madhye) [then](tu) [one-should-make](kūryāt) [nakṣatra-maṇḍala](nakṣatra+maṇḍalam)
+[in-southeast-east-middle](āgneyapūrvamadhye) [but](tu) [should-make](kūryāt) [nakshatra-mandala](nakṣatramaṇḍalam)
 
 ## mukta-m0-p117-v2906
-[south-southwest](yāmya+nair-ṛta) [in-middle](madhye) [daily-nityā](dina+nityā) [in-worship](prapūjane)
+[in-south-southwest-middle](yāmyanairṛtamadhye) [for-daily-worship-offering](daddinanityāprapūjane)
 
 ## mukta-m0-p117-v2907
-[circle-triangle](vṛtta+trikoṇa) [in-middle](madhye) [then](tu) [element-deity](dhātu+daivata) [maṇḍala](maṇḍalam)
+[in-circle-triangle-middle](vṛttatrikoṇamadhye) [but](tu) [element-deity-mandala](dhātudaivatamaṇḍalam)
 
 ## mukta-m0-p117-v2908
-[for-Āgneyī](āgnaye) [of-Kurukullā](kurukullāyāḥ) [of-Vārāhī](vārāhyāḥ) [in-wind-direction](vāyu+gocare)
+[for-Agni](āgnaye) [of-Kurukulla](kurukullāyā) [of-Varahi](vārāhyā) [in-wind-region](vāyugocare)
 
 ## mukta-m0-p117-v2909
-[therefore](tena) [of-them](teṣām) [for-worship](pūjā+artham) [I-shall-tell](vakṣye) [that-abode](tat+dhāma) [maṇḍala](maṇḍalam)
+[by-that](tena) [of-them](teṣāṃ) [for-worship](pūjārthaṃ) [I-will-say](vakṣye) [that-abode-mandala](taddhāmamaṇḍalam)
 
 ## mukta-m0-p117-v2910
-[nectar-adornment](sudhā+vyañjana) [form](rūpam) [should-be](syāt) [others](itare) [consisting-of-that](tanmayāḥ) [because](yataḥ)
+[nectar-condiment-form](sudhāvyañjanarūpaṃ) [may-be](syāt) [others](itare) [made-of-that](tanmayā) [because](yataḥ)
 
 ## mukta-m0-p117-v2911
-[of-them](teṣām) [of-nine](navānām) [in-worships](pūjāsu) [consisting-of-that](tanmayam) [nine-maṇḍalas](nava+maṇḍalam)
+[of-them](teṣāṃ) [of-nine](navānāṃ) [in-worships](pūjāsu) [made-of-that](tanmayaṃ) [nine-mandala](navamaṇḍalam)
 
 ## mukta-m0-p117-v2912
-[in-order](krameṇa) [hear](śṛṇu) [O-goddess-lord](deveśi) [all-welfare](sarva+śreyas) [consisting-of](kara+ātmakam)
+[in-order](krameṇa) [hear](śṛṇu) [O-goddess](deveśi) [essence-of-all-auspicious](sarvaśreyaskarātmakam)
 
 ## mukta-m0-p117-v2913
-[three-cubit](tri+hasta) [in-measure](mātre) [one-should-produce](janayet) [nine](nava) [cells](koṣṭhāni) [in-them](teṣu) [indeed](vai)
+[in-three-hasta-measure](trihastamātre) [should-create](janayet) [nine](nava) [compartments](koṣṭhāni) [in-them](teṣu) [indeed](vai)
 
 ## mukta-m0-p117-v2914
-[in-their-middle](tanmadhye) [horizontally-vertically](tiryak+ūrdhvam) [and](ca) [two-lines](sūtra+dvaya) [by-casting](nipātanāt)
+[in-its-middle](tanmadhye) [horizontal-vertical](tiryagūrdhvaṃ) [and](ca) [by-dropping-two-threads](sūtradvayanipātanāt)
 
 ## mukta-m0-p117-v2915
-[beginning-with-vāta](vāta+ādi) [eight-vowels](aṣṭa+svarān) [in-middle](madhye) [praṇava](praṇavam) [with-nabhas](nabhasā) [joined](yutam)
+[eight-vowels-from-vata](vātādyaṣṭasvarān) [in-middle](madhye) [om](praṇavaṃ) [with-space](nabhasā) [joined](yutam)
 
 ## mukta-m0-p117-v2916
-[there](tatra) [sun](arkam) [one-should-worship](arcayet) [of-him](tasya) [with-names](nāmabhiḥ) [twelve](dvādaśa) [uttered](uditaiḥ)
+[there](tatra) [sun](arkam) [should-worship](arcayet) [its](tasya) [with-names](nāmabhiḥ) [twelve-uttered](dvādaśoditaiḥ)
 
 ## mukta-m0-p117-v2917
-[of-moon](somasya) [first](ādyam) [with-own](sva) [joined](saṃyuktam) [having-made](kṛtvā) [with-that](tena) [likewise](tathā) [one-should-worship](arcayet)
+[of-moon](somasya) [first](ādyaṃ) [joined-with-own](svasaṃyuktaṃ) [having-made](kṛtvā) [by-that](tena) [thus](tathā) [should-worship](arcayet)
 
 ## mukta-m0-p117-v2918
-[with-sixteen-vowels](ṣoḍaśa+svara+yuktam) [and](ca) [mātṛkā](mātṛkām) [and](ca) [with-own-joining](sva+yogataḥ)
+[joined-with-sixteen-vowels](ṣoḍaśasvarayuktaṃ) [and](ca) [matrika](mātṛkāṃ) [and](ca) [by-own-yoga](svayogataḥ)
 
 ## mukta-m0-p117-v2919
-[with-dāha-vahni-sva](dāha+vahni+sva+sahitam) [one-should-worship](arcayet) [there](tatra) [in-maṇḍala](maṇḍale)
+[with-own-burning-fire](dāhavahnisvasahitam) [should-worship](arcayet) [there](tatra) [in-mandala](maṇḍale)
 
 ## mukta-m0-p117-v2920
-[having-offered](nivedya) [with-sugar-milk-rice](śarkarā+dugdha+pāyasaiḥ) [and](ca) [with-offerings](upacārakaiḥ)
+[offering](nivedya) [with-sugar-milk-rice-pudding](śarkarādugdhapāyasaiḥ) [and](ca) [with-services](upacārakaiḥ)
 
 ## mukta-m0-p117-v2921
-[of-each-class](tat+tat+varga) [initial-letter](ādi+varṇam) [and](ca) [with-vowels](svaraiḥ) [that](tām) [mātṛkā](mātṛkām) [also](api)
+[respective-class-initial-letter](tattadvargādivarṇaṃ) [and](ca) [with-vowels](svaraiḥ) [that](tāṃ) [matrika](mātṛkām) [also](api)
 
 ## mukta-m0-p117-v2922
-[of-each-class](tat+tat+varga) [letters](akṣarāṇi) [with-designating](ākhyātri) [three-syllables](tri+akṣaraiḥ) [one-should-write](ālikhet) [also](api)
+[respective-class-letters](tattadvargākṣarāṇi) [called](ākhyā) [with-three-letters](tryakṣarair) [should-write](ālikhet) [also](api)
 
 ## mukta-m0-p117-v2923
-[thus](evam) [when-done](kṛteṣu) [in-nine](navasu) [one-should-worship](pūjayet) [and](ca) [nine](nava) [planets](grahān)
+[thus](evaṃ) [in-made](kṛteṣu) [in-nine](navasu) [should-worship](pūjayet) [and](ca) [nine](nava) [planets](grahān)
 
 ## mukta-m0-p117-v2924
-[three-syllables](tri+akṣarāṇi) [ending-in-fourth-case](caturthī+antāni) [one-should-worship](arccayet) [with-them](taiḥ) [and](ca) [them](tān) [thus](iti)
+[three-letter](tryakṣarāṇi) [ending-in-dative](caturthyantāni) [should-worship](arcayet) [with-them](taiḥ) [and](ca) [them](tān) [thus](iti)
 
 ## mukta-m0-p117-v2925
-[Ketu](ketum) [with-these](etaiḥ) [everywhere](sarvatra) [when-mantra-not-stated](mantra+anuktau) [and](ca) [worship](pūjanam)
+[Ketu](ketum) [with-these](etaiḥ) [but](tu) [everywhere](sarvatra) [mantra-stated](mantrānuktau) [and](ca) [worship](pūjanam)

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "viditvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of vid 'to know'",
+     "morph": "indecl."
+    },
+    {
+     "surface": "daityasenāyāḥ",
+     "gloss": "demon-army's",
+     "grounds": "genitive singular of daityasenā 'demon army'",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sannāhaṃ",
+     "gloss": "preparation",
+     "grounds": "accusative singular of sannāha 'preparation/armament'",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvārarodhanam",
+     "gloss": "gate-blocking",
+     "grounds": "accusative singular of dvārarodhana 'blocking of the gate'",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What did the approaching warriors learn about the demon army's readiness at the gate?",
+   "premises": [
+    "They had judged direct entry impossible.",
+    "They reached the gate region.",
+    "They learned demon army's preparation and gate-blocking."
+   ],
+   "inference": "The gate is fortified by prepared demon forces.",
+   "uncertainties": [
+    "sannāhaṃ may mean armament rather than general preparation."
+   ],
+   "plain_english": "Having learned of the demon army's preparation and the blocking of the gate."
+  }
+ ]
+}

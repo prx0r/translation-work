@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-[having-placed](nidhāya) [flower](puṣpaṃ) [of-her+in-front](tasya+agre) [with-ladle+downward-faced](sruveṇa+adhomukhena) [that](tām)
+[placing](nidhāya) [flower](puṣpaṃ) [of-him](tasya) [before](agre) [with-ladle](sruveṇa) [downward-faced](adhah+mukhena) [her](tām)
 
 ## mukta-m0-p107-v2652
-[with-vauṣaṭ+ending](vauṣaḍ+antena) [one-should-offer](juhuyāt) [stream](dhārāṃ) [with-recitation+accompanied](japa+samanvitām)
+[with-vaushat-ending](vauṣaḍ+antena) [should-offer](juhuyāt) [stream](dhārāṃ) [with-japa-accompanied](japa+samanvitām)
 
 ## mukta-m0-p107-v2653
-[with-vauṣaṭ+ending](vauṣaḍ+antena) [with-mantra](mantreṇa) [with-Vaiṣṇava](vaiṣṇavena) [god+best](sura+uttamam)
+[with-vaushat-ending](vauṣaḍ+antena) [mantra](mantreṇa) [vaishnava](vaiṣṇavena) [best-of-gods](surottamam)
 
 ## mukta-m0-p107-v2654
-[of-that+upon](tasya+upari) [ghee](ghṛtaṃ) [one-should-give](dadyāt) [of-that+above](tat+ūrdhvaṃ) [flower+etc.](kusuma+ādikam)
+[upon-him](tasya+upari) [ghee](ghṛtaṃ) [should-give](dadyāt) [thereafter](tad+ūrdhvaṃ) [flowers-etc](kusuma+ādikam)
 
 ## mukta-m0-p107-v2655
-[of-that+above](tat+ūrdhve) [downward-faced](adhomukhaṃ) [having-made](kṛtvā) [ladle](sruvam) [having-risen](utthāya) [mantra+knowing](mantra+vit)
+[thereafter](tad+ūrdhve) [downward-faced](adhah+mukhaṃ) [having-made](kṛtvā) [ladle](sruvam) [rising](utthāya) [mantra-knower](mantra+vit)
 
 ## mukta-m0-p107-v2656
-[root-mantra](mūlaṃ) [namas+ending](namaḥ+antam) [having-uttered](uccārya) [left+foot+foremost](vāma+pāda+puraḥsaram)
+[root](mūlaṃ) [namah-ending](nama+antam) [uttering](uccārya) [left-foot-fore](vāma+pāda+puraḥ+saram)
 
 ## mukta-m0-p107-v2657
-[in-action+another](karma+antare) [even](api) [being-reached](saṃprāpte) [presence](sannidhiṃ) [make](kuru) [with-respect](sādaram)
+[in-rite-interval](karma+antare) [also](api) [having-arrived](saṃprāpte) [presence](sannidhiṃ) [make](kuru) [respectfully](sādaram)
 
 ## mukta-m0-p107-v2658
-[from-fire-pit](kuṇḍāt) [having-dismissed](udvāsya) [and](ca) [teacher](ācāryaḥ) [deity](devatāṃ) [in-pot](kalaśe) [should-place](nyaset)
+[from-kunda](kuṇḍāt+udvāsya) [and](ca) [acharya](ācāryaḥ) [deity](devatāṃ) [in-pot](kalaśe) [should-place](nyaset)
 
 ## mukta-m0-p107-v2659
-[with-seven+vyāhṛtis](sapta+vyāhṛtyā) [of-fire-tongues+etc.](agni+jihvā+ādīnām) [one+oblation](eka+āhutiṃ) [in-order](kramāt)
+[with-seven-vyahritis](saptavyāhṛtyā) [agnijihva-etc](agnijihvā+ādīnām) [one-offering](ekāhutiṃ) [in-order](kramāt)
 
 ## mukta-m0-p107-v2660
-[thirty-two+pala+copper](dvātriṃśat+pala+tāmreṇa) [made](nirmitaṃ) [copper+vessel](tāmra+pātrakam)
+[thirty-two-pala-copper](dvātriṃśat+pala+tāmreṇa) [made](nirmitaṃ) [copper-vessel](tāmra+pātrakam)
 
 ## mukta-m0-p107-v2661
-[teacher](guruḥ) [to-chosen](vṛtāya) [then](tat) [to-him](tasmai) [full+vessel](pūrṇa+pātraṃ) [know](viduḥ) [the-wise](budhāḥ)
+[guru](guruḥ) [for-vrata](vṛtāya) [that](tat) [to-him](tasmai) [full-vessel](pūrṇa+pātraṃ) [know](viduḥ) [wise](budhāḥ)
 
 ## mukta-m0-p107-v2662
-[then](tataḥ) [strewn-grasses](paristarān) [in-fire](agnau) [enclosing-sticks](paridhīn) [placing](nikṣipan) [indeed](nanu)
+[then](tataḥ) [around-fire](paristarān+agnau) [enclosures](paridhīn) [placing](nikṣipan) [not](natu)
 
 ## mukta-m0-p107-v2663
-[with-cloth](vastreṇa) [with-eye+mantra](netra+mantreṇa) [of-disciple+eyes](śiṣya+netre) [having-bound](nibadhya) [and](ca)
+[with-cloth](vastreṇa) [eye-mantra](netra+mantreṇa) [disciple-eyes](śiṣya+netre) [binding](nibadhya) [and](ca)
 
 ## mukta-m0-p107-v2664
-[with-flowers](sumanobhiḥ) [having-filled](prapūrya) [his](asya) [indeed](hi) [joined-palms](añjalim) [one-should-cast](kṣepayet) [in-pot](ghaṭe)
+[with-flowers](sumanobhiḥ) [filling](prapūrya) [his](asya) [indeed](hi) [anjali](añjali) [should-cast](kṣepayet) [on-pot](ghaṭe)
 
 ## mukta-m0-p107-v2665
-[eye+bandage](netra+bandham) [having-removed](apāsya) [one-should-seat](upaveśayet) [on-kuśa+seat](kuśa+saṃstare)
+[eye-bandage](netra+bandham) [removing](apāsya) [should-seat](upaveśayet) [on-kusha-mat](kuśa+saṃstare)
 
 ## mukta-m0-p107-v2666
-[of-ignorance+darkness+blinded](ajñāna+timira+andhasya) [with-knowledge+collyrium+stick](jñāna+añjana+śalākayā)
+[of-blind-by-darkness-of-ignorance](ajñāna+timira+andhasya) [with-knowledge-collyrium-stick](jñāna+añjana+śalākayā)
 
 ## mukta-m0-p107-v2667
-[therefore](ataḥ) [by-worship+method](pūjā+vidhānena) [one-should-withdraw](saṃharet) [and-should-generate](janayet) [and](ca) [him](tam)
+[therefore](ataḥ) [worship-rite](pūjā+vidhānena) [should-remove](saṃharej) [and-generate](janayet+ca) [him](tam)
 
 ## mukta-m0-p107-v2668
-[with-five+offerings](pañca+upacāraiḥ) [having-worshipped](abhyarcya) [in-pot+abiding+chosen-deity](kalaśa+stha+iṣṭa+devatām)
+[with-five-upacharas](pañca+upacāraiḥ) [worshipping](abhyarcya) [in-pot-residing](kalaśa+sthe) [desired-deity](iṣṭa+devatām)
 
 ## mukta-m0-p107-v2669
-[then](atha) [one-should-seat](upaveśayet) [disciple](śiṣyaṃ) [adorned](bhūṣitaṃ) [in-maṇḍala+interior](maṇḍala+antare)
+[then](atha) [should-seat](upaveśayet) [disciple](śiṣyaṃ) [adorned](bhūṣitaṃ) [in-mandala](maṇḍala+antare)
 
 ## mukta-m0-p107-v2670
-[then](atha) [with-five+sounds](pañca+ninādaiḥ) [and](ca) [with-brāhmaṇas+blessing+words](vipra+āśīr+vacanaiḥ) [together](saha)
+[then](atha) [with-five-sounds](pañca+ninādaiḥ) [ca](ca) [with-brahmin-blessings](vipra+āśīrvacanaiḥ) [with](saha)
 
 ## mukta-m0-p107-v2671
-[by-which](yena) [manner](prakāreṇa) [formerly](purā) [filled](pūritaḥ) [and](ca) [with-nectar+juices](sudhā+rasaiḥ)
+[by-which](yena) [manner](prakāreṇa) [formerly](purā) [filled](pūritaḥ) [ca](ca) [with-nectar-juices](sudhā+rasaiḥ)
 
 ## mukta-m0-p107-v2672
-[in-that-very-way](tathā+eva) [this-one](enam) [and](ca) [one-should-sprinkle](abhiṣiñcet) [quickly](āśu) [for-prosperity+attainment](saṃpad+avāptaye)
+[thus](tathā) [indeed](eva) [him](enaṃ) [should-sprinkle](abhiṣiñcet) [quickly](āśu) [for-prosperity-attainment](saṃpada+avāptaye)
 
 ## mukta-m0-p107-v2673
-[with-those+waters](tat+toyaiḥ) [one-should-sprinkle](abhiṣiñcet) [him](taṃ) [for-protection](rakṣāyai) [teacher+best](deśika+uttamaḥ)
+[with-those-waters](tat+toyaiḥ) [should-sprinkle](abhiṣiñcet) [him](taṃ) [for-protection](rakṣāyai) [best-teacher](deśika+uttamaḥ)
 
 ## mukta-m0-p107-v2674
-[of-that+deity+form](tat+devatā+svarūpaṃ) [and](ca) [one-should-establish](vidadhyāt) [complete-form](sakalī+kṛtim)
+[that-deity-form](tat+devatā+svarūpaṃ) [ca](ca) [should-make](vidadhyāt) [consecration](sakalīkṛtim)
 
 ## mukta-m0-p107-v2675
-[having-sipped-water](ācamya) [near](nikaṭe) [of-him](tasya) [should-sit](niviśet) [speech+restrained](vāk+yataḥ) [disciple](śiśuḥ)
+[having-sipped](ācamya) [near](nikaṭe) [his](tasya) [should-sit](niviśet) [speech-controlled](vāgyataḥ) [child](śiśuḥ)

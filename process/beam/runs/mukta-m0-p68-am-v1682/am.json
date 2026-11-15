@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p68",
  "verse": 1682,
- "question": "What substances are used to carry out the rite by this very same method?",
+ "question": "What happens when the chariot turns back while holding swords?",
  "premises": [
-  "The same method is to be followed.",
-  "Specific substances are named as instruments.",
-  "The substances are rocanā, aguru, and kuṃkuma."
+  "the chariot turns back",
+  "swords are held"
  ],
- "inference": "The rite is performed by the same method using rocanā, aguru, and kuṃkuma.",
- "uncertainties": [],
- "plain_english": "By this very same method, using rocanā, aguru, and kuṃkuma..."
+ "inference": "the retreat is armed and dangerous",
+ "uncertainties": [
+  "subject identity unclear"
+ ],
+ "plain_english": "That chariot turns back, holding swords."
 }

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "rathanetur",
+     "gloss": "chariot-leader's",
+     "grounds": "genitive singular of ratha-netṛ; fused form retained",
+     "morph": "m.gen.sg (compound ratha+netṛ)"
+    },
+    {
+     "surface": "vacaḥ",
+     "gloss": "words",
+     "grounds": "accusative singular of vacas; object of śrutvā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrutvā",
+     "gloss": "having-heard",
+     "grounds": "absolutive of śru",
+     "morph": "indecl."
+    },
+    {
+     "surface": "matvā",
+     "gloss": "having-considered",
+     "grounds": "absolutive of man",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "appropriate",
+     "grounds": "accusative singular agreeing with vacaḥ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "daṇḍinī",
+     "gloss": "Daṇḍinī",
+     "grounds": "nominative singular feminine; subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What action follows Daṇḍinī's hearing and approval of the charioteer's words?",
+   "premises": [
+    "Daṇḍinī hears the charioteer's words.",
+    "She considers those words appropriate.",
+    "She proceeds in accordance with them."
+   ],
+   "inference": "Daṇḍinī acts after approving the charioteer's counsel.",
+   "uncertainties": [
+    "The verse omits the main verb; the action is implied by context."
+   ],
+   "plain_english": "Having heard the charioteer's words and judged them fitting, Daṇḍinī proceeds accordingly."
+  }
+ ]
+}

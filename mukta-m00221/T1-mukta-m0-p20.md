@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[serpent-corner+in](nāgakoṇeṣu) [previously-stated+order+by](pūrvoktakrameṇa) [well-resplendent](suvirājitāḥ)
+[in-snake-corners](nāgakoṇeṣu) [by-previously-stated-order](pūrvoktakrameṇa) [well-radiant](suvirājitāḥ)
 
 ## mukta-m0-p20-v477
-[thus](evam) [those](tāḥ) [powers](śaktayaḥ) [in-wheel](cakre) [created](sṛṣṭāḥ) [primordial-nature+power+by](prakṛtiśaktibhiḥ)
+[thus](evaṃ) [those](tāḥ) [powers](śaktayaḥ)+[in-wheel](cakre) [created](sṛṣṭāḥ) [by-nature-powers](prakṛtiśaktibhiḥ)
 
 ## mukta-m0-p20-v478
-[śrīcakra+deity+description](śrīcakradevatānirūpaṇaṃ) [named](nāma) [fifty-sixth](ṣaṭpañcāśattamaḥ) [chapter](adhyāyaḥ)
+[śrī-cakra-deity-determination](śrīcakradevatānirūpaṇaṃ) [named](nāma) [fifty-sixth-chapter](ṣaṭpañcāśattamo'dhyāyaḥ)
 
 ## mukta-m0-p20-v479
-[O-grandfather](pitāmaha) [heard](śrutam) [and-this](ca+etat) [śrīcakra](śrīcakraṃ) [power+circle](śaktimaṇḍalam)
+[grandfather](pitāmaha) [heard](śrutaṃ)+[and-this](caitac) [śrī-cakra](śrīcakraṃ) [power-maṇḍala](śaktimaṇḍalam)
 
 ## mukta-m0-p20-v480
-[likewise](tathā) [eight-spoke+in](aṣṭā're) [triangle+in](trikoṇe) [and](ca) [whence](kutaḥ) [place](sthānaṃ) [without-power](viśaktikam)
+[thus](tathā)+[in-eight-petals](aṣṭā're) [in-triangle](trikoṇe) [ca](ca) [whence](kutaḥ) [place](sthānaṃ) [without-power](viśaktikam)
 
 ## mukta-m0-p20-v481
-[thus](evam) [by-Tvaṣṭṛ](tvaṣṭā) [questioned](anuyuktaḥ) [then](atha) [pleased](prītaḥ) [spoke](prāha) [four-faced](caturmukhaḥ)
+[thus](evaṃ) [then](tvaṣṭā)+[addressed](anuyukto'tha) [pleased](prītaḥ) [spoke](prāha) [four-faced](caturmukhaḥ)
 
 ## mukta-m0-p20-v482
-[by-great-śrī-Tripureśānī](mahāśrītripureśānyā) [created](sṛṣṭāḥ) [eternal](tri) [(ni?)+tyāḥ](tyāḥ+tu) [sixteen](ṣoḍaśa)
+[great-śrī-tripurā-īśānī](mahāśrītripureśānyā) [created](sṛṣṭāḥ)+[tri](tri) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p20-v483
-[(?)](?) [name](nāma) [of-them](tāsāṃ) [separately+own+action+by](pṛthak+svīya+kriyaya+eva) [described](nirupitam)
+[name](nāma) [of-them](tāsāṃ) [separate](pṛthak)+[own](svīya)+[action](kriyayā)+[eva](eva) [determined](nirupitam)
 
 ## mukta-m0-p20-v484
-[of-her](tasyāḥ) [always](sadā) [shining-forth](vilasitaṃ) [world](jagat) [this](etat) [moving+and-unmoving](cara+acaram)
+[of-her](tasyāḥ) [always](sadā) [sport](vilasitaṃ) [world](jagad)+[this](etaś)+[moving-immoving](carā'caram)
 
 ## mukta-m0-p20-v485
-[world+wheel+activity+section](jagaḥ+cakra+kriyā+kāṇḍaṃ) [accomplishes](nirvāhayati) [consciousness-embodied](cinmayī)
+[world](jagaś)+[cakra-action-section](cakrakriyākāṇḍaṃ) [carries-out](nirvāhayati) [consciousness-full](cinmayī)
 
 ## mukta-m0-p20-v486
-[in-many-ways](anekadhā) [also](api) [becomes](bhavati) [own-independence+manifesting](sva+svātantrya+avabhāsinī)
+[in-many-ways](anekadhā)+[api](api) [becomes](bhavati) [own](sva)+[own](sva)+[freedom](ātantryā)+[shining](avabhāsinī)
 
 ## mukta-m0-p20-v487
-[one](ekaḥ) [also](api) [in-many-ways](anekadhā) [also](api) [remains](āste) [as](yathā) [or](vā) [ocean](vārnidhiḥ) [situated](sthitaḥ)
+[one](eko)+[api](api)+[in-many-ways](enakadhā)+[api](api)+[sits](āste) [as](yathā) [vā](vā) [ocean](vārnidhiḥ) [situated](sthitaḥ)
 
 ## mukta-m0-p20-v488
-[powers](śaktryaḥ) [part-of-her](aṃśātmikāḥ) [of-her](tasyāḥ) [aṇimā+and-others](aṇimā+ādyāḥ) [proclaimed](prakīrtitāḥ)
+[powers](śaktryoḥ)+[aśātmikāḥ](aśātmikāstasyā) [of-her](tasyā) [aṇimā-etc](aṇimādyāḥ) [proclaimed](prakīrtitāḥ)
 
 ## mukta-m0-p20-v489
-[which](yā) [power](śaktiḥ) [of-which+action+cause](yat+kriyā+hetuḥ) [name](nāma) [of-her](tasyāḥ) [thus](tathā) [established](āsthitam)
+[which](yā) [power](śaktiḥ)+[which](yat)+[action](kriyā)+[cause](hetuḥ)+[name](nāma) [of-it](tasyāḥ)+[thus](tathā)+[established](sthitam)
 
 ## mukta-m0-p20-v490
-[vied](spardhām) [made](cakruḥ) [in-positions](saṃsthitiṣu) [place+attainment+by+highness+from](sthāna+ācocca+bhāvataḥ)
+[rivalry](spardhāṃ)+[did](cakruḥ) [in-positions](saṃsthitiṣu) [position](sthāna)+[not](nā)+[ca](ca)+[high-status](uccabhāvataḥ)
 
 ## mukta-m0-p20-v491
-[by-great-command](mahādvyājñayā) [spoke](prāha) [Mahātripurasundarī](mahātripurasundarī)
+[great](mahā)+[command](ājñayā) [spoke](prāha) [great-tripura-sundarī](mahātripurasundarī)
 
 ## mukta-m0-p20-v492
-[rivalry+anger+nature+of-those](spardhā+krodha+ātmanām) [here](atra) [place](sthānaṃ) [goddess+near](devī+samīpataḥ)
+[rivalry-anger-natured](spardhākrodhātmanām)+[atra](atra) [place](sthānaṃ) [near-goddess](devīsamīpataḥ)
 
 ## mukta-m0-p20-v493
-[thus-saying](iti+uktvā) [first](ādau) [herself](svayam) [performed](cakre) [austerity](tapaḥ) [very-great](su+mahat) [wondrous](adbhutam)
+[thus](ityuktvā)+[first](ādau) [herself](svayaṃ)+[did](cakre) [austerity](tapaḥ) [very-great](sumahad)+[wonderful](adbhutam)
 
 ## mukta-m0-p20-v494
-[others](anyāḥ) [all](sarvāḥ) [also](api) [austerity](tapaḥ) [performed](cakruḥ) [restrained-mind](niyata+mānasāḥ)
+[others](anyāḥ) [all](sarvā) [api](api) [austerity](tapaś)+[did](cakrur)+[fixed](niyatam)+[minded](ānasāḥ)
 
 ## mukta-m0-p20-v495
-[went](agāt) [time](kālaḥ) [very-long](dīrghatamaḥ) [then](tadā) [pleased](tuṣṭā) [spoke](avadat) [supreme](parā)
+[went](agāt) [time](kālaḥ) [long](dīrghatamaḥ)+[then](tadā) [pleased](tuṣṭā)+[spoke](avadat) [supreme](parā)
 
 ## mukta-m0-p20-v496
-[thus-saying](iti+uktvā) [place](sthānam) [assigned](adiśat) [Mahātripurasundarī](mahātripurasundarī)
+[thus](ityuktvā) [place](sthānam)+[pointed](adiśan)+[great-tripura-sundarī](mahātripurasundarī)
 
 ## mukta-m0-p20-v497
-[now](atha) [eternal-nature+powers+of](nityā+ātma+śaktīnām) [triangle+ground+in](tryasra+bhūmau) [placement](niveśanam)
+[then](atha) [nityā-self-powers](nityā'tmaśaktīnāṃ) [triangle-ground](tryasrabhūmau) [placement](niveśanam)
 
 ## mukta-m0-p20-v498
-[assigned+facing+place](pradiṣṭa+sammukha+sthānā) [also](api) [considered](amanyata) [not](na) [that](tat) [much](bahu)
+[pointed](pradiṣṭa)+[facing](sammukha)+[place](sthānā)+[api](pyamanyata) [not](na) [that](tad)+[much](bahu)
 
 ## mukta-m0-p20-v499
-[thus](evam) [Kāmeśvarī](kāmeśvarī) [likewise](tadvat) [Bhagamālinikā](bhagamālinikā) [also](api) [and](ca)
+[thus](evaṃ) [kāmeśvarī](kāmeśvarī) [tadvat](tadvat)+[bhagamālinikā](bhagamālinikā)+[api](api) [ca](ca)
 
 ## mukta-m0-p20-v500
-[thus](evam) [in-austerity+engaged](tapasi+abhirate) [power+circle+in](śakti+maṇḍalake) [Śivā](śivā)
+[thus](evaṃ) [austerity-devoted](tapasyabhirate) [power-maṇḍala](śaktimaṇḍalake) [śivā](śivā)

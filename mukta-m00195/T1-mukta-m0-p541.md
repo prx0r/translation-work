@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p541-v13501
-[should-draw](likhet) [eight+petaled](aṣṭa+dalaṃ) [lotus](padmaṃ) [in-its+middle](tat+madhye) [of-the-knower](jñāninaḥ) [mantra](manum)
+[draw-eight-petaled](likhedaṣṭadalaṃ) [lotus](padmaṃ) [in-its-middle](tanmadhye) [of-knower](jñānino) [mantra](manum)
 
 ## mukta-m0-p541-v13502
-[of-the-knower+mantra](jñāni+mantraṃ) [on-earth+petal](vasu+dale) [in-east+etc.](pūrva+ādiṣu) [should-write](likhet) [in-order](kramāt)
+[knower-mantra](jñānimantraṃ) [on-earth-petal](vasudale) [from-east-etc](pūrvādiṣu) [write-in-order](likhetkramāt)
 
 ## mukta-m0-p541-v13503
-[iṃ](iṃ) [īṃ](īṃ) [uṃ](uṃ) [ūṃ](ūṃ) [and](ca) [aiṃ](aiṃ) [to-be-written](lekhyaṃ) [on-eight+petals](ca+aṣṭa+patreṣu) [by-the-practitioner](mantriṇā)
+[iṃ-īṃ-uṃ-ūṃ-and-aiṃ](iṃ-īṃ-uṃ-ūṃ+ca+aiṃ) [to-be-written](lekhyaṃ) [on-eight-petals](cāṣṭapatreṣu) [by-mantra-knower](mantriṇā)
 
 ## mukta-m0-p541-v13504
-[in-yantra+cell](yantra+koṣṭhe) [there](tatra) [with-situated](saṃsthaiḥ) [letters](varṇaiḥ) [of-the-target](sādhyasya) [name](nāmakam)
+[in-yantra-cell](yantrakoṣṭhe) [there-situated](tatra+saṃsthairvarṇaiḥ) [of-target](sādhyasya) [name](nāmakam)
 
 ## mukta-m0-p541-v13505
-[with-circle](vṛttena) [yantra](yantram) [stated](uktaṃ) [that](tat) [of-the-mātṛkā](mātṛkāyāḥ) [likewise](tathā) [and](eva) [also](ca)
+[by-circle](vṛttena) [yantra-spoken](yantramuktaṃ) [that](tanmātṛkāyāstathaiva+ca)
 
 ## mukta-m0-p541-v13506
-[all+peace+causing](sarva+śānti+karaṃ) [of-rāhu](rāhoḥ) [in-rohiṇī](rohiṇyām) [having-risen](udite) [being](sati)
+[all-peace-making](sarvaśāntikaraṃ) [of-rahu](rāhorohiṇyāmudite) [when-risen](sati)
 
 ## mukta-m0-p541-v13507
-[of-this](etasyāḥ) [indeed](eva) [of-goddess](devyāḥ) [but](tu) [I-shall-tell](vakṣye) [eradication](uccāṭam) [and-killing](āraṇam)
+[of-this-goddess](etasyā+eva+devyāstu) [will-speak](vakṣya) [uccāṭa-and-killing](uccāṭamāraṇam)
 
 ## mukta-m0-p541-v13508
-[haṃkāpeśvarāya-namaḥ](haṃkāpeśvarāya namaḥ) [declared](proktaḥ) [eight+syllabled](ca+aṣṭa+akṣaraḥ) [indeed](tu) [here](iha)
+[to-haṃkāpeśvara](haṃkāpeśvarāya) [salutation](namaḥ) [spoken](proktaścāṣṭākṣarastviha)
 
 ## mukta-m0-p541-v13509
-[yaṃ](yaṃ) [śaṃ](śaṃ) [vaṃ](vaṃ) [haṃ](haṃ) [and](ca) [in-east](prācyāṃ) [indeed](hi) [as-before](prāk+vat) [or](vā) [saṃ](saṃ) [should-write-around](samālikhet)
+[yaṃ-śaṃ-vaṃ-haṃ](yaṃ+śaṃ+vaṃ+haṃ) [and](ca) [in-east](prācyāṃ) [hi](hi) [as-before](prāgvadvā) [saṃ-saṃ](saṃ+samālikhet)
 
 ## mukta-m0-p541-v13510
-[outside](bahiḥ) [but](tu) [they](te) [to-be-enclosed](veṣṭanīyāḥ) [by-wind+circle+disk](vāyu+maṇḍala+cakrataḥ)
+[outside](bahistu) [those](te) [to-be-wrapped](veṣṭanīyā) [from-wind-mandala-wheel](vāyumaṇḍalacakrataḥ)
 
 ## mukta-m0-p541-v13511
-[page-781](p. 781) [wind+circle](vāyu+maṇḍalam) [this](etat) [should-be](syāt) [having-bathed](snātvā) [at-slow+sunrise](manda+udaye) [being](sati)
+[this-is-wind-mandala](vāyumaṇḍalametatsyātsnātvā) [when-moon-risen](mandodaye+sati)
 
 ## mukta-m0-p541-v13512
-[when](yadā) [then](tadā) [would-be](bhavet) [of-enemy](śatroḥ) [eradication](uccāṭaḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[when](yadā) [then](tadā) [of-enemy](chatroruccāṭo) [no-doubt](nātra+saṃśayaḥ)
 
 ## mukta-m0-p541-v13513
-[two-hands](karau) [svaṭhau](svaṭhau) [naiphaḍ](naiphaḍ) [namaḥ](namo) [mantra](manuḥ) [eight+syllabled](aṣṭa+akṣaraḥ) [remembered](smṛtaḥ)
+[hands-svaṭha](karau+svaṭhau) [naiphaḍ](naiphaḍ) [salutation](namo) [mantra-eight-syllabled](manuraṣṭākṣaraḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p541-v13514
-[uṃ](uṃ) [īṃ](īṃ) [khaṃ](khaṃ) [chaṃ](chaṃ) [ṭhaṃ](ṭhaṃ) [and](ca) [yaṃ](yaṃ) [and](ca) [haṃsaṃ](haṃsaṃ) [thus](ca+iti) [one-should-insert](praveṣṭayet)
+[uṃ-īṃ-khaṃ-chaṃ-ṭhaṃ-yaṃ-haṃsa](uṃ+īṃ+khaṃ+chaṃ+ṭhaṃ+ca+yaṃ+ca+haṃsaṃ) [ceti](ceti) [to-be-wrapped](praveṣṭayet)
 
 ## mukta-m0-p541-v13515
-[in-siddhādi+diagram](siddhādi+cakre) [stated](kathitāḥ) [which](ye) [letters](varṇāḥ) [with-those](taiḥ) [and](ca) [joined](saṃyutam)
+[in-siddhādi-wheel](siddhādicakre) [spoken](kathitā) [which-letters](ye+varṇāstaiśca) [joined](saṃyutam)
 
 ## mukta-m0-p541-v13516
-[with-cremation-ground+charcoal](śmaśāna+aṅgārakeṇa) [also](api) [he](saḥ) [target](sādhyaḥ) [would-be](syāt) [of-yama+guest](yama+atithiḥ)
+[with-cremation-ash](śmaśānāṅgārakeṇāpi) [that-target](sa+sādhyaḥ) [syādyamātithiḥ](syādyamātithiḥ)
 
 ## mukta-m0-p541-v13517
-[with-kāśmīrī+and-avakā](kāśmīrīya+avakābhyām) [but](tu) [on-birch+bark](bhūrjja+patre) [should-write](likhet) [again](punaḥ)
+[with-kashmiri-barley](kāśmīrīyāvakābhyāntu) [on-birch-leaf](bhūrjjapatre) [write-again](likhetpunaḥ)
 
 ## mukta-m0-p541-v13518
-[everywhere](sarvatra) [makes](kurute) [protection](rakṣāṃ) [yantra](yantram) [this](etat) [very+difficult-to-obtain](su+durlabham)
+[everywhere](sarvatra) [makes-protection](kurute+rakṣāṃ) [yantra-this-rare](yantrametatsudurlabham)
 
 ## mukta-m0-p541-v13519
-[in-its+pericarp](tat+karṇikāyāṃ) [but](tu) [should-write](likhet) [oṃ](oṃ) [voṃ](voṃ) [viṃ](viṃ) [viṃ](viṃ) [of-rāhu](vidhuntudā)
+[on-that-karṇikā](tatkarṇikāyāṃ) [tu](tu) [write-oṃ-voṃ-viṃ-viṃ](likhedoṃ-voṃ-viṃ-viṃ) [moon-striker](vidhuntudā)
 
 ## mukta-m0-p541-v13520
-[clockwise](prādakṣiṇyena) [in-east+etc.](pūrva+ādau) [letters](varṇān) [with-seed-syllable](bījena) [joined](saṃyutān)
+[clockwise](prādakṣiṇyena) [from-east](pūrvādau) [letters](varṇānbījena) [joined](saṃyutān)
 
 ## mukta-m0-p541-v13521
-[as-before](prāk+vat) [target](sādhyam) [and](ca) [with-friend+letters](mitra+arṇa+yuktaṃ) [properly](samyak) [in-order](kramāt) [should-write](likhet)
+[as-before](prāgvatsādhyaṃ) [and](ca) [with-friend-syllable](mitrārṇayuktaṃ) [properly](samyak) [in-order](kramāllikhet)
 
 ## mukta-m0-p541-v13522
-[then](tataḥ) [but](tu) [should-enclose](veṣṭayet) [all](sarvam) [with-lower+crescents](adhaḥ+candraiḥ) [very+beautiful](su+śobhanaiḥ)
+[then](tatastu) [wrap-all](veṣṭayetsarvamadhacandraiḥ) [beautiful](suśobhanaiḥ)
 
 ## mukta-m0-p541-v13523
-[with-good-sandal+water](ku+candana+udakena) [this](etat) [eaten](bhuktam) [with-food](bhakṣyeṇa) [fortune+giving](bhāgya+dam)
+[with-sandal-water](kucandanodakenaitadbhuktambhakṣyeṇa) [fortune-giving](bhāgyadam)
 
 ## mukta-m0-p541-v13524
-[should-write](likhet) [on-eight+petal](aṣṭa+dale) [as-before](prāk+vat) [clockwise](prādakṣiṇyena) [enclosed-syllables](saṃpuṭān)
+[write-eight-petaled](likhedaṣṭadale) [as-before](prāgvatprādakṣiṇyena) [joined](saṃpuṭān)
 
 ## mukta-m0-p541-v13525
-[of-target+name+letters](sādhya+nāma+arṇakān) [friend+letters+etc.](mitra+varṇa+ādyān) [also](api) [and](ca) [in-front](agrataḥ)
+[target-name-syllables](sādhyanāmārṇakānmitravarṇādyānapi) [and](cāgrataḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p554-v13826
-[then](tat) [in-filaments](keśareṣu) [and](ca) [should-write](ālikhyat) [in-petal-middle](dala+madhye) [and](ca) [as-before](pūrvavat)
+[tat+keśareṣu](tatkeśareṣu) [ca+ālikhya+dala+madhye](cālikhyadalamadhye) [ca](ca) [pūrvavat](pūrvavat)
 
 ## mukta-m0-p554-v13827
-[in-circle-pair](vṛtta+dvaya) [in-intermediate-path](antar+vīthyām) [āṃ](āṃ) [krāṃ](krāṃ) [with-the-two-seeds](bījābhyām) [one-should-insert](praveṣṭayet)
+[vṛtta+dvaya+antar+vīthyām](vṛttadvayāntarvīthyām) [āṃ+krāṃ+bījābhyām](āṃkrāṃbījābhyāṃ) [praveṣṭayet](praveṣṭayet)
 
 ## mukta-m0-p554-v13828
-[eight-syllabled](aṣṭa+arṇaka) [one-letter](eka+varṇam) [but](tu) [this-mantra](manum+etam) [very-difficult-to-obtain](su+durlabham)
+[aṣṭārṇaka+eka+varṇam](aṣṭārṇakaikavarṇantu) [manum](manum) [etam](etam) [sudurlabham](sudurlabham)
 
 ## mukta-m0-p554-v13829
-[lotus](padmam) [eight-petaled](aṣṭa+dalam) [having-made](kṛtvā) [in-pericarp](karṇikāyām) [one-should-write](samālikhet)
+[padmam](padmamaṣṭadalaṃ) [aṣṭa+dalam](aṣṭadalaṃ) [kṛtvā](kṛtvā) [karṇikāyām](karṇikāyāṃ) [samālikhet](samālikhet)
 
 ## mukta-m0-p554-v13830
-[in-petals](daleṣu) [one-should-write](saṃlikhet) [letters](varṇān) [four](caturaḥ) [four](caturaḥ) [of-mantra](manoḥ)
+[daleṣu](daleṣu) [saṃlikhet](saṃlikhedvarṇāṃścaturaścaturomanoḥ) [varṇān](varṇān) [caturaḥ](caturaḥ) [catuḥ+manoḥ](caturomanoḥ)
 
 ## mukta-m0-p554-v13831
-[bird](khaga) [grasshopper](pataṅga) [etc.](ādi) [calamities](upadravān) [destroy](nāśaya) [word](padam) [one-should-say](vadet)
+[khaga+pataṅga+ādi+upadravān](khagapataṅgādyupadravānnāśayapadaṃ) [nāśaya+padaṃ](nāśayapadaṃ) [vadet](vadet)
 
 ## mukta-m0-p554-v13832
-[in-its-intermediate-path](tat+antarāla+vīthyām) [but](tu) [from-ka-to-kṣa](ka+ādi+kṣa+antān) [one-should-write](likhet) [in-order](kramāt)
+[tat+antarāla+vīthyām](tadantarālavīthyāṃ) [tu](tu) [kā+ādi+kṣāntān](kādikṣāntāṁllikhetkramāt) [likhet](likhet) [kramāt](kramāt)
 
 ## mukta-m0-p554-v13833
-[having-given](pradāya) [to-Lakṣmaṇa](lakṣmaṇa) [thus-having-said](iti+uktvā) [to-giver](dātre) [Sītā](sītā) [word](padam) [one-should-say](vadet)
+[pradāya](pradāya) [lakṣmaṇa+iti](lakṣmaṇetyuktvā) [uktvā](uktvā) [dātre](dātre) [sītā+padaṃ](sītāpadaṃ) [vadet](vadet)
 
 ## mukta-m0-p554-v13834
-[pride-destroyer](darppa+hāya) [thus](iti) [all](sarve) [thus](iti) [ending-in-ṅ](ṅ+antaḥ) [evil-destroyer](duṣṭa+vināśanaḥ)
+[darpa+hāya+iti](darppahāyeti) [sarve+iti](sarveti) [ṅentaḥ](ṅento) [duṣṭa+vināśanaḥ](duṣṭavināśanaḥ)
 
 ## mukta-m0-p554-v13835
-[grasshopper](pataṅga) [etc.](ādi) [evil-beings](duṣṭa+sattva) [destruction](vināśana) [word](padam) [one-should-say](vadet)
+[pataṅga+ādi+duṣṭa+sattva+vināśana+padaṃ](pataṅgādiduṣṭasattvavināśanapadaṃ) [vadet](vadet)
 
 ## mukta-m0-p554-v13836
-[outside-that](tat+bahiḥ) [and](ca) [square](caturasram) [and](ca) [diagram](yantram) [this](etat) [one-should-draw-well](su+lekhayet)
+[tat+bahiḥ+catur+asram](tadbahiścaturasraṃ) [ca](ca) [yantram](yantram) [etat](etat) [su+lekhayet](sulekhayet)
 
 ## mukta-m0-p554-v13837
-[on-cow-dung-cake](go+gale) [or](vā) [also](atha) [should-be-written](saṃlekhyam) [with-gorocanā](rocanā) [musk](nābhi) [and-saffron](keśaraiḥ)
+[go+gale](gogale) [vā+atha](vātha) [saṃlekhyaṃ](saṃlekhyaṃ) [rocanā+nābhi+keśaraiḥ](rocanānābhikeśaraiḥ)
 
 ## mukta-m0-p554-v13838
-[child-demons](bāla+graha) [disease](āmaya) [tiger](vyāghra) [fear](bhaya) [etc.](ādyam) [in-order](kramaśaḥ) [it-removes](haret)
+[bāla+graha+āmaya+vyāghra+bhaya+ādyam](bālagrahāmayavyāghrabhayādyaṃ) [kramaśaḥ](kramaśo) [haret](haret)
 
 ## mukta-m0-p554-v13839
-[one-should-make](kuryyāt) [eight-petaled](aṣṭa+dalam) [lotus](padmam) [in-pericarp](karṇikāyām) [one-should-write](samālikhet)
+[kuryāt](kuryyādaṣṭadalaṃ) [aṣṭa+dalam](aṣṭadalaṃ) [padmam](padmam) [karṇikāyām](karṇikāyāṃ) [samālikhet](samālikhet)
 
 ## mukta-m0-p554-v13840
-[then](tataḥ) [and](ca) [in-first-petal](ādya+dale) [to-be-written](lekhyāḥ) [a](a) [umā](umāḥ) [tāra](tāra) [letters](varṇakāḥ)
+[tataḥ+ca+ādya+dale](tataścādyadale) [lekhyāḥ](lekhyā) [a+umā+stāra+varṇakāḥ](a-umāstāravarṇakāḥ)
 
 ## mukta-m0-p554-v13841
-[in-fourth](caturthe) [dakṣiṇā](dakṣiṇā) [and](ca) [thus](iti) [to-form](mūrttaye) [in-fifth](pañcame) [one-should-write](likhet)
+[caturthe](caturthe) [dakṣiṇā](dakṣiṇā) [ca+iti](ceti) [mūrttaye](mūrttaye) [pañcame](pañcame) [likhet](likhet)
 
 ## mukta-m0-p554-v13842
-[ccha](ccha) [svāhā](svāhā) [thus](iti) [in-eighth-petal](aṣṭame+patre) [of-the-two-circles](vṛttayoḥ) [in-between](antare) [then](tataḥ)
+[ccha](ccha) [svāhā+iti](svāhetyaṣṭame) [aṣṭame](aṣṭame) [patre](patre) [vṛttayoḥ+antare](vṛttayorantare) [tataḥ](tataḥ)
 
 ## mukta-m0-p554-v13843
-[in-four-corners](catuṣkoṇe) [of-fourth](caturthasya) [class](vargasya) [first-letter](prathama+akṣaram)
+[catuṣ+koṇe](catuṣkoṇe) [caturthasya](caturthasya) [vargasya](vargasya) [prathamākṣaram](prathamākṣaram)
 
 ## mukta-m0-p554-v13844
-[one-should-write](likhet) [with-Śaiva-eight-fragrances](śaiva+aṣṭa+gandhena) [on-birch-bark](bhūrjje) [to-be-worn](dhāryyam) [always](sadā) [on-neck](gale)
+[likhet](likhecchaivāṣṭagandhena) [ca+eva](caiva) [aṣṭa+gandhena](aṣṭagandhena) [bhūrje](bhūrjje) [dhāryam](dhāryyaṃ) [sadā+gale](sadāgale)
 
 ## mukta-m0-p554-v13845
-[witchcraft](kṛtyā) [epilepsy](apasmāra) [spirits](bhūta) [etc.](ādi) [destruction](nāśanam) [all-desires-granting](sarva+kāma+dam)
+[kṛtyā+apasmāra+bhūta+ādi+nāśanam](kṛtyāpasmārabhūtādināśanaṃ) [sarva+kāma+dam](sarvakāmadam)
 
 ## mukta-m0-p554-v13846
-[one-should-write](likhet) [eight-petaled](aṣṭa+dalam) [lotus](padmam) [in-pericarp](karṇikāyām) [one-should-write](likhet) [the-imperishable](dhruvam)
+[likhet](likhedaṣṭadalaṃ) [aṣṭa+dalam](aṣṭadalaṃ) [padmam](padmam) [karṇikāyām](karṇikāyāṃ) [likhet](likheddhruvam) [dhruvam](dhruvam)
 
 ## mukta-m0-p554-v13847
-[in-intermediate-direction-petals](vidik+patreṣu) [that](saḥ) [to-be-written](lekhyaḥ) [outside](bahiḥ) [square-enclosure](bhū+puram) [one-should-draw](ālikhet)
+[vidik+patreṣu](vidikpatreṣu) [saḥ](so) [lekhyo](lekhyo) [bahiḥ+bhūpuram](bahirbhūpuram) [ālikhet](ālikhet)
 
 ## mukta-m0-p554-v13848
-[diagram](yantram) [of-Mṛtyuñjaya](mṛtyuñjayasya) [this](idam) [by-recitation](japa) [oblation](homa) [etc.](ādi) [accomplished](sādhitam)
+[yantram](yantram) [mṛtyuñjayasya](mṛtyuñjayasyedaṃ) [idam](idam) [japa+homa+ādi+sādhitam](japahomādisādhitam)
 
 ## mukta-m0-p554-v13849
-[planets](graha) [disease](roga) [poison](viṣa) [etc.](ādīnām) [destruction](nāśanam) [death-conquering](mṛtyu+bhañjanam)
+[graha+roga+viṣa+ādīnām](graharogaviṣādīnāṃ) [nāśanam](nāśanaṃ) [mṛtyu+bhañjanam](mṛtyubhañjanam)
 
 ## mukta-m0-p554-v13850
-[this](etat) [who](yaḥ) [worships](pūjayet) [daily](nityam) [untimely-death](apa+mṛtyuḥ) [is-destroyed](vinaśyati)
+[etat](etadyaḥ) [yaḥ](yaḥ) [pūjayet](pūjayennityamapamṛtyurvinaśyati) [nityam](nityam) [apamṛtyuḥ](apamṛtyuḥ) [vinaśyati](vinaśyati)

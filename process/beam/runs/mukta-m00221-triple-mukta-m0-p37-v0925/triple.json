@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "indeclinable distributive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rathamāruḍhā",
+     "gloss": "chariot-mounted",
+     "grounds": "compound of ratha and āruḍhā; feminine singular nominative agreeing with each attendant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahādbhutaparākramā",
+     "gloss": "great-wonderful-valor",
+     "grounds": "compound of mahā, adbhuta, and parākramā; feminine singular nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What martial arrangement surrounds the goddess in this passage?",
+   "premises": [
+    "Each attendant rides a chariot.",
+    "Each attendant possesses great wonderful valor."
+   ],
+   "inference": "The goddess is surrounded by individually chariot-mounted valorous attendants.",
+   "uncertainties": [
+    "The exact number and identity of the attendants are not stated in this verse."
+   ],
+   "plain_english": "Each one is mounted on a chariot and has great, wonderful valor."
+  }
+ ]
+}

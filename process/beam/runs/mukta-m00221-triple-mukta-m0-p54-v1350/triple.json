@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "turaṅgā",
+     "gloss": "horses",
+     "grounds": "turaṅga = horse; nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vividhāḥ",
+     "gloss": "various",
+     "grounds": "vividha = various; nominative plural masculine adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tuṅgāḥ",
+     "gloss": "high",
+     "grounds": "tuṅga = high; nominative plural masculine adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "taraṅgā",
+     "gloss": "waves",
+     "grounds": "taraṅga = wave; nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "iva = like; indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rejire",
+     "gloss": "shone",
+     "grounds": "rejire = shone; middle perfect of root raj",
+     "morph": "3.pl.mid-perf, root raj"
+    }
+   ],
+   "question": "What simile conveys the majestic appearance of the demon army's horses?",
+   "premises": [
+    "Horses are described as high.",
+    "They shine like waves.",
+    "The army is returning."
+   ],
+   "inference": "The poet likens the horses to shining waves.",
+   "uncertainties": [
+    "Token surfaces omit final visarga."
+   ],
+   "plain_english": "The various high horses shone like waves."
+  }
+ ]
+}

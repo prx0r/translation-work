@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-[repelling](bādhasva) [shining-one](ducchanām)
+[repel](bādhasva) [away](ad) [misfortune](ucchanām) [now](idam)
 
 ## mukta-m0-p88-v2177
-[granting](dadhati) [dawn](uṣā) [wealth](rayiṃ) [in-me](mayi)
+[hold](dadhati) [strength](oṣa) [wealth](rayim) [in-me](mayi)
 
 ## mukta-m0-p88-v2178
-[shelter](śarmaṃ) [of-you](te) [may-we-be](syāma) [triple+protection](tri+varūthe) [in-both](udbhau)
+[shelter](śarma) [threefold](tri) [protection](varūtha) [arise](udbhau)
 
 ## mukta-m0-p88-v2179
-[rivals](sapatnān)
+[rivals](sapatnān) [remove](apākuru) [now](idam) [here](iha)
 
 ## mukta-m0-p88-v2180
-[for-dawn](uṣase) [at-release](nimuce) [may-it-be](bhavet)
+[dawn](uṣase) [setting](nimuce) [become](bhavet) [thus](tathā)
 
 ## mukta-m0-p88-v2181
-[Vṛtra+slayer](vṛtra+han) [strike](jahi) [wealth](vasu) [to-us](asmabhyam) [bring](ābhara)
+[vṛtra-slayer](vṛtrahan) [abandon](jahi) [wealth](vasu) [bring](ābhara)
 
 ## mukta-m0-p88-v2182
-[having-made](kṛtvā) [for-you](tubhyam) [O-Agni](agne) [we-place](pidadhmasi)
+[having-done](kṛtvā) [to-you](tubhyam) [fire](agne) [we-cover](pidadhmasi)
 
 ## mukta-m0-p88-v2183
-[to-him](tasmai) [destruction](nimruk) [and](ca) [all+evil+accumulation](sarva+pāpa+gūṃ+samūhatām)
+[to-him](tasmai) [sunset](nimruk) [all](sarva) [sin-remover](pāpagūṃsamūhatām)
 
 ## mukta-m0-p88-v2184
-[to-Jātavedas](jātavedase) [to-Agni](agnaye) [and](ca) [then](tatas) [offering](tyāgaḥ) [to-Agni](agnaye) [may-be](bhavet)
+[knowing-fire](jātavedase) [fire](agnaye) [then](tatas) [offering-fire](tyāgognaye) [become](bhavet)
 
 ## mukta-m0-p88-v2185
-[of-burning](prakṣāyataḥ) [of-mother](mātuḥ) [you-leave](uccheṣi) [anything](kiñcana)
+[washing](prakṣāyato) [mother](mātasya) [remainder](uccheṣi) [anything](kiñcana)
 
 ## mukta-m0-p88-v2186
-[to-us](asmān) [directions](diśāḥ) [and](ca) [all](sarvāḥ) [them](tān) [to-me](ma) [remove](apākuru)
+[us](asmān) [directions](diśāś) [all](sarvāgūṃ) [remove](apākuru)
 
 ## mukta-m0-p88-v2187
-[likewise](tathā) [to-him](antime) [to-Vaiśvānara](vaiśvānarāya) [and](ca)
+[thus](tathā) [last](antime) [vaiśvānara](vaiśvānarāya) [and](ca)
 
 ## mukta-m0-p88-v2188
-[sovereignty](kṣatraṃ) [to-me](me) [victorious](jiṣṇu) [whose](yasya) [I](aham) [am](asmi) [priest](purohitaḥ)
+[rule](kṣatraṃ) [me](me) [victorious](jiṣṇu) [whose](yasya) [priest](purohitaḥ)
 
 ## mukta-m0-p88-v2189
-[by-sacred-formula](brahmaṇā) [enemies](amitrān) [I-drive-away](unnuyāmi) [own](svām) [I](aham)
+[by-prayer](brahmaṇā) [enemies](amitrān) [drive](unnuyāmi) [own](svāṃ)
 
 ## mukta-m0-p88-v2190
-[again+studied](punar+ādhītaṃ) [to-me](me) [has-come](agāt)
+[again-studied](punarādhītaṃ) [to-me](ma) [came](agāt)
 
 ## mukta-m0-p88-v2191
-[oblation-bearer](vahniṃ) [one-should-praise](stuvīta) [with-twelve+verses](dvādaśa+ṛcabhiḥ)
+[fire](vahniṃ) [praise](stuvīta) [twelve-verses](dvādaśarcabhiḥ)
 
 ## mukta-m0-p88-v2192
-[these](etān) [bonds](pāśān) [releasing](pramuñcan) [he-knows](veda) [he](saḥ) [us](naḥ) [may-release](muñcatu) [from-misfortune](duritāt) [from-blame](avadyāt)
+[these](etān) [bonds](pāśān) [releasing](pramuñcan) [know](veda) [us](sa) [release](muñcatu) [distress](duritād)
 
 ## mukta-m0-p88-v2193
-[not+knowing](an+ājānan) [with-mind](manasā) [asking](yācamānaḥ) [what](yat) [here](atra) [sin](enaḥ) [away](ava) [that](tat) [I-release](suvāmi)
+[not-knowing](anājānan) [mind](manasā) [asking](yācamāno) [what](yad) [here](atra) [that](tatsuvāmi)
 
 ## mukta-m0-p88-v2194
-[of-six](ṣaṭ) [this](etat) [bound+desire+release](baddha+kāma+mocanam)
+[what](yac) [they-give](chatām) [this](etad) [bound-desire-release](baddhakāmocanam)
 
 ## mukta-m0-p88-v2195
-[slipped-forth](pracyutaḥ) [embryo](garbhaḥ) [all](sarvāṇi) [as](yathā) [follow](anuṣva)
+[fallen](pracyuto) [embryo](garbhaḥ) [all](sarvānyatho) [along](anuṣva)
 
 ## mukta-m0-p88-v2196
-[wife+examination](jāyā+parīkṣāṃ) [you-have-undertaken](rabhethāḥ)
+[wife](jāyā) [examination](parīkṣa) [approach](abhethāḥ)
 
 ## mukta-m0-p88-v2197
-[which](yāni) [we-did](cakṛma) [may-make](karotu) [me](mām) [sinless](anehasam)
+[what](yāni) [we-did](cakṛma) [do](karotu) [me](mām) [blameless](anehasam)
 
 ## mukta-m0-p88-v2198
-[from-that](tasmāt) [free-from-debt](anṛṇaṃ) [may-make](kṛṇotu)
+[therefore](tasmād) [debt-free](anṛṇaṃ) [make](kṛṇotu)
 
 ## mukta-m0-p88-v2199
-[may-make](kṛṇotu)
+[make](kṛṇotu) [thus](tathā) [offering](tyāga) [vaiśvānara](vaiśvānarāya)
 
 ## mukta-m0-p88-v2200
-[by-mantra](mantreṇa) [offering](tyāgaḥ) [to-Vaiśvānara](vaiśvānarāya) [and](ca)
+[by-mantra](mantreṇa) [renunciation](tyāgo) [vaiśvānara](vaiśvānarāya) [and](ca)
