@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p23",
  "verse": 560,
- "question": "Where should the stairway be placed?",
+ "question": "How many mantras are specified in sequence beginning with Śūlinī and ending with huṃ phaḍ?",
  "premises": [
-  "sopānam means stairway",
-  "upari+upari means above above",
-  "vinyaset means one should place"
+  "The series begins with Śūlinī.",
+  "The series ends with huṃ phaḍ.",
+  "The total number of mantras in this sequence is five."
  ],
- "inference": "The stairway should be placed above and above.",
- "uncertainties": [
-  "legacy hints only"
- ],
- "plain_english": "The stairway should be placed above and above."
+ "inference": "There are five mantras in order, beginning with Śūlinī and ending with huṃ phaḍ.",
+ "uncertainties": [],
+ "plain_english": "There are indeed five mantras in sequence, beginning with Śūlinī and ending with huṃ phaḍ."
 }

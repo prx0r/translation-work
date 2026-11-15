@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p22",
  "verse": 549,
- "question": "Which mantra accompanies the performance of the great light-waving?",
+ "question": "What ritual restriction follows from the cited authoritative statement?",
  "premises": [
-  "The mantra 'na tatra sūryo bhāti' is used",
-  "The great light-waving is performed",
-  "This follows in the ritual sequence"
+  "An authoritative statement is cited",
+  "The statement concerns the conch",
+  "A prohibition is derived from it"
  ],
- "inference": "Reciting 'na tatra sūryo bhāti', one should likewise perform the great light-waving.",
- "uncertainties": [],
- "plain_english": "Reciting 'na tatra sūryo bhāti', one should likewise perform the great light-waving."
+ "inference": "From this statement, the use of the conch is prohibited",
+ "uncertainties": [
+  "The specific prior statement being cited is not included in this verse"
+ ],
+ "plain_english": "Thus, from this statement, there is a prohibition of the conch."
 }

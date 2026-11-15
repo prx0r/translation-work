@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[ruby+muktā+inlaid](māṇikya+muktā+khaṃcitaiḥ) [and](ca) [with-wonderful](hi+adbhūtaiḥ) [ornaments](alaṃkāraiḥ)
+[ruby+pearl+inlaid](māṇikya+muktā+ākhaṃcitaiḥ) [with-ornaments](alaṃkāraiḥ) [and](ca) [wonderful](adbhūtaiḥ)
 
 ## mukta-m0-p13-v302
-[golden](haimam) [throne](siṃhāsanam) [parasol](chatram) [having-given](datvā) [indeed](vai) [and](ca) [auspicious](śubhe) [yak-tail-fans](cāmare)
+[golden](haimaṃ) [throne](siṃhāsanam) [umbrella](chatraṃ) [having-given](datvā) [indeed](vai) [auspicious](śubhe) [chowries](cāmare)
 
 ## mukta-m0-p13-v303
-[with-fields+villages+etc.](kṣetra+grāma+ādi) [territories](viṣayaiḥ) [and](ca) [with-regions](maṇḍalaiḥ) [auspicious](śubhaiḥ) [excellent](varaiḥ)
+[field+village+etc](kṣetra+grāma+ādi) [with-territories](viṣayaiḥ) [with-circles](maṇḍalaiḥ) [and](ca) [auspicious](śubhaiḥ) [excellent](varaiḥ)
 
 ## mukta-m0-p13-v304
-[to-the-guru](gurau) [that](tat) [in-every-way](sarvathā) [should-be-given](ādeyam) [without](vinā) [wealth+deceit](vitta+śāṭhyam) [disciple](śiśuḥ)
+[to-teacher](gurau) [that](tat) [in-every-way](sarvathā) [to-be-given](deyam) [wealth+deceit](vitta+śāṭhyam) [without](vinā) [the-disciple](śiśuḥ)
 
 ## mukta-m0-p13-v305
-[by-that](tena) [when-satisfied](tuṣṭe) [becomes](bhavet) [satisfied](tuṣṭaḥ) [directly](sākṣāt) [immortal](amṛtam) [Lord](īśvaram)
+[by-him](tena) [pleased](tuṣṭe) [may-be](bhavet) [pleased](tuṣṭaḥ) [directly](sākṣāt) [immortal](amṛtam) [lord](īśvaram)
 
 ## mukta-m0-p13-v306
-[therefore](tasmāt) [not](na) [human](mānavīm) [thought](buddhim) [should-make](kārayet) [towards](prati) [the-teacher](deśikam)
+[therefore](tasmāt) [not](na) [human](mānavīm) [intellect](buddhim) [should-make](kārayet) [toward-teacher](deśikam) [towards](prati)
 
 ## mukta-m0-p13-v307
-[of-those-sunk-in-the-ocean-of-saṃsāra](saṃsāra+arṇava+magnānām) [savior](tārakaḥ) [supreme-lord](parama+īśvaraḥ)
+[world+ocean+immersed](saṃsāra+arṇava+magnānām) [the-crosser](tārakaḥ) [supreme+lord](parama+īśvaraḥ)
 
 ## mukta-m0-p13-v308
-[disciple](śiṣyaḥ) [with-delighted-mind](prahṛṣṭa+manasā) [in-front-of-the-guru](guroḥ+agre) [should-offer](nivedayet)
+[the-disciple](śiṣyaḥ) [joyful+mind](prahṛṣṭa+manasā) [of-teacher](guroḥ) [before](agre) [should-offer](nivedayet)
 
 ## mukta-m0-p13-v309
-[with-servitude](dāsatvena) [body+etc.](śarīra+ādi) [accept](gṛhāṇa) [this](idam) [indeed](hi) [my-guru](mat+guro)
+[by-servitude](dāsatvena) [body+etc](śarīra+ādi) [accept](gṛhāṇa) [this](idam) [indeed](hi) [my+teacher](madguro)
 
 ## mukta-m0-p13-v310
-[hand+support](kara+avalambanam) [having-given](datvā) [me](mām) [uplift](uddhṛta) [unconscious](acetanam)
+[hand+support](kara+avalambanam) [having-given](datvā) [me](mām) [lifted-up](uddhṛtam) [unconscious](acetanam)
 
 ## mukta-m0-p13-v311
-[you](tvam) [alone](eva) [refuge](śaraṇam) [O-lord](svāmin) [for-those-tormented-by-thirst](tṛṣā+ārtānām) [as](yathā) [water](jalam)
+[you](tvam) [only](eva) [refuge](śaraṇam) [o-lord](svāmin) [thirst+afflicted](tṛṣ+ārtānām) [as](yathā) [water](jalam)
 
 ## mukta-m0-p13-v312
-[body](śarīram) [life-breath](prāṇam) [wealth](artham) [and](ca) [to-the-true-guru](sat+gurubhyaḥ) [should-offer](nivedayet)
+[body](śarīram) [life-breath](prāṇam) [wealth](artham) [and](ca) [to-true+teachers](sat+gurubhyaḥ) [should-offer](nivedayet)
 
 ## mukta-m0-p13-v313
-[of-the-disciple-humble-with-devotion](bhakti+prahvasya) [of-the-disciple](śiṣyasya) [and](ca) [of-one-prostrate-on-the-ground-before-the-gurus](gurūṇām+abhu+gatasya)
+[devotion+bent](bhakti+prahvasya) [of-disciple](śiṣyasya) [of-teachers](gurūṇām) [approached](abhūgatasya) [and](ca)
 
 ## mukta-m0-p13-v314
-[with-undivided-attitude](ananya+bhāvataḥ) [disposition](bhāvam) [daily-rite](āhnikam) [not](na) [indeed](eva) [should-neglect](lopayet)
+[no-other+state](ananya+bhāvataḥ) [feeling](bhāvam) [daily-duty](āhnikam) [not](na) [indeed](eva) [should-neglect](lopayet)
 
 ## mukta-m0-p13-v315
-[not](na) [ever](jātu) [contemptible](kutsitam) [should-speak](brūyāt) [unwilling](anicchantīm) [not](na) [should-cause-to-do](kārayet)
+[not](na) [ever](jātu) [blameworthy](kutsitam) [should-speak](brūyāt) [unwilling](anicchantīm) [not](na) [should-make](kārayet)
 
 ## mukta-m0-p13-v316
-[criticism-of-the-teaching](deśa+nindā) [not](na) [should-be-done](kartavyā) [by-the-artisan](śilpinena) [should-despise](tiraskaret)
+[country+blame](deśa+nindā) [not](na) [should-be-done](kartavyā) [by-artist](śilpinā) [should-disrespect](tiraskaret)
 
 ## mukta-m0-p13-v317
-[and](ca) [of-those-devoted-to-criticizing-Śiva](śiva+nindā+parāṇām) [association](saṃgatim) [not](na) [indeed](eva) [should-make](kārayet)
+[śiva+blame+devoted](śiva+nindā+parāṇām) [and](ca) [company](saṃgatim) [not](na) [indeed](eva) [should-make](kārayet)
 
 ## mukta-m0-p13-v318
-[laughter](hāsyam) [wearing-a-turban](uṣṇīśa+karaṇam) [using-vehicles+mounts](yāna+vāhana+sevanam)
+[laughter](hāsyam) [turban+making](uṣṇīśa+karaṇam) [vehicle+mount+service](yāna+vāhana+sevanam)
 
 ## mukta-m0-p13-v319
-[adornment](maṇḍanam) [mirror](darpaṇam) [looking](ālokam) [jumping-over](uttarvanam) [agility](sauṣṭavam)
+[ornament](maṇḍanam) [mirror+looking](darpaṇa+ālokam) [swaggering](uttarvaṇam) [gracefulness](sauṣṭavam)
 
 ## mukta-m0-p13-v320
-[covering-the-head](mūrdhā+pidhānam) [with-cloth](vastreṇa) [close+proximity+sitting](sannikarṣa+upaveśanam)
+[head+covering](mūrdha+apidhānam) [with-cloth](vastreṇa) [near+seating](sannikarṣa+upaveśanam)
 
 ## mukta-m0-p13-v321
-[these](etān) [others](anyān) [also](api) [likewise](tathā) [should-avoid](varjayet) [in-every-way](sarvathā) [disciple](śiśuḥ)
+[these](etān) [others](anyān) [also](api) [thus](tathā) [should-avoid](varjayet) [in-every-way](sarvathā) [the-disciple](śiśuḥ)
 
 ## mukta-m0-p13-v322
-[with-stick-like-prostration](daṇḍa+praṇāmake) [not](na) [indeed](eva) [own-guru](sva+gurum) [should-bow](praṇamet) [disciple](śiśuḥ)
+[staff+prostration](daṇḍa+praṇāmakaḥ) [not](na) [indeed](eva) [own+teacher](sva+gurum) [should-bow](praṇamet) [the-disciple](śiśuḥ)
 
 ## mukta-m0-p13-v323
-[by-investigation](vicāraṇāt) [not](na) [should-be-done](kāryā) [should-bow](praṇamet) [at-the-sight](darśane) [of-the-guru](guroḥ)
+[inquiry](vicāraṇā) [here](atra) [not](na) [should-be-done](kāryā) [should-bow](praṇamet) [on-seeing](darśane) [of-teacher](guroḥ)
 
 ## mukta-m0-p13-v324
-[having-seen](dṛṣṭvā) [guru](gurum) [with-effort](prayatnena) [humble](vinītaḥ) [with-folded-hands](prāñjaliḥ) [disciple](śiśuḥ)
+[having-seen](dṛṣṭvā) [teacher](gurum) [with-effort](prayatnena) [humble](vinītaḥ) [with-folded-hands](prāñjaliḥ) [the-disciple](śiśuḥ)
 
 ## mukta-m0-p13-v325
-[of-the-guru](guroḥ) [destruction-of-sin](pāpa+kṣayam) [attains](yāti) [by-meditation](dhyānāt) [and](ca) [indeed](eva) [of-the-great-disciple](mahat+śiśoḥ)
+[of-teacher](guroḥ) [sin+destruction](pāpa+kṣayam) [goes](yāti) [from-meditation](dhyānāt) [śaiva](śaiva) [great+disciple](mahacchiśoḥ)

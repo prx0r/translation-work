@@ -2,64 +2,64 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-then(tadā) oneself(svayam) and(ca) should-bow(praṇamet) guru's-devotion(guroḥ+bhaktim) should-display(vidarśayet)
+[then](tadā) [oneself](svayaṃ) [and](ca) [should-bow](praṇamet) [of-guru+devotion](guror+bhaktiṃ) [should-display](vidarśayet)
 
 ## mukta-m0-p15-v352
-he-goes(sa+yāti) to-hell(narakam) terrible(ghoram) thus(iti) command(ājñā) supreme-lady(pārameśvarī)
+[he-goes](sayāti) [to-hell](narakaṃ) [terrible](ghoram) [thus](iti) [command+supreme-goddess](ājñā+pārameśvarī)
 
 ## mukta-m0-p15-v353
-in-Avīci(avīcī) in-Raurava(raurave) and(ca+eva) blazing(prajvalat) copper(tāmra) in-mansion(mandire)
+[in-avīci](avīcī) [in-raurava](raurave) [and](ca) [indeed](eva) [in-blazing+copper+abode](prajvalant+āmra+mandire)
 
 ## mukta-m0-p15-v354
-is-cooked(pacyate) as-long-as-world(bhuvanam) as-far-as(yāvat) guru's-command(guru+ājñā) transgression(lopane) being-done(kṛte)
+[is-cooked](pacyate) [as-long-as-world](bhuvanaṃ) [as-long-as](yāvat) [guru+command+transgression](guru+ājñā+lopane) [being-done](kṛte)
 
 ## mukta-m0-p15-v355
-life(prāṇa) danger(saṃkaṭake) having-arisen(prāpte) own-life(sva+prāṇān) even(tatra) should-release(muñcayet)
+[life+danger](prāṇa+saṃkaṭake) [having-arisen](prāpte) [own+life+end](sva+prāṇa+ante) [here](atra) [one-should-release](muñcayet)
 
 ## mukta-m0-p15-v356
-like-guru(guru+vat) to-be-honored(pūjanīyaḥ) he-is(syāt) even-one(kam+api) arrived(āgatam) with-respect(ādarāt)
+[like-guru](guruvat) [to-be-honored](pūjanīyo) [he-is](asya) [even](kam) [even+one](api) [arrived](āgatam) [with-respect](ādarāt)
 
 ## mukta-m0-p15-v357
-in-hell(narake) he-may-sleep(śoyam) unperturbed(avyagram) having-meditated(dhyātvā) * bhu enjoy(payet) happiness(sukham)
+[in-hell](narake) [lying](śoyam) [unperturbed](avyagraṃ) [having-meditated](dhyātvā) [world](bhu) [*](*) [one-should-enjoy](payet) [happiness](sukham)
 
 ## mukta-m0-p15-v358
-of-Śiva-and-Śakti(śiva+śaktyoḥ) because(yataḥ) by-marks(cihnaiḥ) marked(vyañjitam) is-seen(saṃpradṛśyate)
+[of-śiva+śakti](śiva+śaktyor) [because](yataḥ) [with-marks](cihnaiḥ) [marked](vyañjitaṃ) [is-clearly-seen](saṃpradṛśyate)
 
 ## mukta-m0-p15-v359
-therefore(ataḥ) one-should-worship(saṃpūjayet) all(sarvam) group-of-principles(tatva+vrātam) that(tad) should-resort-to(āśrayet)
+[therefore](ataḥ) [one-should-worship](saṃpūjayet) [all](sarvaṃ) [principle+multitude](tatva+vrātaṃ) [that+shelter](tad+āśrayet)
 
 ## mukta-m0-p15-v360
-external(bāhya) linga(liṅga) first(purā) having-worshipped(abhyarcya) afterwards(paścāt) internal(abhyantaram) one-should-worship(yajet)
+[external+liṅga](bāhya+liṅga) [first+having-worshipped](purā+abhyarcya) [afterwards](paścāt) [internal](abhyantaraṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p15-v361
-likewise(tathā) indeed(vai) of-devotionless(bhakti+hīnasya) Śiva-worship(śiva+pūjā) fruitless(nirarthakam)
+[likewise](tathā) [indeed](vai) [of-devotion+devoid](bhakti+hīnasya) [śiva+worship](śiva+pūjā) [fruitless](nirarthakam)
 
 ## mukta-m0-p15-v362
-afterwards(paścāt) five-kalā(pañca+kalā) initiation(dīkṣā) nine-principle(nava+tatva+ātmikā) again(punaḥ)
+[afterwards](paścāt) [five+kalā+initiation](paṃca+kalā+dīkṣā) [nine+principle+consisting](nava+tatva+ātmikā) [again](punaḥ)
 
 ## mukta-m0-p15-v363
-likewise(tathā) one-principle(eka+tatvikā) and(ca+eva) initiation(dīkṣā) liberation(mokṣā) dissolution(layā) auspicious(śubhā)
+[likewise](tathā) [one+principle+consisting](eka+tatvikā) [and](ca) [indeed](eva) [initiation+liberation](dīkṣā+mokṣā) [dissolution](layā) [auspicious](śubhā)
 
 ## mukta-m0-p15-v364
-in-prose-style(gadya+bhaṅgyā) indeed(tu) declared(kathitām) in-devotion-endowed(bhakti+yukte) indeed(tu) in-disciple(śiṣyake)
+[prose+style](gadya+bhaṃgyā) [indeed](tu) [declared](kathitāṃ) [devotion+endowed](bhakti+yukte) [indeed](tu) [to-disciple](śiṣyake)
 
 ## mukta-m0-p15-v365
-declared(kathitām) in-verse-style(padma+bhaṅgena) living-liberation(jīvan+muktim) bestowing(pradāyikām)
+[declared](kathitāṃ) [lotus+style](padma+bhaṅgena) [living+liberation](jīvan+muktiṃ) [bestowing](pradāyikām)
 
 ## mukta-m0-p15-v366
-enjoyment-and-liberation(bhukti+mukti+pradam) excellent(śreṣṭham) teachers(deśikāḥ) practice(arcayanti) this(idam)
+[enjoyment+liberation+giving](bhukti+mukti+pradaṃ) [excellent](śreṣṭhaṃ) [teachers](deśikā) [practice](carcayanti) [this](idam)
 
 ## mukta-m0-p15-v367
-from-Kula-and-Akula(kula+akula+samudbhūtam) by-knowledge-initiation(jñāna+dīkṣā) well-instructed(subodhitam)
+[kula+akula+arisen](kula+akula+samudbhūtaṃ) [knowledge+initiation+well-instructed](jñāna+dīkṣā+subodhitam)
 
 ## mukta-m0-p15-v368
-by-Viśveśvara(viśveśvareṇa) composed(racitam) for-good-people(sajjana) prosperity(aiṣvaryam) this(idam)
+[by-viśveśvara](viśveśvareṇa) [composed](racitaṃ) [good-people+prosperity](sajjana+aiṣvarya) [this](idam)
 
 ## mukta-m0-p15-v369
-Śarva(śarvaḥ) all(sarvam) not(na) knows(jānāti) therefore(tasmāt) forgive(kṣamatha) teachers(deśikāḥ)
+[śarva](śarvaḥ) [all](sarvaṃ) [not](na) [knows](jānāti) [therefore](tasmāt) [forgive](kṣamatha) [teachers](deśikāḥ)
 
 ## mukta-m0-p15-v370
-by-knowledge(jñāna) * by-intellect(matinā) composed(racitam) by-me(mayā) that(tat)
+[knowledge+pra](jñāna+pra) [*](*) [by-intellect+composed](matinā+racitaṃ) [by-me](mayai) [that](tat)
 
 ## mukta-m0-p15-v371
-from-Śambhu's-mouth(śambhoḥ+vaktra+samudbhavā) by-scriptural-understanding(āgama+dhiyā) by-him(tena+eva) that(tat) composed(nirmitam)
+[from-śambhu+mouth+arisen](śambhoḥ+vaktra+samudbhavā) [scripture+by-intellect](āgama+dhiyā) [by-him+indeed](tena+eva) [that+composed](tat+nirmitam)

@@ -1,0 +1,471 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 563,
+   "rows": [
+    {
+     "surface": "vada vada vāgvādini vahnivallabhā",
+     "gloss": "speak speak o-speech-goddess fire-beloved",
+     "grounds": "mantra phrase addressed to the goddess of speech; kept as a single fused token",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker introducing the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśākṣaraḥ",
+     "gloss": "ten-syllabled",
+     "grounds": "specifies the syllable count of the mantra",
+     "morph": "m.nom.sg (compound: daśan+akṣara)"
+    }
+   ],
+   "question": "What is the syllable count of the mantra beginning with vada vada vāgvādini?",
+   "premises": [
+    "The mantra phrase is vada vada vāgvādini vahnivallabhā.",
+    "The text identifies this mantra as daśākṣaraḥ."
+   ],
+   "inference": "The specified mantra consists of ten syllables.",
+   "uncertainties": [],
+   "plain_english": "The mantra 'vada vada vāgvādini vahnivallabhā' is thus a ten-syllabled mantra."
+  },
+  {
+   "verse": 564,
+   "rows": [
+    {
+     "surface": "bhuvaneśīsaṃpuṭaḥ",
+     "gloss": "enclosed-by-bhuvaneśī",
+     "grounds": "describes the mantra as encased by the Bhuvaneśī mantra",
+     "morph": "m.nom.sg (compound: bhuvaneśī+saṃpuṭa)"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the mantra",
+     "morph": "m.nom.sg (pronoun)"
+    },
+    {
+     "surface": "mahāsārasvatapradaḥ",
+     "gloss": "bestower-of-great-sarasvatī-power",
+     "grounds": "states the fruit bestowed by the mantra",
+     "morph": "m.nom.sg (compound: mahā+sārasvata+prada)"
+    }
+   ],
+   "question": "What encasement and spiritual fruit characterize this ten-syllabled mantra?",
+   "premises": [
+    "This mantra is enclosed by Bhuvaneśī.",
+    "This mantra bestows great Sarasvatī power."
+   ],
+   "inference": "The mantra, encased by Bhuvaneśī, grants great mastery of speech.",
+   "uncertainties": [],
+   "plain_english": "This mantra, enclosed by Bhuvaneśī, bestows great power of Sarasvatī."
+  },
+  {
+   "verse": 565,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates general application of the obeisance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What reverential formula is to be applied in all contexts?",
+   "premises": [
+    "The word namaḥ expresses obeisance.",
+    "The word sarvatra indicates application everywhere."
+   ],
+   "inference": "The formula of obeisance is to be used everywhere.",
+   "uncertainties": [],
+   "plain_english": "Obeisance is to be made everywhere."
+  },
+  {
+   "verse": 566,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "specifies the location for the obeisance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāgīśvaryai",
+     "gloss": "to-vāgīśvarī",
+     "grounds": "name of the goddess receiving obeisance",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-goddess",
+     "grounds": "epithet identifying Vāgīśvarī as the deity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which deity is obeisance directed in the heart?",
+   "premises": [
+    "Obeisance is made in the heart.",
+    "The obeisance is directed to the goddess Vāgīśvarī."
+   ],
+   "inference": "One offers obeisance in the heart to the goddess Vāgīśvarī.",
+   "uncertainties": [],
+   "plain_english": "Obeisance in the heart to the goddess Vāgīśvarī."
+  },
+  {
+   "verse": 567,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step in the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkāyāḥ",
+     "gloss": "of-mātṛkā",
+     "grounds": "specifies the Mātṛkā as the basis for the placements",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "karāṅganyāsau",
+     "gloss": "hand-limb-placements",
+     "grounds": "ritual placements on hands and body limbs",
+     "morph": "m.acc.du (compound: kara+aṅga+nyāsa)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(absolutive, √kṛ)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescribes meditation after the placements",
+     "morph": "3.sg.opt.act (√dhyai)"
+    }
+   ],
+   "question": "What ritual actions should follow after performing the Mātṛkā hand and limb placements?",
+   "premises": [
+    "One should first perform the hand and limb placements of the Mātṛkā.",
+    "After performing them, one should meditate."
+   ],
+   "inference": "Meditation is prescribed after completing the Mātṛkā hand and limb placements.",
+   "uncertainties": [],
+   "plain_english": "Then, having performed the hand and limb placements of the Mātṛkā, one should meditate."
+  },
+  {
+   "verse": 568,
+   "rows": [
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior placement of letters",
+     "morph": "(absolutive, √nyas)"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "letters",
+     "grounds": "the phonetic letters to be placed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "the six ritual limbs to be constituted",
+     "morph": "n.acc.pl (compound: ṣaṣ+aṅga)"
+    },
+    {
+     "surface": "mātṛkoktāni",
+     "gloss": "taught-in-mātṛkā",
+     "grounds": "indicates the six limbs as prescribed in the Mātṛkā",
+     "morph": "n.acc.pl (compound: mātṛkā+ukta)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-assign",
+     "grounds": "prescribes the assignment of the six limbs",
+     "morph": "3.sg.opt.act (√kḷp)"
+    }
+   ],
+   "question": "How should the six limbs taught in the Mātṛkā be ritually assigned?",
+   "premises": [
+    "The letters are to be placed first.",
+    "The six limbs taught in the Mātṛkā are to be assigned."
+   ],
+   "inference": "After placing the letters, one should assign the six limbs as taught in the Mātṛkā.",
+   "uncertainties": [],
+   "plain_english": "Having placed the letters, one should assign the six limbs as taught in the Mātṛkā."
+  },
+  {
+   "verse": 569,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers back to the preceding meditation and worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior meditation",
+     "morph": "(absolutive, √dhyai)"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "specifies worship performed mentally",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior mental worship",
+     "morph": "(absolutive, sam+√pūj)"
+    },
+    {
+     "surface": "śaṅkhasthāpanaṃ",
+     "gloss": "conch-placement",
+     "grounds": "ritual act of placing or establishing the conch",
+     "morph": "n.acc.sg (compound: śaṅkha+sthāpana)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes the performance of the conch placement",
+     "morph": "3.sg.opt.act (√kṛ)"
+    }
+   ],
+   "question": "What ritual act should be performed after meditation and mental worship?",
+   "premises": [
+    "One should meditate and worship with mental offerings.",
+    "After doing so, one should perform the placement of the conch."
+   ],
+   "inference": "The placement of the conch follows meditation and mental worship.",
+   "uncertainties": [],
+   "plain_english": "Thus, having meditated and worshipped with mental offerings, one should perform the placement of the conch."
+  },
+  {
+   "verse": 570,
+   "rows": [
+    {
+     "surface": "tadbahir",
+     "gloss": "outside-that",
+     "grounds": "specifies the area outside the previously established space",
+     "morph": "(indecl., compound: tad+bahis)"
+    },
+    {
+     "surface": "indrādīn",
+     "gloss": "indra-and-others",
+     "grounds": "the directional guardians beginning with Indra",
+     "morph": "m.acc.pl (compound: indra+ādi)"
+    },
+    {
+     "surface": "vajrādīṃś",
+     "gloss": "thunderbolt-and-others",
+     "grounds": "the weapons beginning with the thunderbolt",
+     "morph": "m.acc.pl (compound: vajra+ādi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the guardians and their weapons",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes worship of the guardians and weapons",
+     "morph": "3.sg.opt.act (√pūj)"
+    }
+   ],
+   "question": "Which deities and weapons should be worshipped outside the established ritual space?",
+   "premises": [
+    "The worship is to take place outside that space.",
+    "Indra and the other guardians, along with the thunderbolt and other weapons, are to be worshipped."
+   ],
+   "inference": "Outside the established space, one should worship Indra and the other guardians together with their weapons.",
+   "uncertainties": [],
+   "plain_english": "Outside that, one should worship Indra and the other guardians, and the thunderbolt and other weapons."
+  },
+  {
+   "verse": 571,
+   "rows": [
+    {
+     "surface": "puṇḍarīkaiḥ",
+     "gloss": "with-lotuses",
+     "grounds": "one possible offering substance",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "payo'bhyaktaiḥ",
+     "gloss": "smeared-with-milk",
+     "grounds": "describes lotuses anointed with milk",
+     "morph": "n.inst.pl (compound: payas+abhyakta)"
+    },
+    {
+     "surface": "tilaiḥ",
+     "gloss": "with-sesame",
+     "grounds": "alternative offering substance",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhurāplutaiḥ",
+     "gloss": "soaked-in-sweet-substances",
+     "grounds": "describes sesame soaked in sweet substances",
+     "morph": "m.inst.pl (compound: madhura+āpluta)"
+    }
+   ],
+   "question": "What alternative substances may be used for the prescribed offerings?",
+   "premises": [
+    "Lotuses smeared with milk may be used as offerings.",
+    "Alternatively, sesame soaked in sweet substances may be used."
+   ],
+   "inference": "The offerings may consist either of milk-smeared lotuses or sweet-soaked sesame.",
+   "uncertainties": [],
+   "plain_english": "One may use lotuses smeared with milk, or sesame soaked in sweet substances."
+  },
+  {
+   "verse": 572,
+   "rows": [
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the ritual formula being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśavarṇādhyo",
+     "gloss": "beginning-with-sixteen-syllables",
+     "grounds": "specifies the mantra as having sixteen syllables at its beginning or in its form",
+     "morph": "m.nom.sg (compound: ṣoḍaśa+varṇa+ādhya)"
+    },
+    {
+     "surface": "vāgaiśvaryaphalapradaḥ",
+     "gloss": "bestower-of-speech-mastery-fruit",
+     "grounds": "states the fruit granted by the mantra",
+     "morph": "m.nom.sg (compound: vāgaiśvarya+phala+prada)"
+    }
+   ],
+   "question": "What syllabic form and fruit are attributed to this mantra?",
+   "premises": [
+    "The mantra is characterized as beginning with sixteen syllables.",
+    "The mantra bestows the fruit of mastery of speech."
+   ],
+   "inference": "This sixteen-syllabled mantra grants the fruit of mastery of speech.",
+   "uncertainties": [
+    "The exact parsing of ṣoḍaśavarṇādhyo as 'beginning with sixteen syllables' follows the legacy hint but could also mean 'rich in sixteen syllables'."
+   ],
+   "plain_english": "The mantra, beginning with sixteen syllables, bestows the fruit of mastery of speech."
+  },
+  {
+   "verse": 573,
+   "rows": [
+    {
+     "surface": "pūrvoktapīṭhaśaktiḥ",
+     "gloss": "previously-stated-seat-power",
+     "grounds": "the seat power mentioned earlier in the text",
+     "morph": "f.acc.sg (compound: pūrva+ukta+pīṭha+śakti)"
+    },
+    {
+     "surface": "pīṭhamanuñ",
+     "gloss": "seat-mantra",
+     "grounds": "the mantra associated with the seat; final nasal shows sandhi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the seat power and the seat mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribes ritual placement",
+     "morph": "3.sg.opt.act (√nyas)"
+    }
+   ],
+   "question": "Which previously mentioned seat elements must be ritually placed?",
+   "premises": [
+    "The previously stated seat power is to be placed.",
+    "The seat mantra is also to be placed."
+   ],
+   "inference": "One should place both the previously mentioned seat power and the seat mantra.",
+   "uncertainties": [],
+   "plain_english": "One should place the previously mentioned seat power and the seat mantra."
+  },
+  {
+   "verse": 574,
+   "rows": [
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "specifies the mantra whose parts are used",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ṣaḍbhiḥ",
+     "gloss": "with-six",
+     "grounds": "indicates six parts are employed",
+     "morph": "inst.pl"
+    },
+    {
+     "surface": "padaiḥ",
+     "gloss": "with-parts",
+     "grounds": "the divisions or words of the mantra",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescribes the formation of the six-limb rite",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "jātiyuktaṃ",
+     "gloss": "joined-with-seed-syllables",
+     "grounds": "indicates the six-limb rite is combined with seed syllables",
+     "morph": "n.acc.sg (compound: jāti+yukta)"
+    },
+    {
+     "surface": "ṣaḍaṅgakam",
+     "gloss": "six-limb-rite",
+     "grounds": "the ritual assignment to six parts of the body",
+     "morph": "n.acc.sg (compound: ṣaṣ+aṅgaka)"
+    }
+   ],
+   "question": "How should the six-limb rite be constructed from the parts of the mantra?",
+   "premises": [
+    "Six parts of the mantra are to be used.",
+    "The six-limb rite is to be joined with the seed syllables."
+   ],
+   "inference": "One should construct the six-limb rite using six parts of the mantra joined with the seed syllables.",
+   "uncertainties": [
+    "The term jāti is interpreted as seed syllables following the legacy hint; its precise technical sense may vary."
+   ],
+   "plain_english": "Using six parts of the mantra, one should perform the six-limb rite joined with the seed syllables."
+  }
+ ]
+}

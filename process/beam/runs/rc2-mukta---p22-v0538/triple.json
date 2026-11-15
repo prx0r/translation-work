@@ -1,0 +1,553 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 538,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt √dā"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "ritual seat offered to deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etena",
+     "gloss": "with-this",
+     "grounds": "instrumental referring to mantra or formula",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "mūrtiṃ",
+     "gloss": "image",
+     "grounds": "deity form to be ritually constituted",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental of mūla mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-form",
+     "grounds": "optative prescribing formation of image",
+     "morph": "3.sg.act.opt √kḷp"
+    }
+   ],
+   "question": "By what means are the ritual seat and deity image to be established?",
+   "premises": [
+    "A seat should be given using this formula",
+    "The image should be formed using the root mantra",
+    "Both actions are prescribed ritual procedures"
+   ],
+   "inference": "The seat is established with this formula and the image is formed with the root mantra",
+   "uncertainties": [
+    "The referent of etena is not explicitly specified in this verse"
+   ],
+   "plain_english": "One should offer the seat with this, and form the image with the root mantra."
+  },
+  {
+   "verse": 539,
+   "rows": [
+    {
+     "surface": "durgā",
+     "gloss": "durgā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "stated by authoritative tradition",
+     "morph": "f.nom.sg.ppp √sam-īr"
+    },
+    {
+     "surface": "sadbhiḥ",
+     "gloss": "by-the-good",
+     "grounds": "by virtuous or authoritative persons",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "durita+āpad+nivāriṇī",
+     "gloss": "misfortune-calamity-removing",
+     "grounds": "compound describing Durgā's protective function",
+     "morph": "f.nom.sg compound: durita+āpad+nivārin+f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks reported designation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protective function defines Durgā according to authoritative tradition?",
+   "premises": [
+    "Durgā is declared by the good",
+    "She is described as removing misfortune and calamity",
+    "This designation is presented as authoritative"
+   ],
+   "inference": "Durgā is authoritatively defined as the remover of misfortune and calamity",
+   "uncertainties": [],
+   "plain_english": "The good declare Durgā to be the remover of misfortune and calamity."
+  },
+  {
+   "verse": 540,
+   "rows": [
+    {
+     "surface": "hrām+ādyaiḥ",
+     "gloss": "with-hrām-etc",
+     "grounds": "bīja syllables beginning with hrām; mantra material transliterated",
+     "morph": "m/n.inst.pl compound: hrām+ādi+m/n"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indicates accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.mid.opt √kṛ"
+    },
+    {
+     "surface": "ṣaḍ+aṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "six ritual limbs of mantra practice",
+     "morph": "n.acc.pl compound: ṣaṣ+aṅga+n"
+    },
+    {
+     "surface": "yathā+vidhi",
+     "gloss": "according-to-rule",
+     "grounds": "in accordance with prescribed procedure",
+     "morph": "(indecl.) compound: yathā+vidhi"
+    }
+   ],
+   "question": "How should the six ritual limbs be performed in this worship sequence?",
+   "premises": [
+    "The six limbs must be performed",
+    "They are performed with hrām and related syllables",
+    "The performance must follow prescribed rules"
+   ],
+   "inference": "The six limbs should be performed with hrām and related syllables according to rule",
+   "uncertainties": [
+    "The full set of syllables implied by hrām+ādyaiḥ is not enumerated here"
+   ],
+   "plain_english": "One should perform the six limbs with hrām and the other syllables, according to rule."
+  },
+  {
+   "verse": 541,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to preceding procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "gerund √dhyai"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "offerings made mentally",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior act of worship",
+     "morph": "gerund √sam-pūj"
+    },
+    {
+     "surface": "śaṅkha+sthāpanaṃ",
+     "gloss": "conch-installation",
+     "grounds": "ritual placement of the conch",
+     "morph": "n.acc.sg compound: śaṅkha+sthāpana+n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt √kṛ"
+    }
+   ],
+   "question": "What ritual action follows meditation and mental worship in this sequence?",
+   "premises": [
+    "Meditation is performed first",
+    "Worship with mental offerings follows",
+    "Conch installation is prescribed after these acts"
+   ],
+   "inference": "After meditating and performing mental worship, one should install the conch",
+   "uncertainties": [],
+   "plain_english": "Thus, having meditated and worshipped with mental offerings, one should perform the installation of the conch."
+  },
+  {
+   "verse": 542,
+   "rows": [
+    {
+     "surface": "durgāyai",
+     "gloss": "to-durgā",
+     "grounds": "dative of recipient in mantra formula",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "hṛdayāya",
+     "gloss": "to-heart",
+     "grounds": "dative naming the heart limb in mantra",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+ādinā",
+     "gloss": "thus-beginning-with",
+     "grounds": "indicates formula and similar ones following",
+     "morph": "m/n.inst.sg compound: iti+ādi+m/n"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.act.opt √pūj"
+    }
+   ],
+   "question": "With what formulaic utterance should worship be performed at this stage?",
+   "premises": [
+    "Worship is prescribed",
+    "The formula begins with obeisance to Durgā and to the heart",
+    "Similar formulas follow this pattern"
+   ],
+   "inference": "Worship should be performed using the formula beginning with obeisance to Durgā and to the heart",
+   "uncertainties": [
+    "The complete sequence implied by iti+ādinā is not fully listed"
+   ],
+   "plain_english": "One should worship with the formula beginning, 'Obeisance to Durgā, obeisance to the heart.'"
+  },
+  {
+   "verse": 543,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks next stage in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpa+ādi",
+     "gloss": "incense-etc",
+     "grounds": "offerings beginning with incense",
+     "morph": "n.nom/acc.sg compound: dhūpa+ādi+n"
+    },
+    {
+     "surface": "visarjana+antaṃ",
+     "gloss": "dismissal-ending",
+     "grounds": "ritual sequence ending with dismissal",
+     "morph": "n.acc.sg compound: visarjana+anta+n"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual procedure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "optative prescribing completion",
+     "morph": "3.sg.act.caus.opt √sam-āp"
+    }
+   ],
+   "question": "What range of ritual acts must be completed after the preceding worship?",
+   "premises": [
+    "A ritual sequence continues after earlier steps",
+    "The sequence begins with incense and related offerings",
+    "The sequence ends with dismissal"
+   ],
+   "inference": "One should complete the rite from incense offerings through dismissal",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite, beginning with incense and ending with dismissal."
+  },
+  {
+   "verse": 544,
+   "rows": [
+    {
+     "surface": "vācanikaḥ",
+     "gloss": "prescribed",
+     "grounds": "as stated in authoritative text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭa+sahasra+homaḥ",
+     "gloss": "eight-thousand-oblation",
+     "grounds": "fire offering of eight thousand repetitions",
+     "morph": "m.nom.sg compound: aṣṭa+sahasra+homa+m"
+    }
+   ],
+   "question": "What quantity of fire oblation is prescribed by authoritative instruction?",
+   "premises": [
+    "A fire oblation is prescribed",
+    "The prescribed number is eight thousand",
+    "This prescription is textual or authoritative"
+   ],
+   "inference": "The prescribed fire oblation consists of eight thousand offerings",
+   "uncertainties": [],
+   "plain_english": "The prescribed fire oblation is eight thousand."
+  },
+  {
+   "verse": 545,
+   "rows": [
+    {
+     "surface": "vadhū+bīja+ādiḥ",
+     "gloss": "vadhū-seed-beginning",
+     "grounds": "mantra beginning with vadhū bīja; bīja transliterated",
+     "morph": "m.nom.sg compound: vadhū+bīja+ādi+m"
+    },
+    {
+     "surface": "kavaca+ādiḥ",
+     "gloss": "armor-beginning",
+     "grounds": "mantra beginning with kavaca element",
+     "morph": "m.nom.sg compound: kavaca+ādi+m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects descriptive elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava+akṣaraḥ",
+     "gloss": "nine-syllabled",
+     "grounds": "mantra consisting of nine syllables",
+     "morph": "m.nom.sg compound: nava+akṣara+m"
+    }
+   ],
+   "question": "What structural features characterize the nine-syllabled mantra in this context?",
+   "premises": [
+    "The mantra has nine syllables",
+    "It begins with the vadhū seed",
+    "It begins with the armor element"
+   ],
+   "inference": "The nine-syllabled mantra is characterized as beginning with the vadhū seed and the armor element",
+   "uncertainties": [
+    "The exact mantra sequence and how both beginnings apply is not fully specified"
+   ],
+   "plain_english": "And the nine-syllabled mantra begins with the vadhū seed and with the armor."
+  },
+  {
+   "verse": 546,
+   "rows": [
+    {
+     "surface": "kāmaṃ",
+     "gloss": "kāma",
+     "grounds": "bīja or mantra element; transliterated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "praṇavam",
+     "gloss": "praṇava",
+     "grounds": "sacred syllable oṃ; transliterated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted or stated elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "as declared in instruction",
+     "morph": "n.nom.sg.ppp √vac"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed form",
+     "morph": "3.sg.act.opt √bhū"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "mantra formula",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates further specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numerical specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the vidyā further specified in terms of its constituent elements and count?",
+   "premises": [
+    "Kāma and praṇava are stated as elements",
+    "The vidyā is being specified again",
+    "The count given is ten"
+   ],
+   "inference": "The vidyā is stated to include kāma and praṇava and is further specified as ten",
+   "uncertainties": [
+    "Whether daśa qualifies syllables, elements, or another aspect is ambiguous"
+   ],
+   "plain_english": "Thus stated as kāma and praṇava, the vidyā should again be ten."
+  },
+  {
+   "verse": 547,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks next stage in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva+ukta",
+     "gloss": "previously-stated",
+     "grounds": "refers to earlier instruction",
+     "morph": "m.acc.sg compound: pūrva+ukta+m"
+    },
+    {
+     "surface": "ṛṣi+ādi+nyāsam",
+     "gloss": "sage-etc-placement",
+     "grounds": "ritual placement beginning with the sage",
+     "morph": "m.acc.sg compound: ṛṣi+ādi+nyāsa+m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects ritual acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior completed act",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "kara+aṅga+nyāsau",
+     "gloss": "hand-limb-placements",
+     "grounds": "ritual placements on hands and body limbs",
+     "morph": "m.acc.du compound: kara+aṅga+nyāsa+m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt √kṛ"
+    }
+   ],
+   "question": "Which ritual placements must be performed after the previously stated sage placement?",
+   "premises": [
+    "The previously stated sage and related placement is performed",
+    "Hand and limb placements are prescribed next",
+    "These acts form a sequence"
+   ],
+   "inference": "After performing the previously stated sage placement, one should perform the hand and limb placements",
+   "uncertainties": [],
+   "plain_english": "Then, having performed the previously stated placement of the sage and so forth, one should perform the placements on the hands and limbs."
+  },
+  {
+   "verse": 548,
+   "rows": [
+    {
+     "surface": "tarjanim",
+     "gloss": "forefinger",
+     "grounds": "gesture attribute held by deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds to other attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhratīṃ",
+     "gloss": "holding",
+     "grounds": "describes deity bearing an attribute",
+     "morph": "f.acc.sg.pres.part √vi-bhṛ"
+    },
+    {
+     "surface": "nija+bāhubhiḥ",
+     "gloss": "with-own-arms",
+     "grounds": "by means of her own arms",
+     "morph": "m.inst.pl compound: nija+bāhu+m"
+    },
+    {
+     "surface": "śaśi+śekharām",
+     "gloss": "moon-crested",
+     "grounds": "epithet indicating moon as crest ornament",
+     "morph": "f.acc.sg compound: śaśi+śekhara+f"
+    }
+   ],
+   "question": "What visual attributes characterize the deity in this meditative description?",
+   "premises": [
+    "The deity holds a forefinger",
+    "This is done with her own arms",
+    "She is described as moon-crested"
+   ],
+   "inference": "The deity is visualized as moon-crested and holding a forefinger with her own arms",
+   "uncertainties": [
+    "The grammatical subject is implied from context rather than stated in this verse"
+   ],
+   "plain_english": "Holding a forefinger also with her own arms, moon-crested."
+  },
+  {
+   "verse": 549,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion from prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "from-statement",
+     "grounds": "based on authoritative utterance",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śaṅkha+niṣedhaḥ",
+     "gloss": "conch-prohibition",
+     "grounds": "prohibition regarding the conch",
+     "morph": "m.nom.sg compound: śaṅkha+niṣedha+m"
+    }
+   ],
+   "question": "What ritual restriction follows from the cited authoritative statement?",
+   "premises": [
+    "An authoritative statement is cited",
+    "The statement concerns the conch",
+    "A prohibition is derived from it"
+   ],
+   "inference": "From this statement, the use of the conch is prohibited",
+   "uncertainties": [
+    "The specific prior statement being cited is not included in this verse"
+   ],
+   "plain_english": "Thus, from this statement, there is a prohibition of the conch."
+  }
+ ]
+}

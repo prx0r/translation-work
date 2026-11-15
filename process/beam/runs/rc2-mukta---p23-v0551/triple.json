@@ -1,0 +1,525 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 551,
+   "rows": [
+    {
+     "surface": "dīrghasvaraiḥ",
+     "gloss": "with-long-vowels",
+     "grounds": "instrumental plural indicating means; compound dīrgha-svara",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative used adverbially to express sequence",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker introducing cited instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāradāvacanāt",
+     "gloss": "from-sharada-statement",
+     "grounds": "ablative of source; compound śāradā-vacana",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What scriptural authority prescribes the sequential use of long vowels in this ritual application?",
+   "premises": [
+    "Long vowels are to be applied in sequence.",
+    "This instruction is attributed to a statement of Śāradā.",
+    "The particle ca adds this authority to prior instructions."
+   ],
+   "inference": "The sequential use of long vowels is established on the authority of Śāradā's statement.",
+   "uncertainties": [],
+   "plain_english": "And thus, in order and with long vowels, according to the statement of Śāradā."
+  },
+  {
+   "verse": 552,
+   "rows": [
+    {
+     "surface": "tasastrāṇi",
+     "gloss": "those-weapons",
+     "grounds": "fused form referring to the weapons of that deity; analyzed as given",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "siddhamayī",
+     "gloss": "accomplishment-filled",
+     "grounds": "feminine adjective qualifying the application",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prayogañ",
+     "gloss": "application",
+     "grounds": "accusative object; final nasal shows sandhi before ca",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act √car+sam-ā"
+    }
+   ],
+   "question": "What ritual action involving the weapons and application must the practitioner perform for accomplishment?",
+   "premises": [
+    "The weapons are to be employed in the rite.",
+    "The application is characterized as accomplishment-filled.",
+    "The practitioner is enjoined to perform this application."
+   ],
+   "inference": "One should perform the accomplishment-filled application together with those weapons.",
+   "uncertainties": [
+    "The exact referent of tasastrāṇi depends on the preceding context."
+   ],
+   "plain_english": "One should perform the accomplishment-filled application and employ those weapons."
+  },
+  {
+   "verse": 553,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "first member indicating an et-cetera series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "from-statement",
+     "grounds": "ablative of source; compound iti-ādi-vacana",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "On what kind of textual authority are the preceding ritual instructions based?",
+   "premises": [
+    "The phrase marks a cited statement and similar ones.",
+    "The ablative indicates derivation from that statement.",
+    "Such citation functions as scriptural authority."
+   ],
+   "inference": "The preceding instructions are grounded in statements beginning with this one.",
+   "uncertainties": [],
+   "plain_english": "This follows from statements beginning with these words."
+  },
+  {
+   "verse": 554,
+   "rows": [
+    {
+     "surface": "balidānasya",
+     "gloss": "of-oblation-offering",
+     "grounds": "genitive specifying purpose; compound bali-dāna",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun identifying the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mardinyāḥ",
+     "gloss": "of-mardini",
+     "grounds": "genitive naming the deity associated with the mantra",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "is-declared",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.sg.ppp √kīrt+pari"
+    }
+   ],
+   "question": "Which mantra is declared to be used for the oblation offering to Mardinī?",
+   "premises": [
+    "A specific mantra is being identified.",
+    "The mantra is designated for the offering of bali.",
+    "The mantra is attributed to Mardinī."
+   ],
+   "inference": "This mantra is declared as the one for Mardinī's oblation offering.",
+   "uncertainties": [
+    "The exact syllabic form of the mantra is supplied by the surrounding context."
+   ],
+   "plain_english": "This is declared to be the mantra of Mardinī for the offering of oblation."
+  },
+  {
+   "verse": 555,
+   "rows": [
+    {
+     "surface": "dviṭhānto",
+     "gloss": "ending-in-dvitha",
+     "grounds": "bahuvrihi-style descriptor of the mantra's final element; compound dviṭha-anta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jayadurgayaṃ",
+     "gloss": "jaya-durga",
+     "grounds": "name or formulaic component of the vidyā; form given as in text",
+     "morph": "indeclinable-form"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-formula",
+     "grounds": "subject identified as a vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating what must be recognized",
+     "morph": "f.nom.sg.gerundive √vid"
+    },
+    {
+     "surface": "daśākṣarī",
+     "gloss": "ten-syllabled",
+     "grounds": "adjective specifying the mantra's length; compound daśa-akṣara",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What defining features identify the Jaya Durgā vidyā as a ten-syllabled mantra?",
+   "premises": [
+    "The vidyā is described as ending in dviṭha.",
+    "The vidyā includes the Jaya Durgā component.",
+    "The vidyā is specified as consisting of ten syllables."
+   ],
+   "inference": "The Jaya Durgā vidyā is to be known as a ten-syllabled formula ending in dviṭha.",
+   "uncertainties": [
+    "The precise phonetic realization of dviṭhānto and jayadurgayaṃ depends on mantra convention."
+   ],
+   "plain_english": "The Jaya Durgā vidyā, ending in dviṭha, should be known as having ten syllables."
+  },
+  {
+   "verse": 556,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb referring to prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior mental act",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "instrumental plural specifying mode of worship",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior worship act",
+     "morph": "absolutive √pūj+sam"
+    },
+    {
+     "surface": "arghyasthānaṃ",
+     "gloss": "arghya-place",
+     "grounds": "accusative object; compound arghya-sthāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing the next ritual action",
+     "morph": "3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "What preparatory ritual actions must precede the making of the arghya place?",
+   "premises": [
+    "Meditation is to be performed in the prescribed manner.",
+    "Worship is to be performed with mental offerings.",
+    "After these acts, the arghya place is to be prepared."
+   ],
+   "inference": "One should meditate, worship mentally, and then prepare the arghya place.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should prepare the place for the arghya."
+  },
+  {
+   "verse": 557,
+   "rows": [
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "locative indicating the ritual locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṣṭākṣarodite",
+     "gloss": "declared-by-eight-syllables",
+     "grounds": "locative adjective qualifying the seat; compound aṣṭa-akṣara-udita",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb indicating continuity with prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-practitioner",
+     "grounds": "nominative subject; compound su-dhī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner conduct worship on the seat declared by eight syllables?",
+   "premises": [
+    "The worship takes place on a designated seat.",
+    "That seat is identified by an eight-syllabled formula.",
+    "The procedure is to follow the earlier pattern."
+   ],
+   "inference": "The wise practitioner should worship on the eight-syllabled seat as before.",
+   "uncertainties": [],
+   "plain_english": "The wise one should worship on the seat declared by the eight syllables, as before."
+  },
+  {
+   "verse": 558,
+   "rows": [
+    {
+     "surface": "bhūtendriyākṣaraiḥ",
+     "gloss": "by-element-sense-syllables",
+     "grounds": "instrumental plural naming the syllabic components; compound bhūta-indriya-akṣara",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.sg.ppp √vac+pra"
+    },
+    {
+     "surface": "grahakṣudravināśakṛt",
+     "gloss": "destroyer-of-planets-minor-ills",
+     "grounds": "compound describing the mantra's effect; graha-kṣudra-vināśa-kṛt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra composition and protective function are declared through the syllables of elements and senses?",
+   "premises": [
+    "The mantra is formed by syllables associated with elements and senses.",
+    "This formation is explicitly declared.",
+    "The mantra effects the destruction of planetary and minor afflictions."
+   ],
+   "inference": "The mantra declared through element-and-sense syllables destroys planetary and minor afflictions.",
+   "uncertainties": [
+    "The specific mapping of elements and senses to syllables is not explicit in this verse."
+   ],
+   "plain_english": "It is declared to be formed by the syllables of the elements and senses and to destroy planetary and minor afflictions."
+  },
+  {
+   "verse": 559,
+   "rows": [
+    {
+     "surface": "śūlinī",
+     "gloss": "shulini",
+     "grounds": "name of the goddess as subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "goddess",
+     "grounds": "predicate noun identifying her status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle used predicatively",
+     "morph": "f.nom.sg.ppp √vac+pra"
+    },
+    {
+     "surface": "samastasuravanditā",
+     "gloss": "adored-by-all-gods",
+     "grounds": "compound epithet; samasta-sura-vandita",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the goddess Śūlinī identified and honored in this declaration?",
+   "premises": [
+    "Śūlinī is named as the deity.",
+    "She is explicitly declared to be the goddess.",
+    "She is described as adored by all gods."
+   ],
+   "inference": "Śūlinī is declared to be the goddess who is adored by all the gods.",
+   "uncertainties": [],
+   "plain_english": "Thus Śūlinī is declared to be the goddess, adored by all the gods."
+  },
+  {
+   "verse": 560,
+   "rows": [
+    {
+     "surface": "śūlinyādyā",
+     "gloss": "beginning-with-shulini",
+     "grounds": "compound indicating the first member of a series; śūlinī-ādya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "huṃ phaḍantāḥ",
+     "gloss": "ending-with-hum-phat",
+     "grounds": "compound indicating the final syllables; huṃ-phaḍ-anta; mantra syllables kept as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral specifying quantity",
+     "morph": "indeclinable-numeral"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manavaḥ",
+     "gloss": "mantras",
+     "grounds": "subject noun denoting the formulas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative used adverbially to express sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How many mantras are specified in sequence beginning with Śūlinī and ending with huṃ phaḍ?",
+   "premises": [
+    "The series begins with Śūlinī.",
+    "The series ends with huṃ phaḍ.",
+    "The total number of mantras in this sequence is five."
+   ],
+   "inference": "There are five mantras in order, beginning with Śūlinī and ending with huṃ phaḍ.",
+   "uncertainties": [],
+   "plain_english": "There are indeed five mantras in sequence, beginning with Śūlinī and ending with huṃ phaḍ."
+  },
+  {
+   "verse": 561,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal or sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patrāgreṣu",
+     "gloss": "on-petal-tips",
+     "grounds": "locative plural indicating placement; compound patra-agra",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "tadastrāṇi",
+     "gloss": "her-weapons",
+     "grounds": "accusative object; compound tad-astra referring to the deity's weapons",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "Where should the practitioner worship the deity's weapons after the preceding step?",
+   "premises": [
+    "The instruction follows a prior ritual step.",
+    "The objects of worship are the deity's weapons.",
+    "The specified location is the tips of the petals."
+   ],
+   "inference": "After that, one should worship her weapons on the tips of the petals.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship her weapons on the tips of the petals."
+  },
+  {
+   "verse": 562,
+   "rows": [
+    {
+     "surface": "sarpiṣānnena",
+     "gloss": "with-ghee-rice",
+     "grounds": "instrumental specifying oblation material; compound sarpis-anna",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "taddaśāṃśamito",
+     "gloss": "measured-as-tenth-of-that",
+     "grounds": "compound describing the quantity; tad-daśāṃśa-mita",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What quantity of oblation with ghee and rice is prescribed for this homa?",
+   "premises": [
+    "The oblation may be performed with ghee and rice.",
+    "The quantity is measured relative to a prior amount.",
+    "The prescribed measure is one tenth of that amount."
+   ],
+   "inference": "The homa with ghee and rice should be performed in a quantity equal to one tenth of that.",
+   "uncertainties": [
+    "The referent of 'that' (tad) depends on the previously stated count or measure."
+   ],
+   "plain_english": "Or the oblation should be made with rice and ghee, in a quantity measuring one tenth of that."
+  }
+ ]
+}

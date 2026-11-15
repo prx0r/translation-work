@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1024,
- "question": "In which directions should the arghya and foot-water vessels be placed?",
+ "question": "What additional textual evidence supports the same cursed-status claim?",
  "premises": [
-  "Two distinct vessels are specified.",
-  "The arghya vessel is assigned to the northwest.",
-  "The foot-water vessel is assigned to the southwest."
+  "The Sārasamuccaya is mentioned as a locus of statement.",
+  "The word tathā indicates the same conclusion.",
+  "The reason given is that it is seen there."
  ],
- "inference": "The arghya vessel should be placed in the northwest and the foot-water vessel in the southwest.",
- "uncertainties": [],
- "plain_english": "The arghya vessel is placed in the northwest, and the foot-water vessel in the southwest."
+ "inference": "The same claim is supported because it is likewise found in the Sārasamuccaya.",
+ "uncertainties": [
+  "The relation between vakṣyamāṇa and the cited text depends on broader context."
+ ],
+ "plain_english": "Likewise, because it is seen in the Sārasamuccaya that will be discussed."
 }

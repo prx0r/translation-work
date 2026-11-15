@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1019,
- "question": "How many vessels make up this set when the sprinkling vessel is included?",
+ "question": "What vocal composition characterizes the prescribed ritual element?",
  "premises": [
-  "A set of vessels is being counted.",
-  "The sprinkling vessel is included with them.",
-  "The total number is nine."
+  "A ritual element is described as joined with something.",
+  "The joining element consists of vowels.",
+  "The number of vowels is specified as fourteen."
  ],
- "inference": "Together with the sprinkling vessel, there are nine vessels in all.",
- "uncertainties": [],
- "plain_english": "O good-vowed one, together with the sprinkling vessel, there would be nine vessels."
+ "inference": "The prescribed element is joined with the fourteen vowels.",
+ "uncertainties": [
+  "The exact referent joined with the vowels is supplied by context."
+ ],
+ "plain_english": "Joined with the fourteen vowels."
 }

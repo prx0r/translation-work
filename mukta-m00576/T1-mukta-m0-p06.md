@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[by-action](karmaṇā) [it-may-be](bhavet) [thus](iti) [meaning](arthaḥ) [what](kim) [that](tat) [action](karma) [thus](iti) [in-expectation](apekṣāyām) [speaks](āha)
+[by-action](karmaṇā) [it-should-be](bhavet) [thus+meaning](iti+arthaḥ) [what](kiṃ) [that+action](tat+karma) [thus+in-expectation](iti+apekṣāyām) [says](āha)
 
 ## mukta-m0-p06-v127
-[by-day](divā) [do-not](mā) [you-slept](suṣvāpsīḥ)
+[by-day](divā) [do-not](mā) [well](su) [you-slept](ṣvāpsīḥ)
 
 ## mukta-m0-p06-v128
-[prohibiting](nivārayan) [instructs](upadiśati)
+[restraining](nivārayan) [instructs](upadiśati)
 
 ## mukta-m0-p06-v129
-[speech](vācam) [restrain](yaścha)
+[speech](vācam) [and](ca) [who](yaḥ)
 
 ## mukta-m0-p06-v130
-[enjoyment](bhogya) [thought](ciṃtā) [giving](dāyinam) [ignorance](avidyāvat) [association](saṃgam) [abandon](tyājaya) [speaks](āha)
+[enjoyment+thought+giving](bhogya+ciṃtā+dāyinam) [ignorance+calf+association](avidyā+vatsa+saṃgaṃ) [cause-to-abandon](tyājaya) [says](āha)
 
 ## mukta-m0-p06-v131
-[do-not](mā) [impure](malavat) [garment](vāsaḥ) [you-saw](adrākṣīḥ)
+[not](mā) [impure+like](mala+vat) [garment](vāsaḥ) [you-saw](adrākṣīḥ)
 
 ## mukta-m0-p06-v132
-[of-these](eṣām) [them](tān) [impure](mala) [garmented](vāsasaḥ) [not](na) [you-should-see](paśyeḥ)
+[of-these](eṣām) [them](tān) [impure+garmented](mala+vāsasaḥ) [not](na) [you-should-see](paśyeḥ)
 
 ## mukta-m0-p06-v133
-[do-not](mā) [speak](saṃ) [you-should-speak](bhāṣethāḥ)
+[not](mā) [with](sam) [you-should-speak](bhāṣethāḥ)
 
 ## mukta-m0-p06-v134
-[impure](malavat) [garmented](vāsasaḥ) [they-become](bhavanti) [menstruating-women](udakyāḥ) [women-in-childbed](sūtikāḥ) [impure-ones](āśucayaḥ) [outcastes](aṃtyāvasāyinaḥ) [thus](iti)
+[impure+garment+clad](mala+vat+vāsasaḥ) [they-become](bhavanti) [menstruating-women](udakyāḥ) [women-in-childbed](sūtikāḥ) [impure-ones](āśucayaḥ) [outcastes](aṃtyāvasāyinaḥ) [thus](iti)
 
 ## mukta-m0-p06-v135
-[ignorance](ajñāna) [association](saṃgam) [one-should-abandon](tyajet) [thus](iti) [meaning](arthaḥ) [sense](bhāvaḥ)
+[ignorance+association](ajñāna+saṃgaṃ) [one-should-abandon](tyajet) [thus+meaning](iti+arthaḥ) [purport](bhāvaḥ)
 
 ## mukta-m0-p06-v136
-[not](na) [cremation-ground](śmaśānam) [you-should-go](gacheḥ)
+[not](na) [cremation-ground](śmaśānaṃ) [you-should-go](gacheḥ)
 
 ## mukta-m0-p06-v137
-[egoism](abhimānam) [one-should-abandon](tyajet) [thus](iti) [sense](bhāvaḥ)
+[egoism](abhimānaṃ) [one-should-abandon](tyajet) [thus](iti) [purport](bhāvaḥ)
 
 ## mukta-m0-p06-v138
-[not](na) [corpse](śava) [body](śarī) [you-should-see](paśyeḥ)
+[not](na) [corpse+body](śava+śarī) [you-should-see](paśyeḥ)
 
 ## mukta-m0-p06-v139
-[what](kim) [to-be-done](vidheyam) [thus](iti) [doubting](āśaṃkya) [speaks](āha)
+[what](kiṃ) [to-be-done](vidheyam) [thus+suspecting](iti+āśaṃkya) [says](āha)
 
 ## mukta-m0-p06-v140
-[without-covering](anātṛṇam) [corpse](śava) [body](śarī) [having-seen](dṛṣṭā) [three-nights](trirātram) [one-should-fast](upavaseḥ)
+[uncovered](anātṛṇaṃ) [corpse+body](śava+śarī) [having-seen](dṛṣṭā) [three-nights](trirātram) [one-should-fast](upavaseḥ)
 
 ## mukta-m0-p06-v141
-[not](na) [ignorant-ones](ajñānām) [one-should-touch](spṛśet)
+[not](na) [the-ignorant](ajñānāṃ) [one-should-touch](spṛśet)
 
 ## mukta-m0-p06-v142
-[honey](madhu) [meats](māṃse) [having-eaten](prāśya) [or](vā) [having-obtained](ālabhya) [body](śarīram) [again](punar) [vow](bratam) [one-should-undertake](ālabhethāḥ)
+[honey+meats](madhu+māṃse) [having-eaten](prāśya) [having-obtained](ālabhya) [or](vā) [body](śarīraṃ) [again](punar) [vow](bratam) [one-should-undertake](ālabhethāḥ)
 
 ## mukta-m0-p06-v143
-[tasteful](rasika) [enjoyable](bhogya) [absorption](āveśaḥ) [of-me](mama) [arises](jāyate) [whence](kutaḥ) [thus](iti) [speaks](āha)
+[tasteful+enjoyable+immersion](rasika+bhogya+āveśaḥ) [of-me](mama) [arises](jāyate) [from-where](kutaḥ) [thus](iti) [says](āha)
 
 ## mukta-m0-p06-v144
-[which](yāni) [oblation](havir) [impurities](dūṣaṇāni) [those](tāni) [food](bhojana) [impurity](ḍū?)
+[which](yāni) [oblation+pollutions](havir+dūṣaṇāni) [they](tāni) [in-food](bhojana) [pollution](ḍū?)
 
 ## mukta-m0-p06-v145
-[fell](petuḥ) [to-the-self](ātma) [offered](arpita) [all](sakala) [conduct](vyavahāraḥ) [one-should-enjoy](bhuṃjeḥ) [thus](iti) [meaning](arthaḥ)
+[fell](petuḥ) [to-self+offered](ātmā+arpita) [all+conduct](sakala+vyavahāraḥ) [one-should-eat](bhuṃjeḥ) [thus+meaning](iti+arthaḥ)
 
 ## mukta-m0-p06-v146
 [not](na) [leftover](ucchiṣṭa) [you-should-eat](bhuṃjīthāḥ)
 
 ## mukta-m0-p06-v147
-[causing-fall](pātyati) [making](karaṇam)
+[causing-fall](pātyati) [action](karaṇaṃ)
 
 ## mukta-m0-p06-v148
-[not](na) [leftover](ucchiṣṭam) [to-another](anyasmai) [you-should-give](dadhyāḥ)
+[not](na) [leftover](ucchiṣṭam) [to-another](anyasmai) [you-should-give](dadhyaḥ)
 
 ## mukta-m0-p06-v149
-[how](katham) [to-be-experienced](anubhavanīyam) [thus](iti) [doubting](āśaṃkya) [speaks](āha)
+[how](katham) [to-be-experienced](anubhavanīyam) [thus+suspecting](iti+āśaṃkya) [says](āha)
 
 ## mukta-m0-p06-v150
-[at-will](kāmam) [teacher](guru) [leftover](ucchiṣṭam) [one-may-eat](aśnīyāt) [for](hi) [teachers](ācāryāḥ)
+[at-will](kāmaṃ) [teacher+leftover](guru+ucchiṣṭam) [one-may-eat](aśnīyāt) [for](hi) [teachers](ācāryāḥ)
