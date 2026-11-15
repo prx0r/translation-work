@@ -3,34 +3,44 @@
  "verse": 3549,
  "rows": [
   {
-   "lemma": "yat",
+   "lemma": "jāyate",
+   "morph": "3.sg.present.indicative.middle (jan)",
+   "grounds": "coming into being of doubt"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negates the arising of doubt"
+  },
+  {
+   "lemma": "atra",
+   "morph": "(indecl.)",
+   "grounds": "locative reference to this matter"
+  },
+  {
+   "lemma": "sandehaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "uncertainty that is denied"
+  },
+  {
+   "lemma": "satyaṃ",
    "morph": "n.nom.sg",
-   "grounds": "relative nominative"
+   "grounds": "emphatic affirmation"
   },
   {
-   "lemma": "phalaṃ",
+   "lemma": "satyaṃ",
    "morph": "n.nom.sg",
-   "grounds": "nominative"
+   "grounds": "repeated emphatic affirmation"
   },
   {
-   "lemma": "tat",
-   "morph": "n.nom.sg",
-   "grounds": "nominative"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation of alternative"
   },
   {
-   "lemma": "avāpnoti",
-   "morph": "3.sg.mid-pres",
-   "grounds": "third person singular"
-  },
-  {
-   "lemma": "sakṛt+japtvā",
-   "morph": "abs",
-   "grounds": "compound absolutive"
-  },
-  {
-   "lemma": "śiva+antike",
-   "morph": "m.loc.sg",
-   "grounds": "compound locative"
+   "lemma": "ca+anyathā",
+   "morph": "(indecl.) compound (ca+anyathā)",
+   "grounds": "denial of any contrary possibility"
   }
  ]
 }

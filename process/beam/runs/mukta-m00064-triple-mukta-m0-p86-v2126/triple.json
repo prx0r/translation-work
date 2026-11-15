@@ -1,0 +1,984 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2126,
+   "rows": [
+    {
+     "surface": "karavīraṃ",
+     "gloss": "oleander",
+     "grounds": "offering substance named as oblation material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghṛtānvitam",
+     "gloss": "mixed-with-ghee",
+     "grounds": "compound describing oleander prepared with clarified butter",
+     "morph": "ghṛta+anvita compound, n.acc.sg"
+    }
+   ],
+   "question": "What oblation substance prepared with ghee is prescribed for the rite?",
+   "premises": [
+    "Oleander is specified as material",
+    "The oleander is mixed with ghee"
+   ],
+   "inference": "Oleander prepared with ghee is the prescribed oblation substance.",
+   "uncertainties": [],
+   "plain_english": "One should use oleander mixed with ghee."
+  },
+  {
+   "verse": 2127,
+   "rows": [
+    {
+     "surface": "trimadhvāktena",
+     "gloss": "smeared-with-three-sweets",
+     "grounds": "compound indicating mixture of honey, sugar, and ghee",
+     "morph": "tri+madhu+ākta compound, n.ins.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "godhāmāṃsena",
+     "gloss": "with-monitor-lizard-meat",
+     "grounds": "alternative oblation substance",
+     "morph": "godhā+māṃsa compound, n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-practitioner",
+     "grounds": "qualified agent performing the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which alternative substances may a wise practitioner offer, O Goddess?",
+   "premises": [
+    "A substance smeared with three sweets is an option",
+    "Monitor lizard meat is an alternative",
+    "A wise practitioner performs the offering"
+   ],
+   "inference": "The wise practitioner may offer either a substance smeared with the three sweets or monitor lizard meat.",
+   "uncertainties": [
+    "The exact substance smeared with the three sweets is not explicitly named."
+   ],
+   "plain_english": "O Goddess, the wise one may offer something smeared with the three sweets, or monitor lizard meat."
+  },
+  {
+   "verse": 2128,
+   "rows": [
+    {
+     "surface": "āvartitena",
+     "gloss": "churned",
+     "grounds": "describes milk prepared by churning",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kṣīreṇa",
+     "gloss": "with-milk",
+     "grounds": "substance used in oblation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ājyayuktena",
+     "gloss": "joined-with-ghee",
+     "grounds": "compound indicating milk combined with clarified butter",
+     "morph": "ājya+yukta compound, n.ins.sg"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "should-offer-oblation",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative-active, root hu"
+    }
+   ],
+   "question": "How should milk prepared with ghee be used in the fire oblation?",
+   "premises": [
+    "Milk is churned for use",
+    "The milk is joined with ghee",
+    "An oblation is to be performed"
+   ],
+   "inference": "One should perform the fire oblation with churned milk mixed with ghee.",
+   "uncertainties": [],
+   "plain_english": "One should offer an oblation with churned milk mixed with ghee."
+  },
+  {
+   "verse": 2129,
+   "rows": [
+    {
+     "surface": "anantasya",
+     "gloss": "of-ananta",
+     "grounds": "reference point for locating the river",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāścātye",
+     "gloss": "in-west",
+     "grounds": "directional location relative to Ananta",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "asirnāma",
+     "gloss": "named-asi",
+     "grounds": "compound giving the river's name",
+     "morph": "asi+nāman compound, f.nom.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "states the river's location",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nadī",
+     "gloss": "river",
+     "grounds": "sacred geographical feature",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which river named Asi is situated to the west of Ananta?",
+   "premises": [
+    "A location west of Ananta is specified",
+    "A river named Asi is situated there"
+   ],
+   "inference": "The river named Asi is situated to the west of Ananta.",
+   "uncertainties": [
+    "The identity of Ananta as place or deity is not specified."
+   ],
+   "plain_english": "To the west of Ananta is situated the river named Asi."
+  },
+  {
+   "verse": 2130,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "points to the previously mentioned region",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "further directional specification",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the stream",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhārā",
+     "gloss": "stream",
+     "grounds": "water flow identified as a river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varuṇā",
+     "gloss": "varuna",
+     "grounds": "name of the stream or river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "correlative pronoun identifying the stream",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nadī",
+     "gloss": "river",
+     "grounds": "identifies the stream as a river",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which stream to the west is identified as the river Varuna?",
+   "premises": [
+    "A stream lies to the west of that place",
+    "That stream is called Varuna",
+    "That stream is identified as a river"
+   ],
+   "inference": "The stream to the west called Varuna is the river in question.",
+   "uncertainties": [],
+   "plain_english": "And to the west of that, the stream which is called Varuna is that river."
+  },
+  {
+   "verse": 2131,
+   "rows": [
+    {
+     "surface": "siddheśvaraṃ",
+     "gloss": "siddheshvara",
+     "grounds": "name of a sacred site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṭiliṅgaṃ",
+     "gloss": "kotilinga",
+     "grounds": "name of a sacred site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hemakaṃ",
+     "gloss": "hemaka",
+     "grounds": "name of a sacred site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muktimaṇḍalam",
+     "gloss": "muktimandala",
+     "grounds": "name of a sacred region or circle of liberation",
+     "morph": "mukti+maṇḍala compound, n.acc.sg"
+    }
+   ],
+   "question": "Which sacred sites are enumerated as places of spiritual efficacy?",
+   "premises": [
+    "Siddheshvara is named as a site",
+    "Kotilinga is named as a site",
+    "Hemaka and Muktimandala are named as sites"
+   ],
+   "inference": "Siddheshvara, Kotilinga, Hemaka, and Muktimandala are enumerated as sacred sites.",
+   "uncertainties": [
+    "The grammatical role of these accusatives depends on context from adjacent verses."
+   ],
+   "plain_english": "Siddheshvara, Kotilinga, Hemaka, and Muktimandala."
+  },
+  {
+   "verse": 2132,
+   "rows": [
+    {
+     "surface": "pratimāsu",
+     "gloss": "in-images",
+     "grounds": "sacred images as loci of practice",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another locus to the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional locus of sacred presence is included alongside other sites?",
+   "premises": [
+    "Sacred images are mentioned as a locus",
+    "The particle adds them to prior contexts"
+   ],
+   "inference": "Sacred images are included as an additional locus of efficacy.",
+   "uncertainties": [
+    "The specific efficacy attributed here is carried over from surrounding verses."
+   ],
+   "plain_english": "And in sacred images."
+  },
+  {
+   "verse": 2133,
+   "rows": [
+    {
+     "surface": "lauhitye",
+     "gloss": "in-lauhitya",
+     "grounds": "sacred river or region named Lauhitya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "ca+eva compound, (indecl.)"
+    },
+    {
+     "surface": "gaṅgāyāṃ",
+     "gloss": "in-ganga",
+     "grounds": "sacred river Ganga",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sāgare",
+     "gloss": "in-ocean",
+     "grounds": "ocean as sacred locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tīrthasaṅgame",
+     "gloss": "at-sacred-confluence",
+     "grounds": "compound denoting confluence of sacred waters",
+     "morph": "tīrtha+saṅgama compound, m.loc.sg"
+    }
+   ],
+   "question": "Which sacred waters and confluences are affirmed as efficacious locations?",
+   "premises": [
+    "Lauhitya is named as a sacred location",
+    "The Ganga and the ocean are named",
+    "A confluence of sacred places is included"
+   ],
+   "inference": "Lauhitya, the Ganga, the ocean, and sacred confluences are affirmed as efficacious locations.",
+   "uncertainties": [],
+   "plain_english": "In the Lauhitya, in the Ganga, in the ocean, and at the confluence of sacred waters."
+  },
+  {
+   "verse": 2134,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb introducing a location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmaśilā",
+     "gloss": "kamashila",
+     "grounds": "name of a sacred stone",
+     "morph": "kāma+śilā compound, f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "ca+eva compound, (indecl.)"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "sacred seat or center",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "identifies the seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇipūrakam",
+     "gloss": "manipuraka",
+     "grounds": "name of the sacred seat",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sacred seat is identified at the place where Kamashila is found?",
+   "premises": [
+    "A place containing Kamashila is indicated",
+    "That place is identified as a sacred seat",
+    "The seat is named Manipuraka"
+   ],
+   "inference": "Where Kamashila is found, that sacred seat is Manipuraka.",
+   "uncertainties": [],
+   "plain_english": "Where the Kamashila is, that seat is Manipuraka."
+  },
+  {
+   "verse": 2135,
+   "rows": [
+    {
+     "surface": "śilāyāṃ",
+     "gloss": "on-stone",
+     "grounds": "location on the sacred stone",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "parva",
+     "gloss": "mountain",
+     "grounds": "mountain context for the location",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasyāgre",
+     "gloss": "in-front-of-that",
+     "grounds": "compound indicating position before that place",
+     "morph": "tad+agra compound, n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends efficacy to another location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvatagahvare",
+     "gloss": "in-mountain-cave",
+     "grounds": "compound denoting a cave in the mountain",
+     "morph": "parvata+gahvara compound, n.loc.sg"
+    }
+   ],
+   "question": "Which specific locations near the stone and mountain are marked as efficacious?",
+   "premises": [
+    "The stone itself is a location",
+    "The area in front of that is included",
+    "A mountain cave is likewise included"
+   ],
+   "inference": "The stone, the area in front of it, and the mountain cave are marked as efficacious locations.",
+   "uncertainties": [
+    "The token parva is syntactically ambiguous in isolation."
+   ],
+   "plain_english": "On the stone, on the mountain, in front of that, and likewise in a mountain cave."
+  },
+  {
+   "verse": 2136,
+   "rows": [
+    {
+     "surface": "sampūrṇaphaladāyinī",
+     "gloss": "bestowing-complete-fruit",
+     "grounds": "compound describing full bestowal of results",
+     "morph": "sampūrṇa+phala+dāyin compound, f.nom.sg"
+    }
+   ],
+   "question": "What quality of result-bestowal characterizes the previously named sacred places?",
+   "premises": [
+    "The described locus bestows fruit",
+    "The fruit bestowed is complete"
+   ],
+   "inference": "The previously named sacred places bestow complete results.",
+   "uncertainties": [
+    "The subject is carried over from preceding verses."
+   ],
+   "plain_english": "It bestows complete results."
+  },
+  {
+   "verse": 2137,
+   "rows": [
+    {
+     "surface": "āryāvarte",
+     "gloss": "in-aryavarta",
+     "grounds": "sacred region Aryavarta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhyadeśe",
+     "gloss": "in-middle-region",
+     "grounds": "sacred central region",
+     "morph": "madhya+deśa compound, m.loc.sg"
+    },
+    {
+     "surface": "brahmāvarte",
+     "gloss": "in-brahmavarta",
+     "grounds": "sacred region Brahmavarta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise-indeed",
+     "grounds": "emphatic extension to another region",
+     "morph": "tathā+eva compound, (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīhaṭṭake",
+     "gloss": "in-shrihatta",
+     "grounds": "sacred region Shrihatta",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which regions are listed as possessing a multiplied degree of efficacy?",
+   "premises": [
+    "Aryavarta and Madhyadesha are named",
+    "Brahmavarta and Shrihatta are named",
+    "These regions are grouped together for comparison"
+   ],
+   "inference": "Aryavarta, Madhyadesha, Brahmavarta, and Shrihatta are listed as regions of multiplied efficacy.",
+   "uncertainties": [],
+   "plain_english": "In Aryavarta, in Madhyadesha, in Brahmavarta, and likewise in Shrihatta."
+  },
+  {
+   "verse": 2138,
+   "rows": [
+    {
+     "surface": "daśaguṇā",
+     "gloss": "tenfold",
+     "grounds": "indicates ten times the efficacy",
+     "morph": "daśa+guṇa compound, f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "traditional teaching states this measure",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What degree of multiplied efficacy is traditionally attributed to those regions?",
+   "premises": [
+    "A tenfold measure is stated",
+    "This measure is remembered in tradition"
+   ],
+   "inference": "Those regions are traditionally held to be tenfold in efficacy.",
+   "uncertainties": [
+    "The baseline against which it is tenfold is implied by context."
+   ],
+   "plain_english": "It is remembered as tenfold."
+  },
+  {
+   "verse": 2139,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "than-that",
+     "grounds": "comparative reference to prior measure",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śataguṇaṃ",
+     "gloss": "hundredfold",
+     "grounds": "indicates hundred times the efficacy",
+     "morph": "śata+guṇa compound, n.nom.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "maṇikūṭe",
+     "gloss": "in-manikuta",
+     "grounds": "sacred site Manikuta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How much greater is the efficacy at Manikuta compared to the previous regions?",
+   "premises": [
+    "A comparison is made to the prior tenfold measure",
+    "Manikuta is specified as the location",
+    "A hundredfold measure is stated"
+   ],
+   "inference": "The efficacy at Manikuta is hundredfold compared to the previous regions.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, O great goddess, in Manikuta it is a hundredfold greater than that."
+  },
+  {
+   "verse": 2140,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "than-that",
+     "grounds": "comparative reference to Manikuta",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśaguṇā",
+     "gloss": "tenfold",
+     "grounds": "indicates ten times greater efficacy",
+     "morph": "daśa+guṇa compound, f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "authoritative statement of the measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aśvatīrthe",
+     "gloss": "at-ashvatirtha",
+     "grounds": "sacred site Ashvatirtha",
+     "morph": "aśva+tīrtha compound, n.loc.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "efficacy applies in water",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthale",
+     "gloss": "on-land",
+     "grounds": "efficacy applies on land",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What increased efficacy is declared for Ashvatirtha in both water and land?",
+   "premises": [
+    "A comparison is made to Manikuta",
+    "Ashvatirtha is the specified site",
+    "The efficacy applies in water and on land",
+    "A tenfold increase is declared"
+   ],
+   "inference": "Ashvatirtha is declared tenfold greater than Manikuta, both in water and on land.",
+   "uncertainties": [],
+   "plain_english": "Greater than that, it is declared tenfold at Ashvatirtha, in water and on land."
+  },
+  {
+   "verse": 2141,
+   "rows": [
+    {
+     "surface": "sarvottamā",
+     "gloss": "supreme-of-all",
+     "grounds": "compound indicating highest excellence",
+     "morph": "sarva+uttama compound, f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative or explanatory particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What supreme status is attributed to the place under discussion?",
+   "premises": [
+    "The place is described as supreme of all",
+    "This status is presented as established"
+   ],
+   "inference": "The place under discussion is regarded as supreme among all.",
+   "uncertainties": [
+    "The referent and the force of yathā depend on surrounding context."
+   ],
+   "plain_english": "As the most excellent of all."
+  },
+  {
+   "verse": 2142,
+   "rows": [
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "contrasts other places with Kamarupa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viralā",
+     "gloss": "rare",
+     "grounds": "describes the goddess's presence as uncommon",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the divine presence in question",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmarūpe",
+     "gloss": "in-kamarupa",
+     "grounds": "sacred region Kamarupa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "first instance emphasizing pervasiveness",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "repetition emphasizes presence in every house",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How does the goddess's presence in Kamarupa differ from her presence elsewhere?",
+   "premises": [
+    "Elsewhere the goddess is rare",
+    "In Kamarupa she is present in every house",
+    "The repetition emphasizes pervasiveness"
+   ],
+   "inference": "Unlike elsewhere where she is rare, the goddess is present in every house in Kamarupa.",
+   "uncertainties": [],
+   "plain_english": "Elsewhere the goddess is rare, but in Kamarupa she is in every house."
+  },
+  {
+   "verse": 2143,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the practitioner or devotee",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "this-worldly attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "attainment of desired results",
+     "morph": "3.sg.present-middle, root labh"
+    },
+    {
+     "surface": "kāmān",
+     "gloss": "desires",
+     "grounds": "objects of desire attained here",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "paratra",
+     "gloss": "in-other-world",
+     "grounds": "other-worldly attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivarūpatām",
+     "gloss": "shiva-form-state",
+     "grounds": "compound denoting attainment of Shiva's nature",
+     "morph": "śiva+rūpa+tā compound, f.acc.sg"
+    }
+   ],
+   "question": "What dual attainment is secured here and in the other world by the devotee?",
+   "premises": [
+    "The devotee obtains desires in this world",
+    "The devotee attains the state of Shiva's form in the other world"
+   ],
+   "inference": "The devotee secures both worldly desires here and the state of Shiva's form hereafter.",
+   "uncertainties": [],
+   "plain_english": "And here he obtains his desires, and in the other world he attains the state of being Shiva."
+  },
+  {
+   "verse": 2144,
+   "rows": [
+    {
+     "surface": "vāñchitārthaṃ",
+     "gloss": "desired-object",
+     "grounds": "compound denoting the wished-for goal",
+     "morph": "vāñchita+artha compound, m.acc.sg"
+    },
+    {
+     "surface": "varo",
+     "gloss": "boon",
+     "grounds": "granted favor or boon",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labdhvā",
+     "gloss": "having-obtained",
+     "grounds": "prior attainment of the boon",
+     "morph": "(absolutive), root labh"
+    },
+    {
+     "surface": "cirāyur",
+     "gloss": "long-lived",
+     "grounds": "compound indicating long life",
+     "morph": "cira+āyus compound, m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting state of the devotee",
+     "morph": "3.sg.present-active, root bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain outcome follows from obtaining the desired boon in this context?",
+   "premises": [
+    "The desired object is obtained as a boon",
+    "The recipient becomes long-lived",
+    "This outcome is stated as certain"
+   ],
+   "inference": "Having obtained the desired boon, one certainly becomes long-lived.",
+   "uncertainties": [],
+   "plain_english": "Having obtained the desired boon, one certainly becomes long-lived."
+  },
+  {
+   "verse": 2145,
+   "rows": [
+    {
+     "surface": "mahāmāyāṃ",
+     "gloss": "to-mahamaya",
+     "grounds": "sacred site or goddess Mahamaya",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "prescriptive prohibition of going",
+     "morph": "3.sg.optative-active, root gam"
+    },
+    {
+     "surface": "siddhimānasaḥ",
+     "gloss": "accomplishment-minded",
+     "grounds": "compound describing one intent on spiritual accomplishment",
+     "morph": "siddhi+mānasa compound, m.nom.sg"
+    }
+   ],
+   "question": "Why must the accomplishment-minded practitioner avoid going to Mahamaya?",
+   "premises": [
+    "The practitioner is intent on accomplishment",
+    "Going to Mahamaya is prohibited",
+    "The prohibition is prescriptive"
+   ],
+   "inference": "One intent on accomplishment should not go to Mahamaya.",
+   "uncertainties": [
+    "The specific reason for the prohibition is not stated in this verse."
+   ],
+   "plain_english": "One who is intent on spiritual accomplishment should not go to Mahamaya."
+  },
+  {
+   "verse": 2146,
+   "rows": [
+    {
+     "surface": "snānena",
+     "gloss": "by-bathing",
+     "grounds": "ritual bathing as means of approach",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vīkṣayet",
+     "gloss": "should-behold",
+     "grounds": "prescribed manner of seeing",
+     "morph": "3.sg.optative-active, root vīkṣ"
+    }
+   ],
+   "question": "By what ritual means should the sacred presence be beheld instead of approached directly?",
+   "premises": [
+    "Bathing is specified as the means",
+    "Beholding is the prescribed action"
+   ],
+   "inference": "One should behold the sacred presence by means of ritual bathing.",
+   "uncertainties": [
+    "The object to be beheld is implied from the previous verse."
+   ],
+   "plain_english": "One should behold it by bathing."
+  },
+  {
+   "verse": 2147,
+   "rows": [
+    {
+     "surface": "spṛśet",
+     "gloss": "should-touch",
+     "grounds": "prescriptive prohibition of touching",
+     "morph": "3.sg.optative-active, root spṛś"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "emphasizes the prohibition at any time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuvatiṃ",
+     "gloss": "young-woman",
+     "grounds": "object of the prohibition",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasizes the restriction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What contact is especially prohibited for the practitioner in this context?",
+   "premises": [
+    "Touching is prohibited",
+    "The prohibition applies at any time",
+    "A young woman is especially specified"
+   ],
+   "inference": "The practitioner should never touch a young woman, especially in this context.",
+   "uncertainties": [],
+   "plain_english": "One should never touch a young woman, especially."
+  },
+  {
+   "verse": 2148,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "prescriptive prohibition of going",
+     "morph": "3.sg.optative-active, root vraj"
+    },
+    {
+     "surface": "pārvatīgṛham",
+     "gloss": "to-parvati-house",
+     "grounds": "compound denoting the house or shrine of Parvati",
+     "morph": "pārvatī+gṛha compound, n.acc.sg"
+    }
+   ],
+   "question": "Which sacred dwelling is forbidden as a destination for the practitioner?",
+   "premises": [
+    "Going is prohibited",
+    "The destination is the house of Parvati"
+   ],
+   "inference": "The practitioner should not go to the house of Parvati.",
+   "uncertainties": [],
+   "plain_english": "One should not go to the house of Parvati."
+  },
+  {
+   "verse": 2149,
+   "rows": [
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective continuing prohibitions",
+     "morph": "ca+eva compound, (indecl.)"
+    },
+    {
+     "surface": "adīkṣitena",
+     "gloss": "by-uninitiated",
+     "grounds": "person lacking initiation",
+     "morph": "a+dīkṣita compound, m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What restriction concerning the uninitiated is added to the preceding prohibitions?",
+   "premises": [
+    "The uninitiated person is mentioned",
+    "The statement continues prior prohibitions"
+   ],
+   "inference": "An additional restriction involving the uninitiated is imposed in continuation of the preceding prohibitions.",
+   "uncertainties": [
+    "The predicate governing adīkṣitena is carried over from adjacent verses."
+   ],
+   "plain_english": "And indeed by one who is uninitiated."
+  }
+ ]
+}

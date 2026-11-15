@@ -1,0 +1,573 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3538,
+   "rows": [
+    {
+     "surface": "apidhāya",
+     "gloss": "having-covered",
+     "grounds": "gerund expressing preparatory action before recitation",
+     "morph": "gerund (dhā+api)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-mutter",
+     "grounds": "prescriptive verbal action of mantra recitation",
+     "morph": "3.sg.optative.active (jap)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭottaraḥ",
+     "gloss": "a-hundred-and-eight",
+     "grounds": "numerical qualifier of the count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "count of recitations; with aṣṭottaraḥ indicates 108",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What preparatory act and recitation count ensure proper mantra repetition?",
+   "premises": [
+    "The practitioner should cover before reciting.",
+    "The mantra must be muttered properly.",
+    "The prescribed count is one hundred and eight."
+   ],
+   "inference": "Proper mantra recitation requires covering, correct manner, and a count of one hundred and eight.",
+   "uncertainties": [
+    "The object or manner of covering implied by apidhāya is not specified."
+   ],
+   "plain_english": "Having covered, one should properly mutter the mantra one hundred and eight times."
+  },
+  {
+   "verse": 3539,
+   "rows": [
+    {
+     "surface": "tejas",
+     "gloss": "splendor",
+     "grounds": "quality bestowed by the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīrya",
+     "gloss": "vigor",
+     "grounds": "quality bestowed by the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yaśaḥ",
+     "gloss": "fame",
+     "grounds": "quality bestowed by the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kānti",
+     "gloss": "beauty",
+     "grounds": "quality bestowed by the practice",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "quality bestowed by the practice",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vibhava",
+     "gloss": "wealth",
+     "grounds": "quality bestowed by the practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāgya+dam",
+     "gloss": "fortune-giving",
+     "grounds": "compound describing the mantra or practice as granting fortune",
+     "morph": "n.nom.sg compound (bhāgya+da)"
+    }
+   ],
+   "question": "What specific benefits does the prescribed mantra recitation confer on the practitioner?",
+   "premises": [
+    "The practice yields splendor, vigor, fame, and beauty.",
+    "The practice yields knowledge and wealth.",
+    "The practice is described as giving fortune."
+   ],
+   "inference": "The prescribed recitation bestows a range of personal, intellectual, and material benefits including fortune.",
+   "uncertainties": [],
+   "plain_english": "It gives splendor, vigor, fame, beauty, knowledge, wealth, and fortune."
+  },
+  {
+   "verse": 3540,
+   "rows": [
+    {
+     "surface": "nīla+utpalānāṃ",
+     "gloss": "of-blue-lotuses",
+     "grounds": "material used in the fire offering",
+     "morph": "n.gen.pl compound (nīla+utpala)"
+    },
+    {
+     "surface": "homena",
+     "gloss": "by-offering",
+     "grounds": "instrumental means of the ritual action",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vaśayet",
+     "gloss": "one-should-subdue",
+     "grounds": "prescriptive result of the offering",
+     "morph": "3.sg.optative.active.causative (vaś)"
+    },
+    {
+     "surface": "akhilaṃ",
+     "gloss": "entire",
+     "grounds": "qualifies the scope of what is subdued",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "object brought under control",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual offering enables the practitioner to bring the entire world under control?",
+   "premises": [
+    "Blue lotuses are used as the offering material.",
+    "The ritual act is a fire offering.",
+    "The intended result is subjugation of the entire world."
+   ],
+   "inference": "By performing a fire offering with blue lotuses, one can subdue the entire world.",
+   "uncertainties": [],
+   "plain_english": "By offering blue lotuses in the fire, one should subdue the entire world."
+  },
+  {
+   "verse": 3541,
+   "rows": [
+    {
+     "surface": "dūrvā+homena",
+     "gloss": "by-dūrvā-offering",
+     "grounds": "fire offering using dūrvā grass",
+     "morph": "m.inst.sg compound (dūrvā+homa)"
+    },
+    {
+     "surface": "dīrgha+āyuḥ",
+     "gloss": "long-lived",
+     "grounds": "resulting quality of lifespan",
+     "morph": "m.nom.sg compound (dīrgha+āyus)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "prescriptive result of the offering",
+     "morph": "3.sg.optative.active (bhū)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "subject who performs the ritual",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirāmayaḥ",
+     "gloss": "free-from-disease",
+     "grounds": "resulting state of health",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What health and longevity benefits result from performing a fire offering with dūrvā grass?",
+   "premises": [
+    "The ritual uses a fire offering of dūrvā grass.",
+    "The practitioner becomes long-lived.",
+    "The practitioner becomes free from disease."
+   ],
+   "inference": "A dūrvā fire offering makes the mantra practitioner long-lived and free from disease.",
+   "uncertainties": [],
+   "plain_english": "By offering dūrvā grass in the fire, the mantra practitioner should become long-lived and free from disease."
+  },
+  {
+   "verse": 3542,
+   "rows": [
+    {
+     "surface": "medhā+kāmena",
+     "gloss": "by-one-desiring-intelligence",
+     "grounds": "agent motivated by desire for intelligence",
+     "morph": "m.inst.sg compound (medhā+kāma)"
+    },
+    {
+     "surface": "hotavyaṃ",
+     "gloss": "should-be-offered",
+     "grounds": "prescriptive obligation to perform the offering",
+     "morph": "n.nom.sg.gerundive (hu)"
+    },
+    {
+     "surface": "palāśa+kusumaiḥ",
+     "gloss": "with-palāśa-flowers",
+     "grounds": "material used in the offering",
+     "morph": "n.inst.pl compound (palāśa+kusuma)"
+    },
+    {
+     "surface": "navaiḥ",
+     "gloss": "with-fresh",
+     "grounds": "qualifies the flowers as fresh",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What offering material should a person seeking intelligence use in the fire ritual?",
+   "premises": [
+    "The performer desires intelligence.",
+    "An offering must be made.",
+    "The offering should consist of fresh palāśa flowers."
+   ],
+   "inference": "One who desires intelligence should offer fresh palāśa flowers in the fire.",
+   "uncertainties": [],
+   "plain_english": "One who desires intelligence should offer fresh palāśa flowers in the fire."
+  },
+  {
+   "verse": 3543,
+   "rows": [
+    {
+     "surface": "tat+mantrita",
+     "gloss": "consecrated-by-that-mantra",
+     "grounds": "food empowered by the mantra",
+     "morph": "n.nom.sg compound (tad+mantrita)"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "object to be consumed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhuñjīta",
+     "gloss": "one-should-eat",
+     "grounds": "prescriptive act of consumption",
+     "morph": "3.sg.optative.middle (bhuj)"
+    },
+    {
+     "surface": "mahat+ārogyam",
+     "gloss": "great-health",
+     "grounds": "result obtained from eating consecrated food",
+     "morph": "n.acc.sg compound (mahat+ārogya)"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "attainment of the stated result",
+     "morph": "3.sg.optative.active (āp)"
+    }
+   ],
+   "question": "What benefit comes from eating food consecrated with the prescribed mantra?",
+   "premises": [
+    "Food is consecrated by that mantra.",
+    "One should eat the consecrated food.",
+    "Eating it leads to obtaining great health."
+   ],
+   "inference": "Eating food consecrated by the mantra results in great health.",
+   "uncertainties": [],
+   "plain_english": "One should eat food consecrated by that mantra and thereby obtain great health."
+  },
+  {
+   "verse": 3544,
+   "rows": [
+    {
+     "surface": "yān",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to prior practices",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of the practices",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "sādhaka+varaḥ",
+     "gloss": "best-of-practitioners",
+     "grounds": "subject who performs the practices",
+     "morph": "m.nom.sg compound (sādhaka+vara)"
+    },
+    {
+     "surface": "loka+traya+prapūjitaḥ",
+     "gloss": "honored-in-three-worlds",
+     "grounds": "resulting status of the practitioner",
+     "morph": "m.nom.sg compound (loka+traya+prapūjita)"
+    }
+   ],
+   "question": "What status does the best practitioner attain after performing the stated practices?",
+   "premises": [
+    "The best practitioner performs the specified practices.",
+    "These practices lead to a distinguished status.",
+    "The practitioner becomes honored in the three worlds."
+   ],
+   "inference": "By performing these practices, the best practitioner becomes honored in the three worlds.",
+   "uncertainties": [
+    "The exact referent of yān depends on the preceding ritual instructions."
+   ],
+   "plain_english": "Having done these, the best practitioner becomes honored in the three worlds."
+  },
+  {
+   "verse": 3545,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-muttered",
+     "grounds": "completion of mantra recitation",
+     "morph": "gerund (jap)"
+    },
+    {
+     "surface": "medhāṃ",
+     "gloss": "intelligence",
+     "grounds": "quality attained through recitation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the attained intelligence",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "attainment following recitation",
+     "morph": "gerund (prāp)"
+    },
+    {
+     "surface": "kavīnām",
+     "gloss": "of-poets",
+     "grounds": "group among whom preeminence is gained",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "agraṇīḥ",
+     "gloss": "foremost",
+     "grounds": "resulting rank",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative.active (bhū)"
+    }
+   ],
+   "question": "What intellectual and poetic attainment follows from muttering the mantra as prescribed?",
+   "premises": [
+    "The practitioner mutters the mantra.",
+    "The practitioner obtains supreme intelligence.",
+    "The practitioner becomes foremost among poets."
+   ],
+   "inference": "By muttering the mantra, one gains supreme intelligence and becomes foremost among poets.",
+   "uncertainties": [],
+   "plain_english": "Having muttered the mantra and obtained supreme intelligence, one should become foremost among poets."
+  },
+  {
+   "verse": 3546,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-muttered",
+     "grounds": "completion of mantra recitation",
+     "morph": "gerund (jap)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "subject of the attainment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tri+kāla+jñaḥ",
+     "gloss": "knower-of-three-times",
+     "grounds": "knowledge of past, present, and future",
+     "morph": "m.nom.sg compound (tri+kāla+jña)"
+    },
+    {
+     "surface": "vṛhaspati+samaḥ",
+     "gloss": "equal-to-bṛhaspati",
+     "grounds": "comparison indicating wisdom and eloquence",
+     "morph": "m.nom.sg compound (vṛhaspati+sama)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative.active (bhū)"
+    }
+   ],
+   "question": "What extraordinary knowledge and status does mantra recitation grant the practitioner?",
+   "premises": [
+    "The mantra practitioner mutters the mantra.",
+    "The practitioner becomes a knower of the three times.",
+    "The practitioner becomes equal to Bṛhaspati."
+   ],
+   "inference": "Through mantra recitation, the practitioner gains knowledge of the three times and becomes equal to Bṛhaspati.",
+   "uncertainties": [],
+   "plain_english": "Having muttered the mantra, the practitioner should become a knower of the three times and equal to Bṛhaspati."
+  },
+  {
+   "verse": 3547,
+   "rows": [
+    {
+     "surface": "sarva+veda+artha+kuśalaḥ",
+     "gloss": "skilled-in-meaning-of-all-vedas",
+     "grounds": "mastery of Vedic meaning",
+     "morph": "m.nom.sg compound (sarva+veda+artha+kuśala)"
+    },
+    {
+     "surface": "jñānavān",
+     "gloss": "possessed-of-knowledge",
+     "grounds": "state of having knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.present.indicative.active (bhū)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What level of Vedic mastery and knowledge is certainly attained through this practice?",
+   "premises": [
+    "The practitioner becomes skilled in the meaning of all Vedas.",
+    "The practitioner becomes possessed of knowledge.",
+    "This outcome is stated as certain."
+   ],
+   "inference": "The practice certainly makes one skilled in the meaning of all Vedas and possessed of knowledge.",
+   "uncertainties": [],
+   "plain_english": "One certainly becomes skilled in the meaning of all the Vedas and possessed of knowledge."
+  },
+  {
+   "verse": 3548,
+   "rows": [
+    {
+     "surface": "lakṣa+eka+japanāt",
+     "gloss": "from-reciting-one-hundred-thousand",
+     "grounds": "instrumental cause: recitation of one lakh",
+     "morph": "n.abl.sg compound (lakṣa+eka+japana)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative indicating unlimited scope",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation forming a rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "is-accomplished",
+     "grounds": "attainment or accomplishment",
+     "morph": "3.sg.present.indicative.active (sidh)"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locus of accomplishment",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is the extent of accomplishments gained by reciting this mantra one hundred thousand times?",
+   "premises": [
+    "The mantra is recited one hundred thousand times.",
+    "The question asks what is not accomplished on earth.",
+    "The rhetorical form implies unlimited accomplishment."
+   ],
+   "inference": "Reciting this mantra one hundred thousand times accomplishes everything on earth.",
+   "uncertainties": [],
+   "plain_english": "By reciting this mantra one hundred thousand times, what is not accomplished on earth?"
+  },
+  {
+   "verse": 3549,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "coming into being of doubt",
+     "morph": "3.sg.present.indicative.middle (jan)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the arising of doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative reference to this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty that is denied",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca+anyathā",
+     "gloss": "and-otherwise",
+     "grounds": "denial of any contrary possibility",
+     "morph": "(indecl.) compound (ca+anyathā)"
+    }
+   ],
+   "question": "How certain and beyond doubt are the results promised for this mantra practice?",
+   "premises": [
+    "No doubt arises regarding this matter.",
+    "The result is affirmed as truth twice.",
+    "It is stated that it is not otherwise."
+   ],
+   "inference": "The promised results are absolutely certain and admit no doubt or alternative.",
+   "uncertainties": [],
+   "plain_english": "There is no doubt here; it is truth, truth, and not otherwise."
+  }
+ ]
+}

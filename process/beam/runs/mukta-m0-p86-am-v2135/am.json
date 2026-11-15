@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2135,
- "question": "Which forms are arranged from Indra onward through the directions and middle?",
+ "question": "Which specific locations near the stone and mountain are marked as efficacious?",
  "premises": [
-  "Aindra ādika means beginning with Indra.",
-  "Aṣṭa diṅ means eight directions.",
-  "Madhya mūrtayaḥ means middle forms."
+  "The stone itself is a location",
+  "The area in front of that is included",
+  "A mountain cave is likewise included"
  ],
- "inference": "Forms are arranged from Indra through the eight directions and the middle.",
+ "inference": "The stone, the area in front of it, and the mountain cave are marked as efficacious locations.",
  "uncertainties": [
-  "The exact deities are not listed."
+  "The token parva is syntactically ambiguous in isolation."
  ],
- "plain_english": "Forms beginning with Indra, through eight directions, and the middle."
+ "plain_english": "On the stone, on the mountain, in front of that, and likewise in a mountain cave."
 }

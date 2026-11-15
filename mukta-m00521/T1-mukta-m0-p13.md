@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-sinless(aghanaḥ) fruitful(saphalāḥ) sacrifices(yajñāḥ) many-times(vahuśaḥ) with-gifts(dakṣiṇā+anvitāḥ)
+without-dense(aghanaḥ) fruitful(saphalāḥ) sacrifices(yajñāḥ) much-with(dakṣiṇā+anvitāḥ)
 
 ## mukta-m0-p13-v302
-Vedas(vedāḥ) also(api) and(ca) Vedāntas(vedāṃtāḥ) you-alone(svām+eva) of-Brahman-form(brahma+rūpiṇaṃ)
+vedas(vedāḥ) also(api) ca(and) vedānta-endings(vedāṃtāḥ) own-self(sva+m+eva) brahman-form(brahma+rūpiṇaṃ)
 
 ## mukta-m0-p13-v303
-from-which(yataḥ) words(vācaḥ) turn-back(nivartante) also(api) unattained(aprāpya) with-mind(manasā+saha)
+from-which(yataḥ) words(vācaḥ) turn-back(nivartante) also(api) not-reaching(aprāpya) mind(manasā) with(saha)
 
 ## mukta-m0-p13-v304
-of-three-worlds(trailokya)+thorn(kaṃṭakaṃ) hero(vīraṃ) hard-to-assail(durdharṣam) by-immortals(amaraiḥ+api)
+three-worlds-thorn(trailokya+kaṃṭakaṃ) hero(vīraṃ) hard-to-assail(durdharṣam) by-me-not(mara+ir+api)
 
 ## mukta-m0-p13-v305
-having-protected(pālayitvā) this(idam) world(jagat) again(punaḥ) come(āgaccha) to-that-abode(tat+padaṃ)
+having-protected(pālayitvā) elephant-and(gaja+idam) again(punar) come-come(āgaccha) that-foot(tat+padaṃ)
 
 ## mukta-m0-p13-v306
-lotus-eyed(rājīva+locanaṃ) Rāma(rāmaṃ) seeing(paśyantaḥ) they-worship(samupāsate)
+lotus-eyed(rājīva+locanaṃ) rāma(rāmaṃ) seeing(paśyantaḥ) together-up(samupāsate)
 
 ## mukta-m0-p13-v307
-very-serene(suprasanna)+happy(sukhaṃ) peaceful(śāntaṃ) with-Gaurī(gaurī+sahitaḥ) with-reverence(ādarāt)
+very-pleased(su+prasanna) happy(sukhaṃ) peaceful(śāntaṃ) with-gaurī(gaurī+sahitaḥ) with-respect(ādarāt)
 
 ## mukta-m0-p13-v308
-O-Rāmacandra(rāmacaṃdra)+ocean-of-compassion(kṛpā+siṃdho) O-protector-of-those-who-take-refuge(śaraṇāgata+vatsala)
+rāmacandra-grace(rāmacandra+kṛpā+siṃdhoḥ) refuge-gone(śaraṇa+āgata+vatsala)
 
 ## mukta-m0-p13-v309
-these(ime) Brahmā-and-others(brāhmā+ādayaḥ) gods(devāḥ) Indra-and-others(śakra+ādayaḥ) and(ca) guardians-of-directions(dig+īśvarāḥ)
+these(ime) brahma-and(brahmā+dayaḥ) gods(devāḥ) indra-and(śakra+ādyāḥ) ca(and) directions-lords(dik+īśvarāḥ)
 
 ## mukta-m0-p13-v310
-Kapila-and-others(kapila+ādyāḥ) great-siddhas(mahā+siddhāḥ) Dattātreya(dattātreyaḥ) and-also(pādayaḥ+api) and(ca)
+kapila-and(kapila+ādyāḥ) great-siddhas(mahā+siddhāḥ) datta-atreya(datta+atreya) feet-also(pāda+api+ca)
 
 ## mukta-m0-p13-v311
-something(kiṃcit) to-chant(vijaptum) I-wish(icchāmi) now(idānīm) permission(anujñāṃ) my(mama) O-lord(prabho)
+something(a+kiṃcit) to-speak(vijaptum) wish(icchāmi) this(idam) now(dā+anujñāṃ) my(mama) lord(prabho)
 
 ## mukta-m0-p13-v312
-commanded(ājñāyayāmāsa) thus(tathā) speak(brūhi) thus(iti) to-husband-of-Girijā(girijā+patiṃ)
+by-command(ājñāyayā) he-did(tathā) speak(brūhi) thus(iti) girijā-lord(girijā+patiṃ)
 
 ## mukta-m0-p13-v313
-for-welfare(hitāya) of-all-worlds(sarva+lokānāṃ) of-great-sages(mahā+ṛṣīṇāṃ) and(ca) always(nityaśaḥ)
+for-welfare(hitāya) all-worlds(sarva+lokānāṃ) great-sages(maharṣīṇāṃ) ca(and) always(nityaśaḥ)
 
 ## mukta-m0-p13-v314
-of-Nārāyaṇa-nature(nārāyaṇa+ātmanaḥ) directly(sākṣāt) O-lord-of-supreme-Brahman-nature(parabrahma+maya+pate)
+nārāyaṇa-self(nārāyaṇa+ātmanaḥ) directly(sākṣāt) supreme-brahman(parabrahma+mayaḥ) lord(pate)
 
 ## mukta-m0-p13-v315
-in-ocean-of-saṃsāra(saṃsāra+sāgare) immersed(magnāḥ) how(kathaṃ) you(tvāṃ) of-Brahman-form(brahma+rūpiṇaṃ)
+in-world-ocean(saṃsāra+sāgare) immersed(magnāḥ) how(katham) you(tvām) brahman-form(brahma+rūpiṇaṃ)
 
 ## mukta-m0-p13-v316
-how(kathaṃ) pleased(tuṣṭaḥ) supreme(param) abode(dhāma) you-bestow(prayacchasi) O-lord-of-world(jagat+pate)
+how(katham) pleased(tuṣṭaḥ) supreme-abode(parama+dhāma) give(prayacchasi) world-lord(jagat+pate)
 
 ## mukta-m0-p13-v317
-Vedas(vedāḥ) also(api) and(ca) Vedāntas(vedāṃtāḥ) your-form(tavarū***) great(mahat)
+vedas(vedāḥ) also(api) ca(and) vedānta-endings(vedāṃtāḥ) praise-form(stava+rūpam) great(mahat)
 
 ## mukta-m0-p13-v318
-me(māṃ) urge(prerayaṃti) Brahmā-and-others(brahmā+ādyāḥ) these(amī) and(ca) supreme-sages(parama+ṛṣayaḥ)
+me(mām) impel(prerayanti) brahma-and(brahma+ādyāḥ) these(amī) ca(and) great-sages(parama+ṛṣayaḥ)
 
 ## mukta-m0-p13-v319
-thus-spoken(*tyuktaḥ) blessed-lord(bhagavān) there(tatra) glorious-Rāma(śrī+rāmaḥ) lord-of-earth(jagatī+patiḥ)
+thus-thus(iti+uktaḥ) lord(bhagavān) there(tatra) śrī-rāma(śrī+rāmaḥ) world-lord(jagatī+patiḥ)
 
 ## mukta-m0-p13-v320
-with-pleased-face(prasanna+vadanaḥ) spoke(prāha) to-Śaṃkara(śaṃkaraṃ) benefactor-of-world(loka+śaṃkaraṃ)
+pleased-faced(prasanna+vadanaḥ) said(prāha) śaṃkara(śaṃkaram) world-benefactor(loka+śaṃkaram)
 
 ## mukta-m0-p13-v321
-of-blessed-lord(bhagavataḥ) my(mama) secret(rahasyam) also(api) essence-of-Vedānta(vedānta+sāra)+consisting-of-meaning(bhūta+artha)+compendium(saṃgrahaṃ)
+of-lord(bhagavataḥ) my(mama) secret(rahasyam) also(api) vedānta-essence(vedānta+sāra+bhūta+artha+saṃgraham)
 
 ## mukta-m0-p13-v322
-that-alone(tat+eva) my(me) supreme-Brahman-form(para+brahma+rūpaṃ) named-Nārāyaṇa(nārāyaṇa+abhidhaṃ)
+that-same(tat+eva) my(me) supreme-brahman(parabrahma+rūpam) nārāyaṇa-named(nārāyaṇa+abhidham)
 
 ## mukta-m0-p13-v323
-to-be-meditated-upon(dhyeyaḥ) I-am(asmi) by-lords-of-yoga(yoga+īśvara)+hosts-of-siddhas(siddha+saṃghaiḥ) to-be-worshipped(pūjyaḥ) I-am(asmi) always(nityaṃ) in-all-worlds(bhuvaneṣu) by-all(sarvaiḥ)
+to-be-meditated(dhyeyaḥ) I(am) in-yoga-lord(yogeśvara) siddha-groups(siddha+saṃghaiḥ) to-be-worshipped(pūjyaḥ) I(am) always(nityam) in-worlds(bhuvaneṣu) all(sarvaiḥ)
 
 ## mukta-m0-p13-v324
-Nārāyaṇa(nārāyaṇaḥ) I-am(aham) assuming-human-form(nara+rūpa+dhārī) Rudra(rudraḥ) I-am(asmi) lord-of-time(kāla+adhipatiḥ) and(ca) Śakra(śakraḥ)
+nārāyaṇa(nārāyaṇaḥ) I(am) man-form(nara+rūpa+dhārī) rudra(rudraḥ) I(am) time-lord(kāla+ādhipatiḥ) ca(and) indra(śakraḥ)
 
 ## mukta-m0-p13-v325
-of-truth-bliss-consciousness-nature(satya+ānanda+cit+ākāraṃ) eternal(nityaṃ) everlasting(śāśvatam) imperishable(akṣayaṃ)
+truth-bliss-consciousness-form(satya+ānanda+cit+ākāram) eternal(nityam) everlasting(śāśvatam) imperishable(akṣayam)

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2130,
- "question": "How many pots are arranged and from where is the middle taken?",
+ "question": "Which stream to the west is identified as the river Varuna?",
  "premises": [
-  "Ekona pañcāśat means forty-nine.",
-  "Kalaśānām is genitive plural.",
-  "Madhyataḥ means from the middle."
+  "A stream lies to the west of that place",
+  "That stream is called Varuna",
+  "That stream is identified as a river"
  ],
- "inference": "Forty-nine pots are used, with attention to the middle.",
- "uncertainties": [
-  "The exact pot arrangement is not specified."
- ],
- "plain_english": "Then forty-nine pots, from the middle."
+ "inference": "The stream to the west called Varuna is the river in question.",
+ "uncertainties": [],
+ "plain_english": "And to the west of that, the stream which is called Varuna is that river."
 }
