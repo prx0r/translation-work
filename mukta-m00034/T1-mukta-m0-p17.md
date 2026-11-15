@@ -8,19 +8,19 @@
 [in-writing](lipau) [to-cause-to-fall](pātayituṃ) [by-power](śaktyā) [not](na) [properly+speaks](samyak+vadate) [even-a-little](manāk)
 
 ## mukta-m0-p17-v403
-[from-direct+experience](pratyakṣa+anubhavāt) [of-this](asyāḥ) [difference+devouring](bheda+grāsaḥ) [indeed](hi) [by-effort](yatnataḥ)
+[from-direct+experience](pratyakṣa+anubhavāt) [of-this](asyā) [difference+devouring](bheda+grāsaḥ) [indeed](hi) [by-effort](yatnataḥ)
 
 ## mukta-m0-p17-v404
-[from-without-cloth+stamp+convention](apaṭa+aṭaṅka+saṅketāt) [from-body+state](kāya+saṃsthānataḥ) [situated](sthitā)
+[from-unstruck+sound+indication](apaṭa+āṭaṅka+saṅketāt) [from-body+condition](kāya+saṃsthānataḥ) [situated](sthitā)
 
 ## mukta-m0-p17-v405
-[from-skeleton+experience+nature](karaṅka+anubhava+ātmatvāt) [first](prathamaṃ) [with-rattling](sākaraṃkiṇī)
+[from-skeleton+experience+nature](karaṅka+anubhava+ātmatvāt) [first](prathamaṃ) [with-skeleton](sākaraṃkiṇī)
 
 ## mukta-m0-p17-v406
 [from-impetuosity](saṃrabhāt) [wrathful+form](krodhinī+rūpam) [she](asau) [having-assumed](āśritya) [abides](vartate)
 
 ## mukta-m0-p17-v407
-[as+as](yathā+yathaṃ) [from-sustaining](sambharaṇāt) [as-Bhairavī](bhairavī+iti) [is-proclaimed](prakīrtitā)
+[gradually](yathāyathaṃ) [from-sustaining](sambharaṇād) [as-Bhairavī](bhairavī+iti) [is-proclaimed](prakīrtitā)
 
 ## mukta-m0-p17-v408
 [from-great+dissolution+nature](mahā+vilaya+rūpatvāt) [as-Lelihānā](lelihānā+iti) [is-called](kathyate)
@@ -35,13 +35,13 @@
 [of-expressor+nature+own-form+within](vācaka+ātma+svarūpa+antar) [superimposed](adhyastaṃ) [in-mantra+form](mantra+rūpataḥ)
 
 ## mukta-m0-p17-v412
-[not-letter+consisting+speech](avarṇa+maya+vāk) [imagined](kalpa) [*](*) [*](*) [by-making-nature](kāratayā) [situated](sthitaḥ)
+[non-phonemic+speech](avarṇamaya+vāk) [imagined](kalpa) [*](*) [*](*) [by-making-nature](kāratayā) [situated](sthitaḥ)
 
 ## mukta-m0-p17-v413
-[own+nature+stamp+marked+five+seal+consisting](nija+svarūpa+ṭaṅka+anta+pañca+mudrā+ātmakaṃ) [world](jagat)
+[own+nature+stamp+marked+five-seal+consisting-of](nija+svarūpa+ṭaṅka+ānta+pañca+mudrā+ātmakaṃ) [world](jagat)
 
 ## mukta-m0-p17-v414
-[difference+expansion+cessation](bheda+prapañca+upaśamaḥ) [supreme-cognition+end+point+gone](parāmarśa+anta+koṭi+gaḥ)
+[difference+manifold+cessation](bheda+prapañca+upaśamaḥ) [supreme-cognition+end+point+reaching](parāmarśa+anta+koṭi+gaḥ)
 
 ## mukta-m0-p17-v415
 [in-effortless+form](nirīha+rūpe) [rest](viśrāntiḥ) [in-supreme+rest+characterized](para+viśrānti+lakṣaṇe)
@@ -56,22 +56,22 @@
 [own+awareness+accomplished](sva+saṃvedana+saṃsiddhaṃ) [that+indeed](tadvat+eva) [of-these-two](anayoḥ) [not](na) [what](kim)
 
 ## mukta-m0-p17-v419
-[hair+ball+appearance+equal](keśa+oṇḍuka+ābhāsa+samaṃ) [that](tat) [uncovered](nirāvaraṇaṃ) [again](punaḥ)
+[hair+ball+appearance+equal](keśa+uṇḍuka+ābhāsa+samaṃ) [that](tat) [uncovered](nirāvaraṇaṃ) [again](punaḥ)
 
 ## mukta-m0-p17-v420
 [supreme-cognition](parāmarśaḥ) [again](punaḥ) [goddess](devī) [supreme+grace+level](para+anugraha+bhūmikā)
 
 ## mukta-m0-p17-v421
-[of-these-two](anayoḥ) [equality](samatā) [attains](eti) [of-yogin](yoginaḥ) [toward](prati) [in-reality](vastutaḥ)
+[of-these-two](anayoḥ) [equality](samatā) [comes](eti) [of-yogin](yoginaḥ) [towards](prati) [in-reality](vastutaḥ)
 
 ## mukta-m0-p17-v422
-[effortless+nature](nirīha+ātmā) [consciousness+alone](saṃvit+eva) [spreads-forth](prathate) [of-non-practitioner](anupayoginaḥ)
+[effortless+nature](nirīha+ātmā) [consciousness+alone](saṃvit+eva) [spreads-forth](prathate) [for-non-practitioner](anupayoginaḥ)
 
 ## mukta-m0-p17-v423
-[one-pointedness](aikadhyam) [by-this](anayā) [manner](bhaṅgyā) [in-each-manifestation](prati+bhāvaṃ) [established](vyavasthitam)
+[unity](aikadhyam) [by-this](anayā) [manner](bhaṅgyā) [in-each-manifestation](prati+bhāvaṃ) [established](vyavasthitam)
 
 ## mukta-m0-p17-v424
 [transition](saṃkrāmaḥ) [and](ca) [effortless+nature](nirīha+ātmā) [triad](trayam) [by-oneness+also+this](ekatayā+api+adaḥ)
 
 ## mukta-m0-p17-v425
-[consciousness+state](saṃvit+saṃsthānam) [having-resorted-to](āśritya) [letter+nature+unborn](varṇa+ātmā+ajaḥ) [shines-forth](virājate)
+[consciousness+state](saṃvit+saṃsthānam) [having-resorted-to](āśritya) [phoneme+nature+unborn](varṇa+ātmā+ajaḥ) [shines-forth](virājate)
