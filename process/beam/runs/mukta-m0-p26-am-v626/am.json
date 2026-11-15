@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p26",
  "verse": 626,
- "question": "What specific grain-based measure defines a half-finger unit in this system?",
+ "question": "Is a four-hundred-syllabled mantra classified as old?",
  "premises": [
-  "A length equal to red rice is specified.",
-  "This measure applies among those units.",
-  "One should grasp it as half a finger."
+  "a four-hundred-syllabled mantra is called old",
+  "the classification is stated directly"
  ],
- "inference": "The half-finger measure is to be taken as the length of a red rice grain.",
- "uncertainties": [],
- "plain_english": "Among those, one should take the length of a red rice grain as half a finger."
+ "inference": "yes, it is called old",
+ "uncertainties": [
+  "vṛddha may mean aged rather than merely old"
+ ],
+ "plain_english": "A four-hundred-syllabled mantra is also called old."
 }

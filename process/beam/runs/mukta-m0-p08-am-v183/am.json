@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 183,
- "question": "Which mantra elements are enumerated in sequence in this instruction to the goddess?",
+ "question": "What should the breaths do when the svāhā-ended mantra is spoken?",
  "premises": [
-  "Kāma and vyoma are named.",
-  "Mahāmāyā follows in sequence.",
-  "The order is explicitly indicated."
+  "breaths are subject",
+  "here-come is stated",
+  "svāhā-ended mantra is spoken"
  ],
- "inference": "The sequence given is kāma, vyoma, and then mahāmāyā.",
- "uncertainties": [],
- "plain_english": "O goddess, kāma and space, and then after that mahāmāyā."
+ "inference": "The breaths should come here when the svāhā-ended mantra is spoken.",
+ "uncertainties": [
+  "exact mantra ending"
+ ],
+ "plain_english": "The breaths should come here when the svāhā-ended mantra is spoken."
 }

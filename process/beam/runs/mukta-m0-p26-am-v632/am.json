@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p26",
  "verse": 632,
- "question": "Which symbolic names designate the measure of eight fingers?",
+ "question": "Which syllable counts are described as embraced?",
  "premises": [
-  "The verse refers to eight fingers.",
-  "Power and door are listed as names.",
-  "Planets are likewise listed."
+  "twenty-syllabled and thirty-syllabled mantras are named",
+  "such a mantra would be embraced"
  ],
- "inference": "The eight-finger measure is designated by power, door, and planets.",
- "uncertainties": [],
- "plain_english": "Power, door, and planets are the designations for eight fingers."
+ "inference": "twenty and thirty syllables are embraced",
+ "uncertainties": [
+  "whether both counts share the same status"
+ ],
+ "plain_english": "A twenty- or thirty-syllabled mantra is embraced."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p26",
  "verse": 637,
- "question": "Which numerical values are enumerated in this sequence of measures?",
+ "question": "Which syllable count is named for the mantra here?",
  "premises": [
-  "Fifty, sixty, seventy, and eighty are listed.",
-  "Ninety and hundred are listed.",
-  "These form a numerical sequence."
+  "mantra is named",
+  "thirty-three is named"
  ],
- "inference": "The sequence enumerates the numbers fifty, sixty, seventy, eighty, ninety, and one hundred.",
- "uncertainties": [],
- "plain_english": "Fifty, sixty, seventy, eighty, ninety, and one hundred are enumerated."
+ "inference": "thirty-three is the named count",
+ "uncertainties": [
+  "whether athāpi vā adds another count"
+ ],
+ "plain_english": "A mantra of thirty-three syllables is named."
 }

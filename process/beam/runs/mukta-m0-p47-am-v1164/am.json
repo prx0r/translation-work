@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1164,
- "question": "How do onlookers react to the battle?",
+ "question": "What qualities should the food offering have?",
  "premises": [
-  "They watched with wonder.",
-  "They were greatly astonished."
+  "naivedyaṃ means food offering",
+  "mṛdu means soft",
+  "soṣṇaṃ means warm",
+  "supācitam means well cooked"
  ],
- "inference": "The battle astonishes its spectators.",
- "uncertainties": [],
- "plain_english": "They watched the wondrous battle, greatly astonished."
+ "inference": "The food offering should be soft, warm, and well cooked.",
+ "uncertainties": [
+  "ingredients"
+ ],
+ "plain_english": "The food offering should be soft, warm, and well cooked."
 }

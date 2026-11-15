@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 362,
- "question": "What implements and adornments does this form of the goddess bear?",
+ "question": "What is first called the seed of a mantra?",
  "premises": [
-  "The goddess bears a bow and a skull.",
-  "She is adorned with red garlands and unguents.",
-  "These are attributes of her visualized form."
+  "mantra has a seed",
+  "seed is first",
+  "it is called so"
  ],
- "inference": "The goddess is visualized holding a bow and skull, adorned with red garlands and unguents.",
- "uncertainties": [],
- "plain_english": "She holds a bow and a skull, and is adorned with red garlands and red unguents."
+ "inference": "The first seed of a mantra is called its bīja.",
+ "uncertainties": [
+  "exact seed identity"
+ ],
+ "plain_english": "Indeed the first seed of a mantra is called its bīja."
 }

@@ -1,0 +1,467 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "samyagācāryaṃ",
+     "gloss": "proper-teacher",
+     "grounds": "compound adjective-noun phrase",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What spiritual status is attained by one who properly worships a qualified teacher?",
+   "premises": [
+    "proper teacher worship is prescribed",
+    "the worshipper gains accomplishment",
+    "the result extends beyond this life"
+   ],
+   "inference": "Proper worship of a qualified teacher makes the disciple accomplished and joyful in both worlds.",
+   "uncertainties": [
+    "exact scope of samyagācāryaṃ is not specified"
+   ],
+   "plain_english": "One who properly worships a qualified teacher becomes accomplished and rejoices here and hereafter."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "kṛtakṛtyaḥ",
+     "gloss": "having-accomplished-duty",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paratreha",
+     "gloss": "in-other-and-here",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nandati",
+     "gloss": "rejoices",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What spiritual status is attained by one who properly worships a qualified teacher?",
+   "premises": [
+    "the disciple is accomplished",
+    "he rejoices in both worlds",
+    "the teacher's worship is the cause"
+   ],
+   "inference": "The accomplished disciple rejoices both here and hereafter.",
+   "uncertainties": [
+    "paratreha is a fused adverbial compound"
+   ],
+   "plain_english": "That disciple is accomplished and rejoices both here and hereafter."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "catuṣkoṣṭhe",
+     "gloss": "in-four-compartment",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "koṇasūtracatuṣṭayam",
+     "gloss": "four-corner-thread-set",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many corner threads are laid in a four-compartment diagram?",
+   "premises": [
+    "the diagram has four compartments",
+    "four corner threads are used",
+    "the threads define the layout"
+   ],
+   "inference": "A four-compartment diagram receives four corner threads.",
+   "uncertainties": [
+    "exact ritual diagram type is not named"
+   ],
+   "plain_english": "In a four-compartment figure, lay four corner threads."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-expert",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāmyottarāyate",
+     "gloss": "extends-south-to-north",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How are the two pairs of threads oriented in the diagram?",
+   "premises": [
+    "two threads go one way",
+    "two threads go another way",
+    "the expert extends them south to north"
+   ],
+   "inference": "The mantra expert lays two threads in each direction, extending them from south to north.",
+   "uncertainties": [
+    "exact directional pairing is compressed"
+   ],
+   "plain_english": "The expert lays two threads each way, extending them from south to north."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "pātayedeṣu",
+     "gloss": "should-drop-in-these",
+     "grounds": "verb with fused locative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "matsyeṣu",
+     "gloss": "in-fish-figures",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "evenly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtracatuṣṭayam",
+     "gloss": "four-thread-set",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should the four threads be dropped evenly?",
+   "premises": [
+    "the threads are dropped in fish figures",
+    "the placement is even",
+    "four threads are used"
+   ],
+   "inference": "The four threads are dropped evenly in the fish figures.",
+   "uncertainties": [
+    "matsyeṣu may denote diagram cells rather than fish shapes"
+   ],
+   "plain_english": "Drop the four threads evenly in the fish figures."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "matsyeṣu",
+     "gloss": "in-fish-figures",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dadyātsūtracatuṣṭayam",
+     "gloss": "should-give-four-thread-set",
+     "grounds": "fused verb-noun phrase",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What thread set is given in the fish figures?",
+   "premises": [
+    "fish figures receive threads",
+    "a four-thread set is given",
+    "the action is prescribed"
+   ],
+   "inference": "A four-thread set is given in the fish figures.",
+   "uncertainties": [
+    "dadyātsūtracatuṣṭayam is a fused sandhi form"
+   ],
+   "plain_english": "Give a four-thread set in the fish figures."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "yāvacchatadvayaṃ",
+     "gloss": "up-to-hundred-twice",
+     "grounds": "compound numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-expert",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśatpadānyapi",
+     "gloss": "fifty-steps-also",
+     "grounds": "compound numeral",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "How many steps does the mantra expert mark up to two hundred?",
+   "premises": [
+    "the expert marks steps",
+    "the count reaches two hundred",
+    "six and fifty steps are specified"
+   ],
+   "inference": "The mantra expert marks steps up to two hundred, including six and fifty steps.",
+   "uncertainties": [
+    "exact arithmetic of yāvacchatadvayaṃ is compressed"
+   ],
+   "plain_english": "The expert marks steps up to two hundred, including six and fifty steps."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "padairmadhye",
+     "gloss": "in-middle-of-steps",
+     "grounds": "fused locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "likhetpadmaṃ",
+     "gloss": "should-draw-lotus",
+     "grounds": "fused verb-noun phrase",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "salakṣaṇam",
+     "gloss": "with-good-marks",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be drawn in the middle of the steps?",
+   "premises": [
+    "the middle of steps is the place",
+    "a lotus is drawn",
+    "the lotus has good marks"
+   ],
+   "inference": "A well-marked lotus should be drawn in the middle of the steps.",
+   "uncertainties": [
+    "padairmadhye is a fused sandhi form"
+   ],
+   "plain_english": "Draw a well-marked lotus in the middle of the steps."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "dvāraśobhopaśobhādīn",
+     "gloss": "door-ornament-and-decoration-etc",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śiṣṭābhyāṃ",
+     "gloss": "by-remaining-two",
+     "grounds": "instrumental dual",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be arranged with the remaining two elements?",
+   "premises": [
+    "door ornaments and decorations are named",
+    "the remaining two are used",
+    "arrangement is prescribed"
+   ],
+   "inference": "Door ornaments, decorations, and related items should be arranged with the remaining two elements.",
+   "uncertainties": [
+    "śiṣṭābhyāṃ refers to unspecified remaining elements"
+   ],
+   "plain_english": "Arrange door ornaments, decorations, and similar items with the remaining two."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "saṃtyajya",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśā",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāṃ",
+     "gloss": "sha-syllable",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "sha-syllable",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the wise one abandon before using the sha syllables?",
+   "premises": [
+    "twelve is abandoned",
+    "sha syllables are used",
+    "the wise one acts afterward"
+   ],
+   "inference": "The wise one abandons twelve, then uses the sha syllables.",
+   "uncertainties": [
+    "what twelve refers to is not explicit"
+   ],
+   "plain_english": "Having abandoned twelve, the wise one then uses the sha syllables."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "karṇikāsthānaṃ",
+     "gloss": "pericarp-place",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kesarāṇāṃ",
+     "gloss": "of-filaments",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the second pericarp place of the filaments?",
+   "premises": [
+    "a pericarp place is named",
+    "filaments are involved",
+    "it is the second one"
+   ],
+   "inference": "The second pericarp place belongs to the filaments.",
+   "uncertainties": [
+    "exact ritual geometry is not specified"
+   ],
+   "plain_english": "The second pericarp place is that of the filaments."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "bāhyavṛttāntarālasya",
+     "gloss": "of-outer-circle-interval",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadvidhinā",
+     "gloss": "by-which-rule",
+     "grounds": "instrumental compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise one measure the outer circle interval?",
+   "premises": [
+    "the outer circle interval has a measure",
+    "a rule governs it",
+    "the wise one applies that rule"
+   ],
+   "inference": "The wise one measures the outer circle interval by the prescribed rule.",
+   "uncertainties": [
+    "the specific rule is not given in this verse"
+   ],
+   "plain_english": "The wise one measures the outer circle interval by the prescribed rule."
+  }
+ ]
+}

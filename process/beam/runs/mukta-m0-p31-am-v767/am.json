@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p31",
  "verse": 767,
- "question": "What elements follow the three tāras and māyā in this mantra sequence?",
+ "question": "On what great flame does this gāyatrī formula meditate?",
  "premises": [
-  "The sequence includes three tāras.",
-  "Māyā follows in the sequence.",
-  "The name bhagavatī is then added."
+  "vidmahe is knowing",
+  "mahājvālāya is dative object",
+  "dhīmahi is meditation"
  ],
- "inference": "After the three tāras and māyā, the sequence continues with bhagavatī.",
- "uncertainties": [],
- "plain_english": "There are the three tāras, then māyā, and then bhagavatī."
+ "inference": "The formula meditates on the great flame.",
+ "uncertainties": [
+  "deity identity"
+ ],
+ "plain_english": "We know, on the great flame we meditate."
 }

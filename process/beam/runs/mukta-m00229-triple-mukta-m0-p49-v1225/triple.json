@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "all-that",
+     "grounds": "fused pronoun-adjective in accusative neuter singular",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "by-compassion",
+     "grounds": "instrumental singular feminine noun",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "adverb of duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣamasva",
+     "gloss": "forgive",
+     "grounds": "imperative middle second person singular",
+     "morph": "2.sg.mid.imp-root-kṣam"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second person pronoun nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dayānidhe",
+     "gloss": "ocean-of-mercy",
+     "grounds": "vocative singular masculine compound",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which accumulated transgressions should the merciful deity forgive through compassion?",
+   "premises": [
+    "all that requires forgiveness",
+    "compassion enables divine pardon",
+    "the speaker petitions directly"
+   ],
+   "inference": "the speaker asks the merciful deity to forgive everything through compassion",
+   "uncertainties": [
+    "exact scope of tatsarvaṃ remains context-dependent"
+   ],
+   "plain_english": "By your compassion, forgive all that for so long, O ocean of mercy."
+  }
+ ]
+}

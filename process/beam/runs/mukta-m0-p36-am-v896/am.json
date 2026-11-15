@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p36",
  "verse": 896,
- "question": "How should the śakra and yoni markings be positioned in the diagram?",
+ "question": "What doctrinal claim says the wise should contemplate the pleasant within that?",
  "premises": [
-  "The diagram is marked with śakra and yoni",
-  "These markings are placed in outer and middle regions",
-  "The arrangement is prescribed"
+  "pleasant is the object",
+  "within that is the locus",
+  "should-contemplate is enjoined",
+  "wise is the subject"
  ],
- "inference": "The diagram should be marked with śakra and yoni placed in the outer and middle regions",
- "uncertainties": [],
- "plain_english": "O goddess, it should be marked with śakra and yoni, placed in the outer and middle parts."
+ "inference": "The verse enjoins the wise to contemplate the pleasant within that.",
+ "uncertainties": [
+  "referent of that",
+  "exact pleasant object"
+ ],
+ "plain_english": "The wise should contemplate the pleasant within that."
 }

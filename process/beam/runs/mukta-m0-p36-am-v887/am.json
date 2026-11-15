@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p36",
  "verse": 887,
- "question": "What geometric figure results from joining the lines to the corner tips?",
+ "question": "What doctrinal claim says one should not purify one's own body?",
  "premises": [
-  "Lines going to corner tips are joined",
-  "The joining completes the construction",
-  "The result is a specific figure"
+  "they say is reported",
+  "not negates the action",
+  "own body is the object",
+  "should-purify is the verb"
  ],
- "inference": "Joining the lines to the corner tips produces a ten-cornered figure",
- "uncertainties": [],
- "plain_english": "Having joined the lines going to the corner tips, a ten-cornered figure is then formed."
+ "inference": "The verse reports a claim against purifying one's own body.",
+ "uncertainties": [
+  "who says this",
+  "whether negation is absolute"
+ ],
+ "plain_english": "They say one should not purify one's own body."
 }

@@ -3,34 +3,24 @@
  "verse": 225,
  "rows": [
   {
-   "lemma": "atha",
+   "lemma": "ṛṣyādīn",
+   "morph": "m.acc.pl",
+   "grounds": "accusative plural compound listing rishi and related elements"
+  },
+  {
+   "lemma": "nyāsādīn",
+   "morph": "m.acc.pl",
+   "grounds": "accusative plural compound listing nyasa and related elements"
+  },
+  {
+   "lemma": "arcanām",
+   "morph": "f.acc.sg",
+   "grounds": "accusative singular feminine noun"
+  },
+  {
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "transition particle opening the next discourse"
-  },
-  {
-   "lemma": "vakṣye",
-   "morph": "verb 1.sg.act-fut + root vac",
-   "grounds": "first-person singular future of root vac"
-  },
-  {
-   "lemma": "śrīpurasya",
-   "morph": "m.gen.sg",
-   "grounds": "genitive singular masculine/neuter noun"
-  },
-  {
-   "lemma": "vṛttaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular neuter noun"
-  },
-  {
-   "lemma": "lokottaraṃ",
-   "morph": "adj.acc.sg.n",
-   "grounds": "accusative singular neuter adjective modifying vṛttaṃ"
-  },
-  {
-   "lemma": "śṛṇu",
-   "morph": "verb 2.sg.act-imp + root śru",
-   "grounds": "second-person singular imperative of root śru"
+   "grounds": "indeclinable particle"
   }
  ]
 }

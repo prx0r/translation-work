@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p144-v3576
-rule(vidhiḥ) but(tu) thus(evam) wooden(dārujam) if(cet) with-fire(śiva+agninā)
+[vidhiḥ](vidhiḥ) [tu](tu) [evaṃ](evaṃ) [dārujam](dārujam) [ca](ca) [icchā](icchā) [śivāgninā](śivāgninā)
 
 ## mukta-m0-p144-v3577
-uncolored(avivarṇam) unspoiled(uduṣṭam) if(cet) that(tat) indeed(eva) should-establish(sthāpayet) again(punaḥ)
+[avivarṇam](avivarṇam) [uduṣṭam](uduṣṭam) [ca](ca) [et](et) [tad](tad) [eva](eva) [sthāpayet](sthāpayet) [punaḥ](punaḥ)
 
 ## mukta-m0-p144-v3578
-having-consecrated(pratiṣṭhāpya) should-worship(arcayet) should-make(kuryāt) in-temple(ālaye) new(nūtanam) again(punaḥ)
+[pratiṣṭhāpya](pratiṣṭhāpya) [arcayet](arcayet) [kuryāt](kuryāt) [ālaye](ālaye) [nūtanam](nūtanam) [punaḥ](punaḥ)
 
 ## mukta-m0-p144-v3579
-new-ones(nūtanāni) by-prescribed-method(ukta+mārgeṇa) having-consecrated(pratiṣṭhāpya) indeed(tu) should-worship(pūjayet)
+[nūtanāni](nūtanāni) [uktamārgeṇa](uktamārgeṇa) [pratiṣṭhāpya](pratiṣṭhāpya) [tu](tu) [pūjayet](pūjayet)
 
 ## mukta-m0-p144-v3580
-as-before(yathā+pūrvam) root-liṅga(mūla+liṅgam) should-install(niyojayet)
+[yathāpūrvam](yathāpūrvam) [mūlaliṅgam](mūlaliṅgam) [niyojayet](niyojayet)
 
 ## mukta-m0-p144-v3581
-having-performed(kṛtvā) consecration-etc.(adhivāsana+ādyam) indeed(tu) should-place(sthāpayet) in-sanctum(garbha+mandire)
+[kṛtvā](kṛtvā) [adhivāsanādyam](adhivāsanādyam) [tu](tu) [sthāpayet](sthāpayet) [garbhamandire](garbhamandire)
 
 ## mukta-m0-p144-v3582
-in-root-liṅga(mūla+liṅge) indeed(tu) as-before(pūrva+vat) should-assign(sanniyojayet)
+[mūlaliṅge](mūlaliṅge) [tu](tu) [pūrvavat](pūrvavat) [sanniyojayet](sanniyojayet)
 
 ## mukta-m0-p144-v3583
-all(sarvān) indeed(tu) having-gathered(samāhṛtya) in-due-order(yathā+kramam)
+[sarvān](sarvān) [tu](tu) [samāhṛtya](samāhṛtya) [yathākramam](yathākramam)
 
 ## mukta-m0-p144-v3584
-when-well-accomplished(su+niṣpanne) its-mantras(tat+mantrān) as-before(pūrva+vat) in-order(kramāt)
+[suniṣpanne](suniṣpanne) [tanmantrān](tanmantrān) [pūrvavat](pūrvavat) [kramāt](kramāt)
 
 ## mukta-m0-p144-v3585
-tenfold(daśa+guṇām) in-renovation(jīrṇa+uddhāre) indeed(tu) fee(dakṣiṇām)
+[daśaguṇām](daśaguṇām) [jīrṇoddhāre](jīrṇoddhāre) [tu](tu) [dakṣiṇām](dakṣiṇām)
 
 ## mukta-m0-p144-v3586
-to-liṅga-bearers(liṅgibhyaḥ) to-carpenters(takṣabhyaḥ) to-suppliants(arthibhyaḥ) indeed(eva) and(ca)
+[liṅgibhyaḥ](liṅgibhyaḥ) [takṣabhyo](takṣabhyo) [arthibhyaḥ](arthibhyaḥ) [eva](eva) [ca](ca)
 
 ## mukta-m0-p144-v3587
-when-consecrated(pratiṣṭhite) or(yad vā) in-temple-making(prāsāda+karaṇe) fruit(phalam)
+[pratiṣṭhite](pratiṣṭhite) [yat](yat) [vā](vā) [prāsādakaraṇe](prāsādakaraṇe) [phalam](phalam)
 
 ## mukta-m0-p144-v3588
-renovation-conclusion(jīrṇa+uddhāra+avasānam) teacher-of-gods(sura+guru) wise-one(vibudhaḥ) that(tam) ritual-section(kriyā+pādam) declared(ūce)
+[jīrṇoddhārāvasānam](jīrṇoddhārāvasānam) [suraguruvibudhaḥ](suraguruvibudhaḥ) [tam](tam) [kriyāpādam](kriyāpādam) [ūce](ūce)
 
 ## mukta-m0-p144-v3589
-from-dispassion(vairāgyāt) dispassion(vairāgyam) and(ca) by-nature(sva+bhāvataḥ)
+[vairāgyāt](vairāgyāt) [vairāgyam](vairāgyam) [ca](ca) [svabhāvataḥ](svabhāvataḥ)
 
 ## mukta-m0-p144-v3590
-transmigration(saṃsāraḥ) indeed(tu) self-notion(ātma+buddhiḥ) may-be(syāt) in-body(dehe) as-own(svatvena) in-things(vastuṣu)
+[saṃsāraḥ](saṃsāraḥ) [tu](tu) [ātmabuddhiḥ](ātmabuddhiḥ) [syāt](syāt) [dehe](dehe) [svatvena](svatvena) [vastuṣu](vastuṣu)
 
 ## mukta-m0-p144-v3591
-elements(bhūtāni) ear-etc.(śrotra+ādi) supports(ādhārakāni) also(api)
+[bhūtāni](bhūtāni) [śrotrādyādhārakāni](śrotrādyādhārakāni) [api](api)
 
 ## mukta-m0-p144-v3592
-with-skin-blood-flesh-fat-bone-marrow-semen(tvac+asṛk+māṃsa+medaḥ+asthi+majjā+śuklaiḥ) and(ca) with-nerves(nāḍibhiḥ)
+[tvak](tvak) [asṛk](asṛk) [māṃsa](māṃsa) [medas](medas) [asthi](asthi) [majjā](majjā) [śuklaiḥ](śuklaiḥ) [ca](ca) [nāḍibhiḥ](nāḍibhiḥ)
 
 ## mukta-m0-p144-v3593
-with-four-six-eight(jagatī+vikāra+akṣi) petal-lotuses(chada+ambujaiḥ)
+[catuḥ](catuḥ) [ṣaṭ](ṣaṭ) [aṣṭa](aṣṭa) [jagatī](jagatī) [vikāra](vikāra) [akṣi](akṣi) [chadāmbujaiḥ](chadāmbujaiḥ)
 
 ## mukta-m0-p144-v3594
-those(tat+tat) sound-etc.(śabda+ādayaḥ) five(pañca) mind(manaḥ) intellect(buddhiḥ) ego(ahaṅkṛtiḥ)
+[tat](tat) [tat](tat) [śabdādayaḥ](śabdādayaḥ) [pañca](pañca) [manaḥ](manaḥ) [buddhiḥ](buddhiḥ) [ahaṅkṛtiḥ](ahaṅkṛtiḥ)
 
 ## mukta-m0-p144-v3595
-ear-etc.(śrotra+ādayaḥ) and(ca) speech-etc.(vāc+ādayaḥ) likewise(tathā) in-the-individual(adhyātmāni) indeed(vai) separately(pṛthak)
+[śrotrādayaḥ](śrotrādayaḥ) [ca](ca) [vāgādyāḥ](vāgādyāḥ) [tathā](tathā) [adhyātmāni](adhyātmāni) [vai](vai) [pṛthak](pṛthak)
 
 ## mukta-m0-p144-v3596
-water(jalam) earth(pṛthivī) and(ca) likewise(tathā) fire(analaḥ)
+[jalam](jalam) [pṛthivī](pṛthivī) [ca](ca) [tathā](tathā) [analaḥ](analaḥ)
 
 ## mukta-m0-p144-v3597
-in-the-individual(adhyātmāni) mind(manaḥ) intellect(buddhiḥ) ego(ahaṃkāraḥ) and(ca) that-triad(tat+trayam)
+[adhyātmāni](adhyātmāni) [manaḥ](manaḥ) [buddhiḥ](buddhiḥ) [ahaṃkāraḥ](ahaṃkāraḥ) [ca](ca) [tattrayam](tattrayam)
 
 ## mukta-m0-p144-v3598
-Brahmā(viriñcaḥ) and(ca) also(api) presiding-deities(adhidaivāni) in-sequence(anukramāt)
+[viriñcaḥ](viriñcaḥ) [ca](ca) [api](api) [adhidaivāni](adhidaivāni) [anukramāt](anukramāt)
 
 ## mukta-m0-p144-v3599
-knowledge-etc.(vidyā+ādi) principles(tattvāni) up-to-māyā(māyā+antāni) all(akhilāni) indeed(tu)
+[vidyāditattvāni](vidyāditattvāni) [māyāntāni](māyāntāni) [akhilāni](akhilāni) [tu](tu)
 
 ## mukta-m0-p144-v3600
-deep-sleep(suṣuptiḥ) and-thus(ca+iti) state-triad(avasthā+tritayam) likewise(tathā)
+[suṣuptiḥ](suṣuptiḥ) [ca](ca) [iti](iti) [avasthātritayam](avasthātritayam) [tathā](tathā)

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "prajvalitaṃ",
+     "gloss": "blazing",
+     "grounds": "adjective modifying the worshipped fire-deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "i-worship",
+     "grounds": "first-person singular present act of vand",
+     "morph": "1.sg.act-pres (root vand)"
+    },
+    {
+     "surface": "jātavedaṃ",
+     "gloss": "jātaveda",
+     "grounds": "accusative object of worship; fire-deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hutāśanam",
+     "gloss": "fire",
+     "grounds": "appositional accusative identifying the worshipped object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which blazing fire-deity is worshipped in this ritual?",
+   "premises": [
+    "prajvalitaṃ modifies jātavedaṃ",
+    "vande expresses worship",
+    "hutāśanam is appositional fire"
+   ],
+   "inference": "The verse worships blazing jātaveda as fire.",
+   "uncertainties": [
+    "jātaveda may denote Agni specifically or fire generally"
+   ],
+   "plain_english": "I worship the blazing jātaveda, the fire."
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-vishnu",
+     "grounds": "genitive of viṣṇu",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "santoṣavarddhinī",
+     "gloss": "satisfaction-increasing",
+     "grounds": "compound adjective modifying mudrā",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How is the mudra that increases Vishnu's satisfaction identified?",
+   "premises": [
+    "viṣṇoḥ is genitive",
+    "santoṣavarddhinī modifies mudrā"
+   ],
+   "inference": "The verse names a Vishnu-related satisfaction-increasing mudra.",
+   "uncertainties": [
+    "exact mudra name is supplied in following verses"
+   ],
+   "plain_english": "Of Vishnu, the satisfaction-increasing one."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "bhavedeṣā",
+     "gloss": "becomes-this",
+     "grounds": "fused bhavet + eṣā",
+     "morph": "3.sg.act-pres root bhū"
+    },
+    {
+     "surface": "vaktavyaṃ",
+     "gloss": "to-be-spoken",
+     "grounds": "gerundive of vac",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "saśaraṃ",
+     "gloss": "with-arrow",
+     "grounds": "compound sa + śara",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dhanuḥ",
+     "gloss": "bow",
+     "grounds": "noun dhanus",
+     "morph": "nom/acc.sg.n"
+    }
+   ],
+   "question": "What implement is to be spoken of for this mudra?",
+   "premises": [
+    "bhavedeṣā introduces the mudra",
+    "saśaraṃ dhanuḥ names bow with arrow"
+   ],
+   "inference": "The mudra is associated with a bow carrying an arrow.",
+   "uncertainties": [
+    "whether dhanuḥ is held or formed by hands"
+   ],
+   "plain_english": "This becomes to be spoken: a bow with an arrow."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "badhnīyāt",
+     "gloss": "one-should-bind",
+     "grounds": "optative of bandh",
+     "morph": "3.sg.act-opt root bandh"
+    },
+    {
+     "surface": "kaniṣṭhāmūlasaṃśrite",
+     "gloss": "little-finger-root-situated",
+     "grounds": "compound locating the root",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where should the binding action of this mudra be performed?",
+   "premises": [
+    "badhnīyāt commands binding",
+    "kaniṣṭhāmūlasaṃśrite locates little-finger root"
+   ],
+   "inference": "One should bind at the root of the little finger.",
+   "uncertainties": [
+    "exact finger arrangement beyond this"
+   ],
+   "plain_english": "One should bind at the root of the little finger."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "anāmāspṛṣṭasaṃlagnā",
+     "gloss": "ring-touching-joined",
+     "grounds": "compound describing ring finger contact",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "dakṣiṇasya",
+     "gloss": "of-right",
+     "grounds": "genitive of dakṣiṇa",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "kaniṣṭhikā",
+     "gloss": "little-finger",
+     "grounds": "noun kaniṣṭhikā",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which fingers are joined in this right-hand mudra?",
+   "premises": [
+    "anāmāspṛṣṭasaṃlagnā describes ring-finger contact",
+    "dakṣiṇasya qualifies right hand",
+    "kaniṣṭhikā names little finger"
+   ],
+   "inference": "The right little finger is joined with ring-finger contact.",
+   "uncertainties": [
+    "whether left hand mirrors this"
+   ],
+   "plain_english": "The right little finger is joined, touching the ring finger."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "vāmānāmāñcabadhnīyāt",
+     "gloss": "left-ring-one-should-bind",
+     "grounds": "fused compound with optative badhnīyāt",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dakṣāṅguṣṭhasya",
+     "gloss": "right-thumb-root",
+     "grounds": "genitive of dakṣa-aṅguṣṭha",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mūlake",
+     "gloss": "at-root",
+     "grounds": "locative of mūlaka",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Where is the left ring finger bound in this mudra?",
+   "premises": [
+    "vāmānāmāñcabadhnīyāt commands binding left ring finger",
+    "dakṣāṅguṣṭhasya mūlake locates right thumb root"
+   ],
+   "inference": "The left ring finger is bound at the root of the right thumb.",
+   "uncertainties": [
+    "exact crossing of fingers"
+   ],
+   "plain_english": "One should bind the left ring finger at the root of the right thumb."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "catasro'pyagrasaṃlagnā",
+     "gloss": "four-also-tip-joined",
+     "grounds": "fused catasraḥ + api + agrasaṃlagnā",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "mudrākaustubhasaṃjñikā",
+     "gloss": "mudra-kaustubha-named",
+     "grounds": "compound naming the mudra",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is this four-finger tip-joined mudra called?",
+   "premises": [
+    "catasro'pyagrasaṃlagnā describes four tips joined",
+    "mudrākaustubhasaṃjñikā names it kaustubha"
+   ],
+   "inference": "The four-tip-joined mudra is called kaustubha.",
+   "uncertainties": [
+    "whether all four fingers are from one hand"
+   ],
+   "plain_english": "Four also tip-joined; this mudra is named kaustubha."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "śliṣṭe",
+     "gloss": "joined",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śliṣṭāvaṅguṣṭhakau",
+     "gloss": "joined-thumbs",
+     "grounds": "compound dual thumbs",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What thumb position accompanies the joined state?",
+   "premises": [
+    "śliṣṭe states joined",
+    "śliṣṭāvaṅguṣṭhakau names joined thumbs",
+    "tathā adds likewise"
+   ],
+   "inference": "The thumbs are joined in the same joined manner.",
+   "uncertainties": [
+    "whether this modifies kaustubha mudra"
+   ],
+   "plain_english": "Joined, with the two thumbs joined likewise."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "garuḍamudrāsyād",
+     "gloss": "garuda-mudra-this",
+     "grounds": "fused garuḍamudrā + asyāt",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-vishnu",
+     "grounds": "genitive of viṣṇu",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "santoṣakāriṇī",
+     "gloss": "satisfaction-causing",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which mudra causes Vishnu's satisfaction?",
+   "premises": [
+    "garuḍamudrāsyād names garuda mudra",
+    "viṣṇoḥ is genitive",
+    "santoṣakāriṇī means satisfaction-causing"
+   ],
+   "inference": "The garuda mudra is the satisfaction-causing mudra of Vishnu.",
+   "uncertainties": [
+    "exact hand form is in preceding verses"
+   ],
+   "plain_english": "This garuda mudra of Vishnu causes satisfaction."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "jānumadhye",
+     "gloss": "on-knee-middle",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "karau",
+     "gloss": "hands",
+     "grounds": "noun kara dual",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cibukoṣṭhau",
+     "gloss": "chin-lip",
+     "grounds": "compound dual",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "samāvṛtau",
+     "gloss": "well-covered",
+     "grounds": "participle of sam-ā-vṛ",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "How are the hands placed in this mudra?",
+   "premises": [
+    "jānumadhye locates knee middle",
+    "karau kṛtvā places hands",
+    "cibukoṣṭhau samāvṛtau describes chin and lip covered"
+   ],
+   "inference": "The hands are placed on the middle of the knee, covering chin and lip.",
+   "uncertainties": [
+    "which mudra this belongs to"
+   ],
+   "plain_english": "Having placed the hands on the middle of the knee, the chin and lip are well covered."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "bhavedeṣā",
+     "gloss": "becomes-this",
+     "grounds": "fused bhavet + eṣā",
+     "morph": "3.sg.act-pres root bhū"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "mudra",
+     "grounds": "noun mudrā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tatprītivardhinī",
+     "gloss": "that-satisfaction-increasing",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What effect does this mudra have?",
+   "premises": [
+    "bhavedeṣā introduces this mudra",
+    "tatprītivardhinī means that-satisfaction-increasing"
+   ],
+   "inference": "This mudra increases that satisfaction.",
+   "uncertainties": [
+    "antecedent of tat"
+   ],
+   "plain_english": "This mudra becomes that satisfaction-increasing one."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "saṃproktā",
+     "gloss": "is-spoken",
+     "grounds": "past participle of sam-pra-vac",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "mudra",
+     "grounds": "noun mudrā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vārāhasaṃjñikā",
+     "gloss": "varaha-named",
+     "grounds": "compound naming varaha",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is this spoken mudra called?",
+   "premises": [
+    "saṃproktā states it is spoken",
+    "mudrā names the gesture",
+    "vārāhasaṃjñikā names varaha"
+   ],
+   "inference": "The spoken mudra is named varaha.",
+   "uncertainties": [
+    "whether it is the same as previous mudra"
+   ],
+   "plain_english": "The mudra spoken is named varaha."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "madhyamāṃ",
+     "gloss": "middle-of-them",
+     "grounds": "accusative of madhyamā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tāsām",
+     "gloss": "tāsām",
+     "grounds": "genitive plural feminine",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "unnamyātha",
+     "gloss": "having-raised",
+     "grounds": "absolutive of un-nam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikuñcayet",
+     "gloss": "one-should-bend",
+     "grounds": "causative optative of kuñc",
+     "morph": "3.sg.act-opt root kuñc"
+    }
+   ],
+   "question": "What should be done with the middle finger among them?",
+   "premises": [
+    "madhyamāṃ tāsām selects middle of them",
+    "unnamyātha means having raised",
+    "vikuñcayet means one should bend"
+   ],
+   "inference": "One should raise and then bend the middle finger among them.",
+   "uncertainties": [
+    "which set of fingers is referred to"
+   ],
+   "plain_english": "Having raised the middle one among them, one should bend it."
+  }
+ ]
+}

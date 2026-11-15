@@ -1,0 +1,952 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "haṃsaparātmānau",
+     "gloss": "haṃsa-para-ātman-pair",
+     "grounds": "fused dual compound form",
+     "morph": "compound (haṃsa+para+ātman), dual"
+    },
+    {
+     "surface": "tato'muṣyapadaṃ",
+     "gloss": "then-that-foot",
+     "grounds": "sandhi-fused indeclinable, genitive, accusative",
+     "morph": "indecl. + gen.sg.m + acc.sg.n"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative of vad",
+     "morph": "3.sg.act.opt. (vad)"
+    }
+   ],
+   "question": "What foot should be spoken after the haṃsa-para-ātman pair?",
+   "premises": [
+    "haṃsa-para-ātman pair is named",
+    "then-that-foot is spoken",
+    "vadet means should-say"
+   ],
+   "inference": "The verse prescribes speaking that foot after the pair.",
+   "uncertainties": [
+    "exact ritual referent of foot"
+   ],
+   "plain_english": "After the haṃsa-para-ātman pair, one should speak that foot."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "ihata",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthito'muṣyapadaṃ",
+     "gloss": "standing-that-foot",
+     "grounds": "sandhi-fused participle and compound",
+     "morph": "nom.sg.m (sthita) + acc.sg.n (padam) fused"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative of vad",
+     "morph": "3.sg.act.opt. (vad)"
+    }
+   ],
+   "question": "What foot should be spoken while standing here?",
+   "premises": [
+    "here standing is stated",
+    "that-foot is spoken",
+    "vadet means should-say"
+   ],
+   "inference": "The verse prescribes speaking that foot while standing here.",
+   "uncertainties": [
+    "exact standing context"
+   ],
+   "plain_english": "While standing here, one should speak that foot."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "śrotraghrāṇapade",
+     "gloss": "ear-nose-foot",
+     "grounds": "compound locative",
+     "morph": "loc.sg.n (śrotra+ghrāṇa+pad) compound"
+    },
+    {
+     "surface": "prāṇāḥ",
+     "gloss": "breaths",
+     "grounds": "plural subject",
+     "morph": "nom.pl.m (prāṇa)"
+    },
+    {
+     "surface": "ihāgatya",
+     "gloss": "here-coming",
+     "grounds": "absolutive",
+     "morph": "abs. (ā-gam)"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happily",
+     "grounds": "adverbial accusative",
+     "morph": "acc.sg.n (sukha)"
+    },
+    {
+     "surface": "ciram",
+     "gloss": "long",
+     "grounds": "adverbial accusative",
+     "morph": "acc.sg.n (cira)"
+    }
+   ],
+   "question": "Where do the breaths come happily for a long time?",
+   "premises": [
+    "ear-nose-foot is named",
+    "breaths come here",
+    "happily and long are stated"
+   ],
+   "inference": "The breaths come to the ear-nose-foot happily for a long time.",
+   "uncertainties": [
+    "exact anatomical mapping"
+   ],
+   "plain_english": "The breaths come here to the ear-nose-foot happily for a long time."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "pāśādyāni",
+     "gloss": "noose-etc",
+     "grounds": "compound plural",
+     "morph": "nom.pl.n (pāśa+ādi)"
+    },
+    {
+     "surface": "prayojya",
+     "gloss": "having-employed",
+     "grounds": "absolutive",
+     "morph": "abs. (pra-yuj)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇamantram",
+     "gloss": "breath-mantra",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.m (prāṇa+mantra)"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "should-raise",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt. (sam-ud-hṛ)"
+    }
+   ],
+   "question": "What should be raised after employing noose and other means?",
+   "premises": [
+    "noose-etc are employed",
+    "thus is stated",
+    "breath-mantra is raised"
+   ],
+   "inference": "After employing noose and other means, one should raise the breath-mantra.",
+   "uncertainties": [
+    "exact noose implements"
+   ],
+   "plain_english": "Having employed noose and other means, one should thus raise the breath-mantra."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs. (kṛ)"
+    },
+    {
+     "surface": "sakṛdevāthavā",
+     "gloss": "once-or",
+     "grounds": "sandhi-fused adverb and particle",
+     "morph": "indecl. (sakṛt) + indecl. (vā) fused"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt. (jap)"
+    }
+   ],
+   "question": "How many times should one chant after having done the rite?",
+   "premises": [
+    "having-done is stated",
+    "once-or is stated",
+    "should-chant is stated"
+   ],
+   "inference": "One should chant once or otherwise after having done the rite.",
+   "uncertainties": [
+    "exact alternative count"
+   ],
+   "plain_english": "Having done it, one should chant once or otherwise."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m (mantra)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "agent noun",
+     "morph": "nom.sg.m (mantrin)"
+    },
+    {
+     "surface": "saṃsthāpayedasūn",
+     "gloss": "should-establish-breaths",
+     "grounds": "sandhi-fused optative",
+     "morph": "3.sg.act.opt. (sam-sthā) + acc.pl.m (asu) fused"
+    }
+   ],
+   "question": "What does the mantrin establish by mantra?",
+   "premises": [
+    "by-mantra is stated",
+    "mantrin is agent",
+    "should-establish-breaths is stated"
+   ],
+   "inference": "The mantrin should establish the breaths by mantra.",
+   "uncertainties": [
+    "exact establishment procedure"
+   ],
+   "plain_english": "By mantra the mantrin should establish the breaths."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "jīvaḥ",
+     "gloss": "soul",
+     "grounds": "subject",
+     "morph": "nom.sg.m (jīva)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "nom.sg.m (sthita)"
+    },
+    {
+     "surface": "itīrayet",
+     "gloss": "thus-should-say",
+     "grounds": "sandhi-fused quotation and optative",
+     "morph": "indecl. (iti) + 3.sg.act.opt. (īr) fused"
+    }
+   ],
+   "question": "What should one say about the soul standing here?",
+   "premises": [
+    "soul is subject",
+    "here standing is stated",
+    "thus-should-say is stated"
+   ],
+   "inference": "One should say that the soul stands here.",
+   "uncertainties": [
+    "exact utterance formula"
+   ],
+   "plain_english": "One should say that the soul stands here."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "prāṇāḥ",
+     "gloss": "breaths",
+     "grounds": "subject",
+     "morph": "nom.pl.m (prāṇa)"
+    },
+    {
+     "surface": "ihāyāntu",
+     "gloss": "here-come",
+     "grounds": "imperative",
+     "morph": "3.pl.act.imp. (ā-yā)"
+    },
+    {
+     "surface": "svāhāntaḥ",
+     "gloss": "svāhā-ended",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m (svāhā+anta)"
+    },
+    {
+     "surface": "manurīritaḥ",
+     "gloss": "mantra-spoken",
+     "grounds": "sandhi-fused participle",
+     "morph": "nom.sg.m (manu) + nom.sg.m (īrita) fused"
+    }
+   ],
+   "question": "What should the breaths do when the svāhā-ended mantra is spoken?",
+   "premises": [
+    "breaths are subject",
+    "here-come is stated",
+    "svāhā-ended mantra is spoken"
+   ],
+   "inference": "The breaths should come here when the svāhā-ended mantra is spoken.",
+   "uncertainties": [
+    "exact mantra ending"
+   ],
+   "plain_english": "The breaths should come here when the svāhā-ended mantra is spoken."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "kavargeṇa",
+     "gloss": "ka-group",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m (ka+varṇa)"
+    },
+    {
+     "surface": "viyatpūrvaiḥ",
+     "gloss": "space-first",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m (viyat+pūrva)"
+    },
+    {
+     "surface": "hṛdīritam",
+     "gloss": "heart-spoken",
+     "grounds": "compound participle",
+     "morph": "nom.sg.n (hṛd+īrita)"
+    }
+   ],
+   "question": "What is spoken in the heart by ka-group with space-first?",
+   "premises": [
+    "ka-group is instrumental",
+    "space-first is instrumental",
+    "heart-spoken is stated"
+   ],
+   "inference": "The heart-spoken item is spoken by ka-group with space-first.",
+   "uncertainties": [
+    "exact phonetic sequence"
+   ],
+   "plain_english": "In the heart, the item is spoken by ka-group with space-first."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "śikhākarmendriyaiḥ",
+     "gloss": "crest-action-senses",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.n (śikhā+karma+indriya)"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tavargādyaiḥ",
+     "gloss": "ta-group-etc",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m (ta+varṇa+ādi)"
+    },
+    {
+     "surface": "tanucchadam",
+     "gloss": "body-covering",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n (tanu+chada)"
+    }
+   ],
+   "question": "What is covered on the body likewise by ta-group and senses?",
+   "premises": [
+    "crest-action-senses are instrumental",
+    "likewise is stated",
+    "ta-group-etc is instrumental",
+    "body-covering is object"
+   ],
+   "inference": "The body-covering is applied likewise by ta-group and senses.",
+   "uncertainties": [
+    "exact bodily mapping"
+   ],
+   "plain_english": "Likewise, the body-covering is applied by ta-group and senses."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "buddhyādyaiḥ",
+     "gloss": "intellect-etc",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.n (buddhi+ādi)"
+    },
+    {
+     "surface": "yādisaṃyuktaiḥ",
+     "gloss": "yādi-joined",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m (yādi+saṃyukta)"
+    },
+    {
+     "surface": "astram",
+     "gloss": "weapon",
+     "grounds": "object",
+     "morph": "acc.sg.n (astra)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "its",
+     "grounds": "genitive",
+     "morph": "gen.sg.m (idam)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.sg.n (prakīrtita)"
+    }
+   ],
+   "question": "What is declared as its weapon when joined with intellect and yādi?",
+   "premises": [
+    "intellect-etc are instrumental",
+    "yādi-joined is instrumental",
+    "weapon is object",
+    "its is genitive",
+    "declared is stated"
+   ],
+   "inference": "The weapon joined with intellect and yādi is declared for it.",
+   "uncertainties": [
+    "exact yādi sense"
+   ],
+   "plain_english": "Its weapon is declared when joined with intellect and yādi."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "praṇavaḥ",
+     "gloss": "praṇava",
+     "grounds": "subject",
+     "morph": "nom.sg.m (praṇava)"
+    },
+    {
+     "surface": "agnivadhūḥ",
+     "gloss": "fire-bride",
+     "grounds": "subject",
+     "morph": "nom.sg.f (agni+vadhū)"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "predicate",
+     "morph": "nom.sg.n (bīja)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "predicate",
+     "morph": "nom.sg.f (śakti)"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "nom.sg.f (ukta)"
+    },
+    {
+     "surface": "maniṣibhiḥ",
+     "gloss": "by-sages",
+     "grounds": "instrumental",
+     "morph": "inst.pl.m (maniṣin)"
+    }
+   ],
+   "question": "What do sages say praṇava, fire-bride, seed, and power are?",
+   "premises": [
+    "praṇava is named",
+    "fire-bride is named",
+    "seed and power are named",
+    "said by sages is stated"
+   ],
+   "inference": "Sages say these items are as named in the verse.",
+   "uncertainties": [
+    "exact doctrinal equation"
+   ],
+   "plain_english": "Sages say praṇava, fire-bride, seed, and power are as stated."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "bāṇaśūle",
+     "gloss": "arrow-trident",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n (bāṇa+śūla)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kapālam",
+     "gloss": "skull",
+     "grounds": "object",
+     "morph": "acc.sg.n (kapāla)"
+    },
+    {
+     "surface": "dadhatīm",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "acc.sg.f (dadhatī)"
+    },
+    {
+     "surface": "karaiḥ",
+     "gloss": "with-hands",
+     "grounds": "instrumental",
+     "morph": "inst.pl.m (kara)"
+    }
+   ],
+   "question": "What is held in the hands along with arrow and trident?",
+   "premises": [
+    "arrow-trident is locative",
+    "and is stated",
+    "skull is object",
+    "holding is stated",
+    "with-hands is stated"
+   ],
+   "inference": "The skull is held in the hands along with arrow and trident.",
+   "uncertainties": [
+    "exact iconographic form"
+   ],
+   "plain_english": "The skull is held in the hands along with arrow and trident."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "pratilomena",
+     "gloss": "reverse",
+     "grounds": "instrumental adverb",
+     "morph": "inst.sg.n (pratiloma)"
+    },
+    {
+     "surface": "saṃjapya",
+     "gloss": "having-chanted",
+     "grounds": "absolutive",
+     "morph": "abs. (sam-jap)"
+    },
+    {
+     "surface": "mūlamantram",
+     "gloss": "root-mantra",
+     "grounds": "object",
+     "morph": "acc.sg.m (mūla+mantra)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "subject",
+     "morph": "nom.sg.m (sudhī)"
+    }
+   ],
+   "question": "What should the wise one do after chanting the root-mantra in reverse?",
+   "premises": [
+    "reverse is stated",
+    "having-chanted is stated",
+    "root-mantra is object",
+    "then is stated",
+    "wise-one is subject"
+   ],
+   "inference": "The wise one chants the root-mantra in reverse and then proceeds.",
+   "uncertainties": [
+    "exact next action"
+   ],
+   "plain_english": "The wise one chants the root-mantra in reverse, then proceeds."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "varaiḥ",
+     "gloss": "excellent",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m (vara)"
+    },
+    {
+     "surface": "upacāraiḥ",
+     "gloss": "offerings",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m (upacāra)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt. (pra-pūj)"
+    }
+   ],
+   "question": "How should one worship with excellent offerings?",
+   "premises": [
+    "excellent is stated",
+    "offerings are stated",
+    "should-worship is stated"
+   ],
+   "inference": "One should worship with excellent offerings.",
+   "uncertainties": [
+    "exact offering list"
+   ],
+   "plain_english": "One should worship with excellent offerings."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "śālidhānyādi",
+     "gloss": "rice-grains-etc",
+     "grounds": "compound",
+     "morph": "acc.sg.n (śāli+dhānya+ādi)"
+    },
+    {
+     "surface": "yathāvat",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt. (vi-nyas)"
+    }
+   ],
+   "question": "What should be placed properly there?",
+   "premises": [
+    "rice-grains-etc is object",
+    "properly is stated",
+    "there is stated",
+    "should-place is stated"
+   ],
+   "inference": "One should place rice-grains and similar items properly there.",
+   "uncertainties": [
+    "exact placement site"
+   ],
+   "plain_english": "One should place rice-grains and similar items properly there."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "kumbhamastrābhiḥ",
+     "gloss": "pot-weapon-water",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.f (kumbha+astra)"
+    },
+    {
+     "surface": "kṣālitāntaram",
+     "gloss": "washed-interior",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n (kṣālita+antara)"
+    }
+   ],
+   "question": "What interior is washed by pot-weapon-water?",
+   "premises": [
+    "pot-weapon-water is instrumental",
+    "washed-interior is object"
+   ],
+   "inference": "The interior is washed by pot-weapon-water.",
+   "uncertainties": [
+    "exact washing rite"
+   ],
+   "plain_english": "The interior is washed by pot-weapon-water."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "dūrvākṣatānvitam",
+     "gloss": "durva-akshata-joined",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n (dūrvā+akṣata+anvita)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "subject",
+     "morph": "nom.sg.m (mantrin)"
+    },
+    {
+     "surface": "navaratnodaram",
+     "gloss": "nine-gems-belly",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n (navaratna+udara)"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "acc.sg.n (śubha)"
+    }
+   ],
+   "question": "What auspicious nine-gems-belly is joined with durva and akshata?",
+   "premises": [
+    "durva-akshata-joined is stated",
+    "mantrin is subject",
+    "nine-gems-belly is object",
+    "auspicious is stated"
+   ],
+   "inference": "The mantrin prepares an auspicious nine-gems-belly joined with durva and akshata.",
+   "uncertainties": [
+    "exact gem arrangement"
+   ],
+   "plain_english": "The mantrin prepares an auspicious nine-gems-belly joined with durva and akshata."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "kṣīradrumakaṣāyeṇa",
+     "gloss": "milk-tree-decoction",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m (kṣīra+druma+kaṣāya)"
+    },
+    {
+     "surface": "palāśatvagbhavena",
+     "gloss": "palasha-bark-born",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m (palāśa+tvac+bhava)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What decoction or bark-born substance is used?",
+   "premises": [
+    "milk-tree-decoction is instrumental",
+    "palasha-bark-born is instrumental",
+    "or is stated"
+   ],
+   "inference": "One uses milk-tree decoction or palasha-bark-born substance.",
+   "uncertainties": [
+    "exact application"
+   ],
+   "plain_english": "One uses milk-tree decoction or palasha-bark-born substance."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive",
+     "morph": "abs. (jap)"
+    },
+    {
+     "surface": "mūlamantram",
+     "gloss": "root-mantra",
+     "grounds": "object",
+     "morph": "acc.sg.m (mūla+mantra)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is chanted likewise and then?",
+   "premises": [
+    "having-chanted is stated",
+    "root-mantra is object",
+    "likewise is stated",
+    "and is stated"
+   ],
+   "inference": "The root-mantra is chanted likewise and then.",
+   "uncertainties": [
+    "exact following action"
+   ],
+   "plain_english": "Having chanted the root-mantra likewise, one proceeds."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "abs. (ni-kṣip)"
+    },
+    {
+     "surface": "cūtādyaiḥ",
+     "gloss": "mango-etc",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m (cūta+ādi)"
+    },
+    {
+     "surface": "pidhāya",
+     "gloss": "having-covered",
+     "grounds": "absolutive",
+     "morph": "abs. (pi-dhā)"
+    },
+    {
+     "surface": "saphalākṣatam",
+     "gloss": "fruitful-akshata",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n (sa+phala+akṣata)"
+    }
+   ],
+   "question": "What is placed and covered with mango and fruitful akshata?",
+   "premises": [
+    "having-placed is stated",
+    "mango-etc is instrumental",
+    "having-covered is stated",
+    "fruitful-akshata is object"
+   ],
+   "inference": "One places and covers fruitful akshata with mango and similar items.",
+   "uncertainties": [
+    "exact covering material"
+   ],
+   "plain_english": "One places and covers fruitful akshata with mango and similar items."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "kṣaumayugmena",
+     "gloss": "linen-pair",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.n (kṣauma+yugma)"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "should-wrap",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt. (veṣṭ)"
+    }
+   ],
+   "question": "What should be wrapped with a linen pair?",
+   "premises": [
+    "linen-pair is instrumental",
+    "should-wrap is stated"
+   ],
+   "inference": "One should wrap the item with a linen pair.",
+   "uncertainties": [
+    "exact wrapped object"
+   ],
+   "plain_english": "One should wrap it with a linen pair."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "ṣoḍaśabhiḥ",
+     "gloss": "sixteen",
+     "grounds": "instrumental numeral",
+     "morph": "inst.pl.m (ṣoḍaśan)"
+    },
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "distinction",
+     "grounds": "subject",
+     "morph": "nom.sg.m (viśeṣa)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.m (idam)"
+    },
+    {
+     "surface": "udīritaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.sg.m (udīrita)"
+    }
+   ],
+   "question": "What distinction is declared by sixteen?",
+   "premises": [
+    "sixteen is instrumental",
+    "distinction is subject",
+    "this is demonstrative",
+    "declared is stated"
+   ],
+   "inference": "This distinction is declared by sixteen.",
+   "uncertainties": [
+    "exact sixteenfold distinction"
+   ],
+   "plain_english": "This distinction is declared by sixteen."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "nīlam",
+     "gloss": "blue",
+     "grounds": "adjective",
+     "morph": "acc.sg.n (nīla)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navaratnakam",
+     "gloss": "nine-gem",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n (nava+ratna)"
+    }
+   ],
+   "question": "What blue nine-gem item is mentioned?",
+   "premises": [
+    "blue is adjective",
+    "and is stated",
+    "nine-gem is object"
+   ],
+   "inference": "A blue nine-gem item is mentioned.",
+   "uncertainties": [
+    "exact gem color role"
+   ],
+   "plain_english": "A blue nine-gem item is mentioned."
+  }
+ ]
+}

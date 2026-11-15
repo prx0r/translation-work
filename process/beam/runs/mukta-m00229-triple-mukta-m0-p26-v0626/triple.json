@@ -1,0 +1,1053 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 626,
+   "rows": [
+    {
+     "surface": "catuḥśatākṣaraḥ",
+     "gloss": "four-hundred-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vṛddhaḥ",
+     "gloss": "old",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "Is a four-hundred-syllabled mantra classified as old?",
+   "premises": [
+    "a four-hundred-syllabled mantra is called old",
+    "the classification is stated directly"
+   ],
+   "inference": "yes, it is called old",
+   "uncertainties": [
+    "vṛddha may mean aged rather than merely old"
+   ],
+   "plain_english": "A four-hundred-syllabled mantra is also called old."
+  },
+  {
+   "verse": 627,
+   "rows": [
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiro",
+     "gloss": "head",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrau",
+     "gloss": "mantras",
+     "grounds": "dual noun",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "in-the-middle",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where are the heart and head mantras placed?",
+   "premises": [
+    "heart and head mantras are named",
+    "they are placed in the middle"
+   ],
+   "inference": "they are in the middle",
+   "uncertainties": [
+    "whether middle refers to sequence or body"
+   ],
+   "plain_english": "The heart and head mantras are in the middle."
+  },
+  {
+   "verse": 628,
+   "rows": [
+    {
+     "surface": "śivaśaktyarṇahīno",
+     "gloss": "without-śiva-śakti-seed",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirbījaḥ",
+     "gloss": "seedless",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When is a mantra remembered as seedless?",
+   "premises": [
+    "without śiva-śakti seed he is seedless",
+    "the state is remembered thus"
+   ],
+   "inference": "seedlessness follows from lacking śiva-śakti seed",
+   "uncertainties": [
+    "whether vā marks an alternative condition"
+   ],
+   "plain_english": "Without the śiva-śakti seed, he is remembered as seedless."
+  },
+  {
+   "verse": 629,
+   "rows": [
+    {
+     "surface": "siddhihīnaḥ",
+     "gloss": "without-siddhi",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt-act"
+    },
+    {
+     "surface": "mandaḥ",
+     "gloss": "dull",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṃktyakṣaro",
+     "gloss": "five-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What quality is assigned to a five-syllabled mantra lacking siddhi?",
+   "premises": [
+    "a five-syllabled mantra without siddhi would be dull",
+    "the lack of siddhi is the cause"
+   ],
+   "inference": "it is dull",
+   "uncertainties": [
+    "manda may mean slow or weak"
+   ],
+   "plain_english": "A five-syllabled mantra without siddhi would be dull."
+  },
+  {
+   "verse": 630,
+   "rows": [
+    {
+     "surface": "śaktihīnaḥ",
+     "gloss": "without-śakti",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt-act"
+    },
+    {
+     "surface": "caturvarṇaḥ",
+     "gloss": "four-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kekaraḥ",
+     "gloss": "squint-eyed",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What defect is assigned to a four-syllabled mantra lacking śakti?",
+   "premises": [
+    "a four-syllabled mantra without śakti would be squint-eyed",
+    "the lack of śakti is the cause"
+   ],
+   "inference": "it is squint-eyed",
+   "uncertainties": [
+    "kekara may be metaphorical"
+   ],
+   "plain_english": "A four-syllabled mantra without śakti would be squint-eyed."
+  },
+  {
+   "verse": 631,
+   "rows": [
+    {
+     "surface": "sārdhadvādaśavarṇaḥ",
+     "gloss": "with-twelve-and-a-half-syllables",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhūmitaḥ",
+     "gloss": "smoky",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ninditaḥ",
+     "gloss": "blamed",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is a twelve-and-a-half-syllabled mantra characterized?",
+   "premises": [
+    "a twelve-and-a-half-syllabled mantra is smoky",
+    "it is also blamed"
+   ],
+   "inference": "it is smoky and blamed",
+   "uncertainties": [
+    "whether vā introduces an alternative count"
+   ],
+   "plain_english": "A twelve-and-a-half-syllabled mantra is smoky and blamed."
+  },
+  {
+   "verse": 632,
+   "rows": [
+    {
+     "surface": "viṃśatyarṇaḥ",
+     "gloss": "twenty-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triṃśadarṇaḥ",
+     "gloss": "thirty-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt-act"
+    },
+    {
+     "surface": "āliṅgitaḥ",
+     "gloss": "embraced",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which syllable counts are described as embraced?",
+   "premises": [
+    "twenty-syllabled and thirty-syllabled mantras are named",
+    "such a mantra would be embraced"
+   ],
+   "inference": "twenty and thirty syllables are embraced",
+   "uncertainties": [
+    "whether both counts share the same status"
+   ],
+   "plain_english": "A twenty- or thirty-syllabled mantra is embraced."
+  },
+  {
+   "verse": 633,
+   "rows": [
+    {
+     "surface": "caturviṃśativarṇaḥ",
+     "gloss": "twenty-four-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptaviṃśativarṇakaḥ",
+     "gloss": "twenty-seven-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which syllable counts are paired in this classification?",
+   "premises": [
+    "twenty-four-syllabled is named",
+    "twenty-seven-syllabled is named"
+   ],
+   "inference": "both counts are listed together",
+   "uncertainties": [
+    "the exact relation between the two counts is not stated"
+   ],
+   "plain_english": "Twenty-four-syllabled and twenty-seven-syllabled mantras are paired."
+  },
+  {
+   "verse": 634,
+   "rows": [
+    {
+     "surface": "ekādaśākṣarī",
+     "gloss": "eleven-syllabled",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañcaviṃśatisaṃkhyakaḥ",
+     "gloss": "twenty-five-numbered",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which syllable counts are offered as alternatives here?",
+   "premises": [
+    "eleven-syllabled is named",
+    "twenty-five-numbered is named"
+   ],
+   "inference": "both counts are alternatives",
+   "uncertainties": [
+    "whether api adds emphasis or another alternative"
+   ],
+   "plain_english": "An eleven-syllabled or twenty-five-numbered mantra is named."
+  },
+  {
+   "verse": 635,
+   "rows": [
+    {
+     "surface": "ṣaḍviṃśatyakṣaraḥ",
+     "gloss": "twenty-six-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṭtriṃśadvarṇakaḥ",
+     "gloss": "thirty-six-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which syllable counts are grouped with tathā?",
+   "premises": [
+    "twenty-six-syllabled is named",
+    "thirty-six-syllabled is named"
+   ],
+   "inference": "both counts are grouped",
+   "uncertainties": [
+    "the exact doctrinal status is not stated"
+   ],
+   "plain_english": "Twenty-six-syllabled and thirty-six-syllabled mantras are grouped."
+  },
+  {
+   "verse": 636,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśadakṣaraḥ",
+     "gloss": "twenty-eight-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekatriṃśad",
+     "gloss": "thirty-one",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "athāpi",
+     "grounds": "compound particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which syllable counts are listed as alternatives?",
+   "premises": [
+    "twenty-eight-syllabled is named",
+    "thirty-one is named"
+   ],
+   "inference": "both counts are alternatives",
+   "uncertainties": [
+    "whether athāpi adds a further alternative"
+   ],
+   "plain_english": "A twenty-eight-syllabled or thirty-one-syllabled mantra is named."
+  },
+  {
+   "verse": 637,
+   "rows": [
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trayastriṃśat",
+     "gloss": "thirty-three",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "athāpi",
+     "grounds": "compound particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which syllable count is named for the mantra here?",
+   "premises": [
+    "mantra is named",
+    "thirty-three is named"
+   ],
+   "inference": "thirty-three is the named count",
+   "uncertainties": [
+    "whether athāpi vā adds another count"
+   ],
+   "plain_english": "A mantra of thirty-three syllables is named."
+  },
+  {
+   "verse": 638,
+   "rows": [
+    {
+     "surface": "triṣaṣṭiḥ",
+     "gloss": "sixty-three",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āpatet",
+     "gloss": "would-occur",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt-act"
+    }
+   ],
+   "question": "Up to what count would the described occurrence extend?",
+   "premises": [
+    "sixty-three is named",
+    "occurrence extends up to that count"
+   ],
+   "inference": "up to sixty-three",
+   "uncertainties": [
+    "the exact event of occurrence is not specified"
+   ],
+   "plain_english": "It would occur up to sixty-three."
+  },
+  {
+   "verse": 639,
+   "rows": [
+    {
+     "surface": "pañcaṣaṣṭyakṣarāḥ",
+     "gloss": "sixty-five-syllabled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "would-be",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "syuḥ",
+     "grounds": "verb",
+     "morph": "v.3.pl.opt-act"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "te",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāntamānasāḥ",
+     "gloss": "peaceful-minded",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What mental quality is assigned to sixty-five-syllabled mantras?",
+   "premises": [
+    "sixty-five-syllabled mantras are named",
+    "they are peaceful-minded"
+   ],
+   "inference": "they are peaceful-minded",
+   "uncertainties": [
+    "whether ye syuḥ is conditional"
+   ],
+   "plain_english": "Sixty-five-syllabled mantras are peaceful-minded."
+  },
+  {
+   "verse": 640,
+   "rows": [
+    {
+     "surface": "nigaditāḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sthānabhraṣṭāḥ",
+     "gloss": "displaced-from-place",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "āhvayāḥ",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-unwise",
+     "grounds": "noun",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Who declares displaced mantras to be called?",
+   "premises": [
+    "displaced-from-place mantras are declared",
+    "they are called by the unwise"
+   ],
+   "inference": "the unwise call them",
+   "uncertainties": [
+    "budhaiḥ may mean wise in other contexts"
+   ],
+   "plain_english": "Displaced mantras are declared and called by the unwise."
+  },
+  {
+   "verse": 641,
+   "rows": [
+    {
+     "surface": "vikalāḥ",
+     "gloss": "defective",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "te",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "abhidhīyante",
+     "gloss": "abhidhīyante",
+     "grounds": "verb",
+     "morph": "v.3.pl.pass-pres"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhaśataṃ",
+     "gloss": "with-half-hundred",
+     "grounds": "compound numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What counts are used for defective mantras?",
+   "premises": [
+    "defective ones are named",
+    "hundred or hundred-and-fifty is named"
+   ],
+   "inference": "defective mantras are counted as hundred or hundred-and-fifty",
+   "uncertainties": [
+    "whether vā separates two classes"
+   ],
+   "plain_english": "Defective mantras are called hundred or hundred-and-fifty."
+  },
+  {
+   "verse": 642,
+   "rows": [
+    {
+     "surface": "yatsaṃkhyā",
+     "gloss": "whose-number",
+     "grounds": "compound pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nisnehāḥ",
+     "gloss": "without-affection",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "te",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samīritāḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is declared about mantras without affection?",
+   "premises": [
+    "whose number is named",
+    "they are without affection",
+    "they are declared"
+   ],
+   "inference": "mantras lacking affection are declared",
+   "uncertainties": [
+    "the exact number is not restated"
+   ],
+   "plain_english": "Mantras without affection are declared."
+  },
+  {
+   "verse": 643,
+   "rows": [
+    {
+     "surface": "yāgeṣu",
+     "gloss": "in-rites",
+     "grounds": "noun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "parityājyaḥ",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "noun",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What should the wise always abandon in rites?",
+   "premises": [
+    "in rites abandonment is prescribed",
+    "it is always to be done by the wise"
+   ],
+   "inference": "the specified mantras are abandoned",
+   "uncertainties": [
+    "the object of abandonment is implied from context"
+   ],
+   "plain_english": "In rites, it is always to be abandoned by the wise."
+  },
+  {
+   "verse": 644,
+   "rows": [
+    {
+     "surface": "dvisahasrādhikāḥ",
+     "gloss": "two-thousand-plus",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "khaṇḍaśaḥ",
+     "gloss": "in-pieces",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śatadhā",
+     "gloss": "hundredfold",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are two-thousand-plus mantras considered?",
+   "premises": [
+    "two-thousand-plus mantras are named",
+    "they are considered in pieces hundredfold"
+   ],
+   "inference": "they are considered fragmented hundredfold",
+   "uncertainties": [
+    "whether khaṇḍaśaḥ is literal or metaphorical"
+   ],
+   "plain_english": "Two-thousand-plus mantras are considered in pieces, hundredfold."
+  },
+  {
+   "verse": 645,
+   "rows": [
+    {
+     "surface": "vidyāḥ",
+     "gloss": "vidyās",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "boddhavyāḥ",
+     "gloss": "to-be-understood",
+     "grounds": "gerundive",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mantribhiḥ",
+     "gloss": "by-mantra-knowers",
+     "grounds": "noun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sarvakarmasu",
+     "gloss": "in-all-rites",
+     "grounds": "compound noun",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Who must understand vidyās in all rites?",
+   "premises": [
+    "vidyās are to be understood",
+    "mantra-knowers are the agents",
+    "all rites are the domain"
+   ],
+   "inference": "mantra-knowers must understand vidyās in all rites",
+   "uncertainties": [
+    "whether vidyās are mantras or goddesses"
+   ],
+   "plain_english": "Vidyās are to be understood by mantra-knowers in all rites."
+  },
+  {
+   "verse": 646,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "avaśyakam",
+     "gloss": "necessary-indeed",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atra",
+     "gloss": "atra",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyaktaṃ",
+     "gloss": "manifest",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāradādike",
+     "gloss": "in-śāradā-etc",
+     "grounds": "compound noun",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is said to be necessary and manifest here?",
+   "premises": [
+    "then it is necessary indeed",
+    "that is manifest in śāradā etc"
+   ],
+   "inference": "the stated thing is necessary and manifest",
+   "uncertainties": [
+    "the referent of tad is context-dependent"
+   ],
+   "plain_english": "Then it is indeed necessary; that is manifest in Śāradā and the like."
+  },
+  {
+   "verse": 647,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kalpakoṭiśataiḥ",
+     "gloss": "kalpa-koṭi-hundreds",
+     "grounds": "compound noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "By what immense measure is his purification framed?",
+   "premises": [
+    "of him is stated",
+    "kalpa-koṭi-hundreds are named"
+   ],
+   "inference": "purification is framed by kalpa-koṭi-hundreds",
+   "uncertainties": [
+    "the verb is supplied from the next verse"
+   ],
+   "plain_english": "Of him, even by kalpa-koṭi-hundreds."
+  },
+  {
+   "verse": 648,
+   "rows": [
+    {
+     "surface": "śodhayet",
+     "gloss": "purify",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt-act"
+    },
+    {
+     "surface": "ūrdhvapavanaḥ",
+     "gloss": "upward-breath",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "baddhayā",
+     "gloss": "bound",
+     "grounds": "participle",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yonimudrayā",
+     "gloss": "yoni-mudrā",
+     "grounds": "compound noun",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How is upward-breath to be purified?",
+   "premises": [
+    "upward-breath is the subject",
+    "purification is prescribed",
+    "yoni-mudrā is the instrument"
+   ],
+   "inference": "upward-breath is purified by bound yoni-mudrā",
+   "uncertainties": [
+    "baddhayā may modify breath or mudrā"
+   ],
+   "plain_english": "Upward-breath purifies by bound yoni-mudrā."
+  },
+  {
+   "verse": 649,
+   "rows": [
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "pronoun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "hṛllekhā",
+     "gloss": "heart-line",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmabījakam",
+     "gloss": "kāma-bīja",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is present in all heart-lines?",
+   "premises": [
+    "in all is stated",
+    "heart-line is named",
+    "kāma-bīja is named"
+   ],
+   "inference": "kāma-bīja is in all heart-lines",
+   "uncertainties": [
+    "whether hṛllekhā is a mantra line or mental trace"
+   ],
+   "plain_english": "In all, the heart-line is kāma-bīja."
+  }
+ ]
+}

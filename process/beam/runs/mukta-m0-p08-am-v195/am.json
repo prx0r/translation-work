@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p08",
  "verse": 195,
- "question": "Which coded elements are enumerated in this sequence of mantra components?",
+ "question": "What is chanted likewise and then?",
  "premises": [
-  "Mānmatha, śiva-śakti, mādana, hara, and indraka are named.",
-  "They are listed as components in sequence.",
-  "The enumeration defines a mantra structure."
+  "having-chanted is stated",
+  "root-mantra is object",
+  "likewise is stated",
+  "and is stated"
  ],
- "inference": "The sequence includes mānmatha, śiva-śakti, mādana, hara, and indraka.",
+ "inference": "The root-mantra is chanted likewise and then.",
  "uncertainties": [
-  "The exact phonetic mapping of these code names depends on tradition."
+  "exact following action"
  ],
- "plain_english": "Mānmatha, śiva and śakti, mādana, hara, and indraka."
+ "plain_english": "Having chanted the root-mantra likewise, one proceeds."
 }

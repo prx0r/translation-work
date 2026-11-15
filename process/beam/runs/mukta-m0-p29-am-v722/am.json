@@ -1,12 +1,17 @@
 {
  "song": "mukta-m0-p29",
  "verse": 722,
- "question": "May this wisdom never abandon me, world-mother?",
+ "question": "What is placed on both hands?",
  "premises": [
-  "This wisdom should not abandon me.",
-  "The speaker addresses the world-mother."
+  "dhanurvāṇaṃ means bow-arrow",
+  "ca means and",
+  "cobhayorhastakaṅkaṇaṃ means on both hands",
+  "mudrikāṃ means ring",
+  "gadām means mace"
  ],
- "inference": "The speaker asks that wisdom never abandon him.",
- "uncertainties": [],
- "plain_english": "May this wisdom never abandon me, world-mother."
+ "inference": "Bow-arrow, ring, and mace are placed on both hands.",
+ "uncertainties": [
+  "exact hand assignment"
+ ],
+ "plain_english": "Bow-arrow, ring, and mace on both hands."
 }

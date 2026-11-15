@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "madhyamānām",
+     "gloss": "of-middle-ones",
+     "grounds": "genitive plural feminine of madhyamā",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "madhyaparvayugātmakam",
+     "gloss": "middle-joint-pair-formed",
+     "grounds": "compound madhya+parva+yuga+ātmaka, accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What constitutes the middle-joint-pair-formed element among the middle ones?",
+   "premises": [
+    "middle fingers have one joint each",
+    "the sequence proceeds clockwise",
+    "three fingers have three joints"
+   ],
+   "inference": "the middle ones are characterized by a pair of middle joints",
+   "uncertainties": [
+    "the exact referent of madhyamānām is not explicit in this verse"
+   ],
+   "plain_english": "Of the middle ones, it is middle-joint-pair-formed."
+  }
+ ]
+}

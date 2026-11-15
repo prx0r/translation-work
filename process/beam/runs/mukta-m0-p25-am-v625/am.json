@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p25",
  "verse": 625,
- "question": "What ritual offerings must follow the presentation of bilva leaves and ash?",
+ "question": "What is the forty-syllabled mantra described as both youthful and mature?",
  "premises": [
-  "An umbrella is to be offered in the prescribed manner.",
-  "The offering of the umbrella precedes the next action.",
-  "A pair of chowrie fans is to be offered afterward."
+  "youth qualifies the mantra",
+  "maturity qualifies the mantra",
+  "forty syllables qualify the mantra",
+  "manuḥ names the mantra"
  ],
- "inference": "After offering bilva leaves and ash, the officiant must offer an umbrella and then a pair of chowrie fans.",
- "uncertainties": [],
- "plain_english": "Having thus offered the umbrella, one should then offer a pair of chowrie fans."
+ "inference": "The verse presents a mantra characterized as youthful, mature, and forty-syllabled.",
+ "uncertainties": [
+  "The exact doctrinal relation among the three descriptors is not explicit in this verse."
+ ],
+ "plain_english": "A youthful, mature, forty-syllabled mantra."
 }

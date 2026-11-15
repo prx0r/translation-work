@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 180,
- "question": "To which ritual tradition is this great mantra-knowledge and its śakti assigned?",
+ "question": "How many times should one chant after having done the rite?",
  "premises": [
-  "The teaching is called a mahāvidyā.",
-  "It includes the śakti element.",
-  "It is joined to the western tradition."
+  "having-done is stated",
+  "once-or is stated",
+  "should-chant is stated"
  ],
- "inference": "This mahāvidyā with its śakti belongs to the western tradition.",
- "uncertainties": [],
- "plain_english": "Thus this śakti and great vidyā are joined to the western tradition."
+ "inference": "One should chant once or otherwise after having done the rite.",
+ "uncertainties": [
+  "exact alternative count"
+ ],
+ "plain_english": "Having done it, one should chant once or otherwise."
 }

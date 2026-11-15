@@ -1,12 +1,17 @@
 {
  "song": "mukta-m0-p29",
  "verse": 705,
- "question": "By what expansion and brahma-word is she named by all-self?",
+ "question": "What does one recite after enclosing remaining syllables?",
  "premises": [
-  "She is named by all-self.",
-  "The naming uses expansion and brahma-word."
+  "avaśiṭaiḥ means remaining",
+  "mātṛkārṇaiḥ means mother-syllables",
+  "saṃpuṭīkṛtya means enclosing",
+  "taṃ is accusative",
+  "japet means he recites"
  ],
- "inference": "She is named by all-self through expansion and brahma-word.",
- "uncertainties": [],
- "plain_english": "By all-self, through expansion and brahma-word, she is named."
+ "inference": "One recites that after enclosing remaining mother-syllables.",
+ "uncertainties": [
+  "referent of taṃ"
+ ],
+ "plain_english": "Having enclosed the remaining mother-syllables, he recites that."
 }

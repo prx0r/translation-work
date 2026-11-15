@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 176,
- "question": "Which two goddess forms are named as the first and second in this sequence?",
+ "question": "What foot should be spoken after the haṃsa-para-ātman pair?",
  "premises": [
-  "The first is named Sundarī Devī.",
-  "The second is named Brahmasundarī.",
-  "Both are presented as distinct forms in order."
+  "haṃsa-para-ātman pair is named",
+  "then-that-foot is spoken",
+  "vadet means should-say"
  ],
- "inference": "The sequence identifies Sundarī Devī as first and Brahmasundarī as second.",
- "uncertainties": [],
- "plain_english": "The first is the beautiful goddess Sundarī, and the second is Brahmasundarī."
+ "inference": "The verse prescribes speaking that foot after the pair.",
+ "uncertainties": [
+  "exact ritual referent of foot"
+ ],
+ "plain_english": "After the haṃsa-para-ātman pair, one should speak that foot."
 }

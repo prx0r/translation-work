@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p26",
  "verse": 631,
- "question": "Which symbolic names designate the measure of seven fingers?",
+ "question": "How is a twelve-and-a-half-syllabled mantra characterized?",
  "premises": [
-  "Mothers, worlds, and vowels are listed.",
-  "These are said to designate seven fingers.",
-  "The list functions as appellations."
+  "a twelve-and-a-half-syllabled mantra is smoky",
+  "it is also blamed"
  ],
- "inference": "The seven-finger measure is designated by mothers, worlds, and vowels.",
- "uncertainties": [],
- "plain_english": "Mothers, worlds, and vowels are the designations for seven fingers."
+ "inference": "it is smoky and blamed",
+ "uncertainties": [
+  "whether vā introduces an alternative count"
+ ],
+ "plain_english": "A twelve-and-a-half-syllabled mantra is smoky and blamed."
 }

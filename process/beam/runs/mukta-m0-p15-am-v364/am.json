@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 364,
- "question": "What colors and radiance characterize the goddess in this visualization?",
+ "question": "Which secluded places are listed for practice?",
  "premises": [
-  "She resembles the hibiscus flower.",
-  "Her radiance is like the pomegranate flower.",
-  "Both images convey a red brilliance."
+  "river bank is listed",
+  "cave is listed",
+  "mountain top is listed"
  ],
- "inference": "The goddess is visualized with the red hue of hibiscus and the radiance of pomegranate flowers.",
- "uncertainties": [],
- "plain_english": "She resembles a hibiscus flower and shines with the radiance of a pomegranate blossom."
+ "inference": "River bank, cave, and mountain top are listed places.",
+ "uncertainties": [
+  "whether exhaustive"
+ ],
+ "plain_english": "River bank, cave, and mountain top."
 }

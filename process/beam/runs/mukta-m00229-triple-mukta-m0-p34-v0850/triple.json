@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "saṃpūrṇa",
+     "gloss": "complete",
+     "grounds": "adjective modifying mandala; supplied token lacks final nasal",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "accusative object of cintayet",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śubhraṃ",
+     "gloss": "white",
+     "grounds": "adjective modifying mandala",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-think",
+     "grounds": "optative verb of meditation",
+     "morph": "v.3.sg.par-opt (root cint)"
+    },
+    {
+     "surface": "amṛtātmakam",
+     "gloss": "nectar-natured",
+     "grounds": "compound adjective modifying mandala",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What complete white mandala of nectar-nature should one meditate upon?",
+   "premises": [
+    "Meditation object is complete mandala.",
+    "Mandala is white.",
+    "Mandala has nectar nature."
+   ],
+   "inference": "The practitioner should visualize a complete white nectar-natured mandala.",
+   "uncertainties": [
+    "The supplied token saṃpūrṇa lacks the expected final nasal."
+   ],
+   "plain_english": "One should meditate on the complete, white mandala that is of nectar-nature."
+  }
+ ]
+}

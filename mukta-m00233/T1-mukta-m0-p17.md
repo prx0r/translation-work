@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[birth+etc.](janmādi) [up-to-spire](stūpyantaṃ) [with-cloths](vasanaiḥ) [new](navaiḥ)
+[birth+beginning](janmādi) [stūpa+end](stūpyantaṃ) [garments](vasanaiḥ) [new](navaiḥ)
 
 ## mukta-m0-p17-v402
-[with-four-colored](caturvarṇa) [rice-offerings](audanaiḥ) [and](ca) [also](api) [with-kṛsara](kṛsara) [and-with-milk-rice](pāyasaiḥ)
+[four+varṇas](caturvarṇa) [rice](odanaiḥ) [also](ca) [api](api) [sesame-rice](kṛsara) [milk-rice](pāyasaiḥ)
 
 ## mukta-m0-p17-v403
-[having-filled](samāpūrya) [site+being](vāstu+bhūta) [offering](baliṃ) [at-night](niśi)
+[completely+filling](samāpūrya) [site+deity+offering](vāstubhūtabaliṃ) [at-night](niśi)
 
 ## mukta-m0-p17-v404
-[rites](kriyāḥ) [having-done](kṛtvā) [the-shrine](vimānam) [having-ascended](adhiruhya) [indeed](tu)
+[rites](kriyāḥ) [having-done](kṛtvā) [vimāna](vimānam) [having-ascended](adhiruhya) [then](tu)
 
 ## mukta-m0-p17-v405
-[that](tad) [shrine](vimānaṃ) [with-fragrance+etc.](gandha+ādyaiḥ) [one-should-worship](arcayet) [then](tataḥ)
+[vimāna](vimānaṃ) [that](tad) [with-sandal-etc](gandhādyaiḥ) [worship](arcayet) [then](tataḥ)
 
 ## mukta-m0-p17-v406
-[having-drawn](likhitvā) [indeed](tu) [eye-opening](netra+mokṣaṃ) [likewise](tathā) [one-should-perform](ācaret)
+[having-written](likhitvā) [tu](tu) [eye+liberation](netramokṣaṃ) [thus](tathā) [act](caret)
 
 ## mukta-m0-p17-v407
-[brahmins](viprān) [and](ca) [heap-of-grain](dhānya+rāśiṃ) [and](ca) [gold](kāñcanam)
+[brāhmaṇas](viprāṃśca) [grain-heap](dhānyarāśiṃ) [ca](ca) [gold](kāñcanam)
 
 ## mukta-m0-p17-v408
-[flag](dhvajaṃ) [as-before](prāgvat) [at-spire-top](stūpi+agra) [tied-face](granthita+ānanam)
+[banner](dhvajaṃ) [as-before](prāgvat) [stūpa+peak+knot+face](stūpyagragranthitānanam)
 
 ## mukta-m0-p17-v409
-[on-platform-situated](vedi+stha) [with-pitcher](kalaśa) [kuśa-grass](kuśa) [and-waters](ambhobhiḥ) [and](ca) [on-all-sides](sarvataḥ)
+[altar+placed+pot+kuśa+water](vedisthakalaśakuśāmbhobhiḥ) [ca](ca) [everywhere](sarvataḥ)
 
 ## mukta-m0-p17-v410
-[from-the-shrine](vimānāt) [having-descended](avaruhya) [then](atha) [the-architect](sthapatiḥ) [by-carpenters](takṣakaiḥ) [surrounded](vṛtaḥ)
+[from-vimāna+descending+then](vimānādavaruhyātha) [architect](sthapatiḥ) [carpenters](takṣakaiḥ) [surrounded](vṛtaḥ)
 
 ## mukta-m0-p17-v411
-[having-sprinkled](saṃprokṣya) [and](ca) [eight](aṣṭa) [grains](dhānyāni) [should-scatter](vikiret) [on-all-sides](sarvataḥ) [also](api) [and](ca)
+[having-sprinkled](saṃprokṣya) [ca](ca) [eight](aṣṭa) [grains](dhānyāni) [scatter](vikiret) [everywhere](sarvataḥ) [api](api)
 
 ## mukta-m0-p17-v412
-[with-full-handful](pūrṇa+añjaliḥ) [these](imān) [verses](ślokān) [should-recite](paṭhet) [the-gods](devān) [remembering](anusmaran)
+[full+handful](pūrṇāñjaliṃ) [these+verses](imāñślokān) [recite](paṭhed) [gods+remembering](devānanusmaran)
 
 ## mukta-m0-p17-v413
-[the-earth](pṛthivīm) [may-protect](avatāt) [may-protect](avatāt) [may-protect](avatāt)
+[earth](pṛthivīm) [protect](avatāt)
 
 ## mukta-m0-p17-v414
-[prosperity](śrī) [good-fortune](saubhāgya) [health](ārogya) [enjoyments](bhogān) [and-crops](kṛṣīḥ) [and](an)
+[prosperity+health+enjoyment](śrīsaubhāgyārogyabhogān) [may-they-do](kṛṣīran)
 
 ## mukta-m0-p17-v415
-[the-installer](sthāpakaḥ) [also](api) [his-own-work](sva+karmā) [then](atha) [should-complete](samāpayet)
+[architect](sthāpako) [api](api) [own+work](svakarmā) [atha](atha) [complete](samāpayet)
 
 ## mukta-m0-p17-v416
-[and](ca) [the-entire](aśeṣaṃ) [temple](prāsādaṃ) [should-sprinkle](prokṣayet) [in-order](kramāt)
+[ca](ca) [all](aśeṣaṃ) [temple](prāsādaṃ) [sprinkle](prokṣayet) [in-order](kramāt)
 
 ## mukta-m0-p17-v417
-[temple-seed](prāsāda+bījaṃ) [endowed-with-haṃsa](haṃsa+āḍhyaṃ) [from-twelve-end](dvādaśa+antāt) [issued-forth](viniḥsṛtam)
+[temple+seed](prāsādabījaṃ) [haṃsa+adorned](haṃsāḍhyaṃ) [from-twelfth+end](dvādaśāntād) [issued](viniḥsṛtam)
 
 ## mukta-m0-p17-v418
-[then](tataḥ) [and](ca) [with-arghya+etc.](arghya+ādibhiḥ) [likewise](tadvat) [with-fragrance+etc.](gandha+ādyaiḥ) [and](ca) [in-order](yathā+kramam)
+[then](tataś) [ca](ca) [arghya-etc](arghyādibhiḥ) [tadvat](tadvad) [sandal-etc](gandhādyaiḥ) [ca](ca) [in-order](yathākramam)
 
 ## mukta-m0-p17-v419
-[the-patron](yajamānaḥ) [then](tataḥ) [with-gold](svarṇa) [garments](vasana) [ornaments+etc.](ābharaṇa+ādibhiḥ)
+[sacrificer](yajamānaḥ) [then](tataḥ) [gold+garments+ornaments-etc](svarṇavasanābharaṇādibhiḥ)
 
 ## mukta-m0-p17-v420
-[shrine-making](vimāna+karaṇa) [arisen](udīrṇa) [fatigue](parikleśa) [as-fruit-consisting](phala+ātmakam)
+[vimāna+making+arisen+labor+fruit](vimānakaraṇodīrṇaparikleśaphalātmakam)
 
 ## mukta-m0-p17-v421
-[indeed](tu) [the-architect](sthapatiḥ) [should-give](dadyāt) [with-water-stream](salila+dhārayā)
+[tu](tu) [architect](sthapatiḥ) [give](dadyāt) [water+stream](saliladhārayā)
 
 ## mukta-m0-p17-v422
-[not](na) [should-accept](gṛhṇīyāt) [deluded-minded](pramugdha+dhīḥ)
+[not](na) [accept](gṛhṇīyāt) [deluded+mind](pramugdhadhīḥ)
 
 ## mukta-m0-p17-v423
-[then](atha) [others](anyān) [also](api) [carpenters+etc.](takṣa+ādīn) [the-patron](kartā) [workers](karma+karān) [also](api)
+[atha](atha) [others](anyān) [api](api) [carpenters-etc](takṣādīn) [maker](kartā) [workers](karmakarān) [api](api)
 
 ## mukta-m0-p17-v424
-[cows](go) [grain](dhānya) [flags](dhvaja) [garments+etc.](vastra+ādyaṃ) [should-give](dadyāt) [to-the-architect](sthapataye) [all](akhilam)
+[cow+grain+banner+cloth-etc](godhānyadhvajavastrādyaṃ) [give](dadyāt) [to-architect](sthapataye) [all](akhilam)
 
 ## mukta-m0-p17-v425
-[the-architect](sthapatiḥ) [visibly](sākṣād) [the-patron](yajamānaḥ) [himself](svayaṃ) [Hari](hariḥ)
+[architect](sthapatiḥ) [directly](sākṣāt) [sacrificer](yajamānaḥ) [himself](svayaṃ) [hari](hariḥ)

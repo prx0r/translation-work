@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 891,
- "question": "Which corners must be excluded within the ten-cornered figure?",
+ "question": "What doctrinal claim says this was declared by yoga experts?",
  "premises": [
-  "The figure contains ten corners",
-  "A group of four corners is to be left out",
-  "The instruction is addressed to the goddess"
+  "declared is the verb",
+  "yoga experts are the agents"
  ],
- "inference": "Four corners within the ten-cornered figure must be excluded",
- "uncertainties": [],
- "plain_english": "O goddess, within the ten corners, leave out a group of four corners."
+ "inference": "The verse attributes the teaching to yoga experts.",
+ "uncertainties": [
+  "referent of proktā",
+  "scope of declaration"
+ ],
+ "plain_english": "This was declared by yoga experts."
 }

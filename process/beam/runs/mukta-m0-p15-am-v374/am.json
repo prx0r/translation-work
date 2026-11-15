@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 374,
- "question": "What distinguishing bodily and vestimentary features mark this goddess form?",
+ "question": "What results from grass and leaf seats?",
  "premises": [
-  "The goddess has three eyes.",
-  "She wears red garments.",
-  "Her form is full, raised, and firm."
+  "grass seat causes loss of fame",
+  "leaf seat causes mind confusion",
+  "verse states effects"
  ],
- "inference": "This form of the goddess is three-eyed, clad in red, and of full, firm form.",
- "uncertainties": [],
- "plain_english": "She is three-eyed, wears red garments, and has full, raised, firm breasts."
+ "inference": "Grass seat causes loss of fame and leaf seat causes mind confusion.",
+ "uncertainties": [
+  "exact leaf type"
+ ],
+ "plain_english": "Grass seat causes loss of fame; leaf seat causes mind confusion."
 }

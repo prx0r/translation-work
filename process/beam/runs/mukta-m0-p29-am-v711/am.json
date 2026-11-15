@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p29",
  "verse": 711,
- "question": "What living beings, moving and stationary, arise from that power?",
+ "question": "What purification does the mantrin perform?",
  "premises": [
-  "Living beings arise from that power.",
-  "They include moving and stationary beings."
+  "mantrī is agent",
+  "vimalīkaraṇaṃ means purification",
+  "tu means indeed",
+  "idam means this"
  ],
- "inference": "All living beings, moving and stationary, arise from that power.",
- "uncertainties": [],
- "plain_english": "Men, women, and all living beings, moving and stationary, arise."
+ "inference": "The mantrin performs this purification.",
+ "uncertainties": [
+  "exact purification rite"
+ ],
+ "plain_english": "Indeed, this is the mantrin's purification."
 }

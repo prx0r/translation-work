@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 222,
- "question": "Which seeds are to be contemplated below the previously specified element?",
+ "question": "What obligations follow the mantra practice regarding brahmins?",
  "premises": [
-  "Placement is specified as below that element.",
-  "The haṃsa seed is named.",
-  "The Indra seed is named for contemplation."
+  "dakshina is to be given",
+  "brahmins are the recipients",
+  "feeding is also enjoined"
  ],
- "inference": "One should contemplate the haṃsa seed and the Indra seed below that element.",
- "uncertainties": [],
- "plain_english": "Below that, one should contemplate the haṃsa seed and the Indra seed."
+ "inference": "The practitioner should give dakshina and feed brahmins.",
+ "uncertainties": [
+  "whether api modifies brahmins or the whole clause"
+ ],
+ "plain_english": "He should give dakshina and also feed brahmins."
 }

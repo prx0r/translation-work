@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p36",
  "verse": 883,
- "question": "What is the identity and orientation of the constructed ritual figure?",
+ "question": "What doctrinal claim warns that moved air otherwise kills the practitioner?",
  "premises": [
-  "The constructed figure is a fire circle",
-  "The fire circle faces east",
-  "The instruction is addressed to the honored one"
+  "moved air is the subject",
+  "otherwise qualifies the harm",
+  "kills is the verb",
+  "practitioner is the object"
  ],
- "inference": "The constructed figure is identified as an east-facing fire circle",
- "uncertainties": [],
- "plain_english": "O one honored by heroes, this is the fire circle, facing east."
+ "inference": "The verse warns that improper movement of air can kill the practitioner.",
+ "uncertainties": [
+  "exact condition of calito",
+  "whether vāyuranyathā is compound"
+ ],
+ "plain_english": "If air is moved otherwise, it kills the practitioner."
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "prāṇādikāḥ",
+     "gloss": "prana-and-the-rest",
+     "grounds": "compound of prāṇa, ādi, and adjectival suffix; nominative plural feminine agreeing with mudrāḥ",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "mudrāḥ",
+     "gloss": "mudras",
+     "grounds": "feminine plural nominative noun",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "darśanīyāḥ",
+     "gloss": "to-be-seen",
+     "grounds": "future passive participle from dṛś, agreeing with mudrāḥ",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental singular of krama, indicating sequential manner",
+     "morph": "n.instr.sg.m"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mudras beginning with prana are to be seen in order?",
+   "premises": [
+    "Prana and related mudras are named.",
+    "They are to be seen.",
+    "They follow an order."
+   ],
+   "inference": "The verse prescribes viewing prana mudras sequentially.",
+   "uncertainties": [
+    "Exact list of prana mudras is not given in this verse."
+   ],
+   "plain_english": "The prana and other mudras are indeed to be seen in order."
+  }
+ ]
+}

@@ -1,12 +1,17 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1161,
- "question": "What further animal weapons appear in the duel?",
+ "question": "How should the priest offer incense to the deity?",
  "premises": [
-  "Great tiger and deer appear.",
-  "His śārabha weapon appears."
+  "dhūpayet means incense",
+  "ājyasaṃmiśraiḥ means mixed with ghee",
+  "nīcaiḥ means low",
+  "devasya means of deity",
+  "deśikaḥ means priest"
  ],
- "inference": "Animal-form weapons escalate the combat.",
- "uncertainties": [],
- "plain_english": "Great tiger, deer, and his śārabha weapon."
+ "inference": "The priest offers incense mixed with ghee low before the deity.",
+ "uncertainties": [
+  "height exact"
+ ],
+ "plain_english": "The priest offers ghee-mixed incense low to the deity."
 }

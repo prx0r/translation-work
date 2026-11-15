@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p36",
  "verse": 897,
- "question": "What protective and empowering effects does this diagram bestow?",
+ "question": "What doctrinal claim says one with restrained mind should contemplate a blue forest?",
  "premises": [
-  "The diagram grants all sovereignty",
-  "The diagram destroys all afflictions",
-  "These are its stated effects"
+  "restrained mind is the subject",
+  "should-contemplate is enjoined",
+  "blue forest is the object"
  ],
- "inference": "The diagram bestows universal sovereignty and removes all afflictions",
- "uncertainties": [],
- "plain_english": "O goddess, it grants all sovereignty and destroys all afflictions."
+ "inference": "The verse enjoins contemplation of a blue forest by a restrained mind.",
+ "uncertainties": [
+  "exact blue forest",
+  "meditative context"
+ ],
+ "plain_english": "One with restrained mind should contemplate a blue forest."
 }

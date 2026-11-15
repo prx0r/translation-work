@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 357,
- "question": "Which meter and deity are proclaimed for this stage of the mantra?",
+ "question": "Who speaks harshly from delusion?",
  "premises": [
-  "The meter is identified as Virāṭ.",
-  "The deity is identified as Vajreśī.",
-  "Both are formally proclaimed."
+  "from delusion causes harsh speech",
+  "those who speak are identified",
+  "verse marks them"
  ],
- "inference": "The meter for this stage is Virāṭ and the proclaimed deity is Vajreśī.",
- "uncertainties": [],
- "plain_english": "The meter is Virāṭ, and the deity is proclaimed to be Vajreśī."
+ "inference": "Those who speak harshly from delusion are at fault.",
+ "uncertainties": [
+  "target of speech omitted"
+ ],
+ "plain_english": "Those who speak harshly from delusion."
 }

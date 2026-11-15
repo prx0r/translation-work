@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1159,
- "question": "Which weapons are exchanged in this combat?",
+ "question": "How should the lamp be lit for worship?",
  "premises": [
-  "Thunderbolt weapon of Pārvata is used.",
-  "Serpent weapon and Gāruḍa are used."
+  "pradīptaḥ means lit",
+  "ca means and",
+  "vartyā means with wick",
+  "gavyaghṛtāktayā means smeared with cow ghee"
  ],
- "inference": "The combatants deploy thunderbolt, serpent, and Gāruḍa weapons.",
- "uncertainties": [],
- "plain_english": "Pārvata's thunderbolt weapon, the serpent weapon, and Gāruḍa."
+ "inference": "The lamp is lit with a wick smeared with cow ghee.",
+ "uncertainties": [
+  "lamp type implicit"
+ ],
+ "plain_english": "Light the lamp with a wick smeared with cow ghee."
 }

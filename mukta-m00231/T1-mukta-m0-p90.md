@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-one-by-one(ekaika) leaf(patra) flowers(puṣpāṇi) and(tathā) cakes(apūpāni) one-should-arrange(kalpayet)
+[one-each-leaf-flowers](ekaikapatrapuṣpāṇi) [thus](tathā) [cakes](āpūpāni) [should-make](kalpayet)
 
 ## mukta-m0-p90-v2227
-citron(mātuluṅgaṃ) four-parts(catuḥkhaṇḍaṃ) jackfruit(panasaṃ) in-ten-parts(daśadhā) should-be(bhavet)
+[citron](mātuluṅgaṃ) [four-pieces](catuḥkhaṇḍaṃ) [jackfruit](panasaṃ) [ten-parts](daśadhā) [becomes](bhavet)
 
 ## mukta-m0-p90-v2228
-wood-apple(kapittham) and(ca) in-three-parts(tridhā) to-be-known(jñeyaṃ) cucumber(ūrvārukaṃ) in-three-parts(tridhā) should-be(bhavet)
+[wood-apple](kapitthañca) [threefold](tridhā) [to-be-known](jñeyaṃ) [cucumber](ūrvārukaṃ) [threefold](tridhā) [becomes](bhavet)
 
 ## mukta-m0-p90-v2229
-dūrvā-grass(dūrvā) triad(trayaṃ) prescribed(samuddiṣṭaṃ) guḍūcī(guḍuco) four-fingers(caturaṅgulā)
+[dūrvā-three](dūrvātrayaṃsamuddiṣṭaṃ) [guḍūcī](guḍuco) [four-angulas](caturaṅgulā)
 
 ## mukta-m0-p90-v2230
-rice-grains(taṇḍulāḥ) should-be(syuḥ) half-of-that(tadardham) and(ca) or(athavā) fist-measured(muṣṭisammitāḥ)
+[rice-grains](taṇḍulāḥ) [are](syuḥ) [half-that](tadardhañca) [or](athavā) [fist-measured](muṣṭisammitāḥ)
 
 ## mukta-m0-p90-v2231
-fist-measured(muṣṭimānāḥ) mustard-seeds(sarṣapāḥ) and(ca) salt(lavaṇaṃ) shell-measured(śuktimānakam)
+[fist-measured](muṣṭimānāḥ) [mustard-seeds](sarṣapāśca) [salt](lavaṇaṃ) [shell-measured](śuktimānakam)
 
 ## mukta-m0-p90-v2232
-asafoetida(rāmaṭhaṃ) equal-to-that(tatsamaṃ) to-be-known(jñeyaṃ) yellow-pigment(rocanā) equal-to-that(tatsamā) should-be(bhavet)
+[asafoetida](rāmaṭhaṃ) [equal-to-that](tatsamaṃ) [to-be-known](jñeyaṃ) [rocanā](rocanā) [equal](tatsamā) [becomes](bhavet)
 
 ## mukta-m0-p90-v2233
-tamarind(tintiḍī) seed(bīja) measures(mānāni) prescribed(samuddiṣṭāni) by-teachers(deśikaiḥ)
+[tamarind-seed-measured](tintiḍībījamānāni) [declared](samuddiṣṭāni) [by-teachers](deśikaiḥ)
 
 ## mukta-m0-p90-v2234
-lying-down(śayānaḥ) in-ghee-offerings(ājya+homeṣu) seated(niṣaṇṇaḥ) in-remaining-things(śeṣa+vastuṣu)
+[lying](śayānam) [in-ghee-offerings](ājyahomeṣu) [seated](niṣaṇṇaḥ) [remaining-substances](śeṣavastuṣu)
 
 ## mukta-m0-p90-v2235
-blazing(jvalat) flame(śikhā) mouth(mukhaṃ) of-fire(vahneḥ) to-be-understood(boddhavyaṃ) by-best-practitioners(sādhaka+uttamaiḥ)
+[blazing](jvalat) [flame](śikhā) [mouth](mukhaṃ) [of-fire](vahner) [to-be-understood](boddhavyaṃ) [by-best-sādhakas](sādhakottamaiḥ)
 
 ## mukta-m0-p90-v2236
-gold(svarṇa) vermilion(sindūra) young(bāla) sun(arka) saffron(kuṅkuma) honey(kṣaudra) resembling(sannibhaḥ)
+[gold-vermilion-sun-kuṅkuma-honey-like](svarṇasindūravālārkakuṅkamakṣaudrasannibhaḥ)
 
 ## mukta-m0-p90-v2237
-kettledrum(bherī) rain-cloud(vārida) lord-of-elephants(hastī+indra) sound(dhvaniḥ) of-fire(vahneḥ) auspicious(śubha+āvahaḥ)
+[drum-water-elephant-indra-sound-of-fire-auspicious](bherīvāridahastīndradhvanirvahneḥ) [auspicious](śubhāvahaḥ)
 
 ## mukta-m0-p90-v2238
-lotus(padma) blue-lotus(indīvara) white-lotus(kalhāra) ghee(sarpiḥ) guggulu(guggula) resembling(sannibhaḥ)
+[lotus-blue-lotus-kalhāra-ghee-guggulu-like](padmendīvarakalhārasarpirguggulasannibhaḥ)
 
 ## mukta-m0-p90-v2239
-clockwise(pradakṣiṇāḥ) free-from-trembling(tyakta+kampāḥ) very-bright(su+prabhāḥ) of-fire(śikhinaḥ) flames(śikhāḥ)
+[clockwise](pradakṣiṇāḥ) [tremor-abandoned](tyaktakampāḥ) [bright](suprabhāḥ) [of-flames](śikhinaḥ) [flames](śikhāḥ)
 
 ## mukta-m0-p90-v2240
-jasmine(kunda) moon(indu) white(dhavalaḥ) smoke(dhūmaḥ) of-fire(vahneḥ) declared(proktaḥ) auspicious(śubha+āvahaḥ)
+[jasmine-moon-white](kundendudhavalo) [smoke](dhūmo) [of-fire](vahneḥ) [declared](proktaḥ) [auspicious](śubhāvahaḥ)
 
 ## mukta-m0-p90-v2241
-white(śvetaḥ) kingdom(rāṣṭraṃ) burns(dahati) quickly(āśu) crow(vāyasa) sound(svara) resembling(sannibhaḥ)
+[white](śveto) [kingdom](rāṣṭraṃ) [burns-quickly](dahatyāśu) [crow-sound-like](vāyasasvarasannibhaḥ)
 
 ## mukta-m0-p90-v2242
-foul-smelling(pūti+gandhaḥ) of-fire(hutabhujaḥ) to-the-sacrificer(hotuḥ) sorrow-giving(duḥkha+pradaḥ) would-be(bhavet)
+[putrid-smell](pūtigandho) [of-fire](hutabhujo) [of-offerer](hotur) [sorrow-giving](duḥkhaprado) [becomes](bhavet)
 
 ## mukta-m0-p90-v2243
-parrot(śuka) wing(pakṣa) resembling(nibhaḥ) smoke(dhūmaḥ) pigeon(pārāvata) equal(sama) in-lustre(prabhaḥ)
+[parrot-wing-like](śukapakṣinibho) [smoke](dhūmaḥ) [pigeon-equal-bright](pārāvatasamaprabhaḥ)
 
 ## mukta-m0-p90-v2244
-in-such(evaṃvidheṣu) defects(doṣeṣu) for-expiation(prāyaścittāya) the-practitioner(sādhakaḥ)
+[in-such](evaṃvidheṣu) [defects](doṣeṣu) [for-expiation](prāyaścittāya) [sādhaka](sādhakaḥ)
 
 ## mukta-m0-p90-v2245
-by-own(svīya) number(saṃkhyā) procedure(vidhānena) having-offered(hutvā) the-remainder(aśeṣaṃ) one-should-perform(samācaret)
+[by-own-count-rite](svīyasaṃkhyāvidhānena) [having-offered-remainder](hutvāśeṣaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p90-v2246
-having-dismissed(udvāsya) the-deity(devatāṃ) in-the-vessel(kumbhe) with-limbs-and-retinue(sāṅga+āvaraṇa+pūrvikām)
+[having-dismissed](udvāsya) [deity](devatāṃ) [in-pot](kumbhe) [with-limbs-covering-first](sāṅgāvaraṇapūrvikām)
 
 ## mukta-m0-p90-v2247
-one-by-one(ekaikām) oblation(āhutiṃ) having-offered(hutvā) having-sprinkled(pariṣicya) with-water(adbhiḥ) on-oneself(ātmani)
+[one-each](ekaikām) [oblation](āhutiṃ) [having-offered](hutvā) [sprinkling-water](pariṣicyādbhir) [on-self](ātmani)
 
 ## mukta-m0-p90-v2248
-in-occasional(naimittike) in-desire-rite(kāmya+home) one-may-burn(dahet) them(tān) not(na) but(tu) in-daily(nityake)
+[in-naimittika](naimittike) [in-kāmya-homa](kāmyahome) [should-burn-them](dahettān) [not](na) [in-nitya](tu nityake)
 
 ## mukta-m0-p90-v2249
-then(tataḥ) should-satisfy(santarpayet) the-mantrin(mantrī) of-the-offering(homasya) also(api) by-a-tenth(daśa+aṃśataḥ)
+[then](tataḥ) [satisfy](santarpayen) [mantrin](mantrī) [of-homa](homasyāpi) [tenth-part](daśāṃśataḥ)
 
 ## mukta-m0-p90-v2250
-with-fragrant-water(gandha+udakena) or(vā) one-should-do(kuryāt) everywhere(sarvatra) best-practitioner(sādhaka+uttamaḥ)
+[with-scented-water](gandhodakena) [or](vā) [should-do](kuryāt) [everywhere](sarvatra) [best-sādhaka](sādhakottamaḥ)

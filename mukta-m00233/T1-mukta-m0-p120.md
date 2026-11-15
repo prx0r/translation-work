@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p120-v2976
-[son-of-bhava](bhavaputraḥ) [and-thus](tathā) [at-its](asya) [end](ante) [we-meditate](dhīmahi) [that](tat) [to-us](naḥ) [thus](iti) [also](api)
+[bhava-son+thus+his+end](bhavaputrastathāsyānte) [we-meditate](dhīmahi) [that+not](tanna) [thus+also](ityapi)
 
 ## mukta-m0-p120-v2977
-[with-smallest](kaniṣṭha) [ten](daśa) [tāla-measure](tālena) [of-the-teacher](śāstuḥ) [image](beraṃ) [but](tu) [one-should-make](kārayet)
+[youngest+ten+cubit](kaniṣṭhadaśatālena) [teacher+image](śāsturberam) [but](tu) [should-make](kārayet)
 
 ## mukta-m0-p120-v2978
-[on-abundant](prabhūta) [lion-throne](siṃhāsana) [lotus](abje) [well-seated](svāsīnaṃ) [from-left](vāma) [foot](pādataḥ)
+[abundant+lion-throne+lotus](prabhūtasiṃhāsanābje) [well-seated](svāsīnam) [from-left-foot](vāmapādataḥ)
 
 ## mukta-m0-p120-v2979
-[bow](cāpaṃ) [sword](khaḍgaṃ) [bearing](bibhrat) [four](catur) [armed](bhujam)
+[bow](cāpam) [sword](khaḍgam) [bearing](bibhrat) [four-armed](caturbhujam)
 
 ## mukta-m0-p120-v2980
-[lotus](padma) [long](āyata) [wide](viśāla) [eyed](ākṣaṃ) [full](pūrṇa) [moon](indu) [like](sadṛśa) [faced](ājanam)
+[lotus-wide-large-eyed](padmāyataviśālākṣam) [full-moon-like-face](pūrṇendusadṛśājanam)
 
 ## mukta-m0-p120-v2981
-[with-garland](hāri) [necklace](hāra) [delightful](abhirāma) [limbs](aṅgam) [bound](ābaddha) [belly](udara) [band](bandhanam)
+[charming-limb](hārihārābhirāmāṅgam) [bound-belly-band](ābaddhodarabandhanam)
 
 ## mukta-m0-p120-v2982
-[waist](kaṭi) [thread](sūtra) [shining](ullasat) [red](rakta) [garment](vasanaṃ) [and](ca) [beautiful](cāru) [anklets](nūpuram)
+[waist-cord-shining-red-garment](kaṭisūtrollasadraktavasanam) [beautiful-anklet](cārunūpuram)
 
 ## mukta-m0-p120-v2983
-[well](su) [sloping](līna) [shoulders](aṃsaṃ) [divine](divya) [form](rūpaṃ) [charming](manoramam)
+[well-placed-shoulder](sulīnāṃsam) [divine-form](divyarūpam) [mind-pleasing](manoramam)
 
 ## mukta-m0-p120-v2984
-[with-right](dakṣiṇena) [hanging](lambamāna) [foot](aṅghri) [lotus](paṅkajām)
+[by-right](dakṣiṇena) [hanging-lotus-foot](lambamānāṅghripaṅkajām)
 
 ## mukta-m0-p120-v2985
-[eight](aṣṭa) [year](varṣa) [child](arbhaka) [resembling](prakhyaṃ) [satyaka](satyakaṃ) [and](ca) [with-eight](aṣṭa) [tāla-measure](tālataḥ)
+[eight-year-child-like](aṣṭavarṣārbhakaprakhyam) [truthful](satyakam) [and-eight-cubits](cāṣṭatālataḥ)
 
 ## mukta-m0-p120-v2986
-[to-be-accomplished](saṃpādyaṃ) [installation](pratiṣṭhām) [then](atha) [one-should-perform](kārayet)
+[to-be-accomplished](saṃpādyam) [consecration](pratiṣṭhām) [then](atha) [should-make](kārayet)
 
 ## mukta-m0-p120-v2987
-[lord-of-sword](khaḍgeśaḥ) [lord-of-bow](dhanveśaḥ) [and](ca) [lord-of-arrow](śareśvaraḥ)
+[sword-lord](khaḍgeśaḥ) [bow-lord](dhanveśaḥ) [and](ca) [arrow-lord](śareśvaraḥ)
 
 ## mukta-m0-p120-v2988
-[of-indra](aindraḥ) [and](ca) [also](eva) [then](tathā) [of-agni](āgneyaḥ) [of-yama](yāmyaḥ) [of-nirṛti](nair-ṛta) [of-varuṇa](vāruṇau)
+[Indra](aindraḥ) [and-also](caiva) [thus](tathā) [fire](āgneyaḥ) [south](yāmyaḥ) [southwest+water](nairṛtavāruṇau)
 
 ## mukta-m0-p120-v2989
-[bowing](natyantaṃ) [all](sarvān) [with-their-own](sva) [names](ākhyābhiḥ) [one-should-worship](arcayet)
+[not-at-all](natyantam) [all](sarvān) [by-own-names](svākhyābhiḥ) [should-worship](arcayet)
 
 ## mukta-m0-p120-v2990
-[sharp](tīkṣṇa) [eyed](netraṃ) [and](ca) [crow](kāka) [eyed](ākṣaṃ) [and](ca) [born-from-bhava](bhavodbhavam)
+[sharp-eyed](tīkṣṇanetram) [and](ca) [crow-eyed](kākākṣam) [and](ca) [born-from-Bhava](bhavodbhavam)
 
 ## mukta-m0-p120-v2991
-[by-puṇyāha](puṇyāha) [sprinkling](vikira) [throwing](kṣepāt) [in-pot](kumbha) [weapon](āyudhe) [one-should-worship](yajet)
+[auspicious-day-scattering](puṇyāhavikirakṣepāt) [pot-weapon](kumbhāyudhe) [should-sacrifice](yajet)
 
 ## mukta-m0-p120-v2992
-[woman](strī) [form](rūpaṃ) [razor](kṣurikā) [weapon](astraṃ) [that](tat) [red](rakta) [ornaments](ākalpaṃ) [three](tri) [eyed](locanam)
+[woman-form](strīrūpam) [knife-weapon](kṣurikāstram) [that](tat) [red-rite](raktākalpam) [three-eyed](trilocanam)
 
 ## mukta-m0-p120-v2993
-[by-its](tat) [whirling](bhramāt) [above](ūrdhvaṃ) [in-nine](nava) [pits](kuṇḍa) [placed](āhita) [fires](agniṣu)
+[from-its-whirling-upward](tadbhramādūrdhvam) [nine-pits-kindled-fires](navakuṇḍāhitāgniṣu)
 
 ## mukta-m0-p120-v2994
-[as-before](prākvat) [form](ākāra) [purification](śuddhiṃ) [and](ca) [eye](nayana) [opening](unmīlanaṃ) [likewise](tathā)
+[eastward-form-purity](prāgvadākāraśuddhim) [and](ca) [eye-opening](nayanonmīlanam) [thus](tathā)
 
 ## mukta-m0-p120-v2995
-[as-before](pūrvavat) [lying-down](śayanaṃ) [on-the-altar](vedyāṃ) [one-should-do](kuryāt) [according-to-śaiva](śaiva) [stated](ukta) [path](mārgataḥ)
+[as-before-sleeping](pūrvavacchayanam) [on-altar](vedyām) [should-do](kuryāt) [Śaiva-prescribed-path](śaivoktamārgataḥ)
 
 ## mukta-m0-p120-v2996
-[forms](mūrtayaḥ) [indeed](hi) [eight](aṣṭau) [beginning-with-goptṛ](goptṛ+ādyāḥ) [having-śāstṛ](śāstṛ) [form](rūpiṇaḥ)
+[images](mūrtayaḥ) [indeed](hi) [eight](aṣṭau) [protectors-etc](goptrādyāḥ) [teacher-formed](śāstṛrūpiṇaḥ)
 
 ## mukta-m0-p120-v2997
-[with-earth-etc.](pṛthvī+ādi) [joined](yuktāḥ) [beginning-with-goptṛ](goptṛ+ādyāḥ) [then](tataḥ) [but](tu) [of-guru](guru) [form](mūrti) [guardians](pāḥ)
+[earth-etc-endowed](pṛthvyādiyuktāḥ) [protectors-etc](goptrādyāḥ) [then](tataḥ) [tu](tu) [guru-image-footed](gurumūrtipāḥ)
 
 ## mukta-m0-p120-v2998
-[called-knowledge](jñāna+āhvayāṃ) [power](śaktiṃ) [on-the-pedestal](pīṭhe) [power](śaktiṃ) [of-action](kriyā) [nature](ātmikām)
+[knowledge-named](jñānāhvayām) [power](śaktim) [on-seat](pīṭhe) [power](śaktim) [action-natured](kriyātmikām)
 
 ## mukta-m0-p120-v2999
-[having-bathed](kṛta+snānaḥ) [teacher](guruḥ) [with-form](mūrti) [holders](dharaiḥ) [together](saha)
+[bathed](kṛtasnānaḥ) [guru](guruḥ) [with-image-bearers](mūrtidharaiḥ) [with](saha)
 
 ## mukta-m0-p120-v3000
-[tortoise](kūrma) [stone](śilāṃ) [having-placed](vinyasya) [as-before](pūrvavat)
+[tortoise-stone](kūrmaśilām) [having-placed](vinyasya) [as-before](pūrvavat)

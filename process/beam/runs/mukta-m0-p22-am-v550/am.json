@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p22",
  "verse": 550,
- "question": "How should complete worship-yoga be practiced according to the scriptural path?",
+ "question": "Should the practitioner himself string the mantra at the beginning of vidyā?",
  "premises": [
-  "Complete worship-yoga is prescribed.",
-  "Scriptural path guides the practice.",
-  "The object is to be worshipped."
+  "vidyā has a beginning",
+  "practitioner strings mantra",
+  "oneself performs action"
  ],
- "inference": "Practice complete worship-yoga along the scriptural path.",
+ "inference": "The practitioner himself should string the mantra at vidyā's beginning.",
  "uncertainties": [
-  "Exact syntactic relation between the two tokens is uncertain."
+  "sandhi fusion vidyāyā+ādau not split",
+  "grathayet mood and tense uncertain"
  ],
- "plain_english": "By complete worship-yoga, [it is] to be worshipped from the scriptural path."
+ "plain_english": "At the beginning of the vidyā, the practitioner should string it himself."
 }

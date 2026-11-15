@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "sruveṇa",
+     "gloss": "with-sruva",
+     "grounds": "instrumental of sruva; with the sruva ladle",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "ghee",
+     "grounds": "accusative object ghee",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāgādādāya",
+     "gloss": "taking-from-portion",
+     "grounds": "fused form taken as one token; taking from the portion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāt",
+     "gloss": "from-right",
+     "grounds": "ablative of dakṣiṇa; from the right side",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is ghee to be taken with the sruva from the right side?",
+   "premises": [
+    "ghee is taken with sruva",
+    "taking proceeds from the portion",
+    "the right side is specified"
+   ],
+   "inference": "the ritual taking of ghee uses the sruva from the right portion",
+   "uncertainties": [
+    "internal parsing of bhāgādādāya remains uncertain"
+   ],
+   "plain_english": "With the sruva, take ghee from the right portion."
+  }
+ ]
+}

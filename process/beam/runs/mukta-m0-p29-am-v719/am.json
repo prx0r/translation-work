@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p29",
  "verse": 719,
- "question": "In battle, by whose play-incarnation is Lalitā named?",
+ "question": "What does one employ on the right?",
  "premises": [
-  "Her play-incarnation occurs in battle.",
-  "It is named Lalitā."
+  "pakṣiṇaṃ means bird",
+  "mudrāṃ means seal",
+  "dakṣiṇe means on right",
+  "viniyojayet means he employs"
  ],
- "inference": "In battle, her play-incarnation is named Lalitā.",
- "uncertainties": [],
- "plain_english": "In battle, her play-incarnation is named Lalitā."
+ "inference": "One employs bird and seal on the right.",
+ "uncertainties": [
+  "exact employment"
+ ],
+ "plain_english": "He employs bird and seal on the right."
 }

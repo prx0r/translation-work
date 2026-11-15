@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p26",
  "verse": 638,
- "question": "Which symbolic names correspond to the enumerated numerical measures?",
+ "question": "Up to what count would the described occurrence extend?",
  "premises": [
-  "Shakvari and sa-shakvari are named.",
-  "Satisfaction, nourishment, and support are named.",
-  "These names correspond to the numerical sequence."
+  "sixty-three is named",
+  "occurrence extends up to that count"
  ],
- "inference": "The enumerated measures are designated by shakvari, sa-shakvari, satisfaction, nourishment, and support.",
+ "inference": "up to sixty-three",
  "uncertainties": [
-  "The exact mapping of each name to each number is not explicit in this verse alone."
+  "the exact event of occurrence is not specified"
  ],
- "plain_english": "Shakvari, sa-shakvari, satisfaction, nourishment, and support are the names given."
+ "plain_english": "It would occur up to sixty-three."
 }

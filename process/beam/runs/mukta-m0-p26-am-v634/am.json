@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p26",
  "verse": 634,
- "question": "Which symbolic names designate the measure of twelve fingers?",
+ "question": "Which syllable counts are offered as alternatives here?",
  "premises": [
-  "Year, burden, and sun are listed.",
-  "These are called twelve-finger designations.",
-  "The list provides appellations for that measure."
+  "eleven-syllabled is named",
+  "twenty-five-numbered is named"
  ],
- "inference": "The twelve-finger measure is designated by year, burden, and sun.",
- "uncertainties": [],
- "plain_english": "Year, burden, and sun are the designations for twelve fingers."
+ "inference": "both counts are alternatives",
+ "uncertainties": [
+  "whether api adds emphasis or another alternative"
+ ],
+ "plain_english": "An eleven-syllabled or twenty-five-numbered mantra is named."
 }

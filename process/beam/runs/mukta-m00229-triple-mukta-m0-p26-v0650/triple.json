@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "tārasaṃpuṭitaḥ",
+     "gloss": "enclosed-by-tāra",
+     "grounds": "tāra plus saṃpuṭita; enclosed by the tāra syllable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duṣṭamantro",
+     "gloss": "evil-mantra",
+     "grounds": "duṣṭa plus mantra compound; evil mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "root siddh; present active third singular",
+     "morph": "3.sg.act-pres, root siddh"
+    }
+   ],
+   "question": "Can an evil mantra succeed when it is enclosed by tāra?",
+   "premises": [
+    "tāra enclosure is stated",
+    "evil mantra is named",
+    "success is asserted"
+   ],
+   "inference": "Enclosure by tāra is presented as sufficient for even an evil mantra to succeed.",
+   "uncertainties": [
+    "exact scope of tāra enclosure in ritual context",
+    "whether atha marks sequence or emphasis"
+   ],
+   "plain_english": "Enclosed by tāra, or then, even an evil mantra succeeds."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "etadādyeṣu",
+     "gloss": "in-these-first",
+     "grounds": "locative plural masculine of etad plus ādi in fused sandhi form",
+     "morph": "m.loc.pl.m"
+    },
+    {
+     "surface": "mantreṣu",
+     "gloss": "mantras",
+     "grounds": "locative plural masculine of mantra",
+     "morph": "m.loc.pl.m"
+    },
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "accusative singular masculine of praṇava",
+     "morph": "m.acc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "optative third singular active of yuj in causative sense",
+     "morph": "3.sg.act.opt. + root yuj"
+    }
+   ],
+   "question": "Should praṇava be joined to these first mantras?",
+   "premises": [
+    "First mantras are specified by etadādyeṣu.",
+    "Praṇava is the object not joined.",
+    "yojayet expresses prohibition with na."
+   ],
+   "inference": "Therefore praṇava should not be joined to these first mantras.",
+   "uncertainties": [
+    "Exact scope of the first mantras is not specified in this verse."
+   ],
+   "plain_english": "In these first mantras, one should not join praṇava."
+  }
+ ]
+}

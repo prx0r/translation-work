@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "sandhisaṃsthāni",
+     "gloss": "junction-situated",
+     "grounds": "compound sandhi-junction + sthāni-situated; accusative plural neuter modifying threads",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrāṇi",
+     "gloss": "threads",
+     "grounds": "plural neuter accusative object of pātayet",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "should-drop",
+     "grounds": "causative of root pat; third singular optative instruction",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "At which locations should threads be dropped in the yantra?",
+   "premises": [
+    "Threads are dropped at junctions.",
+    "The junctions are specified there.",
+    "The act is prescriptive."
+   ],
+   "inference": "The verse prescribes dropping threads at the junctions.",
+   "uncertainties": [
+    "Exact yantra context inferred from preceding verses."
+   ],
+   "plain_english": "There, at the junctions, one should drop the threads."
+  }
+ ]
+}

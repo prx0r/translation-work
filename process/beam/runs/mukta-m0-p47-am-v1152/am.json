@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1152,
- "question": "Where does the five-branched arrow strike the maiden?",
+ "question": "Which vehicles are assigned to these deities in ordered sequence?",
  "premises": [
-  "The arrow has five branches.",
-  "It touches his head."
+  "airāvata is named",
+  "meṣo and mahiṣaḥ are named",
+  "pretasaṃjñakaḥ names pretas"
  ],
- "inference": "The attack lands on the head.",
- "uncertainties": [],
- "plain_english": "That five-branched arrow touched his head."
+ "inference": "The verse lists vehicles including Airāvata, ram, buffalo, and pretas.",
+ "uncertainties": [
+  "deity mapping implicit"
+ ],
+ "plain_english": "Airāvata, ram, buffalo, and pretas are the vehicles."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[with-twenty-parts](viṃśatyaṃśaiḥ) [should-be](bhavet) [end](antaḥ) [altar](vedī) [with-those](taiḥ) [with-eight](aṣṭabhiḥ) [should-be](bhavet)
+[twenty-parts](viṃśatyaṃśaiḥ) [becomes](bhaved) [end](anto) [altar](vedī) [by-them](taiḥ) [eight](aṣṭabhiḥ) [becomes](bhavet)
 
 ## mukta-m0-p75-v1852
-[with-altar+third-part](vedītryaṃśena) [width](vistāraḥ) [of-neck](kaṇṭhasya) [is-declared](parikīritaḥ)
+[altar-three-parts](vedītryaṃśena) [width](vistāraḥ) [of-throat](kaṇṭhasya) [surrounded](parikīritaḥ)
 
 ## mukta-m0-p75-v1853
-[with-little-finger+measure](kaniṣṭhāṅgulimānena) [of-ghee](sarpiṣo) [for-outflow](nirgamāya) [indeed](vai)
+[little-finger-measure](kaniṣṭhāṅgulimānena) [of-ghee](sarpiṣaḥ) [for-exit](nirgamāya) [indeed](vai)
 
 ## mukta-m0-p75-v1854
-[outside](bahis) [of-that](tasyā) [with-one+part](ekāṃśena) [all-around](abhito) [rim](vaṭam)
+[outside-her](bahistasyāḥ) [one-part](ekāṃśena) [around](abhitaḥ) [banyan](vaṭam)
 
 ## mukta-m0-p75-v1855
-[with-one+part](aṃśenaikena) [all-around](parito) [petals](dalāni) [one-should-fashion](parikapayet)
+[by-one-part](aṃśenaikena) [around](paritaḥ) [petals](dalāni) [should-make](parikapayet)
 
 ## mukta-m0-p75-v1856
-[therefore](tat) [here](atra) [by-lack-of-instruction](anupadeśena) [is-produced](jāva) [(ya)]((ya)) [indeed](te) [not](na) [beautiful](manoharam)
+[that-here-without-instruction](tadatrānupadeśena) [java](jāva) [they](te) [not](na) [pleasing](manoharam)
 
 ## mukta-m0-p75-v1857
-[at-tooth+root+tips](dantamūlāgrayoḥ) [two-cavities](kuṇḍau) [(?)]((?)) [by-quality+veda+fingers](guṇavedāṅgule) [in-order](kramāt)
+[tooth-root-tips](dantamūlāgrayoḥ) [pots](kuṇḍau) [quality-veda-fingers](guṇavedāṅgule) [in-order](kramāt)
 
 ## mukta-m0-p75-v1858
-[with-six+parts](ṣaḍbhiraṃśaiḥ) [tail+portion](pucchabhāgo) [of-altar](vedyāḥ) [tortoise+shaped](kūrmākṛtir) [should-be](bhavet)
+[six-parts](ṣaḍbhiraṃśaiḥ) [tail-part](pucchabhāgaḥ) [of-altar](vedyāḥ) [tortoise-form](kūrmākṛtiḥ) [becomes](bhavet)
 
 ## mukta-m0-p75-v1859
-[on-back+part](pṛṣṭhabhāge) [of-this](asyāḥ) [declared](saṃproktaṃ) [characteristic](lakṣaṇaṃ) [of-ladle](srucaḥ)
+[back-part](pṛṣṭhabhāge) [of-her](asyāḥ) [declared](saṃproktaṃ) [characteristic](lakṣaṇaṃ) [ladle](srucaḥ)
 
 ## mukta-m0-p75-v1860
-[twenty-two+rod+measure](dvāviṃśatyādaṇḍamānam) [with-parts](aṃśaiḥ) [of-this](etasya) [is-declared](kīrtitam)
+[twenty-two-stick-measure](dvāviṃśatyādaṇḍamānam) [parts](aṃśaiḥ) [of-this](etasya) [declared](kīrtitam)
 
 ## mukta-m0-p75-v1861
-[with-two+parts](aṃśadvayena) [one-should-bury](nikhanet) [in-mud](paṅke) [deer+foot+shaped](mṛgapadākṛtim)
+[by-two-parts](aṃśadvayena) [should-dig](nikhanet) [in-mud](paṅke) [deer-foot-form](mṛgapadākṛtim)
 
 ## mukta-m0-p75-v1862
-[characteristic](lakṣaṇaṃ) [declared](proktaṃ) [according-to-all+tantras](sarvatantrānusārataḥ)
+[characteristic](lakṣaṇaṃ) [declared](proktaṃ) [according-to-all-tantras](sarvatantrānusārataḥ)
 
 ## mukta-m0-p75-v1863
-[according-to-rule](vidhivad) [the-wise-one](vidvān) [thus](iti) [phetkāriṇī+opinion](phetkāriṇīmatam)
+[according-to-rite](vidhivat) [learned](vidvān) [thus](iti) [phetkāriṇī-opinion](phetkāriṇīmatam)
 
 ## mukta-m0-p75-v1864
-[excessive](vyādhikaraṃ) [declared](proktaṃ) [ladle](sruvaṃ) [holds](dhārayate) [how](katham)
+[disease-causing](vyādhikaraṃ) [declared](proktaṃ) [sruva](sruvaṃ) [holds](dhārayate) [how](katham)
 
 ## mukta-m0-p75-v1865
-[in-its+middle](tanmadhye) [one-should-hold](dhārayec) [conch](chaṃkham) [with-mudrā](udrayā)
+[in-middle](tanmadhye) [should-hold](dhārayet) [conch-seal](śaṃkhamudrayā)
 
 ## mukta-m0-p75-v1866
-[therefore](tasmāt) [should-protect](saṅgopayet) [the-mantrin](mantrī) [at-sacrifice+time](homakāle) [according-to-rule](yathāvidhi)
+[therefore](tasmāt) [should-join](saṅgopayet) [mantrin](mantrī) [at-homa-time](homakāle) [according-to-rite](yathāvidhi)
 
 ## mukta-m0-p75-v1867
-[with-closed+finger+hand](saṃhatāṅgulipāṇis) [indeed](tu) [speech+restrained](vāgyato) [one-should-offer](juhuyād) [oblation](dhaviḥ)
+[joined-fingers-hand](saṃhatāṅgulipāṇiḥ) [indeed](tu) [restrained-speech](vāgyataḥ) [should-offer](juhuyāt) [oblation](haviḥ)
 
 ## mukta-m0-p75-v1868
-[or](vā) [in-abbreviated](saṃkṣipte) [sacrifice+rite](homakarmaṇi)
+[or](vā) [in-short](saṃkṣipte) [homa-rite](homakarmaṇi)
 
 ## mukta-m0-p75-v1869
-[now](idānīm) [I-shall-expound](abhidhāsye) [here](atra) [properly](samyak) [six+rites+characteristic](ṣaṭkarmalakṣaṇam)
+[now](idānīm) [I-will-describe](abhidhāsye) [here](atra) [properly](samyak) [six-acts-characteristic](ṣaṭkarmalakṣaṇam)
 
 ## mukta-m0-p75-v1870
-[of-the-wise](manīṣiṇaḥ) [thus](iti) [declared](proktam) [here](atra)
+[wise-ones](manīṣiṇaḥ)
 
 ## mukta-m0-p75-v1871
-[subjugation](vaśyaṃ) [of-people](janānāṃ) [of-all](sarveṣāṃ) [state-of-being-controlled](vidheyatvam) [is-declared](udīritam)
+[of-subject-people](vaśyaṃjanānāṃ) [of-all](sarveṣāṃ) [submissiveness](vidheyatvam) [declared](udīritam)
 
 ## mukta-m0-p75-v1872
-[hatred+production](dveṣajananaṃ) [mutually](mitho) [causing-enmity](vidveṣaṇaṃ) [is-considered](matam)
+[hatred-generation](dveṣajananaṃ) [mutual](mithaḥ) [enmity](vidveṣaṇaṃ) [considered](matam)
 
 ## mukta-m0-p75-v1873
-[life+taking](prāṇaharaṇaṃ) [killing](māraṇaṃ) [is-declared](samudāhṛtam)
+[life-taking](prāṇaharaṇaṃ) [killing](māraṇaṃ) [called](samudāhṛtam)
 
 ## mukta-m0-p75-v1874
-[declared](proktāḥ) [at-rite+beginning](karmādau) [them](tāḥ) [one-should-worship](prapūjayet)
+[declared](proktāḥ) [at-rite-beginning](karmādau) [them](tāḥ) [should-worship](prapūjayet)
 
 ## mukta-m0-p75-v1875
-[day+and-night](ahorātraṃ) [day](dine) [by-day](dine)
+[day-and-night](ahorātraṃ) [day](dine) [day](dine)

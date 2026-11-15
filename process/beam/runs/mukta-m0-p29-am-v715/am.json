@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p29",
  "verse": 715,
- "question": "From whose limbs are Vāk, Śrī, and Gaurī born?",
+ "question": "What does the mantrin enjoy by rite?",
  "premises": [
-  "Vāk, Śrī, and Gaurī are born.",
-  "They are born from those limbs."
+  "vidhinā means by rite",
+  "mantrī is agent",
+  "yathoktaphalam means stated fruit",
+  "aśnute means enjoys"
  ],
- "inference": "Vāk, Śrī, and Gaurī are born from those limbs.",
- "uncertainties": [],
- "plain_english": "We are born from those limbs as Vāk, Śrī, and Gaurī."
+ "inference": "The mantrin enjoys the stated fruit by rite.",
+ "uncertainties": [
+  "exact rite"
+ ],
+ "plain_english": "By rite the mantrin enjoys the stated fruit."
 }

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "bāhyādāpūraṇaṃ",
+     "gloss": "external-filling",
+     "grounds": "compound of bāhya and ādāpūraṇa; accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāyoḥ",
+     "gloss": "of-breath",
+     "grounds": "genitive singular of vāyu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "udare",
+     "gloss": "in-belly",
+     "grounds": "locative singular of udara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrako",
+     "gloss": "filling-inhalation",
+     "grounds": "nominative singular masculine of pūraka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "past participle of man, nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which breath-control stage is called pūraka when air is drawn from outside into the belly?",
+   "premises": [
+    "External air fills belly.",
+    "That filling is pūraka.",
+    "It is considered so."
+   ],
+   "inference": "pūraka is external inhalation into the belly.",
+   "uncertainties": [],
+   "plain_english": "Drawing air from outside into the belly is considered pūraka."
+  }
+ ]
+}

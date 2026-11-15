@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 707,
- "question": "What two powers of that lord are activity and agency?",
+ "question": "With what does one strike after writing?",
  "premises": [
-  "That lord has two powers.",
-  "They are activity and agency."
+  "samālikhya means having written",
+  "tāḍayet means he strikes",
+  "candanāmbhasā means sandal-water"
  ],
- "inference": "The two powers of that lord are activity and agency.",
- "uncertainties": [],
- "plain_english": "That lord has two powers: activity and agency."
+ "inference": "One strikes with sandal-water after writing.",
+ "uncertainties": [
+  "object struck"
+ ],
+ "plain_english": "Having written, he strikes with sandal-water."
 }

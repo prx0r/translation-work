@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1163,
- "question": "How terrible is the battle between maiden and demon?",
+ "question": "What request should be made before offering to the chosen deity?",
  "premises": [
-  "The battle was very terrible.",
-  "It is between maiden and demon."
+  "pradānārthaṃ means for offering",
+  "prārthayet means request",
+  "iṣṭa means chosen",
+  "devatām means deity"
  ],
- "inference": "The duel becomes extremely fierce.",
- "uncertainties": [],
- "plain_english": "The battle between the maiden and the Bhaṇḍa demon was very terrible."
+ "inference": "One requests the chosen deity for the purpose of offering.",
+ "uncertainties": [
+  "request wording"
+ ],
+ "plain_english": "Request the chosen deity for offering."
 }

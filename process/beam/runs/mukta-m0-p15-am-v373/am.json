@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 373,
- "question": "What color and seat characterize this form of the goddess in meditation?",
+ "question": "What results from a wooden seat?",
  "premises": [
-  "Her radiance is like the bandhūka flower.",
-  "She dwells upon five skulls.",
-  "These features define her visualized form."
+  "poverty is mentioned",
+  "misfortune is mentioned",
+  "wooden seat is mentioned"
  ],
- "inference": "The goddess is contemplated as radiant like the bandhūka flower and seated upon five skulls.",
- "uncertainties": [],
- "plain_english": "She shines like a bandhūka flower and dwells upon five skulls."
+ "inference": "A wooden seat brings poverty and misfortune.",
+ "uncertainties": [
+  "exact wood type"
+ ],
+ "plain_english": "Poverty and misfortune from a wooden seat."
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "ṛṣyādīn",
+     "gloss": "rishi-and-the-rest",
+     "grounds": "accusative plural compound listing rishi and related elements",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nyāsādīn",
+     "gloss": "nyasa-and-the-rest",
+     "grounds": "accusative plural compound listing nyasa and related elements",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "arcanām",
+     "gloss": "worship",
+     "grounds": "accusative singular feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual elements are included alongside mantra power for the initiated disciple?",
+   "premises": [
+    "mantra power is present for initiated disciple",
+    "rishi and nyasa lists are included",
+    "worship is also included"
+   ],
+   "inference": "the verse enumerates rishi, nyasa, and worship as accompanying elements",
+   "uncertainties": [
+    "exact syntactic relation to previous verse not fully explicit"
+   ],
+   "plain_english": "Rishi and the rest, nyasa and the rest, and worship too."
+  }
+ ]
+}

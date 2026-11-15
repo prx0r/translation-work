@@ -1,12 +1,18 @@
 {
  "song": "mukta-m0-p29",
  "verse": 720,
- "question": "After being thus spoken to by her, what prayer is made again?",
+ "question": "What does one contemplate on the left?",
  "premises": [
-  "She speaks thus.",
-  "Afterwards a prayer is made again."
+  "pāśaṃ means noose",
+  "ca means and",
+  "pustaṃ means book",
+  "pātraṃ means vessel",
+  "vāme means on left",
+  "vicintayet means he contemplates"
  ],
- "inference": "After her speech, a prayer is made again.",
- "uncertainties": [],
- "plain_english": "After being thus spoken to by her, he prays again."
+ "inference": "One contemplates noose, book, and vessel on the left.",
+ "uncertainties": [
+  "exact contemplation"
+ ],
+ "plain_english": "He contemplates noose, book, and vessel on the left."
 }

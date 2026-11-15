@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "sarvarakṣākarī",
+     "gloss": "all-protecting",
+     "grounds": "compound sarva-rakṣā-karī, all-protection-making",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to kuntamudrā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuntamudrā",
+     "gloss": "spear-seal",
+     "grounds": "compound kunta-mudrā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "past participle of sam-īr",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mudrā is declared to protect all beings?",
+   "premises": [
+    "kuntamudrā is declared all-protecting",
+    "eṣā refers to kuntamudrā",
+    "hi emphasizes the declaration"
+   ],
+   "inference": "therefore the spear-seal protects all",
+   "uncertainties": [
+    "exact scope of protection unspecified"
+   ],
+   "plain_english": "Indeed, this spear-seal is declared to be all-protecting."
+  }
+ ]
+}

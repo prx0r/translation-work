@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 900,
- "question": "What specific shape and structural features must the requested diagram possess, O supreme goddess?",
+ "question": "Which two lords accompany the described temple with retinue?",
  "premises": [
-  "The diagram is specified as four-cornered and square.",
-  "The diagram is specified as furnished with four gates.",
-  "The supreme goddess is directly addressed regarding this form."
+  "retinue accompanies the lords",
+  "field-lord is named",
+  "ganesha-lord is named"
  ],
- "inference": "The requested diagram must be constructed as a square structure equipped with four gates.",
+ "inference": "The verse names the field-lord and Ganesha-lord as accompanying the retinue.",
  "uncertainties": [
-  "The verb governing these attributes is supplied from the preceding verse (kuru)."
+  "exact syntactic role of kṣetreśvara remains unclear"
  ],
- "plain_english": "O supreme goddess, make it square and furnished with four gates."
+ "plain_english": "With retinue, the field-lord and Ganesha-lord."
 }

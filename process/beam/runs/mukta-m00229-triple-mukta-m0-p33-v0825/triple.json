@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "ghṛtaprajvalitān",
+     "gloss": "ghee-blazing",
+     "grounds": "compound adjective describing lamps blazing with ghee",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dīpān",
+     "gloss": "lamps",
+     "grounds": "accusative plural object of placement",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "place",
+     "grounds": "causative optative third singular verb",
+     "morph": "3.sg.act-opt (root sthā)"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "indeclinable adverb of location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhān",
+     "gloss": "auspicious",
+     "grounds": "adjective modifying lamps",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What lamp arrangement is prescribed around the vessel in puraścaryā?",
+   "premises": [
+    "ghee-blazing lamps are placed around",
+    "auspicious lamps surround vessel",
+    "puraścaryā includes lamp placement"
+   ],
+   "inference": "ritual prescribes auspicious ghee lamps encircling vessel",
+   "uncertainties": [
+    "exact vessel type not specified in this verse"
+   ],
+   "plain_english": "Place auspicious ghee-blazing lamps around."
+  }
+ ]
+}

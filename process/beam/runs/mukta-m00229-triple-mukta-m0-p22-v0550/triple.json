@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "vidyāyādau",
+     "gloss": "in-vidyā-beginning",
+     "grounds": "fused genitive vidyāyā + locative ādau; sandhi not split",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grathayet",
+     "gloss": "string",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt. (root grath)"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "oneself",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should the practitioner himself string the mantra at the beginning of vidyā?",
+   "premises": [
+    "vidyā has a beginning",
+    "practitioner strings mantra",
+    "oneself performs action"
+   ],
+   "inference": "The practitioner himself should string the mantra at vidyā's beginning.",
+   "uncertainties": [
+    "sandhi fusion vidyāyā+ādau not split",
+    "grathayet mood and tense uncertain"
+   ],
+   "plain_english": "At the beginning of the vidyā, the practitioner should string it himself."
+  }
+ ]
+}

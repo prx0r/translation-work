@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p26",
  "verse": 629,
- "question": "Which symbolic names designate the measure of four fingers?",
+ "question": "What quality is assigned to a five-syllabled mantra lacking siddhi?",
  "premises": [
-  "The verse states these are four-finger designations.",
-  "Arrow is listed as a name.",
-  "Element, sense, and nectar are listed as names."
+  "a five-syllabled mantra without siddhi would be dull",
+  "the lack of siddhi is the cause"
  ],
- "inference": "The four-finger measure is designated by arrow, element, sense, and nectar.",
- "uncertainties": [],
- "plain_english": "Arrow, element, sense, and nectar are the designations for four fingers."
+ "inference": "it is dull",
+ "uncertainties": [
+  "manda may mean slow or weak"
+ ],
+ "plain_english": "A five-syllabled mantra without siddhi would be dull."
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "hy",
+     "gloss": "thus",
+     "grounds": "indeclinable particle introducing consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthāḥ",
+     "gloss": "meanings",
+     "grounds": "plural nominative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakāśante",
+     "gloss": "shine",
+     "grounds": "middle voice present plural",
+     "morph": "3.pl.mid-pres + root prakāś"
+    },
+    {
+     "surface": "manīṣiṇaḥ",
+     "gloss": "to-the-wise",
+     "grounds": "dative plural recipient",
+     "morph": "m.dat.pl"
+    }
+   ],
+   "question": "How do meanings become manifest to the wise?",
+   "premises": [
+    "Meanings are not self-evident to all.",
+    "Wisdom makes meanings shine.",
+    "Thus realization depends on the wise."
+   ],
+   "inference": "Meanings become manifest through wisdom.",
+   "uncertainties": [
+    "Exact syntactic force of hy depends on editorial context."
+   ],
+   "plain_english": "Thus meanings shine to the wise."
+  }
+ ]
+}

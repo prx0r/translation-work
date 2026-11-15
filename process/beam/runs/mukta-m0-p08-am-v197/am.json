@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p08",
  "verse": 197,
- "question": "What mantra form results from joining haṃsa at the end of the entire sequence?",
+ "question": "What should be wrapped with a linen pair?",
  "premises": [
-  "Haṃsa is joined at the end of all components.",
-  "This addition produces a specific form.",
-  "The resulting form is twenty-syllabled."
+  "linen-pair is instrumental",
+  "should-wrap is stated"
  ],
- "inference": "Joining haṃsa at the end of the whole sequence yields the twenty-syllable form.",
- "uncertainties": [],
- "plain_english": "When joined with haṃsa at the end of all, it then becomes the twenty-syllable form."
+ "inference": "One should wrap the item with a linen pair.",
+ "uncertainties": [
+  "exact wrapped object"
+ ],
+ "plain_english": "One should wrap it with a linen pair."
 }

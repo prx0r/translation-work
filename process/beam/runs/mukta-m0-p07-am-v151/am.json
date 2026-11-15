@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p07",
  "verse": 151,
- "question": "What mantra form arises when the syllable sa is placed at the beginning of the Kāmarāja?",
+ "question": "Which ten kalas are assigned to sun and fire?",
  "premises": [
-  "The syllable sa is added at the beginning of the Kāmarāja.",
-  "The resulting form is called Lopā.",
-  "This form consists of sixteen syllables."
+  "sun has ten kalas",
+  "fire has ten kalas"
  ],
- "inference": "Placing the syllable sa at the start of the Kāmarāja yields the sixteen-syllabled Lopā mantra.",
- "uncertainties": [],
- "plain_english": "When the syllable sa is placed at the beginning of the Kāmarāja, the mantra becomes the sixteen-syllabled Lopā."
+ "inference": "the verse pairs sun and fire kalas",
+ "uncertainties": [
+  "exact kalas not listed here"
+ ],
+ "plain_english": "The sun and fire each have ten kalas."
 }

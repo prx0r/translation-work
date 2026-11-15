@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 219,
- "question": "How are the kāmarāja triad and the śakti-kūṭa to be arranged in this sequence?",
+ "question": "Which text is cited in the Dakshinamurti tantra?",
  "premises": [
-  "The three kūṭas are identified as kāmarāja.",
-  "The śakti seed and kūṭa are named next.",
-  "The arrangement follows the previous pattern."
+  "Dakshinamurti tantra is named",
+  "shri is an honorific",
+  "Gargya samhita is named"
  ],
- "inference": "The kāmarāja triad and the śakti-kūṭa are to be placed as before.",
- "uncertainties": [],
- "plain_english": "The three kūṭas of kāmarāja and the śakti seed-kūṭa are to be taken as before."
+ "inference": "The verse cites the Gargya samhita within the Dakshinamurti tantra.",
+ "uncertainties": [
+  "whether śrī modifies the samhita or is a separate token"
+ ],
+ "plain_english": "In the Dakshinamurti tantra, the Shri Gargya samhita."
 }

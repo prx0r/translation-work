@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[do](kuruta) [ārtīyaṃ](ārttīyaṃ) [knowledge](vidyā) [veda+syllabled](veda+akṣarī) [should-be](bhavet)
-
+[make-art](kurutārttīyaṃ) [knowledge](vidyā) [veda-letter](vedākṣarī) [become](bhavet)
 ## mukta-m0-p81-v2002
-[all+auspiciousness+giving](sarva+saubhāgya+dā) [should-be](bhavet)
-
+[all-auspicious-giving](sarvasaubhāgyadā) [become](bhavet)
 ## mukta-m0-p81-v2003
-[deity](devatā) [world+sovereign](jagad+īśvarī)
-
+[deity](devatā) [world-lady](jagadīśvarī)
 ## mukta-m0-p81-v2004
-[in-vāgbhava](vāgbhave) [o-goddess](devi) [nityakledinī](nityakledini) [and](ca) [one-should-write](ālikhet)
-
+[vāgbhava](vāgbhave) [goddess](devi) [ever-moist](nityakledini) [write](cālikhet)
 ## mukta-m0-p81-v2005
-[left+eye+dot+nāda+ending](vāma+akṣi+bindu+nāda+antān) [tāra+seed](tāra+bījaṃ) [then](tato) [one-should-write](likhet)
-
+[vāma-eye-bindu-nāda-end](vāmākṣibindunādāntān) [tāra-bīja](tārabījaṃ) [then](tato) [write](likhet)
 ## mukta-m0-p81-v2006
-[declared](ākhyātaṃ) [deity](devatā) [life-giving](jīvanī) [should-be](bhavet)
-
+[declared](ākhyātaṃ) [deity](devatā) [life-giving](jīvanī) [become](bhavet)
 ## mukta-m0-p81-v2007
-[seer+etc](ṛṣi+ādi) [goddess](devī) [kāmeśvarī](kāmeśvarī) [regarded](matā)
-
+[ṛṣi-etc](ṛṣyādi) [goddess](devī) [kāmeśvarī](kāmeśvarī) [regarded](matā)
 ## mukta-m0-p81-v2008
-[ca-group+final+devoid](ca+varga+antya+hīnaṃ) [indeed](tu) [one-should-write](vilikhet) [fire+situated](vahni+saṃsthitam)
-
+[cavarga-final-less](cavargamantyahīnaṃ) [then](tu) [write-fire-placed](vilikhedvahnisaṃsthitam)
 ## mukta-m0-p81-v2009
-[should-be](syād) [bhareṇḍā](bhareṇḍā) [deity](devatā) [should-be](bhavet)
-
+[be-bhareṇḍā](syād) [deity](devatā) [become](bhavet)
 ## mukta-m0-p81-v2010
-[parā](parāṃ) [having-written](vilikhya) [fire+at-end](vahni+ante) [to-vāsinī](vāsinyai) [salutation](nama) [thus](iti) [also](api)
-
+[supreme](parāṃ) [write](vilikhya) [fire-end](vahnyante) [to-vāsinī](vāsinyai) [salutation](nama) [thus](ityapi)
 ## mukta-m0-p81-v2011
-[vasiṣṭha](vasiṣṭhaḥ) [should-be](syāt) [gāyatra](gāyatraṃ) [meter](chanda) [is-stated](ucyate)
-
+[vasiṣṭha](vasiṣṭhaḥ) [be-gāyatrī](syādgāyatraṃ) [meter](chanda) [called](ucyate)
 ## mukta-m0-p81-v2012
-[how](kathaṃ) [(pharaiṃ)]((pharaiṃ)) [māyā](māyā) [moon+seed](candra+bījaṃ) [with-visarga](visarga+vat)
-
+[how](kathaṃ) [phraiṃ](pharaiṃ) [māyā](māyā) [moon-bīja](candrabījaṃ) [with-visarga](visargavat)
 ## mukta-m0-p81-v2013
-[gāyatra+thus+stated](gāyatram+iti+uktaṃ) [goddess+vajreśvarī](devī+vajreśvarī) [should-be](bhavet)
-
+[gāyatrī](gāyatramityuktaṃ) [goddess-vajreśvarī](devīvajreśvarī) [become](bhavet)
 ## mukta-m0-p81-v2014
-[meter](chandaḥ) [in-this](asyāṃ) [deity+declared](devatā+īritā)
-
+[meter-her](chando'syāṃ) [deity-thus](devateritā)
 ## mukta-m0-p81-v2015
-[gāyatrī](gāyatrī) [meter](chanda) [is-stated](ucyate)
-
+[gāyatrī](gāyatrī) [meter](chanda) [called](ucyate)
 ## mukta-m0-p81-v2016
-[desire+granting](kāma+daḥ) [jewel](maṇiḥ)
-
+[desire-giving](kāmado) [jewel](maṇiḥ)
 ## mukta-m0-p81-v2017
-[mantra](manuṃ) [one-should-write](ālikhet)
-
+[mantra-write](manumālikhet)
 ## mukta-m0-p81-v2018
-[proclaimed](proktā) [for-worshippers](bhajatāṃ) [desire+granting](kāma+daḥ) [jewel](maṇiḥ)
-
+[declared](proktā) [worshippers](bhajatāṃ) [desire-giving](kāmado) [jewel](maṇiḥ)
 ## mukta-m0-p81-v2019
-[divisions](bhedāḥ) [not+stated](na+uktāḥ) [elaboration+reason](vistara+kāraṇāt)
-
+[differences](bhedā) [not-spoken](noktā) [detail-reason](vistarakāraṇāt)
 ## mukta-m0-p81-v2020
-[bhuvaneśānī+seed](bhuvaneśānī+bījaṃ) [that](tad) [vāgbhava](vāgbhavaṃ) [should-be](bhavet)
-
+[bhuvaneśānī-bīja](bhuvaneśānībījaṃ) [that](tad) [vāgbhava](vāgbhavaṃ) [become](bhavet)
 ## mukta-m0-p81-v2021
-[devoid+of-first+and-lower](rahitam+ādya+adhaḥ) [madana+syllable](madana+akṣaram)
-
+[devoid-first-down](rahitamādyādho) [madana-letter](madanākṣaram)
 ## mukta-m0-p81-v2022
-[kāma+seed](kāma+bījaṃ) [greatly+prosperous](mahā+udayam)
-
+[desire-bīja](kāmabījaṃ) [great-rise](mahodayam)
 ## mukta-m0-p81-v2023
-[only](kevalaṃ) [indeed](tu) [having-employed](viniyojya) [o-fair-faced-one](vara+ānane)
-
+[only](kevalaṃ) [then](tu) [employ](viniyojya) [fair-faced](varānane)
 ## mukta-m0-p81-v2024
-[purasundarī](purasundarī)
-
+[city-beauty](purasundarī)
 ## mukta-m0-p81-v2025
-[of-first](prathamāyāḥ) [indeed](tu) [of-vidyā](vidyāyāḥ) [śakti](śaktiṃ) [fourth](turyaṃ) [and](ca) [o-beautiful-one](sundari)
+[first-vidyā](prathamāyāstu) [vidyā](vidyāyāḥ) [śakti](śaktiṃ) [fourth](turyañca) [beautiful](sundari)

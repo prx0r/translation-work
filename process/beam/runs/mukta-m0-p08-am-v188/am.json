@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p08",
  "verse": 188,
- "question": "What powers are attributed to the goddess Mahātripurasundarī in this declaration?",
+ "question": "What is held in the hands along with arrow and trident?",
  "premises": [
-  "The goddess is named Mahātripurasundarī.",
-  "She is described as slaying enemies.",
-  "She is described as granting accomplishment."
+  "arrow-trident is locative",
+  "and is stated",
+  "skull is object",
+  "holding is stated",
+  "with-hands is stated"
  ],
- "inference": "Mahātripurasundarī is declared to slay enemies and grant accomplishment.",
- "uncertainties": [],
- "plain_english": "The goddess Mahātripurasundarī slays enemies and grants accomplishment."
+ "inference": "The skull is held in the hands along with arrow and trident.",
+ "uncertainties": [
+  "exact iconographic form"
+ ],
+ "plain_english": "The skull is held in the hands along with arrow and trident."
 }

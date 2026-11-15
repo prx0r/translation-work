@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p11",
  "verse": 261,
- "question": "Who is the famous song mother goddess?",
+ "question": "What will be spoken about guru and disciple?",
  "premises": [
-  "song mother goddess is named",
-  "goddess is named",
-  "Matangi is named"
+  "speaker will speak",
+  "topic is characteristics",
+  "guru and disciple are paired",
+  "the verse announces the topic"
  ],
- "inference": "Matangi is the famous song mother goddess.",
+ "inference": "The speaker will describe the characteristics of guru and disciple.",
  "uncertainties": [
-  "exact epithet scope"
+  "whether both or their relation is primary"
  ],
- "plain_english": "The goddess Matangi is the famous song mother goddess."
+ "plain_english": "I will speak the characteristics of guru and disciple."
 }

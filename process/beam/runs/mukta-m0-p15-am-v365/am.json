@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 365,
- "question": "How is the goddess's adorned and bodily form described in this meditation?",
+ "question": "What secluded places include bilva root and mountain bank?",
  "premises": [
-  "She is beautiful with various ornaments.",
-  "Her breasts are described as full, raised, and firm.",
-  "These features define her visualized form."
+  "secluded places are listed",
+  "bilva root is one",
+  "mountain bank is one"
  ],
- "inference": "The goddess is contemplated as beautifully adorned and possessing a full, firm form.",
- "uncertainties": [],
- "plain_english": "She is beautiful with various ornaments and has full, raised, firm breasts."
+ "inference": "Secluded places include bilva root and mountain bank.",
+ "uncertainties": [
+  "exact list scope"
+ ],
+ "plain_english": "Secluded places: bilva root and mountain bank."
 }

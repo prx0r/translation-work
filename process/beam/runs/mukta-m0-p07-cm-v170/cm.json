@@ -3,29 +3,44 @@
  "verse": 170,
  "rows": [
   {
-   "lemma": "evaṃ",
+   "lemma": "sva",
+   "morph": "compound",
+   "grounds": "compound first member"
+  },
+  {
+   "lemma": "varga",
+   "morph": "compound",
+   "grounds": "compound member"
+  },
+  {
+   "lemma": "sthāḥ",
+   "morph": "f.nom.pl.part",
+   "grounds": "feminine plural participle"
+  },
+  {
+   "lemma": "nāda",
+   "morph": "compound",
+   "grounds": "compound first member"
+  },
+  {
+   "lemma": "jāḥ",
+   "morph": "f.nom.pl.part",
+   "grounds": "feminine plural participle"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "summarizes the preceding exposition"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "bījatrayaṃ",
-   "morph": "compound: bīja+traya, n.nom.sg",
-   "grounds": "identifies the triad of seed syllables"
+   "lemma": "kalāḥ",
+   "morph": "f.nom.pl",
+   "grounds": "plural feminine noun"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address to the goddess"
-  },
-  {
-   "lemma": "vidyānāṃ",
-   "morph": "f.gen.pl",
-   "grounds": "genitive indicating the domain of vidyās"
-  },
-  {
-   "lemma": "sārasaṃgraham",
-   "morph": "compound: sāra+saṃgraha, m.acc.sg",
-   "grounds": "describes the triad as the essence of the vidyās"
+   "lemma": "kramāt",
+   "morph": "m.abl.sg",
+   "grounds": "ablative of sequence"
   }
  ]
 }
