@@ -2,25 +2,25 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[beautiful-form](surūpāya)[obeisance](namaḥ) [splendor](tejase)[obeisance](namaḥ) [splendor+making+treasure](tejaskara)[-](nidhaye)[obeisance](namaḥ)
+[beautiful-form](surūpāya)[obeisance](namaḥ) [splendor](tejase)[obeisance](namaḥ) [splendor+making+treasure](tejaskaranidhaye)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2952
-[having-turban](uṣṇīṣiṇe)[obeisance](namaḥ) [beautiful-faced](suvaktrāya)[obeisance](namaḥ) [lofty](udagrāya)[obeisance](namaḥ)
+[wearing-turban](uṣṇīṣiṇe)[obeisance](namaḥ) [beautiful-faced](suvaktrāya)[obeisance](namaḥ) [lofty](udagrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2953
 [bent](vinatāya)[obeisance](namaḥ) [long](dīrgghāya)[obeisance](namaḥ) [tawny-haired](harikeśāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2954
-[accomplished-purpose](siddhārtthāya)[obeisance](namaḥ) [shaven-headed](muṇḍāya)[obeisance](namaḥ)
+[accomplished-purpose](siddhārtthāya)[obeisance](namaḥ) [shaven-headed](muṇḍāya)[obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p119-v2955
 [all+auspicious+making](sarvaśubhaṃkarāya)[obeisance](namaḥ) [unborn](ajāya)[obeisance](namaḥ) [many-formed](bahurūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2956
-[fragrance+bearing](gandhadhāriṇe)[obeisance](namaḥ) [matted-haired](kaparddine)[obeisance](namaḥ)
+[fragrance+bearing](gandhadhāriṇe)[obeisance](namaḥ) [matted-haired](kaparddine)[obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p119-v2957
-[upward+semen](urddhvaretase)[obeisance](namaḥ) [upward+mark](urddhvaliṅgāya)[obeisance](namaḥ)
+[upward+semen](urddhvaretase)[obeisance](namaḥ) [upward+mark](urddhvaliṅgāya)[obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p119-v2958
 [upward+lying](urddhvaśāyine)[obeisance](namaḥ) [sky+abiding](nabhasthalāya)[obeisance](namaḥ) [three-braided](trijaṭāya)[obeisance](namaḥ)
@@ -35,19 +35,19 @@
 [demon+slayer](daityaghne)[obeisance](namaḥ) [time](kālāya)[obeisance](namaḥ) [world+sustainer](lokadhātre)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2962
-[quality+mine](guṇākarāya)[obeisance](namaḥ)
+[quality+mine](guṇākarāya)[obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p119-v2963
-[lion+tiger+form](siṃhaśārddūlarūpāya)[obeisance](namaḥ)
+[lion+tiger+form](siṃhaśārddūlarūpāya)[obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p119-v2964
-[wet+skin+garment+covered](ārddracarmāmbarāvṛtāya)[obeisance](namaḥ) [time+yogin](kālayogine)[obeisance](namaḥ)
+[wet+skin+garment+covered](ārddracarmāmbarāvṛtāya)[obeisance](namaḥ) [time+yogin](kālayogine)[obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p119-v2965
-[night+moving](niśācarāya)[obeisance](namaḥ) [ghost+wandering](pretacāriṇe)[obeisance](namaḥ)
+[night+roaming](niśācarāya)[obeisance](namaḥ) [ghost+wandering](pretacāriṇe)[obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p119-v2966
-[going](gataye)[obeisance](namaḥ) [dance+fond](nṛtyapriyāya)[obeisance](namaḥ) [eternal+dancer](nityanarttāya)[obeisance](namaḥ)
+[motion](gataye)[obeisance](namaḥ) [dance+fond](nṛtyapriyāya)[obeisance](namaḥ) [eternal+dancer](nityanarttāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2967
 [dancer](narttakāya)[obeisance](namaḥ) [all+sportive](sarvalālasāya)[obeisance](namaḥ) [terrible](ghorāya)[obeisance](namaḥ)
@@ -56,16 +56,16 @@
 [great+austerity](mahātapase)[obeisance](namaḥ) [noose](pāśāya)[obeisance](namaḥ) [eternal](nityāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2969
-[mountain+dwelling](giriruhāya)[obeisance](namaḥ) [sky](nabhasen)[obeisance](namaḥ) [thousand+handed](sahasrahastāya)[obeisance](namaḥ)
+[mountain+dwelling](giriruhāya)[obeisance](namaḥ) [sky](nabhasenamaḥ) [thousand+handed](sahasrahastāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2970
 [victory](vijayāya)[obeisance](namaḥ) [endeavor](vyavasāyāya)[obeisance](namaḥ) [unwearied](atandritāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2971
-[unassailable](adharṣaṇāya)[obeisance](namaḥ) [assailing+self](dharṣaṇātmane)[obeisance](namaḥ) [sacrifice+slayer](yajñaghne)[obeisance](namaḥ)
+[unassailable](adharṣaṇāya)[obeisance](namaḥ) [assailing+nature](dharṣaṇātmanenamaḥ) [sacrifice+slayer](yajñaghne)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2972
-[desire+destroyer](kāmanāśakāya)[obeisance](namaḥ) [Dakṣa+sacrifice+remover](dakṣayāgāpahāriṇe)[obeisance](namaḥ)
+[desire+destroyer](kāmanāśakāya)[obeisance](namaḥ) [Dakṣa+sacrifice+remover](dakṣayāgāpahāriṇe)[obeisance](namaḥ) [obeisance](namaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p119-v2973
 [very+enduring](susahāya)[obeisance](namaḥ) [middle](madhyamāya)[obeisance](namaḥ) [splendor+remover](tejopahāriṇe)[obeisance](namaḥ)

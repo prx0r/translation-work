@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p120-v2976
-[to-deep-one](gabhīrāya)[obeisance](namaḥ) [to-deep+strength+vehicle-one](gambhīra+bala+vāhanāya)[obeisance](namaḥ)
+[to-the-profound](gabhīrāya)[obeisance](namaḥ) [to-him-whose-mount-is-of-deep-strength](gambhīra+bala+vāhanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2977
-[to-banyan+form-one](nyagrodha+rūpāya)[obeisance](namaḥ) [to-banyan-one](nyagrodhāya)[obeisance](namaḥ)
+[to-him-of-banyan-form](nyagrodha+rūpāya)[obeisance](namaḥ) [to-the-banyan](nyagrodhāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2978
-[to-tree+ear+standing-one](vṛkṣa+karṇa+sthitaye)[obeisance](namaḥ) [to-mighty-one](vibhave)[obeisance](namaḥ)
+[to-him-standing-in-tree-ears](vṛkṣa+karṇa+sthitaye)[obeisance](namaḥ) [to-the-mighty](vibhave)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2979
-[to-very+sharp+toothed-one](su+tīkṣṇa+daśanāya)[obeisance](namaḥ) [to-great+bodied-one](mahā+kāyāya)[obeisance](namaḥ)
+[to-him-of-very-sharp-teeth](su+tīkṣṇa+daśanāya)[obeisance](namaḥ) [to-the-great-bodied](mahā+kāyāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2980
-[to-great+faced-one](mahā+nanāya)[obeisance](namaḥ) [to-viṣvaksena](viṣvaksenāya)[obeisance](namaḥ) [to-hari](haraye)[obeisance](namaḥ)
+[to-the-great-faced](mahā+ānanāya)[obeisance](namaḥ) [to-viṣvaksena](viṣvaksenāya)[obeisance](namaḥ) [to-hari](haraye)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2981
-[to-sacrifice](yajñāya)[obeisance](namaḥ) [to-battle+crest+vehicle-one](sa/yyugā+pīḍa+vāhanāya)[obeisance](namaḥ)
+[to-the-sacrifice](yajñāya)[obeisance](namaḥ) [to-him-whose-mount-is-adorned-for-battle](sa/yyugāpīḍa+vāhanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2982
-[to-sharp+heat-one](tīkṣṇa+tāpāya)[obeisance](namaḥ) [to-tawny+horsed-one](harya+śvāya)[obeisance](namaḥ)
+[to-him-of-fierce-heat](tīkṣṇa+tāpāya)[obeisance](namaḥ) [to-him-of-tawny-horses](harya+śvāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2983
-[to-companion](p. 461) sahāyāya)[obeisance](namaḥ) [to-action+time+knower](karma+kāla+vide)[obeisance](namaḥ)
+[to-the-helper](p.) [to-the-helper](sahāyāya)[obeisance](namaḥ) [to-the-knower-of-the-time-of-action](karma+kāla+vide)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2984
-[to-viṣṇu+propitiated-one](viṣṇu+prasāditāya)[obeisance](namaḥ) [to-sacrifice](yajñāya)[obeisance](namaḥ) [to-ocean](samudrāya)[obeisance](namaḥ)
+[to-him-propitiated-by-viṣṇu](viṣṇu+prasāditāya)[obeisance](namaḥ) [to-the-sacrifice](yajñāya)[obeisance](namaḥ) [to-the-ocean](samudrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2985
-[to-mare+faced-one](vaḍavā+mukhāya)[obeisance](namaḥ) [to-oblation+eater+companion](hutāśana+sahāyāya)[obeisance](namaḥ)
+[to-the-mare-faced](vaḍavā+mukhāya)[obeisance](namaḥ) [to-him-whose-helper-is-fire](hutāśana+sahāyāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2986
-[to-tranquil+self-one](praśānta+ātmane)[obeisance](namaḥ) [to-oblation+eater](hutāśanāya)[obeisance](namaḥ) [to-fierce+splendor-one](ugra+tejase)[obeisance](namaḥ)
+[to-the-tranquil-souled](praśānta+ātmane)[obeisance](namaḥ) [to-the-fire](hutāśanāya)[obeisance](namaḥ) [to-him-of-fierce-splendor](ugra+tejasenamaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p120-v2987
-[to-great+splendor-one](mahā+tejase)[obeisance](namaḥ) [to-begetting-one](janyāya)[obeisance](namaḥ) [to-victory+time+knower](vijaya+kāla+vide)[obeisance](namaḥ)
+[to-him-of-great-splendor](mahā+tejasenamaḥ) [obeisance](namaḥ) [to-the-progenitor](janyāya)[obeisance](namaḥ) [to-the-knower-of-the-time-of-victory](vijaya+kāla+vide)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2988
-[to-luminaries+course](jyotiṣām+ayanāya)[obeisance](namaḥ) [to-accomplished-one](siddhaye)[obeisance](namaḥ)
+[to-the-course-of-the-luminaries](jyotiṣām+ayanāya)[obeisance](namaḥ) [to-the-accomplished](siddhaye)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2989
-[to-all+formed-one](sarva+vigrahāya)[obeisance](namaḥ) [to-crested-one](śikhine)[obeisance](namaḥ) [to-shaven-one](muṇḍine)[obeisance](namaḥ)
+[to-him-of-all-forms](sarva+vigrahāya)[obeisance](namaḥ) [to-the-flame-crested](śikhine)[obeisance](namaḥ) [to-the-shaven-headed](muṇḍine)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2990
-[to-matted-hair-one](jaṭine)[obeisance](namaḥ) [to-flaming-one](jvāline)[obeisance](namaḥ) [to-form+born-one](mūrtti+jāya)[obeisance](namaḥ)
+[to-the-matted-haired](jaṭine)[obeisance](namaḥ) [to-the-blazing](jvāline)[obeisance](namaḥ) [to-the-embodied](mūrtti+jāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2991
-[to-upward+going-one](mūrddhva+gāya)[obeisance](namaḥ) [to-mighty-one](baline)[obeisance](namaḥ) [to-flute-player](veṇavine)[obeisance](namaḥ)
+[to-him-going-upward](mūrddhva+gāya)[obeisance](namaḥ) [to-the-powerful](baline)[obeisance](namaḥ) [to-the-flute-player](veṇavine)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2992
-[to-drum-player](paṇavine)[obeisance](namaḥ) [to-cymbal-player](tāline)[obeisance](namaḥ) [to-threshing-floor-one](khaline)[obeisance](namaḥ)
+[to-the-drum-player](paṇavine)[obeisance](namaḥ) [to-the-cymbal-player](tāline)[obeisance](namaḥ) [to-the-thresher](khaline)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2993
-[to-time+kaṭaṅkaṭa-one](kāla+kaṭaṅkaṭāya)[obeisance](namaḥ) [to-constellation+body+minded-one](nakṣatra+vigraha+mataye)[obeisance](namaḥ)
+[to-him-of-time-and-destruction](kāla+kaṭaṅkaṭāya)[obeisance](namaḥ) [to-him-whose-mind-is-on-the-constellation-forms](nakṣatra+vigraha+mataye)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2994
-[to-quality+intellect-one](guṇa+buddhaye)[obeisance](namaḥ) [to-dissolution](layāya)[obeisance](namaḥ) [to-tradition](āgamāya)[obeisance](namaḥ)
+[to-him-of-qualified-intellect](guṇa+buddhaye)[obeisance](namaḥ) [to-dissolution](layāya)[obeisance](namaḥ) [to-the-tradition](āgamāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2995
-[to-all+going-one](sarva+gāya)[obeisance](namaḥ) [to-faceless-one](amukhāya)[obeisance](namaḥ) [to-liberator](vimocanāya)[obeisance](namaḥ)
+[to-the-all-going](sarvagāya)[obeisance](namaḥ) [to-the-faceless](amukhāya)[obeisance](namaḥ) [to-the-liberator](vimocanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2996
-[to-good+refuge-one](su+saraṇāya)[obeisance](namaḥ) [to-golden+armor+born-one](hiraṇya+kavaca+udbhavāya)[obeisance](namaḥ)
+[to-him-of-good-refuge](su+saraṇāya)[obeisance](namaḥ) [to-him-born-of-golden-armor](hiraṇya+kavaca+udbhavāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2997
-[to-flowing-one](srutāya)[obeisance](namaḥ) [to-all+instrument+resounding-one](sarva+tūrya+ninādine)[obeisance](namaḥ)
+[to-the-flowing](srutāya)[obeisance](namaḥ) [to-him-sounding-with-all-instruments](sarva+tūrya+ninādine)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2998
-[to-all+percussion+possessing-one](sarva+todya+parigrahāya)[obeisance](namaḥ) [to-serpent+form-one](vyāla+rūpāya)[obeisance](namaḥ)
+[to-him-possessing-all-musical-instruments](sarva+todya+parigrahāya)[obeisance](namaḥ) [to-him-of-serpent-form](vyāla+rūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2999
-[to-cave+dwelling-one](guhā+vāsine)[obeisance](namaḥ) [to-cave](guhāya)[obeisance](namaḥ) [to-garlanded-one](māline)[obeisance](namaḥ)
+[to-the-cave-dweller](guhā+vāsine)[obeisance](namaḥ) [to-the-cave](guhāya)[obeisance](namaḥ) [to-the-garlanded](māline)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v3000
-[to-wave+knower](taraṅga+vide)[obeisance](namaḥ) [to-thirty-one](tridaśāya)[obeisance](namaḥ) [to-three+time+bold-one](tri+kāla+dhṛṣe)[obeisance](namaḥ)
+[to-the-knower-of-waves](taraṅga+vide)[obeisance](namaḥ) [to-the-thirty-gods](tridaśāya)[obeisance](namaḥ) [to-him-bold-in-the-three-times](tri+kāla+dhṛṣe)[obeisance](namaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[bow](pinākam) [bearing](bibhrat) [come](āgahi)
+[bow-pināka](pinākam) +[bearing](bibhrat) +[hither](ā) +[come](gahi)
 
 ## mukta-m0-p117-v2902
-[which](yā) [your](te) [thousand](sahasraṃ) [weapons](hetayaḥ) [other](anyam) [than-us](asmat) [let-cast-down](nivapantu) [they](tāḥ)
+[which](yāḥ) +[your](te) [thousand](sahasraṃ) [weapons](hetayaḥ) +[another](anyam) +[than-us](asmāt) +[let-cast-down](nivapantu) [them](tāḥ)
 
 ## mukta-m0-p117-v2903
-[of-them](tāsām) [O-lord](īśānaḥ) [O-venerable-one](bhagavaḥ) [turned-away](parācīnā) [faces](mukhā) [make](kṛdhi)
+[of-them](tāsām) +[O-lord](īśānaḥ) [O-venerable-one](bhagavaḥ) [turned-away](parācīnā) [faces](mukhā) [make](kṛdhi)
 
 ## mukta-m0-p117-v2904
-[of-them](teṣām) [thousand](sahasra) [yojanas-away](yojane) [off](ava) [bows](dhanvāni) [we-unstring](tanmasi)
+[of-them](teṣā/) [at-thousand-yojanas](sahasrayojane) +[indeed](ava) [bows](dhanvāni) [we-unstring](tanmasi)
 
 ## mukta-m0-p117-v2905
-[with-offspring](prajāvantaḥ) [may-we-be-associated](sacemahi)
+[with-offspring](prajāvantaḥ) [may-we-be-united](sacemahi) [with-you](tvayā) [O-Rudra](rudra)
 
 ## mukta-m0-p117-v2906
-[portion](bhāgaḥ) [indeed](khalu) [your](te) [cattle](paśuḥ)
+[O-Bhaga](bhāga) [indeed](') +[yours](ākhuste) [cattle](paśuḥ)
 
 ## mukta-m0-p117-v2907
-[as](yathā) [for-us](naḥ) [better](vasyas) [may-he-make](kaskarat) [as](yathā) [for-us](naḥ) [greater-good](śreyas) [may-he-make](kaskarat) [as](yathā) [for-us](naḥ) [may-he-determine](vyavasāyayāt)
+[so-that](yathā) [for-us](naḥ) [better](vasyas) +[may-make](askarad) +[so-that](yathā) [for-us](naḥ) [welfare](śreyas) +[may-make](askarad) +[so-that](yathā) [for-us](naḥ) [may-determine](vyavasāyayāt)
 
 ## mukta-m0-p117-v2908
-[happiness](sukham) [for-ram](meṣāya) [for-ewe](meṣyai)
+[happiness](sukham) +[to-me](me) +[for-this-ram](eṣāya) [for-this-ewe](meṣyai)
 
 ## mukta-m0-p117-v2909
-[like-cucumber](urvārukam) [from-bondage](bandhanāt) [from-here](itaḥ) [may-I-be-released](mukṣīya) [not](mā) [from-there](amutaḥ)
+[cucumber](urvārukam) +[like](iva) [from-bondage](bandhanāt) +[from-here](itaḥ) [may-I-be-released](mukṣīya) [not](mā) +[from-there](amutaḥ)
 
 ## mukta-m0-p117-v2910
-[this](etat) [your](te) [O-Rudra](rudra) [with-favor](avasantena) [beyond](paraḥ) [Mūjavat-mountains](mūjavataḥ) [go-away](atīhi)
+[this](etat) +[your](te) [O-Rudra](rudra) +[with-dwelling](avasantena) [beyond](paraḥ) [Mūjavat-mountains](mūjavataḥ) +[go-beyond](atīhi)
 
 ## mukta-m0-p117-v2911
-[which](yat) [among-gods](deveṣu) [triple-life](tryāyuṣam) [that](tat) [for-us](naḥ) [let-be](astu) [triple-life](tryāyuṣam)
+[what](yat) +[among-gods](deveṣu) [triple-lifespan](tryāyuṣam) +[that](tat) +[for-us](naḥ) [let-be](astu) [triple-lifespan](tryāyuṣam)
 
 ## mukta-m0-p117-v2912
-[for-good-heroism](suvīryāya)
+[for-excellent](su) +[heroism](vīryāya) [for-excellent](su) +[heroism](vīryāya)
 
 ## mukta-m0-p117-v2913
-[world+first](vviśva+ādyaḥ) [world+adorable](vviśva+vandyan) [all+fear+remover](nikhila+bhaya+haram) [five+faced](pañca+vaktram) [three+eyed](tri+netram)
+[all-knowing](vviśvādya/) [all-praiseworthy](vviśvavandyam) +[all](nikhila) +[fear](bhaya) +[removing](haram) +[five](pañca) +[faced](vaktram) +[three](tri) +[eyed](netram)
 
 ## mukta-m0-p117-v2914
-[to-the-firm-one](sthirāya) [salutation](namaḥ) [to-Sthāṇu](sthāṇave) [salutation](namaḥ) [to-the-mighty-one](prabhave) [salutation](namaḥ)
+[to-the-firm-one](sthirāya) +[obeisance](namaḥ) [||](||) [1](1) [||](||) [to-the-immovable-one](sthāṇave) +[obeisance](namaḥ) [||](||) [2](2) [||](||) [to-the-lord](prabhave) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2915
-[to-the-terrible-one](bhīmāya) [salutation](namaḥ) [to-the-excellent-one](pravarāya) [salutation](namaḥ) [to-the-boon-giver](varadāya) [salutation](namaḥ)
+[to-the-terrible-one](bhīmāya) +[obeisance](namaḥ) [||](||) [4](4) [||](||) [to-the-excellent-one](pravarāya) +[obeisance](namaḥ) [||](||) [5](5) [||](||) [to-the-boon-giver](varadāya) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2916
-[to-the-chosen-one](varāya) [salutation](namaḥ) [to-the-soul-of-all](sarva+ātmane) [salutation](namaḥ) [to-the-all-renowned-one](sarva+vikhyātāya) [salutation](namaḥ)
+[to-the-chosen-one](varāya) +[obeisance](namaḥ) [||](||) [7](7) [||](||) [to-the-soul-of-all](sarvātmane) +[obeisance](namaḥ) [||](||) [8](8) [||](||) [to-the-all-renowned-one](sarvavikhyātāya) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2917
-[to-the-all](sarvasmai) [salutation](namaḥ) [to-the-maker-of-all](sarva+karāya) [salutation](namaḥ) [to-Bhava](bhavāya) [salutation](namaḥ)
+[to-the-all](sarvasmai) +[obeisance](namaḥ) [||](||) [10](10) [||](||) [to-the-doer-of-all](sarvakarāya) +[obeisance](namaḥ) [||](||) [11](11) [||](||) [to-the-existent-one](bhavāya) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2918
-[to-the-matted-haired-one](jaṭine) [salutation](namaḥ) [to-the-skin-clad-one](carmmiṇe) [salutation](namaḥ) [to-the-tufted-one](śikhaṇḍine) [salutation](namaḥ)
+[to-the-matted-haired-one](jaṭine) +[obeisance](namaḥ) [||](||) [13](13) [||](||) [to-the-skin-clad-one](carmmiṇe) +[obeisance](namaḥ) [||](||) [14](14) [||](||) [to-the-tufted-one](śikhaṇḍine) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2919
-[to-the-all-limbed-one](sarva+aṅgāya) [salutation](namaḥ) [to-the-creator-of-all](sarva+bhāvanāya) [salutation](namaḥ)
+[to-the-all-limbed-one](sarvāṅgāya) +[obeisance](namaḥ) [||](||) [16](16) [||](||) [to-the-creator-of-all](sarvabhāvanāya) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2920
-[to-the-mighty-one](prabhave) [salutation](namaḥ) [to-activity](pravṛttaye) [salutation](namaḥ) [to-withdrawal](nivṛttāya) [salutation](namaḥ)
+[||](||) [to-the-lord](prabhave) +[obeisance](namaḥ) [||](||) [21](21) [||](||) [to-activity](pravṛttaye) +[obeisance](namaḥ) [||](||) [22](22) [||](||) [to-withdrawal](nivṛttāya) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2921
-[to-the-restrained-one](niyatāya) [salutation](namaḥ) [to-the-eternal-one](śāśvatāya) [salutation](namaḥ) [to-the-firm-one](dhruvāya) [salutation](namaḥ)
+[to-the-restrained-one](niyatāya) +[obeisance](namaḥ) [||](||) [24](24) [||](||) [to-the-eternal-one](śāśvatāya) +[obeisance](namaḥ) [||](||) [25](25) [||](||) [to-the-firm-one](dhruvāya) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2922
-[to-the-dweller-in-cremation-grounds](śmaśāna+vāsine) [salutation](namaḥ) [to-the-venerable-one](bhagavate) [salutation](namaḥ) [to-the-sky-mover](kha+carāya) [salutation](namaḥ)
+[to-the-dweller-in-cremation-grounds](śmaśānavāsine) +[obeisance](namaḥ) [||](||) [27](27) [||](||) [to-the-venerable-one](bhagavate) +[obeisance](namaḥ) [||](||) [28](28) [||](||) [to-the-sky-wanderer](khacarāya) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2923
-[to-the-earth-mover](go+carāya) [salutation](namaḥ) [to-the-half-bodied-one](ardda+nāya) [salutation](namaḥ) [to-the-adorable-one](abhivādyāya) [salutation](namaḥ)
+[to-the-earth-wanderer](gocarāya) +[obeisance](namaḥ) [||](||) [30](30) [||](||) [to-the-half-bodied-one](arddanāya) +[obeisance](namaḥ) [||](||) [31](31) [||](||) [to-the-adorable-one](abhivādyāya) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2924
-[to-the-one-of-great-deeds](mahā+karmaṇe) [salutation](namaḥ)
+[to-the-one-of-great-deeds](mahākarmaṇe) +[obeisance](namaḥ) [to-the-one-of-great-deeds](mahākarmaṇe) +[obeisance](namaḥ)
 
 ## mukta-m0-p117-v2925
-[to-the-ascetic](tapasvine) [salutation](namaḥ) [to-the-creator-of-beings](bhūta+bhāvanāya) [salutation](namaḥ)
+[page](p.) [458](458) [)]()) [to-the-ascetic](tapasvine) +[obeisance](namaḥ) [||](||) [34](34) [||](||) [to-the-creator-of-beings](bhūtabhāvanāya) +[obeisance](namaḥ)
