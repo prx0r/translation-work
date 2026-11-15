@@ -88,6 +88,35 @@ several are write-class (`promote`, `assemble`, `onboard`, `burn`,
 
 ---
 
+## D5b — ChatGPT visibility: the public federation is stale AND cannot be repointed yet
+
+**This is the largest gap between "132 works served locally" and a user actually
+reading Tantraloka in ChatGPT.** `scholar__passage_evidence` on
+`https://mcp.svatantrya.net` returns `Passage unavailable or withheld` for
+works that serve fine on-box.
+
+Two separate facts, both verified 2026-11-15:
+
+| | |
+|---|---|
+| local projection index | **146 works** (`/root/svread/data/scholar/index.json`) |
+| public bundle | **55 works**, no Tantraloka, `passage_evidence` fails |
+| local federation bridge | **cannot start** — `mcp_bridge.py` → `model_validate_json` `AttributeError` (`typing.Union`, mcp SDK × Python 3.14) → 0 tools enumerated |
+
+**So a "just repoint the tunnel" fix would make it worse.** Required order:
+1. Fix the bridge runtime (older Python venv, or a patched/`mcp`-pinned SDK).
+   *trika-x lane — I did not edit another lane's repo.*
+2. Green the local check: `passage_evidence('tantraloka-a01','tal-a01-v01')`
+   and `('paramarthasara','param-p01-v01')` must return real Sanskrit from :8940.
+3. Then repoint: GET the remote ingress first (do **not** base it on the local
+   `config.yml`, which is a stale fallback), change only `mcp.svatantrya.net`,
+   PUT per `MCP-ESTATE.md` §6. The other 4 hostnames ride on that same tunnel.
+
+Until then: **ChatGPT cannot read Tantraloka.** The `shastra` endpoint
+(39 tools, healthy) is monitoring/ops, not the reading path.
+
+---
+
 ## D6 — standing owner lane (unchanged)
 
 - Merge PRs **#15** (trika-x), **#48** (svread), **#21** (stale snapshot).

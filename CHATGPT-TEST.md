@@ -92,6 +92,20 @@ failure IS the result — flakiness is data).
 ## 5. Standing knowns (do NOT file as failures)
 
 - Video MCP 401 is the intended Access gate (owner decision pending), not an outage.
-- Public `mcp.svatantrya.net` serves a **stale deployment** (51 tools, old scholar data; the tunnel uses remotely-managed config, so the local `config.yml` does not control it). `T7 unavailable` = redeploy/repoint needed (infra, owner lane) — the on-box federation is green.
+- Public `mcp.svatantrya.net` serves a **stale deployment** (51 tools, old scholar data; the tunnel uses remotely-managed config, so the local `config.yml` does not control it). `T7 unavailable` = redeploy/repoint needed (infra, owner lane).
+  **CORRECTION 2026-11-15 — the on-box federation is NOT green.** Verified by
+  starting it: `trika-x/tools/mcp_bridge.py --port 8940` binds, but its stdio
+  child fails immediately with
+  `mcp/client/stdio/stdout_reader → AttributeError: 'typing.Union' object has no attribute 'model_validate_json'`
+  (mcp SDK vs Python 3.14), so the proxy enumerates **0 tools**. Repointing the
+  tunnel to a local bridge **as-is would take the public endpoint from
+  "stale-but-working" to "down."** Sequence required: (1) fix/pin the bridge
+  runtime (older Python venv or patched mcp SDK — trika-x lane), (2) verify
+  `scholar__passage_evidence` on :8940 returns real Sanskrit for
+  `tantraloka-a01/tal-a01-v01` and `paramarthasara/param-p01-v01`,
+  (3) only then PUT the remote ingress (`MCP-ESTATE.md` §6 recipe — GET current
+  config first, change only this hostname). Until (2) is green, do not repoint.
+  Local works count for reference: `/root/svread/data/scholar/index.json` = **146**;
+  stale public bundle = **55** (no Tantraloka at all).
 - 37 works have no projection yet (unaudited/early burn) and 15 emit empty ones (no proof-complete songs yet / deliberate holds like ghatakarpara) — `served 92/144` already accounts for this.
 - Claim/trace counts grow as the loop drafts; only sudden drops matter.
