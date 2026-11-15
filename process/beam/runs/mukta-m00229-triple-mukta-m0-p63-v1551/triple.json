@@ -1,0 +1,905 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1551,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmaṇamanoḥ",
+     "gloss": "of-lakshmana-manu",
+     "grounds": "genitive singular of lakṣmaṇamanu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kintu",
+     "gloss": "but",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "root yā, present indicative",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "state",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What supreme state does lakshmana-manu attain despite the killing and related rites?",
+   "premises": [
+    "lakshmana-manu goes to a supreme state",
+    "the rites include killing and related actions",
+    "the result is not ordinary worldly attainment"
+   ],
+   "inference": "The verse states that lakshmana-manu reaches the supreme state.",
+   "uncertainties": [
+    "The exact referent of lakṣmaṇamanu is not specified in this excerpt."
+   ],
+   "plain_english": "Thus lakshmana-manu goes to the supreme state."
+  },
+  {
+   "verse": 1552,
+   "rows": [
+    {
+     "surface": "māraṇādirudāhṛtaḥ",
+     "gloss": "killing-etc-described",
+     "grounds": "compound of māraṇa, ādi, and udāhṛta",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of rites are being described in this context?",
+   "premises": [
+    "the compound names killing and related rites",
+    "it is presented as described",
+    "it qualifies the preceding discussion"
+   ],
+   "inference": "The verse identifies the rites as killing and related actions.",
+   "uncertainties": [
+    "The full list after ādi is not given here."
+   ],
+   "plain_english": "Killing and the rest are described."
+  },
+  {
+   "verse": 1553,
+   "rows": [
+    {
+     "surface": "prayogakartṝṇāṃ",
+     "gloss": "for-practitioners",
+     "grounds": "genitive plural of prayogakartṛ",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paraloko",
+     "gloss": "other-world",
+     "grounds": "nominative singular of paraloka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "root vid, present passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Is there another world for those who perform these rites?",
+   "premises": [
+    "practitioners perform the rites",
+    "no other world exists for them",
+    "the statement is categorical"
+   ],
+   "inference": "The verse denies an other world for practitioners.",
+   "uncertainties": [
+    "Whether this means no post-death realm or no separate result is not clarified."
+   ],
+   "plain_english": "For practitioners, no other world exists."
+  },
+  {
+   "verse": 1554,
+   "rows": [
+    {
+     "surface": "bhaviṣyatīti",
+     "gloss": "will-be-thus",
+     "grounds": "future of bhū plus iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatarabādhā",
+     "gloss": "either-obstruction",
+     "grounds": "nominative singular of anyatarabādhā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "root bhū, future indicative",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "What necessarily follows if one of two obstructions must occur?",
+   "premises": [
+    "either obstruction will occur",
+    "the outcome is necessary",
+    "the future result is asserted"
+   ],
+   "inference": "The verse states that one obstruction will necessarily occur.",
+   "uncertainties": [
+    "The two obstructions are not named in this excerpt."
+   ],
+   "plain_english": "Either obstruction will necessarily occur."
+  },
+  {
+   "verse": 1555,
+   "rows": [
+    {
+     "surface": "svīkāryaṃ",
+     "gloss": "to-be-accepted",
+     "grounds": "gerundive of svīkṛ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niṣiddha",
+     "gloss": "forbidden",
+     "grounds": "past participle of niṣidh",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣayaṃ",
+     "gloss": "object",
+     "grounds": "accusative singular of viṣaya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter nominative or accusative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What must be accepted regarding a forbidden object?",
+   "premises": [
+    "the forbidden object is at issue",
+    "it must be accepted",
+    "the statement is emphatic"
+   ],
+   "inference": "The verse says that forbidden object must be accepted.",
+   "uncertainties": [
+    "The exact forbidden object is not specified here."
+   ],
+   "plain_english": "That forbidden object must indeed be accepted."
+  },
+  {
+   "verse": 1556,
+   "rows": [
+    {
+     "surface": "nānāvidhavacobādhābhayena",
+     "gloss": "various-speech-obstruction-fear",
+     "grounds": "instrumental singular of a compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "parikalpyate",
+     "gloss": "is-imagined",
+     "grounds": "root kalp, present passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is the forbidden object imagined in this way?",
+   "premises": [
+    "fear of various speech obstructions motivates it",
+    "the object is imagined",
+    "the construction is passive"
+   ],
+   "inference": "The verse says it is imagined out of fear of speech obstructions.",
+   "uncertainties": [
+    "The precise speech obstructions are not listed."
+   ],
+   "plain_english": "Out of fear of various speech obstructions, it is imagined."
+  },
+  {
+   "verse": 1557,
+   "rows": [
+    {
+     "surface": "yatastadanyathābhūtaṃ",
+     "gloss": "since-that-otherwise-become",
+     "grounds": "compound with yatas and tadanyathābhūta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tata eva",
+     "gloss": "thence-indeed",
+     "grounds": "indeclinable phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "complete",
+     "grounds": "root samāp, optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be completed once the matter has become otherwise?",
+   "premises": [
+    "the matter has become otherwise",
+    "completion follows from that",
+    "the optative expresses prescription"
+   ],
+   "inference": "The verse prescribes completing it from that point.",
+   "uncertainties": [
+    "The exact completion is not specified."
+   ],
+   "plain_english": "Since it has become otherwise, complete it thence."
+  },
+  {
+   "verse": 1558,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "root kṛ, optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nāvṛttiḥ",
+     "gloss": "no-return",
+     "grounds": "nominative singular of nāvṛtti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvakarmaṇaḥ",
+     "gloss": "all-actions",
+     "grounds": "genitive singular of sarvakarman",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What is said about return after all actions?",
+   "premises": [
+    "one should act",
+    "there is no return",
+    "this concerns all actions"
+   ],
+   "inference": "The verse says there is no return from all actions.",
+   "uncertainties": [
+    "Whether this means no repetition or no rebirth is not clarified."
+   ],
+   "plain_english": "One should act; there is no return from all actions."
+  },
+  {
+   "verse": 1559,
+   "rows": [
+    {
+     "surface": "tadaṅgasya",
+     "gloss": "of-that-limb",
+     "grounds": "genitive singular of tadaṅga",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ākriyā",
+     "gloss": "non-action",
+     "grounds": "nominative singular of ākriyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāntu",
+     "gloss": "let-go",
+     "grounds": "root yā, imperative",
+     "morph": "3.pl.act-imp"
+    },
+    {
+     "surface": "santu",
+     "gloss": "be",
+     "grounds": "root as, imperative",
+     "morph": "3.pl.act-imp"
+    },
+    {
+     "surface": "nāvṛttiḥ",
+     "gloss": "no-return",
+     "grounds": "nominative singular of nāvṛtti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkriyā",
+     "gloss": "that-action",
+     "grounds": "nominative singular of tatkriyā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What happens to action and non-action of that limb?",
+   "premises": [
+    "non-action of that limb is mentioned",
+    "let them go and be",
+    "there is no return for that action"
+   ],
+   "inference": "The verse distinguishes non-action of the limb from the action itself.",
+   "uncertainties": [
+    "The exact limb is not identified."
+   ],
+   "plain_english": "Let non-action of that limb go and be; there is no return for that action."
+  },
+  {
+   "verse": 1560,
+   "rows": [
+    {
+     "surface": "śrameṇāpi",
+     "gloss": "by-effort-even",
+     "grounds": "instrumental singular of śrama plus api",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "nominative singular of siddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samīhitā",
+     "gloss": "desired",
+     "grounds": "past participle of samīh",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Can desired success be attained by effort alone?",
+   "premises": [
+    "effort is considered",
+    "desired success is denied",
+    "the denial is emphatic"
+   ],
+   "inference": "The verse says desired success is not attained by effort alone.",
+   "uncertainties": [
+    "The kind of effort is not specified."
+   ],
+   "plain_english": "Even by effort, desired success is not attained."
+  },
+  {
+   "verse": 1561,
+   "rows": [
+    {
+     "surface": "siddhaikamantrasya",
+     "gloss": "of-accomplished-single-mantra",
+     "grounds": "genitive singular of siddhaikamantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāsādhyaṃ",
+     "gloss": "nothing-unattainable",
+     "grounds": "neuter nominative or accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "root vid, present passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is unattainable for one with an accomplished single mantra?",
+   "premises": [
+    "the practitioner has an accomplished single mantra",
+    "nothing is unattainable",
+    "this holds ever"
+   ],
+   "inference": "The verse says nothing is unattainable for such a practitioner.",
+   "uncertainties": [
+    "The scope of kvacit is not further defined."
+   ],
+   "plain_english": "For one with an accomplished single mantra, nothing is ever unattainable."
+  },
+  {
+   "verse": 1562,
+   "rows": [
+    {
+     "surface": "vīrasādhanāṃ",
+     "gloss": "heroic-sadhana",
+     "grounds": "accusative singular of vīrasādhanā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "susamāhitaḥ",
+     "gloss": "well-attentive",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is fit to undertake heroic sadhana?",
+   "premises": [
+    "heroic sadhana is the object",
+    "the practitioner is well-attentive",
+    "the verse is prescriptive in context"
+   ],
+   "inference": "The verse presents the well-attentive practitioner as undertaking heroic sadhana.",
+   "uncertainties": [
+    "The full sentence continues in the next verse."
+   ],
+   "plain_english": "The well-attentive one undertakes heroic sadhana."
+  },
+  {
+   "verse": 1563,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "all-effort",
+     "grounds": "instrumental singular of sarvaprayatna",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "should-be-done",
+     "grounds": "feminine gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vīrasādhanā",
+     "gloss": "heroic-sadhana",
+     "grounds": "nominative singular of vīrasādhanā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What should be done with all effort?",
+   "premises": [
+    "the conclusion follows from the previous statement",
+    "all effort is required",
+    "heroic sadhana should be done"
+   ],
+   "inference": "The verse prescribes heroic sadhana with all effort.",
+   "uncertainties": [
+    "The exact effort is not enumerated."
+   ],
+   "plain_english": "Therefore heroic sadhana should be done with all effort."
+  },
+  {
+   "verse": 1564,
+   "rows": [
+    {
+     "surface": "parataraṃ",
+     "gloss": "higher",
+     "grounds": "neuter accusative singular comparative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "something",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "root vid, present passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "śīghrasiddhidam",
+     "gloss": "quick-success-giving",
+     "grounds": "neuter accusative singular compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Is there anything higher that gives quick success?",
+   "premises": [
+    "something higher exists",
+    "it gives quick success",
+    "the statement is existential"
+   ],
+   "inference": "The verse affirms a higher thing that gives quick success.",
+   "uncertainties": [
+    "The higher thing is not named here."
+   ],
+   "plain_english": "There exists something higher that gives quick success."
+  },
+  {
+   "verse": 1565,
+   "rows": [
+    {
+     "surface": "lokoktyā",
+     "gloss": "by-world-saying",
+     "grounds": "instrumental singular of lokokti",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tadvidhānam",
+     "gloss": "that-procedure",
+     "grounds": "accusative singular of tadvidhāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anuttamam",
+     "gloss": "unsurpassed",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is that procedure regarded by worldly saying?",
+   "premises": [
+    "worldly saying is the authority cited",
+    "that procedure is described",
+    "it is unsurpassed"
+   ],
+   "inference": "The verse says that procedure is unsurpassed according to worldly saying.",
+   "uncertainties": [
+    "The procedure itself is not detailed here."
+   ],
+   "plain_english": "By worldly saying, that procedure is unsurpassed."
+  },
+  {
+   "verse": 1566,
+   "rows": [
+    {
+     "surface": "samutpādya",
+     "gloss": "having-produced",
+     "grounds": "gerund of samutpad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhumāṃsaguḍaudanaiḥ",
+     "gloss": "honey-meat-rice-with-jaggery",
+     "grounds": "instrumental plural of a compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is produced with honey, meat, jaggery, and rice?",
+   "premises": [
+    "something is produced",
+    "the ingredients are honey, meat, jaggery, and rice",
+    "the gerund indicates a ritual action"
+   ],
+   "inference": "The verse describes producing something with those ingredients.",
+   "uncertainties": [
+    "The produced object is not named in this excerpt."
+   ],
+   "plain_english": "Having produced it with honey, meat, jaggery, and rice."
+  },
+  {
+   "verse": 1567,
+   "rows": [
+    {
+     "surface": "sārdhayāmottaraṃ",
+     "gloss": "with-half-watch",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "locative singular of niś",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "When and for how long is the rite performed?",
+   "premises": [
+    "the duration is a half-watch",
+    "the time is night",
+    "the phrase is adverbial"
+   ],
+   "inference": "The verse specifies performance at night for a half-watch.",
+   "uncertainties": [
+    "The exact watch measure is not clarified."
+   ],
+   "plain_english": "At night, for a half-watch."
+  },
+  {
+   "verse": 1568,
+   "rows": [
+    {
+     "surface": "dūre",
+     "gloss": "far",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "gerund of dṛś",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhṛtvā",
+     "gloss": "having-held",
+     "grounds": "gerund of dhṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiyati",
+     "gloss": "how-much",
+     "grounds": "locative singular of kiyat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "western",
+     "grounds": "locative singular of paścima",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What spatial actions are performed in the rite?",
+   "premises": [
+    "something is seen far away",
+    "something is held",
+    "the location is western and measured"
+   ],
+   "inference": "The verse describes seeing far, holding, and a western measured location.",
+   "uncertainties": [
+    "The objects seen and held are not specified."
+   ],
+   "plain_english": "Having seen far and held, in the western measured place."
+  },
+  {
+   "verse": 1569,
+   "rows": [
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped",
+     "grounds": "gerund of ācam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "añjalimābaddhya",
+     "gloss": "joining-palms",
+     "grounds": "gerund of añjalimābandh",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantramenaṃ",
+     "gloss": "this-mantra",
+     "grounds": "accusative singular of mantramena",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "root jap, optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the wise person do after sipping and joining palms?",
+   "premises": [
+    "sipping and joining palms precede",
+    "this mantra is the object",
+    "the wise person should chant"
+   ],
+   "inference": "The verse prescribes chanting this mantra.",
+   "uncertainties": [
+    "The mantra text is not given in this excerpt."
+   ],
+   "plain_english": "After sipping and joining palms, the wise one should chant this mantra."
+  },
+  {
+   "verse": 1570,
+   "rows": [
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive or dative of aham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "success",
+     "grounds": "accusative singular of siddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mamatvena",
+     "gloss": "with-mine-ness",
+     "grounds": "instrumental singular of mamatva",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "anukampayā",
+     "gloss": "compassion",
+     "grounds": "instrumental singular of anukampā",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How is success requested in the mantra?",
+   "premises": [
+    "success is the requested object",
+    "mine-ness is involved",
+    "compassion is invoked"
+   ],
+   "inference": "The verse requests success with mine-ness and compassion.",
+   "uncertainties": [
+    "The exact grammatical relation of me is ambiguous."
+   ],
+   "plain_english": "My success, with mine-ness and compassion."
+  },
+  {
+   "verse": 1571,
+   "rows": [
+    {
+     "surface": "citādvāracatuṣke",
+     "gloss": "pyre-gate-fourfold",
+     "grounds": "locative singular of citādvāracatuṣka",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "taccatuṣṭayam",
+     "gloss": "that-fourfold",
+     "grounds": "accusative singular of taccatuṣṭaya",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where is the fourfold offering placed?",
+   "premises": [
+    "the location is the fourfold pyre gate",
+    "that fourfold thing is mentioned",
+    "the phrase is locative"
+   ],
+   "inference": "The verse locates the fourfold thing at the pyre gate.",
+   "uncertainties": [
+    "The fourfold items are not specified here."
+   ],
+   "plain_english": "At the fourfold pyre gate, that fourfold thing."
+  },
+  {
+   "verse": 1572,
+   "rows": [
+    {
+     "surface": "śmaśānaṣambha",
+     "gloss": "cremation-ground-lord",
+     "grounds": "vocative singular of śmaśānaśambhu",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāmiṣānnabaliṃ",
+     "gloss": "meat-rice-offering",
+     "grounds": "accusative singular of sāmiṣānnabali",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "root vad, optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be said to the cremation-ground lord?",
+   "premises": [
+    "the lord is addressed",
+    "this meat-rice offering is the object",
+    "the speaker should say it"
+   ],
+   "inference": "The verse prescribes saying this offering to the lord.",
+   "uncertainties": [
+    "The exact words to be said are not given here."
+   ],
+   "plain_english": "O cremation-ground lord, one should say this meat-rice offering."
+  },
+  {
+   "verse": 1573,
+   "rows": [
+    {
+     "surface": "prayaccheti",
+     "gloss": "give-thus",
+     "grounds": "imperative of prayam plus iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhānteti",
+     "gloss": "svaha-ending",
+     "grounds": "compound with svāhā and anta plus iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manurmataḥ",
+     "gloss": "mantra-opinion",
+     "grounds": "nominative singular of manurmata",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the mantra conclude?",
+   "premises": [
+    "the imperative is give",
+    "svaha marks the ending",
+    "this is the mantra opinion"
+   ],
+   "inference": "The verse says the mantra ends with give and svaha.",
+   "uncertainties": [
+    "The full mantra wording is not supplied."
+   ],
+   "plain_english": "Give, thus; ending with svaha: this is the mantra opinion."
+  },
+  {
+   "verse": 1574,
+   "rows": [
+    {
+     "surface": "ityuktvā",
+     "gloss": "thus-saying",
+     "grounds": "gerund of ityukt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "imamityādiko",
+     "gloss": "this-etc",
+     "grounds": "nominative singular of imamityādika",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "following",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What follows after saying this?",
+   "premises": [
+    "thus-saying introduces the next item",
+    "this-etc refers to the following mantra",
+    "the following one is next"
+   ],
+   "inference": "The verse says the following mantra comes next.",
+   "uncertainties": [
+    "The following mantra is not quoted here."
+   ],
+   "plain_english": "Having said thus, the following this-and-so-forth comes next."
+  }
+ ]
+}

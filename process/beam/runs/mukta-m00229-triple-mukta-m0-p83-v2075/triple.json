@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "hṛnmantraḥ",
+     "gloss": "heart-mantra",
+     "grounds": "compound hṛd+mantra; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svabījādyo",
+     "gloss": "own-bīja-etc",
+     "grounds": "compound sva+bīja+ādi; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daśākṣaraḥ",
+     "gloss": "ten-syllabled",
+     "grounds": "compound daśa+akṣara; nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What syllable count and seed composition define the heart-mantra?",
+   "premises": [
+    "heart-mantra is ten-syllabled",
+    "heart-mantra begins with own bīja"
+   ],
+   "inference": "The heart-mantra is a ten-syllabled mantra beginning with its own seed syllable.",
+   "uncertainties": [
+    "Exact bīja and remaining syllables are not specified in this verse."
+   ],
+   "plain_english": "The heart-mantra is ten-syllabled, beginning with its own seed syllable and so on."
+  }
+ ]
+}

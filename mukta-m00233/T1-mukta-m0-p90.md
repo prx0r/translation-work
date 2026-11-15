@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[niṣpāvaka](niṣpāvaka) [+](+) [mahā-vrīhi](mahāvrīhi) [+](+) [śyāmāka](śyāmāka) [+](+) [aṇu](aṇu) [+](+) [gavīthukaiḥ](gavīthukaiḥ)
+[niṣpāvaka](niṣpāvakam) [great+rice](mahāvrīhiśyāmākāṇugavīthukaiḥ)
 
 ## mukta-m0-p90-v2227
-[nīvāraiḥ](nīvāraiḥ) [pūrayet](pūrayet) [tu](tu) [yathā-vidhi](yathāvidhi)
+[nīvāra](nīvāraiḥ) [fill](pūrayet) [tu](tu) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p90-v2228
-[ṣebha](ṣebha)) [+](+) [giri-śṛṅgebhyaḥ](giriśṛṅgebhyaḥ) [kulī(re?](kulī(re?) [ra)kṣetrayoḥ](ra)kṣetrayor) [+](+) [mṛdaḥ](mṛdaḥ)
+[śebha?](ṣebha) [mountain+peak](giriśṛṅgebhyaḥ) [clay](mṛdaḥ) [field](kṣetrayoḥ)
 
 ## mukta-m0-p90-v2229
-[varāha-kṛ(ṣṭai?ṣṭā)ḥ](varāhakṛ(ṣṭai?ṣṭā)ś) [+](+) [ca](ca) [mṛdaḥ](mṛdo) [deva-gṛhasya](devagṛhasya) [ca](ca)
+[boar-plowed](varāhakṛṣṭaiḥ) [clay](mṛdo) [temple](devagṛhasya) [ca](ca)
 
 ## mukta-m0-p90-v2230
-[campaka-dvayam](campakadvayam) [+](+) [unmatta-trayam](unmattatrayaṃ) [vai](vai) [pāṭalam](pāṭalaṃ) [yavam](yavam)
+[campaka-two](campakadvayam) [unmatta-three](unmattatrayaṃ) [pāṭala](pāṭalaṃ) [barley](yavam)
 
 ## mukta-m0-p90-v2231
-[vai](vai) [tuladī-dvayam](tuladīdvayam) [ca](ca) [iti](iti)
+[vai](vai) [tulasi-two](tuladīdvayam)
 
 ## mukta-m0-p90-v2232
-[nāram](nāraṃ) [ca](ca) [puṣpe](puṣpe) [punnāga](punnāga) [+](+) [nāgayoḥ](nāgayoḥ)
+[nāra](nāraṃ) [ca](ca) [flower](puṣpe) [punnāga-nāga](punnāganāgayoḥ)
 
 ## mukta-m0-p90-v2233
-[mandāre](mandāre) [karṇikāram](karṇikāraṃ) [mahā-marī](mahāmarī) [ca](ca)
+[mandāra](mandāre) [karṇikāra](karṇikāraṃ) [great-marī](mahāmarī)
 
 ## mukta-m0-p90-v2234
-[bakulam](bakulaṃ) [nandyāvartam](nandyāvartaṃ) [kadambakam](kadambakam) [ca](ca)
+[bakula](bakulaṃ) [nandyāvarta](nandyāvartaṃ) [kadamba](kadambakam)
 
 ## mukta-m0-p90-v2235
-[maruvakam](maruvakaṃ) [mustā](mustā) [gra(nthī?](gra(nthī?) [nthi)ruśīrakam](nthi)ruśīrakam)
+[maruvaka](maruvakaṃ) [mustā](mustā) [granthi](granthī) [uśīraka](ruśīrakam)
 
 ## mukta-m0-p90-v2236
-[aruṇa](aruṇa) [+](+) [agasti-kusumam](agastikusumam) [+](+) [āmra-puṣpam](āmrapuṣpaṃ) [ca](ca) [corakam](corakam)
+[aruṇa-agasti-flower](aruṇāgastikusumam) [mango-flower](āmrapuṣpaṃ) [ca](ca) [coraka](corakam)
 
 ## mukta-m0-p90-v2237
-[musalī](musalī) [+](+) [bhadre](bhadre) [dūrvā-dvayam](dūrvādvayaṃ) [tathā](tathā)
+[musalī](musalī) [bhadra](bhadre) [dūrvā-two](dūrvādvayaṃ) [tathā](tathā)
 
 ## mukta-m0-p90-v2238
-[iti](iti) [+](+) [imāni](imāni) [dvātriṃśat](dvātriṃśad) [+](+) [adhikam](adhikaṃ) [śatam](śatam)
+[iti](itīmāni) [these](imāni) [thirty-two-plus-hundred](dvātriṃśadadhikaṃ) [śatam](śatam)
 
 ## mukta-m0-p90-v2239
-[śaṅkha-puṣpam](śaṅkhapuṣpaṃ) [tāpiñcham](tāpiñchaṃ) [ca](ca) [tamālakam](tamālakam)
+[śaṅkha-flower](śaṅkhapuṣpaṃ) [tāpiñcha](tāpiñchaṃ) [ca](ca) [tamālaka](tamālakam)
 
 ## mukta-m0-p90-v2240
-[śyāmā](śyāmā) [paṭṭī](paṭṭī) [rāvaṇa-bilvakam](rāvaṇabilvakam) [ca](ca)
+[śyāmā](śyāmā) [paṭṭī](paṭṭī) [rāvaṇa-bilva](rāvaṇabilvakam)
 
 ## mukta-m0-p90-v2241
-[dūrvā](dūrvā) [+](+) [asana-prasūne](asanaprasūne) [dve](dve) [baka-puṣpam](bakapuṣpaṃ) [tathā](tathā) [+](+) [arjakam](arjakam)
+[dūrvāsana-flower](dūrvāsanaprasūne) [two](dve) [baka-flower](bakapuṣpaṃ) [tathā-arjaka](tathārjakam)
 
 ## mukta-m0-p90-v2242
-[muram](muraṃ) [bhāṃsī](bhāṃsī) [karpūram](karpūraṃ) [ca](ca) [+](+) [agaru-dvayam](agarudvayam)
+[mura](muraṃ) [bhāṃsī](bhāṃsī) [karpūra](karpūraṃ) [ca-agarwood-two](cāgarudvayam)
 
 ## mukta-m0-p90-v2243
-[caṣāla](caṣāla) [+](+) [padmākṣau](padmākṣau) [gandha](gandha) [+](+) [amalaka](amalaka) [+](+) [gandhakāḥ](gandhakāḥ)
+[caṣāla](caṣālapadmākṣau) [padmākṣa](padmākṣau) [gandha-āmalaka-gandhaka](gandhāmalakagandhakāḥ)
 
 ## mukta-m0-p90-v2244
-[kākṣī](kākṣī) [sindūram](sindūraṃ) [daradam](daradaṃ) [śikhā](śikhā)
+[kākṣī](kākṣī) [sindūra](sindūraṃ) [darada](daradaṃ) [śikhā](śikhā)
 
 ## mukta-m0-p90-v2245
-[svarṇam](svarṇaṃ) [vaikrāntam](vaikrāntaṃ) [ca](ca) [+](+) [abhraka-trayam](abhrakatrayam)
+[gold](svarṇaṃ) [vaikrānta](vaikrāntaṃ) [ca-abhraka-three](cābhrakatrayam)
 
 ## mukta-m0-p90-v2246
-[nālikera](nālikera) [+](+) [āmra](āmra) [+](+) [panasa](panasa) [+](+) [rambhā](rambhā) [+](+) [likuca](likuca) [+](+) [ḍāḍimāḥ](ḍāḍimāḥ)
+[coconut-mango-jackfruit-plantain-pomegranate](nālikerāmrapanasarambhālikucaḍāḍimāḥ)
 
 ## mukta-m0-p90-v2247
-[badaram](badaraṃ) [drākṣā](drākṣā) [nāraṅga](nāraṅga) [+](+) [āmalakī-phale](āmalakīphale)
+[jujube](badaraṃ) [grape](drākṣā) [orange-āmalakī-fruit](nāraṅgāmalakīphale)
 
 ## mukta-m0-p90-v2248
-[sarja](sarja) [+](+) [lodhrau](lodhrau) [ca](ca) [rauhītaka](rauhītaka) [+](+) [vikaṅkatau](vikaṅkatau)
+[sarja-lodhra](sarjalodhrau) [ca](ca) [rauhītaka-vikaṅkata](rauhītakavikaṅkatau)
 
 ## mukta-m0-p90-v2249
-[sārāṇi](sārāṇy) [+](+) [eteṣām](eteṣāṃ) [ratnāni](ratnāni) [ca](ca) [pṛthak](pṛthaṅ) [nava](nava)
+[sāra](sārāṇyeteṣāṃ) [ratna](ratnāni) [ca](ca) [separate-nine](pṛthaṅ nava)
 
 ## mukta-m0-p90-v2250
-[haridrā](haridrā) [+](+) [yava](yava) [+](+) [godhūma](godhūma) [+](+) [śālī-cūrṇāni](śālīcūrṇāni) [bhasma](bhasma) [ca](ca)
+[turmeric-barley-wheat-rice-powder-ash](haridrāyavagodhūmaśālīcūrṇāni) [bhasma](bhasma) [ca](ca)

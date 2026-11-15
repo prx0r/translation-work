@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "vibhajet",
+     "gloss": "one-should-divide",
+     "grounds": "optative of vibhaj; prescribes division",
+     "morph": "v.3.sg.act-opt (vibhaj)"
+    },
+    {
+     "surface": "hastamātram",
+     "gloss": "hand-measure",
+     "grounds": "compound hasta hand + mātra measure; accusative object",
+     "morph": "n.acc.sg (neut)"
+    },
+    {
+     "surface": "ṣaṭtriṃśatā",
+     "gloss": "by-thirty-six",
+     "grounds": "instrumental of the numeral divisor",
+     "morph": "n.instr.sg (f)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb of repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the hand-measure be divided again by thirty-six?",
+   "premises": [
+    "hand-measure is divided",
+    "division uses thirty-six",
+    "action is repeated"
+   ],
+   "inference": "the hand-measure is subdivided by thirty-six once more",
+   "uncertainties": [
+    "ritual context of the division is not fully specified"
+   ],
+   "plain_english": "One should divide the hand-measure by thirty-six again."
+  }
+ ]
+}

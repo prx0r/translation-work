@@ -1,0 +1,869 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1501,
+   "rows": [
+    {
+     "surface": "yadyaśaktiḥ",
+     "gloss": "if-inability",
+     "grounds": "fused form yad+yaśaktiḥ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syāddhome",
+     "gloss": "may-be-in-homa",
+     "grounds": "fused form syāt+home",
+     "morph": "verb.3.sg.act-opt+loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpaṇe'pi",
+     "gloss": "in-tarpana",
+     "grounds": "fused form tarpaṇe+api",
+     "morph": "loc.sg.n+(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When inability arises in homa or tarpana, what alternative puraścaraṇa rite remains available?",
+   "premises": [
+    "inability may occur in homa",
+    "inability may occur in tarpana",
+    "both cases require an alternative rite"
+   ],
+   "inference": "The verse sets up a fallback when either homa or tarpana cannot be performed.",
+   "uncertainties": [
+    "exact scope of inability is not specified"
+   ],
+   "plain_english": "If there is inability in homa or in tarpana."
+  },
+  {
+   "verse": 1502,
+   "rows": [
+    {
+     "surface": "dvayenaiva",
+     "gloss": "by-both",
+     "grounds": "fused form dvayena+eva",
+     "morph": "inst.sg.n+(indecl.)"
+    },
+    {
+     "surface": "puraścaraṇa",
+     "gloss": "puraścaraṇa",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rite is accomplished by both homa and tarpana together?",
+   "premises": [
+    "both means are used together",
+    "the rite is puraścaraṇa",
+    "the statement is emphatic"
+   ],
+   "inference": "Puraścaraṇa karma is to be done by both means together.",
+   "uncertainties": [
+    "whether both are always required is not stated"
+   ],
+   "plain_english": "Indeed, puraścaraṇa rite is by both."
+  },
+  {
+   "verse": 1503,
+   "rows": [
+    {
+     "surface": "sāṅgasiddhyarthaṃ",
+     "gloss": "for-accomplishment-with-limbs",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadaśaktena",
+     "gloss": "by-the-unable",
+     "grounds": "fused form tad+aśaktena",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "bhaktitaḥ",
+     "gloss": "devotionally",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does one unable to perform the full rite still accomplish it with limbs?",
+   "premises": [
+    "full accomplishment requires limbs",
+    "the unable practitioner acts",
+    "devotion is the prescribed mode"
+   ],
+   "inference": "The unable practitioner should perform devotionally for accomplishment with limbs.",
+   "uncertainties": [
+    "which limbs are meant is not specified"
+   ],
+   "plain_english": "For accomplishment with limbs, the unable one acts devotionally."
+  },
+  {
+   "verse": 1504,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "feminine noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "noktā",
+     "gloss": "not-stated",
+     "grounds": "fused form na+uktā",
+     "morph": "participle"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-sages",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "Is the number of repetitions stated by the sages?",
+   "premises": [
+    "the number is not stated",
+    "the sages are the authorities",
+    "the statement is negative"
+   ],
+   "inference": "The sages have not stated a fixed number.",
+   "uncertainties": [
+    "whether another authority states it is not said"
+   ],
+   "plain_english": "And the number is not stated by sages."
+  },
+  {
+   "verse": 1505,
+   "rows": [
+    {
+     "surface": "saṃkhyānuktau",
+     "gloss": "number-stated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sāṣṭaṃ",
+     "gloss": "with-eight",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśāpi",
+     "gloss": "ten",
+     "grounds": "fused form daśa+api",
+     "morph": "numeral+(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What numbers are given when the count is stated?",
+   "premises": [
+    "hundred with eight is given",
+    "thousand is given",
+    "ten is also given"
+   ],
+   "inference": "The stated counts include hundred-with-eight, thousand, or ten.",
+   "uncertainties": [
+    "which count applies to which rite is not specified"
+   ],
+   "plain_english": "When number is stated: hundred with eight, thousand, or ten."
+  },
+  {
+   "verse": 1506,
+   "rows": [
+    {
+     "surface": "saṃmohane",
+     "gloss": "in-delusion",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "proktamanukte",
+     "gloss": "stated",
+     "grounds": "fused form proktam+anukte",
+     "morph": "participle"
+    },
+    {
+     "surface": "kāmyakarmaṇaḥ",
+     "gloss": "of-desired-rite",
+     "grounds": "genitive",
+     "morph": "gen.sg.n"
+    }
+   ],
+   "question": "What is stated about delusion in the desired rite?",
+   "premises": [
+    "delusion is the context",
+    "something is stated",
+    "it concerns desired rite"
+   ],
+   "inference": "In delusion, a stated rule applies to the desired rite.",
+   "uncertainties": [
+    "the exact stated rule is not recoverable from this verse alone"
+   ],
+   "plain_english": "In delusion, stated for the desired rite."
+  },
+  {
+   "verse": 1507,
+   "rows": [
+    {
+     "surface": "gauravānmantrī",
+     "gloss": "out-of-respect",
+     "grounds": "fused form gauravāt+mantrī",
+     "morph": "abl.sg.n+nom.sg.m"
+    },
+    {
+     "surface": "tattaddhomaṃ",
+     "gloss": "that-homa",
+     "grounds": "fused form tat+tat+homaṃ",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "verb optative",
+     "morph": "verb.3.sg.act-opt+root car"
+    }
+   ],
+   "question": "Why should the mantra practitioner perform that homa?",
+   "premises": [
+    "respect is the motive",
+    "the practitioner is a mantrī",
+    "the homa should be performed"
+   ],
+   "inference": "Out of respect, the mantrī should perform that homa.",
+   "uncertainties": [
+    "which homa is meant is not specified"
+   ],
+   "plain_english": "Out of respect, the mantrī should perform that homa."
+  },
+  {
+   "verse": 1508,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etaduktaṃ",
+     "gloss": "this-stated",
+     "grounds": "fused form etat+uktam",
+     "morph": "participle"
+    },
+    {
+     "surface": "prātyahike",
+     "gloss": "in-daily",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "jape",
+     "gloss": "japa",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where is this stated rule applied in daily practice?",
+   "premises": [
+    "this is stated",
+    "daily practice is the context",
+    "japa is the rite"
+   ],
+   "inference": "This stated rule applies in daily japa.",
+   "uncertainties": [
+    "the exact rule is not restated here"
+   ],
+   "plain_english": "And this is stated in daily japa."
+  },
+  {
+   "verse": 1509,
+   "rows": [
+    {
+     "surface": "agastyasaṃhitāyāmapyeṣa",
+     "gloss": "in-agastya-saṃhitā",
+     "grounds": "fused form agastyasaṃhitāyām+api+eṣa",
+     "morph": "loc.sg.f+(indecl.)+nom.sg.m"
+    },
+    {
+     "surface": "vaiśeṣiko",
+     "gloss": "special",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "masculine noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What special rule is found in the Agastya Saṃhitā?",
+   "premises": [
+    "the Agastya Saṃhitā is the source",
+    "a special rule is mentioned",
+    "the rule is distinctive"
+   ],
+   "inference": "The Agastya Saṃhitā contains a special rule.",
+   "uncertainties": [
+    "the content of the special rule is not given here"
+   ],
+   "plain_english": "In the Agastya Saṃhitā too, this is a special rule."
+  },
+  {
+   "verse": 1510,
+   "rows": [
+    {
+     "surface": "nāsti",
+     "gloss": "not",
+     "grounds": "fused form na+asti",
+     "morph": "verb.3.sg.act-pres+root as"
+    },
+    {
+     "surface": "na",
+     "gloss": "nor",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prahvādikalpanam",
+     "gloss": "prahva-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Is there any prahva and similar contrivance?",
+   "premises": [
+    "there is not",
+    "nor is there",
+    "prahva and similar are denied"
+   ],
+   "inference": "No prahva or similar contrivance exists.",
+   "uncertainties": [
+    "the exact denied items beyond prahva are not listed"
+   ],
+   "plain_english": "There is not, nor is there prahva and the like."
+  },
+  {
+   "verse": 1511,
+   "rows": [
+    {
+     "surface": "syādityapekṣāyāmucyate",
+     "gloss": "may-be",
+     "grounds": "fused form syāt+iti+apekṣāyām+ucyate",
+     "morph": "verb.3.sg.pass-pres+root vac"
+    },
+    {
+     "surface": "munibhāṣitam",
+     "gloss": "sage-spoken",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is said when possibility is expected?",
+   "premises": [
+    "possibility is expected",
+    "something is said",
+    "it is sage-spoken"
+   ],
+   "inference": "When possibility is expected, the sage-spoken statement is given.",
+   "uncertainties": [
+    "the exact sage statement is not included here"
+   ],
+   "plain_english": "When possibility is expected, the sage-spoken is said."
+  },
+  {
+   "verse": 1512,
+   "rows": [
+    {
+     "surface": "vijñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "karmaṇāṃ",
+     "gloss": "of-rites",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "pāragaḥ",
+     "gloss": "far-shore",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "karaḥ",
+     "gloss": "hand",
+     "grounds": "masculine noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is to be known about the hand of rites?",
+   "premises": [
+    "rites have a hand",
+    "it reaches the far shore",
+    "it is to be known"
+   ],
+   "inference": "The hand of rites, reaching the far shore, is to be known.",
+   "uncertainties": [
+    "metaphorical sense is not fully explained"
+   ],
+   "plain_english": "To be known: the hand of rites reaching the far shore."
+  },
+  {
+   "verse": 1513,
+   "rows": [
+    {
+     "surface": "proktā",
+     "gloss": "stated",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "aindrī",
+     "gloss": "aindrī",
+     "grounds": "feminine adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saumyā",
+     "gloss": "saumyā",
+     "grounds": "feminine adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "aparājitā",
+     "gloss": "aparājitā",
+     "grounds": "feminine adjective",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which goddesses are stated here?",
+   "premises": [
+    "aindrī is stated",
+    "saumyā is stated",
+    "aparājitā is stated"
+   ],
+   "inference": "The stated goddesses are Aindrī, Saumyā, and Aparājitā.",
+   "uncertainties": [
+    "their ritual roles are not specified in this verse"
+   ],
+   "plain_english": "Stated: Aindrī, Saumyā, Aparājitā."
+  },
+  {
+   "verse": 1514,
+   "rows": [
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prahvena",
+     "gloss": "by-bowing",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhatā",
+     "gloss": "by-standing",
+     "grounds": "instrumental participle",
+     "morph": "inst.sg.m"
+    }
+   ],
+   "question": "How should the rite not be performed?",
+   "premises": [
+    "it is to be done",
+    "not by bowing",
+    "not by standing"
+   ],
+   "inference": "The rite should not be done by bowing or by standing.",
+   "uncertainties": [
+    "the correct posture is not stated here"
+   ],
+   "plain_english": "To be done, not by bowing, not by standing."
+  },
+  {
+   "verse": 1515,
+   "rows": [
+    {
+     "surface": "tarpayettaddaśāṃśena",
+     "gloss": "should-tarpana",
+     "grounds": "fused form tarpayet+tat+daśāṃśena",
+     "morph": "verb.3.sg.act-opt+root tṛp"
+    },
+    {
+     "surface": "vidyānandakṛtāgame",
+     "gloss": "vidyānanda-made-āgama",
+     "grounds": "fused form vidyānanda+kṛta+āgame",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "According to which āgama should tarpana be done with a tenth part?",
+   "premises": [
+    "tarpana should be done",
+    "a tenth part is used",
+    "the āgama is by Vidyānanda"
+   ],
+   "inference": "In Vidyānanda's āgama, tarpana is done with a tenth part.",
+   "uncertainties": [
+    "the exact tenth part referent is not specified"
+   ],
+   "plain_english": "One should tarpana with a tenth part, in Vidyānanda's āgama."
+  },
+  {
+   "verse": 1516,
+   "rows": [
+    {
+     "surface": "tripurāsārasaṃgrahe'pi",
+     "gloss": "in-tripurā-sāra-saṃgraha",
+     "grounds": "fused form tripurāsārasaṃgrahe+api",
+     "morph": "loc.sg.m+(indecl.)"
+    },
+    {
+     "surface": "prakīrttitam",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Where else is this declared?",
+   "premises": [
+    "the Tripurāsāra Saṃgraha is cited",
+    "it is also declared there",
+    "the statement is additional"
+   ],
+   "inference": "This is also declared in the Tripurāsāra Saṃgraha.",
+   "uncertainties": [
+    "the declared content is not restated here"
+   ],
+   "plain_english": "It is also declared in the Tripurāsāra Saṃgraha."
+  },
+  {
+   "verse": 1517,
+   "rows": [
+    {
+     "surface": "vakṣye",
+     "gloss": "will-speak",
+     "grounds": "future verb",
+     "morph": "verb.1.sg.act-fut+root vac"
+    },
+    {
+     "surface": "sampradāyānusārataḥ",
+     "gloss": "according-to-tradition",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How will the speaker proceed?",
+   "premises": [
+    "the speaker will speak",
+    "tradition is the guide",
+    "the method is traditional"
+   ],
+   "inference": "The speaker will speak according to tradition.",
+   "uncertainties": [
+    "the topic to be spoken is not specified here"
+   ],
+   "plain_english": "I will speak according to tradition."
+  },
+  {
+   "verse": 1518,
+   "rows": [
+    {
+     "surface": "jalenaiva",
+     "gloss": "by-water",
+     "grounds": "fused form jalena+eva",
+     "morph": "inst.sg.n+(indecl.)"
+    },
+    {
+     "surface": "pīṭhamantrāntamādarāt",
+     "gloss": "pedestal-mantra-end",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the pedestal mantra end treated?",
+   "premises": [
+    "water is used",
+    "the pedestal mantra end is the object",
+    "respect is indicated"
+   ],
+   "inference": "The pedestal mantra end is treated with water respectfully.",
+   "uncertainties": [
+    "the exact ritual action is not fully specified"
+   ],
+   "plain_english": "With water, the pedestal mantra end, respectfully."
+  },
+  {
+   "verse": 1519,
+   "rows": [
+    {
+     "surface": "homāddaśāṃśato",
+     "gloss": "from-homa-tenth-part",
+     "grounds": "fused form homāt+daśāṃśataḥ",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "devavadane",
+     "gloss": "in-divine-mouth",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "salilaiḥ+śubhaiḥ",
+     "gloss": "with-auspicious-waters",
+     "grounds": "fused form salilaiḥ+śubhaiḥ",
+     "morph": "inst.pl.n"
+    }
+   ],
+   "question": "How is the divine mouth treated from the homa tenth part?",
+   "premises": [
+    "the homa tenth part is the source",
+    "the divine mouth is the locus",
+    "auspicious waters are used"
+   ],
+   "inference": "From the homa tenth part, the divine mouth is treated with auspicious waters.",
+   "uncertainties": [
+    "the exact treatment is not specified"
+   ],
+   "plain_english": "From the homa's tenth part, in the divine mouth, with auspicious waters."
+  },
+  {
+   "verse": 1520,
+   "rows": [
+    {
+     "surface": "yojyaṃ",
+     "gloss": "to-be-joined",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mantrānte",
+     "gloss": "at-mantra-end",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sveṣu+nāmasu",
+     "gloss": "in-own-names",
+     "grounds": "fused form sveṣu+nāmasu",
+     "morph": "loc.pl.n"
+    }
+   ],
+   "question": "What is to be joined at the mantra end?",
+   "premises": [
+    "something is to be joined",
+    "the mantra end is the place",
+    "own names are the locus"
+   ],
+   "inference": "Something is to be joined at the mantra end in one's own names.",
+   "uncertainties": [
+    "the object to be joined is not specified"
+   ],
+   "plain_english": "To be joined at the mantra end in one's own names."
+  },
+  {
+   "verse": 1521,
+   "rows": [
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "tarpana",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vidadhīta",
+     "gloss": "should-do",
+     "grounds": "verb optative",
+     "morph": "verb.3.sg.act-opt+root dhā"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should indeed be done?",
+   "premises": [
+    "tarpana is the action",
+    "it should be done",
+    "the statement is emphatic"
+   ],
+   "inference": "Tarpana should indeed be done.",
+   "uncertainties": [
+    "the manner is not specified here"
+   ],
+   "plain_english": "Indeed, one should do tarpana."
+  },
+  {
+   "verse": 1522,
+   "rows": [
+    {
+     "surface": "vidhānena",
+     "gloss": "by-rite",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śuddhavāriṇā",
+     "gloss": "with-pure-water",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    }
+   ],
+   "question": "How is the tenth part to be done?",
+   "premises": [
+    "rite is the means",
+    "tenth part is the object",
+    "pure water is used"
+   ],
+   "inference": "The tenth part is to be done by rite with pure water.",
+   "uncertainties": [
+    "the exact rite is not specified"
+   ],
+   "plain_english": "By rite, the tenth part, with pure water."
+  },
+  {
+   "verse": 1523,
+   "rows": [
+    {
+     "surface": "saṃkhyāyāṃ",
+     "gloss": "in-number",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "budhastvekaikamañjalim",
+     "gloss": "wise-one",
+     "grounds": "fused form budhaḥ+tu+ekaikam+añjalim",
+     "morph": "nom.sg.m+(indecl.)+acc.sg.m"
+    }
+   ],
+   "question": "What does the wise one do in the number?",
+   "premises": [
+    "number is the context",
+    "the wise one acts",
+    "one añjali each is involved"
+   ],
+   "inference": "In the number, the wise one gives one añjali each.",
+   "uncertainties": [
+    "the full recipient list is not stated"
+   ],
+   "plain_english": "In number, the wise one, one añjali each."
+  },
+  {
+   "verse": 1524,
+   "rows": [
+    {
+     "surface": "kecidicchanti",
+     "gloss": "some",
+     "grounds": "fused form kecit+icchanti",
+     "morph": "nom.pl.m+verb.3.pl.act-pres+root iṣ"
+    },
+    {
+     "surface": "parivārasya",
+     "gloss": "of-retinue",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tarpaṇam",
+     "gloss": "tarpana",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What do some desire for the retinue?",
+   "premises": [
+    "some desire it",
+    "the retinue is the object",
+    "tarpana is the action"
+   ],
+   "inference": "Some desire tarpana for the retinue.",
+   "uncertainties": [
+    "whether this is accepted or rejected is not stated"
+   ],
+   "plain_english": "Some desire tarpana of the retinue."
+  }
+ ]
+}

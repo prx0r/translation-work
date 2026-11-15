@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1501,
- "question": "What visual attributes characterize the goddess introduced in this description?",
+ "question": "When inability arises in homa or tarpana, what alternative puraścaraṇa rite remains available?",
  "premises": [
-  "The goddess is clothed like the young sun.",
-  "Her eyes are described as touching her blue ears."
+  "inability may occur in homa",
+  "inability may occur in tarpana",
+  "both cases require an alternative rite"
  ],
- "inference": "The goddess is identified by radiant red attire and distinctive wide eyes.",
- "uncertainties": [],
- "plain_english": "She is clothed like the young sun and has eyes that reach her blue ears."
+ "inference": "The verse sets up a fallback when either homa or tarpana cannot be performed.",
+ "uncertainties": [
+  "exact scope of inability is not specified"
+ ],
+ "plain_english": "If there is inability in homa or in tarpana."
 }

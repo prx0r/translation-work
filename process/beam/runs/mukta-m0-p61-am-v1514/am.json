@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1514,
- "question": "What ritual attributes are held by all the deities in this visualization?",
+ "question": "How should the rite not be performed?",
  "premises": [
-  "All the deities hold a noose and goad.",
-  "They also display the gesture of knowledge and fearlessness."
+  "it is to be done",
+  "not by bowing",
+  "not by standing"
  ],
- "inference": "Every deity in this group bears noose, goad, knowledge gesture, and fearlessness gesture.",
- "uncertainties": [],
- "plain_english": "All of them hold a noose and goad, and likewise display the gesture of knowledge and fearlessness."
+ "inference": "The rite should not be done by bowing or by standing.",
+ "uncertainties": [
+  "the correct posture is not stated here"
+ ],
+ "plain_english": "To be done, not by bowing, not by standing."
 }

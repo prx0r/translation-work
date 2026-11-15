@@ -3,24 +3,44 @@
  "verse": 1799,
  "rows": [
   {
-   "lemma": "paritaḥ",
+   "lemma": "daśahasta",
+   "morph": "compound",
+   "grounds": "nominative singular compound daśa + hasta"
+  },
+  {
+   "lemma": "mitāt",
+   "morph": "m.abl.sg",
+   "grounds": "ablative singular past participle of mā"
+  },
+  {
+   "lemma": "kuṇḍāt",
+   "morph": "n.abl.sg",
+   "grounds": "ablative singular of kuṇḍa"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating all sides"
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "kuḍyavistāraṃ",
-   "morph": "compound: kuḍya+vistāra, m.acc.sg",
-   "grounds": "compound denoting the width of the wall"
+   "lemma": "kuṇḍaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular of kuṇḍa"
   },
   {
-   "lemma": "anenaiva",
-   "morph": "n.inst.sg with eva",
-   "grounds": "pronoun with emphatic particle indicating the same method"
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "prakalpayet",
-   "morph": "3.sg.optative-active √klṛp with pra",
-   "grounds": "optative verb directing arrangement"
+   "lemma": "adhikaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular of adhika"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.opt",
+   "grounds": "third singular optative of bhū"
   }
  ]
 }

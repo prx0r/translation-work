@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p63",
  "verse": 1574,
- "question": "With what prepared offering materials should the fire oblation be performed?",
+ "question": "What follows after saying this?",
  "premises": [
-  "A fire oblation is to be performed.",
-  "The oblation uses safflower flowers.",
-  "The flowers are mingled with the three sweets."
+  "thus-saying introduces the next item",
+  "this-etc refers to the following mantra",
+  "the following one is next"
  ],
- "inference": "One should offer safflower flowers mingled with the three sweets into the fire.",
- "uncertainties": [],
- "plain_english": "One should offer safflower flowers mingled with the three sweets."
+ "inference": "The verse says the following mantra comes next.",
+ "uncertainties": [
+  "The following mantra is not quoted here."
+ ],
+ "plain_english": "Having said thus, the following this-and-so-forth comes next."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1505,
- "question": "Where and whom should the practitioner worship in this ritual instruction?",
+ "question": "What numbers are given when the count is stated?",
  "premises": [
-  "The instruction prescribes worship.",
-  "The objects are Cakreśī and Tripurāmbā.",
-  "The location is in front of Kāmeśī."
+  "hundred with eight is given",
+  "thousand is given",
+  "ten is also given"
  ],
- "inference": "The practitioner should worship Cakreśī, who is Tripurāmbā, in front of Kāmeśī.",
- "uncertainties": [],
- "plain_english": "One should worship Cakreśī, the Mother Tripurā, in front of Kāmeśī."
+ "inference": "The stated counts include hundred-with-eight, thousand, or ten.",
+ "uncertainties": [
+  "which count applies to which rite is not specified"
+ ],
+ "plain_english": "When number is stated: hundred with eight, thousand, or ten."
 }

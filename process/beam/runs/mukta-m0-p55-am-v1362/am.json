@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1362,
- "question": "Which goddess completes the group declared in the context of the six limbs of enjoyment?",
+ "question": "Who declares the heating practice described here?",
  "premises": [
-  "Nityānantā is named",
-  "She is declared in this context",
-  "The context is the six limbs of enjoyment"
+  "Heating is the practice.",
+  "It is declared.",
+  "Practitioners and tantra-knowers are agents."
  ],
- "inference": "Nityānantā is declared as part of the group in the context of the six limbs of enjoyment.",
- "uncertainties": [],
- "plain_english": "And Nityānantā is likewise declared in the context of the six limbs of enjoyment."
+ "inference": "The heating practice is declared by practitioners and tantra-knowers.",
+ "uncertainties": [
+  "Whether declaration is textual or oral is not stated."
+ ],
+ "plain_english": "The heating is declared by practitioners and knowers of tantra."
 }

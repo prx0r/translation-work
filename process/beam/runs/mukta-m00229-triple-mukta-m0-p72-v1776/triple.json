@@ -1,0 +1,1006 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1776,
+   "rows": [
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative singular of grantha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "accusative singular of māna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muktam",
+     "gloss": "liberated",
+     "grounds": "past participle of muc",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ito'nyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable compound ito + anyathā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure is declared liberated when the text is read otherwise?",
+   "premises": [
+    "granthe means in-text",
+    "mānam means measure",
+    "muktam means liberated"
+   ],
+   "inference": "The verse states that the measure is liberated otherwise than in the text.",
+   "uncertainties": [
+    "ito'nyathā is a fused sandhi form"
+   ],
+   "plain_english": "The measure is liberated otherwise than in the text."
+  },
+  {
+   "verse": 1777,
+   "rows": [
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "feminine nominative singular of dvitīya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rājasī",
+     "gloss": "royal",
+     "grounds": "feminine nominative singular of rājasī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "feminine nominative singular gerundive of jñā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mekhalā",
+     "gloss": "girdle",
+     "grounds": "nominative singular of mekhalā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭāṅgula",
+     "gloss": "eight-angula",
+     "grounds": "compound aṣṭa + aṅgula",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucchritā",
+     "gloss": "raised",
+     "grounds": "feminine nominative singular past participle of uc-chri",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the second royal girdle to be known as raised eight angulas?",
+   "premises": [
+    "dvitīyā means second",
+    "rājasī means royal",
+    "jñeyā means to-be-known"
+   ],
+   "inference": "The second royal girdle is to be known as raised eight angulas.",
+   "uncertainties": [
+    "aṣṭāṅgula is a compound measure"
+   ],
+   "plain_english": "The second royal girdle is to be known as raised eight angulas."
+  },
+  {
+   "verse": 1778,
+   "rows": [
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistāram",
+     "gloss": "width",
+     "grounds": "accusative singular of vistāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "etāsu",
+     "gloss": "in-these",
+     "grounds": "locative plural feminine of etad",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "caturaṅgula",
+     "gloss": "four-angula",
+     "grounds": "compound catur + aṅgula",
+     "morph": "compound"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "measure",
+     "grounds": "ablative singular of māna",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What width is separately measured as four angulas in these?",
+   "premises": [
+    "pṛthak means separately",
+    "vistāram means width",
+    "etāsu means in-these"
+   ],
+   "inference": "The width in these is separately measured as four angulas.",
+   "uncertainties": [
+    "etāsu refers to previously mentioned girdles"
+   ],
+   "plain_english": "The width in these is separately measured as four angulas."
+  },
+  {
+   "verse": 1779,
+   "rows": [
+    {
+     "surface": "pūrvayāmye",
+     "gloss": "east-south",
+     "grounds": "locative dual compound pūrva + yāmya",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalasthā",
+     "gloss": "water-place",
+     "grounds": "nominative singular compound jala + sthā",
+     "morph": "compound"
+    },
+    {
+     "surface": "paścimottare",
+     "gloss": "west-north",
+     "grounds": "locative dual compound paścima + uttara",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where is the water-place located between east-south and west-north?",
+   "premises": [
+    "pūrvayāmye means east-south",
+    "jalasthā means water-place",
+    "paścimottare means west-north"
+   ],
+   "inference": "The water-place is located between east-south and west-north.",
+   "uncertainties": [
+    "directional compound interpretation"
+   ],
+   "plain_english": "The water-place is located between east-south and west-north."
+  },
+  {
+   "verse": 1780,
+   "rows": [
+    {
+     "surface": "prāṅmukhā",
+     "gloss": "east-facing",
+     "grounds": "nominative plural feminine compound prāñc + mukha",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "feminine nominative plural past participle of vac",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ityādāvevaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable compound ityādi + evam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratīyate",
+     "gloss": "understood",
+     "grounds": "third singular passive present of prati-i",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is the east-facing arrangement declared and understood thus?",
+   "premises": [
+    "prāṅmukhā means east-facing",
+    "proktā means declared",
+    "pratīyate means understood"
+   ],
+   "inference": "The east-facing arrangement is declared and understood thus.",
+   "uncertainties": [
+    "ityādāvevaṃ is a fused compound"
+   ],
+   "plain_english": "The east-facing arrangement is declared and understood thus."
+  },
+  {
+   "verse": 1781,
+   "rows": [
+    {
+     "surface": "yatproktaṃ",
+     "gloss": "what-declared",
+     "grounds": "neuter nominative singular relative participle of vac",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāvakāśaṃ",
+     "gloss": "with-space",
+     "grounds": "neuter nominative singular compound sa + avakāśa",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadanyataḥ",
+     "gloss": "that-otherwise",
+     "grounds": "indeclinable compound tad + anyatas",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What declared thing is with-space and otherwise?",
+   "premises": [
+    "yatproktaṃ means what-declared",
+    "sāvakāśaṃ means with-space",
+    "tadanyataḥ means that-otherwise"
+   ],
+   "inference": "The declared thing is with-space and otherwise.",
+   "uncertainties": [
+    "relative clause scope"
+   ],
+   "plain_english": "The declared thing is with-space and otherwise."
+  },
+  {
+   "verse": 1782,
+   "rows": [
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "indeclinable relative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturasram",
+     "gloss": "square",
+     "grounds": "neuter nominative singular of caturasra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "neuter nominative singular past participle of ud-ā-hṛ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is the square declared?",
+   "premises": [
+    "yasmāt means because",
+    "caturasram means square",
+    "udāhṛtam means declared"
+   ],
+   "inference": "The square is declared because of the stated reason.",
+   "uncertainties": [
+    "causal clause omitted in excerpt"
+   ],
+   "plain_english": "The square is declared because of the stated reason."
+  },
+  {
+   "verse": 1783,
+   "rows": [
+    {
+     "surface": "vistṛtā",
+     "gloss": "spread",
+     "grounds": "feminine nominative singular past participle of vi-stṛ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tryaṃśaiḥ",
+     "gloss": "three-parts",
+     "grounds": "instrumental plural of tryaṃśa",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "caturviṃśāṃśam",
+     "gloss": "twenty-fourth-part",
+     "grounds": "accusative singular of caturviṃśāṃśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "measure",
+     "grounds": "ablative singular of māna",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the spread measured by three parts and a twenty-fourth part?",
+   "premises": [
+    "vistṛtā means spread",
+    "tryaṃśaiḥ means three-parts",
+    "caturviṃśāṃśam means twenty-fourth-part"
+   ],
+   "inference": "The spread is measured by three parts and a twenty-fourth part.",
+   "uncertainties": [
+    "exact arithmetic relation"
+   ],
+   "plain_english": "The spread is measured by three parts and a twenty-fourth part."
+  },
+  {
+   "verse": 1784,
+   "rows": [
+    {
+     "surface": "vakrāgrā",
+     "gloss": "curved-tip",
+     "grounds": "feminine nominative singular compound vakra + agra",
+     "morph": "compound"
+    },
+    {
+     "surface": "jināṃśa",
+     "gloss": "jina-part",
+     "grounds": "nominative singular compound jina + aṃśa",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛta",
+     "gloss": "made",
+     "grounds": "neuter nominative singular past participle of kṛ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mekhalā",
+     "gloss": "girdle",
+     "grounds": "nominative singular of mekhalā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the girdle made with curved tip and jina part?",
+   "premises": [
+    "vakrāgrā means curved-tip",
+    "jināṃśa means jina-part",
+    "kṛta means made"
+   ],
+   "inference": "The girdle is made with curved tip and jina part.",
+   "uncertainties": [
+    "jināṃśa technical measure"
+   ],
+   "plain_english": "The girdle is made with curved tip and jina part."
+  },
+  {
+   "verse": 1785,
+   "rows": [
+    {
+     "surface": "yonikṣetrasya",
+     "gloss": "of-yoni-field",
+     "grounds": "genitive singular of yonikṣetra",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "saṃgrāhyā",
+     "gloss": "to-be-taken",
+     "grounds": "feminine nominative singular gerundive of saṃ-grah",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "locative singular of mūla",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kumbhadvaya",
+     "gloss": "two-pots",
+     "grounds": "nominative singular compound kumbha + dvaya",
+     "morph": "compound"
+    },
+    {
+     "surface": "upamā",
+     "gloss": "like",
+     "grounds": "nominative singular of upamā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is to be taken for the yoni-field at the root like two pots?",
+   "premises": [
+    "yonikṣetrasya means of-yoni-field",
+    "saṃgrāhyā means to-be-taken",
+    "mūle means at-root"
+   ],
+   "inference": "For the yoni-field, something is to be taken at the root like two pots.",
+   "uncertainties": [
+    "saṃgrāhyā object omitted"
+   ],
+   "plain_english": "For the yoni-field, something is to be taken at the root like two pots."
+  },
+  {
+   "verse": 1786,
+   "rows": [
+    {
+     "surface": "muṣṭyaratnyekahastānāṃ",
+     "gloss": "fist-aratni-one-hand",
+     "grounds": "genitive plural compound muṣṭi + aratni + eka + hasta",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṇḍānām",
+     "gloss": "of-pits",
+     "grounds": "genitive plural of kuṇḍa",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "third singular optative of bhū",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What may be the measure of pits of fist aratni one hand or?",
+   "premises": [
+    "muṣṭyaratnyekahastānāṃ means fist-aratni-one-hand",
+    "kuṇḍānām means of-pits",
+    "bhavet means may-be"
+   ],
+   "inference": "The pits may be measured by fist, aratni, or one hand.",
+   "uncertainties": [
+    "measure list incomplete"
+   ],
+   "plain_english": "The pits may be measured by fist, aratni, or one hand."
+  },
+  {
+   "verse": 1787,
+   "rows": [
+    {
+     "surface": "yonyagraṃ",
+     "gloss": "yoni-tip",
+     "grounds": "accusative singular compound yoni + agra",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "third singular optative of kṛ",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "īṣadadhomukham",
+     "gloss": "slightly-downward",
+     "grounds": "accusative singular compound īṣat + adhomukha",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the yoni-tip be made slightly downward?",
+   "premises": [
+    "yonyagraṃ means yoni-tip",
+    "kuryāt means should-make",
+    "īṣadadhomukham means slightly-downward"
+   ],
+   "inference": "The yoni-tip should be made slightly downward.",
+   "uncertainties": [
+    "degree of downward tilt"
+   ],
+   "plain_english": "The yoni-tip should be made slightly downward."
+  },
+  {
+   "verse": 1788,
+   "rows": [
+    {
+     "surface": "nālaṃ",
+     "gloss": "stalk",
+     "grounds": "nominative singular of nāla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "yonimūlasya",
+     "gloss": "of-yoni-root",
+     "grounds": "genitive singular compound yoni + mūla",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhāraṇam",
+     "gloss": "support",
+     "grounds": "nominative singular of dhāraṇa",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What may be the support of the yoni-root stalk?",
+   "premises": [
+    "nālaṃ means stalk",
+    "syāt means may-be",
+    "yonimūlasya means of-yoni-root"
+   ],
+   "inference": "The stalk may be the support of the yoni-root.",
+   "uncertainties": [
+    "syntactic relation"
+   ],
+   "plain_english": "The stalk may be the support of the yoni-root."
+  },
+  {
+   "verse": 1789,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "third singular optative of kṛ",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned",
+     "grounds": "nominative singular of vidvas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvitīyamekhalā",
+     "gloss": "second-girdle",
+     "grounds": "accusative singular compound dvitīya + mekhalā",
+     "morph": "compound"
+    },
+    {
+     "surface": "upari",
+     "gloss": "upon",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should the learned make upon the second girdle thus?",
+   "premises": [
+    "kuryāt means should-make",
+    "vidvān means learned",
+    "dvitīyamekhalā means second-girdle"
+   ],
+   "inference": "The learned should make the second girdle upon thus.",
+   "uncertainties": [
+    "object of kuryāt omitted"
+   ],
+   "plain_english": "The learned should make the second girdle upon thus."
+  },
+  {
+   "verse": 1790,
+   "rows": [
+    {
+     "surface": "tattatkuṇḍa",
+     "gloss": "that-that-pit",
+     "grounds": "nominative singular compound tat + tat + kuṇḍa",
+     "morph": "compound"
+    },
+    {
+     "surface": "anurūpāṃ",
+     "gloss": "according",
+     "grounds": "accusative singular feminine of anurūpa",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānamasya",
+     "gloss": "measure-its",
+     "grounds": "accusative singular compound māna + asya",
+     "morph": "compound"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-said",
+     "grounds": "third singular passive present of nigad",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is said about the measure of that pit according or?",
+   "premises": [
+    "tattatkuṇḍa means that-that-pit",
+    "anurūpāṃ means according",
+    "nigadyate means is-said"
+   ],
+   "inference": "The measure of that pit is said according to its form.",
+   "uncertainties": [
+    "vā introduces alternative"
+   ],
+   "plain_english": "The measure of that pit is said according to its form."
+  },
+  {
+   "verse": 1791,
+   "rows": [
+    {
+     "surface": "tāvadbhiḥ",
+     "gloss": "by-so-many",
+     "grounds": "instrumental plural of tāvat",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "āyatā",
+     "gloss": "extended",
+     "grounds": "feminine nominative singular past participle of ā-yam",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṃśaiḥ",
+     "gloss": "parts",
+     "grounds": "instrumental plural of aṃśa",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "nābhiḥ",
+     "gloss": "navel",
+     "grounds": "nominative singular of nābhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "declared",
+     "grounds": "feminine nominative singular past participle of vac",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-wise",
+     "grounds": "instrumental plural of manīṣin",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How is the navel declared extended by so many parts by the wise?",
+   "premises": [
+    "tāvadbhiḥ means by-so-many",
+    "āyatā means extended",
+    "nābhiḥ means navel"
+   ],
+   "inference": "The navel is declared extended by so many parts by the wise.",
+   "uncertainties": [
+    "tāvat quantity unspecified"
+   ],
+   "plain_english": "The navel is declared extended by so many parts by the wise."
+  },
+  {
+   "verse": 1792,
+   "rows": [
+    {
+     "surface": "kuṇḍeṣu",
+     "gloss": "in-pits",
+     "grounds": "locative plural of kuṇḍa",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "anyeṣu",
+     "gloss": "others",
+     "grounds": "locative plural masculine of anya",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vardhayet",
+     "gloss": "increase",
+     "grounds": "third singular optative causative of vṛdh",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What should be increased in other pits?",
+   "premises": [
+    "kuṇḍeṣu means in-pits",
+    "anyeṣu means others",
+    "vardhayet means increase"
+   ],
+   "inference": "One should increase something in other pits.",
+   "uncertainties": [
+    "object of increase omitted"
+   ],
+   "plain_english": "One should increase something in other pits."
+  },
+  {
+   "verse": 1793,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative singular of madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs"
+    },
+    {
+     "surface": "karṇikām",
+     "gloss": "pericarp",
+     "grounds": "accusative singular of karṇikā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the pericarp made in the middle threefold?",
+   "premises": [
+    "tridhā means threefold",
+    "madhye means in-middle",
+    "karṇikām means pericarp"
+   ],
+   "inference": "The pericarp is made in the middle threefold.",
+   "uncertainties": [
+    "exact construction"
+   ],
+   "plain_english": "The pericarp is made in the middle threefold."
+  },
+  {
+   "verse": 1794,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "third singular optative of kṛ",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "sampūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "neuter accusative singular of sampūrṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍalakṣaṇam",
+     "gloss": "pit-characteristic",
+     "grounds": "accusative singular compound kuṇḍa + lakṣaṇa",
+     "morph": "compound"
+    }
+   ],
+   "question": "What complete pit-characteristic should be made?",
+   "premises": [
+    "kuryāt means should-make",
+    "sampūrṇaṃ means complete",
+    "kuṇḍalakṣaṇam means pit-characteristic"
+   ],
+   "inference": "One should make the complete pit-characteristic.",
+   "uncertainties": [
+    "scope of completeness"
+   ],
+   "plain_english": "One should make the complete pit-characteristic."
+  },
+  {
+   "verse": 1795,
+   "rows": [
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "accusative singular of kuṇḍa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatārdhe",
+     "gloss": "half-hundred",
+     "grounds": "locative singular compound śata + ardha",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃpracakṣate",
+     "gloss": "declared",
+     "grounds": "third plural present of saṃ-pra-cakṣ",
+     "morph": "3.pl.pres"
+    }
+   ],
+   "question": "What pit is declared at half-hundred?",
+   "premises": [
+    "kuṇḍaṃ means pit",
+    "śatārdhe means half-hundred",
+    "saṃpracakṣate means declared"
+   ],
+   "inference": "The pit is declared at half-hundred.",
+   "uncertainties": [
+    "half-hundred as measure"
+   ],
+   "plain_english": "The pit is declared at half-hundred."
+  },
+  {
+   "verse": 1796,
+   "rows": [
+    {
+     "surface": "caturhasta",
+     "gloss": "four-hand",
+     "grounds": "nominative singular compound catur + hasta",
+     "morph": "compound"
+    },
+    {
+     "surface": "mudīritam",
+     "gloss": "declared",
+     "grounds": "neuter nominative singular past participle of mudīr",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is declared as four-hand?",
+   "premises": [
+    "caturhasta means four-hand",
+    "mudīritam means declared"
+   ],
+   "inference": "The four-hand measure is declared.",
+   "uncertainties": [
+    "referent omitted"
+   ],
+   "plain_english": "The four-hand measure is declared."
+  },
+  {
+   "verse": 1797,
+   "rows": [
+    {
+     "surface": "ekahasta",
+     "gloss": "one-hand",
+     "grounds": "nominative singular compound eka + hasta",
+     "morph": "compound"
+    },
+    {
+     "surface": "mitaṃ",
+     "gloss": "measured",
+     "grounds": "neuter nominative singular past participle of mā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "pit",
+     "grounds": "nominative singular of kuṇḍa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekalakṣe",
+     "gloss": "single-lakh",
+     "grounds": "locative singular compound eka + lakṣa",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "prescribed",
+     "grounds": "third singular passive present of vidhā",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What pit measured one hand is prescribed for single lakh?",
+   "premises": [
+    "ekahasta means one-hand",
+    "mitaṃ means measured",
+    "kuṇḍam means pit"
+   ],
+   "inference": "A pit measured one hand is prescribed for single lakh.",
+   "uncertainties": [
+    "ekalakṣe as ritual count"
+   ],
+   "plain_english": "A pit measured one hand is prescribed for single lakh."
+  },
+  {
+   "verse": 1798,
+   "rows": [
+    {
+     "surface": "daśalākṣāt",
+     "gloss": "ten-lakh",
+     "grounds": "ablative singular compound daśa + lakṣa",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākoṭer",
+     "gloss": "from-striking",
+     "grounds": "ablative singular of ākoṭa",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "daśahastaṃ",
+     "gloss": "ten-hand",
+     "grounds": "accusative singular compound daśa + hasta",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "prescribed",
+     "grounds": "third singular passive present of vidhā",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is prescribed from ten lakh and from striking as ten-hand?",
+   "premises": [
+    "daśalākṣāt means ten-lakh",
+    "ākoṭer means from-striking",
+    "daśahastaṃ means ten-hand"
+   ],
+   "inference": "A ten-hand measure is prescribed from ten lakh and from striking.",
+   "uncertainties": [
+    "ākoṭa technical term"
+   ],
+   "plain_english": "A ten-hand measure is prescribed from ten lakh and from striking."
+  },
+  {
+   "verse": 1799,
+   "rows": [
+    {
+     "surface": "daśahasta",
+     "gloss": "ten-hand",
+     "grounds": "nominative singular compound daśa + hasta",
+     "morph": "compound"
+    },
+    {
+     "surface": "mitāt",
+     "gloss": "measured",
+     "grounds": "ablative singular past participle of mā",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kuṇḍāt",
+     "gloss": "pit",
+     "grounds": "ablative singular of kuṇḍa",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "nominative singular of kuṇḍa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "more",
+     "grounds": "nominative singular of adhika",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "third singular optative of bhū",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "May a pit be more than one measured ten hands?",
+   "premises": [
+    "daśahasta means ten-hand",
+    "mitāt means measured",
+    "kuṇḍāt means pit"
+   ],
+   "inference": "A pit may not be more than one measured ten hands.",
+   "uncertainties": [
+    "negative scope"
+   ],
+   "plain_english": "A pit may not be more than one measured ten hands."
+  }
+ ]
+}

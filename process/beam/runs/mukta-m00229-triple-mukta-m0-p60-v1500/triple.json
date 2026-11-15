@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb of time",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatrāstu",
+     "gloss": "there-may-be",
+     "grounds": "fused form tatra + astu",
+     "morph": "verb.3.sg.act.imp-root-as"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative pronoun feminine nominative singular",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "kṣatiḥ",
+     "gloss": "loss",
+     "grounds": "feminine nominative singular noun",
+     "morph": "noun.f.nom.sg"
+    }
+   ],
+   "question": "What loss could there be in praising a non-haumikī practice for śūdras?",
+   "premises": [
+    "tadā indicates then",
+    "tatrāstu means there may be",
+    "kā kṣatiḥ asks what loss"
+   ],
+   "inference": "The verse rhetorically asks what harm could result from that allowance.",
+   "uncertainties": [
+    "The exact referent of tatra depends on the preceding context."
+   ],
+   "plain_english": "Then what loss is there in that?"
+  }
+ ]
+}

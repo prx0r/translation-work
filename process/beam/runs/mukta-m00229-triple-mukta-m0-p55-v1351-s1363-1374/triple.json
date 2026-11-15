@@ -1,0 +1,484 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "hṛdayamantreṇa",
+     "gloss": "heart-mantra",
+     "grounds": "heart mantra instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "pavitrīkaraṇaṃ",
+     "gloss": "purification",
+     "grounds": "purification accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tvidam",
+     "gloss": "but-this",
+     "grounds": "but this pronoun",
+     "morph": "pron.acc.sg.n"
+    }
+   ],
+   "question": "How is purification performed with the heart mantra?",
+   "premises": [
+    "heart mantra purifies",
+    "this purification is specified"
+   ],
+   "inference": "the heart mantra is used for purification",
+   "uncertainties": [
+    "exact ritual object unclear"
+   ],
+   "plain_english": "Purification is done with the heart mantra."
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "visarjayet",
+     "gloss": "should-release",
+     "grounds": "release optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "darbham",
+     "gloss": "darbha",
+     "grounds": "darbha accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhidyotanam",
+     "gloss": "illumination",
+     "grounds": "illumination accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "declared participle",
+     "morph": "pp.acc.sg.n"
+    }
+   ],
+   "question": "What should be released as declared illumination?",
+   "premises": [
+    "darbha is released",
+    "illumination is declared"
+   ],
+   "inference": "the declared illumination is released through darbha",
+   "uncertainties": [
+    "release target ambiguous"
+   ],
+   "plain_english": "One should release the darbha as declared illumination."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "those accusative",
+     "morph": "pron.acc.pl.m"
+    },
+    {
+     "surface": "nyasyet",
+     "gloss": "should-place",
+     "grounds": "place optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pradyotanam",
+     "gloss": "illumination",
+     "grounds": "illumination accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "this pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "matam",
+     "gloss": "opinion",
+     "grounds": "opinion accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should those be placed according to this opinion?",
+   "premises": [
+    "those are placed",
+    "illumination is this opinion"
+   ],
+   "inference": "placement follows the stated opinion",
+   "uncertainties": [
+    "referent of those unclear"
+   ],
+   "plain_english": "Those should be placed as this illumination opinion states."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "aṅguṣṭhopakaniṣṭhābhyāṃ",
+     "gloss": "thumb-little-finger",
+     "grounds": "thumb and little finger instrumental dual",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "darbhau",
+     "gloss": "darbhas",
+     "grounds": "darbha accusative dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "prādeśa",
+     "gloss": "span",
+     "grounds": "span compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sammitau",
+     "gloss": "measured",
+     "grounds": "measured participle",
+     "morph": "pp.acc.du.m"
+    }
+   ],
+   "question": "How are the darbhas measured by thumb and little finger?",
+   "premises": [
+    "thumb and little finger measure",
+    "darbhas are measured"
+   ],
+   "inference": "darbhas are measured by span",
+   "uncertainties": [
+    "exact span unclear"
+   ],
+   "plain_english": "The darbhas are measured by thumb and little finger span."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "likewise indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayamantreṇa",
+     "gloss": "heart-mantra",
+     "grounds": "heart mantra instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kuśābhyām",
+     "gloss": "with-kushas",
+     "grounds": "kusha instrumental dual",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "ātmasaṃmukham",
+     "gloss": "toward-self",
+     "grounds": "toward self adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the heart mantra used with kushas toward self?",
+   "premises": [
+    "heart mantra is used",
+    "kushas are used",
+    "direction is toward self"
+   ],
+   "inference": "the rite uses heart mantra and kushas toward self",
+   "uncertainties": [
+    "action verb omitted"
+   ],
+   "plain_english": "Likewise with the heart mantra and kushas toward oneself."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "prādeśamātraṃ",
+     "gloss": "span-measure",
+     "grounds": "span measure accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sagranthi",
+     "gloss": "with-knot",
+     "grounds": "with knot compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darbhayugmaṃ",
+     "gloss": "darbha-pair",
+     "grounds": "darbha pair accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghṛtāntare",
+     "gloss": "in-ghee-interval",
+     "grounds": "in ghee interval locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the knotted darbha pair placed by span measure?",
+   "premises": [
+    "darbha pair is knotted",
+    "span measure is used",
+    "ghee interval is location"
+   ],
+   "inference": "the knotted darbha pair is placed in ghee interval",
+   "uncertainties": [
+    "exact placement unclear"
+   ],
+   "plain_english": "A knotted pair of darbhas, span-measured, is in the ghee interval."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "nāḍīm",
+     "gloss": "channel",
+     "grounds": "channel accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "iḍāṃ",
+     "gloss": "ida",
+     "grounds": "ida accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "part locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sakṣiṇe",
+     "gloss": "right",
+     "grounds": "right locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "piṅgalāṃ",
+     "gloss": "pingala",
+     "grounds": "pingala accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "then indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which channels are placed in right and left parts?",
+   "premises": [
+    "ida channel is placed",
+    "pingala channel is placed",
+    "right part is specified"
+   ],
+   "inference": "ida and pingala are assigned to parts",
+   "uncertainties": [
+    "left part implied"
+   ],
+   "plain_english": "The ida channel in the right part, then pingala."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "dakṣiṇādbhāgād",
+     "gloss": "from-right-part",
+     "grounds": "from right part ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "taking",
+     "grounds": "taking absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "ghee",
+     "grounds": "ghee accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "heart",
+     "grounds": "heart instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "wise nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "From which part does the wise one take ghee with the heart?",
+   "premises": [
+    "wise one takes ghee",
+    "right part is source",
+    "heart is instrument"
+   ],
+   "inference": "ghee is taken from the right part by the wise",
+   "uncertainties": [
+    "heart usage unclear"
+   ],
+   "plain_english": "The wise one takes ghee from the right part with the heart."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "vāmataḥ",
+     "gloss": "from-left",
+     "grounds": "from left ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvadādāya",
+     "gloss": "likewise-taking",
+     "grounds": "likewise taking compound",
+     "morph": "abs"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "left locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahnivilocane",
+     "gloss": "fire-eye",
+     "grounds": "fire eye locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is ghee taken from the left into the fire eye?",
+   "premises": [
+    "left source is used",
+    "taking is likewise",
+    "fire eye is target"
+   ],
+   "inference": "ghee is taken from left into fire eye",
+   "uncertainties": [
+    "exact fire eye unclear"
+   ],
+   "plain_english": "Likewise taking from the left into the left fire eye."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "fire genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhālavilocane",
+     "gloss": "forehead-eye",
+     "grounds": "forehead eye locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the fire's forehead eye located?",
+   "premises": [
+    "fire has forehead eye",
+    "location is specified"
+   ],
+   "inference": "the fire's forehead eye is a locus",
+   "uncertainties": [
+    "ritual meaning unclear"
+   ],
+   "plain_english": "The fire's forehead eye."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "trinetrasadbhāvo",
+     "gloss": "three-eyed-reality",
+     "grounds": "three eyed reality nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "exists verb",
+     "morph": "3.sg.pass.prs"
+    },
+    {
+     "surface": "nṛhariṃ",
+     "gloss": "without-narasimha",
+     "grounds": "narasimha accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "vinā",
+     "grounds": "without indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does three-eyed reality exist without Narasimha?",
+   "premises": [
+    "three-eyed reality exists",
+    "narasimha is excluded"
+   ],
+   "inference": "three-eyed reality is said to exist without narasimha",
+   "uncertainties": [
+    "doctrinal scope unclear"
+   ],
+   "plain_english": "Three-eyed reality exists without Narasimha."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "fire genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "trinetratvaṃ",
+     "gloss": "three-eyedness",
+     "grounds": "three eyedness nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devatāpekṣam",
+     "gloss": "deity-dependent",
+     "grounds": "deity dependent nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "is said verb",
+     "morph": "3.sg.pass.prs"
+    }
+   ],
+   "question": "Is fire's three-eyedness said to depend on deity?",
+   "premises": [
+    "fire has three-eyedness",
+    "deity dependence is stated"
+   ],
+   "inference": "three-eyedness is deity-dependent",
+   "uncertainties": [
+    "which deity unclear"
+   ],
+   "plain_english": "Fire's three-eyedness is said to be deity-dependent."
+  }
+ ]
+}

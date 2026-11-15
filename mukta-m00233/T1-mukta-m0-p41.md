@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[twelve-parts](bhānvaṃśaiḥ) [thigh-middle](ūru+madhyasya) [at-calf-root](jaṅghā+mūle) [eight-measures](aṣṭa+mātrakaiḥ)
+[gloss](bhānvaṃśaiḥ) [gloss](ūrumadhyasya) [gloss](jaṅghāmūle) [gloss](aṣṭamātrakaiḥ)
 
 ## mukta-m0-p41-v1002
-[extended](vistṛtā) [then](atha) [up-to-eye-and-ankle](akṣi+gulpha+antaṃ) [that](sa) [in-barleycorns](yaveṣu) [part-extended](aṃśa+vistṛtam)
+[gloss](vistṛtā) [gloss](atha) [gloss](akṣigulphāntam) [gloss](sa) [gloss](yaveṣu) [gloss](aṃśavistṛtam)
 
 ## mukta-m0-p41-v1003
-[sixth-part](ṣaḍaṃśaḥ) [forefoot-width](prapada+vyāsaḥ) [of-sole-tip](tala+agrasya) [with-six-barleycorns](sa+ṣaḍ+yavaḥ)
+[gloss](ṣaḍaṃśaḥ) [gloss](prapadavyāsaḥ) [gloss](talāgrasya) [gloss](saṣaḍyavaḥ)
 
 ## mukta-m0-p41-v1004
-[by-half-of-that](tat+ardhena) [from-half-of-that](tat+ardhāt) [nail-width](nakha+vistṛtiḥ)
+[gloss](tadardhena) [gloss](tadardhāt) [gloss](nakhavistṛtiḥ)
 
 ## mukta-m0-p41-v1005
-[by-four-three-fire-eye-measures](veda+rāma+agni+dṛṅ+mātraiḥ) [with-three-six-four-barleycorns](sa+tri+ṣaṭka+catur+yavaiḥ)
+[gloss](vedarāmāgnidṛṅmātraiḥ) [gloss](satriṣaṭkacaturyavaiḥ)
 
 ## mukta-m0-p41-v1006
-[in-order](kramāt) [to-be-known](jñeyaḥ) [by-nine](navabhiḥ) [with-half-sevens](sa+ardha+saptakaiḥ)
+[gloss](kramāt) [gloss](jñeyaḥ) [gloss](navabhiḥ) [gloss](sārdhasaptakaiḥ)
 
 ## mukta-m0-p41-v1007
-[with-quarter-eighth-part-seven-parts](sa+pāda+aṣṭāṃśa+saptāṃśaiḥ) [in-arm-middle](dor+madhye) [at-elbow](korpare) [extent](tatiḥ)
+[gloss](sapādāṣṭāṃśasaptāṃśaiḥ) [gloss](dormadhye) [gloss](korpare) [gloss](tatiḥ)
 
 ## mukta-m0-p41-v1008
-[seven-fingers-length](sapta+aṅgula+āyāmaṃ) [middle-finger](madhyā) [with-half-six-fingers](sa+ardha+ṣaḍ+aṅgulā)
+[gloss](saptāṅgulāyāmaṃ) [gloss](madhyā) [gloss](sārdhaṣaḍaṅgulā)
 
 ## mukta-m0-p41-v1009
-[with-quarter-finger-measure](sa+pāda+iṣu+aṅgula+ānāmā) [little-finger](kaniṣṭhā) [with-fourth-part-quarter](abdhi+aṃśa+pāda+yuk)
+[gloss](sapādeṣu) [gloss](aṅgulānāmā) [gloss](kaniṣṭhābdhyaṃśapādayuk)
 
 ## mukta-m0-p41-v1010
-[from-thumb-beginning-to-little-finger-end](aṅguṣṭha+ādi+kaniṣṭhā+antam) [of-fingers](aṅgulīnāṃ) [extent](tatiḥ) [should-be](bhavet)
+[gloss](aṅguṣṭhādikaniṣṭhāntam) [gloss](aṅgulīnāṃ) [gloss](tatirbhavet)
 
 ## mukta-m0-p41-v1011
-[at-finger-tip-extent](aṅguli+agra+tate) [in-third-part](agni+aṃśe) [two-parts-width](dvi+aṃśa+vyāsāḥ) [nails](nakhāḥ) [separately](pṛthak)
+[gloss](aṅgulyagratate) [gloss](ag nyaṃśe) [gloss](dvyaṃśavyāsāḥ) [gloss](nakhāḥ) [gloss](pṛthak)
 
 ## mukta-m0-p41-v1012
-[by-own-nail-length](sva+nakha+āyāmāt) [tip-joint](agra+parva) [separately](pṛthak) [separately](pṛthak)
+[gloss](svanakhāyāmāt) [gloss](agraparva) [gloss](pṛthak) [gloss](pṛthak)
 
 ## mukta-m0-p41-v1013
-[of-middle-finger](madhyāyāḥ) [with-three-quarters-two](sa+tri+pāda+akṣi) [with-five-barleycorns-measure](sa+pañca+yava+mātrataḥ)
+[gloss](madhyāyāḥ) [gloss](satripādākṣi) [gloss](sapāñcayavamātrataḥ)
 
 ## mukta-m0-p41-v1014
-[what](yat) [remains](śiṣṭaṃ) [of-middle](madhye) [of-root-and-tip-joints](mūla+agra+parvaṇoḥ)
+[gloss](yacchiṣṭaṃ) [gloss](madhyemūlāgraparvaṇoḥ)
 
 ## mukta-m0-p41-v1015
-[with-half-six-tastes-half-five-measure](sa+ardha+ṛtu+rasa+sa+ardha+iṣu+mātra+vyāsaḥ) [of-palm](talasya) [indeed](tu)
+[gloss](sārdharturasasārdheṣumātravyāsaḥ) [gloss](talasya) [gloss](tu)
 
 ## mukta-m0-p41-v1016
-[from-forefinger-root](tarjā+mūlataḥ) [by-third-parts](agni+aṃśaiḥ) [likewise](tathā) [from-thumb-root](aṅguṣṭhasya) [from-root](mūlataḥ)
+[gloss](tarjāmūlataḥ) [gloss](ag nyaṃśaiḥ) [gloss](tathā) [gloss](aṅguṣṭhasya) [gloss](mūlataḥ)
 
 ## mukta-m0-p41-v1017
-[with-half-four-parts](sa+ardha+yugma+aṃśaṃ) [of-hand-heel](kara+parṣṇyāḥ) [thickness](ghanaṃ) [digit](kalā)
+[gloss](sārdhayugmāṃśaṃ) [gloss](śā) [gloss](karaparṣṇyā) [gloss](ghanaṃ) [gloss](kalā)
 
 ## mukta-m0-p41-v1018
-[having-disc-conch-lotus-makara-svastika-etc-marks](cakra+śaṅkha+abja+makara+svastika+ādi+aṅgavat) [palm](talam)
+[gloss](cakraśaṅkhābjamakarasvastikādyaṅgavat) [gloss](talam)
 
 ## mukta-m0-p41-v1019
-[of-two-ears](karṇayoḥ) [middle-circumference](madhya+nāhaḥ) [as-before](prāk) [by-twenty-two-fingers](dvāviṃśati+aṅgulaiḥ) [remembered](smṛtaḥ)
+[gloss](karṇayormadhyanāhaḥ) [gloss](prāk) [gloss](dvāviṃśatyaṅgulaiḥ) [gloss](smṛtaḥ)
 
 ## mukta-m0-p41-v1020
-[from-head](mūrdhnaḥ) [from-middle](madhyāt) [indeed](tu) [up-to-hairline](keśa+antam) [measure](ānam) [stated](uktam) [nine-fingers](nava+aṅgulam)
+[gloss](mūrdhno) [gloss](madhyāṃt) [gloss](tu) [gloss](keśāntamānamuktam) [gloss](navāṅgulam)
 
 ## mukta-m0-p41-v1021
-[pair-of-eyebrows](bhrū+yugaṃ) [one-should-make](kuryāt) [like-strung-bow-curved](sa+jya+cāpa+ānataṃ) [auspicious](śubham)
+[gloss](bhrūyugaṃ) [gloss](kuryāt) [gloss](sajyacāpānataṃ) [gloss](śubham)
 
 ## mukta-m0-p41-v1022
-[of-eyebrows](bhrūvoḥ) [interval](antaram) [by-half-part](ardha+aṃśāt) [by-five-parts](śara+aṃśaiḥ) [length](āyataṃ) [of-eyebrows](bhrūvoḥ)
+[gloss](bhrūvorantaramardhāṃśāccharāṃśaiḥ) [gloss](āyataṃ) [gloss](bhrūvoḥ)
 
 ## mukta-m0-p41-v1023
-[one-digit-length](kalā+āyāma) [width](vyāsā) [should-be](syāt) [then](atha) [six-barleycorns](ṣaḍ+yavaḥ)
+[gloss](kalāyāmavyāsā) [gloss](syādatha) [gloss](ṣaḍyavaḥ)
 
 ## mukta-m0-p41-v1024
-[six-barleycorns](ṣaḍ+yavaḥ) [eye-width](netra+vistāraḥ) [eye-corner](netra+antaḥ) [half-barleycorn](ardha+yavaḥ) [red](aruṇaḥ)
+[gloss](ṣaḍyavo) [gloss](netravistāro) [gloss](netrānto) [gloss](ardhayavo) [gloss](aruṇaḥ)
 
 ## mukta-m0-p41-v1025
-[upper-and-lower-eyelid-width](ūrdhva+adhaḥ+varma+vistāraḥ) [one-barleycorn](yavaṃ) [and](ca) [half-barleycorn](ardha+yavaṃ) [should-be](bhavet)
+[gloss](ūrdhvādhovarmavistāro) [gloss](yavaṃ) [gloss](cārdhayavaṃ) [gloss](bhavet)

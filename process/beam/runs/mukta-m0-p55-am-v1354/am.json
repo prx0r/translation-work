@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1354,
- "question": "What ritual sequence follows the worship of the five Lakṣmīs?",
+ "question": "What should be done when the prior darbha is unavailable?",
  "premises": [
-  "The five Lakṣmīs are to be worshipped first",
-  "After that worship, another act is enjoined",
-  "The next act is worship of the five wish-granting cows"
+  "Taking is enjoined.",
+  "Absence of prior is the condition.",
+  "Next and next options follow."
  ],
- "inference": "After worshipping the five Lakṣmīs, one should worship the five wish-granting cows.",
- "uncertainties": [],
- "plain_english": "Having worshipped the five Lakṣmīs, one should then worship the five wish-granting cows."
+ "inference": "If the prior darbha is absent, one takes the next available, then the next.",
+ "uncertainties": [
+  "Exact fallback sequence is abbreviated."
+ ],
+ "plain_english": "If the prior one is absent, take the next, then the next."
 }

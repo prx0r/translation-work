@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1511,
- "question": "Which further sovereign goddess powers are included in this enumeration?",
+ "question": "What is said when possibility is expected?",
  "premises": [
-  "Sarvavidyeśvarī is named.",
-  "Sarvasiddheśvarī is named.",
-  "The list continues likewise."
+  "possibility is expected",
+  "something is said",
+  "it is sage-spoken"
  ],
- "inference": "The enumeration includes the sovereign ladies of all knowledge and all accomplishments.",
- "uncertainties": [],
- "plain_english": "There are Sarvavidyeśvarī and likewise Sarvasiddheśvarī."
+ "inference": "When possibility is expected, the sage-spoken statement is given.",
+ "uncertainties": [
+  "the exact sage statement is not included here"
+ ],
+ "plain_english": "When possibility is expected, the sage-spoken is said."
 }

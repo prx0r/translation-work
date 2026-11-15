@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1370,
- "question": "Which four named deities are identified in the inner ten-spoked enclosure?",
+ "question": "From which part does the wise one take ghee with the heart?",
  "premises": [
-  "Four names are given in a compound",
-  "The names are Kāma, Manmatha, Kandarpa, and Makaradhvaja",
-  "These names identify the deities"
+  "wise one takes ghee",
+  "right part is source",
+  "heart is instrument"
  ],
- "inference": "The deities are those named Kāma, Manmatha, Kandarpa, and Makaradhvaja.",
- "uncertainties": [],
- "plain_english": "They are the deities named Kāma, Manmatha, Kandarpa, and Makaradhvaja."
+ "inference": "ghee is taken from the right part by the wise",
+ "uncertainties": [
+  "heart usage unclear"
+ ],
+ "plain_english": "The wise one takes ghee from the right part with the heart."
 }

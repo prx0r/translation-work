@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1359,
- "question": "What worship is enjoined after completing the worship of the Samayās?",
+ "question": "What does the mantrin do with the darbhas in fire?",
  "premises": [
-  "The Samayā worship is completed first",
-  "A subsequent worship is enjoined",
-  "The object of that worship is the six-limb enclosure"
+  "Heating is enjoined.",
+  "The mantrin is agent.",
+  "Darbhas are heated in fire and cast."
  ],
- "inference": "After the Samayā worship, one should worship the six-limb enclosure.",
- "uncertainties": [],
- "plain_english": "But at the end of the Samayā worship, one should worship the six-limb enclosure."
+ "inference": "The mantrin heats the darbhas in fire and casts them.",
+ "uncertainties": [
+  "Purpose of casting is not stated."
+ ],
+ "plain_english": "The mantrin should heat the darbhas in fire and cast them."
 }

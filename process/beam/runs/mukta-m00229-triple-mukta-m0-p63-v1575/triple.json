@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "imamityādikaḥ",
+     "gloss": "this-etc-beginning",
+     "grounds": "compound referring to a mantra beginning with imam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvanyo",
+     "gloss": "other-indeed",
+     "grounds": "fused tu + anyaḥ; marks a distinct mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇasyāṃ",
+     "gloss": "southern",
+     "grounds": "locative feminine singular adjective",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "manurmataḥ",
+     "gloss": "manu-opinion",
+     "grounds": "compound or participle expressing Manu's view",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra beginning with imam is assigned to the southern direction according to Manu?",
+   "premises": [
+    "imamityādikaḥ denotes a mantra beginning with imam",
+    "tvanyo marks it as another mantra",
+    "dakṣiṇasyāṃ locates it in the southern direction",
+    "manurmataḥ attributes the view to Manu"
+   ],
+   "inference": "The verse identifies another mantra beginning with imam as Manu's southern-direction mantra.",
+   "uncertainties": [
+    "Exact ritual application of the southern direction is not specified in this verse."
+   ],
+   "plain_english": "The mantra beginning with 'imam' is another one, to be used in the south, according to Manu."
+  }
+ ]
+}

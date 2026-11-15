@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "nādavindusamāyuktā",
+     "gloss": "endowed-with-nāda-bindu",
+     "grounds": "compound adjective describing the mantra element as joined with nāda and bindu",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb indicating the stated manner of construction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krodhadvayaṃ",
+     "gloss": "two-wraths",
+     "grounds": "compound noun naming the paired wrath mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb marking repetition or renewed application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the doubled wrath mantra completed with nāda and bindu?",
+   "premises": [
+    "nāda and bindu endow the mantra element",
+    "the construction is stated to occur thus",
+    "the wrath pair is mentioned again"
+   ],
+   "inference": "The verse states that the two wraths are again endowed with nāda and bindu.",
+   "uncertainties": [
+    "The exact syntactic role of punaḥ is not fully explicit in this excerpt."
+   ],
+   "plain_english": "Thus the two wraths are again endowed with nāda and bindu."
+  }
+ ]
+}

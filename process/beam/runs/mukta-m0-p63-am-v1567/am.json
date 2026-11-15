@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p63",
  "verse": 1567,
- "question": "What twofold excellence of wisdom and victory does the practitioner attain?",
+ "question": "When and for how long is the rite performed?",
  "premises": [
-  "The practitioner becomes wise.",
-  "The practitioner becomes victorious everywhere.",
-  "Both results are stated as outcomes."
+  "the duration is a half-watch",
+  "the time is night",
+  "the phrase is adverbial"
  ],
- "inference": "The practitioner becomes wise and victorious everywhere.",
- "uncertainties": [],
- "plain_english": "O goddess, he becomes wise and becomes victorious everywhere."
+ "inference": "The verse specifies performance at night for a half-watch.",
+ "uncertainties": [
+  "The exact watch measure is not clarified."
+ ],
+ "plain_english": "At night, for a half-watch."
 }
