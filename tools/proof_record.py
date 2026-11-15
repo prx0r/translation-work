@@ -298,7 +298,15 @@ def main() -> int:
         a = "".join(t1.get(v, []))
         _sv = _clean_span(src[v])
         b = "".join(_sv)
-        r = difflib.SequenceMatcher(None, deparen(a), deparen(b)).ratio()
+        # autojunk=False: alignment compares EVERY token. difflib's autojunk
+        # (default True) drops tokens appearing in >1% of a long string as
+        # "boilerplate" — for source-vs-translation that silently discards
+        # real frequent Sanskrit (ca/na/iti/...) and tanks the ratio on long
+        # prose (7 IPVV chunks read 0.079-0.811 instead of 0.98+). Every other
+        # comparator in this repo already passes autojunk=False; this gate is
+        # the outlier. Monotone-safe: can only raise a ratio, never lower one,
+        # so no previously-PASS song can regress from this fix.
+        r = difflib.SequenceMatcher(None, deparen(a), deparen(b), autojunk=False).ratio()
         align[str(v)] = round(r, 3)
         if r < 0.90:
             sub090[str(v)] = {"ratio": round(r, 3), "disposition": disp.get(str(v))}

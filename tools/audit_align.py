@@ -166,7 +166,9 @@ def classify(a: str, b: str) -> tuple[str, str]:
     # '+' is T1 compound-boundary markup (never Sanskrit, never in source):
     # strip it up front so opcodes align on content, not markup.
     a, b = a.replace("+", ""), b.replace("+", "")
-    sm = difflib.SequenceMatcher(None, a, b)
+    # autojunk=False must match proof_record's B3 exactly, or the classifier
+    # would replay a different comparison than the gate that produced the block.
+    sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
     classes = []
     bad = []
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
@@ -249,7 +251,7 @@ def audit_song(work: str, song: str) -> dict:
         v = int(m.group(1))
         a = "".join(t1.get(v, []))
         b_ = "".join(_clean(src.get(v, [])))
-        r = difflib.SequenceMatcher(None, P.deparen(a), P.deparen(b_)).ratio()
+        r = difflib.SequenceMatcher(None, P.deparen(a), P.deparen(b_), autojunk=False).ratio()
         if r >= 0.90:
             out["verses"][str(v)] = {"verdict": "stale-pass",
                                      "ratio": round(r, 3),

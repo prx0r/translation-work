@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[daughter](putrī) [+](+) [trident](triśūla) [+](+) [bearer](bhṛtam) [+](+) [lord](īśam) [+](+) [I](aham) [having-bowed](praṇamya)
+[daughter](putrī)+[trident](triśūla)+[bearing](bṛtam)+[lord](īśam)+[I](aham) [having-bowed](praṇamya)
 
 ## mukta-m0-p01-v2
-[straight](ṛju) [+](+) [concise](sakṣepa) [+](+) [complete](saṃpūrṇaṃ) [all](sarva) [+](+) [establishment](sthāpana) [+](+) [filled-with](saṅkulam)
+[straight](ṛju)+[concise](sakṣepa)+[complete](saṃpūrṇaṃ) [all](sarva)+[installation](sthāpana)+[full-of](saṅkulam) [endowed-with-good-qualities](sadguṇam)+[thus](iti)
 
 ## mukta-m0-p01-v3
-[for-benefit](hitāya) [dull](manda) [+](+) [of-minds](buddhīnāṃ) [for-remembrance](smaraṇāya) [of-wise](manīṣiṇām)
+[for-the-benefit](hitāya) [of-the-dull-witted](mandabuddhīnāṃ) [for-the-remembrance](smaraṇāya) [of-the-wise](manīṣiṇām)
 
 ## mukta-m0-p01-v4
-[many](bahu) [+](+) [treatises](tantrāṇi) [+](+) [therefore](ato) [having-examined](vīkṣya) [in-order](krameṇa) [+](+) [in-one-place](ekatra) [is-written](likhyate)
+[many](bahu)+[scriptures](tantrāṇi)+[therefore](ataḥ) [having-examined](vīkṣya) [in-order](krameṇa)+[in-one-place](ekatra) [is-written](likhyate)
 
 ## mukta-m0-p01-v5
-[then](tadā) [scripture](āgama) [+](+) [according-to](anusāreṇa) [liṅga](liṅgaṃ) [I-shall-speak](vakṣyāmi) [now](sāṃpratam)
+[then](tadā) [scriptures](tantrā) [according-to-tradition](gamānusāreṇa) [liṅga](liṅgaṃ) [I-shall-describe](vakṣyāmi) [now](sāṃpratam)
 
 ## mukta-m0-p01-v6
-[dissolves](līyate) [in-dissolution](pralaye) [where](yatra) [that](tat) [+](+) [this](idaṃ) [liṅga](liṅgam) [+](+) [is-called](ucyate)
+[is-dissolved](līyate) [at-dissolution](pralaye) [where](yatra) [that](tat)+[this](idam) [liṅga](liṅgam)+[is-called](ucyate)
 
 ## mukta-m0-p01-v7
-[deficiency](hīna) [+](+) [etc.](ādi) [accomplishments](siddhayas) [+](+) [from-that](tasmāt) [+](+) [Śiva](śiva) [+](+) [worship](pūjā) [+](+) [by-service](upacārataḥ)
+[deficiency](hīna)+[and-so-forth](ādi) [perfections](siddhayaḥ)+[from-that](tasmāt)+[Śiva](śiva)+[worship](pūjā)+[by-means-of-service](upacārataḥ)
 
 ## mukta-m0-p01-v8
-[all-knowing](sarvajñaṃ) [all-giving](sarvadaṃ) [pure](śuddhaṃ) [Śiva](śiva) [+](+) [principle](tattvaṃ) [and](ca) [liberation-giving](mokṣadam)
+[all-knowing](sarvajñaṃ) [all-giving](sarvadaṃ) [pure](śuddhaṃ) [Śiva](śiva)+[principle](tattvaṃ) [and](ca) [liberation](mokṣa)+[giving](dam)
 
 ## mukta-m0-p01-v9
-[therefore](ato) [by-humans](nara) [+](+) [etc.](ādibhis) [+](+) [that](tat) [+](+) [indeed](tu) [liṅga](liṅga) [+](+) [in-form](rūpam) [+](+) [is-worshipped](upāsyate)
+[therefore](ataḥ) [by-humans](nara)+[and-others](ādibhiḥ)+[that](tat)+[indeed](tu) [liṅga](liṅga)+[in-the-form](rūpam)+[is-worshipped](upāsyate)
 
 ## mukta-m0-p01-v10
-[great](mahā) [+](+) [sovereignty](rājya) [+](+) [giving](pradā) [worship](pūjā) [meditation](dhyānaṃ) [liberation](mokṣa) [+](+) [giving](pradāyakam)
+[great](mahā)+[sovereignty](rājya)+[bestowing](pradā) [worship](pūjā) [meditation](dhyānaṃ) [liberation](mokṣa)+[bestowing](pradāyakam)
 
 ## mukta-m0-p01-v11
-[that](tat) [+](+) [fruit](phalaṃ) [twofold](dviguṇaṃ) [properly](samyag) [liṅga](liṅga) [+](+) [in-one](eka) [+](+) [by-establishment](sthāpanā) [+](+) [by-obtaining](āpanāt) [+](+) [certainly](dhruvam)
+[that](tat)+[fruit](phalaṃ) [twofold](dviguṇaṃ) [properly](samyag) [liṅga](liṅga)+[in-one-place](eka)+[by-installation](sthāpanā)+[from-obtaining](āpanāt)+[certainly](dhruvam)
 
 ## mukta-m0-p01-v12
-[that](tat) [+](+) [indeed](eva) [grass](tṛṇa) [+](+) [wall](kuḍya) [+](+) [etc.](ādyair) [+](+) [of-poor](daridrāṇām) [+](+) [without-deceit](aśāṭhyataḥ)
+[that](tat)+[indeed](eva) [grass](tṛṇa)+[wall](kuḍya)+[and-so-forth](ādyaiḥ)+[for-the-poor](daridrāṇām)+[without-deceit](aśāṭhyataḥ)
 
 ## mukta-m0-p01-v13
-[characteristics](lakṣaṇaṃ) [liṅga](liṅga) [+](+) [shrine](dhāma) [+](+) [etc.](ādau) [to-humans](narebhyaḥ) [will-be-told](vakṣyate) [+](+) [now](adhunā)
+[characteristics](lakṣaṇaṃ) [liṅga](liṅga)+[shrine](dhāma)+[and-so-forth](ādau) [to-humans](narebhyaḥ) [will-be-told](vakṣyate)+[now](adhunā) [always](sadā)
 
 ## mukta-m0-p01-v14
-[liṅga](liṅgaṃ) [and](ca) [face](mukha) [+](+) [liṅga](liṅgaṃ) [and](ca) [male](puṃ) [+](+) [female](striyau) [and](ca) [neuter](napuṃsakam)
+[liṅga](liṅgaṃ) [and](ca) [face](mukha)+[liṅga](liṅgaṃ) [and](ca) [male](puṃ)+[female](striyau) [and](ca) [neuter](napuṃsakam)
 
 ## mukta-m0-p01-v15
-[sun](sūrya) [+](+) [eight](aṣṭa) [+](+) [eight-sided](aṣṭāsrake) [Viṣṇu](viṣṇur) [+](+) [Brahmā](brahmā) [Veda](veda) [+](+) [sided](āsrake) [lord](vibhuḥ)
+[sun](sūrya)+[eight](aṣṭa)+[eight-cornered](aṣṭāsrake) [Viṣṇu](viṣṇuḥ)+[Brahmā](brahmā) [four-cornered](veda)+[cornered](āsrake) [lord](vibhuḥ)
 
 ## mukta-m0-p01-v16
-[manifest](vyaktaṃ) [head](mūrdha) [+](+) [etc.](ādi) [+](+) [endowed-with](saṃyuktaṃ) [manifest](vyakta) [+](+) [unmanifest](avyaktaṃ) [two](dvi) [+](+) [formed](rūpakam)
+[manifest](vyaktaṃ) [head](mūrdha)+[and-so-forth](ādi)+[endowed-with](saṃyuktaṃ) [manifest](vyakta)+[unmanifest](avyaktaṃ) [two](dvi)+[formed](rūpakam)
 
 ## mukta-m0-p01-v17
-[enjoyment](bhukti) [+](+) [liberation](mukti) [+](+) [giving](pradaṃ) [mixed](miśram) [+](+) [thus](iti) [+](+) [this](etat) [+](+) [by-form](rūpataḥ) [should-be](bhavet)
+[enjoyment](bhukti)+[liberation](mukti)+[bestowing](pradaṃ) [mixed](miśram)+[thus](iti)+[this](etat)+[by-form](rūpataḥ) [should-be](bhavet)
 
 ## mukta-m0-p01-v18
-[quickly](śīghraṃ) [accomplishment](siddhi) [+](+) [causing](karaṃ) [and](yat) [+](+) [which](ca) [with-desire](kāmya) [+](+) [without-desire](akāmyāya) [which](yat) [+](+) [should-be](bhavet)
+[quickly](śīghraṃ) [accomplishment](siddhi)+[causing](karaṃ) [and](yat)+[which](ca) [for-desired](kāmya)+[for-non-desired](akāmyāya) [which](yat)+[may-be](bhavet)
 
 ## mukta-m0-p01-v19
-[artisans](kārukā) [image](mūrti) [+](+) [guardians](pāḥ) [+](+) [and](ca) [+](+) [indeed](eva) [forest](vana) [+](+) [journey](yātrā) [+](+) [etc.](ādikaṃ) [as](yathā)
+[artisans](kārukāḥ) [image](mūrti)+[guardians](pāḥ)+[and](ca)+[indeed](eva) [forest](vana)+[journey](yātrā)+[and-so-forth](ādikaṃ) [as](yathā)
 
 ## mukta-m0-p01-v20
-[merit](puṇya) [+](+) [place](sthāna) [+](+) [division](vibhāgaḥ) [+](+) [and](ca) [site](vāstu) [+](+) [taking](grahaṇam) [+](+) [worship](arcanam)
+[sacred](puṇya)+[place](sthāna)+[division](vibhāgaḥ)+[and](ca) [site](vāstu)+[taking](grahaṇam)+[worship](arcanam)
 
 ## mukta-m0-p01-v21
-[Śiva](śivaḥ) [liṅga](liṅga) [+](+) [rite](vidhir) [+](+) [sacrifice](yāgaḥ) [banner](dhvaja) [+](+) [up-to](paryantakaṃ) [likewise](tathā)
+[Śiva](śivaḥ) [liṅga](liṅga)+[rite](vidhiḥ)+[sacrifice](yāgaḥ) [banner](dhvaja)+[up-to-the-end](paryantakaṃ) [likewise](tathā)
 
 ## mukta-m0-p01-v22
-[of-ascetics](yatīnām) [+](+) [abode](āśrayaḥ) [of-what-kind](yādṛk) [consecration](pratiṣṭhā) [fivefold](pañcadhā) [and](ca) [which](yā)
+[of-ascetics](yatīnām)+[abode](āśrayaḥ) [of-what-kind](yādṛk) [consecration](pratiṣṭhā) [fivefold](pañcadhā) [and](ca) [which](yā)
 
 ## mukta-m0-p01-v23
-[in-establishment](sthāpane) [and](yaḥ) [+](+) [which](ca) [materials](saṃbhāraḥ) [thus](iti) [+](+) [etc.](ādi) [+](+) [all](akhilam) [+](+) [is-stated](ucyate)
+[in-installation](sthāpane) [and](yaḥ)+[which](ca) [materials](saṃbhāraḥ) [thus](iti)+[and-so-forth](ādi)+[all](akhilam)+[is-stated](ucyate)
 
 ## mukta-m0-p01-v24
-[small](kṣudra) [+](+) [for-desire](kāmāya) [metal](loha) [+](+) [made](utthaṃ) [jewel](ratna) [+](+) [born](jaṃ) [many](bahu) [+](+) [accomplishment](siddhi) [+](+) [giving](dam)
+[small](kṣudra)+[desire](kāmāya) [metal](loha)+[made](utthaṃ) [jewel](ratna)+[born](jaṃ) [many](bahu)+[accomplishment](siddhi)+[giving](dam)
 
 ## mukta-m0-p01-v25
-[space](kha) [+](+) [on-support](ādhāreṇa) [to-be-established](vyavasthāpyaṃ) [perishable](naśvaraṃ) [metal](dhātu) [+](+) [wood](dāru) [+](+) [born](jam)
+[space](kha)+[on-a-support](ādhāreṇa) [to-be-established](vyavasthāpyaṃ) [perishable](naśvaraṃ) [metal](dhātu)+[wood](dāru)+[made](jam)
