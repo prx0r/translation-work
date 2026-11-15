@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "trisaṃdhyaṃ",
+     "gloss": "at-three-junctures",
+     "grounds": "adverbial accusative of trisandhya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptarātraṃ",
+     "gloss": "for-seven-nights",
+     "grounds": "duration accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rātriṣu",
+     "gloss": "in-nights",
+     "grounds": "locative plural feminine",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "nirjapet",
+     "gloss": "one-should-mutter",
+     "grounds": "optative of nirjap",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What temporal schedule governs the muttering after the seven-night rite?",
+   "premises": [
+    "Muttering occurs at three junctures.",
+    "The rite lasts seven nights.",
+    "Muttering continues in nights thereafter."
+   ],
+   "inference": "The practitioner mutters at three daily junctures for seven nights, then continues muttering during subsequent nights.",
+   "uncertainties": [
+    "Exact mantra and deity remain unspecified.",
+    "Whether nirjapet is optative or imperative is not fully certain."
+   ],
+   "plain_english": "One should mutter at the three junctures for seven nights, and then in the nights thereafter."
+  }
+ ]
+}

@@ -1,0 +1,1294 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 726,
+   "rows": [
+    {
+     "surface": "śuci",
+     "gloss": "pure",
+     "grounds": "legacy hint pure",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "paktvā",
+     "gloss": "having-cooked",
+     "grounds": "legacy hint having-cooked",
+     "morph": "verb.3.sg.act-perf.part."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saptāhaṃ",
+     "gloss": "seven-days",
+     "grounds": "legacy hint seven-days",
+     "morph": "noun.acc.sg.m."
+    },
+    {
+     "surface": "matsyaṃ",
+     "gloss": "fish",
+     "grounds": "legacy hint fish",
+     "morph": "noun.acc.sg.m."
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "legacy hint meat",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "surāphalam",
+     "gloss": "liquor-fruit",
+     "grounds": "legacy hint liquor-fruit",
+     "morph": "noun.acc.sg.n."
+    }
+   ],
+   "question": "What substances are cooked for seven days in this purification rite?",
+   "premises": [
+    "śuci means pure",
+    "saptāhaṃ means seven days",
+    "matsyaṃ māṃsaṃ surāphalam are substances"
+   ],
+   "inference": "The verse lists substances to be cooked for seven days.",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "Cook pure fish, meat, and liquor-fruit for seven days."
+  },
+  {
+   "verse": 727,
+   "rows": [
+    {
+     "surface": "śanau",
+     "gloss": "saturday",
+     "grounds": "legacy hint saturday",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kujavāre",
+     "gloss": "tuesday",
+     "grounds": "legacy hint tuesday",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bāladoṣopaśāntaye",
+     "gloss": "child-defect-pacification",
+     "grounds": "legacy hint child-defect-pacification",
+     "morph": "noun.dat.sg.f."
+    }
+   ],
+   "question": "On which weekdays is this child-defect pacification performed?",
+   "premises": [
+    "śanau means saturday",
+    "kujavāre means tuesday",
+    "bāladoṣopaśāntaye means child-defect-pacification"
+   ],
+   "inference": "The rite is done on Saturday or Tuesday for pacifying a child's defect.",
+   "uncertainties": [
+    "exact defect unspecified"
+   ],
+   "plain_english": "On Saturday or Tuesday, for pacifying a child's defect."
+  },
+  {
+   "verse": 728,
+   "rows": [
+    {
+     "surface": "baddhaṃ",
+     "gloss": "bound",
+     "grounds": "legacy hint bound",
+     "morph": "adj.acc.sg.n."
+    },
+    {
+     "surface": "gale",
+     "gloss": "in-throat",
+     "grounds": "legacy hint in-throat",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jaghane",
+     "gloss": "in-hip",
+     "grounds": "legacy hint in-hip",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "bālo",
+     "gloss": "child",
+     "grounds": "legacy hint child",
+     "morph": "noun.nom.sg.m."
+    },
+    {
+     "surface": "ahituṇḍikāṃ",
+     "gloss": "ahituṇḍikā",
+     "grounds": "legacy hint ahituṇḍikā",
+     "morph": "noun.acc.sg.f."
+    },
+    {
+     "surface": "jayet",
+     "gloss": "conquers",
+     "grounds": "legacy hint conquers",
+     "morph": "verb.3.sg.act-pres."
+    }
+   ],
+   "question": "Where is the bound ahituṇḍikā placed for a child to conquer it?",
+   "premises": [
+    "baddhaṃ means bound",
+    "gale means in-throat",
+    "jaghane means in-hip",
+    "bālo means child",
+    "ahituṇḍikāṃ means ahituṇḍikā",
+    "jayet means conquers"
+   ],
+   "inference": "A bound ahituṇḍikā is placed in throat and hip for the child to conquer.",
+   "uncertainties": [
+    "ahituṇḍikā identity unclear"
+   ],
+   "plain_english": "Bound in throat and hip, the child conquers ahituṇḍikā."
+  },
+  {
+   "verse": 729,
+   "rows": [
+    {
+     "surface": "puṣyārke",
+     "gloss": "under-puṣya-sun",
+     "grounds": "legacy hint under-puṣya-sun",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ravervāre",
+     "gloss": "sun-day",
+     "grounds": "legacy hint sun-day",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "bālo",
+     "gloss": "child",
+     "grounds": "legacy hint child",
+     "morph": "noun.nom.sg.m."
+    },
+    {
+     "surface": "ahituṇḍikāṃ",
+     "gloss": "ahituṇḍikā",
+     "grounds": "legacy hint ahituṇḍikā",
+     "morph": "noun.acc.sg.f."
+    },
+    {
+     "surface": "jayet",
+     "gloss": "conquers",
+     "grounds": "legacy hint conquers",
+     "morph": "verb.3.sg.act-pres."
+    }
+   ],
+   "question": "Under which astrological conditions does a child conquer ahituṇḍikā?",
+   "premises": [
+    "puṣyārke means under-puṣya-sun",
+    "ravervāre means sun-day",
+    "bālo means child",
+    "ahituṇḍikāṃ means ahituṇḍikā",
+    "jayet means conquers"
+   ],
+   "inference": "The child conquers ahituṇḍikā under Puṣya with sun or on Sunday.",
+   "uncertainties": [
+    "astrological nuance unclear"
+   ],
+   "plain_english": "Under Puṣya-sun or on Sunday, the child conquers ahituṇḍikā."
+  },
+  {
+   "verse": 730,
+   "rows": [
+    {
+     "surface": "bṛhatkūṣmāṇḍavṛttaṃ",
+     "gloss": "large-pumpkin-fruit",
+     "grounds": "legacy hint large-pumpkin-fruit",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "legacy hint by-that",
+     "morph": "pron.instr.sg.n."
+    },
+    {
+     "surface": "ahituṇḍikāṃ",
+     "gloss": "ahituṇḍikā",
+     "grounds": "legacy hint ahituṇḍikā",
+     "morph": "noun.acc.sg.f."
+    },
+    {
+     "surface": "jayet",
+     "gloss": "conquers",
+     "grounds": "legacy hint conquers",
+     "morph": "verb.3.sg.act-pres."
+    }
+   ],
+   "question": "What large pumpkin fruit is used to conquer ahituṇḍikā?",
+   "premises": [
+    "bṛhatkūṣmāṇḍavṛttaṃ means large-pumpkin-fruit",
+    "tena means by-that",
+    "ahituṇḍikāṃ means ahituṇḍikā",
+    "jayet means conquers"
+   ],
+   "inference": "By that large pumpkin fruit, one conquers ahituṇḍikā.",
+   "uncertainties": [
+    "exact use unclear"
+   ],
+   "plain_english": "By that large pumpkin fruit, ahituṇḍikā is conquered."
+  },
+  {
+   "verse": 731,
+   "rows": [
+    {
+     "surface": "ājyena",
+     "gloss": "with-ghee",
+     "grounds": "legacy hint with-ghee",
+     "morph": "noun.instr.sg.n."
+    },
+    {
+     "surface": "māsārddhanidaṃ",
+     "gloss": "half-month-thing",
+     "grounds": "legacy hint half-month-thing",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "pibanti",
+     "gloss": "drink",
+     "grounds": "legacy hint drink",
+     "morph": "verb.3.pl.act-pres."
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "legacy hint protection",
+     "morph": "noun.nom.sg.f."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "niścitameva",
+     "gloss": "certainly",
+     "grounds": "legacy hint certainly",
+     "morph": "indecl."
+    },
+    {
+     "surface": "puṣpe",
+     "gloss": "in-flower",
+     "grounds": "legacy hint in-flower",
+     "morph": "noun.loc.sg.m."
+    }
+   ],
+   "question": "What protection results from drinking ghee with half-month thing in flower?",
+   "premises": [
+    "ājyena means with-ghee",
+    "māsārddhanidaṃ means half-month-thing",
+    "pibanti means drink",
+    "rakṣā means protection",
+    "bhavet means becomes",
+    "niścitameva means certainly",
+    "puṣpe means in-flower"
+   ],
+   "inference": "Drinking ghee with half-month thing in flower certainly brings protection.",
+   "uncertainties": [
+    "half-month thing unclear"
+   ],
+   "plain_english": "Drinking ghee with half-month thing in flower certainly brings protection."
+  },
+  {
+   "verse": 732,
+   "rows": [
+    {
+     "surface": "ṛtvantakāle",
+     "gloss": "at-menstruation-end-time",
+     "grounds": "legacy hint at-menstruation-end-time",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "tridinaṃ",
+     "gloss": "three-days",
+     "grounds": "legacy hint three-days",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "purandhrī",
+     "gloss": "woman",
+     "grounds": "legacy hint woman",
+     "morph": "noun.nom.sg.f."
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "legacy hint protection",
+     "morph": "noun.nom.sg.f."
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "āmaraṇāntameva",
+     "gloss": "until-death",
+     "grounds": "legacy hint until-death",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What protection does a woman gain by three days at menstruation end?",
+   "premises": [
+    "ṛtvantakāle means at-menstruation-end-time",
+    "tridinaṃ means three-days",
+    "purandhrī means woman",
+    "rakṣā means protection",
+    "bhaved means becomes",
+    "āmaraṇāntameva means until-death"
+   ],
+   "inference": "A woman gains protection until death by three days at menstruation end.",
+   "uncertainties": [
+    "exact practice unclear"
+   ],
+   "plain_english": "A woman gains protection until death by three days at menstruation end."
+  },
+  {
+   "verse": 733,
+   "rows": [
+    {
+     "surface": "snānāvasāne",
+     "gloss": "at-bath-end",
+     "grounds": "legacy hint at-bath-end",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "niyamena",
+     "gloss": "by-rule",
+     "grounds": "legacy hint by-rule",
+     "morph": "noun.instr.sg.m."
+    },
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "legacy hint having-drunk",
+     "morph": "verb.3.sg.act-perf.part."
+    },
+    {
+     "surface": "rakṣām",
+     "gloss": "protection",
+     "grounds": "legacy hint protection",
+     "morph": "noun.acc.sg.f."
+    },
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "certainly",
+     "grounds": "legacy hint certainly",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "legacy hint does",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "haṭhena",
+     "gloss": "forcefully",
+     "grounds": "legacy hint forcefully",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What protection is certainly done forcefully after bath by rule?",
+   "premises": [
+    "snānāvasāne means at-bath-end",
+    "niyamena means by-rule",
+    "pītvā means having-drunk",
+    "rakṣām means protection",
+    "avaśyaṃ means certainly",
+    "kurute means does",
+    "haṭhena means forcefully"
+   ],
+   "inference": "After bath by rule, protection is certainly done forcefully.",
+   "uncertainties": [
+    "object drunk unspecified"
+   ],
+   "plain_english": "After bath by rule, protection is certainly done forcefully."
+  },
+  {
+   "verse": 734,
+   "rows": [
+    {
+     "surface": "jīvāntikaṃ",
+     "gloss": "lifelong",
+     "grounds": "legacy hint lifelong",
+     "morph": "adj.acc.sg.n."
+    },
+    {
+     "surface": "niścitameva",
+     "gloss": "certainly",
+     "grounds": "legacy hint certainly",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "of-her",
+     "grounds": "legacy hint of-her",
+     "morph": "pron.gen.sg.f."
+    },
+    {
+     "surface": "vandhyātvam",
+     "gloss": "sterility",
+     "grounds": "legacy hint sterility",
+     "morph": "noun.nom.sg.n."
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "legacy hint said",
+     "morph": "verb.3.sg.pass-perf.part."
+    },
+    {
+     "surface": "kavipuṅgavena",
+     "gloss": "by-best-poet",
+     "grounds": "legacy hint by-best-poet",
+     "morph": "noun.instr.sg.m."
+    }
+   ],
+   "question": "What lifelong sterility is said by the best poet?",
+   "premises": [
+    "jīvāntikaṃ means lifelong",
+    "niścitameva means certainly",
+    "tasyā means of-her",
+    "vandhyātvam means sterility",
+    "uktam means said",
+    "kavipuṅgavena means by-best-poet"
+   ],
+   "inference": "The best poet certainly says lifelong sterility for her.",
+   "uncertainties": [
+    "cause unspecified"
+   ],
+   "plain_english": "The best poet certainly says lifelong sterility for her."
+  },
+  {
+   "verse": 735,
+   "rows": [
+    {
+     "surface": "ṛtau",
+     "gloss": "in-season",
+     "grounds": "legacy hint in-season",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "nipītaṃ",
+     "gloss": "drunk",
+     "grounds": "legacy hint drunk",
+     "morph": "verb.3.sg.pass-perf.part."
+    },
+    {
+     "surface": "mṛgaśāvakākṣyā",
+     "gloss": "doe-eyed",
+     "grounds": "legacy hint doe-eyed",
+     "morph": "adj.instr.sg.f."
+    },
+    {
+     "surface": "rakṣārtham",
+     "gloss": "for-protection",
+     "grounds": "legacy hint for-protection",
+     "morph": "noun.dat.sg.n."
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "pron.nom.sg.n."
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "fixed",
+     "grounds": "legacy hint fixed",
+     "morph": "adj.nom.sg.n."
+    },
+    {
+     "surface": "pradiṣṭam",
+     "gloss": "prescribed",
+     "grounds": "legacy hint prescribed",
+     "morph": "verb.3.sg.pass-perf.part."
+    }
+   ],
+   "question": "What is prescribed as fixed protection when drunk in season by doe-eyed?",
+   "premises": [
+    "ṛtau means in-season",
+    "nipītaṃ means drunk",
+    "mṛgaśāvakākṣyā means doe-eyed",
+    "rakṣārtham means for-protection",
+    "etat means this",
+    "niyataṃ means fixed",
+    "pradiṣṭam means prescribed"
+   ],
+   "inference": "This fixed protection is prescribed when drunk in season by doe-eyed.",
+   "uncertainties": [
+    "substance unspecified"
+   ],
+   "plain_english": "This fixed protection is prescribed when drunk in season by doe-eyed."
+  },
+  {
+   "verse": 736,
+   "rows": [
+    {
+     "surface": "jyeṣṭhānakṣatre",
+     "gloss": "under-jyeṣṭhā-star",
+     "grounds": "legacy hint under-jyeṣṭhā-star",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "nimbavandākaṃ",
+     "gloss": "neem-thing",
+     "grounds": "legacy hint neem-thing",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "yasyā",
+     "gloss": "whose",
+     "grounds": "legacy hint whose",
+     "morph": "pron.gen.sg.f."
+    },
+    {
+     "surface": "aṅge",
+     "gloss": "on-limb",
+     "grounds": "legacy hint on-limb",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "given",
+     "grounds": "legacy hint given",
+     "morph": "verb.3.sg.pass-pres."
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "legacy hint she",
+     "morph": "pron.nom.sg.f."
+    },
+    {
+     "surface": "durbhagā",
+     "gloss": "unfortunate",
+     "grounds": "legacy hint unfortunate",
+     "morph": "adj.nom.sg.f."
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "verb.3.sg.act-pres."
+    }
+   ],
+   "question": "What happens to a woman given neem-thing on limb under Jyeṣṭhā?",
+   "premises": [
+    "jyeṣṭhānakṣatre means under-jyeṣṭhā-star",
+    "nimbavandākaṃ means neem-thing",
+    "yasyā means whose",
+    "aṅge means on-limb",
+    "dīyate means given",
+    "sā means she",
+    "durbhagā means unfortunate",
+    "bhavati means becomes"
+   ],
+   "inference": "She becomes unfortunate when neem-thing is given on her limb under Jyeṣṭhā.",
+   "uncertainties": [
+    "neem-thing unclear"
+   ],
+   "plain_english": "She becomes unfortunate when neem-thing is given on her limb under Jyeṣṭhā."
+  },
+  {
+   "verse": 737,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "if-place",
+     "grounds": "legacy hint if-place",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "yadgṛhadvāre",
+     "gloss": "at-house-door",
+     "grounds": "legacy hint at-house-door",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "legacy hint of-him",
+     "morph": "pron.gen.sg.m."
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalaho",
+     "gloss": "quarrel",
+     "grounds": "legacy hint quarrel",
+     "morph": "noun.nom.sg.m."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "verb.3.sg.act-pres."
+    }
+   ],
+   "question": "What quarrel arises if something is placed at a house door?",
+   "premises": [
+    "sthāpayet means if-place",
+    "yadgṛhadvāre means at-house-door",
+    "tasya means of-him",
+    "vai means indeed",
+    "kalaho means quarrel",
+    "bhavet means becomes"
+   ],
+   "inference": "If placed at the house door, quarrel indeed becomes his.",
+   "uncertainties": [
+    "placed object unspecified"
+   ],
+   "plain_english": "If placed at the house door, quarrel indeed becomes his."
+  },
+  {
+   "verse": 738,
+   "rows": [
+    {
+     "surface": "ārdrāyāṃ",
+     "gloss": "in-ārdrā",
+     "grounds": "legacy hint in-ārdrā",
+     "morph": "noun.loc.sg.f."
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "legacy hint where",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "house",
+     "grounds": "legacy hint house",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint there",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "legacy hint arises",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "vairam",
+     "gloss": "enmity",
+     "grounds": "legacy hint enmity",
+     "morph": "noun.nom.sg.n."
+    }
+   ],
+   "question": "What enmity arises where a house is in Ārdrā?",
+   "premises": [
+    "ārdrāyāṃ means in-ārdrā",
+    "yatra means where",
+    "gṛhe means house",
+    "tatra means there",
+    "vai means indeed",
+    "jāyate means arises",
+    "vairam means enmity"
+   ],
+   "inference": "Where a house is in Ārdrā, enmity indeed arises there.",
+   "uncertainties": [
+    "astrological condition unclear"
+   ],
+   "plain_english": "Where a house is in Ārdrā, enmity indeed arises there."
+  },
+  {
+   "verse": 739,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "legacy hint whose",
+     "morph": "pron.gen.sg.m."
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "house",
+     "grounds": "legacy hint house",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "places",
+     "grounds": "legacy hint places",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "legacy hint his",
+     "morph": "pron.gen.sg.m."
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "legacy hint always",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalaho",
+     "gloss": "quarrel",
+     "grounds": "legacy hint quarrel",
+     "morph": "noun.nom.sg.m."
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "verb.3.sg.act-pres."
+    }
+   ],
+   "question": "What always becomes his when something is placed in whose house?",
+   "premises": [
+    "yasya means whose",
+    "gṛhe means house",
+    "sthāpayet means places",
+    "tasya means his",
+    "nityaṃ means always",
+    "kalaho means quarrel",
+    "bhavati means becomes"
+   ],
+   "inference": "When something is placed in whose house, quarrel always becomes his.",
+   "uncertainties": [
+    "placed object unspecified"
+   ],
+   "plain_english": "When something is placed in whose house, quarrel always becomes his."
+  },
+  {
+   "verse": 740,
+   "rows": [
+    {
+     "surface": "jātīpuṣparasaiḥ",
+     "gloss": "with-jasmine-flower-juices",
+     "grounds": "legacy hint with-jasmine-flower-juices",
+     "morph": "noun.instr.pl.m."
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "legacy hint having-ground",
+     "morph": "verb.3.sg.act-perf.part."
+    },
+    {
+     "surface": "saptarātraṃ",
+     "gloss": "seven-nights",
+     "grounds": "legacy hint seven-nights",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "legacy hint again",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "legacy hint again",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is done with jasmine flower juices for seven nights?",
+   "premises": [
+    "jātīpuṣparasaiḥ means with-jasmine-flower-juices",
+    "piṣṭvā means having-ground",
+    "saptarātraṃ means seven-nights",
+    "punaḥ means again"
+   ],
+   "inference": "Jasmine flower juices are ground for seven nights, again and again.",
+   "uncertainties": [
+    "purpose unspecified"
+   ],
+   "plain_english": "Jasmine flower juices are ground for seven nights, again and again."
+  },
+  {
+   "verse": 741,
+   "rows": [
+    {
+     "surface": "yathāgotraṃ",
+     "gloss": "according-to-gotra",
+     "grounds": "legacy hint according-to-gotra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samāghrāti",
+     "gloss": "smells-together",
+     "grounds": "legacy hint smells-together",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "legacy hint father",
+     "morph": "noun.nom.sg.m."
+    },
+    {
+     "surface": "putraiḥ",
+     "gloss": "with-sons",
+     "grounds": "legacy hint with-sons",
+     "morph": "noun.instr.pl.m."
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "together",
+     "grounds": "legacy hint together",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaliḥ",
+     "gloss": "strife",
+     "grounds": "legacy hint strife",
+     "morph": "noun.nom.sg.m."
+    }
+   ],
+   "question": "What strife arises when father and sons smell together by gotra?",
+   "premises": [
+    "yathāgotraṃ means according-to-gotra",
+    "samāghrāti means smells-together",
+    "pitā means father",
+    "putraiḥ means with-sons",
+    "samaṃ means together",
+    "kaliḥ means strife"
+   ],
+   "inference": "Strife arises when father and sons smell together according to gotra.",
+   "uncertainties": [
+    "ritual smell unclear"
+   ],
+   "plain_english": "Strife arises when father and sons smell together according to gotra."
+  },
+  {
+   "verse": 742,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīnityanāthaviracite",
+     "gloss": "in-śrī-nityanātha-composed",
+     "grounds": "legacy hint in-śrī-nityanātha-composed",
+     "morph": "adj.loc.sg.m."
+    },
+    {
+     "surface": "kāmaratne",
+     "gloss": "in-kāmaratna",
+     "grounds": "legacy hint in-kāmaratna",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "ṣaṇḍhīkaraṇādi",
+     "gloss": "from-eunuch-making-to",
+     "grounds": "legacy hint from-eunuch-making-to",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "kalahakaraṇāntaṃ",
+     "gloss": "quarrel-making-end",
+     "grounds": "legacy hint quarrel-making-end",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "nāmāṣṭamopadeśaḥ",
+     "gloss": "named-eighth-instruction",
+     "grounds": "legacy hint named-eighth-instruction",
+     "morph": "noun.nom.sg.m."
+    }
+   ],
+   "question": "What is the eighth instruction named in Kāmaratna composed by Śrī Nityanātha?",
+   "premises": [
+    "iti means thus",
+    "śrīnityanāthaviracite means in-śrī-nityanātha-composed",
+    "kāmaratne means in-kāmaratna",
+    "ṣaṇḍhīkaraṇādi means from-eunuch-making-to",
+    "kalahakaraṇāntaṃ means quarrel-making-end",
+    "nāmāṣṭamopadeśaḥ means named-eighth-instruction"
+   ],
+   "inference": "The eighth instruction in Kāmaratna runs from eunuch-making to quarrel-making.",
+   "uncertainties": [
+    "scope of instruction unclear"
+   ],
+   "plain_english": "The eighth instruction in Kāmaratna runs from eunuch-making to quarrel-making."
+  },
+  {
+   "verse": 743,
+   "rows": [
+    {
+     "surface": "kādidviravasānaṃ",
+     "gloss": "ka-etc-double-ending",
+     "grounds": "legacy hint ka-etc-double-ending",
+     "morph": "adj.acc.sg.n."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "akṣaraṃ",
+     "gloss": "letter",
+     "grounds": "legacy hint letter",
+     "morph": "noun.acc.sg.n."
+    },
+    {
+     "surface": "svarasaṃyutam",
+     "gloss": "with-vowel",
+     "grounds": "legacy hint with-vowel",
+     "morph": "adj.acc.sg.n."
+    }
+   ],
+   "question": "What letter ending in ka etc. is joined with vowel?",
+   "premises": [
+    "kādidviravasānaṃ means ka-etc-double-ending",
+    "ca means and",
+    "hi means indeed",
+    "akṣaraṃ means letter",
+    "svarasaṃyutam means with-vowel"
+   ],
+   "inference": "The letter ending in ka etc. is indeed joined with vowel.",
+   "uncertainties": [
+    "mantra syllable unclear"
+   ],
+   "plain_english": "The letter ending in ka etc. is indeed joined with vowel."
+  },
+  {
+   "verse": 744,
+   "rows": [
+    {
+     "surface": "oṃkāra",
+     "gloss": "om",
+     "grounds": "legacy hint om",
+     "morph": "noun.acc.sg.m."
+    },
+    {
+     "surface": "śirasaṃ",
+     "gloss": "head",
+     "grounds": "legacy hint head",
+     "morph": "noun.acc.sg.m."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "legacy hint having-made",
+     "morph": "verb.3.sg.act-perf.part."
+    },
+    {
+     "surface": "japtavyaṃ",
+     "gloss": "to-be-chanted",
+     "grounds": "legacy hint to-be-chanted",
+     "morph": "verb.gerundive.acc.sg.n."
+    },
+    {
+     "surface": "siddhimicchatā",
+     "gloss": "by-desiring-success",
+     "grounds": "legacy hint by-desiring-success",
+     "morph": "noun.instr.sg.m."
+    }
+   ],
+   "question": "What must be chanted by one desiring success after making om head?",
+   "premises": [
+    "oṃkāra means om",
+    "śirasaṃ means head",
+    "kṛtvā means having-made",
+    "japtavyaṃ means to-be-chanted",
+    "siddhimicchatā means by-desiring-success"
+   ],
+   "inference": "One desiring success must chant after making om head.",
+   "uncertainties": [
+    "mantra object unspecified"
+   ],
+   "plain_english": "One desiring success must chant after making om head."
+  },
+  {
+   "verse": 745,
+   "rows": [
+    {
+     "surface": "aśeṣāriṣṭanāśaḥ",
+     "gloss": "complete-calamity-destruction",
+     "grounds": "legacy hint complete-calamity-destruction",
+     "morph": "noun.nom.sg.m."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "legacy hint would-be",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "ityāha",
+     "gloss": "thus-says",
+     "grounds": "legacy hint thus-says",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "purasūdanaḥ",
+     "gloss": "purasūdana",
+     "grounds": "legacy hint purasūdana",
+     "morph": "noun.nom.sg.m."
+    }
+   ],
+   "question": "What complete calamity destruction would be according to Purasūdana?",
+   "premises": [
+    "aśeṣāriṣṭanāśaḥ means complete-calamity-destruction",
+    "syāt means would-be",
+    "ityāha means thus-says",
+    "purasūdanaḥ means purasūdana"
+   ],
+   "inference": "Purasūdana says complete calamity destruction would be.",
+   "uncertainties": [
+    "condition unspecified"
+   ],
+   "plain_english": "Purasūdana says complete calamity destruction would be."
+  },
+  {
+   "verse": 746,
+   "rows": [
+    {
+     "surface": "adhorephasamāyuktam",
+     "gloss": "with-adhorepha-joined",
+     "grounds": "legacy hint with-adhorepha-joined",
+     "morph": "adj.acc.sg.n."
+    },
+    {
+     "surface": "oṃkāraśirasaṃ",
+     "gloss": "om-head",
+     "grounds": "legacy hint om-head",
+     "morph": "noun.acc.sg.m."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What om-head is joined with adhorepha thus?",
+   "premises": [
+    "adhorephasamāyuktam means with-adhorepha-joined",
+    "oṃkāraśirasaṃ means om-head",
+    "tathā means thus"
+   ],
+   "inference": "The om-head is joined with adhorepha thus.",
+   "uncertainties": [
+    "adhorepha unclear"
+   ],
+   "plain_english": "The om-head is joined with adhorepha thus."
+  },
+  {
+   "verse": 747,
+   "rows": [
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "legacy hint in-every-way",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "legacy hint of-him",
+     "morph": "pron.gen.sg.m."
+    },
+    {
+     "surface": "puṃsaḥ",
+     "gloss": "man",
+     "grounds": "legacy hint man",
+     "morph": "noun.gen.sg.m."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "legacy hint would-be",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "sarvāriṣṭavināśanam",
+     "gloss": "all-calamity-destruction",
+     "grounds": "legacy hint all-calamity-destruction",
+     "morph": "noun.nom.sg.n."
+    }
+   ],
+   "question": "What all-calamity destruction would be for that man in every way?",
+   "premises": [
+    "sarvathā means in-every-way",
+    "tasya means of-him",
+    "puṃsaḥ means man",
+    "syāt means would-be",
+    "sarvāriṣṭavināśanam means all-calamity-destruction"
+   ],
+   "inference": "For that man, all-calamity destruction would be in every way.",
+   "uncertainties": [
+    "condition unspecified"
+   ],
+   "plain_english": "For that man, all-calamity destruction would be in every way."
+  },
+  {
+   "verse": 748,
+   "rows": [
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-consecrated",
+     "grounds": "legacy hint having-consecrated",
+     "morph": "verb.3.sg.act-perf.part."
+    },
+    {
+     "surface": "śatenāpi",
+     "gloss": "by-hundred-also",
+     "grounds": "legacy hint by-hundred-also",
+     "morph": "noun.instr.sg.m."
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "legacy hint should-give",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "legacy hint to-goddess",
+     "morph": "noun.dat.sg.f."
+    },
+    {
+     "surface": "sadānaghe",
+     "gloss": "always-blameless",
+     "grounds": "legacy hint always-blameless",
+     "morph": "adj.voc.sg.f."
+    }
+   ],
+   "question": "What should be given to the goddess after consecrating by hundred?",
+   "premises": [
+    "abhimantrya means having-consecrated",
+    "śatenāpi means by-hundred-also",
+    "dadyāt means should-give",
+    "devyai means to-goddess",
+    "sadānaghe means always-blameless"
+   ],
+   "inference": "After consecrating by hundred, one should give to the always-blameless goddess.",
+   "uncertainties": [
+    "gift unspecified"
+   ],
+   "plain_english": "After consecrating by hundred, one should give to the always-blameless goddess."
+  },
+  {
+   "verse": 749,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gṛhe'niṣṭapātaḥ",
+     "gloss": "in-house-inauspicious-fall",
+     "grounds": "legacy hint in-house-inauspicious-fall",
+     "morph": "noun.nom.sg.m."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "legacy hint would-be",
+     "morph": "verb.3.sg.act-pres."
+    },
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "legacy hint having-written",
+     "morph": "verb.3.sg.act-perf.part."
+    },
+    {
+     "surface": "sthāpane'pi",
+     "gloss": "in-placement-also",
+     "grounds": "legacy hint in-placement-also",
+     "morph": "noun.loc.sg.m."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What inauspicious fall in house would not be when written and placed?",
+   "premises": [
+    "na means not",
+    "gṛhe'niṣṭapātaḥ means in-house-inauspicious-fall",
+    "syāt means would-be",
+    "likhitvā means having-written",
+    "sthāpane'pi means in-placement-also",
+    "ca means and"
+   ],
+   "inference": "When written and placed, inauspicious fall in house would not be.",
+   "uncertainties": [
+    "written content unspecified"
+   ],
+   "plain_english": "When written and placed, inauspicious fall in house would not be."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-in-hair-pores [romakūpeṣu] kauberī [kauberī] skin [tvacam] vāgīśvarī [vāgīśvarī] and [tathā]
+[in-hair-pores](romakūpeṣu) [kauberi](kauberī) [skin](tvacam) [vagishvari](vāgīśvarī) [and](tathā)
 
 ## mukta-m0-p21-v502
-guts [antrāṇi] kālarātri [kālarātri] and [ca] bile [pittam] and [ca] mukaṭeśvarī [mukaṭeśvarī]
+[guts](antrāṇi) [kalaratri](kālarātriḥ) [and](ca) [bile](pittaṃ) [and](ca) [mukateshvari](mukaṭeśvarī)
 
 ## mukta-m0-p21-v503
-jvālāmukhī [jvālāmukhī] net-of-creatures [jasājālam] unbreakable [abhedyā] in-all-joints [sarvasandhiṣu]
+[jvalamukhi](jvālāmukhī) [jasa-net](jasājālam) [impregnable](abhedyā) [all-joints](sarvasandhiṣu)
 
 ## mukta-m0-p21-v504
-ego [ahaṅkāram] mind [mano] intellect [buddhim] protect-for-me [rakṣen+me] dharmadhāriṇī [dharmadhāriṇī]
+[ego](ahaṅkāraṃ) [mind](mano) [intellect](buddhiṃ) [protect-me](rakṣenme) [dharma-bearer](dharmadhāriṇī)
 
 ## mukta-m0-p21-v505
-vajrahastā [vajrahastā] and [ca] for-me [me] protect [rakṣet] life-breath [prāṇam] kalyāṇaśobhanā [kalyāṇaśobhanā]
+[vajra-handed](vajrahastā) [and](ca) [me](me) [protect-life](rakṣetprāṇaṃ) [auspicious-beautiful](kalyāṇaśobhanā)
 
 ## mukta-m0-p21-v506
-sattva [sattvam] rajas [rajas] tamas [tamas] and-indeed [ca+eva] protect [rakṣet] nārāyaṇī [nārāyaṇī] always [sadā]
+[sattva](sattvaṃ) [rajas](rajas) [tamas](tamaḥ) [and](caiva) [protect](rakṣet) [narayani](nārāyaṇī) [always](sadā)
 
 ## mukta-m0-p21-v507
-fame [yaśaḥ] glory [kīrtim] and [ca] lakṣmī [lakṣmīm] and [ca] wealth [dhanam] knowledge [vidyām] and [ca] cakriṇī [cakriṇī]
+[fame](yaśaḥ) [glory](kīrtiṃ) [and](ca) [lakshmi](lakṣmīṃ) [and](ca) [wealth](dhanaṃ) [knowledge](vidyāṃ) [and](ca) [chakrini](cakriṇī)
 
 ## mukta-m0-p21-v508
-sons [putrān] protect [rakṣet] mahālakṣmī [mahālakṣmī] wife [bhāryām] protect [rakṣatu] bhairavī [bhairavī]
+[sons](putrān) [protect](rakṣet) [mahalakshmi](mahālakṣmīḥ) [wife](bhāryāṃ) [protect](rakṣatu) [bhairavi](bhairavī)
 
 ## mukta-m0-p21-v509
-at-king's-gate [rājadvāre] mahālakṣmī [mahālakṣmī] vijayā [vijayā] everywhere [sarvataḥ] situated [sthitā]
+[king-gate](rājadvāre) [mahalakshmi](mahālakṣmīḥ) [vijaya](vijayā) [everywhere](sarvataḥ) [situated](sthitā)
 
 ## mukta-m0-p21-v510
-that-all [tatsarvam] protect [rakṣa] me [me] goddess [devī] jayantī [jayantī] sin-destroyer [pāpanāśinī]
+[all-that](tatsarvaṃ) [protect](rakṣa) [me](me) [goddess](devī) [jayanti](jayantī) [sin-destroyer](pāpanāśinī)
 
 ## mukta-m0-p21-v511
-by-armor-covered [kavacenāvṛtaḥ] always [nityam] wherever [yatra] wherever-indeed [yatra+eva] goes [gacchati]
+[armor-covered](kavacenāvṛto) [always](nityaṃ) [wherever](yatra) [wherever](yatraiva) [goes](gacchati)
 
 ## mukta-m0-p21-v512
-supreme-sovereignty [paramaiśvaryam] incomparable [amatulam] will-obtain [prāpsyate] on-earth [bhūtale] man [pumān]
+[supreme-sovereignty](paramaiśvaryam) [incomparable](atulaṃ) [obtains](prāpsyate) [on-earth](bhūtale) [man](pumān)
 
 ## mukta-m0-p21-v513
-in-three-worlds [trailokye] but [tu] becomes-worshipful [bhavet+pūjyaḥ] armor-covered [kavacenāvṛtaḥ] man [pumān]
+[in-three-worlds](trailokye) [but](tu) [becomes-worshipful](bhavetpūjyaḥ) [armor-covered](kavacenāvṛtaḥ) [man](pumān)
 
 ## mukta-m0-p21-v514
-who [yaḥ] recites [paṭhet] purified [prayataḥ] daily [nityam] three-sandhyas [trisandhyam] with-faith [śraddhayā+anvitaḥ]
+[who](yaḥ) [reads](paṭhet) [devoted](prayato) [always](nityaṃ) [three-sandhyas](trisandhyaṃ) [faith-endowed](śraddhayānvitaḥ)
 
 ## mukta-m0-p21-v515
-lives [jīvet] hundred-years-maximum [varṣaśatasāgram] untimely-death-free [apamṛtyuvivarjitaḥ]
+[lives](jīved) [hundred-years-plus](varṣaśatasāgram) [untimely-death-free](apamṛtyuvivarjitaḥ)
 
 ## mukta-m0-p21-v516
-stationary [sthāvaram] moving [jaṅgamam] and-indeed [ca+eva] artificial [kṛtrimam] and [ca] api [api] whatever [yat] poison [viṣam]
+[stationary](sthāvaraṃ) [mobile](jaṃgamaṃ) [and](caiva) [artificial](kṛtrimaṃ) [and](ca) [whatever-poison](apiyadviṣam)
 
 ## mukta-m0-p21-v517
-earth-goers [bhūcarāḥ] sky-goers [khecarāḥ] and-indeed [ca+eva] clan-born [kulajāḥ] and [ca] upadeśikāḥ [upadeśikāḥ]
+[earth-goers](bhūcarāḥ) [sky-goers](khecarāḥ) [and](caiva) [clan-born](kulajāḥ) [teachers](upadeśikāḥ)
 
 ## mukta-m0-p21-v518
-mid-sky [antarikṣa] goers [carāḥ] fierce [ghorāḥ] ḍākinīs [ḍākinyaḥ] and [ca] great-powerful [mahābalāḥ]
+[sky-goers](antarikṣa+carāḥ) [fierce](ghorā) [dakini](ḍākinyaḥ) [and](ca) [great-powerful](mahābalāḥ)
 
 ## mukta-m0-p21-v519
-brahmarākṣasas [brahmarākṣasāḥ] vetālas [vetālāḥ] kūṣmāṇḍas [kūṣmāṇḍāḥ] bhairavas [bhairavāḥ] etc [ādayaḥ]
+[brahma-rakshasa](brahmarākṣasa) [vetala](vetālāḥ) [kushmanda](kūṣmāṇḍā) [bhairava](bhairavādayaḥ)
 
 ## mukta-m0-p21-v520
-honor-increase [mānonnatiḥ] becomes [bhavet] kingdom [rājyam] splendor-increase-causing [tejovṛddhikaram] supreme [param]
+[honor-increase](mānonnatiḥ) [becomes](bhaved) [royal-splendor-increase-causing](rajyantejovṛddhikaraṃ) [supreme](param)
 
 ## mukta-m0-p21-v521
-recite [japet] saptaśatī [saptaśatīm] caṇḍī [caṇḍīm] having-made [kṛtvā] but [tu] armor [kavacam] first [purā]
+[recites](japet) [saptashati](saptaśatīṃ) [chandi](caṇḍīṃ) [having-made](kṛtvā) [armor](kavacaṃ) [first](purā)
 
 ## mukta-m0-p21-v522
-so-long [tāvat] stands [tiṣṭhati] on-earth [medinyām] lineage [santatiḥ] son-grandson [putra+pautrakī]
+[so-long](tāvat) [stands](tiṣṭhati) [on-earth](medinyāṃ) [progeny](santatiḥ) [sons](putra) [grandsons](pautrakī)
 
 ## mukta-m0-p21-v523
-obtains [prāpnoti] man [puruṣaḥ] always [nityam] by-mahāmāyā-grace [mahāmāyāprasādataḥ]
+[obtains](prāpnoti) [man](puruṣo) [always](nityaṃ) [mahamaya-grace](mahāmāyāprasādataḥ)
 
 ## mukta-m0-p21-v524
-obtains [labhate] supreme [paramam] form [rūpam] with-śiva [śivena+saha] rejoices [modate] om [oṃ]
+[obtains](labhate) [supreme](paramaṃ) [form](rūpaṃ) [with-shiva](śivena+saha) [rejoices](modate) [om](oṃ)
 
 ## mukta-m0-p21-v525
-durgā [durgā] kṣamā [kṣamā] śivā [śivā] dhātrī [dhātrī] svahā [svahā] svadhā [svadhā] namo-astu-te [namostute]
+[durga](durgā) [patience](kṣamā) [shiva](śivā) [nourisher](dhātrī) [svaha](svahā) [svadha](svadhā) [salutations-to-you](namostute)

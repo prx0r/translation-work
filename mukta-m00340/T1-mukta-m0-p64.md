@@ -5,73 +5,73 @@
 [bhavāni](bhavāni)
 
 ## mukta-m0-p64-v1577
-[dṛṣṭaṃ](dṛṣṭaṃ)
+[seen](dṛṣṭaṃ)
 
 ## mukta-m0-p64-v1578
-[kāryam](kāryam)+[etat](etat)
+[task](kāryam) [this](etat)
 
 ## mukta-m0-p64-v1579
-[vṛtti](vṛtti)+[dāsi](dāsi)
+[vṛtti-servant](vṛtti+dāsī)
 
 ## mukta-m0-p64-v1580
-[kaiṭabhaṃ](kaiṭabhaṃ)+[ca](ca)
+[kaiṭabha](kaiṭabhaṃ) [and](ca)
 
 ## mukta-m0-p64-v1581
-[vivaśa](vivaśa)+[atha](atha)+[śete](śete)
+[helpless-then](vivaśa+atha) [lies](śete)
 
 ## mukta-m0-p64-v1582
-[vivaśī](vivaśī)+[kṛtā](kṛtā)+[iva](iva)
+[as-if-made-helpless](vivaśī+kṛtā+iva)
 
 ## mukta-m0-p64-v1583
-[kāma](kāma)+[dheuṃ](dheuṃ)
+[kāmadhenu](kāmadheuṃ)
 
 ## mukta-m0-p64-v1584
-[nūnaṃ](nūnaṃ)
+[certainly](nūnaṃ)
 
 ## mukta-m0-p64-v1585
-[māṃ](māṃ)
+[me](māṃ)
 
 ## mukta-m0-p64-v1586
-[citraṃ](citraṃ)
+[wonderful](citraṃ)
 
 ## mukta-m0-p64-v1587
-[gariṣṭhaṃ](gariṣṭhaṃ)
+[heaviest](gariṣṭhaṃ)
 
 ## mukta-m0-p64-v1588
-[jātaṃ](jātaṃ)
+[born](jātaṃ)
 
 ## mukta-m0-p64-v1589
-[tyaktvā](tyaktvā)+[aṃgāni](aṃgāni)+[ca](ca)+[sarvāṇi](sarvāṇi)+[viṣṇoḥ](viṣṇoḥ)+[atula](atula)+[tejasaḥ](tejasaḥ)
+[having-abandoned](tyaktvā) [limbs](aṅgāni) [and](ca) [all](sarvāṇi) [of-viṣṇu](viṣṇoḥ) [incomparable-splendor](atula+tejasaḥ)
 
 ## mukta-m0-p64-v1590
-[vispaṃdita](vispaṃdita)+[śarīra](śarīra)+[asau](asau)+[yadā](yadā)+[jātaḥ](jātaḥ)+[janārdana](janārdana)
+[twitching](vispaṃdita) [body](śarīra) [this](asau) [when](yadā) [born](jātaḥ) [janārdana](janārdana)
 
 ## mukta-m0-p64-v1591
-[yadā](yadā)+[vinargatā](vinargatā)+[nidrā](nidrā)+[dehāt](dehāt)+[tasya](tasya)+[jagadguroḥ](jagadguroḥ)
+[when](yadā) [departed](vinirgatā) [sleep](nidrā) [from-body](dehāt) [his](tasya) [world-teacher](jagad+guroḥ)
 
 ## mukta-m0-p64-v1592
-[tadā](tadā)+[paśyat](paśyat)+[sthitaṃ](sthitaṃ)+[tatra](tatra)+[bhayatrastaṃ](bhayatrastaṃ)+[prajāpatiṃ](prajāpatiṃ)
+[then](tadā) [see](paśyat) [standing](sthitaṃ) [there](tatra) [fear-stricken](bhaya+trastaṃ) [prajāpati](prajāpatiṃ)
 
 ## mukta-m0-p64-v1593
-[kim](kim)+[āgataḥ](āgataḥ)+[asi](asi)+[bhagavaṃ](bhagavaṃ)+[tapas](tapas)+[tyaktvā](tyaktvā)+[atra](atra)+[padmaja](padmaja)
+[why-come](kim+āgataḥ+asi) [lord](bhagavan) [austerity](tapas) [abandoning](tyaktvā) [here](atra) [lotus-born](padma+ja)
 
 ## mukta-m0-p64-v1594
-[tiṣṭha](tiṣṭha)+[adya](adya)+[nirbhayaḥ](nirbhayaḥ)+[jātaḥ](jātaḥ)+[tau](tau)+[haniṣyāmi](haniṣyāmi)+[ahaṃ](ahaṃ)+[kila](kila)
+[stand](tiṣṭha) [today](adya) [fearless](nirbhayaḥ) [born](jātaḥ) [those-two](tau) [I-will-kill](haniṣyāmi) [I](ahaṃ) [indeed](kila)
 
 ## mukta-m0-p64-v1595
-[ekārṇave](ekārṇave)+[hi](hi)
+[in-single-ocean](ekārṇave) [indeed](hi)
 
 ## mukta-m0-p64-v1596
-[hariṇā](hariṇā)+[ciṃtitaṃ](ciṃtitaṃ)+[tatra](tatra)+[kāraṇaṃ](kāraṇaṃ)+[maraṇe](maraṇe)+[tayoḥ](tayoḥ)
+[by-hari](hariṇā) [thought](cintitaṃ) [there](tatra) [cause](kāraṇaṃ) [of-death](maraṇe) [of-those-two](tayoḥ)
 
 ## mukta-m0-p64-v1597
-[tuṣṭau](tuṣṭau)+[svastava](svastava)+[yuddhena](yuddhena)+[vāsudevāt](vāsudevāt)+[bhutena](bhutena)+[ca](ca)
+[pleased](tuṣṭau) [good-praise](su+stava) [by-battle](yuddhena) [by-vāsudeva](vāsudevāt) [wonderful](adbhutena) [and](ca)
 
 ## mukta-m0-p64-v1598
-[tacchrutvā](tacchrutvā)+[vacanaṃ](vacanaṃ)+[viṣṇoḥ](viṣṇoḥ)+[tau](tau)+[daityau](daityau)+[ca](ca)+[ati](ati)+[vismitau](vismitau)
+[that-hearing](tac+śrutvā) [word](vacanaṃ) [of-viṣṇu](viṣṇoḥ) [those-two](tau) [demons](daityau) [and](ca) [greatly](ati) [astonished](vismitau)
 
 ## mukta-m0-p64-v1599
-[vicārya](vicārya)+[manasā](manasā)+[tau](tau)+[tu](tu)+[dānavau](dānavau)+[viṣṇum](viṣṇum)+[ūcatuḥ](ūcatuḥ)
+[considering](vicārya) [in-mind](manasā) [those-two](tau) [but](tu) [demons](dānavau) [to-viṣṇu](viṣṇum) [said](ūcatuḥ)
 
 ## mukta-m0-p64-v1600
-[nirjale](nirjale)+[vipule](vipule)+[deśe](deśe)+[hanasva](hanasva)+[madhusūdana](madhusūdana)
+[waterless](nirjale) [vast](vipule) [place](deśe) [kill](hanasva) [madhusūdana](madhusūdana)

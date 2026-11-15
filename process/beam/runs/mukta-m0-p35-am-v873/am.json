@@ -1,17 +1,13 @@
 {
  "song": "mukta-m0-p35",
  "verse": 873,
- "question": "How is slab equal excavation from root arranged?",
+ "question": "What happens when an eight-finger-long item is buried in a horse stable?",
  "premises": [
-  "of slab is genitive",
-  "equal is accusative",
-  "excavation is accusative",
-  "then is indeclinable",
-  "from root is ablative"
+  "the item is eight fingers long",
+  "it is buried in a horse stable",
+  "the stable is destroyed"
  ],
- "inference": "The verse gives slab equal excavation from root.",
- "uncertainties": [
-  "exact construction is compressed"
- ],
- "plain_english": "Then excavation equal to slab is from root."
+ "inference": "Burying the eight-finger-long item destroys the horse stable.",
+ "uncertainties": [],
+ "plain_english": "Bury the eight-finger-long item in the horse stable; the stable is destroyed."
 }

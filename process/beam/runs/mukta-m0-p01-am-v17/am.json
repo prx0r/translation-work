@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 17,
- "question": "On which tithis are killing and related acts done?",
+ "question": "What secret thing is hard to obtain even for gods of all worlds?",
  "premises": [
-  "twelfth tithi is named",
-  "killing is named",
-  "eleventh tithi is named"
+  "secret is named",
+  "all worlds are named",
+  "gods even are named",
+  "hard to obtain is stated"
  ],
- "inference": "Killing and related acts are assigned to the twelfth and eleventh tithis.",
+ "inference": "A secret thing is hard to obtain even for gods of all worlds",
  "uncertainties": [
-  "evamekādaśyāṃ sandhi not expanded"
+  "exact case parsing approximate"
  ],
- "plain_english": "On the twelfth, killing; thus on the eleventh also, and."
+ "plain_english": "A secret hard to obtain even for gods of all worlds."
 }

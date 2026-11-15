@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p27",
  "verse": 663,
- "question": "What is the upward position of the right foot?",
+ "question": "Which women are said to have unstable or dead fetuses?",
  "premises": [
-  "The verse gives upward.",
-  "The right foot is mentioned.",
-  "It follows left."
+  "woman with unstable fetus is described",
+  "woman bears dead child is described"
  ],
- "inference": "This verse describes the right foot's upward following position.",
+ "inference": "The verse describes women with unstable fetuses and those who bear dead children.",
  "uncertainties": [
-  "Exact sandhi and case parsing not fully verified."
+  "causal claim unclear"
  ],
- "plain_english": "Upward, the right foot follows the left."
+ "plain_english": "Indeed, a woman who would have an unstable fetus, or a woman who bears a dead child."
 }

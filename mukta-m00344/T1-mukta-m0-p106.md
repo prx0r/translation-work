@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-that-mind free-from-knowable knowledge thus is-called
+[that-mind](tanmano) [freed-from-object](vedyanirmuktā) [knowledge](vittir) [thus](ity) [is-called](abhidhīyate)
 
 ## mukta-m0-p106-v2627
-that-mind thus knowable-free mind indeed pure-self-principle meaning
+[that-mind](tanmana) [thus](iti) [freed-from-object](vedyanirmuktaṃ) [mind](mana) [indeed](eva) [pure-self-principle](śuddhamātmatattvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2628
-other-cognition-dependence dullness would-be non-stability
+[other-cognition-dependence](anyopalabdhyapekṣāyām) [dullness](āndhyaṃ) [would-be](syāt) [non-stability](anavasthiteḥ)
 
 ## mukta-m0-p106-v2629
-and another-knowledge thus non-stability nothing shines meaning
+[and](ca) [by-another-knowledge](vittyantareṇa) [thus](iti) [in-non-stability](anavasthāyāṃ) [nothing](na) [would-shine](kiñcit) [prakāśeteti] [meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2630
-not shine if not you are then question your how
+[not](na) [shine](bhāsi) [if](ced) [not](na) [you](tvam) [are](asi) [then](tataḥ) [question](praśnaḥ) [but](tu) [your](te) [how](katham)
 
 ## mukta-m0-p106-v2631
-question-inapplicability says then thus
+[question-impropriety](praśnānupapattim) [says](āha) [then](tata) [iti](iti)
 
 ## mukta-m0-p106-v2632
-how your self I prove reveal
+[how](kathaṃ) [your](tava) [self](ātmānam) [ahaṃ](ahaṃ) [establish](sādhayāmi) [make-clear](vibhāvaya)
 
 ## mukta-m0-p106-v2633
-foolish self-proof by-another to-do impossible meaning
+[of-the-deluded](mūḍhasya) [self-establishment](ātmasādhanam) [by-another](anyena) [to-do](kartum) [impossible](aśakyam) [meaning](iti) [bhāvaḥ)
 
 ## mukta-m0-p106-v2634
-thus if rama common indeed your form imperishable
+[if-thus](iti) [ced](ced) [rāma](rāma) [common](sāmānyam) [indeed](eva) [your](te) [form](rūpam) [imperishable](avyayam)
 
 ## mukta-m0-p106-v2635
-meaning
+[meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2636
-ah knowing again enough delude indeed vainly
+[aho](aho) [knowing](jānan) [also](api) [again](punar) [enough](alaṃ) [you-delude](muhyasi) [vai](vai) [in-vain](vṛthā)
 
 ## mukta-m0-p106-v2637
-therefore common-form you shine by-yourself indeed
+[therefore](ataḥ) [common-form](sāmānyarūpaḥ) [you](tvam) [shine](vibhāsi) [by-yourself](svata) [indeed](eva) [hi](hi)
 
 ## mukta-m0-p106-v2638
-without-common-particular-body shines thus meaning
+[without-common-particular-form](niḥsāmānyaviśeṣavapuṣā) [shines](bhāsate) [meaning](iti) [bhāvaḥ)
 
 ## mukta-m0-p106-v2639
-body-selfhood shines conception only not-otherwise
+[body-as-self](śarīrātmatayā) [shine](bhāsi) [by-imagination](saṅkalpena) [indeed](eva) [not](na) [otherwise](anyathā)
 
 ## mukta-m0-p106-v2640
-shines not by-yourself meaning
+[shine](bhāsi) [not](na) [by-yourself](svata) [meaning](ityarthaḥ)
 
 ## mukta-m0-p106-v2641
-shines what your bodyhood body that also your would-be
+[shine](bhāti) [what](kiṃ) [your](tava) [bodiness](dehatvaṃ) [body](dehaḥ) [that](taccāpi) [your](te) [would-be](bhavet)
 
 ## mukta-m0-p106-v2642
-relation-nondifference that also your body would-be says body thus
+[relation-indistinction](sambandhāviśeṣāt) [that](taccāpi) [your](tava) [body](deho) [would-be](bhavedityāha) [body](deha) [iti](iti)
 
 ## mukta-m0-p106-v2643
-thereby all-pervading you would-be how body-self-only
+[thereby](tena) [all-pervading](sarvamayaḥ) [you](tvaṃ) [would-be](syāḥ) [how](kathaṃ) [body-self-only](dehātmamātrakaḥ)
 
 ## mukta-m0-p106-v2644
-therefore seer-only-form you not seer seen ever
+[therefore](tasmāt) [seer-only-form](dṛṅmātrarūpo) [you](asi) [not](na) [seer](dṛg) [seen](dṛśyā) [ever](kadācana)
 
 ## mukta-m0-p106-v2645
-becomes says not-seer thus
+[becomes](bhavatītyāha) [not](na) [seer](dṛg) [iti](iti)
 
 ## mukta-m0-p106-v2646
-body-place-time-difference wonder variety painted
+[body-place-time-difference](dehadeśakālabhedacitravaicitryacitritā)
 
 ## mukta-m0-p106-v2647
-meaning
+[meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2648
-remainder pure-consciousness form own-self recognize
+[remainder](śeṣaṃ) [pure-consciousness](śuddhacite) [form](rūpaṃ) [own-self](svātmānam) [recognize](upalakṣaya)
 
 ## mukta-m0-p106-v2649
-by-itself manifested remainder conception-abandonment-limit
+[by-itself-manifested](svato'bhivyajyamānam) [remainder](śeṣaṃ) [imagination-abandonment-limit](saṅkalpatyāgāvadhibhūtam)
 
 ## mukta-m0-p106-v2650
-ignorance all-samsara-cause that dissolves
+[ignorance](ajñānaṃ) [all-samsara-cause](sarvasaṃsārakāraṇaṃ) [that](tad) [dissolves](vilīyate)

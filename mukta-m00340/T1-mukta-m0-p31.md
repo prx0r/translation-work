@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-kṣobhita-aśeṣa-pātālām dhanur-jyā-niḥ svanena tām
+[shaken-all-netherworlds](kṣobhitāśeṣapātālāṃ) [bowstring-sound](dhanurjyāniḥ) [by-sound](svanena) [her](tām)
+
 ## mukta-m0-p31-v752
-tataḥ pravavṛte yuddham tayā devyā sura-dviṣām
+[then](tataḥ) [arose](pravavṛte) [battle](yuddhaṃ) [by-her](tayā) [goddess](devyā) [of-demons](suradviṣām)
+
 ## mukta-m0-p31-v753
-mahiṣa-asura-senānīḥ cit kṣura-ākhyaḥ mahā-asuraḥ
+[buffalo-demon-army-leader](mahiṣāsurasenānī) [named-kṣura](kṣurākhyo) [great-demon](mahāsuraḥ)
+
 ## mukta-m0-p31-v754
-rathānām ayutaḥ ṣaḍbhiḥ udagra-ākhyaḥ mahā-asuraḥ
+[of-chariots](rathānām) [six-ten-thousands](ayutaḥ+ṣaḍbhiḥ) [named-udagra](udagrākhyo) [great-demon](mahāsuraḥ)
+
 ## mukta-m0-p31-v755
-pañcāśadbhiḥ ca niyutaiḥ asilomā mahā-asuraḥ
+[with-fifty-lakhs](pañcāśadbhiḥ+ca) [niyutas](niyutaiḥ) [asiloma](asilomā) [great-demon](mahāsuraḥ)
+
 ## mukta-m0-p31-v756
-gaja-vāji-sahasra-oghaiḥ anekaiḥ parivāritaḥ
+[elephant-horse-thousands](gajavājisahasraughair) [many](anekaiḥ) [surrounded](parivāritaḥ)
+
 ## mukta-m0-p31-v757
-pañcāśadbhiḥ atha ayutaiḥ
+[with-fifty-ten-thousands](pañcāśadbhir+athāyutaiḥ)
+
 ## mukta-m0-p31-v758
-anye ca tatra ayutaśaḥ ratha-nāga-hayaiḥ vṛtāḥ
+[others](anye) [also](ca) [there](tatrā) [ten-thousands](ayutaśo) [chariot-elephant-horse](rathanāgahayair) [surrounded](vṛtāḥ)
+
 ## mukta-m0-p31-v759
-koṭi-koṭi-sahasraiḥ tu rathānām dantinām tathā
+[with-crores-of-crores](koṭikoṭisahasraistu) [of-chariots](rathānāṃ) [and](tathā) [of-elephants](dantināṃ)
+
 ## mukta-m0-p31-v760
-tomaraiḥ bhindipālaiḥ ca śaktibhiḥ musalaiḥ tathā
+[with-javelins](tomaraiḥ) [and-bhindipalas](bhindipālaiśca) [and-spears](śaktibhiḥ) [and-clubs](musalaistathā)
+
 ## mukta-m0-p31-v761
-kecit ca cikṣupuḥ śaktīḥ kecit pāśān tathā apare
+[some](kecit) [also](ca) [hurled](cikṣupuḥ) [spears](śaktīḥ) [some](kecit) [nooses](pāśāṃs) [and-others](tathāpare)
+
 ## mukta-m0-p31-v762
-sā api devī tataḥ tāni śastrāṇi astrāṇi caṇḍikā
+[she](sā) [also](api) [goddess](devī) [then](tataḥ) [those](tāni) [weapons](śastrāṇi) [missiles](astrāṇi) [caṇḍikā](caṇḍikā)
+
 ## mukta-m0-p31-v763
-anāyastān anā devī stūyamānā asura-ṛṣibhiḥ
+[unwearied](anāyastān) [goddess](anā+devī?) [praised](stūyamānā) [by-demon-sages](asurarṣibhiḥ)
+
 ## mukta-m0-p31-v764
-devī papraccha sarvajña deva-devam maheśvaram
+[goddess](devī) [asked](papraccha) [all-knowing](sarvajña) [god-of-gods](devadevaṃ) [great-lord](maheśvaram)
+
 ## mukta-m0-p31-v765
-prabrūhi me mahābhāga gopyam yadi api ca prabho
+[tell-me](prabrūhime) [great-fortunate](mahābhāga) [secret](gopyaṃ) [if](yadyapi) [also](ca) [lord](prabho)
+
 ## mukta-m0-p31-v766
-parama-aiśvaryam atulam labhet yena hitam vada
+[supreme-sovereignty](paramaiśvarya) [unequalled](matulaṃ) [obtain](labhedyena) [benefit](hitaṃ) [speak](vada)
+
 ## mukta-m0-p31-v767
-adbhutam kavacam devyāḥ sarva rakṣākaram nṛṇām
+[wonderful](adbhutaṃ) [armor](kavaca) [of-goddess](devyāḥ) [all](sarva) [protecting](rakṣākaraṃ) [of-men](nṛṇām)
+
 ## mukta-m0-p31-v768
-sukhadam bhogadam ca eva vaśya-ākarṣaṇam adbhutam
+[pleasure-giving](sukhadaṃ) [wealth-giving](bhogadaṃ) [also](caiva) [subduing-attracting](vaśyākarṣaṇam) [wonderful](adbhutam)
+
 ## mukta-m0-p31-v769
-duḥkhinaḥ jvariṇaḥ ca eva svābhīṣṭa-prahatāḥ tathā
+[suffering](duḥkhino) [fevered](jvariṇaś) [also](caiva) [own-desired](svābhīṣṭa) [struck](prahatās) [thus](tathā)
+
 ## mukta-m0-p31-v770
-saḥ api kruddhaḥ dhuta-saṭaḥ devyāḥ vāhana-kesarī
+[he](so) [also](api) [angry](kruddho) [shaken-mane](dhutasaṭo) [of-goddess](devyā) [vehicle-lion](vāhanakesarī)
+
 ## mukta-m0-p31-v771
-niśvāsān mumuce yān ca yudhyamānā raṇe ambikā
+[breaths](niśvāsān) [released](mumuce) [those](yāṃśca) [fighting](yudhyamānā) [in-battle](raṇe) [ambikā](ambikā)
+
 ## mukta-m0-p31-v772
-yuyudhuḥ te paraśubhiḥ bhindipāla-asi-paṭṭiśaiḥ
+[fought](yuyudhuḥ) [te](te) [with-axes](paraśubhiḥ) [bhindipalas](bhindipālās) [swords](asi) [paṭṭiśas](paṭṭiśaiḥ)
+
 ## mukta-m0-p31-v773
-nīlotpala-dala-prakhyām śatru-saṃgha-vidāriṇīm
+[blue-lotus-petal-like](nīlotpaladalaprakhyāṃ) [enemy-host-destroying](śatrusaṃghavidāriṇīm)
+
 ## mukta-m0-p31-v774
-bibhrāṇām raktavasanām daṃṣṭrā-ālīm ghora-rūpiṇīm
+[bearing](bibhrāṇāṃ) [red-garment](raktavasanāṃ) [tusked](daṃṣṭrālīṃ) [terrible-form](ghorarūpiṇīm)
+
 ## mukta-m0-p31-v775
-śavāsana-sthitām devī muṇḍa-mālā vibhūṣitām
+[corpse-seat](śavāsanasthitāṃ) [goddess](devī) [skull-garland](muṇḍamālā) [adorned](vibhūṣitām)

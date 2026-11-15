@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 10,
- "question": "What six acts ending in death do the wise declare?",
+ "question": "Who desired to make a text by the great goddess's power?",
  "premises": [
-  "six acts are named",
-  "they end in death",
-  "the wise declare them"
+  "by her power is stated",
+  "great goddess is named",
+  "text making is desired"
  ],
- "inference": "The wise declare six acts that end in death.",
+ "inference": "He desired to make a text by the great goddess's power",
  "uncertainties": [
-  "specific six acts not listed in this verse"
+  "exact case parsing approximate"
  ],
- "plain_english": "The wise declare six acts ending in death."
+ "plain_english": "By her power, he desired to make a text, O great goddess."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[not-drawn](ahrutādo) [offering](haviṣo) [in-this](yajñe'-asmin) [oneself](svayaṃ) [to-drink](pivantum) [honey](madhuno) [ghee](ghṛtasya)
+[gloss](ahrutādohaviṣoyajñe') [gloss](asmintsvayaṃ) [gloss](pivantumadhunoghṛtasya)
 
 ## mukta-m0-p04-v77
-[others](anyāṃs) [from-us](te'-asmat) [heat-causes](tapantuhetayaḥ) [fire](pāvako) [to-us](āsmabhyam) [auspicious](śivo) [become](bhava)
+[gloss](anyāṃste') [gloss](asmattapantuhetayaḥ) [gloss](pāvako) [gloss](āsmabhyaguṃ) [gloss](śivobhava)
 
 ## mukta-m0-p04-v78
-[three-eyed](locanatrayasaṃyuktām) [lotus-moon](padmendu) [like-faced](sadṛśānanām)
+[gloss](locanatrayasaṃyuktām) [gloss](padmendu) [gloss](sadṛśānanām)
 
 ## mukta-m0-p04-v79
-[new-youth](navayauvana) [endowed](saṃpannāṃ) [all-ornaments](sarvābharaṇa) [adorned](bhūṣitām)
+[gloss](navayauvana) [gloss](saṃpannāṃ) [gloss](sarvābharaṇa) [gloss](bhūṣitām)
 
 ## mukta-m0-p04-v80
-[three-bend](tribhaṃgasthāna) [posture](saṃsthāna) [buffalo-demon](mahiṣāsura) [slayer](mardinīm)
+[gloss](tribhaṃgasthānasaṃsthāna) [gloss](mahiṣāsuramardinīm)
 
 ## mukta-m0-p04-v81
-[sharp-arrow](tīkṣṇavāṇaṃ) [and-spear](tathāśaktiṃ) [left-side](vāmatopi) [know](nibodhata)
+[gloss](tīkṣṇavāṇaṃ) [gloss](tathāśaktiṃ) [gloss](vāmatopi) [gloss](nibodhata)
 
 ## mukta-m0-p04-v82
-[bell](ghaṃṭāṃ) [or](vā) [axe](paraśūṃ) [or](vāpi) [left](vāmataḥ) [present](sannivedayet)
+[gloss](ghaṃṭāṃ) [gloss](vā) [gloss](paraśūṃ) [gloss](vāpi) [gloss](vāmataḥ) [gloss](sannivedayet)
 
 ## mukta-m0-p04-v83
-[head-cut](śiraśchedodbhavaṃ) [thus](tadvat) [demon](dānavaṃ) [sword-handed](khaḍgapāṇinam)
+[gloss](śiraśchedodbhavaṃtadvaddānavaṃ) [gloss](khaḍgapāṇinam)
 
 ## mukta-m0-p04-v84
-[blood-reddened](raktaraktīkṛtāṅgaṃ) [and](ca) [blood-expanded](raktavisphārite) [moment](kṣaṇam)
+[gloss](raktaraktīkṛtāṅgañca) [gloss](raktavisphārite) [gloss](kṣaṇam)
 
 ## mukta-m0-p04-v85
-[with-noose](sapāśa) [left-hand](vāmahastena) [held-hair](dhṛtakeśaṃ) [and](ca) [by-Durga](durgayā)
+[gloss](sapāśa) [gloss](vāmahastena) [gloss](dhṛtakeśaṃ) [gloss](ca) [gloss](durgayā)
 
 ## mukta-m0-p04-v86
-[goddess](devyās) [right](tu) [foot](dakṣiṇaṃ) [pādaṃ](pādaṃ) [on-lion](siṃhopari) [situated](sthitam)
+[gloss](devyāstu) [gloss](dakṣiṇaṃ) [gloss](pādaṃsamaṃsiṃhopari) [gloss](sthitam)
 
 ## mukta-m0-p04-v87
-[praised](stūyamānaṃ) [and](ca) [that-form](tadrūpam) [by-gods](amaraiḥ) [place](sanniveśayet)
+[gloss](stūyamānañca) [gloss](tadrūpamamaraiḥ) [gloss](sanniveśayet)
 
 ## mukta-m0-p04-v88
-[fierce](caṇḍā) [fierce-one](caṇḍavatī) [and](caiva) [fierce-form](caṃḍarūpā) [very-fierce](ticaṇḍikā)
+[gloss](caṇḍā) [gloss](caṇḍavatī) [gloss](caiva) [gloss](caṃḍarūpāticaṇḍikā)
 
 ## mukta-m0-p04-v89
-[meditate](caintayet) [always](satataṃ) [goddess](devīṃ) [dharma](dharma) [karma](karma) [artha](artha) [moksha-giver](mokṣadām)
+[gloss](caintayetsatataṃ) [gloss](devīṃ) [gloss](dharma) [gloss](karmārtha) [gloss](mokṣadām)
 
 ## mukta-m0-p04-v90
-[with-earth](sabhūmiṃ) [all-around](sarvatas) [stood](pṛtvātyatiṣṭhat) [ten-angulas](daśāṃgulam)
+[gloss](sabhūmiguṃ) [gloss](sarvataspṛtvātyatiṣṭhaddaśāṃgulam)
 
 ## mukta-m0-p04-v91
-[in-which](yasyāṃ) [gold](hiraṇyaṃ) [find](vindeyaṃ) [cow](gām) [horse](aśvaṃ) [men](puruṣān) [I](aham)
+[gloss](yasyāṃ) [gloss](hiraṇyaṃ) [gloss](vindeyaṃ) [gloss](gāmaśvaṃ) [gloss](puruṣānaham)
 
 ## mukta-m0-p04-v92
-[or](utā) [immortality](mṛtatvasya) [lord](īśāno) [which](yad) [by-food](annena) [surpasses](atirohati)
+[gloss](utāmṛtatvasyeśāno) [gloss](yadannenātirohati)
 
 ## mukta-m0-p04-v93
-[one-foot](pādo) [all](asya) [beings](viśvā) [three-foot](tripādasya) [nectar](amṛtam) [in-heaven](divi)
+[gloss](pādosyavviśvā) [gloss](bhūtāni) [gloss](tripādasyāmṛtandivi)
 
 ## mukta-m0-p04-v94
-[on-lion-situated](siṃhoparisthite) [goddess](devi) [accept](gṛhāṇa) [arghya](arghyaṃ) [salutation](namostute) [thus-arghya](ityarghyam)
+[gloss](siṃhoparisthite) [gloss](devi) [gloss](gṛhāṇārghyanamostute)
 
 ## mukta-m0-p04-v95
-[madhuparka](madhuparkaṃ) [accept](gṛhāṇa) [you](tvaṃ) [auspicious-giver](śubhadā) [become](bhava) [beautiful](śobhane)
+[gloss](madhuparkaṃ) [gloss](gṛhāṇa) [gloss](tvaṃ) [gloss](śubhadā) [gloss](bhava) [gloss](śobhane)
 
 ## mukta-m0-p04-v96
-[water](toyam) [for-acamana](ācamanīyārthaṃ) [goddess](devi) [you](tvaṃ) [receive](pratigṛhyatām) [thus-acamana](ityācamanam)
+[gloss](toyamācamanīyārthaṃ) [gloss](devi) [gloss](tvaṃ) [gloss](pratigṛhyatām)
 
 ## mukta-m0-p04-v97
-[bath](snānaṃ) [do](kuruṣva) [goddess](deveśi) [waters](salilaiś) [fragrant](ca) [sugandhibhiḥ](sugandhibhiḥ) [thus-bath](itisnānam)
+[gloss](snānaṃ) [gloss](kuruṣvadeveśi) [gloss](salilaiśca) [gloss](sugandhibhiḥ)
 
 ## mukta-m0-p04-v98
-[bath](snāna) [cloth](vastra) [sacred-thread](upavīta) [end](ante) [that](tat) [remembered](smṛtam)
+[gloss](snānavastropavītānte) [gloss](pitatsmṛtam)
 
 ## mukta-m0-p04-v99
-[purifying](pāvanaṃ) [sacrifice-cause](yajñahetuś) [and](ca) [milk](payaḥ) [for-bath](snānārtham) [offered](arpitam)
+[gloss](pāvanaṃ) [gloss](yajñahetuśca) [gloss](payaḥ) [gloss](snānārthamarpitam)
 
 ## mukta-m0-p04-v100
-[moon-bright](śaśiprabham) [curd-brought](dadhyānītaṃ) [by-me](mayā) [goddess](devi) [for-bath](snānārthaṃ) [receive](pratigṛhyatām)
+[gloss](śaśiprabham) [gloss](dadhyānītaṃ) [gloss](mayā) [gloss](devi) [gloss](snānārthaṃ) [gloss](pratigṛhyatām)

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 725,
- "question": "What color is attributed to the deity in this description?",
+ "question": "How do ḍākinī seizure spirits vanish when sunrise dispels darkness?",
  "premises": [
-  "śyāma means dark",
-  "varṇaḥ means color",
-  "the two tokens form a color statement"
+  "sunrise dispels darkness",
+  "ḍākinī seizure spirits likened to darkness",
+  "their disappearance follows sunrise"
  ],
- "inference": "The described deity has a dark color.",
- "uncertainties": [],
- "plain_english": "Dark is the color."
+ "inference": "therefore sunrise removes ḍākinī seizure spirits",
+ "uncertainties": [
+  "verse fragment lacks finite verb"
+ ],
+ "plain_english": "As darkness disappears at sunrise, so do ḍākinī seizure spirits."
 }

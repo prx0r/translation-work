@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-[dependent-on-prārabdha](prārabdha)[+](tantrāḥ) [begun](prārabdhāḥ) [feeble-minded](dhīnāḥ)
+[commenced](prārabdha) [dependent](tantrāḥ) [commenced](prārabdhā) [wise](dhīnāḥ)
 
 ## mukta-m0-p125-v3102
-[mind](manaḥ)[+][ground](bhūmau) [but](tu) [prārabdha](prārabdha)[+][seed](bījam) [experience](bhoga)[+][sprout](aṅkuram) [may-become](bhavet)
+[mind](mano) [ground](bhūmau) [but](tu) [commenced](prārabdha) [seed](bījaṃ) [enjoyment](bhoga) [sprout](aṅkuraṃ) [becomes](bhavet)
 
 ## mukta-m0-p125-v3103
-[prārabdha](prārabdham) [what](kim) [may-be](bhavet) [thus](iti) [if](cet) [by-itself](svata) [indeed](eva) [perishes](naśyati) [thus](iti) [says](āha) [-](mana) [thus](iti)
+[commenced](prārabdhaṃ) [what](kiṃ) [becomes](bhavet) [thus](iti) [if](cet) [by-itself](svata) [perishes](naśyati) [thus](iti) [says](āha) [mind](mana) [thus](iti)
 
 ## mukta-m0-p125-v3104
-[stored-in-granary](kusūla)[+][standing](stham) [seed](bījam) [like](iva) [would-perish](vinaśyet) [destroyed](naṣṭa)[+][power](śaktikam)
+[in-granary](kusūla) [placed](sthaṃ) [seed](bījam) [like](iva) [perishes](vinaśyed) [lost](naṣṭa) [power](śaktikam)
 
 ## mukta-m0-p125-v3105
-[constant](sadā)[+][support](āśraya)[+][subtle](liṅga)[+][body](deha)[+][destruction](nāśāt) [bodiless](videha)[+][liberation](mukti)[+][time](kāle) [perishes](naśyati) [thus](iti) [meaning](bhāvaḥ)
+[always-support](sadāśraya) [subtle-body](liṅga) [body](deha) [destruction](nāśād) [bodiless](videha) [liberation](mukti) [time](kāle) [perishes](naśyati) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p125-v3106
-[actions](kāryāṇi) [does](kurute) [anywhere](kva)[+][even](api) [may-be](bhavet) [unfaltering](askhalitaḥ) [even](api) [and](ca)
+[actions](kāryāṇi) [does](kurute) [somewhere](kvāpi) [becomes](bhaved) [unfailing](askhalitaḥ) [also](api) [and](ca)
 
 ## mukta-m0-p125-v3107
-[simultaneously](yugapad)[+][one](eka)[+][time](kāle)
+[yuga](yuga) [pat](pat) [one](eka) [time](kāle)
 
 ## mukta-m0-p125-v3108
-[as](yathā) [walking](gacchan) [speaking](vadan) [doing](kurvan) [simultaneously](yugapallakṣyate) [person](janaḥ)
+[as](yathā) [going](gacchan) [speaking](vadan) [doing](kurvan) [simultaneously](yugapat) [is-seen](lakṣyate) [person](janaḥ)
 
 ## mukta-m0-p125-v3109
-[of-students](adhyetṛṇāṃ) [of-many](bahūnāṃ) [and](ca) [simultaneously](yugapallakṣayed) [teacher](guruḥ)
+[of-students](adhyetṛṇāṃ) [many](bahūnāṃ) [and](ca) [simultaneously](yugapat) [sees](lakṣayed) [teacher](guruḥ)
 
 ## mukta-m0-p125-v3110
-[among-mentioned](prokta)[+][persons](puruṣeṣu) [thus](iti)[+][meaning](arthaḥ) [|](|) [another](udāharaṇa)[+][example](antaram) [-](-) [of-students](adhyetṝṇām) [thus](iti)
+[said-persons](prokta) [in](puruṣeṣu) [thus](iti) [meaning](arthaḥ) [example](udāharaṇa) [another](antaram) [students](adhyetṝṇām) [thus](iti)
 
 ## mukta-m0-p125-v3111
-[O-Rāma](rāma) [who](yaste) [slain](hataḥ) [enemy](śatrurarjuno) [Arjuna](haihayādhipaḥ) [lord-of-Haihayas](haihayādhipaḥ)
+[Rama](rāma) [who](yaḥ) [your](te) [slain](hataḥ) [enemy](śatruḥ) [Arjuna](arjunaḥ) [Haihaya](haihaya) [lord](adhipaḥ)
 
 ## mukta-m0-p125-v3112
-[fought](ayudhyadaskhalan) [unfaltering](askhalan) [anywhere](kva)[+][even](api) [wise](medhāvī) [seen](dṛṣṭa) [indeed](eva) [by-you](te)
+[fought](ayudhyat) [unfailing](askhalan) [somewhere](kvāpi) [wise](medhāvī) [seen](dṛṣṭa) [indeed](eva) [your](te)
 
 ## mukta-m0-p125-v3113
-[[k,-kh:-te-not-present]]([k,) [kh:](kh:) [te](te) [nāsti](nāsti)[)](]) [by-you](tvayā)
+[k](k) [kh](kh) [not-exists](nāsti) [by-you](tvayā)
 
 ## mukta-m0-p125-v3114
-[as](yathā) [task](kāryaṃ) [manifold](bahuvidhaṃ) [one-may-accomplish](sādhayettadvadeva) [like-that](tadvadeva) [indeed](hi)
+[as](yathā) [action](kāryaṃ) [many-kinds](bahuvidhaṃ) [accomplishes](sādhayet) [so](tadvat) [indeed](eva) [indeed](hi)
 
 ## mukta-m0-p125-v3115
-[each](tat)[+][each](tat)[+][action](karma)[+][accomplishment](sādhanā)[+][suitable](anukūla)[+][activity](vyāpāra)[+][sequence](krama)[+][endowed-with](yuktam)
+[that](tat) [that](tat) [action](karma) [means](sādhana) [favorable](anukūla) [activity](vyāpāra) [sequence](krama) [endowed](yuktam)
 
 ## mukta-m0-p125-v3116
-[unobstructed](aviruddhā) [always](sarvadā) [may-be](syādyeṣāṃ) [of-whom](yeṣāṃ) [they](te) [highly](bahu)[+][regarded](mānasāḥ)
+[non-contradictory](aviruddhā) [always](sarvadā) [may-be](syāt) [whose](yeṣāṃ) [they](te) [many-minded](bahumānasāḥ)
 
 ## mukta-m0-p125-v3117
-[of-mind](manaso')[+][multiplicity](nekatvād) [unobstructed](aviruddheti) [thus](iti)
+[of-mind](manasaḥ) [manyness](anekatvāt) [non-contradiction](aviruddha) [thus](iti)
 
 ## mukta-m0-p125-v3118
-[may-be](bhaved) [by-knowledge](jñānā)[+][fire](gninā) [burnt](dagdhaṃ) [become](bhūtaṃ) [become](bhūtaṃ) [again](punaḥ) [again](punaḥ)
+[becomes](bhaved) [knowledge-fire](jñānāgni) [by](nā) [burnt](dagdhaṃ) [being](bhūtaṃ) [being](bhūtaṃ) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p125-v3119
-[different-from-that](tadvilakṣaṇa]) [but](tu) [two](dvi)[+][moment](kṣaṇa)[+][lasting](avasthāyi) [may-be](bhavediti) [thus](iti) [purport](tātparyam)
+[that-different](tadvilakṣaṇa) [but](tu) [two-moment-lasting](dvikṣaṇāvasthāyi) [becomes](bhavet) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p125-v3120
-[its](tad)[+][consideration](vimarśaḥ) [fruit](phalaṃ) [declared](proktaṃ) [whence](kuto) [burnt](dagdhā)[+][sprout](ṅkure) [fruit](phalam)
+[that-reflection](tadvimarśaḥ) [fruit](phalaṃ) [said](proktaṃ) [whence](kuto) [burnt-sprout](dagdhāṅkure) [fruit](phalam)
 
 ## mukta-m0-p125-v3121
-[as](yathā) [grown-up](prauḍho) [indeed](hi) [with-child](bālena) [with](saha) [playing](khelan) [indeed](hi) [is-seen](dṛśyate)
+[as](yathā) [adult](prauḍhaḥ) [indeed](hi) [with-child](bālena) [with](saha) [playing](khelan) [indeed](hi) [is-seen](dṛśyate)
 
 ## mukta-m0-p125-v3122
-[caused-by-that](tannimitta)[+][joy](harṣā)[+][etc.](dirnāntarabhyudetīti) [not](na)[+][inner](antara)[+][arises](abhyudeti) [thus](iti) [with-example](sadṛṣṭāntamāha) [says](-) [as](yatheti) [thus](iti)
+[that-cause-joy-etc](tannimittaharṣādiḥ) [not-arises](nāntarabhyudeti) [thus](iti) [with-example](sadṛṣṭāntam) [says](āha) [as-thus](yatheti)
 
 ## mukta-m0-p125-v3123
-[thus](evaṃ) [they-rejoice](hṛṣyanti) [they-grieve](sīdanti) [in-actions](kāryeṣu) [highly](bahu)[+][regarded](mānasāḥ)
+[thus](evaṃ) [rejoice](hṛṣyanti) [grieve](sīdanti) [in-actions](kāryeṣu) [many-minded](bahumānasāḥ)
 
 ## mukta-m0-p125-v3124
-[thus](evaṃ) [of-them](teṣāṃ) [in-conduct](vyavahṛtau) [equal](samā) [everywhere](sarvatra) [state](saṃsthitiḥ)
+[thus](evaṃ) [their](teṣāṃ) [conduct](vyavahṛtau) [equal](samā) [everywhere](sarvatra) [steadiness](saṃsthitiḥ)
 
 ## mukta-m0-p125-v3125
-[and](ca) [thus](iti)[+][meaning](arthaḥ) [|](|) [of-them](teṣām) [supreme](uttama)[+][knowers](jñāninām) [|](|) [equal](samā) [like-other](anya)[+][action](kāryavat) [in-own](sva)[+][action](kārye')[+][also](pi)
+[and-thus](ceti) [meaning](arthaḥ) [their](teṣām) [supreme-knowers](uttamajñāninām) [equal](samā) [other-action-like](anyakāryavat) [in-own-action](svakārye) [also](api)

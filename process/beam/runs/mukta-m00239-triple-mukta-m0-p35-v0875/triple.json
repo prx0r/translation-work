@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "kṣetra+madhye",
+     "gloss": "in-field-middle",
+     "grounds": "fused locative compound indicating the place of action",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "genitive singular masculine noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śasyaṃ",
+     "gloss": "crop",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "third person singular active present verb",
+     "morph": "3.sg.act-pres √naś"
+    }
+   ],
+   "question": "What happens to an enemy's crop when the rite is performed in the middle of the field?",
+   "premises": [
+    "rite is performed in field middle",
+    "enemy's crop is the target",
+    "destruction applies to all of it"
+   ],
+   "inference": "the enemy's entire crop is destroyed",
+   "uncertainties": [
+    "exact ritual context is not specified in this verse"
+   ],
+   "plain_english": "Then, in the middle of the field, all of the enemy's crop is destroyed."
+  }
+ ]
+}

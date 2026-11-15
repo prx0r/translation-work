@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p35",
  "verse": 857,
- "question": "How is slab half, half, and low with half arranged by four?",
+ "question": "What happens to the enemy when the buried item is removed?",
  "premises": [
-  "four is instrumental",
-  "slab half is named",
-  "half is named",
-  "low with half is named"
+  "the enemy dies while it is buried",
+  "when it is removed the enemy becomes happy",
+  "removal reverses the effect"
  ],
- "inference": "The verse gives a four-based arrangement of slab half, half, and low with half.",
- "uncertainties": [
-  "plus marks indicate editorial fusion"
- ],
- "plain_english": "By four, slab half, half, and low with half are specified."
+ "inference": "Removing the buried item restores the enemy's wellbeing.",
+ "uncertainties": [],
+ "plain_english": "The enemy dies while it is buried; when removed, the enemy becomes happy."
 }

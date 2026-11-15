@@ -1,0 +1,623 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres root-bhuj"
+    },
+    {
+     "surface": "ghṛtaiḥ+sārddhaṃ",
+     "gloss": "with-ghee",
+     "grounds": "compound with ghee",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "food",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhīmasena+vat",
+     "gloss": "like-bhīmasena",
+     "grounds": "simile",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who eats food with ghee like Bhīmasena?",
+   "premises": [
+    "The verse names an eater.",
+    "It compares him to Bhīmasena.",
+    "It specifies food with ghee."
+   ],
+   "inference": "The verse describes a person eating ghee-rich food in Bhīmasena's manner.",
+   "uncertainties": [
+    "The subject's identity is not specified."
+   ],
+   "plain_english": "He who eats food with ghee like Bhīmasena."
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "kaupīnaṃ",
+     "gloss": "loincloth",
+     "grounds": "object abandoned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃparityajya",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres root-bhuj"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhīmasena+vat",
+     "gloss": "like-bhīmasena",
+     "grounds": "simile",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who eats like Bhīmasena after abandoning the loincloth?",
+   "premises": [
+    "The verse mentions abandoning loincloth.",
+    "It states eating follows.",
+    "It compares to Bhīmasena."
+   ],
+   "inference": "The verse describes eating after renouncing the loincloth.",
+   "uncertainties": [
+    "The exact ritual context is unclear."
+   ],
+   "plain_english": "Having abandoned the loincloth, that one eats like Bhīmasena."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "kaṭyām+eva",
+     "gloss": "on-waist-only",
+     "grounds": "locative emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-tied",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres root-bhuj"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhīmasena+vat",
+     "gloss": "like-bhīmasena",
+     "grounds": "simile",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who eats like Bhīmasena after tying two things at the waist?",
+   "premises": [
+    "The verse mentions tying two at waist.",
+    "It states eating follows.",
+    "It compares to Bhīmasena."
+   ],
+   "inference": "The verse describes a waist-bound eater compared to Bhīmasena.",
+   "uncertainties": [
+    "What the two items are is unspecified."
+   ],
+   "plain_english": "Having tied two at the waist, that one eats like Bhīmasena."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "ākramya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "right",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jaṅghāṃ",
+     "gloss": "thigh",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viṃśati+āhāra",
+     "gloss": "of-twenty-meals",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhuk",
+     "gloss": "eater",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-bhu"
+    }
+   ],
+   "question": "How should one sit to become an eater of twenty meals?",
+   "premises": [
+    "The verse gives a bodily posture.",
+    "It names twenty meals.",
+    "It states one should become an eater."
+   ],
+   "inference": "The verse prescribes a posture for consuming twenty meals.",
+   "uncertainties": [
+    "The exact posture is only partly described."
+   ],
+   "plain_english": "Having placed the right thigh, one should become an eater of twenty meals."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "vāyu+putraḥ",
+     "gloss": "wind-son",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āścaryam",
+     "gloss": "wonderfully",
+     "grounds": "adverbial",
+     "morph": "indecl."
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres root-bhuj"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who eats wonderfully like the wind's son without doubt?",
+   "premises": [
+    "The verse compares eating to wind's son.",
+    "It calls it wonderful.",
+    "It denies doubt."
+   ],
+   "inference": "The verse praises an astonishing eater compared to Hanuman.",
+   "uncertainties": [
+    "The eater's identity is unspecified."
+   ],
+   "plain_english": "That one eats wonderfully like the wind's son, without doubt."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tat+guṭikāṃ",
+     "gloss": "its-pill",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-kru"
+    },
+    {
+     "surface": "tri+lohena",
+     "gloss": "with-three-metals",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "veṣṭitām",
+     "gloss": "encased",
+     "grounds": "participle",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the ground pill be made and encased?",
+   "premises": [
+    "The verse says to grind it.",
+    "It says to make a pill.",
+    "It says to encase it with three metals."
+   ],
+   "inference": "The verse prescribes making a pill encased in three metals.",
+   "uncertainties": [
+    "The three metals are not named."
+   ],
+   "plain_english": "Having ground it, one should make its pill encased in three metals."
+  },
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "sa+ājyaṃ",
+     "gloss": "with-ghee",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "rice-pudding",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dvādaśa+ahaṃ",
+     "gloss": "twelve-days",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣudhā+apaham",
+     "gloss": "hunger-removing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What effect follows eating rice pudding with ghee for twelve days?",
+   "premises": [
+    "The verse mentions rice pudding with ghee.",
+    "It mentions twelve days.",
+    "It calls it hunger-removing."
+   ],
+   "inference": "The verse states this practice removes hunger for twelve days.",
+   "uncertainties": [
+    "Dosage and preparation details are omitted."
+   ],
+   "plain_english": "Having eaten rice pudding with ghee, it removes hunger for twelve days."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃcūrṇya",
+     "gloss": "having-powdered",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ca+ājyena",
+     "gloss": "with-ghee",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "pakṣaṃ",
+     "gloss": "fortnight",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣudhā+apaham",
+     "gloss": "hunger-removing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What effect follows eating powdered seed with ghee for a fortnight?",
+   "premises": [
+    "The verse mentions powdered seed.",
+    "It mentions ghee.",
+    "It states hunger removal for a fortnight."
+   ],
+   "inference": "The verse states this practice removes hunger for a fortnight.",
+   "uncertainties": [
+    "The seed type is unspecified."
+   ],
+   "plain_english": "Having powdered the seed and eaten it with ghee, it removes hunger for a fortnight."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "māsaṃ",
+     "gloss": "month",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣudhāṃ",
+     "gloss": "hunger",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root-han"
+    },
+    {
+     "surface": "pipāsāṃ",
+     "gloss": "thirst",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does eating for a month destroy without doubt?",
+   "premises": [
+    "The verse mentions eating for a month.",
+    "It says hunger is destroyed.",
+    "It says thirst is destroyed."
+   ],
+   "inference": "The verse states the practice destroys hunger and thirst without doubt.",
+   "uncertainties": [
+    "The food itself is not named."
+   ],
+   "plain_english": "Having eaten for a month, it destroys hunger and thirst, without doubt."
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "rice-pudding",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chāgalī+kṣīraiḥ",
+     "gloss": "with-goat-milk",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhuktam",
+     "gloss": "eaten",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māsa+kṣudhā+apaham",
+     "gloss": "month-hunger-removing",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What effect follows eating rice pudding with goat milk?",
+   "premises": [
+    "The verse mentions rice pudding.",
+    "It mentions goat milk.",
+    "It states month-long hunger removal."
+   ],
+   "inference": "The verse states this practice removes hunger for a month.",
+   "uncertainties": [
+    "Preparation details are omitted."
+   ],
+   "plain_english": "Rice pudding eaten with goat milk removes hunger for a month."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "tat+lipta+pāda+hastaḥ",
+     "gloss": "by-that-smeared-foot-hand",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yojanānāṃ",
+     "gloss": "of-yojanas",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "one-may-go",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-vraj"
+    }
+   ],
+   "question": "How far may one go when feet and hands are smeared with that?",
+   "premises": [
+    "The verse mentions smeared feet and hands.",
+    "It mentions yojanas.",
+    "It states one may go a hundred."
+   ],
+   "inference": "The verse states one may travel a hundred yojanas.",
+   "uncertainties": [
+    "The substance is only referenced as that."
+   ],
+   "plain_english": "With feet and hands smeared by that, one may indeed go a hundred yojanas."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "pādau",
+     "gloss": "feet",
+     "grounds": "accusative",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jānu+paryantaṃ",
+     "gloss": "up-to-knee",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "liptvā",
+     "gloss": "having-smeared",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dūra+adhva+gaḥ",
+     "gloss": "long-distance-traveler",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-bhu"
+    }
+   ],
+   "question": "What happens when feet are smeared up to the knees?",
+   "premises": [
+    "The verse mentions smearing feet.",
+    "It says up to the knees.",
+    "It states one becomes a long-distance traveler."
+   ],
+   "inference": "The verse states this makes one a long-distance traveler.",
+   "uncertainties": [
+    "The substance is not named."
+   ],
+   "plain_english": "Having smeared the feet up to the knees, one becomes a long-distance traveler."
+  }
+ ]
+}

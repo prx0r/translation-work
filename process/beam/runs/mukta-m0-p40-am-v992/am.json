@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 992,
- "question": "Who is credited with originally fashioning the ritual vessel in this account?",
+ "question": "What collyrium removes night blindness when rubbed with old bilva juices?",
  "premises": [
-  "A vessel was made in the past.",
-  "Vishvamitra is named as the maker.",
-  "He is described as wise."
+  "old bilva juices are used",
+  "the collyrium is rubbed with them",
+  "it removes night blindness"
  ],
- "inference": "The wise Vishvamitra formerly made the ritual vessel.",
- "uncertainties": [],
- "plain_english": "Formerly, indeed, the vessel was made by the wise Vishvamitra."
+ "inference": "The verse names a night-blindness-removing collyrium rubbed with old bilva juices.",
+ "uncertainties": [
+  "the preparation details are compressed"
+ ],
+ "plain_english": "A collyrium removing night blindness is rubbed with old bilva juices."
 }

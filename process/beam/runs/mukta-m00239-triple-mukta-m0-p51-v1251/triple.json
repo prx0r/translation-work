@@ -1,0 +1,1046 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1251,
+   "rows": [
+    {
+     "surface": "tryūṣam",
+     "gloss": "three-night-old",
+     "grounds": "legacy hint",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ājyam",
+     "gloss": "ghee",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "meghanādaḥ",
+     "gloss": "cloud-thunder",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "bheka+matsya+viṣa+apaham",
+     "gloss": "frog-fish-poison-destroying",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "Which three-night-old ghee remedy destroys frog and fish poison?",
+   "premises": [
+    "tryūṣam ājyam is specified",
+    "meghanādaḥ is named",
+    "bheka matsya viṣa apaham is claimed"
+   ],
+   "inference": "The verse prescribes a three-night-old ghee remedy against frog and fish poison.",
+   "uncertainties": [
+    "meghanādaḥ role unclear"
+   ],
+   "plain_english": "Three-night-old ghee, meghanādaḥ, destroys frog and fish poison."
+  },
+  {
+   "verse": 1252,
+   "rows": [
+    {
+     "surface": "śṛṅgī+matsya+viṣam",
+     "gloss": "horned-fish-poison",
+     "grounds": "compound",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "sveda+āghṛta",
+     "gloss": "sweat-ghee",
+     "grounds": "compound",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "cikkām",
+     "gloss": "cikkā",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "sapiṇḍitām",
+     "gloss": "with-lump",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "How should horned-fish poison be treated with sweat-ghee and cikkā?",
+   "premises": [
+    "śṛṅgī matsya viṣam is named",
+    "sveda āghṛta is specified",
+    "cikkām sapiṇḍitām is added"
+   ],
+   "inference": "The verse gives a sweat-ghee and cikkā preparation for horned-fish poison.",
+   "uncertainties": [
+    "exact administration unclear"
+   ],
+   "plain_english": "Horned-fish poison is treated with sweat-ghee and cikkā with lump."
+  },
+  {
+   "verse": 1253,
+   "rows": [
+    {
+     "surface": "pibet",
+     "gloss": "one-should-drink",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "madhu+sitā+yuktam",
+     "gloss": "with-honey-sugar",
+     "grounds": "compound",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "gṛhagodhā+viṣam",
+     "gloss": "house-lizard-poison",
+     "grounds": "compound",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "it-removes",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What honey-sugar drink removes house-lizard poison?",
+   "premises": [
+    "pibet directs drinking",
+    "madhu sitā yuktam is specified",
+    "gṛhagodhā viṣam is named",
+    "haret states removal"
+   ],
+   "inference": "Drinking honey-sugar mixture removes house-lizard poison.",
+   "uncertainties": [
+    "dose unspecified"
+   ],
+   "plain_english": "One should drink honey-sugar mixture; it removes house-lizard poison."
+  },
+  {
+   "verse": 1254,
+   "rows": [
+    {
+     "surface": "rudhiram",
+     "gloss": "blood",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "srāvayet",
+     "gloss": "one-should-cause-to-flow",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.caus-pres"
+    },
+    {
+     "surface": "daṃśāt",
+     "gloss": "from-bite",
+     "grounds": "legacy hint",
+     "morph": "noun.abl.sg"
+    },
+    {
+     "surface": "dahet+loha+śalākayā",
+     "gloss": "with-heated-iron-probe",
+     "grounds": "compound",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "How should blood be drawn and cauterized after a bite?",
+   "premises": [
+    "rudhiram srāvayet is directed",
+    "daṃśāt gives source",
+    "dahet loha śalākayā is specified"
+   ],
+   "inference": "Blood should be caused to flow from the bite and cauterized with a heated iron probe.",
+   "uncertainties": [
+    "poison type unspecified"
+   ],
+   "plain_english": "Cause blood to flow from the bite and cauterize with a heated iron probe."
+  },
+  {
+   "verse": 1255,
+   "rows": [
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "legacy hint",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bahunā+uktena",
+     "gloss": "by-much-said",
+     "grounds": "compound",
+     "morph": "adj.instr.sg"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viṣa+nāśanam",
+     "gloss": "poison-destroying",
+     "grounds": "compound",
+     "morph": "noun.nom.sg"
+    }
+   ],
+   "question": "Why is much explanation unnecessary when poison is destroyed instantly?",
+   "premises": [
+    "kim atra asks rhetorically",
+    "bahunā uktena dismisses excess",
+    "tatkṣaṇāt stresses immediacy",
+    "viṣa nāśanam is the result"
+   ],
+   "inference": "The verse says poison is destroyed at once, so lengthy explanation is unnecessary.",
+   "uncertainties": [
+    "specific remedy omitted"
+   ],
+   "plain_english": "What need of much said here? Poison is destroyed at that moment."
+  },
+  {
+   "verse": 1256,
+   "rows": [
+    {
+     "surface": "dhattūra+patra+toyena",
+     "gloss": "with-dhattūra-leaf-water",
+     "grounds": "compound",
+     "morph": "noun.instr.sg"
+    },
+    {
+     "surface": "cūrṇam",
+     "gloss": "powder",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "trikaṭu+sambhavam",
+     "gloss": "arising-from-trikaṭu",
+     "grounds": "compound",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What dhattūra-leaf-water powder arises from trikaṭu?",
+   "premises": [
+    "dhattūra patra toyena is specified",
+    "cūrṇam is the object",
+    "trikaṭu sambhavam describes origin"
+   ],
+   "inference": "A powder arising from trikaṭu is prepared with dhattūra leaf water.",
+   "uncertainties": [
+    "application unspecified"
+   ],
+   "plain_english": "Powder arising from trikaṭu is made with dhattūra leaf water."
+  },
+  {
+   "verse": 1257,
+   "rows": [
+    {
+     "surface": "karañja+taila+lepena",
+     "gloss": "by-karañja-oil-application",
+     "grounds": "compound",
+     "morph": "noun.instr.sg"
+    },
+    {
+     "surface": "jvālām",
+     "gloss": "burning",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "vyāghra+nakhāt",
+     "gloss": "from-tiger-nail",
+     "grounds": "compound",
+     "morph": "noun.abl.sg"
+    },
+    {
+     "surface": "bhavām",
+     "gloss": "arisen",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "How does karañja oil application treat burning from tiger nail?",
+   "premises": [
+    "karañja taila lepena is specified",
+    "jvālām is the symptom",
+    "vyāghra nakhāt gives cause",
+    "bhavām describes arisen"
+   ],
+   "inference": "Karañja oil application treats burning arisen from tiger nail.",
+   "uncertainties": [
+    "exact procedure unclear"
+   ],
+   "plain_english": "By karañja oil application, burning from tiger nail is treated."
+  },
+  {
+   "verse": 1258,
+   "rows": [
+    {
+     "surface": "lepaḥ",
+     "gloss": "application",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarva+jantūnām",
+     "gloss": "of-all-creatures",
+     "grounds": "compound",
+     "morph": "noun.gen.pl"
+    },
+    {
+     "surface": "nakha+tuṇḍa+viṣam",
+     "gloss": "nail-beak-poison",
+     "grounds": "compound",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "removes",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What application removes nail and beak poison of all creatures?",
+   "premises": [
+    "lepaḥ is the remedy",
+    "sarva jantūnām broadens scope",
+    "nakha tuṇḍa viṣam is target",
+    "haret states removal"
+   ],
+   "inference": "An application removes nail and beak poison of all creatures.",
+   "uncertainties": [
+    "specific application unnamed"
+   ],
+   "plain_english": "Indeed, an application removes nail and beak poison of all creatures."
+  },
+  {
+   "verse": 1259,
+   "rows": [
+    {
+     "surface": "uṣṇa+udakena",
+     "gloss": "with-warm-water",
+     "grounds": "compound",
+     "morph": "noun.instr.sg"
+    },
+    {
+     "surface": "lepaḥ",
+     "gloss": "application",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "nakha+tuṇḍa+viṣa+apahaḥ",
+     "gloss": "nail-beak-poison-destroying",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "How should a warm-water application destroy nail and beak poison?",
+   "premises": [
+    "uṣṇa udakena specifies medium",
+    "lepaḥ is application",
+    "syāt gives prescription",
+    "nakha tuṇḍa viṣa apahaḥ states effect"
+   ],
+   "inference": "A warm-water application should be used to destroy nail and beak poison.",
+   "uncertainties": [
+    "ingredients unspecified"
+   ],
+   "plain_english": "With warm water, an application should be nail and beak poison destroying."
+  },
+  {
+   "verse": 1260,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dāruharidrāyāḥ",
+     "gloss": "of-dāruharidrā",
+     "grounds": "legacy hint",
+     "morph": "noun.gen.sg"
+    },
+    {
+     "surface": "lepaḥ",
+     "gloss": "application",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "danta+viṣa+apahaḥ",
+     "gloss": "tooth-poison-destroying",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What dāruharidrā application likewise destroys tooth poison?",
+   "premises": [
+    "tathā links prior remedy",
+    "dāruharidrāyāḥ specifies source",
+    "lepaḥ is application",
+    "danta viṣa apahaḥ states effect"
+   ],
+   "inference": "Likewise, a dāruharidrā application destroys tooth poison.",
+   "uncertainties": [
+    "preparation details omitted"
+   ],
+   "plain_english": "Likewise, an application of dāruharidrā destroys tooth poison."
+  },
+  {
+   "verse": 1261,
+   "rows": [
+    {
+     "surface": "tandula+udaka+pānena",
+     "gloss": "by-rice-water-drinking",
+     "grounds": "compound",
+     "morph": "noun.instr.sg"
+    },
+    {
+     "surface": "kīṭaka+uttham",
+     "gloss": "arising-from-insects",
+     "grounds": "compound",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "removes",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What rice-water drinking removes poison arising from insects?",
+   "premises": [
+    "tandula udaka pānena specifies method",
+    "kīṭaka uttham describes origin",
+    "viṣam is target",
+    "haret states removal"
+   ],
+   "inference": "Drinking rice water removes poison arising from insects.",
+   "uncertainties": [
+    "dose unspecified"
+   ],
+   "plain_english": "By rice-water drinking, poison arising from insects is removed."
+  },
+  {
+   "verse": 1262,
+   "rows": [
+    {
+     "surface": "mūlam",
+     "gloss": "root",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "kāñjikena",
+     "gloss": "with-sour-gruel",
+     "grounds": "legacy hint",
+     "morph": "noun.instr.sg"
+    },
+    {
+     "surface": "lepaḥ",
+     "gloss": "application",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "kīṭa+viṣa+apahaḥ",
+     "gloss": "insect-poison-destroying",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "How do root, seed, and sour gruel form an insect-poison-destroying application?",
+   "premises": [
+    "mūlam and bījam are ingredients",
+    "kāñjikena is medium",
+    "lepaḥ is application",
+    "kīṭa viṣa apahaḥ states effect"
+   ],
+   "inference": "Root and seed with sour gruel make an application destroying insect poison.",
+   "uncertainties": [
+    "exact plant unspecified"
+   ],
+   "plain_english": "Root and seed with sour gruel make an insect-poison-destroying application."
+  },
+  {
+   "verse": 1263,
+   "rows": [
+    {
+     "surface": "udvarttanāt",
+     "gloss": "by-rubbing",
+     "grounds": "legacy hint",
+     "morph": "noun.abl.sg"
+    },
+    {
+     "surface": "pralepāt+vā",
+     "gloss": "or-by-application",
+     "grounds": "compound",
+     "morph": "noun.abl.sg"
+    },
+    {
+     "surface": "sarva+kīṭa+vikāra+jit",
+     "gloss": "all-insect-disorder-conquering",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What rubbing or application conquers all insect disorders?",
+   "premises": [
+    "udvarttanāt gives rubbing",
+    "pralepāt vā gives alternative",
+    "sarva kīṭa vikāra jit states effect"
+   ],
+   "inference": "Rubbing or application conquers all insect disorders.",
+   "uncertainties": [
+    "substance unspecified"
+   ],
+   "plain_english": "By rubbing or application, all insect disorders are conquered."
+  },
+  {
+   "verse": 1264,
+   "rows": [
+    {
+     "surface": "eraṇḍa+taila+lepaḥ",
+     "gloss": "castor-oil-application",
+     "grounds": "compound",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarva+kīṭa+viṣa+apahaḥ",
+     "gloss": "all-insect-poison-destroying",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What castor oil application destroys all insect poison?",
+   "premises": [
+    "eraṇḍa taila lepaḥ is specified",
+    "vā offers alternative",
+    "sarva kīṭa viṣa apahaḥ states effect"
+   ],
+   "inference": "Castor oil application destroys all insect poison.",
+   "uncertainties": [
+    "application method unspecified"
+   ],
+   "plain_english": "Castor oil application, or, destroys all insect poison."
+  },
+  {
+   "verse": 1265,
+   "rows": [
+    {
+     "surface": "eṣām",
+     "gloss": "of-these",
+     "grounds": "legacy hint",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "lepaḥ",
+     "gloss": "application",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "nihanti",
+     "gloss": "destroys",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "lūtā+ādi+sambhavam",
+     "gloss": "arising-from-spider-etc",
+     "grounds": "compound",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What application quickly destroys poison arising from spider and others?",
+   "premises": [
+    "eṣām refers to prior applications",
+    "lepaḥ is remedy",
+    "nihanti states destruction",
+    "āśu stresses speed",
+    "lūtā ādi sambhavam gives source"
+   ],
+   "inference": "These applications quickly destroy poison arising from spider and others.",
+   "uncertainties": [
+    "which applications exactly"
+   ],
+   "plain_english": "These applications quickly destroy poison arising from spider and others."
+  },
+  {
+   "verse": 1266,
+   "rows": [
+    {
+     "surface": "lepanā+añjana+nasyaiḥ+tu",
+     "gloss": "by-application-collyrium-errhine",
+     "grounds": "compound",
+     "morph": "noun.instr.pl"
+    },
+    {
+     "surface": "pānāt+vā",
+     "gloss": "or-by-drinking",
+     "grounds": "compound",
+     "morph": "noun.abl.sg"
+    },
+    {
+     "surface": "niṣka+mātrataḥ",
+     "gloss": "in-niṣka-measure",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What application, collyrium, errhine, or drinking is measured in niṣka?",
+   "premises": [
+    "lepanā añjana nasyaiḥ tu lists methods",
+    "pānāt vā adds drinking",
+    "niṣka mātrataḥ gives measure"
+   ],
+   "inference": "The remedy is administered by application, collyrium, errhine, or drinking in niṣka measure.",
+   "uncertainties": [
+    "substance unspecified"
+   ],
+   "plain_english": "By application, collyrium, errhine, or drinking, in niṣka measure."
+  },
+  {
+   "verse": 1267,
+   "rows": [
+    {
+     "surface": "dussaham",
+     "gloss": "unbearable",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "legacy hint",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "visphoṭam",
+     "gloss": "eruption",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vināśayet",
+     "gloss": "would-destroy",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.caus-opt"
+    }
+   ],
+   "question": "What unbearable poison and eruption would be quickly destroyed?",
+   "premises": [
+    "dussaham yat viṣam names target",
+    "āśu stresses speed",
+    "visphoṭam ca adds eruption",
+    "vināśayet states destruction"
+   ],
+   "inference": "The remedy would quickly destroy unbearable poison and eruption.",
+   "uncertainties": [
+    "remedy unspecified"
+   ],
+   "plain_english": "It would quickly destroy unbearable poison and eruption."
+  },
+  {
+   "verse": 1268,
+   "rows": [
+    {
+     "surface": "sarpa+maṣaka+mārjjāra+vṛścika+ādi+viṣam",
+     "gloss": "snake-mosquito-cat-scorpion-etc-poison",
+     "grounds": "compound",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "removes",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What removes poison of snake, mosquito, cat, scorpion, and others?",
+   "premises": [
+    "sarpa maṣaka mārjjāra vṛścika ādi viṣam lists targets",
+    "haret states removal"
+   ],
+   "inference": "The remedy removes poison of snake, mosquito, cat, scorpion, and others.",
+   "uncertainties": [
+    "remedy unspecified"
+   ],
+   "plain_english": "It removes poison of snake, mosquito, cat, scorpion, and others."
+  },
+  {
+   "verse": 1269,
+   "rows": [
+    {
+     "surface": "vajrī",
+     "gloss": "vajrī",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "jaipālakaḥ",
+     "gloss": "jaipālaka",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇa+kuṣṭham",
+     "gloss": "black-kuṣṭha",
+     "grounds": "compound",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "guñjā",
+     "gloss": "guñjā",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "tathā+eva",
+     "gloss": "likewise",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which substances include vajrī, jaipālaka, black kuṣṭha, and guñjā?",
+   "premises": [
+    "vajrī is named",
+    "jaipālakaḥ is named",
+    "kṛṣṇa kuṣṭham is named",
+    "guñjā is named",
+    "tathā eva ca links them"
+   ],
+   "inference": "The verse lists vajrī, jaipālaka, black kuṣṭha, and guñjā among related substances.",
+   "uncertainties": [
+    "function unspecified"
+   ],
+   "plain_english": "Vajrī, jaipālaka, black kuṣṭha, and guñjā, likewise and."
+  },
+  {
+   "verse": 1270,
+   "rows": [
+    {
+     "surface": "sa+sindhum",
+     "gloss": "with-rock-salt",
+     "grounds": "compound",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "kāñjikam",
+     "gloss": "sour-gruel",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "legacy hint",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "samasta+upaviṣam",
+     "gloss": "all-upaviṣa",
+     "grounds": "compound",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "removes",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What sour gruel with rock salt removes all upaviṣa when drunk?",
+   "premises": [
+    "sa sindhum specifies rock salt",
+    "kāñjikam is sour gruel",
+    "pītvā directs drinking",
+    "samasta upaviṣam is target",
+    "haret states removal"
+   ],
+   "inference": "Drinking sour gruel with rock salt removes all upaviṣa.",
+   "uncertainties": [
+    "measure unspecified"
+   ],
+   "plain_english": "Having drunk sour gruel with rock salt, all upaviṣa is removed."
+  },
+  {
+   "verse": 1271,
+   "rows": [
+    {
+     "surface": "nimba+patram",
+     "gloss": "neem-leaf",
+     "grounds": "compound",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "ghṛtam",
+     "gloss": "ghee",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "by-ghee",
+     "grounds": "legacy hint",
+     "morph": "noun.instr.sg"
+    },
+    {
+     "surface": "madhu+pānataḥ",
+     "gloss": "by-honey-drinking",
+     "grounds": "compound",
+     "morph": "noun.abl.sg"
+    }
+   ],
+   "question": "What neem leaf and ghee destroy, and what honey drinking follows?",
+   "premises": [
+    "nimba patram and ghṛtam are ingredients",
+    "hanti states destruction",
+    "ghṛtena gives medium",
+    "madhu pānataḥ gives follow-up"
+   ],
+   "inference": "Neem leaf and ghee destroy, by ghee and honey drinking.",
+   "uncertainties": [
+    "target unspecified"
+   ],
+   "plain_english": "Neem leaf ghee destroys; by ghee, by honey drinking."
+  },
+  {
+   "verse": 1272,
+   "rows": [
+    {
+     "surface": "miśritam",
+     "gloss": "mixed",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "nakha+keśa+ādyaiḥ",
+     "gloss": "with-nail-hair-etc",
+     "grounds": "compound",
+     "morph": "noun.instr.pl"
+    },
+    {
+     "surface": "loha+ādyaiḥ+ca",
+     "gloss": "and-with-metal-etc",
+     "grounds": "compound",
+     "morph": "noun.instr.pl"
+    },
+    {
+     "surface": "cūrṇa+sañcayam",
+     "gloss": "powder-collection",
+     "grounds": "compound",
+     "morph": "noun.acc.sg"
+    }
+   ],
+   "question": "What mixed powder collection includes nail, hair, metal, and others?",
+   "premises": [
+    "miśritam describes mixture",
+    "nakha keśa ādyaiḥ lists materials",
+    "loha ādyaiḥ ca adds metals",
+    "cūrṇa sañcayam is collection"
+   ],
+   "inference": "A mixed powder collection includes nail, hair, metal, and others.",
+   "uncertainties": [
+    "purpose unspecified"
+   ],
+   "plain_english": "Mixed with nail, hair, etc., and metal, etc., a powder collection."
+  },
+  {
+   "verse": 1273,
+   "rows": [
+    {
+     "surface": "rakta+srāvaḥ",
+     "gloss": "blood-flow",
+     "grounds": "compound",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "jvaraḥ",
+     "gloss": "fever",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "śoṣaḥ",
+     "gloss": "emaciation",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "pīta+cakṣuḥ+ca",
+     "gloss": "and-yellow-eyed",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "lakṣayet",
+     "gloss": "one-should-observe",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What signs should be observed: blood flow, fever, emaciation, and yellow eyes?",
+   "premises": [
+    "rakta srāvaḥ is sign",
+    "jvaraḥ is sign",
+    "śoṣaḥ is sign",
+    "pīta cakṣuḥ ca is sign",
+    "lakṣayet directs observation"
+   ],
+   "inference": "One should observe blood flow, fever, emaciation, and yellow eyes as signs.",
+   "uncertainties": [
+    "condition unspecified"
+   ],
+   "plain_english": "Blood flow, fever, emaciation, and yellow eyes should be observed."
+  },
+  {
+   "verse": 1274,
+   "rows": [
+    {
+     "surface": "trayāṇām",
+     "gloss": "of-the-three",
+     "grounds": "legacy hint",
+     "morph": "num.gen.pl"
+    },
+    {
+     "surface": "gandhakam",
+     "gloss": "sulphur",
+     "grounds": "legacy hint",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "tulyam",
+     "gloss": "equal",
+     "grounds": "legacy hint",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "mardyam",
+     "gloss": "to-be-ground",
+     "grounds": "legacy hint",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "kanyā+dravaiḥ",
+     "gloss": "with-aloe-juice",
+     "grounds": "compound",
+     "morph": "noun.instr.pl"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "for-a-day",
+     "grounds": "legacy hint",
+     "morph": "noun.acc.sg"
+    }
+   ],
+   "question": "How should sulphur equal to three be ground with aloe juice for a day?",
+   "premises": [
+    "trayāṇām gives three",
+    "gandhakam is sulphur",
+    "tulyam means equal",
+    "mardyam directs grinding",
+    "kanyā dravaiḥ specifies juice",
+    "dinam gives duration"
+   ],
+   "inference": "Sulphur equal to three should be ground with aloe juice for a day.",
+   "uncertainties": [
+    "three what unspecified"
+   ],
+   "plain_english": "Sulphur equal to three should be ground with aloe juice for a day."
+  }
+ ]
+}

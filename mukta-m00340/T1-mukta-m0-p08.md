@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[thus](evaṃ) [knowing](jñātvā) [great-goddess](mahādevi) [as-suitable](yathāyogyaṃ) [so](tathā) [do](kuru)
+[thus](evaṃ) [knowing](jñātvā) [O-great-goddess](mahādevi) [as-appropriate](yathāyogyaṃ) [so](tathā) [do](kuru)
 
 ## mukta-m0-p08-v177
-[salutation-to-you](namaste) [world-venerable](jagadvandya) [lotus-feet](pādāravinde) [salutation-to-you](namaste) [world-savior](jagattāriṇi) [save](trāhi) [Durga](durge)
+[salutation](namaste) [to-you](te) [world-venerable](jagadvandya) [lotus-feet](pādāravinde) [salutation](namaste) [world-deliverer](jagattāriṇi) [protect](trāhi) [O-Durgā](durge)
 
 ## mukta-m0-p08-v178
-[salutation](namaste) [salutation](namaste) [eternal-bliss](sadānanda) [form](rūpe) [salutation](namaste) [world-savior](jagattāriṇi) [save](trāhi) [Durga](durge)
+[salutation](namaste) [salutation](namaste) [ever-bliss-form](sadānanda+rūpe) [salutation](namaste) [world-deliverer](jagattāriṇi) [protect](trāhi) [O-Durgā](durge)
 
 ## mukta-m0-p08-v179
-[you](tvamekāgatirdevi) [sole-refuge](tvamekāgatirdevi) [goddess](devi) [liberation](nistāra) [doer](kartrī) [salutation](namaste) [world-savior](jagattāriṇi) [save](trāhi) [Durga](durge)
+[you-alone-refuge](tvamekāgatirdevi) [deliverance-doer](nistāra+kartrī) [salutation](namaste) [world-deliverer](jagattāriṇi) [protect](trāhi) [O-Durgā](durge)
 
 ## mukta-m0-p08-v180
-[you](tvamekāgatirdevi) [sole-refuge](tvamekāgatirdevi) [goddess](devi) [liberation](nistāra) [cause](hetu) [salutation](namaste) [world-savior](jagattāriṇi) [save](trāhi) [Durga](durge)
+[you-alone-refuge](tvamekāgatirdevi) [deliverance-cause](nistāra+hetu) [salutation](namaste) [world-deliverer](jagattāriṇi) [protect](trāhi) [O-Durgā](durge)
 
 ## mukta-m0-p08-v181
-[you](tvamekāgatirdevi) [sole-refuge](tvamekāgatirdevi) [goddess](devi) [liberation](nistāra) [boat](naukā) [salutation](namaste) [world-savior](jagattariṇi) [save](trāhi) [Durga](durge)
+[you-alone-refuge](tvamekāgatirdevi) [deliverance-boat](nistāra+naukā) [salutation](namaste) [world-deliverer](jagattariṇi) [protect](trāhi) [O-Durgā](durge)
 
 ## mukta-m0-p08-v182
-[you](tvamekāgatirvighna) [sole-refuge](tvamekāgatirvighna) [obstacle](vighna) [multitude](sandoha) [destroyer](hartrī) [salutation](namaste) [world-savior](jagattāriṇi) [save](trāhi) [Durga](durge)
+[you-alone-refuge](tvamekāgatirvighna) [obstacle-destroyer](sandoha+hartrī) [salutation](namaste) [world-deliverer](jagattāriṇi) [protect](trāhi) [O-Durgā](durge)
 
 ## mukta-m0-p08-v183
-[ida](iḍā) [pingala](piṅgalā) [you](tvaṃ) [sushumna](suṣumṇā) [and](ca) [nadis](nāḍī) [salutation](namaste) [world-savior](jagattāriṇa) [save](trāhi) [Durga](durge)
+[īḍā](iḍā) [piṅgalā](piṅgalā) [you](tvaṃ) [suṣumṇā](suṣumṇā) [and](ca) [of-nāḍīs](nāḍī) [salutation](namaste) [world-deliverer](jagattāriṇa) [protect](trāhi) [O-Durgā](durge)
 
 ## mukta-m0-p08-v184
-[refuge](śaraṇye) [I-bow](tvāmahaṃ) [Durga](durgāṃ) [misfortune](durgati) [destroyer](nāśinīm)
+[refuge](śaraṇye) [to-you](tvām) [I](ahaṃ) [bow](vande) [Durgā](durgāṃ) [misfortune-destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p08-v185
-[goddess](īśvarīṃ) [I-bow](tvāmahaṃ) [Durga](durgāṃ) [misfortune](durgati) [destroyer](nāśinīm)
+[mistress](īśvarīṃ) [to-you](tvām) [I](ahaṃ) [bow](vande) [Durgā](durgāṃ) [misfortune-destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p08-v186
-[victorious](vijayāṃ) [I-bow](tvāmahaṃ) [Durga](durgāṃ) [misfortune](durgati) [destroyer](nāśinīm)
+[victorious](vijayāṃ) [to-you](tvām) [I](ahaṃ) [bow](vande) [Durgā](durgāṃ) [misfortune-destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p08-v187
-[Bhavani](bhavānīntvāmahaṃ) [I-bow](vande) [Durga](durgāṃ) [misfortune](durgati) [destroyer](nāśinīm)
+[Bhavānī](bhavānīṃ) [to-you](tvām) [I](ahaṃ) [bow](vande) [Durgā](durgāṃ) [misfortune-destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p08-v188
-[divine-form](divyarūpāmahaṃ) [I-bow](vande) [Durga](durgāṃ) [misfortune](durgati) [destroyer](nāśinīm)
+[divine-form](divyarūpām) [I](ahaṃ) [bow](vande) [Durgā](durgāṃ) [misfortune-destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p08-v189
-[Gauri-form](gaurīrūpāmahaṃ) [I-bow](vande) [Durga](durgāṃ) [misfortune](durgati) [destroyer](nāśinīm)
+[Gaurī-form](gaurīrūpām) [I](ahaṃ) [bow](vande) [Durgā](durgāṃ) [misfortune-destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p08-v190
-[bearing](dadhānāṃ) [I-bow](tvāmahaṃ) [Durga](durgāṃ) [misfortune](durgati) [destroyer](nāśinīm)
+[bearing](dadhānāṃ) [to-you](tvām) [I](ahaṃ) [bow](vande) [Durgā](durgāṃ) [misfortune-destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p08-v191
-[always](saradaiva) [I-bow](mahaṃ) [Durga](durgāṃ) [misfortune](durgati) [destroyer](nāśinīm)
+[always](saradaiva) [I](mahaṃ) [bow](vande) [Durgā](durgāṃ) [misfortune-destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p08-v192
-[ghee](ghṛtenatvaṃ) [you](tanvaṃvarddhayasvasatyāḥ) [body](tanvaṃvarddhayasvasatyāḥ) [increase](varddhayasva) [welfare](santuyajamānasyakāmāḥ) [sacrifice](yajamānasya) [offerer](yajamānasya) [desires](kāmāḥ)
+[with-ghee](ghṛtena) [you](tvaṃ) [body](tanvaṃ) [increase](varddhayasva) [prosperity](satyāḥ) [may-there-be](santu) [of-sacrificer](yajamānasya) [desires](kāmāḥ)
 
 ## mukta-m0-p08-v193
-[bow](vande) [that](tāṃ) [supreme-goddess](parameśvarīṃ) [goddess](bhagavatīṃ) [wisdom](buddhi) [giver](pradāṃ) [Sharada](śāradām)
+[I-bow](vande) [to-her](tāṃ) [supreme-goddess](parameśvarīṃ) [blessed](bhagavatīṃ) [intelligence-giver](buddhi+pradāṃ) [Śāradā](śāradām)
 
 ## mukta-m0-p08-v194
-[burnt](protpluṣṭājñānakūṭeharinijadayitedevisaṃsāra) [ignorance](ajñāna) [heap](kūṭa) [remove](harini) [own](nija) [compassion](dayita) [goddess](devi) [samsara](saṃsāra) [essence](sāre)
+[blazing](protpluṣṭa) [ignorance-heap](ajñāna+kūṭe) [remove](harini) [own-grace](jadayite) [goddess](devi) [world-cycle-essence](saṃsāra+sāre)
 
 ## mukta-m0-p08-v195
-[universe](viśve) [within-universe](viśvāntarāle) [best-god](suravara) [bowed](namite) [partless](niṣkale) [eternal](nitya) [pure](śuddhe)
+[universe](viśve) [within-universe](viśvāntarāle) [best-god](suravara) [bowed](namite) [partless](niṣkale) [eternal-pure](nitya+śuddhe)
 
 ## mukta-m0-p08-v196
-[beyond-path](mārgātīta) [radiance](prabhāve) [become](bhava) [my](mama) [boon-giver](varadā) [Sharada](śārade) [white-day](śubhrahāre)
+[path-transcending](mārgātīta) [glory](prabhāve) [be](bhava) [my](mama) [boon-giver](varadā) [Śāradā](śārade) [auspicious-dawn](śubhrahāre)
 
 ## mukta-m0-p08-v197
-[intellect](matide) [Madhava](mādhava) [love](prīti) [sound](nāde)
+[intelligence](mati) [in](de) [Mādhava](mādhava) [delight](prīti) [sound](nāde)
 
 ## mukta-m0-p08-v198
-[Bharati](bhāratītvaṃ) [poet-bull](kavivṛṣarasanā) [tongue](rasanā) [accomplishment-giver](siddhidā) [perfected](siddha) [knowledge](vidyā)
+[Sarasvatī](bhāratī) [you](tvaṃ) [poet-bull-tongue](kavivṛṣa+rasanā) [accomplishment-giver](siddhidā) [perfected-knowledge](siddha+vidyā)
 
 ## mukta-m0-p08-v199
-[my](mamadhirmāstu) [dharma](dharmā) [be](māstu) [dull](kuṃṭhā) [never](kadācit)
+[my](mama) [dharma](dharma) [may-be](māstu) [blunt](kuṃṭhā) [never](kadācit)
 
 ## mukta-m0-p08-v200
-[his](tasya) [world](loke) [spreads](prasarati) [poetry](kavitā) [obstacle](vighnamastaṃ) [end](prayāti) [goes](prayāti)
+[his](tasya) [world](loke) [spreads](prasarati) [poetry](kavitā) [obstacle](vighnam) [to-end](astaṃ) [goes](prayāti)

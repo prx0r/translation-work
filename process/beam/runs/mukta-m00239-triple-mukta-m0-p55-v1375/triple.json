@@ -1,0 +1,76 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "garbha",
+     "gloss": "womb",
+     "grounds": "first member of garbha-yantra compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yantra",
+     "gloss": "apparatus",
+     "grounds": "second member of garbha-yantra compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "gataṃ",
+     "gloss": "gone",
+     "grounds": "past participle of gam in accusative",
+     "morph": "pp.acc.sg.n"
+    },
+    {
+     "surface": "pacyāt",
+     "gloss": "one-should-cook",
+     "grounds": "optative cooking instruction",
+     "morph": "3.sg.act.opt.√pac"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "numeral modifying dinaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dinaṃ",
+     "gloss": "days",
+     "grounds": "duration accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṣa",
+     "gloss": "with-husk",
+     "grounds": "first member of tuṣa-agni compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "agninā",
+     "gloss": "fire",
+     "grounds": "instrumental agent of cooking",
+     "morph": "n.ins.sg.m"
+    }
+   ],
+   "question": "How long and by what fire should a substance that has entered the garbha-yantra be cooked?",
+   "premises": [
+    "Substance has entered garbha-yantra.",
+    "Cooking lasts three days.",
+    "Husk fire is used."
+   ],
+   "inference": "Cook the garbha-yantra contents for three days with husk fire.",
+   "uncertainties": [
+    "garbha-yantra exact apparatus unclear",
+    "tuṣa-agni compound parsing"
+   ],
+   "plain_english": "Cook what has entered the garbha-yantra for three days with husk fire."
+  }
+ ]
+}

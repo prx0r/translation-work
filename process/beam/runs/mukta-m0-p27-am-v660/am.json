@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p27",
  "verse": 660,
- "question": "What is the position of the crooked right foot?",
+ "question": "Which ingredients are listed for the medicinal preparation?",
  "premises": [
-  "The verse mentions crooked.",
-  "The right foot is mentioned.",
-  "It stands on epilepsy."
+  "ajamodā and haridrā are named",
+  "asafoetida and katukarohiṇī are named"
  ],
- "inference": "This verse describes the right foot's position.",
+ "inference": "The preparation includes ajamodā, haridrā, asafoetida, and katukarohiṇī.",
  "uncertainties": [
-  "Exact sandhi and case parsing not fully verified."
+  "quantities unspecified"
  ],
- "plain_english": "The crooked right foot stands on epilepsy."
+ "plain_english": "Ajamodā, haridrā, asafoetida, and katukarohiṇī are the ingredients."
 }

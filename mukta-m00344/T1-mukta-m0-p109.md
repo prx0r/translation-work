@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-evaṃ-thus citā-arranged bhāsitaṃ-spoken tu-indeed cetyam-object astu-let-be pṛthagvidham-various
+[thus](evaṃ) [gathered](citā) [spoken](bhāsitaṃ) [but](tu) [knowable](cetyam) [let-be](astu) [various](pṛthagvidham)
 
 ## mukta-m0-p109-v2702
-āloka-light bhātam-illuminated ālokāt-from-perception yathā-like bhinnam-distinct evaṃ-thus cito-arranged bhinnaṃ-distinct cetyam-object astu-let-be iti-arthaḥ-meaning
+[light-illuminated](ālokabhāta) [from-light](mālokād) [as](yathā) [distinct](bhinnam) [thus](evaṃ) [gathered](cito) [distinct](bhinnaṃ) [knowable](cetyam) [let-be](astu) [meaning](ityarthaḥ)
 
 ## mukta-m0-p109-v2703
-atha-now ca-and prāgabhihitaṃ-previously-stated janakena-by-Janaka mahātmanā-by-great-soul
+[then](atha) [also](ca) [before](prāg) [said](abhihitaṃ) [by-janaka](janakena) [great-soul](mahātmanā)
 
 ## mukta-m0-p109-v2704
-yadabhihitaṃ-what-was-stated tat-that katham-how iti-thus vyavahitena-by-intervening sambandhaḥ-connection
+[what](yad) [said](abhihitaṃ) [that](tat) [how](katham) [iti](iti) [interrupted](vyavahitena) [connection](sambandhaḥ)
 
 ## mukta-m0-p109-v2705
-tad-that eva-indeed nirvikalpaṃ-nondual syāt-may-be jñānaṃ-knowledge saṃsāranāśanam-destruction-of-samsara
+[that](tadeva) [non-conceptual](nirvikalpaṃ) [let-be](syāt) [knowledge](jñānaṃ) [saṃsāra-destruction](saṃsāranāśanam)
 
 ## mukta-m0-p109-v2706
-saṃsāranāśanam-destruction-of-samsara pratyabhijñānadvārā-by-recognition saṃsāranivartakam-remover-of-samsara iti-arthaḥ-meaning
+[saṃsāra-destruction](saṃsāranāśanam) [through-recognition](pratyabhijñānadvārā) [saṃsāra-removing](saṃsāranivartakam) [meaning](ityarthaḥ)
 
 ## mukta-m0-p109-v2707
-ātmanaḥ-of-self hi-indeed manaḥ-mind proktaṃ-declared karaṇaṃ-instrument jñānakarmaṇi-in-knowledge-action
+[of-self](ātmano) [indeed](hi) [mind](manaḥ) [said](proktaṃ) [instrument](karaṇaṃ) [knowledge-action](jñānakarmaṇi)
 
 ## mukta-m0-p109-v2708
-jñānakriyāyām-in-knowledge-action
+[knowledge-action](jñānakriyāyām)
 
 ## mukta-m0-p109-v2709
-manaḥ-mind jaḍāt-from-inert viśeṣaḥ-distinct syāt-may-be ātmanaḥ-of-self bhagavan-O-lord anu-indeed
+[mind](mano) [from-inert](jaḍād) [distinction](viśeṣaḥ) [let-be](syād) [of-self](ātmano) [lord](bhagavannanu)
 
 ## mukta-m0-p109-v2710
-jaḍatvaprasaktiḥ-inertness-objection iti-thus āha-says manaḥ-mind iti-thus
+[inertness-occurrence](jaḍatvaprasaktirityāha) [mind](mana) [iti](iti)
 
 ## mukta-m0-p109-v2711
-mano-mind mokṣaḥ-liberation iti-thus ca-and ucyate-is-said iti-thus bhāvaḥ-meaning mokṣaḥ-liberation syāt-may-be nirvikalpakam-nondual
+[mind](mano) [liberation](mokṣa) [iti](iti) [also](ca) [said](ucyata) [iti](iti) [bhāvaḥ](bhāvaḥ) [liberation](mokṣaḥ) [let-be](syāt) [non-conceptual](nirvikalpakam)
 
 ## mukta-m0-p109-v2712
-mano-mind mokṣaḥ-liberation iti-thus ca-and ucyate-is-said iti-thus bhāvaḥ-meaning bandhaḥ-bondage mokṣaḥ-liberation iti-thus
+[mind](mano) [liberation](mokṣa) [iti](iti) [also](ca) [said](ucyata) [iti](iti) [bhāvaḥ](bhāvaḥ) [bondage](bandho) [liberation](mokṣa) [iti](iti)
 
 ## mukta-m0-p109-v2713
-nirvikalpasya-of-nondual saṃsiddhau-in-accomplishment api-even dvaitam-duality tu-but śiṣyate-is-taught
+[non-conceptual](nirvikalpasya) [perfection](saṃsiddhāvapi) [duality](dvaitaṃ) [but](tu) [remains](śiṣyate)
 
 ## mukta-m0-p109-v2714
-na-not hi-indeed bhrāntiḥ-illusion asatyā-unreal syāt-may-be tad-that advaitam-nonduality katham-how bhavet-may-be
+[not](nahi) [error](bhrānti) [unreal](asatyā) [syāt](syāt) [that](tad) [non-duality](advaitaṃ) [how](kathaṃ) [become](bhavet)
 
 ## mukta-m0-p109-v2715
-sarvam-all hi-indeed jāgatam-worldly vastu-thing sthiram-stable arthakriyākaram-doing-purpose
+[all](sarvaṃ) [indeed](hi) [waking](jāgataṃ) [thing](vastu) [stable](sthiram) [action-capable](arthakriyākaram)
 
 ## mukta-m0-p109-v2716
-sarvam-all ca-and bhrāntivijñānam-illusion-knowledge bhrāntyabhrāntibhidā-distinction-between-illusion-and-nonillusion katham-how
+[all](sarvaṃ) [and](ca) [error-cognition](bhrāntivijñānaṃ) [error-nonerror](bhrāntyabhrānti) [difference](bhidā) [how](katham)
 
 ## mukta-m0-p109-v2717
-jñānabhedavyavahāraḥ-knowledge-distinction-usage katham-how iti-thus āha-says sarvam-all iti-thus
+[knowledge-difference](jñānabhedavyavahāraḥ) [how](katham) [iti](iti) [āha](āha) [sarvam](sarvam) [iti](iti)
 
 ## mukta-m0-p109-v2718
-sandehaḥ-doubt eṣaḥ-this cirataḥ-for-long hṛdi-in-heart me-my parivartate-revolves
+[doubt](sandeha) [this](eṣa) [long](cirato) [in-heart](hṛdi) [me](me) [revolves](parivartate)
 
 ## mukta-m0-p109-v2719
-sarveṣām-of-all eka-rūpā-uniform bhrāntiḥ-illusion vā-or katham-how syāt-may-be iti-thus āha-says bhrāntiḥ-illusion iti-thus
+[all](sarveṣām) [one-form](ekarūpā) [error](bhrānti) [or](vā) [how](kathaṃ) [let-be](syād) [iti](iti) [āha](āha) [bhrānti](bhrānti) [iti](iti)
 
 ## mukta-m0-p109-v2720
-sādhupraśnaprahṛṣṭātmā-delighted-by-good-question pravaktum-to-explain upacakrame-began
+[good-question](sādhupraśna) [delighted-self](prahṛṣṭātmā) [to-speak](pravaktum) [began](upacakrame)
 
 ## mukta-m0-p109-v2721
-samastavit-all-knowing sarvajñaḥ-omniscient
+[all-knowing](samastavit) [all-knowing](sarvajñaḥ)
 
 ## mukta-m0-p109-v2722
-yāvat-until na-not manasaḥ-of-mind toṣaḥ-satisfaction tāvat-so-long bhūyas-more viśodhayet-should-purify
+[until](yāvat) [not](na) [mind](manasas) [satisfaction](toṣas) [until](tāvat) [again](bhūyo) [purify](viśodhayet)
 
 ## mukta-m0-p109-v2723
-yāvat-until iti-thus saṃśayanivṛttyā-by-removal-of-doubt toṣaḥ-satisfaction viśodhayet-should-purify vicārayet-should-inquire
+[yāvat](yāvad) [iti](iti) [doubt-removal](saṃśayanivṛttyā) [satisfaction](toṣaḥ) [viśodhayet](viśodhayet) [examine](vicārayet)
 
 ## mukta-m0-p109-v2724
-prāṇinām-of-beings hi-indeed buddhibhedāt-due-to-intellect-difference tarkaḥ-reasoning pṛthag-separately avasthitaḥ-situated
+[of-beings](prāṇināṃ) [indeed](hi) [intellect-differences](buddhibhedāt) [reasoning](tarkaḥ) [separate](pṛthag) [stands](avasthitaḥ)
 
 ## mukta-m0-p109-v2725
-jñātum-to-know aśakyatvena-by-impossibility sakṛt-once upadeśena-by-instruction śaṅkānivṛtteḥ-of-nonremoval-of-doubt iti-thus bhāvaḥ-meaning
+[to-know](jñātum) [impossible](aśakyatvena) [once](sakṛd) [instruction](upadeśena) [doubt](śaṅkā) [non-removal](anivṛtter) [iti](iti) [bhāvaḥ](bhāvaḥ)

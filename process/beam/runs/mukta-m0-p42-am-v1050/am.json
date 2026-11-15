@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1050,
- "question": "Which divine healer is asked to protect devotees while wearing white garments and a radiant crown?",
+ "question": "Which substances or conditions must be excluded from eye anointment?",
  "premises": [
-  "Dhanvantari wears white garments.",
-  "He gives health to devotees.",
-  "He is asked to protect us."
+  "Anointing is prohibited for certain substances.",
+  "Excessive or deficient limbs are excluded.",
+  "Dog-bitten and fire-burnt sources are excluded."
  ],
- "inference": "The verse invokes Dhanvantari as protector.",
+ "inference": "Therefore one should avoid anointing with those excluded substances.",
  "uncertainties": [
-  "Token contains internal sandhi and an internal space; gloss compressed to six parts."
+  "The exact referent of aṅgaṃ remains unclear.",
+  "Whether the prohibition concerns source material or prepared collyrium is not explicit."
  ],
- "plain_english": "May Dhanvantari, radiant-crowned and white-garmented, giver of health, protect us."
+ "plain_english": "One should not anoint with substances from excessive or deficient limbs, dog-bitten sources, or fire-burnt sources."
 }

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "palaṃ",
+     "gloss": "one-pala",
+     "grounds": "quantity measure pala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lehyaṃ",
+     "gloss": "to-be-licked",
+     "grounds": "verbal adjective from lih",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "nādaḥ",
+     "gloss": "sound",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kinnarādhika",
+     "gloss": "kinnara-surpassing",
+     "grounds": "compound kinnara plus adhika",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What vocal result follows from licking one pala of the preparation?",
+   "premises": [
+    "One pala is to be licked.",
+    "The resulting sound surpasses kinnaras.",
+    "The preparation is taken with cow urine."
+   ],
+   "inference": "Licking one pala produces a sound surpassing even the kinnaras.",
+   "uncertainties": [
+    "The exact substance of the pala is not specified in this verse."
+   ],
+   "plain_english": "One pala is to be licked, and the resulting sound surpasses even the kinnaras."
+  }
+ ]
+}

@@ -1,18 +1,13 @@
 {
  "song": "mukta-m0-p35",
  "verse": 870,
- "question": "What shape becomes either elephant lip or cow face?",
+ "question": "What happens when a horse's eye is washed with buttermilk?",
  "premises": [
-  "elephant lip shaped is accusative",
-  "or is indeclinable",
-  "cow face like is accusative",
-  "and is indeclinable",
-  "that is nominative",
-  "becomes is verb"
+  "the eye is washed with buttermilk",
+  "the horse becomes healthy",
+  "the result is health"
  ],
- "inference": "The verse says that shape becomes either elephant lip shaped or cow face like.",
- "uncertainties": [
-  "referent of that is contextual"
- ],
- "plain_english": "That becomes either elephant lip shaped or cow face like."
+ "inference": "Washing the eye with buttermilk makes the horse healthy.",
+ "uncertainties": [],
+ "plain_english": "Wash the eye with buttermilk; the horse becomes healthy."
 }

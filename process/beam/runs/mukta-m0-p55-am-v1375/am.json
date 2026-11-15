@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1375,
- "question": "Which yoni is said to cause the birth of Brahma, Vishnu, and Shiva?",
+ "question": "How long and by what fire should a substance that has entered the garbha-yantra be cooked?",
  "premises": [
-  "The yoni causes birth of the triad.",
-  "Brahma, Vishnu, and Shiva are named together."
+  "Substance has entered garbha-yantra.",
+  "Cooking lasts three days.",
+  "Husk fire is used."
  ],
- "inference": "The verse identifies a birth-causing yoni associated with Brahma, Vishnu, and Shiva.",
+ "inference": "Cook the garbha-yantra contents for three days with husk fire.",
  "uncertainties": [
-  "The exact referent of yoni is not specified beyond its birth-causing role.",
-  "The fused compound and ca are analyzed as one token."
+  "garbha-yantra exact apparatus unclear",
+  "tuṣa-agni compound parsing"
  ],
- "plain_english": "And the yoni that causes the birth of Brahma, Vishnu, and Shiva."
+ "plain_english": "Cook what has entered the garbha-yantra for three days with husk fire."
 }

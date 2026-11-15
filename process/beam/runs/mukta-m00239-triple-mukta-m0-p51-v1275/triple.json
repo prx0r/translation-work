@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "vahni+mūla+yutam",
+     "gloss": "with-citraka-root",
+     "grounds": "compound of vahni (fire/citraka), mūla (root), and yuta (joined/with)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣīram",
+     "gloss": "milk",
+     "grounds": "neuter noun in accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manuṣya+gara+nāśanam",
+     "gloss": "human-poison-destroying",
+     "grounds": "compound of manuṣya (human), gara (poison), and nāśana (destroying)",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What combination of citraka root and milk destroys human poison?",
+   "premises": [
+    "citraka root is joined with milk",
+    "the mixture destroys human poison"
+   ],
+   "inference": "citraka-root milk destroys human poison",
+   "uncertainties": [
+    "vahni may denote citraka root in this medical context"
+   ],
+   "plain_english": "Milk combined with citraka root destroys human poison."
+  }
+ ]
+}

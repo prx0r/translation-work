@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p27",
  "verse": 673,
- "question": "What companions are described on the left?",
+ "question": "What happens when cow milk is drunk in the fourth month?",
  "premises": [
-  "The verse gives left side.",
-  "Gaurī is mentioned.",
-  "Nandikeśin is mentioned."
+  "cow milk is drunk",
+  "in fourth month pain ceases"
  ],
- "inference": "This verse describes left-side companions.",
+ "inference": "Drinking cow milk in the fourth month causes pain to cease.",
  "uncertainties": [
-  "Exact sandhi and case parsing not fully verified."
+  "which pain unspecified"
  ],
- "plain_english": "On the left are Gaurī and Nandikeśin."
+ "plain_english": "In the fourth month, let one drink cow milk; pain ceases."
 }

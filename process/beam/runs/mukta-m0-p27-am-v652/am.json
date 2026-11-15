@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p27",
  "verse": 652,
- "question": "Which northern form is described as three-eyed, beautiful four-faced, golden-colored, and protective?",
+ "question": "What offering of seven rice-balls is to be made with curd-rice?",
  "premises": [
-  "The verse gives northern direction.",
-  "The form is protective.",
-  "The color is golden."
+  "seven rice-balls are specified",
+  "curd-rice accompanies them"
  ],
- "inference": "This verse identifies a northern protective form with specified iconographic traits.",
+ "inference": "One should have seven rice-balls made with curd-rice.",
  "uncertainties": [
-  "Exact sandhi and case parsing not fully verified."
+  "recipient unspecified"
  ],
- "plain_english": "The three-eyed, beautiful four-faced, golden-colored form protects in the north."
+ "plain_english": "With curd-rice, let one make seven rice-balls."
 }

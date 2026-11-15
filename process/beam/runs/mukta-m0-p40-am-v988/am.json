@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 988,
- "question": "Which additional materials are approved for making ritual vessels?",
+ "question": "What opacity is destroyed by collyrium, honey, or gold pyrite?",
  "premises": [
-  "Coconut is listed as a material.",
-  "Conch is listed as a material.",
-  "Something born from a pearl oyster is listed."
+  "collyrium destroys opacity",
+  "honey is an alternative",
+  "gold pyrite is an alternative"
  ],
- "inference": "Coconut, conch, and pearl-oyster-born material are approved vessel materials.",
- "uncertainties": [],
- "plain_english": "Also coconut, conch, and that which is born from a pearl oyster."
+ "inference": "The verse says opacity is destroyed by collyrium, honey, or gold pyrite.",
+ "uncertainties": [
+  "whether the alternatives are separate recipes or one compound"
+ ],
+ "plain_english": "By collyrium, honey, or gold pyrite, opacity is destroyed."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-if (yadi) be (syāt) perfected-armor (siddha-kavacaḥ) Jupiter-equal (bṛhaspati-samaḥ) become (bhavet)
+[if](yadi) [be](syāt) [perfected-armor](siddha+kavacaḥ) [Jupiter-equal](bṛhaspati+samaḥ) [become](bhavet)
 
 ## mukta-m0-p61-v1502
-able (śaknoti) all (sarvaṃ) to-conquer (jetuṃ) he (sa) of-armor (kavacasya) by-grace (prasādataḥ)
+[able](śaknoti) [all](sarvaṃ) [conquer](jetuṃ) [he](sa) [armor's](kavacasya) [by-grace](prasādataḥ)
 
 ## mukta-m0-p61-v1503
-hymn (stotraṃ) worship-rite (pūjā-vidhānaṃ) and (ca) meditation (dhyānaṃ) and (ca) salutation (vandanaṃ) thus (tathā)
+[hymn](stotraṃ) [worship-rite](pūjā+vidhānaṃ) [and](ca) [meditation](dhyānaṃ) [and](ca) [salutation](vandanaṃ) [so](tathā)
 
 ## mukta-m0-p61-v1504
-in-Nārāyaṇa-Nārada-dialogue (nārāyaṇa-nārada-saṃvāde) Sarasvatī-armor (sarasvatī-kavacaṃ) named (nāma) fourth-chapter (caturthaḥ-adhyāyaḥ)
+[in-Narayana-Narada-dialogue](nārāyaṇa+nārada+saṃvāde) [Sarasvati-armor](sarasvatī+kavacaṃ) [named](nāma) [fourth-chapter](caturthaḥ+adhyāyaḥ)
 
 ## mukta-m0-p61-v1505
-Ḍāmara-spoken (ḍāmara-uktaḥ) three (3) oṃ (oṃ) aiṃ (aiṃ) hrīṃ (hrīṃ) klīṃ (klīṃ) ḷṃ (ḷṃ) hrīṃ (hrīṃ) homage (namaḥ) thus (iti) southerners (dākṣiṇātyāḥ)
+[Damara-spoken](ḍāmara+uktaḥ) [three](3) [mantra](oṃ aiṃ hrīṃ klīṃ ḷṃ hrīṃ namaḥ) [thus](iti) [southern](dākṣiṇātyāḥ)
 
 ## mukta-m0-p61-v1506
-broken-moon (khaṇḍa-indu) three-foot (tripāt) corner (koṇe) chain (śṛṅkhalā) five (pañcabhiḥ) feet (padaiḥ)
+[fragment-moon](khaṇḍa+induḥ) [three-footed-corner](tripāt+koṇe) [chain-with-five](śṛṅkhalā+pañcabhiḥ) [by-feet](padaiḥ)
 
 ## mukta-m0-p61-v1507
-twenty-four (caturviṃśat) feet (padā) well (vāpī) twenty (viṃśatyā) circumference (paridhiḥ) feet (padaiḥ)
+[twenty-four-feet](caturviṃśat+padā) [moat](vāpī) [by-twenty](viṃśatyā) [circumference](paridhiḥ) [by-feet](padaiḥ)
 
 ## mukta-m0-p61-v1508
-white-moon (śveta-induḥ) chain-black (śṛṅkhalā-kṛṣṇā) creeper (valliṃ) blue (nīlena) fill (pūrayet)
+[white-moon](śveta+induḥ) [chain-black](śṛṅkhalā+kṛṣṇā) [creeper](valliṃ) [with-blue](nīlena) [fill](pūrayet)
 
 ## mukta-m0-p61-v1509
-outer (vāhya) thereafter (anantara) petals (dalaiḥ) white (śvetā) pericarp (karṇikā) yellow (pīta) colored (varṇakā)
+[outer-next](vāhya+anantara) [by-petals](dalaiḥ) [white](śvetā) [pericarp](karṇikā) [yellow](pīta) [colored](varṇakā)
 
 ## mukta-m0-p61-v1510
-in-that-middle (tan-madhye) place (sthāpayet) gods (devān) Brahmā-etc (brahma-ādyān) and (ca) gods-demons (surāsurān)
+[in-middle](tan+madhye) [install](sthāpayet) [gods](devān) [Brahma-etc](brahma+ādyān) [and](ca) [gods-demons](surāsurān)
 
 ## mukta-m0-p61-v1511
-Sāma-sages-prosperity (sāma-sat-vṛddheḥ) unharmed-life (akṣita-āyuḥ) not-injured (adabdhaḥ) for-welfare (svastaye) īśāna (īśāna)
+[Sama-prosperity](sāma+sad+vṛddheḥ) [unharmed-life](akṣita+āyuḥ) [undecayed](dabdhaḥ) [for-welfare](svastaye) [Ishana](īśāna)
 
 ## mukta-m0-p61-v1512
-oblation (hava) equal (samāna) life (āyuḥ) Varuṇa (varuṇa) come (āgaccha)
+[oblation](havodhyu) [mantra](ru śaṭha) [same-life](samāna+āyuḥ) [plunder](pramoṣīḥ) [earth](bhū) [O](bho) [Varuna](varuṇa) [come-here](ihāga)
 
 ## mukta-m0-p61-v1513
-svāhā (svāhā) Gandharvas-Apsarases (gandharva-apsarasaḥ) come (āgacchata)
+[svaha](svāhā) [mantra](vāṭtāmyaḥ) [earth](bhū) [O](bho) [gandharvas-apsarasas](gandharva+apsarasaḥ) [come-here](ihāgacchata)
 
 ## mukta-m0-p61-v1514
-earth (bhū) lord (īśvara) come (āgaccha) stand (tiṣṭha) twenty-two (22) there (tatra) indeed (eva) Mahākāla (mahākāla) homage (namaḥ)
+[earth](bhū) [O](bho) [lord](īśvara) [come](ihāgacche) [stand](hatiṣṭha) [twenty-two](22) [there](tatraiva) [Mahakala](mahākāla) [salutation](namaḥ)
 
 ## mukta-m0-p61-v1515
-seven (sapta) Yakṣas (yakṣāḥ) come (āgaccha) stand (tiṣṭha) twenty-four (24) Brahmā-Indra (brahma-indra) middle (madhye) well (vāpyāṃ) Durgā (durgāṃ)
+[seven-yakshas](saptayakṣāḥ) [come](ihāgache) [stand](hatiṣṭha) [twenty-four](24) [Brahma-Indra](brahmendra) [middle](madhye) [moat](vāpyāṃ) [Durga](durgāṃ)
 
 ## mukta-m0-p61-v1516
-ancestors (pitaraḥ) purify (śundhadhvam) earth (bhū) svadhā (svadhe) come (āgaccha) stand (tiṣṭha)
+[ancestors](pitaraḥ) [purify](śundhadhvam) [earth](bhū) [O](bho) [svadha](svadhe) [come](ihāgacche) [stand](hatiṣṭha)
 
 ## mukta-m0-p61-v1517
-progeny (prajā) heroes (vīrān) death-disease (mṛtyu-roga) come (āgacchataṃ)
+[progeny](prajā) [mantra](guṃ rīriṣomotavīrān) [earth](bhū) [O](bho) [death-disease](mṛtyu+rogau) [come](ihāgacchataṃ)
 
 ## mukta-m0-p61-v1518
-stand (tiṣṭha)
+[stand](hatiṣṭha)
 
 ## mukta-m0-p61-v1519
-thirty-five (35) outer (vāhya) bolt (parigha) Soma-etc (soma-ādi) near (samīpe) oṃ (oṃ) to-mace (gadāyai) homage (namaḥ) mace (gadāṃ) invoke (āvā)
+[thirty-five](35) [outer](vāhya) [enclosure](parigha) [Soma-etc](somādi) [near](samīpe) [om](oṃ) [to-club](gadāyai) [salutation](namaḥ) [club](gadāṃ) [invoke](āvā)
 
 ## mukta-m0-p61-v1520
-to-staff (daṇḍāya) homage (namaḥ) staff (daṇḍaṃ) invoke (āvā) place (sthāpa) forty (40) southwest (nairṛtyāṃ)
+[to-staff](daṇḍāya) [salutation](namaḥ) [staff](daṇḍaṃ) [invoke](āvā) [install](sthāpa) [forty](40) [southwest](nairṛtyāṃ)
 
 ## mukta-m0-p61-v1521
-to-Gautama (gautamāya) Gautama (gautamaṃ) forty-four (44) northeast (īśānye) to-Bharadvāja (bharadvājāya) Bharadvāja (bharadvājaṃ)
+[to-Gautama](gautamāya) [Gautama](gautamaṃ) [forty-four](44) [northeast](īśānye) [to-Bharadvaja](bharadvājāya) [Bharadvaja](bharadvājaṃ)
 
 ## mukta-m0-p61-v1522
-east (pūrva) to-Viśvāmitra (viśvāmitrāya) Viśvāmitra (viśvāmitraṃ) invoke (āvā) forty-six (46) southeast (āgneyāṃ) to-Kaśyapa (kaśyapāya)
+[east](pūrva) [to-Vishvamitra](viśvāmitrāya) [Vishvamitra](viśvāmitraṃ) [invoke](āvā) [forty-six](46) [southeast](āgneyāṃ) [to-Kashyapa](kaśyapāya)
 
 ## mukta-m0-p61-v1523
-Vārāhī (vārāhīṃ) fifty-five (55) to-Cāmuṇḍā (cāmuṇḍāyai) Cāmuṇḍā (cāmuṇḍām) fifty-six (56) to-Vaiṣṇavī (vaiṣṇavyai) Vaiṣṇavī (vaiṣṇavīṃ)
+[Varahi](vārāhīṃ) [fifty-five](55) [to-Chamunda](cāmuṇḍāyai) [Chamunda](cāmuṇḍām) [fifty-six](56) [to-Vaishnavi](vaiṣṇavyai) [Vaishnavi](vaiṣṇavīṃ)
 
 ## mukta-m0-p61-v1524
-east-tips (pūrva-agraiḥ) southeast (āgneyā) direction-end (diśā-antam) four (4) east-tips (prāg-agraiḥ) Brahmā-fire-end (brahmaṇa-agni-paryantam)
+[eastern-tips](pūrva+agraiḥ) [to-southeast](āgneyā) [direction-end](dīśā+antam) [four](4) [eastern-tips](prāg+agraiḥ) [Brahma-to-fire](brahmaṇa+agni+paryantam)
 
 ## mukta-m0-p61-v1525
-seven (sapta) priests (hotrāḥ) sevenfold (saptadhā) you (tvā) sacrifice (yajanti) seven (sapta) wombs (yonīḥ) fill (āpṛṇasva) ghee (ghṛtena) svāhā (svāhā)
+[seven-priests](saptahotrāḥ) [sevenfold](saptadhā) [you](tvā) [sacrifice](yajanti) [seven-wombs](saptayonīḥ) [fill](āpṛṇasva) [with-ghee](ghṛtena) [svaha](svāhā)

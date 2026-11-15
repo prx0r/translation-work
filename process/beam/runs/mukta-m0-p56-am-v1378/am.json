@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1378,
- "question": "Where is the liṅga placed on the south altar?",
+ "question": "Which herbs are listed in this group of the purification recipe?",
  "premises": [
-  "the liṅga is placed on a seat",
-  "placement occurs on the south altar"
+  "brahmadaṇḍī is named",
+  "meghanāda is named",
+  "citraka and bitter gourd are named"
  ],
- "inference": "the liṅga rests on a seat on the south altar",
+ "inference": "This verse lists brahmadaṇḍī, meghanāda, citraka, and bitter gourd among the herbs.",
  "uncertainties": [
-  "relation between vedyā and pīṭha"
+  "grammatical case roles are not fully explicit"
  ],
- "plain_english": "But on the south altar, the liṅga is placed on a seat."
+ "plain_english": "The herbs include brahmadaṇḍī, meghanāda, citraka, and bitter gourd."
 }

@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p36",
  "verse": 878,
- "question": "What golden-colored form holding lotuses and modaka is remembered?",
+ "question": "How does burying an eight-finger-long object in a fisherman's house destroy it?",
  "premises": [
-  "The form holds lotuses and modaka.",
-  "The color is golden.",
-  "The verb is remember."
+  "The object is eight fingers long.",
+  "The burial place is a fisherman's house."
  ],
- "inference": "The verse instructs remembrance of a golden-colored form.",
+ "inference": "Burying the object in a fisherman's house destroys it.",
  "uncertainties": [
-  "The exact deity name is not stated."
+  "The object's material is not specified."
  ],
- "plain_english": "Remember a golden-colored form holding lotuses and modaka."
+ "plain_english": "Bury an eight-finger-long object in a fisherman's house to destroy it."
 }

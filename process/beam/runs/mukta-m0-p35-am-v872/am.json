@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p35",
  "verse": 872,
- "question": "How should width be arranged with height equal?",
+ "question": "What happens when the item is buried in a horse stable?",
  "premises": [
-  "width is accusative",
-  "with height equal is accusative",
-  "should arrange is optative"
+  "it is buried in a horse stable",
+  "it indeed kills",
+  "horses are killed"
  ],
- "inference": "The verse instructs that width should be arranged equal to height.",
- "uncertainties": [
-  "exact equality rule is compressed"
- ],
- "plain_english": "Width should be arranged equal to height."
+ "inference": "Burying it in a horse stable kills the horses.",
+ "uncertainties": [],
+ "plain_english": "Bury it in a horse stable; it indeed kills the horses."
 }

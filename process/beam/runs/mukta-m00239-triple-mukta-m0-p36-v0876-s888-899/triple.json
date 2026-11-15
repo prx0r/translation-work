@@ -1,0 +1,701 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "object noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāśam",
+     "gloss": "to-destruction",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "goes",
+     "grounds": "verb of motion",
+     "morph": "3.sg.act-pres root-ā-yā"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "adverbial participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What certainly happens to his betel at that time?",
+   "premises": [
+    "his betel is mentioned",
+    "destruction is stated",
+    "certainty is asserted"
+   ],
+   "inference": "his betel certainly goes to destruction then",
+   "uncertainties": [
+    "context of destruction unspecified"
+   ],
+   "plain_english": "Then his betel certainly goes to destruction."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "naśyanti",
+     "gloss": "perish",
+     "grounds": "plural verb",
+     "morph": "3.pl.act-pres root-naś"
+    },
+    {
+     "surface": "sarvaśākāni",
+     "gloss": "all-vegetables",
+     "grounds": "compound noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śeṣāṇy",
+     "gloss": "remaining",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "alpabalāni",
+     "gloss": "of-little-strength",
+     "grounds": "compound adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which vegetables perish along with the remaining weak ones?",
+   "premises": [
+    "all vegetables perish",
+    "remaining weak ones included",
+    "conjunction joins them"
+   ],
+   "inference": "all vegetables and remaining weak ones perish",
+   "uncertainties": [
+    "exact vegetable list unspecified"
+   ],
+   "plain_english": "All vegetables perish, including the remaining weak ones."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "dvādaśāṃgulamānaṃ",
+     "gloss": "twelve-finger-measure",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "object noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "verb of destruction",
+     "morph": "3.sg.act-pres root-vi-naś"
+    }
+   ],
+   "question": "What measure of thread perishes there?",
+   "premises": [
+    "twelve-finger measure is given",
+    "thread is the object",
+    "perishing occurs there"
+   ],
+   "inference": "a twelve-finger measure of thread perishes there",
+   "uncertainties": [
+    "thread type unspecified"
+   ],
+   "plain_english": "A twelve-finger measure of thread perishes there."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "śauṇḍikasya",
+     "gloss": "of-liquor-seller",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gehe",
+     "gloss": "in-house",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madirā",
+     "gloss": "liquor",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perishes",
+     "grounds": "verb of destruction",
+     "morph": "3.sg.act-pres root-naś"
+    }
+   ],
+   "question": "What perishes in the liquor seller's house?",
+   "premises": [
+    "liquor seller's house is located",
+    "liquor is present",
+    "perishing occurs there"
+   ],
+   "inference": "liquor perishes in the liquor seller's house",
+   "uncertainties": [
+    "cause unspecified"
+   ],
+   "plain_english": "Liquor perishes in the liquor seller's house."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "karmakāragṛhe",
+     "gloss": "blacksmith-house",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣiptaṃ",
+     "gloss": "thrown",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lohaṃ",
+     "gloss": "iron",
+     "grounds": "object noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taptaṃ",
+     "gloss": "heated",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-bhū"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does thrown iron become heated in the blacksmith's house?",
+   "premises": [
+    "blacksmith house is setting",
+    "thrown iron is mentioned",
+    "heated becoming is denied"
+   ],
+   "inference": "thrown iron does not become heated there",
+   "uncertainties": [
+    "ritual context implied"
+   ],
+   "plain_english": "Thrown iron does not become heated in the blacksmith's house."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārīśasambhramaṇakāya",
+     "gloss": "pārīśa-confusion-for",
+     "grounds": "compound phrase",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vedhacchedakajñānavijñāna",
+     "gloss": "piercing-cutting-knowledge-science",
+     "grounds": "compound phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phūṭai",
+     "gloss": "clear",
+     "grounds": "adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amukārakāyaṃ hūṃkalikā- caṇḍītu-imāremaśilapātharapaḍe amukāragāme nārasasamārai putrīmārauṃ tāraka-ulaṭāvedhe virūpākṣarivānī ulaṭāvedhe pitra pānī je mora piḍe kare ghā-ulaṭāvedhe tākakatātujī khā phoṭaphokaṭaṇḍīvirūpākṣera ājñā",
+     "gloss": "mantra-instruction-phrase",
+     "grounds": "long mantra instruction phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāratrayaṃ",
+     "gloss": "three-times",
+     "grounds": "compound numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭhitvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive",
+     "morph": "abs root-paṭh"
+    },
+    {
+     "surface": "pratiprātaḥ",
+     "gloss": "every-morning",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trigaṇḍūṣajalaṃ",
+     "gloss": "three-mouthfuls-water",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "peyam",
+     "gloss": "to-be-drunk",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kenāpi",
+     "gloss": "by-anyone",
+     "grounds": "indefinite pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "viddhaṃ",
+     "gloss": "pierced",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-as"
+    },
+    {
+     "surface": "śarīraṃ",
+     "gloss": "body",
+     "grounds": "subject noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadaiva",
+     "gloss": "then-indeed",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done if someone's body has been pierced?",
+   "premises": [
+    "mantra is recited three times",
+    "water is drunk each morning",
+    "pierced body requires action"
+   ],
+   "inference": "the prescribed mantra and water practice should be done",
+   "uncertainties": [
+    "mantra phrase is garbled"
+   ],
+   "plain_english": "Recite the mantra three times and drink three mouthfuls of water each morning; if a body is pierced, that prescribed action should be done."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīnityanāthaviracite",
+     "gloss": "śrī-nityanātha-composed",
+     "grounds": "compound adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāmaratne",
+     "gloss": "in-kāmaratna",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "uccāṭanādi",
+     "gloss": "eradication-etc",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karmakāralauhanāśanaṃ",
+     "gloss": "blacksmith-iron-destruction",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daśamopadeśaḥ",
+     "gloss": "tenth-instruction",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the tenth instruction named in the Kāmaratna?",
+   "premises": [
+    "work is composed by Śrī Nityanātha",
+    "chapter concerns eradication etc",
+    "blacksmith iron destruction is named"
+   ],
+   "inference": "the tenth instruction is named blacksmith iron destruction",
+   "uncertainties": [
+    "section numbering context"
+   ],
+   "plain_english": "Thus in the Kāmaratna composed by Śrī Nityanātha, the tenth instruction is named blacksmith iron destruction."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "tadviṣṭhāliptahastasya",
+     "gloss": "by-that-excrement-smeared-hand",
+     "grounds": "compound phrase",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "property",
+     "grounds": "object noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lupyati",
+     "gloss": "is-stolen",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root-lup"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "that-moment",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to property when a hand is smeared with that excrement?",
+   "premises": [
+    "excrement-smeared hand is mentioned",
+    "property is the object",
+    "theft occurs instantly"
+   ],
+   "inference": "property is stolen at that moment",
+   "uncertainties": [
+    "magical mechanism unspecified"
+   ],
+   "plain_english": "Property is stolen at that moment by a hand smeared with that excrement."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "aṅkolibījacūrṇaṃ",
+     "gloss": "aṅkoli-seed-powder",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojyaṃ",
+     "gloss": "to-be-mixed",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "peṣyaṃ",
+     "gloss": "to-be-ground",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "punaḥ punaḥ",
+     "gloss": "again-again",
+     "grounds": "repeated adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should aṅkoli seed powder be prepared?",
+   "premises": [
+    "aṅkoli seed powder is named",
+    "it is to be mixed",
+    "it is to be ground repeatedly"
+   ],
+   "inference": "aṅkoli seed powder should be mixed and ground again and again",
+   "uncertainties": [
+    "mixture target unspecified"
+   ],
+   "plain_english": "Aṅkoli seed powder should be mixed and ground again and again."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṃsyapātre",
+     "gloss": "bell-metal-vessels",
+     "grounds": "compound locative",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kalkena",
+     "gloss": "with-paste",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "lepayet",
+     "gloss": "one-should-smear",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-lip"
+    }
+   ],
+   "question": "What alternative procedure uses two bell-metal vessels?",
+   "premises": [
+    "alternative is introduced",
+    "two bell-metal vessels are used",
+    "paste is applied"
+   ],
+   "inference": "one should smear two bell-metal vessels with that paste",
+   "uncertainties": [
+    "paste composition unspecified"
+   ],
+   "plain_english": "Or one should smear two bell-metal vessels with that paste."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "tayor",
+     "gloss": "of-those-two",
+     "grounds": "pronoun",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṃsyapātre",
+     "gloss": "in-bell-metal-vessel",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "patitaṃ",
+     "gloss": "fallen",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tailam",
+     "gloss": "oil",
+     "grounds": "object noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "one-should-take",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-ā-hṛ"
+    }
+   ],
+   "question": "What oil should be taken from below the two vessels?",
+   "premises": [
+    "two vessels are referenced",
+    "oil has fallen below",
+    "taking is instructed"
+   ],
+   "inference": "one should take the oil that has fallen below in the bell-metal vessel",
+   "uncertainties": [
+    "oil type unspecified"
+   ],
+   "plain_english": "One should take the oil that has fallen below in the bell-metal vessel."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "saphalo",
+     "gloss": "fruitful",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb of becoming",
+     "morph": "3.sg.mid-pres root-jan"
+    },
+    {
+     "surface": "vṛkṣas",
+     "gloss": "tree",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatkṣaṇān",
+     "gloss": "that-moment",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does the tree become fruitful at that moment without doubt?",
+   "premises": [
+    "tree becomes fruitful",
+    "moment is specified",
+    "doubt is denied"
+   ],
+   "inference": "the tree becomes fruitful at that moment without doubt",
+   "uncertainties": [
+    "tree type unspecified"
+   ],
+   "plain_english": "The tree becomes fruitful at that moment; there is no doubt."
+  }
+ ]
+}

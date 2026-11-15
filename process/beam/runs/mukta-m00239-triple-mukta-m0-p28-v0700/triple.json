@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "yoniṃ",
+     "gloss": "vulva",
+     "grounds": "object of anointing",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "connective alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lepayet",
+     "gloss": "anoint",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.act-opt-lep"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "instrumental reference to prior substance",
+     "morph": "instr.sg.m/n"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "subject of delivery",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sukhena",
+     "gloss": "with-ease",
+     "grounds": "manner of delivery",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "prasūyate",
+     "gloss": "delivers",
+     "grounds": "middle voice third singular",
+     "morph": "3.sg.mid-pres-prasū"
+    }
+   ],
+   "question": "What anointing of the vulva with that substance makes a woman deliver with ease?",
+   "premises": [
+    "Anointing the vulva with that substance eases delivery.",
+    "The woman delivers with ease."
+   ],
+   "inference": "The verse prescribes anointing the vulva with that substance to ease childbirth.",
+   "uncertainties": [
+    "tena refers to a previously mentioned substance; the exact substance is unspecified in this verse."
+   ],
+   "plain_english": "Anoint the vulva with that; she delivers with ease."
+  }
+ ]
+}

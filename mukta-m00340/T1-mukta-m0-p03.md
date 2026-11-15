@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[presence](sānnidhyaṃ) [do](kurume) [god](deva) [be-pleased](prasannobhava) [always](sarvadā)
-
+presence do god be-pleased always
 ## mukta-m0-p03-v52
-[moon-like](candrāṃ) [golden](hiraṇmayīṃ) [Lakshmi](lakṣmīṃ) [fire-god](jātavedo) [to-me](ma) [bring](āvaha) [one](|| 1 ||) [on-head](śirasi)
-
+moon golden Lakshmi fire-bringer to-me bring head
 ## mukta-m0-p03-v53
-[in-whom](yasyāṃ) [gold](hiraṇyaṃ) [find](vindeyaṃ) [cow](gāmaśvaṃ) [horse](gāmaśvaṃ) [men](puruṣānaham) [two](|| 2 ||) [in-eyes](netrayoḥ)
-
+in-whom gold find cow horse men I eyes
 ## mukta-m0-p03-v54
-[Shri-goddess](śriyaṃdevī) [invoke](mupahvaye) [Shri](śrīrmādevī) [may-please](juṣatām) [three](|| 3 ||) [in-ears](karṇayoḥ)
-
+Shri-goddess invoke Shri-goddess may-accept ears
 ## mukta-m0-p03-v55
-[lotus-seated](padme+sthitāṃ) [lotus-born](padma+arṇāṃ) [her](tāmiho) [invoke](pahvaye) [Shri](śriyam) [four](|| 4 ||) [in-nostrils](ghrāṇayoḥ)
-
+lotus abiding lotus-water her here invoke Shri nose
 ## mukta-m0-p03-v56
-[misfortune](a'lakṣmīrmenaśyatāṃ) [you](tvāṃ) [choose](vṛṇe) [five](|| 5 ||) [in-mouth](mukhe)
-
+misfortune perish you choose mouth
 ## mukta-m0-p03-v57
-[manifested](prādurbhūto) [am](smi) [in-kingdom](rāṣṭresmin) [fame](kīrtimṛddhaṃ) [give](dadātu) [me](me) [seven](|| 7 ||) [in-hands](karayoḥ)
-
+manifest am in-kingdom fame prosperity give me hands
 ## mukta-m0-p03-v58
-[non-prosperity](abhūtimasamṛddhiṃ) [and](ca) [all](sarvāṃ) [remove](nirṇudame) [from-house](gṛhāt) [eight](|| 8 ||) [in-heart](hṛdi)
-
+non-prosperity non-success and all remove from-house heart
 ## mukta-m0-p03-v59
-[lady](īśvarīṃsarvabhūtānāṃ) [her](tāmihopahvayeśriyam) [nine](|| 9 ||) [in-navel](nābhau)
-
+mistress all-beings her here invoke Shri navel
 ## mukta-m0-p03-v60
-[of-cattle](paśūnāṃ) [form](rūpamannasyamayi) [Shri](śrīḥ) [may-dwell](śrayatāṃyaśaḥ) [ten](|| 10 ||) [in-genitals](liṅge)
-
+cattle form food in-me Shri dwell glory phallus
 ## mukta-m0-p03-v61
-[Shri](śriyaṃvāsaya) [make-dwell](vāsaya) [my](me) [family](kulemātaraṃ) [lotus-garlanded](padmamālinīm) [eleven](|| 11 ||) [in-anus](gude)
-
+Shri dwell my family mother lotus-garlanded anus
 ## mukta-m0-p03-v62
-[eternal-goddess](nicadevīṃ) [mother](mātaraṃ) [Shri](śriyaṃvāsaya) [make-dwell](vāsaya) [my](me) [family](kule) [twelve](|| 12 ||) [in-thighs](ūrvoḥ)
-
+Nica-goddess mother Shri dwell my family thighs
 ## mukta-m0-p03-v63
-[moon-like](candrāṃ) [golden](hiraṇmayīṃ) [Lakshmi](lakṣmīṃ) [fire-god](jātavedo) [to-me](ma) [bring](āvaha) [thirteen](|| 13 ||) [in-knees](jānunoḥ)
-
+moon golden Lakshmi fire-bringer to-me bring knees
 ## mukta-m0-p03-v64
-[sun-like](sūryāṃhiraṇmayī) [golden](hiraṇmayī) [Lakshmi](lakṣmīṃ) [fire-god](jātavedo) [to-me](ma) [bring](āvaha) [fourteen](|| 14 ||) [in-calves](jaṃghayoḥ)
-
+sun golden Lakshmi fire-bringer to-me bring shanks
 ## mukta-m0-p03-v65
-[in-whom](yasyāṃ) [gold](hiraṇyaṃ) [abundance](prabhūtiṃ) [cows](gāvodāsyośvānviṃdeyaṃ) [horses](gāvodāsyośvānviṃdeyaṃ) [men](puruṣānaham)
-
+in-whom gold abundance cows servants horses find men I
 ## mukta-m0-p03-v66
-[hymn](sūktaṃ) [fifteen-verses](paṃcadaśarcaṃ) [and](ca) [Shri-desiring](śrīkāmaḥ) [always](satataṃjapet) [sixteen](|| 16 ||) [in-all-limbs](sarvāṅge)
-
+hymn fifteen-versed and Shri-desiring always recite all-limbs
 ## mukta-m0-p03-v67
-[purifier](pāvako'-asmabhyaguṃ) [to-us](asmabhyaguṃ) [auspicious](śivobhava)
-
+purifier to-us auspicious be
 ## mukta-m0-p03-v68
-[purifier](pāvako'-asmabhyaguṃ) [to-us](asmabhyaguṃ) [auspicious](śivobhava)
-
+purifier to-us auspicious be
 ## mukta-m0-p03-v69
-[auspicious](śivaṃkṛdhi)
-
+auspicious make
 ## mukta-m0-p03-v70
-[other](anyāṁste'-asmattapantu) [your](te'-asmattapantu) [from-us](asmattapantu) [may-burn](tapantu) [weapons](hetayaḥ) [purifier](pāvako) [to-us](asmabhyaguṃ) [auspicious](śivobhava)
-
+others your from-us burn weapons purifier to-us auspicious be
 ## mukta-m0-p03-v71
-[om](oṃ) [fire](agne) [purifier](pāvaka) [with-radiance](rociṣāmandrayādevajihvayā) [with-pleasant](mandrayādevajihvayā) [god-tongue](devajihvayā) [to-gods](ādevānvakṣiyakṣi) [may-carry](vakṣiyakṣi) [and](ca)
-
+om fire purifier by-radiance by-Indra-deva-tongue gods bring protect and
 ## mukta-m0-p03-v72
-[us](naḥ)
-
+us
 ## mukta-m0-p03-v73
-[hastening](tūrvannayā) [lead](mannetaśasya) [our](nūraṇa'-āyoghṛṇenatatṛṣāṇo' ajaraḥ) [praise](nūraṇa'-āyoghṛṇenatatṛṣāṇo' ajaraḥ) [with-ghee](ghṛṇenatatṛṣāṇo' ajaraḥ) [thirsting](tatṛṣāṇo' ajaraḥ) [ageless](ajaraḥ)
-
+hastening by-path by-mind of-this now by-heat thirsting ageless
 ## mukta-m0-p03-v74
-[other](anyāṃste) [your](te) [from-us](asmattapantu) [may-burn](tapantu) [weapons](hetayaḥ) [purifier](pāvako) [to-us](asmabhyaguṃ) [auspicious](śivobhava)
-
+others your from-us burn weapons purifier to-us auspicious be
 ## mukta-m0-p03-v75
-[om](oṃ) [Nrisad](nṛṣadevveḍapsuṣadevveḍvarhipadevveḍvanasadevveḍ) [in-waters](apsuṣadevveḍ) [in-fire](varhipadevveḍ) [in-forest](vanasadevveḍ) [in-sun](svarvideveṭ) [knowing](svarvideveṭ) [god](devveṭ)
+om man-seated water-seated barhis-seated forest-seated heaven-seated

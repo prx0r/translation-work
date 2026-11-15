@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p27",
  "verse": 669,
- "question": "What dance is named and how is the rest described?",
+ "question": "What happens when cow milk is drunk in the second month?",
  "premises": [
-  "The verse names Umā dance.",
-  "The rest is as before.",
-  "The form is mine."
+  "cow milk is drunk",
+  "in second month pains cease"
  ],
- "inference": "This verse identifies Umā dance with remaining details as before.",
+ "inference": "Drinking cow milk in the second month causes pains to cease.",
  "uncertainties": [
-  "Exact sandhi and case parsing not fully verified."
+  "which pains unspecified"
  ],
- "plain_english": "The Umā dance is mine; the rest is as before."
+ "plain_english": "Indeed, having drunk cow milk in the second month, pains cease."
 }

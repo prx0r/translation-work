@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 999,
- "question": "What distinguishing feature should gem and similar ritual vessels possess?",
+ "question": "What ear conditions are removed by filling?",
  "premises": [
-  "Vessels made of gems and similar materials are mentioned.",
-  "These vessels have a specific marking.",
-  "The marking is described as auspicious."
+  "ear noise is removed",
+  "deafness is removed",
+  "filling is the means"
  ],
- "inference": "Gem and similar vessels should be marked with auspicious lines.",
- "uncertainties": [],
- "plain_english": "Vessels of gems and the like should be marked with auspicious lines."
+ "inference": "The verse states that filling removes ear noise and deafness.",
+ "uncertainties": [
+  "the substance used for filling is not named here"
+ ],
+ "plain_english": "Filling removes ear noise and deafness."
 }

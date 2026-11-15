@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-[not-wonder](na) [wonder](vismayanti) [and](ca) [wonders](āścaryaiḥ) [not-rejoice](na) [rejoice](hṛṣyanti) [great-joys](mahāsukhaiḥ)
+[not-wonder](na) [wonder](vismayanti) [and-with-wonders](cāścaryaiḥ) [not-rejoice](na) [rejoice](hṛṣyanti) [with-great-pleasures](mahāsukhaiḥ)
 
 ## mukta-m0-p118-v2927
-[steady-state](svasthiteḥ) [own-form](svarūpa) [collected](samāhiteḥ)
+[from-steady-state](svasthiteḥ) [from-self-nature-collected](svarūpasamāhiteḥ)
 
 ## mukta-m0-p118-v2928
-[thus](evaṃ) [intellect-difference](buddhivibhedena) [knowledge-ripening](jñānapāka) [difference](vibhedataḥ)
+[thus](evaṃ) [by-intellect-difference](buddhivibhedena) [by-knowledge-ripening-difference](jñānapākavibhedataḥ)
 
 ## mukta-m0-p118-v2929
-[intellect-etc-difference](buddhyādibhedena) [third-ones](tṛtīyeṣu) [also](api) [conduct-variety](vyavahāravacitryam) [thus](iti) [says](āha) [thus](evam) [iti](iti)
+[by-intellect-etc-difference](buddhyādibhedena) [in-third-ones-also](tṛtīyeṣvapi) [practical-variety](vyavahāravacitryam) [thus-says](ityāha) [thus](evam) [thus](iti)
 
 ## mukta-m0-p118-v2930
-[drunken-etc-like](madhumattādivat) [their](teṣāṃ) [conduct](vyavahāraḥ) [also](api) [possible](sambhavet)
+[like-intoxicated-etc](madhumattādivat) [of-them](teṣāṃ) [practice-also](vyavahāro'pi) [may-occur](sambhavet)
 
 ## mukta-m0-p118-v2931
-[their](teṣāṃ) [knowers](jñāninām)
+[of-them](teṣāṃ) [of-knowers](jñāninām)
 
 ## mukta-m0-p118-v2932
-[again](bhūyaḥ) [asked](papraccha) [liberated-ones](muktānāṃ) [conduct-order](vyavahārakramaṃ) [in-order](kramāt)
+[again](bhūyaḥ) [asked](papraccha) [of-liberated](muktānāṃ) [practice-order](vyavahārakramaṃ) [in-order](kramāt)
 
 ## mukta-m0-p118-v2933
-[to-determine](nirūpayituṃ) [rama-question](rāmapraśnam) [introduces](avatārayati) [thus](iti) [iti](iti)
+[to-determine](nirūpayituṃ) [Rama-question](rāmapraśnam) [introduces](avatārayati) [thus](iti) [thus](iti)
 
 ## mukta-m0-p118-v2934
-[as](yathā) [intellect-difference](buddhivibhedena) [knowledge-ripening](jñānapāka) [variety](vicitratā)
+[as](yathā) [by-intellect-difference](buddhivibhedena) [knowledge-ripening-variety](jñānapākavicitratā)
 
 ## mukta-m0-p118-v2935
-[goal](upeyaṃ) [and](ca) [that](tad) [same](eva) [would-be](syāt) [which](yat) [liberation](mokṣaḥ) [its-manifestation](tatprathā) [nature](ātmakaḥ)
+[goal](upeyaṃ) [and](ca) [that-same](tadeva) [may-be](syāt) [which](yat) [liberation](mokṣaḥ) [that-manifestation-nature](tatprathātmakaḥ)
 
 ## mukta-m0-p118-v2936
-[knowledge-self](jñānātma) [manifestation](prathā) [nature](ātmakaḥ)
+[knowledge-self-manifestation-nature](jñānātmaprathātmakaḥ)
 
 ## mukta-m0-p118-v2937
-[means](sādhanāni) [also](api) [differ](bhidyante) [or](athavā) [not](na) [iti](iti) [that](tad) [declare](īraya)
+[means-also](sādhanānyapi) [differ](bhidyante) [or](athavā) [not](na) [thus](iti) [that](tad) [declare](īraya)
 
 ## mukta-m0-p118-v2938
 [means](sādhanāni)
 
 ## mukta-m0-p118-v2939
-[in-detail](vistareṇa) [that](tameva) [meaning](arthaṃ) [to-declare](pravaktum) [began](upacakrame)
+[in-detail](vistareṇa) [that-same-meaning](tamevārthaṃ) [to-declare](pravaktum) [began](upacakrame)
 
 ## mukta-m0-p118-v2940
-[by-that](tena) [rama](rāmeṇa) [that](tameva) [meaning](arthaṃ) [knowledge-ripening](jñānaparipāka) [difference](bhedam)
+[by-that](tena) [by-Rama](rāmeṇa) [that-same-meaning](tamevārthaṃ) [knowledge-maturation-difference](jñānaparipākabhedam)
 
 ## mukta-m0-p118-v2941
-[in-means](sādhane) [no](na) [difference](vibhedaḥ) [is](asti) [knowledge](jñānaṃ) [not](na) [varied-means](citrasādhanam)
+[in-means](sādhane) [not](na) [difference](vibhedaḥ) [is](asti) [knowledge](jñānaṃ) [not](na) [varied-means](citrasādhanam)
 
 ## mukta-m0-p118-v2942
-[knowledge-means](jñānasādhane) [difference](vibhedaḥ) [not](na) [is](asti) [this](etat) [indeed](eva) [clear](spaṣṭam) [says](āha) [knowledge](jñānam) [iti](iti)
+[in-knowledge-means](jñānasādhane) [difference](vibhedaḥ) [not-is](nāsti) [this-same](etadeva) [clearly-says](spaṣṭamāha) [knowledge-thus](jñānamiti)
 
 ## mukta-m0-p118-v2943
-[full](pūrṇe) [but](tu) [means](sādhane) [knowledge](jñānam) [without-effort](anāyāsena) [accomplished](siddhyati)
+[when-complete](pūrṇe) [but](tu) [in-means](sādhane) [knowledge](jñānam) [effortlessly](anāyāsena) [succeeds](siddhyati)
 
 ## mukta-m0-p118-v2944
-[tv](tv) [iti](iti) [many](aneka) [previous-births](prāgjanma) [acquired](ārjita) [means](sādhana) [fullness](pūrti) [prosperity](sampattau)
+[thus](tviti) [in-many-past-lives-acquired-means-completion-prosperity](anekaprāgjanmārjitasādhanapūrtisampattau)
 
 ## mukta-m0-p118-v2945
-[in-reality](vastutaḥ) [means](sādhanaṃ) [some](kiñcit) [in-knowledge](jñāne) [not](na) [indeed](eva) [used](upayujyate)
+[in-reality](vastutaḥ) [means](sādhanaṃ) [something](kiñcid) [in-knowledge](jñāne) [not-at-all](naiva) [is-used](upayujyate)
 
 ## mukta-m0-p118-v2946
-[consciousness](caitanyam) [indeed](eva) [cognition](vijñānaṃ) [that](tat) [always](sadā) [self-luminous](svaprakāśakam)
+[consciousness-only](caitanyameva) [knowledge](vijñānaṃ) [that](tat) [always](sadā) [self-luminous](svaprakāśakam)
 
 ## mukta-m0-p118-v2947
-[would-be](syāt) [iti](iti) [ced](ced) [says](āha) [consciousness](caitanyam) [iti](iti)
+[may-be-thus](syāditi) [if](ced) [says](āha) [consciousness-thus](caitanyamiti)
 
 ## mukta-m0-p118-v2948
-[mind-chest](cittakaraṇḍe) [very-pure](atisunirmale)
+[in-mind-basket-very-pure](cittakaraṇḍe'tisunirmale)
 
 ## mukta-m0-p118-v2949
-[reading](vṛttam) [eva](eva) [iti](iti) [purport](tātparyam)
+[vṛttameveti]([kh, g: vṛttameveti]) [meaning](tātparyam)
 
 ## mukta-m0-p118-v2950
-[cessation-waters](nirodhasalilaiḥ) [well](samyag) [latent-impressions](vāsanā) [mud](paṅka) [cleansing](ārjane)
+[by-suppression-waters](nirodhasalilaiḥ) [properly](samyag) [latent-impression-mud-cleansing](vāsanāpaṅkamārjane)

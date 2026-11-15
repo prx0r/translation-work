@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "nirutthaṃ",
+     "gloss": "not-rising",
+     "grounds": "legacy hint not-rising; compound nis+uttha with -am ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.mid-pres + root jan"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ash",
+     "grounds": "legacy hint ash",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gandhaṃ",
+     "gloss": "sulphur",
+     "grounds": "legacy hint sulphur",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "should-be-given",
+     "grounds": "legacy hint should-be-given",
+     "morph": "n.nom.sg (gerundive) + root dā"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "legacy hint again+again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "legacy hint again",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When sulphur becomes ash without rising, should sulphur be given again and again?",
+   "premises": [
+    "ash forms without rising",
+    "sulphur must be supplied",
+    "repetition is prescribed"
+   ],
+   "inference": "the process requires repeated sulphur additions until ash forms without rising",
+   "uncertainties": [
+    "exact ritual referent of nirutthaṃ uncertain"
+   ],
+   "plain_english": "When it becomes ash without rising, sulphur should be given again and again."
+  }
+ ]
+}

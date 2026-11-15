@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1389,
- "question": "Where should Śiva be laid in the middle?",
+ "question": "How long should sulphur be cooked in ghee?",
  "premises": [
-  "placement is in the middle",
-  "seat and related items are involved"
+  "sulphur is cooked in ghee",
+  "cooking is commanded",
+  "oil-like result is specified"
  ],
- "inference": "Śiva is laid on a seat in the middle",
+ "inference": "Sulphur should be cooked in ghee until it becomes oil-like.",
  "uncertainties": [
-  "scope of ādi"
+  "exact temperature"
  ],
- "plain_english": "In the middle, on a seat and the like, one should lay Śiva."
+ "plain_english": "Cook sulphur in ghee until it becomes oil-like."
 }

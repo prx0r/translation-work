@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[samprahṛṣṭa-manāḥ](samprahṛṣṭamanā) [rāmam](rāmam) [ūce](ūce) [prītyā](prītyā) [atha](atha) [bhārgavam](bhārgavam)
+[delighted-mind](samprahṛṣṭamanā) [Rama](rāmam) [spoke](ūce) [with-affection](prītyā) [then](atha) [Bhargava](bhārgavam)
 
 ## mukta-m0-p05-v102
-[tava](tava) [bhaktyā](bhaktyā) [prasannaḥ](prasanno) [asmi](’smi) [prabravīmi](prabravīmi) [tava](tava) [īpsitam](tavepsitam)
+[your](tava) [by-devotion](bhaktyā) [pleased-am-I](prasanno'smi) [I-declare](prabravīmi) [your-desired](tavepsitam)
 
 ## mukta-m0-p05-v103
-[praśraya-avanataḥ](praśrayāvanato) [bhūtvā](bhūtvā) [saṃpraṣṭum](saṃpraṣṭum) [upacakrame](upacakrame)
+[with-humility-bowed](praśrayāvanato) [having-become](bhūtvā) [to-ask](saṃpraṣṭum) [began](upacakrame)
 
 ## mukta-m0-p05-v104
-[pṛccha](pṛccha) [iti](ity) [ājñaptaḥ](ājñaptaḥ) [praśrayaḥ](praśrayaḥ) [vinayaḥ](vinayaḥ)
+[ask](pṛccha) [thus-commanded](ityājñaptaḥ) [humility](praśrayaḥ) [politeness](vinayaḥ)
 
 ## mukta-m0-p05-v105
-[purā](purā) [me](me) [nṛpa-vaṃśeṣu](nṛpavaṃśeṣu) [krodhaḥ](krodhaḥ) [kāraṇataḥ](kāraṇato) [hi](hy) [abhūt](abhūt)
+[formerly](purā) [my](me) [in-royal-lineages](nṛpavaṃśeṣu) [anger](krodhaḥ) [from-cause](kāraṇato) [indeed-arose](hyabhūt)
 
 ## mukta-m0-p05-v106
-[svasya](svasya) [nirveda-pāpti-prakāram](nirvedapāptiprakāram) [āha](āha) [purā](pureti) [iti](pureti)
+[of-self](svasya) [disgust-attainment-manner](nirvedapāptiprakāram) [says](āha) [purā-iti](pureti)
 
 ## mukta-m0-p05-v107
-[mayā](mayā) [triḥ-sapta-kṛtvas](triḥsaptakṛtvo) [vai](vai) [kṣatra-asṛg-bharite](kṣatrāsṛgbharite) [hrade](hrade)
+[by-me](mayā) [twenty-one-times](triḥsaptakṛtvo) [indeed](vai) [in-kshatriya-blood-filled](kṣatrāsṛgbharite) [lake](hrade)
 
 ## mukta-m0-p05-v108
-[tat](tat) [krodhāt](krodhāddhetoḥ) [hetoḥ](krodhāddhetoḥ)
+[that](tat) [from-anger](krodhāt) [from-cause](hetoḥ)
 
 ## mukta-m0-p05-v109
-[mat-krodham](matkrodhaṃ) [śāmayāmāsuḥ](śāmayāmāsuḥ) [śāntaḥ](śāntaḥ) [pitrā-ājñayā](pitrājñayā) [api](py) [aham](aham)
+[my-anger](matkrodhaṃ) [pacified](śāmayāmāsuḥ) [calmed](śāntaḥ) [by-father's-command](pitrājñayā) [also-I](apyaham)
 
 ## mukta-m0-p05-v110
-[krodha-andhaḥ](krodhāndhastena) [tena](krodhāndhastena) [bhūyas](bhūyo) [aham](’haṃ) [saṅgataḥ](saṅgato) [bala-darpitaḥ](baladarpitaḥ)
+[anger-blinded](krodhāndhaḥ) [by-that](tena) [again-I](bhūyo'haṃ) [associated](saṅgataḥ) [strength-proud](baladarpitaḥ)
 
 ## mukta-m0-p05-v111
-[jīvan](jīvan) [kathañcit](kathañcinnryāto) [niryātaḥ](kathañcinnryāto) [brahmaṇyena](brahmaṇyenānukampinā) [anukampinā](brahmaṇyenānukampinā)
+[living](jīvan) [somehow](kathañcin) [led](nryāto) [by-Brahmin](brahmaṇyena) [compassionate](anukampinā)
 
 ## mukta-m0-p05-v112
-[tataḥ](tato) [atyantam](’tyantaṃ) [pathi](pathi) [mayā](mayā) [bahudhā](bahudhā) [paridevitam](paridevitam)
+[then](tato) [excessively](atyantaṃ) [on-path](pathi) [by-me](mayā) [in-many-ways](bahudhā) [lamented](paridevitam)
 
 ## mukta-m0-p05-v113
-[paridevitam](paridevitaṃ) [pralapitam](pralapitam)
+[lamented](paridevitaṃ) [raved](pralapitam)
 
 ## mukta-m0-p05-v114
-[bhasma-channa-agni-vat](bhasmacchannāgnivad) [gūḍham](gūḍhaṃ) [kathañcit](kathañcidavidaṃ) [avidaṃ](kathañcidavidaṃ) [tadā](tadā)
+[ash-covered-fire-like](bhasmacchannāgnivad) [hidden](gūḍhaṃ) [somehow](kathañcid) [I-knew](avidaṃ) [then](tadā)
 
 ## mukta-m0-p05-v115
-[samāsadam](samāsadamāsāditavān) [āsāditavān](samāsadamāsāditavān)
+[approached](samāsadam) [obtained](āsāditavān)
 
 ## mukta-m0-p05-v116
-[saṅgamya](saṅgamyaivātiśiśirabhāvamāsādayaṃ) [eva](saṅgamyaivātiśiśirabhāvamāsādayaṃ) [ati-śiśira-bhāvam](saṅgamyaivātiśiśirabhāvamāsādayaṃ) [āsādayam](saṅgamyaivātiśiśirabhāvamāsādayaṃ) [tadā](tadā)
+[having-approached](saṅgamya) [indeed](eva) [extreme-cold-state](atiśiśirabhāvam) [I-obtained](āsādayaṃ) [then](tadā)
 
 ## mukta-m0-p05-v117
-[saṅgama-phalam](saṅgamaphalamāha) [āha](saṅgamaphalamāha) [saṅgamyā](saṅgamyeti) [iti](saṅgamyeti)
+[association-fruit](saṅgamaphalam) [says](āha) [saṅgamya-iti](saṅgamyeti)
 
 ## mukta-m0-p05-v118
-[su-sāra-piṇḍa-vat](susārapiṇḍavat) [sarvam](sarvaṃ) [niṣkṛṣya](niṣkṛṣya) [pratyapādayat](pratyapādayat)
+[like-essence-lump](susārapiṇḍavat) [all](sarvaṃ) [having-extracted](niṣkṛṣya) [restored](pratyapādayat)
 
 ## mukta-m0-p05-v119
-[peśalam](peśalaṃ) [sundaram](sundaram) [sarvam](sarvaṃ) [praśna-artham](praśnārtham)
+[beautiful](peśalaṃ) [lovely](sundaram) [all](sarvaṃ) [for-question](praśnārtham)
 
 ## mukta-m0-p05-v120
-[bhūyas](bhūyaḥ) [saṃprārthitaḥ](saṃprārthitaḥ) [saḥ](so) [atha](’tha) [bhavantam](bhavantaṃ) [me](me) [vinirdiśat](vinirdiśat)
+[again](bhūyaḥ) [requested](saṃprārthitaḥ) [he](so'tha) [you](bhavantaṃ) [to-me](me) [point-out](vinirdiśat)
 
 ## mukta-m0-p05-v121
-[tat](tat) [saṃvarta-uktam](saṃvartoktam) [raṅkaḥ](raṅkaḥ) [daridrī](daridrī)
+[that](tat) [by-Samvarta-spoken](saṃvartoktam) [poor](raṅkaḥ) [beggar](daridrī)
 
 ## mukta-m0-p05-v122
-[andhaḥ](andho) [jana-samāyogam](janasamāyogamivātyantasukhāvaham) [iva](janasamāyogamivātyantasukhāvaham) [atyanta-sukha-āvaham](janasamāyogamivātyantasukhāvaham)
+[blind](andho) [people-union](janasamāyogam) [like](ivātyantasukhāvaham)
 
 ## mukta-m0-p05-v123
-[śrutam](śrutaṃ) [māhātmyam](māhātmyamakhilaṃ) [akhilam](māhātmyamakhilaṃ) [tripurā-bhakti-kārakam](tripurābhaktikārakam)
+[heard](śrutaṃ) [greatness](māhātmyam) [entire](akhilaṃ) [Tripura-devotion-causing](tripurābhaktikārakam)
 
 ## mukta-m0-p05-v124
-[tat](tat) [saṃvarta-uktam](saṃvartoktaṃ) [śravaṇa-adhikāram](śravaṇādhikāraṃ) [svasmin](svasminnāha) [āha](svasminnāha) [śrutam](śrutamiti) [iti](śrutamiti)
+[that](tat) [by-Samvarta-spoken](saṃvartoktaṃ) [hearing-qualification](śravaṇādhikāraṃ) [in-self](svasminnāha) [śrutam-iti](śrutamiti)
 
 ## mukta-m0-p05-v125
-[evam](evaṃ) [me](me) [vartamānasya](vartamānasya) [kim](kiṃ) [phalam](phalaṃ) [samavāpyate](samavāpyate)
+[thus](evaṃ) [my](me) [being](vartamānasya) [what](kiṃ) [fruit](phalaṃ) [is-obtained](samavāpyate)

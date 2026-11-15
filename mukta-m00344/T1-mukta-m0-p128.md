@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[thus](iti) [spoken](uktāḥ) [sages](munayaḥ) [all](sarve) [with-Brahmā+Viṣṇu+Śiva](vidhi+viṣṇu+śivaiḥ) [together](saha)
+thus-spoken sages all with-Brahma-Vishnu-Shiva
 
 ## mukta-m0-p128-v3177
-[by-Śiva](śivena) [spoken](uktāḥ)
+by-Shiva-spoken
 
 ## mukta-m0-p128-v3178
-[thus](evaṃ) [by-all](sarvaiḥ) [meditated-upon](abhidhyātā) [Tripurā](tripurā) [consciousness-bodied](cit+śarīriṇī)
+thus by-all-contemplated Tripura consciousness-bodied
 
 ## mukta-m0-p128-v3179
-[wish-fulfilling-gem](cintāmaṇiḥ) [you](tvam) [approach](samupaiṣi) [O-god](deva) [thus](iti)
+wish-fulfilling-gem you approach god thus
 
 ## mukta-m0-p128-v3180
-[became](abhavat) [cloud-deep](megha+gambhīra) [sound](niḥsvanaḥ) [in-sky-expanse](gaganāṅgaṇe)
+arose cloud-deep-sound in-sky-courtyard
 
 ## mukta-m0-p128-v3181
-[sound](śabdaḥ) [in-sky-expanse](gaganāṅgaṇe) [in-sky-region](ākāśa+pradeśe)
+sound in-sky-courtyard in-space-region
 
 ## mukta-m0-p128-v3182
-[of-those-devoted-to-me](mat+parāṇām) [indeed](hi) [of-some](keṣāñcit) [not](na) [should-fail](hīyeta) [desire](abhivāñchitam)
+my-devotees indeed of-some not-fail desired
 
 ## mukta-m0-p128-v3183
-[of-whom](yeṣām) [of-them](teṣām) [of-my-devotees](mat+bhaktānām) [thus-meaning](iti+arthaḥ) [not](na) [should-fail](hīyeta) [not-delayed-by-time-etc](kāla+ādi+antaritam) [not](na) [should-be](bhavet)
+of-whom of-them my-devotees thus-meaning not-fail time-etc-interrupted not-become
 
 ## mukta-m0-p128-v3184
-[Brahmā-and-others](brahmā+ādayaḥ) [also](api) [thereupon](tat+anu) [praised](tuṣṭuvuḥ) [with-various](vividhaiḥ) [hymns](stavaiḥ)
+Brahma-etc also then praised with-various hymns
 
 ## mukta-m0-p128-v3185
-[after-prostration](praṇāma+anantaram)
+after-salutation
 
 ## mukta-m0-p128-v3186
-[salutation](namaḥ) [to-you](tubhyam) [O-great-goddess](mahā+īśāni) [O-Śrīvidyā](śrī+vidye) [O-ruler-of-Tripura](tripura+īśvari)
+salutation-to-you great-goddess Sri-Vidya Tripura-lady
 
 ## mukta-m0-p128-v3187
-[pure-consciousness-non-dual-form](śuddha+cit+advaya+rūpā) [and-also](tathā) [own-nature](sva+rūpā) [also](api) [due-to-possessing-infinite-freedom-power](ananta+svātantrya+śakti+mattvāt) [sovereign](īśvarī)
+pure-consciousness-dual-form and-own-form-infinite-autonomy-power-possessing-goddess
 
 ## mukta-m0-p128-v3188
-[dissolver](vilāpayitrī) [of-all](sarvasya) [O-supreme-goddess](parama+īśvari) [to-you](te) [salutation](namaḥ)
+dissolver of-all supreme-goddess to-you salutation
 
 ## mukta-m0-p128-v3189
-[as-producer](utpādayitrī) [by-fitness](yogyatayā) [thus-etc](iti+ādau) [also](api) [to-be-applied](yojanīyam)
+by-fitness producer etc also to-be-connected
 
 ## mukta-m0-p128-v3190
-[ninefold](nava+ātmikā) [always](sadā) [you](tvam) [indeed](vai) [because](yataḥ) [not](na) [exists](asti) [old-age](jarā) [your](tava)
+nine-formed always you indeed because no old-age yours
 
 ## mukta-m0-p128-v3191
-[and-this](etad) [as-indicator-of-absence-of-all-modifications](ca+aśeṣa+vikāra+abhāva+upalakṣakam) [to-be-known](jñeyam)
+this-and-without-remainder-change-absence-indicative to-be-known
 
 ## mukta-m0-p128-v3192
-[not-all](asarvā) [not-all-pervading](asarvagā) [without-essence](asārā) [not-all-knowing](asarvajñā) [not-delighting-all](asarva+harṣiṇī)
+not-all not-all-going not-essence not-all-knowing not-all-delighting
 
 ## mukta-m0-p128-v3193
-[absence-of-essentiality](sāratva+abhāvaḥ) [thus](iti) [says](āha) [not-all-pervading-without-essence](asarvagā+asārā) [thus](iti)
+essence-absence thus-says not-all-going not-essence-thus
 
 ## mukta-m0-p128-v3194
-[below](adhastāt) [above](ūrdhvataḥ) [on-sides](pārśve) [everywhere](sarvataḥ) [to-you](te) [salutation](namaḥ) [salutation](namaḥ)
+below above side everywhere to-you salutation salutation
 
 ## mukta-m0-p128-v3195
-[bow-down](namaskurvanti) [sages](ṛṣayaḥ) [O-goddess](devi) [thus](iti) [again](bhūyaḥ) [countless-times](aparimita+kṛtvaḥ)
+bow sages goddess-thus again countless-times
 
 ## mukta-m0-p128-v3196
-[fruit](phalam) [means](sādhanam) [practitioner](sādhakam) [and](ca) [in-knowledge](jñāne) [established](siddham)
+fruit means practitioner and in-knowledge accomplished
 
 ## mukta-m0-p128-v3197
-[O-goddess](devi) [this](etat) [in-order](kramataḥ) [tell](brūhi) [again](bhūyaḥ) [to-you](tubhyam) [salutation](namaḥ) [salutation](namaḥ)
+goddess this in-order tell again-to-you salutation salutation
 
 ## mukta-m0-p128-v3198
-[another-attainment-to-be-obtained](prāptavya+siddhi+antaram) [thus](iti) [purport](tātparyam) [among-those-accomplished-in-knowledge](jñāna+siddheṣu)
+to-be-obtained-accomplishment-other thus-intent in-knowledge-accomplished
 
 ## mukta-m0-p128-v3199
-[being-compassionate](dayamānā) [toward-group-of-sages](ṛṣi+gaṇe) [clear-meaning](spaṣṭa+artham) [supreme](paramam) [speech](vacaḥ)
+compassionate to-sage-group clear-meaning supreme word
 
 ## mukta-m0-p128-v3200
-[clear-meaning](spaṣṭa+artham) [unambiguous](asandigdham) [supreme](paramam) [very-beautiful](ati+sundaram) [delightful-to-hear](śravaṇa+ānandanam)
+clear-meaning unambiguous supreme-very-beautiful hearing-delight

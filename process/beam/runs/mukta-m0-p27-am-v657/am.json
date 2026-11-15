@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p27",
  "verse": 657,
- "question": "What adornment is described on the right side at the tip of the matted hair?",
+ "question": "What benefit comes from performing this rite every year?",
  "premises": [
-  "The verse gives right side.",
-  "The matted hair tip is mentioned.",
-  "The Ganges adorns it."
+  "rite is performed yearly",
+  "long-lived son is obtained"
  ],
- "inference": "This verse describes a right-side adornment with the Ganges.",
+ "inference": "Performing this rite every year obtains a long-lived son.",
  "uncertainties": [
-  "Exact sandhi and case parsing not fully verified."
+  "rite referent unclear"
  ],
- "plain_english": "On the right, the tip of the matted hair is adorned by the Ganges."
+ "plain_english": "Let one perform this every year; one obtains a long-lived son."
 }

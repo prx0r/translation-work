@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "sarpa",
+     "gloss": "snake",
+     "grounds": "creature named in the affliction list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛścika",
+     "gloss": "scorpion",
+     "grounds": "creature named in the affliction list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūṣāṇāṃ",
+     "gloss": "rat",
+     "grounds": "genitive plural form of rat",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mukha",
+     "gloss": "mouth",
+     "grounds": "body part affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "stambhaḥ",
+     "gloss": "paralysis",
+     "grounds": "affliction that arises",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "verb of occurrence",
+     "morph": "3.sg.mid-pres"
+    }
+   ],
+   "question": "What bodily affliction arises in the mouths of snakes, scorpions, and rats?",
+   "premises": [
+    "paralysis of mouths arises",
+    "snake scorpion rat mouths affected",
+    "verse lists three creatures"
+   ],
+   "inference": "The verse states paralysis arises in mouths of snake, scorpion, rat.",
+   "uncertainties": [
+    "exact syntactic grouping uncertain",
+    "legacy glosses are terse"
+   ],
+   "plain_english": "Paralysis of the mouths of snakes, scorpions, and rats arises."
+  }
+ ]
+}

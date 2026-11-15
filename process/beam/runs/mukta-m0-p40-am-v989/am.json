@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 989,
- "question": "How is a vessel made from coconut ranked in ritual quality?",
+ "question": "What blood, skin, and flesh conditions are destroyed?",
  "premises": [
-  "A coconut-born vessel is under consideration.",
-  "The goddess is addressed.",
-  "It is assigned a specific rank."
+  "blood is destroyed",
+  "skin irritation is destroyed",
+  "flesh growth is destroyed"
  ],
- "inference": "A coconut-born vessel should be known as best-middle in rank.",
- "uncertainties": [],
- "plain_english": "O goddess, the coconut-born vessel should be known as best-middle."
+ "inference": "The verse states that blood, skin irritation, and flesh growth are destroyed.",
+ "uncertainties": [
+  "the destroying agent is carried over from the previous verse"
+ ],
+ "plain_english": "It destroys blood, skin irritation, and flesh growth."
 }

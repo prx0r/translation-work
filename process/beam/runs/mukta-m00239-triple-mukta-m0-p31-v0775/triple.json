@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "sūkṣmacūrṇaṃ",
+     "gloss": "fine-powder",
+     "grounds": "compound sūkṣma + cūrṇa; accusative object of kṛtvā",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "accusative feminine singular of tad",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "absolutive of root kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lohakiṭṭam",
+     "gloss": "iron-slag",
+     "grounds": "compound loha + kiṭṭa; accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or",
+     "grounds": "indeclinable atha + api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative substances may be used to make the powder that breaks the tālayantra?",
+   "premises": [
+    "fine powder is made from that",
+    "iron slag is offered as an alternative",
+    "the disjunctions mark substitute materials"
+   ],
+   "inference": "The verse lists alternative materials for preparing the powder used against the tālayantra.",
+   "uncertainties": [
+    "the exact referent of tāṃ is not explicit in this excerpt"
+   ],
+   "plain_english": "But making that into fine powder, or iron slag, or..."
+  }
+ ]
+}

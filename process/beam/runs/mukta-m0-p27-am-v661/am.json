@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p27",
  "verse": 661,
- "question": "What dance is declared and what color is associated with it?",
+ "question": "How should the ghee be prepared from these ingredients?",
  "premises": [
-  "The verse names bliss dance.",
-  "The dance is declared.",
-  "The color is golden."
+  "ingredients are measured by parts",
+  "one prastha ghee is cooked"
  ],
- "inference": "This verse identifies a declared bliss dance with golden color.",
+ "inference": "One should cook one prastha of ghee with measured portions of these ingredients.",
  "uncertainties": [
-  "Exact sandhi and case parsing not fully verified."
+  "exact measure unclear"
  ],
- "plain_english": "The bliss dance is declared and its color is golden."
+ "plain_english": "Cook one prastha of ghee with measured portions of these ingredients."
 }

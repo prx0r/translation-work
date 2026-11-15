@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-pradakṣiṇa-namaskārān (circumambulation-salutations) kṛtvā (having-done) mūrdhni (on-head) kṛta-añjaliḥ (joined-palms)
+[circumambulation-salutations](pradakṣiṇānamaskārān) [having-done](kṛtvā) [on-head](mūrdhni) [joined-palms](kṛtāñjaliḥ)
 
 ## mukta-m0-p58-v1427
-prati-ślokam (per-verse) ca (and) juhuyāt (should-offer) pāyasam (rice-pudding) tila-sarṣipā (sesame-mustard)
+[per-verse](pratiślokaṃ) [and](ca) [offer](juhuyāt) [rice-pudding](pāyasaṃ) [sesame-mustard](tilasarṣipā)
 
 ## mukta-m0-p58-v1428
-namaḥ (salutation) kaiṭabha-hāriṇyai (to-kaiṭabha-destroyer) namaḥ (salutation) te (to-you) mahiṣa-ardini (buffalo-slayer)
+[salutation](namaḥ) [to-kaithabha-slayer](kaiṭabhahāriṇyai) [salutation](namaste) [to-mahisha-crusher](mahiṣārdini)
 
 ## mukta-m0-p58-v1429
-namaḥ (salutation) te (to-you) śumbha-hantrī (śumbha-slayer) ca (and) niśumbha-asura-vighātinī (niśumbha-demon-destroyer)
+[salutation](namaste) [shumbha-slayer](śumbhahaṃtryai) [and](ca) [nishumbha-demon-destroyer](niśumbhāsuravighātinī)
 
 ## mukta-m0-p58-v1430
-aiṃkārī (aiṃ-syllable) sṛṣṭi-rūpāya (creation-form) hrīṃkārī (hrīṃ-syllable) pratipālikā (protector)
+[aim-syllable](aiṃkārī) [creation-form](sṛṣṭirūpāya) [hrim-syllable](hrīṃkārī) [protectress](pratipālikā)
 
 ## mukta-m0-p58-v1431
-cāmuṇḍā (cāmuṇḍā) caṇḍa-ghātī (caṇḍa-slayer) ca (and) yaikārī (yaikāra) vara-dāyinī (boon-giver)
+[chamunda](cāmuṇḍā) [chanda-slayer](caṇḍaghātī) [and](ca) [yaim-syllable](yaikārī) [boon-giver](varadāyinī)
 
 ## mukta-m0-p58-v1432
-vicce (vicce) ca (and) bhaya-dāyi (fear-giver) ca (and) namaḥ (salutation) te (to-you) mantra-rūpiṇī (mantra-form)
+[vicce](vicce) [and](ca) [fear-giver](bhayadāyi) [ca](ca) [salutation](namaste) [mantra-form](mantrarūpiṇī)
 
 ## mukta-m0-p58-v1433
-krūṃ (krūṃ) kraiṃkālikā-devi (kraiṃkālikā-goddess) śāṃ (śāṃ) śīṃ (śīṃ) śūṃ (śūṃ) me (to-me) śubhaṃ (auspiciousness) kuru (do)
+[krum-kraim](krūṃkraiṃkālikādevi) [sha-shi-shu](śāṃśīṃśūṃ) [to-me](me) [auspicious](śubhaṃ) [make](kuru)
 
 ## mukta-m0-p58-v1434
-bhūyo (again) nāma-padair (name-words) devī (goddess) pūjayet (should-worship) su-samāhitaḥ (well-concentrated)
+[again](bhūyo) [name-words](nāmapadair) [goddess](devī) [worship](pūjayet) [well-concentrated](susamāhitaḥ)
 
 ## mukta-m0-p58-v1435
-su-ciraṃ (long) bhāvayet (should-meditate) devīṃ (goddess) caṇḍikāṃ (caṇḍikā) tan-mayo (absorbed-in-that) bhavet (becomes)
+[long](suciraṃ) [meditate](bhāvayed) [goddess](devīṃ) [chandika](caṇḍikāṃ) [become-absorbed](tanmayo) [become](bhavet)
 
 ## mukta-m0-p58-v1436
-bhuktvā (having-enjoyed) bhogān (pleasures) yathā-kāmaṃ (as-desired) devī-sāyujyam (union-with-goddess) āpnuyāt (obtains)
+[having-enjoyed](bhuktvā) [enjoyments](bhogān) [as-desired](yathākāmaṃ) [goddess-union](devīsāyujyam) [obtain](āpnuyāt)
 
 ## mukta-m0-p58-v1437
-bhasmī-kṛtya (having-reduced-to-ashes) asya (his) puṇyāni (merits) nirdahet (burns) parameśvarā (supreme-goddess)
+[having-reduced-ashes](bhasmīkṛtya) [his](asya) [merits](puṇyān) [burn](nirdahet) [supreme-lord](parameśvarā)
 
 ## mukta-m0-p58-v1438
-yathā-uktena (as-stated) vidhānena (procedure) caṇḍikāṃ (caṇḍikā) sukham (happiness) āpsyasi (will-obtain) oṃ (om)
+[as-described](yathoktena) [rite](vidhānena) [chandika](caṇḍikāṃ) [happiness](sukham) [obtain](āpsyasi) [om](oṃ)
 
 ## mukta-m0-p58-v1439
-pīṃ (pīṃ) pūṃ (pūṃ) pārvati (pārvatī) pūrṇā (full) khāṃ (khāṃ) khīṃ (khīṃ) khūṃ (khūṃ) khecarī (sky-goer) tathā (thus)
+[pim-pum](pīṃpūṃ) [parvati](pārvati) [full](pūrṇā) [kham-khim-khum](khāṃkhīṃkhūṃ) [sky-goer](khecarī) [thus](tathā)
 
 ## mukta-m0-p58-v1440
-stutā (praised) sampūjitā (well-worshipped) bhaktyā (with-devotion) vaśīkuryāt (subjugates) jagat-trayam (three-worlds)
+[praised](stutā) [well-worshipped](sampūjitā) [with-devotion](bhaktyā) [subjugate](vaśīkuryāt) [three-worlds](jagattrayam)
 
 ## mukta-m0-p58-v1441
-devī (goddess) kanaka-varṇābhā (gold-colored-radiance) kanaka-uttama-bhūṣaṇā (gold-best-ornamented)
+[goddess](devī) [gold-colored](kanakavarṇābhā) [gold-best-ornament](kanakottamabhūṣaṇā)
 
 ## mukta-m0-p58-v1442
-indirā (indirā) kamalā (kamalā) lakṣmīḥ (lakṣmī) sā (she) śrī (śrī) rukma-ambuja-āsanā (gold-lotus-seated)
+[indira](indirā) [kamala](kamalā) [lakshmi](lakṣmīḥ) [she](sā) [shri](śrī) [golden-lotus-seated](rukmāmbujāsanā)
 
 ## mukta-m0-p58-v1443
-tasyāḥ (her) svarūpaṃ (form) vakṣyāmi (will-describe) śṛṇu (listen) sarva-bhaya-apaham (all-fear-removing)
+[her](tasyāḥ) [own-form](svarūpaṃ) [tell](vakṣyāmi) [listen](śṛṇu) [all-fear-removing](sarvabhayāpaham)
 
 ## mukta-m0-p58-v1444
-rakta-ambarā (red-garmented) rakta-varṇā (red-colored) rakta-sarva-aṅga-bhūṣaṇā (red-all-limb-ornamented)
+[red-garment](raktāmbarā) [red-colored](raktavarṇā) [red-all-limb-ornament](raktasarvāṅgabhūṣaṇā)
 
 ## mukta-m0-p58-v1445
-rakta-tīkṣṇa-nakhā (red-sharp-nails) rakta-rasanā (red-tongue) rakta-dantikā (red-toothed)
+[red-sharp](raktatīkṣṇa) [nails](nakhā) [red](rakta) [tongue](rasanā) [red-toothed](raktadantikā)
 
 ## mukta-m0-p58-v1446
-vasudhevaviśālā (vasudhevaviśālā) sā (she) sumeru (sumeru) yugala-stanī (pair-breasted)
+[vasudheva-wide](vasudhevaviśālā) [she](sā) [sumeru](sumeru) [pair-breasts](yugalastanī)
 
 ## mukta-m0-p58-v1447
-karkaśā (rough) avatikāntau (avatikāntau) tau (those-two) sarva-ānanda-payonidhī (all-bliss-milk-oceans)
+[rough](karkaśā) [very-beautiful](vatikāntau) [those](tau) [all-bliss-ocean](sarvānandapayonidhī)
 
 ## mukta-m0-p58-v1448
-khaḍga (sword) pātra (vessel) śiraḥ (head) kheṭaiḥ (with-shields) alaṃkṛta (adorned) catur-bhujā (four-armed)
+[sword](khaḍga) [bowl](pātra) [head](śiraḥ) [shield](kheṭaiḥ) [adorned](alaṃkṛta) [four-armed](caturbhujā)
 
 ## mukta-m0-p58-v1449
-anayā (by-her) vyāptam (pervaded) akhilaṃ (entire) jagat (world) sthāvara-jaṅgamam (stationary-moving)
+[by-her](anayā) [pervaded](vyāptam) [all](akhilaṃ) [world](jagat) [stationary-moving](sthāvarajaṅgamam)
 
 ## mukta-m0-p58-v1450
-bhuktvā (having-enjoyed) bhogān (pleasures) yathā-kāmaṃ (as-desired) devī-sāyujyam (union-with-goddess) āpnuyāt (obtains)
+[having-enjoyed](bhuktvā) [enjoyments](bhogān) [as-desired](yathākāmaṃ) [goddess-union](devīsāyujyam) [obtain](apnuyāt)

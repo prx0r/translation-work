@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p113-v2801
-[thus-indeed-freedom](evāvadeva) [because-power-indeed-that-composed](svātantryaṃ) [because](yataḥ) [power-indeed](śaktirhi) [that-composed](tanmayī)
+[eva](evāvadeva) [svātantryam](svātantryaṃ) [yataḥ](yataḥ) [śaktiḥ](śaktirhi) [tanmayī](tanmayī)
 
 ## mukta-m0-p113-v2802
-[that-composed](tanmayaṃ) [that-one-taste-thus-meaning](tadekarasamityarthaḥ)
+[tanmayam](tanmayaṃ) [tad-eka-rasam](tadekarasam) [iti](ityarthaḥ) [arthaḥ](ityarthaḥ)
 
 ## mukta-m0-p113-v2803
-[thus-freedom-rest-one-taste-nature](evaṃ svātantryaviśrāntisahitaikarasātmikā)
+[evam](evaṃ) [svātantrya-viśrānti-sahita-eka-rasa-ātmikā](svātantryaviśrāntisahitaikarasātmikā)
 
 ## mukta-m0-p113-v2804
-[accompanied-consciousness](sahitā citiḥ)
+[sahitā](sahitā) [citiḥ](citiḥ)
 
 ## mukta-m0-p113-v2805
-[mirror-like-whose-own-form-consciousness-one-taste-formed](ādarśavadyatsvarūpe cidekarasarūpiṇī)
+[ādarśa-vat](ādarśavadyatsvarūpe) [yat](yatsvarūpe) [svarūpe](svarūpe) [cit-eka-rasa-rūpiṇī](cidekarasarūpiṇī)
 
 ## mukta-m0-p113-v2806
-[determines-mirror-like-thus](nirūpayati - ādarśavaditi)
+[nirūpayati](nirūpayati) [ādarśa-vat](ādarśavaditi) [iti](iti)
 
 ## mukta-m0-p113-v2807
-[so-shining-time-also-own-form-not-turning](tathā bhāsanakāle'pi svarūpādanivartanam)
+[tathā](tathā) [bhāsana-kāle](bhāsanakāle'pi) [api](bhāsanakāle'pi) [svarūpāt](svarūpādanivartanam) [anivartanam](anivartanam)
 
 ## mukta-m0-p113-v2808
-[consciousness-one-taste-own-form-not-turning-thus-that-its-very-difficult](cidekarasasvarūpādanivartanamiti yat etadeva tasyā atidurghaṭatvamiti śeṣaḥ)
+[cit-eka-rasa-svarūpāt](cidekarasasvarūpādanivartanamiti) [anivartanam](anivartanamiti) [yat](yat) [etat](etadeva) [eva](etadeva) [tasyāḥ](tasyā) [ati-durghaṭatvam](atidurghaṭatvamiti) [iti](iti) [śeṣaḥ](śeṣaḥ)
 
 ## mukta-m0-p113-v2809
-[that-ignorance-inert-power-that-void-nature-indeed-also](sā'vidyā jaḍaśaktiḥ sā śūnyaṃ prakṛtireva ca)
+[sā](sā'vidyā) [avidyā](avidyā) [jaḍa-śaktiḥ](jaḍaśaktiḥ) [sā](sā) [śūnyam](śūnyaṃ) [prakṛtiḥ](prakṛtireva) [eva](prakṛtireva) [ca](ca)
 
 ## mukta-m0-p113-v2810
-[thus-non-self-appearance-appearance-appearance-identity-therefore-says-that-ignorance-thus](evānātmābhāsaḥ | ābhāsābhāsyayostādātmyādāha - sā'vidyeti)
+[eva](evānātmābhāsaḥ) [anātma-ābhāsaḥ](anātmābhāsaḥ) [ābhāsa-ābhāsyayoḥ](ābhāsābhāsyayostādātmyādāha) [tādātmyāt](tādātmyādāha) [āha](āha) [sā](sā'vidyeti) [avidyā](avidyeti) [iti](iti)
 
 ## mukta-m0-p113-v2811
-[all-that-indeed-declared-first-limitation](sarvaṃ tadeva samproktaṃ paricchedanamādimam)
+[sarvam](sarvaṃ) [tat](tadeva) [eva](tadeva) [samproktam](samproktaṃ) [paricchedanam](paricchedanamādimam) [ādimam](ādimam)
 
 ## mukta-m0-p113-v2812
-[thus-meaning](ityarthaḥ)
+[iti](ityarthaḥ) [arthaḥ](ityarthaḥ)
 
 ## mukta-m0-p113-v2813
-[its-one-part-delusion-made-space-appearance](tasyaikadeśatābhrāntikṛtamākāśabhāsanam)
+[tasya](tasyaikadeśatābhrāntikṛtamākāśabhāsanam) [eka-deśa-tā-bhrānti-kṛtam](ekadeśatābhrāntikṛtam) [ākāśa-bhāsanam](ākāśabhāsanam)
 
 ## mukta-m0-p113-v2814
-[rama-who-thus-full-self-rest-its-one-part-delusion-made](rāma ya iti | tasya pūrṇātmaviśramasya | ekadeśatābhrāntikṛtam)
+[rāma](rāma) [yaḥ](ya) [iti](iti) [tasya](tasya) [pūrṇa-ātma-viśramasya](pūrṇātmaviśramasya) [eka-deśa-tā-bhrānti-kṛtam](ekadeśatābhrāntikṛtam)
 
 ## mukta-m0-p113-v2815
-[space-that-indeed-declared-that-indeed-samsara-cause](ākāśaḥ sa hi samproktaḥ sa hi saṃsārakāraṇam)
+[ākāśaḥ](ākāśaḥ) [sa](sa) [hi](hi) [samproktaḥ](samproktaḥ) [sa](sa) [hi](hi) [saṃsāra-kāraṇam](saṃsārakāraṇam)
 
 ## mukta-m0-p113-v2816
-[samsara-cause](saṃsārakāraṇam)
+[saṃsāra-kāraṇam](saṃsārakāraṇam)
 
 ## mukta-m0-p113-v2817
-[rama-subtle-sight-see-which-space-by-you-seen](rāma sūkṣmadṛśā paśya ya ākāśastvayekṣyate)
+[rāma](rāma) [sūkṣma-dṛśā](sūkṣmadṛśā) [paśya](paśya) [yaḥ](ya) [ākāśaḥ](ākāśastvayekṣyate) [tvayā](tvayekṣyate) [īkṣyate](īkṣyate)
 
 ## mukta-m0-p113-v2818
-[space-self-non-difference-realizes-rama-thus](ākāśātmanorabhedamanubhāvayati - rāmeti)
+[ākāśa-ātmanoḥ](ākāśātmanorabhedamanubhāvayati) [abhedam](abhedam) [anubhāvayati](anubhāvayati) [rāma](rāmeti) [iti](iti)
 
 ## mukta-m0-p113-v2819
-[as-other-bodies-in-space-shines-which-always-your](yathā'nyadeheṣvākāśo bhāsate yaḥ sadā tava)
+[yathā](yathā'nyadeheṣvākāśo) [anya-deheṣu](anyadeheṣu) [ākāśaḥ](ākāśo) [bhāsate](bhāsate) [yaḥ](yaḥ) [sadā](sadā) [tava](tava)
 
 ## mukta-m0-p113-v2820
-[space-which-that-self-thus-connection](ākāśaḥ | yaḥ sa evātmetyanvayaḥ)
+[ākāśaḥ](ākāśaḥ) [yaḥ](yaḥ) [saḥ](sa) [eva](eva) [ātmā](ātmetyanvayaḥ) [iti](iti) [anvayaḥ](anvayaḥ)
 
 ## mukta-m0-p113-v2821
-[thus-self-imagined-space-grasped-which-consciousness-body-situated](evaṃ svakalpitākāśagrastaṃ yaccidvapuḥ sthitam)
+[evam](evaṃ) [sva-kalpita-ākāśa-grastam](svakalpitākāśagrastaṃ) [yat](yaccidvapuḥ) [cit-vapuḥ](cidvapuḥ) [sthitam](sthitam)
 
 ## mukta-m0-p113-v2822
-[space-grasped-space-limited](ākāśagrastam ākāśaparicchinnam)
+[ākāśa-grastam](ākāśagrastam) [ākāśa-paricchinnam](ākāśaparicchinnam)
 
 ## mukta-m0-p113-v2823
-[there-covering-chief-therefore-measure-mind-called](tatrāvaraṇamukhyatvāt pramāṇaṃ mana ucyate)
+[tatra](tatrāvaraṇamukhyatvāt) [āvaraṇa-mukhya-tvāt](āvaraṇamukhyatvāt) [pramāṇam](pramāṇaṃ) [manaḥ](mana) [ucyate](ucyate)
 
 ## mukta-m0-p113-v2824
-[measure-knowledge-instrument-mind-thus-meaning](pramāṇaṃ jñānakaraṇaṃ mana ityarthaḥ)
+[pramāṇam](pramāṇaṃ) [jñāna-karaṇam](jñānakaraṇaṃ) [manaḥ](mana) [iti](ityarthaḥ) [arthaḥ](ityarthaḥ)
 
 ## mukta-m0-p113-v2825
-[thus-space-covered-also-consciousness-self-more-indeed-then](evamākāśāvṛto'pi cidātmā bhūya eva tu)
+[evam](evamākāśāvṛto'pi) [ākāśa-āvṛtaḥ](ākāśāvṛto'pi) [api](ākāśāvṛto'pi) [cit-ātmā](cidātmā) [bhūyaḥ](bhūya) [eva](eva) [tu](tu)

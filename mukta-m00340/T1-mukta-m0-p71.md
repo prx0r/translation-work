@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[slain-horse](hatāśvaḥ) [he](saḥ) [unknown](.....) [unknown](.....) [unknown](.....)
+[killed-horse](hatāśvaḥ) [he](sa0) [unknown](.....) [unknown](.....) [unknown](.....)
 
 ## mukta-m0-p71-v1752
-[blazed](jajvaluḥ) [and](ca) [fire](agniḥ) [unknown](.....) [unknown](.....) [unknown](.....) [verse-end](|| 18 || (28) ||)
+[blazed](jajvaluḥ) [and](ca) [fire](agni0) [unknown](.....) [unknown](.....) [unknown](.....)
 
 ## mukta-m0-p71-v1753
-[thus](iti) [tenth+chapter](daśamodhyāyaḥ)
+[thus](iti) [tenth](daśama) [chapter](adhyāyaḥ)
 
 ## mukta-m0-p71-v1754
-[from-all-sides](sarvataḥ) [nose](śrāṇa) [smell](ghrāṇe) [o-nārāyaṇī](nārāyaṇi) [salutation-be](namostu) [to-you](te)
+[from-all-sides](sarvataḥ) [smelling-nose](śrāṇaghrāṇe) [O-Nārāyaṇī](nārāyaṇi) [salutation](namas) [to-you](te)
 
 ## mukta-m0-p71-v1755
-[then](tadā) [then](tadā) [having-descended](avatīrya) [unknown](.....) [unknown](.....) [unknown](.....)
+[then](tadā) [then](tadā) [having-descended](avatīrya0) [unknown](.....) [unknown](.....) [unknown](.....)
 
 ## mukta-m0-p71-v1756
-[thus](iti) [eleventh+chapter](ekādaśodhyāyaḥ)
+[thus](iti) [eleventh](ekādaśa) [chapter](adhyāyaḥ)

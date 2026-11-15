@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[heavenly-lakshmi-and](svargelakṣmīśca) [durga](durgā) [she](sā) [of-indra-etc](śakrādīnāṃ) [in-house](gṛhe) [in-house](gṛhe)
+[heaven-lakshmi](svargelakṣmī) [and](ca) [durga](durgā) [she](sā) [of-indra-etc](śakrādīnāṃ) [in-house](gṛhe) [in-house](gṛhe)
 
 ## mukta-m0-p18-v427
-[in-fire](vahnau) [she](sā) [burning-power](dāhikā) [power](śaktiḥ) [radiance-power](prabhāśaktiśca) [in-sun](bhāskare)
+[in-fire](vahnau) [she](sā) [burning-power](dāhikā) [power](śaktiḥ) [radiance-power](prabhāśakti) [and](ca) [in-sun](bhāskare)
 
 ## mukta-m0-p18-v428
-[grain-etc](śasyaprabhṛti) [power](śaktiścadhāraṇā) [and-holding](ca) [on-earths](dharāsu) [she](sā)
+[grain-etc](śasyaprabhṛti) [power](śakti) [and](ca) [support](dhāraṇā) [on-earth](dharāsu) [she](sā)
 
 ## mukta-m0-p18-v429
 [of-ascetics](tapasvināṃ) [asceticism](tapasyā) [she](sā) [of-householders](gṛhiṇāṃ) [house](gṛha) [known](veditā)
 
 ## mukta-m0-p18-v430
-[of-my-devotees](madbhaktānāṃ) [devotion-power](bhaktiśaktirmayi) [devotion](bhakti) [giver](pradā) [always](sadā)
+[of-my-devotees](madbhaktānāṃ) [devotion-power](bhaktiśakti) [to-me](mayi) [devotion](bhakti) [giver](pradā) [always](sadā)
 
 ## mukta-m0-p18-v431
-[on-far-shore](pāre) [of-samsara-ocean](saṃsāra) [of-sindhus](sindhūnāṃ) [three-vedas](trayī) [hard-to-cross](dustaratāriṇī)
+[on-far-shore](pāre) [of-samsara-ocean](saṃsārasindhūnāṃ) [three-vedas](trayī) [hard-to-cross](dustaratā) [deliverer](tāriṇī)
 
 ## mukta-m0-p18-v432
-[explanation-power](vyākhaya) [power](śaktiḥ) [in-shruti](śrutau) [in-shastra](śāstredātṛśaktiścadātṛṣu) [giver-power](dātṛśaktiśca) [in-givers](dātṛṣu)
+[explanation-power](vyākhayaśakti) [in-shruti](śrutau) [in-shastra](śāstre) [giver-power](dātṛśakti) [and](ca) [in-givers](dātṛṣu)
 
 ## mukta-m0-p18-v433
-[thus](evaṃ) [formed](rūpā) [and](ca) [which](yā) [power](śaktirmāyā) [given](dattā) [to-shiva](śivāya) [she](sā)
+[thus](evaṃ) [formed](rūpā) [and](ca) [which](yā) [power](śakti) [maya](māyā) [given](dattā) [to-shiva](śivāya) [she](sā)
 
 ## mukta-m0-p18-v434
-[i-am-shiva](śivāhaṃ) [shiva-world](śiva) [in-loka](loke'pi) [brahma-world](brahmaloke) [sarasvati](sarasvatī)
+[i-am-shiva](śivāhaṃ) [shiva-world](śivaloke) [also](api) [brahma-world](brahmaloke) [sarasvati](sarasvatī)
 
 ## mukta-m0-p18-v435
-[by-your-blame](tvannindayā) [body](tanuṃtyaktvā) [abandoning](tyaktvā) [she](sā) [i](cāhaṃ) [mountain-maiden](śailakanyakā)
+[by-your-blame](tvannindayā) [body](tanuṃ) [abandoning](tyaktvā) [she](sā) [i](ca) [ahaṃ] [mountain-maiden](śailakanyakā)
 
 ## mukta-m0-p18-v436
-[savitri](sāvitrī) [divine-mother](devamātā) [haṃ](haṃ) [sita](sītā) [janaka-daughter](janaka) [kanyakā](kanyakā)
+[savitri](sāvitrī) [divine-mother](devamātā) [haṃ](haṃ) [sita](sītā) [janaka-daughter](janakakanyakā)
 
 ## mukta-m0-p18-v437
-[of-sudama-curse](sudāmnośāpato) [by-fate](daivāt) [of-vrishabhnu-daughter](vṛṣabhānu) [sutādhunā](sutādhunā)
+[by-sudama-curse](sudāmnośāpato) [by-fate](daivāt) [vrishabhānu-daughter](vṛṣabhānusutā) [now](adhunā)
 
 ## mukta-m0-p18-v438
-[by-your-command](tavājñayā) [mahalakshmi](mahālakṣmīrahaṃ) [i](ahaṃ) [vaikuntha-resident](vaikuṇṭha) [vāsinī](vāsinī)
+[by-your-command](tavājñayā) [mahalakshmi](mahālakṣmī) [i](ahaṃ) [vaikuntha-resident](vaikuṇṭhavāsinī)
 
 ## mukta-m0-p18-v439
-[i](tavāhaṃ) [by-mind-born](manasājātā) [ocean-daughter](sindhukanyā) [by-your-command](tavājñayā)
+[i](tavāhaṃ) [mind-born](manasājātā) [ocean-daughter](sindhukanyā) [by-your-command](tavājñayā)
 
 ## mukta-m0-p18-v440
-[in-radiances](tejaḥsu) [of-all-gods](sarva) [devānāṃ](devānāṃ) [formerly](purāsatye) [by-your-command](tavājñayā)
+[in-powers](tejaḥsu) [of-all-gods](sarvadevānāṃ) [formerly](purā) [in-truth](satye) [by-your-command](tavājñayā)
 
 ## mukta-m0-p18-v441
-[shumbha-etc](śumbhādayaśca) [and-demons](daityāśca) [slain](nihatāścaivalīlayā) [by-play](līlayā)
+[shumbha-etc](śumbhādayaśca) [and](ca) [demons](daityāśca) [slain](nihatāśca) [by-play](īvalīlayā)
 
 ## mukta-m0-p18-v442
-[slaying](nihatya) [raktabija](rakta) [and](bījaṃ) [ca](ca) [raktabija-destroyer](rakta) [bīja](bīja) [vināśinī](vināśinī)
+[slaying](nihatya) [raktabija](raktabījaṃ) [and](ca) [raktabija-destroyer](raktabījavināśinī)
 
 ## mukta-m0-p18-v443
-[by-yoga](yogenatyakttvādehaṃ) [abandoning-body](tyaktvādehaṃ) [and](ca) [mountain-born](śailajāhaṃ) [i](ahaṃ) [by-your-command](tavājñayā)
+[by-yoga](yogenatyakttvādehaṃ) [body](ca) [mountain-born](śailajā) [i](ahaṃ) [by-your-command](tavājñayā)
 
 ## mukta-m0-p18-v444
 [vishnu-devotion](viṣṇubhakti) [i](rahaṃ) [therefore](tena) [vishnu-maya](viṣṇumāyā) [and](ca) [vaishnavi](vaiṣṇavī)
 
 ## mukta-m0-p18-v445
-[by-your-command](tavājñayā) [fivefold](pañcadhāhaṃ) [i](ahaṃ) [five](pañca) [prakriti-formed](prakṛtirūpiṇī)
+[by-your-command](tavājñayā) [fivefold](pañcadhā) [i](ahaṃ) [five-prakriti-formed](pañcaprakṛtirūpiṇī)
 
 ## mukta-m0-p18-v446
-[of-madhukaitabha](madhukaiṭabha) [frightened](bhītena) [by-brahma](brahmaṇā) [she](sā) [secondly](dvitīyataḥ)
+[by-madhukaitabha-fear](madhukaiṭabhabhītena) [by-brahma](brahmaṇā) [she](sā) [secondly](dvitīyataḥ)
 
 ## mukta-m0-p18-v447
-[fallen-glory](bhraṣṭa) [of-mahendra](śriyā) [mahendreṇa](mahendreṇa) [by-curse](śāpāddurvāsasaḥ) [of-durvasa](durvāsasaḥ) [formerly](purā)
+[fallen-glory](bhraṣṭaśriyā) [by-mahendra](mahendreṇa) [by-curse](śāpāt) [of-durvasa](durvāsasaḥ) [formerly](purā)
 
 ## mukta-m0-p18-v448
-[then](tatomunīndraiḥ) [by-sages](munīndraiḥ) [by-siddhas](siddhendrairdrevaiśca) [and-gods](devaiśca) [by-manu](manu) [manu](manumānavaiḥ) [humans](mānavaiḥ)
+[then](tato) [by-sages](munīndraiḥ) [by-siddha-lords](siddhendraiḥ) [by-gods](devaiśca) [by-manu](manu) [by-men](manumānavaiḥ)
 
 ## mukta-m0-p18-v449
-[in-radiances](tejaḥsu) [of-all-gods](sarva) [devānāmāvirbhūtā](devānāmāvirbhūtā) [formerly](purā) [sage](mune)
+[in-powers](tejaḥsu) [of-all-gods](sarvadevānām) [manifested](āvirbhūtā) [formerly](purā) [sage](mune)
 
 ## mukta-m0-p18-v450
-[durga-etc](durgādayaśca) [and-demons](daityāśca) [slain](nihatā) [by-durga](durgayā) [by-me](mayā)
+[durga-etc](durgādayaśca) [and](ca) [demons](daityāśca) [slain](nihatā) [by-durga](durgayā) [by-me](mayā)

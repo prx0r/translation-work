@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p35",
  "verse": 860,
- "question": "How does the bearer relate lotus, three parts, and slab one and half parts?",
+ "question": "What happens to the enemy when the buried item is removed again?",
  "premises": [
-  "bearer is named",
-  "lotus is accusative",
-  "three parts is accusative",
-  "slab one and half parts is accusative"
+  "the enemy dies while it is buried",
+  "when it is removed again the enemy becomes happy",
+  "removal reverses the effect"
  ],
- "inference": "The verse assigns lotus, three parts, and slab one and half parts under the bearer.",
- "uncertainties": [
-  "plus marks indicate editorial fusion"
- ],
- "plain_english": "The bearer has lotus, three parts, and slab one and half parts."
+ "inference": "Removing the buried item again restores the enemy's happiness.",
+ "uncertainties": [],
+ "plain_english": "The enemy dies while it is buried; when removed again, the enemy becomes happy."
 }

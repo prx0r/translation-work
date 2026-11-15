@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the paste",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "kalkaṃ",
+     "gloss": "paste",
+     "grounds": "accusative object of pradāya",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "pradāyaiva",
+     "gloss": "having-administered",
+     "grounds": "fused form pradāya + eva",
+     "morph": "participle.perf.act"
+    },
+    {
+     "surface": "bādhirye",
+     "gloss": "in-deafness",
+     "grounds": "locative condition",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "paramauṣadham",
+     "gloss": "supreme-medicine",
+     "grounds": "predicate nominative",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "What is the supreme medicine for deafness after administering this paste?",
+   "premises": [
+    "this paste is administered",
+    "deafness is the condition treated",
+    "supreme medicine is the result"
+   ],
+   "inference": "the paste is the supreme medicine for deafness",
+   "uncertainties": [
+    "exact ritual preparation of kalka is not specified"
+   ],
+   "plain_english": "This paste, once administered, is the supreme medicine for deafness."
+  }
+ ]
+}

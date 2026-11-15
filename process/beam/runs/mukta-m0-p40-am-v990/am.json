@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 990,
- "question": "How are golden and silver vessels ranked relative to each other?",
+ "question": "Where should long pepper and black pepper be placed?",
  "premises": [
-  "A golden vessel is classified.",
-  "A silver vessel is classified.",
-  "Each receives a distinct rank."
+  "a black goat is mentioned",
+  "the peppers are placed in flesh",
+  "the instruction is optative"
  ],
- "inference": "The golden vessel is middle-best, while the silver vessel is middle-middle.",
- "uncertainties": [],
- "plain_english": "The golden vessel is middle-best, and the silver vessel is middle-middle."
+ "inference": "The verse instructs placing long pepper and black pepper in the flesh of a black goat.",
+ "uncertainties": [
+  "the therapeutic purpose is not stated in this verse"
+ ],
+ "plain_english": "Place long pepper and black pepper in the flesh of a black goat."
 }

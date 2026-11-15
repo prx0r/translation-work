@@ -1,0 +1,1225 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 851,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmatta+kāriṇī",
+     "gloss": "madness-causing",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidye",
+     "gloss": "knowledge",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ṭhaḥ",
+     "gloss": "ṭhaḥ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṭhaḥ",
+     "gloss": "ṭhaḥ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ukta+yogānām",
+     "gloss": "of-stated-applications",
+     "grounds": "compound genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ayam+eva",
+     "gloss": "this-indeed",
+     "grounds": "demonstrative with emphatic",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra is prescribed for the madness-causing vidyā among stated applications?",
+   "premises": [
+    "unmatta-kāriṇī vidyā is named",
+    "stated applications use this mantra",
+    "the mantra begins oṃ namaḥ"
+   ],
+   "inference": "The verse identifies this mantra for that vidyā among stated applications.",
+   "uncertainties": [
+    "vidye is vocative"
+   ],
+   "plain_english": "Oṃ namaḥ ... this indeed is the mantra for the madness-causing knowledge among stated applications."
+  },
+  {
+   "verse": 852,
+   "rows": [
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√khan"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gehe",
+     "gloss": "in-house",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "demonstrative genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kula+kṣayaḥ",
+     "gloss": "family-destruction",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What result follows from burying the item in someone's house?",
+   "premises": [
+    "one should bury in the house",
+    "the result becomes family destruction",
+    "the destruction belongs to that person"
+   ],
+   "inference": "Burying in the house brings destruction of that family.",
+   "uncertainties": [],
+   "plain_english": "If one buries it in someone's house, that person's family is destroyed."
+  },
+  {
+   "verse": 853,
+   "rows": [
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "offering formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta+abhimantritaṃ",
+     "gloss": "seven-times-consecrated",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatru+gehe",
+     "gloss": "in-enemy-house",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√khan"
+    },
+    {
+     "surface": "kula+kṣayaṃ",
+     "gloss": "family-destruction",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.pres.√yā"
+    }
+   ],
+   "question": "What happens when the seven-times-consecrated item is buried in an enemy's house?",
+   "premises": [
+    "the item is seven-times consecrated",
+    "it is buried in the enemy's house",
+    "the result is family destruction"
+   ],
+   "inference": "The enemy's family is destroyed.",
+   "uncertainties": [],
+   "plain_english": "Bury the seven-times-consecrated item in the enemy's house; the enemy's family is destroyed."
+  },
+  {
+   "verse": 854,
+   "rows": [
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√khan"
+    },
+    {
+     "surface": "sapta+dhā+japtaṃ",
+     "gloss": "seven-times-chanted",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mārayet",
+     "gloss": "one-should-kill",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√mṛ"
+    },
+    {
+     "surface": "ripu+santatim",
+     "gloss": "enemy-lineage",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is the effect of burying the seven-times-chanted item?",
+   "premises": [
+    "the item is seven-times chanted",
+    "it is buried",
+    "the enemy lineage is killed"
+   ],
+   "inference": "Burying it kills the enemy's lineage.",
+   "uncertainties": [],
+   "plain_english": "Bury the seven-times-chanted item; it kills the enemy's lineage."
+  },
+  {
+   "verse": 855,
+   "rows": [
+    {
+     "surface": "jāyante",
+     "gloss": "are-born",
+     "grounds": "present third plural",
+     "morph": "3.pl.act.pres.√jan"
+    },
+    {
+     "surface": "sphoṭakāḥ",
+     "gloss": "boils",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tīvrāḥ",
+     "gloss": "severe",
+     "grounds": "nominative plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daśa+ahāt",
+     "gloss": "from-ten-days",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√bhū"
+    }
+   ],
+   "question": "What bodily signs and outcome follow within ten days?",
+   "premises": [
+    "severe boils are born",
+    "after ten days death becomes",
+    "the outcome is fatal"
+   ],
+   "inference": "Severe boils appear and death follows within ten days.",
+   "uncertainties": [],
+   "plain_english": "Severe boils arise, and death occurs after ten days."
+  },
+  {
+   "verse": 856,
+   "rows": [
+    {
+     "surface": "snāna+bhū+mūtra",
+     "gloss": "bathing-ground-urine",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhū+mṛtsnāṃ",
+     "gloss": "earth-clay",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarpa+vakre",
+     "gloss": "in-snake-mouth",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viniḥkṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√kṣip"
+    }
+   ],
+   "question": "Where should the bathing-ground urine and earth clay be cast?",
+   "premises": [
+    "bathing-ground urine is named",
+    "earth clay is named",
+    "both are cast in a snake's mouth"
+   ],
+   "inference": "The materials are cast into a snake's mouth.",
+   "uncertainties": [],
+   "plain_english": "Cast bathing-ground urine and earth clay into a snake's mouth."
+  },
+  {
+   "verse": 857,
+   "rows": [
+    {
+     "surface": "nikhanet",
+     "gloss": "buried",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√khan"
+    },
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "present third singular passive",
+     "morph": "3.sg.pass.pres.√mṛ"
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samutthāne",
+     "gloss": "when-removed",
+     "grounds": "locative absolute",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√bhū"
+    }
+   ],
+   "question": "What happens to the enemy when the buried item is removed?",
+   "premises": [
+    "the enemy dies while it is buried",
+    "when it is removed the enemy becomes happy",
+    "removal reverses the effect"
+   ],
+   "inference": "Removing the buried item restores the enemy's wellbeing.",
+   "uncertainties": [],
+   "plain_english": "The enemy dies while it is buried; when removed, the enemy becomes happy."
+  },
+  {
+   "verse": 858,
+   "rows": [
+    {
+     "surface": "śara+agre",
+     "gloss": "at-arrow-tip",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "phalakaṃ",
+     "gloss": "board",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√kṛ"
+    },
+    {
+     "surface": "dhanuṣaḥ",
+     "gloss": "of-bow",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "citraka+indhanaiḥ",
+     "gloss": "with-citraka-wood",
+     "grounds": "compound instrumental plural",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How is the board at the arrow tip made?",
+   "premises": [
+    "a board is made at the arrow tip",
+    "it is made from bow wood",
+    "citraka wood is used"
+   ],
+   "inference": "The arrow-tip board is made with citraka wood from the bow.",
+   "uncertainties": [],
+   "plain_english": "Make a board at the arrow tip from bow wood using citraka wood."
+  },
+  {
+   "verse": 859,
+   "rows": [
+    {
+     "surface": "tat+vat",
+     "gloss": "with-that",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātena",
+     "gloss": "produced",
+     "grounds": "past participle instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bāṇena",
+     "gloss": "by-arrow",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "present third singular passive",
+     "morph": "3.sg.pass.pres.√mṛ"
+    },
+    {
+     "surface": "tat+kṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the effect of the arrow produced in that manner?",
+   "premises": [
+    "the arrow is produced with that method",
+    "the enemy dies by that arrow",
+    "death occurs at that moment"
+   ],
+   "inference": "The enemy dies instantly from that arrow.",
+   "uncertainties": [],
+   "plain_english": "By that arrow the enemy dies at that very moment."
+  },
+  {
+   "verse": 860,
+   "rows": [
+    {
+     "surface": "nikhanet",
+     "gloss": "buried",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√khan"
+    },
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "present third singular passive",
+     "morph": "3.sg.pass.pres.√mṛ"
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uddhṛte",
+     "gloss": "when-removed",
+     "grounds": "locative absolute",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to the enemy when the buried item is removed again?",
+   "premises": [
+    "the enemy dies while it is buried",
+    "when it is removed again the enemy becomes happy",
+    "removal reverses the effect"
+   ],
+   "inference": "Removing the buried item again restores the enemy's happiness.",
+   "uncertainties": [],
+   "plain_english": "The enemy dies while it is buried; when removed again, the enemy becomes happy."
+  },
+  {
+   "verse": 861,
+   "rows": [
+    {
+     "surface": "śatroḥ+gehe",
+     "gloss": "in-enemy-house",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "abs.√sthā"
+    },
+    {
+     "surface": "ripoḥ",
+     "gloss": "of-enemy",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāśaḥ",
+     "gloss": "destruction",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future third singular",
+     "morph": "3.sg.act.fut.√bhū"
+    }
+   ],
+   "question": "What follows from placing the item in the enemy's house?",
+   "premises": [
+    "it is placed in the enemy's house",
+    "the enemy's destruction will be",
+    "the result is future destruction"
+   ],
+   "inference": "Placing it in the enemy's house destroys the enemy.",
+   "uncertainties": [],
+   "plain_english": "Having placed it in the enemy's house, the enemy will be destroyed."
+  },
+  {
+   "verse": 862,
+   "rows": [
+    {
+     "surface": "viddhaḥ",
+     "gloss": "pierced",
+     "grounds": "past participle nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√as"
+    },
+    {
+     "surface": "tat+kṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proñchite",
+     "gloss": "when-wiped-away",
+     "grounds": "locative absolute",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhaṃ",
+     "gloss": "auspicious",
+     "grounds": "nominative singular adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√bhū"
+    }
+   ],
+   "question": "What happens when the pierced mark is wiped away?",
+   "premises": [
+    "piercing occurs at that moment",
+    "when it is wiped away the result becomes auspicious",
+    "wiping reverses the effect"
+   ],
+   "inference": "Wiping away the mark makes the outcome auspicious.",
+   "uncertainties": [],
+   "plain_english": "It is pierced at that moment; when wiped away, the result becomes auspicious."
+  },
+  {
+   "verse": 863,
+   "rows": [
+    {
+     "surface": "kṛṣṇa+chāga+aśva+pādasya",
+     "gloss": "of-black-goat-horse-foot",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "khura+sthaṃ",
+     "gloss": "in-hoof-situated",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "romakaṃ",
+     "gloss": "hair",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "one-should-take",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√hṛ"
+    }
+   ],
+   "question": "What hair should be taken from the black goat horse foot?",
+   "premises": [
+    "the source is a black goat horse foot",
+    "the hair is situated in the hoof",
+    "one should take that hair"
+   ],
+   "inference": "The hoof hair from that foot is to be taken.",
+   "uncertainties": [],
+   "plain_english": "Take the hair situated in the hoof of a black goat horse foot."
+  },
+  {
+   "verse": 864,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dagdhvā",
+     "gloss": "having-burnt",
+     "grounds": "absolutive",
+     "morph": "abs.√dah"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṇḍa+antaḥ",
+     "gloss": "inside-vessel",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tat+bhasma",
+     "gloss": "that-ash",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jala+saṃyutam",
+     "gloss": "water-mixed",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the burnt material prepared after burning?",
+   "premises": [
+    "all is burnt",
+    "the ash is inside a vessel",
+    "the ash is mixed with water"
+   ],
+   "inference": "The burnt ash is kept in a vessel and mixed with water.",
+   "uncertainties": [],
+   "plain_english": "Having burnt all, keep that ash in a vessel mixed with water."
+  },
+  {
+   "verse": 865,
+   "rows": [
+    {
+     "surface": "yaṃ",
+     "gloss": "whose",
+     "grounds": "relative accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "namyate",
+     "gloss": "is-bowed",
+     "grounds": "present third singular passive",
+     "morph": "3.sg.pass.pres.√nam"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "demonstrative genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vedhaḥ",
+     "gloss": "piercing",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.pres.√bhū"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certainly happens to the person whose head is bowed?",
+   "premises": [
+    "the head is bowed",
+    "piercing becomes for that person",
+    "the result is certain"
+   ],
+   "inference": "The person whose head is bowed is certainly pierced.",
+   "uncertainties": [],
+   "plain_english": "For whoever's head is bowed, piercing certainly occurs."
+  },
+  {
+   "verse": 866,
+   "rows": [
+    {
+     "surface": "mayūra+puccha+nīla+abjaṃ",
+     "gloss": "peacock-feather-blue-lotus",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "absolutive",
+     "morph": "abs.√piṣ"
+    },
+    {
+     "surface": "lepaiḥ",
+     "gloss": "with-ointments",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sukha+āvaham",
+     "gloss": "happiness-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the effect of the ground peacock-feather blue-lotus ointment?",
+   "premises": [
+    "peacock feather blue lotus is ground",
+    "it is used with ointments",
+    "it is happiness-giving"
+   ],
+   "inference": "The ointment gives happiness.",
+   "uncertainties": [],
+   "plain_english": "Ground peacock-feather blue lotus, used as an ointment, gives happiness."
+  },
+  {
+   "verse": 867,
+   "rows": [
+    {
+     "surface": "ripu+viṣṭhāṃ",
+     "gloss": "enemy-excrement",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vṛścikaṃ",
+     "gloss": "scorpion",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khanitvā",
+     "gloss": "having-buried",
+     "grounds": "absolutive",
+     "morph": "abs.√khan"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "in-earth",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "niḥkṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√kṣip"
+    }
+   ],
+   "question": "What should be buried in the earth along with enemy excrement?",
+   "premises": [
+    "enemy excrement is named",
+    "a scorpion is named",
+    "both are buried in the earth"
+   ],
+   "inference": "Enemy excrement and a scorpion are buried in the earth.",
+   "uncertainties": [],
+   "plain_english": "Bury enemy excrement and a scorpion in the earth."
+  },
+  {
+   "verse": 868,
+   "rows": [
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "present third singular passive",
+     "morph": "3.sg.pass.pres.√mṛ"
+    },
+    {
+     "surface": "mala+rodhena",
+     "gloss": "by-feces-obstruction",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "uddhṛte",
+     "gloss": "when-removed",
+     "grounds": "locative absolute",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens when the feces obstruction is removed?",
+   "premises": [
+    "death occurs by feces obstruction",
+    "when it is removed the person becomes happy again",
+    "removal reverses the effect"
+   ],
+   "inference": "Removing the obstruction restores happiness.",
+   "uncertainties": [],
+   "plain_english": "One dies by feces obstruction; when removed, one becomes happy again."
+  },
+  {
+   "verse": 869,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaḥ",
+     "gloss": "kṣaḥ",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amukaṃ",
+     "gloss": "so-and-so",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣam",
+     "gloss": "kṣam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anena+mantreṇa",
+     "gloss": "by-this-mantra",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rājikā+lavaṇa+śiva+nirmālyāni",
+     "gloss": "mustard-salt-śiva-remnants",
+     "grounds": "compound accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kaṭu+tailena",
+     "gloss": "with-pungent-oil",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sahasra+homāt",
+     "gloss": "by-thousand-oblations",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vadhaḥ",
+     "gloss": "killing",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What results from a thousand oblations with this mantra and materials?",
+   "premises": [
+    "the mantra includes oṃ hrīṃ kṣaḥ and kṣam",
+    "mustard salt śiva remnants and pungent oil are used",
+    "a thousand oblations kill the enemy"
+   ],
+   "inference": "A thousand oblations with this mantra kill the enemy.",
+   "uncertainties": [],
+   "plain_english": "With this mantra, a thousand oblations of mustard, salt, Śiva remnants, and pungent oil kill the enemy."
+  },
+  {
+   "verse": 870,
+   "rows": [
+    {
+     "surface": "takreṇa",
+     "gloss": "with-buttermilk",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kṣālayet",
+     "gloss": "one-should-wash",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√kṣal"
+    },
+    {
+     "surface": "cakṣuḥ",
+     "gloss": "eye",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "susthaḥ",
+     "gloss": "healthy",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.pres.√bhū"
+    },
+    {
+     "surface": "ghoṭakaḥ",
+     "gloss": "horse",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens when a horse's eye is washed with buttermilk?",
+   "premises": [
+    "the eye is washed with buttermilk",
+    "the horse becomes healthy",
+    "the result is health"
+   ],
+   "inference": "Washing the eye with buttermilk makes the horse healthy.",
+   "uncertainties": [],
+   "plain_english": "Wash the eye with buttermilk; the horse becomes healthy."
+  },
+  {
+   "verse": 871,
+   "rows": [
+    {
+     "surface": "susthaḥ",
+     "gloss": "healthy",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candana+pānena",
+     "gloss": "by-sandalwood-drink",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "nasyaṃ",
+     "gloss": "nasal-application",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive",
+     "morph": "abs.√prāp"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the effect of obtaining nasal application by sandalwood drink?",
+   "premises": [
+    "sandalwood drink is used",
+    "nasal application is obtained",
+    "health follows without doubt"
+   ],
+   "inference": "Obtaining nasal application by sandalwood drink brings certain health.",
+   "uncertainties": [],
+   "plain_english": "By sandalwood drink, obtaining nasal application, one becomes healthy without doubt."
+  },
+  {
+   "verse": 872,
+   "rows": [
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√khan"
+    },
+    {
+     "surface": "aśva+śālāyāṃ",
+     "gloss": "in-horse-stable",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mārayati",
+     "gloss": "kills",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.pres.√mṛ"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghoṭākān",
+     "gloss": "horses",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What happens when the item is buried in a horse stable?",
+   "premises": [
+    "it is buried in a horse stable",
+    "it indeed kills",
+    "horses are killed"
+   ],
+   "inference": "Burying it in a horse stable kills the horses.",
+   "uncertainties": [],
+   "plain_english": "Bury it in a horse stable; it indeed kills the horses."
+  },
+  {
+   "verse": 873,
+   "rows": [
+    {
+     "surface": "aṣṭa+aṃgulaṃ",
+     "gloss": "eight-fingers-long",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt.√khan"
+    },
+    {
+     "surface": "aśva+śālā",
+     "gloss": "horse-stable",
+     "grounds": "compound nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.pres.√naś"
+    }
+   ],
+   "question": "What happens when an eight-finger-long item is buried in a horse stable?",
+   "premises": [
+    "the item is eight fingers long",
+    "it is buried in a horse stable",
+    "the stable is destroyed"
+   ],
+   "inference": "Burying the eight-finger-long item destroys the horse stable.",
+   "uncertainties": [],
+   "plain_english": "Bury the eight-finger-long item in the horse stable; the stable is destroyed."
+  },
+  {
+   "verse": 874,
+   "rows": [
+    {
+     "surface": "śata+abhimantritaṃ",
+     "gloss": "hundred-times-consecrated",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣetre",
+     "gloss": "in-field",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sasyaṃ",
+     "gloss": "crop",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.pres.√naś"
+    }
+   ],
+   "question": "What happens to the crop when a hundred-times-consecrated item is placed in the field?",
+   "premises": [
+    "the item is hundred-times consecrated",
+    "it is in the field",
+    "the crop there is destroyed"
+   ],
+   "inference": "The crop in that field is destroyed.",
+   "uncertainties": [],
+   "plain_english": "A hundred-times-consecrated item in the field destroys the crop there."
+  }
+ ]
+}

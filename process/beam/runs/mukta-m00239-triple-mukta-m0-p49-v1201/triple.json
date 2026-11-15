@@ -1,0 +1,1391 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1201,
+   "rows": [
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsukinā",
+     "gloss": "by-vāsuki",
+     "grounds": "instrumental agent",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "daṣṭāḥ",
+     "gloss": "bitten",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt-pā"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ghṛta",
+     "gloss": "ghee",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ānvitam",
+     "gloss": "mixed-with",
+     "grounds": "compound participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What remedy should one drink after being bitten by Vāsuki?",
+   "premises": [
+    "Vāsuki-bitten person drinks curd mixed with ghee"
+   ],
+   "inference": "The verse prescribes curd and ghee as the remedy.",
+   "uncertainties": [
+    "exact grammatical number of daṣṭāḥ"
+   ],
+   "plain_english": "Even one bitten by Vāsuki should drink curd mixed with ghee."
+  },
+  {
+   "verse": 1202,
+   "rows": [
+    {
+     "surface": "takṣakeṇa",
+     "gloss": "by-takṣaka",
+     "grounds": "instrumental agent",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṣṭasya",
+     "gloss": "of-bitten",
+     "grounds": "genitive participle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nirviṣaṃ",
+     "gloss": "poisonless",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "present",
+     "morph": "3.sg.mid.pres-kṛ"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does Takṣaka's bite become through this remedy?",
+   "premises": [
+    "Takṣaka-bitten person is made poisonless certainly"
+   ],
+   "inference": "The remedy renders the bite harmless.",
+   "uncertainties": [
+    "subject of kurute implicit"
+   ],
+   "plain_english": "Even one bitten by Takṣaka is certainly made poisonless."
+  },
+  {
+   "verse": 1203,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrumental pronoun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental noun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ukta",
+     "gloss": "mentioned",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yogān",
+     "gloss": "preparations",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "should-consecrate",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt-mantr"
+    }
+   ],
+   "question": "How should the mentioned preparations be consecrated?",
+   "premises": [
+    "With this mantra mentioned preparations should be consecrated"
+   ],
+   "inference": "The mantra consecrates the preparations.",
+   "uncertainties": [
+    "yogān scope"
+   ],
+   "plain_english": "With this mantra one should consecrate the mentioned preparations."
+  },
+  {
+   "verse": 1204,
+   "rows": [
+    {
+     "surface": "payasā",
+     "gloss": "with-milk",
+     "grounds": "instrumental",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "blood",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gaṃ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "present",
+     "morph": "3.sg.act.pres-han"
+    },
+    {
+     "surface": "māṃsa",
+     "gloss": "flesh",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gaṃ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṣṭha",
+     "gloss": "with-kuṣṭha",
+     "grounds": "instrumental noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "cūrṇataḥ",
+     "gloss": "powder",
+     "grounds": "ablative",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What does milk destroy when blood and flesh are gone?",
+   "premises": [
+    "Milk destroys blood-gone and flesh-gone conditions with kuṣṭha powder"
+   ],
+   "inference": "Milk with kuṣṭha powder destroys the affected states.",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "With milk it destroys blood-gone and flesh-gone conditions, with kuṣṭha powder."
+  },
+  {
+   "verse": 1205,
+   "rows": [
+    {
+     "surface": "śukra",
+     "gloss": "semen",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gaṃ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "present",
+     "morph": "3.sg.act.pres-han"
+    },
+    {
+     "surface": "lauhityaṃ",
+     "gloss": "redness",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyā",
+     "gloss": "should-be-given",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aparājitā",
+     "gloss": "aparājitā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What should be given because redness is destroyed?",
+   "premises": [
+    "It destroys semen-gone redness therefore aparājitā should be given"
+   ],
+   "inference": "Aparājitā is the prescribed remedy.",
+   "uncertainties": [
+    "exact referent of deyā"
+   ],
+   "plain_english": "It destroys semen-gone redness; therefore aparājitā should be given."
+  },
+  {
+   "verse": 1206,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sarvaiḥ",
+     "gloss": "by-all",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "viṣa",
+     "gloss": "poison",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kīṭa",
+     "gloss": "insect",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādyaiḥ",
+     "gloss": "etc",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "bhakṣyamāṇaḥ",
+     "gloss": "being-eaten",
+     "grounds": "passive participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bādhyate",
+     "gloss": "is-harmed",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres-bādh"
+    }
+   ],
+   "question": "Is one harmed when eaten by all poison insects etc?",
+   "premises": [
+    "By that all poison insect etc being eaten one is not harmed"
+   ],
+   "inference": "The remedy protects from harm.",
+   "uncertainties": [
+    "tat referent"
+   ],
+   "plain_english": "By that, when eaten by all poison insects and the like, one is not harmed."
+  },
+  {
+   "verse": 1207,
+   "rows": [
+    {
+     "surface": "lepaḥ",
+     "gloss": "ointment",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "with-ear",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "malena",
+     "gloss": "wax",
+     "grounds": "instrumental noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṛ",
+     "gloss": "with-human",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūtraiḥ",
+     "gloss": "urine",
+     "grounds": "instrumental plural",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "secanena",
+     "gloss": "by-sprinkling",
+     "grounds": "instrumental noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ointment or sprinkling remedies are mentioned?",
+   "premises": [
+    "Ointment with ear wax even or sprinkling with human urine"
+   ],
+   "inference": "Ear wax ointment or human urine sprinkling is used.",
+   "uncertainties": [
+    "syntax of api"
+   ],
+   "plain_english": "Ointment with ear wax, or sprinkling with human urine."
+  },
+  {
+   "verse": 1208,
+   "rows": [
+    {
+     "surface": "varāha",
+     "gloss": "varāha",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karṇikā",
+     "gloss": "karṇikā",
+     "grounds": "compound member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "on-hand",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "baddhaṃ",
+     "gloss": "tied",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣa",
+     "gloss": "poison",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "apaham",
+     "gloss": "removing",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What root tied on the hand removes poison?",
+   "premises": [
+    "Varāha karṇikā root tied on hand removes poison"
+   ],
+   "inference": "The root is an amulet against poison.",
+   "uncertainties": [
+    "compound varāha-karṇikā"
+   ],
+   "plain_english": "Varāha karṇikā root tied on the hand removes poison."
+  },
+  {
+   "verse": 1209,
+   "rows": [
+    {
+     "surface": "bhāvitaṃ",
+     "gloss": "impregnated",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarpa",
+     "gloss": "of-snake",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "daṣṭānāṃ",
+     "gloss": "bitten",
+     "grounds": "genitive participle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pāne",
+     "gloss": "in-drinking",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nasye",
+     "gloss": "in-nasal-application",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "añjane",
+     "gloss": "in-collyrium",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hitam",
+     "gloss": "beneficial",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For whom is the impregnated remedy beneficial?",
+   "premises": [
+    "Impregnated remedy beneficial in drinking nasal application collyrium for snake-bitten"
+   ],
+   "inference": "It is used in multiple applications for snake bite.",
+   "uncertainties": [
+    "bhāvitaṃ object"
+   ],
+   "plain_english": "Impregnated, it is beneficial in drinking, nasal application, and collyrium for the snake-bitten."
+  },
+  {
+   "verse": 1210,
+   "rows": [
+    {
+     "surface": "mūlāni",
+     "gloss": "roots",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "with-water",
+     "grounds": "instrumental noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "gerund",
+     "morph": "absolutive-piṣ"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "death",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daṣṭa",
+     "gloss": "bitten",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haraṃ",
+     "gloss": "removing",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt-pā"
+    }
+   ],
+   "question": "What should one drink after grinding roots with water?",
+   "premises": [
+    "Roots ground with water removing death-bitten should be drunk"
+   ],
+   "inference": "The drink removes fatal snake bite.",
+   "uncertainties": [
+    "kāla-daṣṭa compound"
+   ],
+   "plain_english": "Having ground roots with water, one should drink the death-bite-removing remedy."
+  },
+  {
+   "verse": 1211,
+   "rows": [
+    {
+     "surface": "sthāvaraṃ",
+     "gloss": "stationary",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt-dā"
+    },
+    {
+     "surface": "daṣṭaḥ",
+     "gloss": "bitten",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daṣṭena",
+     "gloss": "by-bitten",
+     "grounds": "instrumental participle",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "hanyate",
+     "gloss": "is-killed",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres-han"
+    }
+   ],
+   "question": "What happens if stationary poison is given to the bitten?",
+   "premises": [
+    "Stationary poison should be given bitten by bitten is killed"
+   ],
+   "inference": "Giving stationary poison kills the biter.",
+   "uncertainties": [
+    "daṣṭaḥ/daṣṭena relation"
+   ],
+   "plain_english": "But stationary poison should be given; the bitten kills the biter."
+  },
+  {
+   "verse": 1212,
+   "rows": [
+    {
+     "surface": "tuṇḍa",
+     "gloss": "at-beak",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "tip",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "piśitaṃ",
+     "gloss": "flesh",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "gerund",
+     "morph": "absolutive-bhuj"
+    },
+    {
+     "surface": "bahuśaḥ",
+     "gloss": "many-times",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "daṃśitaḥ",
+     "gloss": "bitten",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does one become bitten after eating flesh at the beak tip?",
+   "premises": [
+    "Having eaten flesh at beak tip many times by that bitten"
+   ],
+   "inference": "Repeated eating at the beak tip leads to being bitten.",
+   "uncertainties": [
+    "tena referent"
+   ],
+   "plain_english": "Having eaten flesh at the beak tip many times, one is bitten by that."
+  },
+  {
+   "verse": 1213,
+   "rows": [
+    {
+     "surface": "aśakya",
+     "gloss": "impossible",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "magadaiḥ",
+     "gloss": "with-antidotes",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "with-others",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "viṣeṇa",
+     "gloss": "with-poison",
+     "grounds": "instrumental noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cikitsayet",
+     "gloss": "should-treat",
+     "grounds": "causative optative",
+     "morph": "3.sg.act.opt-cikits"
+    }
+   ],
+   "question": "How should an impossible case be treated?",
+   "premises": [
+    "Impossible with antidotes others with poison alone should treat"
+   ],
+   "inference": "When antidotes fail, treat with poison alone.",
+   "uncertainties": [
+    "aśakya subject"
+   ],
+   "plain_english": "When impossible with other antidotes, treat with poison alone."
+  },
+  {
+   "verse": 1214,
+   "rows": [
+    {
+     "surface": "viṣeṇa",
+     "gloss": "with-poison",
+     "grounds": "instrumental noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "lepayet",
+     "gloss": "should-anoint",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt-lip"
+    },
+    {
+     "surface": "daṃśaṃ",
+     "gloss": "bite",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "death",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daṣṭaḥ",
+     "gloss": "bitten",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "present",
+     "morph": "3.sg.act.pres-jīv"
+    }
+   ],
+   "question": "What happens if the bite is anointed with poison?",
+   "premises": [
+    "With poison should anoint bite death-bitten even lives"
+   ],
+   "inference": "Anointing with poison saves even a fatally bitten person.",
+   "uncertainties": [
+    "kāla-daṣṭaḥ compound"
+   ],
+   "plain_english": "Anoint the bite with poison; even one fatally bitten lives."
+  },
+  {
+   "verse": 1215,
+   "rows": [
+    {
+     "surface": "daṃśe",
+     "gloss": "at-bite",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśaṃ",
+     "gloss": "place",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mṛtasya",
+     "gloss": "of-dead",
+     "grounds": "genitive participle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṣṭaḥ",
+     "gloss": "bitten",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "present",
+     "morph": "3.sg.act.pres-jīv"
+    },
+    {
+     "surface": "tat",
+     "gloss": "at-that",
+     "grounds": "locative pronoun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "moment",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Can a bitten person live at the place of a dead one?",
+   "premises": [
+    "At bite place of dead even bitten lives at that moment"
+   ],
+   "inference": "Life is restored at that moment.",
+   "uncertainties": [
+    "deśaṃ mṛtasya syntax"
+   ],
+   "plain_english": "At the bite-place of the dead, even the bitten lives at that moment."
+  },
+  {
+   "verse": 1216,
+   "rows": [
+    {
+     "surface": "muktaḥ",
+     "gloss": "released",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres-mṛ"
+    },
+    {
+     "surface": "sarpaḥ",
+     "gloss": "snake",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirviṣa",
+     "gloss": "poisonlessness",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "state",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "attains",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt-vraj"
+    }
+   ],
+   "question": "What happens to the released snake?",
+   "premises": [
+    "Released this dies snake by itself poisonlessness state attains"
+   ],
+   "inference": "The snake dies and attains poisonlessness.",
+   "uncertainties": [
+    "muktaḥ referent"
+   ],
+   "plain_english": "Released, this snake dies by itself and attains the state of poisonlessness."
+  },
+  {
+   "verse": 1217,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dantaiḥ",
+     "gloss": "with-teeth",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sarpa",
+     "gloss": "with-snake",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvena",
+     "gloss": "nature",
+     "grounds": "instrumental noun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "should-eat",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt-bhakṣ"
+    }
+   ],
+   "question": "What fruit should be eaten with teeth in snake nature?",
+   "premises": [
+    "Whatever or that or fruit with teeth snake nature should eat"
+   ],
+   "inference": "One should eat the fruit with teeth in snake nature.",
+   "uncertainties": [
+    "yat vā tat vā syntax"
+   ],
+   "plain_english": "Whatever or that fruit should be eaten with teeth in snake nature."
+  },
+  {
+   "verse": 1218,
+   "rows": [
+    {
+     "surface": "sarpa",
+     "gloss": "in-snake",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāve",
+     "gloss": "nature",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kramate",
+     "gloss": "spreads",
+     "grounds": "present",
+     "morph": "3.sg.act.pres-kram"
+    },
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does poison spread in snake nature?",
+   "premises": [
+    "In snake nature no doubt not of him spreads poison"
+   ],
+   "inference": "There is no doubt and poison does not spread.",
+   "uncertainties": [
+    "tasya referent"
+   ],
+   "plain_english": "In snake nature there is no doubt; his poison does not spread."
+  },
+  {
+   "verse": 1219,
+   "rows": [
+    {
+     "surface": "atyanta",
+     "gloss": "extremely",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣa",
+     "gloss": "poison",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "application",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ārttaṃ",
+     "gloss": "afflicted",
+     "grounds": "accusative participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jala",
+     "gloss": "in-water",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "should-throw",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt-vikṣip"
+    }
+   ],
+   "question": "Where should the extremely afflicted be thrown?",
+   "premises": [
+    "Extremely poison application afflicted in water middle should throw"
+   ],
+   "inference": "Throw the afflicted into water.",
+   "uncertainties": [
+    "compound atyanta-viṣa-yoga"
+   ],
+   "plain_english": "One extremely afflicted by poison application should be thrown into the middle of water."
+  },
+  {
+   "verse": 1220,
+   "rows": [
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "nominative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "present",
+     "morph": "3.sg.act.pres-yā"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrī",
+     "gloss": "servant",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yamasya",
+     "gloss": "of-yama",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where does he go quickly?",
+   "premises": [
+    "In place there he indeed goes certainly servant of Yama quickly"
+   ],
+   "inference": "He quickly becomes Yama's servant.",
+   "uncertainties": [
+    "sthāne referent"
+   ],
+   "plain_english": "There in that place he indeed goes, certainly becoming Yama's servant quickly."
+  },
+  {
+   "verse": 1221,
+   "rows": [
+    {
+     "surface": "bhramāt",
+     "gloss": "from-confusion",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśate",
+     "gloss": "bites",
+     "grounds": "present",
+     "morph": "3.sg.act.pres-daṃś"
+    },
+    {
+     "surface": "sarpaḥ",
+     "gloss": "snake",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarpaḥ",
+     "gloss": "snake",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "present",
+     "morph": "3.sg.act.pres-vinaś"
+    }
+   ],
+   "question": "What happens when a snake bites from confusion?",
+   "premises": [
+    "From confusion or bites snake then snake perishes"
+   ],
+   "inference": "The snake perishes.",
+   "uncertainties": [
+    "bhramāt vā syntax"
+   ],
+   "plain_english": "From confusion, or when a snake bites, then the snake perishes."
+  },
+  {
+   "verse": 1222,
+   "rows": [
+    {
+     "surface": "puṣye",
+     "gloss": "in-puṣya",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arka",
+     "gloss": "arka",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṣāmbu",
+     "gloss": "varṣāmbu",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūlakam",
+     "gloss": "root",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What roots are mentioned in Puṣya?",
+   "premises": [
+    "In Puṣya white arka root but white varṣāmbu root"
+   ],
+   "inference": "Two white roots are named.",
+   "uncertainties": [
+    "varṣāmbu meaning"
+   ],
+   "plain_english": "In Puṣya, white arka root, but white varṣāmbu root."
+  },
+  {
+   "verse": 1223,
+   "rows": [
+    {
+     "surface": "sarpa",
+     "gloss": "snake",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhīti",
+     "gloss": "fear",
+     "grounds": "compound member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vināśa",
+     "gloss": "destruction",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arthaṃ",
+     "gloss": "for-sake",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "every",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvatsaraṃ",
+     "gloss": "year",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "naraiḥ",
+     "gloss": "by-men",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "For what purpose do men act every year?",
+   "premises": [
+    "Snake fear destruction for sake every year by men"
+   ],
+   "inference": "Men act yearly to destroy snake fear.",
+   "uncertainties": [
+    "action verb omitted"
+   ],
+   "plain_english": "For the destruction of snake fear, every year by men."
+  },
+  {
+   "verse": 1224,
+   "rows": [
+    {
+     "surface": "ati",
+     "gloss": "with-great",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "roṣa",
+     "gloss": "anger",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anvitaḥ",
+     "gloss": "endowed",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "takṣakaḥ",
+     "gloss": "takṣaka",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kariṣyati",
+     "gloss": "will-do",
+     "grounds": "future",
+     "morph": "3.sg.act.fut-kṛ"
+    }
+   ],
+   "question": "What will Takṣaka do to one endowed with great anger?",
+   "premises": [
+    "With great anger endowed of him Takṣaka what will do"
+   ],
+   "inference": "The verse asks Takṣaka's action.",
+   "uncertainties": [
+    "tasya referent"
+   ],
+   "plain_english": "Endowed with great anger, what will Takṣaka do to him?"
+  }
+ ]
+}

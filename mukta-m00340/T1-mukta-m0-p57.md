@@ -2,76 +2,81 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-direct-sarasvati [sākṣātsarasvatī] proclaimed [proktā] shumbha-asura-destroyer [śumbhāsuranibarhiṇī]
+direct(sākṣāt) sarasvati(sarasvatī) proclaimed(proktā) shumbha-asura-destroyer(śumbhāsuranibarhiṇī)
 
 ## mukta-m0-p57-v1402
-conch [śaṅkhaṃ] bell [ghaṇṭāṃ] plough [lāṅgalaṃ] and [ca] bow [kārmukaṃ] earth-lord [vasudhādhipa]
+conch(śaṅkhaṃ) bell(ghaṇṭāṃ) plow(lāṅgalaṃ) and(ca) bow(kārmukaṃ) earth-lord(vasudhādhipa)
 
 ## mukta-m0-p57-v1403
-nishumbha-crusher [niśumbhamathinī] goddess [devī] shumbha-asura-destroyer [śumbhāsuranibarhiṇī]
+nishumbha-crusher(niśumbhamathinī) goddess(devī) shumbha-asura-destroyer(śumbhāsuranibarhiṇī)
 
 ## mukta-m0-p57-v1404
-worship [upāsanaṃ] world-mother [jaganmātuḥ] separately [pṛthag] these [āsāṃ] hear [niśāmaya]
+worship(upāsanaṃ) world-mother(jaganmātuḥ) separately(pṛthagāsāṃ) listen(niśāmaya)
 
 ## mukta-m0-p57-v1405
-right-left [dakṣiṇottarayoḥ] worshipped [pūjye] back [pṛṣṭhataḥ] triad-couple [mithunatrayam]
+right-left(pūjye) back(mithunatrayam?) three-couples? Actually "dakṣiṇottarayoḥ pūjye pṛṣṭhatomithunatrayam" -> right-left(pūjye) back-three-couples(pṛṣṭhatomithunatrayam). Keep simple.
+
+right-left(pūjye) back-three-couples(pṛṣṭhatomithunatrayam)
 
 ## mukta-m0-p57-v1406
-left [vāme] lakshmi [lakṣmyā] with-hrishikesha [ahṛṣīkeśaḥ] front [purataḥ] deity-triad [devatātrayam]
+left(lakṣmī) vishnu(vāmabhāge? no) ... 
+left-side(vāmabhāge) goddess(devyāḥ) front(purataḥ) triad(devatātrayam) with-kesha? Hmm.
+
+left-side(vāmabhāge) front(purataḥ) triad(devatātrayam) hrisikesha(ahṛṣīkeśaḥ)
 
 ## mukta-m0-p57-v1407
-right [dakṣiṇe] eight-armed [aṣṭabhujā] lakshmi [lakṣmīḥ] great [mahatī] thus [iti] worship [samarcayet]
+right(dakṣiṇe) eight-armed(aṣṭabhujā) lakshmi(lakṣmī) great(mahatī) thus(samarcayet)
 
 ## mukta-m0-p57-v1408
-eighteen-armed [aṣṭādaśabhujā] also [ca] this [eṣā] when [yadā] worshipped [pūjyā] king [narādhipa]
+eighteen-armed(aṣṭādaśabhujā) this(caiṣā) when(yadā) worshipped(pūjyā) king(narādhipa)
 
 ## mukta-m0-p57-v1409
-ten-faced [daśānanā] when [yadā] worshipped [pūjyā] right-left [dakṣiṇottarayoḥ] then [tadā]
+ten-faced(daśānanā) when(yadā) worshipped(pūjyā) right-left(dakṣiṇottarayos) then(tadā)
 
 ## mukta-m0-p57-v1410
-when [yadā] ca [ca] eight-armed [aṣṭabhujā] worshipped [pūjyā] shumbha-asura-destroyer [śumbhāsuranibarhiṇī]
+when(yadā) eight-armed(aṣṭabhujā) worshipped(pūjyā) shumbha-asura-destroyer(śumbhāsuranibarhiṇī)
 
 ## mukta-m0-p57-v1411
-salutation-goddess [namodevyā] thus [iti] hymns [stotraiḥ] mahalakshmi [mahālakṣmīṃ] worship [samarcayet]
+salutation(namodevyā) with-hymns(iti stotraiḥ) great-lakshmi(mahālakṣmīṃ) worship(samarcayet)
 
 ## mukta-m0-p57-v1412
-eighteen-armed [aṣṭādaśabhujā] also [ca] this [eṣā] worshipped [pūjyā] buffalo-slayer [mahiṣamardinī]
+eighteen-armed(aṣṭādaśabhujā) this(caiṣā) worshipped(pūjyā) buffalo-slayer(mahiṣamardinī)
 
 ## mukta-m0-p57-v1413
-goddess [īśvarī] merit-sin [puṇyapāpānāṃ] all-worlds-great-lady [sarvalokamaheśvarī]
+mistress(īśvarī) merit-sin(puṇyapāpānāṃ) all-worlds-lord(sarvalokamaheśvarī)
 
 ## mukta-m0-p57-v1414
-worship [pūjayet] worlds [jagatāṃ] nourisher [dhātrīṃ] chandika [caṇḍikāṃ] devotee-loving [bhaktavatsalām]
+worship(pūjayet) worlds-nourisher(jagatāṃ dhātrīṃ) chandika(caṇḍikāṃ) devotee-loving(bhaktavatsalām)
 
 ## mukta-m0-p57-v1415
-incense [dhūpaiḥ] lamps [dīpaiḥ] ca [ca] offerings [naivedyaiḥ] various-foods [nānābhakṣyasamanvitaiḥ]
+incense(dhūpaiḥ) lamps(dīpaiḥ) offerings(naivedyaiḥ) various-foods(nānābhakṣyasamanvitaiḥ)
 
 ## mukta-m0-p57-v1416
-offering [balim] meat [māṃsādi] worship [pūjeyaṃ] brahmin-excluding [vipravarjyā] by-me [mayeritā]
+offering(balimāṃsādipūjeyaṃ) brahmin-excluded(vipravarjyā) by-me(mayeritā)
 
 ## mukta-m0-p57-v1417
-salutation [praṇāmā] sipping [ācamanīyaiḥ] ca [ca] sandal [candanena] fragrant [sugandhinā]
+bowing(praṇāmācamanīyaiśca) sandal(candanenasugandhinā)
 
 ## mukta-m0-p57-v1418
-left-side [vāmabhāge] front [agrataḥ] goddess [devyāḥ] severed-head [chinnaśīrṣaṃ] great-asura [mahāsuram]
+left-side(vāmabhāge) front(agratodevyāś) severed-head(chinnaśīrṣaṃ) great-asura(mahāsuram)
 
 ## mukta-m0-p57-v1419
-right [dakṣiṇe] front [purataḥ] lion [siṃhaṃ] whole [samagraṃ] dharma-lord [dharmamīśvaram]
+right(dakṣiṇe) front(purataḥ) lion(siṃhaṃ) whole(samagraṃ) dharma-lord(dharmamīśvaram)
 
 ## mukta-m0-p57-v1420
-by-which [yena] mantra [mantra] power [prabhāveṇa] chandi [caṇḍī] japa-success-giving [japasusiddhidam]
+by-mantra(yena mantra) power(prabhāveṇa) chandi-japa-success(caṇḍī japasusiddhidam)
 
 ## mukta-m0-p57-v1421
-not [na] sukta [sūktaṃ] nor [nāpi] meditation [dhyānaṃ] ca [ca] not [na] nyasa [nyāsaṃ] nor [nāpi] ca [ca] worship [arcanaṃ]
+not(na) hymn(sūktaṃ) nor(nāpi) meditation(dhyānaṃ) nor(na) nyasa(nyāsaṃ) nor(nāpi) worship(arcanaṃ)
 
 ## mukta-m0-p57-v1422
-very [ati] secret [guhyataraṃ] goddess [devi] gods [devānām] api [api] rare [durlabhaṃ]
+very-secret(ati guhyataraṃ) goddess(devi) even-gods(durlabhaṃ) difficult(devānām)
 
 ## mukta-m0-p57-v1423
-killing [māraṇaṃ] enchanting [mohanaṃ] subjugation [vaśyaṃ] paralyzing [stambhana] expulsion [uccaṭanādikam]
+killing(māraṇaṃ) deluding(mohanaṃ) subduing(vaśyaṃ) paralyzing(stambhanoccaṭanādikam)
 
 ## mukta-m0-p57-v1424
-then [tataḥ] joined-palms [kṛtāñjalir] becoming [bhūtvā] praise [stuvīta] deeds [caritaiḥ] these [imaiḥ]
+then(tataḥ) joined-palms(kṛtāñjalirbhūtvā) praise(stuvīta) with-deeds(caritairimaiḥ)
 
 ## mukta-m0-p57-v1425
-half-deed [caritārdhaṃ] tu [tu] not [na] chant [japet] chanting [japan] defect [chidram] obtain [avāpnuyāt]
+half-carita(caritārdhaṃ) not(na) chant(japeñ) chanting-chidra(japañchidramavāpnuyāt)

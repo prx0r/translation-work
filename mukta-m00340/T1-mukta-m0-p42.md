@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[four-limbed-army-equipped](caturaṃgabalopetā) [went](yayuḥ) [weapons-raised](abhyudyatāyudhāḥ)
+[four-limbed+army+endowed](caturaṃgabalopetā) [went](yayur) [raised+weapons](abhyudyatāyudhāḥ)
 
 ## mukta-m0-p42-v1027
-[on-lion](siṃhasyopari) [on-mountain-lord-peak](śailendraśṛṅge) [great](mahati) [golden](kāñcane)
+[on-lion](siṃhasyopari) [mountain-lord+peak](śailendraśṛṅge) [great](mahati) [golden](kāñcane)
 
 ## mukta-m0-p42-v1028
-[drawn-bow-sword-holders](ākṛṣṭacāpāsidharāḥ) [and](tathā) [others](anye) [near-that-going](tatsamīpagāḥ)
+[drawn-bow+sword+bearers](ākṛṣṭacāpāsidharāḥ) [and](tathā) [others](anye) [near-that+goers](tatsamīpagāḥ)
 
 ## mukta-m0-p42-v1029
 [by-anger](kopena) [and](ca) [her](asyāḥ) [face](vadanaṃ) [ink-colored](masīvarṇam) [became](abhūt) [then](tadā)
 
 ## mukta-m0-p42-v1030
-[Kali](kālī) [fierce-faced](karālavadanā) [emerged](viniṣkrāntā) [sword-noose-bearing](sipāśinī)
+[Kali](kālī) [fierce-faced](karālavadanā) [emerged](viniṣkrāntā) [sword+noose+bearing](sipāśinī)
 
 ## mukta-m0-p42-v1031
-[leopard-skin-wearing](dvīpicarmaparīdhānā) [dry-flesh](śuṣkamāṃsā) [very-terrifying](atibhairavā)
+[tiger-skin+garmented](dvīpicarmaparīdhānā) [dry-flesh+very-terrifying](śuṣkamāṃsātibhairavā)
 
 ## mukta-m0-p42-v1032
-[sunken](nimagnā) [red-eyed](raktanayanā) [directions-filled-with-roar](nādāpūritadiṅmukhā)
+[sunken](nimagnā) [blood-eyed](raktanayanā) [sound+filled+direction+faced](nādāpūritadiṅmukhā)
 
 ## mukta-m0-p42-v1033
-[in-army](sainye) [there](tatra) [of-gods-enemies](surārīṇām) [devoured](abhakṣayata) [that-force](tadbalam)
+[in-army](sainye) [there](tatra) [of-demons](surārīṇām) [devoured](abhakṣayata) [that-force](tadbalam)
 
 ## mukta-m0-p42-v1034
-[taking](samādāya) [with-one-hand](ekahastena) [into-mouth](mukhe) [threw](cikṣepa) [elephants](vāraṇān)
+[taking+one+hand](samādāyaikahastena) [into-mouth](mukhe) [threw](cikṣepa) [elephants](vāraṇān)
 
 ## mukta-m0-p42-v1035
-[placing](nikṣipya) [in-mouth](vaktre) [with-teeth](daśanaiḥ) [chewing](carvayantī) [very-terrifyingly](atibhairavam)
+[placing](nikṣipya) [in-mouth](vaktre) [with-teeth](daśanaiḥ) [chewing+very-terrifying](carvayaṃtyatibhairavam)
 
 ## mukta-m0-p42-v1036
-[with-foot](pādena) [trampling](ākramya) [and](ca) [indeed](eva) [another](anyam) [with-chest](urasā) [another](anyam) [crushed](apothayat)
+[with-foot+trampling](pādenākramya) [and](ca) [eva](eva) [another](anyam) [with-chest](urasā) [another](anyam) [crushed](apothayat)
 
 ## mukta-m0-p42-v1037
-[with-mouth](mukhena) [seized](jagrāha) [in-anger](ruṣā) [with-teeth](daśanaiḥ) [crushed](mathitāni) [also](api)
+[with-mouth](mukhena) [seized](jagrāha) [in-anger](ruṣā) [with-teeth](daśanaiḥ) [crushed+others](mathitānyapi)
 
 ## mukta-m0-p42-v1038
-[crushed](mamarda) [devoured](abhakṣayat) [and](ca) [others](anyān) [others](anyān) [and](ca) [struck](atāḍayat) [thus](tathā)
+[crushed+devoured+and](mamardābhakṣayat) [ca](ca) [others](anyān) [others](anyāṁś) [ca](ca) [struck](atāḍayat) [thus](tathā)
 
 ## mukta-m0-p42-v1039
-[went](jagmuḥ) [to-destruction](vināśam) [demons](asurāḥ) [tusk-tip](dantāgra) [struck](abhihatāḥ) [thus](tathā)
+[went+destruction](jagmurvināśam) [demons](asurāḥ) [by-tusk-tips+struck](dantāgrābhihatāḥ) [thus](tathā)
 
 ## mukta-m0-p42-v1040
-[seeing](dṛṣṭvā) [Chanda](caṇḍaḥ) [ran-toward](abhidudrāva) [her](tām) [Kali](kālīm) [very-terrifying](atibhīṣaṇām)
+[seeing](dṛṣṭvā) [Canda](caṇḍaḥ) [ran-toward](abhidudrāva) [her](tāṃ) [Kali+very-terrifying](kālīmatibhīṣaṇām)
 
 ## mukta-m0-p42-v1041
-[covered](chādayāmāsa) [with-discs](cakraiḥ) [and](ca) [Munda](muṇḍaḥ) [thrown](kṣiptaiḥ) [by-thousands](sahasraśaḥ)
+[covered](chādayāmāsa) [with-discs](cakraiḥ) [ca](ca) [Munda](muṇḍaḥ) [thrown](kṣiptaiḥ) [thousands](sahasraśaḥ)
 
 ## mukta-m0-p42-v1042
-[appeared](babhuḥ) [like](yathā) [sun-discs](arkabimbāni) [very-many](subahūni) [cloud-belly](ghanodaram)
+[appeared+like+sun-discs](babhuryathārkabimbāni) [very-many](subahūni) [cloud+belly](ghanodaram)
 
 ## mukta-m0-p42-v1043
-[Kali](kālī) [within-fierce-mouth](karālavaktrāntar) [terrible-teeth](durdarśadaśana) [shining](ujjvalā)
+[Kali](kālī) [fierce+mouth+within+hard-to-see+tooth+blazing](karālavaktrāntardurdarśadaśanojjvalā)
 
 ## mukta-m0-p42-v1044
-[seizing](gṛhītvā) [and](ca) [his](asya) [by-hair](keśeṣu) [head](śiraḥ) [with-that](tena) [sword](asinā) [cut](acchinat)
+[seizing](gṛhītvā) [ca](ca) [his](asya) [by-hairs](keśeṣu) [head](śiraḥ) [with-that+sword](tenāsinā) [cut](acchinat)
 
 ## mukta-m0-p42-v1045
-[him](tam) [also](api) [threw-down](apātayat) [on-ground](bhūmau) [she](sā) [sword](khaḍga) [struck](abhihatam) [in-anger](ruṣā)
+[him+also](tamapi) [threw+ground](apātayatbhūmau) [she](sā) [by-sword+struck](khaḍgābhihataṃ) [in-anger](ruṣā)
 
 ## mukta-m0-p42-v1046
-[Munda](muṇḍam) [and](ca) [very-great-hero](sumahāvīryam) [directions](diśaḥ) [fled-to](bheje) [terrified](bhayāturam)
+[Munda](muṇḍaṃ) [ca](ca) [very-great+heroic](sumahāvīryaṃ) [to-directions](diśaḥ) [fled](bheje) [fear-stricken](bhayāturam)
 
 ## mukta-m0-p42-v1047
-[said](prāha) [fierce-loud-laugh](pracaṇḍāṭṭahāsa) [approaching](abhyetya) [Chandika](caṇḍikām)
+[said](prāha) [with-loud+terrible+laugh](pracaṇḍāṭṭahāsabhiḥ) [approaching](abhyetya) [Candika](caṇḍikām)
 
 ## mukta-m0-p42-v1048
-[in-battle-sacrifice](yuddhayajñe) [oneself](svayam) [Shumbha](śumbham) [Nishumbha](niśumbham) [and](ca) [will-kill](haniṣyasi)
+[in-battle+sacrifice](yuddhayajñe) [oneself](svayaṃ) [Shumbha](śumbhaṃ) [Nishumbha+and](niśumbhañca) [will-kill](haniṣyasi)
 
 ## mukta-m0-p42-v1049
-[sage](ṛṣiḥ) [said](uvāca)
+[sage+said](ṛṣiruvāca)
 
 ## mukta-m0-p42-v1050
-[said](uvāca) [to-Kali](kālīm) [auspicious](kalyāṇīm) [gently](lalitam) [Chandika](caṇḍikā) [word](vacaḥ)
+[said](uvāca) [to-Kali](kālīṃ) [auspicious](kalyāṇīṃ) [pleasantly](lalitaṃ) [Candika](caṇḍikā) [word](vacaḥ)

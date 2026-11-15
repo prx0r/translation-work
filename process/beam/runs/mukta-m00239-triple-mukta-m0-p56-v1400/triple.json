@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "adoṣābhragataṃ",
+     "gloss": "defectless-mica-obtained",
+     "grounds": "compound of adoṣa, abhra, and gata; describes mica obtained without defect",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "past participle of śudh; qualifies the resulting mica",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śuṣkaṃ",
+     "gloss": "dry",
+     "grounds": "past participle of śuṣ; qualifies the resulting mica",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dhānyābhrakaṃ",
+     "gloss": "dhānya-mica",
+     "grounds": "compound of dhānya and abhraka; names the desired mineral result",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū; prescribes the final state",
+     "morph": "verb.3.sg.act-opt+bhū"
+    }
+   ],
+   "question": "What qualities must the processed mica possess to become dhānya-abhraka?",
+   "premises": [
+    "processed mica must be defectless",
+    "processed mica must be pure",
+    "processed mica must be dry"
+   ],
+   "inference": "the final dhānya-abhraka is pure dry defectless mica",
+   "uncertainties": [
+    "dhānya-abhraka is a technical mineral term not fully glossed here"
+   ],
+   "plain_english": "It should become pure, dry, defectless dhānya-mica obtained from mica."
+  }
+ ]
+}
