@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[because](yataḥ) [unconquerable](ajeyāḥ) [therefore](ataḥ) [having-propitiated](prasādya) [of-horse-sacrifice](aśvamedhasya) [time](kālaḥ)
+since+unconquerable therefore propitiate horse-sacrifice time
 
 ## mukta-m0-p65-v1602
-[not](na) [time](kālaḥ) [should-pass-beyond](ativrajet) [this](eṣaḥ) [spring](vasantaḥ) [sacrifice-approved](yajña+sammataḥ)
+not time+exceed this spring sacrifice-approved
 
 ## mukta-m0-p65-v1603
-[angered](kruddhāḥ) [ascetics](tapasvinaḥ) [worlds](lokān) [would-reduce-to-ashes](bhasmīkuryuḥ) [in-a-moment](kṣaṇena) [indeed](vai)
+angry ascetics worlds reduce+to+ashes moment indeed
 
 ## mukta-m0-p65-v1604
-[thus](iti) [instructed](ādiṣṭaḥ) [Mahāsena](mahāsenaḥ) [that](tam) [place](deśam) [quickly](śīghram) [came](āyayau)
+thus instructed great-army that region quickly went
 
 ## mukta-m0-p65-v1605
-[for-own-purpose](sva+artham) [horse-etc-release](aśva+ādi+mocanam) [that](tam) [place](deśam) [by-Taṅgaṇa](taṅgaṇena) [inhabited](āstitam)
+own+purpose horse+etc+release that region tangana+possessed
 
 ## mukta-m0-p65-v1606
-[wood-wall-state](kāṣṭha+kuḍya+ātmatām) [attained](prāptam) [calmed-sense-mind-intellect](śānta+indriya+manaḥ+dhiyam)
+wood-wall nature attained calm-senses mind-intellect
 
 ## mukta-m0-p65-v1607
-[of-external-internal-organs](bāhya+antaḥkaraṇayoḥ) [and](ca) [absence-of-restlessness](añcalya+abhāvaḥ) [stated](uktaḥ) [to-be-understood](jñeyaḥ)
+external+internal+faculties unsteadiness absence said known
 
 ## mukta-m0-p65-v1608
-[having-bowed](praṇamya) [like-a-stick](daṇḍavat) [again](bhūyaḥ) [with-folded-hands](kṛta+añjali+puṭaḥ) [then](tadā)
+bowing staff-like again joined-palms then
 
 ## mukta-m0-p65-v1609
-[to-be-meditated-upon](dhyeyam) [of-such-kind](evaṃvidham) [Taṅgaṇa](taṅgaṇam) [having-bowed](praṇamya)
+meditate thus tangana bowing
 
 ## mukta-m0-p65-v1610
-[thus](tathā) [of-him](tasya) [praising](saṃstuvataḥ) [indeed](hi) [passed](atyagāt) [verily](vai) [three-days](dina+trayam)
+so his praising indeed passed three days
 
 ## mukta-m0-p65-v1611
-[spoke](provāca) [to-him](tam) [Mahāsena](mahāsenam) [king](rājan) [pleased](tuṣṭaḥ) [I-am](asmi) [by-praise](saṃstavāt)
+spoke to great-army king pleased praise
 
 ## mukta-m0-p65-v1612
-[I](aham) [son](putraḥ) [am](asmi) [of-this](asya) [lord](vibhoḥ) [of-Taṅgaṇa](taṅgaṇasya) [great-sage](mahā+muneḥ)
+i son am his tangana great-sage
 
 ## mukta-m0-p65-v1613
-[with-composed-mind](samāhita+svāntaḥ) [this-one](eṣaḥ) [after-twelve-years](dvādaśa+abdāt) [afterwards](anantaram)
+composed-mind this twelve years after
 
 ## mukta-m0-p65-v1614
-[afterwards](anantaram) [he-will-rise](samuttiṣṭhet) [thus](iti) [connection](anvayaḥ)
+afterward rise thus connection
 
 ## mukta-m0-p65-v1615
-[seven](sapta) [remaining](avaśeṣāḥ) [thus](evam) [indeed](hi) [appointed-time](samayaḥ) [of-him](asya) [ancient](purātanaḥ)
+seven remaining thus time his ancient
 
 ## mukta-m0-p65-v1616
-[appointed-time](samayaḥ) [agreement](saṅketaḥ) [resolve](saṅkalpaḥ) [thus](iti) [namely](yāvat) [of-this](asya) [my](me) [father](pituḥ)
+time sign resolve thus meaning his my father
 
 ## mukta-m0-p65-v1617
-[not](na) [me](mām) [child](bālam) [you-should-know](vijānīhi) [equal-to-father](pitṛ+tulyam) [ascetic](tapasvinam)
+not me child know father-equal ascetic
 
 ## mukta-m0-p65-v1618
-[not](na) [you-should-know](vijānīhi)
+not know
 
 ## mukta-m0-p65-v1619
-[having-heard](śrutvā) [sage-son's-speech](muni+kumāra+uktam) [Mahāsena](mahāsenaḥ) [very-intelligent](ati+buddhimān)
+hearing sage-son great-army very-intelligent
 
 ## mukta-m0-p65-v1620
-[very-intelligent](ati+buddhimān) [thus](iti) [of-children](bālānām) [knower-of-impermanence](anavasthita+tva+jñaḥ) [thus](iti) [meaning](bhāvaḥ)
+very-intelligent thus children unsteadiness knower meaning
 
 ## mukta-m0-p65-v1621
-[O-sage-son](muni+putra) [dear-thing](priyam) [to-me](me) [today](adya) [you-do](karoṣi) [if](yadi) [truly](satyataḥ)
+sage-son dear to-me today do if truly
 
 ## mukta-m0-p65-v1622
-[with](saha) [conversation](sambhāṣaṇam) [some](kiñcit) [this](etat) [extremely-desired](atyanta+vāñchitam)
+with conversation little this extremely desired
 
 ## mukta-m0-p65-v1623
-[by-word-saha](saha+śabdena) [from-connection](yogāt) [thus](iti) [meaning](arthaḥ)
+with word yoga meaning
 
 ## mukta-m0-p65-v1624
-[having-heard](śrutvā) [this](etat) [speech](vacanam) [of-king](rājñaḥ) [spoke](prāha) [ascetic-born](tāpasa+jaḥ) [again](punaḥ)
+hearing this king speech spoke ascetic-born again
 
 ## mukta-m0-p65-v1625
-[even-so](tathā+api) [to-you](te) [I-will-do](karomi) [thus](iti) [having-promised](pratiśrutya) [otherwise](anyathā) [how](katham)
+still your do thus promising otherwise how

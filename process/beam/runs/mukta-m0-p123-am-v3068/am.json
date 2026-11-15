@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3068,
- "question": "Where and in what manner should Shakini and Hakini be worshipped?",
+ "question": "What time intervals are prescribed for renewal?",
  "premises": [
-  "Shakini and Hakini are named for worship.",
-  "Six corners are specified as locations.",
-  "The worship is to be performed in order."
+  "yearly renewal is prescribed",
+  "six-month renewal is prescribed",
+  "three-month renewal is prescribed"
  ],
- "inference": "Shakini and Hakini should be worshipped in order in the six corners.",
- "uncertainties": [],
- "plain_english": "One should worship Shakini and Hakini in order in the six corners."
+ "inference": "Renewal may occur yearly, every six months, or every three months.",
+ "uncertainties": [
+  "whether alternatives or cumulative unclear"
+ ],
+ "plain_english": "Year after year indeed, or in six months, or in three months."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[as-seen](dṛṣṭavat) [to-be-imagined](parikalpyaṃ) [would-be](syāt) [otherwise](anyathā) [universal+worldly](sārva+laukikī)
+[x](dṛṣṭavat) [x](parikalpyaṃ) [x](syādanyathā) [x](sārvalaukikī)
 
 ## mukta-m0-p58-v1427
-[accidentalness+acceptance](ākasmikatva+abhyupagamaḥ) [thus+meaning](iti+arthaḥ) [universal+worldly](sārva+laukikī) [activity](saṃpravṛttiḥ) [thus+connection](iti+anvayaḥ)
+[x](ākasmikatvābhyupagama) [x](ityarthaḥ) [x](sārvalaukikī) [x](saṃpravṛttirityanvayaḥ)
 
 ## mukta-m0-p58-v1428
-[therefore](ataḥ) [indeed](eva) [effect+cause](kārya+hetoḥ) [some+cause+intent](kiñcit+kāraṇa+tatparaḥ)
+[x](ata) [x](eva) [x](kāryahetoḥ) [x](kiñcitkāraṇatatparaḥ)
 
 ## mukta-m0-p58-v1429
-[intent-on-that](tatparā) [is-seen](dṛśyate) [thus](iti) [connection](sambandhaḥ)
+[x](tatparā) [x](dṛśyata) [x](iti) [x](sambandhaḥ)
 
 ## mukta-m0-p58-v1430
-[some](kecid) [say](āhuḥ) [non-existent+like](asat+kalpaiḥ) [by-atoms](aṇubhiḥ) [effect](kāryam) [arisen](udyatam)
+[x](kecidāhurasatkalpairaṇubhiḥ) [x](kāryamudyatam)
 
 ## mukta-m0-p58-v1431
-[it-would-be](bhavet) [indeed](eva) [thus](iti) [purport](tātparyam) [not](na) [from-where](kutaḥ) [it-would-be](bhavet)
+[x](bhavedeveti) [x](tātparyam) [x](na) [x](kuto) [x](bhavet)
 
 ## mukta-m0-p58-v1432
-[existence+non-existence](sattva+asattvayoḥ) [because-of-contradiction](virodhāt)
+[x](sattvāsattvayorvirodhāt)
 
 ## mukta-m0-p58-v1433
-[one](ekaṃ) [it-would-be](bhavet) [because-of-contradiction](viruddhatvāt) [confusion+etc.](sāṅkarya+ādi) [because-of-ensuing](prasaktitaḥ)
+[x](ekaṃ) [x](bhaved) [x](viruddhatvāt) [x](sāṅkaryādiprasaktitaḥ)
 
 ## mukta-m0-p58-v1434
-[quality+equilibrium+nature](guṇa+sāmya+prakṛtikaṃ) [world](jagat) [thus](iti) [also](api) [impossible](asaṃbhavi)
+[x](guṇasāmyaprakṛtikaṃ) [x](jagadityapyasaṃbhavi)
 
 ## mukta-m0-p58-v1435
-[by-conscious+non-superintendence](cetanena+anadhiṣṭhānāt) [example+non-perception](dṛṣṭānta+anupalambhataḥ)
+[x](cetanenānadhiṣṭhānād) [x](dṛṣṭāntānupalambhataḥ)
 
 ## mukta-m0-p58-v1436
-[conjunction](saṅgamaḥ)
+[x](saṅgamaḥ)
 
 ## mukta-m0-p58-v1437
-[not](na) [activity](pravṛttiḥ) [thus+meaning](iti+arthaḥ)
+[x](kṣādirna) [x](na) [x](pravṛttirityarthaḥ)
 
 ## mukta-m0-p58-v1438
-[effect+agent+separation](kārya+kartṛ+viyogasya) [frequent+observation+reason](bhūyaḥ+darśana+hetutaḥ)
+[x](kāryakartraviyogasya) [x](bhūyodarśanahetutaḥ)
 
 ## mukta-m0-p58-v1439
-[agent+inseparable](kartṛ+avinābhūtam) [thus](iti) [from-frequent-observation](bhūyaḥ+darśanāt) [world](jagat) [having-agent](sa+kartṛkam) [thus+meaning](iti+arthaḥ)
+[x](kartravinābhūtamiti) [x](bhūyodarśanājjagat) [x](sakartṛkamityarthaḥ)
 
 ## mukta-m0-p58-v1440
-[of-effect](kāryasya) [inconceivable+form](acintya+rūpasya) [agent](kartā) [common](sādhāraṇaḥ) [how](katham)
+[x](kāryasyācintyarūpasya) [x](kartā) [x](sādhāraṇaḥ) [x](katham)
 
 ## mukta-m0-p58-v1441
-[in-inert+impossibility](jaḍe+asambhavāt) [thus](iti) [says](āha) [possibility](sambhavāt) [thus](iti)
+[x](jaḍe'sambhavādityāha) [x](sambhavāditi)
 
 ## mukta-m0-p58-v1442
-[of-the-full](pūrṇasya) [indeed](tu) [unobstructed](apratihataṃ) [authority](pramāṇaṃ) [from-all-sides](sarvataḥ) [superior](adhikam)
+[x](pūrṇasya) [x](tvapratihataṃ) [x](pramāṇaṃ) [x](sarvato'dhikam)
 
 ## mukta-m0-p58-v1443
-[than-means-of-knowledge](pramāṇebhyaḥ) [superior](adhikaṃ) [best](śreṣṭhaṃ) [powerful](prabalam) [thus+this](iti+etat)
+[x](pramāṇebhyo'dhikaṃ) [x](śreṣṭhaṃ) [x](prablamityetat)
 
 ## mukta-m0-p58-v1444
-[independent](svatantraḥ) [indeed](hi) [without-material-cause](anupādānaḥ) [independence+fullness+majesty](svātantrya+bhara+vaibhavāt)
+[x](svatantro) [x](hyanupādānaḥ) [x](svātantryabharavaibhavāt)
 
 ## mukta-m0-p58-v1445
-[fullness](bharaḥ) [excellence](utkarṣaḥ) [its](tasya) [from-majesty](vaibhavāt) [from-greatness](māhātmyāt) [manifesting](avabhāsayat) [thus+connection](iti+anvayaḥ)
+[x](bhara) [x](utkarṣaḥ) [x](tasya) [x](vaibhavānmāhātmyādavabhāsayadityanvayaḥ)
 
 ## mukta-m0-p58-v1446
-[as](yathā) [dream+daydream](svapna+manorājye) [imagined](kalpitaṃ) [by-self](svena) [alone](kevalam)
+[x](yathā) [x](svapnamanorājye) [x](kalpitaṃ) [x](svena) [x](kevalam)
 
 ## mukta-m0-p58-v1447
-[alone](kevalam) [material-cause+etc.](upādāna+ādi) [without-depending](anapekṣya) [imagined](parikalpitaṃ) [body](deham)
+[x](kevalamupādānādyanapekṣya) [x](parikalpitaṃ) [x](deham)
 
 ## mukta-m0-p58-v1448
-[not](na) [your](te) [form](rūpaṃ) [as](yathā) [body](dehaḥ) [dream+cessation+cause](svapna+vyāvṛtti+hetutaḥ)
+[x](na) [x](te) [x](rūpaṃ) [x](yathā) [x](dehaḥ) [x](svapnavyāvṛttihetutaḥ)
 
 ## mukta-m0-p58-v1449
-[as](yathā) [indeed](hi) [daydream+imagined+body](manorājya+parikalpita+dehaḥ) [not](na) [your](te) [own-nature](svarūpam) [in-dream+etc.](svapna+ādau) [because-of-cessation](vyāvṛtteḥ)
+[x](yathā) [x](hi) [x](manorājyaparikalpitadeho) [x](na) [x](te) [x](svarūpam) [x](svapnādau) [x](vyāvṛtteḥ)
 
 ## mukta-m0-p58-v1450
-[body+etc.+distinct](deha+ādi+vyatiriktaḥ) [you](tvam) [as](yathā) [mere+consciousness](kevala+cinmayaḥ)
+[x](dehādivyatiriktastvaṃ) [x](yathā) [x](kevalacinmayaḥ)

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2875,
+   "rows": [
+    {
+     "surface": "ekāraṃ",
+     "gloss": "e-syllable",
+     "grounds": "legacy hint e-syllable; accusative object of placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "locative of direction right",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gaṇḍe",
+     "gloss": "cheek",
+     "grounds": "locative singular of cheek",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aikāraṃ",
+     "gloss": "ai-syllable",
+     "grounds": "legacy hint ai-syllable; accusative object of placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "in-left",
+     "grounds": "locative of direction left",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gaṇḍake",
+     "gloss": "cheek",
+     "grounds": "legacy hint cheek; locative singular form",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which vowel-syllables are assigned to the right and left cheeks?",
+   "premises": [
+    "ekāraṃ is placed in the right cheek",
+    "aikāraṃ is placed in the left cheek",
+    "the verse pairs each syllable with a cheek"
+   ],
+   "inference": "The e-syllable belongs to the right cheek and the ai-syllable belongs to the left cheek.",
+   "uncertainties": [
+    "exact morphological case of gaṇḍake is not fully resolved from the token alone"
+   ],
+   "plain_english": "The e-syllable is in the right cheek, and the ai-syllable is in the left cheek."
+  }
+ ]
+}

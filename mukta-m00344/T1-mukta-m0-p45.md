@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[my](mat) [mother's](mātṛ) [world](loka) [attainment](saṃprāptiḥ) [liberation](mokṣaḥ) [dear-one](priya) [is-declared](udāhṛtaḥ)
+[my-mother-world-attainment](manmātṛlokasaṃprāptiḥ) [liberation](mokṣaḥ) [dear](priya) [said](udāhṛtaḥ)
 
 ## mukta-m0-p45-v1102
-[by-that](tat) [means](yuktyā) [this](etat) [well](su) [having-understood](vijñāya) [supreme](paraṃ) [good](śreyaḥ) [attain](samāpnuhi)
+[by-that-reason](tadyuktyā) [this](etat) [well-knowing](suvijñāya) [supreme](paraṃ) [good](śreyaḥ) [attain](samāpnuhi)
 
 ## mukta-m0-p45-v1103
-[this](etat) [own](sva) [narrative](vṛttāntam)
+[this](etat) [own](sva)+[account](vṛttāntam)
 
 ## mukta-m0-p45-v1104
-[with-joy](harṣa) [choked](gadgadayā) [with-speech](vācā) [again](punar) [to-speak](vaktuṃ) [began](pracakrame)
+[joy-stammering](harṣa+gadgadayā) [speech](vācā) [again](punar) [to-speak](vaktuṃ) [began](pracakrame)
 
 ## mukta-m0-p45-v1105
-[again](punaḥ) [Hemalekha](hemalekhāṃ) [to-speak](vaktum)
+[again](punaḥ) [gold-line](hema+lekhāṃ) [to-speak](vaktum)
 
 ## mukta-m0-p45-v1106
-[what](kiṃ) [shall-I-describe](varṇayāmi) [what](yat) [was-spoken](proktam) [in-the-form-of-a-narrative](ākhyā+rūpatayā) [entirely](akhilam)
+[what](kiṃ) [describe](varṇayāmi) [that](yat) [spoken](proktam) [narrative-form](ākhyā+rūpatayā) [all](akhilam)
 
 ## mukta-m0-p45-v1107
-[by-your](tvad) [statement](uktyā) [I](aham) [now](samprati) [that](tat) [like-a-fruit-in-the-palm](kara+āmalakavat) [clearly](sphuṭam)
+[by-your-speech](tvad+uktyā) [I](ahaṃ) [now](samprati) [that](tat) [palm-amalaka-like](kara+āmalakavat) [clear](sphuṭam)
 
 ## mukta-m0-p45-v1108
-[at-some](kvacit) [time](kāle) [that](tat) [own-self](sva+ātma) [account](vṛttaṃ) [consisting-of-experience-of-suffering](duḥkha+anubhava+rūpam) [due-to-anger-greed-etc.](krodha+lobha+ādinā)
+[sometime](kvacit) [time](kāle) [that](tat) [own-self-account](sva+ātma+vṛttaṃ) [by-anger-greed-etc](krodha+lobha+ādinā) [suffering-experience-form](duḥkha+anubhava+rūpam)
 
 ## mukta-m0-p45-v1109
-[who](kā) [that](sā) [supreme](parā) [consciousness](citiḥ) [mother](mātā) [how](kathaṃ) [of-her](tasyāḥ) [indeed](tu) [for-us](naḥ) [birth](janiḥ)
+[what](kā) [that](sā) [supreme](parā) [consciousness](citir) [mother](mātā) [how](kathaṃ) [of-her](tasyāḥ) [be](astu) [no](no) [birth](janiḥ)
 
 ## mukta-m0-p45-v1110
-[worldly-activity](vyavahāraḥ)
+[conventional-usage](vyavahāraḥ)
 
 ## mukta-m0-p45-v1111
-[thus](iti) [asked](pṛṣṭā) [Hemalekha](hemalekhā) [Rama](rāma) [spoke](uvāca) [to-the-beloved](priyaṃ) [towards](prati)
+[thus](iti) [asked](pṛṣṭā) [hemalekhā](hemalekhā) [rāma](rāma) [said](uvāca) [to-dear](priyaṃ) [towards](prati)
 
 ## mukta-m0-p45-v1112
-[thus](iti) [of-the-self](ātmanaḥ) [this](ayam) [question](praśnaḥ) [pertaining-to-the-designation](saṃjñā+viṣayaḥ) [should-be-known](jñeyaḥ)
+[thus-self](ityātmanaḥ) [designation-subject](saṃjñā+viṣayaḥ) [this](ayaṃ) [question](praśnaḥ) [to-be-known](jñeyaḥ)
 
 ## mukta-m0-p45-v1113
-[inquire-into](vicāraya) [of-the-self](ātmanaḥ) [form](rūpaṃ) [with-intellect](buddhyā) [extremely](atyanta) [pure](viśuddhayā)
+[inquire](vicāraya) [self-form](ātmano+rūpaṃ) [by-intellect](buddhyā) [extremely-pure](atyanta+viśuddhayā)
 
 ## mukta-m0-p45-v1114
-[it-is-possible](śakyam) [thus](iti) [the-meaning](bhāvaḥ)
+[possible](śakyam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p45-v1115
-[the-mother](mātaram)
+[mother](mātaram)
 
 ## mukta-m0-p45-v1116
-[consciousness](citiḥ) [which](yā) [mother](mātā) [her](tāṃ) [speak](vada) [thus](iti) [if-you-say](cet) [then-he-says](āha) [known](jñāta) [thus](iti)
+[consciousness](citir) [which](yā) [mother](mātā) [her](tāṃ) [speak](vada) [if](ced) [said](āha) [known](jñāta) [thus](iti)
 
 ## mukta-m0-p45-v1117
-[resting-on-pure-intellect](śuddha+buddhi+samāśrayam)
+[pure-intellect-refuge](śuddha+buddhi+samāśrayam)
 
 ## mukta-m0-p45-v1118
-[own-nature](sva+rūpaṃ) [should-be-known](jñeyam) [thus](iti) [the-meaning](bhāvaḥ)
+[own-form](svarūpaṃ) [to-be-known](jñeyam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p45-v1119
-[shining](bhāntaṃ) [everywhere](sarvatra) [of-all](sarvasya) [always](sarvadā) [devoid-of-measure](māna+varjitam)
+[shining](bhāntaṃ) [everywhere](sarvatra) [of-all](sarvasya) [always](sarvadā) [man-excluding](mānava+varjitam)
 
 ## mukta-m0-p45-v1120
-[the-meaning](bhāvaḥ)
+[meaning](bhāvaḥ)
 
 ## mukta-m0-p45-v1121
-[my](mat) [eye](netraṃ) [show](darśaya) [thus](iti) [spoken](uktam) [this](etat) [by-the-beloved](priyā) [now](adhunā)
+[my-eye](man+netraṃ) [show](darśaya) [thus-said](evam+uktam) [this](etat) [dear-now](priyā+adhunā)
 
 ## mukta-m0-p45-v1122
-[the-self](ātmānaṃ) [ascertain](nirūpaya) [thus](iti)
+[self](ātmānaṃ) [determine](nirūpaya) [thus](iti) [kh-g-yati](kh, g: yati)
 
 ## mukta-m0-p45-v1123
-[skilled](nipuṇaḥ) [even](api) [great](mahā) [teacher](ācāryaḥ) [how](kathaṃ) [the-eye](netraṃ) [could-show](pradarśayet)
+[skillful](nipuṇaḥ) [even](api) [great-teacher](mahā+cāryaḥ) [how](kathaṃ) [eye](netraṃ) [show](pradarśayet)
 
 ## mukta-m0-p45-v1124
-[endowed-with-the-greatness-of-austerity-etc.](tapaḥ+māhātmya+ādi+yuktaḥ)
+[austerity-greatness-etc-endowed](tapaḥ+māhātmya+ādi+yuktaḥ)
 
 ## mukta-m0-p45-v1125
-[that](tat) [to-you](te) [I-shall-tell](vakṣyāmi) [means](upāyaṃ) [that](tat) [hear](śṛṇu) [with-restrained-mind](saṃyata+mānasaḥ)
+[that-to-you](tat+te) [I-will-speak](vakṣyāmi) [means](upāyaṃ) [that-hear](tat+śṛṇu) [controlled-mind](saṃyata+mānasaḥ)

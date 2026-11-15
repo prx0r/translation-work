@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p118",
  "verse": 2931,
- "question": "What measurement range is prescribed for the space between seat and knee?",
+ "question": "Where should the deposit be placed after excluding others?",
  "premises": [
-  "The space between seat and knee is measured",
-  "The measure may be six, seven, or eight fingers"
+  "All others are excluded",
+  "The place is well hidden",
+  "The deposit should be placed"
  ],
- "inference": "The interval between the seat and the knee should be six, seven, or eight fingers",
- "uncertainties": [],
- "plain_english": "The space between the seat and the knee should be six, seven, or eight fingers."
+ "inference": "The deposit is placed in a well-hidden place after excluding others.",
+ "uncertainties": [
+  "Nature of deposit"
+ ],
+ "plain_english": "Having excluded all others, deposit the embryo in a well-hidden place."
 }

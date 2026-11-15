@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2999,
- "question": "Which additional sacred places are named at the close of the enumeration?",
+ "question": "How should all rites be performed according to this method?",
  "premises": [
-  "The verse adds further place-names.",
-  "The places are given in locative case.",
-  "The list closes the enumeration."
+  "The method is previously stated",
+  "All rites are named",
+  "Performance is commanded"
  ],
- "inference": "The passage adds Srimushti, Venkatadri, Salagrama, and Naimisha to the enumeration.",
+ "inference": "All rites should be caused to be performed by the previously stated method.",
  "uncertainties": [
-  "The final token is a fused locative ending."
+  "The exact previously stated method is not repeated here"
  ],
- "plain_english": "At Srimushti and Venkatadri, and at Salagrama, and at Naimisha."
+ "plain_english": "All rites should be performed by the previously stated method."
 }

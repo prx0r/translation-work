@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2795,
- "question": "What color is the figure in this zodiacal description?",
+ "question": "What royal instruments are arranged in four and eight quarters?",
  "premises": [
-  "the verse gives a color"
+  "scepter and release are in four quarters",
+  "seat is included",
+  "eight quarters are mentioned"
  ],
- "inference": "the figure is gold-colored",
+ "inference": "royal power is spatially arranged",
  "uncertainties": [
-  "referent implicit"
+  "mokṣau sense"
  ],
- "plain_english": "The figure is gold-colored."
+ "plain_english": "Scepter, release, and seat in four and eight quarters."
 }

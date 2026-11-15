@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3059,
- "question": "How does the speaker introduce the explanation of the prescribed ritual procedure?",
+ "question": "Where should the excellent deposit be placed?",
  "premises": [
-  "The wise one is addressed to listen.",
-  "The speaker promises to tell the procedure.",
-  "The explanation will follow the proper rule."
+  "box was previously mentioned",
+  "deposit should be placed",
+  "deposit is excellent"
  ],
- "inference": "The speaker instructs the wise one to listen as the procedure is explained according to rule.",
- "uncertainties": [],
- "plain_english": "Listen, wise one; I shall tell you that procedure according to the rule."
+ "inference": "The excellent deposit should be placed in the previously mentioned box.",
+ "uncertainties": [
+  "box identity unclear"
+ ],
+ "plain_english": "But in the previously mentioned box, place the excellent deposit."
 }

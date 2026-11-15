@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p118",
+ "items": [
+  {
+   "verse": 2950,
+   "rows": [
+    {
+     "surface": "āpaḥ",
+     "gloss": "waters",
+     "grounds": "plural waters; nominative form of āp",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "udakaṃ",
+     "gloss": "water",
+     "grounds": "water as object of offering",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "ordinal marking the second water",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "imaṃ-me-varuṇam",
+     "gloss": "this-me-varuṇa",
+     "grounds": "fused token retained as given; legacy hint imaṃ-me-varuṇa",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What second water offering is designated for Varuṇa in this ritual sequence?",
+   "premises": [
+    "second water is named",
+    "Varuṇa receives this water",
+    "connectives frame the offering"
+   ],
+   "inference": "the verse identifies a second water as belonging to Varuṇa",
+   "uncertainties": [
+    "exact ritual context beyond token sequence is unclear"
+   ],
+   "plain_english": "Waters: the second water, and this for me Varuṇa indeed, and."
+  }
+ ]
+}

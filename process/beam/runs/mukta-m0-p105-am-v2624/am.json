@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2624,
- "question": "What marks should be drawn with fine lines on the specified area?",
+ "question": "What should be placed east of that row?",
  "premises": [
-  "A fine line is to be drawn on that area.",
-  "The conch is given as one possible mark.",
-  "The discus and trident are given as an alternative mark."
+  "Eastern direction is specified.",
+  "Row is specified.",
+  "Eight great rice items are named.",
+  "Placement is commanded."
  ],
- "inference": "One should draw a fine line of a conch or of a discus and trident on that area.",
- "uncertainties": [],
- "plain_english": "On that, one should draw a fine line of a conch, or of a discus and trident."
+ "inference": "Eight great rice items should be placed east of that row.",
+ "uncertainties": [
+  "Exact rice varieties unspecified."
+ ],
+ "plain_english": "Place eight great rice items east of that row."
 }

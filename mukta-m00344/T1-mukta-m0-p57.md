@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-[thus](evaṃ) [there](tatra) [formerly](purā) [by-Hemalekha](hemalekhayā) [indeed](khalu) [instructed](bodhitaḥ)
+[thus](evaṃ) [there](tatra) [formerly](purā) [by-hemalekha](hemalekhayā) [indeed](khalu) [instructed](bodhitaḥ)
 
 ## mukta-m0-p57-v1402
-[women+children+and-others](strī+bāla+pramukhāḥ) [all](sarve) [became](jātā) [knowers-of-higher+and-lower](jñāta+para+avarāḥ)
+[all](sarve) [women-children-etc](strībālapramukhāḥ) [became](jātāḥ) [knowers-of-high-and-low](jñātaparāvarāḥ)
 
 ## mukta-m0-p57-v1403
-[therefore](tasmāt) [in-desire-for-the-highest-good](śreyaḥ+vāñchane) [indeed](tu) [devoted-to-resort-to-the-good](sat+saṃśraya+paraḥ) [one-should-be](bhavet)
+[therefore](tasmāt) [desiring-benefit](śreyovāñchane) [in](tu) [resort-to-good](satsaṃśrayaparaḥ) [become](bhavet)
 
 ## mukta-m0-p57-v1404
-[because](yasmāt) [from-association-with-Hemalekha](hemalekhā+saṅgāt) [all](sarve) [liberated](muktā) [became](jātāḥ) [therefore](tasmāt) [devoted-to-resort-to-the-virtuous](sajjana+saṃśraya+paraḥ)
+[because](yasmāt) [from-hemalekha-association](hemalekhāsaṅgāt) [all](sarve) [liberated](muktāḥ) [became](jātāḥ) [therefore](tasmāt) [devoted-to-good-people](sajjanasaṃśrayaparaḥ)
 
 ## mukta-m0-p57-v1405
-[Bhargava](bhārgavaḥ) [with-doubting-mind](sandigdha+manāḥ) [to-ask](praṣṭuṃ) [began](samupacakrame)
+[bhargava](bhārgavaḥ) [doubtful-minded](sandigdhamanāḥ) [to-ask](praṣṭuṃ) [began](samupacakrame)
 
 ## mukta-m0-p57-v1406
-[by-all](sarvataḥ) [by-means](sādhanaiḥ) [unachievable](asādhyaṃ) [and](ca)
+[everywhere](sarvataḥ) [by-means](sādhanaiḥ) [impossible](asādhyaṃ) [and](ca)
 
 ## mukta-m0-p57-v1407
-[appears](bhāti) [to-me](me) [difficult](viṣamaṃ) [indeed](hi) [this](etat) [unachievable](asādhyaṃ) [and](ca) [also](api) [by-all-means](sarvataḥ)
+[appears](bhāti) [to-me](me) [unequal](viṣamaṃ) [indeed](hi) [this](etat) [impossible](asādhyaṃ) [and](ca) [api](api) [everywhere](sarvataḥ)
 
 ## mukta-m0-p57-v1408
-[unseen](adṛṣṭaṃ) [only](kevalam) [indeed](hi) [this](etat) [to-be-accepted-by-faith](śraddhā+upeyam) [not](na) [and](ca) [otherwise](anyathā)
+[unseen](adṛṣṭaṃ) [only](kevalaṃ) [indeed](hi) [this](etat) [by-faith-to-be-accepted](śraddhopeyaṃ) [not](na) [otherwise](cānyathā)
 
 ## mukta-m0-p57-v1409
-[not](na) [by-perception+and-reasoning](upalabdhi+upapattibhyām) [thus](iti) [the-purport](tātparyam)
+[not](na) [by-perception-or-reasoning](upalabdhyupapattibhyām) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p57-v1410
-[not](na) [established](upapannaṃ) [in-every-way](sarvathā) [this](etat) [how](kathaṃ) [the-mind](cittaṃ) [could-ascend-to](samāruhet)
+[not](na) [established](upapannaṃ) [in-every-way](sarvathā) [this](etat) [how](kathaṃ) [mind](cittaṃ) [would-ascend](samāruhet)
 
 ## mukta-m0-p57-v1411
-[thus](iti) [asked](āpṛṣṭaḥ) [Dattaguru](datta+guruḥ) [spoke](avadat) [to-Bhargava](bhārgavaṃ) [towards](prati)
+[thus](iti) [asked](āpṛṣṭaḥ) [dattaguru](dattaguruḥ) [spoke](avadat) [to-bhargava](bhārgavaṃ) [towards](prati)
 
 ## mukta-m0-p57-v1412
-[here](atra) [in-the-subject-of-pure-consciousness](śuddha+citi+viṣaye)
+[here](atra) [in-pure-consciousness-matter](śuddhacitiviṣaye)
 
 ## mukta-m0-p57-v1413
-[this](etat) [appearance](dṛśyam) [entire](aśeṣaṃ) [indeed](tu) [mere-seeing](dṛśi+mātraṃ) [not](na) [anything-else](ca+itarat)
+[this](etat) [visible](dṛśyam) [entirely](aśeṣaṃ) [tu](tu) [seeing-only](dṛśimātraṃ) [not](na) [other](cetarat)
 
 ## mukta-m0-p57-v1414
-[that](tat) [indeed](eva) [he-says](āha) [this](etat) [thus](iti)
+[that](tad) [indeed](eva) [says](āha) [this](etad) [iti](iti)
 
 ## mukta-m0-p57-v1415
-[this](etat) [appearance](dṛśyaṃ) [being-an-effect](kārya+bhūtam) [because-of-arising](utpatteḥ) [because-of-being-perceived](upalambhataḥ)
+[this](etat) [visible](dṛśyaṃ) [effect-natured](kāryabhūtam) [from-origination-perception](utpatterupalambhataḥ)
 
 ## mukta-m0-p57-v1416
-[this](etat) [thus](iti) [effect](kāryaṃ) [object-of-agent's-activity](kartṛ+vyāpāra+viṣayam)
+[this](etat) [iti](iti) [effect](kāryaṃ) [agent-action-object](kartṛvyāpāraviṣayam)
 
 ## mukta-m0-p57-v1417
-[as-new](nūtanatvena) [indeed](eva) [appears](bhāti) [arising-at-that-moment](tat+kṣaṇa+utpattimat) [the-world](jagat)
+[newly](nūtanatvena) [eva](eva) [appears](bhāti) [that](tat) [moment-born](kṣaṇotpattimat) [world](jagat)
 
 ## mukta-m0-p57-v1418
-[the-world](jagat) [as-new](nūtanatvena) [indeed](eva) [at-every-moment](prati+kṣaṇaṃ) [appears](bhāti) [therefore](tasmāt) [this-is-the-meaning](iti+arthaḥ) [and-this](etat+ca) [later](agre) [will-be](bhaviṣyati)
+[world](jagat) [newly](nūtanatvena) [eva](eva) [appears](bhāti) [every-moment](pratikṣaṇaṃ) [therefore](tasmāt) [thus-meaning](ityarthaḥ) [this](etat) [ahead](agre) [will-be](bhaviṣyati)
 
 ## mukta-m0-p57-v1419
-[others](anye) [consisting-of-aggregate-of-objects](padārtha+saṃghāta+mayam) [of-the-nature-of-moving-and-unmoving](sthira+cara+ātmakam)
+[others](anye) [aggregate-of-objects](padārthasaṃghātamayaṃ) [stable-moving-natured](sthiracarātmakam)
 
 ## mukta-m0-p57-v1420
-[first](prathamam) [establishment](upapādanam) [thus](iti) [to-be-noted](dhyeyam)
+[first](prathamam) [proof](upapādanam) [iti](iti) [to-be-contemplated](dhyeyam)
 
 ## mukta-m0-p57-v1421
-[there](tatra) [the-doctrine-of-inherent-nature](svabhāva+vādaḥ) [indeed](tu) [not](na) [proper](ucitaḥ) [because-of-over-extension](ati+prasaṅgataḥ)
+[there](tatra) [svabhava-doctrine](svabhāvavādaḥ) [tu](tu) [not](na) [suitable](ucitaḥ) [due-to-over-extension](atiprasaṅgataḥ)
 
 ## mukta-m0-p57-v1422
-[cause-of-cloth](paṭa+kāraṇaṃ) [why](kutaḥ) [not](na) [should-be](bhavet) [thus](iti) [if](cet) [due-to-diversity-of-own-causes](sva+kāraṇa+vaicityāt) [thus](iti) [understand](gṛhāṇa)
+[cloth-cause](paṭakāraṇaṃ) [why](kuto) [not](na) [would-be](bhavet) [iti](iti) [cet](cet) [from-own-cause-variety](svakāraṇavaicityāt) [iti](iti) [grasp](gṛhāṇa)
 
 ## mukta-m0-p57-v1423
-[because-of-agreement](saṃvādataḥ) [of-activities](pravṛttīnām) [how](katham) [accidental](ākasmikam) [could-be](bhavet)
+[from-agreement](saṃvādataḥ) [of-activities](pravṛttīnāṃ) [how](kathaṃ) [sudden](ākasmikaṃ) [would-be](bhavet)
 
 ## mukta-m0-p57-v1424
-[an-effect](kāryam) [accidental](ākasmikam) [without-cause](niṣkāraṇaṃ) [how](kathaṃ) [could-be](bhavet)
+[effect](kāryam) [sudden](ākasmikaṃ) [causeless](niṣkāraṇaṃ) [how](kathaṃ) [would-be](bhavet)
 
 ## mukta-m0-p57-v1425
-[of-many](bahūnām) [conformity](anurodhaḥ) [indeed](hi) [reasonable](nyāyyaḥ) [by-all](sarvaiḥ) [declared](udāhṛtaḥ)
+[of-many](bahūnām) [accommodation](anurodhaḥ) [hi](hi) [proper](nyāyyaḥ) [by-all](sarvaiḥ) [stated](udāhṛtaḥ)

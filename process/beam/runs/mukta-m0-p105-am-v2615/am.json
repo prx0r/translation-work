@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2615,
- "question": "How is the length of the foot nail defined in relation to its breadth?",
+ "question": "Which fragrant and fruit substances are enumerated?",
  "premises": [
-  "The breadth of the foot nail is taken as a reference.",
-  "This same measure is declared as the nail's length.",
-  "The text explicitly states this equivalence."
+  "Saffron is named.",
+  "Camphor is named.",
+  "A three-fruit set is named."
  ],
- "inference": "The length of the foot nail is declared to be equal to its breadth.",
- "uncertainties": [],
- "plain_english": "That breadth of the foot nail is indeed declared to be its length."
+ "inference": "Saffron, camphor, and a three-fruit set are enumerated.",
+ "uncertainties": [
+  "Fruit identities unclear."
+ ],
+ "plain_english": "Saffron, and indeed camphor, and the three-fruit set."
 }

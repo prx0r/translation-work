@@ -1,0 +1,54 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 3000,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-Kālottara",
+     "grounds": "locative of kālottara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "garbhalakṣaṇe",
+     "gloss": "in-embryo-characteristics",
+     "grounds": "locative of garbhalakṣaṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "amlānapuṣpapaṭalo",
+     "gloss": "unfading-flower-chapter",
+     "grounds": "compound amlāna+puṣpa+paṭala",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣṭapañcāśat",
+     "gloss": "fifty-eighth",
+     "grounds": "ordinal numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which chapter number is assigned to the unfading flower embryo characteristics in Kālottara?",
+   "premises": [
+    "iti marks the conclusion",
+    "kālottare names the scripture",
+    "garbhalakṣaṇe names the topic",
+    "amlānapuṣpapaṭalo names the chapter",
+    "ṣṭapañcāśat gives the number"
+   ],
+   "inference": "The verse colophon assigns chapter fifty-eight to the unfading-flower embryo characteristics in Kālottara.",
+   "uncertainties": [
+    "exact sandhi of ṣṭapañcāśat unresolved",
+    "gender and number of paṭala inferred"
+   ],
+   "plain_english": "Thus in Kālottara, in the embryo characteristics, the unfading-flower chapter is the fifty-eighth."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusive particle closing the section",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-kālottara",
+     "grounds": "locative singular of kālottara",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "garbhalakṣaṇe",
+     "gloss": "in-embryo-characteristics",
+     "grounds": "locative singular of garbhalakṣaṇa",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nṛttapālagarbhapaṭalaḥ",
+     "gloss": "dance-guardian-embryo-chapter",
+     "grounds": "compound naming the chapter on embryo characteristics of the dance guardian",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ṣaṭpañcāśat",
+     "gloss": "fifty-six",
+     "grounds": "cardinal number marking the chapter count",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What chapter number and subject does this colophon assign to the dance-guardian embryo section in Kālottara?",
+   "premises": [
+    "iti closes the preceding section",
+    "kālottare locates the statement in Kālottara",
+    "garbhalakṣaṇe names embryo characteristics",
+    "nṛttapālagarbhapaṭalaḥ names the dance-guardian embryo chapter",
+    "ṣaṭpañcāśat gives the number fifty-six"
+   ],
+   "inference": "This verse colophons the dance-guardian embryo chapter as the fifty-sixth chapter in Kālottara.",
+   "uncertainties": [
+    "whether ṣaṭpañcāśat functions as cardinal or ordinal here",
+    "exact chapter boundary in this witness remains unverified"
+   ],
+   "plain_english": "Thus, in Kālottara, the chapter on the embryo-characteristics of the dance-guardian is the fifty-sixth."
+  }
+ ]
+}

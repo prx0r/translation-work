@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p124",
  "verse": 3100,
- "question": "Who receives Narayana's grace and rules Sri Bhutapura?",
+ "question": "Which additional fasting days and astronomical occasions are included alongside the named observances?",
  "premises": [
-  "The verse names a recipient of Narayana's grace.",
-  "The verse names a lord of Sri Bhutapura.",
-  "Both descriptions apply to one figure."
+  "Fasting observances include dvādaśī days.",
+  "Ekādaśī and navamī are named occasions.",
+  "Eclipses and equinoxes are also included."
  ],
- "inference": "The figure described is the recipient of Narayana's grace and lord of Sri Bhutapura.",
+ "inference": "The verse extends the list of prescribed fasting occasions to further days and astronomical moments.",
  "uncertainties": [
-  "The exact identity of the figure is not stated in this verse alone.",
-  "The compound boundaries are inferred from the fused token."
+  "Exact syntactic relation to the preceding verse is not fully recoverable from the isolated token list."
  ],
- "plain_english": "Recipient of Narayana's grace, lord of Sri Bhutapura."
+ "plain_english": "Fasting is also observed on dvādaśī, ekādaśī, and navamī, and during eclipses and equinoxes."
 }

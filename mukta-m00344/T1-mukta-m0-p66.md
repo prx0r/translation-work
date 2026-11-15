@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-how(katham) I-shall-speak(bravīmi) thus(iti) connection(sambandhaḥ)
+[how?](kathaṃ) [say?](bravīmi) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p66-v1627
-for-a-moment(muhūrta+mātraṃ) of-me(me) see(paśya) power(sāmarthyaṃ) born-of-yoga(yoga+sambhavam)
+[moment-only](muhūrtamātraṃ) [my](me) [see](paśya) [power](sāmarthyaṃ) [yoga-born](yogasambhavam)
 
 ## mukta-m0-p66-v1628
-well-established(saṃsthitaḥ) him(tam) by-external-efforts(bāhya+yatnaiḥ) even(api) who(kaḥ) indeed(vai) would-awaken(prabodhayet)
+[established-him](saṃsthitastaṃ) [external-efforts](bāhyayatnaiḥ) [even](api) [who](ko) [indeed](vai) [awaken](prabodhayet)
 
 ## mukta-m0-p66-v1629
-in-the-tranquil-state(śānta+pade) of-non-conceptual-form(nirvikalpa+rūpe)
+[peaceful](śānta) [state](pade) [without](nir) [concept-form](vikalparūpe)
 
 ## mukta-m0-p66-v1630
-thus(iti) having-said(uktvā) then(atha) having-entered(samāviśya) having-withdrawn(samāhṛtya) senses(indriyāṇi) completely(alam)
+[thus](ityuktvā) [then](atha) [entering](samāviśya) [gathering-senses](samāhṛtyendriyāṇi) [enough](alam)
 
 ## mukta-m0-p66-v1631
-completely(alam) exceedingly(atyantam) senses(indriyāṇi) having-withdrawn(samāhṛtya) having-restrained(saṃruddhya)
+[enough](alam) [excessively](atyantam) [senses](indriyāṇi) [gathering](samāhṛtya) [restraining](saṃruddhya)
 
 ## mukta-m0-p66-v1632
-body(dehaṃ) of-father(pituḥ) having-entered(praviśya) quickly(āśu) dissolved(pralīnaṃ) his(tasya) mind(mānasam)
+[body](dehaṃ) [father's](pituḥ) [entering](praviśya) [quickly](āśu) [dissolved](pralīnaṃ) [his](tasya) [mind](mānasam)
 
 ## mukta-m0-p66-v1633
-going-out(nirgacchati) thus(iti) to-be-known(jñeyam)
+[goes-out](nirgacchati) [thus](iti) [to-be-known](jñeyam)
 
 ## mukta-m0-p66-v1634
-body(dehaṃ) own(svam) he-entered(āviśat) while(yāvat) then(tāvat) he(saḥ) awoke(bubudhe) sage(muniḥ)
+[body](dehaṃ) [own](svam) [entered](āviśad) [until](yāvat) [then](tāvat) [he](sa) [awoke](bubudhe) [sage](muniḥ)
 
 ## mukta-m0-p66-v1635
-from-father's-body(pitṛ+dehāt) gone-out(vinirgataḥ) he(saḥ) Taṅgaṇa(taṅgaṇaḥ)
+[father's-body](pitṛdehāt) [out-going](vinirgataḥ) [he](saḥ) [taṅgaṇa](taṅgaṇaḥ)
 
 ## mukta-m0-p66-v1636
-what(kim) this(etat) thus(iti) having-reflected(sañcintya) all(sarvaṃ) by-yogic-vision(yoga+dṛśā) he-knew(avidat)
+[what-this?](kimetad) [thus](iti) [thinking](sañcintya) [all](sarvaṃ) [yoga-sight](yogadṛśā) [knew](avidat)
 
 ## mukta-m0-p66-v1637
-all(sarvaṃ) beginning-with-son(putra+ādi) conduct(ceṣṭitam)
+[all](sarvaṃ) [son-etc-actions](putrādiceṣṭitam)
 
 ## mukta-m0-p66-v1638
-child(vatsa) not(na) thus(evam) again(punaḥ) to-be-done(kāryaṃ) anger(krodhaḥ) but(tu) of-austerity(tapasaḥ) enemy(ripuḥ)
+[son!](vatsa) [not-thus](naivaṃ) [again](puaḥ) [to-be-done](kāryaṃ) [anger](krodhaḥ) [austerity's](tapaso) [enemy](ripuḥ)
 
 ## mukta-m0-p66-v1639
-by-anger(krodhena) horse-seizing(āśva+haraṇa) and-so-forth(ādikam)
+[by-anger](krodhena) [horse-taking-etc](aśvaharaṇādikam)
 
 ## mukta-m0-p66-v1640
-sacrifice-obstruction(yajña+vighna) doing(kriyā) demon-nature(daitya+svabhāvaḥ) not(na) of-a-sage(muneḥ) anywhere(kvacit)
+[sacrifice-obstruction-action](yajñavighnakriyā) [demon-nature](daityasvabhāvo) [not](na) [sage's](muneḥ) [ever](kvacit)
 
 ## mukta-m0-p66-v1641
-to-the-king(rājñā) thus(iti) even-of-one-not-helping(anupakāriṇaḥ) also(api) in-sacrifice(yajñe) obstruction(vighnaḥ) improper(ayuktaḥ) thus(iti) he-says(āha) sacrifice(yajña) thus(iti)
+[king-thus](rājñeti) [non-helping](anupakāriṇo) [even](api) [in-sacrifice](yajñe) [obstruction](vighnaḥ) [unfit](ayukta) [thus-says](ityāha) [sacrifice-thus](yajñeti)
 
 ## mukta-m0-p66-v1642
-quickly(śīghram) let-go(yātu) this(eṣaḥ) of-sacrifice(yajñasya) not(na) time-transgression(kāla+atikramaḥ) should-be(bhavet)
+[quickly](śīghraṃ) [go](yātvā) [this](eṣa) [sacrifice's](yajñasya) [not](na) [time-excess](kālatikramo) [be](bhavet)
 
 ## mukta-m0-p66-v1643
-good-minded(sumanāḥ) thus(iti) anger(roṣam) [k: remainder(śeṣam)] having-abandoned(tyaktvā) thus(iti) meaning(arthaḥ) this(eṣaḥ) king's-brother(rāja+bhrātā)
+[good-minded](sumanā) [thus](iti) [anger](roṣaṃ) [leaving](tyaktvā) [meaning](arthyaḥ) [this](eṣa) [king's-brother](rājabhrātā)
 
 ## mukta-m0-p66-v1644
-with-horses(sa+aśvān) king's-sons(rāja+sutān) to-him(tasmai) he-gave(dadau) with-affection(prītyā) gone-anger(gata+krudhaḥ)
+[with-horses](sāśvān) [king's-sons](rājasutān) [to-him](tasmai) [gave](dadau) [with-joy](prītyā) [gone-anger](gatakrudhaḥ)
 
 ## mukta-m0-p66-v1645
-he(saḥ) sage's-son(muni+putraḥ) to-him(tasmai) to-Mahāsena(mahāsenāya)
+[he](saḥ) [sage's-son](muniputraḥ) [to-him](tasmai) [mahāsena](mahāsenāya)
 
 ## mukta-m0-p66-v1646
-Mahāsena(mahāsenaḥ) Taṅgaṇa(taṅgaṇaṃ) him(tam) having-bowed(praṇamya) extremely-astonished(atyanta+vismitaḥ)
+[mahāsena](mahāsenah) [taṅgaṇa](taṅgaṇaṃ) [him](taṃ) [bowing](praṇamya) [very-astonished](atyantavismitaḥ)
 
 ## mukta-m0-p66-v1647
-venerable-one(bhagavan) to-know(jñātum) I-wish(icchāmi) with-horses(sa+aśvāḥ) my(me) brother's-sons(bhrātṛ+nandanāḥ)
+[lord](bhagavan) [to-know](jñātum) [wish](icchāmi) [with-horses](sāśvā) [my](me) [brother's-sons](bhrātṛnandanāḥ)
 
 ## mukta-m0-p66-v1648
-thus(evam) by-king(rājñā) questioned(anuyuktaḥ) then(atha) Taṅgaṇa(taṅgaṇaḥ) spoke(prāha) to-the-king(bhūpatim)
+[thus](evaṃ) [by-king](rājñā) [questioned](anuyukto) [then](atha) [taṅgaṇa](taṅgaṇaḥ) [said](prāha) [king](bhūpatim)
 
 ## mukta-m0-p66-v1649
-how(katham) thus(iti) of-Gaṇḍa-mountain(gaṇḍa+śailasya) because-of-solidity(sa+ghanatvāt) thus(iti) meaning(arthaḥ)
+[how?](katham) [thus](iti) [cheek-mountain's](gaṇḍaśailasya) [density](saghanatvāt) [meaning](arthyaḥ)
 
 ## mukta-m0-p66-v1650
-ocean-girdled(samudra+valayām) earth(pṛthvīm) I-ruled(anvaśāsam) long(ciram) indeed(khalu)
+[ocean-girdled](samudravalayāṃ) [earth](pṛthvīm) [ruled](anvaśāsaṃ) [long](ciraṃ) [indeed](khalu)

@@ -1,15 +1,18 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2867,
- "question": "Which color, garments, ornaments, and attributes define this Rudra-Bhargava form?",
+ "question": "Which lower-body parts are enumerated for the image?",
  "premises": [
-  "The form is red-garmented.",
-  "The form is broad-chested.",
-  "The form is jewel-gold-earringed."
+  "toe is enumerated",
+  "foot is enumerated",
+  "ankle is enumerated",
+  "shank is enumerated",
+  "knee is enumerated",
+  "thigh is enumerated"
  ],
- "inference": "This verse prescribes garment, chest, and earrings for the form.",
+ "inference": "The verse lists lower-body parts from toe to thigh.",
  "uncertainties": [
-  "The color of the form itself is not stated here."
+  "ritual use not stated"
  ],
- "plain_english": "The form is red-garmented, broad-chested, and jewel-gold-earringed."
+ "plain_english": "Toe, foot, ankle, shank, knee, and thigh are enumerated."
 }

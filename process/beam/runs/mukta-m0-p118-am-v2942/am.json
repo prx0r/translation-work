@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p118",
  "verse": 2942,
- "question": "What measurements are prescribed for the abdomen length and the sole?",
+ "question": "Which beings are said not to be present?",
  "premises": [
-  "The abdomen length is ten parts",
-  "The sole is four fingers long"
+  "Rākṣasas are absent",
+  "Piśācas are absent",
+  "Bhūtas vetālas and pūtanas are absent"
  ],
- "inference": "The abdomen should measure ten parts and the sole four fingers in length",
- "uncertainties": [],
- "plain_english": "The length of the abdomen is ten parts, and the sole is four fingers long."
+ "inference": "Rākṣasas, piśācas, bhūtas, vetālas, and pūtanas are not present.",
+ "uncertainties": [
+  "Exact scope of absence"
+ ],
+ "plain_english": "Not rākṣasas, piśācas, bhūtas, vetālas, or pūtanas."
 }

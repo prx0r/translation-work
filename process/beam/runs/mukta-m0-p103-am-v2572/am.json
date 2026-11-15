@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p103",
  "verse": 2572,
- "question": "How should the two knotted items be formed and visualized in terms of color?",
+ "question": "What should bathing be with thousand arranged pots?",
  "premises": [
-  "Two items are made with a knot and tip.",
-  "They are to be contemplated.",
-  "They are visualized as white and black."
+  "thousand pots are named",
+  "arranged is stated",
+  "bathing is named",
+  "should-be is stated"
  ],
- "inference": "The practitioner forms two knotted items with tips and contemplates them as white and black.",
- "uncertainties": [],
- "plain_english": "Having made two knotted items with tips, one should contemplate them as white and black."
+ "inference": "bathing should be with thousand arranged pots",
+ "uncertainties": [
+  "exact arrangement not stated"
+ ],
+ "plain_english": "Bathing should be with thousand arranged pots."
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p118",
  "verse": 2945,
- "question": "What breadth measurements are prescribed for the face and the ears?",
+ "question": "What kind of pot should be filled?",
  "premises": [
-  "The face breadth is eight and a half parts",
-  "The ear width is seven parts"
+  "The pot is gold-made",
+  "It is a pot",
+  "It is filled with ten droṇas"
  ],
- "inference": "The face should be eight and a half parts broad and the ears seven parts wide",
- "uncertainties": [],
- "plain_english": "The breadth of the face is eight and a half parts, and the width of the ear is seven parts."
+ "inference": "A gold-made pot filled with ten droṇas is required.",
+ "uncertainties": [
+  "Contents of droṇas"
+ ],
+ "plain_english": "A gold-made pot filled with ten droṇas."
 }

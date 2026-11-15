@@ -1,17 +1,15 @@
 {
  "song": "mukta-m0-p108",
  "verse": 2682,
- "question": "How many troops are placed in the northeastern direction?",
+ "question": "Where should the royal palace and merchants' quarter be placed?",
  "premises": [
-  "peacock-feathered is named śikhaṇḍī",
-  "thus is named ca",
-  "northeastern is named aiśānyām",
-  "seventy is named saptatiḥ",
-  "troops are named gaṇāḥ"
+  "the royal palace is outside that",
+  "the merchants' quarter is outside",
+  "both are external placements"
  ],
- "inference": "seventy troops are placed in the northeastern direction",
+ "inference": "The royal palace and merchants' quarter should be placed outside.",
  "uncertainties": [
-  "directional case sense is legacy hint only"
+  "exact relative order not stated"
  ],
- "plain_english": "Seventy peacock-feathered troops are in the northeastern direction."
+ "plain_english": "The royal palace and the merchants' quarter should be placed outside."
 }

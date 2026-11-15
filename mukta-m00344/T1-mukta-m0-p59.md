@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p59-v1451
-[from-body](dehāt) [thus](iti)
+[from-body](dehād) [etc](īti)
 
 ## mukta-m0-p59-v1452
-[by-that](tena) [this](idam) [in-own-self](svātmani) [world](jagat) [picture](citram) [unfolded](unmīlitam) [indeed](nanu)
+[by-that](tena) [this](idam) [in-self](svātmani) [world-picture](jagat+citram) [unfolded](unmīlitam) [indeed](nanu)
 
 ## mukta-m0-p59-v1453
-[by-the-Lord](īśvareṇa)
+[by-lord](īśvareṇa)
 
 ## mukta-m0-p59-v1454
-[without](ṛte) [consciousness](citim) [ever](kadācit) [or](vā) [where](kva) [what](kim) [to-be](bhavitum) [is-fit](arhati)
+[without](ṛte) [consciousness](citim) [ever](kadācid) [or](vā) [where](kva) [what](kim) [to-become](bhavitum) [is-worthy](arhati)
 
 ## mukta-m0-p59-v1455
-[when](kadā) [where](kva) [thus](mim) [iti](iti) [time](kāla) [space](deśa) [form](ākāra) [negation](pratiṣedhaḥ)
+[when](kadā) [where](kva) [measure](mimi) [thus](iti) [time-place-form](kāla+deśa+ākāra) [negation](pratiṣedhaḥ)
 
 ## mukta-m0-p59-v1456
 [non-existence](abhāvaḥ) [and](ca) [of-consciousness](citeḥ) [by-whom](kena) [would-be-established](sidhyet) [therefore](tasmāt) [consciousness](citiḥ) [supreme](parā)
 
 ## mukta-m0-p59-v1457
-[of-negation](niṣedha) [limit](avadhi) [being-the-ground](bhūtatvāt)
+[by-being-limit-of-negation](niṣedha+avadhi+bhūtatvāt)
 
 ## mukta-m0-p59-v1458
-[being](bhā)]
+[expression](bhā)
 
 ## mukta-m0-p59-v1459
-[world](jagat) [thus](iti) [with-example](sa+dṛṣṭāntam) [says](āha) - [ocean](samudram) [thus](iti)
+[world](jagat) [thus](iti) [with-example](sadṛṣṭāntam) [says](āha) [ocean](samudram) [thus](iti)
 
 ## mukta-m0-p59-v1460
-[therefore](tasmāt) [this](eṣaḥ) [great-god](mahā+devaḥ) [pure](śudha) [consciousness](caitanya) [form](vigrahaḥ)
+[therefore](tasmāt) [this](eṣa) [great-lord](mahādevaḥ) [pure-consciousness-form](śuddha+caitanya+vigrahaḥ)
 
 ## mukta-m0-p59-v1461
-[therefore](tasmāt) [pure](śuddha) [consciousness](caitanya) [form](vigrahaḥ) [visible](dṛśya) [trace](leśa) [devoid](rahitaḥ) [was](āsīt) [thus](iti) [connection](sambandhaḥ)
+[therefore](tasmāt) [pure-consciousness-form](śuddha+caitanya+vigrahaḥ) [without-visible-trace](dṛśya+leśa+rahitaḥ) [was](āsīt) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p59-v1462
-[in-that](tasmin) [dissolves](vilīyate) [and](ca) [in-the-end](ante) [world](jagat) [this](etat) [moving](cara) [and-unmoving](acaram)
+[in-that](tasmin) [dissolves](vilīyate) [and](ca) [at-end](ante) [this](etat) [world](jagat) [moving-immoving](carācaram)
 
 ## mukta-m0-p59-v1463
-[ocean](samudra) [etc.](ādi) [mere](mātra) [etc.](ādi) [self-nature](ātmatvam) [thus](evam) [of-world](jagataḥ) [consciousness](cit) [mere](mātra) [self-nature](ātmatvam) [thus](iti) [meaning](bhāvaḥ)
+[ocean-etc-measure-selfhood](samudra+ādi+mātrā+ādyātmatvam) [thus](evam) [of-world](jagataḥ) [consciousness-only-selfhood](cit+mātrā+ātmatvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p59-v1464
-[in-unseen](adṛṣṭa) [matters](artheṣu) [from-agreement](saṃvādāt) [authority](pramāṇam) [indeed](hi) [scripture](āgamaḥ) [would-be](bhavet)
+[in-unseen-matters](adṛṣṭa+artheṣu) [from-agreement](saṃvādāt) [authority](pramāṇam) [indeed](hi) [scripture](āgamaḥ) [becomes](bhavet)
 
 ## mukta-m0-p59-v1465
-[scripture](āgamaḥ) [authority](pramāṇam) [indeed](eva) [would-be](bhavet) [thus](iti) [meaning](bhāvaḥ)
+[scripture](āgamaḥ) [authority](pramāṇam) [indeed](eva) [becomes](bhavet) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p59-v1466
-[not](na) [small-minded](alpa+prajñaḥ) [would-know](vijānīyāt) [gem](maṇi) [mantra](mantra) [great](mahā) [fruit](phalam)
+[not-small-intellect](na+alpa+prajñaḥ) [should-know](vijānīyāt) [jewel-mantra-great-fruit](maṇi+mantra+mahā+phalam)
 
 ## mukta-m0-p59-v1467
-[to-give](dātum)] [not](na) [capable](samarthaḥ) [thus](iti) [says](āha) - [not](na) [thus](iti)
+[to-give](dātum) [not](na) [able](samarthaḥ) [thus](iti) [says](āha) [not](na) [thus](iti)
 
 ## mukta-m0-p59-v1468
-[there](tatra) [declared](uktaḥ) [god](devaḥ) [indeed](eva) [in-the-beginning](ādau) [of-creation](sṛṣṭeḥ) [of-world](jagataḥ) [situated](āsthitaḥ)
+[there](tatra) [spoken](uktaḥ) [lord](devaḥ) [indeed](eva) [at-first](ādau) [of-creation](sṛṣṭeḥ) [of-world](jagataḥ) [established](āsthitaḥ)
 
 ## mukta-m0-p59-v1469
-[god](devaḥ) [consciousness](cit) [mere](mātra) [form](mūrtiḥ) [Lord](īśvaraḥ) [by-emphatic-particle](eva+kāreṇa) [primordial-matter](pradhāna) [etc.](ādi) [exclusion](vyāvṛttiḥ)
+[lord](devaḥ) [consciousness-only-form](cit+mātra+mūrtiḥ) [lord](īśvaraḥ) [by-emphatic](evakāreṇa) [pradhāna-etc-exclusion](pradhāna+ādi+vyāvṛttiḥ)
 
 ## mukta-m0-p59-v1470
-[freedom](svātantryam) [by-that](tena) [endowed](yutaḥ)
+[freedom](svātantryam) [with-that](tena) [endowed](yutaḥ)
 
 ## mukta-m0-p59-v1471
-[not](na) [that](tat) [world](jagat) [comes-to-be](sambhavati) [outside](bahiḥ) [anywhere](kvacit) [situated](avasthitam)
+[not](na) [that](tat) [world](jagat) [can-arise](sambhavati) [outside](bahiḥ) [somewhere](kvacid) [situated](avasthitam)
 
 ## mukta-m0-p59-v1472
-[in-another](anya) [place](sthāna) [situated](sthitam) [and-that](tat) [and](ca) [in-any-way](kathañcit) [not](na) [indeed](eva) [is-established](sidhyati)
+[other-place-situated](anya+sthāna+sthitaṃ) [that](tat) [and](ca) [somehow](kathañcit) [not](na) [indeed](eva) [is-established](sidhyati)
 
 ## mukta-m0-p59-v1473
-[world](jagat) [is-established](siddhyati) [consciousness](cit) [light](prakāśa) [gone-outside](bahiḥ+gatasya) [from-non-manifestation](aprakāśāt) [thus](iti) [says](āha) - [in-another-place](anya+sthāne) [thus](iti)
+[world-is-established](jagat+siddhyati) [consciousness-light-outside-gone](cit+prakāśa+bahir+gatasya) [non-illumination](aprakāśāt) [thus](iti) [says](āha) [other-place](anya+sthāne) [thus](iti)
 
 ## mukta-m0-p59-v1474
-[world](jagat) [unfolded](unmīlitam) [in-god](deve) [and](ca) [thus](evam) [all](sarvam) [consistent](samañjasam)
+[world-unfolded](jagat+unmīlitam) [in-lord](deve) [and](ca) [thus](evam) [all](sarvam) [well-ordered](samañjasam)
 
 ## mukta-m0-p59-v1475
-[consistent](samañjasam) [thus](iti) [meaning](bhāvaḥ)
+[well-ordered](samañjasam) [thus](iti) [meaning](bhāvaḥ)

@@ -1,0 +1,1241 @@
+{
+ "song": "mukta-m0-p123",
+ "items": [
+  {
+   "verse": 3051,
+   "rows": [
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "legacy hint always",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "legacy hint offering",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "legacy hint having-made",
+     "morph": "abs. root kṛ"
+    },
+    {
+     "surface": "trisandhyaṃ",
+     "gloss": "at-three-junctures",
+     "grounds": "legacy hint at-three-junctures",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "with-three",
+     "grounds": "legacy hint with-three",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual offering schedule is prescribed for the deposit?",
+   "premises": [
+    "offering is made always",
+    "at three daily junctures",
+    "with three offerings"
+   ],
+   "inference": "The deposit ritual requires a constant threefold offering at three junctures.",
+   "uncertainties": [
+    "exact ritual referent of bali unclear"
+   ],
+   "plain_english": "Always make the offering, at the three junctures, with three offerings, and so on."
+  },
+  {
+   "verse": 3052,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "legacy hint first",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "legacy hint having-placed",
+     "morph": "abs. root nyas"
+    },
+    {
+     "surface": "dravyān",
+     "gloss": "substances",
+     "grounds": "legacy hint substances",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "legacy hint afterwards",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "legacy hint gods",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "legacy hint one-should-place",
+     "morph": "3.sg.opt. root nyas"
+    }
+   ],
+   "question": "In what order should substances and gods be placed?",
+   "premises": [
+    "substances are placed first",
+    "gods are placed afterwards",
+    "placement is prescribed"
+   ],
+   "inference": "Substances precede gods in the prescribed placement order.",
+   "uncertainties": [
+    "specific substances unnamed"
+   ],
+   "plain_english": "First place the substances, then afterwards place the gods."
+  },
+  {
+   "verse": 3053,
+   "rows": [
+    {
+     "surface": "upari",
+     "gloss": "above",
+     "grounds": "legacy hint above",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "and-below",
+     "grounds": "legacy hint and-below",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilāṃ",
+     "gloss": "stone",
+     "grounds": "legacy hint stone",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "legacy hint properly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "legacy hint one-should-arrange",
+     "morph": "3.sg.opt. root kalp"
+    }
+   ],
+   "question": "How should the stone be arranged above and below?",
+   "premises": [
+    "stone is arranged above",
+    "stone is arranged below",
+    "arrangement must be proper"
+   ],
+   "inference": "The stone should be properly arranged both above and below.",
+   "uncertainties": [
+    "exact stone function unclear"
+   ],
+   "plain_english": "Above and below here, arrange the stone properly indeed."
+  },
+  {
+   "verse": 3054,
+   "rows": [
+    {
+     "surface": "atiguptam",
+     "gloss": "very-secret",
+     "grounds": "legacy hint very-secret",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "garbhaṃ",
+     "gloss": "deposit",
+     "grounds": "legacy hint deposit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "suguptaṃ",
+     "gloss": "well-concealed",
+     "grounds": "legacy hint well-concealed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśayet",
+     "gloss": "one-should-reveal",
+     "grounds": "legacy hint one-should-reveal",
+     "morph": "3.sg.opt. caus. root kāś"
+    }
+   ],
+   "question": "Should this secret deposit be revealed?",
+   "premises": [
+    "deposit is very secret",
+    "deposit is well concealed",
+    "it should not be revealed"
+   ],
+   "inference": "The deposit must remain concealed and not be revealed.",
+   "uncertainties": [
+    "scope of secrecy unclear"
+   ],
+   "plain_english": "This deposit is very secret and well concealed; do not reveal it."
+  },
+  {
+   "verse": 3055,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-kālottara",
+     "grounds": "legacy hint in-kālottara",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ratna+garbha+lakṣaṇaṃ",
+     "gloss": "jewel-deposit-characteristic",
+     "grounds": "legacy hint jewel+deposit+characteristic",
+     "morph": "nom.sg.n compound"
+    },
+    {
+     "surface": "ekonaṣaṣṭitamaḥ",
+     "gloss": "fifty-ninth",
+     "grounds": "legacy hint fifty-ninth",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sargaḥ",
+     "gloss": "chapter",
+     "grounds": "legacy hint chapter",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What chapter number concludes the jewel deposit characteristics?",
+   "premises": [
+    "text is kālottara",
+    "topic is jewel deposit characteristic",
+    "chapter is fifty-ninth"
+   ],
+   "inference": "The jewel deposit characteristics form the fifty-ninth chapter of Kālottara.",
+   "uncertainties": [
+    "numbering convention unclear"
+   ],
+   "plain_english": "Thus in Kālottara, the jewel deposit characteristic is the fifty-ninth chapter."
+  },
+  {
+   "verse": 3056,
+   "rows": [
+    {
+     "surface": "daridrāṇāṃ",
+     "gloss": "of-the-poor",
+     "grounds": "legacy hint of-the-poor",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "hita+arthāya",
+     "gloss": "for-the-benefit",
+     "grounds": "legacy hint for-the-benefit",
+     "morph": "dat.sg.m compound"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "me",
+     "gloss": "from-me",
+     "grounds": "legacy hint from-me",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "nigatataḥ",
+     "gloss": "as-declared",
+     "grounds": "legacy hint as-declared",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "legacy hint hear",
+     "morph": "2.sg.imp. root śru"
+    }
+   ],
+   "question": "For whose benefit is the following deposit instruction given?",
+   "premises": [
+    "instruction is for the poor",
+    "benefit is intended",
+    "listener should hear"
+   ],
+   "inference": "The deposit instruction is given for the benefit of the poor.",
+   "uncertainties": [
+    "exact poor-class scope unclear"
+   ],
+   "plain_english": "For the benefit of the poor, hear that as declared by me."
+  },
+  {
+   "verse": 3057,
+   "rows": [
+    {
+     "surface": "sarva+ariṣṭa+vināśaṃ",
+     "gloss": "all-calamity-destruction",
+     "grounds": "legacy hint all+calamity+destruction",
+     "morph": "acc.sg.n compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+āpatti+vināśanam",
+     "gloss": "all-misfortune-destruction",
+     "grounds": "legacy hint all+misfortune+destruction",
+     "morph": "acc.sg.n compound"
+    }
+   ],
+   "question": "What calamities and misfortunes does this deposit destroy?",
+   "premises": [
+    "all calamity is destroyed",
+    "all misfortune is destroyed",
+    "deposit has protective power"
+   ],
+   "inference": "The deposit destroys all calamity and all misfortune.",
+   "uncertainties": [
+    "mechanism of destruction unclear"
+   ],
+   "plain_english": "It destroys all calamity and all misfortune."
+  },
+  {
+   "verse": 3058,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇaṃ",
+     "gloss": "brahmanical",
+     "grounds": "legacy hint brahmanical",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "hīṣṭhaṃ",
+     "gloss": "desired",
+     "grounds": "legacy hint desired",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pañcagavyasya",
+     "gloss": "of-five-products-of-cow",
+     "grounds": "legacy hint of-five-products-of-cow",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "garbhakam",
+     "gloss": "deposit",
+     "grounds": "legacy hint deposit",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What deposit is desired and brahmanical?",
+   "premises": [
+    "deposit is desired",
+    "deposit is brahmanical",
+    "deposit uses five cow products"
+   ],
+   "inference": "The desired brahmanical deposit is made from five cow products.",
+   "uncertainties": [
+    "exact pañcagavya composition assumed"
+   ],
+   "plain_english": "Indeed all desired brahmanical deposit is of five cow products."
+  },
+  {
+   "verse": 3059,
+   "rows": [
+    {
+     "surface": "pūrva+ukta+phelakāyāṃ",
+     "gloss": "in-previously-mentioned-box",
+     "grounds": "legacy hint in-previously-mentioned+box",
+     "morph": "loc.sg.f compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṣipet",
+     "gloss": "one-should-place",
+     "grounds": "legacy hint one-should-place",
+     "morph": "3.sg.opt. root kṣip"
+    },
+    {
+     "surface": "garbham",
+     "gloss": "deposit",
+     "grounds": "legacy hint deposit",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "legacy hint excellent",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Where should the excellent deposit be placed?",
+   "premises": [
+    "box was previously mentioned",
+    "deposit should be placed",
+    "deposit is excellent"
+   ],
+   "inference": "The excellent deposit should be placed in the previously mentioned box.",
+   "uncertainties": [
+    "box identity unclear"
+   ],
+   "plain_english": "But in the previously mentioned box, place the excellent deposit."
+  },
+  {
+   "verse": 3060,
+   "rows": [
+    {
+     "surface": "pure",
+     "gloss": "in-city",
+     "grounds": "legacy hint in-city",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kubjake",
+     "gloss": "in-kubjaka",
+     "grounds": "legacy hint in-kubjaka",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ku+grāme",
+     "gloss": "in-bad-village",
+     "grounds": "legacy hint in-bad-village",
+     "morph": "loc.sg.m compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "legacy hint likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which settlements may the deposit be placed?",
+   "premises": [
+    "city is allowed",
+    "kubjaka is allowed",
+    "bad village is allowed"
+   ],
+   "inference": "The deposit may be placed in city, kubjaka, or bad village.",
+   "uncertainties": [
+    "kubjaka meaning unclear"
+   ],
+   "plain_english": "In city, or in kubjaka, or also in bad village, likewise and."
+  },
+  {
+   "verse": 3061,
+   "rows": [
+    {
+     "surface": "suvarṇa+rajata+bhāṇḍāre",
+     "gloss": "in-gold-silver-treasury",
+     "grounds": "legacy hint in-gold+silver+treasury",
+     "morph": "loc.sg.n compound"
+    },
+    {
+     "surface": "gaja+aśva+sthāne",
+     "gloss": "in-elephant-horse-place",
+     "grounds": "legacy hint in-elephant+horse+place",
+     "morph": "loc.sg.n compound"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-deposit",
+     "grounds": "legacy hint one-should-deposit",
+     "morph": "3.sg.opt. root kṣip"
+    }
+   ],
+   "question": "Where may the deposit be deposited among treasury and stables?",
+   "premises": [
+    "gold silver treasury is allowed",
+    "elephant horse place is allowed",
+    "deposit should be placed"
+   ],
+   "inference": "The deposit may be placed in gold-silver treasury or elephant-horse place.",
+   "uncertainties": [
+    "whether both or either unclear"
+   ],
+   "plain_english": "In gold-silver treasury, in elephant-horse place, one should deposit."
+  },
+  {
+   "verse": 3062,
+   "rows": [
+    {
+     "surface": "sūpa+sthāne",
+     "gloss": "in-kitchen-place",
+     "grounds": "legacy hint in-kitchen+place",
+     "morph": "loc.sg.n compound"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "legacy hint especially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "legacy hint in-place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaṇe",
+     "gloss": "in-passage",
+     "grounds": "legacy hint in-passage",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which special places are especially suitable for deposit?",
+   "premises": [
+    "kitchen place is especially suitable",
+    "passage is also suitable",
+    "placement is prescribed"
+   ],
+   "inference": "Kitchen place especially, and passage also, are suitable deposit places.",
+   "uncertainties": [
+    "exact sthāne referent unclear"
+   ],
+   "plain_english": "In kitchen place especially, or in place, or in passage also, and."
+  },
+  {
+   "verse": 3063,
+   "rows": [
+    {
+     "surface": "maṇḍapasya+ālaye",
+     "gloss": "in-pavilion-abode",
+     "grounds": "legacy hint in-pavilion+abode",
+     "morph": "loc.sg.m compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kanyā+prāsādakeṣu",
+     "gloss": "in-maiden-palaces",
+     "grounds": "legacy hint in-maiden+palaces",
+     "morph": "loc.pl.m compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which abodes and palaces are named for deposit?",
+   "premises": [
+    "pavilion abode is named",
+    "maiden palaces are named",
+    "deposit placement extends there"
+   ],
+   "inference": "Deposit placement includes pavilion abodes and maiden palaces.",
+   "uncertainties": [
+    "social context unclear"
+   ],
+   "plain_english": "In pavilion abode indeed, and in maiden palaces, and."
+  },
+  {
+   "verse": 3064,
+   "rows": [
+    {
+     "surface": "gaṇḍa+maṇḍalake",
+     "gloss": "in-boil-circle",
+     "grounds": "legacy hint in-boil+circle",
+     "morph": "loc.sg.m compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "legacy hint alone",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpa+maṇḍapakeṣu",
+     "gloss": "in-flower-pavilions",
+     "grounds": "legacy hint in-flower+pavilions",
+     "morph": "loc.pl.m compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which circles and pavilions are named for deposit?",
+   "premises": [
+    "boil circle is named",
+    "flower pavilions are named",
+    "deposit placement extends there"
+   ],
+   "inference": "Deposit placement includes boil circles and flower pavilions.",
+   "uncertainties": [
+    "gaṇḍa meaning unclear"
+   ],
+   "plain_english": "In boil circle alone, and in flower pavilions, and."
+  },
+  {
+   "verse": 3065,
+   "rows": [
+    {
+     "surface": "sāmantānāṃ",
+     "gloss": "of-vassals",
+     "grounds": "legacy hint of-vassals",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "legacy hint in-house",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇikāyā",
+     "gloss": "of-courtesan",
+     "grounds": "legacy hint of-courtesan",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "gṛheṣu",
+     "gloss": "in-houses",
+     "grounds": "legacy hint in-houses",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose houses are named for deposit placement?",
+   "premises": [
+    "vassals houses are named",
+    "courtesan houses are named",
+    "deposit placement extends there"
+   ],
+   "inference": "Deposit placement includes vassal houses and courtesan houses.",
+   "uncertainties": [
+    "social implications unclear"
+   ],
+   "plain_english": "In vassals house indeed, and in courtesan houses, and."
+  },
+  {
+   "verse": 3066,
+   "rows": [
+    {
+     "surface": "devatā+bhavane",
+     "gloss": "in-deity-abode",
+     "grounds": "legacy hint in-deity+abode",
+     "morph": "loc.sg.n compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūta+gṛheṣu",
+     "gloss": "in-messenger-houses",
+     "grounds": "legacy hint in-messenger+houses",
+     "morph": "loc.pl.m compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deity and messenger abodes are named for deposit?",
+   "premises": [
+    "deity abode is named",
+    "messenger houses are named",
+    "deposit placement extends there"
+   ],
+   "inference": "Deposit placement includes deity abodes and messenger houses.",
+   "uncertainties": [
+    "specific deities unclear"
+   ],
+   "plain_english": "In deity abode indeed, likewise in messenger houses, and."
+  },
+  {
+   "verse": 3067,
+   "rows": [
+    {
+     "surface": "rājñāṃ",
+     "gloss": "of-kings",
+     "grounds": "legacy hint of-kings",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "sa+parivārāṇāṃ",
+     "gloss": "with-retinues",
+     "grounds": "legacy hint with-retinues",
+     "morph": "gen.pl.m compound"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "legacy hint of-all",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "bhavaneṣu",
+     "gloss": "in-abodes",
+     "grounds": "legacy hint in-abodes",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose abodes are named for deposit placement?",
+   "premises": [
+    "kings with retinues are named",
+    "all are included",
+    "abodes are named"
+   ],
+   "inference": "Deposit placement includes abodes of kings with retinues and all.",
+   "uncertainties": [
+    "scope of all unclear"
+   ],
+   "plain_english": "In abodes of kings with retinues and all, and."
+  },
+  {
+   "verse": 3068,
+   "rows": [
+    {
+     "surface": "vatsare",
+     "gloss": "year",
+     "grounds": "legacy hint year",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vatsare",
+     "gloss": "after-year",
+     "grounds": "legacy hint after-year",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣāṇmāse",
+     "gloss": "in-six-months",
+     "grounds": "legacy hint in-six-months",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trimāsike",
+     "gloss": "in-three-months",
+     "grounds": "legacy hint in-three-months",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What time intervals are prescribed for renewal?",
+   "premises": [
+    "yearly renewal is prescribed",
+    "six-month renewal is prescribed",
+    "three-month renewal is prescribed"
+   ],
+   "inference": "Renewal may occur yearly, every six months, or every three months.",
+   "uncertainties": [
+    "whether alternatives or cumulative unclear"
+   ],
+   "plain_english": "Year after year indeed, or in six months, or in three months."
+  },
+  {
+   "verse": 3069,
+   "rows": [
+    {
+     "surface": "pañcagavyena",
+     "gloss": "with-five-products-of-cow",
+     "grounds": "legacy hint with-five-products-of-cow",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "nṛpatiṃ",
+     "gloss": "of-king",
+     "grounds": "legacy hint of-king",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "abhiṣekaṃ",
+     "gloss": "sprinkling",
+     "grounds": "legacy hint sprinkling",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvake",
+     "gloss": "in-the-former",
+     "grounds": "legacy hint in-the-former",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "How is the king sprinkled in the former rite?",
+   "premises": [
+    "sprinkling uses five cow products",
+    "king is sprinkled",
+    "former rite is referenced"
+   ],
+   "inference": "In the former rite, the king is sprinkled with five cow products.",
+   "uncertainties": [
+    "former rite identity unclear"
+   ],
+   "plain_english": "But in the former, sprinkle the king with five cow products."
+  },
+  {
+   "verse": 3070,
+   "rows": [
+    {
+     "surface": "abhiṣekaṃ",
+     "gloss": "sprinkling",
+     "grounds": "legacy hint sprinkling",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "parva+parve",
+     "gloss": "at-every-festival",
+     "grounds": "legacy hint at-every-festival",
+     "morph": "loc.sg.n compound"
+    },
+    {
+     "surface": "sarva+kṛtrima+nāśanam",
+     "gloss": "all-artificial-destruction",
+     "grounds": "legacy hint all+artificial+destruction",
+     "morph": "acc.sg.n compound"
+    }
+   ],
+   "question": "What does sprinkling at every festival destroy?",
+   "premises": [
+    "sprinkling occurs at every festival",
+    "all artificial things are destroyed",
+    "rite has protective effect"
+   ],
+   "inference": "Sprinkling at every festival destroys all artificial harm.",
+   "uncertainties": [
+    "kṛtrima scope unclear"
+   ],
+   "plain_english": "Sprinkling at every festival destroys all artificial harm."
+  },
+  {
+   "verse": 3071,
+   "rows": [
+    {
+     "surface": "āyuḥ+ārogya+daṃ",
+     "gloss": "life-health-giving",
+     "grounds": "legacy hint life+health-giving",
+     "morph": "acc.sg.n compound"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "legacy hint always",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmī+vivardhanaṃ",
+     "gloss": "prosperity-increasing",
+     "grounds": "legacy hint prosperity+increasing",
+     "morph": "acc.sg.n compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint likewise",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What benefits does the rite always give?",
+   "premises": [
+    "life and health are given",
+    "prosperity is increased",
+    "benefits are constant"
+   ],
+   "inference": "The rite always gives life, health, and increased prosperity.",
+   "uncertainties": [
+    "recipient unspecified"
+   ],
+   "plain_english": "It always gives life and health, and likewise increases prosperity."
+  },
+  {
+   "verse": 3072,
+   "rows": [
+    {
+     "surface": "tat+dine",
+     "gloss": "on-that-day",
+     "grounds": "legacy hint on-that-day",
+     "morph": "loc.sg.m compound"
+    },
+    {
+     "surface": "duṣkṛtaṃ",
+     "gloss": "evil-deed",
+     "grounds": "legacy hint evil-deed",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "legacy hint whatever",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perishes",
+     "grounds": "legacy hint perishes",
+     "morph": "3.sg.pres. root naś"
+    },
+    {
+     "surface": "lakṣaṇāt",
+     "gloss": "by-the-characteristic",
+     "grounds": "legacy hint by-the-characteristic",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "What happens to evil deeds on that day?",
+   "premises": [
+    "evil deed is named",
+    "all evil perishes",
+    "perishing is by characteristic"
+   ],
+   "inference": "On that day all evil deeds perish by the characteristic.",
+   "uncertainties": [
+    "lakṣaṇa referent unclear"
+   ],
+   "plain_english": "On that day whatever evil deed, all perishes by the characteristic."
+  },
+  {
+   "verse": 3073,
+   "rows": [
+    {
+     "surface": "īśānaḥ",
+     "gloss": "īśāna",
+     "grounds": "legacy hint īśāna",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parjanyaḥ",
+     "gloss": "parjanya",
+     "grounds": "legacy hint parjanya",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jayaḥ",
+     "gloss": "jaya",
+     "grounds": "legacy hint jaya",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mahendraḥ",
+     "gloss": "mahendra",
+     "grounds": "legacy hint mahendra",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are named in this list?",
+   "premises": [
+    "īśāna is named",
+    "parjanya is named",
+    "jaya and mahendra are named"
+   ],
+   "inference": "The named deities include īśāna, parjanya, jaya, and mahendra.",
+   "uncertainties": [
+    "list purpose unclear"
+   ],
+   "plain_english": "Īśāna indeed, and parjanya, jaya, mahendra indeed, and."
+  },
+  {
+   "verse": 3074,
+   "rows": [
+    {
+     "surface": "vahni+pūrvā",
+     "gloss": "beginning-with-vahni",
+     "grounds": "legacy hint beginning-with-vahni",
+     "morph": "nom.pl.f compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vitayaḥ",
+     "gloss": "vitaya",
+     "grounds": "legacy hint vitaya",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "grahakṣataḥ",
+     "gloss": "grahakṣata",
+     "grounds": "legacy hint grahakṣata",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yamau",
+     "gloss": "and-yama",
+     "grounds": "legacy hint and-yama",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint likewise",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further deities and groups are named?",
+   "premises": [
+    "vahni-pūrvā group is named",
+    "vitaya is named",
+    "grahakṣata and yama are named"
+   ],
+   "inference": "Further named items include vahni-pūrvā, vitaya, grahakṣata, and yama.",
+   "uncertainties": [
+    "exact group membership unclear"
+   ],
+   "plain_english": "Beginning with vahni, and vitaya, grahakṣata, and yama likewise."
+  }
+ ]
+}

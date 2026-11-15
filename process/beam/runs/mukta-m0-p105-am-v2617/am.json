@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2617,
- "question": "What length is prescribed for the root joint of the middle finger?",
+ "question": "Which flowers are enumerated for the ritual?",
  "premises": [
-  "The middle finger's root joint is being measured.",
-  "Its length is given as a numerical count.",
-  "The measure specified is eighteen barleycorns."
+  "Flower is named.",
+  "Lotus is named.",
+  "Blue lotus is named.",
+  "Vakula and pāṭalī are named."
  ],
- "inference": "The length of the middle finger's root joint should be eighteen barleycorns.",
- "uncertainties": [],
- "plain_english": "The length of the root joint of the middle finger should be eighteen barleycorns."
+ "inference": "The ritual enumerates flower, lotus, blue lotus, vakula, and pāṭalī.",
+ "uncertainties": [
+  "Nṛpa may be a flower name."
+ ],
+ "plain_english": "Flower, lotus, blue lotus, vakula, and pāṭalī."
 }

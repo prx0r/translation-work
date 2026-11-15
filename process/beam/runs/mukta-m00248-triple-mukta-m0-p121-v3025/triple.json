@@ -1,0 +1,71 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "vaiṇavaṃ",
+     "gloss": "bamboo-seed",
+     "grounds": "legacy hint identifies this item",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "tilam",
+     "gloss": "sesame",
+     "grounds": "legacy hint identifies this item",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "udgaṃ",
+     "gloss": "mung-bean",
+     "grounds": "legacy hint identifies this item",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇakaṃ",
+     "gloss": "chickpea",
+     "grounds": "legacy hint identifies this item",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "māṣam",
+     "gloss": "black-gram",
+     "grounds": "legacy hint identifies this item",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seeds and legumes are enumerated in this prescribed list?",
+   "premises": [
+    "vaiṇavaṃ denotes bamboo-seed",
+    "tilam denotes sesame",
+    "udgaṃ denotes mung-bean",
+    "caṇakaṃ denotes chickpea",
+    "māṣam denotes black-gram"
+   ],
+   "inference": "The verse enumerates bamboo-seed, sesame, mung-bean, chickpea, and black-gram.",
+   "uncertainties": [
+    "The exact ritual use of these items is not stated in this verse."
+   ],
+   "plain_english": "Bamboo-seed, sesame, mung-bean, chickpea, and black-gram."
+  }
+ ]
+}

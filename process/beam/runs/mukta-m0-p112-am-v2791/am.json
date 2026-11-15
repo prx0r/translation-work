@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2791,
- "question": "What color is the man in this zodiacal figure?",
+ "question": "Which further items are counted as jewels?",
  "premises": [
-  "the verse names a man",
-  "it gives his color"
+  "ram jewel is listed",
+  "buffalo jewel is listed",
+  "jar jewel is listed"
  ],
- "inference": "the man is white-colored",
+ "inference": "these items are also classified as jewels",
  "uncertainties": [
-  "zodiac sign implicit"
+  "karan takam spelling"
  ],
- "plain_english": "The man is white-colored."
+ "plain_english": "Ram jewel, buffalo jewel, and jar jewel likewise."
 }

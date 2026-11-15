@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2783,
- "question": "What color is the woman in this zodiacal figure?",
+ "question": "Which gems are to be collected among the royal treasures?",
  "premises": [
-  "the verse names a woman",
-  "it gives her color"
+  "thunderbolt gem is listed",
+  "padmarāga is listed",
+  "emerald and pearl are listed"
  ],
- "inference": "the woman is brown-colored",
+ "inference": "these gems belong to the treasury",
  "uncertainties": [
-  "zodiac sign implicit"
+  "vajra as gem or weapon"
  ],
- "plain_english": "The woman is brown-colored."
+ "plain_english": "Thunderbolt, padmarāga, emerald, and pearl likewise."
 }

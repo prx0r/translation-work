@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2620,
- "question": "What breadth is designated for the root of the palm?",
+ "question": "What should be placed east of this row in order?",
  "premises": [
-  "The breadth at the root of the palm is being specified.",
-  "The measure is stated as six and a half parts.",
-  "The text explicitly calls it by this measure."
+  "This row is referenced.",
+  "East is specified.",
+  "Sugarcane water is named.",
+  "Orderly placement is commanded."
  ],
- "inference": "The breadth of the palm's root is called six and a half parts.",
- "uncertainties": [],
- "plain_english": "The breadth at the root of the palm is indeed called six and a half parts."
+ "inference": "Sugarcane water should be placed east of this row in order.",
+ "uncertainties": [
+  "Exact row identity unclear."
+ ],
+ "plain_english": "Place sugarcane water east of this row in order."
 }

@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p111",
  "verse": 2775,
- "question": "What variegated color characterizes the puruṣa in this description?",
+ "question": "What shape and location should the six-faced temple be constructed?",
  "premises": [
-  "puruṣaḥ names the subject",
-  "karbura qualifies the color",
-  "varṇaḥ means color"
+  "Temple is rectangular.",
+  "Temple is built on river bank.",
+  "Temple is six-faced."
  ],
- "inference": "the puruṣa has spotted color",
+ "inference": "The prescribed temple is rectangular, six-faced, and located on a river bank.",
  "uncertainties": [
-  "ritual context unspecified"
+  "Exact grammatical case of ṣaḍānana is unresolved.",
+  "Whether ṣaḍānana modifies temple or deity is unresolved."
  ],
- "plain_english": "The man is of spotted color."
+ "plain_english": "The temple should be rectangular, made on a river bank, and six-faced."
 }

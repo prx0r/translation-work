@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2787,
- "question": "What color is the man in this zodiacal figure?",
+ "question": "Should one ever fight for increase of all jewels?",
  "premises": [
-  "the verse names a man",
-  "it gives his color"
+  "all jewels increase is mentioned",
+  "fighting is negated",
+  "ever is negated"
  ],
- "inference": "the man is white-colored",
+ "inference": "one should never fight for jewel increase",
  "uncertainties": [
-  "zodiac sign implicit"
+  "vṛddhiś subject"
  ],
- "plain_english": "The man is white-colored."
+ "plain_english": "Never fight for increase of all jewels."
 }

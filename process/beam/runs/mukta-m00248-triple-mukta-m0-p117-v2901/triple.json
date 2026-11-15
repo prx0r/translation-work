@@ -1,0 +1,1089 @@
+{
+ "song": "mukta-m0-p117",
+ "items": [
+  {
+   "verse": 2901,
+   "rows": [
+    {
+     "surface": "śeṣadeśagṛhe",
+     "gloss": "remaining-place-house",
+     "grounds": "compound surface kept fused",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śreṣṭhamanirvāṇaṃ",
+     "gloss": "best-extinction",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pradīpakam",
+     "gloss": "lamp",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which lamp arrangement is prescribed for the remaining place and house?",
+   "premises": [
+    "remaining place house is specified",
+    "best extinction lamp is named",
+    "lamp is the object"
+   ],
+   "inference": "The verse prescribes a best lamp for the remaining place and house.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "A best lamp is prescribed for the remaining place and house."
+  },
+  {
+   "verse": 2902,
+   "rows": [
+    {
+     "surface": "pure",
+     "gloss": "in-city",
+     "grounds": "surface as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kubjake",
+     "gloss": "in-kubjaka",
+     "grounds": "surface as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhakṣetrepi",
+     "gloss": "house-site",
+     "grounds": "surface as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "koṣṭhake",
+     "gloss": "in-chamber",
+     "grounds": "surface as given",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which alternative locations may the lamp arrangement be placed?",
+   "premises": [
+    "city is an option",
+    "kubjaka is an option",
+    "house site is an option",
+    "chamber is an option"
+   ],
+   "inference": "The verse lists alternative locations for the lamp arrangement.",
+   "uncertainties": [
+    "sandhi in vāpi and gṛhakṣetrepi not expanded"
+   ],
+   "plain_english": "The lamp may be placed in the city, kubjaka, house site, or chamber."
+  },
+  {
+   "verse": 2903,
+   "rows": [
+    {
+     "surface": "dvātriṃśaddroṇasaṃpūrṇaṃ",
+     "gloss": "thirty-two-droṇa-filled",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīpabhājanam",
+     "gloss": "lamp-vessel",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "best",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What capacity and quality are prescribed for the lamp vessel?",
+   "premises": [
+    "thirty-two droṇa filled is stated",
+    "lamp vessel is named",
+    "best quality is stated"
+   ],
+   "inference": "The best lamp vessel is filled to thirty-two droṇa.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The best lamp vessel is filled to thirty-two droṇa."
+  },
+  {
+   "verse": 2904,
+   "rows": [
+    {
+     "surface": "stambhapālikasaṃyuktaṃ",
+     "gloss": "pillar-guard-joined",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "pādapīṭhaṃ",
+     "gloss": "foot-base",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "suśobhanam",
+     "gloss": "very-beautiful",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What kind of foot base is prescribed for the lamp?",
+   "premises": [
+    "pillar guard joined is stated",
+    "foot base is named",
+    "very beautiful is stated"
+   ],
+   "inference": "The lamp foot base is joined with a pillar guard and very beautiful.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The lamp foot base is joined with a pillar guard and is very beautiful."
+  },
+  {
+   "verse": 2905,
+   "rows": [
+    {
+     "surface": "ajāghṛtaṃ",
+     "gloss": "goat-ghee",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "mahiṣaṃ",
+     "gloss": "buffalo",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kanyasaṃ",
+     "gloss": "inferior",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Which ghee qualities are assigned to middle and inferior lamps?",
+   "premises": [
+    "goat ghee is middle",
+    "buffalo is inferior",
+    "should be is stated twice"
+   ],
+   "inference": "Goat ghee is middle and buffalo ghee is inferior.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Goat ghee is middle and buffalo ghee is inferior."
+  },
+  {
+   "verse": 2906,
+   "rows": [
+    {
+     "surface": "śvetapadmajasūtraṃ",
+     "gloss": "white-lotus-born-thread",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhārdhapramāṇakam",
+     "gloss": "inferior-half-measure",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What thread measure is prescribed for the inferior lamp?",
+   "premises": [
+    "white lotus born thread is named",
+    "indeed is stated",
+    "inferior half measure is stated"
+   ],
+   "inference": "The inferior lamp uses white lotus born thread of half measure.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The inferior lamp uses white lotus born thread of half measure."
+  },
+  {
+   "verse": 2907,
+   "rows": [
+    {
+     "surface": "śvetārkamūlamiśraṃ",
+     "gloss": "white-arka-root-mixed",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalatrayasamanvitam",
+     "gloss": "three-fruits-endowed-with",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What mixture and fruit endowment are prescribed for the lamp?",
+   "premises": [
+    "white arka root mixed is stated",
+    "indeed is stated",
+    "three fruits endowed with is stated"
+   ],
+   "inference": "The lamp mixture includes white arka root and three fruits.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The lamp mixture includes white arka root and three fruits."
+  },
+  {
+   "verse": 2908,
+   "rows": [
+    {
+     "surface": "gulavaddāru",
+     "gloss": "molasses-like-wood",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punnāgacūrṇakam",
+     "gloss": "punnāga-powder",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which powders are listed for the lamp preparation?",
+   "premises": [
+    "molasses-like wood powder is named",
+    "indeed is stated",
+    "two starred tokens are present",
+    "punnāga powder is named"
+   ],
+   "inference": "The verse lists molasses-like wood powder and punnāga powder among lamp ingredients.",
+   "uncertainties": [
+    "starred tokens unresolved"
+   ],
+   "plain_english": "The lamp preparation includes molasses-like wood powder and punnāga powder."
+  },
+  {
+   "verse": 2909,
+   "rows": [
+    {
+     "surface": "palāśakhadirannāgacūrṇamiśraṃ",
+     "gloss": "palāśa-khadira-nāga-powder-mixed",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartitam",
+     "gloss": "made-into-wick",
+     "grounds": "surface as given",
+     "morph": "pp.acc.sg"
+    }
+   ],
+   "question": "What mixed powder is made into a wick?",
+   "premises": [
+    "palāśa khadira nāga powder mixed is stated",
+    "indeed is stated",
+    "made into wick is stated"
+   ],
+   "inference": "The mixed powder of palāśa, khadira, and nāga is made into a wick.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The mixed powder of palāśa, khadira, and nāga is made into a wick."
+  },
+  {
+   "verse": 2910,
+   "rows": [
+    {
+     "surface": "dīpabhāṇḍe",
+     "gloss": "lamp-vessel",
+     "grounds": "compound surface kept fused",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sicya",
+     "gloss": "having-poured",
+     "grounds": "surface as given",
+     "morph": "abs"
+    },
+    {
+     "surface": "sarvayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "compound surface kept fused",
+     "morph": "adv"
+    },
+    {
+     "surface": "buddhimān",
+     "gloss": "wise-one",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should ghee be placed in the lamp vessel?",
+   "premises": [
+    "lamp vessel is named",
+    "ghee is named",
+    "having poured is stated",
+    "with all effort is stated",
+    "wise one is named"
+   ],
+   "inference": "The wise one pours ghee into the lamp vessel with all effort.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The wise one pours ghee into the lamp vessel with all effort."
+  },
+  {
+   "verse": 2911,
+   "rows": [
+    {
+     "surface": "nadī",
+     "gloss": "river",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāgaviṣāṇotthavarāhavihitaṃ",
+     "gloss": "elephant-tusk-born",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What river-related material is prescribed likewise?",
+   "premises": [
+    "river is named",
+    "elephant tusk born is stated",
+    "likewise is stated"
+   ],
+   "inference": "The verse names a river-related material and says likewise.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "A river-related material is named, and likewise is stated."
+  },
+  {
+   "verse": 2912,
+   "rows": [
+    {
+     "surface": "samudrāt",
+     "gloss": "from-ocean",
+     "grounds": "surface as given",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "parvatāt",
+     "gloss": "from-mountain",
+     "grounds": "surface as given",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṣaśṛṅgāt",
+     "gloss": "from-bull-horn",
+     "grounds": "compound surface kept fused",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which sources are materials to be taken?",
+   "premises": [
+    "from ocean is stated",
+    "from mountain is stated",
+    "from bull horn is stated",
+    "likewise is stated"
+   ],
+   "inference": "Materials are to be taken from ocean, mountain, and bull horn.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Materials are to be taken from the ocean, mountain, and bull horn."
+  },
+  {
+   "verse": 2913,
+   "rows": [
+    {
+     "surface": "lakṣmīgṛhāt",
+     "gloss": "Lakṣmī-house",
+     "grounds": "compound surface kept fused",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mṛdaṃ",
+     "gloss": "clay",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhya",
+     "gloss": "having-taken",
+     "grounds": "surface as given",
+     "morph": "abs"
+    },
+    {
+     "surface": "dīpamūle",
+     "gloss": "lamp-base",
+     "grounds": "compound surface kept fused",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-place",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should clay from Lakṣmī's house be placed?",
+   "premises": [
+    "from Lakṣmī house is stated",
+    "clay is named",
+    "having taken is stated",
+    "lamp base is named",
+    "should place is stated"
+   ],
+   "inference": "Clay from Lakṣmī's house should be placed at the lamp base.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Clay from Lakṣmī's house should be placed at the lamp base."
+  },
+  {
+   "verse": 2914,
+   "rows": [
+    {
+     "surface": "pṛthakpṛthak",
+     "gloss": "separately-separately",
+     "grounds": "surface as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkaṃ",
+     "gloss": "niṣka",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "best",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamaṅgalam",
+     "gloss": "eight-auspicious-marks",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What separate best auspicious item is prescribed?",
+   "premises": [
+    "separately separately is stated",
+    "niṣka is named",
+    "best is stated",
+    "eight auspicious marks is named"
+   ],
+   "inference": "A separate best niṣka and eight auspicious marks are prescribed.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "A separate best niṣka and eight auspicious marks are prescribed."
+  },
+  {
+   "verse": 2915,
+   "rows": [
+    {
+     "surface": "alābhe",
+     "gloss": "in-absence",
+     "grounds": "surface as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rajatena",
+     "gloss": "with-silver",
+     "grounds": "surface as given",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "aṣṭamaṅgalam",
+     "gloss": "eight-auspicious-marks",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be made with silver when the item is unavailable?",
+   "premises": [
+    "in absence is stated",
+    "with silver is stated",
+    "should make is stated",
+    "eight auspicious marks is named"
+   ],
+   "inference": "When unavailable, eight auspicious marks should be made with silver.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "When unavailable, eight auspicious marks should be made with silver."
+  },
+  {
+   "verse": 2916,
+   "rows": [
+    {
+     "surface": "tāraṃ",
+     "gloss": "silver",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alābhe",
+     "gloss": "in-absence",
+     "grounds": "surface as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlpena",
+     "gloss": "with-winnowing-basket",
+     "grounds": "surface as given",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What alternative making is prescribed when silver is unavailable?",
+   "premises": [
+    "silver is named",
+    "in absence is stated",
+    "with winnowing basket is stated",
+    "should make is stated"
+   ],
+   "inference": "When silver is unavailable, the item should also be made with a winnowing basket.",
+   "uncertainties": [
+    "exact referent of item not explicit"
+   ],
+   "plain_english": "When silver is unavailable, the item should also be made with a winnowing basket."
+  },
+  {
+   "verse": 2917,
+   "rows": [
+    {
+     "surface": "navalakṣābhiḥ",
+     "gloss": "nine-hundred-thousand",
+     "grounds": "compound surface kept fused",
+     "morph": "num.inst.pl"
+    },
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "surface as given",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dīpam",
+     "gloss": "lamp",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "best",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "How many mantras are used to place the best lamp?",
+   "premises": [
+    "nine hundred thousand is stated",
+    "with mantras is stated",
+    "should place is stated",
+    "best lamp is named"
+   ],
+   "inference": "The best lamp is placed with nine hundred thousand mantras.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The best lamp is placed with nine hundred thousand mantras."
+  },
+  {
+   "verse": 2918,
+   "rows": [
+    {
+     "surface": "tā",
+     "gloss": "of-them",
+     "grounds": "surface as given",
+     "morph": "pron.acc.pl"
+    },
+    {
+     "surface": "sāmuddhāraṃ",
+     "gloss": "extraction",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-speak",
+     "grounds": "surface as given",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "garbhasiddhyarthakāraṇam",
+     "gloss": "womb-accomplishment-purpose-cause",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What extraction will be spoken for womb accomplishment?",
+   "premises": [
+    "of them is stated",
+    "extraction is named",
+    "I shall speak is stated",
+    "womb accomplishment purpose cause is named"
+   ],
+   "inference": "The speaker will speak the extraction for womb accomplishment.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The speaker will speak the extraction for womb accomplishment."
+  },
+  {
+   "verse": 2919,
+   "rows": [
+    {
+     "surface": "caturtha",
+     "gloss": "fourth",
+     "grounds": "surface as given",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "svarasaṃyuktaṃ",
+     "gloss": "svarasaṃyuktaṃ",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "rudraviṣṇusamanvitam",
+     "gloss": "Rudra-Viṣṇu-endowed-with",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What is the fourth item endowed with Rudra and Viṣṇu?",
+   "premises": [
+    "fourth is stated",
+    "svarasaṃyuktaṃ is stated",
+    "Rudra Viṣṇu endowed with is stated"
+   ],
+   "inference": "The fourth item is endowed with Rudra and Viṣṇu.",
+   "uncertainties": [
+    "svarasaṃyuktaṃ left untranslated"
+   ],
+   "plain_english": "The fourth item is endowed with Rudra and Viṣṇu."
+  },
+  {
+   "verse": 2920,
+   "rows": [
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "kubjarāgrāhya",
+     "gloss": "kubja-seed-to-be-taken",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "jātavedasamanvitam",
+     "gloss": "Jātavedas-endowed-with",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What is the fourth item to be taken from kubja seed?",
+   "premises": [
+    "fourth is stated",
+    "kubja seed to be taken is stated",
+    "Jātavedas endowed with is stated"
+   ],
+   "inference": "The fourth item is to be taken from kubja seed and endowed with Jātavedas.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The fourth item is to be taken from kubja seed and endowed with Jātavedas."
+  },
+  {
+   "verse": 2921,
+   "rows": [
+    {
+     "surface": "catvārthaṃ",
+     "gloss": "fourth",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "lakṣmībījaṃ",
+     "gloss": "Lakṣmī-seed",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trideśaiḥ",
+     "gloss": "by-three-regions",
+     "grounds": "compound surface kept fused",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "hard-to-obtain",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "Why is the fourth Lakṣmī seed hard to obtain?",
+   "premises": [
+    "fourth is stated",
+    "Lakṣmī seed is named",
+    "indeed is stated",
+    "by three regions is stated",
+    "hard to obtain is stated"
+   ],
+   "inference": "The fourth Lakṣmī seed is hard to obtain even by three regions.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The fourth Lakṣmī seed is hard to obtain even by three regions."
+  },
+  {
+   "verse": 2922,
+   "rows": [
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "lakṣmībījaṃ",
+     "gloss": "Lakṣmī-seed",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpagarbhaṃ",
+     "gloss": "lamp-womb",
+     "grounds": "compound surface kept fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanam",
+     "gloss": "increasing",
+     "grounds": "surface as given",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What is the seventh Lakṣmī seed said to increase?",
+   "premises": [
+    "seventh is stated",
+    "Lakṣmī seed is named",
+    "lamp womb is named",
+    "increasing is stated"
+   ],
+   "inference": "The seventh Lakṣmī seed increases the lamp womb.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The seventh Lakṣmī seed increases the lamp womb."
+  },
+  {
+   "verse": 2923,
+   "rows": [
+    {
+     "surface": "prajāpateḥ",
+     "gloss": "of-Prajāpati",
+     "grounds": "surface as given",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dvādaśaśirasi",
+     "gloss": "twelfth",
+     "grounds": "compound surface kept fused",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bindunādasamanvitam",
+     "gloss": "with-bindu-nāda-endowed-with",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What is endowed with bindu and nāda on Prajāpati's twelfth head?",
+   "premises": [
+    "of Prajāpati is stated",
+    "twelfth is stated",
+    "with bindu nāda endowed with is stated"
+   ],
+   "inference": "The item on Prajāpati's twelfth head is endowed with bindu and nāda.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The item on Prajāpati's twelfth head is endowed with bindu and nāda."
+  },
+  {
+   "verse": 2924,
+   "rows": [
+    {
+     "surface": "gaganaṃ",
+     "gloss": "sky",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "surface as given",
+     "morph": "abs"
+    },
+    {
+     "surface": "medhāvī",
+     "gloss": "wise-one",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃvartāgnisamanvitam",
+     "gloss": "saṃvartāgni-endowed-with",
+     "grounds": "compound surface kept fused",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What does the wise one extract from the sky?",
+   "premises": [
+    "sky is named",
+    "having extracted is stated",
+    "wise one is named",
+    "saṃvartāgni endowed with is stated"
+   ],
+   "inference": "The wise one extracts from the sky something endowed with saṃvartāgni.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The wise one extracts from the sky something endowed with saṃvartāgni."
+  }
+ ]
+}

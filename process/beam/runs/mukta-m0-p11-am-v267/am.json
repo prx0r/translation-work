@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 267,
- "question": "What unguent is declared by poet-chiefs for removing a woman's body odor?",
+ "question": "Which flowers are disqualified by origin or contact?",
  "premises": [
-  "Poet-chiefs declared this unguent.",
-  "It removes a woman's body odor."
+  "flowers brought from below the navel are named",
+  "flowers touched by foot are named",
+  "both are disqualified"
  ],
- "inference": "The unguent is specifically for removing female body odor.",
+ "inference": "Flowers brought from below the navel or touched by foot are disqualified.",
  "uncertainties": [
-  "The ingredients are not listed in this verse."
+  "whether these are separate or overlapping cases is not stated"
  ],
- "plain_english": "This unguent, declared by poet-chiefs, removes a woman's body odor."
+ "plain_english": "Flowers from below the navel or touched by foot are disqualified."
 }

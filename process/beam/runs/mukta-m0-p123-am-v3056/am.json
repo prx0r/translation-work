@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3056,
- "question": "How many times should the mantra be recited before the goddess?",
+ "question": "For whose benefit is the following deposit instruction given?",
  "premises": [
-  "Recitation is performed before the goddess.",
-  "The mantra is the object of recitation.",
-  "A thousand or a hundred recitations are permitted."
+  "instruction is for the poor",
+  "benefit is intended",
+  "listener should hear"
  ],
- "inference": "The worshipper should recite the mantra a thousand times, or alternatively a hundred times, before her.",
- "uncertainties": [],
- "plain_english": "Before her, one should recite the mantra a thousand times, or else a hundred times."
+ "inference": "The deposit instruction is given for the benefit of the poor.",
+ "uncertainties": [
+  "exact poor-class scope unclear"
+ ],
+ "plain_english": "For the benefit of the poor, hear that as declared by me."
 }

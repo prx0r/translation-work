@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "sarva+pāpa+kṣayaṃ",
+     "gloss": "all-sin-destruction",
+     "grounds": "compound of sarva, pāpa, and kṣaya in accusative singular masculine form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca+asya",
+     "gloss": "and-its",
+     "grounds": "conjunctive particle ca with genitive pronoun asya",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śatru+nāśanam",
+     "gloss": "enemy-destruction",
+     "grounds": "compound of śatru and nāśana in accusative singular neuter form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Does this rite destroy all sins and enemies of the practitioner?",
+   "premises": [
+    "The rite destroys all sins.",
+    "It destroys enemies.",
+    "These benefits are certain."
+   ],
+   "inference": "Therefore the rite yields complete purification and protection.",
+   "uncertainties": [
+    "Exact ritual context is inferred from surrounding verses."
+   ],
+   "plain_english": "It destroys all sins and enemies as well."
+  }
+ ]
+}

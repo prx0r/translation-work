@@ -1,14 +1,18 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2869,
- "question": "Which color, garments, ornaments, and attributes define this Rudra-Bhargava form?",
+ "question": "Which facial and oral parts are enumerated?",
  "premises": [
-  "The form is pearl-like.",
-  "The form is pearl-necklace-adorned."
+  "chin is enumerated",
+  "jaw is enumerated",
+  "lip is enumerated",
+  "tongue is enumerated",
+  "palate is enumerated",
+  "cavity is enumerated"
  ],
- "inference": "This verse prescribes pearl-like appearance and necklace for the form.",
+ "inference": "The verse enumerates facial and oral parts of the image.",
  "uncertainties": [
-  "The exact color term is not stated here."
+  "ca glossed as lip in hint"
  ],
- "plain_english": "The form is pearl-like and adorned with a pearl necklace."
+ "plain_english": "Chin, jaw, lip, tongue, palate, and cavity are enumerated."
 }

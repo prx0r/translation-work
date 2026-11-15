@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p123",
+ "items": [
+  {
+   "verse": 3075,
+   "rows": [
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-south-west",
+     "grounds": "locative form of nairṛtya",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dauvārike",
+     "gloss": "doorkeeper",
+     "grounds": "locative singular of dauvārika",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sugrīve",
+     "gloss": "in-sugrīva",
+     "grounds": "locative singular of sugrīva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṣpadantake",
+     "gloss": "in-puṣpadantaka",
+     "grounds": "locative singular of puṣpadantaka",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which deities or guardians are assigned to the south-western direction and to Sugrīva and Puṣpadantaka?",
+   "premises": [
+    "The verse names the south-western direction.",
+    "It names a doorkeeper in that direction.",
+    "It also names Sugrīva and Puṣpadantaka."
+   ],
+   "inference": "The verse assigns or locates these named figures in the stated directional and positional context.",
+   "uncertainties": [
+    "The exact doctrinal role of each named figure is not specified by this verse alone."
+   ],
+   "plain_english": "In the south-west is the doorkeeper, and in Sugrīva and Puṣpadantaka."
+  }
+ ]
+}

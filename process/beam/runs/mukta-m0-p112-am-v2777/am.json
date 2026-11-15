@@ -1,14 +1,14 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2777,
- "question": "What color is the woman in this zodiacal figure?",
+ "question": "What kind of house is joined with many palaces and a rampart?",
  "premises": [
-  "the verse names a woman",
-  "it gives her color"
+  "many palaces are joined",
+  "a rampart is joined"
  ],
- "inference": "the woman is dark-colored",
+ "inference": "the house is fortified and palace-connected",
  "uncertainties": [
-  "context of zodiac sign implicit"
+  "compound scope"
  ],
- "plain_english": "The woman is dark-colored."
+ "plain_english": "A house joined with many palaces and a rampart."
 }

@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p117",
  "verse": 2915,
- "question": "What fivefold making produces the flower-crowned tilakī?",
+ "question": "What should be made with silver when the item is unavailable?",
  "premises": [
-  "five is specified",
-  "making is performed",
-  "tilakī becomes flower-crowned"
+  "in absence is stated",
+  "with silver is stated",
+  "should make is stated",
+  "eight auspicious marks is named"
  ],
- "inference": "After the fivefold making, the tilakī is flower-crowned.",
+ "inference": "When unavailable, eight auspicious marks should be made with silver.",
  "uncertainties": [
-  "fivefold referent"
+  "compound internal members not split"
  ],
- "plain_english": "Having made five, the tilakī becomes flower-crowned."
+ "plain_english": "When unavailable, eight auspicious marks should be made with silver."
 }

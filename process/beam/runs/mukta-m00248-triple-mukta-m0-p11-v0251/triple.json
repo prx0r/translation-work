@@ -1,0 +1,1152 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "dīpam",
+     "gloss": "lamp",
+     "grounds": "accusative singular lamp",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "offering",
+     "grounds": "accusative singular offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādyaṃ",
+     "gloss": "foot-water",
+     "grounds": "accusative singular foot-water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācamanīyaṃ",
+     "gloss": "sipping-water",
+     "grounds": "accusative singular sipping-water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "havis",
+     "gloss": "oblation",
+     "grounds": "accusative singular oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual items are listed alongside the lamp in this offering sequence?",
+   "premises": [
+    "lamp offering foot-water sipping-water oblation are listed",
+    "the sequence names standard worship items",
+    "no additional item is named here"
+   ],
+   "inference": "The verse enumerates lamp, offering, foot-water, sipping-water, and oblation as the ritual items.",
+   "uncertainties": [
+    "exact ritual order beyond listing is not specified"
+   ],
+   "plain_english": "Lamp, offering, foot-water, sipping-water, and oblation are thus listed."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-Kālottara",
+     "grounds": "locative singular in Kālottara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣpa+gandha+paṭalaḥ",
+     "gloss": "flower+fragrance+chapter",
+     "grounds": "compound naming the chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "nominative singular fifth",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "Which chapter of Kālottara is identified as the flower and fragrance chapter?",
+   "premises": [
+    "the text names Kālottara",
+    "it calls the chapter flower and fragrance",
+    "it numbers that chapter fifth"
+   ],
+   "inference": "The fifth chapter of Kālottara is the flower and fragrance chapter.",
+   "uncertainties": [
+    "chapter scope beyond this label is not stated"
+   ],
+   "plain_english": "Thus in Kālottara the flower and fragrance chapter is the fifth."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "alābhe",
+     "gloss": "in-absence",
+     "grounds": "locative singular in absence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aja+ghṛtaṃ",
+     "gloss": "goat+ghee",
+     "grounds": "compound accusative goat ghee",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīpaṃ",
+     "gloss": "lamp",
+     "grounds": "accusative singular lamp",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śuddha+tailena",
+     "gloss": "pure+oil",
+     "grounds": "instrumental singular pure oil",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lamp materials are prescribed when the usual lamp is unavailable?",
+   "premises": [
+    "in absence goat ghee lamp is used",
+    "pure oil is an alternative",
+    "the instruction is given now"
+   ],
+   "inference": "When unavailable, use a goat-ghee lamp or one with pure oil.",
+   "uncertainties": [
+    "which absence is intended is not specified"
+   ],
+   "plain_english": "In absence, use a goat-ghee lamp or one with pure oil, now."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "uttamaṃ",
+     "gloss": "best",
+     "grounds": "accusative singular best",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "kāpilaṃ",
+     "gloss": "of-cow",
+     "grounds": "accusative singular of cow",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "nominative singular success",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāttvikaṃ",
+     "gloss": "sāttvika",
+     "grounds": "accusative singular sāttvika",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "dīpam",
+     "gloss": "lamp",
+     "grounds": "accusative singular lamp",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "third singular passive present root vac",
+     "morph": "3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "Which lamp is called best for success and which is called sāttvika?",
+   "premises": [
+    "the best is of cow",
+    "success is named",
+    "the sāttvika lamp is named"
+   ],
+   "inference": "The cow-derived lamp is best for success, while the sāttvika lamp is separately named.",
+   "uncertainties": [
+    "whether these are one lamp or two is not explicit"
+   ],
+   "plain_english": "The best cow lamp brings success; the sāttvika lamp is so called."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural of all",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "vṛkṣa+tailānāṃ",
+     "gloss": "tree+oils",
+     "grounds": "genitive plural tree oils",
+     "morph": "compound"
+    },
+    {
+     "surface": "śiva+dīpaṃ",
+     "gloss": "Śiva+lamp",
+     "grounds": "accusative singular Śiva lamp",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "third singular optative root vṛj",
+     "morph": "3.sg.opt √vṛj"
+    }
+   ],
+   "question": "Which lamps should be avoided among tree oils for Śiva worship?",
+   "premises": [
+    "all tree oils are in scope",
+    "the Śiva lamp is named",
+    "one should avoid it"
+   ],
+   "inference": "The Śiva lamp made from tree oils should be avoided.",
+   "uncertainties": [
+    "which specific tree oils are meant is not listed"
+   ],
+   "plain_english": "One should avoid the Śiva lamp among all tree oils."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "pādyānām",
+     "gloss": "of-foot-waters",
+     "grounds": "genitive plural of foot-waters",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "best",
+     "grounds": "accusative singular best",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "O-child",
+     "grounds": "vocative singular child",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "śiva+pāda+abja+dhāriṇam",
+     "gloss": "Śiva+foot+lotus+holding",
+     "grounds": "compound accusative holding Śiva foot lotus",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the best foot-water for worship?",
+   "premises": [
+    "best is named among foot-waters",
+    "the addressee is child",
+    "it holds Śiva foot lotus"
+   ],
+   "inference": "The best foot-water is that which holds Śiva's foot lotus.",
+   "uncertainties": [
+    "ritual preparation details are not given"
+   ],
+   "plain_english": "O child, the best foot-water holds Śiva's foot lotus."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "accusative singular middle",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "pādyaṃ",
+     "gloss": "foot-water",
+     "grounds": "accusative singular foot-water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "accusative singular to be known",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "śiva+pāda+abja+kṣālanam",
+     "gloss": "Śiva+foot+lotus+washing",
+     "grounds": "compound accusative washing Śiva foot lotus",
+     "morph": "compound"
+    }
+   ],
+   "question": "What counts as the middle grade of foot-water?",
+   "premises": [
+    "middle foot-water is named",
+    "it is to be known",
+    "it washes Śiva foot lotus"
+   ],
+   "inference": "The middle foot-water is the washing of Śiva's foot lotus.",
+   "uncertainties": [
+    "how it differs from best is only by grade"
+   ],
+   "plain_english": "The middle foot-water is known as washing Śiva's foot lotus."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "takkolaṃ",
+     "gloss": "takkola",
+     "grounds": "accusative singular takkola",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaṭakaṃ",
+     "gloss": "kaṭaka",
+     "grounds": "accusative singular kaṭaka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāti+kośaṃ",
+     "gloss": "nutmeg+sheath",
+     "grounds": "compound accusative nutmeg sheath",
+     "morph": "compound"
+    },
+    {
+     "surface": "tuṭīs",
+     "gloss": "tuṭī",
+     "grounds": "accusative plural tuṭī",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fragrant substances are listed in this group?",
+   "premises": [
+    "takkola and kaṭaka are named",
+    "nutmeg sheath is named",
+    "tuṭī is named"
+   ],
+   "inference": "The listed fragrant substances are takkola, kaṭaka, nutmeg sheath, and tuṭī.",
+   "uncertainties": [
+    "their exact ritual use is not stated"
+   ],
+   "plain_english": "Thus takkola, kaṭaka, nutmeg sheath, and tuṭī are listed."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "kuṅku",
+     "gloss": "kuṅku",
+     "grounds": "accusative singular kuṅku",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devinataṃ",
+     "gloss": "devinata",
+     "grounds": "accusative singular devinata",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṭiḥ",
+     "gloss": "kuṭi",
+     "grounds": "nominative singular kuṭi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pākala+candramāḥ",
+     "gloss": "pākala+candramā",
+     "grounds": "compound nominative pākala candramā",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which additional fragrant items are named in this list?",
+   "premises": [
+    "kuṅku and devinata are named",
+    "kuṭi is named",
+    "pākala candramā is named"
+   ],
+   "inference": "The additional fragrant items are kuṅku, devinata, kuṭi, and pākala candramā.",
+   "uncertainties": [
+    "their botanical identities are not explained"
+   ],
+   "plain_english": "Indeed kuṅku, devinata, kuṭi, and pākala candramā are named."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "tilāḥ",
+     "gloss": "sesame-seeds",
+     "grounds": "nominative plural sesame seeds",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "siddhārthakāḥ",
+     "gloss": "white-mustard-seeds",
+     "grounds": "nominative plural white mustard seeds",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyam",
+     "gloss": "offering",
+     "grounds": "accusative singular offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭa+aṅgam",
+     "gloss": "eight+limbed",
+     "grounds": "compound accusative eight limbed",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "third singular passive present root vac",
+     "morph": "3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "What is called the eight-limbed offering?",
+   "premises": [
+    "sesame seeds and white mustard seeds are named",
+    "the offering is called eight-limbed",
+    "the statement is passive"
+   ],
+   "inference": "The offering made with sesame and white mustard seeds is called eight-limbed.",
+   "uncertainties": [
+    "the other six limbs are not listed here"
+   ],
+   "plain_english": "Sesame and white mustard seeds make the offering called eight-limbed."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "śamī",
+     "gloss": "śamī",
+     "grounds": "nominative singular śamī",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyāghāta",
+     "gloss": "vyāghāta",
+     "grounds": "nominative singular vyāghāta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative singular flower",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "droṇaṃ",
+     "gloss": "droṇa",
+     "grounds": "accusative singular droṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bilva+patrakam",
+     "gloss": "bilva+leaf",
+     "grounds": "compound accusative bilva leaf",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which flowers and leaves are named in this offering list?",
+   "premises": [
+    "śamī and vyāghāta are named",
+    "flower is named",
+    "droṇa and bilva leaf are named"
+   ],
+   "inference": "The list names śamī, vyāghāta, flower, droṇa, and bilva leaf.",
+   "uncertainties": [
+    "whether all are flowers or some leaves is mixed"
+   ],
+   "plain_english": "Śamī, vyāghāta, flower, droṇa, and bilva leaf are named."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "apāmārgaṃ",
+     "gloss": "apāmārga",
+     "grounds": "accusative singular apāmārga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bṛhatī",
+     "gloss": "bṛhatī",
+     "grounds": "nominative singular bṛhatī",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "su+puṣpaṃ",
+     "gloss": "good+flower",
+     "grounds": "compound accusative good flower",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "is-praised",
+     "grounds": "nominative singular praised",
+     "morph": "pp.nom.sg"
+    }
+   ],
+   "question": "Which good flower is not praised in this statement?",
+   "premises": [
+    "apāmārga and bṛhatī are named",
+    "good flower is named",
+    "it is not praised"
+   ],
+   "inference": "The good flower, along with apāmārga and bṛhatī, is not praised.",
+   "uncertainties": [
+    "the exact reason for non-praise is not given"
+   ],
+   "plain_english": "Apāmārga, bṛhatī, or a good flower is not praised."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "elā",
+     "gloss": "cardamom",
+     "grounds": "nominative singular cardamom",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suvarṇa+puṣpaṃ",
+     "gloss": "gold+flower",
+     "grounds": "compound accusative gold flower",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyutaṃ",
+     "gloss": "joined",
+     "grounds": "accusative singular joined",
+     "morph": "pp.acc.sg"
+    },
+    {
+     "surface": "prayutaṃ",
+     "gloss": "mixed",
+     "grounds": "accusative singular mixed",
+     "morph": "pp.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "accusative singular fruit",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What fruit results from joining cardamom or gold flower?",
+   "premises": [
+    "cardamom or gold flower is named",
+    "joined and mixed are stated",
+    "fruit is the result"
+   ],
+   "inference": "Joining or mixing cardamom or gold flower yields fruit.",
+   "uncertainties": [
+    "the kind of fruit is not specified"
+   ],
+   "plain_english": "Cardamom or gold flower, joined and mixed, gives fruit."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+prayatnena",
+     "gloss": "with-all+effort",
+     "grounds": "compound instrumental with all effort",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṣpa+gandha+samāyutam",
+     "gloss": "flower+fragrance+endowed",
+     "grounds": "compound accusative endowed with flower fragrance",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should be done with all effort regarding flowers?",
+   "premises": [
+    "therefore introduces conclusion",
+    "all effort is required",
+    "flower fragrance endowed is the goal"
+   ],
+   "inference": "Therefore one should make every effort to have flowers endowed with fragrance.",
+   "uncertainties": [
+    "the exact ritual application is not stated"
+   ],
+   "plain_english": "Therefore with all effort use flowers endowed with fragrance."
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "kīṭa+keśa+apaviddhāni",
+     "gloss": "insect+hair+polluted",
+     "grounds": "compound accusative polluted by insect hair",
+     "morph": "compound"
+    },
+    {
+     "surface": "lūtā+sūtra+āvṛtāni",
+     "gloss": "spider+thread+covered",
+     "grounds": "compound accusative covered by spider thread",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which polluted or covered flowers should be rejected?",
+   "premises": [
+    "insect hair polluted flowers are named",
+    "spider thread covered flowers are named",
+    "both are to be avoided"
+   ],
+   "inference": "Flowers polluted by insect hair or covered by spider thread should be rejected.",
+   "uncertainties": [
+    "whether these are the only defects is not stated"
+   ],
+   "plain_english": "Reject flowers polluted by insect hair or covered by spider thread."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "svayaṃ+patita+puṣpaṃ",
+     "gloss": "by-itself+fallen+flower",
+     "grounds": "compound accusative self-fallen flower",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-reject",
+     "grounds": "third singular optative root tyaj",
+     "morph": "3.sg.opt √tyaj"
+    },
+    {
+     "surface": "upahṛtāni",
+     "gloss": "brought-up",
+     "grounds": "accusative plural brought up",
+     "morph": "pp.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which flowers should be rejected in this rule?",
+   "premises": [
+    "self-fallen flowers should be rejected",
+    "brought-up flowers are also named",
+    "rejection is commanded"
+   ],
+   "inference": "Self-fallen flowers and brought-up flowers should be rejected.",
+   "uncertainties": [
+    "the meaning of brought-up flowers is not explained"
+   ],
+   "plain_english": "Reject self-fallen flowers and brought-up flowers."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "nābheḥ+adhastāt+ānītaṃ",
+     "gloss": "from-navel+below+brought",
+     "grounds": "compound accusative brought from below navel",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāda+saṃspṛṣṭam",
+     "gloss": "by-foot+touched",
+     "grounds": "compound accusative touched by foot",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which flowers are disqualified by origin or contact?",
+   "premises": [
+    "flowers brought from below the navel are named",
+    "flowers touched by foot are named",
+    "both are disqualified"
+   ],
+   "inference": "Flowers brought from below the navel or touched by foot are disqualified.",
+   "uncertainties": [
+    "whether these are separate or overlapping cases is not stated"
+   ],
+   "plain_english": "Flowers from below the navel or touched by foot are disqualified."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "biḍāla+mūṣika+spṛṣṭaṃ",
+     "gloss": "cat+mouse+touched",
+     "grounds": "compound accusative touched by cat or mouse",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahiṣa+aja+gavām",
+     "gloss": "of-buffalo+goat+cow",
+     "grounds": "compound genitive of buffalo goat cow",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which animal contacts or animal products defile flowers?",
+   "premises": [
+    "cat or mouse touched flowers are named",
+    "buffalo goat and cow are named",
+    "also extends the list"
+   ],
+   "inference": "Flowers touched by cat or mouse, and those associated with buffalo, goat, or cow, are defiled.",
+   "uncertainties": [
+    "the exact association with those animals is not specified"
+   ],
+   "plain_english": "Cat- or mouse-touched flowers, and those of buffalo, goat, or cow, are defiled."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "rajasvalā+ādibhiḥ+spṛṣṭaṃ",
+     "gloss": "by-menstruating-women+etc.+touched",
+     "grounds": "compound accusative touched by menstruating women etc",
+     "morph": "compound"
+    },
+    {
+     "surface": "antyajaiḥ",
+     "gloss": "by-outcastes",
+     "grounds": "instrumental plural by outcastes",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūṣitam",
+     "gloss": "defiled",
+     "grounds": "accusative singular defiled",
+     "morph": "pp.acc.sg"
+    }
+   ],
+   "question": "Which human contacts defile flowers?",
+   "premises": [
+    "menstruating women etc touched flowers are named",
+    "outcastes are named",
+    "the result is defiled"
+   ],
+   "inference": "Flowers touched by menstruating women or outcastes are defiled.",
+   "uncertainties": [
+    "the scope of etcetera is not defined"
+   ],
+   "plain_english": "Flowers touched by menstruating women or outcastes are defiled."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "dravyeṇa",
+     "gloss": "with-money",
+     "grounds": "instrumental singular with money",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "krīta+puṣpāṇi",
+     "gloss": "bought+flowers",
+     "grounds": "compound accusative bought flowers",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "accusative singular middle",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "accusative singular fruit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "one-obtains",
+     "grounds": "third singular middle present root aś",
+     "morph": "3.sg.mid.pres √aś"
+    }
+   ],
+   "question": "What result comes from buying flowers with money?",
+   "premises": [
+    "bought flowers with money are named",
+    "middle grade is named",
+    "fruit is obtained"
+   ],
+   "inference": "Buying flowers with money yields a middle grade of fruit.",
+   "uncertainties": [
+    "the exact fruit or benefit is not specified"
+   ],
+   "plain_english": "Buying flowers with money gives a middle fruit."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "anya+ārāma+udbhave+puṣpe",
+     "gloss": "in-other+garden+arisen+flower",
+     "grounds": "compound locative in flower arisen in another garden",
+     "morph": "compound"
+    },
+    {
+     "surface": "kanyasaṃ",
+     "gloss": "inferior",
+     "grounds": "accusative singular inferior",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "accusative singular fruit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādiśet",
+     "gloss": "one-should-declare",
+     "grounds": "third singular optative root diś",
+     "morph": "3.sg.opt √diś"
+    }
+   ],
+   "question": "What fruit is declared for flowers from another garden?",
+   "premises": [
+    "flowers from another garden are named",
+    "inferior fruit is named",
+    "one should declare it"
+   ],
+   "inference": "Flowers from another garden yield an inferior fruit.",
+   "uncertainties": [
+    "whether this is a ritual or worldly fruit is not stated"
+   ],
+   "plain_english": "For flowers from another garden, declare an inferior fruit."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "eka+ekena",
+     "gloss": "with-each+single",
+     "grounds": "compound instrumental with each single",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsena",
+     "gloss": "month",
+     "grounds": "instrumental singular month",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "puṣpam",
+     "gloss": "flower",
+     "grounds": "accusative singular flower",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eka+ekaṃ",
+     "gloss": "each+one",
+     "grounds": "compound accusative each one",
+     "morph": "compound"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "third singular optative root vṛj",
+     "morph": "3.sg.opt √vṛj"
+    }
+   ],
+   "question": "What monthly flower practice should be avoided?",
+   "premises": [
+    "each single month is named",
+    "one flower each is named",
+    "one should avoid it"
+   ],
+   "inference": "One should avoid using one flower per month in this repeated manner.",
+   "uncertainties": [
+    "the exact prohibited repetition is not fully explained"
+   ],
+   "plain_english": "But avoid one flower each month, one by one."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "arkaṃ",
+     "gloss": "arka",
+     "grounds": "accusative singular arka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bilvam",
+     "gloss": "bilva",
+     "grounds": "accusative singular bilva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "apāmārgaṃ",
+     "gloss": "apāmārga",
+     "grounds": "accusative singular apāmārga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "droṇaṃ",
+     "gloss": "droṇa",
+     "grounds": "accusative singular droṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utpala+paṅkajam",
+     "gloss": "blue-lotus+lotus",
+     "grounds": "compound accusative blue lotus lotus",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which flowers are named in this monthly offering list?",
+   "premises": [
+    "arka bilva apāmārga droṇa are named",
+    "blue lotus and lotus are named",
+    "the list is accusative"
+   ],
+   "inference": "The named flowers are arka, bilva, apāmārga, droṇa, blue lotus, and lotus.",
+   "uncertainties": [
+    "their monthly assignment is not specified here"
+   ],
+   "plain_english": "Arka, bilva, apāmārga, droṇa, blue lotus, and lotus are named."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "māse+māse",
+     "gloss": "in-month+month",
+     "grounds": "compound locative in each month",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka+puṣpaṃ",
+     "gloss": "one+flower",
+     "grounds": "compound accusative one flower",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṣṭi+ādau",
+     "gloss": "in-prosperity+etc.",
+     "grounds": "compound locative in prosperity etc",
+     "morph": "compound"
+    },
+    {
+     "surface": "ārjayet",
+     "gloss": "should-offer",
+     "grounds": "third singular optative root ṛj",
+     "morph": "3.sg.opt √ṛj"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "the-wise",
+     "grounds": "nominative singular wise",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What monthly offering practice is prescribed for the wise?",
+   "premises": [
+    "each month is named",
+    "one flower is named",
+    "prosperity etc is the context",
+    "the wise should offer"
+   ],
+   "inference": "The wise should offer one flower each month in prosperity and related rites.",
+   "uncertainties": [
+    "the full list after prosperity is not given"
+   ],
+   "plain_english": "Each month the wise should offer one flower in prosperity and so on."
+  }
+ ]
+}

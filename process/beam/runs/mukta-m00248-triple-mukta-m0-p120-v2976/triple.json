@@ -1,0 +1,1079 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 2976,
+   "rows": [
+    {
+     "surface": "suvarṇa",
+     "gloss": "gold",
+     "grounds": "metal list item",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "rajataṃ",
+     "gloss": "silver",
+     "grounds": "metal list item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "tāmraṃ",
+     "gloss": "copper",
+     "grounds": "metal list item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "āyasaṃ",
+     "gloss": "iron",
+     "grounds": "metal list item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "trapusīsakam",
+     "gloss": "tin-and-lead",
+     "grounds": "compound metal item",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "Which metals are to be deposited in the ritual pots?",
+   "premises": [
+    "The verse lists metals",
+    "The metals are ritual materials",
+    "Deposition follows the list"
+   ],
+   "inference": "The ritual requires gold, silver, copper, iron, tin, and lead.",
+   "uncertainties": [
+    "Exact ritual context is not stated here"
+   ],
+   "plain_english": "Gold, silver, copper, iron, tin, and lead are named."
+  },
+  {
+   "verse": 2977,
+   "rows": [
+    {
+     "surface": "āmra",
+     "gloss": "mango",
+     "grounds": "tree list item",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "maudumbaraṃ",
+     "gloss": "udumbara",
+     "grounds": "tree list item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyagrodhaṃ",
+     "gloss": "banyan",
+     "grounds": "tree list item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "panasaṃ",
+     "gloss": "jackfruit",
+     "grounds": "tree list item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which trees are included among the ritual materials?",
+   "premises": [
+    "The verse names trees",
+    "The list is ritual material",
+    "Likewise extends the list"
+   ],
+   "inference": "Mango, udumbara, banyan, and jackfruit are included.",
+   "uncertainties": [
+    "Whether all are required or optional is unclear"
+   ],
+   "plain_english": "Mango, udumbara, banyan, and jackfruit are named."
+  },
+  {
+   "verse": 2978,
+   "rows": [
+    {
+     "surface": "navatvak",
+     "gloss": "nine-barks",
+     "grounds": "compound count",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāsena",
+     "gloss": "O-Mahāsena",
+     "grounds": "address",
+     "morph": "n.m.voc.sg"
+    },
+    {
+     "surface": "varjyabījena",
+     "gloss": "with-excluded-seed",
+     "grounds": "instrumental compound",
+     "morph": "n.n.inst.sg"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-deposit",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root nikṣip"
+    }
+   ],
+   "question": "What should be deposited with excluded seed?",
+   "premises": [
+    "Nine barks are named",
+    "Excluded seed is specified",
+    "Deposition is commanded"
+   ],
+   "inference": "One should deposit nine barks with excluded seed.",
+   "uncertainties": [
+    "The exact meaning of excluded seed is not explained"
+   ],
+   "plain_english": "One should deposit nine barks with excluded seed."
+  },
+  {
+   "verse": 2979,
+   "rows": [
+    {
+     "surface": "nīlotpalaṃ",
+     "gloss": "blue-lotus",
+     "grounds": "flower item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalhāraṃ",
+     "gloss": "white-water-lily",
+     "grounds": "flower item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "kaṭumelakamūlakam",
+     "gloss": "pungent-ela-root",
+     "grounds": "compound item",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "Which flowers and roots are added to the materials?",
+   "premises": [
+    "Blue lotus is named",
+    "White water lily is named",
+    "Pungent ela root is named"
+   ],
+   "inference": "Blue lotus, white water lily, and pungent ela root are added.",
+   "uncertainties": [
+    "Whether these are separate deposits is unclear"
+   ],
+   "plain_english": "Blue lotus, white water lily, and pungent ela root are named."
+  },
+  {
+   "verse": 2980,
+   "rows": [
+    {
+     "surface": "ekaikam",
+     "gloss": "each-one",
+     "grounds": "distributive",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "one-hundred-eight",
+     "grounds": "number",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive",
+     "morph": "v.abs + root jap"
+    },
+    {
+     "surface": "kumbheṣu",
+     "gloss": "in-pots",
+     "grounds": "locative plural",
+     "morph": "n.m.loc.pl"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-deposit",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root nikṣip"
+    }
+   ],
+   "question": "How many times should each item be chanted before deposition?",
+   "premises": [
+    "Each item is counted",
+    "The count is one hundred eight",
+    "Deposition follows chanting"
+   ],
+   "inference": "Each item is chanted one hundred eight times and deposited in pots.",
+   "uncertainties": [
+    "The exact items are carried from previous verses"
+   ],
+   "plain_english": "Each item is chanted one hundred eight times and deposited in pots."
+  },
+  {
+   "verse": 2981,
+   "rows": [
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "food",
+     "grounds": "offering item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "brāhmaṇānāṃ",
+     "gloss": "of-brāhmaṇas",
+     "grounds": "genitive plural",
+     "morph": "n.m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "offering item",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "gobhūmikāñcanam",
+     "gloss": "cow-land-gold",
+     "grounds": "compound gift",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "What gifts and offerings are prescribed for brāhmaṇas?",
+   "premises": [
+    "Food for brāhmaṇas is named",
+    "Gift is named",
+    "Cow, land, and gold are named"
+   ],
+   "inference": "Food, gifts, cows, land, and gold are prescribed.",
+   "uncertainties": [
+    "Whether all are mandatory is not stated"
+   ],
+   "plain_english": "Food for brāhmaṇas and gifts of cow, land, and gold are named."
+  },
+  {
+   "verse": 2982,
+   "rows": [
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-pedestal",
+     "grounds": "locative",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalake",
+     "gloss": "on-board",
+     "grounds": "locative",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālācāmlānā",
+     "gloss": "garland-unfading",
+     "grounds": "compound",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root vinyas"
+    }
+   ],
+   "question": "Where should the unfading garland be placed?",
+   "premises": [
+    "Pedestal is an option",
+    "Board is an option",
+    "Placement is commanded"
+   ],
+   "inference": "The unfading garland should be placed on a pedestal or board.",
+   "uncertainties": [
+    "No distinction between pedestal and board is given"
+   ],
+   "plain_english": "Place the unfading garland on a pedestal or board."
+  },
+  {
+   "verse": 2983,
+   "rows": [
+    {
+     "surface": "utpalair",
+     "gloss": "with-blue-lotuses",
+     "grounds": "instrumental plural",
+     "morph": "n.n.inst.pl"
+    },
+    {
+     "surface": "nandikāvartaiḥ",
+     "gloss": "with-nandikāvarta-flowers",
+     "grounds": "instrumental plural",
+     "morph": "n.m.inst.pl"
+    },
+    {
+     "surface": "vakulaiḥ",
+     "gloss": "with-vakula-flowers",
+     "grounds": "instrumental plural",
+     "morph": "n.m.inst.pl"
+    },
+    {
+     "surface": "pāṭalacampakaiḥ",
+     "gloss": "with-pāṭala-campaka-flowers",
+     "grounds": "instrumental plural compound",
+     "morph": "n.m.inst.pl"
+    }
+   ],
+   "question": "Which flowers are used for the garland's adornment?",
+   "premises": [
+    "Blue lotuses are named",
+    "Nandikāvarta flowers are named",
+    "Vakula and pāṭala-campaka are named"
+   ],
+   "inference": "The garland is adorned with blue lotuses, nandikāvarta, vakula, and pāṭala-campaka flowers.",
+   "uncertainties": [
+    "Whether all are used together is not explicit"
+   ],
+   "plain_english": "Blue lotuses, nandikāvarta, vakula, and pāṭala-campaka flowers are named."
+  },
+  {
+   "verse": 2984,
+   "rows": [
+    {
+     "surface": "kāśmīrair",
+     "gloss": "with-saffron",
+     "grounds": "instrumental plural",
+     "morph": "n.n.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛgair",
+     "gloss": "with-musk",
+     "grounds": "instrumental plural",
+     "morph": "n.m.inst.pl"
+    },
+    {
+     "surface": "mālāśriyaṃ",
+     "gloss": "garland-splendor",
+     "grounds": "compound object",
+     "morph": "n.f.acc.sg"
+    },
+    {
+     "surface": "gauraṃ",
+     "gloss": "Gaurī",
+     "grounds": "object of worship",
+     "morph": "n.f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root pūj"
+    }
+   ],
+   "question": "How should Gaurī be worshipped with garland splendor?",
+   "premises": [
+    "Saffron is an option",
+    "Musk is an option",
+    "Worship is commanded"
+   ],
+   "inference": "One should worship Gaurī with garland splendor using saffron or musk.",
+   "uncertainties": [
+    "The exact relation of saffron or musk to the garland is unclear"
+   ],
+   "plain_english": "Worship Gaurī with garland splendor using saffron or musk."
+  },
+  {
+   "verse": 2985,
+   "rows": [
+    {
+     "surface": "dvibhujām",
+     "gloss": "two-armed",
+     "grounds": "adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "ekavaktrāṃ",
+     "gloss": "one-faced",
+     "grounds": "adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śyāmavarṇāṃ",
+     "gloss": "dark-colored",
+     "grounds": "adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "trilocanīm",
+     "gloss": "three-eyed",
+     "grounds": "adjective",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "What form is prescribed for the goddess in this description?",
+   "premises": [
+    "She is two-armed",
+    "She is one-faced",
+    "She is dark-colored and three-eyed"
+   ],
+   "inference": "The goddess is two-armed, one-faced, dark-colored, and three-eyed.",
+   "uncertainties": [
+    "The deity's name is not stated in this verse"
+   ],
+   "plain_english": "She is two-armed, one-faced, dark-colored, and three-eyed."
+  },
+  {
+   "verse": 2986,
+   "rows": [
+    {
+     "surface": "cārubimbādharāṃ",
+     "gloss": "beautiful-bimba-lip",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlakundalamūrdhajām",
+     "gloss": "blue-earring-hair",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "What additional features are attributed to the goddess?",
+   "premises": [
+    "Beautiful bimba lip is named",
+    "Blue earring and hair are named",
+    "The features are additional"
+   ],
+   "inference": "The goddess has beautiful bimba lips and blue earrings with hair.",
+   "uncertainties": [
+    "The exact color relation is not explained"
+   ],
+   "plain_english": "She has beautiful bimba lips and blue earrings with hair."
+  },
+  {
+   "verse": 2987,
+   "rows": [
+    {
+     "surface": "subhruvaṃ",
+     "gloss": "beautiful-browed",
+     "grounds": "adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukarṇīṃ",
+     "gloss": "beautiful-eared",
+     "grounds": "adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hemakumbhapayodharām",
+     "gloss": "golden-pot-breast",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "What further bodily features are attributed to the goddess?",
+   "premises": [
+    "Beautiful brows are named",
+    "Beautiful ears are named",
+    "Golden pot-like breasts are named"
+   ],
+   "inference": "The goddess has beautiful brows, beautiful ears, and golden pot-like breasts.",
+   "uncertainties": [
+    "The metaphorical force of pot-like is not explained"
+   ],
+   "plain_english": "She has beautiful brows, beautiful ears, and golden pot-like breasts."
+  },
+  {
+   "verse": 2988,
+   "rows": [
+    {
+     "surface": "haṃsanābhiṃ",
+     "gloss": "swan-navel",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "nimnanābhiṃ",
+     "gloss": "deep-navel",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "turimadhyama",
+     "gloss": "slender-waist",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "saṃsthitām",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "What navel and waist features are attributed to the goddess?",
+   "premises": [
+    "Swan-like navel is named",
+    "Deep navel is named",
+    "Slender waist is named"
+   ],
+   "inference": "The goddess has a swan-like and deep navel with a slender waist.",
+   "uncertainties": [
+    "The combination of swan-like and deep navel is unusual"
+   ],
+   "plain_english": "She has a swan-like, deep navel and a slender waist."
+  },
+  {
+   "verse": 2989,
+   "rows": [
+    {
+     "surface": "rathacakragajāṃ",
+     "gloss": "chariot-wheel-gait",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rambhāstambhoru",
+     "gloss": "plantain-stem-thigh",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "saṃhitām",
+     "gloss": "endowed-with",
+     "grounds": "participle",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "What gait and thigh features are attributed to the goddess?",
+   "premises": [
+    "Chariot-wheel gait is named",
+    "Plantain-stem thigh is named",
+    "Endowment is stated"
+   ],
+   "inference": "The goddess has a chariot-wheel gait and plantain-stem thighs.",
+   "uncertainties": [
+    "The exact gait metaphor is not explained"
+   ],
+   "plain_english": "She has a chariot-wheel gait and plantain-stem thighs."
+  },
+  {
+   "verse": 2990,
+   "rows": [
+    {
+     "surface": "pādaupaṅkajapañciṣṭau",
+     "gloss": "feet-lotus-soft",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "pārvatīrūpam",
+     "gloss": "Pārvatī-form",
+     "grounds": "compound noun",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.n.acc.sg"
+    }
+   ],
+   "question": "What is the supreme form described here?",
+   "premises": [
+    "Soft lotus-like feet are named",
+    "Pārvatī form is named",
+    "The form is supreme"
+   ],
+   "inference": "The supreme form is Pārvatī with soft lotus-like feet.",
+   "uncertainties": [
+    "The compound's exact parsing is uncertain"
+   ],
+   "plain_english": "The supreme form is Pārvatī with soft lotus-like feet."
+  },
+  {
+   "verse": 2991,
+   "rows": [
+    {
+     "surface": "suvarṇakaṭaka",
+     "gloss": "golden-bracelet",
+     "grounds": "compound noun",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "opeta",
+     "gloss": "endowed-with",
+     "grounds": "participle",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "valayair",
+     "gloss": "with-bangles",
+     "grounds": "instrumental plural",
+     "morph": "n.m.inst.pl"
+    },
+    {
+     "surface": "nūpurair",
+     "gloss": "with-anklets",
+     "grounds": "instrumental plural",
+     "morph": "n.m.inst.pl"
+    },
+    {
+     "surface": "yutām",
+     "gloss": "adorned",
+     "grounds": "participle",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "What ornaments adorn the goddess?",
+   "premises": [
+    "Golden bracelets are named",
+    "Bangles are named",
+    "Anklets are named"
+   ],
+   "inference": "The goddess is adorned with golden bracelets, bangles, and anklets.",
+   "uncertainties": [
+    "Whether all ornaments are simultaneous is not stated"
+   ],
+   "plain_english": "She is adorned with golden bracelets, bangles, and anklets."
+  },
+  {
+   "verse": 2992,
+   "rows": [
+    {
+     "surface": "kṣaumaratnāmbaradharāṃ",
+     "gloss": "silk-jewel-garment-wearing",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "sākṣātprakṛtirūpiṇīm",
+     "gloss": "manifest-primordial-nature-form",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "What garment and nature are attributed to the goddess?",
+   "premises": [
+    "Silk and jewel garments are named",
+    "Manifest primordial nature is named",
+    "Both describe the goddess"
+   ],
+   "inference": "The goddess wears silk and jewel garments and embodies manifest primordial nature.",
+   "uncertainties": [
+    "The exact garment construction is unclear"
+   ],
+   "plain_english": "She wears silk and jewel garments and embodies manifest primordial nature."
+  },
+  {
+   "verse": 2993,
+   "rows": [
+    {
+     "surface": "padmakiñjalkasadṛśāṃ",
+     "gloss": "lotus-filament-resembling",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "drutacāmīcakaprabhām",
+     "gloss": "molten-gold-radiance",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "What color and radiance are attributed to the goddess?",
+   "premises": [
+    "Lotus filament resemblance is named",
+    "Molten gold radiance is named",
+    "Both describe appearance"
+   ],
+   "inference": "The goddess resembles lotus filaments and shines like molten gold.",
+   "uncertainties": [
+    "The exact shade intended is not specified"
+   ],
+   "plain_english": "She resembles lotus filaments and shines like molten gold."
+  },
+  {
+   "verse": 2994,
+   "rows": [
+    {
+     "surface": "padmavadanāṃ",
+     "gloss": "lotus-face",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "padmanetrāṃ",
+     "gloss": "lotus-eye",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "padmapādakarāmbujām",
+     "gloss": "lotus-foot-hand-lotus",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "Which lotus-like features are attributed to the goddess?",
+   "premises": [
+    "Lotus face is named",
+    "Lotus eyes are named",
+    "Lotus feet and hands are named"
+   ],
+   "inference": "The goddess has lotus-like face, eyes, feet, and hands.",
+   "uncertainties": [
+    "The compound's exact parsing is uncertain"
+   ],
+   "plain_english": "She has lotus-like face, eyes, feet, and hands."
+  },
+  {
+   "verse": 2995,
+   "rows": [
+    {
+     "surface": "pārvatīṃ",
+     "gloss": "Pārvatī",
+     "grounds": "object",
+     "morph": "n.f.acc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root vinyas"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "locative",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "hṛllekhāśatajaptayā",
+     "gloss": "with-hṛllekhā-hundred-chanted",
+     "grounds": "instrumental compound",
+     "morph": "adj.f.inst.sg"
+    }
+   ],
+   "question": "How should Pārvatī be placed in the pot?",
+   "premises": [
+    "Pārvatī is the object",
+    "Placement in a pot is commanded",
+    "Hṛllekhā is chanted one hundred times"
+   ],
+   "inference": "Pārvatī should be placed in a pot with hṛllekhā chanted one hundred times.",
+   "uncertainties": [
+    "The exact meaning of hṛllekhā is not explained"
+   ],
+   "plain_english": "Place Pārvatī in a pot with hṛllekhā chanted one hundred times."
+  },
+  {
+   "verse": 2996,
+   "rows": [
+    {
+     "surface": "mālāṃ",
+     "gloss": "garland",
+     "grounds": "object",
+     "morph": "n.f.acc.sg"
+    },
+    {
+     "surface": "saṃspṛśya",
+     "gloss": "having-touched",
+     "grounds": "absolutive",
+     "morph": "v.abs + root saṃspṛś"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root jap"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "it-goes",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-pres + root gam"
+    }
+   ],
+   "question": "What should be done with the garland while chanting?",
+   "premises": [
+    "The garland is touched",
+    "Chanting is commanded",
+    "The action continues until it goes there"
+   ],
+   "inference": "One should touch the garland and chant until it goes there.",
+   "uncertainties": [
+    "What 'it goes' refers to is unclear"
+   ],
+   "plain_english": "Touch the garland and chant until it goes there."
+  },
+  {
+   "verse": 2997,
+   "rows": [
+    {
+     "surface": "muhūrtaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "adverbial accusative",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "mantrabalāṃ",
+     "gloss": "mantra-power",
+     "grounds": "compound adjective",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "mālāṃ",
+     "gloss": "garland",
+     "grounds": "object",
+     "morph": "n.f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "it-goes",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-pres + root gam"
+    }
+   ],
+   "question": "How long does the mantra-powered garland remain there?",
+   "premises": [
+    "The duration is a moment",
+    "The garland has mantra power",
+    "It goes there"
+   ],
+   "inference": "The mantra-powered garland remains there for a moment.",
+   "uncertainties": [
+    "The exact ritual duration is not specified"
+   ],
+   "plain_english": "The mantra-powered garland remains there for a moment."
+  },
+  {
+   "verse": 2998,
+   "rows": [
+    {
+     "surface": "amlānapuṣpam",
+     "gloss": "unfading-flower",
+     "grounds": "compound noun",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhāṇāṃ",
+     "gloss": "of-embryos",
+     "grounds": "genitive plural",
+     "morph": "n.m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamottamam",
+     "gloss": "best-of-best",
+     "grounds": "compound adjective",
+     "morph": "adj.n.nom.sg"
+    }
+   ],
+   "question": "What is the best of the best among embryos?",
+   "premises": [
+    "Unfading flower is named",
+    "Embryos are referenced",
+    "Best of best is stated"
+   ],
+   "inference": "The unfading flower is the best of the best among embryos.",
+   "uncertainties": [
+    "The relation between flower and embryos is unclear"
+   ],
+   "plain_english": "The unfading flower is the best of the best among embryos."
+  },
+  {
+   "verse": 2999,
+   "rows": [
+    {
+     "surface": "pūrvoktena",
+     "gloss": "by-previously-stated",
+     "grounds": "instrumental adjective",
+     "morph": "adj.n.inst.sg"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-method",
+     "grounds": "instrumental noun",
+     "morph": "n.n.inst.sg"
+    },
+    {
+     "surface": "ka",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakarmāṇi",
+     "gloss": "all-rites",
+     "grounds": "compound noun",
+     "morph": "n.n.acc.pl"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause-to-perform",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt + root kṛ (caus.)"
+    }
+   ],
+   "question": "How should all rites be performed according to this method?",
+   "premises": [
+    "The method is previously stated",
+    "All rites are named",
+    "Performance is commanded"
+   ],
+   "inference": "All rites should be caused to be performed by the previously stated method.",
+   "uncertainties": [
+    "The exact previously stated method is not repeated here"
+   ],
+   "plain_english": "All rites should be performed by the previously stated method."
+  }
+ ]
+}

@@ -1,0 +1,1131 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2601,
+   "rows": [
+    {
+     "surface": "mahendraśikharaṃ",
+     "gloss": "mahendra-peak",
+     "grounds": "compound of mahendra and śikhara",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "child",
+     "grounds": "direct address",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "locative feminine",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-imagine",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be imagined in the northeast direction relative to Meru?",
+   "premises": [
+    "Mahendra peak is imagined northeast.",
+    "The instruction addresses the disciple.",
+    "Directional placement is prescribed."
+   ],
+   "inference": "The ritual diagram places Mahendra's peak in the northeast.",
+   "uncertainties": [
+    "Exact ritual context not stated."
+   ],
+   "plain_english": "Imagine Mahendra's peak in the northeast."
+  },
+  {
+   "verse": 2602,
+   "rows": [
+    {
+     "surface": "meroḥ",
+     "gloss": "of-meru",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "locative feminine",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "verily",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "child",
+     "grounds": "direct address",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "śivakumbhaṃ",
+     "gloss": "śiva-pot",
+     "grounds": "compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What should the wise one place east of Meru?",
+   "premises": [
+    "East of Meru is specified.",
+    "Śiva pot is the object.",
+    "Placement is commanded."
+   ],
+   "inference": "A Śiva pot is placed east of Meru.",
+   "uncertainties": [
+    "Pot contents unspecified."
+   ],
+   "plain_english": "The wise one should place a Śiva pot east of Meru."
+  },
+  {
+   "verse": 2603,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṣārasalilaṃ",
+     "gloss": "snow-water",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śuddhodakam",
+     "gloss": "pure-water",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "disjunctive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which alternative waters may be used in the ritual?",
+   "premises": [
+    "Snow water is allowed.",
+    "Pure water is allowed.",
+    "Alternatives are listed."
+   ],
+   "inference": "Either snow water or pure water may be used.",
+   "uncertainties": [
+    "Exact substitution rule unclear."
+   ],
+   "plain_english": "Or snow water, or pure water, or likewise."
+  },
+  {
+   "verse": 2604,
+   "rows": [
+    {
+     "surface": "daśame",
+     "gloss": "in-tenth",
+     "grounds": "locative",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "paṅktau",
+     "gloss": "row",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ṣaṇmukha",
+     "gloss": "six-faced",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "pañcāśad",
+     "gloss": "fifty",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should fill fifty vessels in the tenth row?",
+   "premises": [
+    "Tenth row is specified.",
+    "Fifty vessels are mentioned.",
+    "Ghee is the filler."
+   ],
+   "inference": "Fifty vessels in the tenth row should be filled with ghee.",
+   "uncertainties": [
+    "Vessel type unspecified."
+   ],
+   "plain_english": "O six-faced one, fill fifty vessels in the tenth row with ghee."
+  },
+  {
+   "verse": 2605,
+   "rows": [
+    {
+     "surface": "kṣīreṇa",
+     "gloss": "with-milk",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-these",
+     "grounds": "locative plural",
+     "morph": "pron.loc.pl.m"
+    },
+    {
+     "surface": "pañcāśad",
+     "gloss": "fifty",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "vāmavidyayā",
+     "gloss": "with-vāma-mantra",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg.f"
+    }
+   ],
+   "question": "How should fifty vessels be filled with milk?",
+   "premises": [
+    "Milk is the filler.",
+    "Fifty vessels are referenced.",
+    "Vāma mantra accompanies filling."
+   ],
+   "inference": "Fifty vessels should be filled with milk using the Vāma mantra.",
+   "uncertainties": [
+    "Relation to previous row unclear."
+   ],
+   "plain_english": "Fill those fifty vessels with milk by the Vāma mantra."
+  },
+  {
+   "verse": 2606,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "paścimapaṅktau",
+     "gloss": "in-western-row",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśad",
+     "gloss": "fifty",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "gomayaṃ",
+     "gloss": "cow-dung",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should occupy fifty places in the western row?",
+   "premises": [
+    "Western row is specified.",
+    "Fifty places are mentioned.",
+    "Cow dung is prescribed."
+   ],
+   "inference": "The western row should contain fifty portions of cow dung.",
+   "uncertainties": [
+    "Exact vessel or heap unspecified."
+   ],
+   "plain_english": "In its western row, fifty should be cow dung."
+  },
+  {
+   "verse": 2607,
+   "rows": [
+    {
+     "surface": "aṣṭalohamayāmbhaśca",
+     "gloss": "eight-metal-water",
+     "grounds": "compound with ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "paścimapaṅktike",
+     "gloss": "in-western-row",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What water belongs in the western row?",
+   "premises": [
+    "Eight-metal water is named.",
+    "Western row is specified.",
+    "It is included with ca."
+   ],
+   "inference": "Water of eight metals belongs in the western row.",
+   "uncertainties": [
+    "Exact metal list not given."
+   ],
+   "plain_english": "And water of eight metals in its western row."
+  },
+  {
+   "verse": 2608,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "paścimapaṅktau",
+     "gloss": "in-western-row",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṣāyāṣṭakaṃ",
+     "gloss": "astringent-eight",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should fill the western row with astringent substances?",
+   "premises": [
+    "Western row is specified.",
+    "Eight astringents are named.",
+    "Filling is commanded."
+   ],
+   "inference": "The western row should be filled with eight astringents.",
+   "uncertainties": [
+    "Specific astringents not listed here."
+   ],
+   "plain_english": "Fill its western row with the eight astringents."
+  },
+  {
+   "verse": 2609,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "paścimapañcāśuddhadodake",
+     "gloss": "in-western-row",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should fill the western row with pure water?",
+   "premises": [
+    "Western row is specified.",
+    "Pure water is implied.",
+    "Filling is commanded."
+   ],
+   "inference": "The western row should be filled with pure water.",
+   "uncertainties": [
+    "Token appears fused and ambiguous."
+   ],
+   "plain_english": "Fill its western row with pure water."
+  },
+  {
+   "verse": 2610,
+   "rows": [
+    {
+     "surface": "suvarṇaṃ",
+     "gloss": "gold",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "rajataṃ",
+     "gloss": "silver",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tāmram",
+     "gloss": "copper",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "āyasaṃ",
+     "gloss": "iron",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "trapusīsakam",
+     "gloss": "tin-lead",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which metals are enumerated for the ritual?",
+   "premises": [
+    "Gold is listed.",
+    "Silver is listed.",
+    "Copper iron tin lead are listed."
+   ],
+   "inference": "The ritual enumerates gold, silver, copper, iron, tin, and lead.",
+   "uncertainties": [
+    "Exact grouping into eight unclear."
+   ],
+   "plain_english": "Gold, silver, copper, iron, tin, and lead."
+  },
+  {
+   "verse": 2611,
+   "rows": [
+    {
+     "surface": "āmramaudumbaraṃ",
+     "gloss": "mango-udumbara",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyagrodhaṃ",
+     "gloss": "banyan",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "panasaṃ",
+     "gloss": "jackfruit",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which trees are enumerated for the ritual?",
+   "premises": [
+    "Mango and udumbara are named.",
+    "Banyan is named.",
+    "Jackfruit is named."
+   ],
+   "inference": "The ritual enumerates mango, udumbara, banyan, and jackfruit among trees.",
+   "uncertainties": [
+    "Complete list continues elsewhere."
+   ],
+   "plain_english": "Mango and udumbara, and indeed banyan, jackfruit, likewise."
+  },
+  {
+   "verse": 2612,
+   "rows": [
+    {
+     "surface": "kaṣāyavṛkṣamadhye",
+     "gloss": "astringent-tree-middle",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "kaṣāyāṣṭakam",
+     "gloss": "astringent-eight",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "participle",
+     "morph": "v.part.pass"
+    }
+   ],
+   "question": "Where is the eightfold astringent set declared?",
+   "premises": [
+    "Astringent tree middle is specified.",
+    "The eight astringents are referenced.",
+    "Declaration is stated."
+   ],
+   "inference": "The eight astringents are declared in the middle of astringent trees.",
+   "uncertainties": [
+    "Exact tree list not given."
+   ],
+   "plain_english": "In the middle of astringent trees, that eightfold astringent set is declared."
+  },
+  {
+   "verse": 2613,
+   "rows": [
+    {
+     "surface": "valmīkāṃ",
+     "gloss": "from-anthill",
+     "grounds": "ablative",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "kṣetrakoṣṭhābhyāṃ",
+     "gloss": "from-field-storehouse",
+     "grounds": "dual ablative",
+     "morph": "n.abl.du.m"
+    },
+    {
+     "surface": "vedimadhyaṃ",
+     "gloss": "altar-middle",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṣṭakam",
+     "gloss": "eight",
+     "grounds": "compound with ca",
+     "morph": "num"
+    }
+   ],
+   "question": "From where should eight portions for the altar middle be taken?",
+   "premises": [
+    "Anthill is a source.",
+    "Field and storehouse are sources.",
+    "Altar middle receives eight."
+   ],
+   "inference": "Eight portions for the altar middle come from anthill, field, and storehouse.",
+   "uncertainties": [
+    "Exact distribution unclear."
+   ],
+   "plain_english": "From anthill, field, and storehouse, eight for the altar middle."
+  },
+  {
+   "verse": 2614,
+   "rows": [
+    {
+     "surface": "saurāṣṭraṃ",
+     "gloss": "saurāṣṭra",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vāradaṃ",
+     "gloss": "vārada",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhātvaṣṭakam",
+     "gloss": "mineral-eight",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "participle",
+     "morph": "v.part.pass"
+    }
+   ],
+   "question": "Which minerals are declared as the eightfold set?",
+   "premises": [
+    "Saurāṣṭra is named.",
+    "Vārada is named.",
+    "Eight minerals are declared."
+   ],
+   "inference": "Saurāṣṭra and Vārada are among the declared eight minerals.",
+   "uncertainties": [
+    "Remaining minerals not listed."
+   ],
+   "plain_english": "Saurāṣṭra and Vārada, indeed, are declared among the eight minerals."
+  },
+  {
+   "verse": 2615,
+   "rows": [
+    {
+     "surface": "kuṅkumaṃ",
+     "gloss": "saffron",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karpūraṃ",
+     "gloss": "camphor",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "khaṃgarogaphalatrayam",
+     "gloss": "khaṃga-roga-fruit-triad",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which fragrant and fruit substances are enumerated?",
+   "premises": [
+    "Saffron is named.",
+    "Camphor is named.",
+    "A three-fruit set is named."
+   ],
+   "inference": "Saffron, camphor, and a three-fruit set are enumerated.",
+   "uncertainties": [
+    "Fruit identities unclear."
+   ],
+   "plain_english": "Saffron, and indeed camphor, and the three-fruit set."
+  },
+  {
+   "verse": 2616,
+   "rows": [
+    {
+     "surface": "tadghṛtapaṅktyāstu",
+     "gloss": "that-ghee-row",
+     "grounds": "compound genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "east",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśatkalaśeṣu",
+     "gloss": "in-fifty-pots",
+     "grounds": "compound locative",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should fifty pots be placed relative to the ghee row?",
+   "premises": [
+    "Ghee row is referenced.",
+    "East is specified.",
+    "Fifty pots are mentioned."
+   ],
+   "inference": "Fifty pots should be placed east of the ghee row.",
+   "uncertainties": [
+    "Exact contents unspecified."
+   ],
+   "plain_english": "East of that ghee row, indeed, in fifty pots."
+  },
+  {
+   "verse": 2617,
+   "rows": [
+    {
+     "surface": "nṛpa",
+     "gloss": "nṛpa-flower",
+     "grounds": "compound",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "paṅkajañc",
+     "gloss": "lotus",
+     "grounds": "compound with ca",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "utpalaṃ",
+     "gloss": "blue-lotus",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vakulapāṭalī",
+     "gloss": "vakula-pāṭalī",
+     "grounds": "compound",
+     "morph": "n.acc.du.f"
+    }
+   ],
+   "question": "Which flowers are enumerated for the ritual?",
+   "premises": [
+    "Flower is named.",
+    "Lotus is named.",
+    "Blue lotus is named.",
+    "Vakula and pāṭalī are named."
+   ],
+   "inference": "The ritual enumerates flower, lotus, blue lotus, vakula, and pāṭalī.",
+   "uncertainties": [
+    "Nṛpa may be a flower name."
+   ],
+   "plain_english": "Flower, lotus, blue lotus, vakula, and pāṭalī."
+  },
+  {
+   "verse": 2618,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "its",
+     "grounds": "genitive feminine",
+     "morph": "pron.gen.sg.f"
+    },
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "locative feminine",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṅktau",
+     "gloss": "in-row",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalāṣṭakāmbhaśca",
+     "gloss": "fruit-eight-water",
+     "grounds": "compound with ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should fill the eastern row with fruit water?",
+   "premises": [
+    "Eastern row is specified.",
+    "Eight fruits water is named.",
+    "Filling is commanded."
+   ],
+   "inference": "The eastern row should be filled with water of eight fruits.",
+   "uncertainties": [
+    "Exact fruit list follows."
+   ],
+   "plain_english": "Fill its eastern row with water of eight fruits."
+  },
+  {
+   "verse": 2619,
+   "rows": [
+    {
+     "surface": "kapityaṃ",
+     "gloss": "wood-apple",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nālikeraṃ",
+     "gloss": "coconut",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāraṃgaṃ",
+     "gloss": "orange",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "cāṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "compound with ca",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Which fruits complete the eightfold fruit set?",
+   "premises": [
+    "Wood apple is named.",
+    "Coconut is named.",
+    "Orange is named.",
+    "Eighth is specified."
+   ],
+   "inference": "Wood apple, coconut, and orange are among the eight fruits.",
+   "uncertainties": [
+    "Full list not complete."
+   ],
+   "plain_english": "Wood apple, coconut, and orange should be the eighth."
+  },
+  {
+   "verse": 2620,
+   "rows": [
+    {
+     "surface": "etatpaṅktyāstu",
+     "gloss": "this-row",
+     "grounds": "compound genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "pūrvasyāṃ",
+     "gloss": "to-east",
+     "grounds": "locative feminine",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "ikṣuvāri",
+     "gloss": "sugarcane-water",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be placed east of this row in order?",
+   "premises": [
+    "This row is referenced.",
+    "East is specified.",
+    "Sugarcane water is named.",
+    "Orderly placement is commanded."
+   ],
+   "inference": "Sugarcane water should be placed east of this row in order.",
+   "uncertainties": [
+    "Exact row identity unclear."
+   ],
+   "plain_english": "Place sugarcane water east of this row in order."
+  },
+  {
+   "verse": 2621,
+   "rows": [
+    {
+     "surface": "śālinīvāragodhūmayava",
+     "gloss": "rice-grain-wheat-barley",
+     "grounds": "compound",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "veṇupriyaṅgavaḥ",
+     "gloss": "bamboo-seed-priyaṅgu",
+     "grounds": "compound",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Which grains and seeds are enumerated?",
+   "premises": [
+    "Rice and grains are named.",
+    "Wheat and barley are named.",
+    "Bamboo seed and priyaṅgu are named."
+   ],
+   "inference": "The ritual enumerates rice, grain, wheat, barley, bamboo seed, and priyaṅgu.",
+   "uncertainties": [
+    "Exact grammatical grouping unclear."
+   ],
+   "plain_english": "Rice, grain, wheat, barley, bamboo seed, and priyaṅgu."
+  },
+  {
+   "verse": 2622,
+   "rows": [
+    {
+     "surface": "tatpaṅktyā",
+     "gloss": "that-row",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "pūrvapaṅktyāttu",
+     "gloss": "to-east-row",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "auṣadhāṣṭakatoyakam",
+     "gloss": "herb-eight-water",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What water should be placed east of that row?",
+   "premises": [
+    "That row is referenced.",
+    "Eastern row is specified.",
+    "Eight-herb water is named."
+   ],
+   "inference": "Water of eight herbs should be placed east of that row.",
+   "uncertainties": [
+    "Exact row identity unclear."
+   ],
+   "plain_english": "East of that row, water of eight herbs."
+  },
+  {
+   "verse": 2623,
+   "rows": [
+    {
+     "surface": "sūryāvataṃ",
+     "gloss": "sūryāvarta",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "valmī",
+     "gloss": "valmī",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhūkantirikarṇikā",
+     "gloss": "bandhūka-antirikarṇikā",
+     "grounds": "compound",
+     "morph": "n.acc.du.f"
+    }
+   ],
+   "question": "Which plants are enumerated in this set?",
+   "premises": [
+    "Sūryāvarta is named.",
+    "Valmī is named.",
+    "Bandhūka and antirikarṇikā are named."
+   ],
+   "inference": "The set includes sūryāvarta, valmī, bandhūka, and antirikarṇikā.",
+   "uncertainties": [
+    "Exact category unclear."
+   ],
+   "plain_english": "Sūryāvarta, and valmī, and bandhūka and antirikarṇikā."
+  },
+  {
+   "verse": 2624,
+   "rows": [
+    {
+     "surface": "tatprācyāṃ",
+     "gloss": "that-east",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṅktau",
+     "gloss": "in-row",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāśālyāṣṭakaṃ",
+     "gloss": "great-rice-eight",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be placed east of that row?",
+   "premises": [
+    "Eastern direction is specified.",
+    "Row is specified.",
+    "Eight great rice items are named.",
+    "Placement is commanded."
+   ],
+   "inference": "Eight great rice items should be placed east of that row.",
+   "uncertainties": [
+    "Exact rice varieties unspecified."
+   ],
+   "plain_english": "Place eight great rice items east of that row."
+  }
+ ]
+}

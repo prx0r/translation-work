@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[because-of-teacher's](guror) [means+showing-ness](upāya+pradarśakatvāt) [means](upāyam) [I](aham) [shall-tell](vakṣyāmi)
+[guru](guror) [upāya](upāya) [pradarśaka](pradarśakatvāt) | [upāya](upāyam) [aham](ahaṃ) [vakṣyāmi](vakṣyāmi)
 
 ## mukta-m0-p46-v1127
-[then](tataḥ) [beyond](paraṃ) [own](nijaṃ) [form](rūpaṃ) [which](yat) [mine](mama) [thus](iti) [not](na) [shines](bhāti) [to-you](te)
+[tataḥ](tataḥ) [param](paraṃ) [nijam](nijaṃ) [rūpam](rūpaṃ) [yat](yat) [mama](mama) [iti](iti) [na](na) [bhāti](bhāti) [te](te)
 
 ## mukta-m0-p46-v1128
-[shines](bhāti) [that](tat) [own](nijaṃ) [form](rūpaṃ) [having-discriminated](vivicya) [thus](iti) [connection](sambandhaḥ)
+[bhāti](bhāti) [tat](tat) [nijam](nijaṃ) [rūpam](rūpaṃ) [vivicya](vivicya) [iti](iti) [sambandhaḥ](sambandhaḥ)
 
 ## mukta-m0-p46-v1129
-[that+that](tat+tat) [having-abandoned](parityajya) [supreme](paraṃ) [own+self](sva+ātmānam) [recognize](abhilakṣaya)
+[tat-tat](tattat) [parityajya](parityajya) [param](paraṃ) [svātmānam](svātmānam) [abhilakṣaya](abhilakṣaya)
 
 ## mukta-m0-p46-v1130
-[which](yat) [by-mine-ness](mamatvā) [not+overpowered](an+ākrāntaṃ) [that](tat) [by-self-ness](sva+ātmatvena) [recognize](abhilakṣaya)
+[yat](yat) [mamatvā](mamatvā) [anākrāntam](anākrāntaṃ) [tat](tat) [svātmatvena](svātmatvena) [abhilakṣaya](abhilakṣaya)
 
 ## mukta-m0-p46-v1131
-[from-mere-connection](sambandha+mātrāt) [own-things](ātmīyā) [not](na) [gone-to-own-nature](svarūpa+gatā) [indeed](hi) [I](aham)
+[sambandha](sambandha) [mātrāt](mātrād) [ātmīyā](ātmīyā) [na](na) [svarūpa](svarūpa) [gatā](gatā) [hi](hy) [aham](aham)
 
 ## mukta-m0-p46-v1132
-[this](etat) [indeed](eva) [having-discriminated](vivicya) [establishes](upapādayati) [as](yathā) [thus](iti) [not](na) [gone-to-own-nature](svarūpa+gatā) [not](na) [included-in-own-nature](svarūpa+antarbhūtā)
+[etad](etad) [eva](eva) [vivicya](vivicya) [upapādayati](upapādayati) - [yathā](yathā) [iti](iti) | [na](na) [svarūpa](svarūpa) [gatā](gatā) [na](na) [svarūpa](svarūpa) [antarbhūtā](antarbhūtā)
 
 ## mukta-m0-p46-v1133
-[that](tam) [self](ātmānaṃ) [having-clearly-perceived](samālakṣya) [supreme](paraṃ) [good](śreyaḥ) [attain](samāpnuhi)
+[tam](tam) [ātmānam](ātmānaṃ) [samālakṣya](samālakṣya) [param](paraṃ) [śreyaḥ](śreyaḥ) [samāpnuhi](samāpnuhi)
 
 ## mukta-m0-p46-v1134
-[went](yayāva) [horse](aśvaṃ) [having-mounted](samāruhya) [at-that-moment](tat+kṣaṇe) [from-city](nagarād) [outside](bahiḥ)
+[yayā](yayā) [avaśyam](avaśyaṃ) [samāruhya](samāruhya) [tat-kṣaṇe](tatkṣaṇe) [nagarāt](nagarād) [bahiḥ](bahiḥ)
 
 ## mukta-m0-p46-v1135
-[forest+interior](vana+antaḥ) [palace](saudham) [lofty](unnamraṃ) [crystal](sphāṭikaṃ) [entered](praviveśa) [indeed](ha)
+[vanāntaḥ](vanāntaḥ) [saudham](saudham) [unnamram](unnamraṃ) [sphāṭikam](sphāṭikaṃ) [praviveśa](praviveśa) [ha](ha)
 
 ## mukta-m0-p46-v1136
-[garden](udyānaṃ) [pleasure-grove](krīḍā+vanam) [lofty](unnamram) [high](uccam)
+[udyānam](udyānaṃ) [krīḍāvanam](krīḍāvanam) | [unnamram](unnamram) [uccam](uccam)
 
 ## mukta-m0-p46-v1137
-[not](na) [anyone](kaḥ+api) [here](atra) [may-enter](praviśatu) [in-me](mayi) [in-solitary+deliberation](ekānta+vicāraṇe)
+[na](na) [kaḥ](ko) [api]('py) [atra](atra) [praviśatu](praviśatu) [mayi](mayi) [ekānta](ekānta) [vicāraṇe](vicāraṇe)
 
 ## mukta-m0-p46-v1138
-[deliberation](vicāraṇaṃ) [discrimination](vivecanam) [intent-on-that](tat+pare) [in-me](mayi) [being](sati) [thus](iti) [to-that-extent](yāvat)
+[vicāraṇam](vicāraṇaṃ) [vivecanam](vivecanam) | [tat](tat) [pare](pare) [mayi](mayi) [satī](satī) [iti](iti) [yāvat](yāvat)
 
 ## mukta-m0-p46-v1139
-[not-to-be-entered](apraveśyāḥ) [indeed](eva) [as-long-as](yāvat) [I](aham) [command](ājñāṃ) [shall-give](diśāmi) [to-you](vaḥ)
+[apraveśyāḥ](apraveśyā) [eva](eva) [yāvat](yāvat) [aham](aham) [ājñām](ājñāṃ) [diśāmi](diśāmi) [vaḥ](vaḥ)
 
 ## mukta-m0-p46-v1140
-[there](tatra) [at-window](vātāyane) [beautiful](citre) [all+worlds+overlooking](sarva+loka+avalokane)
+[tatra](tatra) [vātāyane](vātāyane) [citre](citre) [sarva](sarva) [loka](loka) [avalokane](avalokane)
 
 ## mukta-m0-p46-v1141
-[very+high](ati+uccā) [thus](iti) [to-that-extent](yāvat)
+[atyuccāmi](atyuccāmi) [iti](iti) [yāvat](yāvat)
 
 ## mukta-m0-p46-v1142
-[mind](manaḥ) [having-fixed](samādhāya) [firmly](dṛḍhaṃ) [deliberation](vicāram) [made](akarot) [then](tadā)
+[manaḥ](manaḥ) [samādhāya](samādhāya) [dṛḍham](dṛḍhaṃ) [vicāram](vicāram) [akarot](akarot) [tadā](tadā)
 
 ## mukta-m0-p46-v1143
-[some](kecit) [read](paṭhanti) [scriptures](śāstrāṇi) [tradition+limbs](sāmnāya+aṅgāni) [constantly](nityaśaḥ)
+[kecit](kecit) [paṭhanti](paṭhanti) [śāstrāṇi](śāstrāṇi) [sāmnāya](sāmnāya) [aṅgāni](aṅgāni) [nityaśaḥ](nityaśaḥ)
 
 ## mukta-m0-p46-v1144
-[of-own-self](svatmanaḥ) [happiness+cause](sukha+hetoḥ) [tradition](āmnāyaḥ) [Veda](vedaḥ)
+[sva](sva) [ātmanaḥ](ātmanaḥ) [sukha](sukha) [hetoḥ](hetoḥ) | [āmnāyaḥ](āmnāyo) [vedaḥ](vedaḥ)
 
 ## mukta-m0-p46-v1145
-[not](na) [this](enam) [knows](jānāti) [anyone](kaḥ+api) [here](atra) [whence](kutaḥ) [thus](evam) [this](ayam) [delusion](bhramaḥ)
+[na](na) [enam](enam) [jānāti](jānāti) [kaḥ](ko) [api]('py) [atra](atra) [kutaḥ](kutaḥ) [evam](evam) [ayam](ayam) [bhramaḥ](bhramaḥ)
 
 ## mukta-m0-p46-v1146
-[in-vain](vyarthaṃ) [in-dream](svapne) [done](kṛtam) [as-if](iva) [that](tat) [today](adya) [I-shall-examine](vimṛśāmi) [that](tam)
+[vyartham](vyarthaṃ) [svapne](svapne) [kṛtam](kṛtam) [iva](iva) [tat](tat) [adya](adya) [vimṛśāmi](vimṛśāmi) [tam](tam)
 
 ## mukta-m0-p46-v1147
-[by-me](mayā) [done](kṛtam) [because](yasmāt) [from-ignorance](ajñānāt) [done](kṛtaṃ) [in-vain](vyarthaṃ) [that](tat) [therefore](tasmāt)
+[mayā](mayā) [kṛtam](kṛtam) | [yasmāt](yasmād) [ajñānāt](ajñānāt) [kṛtam](kṛtaṃ) [vyartham](vyarthaṃ) [tat](tat) [tasmāt](tasmāt)
 
 ## mukta-m0-p46-v1148
-[not](na) [my](me) [own-nature](svarūpaṃ) [becomes](bhavati) [because-of-being-support-of-non-I](tu+anahantā+āśrayatvataḥ)
+[na](na) [me](me) [svarūpam](svarūpaṃ) [bhavati](bhavati) [tvan](tvan) [ahantā](ahantā) [āśrayatvataḥ](āśrayatvataḥ)
 
 ## mukta-m0-p46-v1149
-[by-appearance-as-I](aham+iti+abhāsanena) [because-of-absence-of-being-support-of-non-I](anahantā+āśrayatva+abhāvāt)
+[aham](aham) [iti](iti) [abhāsanena](abhāsanena) [ahantā](ahantā) [āśrayatva](āśrayatva) [abhāvāt](abhāvāt)
 
 ## mukta-m0-p46-v1150
-[certainly](nūnaṃ) [kṣatriya+heir](kṣatriya+dāyādaḥ) [fair-limbed](gaurāṅgaḥ) [I](aham) [not](na) [doubt](saṃśayaḥ)
+[nūnam](nūnaṃ) [kṣatriya](kṣatriya) [dāyādaḥ](dāyādo) [gaurāṅgaḥ](gaurāṅgo) [aham](aham) [na](na) [saṃśayaḥ](saṃśayaḥ)

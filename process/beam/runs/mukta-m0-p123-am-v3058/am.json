@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3058,
- "question": "What concluding action is performed after worshipping the goddess in this sequence?",
+ "question": "What deposit is desired and brahmanical?",
  "premises": [
-  "The goddess is worshipped first.",
-  "The goddess is then dismissed into one's own self.",
-  "The dismissal follows the previous procedure."
+  "deposit is desired",
+  "deposit is brahmanical",
+  "deposit uses five cow products"
  ],
- "inference": "After worship, the goddess should be dismissed into one's own self as done before.",
- "uncertainties": [],
- "plain_english": "Having worshipped that goddess, one should then dismiss her into one's own self as before."
+ "inference": "The desired brahmanical deposit is made from five cow products.",
+ "uncertainties": [
+  "exact pañcagavya composition assumed"
+ ],
+ "plain_english": "Indeed all desired brahmanical deposit is of five cow products."
 }

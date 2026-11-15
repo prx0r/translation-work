@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[alas](aho) [people](janāḥ) [pain+pleasure+discrimination+knowledge+devoid](duḥkha+sukha+viveka+jñāna+varjitāḥ)
+[alas](aho) [people](janāḥ) [pain+pleasure+discrimination+knowledge+devoid](duḥkhasukhavivekajñānavarjitāḥ)
 
 ## mukta-m0-p53-v1302
-[pain+alone](duḥkham+eva) [they-experience](anubhavanti) [thus](iti) [he-says](āha) [alas](aho) [thus](iti)
+[pain](duḥkham) [only](eva) [experience](anubhavanti) [thus](iti) [says](āha) [alas](aho) [thus](iti)
 
 ## mukta-m0-p53-v1303
-[therefore](tat) [enough](alam) [with-pain+experience](duḥkha+bhogena) [by-own+effort+obtained](sva+yatna+āsāditena) [indeed](vai)
+[that](tad) [enough](alam) [pain+enjoyment](duḥkhabhogena) [self+effort+acquired](svayatnāsāditena) [indeed](vai)
 
 ## mukta-m0-p53-v1304
-[pain+mass](duḥkha+saṅghaṃ) [pain+means+net](duḥkha+sādhana+jālaṃ) [wealth+house+etc](dhana+gṛha+ādikam)
+[pain+collection](duḥkhasaṅghaṃ) [pain+means+net](duḥkhasādhanajālaṃ) [wealth+house+etc](dhanagṛhādikam)
 
 ## mukta-m0-p53-v1305
-[rest](viśrāntim) [I-desire](abhivāñchāmi) [for-long](ciraṃ) [in-own](svasmin) [bliss+self](sukha+ātmani)
+[rest](viśrāntim) [desire](abhivāñchāmi) [long](ciraṃ) [in-self](svasmin) [bliss+self](sukhātmani)
 
 ## mukta-m0-p53-v1306
-[rest](viśrāntiṃ) [described+bliss+nature+own+form+abiding+consisting](prokta+sukha+ātmaka+sva+svarūpa+avasthāna+ātmakaṃ) [absorption](samādhim)
+[rest](viśrāntiṃ) [stated+bliss+self+own+nature+abiding+nature](proktasukhātmakasvasvarūpāvasthānātmakaṃ) [samadhi](samādhim)
 
 ## mukta-m0-p53-v1307
 [you-strive](ceṣṭasi)
 
 ## mukta-m0-p53-v1308
-[you-strive](ceṣṭase) [kh-g-gh](kh,+g,+gh:) [you-strive](ceṣṭasi) [activity+engaged](vyavahāra+parāsi)
+[you-strive](ceṣṭase) [worldly+activity+devoted](vyavahāraparāsi)
 
 ## mukta-m0-p53-v1309
-[O-lord](nātha) [by-you](te) [that](tat) [not](na) [known](viditaṃ) [state](padaṃ) [supremely+pure](parama+pāvanam)
+[lord](nātha) [your](te) [that](tanna) [not](na) [known](viditaṃ) [state](padaṃ) [supreme+purifying](paramapāvanam)
 
 ## mukta-m0-p53-v1310
-[I](aham) [am](asmi) [thus](iti) [not](na) [recognized](pratyabhijñātam) [supremely+pure](parama+pāvanaṃ) [duality+impurity+trace+free](dvaita+mala+leśa+rahitam)
+[I+am+thus](ahamasmīti) [not](na) [recognized](pratyabhijñātam) [supreme+purifying](paramapāvanaṃ) [duality+impurity+trace+free](dvaitamalaleśarahitam)
 
 ## mukta-m0-p53-v1311
-[that+state](tat+padaṃ) [far](dūrataḥ) [of-you](te) [is](asti) [on-earth+standing](bhū+sthasya) [like](iva) [sky+surface](nabhaḥ+talam)
+[that+state](tatpadaṃ) [far](dūrataste'sti) [earth+dweller's](bhūsthasyeva) [like](iva) [sky+ground](nabhastalam)
 
 ## mukta-m0-p53-v1312
-[closing](nimīlya) [opening](unmīlya) [or](vā) [eyes](netre) [that+state](tat+padaṃ) [not](na) [is-seen](samīkṣyate)
+[closing](nimīlyonmīlya) [opening](vā) [or](netre) [eyes](tatpadaṃ) [that+state](na) [not](samīkṣyate)
 
 ## mukta-m0-p53-v1313
-[if](cet) [he-says](āha) [closing](nimīlya) [thus](iti)
+[if](cedāha) [says](nimīlyeti) [closing](iti)
 
 ## mukta-m0-p53-v1314
-[not-going](agatvā) [and](ca) [also](api) [or](vā) [going](gatvā) [not](na) [that](tat) [one-would-attain](āsādayet) [state](padam)
+[not-going](agatvā) [and](cāpi) [even](vā) [or](gatvā) [going](na) [not](tadāsādayet) [that](padam) [attain](state)
 
 ## mukta-m0-p53-v1315
-[in-that+nature](tat+svarūpe) [closing+doing+going+etc](nimīlana+karaṇa+gamana+ādibhiḥ) [not](na) [difference](viśeṣaḥ) [thus](iti) [meaning](bhāvaḥ)
+[its+nature](tatsvarūpe) [closing+doing+going+etc](nimīlanakaraṇagamanādibhirna) [no](viśeṣa) [difference](iti) [thus](bhāvaḥ) [meaning](bhāvaḥ)
 
 ## mukta-m0-p53-v1316
-[barley+eight+measured](yava+aṣṭaka+mitena) [indeed](eva) [by-eyelash](pakṣmaṇā) [opened](unmīlitena) [but](tu)
+[barley+eight+measured](yavāṣṭakamitenaiva) [indeed](pakṣmaṇonmīlitena) [eyelash](tu) [opened](tu) [but](tu)
 
 ## mukta-m0-p53-v1317
-[with-mockery](sa+upahāsam) [he-says](āha) [barley+eight](yava+aṣṭaka) [thus](iti)
+[with+mockery](sopahāsamāha) [says](yavāṣṭaketi) [barley+eight](iti)
 
 ## mukta-m0-p53-v1318
-[alas](aho) [your](te) [delusion+greatness](moha+māhātmyam) [wonder](āścaryaṃ) [what](kim) [I](aham) [say](bruve)
+[alas](aho) [your](te) [delusion+greatness](mohamāhātmyamāścaryaṃ) [wonder](kimahaṃ) [what](bruve) [I](bruve) [say](bruve)
 
 ## mukta-m0-p53-v1319
-[of-eyelash](pakṣmaṇaḥ) [finger+measure](aṅguli+mānasya) [by-opening](unmīlanāt) [that](tat) [concealed](tirohitam)
+[eyelash's](pakṣmaṇo'ṅgulimānasyonmīlanāttattirohitam) [finger+measured](unmīlanāt) [opening](tat) [that](tirohitam) [hidden](tirohitam)
 
 ## mukta-m0-p53-v1320
-[in-which](yasmin) [general+consciousness+form](sāmānya+cit+rūpe) [in-self](ātmani) [concealed](tirohitam) [thus](iti) [wonder](āścaryam) [thus](iti) [connection](sambandhaḥ)
+[in+which](yasmin) [common+consciousness+nature](sāmānyacidrūpe) [self](ātmani) [hidden](tirohitamityāścaryamiti) [thus](sambandhaḥ) [wonder](sambandhaḥ) [thus](sambandhaḥ) [connection](sambandhaḥ)
 
 ## mukta-m0-p53-v1321
-[as-long-as](yāvat) [knot+breaking](granthi+vibhedaḥ) [not](na) [not](na) [so-long](tāvat) [happiness](sukham) [one-obtains](ṛcchati)
+[until](yāvat) [knot+breaking](granthivibhedo) [not](na) [not](na) [then](tāvat) [happiness](sukhamṛcchati) [obtains](sukhamṛcchati)
 
 ## mukta-m0-p53-v1322
-[there](tatra) [own-nature+non-apprehension](svarūpa+asaṃvittiḥ) [delusion+rope](moha+rajjuḥ) [is-stated](udīritā)
+[there](tatra) [self+nature+nonrecognition](svarūpāsaṃvittirmoharajjurudīritā) [delusion+rope](udīritā) [declared](udīritā)
 
 ## mukta-m0-p53-v1323
-[delusion+rope](moha+rajjuḥ) [thus](iti) [if](cet) [he-says](āha) [there](tatra) [thus](iti)
+[delusion+rope](moharajjuriti) [thus](cedāha) [if](tatreti) [says](tatreti) [there](tatreti) [thus](tatreti)
 
 ## mukta-m0-p53-v1324
-[there](tatra) [first](ādyā) [in-body+chief+etc](deha+mukhyeṣu) [would-be](bhavet) [selfhood+certainty](ātmatva+niścayaḥ)
+[there](tatrādyā) [first](dehamukhyeṣu) [body+principals](bhavedātmatvaniścayaḥ) [would+be](bhavedātmatvaniścayaḥ) [selfhood+certainty](bhavedātmatvaniścayaḥ)
 
 ## mukta-m0-p53-v1325
-[difficult+to-remove](duḥ+pariharaḥ) [thus](iti) [of-this](asya) [knotness](granthitvaṃ) [to-be-known](jñeyam)
+[hard+remove](duṣparihara) [thus](ityasya) [its](granthitvaṃ) [knottedness](jñeyam) [known](jñeyam)

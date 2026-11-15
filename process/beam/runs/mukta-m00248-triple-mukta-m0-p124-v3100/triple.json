@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "dvādaśye",
+     "gloss": "on-dvādaśī",
+     "grounds": "locative form indicating the day dvādaśī",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "ekādaśī",
+     "gloss": "ekādaśī",
+     "grounds": "nominative noun naming the eleventh-day observance",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "navamī",
+     "gloss": "navamī",
+     "grounds": "nominative noun naming the ninth-day observance",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "grahaṇe",
+     "gloss": "in-eclipse",
+     "grounds": "locative form indicating an eclipse occasion",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "viṣuve",
+     "gloss": "in-equinox",
+     "grounds": "locative form indicating an equinox occasion",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle adding to the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional fasting days and astronomical occasions are included alongside the named observances?",
+   "premises": [
+    "Fasting observances include dvādaśī days.",
+    "Ekādaśī and navamī are named occasions.",
+    "Eclipses and equinoxes are also included."
+   ],
+   "inference": "The verse extends the list of prescribed fasting occasions to further days and astronomical moments.",
+   "uncertainties": [
+    "Exact syntactic relation to the preceding verse is not fully recoverable from the isolated token list."
+   ],
+   "plain_english": "Fasting is also observed on dvādaśī, ekādaśī, and navamī, and during eclipses and equinoxes."
+  }
+ ]
+}

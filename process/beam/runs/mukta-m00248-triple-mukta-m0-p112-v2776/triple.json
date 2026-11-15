@@ -1,0 +1,1459 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2776,
+   "rows": [
+    {
+     "surface": "kheṭakaṃ",
+     "gloss": "fort",
+     "grounds": "fortified settlement",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kārayānī",
+     "gloss": "cause-to-make",
+     "grounds": "causative form",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "single",
+     "morph": "num"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃjñikā",
+     "gloss": "sign",
+     "grounds": "name-marker",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What single fortified settlement is to be made and called by a sign?",
+   "premises": [
+    "one fort is to be made",
+    "it is to be called by a sign"
+   ],
+   "inference": "the settlement is a single signed fort",
+   "uncertainties": [
+    "exact sense of saṃjñikā"
+   ],
+   "plain_english": "Make one fort and call it by a sign."
+  },
+  {
+   "verse": 2777,
+   "rows": [
+    {
+     "surface": "aneka",
+     "gloss": "not-one",
+     "grounds": "plural",
+     "morph": "num"
+    },
+    {
+     "surface": "prāsāda",
+     "gloss": "palace",
+     "grounds": "royal building",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "connected",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "gṛha",
+     "gloss": "house",
+     "grounds": "dwelling",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "prākāra",
+     "gloss": "rampart",
+     "grounds": "wall",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined-with",
+     "grounds": "connected",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What kind of house is joined with many palaces and a rampart?",
+   "premises": [
+    "many palaces are joined",
+    "a rampart is joined"
+   ],
+   "inference": "the house is fortified and palace-connected",
+   "uncertainties": [
+    "compound scope"
+   ],
+   "plain_english": "A house joined with many palaces and a rampart."
+  },
+  {
+   "verse": 2778,
+   "rows": [
+    {
+     "surface": "dīrghikā",
+     "gloss": "long-pool",
+     "grounds": "water feature",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "parivṛtā",
+     "gloss": "surrounded-by",
+     "grounds": "encircled",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "durgaṃ",
+     "gloss": "impregnable",
+     "grounds": "fortified",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "durgaṃ",
+     "gloss": "fortress",
+     "grounds": "stronghold",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "prākāra",
+     "gloss": "rampart",
+     "grounds": "wall",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fortress is surrounded by a long pool and a rampart?",
+   "premises": [
+    "a long pool surrounds it",
+    "a rampart surrounds it"
+   ],
+   "inference": "the fortress is doubly enclosed",
+   "uncertainties": [
+    "repeated durgaṃ"
+   ],
+   "plain_english": "A fortress surrounded by a long pool and a rampart."
+  },
+  {
+   "verse": 2779,
+   "rows": [
+    {
+     "surface": "brāhmaṇair",
+     "gloss": "brahmins",
+     "grounds": "priestly class",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "veda",
+     "gloss": "veda",
+     "grounds": "scripture",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saṃyuktaiḥ",
+     "gloss": "joined-with",
+     "grounds": "associated",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "west",
+     "grounds": "direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vāyu",
+     "gloss": "wind",
+     "grounds": "air",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "be",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the veda-joined brahmins and wind be placed?",
+   "premises": [
+    "brahmins joined with veda",
+    "wind is mentioned",
+    "west is the direction"
+   ],
+   "inference": "the arrangement is in the west",
+   "uncertainties": [
+    "exact object of bhavet"
+   ],
+   "plain_english": "Let veda-joined brahmins and wind be in the west."
+  },
+  {
+   "verse": 2780,
+   "rows": [
+    {
+     "surface": "rāja",
+     "gloss": "king",
+     "grounds": "ruler",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "veśmaṃ",
+     "gloss": "dwelling",
+     "grounds": "residence",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "surrounding",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "every side",
+     "morph": "adj"
+    },
+    {
+     "surface": "dīrghaṃ",
+     "gloss": "long",
+     "grounds": "extended",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause-to-make",
+     "grounds": "causative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be made all around the king's dwelling?",
+   "premises": [
+    "king's dwelling is central",
+    "all around it",
+    "long structure is to be made"
+   ],
+   "inference": "a long enclosure surrounds the royal dwelling",
+   "uncertainties": [
+    "exact structure"
+   ],
+   "plain_english": "Make a long structure all around the king's dwelling."
+  },
+  {
+   "verse": 2781,
+   "rows": [
+    {
+     "surface": "gaja",
+     "gloss": "elephant",
+     "grounds": "animal",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vāji",
+     "gloss": "horse",
+     "grounds": "animal",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "samākīrṇaṃ",
+     "gloss": "thronged-with",
+     "grounds": "filled",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "rathaiś",
+     "gloss": "chariots",
+     "grounds": "vehicles",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "number",
+     "morph": "num"
+    },
+    {
+     "surface": "samākulaḥ",
+     "gloss": "crowded-with",
+     "grounds": "filled",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What is thronged with elephants, horses, and chariots?",
+   "premises": [
+    "elephants and horses are present",
+    "chariots are present",
+    "eightfold crowding is stated"
+   ],
+   "inference": "the royal force is densely arrayed",
+   "uncertainties": [
+    "subject of samākulaḥ"
+   ],
+   "plain_english": "Thronged with elephants, horses, and chariots, crowded eightfold."
+  },
+  {
+   "verse": 2782,
+   "rows": [
+    {
+     "surface": "kṣatriyo",
+     "gloss": "warrior",
+     "grounds": "ruling class",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dāna",
+     "gloss": "gift",
+     "grounds": "giving",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dharmaiś",
+     "gloss": "duty",
+     "grounds": "righteous conduct",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "joined",
+     "grounds": "endowed",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "śūraḥ",
+     "gloss": "hero",
+     "grounds": "brave",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pratāpavān",
+     "gloss": "splendorous",
+     "grounds": "majestic",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What qualities define the warrior king?",
+   "premises": [
+    "he is joined with gifts and duties",
+    "he is a hero",
+    "he is splendorous"
+   ],
+   "inference": "the king is a dutiful heroic ruler",
+   "uncertainties": [
+    "dāna as gift or giving"
+   ],
+   "plain_english": "The warrior is joined with gifts and duties, a hero and splendorous."
+  },
+  {
+   "verse": 2783,
+   "rows": [
+    {
+     "surface": "vajraṃ",
+     "gloss": "thunderbolt",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmarāgaṃ",
+     "gloss": "padmarāga",
+     "grounds": "gem",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maratakaṃ",
+     "gloss": "emerald",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mauktikaṃ",
+     "gloss": "pearl",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which gems are to be collected among the royal treasures?",
+   "premises": [
+    "thunderbolt gem is listed",
+    "padmarāga is listed",
+    "emerald and pearl are listed"
+   ],
+   "inference": "these gems belong to the treasury",
+   "uncertainties": [
+    "vajra as gem or weapon"
+   ],
+   "plain_english": "Thunderbolt, padmarāga, emerald, and pearl likewise."
+  },
+  {
+   "verse": 2784,
+   "rows": [
+    {
+     "surface": "dhānyānāṃ",
+     "gloss": "grains",
+     "grounds": "food stores",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "saṃgrahaś",
+     "gloss": "collection",
+     "grounds": "gathering",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastra",
+     "gloss": "cloth",
+     "grounds": "textile",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ābharaṇaṃ",
+     "gloss": "ornament",
+     "grounds": "jewelry",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What stores should be collected besides grains?",
+   "premises": [
+    "grain collection is stated",
+    "cloth is stated",
+    "ornament is stated"
+   ],
+   "inference": "the treasury includes grains, cloth, and ornaments",
+   "uncertainties": [
+    "saṃgrahaś as subject"
+   ],
+   "plain_english": "Collection of grains, and indeed cloth and ornament."
+  },
+  {
+   "verse": 2785,
+   "rows": [
+    {
+     "surface": "vardhanaṃ",
+     "gloss": "increase",
+     "grounds": "growth",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhānāṃ",
+     "gloss": "store",
+     "grounds": "deposit",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuddhyate",
+     "gloss": "fight",
+     "grounds": "battle",
+     "morph": "v.3.sg.mid-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should one not fight for increase of stores?",
+   "premises": [
+    "increase of stores is mentioned",
+    "fighting is negated",
+    "ever is negated"
+   ],
+   "inference": "one should never fight for store increase",
+   "uncertainties": [
+    "ādhānāṃ sense"
+   ],
+   "plain_english": "Never fight for increase of stores."
+  },
+  {
+   "verse": 2786,
+   "rows": [
+    {
+     "surface": "senānāṃ",
+     "gloss": "armies",
+     "grounds": "forces",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "vardhanaṃ",
+     "gloss": "increase",
+     "grounds": "growth",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuddhyeta",
+     "gloss": "fight",
+     "grounds": "battle",
+     "morph": "v.3.sg.mid-opt"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one ever fight for increase of armies?",
+   "premises": [
+    "army increase is mentioned",
+    "fighting is negated",
+    "ever is negated"
+   ],
+   "inference": "one should never fight for army increase",
+   "uncertainties": [
+    "optative force"
+   ],
+   "plain_english": "Never fight for increase of armies."
+  },
+  {
+   "verse": 2787,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "every",
+     "morph": "adj"
+    },
+    {
+     "surface": "ratnānāṃ",
+     "gloss": "jewels",
+     "grounds": "gems",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "vṛddhiś",
+     "gloss": "increase",
+     "grounds": "growth",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuddhyeta",
+     "gloss": "fight",
+     "grounds": "battle",
+     "morph": "v.3.sg.mid-opt"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one ever fight for increase of all jewels?",
+   "premises": [
+    "all jewels increase is mentioned",
+    "fighting is negated",
+    "ever is negated"
+   ],
+   "inference": "one should never fight for jewel increase",
+   "uncertainties": [
+    "vṛddhiś subject"
+   ],
+   "plain_english": "Never fight for increase of all jewels."
+  },
+  {
+   "verse": 2788,
+   "rows": [
+    {
+     "surface": "netra",
+     "gloss": "eye",
+     "grounds": "sight",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "nirvāṇa",
+     "gloss": "extinction",
+     "grounds": "cessation",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kṣamaṃ",
+     "gloss": "capable",
+     "grounds": "able",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuddhyeta",
+     "gloss": "fight",
+     "grounds": "battle",
+     "morph": "v.3.sg.mid-opt"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one ever fight when eye-extinction is possible?",
+   "premises": [
+    "eye extinction is mentioned",
+    "fighting is negated",
+    "ever is negated"
+   ],
+   "inference": "one should never fight in that case",
+   "uncertainties": [
+    "kṣamaṃ object"
+   ],
+   "plain_english": "Never fight when eye-extinction is possible."
+  },
+  {
+   "verse": 2789,
+   "rows": [
+    {
+     "surface": "gaja",
+     "gloss": "elephant",
+     "grounds": "animal",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "aśva",
+     "gloss": "horse",
+     "grounds": "animal",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "upaskaraṃ",
+     "gloss": "equipment",
+     "grounds": "gear",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuddhyeta",
+     "gloss": "fight",
+     "grounds": "battle",
+     "morph": "v.3.sg.mid-opt"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one ever fight for elephant and horse equipment?",
+   "premises": [
+    "elephant and horse equipment is mentioned",
+    "fighting is negated",
+    "ever is negated"
+   ],
+   "inference": "one should never fight for such equipment",
+   "uncertainties": [
+    "upaskaraṃ scope"
+   ],
+   "plain_english": "Never fight for elephant and horse equipment."
+  },
+  {
+   "verse": 2790,
+   "rows": [
+    {
+     "surface": "kanaka",
+     "gloss": "gold",
+     "grounds": "metal",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vastra",
+     "gloss": "cloth",
+     "grounds": "textile",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "maratakaṃ",
+     "gloss": "emerald",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which items are counted as jewels?",
+   "premises": [
+    "gold jewel is listed",
+    "cloth jewel is listed",
+    "emerald jewel is listed"
+   ],
+   "inference": "these items are classified as jewels",
+   "uncertainties": [
+    "compound sense"
+   ],
+   "plain_english": "Gold jewel, cloth jewel, emerald jewel, and so on."
+  },
+  {
+   "verse": 2791,
+   "rows": [
+    {
+     "surface": "meṣa",
+     "gloss": "ram",
+     "grounds": "animal",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mahiṣa",
+     "gloss": "buffalo",
+     "grounds": "animal",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbha",
+     "gloss": "jar",
+     "grounds": "vessel",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "karan takam",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which further items are counted as jewels?",
+   "premises": [
+    "ram jewel is listed",
+    "buffalo jewel is listed",
+    "jar jewel is listed"
+   ],
+   "inference": "these items are also classified as jewels",
+   "uncertainties": [
+    "karan takam spelling"
+   ],
+   "plain_english": "Ram jewel, buffalo jewel, and jar jewel likewise."
+  },
+  {
+   "verse": 2792,
+   "rows": [
+    {
+     "surface": "gaṇikā",
+     "gloss": "courtesan",
+     "grounds": "woman",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dāsa",
+     "gloss": "male-slave",
+     "grounds": "servant",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dāsī",
+     "gloss": "female-slave",
+     "grounds": "servant",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which persons are counted as jewels?",
+   "premises": [
+    "courtesan jewel is listed",
+    "male slave jewel is listed",
+    "female slave jewel is listed"
+   ],
+   "inference": "these persons are classified as jewels",
+   "uncertainties": [
+    "social status"
+   ],
+   "plain_english": "Courtesan jewel, male slave jewel, female slave jewel, and so on."
+  },
+  {
+   "verse": 2793,
+   "rows": [
+    {
+     "surface": "naṭa",
+     "gloss": "actor",
+     "grounds": "performer",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "gīta",
+     "gloss": "song",
+     "grounds": "music",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kinnara",
+     "gloss": "kinnara",
+     "grounds": "being",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ratnakam",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which performers and beings are counted as jewels?",
+   "premises": [
+    "actor jewel is listed",
+    "song jewel is listed",
+    "kinnara jewel is listed"
+   ],
+   "inference": "these are classified as jewels",
+   "uncertainties": [
+    "kinnara sense"
+   ],
+   "plain_english": "Actor jewel, song jewel, and kinnara jewel likewise."
+  },
+  {
+   "verse": 2794,
+   "rows": [
+    {
+     "surface": "vipaścī",
+     "gloss": "vipaścī",
+     "grounds": "learned person",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "gem",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "always",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahet",
+     "gloss": "collect",
+     "grounds": "gather",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "nṛpaḥ",
+     "gloss": "king",
+     "grounds": "ruler",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What should the king constantly collect?",
+   "premises": [
+    "vipaścī is a jewel",
+    "the king is the agent",
+    "constant collection is enjoined"
+   ],
+   "inference": "the king should constantly collect such jewels",
+   "uncertainties": [
+    "vipaścī identity"
+   ],
+   "plain_english": "Thus the king should constantly collect these jewels."
+  },
+  {
+   "verse": 2795,
+   "rows": [
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "number",
+     "morph": "num"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "quarters",
+     "grounds": "directions",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "daṇḍa",
+     "gloss": "scepter",
+     "grounds": "punishment",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mokṣau",
+     "gloss": "release",
+     "grounds": "liberation",
+     "morph": "n.acc.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "throne",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "number",
+     "morph": "num"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "quarters",
+     "grounds": "directions",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What royal instruments are arranged in four and eight quarters?",
+   "premises": [
+    "scepter and release are in four quarters",
+    "seat is included",
+    "eight quarters are mentioned"
+   ],
+   "inference": "royal power is spatially arranged",
+   "uncertainties": [
+    "mokṣau sense"
+   ],
+   "plain_english": "Scepter, release, and seat in four and eight quarters."
+  },
+  {
+   "verse": 2796,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "every",
+     "morph": "adj"
+    },
+    {
+     "surface": "śāstreṣu",
+     "gloss": "sciences",
+     "grounds": "texts",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "chief",
+     "grounds": "principal",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "dakṣaṃ",
+     "gloss": "skilled",
+     "grounds": "expert",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahet",
+     "gloss": "collect",
+     "grounds": "gather",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What kind of person should be collected from all sciences?",
+   "premises": [
+    "all sciences are mentioned",
+    "chief person is mentioned",
+    "skilled person is to be collected"
+   ],
+   "inference": "the king should collect a skilled chief expert",
+   "uncertainties": [
+    "tat reference"
+   ],
+   "plain_english": "Collect the chief skilled person from all sciences."
+  },
+  {
+   "verse": 2797,
+   "rows": [
+    {
+     "surface": "grāṇaiḥ",
+     "gloss": "nostrils",
+     "grounds": "nose",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "paśyanti",
+     "gloss": "see",
+     "grounds": "perceive",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "paśavo",
+     "gloss": "animals",
+     "grounds": "beasts",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "cakṣurbhyām",
+     "gloss": "eyes",
+     "grounds": "sight organs",
+     "morph": "n.inst.du.n"
+    },
+    {
+     "surface": "itare",
+     "gloss": "others",
+     "grounds": "remaining",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "janāḥ",
+     "gloss": "people",
+     "grounds": "humans",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "How do animals and other people perceive?",
+   "premises": [
+    "animals see with nostrils",
+    "others see with eyes"
+   ],
+   "inference": "perception differs by kind",
+   "uncertainties": [
+    "grāṇaiḥ as nostrils"
+   ],
+   "plain_english": "Animals see with nostrils; other people with eyes."
+  },
+  {
+   "verse": 2798,
+   "rows": [
+    {
+     "surface": "prajñā",
+     "gloss": "intellect",
+     "grounds": "wisdom",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "yuddhaṃ",
+     "gloss": "battle",
+     "grounds": "war",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "rājya",
+     "gloss": "kingdom",
+     "grounds": "realm",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "yuddhaṃ",
+     "gloss": "battle",
+     "grounds": "war",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuddhyet",
+     "gloss": "fight",
+     "grounds": "battle",
+     "morph": "v.3.sg.mid-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one ever fight a battle of intellect or kingdom?",
+   "premises": [
+    "intellect battle is mentioned",
+    "kingdom battle is mentioned",
+    "fighting is negated"
+   ],
+   "inference": "one should never fight such battles",
+   "uncertainties": [
+    "yuddhaṃ metaphor"
+   ],
+   "plain_english": "Never fight a battle of intellect or kingdom."
+  },
+  {
+   "verse": 2799,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "kālottara",
+     "grounds": "text name",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "grāma",
+     "gloss": "village",
+     "grounds": "settlement",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pura",
+     "gloss": "city",
+     "grounds": "settlement",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "pattana",
+     "gloss": "town",
+     "grounds": "settlement",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kheṭaka",
+     "gloss": "market-town",
+     "grounds": "settlement",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rājadhānī",
+     "gloss": "capital",
+     "grounds": "city",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "paṭalaś",
+     "gloss": "chapter",
+     "grounds": "section",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "catuḥpañcāśat",
+     "gloss": "fifty-fourth",
+     "grounds": "number",
+     "morph": "num"
+    }
+   ],
+   "question": "What chapter of Kālottara concerns villages, cities, towns, market-towns, and capitals?",
+   "premises": [
+    "Kālottara is named",
+    "settlement types are listed",
+    "chapter fifty-four is stated"
+   ],
+   "inference": "this is the fifty-fourth chapter on settlements",
+   "uncertainties": [
+    "paṭalaś gender"
+   ],
+   "plain_english": "Thus in Kālottara, the fifty-fourth chapter on villages, cities, towns, market-towns, and capitals."
+  }
+ ]
+}

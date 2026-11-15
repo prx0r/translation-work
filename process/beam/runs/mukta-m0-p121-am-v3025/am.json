@@ -1,16 +1,17 @@
 {
  "song": "mukta-m0-p121",
  "verse": 3025,
- "question": "Does knowledge release both the human being and Vishnu from all bonds of samsara?",
+ "question": "Which seeds and legumes are enumerated in this prescribed list?",
  "premises": [
-  "knowledge releases a man from all samsara bonds",
-  "the same release is extended to Vishnu",
-  "the verse names Vishnu as included in that release"
+  "vaiṇavaṃ denotes bamboo-seed",
+  "tilam denotes sesame",
+  "udgaṃ denotes mung-bean",
+  "caṇakaṃ denotes chickpea",
+  "māṣam denotes black-gram"
  ],
- "inference": "The verse asserts that knowledge liberates both the human being and Vishnu from all bonds of samsara.",
+ "inference": "The verse enumerates bamboo-seed, sesame, mung-bean, chickpea, and black-gram.",
  "uncertainties": [
-  "the fused first token contains multiple words and sandhi boundaries that are not split in this row",
-  "the exact syntactic relation of caiva to the preceding clause is compressed"
+  "The exact ritual use of these items is not stated in this verse."
  ],
- "plain_english": "Having known, a man is released from all bonds of samsara, and indeed Vishnu too."
+ "plain_english": "Bamboo-seed, sesame, mung-bean, chickpea, and black-gram."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[obstruction](pratīghātaḥ) [going](gamana) + [hindrance](pratibandhaḥ)
+[obstruction](pratīghāto) [going-obstruction](gamanapratibandhaḥ)
 
 ## mukta-m0-p63-v1552
-[time](kālaḥ) [place](deśaḥ) + [and](ca) [long](dīrghaḥ) [which](yaḥ) [by-human-etc.](manuṣya+ādi) + [produced](prabhāvitaḥ)
+[time](kālo) [place](deśaśca) [long](dīrgho) [which](yo) [human-etc-caused](manuṣyādiprabhāvitaḥ)
 
 ## mukta-m0-p63-v1553
-[time](kālaḥ) [thus](iti)
+[time](kāla) [thus](iti)
 
 ## mukta-m0-p63-v1554
-[in-mirror](darpaṇe) [of-shining](bhāsamānasya) [of-far-etc.](dūra+ādeḥ) + [farness](dūratā) [as](yathā)
+[mirror](darpaṇe) [appearing](bhāsamānasya) [of-distant-etc](dūrāderdūratā) [as](yathā)
 
 ## mukta-m0-p63-v1555
-[therefore](ataḥ) [by-substrate-form](āśraya+rūpeṇa) [without](vinā) [not](na) + [exists](asti) [indeed](hi) [anything](kiñcana)
+[therefore](ata) [as-support-form](āśrayarūpeṇa) [without](vinā) [not-is](nāsti) [indeed](hi) [anything](kiñcana)
 
 ## mukta-m0-p63-v1556
-[because-of-reflection-nature](pratibimba+ātmakatvāt) + [of-world](jagataḥ) [by-substrate-form](āśraya+rūpeṇa) [consciousness-self](cit+ātmanā) [without](vinā) [not](na) + [exists](asti) + [thus](iti) + [meaning](arthaḥ)
+[mirror-image-nature](pratibimbātmakatvāt) [of-world](jagata) [as-support-form](āśrayarūpeṇa) [by-pure-consciousness-self](cidātmanā) [without](vinā) [not-is](nāsti) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p63-v1557
-[thus](evam) [world-consciousness-one-essence-form](jagat+cit+eka+ātma+rūpam) [to-you](te) [properly](samyak) + [declared](īritam)
+[thus](evaṃ) [world-consciousness-one-self-form](jagaccidekātmarūpaṃ) [they](te) [properly-declared](samyagīritam)
 
 ## mukta-m0-p63-v1558
-[kh:](kh:) [its-state](tadīyatā)] [by-text](granthena) + [having-established](upapādya) + [concludes](upasaṃharati) - [thus](evam) + [iti](iti)
+[his](tadīyatā) [by-text-established-concluded](granthenopapādyopasaṃharati) [thus](evamiti)
 
 ## mukta-m0-p63-v1559
-[asked](papraccha) [Bhārgava](bhārgavaḥ) [again](bhūyaḥ) [doubt-mud](saṃdeha+kalila) + [interior](antaraḥ)
+[asked](papraccha) [bhargava](bhārgavo) [again](bhūyaḥ) [doubt-thicket-within](saṃdehakalilāntaraḥ)
 
 ## mukta-m0-p63-v1560
-[as](yathā) [you-say](bravīṣi) [O-venerable-one](bhagavan) + [that](tat) + [thus](tathā) + [indeed](eva) [not](na) [and](ca) + [otherwise](anyathā)
+[as](yathā) [you-speak](bravīṣi) [lord](bhagavaṃs) [so](tattathaiva) [not](na) [otherwise](cānyathā)
 
 ## mukta-m0-p63-v1561
-[worldly](jāgatam) [own-form](svarūpam) + [thus](iti) [ellipsis](śeṣaḥ) | [thus](tathā) + [indeed](eva) [consciousness-alone-form](citi+mātra+rūpam) + [indeed](eva)
+[world](jāgatam) [own-form](svarūpamiti) [remainder](śeṣaḥ) [so](tathaiva) [consciousness-only-form](citimātrarūpameva)
 
 ## mukta-m0-p63-v1562
-[whence](kutaḥ) [or](vā) + [by-others](anyaiḥ) + [by-intelligent-ones](buddhimadbhiḥ) [as-real](satyatvena) [ascertained](viniścitam)
+[whence](kuto) [or](vā) [by-others](anyairbuddhimadbhiḥ) [as-true](satyatvena) [ascertained](viniścitam)
 
 ## mukta-m0-p63-v1563
-[by-intelligent-ones](buddhimadbhiḥ) + [by-reasoning-skilled](tarka+nipuṇaiḥ)
+[by-intelligent-ones](buddhimadbhiḥ) [skilled-in-reasoning](tarkanipuṇaiḥ)
 
 ## mukta-m0-p63-v1564
-[tell](brūhi) + [this](etat) [by-compassion](kṛpayā) [O-lord](nātha) [as](yathā) [may-be-destroyed](naśyet) + [this](ayam) [delusion](bhramaḥ)
+[speak](brūhyetat) [this](etat) [kindly](kṛpayā) [lord](nātha) [so-that](yathā) [may-perish](naśyedayaṃ) [this](ayaṃ) [delusion](bhramaḥ)
 
 ## mukta-m0-p63-v1565
-[to-me](me) [world](jagat) [as-real](satyatvena) [appears](bhāti) [this](etat) [tell](brūhi)
+[to-me](me) [world](jagat) [as-true](satyatvena) [appears](bhāti) [this](etat) [speak](brūhi)
 
 ## mukta-m0-p63-v1566
-[world-reality-delusion-root](jagat+satya+bhrānti+mūlam) [to-expound](pravaktum) + [began](upacakrame)
+[world-truth-delusion-root](jagatsatyabhrāntimūlaṃ) [to-declare](pravaktumupacakrame)
 
 ## mukta-m0-p63-v1567
-[real](satyam) + [thus](iti) [which](yā) [delusion](bhrāntiḥ) [its-root](tan+mūlam) [its-cause](tat+nimittam)
+[truth](satyamiti) [which](yā) [delusion](bhrāntiḥ) [its-root](tanmūlaṃ) [its-cause](tannimittam)
 
 ## mukta-m0-p63-v1568
-[by-heart](hṛdā)] [that](tat)
+[heart](hṛdā) [that](tat)
 
 ## mukta-m0-p63-v1569
-[where](kva) [flesh-blood-bones](māṃsa+rudhira+asthīni) [where](kva) [consciousness-self](cit+ātmā) + [utterly-pure](ati+nirmalaḥ)
+[where](kva) [flesh-blood-bones](māṃsarudhirāsthīni) [where](kva) [consciousness-self-pure](cidātmātinirmalaḥ)
 
 ## mukta-m0-p63-v1570
-[intellect](buddhim) | [body](śarīram) [whence](kutaḥ) [not](na) + [self](ātma) + [thus](iti) [if](cet) + [says](āha) - [where](kva) + [iti](iti) | [utterly-pure](ati+nirmalaḥ) [consciousness-one-essence](cit+eka+rasaḥ)
+[intellect](buddhim) [body](śarīraṃ) [whence](kuto) [not-self](nātmeti) [if](cedāha) [where](kvati) [pure](atinirmalaḥ) [consciousness-one-essence](cidekarasaḥ)
 
 ## mukta-m0-p63-v1571
-[when-known](jñāte) + [even](api) + [self](ātmani) [consciousness-form](cit+rūpe) [again](bhūyaḥ) [delusion](bhrāntiḥ) [in-body](śarīrake)
+[known](jñāte) [even](apyātmani) [consciousness-form](cidrūpe) [again](bhūyo) [delusion](bhrāntiḥ) [in-body](śarīrake)
 
 ## mukta-m0-p63-v1572
-[again](punaḥ) + [delusion](bhrāntiḥ)
+[again-delusion](punarbhrāntiḥ)
 
 ## mukta-m0-p63-v1573
-[opposite](viparītam) [contemplating](bhāvayan) [indeed](vai) [firm-delusion](dṛḍha+bhrāntim) [should-remove](nivartayet)
+[contrary](viparītaṃ) [meditating](bhāvayan) [indeed](vai) [firm-delusion](dṛḍhabhrāntiṃ) [remove](nivartayet)
 
 ## mukta-m0-p63-v1574
-[of-yogins](yoginām) [by-concentration-meditations](dhāraṇā+dhyānaiḥ) [see](paśya) [that-form-connection](tat+rūpa+saṅgatim)
+[of-yogis](yogināṃ) [concentration-meditation](dhāraṇādhyānaiḥ) [see](paśya) [that-form-connection](tadrūpasaṅgatim)
 
 ## mukta-m0-p63-v1575
-[that-form-connection](tat+rūpa+saṅgatim) [of-world](jagataḥ) [contemplation-accordance-attainment](bhāvanā+anurūpatā+prāptim)
+[that-form-connection](tadrūpasaṅgatiṃ) [of-world](jagato) [meditation-conformity-attainment](bhāvanānurūpatāprāptim)
