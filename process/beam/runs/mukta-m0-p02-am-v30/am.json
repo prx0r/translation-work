@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 30,
- "question": "What designation and seat characterize the great mantra called Viśikā?",
+ "question": "Which ingredients characterize the endowed foot-water mixture?",
  "premises": [
-  "The mantra is named Viśikā.",
-  "It is described as a great mantra.",
-  "It is endowed with the seat of Karālāsyā."
+  "Triphala, vetiver, and camphor are included",
+  "Cardamom, nutmeg, and clove are included",
+  "The mixture is endowed with these"
  ],
- "inference": "The great mantra named Viśikā is endowed with the seat of Karālāsyā.",
- "uncertainties": [],
- "plain_english": "The great mantra named Viśikā is endowed with the seat of Karālāsyā."
+ "inference": "The mixture is endowed with triphala, vetiver, camphor, cardamom, nutmeg, and clove.",
+ "uncertainties": [
+  "vara interpreted as triphala per legacy hint"
+ ],
+ "plain_english": "It is endowed with triphala, vetiver, camphor, cardamom, nutmeg, and clove."
 }

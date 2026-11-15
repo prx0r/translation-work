@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[own-body](sva) [maintenance](deha) [purpose](nirvāha) [activity](artha) [business](vyāpāra) [devoid-of](śūnyaḥ)
+[own-body](sva) [maintenance](deha) [purpose](nirvāha) [activity](artha) [devoid](vyāpāra) [empty](śūnyaḥ)
 
 ## mukta-m0-p73-v1802
-[in-honor](māna) [and-dishonor](apamānayoḥ) [also](api) [equal](samaḥ) [joy](harṣa) [sorrow](viṣāda) [devoid-of](śūnyaḥ) [thus](iti) [meaning](arthaḥ)
+[in-honor](māna) [and-dishonor](apamānayoḥ) [also](api) [equal](samaḥ) [joy](harṣa) [sorrow](viṣāda) [devoid](śūnyaḥ) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p73-v1803
-[beyond-three-guṇas](nistraiguṇyaḥ) [free-from-fancies](nirvikalpaḥ) [free-from-greed](nirlobhaḥ) [should-be](syāt) [non-hoarding](asañcayī)
+[beyond-three-guṇas](nistraiguṇyaḥ) [free-from-fancy](nirvikalpaḥ) [free-from-greed](nirlobhaḥ) [should-be](syāt) [non-accumulating](asañcayī)
 
 ## mukta-m0-p73-v1804
-[in-self](ātma) [resting](āśritaḥ) [likewise](tathā) [body](dehaḥ) [knowing](jānan) [thus](evaṃ) [happy](sukhī) [should-be](bhavet)
+[self](ātma) [supported](āśritaḥ) [likewise](tathā) [body](dehaḥ) [knowing](jānan) [thus](evaṃ) [happy](sukhī) [should-be](bhavet)
 
 ## mukta-m0-p73-v1805
 [self](ātmā) [witness](sākṣī) [unstained](vinirliptaḥ) [knowing](jñātvā) [thus](evaṃ) [liberation](mokṣa) [sharer](bhāk) [should-be](bhavet)
@@ -23,7 +23,7 @@
 [all](sarvaṃ) [brahman](brahma) [thus](iti) [should-know](jānīyāt) [wandering-monk](parivrāṭ) [in-all](sarva) [actions](karmasu)
 
 ## mukta-m0-p73-v1808
-[place](deśaṃ) [time](kālaṃ) [likewise](tathā) [recipient](pātram) [should-eat](aśnīyāt) [without-deliberating](avicārayan)
+[place](deśaṃ) [time](kālaṃ) [likewise](tathā) [recipient](pātram) [should-eat](aśnīyāt) [without-deliberation](avicārayan)
 
 ## mukta-m0-p73-v1809
 [those](tat) [those](tat) [things](vastu) [accumulation](sañcaya) [absence](abhāva) [possessing](vān)
@@ -32,19 +32,19 @@
 [thus](eva) [body](dehaḥ) [is-sustained](pratiṣṭhati) [thus](evaṃ) [knowing](jānan) [renunciant](saṃnyāsī) [happy](sukhī) [should-be](bhavet)
 
 ## mukta-m0-p73-v1811
-[having-known](jñātvā) [indeed](eva) [renunciant](saṃnyāsī) [liberation](mokṣa) [sharer](bhāk) [should-be](bhavet)
+[knowing](jñātvā) [thus](eva) [renunciant](saṃnyāsī) [liberation](mokṣa) [sharer](bhāk) [should-be](bhavet)
 
 ## mukta-m0-p73-v1812
-[avadhūta](avadhūtaḥ) [should-spend](nayet) [time](kālaṃ) [own-will](sva) [conduct](icchā) [devoted-to](ācāra) [intent-on](parāyaṇaḥ)
+[avadhūta](avadhūtaḥ) [should-spend](nayet) [time](kālaṃ) [own-will](sva) [conduct](icchā) [devoted](ācāra) [intent](parāyaṇaḥ)
 
 ## mukta-m0-p73-v1813
-[having-worshipped](sampūjya) [with-fragrance](gandha) [flowers](puṣpa) [and-so-forth](ādyaiḥ) [should-bury](nikhanet) [or](vā) [in-water](apsu) [should-immerse](majjayet)
+[having-worshipped](sampūjya) [with-fragrance](gandha) [flowers](puṣpa) [etc.](ādyaiḥ) [should-bury](nikhanet) [or](vā) [in-water](apsu) [should-immerse](majjayet)
 
 ## mukta-m0-p73-v1814
-[from-own-nature](svabhāvāt) [arises](jāyate) [O-goddess](devi) [engagement](pravṛttiḥ) [in-action](karma) [crowded](saṅkule)
+[from-own-nature](svabhāvāt) [arises](jāyate) [O-goddess](devi) [engagement](pravṛttiḥ) [in-action](karma) [multitude](saṅkule)
 
 ## mukta-m0-p73-v1815
-[highest-good](śreyaḥ) [that](tat) [indeed](eva) [let-them-know](jānantu) [where](yatra) [indeed](eva) [firm](dṛḍha) [convictions](niścayāḥ)
+[highest-good](śreyaḥ) [that](tat) [indeed](eva) [let-them-know](jānantu) [where](yatra) [indeed](eva) [firm](dṛḍha) [conviction](niścayāḥ)
 
 ## mukta-m0-p73-v1816
 [name](nāma) [form](rūpaṃ) [manifold](bahuvidhaṃ) [for-that-purpose](tat) [for-sake](arthaṃ) [imagined](kalpitaṃ) [by-me](mayā)
@@ -56,22 +56,22 @@
 [directly](sākṣāt) [Nārāyaṇa](nārāyaṇaṃ) [considering](matvā) [householder](gṛhasthaḥ) [him](taṃ) [should-worship](prapūjayet)
 
 ## mukta-m0-p73-v1819
-[by-truth](tattva) [investigations](vicāraṇaiḥ) [by-brahman](brahma) [truth](tattva) [discernments](vivecanaiḥ)
+[truth](tattva) [investigations](vicāraṇaiḥ) [brahman](brahma) [truth](tattva) [discernments](vivecanaiḥ)
 
 ## mukta-m0-p73-v1820
-[in-waters](jaleṣu)
+[in-waters](jaleṣu) [in-water](jale) [in-streams](jaleṣu) [in-liquids](jaleṣu)
 
 ## mukta-m0-p73-v1821
-[in-action](karma) [multitude](samūhe)
+[in-action](karma) [multitude](samūhe) [in-deeds](karma) [collection](samūhe)
 
 ## mukta-m0-p73-v1822
-[devoted](anurāgavantaḥ) [that](tat) [indeed](eva) [worship](arcā) [and-so-forth](ādi) [action](karma) [indeed](eva)
+[devoted](anurāgavantaḥ) [that](tat) [indeed](eva) [worship](arcā) [etc.](ādi) [action](karma) [indeed](eva)
 
 ## mukta-m0-p73-v1823
-[pilgrimage](tīrtha) [vow](vrata) [austerity](tapaḥ) [gift](dāna) [all](sarva) [sacrifice](yajña) [fruit](phalaṃ) [should-obtain](labhet)
+[pilgrimage](tīrtha) [vow](vrata) [austerity](tapaḥ) [charity](dāna) [all](sarva) [sacrifice](yajña) [fruit](phalaṃ) [should-obtain](labhet)
 
 ## mukta-m0-p73-v1824
-[consecrations](saṃskārān) [of-all](sarva) [classes](varṇānāṃ) [hear](śṛṇuṣva) [of-speaking](gadataḥ) [of-me](mama)
+[sacraments](saṃskārān) [of-all](sarva) [classes](varṇānāṃ) [listen](śṛṇuṣva) [of-speaking](gadato) [of-me](mama)
 
 ## mukta-m0-p73-v1825
-[not](na) [consecrated](asaṃskṛtaḥ) [qualified](adhikārī) [should-be](syāt) [in-divine](daive) [in-ancestral](paitre) [and](ca) [rite](karmaṇi)
+[not](na) [consecrated](saṃskṛtaḥ) [qualified](adhikārī) [should-be](syāt) [in-divine](daive) [in-ancestral](paitre) [and](ca) [rite](karmaṇi)

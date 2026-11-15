@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "narāḥ",
+     "gloss": "humans",
+     "grounds": "nominative plural subject or referent denoting human beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mṛgāḥ",
+     "gloss": "wild-animals",
+     "grounds": "nominative plural referent denoting wild animals",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aśvāḥ",
+     "gloss": "horses",
+     "grounds": "nominative plural referent denoting horses",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paśavaḥ",
+     "gloss": "cattle",
+     "grounds": "nominative plural referent denoting domestic animals or cattle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pakṣiṇaḥ",
+     "gloss": "birds",
+     "grounds": "nominative plural referent denoting birds",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle linking alternatives in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarīsṛpāḥ",
+     "gloss": "reptiles",
+     "grounds": "nominative plural referent denoting creeping creatures or reptiles",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which categories of living beings are included in the scope of the directional oblation?",
+   "premises": [
+    "The verse enumerates humans, wild animals, horses, cattle, and birds.",
+    "The particle vā introduces reptiles as an alternative or additional category.",
+    "The listed beings form a broad range of living creatures."
+   ],
+   "inference": "The directional oblation encompasses a wide range of living beings, from humans to reptiles.",
+   "uncertainties": [
+    "The exact ritual role of these beings in relation to the diśā-homam is not specified in this verse alone."
+   ],
+   "plain_english": "Humans, wild animals, horses, cattle, birds, or reptiles."
+  }
+ ]
+}

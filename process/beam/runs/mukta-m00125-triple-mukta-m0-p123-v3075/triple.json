@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p123",
+ "items": [
+  {
+   "verse": 3075,
+   "rows": [
+    {
+     "surface": "cala+liṅga+pratiṣṭhāyāṃ",
+     "gloss": "movable-liṅga-installation-in",
+     "grounds": "compound locative; installation of a movable liṅga",
+     "morph": "compound f.loc.sg (cala+liṅga+pratiṣṭhā)"
+    },
+    {
+     "surface": "dīkṣāyāṃ",
+     "gloss": "initiation-in",
+     "grounds": "locative of dīkṣā (initiation)",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarva+deśa+kāḥ",
+     "gloss": "all-place-time-applicable",
+     "grounds": "compound; valid for all places and times",
+     "morph": "compound m.nom.pl (sarva+deśa+kāla)"
+    }
+   ],
+   "question": "What scope of place and time governs movable liṅga installation and initiation?",
+   "premises": [
+    "The context includes installation of a movable liṅga.",
+    "The context includes initiation.",
+    "These contexts are qualified as applicable in all places and times."
+   ],
+   "inference": "Movable liṅga installation and initiation are not restricted by place or time.",
+   "uncertainties": [
+    "The predicate governing these contexts is implicit from the preceding verses."
+   ],
+   "plain_english": "In the installation of a movable liṅga and in initiation, the provisions apply in all places and at all times."
+  }
+ ]
+}

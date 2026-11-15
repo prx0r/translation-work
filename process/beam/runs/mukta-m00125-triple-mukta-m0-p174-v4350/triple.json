@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p174",
+ "items": [
+  {
+   "verse": 4350,
+   "rows": [
+    {
+     "surface": "arcā",
+     "gloss": "worship",
+     "grounds": "first member of compound with aṃśe, indicating the worship portion",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṃśe",
+     "gloss": "in-part",
+     "grounds": "locative indicating the section or portion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "veda",
+     "gloss": "four",
+     "grounds": "numerical first member of compound with bhāge, referring to four divisions",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-division",
+     "grounds": "locative indicating division into parts",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast between two divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāhe",
+     "gloss": "in-circumference",
+     "grounds": "locative indicating the perimeter or circumference",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nakṣatra",
+     "gloss": "twenty-seven",
+     "grounds": "numerical first member of compound with bhājite, referring to twenty-seven divisions",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "divided",
+     "grounds": "past participle in locative agreeing with nāhe, indicating partition",
+     "morph": "m.loc.sg.ppp-bhāj"
+    }
+   ],
+   "question": "How are the worship portion and circumference to be divided in the arrangement of the thousand liṅgas?",
+   "premises": [
+    "The worship portion is divided into four parts.",
+    "The circumference is divided into twenty-seven parts.",
+    "These two divisions apply as contrasting measures in the arrangement."
+   ],
+   "inference": "The arrangement of the thousand liṅgas requires a fourfold division in the worship portion and a twenty-sevenfold division in the circumference.",
+   "uncertainties": [
+    "The precise spatial referent of arcā-aṃśe in this ritual layout is not fully explicit from the verse alone."
+   ],
+   "plain_english": "In the worship portion, divide it into four parts, but in the circumference, divide it into twenty-seven parts."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 31,
- "question": "How should the mantra Piśitāśana be recognized in relation to sound and point?",
+ "question": "How should the alternative ingredient mixture be proportioned?",
  "premises": [
-  "Piśitāśana is the entity to be known.",
-  "It is joined with nāda and bindu.",
-  "This conjunction defines its proper recognition."
+  "Cardamom, clove, and camphor are included",
+  "Mura and nutmeg are included",
+  "The combination is specified as equal"
  ],
- "inference": "Piśitāśana should be known as joined with nāda and bindu.",
- "uncertainties": [],
- "plain_english": "Piśitāśana should be known as joined with nāda and bindu."
+ "inference": "The mixture joined with cardamom, clove, camphor, mura, and nutmeg should be in equal proportions.",
+ "uncertainties": [
+  "mura identity uncertain"
+ ],
+ "plain_english": "It is joined with cardamom, clove, camphor, mura, and nutmeg in equal parts."
 }

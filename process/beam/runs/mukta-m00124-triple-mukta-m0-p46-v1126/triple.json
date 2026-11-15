@@ -1,0 +1,1171 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "kalyāṇaṃ",
+     "gloss": "auspicious-rite",
+     "grounds": "object of avoidance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √vṛj"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "qualified agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cūḍa+udvāha+ādikaṃ",
+     "gloss": "tonsure-marriage-etc",
+     "grounds": "compound specifying rites",
+     "morph": "compound: cūḍa+udvāha+ādika+n.acc.sg"
+    },
+    {
+     "surface": "svakam",
+     "gloss": "own",
+     "grounds": "qualifies the rites",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which personal auspicious rites must a wise practitioner avoid?",
+   "premises": [
+    "A wise person is the prescribed agent.",
+    "Auspicious rites such as tonsure and marriage are specified.",
+    "These rites are described as one's own."
+   ],
+   "inference": "The wise practitioner should avoid personal auspicious rites like tonsure and marriage.",
+   "uncertainties": [
+    "The ritual context requiring avoidance is not stated in this verse."
+   ],
+   "plain_english": "A wise person should avoid his own auspicious rites such as the tonsure ceremony, marriage, and the like."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "brīhiṇām",
+     "gloss": "of-rice-grains",
+     "grounds": "source of the grain",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "avaśiṣṭānām",
+     "gloss": "of-remaining",
+     "grounds": "qualifies rice grains",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "taṇḍulam",
+     "gloss": "rice-grain",
+     "grounds": "subject of evaluation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhamaṃ",
+     "gloss": "inferior",
+     "grounds": "quality assigned",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive evaluation",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What quality is assigned to rice grains left over from other rice?",
+   "premises": [
+    "Rice grains from remaining rice are considered.",
+    "The grain is evaluated for quality.",
+    "The evaluation assigns an inferior status."
+   ],
+   "inference": "Rice grains obtained from leftover rice are inferior.",
+   "uncertainties": [],
+   "plain_english": "But the rice grain from leftover rice should be considered inferior."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "itare",
+     "gloss": "other",
+     "grounds": "distinguishes remaining kinds",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "brīhayaḥ",
+     "gloss": "rice-grains",
+     "grounds": "subject declared",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "m.nom.pl.past-pass-part √vac"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "result",
+     "grounds": "outcome associated with them",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to other rice grains",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indicates distinct treatment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "repeated for emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the results of the other kinds of rice grains to be understood?",
+   "premises": [
+    "Other rice grains are declared.",
+    "Each kind has an associated result.",
+    "The results are stated separately."
+   ],
+   "inference": "The other rice grains are declared to have distinct results individually.",
+   "uncertainties": [],
+   "plain_english": "Other kinds of rice grains are declared, and their results are to be understood separately, each on its own."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "sita+śāliḥ",
+     "gloss": "white-rice",
+     "grounds": "first superior variety",
+     "morph": "compound: sita+śāli+m.nom.sg"
+    },
+    {
+     "surface": "ati+raktā",
+     "gloss": "very-red",
+     "grounds": "second superior variety",
+     "morph": "compound: ati+rakta+f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saugandhiḥ",
+     "gloss": "fragrant-rice",
+     "grounds": "third superior variety",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamā",
+     "gloss": "best",
+     "grounds": "quality classification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "authoritative judgment",
+     "morph": "f.nom.sg.past-pass-part √man"
+    }
+   ],
+   "question": "Which varieties of rice are regarded as the best for use?",
+   "premises": [
+    "White rice is listed.",
+    "Very red rice and fragrant rice are listed.",
+    "These varieties are judged as best."
+   ],
+   "inference": "White rice, very red rice, and fragrant rice are considered the best varieties.",
+   "uncertainties": [],
+   "plain_english": "White rice, very red rice, and fragrant rice are considered the best."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "kustumbaraḥ",
+     "gloss": "kustumbara-rice",
+     "grounds": "first middling variety",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīvāraḥ",
+     "gloss": "nīvāra-rice",
+     "grounds": "second middling variety",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madhyamāḥ",
+     "gloss": "middling",
+     "grounds": "quality classification",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "m.nom.pl.past-pass-part √kīrt"
+    }
+   ],
+   "question": "Which varieties of rice are classified as middling in quality?",
+   "premises": [
+    "Kustumbara rice is named.",
+    "Nīvāra rice is named.",
+    "Both are declared middling."
+   ],
+   "inference": "Kustumbara and nīvāra rice are declared to be middling varieties.",
+   "uncertainties": [],
+   "plain_english": "Kustumbara rice and nīvāra rice are declared to be middling."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues classification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkarī+vrīhiḥ",
+     "gloss": "sūkarī-rice",
+     "grounds": "first inferior variety",
+     "morph": "compound: sūkarī+vrīhi+m.nom.sg"
+    },
+    {
+     "surface": "hrasva+vaktrī",
+     "gloss": "short-mouthed-rice",
+     "grounds": "second inferior variety",
+     "morph": "compound: hrasva+vaktrī+f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kanyasā",
+     "gloss": "inferior",
+     "grounds": "quality classification",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which varieties of rice are classified as inferior in quality?",
+   "premises": [
+    "Sūkarī rice is named.",
+    "Short-mouthed rice is named.",
+    "Both are classified as inferior."
+   ],
+   "inference": "Sūkarī rice and short-mouthed rice are inferior varieties.",
+   "uncertainties": [],
+   "plain_english": "Likewise, sūkarī rice and short-mouthed rice are indeed inferior."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "yāvantaḥ",
+     "gloss": "as-many",
+     "grounds": "indefinite quantity",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "taṇḍulāḥ",
+     "gloss": "rice-grains",
+     "grounds": "items counted",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedya+parikalpane",
+     "gloss": "food-offering-preparation",
+     "grounds": "ritual context",
+     "morph": "compound: naivedya+parikalpana+n.loc.sg"
+    }
+   ],
+   "question": "In what ritual context is the quantity of rice grains being considered?",
+   "premises": [
+    "A quantity of rice grains is mentioned.",
+    "The context is specified as preparation.",
+    "The preparation concerns a food offering."
+   ],
+   "inference": "The quantity of rice grains is considered in the context of preparing a food offering.",
+   "uncertainties": [
+    "The sentence is incomplete and continues in the next verse."
+   ],
+   "plain_english": "As many rice grains as there are in the preparation of the food offering..."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "viśopya",
+     "gloss": "having-spread",
+     "grounds": "preparatory action",
+     "morph": "absolutive √śuṣ/vi-śo"
+    },
+    {
+     "surface": "sūrya+kiraṇaiḥ",
+     "gloss": "by-sun-rays",
+     "grounds": "means of drying",
+     "morph": "compound: sūrya+kiraṇa+m.inst.pl"
+    },
+    {
+     "surface": "vrīhi+ādīn",
+     "gloss": "rice-grains-etc",
+     "grounds": "objects spread out",
+     "morph": "compound: vrīhi+ādi+m.acc.pl"
+    },
+    {
+     "surface": "śuddha+bhūtale",
+     "gloss": "on-pure-ground",
+     "grounds": "place of spreading",
+     "morph": "compound: śuddha+bhūtala+n.loc.sg"
+    }
+   ],
+   "question": "How should rice grains be prepared before further ritual processing?",
+   "premises": [
+    "Rice grains and similar items are taken.",
+    "They are spread on pure ground.",
+    "They are dried by the sun's rays."
+   ],
+   "inference": "Rice grains should be spread on pure ground and dried in the sun's rays.",
+   "uncertainties": [
+    "The action continues from the previous verse's context."
+   ],
+   "plain_english": "Having spread the rice grains and the like on pure ground to dry in the sun's rays..."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "musalaṃ",
+     "gloss": "pestle",
+     "grounds": "instrument of pounding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart-mantra",
+     "grounds": "mantric accompaniment",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "should-strike",
+     "grounds": "injunctive action",
+     "morph": "3.sg.act-opt √han"
+    },
+    {
+     "surface": "saṃgṛhya",
+     "gloss": "having-taken",
+     "grounds": "prior action",
+     "morph": "absolutive sam-√grah"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the practitioner pound the rice grains during preparation?",
+   "premises": [
+    "The practitioner takes the pestle.",
+    "The heart mantra is used.",
+    "The pestle is used to strike."
+   ],
+   "inference": "The practitioner should take the pestle and strike with it while using the heart mantra.",
+   "uncertainties": [
+    "The specific heart mantra is not identified in this verse."
+   ],
+   "plain_english": "The practitioner, having taken the pestle, should strike with it while using the heart mantra."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "cāturvarṇa+udbhavaḥ",
+     "gloss": "four-classes-born",
+     "grounds": "eligible persons by birth",
+     "morph": "compound: cāturvarṇa+udbhava+m.nom.pl"
+    },
+    {
+     "surface": "strībhiḥ",
+     "gloss": "by-women",
+     "grounds": "possible agents",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "puruṣaiḥ",
+     "gloss": "by-men",
+     "grounds": "possible agents",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "also",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghātayet",
+     "gloss": "one-should-pound",
+     "grounds": "causative injunction",
+     "morph": "3.sg.act-opt-caus √han"
+    }
+   ],
+   "question": "Who may be made to pound the rice grains for the offering?",
+   "premises": [
+    "Persons born of the four classes are mentioned.",
+    "Women or men may perform the action.",
+    "The pounding may be caused to be done."
+   ],
+   "inference": "One may have men or women born of the four classes pound the rice.",
+   "uncertainties": [],
+   "plain_english": "One should have it pounded by women or by men born of the four classes."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "dviśataiḥ",
+     "gloss": "by-two-hundred",
+     "grounds": "numerical quantity",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pañcaviṃśatyā",
+     "gloss": "by-twenty-five",
+     "grounds": "additional quantity",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vrībhibhiḥ",
+     "gloss": "by-rice-grains",
+     "grounds": "items filling measure",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūritaṃ",
+     "gloss": "filled",
+     "grounds": "state of the measure",
+     "morph": "n.nom.sg.past-pass-part √pṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What quantity of rice grains defines the first unit of measure?",
+   "premises": [
+    "Two hundred and twenty-five rice grains are specified.",
+    "These grains fill a measure.",
+    "This filled amount is being defined."
+   ],
+   "inference": "The measure filled by two hundred and twenty-five rice grains is defined.",
+   "uncertainties": [
+    "The name of this measure is given in the next verse."
+   ],
+   "plain_english": "That which is filled by two hundred and twenty-five rice grains..."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "śuktiḥ",
+     "gloss": "śukti",
+     "grounds": "first measure name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "talaṃ",
+     "gloss": "tala",
+     "grounds": "second measure name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakūrcañ",
+     "gloss": "prakūrca",
+     "grounds": "third measure name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasṛtiḥ",
+     "gloss": "prasṛti",
+     "grounds": "fourth measure name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuḍupaṃ",
+     "gloss": "kuḍupa",
+     "grounds": "fifth measure name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the initial named units in the sequence of ritual measures?",
+   "premises": [
+    "Several measure names are listed.",
+    "The list begins with śukti and continues onward.",
+    "The measures are presented in sequence."
+   ],
+   "inference": "The sequence of measures includes śukti, tala, prakūrca, prasṛti, and kuḍupa.",
+   "uncertainties": [
+    "The relative sizes of these units are completed in the next verse."
+   ],
+   "plain_english": "Śukti, tala, prakūrca, prasṛti, and likewise kuḍupa..."
+  },
+  {
+   "verse": 1138,
+   "rows": [
+    {
+     "surface": "droṇaṃ",
+     "gloss": "droṇa",
+     "grounds": "sixth measure name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khārī",
+     "gloss": "khārī",
+     "grounds": "seventh measure name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg.past-pass-part √vac"
+    },
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "general category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "stated",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg.past-pass-part pra-√kīrt"
+    }
+   ],
+   "question": "How is the ordered sequence of ritual measures concluded and summarized?",
+   "premises": [
+    "Droṇa and khārī are added to the sequence.",
+    "The measures are given in order.",
+    "The system is declared and stated."
+   ],
+   "inference": "The measure system is declared in order up to droṇa and khārī.",
+   "uncertainties": [],
+   "plain_english": "Droṇa and khārī are declared in order; thus the system of measures is stated."
+  },
+  {
+   "verse": 1139,
+   "rows": [
+    {
+     "surface": "dharaṇā+aṣṭau",
+     "gloss": "eight-dharaṇās",
+     "grounds": "quantity defining a pala",
+     "morph": "compound: dharaṇā+aṣṭan+f.nom.pl"
+    },
+    {
+     "surface": "palañ",
+     "gloss": "pala",
+     "grounds": "resulting measure unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "palaṃ",
+     "gloss": "pala",
+     "grounds": "unit being equated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "muṣṭiḥ",
+     "gloss": "handful",
+     "grounds": "equivalent measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "contextual marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "definitional statement",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "How are the weight measures pala and muṣṭi defined in this context?",
+   "premises": [
+    "Eight dharaṇās make one pala.",
+    "A pala is equated with a handful.",
+    "This equivalence is stated for this context."
+   ],
+   "inference": "Eight dharaṇās equal one pala, and here a pala is called a handful.",
+   "uncertainties": [],
+   "plain_english": "Eight dharaṇās make one pala, and here a pala is called a handful."
+  },
+  {
+   "verse": 1140,
+   "rows": [
+    {
+     "surface": "bhāraṃ",
+     "gloss": "bhāra",
+     "grounds": "larger measure unit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khāri+trayaṃ",
+     "gloss": "three-khārīs",
+     "grounds": "equivalent quantity",
+     "morph": "compound: khārī+traya+n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg.past-pass-part √vac"
+    },
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "general category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "stated",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg.past-pass-part pra-√kīrt"
+    }
+   ],
+   "question": "What quantity constitutes a bhāra in the stated system of measures?",
+   "premises": [
+    "A bhāra is named as a measure.",
+    "It is equated with three khārīs.",
+    "This equivalence is declared."
+   ],
+   "inference": "A bhāra is declared to be equal to three khārīs.",
+   "uncertainties": [],
+   "plain_english": "A bhāra is declared to be three khārīs; thus the measure is stated."
+  },
+  {
+   "verse": 1141,
+   "rows": [
+    {
+     "surface": "aṣṭāṅgeṣu",
+     "gloss": "in-eight-limbs",
+     "grounds": "ritual context reference",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "catur+vahni+kara+indu",
+     "gloss": "four-three-two-one",
+     "grounds": "numerical expression by symbolic terms",
+     "morph": "compound: catur+vahni+kara+indu"
+    },
+    {
+     "surface": "droṇa+nirmitam",
+     "gloss": "by-droṇas-made",
+     "grounds": "quantity composed in droṇas",
+     "morph": "compound: droṇa+nirmita+n.nom.sg"
+    }
+   ],
+   "question": "What droṇa-based quantity is specified for the eight-limbed ritual context?",
+   "premises": [
+    "The context of eight limbs is given.",
+    "A symbolic numerical compound is used.",
+    "The quantity is measured in droṇas."
+   ],
+   "inference": "A specific quantity made of droṇas, indicated by the symbolic number, is prescribed in the eight-limbed context.",
+   "uncertainties": [
+    "The exact numerical value of catur+vahni+kara+indu is ambiguous without traditional decoding."
+   ],
+   "plain_english": "In the eight-limbed rites, the amount made of droṇas is specified by the number expressed as four, three, two, and one."
+  },
+  {
+   "verse": 1142,
+   "rows": [
+    {
+     "surface": "taṇḍulaiḥ",
+     "gloss": "by-rice-grains",
+     "grounds": "material of offering",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "āḍhakāt",
+     "gloss": "than-āḍhaka",
+     "grounds": "standard of comparison",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "hīnaiḥ",
+     "gloss": "less",
+     "grounds": "insufficient quantity",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "ritual object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "injunctive prohibition",
+     "morph": "3.sg.act-opt pra-√kḷp"
+    }
+   ],
+   "question": "What minimum quantity of rice grains is required for preparing a food offering?",
+   "premises": [
+    "A food offering is prepared from rice grains.",
+    "An āḍhaka is the reference measure.",
+    "Amounts less than an āḍhaka are prohibited."
+   ],
+   "inference": "One should not prepare a food offering with less than an āḍhaka of rice grains.",
+   "uncertainties": [],
+   "plain_english": "One should not prepare a food offering with rice grains less than an āḍhaka."
+  },
+  {
+   "verse": 1143,
+   "rows": [
+    {
+     "surface": "prasthaṃ",
+     "gloss": "prastha",
+     "grounds": "base measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuḍupa+sayuktaṃ",
+     "gloss": "with-kuḍupa-joined",
+     "grounds": "added quantity",
+     "morph": "compound: kuḍupa+sayukta+m.nom.sg"
+    },
+    {
+     "surface": "paiśāca+aśanam",
+     "gloss": "demonic-food",
+     "grounds": "negative classification",
+     "morph": "compound: paiśāca+aśana+n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "definitional statement",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What quantity of offering is designated as food fit for demons?",
+   "premises": [
+    "A prastha is specified.",
+    "It is joined with a kuḍupa.",
+    "This amount is called demonic food."
+   ],
+   "inference": "A prastha together with a kuḍupa is called demonic food.",
+   "uncertainties": [],
+   "plain_english": "A prastha together with a kuḍupa is called demonic food."
+  },
+  {
+   "verse": 1144,
+   "rows": [
+    {
+     "surface": "āḍhaka+dvayam",
+     "gloss": "two-āḍhakas",
+     "grounds": "starting quantity",
+     "morph": "compound: āḍhaka+dvaya+n.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-from",
+     "grounds": "marks lower limit",
+     "morph": "absolutive ā-√rabh"
+    },
+    {
+     "surface": "tat+vṛddhyā",
+     "gloss": "by-its-increase",
+     "grounds": "incremental progression",
+     "morph": "compound: tad+vṛddhi+f.inst.sg"
+    },
+    {
+     "surface": "nava+saṃkhyayā",
+     "gloss": "by-nine-number",
+     "grounds": "count of increments",
+     "morph": "compound: nava+saṃkhyā+f.inst.sg"
+    }
+   ],
+   "question": "From what base quantity and by what progression are desired offering amounts scaled?",
+   "premises": [
+    "The starting point is two āḍhakas.",
+    "The amount increases from that base.",
+    "The progression follows a count of nine."
+   ],
+   "inference": "Desired amounts begin from two āḍhakas and increase in a ninefold progression.",
+   "uncertainties": [
+    "The exact unit of each increment is not specified in this verse."
+   ],
+   "plain_english": "Beginning from two āḍhakas, increasing from that by a ninefold count..."
+  },
+  {
+   "verse": 1145,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-much-as",
+     "grounds": "correlative extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārthita+mānaṃ",
+     "gloss": "desired-measure",
+     "grounds": "intended quantity",
+     "morph": "compound: prārthita+māna+n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "that-much",
+     "grounds": "correlative result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmya+havir",
+     "gloss": "desired-oblation",
+     "grounds": "optional offering",
+     "morph": "compound: kāmya+havis+n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "How should the quantity of a desired oblation be determined?",
+   "premises": [
+    "A desired measure is specified.",
+    "The oblation is undertaken for a wish.",
+    "The amount corresponds to the desired measure."
+   ],
+   "inference": "The desired oblation should be prepared in the measure that is sought.",
+   "uncertainties": [],
+   "plain_english": "Whatever measure is desired, that much should be the desired oblation."
+  },
+  {
+   "verse": 1146,
+   "rows": [
+    {
+     "surface": "śreṣṭha+madhya+adhamāḥ",
+     "gloss": "best-middle-inferior",
+     "grounds": "threefold classification",
+     "morph": "compound: śreṣṭha+madhya+adhama+m.nom.pl"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "comparative continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "prescriptive method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "adya",
+     "gloss": "now",
+     "grounds": "present instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "scriptural injunction",
+     "morph": "3.sg.pass-pres vi-√dhā"
+    }
+   ],
+   "question": "How are the best, middle, and inferior grades of offering prescribed?",
+   "premises": [
+    "Three grades are named: best, middle, and inferior.",
+    "The prescription follows a rule.",
+    "The instruction is given now."
+   ],
+   "inference": "The best, middle, and inferior grades are likewise prescribed according to rule.",
+   "uncertainties": [
+    "The specific rule distinguishing the grades is not detailed in this verse."
+   ],
+   "plain_english": "Likewise, the best, middle, and inferior grades are now prescribed according to rule."
+  },
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "nava+mṛd+bhāṇḍakaṃ",
+     "gloss": "new-clay-vessel",
+     "grounds": "required container",
+     "morph": "compound: nava+mṛd+bhāṇḍaka+n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratisandhyaṃ",
+     "gloss": "at-each-juncture",
+     "grounds": "time of preparation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "injunctive action",
+     "morph": "3.sg.act-opt pra-√kḷp"
+    }
+   ],
+   "question": "What kind of vessel should be prepared at each ritual juncture?",
+   "premises": [
+    "A vessel is to be prepared.",
+    "The vessel should be of new clay.",
+    "Preparation occurs at each juncture."
+   ],
+   "inference": "One should prepare a new clay vessel at each ritual juncture.",
+   "uncertainties": [],
+   "plain_english": "One should prepare a new clay vessel at each ritual juncture."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "śukla+vastra+dharāḥ",
+     "gloss": "white-garment-wearing",
+     "grounds": "dress requirement",
+     "morph": "compound: śukla+vastra+dhara+m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śukla+yajñopavītinaḥ",
+     "gloss": "white-sacred-thread-wearing",
+     "grounds": "additional dress requirement",
+     "morph": "compound: śukla+yajñopavītin+m.nom.pl"
+    }
+   ],
+   "question": "What attire is required of those performing the ritual preparation?",
+   "premises": [
+    "White garments are specified.",
+    "White sacred threads are specified.",
+    "Both are worn by the participants."
+   ],
+   "inference": "The participants should wear white garments and white sacred threads.",
+   "uncertainties": [
+    "The subject is implied from the ritual context of previous verses."
+   ],
+   "plain_english": "They should wear white garments and white sacred threads."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "vastra+pūtaiḥ",
+     "gloss": "with-cloth-strained",
+     "grounds": "purification of water",
+     "morph": "compound: vastra+pūta+n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toyaiḥ",
+     "gloss": "with-waters",
+     "grounds": "substance used",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jala+droṇīṃ",
+     "gloss": "water-trough",
+     "grounds": "container to be filled",
+     "morph": "compound: jala+droṇī+f.acc.sg"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "injunctive action",
+     "morph": "3.sg.act-opt pra-√pṛ"
+    }
+   ],
+   "question": "How should the water trough be filled for the ritual preparation?",
+   "premises": [
+    "Water is to be used.",
+    "The water must be strained through cloth.",
+    "A water trough is to be filled."
+   ],
+   "inference": "One should fill the water trough with water strained through cloth.",
+   "uncertainties": [],
+   "plain_english": "One should fill the water trough with water that has been strained through cloth."
+  }
+ ]
+}

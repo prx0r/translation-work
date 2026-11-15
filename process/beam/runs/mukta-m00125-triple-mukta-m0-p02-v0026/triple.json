@@ -1,0 +1,1131 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "homa+samādhiḥ",
+     "gloss": "fire-offering+absorption",
+     "grounds": "compound of ritual acts",
+     "morph": "compound=homa+samādhi; m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-navel",
+     "grounds": "location of worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "lalāṭake",
+     "gloss": "on-forehead",
+     "grounds": "location of worship",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should worship, fire-offering, and absorption be performed?",
+   "premises": [
+    "Worship, fire-offering, and absorption are prescribed acts",
+    "The heart is a designated location",
+    "The navel and forehead are designated locations"
+   ],
+   "inference": "Worship, fire-offering, and absorption should be performed in the heart, navel, and forehead.",
+   "uncertainties": [],
+   "plain_english": "Worship, fire-offering, and absorption should be performed in the heart, in the navel, and on the forehead."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "hastāsphālana",
+     "gloss": "hand-clapping",
+     "grounds": "ritual gesture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "digbandhau",
+     "gloss": "direction-binding",
+     "grounds": "ritual protection of directions",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇṭhaiḥ",
+     "gloss": "with-fists",
+     "grounds": "instrument for gesture",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sammatā",
+     "gloss": "approved",
+     "grounds": "sanctioned in ritual",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What gesture is approved for binding the directions?",
+   "premises": [
+    "Hand-clapping is mentioned as a gesture",
+    "Direction-binding is the ritual context",
+    "Fists are the means employed"
+   ],
+   "inference": "Hand-clapping with fists is approved for binding the directions.",
+   "uncertainties": [],
+   "plain_english": "Hand-clapping with fists is approved for binding the directions."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "pādya+ādi+tritayaṃ",
+     "gloss": "foot-water+etc.+triad",
+     "grounds": "three offerings beginning with foot-water",
+     "morph": "compound=pādya+ādi+tritaya; n.acc.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "refers to previously mentioned locations",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-imagine",
+     "grounds": "mental visualization",
+     "morph": "3.sg.act.opt √kḷp"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "according to prescribed method",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "amunā",
+     "gloss": "by-this",
+     "grounds": "refers to the stated rule",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "How should the triad beginning with foot-water be visualized?",
+   "premises": [
+    "The triad beginning with foot-water is to be offered",
+    "The locations for visualization are already specified",
+    "A specific rule governs the procedure"
+   ],
+   "inference": "One should visualize the triad beginning with foot-water in those locations according to this rule.",
+   "uncertainties": [],
+   "plain_english": "One should visualize the triad of offerings beginning with foot-water in those places according to this rule."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "uttamaṃ",
+     "gloss": "excellent",
+     "grounds": "highest quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādya",
+     "gloss": "foot-water",
+     "grounds": "offering for washing feet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "muddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "stated as such",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middling",
+     "grounds": "middle quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gatakuṃkumam",
+     "gloss": "gone-saffron",
+     "grounds": "lacking saffron",
+     "morph": "compound=gata+kuṃkuma; n.nom.sg"
+    }
+   ],
+   "question": "What distinguishes excellent foot-water from middling foot-water?",
+   "premises": [
+    "Foot-water is classified by quality",
+    "An excellent type is declared",
+    "A middling type lacks saffron"
+   ],
+   "inference": "Excellent foot-water is declared as such, while middling foot-water is that from which saffron is absent.",
+   "uncertainties": [],
+   "plain_english": "The excellent foot-water is declared as such, and the middling one is that without saffron."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "vara+alośīra+karpūra",
+     "gloss": "triphala+vetiver+camphor",
+     "grounds": "compound of ingredients",
+     "morph": "compound=vara+alośīra+karpūra; n.nom.sg"
+    },
+    {
+     "surface": "truṭi+jāti+lavaṅga",
+     "gloss": "cardamom+nutmeg+clove",
+     "grounds": "compound of ingredients",
+     "morph": "compound=truṭi+jāti+lavaṅga; n.nom.sg"
+    },
+    {
+     "surface": "yuk",
+     "gloss": "endowed-with",
+     "grounds": "possessing these ingredients",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which ingredients characterize the endowed foot-water mixture?",
+   "premises": [
+    "Triphala, vetiver, and camphor are included",
+    "Cardamom, nutmeg, and clove are included",
+    "The mixture is endowed with these"
+   ],
+   "inference": "The mixture is endowed with triphala, vetiver, camphor, cardamom, nutmeg, and clove.",
+   "uncertainties": [
+    "vara interpreted as triphala per legacy hint"
+   ],
+   "plain_english": "It is endowed with triphala, vetiver, camphor, cardamom, nutmeg, and clove."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "elā+lavaṅga+karpūra",
+     "gloss": "cardamom+clove+camphor",
+     "grounds": "compound of ingredients",
+     "morph": "compound=elā+lavaṅga+karpūra; n.nom.sg"
+    },
+    {
+     "surface": "mura+jāti",
+     "gloss": "mura+nutmeg",
+     "grounds": "compound of ingredients",
+     "morph": "compound=mura+jāti; n.nom.sg"
+    },
+    {
+     "surface": "yutaṃ",
+     "gloss": "joined-with",
+     "grounds": "combined with",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "in equal proportions",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the alternative ingredient mixture be proportioned?",
+   "premises": [
+    "Cardamom, clove, and camphor are included",
+    "Mura and nutmeg are included",
+    "The combination is specified as equal"
+   ],
+   "inference": "The mixture joined with cardamom, clove, camphor, mura, and nutmeg should be in equal proportions.",
+   "uncertainties": [
+    "mura identity uncertain"
+   ],
+   "plain_english": "It is joined with cardamom, clove, camphor, mura, and nutmeg in equal parts."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "āpaḥ+kṣīra",
+     "gloss": "water+milk",
+     "grounds": "liquid base",
+     "morph": "compound=āpaḥ+kṣīra; n.nom.sg"
+    },
+    {
+     "surface": "kuśa+agraiḥ",
+     "gloss": "with-kuśa-tips",
+     "grounds": "ritual grass tips",
+     "morph": "compound=kuśa+agra; n.ins.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yava+akṣata+tilaiḥ",
+     "gloss": "with-barley+unbroken-rice+sesame",
+     "grounds": "compound of grains",
+     "morph": "compound=yava+akṣata+tila; m.ins.pl"
+    },
+    {
+     "surface": "yutam",
+     "gloss": "joined-with",
+     "grounds": "combined with",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What substances are combined with water and milk for the offering?",
+   "premises": [
+    "Water and milk form the base",
+    "Kuśa grass tips are added",
+    "Barley, unbroken rice, and sesame are added"
+   ],
+   "inference": "Water and milk should be joined with kuśa tips, barley, unbroken rice, and sesame.",
+   "uncertainties": [],
+   "plain_english": "Water and milk joined with kuśa tips, barley, unbroken rice, and sesame."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "taṇḍulaiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "grain ingredient",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middling",
+     "grounds": "middle quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated as such",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāli+taṇḍula",
+     "gloss": "śāli-rice-grains",
+     "grounds": "specific rice variety",
+     "morph": "compound=śāli+taṇḍula; m.ins.pl"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined-with",
+     "grounds": "combined with",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What rice grains define the middling quality offering?",
+   "premises": [
+    "A middling quality is declared",
+    "Rice grains are the defining ingredient",
+    "Śāli rice grains are specified"
+   ],
+   "inference": "The middling offering is declared as that joined with śāli rice grains.",
+   "uncertainties": [],
+   "plain_english": "The middling one is declared to be that joined with śāli rice grains."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "siddhārtha+candana+uśīra",
+     "gloss": "mustard+sandalwood+vetiver",
+     "grounds": "compound of ingredients",
+     "morph": "compound=siddhārtha+candana+uśīra; n.nom.sg"
+    },
+    {
+     "surface": "dūrvā+yuk",
+     "gloss": "with-dūrvā-grass",
+     "grounds": "combined with dūrvā grass",
+     "morph": "compound=dūrvā+yuj; n.nom.sg"
+    },
+    {
+     "surface": "pādyam",
+     "gloss": "foot-water",
+     "grounds": "offering for washing feet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ingredients constitute this form of foot-water?",
+   "premises": [
+    "Mustard, sandalwood, and vetiver are included",
+    "Dūrvā grass is included",
+    "These define the foot-water"
+   ],
+   "inference": "Foot-water indeed consists of mustard, sandalwood, vetiver, and dūrvā grass.",
+   "uncertainties": [],
+   "plain_english": "Foot-water indeed consists of mustard, sandalwood, vetiver, and dūrvā grass."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to previously described mixture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ācamanīyaṃ",
+     "gloss": "sipping-water",
+     "grounds": "water for ritual sipping",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative usage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual offering",
+     "morph": "3.sg.act.opt √yaj"
+    },
+    {
+     "surface": "yajana+aṅgake",
+     "gloss": "in-worship-limb",
+     "grounds": "as part of worship",
+     "morph": "compound=yajana+aṅgaka; n.loc.sg"
+    }
+   ],
+   "question": "How may this mixture be used within the limbs of worship?",
+   "premises": [
+    "The described mixture can serve as sipping-water",
+    "It is offered in worship",
+    "It functions as a limb of worship"
+   ],
+   "inference": "One may worship with this as sipping-water as a limb of worship.",
+   "uncertainties": [],
+   "plain_english": "One should worship with this as sipping-water, or as a limb of worship."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "yava+sarṣapa+sad+vrīhi",
+     "gloss": "barley+mustard+good-rice",
+     "grounds": "compound of grains",
+     "morph": "compound=yava+sarṣapa+sad+vrīhi; m.ins.pl"
+    },
+    {
+     "surface": "taṇḍulaiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "grain ingredient",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "akṣataṃ",
+     "gloss": "unbroken-rice",
+     "grounds": "ritual offering of unbroken grains",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What grains constitute the unbroken-rice offering?",
+   "premises": [
+    "Barley, mustard, and good rice are specified",
+    "Rice grains are included",
+    "These form the unbroken-rice offering"
+   ],
+   "inference": "The unbroken-rice offering should consist of barley, mustard, good rice, and rice grains.",
+   "uncertainties": [],
+   "plain_english": "The unbroken-rice offering should consist of barley, mustard, good rice, and rice grains."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "pañcāṅga",
+     "gloss": "five-limbed",
+     "grounds": "having five parts",
+     "morph": "compound=pañcan+aṅga; n.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tryaṅgaṃ",
+     "gloss": "three-limbed",
+     "grounds": "having three parts",
+     "morph": "compound=tri+aṅga; n.nom.sg"
+    },
+    {
+     "surface": "kevaṃ",
+     "gloss": "only",
+     "grounds": "exclusively",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhyam",
+     "gloss": "arghya",
+     "grounds": "honorific offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative compositions are permitted for the arghya offering?",
+   "premises": [
+    "The arghya can be five-limbed",
+    "The arghya can be three-limbed",
+    "The arghya can be only that"
+   ],
+   "inference": "The arghya may be five-limbed, or three-limbed, or only that.",
+   "uncertainties": [
+    "kevaṃ may be a variant spelling of kevalaṃ"
+   ],
+   "plain_english": "The arghya may be five-limbed, or else three-limbed, or indeed only that."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "dravyāṇi",
+     "gloss": "substances",
+     "grounds": "ritual materials",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "mantra of the weapon",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃprokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "ritual sprinkling",
+     "morph": "gerund √prokṣ"
+    },
+    {
+     "surface": "kavacena",
+     "gloss": "with-armor-mantra",
+     "grounds": "mantra of the armor",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "avakuṇṭhayet",
+     "gloss": "one-should-cover",
+     "grounds": "ritual protection",
+     "morph": "3.sg.act.opt √kuṇṭh"
+    }
+   ],
+   "question": "How should ritual substances be purified and protected?",
+   "premises": [
+    "Substances must be sprinkled with the weapon mantra",
+    "Substances must be covered with the armor mantra",
+    "Both actions are prescribed"
+   ],
+   "inference": "One should sprinkle the substances with the weapon mantra and cover them with the armor mantra.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled the substances with the weapon mantra, one should cover them with the armor mantra."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "ritual mark",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandalwood",
+     "grounds": "material for mark",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "after making",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual placement",
+     "morph": "3.sg.act.opt vi+√nyas"
+    }
+   ],
+   "question": "What personal ritual actions follow the preparation of substances?",
+   "premises": [
+    "A sandalwood forehead-mark is made",
+    "A flower is to be placed",
+    "The head is the location for the flower"
+   ],
+   "inference": "Having made a sandalwood forehead-mark, one should place a flower on the head.",
+   "uncertainties": [],
+   "plain_english": "Having made a sandalwood mark on the forehead, one should place a flower on the head."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccārayet",
+     "gloss": "should-utter",
+     "grounds": "recitation",
+     "morph": "3.sg.act.opt ud+√car"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantra+śuddhiḥ",
+     "gloss": "mantra-purification",
+     "grounds": "purification of the mantra",
+     "morph": "compound=mantra+śuddhi; f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.act.opt √bhū"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "refers to this act",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What result follows when the mantra-knower utters the mantra?",
+   "premises": [
+    "The mantra-knower should utter the mantra",
+    "Utterance is a prescribed act",
+    "Mantra purification is the stated outcome"
+   ],
+   "inference": "When the mantra-knower utters the mantra, this constitutes mantra purification.",
+   "uncertainties": [],
+   "plain_english": "The mantra-knower should utter the mantra; this is the purification of the mantra."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "gaṇapaṃ",
+     "gloss": "Gaṇapa",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāratīḥ",
+     "gloss": "Bhāratīs",
+     "grounds": "goddesses of speech",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "mūrdhve",
+     "gloss": "on-head",
+     "grounds": "location of worship",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nandinaṃ",
+     "gloss": "Nandin",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jāhnavī+yutam",
+     "gloss": "with-Jāhnavī",
+     "grounds": "accompanied by Jāhnavī",
+     "morph": "compound=jāhnavī+yuta; m.acc.sg"
+    }
+   ],
+   "question": "Which deities are to be worshipped at the head location?",
+   "premises": [
+    "Gaṇapa is to be worshipped",
+    "The Bhāratīs are to be worshipped",
+    "Nandin accompanied by Jāhnavī is to be worshipped at the head"
+   ],
+   "inference": "Gaṇapa, the Bhāratīs, and Nandin with Jāhnavī are to be worshipped at the head.",
+   "uncertainties": [
+    "mūrdhve appears to be a variant of mūrdhni"
+   ],
+   "plain_english": "One should worship Gaṇapa, the Bhāratīs, and Nandin together with Jāhnavī at the head."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "vimalaṃ",
+     "gloss": "Vimala",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "subāhuṃ",
+     "gloss": "Subāhu",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talpayoḥ",
+     "gloss": "on-two-sides-of-couch",
+     "grounds": "location of worship",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual worship",
+     "morph": "3.sg.act.opt √yaj"
+    }
+   ],
+   "question": "Which deities are to be worshipped on the two sides of the couch?",
+   "premises": [
+    "Vimala is to be worshipped",
+    "Subāhu is to be worshipped",
+    "They are worshipped in order on the two sides of the couch"
+   ],
+   "inference": "One should worship Vimala and Subāhu in order on the two sides of the couch.",
+   "uncertainties": [],
+   "plain_english": "One should worship Vimala and Subāhu in order on the two sides of the couch."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "vāstoṣpatiṃ",
+     "gloss": "Vāstoṣpati",
+     "grounds": "lord of the site",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "after worship",
+     "morph": "gerund √yaj"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual offering",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paryuṣitāṃ",
+     "gloss": "stale",
+     "grounds": "previously offered",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual removal or offering",
+     "morph": "3.sg.act.opt √yaj"
+    }
+   ],
+   "question": "What action follows the worship of Vāstoṣpati regarding previous offerings?",
+   "premises": [
+    "Vāstoṣpati is worshipped first",
+    "A stale worship offering remains",
+    "The stale offering must be addressed"
+   ],
+   "inference": "After worshipping Vāstoṣpati, one should worship away the stale offering.",
+   "uncertainties": [
+    "yajet with paryuṣitāṃ pūjāṃ may imply removal or concluding worship"
+   ],
+   "plain_english": "Then, having worshipped Vāstoṣpati, one should worship away the stale offering."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "piṇḍikāṃ",
+     "gloss": "pedestal",
+     "grounds": "base of the liṅga",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śiva+liṅgaṃ",
+     "gloss": "Śiva-liṅga",
+     "grounds": "emblem of Śiva",
+     "morph": "compound=śiva+liṅga; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "cleansing agent",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kṣālayet",
+     "gloss": "should-wash",
+     "grounds": "ritual cleansing",
+     "morph": "3.sg.act.opt √kṣal"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What cleansing action should the wise practitioner perform on the sacred objects?",
+   "premises": [
+    "The pedestal is present",
+    "The Śiva-liṅga is present",
+    "Water is used for cleansing"
+   ],
+   "inference": "The wise one should wash the pedestal and the Śiva-liṅga with water.",
+   "uncertainties": [],
+   "plain_english": "The wise one should wash the pedestal and the Śiva-liṅga with water."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "after worship",
+     "morph": "gerund sam+√pūj"
+    },
+    {
+     "surface": "dvārapān",
+     "gloss": "door-guardians",
+     "grounds": "guardians of the entrance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca+śuddhiṃ",
+     "gloss": "fivefold-purification",
+     "grounds": "five kinds of purification",
+     "morph": "compound=pañcan+śuddhi; f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual execution",
+     "morph": "3.sg.act.opt sam+ā+√car"
+    }
+   ],
+   "question": "What ritual procedure follows the worship of the door-guardians?",
+   "premises": [
+    "The door-guardians may be worshipped",
+    "A fivefold purification is prescribed",
+    "The purification is to be performed next"
+   ],
+   "inference": "After worshipping the door-guardians, one should perform the fivefold purification.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the door-guardians, one should then perform the fivefold purification."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "yajanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "deva+devasya",
+     "gloss": "of-God-of-gods",
+     "grounds": "of Śiva",
+     "morph": "compound=deva+deva; m.gen.sg"
+    },
+    {
+     "surface": "sarva+kāma+artha",
+     "gloss": "all-desire+purpose",
+     "grounds": "all desired aims",
+     "morph": "compound=sarva+kāma+artha; m.nom.sg"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "accomplishing",
+     "grounds": "means of fulfillment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What purpose does the worship of the God of gods accomplish?",
+   "premises": [
+    "Worship of the God of gods is performed",
+    "All desires and purposes are sought",
+    "Worship serves as a means"
+   ],
+   "inference": "The worship of the God of gods accomplishes all desires and purposes.",
+   "uncertainties": [],
+   "plain_english": "The worship of the God of gods accomplishes all desires and purposes."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "gaṇeśaṃ",
+     "gloss": "Gaṇeśa",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "teacher to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktim",
+     "gloss": "Śakti",
+     "grounds": "divine power to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "anantaṃ",
+     "gloss": "Ananta",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dharma+saṃmukhān",
+     "gloss": "Dharma+and-others",
+     "grounds": "Dharma and those beginning with him",
+     "morph": "compound=dharma+saṃmukha; m.acc.pl"
+    }
+   ],
+   "question": "Which deities and principles are included in this worship sequence?",
+   "premises": [
+    "Gaṇeśa, the guru, Śakti, and Ananta are named",
+    "Dharma and others are included",
+    "These are objects of worship"
+   ],
+   "inference": "One should worship Gaṇeśa, the guru, Śakti, Ananta, and Dharma and others.",
+   "uncertainties": [],
+   "plain_english": "One should worship Gaṇeśa, the guru, Śakti, Ananta, and Dharma and the others."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "vāma+ādi",
+     "gloss": "Vāmā+etc.",
+     "grounds": "group beginning with Vāmā",
+     "morph": "compound=vāma+ādi; f.acc.pl"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "number of deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya+ādi",
+     "gloss": "Sūrya+etc.",
+     "grounds": "group beginning with Sūrya",
+     "morph": "compound=sūrya+ādi; n.acc.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "mandala of deities",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa+īśvaraṃ",
+     "gloss": "with-lord",
+     "grounds": "together with the lord",
+     "morph": "compound=sa+īśvara; n.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual worship",
+     "morph": "3.sg.act.opt √yaj"
+    }
+   ],
+   "question": "Which groups and circles are to be worshipped together with the lord?",
+   "premises": [
+    "The nine beginning with Vāmā are to be worshipped",
+    "The circle beginning with Sūrya is to be worshipped",
+    "The lord is included with them"
+   ],
+   "inference": "One should worship the nine beginning with Vāmā and the circle beginning with Sūrya together with the lord.",
+   "uncertainties": [],
+   "plain_english": "One should worship the nine beginning with Vāmā and the circle beginning with Sūrya together with the lord."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "pañca+āsana+ātmakaṃ",
+     "gloss": "five-seat-constituted",
+     "grounds": "consisting of five seats",
+     "morph": "compound=pañcan+āsana+ātmaka; n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to the described arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eka+āsana",
+     "gloss": "one-seat",
+     "grounds": "a single seat",
+     "morph": "compound=eka+āsana; n.nom.sg"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "stated as such",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the five-seat arrangement characterized in relation to a single seat?",
+   "premises": [
+    "The arrangement consists of five seats",
+    "It is referred to as this",
+    "It is declared to be one seat"
+   ],
+   "inference": "This five-seat arrangement is indeed declared to be one seat.",
+   "uncertainties": [],
+   "plain_english": "Indeed, this arrangement constituted of five seats is declared to be one seat."
+  }
+ ]
+}

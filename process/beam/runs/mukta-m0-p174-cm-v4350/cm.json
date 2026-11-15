@@ -3,34 +3,44 @@
  "verse": 4350,
  "rows": [
   {
-   "lemma": "burajākhyaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "adjective modifying dalaṃ"
+   "lemma": "arcā",
+   "morph": "compound-member",
+   "grounds": "first member of compound with aṃśe, indicating the worship portion"
   },
   {
-   "lemma": "dalaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative object"
+   "lemma": "aṃśe",
+   "morph": "m.loc.sg",
+   "grounds": "locative indicating the section or portion"
   },
   {
-   "lemma": "hyevaṃ",
+   "lemma": "veda",
+   "morph": "compound-member",
+   "grounds": "numerical first member of compound with bhāge, referring to four divisions"
+  },
+  {
+   "lemma": "bhāge",
+   "morph": "m.loc.sg",
+   "grounds": "locative indicating division into parts"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle"
+   "grounds": "particle marking contrast between two divisions"
   },
   {
-   "lemma": "catuṣkaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "numeral adjective"
+   "lemma": "nāhe",
+   "morph": "m.loc.sg",
+   "grounds": "locative indicating the perimeter or circumference"
   },
   {
-   "lemma": "syād",
-   "morph": "3.sg.act-opt (as)",
-   "grounds": "optative of as"
+   "lemma": "nakṣatra",
+   "morph": "compound-member",
+   "grounds": "numerical first member of compound with bhājite, referring to twenty-seven divisions"
   },
   {
-   "lemma": "dalāntare",
-   "morph": "n.loc.sg",
-   "grounds": "locative of dalāntara"
+   "lemma": "bhājite",
+   "morph": "m.loc.sg.ppp-bhāj",
+   "grounds": "past participle in locative agreeing with nāhe, indicating partition"
   }
  ]
 }
