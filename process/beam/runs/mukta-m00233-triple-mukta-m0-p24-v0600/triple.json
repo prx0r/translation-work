@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "sadyastalliṅge",
+     "gloss": "immediately-in-that-mark",
+     "grounds": "fused adverb sadyas with locative talliṅge; sandhi retained as one token",
+     "morph": "indecl. + loc.sg.n"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "shiva",
+     "grounds": "direct object of invocation and worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "absolutive of āvāh before worship",
+     "morph": "absolutive (āvāh)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "would-worship",
+     "grounds": "optative action following invocation",
+     "morph": "3.sg.opt.act (pūj)"
+    }
+   ],
+   "question": "Should Shiva be invoked and worshipped immediately upon the appearance of the daily mark?",
+   "premises": [
+    "the daily mark has appeared",
+    "Shiva is invoked into it",
+    "worship follows invocation"
+   ],
+   "inference": "The mark's appearance calls for immediate invocation and worship of Shiva.",
+   "uncertainties": [
+    "the exact ritual mark is not specified",
+    "the worshipper's grade is not specified"
+   ],
+   "plain_english": "Immediately upon that mark, one should invoke Shiva and worship him."
+  }
+ ]
+}

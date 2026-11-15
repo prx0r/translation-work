@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p152",
+ "items": [
+  {
+   "verse": 3800,
+   "rows": [
+    {
+     "surface": "dvādaśakāyāmaḥ",
+     "gloss": "twelve-breath",
+     "grounds": "compound denoting a twelve-breath measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samādhir",
+     "gloss": "samadhi",
+     "grounds": "absorptive meditative state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "root bhū, present indicative",
+     "morph": "3.sg.act.pres root bhū"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "adverbial or neuter adjective sense",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What duration of breath practice makes samadhi become clearly manifest?",
+   "premises": [
+    "twelve-breath samadhi becomes clear",
+    "samadhi is the meditative state",
+    "clarity marks its manifestation"
+   ],
+   "inference": "A twelve-breath samadhi is clearly attained.",
+   "uncertainties": [
+    "kāyāma exact breath-measure sense",
+    "sphuṭam adverbial or adjectival"
+   ],
+   "plain_english": "A twelve-breath samadhi becomes clearly manifest."
+  }
+ ]
+}

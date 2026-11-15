@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3352,
- "question": "What is the exact seven-syllabled mantra form of Kurukulla?",
+ "question": "Who should carry the prepared ritual seat and in what condition?",
  "premises": [
-  "A mantra of Kurukulla is being transmitted.",
-  "The mantra consists of the syllables oṃ, kurukulle, and svāhā.",
-  "This form is identified as having seven syllables."
+  "All carriers wear one wet garment.",
+  "All carriers are weapon reciters.",
+  "They should carry the seat."
  ],
- "inference": "The seven-syllabled mantra of Kurukulla is 'oṃ kurukulle svāhā'.",
- "uncertainties": [],
- "plain_english": "The seven-syllabled mantra is: oṃ kurukulle svāhā."
+ "inference": "All weapon reciters, wearing a single wet garment, should carry the seat.",
+ "uncertainties": [
+  "The exact destination of carrying is not stated here."
+ ],
+ "plain_english": "All weapon reciters wearing a single wet garment should carry it."
 }

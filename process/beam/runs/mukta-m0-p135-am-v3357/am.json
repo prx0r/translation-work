@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3357,
- "question": "How should the goddess be worshipped in the oceans surrounding the island?",
+ "question": "Where and in which direction should the vasu pit be dug?",
  "premises": [
-  "The setting extends to the oceans around the island.",
-  "The goddess is described as moving in a jeweled boat.",
-  "Worship is prescribed in that context."
+  "The pit is dug on earth.",
+  "The direction is south-north.",
+  "The pit is called vasu pit."
  ],
- "inference": "One should worship the goddess as moving in a jeweled boat in the surrounding oceans.",
- "uncertainties": [],
- "plain_english": "In its surrounding oceans, one should worship her as moving in a jeweled boat."
+ "inference": "The vasu pit should be dug on earth in a south-north orientation.",
+ "uncertainties": [
+  "Exact dimensions of the pit are not given."
+ ],
+ "plain_english": "Having dug the vasu pit on earth in a south-north direction."
 }

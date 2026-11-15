@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p131",
  "verse": 3272,
- "question": "What accomplishments are associated with using a gourd vessel?",
+ "question": "Where do previously stated heruka and others stand?",
  "premises": [
-  "A gourd vessel is mentioned",
-  "Heroic accomplishment is named",
-  "Yoga accomplishments are named"
+  "then is stated",
+  "eight directions are stated",
+  "heruka is stated"
  ],
- "inference": "Using a gourd vessel brings heroic accomplishment and yoga accomplishments.",
- "uncertainties": [],
- "plain_english": "In a gourd vessel there is heroic accomplishment and the accomplishments of yoga."
+ "inference": "Previously stated heruka and others stand in eight directions in order.",
+ "uncertainties": [
+  "compound segmentation uncertain"
+ ],
+ "plain_english": "Then in eight directions stand previously stated heruka and others in order."
 }

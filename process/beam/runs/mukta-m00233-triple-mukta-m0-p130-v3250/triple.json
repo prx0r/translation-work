@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "taddvāri",
+     "gloss": "at-that-door",
+     "grounds": "fused locative expression tad + dvāri retained as one token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śūlinaṃ",
+     "gloss": "trident-bearer",
+     "grounds": "accusative singular masculine form of śūlin",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kapālinam",
+     "gloss": "skull-bearer",
+     "grounds": "accusative singular masculine form of kapālin",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Which two door-guardian deities are to be worshipped at that door?",
+   "premises": [
+    "The verse names two deities at the door.",
+    "They are trident-bearer and skull-bearer.",
+    "Worship occurs at that door."
+   ],
+   "inference": "The ritual directs worship to the trident-bearer and skull-bearer at the doorway.",
+   "uncertainties": [
+    "The exact offering or mantra for these deities is not stated in this verse."
+   ],
+   "plain_english": "At that door, worship the trident-bearer and the skull-bearer."
+  }
+ ]
+}

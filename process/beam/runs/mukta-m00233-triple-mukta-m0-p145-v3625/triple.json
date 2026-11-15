@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "patatāṃ",
+     "gloss": "falling-ones",
+     "grounds": "present participle of pat, genitive plural masculine",
+     "morph": "m.gen.pl (pres.part.act.)"
+    },
+    {
+     "surface": "patitānāṃ",
+     "gloss": "fallen-ones",
+     "grounds": "perfect participle of pat, genitive plural masculine",
+     "morph": "m.gen.pl (perf.part.pass.)"
+    },
+    {
+     "surface": "patiṣyatām",
+     "gloss": "about-to-fall-ones",
+     "grounds": "future participle of pat, genitive plural masculine",
+     "morph": "m.gen.pl (fut.part.)"
+    }
+   ],
+   "question": "Which three temporal classes of beings are named by these three participial forms?",
+   "premises": [
+    "patatāṃ denotes beings currently falling",
+    "patitānāṃ denotes beings already fallen",
+    "patiṣyatām denotes beings yet to fall"
+   ],
+   "inference": "The verse names falling, fallen, and future-falling beings.",
+   "uncertainties": [
+    "Exact syntactic relation to the preceding hell-suffering clause is not explicit in the supplied tokens."
+   ],
+   "plain_english": "Of those falling, those fallen, and those about to fall."
+  }
+ ]
+}

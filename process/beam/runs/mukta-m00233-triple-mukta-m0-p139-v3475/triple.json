@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3475,
+   "rows": [
+    {
+     "surface": "sṛgālairvā",
+     "gloss": "by-jackals-or",
+     "grounds": "instrumental plural of sṛgāla with enclitic vā",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "gṛghrolūkaiśca",
+     "gloss": "by-vultures-and-owls",
+     "grounds": "compound of gṛdhra and ulūka in instrumental plural with ca",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "gardabhaiḥ",
+     "gloss": "by-donkeys",
+     "grounds": "instrumental plural of gardabha",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "?",
+     "gloss": "by-donkeys",
+     "grounds": "token supplied only as placeholder in the unit list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which animals are named as agents in this ritual context?",
+   "premises": [
+    "The verse lists jackals vultures owls and donkeys",
+    "The instrumental forms name agents of the action",
+    "The final token is not recoverable from the supplied list"
+   ],
+   "inference": "The verse enumerates animal agents in instrumental case",
+   "uncertainties": [
+    "The fourth surface token is missing and only a placeholder is available"
+   ],
+   "plain_english": "By jackals, by vultures and owls, by donkeys, and by an unidentified agent."
+  }
+ ]
+}

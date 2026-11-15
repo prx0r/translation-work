@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p138-v3426
-beginning-with-destruction-sequence [saṃhārakramamārabhya] six-paths [ṣaḍadhvānaḥ] especially [viśeṣataḥ]
+[destruction](saṃhāra)+[sequence](krama)+[beginning](ārabhya) [six](ṣaḍ)+[paths](adhvānaḥ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p138-v3427
-devoid-of-signified-and-signifier [vācyavācakaśūnyam] but [tu] beyond-mind-and-speech [manovācāmagocaram]
+[speech](vācya)+[speaker](vācaka)+[empty](śūnyaṃ) [mind](manaḥ)+[speech](vācā)+[beyond](agocaram)
 
 ## mukta-m0-p138-v3428
-beginning-and-end-empty [ādyantaśūnyam] isolation [kaivalyam] nameless [asaṃjñam] endless [anantakam]
+[beginning](ādi)+[end](anta)+[empty](śūnyaṃ) [isolation](kaivalyaṃ)+[nameless](asaṃjñaṃ)+[endless](anantakam)
 
 ## mukta-m0-p138-v3429
-thus [evaṃ] meditating [dhyātvā] great-knower [mahājñānī] embracing-disciple [śiṣyamāliṃgya] fully [nirbharam]
+[thus](evaṃ)+[meditating](dhyātvā) [great](mahā)+[knower](jñānī) [disciple](śiṣyaṃ)+[embracing](āliṃgya) [fully](nirbharam)
 
 ## mukta-m0-p138-v3430
-bliss [ānandaḥ] his [tasya] there-only [tatraiva] arises [jāyate] and [ca] no [na] doubt [saṃśayaḥ]
+[bliss](ānandaḥ)+[his](tasya) [there](tatra)+[indeed](eva) [arises](jāyate) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p138-v3431
-becomes [saṃpadyate] and [ca] there-only [tatraiva] Shiva-formed [śivarūpī] distinguished [viśiṣyakaḥ]
+[attains](saṃpadyate) [there](tatra)+[indeed](eva) [śiva-form](śivarūpī) [distinguished](viśiṣyakaḥ)
 
 ## mukta-m0-p138-v3432
-with-hands [hastābhyām] consecration [abhiṣekam] and [ca] should-do [kuryāt] true-path-giver [sanmārgadāyakaḥ]
+[hands](hastābhyām)+[anointing](abhiṣekaṃ) [does](kuryāt)+[good-path-giver](sanmārgadāyakaḥ)
 
 ## mukta-m0-p138-v3433
-Shiva [śivam] supreme-beyond [parātparam] subtle [sūkṣmam] immeasurable [aprameyam] unsurpassed [anuttamam]
+[śiva](śivaṃ) [beyond-beyond](parātparaṃ) [subtle](sūkṣmam)+[immeasurable](aprameyam)+[supreme](anuttamam)
 
 ## mukta-m0-p138-v3434
-by-supreme [parātpareṇa] distinction [bhedena] sin [pāpena] Ashvattha-seer [aśvatthadarśakam]
+[beyond-beyond](parātpareṇa) [difference](bhedena) [sin](pāpena)+[aśvattha-seer](aśvatthadarśakam)
 
 ## mukta-m0-p138-v3435
-Chaidya [caidyam] but [tu] lower-knowledge [aparavijñānam] beast-bond-meaning-seer [paśupāśārthadarśakam]
+[caidya](caidyaṃ) [other](apara)+[knowledge](vijñānaṃ) [soul-bond](paśupāśa)+[meaning](artha)+[seer](darśakam)
 
 ## mukta-m0-p138-v3436
-that-that-principle [tattattattvam] how [kathaṃ] speak [brūhi] that-undifferentiated-mixture [tadasaṃkarasaṃkaram]
+[that](tad)+[that](tad)+[principle](tattvaṃ) [how](kathaṃ) [speak](brūhi) [that](tad)+[unmixed](asaṃkara)+[mixture](saṃkaram)
 
 ## mukta-m0-p138-v3437
-Buddhist [bauddham] and [ca] Jain [ārhatam] and-also [caiva] Pancharatra [pāñcarātram] and [ca] Shaiva [śaivakam]
+[buddhist](bauddhaṃ) [and](ca) [jain](ārhataṃ) [and](ca)+[eva](eva) [pañcarātra](pāñcarātraṃ) [and](ca) [śaiva](śaivakam)
 
 ## mukta-m0-p138-v3438
-Shapaka [śāpakam] and [ca] Mahayana [mahāyānam] then [tataḥ] Pratyekanayaka [pratyekanāyakam]
+[śāpaka](śāpakaṃ) [and](ca) [mahāyāna](mahāyānaṃ) [then](tataḥ) [pratyeka-leader](pratyekanāyakam)
 
 ## mukta-m0-p138-v3439
-Lokayata [lokāyatam] but [tu] there-only [tatraiva] Mahayana-follower [mahāyānānugāmi] and [ca]
+[lokāyata](lokāyataṃ) [indeed](tu) [there](tatra)+[eva](eva) [mahāyāna-follower](mahāyānānugāmi) [and](ca)
 
 ## mukta-m0-p138-v3440
-in-Pratyekanayaka [pratyekanāyake] there [tatra] Sautrantika-word-cloud [sautrītikapadābhratāḥ]
+[pratyeka-leader](pratyekanāyake) [there](tatra) [sautrītika](sautrītika)+[pada](pada)+[cloud](abhratāḥ)
 
 ## mukta-m0-p138-v3441
-Vaibhashika-state [vaibhāṣikasthitiḥ] twofold [dvedhā] each [pratyekam] Shravaka [śravakam] so [tathā]
+[vaibhāṣika](vaibhāṣika)+[state](sthitir) [twofold](dvedhā) [pratyeka](pratyekaṃ) [śravaka](śravakaṃ) [thus](tathā)
 
 ## mukta-m0-p138-v3442
-supreme-these-not-hare [parametānaśaśceti] good-mantra-chariot [sumantrarathaḥ] indeed [eva] and [ca]
+[parameta](parametā)+[na](na)+[aśa](aśa)+[śa](śa)+[sumantra-ratha](sumantrarathaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p138-v3443
-twofold [dvidhā] mantra-station [mantrastha] by-yoga [yogāt] ... [caradire] ... [va] and [ca]
+[twofold](dvidhā) [mantra](mantra)+[state](stha)+[yoga](yoga)+[caradi](caradi)+[re](re) [and](va) [ca](ca)
 
 ## mukta-m0-p138-v3444
-thus [evaṃ] Madhyamika [mādhyamikā] declared [proktā] ... [mā] ... [ṣamādvayaḥ] then [tataḥ]
+[thus](evaṃ) [mādhyamika](mādhyamikā) [proclaimed](proktā) [mā](mā) [ṣa](ṣa)+[mā](mā)+[advaya](advayaḥ)+[then](tataḥ)
 
 ## mukta-m0-p138-v3445
-Buddhist-difference-situated [bauddhabhedasthitam] to-be-known [jñeyam] great-difference [mahābhedam] then-said [athocyate]
+[buddhist-difference](bauddhabheda)+[state](sthitaṃ) [known](jñeyaṃ) [great-difference](mahābhedaṃ)+[then](atha)+[spoken](ucyate)
 
 ## mukta-m0-p138-v3446
-by-three-by-three [tribhistribhiḥ] to-be-done [prakartavyam] ashrama [āśramam] and [ca] fourfold [caturvidham]
+[three](tribhiḥ)+[three](tribhiḥ) [to-be-done](prakartavyam)+[āśrama](āśramaṃ) [and](ca) [fourfold](caturvidham)
 
 ## mukta-m0-p138-v3447
-Vanaprastha [vānaprasthaḥ] and [ca] these [ityete] ashramas [āśramāḥ] and [ca] cited [udāhṛtāḥ]
+[forest-dweller](vānaprasthaḥ)+[and](ca) [iti](iti)+[these](ete) [āśramas](āśramāḥ)+[and](ca) [declared](udāhṛtāḥ)
 
 ## mukta-m0-p138-v3448
-Pancharatra [pañcarātram] Bhagavata [bhāgavatam] so [tathā] Vaikhanasa-approved [vaikhānasaṃmatam]
+[pañcarātra](pañcarātraṃ) [bhāgavata](bhāgavataṃ) [thus](tathā) [vaikhānasa](vaikhānasaṃ)+[approved](matam)
 
 ## mukta-m0-p138-v3449
-Vaisheshika [vaiśeṣikaḥ] and [ca] Samkhya [sāṃkhyaḥ] and [ca] self [ātmā] or [vā] thus [iti] in-order [kramāt]
+[vaiśeṣika](vaiśeṣikaḥ)+[and](ca) [sāṃkhya](sāṃkhyaḥ)+[and](ca) [ātma](ātma) [vā](vā) [iti](iti) [in-order](kramāt)
 
 ## mukta-m0-p138-v3450
-Vama [vāmam] but [tu] threefold [trividham] declared [proktam] beginningless [anādiḥ] east-west [pūrvapaścimam]
+[vāma](vāmaṃ) [indeed](tu) [threefold](trividhaṃ) [proclaimed](proktam)+[beginningless](anādiḥ) [east](pūrva)+[west](paścimam)

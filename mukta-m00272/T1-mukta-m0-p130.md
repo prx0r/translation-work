@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[tiḥ](tiḥ) [drink+essence+eater](pibasārabhuk)
+[tiḥ](tiḥ) [pibasārabhuk](pibasārabhuk)
 
 ## mukta-m0-p130-v3227
-[moon+disk+radiance](candrabimbadyutir) [blue+seated](nīlājāsano) [auspicious+horsewoman](bhadravājinī)
+[candrabimbadyutirnīlājāsano](candrabimbadyutirnīlājāsano) [bhadravājinī](bhadravājinī)
 
 ## mukta-m0-p130-v3228
-[thirty+years](triṃśābdaśca) [thousand+lived](sahasrāyuḥ) [desire+tree+fruit+eater](kāmavṛkṣa+phalāśinaḥ)
+[triṃśābdaśca](triṃśābdaśca) [sahasrāyuḥ](sahasrāyuḥ) [kāmavṛkṣa](kāmavṛkṣa) [phalāśinaḥ](phalāśinaḥ)
 
 ## mukta-m0-p130-v3229
-[beings+there](bhūtave) [thousand+upward](sahasrordhvāvekadik) [joint+marks](sandhilakṣaṇau)
+[bhūtave](bhūtave) [sahasrordhvāvekadik](sahasrordhvāvekadik) [sandhilakṣaṇau](sandhilakṣaṇau)
 
 ## mukta-m0-p130-v3230
-[moon+auspicious+form+lords](candrabhadrākarādhipau) [moon+red+water+elephant](candraraktaṃburugajanau) [āryāvarta](ailāvṛtaḥ)
+[candrabhadrākarādhipau](candrabhadrākarādhipau) [candraraktāṃburugajanau](candraraktāṃburugajanau) [ailāvṛtaḥ](ailāvṛtaḥ)
 
 ## mukta-m0-p130-v3231
-[inner+being](antarbhāvaṃ) [do+indeed](kuruṣveva) [presence+from+which](sānnidhyātkatamastadā)
+[antarbhāvaṃ](antarbhāvaṃ) [kuruṣveva](kuruṣveva) [sānnidhyātkatamastadā](sānnidhyātkatamastadā)
 
 ## mukta-m0-p130-v3232
-[people+of+indra+enemies](janasyaindradviṣo) [always](nityaṃ) [horse+tooth](aśvato) [lāṃkula+fruit](lāṃkulaṃ+phalam)
+[janasyaindradviṣo](janasyaindradviṣo) [nityaṃ](nityaṃ) [aśvato](aśvato) [lāṃkulaṃ](lāṃkulaṃ) [phalam](phalam)
 
 ## mukta-m0-p130-v3233
-[people+thousand+years](janasyābdasahasrāṇi) [banyan+fruit+eat](nyagrodhaphalamaśnutaḥ)
+[janasyābdasahasrāṇi](janasyābdasahasrāṇi) [nyagrodhaphalamaśnutaḥ](nyagrodhaphalamaśnutaḥ)
 
 ## mukta-m0-p130-v3234
-[golden](raukmaṃ) [what](kiṃ) [man](puruṣe) [fig](plakṣa) [food+ten+thousand+years+stay](bhojanābdāyuta+sthitiḥ)
+[raukmaṃ](raukmaṃ) [kiṃ](kiṃ) [puruṣe](puruṣe) [plakṣa](plakṣa) [bhojanābdāyuta](bhojanābdāyuta) [sthitiḥ](sthitiḥ)
 
 ## mukta-m0-p130-v3235
-[new+states](naveṣvavasthā) [difference+is](bhedo'sti) [various+ages](vivarṣeṣu) [kṛta+etc](kṛtādiṣu)
+[naveṣvavasthā](naveṣvavasthā) [bhedo'sti](bhedo'sti) [vivarṣeṣu](vivarṣeṣu) [kṛtādiṣu](kṛtādiṣu)
 
 ## mukta-m0-p130-v3236
-[various+people+foot+filled](nānājana+padākīrṇaṃ) [old+age+disease+fear+possessed](jarārogabhayānvitam)
+[nānājana](nānājana) [padākīrṇaṃ](padākīrṇaṃ) [jarārogabhayānvitam](jarārogabhayānvitam)
 
 ## mukta-m0-p130-v3237
-[their+hundred+years+arrangement](teṣāṃ+śatāyuḥ+kḷptiśca) [four+yugas+by](caturyugavaśātpunaḥ)
+[teṣāṃ](teṣāṃ) [śatāyuḥ](śatāyuḥ) [kḷptiśca](kḷptiśca) [caturyugavaśātpunaḥ](caturyugavaśātpunaḥ)
 
 ## mukta-m0-p130-v3238
-[earth+etc+all](bhūrādīnāṃ+samastānāṃ) [fruit+earth+karma+earth+because](phalabhūḥ+karmabhūryataḥ)
+[bhūrādīnāṃ](bhūrādīnāṃ) [samastānāṃ](samastānāṃ) [phalabhūḥ](phalabhūḥ) [karmabhūryataḥ](karmabhūryataḥ)
 
 ## mukta-m0-p130-v3239
-[earth+enjoyment+fruit+obtained](bhūmibhuktiphalaṃ+prāpya) [auspicious+obtained+effort](śivaṃ+saṃprāpya+yatnataḥ)
+[bhūmibhuktiphalaṃ](bhūmibhuktiphalaṃ) [prāpya](prāpya) [śivaṃ](śivaṃ) [saṃprāpya](saṃprāpya) [yatnataḥ](yatnataḥ)
 
 ## mukta-m0-p130-v3240
-[indra+islands+etc+there](indradvīpādayastatra) [hear+you+nandikeśvara](śṛṇutvaṃ+nandikeśvara)
+[indradvīpādayastatra](indradvīpādayastatra) [śṛṇutvaṃ](śṛṇutvaṃ) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p130-v3241
-[snake+islands+with+gandharva+varuṇa+thus](nāgadvīpāśca+sābhyaśca+gāndharvo+vāruṇastathā)
+[nāgadvīpāśca](nāgadvīpāśca) [sābhyaśca](sābhyaśca) [gāndharvo](gāndharvo) [vāruṇastathā](vāruṇastathā)
 
 ## mukta-m0-p130-v3242
-[various+birth+filled](nānājāti+samākīrṇā) [devotee+named+proclaimed](bhaktākhye+pratikīrtitāḥ)
+[nānājāti](nānājāti) [samākīrṇā](samākīrṇā) [bhaktākhye](bhaktākhye) [pratikīrtitāḥ](pratikīrtitāḥ)
 
 ## mukta-m0-p130-v3243
-[rivers+and+rivers+of](nadānāṃ+ca+nadīnāṃ+ca) [known+five+hundred+indeed](jñeyāḥ+pañcaśatāni+tu)
+[nadānāṃ](nadānāṃ) [ca](ca) [nadīnāṃ](nadīnāṃ) [ca](ca) [jñeyāḥ](jñeyāḥ) [pañcaśatāni](pañcaśatāni) [tu](tu)
 
 ## mukta-m0-p130-v3244
-[himavat+north+part](himavaduttare+bhāge) [kailāsa+peak+great](kailāsaśikharaṃ+mahat)
+[himavaduttare](himavaduttare) [bhāge](bhāge) [kailāsaśikharaṃ](kailāsaśikharaṃ) [mahat](mahat)
 
 ## mukta-m0-p130-v3245
-[all+ornament+endowed](sarvālaṃkāra+saṃyuktaḥ) [divine+trees+adorned](divyavṛkṣairalaṃkṛtaḥ)
+[sarvālaṃkāra](sarvālaṃkāra) [saṃyuktaḥ](saṃyuktaḥ) [divyavṛkṣairalaṃkṛtaḥ](divyavṛkṣairalaṃkṛtaḥ)
 
 ## mukta-m0-p130-v3246
-[eight+sixty+great+field](aṣṭaṣaṣṭi+mahākṣetraṃ) [vāraṇāsī+etc+holy](vāraṇāsyādi+pāvanam)
+[aṣṭaṣaṣṭi](aṣṭaṣaṣṭi) [mahākṣetraṃ](mahākṣetraṃ) [vāraṇāsyādi](vāraṇāsyādi) [pāvanam](pāvanam)
 
 ## mukta-m0-p130-v3247
-[mahendra+malaya+sahya](mahendro+malayassahyaḥ) [śaktimān+ṛkṣa+mountain](śaktimānṛkṣaparvataḥ)
+[mahendro](mahendro) [malayassahyaḥ](malayassahyaḥ) [śaktimānṛkṣaparvataḥ](śaktimānṛkṣaparvataḥ)
 
 ## mukta-m0-p130-v3248
-[island+protector+gold+like+auspicious](dvīpālaṃ+kārasaṃyuktāḥ+cāmīkaranibhāḥ+śubhāḥ)
+[dvīpālaṃ](dvīpālaṃ) [kārasaṃyuktāḥ](kārasaṃyuktāḥ) [cāmīkaranibhāḥ](cāmīkaranibhāḥ) [śubhāḥ](śubhāḥ)
 
 ## mukta-m0-p130-v3249
-[jambūdvīpa+called](jambūdvīpaṃ+samākhyātaṃ) [salt+ocean+hear](lavaṇodadhyutaṃ+śṛṇu)
+[jambūdvīpaṃ](jambūdvīpaṃ) [samākhyātaṃ](samākhyātaṃ) [lavaṇodadhyutaṃ](lavaṇodadhyutaṃ) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p130-v3250
-[mountains+twelve+thus+known](bhūdharā+dvādaśāścaivaṃ+prasiddhaṃ) [salt+ocean](lavaṇodadhau)
+[bhūdharā](bhūdharā) [dvādaśāścaivaṃ](dvādaśāścaivaṃ) [prasiddhaṃ](prasiddhaṃ) [lavaṇodadhau](lavaṇodadhau)

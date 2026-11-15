@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p145",
  "verse": 3606,
- "question": "Which kula items are named in this list?",
+ "question": "Are womb-born and egg-born bodies found among water-dwellers?",
  "premises": [
-  "The verse names clan fish.",
-  "The verse names clan substance.",
-  "The verse names clan wine and clan lord."
+  "Womb-born and egg-born bodies are named.",
+  "They belong to water-dwellers."
  ],
- "inference": "The list names clan fish, substance, wine, and lord.",
+ "inference": "Water-dwellers have womb-born and egg-born bodies.",
  "uncertainties": [
-  "No action is attached to the list."
+  "Whether all water-dwellers or only some is unspecified."
  ],
- "plain_english": "Clan fish, clan substance, clan wine, clan lord."
+ "plain_english": "Womb-born and egg-born bodies are those of water-dwellers."
 }

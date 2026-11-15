@@ -1,0 +1,875 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3176,
+   "rows": [
+    {
+     "surface": "māghaphālgunacaitreṣu",
+     "gloss": "in-māgha-phālguna-caitra-months",
+     "grounds": "compound locative plural months",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "vaiśākhajyeṣṭhayorapi",
+     "gloss": "in-vaiśākha-jyeṣṭha-too",
+     "grounds": "compound locative dual plus api",
+     "morph": "loc.du.m"
+    }
+   ],
+   "question": "Which months are prescribed for performing this rite?",
+   "premises": [
+    "māgha phālguna caitra are named",
+    "vaiśākha and jyeṣṭha are also named"
+   ],
+   "inference": "The rite is to be performed in these specified months.",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "In the months of Māgha, Phālguna, Caitra, Vaiśākha, and Jyeṣṭha."
+  },
+  {
+   "verse": 3177,
+   "rows": [
+    {
+     "surface": "mārgaśīrṣe",
+     "gloss": "in-mārgaśīrṣa",
+     "grounds": "locative singular month",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣye",
+     "gloss": "in-puṣya",
+     "grounds": "locative singular month",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "conjunction plus api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive present third singular",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "In which additional months is the rite prescribed?",
+   "premises": [
+    "mārgaśīrṣa is named",
+    "puṣya is named",
+    "vidhīyate states prescription"
+   ],
+   "inference": "The rite is also prescribed in Mārgaśīrṣa and Puṣya.",
+   "uncertainties": [
+    "ritual details omitted"
+   ],
+   "plain_english": "And in Mārgaśīrṣa and Puṣya it is prescribed."
+  },
+  {
+   "verse": 3178,
+   "rows": [
+    {
+     "surface": "dvitīyādi",
+     "gloss": "second-etc",
+     "grounds": "compound beginning with second",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saptadivasaṃ",
+     "gloss": "seven-days",
+     "grounds": "compound accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What duration is specified for the sequence beginning with the second day?",
+   "premises": [
+    "dvitīyādi begins the sequence",
+    "saptadivasaṃ means seven days",
+    "bhavet states it becomes"
+   ],
+   "inference": "The sequence from the second day onward lasts seven days.",
+   "uncertainties": [
+    "exact starting day unclear"
+   ],
+   "plain_english": "From the second day onward it becomes seven days."
+  },
+  {
+   "verse": 3179,
+   "rows": [
+    {
+     "surface": "dinānāṃ",
+     "gloss": "of-days",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "brāhmyādīnāṃ",
+     "gloss": "of-brāhmya-etc",
+     "grounds": "genitive plural compound",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmabhiḥ",
+     "gloss": "by-names",
+     "grounds": "instrumental plural",
+     "morph": "instr.pl.n"
+    }
+   ],
+   "question": "How are the days named in this ritual sequence?",
+   "premises": [
+    "dinānāṃ means of days",
+    "nāmāni means names",
+    "brāhmyādīnāṃ supplies the name series",
+    "nāmabhiḥ means by names"
+   ],
+   "inference": "The days are named by the Brāhmya series of names.",
+   "uncertainties": [
+    "full name list not given"
+   ],
+   "plain_english": "The names of the days are by the Brāhmya series."
+  },
+  {
+   "verse": 3180,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāme",
+     "gloss": "in-village",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vane",
+     "gloss": "in-forest",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvate'pi",
+     "gloss": "on-mountain-too",
+     "grounds": "locative singular plus api",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what kinds of places may this rite be performed?",
+   "premises": [
+    "grāme means village",
+    "vane means forest",
+    "parvate means mountain",
+    "vā gives alternatives"
+   ],
+   "inference": "The rite may be performed in village, forest, or mountain.",
+   "uncertainties": [
+    "other places may be implied"
+   ],
+   "plain_english": "Thus in village, forest, or mountain."
+  },
+  {
+   "verse": 3181,
+   "rows": [
+    {
+     "surface": "pravṛttākṣīṃ",
+     "gloss": "with-protruding-eyes",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "nirmāṃsāsthiśarīriṇīm",
+     "gloss": "fleshless-bone-bodied",
+     "grounds": "accusative singular feminine compound",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What physical form is prescribed for the goddess image?",
+   "premises": [
+    "pravṛttākṣīṃ means protruding eyes",
+    "nirmāṃsāsthiśarīriṇīm means fleshless bone body"
+   ],
+   "inference": "The goddess image has protruding eyes and a fleshless bone body.",
+   "uncertainties": [
+    "iconographic details beyond these"
+   ],
+   "plain_english": "With protruding eyes and a fleshless bone body."
+  },
+  {
+   "verse": 3182,
+   "rows": [
+    {
+     "surface": "kapālavetāladharāṃ",
+     "gloss": "skull-and-vetāla-bearing",
+     "grounds": "accusative singular feminine compound",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikṛtānanām",
+     "gloss": "distorted-faced",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What further attributes are prescribed for the goddess image?",
+   "premises": [
+    "kapālavetāladharāṃ means skull and vetāla bearing",
+    "vikṛtānanām means distorted faced"
+   ],
+   "inference": "The image also bears skull and vetāla and has a distorted face.",
+   "uncertainties": [
+    "vetāla sense contextual"
+   ],
+   "plain_english": "Likewise bearing skull and vetāla, with distorted face."
+  },
+  {
+   "verse": 3183,
+   "rows": [
+    {
+     "surface": "nibaddhakiṅkiṇīmālā",
+     "gloss": "bound-bell-garland",
+     "grounds": "nominative singular feminine compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nānāsarpavibhūṣaṇām",
+     "gloss": "various-snake-ornamented",
+     "grounds": "accusative singular feminine compound",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What ornaments are prescribed for the goddess image?",
+   "premises": [
+    "nibaddhakiṅkiṇīmālā means bound bell garland",
+    "nānāsarpavibhūṣaṇām means various snake ornaments"
+   ],
+   "inference": "The image is ornamented with a bell garland and various snakes.",
+   "uncertainties": [
+    "garland bearer unspecified"
+   ],
+   "plain_english": "Bound bell garland and various snake ornaments."
+  },
+  {
+   "verse": 3184,
+   "rows": [
+    {
+     "surface": "vāhanānyaṣṭa",
+     "gloss": "eight-vehicles",
+     "grounds": "accusative plural neuter compound",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "should-draw",
+     "grounds": "optative third singular root likh",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How many vehicles should be drawn in this rite?",
+   "premises": [
+    "vāhanānyaṣṭa means eight vehicles",
+    "ālikhet means should draw"
+   ],
+   "inference": "Eight vehicles should be drawn.",
+   "uncertainties": [
+    "vehicle identities not listed here"
+   ],
+   "plain_english": "And eight vehicles should be drawn."
+  },
+  {
+   "verse": 3185,
+   "rows": [
+    {
+     "surface": "daśahastapramāṇaṃ",
+     "gloss": "ten-hasta-measure",
+     "grounds": "accusative singular neuter compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syānmudrāmaṇḍapaṃ",
+     "gloss": "should-be-mudrā-pavilion",
+     "grounds": "fused syāt plus mudrāmaṇḍapam",
+     "morph": "3.sg.opt+nom.sg.n"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What size and quality are prescribed for the mudrā pavilion?",
+   "premises": [
+    "daśahastapramāṇaṃ means ten hasta measure",
+    "syānmudrāmaṇḍapaṃ means should be mudrā pavilion",
+    "śubham means auspicious"
+   ],
+   "inference": "The mudrā pavilion should be ten hastas and auspicious.",
+   "uncertainties": [
+    "hasta length unspecified"
+   ],
+   "plain_english": "But the auspicious mudrā pavilion should be ten hastas."
+  },
+  {
+   "verse": 3186,
+   "rows": [
+    {
+     "surface": "grāmapurādestu",
+     "gloss": "from-village-town-etc",
+     "grounds": "ablative singular compound plus tu",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "sandhiṣvapi",
+     "gloss": "at-junctions-too",
+     "grounds": "locative plural plus api",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "Where should ritual elements be placed around village and town?",
+   "premises": [
+    "grāmapurādestu means from village town etc",
+    "dikṣu means in directions",
+    "sandhiṣvapi means at junctions too",
+    "kramāt means in order"
+   ],
+   "inference": "They should be placed in directions and at junctions in order.",
+   "uncertainties": [
+    "exact elements unspecified"
+   ],
+   "plain_english": "From village and town, in directions and at junctions, in order."
+  },
+  {
+   "verse": 3187,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tūryādinirghoṣaiḥ",
+     "gloss": "with-trumpet-etc-noise",
+     "grounds": "instrumental plural compound",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "geyanṛttādimaṅgalaiḥ",
+     "gloss": "with-song-dance-etc-auspicious",
+     "grounds": "instrumental plural compound",
+     "morph": "instr.pl.n"
+    }
+   ],
+   "question": "What accompaniments should accompany the ritual procession?",
+   "premises": [
+    "tūryādinirghoṣaiḥ means trumpet noise",
+    "geyanṛttādimaṅgalaiḥ means song dance auspicious rites"
+   ],
+   "inference": "Trumpet noise and song-dance auspicious rites should accompany it.",
+   "uncertainties": [
+    "full list of instruments omitted"
+   ],
+   "plain_english": "Then with trumpet noise and song, dance, and auspicious rites."
+  },
+  {
+   "verse": 3188,
+   "rows": [
+    {
+     "surface": "sadadhyājyaṃ",
+     "gloss": "with-ghee-offering",
+     "grounds": "accusative singular neuter compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "māṃsapratinidhiplutam",
+     "gloss": "meat-substitute-soaked",
+     "grounds": "accusative singular neuter compound",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What offering substance is to be soaked and presented?",
+   "premises": [
+    "sadadhyājyaṃ means with ghee offering",
+    "māṃsapratinidhiplutam means meat substitute soaked"
+   ],
+   "inference": "A ghee offering soaked with meat substitute is presented.",
+   "uncertainties": [
+    "substitute substance unspecified"
+   ],
+   "plain_english": "With ghee offering soaked in meat substitute."
+  },
+  {
+   "verse": 3189,
+   "rows": [
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "lokeśebhyo",
+     "gloss": "to-world-lords",
+     "grounds": "dative plural",
+     "morph": "dat.pl.m"
+    },
+    {
+     "surface": "yathāpuram",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom should offerings be made in the directions?",
+   "premises": [
+    "dikṣu means in directions",
+    "lokeśebhyo means to world lords",
+    "yathāpuram means as before"
+   ],
+   "inference": "Offerings should be made to the world lords in the directions as before.",
+   "uncertainties": [
+    "identity of world lords contextual"
+   ],
+   "plain_english": "In directions to the world lords, as before."
+  },
+  {
+   "verse": 3190,
+   "rows": [
+    {
+     "surface": "rājamukhyālayeṣu",
+     "gloss": "in-king-chief-residences",
+     "grounds": "locative plural compound",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what residences should ritual scattering also occur?",
+   "premises": [
+    "rājamukhyālayeṣu means king chief residences",
+    "ca means and"
+   ],
+   "inference": "Ritual scattering should also occur in king and chief residences.",
+   "uncertainties": [
+    "exact scattering substance omitted"
+   ],
+   "plain_english": "And in the residences of kings and chiefs."
+  },
+  {
+   "verse": 3191,
+   "rows": [
+    {
+     "surface": "kūpārāmataṭākeṣu",
+     "gloss": "at-wells-gardens-lakes",
+     "grounds": "locative plural compound",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "vane",
+     "gloss": "in-forest",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pitṛvaneṣu",
+     "gloss": "in-pitṛ-forest",
+     "grounds": "locative plural compound",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At what additional sites should ritual scattering occur?",
+   "premises": [
+    "kūpārāmataṭākeṣu means wells gardens lakes",
+    "vane means forest",
+    "pitṛvaneṣu means pitṛ forests"
+   ],
+   "inference": "Scattering should also occur at wells, gardens, lakes, forests, and pitṛ forests.",
+   "uncertainties": [
+    "scattering substance unspecified"
+   ],
+   "plain_english": "At wells, gardens, lakes, forests, and pitṛ forests."
+  },
+  {
+   "verse": 3192,
+   "rows": [
+    {
+     "surface": "vikiret",
+     "gloss": "should-scatter",
+     "grounds": "optative third singular root vikir",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balidānādanantaram",
+     "gloss": "after-bali-offering",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should the scattering take place relative to bali offering?",
+   "premises": [
+    "vikiret means should scatter",
+    "balidānādanantaram means after bali offering"
+   ],
+   "inference": "Scattering should take place after the bali offering.",
+   "uncertainties": [
+    "scattered material unspecified"
+   ],
+   "plain_english": "And indeed scatter after the bali offering."
+  },
+  {
+   "verse": 3193,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yātrāṃ",
+     "gloss": "procession",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "of-goddess",
+     "grounds": "genitive singular feminine",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "pravartayet",
+     "gloss": "should-start",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What procession should be started there for the goddess?",
+   "premises": [
+    "tat tatra means that there",
+    "yātrāṃ means procession",
+    "devyāḥ means of goddess",
+    "pravartayet means should start"
+   ],
+   "inference": "The goddess's procession should be started there.",
+   "uncertainties": [
+    "procession route unspecified"
+   ],
+   "plain_english": "There the goddess's procession should be started."
+  },
+  {
+   "verse": 3194,
+   "rows": [
+    {
+     "surface": "śaṅkhabheryādinirghoṣaiḥ",
+     "gloss": "with-conch-drum-etc-noise",
+     "grounds": "instrumental plural compound",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "vitānacchatracāmaraiḥ",
+     "gloss": "with-canopy-umbrella-chowrie",
+     "grounds": "instrumental plural compound",
+     "morph": "instr.pl.n"
+    }
+   ],
+   "question": "What ceremonial accompaniments should adorn the goddess procession?",
+   "premises": [
+    "śaṅkhabheryādinirghoṣaiḥ means conch drum noise",
+    "vitānacchatracāmaraiḥ means canopy umbrella chowrie"
+   ],
+   "inference": "The procession should be accompanied by conch and drum noise and canopy, umbrella, and chowrie.",
+   "uncertainties": [
+    "full instrument list omitted"
+   ],
+   "plain_english": "With conch, drum, and other noise, canopy, umbrella, and chowrie."
+  },
+  {
+   "verse": 3195,
+   "rows": [
+    {
+     "surface": "subhaṭairvīrairbhūṣitaiḥ",
+     "gloss": "with-good-warriors-heroes-adorned",
+     "grounds": "instrumental plural compound",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "khaḍgapāṇibhiḥ",
+     "gloss": "with-sword-handed",
+     "grounds": "instrumental plural compound",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "What armed attendants should accompany the goddess procession?",
+   "premises": [
+    "subhaṭairvīrairbhūṣitaiḥ means good warriors heroes adorned",
+    "khaḍgapāṇibhiḥ means sword handed"
+   ],
+   "inference": "Adorned good warriors and heroes with swords in hand should accompany it.",
+   "uncertainties": [
+    "number of attendants unspecified"
+   ],
+   "plain_english": "With adorned good warriors and heroes, sword in hand."
+  },
+  {
+   "verse": 3196,
+   "rows": [
+    {
+     "surface": "piṣṭapaśūn",
+     "gloss": "flour-animals",
+     "grounds": "accusative plural masculine compound",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "viśasya",
+     "gloss": "having-sacrificed",
+     "grounds": "gerund",
+     "morph": "ger."
+    },
+    {
+     "surface": "vinivedayet",
+     "gloss": "should-offer",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What flour animals should be sacrificed and offered?",
+   "premises": [
+    "piṣṭapaśūn means flour animals",
+    "viśasya means having sacrificed",
+    "vinivedayet means should offer"
+   ],
+   "inference": "Flour animals should be sacrificed and offered.",
+   "uncertainties": [
+    "offering recipient contextual"
+   ],
+   "plain_english": "Having sacrificed flour animals, one should offer them."
+  },
+  {
+   "verse": 3197,
+   "rows": [
+    {
+     "surface": "saṅgītaramyaṃ",
+     "gloss": "music-pleasant",
+     "grounds": "accusative singular neuter compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tanmaṇḍape",
+     "gloss": "in-that-pavilion",
+     "grounds": "locative singular compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "astrasya",
+     "gloss": "of-weapon",
+     "grounds": "genitive singular neuter",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where should pleasant music be performed during this rite?",
+   "premises": [
+    "saṅgītaramyaṃ means pleasant music",
+    "tanmaṇḍape means in that pavilion",
+    "astrasya sannidhau means in presence of weapon"
+   ],
+   "inference": "Pleasant music should be performed in that pavilion in the presence of the weapon.",
+   "uncertainties": [
+    "weapon identity contextual"
+   ],
+   "plain_english": "Pleasant music in that pavilion in the presence of the weapon."
+  },
+  {
+   "verse": 3198,
+   "rows": [
+    {
+     "surface": "pratiniśaṃ",
+     "gloss": "every-night",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maunabaliṃ",
+     "gloss": "silent-offering",
+     "grounds": "accusative singular masculine compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-throw",
+     "grounds": "optative third singular root kṣip",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What nightly offering should be made in silence?",
+   "premises": [
+    "pratiniśaṃ means every night",
+    "maunabaliṃ means silent offering",
+    "kṣipet means should throw"
+   ],
+   "inference": "Every night a silent offering should be thrown.",
+   "uncertainties": [
+    "offering contents unspecified"
+   ],
+   "plain_english": "Thus every night one should throw a silent offering."
+  },
+  {
+   "verse": 3199,
+   "rows": [
+    {
+     "surface": "viprasya",
+     "gloss": "of-brāhmaṇa",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "hariṇaḥ",
+     "gloss": "deer",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "nṛpateḥ",
+     "gloss": "of-king",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "gajaḥ",
+     "gloss": "elephant",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What vehicles are associated with brahmin and king in this list?",
+   "premises": [
+    "viprasya means of brahmin",
+    "hariṇaḥ means deer",
+    "nṛpateḥ means of king",
+    "gajaḥ means elephant"
+   ],
+   "inference": "The brahmin is associated with deer and the king with elephant.",
+   "uncertainties": [
+    "list may continue beyond these"
+   ],
+   "plain_english": "Of the brahmin a deer, of the king an elephant."
+  }
+ ]
+}

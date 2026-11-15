@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[labdha-bodha-udayā](labdhabodhodayā) [nandaṃ](nandaṃ) [vande](vande) [saṃsthānam](saṃsthānam) [ātmanaḥ](ātmanaḥ)
+[awakened-knowledge-rise](labdhabodhodayā) [joy](nandaṃ) [I-bow](vande) [abode-self](saṃsthānamātmanaḥ)
 
 ## mukta-m0-p01-v2
-[gṛhyate](gṛhyate) [pañcabhiḥ](pañcabhistaśca) [taśca](taśca) [cakṣurādi](cakṣurādi) [bhirindriyaiḥ](bhirindriyaiḥ)
+[is-grasped](gṛhyate) [by-five](pañcabhistaśca) [eye-etc](cakṣurādi) [by-senses](bhirindriyaiḥ)
 
 ## mukta-m0-p01-v3
-[tat-pralīnaṃ](tatpralīnaṃ) [bhavet](bhavettasya) [tasya](tasya) [yasya](yasya) [sarvaṃ](sarvaṃ) [pralīyate](pralīyate)
+[dissolved-that](tatpralīnaṃ) [becomes](bhavettasya) [whose](yasya) [all](sarvaṃ) [dissolves](pralīyate)
 
 ## mukta-m0-p01-v4
-[tad-āgama](tadāgama) [mayā](mayādbhraṃśa) [dbhraṃśa](dbhraṃśa) [bhayāt](bhayāt) [sṛṣṭī](sṛṣṭī) [kṛte](kṛte) [mayā](mayā)
+[that-arrival](tadāgama) [from-me](mayādbhraṃśa) [from-fear](bhayāt) [creation](sṛṣṭī) [made](kṛte) [by-me](mayā)
 
 ## mukta-m0-p01-v5
-[yastuto](yastuto) [na](na) [tatāḥ](tatāssanti) [santi](santi) [niścityai](niścityai) [tacchamaṃ](tacchamaṃ) [vrajet](vrajet)
+[who-thus](yastuto) [not](na) [those](tatāssanti) [ascertaining](niścityai) [that-peace](tacchamaṃ) [let-go](vrajet)
 
 ## mukta-m0-p01-v6
-[na](nābudbudo) [budbuda](budbudo) [na](na) [peṣaṃ](peṣaṃ) [vāna](vāna) [śarīre](śarīre) [kvacit](kvacit) [sthitam](sthitam)
+[not-bubble](nābudbudo) [not-crush](na) [or](peṣaṃ) [not](vāna) [body](śarīre) [anywhere](kvacit) [stands](sthitam)
 
 ## mukta-m0-p01-v7
-[kṣaya](kṣāya?kṣayivināśāntaṃ) [vināśa-antaṃ](vināśāntaṃ) [taśca](taśca) [na-eva](naivopalabhyate) [upalabhyate](upalabhyate)
+[decay](kṣāya) [decay-destruction-end](kṣayivināśāntaṃ) [and](taśca) [not-indeed](naivopalabhyate)
 
 ## mukta-m0-p01-v8
-[pṛthak](pṛthak) [sarvaṃ](sarvaṃ) [yathā](yathā) [dṛṣṭaṃ](dṛṣṭaṃ) [kva](kvaśarīre) [śarīre](śarīre) [manaḥ](mana) [sthitam](sthitam)
+[separate](pṛthak) [all](sarvaṃ) [as-seen](yathā) [where-body](kvaśarīre) [mind](mana) [stands](sthitam)
 
 ## mukta-m0-p01-v9
-[na](na) [ca](ca) [sā](sā) [vastuto](vastuto) [yuktyā](yuktyā) [kasya](kasya) [ced](cedvā) [vā](vā) [vabhāsate](vabhāsate)
+[not](na) [and](ca) [that](sā) [truly](vastuto) [by-reason](yuktyā) [of-anyone](kasya) [or](cedvā) [shines](vabhāsate)
 
 ## mukta-m0-p01-v10
-[guṇī](guṇī) [yadi](yadi) [bhavet](bhavet) [kaścid](kaścid) [bhavanti](bhavanti) [vahavaḥ](vahavo) [guṇāḥ](guṇāḥ)
+[qualified](guṇī) [if](yadi) [becomes](bhavet) [someone](kaścid) [become](bhavanti) [many](vahavo) [qualities](guṇāḥ)
 
 ## mukta-m0-p01-v11
-[cañcalaṃ](cañcalaṃ) [manasaḥ](manaso) [rūpaṃ](rūpaṃ) [niścityai](niścityai) [tat](tannibodhayet) [nibodhayet](nibodhayet)
+[restless](cañcalaṃ) [mind](manaso) [form](rūpaṃ) [ascertaining](niścityai) [that](tannibodhayet)
 
 ## mukta-m0-p01-v12
-[ayatnena](ayatnena) [nirodhaḥ](nirodhoyamasmābhirupadiśyate) [ayam](ayam) [asmābhiḥ](asmābhiḥ) [upadiśyate](upadiśyate)
+[without-effort](ayatnena) [cessation](nirodhoyamasmābhirupadiśyate)
 
 ## mukta-m0-p01-v13
-[anyasyā](anyasyā) [grahaṇāt](grahaṇāccittaṃ) [cittaṃ](cittaṃ) [svātmani](svātmanyeva) [eva](eva) [praśāmyati](praśāmyati)
+[other-grasping](anyasyā) [from-grasping](grahaṇāccittaṃ) [in-self](svātmanyeva) [becomes-calm](praśāmyati)
 
 ## mukta-m0-p01-v14
-[tad-āśraya](tadāśraya) [vaśāt](vaśāccittaṃ) [cittaṃ](cittaṃ) [tasmin](tasmin) [kṣīṇe](kṣīṇe) [praśāmyati](praśāmyati)
+[that-refuge](tadāśraya) [by-control](vaśāccittaṃ) [in-that](tasmin) [waned](kṣīṇe) [becomes-calm](praśāmyati)
 
 ## mukta-m0-p01-v15
-[ekāgraṃ](ekāgraṃ) [bhāvayet](bhāvayet) [tāvat](tāvad) [yāvat](yāvallīnaṃ) [līnaṃ](līnaṃ) [nirodha-kṛt](nirodhakṛt)
+[one-pointed](ekāgraṃ) [meditate](bhāvayet) [so-long](tāvad) [until-dissolved](yāvallīnaṃ) [cessation-made](nirodhakṛt)
 
 ## mukta-m0-p01-v16
-[vilīnān](vilīnānnāsmaret) [na](na) [smaret](smaret) [paścāt](paścādātmabhāvopavṛṃhitāḥ) [ātma-bhāva](ātmabhāvopavṛṃhitāḥ) [upavṛṃhitāḥ](upavṛṃhitāḥ)
+[dissolved-not-remember](vilīnānnāsmaret) [afterward](paścādātmabhāvopavṛṃhitāḥ)
 
 ## mukta-m0-p01-v17
-[grahaṇā](grahaṇā) [deva](deva) [pūrvaḥ](pūrvoyamidānīṃ) [ayam](ayam) [idānīṃ](idānīṃ) [saṃpradṛśyate](saṃpradṛśyate)
+[grasping](grahaṇā) [god](deva) [before-this](pūrvoyamidānīṃ) [now](saṃpradṛśyate)
 
 ## mukta-m0-p01-v18
-[pararāga](pararāgātmahāniḥ) [ātma-hāniḥ](ātmahāniḥ) [syāt](syāddveṣasyo) [dveṣasya](dveṣasyo) [upakṣayāt](pakṣayāttathā) [tathā](tathā)
+[other-attachment-self-loss](pararāgātmahāniḥ) [would-be](syāddveṣasyo) [by-hatred](pakṣayāttathā)
 
 ## mukta-m0-p01-v19
-[budhavat](budhavat) [sarva-rāgī](sarvarāgī) [syāt](syāt) [sarva-duṣṭaḥ](sarvaduṣṭaśca) [ca](ca) [bhairavaḥ](bhairavaḥ)
+[wise-like](budhavat) [all-attached](sarvarāgī) [would-be](syāt) [all-wicked](sarvaduṣṭaśca) [bhairava](bhairavaḥ)
 
 ## mukta-m0-p01-v20
-[pralīna-indriya](pralīnendriya) [vṛttiḥ](vṛttistu) [tu](tu) [kevalā](kevalā) [bhyudaya-udayaḥ](bhyudayodayaḥ)
+[dissolved-senses](pralīnendriya) [function](vṛttistu) [only](kevalā) [rise-rise](bhyudayodayaḥ)
 
 ## mukta-m0-p01-v21
-[nistabdha-indriya](nistabdhendriya) [vṛtteḥ](vṛttestu) [tu](tu) [nibodhaḥ](nibodhaḥ) [saṃprajāyate](saṃprajāyate)
+[stilled-senses](nistabdhendriya) [function](vṛttestu) [understanding](nibodhaḥ) [arises](saṃprajāyate)
 
 ## mukta-m0-p01-v22
-[dhyāyate](dhyāyate) [vā](vā) [kim](kimasyāntaḥ) [asya](asya) [antaḥ](antaḥ) [pratyante](pratyante) [kevalaṃ](kevalaṃ) [bhavet](bhavet)
+[meditates](dhyāyate) [or](vā) [what-inside](kimasyāntaḥ) [at-end](pratyante) [only](kevalaṃ) [becomes](bhavet)
 
 ## mukta-m0-p01-v23
-[viṣayā](viṣayā) [grahaṇāt](grahaṇāt) [sarva](sarva) [śirodhaḥ](śirodhaḥ) [saṃprajāyate](saṃprajāyate)
+[objects](viṣayā) [from-grasping](grahaṇāt) [all](sarva) [head](śirodhaḥ) [arises](saṃprajāyate)
 
 ## mukta-m0-p01-v24
-[nissaṅkalpa](nissaṅkalpa) [mano-vṛtteḥ](manovṛtteḥ) [paramātmā](paramātmā) [prakāśate](prakāśate)
+[without-thought](nissaṅkalpa) [mind-function](manovṛtteḥ) [supreme-self](paramātmā) [shines](prakāśate)
 
 ## mukta-m0-p01-v25
-[vicārya](vicāryaivaṃ) [evaṃ](evaṃ) [prayatnena](prayatnena) [nirāgāre](nirāgāre) [praśāmyati](praśāmyati)
+[considering-thus](vicāryaivaṃ) [effort](prayatnena) [without-home](nirāgāre) [becomes-calm](praśāmyati)

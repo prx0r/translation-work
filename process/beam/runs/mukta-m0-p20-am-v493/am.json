@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p20",
  "verse": 493,
- "question": "How should the two hands be made?",
+ "question": "What results are associated with a red girl?",
  "premises": [
-  "face-to-face hands are named",
-  "in cup-shape is stated",
-  "should make is stated"
+  "girl arrival is named",
+  "son is named",
+  "quarrel is named",
+  "red girl is subject"
  ],
- "inference": "the two hands are made face-to-face in cup shape",
+ "inference": "A red girl is associated with girl arrival, son, and quarrel.",
  "uncertainties": [
-  "exact ritual use not stated"
+  "causal relation is compressed"
  ],
- "plain_english": "Make the two hands face-to-face in cup shape."
+ "plain_english": "A red girl brings girl arrival, a son, and quarrel."
 }

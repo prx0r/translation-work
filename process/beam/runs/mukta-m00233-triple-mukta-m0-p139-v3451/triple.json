@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3451,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogo",
+     "gloss": "disease",
+     "grounds": "nom sg",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāṣṭre",
+     "gloss": "in-kingdom",
+     "grounds": "loc sg",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "3sg present",
+     "morph": "3.sg.act-pres (root bhū)"
+    },
+    {
+     "surface": "śāntaye",
+     "gloss": "for-peace",
+     "grounds": "dat sg",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What condition is said to arise in a kingdom without disease for peace?",
+   "premises": [
+    "disease absence precedes peace",
+    "kingdom is the locus",
+    "becoming marks the result"
+   ],
+   "inference": "A kingdom without disease becomes peaceful.",
+   "uncertainties": [
+    "exact ritual context unclear"
+   ],
+   "plain_english": "Without disease, a kingdom becomes peaceful."
+  },
+  {
+   "verse": 3452,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāṣṭraṃ",
+     "gloss": "kingdom",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jalābhāvena",
+     "gloss": "by-water-absence",
+     "grounds": "inst sg compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pīḍyate",
+     "gloss": "is-afflicted",
+     "grounds": "3sg passive",
+     "morph": "3.sg.pass-pres (root pīḍ)"
+    }
+   ],
+   "question": "What afflicts a kingdom when water is absent?",
+   "premises": [
+    "water absence is cause",
+    "kingdom is affected",
+    "passive verb marks affliction"
+   ],
+   "inference": "A kingdom is afflicted by lack of water.",
+   "uncertainties": [
+    "scope of kingdom unclear"
+   ],
+   "plain_english": "A kingdom is afflicted by absence of water."
+  },
+  {
+   "verse": 3453,
+   "rows": [
+    {
+     "surface": "dhvajāvarohaṇe",
+     "gloss": "during-flag-lowering",
+     "grounds": "loc sg",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "deficient",
+     "grounds": "loc sg adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pīḍayet",
+     "gloss": "afflicts",
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt (root pīḍ)"
+    },
+    {
+     "surface": "caṇḍamārutaḥ",
+     "gloss": "fierce-wind",
+     "grounds": "nom sg",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fierce wind afflicts when flag lowering is deficient?",
+   "premises": [
+    "flag lowering is ritual step",
+    "deficiency triggers affliction",
+    "fierce wind is agent"
+   ],
+   "inference": "A fierce wind afflicts when flag lowering is deficient.",
+   "uncertainties": [
+    "exact flag ritual unclear"
+   ],
+   "plain_english": "A fierce wind afflicts when flag lowering is deficient."
+  },
+  {
+   "verse": 3454,
+   "rows": [
+    {
+     "surface": "utsavāvāhitānāṃ",
+     "gloss": "during-festival-arrival",
+     "grounds": "gen pl participle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇānām",
+     "gloss": "of-groups",
+     "grounds": "gen pl",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "avisarjane",
+     "gloss": "non-dismissal",
+     "grounds": "loc sg",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What happens when festival-arrived groups are not dismissed?",
+   "premises": [
+    "groups arrive for festival",
+    "non-dismissal is fault",
+    "groups are plural"
+   ],
+   "inference": "Non-dismissal of festival-arrived groups is a fault.",
+   "uncertainties": [
+    "consequence not stated"
+   ],
+   "plain_english": "Festival-arrived groups must not be left undismissed."
+  },
+  {
+   "verse": 3455,
+   "rows": [
+    {
+     "surface": "gaṇān",
+     "gloss": "groups",
+     "grounds": "acc pl",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "acc pl",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "abhipūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "abs (root pūj)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "dismiss",
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt (root visṛj)"
+    }
+   ],
+   "question": "How should all groups be treated before dismissal?",
+   "premises": [
+    "all groups are object",
+    "worship precedes dismissal",
+    "optative gives instruction"
+   ],
+   "inference": "One should worship all groups then dismiss them.",
+   "uncertainties": [
+    "ritual context implied"
+   ],
+   "plain_english": "Worship all groups, then dismiss them."
+  },
+  {
+   "verse": 3456,
+   "rows": [
+    {
+     "surface": "yānāde",
+     "gloss": "by-vehicle-beginning",
+     "grounds": "inst sg",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "rājarāṣṭrādināśakṛt",
+     "gloss": "kingdom-etc-destruction-maker",
+     "grounds": "nom sg compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is said to destroy kingdom and related things by vehicle beginning?",
+   "premises": [
+    "vehicle beginning is cause",
+    "destruction maker is agent",
+    "kingdom etc are affected"
+   ],
+   "inference": "A vehicle-beginning destruction-maker destroys kingdom and related things.",
+   "uncertainties": [
+    "exact vehicle unclear"
+   ],
+   "plain_english": "A vehicle-beginning agent destroys kingdom and related things."
+  },
+  {
+   "verse": 3457,
+   "rows": [
+    {
+     "surface": "saṃveṣṭya",
+     "gloss": "having-wrapped",
+     "grounds": "absolutive",
+     "morph": "abs (root veṣṭ)"
+    },
+    {
+     "surface": "samālipya",
+     "gloss": "having-anointed",
+     "grounds": "absolutive",
+     "morph": "abs (root ālip)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat sthalam",
+     "gloss": "that-place",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be done to that place before further rite?",
+   "premises": [
+    "wrapping is preparatory",
+    "anointing is preparatory",
+    "that place is object"
+   ],
+   "inference": "That place should be wrapped and anointed.",
+   "uncertainties": [
+    "substance unspecified"
+   ],
+   "plain_english": "Wrap and anoint that place."
+  },
+  {
+   "verse": 3458,
+   "rows": [
+    {
+     "surface": "beraṃ",
+     "gloss": "icon",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "loc adv",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "inst sg",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt (root arc)"
+    }
+   ],
+   "question": "Where and how should the icon be worshipped?",
+   "premises": [
+    "icon is object",
+    "there itself is location",
+    "rite is means"
+   ],
+   "inference": "One should worship the icon there itself by rite.",
+   "uncertainties": [
+    "rite details elsewhere"
+   ],
+   "plain_english": "Worship the icon there itself by rite."
+  },
+  {
+   "verse": 3459,
+   "rows": [
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "abs (root nivid)"
+    },
+    {
+     "surface": "ātrāgnimādhāya",
+     "gloss": "procession-fire-having-kindled",
+     "grounds": "absolutive compound",
+     "morph": "abs"
+    },
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "loc sg",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nāmāntasaṃskṛte",
+     "gloss": "name-ending-purified",
+     "grounds": "loc sg",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What should be done after offering and kindling procession fire?",
+   "premises": [
+    "offering is preparatory",
+    "procession fire is kindled",
+    "east and purified name-ending are loci"
+   ],
+   "inference": "After offering and kindling procession fire, act in east with purified name-ending.",
+   "uncertainties": [
+    "exact action omitted"
+   ],
+   "plain_english": "Having offered and kindled procession fire, proceed in the east with purified name-ending."
+  },
+  {
+   "verse": 3460,
+   "rows": [
+    {
+     "surface": "sadyāntairgāyattryā",
+     "gloss": "with-recent-ones",
+     "grounds": "inst sg compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śvetasarṣapaiḥ",
+     "gloss": "with-white-mustard",
+     "grounds": "inst pl",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "With what substances is the recent gāyatrī rite performed?",
+   "premises": [
+    "recent ones are means",
+    "gāyatrī is mantra",
+    "white mustard is substance"
+   ],
+   "inference": "The recent gāyatrī rite uses white mustard.",
+   "uncertainties": [
+    "full ritual sequence unclear"
+   ],
+   "plain_english": "Perform with recent gāyatrī and white mustard."
+  },
+  {
+   "verse": 3461,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "abs (root hu)"
+    },
+    {
+     "surface": "athā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhāraśaktyādimantraiś",
+     "gloss": "support-power-etc-mantras",
+     "grounds": "inst pl",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "digīśvaraiḥ",
+     "gloss": "quarter-lords",
+     "grounds": "inst pl",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What mantras and lords are used after offering?",
+   "premises": [
+    "offering is first",
+    "support power etc mantras follow",
+    "quarter lords are included"
+   ],
+   "inference": "After offering, use support-power mantras and quarter lords.",
+   "uncertainties": [
+    "exact count unclear"
+   ],
+   "plain_english": "After offering, use support-power mantras and quarter lords."
+  },
+  {
+   "verse": 3462,
+   "rows": [
+    {
+     "surface": "tilājyābhyāṃ",
+     "gloss": "with-sesame-ghee",
+     "grounds": "inst dual",
+     "morph": "n.inst.du"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "abs (root hu)"
+    },
+    {
+     "surface": "jayādiṃ",
+     "gloss": "victory-etc",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niṣkṛtiṃ",
+     "gloss": "expiation",
+     "grounds": "acc sg",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings and expiation follow the hundred oblations?",
+   "premises": [
+    "sesame ghee is substance",
+    "hundred oblations are made",
+    "victory etc and expiation follow"
+   ],
+   "inference": "After hundred oblations with sesame ghee, perform victory etc and expiation.",
+   "uncertainties": [
+    "exact jayādi list unclear"
+   ],
+   "plain_english": "Offer hundred oblations with sesame ghee, then victory etc and expiation."
+  },
+  {
+   "verse": 3463,
+   "rows": [
+    {
+     "surface": "gajo",
+     "gloss": "elephant",
+     "grounds": "nom sg",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hiraṇyaṃ",
+     "gloss": "gold",
+     "grounds": "nom/acc sg",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahiṣyo",
+     "gloss": "buffaloes",
+     "grounds": "nom pl",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mahiṣānvitāḥ",
+     "gloss": "with-buffalo",
+     "grounds": "nom pl",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What gifts are declared in order for this rite?",
+   "premises": [
+    "elephant is gift",
+    "gold is gift",
+    "buffaloes with buffalo are gifts"
+   ],
+   "inference": "Elephant, gold, and buffaloes with buffalo are declared gifts.",
+   "uncertainties": [
+    "dakṣiṇā context implied"
+   ],
+   "plain_english": "Gifts include elephant, gold, and buffaloes with buffalo."
+  },
+  {
+   "verse": 3464,
+   "rows": [
+    {
+     "surface": "rūpyaṃ",
+     "gloss": "silver",
+     "grounds": "nom/acc sg",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāḥ",
+     "gloss": "gifts",
+     "grounds": "nom pl",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kathitāḥ",
+     "gloss": "declared",
+     "grounds": "nom pl participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "abl sg",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What further gifts are declared in order?",
+   "premises": [
+    "silver is gift",
+    "gifts are declared",
+    "order is specified"
+   ],
+   "inference": "Silver and other gifts are declared in order.",
+   "uncertainties": [
+    "full list not in this verse"
+   ],
+   "plain_english": "Silver and gifts are declared in order."
+  },
+  {
+   "verse": 3465,
+   "rows": [
+    {
+     "surface": "patitaṃ",
+     "gloss": "fallen",
+     "grounds": "nom/acc sg",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhinnaṃ",
+     "gloss": "broken",
+     "grounds": "nom/acc sg",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatroktāt",
+     "gloss": "there-from-declared",
+     "grounds": "abl sg",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturguṇam",
+     "gloss": "fourfold",
+     "grounds": "nom/acc sg",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What penalty applies to fallen or broken declared items?",
+   "premises": [
+    "fallen item is fault",
+    "broken item is fault",
+    "fourfold is penalty"
+   ],
+   "inference": "Fallen or broken declared items incur fourfold penalty.",
+   "uncertainties": [
+    "base amount unclear"
+   ],
+   "plain_english": "Fallen or broken declared items cost fourfold."
+  },
+  {
+   "verse": 3466,
+   "rows": [
+    {
+     "surface": "pratiṣṭhāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive",
+     "morph": "abs (root sthā)"
+    },
+    {
+     "surface": "yātrāśeṣaṃ",
+     "gloss": "procession-remainder",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pravartayet",
+     "gloss": "conduct",
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt (root vṛt)"
+    }
+   ],
+   "question": "What should be conducted after establishing the remainder of procession?",
+   "premises": [
+    "establishment is first",
+    "procession remainder is object",
+    "conduct is instruction"
+   ],
+   "inference": "After establishing, conduct the remainder of procession.",
+   "uncertainties": [
+    "remainder scope unclear"
+   ],
+   "plain_english": "Establish, then conduct the rest of procession."
+  },
+  {
+   "verse": 3467,
+   "rows": [
+    {
+     "surface": "gauravānuguṇena",
+     "gloss": "by-dignity-proportion",
+     "grounds": "inst sg",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what proportion should dignity govern the rite?",
+   "premises": [
+    "dignity is measure",
+    "proportion is means",
+    "but marks qualification"
+   ],
+   "inference": "The rite should follow dignity in proportion.",
+   "uncertainties": [
+    "object omitted"
+   ],
+   "plain_english": "Act according to dignity in proportion."
+  },
+  {
+   "verse": 3468,
+   "rows": [
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "gift",
+     "grounds": "acc sg",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive",
+     "morph": "abs (root dā)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "acc sg",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pravartayet",
+     "gloss": "conduct",
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt (root vṛt)"
+    }
+   ],
+   "question": "What should be conducted after giving gift and worship?",
+   "premises": [
+    "gift is given",
+    "worship is performed",
+    "conduct is instruction"
+   ],
+   "inference": "After giving gift and worship, conduct the rite.",
+   "uncertainties": [
+    "rite unspecified"
+   ],
+   "plain_english": "Give gift and worship, then conduct the rite."
+  },
+  {
+   "verse": 3469,
+   "rows": [
+    {
+     "surface": "liṅge",
+     "gloss": "in-lingam",
+     "grounds": "loc sg",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānuṣe",
+     "gloss": "human",
+     "grounds": "loc sg",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratiṣṭhāmeva",
+     "gloss": "installation-only",
+     "grounds": "acc sg",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause-to-do",
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt (root kṛ)"
+    }
+   ],
+   "question": "When should installation be caused in a human lingam?",
+   "premises": [
+    "lingam is locus",
+    "human is qualifier",
+    "afterwards installation only"
+   ],
+   "inference": "In a human lingam, cause installation afterwards only.",
+   "uncertainties": [
+    "human lingam meaning unclear"
+   ],
+   "plain_english": "For a human lingam, cause installation afterwards only."
+  },
+  {
+   "verse": 3470,
+   "rows": [
+    {
+     "surface": "jīrṇasthāpanamātreṇa",
+     "gloss": "by-worn-establishment-only",
+     "grounds": "inst sg",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "snapayitvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive",
+     "morph": "abs (root snap)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt (root pūj)"
+    }
+   ],
+   "question": "How should worship proceed for a worn establishment?",
+   "premises": [
+    "worn establishment is means",
+    "bathing is preparatory",
+    "worship is instruction"
+   ],
+   "inference": "For a worn establishment, bathe then worship.",
+   "uncertainties": [
+    "establishment type unclear"
+   ],
+   "plain_english": "For a worn establishment, bathe then worship."
+  },
+  {
+   "verse": 3471,
+   "rows": [
+    {
+     "surface": "saṃhitāmantraistatra",
+     "gloss": "with-samhita-mantras",
+     "grounds": "inst pl",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "abs (root hu)"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many oblations are offered there with samhita mantras?",
+   "premises": [
+    "samhita mantras are means",
+    "offering is action",
+    "hundred and hundred are counts"
+   ],
+   "inference": "Offer hundred and hundred oblations there with samhita mantras.",
+   "uncertainties": [
+    "whether two separate hundreds"
+   ],
+   "plain_english": "Offer hundred and hundred oblations there with samhita mantras."
+  },
+  {
+   "verse": 3472,
+   "rows": [
+    {
+     "surface": "snapanārthaṃ",
+     "gloss": "for-bathing",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalaśe",
+     "gloss": "in-pot",
+     "grounds": "loc sg",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kalaśeṣu",
+     "gloss": "in-pots",
+     "grounds": "loc pl",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should bathing be performed for this rite?",
+   "premises": [
+    "bathing is purpose",
+    "pot is option",
+    "pots are option"
+   ],
+   "inference": "Bathing is done in a pot or pots.",
+   "uncertainties": [
+    "exact bathing rite unclear"
+   ],
+   "plain_english": "For bathing, use a pot or pots."
+  },
+  {
+   "verse": 3473,
+   "rows": [
+    {
+     "surface": "astreṇājyaśataṃ",
+     "gloss": "with-weapon",
+     "grounds": "inst sg compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "hundred-ghee",
+     "grounds": "absolutive",
+     "morph": "abs (root hu)"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "having-offered",
+     "grounds": "loc pl",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "saṃpātayed",
+     "gloss": "in-them",
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt (root sampat)"
+    },
+    {
+     "surface": "ghṛtam",
+     "gloss": "pour",
+     "grounds": "acc sg",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be poured into them after offering weapon ghee?",
+   "premises": [
+    "weapon ghee is offered",
+    "them are recipients",
+    "ghee is poured"
+   ],
+   "inference": "After offering weapon ghee, pour ghee into them.",
+   "uncertainties": [
+    "weapon mantra unclear"
+   ],
+   "plain_english": "Offer weapon ghee, then pour ghee into them."
+  },
+  {
+   "verse": 3474,
+   "rows": [
+    {
+     "surface": "prāṅgaṇe",
+     "gloss": "in-courtyard",
+     "grounds": "loc sg",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛte",
+     "gloss": "dead",
+     "grounds": "loc sg",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudhirakṣate",
+     "gloss": "blood-wound",
+     "grounds": "loc sg",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where or in what condition does this rite apply?",
+   "premises": [
+    "courtyard is location",
+    "dead is condition",
+    "blood wound is condition"
+   ],
+   "inference": "The rite applies in courtyard, or for dead, or for blood wound.",
+   "uncertainties": [
+    "exact rite unspecified"
+   ],
+   "plain_english": "Apply in courtyard, or for dead, or for blood wound."
+  }
+ ]
+}

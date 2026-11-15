@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3367,
- "question": "Which weapons of the goddess should be worshipped around her?",
+ "question": "How should the wooden pegs be prepared?",
  "premises": [
-  "The next step follows in sequence.",
-  "Arrows, bow, noose, and goad are named.",
-  "These are to be worshipped around the central figure."
+  "The pegs are wooden.",
+  "Their mouths face downward.",
+  "They are wrapped with red thread."
  ],
- "inference": "One should worship the arrows, bow, noose, and goad around her.",
- "uncertainties": [],
- "plain_english": "Then one should worship the arrows, bow, noose, and goad around her."
+ "inference": "The wooden pegs should have downward mouths and be wrapped with red thread.",
+ "uncertainties": [
+  "The number of pegs is not stated."
+ ],
+ "plain_english": "Wooden pegs with downward mouths, wrapped with red thread."
 }

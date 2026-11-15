@@ -1,0 +1,1001 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3301,
+   "rows": [
+    {
+     "surface": "kaṇiśapuñjaṃ",
+     "gloss": "grain-heap",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "iṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rite",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preliminary act is performed with a heap of grain before worship according to rite?",
+   "premises": [
+    "A grain heap is placed.",
+    "Worship is performed according to rite."
+   ],
+   "inference": "The rite begins by placing grain and then worshipping.",
+   "uncertainties": [
+    "Exact ritual sequence beyond placement is not specified."
+   ],
+   "plain_english": "Place a heap of grain and worship according to rite."
+  },
+  {
+   "verse": 3302,
+   "rows": [
+    {
+     "surface": "suvilipte",
+     "gloss": "well-smeared",
+     "grounds": "adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhāgāre",
+     "gloss": "store-room",
+     "grounds": "compound noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svalaṅkṛte",
+     "gloss": "well-adorned",
+     "grounds": "adjective",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the store-room prepared for this rite?",
+   "premises": [
+    "The store-room is well smeared.",
+    "The store-room is well adorned."
+   ],
+   "inference": "The ritual store-room must be both smeared and adorned.",
+   "uncertainties": [
+    "Specific materials for smearing are not named."
+   ],
+   "plain_english": "In a well-smeared and well-adorned store-room."
+  },
+  {
+   "verse": 3303,
+   "rows": [
+    {
+     "surface": "tadaṃśe",
+     "gloss": "in-that-portion",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udvele",
+     "gloss": "raised",
+     "grounds": "adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "varuṇālaye",
+     "gloss": "water-abode",
+     "grounds": "compound noun",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What raised water-abode is prepared in that portion?",
+   "premises": [
+    "A portion is specified.",
+    "A raised water-abode is included."
+   ],
+   "inference": "The rite includes a raised water-abode in the designated portion.",
+   "uncertainties": [
+    "The exact function of the water-abode is not stated."
+   ],
+   "plain_english": "In that portion, also a raised water-abode."
+  },
+  {
+   "verse": 3304,
+   "rows": [
+    {
+     "surface": "sendravallīlatābaddhaiḥ",
+     "gloss": "with-indra-creeper-vines-bound",
+     "grounds": "compound adjective",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "alaṅkṛtya",
+     "gloss": "having-adorned",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ālayādikam",
+     "gloss": "house-and-so-forth",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the house and related structures adorned?",
+   "premises": [
+    "Indra-creeper vines bind the adornment.",
+    "The house and so forth are adorned."
+   ],
+   "inference": "The ritual space is adorned with bound creeper vines.",
+   "uncertainties": [
+    "Which structures beyond the house are included is unspecified."
+   ],
+   "plain_english": "Having adorned the house and so forth with bound Indra-creeper vines."
+  },
+  {
+   "verse": 3305,
+   "rows": [
+    {
+     "surface": "svalaṅkṛtābhiḥ",
+     "gloss": "well-adorned",
+     "grounds": "adjective",
+     "morph": "n.inst.pl.f"
+    },
+    {
+     "surface": "yoṣidbhiḥ",
+     "gloss": "women",
+     "grounds": "noun",
+     "morph": "n.inst.pl.f"
+    },
+    {
+     "surface": "saṃsādhyamān",
+     "gloss": "being-prepared",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "sutaṇḍulān",
+     "gloss": "good-rice",
+     "grounds": "adjective noun",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "Who prepares the good rice for the rite?",
+   "premises": [
+    "Well-adorned women are involved.",
+    "Good rice is being prepared."
+   ],
+   "inference": "Well-adorned women prepare the good rice.",
+   "uncertainties": [
+    "Their exact ritual role is not specified."
+   ],
+   "plain_english": "Good rice is being prepared by well-adorned women."
+  },
+  {
+   "verse": 3306,
+   "rows": [
+    {
+     "surface": "navākṣatāṃś",
+     "gloss": "new-grains",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṣālya",
+     "gloss": "having-washed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "dhavalān",
+     "gloss": "white-ones",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "astramantrataḥ",
+     "gloss": "with-mantra",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the new white grains washed and consecrated?",
+   "premises": [
+    "New grains are washed.",
+    "They are washed with mantra."
+   ],
+   "inference": "The new white grains are washed and consecrated by mantra.",
+   "uncertainties": [
+    "The specific mantra is not named."
+   ],
+   "plain_english": "Having washed the new white grains with mantra."
+  },
+  {
+   "verse": 3307,
+   "rows": [
+    {
+     "surface": "samprāpte",
+     "gloss": "having-arrived",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "taṇḍulāṃś",
+     "gloss": "rice",
+     "grounds": "noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navaṃ",
+     "gloss": "new",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caru",
+     "gloss": "oblation",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What new oblation is prepared when the rice has arrived?",
+   "premises": [
+    "Rice has arrived.",
+    "A new oblation is prepared."
+   ],
+   "inference": "The arrival of rice leads to preparation of a new oblation.",
+   "uncertainties": [
+    "The exact cooking or offering method is not stated."
+   ],
+   "plain_english": "When the rice has arrived, a new oblation is prepared."
+  },
+  {
+   "verse": 3308,
+   "rows": [
+    {
+     "surface": "parivārasurebhyaḥ",
+     "gloss": "to-attendant-deities",
+     "grounds": "compound dative",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "noun locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sājyaṃ",
+     "gloss": "with-ghee",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "juhoti",
+     "gloss": "he-offers",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom and with what is the offering made in fire?",
+   "premises": [
+    "Attendant deities receive the offering.",
+    "The offering is made in fire with ghee."
+   ],
+   "inference": "The officiant offers ghee-laden oblation in fire to attendant deities.",
+   "uncertainties": [
+    "The exact attendant deities are not enumerated."
+   ],
+   "plain_english": "He also offers in fire with ghee to the attendant deities."
+  },
+  {
+   "verse": 3309,
+   "rows": [
+    {
+     "surface": "taṇḍulaiḥ",
+     "gloss": "with-rice",
+     "grounds": "noun instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navānnena",
+     "gloss": "with-new-food",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṣadhībhyaḥ",
+     "gloss": "to-herbs",
+     "grounds": "noun dative",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "svanāmataḥ",
+     "gloss": "by-own-name",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are rice and new food offered to the herbs?",
+   "premises": [
+    "Rice and new food are used.",
+    "The herbs are addressed by their own names."
+   ],
+   "inference": "Rice and new food are offered to herbs by their own names.",
+   "uncertainties": [
+    "The list of herbs is not given."
+   ],
+   "plain_english": "With rice and new food, to the herbs by their own names."
+  },
+  {
+   "verse": 3310,
+   "rows": [
+    {
+     "surface": "taccheṣataṇḍulān",
+     "gloss": "those-remaining-rice",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "he-should-give",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nṛpādibhyo",
+     "gloss": "to-kings-and-so-forth",
+     "grounds": "compound dative",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom should the remaining rice be given?",
+   "premises": [
+    "Remaining rice is distributed.",
+    "Kings and others receive it in order."
+   ],
+   "inference": "The leftover rice is given to kings and others in proper order.",
+   "uncertainties": [
+    "The full recipient list is not specified."
+   ],
+   "plain_english": "He should give the remaining rice to kings and others in order."
+  },
+  {
+   "verse": 3311,
+   "rows": [
+    {
+     "surface": "parivārebhyaḥ",
+     "gloss": "to-attendants",
+     "grounds": "noun dative",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtabaliṃ",
+     "gloss": "spirit-offering",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "he-should-cast",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What offering is cast to the attendants after distribution?",
+   "premises": [
+    "Distribution has occurred.",
+    "A spirit-offering is cast to attendants."
+   ],
+   "inference": "After distribution, a spirit-offering is cast to the attendants.",
+   "uncertainties": [
+    "The exact recipients among attendants are not named."
+   ],
+   "plain_english": "Then he should cast a spirit-offering to the attendants."
+  },
+  {
+   "verse": 3312,
+   "rows": [
+    {
+     "surface": "dīpotsavaṃ",
+     "gloss": "lamp-festival",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śambhor",
+     "gloss": "of-śambhu",
+     "grounds": "noun genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "pronoun genitive",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asuradviṣām",
+     "gloss": "of-demon-foes",
+     "grounds": "compound genitive",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "Whose lamp festival is being described?",
+   "premises": [
+    "The lamp festival belongs to Śambhu.",
+    "It also belongs to other demon-foes."
+   ],
+   "inference": "The lamp festival is for Śambhu and other demon-foes.",
+   "uncertainties": [
+    "The full list of demon-foes is not given."
+   ],
+   "plain_english": "The lamp festival of Śambhu and other demon-foes."
+  },
+  {
+   "verse": 3313,
+   "rows": [
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "uttaraphalgunyāṃ",
+     "gloss": "on-uttara-phalgunī",
+     "grounds": "noun locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viṣuve",
+     "gloss": "at-equinox",
+     "grounds": "noun locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayanadvaye",
+     "gloss": "at-two-ayanās",
+     "grounds": "compound locative",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "When is the lamp festival declared to be performed?",
+   "premises": [
+    "It is declared for Uttara Phalgunī.",
+    "It is also declared for equinox and two ayanās."
+   ],
+   "inference": "The lamp festival is declared for Uttara Phalgunī, equinox, and both ayanās.",
+   "uncertainties": [
+    "Whether all occasions are mandatory is not stated."
+   ],
+   "plain_english": "It is declared for Uttara Phalgunī, equinox, and both ayanās."
+  },
+  {
+   "verse": 3314,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "he-should-do",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mahotsavadineṣu",
+     "gloss": "on-great-festival-days",
+     "grounds": "compound locative",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On what additional days should the rite be performed?",
+   "premises": [
+    "The rite should be done.",
+    "Great festival days are included."
+   ],
+   "inference": "The rite should also be performed on great festival days.",
+   "uncertainties": [
+    "Which great festivals are intended is not specified."
+   ],
+   "plain_english": "He should also do it on great festival days."
+  },
+  {
+   "verse": 3315,
+   "rows": [
+    {
+     "surface": "dīpavṛkṣāṃś",
+     "gloss": "lamp-trees",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sasārān",
+     "gloss": "with-sap",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śobhanān",
+     "gloss": "beautiful",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ṛjūn",
+     "gloss": "straight",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "What kind of lamp-trees are placed around?",
+   "premises": [
+    "Lamp-trees are placed around.",
+    "They are sap-bearing, beautiful, and straight."
+   ],
+   "inference": "The lamp-trees around are sap-bearing, beautiful, and straight.",
+   "uncertainties": [
+    "The exact number of trees is not stated."
+   ],
+   "plain_english": "But beautiful straight sap-bearing lamp-trees around."
+  },
+  {
+   "verse": 3316,
+   "rows": [
+    {
+     "surface": "hārābāhye",
+     "gloss": "in-garland-outer",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "pronoun genitive",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "agraniveśitaiḥ",
+     "gloss": "with-front-placed",
+     "grounds": "adjective",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How are the front-placed elements arranged in the garland outer part?",
+   "premises": [
+    "The outer garland part is specified.",
+    "Front-placed elements belong to them."
+   ],
+   "inference": "The outer garland part uses their front-placed elements.",
+   "uncertainties": [
+    "The exact arrangement is not fully described."
+   ],
+   "plain_english": "But in the outer garland part, with their front-placed elements."
+  },
+  {
+   "verse": 3317,
+   "rows": [
+    {
+     "surface": "kilāṃś",
+     "gloss": "pillars",
+     "grounds": "noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśāṅgulakāntarān",
+     "gloss": "twelve-angula-interval",
+     "grounds": "compound adjective",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "What interval is specified for the pillars?",
+   "premises": [
+    "Pillars are mentioned.",
+    "Their interval is twelve angulas."
+   ],
+   "inference": "The pillars are set at twelve-angula intervals.",
+   "uncertainties": [
+    "The total number of pillars is not stated."
+   ],
+   "plain_english": "But pillars at twelve-angula intervals."
+  },
+  {
+   "verse": 3318,
+   "rows": [
+    {
+     "surface": "mukhyāmukhyādīni",
+     "gloss": "principal-and-secondary-etc",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antardīpamālāvalambanāt",
+     "gloss": "from-inner-lamp-garland-suspension",
+     "grounds": "compound ablative",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What is suspended from the inner lamp garland?",
+   "premises": [
+    "Principal and secondary items are mentioned.",
+    "They hang from the inner lamp garland."
+   ],
+   "inference": "Principal and secondary items hang from the inner lamp garland.",
+   "uncertainties": [
+    "The exact items are not enumerated."
+   ],
+   "plain_english": "Principal and secondary items hang from the inner lamp garland."
+  },
+  {
+   "verse": 3319,
+   "rows": [
+    {
+     "surface": "pradhānaṃ",
+     "gloss": "principal",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpavṛkṣaṃ",
+     "gloss": "lamp-tree",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhvajonnatam",
+     "gloss": "banner-raised",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the principal lamp-tree like?",
+   "premises": [
+    "The principal lamp-tree is specified.",
+    "It is banner-raised."
+   ],
+   "inference": "The principal lamp-tree is raised with a banner.",
+   "uncertainties": [
+    "The banner's symbolism is not explained."
+   ],
+   "plain_english": "But the principal lamp-tree is banner-raised."
+  },
+  {
+   "verse": 3320,
+   "rows": [
+    {
+     "surface": "vahnyādikoṇeṣu",
+     "gloss": "in-fire-etc-corners",
+     "grounds": "compound locative",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "saptasaptakarāntaram",
+     "gloss": "seven-seven-cubit-interval",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What interval is specified in the fire and other corners?",
+   "premises": [
+    "Fire and other corners are specified.",
+    "The interval is seven-seven cubits."
+   ],
+   "inference": "The corners of fire and others have a seven-seven cubit interval.",
+   "uncertainties": [
+    "The exact measurement convention is not explained."
+   ],
+   "plain_english": "In the fire and other corners, a seven-seven cubit interval."
+  },
+  {
+   "verse": 3321,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "he-should-cause",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be caused after doing the auspicious day?",
+   "premises": [
+    "The auspicious day is done.",
+    "He should cause the next act."
+   ],
+   "inference": "After performing the auspicious day, he should cause the subsequent rite.",
+   "uncertainties": [
+    "The exact act to be caused is not named in this verse."
+   ],
+   "plain_english": "Having done the auspicious day, he should indeed cause it."
+  },
+  {
+   "verse": 3322,
+   "rows": [
+    {
+     "surface": "pañcasaṃskāraiḥ",
+     "gloss": "with-five-purifications",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "palāśasamidho",
+     "gloss": "palāśa-fuel",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ghṛtam",
+     "gloss": "ghee",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is purified with five purifications?",
+   "premises": [
+    "Five purifications are used.",
+    "Palāśa fuel and ghee are involved."
+   ],
+   "inference": "Palāśa fuel and ghee are prepared with five purifications.",
+   "uncertainties": [
+    "The five purifications are not enumerated."
+   ],
+   "plain_english": "With five purifications, palāśa fuel and ghee."
+  },
+  {
+   "verse": 3323,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "gāyattryā",
+     "gloss": "with-gāyatrī",
+     "grounds": "noun instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "noun genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pūrvottare",
+     "gloss": "north-east",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and with what is the offering made to fire?",
+   "premises": [
+    "The offering is made with Gāyatrī.",
+    "It is made to fire in the north-east."
+   ],
+   "inference": "The offering is made with Gāyatrī to fire in the north-east.",
+   "uncertainties": [
+    "The exact offering substance is not named here."
+   ],
+   "plain_english": "Having offered with Gāyatrī to fire in the north-east, then."
+  },
+  {
+   "verse": 3324,
+   "rows": [
+    {
+     "surface": "prasthājyapūrṇāni",
+     "gloss": "prastha-ghee-filled",
+     "grounds": "compound adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sadaśāni",
+     "gloss": "ten",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pradīpayet",
+     "gloss": "he-should-light",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be lit after the ghee-filled vessels are prepared?",
+   "premises": [
+    "Ten prastha-ghee-filled vessels are prepared.",
+    "He should light them."
+   ],
+   "inference": "The ten ghee-filled vessels should be lit.",
+   "uncertainties": [
+    "The exact lighting procedure is not described."
+   ],
+   "plain_english": "He should light the ten prastha-ghee-filled vessels."
+  }
+ ]
+}

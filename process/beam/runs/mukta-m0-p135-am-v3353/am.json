@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3353,
- "question": "What is the exact thirteen-syllabled mantra form belonging to Kurukulla?",
+ "question": "Where should the ritual be performed relative to village and river?",
  "premises": [
-  "A mantra belonging to Kurukulla is being transmitted.",
-  "The mantra consists of oṃ, kurukullehrīḥ, and svāhā.",
-  "This form is identified as having thirteen syllables."
+  "It is far outside the village and similar places.",
+  "It is near the river and similar places."
  ],
- "inference": "The thirteen-syllabled mantra of Kurukulla is 'oṃ kurukullehrīḥ svāhā'.",
- "uncertainties": [],
- "plain_english": "Of Kurukulla, the thirteen-syllabled mantra is: oṃ kurukullehrīḥ svāhā."
+ "inference": "The rite should be done far from the village but near the river.",
+ "uncertainties": [
+  "The exact list of places after 'etc.' is not given."
+ ],
+ "plain_english": "Far outside the village, but near the river."
 }

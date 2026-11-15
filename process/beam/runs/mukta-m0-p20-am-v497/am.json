@@ -1,17 +1,15 @@
 {
  "song": "mukta-m0-p20",
  "verse": 497,
- "question": "Which mantra syllables correspond to square and closed forms?",
+ "question": "How should digging and related actions be handled before plastering?",
  "premises": [
-  "hrāṃ namaḥ is stated",
-  "square would be is stated",
-  "hrīṃ namaḥ is stated",
-  "closed is stated",
-  "thus is stated"
+  "digging etc actions are instrumental",
+  "that removing plastering is participle",
+  "contrast is marked"
  ],
- "inference": "hrāṃ namaḥ is square and hrīṃ namaḥ is closed",
+ "inference": "After digging and related actions, remove that and plaster.",
  "uncertainties": [
-  "full mantra sequence not stated"
+  "referent of that is contextual"
  ],
- "plain_english": "Hrāṃ namaḥ would be square, and hrīṃ namaḥ closed, thus."
+ "plain_english": "After digging and related actions, remove that and plaster."
 }

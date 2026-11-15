@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "alaṅkṛtya",
+     "gloss": "having-adorned",
+     "grounds": "absolutive of alaṅkṛ, 'to adorn'",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day",
+     "grounds": "accusative singular neuter object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vikirakṣepapūrvakam",
+     "gloss": "with-scattering-offering-prior",
+     "grounds": "compound adjective agreeing with puṇyāhaṃ",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What preparation must be completed before performing the auspicious-day rite with scattering offering?",
+   "premises": [
+    "Adorning precedes the auspicious day.",
+    "Scattering offering is prior.",
+    "The rite follows preparation."
+   ],
+   "inference": "The verse orders adornment before the auspicious-day rite accompanied by scattering offering.",
+   "uncertainties": [
+    "puṇyāhaṃ may be accusative object or adverbial; vikirakṣepapūrvakam modifies it."
+   ],
+   "plain_english": "After adorning, perform the auspicious day preceded by scattering offering."
+  }
+ ]
+}

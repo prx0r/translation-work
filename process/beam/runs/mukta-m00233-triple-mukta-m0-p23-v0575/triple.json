@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle tu; legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talaiḥ",
+     "gloss": "with-storeys",
+     "grounds": "instrumental plural of tala (storey/floor); legacy hint with-storeys",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "saptabhiḥ",
+     "gloss": "with-seven",
+     "grounds": "instrumental plural of sapta (seven); legacy hint with-seven",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "anvitam",
+     "gloss": "endowed",
+     "grounds": "past participle an-vi-ta, neuter nominative/accusative singular; legacy hint endowed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many storeys endow this described temple form?",
+   "premises": [
+    "temple form is endowed with seven storeys",
+    "tu emphasizes the stated endowment",
+    "talaiḥ denotes storeys in instrumental plural"
+   ],
+   "inference": "the form has seven storeys",
+   "uncertainties": [
+    "exact referent of talaiḥ is not explicit in this verse"
+   ],
+   "plain_english": "Indeed, it is endowed with seven storeys."
+  }
+ ]
+}

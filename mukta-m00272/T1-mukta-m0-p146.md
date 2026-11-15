@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p146-v3626
-[mantra](oṃ hāṃ sūryāya namaḥ) [thus](iti) [mantra](oṃ hāṃ) [mantra](oṃ hāṃ)
+[om](oṃ) [hāṃ](hāṃ) [to-sun](sūryāya) [salutation](namaḥ) [thus](iti) [om](oṃ) [hāṃ](hāṃ) [om](oṃ) [hāṃ](hāṃ)
 
 ## mukta-m0-p146-v3627
-[sviṣṭakṛta-to](sviṣṭakṛtaye) [salutation](namaḥ) [etc](*)
+[to-sviṣṭakṛt](sviṣṭakṛtaye) [salutation](namaḥ)
 
 ## mukta-m0-p146-v3628
-[svāhā-ending-oblations](svāhāntamāhutīḥ) [having-offered](hutvā) [having-asked-forgiveness](kṣamayitvā) [should-dismiss](visarjayet)
+[after-offering](svāhāntam) [oblations](āhutīḥ) [having-offered](hutvā) [having-begged-forgiveness](kṣamayitvā) [dismiss](visarjayet)
 
 ## mukta-m0-p146-v3629
-[mantra](oṃ dharmāya namaḥ) [thus](iti) [left-arm](vāmabāhau) [oṃ-sara](oṃ sara-)
+[om](oṃ) [to-dharma](dharmāya) [salutation](namaḥ) [thus](iti) [in-left-arm](vāmabāhau) [om](oṃ) [sara-](sara-)
 
 ## mukta-m0-p146-v3630
-[water-to](jalāya) [heard-to](śrutāya) [varuṇa-to](varuṇāya) [salutation](namaḥ) [thus](iti) [oṃ](oṃ)
+[to-water](jalāya) [to-śruta](śrutāya) [to-varuṇa](varuṇāya) [salutation](namaḥ) [om](oṃ) [thus](iti)
 
 ## mukta-m0-p146-v3631
-[graha+pramada+deva+codite](grahapramadevacodite) [salutation](namaḥ) [oṃ-saṃmārjana](oṃ saṃmārjanam)
+[to-graha-pramada-deva-impelled](grahapramadevacodite) [salutation](namaḥ) [om](oṃ) [sweeping](saṃmārjanam)
 
 ## mukta-m0-p146-v3632
-[skanda-to](skandāya) [graha-lord-to](grahādhipataye) [salutation](namaḥ) [thus](iti) [middle-pillar-below](madhyastaṃbhādhastāt)
+[to-skanda](skandāya) [to-graha-lord](grahādhipataye) [salutation](namaḥ) [thus](iti) [below-middle-pillar](madhyastaṃbhādhastāt)
 
 ## mukta-m0-p146-v3633
-[elemental](bhautikaḥ) [naiṣṭhika+ca+api](naiṣṭhikaścāpi) [by-that-yoga](tadyogena) [offering](baliṃ) [should-throw](kṣipet)
+[material](bhautiko) [final](naiṣṭhikaḥ) [and](ca) [api](api) [by-that-yoga](tadyogena) [offering](baliṃ) [throw](kṣipet)
 
 ## mukta-m0-p146-v3634
-[there-indeed](tatraiva) [all-gods-of](sarvadevānām) [one-of+ca](ekānāṃ ca) [offering](baliṃ) [should-throw](kṣipet)
+[there](tatra) [eva](eva) [of-all-gods](sarvadevānāṃ) [of-one](ekānāṃ) [ca](ca) [offering](baliṃ) [throw](kṣipet)
 
 ## mukta-m0-p146-v3635
-[thus](evaṃ) [or](vā) [there](tatra) [to-be-done](kartavyaṃ) [of-teacher](deśikasya) [especially](viśeṣataḥ)
+[thus](evaṃ) [vā](vā) [there](tatra) [to-be-done](kartavyaṃ) [of-teacher](deśikasya) [especially](viśeṣataḥ)
 
 ## mukta-m0-p146-v3636
-[pure-śaiva+ca](śuddhaśaivaiśca) [good-path+austerity+devoted](sanmārgataponiṣṭhaiḥ) [very-terrible](sudāruṇaiḥ)
+[pure-śaiva](śuddhaśaivaiḥ) [ca](ca) [good-path](sanmārga) [austerity-firm](taponiṣṭhaiḥ) [very-severe](sudāruṇaiḥ)
 
 ## mukta-m0-p146-v3637
-[single-row](ekapaṃktyā) [but](tu) [should-eat](bhuñjīta) [silent+ca+inner-minded](maunīcāntarmanāḥ) [pure](śuciḥ)
+[in-one-row](ekapaṃktyā) [tu](tu) [eat](bhuñjīta) [silent](maunī) [inward-minded](cāntarmanāḥ) [pure](śuciḥ)
 
 ## mukta-m0-p146-v3638
-[guru](guruḥ) [that](sa) [practitioner+ca+eva](sādhakaścaiva) [sons+ca](putrāśca) [in-order](samayīkramāt)
+[teacher](guruḥ) [sa](sa) [practitioner](sādhakaḥ) [ca](ca) [eva](eva) [sons](putrāḥ) [ca](ca) [in-order](samayīkramāt)
 
 ## mukta-m0-p146-v3639
-[mango-leaf](āmrapatraṃ) [coconut](nālikeraṃ) [madhūka](madhūkaṃ) [and](ca) [likewise](tathaiva) [and](ca)
+[mango-leaf](āmrapatraṃ) [coconut](nālikeraṃ) [madhūka](madhūkaṃ) [ca](ca) [tathā](tathaiva) [ca](ca)
 
 ## mukta-m0-p146-v3640
-[bronze](kāṃsye) [but](tu) [by-ash](bhasmanā) [purified](śuddhe) [sevenfold](saptadhā) [leaf+or](patrake'thavā)
+[in-bronze](kāṃsye) [tu](tu) [with-ashes](bhasmanā) [purified](śuddhe) [sevenfold](saptadhā) [on-leaf](patrake) [or](athavā)
 
 ## mukta-m0-p146-v3641
-[foot-etc+sajja](pādādisajja) [bhallāta](bhallāta) [plakṣa+aśvattha+arka](plakṣāśvatthārka) [born](saṃbhavaiḥ)
+[from-feet-etc](pādādisajja) [bhallāta](bhallāta) [plakṣa](plakṣa) [aśvattha](aśvattha) [arka](arka) [born](saṃbhavaiḥ)
 
 ## mukta-m0-p146-v3642
-[foul-smell+endowed](durgandhayuktaiḥ) [others+ca](anyaiśca) [forbidden](niṣiddhaiḥ) [food](bhojanaṃ) [but](tu) [or](vā)
+[with-bad-smell](durgandhayuktaiḥ) [others](anyaiḥ) [ca](ca) [forbidden](niṣiddhaiḥ) [eating](bhojanaṃ) [tu](tu) [vā](vā)
 
 ## mukta-m0-p146-v3643
-[unfit](ayogyaṃ) [food](bhojanaṃ) [there](tatra) [if-eating](bhuktiśced) [fault](doṣaḥ) [indeed](eva) [and](ca)
+[unfit](ayogyaṃ) [food](bhojanaṃ) [there](tatra) [if-eating](bhuktiśced) [fault](doṣaḥ) [eva](eva) [ca](ca)
 
 ## mukta-m0-p146-v3644
-[bathing](snānaṃ) [but](tu) [by-ash](bhasmanā) [ca+eva](caiva) [of-line](rekhāyāḥ) [protection](rakṣaṇaṃ) [should-be](bhavet)
+[bathing](snānaṃ) [tu](tu) [with-ashes](bhasmanā) [ca](ca) [eva](eva) [of-line](rekhāyā) [protection](rakṣaṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p146-v3645
-[left-hand](vāmahastena) [having-touched](saṃspṛṣṭvā) [vessel](pātram) [other](anyena) [or](vā) [should-touch](spṛśet)
+[with-left-hand](vāmahastena) [having-touched](saṃspṛṣṭvā) [vessel](pātram) [other](anyena) [vā](vā) [touch](spṛśet)
 
 ## mukta-m0-p146-v3646
-[astra-mantra](astramantreṇa) [kindled](saṃdīpte) [should-offer](juhuyāt) [with-ghee-seat](saghṛtāspadam)
+[with-astra-mantra](astramantreṇa) [kindled](saṃdīpte) [offer](juhuyāt) [with-ghee-seat](saghṛtāspadam)
 
 ## mukta-m0-p146-v3647
-[svāhā-ending](svāhāntaiḥ) [oblations](āhutīḥ) [five](pañca) [should-offer](juhuyāt) [Nandikeśvara](nandikeśvara)
+[svāhā-ending](svāhāntaiḥ) [oblations](āhutīḥ) [five](pañca) [offer](juhuyāt) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p146-v3648
-[to-upaprāṇa](upaprāṇāya) [svāhā](svāhā) [etc](*)
+[to-upaprāṇa](upaprāṇāya) [svāhā](svāhā)
 
 ## mukta-m0-p146-v3649
-[having-eaten](bhuktvā) [mantra](oṃ amṛtāpidhānamasi) [mantra](mantreṇa) [washing](prakṣā-)
+[having-eaten](bhuktvā) [om](oṃ) [amṛtāpidhānamasi](amṛtāpidhānamasi) [with-mantra](mantreṇa) [sprinkle-](prakṣā-)
 
 ## mukta-m0-p146-v3650
-[by-planet+eva](grahenaiva) [but](tu) [should-fill](pūrayet)
+[with-graha](grahena) [eva](eva) [tu](tu) [fill](pūrayet)

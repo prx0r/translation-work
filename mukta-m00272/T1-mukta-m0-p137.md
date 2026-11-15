@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[flower-end](puṣpāntaṃ) [mantra](mantram) [thus](evaṃ) [may-be](syāt) [knowledge-oblations](jñānāhutīranuttamāḥ)
+[flower-end](puṣpāntaṃ) [mantra](mantram) [thus](evaṃ) [be](syāt) [knowledge-offerings](jñānāhutīḥ) [unsurpassed](anuttamāḥ)
 
 ## mukta-m0-p137-v3402
 [mantra](so haṃ hauṃ svāhā | oṃ hrīṃ haṃsaḥ oṃ)
@@ -29,49 +29,49 @@
 [mantra](oṃ hrīṃ haṃsassohaṃ hauṃ svāhā)
 
 ## mukta-m0-p137-v3410
-[tenth-part-limb-mantra](daśāṃśamaṃgamantreṇa) [should-offer](homayennandikeśvara)
+[tenth-part](daśāṃśam) [limb-mantra](aṃgamantreṇa) [offer](homayet) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p137-v3411
-[mantra](oṃ hauṃ sohaṃ haiṃ svāhā) [installation-art](pratiṣṭhā kalāyai) [sohaṃ-hauṃ-svāhā](sohaṃ hauṃ svāhā)
+[mantra](oṃ hauṃ sohaṃ haiṃ svāhā | pratiṣṭhā kalāyai sohaṃ hauṃ svāhā)
 
 ## mukta-m0-p137-v3412
 [mantra](oṃ hrīṃ haṃsaḥ śāntikalāyai sohaṃ hauṃ svāhā)
 
 ## mukta-m0-p137-v3413
-[speech-goddess-seeds](vāgīśvaryāstu bījaiśca) [should-offer](homayennandikeśvara)
+[vāgīśvarī](vāgīśvaryāḥ) [seed-syllables](tu bījaiḥ) [ca](ca) [offer](homayet) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p137-v3414
-[student-consciousness-drawing](śiṣyacaitanyamākṛṣya) [root-support](mūlādhāre) [and](ca) [should-join](yojayet)
+[disciple-consciousness](śiṣyacaitanyam) [drawing](ākṛṣya) [root-support](mūlādhāre) [ca](ca) [join](yojayet)
 
 ## mukta-m0-p137-v3415
-[guru-mandala-middle](gurumaṇḍalamadhye) [and](ca) [ever-bliss](sadānandā) [dead-flame](mṛtojvale)
+[guru-maṇḍala](gurumaṇḍalamadhye) [ca](ca) [always-bliss](sadānandā) [dead-flame](mṛtojvale)
 
 ## mukta-m0-p137-v3416
-[Shiva-form-this](śivarūpamidaṃ) [having-meditated](dhyātvā) [again-root](punarmūle) [and](ca) [should-join](yojayet)
+[śiva-form](śivarūpam) [this](idaṃ) [meditating](dhyātvā) [again](punar) [root](mūle) [ca](ca) [join](yojayet)
 
 ## mukta-m0-p137-v3417
-[maya-et-cetera-earth-limit](māyādibhūmiparyantaṃ) [thirty-one](ekatriṃśacca) [principle](tatvakam)
+[māyā-etc-earth](māyādibhūmi) [limit](paryantaṃ) [thirty-one](ekatriṃśat) [ca](ca) [principle](tatvakam)
 
 ## mukta-m0-p137-v3418
-[reverse](vilomena) [and](ca) [all-that](tatsarvaṃ) [individually](pratyekaṃ) [should-offer](homamācaret)
+[reverse-order](vilomena) [ca](ca) [all-that](tatsarvaṃ) [each](pratyekaṃ) [offering](homam) [perform](ācaret)
 
 ## mukta-m0-p137-v3419
 [mantra](oṃ hrīṃ haṃsaḥ bhavassohaṃ hauṃ svāhā)
 
 ## mukta-m0-p137-v3420
-[thus-et-cetera-offering](ityevamādihomaṃ) [and](ca) [by-mind](manasā) [should-offer](juhuyādguruḥ)
+[thus](ityevamādi) [homa](homaṃ) [ca](ca) [mentally](manasā) [offer](juhuyāt) [guru](guruḥ)
 
 ## mukta-m0-p137-v3421
-[complete-offering-by-Shiva](pūrṇāhutīśśivenaiva) [should-offer](homayecchivabhāvitāḥ)
+[complete-offering](pūrṇāhutīḥ) [by-śiva](śivenaiva) [offer](homayet) [śiva-devoted](śivabhāvitāḥ)
 
 ## mukta-m0-p137-v3422
-[Shiva-Shakti-nature](śivaśaktyātmakaṃ) [having-known](budhvā) [student-body](śiṣyadehaṃ) [should-inspect](nirīkṣayet)
+[śiva-śakti](śivaśaktyātmakaṃ) [knowing](budhvā) [disciple-body](śiṣyadehaṃ) [inspect](nirīkṣayet)
 
 ## mukta-m0-p137-v3423
-[moon-sun-destruction](candrārkanāśanaṃ) [and-indeed](cāpi) [constantly](satataṃ) [yoga-increasing](yogavardhanam)
+[moon-sun-destruction](candrārkanāśanaṃ) [ca](ca) [api](api) [always](satataṃ) [yoga-increase](yogavardhanam)
 
 ## mukta-m0-p137-v3424
-[constantly](santataṃ) [Shiva-worship](śivayāgaṃ) [and](ca) [always](nityaṃ) [stands](tiṣṭhati) [stands](tiṣṭhati)
+[continuously](santataṃ) [śiva-worship](śivayāgaṃ) [ca](ca) [always](nityaṃ) [stands](tiṣṭhati) [stands](tiṣṭhati)
 
 ## mukta-m0-p137-v3425
-[having-joined](saṃyojya) [there](tatra) [absorbed](saṃlīnaṃ) [Shiva](śivaṃ) [student](śiṣyaṃ) [and](ca) [should-contemplate](bhāvayet)
+[joining](saṃyojya) [there](tatra) [absorbed](saṃlīnaṃ) [śiva](śivaṃ) [disciple](śiṣyaṃ) [ca](ca) [contemplate](bhāvayet)

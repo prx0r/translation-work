@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p14",
  "verse": 334,
- "question": "What blouse and lip adornment are specified?",
+ "question": "What happens if a picture other than this is used?",
  "premises": [
-  "A gold-tinged blouse is specified.",
-  "Lac is specified.",
-  "The lips are the place."
+  "other picture is inauspicious",
+  "it gives opposite result",
+  "this picture is preferred"
  ],
- "inference": "The verse specifies a gold-tinged blouse and lac for the lips.",
+ "inference": "Any other picture is inauspicious and gives opposite results.",
  "uncertainties": [
-  "Compound internal sandhi is not expanded."
+  "exact picture type unspecified"
  ],
- "plain_english": "A gold-tinged blouse and lac for the lips are specified."
+ "plain_english": "Any other picture is inauspicious and gives opposite results."
 }

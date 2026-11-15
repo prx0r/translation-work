@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[yātanā](yātanā) [*](*) [*](*) [*](*) [*](*) [yasthānāni](yasthānāni) [kalpitāni](kalpitāni) [hi](hi) [pāpinām](pāpinām)
+[torment](yātanā) [places](yasthānāni) [imagined](kalpitāni) [indeed](hi) [of-sinners](pāpinām)
 
 ## mukta-m0-p127-v3152
-[rauravaṃ](rauravaṃ) [ca](ca) [tamaścaiva](tamaś+ca+eva) [śītamuṣṇaṃ](śīta+muṣṇaṃ) [ca](ca) [bhāvakam](bhāvakam)
+[raurava](rauravaṃ) [and](ca) [darkness](tamaḥ) [and-indeed](caiva) [cold-hot](śītamuṣṇaṃ) [and](ca) [feeling](bhāvakam)
 
 ## mukta-m0-p127-v3153
-[prasiddha](prasiddha) [narakāṇyete](narakāṇi+ete) [teṣāmadhipatīn](teṣām+adhipatīn) [śṛṇu](śṛṇu)
+[famous](prasiddha) [hells](narakāṇi) [these](ete) [their-lords](teṣāmadhipatīn) [hear](śṛṇu)
 
 ## mukta-m0-p127-v3154
-[taptāṃgāra](taptāṃgāra) [mahīnāha](mahī+nāha) [saṃtāpāśceti](saṃtāpāḥ+ca+iti) [kīrtitāḥ](kīrtitāḥ)
+[hot-coals](taptāṃgāra) [earth](mahī) [indeed](nāha) [torments](saṃtāpāḥ) [thus](ceti) [declared](kīrtitāḥ)
 
 ## mukta-m0-p127-v3155
-[lākṣā](lākṣā) [pralepaṃmāsādannaruddhāsanayoccasāḥ](pralepaṃ+māsādan+naruddha+āsanaya+uccasāḥ)
+[lac](lākṣā) [smearing](pralepaṃ) [flesh](māṃsa) [food](ādanna) [bound-seat](ruddhāsanaya) [high](uccasāḥ)
 
 ## mukta-m0-p127-v3156
-[kriyamāṇāni](kriyamāṇāni) [yaṃ](yaṃ) [caiva](ca+eva) [rājānaḥ](rājānaḥ) [parikīrtitaḥ](parikīrtitaḥ)
+[done](kriyamāṇāni) [which](yaṃ) [indeed](caiva) [kings](rājānaḥ) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p127-v3157
-[tāmisrāścāyatāmisrāḥ](tāmisrāḥ+ca+āyatāmisrāḥ) [kumbhīpākaśca](kumbhīpākaḥ+ca) [rauravaḥ](rauravaḥ)
+[tāmisra](tāmisrāḥ) [and](ca) [great-tāmisra](āyatāmisrāḥ) [kumbhīpāka](kumbhīpākaḥ) [and](ca) [raurava](rauravaḥ)
 
 ## mukta-m0-p127-v3158
-[eṣā](eṣā) [puṭānāṃ](puṭānāṃ) [narakaiḥ](narakaiḥ) [sārdhayojanasaṃkhyayā](sārdha+yojana+saṃkhyayā)
+[this](eṣā) [of-puṭas](puṭānāṃ) [hells](narakaiḥ) [with](sārdha) [yojana-count](yojanasaṃkhyayā)
 
 ## mukta-m0-p127-v3159
-[tataḥ](tataḥ) [kūrmāṇḍa](kūrmāṇḍa) [bhūmiḥ](bhūmiḥ) [syāt](syāt) [didināvana](didināvana) [khaṇḍikā](khaṇḍikā)
+[then](tataḥ) [kūrmāṇḍa](kūrmāṇḍa) [earth](bhūmiḥ) [would-be](syāt) [didināvana](didināvana) [fragment](khaṇḍikā)
 
 ## mukta-m0-p127-v3160
-[yopya](yopya) [badhyātpaṭastasmāddhṛdayaṃ](badhyāt+paṭaḥ+tasmāt+dhṛdayaṃ) [cārdhamāyasam](ca+ardha+māyasaṃ)
+[also](yo) [bound](badhyāt) [cloth](paṭaḥ) [from-that](tasmāt) [heart](hṛdayaṃ) [and](ca) [half-iron](ardhamāyasam)
 
 ## mukta-m0-p127-v3161
-[kūṣmāṇḍa](kūṣmāṇḍa) [iti](iti) [vikhyāto](vikhyāto) [yugāntāgni](yugānta+agni) [samaprabhaḥ](samaprabhaḥ)
+[kūṣmāṇḍa](kūṣmāṇḍa) [thus](iti) [famous](vikhyāto) [world-end-fire](yugāntāgni) [equal-radiance](samaprabhaḥ)
 
 ## mukta-m0-p127-v3162
-[paraśvathadharaścaiva](paraśvatha+dharaḥ+ca+eva) [tathā](tathā) [bhūtaiśca](bhūtaiḥ+ca) [sevitaḥ](sevitaḥ)
+[axe-bearer](paraśvathadharaḥ) [and-indeed](caiva) [thus](tathā) [by-beings](bhūtaiḥ) [and](ca) [served](sevitaḥ)
 
 ## mukta-m0-p127-v3163
-[kulānāṃ](kulānāṃ) [caiva](ca+eva) [saptānāṃ](saptānāṃ) [pātālāntamudīritam](pātāla+antam+udīritam)
+[of-families](kulānāṃ) [and](ca) [indeed](eva) [seven](saptānāṃ) [pātāla-end](pātālāntam) [declared](udīritam)
 
 ## mukta-m0-p127-v3164
-[mahātala](mahātala) [niṣaṇṇāśca](niṣaṇṇāḥ+ca) [krīḍante](krīḍante) [nirbharaṃ](nirbharaṃ) [mudā](mudā)
+[mahātala](mahātala) [seated](niṣaṇṇāḥ) [and](ca) [play](krīḍante) [fully](nirbharaṃ) [joy](mudā)
 
 ## mukta-m0-p127-v3165
-[lakṣāṇi](lakṣāṇi) [saptatiścaiva](saptatiḥ+ca+eva) [pātālānāṃ](pātālānāṃ) [pramāṇataḥ](pramāṇataḥ)
+[lakṣas](lakṣāṇi) [seventy](saptatiḥ) [and-indeed](caiva) [of-pātālas](pātālānāṃ) [by-measure](pramāṇataḥ)
 
 ## mukta-m0-p127-v3166
-[karkāntuko](karkāntukaḥ) [hiraṇyākṣo](hiraṇyākṣaḥ) [bṛhadgarbho](bṛhadgarbhaḥ) [balistathā](baliḥ+tathā)
+[karkāntuka](karkāntukaḥ) [hiraṇyākṣa](hiraṇyākṣaḥ) [bṛhadgarbha](bṛhadgarbhaḥ) [bali](baliḥ) [and](tathā)
 
 ## mukta-m0-p127-v3167
-[kārkoṭako'tha](kārkoṭakaḥ+atha) [vālāṃgo](vālāṃgaḥ) [*](*) [*](*) [durdaśastathā](durdaśaḥ+tathā)
+[kārkoṭaka](kārkoṭakaḥ) [then](atha) [vālāṃga](vālāṃgaḥ) [durdaśa](durdaśaḥ) [and](tathā)
 
 ## mukta-m0-p127-v3168
-[karālo](karālaḥ) [bhīmanirhāpi](bhīma+nirhā+api) [piṃgalaśceti](piṃgalaḥ+ca+iti) [rākṣasāḥ](rākṣasāḥ)
+[karāla](karālaḥ) [bhīmanirhā](bhīmanirhā) [and](api) [piṃgala](piṃgalaḥ) [thus](ca+iti) [rākṣasas](rākṣasāḥ)
 
 ## mukta-m0-p127-v3169
-[tatassauvarṇapātālaṃ](tataḥ+sauvarṇa+pātālaṃ) [daśalakṣapramāṇataḥ](daśa+lakṣa+pramāṇataḥ)
+[then](tataḥ) [golden-pātāla](sauvarṇapātālaṃ) [ten-lakṣa-measure](daśalakṣapramāṇataḥ)
 
 ## mukta-m0-p127-v3170
-[nānāvikāra](nānā+vikāra) [saṃyuktaṃ](saṃyuktaṃ) [puraṃ](puraṃ) [koṭi](koṭi) [samāvṛtam](samāvṛtam)
+[various-transformations](nānāvikāra) [joined](saṃyuktaṃ) [city](puraṃ) [crore](koṭi) [surrounded](samāvṛtam)
 
 ## mukta-m0-p127-v3171
-[tasyordhve](tasya+ūrdhve) [navalakṣāṇi](nava+lakṣāṇi) [cāntaśceti](ca+antaḥ+ca+iti) [kīrtitam](kīrtitam)
+[its-above](tasyordhve) [nine-lakṣas](navalakṣāṇi) [and](ca) [inside](antaḥ) [thus](ca+iti) [declared](kīrtitam)
 
 ## mukta-m0-p127-v3172
-[tataḥ](tataḥ) [koṭiśataṃ](koṭi+śataṃ) [pṛthvī](pṛthvī) [nānājana](nānā+jana) [samāśrayāḥ](samāśrayāḥ)
+[then](tataḥ) [crore-hundred](koṭiśataṃ) [earth](pṛthvī) [various-people](nānājana) [shelter](samāśrayāḥ)
 
 ## mukta-m0-p127-v3173
-[jambūśākakuśakrauñca](jambū+śāka+kuśa+krauñca) [śārṅgagomedaśca](śārṅga+gomedaḥ+ca) [puṣkarāḥ](puṣkarāḥ)
+[jambū](jambū) [śāka](śāka) [kuśa](kuśa) [krauñca](krauñca) [śārṅga](śārṅga) [gomeda](gomeda) [and](ca) [puṣkara](puṣkarāḥ)
 
 ## mukta-m0-p127-v3174
-[kṣārakṣīrodadhissarpirikṣukaṃ](kṣāra+kṣīra+udadhiḥ+sarpis+ikṣukaṃ) [ca](ca) [madhūdakāḥ](madhu+udakāḥ)
+[salt-ocean](kṣārakṣīrodadhiḥ) [ghee](sarpiḥ) [sugarcane](ikṣukaṃ) [and](ca) [honey-water](madhūdakāḥ)
 
 ## mukta-m0-p127-v3175
-[kṣīrodastu](kṣīra+udaḥ+tu) [dvilakṣaḥ](dvi+lakṣaḥ) [syād](syāt) [anyo](anyaḥ) [dviguṇato'dhikam](dvi+guṇataḥ+adhikam)
+[milk-ocean](kṣīrodas) [two-lakṣa](dvilakṣaḥ) [would-be](syāt) [other](anyaḥ) [double-increased](dviguṇato'dhikam)

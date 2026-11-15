@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p131",
  "verse": 3265,
- "question": "What protection does the reciter gain against ghosts, pretas, and similar beings?",
+ "question": "What is remembered for the field lord in perpetual festival?",
  "premises": [
-  "Ghosts, pretas, people, and others are named as potential afflicters",
-  "The subject is the reciter",
-  "Affliction is explicitly negated"
+  "perpetual festival is stated",
+  "field lord is genitive",
+  "morning food is stated"
  ],
- "inference": "The reciter is not afflicted by ghosts, pretas, people, and others.",
- "uncertainties": [],
- "plain_english": "That reciter is not afflicted by ghosts, pretas, people, and such beings."
+ "inference": "Morning food is remembered for the field lord in perpetual festival.",
+ "uncertainties": [
+  "compound segmentation uncertain"
+ ],
+ "plain_english": "In perpetual festival, morning food is remembered for the field lord."
 }

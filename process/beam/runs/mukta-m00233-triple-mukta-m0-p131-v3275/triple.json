@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "asaṃbhavothanūjanmā",
+     "gloss": "born-from-non-becoming-utha-nū",
+     "grounds": "fused compound ending in janmā; internal sandhi not split",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekadaṃṣṭraḥ",
+     "gloss": "one-tusked",
+     "grounds": "eka + daṃṣṭraḥ compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme-next",
+     "grounds": "adjective in nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which named being follows ṛṣabha in the ordered list of sixteen bhūteśas?",
+   "premises": [
+    "The verse continues an ordered list of bhūteśas.",
+    "asaṃbhavothanūjanmā and ekadaṃṣṭraḥ are named in sequence.",
+    "tataḥ paraḥ marks the next supreme one."
+   ],
+   "inference": "The verse adds asaṃbhavothanūjanmā and ekadaṃṣṭraḥ, then points to the next supreme being.",
+   "uncertainties": [
+    "The internal segmentation of asaṃbhavothanūjanmā remains uncertain."
+   ],
+   "plain_english": "Asaṃbhavothanūjanmā, Ekadaṃṣṭra, then the next supreme."
+  }
+ ]
+}

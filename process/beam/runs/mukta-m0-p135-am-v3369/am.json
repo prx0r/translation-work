@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3369,
- "question": "What ritual location is reached by the goddess's command at this stage?",
+ "question": "How should the purified object be placed?",
  "premises": [
-  "The next step follows by the goddess's command.",
-  "An island surrounded by a boat is specified.",
-  "Arrival at that island is stated."
+  "The object is purified.",
+  "It should be placed.",
+  "Ashes are also used."
  ],
- "inference": "By her command, one arrives at the island surrounded by the boat.",
- "uncertainties": [],
- "plain_english": "Then, by her command, having arrived at the island surrounded by the boat."
+ "inference": "The purified object should be placed with ashes as well.",
+ "uncertainties": [
+  "The exact object being placed is not specified."
+ ],
+ "plain_english": "Place the purified object with ashes also, and..."
 }

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking clauses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left",
+     "grounds": "locative sense on the left side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking clauses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stambhacūḍāntaraṃ",
+     "gloss": "pillar-crest-interval",
+     "grounds": "compound naming interval between pillar and crest",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the named interval",
+     "morph": "pron.n.nom.sg"
+    }
+   ],
+   "question": "What interval is specified between the pillar and crest on the left side?",
+   "premises": [
+    "left side is mentioned",
+    "pillar crest interval is named",
+    "demonstrative that refers to interval"
+   ],
+   "inference": "the left-side pillar-crest interval is the designated measure",
+   "uncertainties": [
+    "exact ritual referent of stambha and cūḍā is not specified in this verse"
+   ],
+   "plain_english": "And on the left, indeed, that is the pillar-crest interval."
+  }
+ ]
+}

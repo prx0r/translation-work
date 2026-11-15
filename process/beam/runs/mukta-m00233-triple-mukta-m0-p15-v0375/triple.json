@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "madhyame",
+     "gloss": "middle",
+     "grounds": "locative singular of madhya; middle position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "garte",
+     "gloss": "pit",
+     "grounds": "locative singular of garta; pit",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "stūpyāyāme",
+     "gloss": "stupa-length",
+     "grounds": "compound stūpa+āyāma; length of stupa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śarāṃśake",
+     "gloss": "arrow-part",
+     "grounds": "compound śara+aṃśaka; arrow portion",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What spatial measurement or ritual location is specified by the middle pit, stupa length, and arrow part?",
+   "premises": [
+    "middle pit marks central location",
+    "stupa length gives vertical measure",
+    "arrow part gives proportional division"
+   ],
+   "inference": "The verse specifies a ritual spatial measure combining middle pit, stupa length, and arrow part.",
+   "uncertainties": [
+    "exact ritual operation and object remain unclear from this short verse"
+   ],
+   "plain_english": "In the middle pit, in the stupa's length, in the arrow part."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p104-v2576
-[of-breath](prāṇasya) [from-dissolution+indeed](layanāt+eva) [in-kumbhaka](kumbhake) [not](na) [becomes+again](bhavet+punaḥ)
+[of-breath](prāṇasya) [from-dissolution](layanāt) [indeed](eva) [in-kumbhaka](kumbhake) [not](na) [becomes](bhavet) [again](punaḥ)
 
 ## mukta-m0-p104-v2577
-[both](ubhau) [having-released](visṛjya) [in-yoga](yoge) [indeed](tu) [of-breath+retention+supreme](vāyoḥ+dhāraṇam+uttamam)
+[both](ubhau) [releasing](visṛjya) [in-yoga](yoge) [indeed](tu) [of-wind](vāyoḥ) [retention](dhāraṇam) [supreme](uttamam)
 
 ## mukta-m0-p104-v2578
-[all](sarvaṃ) [having-exhaled](virecya) [and+having-filled](ca+āpūrya) [afterward+kumbhaka+endowed](paścāt+kuṃbhaka+saṃyutaḥ)
+[all](sarvaṃ) [exhaling](virecya) [and](ca) [filling](āpūrya) [afterwards](paścāt) [kumbhaka+united](kuṃbhaka+saṃyutaḥ)
 
 ## mukta-m0-p104-v2579
-[until+kevala+accomplishment](yāvat+kevala+siddhiḥ) [may-be](syāt) [so-long+sahita](tāvat+sahitam) [should-practice](abhyaset)
+[until](yāvat) [kevala+siddhi](kevala+siddhiḥ) [becomes](syāt) [that-long](tāvat) [sahita](sahitam) [practice](abhyaset)
 
 ## mukta-m0-p104-v2580
-[not](na) [of-him](tasya) [difficult](durlabhaṃ) [anything](kiṃcit) [in-three](triṣu) [worlds](lokeṣu) [is-found](vidyate)
+[not](na) [his](tasya) [difficult](durlabhaṃ) [anything](kiṃcit) [in-three](triṣu) [worlds](lokeṣu) [exists](vidyate)
 
 ## mukta-m0-p104-v2581
-[not](na) [old-age](jarā) [disease](pitriṣā) [of-him](tasya) [vaijayantī](vaijayantī) [not](na) [is-seen](dṛśyate)
+[not](na) [old-age](jarā) [pitriṣā](pitriṣā) [his](tasya) [vaijayantī](vaijayantī) [not](na) [seen](dṛśyate)
 
 ## mukta-m0-p104-v2582
-[this](eṣa) [means+of+conquering+breath](prāṇa+jaya+upāyaḥ) [all+death+averting](sarva+mṛtyu+nivārakaḥ)
+[this](eṣa) [breath+victory+means](prāṇa+jaya+upāyaḥ) [all+death+averter](sarva+mṛtyu+nivārakaḥ)
 
 ## mukta-m0-p104-v2583
-[of-feet+big-toe+pair+or+also](pādayoḥ+aṃguṣṭha+dvayoḥ+vā+api) [of-breath+and](prāṇa+vāyoḥ+ca) [retention](dhāraṇā)
+[of-feet+big+toes+two](pādyaṃguṣṭhadvayoḥ) [or](vā) [also](api) [of-breath+wind](prāṇa+vāyoḥ) [and](ca) [retention](dhāraṇā)
 
 ## mukta-m0-p104-v2584
-[of-wind](pavanasya) [means+of+conquest](jaya+upāyaḥ) [gazing+at+tip+of+nose](nāsā+agra+ālokanaṃ) [becomes](bhavet)
+[of-wind](pavanasya) [victory+means](jaya+upāyaḥ) [nose-tip+gazing](nāsāgra+ālokanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p104-v2585
-[in-navel-middle-situated](nābhi+madhya+sthitaḥ) [wind](vāyuḥ) [for-disease-destruction](vyādhi+nāśāya) [indeed](vai) [becomes](bhavet)
+[navel+middle+situated](nābhi+madhya+sthitaḥ) [wind](vāyuḥ) [disease+destruction](vyādhi+nāśāya) [indeed](vai) [becomes](bhavet)
 
 ## mukta-m0-p104-v2586
-[by+twice-born+beak+indeed](dvija+cañcu+puṭena+eva) [by-wind-supported](vāyunā+ālambitaḥ) [slowly](śanaiḥ)
+[by-twice-born+beak](dvija+cañca+puṭena) [indeed](eva) [wind+supported](vāyu+nālambitaḥ) [slowly](śanaiḥ)
 
 ## mukta-m0-p104-v2587
-[at+Agastya+rising](agastya+udaya) [time](kāle) [indeed](tu) [from+between+two+royal+teeth](rāja+danta+dvaya+antarāt)
+[agastya+rising](agastya+udaya) [time](kāle) [indeed](tu) [royal+tooth+two+between](rāja+danta+dvaya+antarāt)
 
 ## mukta-m0-p104-v2588
-[by+two+seasons](ṛtu+dvayena) [diseases+and](rogāḥ+ca) [to-destruction](nāśam) [go](yānti) [no](na) [doubt](saṃśayaḥ)
+[by-two+seasons](ṛtu+dvayena) [diseases](rogāḥ) [and](ca) [destruction](nāśaṃ) [go](yānti) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p104-v2589
-[nectar](amṛtaṃ) [who](yaḥ) [drinks](pibet) [yogi](yogī) [all+accomplishments](sarva+siddhiṃ) [and](ca) [goes](gacchati)
+[nectar](amṛtaṃ) [who](yaḥ) [drinks](pibet) [yogi](yogī) [all+siddhi](sarva+siddhiṃ) [and](ca) [attains](gacchati)
 
 ## mukta-m0-p104-v2590
-[by+that+nectar-drinking](tasmin+amṛta+pānena) [all+disease+removing](sarva+vyādhi+haram) [supreme](param)
+[in-that](tasmin) [nectar+drinking](amṛta+pānena) [all+disease+removing](sarva+vyādhi+haraṃ) [supreme](param)
 
 ## mukta-m0-p104-v2591
-[on+side](pārśve) [and](ca) [for+ghaṭikā+measure+retention](ghaṭikā+mātra+dhāraṇāt) [for+month+measure](māsa+mātrakam)
+[side](pārśve) [and](ca) [ghaṭikā+measure+retention](ghaṭikā+mātra+dhāraṇāt) [month+measure](māsa+mātrakam)
 
 ## mukta-m0-p104-v2592
-[one+month](eka+māsaṃ) [at+three+sandhyās](tri+sandhyāyāṃ) [wind](mārutaṃ) [by+tongue](jihvayā) [should-drink](pibet)
+[one+month](eka+māsaṃ) [at-three+sandhyas](tri+sandhyāyāṃ) [wind](mārutaṃ) [by-tongue](jihvayā) [drink](pibet)
 
 ## mukta-m0-p104-v2593
-[gulma+etc](gulma+āṣṭhīla+plaha+ādi) [limb+disorders](gātra+vikārāṇi) [and](ca)
+[gulma+etc](gulmāṣṭhīlaplahādyādi) [body+*](gātravi*rśanāni) [and](ca)
 
 ## mukta-m0-p104-v2594
-[poison+fever+untimely+death+and](viṣa+jvara+apamṛtyuḥ+ca) [those](te) [all](sarve) [go](yānti) [to-destruction](nāśanam)
+[poison+fever+near+death](viṣa+jvara+upa+mṛtyuḥ) [and](ca) [those](te) [all](sarve) [go](yānti) [destruction](nāśanam)
 
 ## mukta-m0-p104-v2595
-[by+practice+indeed](abhyāsāt+eva) [that+all](tat+sarvaṃ) [of+wind+conquest+indeed](vāyoḥ+vijayam+eva) [indeed](hi)
+[by-practice](abhyāsāt) [indeed](eva) [that+all](tat+sarvaṃ) [of-wind+victory](vāyoḥ+vijayam) [indeed](eva) [indeed](hi)
 
 ## mukta-m0-p104-v2596
-[senses](indriyāṇi) [having-subdued](vaśīkṛtya) [from+objects](viṣayebhyaḥ) [having-turned-away](nivartya) [and](ca)
+[senses](indriyāṇi) [subduing](vaśīkṛtya) [from-objects](viṣayebhyaḥ) [turning-back](nivartya) [and](ca)
 
 ## mukta-m0-p104-v2597
-[all](sarvaṃ) [at-once+having-released](sakṛt+samutsṛjya) [slowly](śanaiḥ) [kampuli+path](kampuli+mārgakam)
+[all](sarvaṃ) [at-once](sakṛt) [releasing](samutsṛjya) [slowly](śanaiḥ) [kampuli+path](kampuli+mārgakam)
 
 ## mukta-m0-p104-v2598
-[by+cause+fire+hands](kāraṇa+agni+kara+abhyām) [and](ca) [should-bind](bandhayet) [with+rings](aṃgulīyakaiḥ)
+[by-cause+fire+hands](kāraṇa+agni+kara+abhyāṃ) [and](ca) [bind](bandhayet) [with-rings](aṃgulīyakaiḥ)
 
 ## mukta-m0-p104-v2599
-[on+head](mūrdhni) [and+indeed](ca+eva) [especially](viśeṣeṇa) [breath+restraint](prāṇa+saṃyamanam) [supreme](param)
+[on-head](mūrdhni) [and](ca) [indeed](eva) [especially](viśeṣeṇa) [breath+control](prāṇa+saṃyamanaṃ) [supreme](param)
 
 ## mukta-m0-p104-v2600
-[by+that](tena) [sound+origin+and+indeed](nāda+udbhavaḥ+ca+eva) [pure+crystal+clear](śuddha+sphaṭika+nirmalaḥ)
+[by-that](tena) [sound+origin](nāda+udbhavaḥ) [and](ca) [indeed](eva) [pure+crystal+clear](śuddha+sphaṭika+nirmalaḥ)
