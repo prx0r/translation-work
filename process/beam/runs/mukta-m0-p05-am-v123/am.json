@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 123,
- "question": "Which color and form are being described here?",
+ "question": "Where is the divine tīrtha located?",
  "premises": [
-  "The token list gives white color.",
-  "The token list gives ten arms and moon crest."
+  "kaniṣṭhikā-aṅguli-mūle names the location",
+  "daivikaṃ tīrtham names the tīrtha",
+  "ucyate states the naming"
  ],
- "inference": "The unit describes a white ten-armed form adorned with moon crest.",
+ "inference": "The divine tīrtha is at the base of the little finger.",
  "uncertainties": [
-  "Exact deity name is not explicit in these tokens."
+  "whether tu is emphatic or transitional"
  ],
- "plain_english": "The white ten-armed form is adorned with moon crest."
+ "plain_english": "Indeed, the divine tīrtha is called at the base of the little finger."
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "kṛṣṇaśālī",
+     "gloss": "black-rice",
+     "grounds": "black rice variety named in the eastern row list",
+     "morph": "compound (kṛṣṇa+śālī)"
+    },
+    {
+     "surface": "śvetaśālī",
+     "gloss": "white-rice",
+     "grounds": "white rice variety named in the eastern row list",
+     "morph": "compound (śveta+śālī)"
+    },
+    {
+     "surface": "kalamāśālimeva",
+     "gloss": "kalama-rice-even",
+     "grounds": "kalama rice variety with emphatic eva in the same list",
+     "morph": "compound (kalama+śāli)+indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the listed rice variety to the preceding items",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which rice varieties complete the eastern row of the eight great rices?",
+   "premises": [
+    "The eastern row lists eight great rices.",
+    "Black rice and white rice are named.",
+    "Kalama rice is also included."
+   ],
+   "inference": "The verse enumerates three rice varieties for the eastern row.",
+   "uncertainties": [
+    "Exact ritual placement beyond the eastern row is not stated in this verse."
+   ],
+   "plain_english": "Black rice, white rice, and kalama rice are included."
+  }
+ ]
+}

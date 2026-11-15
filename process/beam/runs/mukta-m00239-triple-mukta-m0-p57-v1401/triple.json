@@ -1,0 +1,1169 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1401,
+   "rows": [
+    {
+     "surface": "dinamardhapuṭe",
+     "gloss": "in-half-day-puṭa",
+     "grounds": "compound of day-half and puṭa",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "pacyāt",
+     "gloss": "one-should-cook",
+     "grounds": "causative imperative",
+     "morph": "v.3.sg.act-imp+pac"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "seven-times",
+     "grounds": "indeclinable numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "enaṃ",
+     "gloss": "this",
+     "grounds": "accusative pronoun",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "mṛtaṃ",
+     "gloss": "dead",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt+bhū"
+    }
+   ],
+   "question": "How many times must the substance be cooked in a half-day puṭa before it becomes dead?",
+   "premises": [
+    "cooking occurs in a half-day puṭa",
+    "the process is repeated seven times",
+    "the result is a dead substance"
+   ],
+   "inference": "The substance becomes dead after seven cookings in a half-day puṭa.",
+   "uncertainties": [
+    "exact substance is not named in this verse"
+   ],
+   "plain_english": "Cook it in a half-day puṭa seven times, and it becomes dead."
+  },
+  {
+   "verse": 1402,
+   "rows": [
+    {
+     "surface": "dhānyābhrakasya",
+     "gloss": "of-dhānya-abhraka",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "bhāgaikaṃ",
+     "gloss": "one-part",
+     "grounds": "compound of part and one",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "num.acc.du.m"
+    },
+    {
+     "surface": "bhāgau",
+     "gloss": "parts",
+     "grounds": "accusative plural",
+     "morph": "n.acc.du.m"
+    },
+    {
+     "surface": "ṭaṅkaṇasya",
+     "gloss": "of-borax",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportion of dhānya-abhraka and borax is prescribed?",
+   "premises": [
+    "one part of dhānya-abhraka is used",
+    "two parts of borax are used",
+    "the ratio is stated directly"
+   ],
+   "inference": "The prescribed proportion is one part dhānya-abhraka to two parts borax.",
+   "uncertainties": [
+    "whether parts are by weight or volume is unspecified"
+   ],
+   "plain_english": "Take one part dhānya-abhraka and two parts borax."
+  },
+  {
+   "verse": 1403,
+   "rows": [
+    {
+     "surface": "svabhāvaśītalaṃ",
+     "gloss": "naturally-cool",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sarvayogeṣu",
+     "gloss": "in-all-formulations",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-be-used",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+yuj"
+    }
+   ],
+   "question": "In what kind of formulations should the naturally cool powder be used?",
+   "premises": [
+    "the powder is naturally cool",
+    "it is to be used in all formulations",
+    "the instruction is prescriptive"
+   ],
+   "inference": "The naturally cool powder should be used in all formulations.",
+   "uncertainties": [
+    "the powder's identity is not restated here"
+   ],
+   "plain_english": "Use the naturally cool powder in all formulations."
+  },
+  {
+   "verse": 1404,
+   "rows": [
+    {
+     "surface": "triphalotthakaṣāyasya",
+     "gloss": "of-triphalā-decoction",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "palāny",
+     "gloss": "palas",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "v.abs+ādā"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "num.acc.pl.n"
+    }
+   ],
+   "question": "How many palas of triphalā decoction should be taken?",
+   "premises": [
+    "the decoction is of triphalā",
+    "sixteen palas are specified",
+    "the quantity is taken before processing"
+   ],
+   "inference": "Sixteen palas of triphalā decoction should be taken.",
+   "uncertainties": [
+    "the exact processing step is given in following verses"
+   ],
+   "plain_english": "Take sixteen palas of triphalā decoction."
+  },
+  {
+   "verse": 1405,
+   "rows": [
+    {
+     "surface": "ekīkṛtvā",
+     "gloss": "having-combined",
+     "grounds": "absolutive of compound verb",
+     "morph": "v.abs+ekīkṛ"
+    },
+    {
+     "surface": "lohapātre",
+     "gloss": "in-iron-vessel",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "pācayet",
+     "gloss": "one-should-cook",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+pac"
+    },
+    {
+     "surface": "mṛduvahninā",
+     "gloss": "with-gentle-fire",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.m"
+    }
+   ],
+   "question": "How should the combined material be cooked?",
+   "premises": [
+    "the material is first combined",
+    "it is cooked in an iron vessel",
+    "gentle fire is prescribed"
+   ],
+   "inference": "The combined material should be cooked in an iron vessel over gentle fire.",
+   "uncertainties": [
+    "the exact material being cooked is carried from previous verses"
+   ],
+   "plain_english": "Combine it, then cook it in an iron vessel over gentle fire."
+  },
+  {
+   "verse": 1406,
+   "rows": [
+    {
+     "surface": "dravaiḥ",
+     "gloss": "with-liquids",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "jīrṇaṃ",
+     "gloss": "digested",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "v.abs+samādā"
+    },
+    {
+     "surface": "sarvayogeṣu",
+     "gloss": "in-all-formulations",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-be-used",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+yuj"
+    }
+   ],
+   "question": "What should be done with the digested material?",
+   "premises": [
+    "the material is digested with liquids",
+    "it is then taken up",
+    "it is used in all formulations"
+   ],
+   "inference": "The digested material should be used in all formulations.",
+   "uncertainties": [
+    "the specific liquids are not listed here"
+   ],
+   "plain_english": "After digesting it with liquids, use it in all formulations."
+  },
+  {
+   "verse": 1407,
+   "rows": [
+    {
+     "surface": "bhāvyaṃ",
+     "gloss": "should-be-impregnated",
+     "grounds": "gerundive",
+     "morph": "v.ger+bhū"
+    },
+    {
+     "surface": "rasaḥ",
+     "gloss": "mercury",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tadanu",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlarase",
+     "gloss": "in-root-juice",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "kadalyā",
+     "gloss": "of-banana",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "vedāṃśaṭaṅkaṇayutaṃ",
+     "gloss": "with-four-parts-borax",
+     "grounds": "compound with sandhi",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śapharīsametam",
+     "gloss": "with-śapharī",
+     "grounds": "compound participle",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How should mercury be impregnated after the initial step?",
+   "premises": [
+    "mercury should be impregnated",
+    "then it is placed in banana root juice",
+    "it is combined with four parts borax and śapharī"
+   ],
+   "inference": "Mercury is impregnated, then treated in banana root juice with four parts borax and śapharī.",
+   "uncertainties": [
+    "the exact sequence of impregnation is compressed"
+   ],
+   "plain_english": "Impregnate mercury, then put it in banana root juice with four parts borax and śapharī."
+  },
+  {
+   "verse": 1408,
+   "rows": [
+    {
+     "surface": "bhastrīdvayena",
+     "gloss": "with-two-bellows",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vamate",
+     "gloss": "emits",
+     "grounds": "present indicative",
+     "morph": "v.3.sg.act-pres+vam"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sattvaṃ",
+     "gloss": "essence",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pāṣāṇadhātugatam",
+     "gloss": "situated-in-stone-mineral",
+     "grounds": "compound participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ātram",
+     "gloss": "merely",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asaṃśayaḥ",
+     "gloss": "without-doubt",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "present indicative",
+     "morph": "v.3.sg.act-pres+as"
+    }
+   ],
+   "question": "What happens when two bellows are used on stone-mineral material?",
+   "premises": [
+    "two bellows are applied",
+    "the material emits essence",
+    "the essence is situated in stone and mineral"
+   ],
+   "inference": "Using two bellows causes the stone-mineral material to emit its essence without doubt.",
+   "uncertainties": [
+    "the exact mineral is not specified"
+   ],
+   "plain_english": "With two bellows, the stone-mineral material certainly emits its essence."
+  },
+  {
+   "verse": 1409,
+   "rows": [
+    {
+     "surface": "jayantībhṛṅgarājotthaṃ",
+     "gloss": "with-jayantī-bṛṅgarāja-produced",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "raktāgastirasaiḥ",
+     "gloss": "with-red-agasti-juices",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "śilām",
+     "gloss": "realgar",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "With what juices should realgar be treated?",
+   "premises": [
+    "realgar is the object",
+    "jayantī and bṛṅgarāja are involved",
+    "red agasti juices are used"
+   ],
+   "inference": "Realgar is treated with juices produced from jayantī, bṛṅgarāja, and red agasti.",
+   "uncertainties": [
+    "the exact operation is completed in the next verse"
+   ],
+   "plain_english": "Treat realgar with juices of jayantī, bṛṅgarāja, and red agasti."
+  },
+  {
+   "verse": 1410,
+   "rows": [
+    {
+     "surface": "kṣālayet",
+     "gloss": "one-should-wash",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+kṣal"
+    },
+    {
+     "surface": "āranālena",
+     "gloss": "with-sour-gruel",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "sarvayogeṣu",
+     "gloss": "in-all-formulations",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-be-used",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+yuj"
+    }
+   ],
+   "question": "After washing with sour gruel, how should the material be used?",
+   "premises": [
+    "the material is washed with sour gruel",
+    "it is then used in all formulations",
+    "the instruction is prescriptive"
+   ],
+   "inference": "After washing with sour gruel, the material should be used in all formulations.",
+   "uncertainties": [
+    "the material is carried from the previous verse"
+   ],
+   "plain_english": "Wash it with sour gruel, then use it in all formulations."
+  },
+  {
+   "verse": 1411,
+   "rows": [
+    {
+     "surface": "dolāyantreṇa",
+     "gloss": "by-dolā-yantra",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "yāmaikaṃ",
+     "gloss": "for-one-yāma",
+     "grounds": "compound of yāma and one",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṣmāṇḍaje",
+     "gloss": "in-pumpkin-juice",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "rase",
+     "gloss": "in-juice",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "How long and in what medium should the dolā-yantra process run?",
+   "premises": [
+    "the process uses a dolā-yantra",
+    "it lasts one yāma",
+    "then pumpkin juice is used"
+   ],
+   "inference": "The dolā-yantra process runs for one yāma, then pumpkin juice is used.",
+   "uncertainties": [
+    "the exact substance being processed is carried from context"
+   ],
+   "plain_english": "Use the dolā-yantra for one yāma, then use pumpkin juice."
+  },
+  {
+   "verse": 1412,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantre",
+     "gloss": "in-yantra",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "caturyāmaṃ",
+     "gloss": "for-four-yāmas",
+     "grounds": "compound of four and yāma",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pācyaṃ",
+     "gloss": "to-be-cooked",
+     "grounds": "gerundive",
+     "morph": "v.ger+pac"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "becomes-purified",
+     "grounds": "present indicative",
+     "morph": "v.3.sg.act-pres+śudh"
+    },
+    {
+     "surface": "tālakam",
+     "gloss": "orpiment",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How long must orpiment be cooked in the yantra to become purified?",
+   "premises": [
+    "orpiment is the substance",
+    "it is cooked in a yantra",
+    "the duration is four yāmas"
+   ],
+   "inference": "Orpiment becomes purified after being cooked in the yantra for four yāmas.",
+   "uncertainties": [
+    "the exact yantra type is carried from previous verse"
+   ],
+   "plain_english": "Cook orpiment in the yantra for four yāmas, and it becomes purified."
+  },
+  {
+   "verse": 1413,
+   "rows": [
+    {
+     "surface": "puṭaṃ",
+     "gloss": "a-puṭa",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "dadhnā",
+     "gloss": "with-curd",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "puṭaṃ",
+     "gloss": "a-puṭa",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kṣaudre",
+     "gloss": "with-honey",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "should-be-given",
+     "grounds": "gerundive",
+     "morph": "v.ger+dā"
+    },
+    {
+     "surface": "tutthaṃ",
+     "gloss": "blue-vitriol",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "viśuddhaye",
+     "gloss": "for-purification",
+     "grounds": "dative noun",
+     "morph": "n.dat.sg.f"
+    }
+   ],
+   "question": "How should blue vitriol be treated for purification?",
+   "premises": [
+    "one puṭa is given with curd",
+    "another puṭa is given with honey",
+    "blue vitriol is treated for purification"
+   ],
+   "inference": "Blue vitriol is purified by giving one puṭa with curd and another with honey.",
+   "uncertainties": [
+    "the exact number of puṭas beyond two is not stated"
+   ],
+   "plain_english": "Give blue vitriol one puṭa with curd and another with honey for purification."
+  },
+  {
+   "verse": 1414,
+   "rows": [
+    {
+     "surface": "gharme",
+     "gloss": "in-heat",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "becomes-purified",
+     "grounds": "present indicative",
+     "morph": "v.3.sg.act-pres+śudh"
+    },
+    {
+     "surface": "kāśīśaṃ",
+     "gloss": "kāśīśa",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dinaṃ",
+     "gloss": "for-a-day",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "jambīrabhāvitam",
+     "gloss": "impregnated-with-jambīra",
+     "grounds": "compound participle",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "How does kāśīśa become purified?",
+   "premises": [
+    "kāśīśa is impregnated with jambīra",
+    "it remains in heat for a day",
+    "it becomes purified"
+   ],
+   "inference": "Kāśīśa becomes purified when impregnated with jambīra and kept in heat for a day.",
+   "uncertainties": [
+    "the exact heat source is unspecified"
+   ],
+   "plain_english": "Kāśīśa, impregnated with jambīra, becomes purified after a day in heat."
+  },
+  {
+   "verse": 1415,
+   "rows": [
+    {
+     "surface": "prakṣālyaṃ",
+     "gloss": "should-be-washed",
+     "grounds": "gerundive",
+     "morph": "v.ger+prakṣal"
+    },
+    {
+     "surface": "grāhayet",
+     "gloss": "one-should-take",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+grah"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "to-that-extent",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhim",
+     "gloss": "purification",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "attains",
+     "grounds": "present indicative",
+     "morph": "v.3.sg.act-pres+āyā"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition does purification occur?",
+   "premises": [
+    "the material should be washed",
+    "it should be taken to that extent",
+    "purification is attained not otherwise"
+   ],
+   "inference": "Purification is attained only by washing and taking the material to the prescribed extent.",
+   "uncertainties": [
+    "the exact extent is carried from previous context"
+   ],
+   "plain_english": "Wash it and take it to that extent; purification comes only in this way."
+  },
+  {
+   "verse": 1416,
+   "rows": [
+    {
+     "surface": "sabhasmalavaṇaiḥ",
+     "gloss": "with-ash-salt",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "hema",
+     "gloss": "gold",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+śudh"
+    },
+    {
+     "surface": "puṭapākataḥ",
+     "gloss": "by-puṭa-pāka",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "How should gold be purified?",
+   "premises": [
+    "gold is the object",
+    "ash and salt are used",
+    "puṭa-pāka is the method"
+   ],
+   "inference": "Gold should be purified with ash and salt by puṭa-pāka.",
+   "uncertainties": [
+    "the exact ash type is unspecified"
+   ],
+   "plain_english": "Purify gold with ash and salt by puṭa-pāka."
+  },
+  {
+   "verse": 1417,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative adjective",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "mṛttikāḥ",
+     "gloss": "clays",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "num.nom.pl.f"
+    },
+    {
+     "surface": "jambīraiḥ",
+     "gloss": "with-jambīra",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "āranālakaiḥ",
+     "gloss": "with-sour-gruels",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "What are the five clays treated with?",
+   "premises": [
+    "five clays are mentioned",
+    "they are treated with jambīra",
+    "they are also treated with sour gruels"
+   ],
+   "inference": "The five clays are treated with jambīra and sour gruels.",
+   "uncertainties": [
+    "the five clays are not individually named here"
+   ],
+   "plain_english": "These five clays are treated with jambīra and sour gruels."
+  },
+  {
+   "verse": 1418,
+   "rows": [
+    {
+     "surface": "nāgena",
+     "gloss": "with-lead",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "ṭaṅkaṇena",
+     "gloss": "with-borax",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūme",
+     "gloss": "in-smoke",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "becomes-purified",
+     "grounds": "present indicative",
+     "morph": "v.3.sg.act-pres+śudh"
+    },
+    {
+     "surface": "raupyakām",
+     "gloss": "silver",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "How does silver become purified?",
+   "premises": [
+    "silver is the object",
+    "lead and borax are used",
+    "smoke is the medium"
+   ],
+   "inference": "Silver becomes purified with lead and borax in smoke.",
+   "uncertainties": [
+    "the exact smoke source is unspecified"
+   ],
+   "plain_english": "Silver becomes purified with lead and borax in smoke."
+  },
+  {
+   "verse": 1419,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "instrumental pronoun",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "liptaṃ",
+     "gloss": "smeared",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tāmrapatraṃ",
+     "gloss": "copper-leaf",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "taptaṃ",
+     "gloss": "heated",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "taptaṃ",
+     "gloss": "heated",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "niṣecayet",
+     "gloss": "one-should-quench",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+niṣic"
+    }
+   ],
+   "question": "How should smeared copper leaf be treated?",
+   "premises": [
+    "copper leaf is smeared with that substance",
+    "it is heated",
+    "it is heated again and quenched"
+   ],
+   "inference": "Smeared copper leaf should be heated twice and then quenched.",
+   "uncertainties": [
+    "the quenching medium is not named here"
+   ],
+   "plain_english": "Smear copper leaf with that, heat it, heat it again, and quench it."
+  },
+  {
+   "verse": 1420,
+   "rows": [
+    {
+     "surface": "khadirāranālatakrāntanirguṇḍī",
+     "gloss": "in-khadira-sour-gruel-buttermilk-nirguṇḍī",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśuddhaye",
+     "gloss": "for-purification",
+     "grounds": "dative noun",
+     "morph": "n.dat.sg.f"
+    }
+   ],
+   "question": "Is the khadira-sour-gruel-buttermilk-nirguṇḍī combination used for purification?",
+   "premises": [
+    "the combination includes khadira, sour gruel, buttermilk, and nirguṇḍī",
+    "it is explicitly negated",
+    "purification is the stated purpose"
+   ],
+   "inference": "This combination is not to be used for purification.",
+   "uncertainties": [
+    "the exact context of the negation is compressed"
+   ],
+   "plain_english": "The khadira, sour gruel, buttermilk, and nirguṇḍī combination is not for purification."
+  },
+  {
+   "verse": 1421,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīkṣṇaṃ",
+     "gloss": "iron",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "in-three-ways",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "accusative pronoun",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+śudh"
+    },
+    {
+     "surface": "yogasiddhaye",
+     "gloss": "for-accomplishment-of-formulations",
+     "grounds": "dative compound",
+     "morph": "n.dat.sg.f"
+    }
+   ],
+   "question": "Why should iron be purified in three ways?",
+   "premises": [
+    "iron is the object",
+    "it is purified in three ways",
+    "the purpose is accomplishment of formulations"
+   ],
+   "inference": "Iron should be purified in three ways for the accomplishment of formulations.",
+   "uncertainties": [
+    "the three ways are not enumerated here"
+   ],
+   "plain_english": "Purify iron in three ways for the accomplishment of formulations."
+  },
+  {
+   "verse": 1422,
+   "rows": [
+    {
+     "surface": "tutthaṭaṅkaṇakācaiḥ",
+     "gloss": "with-blue-vitriol-borax-glass",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāmitaṃ",
+     "gloss": "heated",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śuddham",
+     "gloss": "purity",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ṛcchati",
+     "gloss": "attains",
+     "grounds": "present indicative",
+     "morph": "v.3.sg.act-pres+ṛch"
+    }
+   ],
+   "question": "How does heated material attain purity?",
+   "premises": [
+    "blue vitriol, borax, and glass are used",
+    "the material is heated",
+    "purity is attained"
+   ],
+   "inference": "Heated material attains purity with blue vitriol, borax, and glass.",
+   "uncertainties": [
+    "the exact material being heated is carried from context"
+   ],
+   "plain_english": "Heated with blue vitriol, borax, and glass, it attains purity."
+  },
+  {
+   "verse": 1423,
+   "rows": [
+    {
+     "surface": "prakṣālayet",
+     "gloss": "one-should-wash",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.act-opt+prakṣal"
+    },
+    {
+     "surface": "āranālaiḥ",
+     "gloss": "with-sour-gruels",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "śoṣyaṃ",
+     "gloss": "to-be-dried",
+     "grounds": "gerundive",
+     "morph": "v.ger+śuṣ"
+    },
+    {
+     "surface": "śuddhim",
+     "gloss": "purification",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "obtains",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt+avāp"
+    }
+   ],
+   "question": "How is purification obtained after washing?",
+   "premises": [
+    "the material is washed with sour gruels",
+    "it is to be dried",
+    "purification is then obtained"
+   ],
+   "inference": "Purification is obtained by washing with sour gruels and drying the material.",
+   "uncertainties": [
+    "the exact drying method is unspecified"
+   ],
+   "plain_english": "Wash it with sour gruels, dry it, and obtain purification."
+  },
+  {
+   "verse": 1424,
+   "rows": [
+    {
+     "surface": "adhorddhaṃ",
+     "gloss": "below-above",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhakaṃ",
+     "gloss": "sulphur",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "v.abs+dā"
+    },
+    {
+     "surface": "sarvatulyaṃ",
+     "gloss": "equal-to-all",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "nirudhya",
+     "gloss": "having-sealed",
+     "grounds": "absolutive",
+     "morph": "v.abs+nirudh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should sulphur be placed and sealed?",
+   "premises": [
+    "sulphur is placed below and above",
+    "it is placed equal to all",
+    "the vessel is sealed"
+   ],
+   "inference": "Sulphur should be placed below and above in equal amount and the vessel sealed.",
+   "uncertainties": [
+    "the exact vessel and process are carried from context"
+   ],
+   "plain_english": "Place sulphur below and above in equal amount, and seal it."
+  }
+ ]
+}

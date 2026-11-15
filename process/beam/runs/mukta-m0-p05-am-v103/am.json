@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 103,
- "question": "Which deity form and color is being meditated upon here?",
+ "question": "Which mantras should be recited likewise and again?",
  "premises": [
-  "The token list gives iconographic attributes.",
-  "A color term closes the unit."
+  "tadvat links to prior recitation",
+  "sāvitraṃ and prāsādaṃ are named mantras",
+  "punar japet repeats the act"
  ],
- "inference": "The unit prescribes a golden-colored form with the listed attributes.",
+ "inference": "One should likewise recite sāvitra and prāsāda, then recite again.",
  "uncertainties": [
-  "Exact deity name is not explicit in these tokens."
+  "whether punar modifies both or only prāsāda"
  ],
- "plain_english": "Contemplate the golden-colored form bearing the listed attributes."
+ "plain_english": "Likewise one should recite sāvitra and prāsāda, and again recite."
 }

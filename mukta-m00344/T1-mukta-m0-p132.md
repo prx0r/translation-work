@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p132-v3276
-of-those-two(tayoḥ) + activity(vyāpāra) + another(antaram) + exists(asti) + thus(iti) + meaning(arthaḥ)
+[of-them](tayoḥ) [activity](vyāpāra) [other](antaram) [exists](asti) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p132-v3277
-knower(jñātṛ) + knowledge(jñāna) + knowable(jñeya) + situated(gataḥ) + as-long-as(yāvat) + difference(bhedaḥ) + appears(avabhāsate)
+[knower](jñātṛ) [knowledge](jñāna) [knowable](jñeya) [gone](gataḥ) [as-long-as](yāvat) [difference](bhedaḥ) [appears](avabhāsate)
 
 ## mukta-m0-p132-v3278
-form(rūpam) + thus(iti) + says(āha) + knower(jñātṛ) + thus(iti) + by-abandonment-of-conception(saṅkalpa) + by-removal(avarjanena) + as-long-as(yāvat) + difference(bhedaḥ) + appears(avabhāsate)
+[form](rūpam) [thus](iti) [says](āha) [knower](jñātṛ) [etc](iti) [by-imagination-rejection](saṅkalpāvarjanena) [as-long-as](yāvat) [difference](bhedaḥ) [appears](avabhāsate)
 
 ## mukta-m0-p132-v3279
-when(yadā) + difference(bhedaḥ) + dissolved(vigalitaḥ) + of-knower-etc(jñātrādīnām) + mutually(mithaḥ) + situated(sthitaḥ)
+[when](yadā) [difference](bhedaḥ) [dissolved](vigalitaḥ) [of-knower-etc](jñātrādīnām) [mutually](mithaḥ) [situated](sthitaḥ)
 
 ## mukta-m0-p132-v3280
-dissolved(vigalitaḥ) + may-be(bhavet) + then(tadā) + of-knower-etc(jñātrādīnām) + true(satya) + own-nature(svarūpa) + attainment(sampattiḥ) + thus(iti) + connection(anvayaḥ)
+[dissolved](vigalitaḥ) [becomes](bhavet) [then](tadā) [of-knower-etc](jñātrādīnām) [true-nature-attainment](satyasvarūpasampattiḥ) [thus](iti) [connection](anvayaḥ)
 
 ## mukta-m0-p132-v3281
-knower-etc(jñātrādi) + ending-in-result(phala) + up-to(paryantam) + not(na) + difference(bhedaḥ) + in-reality(vastutaḥ) + may-be(bhavet)
+[knower-etc-result-until](jñātrādiphalaparyantam) [not](na) [difference](bhedaḥ) [in-reality](vastutaḥ) [becomes](bhavet)
 
 ## mukta-m0-p132-v3282
-therefore(tasmāt) + not(na) + of-those-ending-in-knower-etc-and-result(jñātrādi) + (phala) + ending-in(antānām) + in-reality(vastutaḥ) + difference(bhedaḥ) + thus(iti) + says(āha) + knower-etc(jñātrādi) + thus(iti)
+[therefore](tasmāt) [not](na) [of-knower-etc-result-end](jñātrādiphalāntānām) [in-reality](vastutaḥ) [difference](bhedaḥ) [thus](iti) [says](āha) [knower-etc](jñātrādi) [etc](iti)
 
 ## mukta-m0-p132-v3283
-therefore(ataḥ) + unprecedented(apūrvam) + is-obtained(labhyam) + here(atra) + result(phalam) + not(na) + exists(asti) + indeed(eva) + anything(kiñcana)
+[therefore](ataḥ) [unprecedented](apūrvam) [obtainable](labhyam) [here](atra) [result](phalam) [not-exists-indeed](nāstyeva) [anything](kiñcana)
 
 ## mukta-m0-p132-v3284
-as-long-as(yāvat) + shines(bhāti) + may-be(bhavet) + so-long(tāvat) + transmigration(saṃsāraḥ) + indeed(hi) + mountain-like(acala) + like(upamaḥ)
+[as-long-as](yāvat) [shines](bhāti) [becomes](bhavet) [so-long](tāvat) [saṃsāra](saṃsāraḥ) [indeed](hi) [immovable-like](acalopamaḥ)
 
 ## mukta-m0-p132-v3285
-transmigration(saṃsāraḥ) + dissolution(vilayam) + may-go(yāyāt) + cut-off(chinna) + cloud(abhram) + like(iva) + by-wind(vāyunā)
+[saṃsāra](saṃsāraḥ) [dissolution](vilayam) [goes](yāyāt) [torn-cloud-like](chinnābhram) [iva](iva) [by-wind](vāyunā)
 
 ## mukta-m0-p132-v3286
-from-great-mass(mahāsamudāyāt) + separated(vicchinnam) + cloud(abhra) + fragment(khaṇḍam) + thus(iti) + meaning(arthaḥ)
+[great-aggregate](mahāsamudāyāt) [cut-off](vicchinnam) [cloud-fragment](abhrakhaṇḍam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p132-v3287
-in-devotion-to-that(tatparatve) + but(tu) + when-complete(saṃpūrṇe) + not(na) + other(anyat) + means(sādhanam) + is-desired(iṣyate)
+[that-supremacy](tatparatve) [but](tu) [complete](saṃpūrṇe) [not-other](nānyat) [means](sādhanam) [is-desired](iṣyate)
 
 ## mukta-m0-p132-v3288
-for-accomplishing-the-result(phala) + (sādhanāya) + is-employed(upayujyate)
+[result-means](phalasādhanāya) [is-used](upayujyate)
 
 ## mukta-m0-p132-v3289
-therefore(tasmāt) + devotion-to-that(tātparyam) + alone(eva) + may-be(syāt) + primary(mukhyam) + of-liberation(mokṣasya) + means(sādhanam)
+[therefore](tasmāt) [intent](tātparyam) [indeed](eva) [becomes](syāt) [principal](mukhyam) [of-liberation](mokṣasya) [means](sādhanam)
 
 ## mukta-m0-p132-v3290
-who(yaḥ) + with-devotion-to-that(tātparyeṇa) + endowed(saṃyuktaḥ) + in-every-way(sarvathā) + liberated(muktaḥ) + indeed(eva) + he(saḥ)
+[who](yaḥ) [with-intent](tātparyeṇa) [joined](saṃyuktaḥ) [in-every-way](sarvathā) [liberated](muktaḥ) [indeed](eva) [he](saḥ)
 
 ## mukta-m0-p132-v3291
-of-that-means(tat) + (sādhanasya) + necessarily(avaśya) + reaching-the-result(phala) + up-to(paryantatvāt) + almost-liberated(mukta) + near(prāyaḥ) + indeed(eva) + thus(iti) + meaning(arthaḥ)
+[that-means](tatsādhanasya) [necessary-result-until-ness](avaśyaphalaparyantatvāt) [almost-liberated](muktaprāyaḥ) [indeed](eva) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p132-v3292
-of-mind(buddhi) + purity(nairmalya) + by-difference(bhedena) + long(cira) + quick(śīghra) + determination(vyavasthitiḥ)
+[intellect-purity-difference](buddhinairmalyabhedena) [slow-fast-establishment](ciraśīghravyavasthitiḥ)
 
 ## mukta-m0-p132-v3293
-by-whom(yaiḥ) + people(janāḥ) + constantly(satatam) + but(tu) + thus(evam) + are-cooked(pacyante) + in-terrible(ghora) + transmigration(saṃsṛtau)
+[by-whom](yaiḥ) [people](janāḥ) [constantly](satatam) [but](tu) [thus](evam) [are-cooked](pacyante) [terrible-saṃsāra](ghorasaṃsṛtau)
 
 ## mukta-m0-p132-v3294
-are-cooked(pacyante) + thus(iti) + suffering(duḥkham) + experience(anubhavanti) + thus(iti) + meaning(tātparyam)
+[are-cooked](pacyante) [thus](iti) [suffering](duḥkham) [experience](anubhavanti) [thus](iti) [intent](tātparyam)
 
 ## mukta-m0-p132-v3295
-third(tṛtīyaḥ) + dullness(jāḍyatā) + declared(proktā) + threefold(tridhā) + thus(evam) + fault(doṣa) + collection(saṃgrahaḥ)
+[third](tṛtīyaḥ) [inertia](jāḍyatā) [declared](proktā) [threefold](tridhā) [thus](evam) [fault-collection](doṣasaṃgrahaḥ)
 
 ## mukta-m0-p132-v3296
-in-branches(śākhāsu) + thus(iti) + meaning(bhāvaḥ)
+[branches](śākhāsu) [self-born](ābhu) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p132-v3297
-liberation(mokṣaḥ) + exists(asti) + not(na) + exists(asti) + thus(iti) + beginning-with(ādyaḥ) + doubt(saṃśayaḥ) + declared(samudāhṛtaḥ)
+[liberation](mokṣaḥ) [is](asti) [is-not](nāsti) [etc](vetyādiḥ) [doubt](saṃśayaḥ) [exemplified](samudāhṛtaḥ)
 
 ## mukta-m0-p132-v3298
-this(etat) + and(ca) + indicative(upalakṣaṇam) + of-the-liberated(muktasya) + return(punarāvṛttiḥ) + exists(asti) + not(na) + exists(asti) + thus(iti) + of-such-things(ādeḥ)
+[this](etat) [indication](upalakṣaṇam) [of-liberated](muktasya) [return](punarāvṛttiḥ) [is](asti) [is-not](nāsti) [etc](vetyādeḥ)
 
 ## mukta-m0-p132-v3299
-this(etat) + pair(dvayam) + but(tu) + in-devotion-to-that(tātparye) + primary(mukhyam) + may-be(syāt) + obstacle(pratibandhakam)
+[this-pair](etaddvayam) [but](tu) [in-intent](tātparye) [principal](mukhyam) [becomes](syāt) [obstacle](pratibandhakam)
 
 ## mukta-m0-p132-v3300
-here(atra) + means(upāyaḥ) + most-primary(mukhyatamaḥ) + cutting-of-the-root(mūla) + (cchedaḥ) + not(na) + and(ca) + other(aparaḥ)
+[here](atra) [means](upāyaḥ) [most-principal](mukhyatamaḥ) [root-cutting](mūlacchedaḥ) [not](na) [other](aparaḥ)

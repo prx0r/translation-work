@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p104",
  "verse": 2589,
- "question": "What form and body of vidyā mantra are named?",
+ "question": "How should the pots be prepared before use?",
  "premises": [
-  "that form is named",
-  "body of vidyā mantra is named"
+  "pots are washed",
+  "pots are pure",
+  "pots are fumigated",
+  "pots are smeared with fragrance"
  ],
- "inference": "the verse names that form and body of vidyā mantra",
+ "inference": "pots must be washed, pure, fumigated, and fragrant",
  "uncertainties": [
-  "compound analysis not expanded"
+  "order of preparation"
  ],
- "plain_english": "That form, body of vidyā mantra, and."
+ "plain_english": "Pots washed, pure, fumigated, smeared with fragrance."
 }

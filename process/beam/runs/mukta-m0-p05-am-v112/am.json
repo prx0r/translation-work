@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 112,
- "question": "Which implements are to be made here?",
+ "question": "How many times should Śiva be satisfied with the root mantra?",
  "premises": [
-  "The token list names staff and spear.",
-  "The token list names black deer skin and fire."
+  "śivasya names the recipient",
+  "daśa-vāraṃ gives the count",
+  "mūla-mantrataḥ names the means"
  ],
- "inference": "The unit prescribes making staff, spear, black deer skin, and fire implements.",
+ "inference": "One should satisfy Śiva ten times with the root mantra.",
  "uncertainties": [
-  "The exact deity context is not explicit in these tokens."
+  "whether daśa-vāraṃ modifies tarpayet directly"
  ],
- "plain_english": "Make staff, spear, black deer skin, and fire."
+ "plain_english": "Indeed, one should satisfy Śiva ten times with the root mantra."
 }

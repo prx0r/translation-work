@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 364,
- "question": "Which attributes and color characterize this deity in the named samhita?",
+ "question": "Who is addressed in the text composed by the speaker?",
  "premises": [
-  "The verse lists held objects.",
-  "The verse states a color."
+  "the text is composed by the speaker",
+  "parvateśvara is addressed",
+  "nandinī is addressed"
  ],
- "inference": "The deity's iconographic form is specified by those attributes and color.",
+ "inference": "The composed text addresses parvateśvara and nandinī.",
  "uncertainties": [
-  "Legacy hints only; sandhi not expanded."
+  "whether nandinī is daughter of parvateśvara"
  ],
- "plain_english": "She stands on a thousand-lotus seat and is adorned with divine ornaments."
+ "plain_english": "In the text composed by me, O mountain lord, O daughter."
 }

@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2507,
- "question": "Which blue-colored form is being described?",
+ "question": "What seeds herbs flowers and grains are addressed to the six-faced one?",
  "premises": [
-  "The verse gives a color.",
-  "It is blue.",
-  "It describes a form."
+  "seed is included",
+  "herb and flower are included",
+  "nine grains are included",
+  "the six-faced one is addressed"
  ],
- "inference": "The verse states a blue color.",
+ "inference": "Seed, herb and flower, and nine grains are offered to the six-faced one.",
  "uncertainties": [
-  "No deity name in this token."
+  "exact list of nine grains"
  ],
- "plain_english": "The form is blue-colored."
+ "plain_english": "Seed, herb and flower, and nine grains, O six-faced one."
 }

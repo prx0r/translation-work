@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1410,
- "question": "What color is assigned to this deity in the iconographic description?",
+ "question": "After washing with sour gruel, how should the material be used?",
  "premises": [
-  "the verse names a color",
-  "the color is white"
+  "the material is washed with sour gruel",
+  "it is then used in all formulations",
+  "the instruction is prescriptive"
  ],
- "inference": "the deity's color is white",
+ "inference": "After washing with sour gruel, the material should be used in all formulations.",
  "uncertainties": [
-  "subject identity is not explicit"
+  "the material is carried from the previous verse"
  ],
- "plain_english": "The color is white."
+ "plain_english": "Wash it with sour gruel, then use it in all formulations."
 }

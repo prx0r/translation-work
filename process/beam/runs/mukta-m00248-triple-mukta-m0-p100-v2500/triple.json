@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2500,
+   "rows": [
+    {
+     "surface": "arbudaiḥ",
+     "gloss": "with-arbudas",
+     "grounds": "instrumental plural of arbuda",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "nyarbudaiḥ",
+     "gloss": "with-nyarbudas",
+     "grounds": "instrumental plural of nyarbuda",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "accusative singular neuter of snapana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "causative optative third singular of kṛ",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "guha",
+     "gloss": "O-Guha",
+     "grounds": "vocative singular masculine of Guha",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Should snapana be performed with arbudas or nyarbudas, O Guha?",
+   "premises": [
+    "snapana is to be caused",
+    "arbudas or nyarbudas may be used",
+    "Guha is directly addressed"
+   ],
+   "inference": "The verse prescribes bathing with arbudas or nyarbudas.",
+   "uncertainties": [
+    "The exact measure of arbuda and nyarbuda is not specified"
+   ],
+   "plain_english": "O Guha, one should also cause bathing with arbudas or nyarbudas."
+  }
+ ]
+}

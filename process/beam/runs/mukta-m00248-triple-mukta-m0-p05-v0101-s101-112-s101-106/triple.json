@@ -1,0 +1,287 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "piṇḍeśe",
+     "gloss": "on-piṇḍa-lord",
+     "grounds": "locative sense on the piṇḍa lord",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "mārjayet",
+     "gloss": "one-should-wipe",
+     "grounds": "optative action",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vyoma+mantrataḥ",
+     "gloss": "with-vyoma-mantra",
+     "grounds": "ablative or instrumental sense by mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should the piṇḍa lord be wiped with vyoma mantra?",
+   "premises": [
+    "piṇḍa lord is not wiped",
+    "vyoma mantra is not used",
+    "child is addressed"
+   ],
+   "inference": "wiping piṇḍa lord with vyoma mantra is prohibited",
+   "uncertainties": [
+    "exact ritual context unclear"
+   ],
+   "plain_english": "O child, one should not wipe the piṇḍa lord with the vyoma mantra."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "tatpuruṣaṃ",
+     "gloss": "tatpuruṣa",
+     "grounds": "accusative object of recitation",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative recitation",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "aṣṭa+uttara+sahasrakam",
+     "gloss": "eight-more-than-hundred-thousand",
+     "grounds": "compound numeral count",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How many times should the wise one recite tatpuruṣa?",
+   "premises": [
+    "wise one recites tatpuruṣa",
+    "count is eight more than hundred thousand",
+    "recitation is prescribed"
+   ],
+   "inference": "tatpuruṣa should be recited one hundred eight thousand times",
+   "uncertainties": [
+    "exact numeral parsing unclear"
+   ],
+   "plain_english": "The wise one should recite tatpuruṣa one hundred eight thousand times."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverbial comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative recitation",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāvitraṃ",
+     "gloss": "sāvitra",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "prāsāda",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "adverb of repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative recitation",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What recitation sequence follows sāvitra and prāsāda?",
+   "premises": [
+    "sāvitra is recited",
+    "prāsāda is recited",
+    "recitation is repeated again"
+   ],
+   "inference": "sāvitra and prāsāda are recited then recitation is repeated",
+   "uncertainties": [
+    "exact repeated object unclear"
+   ],
+   "plain_english": "Likewise one should recite sāvitra and prāsāda, then recite again."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "prāsādena",
+     "gloss": "with-prāsāda",
+     "grounds": "instrumental means",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "mahāsena",
+     "gloss": "o-mahāsena",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "sūryāya",
+     "gloss": "to-sūrya",
+     "grounds": "dative recipient",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "salilaṃ",
+     "gloss": "water",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dadet",
+     "gloss": "one-should-give",
+     "grounds": "optative giving",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "To whom should water be given with prāsāda?",
+   "premises": [
+    "water is given",
+    "sūrya is recipient",
+    "prāsāda is means"
+   ],
+   "inference": "water should be given to sūrya with prāsāda",
+   "uncertainties": [
+    "ritual context unclear"
+   ],
+   "plain_english": "O Mahāsena, one should give water to Sūrya with prāsāda."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "aṣṭa+vidyeśvarān+mantrān",
+     "gloss": "eight-vidyeśvara-mantras",
+     "grounds": "compound accusative object",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "rudra+ekādaśa+mantrakān",
+     "gloss": "eleven-rudra-mantras",
+     "grounds": "compound accusative object",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "Which mantras are named for eight vidyeśvaras and eleven rudras?",
+   "premises": [
+    "eight vidyeśvara mantras named",
+    "eleven rudra mantras named",
+    "both are listed"
+   ],
+   "inference": "the eight vidyeśvara mantras and eleven rudra mantras are specified",
+   "uncertainties": [
+    "exact ritual use unclear"
+   ],
+   "plain_english": "The eight vidyeśvara mantras and the eleven rudra mantras."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "vyomavyāpinam",
+     "gloss": "vyomavyāpin",
+     "grounds": "accusative object of repetition",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "āvartya",
+     "gloss": "having-repeated",
+     "grounds": "absolutive action",
+     "morph": "abs"
+    },
+    {
+     "surface": "ūrdhva+bāhuḥ",
+     "gloss": "with-arms-raised",
+     "grounds": "compound instrumental or adverbial posture",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "participial posture",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How should the wise one stand while repeating vyomavyāpin?",
+   "premises": [
+    "wise one repeats vyomavyāpin",
+    "arms are raised",
+    "wise one stands"
+   ],
+   "inference": "the wise one stands with arms raised while repeating vyomavyāpin",
+   "uncertainties": [
+    "exact posture duration unclear"
+   ],
+   "plain_english": "The wise one, having repeated vyomavyāpin, stands with arms raised."
+  }
+ ]
+}

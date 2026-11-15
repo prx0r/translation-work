@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 119,
- "question": "Which goddess and color is being contemplated here?",
+ "question": "How many times should the remaining gods be satisfied?",
  "premises": [
-  "The token list names Hakini.",
-  "A color term closes the unit."
+  "śeṣān eṣāṃ sarva-devānāṃ names remaining gods",
+  "tri-vāraṃ gives the count",
+  "tarpayet states satisfaction"
  ],
- "inference": "The unit prescribes contemplating white-colored Hakini with the listed attributes.",
+ "inference": "The remaining gods among all gods should be satisfied three times.",
  "uncertainties": [
-  "Some token boundaries are fused in the source."
+  "whether śeṣān excludes previously named groups"
  ],
- "plain_english": "Contemplate white-colored Hakini with the listed attributes."
+ "plain_english": "Indeed, one should satisfy the remaining of all these gods three times."
 }

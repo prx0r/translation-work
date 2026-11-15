@@ -1,0 +1,1060 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2651,
+   "rows": [
+    {
+     "surface": "śṛṅgīśaṃ",
+     "gloss": "śṛṅgīśa",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-west",
+     "grounds": "locative quarter",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "abs.root-pūj"
+    },
+    {
+     "surface": "ṣaṇmukhaṃ",
+     "gloss": "six-faced-one",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāyugocare",
+     "gloss": "in-wind-quarter",
+     "grounds": "locative quarter",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where should ṣaṇmukha be worshipped after śṛṅgīśa in the west?",
+   "premises": [
+    "śṛṅgīśa is worshipped in the west",
+    "ṣaṇmukha is worshipped in the wind quarter"
+   ],
+   "inference": "The rite assigns distinct deities to distinct quarters.",
+   "uncertainties": [
+    "exact ritual sequence beyond these two placements"
+   ],
+   "plain_english": "Having worshipped Śṛṅgīśa in the west, worship Ṣaṇmukha in the wind quarter."
+  },
+  {
+   "verse": 2652,
+   "rows": [
+    {
+     "surface": "yamanair-ṛtayormadhye",
+     "gloss": "yama+nirṛti+of-two+in-middle",
+     "grounds": "fused compound locative",
+     "morph": "loc.sg.m.compound"
+    },
+    {
+     "surface": "sarasvatīṃ",
+     "gloss": "sarasvatī",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "one-should-worship",
+     "grounds": "optative instruction",
+     "morph": "opt.3sg.act.root-pūj"
+    },
+    {
+     "surface": "guha",
+     "gloss": "o-guha",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "Where should Sarasvatī be worshipped between Yama and Nirṛti?",
+   "premises": [
+    "the middle of Yama and Nirṛti is specified",
+    "Sarasvatī is to be worshipped there"
+   ],
+   "inference": "Sarasvatī receives a fixed place in the southern quarter arrangement.",
+   "uncertainties": [
+    "whether Guha is addressed as officiant or deity"
+   ],
+   "plain_english": "O Guha, worship Sarasvatī in the middle of Yama and Nirṛti."
+  },
+  {
+   "verse": 2653,
+   "rows": [
+    {
+     "surface": "varuṇānilayormadhye",
+     "gloss": "varuṇa+wind+of-two+in-middle",
+     "grounds": "fused compound locative",
+     "morph": "loc.sg.m.compound"
+    },
+    {
+     "surface": "kuberasya",
+     "gloss": "of-kubera",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gṛhaṃ",
+     "gloss": "house",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction",
+     "morph": "imp.2sg.act.root-kṛ"
+    }
+   ],
+   "question": "Where should Kubera's house be made between Varuṇa and wind?",
+   "premises": [
+    "the middle of Varuṇa and wind is specified",
+    "Kubera's house is to be made there"
+   ],
+   "inference": "Kubera's abode is placed in the western-northwestern interval.",
+   "uncertainties": [
+    "exact cubit dimensions not stated here"
+   ],
+   "plain_english": "Make Kubera's house in the middle of Varuṇa and wind."
+  },
+  {
+   "verse": 2654,
+   "rows": [
+    {
+     "surface": "īśānasomayormadhye",
+     "gloss": "īśāna+soma+of-two+in-middle",
+     "grounds": "fused compound locative",
+     "morph": "loc.sg.m.compound"
+    },
+    {
+     "surface": "viṣṇusthānaṃ",
+     "gloss": "viṣṇu+place",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.compound"
+    },
+    {
+     "surface": "suśobhanam",
+     "gloss": "very-beautiful",
+     "grounds": "adjectival qualifier",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should Viṣṇu's very beautiful place be made between Īśāna and Soma?",
+   "premises": [
+    "the middle of Īśāna and Soma is specified",
+    "Viṣṇu's place is to be made there"
+   ],
+   "inference": "Viṣṇu's shrine is assigned to the northeastern interval.",
+   "uncertainties": [
+    "whether suśobhanam modifies place or rite"
+   ],
+   "plain_english": "Make Viṣṇu's very beautiful place in the middle of Īśāna and Soma."
+  },
+  {
+   "verse": 2655,
+   "rows": [
+    {
+     "surface": "pārvatī",
+     "gloss": "pārvatī",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grahayoś",
+     "gloss": "of-abodes+and",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "caturmukhasya",
+     "gloss": "of-four-faced",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "grahaṃ",
+     "gloss": "abode",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction",
+     "morph": "imp.2sg.act.root-kṛ"
+    }
+   ],
+   "question": "Whose abode should be made among Pārvatī, Viṣṇu, and Caturmukha?",
+   "premises": [
+    "Pārvatī and Viṣṇu are named subjects",
+    "Caturmukha's abode is to be made"
+   ],
+   "inference": "The four-faced deity receives a designated abode in this layout.",
+   "uncertainties": [
+    "exact relation of Pārvatī and Viṣṇu to the abode"
+   ],
+   "plain_english": "Make Caturmukha's abode among Pārvatī and Viṣṇu."
+  },
+  {
+   "verse": 2656,
+   "rows": [
+    {
+     "surface": "sarasvatīyamayormadhye",
+     "gloss": "sarasvatī+yama+of-two+in-middle",
+     "grounds": "fused compound locative",
+     "morph": "loc.sg.m.compound"
+    },
+    {
+     "surface": "saptamātṛgaṇālayam",
+     "gloss": "seven+mothers+group+abode",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg.compound"
+    }
+   ],
+   "question": "Where should the abode of the seven mothers be made between Sarasvatī and Yama?",
+   "premises": [
+    "the middle of Sarasvatī and Yama is specified",
+    "the seven mothers' abode is to be made there"
+   ],
+   "inference": "The mātṛ group is placed in the southwestern interval.",
+   "uncertainties": [
+    "whether all seven mothers are enumerated elsewhere"
+   ],
+   "plain_english": "Make the abode of the seven mothers in the middle of Sarasvatī and Yama."
+  },
+  {
+   "verse": 2657,
+   "rows": [
+    {
+     "surface": "vārāhī",
+     "gloss": "vārāhī",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and+indeed",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māhendrī",
+     "gloss": "māhendrī",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāmuṇḍī",
+     "gloss": "cāmuṇḍī",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇādhipaḥ",
+     "gloss": "gaṇa+lord",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg.compound"
+    }
+   ],
+   "question": "Which deities and lord are named in this group of mothers?",
+   "premises": [
+    "Vārāhī, Māhendrī, and Cāmuṇḍī are named",
+    "Gaṇādhipa is also named"
+   ],
+   "inference": "The verse lists members of the maternal retinue.",
+   "uncertainties": [
+    "whether Gaṇādhipa is separate from the mothers"
+   ],
+   "plain_english": "Vārāhī, Māhendrī, Cāmuṇḍī, and the lord of the gaṇas."
+  },
+  {
+   "verse": 2658,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "locative direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "khe",
+     "gloss": "in-sky",
+     "grounds": "locative direction",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "bhāṇḍārabhavanaṃ",
+     "gloss": "treasury+building",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.compound"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction",
+     "morph": "imp.2sg.act.root-kṛ"
+    }
+   ],
+   "question": "Where should the treasury building be made in the north?",
+   "premises": [
+    "the north and sky are specified",
+    "the treasury building is to be made there"
+   ],
+   "inference": "The treasury is placed in the northern upper region.",
+   "uncertainties": [
+    "whether khe means sky or a named quarter"
+   ],
+   "plain_english": "O child, make the treasury building in the north, in the sky."
+  },
+  {
+   "verse": 2659,
+   "rows": [
+    {
+     "surface": "śailena",
+     "gloss": "with-stone",
+     "grounds": "instrumental material",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "causative optative",
+     "morph": "opt.3sg.caus.root-kṛ"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudṛḍhārgalasaṃyutam",
+     "gloss": "with-firm+bolt+joined",
+     "grounds": "compound instrumental qualifier",
+     "morph": "inst.sg.n.compound"
+    }
+   ],
+   "question": "How should the treasury building be constructed there?",
+   "premises": [
+    "it is to be made with stone",
+    "it is to be joined with a firm bolt"
+   ],
+   "inference": "The treasury requires durable stone construction and a strong bolt.",
+   "uncertainties": [
+    "whether sudṛḍhārgala is door-bolt or barrier"
+   ],
+   "plain_english": "There one should make it with stone, joined with a firm bolt."
+  },
+  {
+   "verse": 2660,
+   "rows": [
+    {
+     "surface": "indrasya",
+     "gloss": "of-indra",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavanaṃ",
+     "gloss": "building",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "locative direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "āgneyyām",
+     "gloss": "in-southeast",
+     "grounds": "locative direction",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "analasya",
+     "gloss": "of-fire",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are Indra's and Agni's buildings placed?",
+   "premises": [
+    "Indra's building is in the east",
+    "Agni's building is in the southeast"
+   ],
+   "inference": "The eastern and southeastern quarters receive their respective deities.",
+   "uncertainties": [
+    "whether tu adds emphasis or contrast"
+   ],
+   "plain_english": "Indra's building is in the east, and Agni's in the southeast."
+  },
+  {
+   "verse": 2661,
+   "rows": [
+    {
+     "surface": "vāruṇyāṃ",
+     "gloss": "in-west",
+     "grounds": "locative direction",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "varuṇasthānaṃ",
+     "gloss": "of-varuṇa+place",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.compound"
+    },
+    {
+     "surface": "vāyavyām",
+     "gloss": "in-northwest",
+     "grounds": "locative direction",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "anilasya",
+     "gloss": "of-wind",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are Varuṇa's and Vāyu's places placed?",
+   "premises": [
+    "Varuṇa's place is in the west",
+    "Vāyu's place is in the northwest"
+   ],
+   "inference": "The western and northwestern quarters receive their respective deities.",
+   "uncertainties": [
+    "whether anilasya tu is emphatic"
+   ],
+   "plain_english": "Varuṇa's place is in the west, and Vāyu's in the northwest."
+  },
+  {
+   "verse": 2662,
+   "rows": [
+    {
+     "surface": "prāsādam",
+     "gloss": "temple",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhaumaṃ",
+     "gloss": "earthen",
+     "grounds": "adjectival qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturhastas",
+     "gloss": "of-four+cubits",
+     "grounds": "compound qualifier",
+     "morph": "m.nom.sg.compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "or-five",
+     "grounds": "numeral alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What size and material should the single temple be?",
+   "premises": [
+    "the temple is earthen",
+    "it is one temple of four or five cubits"
+   ],
+   "inference": "The temple's construction is specified as earthen and small.",
+   "uncertainties": [
+    "whether caturhastas modifies prāsādam or another noun"
+   ],
+   "plain_english": "The temple should be one earthen temple of four or five cubits."
+  },
+  {
+   "verse": 2663,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and+also",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "pitṝṇāṃ",
+     "gloss": "of-ancestors",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gṛhamuttamam",
+     "gloss": "house+excellent",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.compound"
+    }
+   ],
+   "question": "Where should the excellent house of the ancestors be made?",
+   "premises": [
+    "the south is specified",
+    "the ancestors' excellent house is to be made there"
+   ],
+   "inference": "The ancestral shrine is placed in the southern quarter.",
+   "uncertainties": [
+    "whether cāpi links to a previous quarter"
+   ],
+   "plain_english": "O child, make the excellent house of the ancestors in the south."
+  },
+  {
+   "verse": 2664,
+   "rows": [
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-west",
+     "grounds": "locative direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vidyādharagṛhaṃ",
+     "gloss": "of-vidyādhara+house",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.compound"
+    },
+    {
+     "surface": "vāyavyāṃ",
+     "gloss": "in-northwest",
+     "grounds": "locative direction",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "garuḍālayam",
+     "gloss": "of-garuḍa+abode",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg.compound"
+    }
+   ],
+   "question": "Where should the Vidyādhara house and Garuḍa abode be placed?",
+   "premises": [
+    "the Vidyādhara house is in the west",
+    "the Garuḍa abode is in the northwest"
+   ],
+   "inference": "These two abodes occupy western and northwestern positions.",
+   "uncertainties": [
+    "whether vidyādhara is a class or named being"
+   ],
+   "plain_english": "The Vidyādhara house is in the west, and the Garuḍa abode in the northwest."
+  },
+  {
+   "verse": 2665,
+   "rows": [
+    {
+     "surface": "jambalaṃ",
+     "gloss": "jambala",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māṇibhadraṃ",
+     "gloss": "māṇibhadra",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkhapadmanidhergṛham",
+     "gloss": "of-śaṅkha+padma+treasures+house",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.compound"
+    }
+   ],
+   "question": "Which treasure-house is named with Jambala and Māṇibhadra?",
+   "premises": [
+    "Jambala and Māṇibhadra are named",
+    "the house of Śaṅkha and Padma treasures is named"
+   ],
+   "inference": "The verse associates named beings with a treasure-house.",
+   "uncertainties": [
+    "whether Jambala and Māṇibhadra are guardians or residents"
+   ],
+   "plain_english": "Jambala and Māṇibhadra, and the house of the Śaṅkha and Padma treasures."
+  },
+  {
+   "verse": 2666,
+   "rows": [
+    {
+     "surface": "ananto",
+     "gloss": "ananta",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gulakaś",
+     "gloss": "gulaka",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and+indeed",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsukiḥ",
+     "gloss": "vāsuki",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkhapālakaḥ",
+     "gloss": "śaṅkhapālaka",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which serpent beings are named in this group?",
+   "premises": [
+    "Ananta, Gulaka, Vāsuki, and Śaṅkhapālaka are named"
+   ],
+   "inference": "The verse enumerates serpent figures for the layout.",
+   "uncertainties": [
+    "whether all are nāgas or treasure guardians"
+   ],
+   "plain_english": "Ananta, Gulaka, Vāsuki, and Śaṅkhapālaka."
+  },
+  {
+   "verse": 2667,
+   "rows": [
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "peak",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "hall",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or+also",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvādaśahastakam",
+     "gloss": "of-twelve+cubits",
+     "grounds": "compound qualifier",
+     "morph": "n.acc.sg.compound"
+    }
+   ],
+   "question": "What size should the peak, hall, or abode be?",
+   "premises": [
+    "peak, hall, or abode are alternatives",
+    "the measure is twelve cubits"
+   ],
+   "inference": "The structure is to be twelve cubits in one of these forms.",
+   "uncertainties": [
+    "which of the three forms is intended"
+   ],
+   "plain_english": "A peak, or a hall, or an abode of twelve cubits."
+  },
+  {
+   "verse": 2668,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "āyurbhavanaṃ",
+     "gloss": "of-āyu+building",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.compound"
+    },
+    {
+     "surface": "dṛḍhaṃ",
+     "gloss": "firm",
+     "grounds": "adjectival qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāsādamuttamam",
+     "gloss": "temple+excellent",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg.compound"
+    }
+   ],
+   "question": "Where should the firm excellent temple of Āyu be made?",
+   "premises": [
+    "the south is specified",
+    "the firm excellent temple of Āyu is to be made there"
+   ],
+   "inference": "The Āyu temple is placed in the southern quarter.",
+   "uncertainties": [
+    "whether āyurbhavanaṃ and prāsādamuttamam are one or two structures"
+   ],
+   "plain_english": "In the south make the firm, excellent temple of Āyu."
+  },
+  {
+   "verse": 2669,
+   "rows": [
+    {
+     "surface": "puṣkaraṇī",
+     "gloss": "lotus-pond",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāruṇyāṃ",
+     "gloss": "in-west",
+     "grounds": "locative direction",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatahastaṃ",
+     "gloss": "of-hundred+cubits",
+     "grounds": "compound qualifier",
+     "morph": "n.acc.sg.compound"
+    },
+    {
+     "surface": "vartulaṃ",
+     "gloss": "round",
+     "grounds": "adjectival qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative existence",
+     "morph": "opt.3sg.act.root-bhū"
+    }
+   ],
+   "question": "What form and size should the lotus pond in the west have?",
+   "premises": [
+    "the lotus pond is in the west",
+    "it should be round and one hundred cubits"
+   ],
+   "inference": "The western pond is specified as round and large.",
+   "uncertainties": [
+    "whether śatahastaṃ measures diameter or circumference"
+   ],
+   "plain_english": "The lotus pond in the west should be round, one hundred cubits."
+  },
+  {
+   "verse": 2670,
+   "rows": [
+    {
+     "surface": "udyānaṃ",
+     "gloss": "garden",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "all-around",
+     "grounds": "adverbial qualifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative instruction",
+     "morph": "opt.3sg.act.root-kṛ"
+    },
+    {
+     "surface": "āmrabilvādiśobhanaiḥ",
+     "gloss": "with-mango+bilva+etc.+beautiful",
+     "grounds": "compound instrumental qualifier",
+     "morph": "inst.pl.m.compound"
+    }
+   ],
+   "question": "How should the surrounding garden be made?",
+   "premises": [
+    "the garden is to be made all around",
+    "it is to be made with beautiful mango, bilva, and other trees"
+   ],
+   "inference": "The garden is planted with auspicious fruit and sacred trees.",
+   "uncertainties": [
+    "whether ādi includes all listed later trees"
+   ],
+   "plain_english": "One should make a garden all around with beautiful mango, bilva, and other trees."
+  },
+  {
+   "verse": 2671,
+   "rows": [
+    {
+     "surface": "panasair",
+     "gloss": "with-jackfruit-trees",
+     "grounds": "instrumental qualifier",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "nālikeraiś",
+     "gloss": "with-coconut-trees",
+     "grounds": "instrumental qualifier",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumudaiḥ",
+     "gloss": "with-kumuda-trees",
+     "grounds": "instrumental qualifier",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "kadalīcayaiḥ",
+     "gloss": "with-banana+groves",
+     "grounds": "compound instrumental qualifier",
+     "morph": "inst.pl.m.compound"
+    }
+   ],
+   "question": "Which trees and groves should be included in the garden?",
+   "premises": [
+    "jackfruit and coconut trees are included",
+    "kumuda trees and banana groves are included"
+   ],
+   "inference": "The garden planting includes these named species.",
+   "uncertainties": [
+    "whether kumuda refers to tree or flower"
+   ],
+   "plain_english": "With jackfruit trees, coconut trees, kumuda trees, and banana groves."
+  },
+  {
+   "verse": 2672,
+   "rows": [
+    {
+     "surface": "mālatīmādhavībhiś",
+     "gloss": "with-mālatī+mādhavī-creepers",
+     "grounds": "compound instrumental qualifier",
+     "morph": "inst.pl.f.compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madantīsindhuvārakaiḥ",
+     "gloss": "with-madantī+sindhuvāra-plants",
+     "grounds": "compound instrumental qualifier",
+     "morph": "inst.pl.m.compound"
+    }
+   ],
+   "question": "Which creepers and plants should be included in the garden?",
+   "premises": [
+    "mālatī and mādhavī creepers are included",
+    "madantī and sindhuvāra plants are included"
+   ],
+   "inference": "The garden also includes these named creepers and plants.",
+   "uncertainties": [
+    "whether madantī is a plant or flower"
+   ],
+   "plain_english": "With mālatī and mādhavī creepers, and madantī and sindhuvāra plants."
+  },
+  {
+   "verse": 2673,
+   "rows": [
+    {
+     "surface": "aśvatthabrahmavṛkṣaiś",
+     "gloss": "with-aśvattha+brahma-trees",
+     "grounds": "compound instrumental qualifier",
+     "morph": "inst.pl.m.compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktacandanavedukaiḥ",
+     "gloss": "with-red+sandal+veduka-trees",
+     "grounds": "compound instrumental qualifier",
+     "morph": "inst.pl.m.compound"
+    }
+   ],
+   "question": "Which sacred and sandal trees should be included in the garden?",
+   "premises": [
+    "aśvattha and brahma trees are included",
+    "red sandal and veduka trees are included"
+   ],
+   "inference": "The garden planting includes these named sacred and sandal trees.",
+   "uncertainties": [
+    "whether veduka is a distinct species"
+   ],
+   "plain_english": "With aśvattha and brahma trees, and red sandal and veduka trees."
+  },
+  {
+   "verse": 2674,
+   "rows": [
+    {
+     "surface": "kuṅkumaiḥ",
+     "gloss": "with-saffron-plants",
+     "grounds": "instrumental qualifier",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "mārakaiś",
+     "gloss": "with-māraka-plants",
+     "grounds": "instrumental qualifier",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and+indeed",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uśīrais",
+     "gloss": "with-uśīra-grasses",
+     "grounds": "instrumental qualifier",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "tadgaṇaiḥ",
+     "gloss": "with-their+groups",
+     "grounds": "compound instrumental qualifier",
+     "morph": "inst.pl.m.compound"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "adjectival qualifier",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "Which auspicious plants and grasses should complete the garden?",
+   "premises": [
+    "saffron and māraka plants are included",
+    "uśīra grasses and their groups are included"
+   ],
+   "inference": "The garden is completed with these auspicious plants and grasses.",
+   "uncertainties": [
+    "whether tadgaṇaiḥ refers to plant groups or attendant groups"
+   ],
+   "plain_english": "With saffron plants, māraka plants, uśīra grasses, and their auspicious groups."
+  }
+ ]
+}

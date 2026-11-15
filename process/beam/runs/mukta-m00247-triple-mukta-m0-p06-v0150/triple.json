@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "bhagavatyai",
+     "gloss": "to-the-goddess",
+     "grounds": "dative singular feminine recipient",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "śāradāyai",
+     "gloss": "to-śāradā",
+     "grounds": "dative singular feminine recipient",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-the-end",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lajjā",
+     "gloss": "lajjā",
+     "grounds": "nominative singular feminine item",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṭha+dvayam",
+     "gloss": "ṭha-pair",
+     "grounds": "internal plus marks fused pair; neuter nominative singular item",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which goddess receives the final offering of lajjā and the ṭha pair?",
+   "premises": [
+    "The verse names bhagavatī as recipient.",
+    "The verse names śāradā as recipient.",
+    "The final items are lajjā and ṭha-pair."
+   ],
+   "inference": "The verse identifies the goddess and the final items offered.",
+   "uncertainties": [
+    "The ritual function of lajjā and the ṭha-pair is not specified."
+   ],
+   "plain_english": "To the goddess Śāradā, and at the end, lajjā and the ṭha pair."
+  }
+ ]
+}

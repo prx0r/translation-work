@@ -1,14 +1,14 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1361,
- "question": "What sequence of operations digests mercury with measured doses?",
+ "question": "How long should the apparatus be kept in heat until mercury is digested?",
  "premises": [
-  "Keep apparatus in heat one day.",
-  "Mercury may become digested."
+  "that apparatus keep heat",
+  "day mercury may be digested"
  ],
- "inference": "Keeping the apparatus in heat for a day digests mercury.",
+ "inference": "mercury digests after day in heat",
  "uncertainties": [
-  "Exact apparatus is unspecified."
+  "exact apparatus unclear"
  ],
  "plain_english": "Keep that apparatus in heat for a day; mercury may be digested."
 }

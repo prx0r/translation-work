@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 12,
- "question": "What named text is ascertained among all traditions?",
+ "question": "What shared mount and crown do all these figures have?",
  "premises": [
-  "text is named",
-  "Uddhārakośa is named",
-  "all traditions ascertained is stated"
+  "sarve is all",
+  "vai is indeed",
+  "vṛṣabha+ārūḍhā is bull-mounted",
+  "jaṭā+makuṭa+dhāriṇaḥ is matted-hair-crown-wearing"
  ],
- "inference": "The named text Uddhārakośa is ascertained among all traditions",
+ "inference": "All are bull-mounted and wear matted-hair crowns.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "which figures are included"
  ],
- "plain_english": "The text named Uddhārakośa is ascertained among all traditions."
+ "plain_english": "All are bull-mounted and wear matted-hair crowns."
 }

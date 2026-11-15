@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 14,
- "question": "What unsurpassed mantra extraction is named for ten goddess vidyās?",
+ "question": "What is always proclaimed concerning the lord of Śrīkaṇṭha?",
  "premises": [
-  "ten goddess vidyās are named",
-  "mantra extraction is named",
-  "unsurpassed is stated"
+  "śrīkaṇṭha+nātha+adhipatiḥ is śrīkaṇṭha-nātha-lord",
+  "iti is thus",
+  "nityaṃ is always",
+  "prakīrtitam is proclaimed"
  ],
- "inference": "An unsurpassed mantra extraction is named for ten goddess vidyās",
+ "inference": "The lord of Śrīkaṇṭha is always proclaimed thus.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "the content of iti is not expanded"
  ],
- "plain_english": "The unsurpassed mantra extraction of the ten goddess vidyās."
+ "plain_english": "The lord of Śrīkaṇṭha is always proclaimed thus."
 }

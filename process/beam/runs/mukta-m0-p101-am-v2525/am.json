@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2525,
- "question": "What color and simile characterize this deity's form?",
+ "question": "Which auspicious moment day constellation and lunar day are prescribed for performing this rite?",
  "premises": [
-  "The verse gives the color red.",
-  "It compares the form to fire.",
-  "The fire is said to abide in five elements."
+  "auspicious moment is required",
+  "auspicious day is required",
+  "good constellation is required",
+  "lunar day is required"
  ],
- "inference": "The deity's form is red like fire residing in the five elements.",
+ "inference": "The verse prescribes performing the rite only under these auspicious calendrical conditions.",
  "uncertainties": [
-  "The excerpt does not name the deity explicitly."
+  "exact rite unnamed in this verse",
+  "gender and number of guha address inferred"
  ],
- "plain_english": "Red-colored, like fire abiding in the five elements."
+ "plain_english": "Perform it on an auspicious moment, day, constellation, and lunar day, O Guha."
 }

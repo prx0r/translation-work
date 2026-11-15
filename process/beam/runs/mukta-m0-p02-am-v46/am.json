@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p02",
  "verse": 46,
- "question": "What mantra and count are prescribed for this rite?",
+ "question": "Which goddess names appear in this list?",
  "premises": [
-  "Punarnava root is bound in hand on Pushya.",
-  "The mantra is given and chanted in large count.",
-  "The claim concerns mantra prescription."
+  "Puṣṭi is named",
+  "Tuṣṭi is named",
+  "Lakṣmī is named",
+  "Sarasvatī is named",
+  "two editorial markers appear"
  ],
- "inference": "The prescribed mantra is chanted in a large count after binding punarnava root.",
+ "inference": "the list includes Puṣṭi, Tuṣṭi, Lakṣmī, and Sarasvatī with two unreadable items",
  "uncertainties": [
-  "mantrastavatraiva parsing is uncertain."
+  "two starred tokens are unresolved"
  ],
- "plain_english": "On Pushya, bind punarnava root in hand after seven mantras; chant the given mantra in great count."
+ "plain_english": "Puṣṭi, Tuṣṭi, and likewise two unreadable items, Lakṣmī, and Sarasvatī."
 }

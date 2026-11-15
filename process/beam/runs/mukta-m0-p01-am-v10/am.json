@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p01",
  "verse": 10,
- "question": "Who desired to make a text by the great goddess's power?",
+ "question": "What form is to be known as three-eyed, four-armed, trident-bearing, and axe-holding?",
  "premises": [
-  "by her power is stated",
-  "great goddess is named",
-  "text making is desired"
+  "triṇetraṃ is three-eyed",
+  "caturbhujaṃ is four-armed",
+  "jñeyaṃ is to-be-known",
+  "śūlaṃ is trident",
+  "paraśu+dhāriṇam is axe-holding"
  ],
- "inference": "He desired to make a text by the great goddess's power",
+ "inference": "The form to be known is three-eyed, four-armed, trident-bearing, and axe-holding.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "the deity's name is not stated"
  ],
- "plain_english": "By her power, he desired to make a text, O great goddess."
+ "plain_english": "The form to be known is three-eyed, four-armed, trident-bearing, and axe-holding."
 }

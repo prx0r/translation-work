@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "tat+alābhe",
+     "gloss": "that-unavailability",
+     "grounds": "sandhi fusion marked by +; locative sense of unavailability",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taṭākaṃ",
+     "gloss": "tank",
+     "grounds": "accusative object of bathing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt.√as"
+    },
+    {
+     "surface": "tat+alābhe",
+     "gloss": "that-unavailability",
+     "grounds": "repeated condition of unavailability",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "puṣkaraḥ",
+     "gloss": "pond",
+     "grounds": "nominative subject of substitute",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What substitute bathing water source should be used when the prescribed materials are unavailable?",
+   "premises": [
+    "tank is used when that is unavailable",
+    "pond is used when that is unavailable",
+    "but marks the second substitute"
+   ],
+   "inference": "The verse prescribes a fallback sequence from tank to pond when the primary bathing materials cannot be obtained.",
+   "uncertainties": [
+    "exact referent of tat is inferred from prior bathing-material context"
+   ],
+   "plain_english": "If that is unavailable, a tank; if that is unavailable, but a pond."
+  }
+ ]
+}

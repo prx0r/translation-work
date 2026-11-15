@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 108,
- "question": "Which color and seat arrangement is being described here?",
+ "question": "Which rice offerings are excluded with red sandal fragrance?",
  "premises": [
-  "The token list gives a bindu seat.",
-  "A color term closes the unit."
+  "rakta-candana-gandhena names the fragrance",
+  "akṣataṃ and taṇḍulam name rice types",
+  "na ca excludes both"
  ],
- "inference": "The unit describes revolving bright forms around a bindu seat in red color.",
+ "inference": "With red sandal fragrance, neither unbroken rice nor husked rice is used.",
  "uncertainties": [
-  "The exact deity name is not explicit in these tokens."
+  "whether exclusion is absolute or contextual"
  ],
- "plain_english": "Revolving bright forms surround the bindu seat in red color."
+ "plain_english": "With red sandal fragrance, not unbroken rice nor husked rice."
 }

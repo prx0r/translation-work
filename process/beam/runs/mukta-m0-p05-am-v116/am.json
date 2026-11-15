@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 116,
- "question": "Which goddess and color is being remembered here?",
+ "question": "Which further spirit classes are named in the list?",
  "premises": [
-  "The token list names Lakini.",
-  "A color term closes the unit."
+  "bhūta vetāla kuśmāṇḍān name spirit classes",
+  "kumāra pāha pūtanān name further classes",
+  "all are accusative objects"
  ],
- "inference": "The unit prescribes remembering black-colored Lakini with the listed attributes.",
+ "inference": "The list further names bhūtas, vetālas, kuśmāṇḍas, kumāras, pāhas, and pūtanas.",
  "uncertainties": [
-  "Some token boundaries are fused in the source."
+  "whether pāha is a class or epithet"
  ],
- "plain_english": "Remember black-colored Lakini with the listed attributes."
+ "plain_english": "Bhūtas, vetālas, kuśmāṇḍas, kumāras, pāhas, and pūtanas."
 }

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative of pūr 'fill'",
+     "morph": "3.sg.act.opt+pūr"
+    },
+    {
+     "surface": "viṃśati+padaṃ",
+     "gloss": "twenty-squares",
+     "grounds": "compound members joined by +",
+     "morph": "compound (viṃśati+pada)"
+    },
+    {
+     "surface": "dravyāṇāṃ",
+     "gloss": "of-substances",
+     "grounds": "genitive plural of dravya",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "rule",
+     "grounds": "nominative singular of vidhi",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How many squares of substances should one fill according to rule?",
+   "premises": [
+    "one should fill twenty squares",
+    "substances are to be filled",
+    "filling follows the rule"
+   ],
+   "inference": "The prescribed procedure requires filling twenty squares with substances.",
+   "uncertainties": [
+    "exact substances are unspecified",
+    "vidhi refers to an unstated procedure"
+   ],
+   "plain_english": "One should fill twenty squares of substances, as the rule prescribes."
+  }
+ ]
+}

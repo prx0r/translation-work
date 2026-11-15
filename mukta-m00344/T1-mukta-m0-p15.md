@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[all](sarva) [happiness](sukha) [means](sādhane) [being-existent](sati) [thus](api) [meaning](iti+arthaḥ) [great](mahā) [king](rājaḥ) [pearl](muktā) [crest](cūḍaḥ)
+[all-happiness-accomplishment](sarvasukhasādhane) [even-though-true](satyapītyarthaḥ) [great-king](mahārājo) [muktācūḍa](muktācūḍaḥ)
 
 ## mukta-m0-p15-v352
-[therefore](ataḥ) [all](akhila) [objects](viṣayāṇāṃ) [together](sambhūya) [happiness](sukha) [means-ness](sādhanatvam) [thus](iti) [if](cet) [says](āha) [which](yaḥ) [this](ayam) [thus](iti)
+[therefore](ato'khilaviṣayāṇāṃ) [all-objects](akhilaviṣayāṇāṃ) [combined](sambhūya) [happiness-accomplishment](sukhasādhanatvamiti) [if-so](cedāha) [this](yo'yamiti)
 
 ## mukta-m0-p15-v353
-[there](tatra) [also](api) [thus](iti) [that](tat) [happiness](sukha) [object](viṣaye) [also](api) [thus](iti) [meaning](arthaḥ)
+[there-too](tatrāpīti) [in-that-happiness-object](tatsukhaviṣaye'pītyarthaḥ)
 
 ## mukta-m0-p15-v354
-[suffering](duḥkhaṃ) [but](tu) [twofold](dividhaṃ) [declared](proktaṃ) [external](bāhyam) [internal](āntaram) [thus](iti) [also](api)
+[pain](duḥkhaṃ) [but](tu) [two-fold](dividhaṃ) [said](proktaṃ) [external-internal](bāhyamāntaramityapi)
 
 ## mukta-m0-p15-v355
-[divides](vibhajati) [suffering](duḥkhaṃ) [but](tu) [thus](iti)
+[divides](vibhajati) [pain](duḥkhaṃ) [tviti](tviti)
 
 ## mukta-m0-p15-v356
-[internal](āntaraṃ) [mental](mānasaṃ) [declared](proktaṃ) [and-that](tat+ca) [desire](vāñchā) [born](samudbhavam)
+[internal](āntaraṃ) [mental](mānasaṃ) [said](proktaṃ) [that](tacca) [desire-born](vāñchāsamudbhavam)
 
 ## mukta-m0-p15-v357
-[humors](dhātavaḥ) [wind](vāta) [bile](pitta) [and-others](ādayaḥ) [by-etcetera](ādinā) [boil](sphoṭa) [injury](abhighāta) [and-others](ādiḥ)
+[elements](dhātavo) [wind-bile-etc](vātapittādayaḥ) [etc](ādinā) [boil-strike-etc](sphoṭābhighātādiḥ)
 
 ## mukta-m0-p15-v358
-[desire](vāñchā) [alone](eva) [suffering](duḥkha) [tree](viṭapi) [seed](bījaṃ) [very-firm](su+dṛḍha) [power](śaktikam)
+[desire-itself](vāñchaiva) [pain-tree-seed](duḥkhaviṭapibījaṃ) [strong-power](sudṛḍhaśaktikam)
 
 ## mukta-m0-p15-v359
-[Indra](indra) [and-others](ādayaḥ) [also](api) [gods](vibudhāḥ) [heaven](svar) [dwellers](nivāsāḥ) [always](sadā) [exalted](uditāḥ)
+[indra-etc](indrādayo'pi) [gods](vibudhāḥ) [heaven-dwelling](svarnivāsāḥ) [always-risen](sadoditāḥ)
 
 ## mukta-m0-p15-v360
-[to-counteract](pratīkartum) [unable](asamarthāḥ) [indeed](eva) [gods](devāḥ) [thus](iti) [intention](āśayaḥ)
+[to-counter](pratīkartumasamarthā) [unable](asamarthā) [indeed](eva) [gods](devā) [meaning](ityāśayaḥ)
 
 ## mukta-m0-p15-v361
-[that](tat) [suffering](duḥkham) [alone](eva) [know](jānīhi) [which](yat) [in-worms](kṛmiṣu) [also](api) [may-arise](sambhavet)
+[that](tad) [pain-only](duḥkhameva) [know](jānīhi) [which](yat) [in-worms](kṛmiṣvapi) [possible](sambhavet)
 
 ## mukta-m0-p15-v362
-[with-little](su+alpa) [desire](vāñchā) [mixed](sammilitaṃ) [of-men](nṛṇāṃ) [what](kiṃ) [may-be](syāt) [happiness](sukhaṃ) [tell](vada)
+[small-desire-combined](svalpavāñchāsammilitaṃ) [of-men](nṛṇāṃ) [what](kiṃ) [would-be](syāt) [happiness](sukhaṃ) [say](vada)
 
 ## mukta-m0-p15-v363
-[because-of-incapacity](kārya+akṣamatvāt) [that](tat) [not](na) [happiness](sukha) [semblance](ābhāsam) [even](api) [thus](iti) [sense](bhāvaḥ)
+[incapacity-for-action](kāryākṣamatvāt) [that](tanna) [not](na) [even-appearance-of-happiness](sukhābhāsamapīti) [sense](bhāvaḥ)
 
 ## mukta-m0-p15-v364
-[happy](sukhī) [one-may-become](bhavet) [here](iha) [then](tadā) [who](kaḥ) [indeed](hi) [not](na) [may-be](syāt) [happy](sukhī) [tell](vada)
+[happy](sukhī) [would-be](bhavediha) [then](tadā) [who](ko) [not](hi) [na](na) [happy](sukhī) [say](vada)
 
 ## mukta-m0-p15-v365
-[something](kiñcit) [garland](srak) [sandalwood](candana) [and-others](ādi)
+[some](kiñcit) [garland-sandal-etc](srakcandanādi)
 
 ## mukta-m0-p15-v366
-[if](yadi) [cool](śītala) [body](dehaḥ) [may-be](syāt) [then](tadā) [he](saḥ) [also](api) [happy](sukhī) [may-become](bhavet)
+[if](yadi) [cool-body](śītaladehaḥ) [would-be](syāttadā) [that-too](so'pi) [happy](sukhī) [would-be](bhavet)
 
 ## mukta-m0-p15-v367
-[sandalwood](pāṭīra) [drop](binduḥ) [sandalwood](candana) [drop](binduḥ)
+[sandal-paste-drop](pāṭīrabinduścandanabinduḥ)
 
 ## mukta-m0-p15-v368
-[there](tatra) [alone](eva) [of-limb](aṅgasya) [stiffness](vis'ma) [bondage](bandhāt) [suffering](duḥkhaṃ) [may-arise](bhavet) [indeed](nanu)
+[there-in-limb](tatraivāṅgasya) [from-union](vis'mabandhād) [pain](duḥkhaṃ) [would-be](bhavennanu)
 
 ## mukta-m0-p15-v369
-[afterwards](anantaraṃ) [burden](bhāra) [carrying](vāha) [beast](paśoḥ) [like](iva) [fatigue](pariśramaḥ)
+[afterwards](anantaraṃ) [burden-bearing-animal-like](bhāravāhapaśoriva) [fatigue](pariśramaḥ)
 
 ## mukta-m0-p15-v370
-[burden](bhāra) [carrying](vāha) [beast](paśu) [fatigued](pariśrānti) [like](vat)
+[burden-bearing-animal-fatigue-like](bhāravāhapaśupariśrāntivat)
 
 ## mukta-m0-p15-v371
-[as-long-as](yāvat) [happiness](sukhaṃ) [in-beloved](priyā) [embrace](saṅge) [nerve](nāḍī) [contact](saṃghaṭṭa) [arising](sambhavam)
+[as-long-as](yāvat) [happiness](sukhaṃ) [in-beloved-contact](priyāsaṅge) [nerve-collision-born](nāḍīsaṃghaṭṭasambhavam)
 
 ## mukta-m0-p15-v372
-[thus](evam) [of-this](asya) [suffering](duḥkha) [endowed-with](yuktatvāt) [that](tat) [happiness](saukhyaṃ) [how](kathaṃ) [you-see](paśyasi)
+[thus](evamasya) [pain-associated](duḥkhayuktatvāttatsaukhyaṃ) [how](kathaṃ) [see](paśyasi)
 
 ## mukta-m0-p15-v373
-[which](yat) [than-that](tataḥ) [indeed](hi) [additional](atiriktaṃ) [to-you](te) [seen](dṛṣṭa) [beauty](saundarya) [arising](sambhavam)
+[that](yattato) [beyond](hyatiriktaṃ) [your](te) [seen-beauty-born](dṛṣṭasaundaryasambhavam)
 
 ## mukta-m0-p15-v374
-[more](adhikam) [seen](dṛṣṭa) [beauty](saundarya) [arising](sambhavaṃ) [beauty](saundarya) [seeing](darśana) [born](jam)
+[more](adhikam) [seen-beauty-born](dṛṣṭasaundaryasambhavaṃ) [beauty-sight-born](saundaryadarśanajam)
 
 ## mukta-m0-p15-v375
-[formerly](purā) [someone](kaścit) [king](rāja) [son](sutaḥ) [than-Cupid](manmatha) [more](adhika) [beautiful](sundaraḥ)
+[formerly](purā) [some](kaścidrājasuto) [king's-son](rājasuto) [cupid-surpassing-beautiful](manmathādhikasundaraḥ)

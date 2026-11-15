@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2480,
- "question": "What forms of marks are designated for the merchant class?",
+ "question": "What material should be used for wooden and earthen pedestals?",
  "premises": [
-  "The merchant class is specified as the beneficiary.",
-  "A triangular form is mentioned.",
-  "An elongated round form like a trident is also mentioned."
+  "wooden pedestal uses wood",
+  "earthen pedestal uses earth",
+  "material matching is required"
  ],
- "inference": "For merchants, a triangle and likewise an elongated round trident-like form are designated.",
- "uncertainties": [],
- "plain_english": "For merchants, that triangle and likewise an elongated, round, trident-like form are prescribed."
+ "inference": "Each pedestal should be made from its matching material.",
+ "uncertainties": [
+  "other materials not addressed"
+ ],
+ "plain_english": "Make wooden pedestals of wood and earthen ones of earth."
 }

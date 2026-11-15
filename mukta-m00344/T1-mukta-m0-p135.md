@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p135-v3351
-how-many(kiyanti) these(etāḥ) accomplishments(siddhayaḥ) indeed(vai) time-wasting(kāla+kṣapaṇa) causes(hetavaḥ)
+[how-many](kiyanti) [these](etāḥ) [accomplishments](siddhayaḥ) [indeed](vai) [time-wasting](kālakṣapaṇa) [causes](hetavaḥ)
 
 ## mukta-m0-p135-v3352
-accomplishments(siddhayaḥ) how-many(kiyanti) knowledge(jñāna) obstacles(antarāyatvena) time-wasting(kāla+kṣapaṇa) causes(hetavaḥ)
+[accomplishments](siddhayaḥ) [how-many](kiyanti) [as-obstacles-to-knowledge](jñānāntarāyatvena) [time-wasting](kālakṣapaṇa) [causes](hetavaḥ)
 
 ## mukta-m0-p135-v3353
-by-which(yayā) complete(atyanta) sorrow-destruction(śoka+nāśaḥ) may-be(bhavet) bliss(ānanda) density(sāndratā)
+[by-which](yayā) [complete-sorrow-destruction](atyantaśokanāśaḥ) [would-be](bhaved) [bliss-density](ānandasāndratā)
 
 ## mukta-m0-p135-v3354
-bliss-density(ānanda+sāndratā) bliss(ānanda) single-essence(eka+rasatā)
+[bliss-density](ānandasāndratā) [single-flavor-bliss](ānandaikarasatā)
 
 ## mukta-m0-p135-v3355
-this(iyam) self-knowledge(ātma+jñāna) accomplishment(siddhiḥ) various(vividha) practice(abhyāsa) difference(bhedataḥ)
+[this](iyam) [self-knowledge-accomplishment](ātmajñānasiddhiḥ) [from-difference-of-practices](vividhābhyāsabhedataḥ)
 
 ## mukta-m0-p135-v3356
-to-state(vaktum) begins(upakramate) thus(iti) this(iyam) practice(abhyāsa) difference(bhedataḥ) gradation(tāratamyāt)
+[to-speak](vaktum) [begins](upakramate) [this](iyam) [thus](iti) [of-practice](abhyāsasya) [from-difference](bhedataḥ) [gradation](tāratamyāt)
 
 ## mukta-m0-p135-v3357
-summary(saṃkṣepaḥ) but(tu) threefold(trividhā) and(ca) highest(uttamā) middle(madhyamā) lowest(adhamā)
+[summary](saṃkṣepaḥ) [but](tu) [threefold](trividhā) [and](ca) [highest](uttamā) [middle](madhyamā) [lowest](adhamā)
 
 ## mukta-m0-p135-v3358
-its(tasya) practice(abhyāsaḥ) that(tad) single-form(eka+ākāra) reflection(vimarśa) stream(dhārā) conformity(anurūpaḥ) maturation(paripāka) difference(bhedaḥ) thus(iti) meaning(bhāvaḥ)
+[of-that-practice](tasyābhyāsaḥ) [that-one-form-reflection-stream](tadekākāravimarśadhārā) [according-to](anurūpaḥ) [ripening-difference](paripākabhedaḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p135-v3359
-by-intellect(medhayā) and(ca) by-great-practice(mahā+abhyāsāt) activity(vyāpāra) hundred(śata) filled(saṃkulā)
+[by-intellect](medhayā) [and](ca) [from-great-practice](mahābhyāsāt) [hundred-activities-crowded](vyāpāraśatasaṃkulā)
 
 ## mukta-m0-p135-v3360
-by-intellect(buddhyā) thus(iti) meaning(arthaḥ) practice(abhyāsaḥ) repetition(āvartana) etc.-form(ādi+rūpaḥ)
+[intellect](buddhiḥ) [thus-meaning](etyarthaḥ) [practice](abhyāsaḥ) [repetition-etc-form](āvartanādirūpaḥ)
 
 ## mukta-m0-p135-v3361
-of-the-concentrated(samāhitasya) in-activity(vyāpāre) of-the-unconcentrated(asamāhitasya) and(ca) at-other-time(anyadā)
+[of-concentrated](samāhitasya) [in-activity](vyāpāre) [of-unconcentrated](asamāhitasya) [and](ca) [at-other-times](anyadā)
 
 ## mukta-m0-p135-v3362
-middle(madhyamā) accomplishment(siddhiḥ) this(sā) called(uktā) thus(iti)
+[middle](madhyamā)
 
 ## mukta-m0-p135-v3363
-which(yā) always(sadā) indeed(hi) contemplation(anusandhāna) yoga(yogāt) alone(eva) may-be(bhavet) thus(tathā)
+[which](yā) [always](sadā) [indeed](hi) [through-continuous-contemplation-yoga](anusandhānayogāt) [eva](eva) [would-be](bhavet) [thus](tathā)
 
 ## mukta-m0-p135-v3364
-thus(tathā) unfaltering(askhalitā) accomplishment(siddhiḥ) this(sā) called(uktā)
+[thus](tathā) [unfailing](askhalitā)
 
 ## mukta-m0-p135-v3365
-thus(evam) indeed(eva) self-realization(ātma+vijñāna) accomplishment(siddhiḥ) declared(uktā) threefold(tridhā) sages(ṛṣayaḥ)
+[thus-indeed](evameva) [self-knowledge-accomplishment](ātmavijñānasiddhiḥ) [said](uktā) [threefold](tridharṣayaḥ)
 
 ## mukta-m0-p135-v3366
-lowest(adhamā) example(dṛṣṭāntam) having-established(upapādya) in-the-exemplified(dārṣṭāntike) applies(yojayati) thus(evam) indeed(eva) thus(iti)
+[lowest](adhamā) [example-establishing](dṛṣṭāntamupapādya) [in-exampled](dārṣṭāntike) [connects](yojayati) [thus-indeed](evameveti)
 
 ## mukta-m0-p135-v3367
-at-other-time(anyadā) or(vā) in-its-absence(tad+varjane) always(sarvadā) connected(pratisandhitaḥ)
+[at-other-times](anyadā) [that-excluding](tadvarjane) [or](vā) [always](sarvadā) [reconnected](pratisandhitaḥ)
 
 ## mukta-m0-p135-v3368
-may-be(syāt) thus(iti) construction(anvayaḥ) this(ayam) meaning(arthaḥ)
+[would-be](syāt) [thus-connection](ityanvayaḥ)
 
 ## mukta-m0-p135-v3369
-here(atra) highest(uttamā) alone(eva) of-accomplishment(saṃsiddheḥ) supreme(parā) limit(kāṣṭhā) described(nirūpitā)
+[here](atra) [highest-indeed](uttamaiva) [of-accomplishment](saṃsiddheḥ) [supreme](parā) [limit](kāṣṭhā) [determined](nirūpitā)
 
 ## mukta-m0-p135-v3370
-highest(uttamā) alone(eva) of-knowledge-accomplishment(jñāna+siddheḥ) supreme(parā) limit(kāṣṭhā)
+[highest-indeed](uttamaiva) [of-knowledge-accomplishment](jñānasiddheḥ) [supreme](parā) [limit](kāṣṭhā)
 
 ## mukta-m0-p135-v3371
-inquiry(vicāra) moment(kṣaṇa) equal(tulyā) indeed(eva) accomplishment(siddhiḥ) that(sā) supremely-highest(parama+uttamā)
+[reflection-moment-equal](vicārakṣaṇatulya) [eva](eva) [accomplishment](siddhiḥ) [that](sā) [supreme-highest](paramottamā)
 
 ## mukta-m0-p135-v3372
-body(śarīra) etc.(ādi) I-sense(ahaṃ+bhāva) abandonment(varjanena) pure(śuddha) consciousness(cit) mere(mātra) I-sense(ahaṃ+bhāva) form(rūpā)
+[body-etc-i-sense-abandoning](śarīrādyahaṃbhāvavarjanena) [pure-consciousness-only-i-sense-form](śuddhacinmātrāhaṃbhāvarūpā)
 
 ## mukta-m0-p135-v3373
-when(yadā) arising(pravṛttiḥ) of-accomplishment(siddheḥ) that(sā) supreme(parā) limit(kāṣṭhā) declared(samīritā)
+[when](yadā) [activity](pravṛttiḥ) [of-accomplishment](siddheḥ) [that](sā) [supreme](parā) [limit](kāṣṭhā) [declared](samīritā)
 
 ## mukta-m0-p135-v3374
-by-latent-impression(saṃskāra) awakening(udbodhena) when(yadā) arising(pravṛttiḥ)
+[by-impression-awakening](saṃskārodbodhena) [when](yadā) [activity](pravṛttiḥ)
 
 ## mukta-m0-p135-v3375
-unobstructed(avyāhatā) when(yadā) accomplishment(siddhiḥ) then(tadā) limit(kāṣṭhām) reached(samāgatā)
+[unobstructed](avyāhatā) [when](yadā) [accomplishment](siddhiḥ) [then](tadā) [limit](kāṣṭhām) [reached](samāgatā)

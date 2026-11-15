@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-there(tatra) in-scriptures(āgameṣu) | thus(evam) being(sati) in-contradiction(virodhe) being(sati) | end(antaṃ) certainty(niścayam) | here-too(atra+api) in-investigation(vicāre) being-done(kṛte)+even(api)
+[there](tatra) [in-texts](āgameṣu) [thus](evaṃ) [being](sati) [in-contradiction](virodhe) [being](sati) [end](antaṃ) [certainty](niścayam) [here-too](atrāpi) [inquiry](vicāre) [done](kṛte'pi)
 
 ## mukta-m0-p36-v877
-this(etad) tell(brūhi) dear(priye) properly(samyag) not(na)+indeed(hi)+this(etat)+to-you(te)+is(asti)+unthinkable(acintitam)
+[this](etad) [speak](brūhi) [dear](priye) [properly](samyag) [not](nahi) [this](etat) [is](asti) [unthought](acintitam)
 
 ## mukta-m0-p36-v878
-due-to-omniscience+likeness(sarvajña+kalpatvāt)+thus(iti)+with-intention(āśayena)+says(āha) - not(na)+indeed(hi)+this(etat)+thus(iti)
+[by-omniscience-assumption](sarvajñakalpatvādityāśayenāha) [not](nahi) [this](etad) [thus](iti)
 
 ## mukta-m0-p36-v879
-sixth(ṣaṣṭhaḥ)+chapter(adhyāyaḥ)
+[sixth](ṣaṣṭho) [chapter](adhyāyaḥ)
 
 ## mukta-m0-p36-v880
-spoke(provāca) wise-woman(viduṣī) properly(samyag) known+world+condition(vijñāta+loka+saṃsthitiḥ)
+[spoke](provāca) [learned-woman](viduṣī) [properly](samyag) [knowing-world-order](vijñātalokasaṃsthitiḥ)
 
 ## mukta-m0-p36-v881
-by-which(yayā)
+[by-which](yayā)
 
 ## mukta-m0-p36-v882
-mind(manaḥ) indeed(hi) monkey+like(markaṭa+prāyam)+unsteady(asthiraṃ) always(sarvadā)+indeed(eva) that(tat)
+[mind](mano) [indeed](hi) [monkey-like](markaṭaprāyam) [unsteady](asthiraṃ) [always](sarvadaiva) [that](tat)
 
 ## mukta-m0-p36-v883
-steadiness(sthairyam)+thus(iti) meaning(bhāvaḥ) | since(yataḥ) thus(evam) that(tat) therefore(tasmāt) steady+minded(sthira+svantaḥ) thus(iti) construction(yojanā)
+[steadiness](sthairyam) [thus](iti) [meaning](bhāvaḥ) [because](yata) [thus](evaṃ) [that](tat) [therefore](tasmāt) [steady-mind](sthirasvanta) [thus](iti) [connection](yojanā)
 
 ## mukta-m0-p36-v884
-moving+mind(calan+manaḥ) all+sorrows+cause(sarva+duḥkhāni+dānaṃ) seen(dṛṣṭam)+indeed(eva) indeed(hi)
+[restless-mind](calanmanaḥ) [all-suffering](sarvaduḥkhāni) [cause](nidānaṃ) [seen](dṛṣṭam) [indeed](eva) [hi](hi)
 
 ## mukta-m0-p36-v885
-by-that+unsteadiness(tat+asthairyeṇa) what(kim) to-me(me) would-be(bhavet)+thus(iti) if(ced)+says(āha) - since(yataḥ) thus(iti) | of-mind(manasaḥ)+moving(calanāt)+thus(iti)+meaning(arthaḥ)
+[that-unsteadiness](tadasthairyaṇa) [what](kiṃ) [to-me](me) [would-be](bhavediti) [if](ced) [says](āha) [because](yata) [thus](iti) [from-mind-movement](manasaścalanādityarthaḥ)
 
 ## mukta-m0-p36-v886
-therefore(tasmāt)+mind(manaḥ) having-made-steady(sthirīkṛtya) hear(śṛṇu) what(yat)+to-you(te) I-say(bravīmi)+I(aham)
+[therefore](tasmān) [mind](manaḥ) [steadying](sthirīkṛtya) [hear](śṛṇu) [what](yat) [to-you](te) [I-speak](bravīmyaham)
 
 ## mukta-m0-p36-v887
-fruitless(aphalaṃ) would-be(syāt)+that(tat)+exceedingly(atyantaṃ) as(yathā) picture+tree+resort(citra+taru+śrayaḥ)
+[fruitless](aphalaṃ) [would-be](syāt) [that](tad) [extremely](atyantaṃ) [as](yathā) [painted-tree-shelter](citrataruśrayaḥ)
 
 ## mukta-m0-p36-v888
-exhaustion(śrāṇaṃ) would-be(syāt)+thus(iti) meaning(bhāvaḥ) | that(tat) hearing(śravaṇam)
+[hearing](śrāṇaṃ) [would-be](syāditi) [meaning](bhāvaḥ) [that](tat) [hearing](śravaṇam)
 
 ## mukta-m0-p36-v889
-good+reasoning(sat+tarkam)+having-resorted-to(āśritya) person(janaḥ) may-obtain(prāpnuyāt) good+fruit(su+phalaṃ) quickly(drutam)
+[good-reasoning](sattarkam) [resorting](āśritya) [person](janaḥ) [would-obtain](prāpnuyāt) [good-fruit](suphalaṃ) [quickly](drutam)
 
 ## mukta-m0-p36-v890
-good+reasoning+produced(sat+tarka+janitāṃ) faith(śraddhāṃ) having-obtained(prāpya)+here(iha) fruit+sharer(phala+bhāk) man(naraḥ)
+[good-reasoning-born](sattarkajanitāṃ) [faith](śraddhāṃ) [obtaining](prāpyeha) [fruit-share](phalabhāg) [man](naraḥ)
 
 ## mukta-m0-p36-v891
-becomes(bhavati)+thus(iti)+intention(āśayaḥ)
+[becomes](bhavatītyāśayaḥ)
 
 ## mukta-m0-p36-v892
-activity(pravṛttim)+this(etāṃ) of-the-world(jagataḥ) by-faith(śraddhayā) fruit+bearing(phala+śālinīm)
+[activity](pravṛttimetāṃ) [of-world](jagataḥ) [by-faith](śraddhayā) [fruit-bearing](phalaśālinīm)
 
 ## mukta-m0-p36-v893
-meaning(bhāvaḥ)
+[meaning](bhāvaḥ)
 
 ## mukta-m0-p36-v894
-by-faith(śraddhayā)+indeed(eva) likewise(tathā) silver+ruby+gold+gem+medicine+etc(rūpya+svarṇa+ratna+auṣadha+ādikam)
+[by-faith-only](śraddhayaiva) [thus](tathā) [silver-gold-gems-medicines-etc](rūpyasvarṇaratnauṣadhādikam)
 
 ## mukta-m0-p36-v895
-you(tvam)+like(iva) silently(tūṣṇīṃ) stands(tiṣṭhati)+thus(iti) meaning(bhāvaḥ)
+[you-like](tvamiva) [silently](tūṣṇīṃ) [stands](tiṣṭhatīti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p36-v896
-therefore(tasmāt) by-good+reasoning+and-faith(su+tarka+śraddhābhyāṃ) having-determined(vyavasya) welfare(śreyaḥ) of-self(ātmanaḥ)
+[therefore](tasmāt) [good-reasoning-faith](sutarkaśraddhābhyāṃ) [deciding](vyavasya) [welfare](śreya) [of-self](ātmanaḥ)
 
 ## mukta-m0-p36-v897
-having-ascertained(niścitya) for-its+accomplishment(tat+sādhanāya) one-should-strive(yeteta)+thus(iti) connection(sambandhaḥ)
+[having-decided](niścitya) [for-its-accomplishment](tatsādhanāya) [yet](yetediti) [connection](sambandhaḥ)
 
 ## mukta-m0-p36-v898
-one-should-desist(viramet) from-human-effort(pauruṣāt) from-exertion(yatnāt)+horn+following+men(śuṅga+anuga+narāḥ) like(iva)
+[one-may-cease](viramet) [from-effort](pauruṣād) [from-exertion](yatnācchuṅgānuganarā) [like](iva)
 
 ## mukta-m0-p36-v899
-human-effort+exertion+averse(pauruṣa+yatna+vimukhaḥ) not(na) should-be(bhavet)+thus(iti)+says(āha) - not(na)+indeed(hi)+thus(iti)
+[effort-averse](pauruṣayatnavimukho) [not](na) [would-be](bhavedityāha) [not](nahīti)
 
 ## mukta-m0-p36-v900
-firmly(dṛḍhaṃ) human-effort(pauruṣam)+having-resorted-to(āśritya) not(na) would-be-obtained(prāpyeta) how(kathaṃ) fruit(phalam)
+[firm](dṛḍhaṃ) [effort](pauruṣam) [resorting](āśritya) [not](na) [would-be-obtained](prāpyeta) [how](kathaṃ) [fruit](phalam)

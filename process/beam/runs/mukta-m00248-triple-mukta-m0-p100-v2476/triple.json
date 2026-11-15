@@ -1,0 +1,1337 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2476,
+   "rows": [
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "time",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "two",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "more",
+     "grounds": "more",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "in-all",
+     "grounds": "all",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "pedestals",
+     "grounds": "pedestal",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistaram",
+     "gloss": "width",
+     "grounds": "width",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "How much extra time is allotted for every pedestal in this rite?",
+   "premises": [
+    "time has two divisions",
+    "extra time applies",
+    "all pedestals receive it"
+   ],
+   "inference": "The verse sets a doubled or extended time measure for each pedestal.",
+   "uncertainties": [
+    "exact numerical value not stated"
+   ],
+   "plain_english": "Time is doubled or extended for every pedestal."
+  },
+  {
+   "verse": 2477,
+   "rows": [
+    {
+     "surface": "pīṭhan",
+     "gloss": "pedestal",
+     "grounds": "pedestal",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāra",
+     "gloss": "door",
+     "grounds": "door",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "mātmānaṃ",
+     "gloss": "measure",
+     "grounds": "measure",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "pedestal",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "of that",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "dviguṇasya",
+     "gloss": "double",
+     "grounds": "double",
+     "morph": "adj.m.gen.sg"
+    }
+   ],
+   "question": "What measure should the pedestal door have relative to the doubled pedestal?",
+   "premises": [
+    "pedestal has a door",
+    "measure is specified",
+    "doubled pedestal is reference"
+   ],
+   "inference": "The door measure is tied to the doubled pedestal measure.",
+   "uncertainties": [
+    "exact ratio not stated"
+   ],
+   "plain_english": "The pedestal door is measured against the doubled pedestal."
+  },
+  {
+   "verse": 2478,
+   "rows": [
+    {
+     "surface": "valayaṃ",
+     "gloss": "ring",
+     "grounds": "ring",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistaram",
+     "gloss": "width",
+     "grounds": "width",
+     "morph": "n.n.acc.sg"
+    }
+   ],
+   "question": "What alternative width measure is given for the ring?",
+   "premises": [
+    "ring is mentioned",
+    "or is offered",
+    "width is specified"
+   ],
+   "inference": "The ring may take an alternative width measure.",
+   "uncertainties": [
+    "alternative not fully specified"
+   ],
+   "plain_english": "The ring may instead be measured by width."
+  },
+  {
+   "verse": 2479,
+   "rows": [
+    {
+     "surface": "dvi",
+     "gloss": "by-two",
+     "grounds": "two",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "khaṇḍanena",
+     "gloss": "division",
+     "grounds": "division",
+     "morph": "n.n.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "to be done",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "one",
+     "morph": "num.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "alone",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "umā",
+     "gloss": "Umā",
+     "grounds": "Umā",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "would be",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should the division be performed and what becomes of Umā?",
+   "premises": [
+    "division by two is required",
+    "one alone may do it",
+    "Umā should be"
+   ],
+   "inference": "The rite requires division by two, and Umā is to be established.",
+   "uncertainties": [
+    "exact ritual action unclear"
+   ],
+   "plain_english": "Divide by two; Umā should be established."
+  },
+  {
+   "verse": 2480,
+   "rows": [
+    {
+     "surface": "dārave",
+     "gloss": "for-wooden",
+     "grounds": "wooden",
+     "morph": "adj.n.loc.sg"
+    },
+    {
+     "surface": "dāravaṃ",
+     "gloss": "wooden",
+     "grounds": "wooden",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "should make",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pārthivena",
+     "gloss": "with-earthen",
+     "grounds": "earthen",
+     "morph": "adj.n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārthivam",
+     "gloss": "earthen",
+     "grounds": "earthen",
+     "morph": "adj.n.acc.sg"
+    }
+   ],
+   "question": "What material should be used for wooden and earthen pedestals?",
+   "premises": [
+    "wooden pedestal uses wood",
+    "earthen pedestal uses earth",
+    "material matching is required"
+   ],
+   "inference": "Each pedestal should be made from its matching material.",
+   "uncertainties": [
+    "other materials not addressed"
+   ],
+   "plain_english": "Make wooden pedestals of wood and earthen ones of earth."
+  },
+  {
+   "verse": 2481,
+   "rows": [
+    {
+     "surface": "vajraṃ",
+     "gloss": "diamond",
+     "grounds": "diamond",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "maratakaṃ",
+     "gloss": "emerald",
+     "grounds": "emerald",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "māṇikyaṃ",
+     "gloss": "ruby",
+     "grounds": "ruby",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "mauktikaṃ",
+     "gloss": "pearl",
+     "grounds": "pearl",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "vidrumam",
+     "gloss": "coral",
+     "grounds": "coral",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which precious materials are listed for the pedestal?",
+   "premises": [
+    "diamond is listed",
+    "emerald ruby pearl coral are listed",
+    "materials are enumerated"
+   ],
+   "inference": "The pedestal may be made from these precious materials.",
+   "uncertainties": [
+    "whether all or alternatives unclear"
+   ],
+   "plain_english": "Diamond, emerald, ruby, pearl, and coral are listed."
+  },
+  {
+   "verse": 2482,
+   "rows": [
+    {
+     "surface": "lohena",
+     "gloss": "with-metal",
+     "grounds": "metal",
+     "morph": "n.n.inst.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "pedestal",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "to be made",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "ārakūṭena",
+     "gloss": "with-brass",
+     "grounds": "brass",
+     "morph": "n.n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "make",
+     "morph": "2.sg.act.imp"
+    }
+   ],
+   "question": "With what metals may the pedestal be made?",
+   "premises": [
+    "metal is permitted",
+    "brass is permitted",
+    "making is commanded"
+   ],
+   "inference": "The pedestal may be made with metal or brass.",
+   "uncertainties": [
+    "whether exclusive or optional unclear"
+   ],
+   "plain_english": "Make the pedestal with metal or brass."
+  },
+  {
+   "verse": 2483,
+   "rows": [
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "east",
+     "morph": "adj.n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "calanaṃ",
+     "gloss": "movement",
+     "grounds": "movement",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "liṅga",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "kṣatriyāṇāṃ",
+     "gloss": "of-kṣatriyas",
+     "grounds": "of kṣatriyas",
+     "morph": "n.m.gen.pl"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "fear",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "would be",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What consequence follows if the liṅga moves east?",
+   "premises": [
+    "eastern movement is considered",
+    "kṣatriyas are affected",
+    "fear would arise"
+   ],
+   "inference": "Movement of the liṅga east brings fear for kṣatriyas.",
+   "uncertainties": [
+    "remedy not stated"
+   ],
+   "plain_english": "If the liṅga moves east, kṣatriyas face fear."
+  },
+  {
+   "verse": 2484,
+   "rows": [
+    {
+     "surface": "brāhmaṇānāṃ",
+     "gloss": "of-brāhmaṇas",
+     "grounds": "of brāhmaṇas",
+     "morph": "n.m.gen.pl"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "fear",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "to be done",
+     "morph": "gerundive.f.nom.sg"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "consideration",
+     "morph": "n.f.nom.sg"
+    }
+   ],
+   "question": "Is fear for brāhmaṇas to be considered in this case?",
+   "premises": [
+    "brāhmaṇas are mentioned",
+    "fear is denied there",
+    "consideration is not to be done here"
+   ],
+   "inference": "No fear for brāhmaṇas is to be considered here.",
+   "uncertainties": [
+    "scope of denial unclear"
+   ],
+   "plain_english": "There is no fear for brāhmaṇas; no consideration is needed here."
+  },
+  {
+   "verse": 2485,
+   "rows": [
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "southwest",
+     "morph": "adj.f.loc.sg"
+    },
+    {
+     "surface": "calite",
+     "gloss": "when-moved",
+     "grounds": "when moved",
+     "morph": "pp.n.loc.sg"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "liṅga",
+     "grounds": "liṅga",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "catuṣ",
+     "gloss": "four",
+     "grounds": "four",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "footed",
+     "grounds": "footed",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "fear",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "would be",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What fear arises when the liṅga moves southwest?",
+   "premises": [
+    "southwest movement is considered",
+    "liṅga is moved",
+    "four-footed fear would arise"
+   ],
+   "inference": "Movement of the liṅga southwest brings four-footed fear.",
+   "uncertainties": [
+    "meaning of four-footed unclear"
+   ],
+   "plain_english": "If the liṅga moves southwest, four-footed fear arises."
+  },
+  {
+   "verse": 2486,
+   "rows": [
+    {
+     "surface": "avyagraḥ",
+     "gloss": "unperturbed",
+     "grounds": "unperturbed",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "wise",
+     "grounds": "wise",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "śanaiḥ",
+     "gloss": "slowly",
+     "grounds": "slowly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "pedestal",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "should worship",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should the wise worship the pedestal?",
+   "premises": [
+    "worshipper should be unperturbed",
+    "worshipper should be wise",
+    "pedestal should be worshipped slowly"
+   ],
+   "inference": "The wise should worship the pedestal slowly and unperturbed.",
+   "uncertainties": [
+    "ritual details omitted"
+   ],
+   "plain_english": "The wise, unperturbed, should slowly worship the pedestal."
+  },
+  {
+   "verse": 2487,
+   "rows": [
+    {
+     "surface": "aiśānyām",
+     "gloss": "in-northeast",
+     "grounds": "northeast",
+     "morph": "adj.f.loc.sg"
+    },
+    {
+     "surface": "āśrayet",
+     "gloss": "one-should-place",
+     "grounds": "should place",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "liṅga",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "pūjyam",
+     "gloss": "to-be-worshipped",
+     "grounds": "to be worshipped",
+     "morph": "gerundive.n.acc.sg"
+    },
+    {
+     "surface": "ā+candra+tārakam",
+     "gloss": "as-long-as-moon-and-stars",
+     "grounds": "moon and stars",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the liṅga be placed and for how long worshipped?",
+   "premises": [
+    "northeast placement is prescribed",
+    "liṅga is to be placed",
+    "worship lasts as long as moon and stars"
+   ],
+   "inference": "Place the liṅga in the northeast and worship it enduringly.",
+   "uncertainties": [
+    "exact duration phrase unclear"
+   ],
+   "plain_english": "Place the liṅga in the northeast, to be worshipped as long as moon and stars."
+  },
+  {
+   "verse": 2488,
+   "rows": [
+    {
+     "surface": "subhikṣaṃ",
+     "gloss": "abundance-of-food",
+     "grounds": "abundance of food",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "go+bahulaṃ",
+     "gloss": "abundant-in-cattle",
+     "grounds": "abundant in cattle",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "son",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "pautra",
+     "gloss": "grandson",
+     "grounds": "grandson",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "vivardhanam",
+     "gloss": "increase",
+     "grounds": "increase",
+     "morph": "n.n.nom.sg"
+    }
+   ],
+   "question": "What benefits follow from this placement?",
+   "premises": [
+    "food abundance is promised",
+    "cattle abundance is promised",
+    "sons and grandsons increase"
+   ],
+   "inference": "The rite brings food, cattle, and lineage increase.",
+   "uncertainties": [
+    "causal mechanism not stated"
+   ],
+   "plain_english": "It brings abundant food, cattle, and increase of sons and grandsons."
+  },
+  {
+   "verse": 2489,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "bathing",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "should cause",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "afterwards",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstra",
+     "gloss": "by-scripture",
+     "grounds": "scripture",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭena",
+     "gloss": "seen",
+     "grounds": "seen",
+     "morph": "pp.n.inst.sg"
+    },
+    {
+     "surface": "karmaṇā",
+     "gloss": "rite",
+     "grounds": "rite",
+     "morph": "n.n.inst.sg"
+    }
+   ],
+   "question": "When and by what authority should bathing be performed?",
+   "premises": [
+    "bathing is to be caused",
+    "it happens afterwards",
+    "scripture-seen rite governs it"
+   ],
+   "inference": "Bathing should be performed afterwards according to scripture-seen rite.",
+   "uncertainties": [
+    "exact timing unspecified"
+   ],
+   "plain_english": "Afterwards, cause bathing according to the scripture-seen rite."
+  },
+  {
+   "verse": 2490,
+   "rows": [
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "liṅga",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "visibly",
+     "grounds": "visibly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśānaḥ",
+     "gloss": "Maheśāna",
+     "grounds": "Maheśāna",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "pedestal",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "visibly",
+     "grounds": "visibly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "umā",
+     "gloss": "Umā",
+     "grounds": "Umā",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "would be",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What divine identities are assigned to liṅga and pedestal?",
+   "premises": [
+    "liṅga is visibly Maheśāna",
+    "pedestal is visibly Umā",
+    "both are divine"
+   ],
+   "inference": "The liṅga is Maheśāna and the pedestal is Umā.",
+   "uncertainties": [
+    "metaphorical or literal unclear"
+   ],
+   "plain_english": "The liṅga is visibly Maheśāna; the pedestal is visibly Umā."
+  },
+  {
+   "verse": 2491,
+   "rows": [
+    {
+     "surface": "sākṣāt",
+     "gloss": "visibly",
+     "grounds": "visibly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthivī",
+     "gloss": "earth",
+     "grounds": "earth",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "pedestal",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "liṅga",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "visibly",
+     "grounds": "visibly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhi+yat",
+     "gloss": "than-consciousness",
+     "grounds": "than consciousness",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "supreme",
+     "morph": "adj.n.nom.sg"
+    }
+   ],
+   "question": "How are earth, pedestal, and liṅga ranked?",
+   "premises": [
+    "earth is the pedestal",
+    "liṅga is visibly supreme",
+    "liṅga exceeds consciousness"
+   ],
+   "inference": "The pedestal is earth, while the liṅga is supreme beyond consciousness.",
+   "uncertainties": [
+    "exact metaphysical ranking unclear"
+   ],
+   "plain_english": "The pedestal is earth; the liṅga is visibly supreme beyond consciousness."
+  },
+  {
+   "verse": 2492,
+   "rows": [
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "eight",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "bandhaṃ",
+     "gloss": "bond",
+     "grounds": "bond",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "should be done",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "pīṭha+liṅgasya",
+     "gloss": "of-pedestal-and-liṅga",
+     "grounds": "of pedestal and liṅga",
+     "morph": "compound"
+    },
+    {
+     "surface": "chidrake",
+     "gloss": "in-crevice",
+     "grounds": "in crevice",
+     "morph": "n.n.loc.sg"
+    }
+   ],
+   "question": "How many bonds should be made for pedestal and liṅga?",
+   "premises": [
+    "eight bonds are required",
+    "pedestal and liṅga are bound",
+    "binding occurs in crevice"
+   ],
+   "inference": "Eight bonds should be made for pedestal and liṅga in the crevice.",
+   "uncertainties": [
+    "nature of bonds unclear"
+   ],
+   "plain_english": "Eight bonds should be made for pedestal and liṅga in the crevice."
+  },
+  {
+   "verse": 2493,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-Kālottara",
+     "grounds": "Kālottara",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "pedestal",
+     "grounds": "pedestal",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "bandha",
+     "gloss": "binding",
+     "grounds": "binding",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "chapter",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "ekona+pañcāśat",
+     "gloss": "forty-ninth",
+     "grounds": "forty-ninth",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which chapter of Kālottara is this?",
+   "premises": [
+    "text is Kālottara",
+    "chapter concerns pedestal binding",
+    "chapter number is forty-ninth"
+   ],
+   "inference": "This is the forty-ninth chapter on pedestal binding in Kālottara.",
+   "uncertainties": [
+    "numbering convention unclear"
+   ],
+   "plain_english": "Thus ends the forty-ninth chapter on pedestal binding in Kālottara."
+  },
+  {
+   "verse": 2494,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "all",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "śānti",
+     "gloss": "peace",
+     "grounds": "peace",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "making",
+     "grounds": "making",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "all",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "ariṣṭa",
+     "gloss": "calamities",
+     "grounds": "calamities",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "vināśanam",
+     "gloss": "destroying",
+     "grounds": "destroying",
+     "morph": "n.n.nom.sg"
+    }
+   ],
+   "question": "What effects does this rite have on peace and calamities?",
+   "premises": [
+    "it makes all peace",
+    "it destroys all calamities",
+    "effects are universal"
+   ],
+   "inference": "The rite makes all peace and destroys all calamities.",
+   "uncertainties": [
+    "scope of rite unclear"
+   ],
+   "plain_english": "It makes all peace and destroys all calamities."
+  },
+  {
+   "verse": 2495,
+   "rows": [
+    {
+     "surface": "grahaṇe",
+     "gloss": "at-eclipse",
+     "grounds": "eclipse",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "viṣuve",
+     "gloss": "at-equinox",
+     "grounds": "equinox",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayane",
+     "gloss": "at-solstice",
+     "grounds": "solstice",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "vyatipātake",
+     "gloss": "at-vyatipāta",
+     "grounds": "vyatipāta",
+     "morph": "n.n.loc.sg"
+    }
+   ],
+   "question": "At which astronomical occasions is this rite performed?",
+   "premises": [
+    "eclipse is included",
+    "equinox and solstice are included",
+    "vyatipāta is included"
+   ],
+   "inference": "The rite is performed at eclipse, equinox, solstice, and vyatipāta.",
+   "uncertainties": [
+    "exact ritual timing unclear"
+   ],
+   "plain_english": "It is performed at eclipse, equinox, solstice, and vyatipāta."
+  },
+  {
+   "verse": 2496,
+   "rows": [
+    {
+     "surface": "dīkṣā+ante",
+     "gloss": "at-initiation-end",
+     "grounds": "initiation end",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adbhute",
+     "gloss": "at-portent",
+     "grounds": "portent",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghora",
+     "gloss": "terrible",
+     "grounds": "terrible",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "duḥsvapna",
+     "gloss": "bad-dream",
+     "grounds": "bad dream",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "darśane",
+     "gloss": "at-seeing",
+     "grounds": "seeing",
+     "morph": "n.n.loc.sg"
+    }
+   ],
+   "question": "At which ritual and ominous occasions is this rite performed?",
+   "premises": [
+    "initiation end is included",
+    "portent is included",
+    "terrible bad dream seeing is included"
+   ],
+   "inference": "The rite is performed at initiation end, portent, and seeing a terrible bad dream.",
+   "uncertainties": [
+    "exact response unclear"
+   ],
+   "plain_english": "It is performed at initiation end, portent, and seeing a terrible bad dream."
+  },
+  {
+   "verse": 2497,
+   "rows": [
+    {
+     "surface": "bhūmikampe",
+     "gloss": "at-earthquake",
+     "grounds": "earthquake",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durbhikṣe",
+     "gloss": "at-famine",
+     "grounds": "famine",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimā",
+     "gloss": "of-image",
+     "grounds": "image",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "bhedane",
+     "gloss": "at-breaking",
+     "grounds": "breaking",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At which calamitous occasions is this rite performed?",
+   "premises": [
+    "earthquake is included",
+    "famine is included",
+    "image breaking is included"
+   ],
+   "inference": "The rite is performed at earthquake, famine, and image breaking.",
+   "uncertainties": [
+    "whether all or examples unclear"
+   ],
+   "plain_english": "It is performed at earthquake, famine, and image breaking."
+  },
+  {
+   "verse": 2498,
+   "rows": [
+    {
+     "surface": "pīṭha+bandhe",
+     "gloss": "at-pedestal-binding",
+     "grounds": "pedestal binding",
+     "morph": "compound"
+    },
+    {
+     "surface": "sudhā+kārye",
+     "gloss": "at-plastering",
+     "grounds": "plastering",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthala",
+     "gloss": "site",
+     "grounds": "site",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "saṃskāraṃ",
+     "gloss": "consecration",
+     "grounds": "consecration",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "should cause",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "When should site consecration be caused?",
+   "premises": [
+    "pedestal binding is an occasion",
+    "plastering is an occasion",
+    "site consecration should be caused"
+   ],
+   "inference": "Site consecration should be caused at pedestal binding and plastering.",
+   "uncertainties": [
+    "exact site scope unclear"
+   ],
+   "plain_english": "At pedestal binding and plastering, cause site consecration."
+  },
+  {
+   "verse": 2499,
+   "rows": [
+    {
+     "surface": "sauvarṇaiḥ",
+     "gloss": "with-golden",
+     "grounds": "golden",
+     "morph": "adj.m.inst.pl"
+    },
+    {
+     "surface": "rājataiḥ",
+     "gloss": "with-silver",
+     "grounds": "silver",
+     "morph": "adj.m.inst.pl"
+    },
+    {
+     "surface": "tāmraiḥ",
+     "gloss": "with-copper",
+     "grounds": "copper",
+     "morph": "adj.m.inst.pl"
+    },
+    {
+     "surface": "pārthivaiḥ",
+     "gloss": "with-earthen",
+     "grounds": "earthen",
+     "morph": "adj.m.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "su+saṃsthitaiḥ",
+     "gloss": "well-arranged",
+     "grounds": "well arranged",
+     "morph": "compound"
+    }
+   ],
+   "question": "With what materials may the well-arranged rite be performed?",
+   "premises": [
+    "golden is permitted",
+    "silver copper earthen are permitted",
+    "well-arranged is required"
+   ],
+   "inference": "The rite may be performed with golden, silver, copper, or earthen well-arranged materials.",
+   "uncertainties": [
+    "whether exclusive list unclear"
+   ],
+   "plain_english": "Perform it with golden, silver, copper, or earthen well-arranged materials."
+  }
+ ]
+}

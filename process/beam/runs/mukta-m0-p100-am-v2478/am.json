@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2478,
- "question": "What purposes does the prescribed mark serve for twice-born and kings?",
+ "question": "What alternative width measure is given for the ring?",
  "premises": [
-  "The mark is intended for the growth of the twice-born.",
-  "Kings are also included as beneficiaries.",
-  "The mark brings victory."
+  "ring is mentioned",
+  "or is offered",
+  "width is specified"
  ],
- "inference": "The mark is for the growth of the twice-born and for bringing victory to kings.",
- "uncertainties": [],
- "plain_english": "It is for the growth of the twice-born and for bringing victory to kings."
+ "inference": "The ring may take an alternative width measure.",
+ "uncertainties": [
+  "alternative not fully specified"
+ ],
+ "plain_english": "The ring may instead be measured by width."
 }

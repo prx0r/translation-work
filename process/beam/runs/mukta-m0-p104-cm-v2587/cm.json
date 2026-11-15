@@ -3,24 +3,29 @@
  "verse": 2587,
  "rows": [
   {
-   "lemma": "dharmādīnapyadharmādīn",
-   "morph": "m.acc.pl",
-   "grounds": "legacy hint dharma-etc-and-adharma-etc"
+   "lemma": "eka+ekena",
+   "morph": "compound",
+   "grounds": "compound: eka + ekena"
   },
   {
-   "lemma": "māyāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "legacy hint māyā"
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable particle"
   },
   {
-   "lemma": "vidyāaṃ",
-   "morph": "f.acc.sg",
-   "grounds": "legacy hint vidyā"
+   "lemma": "pañcāśat",
+   "morph": "num",
+   "grounds": "numeral"
   },
   {
-   "lemma": "guṇatrayam",
+   "lemma": "padaṃ",
    "morph": "n.acc.sg",
-   "grounds": "legacy hint three-guṇas"
+   "grounds": "accusative singular of pada"
+  },
+  {
+   "lemma": "paścima+pūrvake",
+   "morph": "compound",
+   "grounds": "compound: paścima + pūrvaka"
   }
  ]
 }

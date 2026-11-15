@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[dependent-on-that](tadadhīnaḥ) [dependent-on-worshipper](upāsakādhīnaḥ)
+[that-dependent](tadadhīnaḥ) [worshipper-dependent](upāsakādhīnaḥ)
 
 ## mukta-m0-p40-v977
-[this](eṣa) [lord-of-all](sarva+īśvaraḥ) [god](devaḥ) [lord-of-heart](hṛdaya+īśaḥ) [of-all](akhilasya) [indeed](tu)
+[this](eṣa) [all-lord](sarveśvaraḥ) [god](devaḥ) [heart-lord](hṛdayeśaḥ) [of-all](akhilasya) [but](tu)
 
 ## mukta-m0-p40-v978
-[by-being-inner-controller](antaryāmitvena) [due-to-being-situated-in-hearts-of-all](akhila+hṛdaya+sthitatvāt) [lord-of-heart](hṛdaya+īśaḥ)
+[inner-controller-ness](antaryāmitvena) [all-heart-abiding-ness](akhilahṛdayasthitatvāt) [heart-lord](hṛdayeśaḥ)
 
 ## mukta-m0-p40-v979
-[the-distressed](ārtam) [the-seeker-of-wealth](artha+arthinam) [god](devaḥ) [for-engaging-him-in-that-purpose](tat+arthena+abhiyojitum)
+[afflicted](ārtam) [wealth-seeker](arthārthinam) [god](devaḥ) [for-that-purpose](tadarthena) [to-employ](abhiyojitum)
 
 ## mukta-m0-p40-v980
-[for-that-purpose](tat+arthena) [for-the-desired-object](kāmita+arthena)
+[for-that-purpose](tadarthena) [desired-purpose](kāmitārthena)
 
 ## mukta-m0-p40-v981
-[the-causeless-worshipper](nirhetuka+upāsakam) [one-who-has-him-as-sole-refuge](sva+ananya+śaraṇam) [the-lord](vibhuḥ)
+[causeless-worshipper](nirhetukopāsakam) [own](svam) [not-other-refuge](ananyaśaraṇam) [lord](vibhuḥ)
 
 ## mukta-m0-p40-v982
-[awaiting-the-ripening-of-such-karma](evaṃvidha+karma+pākam) [having-awaited](pratīkṣya) [thus-is-the-meaning](iti+arthaḥ) [|](|) [own](svam) [one's-own](svīyam) [thus-is-the-meaning](iti+arthaḥ)
+[such-action-ripening](evaṃvidhakarmapākam) [await](pratīkṣya) [meaning](ityarthaḥ) [own](svam) [own](svīyam) [meaning](ityarthaḥ)
 
 ## mukta-m0-p40-v983
-[this-alone](etat+eva) [great-lordship](mahā+īśatvam) [supreme-independence](svātantryam+ahatam) [indeed](tu) [which](yat)
+[this-only](etadeva) [great-lordship](maheśatvam) [independence-great](svātantryamahatam) [but](tu) [that](yat)
 
 ## mukta-m0-p40-v984
-[the-transgression-of-destiny-etc](niyatyādeḥ+ullaṅghanam) [alone](eva) [thus-is-the-meaning](iti+arthaḥ)
+[of-fate-etc](niyatyādeḥ) [transgression-only](ullaṅghanameva) [meaning](ityarthaḥ)
 
 ## mukta-m0-p40-v985
-[in-the-creation-section](sṛṣṭi+khaṇḍe) [in-the-thirty-third-chapter](trayastriṃśe+adhyāye) [to-be-seen](draṣṭavyā) [|]](|])
+[creation-section](sṛṣṭikhaṇḍe) [thirty-third](trayastriṃśe) [chapter](adhyāye) [to-be-seen](draṣṭavyā)
 
 ## mukta-m0-p40-v986
-[not-this-established-by-scripture-alone](na+etat+āgama+eka+siddham) [but-established-by-tradition-also](kintu+aitihya+siddham+api) [thus-he-says](iti+āha) [-](-) [thus-this](etat+iti)
+[not-this-scripture-only-established](naitadāgamaikasiddham) [but-tradition-established-also](kintvaitihyasiddhamapi) [thus-says](ityāha) [this](etad) [thus](iti)
 
 ## mukta-m0-p40-v987
-[here](atra) [reasoning](upapattim) [to-you](te) [I-shall-tell](vakṣye) [listen](śṛṇu) [uttered-by-the-dear-to-life](prāṇa+priya+īritām) [[k:-ritam]]([k: ritam])
+[here](atra) [reasoning](upapattim) [to-you](te) [I-will-speak](vakṣye) [hear](śṛṇu) [life-dear-spoken](prāṇapriyeritām)
 
 ## mukta-m0-p40-v988
 [reasoning](upapattim) [logic](yuktim)
 
 ## mukta-m0-p40-v989
-[nevertheless](tathā+api) [for-those-without-human-effort](apauruṣāṇām) [that](tat) [destined-fruit-not-to-be-removed](prārabdham+anapohanam)
+[nevertheless](tathāpi) [non-human](apauruṣāṇām) [that](tat) [begun-action](prārabdham) [not-removing](anapohanam)
 
 ## mukta-m0-p40-v990
-[of-those-without-human-effort](apauruṣāṇām) [devoid-of-human-exertion](puruṣa+yatna+rahitānām)
+[non-human](apauruṣāṇām) [man-effort-devoid](puruṣayatnarahitānām)
 
 ## mukta-m0-p40-v991
-[not](na) [them](tān) [in-seen-sufferings](dṛṣṭeṣu) [duḥkheṣu](duḥkheṣu) [destiny](prārabdham) [engages](yojayati) [sufficiently](alam)
+[not](na) [them](tān) [seen](dṛṣṭeṣu) [sufferings](duḥkheṣu) [begun-action](prārabdham) [joins](yojayati) [enough](alam)
 
 ## mukta-m0-p40-v992
-[how-this-is-known](katham+etat+jñātam) [if-so](iti) [if](cet) [by-perception](pratyakṣeṇa) [thus-he-says](iti+āha) [-](-) [not-them](na) [tān](tān) [iti](iti)
+[how-this-known](kathametajjñātam) [if](iti) [cet](cet) [by-perception](pratyakṣeṇa) [thus-says](ityāha) [not-them](na tān) [thus](iti)
 
 ## mukta-m0-p40-v993
-[this-determined-by-destiny](etat+niyati+saṃkḷptam) [just-so](tathā+eva) [from-experience](anubhavāt) [indeed](nanu) [[kh:-na-tu]]([kh: na tu])
+[this](etad) [fate-arranged](niyatisaṃkḷptam) [so-indeed](tathaiva) [from-experience](anubhavāt) [indeed](nanu)
 
 ## mukta-m0-p40-v994
-[because-destiny-must-be-postulated](niyateḥ) [kalpanīyatvāt](kalpanīyatvāt) [thus-is-the-sense](iti) [bhāvaḥ](bhāvaḥ)
+[of-fate](niyateḥ) [imaginability](kalpanīyatvāt) [thus](iti) [sense](bhāvaḥ)
 
 ## mukta-m0-p40-v995
-[of-true-resolve](satya+saṅkalpaḥ) [alone](eva) [the-lord](īśaḥ) [untransgressable](anullaṅghyā) [indeed](hi) [for-that-reason](ataḥ) [alone](eva) [she](sā)
+[true-resolve](satyasaṅkalpa) [indeed-lord](eveśaḥ) [untransgressable](nullaṅghyā) [indeed](hi) [from-that](ata eva) [she](sā)
 
 ## mukta-m0-p40-v996
-[for-that-reason](ataḥ) [alone](eva) [because-of-being-of-true-resolve](satya+saṅkalpatvāt) [alone](eva)
+[from-that](ata eva) [true-resolve-ness](satyasaṅkalpatvāt) [indeed](eva)
 
 ## mukta-m0-p40-v997
-[unobstructed](akuṇṭhitā) [even](api) [becomes](bhavati) [because](yataḥ) [she](sā) [such](tādṛśī) [would-be](bhavet)
+[unobstructed-even](akuṇṭhitāpi) [becomes](bhavati) [because](yataḥ) [she](sā) [such](tādṛśī) [becomes](bhavet)
 
 ## mukta-m0-p40-v998
-[everywhere](sarvatra) [unobstructed](akuṇṭhitā) [alone](eva) [thus](iti)
+[everywhere-unobstructed-only](sarvatrākuṇṭhitaiva) [thus](iti)
 
 ## mukta-m0-p40-v999
-[by-causelessness](ahetukatayā) [he](saḥ) [you](tvām) [engages](niyojayati) [in-welfare](śreyasi)
+[causelessness](ahetukatayā) [he](sa) [you](tvām) [employs](niyojayati) [in-good](śreyasi)
 
 ## mukta-m0-p40-v1000
-[by-desirelessness](niṣkāmatvena) [|](|) [he](saḥ) [the-great-lord](mahā+īśaḥ)
+[desirelessness](niṣkāmatvena) [he](saḥ) [great-lord](maheśaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[existence](bhāvaḥ)
+[being](bhāvaḥ) [state](bhāvaḥ) [existence](bhāvaḥ) [nature](bhāvaḥ)
 
 ## mukta-m0-p153-v3802
-[not](na) [from-mirror](darpaṇāt) [different](bhinnam) [is](asti) [your](tva) [reflection](ādarśaḥ) [pure](śuddhaḥ) [indeed](eva) [for](hi)
+[not](na) [from-mirror](darpaṇād) [different](bhinnam) [is](asti) [your-reflection](tvādarśaḥ) [pure](śuddha) [indeed](eva) [truly](hi)
 
 ## mukta-m0-p153-v3803
-[shining](bhāsamānam) [even](api) [own-self](sva+ātmam) [alone](mātram) [indeed](eva) [not](na) [and](ca) [other](itarat)
+[shining](bhāsamānam) [also](api) [self-only](svātmamātrameva) [not](na) [other](cetat) [thing](rat)
 
 ## mukta-m0-p153-v3804
-[in-the-illustrated](dārṣṭāntike) [applies](yojayati) [thus](evam) [thus](iti) [not](na) [and](ca) [other](itarat) [shines](bhāsate) [thus](iti) [remainder](śeṣaḥ)
+[example](dārṣṭāntike) [connects](yojayati) [thus](evam) [iti](iti) [not](na) [other](cetarat) [shines](bhāsata) [remainder](śeṣaḥ)
 
 ## mukta-m0-p153-v3805
-[images](pratimāḥ) [and](ca) [as](yathā) [in-stone](śaile) [world](jagat) [thus](evam) [in-consciousness-self](cit+ātmani)
+[images](pratimāśca) [as](yathā) [on-mountain](śaile) [world](jagat) [thus](evaṃ) [in-conscious-self](cidātmani)
 
 ## mukta-m0-p153-v3806
-[shines](bhāsate) [not](na) [is](asti) [thus](iti) [remainder](śeṣaḥ)
+[shines](bhāsata) [not](nāsti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p153-v3807
-[not](na) [is](asti) [thus](iti) [contrary](viparītaḥ) [indeed](hi) [certainty](niścayaḥ) [not](na) [indeed](eva) [is-established](siddhyati)
+[not](nāsti) [thus](iti) [opposite](viparīto) [indeed](hi) [certainty](niścayo) [not](na) [eva](eva) [succeeds](siddhyati)
 
 ## mukta-m0-p153-v3808
-[as-valid-means-of-knowledge](pramāṇatvena) [because](yataḥ) [not](na) [is-established](siddhyati)
+[proof](pramāṇatvena) [because](yato) [not](na) [succeeds](siddhyati)
 
 ## mukta-m0-p153-v3809
-[not](na) [is](asti) [thus](iti) [by-mere-curse](śāpa+mātreṇa) [how](katham) [would-be](syāt) [of-world](jagataḥ) [dissolution](layaḥ)
+[not](nāsti) [thus](iti) [curse-only](śāpamātreṇa) [how](kathaṃ) [would-be](syāt) [world's](jagato) [dissolution](layaḥ)
 
 ## mukta-m0-p153-v3810
-[in-negation-of-all](sarva+niṣedhe) [in-absorption-etc](samādhi+ādau) [because-of-shining](bhāsamānatvāt)
+[all-negation](sarvaniṣedhe) [samadhi-etc](samādhyādau) [shining](bhāsamānatvāt)
 
 ## mukta-m0-p153-v3811
-[thus](evam) [world](jagat) [consciousness-self](cit+ātma) [one-form](eka+rūpam) [real](satyam) [declared](udīritam)
+[thus](evaṃ) [world](jagat) [conscious-self-one-form](cidātmaikarūpaṃ) [true](satyam) [declared](udīritam)
 
 ## mukta-m0-p153-v3812
-[not](na) [is](asti) [all](sarvam) [is](asti) [or](vā) [thus](iti) [objection](ākṣepaḥ) [also](api) [unfounded](anupapannaḥ) [indeed](eva) [thus](iti) [to-be-considered](dhyeyam)
+[not](nāsti) [all](sarvam) [is](asti) [thus](vetyākṣepo) [also](api) [untenable](anupapanna) [indeed](eva) [to-be-pondered](dhyeyam)
 
 ## mukta-m0-p153-v3813
-[seeing](dṛk) [indeed](eva) [state-of-seen](dṛśyatām) [attained](prāptam) [by-excellence-of-own-greatness](sva+māhātmya+prakarṣataḥ)
+[seer-only](dṛgeva) [seen-ness](dṛśyatāṃ) [obtained](prāptaṃ) [own-glory-excellence](svamāhātmyaprakarṣataḥ)
 
 ## mukta-m0-p153-v3814
-[seen](dṛśyam) [thus](iti) [concludes](upasaṃharati) [seeing](dṛk) [indeed](eva) [thus](iti) [own-greatness](sva+māhātmyam) [own-independence](sva+svātantryam)
+[seen](dṛśyam) [iti](iti) [concludes](upasaṃharati) [seer-only](dṛgeveti) [own-glory](svamāhātmyaṃ) [own-freedom](svasvātantryam)
 
 ## mukta-m0-p153-v3815
-[not](na) [bondage](bandhaḥ) [is](asti) [not](na) [liberation](mokṣaḥ) [is](asti) [seeker](sādhakaḥ) [means](sādhanam) [and](ca) [not](na)
+[no](na) [bondage](bandho) [is](asti) [no](na) [liberation](mokṣo) [is](asti) [seeker](sādhakaḥ) [means](sādhanaṃ) [and](ca) [no](na)
 
 ## mukta-m0-p153-v3816
-[seeker](sādhakaḥ) [means](sādhanam) [and](ca) [not](na)
+[seeker](sādhakaḥ) [means](sādhanaṃ) [and](ca) [no](na)
 
 ## mukta-m0-p153-v3817
-[all](sarvam) [thus](iti) [says](āha) [that](sā) [indeed](eva) [thus](iti)
+[all](sarvam) [iti](ityāha) [that-itself](saiveti)
 
 ## mukta-m0-p153-v3818
-[this](etat) [to-you](te) [declared](abhihitam) [O-Rama](rāma) [order-of-knowledge](vijñāna+kramam) [from-beginning](āditaḥ)
+[this](etat) [to-you](te) [told](abhihitaṃ) [rama](rāma) [knowledge-course](vijñānakramam) [from-beginning](āditaḥ)
 
 ## mukta-m0-p153-v3819
-[this](etat) [indeed](tu) [thus](iti) [from-beginning](āditaḥ) [attainment-of-means](sādhana+prāptim) [having-reached](abhyetya) [meaning](arthaḥ)
+[this](etat) [tu](tu) [iti](iti) [from-beginning](āditaḥ) [means-attainment](sādhanaprāptim) [ābhyetyarthaḥ](ābhyetyarthaḥ)
 
 ## mukta-m0-p153-v3820
-[O-Narada](nārada) [this](eṣaḥ) [section-on-knowledge](jñāna+khaṇḍaḥ) [with-good-reasoning](su+upapatti) [and-experience](upalabdhikaḥ)
+[narada](nāradaiṣa) [knowledge-section](jñānakhaṇḍaḥ) [well-reasoned-experienced](sūpapattyupalabdhikaḥ)
 
 ## mukta-m0-p153-v3821
-[experience](upalabdhiḥ) [direct-experience](anubhavaḥ) [well-formed](suṣṭhu+rūpam) [both](ubhayam) [in-which](yasmin)
+[experience](upalabdhir) [anubhavaḥ](anubhavaḥ) [well-formed](suṣṭhurūpam) [both](ubhayaṃ) [in-which](yasmin)
 
 ## mukta-m0-p153-v3822
-[having-heard](śrutvā) [even](api) [this](etat) [whose](yasya) [delusion](mohaḥ) [not](na) [peace](śāntim) [may-attain](prāpnuyāt) [anywhere](kvacit)
+[hearing](śrutvā) [also](api) [this](etad) [whose](yasya) [delusion](moho) [not](na) [peace](śāntiṃ) [would-obtain](prāpnuyāt) [ever](kvacit)
 
 ## mukta-m0-p153-v3823
-[would-destroy](nāśayet) [indeed](eva) [thus](iti) [meaning](arthaḥ) [peace](śāntim) [destruction](nāśam)
+[would-destroy](nāśayedevetyarthaḥ) [peace](śāntiṃ) [destruction](nāśam)
 
 ## mukta-m0-p153-v3824
-[firmly](dṛḍham)
+[firm](dṛḍham)
 
 ## mukta-m0-p153-v3825
-[once](sakṛt) [indeed](eva) [thus](iti)
+[once-only](sakṛdeveti)

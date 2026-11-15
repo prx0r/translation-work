@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p06",
  "verse": 126,
- "question": "What is the title and ordinal of this instruction in the Kāmaratna?",
+ "question": "Which holy places are named for northwest and northeast directions?",
  "premises": [
-  "The verse names the work Kāmaratna.",
-  "It calls the section ākarṣaṇa.",
-  "It marks the section as second."
+  "vāyavyāṃ pāvanaṃ tīrthaṃ names northwest purifying place",
+  "aiśānyāṃ rudratīrthakam names northeast rudra place"
  ],
- "inference": "This verse identifies the second instruction, on ākarṣaṇa, in the Kāmaratna.",
- "uncertainties": [],
- "plain_english": "Thus ends the second instruction, named ākarṣaṇa, composed by Nityanātha in the Kāmaratna."
+ "inference": "The verse identifies two directional holy places.",
+ "uncertainties": [
+  "exact ritual use not stated"
+ ],
+ "plain_english": "In the northwest is the purifying holy place, and in the northeast is the Rudra holy place."
 }

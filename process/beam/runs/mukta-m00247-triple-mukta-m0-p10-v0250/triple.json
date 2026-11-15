@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative singular of grantha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tripura+sundaryāḥ",
+     "gloss": "of-tripurasundari",
+     "grounds": "genitive singular feminine of Tripurasundari",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sarvasve",
+     "gloss": "in-sarvasva",
+     "grounds": "locative singular of sarvasva",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśva+durlabhe",
+     "gloss": "difficult-to-obtain-in-world",
+     "grounds": "locative singular neuter adjective modifying sarvasve",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "|| 22 ||",
+     "gloss": "verse-22",
+     "grounds": "verse number marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "|| aḥ ||",
+     "gloss": "ah",
+     "grounds": "closing aḥ marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which rare text is named as the grantha containing Tripurasundari's Sarvasva?",
+   "premises": [
+    "Verse cites Tripurasundari's Sarvasva.",
+    "It calls that grantha world-difficult.",
+    "It is verse twenty-two."
+   ],
+   "inference": "The verse identifies Tripurasundari's Sarvasva as a rare grantha.",
+   "uncertainties": [
+    "Exact scope of Sarvasva is unspecified.",
+    "No author is named."
+   ],
+   "plain_english": "In the grantha of Tripurasundari's Sarvasva, difficult to obtain in the world."
+  }
+ ]
+}

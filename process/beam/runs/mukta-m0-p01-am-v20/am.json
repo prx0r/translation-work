@@ -1,16 +1,18 @@
 {
  "song": "mukta-m0-p01",
  "verse": 20,
- "question": "What vidyā is declared including tāra, bhūti, and kamalā?",
+ "question": "Which fourth of the seventh is paired with the seventh of the first?",
  "premises": [
-  "tāra is named",
-  "bhūti is named",
-  "kamalā is named",
-  "declared vidyā is stated"
+  "saptamasya is of seventh",
+  "turīyaṃ is fourth",
+  "tu is indeed",
+  "prathamasya is of first",
+  "tu is indeed",
+  "saptakam is seventh"
  ],
- "inference": "A vidyā is declared including tāra, bhūti, and kamalā",
+ "inference": "The fourth of the seventh is paired with the seventh of the first.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "exact pairing relation is not explicit"
  ],
- "plain_english": "Tāra and bhūti and kamalā are declared as vidyā also."
+ "plain_english": "The fourth of the seventh is paired with the seventh of the first."
 }

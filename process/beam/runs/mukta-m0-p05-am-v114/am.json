@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 114,
- "question": "Which goddess and color is being contemplated here?",
+ "question": "Which further divine groups are to be satisfied?",
  "premises": [
-  "The token list names Shakini.",
-  "A color term closes the unit."
+  "aśvinau names the two aśvins",
+  "marutaḥ names maruts",
+  "loka-pāla and gaṇa-īśvarān name guardians"
  ],
- "inference": "The unit prescribes contemplating golden-colored Shakini with the listed attributes.",
+ "inference": "The satisfied groups also include the aśvins, maruts, world-guardians, and gaṇeśvaras.",
  "uncertainties": [
-  "Some token boundaries are fused in the source."
+  "exact grammatical case of aśvinau in list"
  ],
- "plain_english": "Contemplate golden-colored Shakini with the listed attributes."
+ "plain_english": "The two aśvins, maruts, world-guardians, and gaṇeśvaras."
 }

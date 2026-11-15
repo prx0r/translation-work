@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p107",
  "verse": 2670,
- "question": "What measurement is prescribed for the base of the spine below the spine measure?",
+ "question": "How should the surrounding garden be made?",
  "premises": [
-  "The reference is below the spine measure.",
-  "The base of the spine is the feature measured.",
-  "Its measure is three finger units."
+  "the garden is to be made all around",
+  "it is to be made with beautiful mango, bilva, and other trees"
  ],
- "inference": "Below the spine measure, the base of the spine is three finger units.",
- "uncertainties": [],
- "plain_english": "Below the spine measure, the base of the spine is three finger units."
+ "inference": "The garden is planted with auspicious fruit and sacred trees.",
+ "uncertainties": [
+  "whether ādi includes all listed later trees"
+ ],
+ "plain_english": "One should make a garden all around with beautiful mango, bilva, and other trees."
 }

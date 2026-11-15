@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2482,
- "question": "How many parts constitute the declared length of the stalk from its root?",
+ "question": "With what metals may the pedestal be made?",
  "premises": [
-  "The length of the stalk from its root is the subject.",
-  "A division into parts is prescribed.",
-  "The measure is explicitly declared."
+  "metal is permitted",
+  "brass is permitted",
+  "making is commanded"
  ],
- "inference": "The length of the stalk from its root is declared to be nine parts.",
- "uncertainties": [],
- "plain_english": "The length of the stalk from its root is declared to be nine parts."
+ "inference": "The pedestal may be made with metal or brass.",
+ "uncertainties": [
+  "whether exclusive or optional unclear"
+ ],
+ "plain_english": "Make the pedestal with metal or brass."
 }

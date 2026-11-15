@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 16,
- "question": "Who spoke to the disciple named Akṣobhya?",
+ "question": "Which fifth item of the first is taken endowed with bindu and nāda?",
  "premises": [
-  "spoke is stated",
-  "Dakṣiṇāmūrti is named",
-  "disciple named Akṣobhya is named"
+  "prathamasya is of first",
+  "pañcamaṃ is fifth",
+  "gṛhya is having-taken",
+  "bindu+nāda+samanvitam is with-bindu-nāda-endowed"
  ],
- "inference": "Dakṣiṇāmūrti spoke to the disciple named Akṣobhya",
+ "inference": "The fifth of the first is taken endowed with bindu and nāda.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "what the fifth item denotes"
  ],
- "plain_english": "Dakṣiṇāmūrti spoke to the disciple named Akṣobhya."
+ "plain_english": "The fifth of the first is taken endowed with bindu and nāda."
 }

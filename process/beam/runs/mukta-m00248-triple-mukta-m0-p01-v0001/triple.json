@@ -1,0 +1,1031 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "mūrtiḥ",
+     "gloss": "form",
+     "grounds": "nominative singular feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māheśvarasya",
+     "gloss": "of-maheśvara",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "nominative singular feminine numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sakalasya",
+     "gloss": "of-sakala",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "nominative plural feminine participle",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What single form of Maheśvara is proclaimed for the sakala?",
+   "premises": [
+    "mūrtiḥ is the form",
+    "māheśvarasya is of Maheśvara",
+    "ekā is one",
+    "sakalasya is of sakala",
+    "prakīrtitāḥ is proclaimed"
+   ],
+   "inference": "The verse states one form of Maheśvara is proclaimed for the sakala.",
+   "uncertainties": [
+    "exact ritual referent of sakala not specified"
+   ],
+   "plain_english": "One form of Maheśvara is proclaimed for the sakala."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "ananteśasya",
+     "gloss": "of-ananteśa",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "nominative singular neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japā+kusuma+suprabham",
+     "gloss": "hibiscus-flower-bright",
+     "grounds": "compound adjective in nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the seed of Ananteśa and how is it described?",
+   "premises": [
+    "ananteśasya is of Ananteśa",
+    "bījaṃ is seed",
+    "tu is indeed",
+    "japā+kusuma+suprabham is hibiscus-flower-bright"
+   ],
+   "inference": "The seed of Ananteśa is described as bright like a hibiscus flower.",
+   "uncertainties": [
+    "whether bījaṃ is mantra-seed or iconographic seed"
+   ],
+   "plain_english": "The seed of Ananteśa is bright like a hibiscus flower."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "aṣṭamasya",
+     "gloss": "of-eighth",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhena",
+     "gloss": "with-sixth",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "joined",
+     "grounds": "nominative singular neuter participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which ordinal of the eighth is joined with the sixth?",
+   "premises": [
+    "aṣṭamasya is of eighth",
+    "tṛtīyaṃ is third",
+    "tu is indeed",
+    "ṣaṣṭhena is with sixth",
+    "tu is indeed",
+    "samanvitam is joined"
+   ],
+   "inference": "The third of the eighth is joined with the sixth.",
+   "uncertainties": [
+    "exact referent of ordinals not stated"
+   ],
+   "plain_english": "The third of the eighth is joined with the sixth."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "sūkṣmasya",
+     "gloss": "of-sūkṣma",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triṇetrakam",
+     "gloss": "three-eyed",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What form is described for the third of sūkṣma?",
+   "premises": [
+    "sūkṣmasya is of sūkṣma",
+    "ca is and",
+    "tṛtīyaṃ is third",
+    "tu is indeed",
+    "caturbhujaṃ is four-armed",
+    "triṇetrakam is three-eyed"
+   ],
+   "inference": "The third of sūkṣma is four-armed and three-eyed.",
+   "uncertainties": [
+    "whether this is an iconographic or mantra form"
+   ],
+   "plain_english": "The third of sūkṣma is four-armed and three-eyed."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "bindu+nāda+samākrāntaṃ",
+     "gloss": "with-bindu-nāda-pervaded",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivottamasya",
+     "gloss": "of-śivottama",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījakam",
+     "gloss": "seed-syllable",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What seed-syllable of śivottama is pervaded by bindu and nāda?",
+   "premises": [
+    "bindu+nāda+samākrāntaṃ is with-bindu-nāda-pervaded",
+    "śivottamasya is of śivottama",
+    "ca is and",
+    "bījakam is seed-syllable"
+   ],
+   "inference": "The seed-syllable of śivottama is pervaded by bindu and nāda.",
+   "uncertainties": [
+    "exact mantra syllable not given"
+   ],
+   "plain_english": "The seed-syllable of śivottama is pervaded by bindu and nāda."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "prathamasya",
+     "gloss": "of-first",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ekādaśaṃ",
+     "gloss": "eleventh",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "accusative singular neuter gerundive",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bindu+nāda+samanvitam",
+     "gloss": "with-bindu-nāda-endowed",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which eleventh item of the first is to be taken with bindu and nāda?",
+   "premises": [
+    "prathamasya is of first",
+    "ekādaśaṃ is eleventh",
+    "grāhyaṃ is to-be-taken",
+    "bindu+nāda+samanvitam is with-bindu-nāda-endowed"
+   ],
+   "inference": "The eleventh of the first is to be taken endowed with bindu and nāda.",
+   "uncertainties": [
+    "what the eleventh item denotes"
+   ],
+   "plain_english": "The eleventh of the first is to be taken endowed with bindu and nāda."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśaṃ",
+     "gloss": "eleventh",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "accusative singular neuter gerundive",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bindu+nāda+samanvitam",
+     "gloss": "with-bindu-nāda-endowed",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is again to be taken endowed with bindu and nāda?",
+   "premises": [
+    "punaḥ is again",
+    "ekādaśaṃ is eleventh",
+    "grāhyaṃ is to-be-taken",
+    "bindu+nāda+samanvitam is with-bindu-nāda-endowed"
+   ],
+   "inference": "Again an eleventh item is to be taken endowed with bindu and nāda.",
+   "uncertainties": [
+    "whether this repeats or adds a distinct eleventh"
+   ],
+   "plain_english": "Again an eleventh item is to be taken endowed with bindu and nāda."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "trimūrtiṃ",
+     "gloss": "trimūrti",
+     "grounds": "accusative singular feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuṅkuma+prakhyaṃ",
+     "gloss": "saffron-colored",
+     "grounds": "compound adjective in accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "triṇetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "accusative singular feminine adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhujam",
+     "gloss": "four-armed",
+     "grounds": "accusative singular feminine adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is trimūrti described in color, eyes, and arms?",
+   "premises": [
+    "trimūrtiṃ is trimūrti",
+    "kuṅkuma+prakhyaṃ is saffron-colored",
+    "triṇetraṃ is three-eyed",
+    "ca is and",
+    "caturbhujam is four-armed"
+   ],
+   "inference": "Trimūrti is saffron-colored, three-eyed, and four-armed.",
+   "uncertainties": [
+    "whether trimūrti names a deity or form"
+   ],
+   "plain_english": "Trimūrti is saffron-colored, three-eyed, and four-armed."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "caturtha+svara+saṃyuktaṃ",
+     "gloss": "with-fourth-vowel-joined",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bindu+nāda+samanvitam",
+     "gloss": "with-bindu-nāda-endowed",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is joined with the fourth vowel and endowed with bindu and nāda?",
+   "premises": [
+    "caturtha+svara+saṃyuktaṃ is with-fourth-vowel-joined",
+    "bindu+nāda+samanvitam is with-bindu-nāda-endowed"
+   ],
+   "inference": "The described item is joined with the fourth vowel and endowed with bindu and nāda.",
+   "uncertainties": [
+    "the item itself is not explicitly named"
+   ],
+   "plain_english": "The described item is joined with the fourth vowel and endowed with bindu and nāda."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "triṇetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturbhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "accusative singular neuter gerundive",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraśu+dhāriṇam",
+     "gloss": "axe-holding",
+     "grounds": "compound adjective in accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What form is to be known as three-eyed, four-armed, trident-bearing, and axe-holding?",
+   "premises": [
+    "triṇetraṃ is three-eyed",
+    "caturbhujaṃ is four-armed",
+    "jñeyaṃ is to-be-known",
+    "śūlaṃ is trident",
+    "paraśu+dhāriṇam is axe-holding"
+   ],
+   "inference": "The form to be known is three-eyed, four-armed, trident-bearing, and axe-holding.",
+   "uncertainties": [
+    "the deity's name is not stated"
+   ],
+   "plain_english": "The form to be known is three-eyed, four-armed, trident-bearing, and axe-holding."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "śikhaṇḍi+bījam",
+     "gloss": "śikhaṇḍin-seed",
+     "grounds": "compound noun in nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "nominative singular neuter participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhinna+añjana+sama+prabham",
+     "gloss": "split-collyrium-equal-bright",
+     "grounds": "compound adjective in nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the seed of śikhaṇḍin declared to appear?",
+   "premises": [
+    "śikhaṇḍi+bījam is śikhaṇḍin-seed",
+    "ākhyātaṃ is declared",
+    "bhinna+añjana+sama+prabham is split-collyrium-equal-bright"
+   ],
+   "inference": "The seed of śikhaṇḍin is declared bright like split collyrium.",
+   "uncertainties": [
+    "meaning of śikhaṇḍin in this context"
+   ],
+   "plain_english": "The seed of śikhaṇḍin is declared bright like split collyrium."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṣabha+ārūḍhā",
+     "gloss": "bull-mounted",
+     "grounds": "compound adjective in nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jaṭā+makuṭa+dhāriṇaḥ",
+     "gloss": "matted-hair-crown-wearing",
+     "grounds": "compound adjective in nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What shared mount and crown do all these figures have?",
+   "premises": [
+    "sarve is all",
+    "vai is indeed",
+    "vṛṣabha+ārūḍhā is bull-mounted",
+    "jaṭā+makuṭa+dhāriṇaḥ is matted-hair-crown-wearing"
+   ],
+   "inference": "All are bull-mounted and wear matted-hair crowns.",
+   "uncertainties": [
+    "which figures are included"
+   ],
+   "plain_english": "All are bull-mounted and wear matted-hair crowns."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "śivasya",
+     "gloss": "of-śiva",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃhitā",
+     "gloss": "compendium",
+     "grounds": "nominative singular feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "child",
+     "grounds": "vocative singular masculine noun",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "padma+āsana+sthitāḥ",
+     "gloss": "lotus-seat-seated",
+     "grounds": "compound adjective in nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where are all seated according to the compendium of Śiva?",
+   "premises": [
+    "śivasya is of Śiva",
+    "saṃhitā is compendium",
+    "vatsa is child",
+    "sarve is all",
+    "padma+āsana+sthitāḥ is lotus-seat-seated"
+   ],
+   "inference": "All are seated on lotus seats according to Śiva's compendium.",
+   "uncertainties": [
+    "who vatsa addresses"
+   ],
+   "plain_english": "All are seated on lotus seats according to Śiva's compendium."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "śrīkaṇṭha+nātha+adhipatiḥ",
+     "gloss": "śrīkaṇṭha-nātha-lord",
+     "grounds": "compound noun in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "nominative singular neuter participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is always proclaimed concerning the lord of Śrīkaṇṭha?",
+   "premises": [
+    "śrīkaṇṭha+nātha+adhipatiḥ is śrīkaṇṭha-nātha-lord",
+    "iti is thus",
+    "nityaṃ is always",
+    "prakīrtitam is proclaimed"
+   ],
+   "inference": "The lord of Śrīkaṇṭha is always proclaimed thus.",
+   "uncertainties": [
+    "the content of iti is not expanded"
+   ],
+   "plain_english": "The lord of Śrīkaṇṭha is always proclaimed thus."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "sūkṣma+aṇḍaṃ",
+     "gloss": "sūkṣma-egg",
+     "grounds": "compound noun in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivottama+aṇḍam",
+     "gloss": "śivottama-egg",
+     "grounds": "compound noun in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekanetra+rudra+aṇḍakam",
+     "gloss": "ekanetra-rudra-egg",
+     "grounds": "compound noun in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which three eggs are listed together?",
+   "premises": [
+    "sūkṣma+aṇḍaṃ is sūkṣma-egg",
+    "śivottama+aṇḍam is śivottama-egg",
+    "ekanetra+rudra+aṇḍakam is ekanetra-rudra-egg"
+   ],
+   "inference": "The three eggs are sūkṣma, śivottama, and ekanetra-rudra.",
+   "uncertainties": [
+    "whether these are cosmological eggs"
+   ],
+   "plain_english": "The three eggs are sūkṣma, śivottama, and ekanetra-rudra."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "prathamasya",
+     "gloss": "of-first",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhya",
+     "gloss": "having-taken",
+     "grounds": "indeclinable gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bindu+nāda+samanvitam",
+     "gloss": "with-bindu-nāda-endowed",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which fifth item of the first is taken endowed with bindu and nāda?",
+   "premises": [
+    "prathamasya is of first",
+    "pañcamaṃ is fifth",
+    "gṛhya is having-taken",
+    "bindu+nāda+samanvitam is with-bindu-nāda-endowed"
+   ],
+   "inference": "The fifth of the first is taken endowed with bindu and nāda.",
+   "uncertainties": [
+    "what the fifth item denotes"
+   ],
+   "plain_english": "The fifth of the first is taken endowed with bindu and nāda."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "trivargaṃ",
+     "gloss": "three-group",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhya",
+     "gloss": "having-taken",
+     "grounds": "indeclinable gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bindu+nāda",
+     "gloss": "with-bindu-nāda",
+     "grounds": "compound noun in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed",
+     "grounds": "nominative singular neuter participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What first three-group is taken with bindu and nāda?",
+   "premises": [
+    "trivargaṃ is three-group",
+    "prathamaṃ is first",
+    "gṛhya is having-taken",
+    "bindu+nāda is with-bindu-nāda",
+    "samanvitam is endowed"
+   ],
+   "inference": "The first three-group is taken with bindu and nāda.",
+   "uncertainties": [
+    "whether samanvitam agrees with trivargaṃ"
+   ],
+   "plain_english": "The first three-group is taken with bindu and nāda."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcama+vargasya",
+     "gloss": "of-fifth-group",
+     "grounds": "compound genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bindu+nāda+samanvitam",
+     "gloss": "with-bindu-nāda-endowed",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which fifth item of the fifth group is endowed with bindu and nāda?",
+   "premises": [
+    "pañcamaṃ is fifth",
+    "pañcama+vargasya is of fifth group",
+    "bindu+nāda+samanvitam is with-bindu-nāda-endowed"
+   ],
+   "inference": "The fifth of the fifth group is endowed with bindu and nāda.",
+   "uncertainties": [
+    "whether it is to be taken or already given"
+   ],
+   "plain_english": "The fifth of the fifth group is endowed with bindu and nāda."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhasya",
+     "gloss": "of-sixth",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "accusative singular neuter gerundive",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bindu+nāda+samanvitam",
+     "gloss": "with-bindu-nāda-endowed",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which fifth item of the sixth is to be taken with bindu and nāda?",
+   "premises": [
+    "ṣaṣṭhasya is of sixth",
+    "pañcamaṃ is fifth",
+    "gṛhyaṃ is to-be-taken",
+    "bindu+nāda+samanvitam is with-bindu-nāda-endowed"
+   ],
+   "inference": "The fifth of the sixth is to be taken endowed with bindu and nāda.",
+   "uncertainties": [
+    "what the fifth item denotes"
+   ],
+   "plain_english": "The fifth of the sixth is to be taken endowed with bindu and nāda."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "saptamasya",
+     "gloss": "of-seventh",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "turīyaṃ",
+     "gloss": "fourth",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamasya",
+     "gloss": "of-first",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptakam",
+     "gloss": "seventh",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which fourth of the seventh is paired with the seventh of the first?",
+   "premises": [
+    "saptamasya is of seventh",
+    "turīyaṃ is fourth",
+    "tu is indeed",
+    "prathamasya is of first",
+    "tu is indeed",
+    "saptakam is seventh"
+   ],
+   "inference": "The fourth of the seventh is paired with the seventh of the first.",
+   "uncertainties": [
+    "exact pairing relation is not explicit"
+   ],
+   "plain_english": "The fourth of the seventh is paired with the seventh of the first."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "viṣṇukrānti+sama+prakhyaṃ",
+     "gloss": "viṣṇukrānti-equal-bright",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triṇetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūla+dhāriṇam",
+     "gloss": "trident-holding",
+     "grounds": "compound adjective in accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What form is bright like viṣṇukrānti, three-eyed, and trident-holding?",
+   "premises": [
+    "viṣṇukrānti+sama+prakhyaṃ is viṣṇukrānti-equal-bright",
+    "triṇetraṃ is three-eyed",
+    "śūla+dhāriṇam is trident-holding"
+   ],
+   "inference": "The form is bright like viṣṇukrānti, three-eyed, and trident-holding.",
+   "uncertainties": [
+    "the deity's name is not stated"
+   ],
+   "plain_english": "The form is bright like viṣṇukrānti, three-eyed, and trident-holding."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "nīla+añjana+sama+prakhyaṃ",
+     "gloss": "blue-collyrium-equal-bright",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-gaṇeśa",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svarūpakam",
+     "gloss": "own-form",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the own-form of Gaṇeśa described in brightness?",
+   "premises": [
+    "nīla+añjana+sama+prakhyaṃ is blue-collyrium-equal-bright",
+    "gaṇeśasya is of Gaṇeśa",
+    "svarūpakam is own-form"
+   ],
+   "inference": "The own-form of Gaṇeśa is bright like blue collyrium.",
+   "uncertainties": [
+    "whether this is an iconographic description"
+   ],
+   "plain_english": "The own-form of Gaṇeśa is bright like blue collyrium."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "lambodaraṃ",
+     "gloss": "pot-bellied",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "māṇavakaṃ",
+     "gloss": "youthful",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śveta+padma+upari",
+     "gloss": "on-white-lotus",
+     "grounds": "compound postpositional phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "seated",
+     "grounds": "accusative singular neuter participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where is the pot-bellied youthful form seated?",
+   "premises": [
+    "lambodaraṃ is pot-bellied",
+    "māṇavakaṃ is youthful",
+    "śveta+padma+upari is on-white-lotus",
+    "sthitam is seated"
+   ],
+   "inference": "The pot-bellied youthful form is seated on a white lotus.",
+   "uncertainties": [
+    "subject agreement with sthitam"
+   ],
+   "plain_english": "The pot-bellied youthful form is seated on a white lotus."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "bhṛṅgīṃ",
+     "gloss": "bhṛṅgin",
+     "grounds": "accusative singular feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ruṭiṃ",
+     "gloss": "ruṭi",
+     "grounds": "accusative singular feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahātmānaṃ",
+     "gloss": "great-souled",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaṣṭhasya",
+     "gloss": "of-sixth",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthakam",
+     "gloss": "fourth",
+     "grounds": "accusative singular neuter numeral",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which fourth item of the sixth includes bhṛṅgin, ruṭi, and a great-souled one?",
+   "premises": [
+    "bhṛṅgīṃ is bhṛṅgin",
+    "ruṭiṃ is ruṭi",
+    "mahātmānaṃ is great-souled",
+    "ṣaṣṭhasya is of sixth",
+    "tu is indeed",
+    "caturthakam is fourth"
+   ],
+   "inference": "The fourth of the sixth includes bhṛṅgin, ruṭi, and a great-souled one.",
+   "uncertainties": [
+    "whether these are separate or appositional figures"
+   ],
+   "plain_english": "The fourth of the sixth includes bhṛṅgin, ruṭi, and a great-souled one."
+  }
+ ]
+}

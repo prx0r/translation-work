@@ -1,0 +1,65 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "su+muhūrte",
+     "gloss": "at-auspicious-moment",
+     "grounds": "compound su + muhūrte; locative sense from context",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "on-day",
+     "grounds": "dina in locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "su+nakṣatre",
+     "gloss": "at-good-constellation",
+     "grounds": "compound su + nakṣatre; locative sense from context",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "tithau",
+     "gloss": "at-lunar-day",
+     "grounds": "tithi in locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "guha",
+     "gloss": "O-Guha",
+     "grounds": "vocative address to Guha",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which auspicious moment day constellation and lunar day are prescribed for performing this rite?",
+   "premises": [
+    "auspicious moment is required",
+    "auspicious day is required",
+    "good constellation is required",
+    "lunar day is required"
+   ],
+   "inference": "The verse prescribes performing the rite only under these auspicious calendrical conditions.",
+   "uncertainties": [
+    "exact rite unnamed in this verse",
+    "gender and number of guha address inferred"
+   ],
+   "plain_english": "Perform it on an auspicious moment, day, constellation, and lunar day, O Guha."
+  }
+ ]
+}

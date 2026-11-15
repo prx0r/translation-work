@@ -1,0 +1,589 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "matta",
+     "gloss": "intoxicated",
+     "grounds": "adjective modifying Airāvata",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "airāvaṇa",
+     "gloss": "Airāvata",
+     "grounds": "elephant name in genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pṛṣṭha+gāṃ",
+     "gloss": "back-riding",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śaśi+mukhīṃ",
+     "gloss": "moon-faced",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "trailokya",
+     "gloss": "for-three-worlds",
+     "grounds": "genitive sense in compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "rakṣā+parām",
+     "gloss": "protection-supreme",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess is worshipped as moon-faced and supreme protector of the three worlds while riding intoxicated Airāvata?",
+   "premises": [
+    "The verse names a moon-faced goddess.",
+    "She rides intoxicated Airāvata.",
+    "She is supreme protector of three worlds."
+   ],
+   "inference": "The verse presents a specific goddess-form for worship.",
+   "uncertainties": [
+    "Exact goddess name is not stated in these tokens."
+   ],
+   "plain_english": "I worship the moon-faced goddess riding intoxicated Airāvata, supreme protector of the three worlds."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "indrākṣīṃ",
+     "gloss": "Indrākṣī",
+     "grounds": "goddess name accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jana+mātaraṃ",
+     "gloss": "mother-of-people",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "I-worship",
+     "grounds": "first person singular present",
+     "morph": "1.sg.act-pres root bhaj"
+    },
+    {
+     "surface": "kāruṇya+rūpāṃ",
+     "gloss": "compassion-form",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "adjective accusative feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which compassionate goddess is worshipped in the heart as mother of people and supreme?",
+   "premises": [
+    "Indrākṣī is named.",
+    "She is mother of people.",
+    "She has compassion-form and is supreme."
+   ],
+   "inference": "The verse identifies Indrākṣī as the heart-worshipped compassionate mother.",
+   "uncertainties": [
+    "No additional ritual context is given."
+   ],
+   "plain_english": "I worship Indrākṣī, mother of people, compassion-formed and supreme, in my heart."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative of text",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhairava+tantra+ākhye",
+     "gloss": "called-Bhairavatantra",
+     "grounds": "compound locative masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niḥsmṛta",
+     "gloss": "remembered",
+     "grounds": "participle modifying goddess",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tridaśa+arcite",
+     "gloss": "by-gods-worshipped",
+     "grounds": "compound locative masculine",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In which text is the goddess remembered as worshipped by the gods?",
+   "premises": [
+    "The text is called Bhairavatantra.",
+    "The goddess is remembered there.",
+    "She is worshipped by gods."
+   ],
+   "inference": "The verse locates the remembered goddess in the Bhairavatantra.",
+   "uncertainties": [
+    "The goddess name is not in these tokens."
+   ],
+   "plain_english": "In the text called Bhairavatantra, the goddess remembered and worshipped by gods is praised."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "sita+asita",
+     "gloss": "white-and-dark",
+     "grounds": "compound adjective accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "compound member",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ānanāṃ",
+     "gloss": "faced",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sita",
+     "gloss": "with-white",
+     "grounds": "adjective modifying crest",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kara+ujjvala",
+     "gloss": "lotus-bright",
+     "grounds": "compound adjective accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śekharām",
+     "gloss": "crested",
+     "grounds": "adjective accusative feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess described in terms of color, hands, face, and crest?",
+   "premises": [
+    "She is white and dark.",
+    "She has hand and face features.",
+    "Her crest is white and bright."
+   ],
+   "inference": "The verse gives a multi-part iconographic description of the goddess.",
+   "uncertainties": [
+    "The exact goddess name is not stated."
+   ],
+   "plain_english": "She is white and dark, hand-faced, with a white bright crest."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "smarāmi",
+     "gloss": "I-remember",
+     "grounds": "first person singular present",
+     "morph": "1.sg.act-pres root smṛ"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "khecarīṃ",
+     "gloss": "Khecarī",
+     "grounds": "goddess name accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhuvana+mātaraṃ",
+     "gloss": "mother-of-world",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhi+dām",
+     "gloss": "success-giver",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess is remembered in the heart as mother of the world and giver of success?",
+   "premises": [
+    "Khecarī is named.",
+    "She is mother of the world.",
+    "She gives success."
+   ],
+   "inference": "The verse identifies Khecarī as the remembered world-mother and success-giver.",
+   "uncertainties": [
+    "No ritual procedure is supplied."
+   ],
+   "plain_english": "I remember Khecarī in my heart, mother of the world and giver of success."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "to-whomever",
+     "grounds": "genitive relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kasya",
+     "gloss": "to-whomever",
+     "grounds": "genitive interrogative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive neuter nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "grantham",
+     "gloss": "text",
+     "grounds": "accusative masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddhāra+kośakam",
+     "gloss": "compilation-treasury",
+     "grounds": "compound accusative masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "To whom may this compilation treasury text not be given?",
+   "premises": [
+    "The text is a compilation treasury.",
+    "It is not to be given to just anyone.",
+    "The restriction is universal."
+   ],
+   "inference": "The verse imposes a restriction on distributing the text.",
+   "uncertainties": [
+    "The exact eligible recipients are not specified."
+   ],
+   "plain_english": "This compilation treasury text is not to be given to just anyone."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "jayatvaṃ",
+     "gloss": "may-you-be-victorious",
+     "grounds": "imperative or optative form",
+     "morph": "3.sg.act.imp"
+    },
+    {
+     "surface": "sva+gṛhaṃ",
+     "gloss": "to-own-house",
+     "grounds": "compound accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gantum",
+     "gloss": "to-go",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "ājñāpayitum",
+     "gloss": "to-command",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "arhasi",
+     "gloss": "you-should",
+     "grounds": "second person singular present",
+     "morph": "2.sg.act-pres root arh"
+    }
+   ],
+   "question": "What should the addressed person do after being told to be victorious?",
+   "premises": [
+    "The addressee is told to be victorious.",
+    "They should go to their own house.",
+    "They should command."
+   ],
+   "inference": "The verse directs the addressee to return home and command.",
+   "uncertainties": [
+    "The object of commanding is not stated."
+   ],
+   "plain_english": "May you be victorious; you should go to your own house and command."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "iti+uktā",
+     "gloss": "thus-spoken",
+     "grounds": "participle with sandhi fusion",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "munayaḥ",
+     "gloss": "sages",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jagmuḥ",
+     "gloss": "went",
+     "grounds": "third person plural aorist",
+     "morph": "3.pl.act-aor root gam"
+    },
+    {
+     "surface": "sva+gṛhaṃ",
+     "gloss": "to-own-house",
+     "grounds": "compound accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "for-mantra",
+     "grounds": "compound member",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "lālasāḥ",
+     "gloss": "eager",
+     "grounds": "adjective nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where did the sages go after being thus addressed, and what were they eager for?",
+   "premises": [
+    "The sages were thus addressed.",
+    "They went to their own houses.",
+    "They were eager for mantra."
+   ],
+   "inference": "The verse closes the scene with sages returning home mantra-eager.",
+   "uncertainties": [
+    "No specific mantra is named."
+   ],
+   "plain_english": "Thus addressed, the sages went to their own houses, eager for mantra."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "kṛtam",
+     "gloss": "made",
+     "grounds": "accusative neuter participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uddhāra+kośa+ākhyaṃ",
+     "gloss": "called-Uddhārakośa",
+     "grounds": "compound accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "granthaṃ",
+     "gloss": "text",
+     "grounds": "accusative masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gopya+tamam",
+     "gloss": "most-secret",
+     "grounds": "compound accusative masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "second person singular imperative",
+     "morph": "2.sg.act.imp root kṛ"
+    }
+   ],
+   "question": "What should be made most secret regarding the text called Uddhārakośa?",
+   "premises": [
+    "The text is called Uddhārakośa.",
+    "It is to be made.",
+    "It is most secret."
+   ],
+   "inference": "The verse commands that the Uddhārakośa text be kept most secret.",
+   "uncertainties": [
+    "The exact secrecy procedure is not stated."
+   ],
+   "plain_english": "Make the text called Uddhārakośa most secret."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "ubhau",
+     "gloss": "both",
+     "grounds": "nominative dual masculine",
+     "morph": "m.nom.dual"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "nominative dual masculine",
+     "morph": "m.nom.dual"
+    },
+    {
+     "surface": "ambikā",
+     "gloss": "Ambikā",
+     "grounds": "goddess name nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candra+śekharaḥ",
+     "gloss": "moon-crested",
+     "grounds": "compound nominative masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine pair is named as Ambikā goddess and moon-crested god?",
+   "premises": [
+    "Both are named.",
+    "Ambikā is the goddess.",
+    "The god is moon-crested."
+   ],
+   "inference": "The verse names the divine pair Ambikā and the moon-crested god.",
+   "uncertainties": [
+    "Their exact relationship is not specified."
+   ],
+   "plain_english": "Both those two: Ambikā the goddess and the moon-crested god."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumāra",
+     "gloss": "Kumāras",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "graha",
+     "gloss": "planets",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "catasṛ",
+     "gloss": "four",
+     "grounds": "numeral feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddesses",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kośa",
+     "gloss": "treasury",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyāna",
+     "gloss": "meditation",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirṇayaḥ",
+     "gloss": "determination",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "indeclinable or nominative neuter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptamaḥ",
+     "gloss": "seventh",
+     "grounds": "ordinal adjective nominative masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalpaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the name and number of the chapter concerning seven Kumāras, nine planets, four goddesses, treasury, meditation, and determination?",
+   "premises": [
+    "Seven Kumāras are named.",
+    "Nine planets and four goddesses are named.",
+    "The chapter is seventh and named."
+   ],
+   "inference": "The verse identifies the seventh chapter by its listed contents.",
+   "uncertainties": [
+    "The exact scope of each listed group is not explained."
+   ],
+   "plain_english": "The seventh chapter, named Treasury Meditation Determination, concerns seven Kumāras, nine planets, and four goddesses."
+  }
+ ]
+}

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 369,
- "question": "Which attributes and color characterize this deity in the named samhita?",
+ "question": "What rare text of the speaker is mentioned?",
  "premises": [
-  "The verse lists held objects.",
-  "The verse states a color."
+  "the text is āgamāmṛtamañjarī",
+  "it is rare",
+  "it belongs to the speaker"
  ],
- "inference": "The deity's iconographic form is specified by those attributes and color.",
+ "inference": "The verse mentions the speaker's rare text āgamāmṛtamañjarī.",
  "uncertainties": [
-  "Legacy hints only; sandhi not expanded."
+  "exact syntactic relation of api ca"
  ],
- "plain_english": "Six-armed, she bears goad, trident, shield, gift, and fearlessness; golden-colored."
+ "plain_english": "In the rare āgamāmṛtamañjarī of mine also and."
 }

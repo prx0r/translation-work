@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "krūṃ",
+     "gloss": "seed-syllable",
+     "grounds": "bija syllable of Ketu mantra; transliterated not translated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seed-syllables",
+     "grounds": "plural neuter noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "neuter plural nominative numeral",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "adjective modifying seed-syllables",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "neuter plural nominative adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seed-syllables are counted among the artificial others in Ketu's mantra?",
+   "premises": [
+    "krūṃ is a seed-syllable",
+    "four artificial seed-syllables are listed",
+    "aparāṇi means others"
+   ],
+   "inference": "The verse enumerates krūṃ plus four artificial seed-syllables among Ketu's mantra components.",
+   "uncertainties": [
+    "Exact ritual function of the artificial seed-syllables is not specified."
+   ],
+   "plain_english": "Krūṃ and four artificial seed-syllables, plus others."
+  }
+ ]
+}

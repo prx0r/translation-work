@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "vaset",
+     "gloss": "one-should-dwell",
+     "grounds": "optative of vas, to dwell",
+     "morph": "3.sg.act.opt+vas"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "of-śiva",
+     "grounds": "genitive singular masculine, modifying pure",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pure",
+     "gloss": "city",
+     "grounds": "locative singular neuter, place of dwelling",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivena",
+     "gloss": "with-śiva",
+     "grounds": "instrumental singular masculine, companion",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "indeclinable postposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "modate",
+     "gloss": "rejoices",
+     "grounds": "middle voice present, third singular",
+     "morph": "3.sg.mid.pres+mod"
+    }
+   ],
+   "question": "What final dwelling and companionship does the verse promise to one who follows these rites?",
+   "premises": [
+    "one should dwell in śiva's city",
+    "always with śiva as companion",
+    "rejoicing together with śiva"
+   ],
+   "inference": "ritual completion leads to eternal co-residence and joy with śiva",
+   "uncertainties": [
+    "pure read as city; śiva read as genitive modifying pure"
+   ],
+   "plain_english": "One should always dwell in Śiva's city, rejoicing together with Śiva."
+  }
+ ]
+}

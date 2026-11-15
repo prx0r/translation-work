@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1403,
- "question": "What color is assigned to the figures in this description?",
+ "question": "In what kind of formulations should the naturally cool powder be used?",
  "premises": [
-  "the verse states a color",
-  "the color is white"
+  "the powder is naturally cool",
+  "it is to be used in all formulations",
+  "the instruction is prescriptive"
  ],
- "inference": "the figures are white in color",
+ "inference": "The naturally cool powder should be used in all formulations.",
  "uncertainties": [
-  "subject identity is not explicit"
+  "the powder's identity is not restated here"
  ],
- "plain_english": "Their color is white."
+ "plain_english": "Use the naturally cool powder in all formulations."
 }

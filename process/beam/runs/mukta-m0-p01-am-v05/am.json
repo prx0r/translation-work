@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 5,
- "question": "What holy austerity forest place is filled with various trees?",
+ "question": "What seed-syllable of śivottama is pervaded by bindu and nāda?",
  "premises": [
-  "holy austerity is named",
-  "forest place is named",
-  "various trees fill it"
+  "bindu+nāda+samākrāntaṃ is with-bindu-nāda-pervaded",
+  "śivottamasya is of śivottama",
+  "ca is and",
+  "bījakam is seed-syllable"
  ],
- "inference": "The holy austerity forest place is filled with various trees",
+ "inference": "The seed-syllable of śivottama is pervaded by bindu and nāda.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "exact mantra syllable not given"
  ],
- "plain_english": "The holy austerity forest place is filled with various trees."
+ "plain_english": "The seed-syllable of śivottama is pervaded by bindu and nāda."
 }

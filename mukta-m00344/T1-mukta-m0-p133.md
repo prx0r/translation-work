@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p133-v3301
-[katham](katham) [niścaya](niścaya-) [udayaḥ](udayaḥ) [iti](iti) [cet](cet) [sādhanam](sādhana-) [āha](āha) [-](—) [atra](atra) [iti](iti) [niścaye](niścaye) [iti](iti) [arthaḥ](arthaḥ)
+[how](kathaṃ) [certainty-rise](niścayodaya) [thus](iti) [if](cet) [means](sādhanam) [says](āha) [here](atra) [iti](iti) [in-certainty](niścaye) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p133-v3302
-[tat](tat) [parityajya](parityajya) [sattarka](sat-tarka-) [āvartanasya](āvartanasya) [prasādhane](prasādhane)
+[that](tat) [abandoning](parityajya) [good-reasoning](sattarka) [turning](āvartanasya) [establishing](prasādhane)
 
 ## mukta-m0-p133-v3303
-[tataḥ](tataḥ) [śraddhā](śraddhā-) [samudayāt](samudayāt) [anāśvāsaḥ](anāśvāsaḥ) [praṇaśyati](praṇaśyati)
+[then](tataḥ) [faith](śraddhā) [arising](samudayāt) [non-confidence](anāśvāsaḥ) [perishes](praṇaśyati)
 
 ## mukta-m0-p133-v3304
-[śraddhā](śraddhā) [iti](iti) [ucyate](ucyate) [praṇaśyati](praṇaśyati) [nivartate](nivartate)
+[faith](śradhā) [thus](iti) [ucyate](ucyate) [perishes](praṇaśyati) [turns-away](nivartate)
 
 ## mukta-m0-p133-v3305
-[kāma](kāma-) [ādi](ādi-) [vāsanā](vāsanā-) [āviṣṭā](āviṣṭā) [buddhiḥ](buddhiḥ) [na](na) [eva](eva) [pravartate](pravartate)
+[desire-etc](kāmādi) [latent-impressions](vāsanā) [possessed](viṣṭā) [intellect](buddhiḥ) [not](na) [indeed](eva) [proceeds](pravartate)
 
 ## mukta-m0-p133-v3306
-[tam](tam) [artham](artham) [na](na) [eva](eva) [gṛhṇāti](gṛhṇāti)
+[that](tam) [meaning](artham) [not](na) [indeed](eva) [grasps](gṛhṇāti)
 
 ## mukta-m0-p133-v3307
-[puraḥ](puraḥ-) [sthitam](sthitam) [na](na) [paśyet](paśyet) [ca](ca) [śrotra](śrotra-) [uktaṃ](uktam) [śṛṇuyāt](śṛṇuyāt) [na](na) [ca](ca)
+[before](puraḥ) [standing](sthitaṃ) [not](na) [sees](paśyet) [ca](ca) [ear-spoken](śrotroktaṃ) [hears](śṛṇuyāt) [na](na) [ca](ca)
 
 ## mukta-m0-p133-v3308
-[strī](strī-) [dhanādeḥ](dhana-ādeḥ) [śrotra](śrotra-) [uktam](uktam) [karṇe](karṇe) [uccaritam](uccaritam) [api](api) [śabdam](śabdam) [na](na) [śṛṇuyāt](śṛṇuyāt)
+[woman-wealth-etc](strīdhanādeḥ) [ear-spoken](śrotroktaṃ) [in-ear](karṇe) [uttered](uccaritam) [api](api) [sound](śabdaṃ) [not](na) [hears](śṛṇuyāt)
 
 ## mukta-m0-p133-v3309
-[kāma](kāma-) [ādi](ādi-) [vāsanām](vāsanām) [tasmāt](tasmāt) [jayet](jayet) [vairāgya](vairāgya-) [sampadā](sampadā)
+[desire-etc](kāmādi) [latent-impression](vāsanā) [therefore](tasmāt) [conquer](jayet) [dispassion-wealth](vairāgyasampadā)
 
 ## mukta-m0-p133-v3310
-[sampatyā](sampatyā) [jayet](jayet)
+[by-wealth](sampattyā) [conquer](jayet)
 
 ## mukta-m0-p133-v3311
-[tatra](tatra) [kāmaḥ](kāmaḥ) [mūla](mūla-) [bhūtaḥ](bhūtaḥ) [tat](tat) [nāśe](nāśe) [na](na) [hi](hi) [kiñcana](kiñcana)
+[there](tatra) [desire](kāmaḥ) [root](mūlabhūtaḥ) [its](tad) [destruction](nāśe) [not](na) [hi](hi) [anything](kiñcana)
 
 ## mukta-m0-p133-v3312
-[kiñcana](kiñcana) [krodha](krodha-) [ādikam](ādikam) [bhavet](bhavet) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[anything](kiñcana) [anger-etc](krodhādikaṃ) [becomes](bhavet) [iti](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p133-v3313
-[āśā](āśā) [hi](hi) [kāmaḥ](kāmaḥ) [saṃproktaḥ](saṃproktaḥ) [etat](etat) [me](me) [syāt](syāt) [iti](iti) [sthitā](sthitā)
+[hope](āśā) [hi](hi) [desire](kāmaḥ) [saṃprokta](saṃprokta) [this](etan) [me](me) [syāt](syāt) [iti](iti) [sthitā](sthitā)
 
 ## mukta-m0-p133-v3314
-[tataḥ](tataḥ) [kāmasya](kāmasya) [mukhyatvāt](mukhyatvāt) [kāma](kāma-) [svarūpam](svarūpam) [āha](āha) [-](—) [āśā](āśā) [iti](iti) [sthitā](sthitā) [āśā](āśā)
+[then](tataḥ) [desire](kāmasya) [primacy](mukhyatvāt) [desire-nature](kāmasvarūpam) [says](āha) [āśā](āśā) [iti](iti) [thus](iti) [sthitā](sthitā) [āśā](āśā)
 
 ## mukta-m0-p133-v3315
-[dṛḍha](dṛḍha-) [vairāgya](vairāgya-) [yogena](yogena) [sarvām](sarvām) [tām](tām) [pravināśayet](pravināśayet)
+[firm-dispassion](dṛḍhavairāgya) [yoga](yogena) [all](sarvāṃ) [that](tāṃ) [completely-destroy](pravināśayet)
 
 ## mukta-m0-p133-v3316
-[sūkṣmām](sūkṣmām) [ca](ca) [tām](tām) [vāsanām](vāsanām)
+[subtle](sūkṣmāṃ) [ca](ca) [that](tāṃ) [latent-impression](vāsanām)
 
 ## mukta-m0-p133-v3317
-[vaimukhyam](vaimukhyam) [viṣayebhyaḥ](viṣayebhyaḥ) [ca](ca) [vāsanā](vāsanā) [nāśayet](nāśayet) [iti](iti)
+[aversion](vaimukhyaṃ) [from-objects](viṣayebhyaḥ) [ca](ca) [latent-impression](vāsanā) [destroy](nāśayet) [iti](iti)
 
 ## mukta-m0-p133-v3318
-[viṣaya](viṣaya-) [svarūpasya](svarūpasya) [anusandhāna](anusandhāna-) [abhāvaḥ](abhāvaḥ) [deha](deha-) [yātrā](yātrā-) [anupayukta](anupayukta-) [adhika](adhika-) [āsevanam](āsevanam) [ca](ca)
+[object-nature](viṣayasvarūpa) [investigation-absence](anusandhānābhāvaḥ) [body-maintenance](dehayātrā) [unuseful](anupayuktā) [service](adhikāsevanaṃ) [ca](ca)
 
 ## mukta-m0-p133-v3319
-[asādhyaḥ](asādhyaḥ) [saḥ](saḥ) [abhyāsa](abhyāsa-) [mukhaiḥ](mukhaiḥ) [sarvathā](sarvathā) [ṛṣi](ṛṣi-) [sattamāḥ](sattamāḥ)
+[unsolvable](asādhyaḥ) [that](saḥ) [practice](abhyāsa) [facing](mukhaiḥ) [in-all-ways](sarvathā) [best-sages](ṛṣisattamāḥ)
 
 ## mukta-m0-p133-v3320
-[abhyāsa](abhyāsa-) [ādyaiḥ](ādyaiḥ) [nivartayitum](nivartayitum) [asādhyaḥ](asādhyaḥ)
+[practice-etc](abhyāsādyaiḥ) [remove](nivartayitum) [unsolvable](asādhyaḥ)
 
 ## mukta-m0-p133-v3321
-[tat](tat) [jāḍyam](jāḍyam) [hi](hi) [mahān](mahān) [doṣaḥ](doṣaḥ) [puruṣa](puruṣa-) [artha](artha-) [vināśanaḥ](vināśanaḥ)
+[that](tad) [dullness](jāḍyaṃ) [hi](hi) [great](mahān) [fault](doṣaḥ) [human-aim](puruṣārtha) [destruction](vināśanaḥ)
 
 ## mukta-m0-p133-v3322
-[puruṣa](puruṣa-) [arthasya](arthasya) [ajñāna](ajñāna-) [nivṛtteḥ](nivṛtteḥ) [mokṣasya](mokṣasya) [vā](vā) [vināśanaḥ](vināśanaḥ) [pratibandhakaḥ](pratibandhakaḥ)
+[human-aim](puruṣārthasya) [ignorance-removal](ajñānanivṛtteḥ) [mokṣa](mokṣasya) [vā](vā) [destruction](vināśanaḥ) [obstacle](pratibandhakaḥ)
 
 ## mukta-m0-p133-v3323
-[sevāyāḥ](sevāyāḥ) [tāratamyena](tāratamyena) [jāḍyam](jāḍyam) [tasya](tasya) [harāmi](harāmi) [aham](aham)
+[service](sevāyāḥ) [gradation](tāratamyena) [dullness](jāḍyaṃ) [its](tasya) [remove](harāmi) [aham](aham)
 
 ## mukta-m0-p133-v3324
-[ṛte](ṛte) [vinā](vinā)
+[except](ṛte) [without](vinā)
 
 ## mukta-m0-p133-v3325
-[bhavet](bhavet) [tasya](tasya) [phala](phala-) [prāptiḥ](prāptiḥ) [jāḍya](jāḍya-) [saṃyukta](saṃyukta-) [cetasaḥ](cetasaḥ)
+[becomes](bhavet) [its](tasya) [fruit-attainment](phalaprāptiḥ) [dullness-joined](jāḍyasaṃyuktacetasaḥ)

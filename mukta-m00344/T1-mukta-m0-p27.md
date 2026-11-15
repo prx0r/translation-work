@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[that](tat)+[happiness](sukham)+[experiences](anubhavati)+[thus](iti)+[says](āha) - [unstable](asthira) [thus](iti)
+[that-happiness](tatsukham) [experiences](anubhavati) [thus-says](ityāha) [unsteady](asthira) [thus](iti)
 
 ## mukta-m0-p27-v652
-[enjoys](bhunakty)+[exceedingly](atitarāṃ) [always](nityam)+[and](atha)+[another](anyā) [and](ca)+[fickle](capalā) [own-sister](svasā)
+[enjoys](bhunakti) [excessively](atitarām) [always](nityam) [then-another](athānyā) [fickle](capalā) [sister](svasā)
 
 ## mukta-m0-p27-v653
-[in-private](rahaḥ) [in-dream](svapna)+[and-so-on](ādau) | [another](anyā) [hope](āśā)
+[secretly](rahaḥ) [in-dreams-etc](svapnādau) [another](anyā) [hope](āśā)
 
 ## mukta-m0-p27-v654
-[in-her](tasyām)+[exceedingly](atitarāṃ) [attached](sakto) [when](yadā)+[became](abhūt)+[unstable](asthiraḥ)+[even](api) [indeed](vai)
+[to-her](tasyām) [excessively](atitarāṃ) [attached](sakto) [when](yadā) [became](abhūt) [unsteady](asthiraḥ) [also](api) [indeed](vai)
 
 ## mukta-m0-p27-v655
-[by-him](tena)+[brought](ānītaṃ) [much](bahu)+[even](api) [and](ca) [having-eaten](bhakṣitvā) [moment](kṣaṇa)+[measure](mātra)+[from](taḥ)
+[by-him](tena) [brought](ānītam) [much](bahv) [also](api) [and](ca) [having-eaten](bhakṣitvā) [momentary](kṣaṇamātrataḥ)
 
 ## mukta-m0-p27-v656
-[enjoyment](bhoga)+[taking-away](āharaṇa)+[intent-on](tatparaḥ)+[became](abhavat)
+[enjoyment-taking-eager](bhogāharaṇatatparaḥ) [became](abhavat)
 
 ## mukta-m0-p27-v657
-[always](sadā) [dear](priyaṃ) [instructs](sandiśati) [he](saḥ)+[also](api)+[to-fetch](āhartuṃ) [always](sadā)+[looks](īkṣate)
+[always](sadā) [dear](priyam) [commands](sandiśati) [he](saḥ) [also](api) [to-fetch](āhartuṃ) [looks](īkṣate)
 
 ## mukta-m0-p27-v658
-[by-insatiable-desire](duṣpūra+āśā)+[possessed](āviṣṭaṃ) [mind](manaḥ) [always](sarvadā) [sense-object](viṣaya)+[accomplishment](sādhana)+[intent-on](param)+[became](abhavat)+[thus](iti) [purport](tātparyam)
+[insatiable-hope-filled](duṣpūrāśāviṣṭam) [mind](manaḥ) [always](sarvadā) [sense-object-pursuit-focused](viṣayasādhanaparam) [became](abhavat) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p27-v659
-[having-enjoyed](bhuktvā) [in-a-moment](kṣaṇena) [again](bhūyaḥ)+[also](api) [she](sā) [by-hunger](bubhukṣā)+[tormented](prapīḍitā)
+[having-eaten](bhuktvā) [in-moment](kṣaṇena) [again](bhūyaḥ) [also](api) [she](sā) [hunger-afflicted](bubhukṣāprapīḍitā)
 
 ## mukta-m0-p27-v660
-[of-co-wife](sapatnyāḥ) [by-sons](putraiḥ)+[by-senses](indriyaiḥ)
+[co-wife's](sapatnyāḥ) [sons](putraiḥ) [senses](indriyaiḥ)
 
 ## mukta-m0-p27-v661
-[then](tataḥ) [she](sā) [in-a-short-time](svalpa+kālena) [gave-birth-to](suṣuve) [of-sons](putrayoḥ)+[pair](yugam)
+[then](tataḥ) [she](sā) [in-short-time](svalpakālena) [bore](suṣuve) [of-two-sons](putrayoḥ) [pair](yugam)
 
 ## mukta-m0-p27-v662
-[of-enjoyments](bhogānām) [in-bringing](āhṛtau) [in-the-matter-of-fetching](āharaṇa+viṣaye)
+[of-enjoyments](bhogānām) [in-bringing](āhṛtau) [in-fetching-matter](āharaṇaviṣaye)
 
 ## mukta-m0-p27-v663
-[always](sadā) [of-mother](mātuḥ) [most-dear](priyatamau) [those-two](tau) [sons](putrau) [became](saṃbabhūvatuḥ)
+[always](sadā) [of-mother](mātuḥ) [most-dear](priyatamau) [those](tau) [sons](putrau) [became](saṃbabhūvatuḥ)
 
 ## mukta-m0-p27-v664
-[of-mother](mātuḥ)+[of-desire](āśāyāḥ) | [from-excess-of-desire](āśā+ādhikyāt) [of-anger-and-greed](krodha+lobhayoḥ) [predominance](prābalyam)+[became](abhavat)+[thus](iti)+[intention](āśayaḥ)
+[of-mother's-hope](māturāśāyāḥ) [from-excess-of-hope](āśādhikyāt) [of-anger-greed](krodhalobhayoḥ) [predominance](prābalyam) [became](abhavat) [thus-intent](ityāśayaḥ)
 
 ## mukta-m0-p27-v665
-[then](tadā) [by-flame-mouth](jvālāmukha)+[flame](jvālā)+[licked](līḍha)+[all](sarva)+[body](kalevaraḥ)
+[then](tadā) [volcano-flame-licked-whole-body](jvālāmukhajvālālīḍhasarvakalevaraḥ)
 
 ## mukta-m0-p27-v666
 [purport](tātparyam)
 
 ## mukta-m0-p27-v667
-[once](kadācit)+[by-blameworthy-conduct](nindya+vṛttena) [associated](saṅgataḥ) [with-dear-son](priya+sūnunā)
+[sometimes](kadācit) [with-blameworthy-conduct](nindyavṛttena) [associated](saṅgataḥ) [with-dear-son](priyasūnunā)
 
 ## mukta-m0-p27-v668
-[thus](evaṃ) [when](yadā)+[unstable](asthiraḥ) [became](jātaḥ) [in-suffering](duḥkha)+[enjoyment](bhoga)+[solely-intent](eka+tatparaḥ)
+[thus](evam) [when](yadā) [unsteady](asthiraḥ) [born](jātaḥ) [suffering-enjoyment-focused](duḥkhabhogaikatatparaḥ)
 
 ## mukta-m0-p27-v669
-[by-greed](lobhena) [blameworthiness](nindyatā) [then](tataḥ) [death-likeness](mṛta+tulyatā) [and](ca) [clear](spaṣṭā)
+[by-greed](lobhena) [blameworthiness](nindyatā) [then](tato) [death-likeness](mṛtatulyatā) [and](ca) [clear](spaṣṭā)
 
 ## mukta-m0-p27-v670
-[from-excessive-affection](ati+vātsalyataḥ)+[by-him](tena) [associated](saṅgatā) [of-him](tasya) [from-suffering](duḥkhataḥ)
+[by-excessive-affection](ativātsalyataḥ) [by-him](tena) [associated](saṅgatā) [his](tasya) [from-suffering](duḥkhataḥ)
 
 ## mukta-m0-p27-v671
-[attainment-of-suffering](duḥkha+prāptiḥ)+[says](iti+āha) - [then](tadā)+[thus](iti) | [friend](sakhī) [intellect](buddhiḥ) | [in-son](putre) [in-mind](manasi)
+[suffering-attainment](duḥkhaprāptiḥ) [thus-says](ityāha) [that](tad) [etc](eti) [friend](sakhī) [intellect](buddhiḥ) [in-son](putre) [in-mind](manasi)
 
 ## mukta-m0-p27-v672
-[by-flame-mouth](jvālāmukhena) [and](ca) [likewise](tathā) [by-grandson](pautreṇa)+[embraced](āśliṣitā) [being](satī)
+[by-volcano](jvālāmukhena) [and](ca) [thus](tathā) [by-grandson](pautreṇa) [embraced](āśleṣitā) [being](satī)
 
 ## mukta-m0-p27-v673
-[her](tāṃ) [always](sadā)+[following](anugatā) [and](ca)+[I](aham) [almost-lost](lupta+prāyā)+[became](abhavaṃ) [dear](priya)
+[her](tām) [always-following](sadānugatā) [and](ca) [I](aham) [almost-lost](luptaprāyā) [became](abhavam) [dear](priya)
 
 ## mukta-m0-p27-v674
-[of-own-nature](svarūpasya)+[from-non-appearance](anavabhāsāt)+[almost-lost-state](lupta+prāyatvaṃ) [to-be-known](jñeyam)
+[of-true-nature](svarūpasya) [non-manifestation](anavabhāsāt) [almost-lost-ness](luptaprāyatvam) [to-be-known](jñeyam)
 
 ## mukta-m0-p27-v675
-[unstable](asthiraḥ)+[became](abhūt)+[not-independent](asvatantraḥ) [from-acceptance-of-great-food](mahāśana+aparigrahāt)
+[unsteady](asthiraḥ) [became](abhūt) [dependent](asvatantro) [from-great-food-acceptance](mahāśanāparigrahāt)

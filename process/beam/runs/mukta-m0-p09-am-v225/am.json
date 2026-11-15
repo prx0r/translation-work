@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p09",
  "verse": 225,
- "question": "How does a man attain seed-stiffness by anointing the navel with honey-ground paste?",
+ "question": "Which flowers and offering are to be worshipped for Guha in this instruction?",
  "premises": [
-  "Honey is ground into paste.",
-  "Navel is anointed with paste.",
-  "Stiffness of seed is attained."
+  "talapotaka flowers are prescribed for worship",
+  "kotapi is included in the prescription",
+  "the address is to Guha"
  ],
- "inference": "Anointing the navel with honey paste produces seed stiffness.",
+ "inference": "The verse directs worship of talapotaka flowers and kotapi to Guha.",
  "uncertainties": [
-  "Exact ritual context is unspecified."
+  "identification of kotapi remains uncertain",
+  "the plus in the first token marks a compound rather than a separate token"
  ],
- "plain_english": "Having ground honey and anointed the navel, one attains stiffness of a man's seed."
+ "plain_english": "Worship talapotaka flowers and kotapi, O Guha."
 }

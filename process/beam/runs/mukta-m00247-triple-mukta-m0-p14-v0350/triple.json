@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative object of smare",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇakālikāṃ",
+     "gloss": "dakshina-kalika",
+     "grounds": "proper name in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhagavatīṃ",
+     "gloss": "venerable-goddess",
+     "grounds": "epithet in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rakta+ambarāṃ",
+     "gloss": "red-garmented",
+     "grounds": "compound adjective in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "accusative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smare",
+     "gloss": "I-remember",
+     "grounds": "first-person singular present of smṛ",
+     "morph": "1.sg.act-pres (smṛ)"
+    }
+   ],
+   "question": "Which goddess is remembered as red-garmented Dakshina Kalika?",
+   "premises": [
+    "devi is Dakshina Kalika",
+    "she is venerable goddess",
+    "she wears red garments",
+    "the speaker remembers her"
+   ],
+   "inference": "The verse invokes red-garmented Dakshina Kalika as venerable goddess.",
+   "uncertainties": [
+    "exact ritual context is not stated"
+   ],
+   "plain_english": "I remember the goddess, the venerable Dakshina Kalika, red-garmented."
+  }
+ ]
+}

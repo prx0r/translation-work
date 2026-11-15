@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "aṣṭamasya",
+     "gloss": "of-eighth",
+     "grounds": "genitive of aṣṭama",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "accusative of tṛtīya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "accusative of ṣaṣṭha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhūṣitam",
+     "gloss": "adorned",
+     "grounds": "past participle of vibhūṣ",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which ordinal adornments are assigned to the eighth entity?",
+   "premises": [
+    "eighth takes third adornment",
+    "eighth takes sixth adornment",
+    "adornment is specified"
+   ],
+   "inference": "the eighth entity bears third and sixth adornments",
+   "uncertainties": [
+    "exact referent of eighth entity unverified"
+   ],
+   "plain_english": "The eighth is adorned with the third and sixth."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[without-cause](nirnimittena) [thus](iti) [meaning](arthaḥ)
+[gloss](nirnimittenetyarthaḥ)
 
 ## mukta-m0-p31-v752
-[went](yayau) [man](naraḥ)
+[gloss]([k, kh: yayau]) [gloss](naraḥ)
 
 ## mukta-m0-p31-v753
-[deluded](mohitā) [by-extreme-distress](atyanta+khedena) [by-me](mayā) [in-secret](rahasi) [united](saṅgatā)
+[gloss](mohitā'tyantakhedena) [gloss](mayā) [gloss](rahasi) [gloss](saṅgatā)
 
 ## mukta-m0-p31-v754
-[having-conquered](jitvā) [own-son](svatanayam) [having-killed](hatvā) [having-bound](badhvā) [that-son-etc](tat+tanaya+ādikān)
+[gloss](jitvā) [gloss](svatanayaṃ) [gloss](hatvā) [gloss](badhvā) [gloss](tattanayādikān)
 
 ## mukta-m0-p31-v755
-[son](tanayam) [mind](manaḥ) [anger-greed](krodha+lobhau) [having-killed](hatvā) [senses](indriyāṇi) [having-bound](badhvā)
+[gloss](tanayaṃ) [gloss](manaḥ) [gloss](krodhalobhau) [gloss](hatvā) [gloss](indriyāṇi) [gloss](badhvā)
 
 ## mukta-m0-p31-v756
-[my-mother](man+mātaram) [having-embraced](pariṣvajya) [again-and-again](muhur+muhuḥ) [sinless](akalmaṣā)
+[gloss](manmātaraṃ) [gloss](pariṣvajya) [gloss](muhurmuhurakalmaṣā)
 
 ## mukta-m0-p31-v757
-[even-having-killed](hatvā+api) [he](saḥ) [these](imān) [worlds](lokān) [not](na) [kills](hanti) [not](na) [is-killed](nivadhyate) [thus](iti)
+[gloss](hatvāpi) [gloss](sa) [gloss](imān) [gloss](lokān) [gloss](na) [gloss](hanti) [gloss](na) [gloss](nivadhyate) [gloss]((bha0 gī0 18|17)) [gloss](iti)
 
 ## mukta-m0-p31-v758
-[thus](evam) [you](tvam) [also](api) [evil-conducted](durvṛttam) [having-subdued](nigṛhya) [friend-born](sakhi+sambhavam)
+[gloss](evaṃ) [gloss](tvamapi) [gloss](durvṛttaṃ) [gloss](nigṛhya) [gloss](sakhisambhavam)
 
 ## mukta-m0-p31-v759
-[of-me](mama) [thus](iti) [said](uktam) [is](bhavati) [friend-born](sakhi+sambhavam) [mind](manaḥ)
+[gloss](mametyuktaṃ) [gloss](bhavati) [gloss](sakhisambhavaṃ) [gloss](manaḥ)
 
 ## mukta-m0-p31-v760
-[this](etat) [to-you](te) [told](kathitam) [lord](nātha) [self-experienced](sva+anubhūtam) [abode-of-bliss](sukha+āspadam)
+[gloss](etatte) [gloss](kathitaṃ) [gloss](nātha) [gloss](svānubhūtaṃ) [gloss](sukhāspadam)
 
 ## mukta-m0-p31-v761
-[having-attained](prāpya) [thus](iti) [meaning](arthaḥ)
+[gloss](prāpyetyarthaḥ)
 
 ## mukta-m0-p31-v762
-[laughing](hasan) [asked](papraccha) [her](tām) [beloved](kāntām) [ignorant](avidvān) [to-wise](viduṣīm) [then](tadā)
+[gloss](hasan) [gloss](papraccha) [gloss](tāṃ) [gloss](kāntāmavidvān) [gloss](viduṣīṃ) [gloss](tadā)
 
 ## mukta-m0-p31-v763
-[like-a-picture](kha+citram+iva) [like-impossible](asambhāvitam+iva) [thus-meaning](iti+arthaḥ) [supportless](nirālambam) [objectless](nirviṣayam)
+[gloss](khacitramiva) [gloss](asambhāvitamivetyarthaḥ) [gloss](nirālambaṃ) [gloss](nirviṣayam)
 
 ## mukta-m0-p31-v764
-[whence](kutaḥ) [thus](iti) [if](cet) [he-says](āha) [surely](nūnam) [thus](iti) [enough](alam) [exceedingly](atyantam)
+[gloss](kuta) [gloss](iti) [gloss](cedāha) [gloss](nūnamiti) [gloss](alam) [gloss](atyantam)
 
 ## mukta-m0-p31-v765
-[ghost-seized-speech-like](bhūta+grasta+ukti+sadṛśa) [by-speech](vacasā) [to-you](te) [excessively](atimātrataḥ)
+[gloss](bhūtagrastoktisadṛśavacasā) [gloss](te'timātrataḥ)
 
 ## mukta-m0-p31-v766
-[excessively](atimātrataḥ) [by-excess](atimātreṇa) [by-much](bahulena) [by-speech](vacasā)
+[gloss](atimātrato'timātreṇa) [gloss](bahulena) [gloss](vacasā)
 
 ## mukta-m0-p31-v767
-[say](vada) [to-you](te) [that](sā) [friend](sakhī) [where](kva) [is](āste) [bound](baddhaḥ) [and](ca) [friend’s-son](sakhi+putrakaḥ)
+[gloss](vada) [gloss](te) [gloss](sā) [gloss](sakhī) [gloss](kvāste) [gloss](baddhaśca) [gloss](sakhiputrakaḥ)
 
 ## mukta-m0-p31-v768
-[if](cet) [he-says](āha) [say](vada) [thus](iti)
+[gloss]([k, g: castha]) [gloss](cedāha) [gloss](vadeti)
 
 ## mukta-m0-p31-v769
-[let-it-be](astu) [what](kim) [by-that](tena) [by-incident](vṛttena) [say](vada) [to-me](me) [where](kva) [and](ca) [that](sā) [friend](sakhī)
+[gloss](astu) [gloss](kiṃ) [gloss](tena) [gloss](vṛttena) [gloss](vada) [gloss](me) [gloss](kva) [gloss](ca) [gloss](sā) [gloss](sakhī)
 
 ## mukta-m0-p31-v770
-[noble-lady](āryā) [is](asti) [my](me) [in-harem](avarodhe) [own](sve) [of-father](pituḥ) [my](me) [other](anyā) [not](na) [indeed](hi) [dear](priyā)
+[gloss](āryāsti) [gloss](me'varodhe) [gloss](sve) [gloss](piturme'nyā) [gloss](nahi) [gloss](priyā)
 
 ## mukta-m0-p31-v771
-[as](yathā) [friend](sakhī) [given](dattā) [may-be](syāt) [thus](iti) [he-says](āha) [of-father](pituḥ) [thus](iti)
+[gloss](yathā]) [gloss](sakhī) [gloss](dattā) [gloss]([k: dattāsthā]) [gloss](syādityāha) [gloss](pituriti)
 
 ## mukta-m0-p31-v772
-[think](manye) [I](aham) [your](te) [speech](vacaḥ) [in-world](loke) [barren-son-refuge](vandhyā+putra+samāśrayam)
+[gloss](manye'haṃ) [gloss](te) [gloss](vaco) [gloss](loke) [gloss](vandhyāputrasamāśrayam)
 
 ## mukta-m0-p31-v773
-[in-world](loke) [famous](prasiddham) [barren-son-refuge](vandhyā+putra+samāśrayam) [speech](vacaḥ) [like](iva) [your](te) [speech](vacaḥ)
+[gloss](loke) [gloss](prasiddhaṃ) [gloss](vandhyāputrasamāśrayaṃ) [gloss](vaca) [gloss](iva) [gloss](te) [gloss](vacaḥ)
 
 ## mukta-m0-p31-v774
-[barren-son](vandhyā+putraḥ) [mounted](samārūḍhaḥ) [reflection-great-chariot](pratibimba+mahā+ratham)
+[gloss](vandhyāputraḥ) [gloss](samārūḍhaḥ) [gloss](pratibimbamahāratham)
 
 ## mukta-m0-p31-v775
-[that](tat) [only](eva) [he-says](āha) [as](yathā) [thus](iti) [actress](naṭikā) [actor](naṭaḥ)
+[gloss](tadevāha) [gloss](yatheti) [gloss](naṭiko) [gloss](naṭaḥ)

@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2522,
- "question": "Which serpent-bearer is asked to grant peace?",
+ "question": "How should an archway be arranged with a vessel?",
  "premises": [
-  "The verse bows always for peace.",
-  "It asks to grant.",
-  "It names a serpent-bearer."
+  "archway is included",
+  "it is also included",
+  "it is with vessel",
+  "arrangement is as before"
  ],
- "inference": "The verse requests peace from a serpent-bearer.",
+ "inference": "One should arrange an archway with a vessel as before.",
  "uncertainties": [
-  "Compound boundaries are not split."
+  "exact vessel type"
  ],
- "plain_english": "We bow for peace; grant it, serpent-bearer."
+ "plain_english": "An archway also should be arranged with a vessel as before."
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2600,
+   "rows": [
+    {
+     "surface": "suvarma",
+     "gloss": "suvarma-mountain",
+     "grounds": "mountain name in accusative placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-the-west",
+     "grounds": "locative directional term",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of root sthā",
+     "morph": "absol."
+    },
+    {
+     "surface": "vāyavye",
+     "gloss": "in-the-northwest",
+     "grounds": "locative directional term",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāriyātrakam",
+     "gloss": "pariyatraka-mountain",
+     "grounds": "mountain name in accusative placement",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which mountains are to be placed in the west and northwest?",
+   "premises": [
+    "Suvarma is placed in west.",
+    "Pariyatraka is placed northwest.",
+    "Placement follows directional scheme."
+   ],
+   "inference": "The verse assigns Suvarma to the west and Pariyatraka to the northwest.",
+   "uncertainties": [
+    "Exact grammatical case of mountain names unresolved."
+   ],
+   "plain_english": "Place Suvarma in the west and Pariyatraka in the northwest."
+  }
+ ]
+}

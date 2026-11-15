@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 110,
- "question": "Which posture and vehicle are being described here?",
+ "question": "What offerings should be given and offered to him?",
  "premises": [
-  "The token list gives a posture.",
-  "The token list gives a chariot."
+  "pādyam and ācamanam are given",
+  "arghyaṃ is offered",
+  "tasmai names the recipient"
  ],
- "inference": "The unit describes a form standing in alidha posture on a four-lion chariot.",
+ "inference": "One should give foot-water and sipping-water, then offer arghya to him.",
  "uncertainties": [
-  "Color and deity name are not explicit in these tokens."
+  "identity of tasmai from context"
  ],
- "plain_english": "The form stands in alidha posture on a four-lion chariot."
+ "plain_english": "Having given foot-water and sipping-water, one should offer arghya to him."
 }

@@ -3,29 +3,34 @@
  "verse": 2669,
  "rows": [
   {
-   "lemma": "tasmādā",
+   "lemma": "puṣkaraṇī",
+   "morph": "f.nom.sg",
+   "grounds": "nominative subject"
+  },
+  {
+   "lemma": "vāruṇyāṃ",
+   "morph": "loc.sg.f",
+   "grounds": "locative direction"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "indicates the starting point and extent; form may be fused"
+   "grounds": "particle"
   },
   {
-   "lemma": "kaṭisaṃdhānta",
-   "morph": "m.acc.sg, compound=kaṭi+saṃdhā+anta",
-   "grounds": "compound indicating the endpoint at the hip joint"
+   "lemma": "śatahastaṃ",
+   "morph": "n.acc.sg.compound",
+   "grounds": "compound qualifier"
   },
   {
-   "lemma": "vaśam",
-   "morph": "m.acc.sg",
-   "grounds": "term indicating range or measure; reading uncertain"
+   "lemma": "vartulaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "adjectival qualifier"
   },
   {
-   "lemma": "ṛkṣāṃśam",
-   "morph": "m.acc.sg, compound=ṛkṣa+aṃśa",
-   "grounds": "compound indicating a measure of twenty-seven units; ṛkṣa often denotes 27"
-  },
-  {
-   "lemma": "āyatam",
-   "morph": "n.nom.sg",
-   "grounds": "describes the length or extent"
+   "lemma": "bhavet",
+   "morph": "opt.3sg.act.root-bhū",
+   "grounds": "optative existence"
   }
  ]
 }

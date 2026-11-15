@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "niḥsmṛtaṃ",
+     "gloss": "forgotten",
+     "grounds": "legacy hint remembered; parsed as niḥ + smṛta, hence not-remembered",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "śubhadam",
+     "gloss": "auspicious-giving",
+     "grounds": "legacy hint auspicious+giving",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "āgamāmṛte",
+     "gloss": "in-Āgamāmṛta",
+     "grounds": "locative of āgamāmṛta",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What is said to be auspicious-giving and forgotten in the Āgamāmṛta?",
+   "premises": [
+    "niḥsmṛtaṃ means forgotten",
+    "śubhadam means auspicious-giving",
+    "āgamāmṛte locates in Āgamāmṛta"
+   ],
+   "inference": "The verse states something forgotten and auspicious-giving in the Āgamāmṛta.",
+   "uncertainties": [
+    "The exact referent of niḥsmṛtaṃ is not specified in this excerpt."
+   ],
+   "plain_english": "And [it is] forgotten, O great goddess, auspicious-giving, in the Āgamāmṛta."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p141-v3501
-[not](na) [body](deha) [thus](iti) [in-body](deha) [and-its](tat) [activities](vyāpārayoḥ) [abandoned](tyakta) [ego](abhimānaḥ) [thus](iti) [purport](tātparyam)
+[not](na) [body](dehī) [thus](iti)
 
 ## mukta-m0-p141-v3502
-[as](yathā) [woman](strī) [disguised](veṣitaḥ) [in-drama](nāṭye) [dual](dvai) [form](rūpyam) [having-assumed](upasaṅgataḥ)
+[as](yathā) [woman-dress](strīveṣito) [in](nāṭye) [duality](dvairūpyam) [approached](upasaṅgataḥ)
 
 ## mukta-m0-p141-v3503
-[this](asau) [supreme](uttama) [knower](jñānī) [here](atra) [example](dṛṣṭāntaḥ) [as](yathā) [thus](iti) [woman](strī) [disguised](veṣitaḥ) [man](puruṣaḥ)
+[he](asau) [supreme-knower](uttamajñānī) [here](atra) [example](dṛṣṭāntaḥ) [as](yatheti) [woman-dressed](strīveṣitaḥ) [man](puruṣaḥ)
 
 ## mukta-m0-p141-v3504
-[thus](evam) [this](eṣa) [world](jagat) [play](krīḍā) [intent-on](tatparaḥ) [pure](nirmala) [minded](āśayaḥ)
+[thus](evameṣa) [world-play](jagatkrīḍā) [devoted](tatparo) [pure-minded](nirmalāśayaḥ)
 
 ## mukta-m0-p141-v3505
-[unmoving](acala) [steadiness](sthitiḥ) [of-this](etasya) [of-inquiry](vicārasya) [by-excellence](prakarṣataḥ)
+[unmoving-state](acalasthitiretasya) [inquiry](vicārasya) [excellence](prakarṣataḥ)
 
 ## mukta-m0-p141-v3506
-[unshaken](niṣprakampa) [certainty](niścaya) [form](rūpa) [result](phala) [culmination](paryavasāyitā)
+[unshakable-certainty](niṣprakampaniścayarūpaphalaparyavasāyitā)
 
 ## mukta-m0-p141-v3507
-[here](atra) [to-you](te) [listen](śṛṇu) [I-shall-tell](vakṣyāmi) [dialogue](saṃvādaṃ) [of-two-knowers](jñāninoḥ) [mutually](mithaḥ)
+[here](atra) [to-you](te) [hear](śṛṇu) [i-will-speak](vakṣyāmi) [dialogue](saṃvādaṃ) [of-knowers](jñāninormithaḥ)
 
 ## mukta-m0-p141-v3508
-[in-knowledge](vijñāna) [method](prakriyā) [context](prasaṅge) [all](sarva) [doubt](sandeha) [destroying](nāśanaṃ) [dialogue](saṃvādam)
+[knowledge-process](vijñānaprakriyāprasaṅge) [all-doubt-destruction](sarvasandehanāśanaṃ) [dialogue](saṃvādam)
 
 ## mukta-m0-p141-v3509
-[he](saḥ) [Vipāśā](vipāśām) [along](anu) [city](purīm) [dwelt-in](adhyāsīt) [Amṛtā](amṛta) [named](abhidhām)
+[he](sa) [vipāśā](vipāśāmanu) [city](purīmadhyāsīdamṛtābhidhām)
 
 ## mukta-m0-p141-v3510
-[Vipāśā](vipāśām) [along](anu) [on-Vipāśā](vipāśā) [river](nadī) [bank](tīre) [situated](sthitāṃ) [city](purīm)
+[vipāśā](vipāśāmanu) [vipāśā-river-bank](vipāśānadītīre) [situated](sthitāṃ) [city](purīm)
 
 ## mukta-m0-p141-v3511
-[Rukmāṅgada](rukmāṅgada) [and-Hemāṅgada](hemāṅgadau) [of-Janaka](janakasya) [very](ati) [beloved](vallabhau)
+[rukmāṅgada-hemāṅgada](rukmāṅgadahemāṅgadau) [janaka's](janakasyātivallabhau)
 
 ## mukta-m0-p141-v3512
-[wise](manīṣiṇau) [pure](nirmala) [intellect](prajñau) [beloved](vallabhau) [dear](priyau)
+[wise](manīṣiṇau) [pure-intellect](nirmalaprajñau) [beloved](vallabhau) [dear](priyau)
 
 ## mukta-m0-p141-v3513
-[Hemāṅgada](hemāṅgadaḥ) [very](ati) [learned](vijñānaḥ) [of-knowers](jñāninām) [supreme](uttamaḥ) [became](abhavat)
+[hemāṅgada](hemāṅgado'tivijñāno) [supreme-knower](jñānināmuttamo'bhavat)
 
 ## mukta-m0-p141-v3514
-[for-hunting](mṛgayā) [purpose](arthaṃ) [in-springs](vasanteṣu) [went](yayatuḥ) [dense](gahanaṃ) [forest](vanam)
+[hunting](mṛgayārthaṃ) [in-springs](vasanteṣu) [went](yayaturgahanaṃ) [dense](vanaṃ)
 
 ## mukta-m0-p141-v3515
-[in-springs](vasanteṣu) [thus](iti) [plural](bahuvacanam) [many](bahu) [day](dina) [indicating](bodhakam) [dense](gahanaṃ) [forest](vanaṃ) [great](mahā) [wilderness](araṇyam)
+[in-springs](vasanteṣviti) [plural](bahuvacanaṃ) [many-days](bahudinabodhakam) [dense](gahanaṃ) [forest](vanaṃ) [great-forest](mahāraṇyam)
 
 ## mukta-m0-p141-v3516
-[having-killed](hatvā) [very](atyanta) [exhausted](pariśrāntau) [having-reached](āsādya) [pond](hradam) [remained](āsthitau)
+[having-killed](hatvā'tyantapariśrāntāvāsādya) [pool](hradamāsthitau)
 
 ## mukta-m0-p141-v3517
-[a-certain](kañcana) [pond](hradam)
+[some](kañcana) [pool](hradam)
 
 ## mukta-m0-p141-v3518
-[all](samasta) [scripture](śāstra) [essence](sāra) [knower](jñaḥ) [with-scholars](vidvadbhiḥ) [debates](vivadati) [greatly](alam)
+[all-script-essence-knower](samastaśāstrasārajño) [with-scholars](vidvadbhirvivadatyalam)
 
 ## mukta-m0-p141-v3519
-[in-banyan-tree](nyagrodhe) [banyan](vaṭa) [tree](vṛkṣe) [situated](sthitaḥ) [thus](iti) [remainder](śeṣaḥ) [greatly](alam) [exceedingly](atyantam)
+[nyagrodha](nyagrodhe) [banyan-tree](vaṭavṛkṣe) [stood](sthita) [thus](iti) [remainder](śeṣaḥ) [enough](alam) [excessive](atyantam)
 
 ## mukta-m0-p141-v3520
-[Rukmāṅgada](rukmāṅgadaḥ) [and](ca) [from-spy](cara) [mouth](mukhāt) [having-heard](niśamya) [debate](vāda) [eager](kautukī)
+[rukmāṅgada](rukmāṅgadaścāramukhād) [hearing](niśamya) [debate-curious](vādakautukī)
 
 ## mukta-m0-p141-v3521
-[defeated](nirjitaḥ) [by-him](tena) [in-debates](vādeṣu) [seized](gṛhītaḥ) [by-brahma-demon](brahmarakṣasā)
+[defeated](nirjitastena) [in-debates](vādeṣu) [seized](gṛhīto) [brahma-rākṣasa](brahmarakṣasā)
 
 ## mukta-m0-p141-v3522
-[there](tatra) [banyan-tree](nyagrodha) [region](pradeśe) [by-him](tena) [by-brahma-demon](brahmarākṣasena)
+[there](tatra) [nyagrodha-region](nyagrodhapradeśe) [by-him](tena) [brahma-rākṣasa](brahmarākṣasena)
 
 ## mukta-m0-p141-v3523
-[O](bho) [brahma-demon](brahmarākṣasa) [this-one](enam) [you](tvam) [not](na) [to-devour](bhakṣayitum) [should](arhasi)
+[o](bho) [brahma-rākṣasa](brahmarākṣasainaṃ) [you](tvaṃ) [not](na) [devour](bhakṣayitumarhasi)
 
 ## mukta-m0-p141-v3524
-[Rukmāṅgada](rukmāṅgadaḥ) [seized](gṛhītaḥ) [to-him](tam) [brahma-demon](brahmarākṣasam) [this](enam) [my-brother](madbhrātaram)
+[rukmāṅgada](rukmāṅgado) [seized](gṛhītaḥ) [him](taṃ) [brahma-rākṣasa](brahmarākṣasam) [this](enaṃ) [my-brother](madbhrātaram)
 
 ## mukta-m0-p141-v3525
-[Hemāṅgada](hemāṅgada) [speech](vacaḥ) [having-heard](śrutvā) [spoke](provāca) [brahma-demon](brahmarākṣasaḥ)
+[hemāṅgada's-word](hemāṅgadavacaḥ) [hearing](śrutvā) [spoke](provāca) [brahma-rākṣasa](brahmarākṣasaḥ)

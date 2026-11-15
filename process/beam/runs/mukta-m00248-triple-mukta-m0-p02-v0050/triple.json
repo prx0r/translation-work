@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "sarva in nominative plural masculine, agreeing with the ādityas",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun referring to the twelve ādityas",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "dvi+bhujā",
+     "gloss": "two-armed",
+     "grounds": "compound of dvi (two) and bhujā (arms)",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive of jñā, nominative plural masculine",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "eka+vaktrā",
+     "gloss": "one-faced",
+     "grounds": "compound of eka (one) and vaktrā (faced)",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "dvi+vaktrakāḥ",
+     "gloss": "two-faced",
+     "grounds": "compound of dvi (two) and vaktrakāḥ (faced)",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "How many arms and faces characterize the twelve Ādityas?",
+   "premises": [
+    "The twelve Ādityas are worshipped outside the pīṭha.",
+    "All of them are two-armed.",
+    "Their faces are either one or two."
+   ],
+   "inference": "The Ādityas have a uniform two-armed form with variable facial count.",
+   "uncertainties": [
+    "Whether one-faced and two-faced describe subsets or alternating forms is not explicit."
+   ],
+   "plain_english": "All of them are to be known as two-armed, one-faced or two-faced."
+  }
+ ]
+}

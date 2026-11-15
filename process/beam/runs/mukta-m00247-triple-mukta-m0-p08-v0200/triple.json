@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "seed; neuter noun in nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "turyaśiro",
+     "gloss": "fourth-head",
+     "grounds": "compound of turya (fourth) and śiras (head); accusative singular",
+     "morph": "compound (turya+śiras)"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive of jñā; accusative singular neuter",
+     "morph": "part.acc.sg.n (jñā)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pallavam",
+     "gloss": "sprout",
+     "grounds": "sprout; accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "one-should-extract",
+     "grounds": "optative third singular active of uddhṛ",
+     "morph": "v.3.sg.act.opt (uddhṛ)"
+    }
+   ],
+   "question": "Which element is designated as the seed that must be known before extracting the sprout?",
+   "premises": [
+    "The seed is the fourth head to be known.",
+    "Then one should extract the sprout."
+   ],
+   "inference": "The seed, identified as the fourth head, must first be known before the sprout is extracted.",
+   "uncertainties": [
+    "The exact ritual referent of fourth head and sprout is not specified in this verse."
+   ],
+   "plain_english": "The seed is to be known as the fourth head; then one should extract the sprout."
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p14",
  "verse": 337,
- "question": "Which ends should be joined?",
+ "question": "Where is the meditation described and who composed that text?",
  "premises": [
-  "east end is joined",
-  "north end is joined",
-  "joining is prescribed"
+  "The meditation is in a text.",
+  "The text is the Jvālāśiromaṇi.",
+  "It was composed by the speaker."
  ],
- "inference": "The east end and north end should be joined.",
+ "inference": "The verse locates the meditation in the speaker's composed Jvālāśiromaṇi.",
  "uncertainties": [
-  "exact joining method unspecified"
+  "The exact meditation content is not given."
  ],
- "plain_english": "Join the east end and north end."
+ "plain_english": "The meditation is in the Jvālāśiromaṇi, composed by me."
 }

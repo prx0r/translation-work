@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p107",
  "verse": 2673,
- "question": "What width is prescribed at the level of the navel line?",
+ "question": "Which sacred and sandal trees should be included in the garden?",
  "premises": [
-  "The measurement is taken at the navel line.",
-  "The dimension specified is width.",
-  "The width should be twenty and a half finger units."
+  "aśvattha and brahma trees are included",
+  "red sandal and veduka trees are included"
  ],
- "inference": "The width at the navel line should be twenty and a half finger units.",
- "uncertainties": [],
- "plain_english": "At the navel line, the width should be twenty and a half finger units."
+ "inference": "The garden planting includes these named sacred and sandal trees.",
+ "uncertainties": [
+  "whether veduka is a distinct species"
+ ],
+ "plain_english": "With aśvattha and brahma trees, and red sandal and veduka trees."
 }

@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p01",
  "verse": 9,
- "question": "What secret fruit-giving crest-jewel sage lord is named?",
+ "question": "What is joined with the fourth vowel and endowed with bindu and nāda?",
  "premises": [
-  "quickly is stated",
-  "fruit giving is stated",
-  "secret sage lord crest-jewel is named"
+  "caturtha+svara+saṃyuktaṃ is with-fourth-vowel-joined",
+  "bindu+nāda+samanvitam is with-bindu-nāda-endowed"
  ],
- "inference": "A secret fruit-giving sage lord crest-jewel is named",
+ "inference": "The described item is joined with the fourth vowel and endowed with bindu and nāda.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "the item itself is not explicitly named"
  ],
- "plain_english": "Quickly fruit-giving secret sage lord crest-jewel."
+ "plain_english": "The described item is joined with the fourth vowel and endowed with bindu and nāda."
 }

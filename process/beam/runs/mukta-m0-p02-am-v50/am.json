@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 50,
- "question": "Does reciting this mantra one thousand times grant success in the stated yogas?",
+ "question": "How many arms and faces characterize the twelve Ādityas?",
  "premises": [
-  "mantra is recited thousand times",
-  "recitation applies to stated yogas",
-  "success follows recitation"
+  "The twelve Ādityas are worshipped outside the pīṭha.",
+  "All of them are two-armed.",
+  "Their faces are either one or two."
  ],
- "inference": "thousand-fold recitation yields success",
+ "inference": "The Ādityas have a uniform two-armed form with variable facial count.",
  "uncertainties": [
-  "mantra token treated as one fused phrase"
+  "Whether one-faced and two-faced describe subsets or alternating forms is not explicit."
  ],
- "plain_english": "Reciting this mantra one thousand times brings success in the stated yogas."
+ "plain_english": "All of them are to be known as two-armed, one-faced or two-faced."
 }

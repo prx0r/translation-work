@@ -1,15 +1,18 @@
 {
  "song": "mukta-m0-p01",
  "verse": 24,
- "question": "What seven Lakṣmī seeds are artificial and others?",
+ "question": "Which fourth item of the sixth includes bhṛṅgin, ruṭi, and a great-souled one?",
  "premises": [
-  "Lakṣmī seeds are named",
-  "seven is stated",
-  "artificial and others are stated"
+  "bhṛṅgīṃ is bhṛṅgin",
+  "ruṭiṃ is ruṭi",
+  "mahātmānaṃ is great-souled",
+  "ṣaṣṭhasya is of sixth",
+  "tu is indeed",
+  "caturthakam is fourth"
  ],
- "inference": "Seven Lakṣmī seeds are artificial and others",
+ "inference": "The fourth of the sixth includes bhṛṅgin, ruṭi, and a great-souled one.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "whether these are separate or appositional figures"
  ],
- "plain_english": "Lakṣmī seeds are seven indeed, artificial and others."
+ "plain_english": "The fourth of the sixth includes bhṛṅgin, ruṭi, and a great-souled one."
 }

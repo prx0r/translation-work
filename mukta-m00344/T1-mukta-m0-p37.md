@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[not-firm](hyadṛḍha) [manliness](pauruṣa) [from](āt) [thus](iti) [said](āha) [firm](dṛḍham) [thus](iti)
+[hya](hya) [dṛḍha](dṛḍha) [pauruṣāt](pauruṣāt) [iti](iti) [āha](āha) [gh](gh) [hyadṛṣṭa](hyadṛṣṭa) [dṛḍham](dṛḍham) [iti](iti)
 
 ## mukta-m0-p37-v902
-[royal-lakṣmī](rājya+lakṣmīm) [kings](nṛpāḥ) [brahmins](viprāḥ) [knowledge](vidyām) [all-pleasure](sarva+sukha) [abode](āśrayām)
+[rājya-lakṣmīm](rājyalakṣmīṃ) [nṛpāḥ](nṛpā) [viprāḥ](viprā) [vidyām](vidyāṃ) [sarva-sukha-āśrayām](sarvasukhāśrayām)
 
 ## mukta-m0-p37-v903
-[fruit](phalam) [how](katham) [thus](iti) [with-reason](sa+pratyayam) [said](āha) [by-manliness](pauruṣeṇa) [thus](iti)
+[phalam](phalaṃ) [katham](katham) [iti](iti) [sa-pratyayam](sapratyayam) [āha](āha) [pauruṣāt](pauruṣāt) [iti](iti)
 
 ## mukta-m0-p37-v904
-[attained](prāpuḥ) [others](anye) [also](api) [desired](abhimatam) [by-manliness](pauruṣeṇa) [alone](eva) [by-action](karmaṇā)
+[prāpuḥ](prāpur) [anye](anye) [api](api) [abhimatam](abhimataṃ) [pauruṣeṇa](pauruṣeṇa) [eva](eva) [karmaṇā](karmaṇā)
 
 ## mukta-m0-p37-v905
-[when](kadā) [something](kiñcit) [how](katham) [attained](prāptam) [fruit](phalam) [say](vada) [having-reflected](vimṛśya) [that](tat)
+[kadā](kadā) [kiñcit](kiñcit) [katham](katham) [prāptam](prāptaṃ) [phalam](phalaṃ) [vada](vada) [vimṛśya](vimṛśya) [tat](tat)
 
 ## mukta-m0-p37-v906
-[something](kiñcit) [also](api) [what](kim) [fruit](phalam) [when](kadā) [in-time](kāle) [means](sādhanam) [without](vinā) [how](katham) [attained](prāptam)
+[kiñcit](kiñcid) [api](api) [kim](kiṃ) [phalam](phalaṃ) [kadā](kadā) [kāle](kāle) [sādhanam](sādhanaṃ) [vinā](vinā) [katham](katham) [prāptam](prāptam)
 
 ## mukta-m0-p37-v907
-[should-know](vijānīyāt) [by-fate-struck](daiva+hataṃ) [him](tam) [self](sva) [enemy](ari) [form](rūpiṇam)
+[vijānīyāt](vijānīyād) [daiva-hatam](daivahataṃ) [tam](taṃ) [sva-ātma-ripu-rūpiṇam](svātmaripurūpiṇam)
 
 ## mukta-m0-p37-v908
-[of-blessings](śreyasām) [which](yat) [chiefest](mukhyatamam) [means](sādhanam) [that](tat) [should-resort](samāśrayet)
+[śreyasām](śreyasāṃ) [yat](yan) [mukhya-tamam](mukhyatamaṃ) [sādhanam](sādhanaṃ) [tat](tat) [samāśrayet](samāśrayet)
 
 ## mukta-m0-p37-v909
-[should-resort](samāśrayet) [thus](iti) [if](cet) [said](āha) [of-blessings](śreyasām) [thus](iti)
+[samāśrayet](samāśrayet) [iti](iti) [ced](ced) [āha](āha) [śreyasām](śreyasām) [iti](iti)
 
 ## mukta-m0-p37-v910
-[among-them](teṣu) [which](yat) [by-all-means](sarvathā) [to-be-accomplished](sādhyam) [should-accomplish](sādhayet) [that](tat) [indeed](hi) [chief](mukhyakam)
+[teṣu](teṣu) [yat](yat) [sarvathā](sarvathā) [sādhyam](sādhyaṃ) [sādhayet](sādhayet) [tat](taddhi) [hi](hi) [mukhyakam](mukhyakam)
 
 ## mukta-m0-p37-v911
-[thus](ca) [meaning](iti+arthaḥ)
+[ca](cetyarthaḥ) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p37-v912
-[is-seen](dṛśyate)
+[dṛśyate](dṛśyate)
 
 ## mukta-m0-p37-v913
-[wealth](dhanam) [sons](putrāḥ) [thus](tathā) [wives](dārāḥ) [kingdom](rājyam) [treasury](kośaḥ) [strength](balam) [fame](yaśaḥ)
+[dhanam](dhanaṃ) [putrāḥ](putrāstathā) [tathā](tathā) [dārāḥ](dārā) [rājyam](rājyaṃ) [kośaḥ](kośo) [balam](balaṃ) [yaśaḥ](yaśaḥ)
 
 ## mukta-m0-p37-v914
-[that](tat) [indeed](eva) [said](āha) [which](yat) [thus](iti) [unbroken](anusaṃbhinnaṃ) [joined](yutam)
+[tat](tadevāha) [eva](eva) [āha](āha) [yat](yaditi) [iti](iti) [anu-saṃbhinnaṃ](anusaṃbhinnaṃ) [yutam](yutam)
 
 ## mukta-m0-p37-v915
-[all](sarvam) [this](etat) [impermanence](asthiratvāt) [time](kāla) [serpent](sarpa) [mouth](mukha) [situated](sthitam)
+[sarvam](sarvametadasthiratvāt) [etat](etat) [asthira-tvāt](asthiratvāt) [kāla-sarpa-mukha-sthitam](kālasarpamukhasthitam)
 
 ## mukta-m0-p37-v916
-[joined](yutam) [not](na) [is](asti) [all](sarvam) [thus](iti)
+[yuta](yuta) [na](nāsti) [asti](asti) [sarvam](sarvamiti) [iti](iti)
 
 ## mukta-m0-p37-v917
-[whence](kutaḥ) [ultimate](ātyantika) [blessing](śreyaḥ) [means](sādhanatvam) [is-fit](samarhati)
+[kutaḥ](kuta) [ātyantika-śreyaḥ-sādhana-tvam](ātyantikaśreyaḥsādhanatvaṃ) [samarhati](samarhati)
 
 ## mukta-m0-p37-v918
-[not](na) [indeed](eva) [ultimate](ātyantika) [blessing](śreyaḥ) [means](sādhanatvam) [thus](iti) [said](āha) [whence](kutaḥ) [thus](iti)
+[na](na) [eva](eva) [ātyantika-śreyaḥ-sādhana-tvam](ātyantikaśreyaḥsādhanatvam) [ityāha](ityāha) [kutaḥ](kuta) [iti](iti)
 
 ## mukta-m0-p37-v919
-[thus](evam) [wealth-etc](dhana+ādi) [in-subject](viṣaye) [when](yadā) [to-be-given](ādeyatva) [delusion](vibhramaḥ)
+[evam](evaṃ) [dhana-ādi-viṣaye](dhanādiviṣaye) [yad](yad) [ādeya-tva-vibhramaḥ](ādeyatvavibhramaḥ)
 
 ## mukta-m0-p37-v920
-[delusion](vibhramaḥ) [thus](iti) [meaning](arthaḥ)
+[vibhramaḥ](vibhrama) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p37-v921
-[who](yaḥ) [indeed](hi) [all-world](sarva+jagat) [maker](kartā) [therefore](tasmāt) [all](sarve) [indeed](hi) [deluded](mohitāḥ)
+[yaḥ](yo) [hi](hi) [sarva-jagat-kartā](sarvajagatkartā) [tasmāt](tasmāt) [sarve](sarve) [hi](hi) [mohitāḥ](mohitāḥ)
 
 ## mukta-m0-p37-v922
-[if](cet) [world-maker](jagat+kartṛtvena) [established](siddhaḥ) [not](na) [to-be-denied](apahnavanīyaḥ) [thus](iti) [said](āha) [who](yaḥ) [indeed](hi) [thus](iti)
+[ced](cejjagatkartṛtvena) [jagat-kartṛtvena](jagatkartṛtvena) [siddhaḥ](siddho) [na](nāpahnavanīya) [apahnavanīyaḥ](apahnavanīya) [ityāha](ityāha) [yaḥ](yo) [hi](hi) [iti](iti)
 
 ## mukta-m0-p37-v923
-[some](kāṃścit) [only](eva) [not](na) [all](sarvān) [he](saḥ) [because](yasmāt) [knowledge](vidyā) [indeed](hi) [that](sā) [limited](mitā)
+[kāṃścit](kāṃścideva) [eva](eva) [na](na) [sarvān](sarvān) [saḥ](sa) [yasmāt](yasmād) [vidyā](vidyā) [hi](hi) [sā](sā) [mitā](mitā)
 
 ## mukta-m0-p37-v924
-[magician](aindrajālikaḥ) [of-him](asya) [knowledge](vidyā) [limited](mitā) [thus](iti) [not](na) [all-deluding](sarva+mohakatvam)
+[aindrajālikaḥ](aindrajālikaḥ) [asya](asya) [vidyā](vidyā) [mitā](mitā) [iti](iti) [na](na) [sarva-mohaka-tvam](sarvamohakatvam)
 
 ## mukta-m0-p37-v925
-[great-god](mahā+devam) [great-māyā](mahā+māyām) [who](kaḥ) [to-overcome](samutkrāntum) [is-fit](arhati)
+[mahādevam](mahādevaṃ) [mahā-māyām](mahāmāyaṃ) [kaḥ](kaḥ) [samutkrāntum](samutkrāntumarhati) [arhati](arhati)

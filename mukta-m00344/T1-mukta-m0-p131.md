@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p131-v3251
-[shining](bhāsamānam) [even](api) [anywhere](kvāpi) [not](na) [should-fear](vibhāyāt) [in-any-way](kathañcana)
+[pada](bhāsamānamapi) [pada](kvāpi) [pada](na) [pada](vibhāyāt) [pada](kathañcana)
 
 ## mukta-m0-p131-v3252
-[knowledge](jñānaṃ) [arises](bhavati) [thus](iti) [meaning](arthaḥ)
+[pada](jñānaṃ) [pada](bhavatītyarthaḥ)
 
 ## mukta-m0-p131-v3253
-[unknown](avijñātaṃ) [not](na) [indeed](eva) [would-be](bhavet) [ever](kadācit) [even-in-the-least](leśataḥ+api) [and](ca)
+[pada](avijñātaṃ) [pada](naiva) [pada](bhavet) [pada](kadācilleśato'pi) [pada](ca)
 
 ## mukta-m0-p131-v3254
-[the-seen](dṛśyam) [unknown](avijñātaṃ) [not](na) [would-be](bhavet) [that](tat) [indeed](eva) [non-dual+knowledge](advaita+vijñānam)
+[pada](dṛśyamavijñātaṃ) [pada](na) [pada](bhavet) [pada](tadevādvaitavijñānam)
 
 ## mukta-m0-p131-v3255
-[that](tat) [indeed](eva) [non-dual+knowledge](advaita+vijñānam) [supreme](paramaṃ) [O-best+of-ascetics](tāpasa+uttamāḥ)
+[pada](tadevādvaitavijñānaṃ) [pada](paramaṃ) [pada](tāpasottamāḥ)
 
 ## mukta-m0-p131-v3256
-[thus](tathā) [activity+possibility](vyavahāra+sambhavāt)
+[pada](tathāvyavahārasambhavāt)
 
 ## mukta-m0-p131-v3257
-[by-wind](vāyunā) [indeed](eva) [cloud+masses](abhra+jālāni) [dissolve](vilīyante) [supreme](paraṃ) [indeed](hi) [that](tat)
+[pada](vāyunevābhrajālāni) [pada](vilīyante) [pada](paraṃ) [pada](hi) [pada](tat)
 
 ## mukta-m0-p131-v3258
-[knowledge](jñānam)
+[pada](jñānam)
 
 ## mukta-m0-p131-v3259
-[they-would-be](syuḥ) [broken+fang+snake](bhagna+daṃṣṭra+ahiḥ) [like](iva) [that](tat) [knowledge](vijñānaṃ) [supreme](paraṃ) [remembered](smṛtam)
+[pada](syurbhagnadaṃṣṭrāhiriva) [pada](tadvijñānaṃ) [pada](paraṃ) [pada](smṛtam)
 
 ## mukta-m0-p131-v3260
-[by-that+desire+etc.+impressions](tat+kāma+ādi+vāsanayā) [done+action+fruit+non-connection](kṛta+karma+phala+asaṃśleṣāt)
+[pada](tatkāmādivāsanayā) [pada](kṛtakarmaphalāsaṃśleṣāt)
 
 ## mukta-m0-p131-v3261
-[absolute+fearlessness+attainment](atyanta+abhaya+saṃprāptiḥ) [liberation](mokṣaḥ) [thus](iti) [is-called](ucyate) [fruit](phalam)
+[pada](atyantābhayasaṃprāptirmokṣa) [pada](ityucyate) [pada](phalam)
 
 ## mukta-m0-p131-v3262
-[whence](kutaḥ) [would-be](syāt) [duality+thought](dvaita+saṅkalpaḥ) [darkness](tamaḥ) [sun+rise](sūrya+udaye) [as](yathā)
+[pada](kutaḥ) [pada](syād) [pada](dvaitasaṅkalpastamaḥ) [pada](sūryodaye) [pada](yathā)
 
 ## mukta-m0-p131-v3263
-[again](punaḥ) [in-its+reflections](tat+pratibimbeṣu) [not](na) [secondness+certainty](dvitīyatva+niścayaḥ) [thus](evaṃ) [in-the-present-case](prakṛte+api) [thus](iti) [meaning](bhāvaḥ)
+[pada](punastatpratibimbeṣu) [pada](na) [pada](dvitīyatvaniścaya) [pada](evaṃ) [pada](prakṛte'pīti) [pada](bhāvaḥ)
 
 ## mukta-m0-p131-v3264
-[therefore](ataḥ) [which](yat) [fruit](phalam) [other](anyat) [would-be](syāt) [that](tat) [fear](bhayaṃ) [in-every-way](sarvathā) [would-be](bhavet)
+[pada](ato) [pada](yatphalamanyat) [pada](syāttadbhayaṃ) [pada](sarvathā) [pada](bhavet)
 
 ## mukta-m0-p131-v3265
-[fear](bhayam) [indeed](eva) [thus](iti) [meaning](arthaḥ)
+[pada](bhayamevetyarthaḥ)
 
 ## mukta-m0-p131-v3266
-[in-the-finite](sānte) [fear](bhayaṃ) [in-every-way](sarvathā) [indeed](eva) [fearlessness](abhayaṃ) [therefore](tasmāt) [whence](kutaḥ) [would-be](bhavet)
+[pada](sānte) [pada](bhayaṃ) [pada](sarvathaivābhayaṃ) [pada](tasmāt) [pada](kuto) [pada](bhavet)
 
 ## mukta-m0-p131-v3267
-[therefore](ataḥ) [in-the-finite](sānte) [in-the-perishable](naśvare) [in-every-way](sarvathā) [indeed](eva) [fear](bhayaṃ) [would-be](bhavet) [from-that](tataḥ) [fearlessness](abhayaṃ) [from-the-finite](sāntāt) [whence](kutaḥ) [would-be](bhavet)
+[pada](ataḥ) [pada](sānte) [pada](naśvare) [pada](sarvathaiva) [pada](bhayaṃ) [pada](bhavet) [pada](tato'bhayaṃ) [pada](sāntāt) [pada](kuto) [pada](bhavet)
 
 ## mukta-m0-p131-v3268
-[fruit+connection](phala+yogaḥ) [also](api) [therefore](tasmāt) [indeed](hi) [would-perish](vinaśyet) [thus](iti) [certainty](niścayaḥ)
+[pada](phalayogo'pi) [pada](tasmāddhi) [pada](vinaśyediti) [pada](niścayaḥ)
 
 ## mukta-m0-p131-v3269
-[connection](sambandhaḥ) [also](api) [would-perish](naśyet) [indeed](eva)
+[pada](sambandho'pi) [pada](naśyedeva)
 
 ## mukta-m0-p131-v3270
-[that](tat) [indeed](eva) [fearlessness+form](abhaya+rūpaṃ) [but](tu) [fruit](phalaṃ) [all](sarve) [declare](pracakṣate)
+[pada](tadevābhayarūpaṃ) [pada](tu) [pada](phalaṃ) [pada](sarve) [pada](pracakṣate)
 
 ## mukta-m0-p131-v3271
-[knower](jñātā) [knowledge](jñānaṃ) [knowable](jñeyam) [also](api) [fruit](phalaṃ) [and](ca) [one](ekaṃ) [when](yadā) [would-be](bhavet)
+[pada](jñātā) [pada](jñānaṃ) [pada](jñeyamapi) [pada](phalaṃ) [pada](caikaṃ) [pada](yadā) [pada](bhavet)
 
 ## mukta-m0-p131-v3272
-[would-be](bhavet) [then](tadā) [thus](iti) [connection](anvayaḥ)
+[pada](bhavet) [pada](tadetyanvayaḥ)
 
 ## mukta-m0-p131-v3273
-[knowledge](jñānaṃ) [doubt+thought+abandonment](vikalpa+saṅkalpa+hānaṃ) [delusion+devoid](mauḍhya+vivarjitam)
+[pada](jñānaṃ) [pada](vikalpasaṅkalpahānaṃ) [pada](mauḍhyavivarjitam)
 
 ## mukta-m0-p131-v3274
-[pure+nature+manifestation](śuddha+svarūpa+sphuraṇaṃ) [knowledge](jñānam) [thus](iti) [meaning](bhāvaḥ)
+[pada](śuddhasvarūpasphuraṇaṃ) [pada](jñānamiti) [pada](bhāvaḥ)
 
 ## mukta-m0-p131-v3275
-[indicator](upalakṣakaḥ) [indeed](eva) [therefore](ataḥ) [teacher](guruḥ) [scripture](śāstraṃ) [and](ca) [not](na) [other](itarat)
+[pada](upalakṣaka) [pada]([k:) [pada](upadeśaka]) [pada](evāto) [pada](guruḥ) [pada](śāstraṃ) [pada](ca) [pada](netarat)

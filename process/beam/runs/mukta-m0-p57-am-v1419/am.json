@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1419,
- "question": "How does Jupiter move through the zodiacal signs?",
+ "question": "How should smeared copper leaf be treated?",
  "premises": [
-  "Jupiter stands and moves",
-  "it moves year by year through signs"
+  "copper leaf is smeared with that substance",
+  "it is heated",
+  "it is heated again and quenched"
  ],
- "inference": "Jupiter advances through zodiacal signs year by year",
+ "inference": "Smeared copper leaf should be heated twice and then quenched.",
  "uncertainties": [
-  "the exact rate is not fully specified"
+  "the quenching medium is not named here"
  ],
- "plain_english": "Jupiter stands and moves through the signs year by year."
+ "plain_english": "Smear copper leaf with that, heat it, heat it again, and quench it."
 }

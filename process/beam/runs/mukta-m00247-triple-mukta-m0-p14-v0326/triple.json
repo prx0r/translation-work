@@ -1,0 +1,977 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "dhyāye",
+     "gloss": "i-meditate",
+     "grounds": "first-person singular present indicative",
+     "morph": "1.sg.act-pres+root dhyai"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first-person pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavatīṃ",
+     "gloss": "the-venerable-goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mātaṅginīṃ",
+     "gloss": "mātaṅginī",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hāriṇīm",
+     "gloss": "the-captivating",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which venerable goddess does the speaker meditate upon always in the heart?",
+   "premises": [
+    "The speaker meditates in the heart.",
+    "The object is the venerable goddess Mātaṅginī.",
+    "The meditation is constant."
+   ],
+   "inference": "The verse identifies the goddess of constant heart-meditation as Mātaṅginī.",
+   "uncertainties": [
+    "The exact iconographic reading of hāriṇīm is not specified."
+   ],
+   "plain_english": "I always meditate in my heart on the venerable goddess Mātaṅginī, the captivating one."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "āgamāmṛtamañjaryāṃ",
+     "gloss": "in-āgama-nectar-cluster",
+     "grounds": "locative singular compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "niḥsmṛtaṃ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "durlabhaṃ",
+     "gloss": "difficult-to-obtain",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "janaiḥ",
+     "gloss": "by-people",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is remembered in the Āgamāmṛtamañjarī and difficult for people to obtain?",
+   "premises": [
+    "The text is the Āgamāmṛtamañjarī.",
+    "The remembered item is difficult to obtain.",
+    "People cannot easily obtain it."
+   ],
+   "inference": "The verse states that the remembered teaching is rare and hard for people to obtain.",
+   "uncertainties": [
+    "The exact remembered item is not named in this excerpt."
+   ],
+   "plain_english": "In the Āgamāmṛtamañjarī, what is remembered is difficult for people to obtain."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "nāgendra+hāra+valaya+aṅkita+kaṇṭha+mālām",
+     "gloss": "serpent-lord-garland-bracelet-marked-neck-necklace",
+     "grounds": "compound adjective in accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of necklace marks the goddess's neck?",
+   "premises": [
+    "The necklace is marked on the neck.",
+    "It includes serpent-lord, garland, and bracelet elements.",
+    "The form is accusative feminine."
+   ],
+   "inference": "The verse describes the goddess's neck as marked by a necklace associated with serpent-lord, garland, and bracelet imagery.",
+   "uncertainties": [
+    "The exact goddess is not named in this excerpt."
+   ],
+   "plain_english": "She wears a necklace marked with serpent-lord, garland, and bracelet imagery around her neck."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "śrīśārikāṃ",
+     "gloss": "śrī-śārikā",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tri-nayanāṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "smarāmi",
+     "gloss": "i-remember",
+     "grounds": "first-person singular present indicative",
+     "morph": "1.sg.act-pres+root smṛ"
+    }
+   ],
+   "question": "Which three-eyed goddess does the speaker remember in the heart?",
+   "premises": [
+    "The speaker remembers in the heart.",
+    "The goddess is Śrī-Śārikā.",
+    "She is three-eyed."
+   ],
+   "inference": "The verse identifies Śrī-Śārikā as the three-eyed goddess remembered in the heart.",
+   "uncertainties": [
+    "No further iconographic details are given."
+   ],
+   "plain_english": "I remember in my heart Śrī-Śārikā, the three-eyed goddess."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "vāmakeśvara+tantra+uktaṃ",
+     "gloss": "in-vāmakeśvara-tantra-spoken",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parvateśvara+nandini",
+     "gloss": "o-daughter-of-mountain-lord",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "To whom is the Vāmakeśvara Tantra spoken?",
+   "premises": [
+    "The text is the Vāmakeśvara Tantra.",
+    "The addressee is the daughter of the mountain lord.",
+    "The verse is vocative."
+   ],
+   "inference": "The verse addresses the daughter of the mountain lord as the recipient of the Vāmakeśvara Tantra teaching.",
+   "uncertainties": [
+    "The exact ritual context is not stated."
+   ],
+   "plain_english": "O daughter of the mountain lord, this is spoken in the Vāmakeśvara Tantra."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "caturbhujām",
+     "gloss": "four-armed",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "eṇa+tvag+āsana+sthām",
+     "gloss": "on-deer-skin-seat-seated",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess seated and how many arms does she have?",
+   "premises": [
+    "The goddess is four-armed.",
+    "She is seated on a deer-skin seat.",
+    "The form is accusative feminine."
+   ],
+   "inference": "The verse describes a four-armed goddess seated on a deer-skin seat.",
+   "uncertainties": [
+    "The goddess's name is not given in this excerpt."
+   ],
+   "plain_english": "She is four-armed and seated on a deer-skin seat."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "rājñīṃ",
+     "gloss": "the-queen",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "i-worship",
+     "grounds": "first-person singular present indicative",
+     "morph": "1.sg.act-pres+root bhaj"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first-person pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tuhinādri+rūpām",
+     "gloss": "snow-mountain-form",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which queenly goddess in snow-mountain form does the speaker worship?",
+   "premises": [
+    "The speaker worships the queen.",
+    "The goddess has snow-mountain form.",
+    "The speaker is first person."
+   ],
+   "inference": "The verse identifies the worshipped queen as having snow-mountain form.",
+   "uncertainties": [
+    "The goddess's proper name is not stated here."
+   ],
+   "plain_english": "I worship the queen who has the form of the snow mountain."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "niḥsmṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āgamoddyote",
+     "gloss": "in-āgamoddyota",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental first person",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "viracite",
+     "gloss": "composed",
+     "grounds": "past participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "by-myself",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the remembered teaching found and who composed it?",
+   "premises": [
+    "The teaching is remembered.",
+    "It is in the Āgamoddyota.",
+    "It was composed by the speaker himself."
+   ],
+   "inference": "The verse locates the remembered teaching in the self-composed Āgamoddyota.",
+   "uncertainties": [
+    "The exact teaching is not specified."
+   ],
+   "plain_english": "In the Āgamoddyota, composed by me myself, it is remembered."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "phulla+padma+upaviṣṭāṃ",
+     "gloss": "on-blooming-lotus-seated",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vīṇā+nāgendra+śaṅkhām",
+     "gloss": "holding-vīṇā-serpent-lord-conch",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "On what does the goddess sit and what does she hold?",
+   "premises": [
+    "The goddess is seated on a blooming lotus.",
+    "She holds vīṇā, serpent-lord, and conch.",
+    "The form is accusative feminine."
+   ],
+   "inference": "The verse describes a goddess seated on a blooming lotus and holding vīṇā, serpent-lord, and conch.",
+   "uncertainties": [
+    "The goddess's name is not given in this excerpt."
+   ],
+   "plain_english": "She is seated on a blooming lotus and holds vīṇā, serpent-lord, and conch."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "muktā+hāra+aṃśu+nānā+maṇi+yuta+hṛdayām",
+     "gloss": "pearl-garland-rays-various-jewel-adorned-heart",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess's heart adorned?",
+   "premises": [
+    "The heart is adorned.",
+    "The adornment includes pearl garland, rays, and various jewels.",
+    "The form is accusative feminine."
+   ],
+   "inference": "The verse describes the goddess's heart as adorned with pearl garland, rays, and various jewels.",
+   "uncertainties": [
+    "The goddess's name is not given in this excerpt."
+   ],
+   "plain_english": "Her heart is adorned with pearl garland, rays, and various jewels."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "prahasita+vadanāṃ",
+     "gloss": "with-smiling-face",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sādhaka+iṣṭa+pradātrīm",
+     "gloss": "to-devotees-desired-giver",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What expression does the goddess have and what does she give devotees?",
+   "premises": [
+    "The goddess has a smiling face.",
+    "She gives desired things to devotees.",
+    "The form is accusative feminine."
+   ],
+   "inference": "The verse describes a smiling goddess who grants devotees' desires.",
+   "uncertainties": [
+    "The goddess's name is not given in this excerpt."
+   ],
+   "plain_english": "She has a smiling face and gives devotees their desired boons."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "nominative/accusative singular neuter",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental first person",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "viracite",
+     "gloss": "in-composed",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jvālāśiromaṇau",
+     "gloss": "in-jvālāśiromaṇi",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the meditation described and who composed that text?",
+   "premises": [
+    "The meditation is in a text.",
+    "The text is the Jvālāśiromaṇi.",
+    "It was composed by the speaker."
+   ],
+   "inference": "The verse locates the meditation in the speaker's composed Jvālāśiromaṇi.",
+   "uncertainties": [
+    "The exact meditation content is not given."
+   ],
+   "plain_english": "The meditation is in the Jvālāśiromaṇi, composed by me."
+  },
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "siṃhāsane+sthāpita+pāda+yugmāṃ",
+     "gloss": "on-throne-placed-pair-of-feet",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jvālāmukhīṃ",
+     "gloss": "jvālāmukhī",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "suhṛdaye",
+     "gloss": "in-good-heart",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "smarāmi",
+     "gloss": "i-remember",
+     "grounds": "first-person singular present indicative",
+     "morph": "1.sg.act-pres+root smṛ"
+    }
+   ],
+   "question": "Which goddess with feet placed on a throne does the speaker remember in a good heart?",
+   "premises": [
+    "The speaker remembers in a good heart.",
+    "The goddess is Jvālāmukhī.",
+    "Her feet are placed on a throne."
+   ],
+   "inference": "The verse identifies Jvālāmukhī as the goddess remembered with feet on a throne.",
+   "uncertainties": [
+    "No further iconographic details are given."
+   ],
+   "plain_english": "I remember in my good heart Jvālāmukhī, whose feet are placed on a throne."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-myself",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental first person",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "viracite",
+     "gloss": "in-composed",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmakeśvare",
+     "gloss": "in-vāmakeśvara",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In which tantra composed by the speaker himself is this stated?",
+   "premises": [
+    "The tantra is composed by the speaker.",
+    "It is the Vāmakeśvara Tantra.",
+    "The statement is emphatic."
+   ],
+   "inference": "The verse locates the statement in the speaker's own Vāmakeśvara Tantra.",
+   "uncertainties": [
+    "The exact statement is not repeated here."
+   ],
+   "plain_english": "Indeed, this is in the Vāmakeśvara Tantra composed by me myself."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first-person pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tṛptā",
+     "gloss": "satisfied",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vadantīṃ",
+     "gloss": "saying",
+     "grounds": "present participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sakala+jana+cayaṃ",
+     "gloss": "all-people-multitude",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhakṣayantīṃ",
+     "gloss": "devouring",
+     "grounds": "present participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sadaiva",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is not satisfied while always devouring all people?",
+   "premises": [
+    "The speaker is not satisfied.",
+    "The figure says something while devouring all people.",
+    "This happens always."
+   ],
+   "inference": "The verse describes a figure who is never satisfied while always devouring all people.",
+   "uncertainties": [
+    "The figure's name is not given in this excerpt."
+   ],
+   "plain_english": "I am not satisfied, she who always devours all people while speaking."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "dhyāye",
+     "gloss": "i-meditate",
+     "grounds": "first-person singular present indicative",
+     "morph": "1.sg.act-pres+root dhyai"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first-person pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhadrakālīṃ",
+     "gloss": "bhadrakālī",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nava+jala+viṣadāṃ",
+     "gloss": "like-fresh-water-cloud",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "preta+madhyāsana+sthām",
+     "gloss": "on-corpse-seated",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess like a fresh water cloud does the speaker meditate upon seated on a corpse?",
+   "premises": [
+    "The speaker meditates.",
+    "The goddess is Bhadrakālī.",
+    "She resembles a fresh water cloud and sits on a corpse."
+   ],
+   "inference": "The verse identifies Bhadrakālī as the meditated goddess with cloud-like freshness seated on a corpse.",
+   "uncertainties": [
+    "No further iconographic details are given."
+   ],
+   "plain_english": "I meditate on Bhadrakālī, like a fresh water cloud, seated on a corpse."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cara+acare",
+     "gloss": "moving-and-unmoving",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "khyāte",
+     "gloss": "renowned",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmaṇā+eva",
+     "gloss": "by-brahmā-alone",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prakāśite",
+     "gloss": "revealed",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Who revealed this renowned teaching among moving and unmoving things?",
+   "premises": [
+    "The teaching is in this renowned text.",
+    "It concerns moving and unmoving things.",
+    "It was revealed by Brahmā alone."
+   ],
+   "inference": "The verse attributes revelation of this teaching to Brahmā alone.",
+   "uncertainties": [
+    "The exact teaching is not specified."
+   ],
+   "plain_english": "In this renowned teaching among moving and unmoving things, revealed by Brahmā alone."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "pāśa+ambhoja+dharāṃ",
+     "gloss": "noose-lotus-holding",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "himāṃśu+dhavalāṃ",
+     "gloss": "snow-rayed-white",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dorbhyāṃ",
+     "gloss": "with-two-arms",
+     "grounds": "instrumental dual",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "dvibāhuṃ",
+     "gloss": "two-armed",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śivām",
+     "gloss": "auspicious",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the auspicious two-armed goddess described?",
+   "premises": [
+    "The goddess is auspicious.",
+    "She is two-armed.",
+    "She holds noose and lotus and is white like snow rays."
+   ],
+   "inference": "The verse describes an auspicious two-armed goddess holding noose and lotus with snow-ray whiteness.",
+   "uncertainties": [
+    "The goddess's name is not given in this excerpt."
+   ],
+   "plain_english": "She is auspicious, two-armed, holding noose and lotus, white like snow rays."
+  },
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "brahmā+viṣṇu+maheśvaraiḥ",
+     "gloss": "by-brahmā-viṣṇu-maheśvara",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namitāṃ",
+     "gloss": "bowed-to",
+     "grounds": "past participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "i-worship",
+     "grounds": "first-person singular present indicative",
+     "morph": "1.sg.act-pres+root bhaj"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first-person pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "turīm",
+     "gloss": "the-fourth",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess bowed to by Brahmā, Viṣṇu, and Maheśvara does the speaker worship as the fourth?",
+   "premises": [
+    "The speaker worships the goddess.",
+    "She is bowed to by Brahmā, Viṣṇu, and Maheśvara.",
+    "She is called the fourth."
+   ],
+   "inference": "The verse identifies the worshipped goddess as the fourth, honored by the three gods.",
+   "uncertainties": [
+    "The goddess's proper name is not stated here."
+   ],
+   "plain_english": "I worship the goddess, bowed to by Brahmā, Viṣṇu, and Maheśvara, as the fourth."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "svakṛte",
+     "gloss": "in-self-composed",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tripurāyāḥ",
+     "gloss": "of-tripurā",
+     "grounds": "genitive singular feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śiromaṇau",
+     "gloss": "in-śiromaṇi",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In which self-composed text of Tripurā is the goddess addressed?",
+   "premises": [
+    "The text is self-composed.",
+    "It concerns Tripurā.",
+    "The goddess is addressed in the Śiromaṇi."
+   ],
+   "inference": "The verse locates the address to the goddess in the self-composed Tripurā text called Śiromaṇi.",
+   "uncertainties": [
+    "The exact address content is not given."
+   ],
+   "plain_english": "O goddess, in the self-composed text of Tripurā, in the Śiromaṇi."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "jvālā+baddha+mahārgha+ratna+nicayāṃ",
+     "gloss": "with-flame-bound-greatly-precious-jewel-heap",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kandarpa+darpa+ujjvalām",
+     "gloss": "with-kandarpa-pride-blazing",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess adorned and blazing?",
+   "premises": [
+    "The goddess is adorned with a heap of precious jewels bound by flame.",
+    "She blazes with Kandarpa's pride.",
+    "The form is accusative feminine."
+   ],
+   "inference": "The verse describes a goddess adorned with flame-bound precious jewels and blazing with Kandarpa's pride.",
+   "uncertainties": [
+    "The goddess's name is not given in this excerpt."
+   ],
+   "plain_english": "She is adorned with a heap of greatly precious jewels bound by flame and blazes with Kandarpa's pride."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "bhakta+iṣṭāṃ",
+     "gloss": "to-devotees-dear",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "chinnamastakāṃ",
+     "gloss": "severed-headed",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhagavatīṃ",
+     "gloss": "the-venerable-goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyāye",
+     "gloss": "i-meditate",
+     "grounds": "first-person singular present indicative",
+     "morph": "1.sg.act-pres+root dhyai"
+    },
+    {
+     "surface": "hṛd+abje",
+     "gloss": "in-heart-lotus",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which severed-headed goddess dear to devotees does the speaker always meditate upon in the heart-lotus?",
+   "premises": [
+    "The speaker meditates always.",
+    "The goddess is dear to devotees.",
+    "She is severed-headed and venerable."
+   ],
+   "inference": "The verse identifies a severed-headed venerable goddess dear to devotees as the object of constant heart-lotus meditation.",
+   "uncertainties": [
+    "The goddess's proper name is not stated here."
+   ],
+   "plain_english": "I always meditate in the heart-lotus on the venerable severed-headed goddess dear to devotees."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kālīrahasye",
+     "gloss": "in-this-kālīrahasya",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parvateśvara+nandini",
+     "gloss": "o-daughter-of-mountain-lord",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In which text is the daughter of the mountain lord addressed?",
+   "premises": [
+    "The text is the Kālīrahasya.",
+    "The address is to the daughter of the mountain lord.",
+    "The verse is locative and vocative."
+   ],
+   "inference": "The verse addresses the daughter of the mountain lord within the Kālīrahasya text.",
+   "uncertainties": [
+    "The exact address content is not given."
+   ],
+   "plain_english": "O daughter of the mountain lord, in this text, the Kālīrahasya."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "varṣā+megha+nibhāṃ",
+     "gloss": "rain-cloud-resembling",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "triśūla+musalau+padma+asi+pāśa+aṅkuśān",
+     "gloss": "trident-mace-lotus-sword-noose-goad",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What weapons and attributes does the rain-cloud-like goddess hold?",
+   "premises": [
+    "The goddess resembles a rain cloud.",
+    "She holds trident, mace, lotus, sword, noose, and goad.",
+    "The form is accusative feminine."
+   ],
+   "inference": "The verse describes a rain-cloud-like goddess holding trident, mace, lotus, sword, noose, and goad.",
+   "uncertainties": [
+    "The goddess's name is not given in this excerpt."
+   ],
+   "plain_english": "She resembles a rain cloud and holds trident, mace, lotus, sword, noose, and goad."
+  }
+ ]
+}

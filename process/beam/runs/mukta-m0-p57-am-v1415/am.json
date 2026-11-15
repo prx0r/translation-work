@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1415,
- "question": "What color is assigned to this deity in the iconographic description?",
+ "question": "Under what condition does purification occur?",
  "premises": [
-  "the verse names a color",
-  "the color is golden"
+  "the material should be washed",
+  "it should be taken to that extent",
+  "purification is attained not otherwise"
  ],
- "inference": "the deity's color is golden",
+ "inference": "Purification is attained only by washing and taking the material to the prescribed extent.",
  "uncertainties": [
-  "subject identity is not explicit"
+  "the exact extent is carried from previous context"
  ],
- "plain_english": "The color is golden."
+ "plain_english": "Wash it and take it to that extent; purification comes only in this way."
 }

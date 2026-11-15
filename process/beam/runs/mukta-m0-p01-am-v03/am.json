@@ -1,15 +1,18 @@
 {
  "song": "mukta-m0-p01",
  "verse": 3,
- "question": "By whom is this moving and unmoving manifest cruel realm revealed?",
+ "question": "Which ordinal of the eighth is joined with the sixth?",
  "premises": [
-  "this realm is moving and unmoving",
-  "it is manifest and cruel",
-  "revelation is asked"
+  "aṣṭamasya is of eighth",
+  "tṛtīyaṃ is third",
+  "tu is indeed",
+  "ṣaṣṭhena is with sixth",
+  "tu is indeed",
+  "samanvitam is joined"
  ],
- "inference": "The verse asks by whom this manifest cruel realm is revealed",
+ "inference": "The third of the eighth is joined with the sixth.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "exact referent of ordinals not stated"
  ],
- "plain_english": "In this moving and unmoving manifest cruel realm, by whom is it revealed?"
+ "plain_english": "The third of the eighth is joined with the sixth."
 }

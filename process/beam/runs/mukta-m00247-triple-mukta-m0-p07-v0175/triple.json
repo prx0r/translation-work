@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverb placing the utterance in the middle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumārāya",
+     "gloss": "to-kumāra",
+     "grounds": "dative singular of kumāra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "namas",
+     "grounds": "salutation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīram",
+     "gloss": "water",
+     "grounds": "accusative singular object of udāhṛtam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "uttered",
+     "grounds": "passive participle from ud-ā-hṛ",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What substance is uttered in the middle to Kumāra with namas?",
+   "premises": [
+    "madhye places the utterance in the middle",
+    "kumārāya receives the salutation",
+    "nīram is the substance uttered"
+   ],
+   "inference": "The verse identifies water as the substance uttered to Kumāra in the middle with namas.",
+   "uncertainties": [
+    "The exact ritual referent of nīram is not specified beyond water."
+   ],
+   "plain_english": "In the middle, namas to Kumāra; indeed water is uttered."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p152-v3776
-[intrinsically](svataḥ) [all](sarva) [non-difference](abheda) [consisting-of](mayaḥ) [in-brahmā-etc.](brahmā+ādi) [in-grass-clumps-etc.](stambara+āśiṣu)
+[from-self](svataḥ) [all-non-difference-filled](sarvābhedamayaḥ) [brahma-etc](brahmādi) [pillar-heaps-in](stambarāśiṣu)
 
 ## mukta-m0-p152-v3777
-[in-the-illustrated-meaning](dārṣṭāntike) [applies](yojayati) - [thus](evam) [iti](iti) | [by-being-the-inner-controller-of-all](sarva+antaryāmitvena) [consisting-of-non-difference-with-all](sarva+abheda+mayaḥ)
+[example](dārṣṭāntike) [connects](yojayati) [thus](evamiti) [all-inner-controller-ness](sarvāntaryāmitvena) [all-non-difference-filled](sarvābhedamayaḥ)
 
 ## mukta-m0-p152-v3778
-[just-as](yathā) [your](te) [non-conceptual](nirvikalpaṃ) [indeed](tu) [form](rūpaṃ) [support-of-all](sarva+āśrayaṃ) [indeed](hi) [being](sat)
+[as](yathā) [your](te) [without-conceptualization](nirvikalpaṃ) [indeed](tu) [form](rūpaṃ) [all-support](sarvāśrayaṃ) [indeed](hi) [being](sat)
 
 ## mukta-m0-p152-v3779
-[pure-consciousness](śuddha+cit) [form](rūpaṃ) [like-a-reflection](pratibimba+sthānīyaṃ) [body-senses-etc.](deha+indriya+ādi) [support-of-all](akhila+āśrayaṃ) [being-though](sat+api)
+[pure-consciousness-form](śuddhacidrūpaṃ) [reflection-place](pratibimbasthānīyaṃ) [body-senses-etc-all-support](dehendriyādyakhilāśrayaṃ) [being-even](sadapi)
 
 ## mukta-m0-p152-v3780
-[thus](evam) [indeed](eva) [supreme](parā) [consciousness](saṃvit) [support-of-all-worlds](sarva+loka+samāśrayā)
+[thus-only](evameva) [supreme](parā) [consciousness](saṃvit) [all-world-common-support](sarvalokasamāśrayā)
 
 ## mukta-m0-p152-v3781
-[in-the-illustrated-meaning](dārṣṭāntike) [connects](saṅgamayati) - [thus](evam) [iti](iti)
+[example](dārṣṭāntike) [unites](saṅgamayati) [thus](evamiti)
 
 ## mukta-m0-p152-v3782
-[this-much](etāvat) [world](jāgataṃ) [all](sarvaṃ) [in-that-alone](tasyām+eva) [shines-forth](avabhāsate)
+[this-much](etāvaj) [worldly](jāgataṃ) [all](sarvaṃ) [in-her](tasyām) [only](eva) [shines](avabhāsate)
 
 ## mukta-m0-p152-v3783
-[this-much](etāvat) [iti](iti)
+[this-much](etāvad) [thus](iti)
 
 ## mukta-m0-p152-v3784
-[of-the-world](jagataḥ) [shining](bhāsanaṃ) [all](sarvaṃ) [of-that-alone](tasyāḥ+eva) [shining-forth](avabhāsanam)
+[of-world](jagato) [shining](bhāsanaṃ) [all](sarvaṃ) [of-her](tasyāḥ) [only](eva) [manifestation](avabhāsanam)
 
 ## mukta-m0-p152-v3785
-[here](atra) [indeed](tu) [I](aham) [others](anye) [and](ca) [seers](draṣṭāraḥ) [consisting-of-seeing](dṛṅ+mayāḥ) [indeed](khalu)
+[here](atra) [you](tvam) [I](aham) [others](anye) [and](ca) [seers](draṣṭāraḥ) [seer-made](dṛṅmayāḥ) [indeed](khalu)
 
 ## mukta-m0-p152-v3786
-[like-the-seen](dṛśya+vat) [of-the-seers-also](draṣṭṛṇām+api) [that-ness](tat+mātratām) [states](āha) - [here](atra) [iti](iti) | [in-the-world](jagati) [meaning](iti+arthaḥ)
+[like-object](dṛśyavat) [of-seers](draṣṭṛṇām) [even](api) [that-ness](tanmātratām) [says](āha) [here](atra) [thus](iti) [in-world](jagati) [meaning](ityarthaḥ)
 
 ## mukta-m0-p152-v3787
-[pot-etc.](ghaṭa+ādi) [mirror](darpaṇaḥ) [just-as](yadvat) [of-pot-etc.](ghaṭa+ādīnām) [in-non-contact](asaṅgame)
+[pot-etc](ghaṭādi) [mirror](darpaṇaḥ) [just-as](yadvat) [of-pots-etc](ghaṭādīnām) [non-contact](asaṅgame)
 
 ## mukta-m0-p152-v3788
-[pot-etc.](ghaṭa+ādi) [reflection](pratibimba) [delimited](paricchinna) [mirror](darpaṇa) [part](aṃśaḥ)
+[pot-etc](ghaṭādi) [reflection](pratibimba) [limited](paricchinna) [mirror](darpaṇa) [part](aṃśaḥ)
 
 ## mukta-m0-p152-v3789
-[thus](evaṃ) [arisen-from-conceptualization](vikalpa+sambhūta) [seen](dṛśya) [appearance](ābhāsa) [in-the-wiping-away](pramārjane)
+[thus](evaṃ) [conceptualization](vikalpa) [born](sambhūta) [object](dṛśya) [appearance](ābhāsa) [erasure](pramārjane)
 
 ## mukta-m0-p152-v3790
-[great-bliss](mahā+ānanda) [dense](ghanā) [and](ca) [this](eṣā) [from-removal-of-trace-of-sorrow](duḥkha+leśa+vivarjanāt)
+[great-bliss](mahānanda) [dense](ghanā) [and](ca) [this](eṣā) [suffering](duḥkha) [trace](leśa) [from-abandonment](vivarjanāt)
 
 ## mukta-m0-p152-v3791
-[from-absence-of-that](tat+abhāvāt) [undivided-bliss](akhaṇḍa+ānanda) [nature](rūpatā)
+[from-that](tad) [from-absence](abhāvāt) [undivided](akhaṇḍa) [bliss](ānanda) [nature](rūpatā)
 
 ## mukta-m0-p152-v3792
-[happiness](sukham) [own-nature-of-self](ātma+svarūpaṃ) [would-be](syāt) [by-all](sarvaiḥ) [because](yasmāt) [desired](abhīpsitam)
+[happiness](sukham) [self](ātma) [own-form](svarūpaṃ) [is](syāt) [by-all](sarvaiḥ) [because](yasmāt) [desired](abhīpsitam)
 
 ## mukta-m0-p152-v3793
-[just-as](yathā) [sorrow](duḥkham) [iti](iti) [usage](prayogaḥ)
+[as](yathā) [suffering](duḥkham) [thus](iti) [usage](prayogaḥ)
 
 ## mukta-m0-p152-v3794
-[of-which-alone](yasya+eva) [particle](leśaḥ) [object-joy](viṣaya+ānandaḥ) [iti](iti) [is-called](abhidhīyate)
+[whose](yasya) [only](eva) [trace](leśaḥ) [object](viṣaya) [bliss](ānandaḥ) [thus](iti) [is-called](abhidhīyate)
 
 ## mukta-m0-p152-v3795
-[caused-by-limitation](pariccheda+nimittam) [conditioned](aupādhikaṃ) [object-ness](bhogyatvam) [iti](iti) [meaning](bhāvaḥ)
+[limitation](pariccheda) [cause](nimittam) [conditional](aupādhikaṃ) [enjoyability](bhogyatvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p152-v3796
-[consciousness-alone](cit+eva) [because-of-being-desirable](spṛhaṇīyatvāt) [bliss](ānandaḥ) [iti](iti) [is-called](procyate)
+[consciousness](cit) [only](eva) [from-desirability](spṛhaṇīyatvāt) [bliss](ānandaḥ) [thus](iti) [is-said](procyate)
 
 ## mukta-m0-p152-v3797
-[because-of-being-desired-by-all](sarva+spṛhaṇīyatvāt) [consciousness-self-alone](cit+ātmā+eva) [bliss](ānandaḥ) [iti](iti) [is-called](procyate) [thus](iti) [says](āha) - [consciousness-alone](cit+eva) [iti](iti)
+[all](sarva) [from-desirability](spṛhaṇīyatvāt) [consciousness](cit) [self](ātmā) [only](eva) [bliss](ānandaḥ) [thus](iti) [is-said](procyate) [says-thus](ityāha) [consciousness](cit) [only](eva) [thus](iti)
 
 ## mukta-m0-p152-v3798
-[as-different](vibhinnam) [they-recognize](abhijānanti) [of-manifesting-factors](vyañjakānāṃ) [from-difference](vibhedataḥ)
+[distinct](vibhinnam) [know](abhijānanti) [of-manifestors](vyañjakānām) [from-difference](vibhedataḥ)
 
 ## mukta-m0-p152-v3799
-[they-know](jānanti) [iti](iti) [meaning](bhāvaḥ)
+[know](jānanti) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p152-v3800
-[as-long-as](yāvat) [mirror-cognition](darpṇa+vijñānaṃ) [different](bhinnāḥ) [indeed](eva) [they-appear](vibhānti) [indeed](vai)
+[as-long-as](yāvat) [mirror](darpaṇa) [knowledge](vijñānaṃ) [distinct](bhinnāḥ) [only](eva) [shine](vibhānti) [indeed](vai)

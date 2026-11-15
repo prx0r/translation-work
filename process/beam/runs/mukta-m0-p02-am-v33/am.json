@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p02",
  "verse": 33,
- "question": "Who must depart from the tree by Shiva's command?",
+ "question": "What weapons does this four-armed three-eyed form hold?",
  "premises": [
-  "All of them must depart from this tree.",
-  "The departure is by Shiva's command.",
-  "The claim concerns clearing the tree."
+  "four-armed is stated",
+  "three-eyed is stated",
+  "trident is named",
+  "axe-holding is stated"
  ],
- "inference": "All beings must depart from the tree by Shiva's command.",
+ "inference": "the form holds trident and axe",
  "uncertainties": [
-  "te reference is uncertain."
+  "deity name not stated here"
  ],
- "plain_english": "Let all of them depart from this tree by Shiva's command."
+ "plain_english": "It is four-armed, three-eyed, and holds trident and axe."
 }

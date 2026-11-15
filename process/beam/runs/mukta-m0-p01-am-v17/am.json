@@ -1,16 +1,17 @@
 {
  "song": "mukta-m0-p01",
  "verse": 17,
- "question": "What secret thing is hard to obtain even for gods of all worlds?",
+ "question": "What first three-group is taken with bindu and nāda?",
  "premises": [
-  "secret is named",
-  "all worlds are named",
-  "gods even are named",
-  "hard to obtain is stated"
+  "trivargaṃ is three-group",
+  "prathamaṃ is first",
+  "gṛhya is having-taken",
+  "bindu+nāda is with-bindu-nāda",
+  "samanvitam is endowed"
  ],
- "inference": "A secret thing is hard to obtain even for gods of all worlds",
+ "inference": "The first three-group is taken with bindu and nāda.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "whether samanvitam agrees with trivargaṃ"
  ],
- "plain_english": "A secret hard to obtain even for gods of all worlds."
+ "plain_english": "The first three-group is taken with bindu and nāda."
 }

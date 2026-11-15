@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2494,
- "question": "Into how many parts is the measure divided for the mark extraction portion?",
+ "question": "What effects does this rite have on peace and calamities?",
  "premises": [
-  "The portion for mark extraction is specified.",
-  "A division into parts is required."
+  "it makes all peace",
+  "it destroys all calamities",
+  "effects are universal"
  ],
- "inference": "The portion for mark extraction is taken when divided into ten parts.",
- "uncertainties": [],
- "plain_english": "The portion for mark extraction is taken when divided into ten parts."
+ "inference": "The rite makes all peace and destroys all calamities.",
+ "uncertainties": [
+  "scope of rite unclear"
+ ],
+ "plain_english": "It makes all peace and destroys all calamities."
 }

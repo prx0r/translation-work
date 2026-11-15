@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[if](cet) [+non-finality](anavasthā) [that](tat) [+state](avasthā) [+indeed](eva) [+thus](iti) [is-the-meaning](bhāvaḥ)
+[if](cedana) [state](avasthā) [that](tad) [state](avastha) [only](eva) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p34-v827
-[of-the-faithless](aśraddhasya) [means-of-knowledge](pramāṇam) [what](kim) [may-be](bhavet) [+that](tat) [well](su) [+should-be-ascertained](nirūpyatām)
+[of-unfaithful](aśraddhasya) [proof](pramāṇaṃ) [what](kiṃ) [may-be](bhavet) [that](tat) [well-examined](sunirūpyatām)
 
 ## mukta-m0-p34-v828
-[from-seeing](vyabhicāra) [+deviation](darśanāt) [+not](na) [by-mere](kevala) [+reasoning](tarkeṇa) [anything](kiñcit) [+to-know](jñātum) [is-possible](śakyate) [thus](iti)
+[from-seeing-deviation](vyabhicāradarśanāt) [not](na) [by-mere-reasoning](kevalatarkeṇa) [anything-to-know](kiñcijjñātuṃ) [possible](śakyata) [thus](iti)
 
 ## mukta-m0-p34-v829
-[therefore](tasmāt) [+faith](śraddhām) [having-resorted-to](samāśritya) [world](lokaḥ) [all](sarvaḥ) [engages](pravartate)
+[therefore](tasmāt) [faith](śraddhāṃ) [resorting](samāśritya) [world](lokaḥ) [all](sarvaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p34-v830
-[activity](pravṛttiḥ) [+is-possible](upapadyate) [thus](iti) [is-the-meaning](bhāvaḥ)
+[proceeding](pravṛttiḥ) [is-established](upapadyate) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p34-v831
-[unsettled](anavasthita) [+reasoner](tarkaḥ) [or](vā) [indeed](hi) [+non-reasoner](atarkaḥ) [or](vā) [+also](api) [in-every-way](sarvathā)
+[unstable-reasoning](anavasthitatarkaḥ) [or](vā) [indeed](hi) [non-reasoning](atarkaḥ) [or](vā) [also](api) [in-every-way](sarvathā)
 
 ## mukta-m0-p34-v832
-[non](a) [+reasoner](tarkaḥ) [is-dull](mūḍhaḥ)
+[non-reasoning](atarkaḥ) [foolish](mūḍhaḥ)
 
 ## mukta-m0-p34-v833
-[there](tatra) [+of-the-non-reasoner](atarkasya) [in-time](kālena) [may-be](bhavet) [+good](śreyaḥ) [sometimes](kadācana)
+[there](tatra) [of-non-reasoning](atarkasya) [in-time](kālena) [may-be](bhavet) [good](śreyaḥ) [sometime](kadācana)
 
 ## mukta-m0-p34-v834
-[good](śreyaḥ) [sometimes](kadācit) [is-possible](sambhāvyate) [thus](iti) [+says](āha) [there](tatra) [+thus](iti) [of-these-two](tayoḥ) [+in-the-middle](madhye) [thus](iti) [+is-the-meaning](arthaḥ)
+[good](śreyaḥ) [sometime](kadācit) [possible](sambhāvyate) [thus](iti) [says](āha) [there](tatra) [iti](iti) [of-those-two](tayoḥ) [middle](madhye) [meaning](arthah)
 
 ## mukta-m0-p34-v835
-[formerly](purā) [on-Sahya](sahya) [+mountain](girau) [on-Godavari](godāvarī) [+bank](tīre) [indeed](hi) [Kauśika](kauśikaḥ)
+[formerly](purā) [on-sahya-mountain](sahyagirau) [godavari-bank](godāvarītīre) [indeed](hi) [kaushika](kauśikaḥ)
 
 ## mukta-m0-p34-v836
-[of-the-unsettled](anavasthita) [+reasoner](tarkasya) [good](śreyaḥ) [not](na) [in-any-way](kathañcit) [+thus](iti) [+therefore](ataḥ) [+here](atra) [+story](itihāsam) [+says](āha) [formerly](purā) [+thus](iti)
+[of-unstable-reasoning](anavasthitatarkasya) [good](śreyaḥ) [not](na) [in-any-way](kathañcit) [thus](iti) [legend](itihāsam) [says](āha) [formerly](purā) [iti](iti)
 
 ## mukta-m0-p34-v837
-[his](tasya) [disciples](śiṣyāḥ) [+but](tu) [by-hundreds](śataśaḥ) [or-many](bahuśaḥ) [remained](sthitāḥ) [by-resorting-to](guru) [+the-teacher](samāśrayāt)
+[his](tasya) [disciples](śiṣyāḥ) [tu](tu) [hundreds](śataśaḥ) [stood](sthitāḥ) [by-guru-refuge](gurusamāśrayāt)
 
 ## mukta-m0-p34-v838
-[thus](iti) [+according-to-scriptural](āgama) [+method](rītyā) [substratum](adhiṣṭhāna) [+mere-illumination](prakāśa) [+only](mātram) [true](sat) [+reality](tattvam) [own-nature](svarūpam) [known](jñātam) [by-whom](yena)
+[thus](iti) [scriptural-tradition](āgamarītyā) [seat-manifestation-only](adhiṣṭhānaprakāśamātraṃ) [true-reality](satattvaṃ) [own-form](svarūpaṃ) [known](jñātaṃ) [by-whom](yena)
 
 ## mukta-m0-p34-v839
-[to-determine](nirṇetum) [according-to-intellect](buddhi) [+conforming](anuguṇam) [then](tadā) [spoke](procuḥ) [to-one-another](parasparam)
+[to-determine](nirṇetuṃ) [according-to-intellect](buddhyanuguṇaṃ) [then](tadā) [said](procuḥ) [to-each-other](parasparam)
 
 ## mukta-m0-p34-v840
-[to-one-another](parasparam) [spoke](procuḥ)
+[to-each-other](parasparaṃ) [said](procuḥ)
 
 ## mukta-m0-p34-v841
-[he](saḥ) [of-all](sarveṣām) [view](matam) [stated](proktam) [refuting](dūṣayat) [by-intellectual](buddhi) [+skill](kauśalāt)
+[he](sa) [of-all](sarveṣāṃ) [opinion](mataṃ) [spoken](proktaṃ) [refuting](dūṣayat) [by-intellect-skill](buddhikauśalāt)
 
 ## mukta-m0-p34-v842
-[merely](kevalam) [by-intellectual](buddhi) [+skill](kauśalāt) [by-dry](śuṣka) [+reasonings](tarkaiḥ) [+thus](iti) [is-the-meaning](bhāvaḥ)
+[only](kevalaṃ) [by-intellect-skill](buddhikauśalāt) [by-dry-reasonings](śuṣkatarkaiḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p34-v843
-[by-means-of-knowledge](pramāṇāt) [cognized](pramitam) [true](satyam) [+thus](iti) [+when-stated](ukteṣu) [by-the-twice-born](dvijeṣu) [+then](atha)
+[proof](pramāṇāt) [known](pramitaṃ) [truth](satyam) [thus](iti) [spoken](ukteṣu) [brahmins](dvijeṣu) [then](atha)
 
 ## mukta-m0-p34-v844
-[by-them](teṣu) [+when-stated](ukteṣu) [then](atha) [+said](āha) [+thus](iti) [+is-the-connection](anvayaḥ)
+[those](teṣu) [spoken](ukteṣu) [then](atha) [said](āha) [thus](iti) [connection](anvayaḥ)
 
 ## mukta-m0-p34-v845
-[named-Śuṅga](śuṅgākhyaḥ) [objecting](ākṣipan) [all](sarvān) [there](tatra) [in-debate](vāda) [+discussion](kathā) [+midst](antare)
+[shunga-named](śuṅgākhyaḥ) [objecting](ākṣipan) [all](sarvān) [there](tatra) [in-other-dispute-discussion](vādakathāntare)
 
 ## mukta-m0-p34-v846
-[of-wrangling](jalpa) [+and-cavil](vitaṇḍā) [+distinguished](bhinna) [+discussion](kathā) [+in-the-midst](madhye)
+[in-jalpa-vitanda-distinct-discussion](jalpavitaṇḍābhinnakathāmadhye)
 
 ## mukta-m0-p34-v847
-[cognized](pramitam) [what](yat) [by-means-of-knowledge](pramāṇena) [that](tat) [true](satyam) [+thus](iti) [indeed](hi) [+was-said](īritam)
+[known](pramitaṃ) [what](yat) [by-proof](pramāṇena) [that](tat) [truth](satyam) [thus](iti) [said](īritam)
 
 ## mukta-m0-p34-v848
-[by-you](bhavadbhiḥ) [+was-said](īritam)
+[by-you](bhavadbhiḥ) [said](īritam)
 
 ## mukta-m0-p34-v849
-[to-be-ascertained](niścetavyā) [therefore](tataḥ) [+indeed](tu) [+first](ādau) [of-means-of-knowledge](pramāṇānām) [+non-defectiveness](aduṣṭatā)
+[to-be-determined](niścetavyā) [then](tatas) [first](ādau) [of-proofs](pramāṇānām) [faultlessness](aduṣṭatā)
 
 ## mukta-m0-p34-v850
-[on-means-of-knowledge](pramāṇa) [+non-defectiveness](aduṣṭatva) [+ascertainment](niścaya) [+dependent](adhīnaḥ) [indeed](eva) [of-object](bhāva) [+truth](satyatva) [+ascertainment](niścayaḥ) [thus](iti) [is-the-meaning](bhāvaḥ)
+[of-proof-faultlessness-determination-dependent](pramāṇāduṣṭatvaniścayādhīnaḥ) [indeed](eva) [meaning-truth-determination](bhāvasatyatvaniścayaḥ) [thus](iti) [meaning](bhāvaḥ)

@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2509,
- "question": "Which Vishnu-like twenty-four-form comparison is indicated?",
+ "question": "Which metals should be included in the deposit?",
  "premises": [
-  "The verse gives a number.",
-  "It mentions twenty-four forms.",
-  "It compares to Vishnu."
+  "gold is included",
+  "silver is included",
+  "copper is included",
+  "iron is included",
+  "tin and lead are included"
  ],
- "inference": "The verse indicates a Vishnu-like comparison.",
+ "inference": "The deposit includes gold, silver, copper, iron, tin, and lead.",
  "uncertainties": [
-  "Editorial note included in token."
+  "exact metallurgical identification"
  ],
- "plain_english": "It is like Vishnu in twenty-four forms."
+ "plain_english": "Gold, silver, copper, iron, and tin and lead."
 }

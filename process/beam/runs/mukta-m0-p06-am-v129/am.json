@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p06",
  "verse": 129,
- "question": "When is the rite for victory in all disputes to be extracted?",
+ "question": "Which additional sages are named alongside Paiṅga and Dīrghamat?",
  "premises": [
-  "The verse promises victory in all disputes.",
-  "It names the Puṣya mansion.",
-  "It says the rite is extracted then."
+  "paiṅga dīrghamato vyāsa śaunako lists sages",
+  "mām ato yadi adds conditional reference"
  ],
- "inference": "The rite for victory in all disputes is extracted under Puṣya.",
- "uncertainties": [],
- "plain_english": "He makes victory in all disputes; extracted under Puṣya."
+ "inference": "The verse names Vyāsa and Śaunaka among the sages.",
+ "uncertainties": [
+  "conditional syntax unclear"
+ ],
+ "plain_english": "Paiṅga, Dīrghamat, Vyāsa, and Śaunaka are named, with a conditional reference to me."
 }

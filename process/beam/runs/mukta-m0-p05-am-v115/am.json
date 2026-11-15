@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 115,
- "question": "Which goddess and color is being contemplated here?",
+ "question": "Which classes of beings are included in the satisfaction list?",
  "premises": [
-  "The token list names Kini.",
-  "A color term closes the unit."
+  "gandharvān cāraṇān siddhān nāgān name classes",
+  "yātudhānakān names yātudhānas",
+  "vai emphasizes the list"
  ],
- "inference": "The unit prescribes contemplating yellow-colored Kini with the listed attributes.",
+ "inference": "The list includes gandharvas, cāraṇas, siddhas, nāgas, and yātudhānas.",
  "uncertainties": [
-  "Some token boundaries are fused in the source."
+  "whether all are satisfied equally"
  ],
- "plain_english": "Contemplate yellow-colored Kini with the listed attributes."
+ "plain_english": "Gandharvas, cāraṇas, siddhas, nāgas, and indeed yātudhānas."
 }

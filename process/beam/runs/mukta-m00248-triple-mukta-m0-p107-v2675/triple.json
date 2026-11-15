@@ -1,0 +1,71 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2675,
+   "rows": [
+    {
+     "surface": "piśācaiś",
+     "gloss": "with-piśāca-plants",
+     "grounds": "instrumental plural of piśāca, naming piśāca plants among the listed materials",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛdaṅgī",
+     "gloss": "mṛdaṅgī",
+     "grounds": "nominative singular feminine noun naming the mṛdaṅgī plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāryāṅgī",
+     "gloss": "bhāryāṅgī",
+     "grounds": "nominative singular feminine noun naming the bhāryāṅgī plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garuḍas",
+     "gloss": "garuḍa",
+     "grounds": "nominative singular masculine noun naming garuḍa among the listed items",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb continuing the enumerated list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further plants and substances complete the enumerated set of ritual materials?",
+   "premises": [
+    "piśāca plants are included",
+    "mṛdaṅgī is included",
+    "bhāryāṅgī is included",
+    "garuḍa is included likewise"
+   ],
+   "inference": "The verse extends the preceding list by adding piśāca plants, mṛdaṅgī, bhāryāṅgī, and garuḍa.",
+   "uncertainties": [
+    "The exact ritual function of each listed item is not stated in this verse",
+    "The grammatical relation of the list to the preceding verse remains implicit"
+   ],
+   "plain_english": "Piśāca plants, and mṛdaṅgī, and bhāryāṅgī, and garuḍa likewise."
+  }
+ ]
+}

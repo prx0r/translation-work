@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 118,
- "question": "Which goddess and color is being saluted here?",
+ "question": "How many times should Viṣṇu, Brahmā, Indra, and Rudra be satisfied?",
  "premises": [
-  "The token list names Dakini.",
-  "A color term closes the unit."
+  "viṣṇu-brahma-indra-rudrāṇāṃ names the recipients",
+  "sapta-vāraṃ gives the count",
+  "tarpayet states satisfaction"
  ],
- "inference": "The unit prescribes saluting red-colored Dakini with the listed attributes.",
+ "inference": "One should satisfy Viṣṇu, Brahmā, Indra, and Rudra seven times.",
  "uncertainties": [
-  "Some token boundaries are fused in the source."
+  "whether tu is restrictive or emphatic"
  ],
- "plain_english": "Salute red-colored Dakini with the listed attributes."
+ "plain_english": "Indeed, one should satisfy Viṣṇu, Brahmā, Indra, and Rudra seven times."
 }

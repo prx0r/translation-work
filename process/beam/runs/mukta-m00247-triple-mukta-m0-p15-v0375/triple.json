@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "yathābhīṣṭa+pradaṃ",
+     "gloss": "as-desired-giving",
+     "grounds": "fused compound yathābhīṣṭa + prada; legacy gloss as-desired+giving",
+     "morph": "adj.acc.sg.n (compound)"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "to-men",
+     "grounds": "genitive plural of nṛ",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "uḍḍāmara",
+     "gloss": "in-uddamara",
+     "grounds": "locative sense in Uddamara",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "viniścitam",
+     "gloss": "ascertained",
+     "grounds": "past participle of vi-ni-ści",
+     "morph": "pp.acc.sg.n"
+    }
+   ],
+   "question": "What is ascertained in Uddamara concerning giving men their desired boons?",
+   "premises": [
+    "Uddamara ascertains desired-giving to men.",
+    "The verse states desired-giving is ascertained.",
+    "Men receive what they desire."
+   ],
+   "inference": "Desired boons for men are ascertained in Uddamara.",
+   "uncertainties": [
+    "Exact syntactic role of uḍḍāmara remains uncertain."
+   ],
+   "plain_english": "In Uddamara it is ascertained that men are given what they desire."
+  }
+ ]
+}

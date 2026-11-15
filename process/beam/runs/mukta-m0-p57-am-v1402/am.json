@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1402,
- "question": "What implements and ornaments are borne and worn by the described figures?",
+ "question": "What proportion of dhānya-abhraka and borax is prescribed?",
  "premises": [
-  "the figures bear a noose and pots",
-  "they are adorned with pearls and ornaments"
+  "one part of dhānya-abhraka is used",
+  "two parts of borax are used",
+  "the ratio is stated directly"
  ],
- "inference": "the figures carry ritual implements and pearl ornaments",
+ "inference": "The prescribed proportion is one part dhānya-abhraka to two parts borax.",
  "uncertainties": [
-  "subject identity is not explicit"
+  "whether parts are by weight or volume is unspecified"
  ],
- "plain_english": "They bear a noose and pots, adorned with pearls and ornaments."
+ "plain_english": "Take one part dhānya-abhraka and two parts borax."
 }

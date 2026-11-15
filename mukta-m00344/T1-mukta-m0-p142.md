@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p142-v3526
-[is](asti) [by-you](tvayā) [of-seized](gṛhītasya) [younger-brother](avarajaṃ) [me](mām) [we-two](nau) [brothers](bhrātarau)
+[astya](astya) [by-you](tvayā) [of-taken](gṛhītasya) [younger-brother](avarajaṃ) [me](mām) [our](nau) [brothers](bhrātarau)
 
 ## mukta-m0-p142-v3527
-[with-this](etena) [breaking-fast](pāraṇāṃ) [having-done](kṛtvā) [I-dispute](vivadāmi) [with-you](tvayā) [together](saha)
+[by-this](etena) [fast-breaking](pāraṇāṃ) [having-done](kṛtvā) [I-dispute](vivadāmi) [with-you](tvayā) [with](saha)
 
 ## mukta-m0-p142-v3528
-[with-this](etena) [your-brother](tvad+bhrātrā) [breaking-fast](pāraṇām) [fast-completion](upavāsa+samāptim)
+[by-this](etena) [your-brother](tvadbhrātrā) [fast-breaking](pāraṇām) [fast-end](upavāsasamāptim)
 
 ## mukta-m0-p142-v3529
-[exceedingly](atyantaṃ) [satisfied](tarpitaḥ) [I-may-be](bhūyām) [thus](iti) [my](me) [O-king](nṛpa) [certainty](niścayaḥ)
+[extremely](atyantaṃ) [satisfied](tarpito) [may-be](bhūyām) [iti](iti) [my](me) [king](nṛpa) [resolve](niścayaḥ)
 
 ## mukta-m0-p142-v3530
-[once](kadācit) [arrived](āgataḥ) [disciple](śiṣyaḥ) [of-Vasiṣṭha](vasiṣṭhasya) [indeed](tu) [eaten](bhakṣitaḥ)
+[once](kadācid) [arrived](āgataḥ) [disciple](śiṣyo) [of-Vasiṣṭha](vasiṣṭhasya) [but](tu) [eaten](bhakṣitaḥ)
 
 ## mukta-m0-p142-v3531
-[eaten](bhakṣitaḥ) [devoured](bhakṣitaḥ) [consumed](bhakṣitaḥ) [swallowed](bhakṣitaḥ)
+[eaten](bhakṣitaḥ)
 
 ## mukta-m0-p142-v3532
-[from-here](itaḥ) [further](paraḥ) [having-eaten](bhakṣayitvā) [human](manuṣyaṃ) [O-Brahma-demon](brahma+rākṣasa)
+[from-here](itaḥ) [after](paraḥ) [having-eaten](bhakṣayitvā) [man](manuṣyaṃ) [brahmarākṣasa](brahmarākṣasa)
 
 ## mukta-m0-p142-v3533
-[again](bhūyaḥ) [earnestly-requested](samprārthitaḥ) [to-me](mahyaṃ) [he-gave](prāyacchat) [boon](varam) [supreme](uttamam)
+[again](bhūyaḥ) [requested](samprārthito) [to-me](mahyaṃ) [gave](prāyacchad) [best-boon](varamuttamam)
 
 ## mukta-m0-p142-v3534
-[thus](iti) [cursed](śaptaḥ) [thus-connection](iti+anvayaḥ) [after-curse-attainment](śāpa+prāpteḥ) [afterwards](paścāt) [again](bhūyaḥ) [many-times](bahu+kṛtvaḥ)
+[thus](iti) [cursed](śapta) [iti](iti) [anvaya](anvayaḥ) [after-curse](śāpaprāpteḥ) [after](paścāt) [again](bhūyaḥ) [many-times](bahukṛtvaḥ)
 
 ## mukta-m0-p142-v3535
-[thus](iti) [by-him-in-debate-defeated](tat+vāda+vijitān) [I-eat](bhakṣayāmi) [therefore](tataḥ) [I](tu+aham)
+[thus](iti) [those-defeated-in-debate](tadvādavijitān) [I-eat](bhakṣayāmi) [then](tataḥ) [I](tvaham)
 
 ## mukta-m0-p142-v3536
-[after-that](tat+anantaram) [obtained](prāptaḥ) [thus-connection](iti+anvayaḥ) [then](tataḥ)
+[after-that](tadanantaram) [arrived](prāpta) [iti](iti) [anvaya](anvayaḥ)
 
 ## mukta-m0-p142-v3537
-[having-eaten](bhakṣayitvā) [then](tataḥ) [in-debate](vāde) [you](tvāṃ) [I-shall-conquer](vijeṣyāmi) [O-king](bhūmipa)
+[having-eaten](bhakṣayitvā) [then](tato) [in-debate](vāde) [you](tvāṃ) [I-will-defeat](vijeṣyāmi) [king](bhūmipa)
 
 ## mukta-m0-p142-v3538
-[then](tataḥ) [from-that](tasmāt) [therefore](tataḥ) [thence](tasmāt)
+[then](tataḥ) [therefore](tasmāt)
 
 ## mukta-m0-p142-v3539
-[gathered](citaḥ) [collected](citaḥ) [heaped](citaḥ) [piled](citaḥ)
+[citaḥ](citaḥ)
 
 ## mukta-m0-p142-v3540
-[having-given](datvā) [to-you](tubhyaṃ) [then](tadā) [him](enam) [indeed](tu) [I-release](mocayāmi) [brother](sahodaram)
+[giving](datvā) [to-you](tubhyaṃ) [him](tadenaṃ) [then](tu) [I-release](mocayāmi) [brother](sahodaram)
 
 ## mukta-m0-p142-v3541
-[anything](kiñcit+api) [which-having-obtained](yat+prāpya) [him](enaṃ) [my](mat) [brother](bhrātaraṃ) [that-having-given](tat+dattvā)
+[something](kiñcid) [api](api) [which-obtained](yatprāpya) [him](enaṃ) [my-brother](madbhrātaraṃ) [that-giving](taddattvā)
 
 ## mukta-m0-p142-v3542
-[listen](śṛṇu) [O-king](rājan) [not](na) [is](asti) [that](tat) [indeed](vai) [anything](kiñcit) [by-which](yena) [him](enam) [I-may-release](utsṛje)
+[listen](śṛṇu) [king](rājan) [not](nāsti) [that-indeed](tadvai) [something](kiñcid) [by-which-him](yenainam) [I-release](utsṛje)
 
 ## mukta-m0-p142-v3543
-[than-this](itaḥ) [more](adhikaṃ) [dear](priyaṃ) [anything](kiñcit) [not](na) [is](asti) [thus-he-says](iti+āha) [listen](śṛṇu) [thus](iti)
+[from-here](ito) [more](adhikaṃ) [dear](priyaṃ) [something](kiñcit) [not-is](nāsti) [iti](iti) [says](āha) [listen](śṛṇviti)
 
 ## mukta-m0-p142-v3544
-[but](kintu) [one](ekaḥ) [condition](samayaḥ) [my](me) [is](asti) [questions](praśnāḥ) [my](me) [in-heart](hṛdi) [situated](saṃsthitāḥ)
+[but](kintu) [one](ekaḥ) [time](samayo) [me](me) [asti](asti) [questions](praśnā) [me](me) [in-heart](hṛdi) [situated](saṃsthitāḥ)
 
 ## mukta-m0-p142-v3545
-[condition](samayaḥ) [vow](pratijñā) [that](tam) [indeed-he-says](eva+āha) [question](praśnaḥ) [thus-etc](iti+ādi)
+[time](samayaḥ) [promise](pratijñā) [that-only](tameva) [says](āha) [question](praśna) [iti](iti) [ādi](ādi)
 
 ## mukta-m0-p142-v3546
-[then](tataḥ) [Hemāṅgada](hemāṅgadaḥ) [said](prāha) [ask](pṛccha) [them](tān) [I-shall-answer](saṃvadāmi) [to-you](te)
+[then](tato) [Hemāṅgada](hemāṅgadaḥ) [said](prāha) [ask](pṛccha) [them](tān) [I-speak](saṃvadāmi) [to-you](te)
 
 ## mukta-m0-p142-v3547
-[those](tān) [questions](praśnān) [by-that-question-answer-attainment](tat+praśna+uttara+prāptyā) [those](tān) [questions](praśnān)
+[them](tān) [questions](praśnān) [that](tat) [question-answer-obtaining](praśnottaraprāptyā) [them](tān) [questions](praśnān)
 
 ## mukta-m0-p142-v3548
-[hidden-questions](gūḍha+praśnān) [in-order](krameṇa) [indeed](eva) [that](tat) [I-shall-tell](vakṣye) [listen](śṛṇu) [O-Bhārgava](bhārgava)
+[hidden-questions](gūḍhapraśnān) [in-order](krameṇaiva) [that](tad) [I-will-speak](vakṣye) [listen](śṛṇu) [Bhārgava](bhārgava)
 
 ## mukta-m0-p142-v3549
-[hidden-questions](gūḍha+praśnān) [questions-with-concealed-answers](gupta+uttara+vat+praśnān) [secret-questions](gūḍha+praśnān) [riddles](praśnān)
+[hidden-questions](gūḍhapraśnān) [hidden-answer-having-questions](guptottaravatpraśnān)
 
 ## mukta-m0-p142-v3550
-[she](sā) [of-what-form](kiṃ+rūpā) [situated](sthitā) [where](kutra) [tell](vada) [this](etat) [O-prince](nṛpa+putraka)
+[she](sā) [what-form](kiṃrūpā) [situated](sthitā) [where](kutra) [speak](vada) [this](etat) [prince](nṛpaputraka)

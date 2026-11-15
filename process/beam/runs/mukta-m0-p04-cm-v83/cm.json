@@ -3,29 +3,34 @@
  "verse": 83,
  "rows": [
   {
-   "lemma": "oṃ namo bhagavate rudrāya cāmuṇḍe amukīṃ me vaśamānaya svāhā",
+   "lemma": "sarvābhiḥ",
+   "morph": "adj.ins.pl.f",
+   "grounds": "legacy hint with-all"
+  },
+  {
+   "lemma": "aṅgulībhiḥ",
+   "morph": "noun.ins.pl.f",
+   "grounds": "legacy hint with-fingers"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "mantra syllables kept byte-exact"
+   "grounds": "legacy hint indeed"
   },
   {
-   "lemma": "uktayogānām",
-   "morph": "m.gen.pl+compound",
-   "grounds": "genitive plural masculine compound"
+   "lemma": "nābhiṃ",
+   "morph": "noun.acc.sg.f",
+   "grounds": "legacy hint navel"
   },
   {
-   "lemma": "ayam",
-   "morph": "m.nom.sg",
-   "grounds": "nominative singular masculine"
+   "lemma": "saṃspṛśya",
+   "morph": "verb.abs",
+   "grounds": "legacy hint having-touched"
   },
   {
-   "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable particle"
-  },
-  {
-   "lemma": "maṃtraḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative singular masculine"
+   "lemma": "deśikaḥ",
+   "morph": "noun.nom.sg.m",
+   "grounds": "legacy hint teacher"
   }
  ]
 }

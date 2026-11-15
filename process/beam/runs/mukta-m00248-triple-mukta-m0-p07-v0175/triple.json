@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "duḥ-svapna",
+     "gloss": "bad-dream",
+     "grounds": "compound duḥ+svapna; bad dream",
+     "morph": "compound (duḥ+svapna)"
+    },
+    {
+     "surface": "darśane",
+     "gloss": "seeing",
+     "grounds": "locative singular of darśana",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durjana-sparśane",
+     "gloss": "contact-with-wicked-person",
+     "grounds": "compound durjana+sparśana; locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which experiences besides ritual contact necessitate renewed purification for the initiate?",
+   "premises": [
+    "bad dream seeing requires purification",
+    "contact with wicked person requires purification",
+    "both are listed as occasions"
+   ],
+   "inference": "The verse adds bad dreams and contact with wicked persons to the occasions requiring purification.",
+   "uncertainties": [
+    "exact ritual action implied by the fragment is not stated",
+    "surrounding verses may specify the required rite"
+   ],
+   "plain_english": "On seeing a bad dream and on contact with a wicked person also."
+  }
+ ]
+}

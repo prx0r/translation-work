@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[having-known](jñātvā) [from-teachers](gurubhyaḥ) [supreme](paramāṃ) [great-lordship+manifested](māhaiśvarya+vibhāvitaḥ)
+[having-known](jñātvā) [from-teachers](gurubhyaḥ) [supreme](paramāṃ) [by-great-lordship-manifested](māhaiśvaryavibhāvitaḥ)
 
 ## mukta-m0-p43-v1052
-[thus](evaṃ) [by-service-of-another](para+upāsanena) [passed](vyatīyuḥ) [some](ke'pi) [months](māsakāḥ)
+[thus](evaṃ) [by-worship-of-others](paropāsanena) [passed](vyatīyuḥ) [some](ke'pi) [months](māsakāḥ)
 
 ## mukta-m0-p43-v1053
 [following](anugatiḥ) [worship](upāsanam)
 
 ## mukta-m0-p43-v1054
-[from-objects](viṣayāt) [turned-away](vimukhaṃ) [mind](cittaṃ) [inquiry+devoted](vicāra+paramaṃ) [shone](babhau)
+[from-objects](viṣayāt) [averted](vimukhaṃ) [mind](cittaṃ) [inquiry-supreme](vicāraparamaṃ) [became](babhau)
 
 ## mukta-m0-p43-v1055
-[own-nature+inquiry+intent-upon](svarūpa+vicāra+tatparam)
+[intent-on-self-nature-inquiry](svarūpavicāratatparam)
 
 ## mukta-m0-p43-v1056
-[inquiry+inclined](vicāra+pravaṇaṃ) [mind](cittaṃ) [which](yat) [principal](mukhyaṃ) [liberation+cause](mokṣa+kāraṇam)
+[inquiry-inclined](vicārapravaṇaṃ) [mind](cittaṃ) [which](yan) [principal](mukhyaṃ) [cause-of-liberation](mokṣakāraṇam)
 
 ## mukta-m0-p43-v1057
-[then](tadā) [he-said](āha) [which](yat) [thus](iti)
+[that-says](tadāha) [-]( - ) [that-thus](yaditi)
 
 ## mukta-m0-p43-v1058
-[not](na) [indeed](tāvat) [with-welfare](śreyasā) [union](yogaḥ) [of-means](upāyānāṃ) [by-hundreds](śataiḥ) [anywhere](kvacit)
+[not](na) [yet](tāvat) [by-good](śreyasā) [yoga](yogaḥ) [by-means](upāyānāṃ) [of-hundreds](śataiḥ) [ever](kvacit)
 
 ## mukta-m0-p43-v1059
-[united](saṅgataḥ) [with-beloved](priyayā) [exceedingly+inquiry+absorbed-mind](atyanta+vicāra+parama+ānasaḥ)
+[united](saṅgataḥ) [with-beloved](priyayā) [extremely-inquiry-supreme-mind](atyantavicāraparamānasaḥ)
 
 ## mukta-m0-p43-v1060
-[then](atha) [inquiry+devotion+attainment+after](vicāra+paratā+sampatti+anantaram)
+[then](atha) [inquiry-supremacy-attainment-after](vicāraparatāsampattyanantaram)
 
 ## mukta-m0-p43-v1061
-[having-risen](utthāya) [him](taṃ) [having-brought](samānīya) [on-own-seat](sva+āsane) [having-seated](viniveśya) [and](ca)
+[rising](utthāya) [him](taṃ) [bringing](samānīya) [to-own-seat](svāsane) [seating](viniveśya) [and](ca)
 
 ## mukta-m0-p43-v1062
-[abode](niketaṃ) [house](gṛham)
+[dwelling](niketaṃ) [house](gṛham)
 
 ## mukta-m0-p43-v1063
-[spoke](provāca) [nectar+flowing+beautiful](amṛta+niṣyanda+sundaraṃ) [supreme](paramaṃ) [speech](vacaḥ)
+[spoke](provāca) [nectar-flowing-beautiful](amṛtaniṣyandasundaraṃ) [supreme](paramaṃ) [word](vacaḥ)
 
 ## mukta-m0-p43-v1064
-[free-from-disease](nīrujaṃ) [whether](kaccit) [was](āsīt) [indeed](vai) [because](yataḥ) [disease+abode](roga+āspadaṃ) [body](vapuḥ)
+[disease-free](nīrujaṃ) [whether-was-indeed](kaccidāsīdvai) [since](yato) [disease-seat](rogāspadaṃ) [body](vapuḥ)
 
 ## mukta-m0-p43-v1065
-[beloved](preṣṭha) [most-dear](ati+priyatama)
+[beloved](preṣṭha) [most-dear](atipriyatama)
 
 ## mukta-m0-p43-v1066
-[indeed](nanu) [me+not-seeing](mām+a+samālokya) [and+not-speaking](ca+a+prabhāṣya) [ever](kadāpi) [to-you](te)
+[indeed](nanu) [me](mām) [seeing](asamālokya) [and-not-speaking](cāprabhāṣya) [ever](kadāpi) [your](te)
 
 ## mukta-m0-p43-v1067
-[I-think](manye) [I](ahaṃ) [to-you+not-agreeable](te+anabhimate) [conduct](vartanaṃ) [not](nahi) [on-path](vartmani)
+[think](manye) [I](ahaṃ) [your-disapproved](te'nabhimate) [conduct](vartanaṃ) [not](nahi) [in-path](vartmani)
 
 ## mukta-m0-p43-v1068
-[therefore](tat) [why](kutaḥ) [in-dream](svapne) [even](api) [not](na) [I-think](manye)
+[that](tat) [why](kutaḥ) [|](|) [in-dream-even](svapne'pi) [not](na) [think](manye)
 
 ## mukta-m0-p43-v1069
-[how](kathaṃ) [night](rātriḥ) [by-you](tvayā) [spent](nītā) [and+even-one](ca+ekā+api) [eon+equal](yuga+sammitā)
+[how](kathaṃ) [night](rātriḥ) [by-you](tvayā) [spent](nītā) [and-one-even](caikāpi) [age-equal](yugasammitā)
 
 ## mukta-m0-p43-v1070
-[thus+having-spoken](iti+uktvā) [she](sā) [having-embraced](samāśliṣya) [as-if-distressed](khinnā+iva) [became](abhūt) [for-a-moment](kṣaṇaṃ) [then](tataḥ)
+[thus-saying](ityuktvā) [she](sā) [embracing](samāśliṣya) [exhausted-became-moment](khinnevābhūtkṣaṇaṃ) [then](tataḥ)
 
 ## mukta-m0-p43-v1071
-[me](māṃ) [without](vinā) [moment](kṣaṇaḥ) [even](api) [k:](k:) [moment+even](kṣaṇam+api) [very-difficult-to-bear+thus](su+duḥsaham+iti)
+[me](māṃ) [without](vinā) [moment-even](kṣaṇo'pi) [variant](kṣaṇamapi suduḥsahamiti)
 
 ## mukta-m0-p43-v1072
-[said](prāha) [beloved](priye) [not](na) [me](mām) [thus](evaṃ) [to-delude](vimohayitum) [you-should](arhasi)
+[said](prāha) [beloved](priye) [not](na) [me](mām) [thus](evaṃ) [to-delude-should](vimohayitumarhasi)
 
 ## mukta-m0-p43-v1073
-[obtained](prāptavān) [me+this](mām+iyaṃ) [to-delude](mohayituṃ) [engaged+thus](pravṛttā+iti) [having-known](jñātvā) [said](āha) [beloved](priye) [thus](iti)
+[attained](prāptavān) [|](|) [me](mām) [this](iyaṃ) [to-delude](mohayituṃ) [intent](pravṛttā) [knowing](jñātvā) [said](āha) [-]( - ) [beloved](priye) [thus](iti)
 
 ## mukta-m0-p43-v1074
-[higher-and-lower+knowing](para+avara+jñā) [you](tvaṃ) [wise](dhīrā) [delusion](mohaḥ) [you](tvāṃ) [indeed](vai) [how](kathaṃ) [touch](spṛśet)
+[knower-of-high-low](parāvarajñā) [you](tvaṃ) [steadfast](dhīrā) [delusion-you](mohastvāṃ) [indeed](vai) [how](kathaṃ) [touch](spṛśet)
 
 ## mukta-m0-p43-v1075
-[whence](kutaḥ) [your+separation](tvat+viyoge) [sorrow](śokaḥ) [not](na) [would-be](bhavet) [then](tadā) [he-said](āha) [higher-and-lower+thus](para+avara+iti)
+[whence](kutaḥ) [from-your-separation](tvadviyoge) [grief](śokaḥ) [not](na) [be](bhavet) [that-says](tadāha) [-]( - ) [parāvara-thus](parāvareti)

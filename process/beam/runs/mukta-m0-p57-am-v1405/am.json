@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1405,
- "question": "What color is assigned to this deity in the iconographic description?",
+ "question": "How should the combined material be cooked?",
  "premises": [
-  "the verse names a color",
-  "the color is golden"
+  "the material is first combined",
+  "it is cooked in an iron vessel",
+  "gentle fire is prescribed"
  ],
- "inference": "the deity's color is golden",
+ "inference": "The combined material should be cooked in an iron vessel over gentle fire.",
  "uncertainties": [
-  "subject identity is not explicit"
+  "the exact material being cooked is carried from previous verses"
  ],
- "plain_english": "The color is golden."
+ "plain_english": "Combine it, then cook it in an iron vessel over gentle fire."
 }

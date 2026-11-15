@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1401,
- "question": "What color is assigned to this deity in the iconographic description?",
+ "question": "How many times must the substance be cooked in a half-day puṭa before it becomes dead?",
  "premises": [
-  "the verse names a color",
-  "the color is white"
+  "cooking occurs in a half-day puṭa",
+  "the process is repeated seven times",
+  "the result is a dead substance"
  ],
- "inference": "the deity's color is white",
+ "inference": "The substance becomes dead after seven cookings in a half-day puṭa.",
  "uncertainties": [
-  "exact deity not named in this fragment"
+  "exact substance is not named in this verse"
  ],
- "plain_english": "The color is white."
+ "plain_english": "Cook it in a half-day puṭa seven times, and it becomes dead."
 }

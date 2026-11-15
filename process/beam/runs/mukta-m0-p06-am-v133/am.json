@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p06",
  "verse": 133,
- "question": "What should be sprinkled and what root gathered there?",
+ "question": "Which family and teacher figures are included in the offering?",
  "premises": [
-  "The verse names white guñjā.",
-  "It says sprinkle it there.",
-  "It says gather its root."
+  "gurur mātā pitā ca eva names teacher mother father",
+  "tanmātā tatpitā api ca adds his mother and father"
  ],
- "inference": "White guñjā is sprinkled there, and its root is gathered.",
- "uncertainties": [],
- "plain_english": "Sprinkle white guñjā there and gather its root."
+ "inference": "Teacher, mother, father, and their parents are included.",
+ "uncertainties": [
+  "antecedent of tan unclear"
+ ],
+ "plain_english": "Teacher, mother, and father indeed, and his mother and father also, are included."
 }

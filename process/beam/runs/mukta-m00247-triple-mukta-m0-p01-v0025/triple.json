@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "śriyo",
+     "gloss": "of-śrī",
+     "grounds": "genitive of śrī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seeds",
+     "grounds": "neuter plural noun",
+     "morph": "n.nom/acc.pl.n"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "am",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anṛtāny",
+     "gloss": "untrue",
+     "grounds": "neuter plural adjective",
+     "morph": "n.nom/acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "neuter plural adjective",
+     "morph": "n.nom/acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which of Śrī's seeds are declared untrue and which are others?",
+   "premises": [
+    "Śrī has five seeds.",
+    "Those five are untrue.",
+    "Other seeds are separate."
+   ],
+   "inference": "The verse distinguishes five untrue Śrī seeds from other seeds.",
+   "uncertainties": [
+    "am may be particle 'thus'; exact referent of others unspecified."
+   ],
+   "plain_english": "Of Śrī, five seeds are indeed untrue, and there are others."
+  }
+ ]
+}

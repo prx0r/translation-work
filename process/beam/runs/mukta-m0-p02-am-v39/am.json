@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p02",
  "verse": 39,
- "question": "What is repeated with om-headed form?",
+ "question": "Which weapons are held by this form?",
  "premises": [
-  "The om-headed form is mentioned twice.",
-  "Then follows another step.",
-  "The claim concerns mantra structure."
+  "four-armed is stated",
+  "three-eyed is stated",
+  "trident is named",
+  "axe-holding is stated"
  ],
- "inference": "The om-headed form is repeated before proceeding.",
+ "inference": "the form holds trident and axe",
  "uncertainties": [
-  "Exact ritual object is uncertain."
+  "deity name not stated here"
  ],
- "plain_english": "The om-headed form, and again the om-headed form, then."
+ "plain_english": "It is four-armed, three-eyed, and holds trident and axe."
 }

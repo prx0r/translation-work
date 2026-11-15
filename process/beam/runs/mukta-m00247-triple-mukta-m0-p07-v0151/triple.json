@@ -1,0 +1,1229 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "madanam",
+     "gloss": "desire",
+     "grounds": "madana as desire-element",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ūrmidhvāntau",
+     "gloss": "wave-darkness",
+     "grounds": "ūrmi+dhvānta fused",
+     "morph": "n.acc.du.m"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral two",
+     "morph": "num.acc.du.m"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "joining",
+     "grounds": "saṃ-yuj participle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "stana",
+     "gloss": "breast",
+     "grounds": "stana element",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bījakam",
+     "gloss": "seed",
+     "grounds": "bīja+ka",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How are madana and ūrmi-dhvānta joined to form the stana-bīja?",
+   "premises": [
+    "madana means desire",
+    "ūrmidhvāntau means wave-darkness",
+    "dvau means two"
+   ],
+   "inference": "The verse joins two elements into a breast-seed.",
+   "uncertainties": [
+    "exact sandhi of ūrmidhvāntau not expanded"
+   ],
+   "plain_english": "Desire and wave-darkness, two, are joined as the breast-seed."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "jṛmbanākhye",
+     "gloss": "yawning-named",
+     "grounds": "jṛmbana+ākhya",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "kāmeśvari",
+     "gloss": "kāmeśvarī",
+     "grounds": "goddess name",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "thus-also",
+     "grounds": "tathā+eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What follows after the yawning-named stage for Kāmeśvarī?",
+   "premises": [
+    "jṛmbanākhye means yawning-named",
+    "tataḥ means then",
+    "devi is vocative goddess"
+   ],
+   "inference": "The verse marks a transition to Kāmeśvarī.",
+   "uncertainties": [
+    "exact ritual stage unspecified"
+   ],
+   "plain_english": "Then, O goddess Kāmeśvarī, thus also."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "kāmeśvaryā",
+     "gloss": "by-kāmeśvarī",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "mahādevyā",
+     "gloss": "great-goddess",
+     "grounds": "mahā+devī",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "dvāviṃśat",
+     "gloss": "twenty-two",
+     "grounds": "numeral",
+     "morph": "num.indecl."
+    },
+    {
+     "surface": "akṣaraḥ",
+     "gloss": "syllabled",
+     "grounds": "akṣara+ḥ",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "manu as mantra",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How many syllables does Kāmeśvarī's mantra have?",
+   "premises": [
+    "kāmeśvaryā means by Kāmeśvarī",
+    "mahādevyā means great goddess",
+    "dvāviṃśat means twenty-two"
+   ],
+   "inference": "Kāmeśvarī's mantra is twenty-two syllabled.",
+   "uncertainties": [
+    "manu as mantra context"
+   ],
+   "plain_english": "By Kāmeśvarī, the great goddess, a twenty-two-syllabled mantra."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "tārādhipaḥ",
+     "gloss": "moon-lord",
+     "grounds": "tāra+adhipa",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sudhāraśmiḥ",
+     "gloss": "nectar-rayed",
+     "grounds": "sudhā+raśmi",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "kṛtrima+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "other",
+     "grounds": "apara+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What artificial and other items are associated with the moon-lord?",
+   "premises": [
+    "tārādhipaḥ means moon-lord",
+    "sudhāraśmiḥ means nectar-rayed",
+    "kṛtrimāṇi means artificial"
+   ],
+   "inference": "The verse lists artificial and other items under the moon-lord.",
+   "uncertainties": [
+    "exact item list omitted"
+   ],
+   "plain_english": "The moon-lord, nectar-rayed, and artificial and other items."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "baṃ-bīja",
+     "gloss": "baṃ-seed",
+     "grounds": "bīja syllable baṃ",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "uddhārāṇi",
+     "gloss": "extractions",
+     "grounds": "uddhāra+āni",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "kṛtrima+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "other",
+     "grounds": "apara+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What extractions are listed for the baṃ-seed?",
+   "premises": [
+    "baṃ-bīja means baṃ-seed",
+    "uddhārāṇi means extractions",
+    "etāni means these"
+   ],
+   "inference": "The verse lists extractions for the baṃ-seed.",
+   "uncertainties": [
+    "extraction details omitted"
+   ],
+   "plain_english": "The baṃ-seed extractions, these artificial and other items."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "jaṃbījāni",
+     "gloss": "jaṃ-seeds",
+     "grounds": "jaṃ+bīja+āni",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "kṛtrima+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "other",
+     "grounds": "apara+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What artificial and other items accompany the jaṃ-seeds?",
+   "premises": [
+    "jaṃbījāni means jaṃ-seeds",
+    "evam means thus",
+    "etāni means these"
+   ],
+   "inference": "The verse groups jaṃ-seeds with artificial and other items.",
+   "uncertainties": [
+    "exact jaṃ-seed list omitted"
+   ],
+   "plain_english": "Thus these jaṃ-seeds, artificial and other items."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "bhagavatyā",
+     "gloss": "of-goddess",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "mahāgauryā",
+     "gloss": "great-gaurī",
+     "grounds": "mahā+gaurī",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "vālaḥ",
+     "gloss": "bāla",
+     "grounds": "bāla form",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvādaśākṣaraḥ",
+     "gloss": "twelve-syllabled",
+     "grounds": "dvādaśa+akṣara",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How many syllables is Mahāgaurī's bāla mantra?",
+   "premises": [
+    "bhagavatyā means of goddess",
+    "mahāgauryā means great Gaurī",
+    "dvādaśākṣaraḥ means twelve-syllabled"
+   ],
+   "inference": "Mahāgaurī's bāla mantra is twelve-syllabled.",
+   "uncertainties": [
+    "vālaḥ as bāla"
+   ],
+   "plain_english": "Of the goddess Mahāgaurī, the bāla mantra is twelve-syllabled."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "gaṃbījāni",
+     "gloss": "gaṃ-seeds",
+     "grounds": "gaṃ+bīja+āni",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "num.acc.pl.n"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "kṛtrima+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "other",
+     "grounds": "apara+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many artificial and other items accompany the gaṃ-seeds?",
+   "premises": [
+    "gaṃbījāni means gaṃ-seeds",
+    "catvāri means four",
+    "kṛtrimāṇi means artificial"
+   ],
+   "inference": "Four artificial and other items accompany the gaṃ-seeds.",
+   "uncertainties": [
+    "exact four items omitted"
+   ],
+   "plain_english": "The gaṃ-seeds, and four artificial and other items."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "annapūrṇe",
+     "gloss": "annapūrṇā",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "ṭhadvayaṃ",
+     "gloss": "ṭha-pair",
+     "grounds": "ṭha+dvaya",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "manu as mantra",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "viṃśākṣaraḥ",
+     "gloss": "twenty-syllabled",
+     "grounds": "viṃśa+akṣara",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "smṛ participle",
+     "morph": "v.3.sg.pass-past+smṛ"
+    }
+   ],
+   "question": "How many syllables is Annapūrṇā's mantra remembered to be?",
+   "premises": [
+    "annapūrṇe means Annapūrṇā",
+    "ṭhadvayaṃ means ṭha-pair",
+    "viṃśākṣaraḥ means twenty-syllabled"
+   ],
+   "inference": "Annapūrṇā's mantra is remembered as twenty-syllabled.",
+   "uncertainties": [
+    "ṭha-pair role"
+   ],
+   "plain_english": "O Annapūrṇā, the ṭha-pair mantra is remembered as twenty-syllabled."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "bīja",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṭśiro",
+     "gloss": "six-headed",
+     "grounds": "ṣaṭ+śiras",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "jñā participle",
+     "morph": "v.3.sg.pass-fut+ jñā"
+    },
+    {
+     "surface": "viśvena",
+     "gloss": "with-viśva",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāmini",
+     "gloss": "beloved",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What seed is to be known with Viśva for the six-headed?",
+   "premises": [
+    "bījaṃ means seed",
+    "ṣaṭśiro means six-headed",
+    "viśvena means with Viśva"
+   ],
+   "inference": "The seed is to be known together with Viśva for the six-headed.",
+   "uncertainties": [
+    "exact seed identity"
+   ],
+   "plain_english": "But the seed for the six-headed is to be known together with Viśva, beloved."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "taṭaṃ",
+     "gloss": "taṭa",
+     "grounds": "taṭa",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "icchābījaṃ",
+     "gloss": "desire-seed",
+     "grounds": "icchā+bīja",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pallavam",
+     "gloss": "sprout",
+     "grounds": "pallava",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "should-draw-out",
+     "grounds": "uddhṛ optative",
+     "morph": "v.3.sg.act-opt+uddhṛ"
+    }
+   ],
+   "question": "How should the desire-seed sprout be drawn out?",
+   "premises": [
+    "taṭaṃ means taṭa",
+    "icchābījaṃ means desire-seed",
+    "pallavam means sprout"
+   ],
+   "inference": "The verse instructs drawing out the desire-seed sprout.",
+   "uncertainties": [
+    "taṭa role"
+   ],
+   "plain_english": "Thus the taṭa and desire-seed sprout should be drawn out."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vāsanābījaṃ",
+     "gloss": "vāsanā-seed",
+     "grounds": "vāsanā+bīja",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "padma",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kāṅkṣā",
+     "gloss": "desire",
+     "grounds": "kāṅkṣā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nīrajam",
+     "gloss": "water-born",
+     "grounds": "nīra+ja",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What seed and lotus appear at the end?",
+   "premises": [
+    "ante means at end",
+    "vāsanābījaṃ means vāsanā-seed",
+    "padmaṃ means lotus"
+   ],
+   "inference": "The verse places vāsanā-seed and lotus at the end.",
+   "uncertainties": [
+    "kāṅkṣā relation"
+   ],
+   "plain_english": "At the end also the vāsanā-seed, lotus, desire, water-born."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "kulavāgīśvarī",
+     "gloss": "kulavāgīśvarī",
+     "grounds": "goddess name",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "of-goddess",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "turyaviṃśākṣaro",
+     "gloss": "twenty-four-syllabled",
+     "grounds": "turya+viṃśa+akṣara",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "manu as mantra",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How many syllables is Kulavāgīśvarī's mantra?",
+   "premises": [
+    "kulavāgīśvarī means goddess name",
+    "devyāḥ means of goddess",
+    "turyaviṃśākṣaro means twenty-four-syllabled"
+   ],
+   "inference": "Kulavāgīśvarī's mantra is twenty-four-syllabled.",
+   "uncertainties": [
+    "turya prefix"
+   ],
+   "plain_english": "Of goddess Kulavāgīśvarī, a twenty-four-syllabled mantra."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "jhaṃbījāni",
+     "gloss": "jhaṃ-seeds",
+     "grounds": "jhaṃ+bīja+āni",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "kṛtrima+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "other",
+     "grounds": "apara+āni",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What artificial and other items accompany the jhaṃ-seeds?",
+   "premises": [
+    "jhaṃbījāni means jhaṃ-seeds",
+    "evam means thus",
+    "etāni means these"
+   ],
+   "inference": "The verse groups jhaṃ-seeds with artificial and other items.",
+   "uncertainties": [
+    "exact jhaṃ-seed list omitted"
+   ],
+   "plain_english": "Thus these jhaṃ-seeds, artificial and other items."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "paṇyastrī",
+     "gloss": "courtesan",
+     "grounds": "paṇya+strī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "pañcabījāni",
+     "gloss": "five-seeds",
+     "grounds": "pañca+bīja+āni",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "strīṃbījasya",
+     "gloss": "of-strī-seed",
+     "grounds": "strī+bīja genitive",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "anṛtaṃ",
+     "gloss": "falsehood",
+     "grounds": "anṛta",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "parama",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What is said about the courtesan's five seeds and strī-seed?",
+   "premises": [
+    "paṇyastrī means courtesan",
+    "pañcabījāni means five seeds",
+    "strīṃbījasya means of strī-seed"
+   ],
+   "inference": "The verse links courtesan, five seeds, strī-seed, and supreme falsehood.",
+   "uncertainties": [
+    "exact doctrinal claim"
+   ],
+   "plain_english": "The courtesan's five seeds and strī-seed are supreme falsehood."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "vada",
+     "gloss": "speak",
+     "grounds": "vad imperative",
+     "morph": "v.2.sg.act-imp+vad"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "pron.dat.sg.1"
+    },
+    {
+     "surface": "satvaraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-speak",
+     "grounds": "vac future",
+     "morph": "v.1.sg.act-fut+vac"
+    },
+    {
+     "surface": "suvistaram",
+     "gloss": "in-detail",
+     "grounds": "su+vistara",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What does the speaker promise to tell the goddess quickly?",
+   "premises": [
+    "vada means speak",
+    "me means to me",
+    "satvaraṃ means quickly"
+   ],
+   "inference": "The speaker promises to speak that matter in detail.",
+   "uncertainties": [
+    "tat referent"
+   ],
+   "plain_english": "Speak to me quickly, goddess; I shall speak that in detail."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "kṛpayā",
+     "gloss": "by-compassion",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahyaṃ",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "pron.dat.sg.1"
+    },
+    {
+     "surface": "sūcitāḥ",
+     "gloss": "indicated",
+     "grounds": "sūc participle",
+     "morph": "v.3.pl.pass-past+sūc"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakāśitāḥ",
+     "gloss": "revealed",
+     "grounds": "prakāś participle",
+     "morph": "v.3.pl.pass-past+prakāś"
+    }
+   ],
+   "question": "Were the mantras formerly indicated but not revealed?",
+   "premises": [
+    "kṛpayā means by compassion",
+    "purā means formerly",
+    "sūcitāḥ means indicated"
+   ],
+   "inference": "The mantras were indicated formerly but not revealed.",
+   "uncertainties": [
+    "mantras implied"
+   ],
+   "plain_english": "By compassion they were formerly indicated to me but not revealed."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "manūn",
+     "gloss": "mantras",
+     "grounds": "manu plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "num.acc.pl.m"
+    },
+    {
+     "surface": "kumārāṇām",
+     "gloss": "of-princes",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "asmākaṃ",
+     "gloss": "to-us",
+     "grounds": "dative",
+     "morph": "pron.dat.pl.1"
+    },
+    {
+     "surface": "vaktum",
+     "gloss": "to-speak",
+     "grounds": "infinitive",
+     "morph": "v.inf+vac"
+    },
+    {
+     "surface": "arhasi",
+     "gloss": "ought",
+     "grounds": "arh optative",
+     "morph": "v.2.sg.act-opt+arh"
+    }
+   ],
+   "question": "Why should the five princes' mantras be spoken to us?",
+   "premises": [
+    "manūn means mantras",
+    "pañca means five",
+    "kumārāṇām means of princes"
+   ],
+   "inference": "The speaker asks that five princes' mantras be spoken to them.",
+   "uncertainties": [
+    "ritual context"
+   ],
+   "plain_english": "You ought to speak the five princes' mantras to us."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrtinā",
+     "gloss": "by-dakṣiṇāmūrti",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "spoken",
+     "grounds": "vac participle",
+     "morph": "v.3.sg.pass-past+vac"
+    },
+    {
+     "surface": "yat",
+     "gloss": "that",
+     "grounds": "relative",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-thee",
+     "grounds": "dative",
+     "morph": "pron.dat.sg.2"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-speak",
+     "grounds": "vac future",
+     "morph": "v.1.sg.act-fut+vac"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What spoken by Dakṣiṇāmūrti will be told in truth?",
+   "premises": [
+    "dakṣiṇāmūrtinā means by Dakṣiṇāmūrti",
+    "uktaṃ means spoken",
+    "tattvataḥ means in truth"
+   ],
+   "inference": "The speaker will tell in truth what Dakṣiṇāmūrti spoke.",
+   "uncertainties": [
+    "content of teaching"
+   ],
+   "plain_english": "What was spoken by Dakṣiṇāmūrti, that I shall tell you in truth."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "hanumadbhairavau",
+     "gloss": "hanumat-bhairava",
+     "grounds": "compound dual",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these-two",
+     "grounds": "pronoun",
+     "morph": "pron.nom.du.m"
+    },
+    {
+     "surface": "bhāṣitāḥ",
+     "gloss": "spoken",
+     "grounds": "bhāṣ participle",
+     "morph": "v.3.pl.pass-past+bhāṣ"
+    },
+    {
+     "surface": "pañcabālakāḥ",
+     "gloss": "five-boys",
+     "grounds": "pañca+bālaka",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Which two spoken figures are called five boys?",
+   "premises": [
+    "hanumadbhairavau means Hanumat-Bhairava",
+    "ete means these two",
+    "pañcabālakāḥ means five boys"
+   ],
+   "inference": "Hanumat and Bhairava are spoken as five boys.",
+   "uncertainties": [
+    "numerical mismatch"
+   ],
+   "plain_english": "Hanumat and Bhairava, these two, are spoken as five boys."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "svayam",
+     "gloss": "by-self",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental",
+     "morph": "pron.inst.sg.1"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tantroktāḥ",
+     "gloss": "tantra-stated",
+     "grounds": "tantra+ukta",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "bhāṣitāḥ",
+     "gloss": "spoken",
+     "grounds": "bhāṣ participle",
+     "morph": "v.3.pl.pass-past+bhāṣ"
+    },
+    {
+     "surface": "ṣaṭkumārakāḥ",
+     "gloss": "six-princes",
+     "grounds": "ṣaṭ+kumāraka",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "How many princes are stated in tantra and spoken by self?",
+   "premises": [
+    "svayam means by self",
+    "mayā means by me",
+    "ṣaṭkumārakāḥ means six princes"
+   ],
+   "inference": "Six princes are tantra-stated and spoken by the self.",
+   "uncertainties": [
+    "exact tantra source"
+   ],
+   "plain_english": "By myself, tantra-stated and spoken, six princes."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "yāmale",
+     "gloss": "in-yāmala",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "rudraśabdādau",
+     "gloss": "rudra-word",
+     "grounds": "rudra+śabda+ādi",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "bhāṣitāḥ",
+     "gloss": "spoken",
+     "grounds": "bhāṣ participle",
+     "morph": "v.3.pl.pass-past+bhāṣ"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven-boys",
+     "grounds": "numeral",
+     "morph": "num.nom.pl.m"
+    }
+   ],
+   "question": "How many boys are spoken in the Yāmala under Rudra?",
+   "premises": [
+    "yāmale means in Yāmala",
+    "rudraśabdādau means rudra-word",
+    "sapta means seven"
+   ],
+   "inference": "Seven boys are spoken in the Yāmala under Rudra.",
+   "uncertainties": [
+    "ādau scope"
+   ],
+   "plain_english": "In the Yāmala, under Rudra-word, seven boys are spoken."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "śaṃkaraṃ",
+     "gloss": "śaṃkara",
+     "grounds": "śaṃkara",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ṣaṭśiro",
+     "gloss": "six-headed",
+     "grounds": "ṣaṭ+śiras",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "mantra",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pallavam",
+     "gloss": "sprout",
+     "grounds": "pallava",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "should-draw-out",
+     "grounds": "uddhṛ optative",
+     "morph": "v.3.sg.act-opt+uddhṛ"
+    }
+   ],
+   "question": "How should the six-headed Śaṃkara mantra sprout be drawn out?",
+   "premises": [
+    "śaṃkaraṃ means Śaṃkara",
+    "ṣaṭśiro means six-headed",
+    "mantraṃ means mantra"
+   ],
+   "inference": "The verse instructs drawing out the six-headed Śaṃkara mantra sprout.",
+   "uncertainties": [
+    "pallava sense"
+   ],
+   "plain_english": "Then the six-headed Śaṃkara mantra sprout should be drawn out."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṭhadvayaṃ",
+     "gloss": "ṭha-pair",
+     "grounds": "ṭha+dvaya",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "to-be-known",
+     "grounds": "jñā participle",
+     "morph": "v.3.sg.pass-fut+jñā"
+    },
+    {
+     "surface": "aṣṭāviṃśākṣaro",
+     "gloss": "twenty-eight-syllabled",
+     "grounds": "aṣṭā+viṃśa+akṣara",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "manu as mantra",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What twenty-eight-syllabled mantra is to be known at the end?",
+   "premises": [
+    "ante means at end",
+    "ṭhadvayaṃ means ṭha-pair",
+    "aṣṭāviṃśākṣaro means twenty-eight-syllabled"
+   ],
+   "inference": "The ṭha-pair mantra is twenty-eight-syllabled and to be known at the end.",
+   "uncertainties": [
+    "exact mantra identity"
+   ],
+   "plain_english": "At the end also the ṭha-pair is to be known, a twenty-eight-syllabled mantra."
+  }
+ ]
+}

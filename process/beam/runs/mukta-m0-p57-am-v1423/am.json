@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1423,
- "question": "What color is assigned to this deity in the iconographic description?",
+ "question": "How is purification obtained after washing?",
  "premises": [
-  "the verse names a color",
-  "the color is golden"
+  "the material is washed with sour gruels",
+  "it is to be dried",
+  "purification is then obtained"
  ],
- "inference": "the deity's color is golden",
+ "inference": "Purification is obtained by washing with sour gruels and drying the material.",
  "uncertainties": [
-  "subject identity is not explicit"
+  "the exact drying method is unspecified"
  ],
- "plain_english": "The color is golden."
+ "plain_english": "Wash it with sour gruels, dry it, and obtain purification."
 }

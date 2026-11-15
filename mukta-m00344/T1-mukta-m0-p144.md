@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p144-v3576
-[pain+knowledge](duḥkha+buddhiḥ) [that](sā) [indeed](hi) [in-the-visible](dṛśye) [hear](śṛṇu) [you](tvaṃ) [brahman-demon](brahma+rākṣasa)
+[suffering-mind](duḥkhabuddhiḥ) [that](sā) [indeed](hi) [in-visible](dṛśye) [hear](śṛṇu) [you](tvaṃ) [brahmarakshasa](brahmarākṣasa)
 
 ## mukta-m0-p144-v3577
-[fault+vision](dos'+dṛṣṭiḥ) [that](sā) [indeed](hi) [thus](iti)
+[fault-vision](dos'dṛṣṭiḥ)
 
 ## mukta-m0-p144-v3578
-[there](tatra) [or](vā) [what](kiṃ) [cause](nidānaṃ) [may-be](syād) [say-this](vada+etat) [king+son](nṛpa+nandana)
+[there](tatra) [or](vā) [what](kiṃ) [cause](nidānaṃ) [be](syād) [tell-this](vadaitat) [prince-son](nṛpanandana)
 
 ## mukta-m0-p144-v3579
-[thus-all](etat+sarvaṃ) [consideration+etc](vicāra+ādikam) [by-what](kena) [means](sādhanena) [cause](nidānaṃ) [root+cause](mūla+kāraṇam)
+[this-all](etatsarvaṃ) [inquiry-etc](vicārādikam) [by-what](kena) [means](sādhanena) [cause](nidānaṃ) [root-cause](mūlakāraṇam)
 
 ## mukta-m0-p144-v3580
-[cause](nidānaṃ) [good+company](sat+saṅga) [only](eva) [hear](śṛṇu) [you](tvaṃ) [brahman-demon](brahma+rākṣasa)
+[cause](nidānaṃ) [good-company](satsaṅga) [indeed](eva) [hear](śṛṇu) [you](tvaṃ) [brahmarakshasa](brahmarākṣasa)
 
 ## mukta-m0-p144-v3581
-[he](saḥ) [is](asti) [grace](anugrahaḥ) [thus](iti)
+[he](saḥ) [grace](anugrahaḥ)
 
 ## mukta-m0-p144-v3582
-[good-ones+and](santaḥ+ca) [of-what-kind](kīdṛśāḥ) [said](proktā) [say-this](vada+etat) [king+son](nṛpa+nandana)
+[saints-and](santaśca) [what-kind](kīdṛśāḥ) [said](proktā) [tell-this](vadaitat) [prince-son](nṛpanandana)
 
 ## mukta-m0-p144-v3583
-[good-ones](santaḥ) [peaceful](śāntāḥ) [compassion+possessed](dayā+vantaḥ) [hear](śṛṇu) [you](tvaṃ) [brahman-demon](brahma+rākṣasa)
+[saints](santaḥ) [peaceful](śāntā) [compassionate](dayāvantaḥ) [hear](śṛṇu) [you](tvaṃ) [brahmarakshasa](brahmarākṣasa)
 
 ## mukta-m0-p144-v3584
-[world+supporter](jagat+dhātrī) [world+controller](jagat+niyantrī) [that+devotion](tat+paratvaṃ) [that+inclination](tat+pravaṇatvam)
+[world-sustainer](jagaddhātrī) [world-controller](jaganniyantrī) [that-devotion](tatparatvaṃ) [that-inclination](tatpravaṇatvam)
 
 ## mukta-m0-p144-v3585
-[always](sadā) [misery+endowed](dainya+yutaḥ) [who](ko) [or](vā) [say-this](vada+etat) [king+son](nṛpa+nandana)
+[always](sadā) [humility-endowed](dainyayutaḥ) [who](ko) [or](vā) [tell-this](vadaitat) [prince-son](nṛpanandana)
 
 ## mukta-m0-p144-v3586
-[hope+seized](āśā+grastaḥ) [always](sadā) [wretched](dīnaḥ) [hear](śṛṇu) [you](tvaṃ) [brahman-demon](brahma+rākṣasa)
+[hope-overwhelmed](āśāgrastaḥ) [always](sadā) [humble](dīnaḥ) [hear](śṛṇu) [you](tvaṃ) [brahmarakshasa](brahmarākṣasa)
 
 ## mukta-m0-p144-v3587
-[not+wretched](a+dīnaḥ) [always](sarvadā) [who](kaḥ) [may-be](syād) [say-this](vada+etat) [king+son](nṛpa+nandana)
+[not-humble](adīnaḥ) [always](sarvadā) [who](kaḥ) [be](syād) [tell-this](vadaitat) [prince-son](nṛpanandana)
 
 ## mukta-m0-p144-v3588
-[knower+knowable](jñāta+jñeyaḥ) [you+not+wretched+self](tva+a+dīna+ātmā) [hear](śṛṇu) [you](tvaṃ) [brahman-demon](brahma+rākṣasa)
+[knower-known](jñātajñeyastvadīnātmā) [hear](śṛṇu) [you](tvaṃ) [brahmarakshasa](brahmarākṣasa)
 
 ## mukta-m0-p144-v3589
-[knower+knowable](jñāta+jñeyaḥ) [knower](jñānī) [is](asti) [thus](iti)
+[knower-known](jñātajñeyo) [knower](jñānī)
 
 ## mukta-m0-p144-v3590
-[without+action](niṣ+kriyasya) [action](kriyā) [what](kā) [may-be](syād) [say-this](vada+etat) [king+son](nṛpa+nandana)
+[actionless's](niṣkriyasya) [action](kriyā) [what](kā) [be](syād) [tell-this](vadaitat) [prince-son](nṛpanandana)
 
 ## mukta-m0-p144-v3591
-[without+body](vi+dehaḥ) [body+deprived](deha+rahitaḥ) [is](asti) [thus](iti)
+[bodiless](videho) [body-less](deharahitaḥ)
 
 ## mukta-m0-p144-v3592
-[that+action](tat+kriyā) [without+action+said](niṣ+kriyasya+uktā) [hear](śṛṇu) [you](tvaṃ) [brahman-demon](brahma+rākṣasa)
+[that-action](tatkriyā) [actionless-said](niṣkriyasyoktā) [hear](śṛṇu) [you](tvaṃ) [brahmarakshasa](brahmarākṣasa)
 
 ## mukta-m0-p144-v3593
-[and+ego+absence+without+body](ca+abhimāna+abhāvāt+vi+dehaḥ) [without+action+and](niṣ+kriyaḥ+ca) [living+liberated](jīvan+muktaḥ)
+[and-ego-absence](cābhimānābhāvādvideho) [actionless-and](niṣkiryaśca) [liberated-while-living](jīvanmuktaḥ)
 
 ## mukta-m0-p144-v3594
-[so-much+having-said](etāvat+uktvā) [o-king](nṛpate) [release](mocaya) [quickly](drutam) [elder+brother](agra+jam)
+[this-much](etāvaduktvā) [king](nṛpate) [release](mocaya) [quickly](drutam) [elder-brother](agrajam)
 
 ## mukta-m0-p144-v3595
-[so-much](etāvat) [final](caramam) [question+three](praśna+trayam) [is](asti) [this](idam)
+[this-much](etāvat) [final](caramaṃ) [question-triad](praśnatrayam)
 
 ## mukta-m0-p144-v3596
-[said+this](uktam+etat) [o-brahman-demon](brahma+rakṣaḥ) [release](muñca) [my+brother](mat+bhrātaram) [quickly](drutam)
+[said-this](uktametad) [brahmarakshasa](brahmarakṣo) [release](muñca) [my-brother](madbhrātaraṃ) [quickly](drutam)
 
 ## mukta-m0-p144-v3597
-[that+object+related+behavior+of+non+possibility](tat+viṣayaka+vyavahārasya+a+sambhavitvam) [is](asti) [thus](iti)
+[that-subject](tadviṣayaka) [transaction](vyavahārasya) [impossibility](asambhavitvam)
 
 ## mukta-m0-p144-v3598
-[rukma+armlet](rukma+aṅgadaṃ) [then](tataḥ) [afterward+became](paścāt+abhavat) [brahmin](brāhmaṇaḥ) [indeed](hi) [he](saḥ)
+[rukmangada](rukmāṅgadaṃ) [then](tataḥ) [afterwards](paścādabhavad) [brahmin](brāhmaṇo) [indeed](hi) [he](saḥ)
 
 ## mukta-m0-p144-v3599
-[this](etat) [question+answer](praśna+uttaram) [he](saḥ) [brahman-demon](brahma+rākṣasaḥ)
+[this](etat) [question-answer](praśnottaram) [he](saḥ) [brahmarakshasa](brahmarākṣasaḥ)
 
 ## mukta-m0-p144-v3600
-[asked](papracchatu) [king+two-sons](rāja+sutau) [who](kaḥ) [you+thus](bhavān+iti) [doubtful-two](śaṅkitau)
+[asked](papracchatū) [two-prince-sons](rājasutau) [who](ko) [you-thus](bhavāniti) [doubtful](śaṅkitau)

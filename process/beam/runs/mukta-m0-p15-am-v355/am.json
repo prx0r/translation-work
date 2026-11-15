@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 355,
- "question": "Which attributes and color characterize this deity in the named samhita?",
+ "question": "Which goddess is meditated upon in the heart?",
  "premises": [
-  "The verse lists held objects.",
-  "The verse states a color."
+  "she is seated on a lion throne",
+  "she wears a yellow garment",
+  "she is the great goddess kālarātrī"
  ],
- "inference": "The deity's iconographic form is specified by those attributes and color.",
+ "inference": "The meditated goddess is kālarātrī, seated on a lion throne and wearing yellow.",
  "uncertainties": [
-  "Legacy hints only; sandhi not expanded."
+  "exact compound parsing"
  ],
- "plain_english": "Ph-named, with parrot and nose, she bears boon-fearlessness and arrows."
+ "plain_english": "I meditate in my heart on the great goddess kālarātrī, seated on a lion throne and wearing a yellow garment."
 }

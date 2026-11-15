@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p01",
  "verse": 8,
- "question": "Who is situated in the middle of the water as great protectress Tripurasundarī?",
+ "question": "How is trimūrti described in color, eyes, and arms?",
  "premises": [
-  "water middle is named",
-  "protectress is named",
-  "great Tripurasundarī is named"
+  "trimūrtiṃ is trimūrti",
+  "kuṅkuma+prakhyaṃ is saffron-colored",
+  "triṇetraṃ is three-eyed",
+  "ca is and",
+  "caturbhujam is four-armed"
  ],
- "inference": "Great Tripurasundarī is situated in the middle of the water as protectress",
+ "inference": "Trimūrti is saffron-colored, three-eyed, and four-armed.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "whether trimūrti names a deity or form"
  ],
- "plain_english": "Great Tripurasundarī is situated in the middle of the water as protectress."
+ "plain_english": "Trimūrti is saffron-colored, three-eyed, and four-armed."
 }

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 15,
- "question": "What worshipped thing among all texts etc. should be heard?",
+ "question": "Which three eggs are listed together?",
  "premises": [
-  "all texts etc. are named",
-  "worshipped is stated",
-  "hearing and speaking are stated"
+  "sūkṣma+aṇḍaṃ is sūkṣma-egg",
+  "śivottama+aṇḍam is śivottama-egg",
+  "ekanetra+rudra+aṇḍakam is ekanetra-rudra-egg"
  ],
- "inference": "The worshipped thing among all texts etc. should be heard",
+ "inference": "The three eggs are sūkṣma, śivottama, and ekanetra-rudra.",
  "uncertainties": [
-  "exact case parsing approximate"
+  "whether these are cosmological eggs"
  ],
- "plain_english": "Hear that worshipped thing among all texts and so on; I speak."
+ "plain_english": "The three eggs are sūkṣma, śivottama, and ekanetra-rudra."
 }

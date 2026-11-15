@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p14-v326
-[only](kevala) [own+words](sva+vacasi) [of-him](tasya) [non+confidence+arising](an+āśvāsa+sambhavāt) [thus](iti) [meaning](bhāvaḥ) [this](idam) [to-be-stated](vakṣyamāṇam)
+kevala-sva-vacasi (only-own-speech) tasya-anāśvāsa-sambhavāt (of-his-no-consolation-occurrence) iti (thus) bhāvaḥ (meaning) idam (this) vakṣyamāṇam (to-be-spoken)
 
 ## mukta-m0-p14-v327
-[inquiry+devoted](vicāra+paramā) [always](nityam) [not](na) [end](antam) [reaches](eti) [here](atra) [my](me) [mind](matiḥ)
+vicāra-paramā (inquiry-supreme) nityam (always) na-antam (not-end) etra (here) me (my) matiḥ (opinion)
 
 ## mukta-m0-p14-v328
-[chief+to-be-meditated](mukhya+dhyeyaḥ) [of-which](yasyāḥ) [end](antam) [certainty](niścayam)
+mukhya-dhyeyaḥ (chief-object) yasyāḥ (whose) antam (end) niścayam (certainty)
 
 ## mukta-m0-p14-v329
-[not](na) [this](etat) [I-know](jānāmi) [truth](tattvam) [to-me](me) [to-tell](vaktum) [you-should](arhasi) [in-truth](tattvataḥ)
+na-etat-jānāmi (not-this-know) tattvam (truth) me (to-me) vaktum-arhasi (to-speak-should) tattvataḥ (truly)
 
 ## mukta-m0-p14-v330
-[dear+and+not-dear+nature](priya+apriya+svarūpasya) [truth](tattvam) [reality](yāthārthyam)
+priya-apriya-svarūpasya (pleasant-unpleasant-nature) tattvam (truth) yāthārthyam (reality)
 
 ## mukta-m0-p14-v331
-[certainly](nūnam) [women](striyaḥ) [dull+minded](mūḍha+dhiyaḥ) [thus](iti) [truth](satyam) [not](na) [doubt](saṃśayaḥ)
+nūnam (surely) striyaḥ (women) mūḍha-dhiyaḥ (foolish-minded) iti (thus) satyam (true) na (not) saṃśayaḥ (doubt)
 
 ## mukta-m0-p14-v332
-[because](yataḥ) [of-them](teṣām) [is-seen](dṛśyate) [indeed](hi) [in-dear-things](priyeṣu) [and](ca) [in-not-dear-things](apriyakeṣu)
+yataḥ (because) teṣām (their) dṛśyate (is-seen) hi (indeed) priyeṣu (in-pleasant) apriyakeṣu (in-unpleasant) ca (and)
 
 ## mukta-m0-p14-v333
-[thus](iti) [meaning](bhāvaḥ)
+iti (thus) bhāvaḥ (meaning)
 
 ## mukta-m0-p14-v334
-[happiness](sukham) [from-which](yasmāt) [that](tat) [dear](priyam) [should-be](syāt) [suffering](duḥkham) [from-which](yasmāt) [that](tat) [not-dear](apriyam)
+sukham (pleasure) yasmāt (because) tat (that) priyam (pleasant) syāt (may-be) duḥkham (pain) yasmāt (because) tad-apriyam (that-unpleasant)
 
 ## mukta-m0-p14-v335
-[having-heard](śrutvā) [dear+words](priya+vacaḥ) [spoke](prāha) [Hemalekha](hemalekhā) [again](punaḥ) [dear-thing](priyam)
+śrutvā (having-heard) priya-vacaḥ (pleasant-speech) prāha (said) hemalekhā (Hemalekha) punaḥ (again) priyam (pleasant)
 
 ## mukta-m0-p14-v336
-[even-so](tathā+api) [I](aham) [to-be-instructed](bodhanīyā) [by-you](tvayā) [properly+discerning](samyak+vimarśinā)
+tathā-api (nevertheless) aham (I) bodhanīyā (to-be-instructed) tvayā (by-you) samyag-vimarśinā (properly-reflective)
 
 ## mukta-m0-p14-v337
-[good+reflection](sat+vimarśanam) [proper+inquiry](samyak+vicāraḥ)
+sad-vimarśanam (good-reflection) samyag-vicāraḥ (proper-inquiry)
 
 ## mukta-m0-p14-v338
-[by-you](tvayā) [in-enjoyments](bhogeṣu) [constantly](satatam) [I-become](bhavāmi) [daily](anudinam) [therefore](tataḥ)
+tvayā (by-you) bhogeṣu (in-enjoyments) satatam (constantly) bhavāmi (I-become) anudinam (daily) tataḥ (therefore)
 
 ## mukta-m0-p14-v339
-[in-enjoyments](bhogeṣu) [attached](āsaktā) [I-become](bhavāmi) [therefore](tataḥ) [after+instruction](bodhana+anantaram)
+bhogeṣu-āsaktā (attached-to-enjoyments) bhavāmi (I-become) tataḥ (therefore) bodhana-anantaram (after-instruction)
 
 ## mukta-m0-p14-v340
-[dear+and+not-dear](priya+apriye) [defined](vinirdiṣṭe) [by-you](tvayā) [subtle+discerning](sūkṣma+vimarśinā)
+priya-apriye (pleasant-unpleasant) vinirdiṣṭe (distinguished) tvayā (by-you) sūkṣma-vimarśinā (subtle-reflective)
 
 ## mukta-m0-p14-v341
-[its+definition](tat+lakṣaṇam) [to-refute](dūṣayitum) [restates](anuvadati) [O-king](rājan) [thus+beginning](iti+ādi)
+tat-lakṣaṇam (its-definition) dūṣayitum (to-refute) anuvadati (repeats) rājan (O-king) ityādi (etc)
 
 ## mukta-m0-p14-v342
-[would-produce](janayet) [here](atra) [that](tat) [why](kasmāt) [conviction+determined](pratiṣṭhā+adhyavasāyinī)
+janayet (would-produce) atra (here) tat (that) kasmāt (why) pratiṣṭhā (stability) adhyavasāyinī (determined)
 
 ## mukta-m0-p14-v343
-[determined](adhyavasāyinī) [possessing+certainty](niścaya+vatī)
+adhyavasāyinī (determined) niścayavatī (certain)
 
 ## mukta-m0-p14-v344
-[likewise](tathā) [by-place+difference](deśa+vibhedena) [also](api) [by-form+difference](ākārasya) [by-difference](vibhedataḥ)
+tathā (thus) deśa-vibhedena (by-place-difference) api (also) ākārasya (of-form) vibhedataḥ (by-difference)
 
 ## mukta-m0-p14-v345
-[that](tat) [indeed](eva) [explains](nirūpayati) [because](yataḥ) [thus](iti) [of-different+results](pṛthak+phalasya) [of-happiness+etc.](sukha+ādeḥ) [giver](pradaḥ) [indeed](eva)
+tat-eva (that-same) nirūpayati (explains) yataḥ (because) iti (thus) pṛthak-phalasya (of-separate-result) sukhādeḥ (of-pleasure-etc) pradaḥ (giver) eva (indeed)
 
 ## mukta-m0-p14-v346
-[by-cold+hot+place+difference](hima+uṣṇa+deśa+bhedena) [dear](priyaḥ) [and](ca) [not-dear](apriyaḥ) [indeed](eva)
+hima-uṣṇa-deśa-bhedena (by-cold-hot-place-difference) priyaḥ (pleasant) ca (and) apriyaḥ (unpleasant) eva (indeed) ca (and)
 
 ## mukta-m0-p14-v347
-[this](etat) [indeed](eva) [having-analyzed](vivicya) [says](āha) [cold+etc.](śīta+iti)
+etat-eva (this-same) vivicya (distinguishing) āha (says) śīta (cold) iti (thus)
 
 ## mukta-m0-p14-v348
-[and-also](atha+api) [by-greater+degree](adhika+bhāvena) [by-lesser+degree](alpa+bhāvena) [thus](evam) [stated](īritaḥ)
+atha-api (then-also) adhika-bhāvena (by-greater-degree) alpa-bhāvena (by-lesser-degree) evam (thus) īritaḥ (stated)
 
 ## mukta-m0-p14-v349
-[by-being-a-means](sādhakatvena) [dear](priyaḥ) [and-not-dear](apriyaḥ) [and](ca)
+sādhakatvena (by-efficacy) priyaḥ (pleasant) apriyaḥ (unpleasant) ca (and)
 
 ## mukta-m0-p14-v350
-[and-also](atha+api) [thus](evam) [great+king](mahā+rājaḥ) [by-wife+son+wealth](dāra+putra+dhanaiḥ) [surrounded](vṛtaḥ)
+atha-api (then-also) evam (thus) mahārājaḥ (great-king) dāra-putra-dhanaiḥ (by-wife-son-wealth) vṛtaḥ (surrounded)
