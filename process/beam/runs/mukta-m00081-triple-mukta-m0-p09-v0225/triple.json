@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a hypothetical case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "auṣṇyāvyatirekatve",
+     "gloss": "in-heat-inseparability",
+     "grounds": "compound expressing the state of being inseparable from heat",
+     "morph": "auṣṇya-avyatireka-tva, loc.sg.n."
+    },
+    {
+     "surface": "dṛṣṭānto",
+     "gloss": "example",
+     "grounds": "illustrative instance cited in the argument",
+     "morph": "dṛṣṭānta, m.nom.sg."
+    },
+    {
+     "surface": "dāhakāśrayāt",
+     "gloss": "from-burning-substrate",
+     "grounds": "ablative source indicating the locus of burning used as example",
+     "morph": "dāhaka-āśraya, abl.sg."
+    }
+   ],
+   "question": "Can the burning substrate serve as a valid example when heat is inseparable?",
+   "premises": [
+    "Heat is treated as inseparable from fire.",
+    "An example is proposed from the burning substrate.",
+    "A valid example requires a distinguishable basis of reference."
+   ],
+   "inference": "If heat is inseparable, appealing to the burning substrate as an example is problematic.",
+   "uncertainties": [
+    "The implied apodosis of the conditional clause is not explicitly stated in this verse."
+   ],
+   "plain_english": "If, given inseparability from heat, the example is taken from the substrate of burning."
+  }
+ ]
+}

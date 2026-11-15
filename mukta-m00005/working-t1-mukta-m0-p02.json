@@ -16,7 +16,7 @@
 },
 {
 "surface": "pūrvakatvaṃ",
-"quick_gloss": "preceded-by"
+"quick_gloss": "preceded-by-ness"
 },
 {
 "surface": "siddham",
@@ -106,15 +106,15 @@
 },
 {
 "surface": "acaitanye",
-"quick_gloss": "in-non-consciousness"
+"quick_gloss": "in-unconsciousness"
 },
 {
 "surface": "sati",
-"quick_gloss": "being"
+"quick_gloss": "being-so"
 },
 {
 "surface": "anekatvāt",
-"quick_gloss": "by-multiplicity"
+"quick_gloss": "because-of-multiplicity"
 },
 {
 "surface": "kāraṇa",
@@ -122,7 +122,7 @@
 },
 {
 "surface": "pūrvakatvaṃ",
-"quick_gloss": "preceded-by"
+"quick_gloss": "preceded-by-ness"
 },
 {
 "surface": "siddhyati",
@@ -155,15 +155,15 @@
 },
 {
 "surface": "kramam",
-"quick_gloss": "in-order"
+"quick_gloss": "in-sequence"
 },
 {
 "surface": "icchanti",
-"quick_gloss": "desire"
+"quick_gloss": "they-desire"
 },
 {
 "surface": "dharmiṇām",
-"quick_gloss": "of-entities"
+"quick_gloss": "of-attribute-possessors"
 }
 ]
 },
@@ -225,12 +225,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "by-that"
-},
-{
-"surface": "āpūrakatayā",
-"quick_gloss": "by-fulfillment"
+"surface": "tadāpūrakatayā",
+"quick_gloss": "by-its-fulfillment"
 },
 {
 "surface": "ca",
@@ -296,11 +292,11 @@
 "tokens": [
 {
 "surface": "sthāneṣu",
-"quick_gloss": "in-places"
+"quick_gloss": "in-locations"
 },
 {
 "surface": "satsu",
-"quick_gloss": "being"
+"quick_gloss": "being-present"
 },
 {
 "surface": "tāni",
@@ -337,11 +333,11 @@
 },
 {
 "surface": "icchanti",
-"quick_gloss": "desire"
+"quick_gloss": "they-desire"
 },
 {
 "surface": "naiyāyika",
-"quick_gloss": "naiyāyikas"
+"quick_gloss": "Naiyāyikas"
 },
 {
 "surface": "ādayaḥ",
@@ -386,7 +382,7 @@
 },
 {
 "surface": "karmaṇāṃ",
-"quick_gloss": "of-actions"
+"quick_gloss": "by-actions"
 },
 {
 "surface": "vaśāt",
@@ -435,7 +431,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "ekakaraṇāḥ",
+"surface": "ekakaraṇā",
 "quick_gloss": "single-instrument"
 },
 {
@@ -465,7 +461,7 @@
 "tokens": [
 {
 "surface": "dṛśyate",
-"quick_gloss": "is-seen"
+"quick_gloss": "it-is-seen"
 },
 {
 "surface": "iti",
@@ -514,7 +510,7 @@
 },
 {
 "surface": "sannidhau",
-"quick_gloss": "in-presence"
+"quick_gloss": "in-proximity"
 }
 ]
 },
@@ -535,7 +531,7 @@
 },
 {
 "surface": "adhvavasitam",
-"quick_gloss": "determined"
+"quick_gloss": "ascertained"
 },
 {
 "surface": "arthaṃ",
@@ -564,23 +560,27 @@
 "tokens": [
 {
 "surface": "sthāneṣu",
-"quick_gloss": "in-places"
+"quick_gloss": "in-locations"
 },
 {
 "surface": "satsu",
-"quick_gloss": "being"
+"quick_gloss": "being-present"
 },
 {
 "surface": "vaikalyāt",
-"quick_gloss": "by-defect"
+"quick_gloss": "due-to-deficiency"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "saṃvijjñāyate",
-"quick_gloss": "is-cognized"
+"surface": "saṃvijjñā",
+"quick_gloss": "cognition"
+},
+{
+"surface": "āyate",
+"quick_gloss": "is-known"
 },
 {
 "surface": "yataḥ",
@@ -608,7 +608,7 @@
 "quick_gloss": "instruments"
 },
 {
-"surface": "antaḥ",
+"surface": "antar",
 "quick_gloss": "internal"
 },
 {
@@ -634,7 +634,7 @@
 "tokens": [
 {
 "surface": "prapañcayiṣyate",
-"quick_gloss": "will-be-elaborated"
+"quick_gloss": "it-will-be-elaborated"
 }
 ]
 },
@@ -651,11 +651,11 @@
 },
 {
 "surface": "udvāhi",
-"quick_gloss": "carriers"
+"quick_gloss": "carrier"
 },
 {
 "surface": "naravat",
-"quick_gloss": "like"
+"quick_gloss": "man"
 },
 {
 "surface": "eka",
@@ -663,7 +663,7 @@
 },
 {
 "surface": "apāyena",
-"quick_gloss": "failure"
+"quick_gloss": "by-failure"
 },
 {
 "surface": "tātaḥ",
@@ -830,8 +830,8 @@
 "quick_gloss": "consciousness"
 },
 {
-"surface": "vāyutvāt",
-"quick_gloss": "because-of-airness"
+"surface": "vāyutvād",
+"quick_gloss": "because-of-air-ness"
 },
 {
 "surface": "bāhyavāyuvat",
@@ -851,8 +851,8 @@
 "quick_gloss": "consciousness"
 },
 {
-"surface": "vāyutvāt",
-"quick_gloss": "because-of-airness"
+"surface": "vāyutvād",
+"quick_gloss": "because-of-air-ness"
 },
 {
 "surface": "bāhyavāyuvat",

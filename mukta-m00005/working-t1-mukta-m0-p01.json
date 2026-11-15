@@ -73,20 +73,24 @@
 "quick_gloss": "I-speak"
 },
 {
-"surface": "sādhaka+bodhāya",
-"quick_gloss": "for-the-instruction-of-practitioners"
+"surface": "bodhāya",
+"quick_gloss": "for-the-instruction"
 },
 {
-"surface": "leśataḥ",
+"surface": "sādhaka",
+"quick_gloss": "of-practitioners"
+},
+{
+"surface": "leśato",
 "quick_gloss": "briefly"
 },
 {
 "surface": "yukti",
-"quick_gloss": "in-reasoning"
+"quick_gloss": "in-logical"
 },
 {
 "surface": "saṃskṛtau",
-"quick_gloss": "refined-composition"
+"quick_gloss": "composition"
 }
 ]
 },
@@ -98,8 +102,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raurava+anusāreṇa",
-"quick_gloss": "following-the-Raurava"
+"surface": "anusāreṇa",
+"quick_gloss": "according-to"
+},
+{
+"surface": "raurava",
+"quick_gloss": "the-Raurava"
 },
 {
 "surface": "eva",
@@ -107,7 +115,7 @@
 },
 {
 "surface": "saṃkṣepād",
-"quick_gloss": "concisely"
+"quick_gloss": "briefly"
 },
 {
 "surface": "vadāmi",
@@ -123,16 +131,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karma+āśaya+anurūpeṇa",
-"quick_gloss": "according-to-karmic-residue"
+"surface": "anurūpeṇa",
+"quick_gloss": "in-accordance-with"
+},
+{
+"surface": "āśaya",
+"quick_gloss": "the-residue"
+},
+{
+"surface": "karma",
+"quick_gloss": "of-karma"
 },
 {
 "surface": "cidvatāṃ",
-"quick_gloss": "of-conscious-beings"
+"quick_gloss": "of-the-conscious-beings"
 },
 {
-"surface": "bhava+maṇḍale",
-"quick_gloss": "in-the-sphere-of-becoming"
+"surface": "maṇḍale",
+"quick_gloss": "in-the-sphere"
+},
+{
+"surface": "bhava",
+"quick_gloss": "of-becoming"
 }
 ]
 },
@@ -144,8 +164,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrīmat+svāyaṃbhuve-",
-"quick_gloss": "in-the-revered-Svāyaṃbhuva"
+"surface": "śrīmat",
+"quick_gloss": "in-the-revered"
+},
+{
+"surface": "svāyaṃbhuve",
+"quick_gloss": "Svāyaṃbhuva"
 },
 {
 "surface": "yadi",
@@ -205,12 +229,20 @@
 "quick_gloss": "is-accomplished"
 },
 {
-"surface": "bhogaḥ",
+"surface": "bhogo",
 "quick_gloss": "enjoyment"
 },
 {
-"surface": "buddhi+vṛtti+anurañjanaḥ",
-"quick_gloss": "by-the-coloring-of-intellect’s-operations"
+"surface": "anurañjanaḥ",
+"quick_gloss": "by-the-coloring"
+},
+{
+"surface": "vṛtti",
+"quick_gloss": "of-the-operations"
+},
+{
+"surface": "buddhi",
+"quick_gloss": "of-the-intellect"
 }
 ]
 },
@@ -230,8 +262,20 @@
 "quick_gloss": "of-the-soul"
 },
 {
-"surface": "sukha+duḥkha+ādi+lakṣaṇā",
-"quick_gloss": "characterized-by-pleasure-and-pain-etc."
+"surface": "lakṣaṇā",
+"quick_gloss": "characterized-by"
+},
+{
+"surface": "sukha",
+"quick_gloss": "pleasure"
+},
+{
+"surface": "duḥkha",
+"quick_gloss": "pain"
+},
+{
+"surface": "ādi",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "iti",
@@ -247,8 +291,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva+mātrā+āpūra+puṣṭānāṃ",
-"quick_gloss": "of-those-filled-and-nourished-by-their-own-measure"
+"surface": "puṣṭānāṃ",
+"quick_gloss": "of-those-nourished"
+},
+{
+"surface": "āpūra",
+"quick_gloss": "by-the-filling"
+},
+{
+"surface": "sva+mātra",
+"quick_gloss": "of-their-own-measure"
 },
 {
 "surface": "gamayanti",
@@ -285,20 +337,28 @@
 "quick_gloss": "arrangement"
 },
 {
-"surface": "avakāśa+dānaṃ",
-"quick_gloss": "giving-of-space"
+"surface": "dānaṃ",
+"quick_gloss": "giving"
+},
+{
+"surface": "avakāśa",
+"quick_gloss": "of-space"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "vṛttayaḥ",
+"surface": "vṛttayo",
 "quick_gloss": "functions"
 },
 {
-"surface": "vasudhā+ādiṣu",
-"quick_gloss": "in-earth-etc."
+"surface": "vasudhā",
+"quick_gloss": "in-earth"
+},
+{
+"surface": "ādiṣu",
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -318,24 +378,20 @@
 "quick_gloss": "of-fire"
 },
 {
-"surface": "|",
-"quick_gloss": "|"
-},
-{
 "surface": "vyūhaḥ",
 "quick_gloss": "arrangement"
 },
 {
-"surface": "avayava+ghaṭanaṃ",
-"quick_gloss": "combination-of-parts"
+"surface": "ghaṭanaṃ",
+"quick_gloss": "combination"
+},
+{
+"surface": "avayava",
+"quick_gloss": "of-parts"
 },
 {
 "surface": "vāyoḥ",
 "quick_gloss": "of-wind"
-},
-{
-"surface": "|",
-"quick_gloss": "|"
 },
 {
 "surface": "avakāśasya",
@@ -363,7 +419,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yoneḥ",
+"surface": "yoner",
 "quick_gloss": "from-womb"
 },
 {
@@ -383,8 +439,12 @@
 "quick_gloss": "it-goes"
 },
 {
-"surface": "pum+bhoga+siddhaye",
-"quick_gloss": "for-the-accomplishment-of-the-soul’s-enjoyment"
+"surface": "siddhaye",
+"quick_gloss": "for-the-accomplishment"
+},
+{
+"surface": "puṃ+bhoga",
+"quick_gloss": "of-the-soul's-enjoyment"
 }
 ]
 },
@@ -404,12 +464,8 @@
 "quick_gloss": "this"
 },
 {
-"surface": "|",
-"quick_gloss": "|"
-},
-{
-"surface": "karma+vaśataḥ",
-"quick_gloss": "due-to-karma"
+"surface": "karma+vaśato",
+"quick_gloss": "by-the-force-of-karma"
 },
 {
 "surface": "bhuvana",
@@ -436,14 +492,6 @@
 "quick_gloss": "in-all"
 },
 {
-"surface": "||",
-"quick_gloss": "||"
-},
-{
-"surface": "(ślo0 24-25",
-"quick_gloss": "(verse-24-25)"
-},
-{
 "surface": "iti",
 "quick_gloss": "thus"
 }
@@ -457,24 +505,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "akṣa+ādhāraḥ",
-"quick_gloss": "support-of-the-senses"
+"surface": "ādhāraḥ",
+"quick_gloss": "support"
 },
 {
-"surface": "akṣa+gamyaḥ",
-"quick_gloss": "perceptible-by-the-senses"
+"surface": "akṣa",
+"quick_gloss": "of-the-senses"
+},
+{
+"surface": "gamyaḥ",
+"quick_gloss": "perceivable"
+},
+{
+"surface": "akṣa",
+"quick_gloss": "by-the-senses"
 },
 {
 "surface": "ayam",
 "quick_gloss": "this"
 },
 {
-"surface": "an+īśānāṃ",
-"quick_gloss": "for-those-without-lordship"
+"surface": "anīśānāṃ",
+"quick_gloss": "of-the-powerless"
 },
 {
-"surface": "piśācavat",
-"quick_gloss": "like-a-ghost"
+"surface": "vat",
+"quick_gloss": "like"
+},
+{
+"surface": "piśāca",
+"quick_gloss": "a-ghost"
 }
 ]
 },
@@ -486,8 +546,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śukla+ādi",
-"quick_gloss": "white-etc."
+"surface": "śukla",
+"quick_gloss": "white"
+},
+{
+"surface": "ādi",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "śuklaṃ",
@@ -499,7 +563,7 @@
 },
 {
 "surface": "bhāsvat",
-"quick_gloss": "shining"
+"quick_gloss": "luminous"
 },
 {
 "surface": "rūpaṃ",
@@ -560,8 +624,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pratiśabdaka+saṃghātaḥ",
-"quick_gloss": "collection-of-echoes"
+"surface": "saṃghātaḥ",
+"quick_gloss": "collection"
+},
+{
+"surface": "pratiśabdaka",
+"quick_gloss": "of-reverberating-sounds"
 },
 {
 "surface": "nabhasy",
@@ -619,7 +687,7 @@
 },
 {
 "surface": "citraṃ",
-"quick_gloss": "picture"
+"quick_gloss": "a-picture"
 },
 {
 "surface": "paṭe",
@@ -647,20 +715,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "krama+vyaṅgyatvataḥ",
-"quick_gloss": "because-of-being-manifested-sequentially"
+"surface": "hetoḥ",
+"quick_gloss": "because-of-the-reason"
 },
 {
-"surface": "hetoḥ",
-"quick_gloss": "due-to-the-reason"
+"surface": "krama+vyaṅgyatvato",
+"quick_gloss": "of-being-manifested-sequentially"
 },
 {
 "surface": "gocaratvaṃ",
-"quick_gloss": "the-state-of-being-an-object"
+"quick_gloss": "to-the-state-of-being-an-object"
 },
 {
 "surface": "vrajanti",
-"quick_gloss": "go-to"
+"quick_gloss": "go"
 },
 {
 "surface": "amī",
@@ -677,11 +745,11 @@
 "tokens": [
 {
 "surface": "viṣayatāṃ",
-"quick_gloss": "objecthood"
+"quick_gloss": "the-state-of-being-an-object"
 },
 {
 "surface": "prāpnuvanti",
-"quick_gloss": "they-obtain"
+"quick_gloss": "they-attain"
 }
 ]
 },
@@ -694,15 +762,19 @@
 "tokens": [
 {
 "surface": "dharitryāṃ",
-"quick_gloss": "on-earth"
+"quick_gloss": "in-earth"
 },
 {
 "surface": "hi",
 "quick_gloss": "indeed"
 },
 {
-"surface": "jala+ādīnām",
-"quick_gloss": "of-water-etc."
+"surface": "jala",
+"quick_gloss": "of-water"
+},
+{
+"surface": "ādīnām",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "agrahe+api",
@@ -722,12 +794,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jala+ādiṣu",
-"quick_gloss": "in-water-etc."
+"surface": "jala",
+"quick_gloss": "in-water"
+},
+{
+"surface": "ādiṣu",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "evam+eva",
-"quick_gloss": "in-the-same-way"
+"quick_gloss": "in-this-very-way"
 },
 {
 "surface": "ayaṃ",
@@ -775,8 +851,12 @@
 "quick_gloss": "of-the-reason"
 },
 {
-"surface": "upahite maṇau",
-"quick_gloss": "in-the-adorned-jewel"
+"surface": "maṇau",
+"quick_gloss": "in-the-jewel"
+},
+{
+"surface": "upahite",
+"quick_gloss": "when-superimposed"
 }
 ]
 }

@@ -1,0 +1,471 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1313,
+   "rows": [
+    {
+     "surface": "svarṇe",
+     "gloss": "in-gold",
+     "grounds": "locative of material; one option for making the cakra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raupye",
+     "gloss": "in-silver",
+     "grounds": "locative of material; alternative option",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lauhe",
+     "gloss": "in-iron",
+     "grounds": "locative of material; alternative option",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle completing the list of alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "disk",
+     "grounds": "ritual diagram or cakra to be fashioned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation or prescription",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "ablative adverb indicating prescribed procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which materials and by what rule should the ritual cakra be fashioned?",
+   "premises": [
+    "The cakra is to be made.",
+    "Gold, silver, or iron are acceptable materials.",
+    "The making must follow prescribed rules."
+   ],
+   "inference": "The ritual cakra may be fashioned from gold, silver, or iron in accordance with the prescribed procedure.",
+   "uncertainties": [],
+   "plain_english": "The cakra should be made of gold, or silver, or iron, according to the prescribed rule."
+  },
+  {
+   "verse": 1314,
+   "rows": [
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-the-seat",
+     "grounds": "genitive indicating the ritual seat as reference point",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-the-north",
+     "grounds": "locative indicating direction relative to the seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "guru+paṃkti+pūjā",
+     "gloss": "guru-line-worship",
+     "grounds": "compound naming the worship of the lineage of gurus",
+     "morph": "compound=f+f+f; f.nom.sg"
+    }
+   ],
+   "question": "Where must the worship of the guru lineage be performed relative to the ritual seat?",
+   "premises": [
+    "The ritual seat serves as the spatial reference.",
+    "The northern direction is specified.",
+    "Worship of the guru lineage is prescribed."
+   ],
+   "inference": "The worship of the guru lineage is to be performed to the north of the ritual seat.",
+   "uncertainties": [],
+   "plain_english": "To the north of the seat, the worship of the guru lineage should be performed."
+  },
+  {
+   "verse": 1315,
+   "rows": [
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental indicating the mantra used in worship",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pādya+ādibhiḥ",
+     "gloss": "with-foot-water-etc",
+     "grounds": "compound with ādi indicating foot-water and other offerings",
+     "morph": "compound=n+pron; n.inst.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing the act of worship",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "By what mantra and with which offerings should the prescribed worship be conducted?",
+   "premises": [
+    "The root mantra is to be employed.",
+    "Foot-water and other offerings are to be used.",
+    "Worship is enjoined as a ritual act."
+   ],
+   "inference": "One should perform the worship using the root mantra together with foot-water and other offerings.",
+   "uncertainties": [],
+   "plain_english": "One should worship with the root mantra, using foot-water and other offerings."
+  },
+  {
+   "verse": 1316,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-offer",
+     "grounds": "optative prescribing an offering; object implied from context",
+     "morph": "3.sg.opt.act √dā"
+    }
+   ],
+   "question": "What ritual action of offering is enjoined at this stage of the procedure?",
+   "premises": [
+    "An offering is prescribed.",
+    "The optative mood indicates ritual injunction.",
+    "The specific offering is contextually understood."
+   ],
+   "inference": "One should make the prescribed offering at this point in the ritual.",
+   "uncertainties": [
+    "The specific object to be offered is not explicitly stated in this verse."
+   ],
+   "plain_english": "One should offer it."
+  },
+  {
+   "verse": 1317,
+   "rows": [
+    {
+     "surface": "mahākālaṃ",
+     "gloss": "mahākāla",
+     "grounds": "accusative object naming the deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship of Mahākāla",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "Which deity must be worshipped at this point in the ritual sequence?",
+   "premises": [
+    "Mahākāla is named as the object.",
+    "Worship is prescribed by the optative.",
+    "This follows the preceding ritual actions."
+   ],
+   "inference": "One should worship Mahākāla at this stage.",
+   "uncertainties": [],
+   "plain_english": "One should worship Mahākāla."
+  },
+  {
+   "verse": 1318,
+   "rows": [
+    {
+     "surface": "jaṭā+bhāra+lasat+candra+khaṇḍam",
+     "gloss": "matted-hair-mass-shining-moon-crescent",
+     "grounds": "bahuvrihi compound describing Mahākāla as bearing a shining moon-crescent in his mass of matted hair",
+     "morph": "compound=f+m+pres.part+m+m; m.acc.sg"
+    },
+    {
+     "surface": "ugraṃ",
+     "gloss": "fierce",
+     "grounds": "adjective describing Mahākāla's terrifying aspect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jvalat+nibham",
+     "gloss": "blazing-like",
+     "grounds": "compound adjective describing Mahākāla as resembling blazing fire",
+     "morph": "compound=pres.part+m; m.acc.sg"
+    }
+   ],
+   "question": "What iconographic features characterize Mahākāla in the prescribed visualization for worship?",
+   "premises": [
+    "Mahākāla bears a shining moon-crescent in his matted hair.",
+    "Mahākāla is described as fierce.",
+    "Mahākāla is described as blazing in appearance."
+   ],
+   "inference": "Mahākāla is to be worshipped as fierce, blazing, and adorned with a shining moon-crescent in his matted hair.",
+   "uncertainties": [],
+   "plain_english": "He has a shining crescent moon in his mass of matted hair, is fierce, and looks like blazing fire."
+  },
+  {
+   "verse": 1319,
+   "rows": [
+    {
+     "surface": "pañca+apacoraiḥ",
+     "gloss": "with-five-apacoras",
+     "grounds": "instrumental compound indicating five specific ritual offerings or substances",
+     "morph": "compound=num+m; m.inst.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship with these offerings",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "With which set of five ritual items should Mahākāla be worshipped?",
+   "premises": [
+    "Five apacoras are specified as instruments.",
+    "Worship is prescribed by the optative.",
+    "These items accompany the worship of Mahākāla."
+   ],
+   "inference": "One should worship Mahākāla with the five apacoras.",
+   "uncertainties": [
+    "The exact identity of the five apacoras is not specified in this verse."
+   ],
+   "plain_english": "One should worship him with the five apacoras."
+  },
+  {
+   "verse": 1320,
+   "rows": [
+    {
+     "surface": "phaṭ+svāhayā",
+     "gloss": "with-phaṭ-svāhā",
+     "grounds": "instrumental compound naming mantra syllables/terminations joined to the mantra",
+     "morph": "compound=indecl+f; f.inst.sg"
+    },
+    {
+     "surface": "samāyuktaḥ",
+     "gloss": "joined",
+     "grounds": "past participle indicating the mantra is conjoined with these elements",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the clause, the ritual formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva+artha+sādhakaḥ",
+     "gloss": "all-purpose-accomplishing",
+     "grounds": "compound predicate describing the mantra's efficacy",
+     "morph": "compound=adj+m+adj; m.nom.sg"
+    }
+   ],
+   "question": "What efficacy belongs to the mantra when it is joined with phaṭ and svāhā?",
+   "premises": [
+    "The mantra is joined with phaṭ and svāhā.",
+    "The mantra is described as accomplishing all purposes.",
+    "This describes the mantra's ritual power."
+   ],
+   "inference": "The mantra, when joined with phaṭ and svāhā, accomplishes all purposes.",
+   "uncertainties": [],
+   "plain_english": "The mantra, joined with phaṭ and svāhā, accomplishes all purposes."
+  },
+  {
+   "verse": 1321,
+   "rows": [
+    {
+     "surface": "brahma+yoni+samutpanne",
+     "gloss": "from-brahma-womb-arisen",
+     "grounds": "vocative compound addressing the goddess as arisen from the womb of Brahma",
+     "morph": "compound=m+f+past-part; f.voc.sg"
+    },
+    {
+     "surface": "gaccha",
+     "gloss": "go",
+     "grounds": "imperative commanding the goddess to depart",
+     "morph": "2.sg.imp.act √gam"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mama+antaram",
+     "gloss": "my-interior",
+     "grounds": "compound indicating the interior of the practitioner as destination",
+     "morph": "compound=pron+n; n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the mantra formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental indicating the formula to be used",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What mantra formula directs the goddess arisen from Brahma's womb to enter the practitioner's interior?",
+   "premises": [
+    "The goddess is addressed as arisen from Brahma's womb.",
+    "She is commanded to go into the practitioner's interior.",
+    "This command is delivered as a mantra."
+   ],
+   "inference": "With this mantra, the goddess arisen from Brahma's womb is directed to enter the practitioner's interior.",
+   "uncertainties": [],
+   "plain_english": "With the mantra: 'O goddess arisen from the womb of Brahma, go into my interior.'"
+  },
+  {
+   "verse": 1322,
+   "rows": [
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "absolutive indicating prior action of drinking",
+     "morph": "abs. √pā"
+    },
+    {
+     "surface": "nirmālyaṃ",
+     "gloss": "remains",
+     "grounds": "accusative object referring to ritual remnants or offered substances",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "locative indicating placement on the head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vidhṛtya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior action of placing or holding",
+     "morph": "abs. vi+√dhṛ"
+    },
+    {
+     "surface": "yathā+icchaṃ",
+     "gloss": "as-desired",
+     "grounds": "compound adverbial expression indicating freedom of movement",
+     "morph": "compound=indecl+n; (indecl.)"
+    },
+    {
+     "surface": "viharet",
+     "gloss": "one-should-move",
+     "grounds": "optative prescribing free conduct after the ritual acts",
+     "morph": "3.sg.opt.act vi+√hṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking the conclusion of the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions and subsequent conduct are prescribed after consuming and placing the ritual remains?",
+   "premises": [
+    "The ritual remains are to be drunk.",
+    "The remains are to be placed on the head.",
+    "Free movement is permitted afterward."
+   ],
+   "inference": "After drinking the remains and placing them on the head, one may move about as desired.",
+   "uncertainties": [],
+   "plain_english": "Having drunk the remains and placed them on the head, one should move about as one wishes."
+  },
+  {
+   "verse": 1323,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the preceding procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmya+jape",
+     "gloss": "desire-based-recitation",
+     "grounds": "locative compound specifying recitation performed for a desired aim",
+     "morph": "compound=adj+m; m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "restrictive particle limiting the application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking the conclusion of the specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which specific type of mantra recitation does the preceding ritual procedure apply?",
+   "premises": [
+    "The preceding procedure is referred to as this.",
+    "Desire-based recitation is specified.",
+    "The restrictive particle limits application to that context."
+   ],
+   "inference": "The preceding procedure applies specifically to desire-based recitation.",
+   "uncertainties": [],
+   "plain_english": "This applies only in desire-based recitation."
+  },
+  {
+   "verse": 1324,
+   "rows": [
+    {
+     "surface": "sarva+siddhi+yutaḥ",
+     "gloss": "all-siddhi-endowed",
+     "grounds": "compound describing one possessed of all accomplishments",
+     "morph": "compound=adj+f+past-part; m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive indicating attainment of that state",
+     "morph": "abs. √bhū"
+    },
+    {
+     "surface": "bhairavaḥ",
+     "gloss": "bhairava",
+     "grounds": "predicate nominative indicating identification with Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vatsarāt",
+     "gloss": "within-a-year",
+     "grounds": "ablative indicating the time within which the result occurs",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative stating the promised result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What transformative result is attained within a year through the prescribed practice?",
+   "premises": [
+    "The practitioner becomes endowed with all siddhis.",
+    "The practitioner becomes Bhairava.",
+    "This result occurs within a year."
+   ],
+   "inference": "Within a year, the practitioner becomes endowed with all siddhis and becomes Bhairava.",
+   "uncertainties": [],
+   "plain_english": "Having become endowed with all siddhis, one becomes Bhairava within a year."
+  }
+ ]
+}

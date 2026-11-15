@@ -1,0 +1,137 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1301,
+   "rows": [
+    {
+     "surface": "sarvāṅge",
+     "gloss": "in-all-limbs",
+     "grounds": "locative of sarvāṅga; points to placement across all limbs in the rite.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "krīṃ",
+     "gloss": "krīṃ",
+     "grounds": "bīja syllable; transliterated exactly, not translated (mantra material).",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīlakāya",
+     "gloss": "to-the-pin",
+     "grounds": "dative of kīlaka; offering/assignment to the pin (kīlaka) in this formula.",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable salutation formula closing the offering.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering formula is prescribed by assigning the bīja krīṃ to the kīlaka across all limbs?",
+   "premises": [
+    "The formula places krīṃ in relation to all limbs.",
+    "The bīja krīṃ is assigned to the kīlaka by dative offering.",
+    "The clause closes with the obeisance formula namaḥ."
+   ],
+   "inference": "Verse 1301 prescribes the mantra offering: in all limbs, krīṃ to the kīlaka, obeisance.",
+   "uncertainties": [
+    "Exact ritual function of kīlaka here is not specified in this verse alone."
+   ],
+   "plain_english": "In all limbs, (offer) krīṃ to the kīlaka: obeisance."
+  },
+  {
+   "verse": 1302,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred syllable; transliterated exactly, not translated (mantra material).",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krāṃ",
+     "gloss": "krāṃ",
+     "grounds": "bīja syllable; transliterated exactly, not translated (mantra material).",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃguṣṭhābhyāṃ",
+     "gloss": "to-the-thumbs",
+     "grounds": "instrumental/dative dual of aṃguṣṭha in this formulaic offering to the thumbs.",
+     "morph": "m.inst-dual"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable salutation formula closing the offering.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+ādinā",
+     "gloss": "thus-beginning",
+     "grounds": "iti + ādinā (compound/fused form as given); means 'beginning with thus' indicating the formula continues in that manner.",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle indicating an alternative form or continuation.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative offering form is indicated for the thumbs using oṃ and krāṃ followed by an etcetera clause?",
+   "premises": [
+    "The formula offers oṃ krāṃ to the thumbs with namaḥ.",
+    "The token iti+ādinā signals a formula beginning thus and continuing.",
+    "The particle vā marks this as an alternative option."
+   ],
+   "inference": "Verse 1302 gives the offering oṃ krāṃ to the thumbs, obeisance, and indicates by iti+ādinā vā an alternative or continued form beginning thus.",
+   "uncertainties": [
+    "The full extension after iti+ādinā is not shown in this verse."
+   ],
+   "plain_english": "Oṃ krāṃ to the thumbs, obeisance; or (the formula) beginning thus, and so on."
+  },
+  {
+   "verse": 1303,
+   "rows": [
+    {
+     "surface": "parigṛhīta+bhairavīya+vākyāt",
+     "gloss": "from-accepted-bhairavī-statement",
+     "grounds": "ablative of a compound: parigṛhīta + bhairavīya + vākya; 'from the accepted statement of Bhairavī'.",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ubhayam",
+     "gloss": "both",
+     "grounds": "nominative/accusative neuter of ubhaya; refers to the two alternatives/formulas in view.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle restricting to the stated point.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "proper",
+     "grounds": "nominative neuter past participle/adj. yuj; means fitting or proper.",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "On what authority is it affirmed that both presented alternatives are proper in this ritual instruction?",
+   "premises": [
+    "The source cited is the accepted statement of Bhairavī.",
+    "The term ubhayam points to two alternatives under consideration.",
+    "The verdict given is that both are indeed proper (yuktam)."
+   ],
+   "inference": "From the accepted Bhairavī statement, both alternatives are indeed proper.",
+   "uncertainties": [
+    "Which two specific alternatives are meant depends on the immediately preceding verses (1301–1302 context)."
+   ],
+   "plain_english": "From the accepted statement of Bhairavī, both are indeed proper."
+  }
+ ]
+}

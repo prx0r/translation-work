@@ -1,0 +1,1153 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "paśyantyāḥ",
+     "gloss": "of-seeing-speech",
+     "grounds": "genitive of the subject whose manifestability is denied",
+     "morph": "f.gen.sg.pres.part.root dṛś"
+    },
+    {
+     "surface": "satyarūpāyā",
+     "gloss": "of-true-nature",
+     "grounds": "qualifies paśyantyāḥ as truly real",
+     "morph": "f.gen.sg.compound satya+rūpa"
+    },
+    {
+     "surface": "asatyair",
+     "gloss": "by-unreal-things",
+     "grounds": "instrumental agents proposed for manifestation",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vyaṅgyatā",
+     "gloss": "manifestability",
+     "grounds": "state of being made manifest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates manifestability",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective adding to prior argument",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Can unreal things manifest the seeing-speech whose nature is true?",
+   "premises": [
+    "Seeing-speech possesses a true nature.",
+    "Unreal things lack the capacity to manifest what is truly real."
+   ],
+   "inference": "Unreal things cannot manifest seeing-speech.",
+   "uncertainties": [],
+   "plain_english": "And the seeing-speech, whose nature is true, cannot be manifested by unreal things."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "paśyantī",
+     "gloss": "seeing-speech",
+     "grounds": "subject whose establishment is questioned",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative challenge",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pramāṇena",
+     "gloss": "by-means-of-knowledge",
+     "grounds": "instrument of valid cognition",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-which",
+     "grounds": "interrogative seeking the means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "refers back to seeing-speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pratipādyate",
+     "gloss": "is-established",
+     "grounds": "passive action of being proven or made known",
+     "morph": "3.sg.pass.pres.root pratipad"
+    }
+   ],
+   "question": "By what means of knowledge can that seeing-speech be established?",
+   "premises": [
+    "Establishing something requires a valid means of knowledge.",
+    "No valid means of knowledge for seeing-speech has been identified."
+   ],
+   "inference": "Seeing-speech cannot be established by any available means of knowledge.",
+   "uncertainties": [],
+   "plain_english": "Or by what means of knowledge is that seeing-speech established?"
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "bhavadbhir",
+     "gloss": "by-you",
+     "grounds": "addresses the opponent's own position",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the opponent's own admission",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the capacity attributed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āptasya",
+     "gloss": "of-unreliable-one",
+     "grounds": "one lacking direct experience or authority",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ananubhūtārthavaktṛtā",
+     "gloss": "speaking-of-unexperienced-object",
+     "grounds": "capacity to speak of what is not experienced",
+     "morph": "f.nom.sg.compound ananubhūta+artha+vaktṛtā"
+    }
+   ],
+   "question": "Can an unreliable person speak authoritatively about an unexperienced object?",
+   "premises": [
+    "You yourselves deny that an unreliable person can speak of unexperienced objects.",
+    "Speaking of seeing-speech without direct access would require such speaking."
+   ],
+   "inference": "The opponent cannot consistently claim to establish seeing-speech.",
+   "uncertainties": [],
+   "plain_english": "For you yourselves hold that one who is not reliable cannot speak of an object not experienced."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "draws consequence from prior reasoning",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "introduces a logical consequence",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aparasya",
+     "gloss": "of-another",
+     "grounds": "another subject to whom seeing-speech becomes object",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "refers to seeing-speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paśyantī",
+     "gloss": "seeing-speech",
+     "grounds": "subject under discussion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karmatāṃ",
+     "gloss": "to-objecthood",
+     "grounds": "state of becoming an object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "has attained objecthood",
+     "morph": "f.nom.sg.past.part.root gam"
+    }
+   ],
+   "question": "Does seeing-speech become an object for another cognizing subject?",
+   "premises": [
+    "If seeing-speech is established by another, it becomes that other's object.",
+    "Becoming an object contradicts its nature as self-luminous seeing."
+   ],
+   "inference": "Seeing-speech cannot be made an object for another without contradiction.",
+   "uncertainties": [],
+   "plain_english": "Thus, then, that seeing-speech would become an object for another."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "pratibhā",
+     "gloss": "intuition",
+     "grounds": "proposed alternative means of knowing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "stated",
+     "grounds": "asserted by the opponent",
+     "morph": "f.nom.sg.past.part.root kath"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to intuition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring back to intuition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anumānaṃ",
+     "gloss": "inference",
+     "grounds": "candidate category for intuition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates identification as inference",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to inference as a valid means for opponent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds further negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "te",
+     "gloss": "for-you",
+     "grounds": "addresses opponent's system",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Can intuition establish seeing-speech as a valid means for the opponent?",
+   "premises": [
+    "Intuition might be proposed as the means to know seeing-speech.",
+    "Intuition is not inference, and inference is not accepted by you here."
+   ],
+   "inference": "Intuition cannot serve as a valid means of knowledge for the opponent.",
+   "uncertainties": [],
+   "plain_english": "Or if intuition is proposed, that is not inference, and inference is not valid for you."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "svātmanā",
+     "gloss": "by-own-self",
+     "grounds": "instrumental self-apprehension",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "object of self-apprehension",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces a hypothetical alternative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "marks conditional supposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paśyantī",
+     "gloss": "seeing-speech",
+     "grounds": "subject proposed to see itself",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to seeing-speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "hypothetical future state",
+     "morph": "3.sg.act.fut.root bhū"
+    }
+   ],
+   "question": "Can seeing-speech apprehend itself by its own self?",
+   "premises": [
+    "One might propose that seeing-speech sees itself by itself.",
+    "Self-apprehension would require a distinction between seer and seen."
+   ],
+   "inference": "The proposal of self-apprehension raises a further difficulty.",
+   "uncertainties": [],
+   "plain_english": "Now if that seeing-speech will apprehend itself by its own self—"
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "vaktavyam",
+     "gloss": "to-be-stated",
+     "grounds": "something that must be explained",
+     "morph": "n.nom.sg.gerundive.root vac"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis on necessity",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasyāpi",
+     "gloss": "of-that-also",
+     "grounds": "extends the question to that self-seeing",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "paśyantīṃ",
+     "gloss": "seeing-speech",
+     "grounds": "the seeing-speech as object of seeing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paśya",
+     "gloss": "see",
+     "grounds": "imperative directing attention to the problem",
+     "morph": "2.sg.act.impv.root dṛś"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative referring to the seeing instance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "itself",
+     "grounds": "emphasizes self-reflexivity",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What sees the seeing-speech when it is said to see itself?",
+   "premises": [
+    "If seeing-speech sees itself, that seeing must itself be accounted for.",
+    "A further seer would be required to see the seeing-speech."
+   ],
+   "inference": "Self-seeing leads to an unresolved regress or contradiction.",
+   "uncertainties": [],
+   "plain_english": "Then it must indeed be explained: see, what itself sees that seeing-speech?"
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "asatyaḥ",
+     "gloss": "unreal",
+     "grounds": "lacking true reality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratipādyaḥ",
+     "gloss": "to-be-established",
+     "grounds": "that which is to be proven",
+     "morph": "m.nom.sg.gerundive.root pratipad"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "in this proposed framework",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "asatyaḥ",
+     "gloss": "unreal",
+     "grounds": "lacking true reality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratipādakaḥ",
+     "gloss": "establishing-agent",
+     "grounds": "that which establishes",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can an unreal establisher prove an unreal object in this framework?",
+   "premises": [
+    "In this view the object to be established is unreal.",
+    "The agent that establishes it is also unreal."
+   ],
+   "inference": "Neither the object nor the establisher has reality in this framework.",
+   "uncertainties": [],
+   "plain_english": "In this view, what is to be established is unreal, and the establisher is unreal."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "interrogative instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to seeing-speech or its reality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative question",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pramāṇena",
+     "gloss": "by-means-of-knowledge",
+     "grounds": "valid cognitive instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sthāpyate",
+     "gloss": "is-established",
+     "grounds": "is made to stand as real",
+     "morph": "3.sg.pass.pres.caus.root sthā"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the proposed means",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "satyatā",
+     "gloss": "reality",
+     "grounds": "truth or reality of that means",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What guarantees the reality of the means used to establish seeing-speech?",
+   "premises": [
+    "Any means used to establish seeing-speech must itself be real.",
+    "The reality of that means has not been demonstrated."
+   ],
+   "inference": "The proposed means of establishment lacks guaranteed reality.",
+   "uncertainties": [],
+   "plain_english": "Or by what means of knowledge is it established, and what is the reality of that means?"
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "sādhuśabdasamuccārāt",
+     "gloss": "from-correct-word-utterance",
+     "grounds": "source claimed to produce merit or result",
+     "morph": "m.abl.sg.compound sādhu+śabda+samuccāra"
+    },
+    {
+     "surface": "kasya",
+     "gloss": "of-whom",
+     "grounds": "interrogative asking who benefits",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svargādiyogitā",
+     "gloss": "connection-with-heaven-etc",
+     "grounds": "attainment of heaven and similar results",
+     "morph": "f.nom.sg.compound svarga+ādi+yogitā"
+    }
+   ],
+   "question": "Who gains connection with heaven from the utterance of correct words?",
+   "premises": [
+    "Correct word utterance is claimed to yield results like heaven.",
+    "If the underlying speech principle is unreal, the beneficiary is unclear."
+   ],
+   "inference": "The claimed fruit of correct utterance becomes untenable.",
+   "uncertainties": [],
+   "plain_english": "For whom is there connection with heaven and such results from the utterance of correct words?"
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "madhyamādeḥ",
+     "gloss": "of-middle-speech-etc",
+     "grounds": "levels of speech beginning with middle",
+     "morph": "f.gen.sg.compound madhyamā+ādi"
+    },
+    {
+     "surface": "jaḍāyāḥ",
+     "gloss": "of-inert",
+     "grounds": "characterized as insentient",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative challenging value",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhogena",
+     "gloss": "with-enjoyment",
+     "grounds": "experience or fruition",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śabalātmanā",
+     "gloss": "with-variegated-nature",
+     "grounds": "mixed or manifold character",
+     "morph": "m.inst.sg.compound śabala+ātman"
+    }
+   ],
+   "question": "What enjoyment can inert and variegated middle speech and others provide?",
+   "premises": [
+    "Middle speech and related levels are treated as inert and variegated.",
+    "Inert entities cannot be subjects of genuine enjoyment."
+   ],
+   "inference": "Attributing enjoyment to inert levels of speech is incoherent.",
+   "uncertainties": [],
+   "plain_english": "What enjoyment can there be for inert middle speech and the rest, with their variegated nature?"
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "consequence of preceding arguments",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vyākaraṇasya",
+     "gloss": "of-grammar",
+     "grounds": "the science of language",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extends consequence to grammar",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samucchedaḥ",
+     "gloss": "annihilation",
+     "grounds": "complete undermining or destruction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upaiti",
+     "gloss": "comes-about",
+     "grounds": "results or ensues",
+     "morph": "3.sg.act.pres.root upa+i"
+    },
+    {
+     "surface": "te",
+     "gloss": "for-you",
+     "grounds": "addresses the opponent",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Does the opponent's position lead to the annihilation of grammar?",
+   "premises": [
+    "The opponent's account undermines the reality of speech.",
+    "Grammar depends on the reality and functioning of speech."
+   ],
+   "inference": "The opponent's position entails the annihilation of grammar.",
+   "uncertainties": [],
+   "plain_english": "Thus, for you, even grammar comes to be annihilated."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "samucchinnaṃ",
+     "gloss": "annihilated",
+     "grounds": "that which has been cut off",
+     "morph": "n.nom.sg.past.part.root sam+ud+chid"
+    },
+    {
+     "surface": "heyam",
+     "gloss": "to-be-abandoned",
+     "grounds": "fit to be rejected",
+     "morph": "n.nom.sg.gerundive.root hā"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic conclusion",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential or logical result",
+     "morph": "3.sg.act.opt.root as"
+    }
+   ],
+   "question": "Should a view that annihilates grammar be abandoned as untenable?",
+   "premises": [
+    "A position that annihilates grammar is self-undermining.",
+    "Self-undermining positions should be abandoned."
+   ],
+   "inference": "Such a position should indeed be abandoned.",
+   "uncertainties": [],
+   "plain_english": "What is thus annihilated would indeed have to be abandoned."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "bhavatām",
+     "gloss": "by-you",
+     "grounds": "addresses the opponents",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "aprastutena",
+     "gloss": "with-irrelevant-matter",
+     "grounds": "something not pertinent to the topic",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kevala",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uditam",
+     "gloss": "stated",
+     "grounds": "what has been said",
+     "morph": "n.nom.sg.past.part.root vad"
+    }
+   ],
+   "question": "Have the opponents stated only irrelevant matters in this discussion?",
+   "premises": [
+    "The opponents' claims fail to address the core issue.",
+    "Irrelevant statements do not establish the point at stake."
+   ],
+   "inference": "The opponents' statements are not merely irrelevant but also ineffective.",
+   "uncertainties": [
+    "Scope of 'not only' is compressed in the verse"
+   ],
+   "plain_english": "Not only has irrelevant matter been stated here by you."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "svānubhūtiḥ",
+     "gloss": "own-experience",
+     "grounds": "direct self-experience",
+     "morph": "f.nom.sg.compound sva+anubhūti"
+    },
+    {
+     "surface": "vartamānakālena",
+     "gloss": "in-present-time",
+     "grounds": "temporal qualification",
+     "morph": "m.inst.sg.compound vartamāna+kāla"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the subject or self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vibhāvyate",
+     "gloss": "is-apprehended",
+     "grounds": "is distinctly cognized",
+     "morph": "3.sg.pass.pres.caus.root bhū"
+    }
+   ],
+   "question": "Is self-experience apprehended only within present time?",
+   "premises": [
+    "The opponent may claim self-experience is apprehended in present time.",
+    "Temporal limitation raises questions about the nature of that experience."
+   ],
+   "inference": "Framing self-experience as temporally limited is problematic.",
+   "uncertainties": [],
+   "plain_english": "This one's own experience is apprehended in present time."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "anantasya",
+     "gloss": "of-infinite",
+     "grounds": "that which is without limit",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "anubhūtiḥ",
+     "gloss": "experience",
+     "grounds": "direct apprehension",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative challenging possibility",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paricchedaṃ vinā",
+     "gloss": "without-limitation",
+     "grounds": "absence of delimitation",
+     "morph": "indecl.compound pariccheda+vinā"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "the self as subject of experience",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How can the infinite self be experienced without any limitation?",
+   "premises": [
+    "Experience ordinarily involves limitation or delimitation.",
+    "The self is claimed to be infinite."
+   ],
+   "inference": "Experiencing the infinite self without limitation is conceptually problematic for the opponent.",
+   "uncertainties": [],
+   "plain_english": "What experience of the infinite self is possible without limitation?"
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "asarvagapramāṇaṃ",
+     "gloss": "not-all-pervading-means",
+     "grounds": "a means of knowledge that is not all-pervading",
+     "morph": "n.nom.sg.compound a+sarvaga+pramāṇa"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "grounds the claim",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mūrtiḥ",
+     "gloss": "form",
+     "grounds": "limited form or embodiment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lakṣyate",
+     "gloss": "is-observed",
+     "grounds": "is perceived or characterized",
+     "morph": "3.sg.pass.pres.root lakṣ"
+    },
+    {
+     "surface": "citaḥ",
+     "gloss": "of-consciousness",
+     "grounds": "consciousness as the subject",
+     "morph": "f.gen.sg"
+    }
+   ],
+   "question": "Can consciousness possess a limited form known by a non-all-pervading means?",
+   "premises": [
+    "A non-all-pervading means of knowledge apprehends limited forms.",
+    "Consciousness is not observed to have such a limited form."
+   ],
+   "inference": "Consciousness cannot be grasped as a limited form by a limited means.",
+   "uncertainties": [],
+   "plain_english": "Indeed, a form of consciousness is not observed through a means of knowledge that is not all-pervading."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "kāṭhinyaṃ",
+     "gloss": "hardness",
+     "grounds": "material quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative example",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cit",
+     "gloss": "consciousness",
+     "grounds": "conscious principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.act.pres.root bhū"
+    },
+    {
+     "surface": "tatkathaṃ",
+     "gloss": "therefore-how",
+     "grounds": "rhetorical challenge",
+     "morph": "indecl.compound tat+katham"
+    },
+    {
+     "surface": "cinmūrtayaḥ",
+     "gloss": "consciousness-forms",
+     "grounds": "forms made of consciousness",
+     "morph": "f.nom.pl.compound cit+mūrti"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the question",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How can there be forms of consciousness if consciousness lacks material hardness?",
+   "premises": [
+    "Consciousness does not become a material quality like hardness.",
+    "Material forms presuppose such qualities."
+   ],
+   "inference": "Positing forms of consciousness as material forms is incoherent.",
+   "uncertainties": [],
+   "plain_english": "Consciousness does not become hardness; so how, then, can there be forms of consciousness?"
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "anādinā",
+     "gloss": "by-beginningless",
+     "grounds": "without beginning in time",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces an alternative claim",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-very",
+     "grounds": "emphatic reference to the same principle",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śabdatattvena",
+     "gloss": "by-word-principle",
+     "grounds": "the principle of speech",
+     "morph": "n.inst.sg.compound śabda+tattva"
+    },
+    {
+     "surface": "tulyatā",
+     "gloss": "equality",
+     "grounds": "sameness or parity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does appeal to a beginningless word-principle establish equality with the opponent's view?",
+   "premises": [
+    "The opponent may claim parity by invoking a beginningless word-principle.",
+    "Mere beginninglessness does not resolve the stated defects."
+   ],
+   "inference": "Invoking a beginningless word-principle does not establish equality.",
+   "uncertainties": [],
+   "plain_english": "Now, is there equality by appeal to that very beginningless word-principle?"
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "pramāṇābhāvādidūṣaṇatā",
+     "gloss": "faultiness-from-lack-of-means-etc",
+     "grounds": "defects such as absence of valid means",
+     "morph": "f.nom.sg.compound pramāṇa+abhāva+ādi+dūṣaṇatā"
+    },
+    {
+     "surface": "sphoṭātmanā",
+     "gloss": "of-sphoṭa-nature",
+     "grounds": "characterized as sphoṭa",
+     "morph": "m.inst.sg.compound sphoṭa+ātman"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative formulation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Does a sphoṭa-based word-principle escape faults like absence of valid means?",
+   "premises": [
+    "The word-principle may be conceived as sphoṭa.",
+    "Faults such as lack of valid means still apply."
+   ],
+   "inference": "A sphoṭa-based account remains subject to the same faults.",
+   "uncertainties": [],
+   "plain_english": "Or is there faultiness, such as the absence of means of knowledge, even for what is of the nature of sphoṭa?"
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "nityatve",
+     "gloss": "in-eternality",
+     "grounds": "under the assumption of eternality",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śabdatattvasya",
+     "gloss": "of-word-principle",
+     "grounds": "the principle of speech",
+     "morph": "n.gen.sg.compound śabda+tattva"
+    },
+    {
+     "surface": "vyaṅgyatvaṃ",
+     "gloss": "manifestability",
+     "grounds": "being manifested by something else",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhvanibhiḥ",
+     "gloss": "by-sounds",
+     "grounds": "articulated sounds as manifesters",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Can an eternal word-principle be manifested by transient sounds?",
+   "premises": [
+    "The word-principle is claimed to be eternal.",
+    "Manifestation by sounds would imply dependence on transient factors."
+   ],
+   "inference": "An eternal word-principle cannot be manifested by sounds in this way.",
+   "uncertainties": [],
+   "plain_english": "And if the word-principle is eternal, it cannot be manifested by sounds."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "bhavatpakṣe",
+     "gloss": "in-your-view",
+     "grounds": "in the opponent's position",
+     "morph": "m.loc.sg.compound bhavat+pakṣa"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation in rhetorical question",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical interrogative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyāyaḥ",
+     "gloss": "reasoning",
+     "grounds": "logical principle or rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "refers to the same reasoning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "comes",
+     "grounds": "applies or follows",
+     "morph": "3.sg.act.pres.root ā+yā"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional challenge",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Does the same reasoning not apply equally within the opponent's own view?",
+   "premises": [
+    "The opponent raises objections against the proposed account.",
+    "The same logical difficulties apply to the opponent's own position."
+   ],
+   "inference": "The opponent's view is subject to the same reasoning.",
+   "uncertainties": [],
+   "plain_english": "O Śiva, does not this same reasoning apply in your view as well?"
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "satyatvācca",
+     "gloss": "and-because-of-reality",
+     "grounds": "reason based on true reality",
+     "morph": "n.abl.sg.compound satyatva+ca"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tulyatvam",
+     "gloss": "equality",
+     "grounds": "parity between views",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "draws conclusion",
+     "morph": "indecl."
+    },
+    {
+     "surface": "asmāt",
+     "gloss": "from-this",
+     "grounds": "from this mistaken position",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "praviramyatām",
+     "gloss": "one-should-desist",
+     "grounds": "injunction to cease",
+     "morph": "3.sg.pass.impv.root pra+vi+ram"
+    }
+   ],
+   "question": "Why should one desist from equating the opponent's view with the true position?",
+   "premises": [
+    "The true position is grounded in reality.",
+    "Because of this reality, there is no equality with the opponent's view."
+   ],
+   "inference": "One should desist from the opponent's mistaken position.",
+   "uncertainties": [],
+   "plain_english": "And because of its reality there is no equality; therefore one should desist from this."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "jñānaśaktiḥ",
+     "gloss": "knowledge-power",
+     "grounds": "the power of knowing",
+     "morph": "f.nom.sg.compound jñāna+śakti"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "traditionally designated",
+     "morph": "f.nom.sg.past.part.root smṛ"
+    },
+    {
+     "surface": "bhaṅgyā",
+     "gloss": "figuratively",
+     "grounds": "by a figurative mode of expression",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "strīliṅgavyapadeśataḥ",
+     "gloss": "by-feminine-gender-designation",
+     "grounds": "due to designation in feminine gender",
+     "morph": "n.abl.sg.compound strīliṅga+vyapadeśa"
+    }
+   ],
+   "question": "Why is the power of knowledge designated figuratively with feminine gender?",
+   "premises": [
+    "The power of knowledge is spoken of in feminine gender.",
+    "Such designation is figurative rather than literal."
+   ],
+   "inference": "The feminine designation of knowledge-power is a figurative usage.",
+   "uncertainties": [],
+   "plain_english": "The power of knowledge is remembered figuratively, by designation in the feminine gender."
+  }
+ ]
+}

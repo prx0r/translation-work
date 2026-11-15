@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction continuing the preceding argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānaśaktitā",
+     "gloss": "knowledge-power-state",
+     "grounds": "compound: jñāna-śakti-tā; abstract condition of being knowledge-power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anupapattiḥ",
+     "gloss": "untenability",
+     "grounds": "logical impossibility or lack of establishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion of the reasoning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the condition of being knowledge-power logically untenable?",
+   "premises": [
+    "Knowledge-power is designated in feminine form only by figurative expression.",
+    "Figurative designation does not establish a real identical status.",
+    "A claimed condition lacking real establishment cannot be logically sustained."
+   ],
+   "inference": "Therefore, the condition of being knowledge-power is untenable.",
+   "uncertainties": [
+    "The precise subject to whom knowledge-power-state is being denied is supplied by the broader context."
+   ],
+   "plain_english": "And thus, the state of being knowledge-power is untenable."
+  }
+ ]
+}

@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1323,
- "question": "What pearl garland, srag, betel, and flower ornaments are used?",
+ "question": "To which specific type of mantra recitation does the preceding ritual procedure apply?",
  "premises": [
-  "muktādāma means pearl garland",
-  "srag means srag",
-  "pūga means betel",
-  "puṣpādyalaṅkṛtam means flower etc"
+  "The preceding procedure is referred to as this.",
+  "Desire-based recitation is specified.",
+  "The restrictive particle limits application to that context."
  ],
- "inference": "The pavilion is ornamented with pearl garland, srag, betel, and flowers.",
- "uncertainties": [
-  "srag is left as a technical term"
- ],
- "plain_english": "Pearl garland, srag, betel, flower etc ornamented."
+ "inference": "The preceding procedure applies specifically to desire-based recitation.",
+ "uncertainties": [],
+ "plain_english": "This applies only in desire-based recitation."
 }
