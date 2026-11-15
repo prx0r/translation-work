@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1231,
- "question": "With what offerings and at which locations should worship be performed?",
+ "question": "To whom should the hero present arghya-nectar?",
  "premises": [
-  "Worship occurs in various specific places.",
-  "Worship is directed to the limbs of the goddess.",
-  "Flowers anointed with scented water are used."
+  "arghyāmṛtaṃ is arghya-nectar",
+  "vīraḥ is hero",
+  "sāmayikebhyo is to sāmayika",
+  "nivedayet means let him present"
  ],
- "inference": "Worship should be performed on the limbs of the goddess in their respective places using flowers anointed with scented water.",
- "uncertainties": [],
- "plain_english": "In those various places, on the limbs of the goddess, one should worship with flowers anointed with scented water."
+ "inference": "The hero should present arghya-nectar to the sāmayika.",
+ "uncertainties": [
+  "sāmayika may mean initiated companions"
+ ],
+ "plain_english": "Then the hero should present arghya-nectar to the sāmayika."
 }

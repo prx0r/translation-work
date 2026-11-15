@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "snānodakaṃ",
+     "gloss": "bathing-water",
+     "grounds": "compound snāna+udakaṃ, accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chāyāṃ",
+     "gloss": "shadow",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "laṅghayenna",
+     "gloss": "should-not-cross",
+     "grounds": "optative third singular active of laṅghayati fused with negative na",
+     "morph": "3.sg.opt.act (laṅghayati) + (indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "never",
+     "grounds": "indeclinable adverb of time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "May a Kaula practitioner cross the guru's bathing water or shadow at any time?",
+   "premises": [
+    "Guru's bathing water must be protected.",
+    "Guru's shadow must not be crossed.",
+    "This restriction applies always."
+   ],
+   "inference": "The practitioner must never cross either the guru's bathing water or shadow.",
+   "uncertainties": [
+    "The exact ritual scope of laṅghayenna remains context-dependent."
+   ],
+   "plain_english": "Never cross the guru's bathing water or shadow."
+  }
+ ]
+}

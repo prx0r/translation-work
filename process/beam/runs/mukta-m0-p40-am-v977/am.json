@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 977,
- "question": "What follows the worship of the yoginis in this instruction?",
+ "question": "Which ritual implements and accessories are to be presented?",
  "premises": [
-  "The yoginis are to be worshipped.",
-  "Their mantras are mentioned next.",
-  "The supreme lady is addressed directly."
+  "mirror is listed",
+  "sandals are listed",
+  "umbrella fly-whisk and fan are listed"
  ],
- "inference": "After worshipping the yoginis, their mantras are to be given.",
- "uncertainties": [],
- "plain_english": "One should worship the yoginis; and, O supreme lady, their mantras follow."
+ "inference": "The rite includes presenting mirror, sandals, umbrella, fly-whisk, and fan among other items.",
+ "uncertainties": [
+  "whether all are mandatory or exemplary"
+ ],
+ "plain_english": "Mirror, sandals, umbrella, fly-whisk, fan, and similar items are presented."
 }

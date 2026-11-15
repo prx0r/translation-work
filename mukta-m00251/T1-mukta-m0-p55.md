@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[is-proclaimed](ghoṣyate) [but](tu) [which](yaḥ) [sound](śabdaḥ) [slightly](īṣat) [soft](mandaḥ) [is-perceived](vibhāvyate)
+[is-proclaimed](ghoṣyate) [but](tu) [that-sound](yaśśabdaḥ) [slightly-dull](īṣanmando) [is-perceived](vibhāvyate)
 
 ## mukta-m0-p55-v1352
-[then](tataḥ) [flute](vaṃśa) [sound](dhvaniḥ) [subtle](sūkṣmaḥ) [windless](nivāta) [rain](varṣa) [similar](upamam)
+[then](tato) [bamboo-sound](vaṃśadhvanissūkṣmo) [subtle](sūkṣmo) [like-windless-rain](nivātavarṣopamam)
 
 ## mukta-m0-p55-v1353
-[fourth](caturtham) [but](tu) [great](mahaḥ) [sound](śabdaḥ) [all](sarva) [sound](śabda) [pervading](bhacāriṇīm)
+[fourth](caturthantu) [great-sound](mahaśśabdaḥ) [all-sounds-moving](sarvaśabdabhacāriṇīm)
 
 ## mukta-m0-p55-v1354
-[fifth](pañcamam) [but](tu) [great](mahaḥ) [sound](śabdam) [all](sarva) [yogis](yogi) [welfare-bringing](hitāvaham)
+[fifth](pañcamantu) [great-sound](mahaśśabdaṃ) [all-yogis-beneficial](sarvayogihitāvaham)
 
 ## mukta-m0-p55-v1355
-[sound](śabda) [principle](tatva) [supreme](pare) [absorbed](līnam) [sound](śabda) [within](antargata) [mind](mānasaḥ)
+[in-sound-truth](śabdatatvapare) [absorbed](līnaṃ) [mind-within-sound](śabdāntargatamānasaḥ)
 
 ## mukta-m0-p55-v1356
-[flute](vaṃśa) [sound](dhvani) [released](vinirmuktaḥ) [which](yaḥ) [sound](śabdaḥ) [proceeds](saṃpravartate)
+[freed-from-bamboo-sound](vaṃśadhvanivinirmukto) [that-sound](yaśśabdassaṃpravartate)
 
 ## mukta-m0-p55-v1357
-[soft](mṛdu) [lute](vīṇā) [tone](svanaḥ) [sound](śabdaḥ) [calm](śānta) [bell](ghaṇṭa) [resounding](nināditaḥ)
+[soft-vina-sound](mṛduvīṇāsvanaśśabdaḥ) [peaceful-bell-resounding](śāntaghaṇṭanināditaḥ)
 
 ## mukta-m0-p55-v1358
-[jingling](jhaṅkāraḥ) [but](tu) [remembered](smṛtaḥ) [sound](śabdaḥ) [all](samasta) [supreme-goddess](parameśvarī)
+[jingling](jhaṅkārastu) [remembered](smṛtaḥ) [sound](śabdaḥ) [all-supreme-goddess](samasta+parameśvarī)
 
 ## mukta-m0-p55-v1359
-[with-parts](sakala) [without-parts](akala) [mass](saṃghātam) [thunderbolt](vajra) [fall](pāta) [terrible](subhairavam)
+[whole-aggregate-of-arts](sakalākalasaṃghātaṃ) [thunderbolt-terrifying](vajrapātasubhairavam)
 
 ## mukta-m0-p55-v1360
-[that](saḥ) [Śiva](śivaḥ) [Śiva-principle](śiva+tatva) [abiding](sthaḥ) [dhvaṃ-sound](dhvaṃkṛtaḥ) [praṇava](praṇava) [remembered](smṛtaḥ)
+[that-shiva](sa+śivaḥ) [established-in-shiva-truth](śivatatvastho) [destroyed](dhvaṃkṛtaḥ) [pranava-remembered](praṇavasmṛtaḥ)
 
 ## mukta-m0-p55-v1361
-[to-be-practiced](sevitavyāḥ) [with-effort](prayatnena) [if](yadi) [one-desires](icchet) [success](siddhim) [of-oneself](ātmanaḥ)
+[to-be-served](sevitavyāḥ) [with-effort](prayatnena) [if-desires](yadicchet) [perfection-of-self](siddhimātmanaḥ)
 
 ## mukta-m0-p55-v1362
-[as-non-different](anānāttvena) [they-exist](vartante) [as-different](nānātvena) [O-great-lord](maheśvara)
+[not-different](anānāttvena) [exist](vartante) [different](nānātvena) [great-lord](maheśvara)
 
 ## mukta-m0-p55-v1363
-[expressed](vācya) [expressor](vācaka) [form](rūpaḥ) [or](vā) [not](na) [connection](saṃbandhaḥ) [is-employed](prayujyate)
+[expresser-expressed-form](vācyavācakarūpo) [or](vā) [not](nā) [relation](saṃbandhaḥ) [is-applied](prayujyate)
 
 ## mukta-m0-p55-v1364
-[of-own-nature](svabhāvasya) [inseparable](avinābhāvī) [not](na) [other](anyā) [by-otherness](anyatayā) [considered](matā)
+[nature-inseparable](svabhāvasyāvinābhāvī) [not-other](nānyā) [not-otherness](nānyatayā) [opinion](mataḥ)
 
 ## mukta-m0-p55-v1365
-[other](anya) [meaning](artha) [expressing](vācakaḥ) [that](saḥ) [indeed](vai) [of-all](sarveṣām) [and](ca) [then](tadā) [would-be](bhavet)
+[other-meaning-expressing](anyārthavācakasso) [indeed](vai) [of-all](sarveṣāñca) [then](tadā) [becomes](bhavet)
 
 ## mukta-m0-p55-v1366
-[knowledge](vijñānam) [like](iva) [ignorance](ajñānam) [sound](śabda) [excellence](prakṛṣṭam) [but](tu) [of-whom](kam) [that](tat)
+[knowledge-like-knowledge](vijñānamivajñānaṃ) [sound-excellent](śabdaprakṛṣṭantukantat)
 
 ## mukta-m0-p55-v1367
-[sound](śabdaḥ) [but](tu) [binds](pāśayet) [as-dharma](dharmaḥ) [peace](śama) [desire](kāma) [wealth](artha) [accomplishing](sādhakaḥ)
+[sound](śabdastu) [binding-dharma](pāśayeddharmo) [peace-desire-wealth-accomplishing](śamakāmārthasādhakaḥ)
 
 ## mukta-m0-p55-v1368
-[by-sound](śabdena) [is-accomplished](sādhyate) [indeed](hi) [meaning](arthaḥ) [meaning](arthaḥ) [indeed](eva) [but](tu) [from-sound](śabdataḥ)
+[by-sound](śabdena) [is-accomplished](sādhyate) [indeed-meaning](hyartho) [indeed-meaning](hyartha) [indeed](eva) [tu](tu) [from-sound](śabdataḥ)
 
 ## mukta-m0-p55-v1369
-[by-speech](vācā) [sound](śabda) [bound](nibandhāḥ) [but](tu) [lord](prabhuḥ) [I-become-powerful](prabhavatāmi) [here](iha)
+[by-speech](vācā) [sound-bound](śabdanibandhāstu) [lord](prabhuḥ) [of-lords](prabhavatāmiha)
 
 ## mukta-m0-p55-v1370
-[which](yaḥ) [of-which](yasya) [meaning](arthasya) [accomplishment](niṣpattiḥ) [in-being](bhūta) [group](grāme) [fourfold](caturvidhe)
+[who](yo) [whose-meaning](yasyārthasya) [completion](niṣpatīḥ) [in-fourfold-beings](bhūtagrāme+caturvidhe)
 
 ## mukta-m0-p55-v1371
-[which](yat) [meaning](artha) [devoid](hīnam) [in-world](loke) [this](asmin) [speech](vacanam) [proceeds](saṃpravartate)
+[whose-meaningless](yadarthahīnaṃ) [in-world](loke'smin) [speech](vacanaṃ) [proceeds](saṃpravartate)
 
 ## mukta-m0-p55-v1372
-[indicative](gamakāḥ) [and](ca) [indeed](eva) [sounds](śabdāḥ) [but](tu) [by-sages](ṛṣi) [by-deities](daivata) [spoken](bhāṣitāḥ)
+[indicative](gamakāścaiva) [sounds](śabdāstu) [by-seers-gods-spoken](ṛṣidaivatabhāṣitāḥ)
 
 ## mukta-m0-p55-v1373
-[by-Sanskrit](saṃskṛtena) [even](api) [what](kim) [by-that](tena) [soft](mṛdunā) [graceful](lalitena) [and](ca)
+[by-sanskrit](saṃskṛtenāpi) [what](kiṃ) [by-that](tena) [soft](mṛdunā) [charming](lalitena) [ca](ca)
 
 ## mukta-m0-p55-v1374
-[which](yat) [having-heard](śṛtvā) [arises](jāyate) [merit](puṇyam) [of-sins](pāpādīnām) [destruction](parikṣayaḥ)
+[hearing-which](yacchṛtvā) [arises](jāyate) [merit](puṇyaṃ) [sins-destruction](pāpādīnāṃ+parikṣayaḥ)
 
 ## mukta-m0-p55-v1375
-[son](putra) [wife](dāra) [and-so-forth](ādi) [worldly-existence](saṃsāraḥ) [of-men](puṃsām) [deluded](saṃmūḍha) [minds](cetasām)
+[sons-wives-etc](putradārādi) [world](saṃsāraḥ) [of-men](puṃsāṃ) [deluded-minds](saṃmūḍhacetasām)

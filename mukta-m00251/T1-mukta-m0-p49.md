@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[meditation](dhyāna) [concentration](dhāraṇa) [and-thoughts](cintābhiḥ) [yoga](yoga) [beginning](āraṃbha) [activities](kriyā) [and-so-forth](ādibhiḥ)
+[meditation+holding+thoughts](dhyānadhāraṇacintābhiḥ) [yoga+beginning+actions+etc](yogāraṃbhakriyādibhiḥ)
 
 ## mukta-m0-p49-v1202
-[when](yadā) [self](ātma) [pain](pīḍā) [devoid](rahitaṃ) [without](vinā) [afflictions](kleśaiḥ) [is-obtained](avāpyate)
+[when](yadā) [self+pain+free](ātmapīḍārahitaṃ) [without](vinā) [afflictions](kleśairavāpyate)
 
 ## mukta-m0-p49-v1203
-[in-the-purāṇa](purāṇe) [in-sāṃkhya](sāṃkhya) [and-in-yoga](yoge) [ca) [of-what-kind](yādṛśaṃ) [described](kathitaṃ) [o-lord](prabho)
+[in+purana](purāṇe) [in+sankhya+yoga](sāṃkhyayoge) [and](ca) [such](yādṛśaṃ) [told](kathitaṃ) [lord](prabho)
 
 ## mukta-m0-p49-v1204
-[yoga](yoga) [concentration](dhāraṇa) [endowed-with](saṃyuktā) [veda](veda) [and-so-forth](ādyāḥ) [o-supreme-lord](parameśvara)
+[yoga+holding+joined](yogadhāraṇasaṃyuktā) [veda+etc](vedādyāḥ) [supreme+lord](parameśvara)
 
 ## mukta-m0-p49-v1205
-[inexpressible](anākhyeyam) [indescribable](anirdeśyaṃ) [o-blessed-one](bhagavan) [described](kathitam) [indeed](tu) [which](yat)
+[unspeakable](anākhyeyamanirdeśyaṃ) [blessed](bhagavan) [told+indeed](kathitantu) [that](yat)
 
 ## mukta-m0-p49-v1206
-[nature](prakṛtiṃ) [and-spirit](puruṣam) [ca) [and](eva) [destiny](niyatiṃ) [time](kālam) [and](eva) [ca)
+[nature](prakṛtiṃ) [and+spirit+indeed](puruṣañcaiva) [destiny](niyatiṃ) [time+indeed](kālameva) [and](ca)
 
 ## mukta-m0-p49-v1207
-[without](vinā) [indeed](tu) [instruments](karaṇaiḥ) [god](devaḥ) [meditation](dhyāna) [concentration](dhāraṇa) [devoid-of](varjitaḥ)
+[without](vinā) [but](tu) [instruments+god](karaṇairdevo) [meditation+holding+devoid](dhyānadhāraṇavarjitaḥ)
 
 ## mukta-m0-p49-v1208
-[I](ahaṃ) [to-you](te) [shall-tell](kathayiṣyāmi) [yoga](yoga) [true-nature](sadbhāvam) [supreme](uttamam)
+[I](ahaṃ) [to+you](te) [will+tell](kathayiṣyāmi) [yoga+true+being+supreme](yogasadbhāvamuttamam)
 
 ## mukta-m0-p49-v1209
-[which-this](yetad) [supreme](atyanta) [bliss-giving](sukhadam) [complete](aśeṣa) [fruit](phala) [adorned-with](bhūṣitam)
+[this](yetadatyantasukhadamaśeṣaphalabhūṣitam)
 
 ## mukta-m0-p49-v1210
-[which](yat) [this](etat) [immortal](amṛtaṃ) [brahman](brahma) [all](sarvaḥ) [people](janaḥ) [attain](adhigacchati)
+[this](yadetadamṛtaṃ) [nectar](amṛtaṃ) [brahman](brahma) [all+people](janassarvo) [attain](adhigacchati)
 
 ## mukta-m0-p49-v1211
-[all](sarve) [dharmas](dharmāḥ) [dissolve](pralīyante) [veda](veda) [sacrifice](yajña) [austerity](tapaḥ) [actions](kriyāḥ)
+[all](sarve) [duties](dharmāḥ) [dissolve](pralīyante) [veda+sacrifice+austerity](vedayajñatapaḥ) [actions](kriyāḥ)
 
 ## mukta-m0-p49-v1212
-[go](yānti) [gods](devāḥ) [to-non-godhood](adevatvam) [here](adhya) [austerity](tapa) [devoid-of](vivarjitāḥ)
+[go](yānti) [gods](devā) [non+godhood](adevatvamadhyā) [austerity+devoid](tapa vivarjitāḥ)
 
 ## mukta-m0-p49-v1213
-[yoga](yoga) [dharma](dharma) [and-artha](artha) [scriptures](śāstrāṇi) [extensive](vistīrṇa) [and-profound](gahanāni) [ca)
+[yoga+duty+meaning](yogadharmārtha) [scriptures](śāstrāṇi) [vast+dense](vistīrṇagahanāni) [and](ca)
 
 ## mukta-m0-p49-v1214
-[bodiless](videha) [wheel](cakram) [mounted-on](ārūḍham) [thus](evaṃ) [revolves](bhrāmyati) [indeed](vai) [world](jagat)
+[bodyless+wheel+mounted+thus](videhacakramārūḍhamevaṃ) [wanders](bhrāmyati) [indeed](vai) [world](jagat)
 
 ## mukta-m0-p49-v1215
-[by-you](tvayā) [difficult-to-obtain](durlalitena) [I](ahaṃ) [asked](pṛṣṭaḥ) [by-devotion](bhaktyā) [impelled](pracoditaḥ)
+[by+you](tvayā) [spoiled+I](durlalitenāhaṃ) [asked](pṛṣṭo) [with+devotion](bhaktyā) [urged](pracoditaḥ)
 
 ## mukta-m0-p49-v1216
-[not](na) [brahmā](brahmā) [not](na) [ca) [indeed](vai) [viṣṇu](viṣṇuḥ) [nor](uta) [other](anye) [best-of-gods](surasattamāḥ)
+[not](na) [brahma](brahmā) [not](na) [and](ca) [indeed](vai) [vishnu](viṣṇuḥ) [or+others](utānye) [best+gods](surasattamāḥ)
 
 ## mukta-m0-p49-v1217
-[therefore](tasmāt) [hear](śṛṇuṣva) [true-nature](sadbhāvaṃ) [without-doubt](nissaṃdigdham) [without-elaboration](avistaram)
+[therefore+listen](tasmācchṛṇuṣva) [true+being](sadbhāvaṃ) [doubtless](nissaṃdigdham) [not+expanded](avistaram)
 
 ## mukta-m0-p49-v1218
-[accomplishment-giving](siddhidā) [and-liberation-giving](mokṣadā) [ca) [and](eva) [satisfaction-giving](tuṣṭidā) [nourishment-increasing](puṣṭivardhanā)
+[accomplishment+giving](siddhidā) [liberation+giving](mokṣadā) [and+indeed](caiva) [satisfaction+giving](tuṣṭidā) [nourishment+increasing](puṣṭivardhanā)
 
 ## mukta-m0-p49-v1219
-[ghoṣiṇī](ghoṣiṇī) [piṅgalā](piṅgalā) [ca) [and](eva) [vaidyutī](vaidyutī) [bindumālinī](bindumālinī)
+[sounding](ghoṣiṇī) [tawny](piṅgalā) [and+indeed](caiva) [lightning](vaidyutī) [dot+garland](bindumālinī)
 
 ## mukta-m0-p49-v1220
-[saumyā](saumyā) [nirañjanā](nirañjanā) [ca) [and](eva) [nirālaṃbā](nirālaṃbā) [ca) [is-called](kathyate)
+[gentle](saumyā) [stainless](nirañjanā) [and+indeed](caiva) [supportless](nirālaṃbā) [and](ca) [is+said](kathyate)
 
 ## mukta-m0-p49-v1221
-[first](pūrvam) [self](ātmā) [indeed](tu) [wise](medhāvī) [by-śiva](śivena) [supreme](parameṇa) [indeed](tu)
+[first+self](pūrvamātmā) [but](tu) [wise](medhāvī) [by+shiva](śivena) [supreme](parameṇa) [but](tu)
 
 ## mukta-m0-p49-v1222
-[one-pointed](ekāgra) [minded](manasaḥ) [having-become](bhūtvā) [conquered-anger](jitakrodhā) [conquered-senses](jitendriyāḥ)
+[one+pointed+mind](ekāgramanaso) [having+become](bhūtvā) [conquered+anger](jitakrodhā) [conquered+senses](jitendriyāḥ)
 
 ## mukta-m0-p49-v1223
-[second](dvitīyā) [piṅgalā](piṅgalā) [by-name](nāmnā) [she](sā) [in-principle](tatve) [twenty-fifth](pañcaviṃśake)
+[second](dvitīyā) [tawny](piṅgalā) [by+name](nāmnā) [she](sā) [in+principle](tatve) [twenty+fifth](pañcaviṃśake)
 
 ## mukta-m0-p49-v1224
-[in-twenty-seventh](saptaviṃśati) [my](me) [principle](tatve) [to-be-known](vijñeyā) [bindumālinī](bindumālinī)
+[twenty+seven](saptaviṃśati) [my](me) [in+principle](tatve) [to+be+known](vijñeyā) [dot+garland](bindumālinī)
 
 ## mukta-m0-p49-v1225
-[in-twenty-ninth](ekonatriṃśatitame) [mātrā](mātrā) [stands](tiṣṭhet) [mind-following](manonugā)
+[in+twenty+ninth](ekonatriṃśatitame) [measure](mātrā) [stands](tiṣṭhen) [mind+following](manonugā)

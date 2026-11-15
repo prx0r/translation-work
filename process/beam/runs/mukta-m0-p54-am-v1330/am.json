@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p54",
  "verse": 1330,
- "question": "How should the gallery interval be arranged within the prescribed sequence of parts?",
+ "question": "What fears arise alongside king and planet fears?",
  "premises": [
-  "A gallery interval must be arranged.",
-  "Its measure is specified as one part.",
-  "The arrangement must follow the proper order."
+  "king and similar fears arise",
+  "planet and similar fears arise",
+  "the two are joined"
  ],
- "inference": "One should arrange the gallery interval as one part in due order.",
- "uncertainties": [],
- "plain_english": "Then one should arrange the gallery interval as one part, in due order."
+ "inference": "King-related and planet-related fears arise together.",
+ "uncertainties": [
+  "exact list of fears is not given"
+ ],
+ "plain_english": "When king and similar fears arise, planet and similar fears also arise."
 }

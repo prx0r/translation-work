@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[not](na) [they](te) [again](bhūyo) [return](nivartante) [by-the-path-of-gods](devayānena) [yogins](yoginaḥ)
+[not](na) [your](te) [again](bhūyo) [return](nivartante) [by-deva-path](devayānena) [yogis](yoginaḥ)
 
 ## mukta-m0-p45-v1102
-[thus](evaṃ) [path](pathaṃ) [they-know](vidur) [O-goddess](devi) [path-of-ancestors](pitṛyānaṃ) [in-brief](samāsataḥ)
+[thus](evaṃ) [path](pathaṃ) [know](vidur) [goddess](devi) [pitṛ-path](pitṛyānaṃ) [in-summary](samāsataḥ)
 
 ## mukta-m0-p45-v1103
 [by-path](pathena) [is-gone](gamyate) [where](yatra) [whatever](yatkiñcit) [imagined](parikalpitaḥ)
 
 ## mukta-m0-p45-v1104
-[as](yathā) [path](adhvānañ) [and](ca) [union](yogañ) [and](ca) [all-system](sarva+tantraṃ) [not](na) [is-known](vidyate)
+[as](yathā) [path](adhvānaṃ) [and](ca) [yoga](yogaṃ) [and](ca) [all-tantra](sarvatantraṃ) [not](na) [is-known](vidyate)
 
 ## mukta-m0-p45-v1105
-[for-that-measure](tat+māna+artham) [this](idaṃ) [statement](vākyaṃ) [regarding-path-of-gods](devayāne) [as](yathā) [so](tathā)
+[for-measure-purpose](tanmānārtham) [this](idaṃ) [statement](vākyaṃ) [in-deva-path](devayāne) [as](yathā) [so](tathā)
 
 ## mukta-m0-p45-v1106
-[where](yatra) [one-goes](gamyati) [that](tat) [not-exists](na+asti) [not](na) [and](ca) [there](tatra) [by-path](pathā) [anywhere](kvacit)
+[where](yatra) [goes](gamyati) [that-not](tannāsti) [not](na) [and](ca) [there](tatra) [path](pathā) [ever](kvacit)
 
 ## mukta-m0-p45-v1107
-[going](gatiḥ) [not-returns](na+āvartate) [necessarily](vaśyaṃ) [even-in-very-distant-places](su+dūreṣu+api) [through-yoga](yogataḥ)
+[motion](gatir) [not-return](nāvartate) [certainly](vaśyaṃ) [in-far-distances](sudūreṣu) [even](api) [by-yoga](yogataḥ)
 
 ## mukta-m0-p45-v1108
-[whoever](yaḥ) [any](kaścit) [by-path-of-ancestors](pitṛyānena) [by-path](pathena) [indeed](tu) [gone](gato) [man](naraḥ)
+[who](yaḥ) [whoever](kaścit) [by-pitṛ-path](pitṛyānena) [by-path](pathena) [but](tu) [gone](gato) [man](naraḥ)
 
 ## mukta-m0-p45-v1109
-[by-path-of-gods](devayānena) [he](so) [having-gone](gatvā) [freed-from-all-sins](sarva+pāpaiḥ+vivarjitaḥ)
+[by-deva-path](devayānena) [he](so) [having-gone](gatvā) [from-all-sins](sarvapāpaiḥ) [freed](vivarjitaḥ)
 
 ## mukta-m0-p45-v1110
-[instrument](karaṇañ) [and](ca) [indeed](eva) [consciousness](saṃjñā) [and](ca) [ego](ahaṅkāraṃ) [likewise](tathā) [indeed](eva) [and](ca)
+[instrument](karaṇaṃ) [and](ca) [indeed](eva) [designation](saṃjñā) [and](ca) [ego](ahaṅkāraṃ) [so](tathaiva) [and](ca)
 
 ## mukta-m0-p45-v1111
-[sovereignty](aiśvaryaṃ) [declared](coditaṃ) [in-scripture](śāstre) [of-little-substance](alpa+satvam) [incomparable](anaupamam)
+[lordship](aiśvaryaṃ) [impelled](coditaṃ) [in-scripture](śāstre) [small-being](alpasatvam) [unparalleled](anaupamam)
 
 ## mukta-m0-p45-v1112
-[whose](yasya) [lord](īśvaraḥ) [even](api) [desirelessness](nairāśyaṃ) [without-hope](nirāśaṃ) [is-highly-praised](saṃpraśasyate)
+[whose-lord](yasyeśvaraḥ) [even](api) [hopelessness](nairāśyaṃ) [hopeless](nirāśaṃ) [is-praised](saṃpraśasyate)
 
 ## mukta-m0-p45-v1113
-[for-self's-sake](ātma+arthe) [all-actions](sarva+kāryāṇi) [being-hope](āśā+bhūtaḥ) [proceeds](pravartate)
+[for-self-purpose](ātmārthe) [all-actions](sarvakāryāṇi) [hope-become](āśābhūtaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p45-v1114
-[so-long](tāvat) [is-bound](badhyati) [in-samsara](saṃsāre) [as-long-as](yāvat) [hope](āśā) [not](na) [releases](muñcati)
+[so-long](tāvad) [is-bound](badhyati) [in-saṃsāra](saṃsāre) [as-long](yāvad) [hope](āśā) [not](na) [releases](muñcati)
 
 ## mukta-m0-p45-v1115
-[past](atīta) [future](anāgatañ) [and](ca) [indeed](eva) [present](vartamānaṃ) [likewise](tathā) [indeed](eva) [and](ca)
+[past](atīta) [future](anāgataṃ) [and](ca) [indeed](eva) [present](vartamānaṃ) [so](tathaiva) [and](ca)
 
 ## mukta-m0-p45-v1116
-[born](jātaṃ) [not](na) [exists](asti) [likewise](tathā) [necessarily](avaśyaṃ) [unborn](ajātañ) [and](ca) [especially](viśeṣataḥ)
+[born](jātaṃ) [not-is](nāsti) [so](tathā) [necessarily](avaśyaṃ) [unborn](ajātaṃ) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p45-v1117
-[because-of-unbornness](ajātatvāt) [unborn](ajaḥ) [not](na) [exists](asti) [born](jātaṃ) [not](na) [exists](asti) [indestructible](avināśakam)
+[from-unbornness](ajātatvāt) [unborn](ajaḥ) [not-is](nāsti) [born](jātaṃ) [not-is](nāsti) [indestructible](avināśakam)
 
 ## mukta-m0-p45-v1118
-[desire-rooted](kāma+mūlaḥ) [great-tree](mahā+vṛkṣaḥ) [samsara](saṃsāraḥ) [sharp-thorned](tīkṣṇa+kaṇṭakaḥ)
+[desire-rooted](kāmamūlaḥ) [great-tree](mahāvṛkṣaḥ) [saṃsāra](saṃsāraḥ) [sharp-thorned](tīkṣṇakaṇṭakaḥ)
 
 ## mukta-m0-p45-v1119
-[from-desire-and-passion](kāma+rāgāt) [not](na) [*](*) [*](*) [*](*) [*](*) [he](sa) [conquers](jiṣyati) [wise-one](paṇḍitaḥ)
+[desire-attachment](kāmarāgaḥ) [not](na) [*](*) [*](*) [*](*) [*](*) [he](sa) [conquers](jiṣyati) [wise](paṇḍitaḥ)
 
 ## mukta-m0-p45-v1120
-[previously-stated-limb-strength](prāk+ukta+aṅga+balaṃ) [all](sarvaṃ) [resembling-lightning-flash](vidyut+darśana+sannibham)
+[previously-stated-limb-strength](prāguktāṅgabalaṃ) [all](sarvaṃ) [lightning-vision-similar](vidyuddarśanasannibham)
 
 ## mukta-m0-p45-v1121
-[therefore](tasmāt) [aperture](chidraṃ) [pure](pavitrañ) [and](ca) [safety](kṣemam) [finger-measure](aṅgulam) [indeed](eva) [and](ca)
+[therefore](tasmāt) [hole](chidraṃ) [pure](pavitraṃ) [and](ca) [safe](kṣemaṃ) [limb](aṅgulaṃ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p45-v1122
-[netherworld](pātālaḥ) [extending-to-seven-worlds](sapta+loka+antaḥ) [all](sarvam) [this](etat) [terror](vibhīṣikā)
+[pātāla](pātālaḥ) [seven-worlds-end](saptalokāntaḥ) [all](sarvaṃ) [this](etad) [terrifying](vibhīṣikā)
 
 ## mukta-m0-p45-v1123
-[not](na) [offered](hutaṃ) [not](na) [and](ca) [or](vā) [given](dattam) [not](na) [otherworldly](paratra) [not](na) [and](ca) [worldly](aihikam)
+[not](na) [offered](hutaṃ) [not](na) [and](ca) [or](vā) [given](dattaṃ) [not](na) [other-world](paratra) [not](na) [this-world](caihikam)
 
 ## mukta-m0-p45-v1124
-[to-be-bound](bandhavyaḥ) [bondage](bandhanañ) [and](ca) [indeed](eva) [likewise](tathā) [and](ca) [indeed](eva) [other-binder](anya+bandhakaḥ)
+[to-be-bound](bandhavyaḥ) [bondage](bandhanaṃ) [and](ca) [indeed](eva) [so](tathā) [and](ca) [indeed](eva) [other-binder](anyabandhakaḥ)
 
 ## mukta-m0-p45-v1125
-[fire](agni) [sacred-grass](darbhāḥ) [and](ca) [mantras](mantrāḥ) [and](ca) [priest](hotā) [to-be-offered](hotavyam) [indeed](eva) [and](ca)
+[fire-kuśa](agnidarbhāḥ) [and](ca) [mantras](mantrāḥ) [and](ca) [priest](hotā) [to-be-offered](hotavyaṃ) [indeed](eva) [and](ca)

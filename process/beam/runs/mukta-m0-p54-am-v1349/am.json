@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p54",
  "verse": 1349,
- "question": "What feature is prescribed for the structure from the first through the fifth story?",
+ "question": "Which tithis are called family and non-family?",
  "premises": [
-  "A range of stories from first to fifth is specified.",
-  "A structural feature is added to this range.",
-  "The feature is being joined with auspicious cages."
+  "second is named",
+  "tenth is named",
+  "sixth is named"
  ],
- "inference": "From the first to the fifth story the structure should be joined with auspicious cages.",
- "uncertainties": [],
- "plain_english": "From the first to the fifth story, it should be joined with auspicious cages."
+ "inference": "The second, tenth, and sixth are called family and non-family.",
+ "uncertainties": [
+  "exact classification among them is not explicit"
+ ],
+ "plain_english": "Second, tenth, and sixth are called family and non-family."
 }

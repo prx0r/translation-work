@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1483,
- "question": "When do such warriors enter the army?",
+ "question": "What consequences follow from violating the invocation restriction?",
  "premises": [
-  "Such warriors enter the army",
-  "They enter simultaneously",
-  "This happens then"
+  "untimely death occurs for him",
+  "if dead he goes to hell"
  ],
- "inference": "They enter the army all at once at that time.",
- "uncertainties": [],
- "plain_english": "Thus such warriors then entered the army simultaneously."
+ "inference": "violation leads to untimely death and hell",
+ "uncertainties": [
+  "whether tasya refers to violator"
+ ],
+ "plain_english": "Untimely death occurs for him, and if dead he goes to hell."
 }

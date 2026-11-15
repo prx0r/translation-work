@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p54",
  "verse": 1334,
- "question": "What proportional relationship holds between the tower width and the cell length?",
+ "question": "Who arrives with attendant groups?",
  "premises": [
-  "The tower width is one śiva-part.",
-  "The cell length is specified separately.",
-  "The cell length is twice that measure."
+  "animal-formed one is subject",
+  "arrival is stated",
+  "attendant groups accompany"
  ],
- "inference": "The tower width is one śiva-part and the cell length is twice that.",
- "uncertainties": [],
- "plain_english": "The tower width should be one śiva-part, but the cell length should be twice that."
+ "inference": "The animal-formed one arrives with attendant groups.",
+ "uncertainties": [
+  "identity of the animal-formed one is not explicit"
+ ],
+ "plain_english": "The animal-formed one arrives with attendant groups."
 }

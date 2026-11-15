@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[of-that] (tasya) [with-effort] (yatnāt) [listen] (śṛṇu) [o-goddess] (devi) [in-space] (ākāśe) [mind] (manasaṃ) [one-should-place] (dadhet)
+[of-that](tasya) [effort-from](yatnāt) [hear](śṛṇu) [goddess](devi) [in-space](ākāśe) [mind](manasaṃ) [place](dadhet)
 
 ## mukta-m0-p53-v1302
-[mind] (cittaṃ) [in-ear] (śrotra) [having-fixed] (samādhāya) [external+sound+devoid] (bāhya+śabda+vivarjitam)
+[mind](cittaṃ) [ear](śrotra) [fixing](samādhāya) [external-sound-devoid](bāhyaśabdavivarjitam)
 
 ## mukta-m0-p53-v1303
-[curtain-sound] (yavanikā) [one-should-hear] (ākarṇayet) [o-goddess] (devi) [merit+sin+destruction+causing] (puṇya+pāpa+kṣayaṅ+karīm)
+[curtain](yavanikā) [listen](ākarṇayed) [goddess](devi) [merit-sin-destruction-making](puṇyapāpakṣayaṅkarīm)
 
 ## mukta-m0-p53-v1304
-[similar] (sadṛśaṃ) [sound] (śabda) [having-heard] (ākarṇya) [for-immortality] (amṛtattvāya) [becomes-fit] (kalpate)
+[similar](sadṛśaṃ) [sound](śabda) [hearing](ākarṇya) [immortality-for](amṛtattvāya) [becomes](kalpate)
 
 ## mukta-m0-p53-v1305
-[of-that+practice] (tasya+abhyāsena) [constantly] (satataṃ) [consciousness-full] (cidrā) [one-sees] (paśyati) [earth] (medinīm)
+[its-practice](tasyābhyāsena) [constantly](satataṃ) [cidra](cidrā) [sees](paśyati) [earth](medinīm)
 
 ## mukta-m0-p53-v1306
-[one-attains] (prāpnoti) [good-fortune] (subhagatvañ) [and] (ca) [at-body+fall] (deha+pāte) [to-Śiva] (śivaṃ) [one-goes] (vrajet)
+[obtains](prāpnoti) [auspiciousness-and](subhagatvañca) [body-fall](dehapāte) [Shiva](śivaṃ) [goes](vrajet)
 
 ## mukta-m0-p53-v1307
-[of-Śiva] (śivasya) [indeed] (vai) [he] (sa) [to-be-known] (vijñeyaḥ) [due-to-commonness] (sāmānyatvāt) [illuminating] (prakāśakaḥ)
+[of-Shiva](śivasya) [indeed](vai) [he](sa) [knowable](vijñeyaḥ) [commonness-by](sāmānyatvāt) [illuminator](prakāśakaḥ)
 
 ## mukta-m0-p53-v1308
-[with-bindu] (bindunā) [accompanied] (sahitena) [indeed] (eva) [Rudra+form] (rudra+ākāraḥ) [is-declared] (prakīrtitaḥ)
+[with-bindu](bindunā) [accompanied](sahitena) [indeed](eva) [Rudra-form](rudrākāraḥ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p53-v1309
-[independent+functioning] (svacchanda+vṛttiḥ) [subtle] (sūkṣmo) [this] ('yaṃ) [treasure] (nidhāna) [oṃkāra] (oṅkāra) [is-called] (ucyate)
+[free-will-activity](svacchandavṛttiḥ) [subtle](sūkṣmo) [this](ayaṃ) [treasure-Om](nidhānoṅkāra) [called](ucyate)
 
 ## mukta-m0-p53-v1310
-[with-bindu] (bindunā) [accompanied] (sahito) [o-goddess] (devi) [third] (tṛtīyaḥ) [is-declared] (parikīrtitam)
+[with-bindu](bindunā) [accompanied](sahito) [goddess](devi) [third](tṛtīyaḥ) [proclaimed](parikīrtitam)
 
 ## mukta-m0-p53-v1311
-[Śrīkaṇṭha+beginning+Ananta+ending] (śrīkaṇṭha+ādi+ananta+antaṃ) [Rudra+oṃkāra] (rudra+oṅkāraḥ) [he] (sa) [is-called] (ucyate)
+[from-Shrikantha-to-Ananta-end](śrīkaṇṭhādimanantāntaṃ) [Rudra-Om](rudroṅkāraḥ) [called](ucyate)
 
 ## mukta-m0-p53-v1312
-[peace+knowledge+surpassing] (śānti+vidyā+adhikā) [accomplishment] (siddhiḥ) [in-dissolution] (nidhane) [near-dissolution] (nidhana+antikā)
+[peace-knowledge-superior](śāntividyādhikā) [siddhi](siddhiḥ) [in-death](nidhane) [death-end](nidhanāntikā)
 
 ## mukta-m0-p53-v1313
-[three+divided] (tri+bhinnaṃ) [this] (etat) [entire] (sakalaṃ) [path] (adhvānaṃ) [is-declared] (parikīrtitam)
+[three-divided](tribhinnam) [this-all](etatsakalam) [path](adhvānaṃ) [proclaimed](parikīrtitam)
 
 ## mukta-m0-p53-v1314
-[by-utterance] (uccāreṇa) [when] (yadā) [devoid] (hīno) [bindu] (binduṃ) [to-partless-state] (niṣkalatāṃ) [gone] (gataḥ)
+[by-utterance](uccāreṇa) [when](yadā) [devoid](hīno) [bindu](binduṃ) [to-partless](niṣkalatāṃ) [gone](gataḥ)
 
 ## mukta-m0-p53-v1315
-[gentle+channel] (saumya+nāḍī) [thus] (iti) [renowned] (vikhyātā) [great+sin+destroying] (mahā+pātaka+nāśinī)
+[gentle-nadi](saumyanāḍī) [thus](iti) [famous](vikhyātā) [great-sin-destroying](mahāpātakanāśinī)
 
 ## mukta-m0-p53-v1316
-[which] (yaḥ) [sound] (śabdaḥ) [is-heard] (śrūyate) [o-goddess] (devi) [Rudra+oṃkāra] (rudra+oṃkāraḥ) [he] (sa) [is-called] (ucyate)
+[which-sound](yaśśabdaḥ) [heard](śrūyate) [goddess](devi) [Rudra-Om](rudroṃkāraḥ) [called](ucyate)
 
 ## mukta-m0-p53-v1317
-[thirty-one] (ekattriṃśat) [one-should-know] (vijānīyāt) [Śiva+oṃkāra] (śiva+oṅkāraḥ) [but] (tu) [beyond-that] (tat+paraḥ)
+[thirty-one](ekattriṃśat) [know](vijānīyāt) [Shiva-Om](śivoṅkāraḥ) [but](tu) [beyond-that](tatparaḥ)
 
 ## mukta-m0-p53-v1318
-[with-pervading] (vyāpakena) [united] (samāyuktā) [channel] (nāḍī) [declared] (proktā) [stainless] (narañjanā)
+[pervading](vyāpakena) [joined](samāyuktā) [nadi](nāḍī) [called](proktā) [delighting-men](narañjanā)
 
 ## mukta-m0-p53-v1319
-[constant+practice+yoga] (satatā+abhyāsa+yogena) [to-practitioners] (sādhakānāṃ) [it-bestows] (prayacchati)
+[constant-practice-yoga](satatābhyāsayogena) [practitioners](sādhakānāṃ) [gives](prayacchati)
 
 ## mukta-m0-p53-v1320
-[distant+hearing+knowledge] (dūra+śravaṇa+vijñānaṃ) [in-all+worlds] (sarva+lokeṣu) [spoken] (bhāṣitam)
+[distant-hearing-knowledge](dūraśravaṇavijñānaṃ) [all-worlds](sarvalokeṣu) [spoken](bhāṣitam)
 
 ## mukta-m0-p53-v1321
-[pervaded] (vyāptaḥ) [indeed] (ati) [desire+form+state] (kāma+rūpitvaṃ) [omniscience] (sarvajñatvaṃ) [likewise] (tathaiva) [indeed] (hi)
+[pervaded](vyāpto) [very](ati) [desire-form-ness](kāmarūpitvaṃ) [omniscience-ness](sarvajñatvaṃ) [likewise](tathaiva) [indeed](hi)
 
 ## mukta-m0-p53-v1322
-[bell+sound+cessation+end] (ghaṇṭā+nāda+virāma+ante) [Śiva+oṃkāra] (śiva+oṅkāraṃ) [is-spoken] (nigadyate)
+[bell-sound-cessation-end](ghaṇṭānādavirāmānte) [Shiva-Om](śivoṅkāraṃ) [declared](nigadyate)
 
 ## mukta-m0-p53-v1323
-[time+principle] (kāla+tatvaḥ) [he] (sa) [indeed] (eva) [said] (ukto) [channel+declared] (nāḍī+proktā) [stainless] (nirañjanā)
+[time-principle](kālatatvaḥ) [he](sa) [indeed](eva) [said](ukto) [nadi-called](nāḍīproktā) [stainless](nirañjanā)
 
 ## mukta-m0-p53-v1324
-[supportless] (nirālaṃbaṃ) [I-shall-declare] (pravakṣyāmi) [nine+principle+fruit+giving] (nava+tatva+phala+pradam)
+[supportless](nirālaṃbaṃ) [will-declare](pravakṣyāmi) [nine-principle-fruit-giving](navatatvaphalapradam)
 
 ## mukta-m0-p53-v1325
-[afterwards] (paścāt) [but] (tu) [in-supreme] (parame) [this] (tat) [not] (na) [anything] (kiñcid) [even] (api) [one-should-think] (cintayet)
+[afterwards](paścāt) [then](tu) [supreme-this](parametattu) [not](na) [anything](kiñcid) [even](api) [think](cintayet)

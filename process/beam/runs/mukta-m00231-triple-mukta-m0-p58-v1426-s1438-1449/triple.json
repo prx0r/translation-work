@@ -1,0 +1,611 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1438,
+   "rows": [
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural masculine of sarva",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "mantratantrāṇāṃ",
+     "gloss": "mantra-tantras",
+     "grounds": "genitive plural neuter compound",
+     "morph": "noun.gen.pl.n"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "nominative singular masculine",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "nominative singular masculine demonstrative",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative singular masculine relative",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sadāśiva",
+     "grounds": "nominative singular masculine",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "Who is declared the father of all mantra-tantras?",
+   "premises": [
+    "Sadāśiva is father of all mantra-tantras."
+   ],
+   "inference": "Sadāśiva stands as source of all mantra-tantras.",
+   "uncertainties": [
+    "asau is anaphoric to Sadāśiva."
+   ],
+   "plain_english": "Sadāśiva is the father of all mantra-tantras."
+  },
+  {
+   "verse": 1439,
+   "rows": [
+    {
+     "surface": "gurudevaṃ",
+     "gloss": "guru-deva",
+     "grounds": "accusative singular masculine compound",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadagre",
+     "gloss": "there-before",
+     "grounds": "locative singular neuter compound",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative singular neuter",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes",
+     "grounds": "third singular active optative root vraj",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What consequence follows from acting before guru-deva?",
+   "premises": [
+    "Without guru-deva one goes to hell."
+   ],
+   "inference": "Guru-deva is indispensable for avoiding hell.",
+   "uncertainties": [
+    "tadagre may mean before that act."
+   ],
+   "plain_english": "Without guru-deva, one goes to hell."
+  },
+  {
+   "verse": 1440,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive singular masculine",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "siddhis",
+     "grounds": "nominative plural feminine",
+     "morph": "noun.nom.pl.f"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "nominative plural feminine",
+     "morph": "pron.nom.pl.f"
+    },
+    {
+     "surface": "santi",
+     "gloss": "are",
+     "grounds": "third plural active present root as",
+     "morph": "verb.3.pl.act-pres"
+    },
+    {
+     "surface": "pādatale",
+     "gloss": "at-feet",
+     "grounds": "locative singular neuter compound",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are all siddhis of that person always found?",
+   "premises": [
+    "All his siddhis are always at his feet."
+   ],
+   "inference": "Siddhis remain present at the guru's feet.",
+   "uncertainties": [
+    "tasya may refer to guru or disciple."
+   ],
+   "plain_english": "All his siddhis are always at his feet."
+  },
+  {
+   "verse": 1441,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive singular masculine",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "siddhi",
+     "grounds": "nominative singular feminine",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular active optative root bhu",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāhomajapāt",
+     "gloss": "worship-homa-japa",
+     "grounds": "ablative singular neuter compound",
+     "morph": "noun.abl.sg.n"
+    },
+    {
+     "surface": "ṛte",
+     "gloss": "without",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can siddhi arise quickly without worship, homa, and japa?",
+   "premises": [
+    "His siddhi becomes quickly even without worship homa japa."
+   ],
+   "inference": "Siddhi may arise apart from those rites.",
+   "uncertainties": [
+    "tasya may refer to guru or disciple."
+   ],
+   "plain_english": "His siddhi becomes quickly even without worship, homa, and japa."
+  },
+  {
+   "verse": 1442,
+   "rows": [
+    {
+     "surface": "pratyakṣe",
+     "gloss": "directly",
+     "grounds": "locative singular neuter",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parokṣe",
+     "gloss": "indirectly",
+     "grounds": "locative singular neuter",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇamed",
+     "gloss": "bow",
+     "grounds": "third singular active optative root pra-nam",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "guru",
+     "grounds": "accusative singular masculine",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "How often should one bow to the guru?",
+   "premises": [
+    "One should bow to guru daily."
+   ],
+   "inference": "Daily reverence to guru is required.",
+   "uncertainties": [
+    "pratyakṣe and parokṣe describe mode of bowing."
+   ],
+   "plain_english": "One should bow to the guru daily, directly or indirectly."
+  },
+  {
+   "verse": 1443,
+   "rows": [
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "accusative singular feminine",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "vyākhyāṃ",
+     "gloss": "explanation",
+     "grounds": "accusative singular feminine",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "prabhutvaṃ",
+     "gloss": "authority",
+     "grounds": "accusative singular neuter",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "genitive singular masculine",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "agre",
+     "gloss": "before",
+     "grounds": "locative singular neuter",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause",
+     "grounds": "third singular active optative causative root kr",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What should not be caused before the guru?",
+   "premises": [
+    "Initiation, explanation, and authority should not be caused before guru."
+   ],
+   "inference": "The guru retains precedence over these acts.",
+   "uncertainties": [
+    "agre may mean in guru's presence."
+   ],
+   "plain_english": "One should not cause initiation, explanation, or authority before the guru."
+  },
+  {
+   "verse": 1444,
+   "rows": [
+    {
+     "surface": "ṛṇadānaṃ",
+     "gloss": "debt-giving",
+     "grounds": "accusative singular neuter compound",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adānaṃ",
+     "gloss": "giving",
+     "grounds": "accusative singular neuter",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vastūnāṃ",
+     "gloss": "of-things",
+     "grounds": "genitive plural neuter",
+     "morph": "noun.gen.pl.n"
+    },
+    {
+     "surface": "krayavikrayam",
+     "gloss": "buying-selling",
+     "grounds": "accusative singular neuter compound",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "What transactions are listed as prohibited conduct?",
+   "premises": [
+    "Debt-giving, giving, and buying-selling of things are listed."
+   ],
+   "inference": "These transactions are to be avoided.",
+   "uncertainties": [
+    "The verse lacks an explicit prohibition verb."
+   ],
+   "plain_english": "Debt-giving, giving, and buying and selling of things are listed."
+  },
+  {
+   "verse": 1445,
+   "rows": [
+    {
+     "surface": "ājñābhaṅgaḥ",
+     "gloss": "command-breaking",
+     "grounds": "nominative singular masculine compound",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "arthaharaṇaṃ",
+     "gloss": "wealth-taking",
+     "grounds": "nominative singular neuter compound",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "genitive singular masculine",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "apriyavartanam",
+     "gloss": "unpleasant-conduct",
+     "grounds": "nominative singular neuter compound",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "What conduct toward the guru is condemned?",
+   "premises": [
+    "Breaking command, taking wealth, and unpleasant conduct toward guru are condemned."
+   ],
+   "inference": "These acts violate guru reverence.",
+   "uncertainties": [
+    "The verse may be a list of faults."
+   ],
+   "plain_english": "Breaking commands, taking wealth, and unpleasant conduct toward the guru are condemned."
+  },
+  {
+   "verse": 1446,
+   "rows": [
+    {
+     "surface": "snehadravyaniyogaṃ",
+     "gloss": "affection-thing-use",
+     "grounds": "accusative singular neuter compound",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anivedya",
+     "gloss": "unoffered",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "to-guru",
+     "grounds": "locative singular masculine",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "caret",
+     "gloss": "do",
+     "grounds": "third singular active optative root car",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How should affectionate things be used?",
+   "premises": [
+    "One should not use affection-things without offering to guru."
+   ],
+   "inference": "Offering to guru precedes their use.",
+   "uncertainties": [
+    "snehadravyaniyogaṃ may mean use of beloved objects."
+   ],
+   "plain_english": "One should not use affectionate things without offering them to the guru."
+  },
+  {
+   "verse": 1447,
+   "rows": [
+    {
+     "surface": "gurunāma",
+     "gloss": "guru-name",
+     "grounds": "accusative singular neuter compound",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṣeta",
+     "gloss": "speak",
+     "grounds": "third singular middle optative root bhas",
+     "morph": "verb.3.sg.mid-opt"
+    },
+    {
+     "surface": "japakālāt",
+     "gloss": "japa-time",
+     "grounds": "ablative singular masculine compound",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "ṛte",
+     "gloss": "without",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When may the guru's name be spoken?",
+   "premises": [
+    "The guru's name should not be spoken except at japa time."
+   ],
+   "inference": "Guru's name is restricted to japa occasions.",
+   "uncertainties": [
+    "gurunāma may be vocative or accusative."
+   ],
+   "plain_english": "The guru's name should not be spoken except during japa."
+  },
+  {
+   "verse": 1448,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "accusative singular masculine",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "tuṅkṛtya",
+     "gloss": "tuṅkṛtya",
+     "grounds": "indeclinable participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṅkṛtya",
+     "gloss": "huṅkṛtya",
+     "grounds": "indeclinable participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācā",
+     "gloss": "speech",
+     "grounds": "instrumental singular feminine",
+     "morph": "noun.inst.sg.f"
+    },
+    {
+     "surface": "nirbhartsya",
+     "gloss": "reviling",
+     "grounds": "indeclinable participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative singular masculine",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "kadā",
+     "gloss": "kadā",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What speech toward the guru is forbidden?",
+   "premises": [
+    "Reviling the guru with tuṅkṛtya or huṅkṛtya speech is forbidden."
+   ],
+   "inference": "Abusive speech toward guru is prohibited.",
+   "uncertainties": [
+    "tuṅkṛtya and huṅkṛtya are onomatopoeic abuse terms."
+   ],
+   "plain_english": "Whoever reviles the guru with abusive speech is condemned."
+  },
+  {
+   "verse": 1449,
+   "rows": [
+    {
+     "surface": "siddhiṃ",
+     "gloss": "siddhi",
+     "grounds": "accusative singular feminine",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "siddhādhivāsāṃśca",
+     "gloss": "siddha-residences",
+     "grounds": "accusative plural masculine with ca",
+     "morph": "noun.acc.pl.m"
+    },
+    {
+     "surface": "śrīpūrvaṃ",
+     "gloss": "śrī-first",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samudīrayet",
+     "gloss": "samudīrayet",
+     "grounds": "third singular active optative root sam-ud-īr",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How should siddhi and siddha residences be uttered?",
+   "premises": [
+    "Siddhi and siddha residences should be uttered with śrī first."
+   ],
+   "inference": "Śrī must precede their utterance.",
+   "uncertainties": [
+    "siddhādhivāsāṃśca includes enclitic ca."
+   ],
+   "plain_english": "One should utter siddhi and siddha residences with śrī first."
+  }
+ ]
+}

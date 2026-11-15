@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p54",
  "verse": 1347,
- "question": "What measures are prescribed for the tower width and the cell length in this arrangement?",
+ "question": "Where are bathing, purity, and nyāsa purification found?",
  "premises": [
-  "The tower width is assigned a measure.",
-  "That measure is one part.",
-  "The cell length is assigned two parts."
+  "bathing is questioned",
+  "purity is questioned",
+  "nyāsa purification is questioned"
  ],
- "inference": "The tower width is one part and the cell length is two parts.",
- "uncertainties": [],
- "plain_english": "Then the tower width should be one part, and the cell length two parts."
+ "inference": "The verse questions where bathing, purity, and nyāsa purification are found.",
+ "uncertainties": [
+  "answer is implied by family worship"
+ ],
+ "plain_english": "Where is bathing, where purity, and where nyāsa purification?"
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[invisible](apratyakṣā) [path](gatiḥ) [o-god](deva) [tell](brūhi) [to-me](me) [o-supreme-lord](parameśvara)
+[not-perceptible](apratiakṣā) [course](gatir) [god](deva) [tell](brūhi) [to-me](me) [supreme-lord](parameśvara)
 
 ## mukta-m0-p25-v602
-[that](sa) [trident](śūlaḥ) [wind+speed](vāyu+vegena) [right+breast+above](dakṣiṇa+stana+upari)
+[that](sa) [trident](śūlo) [by-wind-speed](vāyuvegena) [on-right-breast](dakṣiṇastanakopari)
 
 ## mukta-m0-p25-v603
-[short+long+prolated](hrasva+dīrgha+plutañ) [and+indeed](ca+eva) [common+skillful](sādhārita+sa+kauśakam)
+[short-long-pluta](hrasvadīrghaplutañ) [and](ca) [eva](eva) [with-support-and-skill](sādhāritasakauśakam)
 
 ## mukta-m0-p25-v604
-[eight+parts](aṣṭābhena) [indeed](eva) [joined+string](saṃyukta+tantriṇī) [nectar](amṛtaṃ) [remembered](smṛtam)
+[by-eightfold](aṣṭābhena) [eva](eva) [joined](saṃyuktatantriṇī) [nectar](amṛtaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p25-v605
-[worldly](laukikāḥ) [they](te) [among-these](eṣu) [to-be-known](vijñeyāḥ) [śiva+holy-places](śiva+tīrthyānu) [to-me](me) [hear](śṛṇu)
+[worldly](laukikāsteṣu) [known](vijñeyā) [śiva-tīrtha](śivatīrthyānu) [to-me](me) [hear](śṛṇu)
 
 ## mukta-m0-p25-v606
-[abhijit](abhijit) [and+indeed](ca+eva) [constellation](nakṣatraṃ) [its+above](tasya+upari) [jayantikā](jayantikā)
+[abhijit](abhijiccaiva) [and](ca) [eva](eva) [nakṣatra](nakṣatraṃ) [above-it](tasyopari) [jayantikā](jayantikā)
 
 ## mukta-m0-p25-v607
-[pole-star+multitude+moonlight](dhruva+tārā+gaṇa+jyotsnā) [wheel+like](cakra+vat) [should-revolve](parilelihet)
+[pole-star-group-radiance](dhruvatārāgaṇajyotsnā) [like-wheel](cakravat) [licks](parilelihet)
 
 ## mukta-m0-p25-v608
-[then](tadā) [death+control](mṛtyu+vaśaṃ) [goes](yāti) [full+year](pūrṇa+abde) [but](tu) [no](na) [doubt](saṃśayaḥ)
+[then](tadā) [death-control](mṛtyuvaśaṃ) [goes](yāti) [full-year](pūrṇābde) [but](tu) [no-doubt](na+saṃśayaḥ)
 
 ## mukta-m0-p25-v609
-[giving](dānaṃ) [recitation](japaṃ) [then](tataḥ) [meditation](dhyānaṃ) [that+all](tat+sarvaṃ) [liberation+giving](mokṣa+daṃ) [may-be](bhavet)
+[gift](dānaṃ) [japa](japaṃ) [then](tato) [meditation](dhyānaṃ) [all-that](tatsarvaṃ) [liberation-giving](mokṣadaṃ) [becomes](bhavet)
 
 ## mukta-m0-p25-v610
-[whatever](yat+kiñcit) [does](kurute) [action](karma) [that+all](tat+sarvaṃ) [liberation+accomplishment+giving](mokṣa+siddhi+dam)
+[whatever](yatkiñcit) [does](kurute) [action](karma) [all-that](tatsarvaṃ) [liberation-accomplishment-giving](mokṣasiddhidam)
 
 ## mukta-m0-p25-v611
-[having-known](jñātvā) [weekday](vāraṃ) [lunar-day](tithiñ) [and+indeed](ca+eva) [that+all](tat+sarvaṃ) [accomplishment+liberation+giving](siddhi+mokṣa+dam)
+[knowing](jñātvā) [weekday](vāraṃ) [and](ca) [tithi](tithiñ) [eva](caiva) [all-that](tatsarvaṃ) [accomplishment-liberation-giving](siddhimokṣadam)
 
 ## mukta-m0-p25-v612
-[with-nectar](amṛtena) [but](tu) [joined](saṃyuktaṃ) [by-these-two](ābhyām) [but+by-one](tu+ekena) [liberation+giving](mokṣa+dam)
+[by-nectar](amṛtena) [tu](tu) [joined](saṃyuktaṃ) [by-these-two-one](ābhyāṃtvekena) [liberation-giving](mokṣadam)
 
 ## mukta-m0-p25-v613
-[thus](evaṃ) [indeed](vai) [who](yaḥ) [knows](vijānāti) [secret](rahasyam) [this](idam) [supreme](uttamam)
+[thus](evaṃ) [vai](vai) [who](yo) [knows](vijānāti) [secret](rahasyam) [this](idam) [highest](uttamam)
 
 ## mukta-m0-p25-v614
-[dead](mṛtaṃ) [body](kāyaṃ) [not](na) [should-decay](śīryeta) [this](etat) [proof](pratyayam) [supreme](uttamam)
+[dead](mṛtaṃ) [body](kāyaṃ) [not](na) [decays](śīryeta) [this](etat) [proof](pratyayam) [highest](uttamam)
 
 ## mukta-m0-p25-v615
-[worship](yajanti) [brahmins](viprāḥ) [with-sacrifices](yajñaiḥ) [but](tu) [form+eight+endowed](mūrti+aṣṭaka+saṃyutāḥ)
+[worship](yajanti) [brāhmaṇas](viprā) [sacrifices](yajñaistu) [with-eight-forms](mūrtyaṣṭakasaṃyutāḥ)
 
 ## mukta-m0-p25-v616
-[they](te) [also](api) [why](kasmāt) [not](na) [are-liberated](mucyanti) [with-mantras](mantraiḥ) [with-those](taiḥ) [indeed](eva) [initiated](dīkṣitāḥ)
+[they](te) [api](api) [why](kasmānna) [not](na) [liberated](mucyanti) [mantras](mantraistaireva) [by-those](taireva) [initiated](dīkṣitāḥ)
 
 ## mukta-m0-p25-v617
-[with-syllables](varṇaiḥ) [indeed](eva) [arranged](citāḥ) [vedas](vedāḥ) [they](te) [also](api) [why](kasmāt) [not](na) [liberation+giving](mukti+dāḥ)
+[by-varṇas](varṇairevacitā) [vedas](vedāste) [api](api) [why](kasmānna) [liberation-giving](muktidāḥ)
 
 ## mukta-m0-p25-v618
-[fifty+syllable+arrangement](śatārdha+akṣara+vinyāsaṃ) [person](puruṣaṃ) [drop+form](bindu+vigraham)
+[half-hundred-syllable-arrangement](śatārdhākṣaravinyāsaṃ) [person](puruṣaṃ) [bindu-form](binduvigraham)
 
 ## mukta-m0-p25-v619
-[of-trees+shrubs+creepers](vṛkṣa+gulma+latānām) [but](tu) [of-herbs](oṣadhīnāṃ) [he](saḥ) [origin](saṃbhavaḥ)
+[trees-shrubs-creepers](vṛkṣagulmalatānāntu) [of-herbs](oṣadhīnāṃ) [sa](sa) [origin](saṃbhavaḥ)
 
 ## mukta-m0-p25-v620
-[ya-syllable](ya+kāra+akṣaram) [thus](iti) [some](eke) [breath+beginning](prāṇa+ādyāḥ) [facing-all-directions](viśvataḥ+mukham)
+[yakāra-syllable](yakārākṣaram) [ity](ityeke) [prāṇa-etc](prāṇādyā) [all-facing](viśvatomukham)
 
 ## mukta-m0-p25-v621
-[ra-syllable](ra+kāram) [fire](analam) [and+here](ca+atra) [resort-to](prapadanti) [wise-ones](vipaścitaḥ)
+[rakāra](rakāram) [fire](analañ) [ca](ca) [atra](atra) [declare](prapadanti) [wise](vipaścitaḥ)
 
 ## mukta-m0-p25-v622
-[food+drink+fuel](anna+pāna+indhanaḥ) [enjoyer](bhoktā) [he](saḥ) [living-self](jīva+ātmā) [thus](iti) [and](ca) [is-called](ucyate)
+[food-drink-fuel](annapānendhano) [enjoyer](bhoktā) [sa](sa) [jīvātman](jīvātmeti) [ca](ca) [called](ucyate)
 
 ## mukta-m0-p25-v623
-[power](vibhūtiḥ) [thus](iti) [this](imaṃ) [they-say](prāhuḥ) [that+śakti](tat+śakram) [well-worshipped](ava+pūjitam)
+[vibhu](vibhūriti) [this](imaṃ) [call](prāhuḥ) [that](tac) [śakra](śakram) [worshipped](avapūjitam)
 
 ## mukta-m0-p25-v624
-[nectar+flowing+jasmine-white](amṛta+syanda+kundābhaṃ) [moon+ray+equal+cool](candra+aṃśu+sama+śītalam)
+[nectar-dripping-kunda-like](amṛtasyandakundābhaṃ) [moon-ray-cool](candrāṃśusamaśītalam)
 
 ## mukta-m0-p25-v625
-[then](atha) [say](āhuḥ) [others](apare) [some](kecit) [space+seed](vyoma+bījam) [unsurpassed](anuttamam)
+[then](athāhur) [others](apare) [some](kecid) [sky-seed](vyomabījam) [unsurpassed](anuttamam)

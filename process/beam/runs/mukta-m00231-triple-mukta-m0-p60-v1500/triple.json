@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "śaktau",
+     "gloss": "to-śakti",
+     "grounds": "locative of śakti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "absolute participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "adverbial form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ābharaṇādikam",
+     "gloss": "ornaments-etc",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is to be offered to Śakti first and likewise ornaments and the rest?",
+   "premises": [
+    "Śakti receives offerings first.",
+    "Ornaments are offered likewise.",
+    "The verse continues prior instruction."
+   ],
+   "inference": "The verse prescribes offering ornaments and similar items to Śakti after the first offering.",
+   "uncertainties": [
+    "Exact ritual sequence beyond this verse remains unclear."
+   ],
+   "plain_english": "Having offered to Śakti first, likewise offer ornaments and the rest."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[twenty-one](ekaviṃśat) [having-resorted-to](samāśritya) [gentle](saumyā) [measures](mātrā) [are-established](vyavasthitāḥ)
+[twenty-one](ekaviṃśat) [having-resorted](samāśritya) [gentle](saumyā) [measures](mātrā) [established](vyavasthitāḥ)
 
 ## mukta-m0-p50-v1227
-[in-the-thirty-third](trayastriṃśe) [without-support](nirālaṃbā) [of-that](tasyā) [mark](lakṣaṃ) [not](na) [is-known](vidyate)
+[thirty-third](trayastriṃśe) [supportless](nirālaṃbā) [of-it](tasyā) [mark](lakṣaṃ) [not](na) [is-found](vidyate)
 
 ## mukta-m0-p50-v1228
-[among-them](teṣu) [marked-by-characteristics](lakṣaṇa+dinyāni) [to-be-perceived](lakṣitavyā) [by-the-wise](vipaścitaiḥ)
+[in-them](teṣu) [characteristics](lakṣaṇadinyāni) [to-be-observed](lakṣitavyā) [by-wise](vipaścitaiḥ)
 
 ## mukta-m0-p50-v1229
-[of-them](teṣām) [attainment](avāptiṃ) [causing-to-reach](gamayan) [how](kathaṃ) [immediately](sadya) [is-attained](upalabhyate)
+[of-them](teṣām) [attainment](avāptiṃ) [leading](gamayan) [how](kathaṃ) [immediately-obtained](sadyopalabhyate)
 
 ## mukta-m0-p50-v1230
-[by-those-sinking](sīdantyāyāsa+bahulaiḥ) [deer](mṛgāḥ) [like](iva) [a-trap](kūṭa) [situated](saṃsthitāḥ)
+[sinking-with-much-exertion](sīdantyāyāsabahulaiḥ) [deer](mṛgāḥ) [like-a-trap](kūṭeva) [situated](saṃsthitāḥ)
 
 ## mukta-m0-p50-v1231
-[immediate-attainment](sadya+upalabdhi) [giving-joy](sukhadaṃ) [that](tat) [to-me](me) [tell](brūhi) [O-great-lord](maheśvara)
+[immediately-obtained-joy-giving](sadyopalabdhisukhadaṃ) [that](tan) [to-me](me) [tell](brūhi) [great-lord](maheśvara)
 
 ## mukta-m0-p50-v1232
-[which](yaṃ) [having-attained](prāpya) [immediately](sadyaḥ) [state-of-Śiva](śivatāṃ) [they-obtain](labhanti) [free-from-effort](āyāsa+varjitāḥ)
+[which](yaṃ) [having-obtained](prāpya) [immediate-shivahood](sadyaśśivatāṃ) [obtain-free-from-exertion](labhantyāyāsavarjitāḥ)
 
 ## mukta-m0-p50-v1233
-[are-absorbed](līyante) [indeed](tu) [as](yathā) [in-the-mark](lakṣe) [in-the-moment](nimeṣa+ādhye) [indeed](tu) [?](?)
+[dissolve](līyante) [indeed](tu) [as](yathā) [in-mark](lakṣe) [in-a-moment](nimeṣādhye) [?](tu ?)
 
 ## mukta-m0-p50-v1234
-[then](tataḥ) [of-this](asya) [on-all-sides](sarvataḥ) [pervading](vyāpī) [sound](dhvaniḥ) [upward](ūrdhvaṃ) [expands](vijṛmbhate)
+[then](tato) [of-it](asya) [everywhere](sarvato) [pervading](vyāpī) [sound](dhvaniḥ) [upward](ūrdhvaṃ) [expands](vijṛmbhate)
 
 ## mukta-m0-p50-v1235
-[of-that](tasya) [by-that](tena) [application](prayogena) [sound](śabdam) [they-call](āhuḥ) [uncreated](akṛtrimam)
+[of-it](tasya) [by-that](tena) [practice](prayogena) [sound](śabdam) [they-call](āhur) [natural](akṛtrimam)
 
 ## mukta-m0-p50-v1236
-[therefore](tasmāt) [beginning-with-ṣaḍja](ṣaḍja+ādayaḥ) [seven](sapta) [the-self-born](svayaṃbhūḥ) [created](asṛjat) [formerly](purā)
+[therefore](tasmāt) [from-ṣaḍja-etc](ṣaḍjādayaḥ) [seven](sapta) [self-born](svayaṃbhuḥ) [created](asṛjat) [formerly](purā)
 
 ## mukta-m0-p50-v1237
-[seven](sapta) [notes](svarāḥ) [indeed](tu) [arisen](saṃbhūtāḥ) [sound](dhvanim) [practicing](abhyasataḥ) [always](sadā)
+[seven](sapta) [notes](svarāḥ) [indeed](tu) [born](saṃbhūtāḥ) [sound](dhvanim) [practicing](abhyasataḥ) [always](sadā)
 
 ## mukta-m0-p50-v1238
-[rajas](rajaḥ) [and-tamas](tamaṃ) [then](tataḥ) [having-pierced](bhitvā) [light](jyotiḥ) [at-the-end](ante) [shines-forth](prakāśate)
+[dust-darkness](rajastamaṃ) [then](tato) [piercing](bhitvā) [light](jyotir) [at-end](ante) [shines](prakāśate)
 
 ## mukta-m0-p50-v1239
-[by-three](tribhiḥ) [months](māsai) [independent](svatantraḥ) [and](ca) [state-of-Śiva](śivatvaṃ) [of-him](tasya) [arises](jāyate)
+[in-three-months](tribhirmāsai) [independent](svatantraśca) [shivahood](śivatvaṃ) [of-him](tasya) [arises](jāyate)
 
 ## mukta-m0-p50-v1240
-[in-this](asmin) [mark](lakṣe) [with-the-mind](manasā) [knowledge](jñānaṃ) [disregard](navajñāṃ) [to-make](kartum) [you-should-not](na+arhasi)
+[in-this-mark](lakṣesmin) [by-mind](manasā) [knowledge](jñānaṃ) [not](nā) [disregard](avajñāṃ) [to-do](kartum) [should](arhasi)
 
 ## mukta-m0-p50-v1241
-[among-dog-cookers](śvapaceṣu) [even](api) [eating](bhuñjānāḥ) [like-a-lotus-leaf](padma+patram) [in-water](iva+aṃbhasi)
+[even-in-dog-cookers](śvapaceṣvapi) [enjoying](bhuñjānāḥ) [like-lotus-leaf](padmapatram) [in-water](ivāṃbhasi)
 
 ## mukta-m0-p50-v1242
-[from-here](ataḥ) [further](paraṃ) [I-shall-declare](pravakṣyāmi) [absorption](layam) [free-from-effort](āyāsa+varjitam)
+[therefore](ataḥ) [further](paraṃ) [I-will-declare](pravakṣyāmi) [absorption](layam) [free-from-exertion](āyāsavarjitam)
 
 ## mukta-m0-p50-v1243
-[in-sunlight](sūrya+ātape) [standing-outside](bahiḥ+sthitvā) [somewhat](kiñcit) [resorting-to-devotion](bhakti+samāśritaḥ)
+[in-sunlight](sūryātape) [standing-outside](bahisthitvā) [a-little](kiñcit) [devotion-refuge](bhaktisamāśritaḥ)
 
 ## mukta-m0-p50-v1244
-[as](yathā) [as](yathā) [indeed](tu) [in-this](caitasmin) [mind](manaḥ) [on-the-mark](lakṣe) [one-places](samādadhe)
+[as](yathā) [as](yathā) [indeed](tu) [in-this](caitasmin) [mind](mano) [in-mark](lakṣe) [concentrated](samādadhe)
 
 ## mukta-m0-p50-v1245
-[thus](evaṃ) [by-month-long-practice](māsa+prayogena) [movement-in-the-head](mūdhni+cāram) [uncovered](apāvṛtam)
+[thus](evaṃ) [month-practice](māsaprayogena) [crown-path](mūdhnicāram) [opened](apāvṛtam)
 
 ## mukta-m0-p50-v1246
-[the-path-of-the-gods](deva+yāna+pathaṃ) [having-seen](dṛṣṭvā) [one-sees](paśyata) [the-self](ātmānam) [in-the-self](ātmani)
+[divine-path](devayānapathaṃ) [having-seen](dṛṣṭvā) [see](paśyatā) [self](ātmānam) [in-self](ātmani)
 
 ## mukta-m0-p50-v1247
-[along-the-path-of-smoke](dhūma+anumārgāt) [lights](jyotīṃṣi) [that](tāṃ) [having-seen](dṛṣṭvā) [not](na) [perishable](bhṛtaṃ) [state](padam)
+[smoke-path](dhūmānumārgāñjyotīṃṣi) [that](tāṃ) [having-seen](dṛṣṭvā) [not](na) [supported](bhṛtaṃ) [foot](padam)
 
 ## mukta-m0-p50-v1248
-[thus](evaṃ) [to-you](te) [the-mark-of-piṅgalā](piṅgalā+lakṣaṃ) [by-the-mind](manasā) [fully-perceived](parilakṣitam)
+[thus](evaṃ) [your](te) [piṅgalā-mark](piṅgalālakṣaṃ) [by-mind](manasā) [observed](parilakṣitam)
 
 ## mukta-m0-p50-v1249
-[by-this](anena) [method](vidhinā) [O-god](deva) [by-radiance](tejasā) [fully-enveloped](parisaṃvṛtaḥ)
+[by-this](anena) [method](vidhinā) [god](deva) [by-radiance](tejasā) [surrounded](parisaṃvṛtaḥ)
 
 ## mukta-m0-p50-v1250
-[thought](cintitaṃ) [by-the-mind](manasā) [all](sarvaṃ) [accomplishes](saṃpādayati) [with-ease](līlayā)
+[thought](cintitaṃ) [by-mind](manasā) [all](sarvaṃ) [accomplishes](saṃpādayati) [by-play](līlayā)

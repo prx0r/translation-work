@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "namaḥ+śabdaṃ",
+     "gloss": "namaḥ-word",
+     "grounds": "token given as fused namaḥ+śabdaṃ; accusative object of utterance",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive/participle of sam-uccāra; indeclinable verbal form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "imāṃ",
+     "gloss": "this",
+     "grounds": "feminine accusative singular demonstrative pronoun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "śiktaṃ",
+     "gloss": "śikta",
+     "grounds": "accusative singular neuter adjective/noun in the rite",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "let-him-say",
+     "grounds": "optative third singular of vad, prescriptive instruction",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What must be uttered after the namaḥ-word during the abhiṣeka rite?",
+   "premises": [
+    "namaḥ-word is uttered first",
+    "this śikta follows it",
+    "the instruction is prescriptive"
+   ],
+   "inference": "The verse prescribes uttering the namaḥ-word, then saying this śikta.",
+   "uncertainties": [
+    "exact ritual referent of śiktaṃ is not specified in this verse",
+    "the precise grammatical gender of śiktaṃ depends on its referent"
+   ],
+   "plain_english": "Having uttered the word namaḥ, then let him say this śikta."
+  }
+ ]
+}

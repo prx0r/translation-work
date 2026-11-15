@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1484,
- "question": "How do all the demons' powers act by sight?",
+ "question": "What clan-related objects and persons are named here?",
  "premises": [
-  "All powers belong to demons",
-  "They act by sight"
+  "clan-view śāstras are named",
+  "clan wealth is named",
+  "kaulikas are named"
  ],
- "inference": "The demons' powers are activated or affected through sight.",
- "uncertainties": [],
- "plain_english": "Then all those powers of the demons act by sight."
+ "inference": "the verse lists clan śāstras wealth and kaulika persons",
+ "uncertainties": [
+  "syntactic relation among the three nouns"
+ ],
+ "plain_english": "Clan-view śāstras, clan wealth, and kaulikas."
 }

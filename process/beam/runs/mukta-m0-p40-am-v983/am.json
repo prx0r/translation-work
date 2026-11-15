@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 983,
- "question": "What is the consequence of performing worship without the ritual offering fee?",
+ "question": "What should the best practitioner perform after these rites?",
  "premises": [
-  "The ritual offering fee may be absent.",
-  "The entire rite is evaluated.",
-  "Doubt about the outcome is explicitly denied."
+  "the best practitioner acts",
+  "mantra purification is performed",
+  "it follows the prior rites"
  ],
- "inference": "Without the offering fee, the entire worship becomes vain without doubt.",
- "uncertainties": [],
- "plain_english": "If the ritual offering fee is lacking, everything becomes vain; there is no doubt about this."
+ "inference": "The best practitioner should then perform mantra purification.",
+ "uncertainties": [
+  "specific purification method"
+ ],
+ "plain_english": "Then the best practitioner should perform mantra purification."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p54",
  "verse": 1335,
- "question": "What features characterize the sun-cell in this stage of the temple design?",
+ "question": "When is auspiciousness for the practitioner not otherwise?",
  "premises": [
-  "The design includes a sun-cell.",
-  "The sun-cell is associated with four towers.",
-  "The sun-cell is joined with niche-cages."
+  "auspiciousness is named",
+  "it belongs to him",
+  "it belongs to practitioner"
  ],
- "inference": "The sun-cell should be four-towered and joined with niche-cages.",
- "uncertainties": [],
- "plain_english": "The sun-cell should have four towers and be joined with niche-cages."
+ "inference": "Then auspiciousness for him and the practitioner is not otherwise.",
+ "uncertainties": [
+  "exact condition is implied"
+ ],
+ "plain_english": "Then auspiciousness for him and the practitioner is not otherwise."
 }

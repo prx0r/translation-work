@@ -1,0 +1,1202 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1226,
+   "rows": [
+    {
+     "surface": "mahyaṃ",
+     "gloss": "to-me",
+     "grounds": "dative of aham",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śukrāya",
+     "gloss": "to-śukra",
+     "grounds": "dative of śukra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sūryāya",
+     "gloss": "to-sun",
+     "grounds": "dative of sūrya",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "gaṇeśāya",
+     "gloss": "to-gaṇeśa",
+     "grounds": "dative of gaṇeśa",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "yamāya",
+     "gloss": "to-yama",
+     "grounds": "dative of yama",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine recipients receive offerings in this Kaula ritual sequence?",
+   "premises": [
+    "mahyaṃ śukrāya sūryāya gaṇeśāya yamāya ca lists recipients",
+    "the verse is a ritual offering list",
+    "ca joins the final recipient"
+   ],
+   "inference": "The practitioner offers to me, Śukra, the Sun, Gaṇeśa, and Yama.",
+   "uncertainties": [
+    "mahyaṃ may be a deity or self-reference"
+   ],
+   "plain_english": "To me, to Śukra, to the Sun, to Gaṇeśa, and to Yama."
+  },
+  {
+   "verse": 1227,
+   "rows": [
+    {
+     "surface": "īśānāya",
+     "gloss": "to-īśāna",
+     "grounds": "dative of īśāna",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "to-great-goddess",
+     "grounds": "dative of mahādevī",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "sādhakāya",
+     "gloss": "to-sādhaka",
+     "grounds": "dative of sādhaka",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "let-him-appoint",
+     "grounds": "causative of prakalp",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Whom should the practitioner appoint in this Kaula ritual?",
+   "premises": [
+    "īśānāya mahādevī sādhakāya are dative recipients",
+    "prakalpayet means let him appoint",
+    "the verse names three ritual figures"
+   ],
+   "inference": "He should appoint Īśāna, the great goddess, and the sādhaka.",
+   "uncertainties": [
+    "mahādevī may be a specific goddess"
+   ],
+   "plain_english": "Let him appoint Īśāna, the great goddess, and the sādhaka."
+  },
+  {
+   "verse": 1228,
+   "rows": [
+    {
+     "surface": "yatnataḥ",
+     "gloss": "carefully",
+     "grounds": "adverb from yatna",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaśreṣṭho",
+     "gloss": "best-sādhaka",
+     "grounds": "compound sādhaka+śreṣṭha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirmālyāni",
+     "gloss": "leftover-offerings",
+     "grounds": "plural accusative of nirmālya",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "let-him-offer",
+     "grounds": "causative of samṛ",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should the best sādhaka carefully offer?",
+   "premises": [
+    "yatnataḥ means carefully",
+    "sādhakaśreṣṭho is best sādhaka",
+    "nirmālyāni are leftover offerings",
+    "samarpayet means let him offer"
+   ],
+   "inference": "The best sādhaka should carefully offer the leftover offerings.",
+   "uncertainties": [
+    "nirmālya may mean remnants of worship"
+   ],
+   "plain_english": "The best sādhaka should carefully offer the leftover offerings."
+  },
+  {
+   "verse": 1229,
+   "rows": [
+    {
+     "surface": "mālyaṃ",
+     "gloss": "garland",
+     "grounds": "accusative of mālya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gandhaṃ",
+     "gloss": "sandal",
+     "grounds": "accusative of gandha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of dā",
+     "morph": "abs"
+    },
+    {
+     "surface": "ātmadehaṃ",
+     "gloss": "own-body",
+     "grounds": "compound ātma+deha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato'rpayet",
+     "gloss": "then-offer",
+     "grounds": "fused tatas+arpayet",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be offered after garland and sandal?",
+   "premises": [
+    "mālyaṃ gandhaṃ are offered first",
+    "dattvā means having given",
+    "ātmadehaṃ is own body",
+    "tato'rpayet means then offer"
+   ],
+   "inference": "After giving garland and sandal, he should then offer his own body.",
+   "uncertainties": [
+    "tato'rpayet sandhi expansion not shown"
+   ],
+   "plain_english": "Having given garland and sandal, he should then offer his own body."
+  },
+  {
+   "verse": 1230,
+   "rows": [
+    {
+     "surface": "śrīpātragrahaṇaṃ",
+     "gloss": "having-taken-śrī-pātra",
+     "grounds": "compound śrī+pātra+grahaṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "cakra",
+     "grounds": "accusative of cakra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "root kṛ",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who first takes the śrī-pātra and makes the cakra?",
+   "premises": [
+    "śrīpātragrahaṇaṃ kṛtvā means having taken śrī-pātra",
+    "ādau means first",
+    "cakraṃ karoti means makes cakra",
+    "yaḥ means who"
+   ],
+   "inference": "The one who first takes the śrī-pātra and makes the cakra is described.",
+   "uncertainties": [
+    "yaḥ may refer to vīra"
+   ],
+   "plain_english": "He who first takes the śrī-pātra and makes the cakra."
+  },
+  {
+   "verse": 1231,
+   "rows": [
+    {
+     "surface": "arghyāmṛtaṃ",
+     "gloss": "arghya-nectar",
+     "grounds": "compound arghya+amṛta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "nominative of vīra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāmayikebhyo",
+     "gloss": "to-sāmayika",
+     "grounds": "dative plural of sāmayika",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "let-him-present",
+     "grounds": "causative of nivid",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "To whom should the hero present arghya-nectar?",
+   "premises": [
+    "arghyāmṛtaṃ is arghya-nectar",
+    "vīraḥ is hero",
+    "sāmayikebhyo is to sāmayika",
+    "nivedayet means let him present"
+   ],
+   "inference": "The hero should present arghya-nectar to the sāmayika.",
+   "uncertainties": [
+    "sāmayika may mean initiated companions"
+   ],
+   "plain_english": "Then the hero should present arghya-nectar to the sāmayika."
+  },
+  {
+   "verse": 1232,
+   "rows": [
+    {
+     "surface": "prabandhe",
+     "gloss": "in-prabandha",
+     "grounds": "locative of prabandha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūrṇapātrañca",
+     "gloss": "full-vessel",
+     "grounds": "fused pūrṇapātram+ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pragṛhya",
+     "gloss": "having-taken",
+     "grounds": "absolutive of pragrah",
+     "morph": "abs"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-sādhaka",
+     "grounds": "compound sādhaka+uttama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the best sādhaka take in the prabandha?",
+   "premises": [
+    "prabandhe means in prabandha",
+    "pūrṇapātrañca means full vessel and",
+    "pragṛhya means having taken",
+    "sādhakottamaḥ means best sādhaka"
+   ],
+   "inference": "The best sādhaka takes the full vessel in the prabandha.",
+   "uncertainties": [
+    "prabandha may mean ritual sequence"
+   ],
+   "plain_english": "In the prabandha, the best sādhaka takes the full vessel."
+  },
+  {
+   "verse": 1233,
+   "rows": [
+    {
+     "surface": "dāsvādyāpi",
+     "gloss": "having-given-etc",
+     "grounds": "fused dattvā+ādi+api",
+     "morph": "abs"
+    },
+    {
+     "surface": "pibed",
+     "gloss": "let-him-drink",
+     "grounds": "root pā",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "rasaṃ",
+     "gloss": "rasa",
+     "grounds": "accusative of rasa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sukhakaraṃ",
+     "gloss": "pleasure-giving",
+     "grounds": "compound sukha+kara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "duḥkhasya",
+     "gloss": "of-sorrow",
+     "grounds": "genitive of duḥkha",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nirmūlanam",
+     "gloss": "uprooting",
+     "grounds": "compound nir+mūla+na",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What rasa should be drunk after giving?",
+   "premises": [
+    "dāsvādyāpi means having given etc",
+    "pibed means let him drink",
+    "rasaṃ is rasa",
+    "sukhakaraṃ means pleasure-giving",
+    "duḥkhasya nirmūlanam means uprooting of sorrow"
+   ],
+   "inference": "He should drink the pleasure-giving rasa that uproots sorrow.",
+   "uncertainties": [
+    "dāsvādyāpi exact sandhi uncertain"
+   ],
+   "plain_english": "Having given etc, let him drink the pleasure-giving rasa that uproots sorrow."
+  },
+  {
+   "verse": 1234,
+   "rows": [
+    {
+     "surface": "arghyasya+bindumātreṇa",
+     "gloss": "by-drop-of-arghya",
+     "grounds": "fused arghyasya+bindumātreṇa",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "freed",
+     "grounds": "past participle of muc",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "root bhū",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "pātakāt",
+     "gloss": "from-sin",
+     "grounds": "ablative of pātaka",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what is one freed by a drop of arghya?",
+   "premises": [
+    "arghyasya+bindumātreṇa means by a drop of arghya",
+    "mukto bhavati means becomes freed",
+    "pātakāt means from sin"
+   ],
+   "inference": "By a drop of arghya one becomes freed from sin.",
+   "uncertainties": [
+    "fused token kept whole"
+   ],
+   "plain_english": "By a drop of arghya one becomes freed from sin."
+  },
+  {
+   "verse": 1235,
+   "rows": [
+    {
+     "surface": "nyubjīkuryācca",
+     "gloss": "let-him-invert",
+     "grounds": "fused nyubjīkuryāt+ca",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative of bhūmi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative of puṣpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣiped+budhaḥ",
+     "gloss": "let-wise-one-throw",
+     "grounds": "fused kṣipet+budhaḥ",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should the wise one invert and throw?",
+   "premises": [
+    "nyubjīkuryācca means let him invert and",
+    "tad bhūmau means that on ground",
+    "tatra puṣpaṃ means there flower",
+    "kṣiped+budhaḥ means let wise one throw"
+   ],
+   "inference": "He should invert that on the ground and the wise one should throw a flower there.",
+   "uncertainties": [
+    "fused forms kept whole"
+   ],
+   "plain_english": "Let him invert that on the ground; there let the wise one throw a flower."
+  },
+  {
+   "verse": 1236,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāṅgulinā",
+     "gloss": "with-little-finger",
+     "grounds": "instrumental of kaniṣṭhāṅguli",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmahastasya",
+     "gloss": "left-hand",
+     "grounds": "genitive of vāmahasta",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "accusative of tilaka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what should the tilaka be made?",
+   "premises": [
+    "kaniṣṭhāṅgulinā means with little finger",
+    "vā means or",
+    "vāmahastasya means of left hand",
+    "tilakaṃ is tilaka",
+    "tathā means thus"
+   ],
+   "inference": "The tilaka is made with the little finger or the left hand, thus.",
+   "uncertainties": [
+    "vāmahastasya may modify finger"
+   ],
+   "plain_english": "With the little finger, or of the left hand, the tilaka thus."
+  },
+  {
+   "verse": 1237,
+   "rows": [
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "spṛśāmi",
+     "gloss": "I-touch",
+     "grounds": "root spṛś",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "pādena",
+     "gloss": "with-foot",
+     "grounds": "instrumental of pāda",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśyāmi",
+     "gloss": "I-see",
+     "grounds": "root paś",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "cakṣuṣā",
+     "gloss": "with-eye",
+     "grounds": "instrumental of cakṣus",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "Whom does the practitioner touch with foot and see with eye?",
+   "premises": [
+    "yaṃ yaṃ spṛśāmi pādena means whom whom I touch with foot",
+    "yaṃ yaṃ paśyāmi cakṣuṣā means whom whom I see with eye",
+    "repetition emphasizes all"
+   ],
+   "inference": "He touches and sees whomsoever with foot and eye.",
+   "uncertainties": [
+    "exact ritual meaning unclear"
+   ],
+   "plain_english": "Whomsoever I touch with foot, whomsoever I see with eye."
+  },
+  {
+   "verse": 1238,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṣālya",
+     "gloss": "having-washed",
+     "grounds": "absolutive of prakṣāl",
+     "morph": "abs"
+    },
+    {
+     "surface": "vīrendro",
+     "gloss": "hero-lord",
+     "grounds": "compound vīra+indra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gopayet",
+     "gloss": "let-him-hide",
+     "grounds": "root gup",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pātramuttamam",
+     "gloss": "best-vessel",
+     "grounds": "compound pātra+uttama",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should the hero-lord hide after washing?",
+   "premises": [
+    "tataḥ means then",
+    "prakṣālya means having washed",
+    "vīrendro means hero-lord",
+    "gopayet means let him hide",
+    "pātramuttamam means best vessel"
+   ],
+   "inference": "The hero-lord should hide the best vessel after washing.",
+   "uncertainties": [
+    "pātra may be ritual vessel"
+   ],
+   "plain_english": "Then, having washed, the hero-lord should hide the best vessel."
+  },
+  {
+   "verse": 1239,
+   "rows": [
+    {
+     "surface": "bhojayecca",
+     "gloss": "let-him-feed",
+     "grounds": "fused bhojayet+ca",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned",
+     "grounds": "nominative of vidvas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "strībhiśca",
+     "gloss": "with-women",
+     "grounds": "fused strībhiḥ+ca",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "with-sādhakas",
+     "grounds": "instrumental plural of sādhaka",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom should the learned one feed together?",
+   "premises": [
+    "bhojayecca means let him feed and",
+    "vidvān means learned",
+    "strībhiśca means with women and",
+    "sādhakaiḥ means with sādhakas",
+    "saha means together"
+   ],
+   "inference": "The learned one should feed together with women and sādhakas.",
+   "uncertainties": [
+    "bhojayecca fused with ca"
+   ],
+   "plain_english": "Then the learned one should feed together with women and sādhakas."
+  },
+  {
+   "verse": 1240,
+   "rows": [
+    {
+     "surface": "tāmbūlābharaṇādīṃśca",
+     "gloss": "betel-ornaments-etc",
+     "grounds": "fused tāmbūla+ābharaṇa+ādi+ṃś+ca",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talpaṃ",
+     "gloss": "couch",
+     "grounds": "accusative of talpa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "susādhakaḥ",
+     "gloss": "good-sādhaka",
+     "grounds": "compound su+sādhaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the good sādhaka provide?",
+   "premises": [
+    "tāmbūlābharaṇādīṃśca means betel ornaments etc and",
+    "tathā means thus",
+    "talpaṃ means couch",
+    "susādhakaḥ means good sādhaka"
+   ],
+   "inference": "The good sādhaka should provide betel, ornaments, etc., and a couch.",
+   "uncertainties": [
+    "ādīṃśca fused ending"
+   ],
+   "plain_english": "Betel, ornaments, etc., and a couch, thus, for the good sādhaka."
+  },
+  {
+   "verse": 1241,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "root jan",
+     "morph": "3.sg.mid.pres"
+    },
+    {
+     "surface": "bhairavāveśaḥ",
+     "gloss": "bhairava-possession",
+     "grounds": "compound bhairava+āveśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samadarśanaḥ",
+     "gloss": "equal-vision",
+     "grounds": "compound sama+darśana",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What arises everywhere with equal vision?",
+   "premises": [
+    "jāyate means arises",
+    "bhairavāveśaḥ means bhairava-possession",
+    "sarvatra means everywhere",
+    "samadarśanaḥ means equal-vision"
+   ],
+   "inference": "Bhairava-possession arises everywhere with equal vision.",
+   "uncertainties": [
+    "subject may be practitioner"
+   ],
+   "plain_english": "Bhairava-possession arises everywhere with equal vision."
+  },
+  {
+   "verse": 1242,
+   "rows": [
+    {
+     "surface": "vāraṇāt",
+     "gloss": "from-obstruction",
+     "grounds": "ablative of vāraṇa",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tripurā",
+     "gloss": "tripurā",
+     "grounds": "nominative of tripurā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ruṣṭā",
+     "gloss": "angry",
+     "grounds": "past participle of ruṣ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "nominative of hāni",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "root jan",
+     "morph": "3.sg.mid.pres"
+    }
+   ],
+   "question": "What arises when Tripurā is angry from obstruction?",
+   "premises": [
+    "vāraṇāt means from obstruction",
+    "tripurā ruṣṭā means Tripurā angry",
+    "tato means then",
+    "hāniḥ tu jāyate means loss indeed arises"
+   ],
+   "inference": "When Tripurā is angry from obstruction, loss arises.",
+   "uncertainties": [
+    "tripurā may be goddess or city"
+   ],
+   "plain_english": "From obstruction, Tripurā becomes angry; then loss indeed arises."
+  },
+  {
+   "verse": 1243,
+   "rows": [
+    {
+     "surface": "goṣṭhīmadhye",
+     "gloss": "in-assembly",
+     "grounds": "fused goṣṭhī+madhye",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "carefully",
+     "grounds": "instrumental of yatna",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sparśaṃ",
+     "gloss": "touch",
+     "grounds": "accusative of sparśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive of tad",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "let-one-cause",
+     "grounds": "causative of kṛ",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should not be caused in an assembly?",
+   "premises": [
+    "goṣṭhīmadhye means in assembly",
+    "tu means but",
+    "yatnena means carefully",
+    "sparśaṃ tasya means his touch",
+    "na kārayet means let one not cause"
+   ],
+   "inference": "In an assembly, one should not carefully cause his touch.",
+   "uncertainties": [
+    "tasya referent unclear"
+   ],
+   "plain_english": "In an assembly, but carefully, one should not cause his touch."
+  },
+  {
+   "verse": 1244,
+   "rows": [
+    {
+     "surface": "madhumattāya",
+     "gloss": "to-intoxicated",
+     "grounds": "dative of madhumatta",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vīrāya",
+     "gloss": "to-hero",
+     "grounds": "dative of vīra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "nominative/accusative of puṇya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive of tad",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇyate",
+     "gloss": "is-counted",
+     "grounds": "passive of gaṇ",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Is merit counted for an intoxicated hero?",
+   "premises": [
+    "madhumattāya vīrāya means to intoxicated hero",
+    "puṇyaṃ tasya means his merit",
+    "na gaṇyate means is not counted"
+   ],
+   "inference": "Merit is not counted for an intoxicated hero.",
+   "uncertainties": [
+    "puṇyaṃ case ambiguous"
+   ],
+   "plain_english": "Merit of an intoxicated hero is not counted."
+  },
+  {
+   "verse": 1245,
+   "rows": [
+    {
+     "surface": "bhagarūpā",
+     "gloss": "bhaga-formed",
+     "grounds": "compound bhaga+rūpa",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative of devī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "retaḥprītā",
+     "gloss": "semen-pleased",
+     "grounds": "compound retas+prīta",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the goddess who is bhaga-formed and semen-pleased?",
+   "premises": [
+    "bhagarūpā means bhaga-formed",
+    "sā devī means that goddess",
+    "retaḥprītā means semen-pleased",
+    "sarvadā means always"
+   ],
+   "inference": "That goddess is bhaga-formed and always semen-pleased.",
+   "uncertainties": [
+    "bhaga may be yoni"
+   ],
+   "plain_english": "That goddess is bhaga-formed and always semen-pleased."
+  },
+  {
+   "verse": 1246,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of dhyā",
+     "morph": "abs"
+    },
+    {
+     "surface": "kuṇḍalinīṃ",
+     "gloss": "kuṇḍalinī",
+     "grounds": "accusative of kuṇḍalinī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "śakti",
+     "grounds": "accusative of śakti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "raman",
+     "gloss": "enjoying",
+     "grounds": "present participle of ram",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "reto",
+     "gloss": "semen",
+     "grounds": "accusative of retas",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vimuñcayet",
+     "gloss": "let-him-release",
+     "grounds": "causative of vimuc",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be released after meditating on Kuṇḍalinī?",
+   "premises": [
+    "dhyātvā means having meditated",
+    "kuṇḍalinīṃ śaktiṃ means Kuṇḍalinī śakti",
+    "raman means enjoying",
+    "reto means semen",
+    "vimuñcayet means let him release"
+   ],
+   "inference": "Having meditated on Kuṇḍalinī śakti and enjoying, he should release semen.",
+   "uncertainties": [
+    "raman may modify practitioner"
+   ],
+   "plain_english": "Having meditated on Kuṇḍalinī śakti and enjoying, let him release semen."
+  },
+  {
+   "verse": 1247,
+   "rows": [
+    {
+     "surface": "ātmadehasvarūpeṇa",
+     "gloss": "by-own-body-form",
+     "grounds": "compound ātma+deha+svarūpa",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-ear",
+     "grounds": "locative of karṇa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "accusative of mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utsṛjet",
+     "gloss": "let-him-utter",
+     "grounds": "root utsṛj",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should the mantra be uttered in the ear?",
+   "premises": [
+    "ātmadehasvarūpeṇa means by own body form",
+    "tat karṇe means that in ear",
+    "mantram means mantra",
+    "utsṛjet means let him utter"
+   ],
+   "inference": "By his own body form, let him utter that mantra in the ear.",
+   "uncertainties": [
+    "tat may refer to mantra"
+   ],
+   "plain_english": "By his own body form, let him utter that mantra in the ear."
+  },
+  {
+   "verse": 1248,
+   "rows": [
+    {
+     "surface": "ratikāle",
+     "gloss": "at-time-of-pleasure",
+     "grounds": "compound rati+kāla",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣāyām",
+     "gloss": "in-initiation",
+     "grounds": "locative of dīkṣā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "abhiṣekaṃ",
+     "gloss": "abhiṣeka",
+     "grounds": "accusative of abhiṣeka",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "let-one-perform",
+     "grounds": "root samācar",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "When should abhiṣeka be performed?",
+   "premises": [
+    "ratikāle means at time of pleasure",
+    "ca means and",
+    "dīkṣāyām means in initiation",
+    "abhiṣekaṃ means abhiṣeka",
+    "samācaret means let one perform"
+   ],
+   "inference": "At the time of pleasure and in initiation, one should perform abhiṣeka.",
+   "uncertainties": [
+    "ratikāle may be during intercourse"
+   ],
+   "plain_english": "At the time of pleasure and in initiation, let one perform abhiṣeka."
+  },
+  {
+   "verse": 1249,
+   "rows": [
+    {
+     "surface": "sambhoge",
+     "gloss": "in-intercourse",
+     "grounds": "locative of sambhoga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "abhiṣicet",
+     "gloss": "let-him-consecrate",
+     "grounds": "root abhiṣic",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "nārīṃ",
+     "gloss": "woman",
+     "grounds": "accusative of nārī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "raṇḍāñca",
+     "gloss": "widow",
+     "grounds": "fused raṇḍām+ca",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mantravarjitām",
+     "gloss": "mantra-less",
+     "grounds": "compound mantra+varjita",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Whom should he consecrate in intercourse?",
+   "premises": [
+    "sambhoge means in intercourse",
+    "abhiṣicet means let him consecrate",
+    "nārīṃ means woman",
+    "raṇḍāñca means widow and",
+    "mantravarjitām means mantra-less"
+   ],
+   "inference": "In intercourse he should consecrate a woman, a widow, and one without mantra.",
+   "uncertainties": [
+    "raṇḍāñca fused with ca"
+   ],
+   "plain_english": "In intercourse, let him consecrate a woman, a widow, and one without mantra."
+  }
+ ]
+}

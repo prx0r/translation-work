@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-fifth(pañcamaṃ) to-you(te) declared(samākhyātam) in-sequence(anupūrvaṃ) in-due-order(yathākramam)
+[pañcamaṃ](pañcamaṃ) [te](te) [samākhyātam+anupūrvaṃ](samākhyātamanupūrvaṃ) [yathākramam](yathākramam)
 
 ## mukta-m0-p58-v1427
-sound(dhvaniḥ) previously(pūrvaṃ) by-me(mayā) declared(khyātaḥ) in-which(yasmin) knowledge+origin(vidyā+samudbhavaḥ)
+[dhvaniḥ](dhvaniḥ) [pūrvaṃ](pūrvaṃ) [mayā](mayā) [khyāto](khyāto) [yasmin](yasmin) [vidyāsamudbhavaḥ](vidyāsamudbhavaḥ)
 
 ## mukta-m0-p58-v1428
-of-lords-of-knowledge(vidyeśānāṃ) triad+form(trimūrtiḥ) and(tu) described(kathitaḥ) and(ca) in-sequence(anu) previously(pūrvaśaḥ)
+[vidyeśānāṃ](vidyeśānāṃ) [trimūrtiḥ+tu](trimūrtistu) [kathitaḥ+cānu+pūrvaśaḥ](kathitaścānupūrvaśaḥ)
 
 ## mukta-m0-p58-v1429
-lordship(īśitvam) and(ca) declared(samākhyātaṃ) of-qualities(guṇānāṃ) O-beautiful-among-gods(sura+sundari)
+[īśitvaṃ+ca](īśitvañca) [samākhyātaṃ](samākhyātaṃ) [guṇānāṃ](guṇānāṃ) [surasundari](surasundari)
 
 ## mukta-m0-p58-v1430
-this(etat) to-you(te) described(kathitaṃ) O-goddess(devi) sixth(ṣaṣṭaṃ) sound(śabdam) unsurpassed(anuttamam)
+[etat+te](etatte) [kathitaṃ](kathitaṃ) [devi](devi) [ṣaṣṭaṃ](ṣaṣṭaṃ) [śabdamanuttamam](śabdamanuttamam)
 
 ## mukta-m0-p58-v1431
-jhaṅkāra(jhaṅkāra) thus(iti) declared(samākhyātaḥ) in-that(tu) in-this(asmin) lord(īśa) origin(samudbhavaḥ)
+[jhaṅkāra+iti](jhaṅkāreti) [samākhyātaḥ](samākhyātaḥ) [tu+asmin+īśa+samudbhavaḥ](tvasminnīśasamudbhavaḥ)
 
 ## mukta-m0-p58-v1432
-from-lord-of-knowledge(vidyeśāt) but(tu) Śrīkaṇṭha(śrīkaṇṭhaḥ) of-yogins(yoginām) Uma(au+ma) proclaimed(kīrtitam)
+[vidyeśāt+tu](vidyeśāttu) [śrīkaṇṭhaḥ](śrīkaṇṭho) [yoginām+aumakīrtitam](yogināmaumakīrtitam)
 
 ## mukta-m0-p58-v1433
-sovereignty(aiśvaryam) and(ca) again(punaḥ) in-that(tasmin) Śiva-hood(śivatvaṃ) that(tat) proclaimed(prakīrtitam)
+[aiśvaryaṃ+ca](aiśvaryañca) [punaḥ+tasmin](punastasmin) [śivatvaṃ](śivatvaṃ) [tat+prakīrtitam](tatprakīrtitam)
 
 ## mukta-m0-p58-v1434
-this(etat) to-you(te) indeed(tu) declared(samākhyātaṃ) seventh(saptamaṃ) sound(śabdam) supreme(uttamam)
+[etat+te](etatte) [tu](tu) [samākhyātaṃ](samākhyātaṃ) [saptamaṃ](saptamaṃ) [śabdam+uttamam](śabdamuttamam)
 
 ## mukta-m0-p58-v1435
-dhvaṃ-sound(dhvaṃ+kṛta) in-the-end(ante) declared(samākhyātaṃ) from-which(yasmāt) principle(tatvaṃ) Sadāśiva(sadāśivam)
+[dhvaṃkṛtam+te](dhvaṃkṛtante) [samākhyātaṃ](samākhyātaṃ) [yasmāt+tatvaṃ](yasmāttatvaṃ) [sadāśivam](sadāśivam)
 
 ## mukta-m0-p58-v1436
-of-lords-of-knowledge(vidyeśānāṃ) Śikhaṇḍīśa(śikhaṇḍīśaḥ) yogin(yogī) Śrīkaṇṭha(śrīkaṇṭhaḥ) is-called(ucyate)
+[vidyeśānāṃ](vidyeśānāṃ) [śikhaṇḍīśaḥ](śikhaṇḍīśo) [yogī](yogī) [śrīkaṇṭhaḥ](śrīkaṇṭha) [ucyate](ucyate)
 
 ## mukta-m0-p58-v1437
-sovereignty(aiśvaryam) there(tatra) O-lady-of-gods(deva+īśi) all+desires+accomplishment(sarva+kāma+avasādhitā)
+[aiśvaryaṃ](aiśvaryaṃ) [tatra](tatra) [deveśi](deveśi) [sarvakāmāvasādhitā](sarvakāmāvasādhitā)
 
 ## mukta-m0-p58-v1438
-knowledge(jñānaṃ) there(tatra) declared(samākhyātaṃ) always(sadā) greatly-delighting(pra+muditam) by-me(mayā)
+[jñānaṃ](jñānaṃ) [tatra](tatra) [samākhyātaṃ](samākhyātaṃ) [sadā](sadā) [pramuditaṃ](pramuditaṃ) [mayā](mayā)
 
 ## mukta-m0-p58-v1439
-by-knowledge(jñānena) is-liberated(mucyate) being(jantuḥ) from-entire+bound-soul+bondage(aśeṣa+paśu+bandhanāt)
+[jñānena](jñānena) [mucyate](mucyate) [jantuḥ](jantuḥ) [aśeṣapaśubandhanāt](aśeṣapaśubandhanāt)
 
 ## mukta-m0-p58-v1440
-bindu(binduḥ) and(ca) four+parted(catuḥ+kalaḥ) and(ca) and(eva) beyond-śānti(śānti+atītaḥ) and(ca) O-vow-observing-one(su+vrate)
+[binduḥ+catuṣkalaḥ+ca+eva](binduścatuṣkalaścaiva) [śāntyatītaḥ+ca](śāntyatītaśca) [suvrate](suvrate)
 
 ## mukta-m0-p58-v1441
-likewise(tathā) to-you(te) I-shall-tell(kathayiṣyāmi) than-secret(guhyāt) more-secret(guhya+taraṃ) great(mahat)
+[tathā](tathā) [te](te) [kathayiṣyāmi](kathayiṣyāmi) [guhyāt+guhyataraṃ](guhyādguhyataraṃ) [mahat](mahat)
 
 ## mukta-m0-p58-v1442
-of-them(teṣām) but(tu) worship(yajanam) I-shall-speak(vakṣye) as-it-is(yathāvat) that(tat) learn(nibodha) from-me(me)
+[teṣām+tu](teṣāntu) [yajanaṃ](yajanaṃ) [vakṣye](vakṣye) [yathāvat+tat+nibodha](yathāvattannibodha) [me](me)
 
 ## mukta-m0-p58-v1443
-there(tatra) lotus(padmaṃ) having-drawn(samālikhya) eight+petaled(aṣṭa+patraṃ) with-pericarp(sa+karṇikam)
+[tatra](tatra) [padmaṃ](padmaṃ) [samālikhya](samālikhya) [aṣṭapatraṃ](aṣṭapatraṃ) [sakarṇikam](sakarṇikam)
 
 ## mukta-m0-p58-v1444
-Ananta(anantaḥ) previously(pūrvam) indeed(eva) declared(uktaḥ) lotus+power(padma+śaktiṃ) likewise(tathā) formerly(purā)
+[anantaḥ](anantaḥ) [pūrvam+eva+uktaḥ](pūrvamevoktaḥ) [padmaśaktiṃ](padmaśaktiṃ) [tathā](tathā) [purā](purā)
 
 ## mukta-m0-p58-v1445
-in-heart+lotus(hṛt+padme) but(tu) as(yathā) declared(proktaṃ) placement(nyāsaṃ) mantra(mantram) and(ca) such(tādṛśam)
+[hṛtpadme](hṛtpadme) [tu](tu) [yathā](yathā) [proktaṃ](proktaṃ) [nyāsaṃ](nyāsaṃ) [mantraṃ+ca](mantrañca) [tādṛśam](tādṛśam)
 
 ## mukta-m0-p58-v1446
-Akṛta(akṛtaṃ) in-south(dakṣiṇe) and(ca) and(eva) Paiśāca(paiśācaṃ) in-southwest(nair-ṛtena) but(tu)
+[akṛtaṃ](akṛtaṃ) [dakṣiṇe](dakṣiṇe) [ca+eva](caiva) [paiśācaṃ](paiśācaṃ) [nair-ṛtena](nair-ṛtena) [tu](tu)
 
 ## mukta-m0-p58-v1447
-in-north(uttareṇa) but(tu) having-placed(vinyasya) Tārā+jñāna(tārā+jñānaṃ) concentrated(samāhitaḥ)
+[uttareṇa](uttareṇa) [tu](tu) [vinyasya](vinyasya) [tārājñānaṃ](tārājñānaṃ) [samāhitaḥ](samāhitaḥ)
 
 ## mukta-m0-p58-v1448
-in-middle(madhye) Ghoṣa(ghoṣam) but(tu) having-placed(vinyasya) this(idam) one-should-do(kuryāt) then(tataḥ) again(punaḥ)
+[madhye](madhye) [ghoṣam+tu](ghoṣantu) [vinyasya](vinyasya) [idaṃ](idaṃ) [kuryāt+tataḥ](kuryāttataḥ) [punaḥ](punaḥ)
 
 ## mukta-m0-p58-v1449
-three+principles(tri+tattvaṃ) one-should-make(kārayet) there(tatra) Ghoṣa+path(ghoṣa+mārgaṃ) in-due-order(yathākramam)
+[tritattvaṃ](tritattvaṃ) [kārayet+tatra](kārayettatra) [ghoṣamārgaṃ](ghoṣamārgaṃ) [yathākramam](yathākramam)
 
 ## mukta-m0-p58-v1450
-with-prolonged-sound(plutena) but(tu) always(sadā) one-should-do(kuryāt) Śiva+principle(śiva+tattvam) but(tu) everywhere(sarvataḥ)
+[plutena](plutena) [tu](tu) [sadā](sadā) [kuryāt](kuryāt) [śivatattvam+tu](śivatattvantu) [sarvataḥ](sarvataḥ)

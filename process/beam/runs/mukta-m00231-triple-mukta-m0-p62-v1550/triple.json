@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "saṃskārasya",
+     "gloss": "of-purification",
+     "grounds": "genitive of saṃskāra",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "vihīnatvād",
+     "gloss": "from-lack",
+     "grounds": "ablative of vihīnatva",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "guruvākyasya",
+     "gloss": "of-guru-word",
+     "grounds": "genitive of guruvākya",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "laṅghanāt",
+     "gloss": "from-transgression",
+     "grounds": "ablative of laṅghana",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "Why does a Kaulika who reverses prescribed conduct attain animal birth?",
+   "premises": [
+    "Lack of purification causes animal birth.",
+    "Transgression of guru word causes animal birth.",
+    "Reversal of conduct leads animal birth."
+   ],
+   "inference": "Animal birth results from deficient purification and guru-word transgression.",
+   "uncertainties": [
+    "Verse fragment depends on previous line for full syntax."
+   ],
+   "plain_english": "He attains animal birth because of lack of purification and transgression of the guru's word."
+  }
+ ]
+}

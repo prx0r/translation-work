@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-another(guhyatamam) most-secret(guhyatamam) O-goddess(devi) listen(śṛṇuṣva) I-tell(kathayāmi) to-you(te)
+[other+most-secret](anyadguhyatamaṃ) [goddess](devi) [listen](śṛṇuṣva) [I-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p109-v2702
-of-iḍā(iḍā) and-of-suṣumṇā(suṣamnayoḥ) + movement(cāraṃ) to-be-known(jñātavyaṃ) by-yogins(yogibhiḥ) + always(sadā)
+[ida](iḍā) [of-sushumna](suṣamnayoś) [movement](cāraṃ) [to-be-known](jñātavyaṃ) [by-yogis](yogibhiḥ) [always](sadā)
 
 ## mukta-m0-p109-v2703
-and(ca) of-oneself(ātmanaḥ) + and(ca) knows(vijānāti) according-to-time(yathākālaṃ) in-divisions(vibhāgaśaḥ)
+[of-self](ātmanaḥ) [and](ca) [knows](vijānāti) [according-to-time](yathākālaṃ) [in-parts](vibhāgaśaḥ)
 
 ## mukta-m0-p109-v2704
-calamity(utpātaṃ) some(kiñcit) + declares(ākhyāti) not(na) there(tatra) fear(bhayam) + should-indicate(ādiśet)
+[omen](utpātaṃ) [something](kiñcid) [tells](ākhyāti) [not](na) [there](tatra) [fear](bhayam) [should-declare](ādiśet)
 
 ## mukta-m0-p109-v2705
-of-family(gotrasya) + and(ca) + inauspicious(aśubhaṃ) should-know(vidyāt) + not(na) death(mṛtyuṃ) of-him(tasya) and(ca) + should-indicate(ādiśet)
+[of-lineage](gotrasya) [inauspicious](aśubhaṃ) [know](vidyāt) [not](na) [death](mṛtyuṃ) [his](tasya) [should-declare](cādiśet)
 
 ## mukta-m0-p109-v2706
-great(mahat) + fear(bhayaṃ) would-be(bhavet) + O-goddess(devi) of-village(grāma) + and-family(gotrasya) O-virtuous-one(suvṛte)
+[great-fear](mahadbhayaṃ) [would-be](bhaved) [goddess](devi) [of-village-lineage](grāmagotrasya) [well-conducted](suvṛte)
 
 ## mukta-m0-p109-v2707
-of-oneself(ātmanaḥ) + but(tu) + inauspicious(aśubhaṃ) should-know(vidyāt) + with-great(mahat) + suffering(kleśena) lives(jīvati)
+[of-self](ātmanaḥ) [inauspicious](aśubhaṃ) [know](vidyāt) [with-great-distress](mahākleśena) [lives](jīvati)
 
 ## mukta-m0-p109-v2708
-of-oneself(ātmanaḥ) death(mṛtyuḥ) + comes(āyāti) thus(iti) of-scripture(śāstrasya) certainty(niścayaḥ)
+[of-self](ātmanaḥ) [death](mṛtyuḥ) [comes](āyāti) [thus](iti) [of-scripture](śāstrasya) [certainty](niścayaḥ)
 
 ## mukta-m0-p109-v2709
-of-king(rājñaḥ) + and(ca) + indeed(eva) + inauspicious(aśubhaṃ) should-know(vidyāt) + from-kingdom(ājyena) and(ca) is-separated(viyujyate)
+[of-king](rājñaḥ) [and](ca) [inauspicious](aśubhaṃ) [know](vidyāt) [with-ghee](ājyena) [and](ca) [separated](viyujyate)
 
 ## mukta-m0-p109-v2710
-of-vehicles(vāhanānāṃ) destruction(kṣayaṃ) having-seen(dṛṣṭvā) should-declare(kathayet) + Śiva-yoga(śiva-yoga) + knower(vit)
+[of-vehicles](vāhanānāṃ) [destruction](kṣayaṃ) [having-seen](dṛṣṭvā) [should-tell](kathayet) [shiva-yoga-knower](śivayogavit)
 
 ## mukta-m0-p109-v2711
-of-kings(rājñāṃ) and(ca) + indeed(eva) danger(bhayaṃ) should-know(vidyāt) + with-great(mahat) + suffering(kleśena) lives(jīvati)
+[of-kings](rājñāṃ) [and](ca) [fear](bhayaṃ) [know](vidyāt) [with-great-distress](mahākleśena) [lives](jīvati)
 
 ## mukta-m0-p109-v2712
-king(rājānam) + inauspicious(aśubhaṃ) should-know(vidyāt) + with-great(mahat) + suffering(kleśena) lives(jīvati)
+[king](rājānam) [inauspicious](aśubhaṃ) [know](vidyāt) [with-great-distress](mahākleśena) [lives](jīvati)
 
 ## mukta-m0-p109-v2713
-of-kings(rājñāṃ) death(maraṇam) + quickly(āśu) + would-be(syāt) + if(yadi) indeed(vai) turns-back(vinivartate)
+[of-kings](rājñāṃ) [death](maraṇam) [quickly](āśu) [would-be](syāt) [if](yadi) [vai](vai) [turns-back](vinivartate)
 
 ## mukta-m0-p109-v2714
-of-people(janānām) + inauspicious(aśubhaṃ) should-know(vidyāt) + as-long-as(yāvat) + five(pañca) on-tenth(daśe) + day(ahani)
+[of-people](janānām) [inauspicious](aśubhaṃ) [know](vidyāt) [up-to-fifteen](yāvatpañca) [days](daśe'hani)
 
 ## mukta-m0-p109-v2715
-thus(evaṃ) having-known(jñātvā) but(tu) wise-one(medhāvīṃ) not(na) should-despair(sīdet) + not(na) + indeed(eva) yoga-knower(yogavit)
+[thus](evaṃ) [having-known](jñātvā) [tu](tu) [wise](medhāvīṃ) [not](na) [sinks](sīdet) [nor](na) [eva](eva) [yoga-knower](yogavit)
 
 ## mukta-m0-p109-v2716
-this(etat) + O-goddess(devi) declared(samākhyātaṃ) secret(rahasyaṃ) hidden(guhyam) + supreme(uttamam)
+[this](etad) [goddess](devi) [declared](samākhyātaṃ) [secret](rahasyaṃ) [most-secret](guhyamuttamam)
 
 ## mukta-m0-p109-v2717
-by-movement(cāreṇa) is-known(jñāyate) * * in-kāra-yoga(kārayoge) not(na) doubt(saṃśayaḥ)
+[by-movement](cāreṇa) [known](jñāyate) [kārayoga](kārayoge) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p109-v2718
-in-exhaling(nissate) what(kim) measure(pramāṇa) would-be(syāt) in-inhaling(praviśe) + also(api) O-great-lord(maheśvara)
+[nissate](nissate) [what](kiṃ) [measure](pramāṇa) [syāt](syāt) [enters](praviśepi) [great-lord](maheśvara)
 
 ## mukta-m0-p109-v2719
-great(mahat) + merit(puṇyam) + this(idam) O-goddess(devi) not(na) asked(pṛṣṭaṃ) by-anyone(kenacit) + before(purā)
+[great-merit](mahatpuṇyam) [this](idaṃ) [goddess](devi) [not](na) [asked](pṛṣṭaṃ) [by-anyone](kenacit) [before](purā)
 
 ## mukta-m0-p109-v2720
-of-breath(prāṇasya) + indeed(eva) by-restraint(nirodhena) should-remain(sthātavyaṃ) by-teacher(deśikena) but(tu)
+[of-breath](prāṇasya) [indeed](eva) [restraint](nirodhena) [should-stand](sthātavyaṃ) [by-teacher](deśikena) [tu](tu)
 
 ## mukta-m0-p109-v2721
-then(tāvat) + in-a-moment(kṣaṇa-mātreṇa) he(saḥ) by-the-accomplished(siddhena) + indeed(eva) practitioner(sādhakaḥ)
+[so-long](tāvat) [moment](takṣaṇamātreṇa) [he](sa) [with-accomplished](siddhena) [eva](eva) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p109-v2722
-when(yadā) breath(prāṇa) + restraint(nirodhaḥ) + but(tu) occurs(bhavate) of-practitioner(sādhakasya) but(tu)
+[when](yadā) [breath-restraint](prāṇanirodhaḥ) [tu](tu) [becomes](bhavate) [of-practitioner](sādhakasya) [tu](tu)
 
 ## mukta-m0-p109-v2723
-in-upper(ūrdhva) + part(bhāge) moves(care) as-long-as(yāvat) + below(adhaḥ) + emptiness(śūnyaṃ) should-indicate(vinirdiśet)
+[upward-part](ūrdhvabhāge) [move](care) [yāvat](yāvat) [below-empty](adhaśśūnyaṃ) [declare](vinirdiśet)
 
 ## mukta-m0-p109-v2724
-uplifting(utkarṣaṇī) digit(kalā) subtle(sūkṣmā) that(su) in-thread(sūtre) and(ca) second(dvitīyakā)
+[utkarṣaṇī](utkarṣaṇī) [kalā](kalā) [subtle](sūkṣmā) [su](su) [sūtre](sūtre) [ca](ca) [second](dvitīyakā)
 
 ## mukta-m0-p109-v2725
-upward(ūrdhvaṃ) moving(sañcarataḥ) + of-him(tasya) two-digits(kale) on-right-side(dakṣiṇataḥ) situated(sthite)
+[upward](ūrdhvaṃ) [moves](sañcarataḥ) [his](tasya) [kalā](kale) [to-right](dakṣiṇataḥ) [standing](sthite)

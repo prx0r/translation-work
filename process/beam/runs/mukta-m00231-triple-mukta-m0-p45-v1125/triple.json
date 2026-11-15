@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "pūrṇābhiṣekahīnānāṃ",
+     "gloss": "of-those-lacking-full-initiation",
+     "grounds": "genitive plural of hīna (lacking) compounded with pūrṇābhiṣeka",
+     "morph": "gen.pl.m/n"
+    },
+    {
+     "surface": "pānam",
+     "gloss": "drinking",
+     "grounds": "neuter singular form used as the act in question",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "atyantadurgatiḥ",
+     "gloss": "extreme-bad-state",
+     "grounds": "nominative singular feminine predicate",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What consequence follows for one who drinks without full initiation?",
+   "premises": [
+    "lacking full initiation changes ritual standing",
+    "drinking is the act under judgment",
+    "extreme bad state is the stated result"
+   ],
+   "inference": "The verse declares drinking by those without full initiation to be an extreme bad state.",
+   "uncertainties": [
+    "whether pānam is subject or object in the larger sentence",
+    "exact gender of hīnānām in context"
+   ],
+   "plain_english": "For those lacking full initiation, drinking is an extreme bad state."
+  }
+ ]
+}

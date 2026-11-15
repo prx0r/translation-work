@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[from-knowledge](jñānāt) [non-return](apunarāvṛttiḥ) [would-be](bhavet) [that](tat) [also](api) [causing](kāriṇī)
+[knowledge](jñānāt) [non-return](apunarāvṛttiḥ) [becomes](bhavet) [that-also](tadapi) [causing](kāriṇī)
 
 ## mukta-m0-p34-v827
-* * * * * * [all](sarvāḥ) [fruitless](niṣphalaḥ) [and](ca) [also](api) [without-remainder](aśeṣataḥ)
+[all](sarvāḥ) [fruitless](niṣphalaḥ) [and](ca) [api](api) [completely](aśeṣataḥ)
 
 ## mukta-m0-p34-v828
-[that](sa) [desire-based](kāmā) [yielding-desired-fruit](kāmitaphalā) [characterized-by-renunciation+and-yoga](nyāsayogādilakṣaṇāḥ)
+[he](sa) [desire](kāmā) [desired-fruit](kāmita+phalā) [renunciation-yoga-etc-marked](nyāsa+yoga+ādi+lakṣaṇāḥ)
 
 ## mukta-m0-p34-v829
-* * * * * * * * * * * * * [remembered](smṛtāḥ)
+[remembered](smṛtāḥ)
 
 ## mukta-m0-p34-v830
-[actions](karmāṇi) [are-dedicated](vinivedyante) [that](sā) [indeed](tu) [of-renunciation](sanyāsikī) [activity](kriyā)
+[actions](karmāṇi) [are-offered](vinivedyante) [that](sā) [but](tu) [renunciant](sanyāsikī) [action](kriyā)
 
 ## mukta-m0-p34-v831
-[which](yāḥ) [are-declared](samuddiṣṭāḥ) [four](catasraḥ) [consisting-of-three-guṇas](triguṇātmikāḥ)
+[which](yāḥ) [described](samuddiṣṭāḥ) [four](catasraḥ) [three-guna-natured](triguṇa+ātmikāḥ)
 
 ## mukta-m0-p34-v832
-[whatever](yatkiñcit) [acquired](ārjitaṃ) [merit](puṇyaṃ) [violence](hiṃsā) [pū](pū) * * * * *
+[whatever](yat+kiñcit) [earned](ārjitam) [merit](puṇyam) [violence](hiṃsā) [pū](pū)
 
 ## mukta-m0-p34-v833
-[remaining-activity](śeṣavṛttī) [consisting-of-guṇas](guṇamayī) [remains](tiṣṭhati) [one](ekā) [even](api) [unimpaired](aviplutā)
+[remaining-conduct](śeṣa+vṛttī) [guna-made](guṇa+mayī) [stands](tiṣṭhati) [one](ekā) [api](api) [unfallen](aviplutā)
 
 ## mukta-m0-p34-v834
-* * * * * * * * * * * [all-beings](sarvajantavaḥ)
+[all-beings](sarva+jantavaḥ)
 
 ## mukta-m0-p34-v835
-[in-heaven](svarge) [or](vā) [in-hell](narake) [or](vā) [also](api) [wherever](yatra) [wherever](yatra) [as](yathā) [so](tathā)
+[heaven](svarge) [or](vā) [hell](narake) [or](vā) [api](api) [where](yatra) [where](yatra) [as](yathā) [so](tathā)
 
 ## mukta-m0-p34-v836
-* * * [kta](kta) [undertakings-of-action](kriyāraṃbhāḥ) [attached](saktāḥ) [to-one-desiring-fruit-of-action](karmaphaleṣiṇam)
+[actions-beginnings](kriyā+ārambhāḥ) [attached](saktāḥ) [fruit-seeker](karma+phala+iṣiṇam)
 
 ## mukta-m0-p34-v837
-[renunciation](sanyāsaṃ) [who](ye) [perform](prakurvanti) [of-done](kṛtānā) * * * * *
+[renunciation](sanyāsam) [who](ye) [perform](prakurvanti) [done](kṛtānām)
 
 ## mukta-m0-p34-v838
-[in-the-unmanifest](avyakte) [or](vā) [when-diminished](parikṣīṇe) [in-guṇa](guṇe) [by-destruction](nāśena) [exists](vidyate)
+[unmanifest](avyakte) [or](vā) [exhausted](parikṣīṇe) [guna](guṇe) [by-destruction](nāśena) [is-known](vidyate)
 
 ## mukta-m0-p34-v839
-* * * * * * * * [division-of-yoga](yogabhedaṃ) [in-brief](samāsataḥ)
+[yoga-difference](yoga+bhedam) [briefly](samāsataḥ)
 
 ## mukta-m0-p34-v840
-[by-division-of-gross+and-subtle](sthūlasūkṣmavibhāgena) [by-Śiva](śivena) [the-supreme-self](paramātmanā)
+[gross-subtle-division](sthūla+sūkṣma+vibhāgena) [auspicious](śivena) [supreme-self](parama+ātmanā)
 
 ## mukta-m0-p34-v841
-[without-qualities](nirguṇaṃ) [yoga](yogaṃ) [having-attained](prāpya) [with-qualities](saguṇena) [those-desiring-liberation](mumukṣavaḥ)
+[gunless](nirguṇam) [yoga](yogam) [having-obtained](prāpya) [with-guna](saguṇena) [liberation-seekers](mumukṣavaḥ)
 
 ## mukta-m0-p34-v842
-[having-enjoyed](bhuktvā) [surpassing](śātiśayān) [enjoyments](bhogān) [in-the-end](ante) [there](tatra) [consisting-of-guṇas](guṇātmikān)
+[having-enjoyed](bhuktvā) [excessive](śātiśayān) [enjoyments](bhogān) [end](ante) [there](tatra) [guna-natured](guṇa+ātmikān)
 
 ## mukta-m0-p34-v843
-[by-knowledge+yoga](vidyāyogena) [of-the-accomplished](siddhānāṃ) [suffering](duḥkhaṃ) [of-surpassing-nature](sātiśayātmakam)
+[knowledge-yoga](vidyā+yogena) [of-accomplished](siddhānām) [suffering](duḥkham) [excessive-natured](sātiśaya+ātmakam)
 
 ## mukta-m0-p34-v844
-[therefore](tasmāt) [surpassing](sātiśayaṃ) [yoga](yogaṃ) [that](sa) [endowed-with-conception-of-knowledge](vidyākalpanāyutam)
+[therefore](tasmāt) [excessive](sātiśayam) [yoga](yogam) [he](sa) [knowledge-contrivance-endowed](vidyā+kalpanā+yutam)
 
 ## mukta-m0-p34-v845
-[now](adhunā) [I-shall-explain](kathayiṣyāmi) [of-knowledge+yoga](vidyāyogasya) [determination](nirṇayam)
+[now](adhunā) [I-will-tell](kathayiṣyāmi) [knowledge-yoga](vidyā+yogasya) [determination](nirṇayam)
 
 ## mukta-m0-p34-v846
-[of-three-trasareṇus](trisareṇu) [trembling](bhramaḥ) [wind-particle](vāyureṇukaḥ) [is-called](parikīrtitaḥ)
+[three-dust-whirl](trisareṇu+bhramaḥ) [wind-dust](vāyu+reṇukaḥ) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p34-v847
-[abiding-in-mind](manovastham) [atom](aṇuṃ) [one-should-know](vidyāt) [in-speech](vāk) [in-place](sthāne) [and](ca) [two-atoms](aṇudvayam)
+[mind-state-atom](mano+vastha+maṇum) [know](vidyāt) [speech](vāk) [place](sthāne) [and](ca) [two-atoms](aṇu+dvayam)
 
 ## mukta-m0-p34-v848
-[called-short+long+and-prolated](hrasvadīrghapḷutākhyaḥ) [indeed](tu) [triad-of-measures](mātrātrayam) [is-declared](udāhṛtam)
+[short-long-pluta-named](hrasva+dīrgha+pluta+ākhyaḥ) [tu](tu) [three-morae](mātrā+trayam) [is-called](udāhṛtam)
 
 ## mukta-m0-p34-v849
-[of-one-measure](ekamātraṃ) [utters](vadet) [blue-jay](cāṣaḥ) [of-two-measures](dvimātraṃ) [crow](vāyasaḥ) [utters](vadet)
+[one-mora](eka+mātram) [would-say](vadet) [caṣa](cāṣaḥ) [two-mora](dvi+mātram) [crow](vāyasaḥ) [would-say](vadet)
 
 ## mukta-m0-p34-v850
-[ending-in-sound-of-bell](ghaṇṭānādāntasaṃstham) [indeed](tu) [pause](virāmaḥ) [which](yaḥ) [is-called](prakīrtitaḥ)
+[bell-sound-end-situated](ghaṇṭā+nāda+anta+saṃstham) [tu](tu) [pause](virāmaḥ) [which](yaḥ) [is-declared](prakīrtitaḥ)

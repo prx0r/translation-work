@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p54",
  "verse": 1338,
- "question": "How is the width of the next story above divided for measurement purposes?",
+ "question": "When should family worship be performed?",
  "premises": [
-  "The next level above is considered.",
-  "Its width is the subject of division.",
-  "The width is divided into twelve parts."
+  "family tithi is named",
+  "family nakshatra is named",
+  "performance is enjoined"
  ],
- "inference": "Above that, the width of the story is divided into twelve parts.",
- "uncertainties": [],
- "plain_english": "Above that, the width of the story is divided into twelve parts."
+ "inference": "Family worship should be performed on family tithi and in family nakshatra.",
+ "uncertainties": [
+  "exact tithi and nakshatra are not specified"
+ ],
+ "plain_english": "On family tithi and in family nakshatra, one should perform family worship."
 }

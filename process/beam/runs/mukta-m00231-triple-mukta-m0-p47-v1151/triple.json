@@ -1,0 +1,1274 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "ātmamūla",
+     "gloss": "self-root",
+     "grounds": "compound of ātma and mūla",
+     "morph": "compound"
+    },
+    {
+     "surface": "trikoṇa",
+     "gloss": "triangular",
+     "grounds": "adjectival form",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "sthe",
+     "gloss": "standing",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "koṭisūrya",
+     "gloss": "million-suns",
+     "grounds": "compound of koṭi and sūrya",
+     "morph": "compound"
+    },
+    {
+     "surface": "samaprabhe",
+     "gloss": "equal-radiance",
+     "grounds": "compound of sama and prabhā",
+     "morph": "adj.indecl."
+    }
+   ],
+   "question": "What radiance is attributed to the triangular self-root standing form?",
+   "premises": [
+    "The self-root is triangular.",
+    "It stands in place.",
+    "Its radiance equals a million suns."
+   ],
+   "inference": "The verse identifies the self-root form with million-sun radiance.",
+   "uncertainties": [
+    "Exact syntactic relation of sthe to ātmamūla is not explicit."
+   ],
+   "plain_english": "The self-root triangular form stands with radiance equal to a million suns."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "saśabdaṃ",
+     "gloss": "with-sound",
+     "grounds": "adverbial compound",
+     "morph": "adv.indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pibed",
+     "gloss": "drink",
+     "grounds": "optative of root pā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "binduṃ",
+     "gloss": "drop",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pātayed",
+     "gloss": "let-fall",
+     "grounds": "causative optative",
+     "morph": "3.sg.caus-opt"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "downward",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What drinking and dropping actions are prohibited during the rite?",
+   "premises": [
+    "One must not drink substance with sound.",
+    "One must not let a drop fall downward."
+   ],
+   "inference": "The verse prohibits noisy drinking and careless dropping of ritual substance.",
+   "uncertainties": [
+    "Whether saśabdaṃ modifies pibed only or both actions is not explicit."
+   ],
+   "plain_english": "Do not drink the substance with sound, and do not let a drop fall downward."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "rauravaṃ",
+     "gloss": "hell",
+     "grounds": "adjective or noun form",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "present of root yā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āhutasaṃplavam",
+     "gloss": "oblation-flood",
+     "grounds": "compound of āhuta and saṃplava",
+     "morph": "compound"
+    }
+   ],
+   "question": "What consequence follows until the oblation flood occurs?",
+   "premises": [
+    "One goes to hell.",
+    "This lasts until the oblation flood."
+   ],
+   "inference": "The verse states a hellish consequence pending the oblation flood.",
+   "uncertainties": [
+    "The exact ritual trigger of āhutasaṃplavam is not specified."
+   ],
+   "plain_english": "One goes to hell until the oblation flood."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pracarvaye",
+     "gloss": "chew",
+     "grounds": "optative of root carv",
+     "morph": "1.sg.act-opt"
+    },
+    {
+     "surface": "carvyaṃ",
+     "gloss": "chewable",
+     "grounds": "gerundive adjective",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "yathākrama",
+     "gloss": "according-to-order",
+     "grounds": "compound of yathā and krama",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "procedure",
+     "grounds": "ablative noun",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How should the chewable substance be consumed?",
+   "premises": [
+    "Therefore one should chew.",
+    "The chewable is taken according to order.",
+    "The procedure governs it."
+   ],
+   "inference": "The verse prescribes ordered chewing of the chewable substance.",
+   "uncertainties": [
+    "The exact sequence of yathākrama is not detailed."
+   ],
+   "plain_english": "Therefore chew the chewable substance according to the proper procedure and order."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "ekapātre",
+     "gloss": "one-vessel",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pibed",
+     "gloss": "drink",
+     "grounds": "optative of root pā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "present of root yā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What happens to those who drink the substance from one vessel?",
+   "premises": [
+    "They drink substance from one vessel.",
+    "They go to hell.",
+    "This is stated as certain."
+   ],
+   "inference": "The verse warns that drinking from one vessel leads to hell.",
+   "uncertainties": [
+    "Whether ekapātre means shared vessel or single vessel is not explicit."
+   ],
+   "plain_english": "Those who drink the substance from one vessel indeed go to hell."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakṣālya",
+     "gloss": "wash",
+     "grounds": "absolutive of root kṣāl",
+     "morph": "absol."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karau",
+     "gloss": "hands",
+     "grounds": "accusative dual masculine",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "kuladravyāṇi",
+     "gloss": "lineage-substances",
+     "grounds": "compound of kula and dravya",
+     "morph": "compound"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "give",
+     "grounds": "causative optative",
+     "morph": "3.sg.caus-opt"
+    }
+   ],
+   "question": "What must be done with the hands and lineage substances?",
+   "premises": [
+    "Wash the hands outside.",
+    "Then give the lineage substances."
+   ],
+   "inference": "The verse prescribes washing hands outside before giving lineage substances.",
+   "uncertainties": [
+    "The recipient of dāpayet is not specified."
+   ],
+   "plain_english": "Wash the hands outside, and then give the lineage substances."
+  },
+  {
+   "verse": 1157,
+   "rows": [
+    {
+     "surface": "niṣṭhīvanaṃ",
+     "gloss": "spitting",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "malaṃ",
+     "gloss": "dirt",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūtram",
+     "gloss": "urine",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhovāyuvisarjanam",
+     "gloss": "downward-wind-release",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which bodily impurities are listed as prohibited?",
+   "premises": [
+    "Spitting is listed.",
+    "Dirt is listed.",
+    "Urine is listed.",
+    "Downward wind release is listed."
+   ],
+   "inference": "The verse enumerates prohibited bodily impurities.",
+   "uncertainties": [
+    "Whether these are prohibited in the ritual space or generally is not explicit."
+   ],
+   "plain_english": "Spitting, dirt, urine, and downward wind release are listed."
+  },
+  {
+   "verse": 1158,
+   "rows": [
+    {
+     "surface": "parīhāsaṃ",
+     "gloss": "jest",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pralāpañca",
+     "gloss": "chatter",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vitaṇḍāṃ",
+     "gloss": "disputation",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bahubhāṣaṇam",
+     "gloss": "much-speech",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which speech behaviors are prohibited during the rite?",
+   "premises": [
+    "Jest is prohibited.",
+    "Chatter is prohibited.",
+    "Disputation is prohibited.",
+    "Much speech is prohibited."
+   ],
+   "inference": "The verse lists prohibited speech behaviors.",
+   "uncertainties": [
+    "Whether all four are equally prohibited or graded is not explicit."
+   ],
+   "plain_english": "Jest, chatter, disputation, and much speech are prohibited."
+  },
+  {
+   "verse": 1159,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pādābhyāṃ",
+     "gloss": "with-feet",
+     "grounds": "instrumental dual masculine",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "touch",
+     "grounds": "optative of root spṛś",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pātram",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhamāṅgena",
+     "gloss": "lowest-limb",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How must the vessel not be touched?",
+   "premises": [
+    "One must not touch the vessel with feet.",
+    "One must not touch it with the lowest limb.",
+    "This applies in every way."
+   ],
+   "inference": "The verse prohibits touching the vessel with feet or lowest limb.",
+   "uncertainties": [
+    "Whether adhamāṅgena refers to feet or another limb is not explicit."
+   ],
+   "plain_english": "Do not touch the vessel with the feet or lowest limb in any way."
+  },
+  {
+   "verse": 1160,
+   "rows": [
+    {
+     "surface": "saśabdaṃ",
+     "gloss": "with-sound",
+     "grounds": "adverbial compound",
+     "morph": "adv.indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "lift",
+     "grounds": "optative of root ud-dhṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "fill",
+     "grounds": "optative of root pūr",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What vessel handling actions are prohibited?",
+   "premises": [
+    "One must not lift the vessel with sound.",
+    "Likewise one must not fill it."
+   ],
+   "inference": "The verse prohibits noisy lifting and filling of the vessel.",
+   "uncertainties": [
+    "Whether pūrayet refers to overfilling or any filling is not explicit."
+   ],
+   "plain_english": "Do not lift the vessel with sound, and likewise do not fill it."
+  },
+  {
+   "verse": 1161,
+   "rows": [
+    {
+     "surface": "sādhāraṃ",
+     "gloss": "supported",
+     "grounds": "adjective",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "lift",
+     "grounds": "optative of root ud-dhṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pātram",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anādhāre",
+     "gloss": "unsupported",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "niḥkṣipet",
+     "gloss": "place",
+     "grounds": "optative of root niḥ-kṣip",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How must the vessel be lifted and placed?",
+   "premises": [
+    "One must not lift the vessel while supported.",
+    "One must not place it on an unsupported surface."
+   ],
+   "inference": "The verse prescribes unsupported lifting and supported placement.",
+   "uncertainties": [
+    "The exact meaning of sādhāraṃ in this context is not explicit."
+   ],
+   "plain_english": "Do not lift the vessel while supported, and do not place it on an unsupported surface."
+  },
+  {
+   "verse": 1162,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "laṅghayed",
+     "gloss": "step-over",
+     "grounds": "optative of root laṅgh",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "utkṣipya",
+     "gloss": "lifting",
+     "grounds": "absolutive of root ut-kṣip",
+     "morph": "absol."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "drop",
+     "grounds": "optative of root pāt",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What vessel actions are forbidden to the wise practitioner?",
+   "premises": [
+    "The wise must not step over the vessel.",
+    "The wise must not drop it after lifting."
+   ],
+   "inference": "The verse forbids stepping over and dropping the vessel.",
+   "uncertainties": [
+    "Whether utkṣipya modifies pātayet only is not explicit."
+   ],
+   "plain_english": "The wise must not step over the vessel, nor drop it after lifting."
+  },
+  {
+   "verse": 1163,
+   "rows": [
+    {
+     "surface": "vandaye",
+     "gloss": "bow",
+     "grounds": "optative of root vand",
+     "morph": "1.sg.act-opt"
+    },
+    {
+     "surface": "cca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smared",
+     "gloss": "remember",
+     "grounds": "optative of root smṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the wise practitioner do with the vessel and mantra?",
+   "premises": [
+    "One bows to the vessel again.",
+    "The wise remembers this mantra."
+   ],
+   "inference": "The verse prescribes bowing to the vessel and remembering the mantra.",
+   "uncertainties": [
+    "The exact mantra text is not given in this verse."
+   ],
+   "plain_english": "Bow to the vessel again, and let the wise remember this mantra."
+  },
+  {
+   "verse": 1164,
+   "rows": [
+    {
+     "surface": "vande",
+     "gloss": "bow",
+     "grounds": "first person singular",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "pātram",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "nominative singular",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "dvitīyam",
+     "gloss": "second",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ānandaikasamvarddhanam",
+     "gloss": "bliss-increasing",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the second vessel praised as?",
+   "premises": [
+    "I bow to the vessel.",
+    "It is the second vessel.",
+    "It increases bliss."
+   ],
+   "inference": "The verse praises the second vessel as bliss-increasing.",
+   "uncertainties": [
+    "The exact ritual stage of the second vessel is not explicit."
+   ],
+   "plain_english": "I now bow to the second vessel, which increases bliss."
+  },
+  {
+   "verse": 1165,
+   "rows": [
+    {
+     "surface": "mudrayā",
+     "gloss": "seal",
+     "grounds": "instrumental singular feminine",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sahitaṃ",
+     "gloss": "with",
+     "grounds": "adjective",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "dhṛtvā",
+     "gloss": "holding",
+     "grounds": "absolutive of root dhṛ",
+     "morph": "absol."
+    },
+    {
+     "surface": "vandayet",
+     "gloss": "bow",
+     "grounds": "optative of root vand",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pātram",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "best",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the best vessel to be bowed to?",
+   "premises": [
+    "Holding it with the seal.",
+    "One bows to the best vessel."
+   ],
+   "inference": "The verse prescribes bowing to the best vessel while holding it with the seal.",
+   "uncertainties": [
+    "The specific mudrā is not named."
+   ],
+   "plain_english": "Holding it with the seal, bow to the best vessel."
+  },
+  {
+   "verse": 1166,
+   "rows": [
+    {
+     "surface": "dhyātaṃ",
+     "gloss": "meditated",
+     "grounds": "past participle",
+     "morph": "part.pass."
+    },
+    {
+     "surface": "devagaṇaiḥ",
+     "gloss": "god-hosts",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "munigaṇair",
+     "gloss": "sage-hosts",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mokṣārthibhiḥ",
+     "gloss": "liberation-seekers",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vandepātramahaṃ",
+     "gloss": "bow-vessel-I",
+     "grounds": "compound of vande pātram ahaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "tṛtīyam",
+     "gloss": "third",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svātmāvabodhakṣamam",
+     "gloss": "self-awakening-capable",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the third vessel praised as?",
+   "premises": [
+    "Gods, sages, and liberation-seekers meditate on the supreme.",
+    "I now bow to the third vessel.",
+    "It is capable of self-awakening."
+   ],
+   "inference": "The verse praises the third vessel as self-awakening-capable.",
+   "uncertainties": [
+    "Whether vandepātramahaṃ should be split is not allowed; treated as one token."
+   ],
+   "plain_english": "Meditated on by gods, sages, and liberation-seekers, I now bow to the third vessel, capable of self-awakening."
+  },
+  {
+   "verse": 1167,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "satisfy",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of root kṛ",
+     "morph": "absol."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vandayet",
+     "gloss": "bow",
+     "grounds": "optative of root vand",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What follows the offering in the fourth vessel rite?",
+   "premises": [
+    "Having made the offering as before.",
+    "Then one bows to the fourth vessel."
+   ],
+   "inference": "The verse prescribes bowing to the fourth vessel after the offering.",
+   "uncertainties": [
+    "The exact offering content is not specified."
+   ],
+   "plain_english": "Having made the offering as before, then bow to the fourth vessel."
+  },
+  {
+   "verse": 1168,
+   "rows": [
+    {
+     "surface": "pāyāt",
+     "gloss": "drink",
+     "grounds": "optative of root pā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pañcamakāratattvasahitaṃ",
+     "gloss": "fifth-kāra-tattva-with",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is drunk in the fourth vessel rite?",
+   "premises": [
+    "One drinks the vessel.",
+    "It is accompanied by the fifth-kāra tattva.",
+    "It is the fourth vessel."
+   ],
+   "inference": "The verse prescribes drinking the fourth vessel with the fifth-kāra tattva.",
+   "uncertainties": [
+    "The exact meaning of pañcamakāratattva is not explicit."
+   ],
+   "plain_english": "Drink the fourth vessel accompanied by the fifth-kāra tattva, salutation."
+  },
+  {
+   "verse": 1169,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of root kṛ",
+     "morph": "absol."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vandayet",
+     "gloss": "bow",
+     "grounds": "optative of root vand",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What follows the offering in the fifth vessel rite?",
+   "premises": [
+    "Having made the offering as before.",
+    "Then one bows to the fifth vessel."
+   ],
+   "inference": "The verse prescribes bowing to the fifth vessel after the offering.",
+   "uncertainties": [
+    "The offering content is not specified."
+   ],
+   "plain_english": "Having made the offering as before, then bow to the fifth vessel."
+  },
+  {
+   "verse": 1170,
+   "rows": [
+    {
+     "surface": "ādityapramukhaiḥ",
+     "gloss": "sun-led",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "surāsuragaṇair",
+     "gloss": "god-demon-hosts",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ājñākaraiḥ",
+     "gloss": "command-doers",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kiṅkaraiḥ",
+     "gloss": "servants",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Who are described as sun-led command-doing servants?",
+   "premises": [
+    "Sun-led hosts are named.",
+    "God and demon hosts are named.",
+    "Command-doers and servants are named."
+   ],
+   "inference": "The verse describes sun-led divine and demonic hosts as servants.",
+   "uncertainties": [
+    "The exact ritual role of these hosts is not explicit."
+   ],
+   "plain_english": "Sun-led god and demon hosts, command-doers and servants."
+  },
+  {
+   "verse": 1171,
+   "rows": [
+    {
+     "surface": "prapibet",
+     "gloss": "drink",
+     "grounds": "optative of root pra-pā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "worship",
+     "grounds": "absolutive of root sam-pūj",
+     "morph": "absol."
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who drinks the sixth vessel and how?",
+   "premises": [
+    "The mantra-knower drinks.",
+    "He first worships the sixth vessel.",
+    "Then he drinks it."
+   ],
+   "inference": "The verse prescribes worship before drinking the sixth vessel.",
+   "uncertainties": [
+    "The exact mantra used is not specified."
+   ],
+   "plain_english": "The mantra-knower worships and then drinks the sixth vessel."
+  },
+  {
+   "verse": 1172,
+   "rows": [
+    {
+     "surface": "śrīmat",
+     "gloss": "glorious",
+     "grounds": "adjective",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "sundaritarpaṇaṃ",
+     "gloss": "beautiful-offering",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "harirasaṃ",
+     "gloss": "hari-essence",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pātrañca",
+     "gloss": "vessel-and",
+     "grounds": "compound with ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "worship",
+     "grounds": "first person singular optative",
+     "morph": "1.sg.act-opt"
+    }
+   ],
+   "question": "What is worshipped in the sixth vessel rite?",
+   "premises": [
+    "The glorious beautiful offering is named.",
+    "The hari-essence vessel is named.",
+    "It is the sixth vessel."
+   ],
+   "inference": "The verse worships the sixth vessel with beautiful offering and hari-essence.",
+   "uncertainties": [
+    "Whether pātrañca is one fused token and should not be split."
+   ],
+   "plain_english": "I worship the glorious beautiful offering, the hari-essence sixth vessel."
+  },
+  {
+   "verse": 1173,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of root kṛ",
+     "morph": "absol."
+    },
+    {
+     "surface": "saptamañca",
+     "gloss": "seventh-and",
+     "grounds": "compound with ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "worship",
+     "grounds": "optative of root sam-arc",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What follows the offering in the seventh vessel rite?",
+   "premises": [
+    "Having made the offering as before.",
+    "Then one worships the seventh vessel."
+   ],
+   "inference": "The verse prescribes worship of the seventh vessel after the offering.",
+   "uncertainties": [
+    "The offering content is not specified."
+   ],
+   "plain_english": "Having made the offering as before, worship the seventh vessel."
+  },
+  {
+   "verse": 1174,
+   "rows": [
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saptamapūraṇena",
+     "gloss": "seventh-filling",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "paramānandādhikaṃ",
+     "gloss": "supreme-bliss-more",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "drink",
+     "grounds": "optative of root pā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "accusative singular",
+     "morph": "1.acc.sg"
+    }
+   ],
+   "question": "What is requested from the seventh vessel filling?",
+   "premises": [
+    "The vessel is filled seventh.",
+    "It is more than supreme bliss.",
+    "May it drink me."
+   ],
+   "inference": "The verse requests that the seventh filling, beyond supreme bliss, drink the practitioner.",
+   "uncertainties": [
+    "The exact sense of pātu mām is unusual and not fully explicit."
+   ],
+   "plain_english": "May the seventh filling, more than supreme bliss, drink me."
+  }
+ ]
+}

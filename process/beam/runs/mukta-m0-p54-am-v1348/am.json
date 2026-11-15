@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p54",
  "verse": 1348,
- "question": "Into how many parts is the width at the ten-story level divided in this prescription?",
+ "question": "What is obtained without deliberation here?",
  "premises": [
-  "The width at the ten-story level is considered.",
-  "A division is prescribed for this width.",
-  "The division is into six parts."
+  "all accomplishments are obtained",
+  "no deliberation is to be done",
+  "here is the place"
  ],
- "inference": "The width at the ten-story level is divided into six parts.",
- "uncertainties": [],
- "plain_english": "The width at the ten-story level is divided into six parts."
+ "inference": "All accomplishments are obtained here, and no deliberation is to be done.",
+ "uncertainties": [
+  "exact place is implied"
+ ],
+ "plain_english": "One obtains all accomplishments; here no deliberation is to be done."
 }

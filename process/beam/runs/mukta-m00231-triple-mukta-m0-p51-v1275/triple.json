@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "cakra circle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "tyaktvā absolute participle from tyaj",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśīṃ",
+     "gloss": "goddess",
+     "grounds": "deveśī accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "pūjayet optative from pūj",
+     "morph": "3.sg.act.opt-pūj"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "offering",
+     "grounds": "tarpaṇa accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "vinā preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one worship the goddess without abandoning the circle and without offering?",
+   "premises": [
+    "circle must be abandoned first",
+    "goddess worship requires offering",
+    "worship without offering is invalid"
+   ],
+   "inference": "worship without abandoning the circle and without offering is not proper",
+   "uncertainties": [
+    "exact ritual sequence remains unclear"
+   ],
+   "plain_english": "Having abandoned the circle, one should worship the goddess, not without offering."
+  }
+ ]
+}

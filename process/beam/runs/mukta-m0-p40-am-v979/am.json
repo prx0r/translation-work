@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 979,
- "question": "To which group of yoginis is the next salutation mantra directed?",
+ "question": "What consequence follows if killing occurs through negligence?",
  "premises": [
-  "The mantra addresses dwellers of the heaven world.",
-  "These dwellers are identified as yoginis.",
-  "The salutation is repeated for emphasis."
+  "negligent killing is posited",
+  "Raurava hell is named",
+  "the agent would go there"
  ],
- "inference": "This salutation is directed to the yoginis dwelling in the heaven world.",
- "uncertainties": [],
- "plain_english": "Salutation, salutation to the yoginis dwelling in the heaven world."
+ "inference": "If one kills through negligence, one goes to Raurava hell.",
+ "uncertainties": [
+  "whether this is literal or exemplary consequence"
+ ],
+ "plain_english": "If one kills through negligence, one would go to Raurava hell."
 }

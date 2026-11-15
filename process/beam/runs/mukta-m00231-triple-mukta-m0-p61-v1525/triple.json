@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive of tasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "darśanamātreṇa",
+     "gloss": "by-sight-alone",
+     "grounds": "instrumental of darśanamātra",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vādinaḥ",
+     "gloss": "disputants",
+     "grounds": "nominative plural of vādin",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "niṣprabhāṃ",
+     "gloss": "powerless",
+     "grounds": "accusative feminine singular of niṣprabhā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatāḥ",
+     "gloss": "gone",
+     "grounds": "perfect participle of gam",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What happens to disputants who merely see this mantra-practitioner?",
+   "premises": [
+    "Disputants see the practitioner.",
+    "Mere sight suffices.",
+    "They become powerless."
+   ],
+   "inference": "Mere sight of the practitioner disempowers disputants.",
+   "uncertainties": [
+    "Exact referent of tasya depends on prior verse."
+   ],
+   "plain_english": "By merely seeing him, disputants have become powerless."
+  }
+ ]
+}

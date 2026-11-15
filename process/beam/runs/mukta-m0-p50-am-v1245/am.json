@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1245,
- "question": "Which figures are enumerated among the worshippers or attendants in this sequence?",
+ "question": "What is the goddess who is bhaga-formed and semen-pleased?",
  "premises": [
-  "Manu is named.",
-  "Candra, Kubera, Lopāmudrā, and Kāmarāṭ are named."
+  "bhagarūpā means bhaga-formed",
+  "sā devī means that goddess",
+  "retaḥprītā means semen-pleased",
+  "sarvadā means always"
  ],
- "inference": "The sequence includes Manu, Candra, Kubera, Lopāmudrā, and Kāmarāṭ.",
- "uncertainties": [],
- "plain_english": "Manu, Candra, Kubera, Lopāmudrā, and Kāmarāṭ."
+ "inference": "That goddess is bhaga-formed and always semen-pleased.",
+ "uncertainties": [
+  "bhaga may be yoni"
+ ],
+ "plain_english": "That goddess is bhaga-formed and always semen-pleased."
 }

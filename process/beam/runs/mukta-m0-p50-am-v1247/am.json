@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1247,
- "question": "Which final figures complete the enumerated list of worshippers or attendants?",
+ "question": "How should the mantra be uttered in the ear?",
  "premises": [
-  "Īśāna is named.",
-  "Rati and Nārāyaṇa are named."
+  "ātmadehasvarūpeṇa means by own body form",
+  "tat karṇe means that in ear",
+  "mantram means mantra",
+  "utsṛjet means let him utter"
  ],
- "inference": "The enumeration concludes with Īśāna, Rati, and Nārāyaṇa.",
- "uncertainties": [],
- "plain_english": "Īśāna, and indeed Rati, and likewise Nārāyaṇa."
+ "inference": "By his own body form, let him utter that mantra in the ear.",
+ "uncertainties": [
+  "tat may refer to mantra"
+ ],
+ "plain_english": "By his own body form, let him utter that mantra in the ear."
 }

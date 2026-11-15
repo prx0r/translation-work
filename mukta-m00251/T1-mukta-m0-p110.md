@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p110-v2726
-downward-faced(adhomukhe) of-the-one-gone(prayātasya) two-parts(kale) two(dve) on-the-left-situated(vāmatasthite)
+[downward-facing](adhomukhe) [of-the-one-who-has-gone](prayātasya) [two-kalas](kale) [two](dve) [situated-on-the-left](vāmatasthite)
 
 ## mukta-m0-p110-v2727
-as-long-as(yāvat) to-the-right(dakṣiṇataḥ) it-goes(yāti) so-long(tāvat) by-the-left(vāmena) O-beautiful-one(śobhane)
+[until](yāvat) [to-the-right](dakṣiṇataḥ) [goes](yāti) [so-long](tāvat) [by-the-left](vāmena) [O-beautiful-one](śobhane)
 
 ## mukta-m0-p110-v2728
-in-the-middle(madhye) but(tu) motionless(niścalaṃ) void+abode(śūnyam+ayanaṃ) that(taṃ) one-should-designate(vinirdiśet)
+[in-the-middle](madhye) [but](tu) [motionless](niścalaṃ) [empty](śūnyam) [path](ayanaṃ) [that](taṃ) [one-should-declare](vinirdiśet)
 
 ## mukta-m0-p110-v2729
-then(tadā) to-liberation(nirvāṇatāṃ) one-goes(yāti) not(nā) here(atra) to-be-done(kāryā) deliberation(vicāraṇā)
+[then](tadā) [to-liberation](nirvāṇatāṃ) [goes](yāti) [not](nātra) [need-be](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p110-v2730
-void+places(śūnya+sthānāni) I-shall-tell(vakṣyāmi) listen(śṛṇuṣva) attentive(āvahitā) O-beloved(priye)
+[empty-places](śūnyasthānāni) [I-will-speak](vakṣyāmi) [listen](śṛṇuṣva) [attentively](avahitā) [dear-one](priye)
 
 ## mukta-m0-p110-v2731
-in-the-middle-part-of-nivṛtti(nivṛtti+madhya+bhāge) but(tu) pratiṣṭhā(pratiṣṭhā) obliquely+above(tiryak+uttare)
+[in-the-middle-of-nivṛtti](nivṛttimadhyabhāge) [but](tu) [station](pratiṣṭhā) [transverse](tiryak) [upward](uttare)
 
 ## mukta-m0-p110-v2732
-nāda(nādaḥ) but(tu) fifth(pañcamaḥ) to-be-known(jñeyaḥ) he(saḥ) Śiva(śivaḥ) declared(parikīrtitaḥ)
+[sound](nādaḥ) [but](tu) [fifth](pañcamaḥ) [to-be-known](jñeyaḥ) [he](saḥ) [śiva](śivaḥ) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p110-v2733
-fifth(pañcamaḥ) but(tu) Śiva(śivaḥ) declared(proktaḥ) very-subtle(susūkṣmaḥ) told(kathitaḥ) to-you(tava)
+[fifth](pañcamaḥ) [but](tu) [śiva](śivaḥ) [spoken](proktaḥ) [very-subtle](susūkṣmaḥ) [told](kathitaḥ) [to-you](tava)
 
 ## mukta-m0-p110-v2734
-jīva(jīvaḥ) but(tu) nāda(nādaḥ) thus-said(iti+uktaḥ) touch+power+consisting(sparśa+śakti+mayaḥ) remembered(smṛtaḥ)
+[living-being](jīvaḥ) [but](tu) [sound](nādaḥ) [thus](ityuktaḥ) [touch-power](sparśaśakti) [remembered](mayasmṛtaḥ)
 
 ## mukta-m0-p110-v2735
-in-twofold-manner(dvividhena) but(tu) O-lady-of-gods(deveśi) to-be-done(kartavyaḥ) grace(anugrahaḥ) always(sadā)
+[in-two-ways](dvividhena) [but](tu) [O-goddess](deveśi) [to-be-done](kartavyaḥ) [grace](anugrahaḥ) [always](sadā)
 
 ## mukta-m0-p110-v2736
-and-to-be-given(deyam+ca) to-the-guru-devoted(guru+bhaktāya) to-the-Śiva-devoted(śiva+bhaktāya) to-the-wise(dhīmate)
+[to-be-given](deyaṃ) [ca](ca) [to-guru-devotee](gurubhaktāya) [to-śiva-devotee](śivabhaktāya) [wise-one](dhīmate)
 
 ## mukta-m0-p110-v2737
-wind(mārutaḥ) flowing(pravahaṃ) speaks(brūte) mantra-holder(mantriṇaṃ) liberating(mokṣakaḥ) likewise(tathā)
+[wind](mārutaḥ) [flowing](pravahaṃ) [says](brūte) [minister](mantriṇaṃ) [liberator](mokṣakaḥ) [thus](tathā)
 
 ## mukta-m0-p110-v2738
-this(etat) I-wish(icchāmi) to-know(vijñātuṃ) O-lord(bhagavan) you-should-tell(vaktum+arhasi)
+[this](etad) [I-wish](icchāmi) [to-know](vijñātuṃ) [O-lord](bhagavan) [to-speak](vaktum) [you-should](arhasi)
 
 ## mukta-m0-p110-v2739
-by-which(yena) merely-known(vijñāta+mātreṇa) one-is-liberated(mucyate) not(nā) here(atra) doubt(saṃśayaḥ)
+[by-which](yena) [known-at-once](vijñātamātreṇa) [is-liberated](mucyate) [not](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p110-v2740
-by-bindu-and-nāda(bindu+nādena) to-be-known(jñātavyaṃ) swiftly-moving(śīghragaṃ) water(salilaṃ) it-sounds(nadet)
+[by-bindu-and-nāda](bindunādena) [to-be-known](jñātavyaṃ) [quick-moving](śīghragaṃ) [water](salilaṃ) [sounds](nadet)
 
 ## mukta-m0-p110-v2741
-by-that(tena) merely-known(vijñāta+mātreṇa) for-immortality(amṛtatvāya) it-becomes-fit(kalpate)
+[by-that](tena) [known-at-once](vijñātamātreṇa) [to-immortality](amṛtatvāya) [becomes-fit](kalpate)
 
 ## mukta-m0-p110-v2742
-by-the-syllable-ā(ākāreṇa) when(yadā) pierced(bhinnaṃ) O-god-of-gods(devadevaṃ) O-eternal-one(sadātane)
+[by-form](ākāreṇa) [when](yadā) [split](bhinnaṃ) [god-of-gods](devadevaṃ) [eternal](sadātane)
 
 ## mukta-m0-p110-v2743
-with-hissing-tremor(sīta+kampena) with-short(hrasvena) with-mouth(mukhena) indeed(eva) does(karoti) who(yaḥ)
+[by-cold-trembling](sītakaṃpena) [by-short](hrasvena) [by-mouth](mukhena) [eva](eva) [does](karoti) [who](yaḥ)
 
 ## mukta-m0-p110-v2744
-ḍha(ḍha) by-division-of-u(ukāra+vibhāgena) having-heard(śrutvā) from-sins(pāpaiḥ) one-is-freed(vimucyate)
+[ḍha](ḍha) [ukāra-division](ukāravibhāgena) [having-heard](śrutvā) [from-sins](pāpaiḥ) [is-freed](vimucyate)
 
 ## mukta-m0-p110-v2745
-by-the-syllable-ā(ākāreṇa) but(tu) having-fixed(vinyasya) from-meditation(dhyānāt) one-rises-up(utkramate) surely(dhruvam)
+[by-form](ākāreṇa) [but](tu) [placing](vinyasya) [from-meditation](dhyānāt) [departs](utkramate) [certainly](dhruvam)
 
 ## mukta-m0-p110-v2746
-below(adhastāt) by-wind(vāyunā) kindled(dīptam) the-syllable-ī(īkāraṃ) fire-deity(vahni+devatam)
+[from-below](adhastāt) [by-wind](vāyunā) [blazing](dīptam) [īkāra](īkāraṃ) [fire-deity](vahnidevatam)
 
 ## mukta-m0-p110-v2747
-one-hears(śṛṇoti) various(vividhān) sounds(nādān) within-a-month(māsāt+abhyantareṇa) but(tu)
+[hears](śṛṇoti) [various](vividhān) [sounds](nādān) [within-months](māsādabhyantareṇa) [but](tu)
 
 ## mukta-m0-p110-v2748
-in-three-months(tribhiḥ+māsaiḥ) he(saḥ) would-see(paśyeta) directly(pratyakṣaṃ) everywhere(sarvataḥ) situated(sthitam)
+[in-three-months](tribhirmāsaiḥ) [he](saḥ) [sees](paśyeta) [directly](pratyakṣaṃ) [everywhere](sarvataḥ) [standing](sthitam)
 
 ## mukta-m0-p110-v2749
-by-practice(abhyāsena) but(tu) O-lady-of-gods(deveśi) motionless(niścalaḥ) one-becomes(saṃprajāyate)
+[by-practice](abhyāsena) [but](tu) [O-goddess](deveśi) [motionless](niścalaḥ) [becomes](saṃprajāyate)
 
 ## mukta-m0-p110-v2750
-for-six-months(ṣaṇ+māsān) who-practices(abhyaset) but(yaḥ+tu) to-the-city-of-Uccāmara(uccāmara+puraṃ) would-go(vrajet)
+[for-six-months](ṣaṇmāsān) [practice](abhyased) [who](yaḥ) [tu](tu) [to-uccāmara-city](uccāmarapuraṃ) [goes](vrajet)

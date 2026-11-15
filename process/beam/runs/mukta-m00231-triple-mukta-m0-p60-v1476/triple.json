@@ -1,0 +1,1218 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1476,
+   "rows": [
+    {
+     "surface": "gamayed",
+     "gloss": "should-spend",
+     "grounds": "optative of gam",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "japa",
+     "gloss": "chanting",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāga",
+     "gloss": "sacrifice",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stava",
+     "gloss": "praise",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādinā",
+     "gloss": "etc",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What practices should a practitioner spend time in daily?",
+   "premises": [
+    "practitioner should spend time in worship",
+    "chanting sacrifice praise and similar practices"
+   ],
+   "inference": "daily practice includes worship chanting sacrifice praise and related rites",
+   "uncertainties": [
+    "exact scope of ādinā"
+   ],
+   "plain_english": "One should spend time in deity worship, chanting, sacrifice, praise, and similar practices."
+  },
+  {
+   "verse": 1477,
+   "rows": [
+    {
+     "surface": "gamayed",
+     "gloss": "should-spend",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "aniśaṃ",
+     "gloss": "constantly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-speak",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "paradūṣaṇam",
+     "gloss": "slander-of-others",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should a practitioner spend time and speak?",
+   "premises": [
+    "one should spend time constantly",
+    "one should not speak slander of others"
+   ],
+   "inference": "constant practice excludes speaking ill of others",
+   "uncertainties": [
+    "whether aniśaṃ modifies kālaṃ or gamayed"
+   ],
+   "plain_english": "One should spend time constantly and not speak slander of others."
+  },
+  {
+   "verse": 1478,
+   "rows": [
+    {
+     "surface": "kulācāraṃ",
+     "gloss": "clan-practice",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manasā'pi",
+     "gloss": "even-by-mind",
+     "grounds": "instrumental singular feminine with api",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindayet",
+     "gloss": "should-disparage",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Whom must a practitioner never disparage even mentally?",
+   "premises": [
+    "clan practice guru and deity are protected",
+    "even by mind one should not disparage them"
+   ],
+   "inference": "mental disrespect toward clan practice guru or deity is forbidden",
+   "uncertainties": [
+    "whether manasā'pi qualifies all three objects"
+   ],
+   "plain_english": "One should not disparage clan practice, guru, or deity even in mind."
+  },
+  {
+   "verse": 1479,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "svayañcet",
+     "gloss": "if-himself",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhimicchati",
+     "gloss": "attainment-desires",
+     "grounds": "compound verb",
+     "morph": "3.sg.act.ind"
+    }
+   ],
+   "question": "What must a practitioner do daily if he desires attainment?",
+   "premises": [
+    "practitioner should act daily",
+    "if he himself desires attainment"
+   ],
+   "inference": "daily practice is required for one who seeks attainment",
+   "uncertainties": [
+    "exact referent of svayañcet"
+   ],
+   "plain_english": "A practitioner should act daily if he himself desires attainment."
+  },
+  {
+   "verse": 1480,
+   "rows": [
+    {
+     "surface": "nālokayet",
+     "gloss": "should-not-look",
+     "grounds": "negative optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "paradravyaṃ",
+     "gloss": "others'-property",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paradārāḥ",
+     "gloss": "others'-wives",
+     "grounds": "accusative plural feminine compound",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What objects and persons must a practitioner avoid?",
+   "premises": [
+    "one should not look at others' property",
+    "one should avoid others' wives"
+   ],
+   "inference": "avoidance includes both property and wives of others",
+   "uncertainties": [
+    "whether nālokayet governs paradārāḥ too"
+   ],
+   "plain_english": "One should not look at others' property and should avoid others' wives."
+  },
+  {
+   "verse": 1481,
+   "rows": [
+    {
+     "surface": "purāṇāgamaśāstrāṇi",
+     "gloss": "purāṇa-āgama-śāstra",
+     "grounds": "accusative plural neuter compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kalpāṃḥ",
+     "gloss": "kalpas",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūṣayet",
+     "gloss": "should-defame",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What sacred texts and kalpas must not be defamed?",
+   "premises": [
+    "purāṇa āgama and śāstra must not be defamed",
+    "even kalpas must not be defamed"
+   ],
+   "inference": "defamation of purāṇas āgamas śāstras and kalpas is forbidden",
+   "uncertainties": [
+    "whether kalpāṃḥ is separate from śāstrāṇi"
+   ],
+   "plain_english": "One should not defame purāṇas, āgamas, śāstras, or even kalpas."
+  },
+  {
+   "verse": 1482,
+   "rows": [
+    {
+     "surface": "ekasya",
+     "gloss": "of-one",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "āvāhanaṃ",
+     "gloss": "invocation",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyasādhanam",
+     "gloss": "other-practice",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What restriction follows after invoking one deity?",
+   "premises": [
+    "having invoked one",
+    "one should not perform another's practice"
+   ],
+   "inference": "invocation of one deity excludes performing another's sādhana",
+   "uncertainties": [
+    "whether ekasya refers to deity or guru"
+   ],
+   "plain_english": "Having invoked one, one should not perform another's practice."
+  },
+  {
+   "verse": 1483,
+   "rows": [
+    {
+     "surface": "apamṛtyuḥ",
+     "gloss": "untimely-death",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "occurs",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mṛte",
+     "gloss": "dead",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What consequences follow from violating the invocation restriction?",
+   "premises": [
+    "untimely death occurs for him",
+    "if dead he goes to hell"
+   ],
+   "inference": "violation leads to untimely death and hell",
+   "uncertainties": [
+    "whether tasya refers to violator"
+   ],
+   "plain_english": "Untimely death occurs for him, and if dead he goes to hell."
+  },
+  {
+   "verse": 1484,
+   "rows": [
+    {
+     "surface": "kuladarśanaśāstrāṇi",
+     "gloss": "clan-view-śāstra",
+     "grounds": "nominative/accusative plural neuter compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kuladravyāṇi",
+     "gloss": "clan-wealth",
+     "grounds": "nominative/accusative plural neuter compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kaulikān",
+     "gloss": "kaulikas",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What clan-related objects and persons are named here?",
+   "premises": [
+    "clan-view śāstras are named",
+    "clan wealth is named",
+    "kaulikas are named"
+   ],
+   "inference": "the verse lists clan śāstras wealth and kaulika persons",
+   "uncertainties": [
+    "syntactic relation among the three nouns"
+   ],
+   "plain_english": "Clan-view śāstras, clan wealth, and kaulikas."
+  },
+  {
+   "verse": 1485,
+   "rows": [
+    {
+     "surface": "śikṣakān",
+     "gloss": "teachers",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mokṣakān",
+     "gloss": "liberators",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoiginīsiddhirūpakān",
+     "gloss": "yoginī-siddhi-forms",
+     "grounds": "accusative plural masculine compound",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which teachers liberators and forms must not be disparaged?",
+   "premises": [
+    "teachers and liberators are included",
+    "even yoginī-siddhi forms are included"
+   ],
+   "inference": "disparagement is forbidden toward teachers liberators and yoginī-siddhi forms",
+   "uncertainties": [
+    "whether vā separates groups"
+   ],
+   "plain_english": "Teachers, liberators, or even yoginī-siddhi forms."
+  },
+  {
+   "verse": 1486,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindet",
+     "gloss": "should-disparage",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "nor",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jugupseta",
+     "gloss": "should-despise",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haset",
+     "gloss": "should-laugh",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "nor",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avamānayet",
+     "gloss": "should-disrespect",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What attitudes are forbidden toward protected persons?",
+   "premises": [
+    "one should not disparage",
+    "one should not despise laugh or disrespect"
+   ],
+   "inference": "protected persons must not be disparaged despised laughed at or disrespected",
+   "uncertainties": [
+    "exact object from previous verse"
+   ],
+   "plain_english": "One should not disparage, despise, laugh at, or disrespect them."
+  },
+  {
+   "verse": 1487,
+   "rows": [
+    {
+     "surface": "kurūpā",
+     "gloss": "deformed",
+     "grounds": "nominative singular feminine adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṛṣṭā",
+     "gloss": "low",
+     "grounds": "nominative singular feminine adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kulayoṣitam",
+     "gloss": "clan-woman",
+     "grounds": "accusative singular feminine compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What words must not be spoken about a clan woman?",
+   "premises": [
+    "one should not say deformed",
+    "one should not say low about a clan woman"
+   ],
+   "inference": "a clan woman must not be called deformed or low",
+   "uncertainties": [
+    "whether kurūpā and nikṛṣṭā are direct speech"
+   ],
+   "plain_english": "One should not call a clan woman deformed or low."
+  },
+  {
+   "verse": 1488,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "whoever",
+     "grounds": "relative pronoun feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kācid",
+     "gloss": "any-woman",
+     "grounds": "indefinite pronoun feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṅganā",
+     "gloss": "aṅganā",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātṛkulasambhavā",
+     "gloss": "mother-clan-born",
+     "grounds": "nominative singular feminine compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is any woman in the world to be regarded?",
+   "premises": [
+    "any woman in the world",
+    "she is born of mother clan"
+   ],
+   "inference": "every woman is to be regarded as born of the mother clan",
+   "uncertainties": [
+    "whether mātṛkula is literal or symbolic"
+   ],
+   "plain_english": "Any woman in the world is born of the mother clan."
+  },
+  {
+   "verse": 1489,
+   "rows": [
+    {
+     "surface": "strīṇāṃ",
+     "gloss": "of-women",
+     "grounds": "genitive plural feminine",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "śatāparādhena",
+     "gloss": "hundred-offenses",
+     "grounds": "instrumental singular masculine compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "puṣpeṇāpi",
+     "gloss": "even-by-flower",
+     "grounds": "instrumental singular masculine with api",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḍayet",
+     "gloss": "should-strike",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "When may a woman not be struck?",
+   "premises": [
+    "even for a hundred offenses of women",
+    "not even by a flower should one strike"
+   ],
+   "inference": "striking women is forbidden even for many offenses",
+   "uncertainties": [
+    "whether puṣpeṇāpi means with a flower or by flower"
+   ],
+   "plain_english": "Even for a hundred offenses of women, one should not strike them even with a flower."
+  },
+  {
+   "verse": 1490,
+   "rows": [
+    {
+     "surface": "kularodhaprahāraṃ",
+     "gloss": "clan-confinement-blow",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "wise",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should a wise person always avoid?",
+   "premises": [
+    "wise person should always avoid",
+    "clan confinement blow"
+   ],
+   "inference": "a wise person always avoids clan confinement and blows",
+   "uncertainties": [
+    "whether kularodhaprahāraṃ is one compound or two"
+   ],
+   "plain_english": "A wise person should always avoid clan confinement and blows."
+  },
+  {
+   "verse": 1491,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiṃset",
+     "gloss": "should-harm",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "akhilān",
+     "gloss": "all",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "jantūn",
+     "gloss": "beings",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ninded",
+     "gloss": "should-disparage",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vāmalocanām",
+     "gloss": "left-eyed",
+     "grounds": "accusative singular feminine compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What harm and disparagement are forbidden?",
+   "premises": [
+    "one should not harm all beings",
+    "one should not disparage the left-eyed"
+   ],
+   "inference": "harm to beings and disparagement of the left-eyed are forbidden",
+   "uncertainties": [
+    "referent of vāmalocanām"
+   ],
+   "plain_english": "One should not harm all beings nor disparage the left-eyed."
+  },
+  {
+   "verse": 1492,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindet",
+     "gloss": "should-disparage",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "śaktisiddhāntaṃ",
+     "gloss": "śakti-siddhānta",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktipūjanatatparaḥ",
+     "gloss": "śakti-worship-devoted",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What must a devotee of śakti worship not disparage?",
+   "premises": [
+    "one devoted to śakti worship",
+    "should not disparage śakti-siddhānta"
+   ],
+   "inference": "a śakti worshipper must not disparage śakti-siddhānta",
+   "uncertainties": [
+    "whether śaktisiddhāntaṃ is a text or doctrine"
+   ],
+   "plain_english": "One devoted to śakti worship should not disparage śakti-siddhānta."
+  },
+  {
+   "verse": 1493,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ninded",
+     "gloss": "should-disparage",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bahumānyaṃ",
+     "gloss": "highly-respected",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindec",
+     "gloss": "should-disparage",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pativratām",
+     "gloss": "faithful-wife",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Whom must one not disparage among respected and faithful wives?",
+   "premises": [
+    "one should not disparage the highly respected",
+    "one should not disparage the faithful wife"
+   ],
+   "inference": "disparagement is forbidden toward respected persons and faithful wives",
+   "uncertainties": [
+    "whether bahumānyaṃ is masculine or neuter"
+   ],
+   "plain_english": "One should not disparage the highly respected nor the faithful wife."
+  },
+  {
+   "verse": 1494,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ninded",
+     "gloss": "should-disparage",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bahulaṃ",
+     "gloss": "abundant",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nindāṃ",
+     "gloss": "disparagement",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What disparagement should be avoided everywhere?",
+   "premises": [
+    "one should not disparage abundant meat",
+    "disparagement should be avoided everywhere"
+   ],
+   "inference": "disparagement of abundant meat and disparagement generally are to be avoided",
+   "uncertainties": [
+    "whether bahulaṃ modifies māṃsaṃ"
+   ],
+   "plain_english": "One should not disparage abundant meat, and disparagement should be avoided everywhere."
+  },
+  {
+   "verse": 1495,
+   "rows": [
+    {
+     "surface": "virūpāṃ",
+     "gloss": "deformed",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "muktakeśīṃ",
+     "gloss": "loose-haired",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmārttāṃ",
+     "gloss": "love-afflicted",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindayet",
+     "gloss": "should-disparage",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Which women must not be disparaged?",
+   "premises": [
+    "deformed women must not be disparaged",
+    "loose-haired and love-afflicted women must not be disparaged"
+   ],
+   "inference": "disparagement is forbidden toward deformed loose-haired and love-afflicted women",
+   "uncertainties": [
+    "whether virūpāṃ is adjective or noun"
+   ],
+   "plain_english": "One should not disparage deformed, loose-haired, or love-afflicted women."
+  },
+  {
+   "verse": 1496,
+   "rows": [
+    {
+     "surface": "śaktirūpā",
+     "gloss": "śakti-form",
+     "grounds": "nominative singular feminine compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭimadhye",
+     "gloss": "in-creation-middle",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vyavasthitā",
+     "gloss": "situated",
+     "grounds": "nominative singular feminine participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is the goddess to be regarded as śakti-form?",
+   "premises": [
+    "goddess is situated in the middle of creation",
+    "therefore she is śakti-form"
+   ],
+   "inference": "the goddess is śakti-form because she is situated in creation",
+   "uncertainties": [
+    "whether sṛṣṭimadhye means middle of creation"
+   ],
+   "plain_english": "The goddess is śakti-form because she is situated in the middle of creation."
+  },
+  {
+   "verse": 1497,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "śakti",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pradhānā",
+     "gloss": "primary",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanīyā",
+     "gloss": "worship-worthy",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows from the goddess being śakti-form?",
+   "premises": [
+    "therefore śakti is primary",
+    "śakti is worship-worthy with effort"
+   ],
+   "inference": "śakti is primary and should be worshipped with effort",
+   "uncertainties": [
+    "whether pradhānā modifies śakti or goddess"
+   ],
+   "plain_english": "Therefore śakti is primary and should be worshipped with effort."
+  },
+  {
+   "verse": 1498,
+   "rows": [
+    {
+     "surface": "āraktavasanāṃ",
+     "gloss": "red-garmented",
+     "grounds": "accusative singular feminine compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nārīṃ",
+     "gloss": "woman",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yatnād",
+     "gloss": "with-effort",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental singular feminine",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "samānayet",
+     "gloss": "should-bring",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should a red-garmented woman be brought?",
+   "premises": [
+    "a red-garmented woman",
+    "should be brought with effort and devotion"
+   ],
+   "inference": "a red-garmented woman is to be brought with effort and devotion",
+   "uncertainties": [
+    "whether samānayet means bring or unite"
+   ],
+   "plain_english": "A red-garmented woman should be brought with effort and devotion."
+  },
+  {
+   "verse": 1499,
+   "rows": [
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktiprasanne",
+     "gloss": "śakti-pleased",
+     "grounds": "locative singular feminine compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duḥkhaṃ",
+     "gloss": "sorrow",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvarjanād",
+     "gloss": "from-her-abandonment",
+     "grounds": "ablative singular masculine compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "occurs",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What results from pleasing or abandoning śakti?",
+   "premises": [
+    "happiness occurs when śakti is pleased",
+    "sorrow occurs from her abandonment"
+   ],
+   "inference": "pleasing śakti brings happiness and abandoning her brings sorrow",
+   "uncertainties": [
+    "whether śaktiprasanne is locative absolute"
+   ],
+   "plain_english": "Happiness occurs when śakti is pleased, but sorrow occurs from abandoning her."
+  }
+ ]
+}

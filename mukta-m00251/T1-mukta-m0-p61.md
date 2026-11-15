@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[in-north](uttare) [subtle-element](tanmātram) [in-northeast](īśānyāṃ) [tongue](rasanaṃ) [likewise](tathā)
+[north](uttare) [that-only](tanmātram) [northeast](īśānyāṃ) [taste](rasanaṃ) [and](tathā)
 
 ## mukta-m0-p61-v1502
-[at-petal+ends](patra+anteṣu) [great+elements](mahā+bhūtāḥ) [filaments](kesarāṇi) [but](tu) [senses](indriyāḥ)
+[petal-tips](patrānteṣu) [great-elements](mahābhūtāḥ) [filaments](kesarāṇi) [but](tu) [senses](indriyāḥ)
 
 ## mukta-m0-p61-v1503
-[who](yaḥ) [that](asau) [in-heart+obstructing](hṛdi+uparodhī) [but](tu) [tāmasa](tāmasaḥ) [sleep+formed](nidrā+rūpiṇaḥ)
+[that-one](yo'sau) [heart-obstructing](hṛdyuparodhī) [but](tu) [tamasic](tāmaso) [sleep-formed](nidrarūpiṇaḥ)
 
 ## mukta-m0-p61-v1504
-[at-end](ante) [but](tu) [pericarp](karṇikā) [consciousness](cetā) [with-states](bhāvaiḥ) [and](ca) [with](saha) [united](saṃyutāḥ)
+[at-end](ante) [but](tu) [pericarp](karṇikā) [mind](cetā) [with-emotions](bhāvaiśca) [and](saha) [joined](saṃyutāḥ)
 
 ## mukta-m0-p61-v1505
-[in-lotus+stalk](padma+nāle) [situated](sthitā) [gods](devāḥ) [in-thorns](kaṇṭakeṣu) [situated-below](adhaḥ+sthitāḥ)
+[in-lotus-stalk](padmanāle) [situated](sthitā) [gods](devāḥ) [in-thorns](kaṇṭakeṣu) [situated-below](adhasthitāḥ)
 
 ## mukta-m0-p61-v1506
-[planets+constellations+stars](graha+nakṣatra+tārāḥ) [and](ca) [yakṣas+rākṣasas+serpents](yakṣa+rākṣasa+pannagāḥ)
+[planets-stars-constellations](grahanakṣatratārāḥ) [and](ca) [yakshas-rakshasas-serpents](yakṣarākṣasapannagāḥ)
 
 ## mukta-m0-p61-v1507
-[all+god+consisting](sarva+deva+mayaṃ) [lotus](padmaṃ) [who](yaḥ) [having-pierced](bhitvā) [with-knowledge+needles](jñāna+sūcibhiḥ)
+[all-god-filled](sarvadevamayaṃ) [lotus](padmaṃ) [who](yo) [piercing](bhitvā) [with-knowledge-needles](jñānasūcibhiḥ)
 
 ## mukta-m0-p61-v1508
-[and-of-him-awake](jāgrataḥ) [and](ca) [of-this](asya) [of-all](sarvasya) [teacher](ācāryaḥ) [lord](prabhuḥ) [is-called](ucyate)
+[awake](jāgrataḥ) [and](ca) [of-all-this](asya+sarvasya) [teacher](ācāryaḥ) [lord-called](prabhurucyate)
 
 ## mukta-m0-p61-v1509
-[initiator](dīkṣakaḥ) [but](tu) [guru+best](guru+śreṣṭhaḥ) [of-śiva+principle](śiva+tatvasya) [gone-beyond](pāragaḥ)
+[initiator](dīkṣakaḥ) [but](tu) [best-guru](guruśreṣṭhaḥ) [of-shiva-principle](śivatatvasya) [crosser](pāragaḥ)
 
 ## mukta-m0-p61-v1510
-[mantra+embodied](mantra+mūrtiḥ) [remembered-teacher](smṛtaḥ+ācāryaḥ) [mantra+embodied+supreme](mantra+mūrti+paraḥ) [śiva](śivaḥ)
+[mantra-form-remembered-teacher](mantramūrtismṛtācāryaḥ) [mantra-form-supreme-shiva](mantramūrtiparaśśivaḥ)
 
 ## mukta-m0-p61-v1511
-[therefore](tasmāt) [in-all](sarveṣu) [in-beings](bhūteṣu) [grace](anugrahaṃ) [proceeds](saṃpravartate)
+[therefore](tasmāt) [in-all-beings](sarveṣu+bhūteṣu) [grace](anugrahaṃ) [proceeds](saṃpravartate)
 
 ## mukta-m0-p61-v1512
-[śiva](śivaḥ) [in-teacher+body+dwelling](deśika+deha+sthaḥ) [of-living-beings+grace+causing](prāṇi+anugrāha+kārakaḥ)
+[shiva](śivaḥ) [situated-in-teacher-body](deśikadehasthaḥ) [creature-grace-doer](prāṇyanugrāhakārakaḥ)
 
 ## mukta-m0-p61-v1513
-[which](yat) [that](tat) [peaceful](śāntaṃ) [supreme](paraṃ) [principle](tattvaṃ) [cause](kāraṇaṃ) [of-cause+lord](kāraṇa+adhipam)
+[that-peaceful](yattacchāntaṃ) [supreme-principle](paraṃ+tattvaṃ) [cause](kāraṇaṃ) [lord-of-causes](kāraṇādhipam)
 
 ## mukta-m0-p61-v1514
-[aṇimā+etc+qualities](aṇimā+ādi+guṇāṃ) [attainment](siddhiṃ) [śiva](śivaṃ) [supreme+cause](parama+kāraṇam)
+[anima-etc-qualities](aṇimādiguṇāṃ) [attainment](siddhiṃ) [shiva](śivaṃ) [supreme-cause](paramakāraṇam)
 
 ## mukta-m0-p61-v1515
-[of-three+principles](tri+tattvasya) [but](tu) [which-being](yat+bhūtaṃ) [from-imperishable](akṣarāt) [known](viditaṃ) [as](yathā)
+[of-three-principles](tritattvasya) [but](tu) [what-being](yadbhūtaṃ) [from-syllable](akṣarāt) [known](viditaṃ) [as](yathā)
 
 ## mukta-m0-p61-v1516
-[who](yaḥ) [as](yathā) [situated](avasthitaḥ) [indeed](hi) [object](arthaḥ) [by-quality+fault+nature](guṇa+doṣa+svabhāvataḥ)
+[who](yo) [as-situated-indeed-meaning](yathā'vasthitohyartho) [by-quality-fault-nature](guṇadoṣasvabhāvataḥ)
 
 ## mukta-m0-p61-v1517
-[how](kathaṃ) [in-world](loke) [indeed](hi) [unknown](avijñātaṃ) [in-omniscience](sarvajñatve) [thus](tathā) [speak](vada)
+[how](kathaṃ) [in-world](loke) [indeed-unknown](hyavijñātaṃ) [in-omniscience](sarvajñatve) [thus](tathā) [speak](vada)
 
 ## mukta-m0-p61-v1518
-[omniscience](sarvajñatvaṃ) [then](tadā) [of-him](tasya) [all+means](sarva+upāyaḥ) [manifested](vibhāvitam)
+[omniscience](sarvajñatvaṃ) [then](tadā) [its](tasya) [all-means](sarvopāyaḥ) [manifested](vibhāvitam)
 
 ## mukta-m0-p61-v1519
-[slander](paiśunyam) [untruth](anṛta) [deceit](draupyaṃ) [in-age+passed](vayaḥ+atīteṣu) [even](api) [in-men](nṛṣu)
+[talebearing](paiśunyamanṛtadraupyaṃ) [even-in-men-past-age](vayo'tīteṣvapi+nṛṣu)
 
 ## mukta-m0-p61-v1520
-[by-these](ebhiḥ) [indeed](eva) [covered](āvṛtaḥ) [world](lokaḥ) [by-that](tena) [god](devaṃ) [not](na) [finds](vindati)
+[by-these-indeed-covered](ebhirevāvṛto) [world](lokaḥ) [therefore](tena) [god](devaṃ) [not-finds](na+vindati)
 
 ## mukta-m0-p61-v1521
-[one-should-initiate](dīkṣayet) [all+beings](sarva+jantūni) [by-meditation](dhyānena) [by-this](anena) [o-virtuous-one](suvṛte)
+[should-initiate](dīkṣayet) [all-creatures](sarvajantūni) [by-this-meditation](dhyānenānena) [o-good-vowed](suvṛte)
 
 ## mukta-m0-p61-v1522
-[by-one](ekena) [all+beings](sarva+bhūtāḥ) [but](tu) [principles](tatvāḥ) [and](ca) [indeed](eva) [o-fair-faced-one](vara+ānane)
+[by-one](ekena) [all-beings-but](sarvabhūtāstu) [principles-and-indeed](tatvāścaiva) [o-fair-faced](varānane)
 
 ## mukta-m0-p61-v1523
-[by-mind](manasā) [is-grasped](gṛhyate) [o-goddess](devi) [is-united](yujyate) [by-mind](manasā) [bound-soul](paśuḥ)
+[by-mind](manasā) [grasped](gṛhyate) [goddess](devi) [yoked](yujyate) [by-mind](manasā) [bound-soul](paśuḥ)
 
 ## mukta-m0-p61-v1524
-[by-mind](manasā) [is-grasped](gṛhyate) [because](yasmāt) [therefore](tasmāt) [indeed](eva) [this](an) [mind+consisting](manātmakaḥ)
+[by-mind](manasā) [grasped](gṛhyate) [because](yasmāt) [therefore-indeed](tasmādeva) [mind-natured](manātmakaḥ)
 
 ## mukta-m0-p61-v1525
-[with-all](sarvaiḥ) [with-sense-organ+unions](karaṇa+yogaiḥ) [and](ca) [to-be-perceived](upalabdhuṃ) [in-great-lord](maheśvare)
+[by-all](sarvaiḥ) [sense-instruments-and](karaṇayogaiśca) [to-perceive](upalabdhuṃ) [in-maheshvara](maheśvare)

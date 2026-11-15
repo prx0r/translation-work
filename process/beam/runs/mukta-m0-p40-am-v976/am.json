@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 976,
- "question": "Which deities must be worshipped on the tridents in this rite?",
+ "question": "What fragrant betel offering should be given then?",
  "premises": [
-  "The ritual specifies tridents as locations.",
-  "The worshipper is instructed to perform worship.",
-  "Eight Bhairavīs are named as recipients."
+  "betel leaf is offered",
+  "camphor and similar fragrances scent it",
+  "the gift follows the rite"
  ],
- "inference": "The rite requires worship of eight Bhairavīs on the tridents.",
- "uncertainties": [],
- "plain_english": "O great goddess, one should worship the eight Bhairavīs on the tridents."
+ "inference": "The practitioner presents fragrant betel leaf as part of the offering sequence.",
+ "uncertainties": [
+  "exact ritual placement is not specified"
+ ],
+ "plain_english": "Then one should give betel leaf scented with camphor and similar fragrances."
 }

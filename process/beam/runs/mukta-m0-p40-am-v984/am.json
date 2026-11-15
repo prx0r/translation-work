@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 984,
- "question": "What power does a vessel endowed with mantra possess in worship?",
+ "question": "How is mantra purification declared to proceed?",
  "premises": [
-  "A vessel is joined with mantra.",
-  "Such a vessel has a specific effect.",
-  "The effect concerns all faults."
+  "it proceeds gradually",
+  "twice repetition is named",
+  "mantra purification is thus declared"
  ],
- "inference": "A vessel endowed with mantra removes all faults.",
- "uncertainties": [],
- "plain_english": "What is endowed with vessel and mantra would remove all faults."
+ "inference": "Mantra purification is declared to proceed gradually by twice repetition.",
+ "uncertainties": [
+  "whether repetition count is fixed"
+ ],
+ "plain_english": "Gradually, gradually, twice repetition is mantra purification, thus declared."
 }

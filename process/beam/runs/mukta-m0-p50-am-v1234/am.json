@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1234,
- "question": "What ritual act constitutes the purification of the deity?",
+ "question": "From what is one freed by a drop of arghya?",
  "premises": [
-  "Sprinkling should be done three times.",
-  "This act is performed in the prescribed manner.",
-  "This act is called deity purification."
+  "arghyasya+bindumātreṇa means by a drop of arghya",
+  "mukto bhavati means becomes freed",
+  "pātakāt means from sin"
  ],
- "inference": "Sprinkling three times in this manner is declared to be the purification of the deity.",
- "uncertainties": [],
- "plain_english": "One should sprinkle three times in this way; this is called the purification of the deity."
+ "inference": "By a drop of arghya one becomes freed from sin.",
+ "uncertainties": [
+  "fused token kept whole"
+ ],
+ "plain_english": "By a drop of arghya one becomes freed from sin."
 }

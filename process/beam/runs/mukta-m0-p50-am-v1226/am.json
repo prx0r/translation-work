@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1226,
- "question": "What physical attributes define the supreme goddess in this visualization?",
+ "question": "Which divine recipients receive offerings in this Kaula ritual sequence?",
  "premises": [
-  "The goddess is four-armed.",
-  "The goddess is three-eyed.",
-  "The goddess bears a bow and five arrows."
+  "mahyaṃ śukrāya sūryāya gaṇeśāya yamāya ca lists recipients",
+  "the verse is a ritual offering list",
+  "ca joins the final recipient"
  ],
- "inference": "The supreme goddess is visualized with four arms, three eyes, and weapons of five arrows and a bow.",
- "uncertainties": [],
- "plain_english": "Visualize her as four-armed, three-eyed, and bearing a bow and five arrows."
+ "inference": "The practitioner offers to me, Śukra, the Sun, Gaṇeśa, and Yama.",
+ "uncertainties": [
+  "mahyaṃ may be a deity or self-reference"
+ ],
+ "plain_english": "To me, to Śukra, to the Sun, to Gaṇeśa, and to Yama."
 }

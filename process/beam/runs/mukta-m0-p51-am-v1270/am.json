@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p51",
  "verse": 1270,
- "question": "How many gallery intervals should the expert planner arrange?",
+ "question": "Do heaven and hell exist for nondualists?",
  "premises": [
-  "Gallery intervals are to be arranged",
-  "A specific number is prescribed",
-  "The number prescribed is thirty-two"
+  "Heaven is denied.",
+  "Hell is denied.",
+  "This is certain for nondualists."
  ],
- "inference": "The best planner should arrange thirty-two gallery intervals.",
- "uncertainties": [],
- "plain_english": "The best planner should arrange thirty-two gallery intervals."
+ "inference": "For nondualists, neither heaven nor hell exists; this is certain.",
+ "uncertainties": [
+  "The verse does not explain the metaphysical reason."
+ ],
+ "plain_english": "For nondualists, there is neither heaven nor hell; this is certain."
 }
