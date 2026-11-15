@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2003,
- "question": "On what condition does the speaker request compassionate disclosure of that knowledge?",
+ "question": "Which red-garmented matted-eyed form is adorned with a broad tilaka?",
  "premises": [
-  "The speaker asks to be told that knowledge.",
-  "The request is made with compassion as its condition.",
-  "The speaker claims to be beloved to the addressee."
+  "The first token gives red garment and matted eyes.",
+  "The second token gives broad tilaka adornment."
  ],
- "inference": "If the speaker is dear to the addressee, that knowledge should be revealed compassionately.",
- "uncertainties": [],
- "plain_english": "Tell me that out of compassion, if I am beloved to you."
+ "inference": "The described form combines red garment, matted eyes, and broad tilaka.",
+ "uncertainties": [
+  "Internal sandhi not expanded."
+ ],
+ "plain_english": "A red-garmented, matted-eyed form is adorned with a broad tilaka."
 }

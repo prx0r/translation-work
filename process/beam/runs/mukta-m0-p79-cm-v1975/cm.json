@@ -3,29 +3,34 @@
  "verse": 1975,
  "rows": [
   {
-   "lemma": "paricārān",
-   "morph": "m.acc.pl",
-   "grounds": "recipients named in the ritual list"
+   "lemma": "kṣurikā",
+   "morph": "acc.sg.f",
+   "grounds": "weapon noun in the held-object list"
+  },
+  {
+   "lemma": "bhiṃḍivāla",
+   "morph": "acc.sg.m",
+   "grounds": "named held implement; lexical sense uncertain"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connects the listed recipients"
+   "grounds": "conjunction joining held objects"
   },
   {
-   "lemma": "brāhmaṇān",
-   "morph": "m.acc.pl",
-   "grounds": "recipients named in the ritual list"
+   "lemma": "dadhānā",
+   "morph": "nom.sg.f-participle",
+   "grounds": "present participle agreeing with the deity"
   },
   {
-   "lemma": "vratinas",
-   "morph": "m.acc.pl",
-   "grounds": "recipients named in the ritual list"
+   "lemma": "bāhubhiḥ",
+   "morph": "instr.pl.m",
+   "grounds": "instrumental plural locating the holding"
   },
   {
-   "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "marks parallel treatment with prior recipients"
+   "lemma": "mudā",
+   "morph": "instr.sg.f",
+   "grounds": "instrumental singular qualifying the action"
   }
  ]
 }

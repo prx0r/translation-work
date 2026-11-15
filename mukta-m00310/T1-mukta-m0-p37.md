@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[kuṅkumena+aṣṭagandhena](kuṅkumenāṣṭagandhena) [sarvathā](sarvathā) [vīrabhasmanā](vīrabhasmanā)
+[with-saffron](kuṅkumenā) [with-eight-fragrances](aṣṭagandhena) [in-every-way](sarvathā) [with-vīra-ash](vīrabhasmanā)
 
 ## mukta-m0-p37-v902
-[sāmānya+arghya+udakena+aśu](sāmānyārghyodakenāśu) [saṃprokṣya](saṃprokṣya) [kulasundari](kulasundari)
+[with-common-arghya-water](sāmānyārghyodakenā) [quickly](āśu) [having-sprinkled](saṃprokṣya) [beautiful-family-lady](kulasundari)
 
 ## mukta-m0-p37-v903
-[vahneḥ](vahneḥ) [kalāḥ](kalāḥ) [samabhyarcya](samabhyarcya) [yathāvat+varṇyate+mayā](yathāvadvarṇyatemayā)
+[of-fire](vahneḥ) [rays](kalāḥ) [having-worshipped](samabhyarcya) [as-described](yathāvad) [by-me](mayā)
 
 ## mukta-m0-p37-v904
-[daśa+kalā+ātmane](daśakalātmane) [viśvam](viśvam) [iti](iti) [mantreṇa](mantreṇa) [pūjayet](pūjayet)
+[to-ten-rayed-one](daśakalātmane) [universe](viśvam) [with-mantra](iti mantreṇa) [should-worship](pūjayet)
 
 ## mukta-m0-p37-v905
-[jvālā](jvālā) [haimavatī](haimavatī) [kavyavāhanī](kavyavāhanī) [havyavāhanī](havyavāhanī)
+[flame](jvālā) [haimavatī](haimavatī) [kavyavāhanī](kavyavāhanī) [havyavāhanī](havyavāhanī)
 
 ## mukta-m0-p37-v906
-[pūjayitvā+ukta+vidhinā](pūjayitvoktavidhinā) [gandha+akṣata+prasūnakaiḥ](gandhākṣataprasūnakaiḥ)
+[having-worshipped](pūjayitvā) [by-described-rite](uktavidhinā) [with-sandal-rice-flowers](gandhākṣataprasūnakaiḥ)
 
 ## mukta-m0-p37-v907
-[haimaṃ](haimaṃ) [vā](vā) [rājataṃ](rājataṃ) [mārdaṃ](mārdaṃ) [sthāpayed](sthāpayed) [vīramudrayā](vīramudrayā)
+[golden](haimaṃ) [or](vā) [silver](rājataṃ) [earthen](mārdaṃ) [should-place](sthāpayet) [with-vīra-mudrā](vīramudrayā)
 
 ## mukta-m0-p37-v908
-[brahmaṇā](brahmaṇā) [ca](ca) [yathā](yathā) [pūrvaṃ](pūrvaṃ) [tathā](tathā) [tvāṃ](tvāṃ) [sthāpayāmyaham](sthāpayāmyaham)
+[by-brahmā](brahmaṇā) [and](ca) [as-before](yathā pūrvaṃ) [thus](tathā) [you](tvāṃ) [I-place](sthāpayāmyaham)
 
 ## mukta-m0-p37-v909
-[sūrya+nāma](sūryanāma) [samuccārya](samuccārya) [jīva+mantraṃ](jīvamantraṃ) [maheśvari](maheśvari)
+[sun-name](sūryanāma) [having-uttered](samuccārya) [life-mantra](jīvamantraṃ) [great-goddess](maheśvari)
 
 ## mukta-m0-p37-v910
-[viśvam](viśvam) [ante](ante) [prayoktavyaṃ](prayoktavyaṃ) [manunā](manunā) [anena](anena) [pūjayet](pūjayet)
+[universe](viśvam) [at-end](ante) [should-use](prayoktavyaṃ) [with-mantra](manunānena) [should-worship](pūjayet)
 
 ## mukta-m0-p37-v911
-[tapinī](tapinī) [tāpinī](tāpinī) [ca+eva](caiva) [bodhinī](bodhinī) [ca+eva](caiva) [rodhinī](rodhinī)
+[tapinī](tapinī) [tāpinī](tāpinī) [and](ca) [eva](eva) [bodhinī](bodhinī) [and](ca) [eva](eva) [rodhinī](rodhinī)
 
 ## mukta-m0-p37-v912
-[māyā](māyā) [viśvāvatī](viśvāvatī) [hema+prabhā](hemaprabhā) [saura+kalāḥ](saurakalāḥ) [imāḥ](imāḥ)
+[māyā](māyā) [viśvāvatī](viśvāvatī) [hema-prabhā](hemaprabhā) [saura-rays](saurakalā) [these](imāḥ)
 
 ## mukta-m0-p37-v913
-[surayā](surayā) [pūrayet](pūrayet) [kumbhaṃ](kumbhaṃ) [vilomaiḥ](vilomair) [mātṛkā+akṣaraiḥ](mātṛkākṣaraiḥ)
+[with-surā](surayā) [should-fill](pūrayet) [pot](kumbhaṃ) [in-reverse](vilomaiḥ) [mātṛkā-letters](mātṛkākṣaraiḥ)
 
 ## mukta-m0-p37-v914
-[candra+maṇḍalam](candramaṇḍalam) [abhyarcya](abhyarcya) [mantreṇa](mantreṇānena) [anena](anena) [pārvati](pārvati)
+[moon-orb](candramaṇḍalam) [having-worshipped](abhyarcya) [with-mantra](mantreṇānena) [pārvatī](pārvati)
 
 ## mukta-m0-p37-v915
-[viśva+añcalāya](viśvāñcalāya) [deveśi](deveśi) [śrī](śrī) [ṣoḍaśa+kalā+ātmane](ṣoḍaśakalātmane)
+[to-all-pervading-lord](viśvāñcalāya) [goddess](deveśi) [to-śrī-sixteen-rayed-one](śrīṣoḍaśakalātmane)
 
 ## mukta-m0-p37-v916
-[amṛtā](amṛtā) [mānadā](mānadā) [tuṣṭiḥ](tuṣṭiḥ) [puṣṭiḥ](puṣṭiḥ) [prītiḥ](prītī) [ratiḥ+tathā](ratistathā)
+[amṛtā](amṛtā) [mānadā](mānadā) [tuṣṭi](tuṣṭiḥ) [puṣṭi](puṣṭiḥ) [prīti](prītī) [rati](ratistathā)
 
 ## mukta-m0-p37-v917
-[chāyā](chāyā) [ca](ca) [pūrṇimā](pūrṇimā) [nityā](nityā) [ca](cāmāvasyā) [amāvasyā](amāvasyā) [ca](ca) [ṣoḍaśī](ṣoḍaśī)
+[shadow](chāyā) [and](ca) [full-moon](pūrṇimā) [eternal](nityā) [and](ca) [new-moon](amāvasyā) [and](ca) [sixteenth](ṣoḍaśī)
 
 ## mukta-m0-p37-v918
-[mūlena](mūlena) [tatra](tatra) [kalaśe](kalaśe) [trikoṇaṃ](trikoṇaṃ) [ca](ca) [vibhāvayet](vibhāvayet)
+[by-root](mūlena) [there](tatra) [in-pot](kalaśe) [triangle](trikoṇaṃ) [and](ca) [should-visualize](vibhāvayet)
 
 ## mukta-m0-p37-v919
-[praṇavena](praṇavenārcayed) [arcayed](arcayed) [devi](devi) [śivaṃ](śivaṃ) [gandhena](gandhena) [vāyunā](vāyunā)
+[by-oṃ](praṇavenā) [should-worship](arcayed) [goddess](devi) [śiva](śivaṃ) [with-sandal](gandhena) [with-air](vāyunā)
 
 ## mukta-m0-p37-v920
-[parama+ākāśa+śūnyaṃ](paramākāśaśūnyaṃ) [ca](ca) [vāhinī](vāhinīti) [iti](iti) [samuddharet](samuddharet)
+[paramākāśa-śūnya](paramākāśaśūnyaṃ) [and](ca) [vāhinī](vāhinī) [thus](iti) [should-raise](samuddharet)
 
 ## mukta-m0-p37-v921
-[ṭha+dvayāntām](ṭhadvayāntāmimāṃ) [imām](imām) [vidyāṃ](vidyāṃ) [japet](japettu) [tu](tu) [daśadhā](daśadhā) [ghaṭe](ghaṭe)
+[ṭha-pair-ending](ṭhadvayāntām) [this](imāṃ) [vidyā](vidyāṃ) [should-chant](japettu) [ten-times](daśadhā) [in-pot](ghaṭe)
 
 ## mukta-m0-p37-v922
-[ākṛṣṇena](ākṛṣṇena) [rajasā](rajaseti) [iti](iti) [nāmnīm](nāmnīṃ) [parama+pāvanīm](paramapāvanīm)
+[by-ākṛṣṇena-rajasa](ākṛṣṇena rajaseti) [named](nāmnīṃ) [most-purifying](paramapāvanīm)
 
 ## mukta-m0-p37-v923
-[tatra](tatrānandeśagāyatrīṃ) [ānandeśa](ānandeśa) [gāyatrīṃ](gāyatrīṃ) [japet](japettu) [tu](tu) [daśadhā](daśadhā) [priye](priye)
+[there](tatrā) [ānandeśa-gāyatrī](ānandeśagāyatrīṃ) [should-chant](japettu) [ten-times](daśadhā) [beloved](priye)
 
 ## mukta-m0-p37-v924
-[vidmahe](vidmahe) [śrī](śrī) [surādevyai](surādevyai) [dhīmahi](dhīmahīti) [iti](iti) [tatas](tato) [vadet](vadet)
+[vidmahe](vidmahe) [śrī-surā-devyai](śrīsurādevyai) [dhīmahī](dhīmahī) [iti](iti) [then](tato) [should-say](vadet)
 
 ## mukta-m0-p37-v925
-[gāyatrīṃ](gāyatrīṃ) [daśadhā](daśadhā) [japtvā](japtvā) [haṃsaḥ](haṃsaḥ) [śuciṣadā](śuciṣadārcayet) [arcayet](arcayet)
+[gāyatrī](gāyatrīṃ) [ten-times](daśadhā) [having-chanted](japtvā) [haṃsaḥ-śuciṣad](haṃsaḥ śuciṣadā) [should-worship](arcayet)

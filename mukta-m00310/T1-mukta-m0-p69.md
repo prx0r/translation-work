@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-twelve-end-one-abode twelve-soul day-lord
+[twelve+end+one+abode](dvādaśāntaikavasatiḥ) [twelve+self](dvādaśātmā) [day+lord](divaspatiḥ)
+
 ## mukta-m0-p69-v1702
-hard-to-meditate wicked-lineage-destroyer compassion-lord compassion-abode
+[hard+to+meditate](durdhyeyaḥ) [wicked+lineage+destroyer](duṣṭavaṃśaghnaḥ) [compassion+lord](dayānāthaḥ) [compassion+abode](dayākulaḥ)
+
 ## mukta-m0-p69-v1703
-dharma-friend dharma-treasure dharma-king wealth-giver
+[dharma+friend](dharmabandhuḥ) [dharma+treasure](dharmanidhiḥ) [dharma+king](dharmarājaḥ) [wealth+giver](dhanapradaḥ)
+
 ## mukta-m0-p69-v1704
-matted-hair-moment-dweller and dharma-field earth-lord
+[three-eyed+dweller](dhūrjaṭīkṣaṇavāsī) [dharma+field](dharmakṣetraḥ) [earth+lord](dharādhipaḥ)
+
 ## mukta-m0-p69-v1705
-earth-bearer-beloved righteous dha-letter-ornament
+[earth+bearer](dharābhṛt) [beloved](vallabhaḥ) [righteous](dharmī) [dha+letter+ornament](dhakārākṣarabhūṣaṇaḥ)
+
 ## mukta-m0-p69-v1706
-lotus-beloved impelled dance-maker dance-increaser
+[lotus+beloved](nalinīvallabhaḥ) [bowed](nunnaḥ) [dance+maker](nāṭyakṛt) [dance+increaser](nāṭyavardhanaḥ)
+
 ## mukta-m0-p69-v1707
-bowing humbled-enemy nara-narayana-refuge
+[bowing](namantaḥ) [subduer+of+enemies](namitārātiḥ) [nara+nārāyaṇa+refuge](naranārāyaṇāśrayaḥ)
+
 ## mukta-m0-p69-v1708
-sound-form sound-filled sound-bindu-form
+[sound+form](nādarūpaḥ) [sound+filled](nādamayaḥ) [sound+bindu+form](nādabindusvarūpakaḥ)
+
 ## mukta-m0-p69-v1709
-heaven-dweller many-bodied na-letter-mother
+[heaven+dweller](nākasthitaḥ) [many+forms](anekavapuḥ) [na+letter+mother](nakārākṣaramātṛkaḥ)
+
 ## mukta-m0-p69-v1710
-love-dear love-maker bowed-distress-fear-remover
+[love+dear](prītipriyaḥ) [love+maker](premakaraḥ) [bowed+suffering+fear+remover](praṇatārtibhayāpahaḥ)
+
 ## mukta-m0-p69-v1711
-full-bliss-filled full-radiance full-goddess-lord
+[full+bliss+filled](pūrṇānandamayaḥ) [full+radiance](pūrṇatejāḥ) [full+lord+of+lord](pūrṇeśvarīśvaraḥ)
+
 ## mukta-m0-p69-v1712
-supreme-lord-body tall intoxicated bowed-desired-giver
+[supreme+lord+form](parameśavapuḥ) [tall](prāṃśuḥ) [intoxicated](pramattaḥ) [bowed+desired+giver](praṇateṣṭadaḥ)
+
 ## mukta-m0-p69-v1713
-ripener picula burnt woman-folk-happiness-giver
+[cooker](pācanaḥ) [sticky](piculaḥ) [burnt](pluṣṭaḥ) [women+pleasure+giver](pramadājanasaukhyadaḥ)
+
 ## mukta-m0-p69-v1714
-fruit enjoyment-liberation's fruit-tree-lord fruit-natured
+[fruit+of+enjoyment+liberation](phalaṃ bhogāpavargasya) [fruitful+lord](phalinīśaḥ) [fruit+self](phalātmakaḥ)
+
 ## mukta-m0-p69-v1715
-child strength-dear vomited cave-darkness-remover strong
+[child](bālaḥ) [strength+dear](balapriyaḥ) [emitted](bāntaḥ) [darkness+remover](biladhvāntaharaḥ) [strong](balī)
+
 ## mukta-m0-p69-v1716
-wise jupiter tree great-horse great-course
+[wise](budhaḥ) [bṛhaspati](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great+horse](bṛhadaśvaḥ) [great+motion](bṛhadgatiḥ)
+
 ## mukta-m0-p69-v1717
-fortune bhrgu bhrgu-dwelling bhargava poet-crest
+[bhaga](bhagaḥ) [bhṛgu](bhṛguḥ) [bhṛgu+dweller](bhṛgusthāyī) [bhārgava](bhārgavaḥ) [poet+crest](kaviśekharaḥ)
+
 ## mukta-m0-p69-v1718
-great-time great-superintendent great-sound great-mind
+[great+time](mahākālaḥ) [great+overseer](mahādhyakṣaḥ) [great+sound](mahānādaḥ) [great+mind](mahāmatiḥ)
+
 ## mukta-m0-p69-v1719
-honor-giver wrestler-killer wrestler meru-mandara-temple
+[honor+giver](mānadaḥ) [wrestler+slayer](mallahā) [wrestler](mallaḥ) [meru+mandara+abode](merumandaramandiraḥ)
+
 ## mukta-m0-p69-v1720
-delighted wine-food sun bald-shaved
+[delighted](moditaḥ) [wine+eater](madirāhāraḥ) [sun](mārtaṇḍaḥ) [shaved+head](muṇḍamuṇḍitaḥ)
+
 ## mukta-m0-p69-v1721
-madalasa immortal-praised murari-boon-giver manu
+[delicate](madālasaḥ) [god+praised](amarastutyaḥ) [murāri+boon+giver](murārivaradaḥ) [manu](manuḥ)
+
 ## mukta-m0-p69-v1722
-garlanded medhana mara wise mace-armed
+[garlanded](mālyavān) [medha](medhanaḥ) [kāma](māraḥ) [wise](medhāvī) [mace+weaponed](musalāyudhaḥ)
+
 ## mukta-m0-p69-v1723
-cupid sweet-food ma-letter-mother
+[kāma](madanaḥ) [sweet+eater](modakāhāraḥ) [ma+letter+mother](makārākṣaramātṛkaḥ)
+
 ## mukta-m0-p69-v1724
-traveler sacrifice-fruit-giver goer yamala-leader
+[pilgrim](yātrikaḥ) [sacrifice+fruit+giver](yajñaphaladaḥ) [goer](yāyī) [yāmala+leader](yāmalanāyakaḥ)
+
 ## mukta-m0-p69-v1725
-staff-bearer and yantra-lord yoni-circle-middle-goer
+[staff+holder](yaṣṭidhārī) [machine+lord](yantreśaḥ) [womb+circle+middle+dweller](yonimaṇḍalamadhyagaḥ)

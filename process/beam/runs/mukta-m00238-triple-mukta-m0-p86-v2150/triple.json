@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "khaḍgacarmagadāpāṇiḥ",
+     "gloss": "sword-shield-mace-handed",
+     "grounds": "compound of sword, shield, mace, and hand in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siṃhastho",
+     "gloss": "lion-mounted",
+     "grounds": "compound of lion and standing or seated in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varado",
+     "gloss": "boon-giver",
+     "grounds": "compound of boon and giving in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "mercury",
+     "grounds": "nominative singular masculine form of Budha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which iconographic attributes and mount identify Budha in this tantric compendium?",
+   "premises": [
+    "Budha holds sword shield mace",
+    "Budha rides a lion",
+    "Budha grants boons"
+   ],
+   "inference": "Budha is depicted with these attributes",
+   "uncertainties": [
+    "quotation boundary between cited verse and compiler prose remains unclear"
+   ],
+   "plain_english": "Budha, holding sword, shield, and mace, mounted on a lion, is the boon-giver."
+  }
+ ]
+}

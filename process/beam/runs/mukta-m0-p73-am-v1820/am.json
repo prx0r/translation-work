@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1820,
- "question": "What counts are assigned to gold and red sandal materials?",
+ "question": "Which deities preside over the six seasons and what forms and gifts are assigned to them?",
  "premises": [
-  "sauvarṇair is instrumental",
-  "daśakoṭiḥ is ten-crore",
-  "raktacandanaiḥ is instrumental",
-  "anantaṃ is endless"
+  "Six seasons each have a presiding deity.",
+  "Deities are described by color form and gift.",
+  "Worship and offerings accompany seasonal birth traits."
  ],
- "inference": "Gold gives ten-crore and red sandal gives endless.",
+ "inference": "The verses enumerate seasonal deities with attributes and ritual associations.",
  "uncertainties": [
-  "exact syntactic pairing"
+  "Token boundaries and sandhi are preserved; some compounds are opaque."
  ],
- "plain_english": "Gold gives ten-crore; red sandal gives endless."
+ "plain_english": "It lists deities of the six seasons with colors, forms, and offerings."
 }

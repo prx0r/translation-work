@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "dhyāyāmi",
+     "gloss": "i-meditate",
+     "grounds": "first-person singular present active of dhyā (meditate)",
+     "morph": "1.sg.act-pres root dhyai"
+    },
+    {
+     "surface": "iṣṭakṛtenityaṃ",
+     "gloss": "constantly-by-desired-rite",
+     "grounds": "fused sandhi form iṣṭakṛta + nityam",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tapomāsamananyadhīḥ",
+     "gloss": "tapomāsa-with-undivided-mind",
+     "grounds": "fused compound tapomāsa + ananyadhīḥ",
+     "morph": "compound (tapomāsa+ananyadhīḥ)"
+    }
+   ],
+   "question": "What practice does the meditator undertake during the tapomāsa with undivided mind?",
+   "premises": [
+    "Meditation is performed constantly.",
+    "Iṣṭakṛta accompanies the practice.",
+    "Tapomāsa requires undivided mind."
+   ],
+   "inference": "The verse prescribes constant meditation during tapomāsa with undivided mind.",
+   "uncertainties": [
+    "Sandhi fusion boundaries are inferred from the fused surface.",
+    "The exact ritual sense of iṣṭakṛta remains uncertain."
+   ],
+   "plain_english": "I meditate constantly by the desired rite during the tapomāsa with undivided mind."
+  }
+ ]
+}

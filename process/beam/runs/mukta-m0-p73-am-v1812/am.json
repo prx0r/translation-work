@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1812,
- "question": "What length proportion should be assigned to the cell in this context?",
+ "question": "Which deities preside over the six seasons and what forms and gifts are assigned to them?",
  "premises": [
-  "The length is being determined.",
-  "The cell length should be set at five parts."
+  "Six seasons each have a presiding deity.",
+  "Deities are described by color form and gift.",
+  "Worship and offerings accompany seasonal birth traits."
  ],
- "inference": "The cell length is prescribed as five parts.",
- "uncertainties": [],
- "plain_english": "In length, one should determine the cell length as five parts."
+ "inference": "The verses enumerate seasonal deities with attributes and ritual associations.",
+ "uncertainties": [
+  "Token boundaries and sandhi are preserved; some compounds are opaque."
+ ],
+ "plain_english": "It lists deities of the six seasons with colors, forms, and offerings."
 }

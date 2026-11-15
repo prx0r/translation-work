@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[world+light+maker](jagaddīptikaro) [veda+worshipped](vedopāsito) [world+lord](jagadīśvaraḥ)
-
+[epithet](jagaddīptikaraḥ) [epithet](vedopāsitaḥ) [epithet](jagadīśvaraḥ)
 ## mukta-m0-p82-v2027
-[world+servable](jagatsevyo) [world+pleased](jagatprīto) [world+desired](jagadiṣṭo) [world+full](jaganmayaḥ)
-
+[epithet](jagatsevyaḥ) [epithet](jagatprītaḥ) [epithet](jagadiṣṭaḥ) [epithet](jaganmayaḥ)
 ## mukta-m0-p82-v2028
-[son-in-law](jāmātā) [ocean+end](jaladherjānto) [protector](trātā) [matted-hair+crown+adorned](jaṭāmukuṭamaṇḍitaḥ)
-
+[epithet](jāmātā) [epithet](jaladherjāntaḥ) [epithet](jaṭāmukuṭamaṇḍitaḥ)
 ## mukta-m0-p82-v2029
-[lakshmi+breast+slope+sitting](lakṣmīkucataṭāsīno) [lakshmi+eye+range](lakṣmīnayanagocaraḥ)
-
+[epithet](lakṣmīkucataṭāsīnaḥ) [epithet](lakṣmīnayanagocaraḥ)
 ## mukta-m0-p82-v2030
-[jingling](jhāṅkārī) [jingling+sound](jhaṅkṛtirjhillīravo) [cricket+sound](jhillīravo) [jingling+anklet](jhāṅkārinūpuraḥ)
-
+[epithet](jhāṅkārī) [epithet](jhaṅkṛtiḥ) [epithet](jhillīravaḥ) [epithet](jhāṅkārinūpuraḥ)
 ## mukta-m0-p82-v2031
-[letter+ña](ñakāro) [ña+worshipper](ñādaro) [ña+lord](ñeśo) [ña+letter+nectar+form+possessing](ñavarṇāmṛtarūpavān)
-
+[epithet](ñakāraḥ) [epithet](ñāralaḥ) [epithet](ñeśaḥ) [epithet](ñavarṇāmṛtarūpavān)
 ## mukta-m0-p82-v2032
-[ṭa+end+sound+cooing](ṭāntaṣṭītkārakūjitaḥ)
-
+[epithet](ṭāntaṣṭītkārakūjitaḥ)
 ## mukta-m0-p82-v2033
-[lord](ṭhakuro) [plate](ṭhālako) [ṭha+possessing](ṭhāsyo) [ṭha+letter+splendor+treasure](ṭhavarṇasuṣamānidhiḥ)
-
+[epithet](ṭhakuraḥ) [epithet](ṭhālakaḥ) [epithet](ṭhāsyaḥ) [epithet](ṭhavarṇasuṣamānidhiḥ)
 ## mukta-m0-p82-v2034
-[ḍa+letter+speech](ḍakāravāg) [drum+breakable](ḍhakkabhedyo) [drum+demon+slayer](ḍhakkāsuranisūdanaḥ)
-
+[epithet](ḍakāravāk) [epithet](ḍhakkabhedyo) [epithet](ḍhakkāsuranisūdanaḥ)
 ## mukta-m0-p82-v2035
-[lakshmi+jagat+abode](lakṣmījagatsthitirlakṣmīśaurirlakṣmīgadādharaḥ) [lakshmi+śauri](lakṣmīśauriḥ) [lakshmi+gadā+holder](lakṣmīgadādharaḥ)
-
+[epithet](lakṣmījagatsthitiḥ) [epithet](lakṣmīśauriḥ) [epithet](lakṣmīgadādharaḥ)
 ## mukta-m0-p82-v2036
-[lakshmi+dāmodara](lakṣmīdāmodaro) [lakshmi+life](lakṣmīprāṇo) [lakshmi+wheel+holder](lakṣmīrathāṅgabhṛt)
-
+[epithet](lakṣmīdāmodaraḥ) [epithet](lakṣmīprāṇaḥ) [epithet](lakṣmīrathāṅgabhṛt)
 ## mukta-m0-p82-v2037
-[totula](totulastulasīnāthastantrajño) [tulasī+lord](tulasīnāthaḥ) [tantra+knower](tantrajño) [mantra+leader](mantranāyakaḥ)
-
+[epithet](totulaḥ) [epithet](tulasīnāthaḥ) [epithet](tantrajñaḥ) [epithet](mantranāyakaḥ)
 ## mukta-m0-p82-v2038
-[tuṭi+form](tuṭirūpaḥ) [tuṭi+gait](tuṭigatiḥ) [ascetic](tapasvī) [ascetic+dear](tāpasapriyaḥ)
-
+[epithet](tuṭirūpaḥ) [epithet](tuṭigatiḥ) [epithet](tapasvī) [epithet](tāpasapriyaḥ)
 ## mukta-m0-p82-v2039
-[turī+servable](turīsevyas) [tulā+like](tulābhaśca) [takāra+letter+ornament](takārākṣaramaṇḍanaḥ)
-
+[epithet](turīsevyaḥ) [epithet](tulābhaḥ) [epithet](takārākṣaramaṇḍanaḥ)
 ## mukta-m0-p82-v2040
-[elder](sthaviraḥ) [thick+limb](sthūlagātraśca) [sthāṇu+servable](sthāṇusevyas) [stha+sound+maker](sthaśabdakṛt)
-
+[epithet](sthaviraḥ) [epithet](sthūlagātraḥ) [epithet](sthāṇusevyaḥ) [epithet](sthaśabdakṛt)
 ## mukta-m0-p82-v2041
-[lakshmi+life+lord](lakṣmījīveśvaro) [lakshmi+holder](lakṣmīdharo) [lakshmi+nṛsiṃha](lakṣmīnṛsiṃhakaḥ)
-
+[epithet](lakṣmījīveśvaraḥ) [epithet](lakṣmīdharaḥ) [epithet](lakṣmīnṛsiṃhakaḥ)
 ## mukta-m0-p82-v2042
-[poverty+remover](dāridryahā) [sorrow+remover](duḥkhahartā) [misfortune+decay+maker](daurbhāgyakṣayakṛd) [compassionate](dayī)
-
+[epithet](dāridryahā) [epithet](duḥkhahartā) [epithet](daurbhāgyakṣayakṛt) [epithet](dayī)
 ## mukta-m0-p82-v2043
-[gift+maker](dānakṛd) [giver+fruit+giver](dātṛphalado) [demon+king+decay+maker](danujendrakṣayaṅkaraḥ)
-
+[epithet](dānakṛt) [epithet](dātṛphaladaḥ) [epithet](danujendrakṣayaṅkaraḥ)
 ## mukta-m0-p82-v2044
-[wife+dear](dārapriyo) [long+nail](dīrghanakho) [wicked+demon+slayer](duṣṭāsuranisūdanaḥ)
-
+[epithet](dārapriyaḥ) [epithet](dīrghanakhaḥ) [epithet](duṣṭāsuranisūdanaḥ)
 ## mukta-m0-p82-v2045
-[lakshmi+compassion+maker](lakṣmīdayākaro) [lakshmi+god](lakṣmīdevo) [lakshmi+compassion+treasure](lakṣmīdayānidhiḥ)
-
+[epithet](lakṣmīdayākaraḥ) [epithet](lakṣmīdevaḥ) [epithet](lakṣmīdayānidhiḥ)
 ## mukta-m0-p82-v2046
-[steadfast](dhṛtimān) [righteous](dharmavān) [dharma+possessor](dharmī) [dharma+action+expert](dharmakarmavicakṣaṇaḥ)
-
+[epithet](dhṛtimān) [epithet](dharmavān) [epithet](dharmī) [epithet](dharmakarmavicakṣaṇaḥ)
 ## mukta-m0-p82-v2047
-[brave](dhīro) [courage+maker](dhairyakaro) [dharma+skillful](dharmadakṣo) [wealth+giver+worshipped](dhanadapūjitaḥ)
-
+[epithet](dhīraḥ) [epithet](dhairyakaraḥ) [epithet](dharmadakṣaḥ) [epithet](dhanadapūjitaḥ)
 ## mukta-m0-p82-v2048
-[new](navīno) [new](nūtano) [humble](namro) [dancer](naṭano) [dance+pleased](nāṭyatoṣitaḥ)
-
+[epithet](navīnaḥ) [epithet](nūtanaḥ) [epithet](namraḥ) [epithet](naṭanaḥ) [epithet](nāṭyatoṣitaḥ)
 ## mukta-m0-p82-v2049
-[nṛsiṃha](nṛsiṃho) [man+best](nṛvaro) [endless](ananto) [nara+nārāyaṇa](naranārāyaṇo) [new](navaḥ)
-
+[epithet](nṛsiṃhaḥ) [epithet](nṛvaraḥ) [epithet](anantaḥ) [epithet](naranārāyaṇaḥ) [epithet](navaḥ)
 ## mukta-m0-p82-v2050
-[mountain+rider](nagārūḍho) [deep+navel](nimnanābhir) [nandi+servable](nandisevyo) [dance+lord](naṭeśvaraḥ)
+[epithet](nagārūḍhaḥ) [epithet](nimnanābhiḥ) [epithet](nandisevyaḥ) [epithet](naṭeśvaraḥ)

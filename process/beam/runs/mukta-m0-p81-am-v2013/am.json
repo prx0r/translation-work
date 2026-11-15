@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2013,
- "question": "What structural forms should the earth diagram take?",
+ "question": "What color is assigned to this form?",
  "premises": [
-  "The earth diagram may be sixteen-spoked.",
-  "The earth diagram may also be eight-spoked.",
-  "In either case it should be level."
+  "The token states white color.",
+  "It is nominative singular masculine."
  ],
- "inference": "The earth diagram, whether sixteen-spoked or eight-spoked, should be made level.",
- "uncertainties": [],
- "plain_english": "The earth diagram, whether sixteen-spoked or eight-spoked, should be level."
+ "inference": "The form is white-colored.",
+ "uncertainties": [
+  "No further attributes given."
+ ],
+ "plain_english": "The form is white-colored."
 }

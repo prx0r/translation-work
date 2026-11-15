@@ -1,0 +1,681 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2001,
+   "rows": [
+    {
+     "surface": "śarkarābhugathatāmrabhūṣaṇo",
+     "gloss": "sugar-eater-copper-ornamented",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "veṇupātrabhṛdathāṃtyasaṃjñake",
+     "gloss": "bamboo-vessel-bearer-then-final-named",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which copper-ornamented sugar-eating form is named among the final forms?",
+   "premises": [
+    "The token names a copper-ornamented form.",
+    "It is grouped with a final-named form."
+   ],
+   "inference": "The verse identifies a named ritual form by ornament and vessel.",
+   "uncertainties": [
+    "Internal sandhi not expanded."
+   ],
+   "plain_english": "A copper-ornamented sugar-eating form is named alongside a bamboo-vessel bearer."
+  },
+  {
+   "verse": 2002,
+   "rows": [
+    {
+     "surface": "nīlavarṇaḥ",
+     "gloss": "blue-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The token states blue color.",
+    "It is a nominative singular masculine form."
+   ],
+   "inference": "The form is blue-colored.",
+   "uncertainties": [
+    "No further attributes given."
+   ],
+   "plain_english": "The form is blue-colored."
+  },
+  {
+   "verse": 2003,
+   "rows": [
+    {
+     "surface": "śoṇavastrojaṭālākṣo",
+     "gloss": "red-garment-matted-eyed",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśālatilakāṃcitaḥ",
+     "gloss": "broad-tilaka-adorned",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which red-garmented matted-eyed form is adorned with a broad tilaka?",
+   "premises": [
+    "The first token gives red garment and matted eyes.",
+    "The second token gives broad tilaka adornment."
+   ],
+   "inference": "The described form combines red garment, matted eyes, and broad tilaka.",
+   "uncertainties": [
+    "Internal sandhi not expanded."
+   ],
+   "plain_english": "A red-garmented, matted-eyed form is adorned with a broad tilaka."
+  },
+  {
+   "verse": 2004,
+   "rows": [
+    {
+     "surface": "sūryaṃ",
+     "gloss": "sun",
+     "grounds": "accusative object",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "dakṣedadhānoyaṃ",
+     "gloss": "right-holding-this",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāmecaṃdrasya",
+     "gloss": "left-of-moon",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "biṃbakam",
+     "gloss": "image",
+     "grounds": "accusative object",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "Which sun and moon images are held on the right and left?",
+   "premises": [
+    "The sun is named as an object.",
+    "This form holds it on the right.",
+    "The moon image is named on the left."
+   ],
+   "inference": "The form holds sun and moon images on opposite sides.",
+   "uncertainties": [
+    "Fused tokens not split."
+   ],
+   "plain_english": "This form holds a sun image on the right and a moon image on the left."
+  },
+  {
+   "verse": 2005,
+   "rows": [
+    {
+     "surface": "pūjanīyo",
+     "gloss": "to-be-worshipped",
+     "grounds": "participle",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mahābhaktyā",
+     "gloss": "with-great-devotion",
+     "grounds": "instrumental",
+     "morph": "noun.inst.sg.f"
+    },
+    {
+     "surface": "pratipakṣaṃsite'site",
+     "gloss": "opposite-side-dark-light",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should this form be worshipped with devotion in opposite dark and light sides?",
+   "premises": [
+    "The form is to be worshipped.",
+    "Worship is with great devotion.",
+    "Opposite dark and light sides are named."
+   ],
+   "inference": "Worship of this form is prescribed with great devotion across opposite sides.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "This form should be worshipped with great devotion in opposite dark and light aspects."
+  },
+  {
+   "verse": 2006,
+   "rows": [
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The token states white color.",
+    "It is nominative singular masculine."
+   ],
+   "inference": "The form is white-colored.",
+   "uncertainties": [
+    "No further attributes given."
+   ],
+   "plain_english": "The form is white-colored."
+  },
+  {
+   "verse": 2007,
+   "rows": [
+    {
+     "surface": "sūyabiṃbaṃ",
+     "gloss": "sun-disk",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "karebibhradvāme",
+     "gloss": "hand-holding-left",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "sārasamavyayam",
+     "gloss": "swan-imperishable",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which sun disk and swan attributes are held in the hand?",
+   "premises": [
+    "A sun disk is named.",
+    "It is held in the hand on the left.",
+    "A swan imperishable attribute is named."
+   ],
+   "inference": "The form holds a sun disk and is associated with a swan attribute.",
+   "uncertainties": [
+    "Fused tokens not split."
+   ],
+   "plain_english": "A sun disk is held in the hand on the left, with a swan attribute."
+  },
+  {
+   "verse": 2008,
+   "rows": [
+    {
+     "surface": "kṛṣṇavarṇaḥ",
+     "gloss": "black-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The token states black color.",
+    "It is nominative singular masculine."
+   ],
+   "inference": "The form is black-colored.",
+   "uncertainties": [
+    "No further attributes given."
+   ],
+   "plain_english": "The form is black-colored."
+  },
+  {
+   "verse": 2009,
+   "rows": [
+    {
+     "surface": "phalānāṃ",
+     "gloss": "of-fruits",
+     "grounds": "genitive plural",
+     "morph": "noun.gen.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathādānaṃ",
+     "gloss": "thus-giving",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛṣṇapakṣe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "mahāphalam",
+     "gloss": "great-fruit",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "What fruit results from giving fruits in the dark fortnight?",
+   "premises": [
+    "Fruits are mentioned.",
+    "Giving is mentioned.",
+    "The dark fortnight is the occasion.",
+    "Great fruit is the result."
+   ],
+   "inference": "Giving fruits in the dark fortnight yields great fruit.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "Giving fruits in the dark fortnight brings great fruit."
+  },
+  {
+   "verse": 2010,
+   "rows": [
+    {
+     "surface": "sadāsadānaṃdavinītakālaścejjanmakālastu",
+     "gloss": "always-giving-time-if-birth-time",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "valakṣapakṣe",
+     "gloss": "in-bright-fortnight",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "When is giving always prescribed if birth time is purified in the bright fortnight?",
+   "premises": [
+    "Always giving is named.",
+    "Birth time purification is named.",
+    "The bright fortnight is named."
+   ],
+   "inference": "The verse links constant giving to purified birth time in the bright fortnight.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "Constant giving is tied to purified birth time in the bright fortnight."
+  },
+  {
+   "verse": 2011,
+   "rows": [
+    {
+     "surface": "manobhavādhikyayutonitāṃtaṃ",
+     "gloss": "love-excess-endowed-extreme",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "sitetareyasya",
+     "gloss": "white-other-of-whom",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "narasya",
+     "gloss": "of-man",
+     "grounds": "genitive singular",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "nominative/accusative",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "What birth results for a man with excess love in the non-white aspect?",
+   "premises": [
+    "Excess love is named.",
+    "A non-white aspect is named.",
+    "A man's birth is named."
+   ],
+   "inference": "The verse connects a man's birth with excess love in a non-white aspect.",
+   "uncertainties": [
+    "Fused tokens not expanded."
+   ],
+   "plain_english": "A man's birth is linked to excess love in the non-white aspect."
+  },
+  {
+   "verse": 2012,
+   "rows": [
+    {
+     "surface": "āpūryamāṇapakṣāyanamaśśvetavapuṣmate",
+     "gloss": "waxing-fortnight-salutation-white-bodied",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "To whom is salutation given as the fortnight waxes and the body is white?",
+   "premises": [
+    "Waxing fortnight is named.",
+    "Salutation is named.",
+    "White body is named."
+   ],
+   "inference": "Salutation is directed to a white-bodied form as the fortnight waxes.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "Salutation is given to a white-bodied form as the fortnight waxes."
+  },
+  {
+   "verse": 2013,
+   "rows": [
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The token states white color.",
+    "It is nominative singular masculine."
+   ],
+   "inference": "The form is white-colored.",
+   "uncertainties": [
+    "No further attributes given."
+   ],
+   "plain_english": "The form is white-colored."
+  },
+  {
+   "verse": 2014,
+   "rows": [
+    {
+     "surface": "asitāya",
+     "gloss": "to-dark-one",
+     "grounds": "dative singular",
+     "morph": "adj.dat.sg.m"
+    },
+    {
+     "surface": "namastestu",
+     "gloss": "salutation-be",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "pitṛprītikarāyavai",
+     "gloss": "to-ancestors-pleasing",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "To whom is salutation given for pleasing the ancestors?",
+   "premises": [
+    "Salutation is directed to a dark one.",
+    "Ancestors' pleasure is named."
+   ],
+   "inference": "Salutation to the dark one is for pleasing ancestors.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "Salutation is given to the dark one for pleasing the ancestors."
+  },
+  {
+   "verse": 2015,
+   "rows": [
+    {
+     "surface": "kṛṣṇavarṇaḥ",
+     "gloss": "black-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The token states black color.",
+    "It is nominative singular masculine."
+   ],
+   "inference": "The form is black-colored.",
+   "uncertainties": [
+    "No further attributes given."
+   ],
+   "plain_english": "The form is black-colored."
+  },
+  {
+   "verse": 2016,
+   "rows": [
+    {
+     "surface": "caturthīpaṃcamīṣaṣṭhīsaptamī",
+     "gloss": "fourth-fifth-sixth-seventh",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "cāṣṭamītathā",
+     "gloss": "and-eighth-thus",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which lunar days are listed together with the eighth?",
+   "premises": [
+    "Fourth, fifth, sixth, and seventh are named.",
+    "Eighth is named with thus."
+   ],
+   "inference": "The verse lists fourth through eighth lunar days.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "The fourth, fifth, sixth, seventh, and eighth lunar days are listed."
+  },
+  {
+   "verse": 2017,
+   "rows": [
+    {
+     "surface": "trayodaśīcaturdaśyau",
+     "gloss": "thirteenth-fourteenth",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrṇimāśśuklapakṣagāḥ",
+     "gloss": "full-moon-bright-fortnight-going",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which lunar days occur in the bright fortnight up to full moon?",
+   "premises": [
+    "Thirteenth and fourteenth are named.",
+    "Full moon in bright fortnight is named."
+   ],
+   "inference": "The verse names thirteenth, fourteenth, and full moon in the bright fortnight.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "The thirteenth, fourteenth, and full moon occur in the bright fortnight."
+  },
+  {
+   "verse": 2018,
+   "rows": [
+    {
+     "surface": "ubhābhyāmapi",
+     "gloss": "by-both-also",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "pakṣābhyāṃ",
+     "gloss": "by-fortnights",
+     "grounds": "instrumental dual",
+     "morph": "noun.inst.du.m"
+    },
+    {
+     "surface": "māsastriṃśaddinātmakaḥ",
+     "gloss": "month-thirty-day-constituted",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is a month constituted by both fortnights?",
+   "premises": [
+    "Both fortnights are named.",
+    "A month of thirty days is named."
+   ],
+   "inference": "A month is constituted by thirty days across both fortnights.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "A month of thirty days is made up of both fortnights."
+  },
+  {
+   "verse": 2019,
+   "rows": [
+    {
+     "surface": "meṣagāśaktipātrāsā",
+     "gloss": "ram-going-shakti-vessel",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "śvetapakṣādimāmatā",
+     "gloss": "white-fortnight-beginning-motherhood",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which ram-riding shakti vessel form is called mother of the white fortnight?",
+   "premises": [
+    "A ram-going shakti vessel is named.",
+    "White fortnight beginning motherhood is named."
+   ],
+   "inference": "The verse identifies a ram-riding shakti vessel with motherhood of the white fortnight.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "A ram-riding shakti vessel is called mother of the white fortnight."
+  },
+  {
+   "verse": 2020,
+   "rows": [
+    {
+     "surface": "aruṇavarṇā",
+     "gloss": "reddish-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The token states reddish color.",
+    "It is nominative singular feminine."
+   ],
+   "inference": "The form is reddish-colored.",
+   "uncertainties": [
+    "No further attributes given."
+   ],
+   "plain_english": "The form is reddish-colored."
+  },
+  {
+   "verse": 2021,
+   "rows": [
+    {
+     "surface": "dvitīyāhaṃsagāśubhrāśubhrapustakadhāriṇī",
+     "gloss": "second-swan-going-white-dark-book-bearing",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhravarṇā",
+     "gloss": "white-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "Which second swan-riding book-bearing form is white-colored?",
+   "premises": [
+    "A second swan-going form is named.",
+    "It bears a book.",
+    "White color is named."
+   ],
+   "inference": "The verse identifies a white-colored second swan-riding book-bearing form.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "A white-colored second swan-riding form bears a book."
+  },
+  {
+   "verse": 2022,
+   "rows": [
+    {
+     "surface": "tṛtīyāvṛṣagāgaurāśūlapātrakarāmatā",
+     "gloss": "third-bull-going-fair-trident-vessel-handed",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "gauravarṇā",
+     "gloss": "fair-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "Which third bull-riding trident-vessel form is fair-colored?",
+   "premises": [
+    "A third bull-going form is named.",
+    "It holds trident and vessel.",
+    "Fair color is named."
+   ],
+   "inference": "The verse identifies a fair-colored third bull-riding trident-vessel form.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "A fair-colored third bull-riding form holds trident and vessel."
+  },
+  {
+   "verse": 2023,
+   "rows": [
+    {
+     "surface": "paraśuṃbibhratīpātraṃ",
+     "gloss": "axe-bearing-vessel",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "pitavastrābhisaṃyutā",
+     "gloss": "yellow-garment-united",
+     "grounds": "fused token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which axe-bearing vessel form is united with yellow garment?",
+   "premises": [
+    "An axe-bearing vessel is named.",
+    "Yellow garment union is named."
+   ],
+   "inference": "The verse identifies an axe-bearing vessel form united with yellow garment.",
+   "uncertainties": [
+    "Fused token not expanded."
+   ],
+   "plain_english": "An axe-bearing vessel form is united with yellow garment."
+  },
+  {
+   "verse": 2024,
+   "rows": [
+    {
+     "surface": "nīlotpalavarṇā",
+     "gloss": "blue-lotus-colored",
+     "grounds": "simple adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The token states blue-lotus color.",
+    "It is nominative singular feminine."
+   ],
+   "inference": "The form is blue-lotus-colored.",
+   "uncertainties": [
+    "No further attributes given."
+   ],
+   "plain_english": "The form is blue-lotus-colored."
+  }
+ ]
+}

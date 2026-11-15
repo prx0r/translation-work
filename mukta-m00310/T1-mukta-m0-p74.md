@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[mantra+uddhāraṃ](mantroddhāraṃ) [pravakṣyāmi](pravakṣyāmi) [lakṣmī+nārāyaṇasya](lakṣmīnārāyaṇasya) [te](te)
+[mantra-extraction](mantroddhāraṃ) [I-will-declare](pravakṣyāmi) [of-Lakshmi-Narayana](lakṣmīnārāyaṇasya) [to-you](te)
 
 ## mukta-m0-p74-v1827
-[tāraṃ](tāraṃ) [parā](parā) [ca](ca) [haritaṃ](haritaṃ) [parā](parā) [lakṣmīḥ](lakṣmīstato'bhidham) [tataḥ](tataḥ) [abhidham](abhidham)
+[seed-syllable](tāraṃ) [supreme](parā) [and](ca) [green](haritaṃ) [supreme](parā) [Lakshmi](lakṣmīḥ) [then-named](tato'bhidham)
 
 ## mukta-m0-p74-v1828
-[na](nāsya) [asya](asya) [vighnaḥ](vighno) [na](na) [vā](vā) [doṣaḥ](doṣo) [na](na) [bhītiḥ](bhītirna) [na](na) [viparyayaḥ](viparyayaḥ)
+[not-of-this](nāsya) [obstacle](vighno) [nine](navā) [fault](doṣo) [not](na) [fear](bhītiḥ) [not](na) [reversal](viparyayaḥ)
 
 ## mukta-m0-p74-v1829
-[varṇa+lakṣa+puraścaryāṃ](varṇalakṣapuraścaryāṃ) [vinā](vināyaṃ) [ayam](ayam) [ca](ca) [asti](cāsti) [doṣa+bhāk](doṣabhāk)
+[syllable-count-purification](varṇalakṣapuraścaryāṃ) [without](vinā) [this](ayaṃ) [fault-bearing](doṣabhāk)
 
 ## mukta-m0-p74-v1830
-[puraścaraṇa+hīnaḥ](puraścaraṇahīno'pi) [api](api) [na](na) [mantraḥ](mantraḥ) [phala+dāyakaḥ](phaladāyakaḥ)
+[purification-lacking](puraścaraṇahīno) [even](api) [not](na) [mantra](mantraḥ) [fruit-giving](phaladāyakaḥ)
 
 ## mukta-m0-p74-v1831
-[ardha+rātre](ardharātre) [ca](ca) [madhya+ahne](madhyāhne) [puraścaraṇam](puraścaraṇamācaret) [ācaret](ācaret)
+[midnight](ardharātre) [and](ca) [noon](madhyāhne) [purification](puraścaraṇam) [one-should-perform](ācaret)
 
 ## mukta-m0-p74-v1832
-[eka+lakṣa+avadhiṃ](ekalakṣāvadhiṃ) [kuryāt](kuryānnāto) [na](na) [ataḥ](ataḥ) [nyūnam](nyūnaṃ) [kadācana](kadācana)
+[one-lakh-limit](ekalakṣāvadhiṃ) [one-should-make](kuryāt) [not](nāto) [less](nyūnaṃ) [ever](kadācana)
 
 ## mukta-m0-p74-v1833
-[tataḥ](tataḥ) [svayam](svayaṃ) [caret](caredbahvīḥ) [bahvīḥ](bahvīḥ) [puraścaryāḥ](puraścaryā) [vidhānataḥ](vidhānataḥ)
+[then](tataḥ) [oneself](svayaṃ) [one-should-perform](caret) [many](bahvīḥ) [purifications](puraścaryāḥ) [according-to-rite](vidhānataḥ)
 
 ## mukta-m0-p74-v1834
-[mārjanaṃ](mārjanaṃ) [tad+daśa+āṃśena](taddaśāṃśena) [tad+daśa+āṃśena](taddaśāṃśena) [bhojanam](bhojanam)
+[cleansing](mārjanaṃ) [its-tenth-part](taddaśāṃśena) [its-tenth-part](taddaśāṃśena) [feeding](bhojanam)
 
 ## mukta-m0-p74-v1835
-[pañca+ratneśvarīṃ](pañcaratneśvarīṃ) [vidyāṃ](vidyāṃ) [lakṣmī+nārāyaṇasya](lakṣmīnārāyaṇasya) [hi](hi)
+[five-jewel-goddess](pañcaratneśvarīṃ) [vidya](vidyāṃ) [of-Lakshmi-Narayana](lakṣmīnārāyaṇasya) [indeed](hi)
 
 ## mukta-m0-p74-v1836
-[atha](atha) [mantrasya](mantrasya) [deveśi](deveśi) [saṃskāra+vidhim](saṃskāravidhimācaret) [ācaret](ācaret)
+[then](atha) [of-mantra](mantrasya) [O-goddess](deveśi) [consecration-rite](saṃskāravidhim) [one-should-perform](ācaret)
 
 ## mukta-m0-p74-v1837
-[utkīlayet](utkīlayenmanuṃ) [manum](manuṃ) [devi](devi) [tataḥ](tataḥ) [sañjīvayet](sañjīvayet) [punaḥ](punaḥ)
+[one-should-unlock](utkīlayet) [mantra](manuṃ) [O-goddess](devi) [then](tataḥ) [one-should-revive](sañjīvayet) [again](punaḥ)
 
 ## mukta-m0-p74-v1838
-[siddham](siddhaṃ) [mantram](mantraṃ) [japet](japedante) [ante](ante) [punaḥ](punaḥ) [saṃpuṭitam](saṃpuṭitaṃ) [caret](caret)
+[accomplished](siddhaṃ) [mantra](mantraṃ) [one-should-chant](japed) [at-end](ante) [again](punaḥ) [enclosed](saṃpuṭitaṃ) [one-should-perform](caret)
 
 ## mukta-m0-p74-v1839
-[atha](athotkīlanamācakṣe) [utkīlanam](utkīlanam) [ācakṣe](ācakṣe) [mantrasya](mantrasyāsya) [asya](asya) [maheśvari](maheśvari)
+[then](atha) [unlocking](utkīlanam) [I-declare](ācakṣe) [of-mantra](mantrasyāsya) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p74-v1840
-[viśva+ante](viśvānte) [praṇavaḥ](praṇavo) [devi](devi) [sakṛt](sakṛduccārayet) [uccārayet](uccārayet) [sudhīḥ](sudhīḥ)
+[at-end-of-universe](viśvānte) [om](praṇavo) [O-goddess](devi) [once](sakṛt) [one-should-utter](uccārayet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p74-v1841
-[mantra+sañjīvanam](mantrasañjīvanaṃ) [vakṣye](vakṣye) [śṛṇu](śṛṇu) [pārvati](pārvati) [sādaram](sādaram)
+[mantra-revival](mantrasañjīvanaṃ) [I-will-speak](vakṣye) [listen](śṛṇu) [O-Parvati](pārvati) [respectfully](sādaram)
 
 ## mukta-m0-p74-v1842
-[sañjīvana+ākhyaḥ](sañjīvanākhyo) [gaditaḥ](gadito) [mantra+rājaḥ](mantrarājo) [maheśvari](maheśvari)
+[revival-named](sañjīvanākhyo) [declared](gadito) [mantra-king](mantrarājo) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p74-v1843
-[vakṣyāmi](vakṣyāmi) [tava](tava) [bhaktyā](bhaktyāhaṃ) [aham](aham) [guhyām](guhyāṃ) [sarva+artha+dāyinīm](sarvārthadāyinīm)
+[I-will-speak](vakṣyāmi) [to-you](tava) [by-devotion](bhaktyā) [I](ahaṃ) [secret](guhyāṃ) [all-purposes-giving](sarvārthadāyinīm)
 
 ## mukta-m0-p74-v1844
-[mocaya](mocaya) [dvayam](dvayamuddhṛtya) [uddhṛtya](uddhṛtya) [parā](parā) [mā](mā) [ṭha+dvayam](ṭhadvayaṃ) [japet](japet)
+[release](mocaya) [pair](dvayam) [having-extracted](uddhṛtya) [supreme](parā) [ma](mā) [ṭha-pair](ṭhadvayaṃ) [one-should-chant](japet)
 
 ## mukta-m0-p74-v1845
-[siddham](siddhaṃ) [mantram](mantraṃ) [japet](japenmantrī) [mantrī](mantrī) [punaḥ](punaḥ) [saṃpuṭitam](saṃpuṭitaṃ) [caret](caret)
+[accomplished](siddhaṃ) [mantra](mantraṃ) [one-should-chant](japet) [mantra-practitioner](mantrī) [again](punaḥ) [enclosed](saṃpuṭitaṃ) [one-should-perform](caret)
 
 ## mukta-m0-p74-v1846
-[viśvam](viśvamādau) [ādau](ādau) [manum](manuṃ) [paścāt](paścānnāma) [nāma](nāma) [ca](ca) [ante](ante) [japet](japet) [priye](priye)
+[universe](viśvam) [at-first](ādau) [mantra](manuṃ) [afterwards](paścāt) [name](nāma) [at-end](cānte) [one-should-chant](japet) [dear-one](priye)
 
 ## mukta-m0-p74-v1847
-[mantrasya](mantrasyāsya) [asya](asya) [mahādevi](mahādevi) [varṇitaḥ](varṇito'tra) [atra](atra) [ṛṣiḥ](ṛṣiḥ) [śivaḥ](śivaḥ)
+[of-mantra](mantrasyāsya) [O-great-goddess](mahādevi) [described](varṇito) [here](atra) [seer](ṛṣiḥ) [Shiva](śivaḥ)
 
 ## mukta-m0-p74-v1848
-[lakṣmī+nārāyaṇaḥ](lakṣmīnārāyaṇo) [devi](devi) [bījam](bījaṃ) [lakṣmīḥ](lakṣmīrudāhṛtā) [udāhṛtā](udāhṛtā)
+[Lakshmi-Narayana](lakṣmīnārāyaṇo) [O-goddess](devi) [seed](bījaṃ) [Lakshmi](lakṣmīḥ) [declared](udāhṛtā)
 
 ## mukta-m0-p74-v1849
-[bhoga+apavarga+siddhi+artham](bhogāpavargasiddhyarthaṃ) [viniyogaḥ](viniyogaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+[for-enjoyment-liberation-accomplishment](bhogāpavargasiddhyarthaṃ) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p74-v1850
-[yena](yenaiva) [eva](eva) [dhyāna+mātreṇa](dhyānamātreṇa) [lakṣmīḥ](lakṣmīḥ) [sannidhim](sannidhimeṣyati) [eṣyati](eṣyati)
+[by-which](yenaiva) [by-mere-meditation](dhyānamātreṇa) [Lakshmi](lakṣmīḥ) [presence](sannidhim) [will-come](eṣyati)

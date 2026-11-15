@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p76",
  "verse": 1899,
- "question": "What alternative head shapes are permitted for this architectural form?",
+ "question": "What is the scorpion-named transit form said to hold?",
  "premises": [
-  "The head may be assembly-shaped.",
-  "Alternatively it may be hall-shaped."
+  "The verse says skull-shakti-hand.",
+  "It says transit.",
+  "It says scorpion-named."
  ],
- "inference": "The head may take either an assembly-shaped or a hall-shaped form.",
- "uncertainties": [],
- "plain_english": "Its head may be assembly-shaped, or else it may be hall-shaped."
+ "inference": "The scorpion-named transit form holds skull and shakti in hand.",
+ "uncertainties": [
+  "Whether 'ca' connects additional unlisted attributes is unclear."
+ ],
+ "plain_english": "The scorpion-named transit form holds skull and shakti in hand."
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1805,
- "question": "How should the remaining portion between pavilions be configured?",
+ "question": "Which deities preside over the six seasons and what forms and gifts are assigned to them?",
  "premises": [
-  "The remainder has a length equal to the interval between pavilions.",
-  "The remainder should be provided with a garland."
+  "Six seasons each have a presiding deity.",
+  "Deities are described by color form and gift.",
+  "Worship and offerings accompany seasonal birth traits."
  ],
- "inference": "The remaining interval between pavilions should be equal in length and furnished with a garland.",
- "uncertainties": [],
- "plain_english": "The remainder, equal in length to the space between the pavilions, should be provided with a garland."
+ "inference": "The verses enumerate seasonal deities with attributes and ritual associations.",
+ "uncertainties": [
+  "Token boundaries and sandhi are preserved; some compounds are opaque."
+ ],
+ "plain_english": "It lists deities of the six seasons with colors, forms, and offerings."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1636,
- "question": "What shape and placement are prescribed for the hall in front of the temple?",
+ "question": "Which dundubhi, blood-vomit, red-eyed, angry, and decay names are listed here?",
  "premises": [
-  "The location is in front of the temple.",
-  "A hall is to be made.",
-  "The hall is specified as square."
+  "The first token names dundubhi, blood-vomit, and red-eyed.",
+  "The second token names angry and decay."
  ],
- "inference": "One should make a square hall in front of the temple.",
- "uncertainties": [],
- "plain_english": "One should make a square hall in front of the temple."
+ "inference": "This segment lists dundubhi, blood-vomit, red-eyed, angry, and decay names.",
+ "uncertainties": [
+  "Internal sandhi boundaries are not expanded."
+ ],
+ "plain_english": "This segment lists dundubhi, blood-vomit, red-eyed, angry, and decay."
 }

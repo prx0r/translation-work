@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[deer](rurū) [beautiful-faced](ramyamukho) [red](rakto) [revatī-beloved](revatīdayito) [rasa](rasaḥ)
+[rurū](rurū) [ramyamukho](ramyamukho) [rakto](rakto) [revatīdayito](revatīdayito) [rasaḥ](rasaḥ)
 
 ## mukta-m0-p53-v1302
-[mad-formed](unmattarūpaḥ) [time-fire](kālāgniragnisūryendulocanaḥ)
+[unmattarūpaḥ](unmattarūpaḥ) [kālāgniragnisūryendulocanaḥ](kālāgniragnisūryendulocanaḥ)
 
 ## mukta-m0-p53-v1303
-[dark-souled](asitātmā) [bhairava-lord](bhairaveśo) [fortunate](bhāgyavān) [blessed](bhagavān) [bhaga](bhagaḥ)
+[asitātmā](asitātmā) [bhairaveśo](bhairaveśo) [bhāgyavān](bhāgyavān) [bhagavān](bhagavān) [bhagaḥ](bhagaḥ)
 
 ## mukta-m0-p53-v1304
-[auspicious-doer](śubhaṅkaraḥ) [pure](śuciḥ) [peaceful](śāntaḥ) [best](śreṣyaḥ) [audible](śravyaḥ) [śacī-lord](śacīpatiḥ)
+[śubhaṅkaraḥ](śubhaṅkaraḥ) [śuciḥ](śuciḥ) [śāntaḥ](śāntaḥ) [śreṣyaḥ](śreṣyaḥ) [śravyaḥ](śravyaḥ) [śacīpatiḥ](śacīpatiḥ)
 
 ## mukta-m0-p53-v1305
-[knowledge-giver](vidyāprado) [veda-essence](vedasāro) [vedic](vaidiko) [veda-crosser](vedapāragaḥ)
+[vidyāprado](vidyāprado) [vedasāro](vedasāro) [vaidiko](vaidiko) [vedapāragaḥ](vedapāragaḥ)
 
 ## mukta-m0-p53-v1306
-[non-being-made](asanmayaḥ)
+[(200)]((200)) [asanmayaḥ](asanmayaḥ)
 
 ## mukta-m0-p53-v1307
-[without-enmity](nirvairo) [enmity-destroyer](vairividhvaṃsī) [drunk-elephant-like](mattavāraṇasannibhaḥ)
+[nirvairo](nirvairo) [vairividhvaṃsī](vairividhvaṃsī) [mattavāraṇasannibhaḥ](mattavāraṇasannibhaḥ)
 
 ## mukta-m0-p53-v1308
-[whiteness](śvaityaḥ) [white](śvetaḥ) [hundred-faced](śatamukho) [charming](mugdho) [modaka-eater](modakabhojanaḥ)
+[śvaityaḥ](śvaityaḥ) [śvetaḥ](śvetaḥ) [śatamukho](śatamukho) [mugdho](mugdho) [modakabhojanaḥ](modakabhojanaḥ)
 
 ## mukta-m0-p53-v1309
-[pure-soul](śuddhātmā) [pure-minded](śuddhamatimāñchuddhadīptiḥ) [pure-radiant](śuddhadīptiḥ) [pure-vowed](śucivrataḥ)
+[śuddhātmā](śuddhātmā) [śuddhamatimāñchuddhadīptiḥ](śuddhamatimāñchuddhadīptiḥ) [śucivrataḥ](śucivrataḥ)
 
 ## mukta-m0-p53-v1310
-[child](dārakaḥ) [peacock-vehicle-desired](śikhivāheṣṭaḥ) [cool](śītaḥ) [śaṅkara-beloved](śaṅkaravallabhaḥ)
+[dārakaḥ](dārakaḥ) [śikhivāheṣṭaḥ](śikhivāheṣṭaḥ) [śītaḥ](śītaḥ) [śaṅkaravallabhaḥ](śaṅkaravallabhaḥ)
 
 ## mukta-m0-p53-v1311
-[spider](lūto) [play-rasa-delighted](līlārasollāsī) [sportive](vilāsī) [charm](vibhramo) [whirling](bhramaḥ)
+[lūto](lūto) [līlārasollāsī](līlārasollāsī) [vilāsī](vilāsī) [vibhramo](vibhramo) [bhramaḥ](bhramaḥ)
 
 ## mukta-m0-p53-v1312
-[awakened](buddho) [god-served](vibudhasevyaśca) [mercury-king](budharājo) [strength-bearer](balandharaḥ)
+[buddho](buddho) [vibudhasevyaśca](vibudhasevyaśca) [budharājo](budharājo) [balandharaḥ](balandharaḥ)
 
 ## mukta-m0-p53-v1313
-[father](janako) [jina-path-knower](jinamārgajño) [jaina-path-remover](jainamārganivartakaḥ)
+[janako](janako) [jinamārgajño](jinamārgajño) [jainamārganivartakaḥ](jainamārganivartakaḥ)
 
 ## mukta-m0-p53-v1314
-[supreme-state](paraṃ) [padaṃ](padaṃ) [supreme-abode](paraṃ) [dhāma](dhāma) [supreme-self](paramātmā) [poet](kaviḥ) [mars](kujaḥ)
+[paraṃ](paraṃ) [padaṃ](padaṃ) [paraṃ](paraṃ) [dhāma](dhāma) [paramātmā](paramātmā) [kaviḥ](kaviḥ) [kujaḥ](kujaḥ)
 
 ## mukta-m0-p53-v1315
-[planet-lord](grahendro) [grasped](grāhito) [graspable](grāhyo) [foremost](agraṇīrghurghuranāditaḥ) [ghurghura-sounding](ghurghuranāditaḥ)
+[grahendro](grahendro) [grāhito](grāhito) [grāhyo'graṇīrghurghuranāditaḥ](grāhyo'graṇīrghurghuranāditaḥ)
 
 ## mukta-m0-p53-v1316
-[forest-goer](vanecaro) [forest-lord](vanapatirvanavāsaḥ) [forest-dweller](vanavāsaḥ) [love-like](smaropamaḥ)
+[vanecaro](vanecaro) [vanapatirvanavāsaḥ](vanapatirvanavāsaḥ) [smaropamaḥ](smaropamaḥ)
 
 ## mukta-m0-p53-v1317
-[famous](yaśasvī) [sacrificer-desired](yajamāneṣṭo) [vajra-bearer](vajrabhṛd) [vajra-cage](vajrapañjaraḥ)
+[yaśasvī](yaśasvī) [yajamāneṣṭo](yajamāneṣṭo) [vajrabhṛd](vajrabhṛd) [vajrapañjaraḥ](vajrapañjaraḥ)
 
 ## mukta-m0-p53-v1318
-[fish-bannered](mīnadhvajo) [heart-stealing](manohārī) [of-yogis](yogināṃ) [yoga-increaser](yogavardhanaḥ)
+[mīnadhvajo](mīnadhvajo) [manohārī](manohārī) [yogināṃ](yogināṃ) [yogavardhanaḥ](yogavardhanaḥ)
 
 ## mukta-m0-p53-v1319
-[tapas-made](tapomayastapomūrtistapanaśca) [tapas-formed](tapomūrtiḥ) [heater](tapanaḥ) [tapas-wealth](tapodhanaḥ)
+[tapomayastapomūrtistapanaśca](tapomayastapomūrtistapanaśca) [tapodhanaḥ](tapodhanaḥ)
 
 ## mukta-m0-p53-v1320
-[staffed](daṇḍī) [fierce-rayed](caṇḍāṃśuravyaktaḥ) [unmanifest](avyaktaḥ) [kamaṇḍalu-bearer](kamaṇḍaludharo) [sinless](anaghaḥ)
+[daṇḍī](daṇḍī) [caṇḍāṃśuravyaktaḥ](caṇḍāṃśuravyaktaḥ) [kamaṇḍaludharo'naghaḥ](kamaṇḍaludharo'naghaḥ)
 
 ## mukta-m0-p53-v1321
-[whirler](bhrāmako) [birth-worshipful](jātipūjyaśca) [dullness-remover](jāḍyahā) [dull-destroyer](jaḍasūdanaḥ)
+[bhrāmako](bhrāmako) [jātipūjyaśca](jātipūjyaśca) [jāḍyahā](jāḍyahā) [jaḍasūdanaḥ](jaḍasūdanaḥ)
 
 ## mukta-m0-p53-v1322
-[oblation-possessor](haviṣmān) [oblation-fire-eyed](havyavāhākṣo) [golden](hāṭako) [golden-armlet](hāṭakāṅgadaḥ)
+[haviṣmān](haviṣmān) [havyavāhākṣo](havyavāhākṣo) [hāṭako](hāṭako) [hāṭakāṅgadaḥ](hāṭakāṅgadaḥ)
 
 ## mukta-m0-p53-v1323
-[liquor-lover](hālāpriyo) [heart-unpeaceful](hṛdāśāntaḥ) [beloved-heart-nourisher](kāntāhṛdayapoṣaṇaḥ)
+[hālāpriyo](hālāpriyo) [hṛdāśāntaḥ](hṛdāśāntaḥ) [kāntāhṛdayapoṣaṇaḥ](kāntāhṛdayapoṣaṇaḥ)
 
 ## mukta-m0-p53-v1324
-[chariot-pole](kūvaro) [wise](dhīmayo) [meditator](dhyātā) [meditable](dhyeyo) [intelligent](dhīmān) [compassion-treasury](dayānidhiḥ)
+[kūvaro](kūvaro) [dhīmayo](dhīmayo) [dhyātā](dhyātā) [dhyeyo](dhyeyo) [dhīmān](dhīmān) [dayānidhiḥ](dayānidhiḥ)
 
 ## mukta-m0-p53-v1325
-[exited](nirgato) [vedic](naigamī) [approachable](gamyo) [conquerable](nirjeyo) [matted-haired](jaṭilo) [ageless](ajaraḥ)
+[nirgato](nirgato) [naigamī](naigamī) [gamyo](gamyo) [nirjeyo](nirjeyo) [jaṭilo'jaraḥ](jaṭilo'jaraḥ)

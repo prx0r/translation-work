@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1811,
- "question": "What measures are prescribed for the porch and the garland element?",
+ "question": "Which deities preside over the six seasons and what forms and gifts are assigned to them?",
  "premises": [
-  "The porch is known to be equal to that measure.",
-  "The garland should be determined as one part."
+  "Six seasons each have a presiding deity.",
+  "Deities are described by color form and gift.",
+  "Worship and offerings accompany seasonal birth traits."
  ],
- "inference": "The porch matches the prior measure and the garland is set at one part.",
- "uncertainties": [],
- "plain_english": "The porch is known to be equal to that, and the garland should be determined as one part."
+ "inference": "The verses enumerate seasonal deities with attributes and ritual associations.",
+ "uncertainties": [
+  "Token boundaries and sandhi are preserved; some compounds are opaque."
+ ],
+ "plain_english": "It lists deities of the six seasons with colors, forms, and offerings."
 }

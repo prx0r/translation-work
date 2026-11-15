@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1643,
- "question": "What condition applies when the intermediate space is bounded by walls?",
+ "question": "Which deities are assigned in order to these years?",
  "premises": [
-  "The intermediate space is bounded by walls.",
-  "A conditional is stated.",
-  "It is joined with entrances on the sides."
+  "The verse names abhimani deities.",
+  "It says they belong to these years in order."
  ],
- "inference": "If the intermediate space is bounded by walls, it should have entrances on the sides.",
- "uncertainties": [],
- "plain_english": "If the intermediate space is bounded by walls, it should be provided with entrances on the sides."
+ "inference": "The deities are assigned in order to the listed years.",
+ "uncertainties": [
+  "Internal sandhi boundaries are not expanded."
+ ],
+ "plain_english": "The abhimani deities are assigned in order to these years."
 }

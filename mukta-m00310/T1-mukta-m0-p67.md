@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[lazy+tulasī-served+pleased](alasastulasīsevyastuṣṭā) [disease-destroyer](roganivarhaṇaḥ)
+[lazy](alasaḥ) [tulasi-served](tulasīsevyaḥ) [pleased](tuṣṭaḥ) [disease-remover](roganivarhaṇaḥ)
 
 ## mukta-m0-p67-v1652
-[detachment-giving+vimāna-dwelling](vairāgyado) [vimānasthaḥ](vimānastho) [jewel-pot-weapon-bearing](ratnakumbhadharāyudhaḥ)
+[detachment-giving](vairāgyadaḥ) [vimana-dwelling](vimānasthaḥ) [jewel-pot-armed](ratnakumbhadharāyudhaḥ)
 
 ## mukta-m0-p67-v1653
-[ṛg-yajuḥ-sāma-form](ṛgyajuḥsāmarūpaśca) [tvaṣṭā+atharva-branch-complete](tvaṣṭātharvaṇaśākhilaḥ)
+[rg-yajus-sama-form](ṛgyajuḥsāmarūpaḥ) [ca](ca) [tvashta](tvaṣṭā) [atharva-branch-complete](atharvaśākhilaḥ)
 
 ## mukta-m0-p67-v1654
-[wish-tree+mandāra](kalpavṛkṣaśca) [mandāra](mandāro) [mandāra-mountain-beautiful](mandārācalaśobhanaḥ)
+[wish-tree](kalpavṛkṣaḥ) [ca](ca) [mandara](mandāraḥ) [mandara-mountain-beautiful](mandārācalaśobhanaḥ)
 
 ## mukta-m0-p67-v1655
-[santāna-flower-covered](santānakusumacchannaḥ) [santāna-fruit-giving](santānaphalado) [virāṭ](virāṭ)
+[santana-flower-covered](santānakusumacchannaḥ) [santana-fruit-giving](santānaphaladaḥ) [virat](virāṭ)
 
 ## mukta-m0-p67-v1656
-[rainy-season](varṣākālo) [rain-lord](varṣapatiḥ) [autumn-lotus-beloved](śaradambhojavallabhaḥ)
+[rainy-season](varṣākālaḥ) [rain-lord](varṣapatiḥ) [autumn-lotus-beloved](śaradambhojavallabhaḥ)
 
 ## mukta-m0-p67-v1657
-[good-mind+good-gait+saint](sumatiḥ) [viṣṇu](viṣṇuḥ) [sāmba+ambikā-son](sāmbo'mbikāsutaḥ)
+[good-mind](sumatiḥ) [good-gait](sugatiḥ) [saint](sādhuḥ) [vishnu](viṣṇuḥ) [samba-ambika-son](sāmbo'mbikāsutaḥ)
 
 ## mukta-m0-p67-v1658
-[sumeru-peak-dwelling](sumeruśikharāvāsī) [seven-pātāla-ranging](saptapātālagocaraḥ)
+[sumeru-peak-dwelling](sumeruśikharāvāsī) [seven-patala-ranging](saptapātālagocaraḥ)
 
 ## mukta-m0-p67-v1659
-[good-chariot+good-gone+praised](surathaḥ) [veṇu-playing-devoted](veṇuvādanatatparaḥ)
+[good-chariot](surathaḥ) [good-gone](sugataḥ) [praised](stutyaḥ) [flute-playing-devoted](veṇuvādanatatparaḥ)
 
 ## mukta-m0-p67-v1660
-[to-be-declared](āvedanīyo) [veda-eyed](vedākṣo) [great-divine-body](mahādivyavapuḥ) [god-king](surāṭ)
+[to-be-declared](āvedanīyaḥ) [veda-eyed](vedākṣaḥ) [great-divine-bodied](mahādivyavapuḥ) [god-king](surāṭ)
 
 ## mukta-m0-p67-v1661
-[wealth-flowing+eternal](vasurāvartano) [all-āmnāya-lord+good-intellect](sarvāmnāyaprabhuḥ)
+[vasu-revolver](vasurāvartanaḥ) [eternal](nityaḥ) [all-agama-lord](sarvāmnāyaprabhuḥ) [good-intellect](sudhīḥ)
 
 ## mukta-m0-p67-v1662
-[triangle-abode+thus+bindu-maṇḍala-middle-going](trikoṇanilayaścetyo)
+[triangle-abode](trikoṇanilayaḥ) [ca](ca) [itya](ityaḥ) [bindu-mandala-middle](bindumaṇḍalamadhyagaḥ)
 
 ## mukta-m0-p67-v1663
-[japā-flower-like](japākusumasaṅkāśo) [japa-worship-fruit-giving](japapūjāphalapradaḥ)
+[japa-flower-colored](japākusumasaṅkāśaḥ) [japa-worship-fruit-giving](japapūjāphalapradaḥ)
 
 ## mukta-m0-p67-v1664
-[all-tattva-refuge](sarvatattvāśrayo) [bradhna](bradhno) [hero-venerable](vīravandyo) [vibhāvasu](vibhāvasuḥ)
+[all-principle-refuge](sarvatattvāśrayaḥ) [bradhna](bradhnaḥ) [hero-venerable](vīravandyaḥ) [vibhavasu](vibhāvasuḥ)
 
 ## mukta-m0-p67-v1665
-[beginning+āditya-world-lord](ādirādityalokeśaḥ) [all-going+kalā-refuge](sarvagāmī)
+[beginning-sun-world-lord](ādirādityalokeśaḥ) [all-going](sarvagāmī) [kalas-refuge](kalāśrayaḥ)
 
 ## mukta-m0-p67-v1666
-[vidyādhara-lord+vidyeśa](vidyādhareśo) [yakṣa-lord+protector+guru](yakṣeśo)
+[vidyadhara-lord](vidyādhareśaḥ) [vidya-lord](vidyeśaḥ) [yaksha-lord](yakṣeśaḥ) [protector](rakṣaṇaḥ) [guru](guruḥ)
 
 ## mukta-m0-p67-v1667
-[apsaras-venerated](apsarovandito) [unconquerable](ajayyo) [victor](jetā) [daitya-destroyer](daityanivarhaṇaḥ)
+[apsara-venerated](apsarovanditaḥ) [unconquerable](ajayyaḥ) [victor](jetā) [daitya-remover](daityanivarhaṇaḥ)
 
 ## mukta-m0-p67-v1668
-[siddha-served](siddhasevyaḥ) [samāmnāya](samāmnāyaḥ) [saint-served](sādhusevyaḥ) [river-lord](saritpatiḥ)
+[siddha-served](siddhasevyaḥ) [samamnaya](samāmnāyaḥ) [saint-served](sādhusevyaḥ) [river-lord](saritpatiḥ)
 
 ## mukta-m0-p67-v1669
-[arka+arka-ray-jewel-lord](arko'rkakāntaratneśo) [endless-arm-alopaka](anantabāhuralopakaḥ)
+[arka](arkaḥ) [arka-ray-jewel-lord](arkakāntaratneśaḥ) [endless-armed](anantabāhuḥ) [alopaka](alopakaḥ)
 
 ## mukta-m0-p67-v1670
-[a-kāra-mātṛkā-lord](akāramātṛkānātho) [gods-beginning-form](devānāmādirākṛtiḥ)
+[a-matrika-lord](akāramātṛkānāthaḥ) [gods-beginning-form](devānāmādirākṛtiḥ)
 
 ## mukta-m0-p67-v1671
-[light-maker+thus+āditya](ālokakṛt) [hero-āditya+people-lord](vīrādityaḥ)
+[light-maker](ālokakṛt) [tatha-aditya](tathādityaḥ) [hero-aditya](vīrādityaḥ) [creature-lord](prajādhipaḥ)
 
 ## mukta-m0-p67-v1672
-[indirā-worshipped+moon](indirāpūjitaścendurindralokāśrayastvinaḥ)
+[indira-worshipped](indirāpūjitaḥ) [ca](ca) [moon](induḥ) [indra-world-refuge](indralokāśrayaḥ) [tvina](tvinaḥ)
 
 ## mukta-m0-p67-v1673
-[raised-face+great-body+raised-mountain-going+guru](unnatāsyo'pyuruvapurunnatādricaro)
+[raised-face](unnatāsyaḥ) [api](api) [great-bodied](uruvapuḥ) [raised-mountain-goer](unnatādricaraḥ) [guru](guruḥ)
 
 ## mukta-m0-p67-v1674
-[u-kāra-ā-kāra-happy+thus+heat+treasure-salt](ukārākārasukhitastathoṣmā)
+[u-kara-a-kara-happy](ukārākārasukhitaḥ) [tathoshma](tathoṣmā) [treasure-rushana](nidhirūṣaṇaḥ)
 
 ## mukta-m0-p67-v1675
-[debt-remover+ṝ-liha-hand+ṝ-bhūṣaṇa-adorned](ṛṇahartā)
+[debt-remover](ṛṇahartā) [rli-handed](ṝlihastaḥ) [r-bhushana-ornamented](ṝṛbhūṣaṇabhūṣitaḥ)

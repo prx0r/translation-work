@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1803,
- "question": "What breadth and hall-length proportions are assigned to the corner pavilion?",
+ "question": "Which deities preside over the six seasons and what forms and gifts are assigned to them?",
  "premises": [
-  "The corner pavilion is one part in breadth.",
-  "The hall length is three parts."
+  "Six seasons each have a presiding deity.",
+  "Deities are described by color form and gift.",
+  "Worship and offerings accompany seasonal birth traits."
  ],
- "inference": "The corner pavilion measures one part in breadth and the hall length measures three parts.",
- "uncertainties": [],
- "plain_english": "The corner pavilion should be one part in breadth, and the hall length should be three parts."
+ "inference": "The verses enumerate seasonal deities with attributes and ritual associations.",
+ "uncertainties": [
+  "Token boundaries and sandhi are preserved; some compounds are opaque."
+ ],
+ "plain_english": "It lists deities of the six seasons with colors, forms, and offerings."
 }

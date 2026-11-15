@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2004,
- "question": "How should a charming pedestal of copper be fashioned?",
+ "question": "Which sun and moon images are held on the right and left?",
  "premises": [
-  "A pedestal is to be made from copper.",
-  "It should be made with a sun portion.",
-  "The resulting pedestal should be charming."
+  "The sun is named as an object.",
+  "This form holds it on the right.",
+  "The moon image is named on the left."
  ],
- "inference": "One should fashion a charming copper pedestal using the prescribed sun portion.",
+ "inference": "The form holds sun and moon images on opposite sides.",
  "uncertainties": [
-  "The exact measure implied by ravi+bhāgena is not specified here."
+  "Fused tokens not split."
  ],
- "plain_english": "One should make a charming pedestal of copper with a portion of sun-metal."
+ "plain_english": "This form holds a sun image on the right and a moon image on the left."
 }

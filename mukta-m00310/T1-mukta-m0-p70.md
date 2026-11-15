@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[yoginī-cakra-madhya-sthaḥ](yoginīcakramadhyastho) [yugala-īśvara-pūjitaḥ](yugaleśvarapūjitaḥ)
+[yogini-circle-middle-situated](yoginīcakramadhyastho) [pair-lord-worshipped](yugaleśvarapūjitaḥ)
 
 ## mukta-m0-p70-v1727
-[rāmaḥ](rāmo) [ramaṇa-śīlaḥ](ramaṇaśīlaśca) [ca](ca) [ratna-bhānuḥ](ratnabhānū) [ruru-priyaḥ](rurupriyaḥ)
+[rama](rāmo) [pleasure-natured](ramaṇaśīlaśca) [gem-sun](ratnabhānū) [ruru-dear](rurupriyaḥ)
 
 ## mukta-m0-p70-v1728
-[ratna-aṃśu-mālī](ratnāṃśumālī) [ratna-āḍhyaḥ](ratnāḍhyo) [ratna-kaṅkaṇa-nūpuraḥ](ratnakaṅkaṇanūpuraḥ)
+[gem-garlanded](ratnāṃśumālī) [gem-rich](ratnāḍhyo) [gem-bracelet-anklet](ratnakaṅkaṇanūpuraḥ)
 
 ## mukta-m0-p70-v1729
-[rohiṇī-īśa-āśrayaḥ](rohiṇīśāśrayo) [rakṣā-karaḥ](rakṣākaro) [rātriñcara-antakaḥ](rātriñcarāntakaḥ)
+[rohini-refuge](rohiṇīśāśrayo) [protector](rakṣākaro) [night-roamer-ender](rātriñcarāntakaḥ)
 
 ## mukta-m0-p70-v1730
-[lakṣmī-bhānuḥ](lakṣmībhānurlatāvāsī) [latā-vāsī](latāvāsī) [lasat-kāntiḥ](lasatkāntiśca) [ca](ca) [loka-bhṛt](lokabhṛt)
+[lakshmi-sun](lakṣmībhānurlatāvāsī) [shining-splendor](lasatkāntiśca) [world-bearer](lokabhṛt)
 
 ## mukta-m0-p70-v1731
-[loṅga-īśvaraḥ](loṅgeśvaro) [liṅga-nādaḥ](liṅganādo) [līlā-kārī](līlākārī) [lalambusaḥ](lalambusaḥ)
+[linga-lord](loṅgeśvaro) [linga-sound](liṅganādo) [play-maker](līlākārī) [pendant](lalambusaḥ)
 
 ## mukta-m0-p70-v1732
-[vāmanaḥ](vāmano) [vīra-vīra-indraḥ](vīravīrendro) [vācālaḥ](vācālo) [vāk-pati-priyaḥ](vākpatipriyaḥ)
+[dwarf](vāmano) [hero-chief](vīravīrendro) [talkative](vācālo) [speech-lord-dear](vākpatipriyaḥ)
 
 ## mukta-m0-p70-v1733
-[vāg-bhavaḥ](vāgbhavo) [vāliśa-dhvaṃsī](vāliśadhvaṃsī) [vidyā-nāyaka-nāyakaḥ](vidyānāyakanāyakaḥ)
+[speech-born](vāgbhavo) [vali-destroyer](vāliśadhvaṃsī) [knowledge-leader-leader](vidyānāyakanāyakaḥ)
 
 ## mukta-m0-p70-v1734
-[śaśī](śaśī) [śobhā-karaḥ](śobhākaraḥ) [śāntaḥ](śāntaḥ) [śānti-kṛt](śāntikṛcchamanapriyaḥ) [śamana-priyaḥ](śamanapriyaḥ)
+[moon](śaśī) [splendor-maker](śobhākaraḥ) [peaceful](śāntaḥ) [peace-maker-shaman-dear](śāntikṛcchamanapriyaḥ)
 
 ## mukta-m0-p70-v1735
-[śruti-gamyaḥ](śrutigamyaḥ) [śarad-bīja-maṇḍitaḥ](śaradbījamaṇḍitaḥ) [śiṣṭa-sevitaḥ](śiṣṭasevitaḥ)
+[veda-accessible](śrutigamyaḥ) [autumn-seed-adorned](śaradbījamaṇḍitaḥ) [disciplined-served](śiṣṭasevitaḥ)
 
 ## mukta-m0-p70-v1736
-[ṣaṭ-pada-svana-santoṣī](ṣaṭpadasvanasantoṣī) [ṣaḍ-āmnāya-pravartakaḥ](ṣaḍāmnāyapravartakaḥ)
+[six-footed-sound-satisfied](ṣaṭpadasvanasantoṣī) [six-traditions-promoter](ṣaḍāmnāyapravartakaḥ)
 
 ## mukta-m0-p70-v1737
-[sūrya-bhānuḥ](sūryabhānuḥ) [sūra-bhānuḥ](sūrabhānuḥ) [sūri-bhānuḥ](sūribhānuḥ) [sukha-ākaraḥ](sukhākaraḥ)
+[sun-ray](sūryabhānuḥ) [good-ray](sūrabhānuḥ) [wise-ray](sūribhānuḥ) [happiness-maker](sukhākaraḥ)
 
 ## mukta-m0-p70-v1738
-[samasta-sādhaka-īśānaḥ](samastasādhakeśānaḥ) [samasta-kula-śekharaḥ](samastakulaśekharaḥ)
+[all-accomplisher-lord](samastasādhakeśānaḥ) [all-family-crest](samastakulaśekharaḥ)
 
 ## mukta-m0-p70-v1739
-[harit-sūryaḥ](haritsūryo) [harit-bhānuḥ](haridbhānurhavirbhug) [haviḥ-bhuk](havirbhug) [havya-vāhanaḥ](havyavāhanaḥ)
+[green-sun](haritsūryo) [green-ray](haridbhānurhavirbhug) [oblation-consumer](havyavāhanaḥ)
 
 ## mukta-m0-p70-v1740
-[hrāṃ-bīja-sūryaḥ](hrāṃbījasūryo) [hrīṃ-sūryaḥ](hrīṃsūryo) [ha-kāra-akṣara-mātṛkaḥ](hakārākṣaramātṛkaḥ)
+[hrāṃ-seed-sun](hrāṃbījasūryo) [hrīṃ-sun](hrīṃsūryo) [ha-syllable-mother](hakārākṣaramātṛkaḥ)
 
 ## mukta-m0-p70-v1741
-[kṣut-sūryaḥ](kṣutsūryaḥ) [kṣānta-sūryaḥ](kṣāntasūryaśca) [ca](ca) [laṃkṣaḥ-sūryaḥ](laṃkṣaḥsūryaḥ) [sadā-śivaḥ](sadāśivaḥ)
+[hunger-sun](kṣutsūryaḥ) [patient-sun](kṣāntasūryaśca) [laṃkṣa-sun](laṃkṣaḥsūryaḥ) [ever-auspicious](sadāśivaḥ)
 
 ## mukta-m0-p70-v1742
-[bhūḥ-sūryaḥ](bhūḥsūryaśca) [ca](ca) [bhuvaḥ-sūryaḥ](bhuvaḥsūryaḥ) [svaḥ-sūryaḥ](svaḥsūryaḥ) [sūrya-nāyakaḥ](sūryanāyakaḥ)
+[earth-sun](bhūḥsūryaśca) [atmosphere-sun](bhuvaḥsūryaḥ) [heaven-sun](svaḥsūryaḥ) [sun-leader](sūryanāyakaḥ)
 
 ## mukta-m0-p70-v1743
-[rāśi-sūryaḥ](rāśisūryo) [yoga-sūryaḥ](yogasūryo) [mantra-sūryaḥ](mantrasūryo) [manu-uttamaḥ](manūttamaḥ)
+[zodiac-sun](rāśisūryo) [yoga-sun](yogasūryo) [mantra-sun](mantrasūryo) [manu-supreme](manūttamaḥ)
 
 ## mukta-m0-p70-v1744
-[rudra-sūryaḥ](rudrasūryo) [brahma-sūryaḥ](brahmasūryo) [vīra-sūryaḥ](vīrasūryo) [vara-uttamaḥ](varottamaḥ)
+[rudra-sun](rudrasūryo) [brahma-sun](brahmasūryo) [hero-sun](vīrasūryo) [boon-supreme](varottamaḥ)
 
 ## mukta-m0-p70-v1745
-[iti](itīdaṃ) [idaṃ](idaṃ) [deva-deveśi](devadeveśi) [mantra-nāma-sahasrakam](mantranāmasahasrakam)
+[thus-this](itīdaṃ) [god-of-gods](devadeveśi) [mantra-name-thousand](mantranāmasahasrakam)
 
 ## mukta-m0-p70-v1746
-[sarva-sāra-mayam](sarvasāramayaṃ) [divyam](divyaṃ) [brahma-tejaḥ-vivardhanam](brahmatejovivardhanam)
+[all-essence-filled](sarvasāramayaṃ) [divine](divyaṃ) [brahma-tejas-increasing](brahmatejovivardhanam)
 
 ## mukta-m0-p70-v1747
-[sarva-yajña-phalaiḥ](sarvayajñaphalaistulyaṃ) [tulyam](tulyaṃ) [sarva-sārasvata-pradam](sarvasārasvatapradam)
+[all-sacrifice-fruit-equal](sarvayajñaphalaistulyaṃ) [all-essence-speech-giving](sarvasārasvatapradam)
 
 ## mukta-m0-p70-v1748
-[sarva-vrata-phala-udriktam](sarvavrataphalodriktaṃ) [sarva-dharma-phala-pradam](sarvadharmaphalapradam)
+[all-vow-fruit-exceeding](sarvavrataphalodriktaṃ) [all-dharma-fruit-giving](sarvadharmaphalapradam)
 
 ## mukta-m0-p70-v1749
-[prabhāvam](prabhāvamasya) [asya](asya) [deveśi](deveśi) [nāmnām](nāmnāṃ) [sahasrakasya](sahasrakasya) [ca](ca)
+[power-of-this](prabhāvamasya) [goddess](deveśi) [names-thousand](nāmnāṃ) [sahasrakasya](sahasrakasya) [ca](ca)
 
 ## mukta-m0-p70-v1750
-[yam](yaṃ) [yam](yaṃ) [kāmam](kāmamabhiṃdhyāyed) [abhidhyāyet](abhiṃdhyāyed) [devānām](devānāmapi) [api](api) [durlabham](durlabham)
+[whichever-whichever](yaṃ) [desire](kāmamabhiṃdhyāyed) [of-gods](devānāmapi) [difficult](durlabham)

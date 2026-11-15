@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p77-v1901
-for-attainment-of-enjoyment-and-liberation(bhogāpavargasiddhyarthaṃ) viniyoga(viniyoga) thus(iti) remembered(smṛtaḥ)
+for-attainment-of-enjoyment-and-liberation viniyoga thus remembered
 
 ## mukta-m0-p77-v1902
-with-lakṣmī(lakṣmyā) resorted(śritaṃ) four-armed(caturbāhuṃ) lakṣmī-nārāyaṇaṃ(lakṣmīnārāyaṇaṃ) I-worship(bhaje)
+sheltered-by-lakshmi four-armed lakshmi-narayana I-worship
 
 ## mukta-m0-p77-v1903
-hrīṃ(hrīṃ) forehead(lalāṭaṃ) always(sadā) protect(pātu) lakṣmī-viṣṇuḥ(lakṣmīviṣṇuḥ) all-around(samantataḥ)
+hrim-forehead always protect lakshmi-vishnu from-all-sides
 
 ## mukta-m0-p77-v1904
-hrīṃ(hrīṃ) nose(nāsāṃ) always(sarvadā) protect(pātu) lakṣmī-dāmodaraḥ(lakṣmīdāmodaraḥ) lord(prabhuḥ)
+hrim nose always protect lakshmi-damodara lord
 
 ## mukta-m0-p77-v1905
-lakṣmī(lakṣmī) throat(kaṇṭhaṃ) always(sadā) protect(pātu) goddess(devī) lakṣmī-janārdanaḥ(lakṣmījanārdanaḥ)
+lakshmi throat always protect goddess lakshmi-janardana
 
 ## mukta-m0-p77-v1906
-salutation(namaḥ) sides(pārśvau) always(sadā) protect(pātu) lakṣmī-nanda-eka-nandanaḥ(lakṣmīnandaikanandanaḥ)
+salutation sides always protect lakshmi-nanda-eka-nandana
 
 ## mukta-m0-p77-v1907
-uṃūṃṛṃṝṃ(uṃūṃṛṃṝṃ) protect(pātu) belly(kukṣiṃ) hrīṃ(hrīṃ) lakṣmī-garuḍa-dhvajaḥ(lakṣmīgaruḍadhvajaḥ)
+um-um-rim-rim protect belly hrim lakshmi-garuda-banner
 
 ## mukta-m0-p77-v1908
-oṃauṃaṃaḥ(oṃauṃaṃaḥ) protect(pātu) navel(nābhiṃ) hrīṃ(hrīṃ) lakṣmī-viṣṭara-śravaḥ(lakṣmīviṣṭaraśravaḥ)
+om-aum-am-ah protect navel hrim lakshmi-wide-eared
 
 ## mukta-m0-p77-v1909
-caṃchaṃjaṃjhaṃ(caṃchaṃjaṃjhaṃ) protect(pātu) penis(śiśnaṃ) lakṣmī(lakṣmī) lakṣmī-īśvaraḥ-prabhuḥ(lakṣmīlakṣmīśvaraḥprabhuḥ)
+cam-cham-jam-jham protect genitals lakshmi lakshmi-ishvara lord
 
 ## mukta-m0-p77-v1910
-taṃthaṃdaṃdhaṃ(taṃthaṃdaṃdhaṃ) protect(pātu) thighs(corū) salutation(namo) lakṣmī-jagat-patiḥ(lakṣmījagatpatiḥ)
+tam-tham-dam-dham protect thighs salutation lakshmi-world-lord
 
 ## mukta-m0-p77-v1911
-yaṃraṃlaṃvaṃ(yaṃraṃlaṃvaṃ) protect(pātu) shanks(jaṅghe) hasauḥ(hasauḥ) lakṣmī-gadā-dharaḥ(lakṣmīgadādharaḥ)
+yam-ram-lam-vam protect shanks hasauh lakshmi-gada-dhara
 
 ## mukta-m0-p77-v1912
-laṃkṣaḥ(laṃkṣaḥ) feet(pādau) always(sadā) protect(pātu) root(mūlaṃ) lakṣmī-sahasra-pāt(lakṣmīsahasrapāt)
+lam-kshah feet always protect root lakshmi-thousand-footed
 
 ## mukta-m0-p77-v1913
-indraḥ(indro) me(māṃ) east(pūrvataḥ) protect(pātu) fire(vahnir) in-fire(vahnau) always(sadā) protect(avatu)
+indra me east protect fire in-fire always-protect
 
 ## mukta-m0-p77-v1914
-varuṇaḥ(varuṇaḥ) west(paścime) protect-me(avyānmāṃ) wind-direction(vāyavye) protect-me(avatu) wind(marut)
+varuna west protect-me wind-quarter protect me wind
 
 ## mukta-m0-p77-v1915
-vajra-śakti-daṇḍa-khaḍga-pāśa-yaṣṭi-dhvaja-marked(vajraśaktidaṇḍakhaḍgapāśayaṣṭidhvajāṅkitāḥ)
+thunderbolt-shakti-staff-sword noose-staff-banner-marked
 
 ## mukta-m0-p77-v1916
-anantaḥ(anantaḥ) protect-me-below(pātvadho) always(nityam) above(ūrdhve) brahmā-protects(ca) me(mām)
+ananta protect-below always above brahma-avatara and me
 
 ## mukta-m0-p77-v1917
-morning(prabhāte) protect-me(pātu) viṣṇuḥ(viṣṇur) midday(madhyāhne) vāsudevakaḥ(vāsudevakaḥ)
+morning protect me vishnu midday vasudeva
 
 ## mukta-m0-p77-v1918
-saṅkarṣaṇaḥ(saṅkarṣaṇo) midnight(ardharātre) protect(avyāt) morning(prabhāte) protect(avyāt) trivikramaḥ(trivikramaḥ)
+sankarshana midnight protect morning protect trivikrama
 
 ## mukta-m0-p77-v1919
-oṃhrīṃhasauḥ(oṃhrīṃhasauḥ) hrīṃśrīṃmūlaṃ(hrīṃśrīṃmūlaṃ) lakṣmī-nārāyaṇaḥ-protect(avatu)
+om-hrim-hasauh hrim-shrim-root lakshmi-narayana protect
 
 ## mukta-m0-p77-v1920
-śrīṃśrīṃśrīṃśaśaśālalaṃ(śrīṃśrīṃśrīṃśaśaśālalaṃ) daily(pratidinaṃ) lakṣmī-dhavaḥ-protect(pātu) me(mām)
+shrim-shrim-shrim-shasha-shala-lam daily lakshmi-husband protect me
 
 ## mukta-m0-p77-v1921
-lakṣmī-nārāyaṇa's-desired(lakṣmīnārāyaṇasyeṣṭaṃ) fourfold-fruit-giving(caturvargaphalapradam)
+lakshmi-narayana desired four-purusharthas-fruit-giving
 
 ## mukta-m0-p77-v1922
-lakṣmī-saṃvanana-tattva(lakṣmīsaṃvananaṃ) tattva(tattvaṃ) supreme-essence(paramārtharasāyanam)
+lakshmi-samvana truth supreme-meaning-elixir
 
 ## mukta-m0-p77-v1923
-ten-times(daśavāraṃ) recite(paṭhed) night(rātrau) after-intercourse(ratānte) best-vaiṣṇava(vaiṣṇavottamaḥ)
+ten-times read night after-intercourse vaishnava-best
 
 ## mukta-m0-p77-v1924
-three-sandhyās(trisaṇdhyaṃ) who(yaḥ) recites(paṭhennityaṃ) armor(kavacaṃ) from-my-mouth(manmukhoditam)
+three-sandhyas who reads daily armor my-mouth-uttered
 
 ## mukta-m0-p77-v1925
-in-great-china-region(mahācīnapadastho) even(api) who(yaḥ) recites(paṭhed) self-contemplating(ātmacintakaḥ)
+great-china-place-dweller even who reads self-contemplative

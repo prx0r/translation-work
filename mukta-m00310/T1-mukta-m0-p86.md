@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p86-v2126
-[nānā-druma-latā-kīrṇe](nānādrumalatākīrṇe) [nānā-puṣpa-upaśobhite](nānāpuṣpopaśobhite)
+[various-tree-creeper-scattered](nānādrumalatākīrṇe) [various-flower-adorned](nānāpuṣpopaśobhite)
 
 ## mukta-m0-p86-v2127
-[kinnarī-madhura-ālāpa](kinnarīmadhurālāpa) [mukharī-kṛta-diṅ-mukhe](mukharīkṛtadiṅmukhe)
+[kinnarī-sweet-speech](kinnarīmadhurālāpa) [made-noisy-directions](mukharīkṛtadiṅmukhe)
 
 ## mukta-m0-p86-v2128
-[brahma-upendra-indra-candra-arka](brahmopendrendracandrārka) [guru-śukra-samanvitam](guruśukrasamanvitam)
+[brahma-upendra-indra-candra-sun](brahmopendrendracandrārka) [guru-śukra-accompanied](guruśukrasamanvitam)
 
 ## mukta-m0-p86-v2129
-[candra-ardha-mukuṭa-upetam](candrārdhamukuṭopetaṃ) [śūla-khaṭvāṅga-dhāriṇam](śūlakhaṭvāṅgadhāriṇam)
+[half-moon-crown-endowed](candrārdhamukuṭopetaṃ) [trident-skull-staff-bearing](śūlakhaṭvāṅgadhāriṇam)
 
 ## mukta-m0-p86-v2130
-[khaḍga-kheṭaka-hastam](khaḍgakheṭakahastaṃ) [ca](ca) [pāśa-tomara-kāyudham](pāśatomarakāyudham)
+[sword-shield-handed](khaḍgakheṭakahastaṃ) [and](ca) [noose-club-weaponed](pāśatomarakāyudham)
 
 ## mukta-m0-p86-v2131
-[gadā-ḍamaru-hastam](gadāḍamaruhastaṃ) [ca](ca) [śataghnī-cakra-saṃyutam](śataghnīcakrasaṃyutam)
+[mace-drum-handed](gadāḍamaruhastaṃ) [and](ca) [shataghni-discus-joined](śataghnīcakrasaṃyutam)
 
 ## mukta-m0-p86-v2132
-[digambaraṃ](digambaraṃ) [viśāla-akṣam](viśālākṣaṃ) [tri-netram](trinetraṃ) [pañca-vaktrakam](pañcavaktrakam)
+[sky-clad](digambaraṃ) [wide-eyed](viśālākṣaṃ) [three-eyed](trinetraṃ) [five-faced](pañcavaktrakam)
 
 ## mukta-m0-p86-v2133
-[japantam](japantaṃ) [prahasantaṃ](prahasantaṃ) [ca](ca) [gaurī-āliṅgita-vigraham](gauryāliṅgitavigraham)
+[chanting](japantaṃ) [laughing](prahasantaṃ) [and](ca) [gauri-embraced-form](gauryāliṅgitavigraham)
 
 ## mukta-m0-p86-v2134
-[baddha-padma-āsanam](baddhapadmāsanaṃ) [śambhum](śaṃbhuṃ) [śaraṇa-āgata-vatsalam](śaraṇāgatavatsalam)
+[bound-lotus-seat](baddhapadmāsanaṃ) [shambhu](śaṃbhuṃ) [refuge-seeking-affectionate](śaraṇāgatavatsalam)
 
 ## mukta-m0-p86-v2135
-[girā](girā) [madhurayā](madhurayā) [devam](devaṃ) [provāca](provāca) [parameśvaram](parameśvaram)
+[speech](girā) [sweetly](madhurayā) [god](devaṃ) [addressed](provāca) [supreme-lord](parameśvaram)
 
 ## mukta-m0-p86-v2136
-[ādi-nāthaḥ](ādinātho) [jagat-trātā](jagattrātā) [dīkṣā-nāyakaḥ](dīkṣānāyaka) [īśvaraḥ](īśvaraḥ)
+[first-lord](ādinātho) [world-protector](jagattrātā) [initiation-leader](dīkṣānāyaka) [lord](īśvaraḥ)
 
 ## mukta-m0-p86-v2137
-[bhavatā](bhavatā) [tasya](tasya) [devasya](devasya) [para-brahma-svarūpiṇaḥ](parabrahmasvarūpiṇaḥ)
+[by-you](bhavatā) [of-that](tasya) [god](devasya) [supreme-brahma-nature](parabrahmasvarūpiṇaḥ)
 
 ## mukta-m0-p86-v2138
-[bhaktyā](bhaktyā) [vakṣyāmi](vakṣyāmi) [pañcāṅgam](pañcāṅgaṃ) [na-ākhyeyam](nākhyeyaṃ) [yasya](yasya) [kasyacit](kasyacit)
+[devotionally](bhaktyā) [I-will-speak](vakṣyāmi) [five-limbed](pañcāṅgaṃ) [not-to-be-told](nākhyeyaṃ) [to-anyone](yasya) [anyone](kasyacit)
 
 ## mukta-m0-p86-v2139
-[stotram](stotraṃ) [pañcāṅga-bhūtam](pañcāṅgabhūtaṃ) [ca](ca) [gopayed](gopayedyaḥ) [yaḥ](yaḥ) [sa](sa) [sādhakaḥ](sādhakaḥ)
+[hymn](stotraṃ) [five-limbed-become](pañcāṅgabhūtaṃ) [and](ca) [conceal-who](gopayedyaḥ) [he](sa) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p86-v2140
-[guhyam](guhyaṃ) [parama-guhyam](paramaguhyaṃ) [ca](ca) [goptavyam](goptavyaṃ) [tu](tu) [mumukṣubhiḥ](mumukṣubhiḥ)
+[secret](guhyaṃ) [very-secret](paramaguhyaṃ) [and](ca) [to-be-concealed](goptavyaṃ) [indeed](tu) [by-liberation-seekers](mumukṣubhiḥ)
 
 ## mukta-m0-p86-v2141
-[divyam](divyaṃ) [sukha-karam](sukhakaraṃ) [sādhyam](sādhyaṃ) [siddham](siddhaṃ) [vakṣyāmi](vakṣyāmi) [siddhaye](siddhaye)
+[divine](divyaṃ) [pleasure-giving](sukhakaraṃ) [attainable](sādhyaṃ) [accomplished](siddhaṃ) [I-will-speak](vakṣyāmi) [for-accomplishment](siddhaye)
 
 ## mukta-m0-p86-v2142
-[dīkṣā-nāyaka-vallabhaḥ](dīkṣānāyakavallabho) [manuḥ](manurayaṃ) [ayam](ayam) [trailokya-cintāmaniḥ](trailokyacintāmaniḥ)
+[initiation-leader-beloved](dīkṣānāyakavallabho) [mantra-this](manurayaṃ) [three-worlds-wish-gem](trailokyacintāmaniḥ)
 
 ## mukta-m0-p86-v2143
-[na](na) [kāya-kleśa-daurbalyam](kāyakleśadaurbalyaṃ) [na](nācāraniyamabhramaḥ) [ācāra-niyama-bhramaḥ](ācāraniyamabhramaḥ)
+[not](na) [body-distress-weakness](kāyakleśadaurbalyaṃ) [not](na) [conduct-rule-confusion](ācāraniyamabhramaḥ)
 
 ## mukta-m0-p86-v2144
-[kevalam](kevalaṃ) [parama-ānanda-vardhanaḥ](paramānandavardhano) [ripu-mardanaḥ](ripumardanaḥ)
+[only](kevalaṃ) [supreme-bliss-increasing](paramānandavardhano) [enemy-crushing](ripumardanaḥ)
 
 ## mukta-m0-p86-v2145
-[vinā](vinā) [puraskriyām](puraskriyāmeṣa) [eṣa](eṣa) [mantra-rājaḥ](mantrarājo) [na](na) [sidhyati](sidhyati)
+[without](vinā) [preliminary-rite](puraskriyām) [this](eṣa) [mantra-king](mantrarājo) [not](na) [succeeds](sidhyati)
 
 ## mukta-m0-p86-v2146
-[guru-hastena](guruhastena) [yaḥ](yaḥ) [kuryāt](kuryānmantrasyāsya) [mantrasya](mantrasyāsya) [asya](asya) [puraskriyām](puraskriyām)
+[guru-hand](guruhastena) [who](yaḥ) [would-do](kuryāt) [of-mantra-this](mantrasyāsya) [preliminary-rite](puraskriyām)
 
 ## mukta-m0-p86-v2147
-[varṇa-lakṣam](varṇalakṣaṃ) [puraścaryām](puraścaryāṃ) [tad-ardham](tadardhaṃ) [vā](vā) [maheśvari](maheśvari)
+[syllable-lakh](varṇalakṣaṃ) [preliminary-rite](puraścaryāṃ) [half](tadardhaṃ) [or](vā) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p86-v2148
-[japāt](japād) [daśa-aṃśataḥ](daśāṃśato) [homaḥ](homastaddaśāṃśena) [tad-daśa-aṃśena](taddaśāṃśena) [tarpaṇam](tarpaṇam)
+[from-japa](japāt) [tenth-part](daśāṃśataḥ) [homa](homaḥ) [that-tenth-part](taddaśāṃśena) [oblation](tarpaṇam)
 
 ## mukta-m0-p86-v2149
-[evam](evaṃ) [vidhāya](vidhāya) [mantrasya](mantrasya) [puraścaryām](puraścaryāṃ) [ca](ca) [sādhakaḥ](sādhakaḥ)
+[thus](evaṃ) [having-done](vidhāya) [of-mantra](mantrasya) [preliminary-rite](puraścaryāṃ) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p86-v2150
-[tataḥ](tato) [japaḥ](japo) [bhaved](bhaved) [devi](devi) [sarva-siddhi-pradāyakaḥ](sarvasiddhipradāyakaḥ)
+[then](tato) [japa](japo) [becomes](bhaved) [goddess](devi) [all-accomplishment-giving](sarvasiddhipradāyakaḥ)

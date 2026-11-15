@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2017,
- "question": "What harms result from placing the diagram on prohibited surfaces?",
+ "question": "Which lunar days occur in the bright fortnight up to full moon?",
  "premises": [
-  "Improper placement uproots family.",
-  "Improper placement uproots wealth.",
-  "Improper placement uproots offspring completely."
+  "Thirteenth and fourteenth are named.",
+  "Full moon in bright fortnight is named."
  ],
- "inference": "Placing the diagram on prohibited surfaces completely destroys family, wealth, and offspring.",
- "uncertainties": [],
- "plain_english": "It completely uproots family, wealth, and offspring."
+ "inference": "The verse names thirteenth, fourteenth, and full moon in the bright fortnight.",
+ "uncertainties": [
+  "Fused token not expanded."
+ ],
+ "plain_english": "The thirteenth, fourteenth, and full moon occur in the bright fortnight."
 }

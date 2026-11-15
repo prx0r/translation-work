@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[he](sa) [sinner](pātakī) [becomes-diseased](bhavedrogī) [that-this](yadidaṃ) [shiva+instruction](śiva+śāsanam)
+[he](sa) [sinner](pātakī) [becomes](bhaved) [diseased](rogī) [because](yad) [this](idaṃ) [Śiva-instruction](śiva+śāsanam)
 
 ## mukta-m0-p63-v1552
-[i](ahaṃ) [shall-speak](vakṣye) [to-beloved-life](prāṇavallabhe) [all+tattva+secret-rich](sarva+tattva+rahasyāḍhyāṃ)
+[all-tattva-secret-rich](sarvatattvarahasyāḍhyāṃ) [I-will-speak](vakṣye) [I](ahaṃ) [life-beloved](prāṇavallabhe)
 
 ## mukta-m0-p63-v1553
 [thirty-second](dvātriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p63-v1554
-[gāyatrī-lord](gāyatrīnāyako) [radiant](bhāsvān) [best](śreṣṭhaḥ) [savitṛ](savitā) [iti](iti) [is-sung](pragīyate)
+[Gāyatrī-lord](gāyatrīnāyako) [radiant](bhāsvān) [best](śreṣṭhaḥ) [Savitṛ](savitā) [thus](iti) [is-sung](pragīyate)
 
 ## mukta-m0-p63-v1555
-[all+mantra-composed](sarva+mantra+mayaṃ) [secret](guhyaṃ) [divine](divyaṃ) [root-vidyā+secret](mūla+vidyā+rahasyakam)
+[all-mantra-composed](sarvamantramayaṃ) [secret](guhyaṃ) [divine](divyaṃ) [root-knowledge-secret](mūlavidyārahasyakam)
 
 ## mukta-m0-p63-v1556
-[warding-off](nivāraṇam)
+[removal](nivāraṇam)
 
 ## mukta-m0-p63-v1557
-[all+tejas-composed](sarva+tejas+mayaṃ) [all+god+asura-worshipped](sarva+deva+dānava+pūjitam)
+[all-radiance-composed](sarvatejomayaṃ) [all-god-demon-worshipped](sarvadevadānavapūjitam)
 
 ## mukta-m0-p63-v1558
-[mātṛkā-surrounded](mātṛkā+veṣṭitaṃ) [armor](varma) [from-bhairava-mouth-emerged](bhairava+ānana+nirgatam)
+[mātṛkā-surrounded](mātṛkāveṣṭitaṃ) [armor](varma) [Bhairava-face-emitted](bhairavānananirgatam)
 
 ## mukta-m0-p63-v1559
-[by-holding](dhāraṇād) [of-this](asya) [goddess](deveśi) [brahmā](brahmā) [world-grandfather](lokapitāmahaḥ)
+[by-holding](dhāraṇād) [of-this](asya) [goddess](deveśi) [Brahmā](brahmā) [world-grandfather](lokapitāmahaḥ)
 
 ## mukta-m0-p63-v1560
-[śaṅkara](śaṅkaraḥ) [all-world-lord](sarva+lokeśaḥ) [vāsava](vāsavaḥ) [also](api) [day-lord](divaspatiḥ)
+[Śaṅkara](śaṅkaraḥ) [all-world-lord](sarvalokeśo) [Vāsava](vāsavo) [also](api) [day-lord](divaspatiḥ)
 
 ## mukta-m0-p63-v1561
-[mantra-formed](mantrātmakaṃ) [supreme](para) [armor](varma) [of-savitṛ](savitṛḥ) [essence-best](sāram+uttamam)
+[mantra-souled](mantrātmakaṃ) [supreme](para) [armor](varma) [of-Savitṛ](savituḥ) [essence](sāram) [best](uttamam)
 
 ## mukta-m0-p63-v1562
-[he](sa) [king-beloved](rājavallabhaḥ) [in-world](loke) [radiant](tejasvī) [enemy-crusher](vairi+mardanaḥ)
+[he](sa) [king-favorite](rājavallabho) [in-world](loke) [radiant](tejasvī) [enemy-crusher](vairimardanaḥ)
 
 ## mukta-m0-p63-v1563
-[here](iha) [wealth+health+prosperity](lakṣmī+dhana+ārogya+vṛddhiḥ) [becomes](bhavati) [not-otherwise](nānyathā)
+[here](iha) [Lakṣmī-wealth-health](lakṣmīdhanārogya) [increase](vṛddhir) [becomes](bhavati) [not-otherwise](nānyathā)
 
 ## mukta-m0-p63-v1564
-[of-armor](kavacasya) [of-this](asya) [goddess](deveśi) [root-vidyā-composed](mūla+vidyā+maya) [and](ca)
+[of-armor](kavacasya) [of-this](asya) [goddess](deveśi) [root-knowledge-composed](mūlavidyāmayasya) [and](ca)
 
 ## mukta-m0-p63-v1565
-[gāyatrī](gāyatryaṃ) [meter](chandaḥ) [thus](iti) [said](uktaṃ) [deity](devatā) [savitṛ](savitā) [remembered](smṛtaḥ)
+[Gāyatrī](gāyatryaṃ) [meter](chanda) [thus](ity) [said](uktaṃ) [deity](devatā) [Savitṛ](savitā) [remembered](smṛtaḥ)
 
 ## mukta-m0-p63-v1566
-[all+purpose+accomplishment](sarva+artha+sādhane) [goddess](devi) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
+[all-purpose-accomplishment](sarvārthasādhane) [goddess](devi) [application](viniyogaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p63-v1567
-[uṃūṃṛṃṝṃ](uṃūṃṛṃṝṃ) [forehead](lalāṭaṃ) [me](me) [hrāṃ](hrāṃ) [ravi](raviḥ) [protect](pātu) [consciousness-composed](cinmayaḥ)
+[uṃūṃṛṃṝṃ](uṃūṃṛṃṝṃ) [forehead](lalāṭaṃ) [my](me) [hrāṃ](hrāṃ) [sun](raviḥ) [protect](pātu) [consciousness-made](cinmayaḥ)
 
 ## mukta-m0-p63-v1568
-[oṃauṃaṃaḥ](oṃauṃaṃaḥ) [ears](śrutī) [protect](pātu) [he](saḥ) [all+world-lord](sarva+jagad+īśvaraḥ)
+[oṃauṃaṃaḥ](oṃauṃaṃaḥ) [ears](śrutī) [protect](pātu) [he](saḥ) [all-world-lord](sarvajagadīśvaraḥ)
 
 ## mukta-m0-p63-v1569
-[caṃchaṃjaṃjhaṃ](caṃchaṃjaṃjhaṃ) [nose](nāsāṃ) [me](me) [protect](pātu) [yāṃ](yāṃ) [aryaman](aryamā) [lord](prabhuḥ)
+[caṃchaṃjaṃjhaṃ](caṃchaṃjaṃjhaṃ) [and](ca) [nose](nāsāṃ) [my](me) [protect](pātu) [Aryaman](aryamā) [lord](prabhuḥ)
 
 ## mukta-m0-p63-v1570
-[taṃthaṃdaṃdhaṃ](taṃthaṃdaṃdhaṃ) [throat](galaṃ) [protect](pātu) [naṃ](naṃ) [nārāyaṇa-beloved](nārāyaṇa+vallabhaḥ)
+[taṃthaṃdaṃdhaṃ](taṃthaṃdaṃdhaṃ) [throat](galaṃ) [protect](pātu) [naṃ](naṃ) [Nārāyaṇa-beloved](nārāyaṇavallabhaḥ)
 
 ## mukta-m0-p63-v1571
-[yaṃraṃlaṃvaṃ](yaṃraṃlaṃvaṃ) [arms](bhujau) [protect](pātu) [mūlaṃ](mūlaṃ) [all-lord](sakala+nāyakaḥ)
+[yaṃraṃlaṃvaṃ](yaṃraṃlaṃvaṃ) [arms](bhujau) [protect](pātu) [root](mūlaṃ) [all-leader](sakalanāyakaḥ)
 
 ## mukta-m0-p63-v1572
-[laṃkṣaḥ](laṃkṣaḥ) [belly](kukṣiṃ) [always](sadā) [protect](pātu) [planet-lord](graha+nāthaḥ) [day-lord](dineśvaraḥ)
+[laṃkṣaḥ](laṃkṣaḥ) [belly](kukṣiṃ) [always](sadā) [protect](pātu) [planet-lord](grahanātho) [day-lord](dineśvaraḥ)
 
 ## mukta-m0-p63-v1573
 [aṃāṃiṃīṃ](aṃāṃiṃīṃ) [uṃūṃṛṃṝṃ](uṃūṃṛṃṝṃ) [navel](nābhiṃ) [protect](pātu) [darkness-remover](tamopahaḥ)
 
 ## mukta-m0-p63-v1574
-[kaṃkhaṃgaṃghaṃcaṃ](kaṃkhaṃgaṃghaṃcaṃ) [chaṃjaṃjhaṃ](chaṃjaṃjhaṃ) [waist](kaṭiṃ) [bhānu](bhānuḥ) [me](mama) [protect](avatu)
+[kaṃkhaṃgaṃghaṃcaṃ](kaṃkhaṃgaṃghaṃcaṃ) [chaṃjaṃjhaṃ](chaṃjaṃjhaṃ) [waist](kaṭiṃ) [sun](bhānur) [protect-me](mamāvatu)
 
 ## mukta-m0-p63-v1575
-[day-maker](divākaraḥ)
+[sun](divākaraḥ)

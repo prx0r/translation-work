@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p76",
  "verse": 1886,
- "question": "How many door-palace forms with odd finials are presented as a group?",
+ "question": "What form is described with skull and fearless hand?",
  "premises": [
-  "The forms have odd finials.",
-  "They are described as a triad of door-palaces."
+  "The verse says skull-fearless-hand.",
+  "It says her one-faced.",
+  "It calls her terrible."
  ],
- "inference": "Three door-palace forms with odd finials are grouped together.",
- "uncertainties": [],
- "plain_english": "There is a triad of door-palaces having an odd number of finials."
+ "inference": "The described form has skull and fearless hand, one face, and is terrible.",
+ "uncertainties": [
+  "Deity identity is not named in this verse."
+ ],
+ "plain_english": "The described form has skull and fearless hand, one face, and is terrible."
 }

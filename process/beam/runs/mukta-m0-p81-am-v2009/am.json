@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2009,
- "question": "What produces the ground arrangement according to this declaration?",
+ "question": "What fruit results from giving fruits in the dark fortnight?",
  "premises": [
-  "The arrangement is called the ground arrangement.",
-  "It arises from a combination of low lines.",
-  "The speaker declares this configuration."
+  "Fruits are mentioned.",
+  "Giving is mentioned.",
+  "The dark fortnight is the occasion.",
+  "Great fruit is the result."
  ],
- "inference": "The ground arrangement is declared to result from the combination of low lines.",
- "uncertainties": [],
- "plain_english": "I have declared that the ground arrangement arises from the combination of low lines."
+ "inference": "Giving fruits in the dark fortnight yields great fruit.",
+ "uncertainties": [
+  "Fused token not expanded."
+ ],
+ "plain_english": "Giving fruits in the dark fortnight brings great fruit."
 }

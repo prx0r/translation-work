@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2007,
- "question": "What designation applies to diagrams for dwellers of heaven and other worlds?",
+ "question": "Which sun disk and swan attributes are held in the hand?",
  "premises": [
-  "The diagrams are for dwellers of heaven and other worlds.",
-  "These diagrams receive a specific designation.",
-  "The designation is named Meru."
+  "A sun disk is named.",
+  "It is held in the hand on the left.",
+  "A swan imperishable attribute is named."
  ],
- "inference": "Diagrams for dwellers of heaven and other worlds are designated as Meru.",
- "uncertainties": [],
- "plain_english": "The diagrams for the dwellers of heaven and other worlds are called Meru."
+ "inference": "The form holds a sun disk and is associated with a swan attribute.",
+ "uncertainties": [
+  "Fused tokens not split."
+ ],
+ "plain_english": "A sun disk is held in the hand on the left, with a swan attribute."
 }

@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1642,
- "question": "What numerical options are allowed for the inner intermediate space by preference?",
+ "question": "Which krishna, kalki, buddha, durga, dhana, and bhairava names are listed here?",
  "premises": [
-  "Options from one to five are given.",
-  "Choice is made by preference.",
-  "The inner intermediate space is specified."
+  "The first token names krishna, kalki, buddha, and durga.",
+  "The second token names dhana and bhairava."
  ],
- "inference": "The inner intermediate space may be chosen in one to five measures according to preference.",
+ "inference": "This segment lists krishna, kalki, buddha, durga, dhana, and bhairava names.",
  "uncertainties": [
-  "The unit of measure is implied from context."
+  "Internal sandhi boundaries are not expanded."
  ],
- "plain_english": "The inner intermediate space may be one, two, three, four, or five, according to preference."
+ "plain_english": "This segment lists krishna, kalki, buddha, durga, dhana, and bhairava."
 }

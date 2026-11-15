@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[moon-marked-nectar-giver](eṇāṅkāmṛtadaścīnapaṭṭabhṛd) [many-accessible](bahugocaraḥ)
+moon-nectar-giver+china-silk-wearer much-accessible
 
 ## mukta-m0-p68-v1677
-[eka-bija-lover](ekārabījaramaṇa) [ea-i-lip-nectar-source](eaioṣṭhāmṛtākaraḥ)
+eka-seed-lover e-i-o-lip-nectar-source
 
 ## mukta-m0-p68-v1678
-[without-o-au-dental-row](oaudantālirahito) [honored](mahito) [of-great-ones-lord](mahatāṃ+patiḥ)
+without-o-audantali praised lord-of-great-ones
 
 ## mukta-m0-p68-v1679
-[a-sound-form](aḥsvarūpaḥ) [sound-filled](svaramayaḥ) [supreme-self-of-all-sounds](sarvasvaraparātmakaḥ)
+a-form sound-filled all-sound-supreme-self
 
 ## mukta-m0-p68-v1680
-[single-karma-boon-giver](karmaikavaradaḥ) [karma-witness](karmasākṣī) [sin-destroyer](kalmaṣanāśanaḥ)
+single-karma-boon-giver karma-witness sin-destroyer
 
 ## mukta-m0-p68-v1681
-[lion-killer](keśārisūdanaḥ)
+lion-killer
 
 ## mukta-m0-p68-v1682
-[skull-releaser](kapālamocakaḥ) [kasha](kāśaḥ) [kashmir-essence-bearer](kāśmīraghanasārabhṛt)
+skull-liberator kasha kashmir-essence-bearer
 
 ## mukta-m0-p68-v1683
-[bad-garment](kuvāsī) [family-lord](kulakauleśaḥ) [ka-letter-ornament](kakārākṣaramaṇḍanaḥ)
+bad-garment-wearer clan-lord ka-decoration
 
 ## mukta-m0-p68-v1684
-[lord-of-birds](khageśvaraśca) [sky-goer](khacaraḥ) [served-by-sky-goers](khecarīgaṇasevitaḥ)
+bird-lord sky-goer sky-goer-served
 
 ## mukta-m0-p68-v1685
-[goer](gantā) [song-lover](gītapriyo) [singable](geyo) [gaya-resident](gayāvāsī) [troop-refuge](gaṇāśrayaḥ)
+goer song-lover singable gaya-dweller troop-refuge
 
 ## mukta-m0-p68-v1686
-[wise-one](sudhīḥ)
+wise-one
 
 ## mukta-m0-p68-v1687
-[pot-maker](ghaṭākaraḥ)
+pot-maker
 
 ## mukta-m0-p68-v1688
-[ending-in-nga](ṅānto) [nga-lord](ṅeśo) [nga-letter-limbed](ṅakārāṅgaścandrakuṅkumavāsitaḥ)
+nga-ending nga-lord nga-limb moon-saffron-perfumed
 
 ## mukta-m0-p68-v1689
-[golden-radiant](cāmīkaraprabhaścaṇḍabhānuścaṇḍeśavallabhaḥ)
+gold-radiance fierce-sun fierce-lord-beloved
 
 ## mukta-m0-p68-v1690
-[moving-banner](calatpatākaścaṇḍādriścīvaraikadharo'caraḥ)
+fluttering-banner fierce-mountain one-robe-wearer non-moving
 
 ## mukta-m0-p68-v1691
-[knife-cut-form](churikācchinnavigrahaḥ)
+knife-cut-form
 
 ## mukta-m0-p68-v1692
-[jambu-enemy](jambārirjaṅgiṭo) [matted](jaṅgī) [world-darkness-remover](janalokatamopahaḥ)
+jambu-foe matted-haired forest-dweller world-darkness-remover
 
 ## mukta-m0-p68-v1693
-[world-protector](jagattrātā) [world-sustainer](jagaddhātā) [world-meditated](jagaddhyeyo) [world-treasure](jagannidhiḥ)
+world-savior world-sustainer world-meditated world-treasure
 
 ## mukta-m0-p68-v1694
-[ja-letter-crown](jakārākāramukuṭo) [storm-covered-form](jhañjāchannākṛtirjhaṭaḥ)
+ja-crown jhanjha-covered-form jhata
 
 ## mukta-m0-p68-v1695
-[jha-syllable-marked](jhañākṣarāñcitaṣṭaṅkaṣṭiṭṭibhāsanasaṃsthitaḥ)
+jha-syllable-adorned-stamped-bird-seat-established
 
 ## mukta-m0-p68-v1696
-[pomp](ḍambharo) [damaru](ḍāmarurḍiṇḍī) [damari-lord](ḍāmarīśo) [dala-form](ḍalākṛtiḥ)
+dambara damaru-dindi damari-lord dala-form
 
 ## mukta-m0-p68-v1697
-[nga-lord-dear](ṇeśapriyo) [nine-letter-lord](ṇavarṇeśo) [nga-letter-lotus-foot](ṇakārapadapaṅkajaḥ)
+na-lord-beloved na-syllable-lord na-foot-lotus
 
 ## mukta-m0-p68-v1698
-[tripura-lord](tripureśastrinetreśastrayītanuradhokṣajaḥ)
+tripura-lord three-eye-lord three-veda-bodied adhokshaja
 
 ## mukta-m0-p68-v1699
-[drowsiness-remover](tandrāhartā) [darkness-form](tamorūpastapasāṃ) [austerity-fruit-giver](phaladāyakaḥ)
+drowsiness-remover darkness-formed tapas-fruit-giver
 
 ## mukta-m0-p68-v1700
-[cutting-rising](cchedanodyanī)
+cutting-rising-return

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2016,
- "question": "On which surfaces must the diagram never be placed?",
+ "question": "Which lunar days are listed together with the eighth?",
  "premises": [
-  "Placement on a board is prohibited.",
-  "Placement on cloth is prohibited.",
-  "Placement on a wall is prohibited at any time."
+  "Fourth, fifth, sixth, and seventh are named.",
+  "Eighth is named with thus."
  ],
- "inference": "The diagram must never be placed on a board, cloth, or wall.",
- "uncertainties": [],
- "plain_english": "One should never place it on a board, on cloth, or on a wall."
+ "inference": "The verse lists fourth through eighth lunar days.",
+ "uncertainties": [
+  "Fused token not expanded."
+ ],
+ "plain_english": "The fourth, fifth, sixth, seventh, and eighth lunar days are listed."
 }

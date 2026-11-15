@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1640,
- "question": "What range of cubit measurements is permitted for the specified dimension?",
+ "question": "Which arka, bhaskara, agni, jatavedas, and sahaujas names are listed here?",
  "premises": [
-  "A sequence from one to five is given.",
-  "A sequence from six to eight cubits is given.",
-  "Alternatives are indicated."
+  "The first token names arka, bhaskara, and agni.",
+  "The second token names jatavedas and sahaujas."
  ],
- "inference": "The dimension may be one to eight cubits.",
+ "inference": "This segment lists arka, bhaskara, agni, jatavedas, and sahaujas names.",
  "uncertainties": [
-  "The specific architectural dimension measured is implied by context."
+  "Internal sandhi boundaries are not expanded."
  ],
- "plain_english": "It may measure one, two, three, four, five, six, seven, or eight cubits."
+ "plain_english": "This segment lists arka, bhaskara, agni, jatavedas, and sahaujas."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2015,
- "question": "What line quality is required from the square enclosure to the bindu?",
+ "question": "What color is assigned to this form?",
  "premises": [
-  "The structure begins with the four-cornered enclosure.",
-  "The structure extends up to the bindu.",
-  "The lines throughout this range should be even."
+  "The token states black color.",
+  "It is nominative singular masculine."
  ],
- "inference": "From the four-cornered enclosure to the bindu, the diagram should have even lines.",
- "uncertainties": [],
- "plain_english": "Beginning with the four-cornered figure and extending to the bindu, it should have even lines."
+ "inference": "The form is black-colored.",
+ "uncertainties": [
+  "No further attributes given."
+ ],
+ "plain_english": "The form is black-colored."
 }

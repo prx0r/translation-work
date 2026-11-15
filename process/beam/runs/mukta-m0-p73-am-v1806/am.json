@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1806,
- "question": "What transition marks the shift from the two-storied to the three-storied design?",
+ "question": "Which deities preside over the six seasons and what forms and gifts are assigned to them?",
  "premises": [
-  "The two-storied design has thus been declared.",
-  "The three-storied design is now being stated."
+  "Six seasons each have a presiding deity.",
+  "Deities are described by color form and gift.",
+  "Worship and offerings accompany seasonal birth traits."
  ],
- "inference": "The exposition concludes the two-storied design and proceeds to the three-storied design.",
- "uncertainties": [],
- "plain_english": "Thus the two-storied structure has been described; now the three-storied one is being explained."
+ "inference": "The verses enumerate seasonal deities with attributes and ritual associations.",
+ "uncertainties": [
+  "Token boundaries and sandhi are preserved; some compounds are opaque."
+ ],
+ "plain_english": "It lists deities of the six seasons with colors, forms, and offerings."
 }
