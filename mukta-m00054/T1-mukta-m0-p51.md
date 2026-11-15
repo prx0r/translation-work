@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[Bhāskara-conduct](bhāskarācāra)+[wealth](vitta)+[mistress](īśī) [Bhāskara-conduct](bhāskarācāra)+[wondrous-one](citriṇī)
+[sun+conduct+wealth+mistress](bhāskarācāravitteśī) [sun+conduct+wondrous-one](bhāskarācāracitriṇī)
 
 ## mukta-m0-p51-v1252
-[Bhāskara-support](bhāskarādhāra)+[arrangement](racanā) [Bhāskara-support](bhāskarādhāra)+[protected](rakṣitā)
+[sun+support+arrangement](bhāskarādhāraracanā) [sun+support+protected](bhāskarādhārarakṣitā)
 
 ## mukta-m0-p51-v1253
-[Bhāskara-support](bhāskarādhāra)+[form](rūpa)+[mistress](īśī) [Bhāskara-support](bhāskarādhāra)+[form-possessing](rūpiṇī)
+[sun+support+form+mistress](bhāskarādhārarūpeśī) [sun+support+form-possessing](bhāskarādhārarūpiṇī)
 
 ## mukta-m0-p51-v1254
-[Bhāskara-support](bhāskarādhāra)+[part](sāṃśa)+[mistress](īśī) [Bhāskara-support](bhāskarādhāra)+[part-possessing](sāṃśinī)
+[sun+support+part+mistress](bhāskarādhārasāṃśeśī) [sun+support+part-possessing](bhāskarādhārasāṃśinī)
 
 ## mukta-m0-p51-v1255
-[Bhāskara-support](bhāskarādhāra)+[wheel](cakra)+[abiding](sthā) [Bhāskara-support](bhāskarādhāra)+[wheel-possessing](cakriṇī)
+[sun+support+wheel+abiding](bhāskarādhāracakrasthā) [sun+support+wheel-possessing](bhāskarādhāracakriṇī)
 
 ## mukta-m0-p51-v1256
-[Bhāskara-lord](bhāskareśvara)+[mother](jananī) [Bhāskara-lord](bhāskareśvara)+[protectress](pālinī)
+[sun+lord+mother](bhāskareśvarajananī) [sun+lord+protectress](bhāskareśvarapālinī)
 
 ## mukta-m0-p51-v1257
-[Bhāskara-lord](bhāskareśvara)+[true](sad)+[terrible-one](bhīmā) [Bhāskara-lord](bhāskareśvara)+[resembling](sannibhā)
+[sun+lord+true+terrible](bhāskareśvarasadbhīmā) [sun+lord+resembling](bhāskareśvarasannibhā)
 
 ## mukta-m0-p51-v1258
-[Bhāskara-lord](bhāskareśvara)+[young-woman](yuvatī) [Bhāskara-lord](bhāskareśvara)+[beautiful-one](sundarī)
+[sun+lord+maiden](bhāskareśvarayuvatī) [sun+lord+beautiful](bhāskareśvarasundarī)
 
 ## mukta-m0-p51-v1259
-[Bhāskara-lord](bhāskareśvara)+[friend](mitra)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[minister](mantriṇī)
+[sun+lord+friend+mistress](bhāskareśvaramitreśī) [sun+lord+minister](bhāskareśvaramantriṇī)
 
 ## mukta-m0-p51-v1260
-[Bhāskara-lord](bhāskareśvara)+[picture](citra)+[abiding](sthā) [Bhāskara-lord](bhāskareśvara)+[picture](citra)+[giver](dā)
+[sun+lord+picture+abiding](bhāskareśvaracitrasthā) [sun+lord+picture+giver](bhāskareśvaracitradā)
 
 ## mukta-m0-p51-v1261
-[Bhāskara-lord](bhāskareśvara)+[fortune](bhāgya)+[abiding](sthā) [Bhāskara-lord](bhāskareśvara)+[fortune](bhāgya)+[giver](dā)
+[sun+lord+fortune+abiding](bhāskareśvarabhāgyasthā) [sun+lord+fortune+giver](bhāskareśvarabhāgyadā)
 
 ## mukta-m0-p51-v1262
-[Bhāskara-lord](bhāskareśvara)+[fame](kīrtti)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[fame-possessing](kīrttinī)
+[sun+lord+fame+mistress](bhāskareśvarakīrttyeśī) [sun+lord+fame-possessing](bhāskareśvarakīrttinī)
 
 ## mukta-m0-p51-v1263
-[Bhāskara-lord](bhāskareśvara)+[compassion](karuṇā) [Bhāskara-lord](bhāskareśvara)+[doer](kāriṇī)
+[sun+lord+compassion](bhāskareśvarakaruṇā) [sun+lord+doer](bhāskareśvarakāriṇī)
 
 ## mukta-m0-p51-v1264
-[Bhāskara-lord](bhāskareśvara)+[body](deha)+[abiding](sthā) [Bhāskara-lord](bhāskareśvara)+[body](deha)+[giver](dā)
+[sun+lord+body+abiding](bhāskareśvaradehasthā) [sun+lord+body+giver](bhāskareśvaradehadā)
 
 ## mukta-m0-p51-v1265
-[Bhāskara-lord](bhāskareśvara)+[sound](nāda)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[sound-possessing](nādinī)
+[sun+lord+sound+mistress](bhāskareśvaranādeśī) [sun+lord+sound-possessing](bhāskareśvaranādinī)
 
 ## mukta-m0-p51-v1266
-[Bhāskara-lord](bhāskareśvara)+[sheath](kośa)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[sheath-possessing](kośinī)
+[sun+lord+sheath+mistress](bhāskareśvarakośeśī) [sun+lord+sheath-possessing](bhāskareśvarakośinī)
 
 ## mukta-m0-p51-v1267
-[Bhāskara-lord](bhāskareśvara)+[satisfaction](toṣa)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[satisfying](toṣiṇī)
+[sun+lord+satisfaction+mistress](bhāskareśvaratoṣeśī) [sun+lord+satisfaction-possessing](bhāskareśvaratoṣiṇī)
 
 ## mukta-m0-p51-v1268
-[Bhāskara-lord](bhāskareśvara)+[yoga](yoga)+[abiding](sthā) [Bhāskara-lord](bhāskareśvara)+[yoga](yoga)+[giver](dā)
+[sun+lord+yoga+abiding](bhāskareśvarayogasthā) [sun+lord+yoga+giver](bhāskareśvarayogadā)
 
 ## mukta-m0-p51-v1269
-[Bhāskara-lord](bhāskareśvara)+[lotus](padma)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[lotus-possessing](padminī)
+[sun+lord+lotus+mistress](bhāskareśvarapadmeśī) [sun+lord+lotus-possessing](bhāskareśvarapadminī)
 
 ## mukta-m0-p51-v1270
-[Bhāskara-lord](bhāskareśvara)+[heart](hṛd)+[womb](yoni)+[being](rbhāskareśvarahṛdyoni-rbhāskareśvarahṛdyutiḥ) [Bhāskara-lord](bhāskareśvara)+[heart](hṛd)+[splendor](yutiḥ)
+[sun+lord+heart+womb](bhāskareśvarahṛdyoni-rbhāskareśvarahṛdyutiḥ)
 
 ## mukta-m0-p51-v1271
-[Bhāskara-lord](bhāskareśvara)+[true](sad)+[speech](vāṇī) [Bhāskara-lord](bhāskareśvara)+[true](sad)+[boon](varā)
+[sun+lord+true+speech](bhāskareśvarasadvāṇī) [sun+lord+true+boon](bhāskareśvarasadvarā)
 
 ## mukta-m0-p51-v1272
-[Bhāskara-lord](bhāskareśvara)+[kingdom](rājya)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[nourisher](poṣiṇī)
+[sun+lord+kingdom+mistress](bhāskareśvararājyeśī) [sun+lord+nourisher](bhāskareśvarapoṣiṇī)
 
 ## mukta-m0-p51-v1273
-[Bhāskara-lord](bhāskareśvara)+[knowledge](jñāna)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[going-to](gāminī)
+[sun+lord+knowledge+mistress](bhāskareśvarajñāneśī) [sun+lord+going-to](bhāskareśvaragāminī)
 
 ## mukta-m0-p51-v1274
-[Bhāskara-lord](bhāskareśvara)+[perceived](lakṣitā) [Bhāskara-lord](bhāskareśvara)+[protected](rakṣitā)
+[sun+lord+marked](bhāskareśvaralakṣitā) [sun+lord+protected](bhāskareśvararakṣitā)
 
 ## mukta-m0-p51-v1275
-[Bhāskara-lord](bhāskareśvara)+[sword](khaḍga)+[mistress](īśī) [Bhāskara-lord](bhāskareśvara)+[sword-possessing](khaḍginī)
+[sun+lord+sword+mistress](bhāskareśvarakhaḍgeśī) [sun+lord+sword-possessing](bhāskareśvarakhaḍginī)
