@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p10",
  "verse": 246,
- "question": "Where are guru and ganapati placed after meditation?",
+ "question": "What shield and fruit are placed in the left upper and below hand?",
  "premises": [
-  "Having meditated is named.",
-  "Guru is named.",
-  "Place-left, right, and ganapati are named."
+  "left upper is specified",
+  "shield is specified",
+  "and also is specified",
+  "bilva fruit is specified",
+  "that below hand is specified"
  ],
- "inference": "After meditation, the guru is placed on the left and ganapati on the right.",
+ "inference": "The verse places a shield in the left upper hand and bilva fruit in the hand below that.",
  "uncertainties": [
-  "The exact placement context is not specified."
+  "compound boundaries approximate"
  ],
- "plain_english": "Having meditated, place the guru on the left and ganapati on the right, thus."
+ "plain_english": "In the left upper hand is a shield; and bilva fruit in the hand below that."
 }

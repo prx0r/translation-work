@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2797,
- "question": "How does the width of the palm relate to its length?",
+ "question": "What lotus-faced white day-form should one visualize?",
  "premises": [
-  "The subject is the width of the palm.",
-  "It is compared to the palm's length.",
-  "The width is equal to the palm's length."
+  "lotus face is named",
+  "white color is named",
+  "day form is named",
+  "visualization is commanded"
  ],
- "inference": "The width of the palm is equal to its length.",
- "uncertainties": [],
- "plain_english": "And the width of the palm itself is equal to the length of the palm."
+ "inference": "one should visualize a lotus-faced white day-form",
+ "uncertainties": [
+  "referent implicit"
+ ],
+ "plain_english": "One should visualize a lotus-faced white day-form."
 }

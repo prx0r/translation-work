@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[how](kathaṃ) [is-known](vijñāyate) [O-śambhu](śaṃbho) [this-I-desire](etadicchāmi) [to-know](veditum)
+[how?](kathaṃ) [is-known](vijñāyate) [O-śambhu](śaṃbho) [this](etat)+[I-wish](icchāmi) [to-know](veditum)
 
 ## mukta-m0-p01-v2
-[varṇa-mantra](varṇamantra) [pada-path](padādhvā) [and](ca) [I-tell](kathayāmi) [in-order](anupūrvaśaḥ)
+[varṇa-mantra](varṇamantra) [path-of-padas](padādhvā) [and](ca) [I-tell](kathayāmi)+[in-order](anupūrvaśaḥ)
 
 ## mukta-m0-p01-v3
-[world-path](bhuvanādhvā) [but](tu) [what](yat) [spoken](prokto) [by-me](mayā) [before](pūrvaṃ) [indeed](hi) [good-vowed-one](suvrate)
+[world-path](bhuvanādhvā) [but](tu) [what](yat)+[was-declared](prokto) [by-me](mayā) [before](pūrvaṃ) [indeed](hi) [O-good-vowed](suvrate)
 
 ## mukta-m0-p01-v4
-[again](punaḥ) [with-eighteen](cāṣṭādaśaiḥ) [principles](tatvaiḥ) [with-divisions](kalābhedaiḥ) [again](punaḥ) [established](sthitam)
+[again](punaḥ)+[and](ca) [with-eighteen](aṣṭādaśaiḥ) [principles](tattvaiḥ) [with-kalā-divisions](kalābhedaiḥ) [again](punaḥ)+[established](sthitam)
 
 ## mukta-m0-p01-v5
-[that-all](tatsarvañ) [with-eight](cāṣṭabhir) [divisions](bhedair) [drawn-in](ākṣiptaṃ) [again](punaḥ) [indeed](eva) [but](tu)
+[all-that](tatsarvam)+[and](ca) [by-eight](aṣṭabhiḥ) [divisions](bhedaiḥ) [drawn-in](ākṣiptam) [again](punaḥ)+[indeed](eva) [but](tu)
 
 ## mukta-m0-p01-v6
-[sixty-six-angula](ṣaṭtriṃśadaṅgulañ) [movement](cāraṃ) [which](yan) [by-me](mayā) [told](kathitaṃ) [to-you](tava)
+[thirty-six-angulas](ṣaṭtriṃśadaṅgulam)+[movement](cāram) [which](yat)+[by-me](mayā) [was-told](kathitam) [to-you](tava)
 
 ## mukta-m0-p01-v7
-[from-foot-sole](āpādatalam) [path](adhvānam) [would-be-able](utsaheta) [best-faced-one](varānane)
+[to-foot-sole](āpādatalam)+[path](adhvānam) [would-be-able](utsaheta) [O-beautiful-faced](varānane)
 
 ## mukta-m0-p01-v8
-[principle-path](tattvādhvā) [and](ca) [best-hipped-one](varārohe) [of-them](teṣāñ) [upward](cordhvaṃ) [established](vyavasthitaḥ)
+[principle-path](tattvādhvā) [and](ca) [O-best-riser](varārohe) [of-them](teṣām)+[upward](ūrdhvam) [established](vyavasthitaḥ)
 
 ## mukta-m0-p01-v9
-[division-path](kalādhvā) [but](tu) [that](sa) [indeed](eveti) [told](kathitastatra) [before](pūrvaśaḥ)
+[kalā-path](kalādhvā) [but](tu) [he](sa) [indeed](eva)+[thus](iti) [was-told](kathitaḥ) [there](tatra) [before](pūrvaśaḥ)
 
 ## mukta-m0-p01-v10
-[sixty-six-angula](ṣaṭtṛṃśāṅgulaṃ) [abandoning](parityajya) [in-order](kramavacca) [good-waisted-one](sumadhyame)
+[thirty-six-angulas](ṣaṭtriṃśāṅgulam) [abandoning](parityajya) [in-order](kramavat)+[and](ca) [O-good-waisted](sumadhyame)
 
 ## mukta-m0-p01-v11
-[lordship](svāmibhāvaṃ) [but](tu) [what](yat) [in-that](tasmin) [twelve-end](dvādaśāntam) [established](avasthitaḥ)
+[lordship](svāmibhāvam) [but](tu) [which](yat)+[in-that](tasmin) [at-twelfth-end](dvādaśāntam) [established](avasthitaḥ)
 
 ## mukta-m0-p01-v12
-[by-power](śaktyā) [in-body](dehasthito) [indeed](hy) [self](ātmā) [partless](niṣkalaḥ) [supreme-lord](parameśvaraḥ)
+[by-śakti](śaktyā) [in-body](dehasthitaḥ) [indeed](hi) [ātman](ātmā) [partless](niṣkalaḥ) [supreme-lord](parameśvaraḥ)
 
 ## mukta-m0-p01-v13
-[well-kindled](susamiddhe) [as](yathā) [fire](vahnau) [flame](śikhā) [licks](lihati) [sky](cāṃbare)
+[well-kindled](susamiddhe) [as](yathā) [in-fire](vahnau) [flame](śikhā)+[licks](lihati) [and](ca) [in-sky](āṃbare)
 
 ## mukta-m0-p01-v14
-[at-initiation-time](dīkṣākāle) [identification](abhimānantu) [so](tadvat) [should-do](kuryāttu) [teacher](deśikaḥ)
+[at-initiation-time](dīkṣākāle) [egoism](abhimānam)+[tu](tu) [thus](tadvat) [should-do](kuryāt)+[tu](tu) [teacher](deśikaḥ)
 
 ## mukta-m0-p01-v15
-[by-power](śaktyā) [fire-stick](araṇibhūtāyā) [again](punaḥ) [there](tatra) [I-cast](kṣipāmyaham)
+[of-śakti-as-fire-stick](śaktyāraṇibhūtāyā) [again](punaḥ) [there](tatra) [I-place](kṣipāmi)+[aham](aham)
 
 ## mukta-m0-p01-v16
-[past](atītaś) [śiva](śiva) [of-that-fire](tadvahneḥ) [he](sa) [tu](tu) [joins](yojayate) [supreme](pare)
+[past](atītaḥ)+[śiva](śiva) [that](tat)+[of-fire](vahneḥ) [he](sa) [but](tu) [joins](yojayate) [supreme](pare)
 
 ## mukta-m0-p01-v17
-[risen](udite) [but](tu) [supreme](pare) [principle](tatve) [there-staying](tatrastho) [api](api) [not](na) [is-restrained](vāryate)
+[rise](udite) [but](tu) [supreme](pare) [principle](tattve) [there-standing](tatrasthaḥ)+[api](api) [not](na) [is-restrained](vāryate)
 
 ## mukta-m0-p01-v18
-[absorbed](līnassarvagato) [all-pervading](sarvagato) [goddess](devi) [dharma-adharma](dharmādharma) [free](vivarjitaḥ)
+[dissolved](līnaḥ)+[all-pervading](sarvagataḥ) [O-goddess](devi) [dharma-adharma](dharmādharma) [devoid](vivarjitaḥ)
 
 ## mukta-m0-p01-v19
-[until](yāvadvaktramanuprāptaṃ) [mouth](vaktram) [reached](anuprāptaṃ) [two-part](dvibhāgaṃ) [abandons](tyajate) [tu](tu) [he](saḥ)
+[until-mouth](yāvadvaktram)+[reached](anuprāptam) [two-parts](dvibhāgam) [abandons](tyajate) [but](tu) [he](saḥ)
 
 ## mukta-m0-p01-v20
-[past](atītaṃ) [twelve-end](dvādaśānte) [tu](tu) [śakti-lotus](śaktipadmaṃ) [proclaimed](prakīrtitam)
+[past](atītam) [at-twelfth-end](dvādaśānte) [but](tu) [śakti-lotus](śaktipadmam) [is-declared](prakīrtitam)
 
 ## mukta-m0-p01-v21
-[partless](niṣkalaś) [in-śakti-lotus](śaktipadme) [tu](tu) [awakened](prabuddhastatra) [there](tatra) [stands](tiṣṭhati)
+[partless](niṣkalaḥ)+[in-śakti-lotus](śaktipadme) [but](tu) [awakened](prabuddhaḥ) [there](tatra) [stands](tiṣṭhati)
 
 ## mukta-m0-p01-v22
-[not](na) [time](kālaṃ) [not](na) [division-conduct](kalācāraṃ) [not](na) [principle](tatvā) [not](na) [and](ca) [deity](devatā)
+[not](na) [time](kālam) [not](na) [kalā-conduct](kalācāram) [not](na) [principle](tattvāḥ) [not](na) [and](ca) [deity](devatā)
 
 ## mukta-m0-p01-v23
-[him](taṃ) [having-obtained](prāpya) [not](na) [return](nivartante) [fear](bhayasaṃsārabandhane) [saṃsāra-bondage](saṃsārabandhane)
+[him](tam) [having-obtained](prāpya) [not](na) [return](nivartante) [in-fear-saṃsāra-bondage](bhayasaṃsārabandhane)
 
 ## mukta-m0-p01-v24
-[this](etatte) [to-you](te) [partless](niṣkalaṃ) [principle](tatvamuktameva) [spoken](uktameva) [in-brief](samāsataḥ)
+[this](etat)+[to-you](te) [partless](niṣkalam) [principle](tattvam) [was-declared](uktam)+[indeed](eva) [in-brief](samāsataḥ)
 
 ## mukta-m0-p01-v25
-[threefold](trividhaṃ) [but](tu) [abandoning](parityajya) [śakti-end](śaktyantaṃ) [which](yastṛṭi) [remembered](smṛtaḥ)
+[threefold](trividham) [but](tu) [abandoning](parityajya) [up-to-śakti](śaktyantam) [which](yaḥ)+[tṛṭi](tṛṭi) [is-remembered](smṛtaḥ)

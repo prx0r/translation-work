@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p11",
  "verse": 274,
- "question": "Are milky trees suitable for human houses?",
+ "question": "What objects are held in the right and left hands?",
  "premises": [
-  "milky-trees is named",
-  "not is stated",
-  "suitable-for-human-houses is named"
+  "The verse names right and left.",
+  "It lists rosary and pot."
  ],
- "inference": "Milky trees are not suitable for human houses.",
+ "inference": "The right hand holds rosary and pot, the left hand is referenced.",
  "uncertainties": [
-  "exact species remain unresolved"
+  "Syntax of ca is compressed."
  ],
- "plain_english": "Milky trees are not suitable for human houses."
+ "plain_english": "In the right hand are rosary and pot; the left hand is also mentioned."
 }

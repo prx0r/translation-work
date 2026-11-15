@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2785,
- "question": "What length is prescribed for the lower lip?",
+ "question": "What color is the man in this zodiacal figure?",
  "premises": [
-  "The subject is the lower lip.",
-  "Its length is being specified.",
-  "The length is stated as one finger."
+  "the verse names a man",
+  "it gives his color"
  ],
- "inference": "The length of the lower lip is one finger.",
+ "inference": "the man is dark-colored",
  "uncertainties": [
-  "The exact sense of pakṣa in pakṣāṃgulam is context-dependent."
+  "zodiac sign implicit"
  ],
- "plain_english": "The length of the lower lip is stated to be one finger."
+ "plain_english": "The man is dark-colored."
 }

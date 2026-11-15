@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2779,
- "question": "How many barley grains measure the distance from the middle of the brows to the upper hairline?",
+ "question": "What color is the man in this zodiacal figure?",
  "premises": [
-  "The starting point is the middle of the brows.",
-  "The endpoint is the upper hairline.",
-  "The measure is seventeen barley grains."
+  "the verse names a man",
+  "it gives his color"
  ],
- "inference": "The distance from the middle of the brows to the upper hairline is seventeen barley grains.",
- "uncertainties": [],
- "plain_english": "From the middle of the brows to the upper hairline, the measure is seventeen barley grains."
+ "inference": "the man is spotted-colored",
+ "uncertainties": [
+  "zodiac sign implicit"
+ ],
+ "plain_english": "The man is spotted-colored."
 }

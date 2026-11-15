@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 149,
- "question": "What repeated request led to the revelation addressed to the great goddess?",
+ "question": "How many remaining hands are assigned after excluding bow and drum?",
  "premises": [
-  "A knowledge was asked about repeatedly.",
-  "The asking was done by you.",
-  "That knowledge has now been revealed."
+  "The verse names remaining sixteen hands.",
+  "It says would be.",
+  "It excludes bow and drum."
  ],
- "inference": "Because you asked again and again, that knowledge has been revealed, O great goddess.",
- "uncertainties": [],
- "plain_english": "O great goddess, that which you asked about again and again has now been revealed."
+ "inference": "This verse states that sixteen hands remain after excluding bow and drum.",
+ "uncertainties": [
+  "Compound boundaries are not fully resolved."
+ ],
+ "plain_english": "The remaining sixteen hands would be, excluding bow and drum."
 }

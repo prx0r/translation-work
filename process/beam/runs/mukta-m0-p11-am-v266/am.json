@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p11",
  "verse": 266,
- "question": "What tree qualities are to be avoided?",
+ "question": "What color and attributes define this white goddess?",
  "premises": [
-  "creeper-clinging is named",
-  "insect-infested is named",
-  "thorny is named"
+  "The verse describes a goddess.",
+  "The final token gives color."
  ],
- "inference": "Creeper-clinging, insect-infested, and thorny trees are to be avoided.",
+ "inference": "The goddess is white, three-eyed, and holds book, rosary, pot, and explanation.",
  "uncertainties": [
-  "exact avoidance context remains unresolved"
+  "Compound boundaries not expanded."
  ],
- "plain_english": "Creeper-clinging, insect-infested, and thorny trees are to be avoided."
+ "plain_english": "This white goddess holds book, rosary, nectar pot, and explanation in lotus hands."
 }

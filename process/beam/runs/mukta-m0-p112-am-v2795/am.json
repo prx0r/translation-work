@@ -1,13 +1,13 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2795,
- "question": "How many joints are prescribed for the thumb and the other fingers?",
+ "question": "What color is the figure in this zodiacal description?",
  "premises": [
-  "The thumb is specified separately.",
-  "The thumb should have two joints.",
-  "The other fingers should have three joints."
+  "the verse gives a color"
  ],
- "inference": "The thumb has two joints while the other fingers have three joints.",
- "uncertainties": [],
- "plain_english": "The thumb should be two-jointed, and the other fingers should be three-jointed."
+ "inference": "the figure is gold-colored",
+ "uncertainties": [
+  "referent implicit"
+ ],
+ "plain_english": "The figure is gold-colored."
 }

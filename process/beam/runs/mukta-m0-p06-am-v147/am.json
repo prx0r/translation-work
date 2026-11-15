@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 147,
- "question": "What power and universal reverence are attributed to this knowledge?",
+ "question": "What weapons and ornaments are listed for this goddess?",
  "premises": [
-  "The knowledge destroys death through knowledge.",
-  "It is honored by all traditions.",
-  "These attributes establish its supreme efficacy."
+  "The verse names head-hair shield bell.",
+  "It names mirror and tarjanī.",
+  "It names bow."
  ],
- "inference": "This knowledge destroys death and is revered by all traditions.",
- "uncertainties": [],
- "plain_english": "Through knowledge this vidyā destroys death and is saluted by all traditions."
+ "inference": "This verse lists head-hair, shield, bell, mirror, tarjanī, and bow among her items.",
+ "uncertainties": [
+  "Compound boundaries are not fully resolved."
+ ],
+ "plain_english": "Head-hair, shield, bell, mirror, tarjanī, and bow."
 }

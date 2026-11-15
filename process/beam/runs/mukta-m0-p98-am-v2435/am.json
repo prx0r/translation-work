@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2435,
- "question": "Which five verses in the middle are also worshipful?",
+ "question": "What rite is done with sprinkling?",
  "premises": [
-  "in middle is repeated",
-  "five verses are named",
-  "worshipful these also are named"
+  "A rite is done.",
+  "Sprinkling is mentioned."
  ],
- "inference": "The verse states that these five verses in the middle are also worshipful.",
+ "inference": "The rite is performed with sprinkling.",
  "uncertainties": [
-  "exact verse selection uncertain"
+  "The exact rite is not named."
  ],
- "plain_english": "These five verses in the middle are also worshipful."
+ "plain_english": "Having done the rite, sprinkling is also performed."
 }

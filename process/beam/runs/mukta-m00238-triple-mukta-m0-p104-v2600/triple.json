@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2600,
+   "rows": [
+    {
+     "surface": "gobhūmivittabhṛtyāḍhyo",
+     "gloss": "cow-land-wealth-servants-rich",
+     "grounds": "compound of go+bhūmi+vitta+bhṛtya+āḍhya in fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nīcakṛtyo",
+     "gloss": "low-deeds",
+     "grounds": "compound of nīca+kṛtya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahodyamaḥ",
+     "gloss": "great-effort",
+     "grounds": "compound of mahā+udyamaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What threefold characterization of wealth, conduct, and effort is assigned to this figure?",
+   "premises": [
+    "The figure is rich in cows land wealth and servants.",
+    "The figure performs low deeds.",
+    "The figure exerts great effort."
+   ],
+   "inference": "Thus the verse characterizes him as wealthy, low-acting, and strenuous.",
+   "uncertainties": [
+    "Context does not identify the figure; sandhi boundaries inferred."
+   ],
+   "plain_english": "He is rich in cows, land, wealth, and servants, does low deeds, and makes great effort."
+  }
+ ]
+}

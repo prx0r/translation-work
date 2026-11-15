@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[two-altars](sthaṇḍiladvitayaṃ) [having-made](kṛtvā) [image](pratimāṃ) [and](ca) [on-one-side](ekato) [should-place](nyaset)
+[altar+two](sthaṇḍiladvitayaṃ) [having-made](kṛtvā) [image](pratimāṃ) [and](ca) [in-one-place](ekato) [place](nyaset)
 
 ## mukta-m0-p37-v902
-[in-that](tasmin) [sandal](gandhaṃ) [in-three](tridhā) [having-divided](bhajya) [auspicious-day](pūṇyāhaṃ) [should-declare](vācayettataḥ)
+[in-that](tasmin) [sandal](gandhaṃ) [threefold](tridhā) [dividing](bhajya) [auspicious-day](pūṇyāhaṃ) [cause-to-be-recited](vācayet) [then](tataḥ)
 
 ## mukta-m0-p37-v903
-[should-offer](homayettu) [especially](viśeṣeṇa) [fire-rite](agnikāryaṃ) [wise-one](subuddhimān)
+[offer](homayet) [tu](tu) [especially](viśeṣeṇa) [fire-rite](agnikāryaṃ) [wise](subuddhimān)
 
 ## mukta-m0-p37-v904
-[hundred-and-eight](aṣṭottaraśataṃ) [having-offered](hutvā) [with-ghee](ājyena) [with-sesame-wood-and-grain](samidhānnakaiḥ)
+[hundred-eight](aṣṭottaraśataṃ) [having-offered](hutvā) [with-ghee](ājyena) [with-kindling+grains](samidhānnakaiḥ)
 
 ## mukta-m0-p37-v905
-[with-ghee](ājyena) [with-caru](caruṇā) [and](ca) [eva](eva) [with-sesame-mung-beans-barley](tilamudgayavaistathā)
+[with-ghee](ājyena) [with-caru](caruṇā) [and](ca) [indeed](eva) [with-sesame+mung-beans+barley+so](tilamudgayavaistathā)
 
 ## mukta-m0-p37-v906
-[homa](homaṃ) [having-done](kṛtvā) [especially](viśeṣeṇa) [teacher](deśikaścaiva) [and](ca) [eva](eva) [wise](buddhimān)
+[oblation](homaṃ) [having-made](kṛtvā) [especially](viśeṣeṇa) [teacher](deśikaḥ) [and](ca) [indeed](eva) [wise](buddhimān)
 
 ## mukta-m0-p37-v907
-[and](ca) [eva](eva) [more](adhikaṃ) [sandal](gandhaṃ) [bhavet](bhavet)
+[fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [sandal](gandhaṃ) [and](ca) [indeed](eva) [more](adhikaṃ) [becomes](bhavet)
 
 ## mukta-m0-p37-v908
-[yearly](pratisaṃvatsaraṃ) [month](māsaṃ) [tithi](tithiṃ) [having-decided](niścitya) [with-nakshatra](ṛkṣayuk)
+[yearly](pratisaṃvatsaraṃ) [month](māsaṃ) [tithi](tithiṃ) [having-determined](niścitya) [asterism-joined](ṛkṣayuk)
 
 ## mukta-m0-p37-v909
-[best](uttamaṃ) [middle](madhyamaṃ) [and](ca) [eva](eva) [least](kanyasaṃ) [threefold](trividhaṃ) [bhavet](bhavet)
+[best](uttamaṃ) [middle](madhyamaṃ) [and](ca) [indeed](eva) [least](kanyasaṃ) [threefold](trividhaṃ) [becomes](bhavet)
 
 ## mukta-m0-p37-v910
-[of-yaga-beginning](yāgārambhasya) [before](pūrve) [tu](tu) [alternation](vyatyāso) [for-knowledge](jñātaye) [satī](sati)
+[of-sacrifice-beginning](yāgārambhasya) [before](pūrve) [tu](tu) [alternation](vyatyāso) [for-knowledge](jñātaye) [being](sati)
 
 ## mukta-m0-p37-v911
-[and](ca) [again](punaḥ) [that-bhava](tadbhāvāropayet)
+[fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [and](ścā) [that-state-impute](tadbhāvāropayet) [again](punaḥ)
 
 ## mukta-m0-p37-v912
-[with-ardra-end](ārdrāntaṃ) [or](vā) [with-vaishnava-end](vaiṣṇavāntaṃ) [or](vā) [with-rohini](rohiṇyanmamathāpi) [vā](vā)
+[ending-in-ārdrā](ārdrāntaṃ) [ending-in-vaiṣṇava](vaiṣṇavāntaṃ) [or](vā) [rohiṇi-variant](rohiṇyanmamathāpi) [or](vā)
 
 ## mukta-m0-p37-v913
-[in-one-month](ekamāse) [by-rite](vidhānena) [kā](kā)
+[one-month](ekamāse) [by-rite](vidhānena) [kā](kā) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*)
 
 ## mukta-m0-p37-v914
-[tirtha](tīrthamācaret)
+[fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [fragment](*) [tīrtha](tīrtham) [perform](ācaret)
 
 ## mukta-m0-p37-v915
-[other-festival](anyadevotsave) [at-time](kāle) [great-deva-festival](mahādevotsavaṃ) [done](kṛtam)
+[other-god-festival](anyadevotsave) [time](kāle) [great-god-festival](mahādevotsavaṃ) [done](kṛtam)
 
 ## mukta-m0-p37-v916
-[therefore](tasmāt) [from-shiva-festival](śivotsavānmadhye) [middle](madhye) [having-begun](tvārabdhassarvadoṣabhāk)
+[therefore](tasmāt) [from-śiva-festival](śivotsavāt) [middle](madhye) [begun](ārabdhaḥ) [all-fault-possessing](sarvadoṣabhāk)
 
 ## mukta-m0-p37-v917
-[fruitless](viphalaṃ) [that](tadavāpnoti) [and](ca) [in-one](caikasmin) [not](na) [ca](ca) [in-thing](vastuni)
+[fruitless](viphalaṃ) [that-obtains](tadavāpnoti) [and](ca) [in-one](ekasmin) [not](na) [and](ca) [thing](vastuni)
 
 ## mukta-m0-p37-v918
-[of-gods](devānāmapi) [even](api) [in-auspicious](kalyāṇe) [human-auspicious](nṛkalyāṇaṃ) [not](na) [should-do](kārayet)
+[of-gods](devānām) [also](api) [in-auspicious](kalyāṇe) [human-auspicious](nṛkalyāṇaṃ) [not](na) [cause](kārayet)
 
 ## mukta-m0-p37-v919
 [in-village](grāme) [or](vā) [in-city](nagare) [or](vāpi) [in-port](pattane) [in-capital](rājadhānike)
 
 ## mukta-m0-p37-v920
-[threefold](trividhaṃ) [festival-beginning](utsavārambhaṃ) [should-do](kārayettu) [wise](vicakṣaṇaḥ)
+[threefold](trividhaṃ) [festival-beginning](utsavārambhaṃ) [cause](kārayet) [tu](tu) [expert](vicakṣaṇaḥ)
 
 ## mukta-m0-p37-v921
-[of-twenty-eight-days](aṣṭāviṃśaddinānāṃ) [tu](tu) [drum-beating](bherītāḍana) [as-before](pūrvavat)
+[twenty-eight-days](aṣṭāviṃśaddinānāṃ) [tu](tu) [drum-beating](bherītāḍana) [as-before](pūrvavat)
 
 ## mukta-m0-p37-v922
-[before-flag-raising](dhvajārohaṇapūrve) [tu](tu) [afterwards](paścāt) [drum](bherīṃ) [tu](tu) [should-beat](tāḍayet)
+[before-flag-raising](dhvajārohaṇapūrve) [tu](tu) [after](paścāt) [drum](bherīṃ) [tu](tu) [beat](tāḍayet)
 
 ## mukta-m0-p37-v923
-[before-sprout-offering](aṅkurārpaṇa) [pūrvaṃ](pūrvaṃ) [syāt](syāt) [afterwards](paścāt) [drum](bherīṃ) [tu](tu) [should-beat](tāḍayet)
+[sprout-offering](aṅkurārpaṇa) [before](pūrvaṃ) [be](syāt) [after](paścāt) [drum](bherīṃ) [tu](tu) [beat](tāḍayet)
 
 ## mukta-m0-p37-v924
-[immediate-adhivasa](sadyo'dhivāsanaṃ) [should-do](kuryāt) [that-day](taddinaṃ) [all](sarvameva) [ca](ca)
+[immediate-adhivāsana](sadyo'dhivāsanaṃ) [do](kuryāt) [that-day](taddinaṃ) [all](sarvam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p37-v925
-[ten-cubits](daśahastaṃ) [endowed](samāyuktaṃ) [seven-cubits](saptahastamathāpi) [or](vā)
+[ten-cubits](daśahastaṃ) [endowed](samāyuktaṃ) [seven-cubits](saptahastam) [or](athāpi) [or](vā)

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2724,
- "question": "What consequence follows if the mantra is taught without observing the proper sequence?",
+ "question": "Which ritual or activity is prescribed for each zodiacal rising?",
  "premises": [
-  "The mantra should be taught afterwards.",
-  "An alternative condition is considered.",
-  "Otherwise it becomes fruitless."
+  "Verses assign rituals to zodiac risings.",
+  "Each rising has a prescribed activity."
  ],
- "inference": "If the mantra is not taught in the proper sequence, it becomes fruitless.",
- "uncertainties": [],
- "plain_english": "Afterwards one should teach the mantra; otherwise it would be fruitless."
+ "inference": "The passage maps zodiacal risings to prescribed activities.",
+ "uncertainties": [
+  "Fused sandhi tokens are kept whole."
+ ],
+ "plain_english": "It lists rituals suited to each zodiac rising."
 }

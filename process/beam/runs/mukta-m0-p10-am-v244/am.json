@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p10",
  "verse": 244,
- "question": "How is the threefold wiping performed?",
+ "question": "What lotus is to be made on the goddess's head?",
  "premises": [
-  "Wiping is named.",
-  "Threefold is named.",
-  "By weapon and left hand is named."
+  "goddess head is specified",
+  "to be made is specified",
+  "lotus is specified",
+  "pleasing is specified",
+  "golden color is assigned"
  ],
- "inference": "The threefold wiping is done by weapon with the left hand.",
+ "inference": "The verse instructs making a pleasing lotus on the goddess's head, golden-colored.",
  "uncertainties": [
-  "The exact wiping motion is not specified."
+  "compound boundaries approximate"
  ],
- "plain_english": "Having done wiping threefold by weapon with the left hand."
+ "plain_english": "On the goddess's head, a pleasing lotus is to be made; golden-colored."
 }

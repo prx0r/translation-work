@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-slow(slow) slow-er(slow-er) and(and) intense(intense) intense-er(intense-er) becomes(becomes)
+[slowly](mandaṃ) [more-slowly](mandataraṃ) [and-indeed](caiva) [intense](tīvraṃ) [more-intense](tīvrataraṃ) [becomes](bhavet)
 
 ## mukta-m0-p45-v1102
-ripe-unripe(ripe-unripe) four-fold(four-fold) knowing(knowing) by-difference(by-difference) wise(wise)
+[ripe-unripe](pakvāpakvaṃ) [fourfold-division](caturbhedaṃ) [knowing](jñātvā) [by-division](bhedena) [wise](buddhimān)
 
 ## mukta-m0-p45-v1103
-conduct-section(conduct-section) action-section(action-section) servant(servant) *(*) *(*) released(released)
+[conduct-section](caryāpādaḥ) [action-section](kriyāpādaḥ) [servant](dāso) [*](*) [*](*) [is-liberated](vamucyate)
 
 ## mukta-m0-p45-v1104
-thus(thus) in-Shaiva-agama(in-Shaiva-agama) chief(chief) from-bond(from-bond) by-Pashupati-order(by-Pashupati-order)
+[thus](evaṃ) [in-Shaiva-scripture](śaivāgame) [principal](mukhyaṃ) [from-bond](pāśāt) [by-Pashupati-order](paśupatikramāt)
 
 ## mukta-m0-p45-v1105
-external-state(external-state) mental-state(mental-state) internal-state(internal-state) thus(thus) remembered(remembered)
+[external-state](bāhyabhāvaṃ) [mental-state](manobhāvaṃ) [internal-state](antarbhāvamiti) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p45-v1106
-internal-state-instruction(internal-state-instruction) and(and) bond(bond) Pashupati-becomes(Pashupati-becomes)
+[internal-state-instruction](antarbhāvopadeśaṃ) [and](ca) [bond](pāśaḥ) [Pashupati-becomes](paśupatirbhavet)
 
 ## mukta-m0-p45-v1107
-dissolution-unchanging-enjoyment(dissolution-unchanging-enjoyment) and(and) jewel-mantra-medicine(jewel-mantra-medicine) becomes(becomes)
+[dissolution-unchanging-enjoyment](layāvikārabhogaṃ) [and](ca) [jewel-mantra-medicine](maṇimantrauṣadhaṃ) [becomes](bhavet)
 
 ## mukta-m0-p45-v1108
-its-essence(its-essence) I-will-declare(I-will-declare) listen-with-one-pointed-mind(listen-with-one-pointed-mind)
+[its-essence](tatsāraṃ) [I-will-declare](saṃpravakṣyāmi) [listen-with-one-pointed-mind](śṛṇuṣvekāgramānasaḥ)
 
 ## mukta-m0-p45-v1109
-beyond-tattva(beyond-tattva) and(and) what(what) declared(declared) self-knowledge-measure(self-knowledge-measure) becomes(becomes)
+[beyond-tattva](tattvātītaṃ) [and](ca) [what](yat) [declared](proktaṃ) [self-knowledge-measure](ātmajñānamitirbhavet)
 
 ## mukta-m0-p45-v1110
-thus(thus) three-fold(three-fold) knowing(knowing) union(union) becomes(becomes) certain(certain)
+[thus](ityevaṃ) [threefold](trividhaṃ) [knowing](jñātvā) [union](sāyujyaṃ) [becomes](bhavati) [certain](dhruvam)
 
 ## mukta-m0-p45-v1111
-seven-dhatu-made(seven-dhatu-made) body(body) indeed(imdeed) impermanent(impermanent) as(as) know(know)
+[seven-dhatu-made](saptadhātumayaṃ) [body](deho) [indeed-impermanent](hyanityaśca) [as](yathā) [know](viduḥ)
 
 ## mukta-m0-p45-v1112
-*(*) *(*) *(*) *(*) *(*) those-thus(those-thus) word-etc(word-etc) of(of) indeed(indeed) activity(activity)
+[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [those-thus](tānītyā) [sound-etc](śabdādīnāṃ) [indeed](tu) [activity](ceṣṭitam)
 
 ## mukta-m0-p45-v1113
-three-gunas(three-gunas) then(then) distinct(distinct) pure-knowledge(pure-knowledge) Sadasiva(Sadasiva)
+[three-gunas](guṇatrayaṃ) [then](tato) [distinct](bhinnaṃ) [pure-knowledge](śuddhavidyā) [Sada-Shiva](sadāśivam)
 
 ## mukta-m0-p45-v1114
-body-knowledge-sense(body-knowledge-sense) *(*) *(*) *(*) *(*) *(*) guna-air(guna-air) that(that)
+[body-knowledge-sense](dehajñānendriya) [*](*) [*](*) [*](*) [*](*) [*](*) [guna-air](guṇavāyu) [that](tam)
 
 ## mukta-m0-p45-v1115
-from-tattva-to-shakti-end(from-tattva-to-shakti-end) tattvas(tattvas) together(together) meditate(meditate)
+[from-tattva-to-shakti-end](tattvādiśaktiparyantaṃ) [tattvas](tattvāni) [together](saha) [meditate](bhāvayet)
 
 ## mukta-m0-p45-v1116
-thus(thus) thirty-six-tattvas(thirty-six-tattvas) perish(perish) vision(vision) and(and) what(what)
+[thus](evaṃ) [thirty-six-tattvas](ṣaṭtriṃśatattvāni) [perish](naśyante) [vision](darśanaṃ) [and](ca) [what](yat)
 
 ## mukta-m0-p45-v1117
-beyond-tattva(beyond-tattva) what(what) knowledge(knowledge) that-knowledge(that-knowledge) supreme-waking-born(supreme-waking-born)
+[beyond-tattva](tattvātītaṃ) [what](yat) [knowledge](jñānaṃ) [that-knowledge](tatjñānaṃ) [supreme-awakening-born](parajāgrajam)
 
 ## mukta-m0-p45-v1118
-that-knowledge(that-knowledge) Veda-peace(Veda-peace) and(and) deep-sleep(deep-sleep) supreme-indeed(supreme-indeed)
+[that-knowledge](tatjñānaṃ) [Veda-peace](vedaśāntiṃ) [and](ca) [deep-sleep](suṣuptiḥ) [supreme-indeed](parameva) [and](ca)
 
 ## mukta-m0-p45-v1119
-lord-knowledge(lord-knowledge) thus(thus) declared(declared) union(union) and(and) then(then) listen(listen)
+[lord-knowledge](patijñānamiti) [thus](iti) [declared](proktaṃ) [union](sāyujyaṃ) [and](ca) [then-listen](tataśśṛṇu)
 
 ## mukta-m0-p45-v1120
-asi-word(asi-word) and(and) union(union) tattva-knowledge(tattva-knowledge) thus(thus) remembered(remembered)
+[sword-word](asiśabdaṃ) [and](ca) [union](sāyujyaṃ) [tattva-knowledge](tattvajñānamiti) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p45-v1121
-equal-taste(equal-taste) state(state) indeed(indeed) said(said) mother-state(mother-state) then(then) said(said)
+[equal-taste](samaṃrasī) [state](bhāvamevoktaṃ) [indeed-said](evoktaṃ) [mother-state](mātṛbhāvamathocyate) [then-said](athocyate)
 
 ## mukta-m0-p45-v1122
-all-thought-free(all-thought-free) by-one-only(by-one-only) devoid(devoid)
+[free-from-all-thought](sarvacintāvinirmuktaḥ) [by-one-indeed](ekenaiva) [devoid](vivarjitam)
 
 ## mukta-m0-p45-v1123
-form(form) and(and) formless(formless) word-meaning-devoid(word-meaning-devoid)
+[form](ākāraṃ) [and](ca) [formless](nirākāraṃ) [devoid-of-signifier-signified](vācyavācakavarjitam)
 
 ## mukta-m0-p45-v1124
-ear(ear) not-is(not-is) hearing(hearing) there(there) eye(eye) not-is(not-is) he-sees(he-sees)
+[ear](śrotraṃ) [not-is](nāsti) [hearing](śrutistatra) [there](tatra) [eye](cakṣurnāsti) [not-is](nāsti) [he](sa) [sees](paśyati)
 
 ## mukta-m0-p45-v1125
-tongue(tongue) not-is(not-is) taste(taste) grasping(grasping) skin-without(skin-without) touch(touch) know(know)
+[tongue](jihvā) [not-is](nāsti) [taste](rasaṃ) [grasping](gṛhya) [skin-without](tvakvinā) [touch](sparśanaṃ) [know](viduḥ)

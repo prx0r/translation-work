@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2799,
- "question": "What breadth is prescribed for the middle of the arm?",
+ "question": "What rites include coronation, food offering, study beginning, and upanayana?",
  "premises": [
-  "The subject is the middle of the arm.",
-  "Its breadth is being specified.",
-  "The breadth is stated as seven fingers."
+  "coronation is named",
+  "food offering is named",
+  "study beginning is named",
+  "upanayana is named"
  ],
- "inference": "The breadth of the middle of the arm is seven fingers.",
- "uncertainties": [],
- "plain_english": "The breadth of the middle of the arm is stated to be seven fingers."
+ "inference": "these rites are grouped together",
+ "uncertainties": [
+  "exact ritual context implicit"
+ ],
+ "plain_english": "The rites include coronation, food offering, study beginning, and upanayana."
 }

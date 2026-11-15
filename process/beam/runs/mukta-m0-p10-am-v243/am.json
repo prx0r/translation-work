@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 243,
- "question": "How are the hands made fragrant in this rite?",
+ "question": "What bent hand and elephants are to be made behind that?",
  "premises": [
-  "By weapon is named.",
-  "Scent-flowers are named.",
-  "Fragrant-handed is named."
+  "bent hand is to be made",
+  "that behind is specified",
+  "two elephants are specified"
  ],
- "inference": "The hands are made fragrant by weapon and scent-flowers.",
+ "inference": "The verse instructs making a bent hand and two elephants behind that.",
  "uncertainties": [
-  "The exact gesture is not specified."
+  "compound boundaries approximate"
  ],
- "plain_english": "By weapon and scent-flowers, the hands are made fragrant."
+ "plain_english": "A bent hand is to be made; behind that, two elephants."
 }

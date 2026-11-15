@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2777,
- "question": "What portion is recognized from the hairline to the eye-line?",
+ "question": "What color is the woman in this zodiacal figure?",
  "premises": [
-  "The starting point is the hairline.",
-  "The endpoint is the eye-line.",
-  "This segment is known as the space portion."
+  "the verse names a woman",
+  "it gives her color"
  ],
- "inference": "The segment from the hairline to the eye-line is recognized as the space portion.",
- "uncertainties": [],
- "plain_english": "From the hairline to the end of the eye-line is known as the space portion."
+ "inference": "the woman is dark-colored",
+ "uncertainties": [
+  "context of zodiac sign implicit"
+ ],
+ "plain_english": "The woman is dark-colored."
 }

@@ -1,16 +1,14 @@
 {
  "song": "mukta-m0-p11",
  "verse": 268,
- "question": "Which trees are listed as suitable or unsuitable?",
+ "question": "What color and musical action define this goddess?",
  "premises": [
-  "palasha is named",
-  "kutaja is named",
-  "lodhra is named",
-  "bilva-pilu-shirisha is named"
+  "The verse describes a goddess.",
+  "The final token gives color."
  ],
- "inference": "These trees are listed among the relevant species.",
+ "inference": "The red goddess plays a vīṇā with her hands.",
  "uncertainties": [
-  "suitability status remains unresolved"
+  "Compound boundaries not expanded."
  ],
- "plain_english": "Palasha, kutaja, lodhra, and bilva-pilu-shirisha are listed."
+ "plain_english": "That red goddess bears a vīṇā and plays it with her hands."
 }

@@ -1,0 +1,882 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2776,
+   "rows": [
+    {
+     "surface": "vibhūṣaṇā",
+     "gloss": "ornament",
+     "grounds": "surface as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "alaṃkṛta",
+     "gloss": "adorned",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "loha",
+     "gloss": "iron",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇā",
+     "gloss": "ear",
+     "grounds": "surface as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoṣā",
+     "gloss": "woman",
+     "grounds": "surface as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pradiṣṭā",
+     "gloss": "shown",
+     "grounds": "surface as given",
+     "morph": "part"
+    },
+    {
+     "surface": "makara",
+     "gloss": "capricorn",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What adorned iron-eared woman is shown in capricorn's middle?",
+   "premises": [
+    "the verse names an adorned woman",
+    "it places her in capricorn's middle"
+   ],
+   "inference": "the figure is a capricorn-region woman",
+   "uncertainties": [
+    "compound boundaries not expanded"
+   ],
+   "plain_english": "An adorned woman with iron earrings is shown in the middle of capricorn."
+  },
+  {
+   "verse": 2777,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "surface as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śyāmavarṇā",
+     "gloss": "dark-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the woman in this zodiacal figure?",
+   "premises": [
+    "the verse names a woman",
+    "it gives her color"
+   ],
+   "inference": "the woman is dark-colored",
+   "uncertainties": [
+    "context of zodiac sign implicit"
+   ],
+   "plain_english": "The woman is dark-colored."
+  },
+  {
+   "verse": 2778,
+   "rows": [
+    {
+     "surface": "kuṃbham",
+     "gloss": "pot",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udvahati",
+     "gloss": "carries",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ratnacitritaṃ",
+     "gloss": "jewel-decorated",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "skaṃdhagaṃ",
+     "gloss": "shoulder-borne",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "makararāśi",
+     "gloss": "capricorn-sign",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paścimaḥ",
+     "gloss": "western",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What pot-bearing figure belongs to capricorn's western part?",
+   "premises": [
+    "a pot is carried",
+    "it is jewel-decorated and shoulder-borne",
+    "the sign is capricorn"
+   ],
+   "inference": "the western capricorn figure carries a decorated pot",
+   "uncertainties": [
+    "exact grammatical case of makararāśi"
+   ],
+   "plain_english": "A jewel-decorated pot is carried on the shoulder in capricorn's western part."
+  },
+  {
+   "verse": 2779,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "surface as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karburavarṇaḥ",
+     "gloss": "spotted-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the man in this zodiacal figure?",
+   "premises": [
+    "the verse names a man",
+    "it gives his color"
+   ],
+   "inference": "the man is spotted-colored",
+   "uncertainties": [
+    "zodiac sign implicit"
+   ],
+   "plain_english": "The man is spotted-colored."
+  },
+  {
+   "verse": 2780,
+   "rows": [
+    {
+     "surface": "kośakāra",
+     "gloss": "cocoon-maker",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vasano",
+     "gloss": "clothed",
+     "grounds": "surface as given",
+     "morph": "part"
+    },
+    {
+     "surface": "ajināvṛto",
+     "gloss": "hide-covered",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "gṛdhratulya",
+     "gloss": "vulture-like",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "vadanoghaṭādikaḥ",
+     "gloss": "face-and-neck-etc",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What cocoon-maker figure is clothed in hide with vulture-like face?",
+   "premises": [
+    "the figure is a cocoon-maker",
+    "it is hide-covered",
+    "its face is vulture-like"
+   ],
+   "inference": "the figure has a vulture-like face and hide covering",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "A cocoon-maker clothed in hide has a vulture-like face and neck."
+  },
+  {
+   "verse": 2781,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "surface as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "babhruvarṇaḥ",
+     "gloss": "brown-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the man in this zodiacal figure?",
+   "premises": [
+    "the verse names a man",
+    "it gives his color"
+   ],
+   "inference": "the man is brown-colored",
+   "uncertainties": [
+    "zodiac sign implicit"
+   ],
+   "plain_english": "The man is brown-colored."
+  },
+  {
+   "verse": 2782,
+   "rows": [
+    {
+     "surface": "malinenapaṭena",
+     "gloss": "with-dirty-cloth",
+     "grounds": "surface as given",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃvṛtā",
+     "gloss": "covered",
+     "grounds": "surface as given",
+     "morph": "part"
+    },
+    {
+     "surface": "bhāṃḍair",
+     "gloss": "with-vessels",
+     "grounds": "surface as given",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mūrdhagataissamadhyamaḥ",
+     "gloss": "head-borne-middle",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What middle figure is covered by dirty cloth with head-borne vessels?",
+   "premises": [
+    "the figure is covered",
+    "vessels are on the head",
+    "it is the middle one"
+   ],
+   "inference": "the middle figure carries vessels on the head under dirty cloth",
+   "uncertainties": [
+    "fused sandhi form retained"
+   ],
+   "plain_english": "The middle figure is covered by dirty cloth and bears vessels on the head."
+  },
+  {
+   "verse": 2783,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "surface as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "babhruvarṇā",
+     "gloss": "brown-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the woman in this zodiacal figure?",
+   "premises": [
+    "the verse names a woman",
+    "it gives her color"
+   ],
+   "inference": "the woman is brown-colored",
+   "uncertainties": [
+    "zodiac sign implicit"
+   ],
+   "plain_english": "The woman is brown-colored."
+  },
+  {
+   "verse": 2784,
+   "rows": [
+    {
+     "surface": "bhāṃḍāni",
+     "gloss": "vessels",
+     "grounds": "surface as given",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "lohamavyatimiśritāni",
+     "gloss": "iron-mixed",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "saṃcārayatyaṃtya",
+     "gloss": "moves-last",
+     "grounds": "surface as given",
+     "morph": "part"
+    },
+    {
+     "surface": "ghaṭasya",
+     "gloss": "of-pot",
+     "grounds": "surface as given",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "What vessels mixed with iron are moved at the pot's end?",
+   "premises": [
+    "vessels are named",
+    "they are iron-mixed",
+    "movement occurs at the pot's end"
+   ],
+   "inference": "iron-mixed vessels are moved at the end of the pot",
+   "uncertainties": [
+    "fused sandhi form retained"
+   ],
+   "plain_english": "Iron-mixed vessels are moved at the end of the pot."
+  },
+  {
+   "verse": 2785,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "surface as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāmavarṇaḥ",
+     "gloss": "dark-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the man in this zodiacal figure?",
+   "premises": [
+    "the verse names a man",
+    "it gives his color"
+   ],
+   "inference": "the man is dark-colored",
+   "uncertainties": [
+    "zodiac sign implicit"
+   ],
+   "plain_english": "The man is dark-colored."
+  },
+  {
+   "verse": 2786,
+   "rows": [
+    {
+     "surface": "bhāryāvibhūṣārtham",
+     "gloss": "for-wife-adornment",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "apāṃnidhānenā",
+     "gloss": "by-water-deposit",
+     "grounds": "surface as given",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vaṃplavatyā",
+     "gloss": "floating",
+     "grounds": "surface as given",
+     "morph": "part"
+    },
+    {
+     "surface": "digato",
+     "gloss": "direction-gone",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "jhaṣasya",
+     "gloss": "of-fish",
+     "grounds": "surface as given",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "What wife-adornment purpose involves water deposit and floating fish?",
+   "premises": [
+    "the purpose is wife adornment",
+    "water deposit and floating are named",
+    "fish is involved"
+   ],
+   "inference": "wife adornment is connected with water deposit and floating fish",
+   "uncertainties": [
+    "fused sandhi form retained"
+   ],
+   "plain_english": "For wife adornment, water deposit and floating are connected with fish."
+  },
+  {
+   "verse": 2787,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "surface as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the man in this zodiacal figure?",
+   "premises": [
+    "the verse names a man",
+    "it gives his color"
+   ],
+   "inference": "the man is white-colored",
+   "uncertainties": [
+    "zodiac sign implicit"
+   ],
+   "plain_english": "The man is white-colored."
+  },
+  {
+   "verse": 2788,
+   "rows": [
+    {
+     "surface": "varṇenacaṃpakanibhā",
+     "gloss": "color-campaka-like",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "caṃpakanibhā",
+     "gloss": "campaka-like",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "pramadā",
+     "gloss": "woman",
+     "grounds": "surface as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tribhāgo",
+     "gloss": "third-part",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mīnasya",
+     "gloss": "of-fish",
+     "grounds": "surface as given",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathito",
+     "gloss": "said",
+     "grounds": "surface as given",
+     "morph": "part"
+    },
+    {
+     "surface": "munibhirdvitīyaḥ",
+     "gloss": "by-sages-second",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What campaka-colored woman is said to be fish's third part?",
+   "premises": [
+    "a woman is named",
+    "her color is campaka-like",
+    "she is fish's third part"
+   ],
+   "inference": "the woman is the third part of fish",
+   "uncertainties": [
+    "fused sandhi form retained"
+   ],
+   "plain_english": "A campaka-colored woman is said by sages to be the third part of fish."
+  },
+  {
+   "verse": 2789,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "surface as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanakavarṇā",
+     "gloss": "gold-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the woman in this zodiacal figure?",
+   "premises": [
+    "the verse names a woman",
+    "it gives her color"
+   ],
+   "inference": "the woman is gold-colored",
+   "uncertainties": [
+    "zodiac sign implicit"
+   ],
+   "plain_english": "The woman is gold-colored."
+  },
+  {
+   "verse": 2790,
+   "rows": [
+    {
+     "surface": "corānalavyākulitāṃ",
+     "gloss": "thief-fire-distressed",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "tarātmā",
+     "gloss": "inner-self",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vikrośate",
+     "gloss": "cries-out",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cāṃtya",
+     "gloss": "and-end",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gato",
+     "gloss": "gone",
+     "grounds": "surface as given",
+     "morph": "part"
+    },
+    {
+     "surface": "jhaṣasya",
+     "gloss": "of-fish",
+     "grounds": "surface as given",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "What distressed inner self cries out at fish's end?",
+   "premises": [
+    "the inner self is distressed",
+    "it cries out",
+    "it is at fish's end"
+   ],
+   "inference": "the distressed inner self cries out at the end of fish",
+   "uncertainties": [
+    "fused sandhi form retained"
+   ],
+   "plain_english": "The distressed inner self cries out at the end of fish."
+  },
+  {
+   "verse": 2791,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "surface as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the man in this zodiacal figure?",
+   "premises": [
+    "the verse names a man",
+    "it gives his color"
+   ],
+   "inference": "the man is white-colored",
+   "uncertainties": [
+    "zodiac sign implicit"
+   ],
+   "plain_english": "The man is white-colored."
+  },
+  {
+   "verse": 2792,
+   "rows": [
+    {
+     "surface": "ākaṃṭhapādāṃta",
+     "gloss": "neck-to-foot-end",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "kacodvibhujo",
+     "gloss": "kacu-two-armed",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "dīrghagodhikaḥ",
+     "gloss": "long-lizard-like",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What figure extends from neck to foot with two arms?",
+   "premises": [
+    "the figure extends neck to foot",
+    "it has two arms",
+    "it is long-lizard-like"
+   ],
+   "inference": "the figure is long-lizard-like with two arms",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "A long-lizard-like figure extends from neck to foot with two arms."
+  },
+  {
+   "verse": 2793,
+   "rows": [
+    {
+     "surface": "bhrūmaṃḍalālakopetaḥ",
+     "gloss": "brow-circle-curl-endowed",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "kṛṣṇaśubhrāṃśukānvitaḥ",
+     "gloss": "black-white-garment-endowed",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What figure is endowed with brow curls and black-white garments?",
+   "premises": [
+    "brow curls are named",
+    "black-white garments are named"
+   ],
+   "inference": "the figure has brow curls and black-white garments",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The figure is endowed with brow curls and black-white garments."
+  },
+  {
+   "verse": 2794,
+   "rows": [
+    {
+     "surface": "iṣṭāpūrtasya",
+     "gloss": "of-sacrifice-and-charity",
+     "grounds": "surface as given",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sidhyarthaṃ",
+     "gloss": "for-accomplishment",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjanīyo",
+     "gloss": "to-be-worshipped",
+     "grounds": "surface as given",
+     "morph": "part"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-wise-ones",
+     "grounds": "surface as given",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Who should be worshipped for accomplishment of sacrifice and charity?",
+   "premises": [
+    "sacrifice and charity are named",
+    "accomplishment is the purpose",
+    "wise ones worship"
+   ],
+   "inference": "wise ones worship for accomplishment of sacrifice and charity",
+   "uncertainties": [
+    "exact referent implicit"
+   ],
+   "plain_english": "Wise ones should worship for accomplishment of sacrifice and charity."
+  },
+  {
+   "verse": 2795,
+   "rows": [
+    {
+     "surface": "kanakavarṇaḥ",
+     "gloss": "gold-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What color is the figure in this zodiacal description?",
+   "premises": [
+    "the verse gives a color"
+   ],
+   "inference": "the figure is gold-colored",
+   "uncertainties": [
+    "referent implicit"
+   ],
+   "plain_english": "The figure is gold-colored."
+  },
+  {
+   "verse": 2796,
+   "rows": [
+    {
+     "surface": "śvetavastradharaṃ",
+     "gloss": "white-garment-wearing",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "surface as given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jaṭāvalkaladhāriṇam",
+     "gloss": "matted-bark-wearing",
+     "grounds": "surface as given",
+     "morph": "adj"
+    }
+   ],
+   "question": "What god wears white garments and matted bark?",
+   "premises": [
+    "a god is named",
+    "white garments are worn",
+    "matted bark is worn"
+   ],
+   "inference": "the god wears white garments and matted bark",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The god wears white garments and matted bark."
+  },
+  {
+   "verse": 2797,
+   "rows": [
+    {
+     "surface": "padmavaktraṃ",
+     "gloss": "lotus-faced",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "śuklavarṇaṃ",
+     "gloss": "white-colored",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "divārūpaṃ",
+     "gloss": "day-form",
+     "grounds": "surface as given",
+     "morph": "adj"
+    },
+    {
+     "surface": "vibhāvayet",
+     "gloss": "should-visualize",
+     "grounds": "surface as given",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What lotus-faced white day-form should one visualize?",
+   "premises": [
+    "lotus face is named",
+    "white color is named",
+    "day form is named",
+    "visualization is commanded"
+   ],
+   "inference": "one should visualize a lotus-faced white day-form",
+   "uncertainties": [
+    "referent implicit"
+   ],
+   "plain_english": "One should visualize a lotus-faced white day-form."
+  },
+  {
+   "verse": 2798,
+   "rows": [
+    {
+     "surface": "divādhidevatāsūryaḥ prasidhaḥ navagrahasthasūryavat ni0 5",
+     "gloss": "day-lord-sun-famous-navagraha-sun-like",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What famous sun-like day lord is identified in this note?",
+   "premises": [
+    "the note names a day lord",
+    "it compares him to navagraha sun"
+   ],
+   "inference": "the day lord is like the navagraha sun",
+   "uncertainties": [
+    "editorial note not verse proper"
+   ],
+   "plain_english": "The famous day lord sun is like the navagraha sun."
+  },
+  {
+   "verse": 2799,
+   "rows": [
+    {
+     "surface": "rājābhiṣekam",
+     "gloss": "king-coronation",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "annādyaṃ",
+     "gloss": "food-offering",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyāraṃbho",
+     "gloss": "study-beginning",
+     "grounds": "surface as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "panāyanam",
+     "gloss": "upanayana",
+     "grounds": "surface as given",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What rites include coronation, food offering, study beginning, and upanayana?",
+   "premises": [
+    "coronation is named",
+    "food offering is named",
+    "study beginning is named",
+    "upanayana is named"
+   ],
+   "inference": "these rites are grouped together",
+   "uncertainties": [
+    "exact ritual context implicit"
+   ],
+   "plain_english": "The rites include coronation, food offering, study beginning, and upanayana."
+  }
+ ]
+}

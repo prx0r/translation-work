@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2512,
- "question": "What two mantras are named in this instruction?",
+ "question": "Which rosary-pot-handed lord is meditated upon for protection?",
  "premises": [
-  "The verse names a corpse-placement mantra.",
-  "It names a corpse-seat mantra.",
-  "It says then."
+  "The verse meditates on a handed figure.",
+  "It names rosary and pot.",
+  "It asks protection."
  ],
- "inference": "The instruction names a corpse-placement mantra and a corpse-seat mantra.",
+ "inference": "The verse meditates on a protective lord.",
  "uncertainties": [
-  "The exact wording of these mantras is not provided."
+  "Compound boundaries are not split."
  ],
- "plain_english": "This is the corpse-placement mantra; then the corpse-seat mantra."
+ "plain_english": "I meditate on you, rosary-and-pot-handed lord; protect me."
 }

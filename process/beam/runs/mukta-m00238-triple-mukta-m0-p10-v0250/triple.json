@@ -1,0 +1,59 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "dakṣiṇetvabhayaṃ",
+     "gloss": "right-indeed-fearlessness",
+     "grounds": "fused sandhi token; legacy gloss right-indeed-fearlessness",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bityuttare varadaṃ",
+     "gloss": "left-boon",
+     "grounds": "fused token with internal space; legacy gloss left-boon",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ūrūpadmadalākārau",
+     "gloss": "thighs-lotus-petal-shaped",
+     "grounds": "compound describing thigh shape; dual ending",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vīra śrīmurtilakṣaṇam",
+     "gloss": "vira-sri-form-mark",
+     "grounds": "fused token with internal space; legacy gloss vīra-śrī-form-mark",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hemavarṇaḥ",
+     "gloss": "golden-color",
+     "grounds": "compound describing color",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which iconographic marks define the golden vira-sri form?",
+   "premises": [
+    "Right hand shows fearlessness.",
+    "Left hand grants a boon.",
+    "Thighs are lotus-petal shaped.",
+    "Form is golden vira-sri."
+   ],
+   "inference": "The verse enumerates the form's marks.",
+   "uncertainties": [
+    "Token boundaries and sandhi are preserved as given.",
+    "Legacy glosses guide but are not authoritative."
+   ],
+   "plain_english": "The right hand gives fearlessness, the left grants a boon; the thighs are lotus-petal shaped; this is the mark of the golden vira-sri form."
+  }
+ ]
+}

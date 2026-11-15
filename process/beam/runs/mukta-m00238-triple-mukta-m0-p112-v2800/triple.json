@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "pāśāṃkuśadhanurbāṇa",
+     "gloss": "noose-goad-bow-arrow",
+     "grounds": "legacy hint splits into pāśa aṃkuśa dhanur bāṇa; fused compound token",
+     "morph": "compound (pāśa-aṃkuśa-dhanur-bāṇa)"
+    },
+    {
+     "surface": "dharāṃ",
+     "gloss": "holding",
+     "grounds": "legacy hint dharaṃ; token shows dharāṃ",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "caṃdranibhānanām",
+     "gloss": "moon-like-faced",
+     "grounds": "legacy hint splits into caṃdra nibhā nanām",
+     "morph": "compound (caṃdra-nibhā-nanā)"
+    }
+   ],
+   "question": "Which attributes and facial quality characterize the described deity?",
+   "premises": [
+    "The verse lists four held implements.",
+    "It adds a moon-like face.",
+    "The deity is thus iconographically specified."
+   ],
+   "inference": "The described figure bears noose, goad, bow, arrow, and a moon-like face.",
+   "uncertainties": [
+    "Token dharāṃ may be an inflectional or sandhi variant; exact syntactic role is uncertain."
+   ],
+   "plain_english": "Holding noose, goad, bow, and arrow, with a moon-like face."
+  }
+ ]
+}

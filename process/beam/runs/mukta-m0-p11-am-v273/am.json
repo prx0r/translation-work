@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p11",
  "verse": 273,
- "question": "Which trees endure rain, wind, sun, water, and land?",
+ "question": "What garment and eye attribute define this goddess?",
  "premises": [
-  "rain-wind-sun-enduring is named",
-  "water-land-enduring is named",
-  "and is stated"
+  "The verse describes a goddess.",
+  "It mentions cloth garment and three eyes."
  ],
- "inference": "Trees enduring rain, wind, sun, water, and land are named.",
+ "inference": "The goddess wears cloth and possesses three eyes.",
  "uncertainties": [
-  "exact species remain unresolved"
+  "Compound boundaries not expanded."
  ],
- "plain_english": "Trees enduring rain, wind, sun, water, and land are named."
+ "plain_english": "This goddess wears cloth and possesses three eyes."
 }

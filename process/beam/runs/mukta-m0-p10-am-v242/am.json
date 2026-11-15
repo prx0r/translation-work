@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p10",
  "verse": 242,
- "question": "What bodily and sensory preparations are described here?",
+ "question": "What nectar pot is to be made on the left?",
  "premises": [
-  "Betel-filled mouth is named.",
-  "Incense-fragrance-scented is named."
+  "left is specified",
+  "nectar pot is to be made",
+  "thus is specified",
+  "king-pleasing is specified"
  ],
- "inference": "The practitioner is described as having a betel-filled mouth and incense fragrance.",
+ "inference": "The verse instructs making a nectar pot on the left, pleasing to the king.",
  "uncertainties": [
-  "The ritual purpose is not specified."
+  "compound boundaries approximate"
  ],
- "plain_english": "With betel-filled mouth and incense fragrance."
+ "plain_english": "On the left, a nectar pot is to be made, pleasing to the king."
 }

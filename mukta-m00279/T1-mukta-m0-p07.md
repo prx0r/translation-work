@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[those](te) [and](ca) [indeed](api) [end](ante) [great-fortunate](mahābhāgāḥ) [in-order](krama) [worshipped](ārādyāḥ) [Indra](śacīpatiḥ)
+[they](te) [and-also-end](cāpyante) [great-fortunate-ones](mahābhāgāḥ) [by-order-worshipped](krama+ārādyāḥ) [Indra](śacī+patiḥ)
 
 ## mukta-m0-p07-v152
-[mantra-difference](mantrabheda) [authors](praṇetāro) [mantra-ritual-makers](mantrakalpakarāḥ) [and-so](tathā)
+[mantra-difference](mantra+bheda) [originators](praṇetāraḥ) [mantra-compilers](mantra+kalpa+karāḥ) [also](tathā)
 
 ## mukta-m0-p07-v153
-[name-difference](nāmabheda) [enumerated](prasaṃkhyātam) [having-worshipped](ārādhya) [supreme-lord](parameśvaram)
+[name-difference](nāma+bheda) [enumerated](prasaṃkhyātam) [worshipping](ārādhya) [supreme-lord](parama+īśvaram)
 
 ## mukta-m0-p07-v154
-[host](gaṇa) [guhyaka](guhyaka) [differences](bhedaiḥ) [and](ca) [Rudra](rudra) [differences](bhedaiḥ) [and](ca) [named](saṃjñitam)
+[host-difference](gaṇa+guhyaka+bhedaiḥ) [and](ca) [Rudra-difference](rudra+bhedaiḥ) [ca](ca) [named](saṃjñitam)
 
 ## mukta-m0-p07-v155
-[again](punaḥ) [and](ca) [indeed](eva) [declared](samākhyātā) [lost](naṣṭā) [tenfold](daśavidhāḥ) [and-so](tathā)
+[again](punaḥ) [also](ca+eva) [declared](samākhyātā) [lost](naṣṭā) [tenfold](daśa+vidhāḥ) [also](tathā)
 
 ## mukta-m0-p07-v156
-[in-that](tasmin) [mantras](mantrāḥ) [declared](samākhyātāḥ) [let-be-heard](śrūyatām) [fair-lady](varavarṇinī)
+[therein](tasmin) [mantras](mantrāḥ) [declared](samākhyātāḥ) [listen](śrūyatām) [fair-lady](vara+varṇinī)
 
 ## mukta-m0-p07-v157
-[fifty-one](ekapañcāśatam) [and](ca) [indeed](eva) [and-so](tathā) [indeed](vai) [seventy-seven](saptasaptatiḥ)
+[fifty-one](eka+pañcāśatam) [and](ca+eva) [also](tathā) [seventy-seven](sapta+saptatiḥ)
 
 ## mukta-m0-p07-v158
-[in-victory](vijaye) [but](tu) [declared](samākhyātam) [in-that](tasmin) [Brahma](brahmā) [but](tu) [initiated](dīkṣitaḥ)
+[victory](vijaye) [tu](tu) [declared](samākhyātam) [therein](tasmin) [Brahma](brahmā) [tu](tu) [initiated](dīkṣitaḥ)
 
 ## mukta-m0-p07-v159
-[eight](aṣṭau) [and](ca) [indeed](eva) [but](tu) [lakhs](lakṣāṇi) [by-ten](daśabhiḥ) [mandalas](maṇḍalaiḥ) [situated](sthitam)
+[eight](aṣṭau) [ca](ca+eva) [tu](tu) [lakhs](lakṣāṇi) [ten](daśabhiḥ) [mandalas](maṇḍalaiḥ) [situated](sthitam)
 
 ## mukta-m0-p07-v160
-[Venus](śukraḥ) [Kubera](kuberaḥ) [Varuna](varuṇaḥ) [Yama](yamaḥ) [and](ca) [indeed](eva) [Ashvins](aśvinau) [also](api)
+[Shukra](śukraḥ) [Kubera](kuberaḥ) [Varuna](varuṇaḥ) [Yama](yamaḥ) [ca](ca+eva) [Ashvins](aśvinau) [api](api)
 
 ## mukta-m0-p07-v161
-[in-exhalation](niśvāse) [but](tu) [other](pare) [tantra](tantre) [told](kathitam) [your](tava) [beautiful](śobhane)
+[in-breath](niśvāse) [tu](tu) [other](pare) [tantra](tantre) [told](kathitam) [your](tava) [beautiful-one](śobhane)
 
 ## mukta-m0-p07-v162
-[hundred-one](śatamekam) [and-so](tathā) [and](ca) [another](anyam) [of-mantras](mantrāṇām) [by-enumeration](parisaṃkhyayā)
+[hundred](śatam) [one](ekam) [and](tathā) [ca](ca) [another](anyam) [mantras](mantrāṇām) [enumeration](parisaṃkhyayā)
 
 ## mukta-m0-p07-v163
-[seven-vidyadhara](saptavidyādharam) [tantra](tantram) [and-so](tathā) [Svayambhuva](svāyaṃbhuvam) [thus](iti) [and](ca)
+[seven-vidyas](sapta+vidyā) [tantra](tantram) [and](tathā) [Svayambhuva](svāyaṃbhuvam) [iti](iti) [ca](ca)
 
 ## mukta-m0-p07-v164
-[of-beings](prajānām) [lords](patayaḥ) [and](ca) [indeed](eva) [and-so](tathā) [Brahma's-sons](brahmasutāḥ) [and](ca) [who](ye)
+[creatures](prajānām) [lords](patayaḥ) [ca](ca+eva) [and](tathā) [Brahma-sons](brahma+sutāḥ) [ca](ca) [ye](ye)
 
 ## mukta-m0-p07-v165
-[Yaksha](yakṣa) [Rakshasa](rākṣasa) [Gandharva](gandharva) [Pishacha](piśāca) [Uraga](uraga) [Kinnara](kinnara)
+[yakshas](yakṣa) [rakshasas](rākṣasa) [gandharvas](gandharvāḥ) [pishachas](piśāca) [serpents](uraga) [kinnaras](kinnarāḥ)
 
 ## mukta-m0-p07-v166
-[thousand-one](sahasramekam) [of-mantras](mantrāṇām) [by-thirty](triṃśadbhiḥ) [mandalas](maṇḍalaiḥ) [situated](sthitam)
+[thousand](sahasram) [one](ekam) [mantras](mantrāṇām) [thirty](triṃśadbhiḥ) [mandalas](maṇḍalaiḥ) [situated](sthitam)
 
 ## mukta-m0-p07-v167
-[in-singing-obstruction](gātarodhe) [houses](gṛhāḥ) [and](ca) [indeed](eva) [who](ye) [and](ca) [obstacle-etc](vighnādayaḥ) [hosts](gaṇāḥ)
+[obstruction](gāta+rodhe) [houses](gṛhāḥ) [ca](ca+eva) [and](ye) [ca](ca) [obstacles](vighna+ādayaḥ) [hosts](gaṇāḥ)
 
 ## mukta-m0-p07-v168
-[eleven](ekādaśa) [thousands](sahasrāṇi) [three-crores](koṭitrīṇi) [and](ca) [in-collection](saṃgrahe)
+[eleven](ekādaśa) [thousands](sahasrāṇi) [three](trīṇi) [crores](koṭi) [ca](ca) [in-collection](saṃgrahe)
 
 ## mukta-m0-p07-v169
-[eighteen](aṣṭādaśa) [by-ways](vidhaiḥ) [differences](bhedaiḥ) [in-world](loke) [mantra-hosts](mantragaṇān) [many](bahūn)
+[eighteen](aṣṭādaśa) [ways](vidhaiḥ) [differences](bhedaiḥ) [in-world](loke) [mantra-hosts](mantra+gaṇān) [many](bahūn)
 
 ## mukta-m0-p07-v170
-[spread](visarpitam) [and](ca) [by-instructions](saṃbodhaiḥ) [secret](kūṭa) [arisen-causes](udbhūtakāraṇaiḥ)
+[spread](visarpitam) [ca](ca) [with-enlightenments](saṃbodhaiḥ) [knot](kūṭa) [arisen-causes](udbhūta+kāraṇaiḥ)
 
 ## mukta-m0-p07-v171
-[here](atra) [your](te) [sages](ṛṣayaḥ) [perfected](siddhāḥ) [Balakhilya](balakhilyāḥ) [austerities-wealthy](tapodhanāḥ)
+[here](atra) [your](te) [sages](ṛṣayaḥ) [siddhas](siddhāḥ) [balakhilyas](balakhilyāḥ) [austerities](tapo+dhanāḥ)
 
 ## mukta-m0-p07-v172
-[by-this](anena) [and](ca) [indeed](eva) [in-doctrine](siddhānte) [gods](devāḥ) [indeed](vai) [humans-etc](mānavādayaḥ)
+[by-this](anena) [ca](ca+eva) [siddhanta](siddhānte) [gods](devāḥ) [vai](vai) [humans](mānava+ādayaḥ)
 
 ## mukta-m0-p07-v173
-[one-crore](koṭirekam) [thousand](sahasram) [and](ca) [mantra-mandala-twenty](mantramaṇḍalaviṃśakam)
+[crore](koṭiḥ) [one](ekam) [thousand](sahasram) [ca](ca) [mantra-mandala-twenty](mantra+maṇḍala+viṃśakam)
 
 ## mukta-m0-p07-v174
-[five-mantra-hundreds](pañcamantraśatāḥ) [to-be-known](jñeyāḥ) [four-formed](caturmūrti) [established](vyavasthitāḥ)
+[five-hundred](pañca+śata) [mantras](mantra+śatāḥ) [known](jñeyāḥ) [four-formed](catur+mūrti) [established](vyavasthitāḥ)
 
 ## mukta-m0-p07-v175
-[reed-inner-mother-rituals](nalāntarmātṛkalpaiḥ) [and](ca) [by-sages](ṛṣibhiḥ) [served](sevyate) [always](sadā)
+[reed-inner](nalāntar) [matrka](mātṛ) [arrangements](kalpaiḥ) [ca](ca) [by-sages](ṛṣibhiḥ) [served](sevyate) [always](sadā)

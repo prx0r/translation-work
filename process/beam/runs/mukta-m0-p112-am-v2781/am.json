@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2781,
- "question": "What portion of the eye's length is occupied by the black orb?",
+ "question": "What color is the man in this zodiacal figure?",
  "premises": [
-  "The length of the eye is divided into three parts.",
-  "One of these parts is identified.",
-  "That one part is the black orb."
+  "the verse names a man",
+  "it gives his color"
  ],
- "inference": "The black orb occupies one third of the eye's length.",
- "uncertainties": [],
- "plain_english": "Dividing the length of the eye into three parts, one part is the black orb."
+ "inference": "the man is brown-colored",
+ "uncertainties": [
+  "zodiac sign implicit"
+ ],
+ "plain_english": "The man is brown-colored."
 }

@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "śaṃkhaṃ khaḍgaṃdhanuścaiva",
+     "gloss": "conch-sword-bow-and-also",
+     "grounds": "fused accusative list with ca and eva; sandhi fusion retained as one token",
+     "morph": "acc.sg.m+acc.sg.m+acc.sg.n+indecl."
+    },
+    {
+     "surface": "kapālaṃmusalaṃ",
+     "gloss": "skull-pestle",
+     "grounds": "fused accusative pair; no split despite sandhi-like junction",
+     "morph": "acc.sg.n+acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-so",
+     "grounds": "indeclinable connective closing the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which weapons and implements are enumerated as carried by the goddess?",
+   "premises": [
+    "The token lists conch, sword, and bow.",
+    "The token lists skull and pestle.",
+    "The final token adds and-so."
+   ],
+   "inference": "The verse enumerates conch, sword, bow, skull, and pestle among the goddess's implements.",
+   "uncertainties": [
+    "The fused token boundaries preserve editorial sandhi and are not expanded.",
+    "No explicit goddess name appears in this verse."
+   ],
+   "plain_english": "Conch, sword, bow, and also skull and pestle, and so on."
+  }
+ ]
+}

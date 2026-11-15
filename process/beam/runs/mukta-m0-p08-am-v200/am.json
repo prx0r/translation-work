@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p08",
  "verse": 200,
- "question": "What placement of the pellet between root tip and middle in a straight wall is being described?",
+ "question": "Which weapons and implements are enumerated as carried by the goddess?",
  "premises": [
-  "The token names placement of a pellet.",
-  "It is in ablative case.",
-  "It refers to root tip middle straight wall."
+  "The token lists conch, sword, and bow.",
+  "The token lists skull and pestle.",
+  "The final token adds and-so."
  ],
- "inference": "The verse specifies an ablative placement relation among root tip middle pellet straight wall.",
+ "inference": "The verse enumerates conch, sword, bow, skull, and pestle among the goddess's implements.",
  "uncertainties": [
-  "Exact syntactic role of each compound member is unclear."
+  "The fused token boundaries preserve editorial sandhi and are not expanded.",
+  "No explicit goddess name appears in this verse."
  ],
- "plain_english": "from the placement of the pellet between root, tip, and middle in a straight wall"
+ "plain_english": "Conch, sword, bow, and also skull and pestle, and so on."
 }

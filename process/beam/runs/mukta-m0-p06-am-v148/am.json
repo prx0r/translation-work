@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 148,
- "question": "What rank is assigned to the most essential knowledge among all well-guarded vidyās?",
+ "question": "What further weapons and objects are listed for this goddess?",
  "premises": [
-  "Many vidyās are well guarded.",
-  "One among them is most essential.",
-  "That one is singled out as supreme in essence."
+  "The verse names spear mallet trident.",
+  "It names thunderbolt.",
+  "It names conch then lotus."
  ],
- "inference": "Among all the well-guarded vidyās, one is identified as the most essential.",
- "uncertainties": [],
- "plain_english": "Among those well-guarded vidyās, whichever is the most essential has become supreme."
+ "inference": "This verse lists spear, mallet, trident, thunderbolt, conch, and lotus among her items.",
+ "uncertainties": [
+  "Compound boundaries are not fully resolved."
+ ],
+ "plain_english": "Spear, mallet, trident, thunderbolt, conch, and lotus."
 }

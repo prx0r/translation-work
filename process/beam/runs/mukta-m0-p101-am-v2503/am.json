@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2503,
- "question": "What quantity is consecrated by these together with the root?",
+ "question": "Which group of elemental deities is listed as drinkers?",
  "premises": [
-  "The verse says consecrated by these.",
-  "It adds consecrated by the root indeed.",
-  "It names the quantity thousand."
+  "The verse lists elemental names.",
+  "It ends with drinkers.",
+  "It forms a compound list."
  ],
- "inference": "A thousand is consecrated by these together with the root.",
+ "inference": "The verse enumerates elemental deities.",
  "uncertainties": [
-  "Whether sahasrakam refers to repetitions, offerings, or another counted item is not explicit."
+  "Compound boundaries are not split."
  ],
- "plain_english": "By these and indeed by the root, a thousand is consecrated."
+ "plain_english": "Elemental deities including earth, wind, and water are listed as drinkers."
 }

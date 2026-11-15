@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p11",
  "verse": 267,
- "question": "What trees are unsuitable due to birds, beasts, or cremation grounds?",
+ "question": "What color and worship context are specified for this goddess?",
  "premises": [
-  "many-bird-beast-inhabited is named",
-  "chaitya-path is named",
-  "cremation-ground-born is named"
+  "The verse addresses the goddess.",
+  "The final token gives color."
  ],
- "inference": "Trees inhabited by many birds and beasts or born in cremation grounds are unsuitable.",
+ "inference": "The red goddess is worshipped in Tripura.",
  "uncertainties": [
-  "exact unsuitability rule remains unresolved"
+  "Compound boundaries not expanded."
  ],
- "plain_english": "Trees inhabited by many birds and beasts or born in cremation grounds are unsuitable."
+ "plain_english": "In Tripura they worship the red goddess with lotus eyes and garland burden."
 }

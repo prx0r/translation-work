@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2716,
- "question": "What form of initiation is defined by the utterance of joined mantras?",
+ "question": "Which ritual or activity is prescribed for each zodiacal rising?",
  "premises": [
-  "Joined mantras are uttered.",
-  "This act is given a specific name."
+  "Verses assign rituals to zodiac risings.",
+  "Each rising has a prescribed activity."
  ],
- "inference": "The utterance of joined mantras is called vāgdīkṣā.",
- "uncertainties": [],
- "plain_english": "If he utters joined mantras, it is called speech-initiation."
+ "inference": "The passage maps zodiacal risings to prescribed activities.",
+ "uncertainties": [
+  "Fused sandhi tokens are kept whole."
+ ],
+ "plain_english": "It lists rituals suited to each zodiac rising."
 }

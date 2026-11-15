@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2789,
- "question": "What measure is prescribed from below that point to the end limit?",
+ "question": "What color is the woman in this zodiacal figure?",
  "premises": [
-  "The starting point is below the previously mentioned region.",
-  "The endpoint is the terminal limit.",
-  "The measure is a space unit with a barley grain."
+  "the verse names a woman",
+  "it gives her color"
  ],
- "inference": "The distance from below that point to the end limit is one space measure plus a barley grain.",
+ "inference": "the woman is gold-colored",
  "uncertainties": [
-  "The exact referent of tasmāt and the value of vyomamātraka depend on context."
+  "zodiac sign implicit"
  ],
- "plain_english": "From below that to the end limit, the measure is one space unit with a barley grain."
+ "plain_english": "The woman is gold-colored."
 }

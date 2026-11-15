@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p112",
  "verse": 2787,
- "question": "What breadth is prescribed for the root of the neck?",
+ "question": "What color is the man in this zodiacal figure?",
  "premises": [
-  "The subject is the root of the neck.",
-  "Its breadth is being specified.",
-  "The breadth is stated as eight fingers."
+  "the verse names a man",
+  "it gives his color"
  ],
- "inference": "The breadth of the root of the neck is eight fingers.",
- "uncertainties": [],
- "plain_english": "The breadth of the root of the neck is stated to be eight fingers."
+ "inference": "the man is white-colored",
+ "uncertainties": [
+  "zodiac sign implicit"
+ ],
+ "plain_english": "The man is white-colored."
 }
