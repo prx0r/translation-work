@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4322,
- "question": "On what support should the mantra, yantra, and garland be inscribed?",
+ "question": "How do sixty-four players and sixteen-eight relate to thus-pieces?",
  "premises": [
-  "The mantra, yantra, and garland are to be inscribed.",
-  "A specific support is named.",
-  "The support consists of nine aśvattha leaves."
+  "thus-pieces is named",
+  "sixty-four is named",
+  "players is named"
  ],
- "inference": "The mantra, yantra, and garland should be inscribed on nine aśvattha leaves.",
- "uncertainties": [],
- "plain_english": "On nine aśvattha leaves, inscribe the mantra, the yantra, and the garland."
+ "inference": "The verse gives counts for pieces and players.",
+ "uncertainties": [
+  "grouping unclear"
+ ],
+ "plain_english": "Thus pieces sixty-four, players sixteen-eight."
 }

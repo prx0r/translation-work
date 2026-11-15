@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p169",
  "verse": 4214,
- "question": "Which auspicious objects seen in dreams are listed as favorable signs?",
+ "question": "What game order is to be known as before?",
  "premises": [
-  "An elephant and a bull are listed.",
-  "A garland and an ocean are listed.",
-  "A fruit-bearing tree is listed."
+  "A game order is mentioned.",
+  "It is as before."
  ],
- "inference": "These objects are presented as auspicious signs when seen in dreams.",
- "uncertainties": [],
- "plain_english": "An elephant, a bull, a garland, an ocean, and a fruit-bearing tree."
+ "inference": "The game order is to be known as before.",
+ "uncertainties": [
+  "Compound parsing uncertain."
+ ],
+ "plain_english": "The game order is to be known as before."
 }

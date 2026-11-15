@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 673,
- "question": "What three classes of variants are associated with the ābhāsa type?",
+ "question": "What companions are described on the left?",
  "premises": [
-  "The terms jāti, chanda and vikalpa name variant classes.",
-  "These are presented together as a group.",
-  "They are related to the ābhāsa type."
+  "The verse gives left side.",
+  "Gaurī is mentioned.",
+  "Nandikeśin is mentioned."
  ],
- "inference": "The jāti, chanda and vikalpa variants are associated with the ābhāsa type.",
- "uncertainties": [],
- "plain_english": "O best of the twice-born, the jāti, chanda and vikalpa variants are associated with the ābhāsa."
+ "inference": "This verse describes left-side companions.",
+ "uncertainties": [
+  "Exact sandhi and case parsing not fully verified."
+ ],
+ "plain_english": "On the left are Gaurī and Nandikeśin."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p171",
  "verse": 4274,
- "question": "What result is obtained from performing the previously described procedure?",
+ "question": "Who plays the Mina game and defeats others?",
  "premises": [
-  "The procedure has been described in prior verses.",
-  "Ritual procedures yield specific results.",
-  "The result is identified as previously stated."
+  "mina named is stated",
+  "played is stated",
+  "with victory is stated"
  ],
- "inference": "The result is the one previously stated.",
- "uncertainties": [],
- "plain_english": "The result is as previously stated."
+ "inference": "The verse says the Mina game is played by one who defeats others with victory.",
+ "uncertainties": [
+  "subject unclear"
+ ],
+ "plain_english": "The Mina game is played by one who defeats others with victory."
 }

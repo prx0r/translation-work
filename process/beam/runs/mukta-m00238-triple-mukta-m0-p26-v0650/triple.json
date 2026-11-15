@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "gākautuṃburunāradau",
+     "gloss": "gā-kautuṃburu-nārada",
+     "grounds": "compound of names in dual nominative",
+     "morph": "m.nom.du (compound)"
+    },
+    {
+     "surface": "samurajaunaṃdī",
+     "gloss": "samuraja-unaṃdī",
+     "grounds": "compound name",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kumārastathā",
+     "gloss": "kumāra-and-thus",
+     "grounds": "sandhi kumāraḥ + tathā",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "rudronṛttakarassvabhāvajanitaṃ",
+     "gloss": "rudra-dance-maker-nature-born",
+     "grounds": "sandhi rudraḥ + nṛtta-karaḥ + svabhāva-janitam",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "nāṭyaṃ",
+     "gloss": "dance",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātunaḥ",
+     "gloss": "protect-us",
+     "grounds": "sandhi pātu + naḥ",
+     "morph": "3.sg.act.imp + pron.acc.pl"
+    },
+    {
+     "surface": "gauravarṇaḥ",
+     "gloss": "golden-color",
+     "grounds": "masculine nominative singular compound",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "Which divine dancers and attendants protect the devotee with naturally arisen dance?",
+   "premises": [
+    "Gā, Kautuṃburu, Nārada, Samuraja, Unaṃdī, Kumāra, and Rudra dance.",
+    "Rudra's dance is nature-born.",
+    "They always protect us."
+   ],
+   "inference": "The verse names a golden-colored protective dance assembly.",
+   "uncertainties": [
+    "Token boundaries and sandhi are taken as given; exact syntactic roles uncertain."
+   ],
+   "plain_english": "May Gā, Kautuṃburu, Nārada, Samuraja, Unaṃdī, Kumāra, and Rudra, whose dance is naturally arisen, always protect us; golden-colored."
+  }
+ ]
+}

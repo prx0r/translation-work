@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p20",
  "verse": 499,
- "question": "What becomes of one who dwells properly in that place?",
+ "question": "Which white form holds conch, disk, club, and lotus in specified hands?",
  "premises": [
-  "proper dwelling is commanded",
-  "that place is locative",
-  "all prosperity making is result"
+  "left upper hand holds conch",
+  "left lower hand holds disk",
+  "right lower hand holds club",
+  "right upper hand holds lotus",
+  "he is white-colored"
  ],
- "inference": "Proper dwelling in that place becomes all-prosperity-making.",
+ "inference": "The verse prescribes a white four-armed form with specified attributes.",
  "uncertainties": [
-  "exact place is contextual"
+  "exact deity identity"
  ],
- "plain_english": "Dwelling properly in that place becomes all-prosperity-making."
+ "plain_english": "The white form holds conch, disk, club, and lotus in the specified hands."
 }

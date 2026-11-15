@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4516,
- "question": "In what ritual context may this blue banner be employed?",
+ "question": "What is stated about the hundred-twenty-eighth house?",
  "premises": [
-  "The object is identified as this blue banner.",
-  "It is to be employed.",
-  "Its use is specified for the blue rite."
+  "hundred twenty eighth house is named",
+  "well heart etc is named"
  ],
- "inference": "This blue banner is to be employed in the blue rite.",
- "uncertainties": [],
- "plain_english": "Thus this blue banner is to be employed in the blue rite."
+ "inference": "The verse mentions well, heart, and related items for that house.",
+ "uncertainties": [
+  "fused token not split"
+ ],
+ "plain_english": "The hundred-twenty-eighth house mentions well, heart, and related items."
 }

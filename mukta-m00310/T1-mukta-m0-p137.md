@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[fair](gaurī) [lotus-born](padmāvatī) [plump](pīnā) [plump+breast+bud](pīnavakṣojakuṭmalā)
+[gaurī](gaurī) [padmāvatī](padmāvatī) [pīnā](pīnā) [pīna+vakṣoja+kuṭmalā](pīnavakṣojakuṭmalā)
 
 ## mukta-m0-p137-v3402
-[sparkling+jewel+garment+adorned](sphuradratnāṃśukhacitā) [jewel+circle+form](ratnamaṇḍalavigrahā)
+[sphurat+ratna+aṃśuka+citā](sphuradratnāṃśukhacitā) [ratna+maṇḍala+vigrahā](ratnamaṇḍalavigrahā)
 
 ## mukta-m0-p137-v3403
-[jewel+overwhelmed+radiance](ratnasaṃmūrchitābhā) [and](ca) [radiant](dīptā) [radiant+flame](dīptaśikhā) [compassion](dayā)
+[ratna+saṃmūrchitā+bhā](ratnasaṃmūrchitābhā) [ca](ca) [dīptā](dīptā) [dīpta+śikhā](dīptaśikhā) [dayā](dayā)
 
 ## mukta-m0-p137-v3404
-[terrific](bhairavī) [fearful+sound](bhīmanādā) [and](ca) [terrifying+face](bhayānakamukhī) [fortunate](bhagā)
+[bhairavī](bhairavī) [bhīma+nādā](bhīmanādā) [ca](ca) [bhayānaka+mukhī](bhayānakamukhī) [bhagā](bhagā)
 
 ## mukta-m0-p137-v3405
-[lady+of+bhaga](bhageśvarī) [abiding+in+bhaga](bhagasthā) [and](ca) [kurukulla](kurukullā) [slender+waist](kṛśodarī)
+[bhageśvarī](bhageśvarī) [bhaga+sthā](bhagasthā) [ca](ca) [kurukullā](kurukullā) [kṛśa+udarī](kṛśodarī)
 
 ## mukta-m0-p137-v3406
-[true](satī) [eloquent](sarasvatī) [truth](satyā) [truth+untruth+form](satyāsatyasvarūpiṇī)
+[satī](satī) [sarasvatī](sarasvatī) [satyā](satyā) [satyā+asatya+svarūpiṇī](satyāsatyasvarūpiṇī)
 
 ## mukta-m0-p137-v3407
-[lotus-woman](padminī) [lotus+face](padmavadanā) [lotus](padmā) [lotus+hand](padmakarā) [auspicious](śivā)
+[padminī](padminī) [padma+vadanā](padmavadanā) [padmā](padmā) [padma+karā](padmakarā) [śivā](śivā)
 
 ## mukta-m0-p137-v3408
-[excellent+form](varākṛti) [plump+form](pīvarākṛtiḥ)
+[varā+ākṛti](varākṛti) [pīvarā+ākṛtiḥ](pīvarākṛtiḥ)
 
 ## mukta-m0-p137-v3409
-[vina+song+dear](vīṇāgītapriyā) [verse](gāthā) [garuda-related](gāruḍī) [garuda+banner](garuḍadhvajā)
+[vīṇā+gīta+priyā](vīṇāgītapriyā) [gāthā](gāthā) [gāruḍī](gāruḍī) [garuḍa+dhvajā](garuḍadhvajā)
 
 ## mukta-m0-p137-v3410
-[curl](alakā) [heaven+middle+abiding](nākamadhyasthā) [heavenly](nākinī) [heavenly+worshipped](nākipūjitā)
+[alakā](alakā) [nāka+madhya+sthā](nākamadhyasthā) [nākinī](nākinī) [nāki+pūjitā](nākipūjitā)
 
 ## mukta-m0-p137-v3411
-[endless+endless+form](anantānantarūpā) [and](ca) [unknown](hyajñātā) [knowledge+increasing](jñānavardhinī)
+[anantā](anantā) [ananta+rūpā](anantarūpā) [ca](ca) [hyajñātā](hyajñātā) [jñāna+vardhinī](jñānavardhinī)
 
 ## mukta-m0-p137-v3412
-[twelve+sun+worshipped](dvādaśādityasaṃpūjyā) [shami](śamī) [shyamaka+seed](śyāmākabījinī)
+[dvādaśa+āditya+saṃpūjyā](dvādaśādityasaṃpūjyā) [śamī](śamī) [śyāmāka+bījinī](śyāmākabījinī)
 
 ## mukta-m0-p137-v3413
-[nectar+full](sudhāmayī) [nectar+form](sudhāmūrtiḥ) [nectar](sudhā) [all+pleasing](sarvapriyaṅkarī)
+[sudhā+mayī](sudhāmayī) [sudhā+mūrtiḥ](sudhāmūrtiḥ) [sudhā](sudhā) [sarva+priyaṅkarī](sarvapriyaṅkarī)
 
 ## mukta-m0-p137-v3414
-[svaha](svāhā) [svaha+lord+eye](svāheśanetrā) [and](ca) [fire+crooked+fire+offered](hyagnivakrāgnitarpitā)
+[svāhā](svāhā) [svāha+īśa+netrā](svāheśanetrā) [ca](ca) [hyagni+vakrā+agni+tarpitā](hyagnivakrāgnitarpitā)
 
 ## mukta-m0-p137-v3415
-[earth+god+worshipped](bhūmirbhūdevapūjyā) [and](ca) [self-born](svayambhūḥ) [self+soul+worshipper](svātmapūjakā)
+[bhūmiḥ](bhūmirbhūdevapūjyā) [bhū+deva+pūjyā](bhūdevapūjyā) [ca](ca) [svayambhūḥ](svayambhūḥ) [svātma+pūjakā](svātmapūjakā)
 
 ## mukta-m0-p137-v3416
-[bliss+sprout](ānandakandalī) [bulb](kandā) [skanda+mother](skandamātā) [stone+abode](śilālayā)
+[ānanda+kandalī](ānandakandalī) [kandā](kandā) [skanda+mātā](skandamātā) [śilā+ālayā](śilālayā)
 
 ## mukta-m0-p137-v3417
-[obstacle+lady](vighneśvarī) [ganesha+female](gaṇeśānī) [obstacle+destroying](vighnavidhvaṃsinī) [night](niśā)
+[vighneśvarī](vighneśvarī) [gaṇeśānī](gaṇeśānī) [vighna+vidhvaṃsinī](vighnavidhvaṃsinī) [niśā](niśā)
 
 ## mukta-m0-p137-v3418
-[scripture+rule+knowing](śāstravidhānavijñā) [and](ca) [veda+weapon+meaning+skilled](vedaśastrārthakovidā)
+[śāstra+vidhāna+vijñā](śāstravidhānavijñā) [ca](ca) [veda+śastra+artha+kovidā](vedaśastrārthakovidā)
 
 ## mukta-m0-p137-v3419
-[bride+form](vadhūrūpā) [bride+worshipped](vadhūpūjyā) [bride+drink+satisfied](vadhūpānapratarpitā)
+[vadhū+rūpā](vadhūrūpā) [vadhū+pūjyā](vadhūpūjyā) [vadhū+pāna+pratarpitā](vadhūpānapratarpitā)
 
 ## mukta-m0-p137-v3420
-[left](vāmā) [left+lady](vāmeśvarī) [leftish](vāmyā) [kula+akula+discerning](kulākulavicāriṇī)
+[vāmā](vāmā) [vāmeśvarī](vāmeśvarī) [vāmyā](vāmyā) [kula+akula+vicāriṇī](kulākulavicāriṇī)
 
 ## mukta-m0-p137-v3421
-[sacrifice+lady](yajñeśvarī) [sacrifice+face](yajñamukhā) [sacrificer](yājakā) [sacrifice+vessel](yajñapātrakā)
+[yajñeśvarī](yajñeśvarī) [yajña+mukhā](yajñamukhā) [yājakā](yājakā) [yajña+pātrakā](yajñapātrakā)
 
 ## mukta-m0-p137-v3422
-[pilampilā](pilampilā) [foot+place](padasthānā) [foot+giving](padadā) [hell+ender](narakāntakā)
+[pilampilā](pilampilā) [pada+sthānā](padasthānā) [pada+dā](padadā) [naraka+antakā](narakāntakā)
 
 ## mukta-m0-p137-v3423
-[kama+lady](kāmeśvarī) [rati+invocation+offering+oblation+carrier](ratirhūtirāhutirhavyavāhanā)
+[kāmeśvarī](kāmeśvarī) [ratiḥ](ratirhūtirāhutirhavyavāhanā) [hūtiḥ](ratirhūtirāhutirhavyavāhanā) [āhutiḥ](ratirhūtirāhutirhavyavāhanā) [havya+vāhanā](ratirhūtirāhutirhavyavāhanā)
 
 ## mukta-m0-p137-v3424
-[hapusha](hapuṣā) [heaven+path+physician](svargatirvaidyā) [good+face](sumukhā) [and](ca) [great+herb](mahauṣadhiḥ)
+[ha+puṣā](hapuṣā) [svarga+tir](svargatirvaidyā) [vaidyā](svargatirvaidyā) [su+mukhā](sumukhā) [ca](ca) [mahā+auṣadhiḥ](mahauṣadhiḥ)
 
 ## mukta-m0-p137-v3425
-[honey+abiding](madhusthitā) [honey+full](madhumayī) [honey+giving+skilled](madhudānaviśāradā)
+[madhu+sthitā](madhusthitā) [madhu+mayī](madhumayī) [madhu+dāna+viśāradā](madhudānaviśāradā)

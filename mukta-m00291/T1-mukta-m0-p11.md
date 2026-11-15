@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-i-know known gauri by-brahma and known
+[I-know](jānehaṃ) [known](jānitā) [Gauri](gaurī) [by-Brahma-too](brahmaṇāpi) [and](ca) [known](jānitā)
+
 ## mukta-m0-p11-v252
-thus having-known again-gauri afterwards-shri-goraksha five
+[thus](iti) [having-known](jñātvā) [again-Gauri](punargaurī) [afterwards-Sri-Goraksha](paścācchrīgorakṣā) [five](paṃca)
+
 ## mukta-m0-p11-v253
-in-detail hear o-gori goraksha-name-thousand
+[in-detail](vistarāt) [hear](śṛṇu) [O](bho) [Gauri](gorī) [Goraksha-name-thousand](gorakṣanāmasahasrakam)
+
 ## mukta-m0-p11-v254
-from-a to-a afterwards-names filled
+[from-a](akārādi) [to-a](akārāntaḥ) [afterwards-names](paścānnāmāni) [filled](pūritaḥ)
+
 ## mukta-m0-p11-v255
-time-and-timeless kalpa-destroyer kalpa-lord
+[time-death](kālokāla) [fragment-era](khaṇḍakalpāṇa) [era-lord](kalpakeśvaraḥ)
+
 ## mukta-m0-p11-v256
-krim-mantra-form and krim mantra-maker
+[krim-mantra-form-and](kriṃkāramaṃtrarūpaśca) [krim-mantra](krīṁkāra) [mantra-maker](maṃtrakārakaḥ)
+
 ## mukta-m0-p11-v257
-mountain-dweller and mountain-form
+[hand-mountain-dweller](karaparvata) [and](vāsī) [ca](ca) [hand-mountain-form](karaparvata) [rūpaka](rūpakaḥ)
+
 ## mukta-m0-p11-v258
-clan-teacher clan-supporter as-you
+[family-teacher](kulācārya) [family-support](kulaṃdhara) [family-support-as](kulaṃdharayathā) [you](bhavān)
+
 ## mukta-m0-p11-v259
-art-lord time-lord clan-lord lord-of-wicked
+[art-lord](kalānatha) [time-lord](kālanātha) [family-lord](kulanātha) [lord-of-the-wicked](khaleśvaraḥ)
+
 ## mukta-m0-p11-v260
-khim khim seed-form and khim seed-proclaimer
+[khim-khim-seed-form](khiṁ) [khrim-seed-proclaimer](khriṁkāra) [bījavādinaḥ](bījavādinaḥ)
+
 ## mukta-m0-p11-v261
-khe-sound sky-dweller and sky-lord wicked-faller
+[khe-sound](khekāra) [khe-dweller](khenivāsaśca) [khe-lord](khenātha) [wicked-faller](khalapātakaḥ)
+
 ## mukta-m0-p11-v262
-khasa-maker khasa-haired khasa-eyed khasa-faced
+[kha-sound](khasakāra) [kha-haired](khasakeśa) [kha-eyed](khasanetra) [kha-faced](khaso) [mukha](mukhaḥ)
+
 ## mukta-m0-p11-v263
-destroyer-lord hoof-lord hoof-lord hoof-master
+[fragment-lord](khaṇḍanātha) [hoof-lord](khūranātha) [hoof-lord](khūreśvara) [hoof-chief](khurādhipaḥ)
+
 ## mukta-m0-p11-v264
-cow eye-gana-lord dha-gana-indra gana-leader
+[go-eye-host-lord](go) [netragaṇanātha](netragaṇanātha) [dha-gaṇendra](dhagaṇeṃdra) [gaṇa-leader](gaṇanāyaka)
+
 ## mukta-m0-p11-v265
-gnim gnim seed-form and gnim seed-proclaimer
+[gnim-gnim-seed-form](gnīṁ) [gnim-mantra-seed-proclaimer](gnīṁkāra) [bījavādinaḥ](bījavādinaḥ)
+
 ## mukta-m0-p11-v266
-gaya-pinda form and gaya-asura-revealer
+[Gayā-lump-form](gayāpiṇḍa) [svarūpa](svarūpaśca) [Gayāsura-manifest](gayāsuraprakāśakaḥ)
+
 ## mukta-m0-p11-v267
-scent-lord scent-bearer scent-madana cow-head
+[sandal-lord](gaṃdheśvara) [sandal-bearer](gaṃdhavāhā) [sandal-Madana](gaṃdhamādana) [go-head](go) [śiraḥ](śiraḥ)
+
 ## mukta-m0-p11-v268
-ganges-lord ganges-king ganges-supporter gana-ender
+[Ganga-lord](gaṃgānātha) [Ganga-king](gaṃgarāja) [Ganga-holder](gaṃgādha) [gaṇa-ender](gaṇāntakaḥ)
+
 ## mukta-m0-p11-v269
-bell-handed bell-eared bell-formed pot-lord
+[bell-handed](ghaṃṭahasta) [bell-eared](ghaṃṭakarṇa) [bell-formed](ghaṃṭamūrti) [pot-lord](ghaṭeśvaraḥ)
+
 ## mukta-m0-p11-v270
-dense-letter dense-teacher ganesha gana-ender
+[dense-syllable](ghanākṣara) [dense-teacher](ghanācārya) [Ghana-lord](ghaṇeśvara) [Ghana-ender](ghaṇāṃtakaḥ)
+
 ## mukta-m0-p11-v271
-pot-mountain dweller and pot-destroyer gavarasaka
+[pot-mountain-dweller](ghaṭaparvata) [and](vāsī) [ca](ca) [pot-killer](ghaṭoghni) [Gāvara-saka](gāvarasakaḥ)
+
 ## mukta-m0-p11-v272
-compassion knowledge and ghom-sound compassion radiance likewise
+[compassion-knowledge](ghṛṇi) [vidyā](vidyā) [ca](ca) [ghom-sound](ghoṁkāra) [compassion-radiance-thus](ghṛṇi) [tejasamastathā](tejasamastathā)
+
 ## mukta-m0-p11-v273
-nge ranga pot-nge-form nge ta mountain-maker
+[ṅe-rāṅa-pot-form](ṅe) [rāṅa](rāṅa) [poṭaṅākāra](poṭaṅākāra) [ṅa-ṭa-mountain-maker](ṅa) [ṭa](ṭa) [parvatakārakaḥ](parvatakārakaḥ)
+
 ## mukta-m0-p11-v274
-nge sima-ear-maker and ear-splitter form
+[ṅa-simā-ear-maker](ṅa) [simākarṇakāraśca](simākarṇakāraśca) [ear-splitter-form](karṇaphāṭaka) [mūrtinā](mūrtinā)
+
 ## mukta-m0-p11-v275
-chandi chandi lord fierce fierce-killer
+[Caṇḍikā](caṇḍikā) [Caṇḍikā-lord](caṇḍikā) [nātha](nātha) [fierce](caṇḍaścaṇḍa) [striker](ghātakaḥ)

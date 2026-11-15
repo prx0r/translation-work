@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4505,
- "question": "What ritual sequence must follow worship of the deity in that location?",
+ "question": "What happens in the eighty-first house when a wife leaves her husband?",
  "premises": [
-  "The deity is to be worshipped there.",
-  "Worship precedes recitation.",
-  "The supreme mantra is to be recited."
+  "eighty-first house is named",
+  "leaving husband is named",
+  "another man is named"
  ],
- "inference": "After worshipping the deity there, one should recite the supreme mantra.",
- "uncertainties": [],
- "plain_english": "Having worshipped the god there as well, one should recite the supreme mantra."
+ "inference": "The verse describes a wife leaving her husband for another man in that house.",
+ "uncertainties": [
+  "fused token not split"
+ ],
+ "plain_english": "In the eighty-first house, a wife leaves her husband for another man."
 }

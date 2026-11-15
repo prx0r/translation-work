@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p174",
+ "items": [
+  {
+   "verse": 4350,
+   "rows": [
+    {
+     "surface": "burajākhyaṃ",
+     "gloss": "buraja-named",
+     "grounds": "adjective modifying dalaṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dalaṃ",
+     "gloss": "petal",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "indeed-thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣkaṃ",
+     "gloss": "fourfold",
+     "grounds": "numeral adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt (as)"
+    },
+    {
+     "surface": "dalāntare",
+     "gloss": "between-petals",
+     "grounds": "locative of dalāntara",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How many Buraja-named petals occur between adjacent petals in this diagram?",
+   "premises": [
+    "Buraja-named petal is fourfold.",
+    "It lies between petals."
+   ],
+   "inference": "Thus four Buraja petals sit between petals.",
+   "uncertainties": [
+    "Exact diagram referent unclear."
+   ],
+   "plain_english": "A petal called Buraja, indeed, fourfold, would be between petals."
+  }
+ ]
+}

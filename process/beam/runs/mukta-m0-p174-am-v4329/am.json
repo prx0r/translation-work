@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p174",
  "verse": 4329,
- "question": "What worldly benefits accompany the attainments described in this sequence?",
+ "question": "Who is described as filled with Sri Chamunda's grace?",
  "premises": [
-  "Fame is listed as an attainment",
-  "Gain of vehicles and ornaments is listed",
-  "Very long life is listed"
+  "Sri Chamunda grace is mentioned",
+  "Krishna Raja earth lord is mentioned"
  ],
- "inference": "The attainments include fame, material gains, and long life.",
- "uncertainties": [],
- "plain_english": "There is fame, the gain of vehicles, ornaments, and the like, and a very long life."
+ "inference": "Krishna Raja is described as filled with grace.",
+ "uncertainties": [
+  "compound parsing uncertain"
+ ],
+ "plain_english": "Krishna Raja is filled with Sri Chamunda's grace."
 }

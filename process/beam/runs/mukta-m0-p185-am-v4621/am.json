@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4621,
- "question": "What ritual actions must be completed for her before proceeding further?",
+ "question": "How are the ritual grid cells counted and arranged in this passage?",
  "premises": [
-  "A consecration is performed there",
-  "Something is offered to her",
-  "These acts precede further steps"
+  "grid cells are counted",
+  "arrangement follows stated order"
  ],
- "inference": "One should perform the consecration there and offer it to her before continuing",
+ "inference": "the passage specifies grid counts and positions",
  "uncertainties": [
-  "The object of nivedya is not explicitly stated"
+  "surface fidelity only"
  ],
- "plain_english": "Having performed the consecration there and having offered it to her."
+ "plain_english": "This passage gives ritual grid counts and positions."
 }

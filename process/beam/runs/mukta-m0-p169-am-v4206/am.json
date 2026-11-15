@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p169",
  "verse": 4206,
- "question": "Through whose grace is accomplishment of the rite sought?",
+ "question": "Which leaf is fish-marked in the Mohini class parts?",
  "premises": [
-  "The speaker intends to accomplish the action.",
-  "The accomplishment depends on grace.",
-  "Maheśvara is addressed as the source of grace."
+  "Mohini class parts are discussed.",
+  "A leaf is fish-marked."
  ],
- "inference": "Success in the rite is sought through the grace of Maheśvara.",
- "uncertainties": [],
- "plain_english": "O Maheśvara, by your grace I will accomplish the success of the rite."
+ "inference": "The fish-marked leaf belongs to the Mohini class parts.",
+ "uncertainties": [
+  "Compound segmentation uncertain."
+ ],
+ "plain_english": "In the Mohini class parts, the leaf is fish-marked."
 }

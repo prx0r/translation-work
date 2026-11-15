@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 668,
- "question": "How is the height division graded for each storey in this scheme?",
+ "question": "What ornaments and garment are attributed to the described form?",
  "premises": [
-  "Height divisions are distinguished.",
-  "Three grades are recognized: lowest, middle and highest.",
-  "The grading applies to each storey."
+  "The verse mentions all ornaments.",
+  "The form is endowed.",
+  "Tiger skin upper garment is included."
  ],
- "inference": "For each storey, the height division is classified as lowest, middle or highest.",
- "uncertainties": [],
- "plain_english": "For each storey, the height division is graded as lowest, middle or highest."
+ "inference": "This verse describes ornamentation and tiger-skin garment.",
+ "uncertainties": [
+  "Exact sandhi and case parsing not fully verified."
+ ],
+ "plain_english": "The form is endowed with all ornaments and tiger-skin upper garment."
 }

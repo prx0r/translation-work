@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4311,
- "question": "Into what mixture should the written mantra be cast?",
+ "question": "What play of English coverings is declared?",
  "premises": [
-  "The written mantra is the object.",
-  "A mixture of milk, ghee, honey, and water is prepared.",
-  "The mantra is cast into its middle."
+  "english-coverings is named",
+  "play is named",
+  "this-play is named"
  ],
- "inference": "The written mantra should be cast into the middle of milk, ghee, honey, and water.",
- "uncertainties": [],
- "plain_english": "One should cast that written mantra into the middle of milk, ghee, honey, and water."
+ "inference": "The verse declares a play.",
+ "uncertainties": [
+  "rules unclear"
+ ],
+ "plain_english": "This play of English coverings is declared."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p98-v2426
-[self-abiding](ātmasaṃsthañca) [knowable](vijñeyam) [formless](arūpañca) [unestablished](apratiṣṭhitam)
+[self-abiding](ātmasaṃstham) [and](ca) [knowable](vijñeyam) [formless](arūpam) [and](ca) [unestablished](apratiṣṭhitam)
 
 ## mukta-m0-p98-v2427
-[unborn](ajañca) [endless-form](anantarūpañca) [without-gotra-father-mother](agotrapitṛmātṛkam)
+[unborn](ajaṃ) [and](ca) [endless-form](anantarūpam) [and](ca) [without-clan-father-mother](agotrapitṛmātṛkam)
 
 ## mukta-m0-p98-v2428
-[beginningless-middle-endless](anādimadhyanidhanam) [immovable](acālyam) [unmoving](acalaṃ) [firm](dhruvam)
+[beginningless-middle-end](anādimadhyanidhanam) [unmovable](acālyam) [immovable](acalam) [constant](dhruvam)
 
 ## mukta-m0-p98-v2429
-[equal](samañca) [in-all-beings](sarvabhūteṣu) [always](satataṃ) [all-pervading-body](vitatantanum)
+[equal](samam) [and](ca) [in-all-beings](sarvabhūteṣu) [always](satatam) [pervading-body](vitatantanum)
 
 ## mukta-m0-p98-v2430
-[pure](nirmalaṃ) [without-ego](nirahaṅkāraṃ) [without-intellect](nirbuddhiñca) [without-senses](nirindriyam)
+[pure](nirmalam) [egoless](nirahaṅkāram) [mindless](nirbuddhim) [and](ca) [senseless](nirindriyam)
 
 ## mukta-m0-p98-v2431
-[ever-rising](nityodayaṃ) [without-appearance](nirābhāsaṃ) [without-doubt](nirvikalpaṃ) [without-disease](nirāmayam)
+[eternal-rising](nityodayam) [reflectionless](nirābhāsam) [conceptless](nirvikalpam) [diseaseless](nirāmayam)
 
 ## mukta-m0-p98-v2432
-[not-low](na+nimnaṃ) [not-held](nodhritaṃ) [not-crooked](na+vakram) [not-straight](na+ṛjuḥ)
+[not-low](na-nimnam) [not-held](nodhritam) [and](ca) [eva](eva) [not-crooked](na-vakram) [and](ca) [or](vā) [straight](ṛjuḥ)
 
 ## mukta-m0-p98-v2433
-[not-triangle](na+trikoṇaṃ) [not-square](catuṣkoṇaṃ) [not-round](na+parimaṇḍalam)
+[not-triangle](na-trikoṇam) [quadrangle](catuṣkoṇam) [not](na) [and](ca) [eva](eva) [circular](parimaṇḍalam)
 
 ## mukta-m0-p98-v2434
-[not-hidden](na+parokṣaṃ) [not-manifest](samakṣañca) [not-motion](na+gatiḥ) [not-motion](na+gatiḥ)
+[not-indirect](na-parokṣam) [direct](samakṣam) [and](ca) [not-movement](na-gatiḥ) [not](na) [and](ca) [or](vā) [movement](gatiḥ)
 
 ## mukta-m0-p98-v2435
-[not-is](na+cāsti) [not-is-not](na+cā+vā+nāsti) [all-abiding](sarvasthaṃ) [what-unseated](kimavīṣṭhitam)
+[not](na) [and](ca) [is](asti) [not](na) [and](ca) [or](vā) [is-not](nāsti) [all-pervading](sarvastham) [what-unestablished](kimavīṣṭhitam)
 
 ## mukta-m0-p98-v2436
-[not-other-proof](na+paraṃ+pratyayaṃ) [knowable](vedyam) [not-other](nāparaṃ) [anything](kiñcid) [said](ucyate)
+[not-supreme](na-param) [cognition](pratyayam) [knowing](vedyan) [not-other](nāparam) [anything](kiñcit) [is-said](ucyate)
 
 ## mukta-m0-p98-v2437
-[there](tatra) [not-born](na+jāyate) [creation](sṛṣṭiḥ) [dissolution](saṃhāraḥ) [not-born](na+eva+jāyate)
+[not](na) [there](tatra) [arises](jāyate) [creation](sṛṣṭiḥ) [dissolution](saṃhāraḥ) [not](na) [eva](eva) [arises](jāyate)
 
 ## mukta-m0-p98-v2438
-[imperishable](avyayañca) [firm](dhruvam) [eternal](nityam) [incomparable](anaupamyam) [diseaseless](anāmayam)
+[imperishable](avyayam) [and](ca) [constant](dhruvam) [eternal](nityam) [incomparable](anaupamyam) [diseaseless](anāmayam)
 
 ## mukta-m0-p98-v2439
-[always-peaceful](sadā+śāntaṃ) [well-liberated](sunirvāṇaṃ) [fully-satisfied](paritṛptañca) [everywhere](sarvataḥ)
+[always](sadā) [peaceful](śāntam) [well-liberated](sunirvāṇam) [satisfied](paritṛptam) [and](ca) [everywhere](sarvataḥ)
 
 ## mukta-m0-p98-v2440
-[not-eatable](abhojyañca) [not-eaten](abhuktañca) [clear](svacchañca) [well-pure](sunirmalam)
+[not-eatable](abhojyam) [and](ca) [api](api) [not-eaten](abhuktam) [and](ca) [pure](svaccham) [and](ca) [eva](eva) [well-pure](sunirmalam)
 
 ## mukta-m0-p98-v2441
-[without-dharma-adharma-gunas](dharmādharmaguṇaihīnaṃ) [not-supported](saṃśritaṃ+na) [by-anyone](kenacit)
+[devoid-of-dharma-adharma-guṇas](dharmādharmaguṇaihīnam) [supported](saṃśritam) [not](na) [and](ca) [by-anyone](kenacit)
 
 ## mukta-m0-p98-v2442
-[passionless](virajaṃ) [dustless](cārajaṃ) [pure](śuddhaṃ) [auspicious-dharma](śivadharma) [entering](paviśca) [which](yat)
+[passionless](virajam) [and](ca) [dustless](arajam) [pure](śuddham) [śiva-dharma](śivadharma) [pavi](pavi) [and](ca) [yat](yat)
 
 ## mukta-m0-p98-v2443
-[free-from-fault](dūṣaṇādoṣarahitaṃ) [not-moving](na+calaṃ) [not-shaken](nāvacālitam)
+[free-from-fault-defect](dūṣaṇādoṣarahitam) [not-moving](na-calam) [not-shaken](nāvacālitam)
 
 ## mukta-m0-p98-v2444
-[endless-subtle](anantanahanaṃ) [subtle](sūkṣmaṃ) [beyond-measure-mark](pramāṇātītalakṣaṇam)
+[endless-slaying](anantanahanam) [subtle](sūkṣmam) [beyond-measure-characteristic](pramāṇātītalakṣaṇam)
 
 ## mukta-m0-p98-v2445
-[all-cause-dharma](sarvakāraṇadharmañca) [beyond-cause-mark](kāraṇātītalakṣaṇam)
+[all-cause-dharma](sarvakāraṇadharmam) [and](ca) [beyond-cause-characteristic](kāraṇātītalakṣaṇam)
 
 ## mukta-m0-p98-v2446
-[not-knowable](na+ca+tacchakyate+jñātuṃ) [without-grace](vinā+tasyāpyanugrahāt)
+[not](na) [and](ca) [that](tat) [can-be](śakyate) [known](jñātum) [without](vinā) [its](tasya) [api](api) [grace](anugrahāt)
 
 ## mukta-m0-p98-v2447
-[from-guru-mouth](guruvaktrāttu) [obtained](labhyeta) [by-his-power](tacchaktyā) [impelled](saṃpracoditāt)
+[from-guru-mouth](guruvaktrāt) [tu](tu) [obtained](labhyeta) [by-its-power](tacchaktyā) [impelled](saṃpracoditāt)
 
 ## mukta-m0-p98-v2448
-[who-surrenders](yaḥ+prapadyed) [this-all](idaṃ+sarvaṃ) [known](jñātaṃ) [by-him](tenāpi) [everywhere](sarvataḥ)
+[who](yaḥ) [surrenders](prapadyet) [this](idam) [all](sarvam) [known](jñātam) [by-him](tena) [api](api) [everywhere](sarvataḥ)
 
 ## mukta-m0-p98-v2449
-[that-spoken](tadīryate) [here](atra) [by-distinction](bhedena) [by-mind](manasā) [in-mindlessness](tu+manonmanau)
+[by-that](tad) [is-spoken](īryate) [here](atra) [with-distinction](bhedena) [by-mind](manasā) [tu](tu) [in-mind-transcendence](manonmanau)
 
 ## mukta-m0-p98-v2450
-[impure](aśuddhaṃ) [pure-principle](śuddhatatvantu) [from-sky-nectar-born](vyomāmṛtapadodbhavaḥ)
+[impure](aśuddham) [pure-principle](śuddhatatvam) [tu](tu) [sky-nectar-foot-born](vyomāmṛtapadodbhavaḥ)

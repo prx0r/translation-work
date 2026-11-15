@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4509,
- "question": "What visual attributes characterize the deity invoked in this visualization?",
+ "question": "What kinship is mentioned for the ninety-numbered house?",
  "premises": [
-  "The deity is described as blue.",
-  "She bears a blue banner.",
-  "She has a lolling tongue and is terrifying."
+  "ninety numbered house is named",
+  "mother sister etc is named",
+  "kinship is named"
  ],
- "inference": "The invoked deity is visualized as blue, bearing a blue banner, with a lolling tongue, and terrifying.",
- "uncertainties": [],
- "plain_english": "Blue, bearing a blue banner, with a lolling tongue, and terrifying."
+ "inference": "The verse mentions kinship with mother, sister, and others in that house.",
+ "uncertainties": [
+  "fused token not split"
+ ],
+ "plain_english": "In the ninety-numbered house, kinship with mother, sister, and others is mentioned."
 }

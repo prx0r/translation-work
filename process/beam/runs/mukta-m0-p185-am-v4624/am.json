@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4624,
- "question": "On which days should a human skull be gathered for the rite?",
+ "question": "How are the ritual grid cells counted and arranged in this passage?",
  "premises": [
-  "A human skull is required",
-  "Tuesday is a suitable day",
-  "Saturday is an alternative suitable day"
+  "grid cells are counted",
+  "arrangement follows stated order"
  ],
- "inference": "A human skull should be gathered on a Tuesday or on a Saturday",
+ "inference": "the passage specifies grid counts and positions",
  "uncertainties": [
-  "The ritual use of the gathered skull is not stated in this verse"
+  "surface fidelity only"
  ],
- "plain_english": "On a Tuesday or on a Saturday, a human skull should be gathered."
+ "plain_english": "This passage gives ritual grid counts and positions."
 }

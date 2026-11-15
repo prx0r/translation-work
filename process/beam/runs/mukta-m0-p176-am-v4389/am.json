@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p176",
  "verse": 4389,
- "question": "To whom is the reverential salutation directed in this formula?",
+ "question": "How many squares join the fifth wall?",
  "premises": [
-  "A salutation is being expressed.",
-  "The recipient is identified as that Rudra.",
-  "The formula takes the form of homage."
+  "Thirty-two squares are named",
+  "The fifth wall is named",
+  "It is joined with squares"
  ],
- "inference": "Homage is directed to that Rudra.",
- "uncertainties": [],
- "plain_english": "Homage be to that Rudra."
+ "inference": "The fifth wall is joined with thirty-two squares.",
+ "uncertainties": [
+  "The exact board geometry is not explicit"
+ ],
+ "plain_english": "The fifth wall is joined with thirty-two squares."
 }

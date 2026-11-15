@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p29",
  "verse": 711,
- "question": "What is suitable for people in the varshala linga?",
+ "question": "For whose joy is the sword-handed sharp-fanged Sharva-named form?",
  "premises": [
-  "people-suitable is specified",
-  "seven-parts-first is used"
+  "sword-handed is stated",
+  "sharp-fanged is stated",
+  "Sharva-named is stated",
+  "joy is mine"
  ],
- "inference": "the varshala linga is people-suitable with seven parts first",
+ "inference": "The verse assigns the fierce Sharva form to the speaker's joy.",
  "uncertainties": [
-  "exact social class unclear"
+  "compound internal members not split"
  ],
- "plain_english": "The varshala linga is suitable for people with seven parts first."
+ "plain_english": "The sword-handed, sharp-fanged Sharva-named form is for my joy."
 }

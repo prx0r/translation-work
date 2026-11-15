@@ -1,14 +1,14 @@
 {
  "song": "mukta-m0-p29",
  "verse": 708,
- "question": "When does the rule of three become all-equal?",
+ "question": "What color is assigned to this form?",
  "premises": [
-  "rule of three is named",
-  "all-equal applies in that case"
+  "color is yellow",
+  "form is named"
  ],
- "inference": "the rule of three becomes all-equal under the stated condition",
+ "inference": "The verse states the color yellow.",
  "uncertainties": [
-  "condition not fully specified"
+  "referent of form is contextual"
  ],
- "plain_english": "The rule of three becomes all-equal in that case."
+ "plain_english": "The color is yellow."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p174",
  "verse": 4327,
- "question": "Which supernatural beings become subject to attraction as a siddhi?",
+ "question": "How many dice are proclaimed for play among sixteen?",
  "premises": [
-  "Attraction is named as an attainment",
-  "Women of the gods are included",
-  "Women of the nāgas are likewise included"
+  "sixteen are mentioned",
+  "play is mentioned",
+  "one is proclaimed"
  ],
- "inference": "The siddhi of attraction extends to both divine women and nāga women.",
- "uncertainties": [],
- "plain_english": "One gains the power to attract the women of the gods and likewise the women of the nāgas."
+ "inference": "One die is proclaimed for play among sixteen.",
+ "uncertainties": [
+  "compound parsing uncertain"
+ ],
+ "plain_english": "One die is proclaimed for play among sixteen."
 }

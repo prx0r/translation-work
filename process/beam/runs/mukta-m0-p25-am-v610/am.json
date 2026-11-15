@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 610,
- "question": "What heating action is performed using fire and smoke in this sequence?",
+ "question": "What is to be made on the left side?",
  "premises": [
-  "Fire and smoke are used as means.",
-  "A heating action is to be performed.",
-  "The action is completed before proceeding."
+  "left is stated",
+  "dead pot is stated",
+  "to be made is stated"
  ],
- "inference": "Having performed heating with fire and smoke, one proceeds to the next step.",
- "uncertainties": [],
- "plain_english": "Thus, having performed heating with fire and smoke, one proceeds further."
+ "inference": "A dead pot is to be made on the left side.",
+ "uncertainties": [
+  "rājan may be address"
+ ],
+ "plain_english": "A dead pot is to be made on the left side."
 }

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "hastāgrākḷpta pāśāṃkuśaradavaradonāgavaktro",
+     "gloss": "hand-held-noose-goad-radish-boon-elephant-face",
+     "grounds": "compound describing Ganesha's attributes",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi bhūṣodevaḥ",
+     "gloss": "indeed-ornamented-god",
+     "grounds": "hi indeclinable plus bhūṣodevaḥ",
+     "morph": "indecl. + m.nom.sg"
+    },
+    {
+     "surface": "padmāsanasthobhavatu",
+     "gloss": "lotus-seat-situated-may-he-be",
+     "grounds": "compound with optative bhavatu",
+     "morph": "m.nom.sg + 3.sg.act.opt. (bhū)"
+    },
+    {
+     "surface": "sukhakarobhūtaye",
+     "gloss": "happiness-causing-for-welfare",
+     "grounds": "compound in dative sense",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vighnarājaḥ",
+     "gloss": "obstacle-king",
+     "grounds": "compound epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-colored",
+     "grounds": "compound color epithet",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which red-colored obstacle-king form of Ganesha is described as lotus-seated, ornamented, and holding noose, goad, radish, and boon?",
+   "premises": [
+    "The verse names vighnarājaḥ as the deity.",
+    "It gives raktavarṇaḥ as his color.",
+    "It places him padmāsanasthaḥ and calls him bhūṣodevaḥ."
+   ],
+   "inference": "The verse presents a specific red-colored, lotus-seated, ornamented form of Ganesha for welfare.",
+   "uncertainties": [
+    "The fused first token contains multiple attributes in one compound.",
+    "The exact ritual or textual source is not specified in this verse."
+   ],
+   "plain_english": "May the red-colored obstacle-king, ornamented god, seated on a lotus, with elephant face and hand-held noose, goad, radish, and boon, bring welfare."
+  }
+ ]
+}

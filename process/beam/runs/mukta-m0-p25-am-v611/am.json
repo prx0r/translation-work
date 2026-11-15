@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 611,
- "question": "What must be done with incense again after it has been fanned?",
+ "question": "What do the other two hands bear and what color results?",
  "premises": [
-  "The incense has been fanned.",
-  "The action is to be repeated.",
-  "The incense must be spread."
+  "other two hands are stated",
+  "bilva and conch bearing is stated",
+  "emerald-colored is stated"
  ],
- "inference": "After fanning the incense, one should spread the incense again.",
- "uncertainties": [],
- "plain_english": "Having fanned the incense thus, one should again spread the incense."
+ "inference": "The other two hands bear bilva and conch, and the color is emerald.",
+ "uncertainties": [
+  "compound not split"
+ ],
+ "plain_english": "The other two hands bear bilva and conch, emerald-colored."
 }

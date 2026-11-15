@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p176",
+ "items": [
+  {
+   "verse": 4400,
+   "rows": [
+    {
+     "surface": "tatropariṣṭāt",
+     "gloss": "there-above",
+     "grounds": "compound adverb indicating position above that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīdhiḥ",
+     "gloss": "wall",
+     "grounds": "legacy hint gives wall; nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral modifying the wall",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpyā",
+     "gloss": "to-be-made",
+     "grounds": "feminine nominative singular participle of kḷp",
+     "morph": "f.nom.sg.participle"
+    },
+    {
+     "surface": "manoharāḥ",
+     "gloss": "charming",
+     "grounds": "nominative plural masculine adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What charming structure of nine parts is to be made above there?",
+   "premises": [
+    "nine charming walls are to be made above",
+    "the wall is to be made in that place"
+   ],
+   "inference": "The verse prescribes making a charming nine-part wall above the previously mentioned location.",
+   "uncertainties": [
+    "vīdhiḥ is glossed as wall from the legacy hint; its exact ritual referent remains uncertain"
+   ],
+   "plain_english": "Above that place, a charming wall of nine parts is to be made."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 613,
- "question": "What ritual substance must be applied after offering a pair of cloths?",
+ "question": "How far does the dwelling extend in yojanas?",
  "premises": [
-  "A pair of cloths has been offered.",
-  "The next action follows then.",
-  "Sacred ash is to be applied."
+  "dwelling is stated",
+  "yojanas are stated",
+  "twenty crores is stated"
  ],
- "inference": "After offering a pair of cloths, one should then apply sacred ash.",
- "uncertainties": [],
- "plain_english": "Having offered a pair of cloths thus, one should then apply sacred ash."
+ "inference": "The dwelling extends twenty crores of yojanas.",
+ "uncertainties": [
+  "compound not split"
+ ],
+ "plain_english": "The dwelling extends twenty crores of yojanas."
 }

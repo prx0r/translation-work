@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4522,
- "question": "What mental condition is absent in a place where hero-worship has been performed?",
+ "question": "What action is stated for the hundred-fifty-nine-numbered house?",
  "premises": [
-  "The ground is one where hero-worship has been done.",
-  "Illusion and delusion are considered.",
-  "Their existence there is denied."
+  "hundred fifty nine numbered is named",
+  "does is named",
+  "who is named"
  ],
- "inference": "In a place where hero-worship is performed, illusion and delusion do not exist.",
- "uncertainties": [],
- "plain_english": "On ground where hero-worship has been performed, illusion and delusion do not exist."
+ "inference": "The verse states an action performed by someone in that house.",
+ "uncertainties": [
+  "fused token not split"
+ ],
+ "plain_english": "In the hundred-fifty-nine-numbered house, someone performs an action."
 }

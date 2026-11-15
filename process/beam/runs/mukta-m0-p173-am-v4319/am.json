@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4319,
- "question": "What should be done if holding the mantra with ash at the throat fails?",
+ "question": "Which yellow, black, and green strips are named?",
  "premises": [
-  "The mantra may be held at the throat with ash.",
-  "This may not succeed.",
-  "Burning with the fire-seed is prescribed if not."
+  "yellow-strips is named",
+  "black-strips is named",
+  "green-strips is named"
  ],
- "inference": "If holding it with ash at the throat fails, it should be burned using the fire-seed.",
- "uncertainties": [],
- "plain_english": "One should hold it at the throat with ash; if not, it should be burned with the fire-seed."
+ "inference": "The verse lists colored strips.",
+ "uncertainties": [
+  "arrangement unclear"
+ ],
+ "plain_english": "Yellow strips, black strips, thus green strips."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p31",
  "verse": 753,
- "question": "Whom should one worship after showing the mudra?",
+ "question": "What colors and bodily trait describe this deity?",
  "premises": [
-  "after showing mudra worship desired deity"
+  "Coral color is given",
+  "Pot-bellied is given",
+  "Dark color is given"
  ],
- "inference": "After showing the mudra, one should worship the desired deity.",
+ "inference": "The deity is coral-colored, pot-bellied, and dark-colored.",
  "uncertainties": [
-  "compound parsing uncertain"
+  "Possible color conflict in source"
  ],
- "plain_english": "Having shown the mudra, one should then worship the desired deity."
+ "plain_english": "The deity is coral-colored, pot-bellied, and dark-colored."
 }

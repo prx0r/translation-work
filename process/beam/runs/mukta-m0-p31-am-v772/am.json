@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p31",
  "verse": 772,
- "question": "Which deities are named after the preta seed?",
+ "question": "What earrings are worn on both ears?",
  "premises": [
-  "bliss-bhairava god and bliss-bhairavi goddess"
+  "Earring is named twice",
+  "Right and left ears are named",
+  "Wearing is named"
  ],
- "inference": "The bliss-bhairava god and bliss-bhairavi goddess are named.",
+ "inference": "The form wears earrings on both right and left ears.",
  "uncertainties": [
-  "compound parsing uncertain"
+  "Two earring types may be distinct"
  ],
- "plain_english": "The bliss-bhairava god and the bliss-bhairavi goddess."
+ "plain_english": "Wearing earrings on both right and left ears."
 }

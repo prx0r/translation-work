@@ -1,14 +1,17 @@
 {
  "song": "mukta-m0-p21",
  "verse": 518,
- "question": "How many powers belong to the root goddess?",
+ "question": "Which hand-attributes and bodily color define this blue form of Vishnu?",
  "premises": [
-  "Five thousand are numbered.",
-  "They are powers of the root goddess."
+  "left upper hand holds conch",
+  "left lower hand holds discus",
+  "right lower hand holds lotus",
+  "right upper hand holds mace",
+  "body color is blue"
  ],
- "inference": "The root goddess has five thousand numbered powers.",
+ "inference": "This verse assigns a blue four-armed arrangement with conch discus lotus and mace.",
  "uncertainties": [
-  "Relation to prior count is implied."
+  "exact deity name not stated in this verse"
  ],
- "plain_english": "Five thousand numbered powers of the root goddess."
+ "plain_english": "Left upper hand conch, left lower hand discus, right lower hand lotus, right upper hand mace, blue color."
 }

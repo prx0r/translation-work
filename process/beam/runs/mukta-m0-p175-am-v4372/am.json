@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p175",
  "verse": 4372,
- "question": "What harmful consequences follow from piercing at the second division near the eyes?",
+ "question": "What colors are assigned to the planetary dice?",
  "premises": [
-  "The second division is the location of fault.",
-  "Piercing occurs at the eyes.",
-  "Eye disease and death are named as consequences."
+  "white red green yellow white black are listed",
+  "thus completes color set"
  ],
- "inference": "Piercing at the second division near the eyes leads to eye disease and even death.",
- "uncertainties": [],
- "plain_english": "If there is piercing at the second division near the eyes, it causes eye disease and death."
+ "inference": "the planetary dice are colored white, red, green, yellow, white, and black",
+ "uncertainties": [
+  "planet-color pairing not explicit"
+ ],
+ "plain_english": "White, red, green, yellow, white, and black, thus."
 }

@@ -1,14 +1,18 @@
 {
  "song": "mukta-m0-p29",
  "verse": 720,
- "question": "What path is stated for brahma parts in accomplishment?",
+ "question": "Which colors are listed for Kala and the others?",
  "premises": [
-  "brahma etc parts are specified",
-  "veda arrow stated path is used"
+  "yellow is stated",
+  "Kala is named",
+  "thus is stated",
+  "tawny-color is stated",
+  "pale-red is stated",
+  "white is stated"
  ],
- "inference": "accomplishment of brahma parts follows the stated veda-arrow path",
+ "inference": "The verse lists yellow, tawny, pale-red, and white colors.",
  "uncertainties": [
-  "exact path unclear"
+  "compound internal members not split"
  ],
- "plain_english": "Accomplishment of brahma parts follows the stated veda-arrow path."
+ "plain_english": "Yellow Kala, thus tawny-colored, pale-red, white."
 }

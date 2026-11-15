@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4608,
- "question": "What value do minor ritual applications hold for those who perform them?",
+ "question": "How are the ritual grid cells counted and arranged in this passage?",
  "premises": [
-  "Minor rites exist for performers of applications",
-  "They are commended",
-  "They grant all successes"
+  "grid cells are counted",
+  "arrangement follows stated order"
  ],
- "inference": "Minor rites are commended for ritual performers because they grant all successes",
+ "inference": "the passage specifies grid counts and positions",
  "uncertainties": [
-  "The specific minor rites intended are not named"
+  "surface fidelity only"
  ],
- "plain_english": "Minor rites are commended for those who perform ritual applications, for they grant all successes."
+ "plain_english": "This passage gives ritual grid counts and positions."
 }

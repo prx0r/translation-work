@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4305,
- "question": "How many oblations should the mantra-knower perform with the root mantra?",
+ "question": "How should experts play according to this color?",
  "premises": [
-  "The rite uses the root mantra.",
-  "The performer is skilled in mantras.",
-  "The count may be a thousand or a hundred."
+  "this-color is named",
+  "according-to is named",
+  "to-be-played is named"
  ],
- "inference": "The mantra-knower should perform a thousand or a hundred oblations with the root mantra.",
- "uncertainties": [],
- "plain_english": "The mantra-knower should perform a thousand or even a hundred oblations with the root mantra."
+ "inference": "The verse directs expert play by color.",
+ "uncertainties": [
+  "game rules unclear"
+ ],
+ "plain_english": "To be played by experts according to this color."
 }

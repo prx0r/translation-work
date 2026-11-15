@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "giriśogirijāprāṇavallabho",
+     "gloss": "shiva-parvati-life-beloved",
+     "grounds": "fused sandhi form of giriśa + girijā-prāṇa-vallabhaḥ",
+     "morph": "compound (giriśa+girijā+prāṇa+vallabha)"
+    },
+    {
+     "surface": "stu",
+     "gloss": "may-you-be",
+     "grounds": "imperative of root stu",
+     "morph": "2.sg.act.imp (root stu)"
+    },
+    {
+     "surface": "sadāmude",
+     "gloss": "for-eternal-joy",
+     "grounds": "sadā + mude fused",
+     "morph": "indecl. (sadā + mude dat.sg.n)"
+    },
+    {
+     "surface": "nīlavarṇaḥ",
+     "gloss": "blue-colored",
+     "grounds": "adjective describing the deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form and devotional relation of Shiva is praised for eternal joy?",
+   "premises": [
+    "Shiva is called beloved of Parvati's life",
+    "The prayer asks that he be for eternal joy",
+    "His color is described as blue"
+   ],
+   "inference": "The verse praises blue-colored Shiva as Parvati's life-beloved for eternal joy.",
+   "uncertainties": [
+    "Exact sandhi split of giriśogirijāprāṇavallabho is inferred",
+    "Whether stu is imperative or optative is not fully certain"
+   ],
+   "plain_english": "Shiva, beloved of Parvati's life, may you be for eternal joy, blue-colored."
+  }
+ ]
+}

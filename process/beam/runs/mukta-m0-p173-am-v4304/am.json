@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4304,
- "question": "Where should the teacher keep the ritual pot during the procedure?",
+ "question": "Which vehicle, weapon, umbrella, chariot, elephant, and horse appear in order?",
  "premises": [
-  "The teacher is the ritual agent.",
-  "The pot must be held or kept.",
-  "Its location is near the fire pit."
+  "vehicle is named",
+  "weapon is named",
+  "umbrella is named"
  ],
- "inference": "The teacher should keep the pot near the fire pit.",
- "uncertainties": [],
- "plain_english": "The teacher should keep the pot near the fire pit."
+ "inference": "The verse lists ritual objects in sequence.",
+ "uncertainties": [
+  "assignment unclear"
+ ],
+ "plain_english": "Vehicle and weapon, umbrella, chariot, elephant, horse in order."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4615,
- "question": "In what kinds of places should solitary mantra recitation be performed?",
+ "question": "How are the ritual grid cells counted and arranged in this passage?",
  "premises": [
-  "The practitioner should be alone",
-  "A secluded place is suitable",
-  "A Shiva temple is an alternative"
+  "grid cells are counted",
+  "arrangement follows stated order"
  ],
- "inference": "One should chant alone either in a secluded place or in a Shiva temple",
- "uncertainties": [],
- "plain_english": "One should chant alone in a secluded place, or only in a Shiva temple."
+ "inference": "the passage specifies grid counts and positions",
+ "uncertainties": [
+  "surface fidelity only"
+ ],
+ "plain_english": "This passage gives ritual grid counts and positions."
 }

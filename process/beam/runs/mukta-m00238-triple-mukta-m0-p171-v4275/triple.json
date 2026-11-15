@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p171",
+ "items": [
+  {
+   "verse": 4275,
+   "rows": [
+    {
+     "surface": "śrīcāmuṇḍā",
+     "gloss": "glorious-camunda",
+     "grounds": "compound of shri and camunda; feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛpāpūrṇa",
+     "gloss": "grace-filled",
+     "grounds": "compound of kripa and purna; adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇarāja",
+     "gloss": "krishna-raja",
+     "grounds": "compound of krishna and raja; masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣamābhujā",
+     "gloss": "forgiveness-armed",
+     "grounds": "compound of kshama and bhuja; feminine nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine figure is described as grace-filled Krishna-raja and forgiveness-armed?",
+   "premises": [
+    "Śrī Cāmuṇḍā is named first.",
+    "The verse lists grace-filled as an epithet.",
+    "Forgiveness-armed modifies the named figure."
+   ],
+   "inference": "The verse presents Śrī Cāmuṇḍā with the epithets grace-filled, Krishna-raja, and forgiveness-armed.",
+   "uncertainties": [
+    "The exact syntactic relation among the four tokens is not fully resolved.",
+    "Compound and sandhi boundaries are preserved without expansion."
+   ],
+   "plain_english": "Śrī Cāmuṇḍā, grace-filled, Krishna-raja, forgiveness-armed."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 623,
- "question": "What specific leaves must be offered after worshipping well with flowers?",
+ "question": "Which additional implements are enumerated here?",
  "premises": [
-  "Worship has been performed well with flowers.",
-  "Bilva leaves are the next offering.",
-  "The leaves must be offered."
+  "plough goad rosary is stated",
+  "knife is stated",
+  "flag staff is stated"
  ],
- "inference": "After worshipping well with flowers, one should offer bilva leaves.",
- "uncertainties": [],
- "plain_english": "Thus, having worshipped well with flowers, one should also offer bilva leaves."
+ "inference": "The verse enumerates plough, goad, rosary, knife, and flag staff.",
+ "uncertainties": [
+  "compound not split"
+ ],
+ "plain_english": "Plough, goad, rosary, knife, and flag staff are enumerated."
 }

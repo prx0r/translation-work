@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p171",
  "verse": 4273,
- "question": "From which cell and in what direction should the inscription be written?",
+ "question": "What color is declared for cakravarti petals?",
  "premises": [
-  "The board has a defined upper cell as reference.",
-  "The writing must begin from that point.",
-  "The direction of writing is clockwise."
+  "cakravarti petals are stated",
+  "indeed is stated",
+  "gold color is stated"
  ],
- "inference": "Beginning from that upper cell, one should write clockwise.",
- "uncertainties": [],
- "plain_english": "Beginning from that upper cell, one should write in a clockwise direction."
+ "inference": "The verse declares gold color for cakravarti petals.",
+ "uncertainties": [
+  "none significant"
+ ],
+ "plain_english": "Gold color is declared for cakravarti petals."
 }

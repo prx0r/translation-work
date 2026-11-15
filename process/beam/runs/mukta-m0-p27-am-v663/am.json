@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 663,
- "question": "How are the grades distributed with respect to each storey level?",
+ "question": "What is the upward position of the right foot?",
  "premises": [
-  "Three grades are named: lowest, middle and highest.",
-  "A threefold division is applied.",
-  "This division applies to each storey."
+  "The verse gives upward.",
+  "The right foot is mentioned.",
+  "It follows left."
  ],
- "inference": "Each storey is divided into lowest, middle and highest grades.",
- "uncertainties": [],
- "plain_english": "For each storey there is a threefold division into lowest, middle and highest."
+ "inference": "This verse describes the right foot's upward following position.",
+ "uncertainties": [
+  "Exact sandhi and case parsing not fully verified."
+ ],
+ "plain_english": "Upward, the right foot follows the left."
 }

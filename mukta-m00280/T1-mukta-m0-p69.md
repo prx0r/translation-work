@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[ananta-puja](anantapūjām) [iti](ity) [uktā](uktā) [visargeṇa](visargeṇa) [samanvitā](samanvitā)
+[endless+wORSHIP](anantapūjām) [thus](iti) [said](uktā) [by+emission](visargeṇa) [accompanied](samanvitā)
 
 ## mukta-m0-p69-v1702
-[hāṃ](hāṃ) [hūṃ-kāra-saṃyuktaḥ](hūṅkārasaṃyukto) [aṣṭa-bhedasya](aṣṭabhedasya) [ca](ca) [aṣṭamam](aṣṭamam)
+[haṃ](hāṃ) [hūṃ+kāra+joined](hūṅkārasaṃyukto) [of+eight+kinds](aṣṭabhedasya) [and+eighth](cāṣṭamam)
 
 ## mukta-m0-p69-v1703
-[dīkṣā-kāle](dīkṣākāle) [yathā](yathā) [yogam](yogaṃ) [grahaṇam](grahaṇañca) [ca](ca) [yathā](yathā) [bhavet](bhavet)
+[at+initiation+time](dīkṣākāle) [as+yoga](yathāyogaṃ) [grasping](grahaṇañca) [as+it+may+be](yathābhavet)
 
 ## mukta-m0-p69-v1704
-[ananta-mūrti-saṃyogam](anantamūrtisaṃyogamebhirbījairudāhṛtam) [ebhiḥ](ebhir) [bījaiḥ](bījair) [udāhṛtam](udāhṛtam)
+[endless+form+union](anantamūrtisaṃyogam) [by+these+seeds](ebhirbījair) [declared](udāhṛtam)
 
 ## mukta-m0-p69-v1705
-[mantra-atītaḥ](mantrātītaśca) [ca](ca) [mantraḥ](mantraśca) [ca](ca) [mayā](mayā) [pūrvam](pūrvam) [udāhṛtaḥ](udāhṛtaḥ)
+[beyond+mantra](mantrātītaśca) [and+mantra](mantraśca) [by+me](mayā) [before](pūrvam) [declared](udāhṛtaḥ)
 
 ## mukta-m0-p69-v1706
-[mūrdhni](mūrdhni) [vaktrau](vaktrau) [ca](ca) [hṛdaye](hṛdaye) [guhye](guhye) [ca](ca) [eva](caiva) [yathā-kramam](yathākramam)
+[on+head](mūrdhni) [mouths](vaktrau) [and](ca) [heart](hṛdaye) [secret+place](guhye) [and+thus+in+order](caiva+yathākramam)
 
 ## mukta-m0-p69-v1707
-[samaya-jñasya](samayajñasya) [deveśi](deveśi) [sakalīkaraṇam](sakalīkaraṇaṃ) [hitam](hitam)
+[of+oath+knower](samayajñasya) [O+goddess](deveśi) [complete+making](sakalīkaraṇaṃ) [beneficial](hitam)
 
 ## mukta-m0-p69-v1708
-[sthaṇḍile](sthaṇḍile) [śiva-liṅgam](śivaliṅgantu) [tu](tu) [prokṣaṇa-abhyukṣaṇa-ādinā](prokṣaṇābhyukṣaṇādinā)
+[on+altar](sthaṇḍile) [Śiva+liṅga](śivaliṅgantu) [by+sprinkling+and+anointing+etc](prokṣaṇābhyukṣaṇādinā)
 
 ## mukta-m0-p69-v1709
-[pañcabhiḥ](pañcabhir) [brahmabhiḥ](bhrahmabhiścaiva) [ca](ca) [eva](eva) [vidhiḥ](vidhisarvamaśeṣataḥ) [sarvam](sarvam) [aśeṣataḥ](aśeṣataḥ)
+[by+five](pañcabhir) [Brahmans](bhrahmabhiścaiva) [rite+all+completely](vidhisarvamaśeṣataḥ)
 
 ## mukta-m0-p69-v1710
-[aghoraṃ](aghoraṃ) [dakṣiṇe](dakṣiṇecaiva) [ca](ca) [eva](eva) [vāmadevam](vāmadevaṃ) [tathā](tathā) [uttare](uttare)
+[aghora](aghoraṃ) [south](dakṣiṇecaiva) [vāmadeva](vāmadevaṃ) [thus+north](tathottare)
 
 ## mukta-m0-p69-v1711
-[anena](anena) [vidhinā](vidhinā) [yaḥ](yastu) [tu](tu) [yajeta](yajeta) [su-samāhitaḥ](susamāhitaḥ)
+[by+this+rite](anena+vidhinā) [whoever](yastu) [worships](yajeta) [well+composed](susamāhitaḥ)
 
 ## mukta-m0-p69-v1712
-[pañca-brahma-samāyogāt](pañcabrahmasamāyogāt) [kalābhiḥ](kalābhiśca) [ca](ca) [sa](sa) [su-vṛte](suvṛte)
+[by+five+Brahma+union](pañcabrahmasamāyogāt) [with+kalaas](kalābhiśca) [he+well+versed](sa+suvṛte)
 
 ## mukta-m0-p69-v1713
-[āvāhana-ādi-devasya](āvāhanādidevasya) [pūrvavat](pūrvavatkathitaṃ) [kathitam](kathitaṃ) [tava](tava)
+[invocation+etc+of+deity](āvāhanādidevasya) [as+before](pūrvavat) [told](kathitaṃ) [to+you](tava)
 
 ## mukta-m0-p69-v1714
-[evam](evaṃ) [tat](tat) [sakalīkṛtya](sakalīkṛtya) [sandhyā-kāle](sandhyākāle) [upāsanam](upāsanam)
+[thus](evaṃ) [that+completed](tatsakalīkṛtya) [at+sandhyā+time](sandhyākāle) [worship](upāsanam)
 
 ## mukta-m0-p69-v1715
-[anena](anena) [vidhinā](vidhinā) [devi](devi) [putrakaḥ](putrakassusamāhitaḥ) [su-samāhitaḥ](susamāhitaḥ)
+[by+this+rite](anena+vidhinā) [O+goddess](devi) [son](putrakassusamāhitaḥ) [well+composed](susamāhitaḥ)
 
 ## mukta-m0-p69-v1716
-[taiḥ](taireva) [eva](eva) [pūrvoktaiḥ](pūrvoktaistu) [tu](tu) [śiva-aṅgaiḥ](śivāṅgaiśca) [ca](ca) [samanvitaḥ](samanvitaḥ)
+[by+those+before+said](taireva+pūrvoktaistu) [with+Śiva+limbs](śivāṅgaiśca) [accompanied](samanvitaḥ)
 
 ## mukta-m0-p69-v1717
-[labhate](labhate) [sāyujyam](sāyujyam) [ātmānam](ātmānaṃ) [sādākhyasya](sādākhyasya) [mahātmanaḥ](mahātmanaḥ)
+[obtains](labhate) [liberation+union](sāyujyam) [self](ātmānaṃ) [of+great+soul+Sādākhya](sādākhyasya+mahātmanaḥ)
 
 ## mukta-m0-p69-v1718
-[mantraiḥ](mantraiḥ) [karaṇa-yogena](karaṇayogena) [sa](sa) [paśuḥ](paśuḥ) [sura-sundari](surasundari)
+[by+mantras](mantraiḥ) [with+instrument+yoga](karaṇayogena) [that+bound+creature](sa+paśuḥ) [O+divine+beauty](surasundari)
 
 ## mukta-m0-p69-v1719
-[a-mantreṇa](amantreṇa) [paśuḥ](paśuḥ) [proktaḥ](proktaḥ) [cetā](cetā) [mātram](mātraṃ) [samāviśet](samāviśet)
+[without+mantra](amantreṇa) [creature](paśuḥ) [said](proktaḥ) [consciousness+only](cetā+mātraṃ) [may+enter](samāviśet)
 
 ## mukta-m0-p69-v1720
-[sa-mantraiḥ](samantraiśca) [ca](ca) [sadā-yuktaḥ](sadāyuktaścetanaḥ) [cetanaḥ](cetanaḥ) [parameśvari](parameśvari)
+[with+mantras](samantraiśca) [always+joined](sadāyuktaś) [conscious](cetanaḥ) [O+supreme+goddess](parameśvari)
 
 ## mukta-m0-p69-v1721
-[katham](kathaṃ) [mantra-ātmakam](mantrātmakaṃ) [deham](dehaṃ) [paśoḥ](paśor) [vijñāyate](vijñāyate) [prabho](prabho)
+[how](kathaṃ) [mantra+embodied](mantrātmakaṃ) [body](dehaṃ) [of+creature](paśor) [is+known](vijñāyate) [O+lord](prabho)
 
 ## mukta-m0-p69-v1722
-[mantraiḥ](mantraissaṃbaddhadehasya) [saṃbaddha-dehasya](saṃbaddhadehasya) [śṛṇu](śṛṇu) [tasya](tasya) [parākramam](parākramam)
+[by+mantras+bound+body](mantraissaṃbaddhadehasya) [hear](śṛṇu) [its+power](tasya+parākramam)
 
 ## mukta-m0-p69-v1723
-[nāśayet](nāśayetsarvavighnāni) [sarva-vighnāni](sarvavighnāni) [śāntim](śāntiṃ) [puṣṭim](puṣṭiṃ) [karoti](karoti) [ca](ca)
+[destroys](nāśayet) [all+obstacles](sarvavighnāni) [peace](śāntiṃ) [nourishment](puṣṭiṃ) [does](karoti) [and](ca)
 
 ## mukta-m0-p69-v1724
-[uttiṣṭhet](uttiṣṭhedantarddhāne) [antarddhāne](antarddhāne) [ca](ca) [pāda-cāre](pādacāre) [tathā](tathaiva) [eva](eva) [ca](ca)
+[rises](uttiṣṭhed) [in+concealment](antarddhāne) [and](ca) [in+foot+movement](pādacāre) [thus+also](tathaiva) [ca](ca)
 
 ## mukta-m0-p69-v1725
-[guḍikā-ākāśa-gamane](guḍikākāśagamane) [daṇḍa-kāṣṭha-pavitrake](daṇḍakāṣṭhapavitrake)
+[ball+sky+movement](guḍikākāśagamane) [staff+wood+purifier](daṇḍakāṣṭhapavitrake)

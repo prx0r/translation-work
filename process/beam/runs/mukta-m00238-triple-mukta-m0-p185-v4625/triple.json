@@ -1,0 +1,28 @@
+{
+ "song": "mukta-m0-p185",
+ "items": [
+  {
+   "verse": 4625,
+   "rows": [
+    {
+     "surface": "ekādaśatadūrdhvaṃsyuḥkoṣthānyekādaśāntataḥ",
+     "gloss": "eleven-above-there-will-be-compartments-eleven-finally",
+     "grounds": "fused sandhi compound of ekādaśa + tadūrdhvaṃ + syuḥ + koṣthāni + ekādaśa + antataḥ",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many compartments arise above the eleven and how many remain finally?",
+   "premises": [
+    "above the eleven there will be compartments",
+    "those compartments number eleven",
+    "finally there are eleven"
+   ],
+   "inference": "The verse states eleven compartments above the eleven and eleven finally.",
+   "uncertainties": [
+    "fused token requires internal sandhi parsing",
+    "exact syntactic role of antataḥ unclear"
+   ],
+   "plain_english": "Above the eleven there will be eleven compartments, eleven finally."
+  }
+ ]
+}

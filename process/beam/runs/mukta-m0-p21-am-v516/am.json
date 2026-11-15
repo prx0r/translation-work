@@ -1,14 +1,18 @@
 {
  "song": "mukta-m0-p21",
  "verse": 516,
- "question": "What are the jewels and wish-cows called?",
+ "question": "Which hand-attributes and bodily color define blue Aniruddha?",
  "premises": [
-  "Jewels are named.",
-  "Wish-cows are named."
+  "Aniruddha is blue",
+  "left upper hand holds conch",
+  "left lower hand holds lotus",
+  "right lower hand holds discus",
+  "right upper hand holds mace",
+  "body color is blue"
  ],
- "inference": "The jewels and wish-cows are called kalpa-vine treasury.",
+ "inference": "The verse names Aniruddha and gives his blue color and four-armed arrangement.",
  "uncertainties": [
-  "Compound meaning is dense."
+  "the first token fuses name and attribute description"
  ],
- "plain_english": "Jewels, wish-cows, and those named kalpa-vine treasury."
+ "plain_english": "Aniruddha, blue, holds conch, lotus, discus, and mace in the stated hands, blue color."
 }

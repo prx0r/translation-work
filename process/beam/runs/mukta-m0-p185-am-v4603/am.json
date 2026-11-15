@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4603,
- "question": "Where must the hero practitioner perform the prescribed ritual discipline?",
+ "question": "How are the ritual grid cells counted and arranged in this passage?",
  "premises": [
-  "The practice belongs to the hero",
-  "A cremation ground is a valid location",
-  "The rite may be done even without a corpse"
+  "grid cells are counted",
+  "arrangement follows stated order"
  ],
- "inference": "The hero's practice should be performed in a cremation ground, even in the absence of a corpse",
- "uncertainties": [],
- "plain_english": "The hero's practice should be performed in a cremation ground, even when no corpse is present."
+ "inference": "the passage specifies grid counts and positions",
+ "uncertainties": [
+  "surface fidelity only"
+ ],
+ "plain_english": "This passage gives ritual grid counts and positions."
 }

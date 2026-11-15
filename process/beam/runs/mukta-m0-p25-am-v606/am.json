@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 606,
- "question": "What specific bathing offering is the devotee-loving Lord asked to accept?",
+ "question": "Which attributes are saluted on the left side of this lord?",
  "premises": [
-  "A bathing with five nectars is presented.",
-  "The offering is explicitly identified as this.",
-  "The Lord is addressed as lover of devotees."
+  "serpent and noose are named",
+  "goad is named",
+  "left side is named"
  ],
- "inference": "The devotee-loving Lord is asked to accept this bathing with the five nectars.",
- "uncertainties": [],
- "plain_english": "O lover of devotees, let this bathing with the five nectars be accepted."
+ "inference": "The verse salutes the lord with serpent, noose, goad, and ornaments on the left side.",
+ "uncertainties": [
+  "token ca glossed bell from legacy hint"
+ ],
+ "plain_english": "The lord is saluted with serpent, noose, goad, and ornaments."
 }

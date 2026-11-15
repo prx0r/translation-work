@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p146-v3626
-[brahmā](brahmā) [pitāmahaḥ](pitāmaho) [loke](loke) [jiṣṇuḥ](jiṣṇurgīrbāṇanāyakaḥ) [gīrbāṇa-nāyakaḥ](gīrbāṇanāyakaḥ)
+[creator](brahmā) [grandfather](pitāmahaḥ) [world](loke) [victorious](jiṣṇuḥ) [speech](gīḥ) [arrow](vāṇa) [leader](nāyakaḥ)
 
 ## mukta-m0-p146-v3627
-[ratnākaraḥ](ratnākaraśca) [ca](ca) [jaladhiḥ](jaladhiḥ) [śeṣaḥ](śeṣaścānantatāṃ) [ca](ca) [anantatām](anantatāṃ) [gataḥ](gataḥ)
+[mine-of-gems](ratnākaraḥ) [and](ca) [ocean](jaladhiḥ) [remainder](śeṣaḥ) [and](ca) [infinity](anantatām) [gone](gataḥ)
 
 ## mukta-m0-p146-v3628
-[bahunā](bahunoktena) [uktena](uktena) [deveśi](deveśi) [kavacasya](kavacasyāsya) [asya](asya) [dhāraṇāt](dhāraṇāt)
+[by-much](bahunā) [said](uktena) [goddess](deveśi) [armor](kavacasya) [this](asya) [wearing](dhāraṇāt)
 
 ## mukta-m0-p146-v3629
-[ṛṣiḥ](ṛṣirasya) [asya](asya) [mahādevi](mahādevi) [brahmā](brahmā) [chandaḥ](cchandaḥ) [samīritam](samīritam)
+[sage](ṛṣiḥ) [this](asya) [great-goddess](mahādevi) [brahma](brahmā) [meter](chandaḥ) [declared](samīritam)
 
 ## mukta-m0-p146-v3630
-[śara-śaktiḥ](śaracchaktiḥ) [kīlakam](kīlakaṃ) [ca](ca) [kāmarājaḥ](kāmarājaḥ) [sureśvari](sureśvari)
+[power-of-autumn](śaracchaktiḥ) [peg](kīlakaṃ) [and](ca) [king-of-desire](kāmarājaḥ) [lady-of-gods](sureśvari)
 
 ## mukta-m0-p146-v3631
-[vikasat](vikasadvadanārabindām) [vadana](vadana) [arabindām](arabindām)
+[blooming](vikasat) [face](vadana) [lotus](arabindām)
 
 ## mukta-m0-p146-v3632
-[pāśa-aṅkuśa-ambhoruha-kaḍga-dhāriṇīm](pāśāṅkuśāmbhoruhakaḍgadhāriṇīṃ) [rājñīm](rājñīṃ) [bhaje](bhaje) [cetasi](cetasi) [rājya-dāyinīm](rājyadāyinīm)
+[noose](pāśa) [goad](aṅkuśa) [lotus](ambhoruha) [sword](kaḍga) [bearing](dhāriṇīṃ) [queen](rājñīṃ) [worship](bhaje) [mind](cetasi) [giving-kingdom](rājyadāyinīm)
 
 ## mukta-m0-p146-v3633
-[śrīṃ](śrīṃ) [bālā](bālā) [pātu](pātu) [mām](māṃ) [netre](netre) [tryaśram](tryaśraṃ) [pātu](pātu) [śrutī](śrutī) [mama](mama)
+[śrīṃ](śrīṃ) [young-girl](bālā) [protect](pātu) [me](māṃ) [eyes](netre) [triangle](tryaśram) [protect](pātu) [ears](śrutī) [my](mama)
 
 ## mukta-m0-p146-v3634
-[sauḥ](sauḥ) [kaṇṭham](kaṇṭhaṃ) [vaikharī](vaikharī) [pātu](pātu) [bham](bhaṃ) [bhujau](bhujau) [pātu](pātu) [me](me) [śivā](śivā)
+[sauḥ](sauḥ) [throat](kaṇṭham) [speech](vaikharī) [protect](pātu) [bhaṃ](bhaṃ) [arms](bhujau) [protect](pātu) [my](me) [śivā](śivā)
 
 ## mukta-m0-p146-v3635
-[ṣaḍaśram](ṣaḍaśraṃ) [pātu](pātu) [me](me) [madhyam](madhyaṃ) [vṛttam](vṛttaṃ) [pārśvau](pārśvau) [mama](mama) [avatu](avatu)
+[six-cornered](ṣaḍaśram) [protect](pātu) [my](me) [middle](madhyam) [round](vṛttam) [sides](pārśvau) [my](mama) [protect](avatu)
 
 ## mukta-m0-p146-v3636
-[jñyaiṃ](jñyaiṃ) [gudam](gudaṃ) [pātu](pātu) [rudrāṇī](rudrāṇī) [hrīṃ](hrīṃ) [kaṭim](kaṭiṃ) [me](me) [aparājitā](aparājitā)
+[jñyaiṃ](jñyaiṃ) [anus](gudam) [protect](pātu) [rudrāṇī](rudrāṇī) [hrīṃ](hrīṃ) [waist](kaṭim) [my](me) [unconquered](aparājitā)
 
 ## mukta-m0-p146-v3637
-[svāhā](svāhā) [gulphau](gulphau) [ca](ca) [vārāhī](vārāhī) [om](oṃ) [pādau](pādau) [nārasiṃhikā](nārasiṃhikā)
+[svāhā](svāhā) [ankles](gulphau) [and](ca) [vārāhī](vārāhī) [oṃ](oṃ) [feet](pādau) [nārasiṃhikā](nārasiṃhikā)
 
 ## mukta-m0-p146-v3638
-[tat](tat) [sarvam](sarvaṃ) [pātu](pātu) [me](me) [rājñī](rājñī) [mūlavidyā-mayī](mūlavidyāmayī) [parā](parā)
+[that](tat) [all](sarvam) [protect](pātu) [my](me) [queen](rājñī) [consisting-of-root-mantra](mūlavidyāmayī) [supreme](parā)
 
 ## mukta-m0-p146-v3639
-[takṣakaḥ](takṣako) [dakṣiṇe](dakṣiṇe) [pātu](pātu) [nairṛte](nair-ṛte) [padmanāgakaḥ](padmanāgakaḥ)
+[takṣaka](takṣakaḥ) [south](dakṣiṇe) [protect](pātu) [southwest](nairṛte) [padmanāgaka](padmanāgakaḥ)
 
 ## mukta-m0-p146-v3640
-[kulikaḥ](kulikaś) [ca](ca) [uttare](uttare) [pātu](pātu) [śeṣaḥ](śeṣa) [īśānamaṇḍale](īśānamaṇḍale)
+[kulika](kulikaḥ) [and](ca) [north](uttare) [protect](pātu) [śeṣa](śeṣaḥ) [īśāna-region](īśānamaṇḍale)
 
 ## mukta-m0-p146-v3641
-[rudrāṇī](rudrāṇī) [pātu](pātu) [madhyāhne](madhyāhne) [sāyam](sāyaṃ) [pātu](pātu) [aparājitā](aparājitā)
+[rudrāṇī](rudrāṇī) [protect](pātu) [midday](madhyāhne) [evening](sāyam) [protect](pātu) [aparājitā](aparājitā)
 
 ## mukta-m0-p146-v3642
-[niśānte](niśānte) [pātu](pātu) [vārāhī](vārāhī) [sarvadā](sarvadā) [nārasiṃhikā](nārasiṃhikā)
+[dawn](niśānte) [protect](pātu) [vārāhī](vārāhī) [always](sarvadā) [nārasiṃhikā](nārasiṃhikā)
 
 ## mukta-m0-p146-v3643
-[caṇḍaḥ](caṇḍo) [mām](māṃ) [pavanāt](pavanāt) [pātu](pātu) [krodheśaḥ](krodheśaḥ) [pātu](pātu) [mānalāt](mānalāt)
+[caṇḍa](caṇḍaḥ) [me](māṃ) [wind](pavanāt) [protect](pātu) [krodheśa](krodheśaḥ) [protect](pātu) [fire](mānalāt)
 
 ## mukta-m0-p146-v3644
-[yājakāt](yājakāt) [ca](ca) [kapālīśaḥ](kapālīśo) [vyomnaḥ](vyomnaḥ) [saṃhārakaḥ](saṃhārako) [avatāt](avatāt)
+[priest](yājakāt) [and](ca) [kapālīśa](kapālīśaḥ) [sky](vyomnaḥ) [destroyer](saṃhārakaḥ) [protect](avatāt)
 
 ## mukta-m0-p146-v3645
-[guravaḥ](guravaḥ) [pāntu](pāntu) [sarvatra](sarvatra) [digīśāḥ](digīśāḥ) [pāntu](pāntu) [sarvataḥ](sarvataḥ)
+[teachers](guravaḥ) [protect](pāntu) [everywhere](sarvatra) [direction-lords](digīśāḥ) [protect](pāntu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p146-v3646
-[śrīcakram](śrīcakraṃ) [pātu](pātu) [bhītibhyaḥ](bhītibhyo) [yoginyaḥ](yoginyaḥ) [pāntu](pāntu) [sarvadā](sarvadā)
+[śrīcakra](śrīcakram) [protect](pātu) [fears](bhītibhyaḥ) [yoginīs](yoginyaḥ) [protect](pāntu) [always](sarvadā)
 
 ## mukta-m0-p146-v3647
-[sarvatra](sarvatra) [sarvadā](sarvadā) [satyam](satyaṃ) [vapuḥ](vapuḥ) [bhūteśvaraḥ](bhūteśvaro) [avatāt](avatāt)
+[everywhere](sarvatra) [always](sarvadā) [truth](satyam) [body](vapuḥ) [bhūteśvara](bhūteśvaraḥ) [protect](avatāt)
 
 ## mukta-m0-p146-v3648
-[śirasaḥ](śirasaḥ) [pāda-paryantam](pādaparyantaṃ) [rājñī](rājñī) [pañcadaśākṣarī](pañcadaśākṣarī)
+[head](śirasaḥ) [to-feet](pādaparyantam) [queen](rājñī) [fifteen-syllabled](pañcadaśākṣarī)
 
 ## mukta-m0-p146-v3649
-[trailokya-vijayam](trailokyavijayaṃ) [nāma](nāma) [dāridrya-bhaya-nāśanam](dāridryabhayanāśanam)
+[conquest-of-three-worlds](trailokyavijayam) [named](nāma) [destroying-poverty-fear](dāridryabhayanāśanam)
 
 ## mukta-m0-p146-v3650
-[mahā-bhaya-haram](mahābhayaharaṃ) [devi](devi) [mūlavidyā-mayam](mūlavidyāmayaṃ) [param](param)
+[great-fear-removing](mahābhayaharam) [goddess](devi) [consisting-of-root-mantra](mūlavidyāmayam) [supreme](param)

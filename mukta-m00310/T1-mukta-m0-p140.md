@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[jhampā](jhampā) [jhiṃjheśvarī](jhiṃjheśvarī) [jhāntā](jhāntā) [jhakārākṣaramātṛkā](jhakārākṣaramātṛkā)
+[jhampa](jhampā) [jhimjhesvari](jhiṃjheśvarī) [jhanta](jhāntā) [jhakara-aksara-matrka](jhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3477
-[ñavargabījabhūṣāḍhyā](ñavargabījabhūṣāḍhyā) [ñakārākṣaramātṛkā](ñakārākṣaramātṛkā)
+[nava-varna](ñavargabījabhūṣāḍhyā) [naka-aksara-matrka](ñakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3478
-[ṭaṅkāyudhā](ṭaṅkāyudhā) [ṭalīrūpā](ṭalīrūpā) [ṭakārākṣaramātṛkā](ṭakārākṣaramātṛkā)
+[tanka-ayudha](ṭaṅkāyudhā) [tali-rupa](ṭalīrūpā) [taka-aksara-matrka](ṭakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3479
-[ṭhaḥsvarūpā](ṭhaḥsvarūpā) [ṭhavarṇāḍhyā](ṭhavarṇāḍhyā) [ṭhakārākṣaramātṛkā](ṭhakārākṣaramātṛkā)
+[tha-svarupa](ṭhaḥsvarūpā) [tha-varna-adhya](ṭhavarṇāḍhyā) [thaka-aksara-matrka](ṭhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3480
-[ḍhiṇī](ḍhiṇī) [ḍhehā](ḍhehā) [ḍhillahastā](ḍhillahastā) [ḍhakārākṣaramātṛkā](ḍhakārākṣaramātṛkā)
+[dhini](ḍhiṇī) [dheha](ḍhehā) [dhilla-hasta](ḍhillahastā) [dhaka-aksara-matrka](ḍhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3481
-[turī](turī) [turyā](turyā) [tulārūpā](tulārūpā) [tripurā](tripurā) [tāmasapriyā](tāmasapriyā)
+[turi](turī) [turya](turyā) [tula-rupa](tulārūpā) [tripura](tripurā) [tamasa-priya](tāmasapriyā)
 
 ## mukta-m0-p140-v3482
-[tripurā](tripurā) [triguṇā](triguṇā) [dhyeyā](dhyeyā) [tryambakeśī](tryambakeśī) [trilokadhṛt](trilokadhṛt)
+[tripura](tripurā) [tri-guna](triguṇā) [dhyeya](dhyeyā) [tryambakesi](tryambakeśī) [tri-loka-dhrt](trilokadhṛt)
 
 ## mukta-m0-p140-v3483
-[trilokajananī](trilokajananī) [trātā](trātā) [tripureśvarapūjitā](tripureśvarapūjitā)
+[tri-loka-janani](trilokajananī) [trata](trātā) [tripuresvara-pujita](tripureśvarapūjitā)
 
 ## mukta-m0-p140-v3484
-[trikoṇapūjanatuṣṭā](trikoṇapūjanatuṣṭā) [trikoṇapūjanaśritā](trikoṇapūjanaśritā)
+[tri-kona-pujana-tusta](trikoṇapūjanatuṣṭā) [tri-kona-pujana-srita](trikoṇapūjanaśritā)
 
 ## mukta-m0-p140-v3485
-[vasukoṇasthitādevī](vasukoṇasthitādevī) [vasukoṇārthavādinī](vasukoṇārthavādinī)
+[vasu-kona-sthita-devi](vasukoṇasthitādevī) [vasu-kona-artha-vadini](vasukoṇārthavādinī)
 
 ## mukta-m0-p140-v3486
-[nāgapatrasthitā](nāgapatrasthitā) [śārī](śārī) [trivṛttapūjanārthadā](trivṛttapūjanārthadā)
+[naga-patra-sthita](nāgapatrasthitā) [sari](śārī) [tri-vrtta-pujana-artha-da](trivṛttapūjanārthadā)
 
 ## mukta-m0-p140-v3487
-[tāmasī](tāmasī) [tomaraprakhyā](tomaraprakhyā) [tumburusvananādinī](tumburusvananādinī)
+[tamasi](tāmasī) [tomara-prakhya](tomaraprakhyā) [tumburu-svana-nadini](tumburusvananādinī)
 
 ## mukta-m0-p140-v3488
-[taralākṣī](taralākṣī) [tamohartrī](tamohartrī) [tārakāsuraghātinī](tārakāsuraghātinī)
+[tarala-aksi](taralākṣī) [tamo-hartri](tamohartrī) [taraka-asura-ghatini](tārakāsuraghātinī)
 
 ## mukta-m0-p140-v3489
-[sthalī](sthalī) [sthavirarūpā](sthavirarūpā) [ca](ca) [sthūlā](sthūlā) [sthālī](sthālī) [sthalābjinī](sthalābjinī)
+[sthali](sthalī) [sthavira-rupa](sthavirarūpā) [ca](ca) [sthula](sthūlā) [sthali](sthālī) [sthala-abjini](sthalābjinī)
 
 ## mukta-m0-p140-v3490
-[dūtikā](dūtikā) [śivadūtī](śivadūtī) [ca](ca) [daṇḍāyudhadharā](daṇḍāyudhadharā) [dyutiḥ](dyutiḥ)
+[dutika](dūtikā) [siva-duti](śivadūtī) [ca](ca) [danda-ayudha-dhara](daṇḍāyudhadharā) [dyuti](dyutiḥ)
 
 ## mukta-m0-p140-v3491
-[deśānucāriṇī](deśānucāriṇī) [drekkā](drekkā) [drāviḍeśī](drāviḍeśī) [davīyasī](davīyasī)
+[desa-anucarini](deśānucāriṇī) [dreka](drekkā) [dravidesi](drāviḍeśī) [daviyasi](davīyasī)
 
 ## mukta-m0-p140-v3492
-[dadhijā](dadhijā) [durlabhā](durlabhā) [devī](devī) [devatā](devatā) [paramākṣarā](paramākṣarā)
+[dadhija](dadhijā) [durlabha](durlabhā) [devi](devī) [devata](devatā) [parama-aksara](paramākṣarā)
 
 ## mukta-m0-p140-v3493
-[danuputrī](danuputrī) [vināśā](vināśā) [ca](ca) [danuputrakulārcitā](danuputrakulārcitā)
+[danu-putri](danuputrī) [vinasa](vināśā) [ca](ca) [danu-putra-kula-arcita](danuputrakulārcitā)
 
 ## mukta-m0-p140-v3494
-[daśadhenusurūpā](daśadhenusurūpā) [ca](ca) [dakārākṣaramātṛkā](dakārākṣaramātṛkā)
+[dasa-dhenu-surupa](daśadhenusurūpā) [ca](ca) [daka-aksara-matrka](dakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3495
-[dhṛtirdhūrtā](dhṛtirdhūrtā) [dhanyavadhūrdhakārākṣaramātṛkā](dhanyavadhūrdhakārākṣaramātṛkā)
+[dhrti](dhṛtirdhūrtā) [dhanya-vadhu](dhanyavadhūrdhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3496
-[nīpopavanamadhyasthā](nīpopavanamadhyasthā) [nāgareśī](nāgareśī) [narottamā](narottamā)
+[nipa-upavana-madhya-stha](nīpopavanamadhyasthā) [nagaresi](nāgareśī) [narottama](narottamā)
 
 ## mukta-m0-p140-v3497
-[nṛpasevyā](nṛpasevyā) [nṛpavandyā](nṛpavandyā) [naranārāyaṇaprasūḥ](naranārāyaṇaprasūḥ)
+[nrpa-sevya](nṛpasevyā) [nrpa-vandya](nṛpavandyā) [nara-narayana-prasu](naranārāyaṇaprasūḥ)
 
 ## mukta-m0-p140-v3498
-[padmeśvarī](padmeśvarī) [padmamukhī](padmamukhī) [patrayānā](patrayānā) [parāparā](parāparā)
+[padmesvari](padmeśvarī) [padma-mukhi](padmamukhī) [patra-yana](patrayānā) [para-apara](parāparā)
 
 ## mukta-m0-p140-v3499
-[pūḥ](pūḥ) [purārivadhūḥ](purārivadhūḥ) [pampā](pampā) [patnī](patnī) [patrīśavāhanā](patrīśavāhanā)
+[pur](pūḥ) [pura-ari-vadhu](purārivadhūḥ) [pampa](pampā) [patni](patnī) [patri-sa-vahana](patrīśavāhanā)
 
 ## mukta-m0-p140-v3500
-[pīṭhā](pīṭhā) [pīṭhasthitāpīṭhā](pīṭhasthitāpīṭhā) [pītālaṅkārabhūṣaṇā](pītālaṅkārabhūṣaṇā)
+[pitha](pīṭhā) [pitha-sthita-apitha](pīṭhasthitāpīṭhā) [pita-alankara-bhusana](pītālaṅkārabhūṣaṇā)

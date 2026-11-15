@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p37",
  "verse": 925,
- "question": "What condition follows after praising one's own guru with this hymn?",
+ "question": "Which form and color characterize the devasenāpati being worshipped here?",
  "premises": [
-  "Praise is offered to one's own guru.",
-  "The hymn is used for praise.",
-  "A conditional follows the praise."
+  "devasenāpati is worshipped",
+  "face has gentle smile",
+  "body is dark colored"
  ],
- "inference": "The verse sets up a conditional act after guru praise.",
+ "inference": "the worshipped devasenāpati has a gentle smile and dark color",
  "uncertainties": [
-  "The verse fragment lacks its main clause."
+  "fused tokens obscure word boundaries",
+  "compound membership is inferred"
  ],
- "plain_english": "Thus, having praised one's own guru with this hymn, if..."
+ "plain_english": "I worship the commander of the gods, with a gentle smile and beautiful face, dark in color."
 }

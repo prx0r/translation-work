@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 661,
- "question": "What transition is made after explaining the ābhāsa mansion type?",
+ "question": "What dance is declared and what color is associated with it?",
  "premises": [
-  "The ābhāsa mansion has already been declared.",
-  "A new topic called vikalpa is introduced.",
-  "The hearer is instructed to listen now."
+  "The verse names bliss dance.",
+  "The dance is declared.",
+  "The color is golden."
  ],
- "inference": "Having declared the ābhāsa mansion, the teaching now turns to its variant forms.",
- "uncertainties": [],
- "plain_english": "The ābhāsa mansion has been explained; now listen to its variant."
+ "inference": "This verse identifies a declared bliss dance with golden color.",
+ "uncertainties": [
+  "Exact sandhi and case parsing not fully verified."
+ ],
+ "plain_english": "The bliss dance is declared and its color is golden."
 }

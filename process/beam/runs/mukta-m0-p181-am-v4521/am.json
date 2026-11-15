@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4521,
- "question": "What place should the practitioner resort to in order to accomplish the rite?",
+ "question": "What is stated about the hundred-fifty-seven-numbered house?",
  "premises": [
-  "The practitioner should accomplish the practice.",
-  "A place of accomplishment is specified.",
-  "One should resort to that place."
+  "hundred fifty seven numbered is named",
+  "house is named"
  ],
- "inference": "The practitioner should accomplish the rite and resort to the place of accomplishment.",
- "uncertainties": [],
- "plain_english": "One should accomplish the practice and thus resort to the place of accomplishment."
+ "inference": "The verse names the hundred-fifty-seven-numbered house.",
+ "uncertainties": [
+  "fused token not split"
+ ],
+ "plain_english": "The hundred-fifty-seven-numbered house is named."
 }

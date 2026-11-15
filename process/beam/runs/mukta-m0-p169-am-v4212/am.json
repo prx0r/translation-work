@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p169",
  "verse": 4212,
- "question": "What should be understood from a clear appearance in a dream vision?",
+ "question": "What colors are associated with the king and the silver?",
  "premises": [
-  "The appearance in the dream vision is clear.",
-  "One should know something from it.",
-  "What is to be known is success."
+  "A king is mentioned.",
+  "Colors are listed."
  ],
- "inference": "A clear dream vision should be understood as indicating success.",
- "uncertainties": [],
- "plain_english": "In that dream vision, if it is clear, one should know it indicates success."
+ "inference": "The verse associates colors with the king and silver.",
+ "uncertainties": [
+  "Compound parsing uncertain."
+ ],
+ "plain_english": "The king and silver have the stated colors."
 }

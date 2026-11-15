@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4246,
- "question": "What animal sounds might the twice-born practitioner briefly hear in these states?",
+ "question": "What birth marks will be spoken with lion and lotus seated?",
  "premises": [
-  "The subject is a twice-born person.",
-  "The sounds of elephant, cow, and bull are named.",
-  "The hearing may occur for a moment."
+  "the verse says birth marks",
+  "it says lion",
+  "it says lotus seated"
  ],
- "inference": "The twice-born may briefly hear the sounds of elephants, cows, and bulls.",
- "uncertainties": [],
- "plain_english": "For a moment the twice-born may hear the sounds of elephants, cows, and bulls."
+ "inference": "birth marks with lion and lotus seated will be spoken",
+ "uncertainties": [
+  "compressed syntax"
+ ],
+ "plain_english": "Birth marks will be spoken, lion and lotus seated."
 }

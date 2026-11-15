@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[sadya-vāma-kalā-yantam](sadyavāmakalāyantaṃ) [nyaset](nyaset) [sarvatra](sarvatra) [deśikaḥ](deśikaḥ)
+[sadya+vāma+kalā+yantam](sadyavāmakalāyantaṃ) [should-place](nyaset) [everywhere](sarvatra) [teacher](deśikaḥ)
 
 ## mukta-m0-p76-v1877
-[gandha-puṣpam](gandhapuṣpaṃ) [tathā](tathā) [dīpam](dīpaṃ) [balo](balo) [bali-nivedanam](balinivedanam)
+[fragrance+flower](gandhapuṣpaṃ) [thus](tathā) [lamp](dīpaṃ) [strong-one](balo) [oblation](bali) [offering](nivedanam)
 
 ## mukta-m0-p76-v1878
-[tāḥ](tāḥ) [kalā](kalā) [nidhanena](nidhanena) [śivāntikam](śivāntikam)
+[those](tāḥ) [kalā](kalā) [by-destruction](nidhanena) [near-śiva](śivāntikam)
 
 ## mukta-m0-p76-v1879
-[sadyojāta-kalā-tvena](sadyojātakalātvena) [vāgīśvaryām](vāgīśvaryāṃ) [prakalpayet](prakalpayet)
+[sadyojāta+kalā+tvena](sadyojātakalātvena) [in-vāgīśvarī](vāgīśvaryāṃ) [should-arrange](prakalpayet)
 
 ## mukta-m0-p76-v1880
-[adhvānam](adhvānaṃ) [bhuvana-ākhyam](bhuvanākhyañca) [āhutīm](āhutīṃ) [tāvatīm](tāvatīṃ) [hunet](hunet)
+[path](adhvānaṃ) [called-bhuvana](bhuvanākhyañca) [oblations](āhutīṃ) [so-many](tāvatīṃ) [should-offer](hunet)
 
 ## mukta-m0-p76-v1881
-[viśeṣa-karaṇe](viśeṣakaraṇe) [ca](ca) [eva](eva) [pratiyojya](pratiyojya) [kale](kale) [kale](kale)
+[in-special-performance](viśeṣakaraṇe) [and](caiva) [having-appointed](pratiyojya) [kalā-by-kalā](kale+kale)
 
 ## mukta-m0-p76-v1882
-[navātmakena](navātmakena) [deveśe](deveśe) [śāntyatītena](śāntyatītena) [vā](vā) [athavā](athavā)
+[with-nine-ātman](navātmakena) [lord](deveśe) [by-śāntyatīta](śāntyatītena) [or](vā'thavā)
 
 ## mukta-m0-p76-v1883
-[pūrvam](pūrvaṃ) [kalā](kalā) [sthāpya](sthāpya) [tataḥ](tato) [vāgīśvarīm](vāgīśvarīṃ) [nyaset](nyaset)
+[before](pūrvaṃ) [kalā](kalā) [having-placed](sthāpya) [then](tato) [vāgīśvarī](vāgīśvarīṃ) [should-place](nyaset)
 
 ## mukta-m0-p76-v1884
-[kalā-adhvānam](kalādhvānaṃ) [yathā](yathā) [śodhyam](śodhyaṃ) [deśikaiḥ](deśikaiḥ) [su-samāhitaiḥ](susamāhitaiḥ)
+[kalā-path](kalādhvānaṃ) [as](yathā) [to-be-purified](śodhyaṃ) [by-teachers](deśikaiḥ) [well-composed](susamāhitaiḥ)
 
 ## mukta-m0-p76-v1885
-[praṇava-eka-smṛtaḥ](praṇavaikasmṛtastatra) [tatra](tatra) [trayāṇām](trayāṇāṃ) [vara-varṇinī](varavarṇinī)
+[by-praṇava-alone-remembered](praṇavaikasmṛtastatra) [of-three](trayāṇāṃ) [excellent-woman](varavarṇinī)
 
 ## mukta-m0-p76-v1886
-[tasya](tasya) [vakṣyāmi](vakṣyāmyahaṃ) [aham](aham) [devi](devi) [tad-eka-agra-manāḥ](tadekāgramanāḥ) [śṛṇu](śṛṇu)
+[of-it](tasya) [i-will-speak](vakṣyāmyahaṃ) [goddess](devi) [that-one-pointed-mind](tadekāgramanāḥ) [listen](śṛṇu)
 
 ## mukta-m0-p76-v1887
-[prakṛtyante](prakṛtyante) [tu](tu) [deveśi](deveśi) [hunet](hunettatra) [tatra](tatra) [śatam](śataṃ) [śatam](śatam)
+[prakṛti-end](prakṛtyante) [but](tu) [goddess](deveśi) [should-offer](hunettatra) [hundred-hundred](śataṃ+śatam)
 
 ## mukta-m0-p76-v1888
-[ekaika-kalayā](ekaikakalayā) [devi](devi) [tattva-ekaikam](tattvekaikantu) [tu](tu) [homayet](homayet)
+[one-by-one-kalā](ekaikakalayā) [goddess](devi) [tattva-one-by-one](tattvekaikantu) [should-offer](homayet)
 
 ## mukta-m0-p76-v1889
-[puruṣam](puruṣamāditaḥ) [āditaḥ](āditaḥ) [kṛtvā](kṛtvā) [gṛdhyante](gṛdhyante) [tu](tu) [samāsataḥ](samāsataḥ)
+[puruṣa-first](puruṣamāditaḥ) [having-made](kṛtvā) [are-grasped](gṛdhyante) [in-brief](tu+samāsataḥ)
 
 ## mukta-m0-p76-v1890
-[kala-ekena](kalaikena) [tu](tu) [deveśi](deveśi) [juhuyāt](juhuyādāhutīśśatam) [āhutīḥ](āhutīḥ) [śatam](śatam)
+[by-one-kalā](kalaikena) [but](tu) [goddess](deveśi) [should-offer](juhuyādāhutīśśatam)
 
 ## mukta-m0-p76-v1891
-[māyā](māyā) [avidyā](avidyā) [ca](ca) [hotavyā](hotavyā) [aghorasya](aghorasya) [kalaiḥ](kalairbudhaḥ) [budhaḥ](budhaḥ)
+[māyā+avidyā](māyā'vidyā) [ca](ca) [should-be-offered](hotavyā) [of-aghora](aghorasya) [by-kalās](kalairbudhaḥ)
 
 ## mukta-m0-p76-v1892
-[īśvaram](īśvarannaiva) [na](na) [eva](eva) [deveśe](deveśe) [tathā](tathā) [tatvam](tatvaṃ) [sadāśivam](sadāśivam)
+[īśvara-not](īśvarannaiva) [goddess](deveśe) [thus](tathā) [tattva](tatvaṃ) [sadāśiva](sadāśivam)
 
 ## mukta-m0-p76-v1893
-[āhutīnām](āhutīnāñca) [ca](ca) [pañcāśat](pañcāśanmekaikena) [ekaikena](ekaikena) [tu](tu) [homayet](homayet)
+[of-oblations](āhutīnāñca) [fifty](pañcāśanmekaikena) [but](tu) [should-offer](homayet)
 
 ## mukta-m0-p76-v1894
-[śiva-tatvantu](śivatatvantu) [hotavyam](hotavyaṃ) [deśikena](deśikena) [mahātmanā](mahātmanā)
+[śiva-tattva](śivatatvantu) [should-be-offered](hotavyaṃ) [by-teacher](deśikena) [great-soul](mahātmanā)
 
 ## mukta-m0-p76-v1895
-[dvi-kalena](dvikalena) [tu](tu) [deveśi](deveśi) [vāme](vāme) [pūrṇāhuti](pūrṇāhuti) [smṛtā](smṛtā)
+[by-two-kalā](dvikalena) [but](tu) [goddess](deveśi) [in-vāma](vāme) [pūrṇāhuti](pūrṇāhuti) [remembered](smṛtā)
 
 ## mukta-m0-p76-v1896
-[catuṣ-kalena](catuṣkalehyaghorasya) [hi](hi) [aghorasya](aghorasya) [pūrṇāhutyaḥ](pūrṇāhutyaśśivasya) [śivasya](śivasya) [tu](tu)
+[by-four-kalā](catuṣkalehyaghorasya) [of-aghora](aghorasya) [pūrṇāhutis](pūrṇāhutyaśśivasya) [of-śiva](śivasya) [but](tu)
 
 ## mukta-m0-p76-v1897
-[īśāna-kalā-pañcena](īśānakalāpañcena) [huneta](huneta) [vara-varṇinī](varavarṇinī)
+[by-īśāna-kalā-five](īśānakalāpañcena) [should-offer](huneta) [excellent-woman](varavarṇinī)
 
 ## mukta-m0-p76-v1898
-[yojane](yojane) [karaṇam](karaṇaṃ) [yat](yacca) [ca](ca) [mayā](mayā) [pūrvam](pūrvamudāhṛtam) [udāhṛtam](udāhṛtam)
+[of-joining](yojane) [action](karaṇaṃ) [which](yacca) [by-me](mayā) [before](pūrvamudāhṛtam)
 
 ## mukta-m0-p76-v1899
-[etad](etaddevi) [devi](devi) [samākhyātam](samākhyātaṃ) [kalā-adhvānam](kalādhvānamaśeṣataḥ) [aśeṣataḥ](aśeṣataḥ)
+[this](etaddevi) [goddess](devi) [fully-described](samākhyātaṃ) [kalā-path](kalādhvānamaśeṣataḥ)
 
 ## mukta-m0-p76-v1900
-[bhuvana-adhvā](bhuvanādhvā) [kalā-adhvā](kalādhvā) [ca](ca) [kathitaḥ](kathitastu) [tu](tu) [samāsataḥ](samāsataḥ)
+[bhuvana-path](bhuvanādhvā) [kalā-path](kalādhvā) [ca](ca) [described](kathitastu) [in-brief](samāsataḥ)

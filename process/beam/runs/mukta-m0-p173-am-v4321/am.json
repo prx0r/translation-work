@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4321,
- "question": "What number is prescribed for the limbs such as japa and homa?",
+ "question": "How are green and black strips arranged up-down?",
  "premises": [
-  "Ritual limbs include japa and homa.",
-  "A specific number is stated.",
-  "The number is a hundred plus eight."
+  "up-down is named",
+  "green-strips is named",
+  "black-strips is named"
  ],
- "inference": "The prescribed number for japa, homa, and related limbs is one hundred and eight.",
- "uncertainties": [],
- "plain_english": "The number for the limbs such as japa and homa is one hundred and eight."
+ "inference": "The verse pairs colored strips vertically.",
+ "uncertainties": [
+  "exact order unclear"
+ ],
+ "plain_english": "Up-down and green strips, up-down black strips."
 }

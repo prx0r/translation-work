@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p29",
  "verse": 725,
- "question": "What are the prescribed shapes for the ritual object being described?",
+ "question": "What color is attributed to the deity in this description?",
  "premises": [
-  "The object is tin-shaped.",
-  "The object is also egg-like.",
-  "The description continues with tathā."
+  "śyāma means dark",
+  "varṇaḥ means color",
+  "the two tokens form a color statement"
  ],
- "inference": "The ritual object is described as having tin-shaped and egg-like forms.",
- "uncertainties": [
-  "The exact ritual referent of the shaped object is not stated in this verse."
- ],
- "plain_english": "Tin-shaped and egg-like, and..."
+ "inference": "The described deity has a dark color.",
+ "uncertainties": [],
+ "plain_english": "Dark is the color."
 }

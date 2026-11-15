@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4324,
- "question": "What beneficial outcomes are said to result from this ritual procedure?",
+ "question": "What play becomes possible after placing four pieces there?",
  "premises": [
-  "Removal of deaths is mentioned as an outcome.",
-  "Vision of the deity is mentioned likewise.",
-  "Both outcomes are presented together."
+  "four is named",
+  "there is named",
+  "pieces is named"
  ],
- "inference": "The procedure results in the removal of deaths and likewise in the vision of the deity.",
- "uncertainties": [],
- "plain_english": "There is the removal of deaths, and likewise the vision of the deity."
+ "inference": "The verse states a play condition.",
+ "uncertainties": [
+  "rules unclear"
+ ],
+ "plain_english": "Placing four pieces there, play becomes."
 }

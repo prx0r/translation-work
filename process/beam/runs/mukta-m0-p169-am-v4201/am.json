@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p169",
  "verse": 4201,
- "question": "How should one prepare to examine dreams according to instruction?",
+ "question": "Which attendants of the goddess bear umbrella and related emblems on the seven petals?",
  "premises": [
-  "One should eat lightly only once.",
-  "One should lie on the right side.",
-  "One should examine the dream according to instruction."
+  "The goddess has attendants.",
+  "They bear umbrella and related emblems.",
+  "They stand on seven petals."
  ],
- "inference": "Proper bodily preparation and posture enable correct examination of dreams.",
- "uncertainties": [],
- "plain_english": "Eating lightly once and lying on the right side, one should examine the dream according to the instruction."
+ "inference": "The attendants are the umbrella-bearing figures on the seven petals.",
+ "uncertainties": [
+  "Compound segmentation is not expanded."
+ ],
+ "plain_english": "The goddess's attendants, bearing umbrella and similar emblems, are on the seven petals."
 }

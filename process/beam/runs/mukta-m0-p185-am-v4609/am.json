@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4609,
- "question": "What restriction governs the teaching spoken out of affection to the disciple?",
+ "question": "How are the ritual grid cells counted and arranged in this passage?",
  "premises": [
-  "The teaching was spoken by the speaker",
-  "It was spoken with affection to the disciple",
-  "It must not be spoken to anyone else"
+  "grid cells are counted",
+  "arrangement follows stated order"
  ],
- "inference": "What was affectionately told to the disciple must not be disclosed to anyone",
- "uncertainties": [],
- "plain_english": "What I have told you out of affection must not be spoken to anyone."
+ "inference": "the passage specifies grid counts and positions",
+ "uncertainties": [
+  "surface fidelity only"
+ ],
+ "plain_english": "This passage gives ritual grid counts and positions."
 }

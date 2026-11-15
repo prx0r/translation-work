@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p183",
  "verse": 4569,
- "question": "What action should follow the recitation of one verse in this rite?",
+ "question": "What consequences are declared for ritual and social transgressions?",
  "premises": [
-  "Verses can be recited as part of ritual",
-  "One recitation is performed at a time",
-  "Unbroken rice is to be placed"
+  "transgressions incur severe consequences",
+  "ritual duties are binding"
  ],
- "inference": "After reciting one verse, one should place the unbroken rice",
- "uncertainties": [],
- "plain_english": "Having performed one recitation of the verses, one should place the unbroken rice."
+ "inference": "The verse lists declared outcomes for transgression.",
+ "uncertainties": [
+  "exact sandhi and compound boundaries not expanded"
+ ],
+ "plain_english": "A declared list of consequences for transgressions."
 }

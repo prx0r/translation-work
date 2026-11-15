@@ -1,0 +1,1260 @@
+{
+ "song": "mukta-m0-p175",
+ "items": [
+  {
+   "verse": 4351,
+   "rows": [
+    {
+     "surface": "saṃhṛtya",
+     "gloss": "contracting",
+     "grounds": "absolutive from saṃ-hṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "cells",
+     "grounds": "plural noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dvātriṃśat",
+     "gloss": "thirty-two",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "plus",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many cells are contracted into the hundred-plus-thirty-two total?",
+   "premises": [
+    "all cells are contracted",
+    "thirty-two plus hundred is total"
+   ],
+   "inference": "the grid total is one hundred thirty-two cells",
+   "uncertainties": [
+    "exact grid context unclear"
+   ],
+   "plain_english": "Contracting all cells, thirty-two plus a hundred."
+  },
+  {
+   "verse": 4352,
+   "rows": [
+    {
+     "surface": "ramyān",
+     "gloss": "beautiful",
+     "grounds": "adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śukān",
+     "gloss": "parrots",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vṛttakoṣṭhe",
+     "gloss": "in-round-cell",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caturo",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "draw",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and in what order are four beautiful parrots drawn?",
+   "premises": [
+    "four parrots are beautiful",
+    "they are drawn in round cell",
+    "order is specified"
+   ],
+   "inference": "four beautiful parrots are drawn in order in the round cell",
+   "uncertainties": [
+    "ritual purpose unclear"
+   ],
+   "plain_english": "Draw four beautiful parrots in order in the round cell."
+  },
+  {
+   "verse": 4353,
+   "rows": [
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "buraja",
+     "gloss": "tower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itya",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīritam",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is a pair not to be placed according to the tower rule?",
+   "premises": [
+    "elsewhere a pair does not occur",
+    "tower rule is stated"
+   ],
+   "inference": "the tower arrangement excludes a pair elsewhere",
+   "uncertainties": [
+    "exact spatial rule unclear"
+   ],
+   "plain_english": "Elsewhere a pair would not be; thus the tower rule is stated."
+  },
+  {
+   "verse": 4354,
+   "rows": [
+    {
+     "surface": "trikoṣṭhīm",
+     "gloss": "three-celled",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "antare",
+     "gloss": "middle",
+     "grounds": "locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhe",
+     "gloss": "in-cell",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sumaṃśubham",
+     "gloss": "very-auspicious",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What auspicious construction is made in the middle three-celled space?",
+   "premises": [
+    "three-celled form is made in middle",
+    "cell action is auspicious"
+   ],
+   "inference": "a very auspicious three-celled construction is made in the middle cell",
+   "uncertainties": [
+    "ritual context unclear"
+   ],
+   "plain_english": "Making a three-celled form in the middle, do a very auspicious cell."
+  },
+  {
+   "verse": 4355,
+   "rows": [
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "know",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣau",
+     "gloss": "two-dice",
+     "grounds": "noun",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ṣaḍaśrau",
+     "gloss": "six-sided",
+     "grounds": "adjective",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "determine",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How are two six-sided dice to be determined in order?",
+   "premises": [
+    "two dice are six-sided",
+    "they are determined in order"
+   ],
+   "inference": "two six-sided dice are determined in proper order",
+   "uncertainties": [
+    "dice values unclear"
+   ],
+   "plain_english": "Then know in order: determine two six-sided dice."
+  },
+  {
+   "verse": 4356,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asumam",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of numbers is listed for the dice values?",
+   "premises": [
+    "numbers two four six eight are given",
+    "then ten then five follow"
+   ],
+   "inference": "the dice value sequence is two, four, six, eight, ten, five",
+   "uncertainties": [
+    "meaning of asumam unclear"
+   ],
+   "plain_english": "Two, four, six, eight, and then ten, then five."
+  },
+  {
+   "verse": 4357,
+   "rows": [
+    {
+     "surface": "viṃśatiḥ",
+     "gloss": "twenty",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturviṃśatiḥ",
+     "gloss": "twenty-four",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkusumaṃ",
+     "gloss": "flowerless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Which totals become flowerless in this dice reckoning?",
+   "premises": [
+    "twenty and twenty-four are named",
+    "flowerless result follows"
+   ],
+   "inference": "totals of twenty and twenty-four are flowerless",
+   "uncertainties": [
+    "flowerless technical sense unclear"
+   ],
+   "plain_english": "Twenty and twenty-four become flowerless."
+  },
+  {
+   "verse": 4358,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-speak",
+     "grounds": "future",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tvagre",
+     "gloss": "tvagre",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "consider",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What fruit and names are to be considered next?",
+   "premises": [
+    "fruit will be spoken",
+    "names are considered thus"
+   ],
+   "inference": "the fruit and names of the arrangement are to be considered",
+   "uncertainties": [
+    "tvagre unexplained"
+   ],
+   "plain_english": "I will speak its fruit; consider the names thus."
+  },
+  {
+   "verse": 4359,
+   "rows": [
+    {
+     "surface": "ṣaṭsumo",
+     "gloss": "six-sum",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nissumena",
+     "gloss": "nissum",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "rasa",
+     "gloss": "rasa",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhiyate",
+     "gloss": "called",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is the six-sum called when combined with nissum?",
+   "premises": [
+    "six-sum with nissum is stated",
+    "it is called rasa"
+   ],
+   "inference": "the six-sum with nissum is called rasa",
+   "uncertainties": [
+    "nissum technical sense unclear"
+   ],
+   "plain_english": "The six-sum with nissum is called rasa."
+  },
+  {
+   "verse": 4360,
+   "rows": [
+    {
+     "surface": "daśasaṅkhyo",
+     "gloss": "ten-number",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nissumena",
+     "gloss": "nissum",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dikchabdena",
+     "gloss": "direction-word",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "called",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What name is given to the ten-number with nissum and direction-word?",
+   "premises": [
+    "ten-number with nissum is stated",
+    "direction-word names it"
+   ],
+   "inference": "the ten-number with nissum is named by the direction-word",
+   "uncertainties": [
+    "exact direction name unclear"
+   ],
+   "plain_english": "The ten-number with nissum is called by the direction-word."
+  },
+  {
+   "verse": 4361,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṅko",
+     "gloss": "sixteen-angled",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nissumena",
+     "gloss": "nissum",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kalāśabdena",
+     "gloss": "kalā-word",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "gīyate",
+     "gloss": "sung",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What name is sung for the sixteen-angled nissum?",
+   "premises": [
+    "sixteen-angled with nissum is stated",
+    "kalā-word names it"
+   ],
+   "inference": "the sixteen-angled nissum is sung as kalā",
+   "uncertainties": [
+    "kalā technical sense unclear"
+   ],
+   "plain_english": "The sixteen-angled nissum is sung as kalā."
+  },
+  {
+   "verse": 4362,
+   "rows": [
+    {
+     "surface": "viṃśatyaṅko",
+     "gloss": "twenty-angled",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nissumena",
+     "gloss": "nissum",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttānaḥ",
+     "gloss": "uttāna",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtiḥ",
+     "gloss": "creation",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "called",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What creation is called uttāna for the twenty-angled nissum?",
+   "premises": [
+    "twenty-angled with nissum is stated",
+    "it is called uttāna creation"
+   ],
+   "inference": "the twenty-angled nissum is called uttāna creation",
+   "uncertainties": [
+    "uttāna technical sense unclear"
+   ],
+   "plain_english": "Indeed the twenty-angled nissum is called uttāna creation."
+  },
+  {
+   "verse": 4363,
+   "rows": [
+    {
+     "surface": "nissumonissumena",
+     "gloss": "nissum",
+     "grounds": "fused sandhi form",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "uttānaśca",
+     "gloss": "uttāna",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "thus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yujya",
+     "gloss": "yujya",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īryate",
+     "gloss": "said",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is said about nissum with nissum and uttāna?",
+   "premises": [
+    "nissum with nissum is stated",
+    "uttāna is joined thus"
+   ],
+   "inference": "nissum with nissum and uttāna is said to be joined",
+   "uncertainties": [
+    "fused forms obscure exact syntax"
+   ],
+   "plain_english": "Nissum with nissum and uttāna is said to be joined."
+  },
+  {
+   "verse": 4364,
+   "rows": [
+    {
+     "surface": "sasaṅkhyā",
+     "gloss": "with-number",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "akṣau",
+     "gloss": "dice",
+     "grounds": "noun",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttānau",
+     "gloss": "uttāna",
+     "grounds": "adjective",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "bhavetāṃ",
+     "gloss": "be",
+     "grounds": "optative",
+     "morph": "3.du.act-opt"
+    },
+    {
+     "surface": "nissumaṃ",
+     "gloss": "nissum",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When are numbered dice uttāna without nissum?",
+   "premises": [
+    "numbered dice become uttāna",
+    "this occurs without nissum"
+   ],
+   "inference": "numbered dice are uttāna when nissum is absent",
+   "uncertainties": [
+    "exact condition unclear"
+   ],
+   "plain_english": "Numbered dice become uttāna without nissum."
+  },
+  {
+   "verse": 4365,
+   "rows": [
+    {
+     "surface": "śiṣṭā",
+     "gloss": "remaining",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "krīḍā",
+     "gloss": "play",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasiddhā",
+     "gloss": "famous",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "akṣakrīḍā",
+     "gloss": "dice-play",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What remaining play is spoken by the wise?",
+   "premises": [
+    "remaining play is famous",
+    "dice-play is spoken by wise"
+   ],
+   "inference": "the remaining famous dice-play is spoken by the wise",
+   "uncertainties": [
+    "remaining play scope unclear"
+   ],
+   "plain_english": "The remaining famous dice-play is spoken by the wise."
+  },
+  {
+   "verse": 4366,
+   "rows": [
+    {
+     "surface": "nandanā",
+     "gloss": "nandana",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āṣāḍha",
+     "gloss": "āṣāḍha",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuklasya",
+     "gloss": "bright",
+     "grounds": "adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tve",
+     "gloss": "tv",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśyāṃ",
+     "gloss": "eleventh",
+     "grounds": "ordinal",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "raver",
+     "gloss": "sun",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "On what bright eleventh day is the tower dice-play explained?",
+   "premises": [
+    "nandana āṣāḍha bright eleventh is named",
+    "sun day is named"
+   ],
+   "inference": "the tower dice-play is explained on that bright eleventh sun day",
+   "uncertainties": [
+    "nandanā role unclear"
+   ],
+   "plain_english": "On the bright eleventh of āṣāḍha, on the sun's day."
+  },
+  {
+   "verse": 4367,
+   "rows": [
+    {
+     "surface": "burajva",
+     "gloss": "tower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "akṣakrīḍanasya",
+     "gloss": "dice-play",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prakāraṃ",
+     "gloss": "manner",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyavṛṇot",
+     "gloss": "explained",
+     "grounds": "aorist",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who explained the manner of tower dice-play?",
+   "premises": [
+    "tower dice-play manner is named",
+    "he explained it himself"
+   ],
+   "inference": "the speaker himself explained the manner of tower dice-play",
+   "uncertainties": [
+    "speaker identity unclear"
+   ],
+   "plain_english": "He himself explained the manner of tower dice-play."
+  },
+  {
+   "verse": 4368,
+   "rows": [
+    {
+     "surface": "likhet",
+     "gloss": "draw",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pratidalaṃ",
+     "gloss": "each-petal",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ramyaṃ",
+     "gloss": "beautiful",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṣṭhadvādaśakaṃ",
+     "gloss": "cell-twelve",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What beautiful twelve-celled figure is drawn in each petal?",
+   "premises": [
+    "each petal is named",
+    "beautiful twelve-cell is drawn in order"
+   ],
+   "inference": "a beautiful twelve-celled figure is drawn in each petal in order",
+   "uncertainties": [
+    "petal context unclear"
+   ],
+   "plain_english": "Draw in each petal a beautiful twelve-celled figure in order."
+  },
+  {
+   "verse": 4369,
+   "rows": [
+    {
+     "surface": "dvādaśāṃśaṃ",
+     "gloss": "twelve-part",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rāśicakram",
+     "gloss": "zodiac-circle",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "itya",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anumanyatām",
+     "gloss": "accepted",
+     "grounds": "imperative",
+     "morph": "3.sg.act-imp"
+    }
+   ],
+   "question": "What twelve-part zodiac circle is accepted here?",
+   "premises": [
+    "twelve-part zodiac circle is named",
+    "it is accepted thus"
+   ],
+   "inference": "this twelve-part zodiac circle is accepted",
+   "uncertainties": [
+    "astrological application unclear"
+   ],
+   "plain_english": "This twelve-part zodiac circle is accepted thus."
+  },
+  {
+   "verse": 4370,
+   "rows": [
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "cells",
+     "grounds": "noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "jānīyān",
+     "gloss": "know",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "navāṃśaiḥ",
+     "gloss": "nine-parts",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "triṃśadaṃśakaiḥ",
+     "gloss": "thirty-degrees",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How are those cells known by nine parts and thirty degrees?",
+   "premises": [
+    "those cells are named",
+    "they are known by nine parts and thirty degrees"
+   ],
+   "inference": "those cells are known through nine parts and thirty degrees",
+   "uncertainties": [
+    "calculation method unclear"
+   ],
+   "plain_english": "Know those cells by nine parts and thirty degrees."
+  },
+  {
+   "verse": 4371,
+   "rows": [
+    {
+     "surface": "navagrahāḥ",
+     "gloss": "nine-planets",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svākṛtayaḥ",
+     "gloss": "own-forms",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śārāḥ",
+     "gloss": "dice",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "syuḥ",
+     "grounds": "optative",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "sumanoharāḥ",
+     "gloss": "beautiful",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What beautiful dice represent the nine planets in their own forms?",
+   "premises": [
+    "nine planets have own forms",
+    "dice are beautiful"
+   ],
+   "inference": "beautiful dice represent the nine planets in their own forms",
+   "uncertainties": [
+    "color mapping follows"
+   ],
+   "plain_english": "The nine planets in their own forms are beautiful dice."
+  },
+  {
+   "verse": 4372,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haritaḥ",
+     "gloss": "green",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pītaḥ",
+     "gloss": "yellow",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śveto",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asitaḥ",
+     "gloss": "black",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What colors are assigned to the planetary dice?",
+   "premises": [
+    "white red green yellow white black are listed",
+    "thus completes color set"
+   ],
+   "inference": "the planetary dice are colored white, red, green, yellow, white, and black",
+   "uncertainties": [
+    "planet-color pairing not explicit"
+   ],
+   "plain_english": "White, red, green, yellow, white, and black, thus."
+  },
+  {
+   "verse": 4373,
+   "rows": [
+    {
+     "surface": "ravyādīnāṃ",
+     "gloss": "of-sun-etc",
+     "grounds": "genitive compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptānāṃ",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "motion",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "savyena",
+     "gloss": "right",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "vai",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "In which direction is the motion of the seven planets remembered?",
+   "premises": [
+    "seven planets from sun are named",
+    "motion is remembered rightward"
+   ],
+   "inference": "the motion of the seven planets is remembered as rightward",
+   "uncertainties": [
+    "savyena exact direction unclear"
+   ],
+   "plain_english": "The motion of the seven planets from the sun is remembered as rightward."
+  },
+  {
+   "verse": 4374,
+   "rows": [
+    {
+     "surface": "aticāra",
+     "gloss": "transit",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "motion",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vakrā",
+     "gloss": "retrograde",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "stambhaḥ",
+     "gloss": "station",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "evaṃ",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛjuḥ",
+     "gloss": "straight",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "matā",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What motions are counted besides rightward planetary motion?",
+   "premises": [
+    "transit motion is named",
+    "retrograde station and straight are named"
+   ],
+   "inference": "transit, retrograde, station, and straight motions are counted",
+   "uncertainties": [
+    "exact classification unclear"
+   ],
+   "plain_english": "Transit, retrograde, station, and straight motion are counted."
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4241,
- "question": "Why are the speakers unable to utter harsh words in this situation?",
+ "question": "Which pieces are listed with king queen chariot horse foot soldier flag?",
  "premises": [
-  "The addressee is honored as tiger among sages.",
-  "Harsh speech is the action in question.",
-  "The speakers are unable to perform it."
+  "the verse names king queen",
+  "it names chariot horse",
+  "it names foot soldier flag"
  ],
- "inference": "Out of the stated circumstance, the speakers cannot bring themselves to speak harshly.",
+ "inference": "these pieces form the listed set",
  "uncertainties": [
-  "The precise cause indicated by atas depends on the immediately preceding context."
+  "token fusion"
  ],
- "plain_english": "Therefore, O tiger among sages, they are unable to speak harsh words."
+ "plain_english": "King, queen, chariot, horse, foot soldier, flag."
 }

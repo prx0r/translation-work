@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p176",
  "verse": 4391,
- "question": "What contemplative practice should be performed at this stage of the rite?",
+ "question": "What is excellent among the twenty-eight in the middle?",
  "premises": [
-  "Meditation is named as the practice.",
-  "The practice is prescribed as something to perform."
+  "Twenty-eight items are named",
+  "The middle is named",
+  "The excellent one is named"
  ],
- "inference": "One should perform the meditation.",
- "uncertainties": [],
- "plain_english": "One should perform the meditation."
+ "inference": "The excellent one lies in the middle of the twenty-eight.",
+ "uncertainties": [
+  "The exact item is not named"
+ ],
+ "plain_english": "Among the twenty-eight, the excellent one is in the middle."
 }

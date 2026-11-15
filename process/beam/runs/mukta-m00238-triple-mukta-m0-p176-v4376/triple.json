@@ -1,0 +1,1067 @@
+{
+ "song": "mukta-m0-p176",
+ "items": [
+  {
+   "verse": 4376,
+   "rows": [
+    {
+     "surface": "ekasmin",
+     "gloss": "in-one",
+     "grounds": "token as listed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "thus",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyasmin",
+     "gloss": "in-another",
+     "grounds": "token as listed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "token as listed",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "token as listed",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many dice or pieces are placed in each of the four directions?",
+   "premises": [
+    "The verse lists counts one two three and five",
+    "The counts are distributed across directions",
+    "The game board has four sides"
+   ],
+   "inference": "The verse enumerates directional placements for the dice game.",
+   "uncertainties": [
+    "Exact mapping of counts to directions is not explicit"
+   ],
+   "plain_english": "One in one direction, two in another, three and five elsewhere."
+  },
+  {
+   "verse": 4377,
+   "rows": [
+    {
+     "surface": "yadaikasaṅkhyaḥ",
+     "gloss": "when-one-count",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cottānaḥ",
+     "gloss": "upright",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asiṃhādimāṃśake",
+     "gloss": "in-Aries-etc-portion",
+     "grounds": "fused form retained",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the one-count upright piece placed?",
+   "premises": [
+    "One-count upright piece is mentioned",
+    "Placement occurs in Aries portion",
+    "The verse gives a directional rule"
+   ],
+   "inference": "The one-count upright piece belongs in the Aries portion.",
+   "uncertainties": [
+    "The exact astrological portion is abbreviated"
+   ],
+   "plain_english": "When the count is one and upright, place it in the Aries portion."
+  },
+  {
+   "verse": 4378,
+   "rows": [
+    {
+     "surface": "vidhuṃtrisaṅkhyaḥ",
+     "gloss": "Moon-three-count",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cottānaḥ",
+     "gloss": "upright",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kujaṃ",
+     "gloss": "Mars",
+     "grounds": "token as listed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "meṣādim",
+     "gloss": "in-Aries-etc",
+     "grounds": "token as listed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "enyaset",
+     "gloss": "place",
+     "grounds": "token as listed",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should Mars be placed when the Moon count is three?",
+   "premises": [
+    "Moon count is three",
+    "Mars is the object placed",
+    "Placement is in Aries and following signs"
+   ],
+   "inference": "Mars is placed in the Aries sequence when the Moon count is three.",
+   "uncertainties": [
+    "The exact sign sequence is abbreviated"
+   ],
+   "plain_english": "With a three-count Moon upright, place Mars in Aries and following signs."
+  },
+  {
+   "verse": 4379,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cottānaḥ",
+     "gloss": "upright",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcasaṅkhyaḥ",
+     "gloss": "five-count",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "Jupiter",
+     "grounds": "token as listed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "minādim",
+     "gloss": "in-Pisces-etc",
+     "grounds": "token as listed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "enyaset",
+     "gloss": "place",
+     "grounds": "token as listed",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should Jupiter be placed when the count is five?",
+   "premises": [
+    "Count is five",
+    "Jupiter is the object placed",
+    "Placement begins in Pisces"
+   ],
+   "inference": "Jupiter is placed beginning in Pisces when the count is five.",
+   "uncertainties": [
+    "The full sign sequence is abbreviated"
+   ],
+   "plain_english": "Thus with a five-count upright, place Jupiter beginning in Pisces."
+  },
+  {
+   "verse": 4380,
+   "rows": [
+    {
+     "surface": "saptasaṅkhyaḥ",
+     "gloss": "seven-count",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadottānaḥ",
+     "gloss": "when-upright",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "makarādau",
+     "gloss": "in-Capricorn-beginning",
+     "grounds": "token as listed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaniṃ",
+     "gloss": "Saturn",
+     "grounds": "token as listed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "token as listed",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should Saturn be placed when the count is seven?",
+   "premises": [
+    "Count is seven",
+    "Saturn is the object placed",
+    "Placement begins in Capricorn"
+   ],
+   "inference": "Saturn is placed beginning in Capricorn when the count is seven.",
+   "uncertainties": [
+    "The exact placement rule beyond beginning is abbreviated"
+   ],
+   "plain_english": "When the count is seven and upright, place Saturn beginning in Capricorn."
+  },
+  {
+   "verse": 4381,
+   "rows": [
+    {
+     "surface": "navasaṅkhyaḥ",
+     "gloss": "nine-count",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadottānaḥ",
+     "gloss": "when-upright",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ketuḥ",
+     "gloss": "Ketu",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛścikādime",
+     "gloss": "in-Scorpio-beginning",
+     "grounds": "token as listed",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is Ketu placed when the count is nine?",
+   "premises": [
+    "Count is nine",
+    "Ketu is the subject",
+    "Placement is in Scorpio beginning"
+   ],
+   "inference": "Ketu is placed in the Scorpio beginning when the count is nine.",
+   "uncertainties": [
+    "The verse lacks an explicit verb"
+   ],
+   "plain_english": "When the count is nine and upright, Ketu is in the Scorpio beginning."
+  },
+  {
+   "verse": 4382,
+   "rows": [
+    {
+     "surface": "ekādidvādaśānta",
+     "gloss": "from-one-to-twelve",
+     "grounds": "fused form retained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛjvīvakrāparā",
+     "gloss": "straight-crooked-other",
+     "grounds": "fused form retained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "token as listed",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What kinds of placement are remembered from one to twelve?",
+   "premises": [
+    "The range runs from one to twelve",
+    "Straight crooked and other types are named",
+    "The verse says they are remembered"
+   ],
+   "inference": "Placements from one to twelve include straight, crooked, and other kinds.",
+   "uncertainties": [
+    "The exact classification is compressed"
+   ],
+   "plain_english": "From one to twelve, straight, crooked, and other placements are remembered."
+  },
+  {
+   "verse": 4383,
+   "rows": [
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "placement",
+     "grounds": "token as listed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hananaṃ",
+     "gloss": "striking",
+     "grounds": "token as listed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokasiddhākṣavat",
+     "gloss": "world-accomplished-dice-like",
+     "grounds": "fused form retained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "token as listed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What two actions are remembered like world-accomplished dice?",
+   "premises": [
+    "Placement and striking are named",
+    "They are compared to world-accomplished dice",
+    "The verse says they are remembered"
+   ],
+   "inference": "Placement and striking are remembered as world-accomplished dice actions.",
+   "uncertainties": [
+    "The dice comparison is metaphorical"
+   ],
+   "plain_english": "Placement and striking are remembered like world-accomplished dice."
+  },
+  {
+   "verse": 4384,
+   "rows": [
+    {
+     "surface": "śārāṇāṃ",
+     "gloss": "of-dice",
+     "grounds": "token as listed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "token as listed",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kintu",
+     "gloss": "what",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stambhaḥ",
+     "gloss": "obstruction",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "token as listed",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvidaḥ",
+     "gloss": "knowers",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What do knowers say dice do not become?",
+   "premises": [
+    "Dice are the subject",
+    "They do not become something",
+    "Obstruction would be the alternative"
+   ],
+   "inference": "Knowers say dice do not become mere obstruction.",
+   "uncertainties": [
+    "The exact intended sense of obstruction is unclear"
+   ],
+   "plain_english": "Dice do not become mere obstruction, say the knowers."
+  },
+  {
+   "verse": 4385,
+   "rows": [
+    {
+     "surface": "nandanena",
+     "gloss": "by-Nanda",
+     "grounds": "token as listed",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhasaḥ",
+     "gloss": "of-sky",
+     "grounds": "token as listed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kṛṣṇe",
+     "gloss": "in-Krishna",
+     "grounds": "token as listed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tvaṣṭamyāṃ",
+     "gloss": "on-eighth",
+     "grounds": "token as listed",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ravivāsare",
+     "gloss": "Sun-day",
+     "grounds": "token as listed",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "When and by whom is the sky-related rite performed?",
+   "premises": [
+    "Nanda performs it",
+    "It concerns sky",
+    "It occurs on the eighth in Krishna on Sunday"
+   ],
+   "inference": "Nanda performs the sky-related rite on the eighth in Krishna on Sunday.",
+   "uncertainties": [
+    "The exact rite is not named"
+   ],
+   "plain_english": "By Nanda, the sky rite is on the eighth in Krishna on Sunday."
+  },
+  {
+   "verse": 4386,
+   "rows": [
+    {
+     "surface": "navagrahākṣakrīḍāyāḥ",
+     "gloss": "nine-planet-dice-game",
+     "grounds": "fused form retained",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prakāraḥ",
+     "gloss": "method",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśitaḥ",
+     "gloss": "revealed",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What method has been revealed in this passage?",
+   "premises": [
+    "The method belongs to the nine-planet dice game",
+    "This method is named",
+    "It has been revealed"
+   ],
+   "inference": "The method of the nine-planet dice game has been revealed.",
+   "uncertainties": [
+    "The full rules are not given here"
+   ],
+   "plain_english": "This method of the nine-planet dice game is revealed."
+  },
+  {
+   "verse": 4387,
+   "rows": [
+    {
+     "surface": "tatrādimaḥ",
+     "gloss": "there-first",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prākāraḥ",
+     "gloss": "wall",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "catuṣṣaṣṭi",
+     "gloss": "sixty-four",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhānvitaḥ",
+     "gloss": "houses",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many houses does the first wall there contain?",
+   "premises": [
+    "The first wall is named",
+    "It contains sixty-four houses",
+    "The location is there"
+   ],
+   "inference": "The first wall contains sixty-four houses.",
+   "uncertainties": [
+    "The board layout is only partially described"
+   ],
+   "plain_english": "There the first wall contains sixty-four houses."
+  },
+  {
+   "verse": 4388,
+   "rows": [
+    {
+     "surface": "catvāriṃśat",
+     "gloss": "forty",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhakaiḥ",
+     "gloss": "squares",
+     "grounds": "token as listed",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃyuto",
+     "gloss": "joined",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "token as listed",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How many squares join the third wall?",
+   "premises": [
+    "Forty squares are named",
+    "The third wall is named",
+    "It becomes joined with them"
+   ],
+   "inference": "The third wall is joined with forty squares.",
+   "uncertainties": [
+    "The exact joining rule is not explicit"
+   ],
+   "plain_english": "The third wall becomes joined with forty squares."
+  },
+  {
+   "verse": 4389,
+   "rows": [
+    {
+     "surface": "dvātriṃśat",
+     "gloss": "thirty-two",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhasaṃyuktaḥ",
+     "gloss": "squares-joined",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāraḥ",
+     "gloss": "wall",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many squares join the fifth wall?",
+   "premises": [
+    "Thirty-two squares are named",
+    "The fifth wall is named",
+    "It is joined with squares"
+   ],
+   "inference": "The fifth wall is joined with thirty-two squares.",
+   "uncertainties": [
+    "The exact board geometry is not explicit"
+   ],
+   "plain_english": "The fifth wall is joined with thirty-two squares."
+  },
+  {
+   "verse": 4390,
+   "rows": [
+    {
+     "surface": "tadantare",
+     "gloss": "within-that",
+     "grounds": "fused form retained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prākāraḥ",
+     "gloss": "wall",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturviṃśati",
+     "gloss": "twenty-four",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhakaḥ",
+     "gloss": "squares",
+     "grounds": "token as listed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many squares are in the wall within that?",
+   "premises": [
+    "The wall is within that",
+    "Twenty-four squares are named",
+    "The wall has squares"
+   ],
+   "inference": "The inner wall has twenty-four squares.",
+   "uncertainties": [
+    "The referent of that is not explicit"
+   ],
+   "plain_english": "Within that, the wall has twenty-four squares."
+  },
+  {
+   "verse": 4391,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśatisaṅkhyānāṃ",
+     "gloss": "of-twenty-eight",
+     "grounds": "fused form retained",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "its",
+     "grounds": "token as listed",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "anuttamam",
+     "gloss": "excellent",
+     "grounds": "token as listed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is excellent among the twenty-eight in the middle?",
+   "premises": [
+    "Twenty-eight items are named",
+    "The middle is named",
+    "The excellent one is named"
+   ],
+   "inference": "The excellent one lies in the middle of the twenty-eight.",
+   "uncertainties": [
+    "The exact item is not named"
+   ],
+   "plain_english": "Among the twenty-eight, the excellent one is in the middle."
+  },
+  {
+   "verse": 4392,
+   "rows": [
+    {
+     "surface": "prākārātprathamāt",
+     "gloss": "from-first-wall",
+     "grounds": "fused form retained",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vāhye",
+     "gloss": "outside",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prākpratyagdakṣiṇottare",
+     "gloss": "east-south-west-north",
+     "grounds": "fused form retained",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where outside the first wall are the four directions?",
+   "premises": [
+    "The first wall is the reference",
+    "Outside is named",
+    "East south west and north are named"
+   ],
+   "inference": "Outside the first wall lie the four cardinal directions.",
+   "uncertainties": [
+    "The exact spatial arrangement is compressed"
+   ],
+   "plain_english": "Outside the first wall are east, south, west, and north."
+  },
+  {
+   "verse": 4393,
+   "rows": [
+    {
+     "surface": "yataḥ",
+     "gloss": "whence",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krīḍāpravarteta",
+     "gloss": "game-proceeds",
+     "grounds": "fused form retained",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "catvāraḥ",
+     "gloss": "four",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "krīḍakāḥ",
+     "gloss": "players",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many players are remembered for the game?",
+   "premises": [
+    "The game proceeds from there",
+    "Four players are named",
+    "They are remembered"
+   ],
+   "inference": "Four players are remembered for the game.",
+   "uncertainties": [
+    "The exact starting rule is not explicit"
+   ],
+   "plain_english": "From there the game proceeds; four players are remembered."
+  },
+  {
+   "verse": 4394,
+   "rows": [
+    {
+     "surface": "haritaḥ",
+     "gloss": "green",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣāḥ",
+     "gloss": "dice",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāraḥ",
+     "gloss": "four",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "caturaśrakāḥ",
+     "gloss": "square",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What color and shape are the four dice?",
+   "premises": [
+    "Four dice are named",
+    "They are green",
+    "They are square"
+   ],
+   "inference": "The four dice are green and square.",
+   "uncertainties": [
+    "The exact dice material is not named"
+   ],
+   "plain_english": "Thus four green square dice."
+  },
+  {
+   "verse": 4395,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anye",
+     "gloss": "other",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "caturakṣāḥ",
+     "gloss": "four-dice",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "caturaśrāḥ",
+     "gloss": "square",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What other dice are declared in the game?",
+   "premises": [
+    "Other dice are named",
+    "They are four-dice",
+    "They are square and declared"
+   ],
+   "inference": "Other four square dice are declared.",
+   "uncertainties": [
+    "The distinction from previous dice is not explicit"
+   ],
+   "plain_english": "Thus other four square dice are declared."
+  },
+  {
+   "verse": 4396,
+   "rows": [
+    {
+     "surface": "svasthānāt",
+     "gloss": "from-own-place",
+     "grounds": "token as listed",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śārakān",
+     "gloss": "dice",
+     "grounds": "token as listed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ramyān",
+     "gloss": "pleasant",
+     "grounds": "token as listed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "akṣapuṣpakrameṇa",
+     "gloss": "by-dice-flower-order",
+     "grounds": "fused form retained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are pleasant dice moved from their own place?",
+   "premises": [
+    "Dice are pleasant",
+    "They move from own place",
+    "The order is by dice-flower"
+   ],
+   "inference": "Pleasant dice move from their own place by dice-flower order.",
+   "uncertainties": [
+    "The exact movement rule is compressed"
+   ],
+   "plain_english": "Indeed pleasant dice move from their own place by dice-flower order."
+  },
+  {
+   "verse": 4397,
+   "rows": [
+    {
+     "surface": "phalatomuktim",
+     "gloss": "result-liberation",
+     "grounds": "fused form retained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpannāḥ",
+     "gloss": "obtained",
+     "grounds": "token as listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krīḍāsukovidāḥ",
+     "gloss": "game-experts",
+     "grounds": "fused form retained",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What do game experts say is obtained as result?",
+   "premises": [
+    "Result-liberation is named",
+    "It is obtained",
+    "Game experts say thus"
+   ],
+   "inference": "Game experts say liberation is obtained as the result.",
+   "uncertainties": [
+    "The exact game result is metaphorical"
+   ],
+   "plain_english": "Thus game experts obtain liberation as the result."
+  },
+  {
+   "verse": 4398,
+   "rows": [
+    {
+     "surface": "śakeśālīvāhanasya",
+     "gloss": "in-Shaka-Shalivahana",
+     "grounds": "fused form retained",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ṣaṣṭyuttaramunīnduke",
+     "gloss": "sixty-plus-eighteen?",
+     "grounds": "token as listed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "?",
+     "gloss": "unknown",
+     "grounds": "token as listed",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What date is given in the Shaka-Shalivahana era?",
+   "premises": [
+    "Shaka-Shalivahana era is named",
+    "Sixty plus eighteen is named",
+    "A final token is unclear"
+   ],
+   "inference": "The verse gives a Shaka-Shalivahana date with an unclear final token.",
+   "uncertainties": [
+    "The final token is marked unknown"
+   ],
+   "plain_english": "In the Shaka-Shalivahana era, sixty plus eighteen, with an unclear final token."
+  },
+  {
+   "verse": 4399,
+   "rows": [
+    {
+     "surface": "śrīcāmuṇḍākṛpāpūṇa",
+     "gloss": "Shri-Chamunda-grace-filled",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāmarājatanubhavā",
+     "gloss": "Chamaraja-born",
+     "grounds": "fused form retained",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is filled with Shri Chamunda's grace and born of Chamaraja?",
+   "premises": [
+    "Shri Chamunda grace is named",
+    "Chamaraja birth is named",
+    "The subject is implied"
+   ],
+   "inference": "The subject is filled with Shri Chamunda's grace and born of Chamaraja.",
+   "uncertainties": [
+    "The subject is not explicitly named"
+   ],
+   "plain_english": "Filled with Shri Chamunda's grace, born of Chamaraja."
+  }
+ ]
+}

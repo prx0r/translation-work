@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p175",
+ "items": [
+  {
+   "verse": 4375,
+   "rows": [
+    {
+     "surface": "akṣau",
+     "gloss": "dice",
+     "grounds": "akṣa in dual accusative",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral in dual accusative",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "caturaśrau",
+     "gloss": "four-square",
+     "grounds": "adjective agreeing with dual dice",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "syātāṃ",
+     "gloss": "may-be",
+     "grounds": "optative third person dual of as",
+     "morph": "3.du.opt (as)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśvacatuṣṭaye",
+     "gloss": "side-four",
+     "grounds": "compound in locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What shape should the two dice take in the side-four arrangement?",
+   "premises": [
+    "two dice are considered",
+    "four-square is one option",
+    "side-four is another option"
+   ],
+   "inference": "The verse prescribes either four-square dice or a four-sided arrangement.",
+   "uncertainties": [
+    "Exact ritual context is unclear; dice reading follows the legacy hint."
+   ],
+   "plain_english": "The two dice should be four-square, or in a four-sided arrangement."
+  }
+ ]
+}

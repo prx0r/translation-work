@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4240,
- "question": "What request is made to the lord as the cause of the supplicant's upliftment?",
+ "question": "What is said about wind cloud giver and mohini ten in order?",
  "premises": [
-  "Favor is requested.",
-  "The lord is addressed.",
-  "The favor is described as the cause of the speaker's upliftment."
+  "the verse names wind cloud giver",
+  "it names mohini ten",
+  "it says in order"
  ],
- "inference": "The supplicant asks the lord for favor that will bring upliftment.",
- "uncertainties": [],
- "plain_english": "O lord, let favor be shown as the cause of my upliftment."
+ "inference": "wind cloud giver and mohini ten are in order",
+ "uncertainties": [
+  "compressed syntax"
+ ],
+ "plain_english": "Wind cloud giver, Mohini ten, in order."
 }

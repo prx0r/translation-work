@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 659,
- "question": "How is the height of the ābhāsa building divided according to this teaching?",
+ "question": "How are the extended arm and fearless hand positioned?",
  "premises": [
-  "The context is the ābhāsa building.",
-  "The height is the dimension under discussion.",
-  "The height is described as fivefold."
+  "The verse mentions extended arm.",
+  "The left side is mentioned.",
+  "The right side has fearless hand."
  ],
- "inference": "In the ābhāsa building, the height is divided into five parts.",
- "uncertainties": [],
- "plain_english": "O twice-born one, in the ābhāsa building the height is divided into five parts."
+ "inference": "This verse describes arm and hand positioning.",
+ "uncertainties": [
+  "Exact sandhi and case parsing not fully verified."
+ ],
+ "plain_english": "The extended arm is on the left and the fearless hand is on the right."
 }

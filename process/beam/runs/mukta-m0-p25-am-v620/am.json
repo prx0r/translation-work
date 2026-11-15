@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 620,
- "question": "With what kind of ornaments should the deity be adorned in this step?",
+ "question": "What bodily marking and sacred thread are described?",
  "premises": [
-  "Adornment is performed with ornaments.",
-  "The ornaments shine with various gems.",
-  "The action is described as thus adorning."
+  "ash-smeared is stated",
+  "all is stated",
+  "snake sacred thread is stated"
  ],
- "inference": "The deity should be adorned with ornaments shining with various gems.",
- "uncertainties": [],
- "plain_english": "Thus having adorned with ornaments shining with various gems."
+ "inference": "The body is ash-smeared all over and has a snake sacred thread.",
+ "uncertainties": [
+  "compound not split"
+ ],
+ "plain_english": "The body is ash-smeared and has a snake sacred thread."
 }

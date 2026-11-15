@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p176",
  "verse": 4385,
- "question": "What lifespan is promised to one who properly gazes upon the sun?",
+ "question": "When and by whom is the sky-related rite performed?",
  "premises": [
-  "The practitioner should properly gaze upon the sun.",
-  "A lifespan measured in autumns is specified.",
-  "The number given is one hundred."
+  "Nanda performs it",
+  "It concerns sky",
+  "It occurs on the eighth in Krishna on Sunday"
  ],
- "inference": "One who properly gazes upon the sun will live for a hundred autumns.",
- "uncertainties": [],
- "plain_english": "He who properly gazes upon the sun will live for a hundred years."
+ "inference": "Nanda performs the sky-related rite on the eighth in Krishna on Sunday.",
+ "uncertainties": [
+  "The exact rite is not named"
+ ],
+ "plain_english": "By Nanda, the sky rite is on the eighth in Krishna on Sunday."
 }

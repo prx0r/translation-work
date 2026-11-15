@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p169",
  "verse": 4220,
- "question": "What acts of drinking and eating in dreams are presented as significant signs?",
+ "question": "What weapons are listed in order?",
  "premises": [
-  "The context is a dream.",
-  "Drinking wine is mentioned.",
-  "Eating raw meat is mentioned."
+  "Dagger and fist are mentioned.",
+  "Noose, serpent, and whip are mentioned."
  ],
- "inference": "Drinking wine and eating raw meat in a dream are presented as notable dream signs.",
- "uncertainties": [],
- "plain_english": "But in a dream, drinking wine and eating raw meat."
+ "inference": "The verse lists weapons in order.",
+ "uncertainties": [
+  "Compound parsing uncertain."
+ ],
+ "plain_english": "The weapons are listed in order."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4612,
- "question": "On which lunar days in both fortnights should the prescribed observance occur?",
+ "question": "How are the ritual grid cells counted and arranged in this passage?",
  "premises": [
-  "The eighth day is specified",
-  "The fourteenth day is specified",
-  "Both lunar fortnights are included"
+  "grid cells are counted",
+  "arrangement follows stated order"
  ],
- "inference": "The observance should be done on the eighth and fourteenth days of both fortnights",
- "uncertainties": [],
- "plain_english": "On the eighth and on the fourteenth day, in both fortnights as well."
+ "inference": "the passage specifies grid counts and positions",
+ "uncertainties": [
+  "surface fidelity only"
+ ],
+ "plain_english": "This passage gives ritual grid counts and positions."
 }

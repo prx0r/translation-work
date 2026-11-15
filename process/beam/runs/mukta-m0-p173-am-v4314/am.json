@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4314,
- "question": "On what material should the mantra be written using these substances?",
+ "question": "How many squares in each petal follow three-eight in order?",
  "premises": [
-  "The mantra is written with these substances.",
-  "The surface is birch leaf.",
-  "The birch leaf is described as beautiful."
+  "in-each is named",
+  "squares is named",
+  "petal is named"
  ],
- "inference": "The mantra should be written with these substances on a beautiful birch leaf.",
- "uncertainties": [],
- "plain_english": "The mantra, written with these, should be on a beautiful birch leaf."
+ "inference": "The verse specifies square counts.",
+ "uncertainties": [
+  "count interpretation unclear"
+ ],
+ "plain_english": "In each petal, squares three-eight in order indeed."
 }

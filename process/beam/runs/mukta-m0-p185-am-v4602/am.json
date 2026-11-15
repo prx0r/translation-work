@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4602,
- "question": "Can ritual practice yield success or failure regardless of auxiliary components?",
+ "question": "How are the ritual grid cells counted and arranged in this passage?",
  "premises": [
-  "Practice may be without auxiliary parts",
-  "Practice may be with auxiliary parts",
-  "Either form may be fruitful or fruitless"
+  "grid cells are counted",
+  "arrangement follows stated order"
  ],
- "inference": "The presence or absence of auxiliary parts does not by itself determine the outcome",
+ "inference": "the passage specifies grid counts and positions",
  "uncertainties": [
-  "The conditions determining fruitfulness are not stated here"
+  "surface fidelity only"
  ],
- "plain_english": "Whether done without or with its auxiliary parts, the practice may be fruitless or fruitful."
+ "plain_english": "This passage gives ritual grid counts and positions."
 }

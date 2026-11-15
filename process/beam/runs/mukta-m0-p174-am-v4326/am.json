@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p174",
  "verse": 4326,
- "question": "What experiential attainments accompany union with the khecarī?",
+ "question": "How are the counts twelve sixteen and two related in this game arrangement?",
  "premises": [
-  "Union with the khecarī is attained",
-  "Hearing her story and related acts occurs",
-  "These are presented as accompanying attainments"
+  "twelve is stated",
+  "sixteen is stated",
+  "two is stated"
  ],
- "inference": "Union with the khecarī brings the experience of hearing her story and similar experiences.",
- "uncertainties": [],
- "plain_english": "One attains union with the khecarī and indeed the hearing of her story and such things."
+ "inference": "The verse gives three numerical counts for the arrangement.",
+ "uncertainties": [
+  "exact grammatical parsing not resolved"
+ ],
+ "plain_english": "Twelve, sixteen, and two are given as counts."
 }

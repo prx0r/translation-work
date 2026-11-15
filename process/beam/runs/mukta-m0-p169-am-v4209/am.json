@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p169",
  "verse": 4209,
- "question": "What result is attributed to a non-fiery mental dream vision?",
+ "question": "How many separate leaves does each deity have?",
  "premises": [
-  "The vision is non-fiery and mental.",
-  "Such a vision is said to have a true result.",
-  "The statement defines its fruit."
+  "Each deity is discussed.",
+  "Leaves are counted separately."
  ],
- "inference": "A non-fiery mental vision is declared to yield a result corresponding to reality.",
- "uncertainties": [],
- "plain_english": "And a non-fiery, mental vision is said to have a true result."
+ "inference": "Each deity has the stated separate leaves.",
+ "uncertainties": [
+  "Compound numeral parsing uncertain."
+ ],
+ "plain_english": "Each deity has separate leaves as stated."
 }

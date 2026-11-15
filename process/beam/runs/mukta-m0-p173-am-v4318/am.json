@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4318,
- "question": "What alternative actions may be taken with the written mantra?",
+ "question": "What will be described in four-pieces order now?",
  "premises": [
-  "The written mantra may be held.",
-  "An alternative procedure is allowed.",
-  "Drying may be performed."
+  "four-pieces-order is named",
+  "will-be-described is named",
+  "order-now is named"
  ],
- "inference": "One may either hold the written mantra or perform drying.",
- "uncertainties": [],
- "plain_english": "One should hold the written mantra, or alternatively perform drying."
+ "inference": "The verse announces a description.",
+ "uncertainties": [
+  "content unclear"
+ ],
+ "plain_english": "In four-pieces order, will be described now."
 }

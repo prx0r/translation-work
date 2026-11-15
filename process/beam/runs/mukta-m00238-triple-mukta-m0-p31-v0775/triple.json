@@ -1,0 +1,93 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "ṭaṃkaṃ",
+     "gloss": "axe",
+     "grounds": "axe token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇamṛgaṃdharaṃ",
+     "gloss": "black-deer-holding",
+     "grounds": "compound black deer holding",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parakare",
+     "gloss": "other-hand",
+     "grounds": "in other hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhīṣmā",
+     "gloss": "bhīṣma",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ananeṃdu",
+     "gloss": "moon",
+     "grounds": "moon on face",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prabhaṃ",
+     "gloss": "radiance",
+     "grounds": "radiance token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmo",
+     "gloss": "left",
+     "grounds": "left side",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātibhayonmukhī",
+     "gloss": "mother-fear-facing",
+     "grounds": "mother fear facing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sutayutaṃ",
+     "gloss": "with-son",
+     "grounds": "with son",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sūcyāḍhyahastaṃ",
+     "gloss": "needle-rich-hand",
+     "grounds": "needle rich hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haram",
+     "gloss": "hara",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-color",
+     "grounds": "white color",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which iconographic attributes and colors are assigned to Bhīṣma, Hara, and the mother-fear-facing figure?",
+   "premises": [
+    "Bhīṣma carries axe and black deer.",
+    "Hara is white-colored.",
+    "The mother-fear-facing figure has son."
+   ],
+   "inference": "The verse enumerates ritual iconography for named figures.",
+   "uncertainties": [
+    "Case readings and sandhi are inferred from context."
+   ],
+   "plain_english": "Bhīṣma holds an axe and black deer; the mother-fear-facing figure has a son; Hara is white-colored."
+  }
+ ]
+}

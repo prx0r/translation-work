@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p166",
+ "items": [
+  {
+   "verse": 4150,
+   "rows": [
+    {
+     "surface": "makaraḥ",
+     "gloss": "crocodile",
+     "grounds": "noun nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "verb optative third singular active from √as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pañcabāṇāḥ",
+     "gloss": "five-arrows",
+     "grounds": "compound nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hastasthaḥ",
+     "gloss": "in-hand",
+     "grounds": "compound adjective nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śukaḥ",
+     "gloss": "parrot",
+     "grounds": "noun nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which figures are to be depicted with five arrows in hand and a parrot?",
+   "premises": [
+    "Crocodile is named in the verse.",
+    "Five arrows in hand are specified.",
+    "Parrot is named in the verse."
+   ],
+   "inference": "The verse lists crocodile, five-arrowed in-hand figure, and parrot.",
+   "uncertainties": [
+    "Context of preceding list unclear; exact ritual referent uncertain."
+   ],
+   "plain_english": "The crocodile should be; five arrows in hand; and indeed the parrot."
+  }
+ ]
+}

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p31",
  "verse": 768,
- "question": "What should be caused to flow after speaking?",
+ "question": "What objects are held in right and left hands?",
  "premises": [
-  "nectar-showering having spoken cause nectar flow"
+  "Right hand has umbrella",
+  "Left has full pot"
  ],
- "inference": "After speaking, one should cause nectar to flow.",
+ "inference": "The right hand holds an umbrella and the left holds a full pot.",
  "uncertainties": [
-  "exact addressee unclear"
+  "Deity identity not explicit"
  ],
- "plain_english": "Having spoken, one should cause nectar to flow."
+ "plain_english": "Umbrella in the right hand, full pot in the left."
 }

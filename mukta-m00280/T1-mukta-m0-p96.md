@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p96-v2376
-[head-nyāsa](śiranyāsaṃ) [head](śiro) [goddess](devi) [necklace-jasmine-moon-similar](hārakundendusannibham)
+[head-placement](śiranyāsaṃ) [head](śiro) [goddess](devi) [necklace-jasmine-moon-like](hārakundendusannibham)
 
 ## mukta-m0-p96-v2377
-[indu-koṭi-pratīkāśa](indukoṭipratīkāśaṃ) [crest](śikhāṃ) [goddess](deviṃ) [meditate](vicintayet)
+[moon-million-resembling](indukoṭipratīkāśaṃ) [crest](śikhāṃ) [goddess](deviṃ) [meditate](vicintayet)
 
 ## mukta-m0-p96-v2378
-[by-that](tena) [nyāsa](nyāsena) [meditation](dhyānena) [sādhaka-well-concentrated](sādhakassusamāhitaḥ)
+[by-that](tena) [placement](nyāsena) [meditation](dhyānena) [practitioner](sādhakassusamāhitaḥ)
 
 ## mukta-m0-p96-v2379
-[armor](kavacaṃ) [all](sarvagātreṣu) [limbs](sarvagātreṣu) [sun-koṭi-equal-radiance](sūryakoṭisamaprabham)
+[armor](kavacaṃ) [all-limbs](sarvagātreṣu) [sun-million-equal-radiance](sūryakoṭisamaprabham)
 
 ## mukta-m0-p96-v2380
-[nyāsa](nyāsena) [accomplished](sidhyate) [goddess](devi) [no](nātra) [deliberation](kāryā) [needed](vicāraṇā)
+[by-placement](nyāsena) [accomplishes](sidhyate) [goddess](devi) [not-here](nātra) [to-be-done](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p96-v2381
 [terrifying](trāsayantaṃ) [great-goddess](mahādevi) [obstacles](vighnāścaiva) [meditate](vicintayet)
 
 ## mukta-m0-p96-v2382
-[afterwards](paścāttu) [practice](sādhanaṃ) [do](kuryāt) [without-obstacles](nivighnaiḥ) [success](siddhimāpnuyāt)
+[afterwards-but](paścāttu) [practice](sādhanaṃ) [should-do](kuryāt) [without-obstacles](nivighnaiḥ) [success](siddhimāpnuyāt)
 
 ## mukta-m0-p96-v2383
-[weapon-middle](astramadhye) [japa](japaṃ) [do](kuryāt) [then](tadā) [accomplished](sidhyati) [not-otherwise](nānyathā)
+[weapon-middle](astramadhye) [recitation](japaṃ) [should-do](kuryāt) [then](tadā) [succeeds](sidhyati) [not-otherwise](nānyathā)
 
 ## mukta-m0-p96-v2384
-[there](tatra) [pāśupata](pāśupataṃ) [weapon](hastraṃ) [śiva-limb](śivāṅgaṃ) [terrible-named](ghorasaṃjñitam)
+[there](tatra) [pashupata](pāśupataṃ) [weapon](hastraṃ) [shiva-limb](śivāṅgaṃ) [terrible-named](ghorasaṃjñitam)
 
 ## mukta-m0-p96-v2385
-[then](tadā) [without-obstacle](nirvighnato) [goddess](devi) [accomplished](sidhyate) [best-sādhaka](sādhakottamaḥ)
+[then](tadā) [without-obstacle](nirvighnato) [goddess](devi) [accomplishes](sidhyate) [practitioner-best](sādhakottamaḥ)
 
 ## mukta-m0-p96-v2386
-[then](tadā) [without-obstacle](nirvighnamāyāti) [sādhaka](sādhako) [no](nātra) [doubt](saṃśayaḥ)
+[then](tadā) [without-obstacle](nirvighnamāyāti) [practitioner](sādhako) [not-here](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p96-v2387
-[doing](kṛtvā) [five-rava-yoga](pañcaravatyogaṃ) [middle](madhye) [japa](japamārabhet)
+[having-done](kṛtvā) [five-roaring-union](pañcaravatyogaṃ) [middle](madhye) [but](tu) [recitation](japamārabhet)
 
 ## mukta-m0-p96-v2388
-[measure](pramāṇaṃ) [japa-done](japitaṃ) [mantra](mantraṃ) [again](punareva) [well-fixed](suvṛte)
+[measure](pramāṇaṃ) [recited](japitaṃ) [mantra](mantraṃ) [again-indeed](punareva) [but](tu) [well-turned](suvṛte)
 
 ## mukta-m0-p96-v2389
-[then](tadā) [success](siddhimavāpnoti) [goddess](devyā) [human-made](mānuṣakṛtrimāḥ)
+[then](tadā) [success](siddhimavāpnoti) [by-goddess](devyā) [human-made](mānuṣakṛtrimāḥ)
 
 ## mukta-m0-p96-v2390
-[all-works-doer](sarvakarmakaraḥ) [glorious](śrīmān) [by-action](karmaṇā) [mind](manasā) [speech](girā)
+[all-action-doer](sarvakarmakaraḥ) [prosperous](śrīmān) [by-action](karmaṇā) [by-mind](manasā) [by-speech](girā)
 
 ## mukta-m0-p96-v2391
 [yoga-success](yogasiddhimavāpnoti) [mantras](mantrāssiddhyanti) [not-otherwise](nānyathā)
 
 ## mukta-m0-p96-v2392
-[lost](naṣṭañca) [tell](kathayeddevi) [scriptures](śāstrāṇi) [various](vividhāni) [and](ca)
+[lost](naṣṭañca) [should-tell](kathayeddevi) [scriptures](śāstrāṇi) [various](vividhāni) [and](ca)
 
 ## mukta-m0-p96-v2393
-[guru](guruṃ) [knowing](jñātvā) [great-goddess](mahādevi) [fit](kalpate) [no](nātra) [doubt](saṃśayaḥ)
+[teacher](guruṃ) [having-known](jñātvā) [great-goddess](mahādevi) [is-possible](kalpate) [not-here](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p96-v2394
-[which](yasmin) [place](sthāne) [your](te) [purified](śodhyāḥ) [one-direction-desire-knowing](ekadikkāmavedituḥ)
+[in-which](yasmin) [place](sthāne) [but](tu) [they](te) [to-be-purified](śodhyāḥ) [one-direction-desire-knower](ekadikkāmavedituḥ)
 
 ## mukta-m0-p96-v2395
-[thus](tathā) [tell](te) [kathayiṣyāmi) [one-pointed-mind](tadekāgramanāḥ) [listen](śṛṇu)
+[thus](tathā) [to-you](te) [I-will-tell](kathayiṣyāmi) [that](tadekāgramanāḥ) [listen](śṛṇu)
 
 ## mukta-m0-p96-v2396
-[five-five](pañca) [well-joined](suvaiyojyā) [by-teacher](deśikena) [great-soul](mahātmanā)
+[five](pañca) [five](pañca) [well-joined](suvaiyojyā) [by-teacher](deśikena) [by-great-soul](mahātmanā)
 
 ## mukta-m0-p96-v2397
-[thus](evamatvaṃ) [then](tathā) [radiance](tejo) [swift](āśuge) [vai](vai) [then-thus](tathaiva) [ca](ca)
+[thus](evamatvaṃ) [thus](tathā) [radiance](tejo) [swift](āśuge) [indeed](vai) [thus-indeed](tathaiva) [and](ca)
 
 ## mukta-m0-p96-v2398
-[action-sense-staying](karmendriyacarusthañca) [ear-knowledge-sense](śrotrajñānendriyaṃ) [remembered](smṛtam)
+[action-sense-offering-placed](karmendriyacarusthañca) [and](śrotrajñānendriyaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p96-v2399
-[śakti](śāktau) [śiva](śivaṃ) [then-thus-here](tathaiveha) [one-by-one](ekaikaṃ) [in-order](kramaśastathā)
+[in-shakti](śāktau) [shiva](śivaṃ) [thus-indeed-here](tathaiveha) [one-by-one](ekaikaṃ) [in-order](kramaśastathā)
 
 ## mukta-m0-p96-v2400
-[ego](ahaṅkārastathā) [sixth](ṣaṣṭho) [in-order-purify](anulomādviśodhayet)
+[ego](ahaṅkārastathā) [sixth](ṣaṣṭho) [in-order](anulomādviśodhayet)

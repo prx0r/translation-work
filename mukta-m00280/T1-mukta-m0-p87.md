@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p87-v2151
-kartavyaḥ anugrahaḥ nityam catur-āśrama-vāsinām
+[should-be-done](kartavyaḥ) [grace](anugrahaḥ) [always](nityam) [of-four-ashramas-dwellers](caturāśrama+vāsinām)
 
 ## mukta-m0-p87-v2152
-svalpam ahni japam kāryam svalpam agnau ca homayet
+[little](svalpam) [by-day](ahni) [japa](japam) [should-be-done](kāryam) [little](svalpam) [in-fire](agnau) [ca](ca) [should-offer](homayet)
 
 ## mukta-m0-p87-v2153
-karaṇīm kartarīm ca eva saṃhitām sṛk-sruvam tathā
+[implement](karaṇīm) [scissors](kartarīm) [ca](ca) [eva](eva) [collection](saṃhitām) [sṛk](sṛk) [sruva](sruvam) [tathā](tathā)
 
 ## mukta-m0-p87-v2154
-dīpitam teṣu mantrāṇām bhagavan kathayasva me
+[illuminated](dīpitam) [in-them](teṣu) [of-mantras](mantrāṇām) [lord](bhagavan) [tell](kathayasva) [me](me)
 
 ## mukta-m0-p87-v2155
-kathaya ājñāpayanti ete bhagavan vaktum arhasi
+[tell](kathaya) [command](ājñāpayanti) [these](ete) [lord](bhagavan) [to-speak](vaktum) [you-should](arhasi)
 
 ## mukta-m0-p87-v2156
-yat na kasyacid ākhyātam kathayāmi tava akhilam
+[what](yat) [not](na) [to-anyone](kasyacid) [told](ākhyātam) [I-tell](kathayāmi) [to-you](tava) [all](akhilam)
 
 ## mukta-m0-p87-v2157
-ardha-candram tu vijñeyam asmin tantre na saṃśayaḥ
+[half-moon](ardhacandram) [indeed](tu) [to-be-known](vijñeyam) [in-this](asmin) [tantra](tantre) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p87-v2158
-tena yukta upari-sthānaḥ oṃkāraḥ parikīrtitaḥ
+[by-that](tena) [joined](yukta) [above-standing](upasthāna) [om](oṃkāraḥ) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p87-v2159
-sā eva varttulī-bhūtaḥ nakāraḥ parikīrtitāḥ
+[she](sā) [eva](eva) [become-round](varttulībhūtaḥ) [na](na) [declared](parikīrtitāḥ)
 
 ## mukta-m0-p87-v2160
-tāḥ tu vakṣyāmi deveśi yathā-tathena me śṛṇu
+[those](tāḥ) [tu](tu) [I-will-tell](vakṣyāmi) [goddess](deveśi) [as-is](yathātathena) [me](me) [hear](śṛṇu)
 
 ## mukta-m0-p87-v2161
-su sūkṣmā tiryag-ena eva ardhaḥ dakṣiṇatām gatā
+[su](su) [subtle](sūkṣmā) [transversely](tiryagena) [eva](eva) [half](ardhaḥ) [to-south](dakṣiṇatām) [gone](gatā)
 
 ## mukta-m0-p87-v2162
-agra-tāmrā caturthī tu bindu-nādaḥ su-saṃyutā
+[front](agratā) [red](amrā) [fourth](caturthī) [tu](tu) [with-bindu-nāda](bindunādaḥ) [well-joined](susaṃyutā)
 
 ## mukta-m0-p87-v2163
-saḥ śivaḥ sarva-varṇānām vyāpayitvā varānane
+[he](sa) [śiva](śivaḥ) [of-all-letters](sarvavarṇānām) [pervading](vyāpayitvā) [beautiful-faced](varānane)
 
 ## mukta-m0-p87-v2164
-tena chinna-vibhaktāni padam akṣara-sandhayaḥ
+[by-that](tena) [cut-separated](chinnavibhaktāni) [word](pada) [syllable-junctions](akṣarasandhayaḥ)
 
 ## mukta-m0-p87-v2165
-ṛṣayaḥ ca tathā ca anye yoginaḥ bhuvimānavāḥ
+[seers](ṛṣayaḥ) [ca](ca) [tathā](tathā) [others](anye) [yogis](yoginaḥ) [earth-dwellers](bhuvimānavāḥ)
 
 ## mukta-m0-p87-v2166
-tena jñāpayate sarvam mantra-grāmam aśeṣataḥ
+[by-that](tena) [makes-known](jñāpayate) [all](sarvam) [mantra-collection](mantragrāmam) [completely](aśeṣataḥ)
 
 ## mukta-m0-p87-v2167
-śiva-tattvam pare śuddham saḥ bāhya-abhyantare sthitam
+[śiva-principle](śivatatvam) [supreme](pare) [pure](śuddham) [he](sa) [external-internal](bāhyābhyantare) [situated](sthitam)
 
 ## mukta-m0-p87-v2168
-tena te preritāḥ mantrāḥ śaktayaḥ ca na saṃśayaḥ
+[by-that](tena) [those](te) [impelled](preritā) [mantras](mantrāḥ) [powers](śaktayaḥ) [ca](ca) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p87-v2169
-oṅkāram āditaḥ kṛtvā namaskāram niyojayet
+[om](oṅkāram) [from-beginning](āditaḥ) [having-made](kṛtvā) [salutation](namaskāram) [should-employ](niyojayet)
 
 ## mukta-m0-p87-v2170
-svāhākāram vaṣaṭkāram su-vauṣaṭkāram eva ca
+[svāhā](svāhākāram) [vaṣaṭ](vaṣaṭkāram) [su-vaṣaṭ](suvauṣaṭkāram) [eva](eva) [ca](ca)
 
 ## mukta-m0-p87-v2171
-etatra śakti-saṃyogam veditavyam prayatnataḥ
+[here](etatra) [śakti-union](śaktisaṃyogaṃ) [to-be-known](veditavyam) [carefully](prayatnataḥ)
 
 ## mukta-m0-p87-v2172
-svāhākāra-samāyuktaḥ homeṣu ākarṣaṇeṣu ca
+[svāhā-joined](svāhākārasamāyuktaḥ) [in-homas-and-attractions](homeṣvākarṣaṇeṣu) [ca](ca)
 
 ## mukta-m0-p87-v2173
-puṣṭi-arthe ca sadā kuryāt sa-kāra-okāra-saṃyutam
+[for-nourishment](puṣṭyarthe) [ca](ca) [always](sadā) [should-do](kuryāt) [with-sa-ka-ra](sakārokārasaṃyutam)
 
 ## mukta-m0-p87-v2174
-ṣa-kāra-mantra-yogena ha-kāra-sahitena tu
+[with-ṣa-mantra](ṣakāramantrayogena) [with-ha](hakārasahitena) [tu](tu)
 
 ## mukta-m0-p87-v2175
-amṛtīkaraṇam kuryāt vaṣaṭkāra-samanvitaḥ
+[nectar-making](amṛtīkaraṇam) [should-do](kuryāt) [with-vaṣaṭ](vaṣaṭkārasamanvitaḥ)

@@ -1,14 +1,18 @@
 {
  "song": "mukta-m0-p21",
  "verse": 513,
- "question": "What does the fifth become among them?",
+ "question": "Which hand-attributes and bodily color define white Sankarshana?",
  "premises": [
-  "She becomes the fifth.",
-  "She is pleased and well-established."
+  "Sankarshana is white",
+  "right upper hand holds conch",
+  "left upper hand holds lotus",
+  "left lower hand holds discus",
+  "right lower hand holds mace",
+  "body color is white"
  ],
- "inference": "The fifth form becomes pleased and well-established among them.",
+ "inference": "The verse names Sankarshana and gives his white color and four-armed arrangement.",
  "uncertainties": [
-  "Identity of fifth is implied."
+  "the first token fuses name and attribute description"
  ],
- "plain_english": "Herself becoming the fifth, she is pleased and well-established among them."
+ "plain_english": "Sankarshana, white, holds conch, lotus, discus, and mace in the stated hands, white color."
 }

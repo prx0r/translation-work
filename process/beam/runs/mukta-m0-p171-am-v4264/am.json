@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p171",
  "verse": 4264,
- "question": "How should the skull be worshipped and concluded with an offering?",
+ "question": "What should experts know about Camunda play remainder?",
  "premises": [
-  "The skull is the final ritual object in the sequence.",
-  "Each is worshipped with its own mantra.",
-  "The rite concludes with an offering."
+  "camunda is stated",
+  "play is stated",
+  "remainder is stated"
  ],
- "inference": "After worshipping the skull with its own mantra, one should present the offering at the end.",
- "uncertainties": [],
- "plain_english": "Having worshipped the skull with its own mantra, one should present the offering at the end."
+ "inference": "The verse says experts should know the remainder of Camunda play.",
+ "uncertainties": [
+  "remainder scope unclear"
+ ],
+ "plain_english": "Experts should know the remainder of Camunda play."
 }

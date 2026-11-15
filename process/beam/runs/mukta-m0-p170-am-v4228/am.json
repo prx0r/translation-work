@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4228,
- "question": "What fruits are attributed to all dreams declared auspicious in this teaching?",
+ "question": "Which goddesses are listed together with brahmi maheshvari kaumari and vaishnavi?",
  "premises": [
-  "All such dreams are declared auspicious.",
-  "They are said to give fruit.",
-  "The fruit named is accomplishment and liberation."
+  "the verse lists brahmi",
+  "it lists maheshvari",
+  "it lists kaumari and vaishnavi"
  ],
- "inference": "Auspicious dreams are held to yield both accomplishment and liberation.",
- "uncertainties": [],
- "plain_english": "All these dreams are declared auspicious and are said to give the fruits of accomplishment and liberation."
+ "inference": "these goddesses form the listed set",
+ "uncertainties": [
+  "exact grouping unclear"
+ ],
+ "plain_english": "Brahmi, Maheshvari, and indeed Kaumari, Vaishnavi, thus."
 }

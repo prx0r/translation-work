@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 622,
- "question": "What alternative sets of names may be used in the subsequent worship?",
+ "question": "Which weapons and fearlessness are held in the hand?",
  "premises": [
-  "Worship may be performed with eight names.",
-  "Alternatively it may be performed with one hundred and eight.",
-  "The verse presents these as options."
+  "fearlessness is stated",
+  "discus trident is stated",
+  "axe arrow is stated"
  ],
- "inference": "The worship may be performed with eight names or with one hundred and eight names.",
- "uncertainties": [],
- "plain_english": "Thus with eight names, or with one hundred and eight."
+ "inference": "Fearlessness, discus, trident, axe, and arrow are held in the hand.",
+ "uncertainties": [
+  "compound not split"
+ ],
+ "plain_english": "Fearlessness and weapons are held in the hand."
 }

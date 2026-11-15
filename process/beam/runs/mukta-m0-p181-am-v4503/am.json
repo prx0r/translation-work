@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p181",
  "verse": 4503,
- "question": "What powers are attributed to the addressed deity in this mantra formula?",
+ "question": "What rebirth is given to one living by another's intelligence?",
  "premises": [
-  "The addressee is called giver of heaven to ancestors.",
-  "The addressee is called capable of removing fear for mortals.",
-  "These are direct epithets in the mantra."
+  "other intelligence is named",
+  "intelligence lacking is named",
+  "parrot is named"
  ],
- "inference": "The mantra proclaims the deity as giver of heaven to ancestors and remover of fear for mortals.",
- "uncertainties": [],
- "plain_english": "You are the giver of heaven to the ancestors and capable of removing fear for mortals."
+ "inference": "The verse assigns parrot rebirth to one lacking own intelligence.",
+ "uncertainties": [
+  "fused token not split"
+ ],
+ "plain_english": "One who lives by another's intelligence becomes a parrot."
 }

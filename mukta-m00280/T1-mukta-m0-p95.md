@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[moon-ray-white-gentle](candrāṃśudhavalassaumyāḥ) [temple](prāsādaṃ) [left-hand](savyapāṇinā)
+moon-ray (candrāṃśu) white (dhavala) gentle (saumyāḥ) palace (prāsādaṃ) left-hand (savyapāṇinā)
+
 ## mukta-m0-p95-v2352
-[control](vaśīkaraṇa) [attraction](ākarṣe) [noose-goad-bearing](pāśamaṅkuśadhāriṇīm)
+subjugation (vaśīkaraṇa) attraction (ākarṣe) noose (pāśa) goad (maṅkuśa) bearing (dhāriṇīm)
+
 ## mukta-m0-p95-v2353
-[in-stupefaction](staṃbhane) [black-colored](kṛṣṇavarṇāntu) [always-indeed](nityameva) [meditate](vicintayet)
+paralyzing (staṃbhane) black (kṛṣṇa) color (varṇāṃ) tu (tu) always (nityam) eva (eva) contemplate (vicintayet)
+
 ## mukta-m0-p95-v2354
-[this](eṣa) [goddess](devi) [declared](samākhyāto) [nyasa](nyāsaḥ) [supreme-rare](paramadurlabhaḥ)
+this (eṣa) goddess (devi) declared (samākhyāto) nyāsa (nyāsaḥ) very (parama) rare (durlabhaḥ)
+
 ## mukta-m0-p95-v2355
-[thus](evaṃ) [nyasa](nyāsa) [here](iha) [proclaimed](proktaḥ) [all-mantras](sarvamantreṣu) [and-best](cottamaḥ)
+thus (evaṃ) nyāsa (nyāsa) here (iha) declared (proktaḥ) all-mantras (sarvamantreṣu) and (ca) supreme (uttamaḥ)
+
 ## mukta-m0-p95-v2356
-[uneatable](abhojya) [eating](bhakṣaṇaṃ) [having-done](kṛtvā) [killing](hatvā) [world](lokaṃ) [moving-nonmoving](carācaram)
+uneatable (abhojya) eating (bhakṣaṇaṃ) having-done (kṛtvā) having-killed (hatvā) world (lokaṃ) moving (cara) immoving (acaram)
+
 ## mukta-m0-p95-v2357
-[gold-theft](suvarṇasteyagodānaṃ) [having-offered](hutvā) [many](bahutarāṇi) [and](ca)
+gold (suvarṇa) theft (steya) cow (go) gift (dānaṃ) having-offered (hutvā) many (bahutarāṇi) and (ca)
+
 ## mukta-m0-p95-v2358
-[thus](evaṃ) [nyasa-rite](nyāsavidhiṃ) [having-done](kṛtvā) [teacher](ācāryassusamāhitaḥ) [well-composed](susamāhitaḥ)
+thus (evaṃ) nyāsa (nyāsa) rite (vidhiṃ) having-done (kṛtvā) teacher (ācāryaḥ) well (su) composed (samāhitaḥ)
+
 ## mukta-m0-p95-v2359
-[time-sacrifice-rite](kālayāgavidhānena) [teacher](deśiko) [sacrifices](yajate) [if](yadi)
+time (kāla) sacrifice (yāga) rite (vidhānena) initiator (deśikaḥ) sacrifices (yajate) if (yadi)
+
 ## mukta-m0-p95-v2360
-[one-day](ekāhamapi) [even](api) [by-me](mayā) [nyasa](nyāsaṃ) [does](kurute) [practitioner-best](sādhakottamaḥ)
+one-day (ekāham) api (api) by-me (mayā) nyāsa (nyāsaṃ) does (kurute) practitioner (sādhaka) supreme (uttamaḥ)
+
 ## mukta-m0-p95-v2361
-[seven-days](saptāhamabhyasedyastu) [practices-who](abhyasedyastu) [indeed](tu) [this](imaṃ) [nyasa](nyāsaṃ) [composed](samāhitaḥ)
+seven-days (saptāham) practices (abhyaset) tu (tu) this (imaṃ) nyāsa (nyāsaṃ) composed (samāhitaḥ)
+
 ## mukta-m0-p95-v2362
-[month-from](māsādutpadyate) [arises](utpadyate) [yoga](yogaḥ) [three-sandhya](trisandhyaṃ) [who](yastu) [indeed](tu) [meditates](cintayet)
+month (māsāt) arises (utpadyate) yoga (yogaḥ) three-sandhyas (trisandhyaṃ) tu (tu) who (yaḥ) contemplates (cintayet)
+
 ## mukta-m0-p95-v2363
-[all](sarvaṃ) [accomplishes](saṃpādayatyeṣa) [this](eṣa) [world's](lokasyaiva) [indeed](eva) [benefit-harm](hitāhitam)
+all (sarvaṃ) accomplishes (saṃpādayati) this (eṣa) world's (lokasya) eva (eva) good (hita) bad (ahitam)
+
 ## mukta-m0-p95-v2364
-[three-worlds'](trailokyasya) [but](tu) [account](vṛttāntaṃ) [tells](kathayennātra) [no-here](nātra) [doubt](saṃśayaḥ)
+three-worlds' (trailokyasya) tu (tu) account (vṛttāntaṃ) tells (kathayet) not-here (nātra) doubt (saṃśayaḥ)
+
 ## mukta-m0-p95-v2365
-[goes](gacchate) [no-here](nātra) [doubt](sandehaḥ) [practitioner](sādhakassusamāhitaḥ) [well-composed](susamāhitaḥ)
+goes (gacchate) not-here (nātra) doubt (sandehaḥ) practitioner (sādhakaḥ) well (su) composed (samāhitaḥ)
+
 ## mukta-m0-p95-v2366
-[succeeds](siddhyate) [no-here](nātra) [doubt](sandehaḥ) [yogi](yoginastu) [but](tu) [no](na) [doubt](saṃśayaḥ)
+succeeds (siddhyate) not-here (nātra) doubt (sandehaḥ) yogi's (yoginaḥ) tu (tu) not (na) doubt (saṃśayaḥ)
+
 ## mukta-m0-p95-v2367
-[sky-going](ākāśagamanañcaiva) [and](ca) [staff-wood-purifier](daṇḍakāṣṭhapavitrakam)
+sky-going (ākāśagamanaṃ) ca (ca) eva (eva) staff (daṇḍa) wood (kāṣṭha) purifier (pavitrakam)
+
 ## mukta-m0-p95-v2368
-[knowing](jñātvā) [nyasa](nyāsamidaṃ) [this](idaṃ) [goddess](devi) [arrangement](vinyāsamanyatpalālavat) [other](anyat) [straw-like](palālavat)
+having-known (jñātvā) nyāsa (nyāsam) this (idaṃ) goddess (devi) arrangement (vinyāsam) other (anyat) straw-like (palālavat)
+
 ## mukta-m0-p95-v2369
-[self](ātmāhyatraiva) [indeed](hi) [here](atra) [only](eva) [knowable](jñātavyo) [gods](devāścaiva) [and](ca) [indeed](eva) [especially](viśeṣataḥ)
+self (ātmā) hi (hi) here (atra) eva (eva) to-be-known (jñātavyaḥ) gods (devāḥ) ca (ca) eva (eva) especially (viśeṣataḥ)
+
 ## mukta-m0-p95-v2370
-[practitioner's](sādhakasya) [and](ca) [to-be-given](dātavyamācāryasya) [teacher's](ācāryasya) [likewise](tathaiva) [and](ca)
+practitioner's (sādhakasya) ca (ca) to-be-given (dātavyam) teacher's (ācāryasya) tathā (tathā) eva (eva) ca (ca)
+
 ## mukta-m0-p95-v2371
-[five-brahma-ishvara-limbs'](pañcabrahmeśavāṅgānāṃ) [forms](rūpāṇi) [tell](kathayasva) [me](me)
+five (pañca) brahma (brahma) īśa (īśa) limbs' (aṅgānāṃ) forms (rūpāṇi) tell (kathayasva) me (me)
+
 ## mukta-m0-p95-v2372
-[five-brahma](pañcabrahma) [shiva-limbs'](śivāṅgānāṃ) [common](sāmānyaṃ) [supreme-goddess](parameśvari)
+five-brahma (pañcabrahma) śiva-limbs' (śivāṅgānāṃ) common (sāmānyaṃ) supreme-goddess (parameśvari)
+
 ## mukta-m0-p95-v2373
-[nine-thread](navasūtre) [formerly](purā) [proclaimed](proktaḥ) [forms](rūpāstā) [those](tā) [indeed](eva) [beautiful](śobhane)
+nine-thread (navasūtre) formerly (purā) declared (proktaḥ) forms (rūpāḥ) those (tāḥ) eva (eva) beautiful (śobhane)
+
 ## mukta-m0-p95-v2374
-[heart's](hṛdayasya) [will-declare](pravakṣyāmi) [form](rūpaṃ) [listen](śṛṇu) [beautiful-eyed](sulocane)
+heart's (hṛdayasya) will-declare (pravakṣyāmi) form (rūpaṃ) hear (śṛṇu) beautiful (su) eyed (locane)
+
 ## mukta-m0-p95-v2375
-[shining](dyotayantaṃ) [indeed](hyadhaścordhvaṃ) [below](adhaḥ) [and](ca) [above](ūrdhvaṃ) [heart-region](hṛtpradeśe) [situated](vyavasthitam)
+shining (dyotayantam) hi (hi) down (adhaḥ) ca (ca) up (ūrdhvaṃ) heart-region (hṛtpradeśe) situated (vyavasthitam)

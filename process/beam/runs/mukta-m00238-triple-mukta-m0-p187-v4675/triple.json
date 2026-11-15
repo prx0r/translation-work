@@ -1,0 +1,28 @@
+{
+ "song": "mukta-m0-p187",
+ "items": [
+  {
+   "verse": 4675,
+   "rows": [
+    {
+     "surface": "iti śrītattvanidhyākhyagranthe - navamaḥ kautukanidhissaṃpūrṇaḥ",
+     "gloss": "thus in the text named śrītattvanidhi the ninth kautuka-treasury is completed",
+     "grounds": "colophon line supplied as one token; internal spaces and hyphen retained as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the colophon declare about the completion of the ninth kautuka treasury in the Śrītattvanidhi?",
+   "premises": [
+    "The line is a colophon.",
+    "It names the Śrītattvanidhi.",
+    "It states the ninth kautuka nidhi is completed."
+   ],
+   "inference": "The ninth kautuka treasury of the Śrītattvanidhi is declared complete.",
+   "uncertainties": [
+    "The supplied line is treated as one token despite internal spaces.",
+    "Sandhi and word boundaries are not separately resolved."
+   ],
+   "plain_english": "Thus, in the text called Śrītattvanidhi, the ninth kautuka treasury is completed."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[juicy](sarasaṃ) [your](te) [enjoyment-liberation](bhukti+muktī) [gone](gatāḥ)
+[savory](sarasaṃ) [your](te) [enjoyment-liberation](bhuktimuktī) [attained](gatāḥ)
 
 ## mukta-m0-p123-v3052
-[of-yogis](yoginām) [even](api) [unreachable](agamyaḥ)
+[of-yogis](yoginām) [even](api) [unattainable](agamyaḥ)
 
 ## mukta-m0-p123-v3053
 [having-risen](utthāya) [and](ca) [again](punaḥ) [having-drunk](pītvā) [rebirth](punarjanma) [not](na) [exists](vidyate)
 
 ## mukta-m0-p123-v3054
-[by-suṣumnā-path](suṣumnā+āvartmanā) [always](nityam) [eye-functions](akṣa+vṛttīḥ) [I-offer](juhomy) [I](aham)
+[by-suṣumnā-path](suṣumnāvartmanā) [always](nityam) [eye-functions](akṣavṛttīḥ) [I-offer](juhomyaham)
 
 ## mukta-m0-p123-v3055
-[of-dharma-adharma](dharmā+dharma) [kalā-sap](kalā) [full-of-affection](sneha+pūrṇām) [into-fire](vahnau) [I-offer](juhomy) [I](aham)
+[dharma-adharma-arts-affection-filled](dharmādharmakalāsnehapūrṇāṃ) [in-fire](vahnau) [I-offer](juhomyaham)
 
 ## mukta-m0-p123-v3056
-[so-much](tāvat) [drinking](pānam) [to-be-done](prakartavyam) [after-that](ataḥ+param) [beast-drinking](paśu+pānam)
+[so-long](tāvat) [drinking](pānaṃ) [to-be-done](prakartavyaṃ) [animal-drinking](paśupānam) [thereafter](ataḥ) [supreme](param)
 
 ## mukta-m0-p123-v3057
-[heroes](vīrāḥ) [by-whom](yena) [supreme-bliss-state](parānanda+padaṃ) [will-attain](prāpsyanti) [diseaseless](anāmayam)
+[heroes](vīrā) [by-whom](yena) [supreme-bliss-state](parānandapadaṃ) [will-attain](prāpsyanti) [diseaseless](anāmayam) [kh-desireless](niḥspṛhāḥ)
 
 ## mukta-m0-p123-v3058
-[I-bow](namāmi) [with-head](śirasā) [lord](nātham) [bhairava](bhairavaṃ) [beloved-of-bhairavī](bhairavī+priyam)
+[I-bow](namāmi) [with-head](śirasā) [lord](nāthaṃ) [Bhairava](bhairavaṃ) [Bhairavi's-beloved](bhairavīpriyam)
 
 ## mukta-m0-p123-v3059
-[salutation](namaḥ) [to-śrī-nātha-physician](śrī+nātha+vaidyāya) [giver-of-kula-herbs](kula+auṣadhi+pradāyine)
+[salutation](namaḥ) [to-śrīnātha-physician](śrīnāthavaidyāya) [to-giver-of-clan-herbs](kulauṣadhipradāyine)
 
 ## mukta-m0-p123-v3060
-[beauty](kāntiḥ) [wish](manorathaḥ) [and](ca) [let-it-be](astu) [protect](pāntu) [all](sarvāḥ) [deities](devatāḥ)
+[beauty](kāntiḥ) [wish](manorathaḥ) [and-may-it-be](cāstu) [may-protect](pāntu) [all](sarvāḥ) [and](ca) [deities](devatāḥ)
 
 ## mukta-m0-p123-v3061
-[of-country](deśasya) [of-realm](rāṣṭrasya) [of-family](kulasya) [of-kings](rājñām) [let-do](karotu) [peace](śāntim) [lord](bhagavān) [kuleśa](kuleśaḥ)
+[of-country](deśasya) [of-kingdom](rāṣṭrasya) [of-clan](kulasya) [of-kings](rājñāṃ) [may-do](karotu) [peace](śāntiṃ) [lord](bhagavān) [clan-lord](kuleśaḥ)
 
 ## mukta-m0-p123-v3062
-[let-rejoice](nandatu) [all-family-kula-practitioners](sarva+kula+kaula+ratāḥ) [others](pare) [also](ye+api) [anye](anye) [special-state-difference-śāmbhava](viśeṣa+pada+bhedaka+śāmbhavāḥ) [ye](ye)
+[may-rejoice](nandatu) [all-clan-Kaula-devotees](sarvakulakaularatāḥ) [others](pare) [who](ye) [also](api) [others](anye) [special-state-distinction-Śāmbhava](viśeṣapadabhedakaśāmbhavā) [who](ye)
 
 ## mukta-m0-p123-v3063
-[born-of-excellent-yoginī-vīra-family](saḍ+yoginī+pravara+vīra+kula+prasūtāḥ) [let-rejoice](nandatu) [earth-lords-brahmins-saints](bhūmi+pati+go+dvija+sādhu+lokāḥ)
+[born-of-excellent-hero-clan-of-yoginīs](saḍyoginīpravaravīrakulaprasūtā) [may-rejoice](nandantu) [earth-lords-brahmins-saints](bhūmipatigodvijasādhulokāḥ)
 
 ## mukta-m0-p123-v3064
-[removed-sorrow-doubt](hṛta+śoka+śaṅkāḥ)
+[removed-sorrow-doubt](hṛtaśokaśaṅkāḥ)
 
 ## mukta-m0-p123-v3065
-[enemy-faction-devouring](ripu+pakṣa+bhakṣaṇa+parāḥ) [let-be-satisfied](tṛpyantu) [kaula-worshipped](kaula+arcitāḥ)
+[intent-on-devouring-enemy-side](ripupakṣabhakṣaṇaparāḥ) [may-be-satisfied](tṛpyantu) [Kaula-worshipped](kaulārcitāḥ)
 
 ## mukta-m0-p123-v3066
-[family-path-protecting](kula+mārga+pālana+parāḥ) [peace](śāntim) [grant](prayacchantu) [to-me](me)
+[intent-on-protecting-Kaula-path](kulamārgapālanaparāḥ) [peace](śāntiṃ) [may-grant](prayacchantu) [to-me](me)
 
 ## mukta-m0-p123-v3067
-[by-auspicious-offering-rite](śubha+bali+vidhinā) [protect](pāntu) [hero-lords-venerable](vīra+indra+vandyāḥ)
+[by-auspicious-offering-rite](śubhabalividhinā) [may-protect](pāntu) [hero-lord-venerable](vīrendravandyāḥ)
 
 ## mukta-m0-p123-v3068
-[kiṃpuruṣa-sages](kiṃpuruṣa+munivarāḥ) [wheel-goers](cakra+gāḥ) [protect](pāntu) [all](sarve)
+[Kimpuruṣa-sages](kiṃpuruṣamunivarāḥ) [circle-goers](cakragāḥ) [may-protect](pāntu) [all](sarve)
 
 ## mukta-m0-p123-v3069
-[of-drinker](pibataḥ) [drink](pānam) [with-lamp](sa+dīpam) [oblation](carum)
+[drinking](pibataḥ) [drink](pānaṃ) [with-lamp](sadīpaṃ) [oblation](carum)
 
 ## mukta-m0-p123-v3070
-[if](yadi) [indeed](cet) [be](syāt) [my](me) [victory](jayaḥ) [always](sarvadā)
+[if](yadi) [indeed](cet) [may-be](syāt) [my](me) [victory](jayaḥ) [always](sarvadā)
 
 ## mukta-m0-p123-v3071
-[yoginīs](yoginyaḥ) [field-protectors](kṣetra+pālāḥ) [and](ca) [my](mama) [body](dehe) [established](vyavasthitāḥ)
+[yoginīs](yoginyaḥ) [field-protectors](kṣetrapālāḥ) [and](ca) [my](mama) [in-body](dehe) [established](vyavasthitāḥ)
 
 ## mukta-m0-p123-v3072
-[from-time-fire](kāla+agni) [etc](ādi) [to-śiva](śiva+antam) [and](ca) [world](jagat) [by-sacrifice](yajñena) [let-be-satisfied](tṛpyatu)
+[from-Kalagni-to-Śiva](kālāgnyādiśivāntaṃ) [and](ca) [world-sacrifice](jagadyajñena) [may-be-satisfied](tṛpyatu)
 
 ## mukta-m0-p123-v3073
-[praise-heroes](stuve+vīrān) [bow-to-heroes](namet+vīrān) [mantra-success](mantra+siddhiḥ) [arises](prajāyate)
+[praise-heroes](stuvedvīrān) [bow-heroes](namedvīrān) [mantra-success](mantrasiddhiḥ) [arises](prajāyate)
 
 ## mukta-m0-p123-v3074
-[removed-great-serpent-afflictions](samuddhṛta+kleśa+mahā+uraga) [from](ebhyaḥ) [salutation](namo) [salutation](namaḥ) [to-sādhaka-leaders](sādhaka+nāyakebhyaḥ)
+[to-removed-affliction-great-serpents](samuddhṛtakleśamahoragebhyaḥ) [salutation](namo) [salutation](namaḥ) [to-sādhaka-leaders](sādhakanāyakebhyaḥ)
 
 ## mukta-m0-p123-v3075
-[for-all-beings-upliftment](sarva+prajā+abhyuddharaṇa) [striving](udyatebhyaḥ) [salutation](namo) [salutation](namaḥ) [to-sādhaka-leaders](sādhaka+nāyakebhyaḥ)
+[to-all-beings-upliftment-striving](sarvaprajābhyuddharaṇodyatebhyaḥ) [salutation](namo) [salutation](namaḥ) [to-sādhaka-leaders](sādhakanāyakebhyaḥ)

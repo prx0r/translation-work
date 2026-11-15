@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-[mantra](mantra)+[knowledge](vidyā)+[description](nirūpaṇa) [fifty-first](ekapañcāśattamaḥ) [chapter](paṭalaḥ)
+[mantra-knowledge-description](mantravidyānirūpaṇa) [fifty-first](ekapañcāśattamaḥ) [chapter](paṭalaḥ) [verse-topic](paṭalaḥ)
 
 ## mukta-m0-p109-v2702
-[by-which](yena) [means](sādhana)+[only](mātreṇa) [mantra](mantraḥ) [attainment](siddhim)+[will-reach](upaiṣyati)
+[by-which](yena) [by-means-alone](sādhanamātreṇa) [mantra](mantraḥ) [attainment](siddhim) [will-reach](upaiṣyati) [thus](yena)
 
 ## mukta-m0-p109-v2703
-[without](vinā) [revival](sañjīvanena)+[even](api) [with-saṃpuṭa](saṃpuṭena) [without](vinā) [O-Śiva](śive)
+[without](vinā) [revival-even](sañjīvanenāpi) [casket](saṃpuṭena) [without](vinā) [O-Śiva](śive) [thus](vinā)
 
 ## mukta-m0-p109-v2704
-[mantra](manuḥ)+[called-utkīlana](utkīlanākhyaḥ)+[this](ayaṃ) [all-accomplishment-giving](sarvasiddhipradaḥ) [O-Śiva](śive)
+[mantra-called-unbinding-this](manurutkīlanākhyo'yaṃ) [all-accomplishment-giving](sarvasiddhipradaḥ) [O-Śiva](śive) [thus](śive) [variant](mayaḥ)
 
 ## mukta-m0-p109-v2705
-[its-front](tadagre) [name](nāma) [placing](vinyasya) [tāra-māyā](tāramāye) [its-front](tadagrataḥ)
+[at-its-front](tadagre) [name](nāma) [placing](vinyasya) [tāra-māyā](tāramāye) [at-its-front](tadagrataḥ) [thus](tadagrataḥ)
 
 ## mukta-m0-p109-v2706
-[then](tataḥ) [accomplished-mantra](siddhamanuṃ) [O-goddess](devi) [should-chant](japet) [best-of-mantra-practitioners](māntrikasattamaḥ)
+[then](tataḥ) [accomplished-mantra](siddhamanuṃ) [goddess](devi) [should-chant](japet) [best-mantra-practitioner](māntrikasattamaḥ) [thus](japet)
 
 ## mukta-m0-p109-v2707
-[tāra](tāraṃ) [supreme](parāṃ) [cakrī-bīja](cakribījaṃ) [universe](viśvam) [end](ante) [named](abhidhaṃ) [should-place](nyaset)
+[tāra](tāraṃ) [supreme](parāṃ) [cakra-seed](cakribījaṃ) [universe-at-end-named](viśvamante'bhidhaṃ) [should-place](nyaset) [thus](nyaset)
 
 ## mukta-m0-p109-v2708
-[thus](evaṃ) [consecrated](saṃskṛtam) [O-īśānī](īśāni) [mantra](manuṃ) [of-goddess](devyā) [should-chant](japet) [always](sadā)
+[thus](evaṃ) [consecrated](saṃskṛtam) [goddess](īśāni) [mantra](manuṃ) [by-goddess](devyā) [should-chant](japet) [always](sadā)
 
 ## mukta-m0-p109-v2709
-[secret-among-secrets](guhyātiguhyaguptaṃ) [and](ca) [to-be-guarded](goptavyaṃ) [by-best-practitioners](sādhakottamaiḥ)
+[secret-most-secret-hidden](guhyātiguhyaguptaṃ) [and](ca) [to-be-guarded](goptavyaṃ) [by-best-practitioners](sādhakottamaiḥ) [thus](goptavyaṃ) [always](ca)
 
 ## mukta-m0-p109-v2710
-[fifty-second](dvipañcāśattamaḥ) [chapter](paṭalaḥ)
+[fifty-second](dvipañcāśattamaḥ) [chapter](paṭalaḥ) [thus](paṭalaḥ) [verse](paṭalaḥ) [end](paṭalaḥ)
 
 ## mukta-m0-p109-v2711
-[all-knowledge-embodied](sarvavidyāmayīṃ) [to-be-accomplished](sādhyāṃ) [in-all-tantras](sarvatantreṣu) [hidden](gopitām)
+[all-knowledge-filled](sarvavidyāmayīṃ) [to-be-accomplished](sādhyāṃ) [in-all-tantras](sarvatantreṣu) [hidden](gopitām) [thus](gopitām) [variant](sarvasiddhi)
 
 ## mukta-m0-p109-v2712
-[for-births-crores](janmakoṭiṣu) [chanted](japto) [even](api) [not](naṃ) [mantra](manuḥ) [accomplishment-having](siddhibhāg)+[becomes](bhavet)
+[in-millions-of-births](janmakoṭiṣu) [chanted-even](japto'pi) [na-mantra](naṃ) [mantra](manuḥ) [accomplishment-participant-becomes](siddhibhāgbhavet) [variant](siddhido)
 
 ## mukta-m0-p109-v2713
-[by-that](tena) [knowledge](vidyā) [O-great-goddess](mahādevi) [in-Kali](kalau) [accomplishes](siddhyati) [quickly](satvaram)
+[by-that](tena) [vidyā](vidyā) [great-goddess](mahādevi) [in-Kali](kalau) [accomplishes](siddhyati) [quickly](satvaram) [thus](siddhyati)
 
 ## mukta-m0-p109-v2714
-[Kāmeśvara](kāmeśvaraḥ)+[of-trikūṭā](trikūṭāyāḥ) [Śiva](śivaḥ) [thus](ity)+[evam](evam) [O-īśvarī](īśvari)
+[Kāmeśvara](kāmeśvaraḥ) [of-Trikūṭā](trikūṭāyāḥ) [Śiva](śivaḥ) [thus](ityevam) [O-goddess](īśvari) [declared](ityevam)
 
 ## mukta-m0-p109-v2715
-[Śrī-Bhairava](śrībhairavaḥ) [of-Kālarātrī](kālarātryāḥ) [Śiva](śivaḥ) [thus](ity)+[evam](evam) [O-īśvarī](īśvari)
+[Śrī-Bhairava](śrībhairavaḥ) [of-Kālarātri](kālarātryāḥ) [Śiva](śivaḥ) [thus](ityevam) [O-goddess](īśvari) [declared](ityevam)
 
 ## mukta-m0-p109-v2716
-[Īśvara](īśvaraḥ) [of-Bhuvaneśvarī](bhuvaneśvaryyāḥ) [Śiva](śivaḥ) [thus](ity)+[evam](evam) [O-īśvarī](īśvari)
+[Īśvara](īśvaraḥ) [of-Bhuvaneśvarī](bhuvaneśvaryyāḥ) [Śiva](śivaḥ) [thus](ityevam) [O-goddess](īśvari) [declared](ityevam)
 
 ## mukta-m0-p109-v2717
-[of-Bhīḍā](bhīḍāyāḥ)+[tu](tu) [Virūpākṣa](virūpākṣaḥ) [Śiva](śivaḥ) [thus](ity)+[evam](evam) [O-īśvarī](īśvari)
+[of-Bhīḍā](bhīḍāyāḥ) [tu](tu) [Virūpākṣa](virūpākṣaḥ) [Śiva](śivaḥ) [thus](ityevam) [O-goddess](īśvari) [declared](ityevam)
 
 ## mukta-m0-p109-v2718
-[of-Śilā](śilāyāḥ) [Vāmadeva](vāmadevaḥ)+[tu](tu) [Śiva](śivaḥ) [declared](proktaḥ) [O-sureśvarī](sureśvari)
+[of-Śilā](śilāyāḥ) [Vāmadeva](vāmadevaḥ) [tu](tu) [Śiva](śivaḥ) [declared](proktaḥ) [O-goddess-of-gods](sureśvari) [thus](proktaḥ)
 
 ## mukta-m0-p109-v2719
-[today](adya) [of-Durgā-Śiva](durgāśivasya)+[ādau](ādau) [will-speak](vakṣye) [root-mantra](mūlamanuṃ) [supreme](param)
+[today](adya) [of-Durgā-Śiva](durgāśivasya) [at-beginning](ādau) [I-will-speak](vakṣye) [root-mantra](mūlamanuṃ) [supreme](param) [thus](vakṣye)
 
 ## mukta-m0-p109-v2720
-[of-Śrī-Nīlakaṇṭha-mantra](śrīnīlakaṇṭhamantrasya) [Dakṣiṇāmūrti](dakṣiṇāmūrtiḥ) [Īśvara](īśvaraḥ)
+[of-Śrī-Nīlakaṇṭha-mantra](śrīnīlakaṇṭhamantrasya) [Dakṣiṇāmūrti](dakṣiṇāmūrtiḥ) [Īśvara](īśvaraḥ) [thus](īśvaraḥ) [declared](īśvaraḥ) [mantra](mantrasya)
 
 ## mukta-m0-p109-v2721
-[Durgeśvara](durgesvaraḥ) [Nīlakaṇṭha](nīlakaṇṭhaḥ) [deity](devatā) [declared](kathito) [by-me](mayā)
+[Durgeśvara](durgesvaraḥ) [Nīlakaṇṭha](nīlakaṇṭhaḥ) [deity](devatā) [declared](kathitaḥ) [by-me](mayā) [thus](kathitaḥ) [mantra](devatā)
 
 ## mukta-m0-p109-v2722
-[pin](kīlakaṃ) [universe](viśvam) [called](ākhyātaṃ) [for-mantra-accomplishment](manusiddhaye)
+[peg](kīlakaṃ) [universe](viśvam) [called](ākhyātaṃ) [assignment](niyogaḥ) [for-mantra-accomplishment](manusiddhaye) [thus](ākhyātaṃ) [mantra](manusiddhaye)
 
 ## mukta-m0-p109-v2723
-[meditation](dhyānam) [of-this-Śiva](asya śivasya)+[ādya](ādya) [having-heard](śrutvā) [most-secret](guptatamaṃ) [do](kuru)
+[meditation](dhyānam) [of-this](asya) [of-Śiva](śivasya) [today](adya) [having-heard](śrutvā) [most-secret](guptatamaṃ) [do](kuru) [thus](kuru)
 
 ## mukta-m0-p109-v2724
-[refuge](śritam) [I-take-refuge](āśrayāmi)
+[refuged](śritam) [I-take-refuge](āśrayāmi) [thus](āśrayāmi) [mantra](āśrayāmi) [verse](āśrayāmi) [end](āśrayāmi)
 
 ## mukta-m0-p109-v2725
-[Durgā-secret](durgārahasya)+[bhūtaṃ](bhūtaṃ) [ca](ca) [hear](śṛṇu) [O-Pārvatī](pārvati) [quickly](satvaram)
+[Durgā-secret-become](durgārahasyabhūtaṃ) [and](ca) [hear](śṛṇu) [Pārvatī](pārvati) [quickly](satvaram) [thus](śṛṇu) [mantra](satvaram)

@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "susmitaṃcāruvadanaṃ",
+     "gloss": "gentle-smile-beautiful-face",
+     "grounds": "fused surface without @; treated as one token; internal sandhi not split",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "devasenāpatiṃbhaje",
+     "gloss": "devasena-commander-worship",
+     "grounds": "fused object and verb; internal sandhi not split",
+     "morph": "1.sg.act-pres (root bhaj)"
+    },
+    {
+     "surface": "śyāmavarṇaḥ",
+     "gloss": "dark-colored",
+     "grounds": "surface as given",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which form and color characterize the devasenāpati being worshipped here?",
+   "premises": [
+    "devasenāpati is worshipped",
+    "face has gentle smile",
+    "body is dark colored"
+   ],
+   "inference": "the worshipped devasenāpati has a gentle smile and dark color",
+   "uncertainties": [
+    "fused tokens obscure word boundaries",
+    "compound membership is inferred"
+   ],
+   "plain_english": "I worship the commander of the gods, with a gentle smile and beautiful face, dark in color."
+  }
+ ]
+}

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 709,
- "question": "What is the increasing linga called when worshipped by gods?",
+ "question": "To whom is salutation given as Pinaka-marked hand?",
  "premises": [
-  "increasing linga is named",
-  "gods worship it"
+  "Pinaka-marked hand is named",
+  "recipient is Hara",
+  "salutation is given"
  ],
- "inference": "the increasing linga is named and worshipped by gods",
+ "inference": "The verse gives salutation to Hara bearing the Pinaka mark.",
  "uncertainties": [
-  "exact name not given"
+  "compound internal members not split"
  ],
- "plain_english": "The increasing linga is named and worshipped by the gods."
+ "plain_english": "Salutation to Hara with Pinaka-marked hand."
 }

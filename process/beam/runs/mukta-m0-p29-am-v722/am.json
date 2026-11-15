@@ -1,14 +1,18 @@
 {
  "song": "mukta-m0-p29",
  "verse": 722,
- "question": "How should linga expansion be divided?",
+ "question": "What stance is straight-bodied, even-footed, coral-colored, deer and axe-handed, upon lotus pedestal?",
  "premises": [
-  "linga expansion is specified",
-  "sevenfold equal division is stated"
+  "straight-bodied is stated",
+  "even-footed is stated",
+  "stance is subject",
+  "coral-colored is stated",
+  "deer and axe-handed is stated",
+  "upon lotus pedestal is stated"
  ],
- "inference": "linga expansion should be divided sevenfold equally",
+ "inference": "The verse describes a stance with these attributes upon a lotus pedestal.",
  "uncertainties": [
-  "unit unclear"
+  "compound internal members not split"
  ],
- "plain_english": "Linga expansion should be divided sevenfold equally."
+ "plain_english": "Straight-bodied, even-footed stance, coral-colored, deer and axe-handed, upon lotus pedestal."
 }

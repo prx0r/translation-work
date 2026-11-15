@@ -1,0 +1,31 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "śyāma",
+     "gloss": "dark",
+     "grounds": "adjective describing color",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is attributed to the deity in this description?",
+   "premises": [
+    "śyāma means dark",
+    "varṇaḥ means color",
+    "the two tokens form a color statement"
+   ],
+   "inference": "The described deity has a dark color.",
+   "uncertainties": [],
+   "plain_english": "Dark is the color."
+  }
+ ]
+}

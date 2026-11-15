@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p175",
  "verse": 4368,
- "question": "How are the side lines and elephant-eye marks positioned from the half-mark?",
+ "question": "What beautiful twelve-celled figure is drawn in each petal?",
  "premises": [
-  "The starting point is half of the mark.",
-  "Two side lines are drawn.",
-  "Elephant-eye marks are placed at its front."
+  "each petal is named",
+  "beautiful twelve-cell is drawn in order"
  ],
- "inference": "From half the mark two side lines are drawn, and at their front are placed elephant-eye marks.",
- "uncertainties": [],
- "plain_english": "From half the mark, draw two side lines, and at their front place the elephant-eye marks."
+ "inference": "a beautiful twelve-celled figure is drawn in each petal in order",
+ "uncertainties": [
+  "petal context unclear"
+ ],
+ "plain_english": "Draw in each petal a beautiful twelve-celled figure in order."
 }

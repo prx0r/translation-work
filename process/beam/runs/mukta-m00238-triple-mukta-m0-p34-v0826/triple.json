@@ -1,0 +1,822 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 826,
+   "rows": [
+    {
+     "surface": "tayormadhyagataṃ",
+     "gloss": "of-them-middle-gone",
+     "grounds": "fused form",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "skaṃdaṃ",
+     "gloss": "skanda",
+     "grounds": "name",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "sarvalakṣaṇasaṃyutam",
+     "gloss": "with-all-marks-endowed",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How is Skanda positioned and marked among the two deities?",
+   "premises": [
+    "Skanda stands between them",
+    "Skanda has all marks",
+    "The form is fully endowed"
+   ],
+   "inference": "Skanda is the central marked figure between the two deities.",
+   "uncertainties": [
+    "exact case and gender not fully recoverable"
+   ],
+   "plain_english": "Skanda stands between the two, endowed with all marks."
+  },
+  {
+   "verse": 827,
+   "rows": [
+    {
+     "surface": "somāskaṃdasya",
+     "gloss": "of-soma-skanda",
+     "grounds": "compound",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "side",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogaśaktiśca",
+     "gloss": "bhoga-shakti-and",
+     "grounds": "fused form",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "vāmake",
+     "gloss": "left",
+     "grounds": "locative",
+     "morph": "adj.loc.sg.m"
+    }
+   ],
+   "question": "Where is Bhoga Shakti placed relative to Soma Skanda?",
+   "premises": [
+    "Bhoga Shakti is named",
+    "It is on the left side",
+    "The side is specified"
+   ],
+   "inference": "Bhoga Shakti stands on the left side of Soma Skanda.",
+   "uncertainties": [
+    "exact sandhi expansion not shown"
+   ],
+   "plain_english": "Bhoga Shakti is on the left side of Soma Skanda."
+  },
+  {
+   "verse": 828,
+   "rows": [
+    {
+     "surface": "paṃcaviṃśatimūrtīnāṃ",
+     "gloss": "of-twenty-five-forms",
+     "grounds": "compound",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "somāskaṃdomahānmataḥ",
+     "gloss": "soma-skanda-great-regarded",
+     "grounds": "fused form",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How is Soma Skanda regarded among the twenty-five forms?",
+   "premises": [
+    "Twenty-five forms are referenced",
+    "Soma Skanda is named",
+    "It is called great"
+   ],
+   "inference": "Soma Skanda is regarded as great among the twenty-five forms.",
+   "uncertainties": [
+    "compound boundaries unclear"
+   ],
+   "plain_english": "Soma Skanda is regarded as great among the twenty-five forms."
+  },
+  {
+   "verse": 829,
+   "rows": [
+    {
+     "surface": "dharāṃ",
+     "gloss": "earth",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumudaṃ",
+     "gloss": "kumuda",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "vāmevaradasaṃyutām",
+     "gloss": "left-granting-endowed",
+     "grounds": "fused form",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What goddess and attributes are placed on the left?",
+   "premises": [
+    "Earth and Kumuda are named",
+    "The goddess is named",
+    "She is endowed with granting on the left"
+   ],
+   "inference": "The goddess on the left is endowed with granting power.",
+   "uncertainties": [
+    "exact grammatical relation unclear"
+   ],
+   "plain_english": "On the left is the goddess, endowed with granting power."
+  },
+  {
+   "verse": 830,
+   "rows": [
+    {
+     "surface": "saralābjadharaṃhaste",
+     "gloss": "sarala-lotus-holder-hand",
+     "grounds": "fused form",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitam",
+     "gloss": "all-ornaments-adorned",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How is the figure adorned and what does it hold?",
+   "premises": [
+    "A hand holds sarala and lotus",
+    "All ornaments adorn it",
+    "The form is fully decorated"
+   ],
+   "inference": "The figure holds sarala and lotus and is adorned with all ornaments.",
+   "uncertainties": [
+    "fused hand reference unclear"
+   ],
+   "plain_english": "It holds sarala and lotus in hand and is adorned with all ornaments."
+  },
+  {
+   "verse": 831,
+   "rows": [
+    {
+     "surface": "somāskaṃdamiti",
+     "gloss": "soma-skanda-thus",
+     "grounds": "fused form",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "verb.3.sg.pass-past+root-prvac"
+    },
+    {
+     "surface": "devoraktavarṇaḥ",
+     "gloss": "god-red-color",
+     "grounds": "compound",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "devīśyāmavarṇā",
+     "gloss": "goddess-dark-color",
+     "grounds": "compound",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "skaṃdonīlavarṇaḥ",
+     "gloss": "skanda-blue-color",
+     "grounds": "compound",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What colors are assigned to god, goddess, and Skanda?",
+   "premises": [
+    "The form is called Soma Skanda",
+    "The god is red",
+    "The goddess is dark",
+    "Skanda is blue"
+   ],
+   "inference": "The three figures have distinct colors: red, dark, and blue.",
+   "uncertainties": [
+    "exact color terms vary"
+   ],
+   "plain_english": "The god is red, the goddess is dark, and Skanda is blue."
+  },
+  {
+   "verse": 832,
+   "rows": [
+    {
+     "surface": "śaṃbhordakṣiṇavāmakakṣabhujayorbrahmācyutābhayāṃ",
+     "gloss": "of-shambhu-right-left-arms-brahma-vishnu-fearlessness",
+     "grounds": "fused form",
+     "morph": "noun.gen.du.m"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "verb.3.sg.act-past+root-stha"
+    },
+    {
+     "surface": "tattallakṣaṇamāyudhaiḥ",
+     "gloss": "that-mark-weapon",
+     "grounds": "compound",
+     "morph": "noun.ins.pl.n"
+    },
+    {
+     "surface": "parivṛtaṃ",
+     "gloss": "surrounded",
+     "grounds": "participle",
+     "morph": "verb.3.sg.pass-past+root-vrt"
+    },
+    {
+     "surface": "hastadvayāḍhyāṃjalim",
+     "gloss": "two-hands-joined",
+     "grounds": "compound",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "How are Brahma and Vishnu positioned around Shambhu?",
+   "premises": [
+    "They stand in Shambhu's arms",
+    "They are surrounded by marks and weapons",
+    "Joined hands are present"
+   ],
+   "inference": "Brahma and Vishnu stand in Shambhu's arms with joined hands.",
+   "uncertainties": [
+    "fused compound boundaries unclear"
+   ],
+   "plain_english": "Brahma and Vishnu stand in Shambhu's arms, surrounded by marks and weapons, with joined hands."
+  },
+  {
+   "verse": 833,
+   "rows": [
+    {
+     "surface": "ekapādamitikhyātaṃ",
+     "gloss": "one-foot-thus-called",
+     "grounds": "fused form",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "sukhāsinam",
+     "gloss": "comfortable-seat",
+     "grounds": "compound",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "compound",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "pakṣāṃtare",
+     "gloss": "other-side",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "śvetavarnopi",
+     "gloss": "white-color-also",
+     "grounds": "fused form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prasiddhaḥ",
+     "gloss": "well-known",
+     "grounds": "participle",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What posture and color variants are described for this form?",
+   "premises": [
+    "It is called one-foot",
+    "It sits comfortably",
+    "It is red",
+    "On the other side it is white"
+   ],
+   "inference": "The form is known in red and white variants with a comfortable one-foot posture.",
+   "uncertainties": [
+    "exact side relation unclear"
+   ],
+   "plain_english": "This form is called one-foot, sits comfortably, and is known in red and white variants."
+  },
+  {
+   "verse": 834,
+   "rows": [
+    {
+     "surface": "aruṇāṃbaraśobhilasachubhadaṃguṇanetrasukhāsanarūpamidam",
+     "gloss": "red-garment-shining-auspicious-guna-eye-comfortable-seat-form-this",
+     "grounds": "fused form",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "What visual features define this red-garmented form?",
+   "premises": [
+    "Red garment shines",
+    "Auspicious guna is present",
+    "Eye and comfortable seat are named"
+   ],
+   "inference": "The form is defined by red garment, shining auspicious qualities, eye, and comfortable seat.",
+   "uncertainties": [
+    "single fused token obscures boundaries"
+   ],
+   "plain_english": "This form shines in red garment with auspicious qualities, eye, and comfortable seat."
+  },
+  {
+   "verse": 835,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "dakṣiṇehastevaradaṃ",
+     "gloss": "right-hand-boon",
+     "grounds": "fused form",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "varadaṃ",
+     "gloss": "boon",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vāmahastake",
+     "gloss": "left-hand",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "What boons and gestures are held in the hands?",
+   "premises": [
+    "Fearlessness is named",
+    "Right hand gives boon",
+    "Left hand is named"
+   ],
+   "inference": "The right hand grants boon while fearlessness and left hand are specified.",
+   "uncertainties": [
+    "exact hand assignment unclear"
+   ],
+   "plain_english": "Fearlessness and boon are associated with the right hand, and the left hand is named."
+  },
+  {
+   "verse": 836,
+   "rows": [
+    {
+     "surface": "śayānaṃdakṣiṇaṃpādaṃ",
+     "gloss": "sleeping-right-foot",
+     "grounds": "fused form",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "dadhaṃvāmaṃ",
+     "gloss": "holding-left-bent",
+     "grounds": "fused form",
+     "morph": "verb.part.acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṃcitam",
+     "gloss": "bent",
+     "grounds": "participle",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "How are the right and left feet positioned?",
+   "premises": [
+    "Right foot is sleeping",
+    "Left is held bent",
+    "Bent is specified"
+   ],
+   "inference": "The right foot sleeps while the left foot is held bent.",
+   "uncertainties": [
+    "fused verb form unclear"
+   ],
+   "plain_english": "The right foot sleeps and the left foot is held bent."
+  },
+  {
+   "verse": 837,
+   "rows": [
+    {
+     "surface": "sukhāsīnamiti",
+     "gloss": "comfortable-seated-thus",
+     "grounds": "fused form",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "verb.3.sg.pass-past+root-prvac"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "compound",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What is this comfortable seated form called and colored?",
+   "premises": [
+    "It is called comfortable seated",
+    "It is red",
+    "The name is given"
+   ],
+   "inference": "This comfortable seated form is called such and is red.",
+   "uncertainties": [
+    "exact name not fully recoverable"
+   ],
+   "plain_english": "It is called comfortable seated and is red."
+  },
+  {
+   "verse": 838,
+   "rows": [
+    {
+     "surface": "vyākhyāpīṭheniṣaṇṇassakalamunivaraissevitaḥ",
+     "gloss": "exposition-seat-seated-by-sages",
+     "grounds": "fused form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "suprasannassavyālaḥ",
+     "gloss": "very-pleased-with-snake",
+     "grounds": "fused form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kṛttivāsāssatatamavatunodakṣiṇāmūrtirīśaḥ",
+     "gloss": "skin-garment-ever-protect-dakshinamurti-lord",
+     "grounds": "fused form",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "Who is seated on the exposition seat and served by sages?",
+   "premises": [
+    "He is seated on exposition seat",
+    "Sages serve him",
+    "He is pleased with snake",
+    "He wears skin garment",
+    "He is Dakshinamurti lord"
+   ],
+   "inference": "Dakshinamurti, wearing skin garment, sits on the exposition seat served by sages.",
+   "uncertainties": [
+    "fused token boundaries unclear"
+   ],
+   "plain_english": "Dakshinamurti sits on the exposition seat, served by sages, pleased with snake, wearing skin garment."
+  },
+  {
+   "verse": 839,
+   "rows": [
+    {
+     "surface": "bharadvājaśśaunakaścāpyagastyobhārgavastathā",
+     "gloss": "bharadvaja-shaunaka-also-agastya-bhargava-and",
+     "grounds": "fused form",
+     "morph": "noun.nom.pl.m"
+    }
+   ],
+   "question": "Which sages are named in this group?",
+   "premises": [
+    "Bharadvaja is named",
+    "Shaunaka is named",
+    "Agastya is named",
+    "Bhargava is named"
+   ],
+   "inference": "The named sages are Bharadvaja, Shaunaka, Agastya, and Bhargava.",
+   "uncertainties": [
+    "exact list boundaries fused"
+   ],
+   "plain_english": "The sages named are Bharadvaja, Shaunaka, Agastya, and Bhargava."
+  },
+  {
+   "verse": 840,
+   "rows": [
+    {
+     "surface": "kailāsaparvate",
+     "gloss": "kailasa-mountain",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron.loc.sg.m"
+    },
+    {
+     "surface": "vaṭavṛkṣasyamūlake",
+     "gloss": "banyan-tree-root",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "Where is the banyan tree root located?",
+   "premises": [
+    "Kailasa mountain is named",
+    "That place is referenced",
+    "Banyan tree root is named"
+   ],
+   "inference": "The banyan tree root is at Kailasa mountain.",
+   "uncertainties": [
+    "exact spatial relation unclear"
+   ],
+   "plain_english": "The banyan tree root is at Kailasa mountain."
+  },
+  {
+   "verse": 841,
+   "rows": [
+    {
+     "surface": "śubhravarṇaḥ",
+     "gloss": "white-color",
+     "grounds": "compound",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What color is specified for this form?",
+   "premises": [
+    "White color is named",
+    "The form is specified",
+    "Color is stated"
+   ],
+   "inference": "This form is white in color.",
+   "uncertainties": [
+    "which form unclear"
+   ],
+   "plain_english": "This form is white in color."
+  },
+  {
+   "verse": 842,
+   "rows": [
+    {
+     "surface": "nālakādhasthitaṃ",
+     "gloss": "stalk-below-foot",
+     "grounds": "fused form",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pādaṃliṃgodbhavasamanvitam",
+     "gloss": "foot-linga-born-endowed",
+     "grounds": "fused form",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is below the stalk and endowed with linga-born foot?",
+   "premises": [
+    "Stalk below foot is named",
+    "Foot linga born endowed is named",
+    "The form is specified"
+   ],
+   "inference": "The form has a stalk below the foot and is endowed with linga-born foot.",
+   "uncertainties": [
+    "fused token boundaries unclear"
+   ],
+   "plain_english": "The form has a stalk below the foot and is endowed with linga-born foot."
+  },
+  {
+   "verse": 843,
+   "rows": [
+    {
+     "surface": "dakṣevarāharūpasya",
+     "gloss": "right-boon-form",
+     "grounds": "fused form",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "rūpeṇādhogatohariḥ",
+     "gloss": "form-below-gone-vishnu",
+     "grounds": "fused form",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "Where does Vishnu go in relation to the right boon form?",
+   "premises": [
+    "Right boon form is named",
+    "Vishnu is named",
+    "He goes below by form"
+   ],
+   "inference": "Vishnu goes below in relation to the right boon form.",
+   "uncertainties": [
+    "exact spatial relation unclear"
+   ],
+   "plain_english": "Vishnu goes below in relation to the right boon form."
+  },
+  {
+   "verse": 844,
+   "rows": [
+    {
+     "surface": "svarūpeṇadvipādasthāvajaviṣṇūvibhoḥpare",
+     "gloss": "own-form-two-footed-vishnu-lord-beyond",
+     "grounds": "fused form",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "How is Vishnu described in his own form?",
+   "premises": [
+    "Own form is named",
+    "Two-footed is named",
+    "Vishnu lord beyond is named"
+   ],
+   "inference": "Vishnu is described as two-footed in his own form beyond.",
+   "uncertainties": [
+    "fused token boundaries unclear"
+   ],
+   "plain_english": "Vishnu is two-footed in his own form beyond."
+  },
+  {
+   "verse": 845,
+   "rows": [
+    {
+     "surface": "śobhānvitaṃ",
+     "gloss": "shining-endowed",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śubhakaraṃsakalaprajānāmaiśvarya",
+     "gloss": "auspicious-doing-all-creatures-lordship",
+     "grounds": "fused form",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "saṃghaparivṛddhikaraṃvidadhyāt",
+     "gloss": "sangha-increase-doing-may-grant",
+     "grounds": "fused form",
+     "morph": "verb.3.sg.opt-act+root-dha"
+    }
+   ],
+   "question": "What auspicious results are granted to creatures and sangha?",
+   "premises": [
+    "Shining is named",
+    "Auspicious doing for all creatures is named",
+    "Sangha increase is named"
+   ],
+   "inference": "The form grants auspicious lordship to creatures and increase to sangha.",
+   "uncertainties": [
+    "fused verb form unclear"
+   ],
+   "plain_english": "The form grants auspicious lordship to all creatures and increase to sangha."
+  },
+  {
+   "verse": 846,
+   "rows": [
+    {
+     "surface": "pakṣāṃtare",
+     "gloss": "other-side",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "śubhravarṇopi",
+     "gloss": "white-color-also",
+     "grounds": "fused form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prasiddhaḥ",
+     "gloss": "well-known",
+     "grounds": "participle",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color is well known on the other side?",
+   "premises": [
+    "Other side is named",
+    "White color is named",
+    "Well known is stated"
+   ],
+   "inference": "White color is well known on the other side.",
+   "uncertainties": [
+    "exact side relation unclear"
+   ],
+   "plain_english": "White color is well known on the other side."
+  },
+  {
+   "verse": 847,
+   "rows": [
+    {
+     "surface": "dvātriṃśadbāhusaṃyuktaṃ",
+     "gloss": "thirty-two-arms-endowed",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sūryasomāgnilocanam",
+     "gloss": "sun-moon-fire-eyes",
+     "grounds": "compound",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "How many arms and eyes does this form have?",
+   "premises": [
+    "Thirty-two arms are named",
+    "Sun moon fire eyes are named",
+    "The form is endowed"
+   ],
+   "inference": "This form has thirty-two arms and sun, moon, fire eyes.",
+   "uncertainties": [
+    "exact eye count unclear"
+   ],
+   "plain_english": "This form has thirty-two arms and eyes of sun, moon, and fire."
+  },
+  {
+   "verse": 848,
+   "rows": [
+    {
+     "surface": "ūdhrvakeśaṃ",
+     "gloss": "upward-hair",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "mahābāhuṃ",
+     "gloss": "great-armed",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "nānālaṃkārabhūṣitam",
+     "gloss": "various-ornaments-adorned",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What hair, arms, and ornaments define this form?",
+   "premises": [
+    "Upward hair is named",
+    "Great armed is named",
+    "Various ornaments adorn it"
+   ],
+   "inference": "This form has upward hair, great arms, and various ornaments.",
+   "uncertainties": [
+    "exact gender unclear"
+   ],
+   "plain_english": "This form has upward hair, great arms, and various ornaments."
+  },
+  {
+   "verse": 849,
+   "rows": [
+    {
+     "surface": "khaḍgakhaṭvāṃgaparaśūnakṣamālāsthi",
+     "gloss": "sword-khatvanga-axe-rosary-bone",
+     "grounds": "compound",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "śūlakam",
+     "gloss": "trident",
+     "grounds": "noun",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "What weapons and implements are held by this form?",
+   "premises": [
+    "Sword is named",
+    "Khatvanga is named",
+    "Axe is named",
+    "Rosary and bone are named",
+    "Trident is named"
+   ],
+   "inference": "This form holds sword, khatvanga, axe, rosary, bone, and trident.",
+   "uncertainties": [
+    "exact list boundaries unclear"
+   ],
+   "plain_english": "This form holds sword, khatvanga, axe, rosary, bone, and trident."
+  }
+ ]
+}

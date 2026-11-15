@@ -7,33 +7,33 @@
     {
      "surface": "tatorukmāṃgadodaṃtodauṣyaṃtodaṃta",
      "gloss": "then-great-armlet-end-...",
-     "grounds": "fused sandhi form kept as one token",
+     "grounds": "compound of tatah + uru + angada + ...",
      "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "indeclinable particle",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable conjunction",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which kalpas are named immediately after the great armlet-end sequence?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "The verse lists a sequence of kalpa names.",
+    "It opens with a then-great-armlet-end phrase.",
+    "It closes with indeed and and."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "The verse continues the enumeration of kalpas rather than defining a single doctrine.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The fused first token is not fully segmented in the supplied text."
    ],
-   "plain_english": "Then ... indeed and ..."
+   "plain_english": "Then the great armlet-end sequence, indeed, and ..."
   },
   {
    "verse": 4002,
@@ -41,14 +41,14 @@
     {
      "surface": "śivadharmāhvayaṃ",
      "gloss": "shiva-dharma-named",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound naming a scripture",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "śāstraṃ",
      "gloss": "scripture",
      "grounds": "neuter noun",
-     "morph": "n.acc.sg"
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
@@ -59,36 +59,36 @@
     {
      "surface": "viṣṇudharmāhvayaṃ",
      "gloss": "vishnu-dharma-named",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound naming a scripture",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which two dharma scriptures are named alongside each other?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "The verse names a shiva-dharma scripture.",
+    "It also names a vishnu-dharma scripture.",
+    "The two are joined by tatha."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "The passage pairs Shiva-dharma and Vishnu-dharma as named scriptures.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "No doctrinal claim beyond naming is supplied."
    ],
-   "plain_english": "Shiva-dharma scripture and Vishnu-dharma scripture."
+   "plain_english": "The Shiva-dharma scripture and the Vishnu-dharma scripture."
   },
   {
    "verse": 4003,
    "rows": [
     {
      "surface": "purāṇabhinnānyetāni",
-     "gloss": "purana-distinct",
-     "grounds": "compound form",
-     "morph": "compound"
+     "gloss": "purana-distinct-these",
+     "grounds": "compound with purana and distinct",
+     "morph": "n.nom.pl"
     },
     {
      "surface": "kīrtitāni",
      "gloss": "declared",
      "grounds": "past participle",
-     "morph": "participle"
+     "morph": "n.nom.pl"
     },
     {
      "surface": "imanīṣibhiḥ",
@@ -97,25 +97,25 @@
      "morph": "m.inst.pl"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Who declared these purana-distinct items?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "The items are purana-distinct.",
+    "They are declared.",
+    "The agents are wise ones."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "Wise ones declared these purana-distinct items.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The exact list of items is not in this verse."
    ],
-   "plain_english": "These distinct from puranas are declared by wise ones."
+   "plain_english": "These purana-distinct items were declared by wise ones."
   },
   {
    "verse": 4004,
    "rows": [
     {
      "surface": "vaidyādharastu",
-     "gloss": "vidyadhara",
-     "grounds": "fused sandhi form",
+     "gloss": "vidyadhara-but",
+     "grounds": "compound with tu",
      "morph": "m.nom.sg"
     },
     {
@@ -127,61 +127,61 @@
     {
      "surface": "nānācitrakathāśrayaḥ",
      "gloss": "various-wonderful-story-refuge",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "What is the first vidyadhara kalpa characterized as?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "Vidyadhara is first.",
+    "It is a refuge of various wonderful stories.",
+    "The verse names it as a kalpa."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "The first vidyadhara kalpa is a refuge of various wonderful stories.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The full kalpa list continues elsewhere."
    ],
-   "plain_english": "Vidyadhara is first, refuge of various wonderful stories."
+   "plain_english": "The first vidyadhara kalpa is a refuge of various wonderful stories."
   },
   {
    "verse": 4005,
    "rows": [
     {
      "surface": "yāyātastu",
-     "gloss": "yayati",
-     "grounds": "fused sandhi form",
+     "gloss": "yayati-but",
+     "grounds": "proper name with tu",
      "morph": "m.nom.sg"
     },
     {
      "surface": "caturthaḥ",
      "gloss": "fourth",
-     "grounds": "ordinal adjective",
+     "grounds": "ordinal",
      "morph": "m.nom.sg"
     },
     {
      "surface": "syāt",
-     "gloss": "syāt",
-     "grounds": "verb form",
-     "morph": "3.sg.act-opt"
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
     },
     {
      "surface": "paṃcamomohanāhvayaḥ",
      "gloss": "fifth-mohana-named",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which kalpas are assigned fourth and fifth positions?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "Yayati is fourth.",
+    "The fifth is named Mohana.",
+    "The verse uses syat."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "Yayati is fourth and Mohana is fifth among the named kalpas.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The complete numbering scheme is not shown here."
    ],
-   "plain_english": "Yayati is fourth; fifth is named Mohana."
+   "plain_english": "Yayati is fourth, and the fifth is named Mohana."
   },
   {
    "verse": 4006,
@@ -189,39 +189,39 @@
     {
      "surface": "ete",
      "gloss": "these",
-     "grounds": "demonstrative pronoun",
+     "grounds": "demonstrative",
      "morph": "m.nom.pl"
     },
     {
      "surface": "sarvārthadātaṇāṃ",
      "gloss": "all-objects-giving",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.gen.pl"
     },
     {
      "surface": "śravaṇāt",
      "gloss": "by-hearing",
-     "grounds": "ablative noun",
+     "grounds": "ablative",
      "morph": "n.abl.sg"
     },
     {
      "surface": "pāpahāriṇaḥ",
      "gloss": "sin-destroying",
-     "grounds": "compound adjective",
+     "grounds": "compound",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "What effect is attributed to hearing these kalpas?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "These kalpas are all-objects-giving.",
+    "Hearing them is the means.",
+    "They are sin-destroying."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "Hearing these kalpas destroys sin and gives all objects.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The exact scope of all objects is unspecified."
    ],
-   "plain_english": "These give all objects and destroy sin by hearing."
+   "plain_english": "Hearing these all-giving kalpas destroys sin."
   },
   {
    "verse": 4007,
@@ -229,73 +229,73 @@
     {
      "surface": "tṛtīyaṣṣoḍaśīkalpaḥ",
      "gloss": "third-sixteenth-kalpa",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "kalpaḥ",
      "gloss": "kalpa",
-     "grounds": "masculine noun",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "pañcākṣarābhidhaḥ",
      "gloss": "five-syllable-named",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which kalpa is named as third and sixteenth?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "The verse names a third-sixteenth kalpa.",
+    "It also names a kalpa.",
+    "The third is five-syllable-named."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "A third-sixteenth kalpa is identified with the five-syllable-named kalpa.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The relation between third and sixteenth is unclear."
    ],
-   "plain_english": "Third sixteenth kalpa, kalpa named five-syllable."
+   "plain_english": "The third-sixteenth kalpa is the five-syllable-named kalpa."
   },
   {
    "verse": 4008,
    "rows": [
     {
      "surface": "rāmatārakakalpaśca",
-     "gloss": "rama-taraka-kalpa",
-     "grounds": "fused sandhi form",
-     "morph": "compound"
+     "gloss": "rama-taraka-kalpa-and",
+     "grounds": "compound with ca",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "śūlinīkalpa",
      "gloss": "shulini-kalpa",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "eva",
      "gloss": "also",
-     "grounds": "indeclinable",
+     "grounds": "particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which kalpas are named together with Rama-taraka?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "Rama-taraka kalpa is named.",
+    "Shulini kalpa is named.",
+    "The verse adds also."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "Rama-taraka and Shulini kalpas are named together.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "No doctrinal explanation is given."
    ],
-   "plain_english": "Rama-taraka kalpa and Shulini kalpa also."
+   "plain_english": "The Rama-taraka kalpa and the Shulini kalpa."
   },
   {
    "verse": 4009,
@@ -303,54 +303,54 @@
     {
      "surface": "tatodhūmāvatīkalpaś",
      "gloss": "then-dhumavati-kalpa",
-     "grounds": "fused sandhi form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "śītalākalpa",
      "gloss": "shitala-kalpa",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "eva",
      "gloss": "also",
-     "grounds": "indeclinable",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which kalpas follow the Dhumavati kalpa in the list?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "The verse names a then-Dhumavati kalpa.",
+    "It names a Shitala kalpa.",
+    "It adds also and and."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "Dhumavati and Shitala kalpas are listed in sequence.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The exact sequence order is partly implied."
    ],
-   "plain_english": "Then Dhumavati kalpa and Shitala kalpa also and."
+   "plain_english": "The Dhumavati kalpa and the Shitala kalpa."
   },
   {
    "verse": 4010,
    "rows": [
     {
      "surface": "lakṣmīnṛsiṃhakalpaśca",
-     "gloss": "lakshmi-nrisimha-kalpa",
-     "grounds": "fused sandhi form",
-     "morph": "compound"
+     "gloss": "lakshmi-nrisimha-kalpa-and",
+     "grounds": "compound with ca",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "kuhūkalpaḥ",
      "gloss": "kuhu-kalpa",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tataḥ",
@@ -365,17 +365,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which kalpas are named before the beyond marker?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "Lakshmi-Nrisimha kalpa is named.",
+    "Kuhu kalpa is named.",
+    "Then beyond follows."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "Lakshmi-Nrisimha and Kuhu kalpas precede the beyond marker.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The meaning of beyond is not explained."
    ],
-   "plain_english": "Lakshmi-Nrisimha kalpa and Kuhu kalpa, then beyond."
+   "plain_english": "The Lakshmi-Nrisimha kalpa and the Kuhu kalpa, then beyond."
   },
   {
    "verse": 4011,
@@ -383,39 +383,39 @@
     {
      "surface": "aśvatthakalpaḥ",
      "gloss": "ashvattha-kalpa",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tulajābhavānīkalpa",
      "gloss": "tulaja-bhavani-kalpa",
-     "grounds": "compound form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "eva",
      "gloss": "also",
-     "grounds": "indeclinable",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which kalpas are named with Ashvattha?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "Ashvattha kalpa is named.",
+    "Tulaja-Bhavani kalpa is named.",
+    "The verse adds also and and."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "Ashvattha and Tulaja-Bhavani kalpas are named together.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "No doctrinal claim is supplied."
    ],
-   "plain_english": "Ashvattha kalpa and Tulaja Bhavani kalpa also and."
+   "plain_english": "The Ashvattha kalpa and the Tulaja-Bhavani kalpa."
   },
   {
    "verse": 4012,
@@ -423,27 +423,27 @@
     {
      "surface": "tathaivabagalākalpaḥ",
      "gloss": "likewise-bagalā-kalpa",
-     "grounds": "fused sandhi form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "kalpovaṭukabhairavaḥ",
      "gloss": "kalpa-vatuka-bhairava",
-     "grounds": "fused sandhi form",
-     "morph": "compound"
+     "grounds": "compound",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Which named kalpas and scriptures are listed as sin-destroying and beneficial to hear?",
+   "question": "Which kalpas are named in the final pair?",
    "premises": [
-    "Named kalpas and scriptures are enumerated.",
-    "Hearing them destroys sin.",
-    "They give all objects."
+    "Bagala kalpa is named likewise.",
+    "Vatuka-Bhairava kalpa is named.",
+    "The verse closes the list."
    ],
-   "inference": "The verses enumerate kalpas and scriptures as sin-destroying and beneficial.",
+   "inference": "Bagala and Vatuka-Bhairava kalpas form the final named pair.",
    "uncertainties": [
-    "Token boundaries and sandhi are preserved as given; glosses approximate."
+    "The list may continue beyond this verse."
    ],
-   "plain_english": "Likewise Bagala kalpa and kalpa of Vatuka Bhairava."
+   "plain_english": "Likewise the Bagala kalpa and the Vatuka-Bhairava kalpa."
   }
  ]
 }
