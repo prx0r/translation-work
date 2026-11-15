@@ -1,0 +1,919 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1576,
+   "rows": [
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "legacy hint liṅgam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "shiva",
+     "grounds": "legacy hint śivam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anusmṛtya",
+     "gloss": "remembering-after",
+     "grounds": "legacy hint anusmṛtya",
+     "morph": "gerund"
+    },
+    {
+     "surface": "pārvatīṃ",
+     "gloss": "parvati",
+     "grounds": "legacy hint pārvatīm",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "piṇḍikāṃ",
+     "gloss": "pedestal",
+     "grounds": "legacy hint piṇḍikām",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "legacy hint smaret",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What should the practitioner remember as linga and pedestal during this rite?",
+   "premises": [
+    "linga is shiva",
+    "pedestal is parvati",
+    "remembering follows anusmrti"
+   ],
+   "inference": "The verse directs remembrance of shiva as linga and parvati as pedestal.",
+   "uncertainties": [
+    "exact ritual sequence beyond this verse"
+   ],
+   "plain_english": "Remember the linga as Shiva and the pedestal as Parvati."
+  },
+  {
+   "verse": 1577,
+   "rows": [
+    {
+     "surface": "kriyāśaktyai",
+     "gloss": "to-kriya-shakti",
+     "grounds": "legacy hint kriyā+śaktyai",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "umāyai",
+     "gloss": "to-uma",
+     "grounds": "legacy hint umāyai",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "nama",
+     "gloss": "salutation",
+     "grounds": "legacy hint namaḥ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint api",
+     "morph": "indecl."
+    }
+   ],
+   "question": "To whom is salutation offered in this kriya-shakti formula?",
+   "premises": [
+    "kriya-shakti receives salutation",
+    "uma receives salutation",
+    "iti marks formula"
+   ],
+   "inference": "The verse gives a salutation formula to kriya-shakti and Uma.",
+   "uncertainties": [
+    "whether api adds another recipient"
+   ],
+   "plain_english": "Salute kriya-shakti and Uma, thus also."
+  },
+  {
+   "verse": 1578,
+   "rows": [
+    {
+     "surface": "sandheyam",
+     "gloss": "to-be-joined",
+     "grounds": "legacy hint sandheyam",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint atha",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kādi",
+     "gloss": "ka-series",
+     "grounds": "legacy hint kādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "tribhāgake",
+     "gloss": "in-three-parts",
+     "grounds": "legacy hint tribhāgake",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What must be joined in three parts at this stage?",
+   "premises": [
+    "sandheya means to be joined",
+    "kadi series is involved",
+    "three parts are specified"
+   ],
+   "inference": "The verse instructs joining the ka-series in three parts.",
+   "uncertainties": [
+    "exact sandhi operation"
+   ],
+   "plain_english": "Then the ka-series is to be joined in three parts."
+  },
+  {
+   "verse": 1579,
+   "rows": [
+    {
+     "surface": "ādhārānantadharmādīn",
+     "gloss": "support-ananta-dharma-etc",
+     "grounds": "legacy hint ādhāra+ānanta+dharmādīn",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vāmādīn",
+     "gloss": "vama-etc",
+     "grounds": "legacy hint vāmādīn",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pīṭhagān",
+     "gloss": "seat-dwellers",
+     "grounds": "legacy hint pīṭha+gān",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint nyaset",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Which groups are placed in this nyasa operation?",
+   "premises": [
+    "support ananta dharma etc are placed",
+    "vama etc are placed",
+    "seat dwellers are placed"
+   ],
+   "inference": "The verse directs placing support, ananta, dharma, vama, and seat-dwelling groups.",
+   "uncertainties": [
+    "exact enumeration of adi"
+   ],
+   "plain_english": "Place the support, ananta, dharma, vama, and seat-dwelling groups."
+  },
+  {
+   "verse": 1580,
+   "rows": [
+    {
+     "surface": "pañcakalābhiḥ",
+     "gloss": "with-five-kalas",
+     "grounds": "legacy hint pañca+kalābhiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaḍadhvabhiḥ",
+     "gloss": "with-six-paths",
+     "grounds": "legacy hint ṣaḍ+adhvabhiḥ",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "With what kalas and paths is this operation performed?",
+   "premises": [
+    "five kalas are used",
+    "six paths are used",
+    "ca joins them"
+   ],
+   "inference": "The verse specifies five kalas and six paths.",
+   "uncertainties": [
+    "which six paths"
+   ],
+   "plain_english": "With five kalas and six paths."
+  },
+  {
+   "verse": 1581,
+   "rows": [
+    {
+     "surface": "śaktyantatattvaiḥ",
+     "gloss": "with-shakti-end-tattvas",
+     "grounds": "legacy hint śakti+anta+tattvaiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "syād",
+     "gloss": "it-becomes",
+     "grounds": "legacy hint syāt",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "daśadigbāhumaṇḍalā",
+     "gloss": "ten-direction-arm-circle",
+     "grounds": "legacy hint daśa+dig+bāhu+maṇḍalā",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What becomes the ten-direction arm circle in this rite?",
+   "premises": [
+    "shakti-end tattvas are used",
+    "result is ten-direction arm circle",
+    "syad marks becoming"
+   ],
+   "inference": "The verse says the shakti-end tattvas become the ten-direction arm circle.",
+   "uncertainties": [
+    "exact tattva list"
+   ],
+   "plain_english": "With shakti-end tattvas, it becomes the ten-direction arm circle."
+  },
+  {
+   "verse": 1582,
+   "rows": [
+    {
+     "surface": "nivṛttipādajaṅghoruḥ",
+     "gloss": "nivritti-foot-shin-thigh",
+     "grounds": "legacy hint nivṛtti+pāda+jaṅgha+ūruḥ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhājaghanādikā",
+     "gloss": "pratishtha-hip-etc",
+     "grounds": "legacy hint pratiṣṭhā+jaghana+ādikā",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which body parts correspond to nivritti and pratishtha here?",
+   "premises": [
+    "nivritti corresponds to foot shin thigh",
+    "pratishtha corresponds to hip etc",
+    "compound names body mapping"
+   ],
+   "inference": "The verse maps nivritti to foot, shin, thigh and pratishtha to hip and following parts.",
+   "uncertainties": [
+    "exact adika extent"
+   ],
+   "plain_english": "Nivritti is foot, shin, thigh; pratishtha is hip and following."
+  },
+  {
+   "verse": 1583,
+   "rows": [
+    {
+     "surface": "śāntyatītakalāśīrṣā",
+     "gloss": "shanti-atita-kala-head",
+     "grounds": "legacy hint śānti+atīta+kalā+śīrṣā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhuvanādhvatanūruhā",
+     "gloss": "world-path-body-hair",
+     "grounds": "legacy hint bhuvana+adhva+tanū+ruhā",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What head and body-hair correspondences are given here?",
+   "premises": [
+    "shanti-atita-kala is head",
+    "bhuvana-adhva is body hair",
+    "compound gives mapping"
+   ],
+   "inference": "The verse maps shanti-atita-kala to head and bhuvana-adhva to body hair.",
+   "uncertainties": [
+    "exact kalas"
+   ],
+   "plain_english": "Shanti-atita-kala is the head; bhuvana-adhva is body hair."
+  },
+  {
+   "verse": 1584,
+   "rows": [
+    {
+     "surface": "tattvādhvamajjaśuklāsthiraśeṣādhvamayī",
+     "gloss": "tattva-path-marrow-white-steady-remaining-path-made",
+     "grounds": "legacy hint tattva+adhva+majja+śukla+asthira+śeṣa+adhva+mayī",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "is-remembered",
+     "grounds": "legacy hint smṛtā",
+     "morph": "participle"
+    }
+   ],
+   "question": "What is remembered as made of tattva path marrow and remaining path?",
+   "premises": [
+    "compound describes tattva-adhva marrow white steady remaining path",
+    "smrta marks remembered",
+    "mayi indicates made of"
+   ],
+   "inference": "The verse remembers something as composed of tattva path marrow, white, steady, and remaining path.",
+   "uncertainties": [
+    "exact referent"
+   ],
+   "plain_english": "It is remembered as made of tattva path marrow, white, steady, and remaining path."
+  },
+  {
+   "verse": 1585,
+   "rows": [
+    {
+     "surface": "caitanyaghanaṃ",
+     "gloss": "dense-consciousness",
+     "grounds": "legacy hint caitanya+ghanam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "legacy hint param",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "jyotir",
+     "gloss": "light",
+     "grounds": "legacy hint jyotiḥ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anāmayam",
+     "gloss": "diseaseless",
+     "grounds": "legacy hint anāmayam",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What supreme light is described as dense consciousness and diseaseless?",
+   "premises": [
+    "caitanya-ghana is dense consciousness",
+    "param jyotir is supreme light",
+    "anamayam is diseaseless"
+   ],
+   "inference": "The verse describes supreme light as dense consciousness and diseaseless.",
+   "uncertainties": [
+    "exact metaphysical referent"
+   ],
+   "plain_english": "Supreme light, dense consciousness, diseaseless."
+  },
+  {
+   "verse": 1586,
+   "rows": [
+    {
+     "surface": "liṅgāntaṃ",
+     "gloss": "linga-end",
+     "grounds": "legacy hint liṅga+antam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūrtyā",
+     "gloss": "with-form",
+     "grounds": "legacy hint mūrtyā",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "hṛtpaṅkajodare",
+     "gloss": "in-heart-lotus-belly",
+     "grounds": "legacy hint hṛt+paṅkaja+udare",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Where is the linga-end placed with form?",
+   "premises": [
+    "linga-anta is linga end",
+    "murtya is with form",
+    "hrt-pankaja-udare is heart lotus belly"
+   ],
+   "inference": "The verse places the linga-end with form in the heart lotus belly.",
+   "uncertainties": [
+    "exact ritual action"
+   ],
+   "plain_english": "The linga-end with form is in the heart lotus belly."
+  },
+  {
+   "verse": 1587,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhasvaropetaṃ",
+     "gloss": "endowed-with-sixth-sound",
+     "grounds": "legacy hint ṣaṣṭha+svara+upetam",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "binduṃ",
+     "gloss": "bindu",
+     "grounds": "legacy hint bindum",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cicchaktaye",
+     "gloss": "to-consciousness-shakti",
+     "grounds": "legacy hint cit+śaktaye",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "legacy hint namaḥ",
+     "morph": "indecl."
+    }
+   ],
+   "question": "To whom is salutation offered with the sixth-sound bindu?",
+   "premises": [
+    "bindu is endowed with sixth sound",
+    "cicchakti receives salutation",
+    "namah marks salutation"
+   ],
+   "inference": "The verse salutes consciousness-shakti with the sixth-sound bindu.",
+   "uncertainties": [
+    "exact sixth sound"
+   ],
+   "plain_english": "Salutation to consciousness-shakti with the sixth-sound bindu."
+  },
+  {
+   "verse": 1588,
+   "rows": [
+    {
+     "surface": "yathāpūrvam",
+     "gloss": "as-before",
+     "grounds": "legacy hint yathā+pūrvam",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint atha",
+     "morph": "indecl."
+    },
+    {
+     "surface": "piṣṭādinirmitaiḥ",
+     "gloss": "with-flour-etc-made",
+     "grounds": "legacy hint piṣṭa+ādi+nirmitaiḥ",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What is done then with flour-made items as before?",
+   "premises": [
+    "yathapurvam means as before",
+    "atha means then",
+    "pishta-adi-nirmitaih means with flour-made items"
+   ],
+   "inference": "The verse indicates a subsequent step using flour-made items as before.",
+   "uncertainties": [
+    "exact action omitted"
+   ],
+   "plain_english": "Then, as before, with flour-made items."
+  },
+  {
+   "verse": 1589,
+   "rows": [
+    {
+     "surface": "nandyāvarttotpalāmbhojaśrīvatsasvastikāmbujaiḥ",
+     "gloss": "nandyavarta-utpala-lotus-srivatsa-svastika-lotus",
+     "grounds": "legacy hint nandyāvarta+utpala+ambhoja+śrīvatsa+svastika+ambujaiḥ",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which auspicious figures are used in this flour rite?",
+   "premises": [
+    "compound lists nandyavarta",
+    "utpala ambhoja srivatsa svastika ambuja",
+    "inst plural marks instruments"
+   ],
+   "inference": "The verse lists auspicious figures used as instruments.",
+   "uncertainties": [
+    "exact ritual use"
+   ],
+   "plain_english": "With nandyavarta, utpala, lotus, srivatsa, svastika, and lotus."
+  },
+  {
+   "verse": 1590,
+   "rows": [
+    {
+     "surface": "paiṣṭair",
+     "gloss": "with-flour-made",
+     "grounds": "legacy hint paiṣṭaiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "gandhādbhiḥ",
+     "gloss": "with-scented-water",
+     "grounds": "legacy hint gandha+ādbhiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "yathāvat",
+     "gloss": "properly",
+     "grounds": "legacy hint yathāvat",
+     "morph": "indecl."
+    },
+    {
+     "surface": "snapayechivam",
+     "gloss": "should-bathe-shiva",
+     "grounds": "legacy hint snapayechivam",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How should Shiva be bathed in this rite?",
+   "premises": [
+    "paistaih means with flour-made items",
+    "gandhadbhih means with scented water",
+    "yathavat means properly",
+    "snapayechivam means should bathe shiva"
+   ],
+   "inference": "The verse directs bathing Shiva properly with flour-made items and scented water.",
+   "uncertainties": [
+    "exact bathing sequence"
+   ],
+   "plain_english": "Bathe Shiva properly with flour-made items and scented water."
+  },
+  {
+   "verse": 1591,
+   "rows": [
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "legacy hint devaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japeccāṣṭottaraṃ",
+     "gloss": "should-chant-ashtottara",
+     "grounds": "legacy hint japeccāṣṭottaraṃ",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "legacy hint śatam",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What mantra count is chanted to the god?",
+   "premises": [
+    "devam is god",
+    "japeccashtottaram is should chant ashtottara",
+    "shatam is hundred"
+   ],
+   "inference": "The verse directs chanting the hundred-name ashtottara to the god.",
+   "uncertainties": [
+    "exact mantra text"
+   ],
+   "plain_english": "Chant the hundred-name ashtottara to the god."
+  },
+  {
+   "verse": 1592,
+   "rows": [
+    {
+     "surface": "saṃprārthayed",
+     "gloss": "should-pray",
+     "grounds": "legacy hint saṃprārthayet",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "legacy hint asmin",
+     "morph": "pron.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "legacy hint sadā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃnihito",
+     "gloss": "present",
+     "grounds": "legacy hint saṃnihitaḥ",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "legacy hint bhava",
+     "morph": "2.sg.imp"
+    }
+   ],
+   "question": "What prayer is made for presence in this rite?",
+   "premises": [
+    "samprarthayed means should pray",
+    "asmin means in this",
+    "sada means always",
+    "samnihito bhava means be present"
+   ],
+   "inference": "The verse prays that the deity be always present in this.",
+   "uncertainties": [
+    "exact deity"
+   ],
+   "plain_english": "Pray: be always present in this."
+  },
+  {
+   "verse": 1593,
+   "rows": [
+    {
+     "surface": "comāmantreṇa",
+     "gloss": "with-uma-mantra",
+     "grounds": "legacy hint comāmantreṇa",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "juhoti",
+     "gloss": "offers",
+     "grounds": "legacy hint juhoti",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "ghṛtapāyasam",
+     "gloss": "ghee-pudding",
+     "grounds": "legacy hint ghṛta+pāyasam",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering is made with the Uma mantra?",
+   "premises": [
+    "comamantrena means with uma mantra",
+    "juhoti means offers",
+    "ghrtapayasam means ghee pudding"
+   ],
+   "inference": "The verse offers ghee pudding with the Uma mantra.",
+   "uncertainties": [
+    "exact homa procedure"
+   ],
+   "plain_english": "With the Uma mantra, offer ghee pudding."
+  },
+  {
+   "verse": 1594,
+   "rows": [
+    {
+     "surface": "gaṇeśaṃ",
+     "gloss": "ganesh",
+     "grounds": "legacy hint gaṇeśam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nair-ṛte",
+     "gloss": "in-southwest",
+     "grounds": "legacy hint nair-ṛte",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "lokapatīn",
+     "gloss": "world-lords",
+     "grounds": "legacy hint lokapatīn",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "svasvadiśāsu",
+     "gloss": "in-their-own-directions",
+     "grounds": "legacy hint sva+sva+diśāsu",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint api",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where are Ganesh and world lords placed?",
+   "premises": [
+    "ganesham is ganesh",
+    "nair-rite is southwest",
+    "lokpatin is world lords",
+    "svasvadishasu is their own directions"
+   ],
+   "inference": "The verse places Ganesh in the southwest and world lords in their own directions.",
+   "uncertainties": [
+    "exact directional list"
+   ],
+   "plain_english": "Place Ganesh in the southwest and world lords in their own directions."
+  },
+  {
+   "verse": 1595,
+   "rows": [
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "legacy hint sthāpayitvā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "aṣṭadikṣu",
+     "gloss": "in-eight-directions",
+     "grounds": "legacy hint aṣṭa+dikṣu",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "pūrvādiṣu",
+     "gloss": "from-east-etc",
+     "grounds": "legacy hint pūrva+ādiṣu",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "legacy hint kramāt",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are the eight-direction placements ordered?",
+   "premises": [
+    "sthapayitva means having placed",
+    "ashtadikshu means in eight directions",
+    "purvadishu means from east etc",
+    "kramat means in order"
+   ],
+   "inference": "The verse places them in eight directions from east onward in order.",
+   "uncertainties": [
+    "exact eight directions"
+   ],
+   "plain_english": "Having placed them in eight directions from east onward in order."
+  },
+  {
+   "verse": 1596,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint na",
+     "morph": "indecl."
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aindyām",
+     "gloss": "in-indra-direction",
+     "grounds": "legacy hint aindyām",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "agniṃ",
+     "gloss": "fire",
+     "grounds": "legacy hint agnim",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dūtaṃ",
+     "gloss": "messenger",
+     "grounds": "legacy hint dūtam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint tathā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anale",
+     "gloss": "in-fire",
+     "grounds": "legacy hint anale",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What is denied about fire as messenger in Indra direction?",
+   "premises": [
+    "na iti denies",
+    "aindyam is indra direction",
+    "agnim is fire",
+    "dutam is messenger",
+    "anale is in fire"
+   ],
+   "inference": "The verse denies that fire is messenger in the Indra direction and in fire.",
+   "uncertainties": [
+    "exact ritual context"
+   ],
+   "plain_english": "Not thus: fire as messenger in Indra direction and in fire."
+  },
+  {
+   "verse": 1597,
+   "rows": [
+    {
+     "surface": "rakṣantīṃti",
+     "gloss": "protecting-thus",
+     "grounds": "legacy hint rakṣantīṃti",
+     "morph": "participle"
+    },
+    {
+     "surface": "varuṇyāṃ",
+     "gloss": "in-varuna-direction",
+     "grounds": "legacy hint varuṇyām",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vāyavāyāhi",
+     "gloss": "wind-come",
+     "grounds": "legacy hint vāyavāyāhi",
+     "morph": "2.sg.imp"
+    },
+    {
+     "surface": "mārute",
+     "gloss": "in-wind",
+     "grounds": "legacy hint mārute",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What protection and wind invocation occurs in Varuna direction?",
+   "premises": [
+    "rakshantimti means protecting thus",
+    "varunyam is varuna direction",
+    "vayavayahi means wind come",
+    "marute is in wind"
+   ],
+   "inference": "The verse invokes protection and wind in Varuna direction and wind.",
+   "uncertainties": [
+    "exact mantra sense"
+   ],
+   "plain_english": "Protecting thus in Varuna direction; wind, come in wind."
+  },
+  {
+   "verse": 1598,
+   "rows": [
+    {
+     "surface": "palāśakhadirāśvatthaplakṣanyagrodhabilvajāḥ",
+     "gloss": "palasha-khadira-ashvattha-plaksha-nyagrodha-bilva-born",
+     "grounds": "legacy hint palāśa+khadira+aśvattha+plakṣa+nyagrodha+bilva+jāḥ",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "Which woods are specified as born for this rite?",
+   "premises": [
+    "compound lists palasha",
+    "khadira ashvattha plaksha nyagrodha bilva",
+    "jāḥ means born"
+   ],
+   "inference": "The verse specifies palasha, khadira, ashvattha, plaksha, nyagrodha, and bilva woods.",
+   "uncertainties": [
+    "exact use"
+   ],
+   "plain_english": "Palasha, khadira, ashvattha, plaksha, nyagrodha, and bilva woods."
+  },
+  {
+   "verse": 1599,
+   "rows": [
+    {
+     "surface": "sarvadravyair",
+     "gloss": "with-all-substances",
+     "grounds": "legacy hint sarva+dravyaiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "juhoti",
+     "gloss": "offers",
+     "grounds": "legacy hint juhoti",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "aṅgabrahmamūlaiḥ",
+     "gloss": "with-anga-brahma-roots",
+     "grounds": "legacy hint aṅga+brahma+mūlaiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "from-middle",
+     "grounds": "legacy hint madhyataḥ",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is offered with all substances and anga-brahma roots?",
+   "premises": [
+    "sarvadravyair means with all substances",
+    "juhoti means offers",
+    "angabrahmamulaih means with anga brahma roots",
+    "madhyatah means from middle"
+   ],
+   "inference": "The verse offers with all substances and anga-brahma roots from the middle.",
+   "uncertainties": [
+    "exact homa"
+   ],
+   "plain_english": "Offer with all substances and anga-brahma roots from the middle."
+  }
+ ]
+}

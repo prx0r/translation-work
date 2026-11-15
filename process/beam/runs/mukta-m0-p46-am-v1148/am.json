@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1148,
- "question": "How many times and in what manner must each item be consecrated by hand?",
+ "question": "How should the right side be positioned?",
  "premises": [
-  "Each item must be treated separately.",
-  "The hand is to be placed as part of the rite.",
-  "Consecration must be performed seven times."
+  "lay-down is named",
+  "on-seat is named",
+  "let-hang is named"
  ],
- "inference": "Each item should be consecrated separately seven times after placing the hand upon it.",
- "uncertainties": [],
- "plain_english": "Placing the hand on each separately seven times, one should consecrate them."
+ "inference": "The verse instructs laying down on a seat and letting the right side hang.",
+ "uncertainties": [
+  "exact limb"
+ ],
+ "plain_english": "Lay down on a seat, but let the right side hang."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1583,
- "question": "Which deity is proclaimed in the preceding Vedic mantras?",
+ "question": "What head and body-hair correspondences are given here?",
  "premises": [
-  "Something has been stated.",
-  "The deity is named.",
-  "Agni is proclaimed as that deity."
+  "shanti-atita-kala is head",
+  "bhuvana-adhva is body hair",
+  "compound gives mapping"
  ],
- "inference": "Agni is proclaimed as the deity of the stated mantras.",
- "uncertainties": [],
- "plain_english": "Thus it is said: the deity proclaimed is Agni."
+ "inference": "The verse maps shanti-atita-kala to head and bhuvana-adhva to body hair.",
+ "uncertainties": [
+  "exact kalas"
+ ],
+ "plain_english": "Shanti-atita-kala is the head; bhuvana-adhva is body hair."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1134,
- "question": "What ritual food item may the wise practitioner take for the prescribed rite?",
+ "question": "What height is specified at the nipple?",
  "premises": [
-  "A sesame cake is mentioned as an option.",
-  "The wise practitioner is the agent who takes it.",
-  "The act of taking precedes the rite."
+  "half-of-that is named",
+  "height is named",
+  "three-measures is named"
  ],
- "inference": "The wise practitioner may take a sesame cake for use in the rite.",
- "uncertainties": [],
- "plain_english": "Or the wise one, having taken a sesame cake, should proceed."
+ "inference": "The verse gives nipple height as half of that with three measures.",
+ "uncertainties": [
+  "antecedent of that"
+ ],
+ "plain_english": "Their half height at the nipple is three measures."
 }

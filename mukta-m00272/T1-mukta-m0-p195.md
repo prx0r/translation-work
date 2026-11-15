@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p195-v4851
-[teacher](deśikaḥ) [bathing-with-images](mūrtipaiḥ+snātvā) [morning](prabhāte) [eternally-united](nitya+saṃyutaḥ)
+[teacher](deśiko) [having-bathed](mūrtipaiḥsnātvā) [at-dawn](prabhāte) [ever-united](nityasaṃyutaḥ)
 
 ## mukta-m0-p195-v4852
-[with-students](adhyetṛbhiḥ) [and](ca) [with-astrologers](daivajñaiḥ) [with-artisans](śilpibhiḥ) [accompanied](sahitaiḥ) [united](yutaḥ)
+[with-students](adhyetṛbhiśca) [with-astrologers](daivajñaiḥ) [with-artisans](śilpibhissahitairyutaḥ)
 
 ## mukta-m0-p195-v4853
-[full-end](pūrṇa+antam) [fire-offering](agni+homaṃ) [and](ca) [having-done](kṛtvā) [then-raising](utthāpya+atha) [image](bimbakam)
+[full-ending](pūrṇāntam) [fire-offering](agnihomaṃ) [having-done](kṛtvā) [having-raised](utthāpyātha) [image](bimbakam)
 
 ## mukta-m0-p195-v4854
-[jewel-placement-etc-united](ratna+nyāsa+ādi+saṃyuktam) [bathing-pit](snāna+śvabhre) [place](niveśayet)
+[with-gem-deposit](ratnanyāsādisaṃyuktaṃ) [in-bathing-pit](snānaśvabhre) [place](niveśayet)
 
 ## mukta-m0-p195-v4855
-[mother-placement](mātṛkā+nyāsakam) [life-placement](jīva+nyāsam) [perform](samācaret)
+[having-done-mother-deposit](mātṛkānyāsakaṃ) [having-done](kṛtvā) [life-deposit](jīvanyāsaṃ) [perform](samācaret)
 
 ## mukta-m0-p195-v4856
-[with-clothes-etc-ornaments](vastrādi+ābharaṇaiḥ) [and](ca) [indeed](eva) [then-adorn](malaṃkṛtvā+atha) [teacher](deśikaḥ)
+[with-clothes-etc-ornaments](vastrādyābharaṇaiścaiva) [having-adorned](malaṃkṛtvātha) [teacher](deśikaḥ)
 
 ## mukta-m0-p195-v4857
-[Śiva-devotees](śiva+bhaktān) [and](ca) [worship](saṃpūjya) [according](yathā) [wealth-extent](vibhava+vistaram)
+[having-worshipped](saṃpūjya) [śiva-devotees](śivabhaktāṃśca) [according-to-wealth](yathā vibhavavistaram)
 
 ## mukta-m0-p195-v4858
-[true-path](san+mārgam) [self](ātmakaḥ) [always](nityam) [with-self-mantra-six-limbs](ātma+mantra+ṣaḍaṃgakaiḥ)
+[good-path](sanmārgam) [soul](ātmako) [always](nityam) [with-mantra-six-limbs](ātma mantraṣaḍaṃgakaiḥ)
 
 ## mukta-m0-p195-v4859
-[offering-end](bali+antam) [or](vā) [worship](samabhyarcya) [devotion](bhaktyā) [true-path-leader](san+mārga+nāyakaḥ)
+[having-worshipped](samabhyarcya) [with-devotion](bhaktyā) [good-path-leader](sanmārganāyakaḥ) [or](vā) [balyanta](balyantaṃ)
 
 ## mukta-m0-p195-v4860
-[root-mantra](mūla+mantram) [thus-called](iti+khyātam) [svāhā-end](svāhā+antam) [and](ca) [fire-rite](agni+kāryake)
+[root-mantra](mūlamantram) [so-called](itikhyātaṃ) [with-svāhā-ending](svāhāntaṃ) [in-fire-rite](cāgnikāryake)
 
 ## mukta-m0-p195-v4861
-[image-festival](pratimā+utsavam) [do](kuryāt) [according-to-wealth](vibhavasya+anusārataḥ)
+[festival-of-image](pratimāsotsavaṃ) [perform](kuryād) [according-to-wealth](vibhavasyānusārataḥ)
 
 ## mukta-m0-p195-v4862
-[on-flag](dhvaje+api) [too](api) [bull](vṛṣabham) [do](kuryāt) [like-Śiva](śiva+vat) [festival](utsavam) [be](bhavet)
+[on-flag](dhvaje) [bull](vṛṣabhaṃ) [make](kuryāc) [festival](utsavaṃ) [like-śiva](śivavaccotsavaṃ) [be](bhavet)
 
 ## mukta-m0-p195-v4863
-[prior-festival](pūrva+utsavam) [and](ca) [should-do](kartavyam) [of-controllers](vaśinām) [Nandikeśvara](nandikeśvara)
+[prior-festival](pūrvotsavaṃ) [do](kartavyaṃ) [of-vasins](vaśināṃ) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p195-v4864
-[his](tasya) [prosperity](śrīḥ) [victory](vijayaḥ) [tārccir](tārccir) [union](sāyujyam) [attain](āpnuyāt)
+[of-him](tasya) [prosperity](śrīḥ) [victory](vijayo) [radiance](tārccir) [in-gem](atne) [union](sāyujyam) [obtain](āpnuyāt)
 
 ## mukta-m0-p195-v4865
-[door-limbs](dvāra+aṃgāni) [with-victory-etc](jayā+ādyaiḥ) [consecrating](saṃskṛtya) [temple](āyatanaṃ) [place](nyaset)
+[door-limbs](dvārāṃgāni) [with-jayā-etc](jayādyaiśca) [having-purified](saṃskṛtyāyatanaṃ) [place](nyaset)
 
 ## mukta-m0-p195-v4866
-[triad](tatva+trayam) [in-order](kramāt) [placing](nyasya) [restraining](sannirodhya) [then](atha) [offer](homayet)
+[three-principles](tatvatrayaṃ) [in-order](kramān) [having-placed](nyasya) [having-restrained](sannirodhyātha) [offer](homayet)
 
 ## mukta-m0-p195-v4867
-[Vāstu-door-etc](vāstu+dvāra+ādayaḥ) [having-worshipped](yaṣṭvā) [there-only](tatra+eva) [with-ananta-mantra](ananta+mantrataḥ)
+[having-worshipped](yaṣṭvā) [site-door-etc](vāstudvārādayo) [there](tatraivānantamantrataḥ)
 
 ## mukta-m0-p195-v4868
-[radiance-accomplishment-purpose-prosperity](kānti+siddha+artha+riddhiḥ) [and](ca) [with-barley-growth-companion](yava+vṛddhi+sahānunā)
+[radiance](kānti) [accomplishment](siddhārtha) [growth](ruddhi) [with-barley-growth](yavavṛddhisahānunā)
 
 ## mukta-m0-p195-v4869
-[those](te) [and](ca) [Cassia](nāragvadhaḥ) [durva](dūrvā) [sāndaghna](sāndaghnaḥ) [leaf](yo+dalaḥ)
+[those](te) [ca](ca) [nāragvadha](nāragvadho) [dūrvā](dūrvā) [sāndaghna](sāndaghnaśca) [leaf](yo dalaḥ)
 
 ## mukta-m0-p195-v4870
-[door](dvāram) [north](uttarataḥ) [somewhat](kiñcit) [resorted](āśritam) [place](sanniveśayet)
+[door](dvāram) [north](uttarataḥ) [a-little](kiñcid) [resorted](āśritaṃ) [place](sanniveśayet)
 
 ## mukta-m0-p195-v4871
-[Śiva](śivam) [sky-region](ākāśa+deśe) [indeed](tu) [pervasive](vyāpakam) [all-pervading](sarva+pṛdgalam)
+[śiva](śivam) [in-space-region](ākāśadeśe) [pervading](vyāpakaṃ) [all-pervading](sarvapṛdgalam)
 
 ## mukta-m0-p195-v4872
-[door-residing](dvāra+āśritān) [and](ca) [Nandi-etc](nandi+ādīn) [heart-united](hṛt+saṃyuktaiḥ) [with-own-names](svanāmabhiḥ)
+[door-residing](dvārāśritāṃśca) [nandī-etc](nandyādīn) [with-heart](hṛtsaṃyuktaiḥ) [with-own-names](svanāmabhiḥ)
 
 ## mukta-m0-p195-v4873
-[with-weapon](astreṇa) [fault-release-purpose](doṣa+mokṣa+artham) [offer](juhuyāt) [hundred-of-oblations](āhuteḥ+śatam)
+[with-weapon](astreṇa) [for-release-of-fault](doṣamokṣārthaṃ) [offer](juhuyād) [to-fire-lord](āhuteśśatam)
 
 ## mukta-m0-p195-v4874
-[place](nikṣipet) [pot-womb](kuṃbha+garbhe) [and](ca) [placing](nyasya) [Tantra-dwelling](tantrān+nivāsikam)
+[deposit](nikṣipet) [in-pot-womb](kuṃbhagarbhe) [having-placed](ca nyasya) [tantra-resident](tantrānnivāsikam)
 
 ## mukta-m0-p195-v4875
-[earth-end](kṣmyāntam) [and](ca) [crest](śekharam) [principle](tatvam) [edge](prāntam) [there](tatra) [place](niveśayet)
+[earth-ending](kṣmyāntaṃ) [and](ca) [crest](śekharaṃ) [principle](tatvaṃ) [edge](prāntaṃ) [there](tatra) [place](niveśayet)

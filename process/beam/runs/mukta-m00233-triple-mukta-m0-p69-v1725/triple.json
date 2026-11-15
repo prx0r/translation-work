@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "siṃhavyālāṅghriparyaṅkau",
+     "gloss": "lion-serpent-thigh-seat",
+     "grounds": "compound naming lion, serpent, thigh, and seat; dual ending au",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "viprakṣattriyayoḥ",
+     "gloss": "brahmin-kshatriya",
+     "grounds": "compound of vipra and kṣatriya in genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "smṛtau",
+     "gloss": "remembered",
+     "grounds": "smṛti-derived form indicating prescription or remembrance",
+     "morph": "3.pl.pass-ind (root smṛ)"
+    }
+   ],
+   "question": "Which seats are prescribed for brahmin and kshatriya practitioners?",
+   "premises": [
+    "Lion and serpent-thigh seats are named.",
+    "Brahmin and kshatriya are the recipients.",
+    "Smṛti prescribes these seats."
+   ],
+   "inference": "The verse assigns lion and serpent-thigh seats to brahmin and kshatriya practitioners.",
+   "uncertainties": [
+    "The exact grammatical force of smṛtau remains unresolved."
+   ],
+   "plain_english": "The lion seat and serpent-thigh seat are prescribed for brahmins and kshatriyas."
+  }
+ ]
+}

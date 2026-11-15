@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p57",
  "verse": 1418,
- "question": "On which floor of a ten-storeyed structure should the arrangement be made thus?",
+ "question": "What is worshipped after filling with five brahmans and gold kūrca?",
  "premises": [
-  "An arrangement is prescribed in this manner.",
-  "The structure in view has ten storeys.",
-  "The specified level for this arrangement is the ninth floor."
+  "pañcabrahmabhiḥ means five-brahmans.",
+  "āpūrya means filling.",
+  "hemakūrcānvitān means gold-kūrca-equipped.",
+  "yajet means worship."
  ],
- "inference": "Thus one should arrange on the ninth floor of a ten-storeyed structure.",
- "uncertainties": [],
- "plain_english": "Thus one should arrange on the ninth floor of a ten-storeyed structure."
+ "inference": "Gold-kūrca-equipped objects are worshipped after filling with five brahmans.",
+ "uncertainties": [
+  "The exact objects are not specified."
+ ],
+ "plain_english": "Worship gold-kūrca-equipped objects after filling with five brahmans."
 }

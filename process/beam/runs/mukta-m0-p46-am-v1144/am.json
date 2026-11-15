@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1144,
- "question": "How must the arghya be prepared before worship is performed?",
+ "question": "How is nose height measured from goji root?",
  "premises": [
-  "The arghya must be prepared.",
-  "Preparation involves japa and worship performed tenfold.",
-  "Worship follows after this preparation."
+  "from-goji-root is named",
+  "nose-height is named",
+  "six-grain-measure is named"
  ],
- "inference": "One should prepare the arghya tenfold through japa and worship, then perform worship.",
- "uncertainties": [],
- "plain_english": "Having prepared the arghya tenfold by japa and worship, one should worship."
+ "inference": "The verse gives nose height from goji root with six grains.",
+ "uncertainties": [
+  "exact goji root"
+ ],
+ "plain_english": "Nose height from goji root is six grains."
 }

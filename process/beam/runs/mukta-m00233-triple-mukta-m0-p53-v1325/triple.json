@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking this operation to preceding ritual steps",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upalipya",
+     "gloss": "smearing",
+     "grounds": "absolutive of upalip, indicating the action to be performed",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "antargālitodakagomayaiḥ",
+     "gloss": "inside-filtered-water-cow-dung",
+     "grounds": "compound of antar (inside), gālita (filtered), udaka (water), and gomaya (cow dung); instrumental plural",
+     "morph": "instr.pl.n"
+    }
+   ],
+   "question": "What material is smeared using inside-filtered water and cow dung?",
+   "premises": [
+    "Ritual preparation includes smearing.",
+    "Smearing uses filtered water and cow dung.",
+    "The operation follows prior adornment steps."
+   ],
+   "inference": "The verse prescribes smearing with filtered water and cow dung.",
+   "uncertainties": [
+    "The exact ritual referent of antargālita is not specified."
+   ],
+   "plain_english": "And smear with cow dung mixed with water filtered inside."
+  }
+ ]
+}

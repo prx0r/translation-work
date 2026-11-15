@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "bhadrakarṇaṃ",
+     "gloss": "bhadra-ear",
+     "grounds": "fused compound form as given; no split",
+     "morph": "compound (bhadra+karṇa), acc.sg.m"
+    },
+    {
+     "surface": "śvetakarṇaṃ",
+     "gloss": "white-ear",
+     "grounds": "fused compound form as given; no split",
+     "morph": "compound (śveta+karṇa), acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmabhiḥ",
+     "gloss": "by-names",
+     "grounds": "instrumental plural of nāman",
+     "morph": "instr.pl.n"
+    }
+   ],
+   "question": "Which two named entities are designated by names here?",
+   "premises": [
+    "Two named forms are listed.",
+    "They are joined by ca.",
+    "nāmabhiḥ indicates designation by names."
+   ],
+   "inference": "The verse designates two named forms, Bhadrakarna and Svetakarna, by names.",
+   "uncertainties": [
+    "The exact referent of the named forms is not specified in this verse."
+   ],
+   "plain_english": "Bhadrakarna and Svetakarna are designated by names."
+  }
+ ]
+}

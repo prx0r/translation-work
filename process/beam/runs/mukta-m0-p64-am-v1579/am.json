@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1579,
- "question": "How should a brahmin perform the uplifting of fire in this context?",
+ "question": "Which groups are placed in this nyasa operation?",
  "premises": [
-  "Mantras declared by the Veda are specified.",
-  "The act is the uplifting of fire.",
-  "A brahmin is addressed as the performer."
+  "support ananta dharma etc are placed",
+  "vama etc are placed",
+  "seat dwellers are placed"
  ],
- "inference": "A brahmin should perform the uplifting of fire using Vedic mantras.",
- "uncertainties": [],
- "plain_english": "A brahmin should perform the uplifting of fire with mantras declared by the Veda."
+ "inference": "The verse directs placing support, ananta, dharma, vama, and seat-dwelling groups.",
+ "uncertainties": [
+  "exact enumeration of adi"
+ ],
+ "plain_english": "Place the support, ananta, dharma, vama, and seat-dwelling groups."
 }

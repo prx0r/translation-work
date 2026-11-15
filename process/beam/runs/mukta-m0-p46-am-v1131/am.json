@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1131,
- "question": "What powers are attributed to the goddess through her epithets in this invocation?",
+ "question": "How does grain excess affect length and palm breadth?",
  "premises": [
-  "The goddess is addressed as subduing a prince.",
-  "The goddess is addressed as bearing a trident at the enemy's throat.",
-  "Both epithets invoke her dominating and protective powers."
+  "grain-excess is named",
+  "length is named",
+  "palm-breadth is named"
  ],
- "inference": "The goddess is invoked as possessing powers to subdue and to destroy hostile forces.",
- "uncertainties": [],
- "plain_english": "O you who subdue the prince, O you who hold a trident at the enemy's throat."
+ "inference": "The verse relates grain excess to length and palm breadth.",
+ "uncertainties": [
+  "exact calculation"
+ ],
+ "plain_english": "Therefore grain-excess length and palm-breadth come from rasa parts."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p217-v5401
-[worshipped](pūjitaṃ) [in-reverse-order](pratilomeṣu) [he](sa) [charioteer](sūto) [named](nāma) [by-name](nāmataḥ)
+[worshipped](pūjitaṃ) [in-opposites](pratilomeṣu) [he](sa) [charioteer](sūto) [name](nāma) [by-name](nāmataḥ)
 
 ## mukta-m0-p217-v5402
-[by-path-spoken-in-viṣṇu-tantra](viṣṇutantroktamārgeṇa) [and-worship](pūjayecca) [janārdana](janārdanam)
+[by-viṣṇu-tantra-path](viṣṇutantroktamārgeṇa) [should-worship](pūjayecca) [janārdana](janārdanam)
 
 ## mukta-m0-p217-v5403
-[for-king's-food](nṛpasya) [bhojanārthāya] [make-cooking-process](kārayetpācanakriyām)
+[for-king-food](nṛpasya+bhojanārthāya) [should-make](kārayet) [cooking-act](pācanakriyām)
 
 ## mukta-m0-p217-v5404
-[of-all](sarveṣāṃ) [praise](kīrtanaṃ) [having-done](kṛtvā) [salutation](vandanaṃ) [especially](ca) [viśeṣataḥ]
+[of-all](sarveṣāṃ) [praise](kīrtanaṃ) [having-made](kṛtvā) [salutation](vandanaṃ) [especially](ca+viśeṣataḥ)
 
 ## mukta-m0-p217-v5405
-[cloth-for-livelihood](vṛttivastraṃ) [and](ca) [kasyaṃ] [ca] [from-buying-selling](krayavikrayaṇādbhavet)
+[food-cloth](vṛttivastraṃ) [and](ca) [grass-cloth](kasyaṃ) [ca](ca) [from-buying-selling](krayavikrayaṇādbhavet)
 
 ## mukta-m0-p217-v5406
-[soma](somaṃ) [and](ca) [eva] [surā](surāṃ) [ca] [eva] [having-taken](saṃgṛhya) [buying](kraya) [selling](vikrayam)
+[soma](somaṃ) [and](ca+eva) [liquor](surāṃ) [ca](ca+eva) [having-taken](saṃgṛhya) [buying](kraya) [selling](vikrayam)
 
 ## mukta-m0-p217-v5407
-[of-śūdra](śūdrasya) [vaiśya-daughter](vaiśyakanyāyāṃ) [born](jātaḥ) [sthapati](sthapati) [is-called](rucyate)
+[of-śūdra](śūdrasya) [vaiśya-girl](vaiśyakanyāyāṃ) [born](jātaḥ) [architect](sthapati) [is-called](rucyate)
 
 ## mukta-m0-p217-v5408
-[jewel-works](ratnakāryāṇi) [all](sarvāṇi) [broken-etc-ornaments](rugṇādyābharaṇaṃ) [and](tathā)
+[jewel-works](ratnakāryāṇi) [all](sarvāṇi) [broken-etc-ornament](rugṇādyābharaṇaṃ) [and](tathā)
 
 ## mukta-m0-p217-v5409
-[vessels](pātrāṇi) [various-etc](vividhādīni) [ābhāsaṃ] [saudha-work](saudhakāryakam)
+[vessels](pātrāṇi) [various-etc](vividhādīni) [radiance](ābhāsaṃ) [palace-work](saudhakāryakam)
 
 ## mukta-m0-p217-v5410
-[by-characteristics](lakṣaṇena) [made](kṛtaṃ) [all](sarvaṃ) [their](teṣāṃ) [livelihood](yadupajīvanam)
+[by-marks](lakṣaṇena) [made](kṛtaṃ) [all](sarvaṃ) [their](teṣāṃ) [livelihood](yadupajīvanam)
 
 ## mukta-m0-p217-v5411
-[of-brāhmaṇī](brāhmaṇyāṃ) [of-brāhmaṇa](brāhmaṇasyaiva) [in-own-gotra](svagotre) [ca] [eva] [is-born](jāyate)
+[of-brāhmaṇ-woman](brāhmaṇyāṃ) [of-brāhmaṇ](brāhmaṇasya+eva) [own-gotra](svagotre) [ca](ca+eva) [is-born](jāyate)
 
 ## mukta-m0-p217-v5412
-[of-village](grāmasya) [treasury-measure](kośamātre) [tu] [dwelling](vāsastasya) [bhavetpunaḥ]
+[of-village](grāmasya) [treasury-measure](kośamātre) [tu](tu) [dwelling](vāsastasya) [again](bhavetpunaḥ)
 
 ## mukta-m0-p217-v5413
-[funeral-cloth](śmaśānavastraṃ) [having-taken](saṃgṛhya) [covering](tasyācchādanakaṃ) [bhavet]
+[cremation-cloth](śmaśānavastraṃ) [having-taken](saṃgṛhya) [covering](tasyācchādanakaṃ) [becomes](bhavet)
 
 ## mukta-m0-p217-v5414
-[cow-hide-pieces](gocarmakhaṇḍaiśśayyā) [ca] [of-buffalo](mahiṣasyājine'pi) [vā]
+[cow-hide-pieces](gocarmakhaṇḍaiśśayyā) [ca](ca) [of-buffalo](mahiṣasyājine) [api](api) [vā](vā)
 
 ## mukta-m0-p217-v5415
-[gadādhara](gadādharo) [village-purification](grāmaśuddhiṃ) [kuryātpretāgrayātrake]
+[mace-holder](gadādharo) [village-purity](grāmaśuddhiṃ) [should-do](kuryāt) [pretā-procession](pretāgrayātrake)
 
 ## mukta-m0-p217-v5416
-[caṇḍāla-instrument](caṇḍālavādyaṃ) [having-taken](saṃgṛhya) [eating](bhakṣaṇaṃ) [ca] [bhavettataḥ]
+[caṇḍāla-instrument](caṇḍālavādyaṃ) [having-taken](saṃgṛhya) [eating](bhakṣaṇaṃ) [ca](ca) [becomes](bhavettataḥ)
 
 ## mukta-m0-p217-v5417
-[he-too](so'pi) [caṇḍāla](caṇḍāla) [thus-called](ityuktaḥ) [his-conduct](tasyācāraḥ) [as-before](puroktavat)
+[he-too](so+api) [caṇḍāla](caṇḍāla) [thus-called](ityuktaḥ) [his-conduct](tasyācāraḥ) [as-before](puroktavat)
 
 ## mukta-m0-p217-v5418
-[previous-caṇḍāla-occupation](pūrvacaṇḍālavṛttiḥ) [syājjīvitaṃ] [ca] [tathaiva] [ca]
+[former-caṇḍāla-practice](pūrvacaṇḍālavṛttiḥ) [syāt](syāt) [life](jīvitaṃ) [ca](ca) [tathaiva](tathaiva) [ca](ca)
 
 ## mukta-m0-p217-v5419
-[touch](spṛsassahavarṇaistu) [*] [*] [*] [*] [taṃ] [ca] [vādyakam]
+[touch](spṛsassahavarṇaistu) [instrument](taṃ+ca+vādyakam)
 
 ## mukta-m0-p217-v5420
-[of-śūdra](śūdrasya) [of-vaiśyā](vaiśyāyāṃ) [born](saṃjātaḥ) [śvapāka-called](śvakikākhyāta) [is-desired](iṣyate)
+[of-śūdra](śūdrasya) [of-vaiśyā](vaiśyāyāṃ) [born](saṃjātaḥ) [dog-keeper](śvakikākhyāta) [is-desired](iṣyate)
 
 ## mukta-m0-p217-v5421
-[by-alkali](kṣāreṇa) [by-salt](lavaṇenaiva) [selling](vikrayo) [livelihood](jīvanaṃ) [is-considered](matam)
+[by-alkali](kṣāreṇa) [by-salt](lavaṇena+eva) [selling](vikrayo) [livelihood](jīvanaṃ) [is-considered](matam)
 
 ## mukta-m0-p217-v5422
-[brāhmaṇas-kṣatriyas-vaiśyas-śūdras](brāhmaṇānkṣatriyājvaiśyānśūdrānvaiśyavisantihi)
+[brāhmaṇs-kṣatriyas-vaiśyas-śūdras](brāhmaṇānkṣatriyājvaiśyānśūdrānvaiśyavisantihi)
 
 ## mukta-m0-p217-v5423
-[sātyakarṇaka](sātyakarṇaka) [thus-called](ityukte) [transgression-ritual-knower](vyabhicāravidhānavit)
+[sātyakarṇaka](sātyakarṇaka) [thus-called](ityukte) [transgression-rule-knower](vyabhicāravidhānavit)
 
 ## mukta-m0-p217-v5424
-[of-enemies](śatrūṇāṃ) [subjugation-work](vaśyakāryaṃ) [ca] [mantra-tantra-acts-etc](mantra tantra kriyādibhiḥ)
+[of-enemies](śatrūṇāṃ) [subjugation-work](vaśyakāryaṃ) [ca](ca) [mantra-tantra-acts-etc](mantra+tantra+kriyādibhiḥ)
 
 ## mukta-m0-p217-v5425
-[medicines](auṣadhāni) [ca] [mantras](mantrāṇi) [gṛhyaṃ] [*] [*] [dīkāṃścaret]
+[medicines](auṣadhāni) [ca](ca) [mantras](mantrāṇi) [house](gṛhyaṃ) [initiation](dīkāṃścaret)

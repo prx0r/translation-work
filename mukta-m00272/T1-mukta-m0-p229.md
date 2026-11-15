@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p229-v5701
-[fallen-if](patitaścet) [seven-days](saptadinaṃ) [empty-from](śūnyāt) [seven-days](saptadinaṃ) [becomes](bhavet)
+[fallen](patitaḥ) [if](cet) [seven-days](saptadinaṃ) [from-empty](śūnyāt) [seven-days](saptadinaṃ) [becomes](bhavet)
 
 ## mukta-m0-p229-v5702
-[many-difference-months-of](anekabhedamāsānāṃ) [constellation](nakṣatra) [fall-day](patanādyaham)
+[many-differences](anekabheda) [of-months](māsānāṃ) [asterism](nakṣatra) [falling](patanāt) [day](aham)
 
 ## mukta-m0-p229-v5703
-[smoke-like](diddhūmāstekamāsaṃ) [one-month](ca) [circles](maṇḍalāniṃ) [and](ca) [one-place](caikataḥ)
+[smoky](diddhūmāḥ) [one-month](ekamāsaṃ) [and](ca) [circles](maṇḍalāni) [and](ca) [one](caikataḥ)
 
 ## mukta-m0-p229-v5704
-[sun-ray-and](pratyādityaprabhāśca) [sun-two](pratyādityadvayaṃ) [likewise](tathā)
+[sun-rays](pratyādityaprabhāḥ) [and](ca) [two-suns](pratyādityadvayaṃ) [thus](tathā)
 
 ## mukta-m0-p229-v5705
-[earth-smoke-burning-day](bhūmidhūmāddahāhaṃ) [and](ca) [earth-sounds-three](bhūmighoṣaistrayaṃ) [likewise](tathā)
+[earth-smoke](bhūmidhūmāt) [burning-day](dahāhaṃ) [and](ca) [earth-sounds](bhūmighoṣaiḥ) [three](trayaṃ) [thus](tathā)
 
 ## mukta-m0-p229-v5706
-[head-less](śironūnādekavarṣaṃ) [one-year](sarvanyūnā) [all-less](tadardhataḥ) [half-of-that](tadardhataḥ)
+[head-less](śironūnāt) [one-year](ekavarṣaṃ) [all-less](sarvanyūnā) [half](tadardhataḥ)
 
 ## mukta-m0-p229-v5707
-[hunchback](kubje) [man](naraścaturviṃśat) [twenty-four](śironāsā) [head-nose](tadardhakam) [half-of-that](tadardhakam)
+[hunchback](kubje) [man](naraḥ) [twenty-four](caturviṃśat) [head-nose](śironāsā) [half](tadardhakam)
 
 ## mukta-m0-p229-v5708
-[lamp-smoke](dīpadhūmātsapañcamye) [fifth](sahadīpārdhapakṣataḥ) [with-lamp-half-fortnight](sahadīpārdhapakṣataḥ)
+[lamp-smoke](dīpadhūmāt) [with-fifth](sapañcamye) [with-lamp](sahadīpa) [half-fortnight](ardhapakṣataḥ)
 
 ## mukta-m0-p229-v5709
-[half](ardhaṃ) [and](ca) [ninth](navamaṃ) [and-also](caiva) [death-refuge](mṛtyupā) [likewise](tathā)
+[half](ardhaṃ) [and](ca) [ninth](navamaṃ) [and](ca) [death-refuge](mṛtyupāśrayaṃ) [thus](tathā)
 
 ## mukta-m0-p229-v5710
-[three-places](tastrasthānehnimīśāśca) [moon-lords](catvāri) [and](maraṇaṃ) [four](bhavet) [death](maraṇaṃ) [becomes](bhavet)
+[there-place](tastrasthāne) [eye-lord](hnimīśāḥ) [and](ca) [four](catvāri) [death](maraṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p229-v5711
-[throat-place](galasthānamima) [this](dinairmaraṇaṃ) [days](bhavet) [death](maraṇaṃ) [becomes](bhavet)
+[throat-place](galasthānam) [days](dinaiḥ) [death](maraṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p229-v5712
-[ear-side](śrotrapāśve) [if](tu) [black](kṛṣṇaścet) [fifty-days](pañcāśaddivasānmṛtiḥ) [death](mṛtiḥ)
+[ear-side](śrotrapāśve) [if-black](tu+kṛṣṇaḥ) [fifty-days](pañcāśaddivasāt) [death](mṛtiḥ)
 
 ## mukta-m0-p229-v5713
-[tooth](dante) [black](kṛṣṇaṃ) [and](ca) [seen](dṛśyeta) [month](māsānmṛtyumavāpnuyāt) [death-obtains](mṛtyumavāpnuyāt)
+[tooth](dante) [black](kṛṣṇaṃ) [if-seen](ca+dṛśyeta) [months](māsāt) [death](mṛtyum) [obtains](avāpnuyāt)
 
 ## mukta-m0-p229-v5714
-[root](tanmūlaṃ) [black-color](kṛṣṇavarṇaṃ) [becomes](syādaṣṭaviṃśatyahānmṛtiḥ) [twenty-eight-days](mṛtiḥ) [death](mṛtiḥ)
+[root](tanmūlaṃ) [black-color](kṛṣṇavarṇaṃ) [would-be](syāt) [twenty-eight-days](aṣṭaviṃśatyahāt) [death](mṛtiḥ)
 
 ## mukta-m0-p229-v5715
-[sometimes](kadācitkaṇḍūya) [itching](budbudākāra) [bubble-form](śartanāt) [from-itching](śartanāt)
+[sometimes](kadācit) [itching](kaṇḍūya) [bubble-shaped](budbudākāra) [marking](śartanāt)
 
 ## mukta-m0-p229-v5716
-[thirty-days](triṃśaddināttu) [indeed](maraṇaṃ) [death](kathitaṃ) [said](nandikeśvara) [nandikesvara](nandikeśvara)
+[thirty-days](triṃśaddināt) [death](maraṇaṃ) [declared](kathitaṃ) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p229-v5717
-[foot-middle](padamadhye) [and](ca) [afflicted](khinnaṃ) [death-obtains](mṛtyumāpnuyāt)
+[mid-foot](padamadhye) [if-afflicted](ca+khinnaṃ) [death](mṛtyum) [obtains](āpnuyāt)
 
 ## mukta-m0-p229-v5718
-[foot](pāde) [poison](viṣaṃ) [and](ca) [itching](kaṇḍūścet) [six-times](ṣaḍvārānmaraṇaṃ) [death](bhavet) [becomes](bhavet)
+[foot](pāde) [poison](viṣaṃ) [and](ca) [itching](kaṇḍūḥ) [if](cet) [six-times](ṣaḍvārāt) [death](maraṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p229-v5719
-[face](mukhaṃ) [beauty-devoid](śobhāvihīnaṃ) [if](cet) [death-goes](mṛtimṛcchati)
+[face](mukhaṃ) [beauty-less](śobhāvihīnaṃ) [death](mṛtim) [reaches](ṛcchati)
 
 ## mukta-m0-p229-v5720
-[line-year](rekhādivarṣametaddhi) [this](dṛṣṭikarṇadviviṃśatiḥ) [indeed](dṛṣṭikarṇadviviṃśatiḥ) [sight-ear-twenty-two](dṛṣṭikarṇadviviṃśatiḥ)
+[line-year](rekhādivarṣam) [this](etaddhi) [sight-ear-twenty](dṛṣṭikarṇadviviṃśatiḥ)
 
 ## mukta-m0-p229-v5721
-[this-time](etatkālamahājñānaṃ) [great-knowledge](śrutvaitadu) [hearing](kaḥ) [this](kaḥ) [who](kaḥ)
+[this-time](etatkālam) [great-knowledge](mahājñānaṃ) [having-heard](śrutvaitadu) [who](kaḥ)
 
 ## mukta-m0-p229-v5722
-[sound](śabdastoyanidhau) [ocean](bhīmamapiśvāsasya) [terrible](nedhanaḥ) [breath](nedhanaḥ) [not-fuel](nedhanaḥ)
+[sound](śabdaḥ) [ocean](toyanidhau) [fearful](bhīmam) [breath](apiśvāsasya) [not-fuel](nedhanaḥ)
 
 ## mukta-m0-p229-v5723
-[five-days](pañcāhe) [day](divase'hni) [life-taking](jīvaharaṇaṃ) [knowledge](vidyā) [by-them](taiḥ)
+[five-days](pañcāhe) [day](divase) [life-taking](jīvaharaṇaṃ) [known](vidyā) [by-them](taiḥ)
 
 ## mukta-m0-p229-v5724
-[lotus-stalk](nalinīpadmasaṃhatyāḥ) [union](sūkṣmasūcyabhivedhane) [fine-needle](sūkṣmasūcyabhivedhane) [piercing](sūkṣmasūcyabhivedhane)
+[lotus-leaf](nalinīpadma) [union](saṃhatyāḥ) [fine-needle](sūkṣmasūcya) [piercing](abhivedhane)
 
 ## mukta-m0-p229-v5725
-[moments](lavaistruṭiḥ) [truti](syāttriṃśadbhiḥ) [becomes](kala) [thirty](vatthitaṃ) [kala](viduḥ) [known](viduḥ)
+[with-drops](lavaistruṭiḥ) [becomes](syāt) [thirty](triṃśadbhiḥ) [moment](kala) [thus](vatthitaṃ) [know](viduḥ)

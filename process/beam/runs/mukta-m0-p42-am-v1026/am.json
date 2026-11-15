@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1026,
- "question": "Which substances are included in this first set of ritual ingredients?",
+ "question": "From which side and fractional part of the nose-pit boundary width is the measurement taken?",
  "premises": [
-  "The verse lists several named substances.",
-  "They include mustard, dūrvā grass, saffron, yellow pigment, and turmeric.",
-  "The particle sahā indicates they are taken together as a group."
+  "the token specifies a side",
+  "the token specifies a quarter part",
+  "the token specifies nose-pit boundary width"
  ],
- "inference": "This verse enumerates one group of ritual substances to be used together.",
- "uncertainties": [],
- "plain_english": "Together with white mustard, dūrvā grass, saffron, yellow pigment, and turmeric."
+ "inference": "The measurement is taken from the side corresponding to a quarter part of the nose-pit boundary width.",
+ "uncertainties": [
+  "exact grammatical case of the fused compound is not recoverable from the token alone"
+ ],
+ "plain_english": "The measurement begins from the side of a quarter part of the nose-pit boundary width."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1029,
- "question": "What substitutes are prescribed when curd or honey is unavailable?",
+ "question": "What is the remembered width of the middle wall by its height quarter?",
  "premises": [
-  "The verse considers the absence of curd.",
-  "It prescribes milk as the substitute for curd.",
-  "It likewise prescribes jaggery when honey is absent."
+  "the middle wall height quarter is used",
+  "that width is half a grain",
+  "it is remembered as such"
  ],
- "inference": "Milk replaces curd and jaggery replaces honey in case of unavailability.",
- "uncertainties": [],
- "plain_english": "If curd is unavailable, milk should be used; likewise, if honey is unavailable, jaggery should be used."
+ "inference": "The middle wall's width is remembered as half a grain by its height quarter.",
+ "uncertainties": [
+  "exact referent of tad in tadvyāsaḥ"
+ ],
+ "plain_english": "By a quarter of the middle wall's height, its width is remembered as half a grain."
 }

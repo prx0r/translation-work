@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p222-v5526
-[saṃkaṭena](saṃkaṭenāviviktena) [aviviktena](saṃkaṭenāviviktena) [yonimārgeṇa](yonimārgeṇa) [nirgatam](nirgatam)
+[narrow+unseparated](saṃkaṭenāviviktena) [by-birth-passage](yonimārgeṇa) [exited](nirgatam)
 
 ## mukta-m0-p222-v5527
-[pradhāna-asthīni](pradhānāsthīni) [vai](vai) [trāṇi](trāṇi) [śatāni](śatānyadhikamaṣṭa) [adhikam](śatānyadhikamaṣṭa) [aṣṭa](śatānyadhikamaṣṭa) [vai](vai)
+[principal-bones](pradhānāsthīni) [indeed](vai) [three](trāṇi) [hundreds-exceeding-eight](śatānyadhikamaṣṭa) [indeed](vai)
 
 ## mukta-m0-p222-v5528
-[dvisaptati](dvisaptati) [sahasrāṇām](sahasrāṇāṃ) [nāḍībhiḥ](nāḍībhirabhito) [abhitaḥ](nāḍībhirabhito) [vṛtam](vṛtam)
+[seventy-two-thousand](dvisaptati) [of-nadis](sahasrāṇāṃ) [surrounded](nāḍībhirabhito) [by](vṛtam)
 
 ## mukta-m0-p222-v5529
-[medaḥ](medaḥ) [prastha-dvayam](prasthadvayaṃ) [proktam](proktaṃ) [dehinām](dehināṃ) [nandikeśvara](nandikeśvara)
+[fat](medaḥ) [two-prastha](prasthadvayaṃ) [declared](proktaṃ) [of-embodied-ones](dehināṃ) [o-nandikesvara](nandikeśvara)
 
 ## mukta-m0-p222-v5530
-[iti](iti) [deham](dehaṃ) [hyeva](hyeva) [syāt](syānnityamātmanaḥ) [nityam](syānnityamātmanaḥ) [ātmanaḥ](syānnityamātmanaḥ)
+[thus](iti) [body](dehaṃ) [indeed](hyeva) [is](syāt) [eternal](nityam) [of-self](ātmanaḥ)
 
 ## mukta-m0-p222-v5531
-[śula-śoṇita-saṃyogāt](śulaśoṇitasaṃyogād) [dehaḥ](deha) [utpadyate](utpadyate) [yataḥ](yataḥ)
+[from-union-of-spear-blood](śulaśoṇitasaṃyogād) [body](deha) [arises](utpadyate) [because](yataḥ)
 
 ## mukta-m0-p222-v5532
-[śodhyamānaḥ](śodhyamāno'pi) [api](śodhyamāno'pi) [dehaḥ](dehoyaṃ) [ayam](dehoyaṃ) [aśuciḥ](aśuciḥ) [syāt](syādvi) [niścayaḥ](niścayaḥ)
+[though-purified](śodhyamāno'pi) [this-body](dehoyaṃ) [impure](aśuciḥ) [is](syād) [certainly](vi) [certainty](niścayaḥ)
 
 ## mukta-m0-p222-v5533
-[aśuddhitvam](aśuddhitvaṃ) [kṣaṇāt](kṣaṇādyāti) [yāti](kṣaṇādyāti) [kim](kimanyadaśucirbhavet) [anyat](kimanyadaśucirbhavet) [aśuciḥ](kimanyadaśucirbhavet) [bhavet](kimanyadaśucirbhavet)
+[impurity](aśuddhitvaṃ) [in-a-moment](kṣaṇādyāti) [what-else](kimanyadaśucirbhavet)
 
 ## mukta-m0-p222-v5534
-[sravanti](sravanti) [pūti](pūti) [gandhāni](gandhāni) [kim](kimanyadaśucirbhavet) [anyat](kimanyadaśucirbhavet) [aśuciḥ](kimanyadaśucirbhavet) [bhavet](kimanyadaśucirbhavet)
+[flow](sravanti) [foul-odors](pūti) [gandhāni](gandhāni) [what-else](kimanyadaśucirbhavet)
 
 ## mukta-m0-p222-v5535
-[candana-āguru-karpūra-kuṃkuma-ādi](candanāgarukarpūrakuṃkumādyanulepitam) [anulepitam](candanāgarukarpūrakuṃkumādyanulepitam)
+[sandal-aloes-camphor-saffron-etc](candanāgarukarpūrakuṃkumādyanulepitam)
 
 ## mukta-m0-p222-v5536
-[sarvadā](sarvadā) [śodhyamānaḥ](śodhyamānopi) [api](śodhyamānopi) [śuddhim](śuddhiṃ) [na](naivādhi) [eva](naivādhi) [adhi](naivādhi) [gacchati](gacchati)
+[always](sarvadā) [though-purified](śodhyamānopi) [purity](śuddhiṃ) [not-at-all](naivādhi) [attains](gacchati)
 
 ## mukta-m0-p222-v5537
-[na](nānyadvirāgahetuḥ) [anyat](nānyadvirāgahetuḥ) [virāga-hetuḥ](nānyadvirāgahetuḥ) [syāt](syāccharīrādiha) [śarīra-ādi](syāccharīrādiha) [iha](syāccharīrādiha) [vidyate](vidyate)
+[not-other](nānyadvirāgahetuḥ) [dispassion-cause](virāgahetuḥ) [is](syāc) [body-etc](śarīrādiha) [here](vidyate)
 
 ## mukta-m0-p222-v5538
-[bhāva-śuddhiḥ](bhāvaśuddhirviśuddhirvai) [viśuddhiḥ](bhāvaśuddhirviśuddhirvai) [vai](bhāvaśuddhirviśuddhirvai) [śuddhaye](śuddhaye) [kathitam](kathitaṃ) [mayā](mayā)
+[mental-purity](bhāvaśuddhirviśuddhirvai) [purity](śuddhaye) [told](kathitaṃ) [by-me](mayā)
 
 ## mukta-m0-p222-v5539
-[gaṃgā-tīrthaiḥ](gaṃgātīrthaiśca) [ca](gaṃgātīrthaiśca) [mṛd-bhāraiḥ](mṛdbhāraimṛjyate) [mṛjyate](mṛdbhāraimṛjyate) [parvata-upamaiḥ](parvatopamaiḥ)
+[by-ganga-tirthas-and-earth-masses](gaṃgātīrthaiśca) [rubbed](mṛjyate) [mountain-like](parvatopamaiḥ)
 
 ## mukta-m0-p222-v5540
-[śuddha-tīrtha](śuddhatīrtha) [sahasraiḥ](sahasraistu) [tu](sahasraistu) [snātaḥ](snāto) [bhāva-vihīnakaḥ](bhāvavihīnakaḥ)
+[by-thousand-pure-tirthas](śuddhatīrtha) [bathed](sahasraistu) [devoid-of-devotion](snāto) [bhāvavihīnakaḥ)
 
 ## mukta-m0-p222-v5541
-[duṣṭa-ātmā](duṣṭātmāvahni) [avahni](duṣṭātmāvahni) [yoge](yoge'pi) [api](yoge'pi) [na](na) [śuddhaḥ](śuddhaḥ) [kutracit](kutracidbhavet) [bhavet](kutracidbhavet)
+[evil-souled](duṣṭātmāvahni) [in-fire-union](yoge'pi) [not](na) [pure](śuddhaḥ) [anywhere](kutracidbhavet)
 
 ## mukta-m0-p222-v5542
-[śaucam](śaucaṃ) [param](paraṃ) [bhāva-śuddhi](bhāvaśuddhipramāṇaṃ) [pramāṇam](bhāvaśuddhipramāṇaṃ) [sarva-karmasu](sarvakarmasu)
+[purity](śaucaṃ) [supreme](paraṃ) [mental-purity](bhāvaśuddhipramāṇaṃ) [in-all-actions](sarvakarmasu)
 
 ## mukta-m0-p222-v5543
-[mānavāḥ](mānavā) [bhidyate](bhidyate) [buddhiḥ](buddhirabhinneṣveva) [abhinneṣu](buddhirabhinneṣveva) [eva](buddhirabhinneṣveva) [vastuṣu](vastuṣu)
+[of-men](mānavā) [divided](bhidyate) [intellect](buddhirabhinneṣveva) [in-undivided-things](vastuṣu)
 
 ## mukta-m0-p222-v5544
-[patiḥ](patistadeva) [tat](patistadeva) [eva](patistadeva) [dhyāyan](dhyāyanvai) [vai](dhyāyanvai) [kāma-ārdra](kāmārdra) [hṛdayaḥ](hṛdayo) [bhavet](bhavet)
+[lord](patistadeva) [meditating](dhyāyanvai) [indeed](vai) [desire-moist](kāmārdra) [heart](hṛdayo) [becomes](bhavet)
 
 ## mukta-m0-p222-v5545
-[abhāvena](abhāvena) [param](paraṃ) [tasmāt](tasmādbhāvassarvasya) [bhāvaḥ](tasmādbhāvassarvasya) [sarvasya](tasmādbhāvassarvasya) [hetuka](hetuka)
+[by-absence](abhāvena) [supreme](paraṃ) [therefore](tasmādbhāvassarvasya) [cause-of-all](hetuka)
 
 ## mukta-m0-p222-v5546
-[dāha-śuddhyā](dāhaśuddhyā) [ca](ca) [sarvam](sarvaṃ) [ca](ca) [labhate](labhate) [na](nātra) [atra](nātra) [saṃśayaḥ](saṃśayaḥ)
+[by-burning-purity](dāhaśuddhyā) [and](ca) [all](sarvaṃ) [obtains](ca) [no](labhate) [doubt](nātra) [here](saṃśayaḥ)
 
 ## mukta-m0-p222-v5547
-[avinā](avinārāgaviṇmūtralepagandhaviśośadhanam) [rāga](avinārāgaviṇmūtralepagandhaviśośadhanam) [viṇ-mūtra](avinārāgaviṇmūtralepagandhaviśośadhanam) [lepa](avinārāgaviṇmūtralepagandhaviśośadhanam) [gandha](avinārāgaviṇmūtralepagandhaviśośadhanam) [viśoṣa](avinārāgaviṇmūtralepagandhaviśośadhanam) [dhanam](avinārāgaviṇmūtralepagandhaviśośadhanam)
+[without-attachment-feces-urine-smear-odor-purification](avinārāgaviṇmūtralepagandhaviśośadhanam)
 
 ## mukta-m0-p222-v5548
-[tvaṅ-mātra](tvaṅmātra) [sāra](sāranissāraṃ) [nissāram](sāranissāraṃ) [rambhā-stambha](rambhāstambhanibhaṃ) [nibham](rambhāstambhanibhaṃ) [param](param)
+[skin-only-essence-insubstantial](tvaṅmātra) [sāranissāraṃ](sāranissāraṃ) [banana-stalk-like](rambhāstambhanibhaṃ) [supreme](param)
 
 ## mukta-m0-p222-v5549
-[saṃsāra-sāgaram](saṃsārasāgaraṃ) [ghoram](ghoraṃ) [karoti](karotyeva) [eva](karotyeva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[ocean-of-samsara](saṃsārasāgaraṃ) [terrible](ghoraṃ) [makes](karotyeva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p222-v5550
-[ajñāta-śeṣām](ajñātaśeṣāṃ) [puṃsām](puṃsāṃ) [tu](tu) [nānā-karma](nānākarmavaśātpunaḥ) [vaśāt](nānākarmavaśātpunaḥ) [punaḥ](nānākarmavaśātpunaḥ)
+[unknown-remainder](ajñātaśeṣāṃ) [of-men](puṃsāṃ) [tu](tu) [by-various-actions](nānākarmavaśātpunaḥ)

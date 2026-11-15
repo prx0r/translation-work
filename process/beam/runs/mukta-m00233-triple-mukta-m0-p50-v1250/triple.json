@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "veṇupatrākṛtī",
+     "gloss": "bamboo-leaf-shaped",
+     "grounds": "compound of veṇu, patra, and ākṛti; describes the form",
+     "morph": "compound (veṇu+patra+ākṛti)"
+    },
+    {
+     "surface": "pārśvapatrāgre",
+     "gloss": "at-side-leaf-tip",
+     "grounds": "compound of pārśva, patra, and agra; locative sense",
+     "morph": "compound (pārśva+patra+agra)"
+    },
+    {
+     "surface": "madhyapatrakaḥ",
+     "gloss": "middle-leaf",
+     "grounds": "compound of madhya and patraka; central element",
+     "morph": "compound (madhya+patraka)"
+    }
+   ],
+   "question": "What shape and placement relation defines the middle leaf in this ritual diagram?",
+   "premises": [
+    "Bamboo-leaf shape governs the form.",
+    "Side-leaf tip marks the boundary.",
+    "Middle leaf occupies the center."
+   ],
+   "inference": "The middle leaf is centered within the bamboo-leaf-shaped side-leaf arrangement.",
+   "uncertainties": [
+    "Exact ritual object or diagram type is not specified."
+   ],
+   "plain_english": "Bamboo-leaf-shaped; at the side-leaf tip; middle leaf."
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "nāsāpuṭāntasīmāntavyāsapādāṃśapakṣataḥ",
+     "gloss": "from-nose-pit-boundary-width-quarter-part-side",
+     "grounds": "compound measuring from the side of a quarter part of the nose-pit boundary width",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which side and fractional part of the nose-pit boundary width is the measurement taken?",
+   "premises": [
+    "the token specifies a side",
+    "the token specifies a quarter part",
+    "the token specifies nose-pit boundary width"
+   ],
+   "inference": "The measurement is taken from the side corresponding to a quarter part of the nose-pit boundary width.",
+   "uncertainties": [
+    "exact grammatical case of the fused compound is not recoverable from the token alone"
+   ],
+   "plain_english": "The measurement begins from the side of a quarter part of the nose-pit boundary width."
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsāgraṃ",
+     "gloss": "nose-tip",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dvyaṅguloccaṃ",
+     "gloss": "two-angula-high",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "puṭordhvataḥ",
+     "gloss": "from-pit-above",
+     "grounds": "compound ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How high above the pit is the nose tip said to be?",
+   "premises": [
+    "the nose tip is named",
+    "its height is two angulas",
+    "the height is measured from above the pit"
+   ],
+   "inference": "The nose tip is two angulas high above the pit.",
+   "uncertainties": [
+    "whether puṭa refers to the nostril pit or another pit"
+   ],
+   "plain_english": "Then the nose tip is two angulas high above the pit."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "nāsādvāroccavistārau",
+     "gloss": "nose-door-high-width",
+     "grounds": "compound dual noun",
+     "morph": "n.nom.du.n"
+    },
+    {
+     "surface": "pañcasaptayavairmatau",
+     "gloss": "five-seven-grains-opinion",
+     "grounds": "compound with instrumental grains",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What are the stated high and wide measurements of the nose door in grains?",
+   "premises": [
+    "the nose door has high and wide measurements",
+    "the grains are five and seven",
+    "this is presented as opinion"
+   ],
+   "inference": "The nose door's height and width are given as five and seven grains respectively.",
+   "uncertainties": [
+    "which of five or seven applies to height versus width"
+   ],
+   "plain_english": "The nose door's height and width are reckoned as five and seven grains."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "madhyakuḍyocccatāṃśena",
+     "gloss": "middle-wall-height-quarter-part",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tadvyāso'rdhayavaḥ",
+     "gloss": "that-width-half-grain",
+     "grounds": "fused sandhi form tadvyāsaḥ + ardhayavaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the remembered width of the middle wall by its height quarter?",
+   "premises": [
+    "the middle wall height quarter is used",
+    "that width is half a grain",
+    "it is remembered as such"
+   ],
+   "inference": "The middle wall's width is remembered as half a grain by its height quarter.",
+   "uncertainties": [
+    "exact referent of tad in tadvyāsaḥ"
+   ],
+   "plain_english": "By a quarter of the middle wall's height, its width is remembered as half a grain."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "sārdhavedayavāyāmā",
+     "gloss": "one-and-half-grain-length",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gojī",
+     "gloss": "gojī",
+     "grounds": "technical term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasyārdhatastatā",
+     "gloss": "its-half-there",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What length is assigned to the gojī and what is its half there?",
+   "premises": [
+    "the gojī has a length",
+    "the length is one and a half grains",
+    "its half is located there"
+   ],
+   "inference": "The gojī is one and a half grains long, and its half is there.",
+   "uncertainties": [
+    "the exact anatomical referent of gojī"
+   ],
+   "plain_english": "The gojī is one and a half grains long, and its half is there."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "tadvyāsaḥ",
+     "gloss": "that-width",
+     "grounds": "demonstrative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sārdhatriyava",
+     "gloss": "one-and-half-three-grains",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What width is declared for that measured part in grains?",
+   "premises": [
+    "a width is named",
+    "it is one and a half three grains",
+    "it is declared"
+   ],
+   "inference": "That width is declared to be one and a half three grains.",
+   "uncertainties": [
+    "whether sārdhatriyava means one and a half or three and a half grains"
+   ],
+   "plain_english": "That width is declared to be one and a half three grains."
+  }
+ ]
+}

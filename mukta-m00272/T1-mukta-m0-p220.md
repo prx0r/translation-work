@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p220-v5476
-[nakrā](nakrā) [grāhāḥ](grāhāḥ) [ca](ca) [te](te) [sarve](sarve) [cāṇḍajāḥ](cāṇḍajāḥ) [ca](ca) [iti](iti) [kīrtitāḥ](kīrtitāḥ)
+[crocodiles](nakrā) [graspers](grāhāḥ) [and](ca) [those](te) [all](sarve) [egg-born](cāṇḍajāḥ) [and-thus](ceti) [proclaimed](kīrtitāḥ)
 
 ## mukta-m0-p220-v5477
-[jarāyujāḥ](jarāyujāḥ) [ca](ca) [mūlam](mūlam) [vai](vai) [cauṣadhyā](cauṣadhyā) [jāyate](jāyate) [bhṛśam](bhṛśam)
+[jarāyu-born](jarāyujāḥ) [and](ca) [root](mūlaṃ) [indeed](vai) [from-herbs](cauṣadhyā) [is-born](jāyate) [greatly](bhṛśam)
 
 ## mukta-m0-p220-v5478
-[vāyunā](vāyunā) [vyūhamānāsā](vyūhamānāsā) [vyomni](vyomni) [jīvatvam](jīvatvam) [āgatā](āgatā)
+[by-wind](vāyunā) [being-dispersed](vyūhamānāsā) [in-sky](vyomni) [life-state](jīvatvam) [attained](āgatā)
 
 ## mukta-m0-p220-v5479
-[ucchranāt](ucchranāt) [ārdradurbham](ārdradurbham) [ca](ca) [mūlabhāgam](mūlabhāgam) [iyāt](iyāt) [kramāt](kramāt)
+[from-sprouting](ucchranāt) [moist](ārdradurbhaṃ) [and](ca) [root-portion](mūlabhāgam) [may-go](iyāt) [in-order](kramāt)
 
 ## mukta-m0-p220-v5480
-[parṇanālam](parṇanālam) [tataḥ](tataḥ) [kāṇḍam](kāṇḍam) [kāṇḍokta](kāṇḍokta) [prasavam](prasavam) [punaḥ](punaḥ)
+[leaf-stalk](parṇanālaṃ) [then](tataḥ) [stem](kāṇḍaṃ) [stem-declared](kāṇḍokta) [fruit](prasavaṃ) [again](punaḥ)
 
 ## mukta-m0-p220-v5481
-[taṇḍulānām](taṇḍulānām) [tu](tu) [pākāt](pākāt) [tu](tu) [triyantyauṣadhajātayaḥ](triyantyauṣadhajātayaḥ)
+[of-grains](taṇḍulānāṃ) [but](tu) [from-cooking](pākāt) [tu](tu) [three](triyantyauṣadhajātayaḥ)
 
 ## mukta-m0-p220-v5482
-[phalapākāvasānāntāḥ](phalapākāvasānāntāḥ) [tathā](tathā) [cauṣadhijātayaḥ](cauṣadhijātayaḥ)
+[fruit-ripening](phalapākāvasānāntāḥ) [thus](tathā) [herb-born](cauṣadhijātayaḥ)
 
 ## mukta-m0-p220-v5483
-[saṃyogāt](saṃyogāt) [aneka](aneka) [svādutām](svādutām) [gatim](gatim)
+[union](saṃyogāt) [many](aneka) [sweetness](svādutāṃ) [motion](gatim)
 
 ## mukta-m0-p220-v5484
-[madhurāmre](madhurāmre) [ca](ca) [lavaṇam](lavaṇam) [tiktam](tiktam) [kaṭukaṣāyakam](kaṭukaṣāyakam)
+[sweet-mango](madhurāmre) [and](ca) [salt](lavaṇaṃ) [bitter](tiktaṃ) [pungent](kaṭuka) [astringent](ṣāyakam)
 
 ## mukta-m0-p220-v5485
-[āsādyāmāśayam](āsādyāmāśayam) [prāpya](prāpya) [prāṇādi](prāṇādi) [sthāpitam](sthāpitam) [kramāt](kramāt)
+[having-reached](āsādyā) [stomach](māśayaṃ) [having-obtained](prāpya) [prāṇa-etc](prāṇādi) [established](sthāpitaṃ) [in-order](kramāt)
 
 ## mukta-m0-p220-v5486
-[annāṃśam](annāṃśam) [bhujalāṃśantu](bhujalāṃśantu) [toyāso](toyāso) [vahnirūrjitaḥ](vahnirūrjitaḥ)
+[food-portion](annāṃśaṃ) [water-portion](bhujalāṃśantu) [water](toyāso) [fire](vahnirūrjitaḥ)
 
 ## mukta-m0-p220-v5487
-[agninā](agninā) [tvārthyate](tvārthyate) [toyam](toyam) [tenānnasyāpi](tenānnasyāpi) [pācanam](pācanam)
+[by-fire](agninā) [tvārthyate](tvārthyatetoyaṃ) [by-that](tenānnasyāpi) [digestion](pācanam)
 
 ## mukta-m0-p220-v5488
-[kiṭṭam](kiṭṭam) [dvādaśamārgeṇa](dvādaśamārgeṇa) [vahniraṃgāt](vahniraṃgāt) [pravartate](pravartate)
+[waste](kiṭṭaṃ) [twelve-path](dvādaśamārgeṇa) [fire](vahniraṃgāt) [proceeds](pravartate)
 
 ## mukta-m0-p220-v5489
-[malāśayāḥ](malāśayāḥ) [kaphasvedau](kaphasvedau) [viṇmūtrā](viṇmūtrā) [dvādaśa](dvādaśa) [smṛtāḥ](smṛtāḥ)
+[waste-receptacles](malāśayāḥ) [phlegm](kaphasvedau) [feces-urine](viṇmūtrā) [twelve](dvādaśa) [remembered](smṛtāḥ)
 
 ## mukta-m0-p220-v5490
-[prāṇavāyuśca](prāṇavāyuśca) [nāḍīnām](nāḍīnām) [mukhe](mukhe) [sūkṣmarasam](sūkṣmarasam) [kṣipet](kṣipet)
+[prāṇa-wind](prāṇavāyuśca) [of-channels](nāḍīnāṃ) [in-mouth](mukhe) [subtle-essence](sūkṣmarasaṃ) [casts](kṣipet)
 
 ## mukta-m0-p220-v5491
-[nāḍīnām](nāḍīnām) [madhyame](madhyame) [prāṇaśarīraḥ](prāṇaśarīraḥ) [śleṣmaṇo](śleṣmaṇo) [rasaḥ](rasaḥ)
+[of-channels](nāḍīnāṃ) [middle](madhyame) [prāṇa-body](prāṇaśarīraḥ) [of-phlegm](śleṣmaṇo) [essence](rasaḥ)
 
 ## mukta-m0-p220-v5492
-[rasatastvakca](rasatastvakca) [rudhiram](rudhiram) [māṃsam](māṃsam) [raktāttu](raktāttu) [jāyate](jāyate)
+[from-essence](rasatastvakca) [blood](rudhiraṃ) [flesh](māṃsaṃ) [from-blood](raktāttu) [is-born](jāyate)
 
 ## mukta-m0-p220-v5493
-[majjā](majjā) [tu](tu) [jāyate](jāyate) [paścācchuklo'pyata](paścācchuklo'pyata) [tridhā](tridhā) [bhavet](bhavet)
+[marrow](majjā) [then](tu) [is-born](jāyate) [after](paścācchuklo'pyata) [threefold](tridhā) [becomes](bhavet)
 
 ## mukta-m0-p220-v5494
-[prājāpatya](prājāpatya) [ṛtukāle](ṛtukāle) [viśeṣataḥ](viśeṣataḥ)
+[prājāpatya](prājāpatya) [ṛtu-time](ṛtukāle) [especially](viśeṣataḥ)
 
 ## mukta-m0-p220-v5495
-[śuktānnarāntastho](śuktānnarāntastho) [jīvaḥ](jīvaḥ) [karaṇasaṃyutaḥ](karaṇasaṃyutaḥ)
+[fermented-food](śuktānnarāntastho) [living-being](jīvaḥ) [with-organs](karaṇasaṃyutaḥ)
 
 ## mukta-m0-p220-v5496
-[ekāhāmiśritaṃ](ekāhāmiśritaṃ) [tattu](tattu) [kalākhyaṃgaṃ](kalākhyaṃgaṃ) [ca](ca) [gacchati](gacchati)
+[one-day](ekāhāmiśritaṃ) [that](tattu) [kalā-named](kalākhyaṃgaṃ) [goes](ca gacchati)
 
 ## mukta-m0-p220-v5497
-[saptarātrovimādbhūtvā](saptarātrovimādbhūtvā) [budbudātpeśikām](budbudātpeśikām) [vrajet](vrajet)
+[seven-nights](saptarātrovimādbhūtvā) [from-bubble](budbudāt) [membrane](peśikāṃ) [goes](vrajet)
 
 ## mukta-m0-p220-v5498
-[paṃcaviṃśadinātpaścād](paṃcaviṃśadinātpaścād) [bījāṃkurasamudbhavaḥ](bījāṃkurasamudbhavaḥ)
+[twenty-five-days](paṃcaviṃśadinātpaścād) [seed-sprout](bījāṃkurasamudbhavaḥ)
 
 ## mukta-m0-p220-v5499
-[śiro](śiro) [grīvā](grīvā) [ca](ca) [skandhaśca](skandhaśca) [pṛṣṭhavaṃśastathoparam](pṛṣṭhavaṃśastathoparam)
+[head](śiro) [neck](grīvā) [and](ca) [shoulder](skandhaśca) [spine](pṛṣṭhavaṃśastathoparam)
 
 ## mukta-m0-p220-v5500
-[māsadvayātkrameṇaiva](māsadvayātkrameṇaiva) [bhavatyevāṃganiṣkṛtiḥ](bhavatyevāṃganiṣkṛtiḥ)
+[two-months](māsadvayātkrameṇaiva) [thus](bhavatyevāṃganiṣkṛtiḥ)

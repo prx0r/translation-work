@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1398,
- "question": "How many halls should be arranged on the first storey according to this plan?",
+ "question": "Where should the god be lowered?",
  "premises": [
-  "The arrangement follows the prescribed manner.",
-  "The first storey contains halls.",
-  "The number of halls is twenty-eight."
+  "lowering occurs at the pavilion door",
+  "the god is the object"
  ],
- "inference": "One should thus arrange twenty-eight halls on the first storey.",
- "uncertainties": [],
- "plain_english": "Thus one should indeed arrange twenty-eight halls on the first storey."
+ "inference": "the god is lowered at the pavilion door",
+ "uncertainties": [
+  "manner of lowering"
+ ],
+ "plain_english": "At the pavilion door, one should lower the god."
 }

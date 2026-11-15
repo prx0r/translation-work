@@ -1,0 +1,204 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "trivakrāvanatā",
+     "gloss": "three-curved-bent",
+     "grounds": "compound describing a triple-curved form",
+     "morph": "compound"
+    },
+    {
+     "surface": "tāvadāsyāyataṃ",
+     "gloss": "so-much-mouth-length",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular optative of bhū",
+     "morph": "3.sg.opt.act-bhū"
+    }
+   ],
+   "question": "How does the triple-curved form determine the mouth length?",
+   "premises": [
+    "trivakrāvanatā names a triple-curved form",
+    "tāvadāsyāyataṃ gives the corresponding mouth length",
+    "bhavet states the resulting measure"
+   ],
+   "inference": "The triple-curved form yields a specified mouth length.",
+   "uncertainties": [
+    "exact sandhi decomposition of tāvadāsyāyataṃ not expanded"
+   ],
+   "plain_english": "The triple-curved form becomes so much in mouth length."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "tatpālī",
+     "gloss": "that-lip",
+     "grounds": "compound referring to the lip",
+     "morph": "compound"
+    },
+    {
+     "surface": "tvadhaḥ",
+     "gloss": "below",
+     "grounds": "adverbial direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhayavaṃ",
+     "gloss": "one-and-half-grain",
+     "grounds": "compound measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverbial sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure is assigned below that lip?",
+   "premises": [
+    "tatpālī refers to that lip",
+    "tvadhaḥ places the measure below",
+    "sārdhayavaṃ gives one and a half grains",
+    "tataḥ continues the sequence"
+   ],
+   "inference": "Below that lip the measure is one and a half grains.",
+   "uncertainties": [
+    "exact lip referent depends on prior context"
+   ],
+   "plain_english": "Below that lip, then, is one and a half grains."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "nimnaṃ",
+     "gloss": "depressed",
+     "grounds": "adjective describing a hollow",
+     "morph": "adj"
+    },
+    {
+     "surface": "hanustriyavamunnatā",
+     "gloss": "chin-three-grains",
+     "grounds": "fused compound kept whole",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the chin depression and elevation measured?",
+   "premises": [
+    "nimnaṃ describes a depressed area",
+    "hanustriyavamunnatā gives chin three grains",
+    "the two terms describe chin contour"
+   ],
+   "inference": "The chin has a depressed and a three-grain elevated measure.",
+   "uncertainties": [
+    "internal sandhi of hanustriyavamunnatā not expanded"
+   ],
+   "plain_english": "The depressed chin rises three grains."
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "karṇabandhāddhanormadhyaṃ",
+     "gloss": "ear-band-from-chin-middle",
+     "grounds": "fused compound kept whole",
+     "morph": "compound"
+    },
+    {
+     "surface": "daśāṅgulamudīritam",
+     "gloss": "ten-angulas",
+     "grounds": "fused compound kept whole",
+     "morph": "compound"
+    }
+   ],
+   "question": "What distance is stated from ear band to chin middle?",
+   "premises": [
+    "karṇabandhāddhanormadhyaṃ names ear band to chin middle",
+    "daśāṅgulamudīritam states ten angulas",
+    "the verse gives that distance"
+   ],
+   "inference": "The distance from ear band to chin middle is ten angulas.",
+   "uncertainties": [
+    "internal sandhi not expanded"
+   ],
+   "plain_english": "From ear band to chin middle is ten angulas."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "netrāntāt",
+     "gloss": "from-eye-end",
+     "grounds": "ablative compound",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "saptāṃśaiḥ",
+     "gloss": "seven-parts",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl"
+    },
+    {
+     "surface": "śravaṇāntaram",
+     "gloss": "ear-interval",
+     "grounds": "compound naming ear interval",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the ear interval measured from the eye end?",
+   "premises": [
+    "netrāntāt starts from the eye end",
+    "saptāṃśaiḥ gives seven parts",
+    "śravaṇāntaram names the ear interval"
+   ],
+   "inference": "The ear interval from the eye end is seven parts.",
+   "uncertainties": [
+    "exact part size depends on context"
+   ],
+   "plain_english": "From the eye end, the ear interval is seven parts."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "karṇabandhaḥ",
+     "gloss": "ear-band",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt.act-as"
+    },
+    {
+     "surface": "sayavāṃśadvayāyataḥ",
+     "gloss": "six-grains-two-parts-length",
+     "grounds": "fused compound kept whole",
+     "morph": "compound"
+    }
+   ],
+   "question": "What length is assigned to the ear band?",
+   "premises": [
+    "karṇabandhaḥ names the ear band",
+    "syāt states what it would be",
+    "sayavāṃśadvayāyataḥ gives six grains and two parts"
+   ],
+   "inference": "The ear band would be six grains and two parts long.",
+   "uncertainties": [
+    "internal sandhi not expanded"
+   ],
+   "plain_english": "The ear band would be six grains and two parts long."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1138,
- "question": "How must the maiden identified as Tripureshvari be ritually covered before consecration?",
+ "question": "How long are index and middle fingers?",
  "premises": [
-  "The maiden is identified as Tripureshvari.",
-  "She must be covered as a ritual action.",
-  "The covering is done with the right hand."
+  "index is named",
+  "middle is named",
+  "half-rama-fingers is named"
  ],
- "inference": "The maiden identified as Tripureshvari must be covered with the right hand.",
- "uncertainties": [],
- "plain_english": "Having covered the maiden, who is Tripureshvari, with the right hand."
+ "inference": "The verse gives lengths for index and middle fingers.",
+ "uncertainties": [
+  "exact finger count"
+ ],
+ "plain_english": "Index and middle fingers are long with half-rama fingers."
 }

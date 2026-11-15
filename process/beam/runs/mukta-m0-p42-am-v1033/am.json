@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1033,
- "question": "In which ritual traditions are these ten vessels prescribed?",
+ "question": "What measure is assigned below that lip?",
  "premises": [
-  "The verse summarizes the previously enumerated vessels as ten.",
-  "It names the Saura ritual context.",
-  "It also names the Śaiva and Vaiṣṇava contexts."
+  "tatpālī refers to that lip",
+  "tvadhaḥ places the measure below",
+  "sārdhayavaṃ gives one and a half grains",
+  "tataḥ continues the sequence"
  ],
- "inference": "These ten vessels are prescribed in Saura, Śaiva, and Vaiṣṇava worship.",
- "uncertainties": [],
- "plain_english": "These ten vessels are used in Saura, Śaiva, and Vaiṣṇava worship."
+ "inference": "Below that lip the measure is one and a half grains.",
+ "uncertainties": [
+  "exact lip referent depends on prior context"
+ ],
+ "plain_english": "Below that lip, then, is one and a half grains."
 }

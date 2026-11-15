@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative of as",
+     "morph": "3.pl.act-opt (root as)"
+    },
+    {
+     "surface": "mūrtipāḥ",
+     "gloss": "form-lords",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asitāṅgādibhairavāḥ",
+     "gloss": "asitāṅga-and-other-bhairavas",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which eight bhairavas are the form-lords in pratiṣṭhā?",
+   "premises": [
+    "eight form-lords are bhairavas",
+    "asitāṅga heads the list",
+    "the list is introduced by ādi"
+   ],
+   "inference": "the eight form-lords are asitāṅga and other bhairavas",
+   "uncertainties": [
+    "exact membership of the ādi list is unspecified"
+   ],
+   "plain_english": "But the eight form-lords should be the bhairavas beginning with Asitāṅga."
+  }
+ ]
+}

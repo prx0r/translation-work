@@ -1,0 +1,81 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "past participle used adverbially",
+     "morph": "indecl."
+    },
+    {
+     "surface": "abhipūjya",
+     "gloss": "having-worshipped",
+     "grounds": "past participle used adverbially",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "conjunctive adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bali",
+     "gloss": "offering",
+     "grounds": "ritual offering noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "illegible or omitted token in source",
+     "morph": "indecl."
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "illegible or omitted token in source",
+     "morph": "indecl."
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "illegible or omitted token in source",
+     "morph": "indecl."
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "illegible or omitted token in source",
+     "morph": "indecl."
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "illegible or omitted token in source",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun modifying offering",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What sequence of ritual acts follows the prior consecration and libation?",
+   "premises": [
+    "prior verses describe consecration and libation",
+    "this verse lists subsequent ritual acts",
+    "final relative clause qualifies the offering"
+   ],
+   "inference": "the practitioner gives, worships, then offers bali in ordered sequence",
+   "uncertainties": [
+    "starred tokens are illegible in source"
+   ],
+   "plain_english": "Having given and worshipped, then ... the offering which ..."
+  }
+ ]
+}

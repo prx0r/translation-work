@@ -1,0 +1,1017 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "sapādavedamātraiḥ",
+     "gloss": "with-quarter-veda-measures",
+     "grounds": "quarter-veda-measures",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "let-it-be",
+     "grounds": "optative",
+     "morph": "verb 3.sg.act.opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sayavabhāgataḥ",
+     "gloss": "with-grain-parts",
+     "grounds": "grain-parts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional measures define the deity's bodily form?",
+   "premises": [
+    "quarter-veda-measures are used",
+    "grain-parts are used"
+   ],
+   "inference": "The verse states proportional measures for the form.",
+   "uncertainties": [
+    "exact referent of the form"
+   ],
+   "plain_english": "Let it be with quarter-veda measures and grain parts."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "nābhiḥ",
+     "gloss": "navel",
+     "grounds": "navel",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "yoni",
+     "grounds": "yoni",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sārdhasūryāṅgulaiḥ",
+     "gloss": "with-half-sun-fingers",
+     "grounds": "half-sun-fingers",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are navel and yoni measured separately?",
+   "premises": [
+    "navel is named",
+    "yoni is named",
+    "half-sun-fingers are used"
+   ],
+   "inference": "The verse gives separate measurements for navel and yoni.",
+   "uncertainties": [
+    "exact spatial relation"
+   ],
+   "plain_english": "Then navel and yoni are measured separately with half-sun fingers."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "padāyāmaḥ",
+     "gloss": "foot-length",
+     "grounds": "foot-length",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bāhū",
+     "gloss": "arms",
+     "grounds": "arms",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "corvoḥ",
+     "gloss": "thighs",
+     "grounds": "thighs",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "samau",
+     "gloss": "equal",
+     "grounds": "equal",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "matau",
+     "gloss": "considered",
+     "grounds": "considered",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which limbs are considered equal in length?",
+   "premises": [
+    "foot-length is named",
+    "arms are named",
+    "thighs are named"
+   ],
+   "inference": "The verse states that arms and thighs are considered equal.",
+   "uncertainties": [
+    "exact equality scope"
+   ],
+   "plain_english": "Foot-length, arms, and thighs are considered equal."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "sārdhartvaṃśaiḥ",
+     "gloss": "with-half-one-fifth",
+     "grounds": "half-one-fifth",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "talāyāmaḥ",
+     "gloss": "palm-length",
+     "grounds": "palm-length",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍaṃśaiḥ",
+     "gloss": "with-six-parts",
+     "grounds": "six-parts",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "madhyamāyatā",
+     "gloss": "middle-length",
+     "grounds": "middle-length",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is palm length and middle length measured?",
+   "premises": [
+    "half-one-fifth is used",
+    "six-parts is used"
+   ],
+   "inference": "The verse gives palm length and middle length measures.",
+   "uncertainties": [
+    "exact unit relation"
+   ],
+   "plain_english": "Palm length and middle length are measured with specified parts."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "nandarṣyaṣṭarṣiṣaḍyavaiḥ",
+     "gloss": "nanda-rishi-eight-rishi-six-grains",
+     "grounds": "compound measure",
+     "morph": "instr.pl"
+    }
+   ],
+   "question": "What grain-based measure is specified here?",
+   "premises": [
+    "compound measure is given"
+   ],
+   "inference": "The verse specifies a grain-based measure.",
+   "uncertainties": [
+    "exact decomposition"
+   ],
+   "plain_english": "A compound grain-based measure is specified."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavādhikaṃ",
+     "gloss": "grain-excess",
+     "grounds": "grain-excess",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "talavyāsaḥ",
+     "gloss": "palm-breadth",
+     "grounds": "palm-breadth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rasāṃśataḥ",
+     "gloss": "from-rasa-parts",
+     "grounds": "rasa-parts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does grain excess affect length and palm breadth?",
+   "premises": [
+    "grain-excess is named",
+    "length is named",
+    "palm-breadth is named"
+   ],
+   "inference": "The verse relates grain excess to length and palm breadth.",
+   "uncertainties": [
+    "exact calculation"
+   ],
+   "plain_english": "Therefore grain-excess length and palm-breadth come from rasa parts."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "madhyakorparabāhvoḥ",
+     "gloss": "middle-elbow-arm",
+     "grounds": "middle-elbow-arm",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trivadeṣurasastatam",
+     "gloss": "three-vada-rasa-thus",
+     "grounds": "three-vada-rasa",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure applies to middle elbow and arm?",
+   "premises": [
+    "middle-elbow-arm is named",
+    "three-vada-rasa is named"
+   ],
+   "inference": "The verse gives a measure for middle elbow and arm.",
+   "uncertainties": [
+    "exact unit"
+   ],
+   "plain_english": "Middle elbow and arm are measured with three-vada-rasa."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "jānvoḥ",
+     "gloss": "knees",
+     "grounds": "knees",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "breadth",
+     "grounds": "breadth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptāṃśataḥ",
+     "gloss": "from-seven-parts",
+     "grounds": "seven-parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatiḥ",
+     "gloss": "extent",
+     "grounds": "extent",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is knee breadth and extent measured?",
+   "premises": [
+    "knees are named",
+    "seven-parts is named"
+   ],
+   "inference": "The verse gives knee breadth and extent from seven parts.",
+   "uncertainties": [
+    "exact extent"
+   ],
+   "plain_english": "Knee breadth and extent come from seven parts."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-them",
+     "grounds": "of-them",
+     "morph": "gen.du"
+    },
+    {
+     "surface": "tadardham",
+     "gloss": "half-of-that",
+     "grounds": "half-of-that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "utsedhaḥ",
+     "gloss": "height",
+     "grounds": "height",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cūcuke",
+     "gloss": "in-nipple",
+     "grounds": "in-nipple",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trimātraka",
+     "gloss": "three-measures",
+     "grounds": "three-measures",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What height is specified at the nipple?",
+   "premises": [
+    "half-of-that is named",
+    "height is named",
+    "three-measures is named"
+   ],
+   "inference": "The verse gives nipple height as half of that with three measures.",
+   "uncertainties": [
+    "antecedent of that"
+   ],
+   "plain_english": "Their half height at the nipple is three measures."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "stanādhaḥ",
+     "gloss": "below-breast",
+     "grounds": "below-breast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atijagatyaṃśaiḥ",
+     "gloss": "atijagati-parts",
+     "grounds": "atijagati-parts",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in-middle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrāṅgulaiḥ",
+     "gloss": "rudra-fingers",
+     "grounds": "rudra-fingers",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "tatiḥ",
+     "gloss": "extent",
+     "grounds": "extent",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What extent is specified below the breast?",
+   "premises": [
+    "below-breast is named",
+    "atijagati-parts is named",
+    "rudra-fingers is named"
+   ],
+   "inference": "The verse gives an extent below the breast.",
+   "uncertainties": [
+    "exact measure"
+   ],
+   "plain_english": "Below the breast, extent is measured with atijagati parts and rudra fingers."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "ūrvorvyāsaḥ",
+     "gloss": "thighs-breadth",
+     "grounds": "thighs-breadth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryāṃśaiḥ",
+     "gloss": "sun-parts",
+     "grounds": "sun-parts",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "jaṅghāmadhye",
+     "gloss": "calf-middle",
+     "grounds": "calf-middle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṃśakaiḥ",
+     "gloss": "six-parts",
+     "grounds": "six-parts",
+     "morph": "instr.pl"
+    }
+   ],
+   "question": "How are thigh breadth and calf middle measured?",
+   "premises": [
+    "thighs-breadth is named",
+    "sun-parts is named",
+    "six-parts is named"
+   ],
+   "inference": "The verse gives thigh breadth and calf middle measures.",
+   "uncertainties": [
+    "exact relation"
+   ],
+   "plain_english": "Thigh breadth uses sun parts, calf middle uses six parts."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "pārṣṇivyāsaḥ",
+     "gloss": "heel-breadth",
+     "grounds": "heel-breadth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "unnatiḥ",
+     "gloss": "height",
+     "grounds": "height",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāgāt",
+     "gloss": "from-part",
+     "grounds": "from-part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talamadhyāgrayoḥ",
+     "gloss": "palm-middle-tip",
+     "grounds": "palm-middle-tip",
+     "morph": "gen.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is heel breadth and height measured?",
+   "premises": [
+    "heel-breadth is named",
+    "height is named",
+    "palm-middle-tip is named"
+   ],
+   "inference": "The verse gives heel breadth and height from palm middle tip.",
+   "uncertainties": [
+    "exact part"
+   ],
+   "plain_english": "Heel breadth and height also come from palm middle tip."
+  },
+  {
+   "verse": 1138,
+   "rows": [
+    {
+     "surface": "tarjanī",
+     "gloss": "index",
+     "grounds": "index",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyā",
+     "gloss": "middle",
+     "grounds": "middle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sārdharāmāṅgulā",
+     "gloss": "with-half-rama-fingers",
+     "grounds": "half-rama-fingers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āyatā",
+     "gloss": "long",
+     "grounds": "long",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How long are index and middle fingers?",
+   "premises": [
+    "index is named",
+    "middle is named",
+    "half-rama-fingers is named"
+   ],
+   "inference": "The verse gives lengths for index and middle fingers.",
+   "uncertainties": [
+    "exact finger count"
+   ],
+   "plain_english": "Index and middle fingers are long with half-rama fingers."
+  },
+  {
+   "verse": 1139,
+   "rows": [
+    {
+     "surface": "rasarṣisārdharṣivasuvikārayavavistṛtāḥ",
+     "gloss": "rasa-rishi-half-rishi-vasu-vikara-grain-spread",
+     "grounds": "compound measure",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What spread measure is specified for fingers?",
+   "premises": [
+    "compound measure is given"
+   ],
+   "inference": "The verse specifies a spread measure.",
+   "uncertainties": [
+    "exact decomposition"
+   ],
+   "plain_english": "A compound spread measure is specified."
+  },
+  {
+   "verse": 1140,
+   "rows": [
+    {
+     "surface": "tatpādonāyatā",
+     "gloss": "quarter-less-long",
+     "grounds": "quarter-less-long",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛttā",
+     "gloss": "round",
+     "grounds": "round",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "unnatāgrā",
+     "gloss": "raised-tips",
+     "grounds": "raised-tips",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manāk",
+     "gloss": "slightly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "those",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What shape and length do those fingers have?",
+   "premises": [
+    "quarter-less-long is named",
+    "round is named",
+    "raised-tips is named"
+   ],
+   "inference": "The verse describes those fingers as quarter-less long, round, and raised-tipped.",
+   "uncertainties": [
+    "exact finger set"
+   ],
+   "plain_english": "Those are quarter-less long, round, and slightly raised at tips."
+  },
+  {
+   "verse": 1141,
+   "rows": [
+    {
+     "surface": "puṭādadhaḥ",
+     "gloss": "below-fold",
+     "grounds": "below-fold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgulāt",
+     "gloss": "finger",
+     "grounds": "finger",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "āsyaṃ",
+     "gloss": "mouth",
+     "grounds": "mouth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gojyāyām",
+     "gloss": "gojya-measure",
+     "grounds": "gojya-measure",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tadardhataḥ",
+     "gloss": "half-of-that",
+     "grounds": "half-of-that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the mouth measured below the fold?",
+   "premises": [
+    "below-fold is named",
+    "finger is named",
+    "gojya-measure is named"
+   ],
+   "inference": "The verse gives mouth measurement below the fold.",
+   "uncertainties": [
+    "exact fold"
+   ],
+   "plain_english": "Below the fold, mouth is measured by finger and gojya measure."
+  },
+  {
+   "verse": 1142,
+   "rows": [
+    {
+     "surface": "syādadharas",
+     "gloss": "let-lower-lip",
+     "grounds": "lower-lip",
+     "morph": "verb 3.sg.act.opt"
+    },
+    {
+     "surface": "tadardhena",
+     "gloss": "half-of-that",
+     "grounds": "half-of-that",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistṛtaḥ",
+     "gloss": "spread",
+     "grounds": "spread",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the lower lip spread?",
+   "premises": [
+    "lower-lip is named",
+    "half-of-that is named",
+    "spread is named"
+   ],
+   "inference": "The verse states the lower lip is spread by half of that.",
+   "uncertainties": [
+    "antecedent of that"
+   ],
+   "plain_english": "Let the lower lip be spread by half of that."
+  },
+  {
+   "verse": 1143,
+   "rows": [
+    {
+     "surface": "netradairghyaṃ",
+     "gloss": "eye-length",
+     "grounds": "eye-length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "breadth",
+     "grounds": "breadth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍyavaiḥ",
+     "gloss": "six-grains",
+     "grounds": "six-grains",
+     "morph": "instr.pl"
+    }
+   ],
+   "question": "How are eye length and breadth measured?",
+   "premises": [
+    "eye-length is named",
+    "breadth is named",
+    "six-grains is named"
+   ],
+   "inference": "The verse gives eye length and breadth in six grains.",
+   "uncertainties": [
+    "exact eye part"
+   ],
+   "plain_english": "Eye length and breadth are six grains."
+  },
+  {
+   "verse": 1144,
+   "rows": [
+    {
+     "surface": "gojīmūlāt",
+     "gloss": "from-goji-root",
+     "grounds": "from-goji-root",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsoccaṃ",
+     "gloss": "nose-height",
+     "grounds": "nose-height",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "let-be",
+     "grounds": "optative",
+     "morph": "verb 3.sg.act.opt"
+    },
+    {
+     "surface": "saṣaḍyavamātrataḥ",
+     "gloss": "with-six-grain-measure",
+     "grounds": "six-grain-measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is nose height measured from goji root?",
+   "premises": [
+    "from-goji-root is named",
+    "nose-height is named",
+    "six-grain-measure is named"
+   ],
+   "inference": "The verse gives nose height from goji root with six grains.",
+   "uncertainties": [
+    "exact goji root"
+   ],
+   "plain_english": "Nose height from goji root is six grains."
+  },
+  {
+   "verse": 1145,
+   "rows": [
+    {
+     "surface": "syāccheṣam",
+     "gloss": "let-remainder",
+     "grounds": "remainder",
+     "morph": "verb 3.sg.act.opt"
+    },
+    {
+     "surface": "ūhyaṃ",
+     "gloss": "infer",
+     "grounds": "infer",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "as-before",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be inferred for the remainder?",
+   "premises": [
+    "remainder is named",
+    "infer is named",
+    "as-before is named"
+   ],
+   "inference": "The verse says the remainder is to be inferred as before.",
+   "uncertainties": [
+    "exact remainder"
+   ],
+   "plain_english": "Let the remainder be inferred as before."
+  },
+  {
+   "verse": 1146,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhāt",
+     "gloss": "from-little-finger",
+     "grounds": "from-little-finger",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "strīmānasya",
+     "gloss": "woman-measure",
+     "grounds": "woman-measure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "characteristic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitam",
+     "gloss": "told",
+     "grounds": "told",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What characteristic is told for woman measure?",
+   "premises": [
+    "from-little-finger is named",
+    "woman-measure is named",
+    "characteristic is named"
+   ],
+   "inference": "The verse states a characteristic for woman measure from the little finger.",
+   "uncertainties": [
+    "exact characteristic"
+   ],
+   "plain_english": "Here the characteristic for woman measure is told from the little finger."
+  },
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "umāskandayuktasya",
+     "gloss": "uma-shoulder-joined",
+     "grounds": "uma-shoulder-joined",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śambhoḥ",
+     "gloss": "of-shambhu",
+     "grounds": "of-shambhu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "characteristic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "is-said",
+     "morph": "verb 3.sg.pass.pres"
+    }
+   ],
+   "question": "What characteristic is said for Shambhu joined with Uma?",
+   "premises": [
+    "uma-shoulder-joined is named",
+    "of-shambhu is named",
+    "characteristic is named"
+   ],
+   "inference": "The verse states a characteristic for Shambhu joined with Uma.",
+   "uncertainties": [
+    "exact characteristic"
+   ],
+   "plain_english": "There the characteristic of Shambhu joined with Uma's shoulder is said."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "śāyayet",
+     "gloss": "lay-down",
+     "grounds": "lay-down",
+     "morph": "verb 3.sg.caus.opt"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "on-seat",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "right",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pralambayet",
+     "gloss": "let-hang",
+     "grounds": "let-hang",
+     "morph": "verb 3.sg.caus.opt"
+    }
+   ],
+   "question": "How should the right side be positioned?",
+   "premises": [
+    "lay-down is named",
+    "on-seat is named",
+    "let-hang is named"
+   ],
+   "inference": "The verse instructs laying down on a seat and letting the right side hang.",
+   "uncertainties": [
+    "exact limb"
+   ],
+   "plain_english": "Lay down on a seat, but let the right side hang."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "jānunorbāhyapārśve",
+     "gloss": "knees-outer-side",
+     "grounds": "knees-outer-side",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānvantāt",
+     "gloss": "from-knee-end",
+     "grounds": "from-knee-end",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bāhupārśvakam",
+     "gloss": "arm-side",
+     "grounds": "arm-side",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What arm-side measure is given from the knee end?",
+   "premises": [
+    "knees-outer-side is named",
+    "from-knee-end is named",
+    "arm-side is named"
+   ],
+   "inference": "The verse gives an arm-side measure from the knee end.",
+   "uncertainties": [
+    "exact measurement"
+   ],
+   "plain_english": "On the outer side of the knees, arm-side comes from the knee end."
+  }
+ ]
+}

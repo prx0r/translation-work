@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb indicating the ghee offering follows the same pattern as the milk offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tejo'si",
+     "gloss": "thou-art-radiance",
+     "grounds": "fused sandhi form of tejas + asi, recited as the mantra for the ghee offering",
+     "morph": "verb 2.sg.act-pres root as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle closing the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "instrumental of ghṛta, the substance offered",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle continuing the ritual instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra accompanies the ghee offering after milk in this kalaśa sthāpana sequence?",
+   "premises": [
+    "Milk offering uses gayatri apyayasva.",
+    "Ghee offering uses tejo'si.",
+    "Both follow kalaśa sthāpana order."
+   ],
+   "inference": "The rite pairs each substance with a specific mantra in sequence.",
+   "uncertainties": [
+    "Exact ritual context beyond adjacent verses is not specified."
+   ],
+   "plain_english": "Likewise, 'thou art radiance,' with ghee."
+  }
+ ]
+}

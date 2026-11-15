@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p52",
  "verse": 1283,
- "question": "What jeweled head ornaments distinguish the goddess’s royal appearance?",
+ "question": "Who is worshipped after going around?",
  "premises": [
-  "She wears a crown set with priceless jewels.",
-  "She wears jeweled earrings."
+  "paryeti means goes-around",
+  "tataḥ means then",
+  "sampūjya means worshipping",
+  "dvijān means brahmins"
  ],
- "inference": "The goddess’s head is adorned with a priceless jeweled crown and jeweled earrings.",
- "uncertainties": [],
- "plain_english": "Meditate on her wearing a crown set with priceless jewels and jeweled earrings."
+ "inference": "The verse states going around, then worshipping brahmins.",
+ "uncertainties": [
+  "exact circumambulation object not specified"
+ ],
+ "plain_english": "Goes around, then, worshipping, indeed, brahmins."
 }

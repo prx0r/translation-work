@@ -1,17 +1,15 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1236,
- "question": "With what should the tilaka be made?",
+ "question": "What height and inch measure follow from the one-and-half measure?",
  "premises": [
-  "kaniṣṭhāṅgulinā means with little finger",
-  "vā means or",
-  "vāmahastasya means of left hand",
-  "tilakaṃ is tilaka",
-  "tathā means thus"
+  "The verse gives one-and-half measure.",
+  "It names part height.",
+  "It gives four inches."
  ],
- "inference": "The tilaka is made with the little finger or the left hand, thus.",
+ "inference": "From the one-and-half measure, the part height is four inches.",
  "uncertainties": [
-  "vāmahastasya may modify finger"
+  "The relation to the previous measure is implicit."
  ],
- "plain_english": "With the little finger, or of the left hand, the tilaka thus."
+ "plain_english": "From this one-and-half measure, the part height is four inches."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1591,
- "question": "What should be proclaimed regarding the fire circle and the deity's name?",
+ "question": "What mantra count is chanted to the god?",
  "premises": [
-  "The circle of fire is named.",
-  "The deity's name is named.",
-  "Proclamation is prescribed."
+  "devam is god",
+  "japeccashtottaram is should chant ashtottara",
+  "shatam is hundred"
  ],
- "inference": "One should proclaim the circle of fire and the name of the deity.",
- "uncertainties": [],
- "plain_english": "One should proclaim the circle of fire and the name of the deity."
+ "inference": "The verse directs chanting the hundred-name ashtottara to the god.",
+ "uncertainties": [
+  "exact mantra text"
+ ],
+ "plain_english": "Chant the hundred-name ashtottara to the god."
 }

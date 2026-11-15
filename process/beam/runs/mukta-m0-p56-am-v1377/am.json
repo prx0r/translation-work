@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1377,
- "question": "How should the storeys above the initial one be constructed in this design?",
+ "question": "From where is that object moved toward the north-east?",
  "premises": [
-  "The initial storey is made in the manner described.",
-  "Upper storeys follow a prescribed model.",
-  "The model is that stated for the Rudra storey."
+  "movement is from the consecration pavilion",
+  "direction is north-east"
  ],
- "inference": "One should construct the storeys above the first in the same way as prescribed for the Rudra storey.",
- "uncertainties": [],
- "plain_english": "One should make the first storey in this way, and the storeys above it as stated for the Rudra storey."
+ "inference": "the liṅga is transferred from the consecration pavilion",
+ "uncertainties": [
+  "exact object referred to by tat"
+ ],
+ "plain_english": "And that is moved from the consecration pavilion toward the north-east."
 }

@@ -1,17 +1,15 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1243,
- "question": "What should not be caused in an assembly?",
+ "question": "What three best-and-so-on items are numbered by veda, rāma, and aśvi?",
  "premises": [
-  "goṣṭhīmadhye means in assembly",
-  "tu means but",
-  "yatnena means carefully",
-  "sparśaṃ tasya means his touch",
-  "na kārayet means let one not cause"
+  "The verse gives veda-rāma-aśvi numbers.",
+  "It names best and so on.",
+  "It says three."
  ],
- "inference": "In an assembly, one should not carefully cause his touch.",
+ "inference": "Three best-and-so-on items are numbered by veda, rāma, and aśvi.",
  "uncertainties": [
-  "tasya referent unclear"
+  "The exact items are not named."
  ],
- "plain_english": "In an assembly, but carefully, one should not cause his touch."
+ "plain_english": "Three best-and-so-on items are numbered by veda, rāma, and aśvi."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1322,
- "question": "What ornamental and structural qualities define this four-peaked form?",
+ "question": "What is to be adorned above the adivasana pavilion?",
  "premises": [
-  "The structure is four-peaked",
-  "It is joined with various ornaments",
-  "This form is being described"
+  "vibhūṣya means adorn",
+  "ūrdhvam means above",
+  "adhivāsanamaṇḍapam means adivasana pavilion"
  ],
- "inference": "This four-peaked structure is likewise adorned with various ornaments.",
- "uncertainties": [],
- "plain_english": "This four-peaked structure is likewise joined with various ornaments."
+ "inference": "The adivasana pavilion is to be adorned above.",
+ "uncertainties": [
+  "the object of adornment is implicit"
+ ],
+ "plain_english": "Adorning above the adivasana pavilion."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1309,
- "question": "How should the peak, cell, and cage elements be arranged in this context?",
+ "question": "What herbs, metals, seeds, and implements are required?",
  "premises": [
-  "Peak, cell, and cage are the elements to be arranged",
-  "The arrangement follows prior rules",
-  "A prescriptive instruction is given"
+  "sarvauṣadhīḥ means all herbs",
+  "dhātubīja means metals seeds",
+  "loha means iron etc",
+  "musalādikam means pestle etc"
  ],
- "inference": "One should arrange the peak, cell, and cage as before.",
- "uncertainties": [],
- "plain_english": "One should arrange the peak, the cell, and the cage as before."
+ "inference": "All herbs, metal seeds, iron, and pestle-like implements are required.",
+ "uncertainties": [
+  "loha may stand for metals generally"
+ ],
+ "plain_english": "All herbs, metal seeds, iron, pestle and so on."
 }
