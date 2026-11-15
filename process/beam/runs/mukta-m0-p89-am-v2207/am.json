@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2207,
- "question": "How should all pots be filled?",
+ "question": "What ritual procedure is concluded by this statement?",
  "premises": [
-  "All pots are named.",
-  "Pure water is used.",
-  "Filling is prescribed."
+  "The preceding instructions form a complete sequence.",
+  "The sequence is identified as an oblation procedure.",
+  "The procedure is characterized as abridged."
  ],
- "inference": "Fill all pots with pure water.",
- "uncertainties": [
-  "Whether every pot receives identical water is not stated."
- ],
- "plain_english": "Fill all pots with pure water."
+ "inference": "The preceding instructions constitute the abridged procedure for oblation.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the abridged procedure for oblation."
 }

@@ -1,0 +1,482 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2163,
+   "rows": [
+    {
+     "surface": "nāgaḥ",
+     "gloss": "serpent",
+     "grounds": "names the nāga feature of the fire-pit",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What feature is identified as the nāga in the fire-pit?",
+   "premises": [
+    "The verse names nāga as a feature.",
+    "Nāga is identified in the context of the fire-pit."
+   ],
+   "inference": "The nāga is a specified element of the fire-pit.",
+   "uncertainties": [],
+   "plain_english": "It is the nāga."
+  },
+  {
+   "verse": 2164,
+   "rows": [
+    {
+     "surface": "khātādhike",
+     "gloss": "in-excess-digging",
+     "grounds": "locative compound indicating excessive excavation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "resultative verb expressing consequence",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "rogī",
+     "gloss": "sick",
+     "grounds": "predicate describing the afflicted state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khātahīne",
+     "gloss": "in-deficient-digging",
+     "grounds": "locative compound indicating insufficient excavation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhanakṣayaḥ",
+     "gloss": "loss-of-wealth",
+     "grounds": "compound naming the resulting misfortune",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What consequences follow from excessive or deficient digging of the fire-pit?",
+   "premises": [
+    "Excessive digging leads to sickness.",
+    "Deficient digging leads to loss of wealth.",
+    "The depth of excavation determines the outcome."
+   ],
+   "inference": "Incorrect digging of the fire-pit produces specific harmful consequences.",
+   "uncertainties": [],
+   "plain_english": "If the digging is excessive, one becomes sick; if the digging is deficient, there is loss of wealth."
+  },
+  {
+   "verse": 2165,
+   "rows": [
+    {
+     "surface": "mekhalārahite",
+     "gloss": "devoid-of-rims",
+     "grounds": "locative compound indicating absence of rims",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śoko",
+     "gloss": "sorrow",
+     "grounds": "names the resulting misfortune",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhike",
+     "gloss": "in-excess",
+     "grounds": "locative indicating excessive rims",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vittasaṃkṣayaḥ",
+     "gloss": "destruction-of-wealth",
+     "grounds": "compound naming the resulting misfortune",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What consequences follow from the absence or excess of rims in the fire-pit?",
+   "premises": [
+    "Absence of rims leads to sorrow.",
+    "Excess of rims leads to destruction of wealth.",
+    "The condition of the rims determines the outcome."
+   ],
+   "inference": "Improper formation of the rims produces specific harmful consequences.",
+   "uncertainties": [],
+   "plain_english": "If it is devoid of rims, there is sorrow; if there is excess, there is destruction of wealth."
+  },
+  {
+   "verse": 2166,
+   "rows": [
+    {
+     "surface": "apatyadhvaṃsanaṃ",
+     "gloss": "destruction-of-progeny",
+     "grounds": "compound naming the harmful consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating authoritative statement",
+     "morph": "n.nom.sg.past-passive-participle √vac"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "subject referring to the fire-pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṇṭhavivarjitam",
+     "gloss": "devoid-of-neck",
+     "grounds": "compound describing the defective pit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consequence is declared for a fire-pit lacking a neck?",
+   "premises": [
+    "A fire-pit may lack a neck.",
+    "Such a defect is said to have a consequence.",
+    "The declared consequence is destruction of progeny."
+   ],
+   "inference": "A fire-pit without a neck causes destruction of progeny.",
+   "uncertainties": [],
+   "plain_english": "A pit devoid of a neck is declared to cause the destruction of progeny."
+  },
+  {
+   "verse": 2167,
+   "rows": [
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "ordinal qualifier of the rim",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāmasī",
+     "gloss": "dark",
+     "grounds": "qualifies the third rim by quality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle indicating authoritative statement",
+     "morph": "f.nom.sg.past-passive-participle √vac"
+    },
+    {
+     "surface": "mekhalānāṃ",
+     "gloss": "of-rims",
+     "grounds": "specifies the set being determined",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vinirṇayaḥ",
+     "gloss": "determination",
+     "grounds": "names the concluding specification",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the third rim characterized in the determination of the rims?",
+   "premises": [
+    "The rims are being determined.",
+    "The third rim is specifically characterized.",
+    "It is declared to be dark."
+   ],
+   "inference": "The determination of the rims identifies the third rim as dark.",
+   "uncertainties": [],
+   "plain_english": "The third of the rims is declared to be dark; this is the determination of the rims."
+  },
+  {
+   "verse": 2168,
+   "rows": [
+    {
+     "surface": "utsedhāyāmato",
+     "gloss": "from-height-and-length",
+     "grounds": "ablative compound indicating basis of measurement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "jñeyāt",
+     "gloss": "should-be-known",
+     "grounds": "gerundive expressing what must be understood",
+     "morph": "n.abl.sg.gerundive √jñā"
+    },
+    {
+     "surface": "vekārddhāṃguli",
+     "gloss": "one-and-a-half-finger",
+     "grounds": "compound specifying the measurement; exact reading of vekā- uncertain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sammitā",
+     "gloss": "measured",
+     "grounds": "past participle indicating measured extent",
+     "morph": "f.nom.sg.past-passive-participle √mā"
+    }
+   ],
+   "question": "What measurement should be understood for the rim in height and length?",
+   "premises": [
+    "Height and length provide the basis of measurement.",
+    "The rim has a specified measure.",
+    "It should be known as one and a half fingers."
+   ],
+   "inference": "The rim is to be understood as measuring one and a half fingers in height and length.",
+   "uncertainties": [
+    "The element vekā- in vekārddhāṃguli is unclear in this context."
+   ],
+   "plain_english": "From height and length, it should be known to be measured as one and a half fingers."
+  },
+  {
+   "verse": 2169,
+   "rows": [
+    {
+     "surface": "hastamātramite",
+     "gloss": "measured-by-one-cubit",
+     "grounds": "locative compound specifying pit size",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-pit",
+     "grounds": "locative indicating the context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vedāgninayanāṃgulāḥ",
+     "gloss": "four-three-two-fingers",
+     "grounds": "compound giving rim measures by symbolic numbers veda-agni-nayana",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What finger measurements apply to the rims in a fire-pit measuring one cubit?",
+   "premises": [
+    "The fire-pit measures one cubit.",
+    "The rims have specified finger measurements.",
+    "The measurements are four, three, and two fingers."
+   ],
+   "inference": "In a one-cubit fire-pit, the rims measure four, three, and two fingers.",
+   "uncertainties": [],
+   "plain_english": "In a pit measuring one cubit, the rims are four, three, and two fingers."
+  },
+  {
+   "verse": 2170,
+   "rows": [
+    {
+     "surface": "caturhaste",
+     "gloss": "in-four-cubits",
+     "grounds": "locative compound specifying pit size",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tā",
+     "gloss": "they",
+     "grounds": "refers back to the rims",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "should-be-known",
+     "grounds": "gerundive expressing what must be understood",
+     "morph": "f.nom.pl.gerundive √jñā"
+    },
+    {
+     "surface": "vasutarkayugāṃgulāḥ",
+     "gloss": "eight-six-four-fingers",
+     "grounds": "compound giving rim measures by symbolic numbers vasu-tarka-yuga",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What finger measurements apply to the rims in a fire-pit measuring four cubits?",
+   "premises": [
+    "The fire-pit measures four cubits.",
+    "The rims have specified finger measurements.",
+    "The measurements are eight, six, and four fingers."
+   ],
+   "inference": "In a four-cubit fire-pit, the rims measure eight, six, and four fingers.",
+   "uncertainties": [],
+   "plain_english": "But in a pit of four cubits, they should be known as eight, six, and four fingers."
+  },
+  {
+   "verse": 2171,
+   "rows": [
+    {
+     "surface": "vistārotsedhato",
+     "gloss": "by-breadth-and-height",
+     "grounds": "ablative compound indicating basis of determination",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "should-be-known",
+     "grounds": "gerundive expressing what must be understood",
+     "morph": "f.nom.pl.gerundive √jñā"
+    },
+    {
+     "surface": "mekhalāḥ",
+     "gloss": "rims",
+     "grounds": "subject being determined",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvato",
+     "gloss": "on-all-sides",
+     "grounds": "adverb indicating comprehensive application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "agent who should know the determination",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By what criteria should the wise determine the rims of the fire-pit on all sides?",
+   "premises": [
+    "The rims must be determined by the wise.",
+    "Breadth and height provide the criteria.",
+    "The determination applies on all sides."
+   ],
+   "inference": "The wise should determine the rims on all sides according to breadth and height.",
+   "uncertainties": [],
+   "plain_english": "The wise should know the rims on all sides according to breadth and height."
+  },
+  {
+   "verse": 2172,
+   "rows": [
+    {
+     "surface": "mekhalānāṃ",
+     "gloss": "of-rims",
+     "grounds": "specifies whose inner part is described",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "inside",
+     "grounds": "adverb indicating inner location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parito",
+     "gloss": "all-around",
+     "grounds": "adverb indicating surrounding extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nemir",
+     "gloss": "rim",
+     "grounds": "names the inner edge or felly",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṃgulā",
+     "gloss": "one-finger",
+     "grounds": "specifies the measure of the inner rim",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What measurement is prescribed for the inner edge of the rims all around?",
+   "premises": [
+    "The rims have an inner edge.",
+    "This edge extends all around inside.",
+    "Its prescribed measure is one finger."
+   ],
+   "inference": "The inner edge of the rims should measure one finger all around.",
+   "uncertainties": [],
+   "plain_english": "Inside the rims, there should be an edge of one finger all around."
+  },
+  {
+   "verse": 2173,
+   "rows": [
+    {
+     "surface": "nābhiyonyor",
+     "gloss": "of-navel-and-womb",
+     "grounds": "dual compound referring to two parts of the pit",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "ekamānasya",
+     "gloss": "of-one-measure",
+     "grounds": "compound indicating equal measurement",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dṛṣṭatvāt",
+     "gloss": "because-of-being-seen",
+     "grounds": "ablative abstract noun giving reason from observation",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why should the navel and womb of the fire-pit be made of one measure?",
+   "premises": [
+    "The navel and womb are parts of the fire-pit.",
+    "They are observed to have one measure.",
+    "This observation provides the reason for the prescription."
+   ],
+   "inference": "Because they are observed to be of one measure, the navel and womb should be made equal.",
+   "uncertainties": [],
+   "plain_english": "Because the navel and the womb are seen to be of one measure."
+  },
+  {
+   "verse": 2174,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing the action",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "gajoṣṭhavat",
+     "gloss": "like-elephant-lip",
+     "grounds": "comparative compound indicating shape",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāntu",
+     "gloss": "them-but",
+     "grounds": "pronoun referring to navel and womb with contrastive particle fused in text",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kuṇḍavit",
+     "gloss": "knower-of-pit",
+     "grounds": "compound naming the expert agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvalakṣaṇam",
+     "gloss": "with-all-characteristics",
+     "grounds": "compound indicating completeness of proper features",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the expert in fire-pits shape the navel and womb with all proper characteristics?",
+   "premises": [
+    "The knower of the fire-pit performs the construction.",
+    "The navel and womb must be shaped properly.",
+    "They should be made like an elephant's lip with all characteristics."
+   ],
+   "inference": "The expert should shape the navel and womb like an elephant's lip, endowed with all proper characteristics.",
+   "uncertainties": [
+    "The exact intended shape of gajoṣṭhavat is context-dependent."
+   ],
+   "plain_english": "The knower of the pit should make them like an elephant's lip, with all the proper characteristics."
+  }
+ ]
+}

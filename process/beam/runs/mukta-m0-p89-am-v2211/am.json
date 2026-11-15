@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2211,
- "question": "Who recites the hymns to the deity in sequence?",
+ "question": "By what means should the ritual fire be kindled?",
  "premises": [
-  "Guru is named.",
-  "Deity is named.",
-  "Those hymns are named.",
-  "Sequence is specified."
+  "A mantra is used as the means.",
+  "The fire is the object of the action.",
+  "Kindling is prescribed as a ritual act."
  ],
- "inference": "The guru recites those hymns to the deity in sequence.",
+ "inference": "One should kindle the fire with a mantra.",
  "uncertainties": [
-  "Which hymns are included is not specified."
+  "The specific mantra to be used is not named in this verse."
  ],
- "plain_english": "The guru recites those hymns to the deity in sequence."
+ "plain_english": "One should kindle the fire with a mantra."
 }
