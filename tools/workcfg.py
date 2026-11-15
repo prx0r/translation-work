@@ -1310,22 +1310,50 @@ def parse_t1md(source: Path) -> tuple[dict[int, tuple[list[str], list[int]]], li
 
 
 def parse_ghata(source: Path) -> tuple[dict[int, tuple[list[str], list[int]]], list[tuple[int, str]]]:
-    """Parse GRETIL Ghatakarpara verses (21 single-line `// Ghk_N //` verses).
+    """Parse GRETIL Ghatakarpara: 21 TWO-pāda verses, not single-line.
 
-    Returns verse 1..21 -> (tokens, [ln, ln]). Vivrti prose (GhkV_) skipped.
+    Each verse is a pāda line ending in `/` plus the marker line closing with
+    `// Ghk_N //`::
+
+        13: chādite dinakarasya ... śokabhāvane /          <- pāda 1
+        14: manmathe ca hṛdi ... udyate // Ghk_1 //        <- pāda 2 + marker
+
+    (2026-11-15 fix.) The earlier version read only the marker line, silently
+    dropping the FIRST PĀDA OF ALL 21 VERSES — source spans covered half a
+    verse, which is what the Ghatakarpara source-coverage hold records ("all 21
+    numbered verses require upstream repair"). It also meant `emit_scholar`
+    would reconstruct incomplete Sanskrit if the hold were lifted.
+
+    The pāda line is the nearest preceding line ending in `/`; `GhkV_`
+    commentary resets it so prose never attaches to a verse. All 21 markers
+    verified to have exactly one such pāda line.
+
+    Returns verse 1..21 -> (tokens, [first_ln, marker_ln]).
     """
     raw = source.read_text(encoding="utf-8").splitlines()
     verses: dict[int, tuple[list[str], list[int]]] = {}
+    pada_text: str | None = None
+    pada_ln = 0
     for i, ln in enumerate(raw):
+        if re.search(r"GhkV_", ln):          # commentary: close any open verse
+            pada_text, pada_ln = None, 0
+            continue
         m = re.search(r"//\s*Ghk_(\d+)\s*//\s*$", ln)
-        if not m or re.search(r"GhkV_", ln):
+        if m:
+            n = int(m.group(1))
+            if 1 <= n <= 21 and n not in verses:
+                toks: list[str] = []
+                for t in (pada_text, ln[:m.start()]):
+                    if not t:
+                        continue
+                    for w in re.sub(r"\|\|", " ", t).split():
+                        if w not in ("|", "/"):
+                            toks.append(w)
+                verses[n] = (toks, [pada_ln or (i + 1), i + 1])
+            pada_text, pada_ln = None, 0
             continue
-        n = int(m.group(1))
-        if not 1 <= n <= 21 or n in verses:
-            continue
-        pre = ln[:m.start()]
-        toks = [w for w in re.sub(r"\|\|", " ", pre).split() if w not in ("|", "/")]
-        verses[n] = (toks, [i + 1, i + 1])
+        if ln.strip().rstrip().endswith("/"):
+            pada_text, pada_ln = ln, i + 1
     return verses, []
 
 
