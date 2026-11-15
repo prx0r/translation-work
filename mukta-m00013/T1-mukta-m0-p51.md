@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[having-sipped](ācamya) [thus](evaṃ) [chinnamasta](chinnamastāṃ) [after-a-year](vatsarāt) [her](tāṃ) [one-beholds](prapaśyati)
+[having-sipped](ācamya) [thus](evaṃ) [Chinnamastā](chinnamastāṃ) [after-a-year](vatsarāt) [her](tāṃ) [one-sees](prapaśyati)
 
 ## mukta-m0-p51-v1252
-[this](eṣā) [brahman](brahma) [nature](svarūpā) [indeed](hi) [seed](bīja) [sixfold](ṣoḍhā) [is-proclaimed](prakīrtitā)
+[this](eṣā) [Brahman+nature](brahma+svarūpā) [indeed](hi) [seed+borne](bīja+ṣoḍhā) [is-proclaimed](prakīrtitā)
 
 ## mukta-m0-p51-v1253
-[living](jīvan) [liberated](muktā) [ten](daśa) [years-from](abdataḥ)
+[living+liberated](jīvan+muktā) [state](daśā) [from-ten-years](abdataḥ)
 
 ## mukta-m0-p51-v1254
-[to-the-feet](pādayoḥ) [svaha](svāhā) [to-the-power](śaktaye) [obeisance](namaḥ)
+[of-the-feet](pādayoḥ) [svāhā](svāhā) [to-the-power](śaktaye) [obeisance](namaḥ)
 
 ## mukta-m0-p51-v1255
-[thus](iti) [beginning-with](ādi) [from-the-statement](vākyāt) [on-hands](kara) [and-limbs](aṅgeṣu) [with-pranava](praṇava) [joined](saṃvalitaḥ) [placement](nyāsaḥ)
+[thus+etc.+statement](iti+ādi+vākyāt) [in-hands+and-limbs](kara+aṅgeṣu) [with-praṇava+joined](praṇava+saṃvalitaḥ) [placement](nyāsaḥ)
 
 ## mukta-m0-p51-v1256
-[times](vāra) [three](trayaṃ) [one-should-place](nyaset)
+[three+times](vāra+trayaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p51-v1257
-[chinnamasta](chinnamastāṃ) [in-hand](kare) [left](vāme) [holding](dhārayantīṃ) [own](sva) [head](mastakam)
+[Chinnamastā](chinnamastāṃ) [in-hand](kare) [left](vāme) [holding](dhārayantīṃ) [own+head](sva+mastakam)
 
 ## mukta-m0-p51-v1258
-[immediately](sadyaḥ) [her](tasya) [head](śiraḥ) [having-cut](chittvā) [goddess](devī) [drinks](pibati) [blood](śoṇitam)
+[immediately](sadyas) [of-him](tasya) [head](śiraḥ) [having-cut](chittvā) [goddess](devī) [drinks](pibati) [blood](śoṇitam)
 
 ## mukta-m0-p51-v1259
-[thus](iti) [of-her](asyāḥ) [worship](pūjā) [diagram](yantram)
+[thus](iti) [of-her](asyāḥ) [worship+diagram](pūjā+yantram)
 
 ## mukta-m0-p51-v1260
-[to-be-meditated](dhyeyam) [this](etat) [of-ascetics](yatīnām) [and](ca) [of-householders](gṛhasthānaṃ) [listen](niśāmaya)
+[to-be-meditated](dhyeyam) [this](etat) [of-ascetics](yatīnām) [and](ca) [of-householders](gṛhasthānāṃ) [listen](niśāmaya)
 
 ## mukta-m0-p51-v1261
 [one-should-do](kuryāt)
 
 ## mukta-m0-p51-v1262
-[in-lotus](padma) [middle](madhye) [with-rati](rati) [and-kama](kāmābhyām)
+[in-lotus+middle](padma+madhye) [with-Rati+and-Kāma](rati+kāmābhyām)
 
 ## mukta-m0-p51-v1263
-[then](tataḥ) [again](punaḥ) [having-meditated](dhyātvā) [one-should-invoke](āvāhayet)
+[then](tataḥ) [again](punar) [having-meditated](dhyātvā) [one-should-invoke](āvāhayet)
 
 ## mukta-m0-p51-v1264
-[svaha](svāhā) [thus](iti) [with-mantra](mantreṇa)
+[svāhā](svāhā) [thus](iti) [with-mantra](mantreṇa)
 
 ## mukta-m0-p51-v1265
-[everywhere](sarvatra) [indeed](eva) [with-pranava](praṇava) [beginning](ādi) [obeisance](namaḥ) [ending](antena) [one-should-worship](pūjayet)
+[everywhere](sarvatra) [indeed](eva) [with-praṇava+beginning+namaḥ+ending](praṇava+ādi+namo+'ntena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p51-v1266
-[brahman](brahma) [womb](yoni) [arisen-from](samutpanne) [go](gaccha) [goddess](devi) [my](mama) [interior](antaram)
+[from-Brahman+womb](brahma+yoni) [arisen](samutpanne) [go](gaccha) [goddess](devi) [my+interior](mama+antaram)
 
 ## mukta-m0-p51-v1267
-[because-of-being](tvāt) [accomplished](siddha) [knowledge](vidyā)
+[because-of-being-accomplished-knowledge](siddha+vidyātvāt)
 
 ## mukta-m0-p51-v1268
-[or](athavā) [with-honey](madhu) [drinking-etc](pānādyaiḥ) [with-sweet](madhuraiḥ) [offering](vibhava) [sequences](kramaiḥ)
+[or](athavā) [with-honey+drinking+etc.](madhu+pānā+ādyaiḥ) [with-sweet](madhuraiḥ) [with-offering+sequence](vibhava+kramaiḥ)
 
 ## mukta-m0-p51-v1269
-[offering](bali) [mantra](mantraḥ) [is-declared](samākhyātaḥ) [worshipped](pūjitaḥ) [this](ayam) [o-lord-of-gods](sureśvara) [thus](iti)
+[offering+mantra](bali+mantraḥ) [is-declared](samākhyātaḥ) [worshipped](pūjitaḥ) [this](ayaṃ) [O-lord-of-gods](sureśvara) [thus](iti)
 
 ## mukta-m0-p51-v1270
-[in-vajravairocaniya](vajravairocanīye) [and](ca) [hum](hūṃ) [phat](phaṭ) [svaha](svāhā) [then](tataḥ) [after](param)
+[in-Vajravairocanīya](vajravairocanīye) [and](ca) [hūṃ phaṭ svāhā](hūṃ phaṭ svāhā) [then](tataḥ) [after](param)
 
 ## mukta-m0-p51-v1271
-[placement](nyāsa) [worship](pūjā) [etc](ādikaṃ) [like-shodashi](ṣoḍaśī) [as](vat) [to-be-done](kāryam)
+[placement+worship+etc.](nyāsa+pūjā+ādikaṃ) [like-Ṣoḍaśī](ṣoḍaśī+vat) [to-be-done](kāryam)
 
 ## mukta-m0-p51-v1272
-[of-her](asyāḥ) [worship](pūjā) [etc](ādikam) [all](sarvaṃ) [like-shodashi](ṣoḍaśī) [as](vat) [to-be-done](kāryam)
+[of-her](asyāḥ) [worship+etc.](pūjā+ādikaṃ) [all](sarvaṃ) [like-Ṣoḍaśī](ṣoḍaśī+vat) [to-be-done](kāryam)
 
 ## mukta-m0-p51-v1273
-[of-her](asya) [also](api) [meditation](dhyāna) [worship](pūjā) [etc](ādikam) [all](sarvaṃ) [like-shodashi](ṣoḍaśī) [as](vat) [to-be-done](kāryam)
+[of-her-also](asyā+api) [meditation+worship+etc.](dhyāna+pūjā+ādikaṃ) [all](sarvaṃ) [like-Ṣoḍaśī](ṣoḍaśī+vat) [to-be-done](kāryam)
 
 ## mukta-m0-p51-v1274
-[with-tara](tārā) [beginning](ādyā) [ending](antā) [becomes](bhavati) [this](eṣā) [four](catur) [aims](varga) [fruit](phala) [giving](pradā)
+[beginning-with-tārā+ending-with](tārā+ādi+antā) [becomes](bhavati) [this](eṣā) [four+goals+fruit+giving](catur+varga+phala+pradā)
 
 ## mukta-m0-p51-v1275
-[meditation](dhyāna) [worship](pūjā) [etc](ādikam) [all](sarvaṃ) [like-shodashi](ṣoḍaśī) [as](vat) [one-should-practice](samācaret)
+[meditation+worship+etc.](dhyāna+pūjā+ādikaṃ) [all](sarvaṃ) [like-Ṣoḍaśī](ṣoḍaśī+vat) [one-should-practice](samācaret)
