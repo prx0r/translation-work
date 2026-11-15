@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[mountain](girer) [north-east-part](aiśānya-bhāge) [but](tu) [kānnaka](kānnakaṃ) [name](nāma) [indeed](vai) [lake](saraḥ)
+[on-the-mountain](girer) [of-īśāna](aiśānya-) [in-the-part](bhāge) [indeed](tu) [kānnaka](kānnakaṃ) [named](nāma) [indeed](vai) [lake](saraḥ)
 
 ## mukta-m0-p122-v3027
-[of-that](tasya) [north-east-part](uttara-pūrva-bhāge) [śiva-viṣṇu-GEN](śiva-viṣṇoḥ) [cave-pair](bila-dvayam)
+[of-that](tasya) [north-eastern](uttara-pūrva-) [in-the-part](bhāge) [of-śiva-and-viṣṇu](śiva-viṣṇoḥ) [twin-cave](bila-dvayam)
 
 ## mukta-m0-p122-v3028
-[gaṅgā-pool](gaṅgā-kuṇḍaṃ) [but](tu) [there-only](tatra+eva) [bow-sixteen](dhanuḥ-ṣoḍaśakaṃ) [measured](mitam)
+[gaṅgā-kuṇḍa](gaṅgā-kuṇḍaṃ) [indeed](tu) [there-only](tatra-eva) [of-bow](dhanuḥ-) [sixteen](ṣoḍaśa-) [measured](mitam)
 
 ## mukta-m0-p122-v3029
-[in-that](tasyāṃ) [direction](diśi) [haviṣya-eater](haviṣya-āśī) [self-controlled](saṃyatastad) [day](dinaṃ) [should-spend](nayet)
+[in-that-direction](tasyāṃ) [diśi](diśi) [with-haviṣya-food](haviṣya-āśī) [self-restrained](saṃyataḥ) [that](tat) [day](dinam) [should-pass](nayet)
 
 ## mukta-m0-p122-v3030
-[from-then](tataḥ) [other-day](anya-divase) [having-arrived](prāpte) [should-go](gacchet) [nakṣatra-mountain](nakṣatra-parvatam)
+[then](tataḥ) [on-another-day](anya-divase) [having-arrived](prāpte) [one-should-go](gacchet) [to-nakṣatra-mountain](nakṣatra-parvatam)
 
 ## mukta-m0-p122-v3031
-[in-south](dakṣiṇe) [rasa-peak-GEN](rasa-kūṭasya) [not](na) [very-far](ati-dūre) [situated](vyavasthitā)
+[to-the-south](dakṣiṇe) [of-rasakūṭa](rasakūṭasya) [not-very-far](na-ati-dūre) [situated](vyavasthitā)
 
 ## mukta-m0-p122-v3032
-[she](sā) [but](tu) [flower-river](puṣpa-nadī) [famous](khyātā) [all-sin-removing](sarva-pāpa-pramocanī)
+[she](sā) [indeed](tu) [puṣpanadī](puṣpa-nadī) [famous](khyātā) [all-sin](sarva-pāpa-) [removing](pramocanī)
 
 ## mukta-m0-p122-v3033
-[complete-māgha-month](sampūrṇa-māgha-māse) [but](tu) [having-bathed](snātvā) [viṣṇu-city](viṣṇu-purīṃ) [should-go](vrajet)
+[in-the-full](sampūrṇa-) [māgha-month](māgha-māse) [indeed](tu) [having-bathed](snātvā) [to-viṣṇupurī](viṣṇu-purīm) [one-should-go](vrajet)
 
 ## mukta-m0-p122-v3034
-[of-dvāpara](dvāparasya) [but](tu) [that](sā) [gaṅgā](gaṅgā) [viṣṇu-peak-born](viṣṇu-kūṭa-samudbhavā)
+[of-dvāpara](dvāparasya) [indeed](tu) [that](sā) [gaṅgā](gaṅgā) [viṣṇukūṭa](viṣṇu-kūṭa-) [arisen-from](samudbhavā)
 
 ## mukta-m0-p122-v3035
-[that](tat) [at-tirtha](tīrthe) [shaving](muṇḍanaṃ) [should-do](kuryāt) [earth-field](mahī-kṣetre) [but](tu) [joined](saṅgataḥ)
+[at-that](tat) [tīrtha](tīrthe) [shaving](muṇḍanam) [one-should-do](kuryāt) [in-mahīkṣetra](mahī-kṣetre) [indeed](tu) [having-joined](saṅgataḥ)
 
 ## mukta-m0-p122-v3036
-[there](tatra) [bathing](snānaṃ) [japa](japaḥ) [homa](homaḥ) [all](sarvam) [imperishability](akṣayatāṃ) [should-go](vrajet)
+[there](tatra) [bathing](snānam) [japa](japaḥ) [offering](homaḥ) [all](sarvam) [to-imperishability](akṣayatām) [goes](vrajet)
 
 ## mukta-m0-p122-v3037
-[in-this-world](iha-loke) [indeed](hi) [disease-free](arogī) [may-be](syāt) [afterward](śeṣe) [śiva-city](śiva-puraṃ) [should-go](vrajet)
+[in-this](iha) [world](loke) [indeed](hi) [free-from-illness](arogī) [one-may-be](syāt) [afterwards](śeṣe) [to-śiva-city](śiva-puram) [one-should-go](vrajet)
 
 ## mukta-m0-p122-v3038
-[she](sā) [to-be-known](jñeyā) [impurity-stream](mala-dhārā) [and](ca) [having-bathed](snātvā) [there](tatra) [and](ca) [sinner](kilviṣī)
+[she](sā) [to-be-known](jñeyā) [maladhārā](mala-dhārā) [indeed](ca) [having-bathed](snātvā) [there](tatra) [indeed](ca) [sinner](kilviṣī)
 
 ## mukta-m0-p122-v3039
-[by-negligence](pramādāt) [bathing-only](snāna-mātreṇa) [pauṣpaka](pauṣpakaṃ) [bathing](snānam) [should-perform](ācaret)
+[by-negligence](pramādāt) [by-bathing-only](snāna-mātreṇa) [pauṣpaka](pauṣpakam) [bathing](snānam) [one-should-perform](ācaret)
 
 ## mukta-m0-p122-v3040
-[this](etat) [merit-making](puṇya-karaṃ) [field](kṣetraṃ) [of-bhārgava](bhārgavasya) [great-souled](mahā-ātmanaḥ)
+[this](etat) [merit-making](puṇya-karam) [field](kṣetram) [of-bhārgava](bhārgavasya) [great-souled](mahā-ātmanaḥ)
 
 ## mukta-m0-p122-v3041
-[candrikā](candrikā) [and](ca) [river](nadī) [holy](puṇyā) [of-that](tasya) [of-field](kṣetrasya) [to-east](pūrvataḥ)
+[candrikā](candrikā) [indeed](ca) [river](nadī) [holy](puṇyā) [of-that](tasya) [kṣetra](kṣetrasya) [to-the-east](pūrvataḥ)
 
 ## mukta-m0-p122-v3042
-[of-that](tasya) [east-north](pūrva-uttare) [part](bhāge) [linga](liṅgaṃ) [indeed](vai) [kṛttivāsa](kṛtti-vāsasam)
+[of-that](tasya) [north-eastern](pūrva-uttare) [in-the-part](bhāge) [liṅga](liṅgam) [indeed](vai) [kṛttivāsas](kṛtti-vāsasam)
 
 ## mukta-m0-p122-v3043
-[in-candrikā](candrikāyāṃ) [man](naraḥ) [having-bathed](snātvā) [having-worshipped](sampūjya) [kṛttivāsa](kṛtti-vāsasam)
+[in-candrikā](candrikāyām) [person](naraḥ) [having-bathed](snātvā) [having-worshipped](sampūjya) [kṛttivāsas](kṛtti-vāsasam)
 
 ## mukta-m0-p122-v3044
-[krośa-interval](krośa-antare) [o-maheśānī](maheśāni) [east-part](pūrva-bhāge) [situated](vyavasthitā)
+[at-krośa-distance](krośa-antare) [o-great-goddess](mahā-īśāni) [eastern](pūrva-) [in-the-part](bhāge) [situated](vyavasthitā)
 
 ## mukta-m0-p122-v3045
-[in-phenilā](phenilāyāṃ) [man](naraḥ) [having-bathed](snātvā) [in-phālguna](phālgune) [and](ca) [especially](viśeṣataḥ)
+[in-phenilā](phenilāyām) [person](naraḥ) [having-bathed](snātvā) [in-phālguna](phālgune) [indeed](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p122-v3046
-[in-sukṛtārghya](sukṛta-arghye) [situated](sthitā) [holy](puṇyā) [river](nadī) [sin-destroying](pāpa-praṇāśinī)
+[sukṛtārghya](sukṛta-arghye) [situated](sthitā) [holy](puṇyā) [river](nadī) [sin](pāpa-) [destroying](praṇāśinī)
 
 ## mukta-m0-p122-v3047
-[in-caitra](caitre) [and](ca) [according-to-rule](vidhivat) [having-bathed](snātvā) [gaṅgā-bath-fruit](gaṅgā-snāna-phalaṃ) [should-obtain](labhet)
+[in-caitra](caitre) [indeed](ca) [according-to-rule](vidhivat) [having-bathed](snātvā) [of-gaṅgā-bathing](gaṅgā-snāna-) [fruit](phalam) [one-obtains](labhet)
 
 ## mukta-m0-p122-v3048
-[in-māgha-bright-fourth](māgha-śukla-caturthyām) [but](tu) [having-worshipped](pūjayitvā) [maheśvara](maheśvaram)
+[on-māgha-bright-fourth](māgha-śukla-caturthyām) [indeed](tu) [having-worshipped](pūjayitvā) [maheśvara](maheśvaram)
 
 ## mukta-m0-p122-v3049
-[three-currents](tri-srotā) [and](ca) [river](nadī) [there](tatra) [in-south](dakṣiṇasyāṃ) [situated](vyavasthitā)
+[trisrotā](tri-srotā) [indeed](ca) [river](nadī) [there](tatra) [to-the-south](dakṣiṇasyām) [situated](vyavasthitā)
 
 ## mukta-m0-p122-v3050
-[kṣīroda](kṣīrodaḥ) [and](ca) [maheśa](maheśaḥ) [and](ca) [cave-middle](guhā-madhye) [situated](vyavasthitaḥ)
+[kṣīroda](kṣīrodaḥ) [and-maheśa](ca-maheśaḥ) [and](ca) [in-cave-middle](guhā-madhye) [situated](vyavasthitaḥ)

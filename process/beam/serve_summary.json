@@ -1,18 +1,25 @@
 {
- "generated": "2026-11-15T05:12:25+00:00",
+ "generated": "2026-11-15T06:20:27+00:00",
  "summary": {
   "works": 1,
-  "served": [],
-  "audited": 0,
-  "unserved": 1,
-  "no_projection": 1,
-  "empty_projection": 0,
-  "unserved_works": [
-   "tantraloka-a27"
+  "served": [
+   {
+    "work": "ipvv",
+    "audited": true,
+    "source": true,
+    "proj_src": 5,
+    "traces": 49,
+    "verify": 98,
+    "claims": 98,
+    "served": true
+   }
   ],
+  "audited": 1,
+  "unserved": 0,
+  "no_projection": 0,
+  "empty_projection": 0,
+  "unserved_works": [],
   "empty_projection_works": [],
-  "no_projection_works": [
-   "tantraloka-a27"
-  ]
+  "no_projection_works": []
  }
 }
