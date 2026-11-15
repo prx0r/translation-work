@@ -20,7 +20,7 @@
 },
 {
 "surface": "viśeṣakam",
-"quick_gloss": "distinguished"
+"quick_gloss": "distinguishing"
 }
 ]
 },
@@ -37,7 +37,7 @@
 },
 {
 "surface": "ramaṇa+arthe",
-"quick_gloss": "delight+for-the-sake"
+"quick_gloss": "delight+for-the-sake-of"
 },
 {
 "surface": "api",
@@ -45,11 +45,11 @@
 },
 {
 "surface": "para+śaktiṃ",
-"quick_gloss": "other+power"
+"quick_gloss": "supreme+power"
 },
 {
 "surface": "ramet",
-"quick_gloss": "should-enjoy"
+"quick_gloss": "should-delight"
 },
 {
 "surface": "śive",
@@ -70,7 +70,7 @@
 },
 {
 "surface": "para+śaktiṃ",
-"quick_gloss": "other+power"
+"quick_gloss": "supreme+power"
 },
 {
 "surface": "vā",
@@ -86,7 +86,7 @@
 },
 {
 "surface": "ramet",
-"quick_gloss": "should-enjoy"
+"quick_gloss": "should-delight"
 },
 {
 "surface": "śivām",
@@ -140,7 +140,7 @@
 },
 {
 "surface": "pūjana+mātreṇa",
-"quick_gloss": "worship+mere"
+"quick_gloss": "worship+merely-by"
 },
 {
 "surface": "ramā",
@@ -181,7 +181,7 @@
 },
 {
 "surface": "mukhena",
-"quick_gloss": "by-mouth"
+"quick_gloss": "with-mouth"
 },
 {
 "surface": "bhakti+bhāg",
@@ -206,7 +206,7 @@
 },
 {
 "surface": "yoni+garte",
-"quick_gloss": "vulva+cavity"
+"quick_gloss": "womb+cavity"
 },
 {
 "surface": "liṅgaṃ",
@@ -392,7 +392,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "and"
 },
 {
 "surface": "jātiḥ",
@@ -400,7 +400,7 @@
 },
 {
 "surface": "ca+aṣṭau",
-"quick_gloss": "and-eight"
+"quick_gloss": "eight"
 },
 {
 "surface": "pāśāḥ",
@@ -421,15 +421,15 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "that"
+"quick_gloss": "he"
 },
 {
 "surface": "jīvaḥ",
 "quick_gloss": "soul"
 },
 {
-"surface": "parama+īśāni",
-"quick_gloss": "O-supreme-goddess"
+"surface": "parameśāni",
+"quick_gloss": "O-Supreme-Goddess"
 },
 {
 "surface": "śiva",
@@ -540,7 +540,7 @@
 },
 {
 "surface": "ramaṇa+ādinā",
-"quick_gloss": "by-delight+and-so-on"
+"quick_gloss": "by-delight+and-so-forth"
 }
 ]
 },
@@ -553,7 +553,7 @@
 "tokens": [
 {
 "surface": "kara+sthaṃ",
-"quick_gloss": "in-hand"
+"quick_gloss": "in-hand+standing"
 },
 {
 "surface": "kaustubhaṃ",
@@ -598,7 +598,7 @@
 },
 {
 "surface": "bhojana+ādiṣu",
-"quick_gloss": "in-eating+and-so-on"
+"quick_gloss": "in-eating+and-so-forth"
 }
 ]
 },
@@ -611,7 +611,7 @@
 "tokens": [
 {
 "surface": "sukha+duḥkha+ādayaḥ",
-"quick_gloss": "happiness+suffering+and-so-on"
+"quick_gloss": "pleasure+pain+and-so-forth"
 },
 {
 "surface": "sarve",
@@ -626,8 +626,8 @@
 "quick_gloss": "also"
 },
 {
-"surface": "mahā+īśvari",
-"quick_gloss": "O-great-goddess"
+"surface": "maheśvari",
+"quick_gloss": "O-Great-Goddess"
 }
 ]
 },
@@ -743,7 +743,7 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "O-goddess"
+"quick_gloss": "O-Goddess"
 },
 {
 "surface": "śiva+jñānaṃ",
@@ -771,20 +771,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātma+brahma+iti",
-"quick_gloss": "self+Brahman+thus"
+"surface": "ātma+brahma",
+"quick_gloss": "self+Brahman"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "saṃjñātvā",
 "quick_gloss": "having-known"
 },
 {
-"surface": "deva+brahma+iti",
-"quick_gloss": "god+Brahman+thus"
+"surface": "deva+brahma",
+"quick_gloss": "god+Brahman"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "bhāvayet",
-"quick_gloss": "should-conceive"
+"quick_gloss": "one-should-conceive"
 }
 ]
 }
