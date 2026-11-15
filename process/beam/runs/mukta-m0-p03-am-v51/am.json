@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p03",
  "verse": 51,
- "question": "What depth and pleasing quality must the excavated sacrificial pit possess?",
+ "question": "How are the initial syllables assigned in the first positions of successive groups?",
  "premises": [
-  "The pit is to be excavated.",
-  "Its depth is specified as fifteen fingers.",
-  "The pit should be made pleasing in appearance."
+  "The first syllable is placed in the first position of the first group.",
+  "The corresponding syllable is placed likewise in the first position of the second group."
  ],
- "inference": "One should have a pleasing pit excavated to a depth of fifteen fingers.",
- "uncertainties": [],
- "plain_english": "One should have a pleasing pit dug to a depth of fifteen fingers."
+ "inference": "A parallel placement rule governs the initial positions across groups.",
+ "uncertainties": [
+  "The exact referent of the groups depends on the preceding grid description."
+ ],
+ "plain_english": "In the first position of the first group place the first syllable, and likewise in the first position of the second group."
 }

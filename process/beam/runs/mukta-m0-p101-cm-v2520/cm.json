@@ -3,34 +3,49 @@
  "verse": 2520,
  "rows": [
   {
-   "lemma": "svarṇaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "noun"
-  },
-  {
-   "lemma": "dvādaśa+niṣkeṇa",
+   "lemma": "tatra",
    "morph": "(indecl.)",
-   "grounds": "compound instrumental"
+   "grounds": "in that context or place"
   },
   {
-   "lemma": "kūrmaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "noun"
+   "lemma": "madhya",
+   "morph": "compound-member",
+   "grounds": "central position"
   },
   {
-   "lemma": "kṛtvā",
+   "lemma": "sādhya",
+   "morph": "compound-member",
+   "grounds": "the person or object of the rite"
+  },
+  {
+   "lemma": "akṣara",
+   "morph": "compound-member",
+   "grounds": "letter or syllable of the target"
+  },
+  {
+   "lemma": "upetāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "accompanied by the target syllable"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "gerund"
+   "grounds": "negation"
   },
   {
-   "lemma": "tu",
+   "lemma": "anyatra",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "in another place"
   },
   {
-   "lemma": "nikṣipet",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative"
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "quotation or delimiting marker"
+  },
+  {
+   "lemma": "yāvat",
+   "morph": "(indecl.)",
+   "grounds": "indicates the scope of the rule"
   }
  ]
 }

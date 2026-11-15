@@ -1,0 +1,1089 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "prathamaprathame",
+     "gloss": "in-first-first",
+     "grounds": "locative compound indicating the first position of the first group",
+     "morph": "compound: prathama+prathama, m.loc.sg"
+    },
+    {
+     "surface": "tvādyaṃ",
+     "gloss": "but-first",
+     "grounds": "tu + ādyam; the initial syllable in that position",
+     "morph": "compound: tu+ādya, n.nom.sg"
+    },
+    {
+     "surface": "dvitīyaprathame",
+     "gloss": "in-second-first",
+     "grounds": "locative compound indicating the first position of the second group",
+     "morph": "compound: dvitīya+prathama, m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates the same procedure applies",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the initial syllables assigned in the first positions of successive groups?",
+   "premises": [
+    "The first syllable is placed in the first position of the first group.",
+    "The corresponding syllable is placed likewise in the first position of the second group."
+   ],
+   "inference": "A parallel placement rule governs the initial positions across groups.",
+   "uncertainties": [
+    "The exact referent of the groups depends on the preceding grid description."
+   ],
+   "plain_english": "In the first position of the first group place the first syllable, and likewise in the first position of the second group."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "tattakoṣṭheṣu",
+     "gloss": "in-those-cells",
+     "grounds": "locative plural referring to the respective cells of the diagram",
+     "morph": "compound: tat+koṣṭha, m.loc.pl"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe syllables",
+     "morph": "3.sg.optative-active, √likh"
+    },
+    {
+     "surface": "tattatpañcamam",
+     "gloss": "that-respective-fifth",
+     "grounds": "the fifth syllable corresponding to each case",
+     "morph": "compound: tat+tat+pañcama, n.acc.sg"
+    },
+    {
+     "surface": "akṣaram",
+     "gloss": "syllable",
+     "grounds": "object to be written in the cells",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which syllable must be written into each of those designated cells?",
+   "premises": [
+    "The instruction concerns writing in those specific cells.",
+    "The syllable to be written is the respective fifth one."
+   ],
+   "inference": "Each designated cell receives its corresponding fifth syllable.",
+   "uncertainties": [
+    "The counting basis for determining the fifth syllable is supplied by prior verses."
+   ],
+   "plain_english": "One should write the respective fifth syllable in those cells."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "prāguktāṃśakādi",
+     "gloss": "previously-stated-part-etcetera",
+     "grounds": "refers to portions and related elements mentioned earlier",
+     "morph": "compound: prāgukta+aṃśaka+ādi, n.nom.sg"
+    },
+    {
+     "surface": "anugraheṣu",
+     "gloss": "in-favorable-cases",
+     "grounds": "contexts of benefit or grace where the rule applies",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "avekṣaṇīyam",
+     "gloss": "to-be-considered",
+     "grounds": "must be taken into account",
+     "morph": "n.nom.sg, gerundive of ava+√īkṣ"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "glosses the intended sense of the preceding instruction",
+     "morph": "compound: iti+artha, m.nom.sg"
+    },
+    {
+     "surface": "|| 40 || 41 || 42",
+     "gloss": "verse-markers-40-41-42",
+     "grounds": "textual verse numbering markers",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What earlier elements must be taken into account in favorable applications?",
+   "premises": [
+    "Previously stated portions and related factors are relevant.",
+    "These factors must be considered in contexts of favor or benefit."
+   ],
+   "inference": "The application of the rule in favorable cases depends on the earlier specified elements.",
+   "uncertainties": [],
+   "plain_english": "This means that the previously stated portions and so on must be considered in favorable cases."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "p. 9",
+     "gloss": "page-9",
+     "grounds": "editorial page marker in the source text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "svanāmādyakṣaraṃ",
+     "gloss": "own-name-first-syllable",
+     "grounds": "the first syllable of one's own name",
+     "morph": "compound: sva+nāma+ādya+akṣara, n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "introduces the location in the diagram",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhe",
+     "gloss": "in-cell",
+     "grounds": "a cell of the diagram",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sandṛśyate",
+     "gloss": "is-seen",
+     "grounds": "is found or observed in that cell",
+     "morph": "3.sg.present-passive, sam+√dṛś"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "from-there",
+     "grounds": "from that determined position the result follows",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which cell position is the mantra's suitability for the practitioner determined?",
+   "premises": [
+    "One locates the cell where the first syllable of one's own name appears.",
+    "The outcome is determined starting from that cell."
+   ],
+   "inference": "The practitioner's name-syllable position in the grid establishes the basis for assessment.",
+   "uncertainties": [],
+   "plain_english": "Where the first syllable of one's own name is seen in a cell, the assessment proceeds from there."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "siddhasiddho",
+     "gloss": "accomplished-accomplished",
+     "grounds": "a mantra classified as siddha for a siddha practitioner",
+     "morph": "compound: siddha+siddha, m.nom.sg"
+    },
+    {
+     "surface": "japāt",
+     "gloss": "from-recitation",
+     "grounds": "through the act of recitation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "siddhyet",
+     "gloss": "would-succeed",
+     "grounds": "attains success or accomplishment",
+     "morph": "3.sg.optative-active, √sidh"
+    },
+    {
+     "surface": "dviguṇāt",
+     "gloss": "by-double",
+     "grounds": "with twice the amount of recitation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "siddhasādhyakaḥ",
+     "gloss": "accomplished-achievable",
+     "grounds": "a mantra classified as sādhya for a siddha practitioner",
+     "morph": "compound: siddha+sādhya, m.nom.sg"
+    }
+   ],
+   "question": "How do siddha-siddha and siddha-sādhya mantra classifications differ in required recitation?",
+   "premises": [
+    "A siddha-siddha mantra succeeds through recitation.",
+    "A siddha-sādhya mantra succeeds through double the recitation."
+   ],
+   "inference": "The siddha-sādhya classification requires twice the recitation effort of siddha-siddha.",
+   "uncertainties": [],
+   "plain_english": "A siddha-siddha mantra succeeds through recitation, while a siddha-sādhya mantra succeeds through double the recitation."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "vyākulakramāṇi",
+     "gloss": "confused-orders",
+     "grounds": "disordered or irregular sequences",
+     "morph": "compound: vyākula+krama, n.nom.pl"
+    },
+    {
+     "surface": "dṛśyanta",
+     "gloss": "are-seen",
+     "grounds": "are observed in usage or texts",
+     "morph": "3.pl.present-passive, √dṛś"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the explanatory statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamaproktakramaśabdasyā",
+     "gloss": "first-stated-order-word-of",
+     "grounds": "of the word 'order' mentioned earlier; sandhi before following token",
+     "morph": "compound: prathama+prokta+krama+śabda, m.gen.sg"
+    },
+    {
+     "surface": "rthaḥ",
+     "gloss": "meaning",
+     "grounds": "completes arthah split across sandhi boundary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "|| 46",
+     "gloss": "verse-marker-46",
+     "grounds": "textual verse numbering marker",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What meaning is assigned to the earlier term denoting order in this context?",
+   "premises": [
+    "Confused orders are observed.",
+    "This observation explains the meaning of the previously stated word for order."
+   ],
+   "inference": "The earlier term for order refers to sequences that may appear confused or irregular.",
+   "uncertainties": [
+    "The token is split as prathamaproktakramaśabdasyā and rthaḥ in the source."
+   ],
+   "plain_english": "Confused orders are seen; this is the meaning of the word 'order' stated earlier."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "sādhyasiddhe",
+     "gloss": "in-achievable-accomplished",
+     "grounds": "a mantra classified as siddha for a sādhya practitioner",
+     "morph": "compound: sādhya+siddha, m.loc.sg"
+    },
+    {
+     "surface": "atisaṃkleśāt",
+     "gloss": "from-great-distress",
+     "grounds": "only with extreme difficulty or strain",
+     "morph": "compound: ati+saṃkleśa, m.abl.sg"
+    },
+    {
+     "surface": "sādhyasādhyo",
+     "gloss": "achievable-achievable",
+     "grounds": "a mantra classified as sādhya for a sādhya practitioner",
+     "morph": "compound: sādhya+sādhya, m.nom.sg"
+    },
+    {
+     "surface": "atiduḥkhakṛt",
+     "gloss": "great-suffering-causing",
+     "grounds": "produces great suffering",
+     "morph": "compound: ati+duḥkha+kṛt, m.nom.sg"
+    }
+   ],
+   "question": "What difficulties arise from sādhya-siddha and sādhya-sādhya mantra classifications?",
+   "premises": [
+    "A sādhya-siddha mantra yields results only through great distress.",
+    "A sādhya-sādhya mantra causes great suffering."
+   ],
+   "inference": "Both classifications are unfavorable, with sādhya-sādhya being especially harmful.",
+   "uncertainties": [],
+   "plain_english": "In the sādhya-siddha case success comes only with great distress, while a sādhya-sādhya mantra causes great suffering."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "susiddhasiddho",
+     "gloss": "well-accomplished-accomplished",
+     "grounds": "a mantra classified as siddha for a susiddha practitioner",
+     "morph": "compound: susiddha+siddha, m.nom.sg"
+    },
+    {
+     "surface": "adhyayanāt",
+     "gloss": "from-study",
+     "grounds": "through study or recitation practice",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "the desired result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "would-give",
+     "grounds": "would bestow or yield",
+     "morph": "3.sg.optative-active, √dā"
+    },
+    {
+     "surface": "yathepsitam",
+     "gloss": "as-desired",
+     "grounds": "according to one's wish",
+     "morph": "compound: yathā+īpsita, n.acc.sg"
+    }
+   ],
+   "question": "What result does a susiddha-siddha mantra yield through study or recitation?",
+   "premises": [
+    "A susiddha-siddha mantra is effective through study.",
+    "It gives the fruit as desired."
+   ],
+   "inference": "The susiddha-siddha classification readily grants the wished-for result.",
+   "uncertainties": [],
+   "plain_english": "A susiddha-siddha mantra, through study, would give the desired fruit."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "susiddhe",
+     "gloss": "in-well-accomplished",
+     "grounds": "in the susiddha relation or case",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasiddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "already well established or effective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvajanmakṛtaśramaḥ",
+     "gloss": "previous-birth-done-effort",
+     "grounds": "one whose effort was made in a previous birth",
+     "morph": "compound: pūrva+janma+kṛta+śrama, m.nom.sg"
+    }
+   ],
+   "question": "Why is a mantra in the susiddha relation considered already accomplished for the practitioner?",
+   "premises": [
+    "In the susiddha case the mantra is already accomplished.",
+    "This accomplishment is due to effort made in a previous birth."
+   ],
+   "inference": "Prior-birth practice explains the immediate efficacy of a susiddha mantra.",
+   "uncertainties": [],
+   "plain_english": "But in the susiddha case it is indeed already accomplished, because of effort made in a previous birth."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "abhicāre",
+     "gloss": "in-hostile-rite",
+     "grounds": "in a malevolent ritual application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ripor",
+     "gloss": "of-enemy",
+     "grounds": "directed against an enemy",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in the manner described by the classifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces a conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svātmavipattaye",
+     "gloss": "for-own-self-destruction",
+     "grounds": "leading to the destruction of oneself",
+     "morph": "compound: sva+ātma+vipatti, f.dat.sg"
+    }
+   ],
+   "question": "Under what condition can a hostile rite against an enemy backfire on the practitioner?",
+   "premises": [
+    "The context is a hostile rite directed against an enemy.",
+    "The classifications described above determine whether it leads to one's own destruction."
+   ],
+   "inference": "An unfavorable mantra classification in hostile rites can result in self-destruction.",
+   "uncertainties": [
+    "The specific backfire outcome is detailed in the following verses."
+   ],
+   "plain_english": "Thus, if used in a hostile rite against an enemy, it may lead to one's own destruction."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "arisiddhaḥ",
+     "gloss": "enemy-accomplished",
+     "grounds": "a mantra classified as siddha relative to the enemy",
+     "morph": "compound: ari+siddha, m.nom.sg"
+    },
+    {
+     "surface": "sutaṃ",
+     "gloss": "son",
+     "grounds": "the practitioner's son",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "would-kill",
+     "grounds": "would destroy or cause death",
+     "morph": "3.sg.optative-active, √han"
+    },
+    {
+     "surface": "arisādhyaḥ",
+     "gloss": "enemy-achievable",
+     "grounds": "a mantra classified as sādhya relative to the enemy",
+     "morph": "compound: ari+sādhya, m.nom.sg"
+    },
+    {
+     "surface": "svayoṣitam",
+     "gloss": "own-wife",
+     "grounds": "the practitioner's own wife",
+     "morph": "compound: sva+yoṣit, f.acc.sg"
+    }
+   ],
+   "question": "What unintended victims result from ari-siddha and ari-sādhya classifications in hostile rites?",
+   "premises": [
+    "An ari-siddha mantra would kill one's son.",
+    "An ari-sādhya mantra would kill one's own wife."
+   ],
+   "inference": "Misclassified hostile applications harm the practitioner's own family members.",
+   "uncertainties": [],
+   "plain_english": "An ari-siddha mantra would kill one's son, and an ari-sādhya mantra would kill one's own wife."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "aryariḥ",
+     "gloss": "enemy-enemy",
+     "grounds": "a mantra classified as ari relative to the enemy context",
+     "morph": "compound: ari+ari, m.nom.sg"
+    },
+    {
+     "surface": "svātmahā",
+     "gloss": "self-destroying",
+     "grounds": "destroys the practitioner himself",
+     "morph": "compound: sva+ātma+han, m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "the mantra in that classification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samprāptyaiva",
+     "gloss": "by-mere-attainment",
+     "grounds": "simply by obtaining or employing it; eva emphasizes immediacy",
+     "morph": "compound: samprāpti+eva, f.ins.sg"
+    },
+    {
+     "surface": "suniścitam",
+     "gloss": "very-certainly",
+     "grounds": "with complete certainty",
+     "morph": "n.acc.sg used adverbially"
+    }
+   ],
+   "question": "What consequence follows from merely obtaining a mantra in the ari-ari classification?",
+   "premises": [
+    "An ari-ari mantra is self-destroying.",
+    "This consequence occurs merely by attaining it."
+   ],
+   "inference": "The ari-ari classification is fatally dangerous to the practitioner even without full application.",
+   "uncertainties": [],
+   "plain_english": "An ari-ari mantra is certainly self-destroying merely by its attainment."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "into three parts or in three ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "after dividing or arranging",
+     "morph": "indeclinable participle, √kṛ"
+    },
+    {
+     "surface": "svarair",
+     "gloss": "with-vowels",
+     "grounds": "using the vowels as the basis of division",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "bhindyāt",
+     "gloss": "one-should-divide",
+     "grounds": "one should split or analyze",
+     "morph": "3.sg.optative-active, √bhid"
+    },
+    {
+     "surface": "tadanyat",
+     "gloss": "that-other",
+     "grounds": "the remaining part other than that",
+     "morph": "compound: tat+anya, n.acc.sg"
+    },
+    {
+     "surface": "viparītakam",
+     "gloss": "reversed",
+     "grounds": "in the opposite or inverse manner",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the mantra be divided using vowels and how is the remainder treated?",
+   "premises": [
+    "The mantra should be made threefold and divided with vowels.",
+    "The other part should be treated in the reverse manner."
+   ],
+   "inference": "A vowel-based threefold division with reversal of the remainder is prescribed.",
+   "uncertainties": [
+    "The precise technical procedure depends on the broader ritual context."
+   ],
+   "plain_english": "Having made it threefold, one should divide it with the vowels, and treat the other part in reverse."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "the practitioner personally",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛṇī",
+     "gloss": "debtor",
+     "grounds": "one who is in debt in the mantra calculation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmantraṃ",
+     "gloss": "that-mantra",
+     "grounds": "the mantra in question",
+     "morph": "compound: tat+mantra, m.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-abandon",
+     "grounds": "one should give it up",
+     "morph": "3.sg.optative-active, √tyaj"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "prior in the debt relation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛṇī",
+     "gloss": "debtor",
+     "grounds": "the one who owes in the prior relation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "gives the reason for abandonment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must a practitioner abandon a mantra when personally in debt according to the calculation?",
+   "premises": [
+    "If oneself is the debtor, that mantra should be abandoned.",
+    "The reason is that the prior party is the debtor in that relation."
+   ],
+   "inference": "Being the debtor in the mantra-debt relation makes the mantra unsuitable and requires abandonment.",
+   "uncertainties": [
+    "The technical method of determining mantra debt is assumed from earlier context."
+   ],
+   "plain_english": "If oneself is the debtor, one should abandon that mantra, because the prior one is the debtor."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "pūrvajanmakṛtābhyāse",
+     "gloss": "in-previous-birth-done-practice",
+     "grounds": "regarding practice performed in a previous birth",
+     "morph": "compound: pūrva+janma+kṛta+abhyāsa, m.loc.sg"
+    },
+    {
+     "surface": "pāpāt",
+     "gloss": "from-sin",
+     "grounds": "due to sin or fault",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "of this mantra or practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "aphalāptikṛt",
+     "gloss": "non-fruit-attainment-causing",
+     "grounds": "causing failure to obtain the fruit",
+     "morph": "compound: a+phala+āpti+kṛt, m.nom.sg"
+    }
+   ],
+   "question": "What prevents a mantra from yielding fruit despite practice in a previous birth?",
+   "premises": [
+    "Practice may have been performed in a previous birth.",
+    "Sin causes this mantra to fail in yielding its fruit."
+   ],
+   "inference": "Past sin can obstruct the fruition of mantra practice carried over from a previous birth.",
+   "uncertainties": [],
+   "plain_english": "Because of sin in relation to practice done in a previous birth, this mantra causes failure to obtain its fruit."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "the mantra under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samprāptimātreṇa",
+     "gloss": "by-mere-attainment",
+     "grounds": "simply by being obtained",
+     "morph": "compound: samprāpti+mātra, n.ins.sg"
+    },
+    {
+     "surface": "prāktanaḥ",
+     "gloss": "former",
+     "grounds": "connected with prior birth or prior practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-success",
+     "grounds": "for accomplishment",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "would become effective",
+     "morph": "3.sg.optative-active, √bhū"
+    }
+   ],
+   "question": "When can a mantra lead to success merely by being obtained by the practitioner?",
+   "premises": [
+    "A mantra may be connected with prior practice.",
+    "Such a mantra can lead to success merely by attainment."
+   ],
+   "inference": "A mantra matured through prior practice can become effective immediately upon attainment.",
+   "uncertainties": [],
+   "plain_english": "A mantra connected with former practice would lead to success merely by being obtained."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "lakṣmīmadāt",
+     "gloss": "from-wealth-giving",
+     "grounds": "from a mantra or source that gives prosperity",
+     "morph": "compound: lakṣmī+mat+dā, m.abl.sg"
+    },
+    {
+     "surface": "anādṛtya",
+     "gloss": "having-disregarded",
+     "grounds": "without paying heed to it",
+     "morph": "indeclinable participle, an+ā+√dṛ"
+    },
+    {
+     "surface": "mantre",
+     "gloss": "in-mantra",
+     "grounds": "in the matter of the mantra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhogam",
+     "gloss": "enjoyment",
+     "grounds": "worldly enjoyment or benefit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avāptavān",
+     "gloss": "obtained",
+     "grounds": "one has attained",
+     "morph": "m.nom.sg, perfect active participle, ava+√āp"
+    }
+   ],
+   "question": "How might one obtain enjoyment from a mantra despite disregarding its wealth-giving aspect?",
+   "premises": [
+    "One may disregard the wealth-giving aspect in the mantra.",
+    "Even so, one may obtain enjoyment."
+   ],
+   "inference": "Mantra results can manifest as enjoyment even when its prosperity aspect is neglected.",
+   "uncertainties": [
+    "The subject of avāptavān is implied from context."
+   ],
+   "plain_english": "Having disregarded the wealth-giving aspect in the mantra, one has obtained enjoyment."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws a conclusion from the preceding discussion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛṇaviśuddhiḥ",
+     "gloss": "debt-purification",
+     "grounds": "clearing of the mantra debt",
+     "morph": "compound: ṛṇa+viśuddhi, f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "must be performed",
+     "morph": "f.nom.sg, gerundive of √kṛ"
+    },
+    {
+     "surface": "sarvaistu",
+     "gloss": "by-all",
+     "grounds": "by all practitioners; sandhi of sarvaiḥ + tu",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "in-all-ways",
+     "grounds": "in every respect or in all cases",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who must perform mantra-debt purification and in what scope should it be done?",
+   "premises": [
+    "The preceding discussion establishes the problem of mantra debt.",
+    "Purification of debt must be done by all practitioners in all ways."
+   ],
+   "inference": "Universal and thorough mantra-debt purification is required for all practitioners.",
+   "uncertainties": [],
+   "plain_english": "Therefore, purification of debt must indeed be done by all, in all ways."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "sphāṭikaiḥ",
+     "gloss": "with-crystal",
+     "grounds": "made of crystal",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects materials",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravālaiḥ",
+     "gloss": "with-coral",
+     "grounds": "made of coral",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects materials",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mauktikaiḥ",
+     "gloss": "with-pearls",
+     "grounds": "made of pearls",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "hemanirmitaiḥ",
+     "gloss": "with-gold-made",
+     "grounds": "made of gold",
+     "morph": "compound: hema+nirmita, m.ins.pl"
+    }
+   ],
+   "question": "What materials are prescribed for making the rosary or ritual implements mentioned here?",
+   "premises": [
+    "Crystal, coral, and pearls are listed as suitable materials.",
+    "Gold-made items are also included."
+   ],
+   "inference": "Several precious materials are authorized for the prescribed implement.",
+   "uncertainties": [
+    "The specific implement is clarified by the surrounding verses."
+   ],
+   "plain_english": "With crystal, coral, pearls, and those made of gold."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "sarvataḥ",
+     "gloss": "in-all-ways",
+     "grounds": "universally or in every case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṣu",
+     "gloss": "in-mantras",
+     "grounds": "in the context of mantras",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vidyāsu",
+     "gloss": "in-vidyas",
+     "grounds": "in the context of vidyās",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects mantras and vidyās",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "states the intended meaning of the preceding rules",
+     "morph": "compound: iti+artha, m.nom.sg"
+    },
+    {
+     "surface": "|| 56 || 57 || 58 || 59 || 60 || 61",
+     "gloss": "verse-markers-56-57-58-59-60-61",
+     "grounds": "textual verse numbering markers",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "To which ritual formulas do the preceding material prescriptions universally apply?",
+   "premises": [
+    "The prescriptions apply in all ways.",
+    "They apply to both mantras and vidyās."
+   ],
+   "inference": "The stated rules are universally applicable across mantras and vidyās.",
+   "uncertainties": [],
+   "plain_english": "This means in all ways, in mantras and in vidyās."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "ślokaiḥ",
+     "gloss": "with-verses",
+     "grounds": "by means of the following verses",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "akṣamālādikam",
+     "gloss": "rosary-etcetera",
+     "grounds": "the rosary and related items",
+     "morph": "compound: akṣa+mālā+ādika, n.acc.sg"
+    },
+    {
+     "surface": "upadiśati",
+     "gloss": "teaches",
+     "grounds": "instructs or prescribes",
+     "morph": "3.sg.present-active, upa+√diś"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kucandanaiḥ",
+     "gloss": "with-good-sandalwood",
+     "grounds": "made of fine sandalwood",
+     "morph": "compound: ku+candana, n.ins.pl"
+    },
+    {
+     "surface": "raktacandanaiḥ",
+     "gloss": "with-red-sandalwood",
+     "grounds": "made of red sandalwood",
+     "morph": "compound: rakta+candana, n.ins.pl"
+    },
+    {
+     "surface": "|| 63",
+     "gloss": "verse-marker-63",
+     "grounds": "textual verse numbering marker",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What additional materials for the rosary are taught in the following verses?",
+   "premises": [
+    "The verses teach about the rosary and related items.",
+    "Fine sandalwood and red sandalwood are specified as materials."
+   ],
+   "inference": "The instruction extends rosary materials to include fine and red sandalwood.",
+   "uncertainties": [],
+   "plain_english": "With these verses he teaches about the rosary and so on; there, with fine sandalwood and red sandalwood."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "ādikṣāntaiḥ",
+     "gloss": "with-a-to-kṣa-ending",
+     "grounds": "with syllables ranging from a to kṣa",
+     "morph": "compound: ādi+kṣa+anta, n.ins.pl"
+    },
+    {
+     "surface": "akṣaraiḥ",
+     "gloss": "with-syllables",
+     "grounds": "using the syllables as beads or markers",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "would constitute",
+     "morph": "3.sg.optative-active, √as"
+    },
+    {
+     "surface": "akṣamālā",
+     "gloss": "rosary",
+     "grounds": "the syllable rosary",
+     "morph": "compound: akṣa+mālā, f.nom.sg"
+    },
+    {
+     "surface": "yathārthataḥ",
+     "gloss": "truly",
+     "grounds": "in the true or literal sense",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What constitutes a true syllable rosary according to the prescribed range of letters?",
+   "premises": [
+    "The rosary is formed with syllables from a to kṣa.",
+    "Such a formation makes it a rosary in the true sense."
+   ],
+   "inference": "A complete syllable range from a to kṣa defines a true akṣamālā.",
+   "uncertainties": [],
+   "plain_english": "With syllables from a to kṣa it would truly be a syllable rosary."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner, following the prescribed method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaguṇopetaḥ",
+     "gloss": "with-all-qualities-endowed",
+     "grounds": "possessing all requisite qualities",
+     "morph": "compound: sarva+guṇa+upeta, m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.present-middle, √jan"
+    },
+    {
+     "surface": "sarvasiddhimān",
+     "gloss": "all-accomplishment-possessing",
+     "grounds": "possessing all accomplishments",
+     "morph": "compound: sarva+siddhi+mat, m.nom.sg"
+    }
+   ],
+   "question": "What state does a practitioner attain by following the prescribed method completely?",
+   "premises": [
+    "Following the method in this way endows one with all qualities.",
+    "Such a person becomes possessed of all accomplishments."
+   ],
+   "inference": "Proper observance of the method leads to complete qualification and universal accomplishment.",
+   "uncertainties": [],
+   "plain_english": "Thus one becomes endowed with all qualities and possessed of all accomplishments."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "aṅgulīparvasaṃsparśāt",
+     "gloss": "from-finger-joint-touch",
+     "grounds": "by touching the joints of the fingers",
+     "morph": "compound: aṅgulī+parva+saṃsparśa, m.abl.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indicates an alternative or inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇayet",
+     "gloss": "one-may-count",
+     "grounds": "one may count the recitations",
+     "morph": "3.sg.optative-active, √gaṇ"
+    },
+    {
+     "surface": "japam",
+     "gloss": "recitation",
+     "grounds": "the mantra recitation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What alternative method is permitted for counting mantra recitations without a rosary?",
+   "premises": [
+    "Counting may be done by touching the joints of the fingers.",
+    "This serves as an alternative way to count recitation."
+   ],
+   "inference": "Finger-joint counting is an acceptable substitute for counting mantra recitation.",
+   "uncertainties": [],
+   "plain_english": "Or one may even count the recitation by touching the joints of the fingers."
+  }
+ ]
+}

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p03",
  "verse": 52,
- "question": "How must the form of the rims correspond to the form of the pits?",
+ "question": "Which syllable must be written into each of those designated cells?",
  "premises": [
-  "The pits have a certain form.",
-  "The rims are associated with the pits.",
-  "The rims must match that form."
+  "The instruction concerns writing in those specific cells.",
+  "The syllable to be written is the respective fifth one."
  ],
- "inference": "The form of the rims should be of the same kind as the form of the pits.",
- "uncertainties": [],
- "plain_english": "Whatever form the pits have, the rims should have that same form."
+ "inference": "Each designated cell receives its corresponding fifth syllable.",
+ "uncertainties": [
+  "The counting basis for determining the fifth syllable is supplied by prior verses."
+ ],
+ "plain_english": "One should write the respective fifth syllable in those cells."
 }
