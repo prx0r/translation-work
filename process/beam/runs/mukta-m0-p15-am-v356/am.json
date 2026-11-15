@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 356,
- "question": "From a to kṣa, how should the wise one place the mātṛkā?",
+ "question": "What mantra formula should the practitioner recite three times?",
  "premises": [
-  "from a to kṣa",
-  "mātṛkā placed by wise one"
+  "The mantra includes the words 'klinne pracodayā n'.",
+  "The practitioner is the agent of recitation.",
+  "The recitation is performed three times."
  ],
- "inference": "The wise one places the mātṛkā from a to kṣa.",
+ "inference": "The practitioner should recite this mantra formula three times.",
  "uncertainties": [
-  "exact placement locations not stated"
+  "The exact segmentation and function of 'n' within the mantra formula is uncertain."
  ],
- "plain_english": "The wise one should place the mātṛkā from a to kṣa."
+ "plain_english": "The practitioner should recite this mantra, 'klinne pracodayā n', three times."
 }

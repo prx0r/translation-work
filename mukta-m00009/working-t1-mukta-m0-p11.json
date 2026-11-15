@@ -37,7 +37,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "only"
+"quick_gloss": "indeed"
 },
 {
 "surface": "tat+saṃbhavāt",
@@ -116,7 +116,7 @@
 },
 {
 "surface": "adhikāra+mala+kṣayaḥ",
-"quick_gloss": "of-authority+impurity+destruction"
+"quick_gloss": "destruction-of-authority+impurity"
 },
 {
 "surface": "tat+viveke",
@@ -136,16 +136,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uttīrṇa+māyam",
-"quick_gloss": "who-has-transcended+māyā"
-},
-{
-"surface": "ātmānaṃ",
-"quick_gloss": "self"
+"surface": "uttīrṇa+māyam+ātmānaṃ",
+"quick_gloss": "the-self-who-has-crossed+māyā"
 },
 {
 "surface": "mahāmāyā+anuṣaṅgiṇam",
-"quick_gloss": "connected-with+mahāmāyā"
+"quick_gloss": "connected-with-mahāmāyā"
 }
 ]
 },
@@ -158,7 +154,7 @@
 "tokens": [
 {
 "surface": "śarīra+ādīni",
-"quick_gloss": "body+etc."
+"quick_gloss": "bodies+and-so-on"
 },
 {
 "surface": "utpādayati",
@@ -212,7 +208,7 @@
 "tokens": [
 {
 "surface": "sva+kārya+rūpābhiḥ",
-"quick_gloss": "by-its-own+effect+forms"
+"quick_gloss": "by-its-own-effect+forms"
 },
 {
 "surface": "kalābhiḥ",
@@ -220,7 +216,7 @@
 },
 {
 "surface": "prāk+uktaṃ",
-"quick_gloss": "previously+stated"
+"quick_gloss": "previously-stated"
 },
 {
 "surface": "viśvaṃ",
@@ -311,7 +307,7 @@
 },
 {
 "surface": "bhogaḥ",
-"quick_gloss": "experience"
+"quick_gloss": "enjoyment"
 },
 {
 "surface": "bindau",
@@ -332,7 +328,7 @@
 "tokens": [
 {
 "surface": "sva+rūpa+niṣṭhe",
-"quick_gloss": "in-own-nature+abiding"
+"quick_gloss": "in-one-abiding-in-own-nature"
 },
 {
 "surface": "śakteḥ",
@@ -393,16 +389,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tayā",
-"quick_gloss": "by-that"
-},
-{
-"surface": "etayā",
-"quick_gloss": "by-this"
-},
-{
-"surface": "abhisaṃbandhāt",
-"quick_gloss": "by-connection"
+"surface": "tayā+etayā+abhisaṃbandhāt",
+"quick_gloss": "by-connection+with-this"
 },
 {
 "surface": "ekaḥ",
@@ -435,7 +423,7 @@
 },
 {
 "surface": "apratigha+udāra+marīci+nicaya+ātmikā",
-"quick_gloss": "unobstructed+noble+ray+multitude+natured"
+"quick_gloss": "of-unobstructed+noble+ray+multitude+nature"
 }
 ]
 },
@@ -448,7 +436,7 @@
 "tokens": [
 {
 "surface": "nirāvaraṇa+nirdvandva+nirupādāna+vaibhavā",
-"quick_gloss": "without-covering+without-duality+without-material-cause+majesty"
+"quick_gloss": "of-unveiled+non-dual+without-material-cause+majesty"
 }
 ]
 },
@@ -461,7 +449,7 @@
 "tokens": [
 {
 "surface": "śānta+udita+prapañca+ādi+bindu+vyāpti+paṭīyasī",
-"quick_gloss": "skilled-in-pervading+quiescent+arisen+manifestation+etc.+bindu"
+"quick_gloss": "skilled-in-pervading+quiescent+manifested+universe+etc.+bindu"
 }
 ]
 },
@@ -478,11 +466,11 @@
 },
 {
 "surface": "rahitā",
-"quick_gloss": "devoid"
+"quick_gloss": "free"
 },
 {
 "surface": "sarva+bandhanaiḥ",
-"quick_gloss": "of-all+bonds"
+"quick_gloss": "from-all+bonds"
 }
 ]
 },
@@ -503,7 +491,7 @@
 },
 {
 "surface": "matā",
-"quick_gloss": "regarded"
+"quick_gloss": "considered"
 },
 {
 "surface": "amlāna+mahimā",
@@ -523,20 +511,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tayā",
-"quick_gloss": "by-that"
-},
-{
-"surface": "etayā",
-"quick_gloss": "by-this"
-},
-{
-"surface": "abhisambandha+viśeṣāt",
-"quick_gloss": "by-connection+particularity"
+"surface": "tayā+etayā+abhisambandha+viśeṣāt",
+"quick_gloss": "by-special+connection+with-this"
 },
 {
 "surface": "nitya+rūpayā",
-"quick_gloss": "by-eternal+form"
+"quick_gloss": "of-eternal+nature"
 }
 ]
 },
@@ -602,7 +582,7 @@
 },
 {
 "surface": "nabhaḥ",
-"quick_gloss": "sky"
+"quick_gloss": "the-sky"
 }
 ]
 },
@@ -614,12 +594,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eka+aneka+vibhāgā",
-"quick_gloss": "as-one+and-many+division"
-},
-{
-"surface": "iva",
-"quick_gloss": "as-it-were"
+"surface": "eka+aneka+vibhāgā+iva",
+"quick_gloss": "as-if-one+and-many+division"
 },
 {
 "surface": "kārya+bhedāt",
@@ -640,23 +616,19 @@
 "tokens": [
 {
 "surface": "icchā+kāryam",
-"quick_gloss": "will+effect"
+"quick_gloss": "desire+effect"
 },
 {
-"surface": "anicchā",
-"quick_gloss": "though-not-willing"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "anicchā+api",
+"quick_gloss": "though-not-desiring"
 },
 {
 "surface": "kurvāṇā",
-"quick_gloss": "doing"
+"quick_gloss": "performing"
 },
 {
 "surface": "icchā",
-"quick_gloss": "will"
+"quick_gloss": "desire"
 },
 {
 "surface": "cit",

@@ -12,7 +12,7 @@
 },
 {
 "surface": "cit",
-"quick_gloss": "consciousness"
+"quick_gloss": "conscious"
 },
 {
 "surface": "jaḍayoḥ",
@@ -27,7 +27,7 @@
 "quick_gloss": "quality"
 },
 {
-"surface": "adhyāse",
+"surface": "ādhyāse",
 "quick_gloss": "superimposition"
 },
 {
@@ -68,7 +68,7 @@
 "quick_gloss": "those"
 },
 {
-"surface": "punaḥ",
+"surface": "punar",
 "quick_gloss": "again"
 },
 {
@@ -85,7 +85,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -109,7 +109,7 @@
 "quick_gloss": "all"
 },
 {
-"surface": "sarveṣām",
+"surface": "sarveṣāṃ",
 "quick_gloss": "of-all"
 },
 {
@@ -184,7 +184,7 @@
 },
 {
 "surface": "bandhaḥ",
-"quick_gloss": "bondage"
+"quick_gloss": "and-bondage"
 },
 {
 "surface": "ca",
@@ -217,7 +217,7 @@
 "tokens": [
 {
 "surface": "galite",
-"quick_gloss": "when-dissolved"
+"quick_gloss": "when-fallen-away"
 },
 {
 "surface": "sarvathā",
@@ -229,7 +229,7 @@
 },
 {
 "surface": "vimukte",
-"quick_gloss": "and-when-liberated"
+"quick_gloss": "and-liberated"
 },
 {
 "surface": "ca",
@@ -266,19 +266,15 @@
 },
 {
 "surface": "śiva+prasādāt",
-"quick_gloss": "by-śiva’s-grace"
+"quick_gloss": "from-Śiva's-grace"
 },
 {
 "surface": "eva",
 "quick_gloss": "indeed"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "uktam",
-"quick_gloss": "stated"
+"surface": "ity+uktam",
+"quick_gloss": "thus-stated"
 }
 ]
 },
@@ -290,16 +286,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva",
-"quick_gloss": "of-all"
-},
-{
-"surface": "āvaraṇa",
-"quick_gloss": "coverings"
-},
-{
-"surface": "nirmuktā",
-"quick_gloss": "freed"
+"surface": "sarva+āvaraṇa+nirmuktā",
+"quick_gloss": "freed-from-all-coverings"
 },
 {
 "surface": "śaktiḥ",
@@ -323,12 +311,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "para",
-"quick_gloss": "of-supreme"
-},
-{
-"surface": "saṃvit",
-"quick_gloss": "consciousness"
+"surface": "para+saṃvit",
+"quick_gloss": "of-supreme-consciousness"
 },
 {
 "surface": "svarūpāyāḥ",
@@ -360,16 +344,12 @@
 "quick_gloss": "in-that-state"
 },
 {
-"surface": "muktasya",
-"quick_gloss": "of-the-liberated"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "muktasya+api",
+"quick_gloss": "of-the-liberated-also"
 },
 {
 "surface": "sukha",
-"quick_gloss": "pleasure"
+"quick_gloss": "with-pleasure"
 },
 {
 "surface": "duḥkha",
@@ -377,15 +357,15 @@
 },
 {
 "surface": "ādi",
-"quick_gloss": "and-so-on"
+"quick_gloss": "etc."
 },
 {
 "surface": "saṃvedanena",
-"quick_gloss": "by-experiencing"
+"quick_gloss": "by-experience"
 },
 {
 "surface": "bhoktṛtva",
-"quick_gloss": "of-being-an-experiencer"
+"quick_gloss": "experiencer-hood"
 },
 {
 "surface": "prasaṅgāt",
@@ -406,7 +386,7 @@
 },
 {
 "surface": "vimuktāḥ",
-"quick_gloss": "the-liberated"
+"quick_gloss": "liberated"
 },
 {
 "surface": "sarvajñāḥ",
@@ -421,12 +401,8 @@
 "quick_gloss": "but"
 },
 {
-"surface": "cit",
-"quick_gloss": "consciousness"
-},
-{
-"surface": "mātra",
-"quick_gloss": "mere"
+"surface": "cinmātra",
+"quick_gloss": "consciousness-only"
 },
 {
 "surface": "vedinaḥ",
@@ -450,19 +426,11 @@
 "quick_gloss": "but"
 },
 {
-"surface": "sva",
-"quick_gloss": "own"
+"surface": "sva+saṃvedana+mātra",
+"quick_gloss": "in-own-consciousness-alone"
 },
 {
-"surface": "saṃvedana",
-"quick_gloss": "self-awareness"
-},
-{
-"surface": "mātra",
-"quick_gloss": "mere"
-},
-{
-"surface": "niṣṭhāḥ,",
+"surface": "niṣṭhāḥ",
 "quick_gloss": "abiding"
 },
 {
@@ -474,8 +442,8 @@
 "quick_gloss": "but"
 },
 {
-"surface": "śivavat",
-"quick_gloss": "like-śiva"
+"surface": "śiva+vat",
+"quick_gloss": "like-Śiva"
 },
 {
 "surface": "sarvajñāḥ",
@@ -544,12 +512,8 @@
 "quick_gloss": "arises"
 },
 {
-"surface": "mala",
-"quick_gloss": "by-impurity"
-},
-{
-"surface": "ruddhānām",
-"quick_gloss": "of-the-obstructed"
+"surface": "mala+ruddhānām",
+"quick_gloss": "of-those-bound-by-impurity"
 },
 {
 "surface": "aṇūnām",
@@ -557,11 +521,11 @@
 },
 {
 "surface": "artha",
-"quick_gloss": "object"
+"quick_gloss": "in-object"
 },
 {
 "surface": "darśane",
-"quick_gloss": "in-perception"
+"quick_gloss": "perception"
 }
 ]
 },
@@ -585,20 +549,20 @@
 "quick_gloss": "cognition"
 },
 {
-"surface": "tadā",
-"quick_gloss": "then"
+"surface": "tad",
+"quick_gloss": "like-that"
 },
 {
 "surface": "ahar",
-"quick_gloss": "day"
+"quick_gloss": "on-that-day"
 },
 {
 "surface": "jāta",
 "quick_gloss": "born"
 },
 {
-"surface": "bālavat",
-"quick_gloss": "like-a-child"
+"surface": "bāla+vat",
+"quick_gloss": "child"
 }
 ]
 },
@@ -610,28 +574,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yathā",
-"quick_gloss": "as"
-},
-{
-"surface": "artha",
-"quick_gloss": "object"
-},
-{
-"surface": "sthitiṃ",
-"quick_gloss": "state"
+"surface": "yathā+artha+sthitiṃ",
+"quick_gloss": "as-the-thing-is"
 },
 {
 "surface": "gṛhṇāti",
 "quick_gloss": "grasps"
 },
 {
-"surface": "sva",
-"quick_gloss": "self"
-},
-{
-"surface": "saṃvedyā",
-"quick_gloss": "cognizable"
+"surface": "sva+saṃvedyā",
+"quick_gloss": "self-cognized"
 },
 {
 "surface": "cit",
@@ -651,12 +603,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śakti",
-"quick_gloss": "with-power"
-},
-{
-"surface": "ādibhiḥ",
-"quick_gloss": "and-so-on"
+"surface": "śakti+ādibhiḥ",
+"quick_gloss": "with-śakti-etc."
 },
 {
 "surface": "sārdhaṃ",
@@ -671,24 +619,16 @@
 "quick_gloss": "the-self"
 },
 {
-"surface": "gata",
-"quick_gloss": "gone"
-},
-{
-"surface": "āvṛtiḥ",
-"quick_gloss": "obstruction"
-},
-{
-"surface": "||",
-"quick_gloss": "verse"
-},
-{
-"surface": "(ślo0 111",
-"quick_gloss": "(ślo0 111)"
+"surface": "gata+āvṛtiḥ",
+"quick_gloss": "with-covering-gone"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
+},
+{
+"surface": "ślo0 111",
+"quick_gloss": "(verse-111)"
 }
 ]
 },
@@ -708,20 +648,16 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "kartṛ",
-"quick_gloss": "of-agent"
+"surface": "kartṛ+bahutvasya",
+"quick_gloss": "of-multiplicity-of-agents"
 },
 {
-"surface": "bahutvasya",
-"quick_gloss": "plurality"
-},
-{
-"surface": "gamakaṃ",
+"surface": "gamakam",
 "quick_gloss": "indicator"
 },
 {
 "surface": "vidyate",
-"quick_gloss": "exists"
+"quick_gloss": "is-found"
 },
 {
 "surface": "kvacit",
@@ -741,20 +677,8 @@
 "quick_gloss": "because-of-being-effected"
 },
 {
-"surface": "rāga",
-"quick_gloss": "attachment"
-},
-{
-"surface": "dveṣa",
-"quick_gloss": "aversion"
-},
-{
-"surface": "ādi",
-"quick_gloss": "and-so-on"
-},
-{
-"surface": "rahitatvāt",
-"quick_gloss": "because-of-being-devoid"
+"surface": "rāga+dveṣa+ādi+rahitatvāt",
+"quick_gloss": "and-because-of-being-free-from-passion-and-aversion-etc."
 },
 {
 "surface": "ca",
@@ -791,7 +715,7 @@
 },
 {
 "surface": "śivam",
-"quick_gloss": "śiva"
+"quick_gloss": "Śiva"
 },
 {
 "surface": "parama",
@@ -844,12 +768,8 @@
 "quick_gloss": "possessor-of-power"
 },
 {
-"surface": "āhita",
-"quick_gloss": "applied"
-},
-{
-"surface": "udyogaḥ",
-"quick_gloss": "effort"
+"surface": "āhita+udyogaḥ",
+"quick_gloss": "with-effort-applied"
 },
 {
 "surface": "pravṛttaḥ",
@@ -865,7 +785,7 @@
 },
 {
 "surface": "deśikaiḥ",
-"quick_gloss": "by-the-teachers"
+"quick_gloss": "by-teachers"
 }
 ]
 },
@@ -885,20 +805,12 @@
 "quick_gloss": "when-closed"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
 "surface": "āste",
 "quick_gloss": "remains"
 },
 {
-"surface": "kriyā",
-"quick_gloss": "action"
-},
-{
-"surface": "ākhyā",
-"quick_gloss": "named"
+"surface": "kriyā+ākhyā",
+"quick_gloss": "called-action"
 },
 {
 "surface": "śaktiḥ",
@@ -906,7 +818,7 @@
 },
 {
 "surface": "aiśvarī",
-"quick_gloss": "lordly"
+"quick_gloss": "of-the-lord"
 }
 ]
 },
@@ -918,12 +830,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "para",
-"quick_gloss": "supreme"
-},
-{
-"surface": "bindu",
-"quick_gloss": "bindu"
+"surface": "para+bindu",
+"quick_gloss": "of-the-supreme-bindu"
 },
 {
 "surface": "svarūpa",
@@ -931,15 +839,11 @@
 },
 {
 "surface": "adhiṣṭhātuḥ",
-"quick_gloss": "of-the-presider"
+"quick_gloss": "of-the-presiding-lord"
 },
 {
-"surface": "laya",
-"quick_gloss": "dissolution"
-},
-{
-"surface": "avasthā",
-"quick_gloss": "state"
+"surface": "laya+avasthā",
+"quick_gloss": "state-of-dissolution"
 },
 {
 "surface": "ucyate",
@@ -964,7 +868,7 @@
 },
 {
 "surface": "uccaiḥ",
-"quick_gloss": "highly"
+"quick_gloss": "on-high"
 },
 {
 "surface": "parama",

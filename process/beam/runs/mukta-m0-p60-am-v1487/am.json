@@ -1,14 +1,12 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1487,
- "question": "What color and form characterize each named year in this sequence?",
+ "question": "How many times and by what method must the mantra be recited?",
  "premises": [
-  "the color is red",
-  "the noun is color"
+  "The mantra should be recited one hundred thousand times.",
+  "The recitation must follow the method stated above."
  ],
- "inference": "the year's color is red",
- "uncertainties": [
-  "year reference is implicit"
- ],
- "plain_english": "The color is red."
+ "inference": "The practitioner must recite the mantra one hundred thousand times according to the previously described method.",
+ "uncertainties": [],
+ "plain_english": "One should recite the mantra one hundred thousand times, following the method described above."
 }

@@ -1,0 +1,523 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1401,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating a subsequent point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "from",
+     "grounds": "postpositional adverb marking starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "refers to the vidya/mantra-knowledge in question",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "phala+dātrī",
+     "gloss": "fruit-giving",
+     "grounds": "compound describing the capacity to grant results",
+     "morph": "compound: phala+datrī (f.nom.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasya+cit",
+     "gloss": "of-anyone",
+     "grounds": "indefinite expression formed with enclitic particle",
+     "morph": "compound: kasya+cit (m.gen.sg + indecl.)"
+    }
+   ],
+   "question": "From what point onward does this vidya cease to grant fruit to any practitioner?",
+   "premises": [
+    "A specific temporal starting point is indicated.",
+    "This vidya is characterized as fruit-giving.",
+    "After that point it gives fruit to no one."
+   ],
+   "inference": "Therefore, from that point onward this vidya no longer yields results for anyone.",
+   "uncertainties": [
+    "The referent of the starting point indicated by tataḥ prabhṛti depends on prior context."
+   ],
+   "plain_english": "From then on, this vidya gives fruit to no one."
+  },
+  {
+   "verse": 1402,
+   "rows": [
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "refers to the mantra whose knowledge is discussed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound indicating knowledge",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-mere",
+     "grounds": "expresses sufficiency of mere knowledge",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vijayī",
+     "gloss": "victorious",
+     "grounds": "predicate describing the resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative indicating the sphere of victory",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb expressing coming into a state",
+     "morph": "3.sg.pres.middle (jan)"
+    }
+   ],
+   "question": "What effect does mere knowledge of the mantra produce for a person on earth?",
+   "premises": [
+    "The subject concerns knowledge of a mantra.",
+    "Mere knowledge alone is specified as sufficient.",
+    "The result is becoming victorious on earth."
+   ],
+   "inference": "Therefore, mere knowledge of the mantra makes one victorious on earth.",
+   "uncertainties": [],
+   "plain_english": "By mere knowledge of the mantra, one becomes victorious on earth."
+  },
+  {
+   "verse": 1403,
+   "rows": [
+    {
+     "surface": "satarīñ",
+     "gloss": "satarīm",
+     "grounds": "name or designation being declared; transliterated term",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā+īśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound: mahā+īśāni (f.voc.sg)"
+    },
+    {
+     "surface": "vadhū+bījam",
+     "gloss": "bride-seed",
+     "grounds": "technical term for a seed-mantra; bīja kept as term",
+     "morph": "compound: vadhū+bījam (n.nom.sg)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "predicate indicating traditional declaration",
+     "morph": "n.nom.sg (past-participle, pra-kṛt)"
+    }
+   ],
+   "question": "What designation is declared for the vadhū-bīja when addressed to the great goddess?",
+   "premises": [
+    "The great goddess is being addressed.",
+    "The vadhū-bīja is the subject of declaration.",
+    "It is declared as satarīm."
+   ],
+   "inference": "Therefore, the vadhū-bīja is declared to be satarīm.",
+   "uncertainties": [
+    "The exact referent of satarīm is not specified within this verse."
+   ],
+   "plain_english": "And, O great goddess, the vadhū-bīja is declared to be satarīm."
+  },
+  {
+   "verse": 1404,
+   "rows": [
+    {
+     "surface": "candraḥ",
+     "gloss": "moon",
+     "grounds": "symbolic or phonetic element, often denoting a nasal or bindu-related component",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa+kāraḥ",
+     "gloss": "sa-syllable",
+     "grounds": "the consonant sa as a syllabic component",
+     "morph": "compound: sa+kāraḥ (m.nom.sg)"
+    }
+   ],
+   "question": "What two components are identified as constituting the previously named seed?",
+   "premises": [
+    "A seed was declared in the preceding statement.",
+    "The moon is named as one component.",
+    "The sa-syllable is named as another component."
+   ],
+   "inference": "Therefore, the seed consists of the moon and the sa-syllable.",
+   "uncertainties": [
+    "The precise phonetic realization of candraḥ in this mantra context depends on tradition."
+   ],
+   "plain_english": "It is the moon and the syllable sa."
+  },
+  {
+   "verse": 1405,
+   "rows": [
+    {
+     "surface": "sarva+bhāṣā+mayī",
+     "gloss": "consisting-of-all-languages",
+     "grounds": "compound describing pervasive linguistic nature",
+     "morph": "compound: sarva+bhāṣā+mayī (f.nom.sg)"
+    },
+    {
+     "surface": "śuddhā",
+     "gloss": "pure",
+     "grounds": "qualifies the subject as pure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+āmnāyaiḥ",
+     "gloss": "by-all-traditions",
+     "grounds": "agentive or instrumental plurality indicating universal reverence",
+     "morph": "compound: sarva+āmnāyaiḥ (m.inst.pl)"
+    },
+    {
+     "surface": "namaskṛtā",
+     "gloss": "saluted",
+     "grounds": "predicate indicating being honored or bowed to",
+     "morph": "f.nom.sg (past-participle, namas-kṛ)"
+    }
+   ],
+   "question": "What qualities and honors characterize this pure entity across all traditions?",
+   "premises": [
+    "The entity consists of all languages.",
+    "The entity is pure.",
+    "The entity is saluted by all traditions."
+   ],
+   "inference": "Therefore, this pure, all-language entity is universally honored by all traditions.",
+   "uncertainties": [],
+   "plain_english": "She consists of all languages, is pure, and is saluted by all traditions."
+  },
+  {
+   "verse": 1406,
+   "rows": [
+    {
+     "surface": "eka+akṣī",
+     "gloss": "one-eyed",
+     "grounds": "epithet describing the subject",
+     "morph": "compound: eka+akṣī (f.nom.sg)"
+    },
+    {
+     "surface": "strīṃ",
+     "gloss": "strīṃ",
+     "grounds": "bīja syllable; transliterated and not translated",
+     "morph": "(indecl., bīja)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to the bīja or its power",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāpa+uddhāraḥ",
+     "gloss": "curse-removal",
+     "grounds": "compound denoting the lifting or removal of a curse",
+     "morph": "compound: śāpa+uddhāraḥ (m.nom.sg)"
+    }
+   ],
+   "question": "What power does the one-eyed strīṃ possess for removing curses everywhere?",
+   "premises": [
+    "The one-eyed one is identified with strīṃ.",
+    "By that, an effect is produced.",
+    "The effect is the removal of curses everywhere."
+   ],
+   "inference": "Therefore, by the one-eyed strīṃ, curses are removed everywhere.",
+   "uncertainties": [],
+   "plain_english": "The one-eyed one is strīṃ; by it, curses are removed everywhere."
+  },
+  {
+   "verse": 1407,
+   "rows": [
+    {
+     "surface": "jīvanī+madhya+gā",
+     "gloss": "situated-in-middle-of-life",
+     "grounds": "compound adjective describing māyā; jīvanī = life, madhya = middle, gā = going/situated",
+     "morph": "compound=f.nom.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "technical term retained as name/concept",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the nature and position of māyā in this context?",
+   "premises": [
+    "māyā is situated in the middle of life",
+    "māyā is identified as a present principle"
+   ],
+   "inference": "māyā is characterized as dwelling at the center of living existence",
+   "uncertainties": [
+    "jīvanī may refer to a specific vital or ritual locus rather than life in general"
+   ],
+   "plain_english": "Māyā is situated in the middle of life."
+  },
+  {
+   "verse": 1408,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to māyā",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "pañca+akṣarī",
+     "gloss": "five-syllabled",
+     "grounds": "compound adjective qualifying eṣā; pañca = five, akṣarī = syllabled",
+     "morph": "compound=f.nom.sg"
+    }
+   ],
+   "question": "How many syllables constitute this māyā as a mantra-form?",
+   "premises": [
+    "this refers to the previously mentioned māyā",
+    "this māyā is described as five-syllabled"
+   ],
+   "inference": "the identified māyā takes the form of a five-syllable mantra",
+   "uncertainties": [],
+   "plain_english": "This is the five-syllabled one."
+  },
+  {
+   "verse": 1409,
+   "rows": [
+    {
+     "surface": "anyāsāṃ",
+     "gloss": "of-other",
+     "grounds": "qualifies vidyānām",
+     "morph": "pron.f.gen.pl"
+    },
+    {
+     "surface": "vidyānām",
+     "gloss": "of-knowledges",
+     "grounds": "refers to other vidyās/mantras",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ekajaṭā",
+     "gloss": "ekajaṭā",
+     "grounds": "name of the deity retained",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle emphasizing ekajaṭā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devathā",
+     "gloss": "deity",
+     "grounds": "spelling as given in text; functions as predicate noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakṛtitvāt",
+     "gloss": "because-of-being-primal-nature",
+     "grounds": "abstract noun in ablative giving reason; prakṛti = primal nature",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is Ekajaṭā alone the deity of other vidyās?",
+   "premises": [
+    "other vidyās are under consideration",
+    "Ekajaṭā alone is their deity",
+    "this is due to her being the primal nature"
+   ],
+   "inference": "Ekajaṭā is the sole deity of other vidyās because she is their primal nature",
+   "uncertainties": [
+    "devathā appears instead of the more common devatā; taken as deity"
+   ],
+   "plain_english": "Ekajaṭā alone is the deity of other vidyās, because she is their primal nature."
+  },
+  {
+   "verse": 1410,
+   "rows": [
+    {
+     "surface": "tatra+sthaḥ",
+     "gloss": "situated-there",
+     "grounds": "compound adjective describing yogī; tatra = there, sthaḥ = situated",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative expressing prescribed practice",
+     "morph": "3.sg.act.opt √sādh"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "practitioner subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyām",
+     "gloss": "knowledge",
+     "grounds": "object of accomplishment; mantra-knowledge",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tribhuvana+īśvarīm",
+     "gloss": "lady-of-three-worlds",
+     "grounds": "compound epithet qualifying vidyām; tribhuvana = three worlds, īśvarīm = lady/ruler",
+     "morph": "compound=f.acc.sg"
+    }
+   ],
+   "question": "What practice should a yogin situated there perform regarding the vidyā of the lady of the three worlds?",
+   "premises": [
+    "a yogin is situated there",
+    "the vidyā is that of the lady of the three worlds",
+    "the yogin should accomplish this vidyā"
+   ],
+   "inference": "a yogin situated there should accomplish the vidyā of the lady of the three worlds",
+   "uncertainties": [
+    "tatra may refer to a previously specified locus or state"
+   ],
+   "plain_english": "Situated there, the yogin should accomplish the vidyā of the lady of the three worlds."
+  },
+  {
+   "verse": 1411,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun, subject",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "mark",
+     "grounds": "predicate noun; may also carry ritual sense of liṅga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākhyātam",
+     "gloss": "declared",
+     "grounds": "past participle used predicatively",
+     "morph": "n.nom.sg.ppp √khyā"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating place or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "spiritual or ritual attainment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anuttamā",
+     "gloss": "unsurpassed",
+     "grounds": "adjective qualifying siddhiḥ",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is declared as the mark and what attainment arises there?",
+   "premises": [
+    "that indeed is declared the mark",
+    "in that context accomplishment arises",
+    "that accomplishment is unsurpassed"
+   ],
+   "inference": "the same is declared the mark, and there unsurpassed accomplishment occurs",
+   "uncertainties": [
+    "liṅgam may mean sign, characteristic, or ritual liṅga"
+   ],
+   "plain_english": "That indeed is declared the mark, and there unsurpassed accomplishment is attained."
+  },
+  {
+   "verse": 1412,
+   "rows": [
+    {
+     "surface": "deva+āgāre",
+     "gloss": "in-god-house",
+     "grounds": "compound locative; temple",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnye",
+     "gloss": "in-empty-place",
+     "grounds": "locative adjective/substantive indicating desolate place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirjana+ekānta+veśmani",
+     "gloss": "in-solitary-secluded-dwelling",
+     "grounds": "compound locative; nirjana = peopleless, ekānta = secluded, veśmani = dwelling",
+     "morph": "compound=n.loc.sg"
+    }
+   ],
+   "question": "In what kinds of places may the prescribed practice or attainment occur?",
+   "premises": [
+    "a temple is mentioned as a location",
+    "an empty place is mentioned as a location",
+    "a solitary secluded dwelling is mentioned as a location"
+   ],
+   "inference": "the practice or attainment is associated with temples, empty places, and solitary secluded dwellings",
+   "uncertainties": [
+    "the verse lists locations without an explicit verb; connection to prior verse is inferred"
+   ],
+   "plain_english": "In a temple, in an empty place, and in a solitary, secluded dwelling."
+  }
+ ]
+}

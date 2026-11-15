@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "trisatarānagatrya(?",
+     "gloss": "in-three-hundred-arrived-body",
+     "grounds": "Uncertain reading; surface includes '(?' as given. Legacy hint suggests a locative or situated sense, possibly relating to a body or state arrived at in three hundred; exact segmentation and meaning unclear.",
+     "morph": "uncertain"
+    },
+    {
+     "surface": "uttama+ādi+kramāt",
+     "gloss": "from-best-beginning-sequence",
+     "grounds": "Ablative compound indicating order or progression starting from the highest.",
+     "morph": "compound abl.sg.m"
+    },
+    {
+     "surface": "śruṇu",
+     "gloss": "listen",
+     "grounds": "Imperative command addressed to the listener.",
+     "morph": "2.sg.imp.act (√śru)"
+    }
+   ],
+   "question": "In what hierarchical sequence are the bone-born classes to be heard?",
+   "premises": [
+    "Four bone-born classes have been proclaimed in the Muṇḍarahasya.",
+    "The instruction directs hearing in a sequence beginning with the highest.",
+    "The sequence is to be understood in the context indicated by the first term."
+   ],
+   "inference": "Therefore, the bone-born classes are to be learned in a descending order starting from the best.",
+   "uncertainties": [
+    "The exact reading, segmentation, and grammatical analysis of 'trisatarānagatrya(?' are unclear due to the '(?' in the surface form."
+   ],
+   "plain_english": "Listen, in order beginning from the highest, concerning that which is situated in the trisatarānagatrya(?)."
+  }
+ ]
+}
