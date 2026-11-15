@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 28,
- "question": "How should the triad beginning with foot-water be visualized?",
+ "question": "How many units of the mantra should a wise practitioner recite?",
  "premises": [
-  "The triad beginning with foot-water is to be offered",
-  "The locations for visualization are already specified",
-  "A specific rule governs the procedure"
+  "The wise practitioner performs recitation.",
+  "Options include one, two, or a fourth unit.",
+  "The choice is presented as alternatives."
  ],
- "inference": "One should visualize the triad beginning with foot-water in those locations according to this rule.",
- "uncertainties": [],
- "plain_english": "One should visualize the triad of offerings beginning with foot-water in those places according to this rule."
+ "inference": "A wise practitioner may recite one, two, or a fourth unit.",
+ "uncertainties": [
+  "The meaning of caturthaṃ as a count alongside one and two is ambiguous."
+ ],
+ "plain_english": "The wise one should recite one, or two, or a fourth."
 }

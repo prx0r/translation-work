@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p121-v3001
-[in-battle+enemy+destroyer+obeisance](yudhiśatruvināśanāyanamaḥ) [to-sāṅkhya+grace+obeisance](sāṅkhyaprasādāyanamaḥ)
+[267](|| 267 ||) [in-battle+enemy+destroyer+homage](yudhiśatruvināśanāyanamaḥ) [268](|| 268 ||) [to-sāṅkhya-grace+homage](sāṅkhyaprasādāyanamaḥ)
 
 ## mukta-m0-p121-v3002
-[to-dūrvāsas+obeisance](dūrvāsasenamaḥ) [by-all+saints+served+obeisance](sarvasādhuniṣevitāyanamaḥ)
+[p.-462](p. 462)) [to-dūrvāsas+homage](dūrvāsasenamaḥ) [270](|| 270 ||) [by-all+sādhus+served+homage](sarvasādhuniṣevitāyanamaḥ)
 
 ## mukta-m0-p121-v3003
-[to-the-flowing-forth+obeisance](praskandanāyanamaḥ) [to-division+knower+obeisance](vibhāgajñāyanamaḥ) [to-the-incomparable+obeisance](atulyāyanamaḥ)
+[to-leaper+homage](praskandanāyanamaḥ) [272](|| 272 ||) [division+knower+homage](vibhāgajñāyanamaḥ) [273](|| 273 ||) [incomparable+homage](atulyāyanamaḥ)
 
 ## mukta-m0-p121-v3004
-[to-sacrifice+share+knower+obeisance](yajñabhāgavidenamaḥ) [to-all+dwelling+obeisance](sarvavāsāyanamaḥ)
+[274](|| 274 ||) [sacrifice+portion+knower+homage](yajñabhāgavidenamaḥ) [375](|| 375 ||) [all+dwelling+homage](sarvavāsāyanamaḥ)
 
 ## mukta-m0-p121-v3005
-[to-all+moving+obeisance](sarvacāriṇenamaḥ) [to-durvāsas+obeisance](durvāsasenamaḥ) [to-vāsava+obeisance](vāsavāyanamaḥ)
+[all+moving+homage](sarvacāriṇenamaḥ) [277](|| 277 ||) [to-durvāsas+homage](durvāsasenamaḥ) [278](|| 278 ||) [to-vāsava+homage](vāsavāyanamaḥ)
 
 ## mukta-m0-p121-v3006
-[to-the-immortal+obeisance](amarāyanamaḥ) [to-the-golden+obeisance](haimāyanamaḥ) [to-gold+maker+obeisance](hemakarāyanamaḥ)
+[immortal+homage](amarāyanamaḥ) [280](|| 280 ||) [golden+homage](haimāyanamaḥ) [281](|| 281 ||) [gold+maker+homage](hemakarāyanamaḥ)
 
 ## mukta-m0-p121-v3007
-[to-the-non-sacrifice+obeisance](ayajñāyanamaḥ) [to-all+sustainer+obeisance](sarvadhāriṇenamaḥ) [to-earth+best+obeisance](dharottamāyanamaḥ)
+[without-sacrifice+homage](ayajñāyanamaḥ) [283](|| 283 ||) [all+sustainer+homage](sarvadhāriṇenamaḥ) [284](|| 284 ||) [earth+best+homage](dharottamāyanamaḥ)
 
 ## mukta-m0-p121-v3008
-[to-red+eyed+obeisance](lohitākṣāyanamaḥ) [to-great+eyed+obeisance](mahākṣāyanamaḥ)
+[285](|| 285 ||) [red+eyed+homage](lohitākṣāyanamaḥ) [286](|| 286 ||) [great+eyed+homage](mahākṣāyanamaḥ)
 
 ## mukta-m0-p121-v3009
-[to-victory+eyed+obeisance](vijayākṣāyanamaḥ) [to-the-skilful+obeisance](viśāradāyanamaḥ) [to-the-comprehension+obeisance](saṅgrahāyanamaḥ)
+[victory+eyed+homage](vijayākṣāyanamaḥ) [288](|| 288 ||) [skilled+homage](viśāradāyanamaḥ) [289](|| 289 ||) [comprehension+homage](saṅgrahāyanamaḥ)
 
 ## mukta-m0-p121-v3010
-[to-the-restraint+obeisance](nigrahāyanamaḥ) [to-the-doer+obeisance](karttrenamaḥ)
+[290](|| 290 ||) [restraint+homage](nigrahāyanamaḥ) [291](|| 291 ||) [doer+homage](karttrenamaḥ)
 
 ## mukta-m0-p121-v3011
-[to-serpent+bark+garment+wearer+obeisance](sarpacīranivāsanāyanamaḥ) [to-the-chief+obeisance](mukhyāyanamaḥ)
+[serpent+bark+garment+wearer+homage](sarpacīranivāsanāyanamaḥ) [293](|| 293 ||) [chief+homage](mukhyāyanamaḥ)
 
 ## mukta-m0-p121-v3012
-[to-the-non-chief+obeisance](amukhyāyanamaḥ) [to-the-body+obeisance](dehāyanamaḥ) [to-the-kāhala+obeisance](kāhalayenamaḥ)
+[non-chief+homage](amukhyāyanamaḥ) [295](|| 295 ||) [body+homage](dehāyanamaḥ) [296](|| 296 ||) [to-kāhala+homage](kāhalayenamaḥ)
 
 ## mukta-m0-p121-v3013
-[to-all+desire+giver+obeisance](sarvakāmadāyanamaḥ) [to-all+time+grace+obeisance](sarvakālaprasādāyanamaḥ)
+[all+desire+giver+homage](sarvakāmadāyanamaḥ) [298](|| 298 ||) [all+time+grace+homage](sarvakālaprasādāyanamaḥ)
 
 ## mukta-m0-p121-v3014
-[to-all+giver+obeisance](sarvadāyanamaḥ) [to-all+directions+faced+obeisance](sarvatomukhāyanamaḥ)
+[302](|| 302 ||) [all+giver+homage](sarvadāyanamaḥ) [303](|| 303 ||) [facing-all-directions+homage](sarvatomukhāyanamaḥ)
 
 ## mukta-m0-p121-v3015
-[to-sky+formless+obeisance](ākāśanirvirūpāyanamaḥ) [to-the-falling+obeisance](nipātinenamaḥ) [to-the-uncontrolled+obeisance](avaśāyanamaḥ)
+[sky+without-form+homage](ākāśanirvirūpāyanamaḥ) [305](|| 305 ||) [descender+homage](nipātinenamaḥ) [306](|| 306 ||) [uncontrolled+homage](avaśāyanamaḥ)
 
 ## mukta-m0-p121-v3016
-[to-āditya+obeisance](ādityāyanamaḥ) [to-many+rayed+obeisance](bahuraśmayenamaḥ) [to-the-very-splendid+obeisance](suvarccasvinenamaḥ)
+[to-āditya+homage](ādityāyanamaḥ) [311](|| 311 ||) [many+rayed+homage](bahuraśmayenamaḥ) [312](|| 312 ||) [possessing-great-splendor+homage](suvarccasvinenamaḥ)
 
 ## mukta-m0-p121-v3017
-[to-wealth+speed+obeisance](vasuvegāyanamaḥ) [to-great+speed+obeisance](mahāvegāyanamaḥ)
+[313](|| 313 ||) [wealth+speed+homage](vasuvegāyanamaḥ) [314](|| 314 ||) [great+speed+homage](mahāvegāyanamaḥ)
 
 ## mukta-m0-p121-v3018
-[to-fortune+dwelling+obeisance](śriyāvāsinenamaḥ) [to-instruction+maker+obeisance](upadeśakarāyanamaḥ) [to-the-letter-a+obeisance](akārāyanamaḥ)
+[dwelling-in-fortune+homage](śriyāvāsinenamaḥ) [319](|| 319 ||) [instruction+maker+homage](upadeśakarāyanamaḥ) [320](|| 320 ||) [letter-a+homage](akārāyanamaḥ)
 
 ## mukta-m0-p121-v3019
-[to-the-sage+obeisance](munayenamaḥ) [to-self+illumination+obeisance](ātmanirālokāyanamaḥ)
+[321](|| 321 ||) [sage+homage](munayenamaḥ) [322](|| 322 ||) [self+illumination+homage](ātmanirālokāyanamaḥ)
 
 ## mukta-m0-p121-v3020
-[to-the-broken+obeisance](sambhagnāyanamaḥ)
+[fully-broken+homage](sambhagnāyanamaḥ) [324](|| 324 ||) [thousand-rayed+homage](sahasraraśmayenamaḥ) [325](|| 325 ||) [lord+homage](pakṣinenamaḥ) [326](|| 326 ||) [all-dwelling+homage](sarvavāsāyanamaḥ)
 
 ## mukta-m0-p121-v3021
-[to-the-very-brilliant+obeisance](atidīptāyanamaḥ) [to-people+lord+obeisance](viśāmpatayenamaḥ)
+[327](|| 327 ||) [exceedingly-brilliant+homage](atidīptāyanamaḥ) [328](|| 328 ||) [lord-of-people+homage](viśāmpatayenamaḥ)
 
 ## mukta-m0-p121-v3022
-[to-madness+obeisance](unmādāyanamaḥ) [to-the-intoxicator+obeisance](madanāyanamaḥ) [to-desire+obeisance](kāmāyanamaḥ)
+[madness+homage](unmādāyanamaḥ) [330](|| 330 ||) [intoxicator+homage](madanāyanamaḥ) [331](|| 331 ||) [desire+homage](kāmāyanamaḥ)
 
 ## mukta-m0-p121-v3023
-[to-the-aśvattha+obeisance](aśvatthāyanamaḥ) [to-purpose+maker+obeisance](artthakarāyanamaḥ) [to-fame+obeisance](yaśasenamaḥ)
+[to-aśvattha-tree+homage](aśvatthāyanamaḥ) [333](|| 333 ||) [wealth+maker+homage](artthakarāyanamaḥ) [334](|| 334 ||) [fame+homage](yaśasenamaḥ)
 
 ## mukta-m0-p121-v3024
-[to-vāmadeva+obeisance](vāmadevāyanamaḥ) [to-the-lovely+obeisance](vāmāyanamaḥ) [to-the-eastern+obeisance](prācenamaḥ)
+[to-vāmadeva+homage](vāmadevāyanamaḥ) [336](|| 336 ||) [beautiful+homage](vāmāyanamaḥ) [337](|| 337 ||) [eastern+homage](prācenamaḥ)
 
 ## mukta-m0-p121-v3025
-[to-the-southern+obeisance](dakṣiṇāyanamaḥ) [to-the-dwarf+obeisance](vāmanāyanamaḥ) [to-accomplished+yogin+obeisance](siddhayoginenamaḥ)
+[southern+homage](dakṣiṇāyanamaḥ) [339](|| 339 ||) [dwarf+homage](vāmanāyanamaḥ) [340](|| 340 ||) [accomplished+yogin+homage](siddhayoginenamaḥ)

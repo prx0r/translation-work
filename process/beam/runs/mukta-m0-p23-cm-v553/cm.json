@@ -3,19 +3,29 @@
  "verse": 553,
  "rows": [
   {
-   "lemma": "iti",
+   "lemma": "śūdraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "names the practitioner category addressed"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "quotation marker"
+   "grounds": "marks a specific rule for this case"
   },
   {
-   "lemma": "ādi",
-   "morph": "compound-member",
-   "grounds": "first member indicating an et-cetera series"
+   "lemma": "parameśāni",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   },
   {
-   "lemma": "vacanāt",
-   "morph": "n.abl.sg",
-   "grounds": "ablative of source; compound iti-ādi-vacana"
+   "lemma": "caturdaśa+svaraṃ",
+   "morph": "compound m.acc.sg",
+   "grounds": "compound specifying the set of vowels to be placed"
+  },
+  {
+   "lemma": "nyaset",
+   "morph": "3.sg.optative-active (ni-as)",
+   "grounds": "optative prescribing placement"
   }
  ]
 }

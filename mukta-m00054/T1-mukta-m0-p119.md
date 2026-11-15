@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[beautiful-form+homage](surūpāyanamaḥ) [to-radiant-one+homage](tejasenamaḥ) [radiance-making+treasure+homage](tejaskaranidhayenamaḥ)
+[beautiful-form](surūpāya)[obeisance](namaḥ) [splendor](tejase)[obeisance](namaḥ) [splendor+making+treasure](tejaskara)[-](nidhaye)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2952
-[turbaned-one+homage](uṣṇīṣiṇenamaḥ) [beautiful-faced+homage](suvaktrāyanamaḥ) [lofty+homage](udagrāyanamaḥ)
+[having-turban](uṣṇīṣiṇe)[obeisance](namaḥ) [beautiful-faced](suvaktrāya)[obeisance](namaḥ) [lofty](udagrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2953
-[bent+homage](vinatāyanamaḥ) [long+homage](dīrgghāyanamaḥ) [tawny-haired+homage](harikeśāyanamaḥ)
+[bent](vinatāya)[obeisance](namaḥ) [long](dīrgghāya)[obeisance](namaḥ) [tawny-haired](harikeśāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2954
-[accomplished-purpose+homage](siddhārtthāyanamaḥ) [shaven-headed+homage](muṇḍāyanamaḥ)
+[accomplished-purpose](siddhārtthāya)[obeisance](namaḥ) [shaven-headed](muṇḍāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2955
-[all+auspiciousness+making+homage](sarvaśubhaṃkarāyanamaḥ) [unborn+homage](ajāyanamaḥ) [many-formed+homage](bahurūpāyanamaḥ)
+[all+auspicious+making](sarvaśubhaṃkarāya)[obeisance](namaḥ) [unborn](ajāya)[obeisance](namaḥ) [many-formed](bahurūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2956
-[fragrance+bearing+homage](gandhadhāriṇenamaḥ) [matted-haired+homage](kaparddinenamaḥ)
+[fragrance+bearing](gandhadhāriṇe)[obeisance](namaḥ) [matted-haired](kaparddine)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2957
-[upward+semen+homage](urddhvaretasenamaḥ) [upward+mark+homage](urddhvaliṅgāyanamaḥ)
+[upward+semen](urddhvaretase)[obeisance](namaḥ) [upward+mark](urddhvaliṅgāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2958
-[upward+lying+homage](urddhvaśāyinenamaḥ) [sky+abiding+homage](nabhasthalāyanamaḥ) [three-braided+homage](trijaṭāyanamaḥ)
+[upward+lying](urddhvaśāyine)[obeisance](namaḥ) [sky+abiding](nabhasthalāya)[obeisance](namaḥ) [three-braided](trijaṭāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2959
-[to-mighty-one+homage](vibhavenamaḥ) [day+moving+homage](ahaścarāyanamaḥ) [night+moving+homage](naktañcarāyanamaḥ)
+[might](vibhave)[obeisance](namaḥ) [day+moving](ahaścarāya)[obeisance](namaḥ) [night+moving](naktañcarāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2960
-[fierce-spirited+homage](tigmamanyavenamaḥ) [well-radiant+homage](suvarccasāyanamaḥ) [elephant+slayer+homage](gajaghnenamaḥ)
+[sharp+wrath](tigmamanyave)[obeisance](namaḥ) [good+splendor](suvarccasāya)[obeisance](namaḥ) [elephant+slayer](gajaghne)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2961
-[demon+slayer+homage](daityaghnenamaḥ) [to-time+homage](kālāyanamaḥ) [world+sustainer+homage](lokadhātrenamaḥ)
+[demon+slayer](daityaghne)[obeisance](namaḥ) [time](kālāya)[obeisance](namaḥ) [world+sustainer](lokadhātre)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2962
-[quality+mine+homage](guṇākarāyanamaḥ)
+[quality+mine](guṇākarāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2963
-[lion+tiger+form+homage](siṃhaśārddūlarūpāyanamaḥ)
+[lion+tiger+form](siṃhaśārddūlarūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2964
-[wet+skin+garment+covered+homage](ārddracarmāmbarāvṛtāyanamaḥ) [time+yogin+homage](kālayoginenamaḥ)
+[wet+skin+garment+covered](ārddracarmāmbarāvṛtāya)[obeisance](namaḥ) [time+yogin](kālayogine)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2965
-[night+moving+homage](niśācarāyanamaḥ) [spirit+wandering+homage](pretacāriṇenamaḥ)
+[night+moving](niśācarāya)[obeisance](namaḥ) [ghost+wandering](pretacāriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2966
-[to-course+homage](gatayenamaḥ) [dance+fond+homage](nṛtyapriyāyanamaḥ) [eternal+dancer+homage](nityanarttāyanamaḥ)
+[going](gataye)[obeisance](namaḥ) [dance+fond](nṛtyapriyāya)[obeisance](namaḥ) [eternal+dancer](nityanarttāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2967
-[to-dancer+homage](narttakāyanamaḥ) [all+sportive+homage](sarvalālasāyanamaḥ) [to-terrible-one+homage](ghorāyanamaḥ)
+[dancer](narttakāya)[obeisance](namaḥ) [all+sportive](sarvalālasāya)[obeisance](namaḥ) [terrible](ghorāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2968
-[great+austerity+homage](mahātapasenamaḥ) [to-noose+homage](pāśāyanamaḥ) [to-eternal-one+homage](nityāyanamaḥ)
+[great+austerity](mahātapase)[obeisance](namaḥ) [noose](pāśāya)[obeisance](namaḥ) [eternal](nityāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2969
-[mountain+dwelling+homage](giriruhāyanamaḥ) [to-sky+homage](nabhasenamaḥ) [thousand+handed+homage](sahasrahastāyanamaḥ)
+[mountain+dwelling](giriruhāya)[obeisance](namaḥ) [sky](nabhasen)[obeisance](namaḥ) [thousand+handed](sahasrahastāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2970
-[to-victory+homage](vijayāyanamaḥ) [to-effort+homage](vyavasāyanamaḥ) [unwearied+homage](atandritāyanamaḥ)
+[victory](vijayāya)[obeisance](namaḥ) [endeavor](vyavasāyāya)[obeisance](namaḥ) [unwearied](atandritāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2971
-[unassailable+homage](adharṣaṇāyanamaḥ) [subduing+nature+homage](dharṣaṇātmanenamaḥ) [sacrifice+slayer+homage](yajñaghnenamaḥ)
+[unassailable](adharṣaṇāya)[obeisance](namaḥ) [assailing+self](dharṣaṇātmane)[obeisance](namaḥ) [sacrifice+slayer](yajñaghne)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2972
-[desire+destroyer+homage](kāmanāśakāyanamaḥ) [Dakṣa+sacrifice+remover+homage](dakṣayāgāpahāriṇenamaḥ)
+[desire+destroyer](kāmanāśakāya)[obeisance](namaḥ) [Dakṣa+sacrifice+remover](dakṣayāgāpahāriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2973
-[very-patient+homage](susahāyanamaḥ) [to-middle-one+homage](madhyamāyanamaḥ) [radiance+remover+homage](tejopahāriṇenamaḥ)
+[very+enduring](susahāya)[obeisance](namaḥ) [middle](madhyamāya)[obeisance](namaḥ) [splendor+remover](tejopahāriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2974
-[strength+slayer+homage](balaghnenamaḥ) [to-delighted-one+homage](muditāyanamaḥ) [to-meaning+homage](artthāyanamaḥ)
+[strength+slayer](balaghne)[obeisance](namaḥ) [delighted](muditāya)[obeisance](namaḥ) [purpose](artthāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2975
-[unconquered+homage](ajitāyanamaḥ) [to-inferior-one+homage](avarāyanamaḥ) [to-profound-one+homage](gambhīrāyanamaḥ)
+[unconquered](ajitāya)[obeisance](namaḥ) [inferior](avarāya)[obeisance](namaḥ) [profound](gambhīrāya)[obeisance](namaḥ)

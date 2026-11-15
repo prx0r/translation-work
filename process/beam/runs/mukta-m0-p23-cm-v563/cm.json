@@ -3,19 +3,34 @@
  "verse": 563,
  "rows": [
   {
-   "lemma": "vada vada vāgvādini vahnivallabhā",
-   "morph": "(mantra)",
-   "grounds": "mantra phrase addressed to the goddess of speech; kept as a single fused token"
+   "lemma": "yasya",
+   "morph": "m.gen.sg",
+   "grounds": "relative pronoun introducing a distributive condition"
   },
   {
-   "lemma": "iti",
+   "lemma": "yasya",
+   "morph": "m.gen.sg",
+   "grounds": "repeated relative emphasizing each case"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "quotation marker introducing the mantra"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "daśākṣaraḥ",
-   "morph": "m.nom.sg (compound: daśan+akṣara)",
-   "grounds": "specifies the syllable count of the mantra"
+   "lemma": "devasya",
+   "morph": "m.gen.sg",
+   "grounds": "the deity to whom attributes belong"
+  },
+  {
+   "lemma": "yathā",
+   "morph": "(indecl.)",
+   "grounds": "introduces the manner or correspondence"
+  },
+  {
+   "lemma": "bhūṣaṇa+vāhanam",
+   "morph": "compound n.nom.sg",
+   "grounds": "compound naming attributes associated with a deity"
   }
  ]
 }

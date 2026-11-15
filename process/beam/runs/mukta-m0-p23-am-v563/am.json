@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p23",
  "verse": 563,
- "question": "What is the syllable count of the mantra beginning with vada vada vāgvādini?",
+ "question": "How are a deity's ornament and vehicle treated in this distributive rule?",
  "premises": [
-  "The mantra phrase is vada vada vāgvādini vahnivallabhā.",
-  "The text identifies this mantra as daśākṣaraḥ."
+  "The rule applies to each deity individually.",
+  "Each deity has associated attributes.",
+  "Ornament and vehicle are named as such attributes."
  ],
- "inference": "The specified mantra consists of ten syllables.",
- "uncertainties": [],
- "plain_english": "The mantra 'vada vada vāgvādini vahnivallabhā' is thus a ten-syllabled mantra."
+ "inference": "For each deity, the ornament and vehicle are to be taken as appropriate to that deity.",
+ "uncertainties": [
+  "The main verb governing this clause is not present in this verse."
+ ],
+ "plain_english": "And for whichever deity, as are its ornament and vehicle..."
 }

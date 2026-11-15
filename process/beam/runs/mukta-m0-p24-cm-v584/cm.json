@@ -3,24 +3,24 @@
  "verse": 584,
  "rows": [
   {
-   "lemma": "yā",
-   "morph": "pron.nom.sg.f",
-   "grounds": "relative pronoun"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "nārī",
-   "morph": "n.nom.sg.f",
-   "grounds": "nominative subject"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
   },
   {
-   "lemma": "garbhasambhūtiḥ",
-   "morph": "n.nom.sg.f",
-   "grounds": "compound sense"
+   "lemma": "mārībhayaṃ",
+   "morph": "compound=mārī+bhaya (n.nom.sg)",
+   "grounds": "fear or danger of epidemic"
   },
   {
-   "lemma": "punastasyā",
-   "morph": "pron.dat.sg.f",
-   "grounds": "compound sense"
+   "lemma": "tatra",
+   "morph": "(indecl.)",
+   "grounds": "locative reference to that place"
   },
   {
    "lemma": "na",
@@ -28,9 +28,19 @@
    "grounds": "negation"
   },
   {
-   "lemma": "jāyate",
-   "morph": "v.3.sg.act-pres",
-   "grounds": "present"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
+  },
+  {
+   "lemma": "rogastadā",
+   "morph": "compound=roga+tadā",
+   "grounds": "fused form: rogaḥ + tadā; sandhi noted, token not split"
+  },
+  {
+   "lemma": "priye",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   }
  ]
 }
