@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[right](adhikāro) [by+preceptorhood](gurutvena) [of+brahmin](brāhmaṇasya) [only](eva) [is+declared](kīrtitaḥ)
+[qualification](adhikāraḥ) [by+authority](gurutvena) [of+brahmin](brāhmaṇasya) [only](eva) [is+declared](kīrtitaḥ)
 
 ## mukta-m0-p07-v152
-[then](atha) [teacher+best](ācārya+varaḥ) [fortunate](śrīmān) [first-born](agra+janmā) [very+skilled](su+peśalaḥ) (svā0 15|1) [thus](iti) [from+scripture](śruteḥ) [of+brahmin](brāhmaṇasya) [only](eva)
+[then+best+teacher](atha+ācārya+varaḥ) [glorious+first-born](śrīmān+agra+janmā) [very+skilled](su+peśalaḥ) (svā0 15|1) [thus](iti) [from+scripture](śruteḥ) [of+brahmin+only](brāhmaṇasya+eva)
 
 ## mukta-m0-p07-v153
-[who](yaḥ) [knows](vetti) [only](eva) [appointed](niyuktaḥ) [being](san) [by+teacher](guruṇā) [in+respect](gaurave) [teacher](guruḥ)
+[who](yaḥ) [knows+indeed](vetti+eva) [appointed](niyuktaḥ) [being](san) [by+teacher](guruṇā) [in+reverence](gaurave) [is+teacher](guruḥ)
 
 ## mukta-m0-p07-v154
-[nor](na) [not+truth-knower](a+tattva+vid) [not+practiced](an+abhyasta) [action+path](karma+mārgaḥ) [also](api) [not](no) [is+opined](mataḥ) || [thus](iti)
+[not+knower+of+truth](na+atattva+vida) [not+practiced+action+path+also](anabhyasta+karma+mārgaḥ+api) [not](na) [is+considered](mataḥ) [thus](iti)
 
 ## mukta-m0-p07-v155
-[by+śaiva+doctrine](śaiva+mānam) [not+finding](a+vindadbhiḥ) [by+paśu+doctrine+adherents](paśu+māna+anuvāsitaiḥ)
+[śaiva+view](śaiva+mānam) [not+finding+by](avindadbhiḥ) [animal+view](paśu+māna) [dwelling+by](anuvāsitaiḥ)
 
 ## mukta-m0-p07-v156
-[from+inconclusiveness](an+aikāntika+tvāt)
+[non+definiteness+from](ana+ekāntika+tva+āt)
 
 ## mukta-m0-p07-v157
-[self+luminous](sva+prakāśam) [that](asau) [god](devaṃ) [illuminates](prakāśayati) [śaṅkaram](śaṅkaram)
+[own+luminous](sva+prakāśam) [that](asau) [god](devam) [illuminates](prakāśayati) [śaṅkara](śaṅkaram)
 
 ## mukta-m0-p07-v158
-[like+what+will+be+said](vakṣyamāṇa+vat) [of+self+luminous](sva+prakāśasya) [of+lord](īśvarasya) [to+buddhi+ascent](buddhi+upārohaḥ) [would+be+established](siddhyet)
+[as+said+before](vakṣyamāṇa+vat) [of+self+luminous+lord](sva+prakāśasya+īśvarasya) [to+buddhi+ascent](buddhi+upārohaḥ) [would+be+established](siddhyet)
 
 ## mukta-m0-p07-v159
-[not](na) [that](so) [is]('sthi) [time](kālo) [where](yatra) [this](ayam) [by+here+being](atra+sthena) [is+experienced](anubhūyate)
+[not](na) [that](saḥ) [is](asthi) [time](kālaḥ) [where](yatra) [this](ayam) [here+being+by](atra+sthena) [is+experienced](anubhūyate)
 
 ## mukta-m0-p07-v160
-[by+perceiver](upalabdhṛt) [having+been+perceived](upalabhya) [that](tad) [from+non-existence+of+that](tad+abhāvāt) [this](idaṃ) [but](tvasat)
+[by+perceiving+perceiver+this](upalabhya+upalabdhṛt+idam) [that+non-existence+from](tad+abhāvāt) [this](idam) [but+non-existent](tu+asat)
 
 ## mukta-m0-p07-v161
-[on+back+placed](pṛṣṭha+sthā) [second](dvitīyā) [note](ṭippaṇī) [should+be+seen](draṣṭavyā)) [from+buddhi+determinedness](buddhi+adhyavasitatvāt) [person](puruṣo) [also]('pi) [is+called](ca+ityate) [thus](iti)
+[on+back+placed](pṛṣṭha+sthā) [second](dvitīyā) [note](ṭippaṇī) [should+be+seen](draṣṭavyā) [by+buddhi+determination+from](buddhi+adhyavasitatvāt) [puruṣa+also](puruṣaḥ+api) [is+called](ca+ityate) [thus](iti)
 
 ## mukta-m0-p07-v162
-[contrary](viparītā) [and](ca) [buddhi](buddhiḥ) [may+be](syād) [contradiction](virodhaḥ) [and+also](ca+api) [in+view](darśane)
+[opposite](viparītā) [and](ca) [buddhi](buddhiḥ) [would+be](syāt) [contradiction+also](virodhaḥ+ca+api) [in+view](darśane)
 
 ## mukta-m0-p07-v163
-[in+own-form](sva+rūpe) [abiding]('vasthānam) (yo0 sū0 1| 3) [thus](iti)
+[in+own+form+abiding](sva+rūpe+avasthānam) (yo0 sū0 1| 3) [thus](iti)
 
 ## mukta-m0-p07-v164
-[not](na) [to+illuminate](prakāśayituṃ) [able](śaktā) [from+being+pāśa](pāśatvāt) [like+fetters+etc](nigaḍa+ādi+vat)
+[not](na) [to+illuminate](prakāśayitum) [able](śaktā) [from+being+pāśa](pāśatvāt) [like+fetters+etc](nigaḍa+ādi+vat)
 
 ## mukta-m0-p07-v165
-[in+sword](khaḍge) [of+rein-holder](abhīśumato) [like](yadvat) [of+that+part](tad+aṃśasya) [but](tvasau) [error](bhramaḥ) || [thus](iti)
+[in+sword+of+rider](khaḍge+abhīśumataḥ) [as](yadvat) [that+part+of](tad+aṃśasya) [but+that](tu+asau) [error](bhramaḥ) [thus](iti)
 
 ## mukta-m0-p07-v166
-[of+burning+and+overpowering](dāha+abhibhavayoḥ) [of+doer](kartuḥ) [for+illumination](prakāśāya) [desired](abhivāñchitāḥ)
+[of+burning+overpowering](dāha+abhibhavayoḥ) [of+doer](kartuḥ) [for+illumination](prakāśāya) [desired](abhivāñchitāḥ)
 
 ## mukta-m0-p07-v167
-[not](na) [by+to+be+overpowered](abhibhāvyābhiḥ) [by+torches](ulkābhiḥ) [and+sun-maker](dinakṛt) [and](ca) [overpowerer](abhibhāvakaḥ)
+[not+to+be+overpowered+by+torches](na+abhibhāvyābhiḥ+ulkābhiḥ) [and+sun+also](dinakṛt+ca) [overpowerer](abhibhāvakaḥ)
 
 ## mukta-m0-p07-v168
-[in+śiva+śakti+kalā](śiva+śakti+kale) [pure](śuddhe) [śiva](śivo) [to+be+meditated](dhyeya) [thus](iti) [saying](bruvan)
+[in+śiva+śakti+kalā+pure](śiva+śakti+kale+śuddhe) [śiva](śivaḥ) [to+be+meditated](dhyeyaḥ) [thus](iti) [saying](bruvan)
 
 ## mukta-m0-p07-v169
-[should+meditate](cintayed) [wise-one](budhaḥ) (rau0 sū0 4 | 42-43) [thus](iti)
+[should+meditate](cintayet) [wise+one](budhaḥ) (rau0 sū0 4 | 42-43) [thus](iti)
 
 ## mukta-m0-p07-v170
-[not](na) [to+be+meditated](dhyeyo) [nor](na+api) [and](ca) [to+be+known](jñeyas) [therefore](tasmād) [lord](īśo) [by+atom-bonds](aṇu+bandhanaiḥ)
+[not](na) [to+be+meditated](dhyeyaḥ) [nor](na+api) [and](ca) [to+be+known](jñeyaḥ) [therefore+lord](tasmāt+īśaḥ) [by+atom+bonds](aṇu+bandhanaiḥ)
 
 ## mukta-m0-p07-v171
 [is+able](śakyate)
 
 ## mukta-m0-p07-v172
-[śiva](śivaṃ) [with+śakti+etc](śakty+ādibhiḥ) [together](sārdhaṃ) [sees](paśyaty) [self](ātmā) [gone+covering](gata+āvṛtiḥ)
+[śiva](śivam) [with+śakti+etc](śakti+ādibhiḥ) [together](sārdham) [sees](paśyati) [self](ātmā) [gone+covering](gata+āvṛtiḥ)
 
 ## mukta-m0-p07-v173
-[no](na) [of+seer+and+seeable](draṣṭṛ+draṣṭavyayoḥ) [of+both](dvayor) [also](api) [by+pervasiveness](vyāpakatvena) [thus](tathā) [of+seeing+impossibility](darśana+asaṃbhavāt)
+[no](na) [of+seer+and+seen+of+both+also](draṣṭṛ+draṣṭavyayoḥ+dvayoḥ+api) [by+pervasiveness](vyāpakatvena) [thus](tathā) [of+seeing+impossibility+from](darśana+asaṃbhavāt)
 
 ## mukta-m0-p07-v174
-[of+embodied+atom](sakala+aṇoḥ) [śiva+knowledge](śiva+jñānaṃ) [is+seen](dṛśyate) [that](tat) [how](kathaṃ) [may+be](bhavet)
+[of+sakala+atom](sakala+aṇoḥ) [śiva+knowledge](śiva+jñānam) [is+seen](dṛśyate) [that+how](tat+katham) [may+be](bhavet)
 
 ## mukta-m0-p07-v175
-[of+sound](śabdasya) [by+ether+wind+causality](ākāśa+vāyu+hetutvena) [by+being+pāśa](pāśatvāt) [how](kathaṃ) [then](tatas) [that+knowledge](tat+pratipattiḥ)
+[of+sound](śabdasya) [ākāśa+wind+causality+by](ākāśa+vāyu+hetutvena) [by+being+pāśa](pāśatvāt) [how](katham) [from+that](tatas) [that+knowledge](tat+pratipattiḥ)

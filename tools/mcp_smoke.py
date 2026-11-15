@@ -48,6 +48,7 @@ FAST = [
     ("queue_guard", {}),
     ("recycle", {"dry_run": True}),
     ("concepts", {"term": "śiva"}),
+    ("burn_status", {}),
 ]
 
 # Heavier but still read-only; skipped under --quick.
@@ -84,6 +85,22 @@ def main() -> int:
     if missing:
         fails.append(f"static: unregistered tools: {missing}")
     print(f"static: {len(registered)}/{len(M.TOOLS)} tools registered", flush=True)
+
+    # BURN-MODE contract: the burn seeds T1+L0 only (tal_gloss/tal_cm), never a
+    # triple. This is the invariant that keeps shallow argmap/L2 out of the
+    # corpus (BEAM-FLOW §0.0). Pure in-memory check; writes nothing.
+    try:
+        sys.path.insert(0, str(ROOT / "tools"))
+        import auto_burn
+        q: list = []
+        auto_burn.seed(q, "__smoke__", "__smoke-song__", [1, 2], "smoke")
+        kinds = {t.get("kind") for t in q}
+        if not kinds <= {"tal_gloss", "tal_cm"} or "tal_triple" in kinds:
+            fails.append(f"burn-mode: seeded non-T1/L0 kinds {sorted(kinds)}")
+        else:
+            print(f"PASS burn-mode seeds {sorted(kinds)} only", flush=True)
+    except Exception as e:  # noqa: BLE001
+        fails.append(f"burn-mode: {type(e).__name__}: {e}")
 
     calls = FAST + ([] if quick else SLOW)
     passed = 0

@@ -46,6 +46,11 @@ Sort key: `(bucket, verses, T)`. Tune `short_max` (`priority(short_max=…)`):
 - Prose (0 verses) ranks in its own tail — never ahead of verse texts.
 - Re-rank: `python3 tools/prioritize_mukta.py` (from `translation-work/`).
 
+> **Naming note.** "Ranked burn" / `ranked_burn.json` here means the
+> **priority order** over the corpus (which work to start next) — NOT the
+> burn lane. "The burn" (BEAM-FLOW §0.0) is the T1+L0 drafting factory. They
+> share the word "burn" and nothing else; do not conflate them.
+
 Current top of queue (untranslated, shortest): see
 `python3 tools/bibliography.py priority --limit 20`.
 

@@ -1,6 +1,6 @@
 # MCP.md — shastra MCP: translation-work as callable tools
 
-*2026-11-12. Server: `mcp_server.py` v3.5.0 (FastMCP stdio, **38 tools**). Registered as
+*2026-11-15. Server: `mcp_server.py` v3.6.0 (FastMCP stdio, **39 tools**). Registered as
 `shastra` in `~/.config/opencode/opencode.jsonc` — restart opencode to load.
 This file is the complete manual: concepts, lanes, every tool with WHEN and
 worked examples, the autonomous loop, troubleshooting, and boundaries. The law
@@ -12,7 +12,7 @@ acting. On any conflict between this file and the skills, the skills win
 
 1. Concepts — DUMB/SMART/scripts, machine-proposed, the layers
 2. Skills — the law, and how to load it
-3. Tool reference — all 38 tools: purpose, args, returns, WHEN, example
+3. Tool reference — all 39 tools: purpose, args, returns, WHEN, example
 4. Standard flows — small work, large work, autonomy (with worked sessions)
 5. Decision trees — which lane, which tool next
 6. Troubleshooting — symptoms, causes, fixes
@@ -120,12 +120,34 @@ the assessor's morphology, not a promotion path.
 means, how it is computed, and why to trust it — point ChatGPT here before
 it cites any PASS).
 
-### `swarm_seed(work, song, group=24)` — queue-only. Idempotent.
+### `swarm_seed(work, song, group=24, token_budget=0, layers="t1l0")` — queue-only. Idempotent.
 
-Seeds triple tasks (gloss+CM+argmap+L2 per verse-group) for missing coverage
-only. REFUSES unbriefed Tantraloka fronts. Default 24 verses/group; oversize
-groups auto-halve on output ceiling. Seeding is free — workers + quota are the
-constraints, not tasks.
+**Default `layers="t1l0"` = THE BURN:** seeds per-verse `tal_gloss` (T1) then
+`tal_cm` (L0) only. **No brief required** (brief is post-hoc, for the assessor
+lane). This is the continuous bulk lane — never argmap/L2/C1.
+
+`layers="full"` seeds `tal_triple` (gloss+CM+argmap+L2 per group) for assessor
+work. It REFUSES unbriefed Tantraloka fronts; 24v/group default; oversize
+groups auto-halve; `token_budget` packs prose-heavy fronts (≈250). Seeding is
+free — workers + quota are the constraints.
+
+### `burn_status()` — read. The burn dashboard.
+
+Canonical burn definition + live state: gloss (T1) and cm (L0) done counts,
+queued gloss/cm, any **stray pending `tal_triple`/`tal_am`** (must be 0 in
+burn mode — `ok`), legacy argmap runs, active works, verses indexed, workers,
+paused. Use this to confirm the bulk lane is T1+L0 only.
+
+```json
+{}
+```
+
+**What the burn is (canonical).** T1 (contract gloss rows) + L0 (per-token
+morphology/grounds) for the whole Muktabodha corpus, free beam, at scale —
+**stops at L0**. Argmap/L2/C1 need a post-hoc web-searched brief + assessor
+and are NEVER burn output. Batch triples are deprecated for the burn;
+`tal_stage --t1l0` is the manual equivalent, `tools/burn_wave.sh` →
+`tools/auto_burn.py` the runner (systemd `tw-wave`).
 
 ### `swarm_status()` — read. Queue by kind × status + worker liveness.
 

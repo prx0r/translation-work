@@ -175,8 +175,8 @@ uniform 8s"). Vague bounces waste cycles.
 setsid nohup bash tools/tal_run_all.sh > process/beam/tal_campaign.log 2>&1 < /dev/null &
 ```
 
-Per ahnika, `tools/tal_stage.py` runs: parse legacy T1 → seed **tal_triple**
-tasks (12 verses per call: gloss+CM+argmap+L2 in one pass, one session per
+Per ahnika, `tools/tal_stage.py` runs (assessor/full lane): parse legacy T1 →
+seed **tal_triple** tasks (gloss+CM+argmap+L2 in one pass, one session per
 ahnika for prompt-cache reuse, adaptive split on output-ceiling failures) →
 wait (workers must be alive) → assemble working-t1/l0/argmap/l2 + data/*.json
 → `validate_song` → `proof_record --shastra` → STATUS/REGISTRY → manifest →
@@ -290,7 +290,7 @@ humans only review meaning and approve PASS.
 
 | Unit | Role | What it does |
 |---|---|---|
-| `tw-wave.service` | **queue filler** | `burn_wave.sh` → `auto_burn.py` over every `mukta-m*` work: builds working-T1 (beam) → coverage gate → seeds 12–24v `tal_triple` tasks. Restarts always, so a second pass re-seeds anything missed. |
+| `tw-wave.service` | **THE BURN** (T1+L0 filler) | `burn_wave.sh` → `auto_burn.py` over every `mukta-m*` work: builds working-T1 (beam) → coverage gate → seeds per-verse **`tal_gloss` (T1) then `tal_cm` (L0)**. **Never triples** (BEAM-FLOW §0.0). Restarts always, so a second pass re-seeds anything missed. Monitor `shastra.burn_status`. |
 | `tal-campaign.service` | **drafting supervisor** | `harness.sh`: health-gates beam, keeps `continue/watchdog/LOOP` alive, enforces workers `w1..w3` (staggered), runs assessor sweep, tries assembly, logs gates. |
 | `tw-assemble.service` | **auto-closer** | `assemble_all.py`: dynamically discovers every `working-t1-<song>.json`; when all verses have gloss+cm+am runs, runs `tal_stage` (assemble→validate→proof, dispositions honoured) and records PASS/BLOCKED. Fixed 2026-11-13 (was crashing on `Path.glob(recursive=)`; now covers ALL fronts, not a hardcoded 3). |
 | `tw-recycle.timer` | **failure recycler** | `recycle_failed.py`: halves + requeues retryable failed triples. |
