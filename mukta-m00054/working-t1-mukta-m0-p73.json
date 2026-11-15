@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "rājadvāre",
-"quick_gloss": "at-king's-gate"
+"quick_gloss": "at-royal-gate"
 },
 {
 "surface": "mahādurgge",
-"quick_gloss": "in-great-fortress"
+"quick_gloss": "at-great-fortress"
 },
 {
 "surface": "pātu",
@@ -23,8 +23,8 @@
 "quick_gloss": "me"
 },
 {
-"surface": "gaṇanāyakaḥ",
-"quick_gloss": "leader-of-troops"
+"surface": "aṅgaṇanāyakaḥ",
+"quick_gloss": "leader-of-gaṇas"
 }
 ]
 },
@@ -44,8 +44,12 @@
 "quick_gloss": "red-garmented"
 },
 {
-"surface": "sarva+ābharaṇa+bhūṣitāḥ",
-"quick_gloss": "adorned-with-all-ornaments"
+"surface": "sarva+ābharaṇa",
+"quick_gloss": "with-all-ornaments"
+},
+{
+"surface": "bhūṣitāḥ",
+"quick_gloss": "adorned"
 }
 ]
 },
@@ -124,7 +128,7 @@
 "tokens": [
 {
 "surface": "japitvā",
-"quick_gloss": "having-chanted"
+"quick_gloss": "having-muttered"
 },
 {
 "surface": "mantra+rājantu",
@@ -135,8 +139,8 @@
 "quick_gloss": "having-meditated"
 },
 {
-"surface": "śrī+bagalāmukhīm",
-"quick_gloss": "on-glorious-Bagalamukhi"
+"surface": "śrībagalāmukhīm",
+"quick_gloss": "on-Śrī-Bagalāmukhī"
 }
 ]
 },
@@ -160,7 +164,7 @@
 "quick_gloss": "desire"
 },
 {
-"surface": "sādhyā+sādhye",
+"surface": "sādhya+asādhye",
 "quick_gloss": "in-achievable-and-unachievable"
 },
 {
@@ -177,20 +181,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gurum",
-"quick_gloss": "guru"
+"surface": "gurum+dhyātvā",
+"quick_gloss": "having-meditated-on-guru"
 },
 {
-"surface": "dhyātvā",
-"quick_gloss": "having-meditated"
-},
-{
-"surface": "surām",
-"quick_gloss": "liquor"
-},
-{
-"surface": "pītvā",
-"quick_gloss": "having-drunk"
+"surface": "surām+pītvā",
+"quick_gloss": "having-drunk-wine"
 },
 {
 "surface": "rātrau",
@@ -198,7 +194,7 @@
 },
 {
 "surface": "śakti+samanvitaḥ",
-"quick_gloss": "endowed-with-power"
+"quick_gloss": "endowed-with-śakti"
 }
 ]
 },
@@ -219,15 +215,11 @@
 },
 {
 "surface": "prajapet",
-"quick_gloss": "should-mutter"
+"quick_gloss": "one-should-mutter"
 },
 {
-"surface": "mantram",
-"quick_gloss": "mantra"
-},
-{
-"surface": "sahasraṅ",
-"quick_gloss": "thousand"
+"surface": "mantra+sahasram",
+"quick_gloss": "thousand-mantras"
 },
 {
 "surface": "kavacam",
@@ -281,10 +273,10 @@
 },
 {
 "surface": "yāvat",
-"quick_gloss": "as-long-as"
+"quick_gloss": "until"
 },
 {
-"surface": "pratyahañ",
+"surface": "pratyaham",
 "quick_gloss": "daily"
 },
 {
@@ -293,7 +285,7 @@
 },
 {
 "surface": "sahasrakam",
-"quick_gloss": "thousand"
+"quick_gloss": "a-thousand"
 }
 ]
 },
@@ -305,12 +297,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃstambhañ",
+"surface": "saṃstambham",
 "quick_gloss": "paralysis"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "occurs"
+"quick_gloss": "arises"
 },
 {
 "surface": "śatroḥ",
@@ -322,7 +314,7 @@
 },
 {
 "surface": "atra",
-"quick_gloss": "indeed"
+"quick_gloss": "here"
 },
 {
 "surface": "kāryā",
@@ -359,7 +351,7 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 },
 {
 "surface": "kavacasya",
@@ -379,7 +371,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vandhyāyāñ",
+"surface": "vandhyāyām",
 "quick_gloss": "for-barren-woman"
 },
 {
@@ -391,8 +383,12 @@
 "quick_gloss": "son"
 },
 {
-"surface": "vidyā+bala+samanvitaḥ",
-"quick_gloss": "endowed-with-knowledge-and-strength"
+"surface": "vidyā+bala",
+"quick_gloss": "with-knowledge-and-strength"
+},
+{
+"surface": "samanvitaḥ",
+"quick_gloss": "endowed"
 }
 ]
 },
@@ -437,8 +433,12 @@
 "quick_gloss": "hand"
 },
 {
-"surface": "tat+hṛdaye",
-"quick_gloss": "on-that-heart"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "hṛdaye",
+"quick_gloss": "on-heart"
 },
 {
 "surface": "datvā",
@@ -450,7 +450,7 @@
 },
 {
 "surface": "tithi+vārakam",
-"quick_gloss": "lunar-day-and-weekday"
+"quick_gloss": "with-lunar-day-and-weekday"
 }
 ]
 },
@@ -496,7 +496,7 @@
 },
 {
 "surface": "dakṣiṇe",
-"quick_gloss": "on-right-arm"
+"quick_gloss": "on-right"
 },
 {
 "surface": "bāhau",
@@ -525,11 +525,11 @@
 "tokens": [
 {
 "surface": "brahmāstra+ādīni",
-"quick_gloss": "Brahma-weapons"
+"quick_gloss": "brahmā-weapons-etc."
 },
 {
 "surface": "śastrāṇi",
-"quick_gloss": "and-other-weapons"
+"quick_gloss": "weapons"
 },
 {
 "surface": "na",
@@ -558,11 +558,11 @@
 "tokens": [
 {
 "surface": "vṛhaspati+samaḥ",
-"quick_gloss": "equal-to-Brihaspati"
+"quick_gloss": "equal-to-Bṛhaspati"
 },
 {
 "surface": "vāpi",
-"quick_gloss": "or-even"
+"quick_gloss": "or"
 },
 {
 "surface": "vibhave",
@@ -594,8 +594,8 @@
 "quick_gloss": "becomes"
 },
 {
-"surface": "gaṅgā+pravāhavat",
-"quick_gloss": "like-flow-of-Ganga"
+"surface": "gaṅgā+pravāha+vat",
+"quick_gloss": "like-flow-of-Gaṅgā"
 }
 ]
 },
@@ -608,11 +608,11 @@
 "tokens": [
 {
 "surface": "ekādaśa+śatam",
-"quick_gloss": "up-to-eleven-hundred"
+"quick_gloss": "eleven-hundred"
 },
 {
 "surface": "yāvat",
-"quick_gloss": "as-long-as"
+"quick_gloss": "until"
 },
 {
 "surface": "puraścaraṇam",
@@ -645,7 +645,7 @@
 },
 {
 "surface": "duṣṭebhyaḥ",
-"quick_gloss": "and-to-wicked"
+"quick_gloss": "to-wicked"
 },
 {
 "surface": "ca",
@@ -670,7 +670,7 @@
 },
 {
 "surface": "japitvā",
-"quick_gloss": "having-chanted"
+"quick_gloss": "having-muttered"
 },
 {
 "surface": "tu",
@@ -735,7 +735,7 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "pīta+tejaḥ+svarūpiṇīm",
+"surface": "pīta+tejas+svarūpiṇīm",
 "quick_gloss": "of-yellow-radiance-form"
 }
 ]

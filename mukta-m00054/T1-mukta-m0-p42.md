@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[furrow-goddess](sītā) [mātaṅgī](mātaṅginī) [intelligence](medhā) [madhu-demon-slayer](madhu+daitya+vināśinī)
+[sītā](sītā) [mātaṅginī](mātaṅginī) [medhā](medhā) [madhu+daitya+vināśinī](madhudaityavināśinī)
 
 ## mukta-m0-p42-v1027
-[prosperous-one](bhāvukā) [bagalā](bagalā) [magical-rite](kṛtyā) [young-girl](bālā) [tripura-beauty](tripura+sundarī)
+[bhāvukā](bhāvukā) [bagalā](bagalā) [kṛtyā](kṛtyā) [bālā](bālā) [tripura+sundarī](tripurasundarī)
 
 ## mukta-m0-p42-v1028
-[hundred-sacrifice-consisting](śata+yajña+mayī) [being](sattvā) [hundred-sacrifice-boon-giver](śata+kratu+vara+pradā)
+[śata+yajña+mayī](śatayajñamayī) [sattvā](sattvā) [śata+kratu+vara+pradā](śatakratuvarapradā) [devī](devī)
 
 ## mukta-m0-p42-v1029
-[moon-sun-fire-eyed](soma+sūrya+agni+nayanā) [tiger-skin-garment-covered](vyāghra+carma+ambara+āvṛtā)
+[soma+sūrya+agni+nayanā](somasūryāgninayanā) [vyāghra+carma+ambara+āvṛtā](vyāghracarmāmbarāvṛtā) [devī](devī) [mātā](mātā)
 
 ## mukta-m0-p42-v1030
-[thus](iti) [to-you](te) [told](kathitaṅ) [secret](gopyan) [of-names](nāmnām) [eight-more-than-hundred](aṣṭa+uttaraṃ) [hundred](śatam)
+[iti](iti) [te](te) [kathitam](kathitaṅ) [gopyam](gopyan) [nāmnām](nāmnām) [aṣṭa+uttaram](aṣṭottaraṃ) [śatam](śatam)
 
 ## mukta-m0-p42-v1031
-[to-be-kept-secret](gopanīyaṅ) [to-be-kept-secret](gopanīyaṅ) [to-be-kept-secret](gopanīyaṅ) [in-kali-age](kalau) [in-age](yuge)
+[gopanīyam](gopanīyaṅ) [gopanīyam](gopanīyaṅ) [gopanīyam](gopanīyaṅ) [kalau](kalau) [yuge](yuge)
 
 ## mukta-m0-p42-v1032
-[therefore](tasmāt) [crore-times](koṭi+guṇam) [merit](puṇyaṃ) [of-hymn](stavasya) [of-this](asya) [from-recitation](prakīrtanāt)
+[tasmāt](tasmāt) [koṭi+guṇam](koṭiguṇam) [puṇyam](puṇyaṃ) [stavasya](stavasyāsya) [asya](asya) [prakīrtanāt](prakīrtanāt)
 
 ## mukta-m0-p42-v1033
-[smiling-faced](smera+mukhī) [boon-goad-noose-fearlessness-hand](vara+da+aṅkuśa+pāśa+abhīti+karām) [I-worship](prabhaje) [lady-of-the-world](bhuvaneśīm)
+[smera+mukhīm](smeramukhī/) [vara+da+aṅkuśa+pāśa+abhīti+karām](vvaradāṅkuśapāśābhītikarām) [prabhaje](prabhaje) [bhuvaneśīm](bhuvaneśīm)
 
 ## mukta-m0-p42-v1034
-[I-praise](īḍe) [for-all-prosperity](sakala+sampattyai) [world-cause](jagat+kāraṇam) [mother](ambikām)
+[īḍe](īḍe) [sakala+sampattyai](sakalasampattyai) [jagat+kāraṇam](jagatkāraṇam) [ambikām](ambikām)
 
 ## mukta-m0-p42-v1035
-[I-purify](vvimalayāmi) [I](aham) [O-mother](ambike) [you](tvām)
+[vimalayāmi](vvimalayāmy) [aham](aham) [ambike](ambike) [tvām](tvām)
 
 ## mukta-m0-p42-v1036
-[of-god](devasya) [of-enemy-of-love](manmatha+ripor) [even](api) [powerfulness-cause](śaktimattā+hetus) [you](tvam) [alone](eva) [indeed](khalu) [O-daughter-of-mountain-king](parvata+rāja+putri)
+[devasya](devasya) [manmatha+ripoḥ](manmatharipor) [api](api) [śaktimattā+hetuḥ](śaktimattāhetus) [tvam](tvam) [eva](eva) [khalu](khalu) [parvata+rāja+putri](parvatarājaputri)
 
 ## mukta-m0-p42-v1037
-[by-own-sight](sva+dṛṣṭyā)
+[sva+dṛṣṭyā](svadṛṣṭyā) [sva](sva) [dṛṣṭyā](dṛṣṭyā) [eva](eva)
 
 ## mukta-m0-p42-v1038
-[you-are-situated](sthitā) [are](asi)
+[sthitā](sthitā) [asi](asi) [tvam](tvam) [eva](eva)
 
 ## mukta-m0-p42-v1039
-[indeed](khalu) [unbroken-world-rulers](akhaṇḍa+bhuvana+adhi+bhuvaḥ) [spread-forth](prathante)
+[khalu](khalu) [akhaṇḍa+bhuvana+adhi+bhuvaḥ](akhaṇḍabhuvanādhibhuvaḥ) [prathante](prathante) [te](te)
 
 ## mukta-m0-p42-v1040
-[pervading](samaśnuvānā)
+[samaśnuvānā](samaśnuvānā) [sam](sam) [aśnuvānā](aśnuvānā) [sati](sati)
 
 ## mukta-m0-p42-v1041
-[womb-bearers](garbbha+bhājaḥ)
+[garbha+bhājaḥ](garbbhabhājaḥ) [garbha](garbbha) [bhājaḥ](bhājaḥ) [te](te)
 
 ## mukta-m0-p42-v1042
-[form](mūrttim)
+[mūrttim](mūrttim) [mūrtti](mūrtti) [tām](tām) [tvām](tvām)
 
 ## mukta-m0-p42-v1043
-[yogins](yoginas) [you](tvām)
+[yoginaḥ](yoginas) [tvām](tvām) [te](te) [bhajanti](bhajanti)
 
 ## mukta-m0-p42-v1044
-[I-honor](amāmi)
+[amāmi](amāmi) [aham](aham) [tvām](tvām) [sadā](sadā)
 
 ## mukta-m0-p42-v1045
-[your-two-feet](tava+aṅghrī)
+[tava](tava) [aṅghrī](aṅghrī) [tau](tau) [pādau](pādau)
 
 ## mukta-m0-p42-v1046
-[to-you-bowed](tava+ānatas) [I-am](asmi)
+[tava](tava) [ānataḥ](ānato) [asmi](asmi) [aham](aham)
 
 ## mukta-m0-p42-v1047
-[of-heart](hṛdayasya) [in-middle](madhye)
+[hṛdayasya](hṛdayasya) [madhye](madhye) [tava](tava) [sthāne](sthāne)
 
 ## mukta-m0-p42-v1048
-[may-cause-to-be-ashamed](vilajjayetām)
+[vilajjayetām](vilajjayetām) [vi](vi) [lajjayetām](lajjayetām) [tau](tau)
 
 ## mukta-m0-p42-v1049
-[not](na) [I](aham)
+[na](na) [aham](aham) [na](nā) [asmi](aham)
 
 ## mukta-m0-p42-v1050
-[born](jātaḥ)
+[jātaḥ](jātaḥ) [janitaḥ](jātaḥ) [utpannaḥ](jātaḥ) [aham](aham)
