@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## vtn-p01-v1
-[that](tat) [I-bow-to](naumi) [sāhasa+supreme](sāhasa+varaṃ) [guru+mouth+accessible](guru+vaktra+gamyam)
+[that](tat)+[I-bow](naumi) [sudden](sāhasa)+[supreme](varam) [guru](guru)+[mouth](vaktra)+[accessible](gamyam)
 
 ## vtn-p01-v2
-[some](kaḥ) [api](api) [unsurpassed+consciousness+space](anuttara+cit+vyoma) [own-nature](svabhāvaḥ) [may-be-victorious](jayatāt) [unborn](ajaḥ)
+[some](kaḥ)+[indeed](api)+[unsurpassed](anuttara)+[consciousness](cit)+[space](vyoma)+[nature](svabhāvaḥ) [may-be-victorious](jayatāt)+[unborn](ajaḥ)
 
 ## vtn-p01-v3
-[worshipper+worshipped+worships](pūjya+pūjaka+pūjābhiḥ) [abandoned](projjhitaṃ) [which](yat) [I-bow-to](namāmi) [that](tat)
+[worshipped](pūjya)+[worshipper](pūjaka)+[worships](pūjābhiḥ) [abandoned](projjhitam) [which](yat)+[I-bow](namāmi) [that](tat)
 
 ## vtn-p01-v4
-[great+space](mahā+vyoma) [fully-entered](samāviṣṭaḥ) [I-stand](tiṣṭhāmi) [in-this](asmin) [untroubled](nirāvilaḥ)
+[great](mahā)+[space](vyoma)+[entered](samāviṣṭaḥ) [I-stand](tiṣṭhāmi) [in-this](asmin) [untroubled](nirāvilaḥ)
 
 ## vtn-p01-v5
-[consciousness+thought+resolve](saṃvid+vikalpa+saṃkalpa) [striking](ghaṭṭanaṃ) [I-bow-to](naumi) [unsurpassed](anuttaram)
+[consciousness](saṃvit)+[thought](vikalpa)+[intention](saṃkalpa)+[friction](ghaṭṭanaṃ) [I-bow](naumi)+[unsurpassed](anuttaram)
 
 ## vtn-p01-v6
-[by-whom](kena) [api](api) [is-done](kriyate) [properly](samyak) [supreme+reality+nourished](para+tattva+upabṛṃhitā)
+[by-whom](kenāpi) [indeed](api) [is-done](kriyate) [properly](samyak)+[supreme](para)+[reality](tattva)+[nourished](upabṛṃhitā)
 
 ## vtn-p01-v7
-[great+sāhasa+function](mahā+sāhasa+vṛttyā) [own-nature+attainment](svarūpa+lābhaḥ)
+[great](mahā)+[sudden](sāhasa)+[mode](vṛttyā) [own-nature](svarūpa)+[attainment](lābhaḥ)
 
 ## vtn-p01-v8
-[to-be-expounded+stated](vakṣyamāṇa+kathita) [by-sequence](krameṇa) [to-be-understood](adhigantavyaḥ)
+[to-be-stated](vakṣyamāṇa)+[stated](kathita)+[sequence](krameṇa)+[to-be-attained](ā-dhigantavyaḥ)
 
 ## vtn-p01-v9
-[continually](satatam) [abiding](avasthitiḥ) [state](sthiti) [thus](iti) [meaning](arthaḥ)
+[continually](satatam)+[abiding](avasthitiḥ) [abiding](sthiti)+[thus](iti)+[meaning](arthaḥ)
 
 ## vtn-p01-v10
-[visarga](ḥ)
+[ḥ](ḥ)
 
 ## vtn-p01-v11
-[obtained+great+instruction](prāpta+mahā+upadeśa) [named](nāmā) [manifests](āvirbhavati) [thus](iti) [meaning](arthaḥ)
+[obtained](prāpta)+[great](mahā)+[instruction](upadeśa)+[named](nāmā)+[manifesting](āvirbhavati)+[thus](iti)+[meaning](ar-thaḥ)
 
 ## vtn-p01-v12
-[pair+swallowing](yugma+grāsāt) [without-interval](niravakāśa) [consciousness+abiding](saṃvin+niṣṭhā)
+[pair](yugma)+[devouring](grāsāt)+[without-interval](niravakāśa)+[consciousness](saṃvin)+[firmness](niṣṭhā)
 
 ## vtn-p01-v13
-[without-support+formless](nirupādhi+nīrūpa) [no-own-nature+identity](niḥsvarūpa+tādātmyaṃ) [becomes](bhavati) [thus](iti) [meaning](arthaḥ)
+[without-support](nirupādhi)+[formless](nīrūpa)+[without-own-nature](niḥsvarūpa)+[identity](tādātmyaṃ) [becomes](bhavati)+[thus](iti)+[meaning](arthaḥ)
 
 ## vtn-p01-v14
-[accomplished+yoginī+union](siddha+yoginī+saṃghaṭṭāt) [great+festival+arising](mahā+melā+upodayaḥ)
+[accomplished](siddha)+[yoginī](yoginī)+[assembly](saṃghaṭṭāt)+[great](mahā)+[festival](melāpa)+[arising](udayaḥ)
 
 ## vtn-p01-v15
-[supreme+non-dual+absorption](parama+advaya+samāveśaḥ) [everywhere](sarvatra) [situated](avasthitaḥ) [thus](iti) [said](uktaṃ) [becomes](bhavati)
+[supreme](parama)+[non-dual](advaya)+[absorption](samāveśaḥ) [everywhere](sarvatra)+[abiding](avasthita) [thus](iti)+[stated](uktaṃ) [becomes](bhavati)
 
 ## vtn-p01-v16
-[becomes](bhavati) [thus](iti) [connection](saṃbandhaḥ)
+[becomes](bhavati)+[thus](iti) [connection](saṃbandhaḥ)
 
 ## vtn-p01-v17
-[as-mouth+taught+method](yathā+mukha+upadiṣṭa+nītyā) [own-sound](svare) [indeed](eva) [shines-forth](prathate) [thus](iti) [said](uktaṃ) [becomes](bhavati)
+[as-taught](yathā)+[mouth](mukha)+[instructed](upadiṣṭa)+[method](nītyā) [own-essence](svara) [indeed](eva) [shines-forth](prathate) [thus](iti)+[stated](uktaṃ) [becomes](bhavati)
 
 ## vtn-p01-v18
-[freed-from-bondage](vigata+bandhaṃ) [supreme](paraṃ) [brahman](brahma)
+[freed-from-bondage](vigata)+[bondage](bandhaṃ) [supreme](paraṃ) [brahman](brahma)
 
 ## vtn-p01-v19
-[shines](vibhāti) [thus](iti) [secret+meaning](rahasya+arthaḥ)
+[shines](vibhāti)+[thus](iti) [secret](rahasya)+[meaning](arthaḥ)
 
 ## vtn-p01-v20
-[own+repose+abiding](sva+viśrānti+avasthitiḥ)
+[own](sva)+[repose](viśrānti)+[abiding](avasthitiḥ)
 
 ## vtn-p01-v21
-[abiding](vasthitiḥ) [fifth+state+transcending](pañcama+pada+atiśāyinī) [without-interval](niravakāśa) [consciousness+abiding](saṃvin+niṣṭhā) [state](sthiti) [thus](iti) [meaning](arthaḥ)
+[abiding](vasthitiḥ) [fifth](pañcama)+[state](pada)+[transcending](atiśāyinī) [without-interval](niravakāśa)+[consciousness](saṃvin)+[firmness](niṣṭhā) [abiding](sthiti)+[thus](iti)+[meaning](arthaḥ)
 
 ## vtn-p01-v22
-[twelve+stream+arising](dvādaśa+vāha+udayena) [great+ray+expansion](mahā+marīci+vikāsaḥ)
+[twelve](dvādaśa)+[stream](vāha)+[arising](udayena) [great](mahā)+[ray](marīci)+[expansion](vikāsaḥ)
 
 ## vtn-p01-v23
-[by-that](tayā) [everywhere](sarvatra) [from-all-sides](sarvataḥ) [always](sarvadā) [indeed](eva) [situated](sthitaḥ) [thus](iti) [great+statement+meaning](mahā+vākya+arthaḥ)
+[by-that](tayā) [everywhere](sarvatra) [from-all-sides](sarvataḥ) [always](sarvadaiva) [abiding](sthita) [thus](iti) [great](mahā)+[statement](vākya)+[meaning](arthaḥ)
 
 ## vtn-p01-v24
-[conduct+fivefold+arising](caryā+pañcaka+udaye) [waveless+absorption](nistaraṅga+samāveśaḥ)
+[conduct](caryā)+[fivefold](pañcaka)+[arising](udaye) [waveless](nistaraṅga)+[absorption](samāveśaḥ)
 
 ## vtn-p01-v25
-[conduct+fivefold+arising](caryā+pañcaka+udayaḥ)
+[conduct](caryā)+[fivefold](pañcaka)+[arising](udayaḥ)
