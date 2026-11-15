@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[elephant-vehicle](gajayānā) [called-prapañcā](prapañcā+ākhyā) [gaurī](gaurī) [world-manifesting](viśva+prapañcikā)
+[elephant+vehicle](gajayānā) [expansion+named](prapañcākhyā) [gaurī](gaurī) [universe+manifesting](viśvaprapañcikā)
 
 ## mukta-m0-p47-v1152
-[eating](khādantī) [mango-fruit](āmra+phalaṃ) [always](nityaṃ) [monkey-faced](kapi+āsyā) [fair-complexioned](gaurā+varṇinī)
+[eating+mango+fruit](khādantyāmraphalaṃ) [always](nityaṃ) [monkey+faced](kapyāsyā) [fair+colored](gauravarṇinī)
 
 ## mukta-m0-p47-v1153
-[with-bhindipāla-and-shield](bhindipāla+kheṭābhyāṃ) [with-spear-and-sword](prāsa+asibhyāṃ) [and](ca) [endowed](saṃyutā)
+[bhindipāla+clubs](bhindipālakakheṭābhyāṃ) [with](ca) [spear+swords](prāsāsibhyāṃ) [endowed](saṃyutā)
 
 ## mukta-m0-p47-v1154
-[kaṃ](kaṃ) [fruit](phalaṃ) [scissors](kartarīṃ) [sword](khaḍgaṃ) [bearing](bibhratī) [in-left-and-right](saumya+yāmyayoḥ)
+[water](kaṃ) [fruit](phalaṃ) [scissors](kartarīṃ) [sword](khaḍgaṃ) [holding](bibhratī) [left+right](saumyayāmyayoḥ)
 
 ## mukta-m0-p47-v1155
-[donkey-seated](khara+sthā) [brown-colored](babhru+varṇā) [should-be](syāt) [flesh-desiring](piśita+āśā) [very-emaciated](ati+durbalā)
+[on-donkey](kharasthā) [brown+colored](babhruvarṇasyāt) [flesh+desiring](piśitāśā) [very+emaciated](atidurbalā)
 
 ## mukta-m0-p47-v1156
-[flag](dhvana) [ḍamaru-drum](iḍamaru) [and-scissors](kartaryau) [noose](pāśaṃ) [feather](picchaṃ) [and](ca) [bearing](bibhratī)
+[flag+drum+scissors](dhvana iḍamarukartaryau) [noose](pāśaṃ) [feather](picchaṃ) [and](ca) [holding](bibhratī)
 
 ## mukta-m0-p47-v1157
-[vamanī](vamanī) [flower-seated](puṣpaka+sthā) [should-be](syāt) [gaurī](gaurī) [accompanied-by-yakṣa-hosts](yakṣa+gaṇa+anvitā)
+[vomiting](vamanī) [on-flower+seated](puṣpakasthā) [will-be](syād) [fair](gaurī) [yakṣa+hosts+accompanied](yakṣagaṇānvitā)
 
 ## mukta-m0-p47-v1158
-[own-hood-vehicle](sva+phaṇā+yāna) [on-part](bhāje) [and](ca) [hand-placed](nyasta+hastā) [should-be-she](bhavet+iyam)
+[own+hood+vehicle+resorting](svaphaṇāyānabhāje) [and](ca) [placed+hand](nyastahastā) [should-be](bhaved) [this-one](iyam)
 
 ## mukta-m0-p47-v1159
-[axe](kuṭhāraṃ) [sweet-ball](laḍḍukaṃ) [in-left](vāme) [rosary](akṣa+mālī) [jackfruit](panasaṃ) [then](tataḥ)
+[axe](kuṭhāraṃ) [sweet-ball](laḍḍukaṃ) [in-left](vāme) [rosary](akṣamālī) [jackfruit](panasaṃ) [then](tataḥ)
 
 ## mukta-m0-p47-v1160
-[tongue-bearing](jihvā+bhṛt) [thunderbolt-holder](vajriṇī) [yellow](pītā) [four-armed-terrible-faced](catur+dor+vikṛta+ānanā)
+[tongue+bearing](jihvābhṛd) [thunderbolt+holding](vajriṇī) [yellow](pītā) [four+arm+formed+face](caturdorvikṛtānanā)
 
 ## mukta-m0-p47-v1161
-[two-swan-chariot-seated](dvi+haṃsa+vat+ratha+sthā) [should-be](syāt) [palm-tree-colored](tāla+ābhā) [wind-swift](vāyu+vegikā)
+[two+swan+faced+chariot+seated](dvihaṃsavadrathasthā) [will-be](syāt) [palm-tree+hued](tālābhā) [wind+swift](vāyuvegikā)
 
 ## mukta-m0-p47-v1162
-[large-bodied](mahā+kāyā) [and](ca) [gaurī-marked](gaurī+aṅka) [scissors-bearing](kartarī+bhṛt) [man-eating](nṛ+kādanī)
+[great+bodied](mahākāyā) [and](ca) [fair+limbed](gauryaṅka) [scissors+bearing](kartarībhṛn) [human+eating](nṛkādanī)
 
 ## mukta-m0-p47-v1163
-[trumpet](tūraṃ) [ḍamaru-drum](ḍamaruṃ) [in-right-of-her](yāmye+asyāḥ) [in-rest](śeṣe) [skull-staff-and-head](khaṭvāṅga+mastakam)
+[drum](tūraṃ) [hand-drum](ḍamaruṃ) [in-right](yāmye) [her](asyāḥ) [in-rest](śeṣe) [skull-topped-staff+skull](khaṭvāṅgamastakam)
 
 ## mukta-m0-p47-v1164
-[bird-king-seated](vīndra+sthā) [universal-form](viśva+rūpā) [should-be](syāt) [golden-colored](hema+ābhā) [garlanded-with-forest-flowers](vana+mālinī)
+[on-Garuḍa+seated](vīndrasthā) [universal+form](viśvarūpā) [will-be](syād) [golden+hued](dhemābhā) [forest+garlanded](vanamālinī)
 
 ## mukta-m0-p47-v1165
-[bearing](bibhratī) [called-yamajihvā](yama+jihvā+ākhyā) [terrible](karālā) [buffalo-seated](mahiṣa+sthitā)
+[holding](bibhratī) [Yama+tongue+named](yamajihvākhyā) [terrible](karālā) [on-buffalo+seated](mahiṣasdhitā)
 
 ## mukta-m0-p47-v1166
-[with-daitya-head-and-trident-fierce](sa+daitya+muṇḍa+śūla+ugrā) [jayantī](jayantī) [in-left-hands](vāma+hastayoḥ)
+[with-demon+head+trident+fierce](sadaityamuṇḍaśūlogrā) [victorious](jayantī) [in-left+hands](vāmahastayoḥ)
 
 ## mukta-m0-p47-v1167
-[surrounded-by-various-beings](nānā+bhūta+āvṛtā) [white](śvetā) [dwelling-in-difficult-forest](durga+kānana+saṃsthitā)
+[by-various+beings+surrounded](nānābhūtāvṛtā) [white](śvetā) [in-impassable+forest+dwelling](durgakānanasaṃsthitā)
 
 ## mukta-m0-p47-v1168
-[cart-seated](śakaṭa+sthā) [very-terrible-faced](ati+dhora+āsyā) [milk-colored](kṣīra+varṇā) [near-yama](yama+antikā)
+[on-cart+seated](śakaṭasthā) [very+terrible+faced](atidhorāsyā) [milk+colored](kṣīravarṇā) [near-Yama](yamāntikā)
 
 ## mukta-m0-p47-v1169
-[in-left](vāme) [hand](karaṃ) [and](ca) [skull-staff](khaṭvāṅgaṃ) [trident](śūlaṃ) [chisel](ṭaṅkaṃ) [and](ca) [bearing](bibhratī)
+[in-left](vāme) [hand](karaṃ) [and](ca) [skull-topped-staff](khaṭvāṅgaṃ) [trident](śūlaṃ) [hatchet](ṭaṅkaṃ) [and](ca) [holding](bibhratī)
 
 ## mukta-m0-p47-v1170
-[trident-and-staff-bearing](triśūla+yaṣṭi+bhṛt) [in-right](yāmye) [bhindipāla-mace-sword-bearing](bhindipāla+gadā+asi+bhṛt)
+[trident+staff+bearing](triśūlayaṣṭibhṛd) [in-right](yāmye) [bhindipāla+club+sword+bearing](bhindipālagadāsibhṛt)
 
 ## mukta-m0-p47-v1171
-[scissors-and-trident-bearing](kartarī+śūla+bhṛt) [in-right](sūrye) [in-left](vāme) [head-and-skull-cup-bearing](muṇḍa+kapāla+bhṛt)
+[scissors+trident+bearing](kartarīśūlabhṛt) [in-left](sūrye) [in-left](vāme) [head+skull+bearing](muṇḍakapālabhṛt)
 
 ## mukta-m0-p47-v1172
-[trident](śūlaṃ) [ḍamaru-drum](ḍamaruṃ) [in-right-of-her](yāmye+asyāḥ) [half-skull-staff-holder](kārdha+khaṭvāṅga+dhṛk) [then](tataḥ)
+[trident](śūlaṃ) [hand-drum](ḍamaruṃ) [in-right](yāmye) [her](asyāḥ) [half+skull-topped-staff+holding](kārdhakhaṭvāṅgadhṛk) [then](tataḥ)
 
 ## mukta-m0-p47-v1173
-[to-be-made](kartavyāḥ) [by-artists](śilpibhiḥ) [always](nityaṃ) [yoginīs](yoginyaḥ) [givers-of-all-siddhis](aśeṣa+siddhi+dāḥ)
+[should-be-made](kartavyāḥ) [by-artisans](śilpibhir) [always](nityaṃ) [yoginīs](yoginyo) [all+success+giving](aśeṣasiddhidāḥ)
 
 ## mukta-m0-p47-v1174
-[in-sword-goad-axe](khaḍga+aṅkuśa+kuṭhāreṣu) [universal-fearlessness-making](viśva+abhaya+kṛt) [from-right](arkataḥ)
+[in-sword+hook+axes](khaḍgāṅkuśakuṭhāreṣu) [all+fearlessness+making+sun+from](viśvābhayakṛdarkataḥ)
 
 ## mukta-m0-p47-v1175
-[elephant-skin-wearing](gaja+carma+dharaḥ) [with-two](dvābhyāṃ) [hide-garment](kṛtti+vāsaḥ) [snake-adorned](ahi+bhūṣitaḥ)
+[elephant+skin+wearing](gajacarmadharo) [with-two](dvābhyāṃ) [hide+clad](kṛttivāso) [snake+adorned](ahibhūṣitaḥ)

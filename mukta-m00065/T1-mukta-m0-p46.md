@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[scissors](kartari) [+fearlessness](abhaya) [+bearing](bhṛt) [+in-right](yāmye) [in-left](vāme) [thorn](kaṇṭāka) [+guarding](pālinī)
+[scissors](kartari) [+](a) [fearlessness](bhaya) [+](bhṛd) [in-right](yāmye) [in-left](vāme) [thorn](kaṇṭāka) [+](a) [holding](pālinī)
 
 ## mukta-m0-p46-v1127
-[pestle](musalaṃ) [holding](bibhratī) [in-right](yāmye) [in-left](somye) [and](ca) [fruit](phala) [+sprouts](pallavau)
+[pestle](musalaṃ) [bearing](bibhratī) [in-right](yāmye) [in-left](somye) [and](ca) [fruit](phala) [+](a) [sprouts](pallavau)
 
 ## mukta-m0-p46-v1128
-[with-fish](samatsya) [+half](kārdha) [+bearing](bhṛt) [+in-left](vāme) [fish](matsyam) [+elsewhere](anyatra) [clothed](vāsitā)
+[with-fish](samatsya) [half](ardha) [+](a) [bearing](bhṛd) [in-left](vāme) [fish](matsyam) [in-other](anyatra) [clothed](vāsitā)
 
 ## mukta-m0-p46-v1129
-[hāhā](hāhā) [+sounding](ravā) [white](sitā) [fierce](krūrā) [donkey](rāsabha) [+faced](āsyā) [donkey](khara) [+seated](āsanā)
+[hāhā-sound](hāhā) [+](a) [crying](ravā) [white](sitā) [fierce](krūrā) [donkey](rāsabha) [+](a) [faced](āsyā) [donkey](khara) [+](a) [seated](āsanā)
 
 ## mukta-m0-p46-v1130
-[in-left](vāme) [ink](masī) [+pot](ghaṭīṃ) [noose](pāśaṃ) [stylus](lekhanī) [+staff](daṇḍa) [+bearing](bhṛt) [+then](tataḥ)
+[in-left](vāme) [ink](masī) [+](a) [pot](ghaṭīṃ) [noose](pāśaṃ) [writing-reed](lekhanī) [+](a) [staff](daṇḍa) [+](a) [bearing](bhṛt) [then](tataḥ)
 
 ## mukta-m0-p46-v1131
-[in-left](vāme) [with](sa) [+liquor](madiraṃ) [vessel](pātraṃ) [holding](bibhratī) [on-jackal](jambuke) [seated](sthitā)
+[in-left](vāme) [with-liquor](samadiraṃ) [vessel](pātraṃ) [bearing](bibhratī) [on-jackal](jambuke) [seated](sthitā)
 
 ## mukta-m0-p46-v1132
-[in-right](yāmye) [+her](asyāḥ) [bell](khiṅkhirīṃ) [(?)](?) [trident](śūlaṃ) [skull-cup](kharparaṃ) [licking](lelihā) [+elsewhere](anyataḥ)
+[in-right](yāmye) [+](a) [of-her](syāḥ) [bell](khiṅkhirīṃ) [spear](śūlaṃ) [skull-cup](kharparaṃ) [licking](lelihā) [in-other](anyataḥ)
 
 ## mukta-m0-p46-v1133
-[holding](bibhrāṇā) [+elephant](ubha) [+hide](ājinā) [with-two](dvābhyāṃ) [all](sarva) [+knowing](jñā) [corpse](preta) [+going](gā) [+seated](āsitā)
+[bearing](bibhrāṇā) [+](u) [elephant](bha) [+](a) [skin](jinam) [with-two](dvābhyāṃ) [all-knowing](sarvajñā) [on-corpse](preta) [+](a) [seated](gāsitā)
 
 ## mukta-m0-p46-v1134
-[spear](śala) [+drum](ḍamaru) [+handed](hastā) [and](ca) [monitor-lizard](godhā) [+going](gā) [trembling](taralā) [+seated](āsitā)
+[trident](śala) [+](a) [drum](ḍamaru) [+](a) [handed](hastā) [and](ca) [on-lizard](godhā) [+](a) [going](gā) [trembling](taralā) [+](a) [seated](sitā)
 
 ## mukta-m0-p46-v1135
-[corpse](śava) [+half](ardhaṃ) [holding](bibhratī) [in-left](saumye) [trident](śūlaṃ) [hammer](mudgaram) [+elsewhere](anyataḥ)
+[corpse](śava) [+](a) [half](ardhaṃ) [bearing](bibhratī) [in-left](saumye) [spear](śūlaṃ) [hammer](mugdaram) [in-other](anyataḥ)
 
 ## mukta-m0-p46-v1136
-[in-right](dakṣiṇe) [recitation](jāpya) [+rosary](mālāṃ) [and](ca) [in-left](vāme) [book](pustaka) [+water-pot](maṇḍalum)
+[in-right](dakṣiṇe) [rosary](jāpya) [+](a) [garland](mālāṃ) [and](ca) [in-left](vāme) [book](pustaka) [+](a) [water-pot](maṇḍalum)
 
 ## mukta-m0-p46-v1137
-[winnowing-basket](śūrpa) [+skull](muṇḍa) [+handed](karā) [in-right](yāmye) [+elsewhere](anyatra) [śephālikā-flower](śephālikā) [+crow](ka) [+bearing](bhṛt)
+[winnowing-basket](śūrpa) [+](a) [skull](muṇḍa) [+](a) [handed](karā) [in-right](yāmye) [in-other](anyatra) [śephālikā-flower](śephālikā) [+](a) [water-pot](kabhṛt)
 
 ## mukta-m0-p46-v1138
-[skull-staff](khadvāṅgaṃ) [antelope](rurukaṃ) [in-left](saumye) [trident](śūla) [+meteors](ulke) [holding](bibhratī) [then](tataḥ)
+[skull-staff](khadvāṅgaṃ) [antelope](rurukaṃ) [in-left](saumye) [spear](śūla) [+](a) [meteors](ulke) [bearing](bibhratī) [then](tataḥ)
 
 ## mukta-m0-p46-v1139
-[kaśūla](kaśūla) [+andhaka](andhaka) [+skeleton](kaṅkāla) [+bearing](bhṛt) [+pair](advayaḥ) [cremation-ground](śmaśāna) [+dwelling](vāsinī)
+[whip](kaśūla) [+](a) [blind](andhaka) [+](a) [skeleton](kaṅkāla) [+](a) [bearing](bhṛd) [two](dvayo) [on-corpse](śava) [+](a) [dwelling](vāsinī)
 
 ## mukta-m0-p46-v1140
-[in-left](vāme) [hand](kara) [+fierce](ugra) [+holding](dhā) [+noose](pāśaṃ) [bell](ghaṇṭā) [+lord](īśa) [+trident](śūla) [+bearing](dharā) [+elsewhere](anyathaḥ)
+[in-left](vāme) [hand](kara) [+](u) [ghadha](gha) [+](a) [noose](pāśaṃ) [bell](ghaṇṭā) [+](i) [spear](śūla) [+](a) [holding](dharā) [in-other](anyathaḥ)
 
 ## mukta-m0-p46-v1141
-[conch](śaṅkha) [+shield](kheṭaka) [+handed](hastā) [+fierce](ugrā) [in-right](yāmye) [svastika](svastika) [+sword](khaḍga) [+bearing](bhṛt)
+[conch](śaṅkha) [+](a) [shield](kheṭaka) [+](a) [handed](hasta) [+](a) [fierce](ugrā) [in-right](yāmye) [svastika](svastika) [+](a) [sword](khaḍga) [+](a) [bearing](bhṛt)
 
 ## mukta-m0-p46-v1142
-[mace](gadā) [+banner](dhvaja) [+bearing](dharā) [in-right](yāmye) [in-left](vāme) [noose](pāśa) [+skull-cup](kapāla) [+bearing](bhṛt)
+[mace](gadā) [+](a) [banner](dhvaja) [+](a) [holding](dharā) [in-right](yāmye) [in-left](vāme) [noose](pāśa) [+](a) [skull-cup](kapāla) [+](a) [bearing](bhṛt)
 
 ## mukta-m0-p46-v1143
-[on-discus](cakra) [+seated](sthā) [discus](cakra) [+scissors](kaṭṭārī) [+holding](dhārīṇī) [in-right](dakṣiṇe) [hand](kare)
+[on-discus](cakra) [+](a) [standing](sthā) [discus](cakra) [+](a) [scissors](kaṭṭārī) [+](a) [holding](dhārīṇī) [in-right](dakṣiṇe) [hand](kare)
 
 ## mukta-m0-p46-v1144
-[pot](kumbha) [+noose](pāśa) [+bearing](dharā) [+white](āśvetā) [boar](kroḍa) [+daughter](putrā) [skeleton-bearing](karaṅkiṇī)
+[pitcher](kumbha) [+](a) [noose](pāśa) [+](a) [holding](dharā) [white](aśvetā) [boar](kroḍa) [+](a) [daughter](putrā) [sword-holding](karaṅkiṇī)
 
 ## mukta-m0-p46-v1145
-[by-waters](jalaiḥ) [+surrounded](vṛtā) [cloud](ghana) [+mounted](ārūḍhā) [lightning](taḍit) [+circle](maṇḍala) [+adorned](maṇḍitā)
+[by-waters](jalaiḥ) [surrounded](vṛtā) [on-cloud](ghana) [+](a) [mounted](ārūḍhā) [lightning](taḍit) [+](a) [circle](maṇḍala) [+](a) [adorned](maṇḍitā)
 
 ## mukta-m0-p46-v1146
-[skull-cup](kapālaṃ) [head](muṇḍam) [+elsewhere](anyatra) [enemy](śatru) [+slaying](ghnāḥ) [crystal](sphaṭika) [+complexioned](tviṣaḥ)
+[skull-cup](kapālaṃ) [skull](muṇḍam) [in-other](anyatra) [foe](śatru) [+](a) [slaying](ghnāḥ) [crystal](sphaṭika) [+](a) [complexioned](tviṣaḥ)
 
 ## mukta-m0-p46-v1147
-[kāla](kāla) [+eared](karṇī) [world](jagat) [+renowned](khyātā) [in-ear](karṇe) [kāla](kāla) [+ornament](vibhūṣaṇā)
+[kālakarṇī](kālakarṇī) [world](jagat) [+](a) [renowned](khyātā) [in-ear](karṇe) [black](kāla) [+](a) [ornament](vibhūṣaṇā)
 
 ## mukta-m0-p46-v1148
-[scissors](kartari) [+fearlessness](abhaya) [+bearing](bhṛt) [+in-right](yāmye) [trident](śūla) [+noose](pāśa) [+bearing](dharā) [+elsewhere](anyataḥ)
+[scissors](kartari) [+](a) [fearlessness](abhaya) [+](a) [bearing](bhrat) [in-right](yāmye) [spear](śūla) [noose](pāśa) [+](a) [holding](dharā) [in-other](anyataḥ)
 
 ## mukta-m0-p46-v1149
-[water-pot](kamaṇḍalu) [+kuśa-grass](kuśa) [+engaged](vyagrā) [and](ca) [+here](atra) [+thread](sūtra) [+ladle](sruva) [+endowed](anvitā)
+[water-pot](kamaṇḍalu) [+](a) [kuśa-grass](kuśa) [+](a) [engaged](vyagrā) [and](ca) [sacred-thread](atrasūtra) [+](a) [ladle](sruva) [+](a) [endowed](anvitā)
 
 ## mukta-m0-p46-v1150
-[candrāvalī](candrā) [+garlanded](āvalī) [and](ca) [gold](hema) [+complexioned](ābhā) [black](kṛṣṇa) [+spotted](sāra) [+deer](mṛga) [+seated](āsanā)
+[candrāvalī](candrāvalī) [and](ca) [golden](hema) [+](a) [complexioned](ābhā) [black-antelope](kṛṣṇasāra) [+](a) [deer](mṛga) [+](a) [seated](āsanā)
