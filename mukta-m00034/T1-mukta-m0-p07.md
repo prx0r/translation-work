@@ -5,73 +5,73 @@
 [that+self+abiding](tad+ātma+vartini) [in-knowledge](jñāne) [difference](bhedaḥ) [would-be](syāt) [that+manifestation](tat+prathā) [how](katham)
 
 ## mukta-m0-p07-v152
-[by-new+part+part-means](nava+aṃśa+aṃśikayā) [difference](bheda) [in-appearance+even](ābhāse'pi) [is-experienced](anubhūyate)
+[by-nine+part+mode](navāṃśāṃśikayā) [difference](bheda) [in-appearance+even](ābhāse+'pi) [is-experienced](anubhūyate)
 
 ## mukta-m0-p07-v153
-[therefore](ataḥ) [manifestation+one-nature](prathā+eka+rūpatvam) [of-appearance](ābhāsasya) [established](vyavasthitam)
+[therefore](ataḥ) [manifestation+one-form](prathā+eka-rūpatvam) [of-appearance](ābhāsasya) [is-established](vyavasthitam)
 
 ## mukta-m0-p07-v154
-[that+expansion](tat+prapañcaḥ) [divided+even](vibhinnas+api) [that+form](tad+rūpam) [to-know](jñātum) [incapable](akṣamaḥ)
+[that+expansion](tat+prapañcaḥ) [divided+even](vibhinnaḥ+'pi) [that-form](tat+rūpam) [to-know+unable](jñātum+akṣamaḥ)
 
 ## mukta-m0-p07-v155
-[thus-ness+experience+non-attainment](tathātva+anubhava+asiddheḥ) [equal](samam) [that+manifestation](tat+prathanam) [how](katham)
+[thus-ness+experience+non-attainment](tathā+tva+anubhava+a-siddheḥ) [equal](samam) [that+manifestation](tat+prathanaṃ) [how](katham)
 
 ## mukta-m0-p07-v156
-[by-that+control](tat+niyantraṇayā) [and](ca) [of-this](asyāḥ) [oneness](ekatvam) [is-abandoned](parihīyate)
+[that+control+by](tat+niyantraṇayā) [and+of-this](ca+asyāḥ) [oneness](ekatvam) [is-abandoned](parihīyate)
 
 ## mukta-m0-p07-v157
-[non-partite+experience+nature](akhaṇḍa+anubhava+ātmatvāt) [with-harmony](sa+āmarasyatayā) [abides](sthitā)
+[unbroken+experience+self-nature+from](akhaṇḍa+anubhava+ātmatvāt) [harmony+by](sāmarasya+tayā) [abides](sthitā)
 
 ## mukta-m0-p07-v158
-[this](idam) [that](tat) [hard-to-accomplish+lordship](durghaṭa+aiśvaryam) [uncommon+nature](asāmānya+svabhāvakam)
+[this](idam) [that](tat) [hard-to-do+sovereignty](durghaṭa+aiśvaryam) [uncommon+natured](asāmānya+svabhāvakam)
 
 ## mukta-m0-p07-v159
-[by-other+support](anya+avaṣṭambhataḥ) [of-other](anyasya) [manifestation](prathanam) [illusion](bhrāntiḥ) [is-considered](iṣyate)
+[other+support+from+of-other](anya+avaṣṭambhataḥ+anyasya) [manifestation](prathanam) [error+is-considered](bhrāntiḥ+iṣyate)
 
 ## mukta-m0-p07-v160
-[self+consciousness+establishedness](sva+saṃvedana+siddhatvam) [not](na) [in-any-way](kathañcana) [obstructed](bādhitam)
+[self+consciousness+establishedness](sva+saṃvedana+siddhatvam) [not](na) [in-any-way](kathañcana) [is-obstructed](bādhitam)
 
 ## mukta-m0-p07-v161
-[now](nanu) [two-moons+experience](dvi+candra+anubhave) [manifestation+only+one-life](prathā+mātra+eka+jīvite)
+[indeed](nanu) [two+moon+in-experience](dvi+candra+anubhave) [manifestation+only+one+life](prathā+mātra+eka+jīvite)
 
 ## mukta-m0-p07-v162
-[that+one-made+nature](tad+eka+maya+rūpatvāt) [would-be](bhavet) [obstruction+also](bādhā+api) [obstructed](bādhitā)
+[that+one+made+form+from](tat+eka+maya+rūpatvāt) [would-be](bhavet) [obstruction+even](bādhā+api) [obstructed](bādhitā)
 
 ## mukta-m0-p07-v163
-[consciousness+goddess](saṃvid+devī) [world+picture](jagat+citraṃ) [creates](nirmimīte) [own+surface](sva+bhittikam)
+[consciousness+goddess](saṃvid+devī) [world+picture](jagat+citram) [creates](nirmimīte) [self+wall](sva+bhittikam)
 
 ## mukta-m0-p07-v164
-[which](yat) [unreal+etc+imagination+force](asatya+ādika+kalana+vaśāt) [of-world](viśvasya) [arising](sambhavaḥ)
+[which+unreal+etc+imagination+by-force](yad+asatya+ādi+kalanā+avaśāt) [of-world](viśvasya) [arising](sambhavaḥ)
 
 ## mukta-m0-p07-v165
-[as](yathā) [power](ṛddhi) [supernatural+etc](prātihārya+ādi) [deep+noble](gambhīra+udāra) [of-consciousness](saṃvidaḥ)
+[as+power](yathā+ṛddhi) [magic+etc](prāti+ādi) [deep+noble+consciousness](gambhīra+udāra+saṃvidaḥ)
 
 ## mukta-m0-p07-v166
-[like-foam](phena+vat) [consciousness+arisen](saṃvid+udbuddham) [by-that+power](tat+sāmarthyāt) [expands](vijṛmbhate)
+[foam+like](phena+vat) [consciousness+awakened](saṃvid+udbuddham) [that+power+from](tat+sāmarthyāt) [expands](vijṛmbhate)
 
 ## mukta-m0-p07-v167
-[object+group](prameya+jātam) [all](akhilam) [abiding](sthitam) [capable+capable](śakya+samarthanam)
+[object+class+whole](prameya+jāta+akhilam) [abides](sthitam) [possible+capable](śakya+samarthanam)
 
 ## mukta-m0-p07-v168
-[great+path](mahā+nayasya) [congenial](anuguṇam) [consciousness+form](cit+rūpam) [is-explained](pratipāditam)
+[great+path+accordant](mahā+nayasya+anuguṇam) [consciousness+form](cit+rūpam) [is-taught](pratipāditam)
 
 ## mukta-m0-p07-v169
-[therefore](ataḥ) [is-ceased](viramyate) [by-us](asmābhiḥ) [direction+only](dik+mātram) [but](tu) [illuminated](prakāśitam)
+[therefore](ataḥ) [is-stopped+by-us](viramyate+asmābhiḥ) [direction+only](diṅ+mātram) [but](tu) [is-illuminated](prakāśitam)
 
 ## mukta-m0-p07-v170
-[there](tatra) [also](api) [of-them](tāsām) [variety](vaicitryam) [with-concept+without-concept](sa+vikalpa+avikalpataḥ)
+[there+even](tatra+api) [of-them](tāsām) [variety](vaicitryam) [with+concept+non-concept+from](sa+vikalpa+avikalpataḥ)
 
 ## mukta-m0-p07-v171
-[knowledge+knowable+expansion](jñāna+jñeya+prapañcaḥ) [and](ca) [there](tatra) [also](api) [many+leveled](bahu+bhūmikaḥ)
+[knowledge+knowable+expansion+and](jñāna+jñeya+prapañcaḥ+ca) [there+even](tatra+api) [many+leveled](bahu+bhūmikaḥ)
 
 ## mukta-m0-p07-v172
-[there](tatra) [also](api) [heaven+hell+etc](svarga+naraka+ādi) [endless](anantam) [very+delusion](ati+vibhramāḥ)
+[there+even](tatra+api) [heaven+hell+etc+endless+mind+delusions](svarga+naraka+ādi+ananta+mati+vibhramāḥ)
 
 ## mukta-m0-p07-v173
-[endless+world+arrangement](ananta+loka+saṃsthānam) [arising](prabhavāḥ) [and](ca) [of-such-kind](tathāvidhāḥ)
+[endless+world+arrangements](ananta+loka+saṃsthānāḥ) [origins+and](prabhavāḥ+ca) [thus+kind](tathā+vidhāḥ)
 
 ## mukta-m0-p07-v174
-[of-first+consciousness+part](ādya+saṃvid+aṃśasya) [that](tat) [this](etat) [manifestation](sphūrjitam) [is-thought](matam)
+[dried+consciousness+part+of](āśyāna+saṃvid+aṃśasya) [that+this](tad+etat) [thundered](sphūrjitam) [is-thought](matam)
 
 ## mukta-m0-p07-v175
-[clear+one-nature](svaccha+eka+rūpa) [own-will+consciousness+essence](svacchanda+cit+rasa) [coagulated+state](āśyānatā+mayam)
+[clear+one+form+self-willed+consciousness+essence+driedness+made-of](svaccha+eka+rūpa+svacchanda+cit+rasa+āśyānatā+mayam)
