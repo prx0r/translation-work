@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[rādhikā](rādhikā) [became](abhūt) [mahādevaḥ](mahādevaḥ) [for-the-cause-of-śṛṅgāra+bliss](śṛṅgāra+ānanda+hetave)
+[rādhikā+became](rādhikābhūn) [great+god](mahādevaḥ) [erotic-love+bliss+for-the-sake-of](śṛṅgārānandahetave)
 
 ## mukta-m0-p20-v477
-[self-born](ātma+yonim) [this](imām) [having-known](jñātvā) [on-one's-own+head](sva+mūrddhni) [should-place](dhārayet) [hariḥ](hariḥ)
+[self+source](ātmayonim) [this](imāṃ) [having-known](jñātvā) [on-own+head](svamūrddhni) [should-place](dhārayet) [hari](hariḥ)
 
 ## mukta-m0-p20-v478
-[in-its-absence](tat+abhāve) [and](ca) [with-substitutes](anukalpaiḥ) [for-the-accomplishment-of-the-practitioner’s+desired-object](sādhaka+abhīṣṭa+siddhaye)
+[that+absence](tadabhāve) [and+alternative-means](cānukalpaiḥ) [practitioner+desired+accomplishment+for](sādhakābhīṣṭasiddhaye) [giving](dāyake)
 
 ## mukta-m0-p20-v479
-[in-the-state-of-semen](śukra+bhāve) [and](ca) [as-substitute](anukalpaṃ) [fragrant](sugandhaṃ) [born-of-malaya](malaya+udbhavam)
+[semen+being](śukrabhāve) [and+alternative](cānukalpaṃ) [fragrant](sugandhaṃ) [malaya+born](malayodbhavam)
 
 ## mukta-m0-p20-v480
-[from-the-union-of-the-two](dvayoḥ+yogāt) [o-great-goddess](mahā+īśāni) [what](kiṃ) [not](na) [is-accomplished](sidhyati) [on-earth](bhū+tale)
+[two+union+from](dvayoryogān) [great+goddess](maheśāni) [what](kiṃ) [not](na) [is-accomplished](sidhyati) [on-earth](bhūtale)
 
 ## mukta-m0-p20-v481
-[by-wearing-on-the-forehead](lalāṭe+dhāraṇāt) [o-fortunate-one](bhadre) [equal-to-śiva](śiva+tulyaḥ) [no](na) [doubt](saṃśayaḥ)
+[on-forehead](lalāṭe) [wearing+from](dhāraṇād) [o-fortunate-one](bhadre) [śiva+equal](śivatulyo) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p20-v482
-[with-a-flower](puṣpeṇa) [a-tilaka-mark](tilakaṃ) [on-the-forehead](bhāle) [always](sadā) [indeed](eva) [beautiful-in-form](rūpavān) [one-becomes](bhavet)
+[with-flower](puṣpeṇa) [forehead-mark](tilakaṃ) [on-forehead](bhāle) [always](sadeva) [beautiful+form+possessing](rūpavān) [one-becomes](bhavet)
 
 ## mukta-m0-p20-v483
-[and-with-substitutes](anukalpaiḥ) [and](ca) [with-tilaka-marks](tilakaiḥ) [sameness-of-form](sārūpyam) [one-attains](eti) [o-beautiful-one](sundari)
+[with-alternatives](anukalpaiśca) [with-marks](tilakaiḥ) [same+form](sārūpyam) [attains](eti) [o-beautiful-one](sundari)
 
 ## mukta-m0-p20-v484
-[in-the-middle-place](madhya+sthāne) [dwells](vaset) [viṣṇuḥ](viṣṇuḥ) [that-place](tat+sthānaṃ) [not](na) [indeed](eva) [one-should-smear](lepayet)
+[middle+place](madhyasthāne) [dwells](vased) [viṣṇu](viṣṇuḥ) [that+place](tatsthānaṃ) [not](na) [indeed](eva) [should-smear](lepayet)
 
 ## mukta-m0-p20-v485
-[when](yadā) [having-visible-form](sākāra+rūpaḥ) [he](asau) [two-armed](dvi+bhujaḥ) [holder-of-the-flute](muralī+dharaḥ)
+[when](yadā) [with-form+shape](sākārarūpo) [he](asau) [two+armed](dvibhujo) [flute+holder](muralīdharaḥ)
 
 ## mukta-m0-p20-v486
-[above-him](tat+ūrddhe) [in-the-form-of-a-bindu](bindu+rūpā) [and](ca) [the-root](mūlā) [tripurasundarī](tripura+sundarī)
+[then+above](tadūrddhe) [drop+form](bindurūpā) [and](ca) [root](mūlā) [tripura+sundarī](tripurasundarī)
 
 ## mukta-m0-p20-v487
-[kuṇḍalī](kuṇḍalī) [also-in-the-root-part](mūla+bhāge) [indeed](api) [the-tilaka](tilakaṃ) [consisting-of-three-guṇas](tri+guṇa+ātmakam)
+[kuṇḍalī](kuṇḍalī) [root+part+also](mūlabhāge'pi) [forehead-mark](tilakaṃ) [three+quality+consisting-of](triguṇātmakam)
 
 ## mukta-m0-p20-v488
-[jāhnavī](jāhnavī) [goddess-yamunā](yamunā+devī) [goddess-of-speech](vāk+devī) [always](sarvadā) [situated](sthitā)
+[jāhnavī](jāhnavī) [yamunā+goddess](yamunādevī) [speech+goddess](vāgdevī) [always](sarvadā) [situated](sthitā)
 
 ## mukta-m0-p20-v489
-[the-ūrddhapuṇḍra](ūrddha+puṇḍraṃ) [of-the-gāṇapatyas](gāṇapatyaḥ) [also-of-the-practitioner](sādhakasya+api) [the-mark](lakṣaṇam)
+[upward+mark](ūrddhapuṇḍraṃ) [of-gāṇapatyas](gāṇapatyaḥ) [of-practitioner+also](sādhakasyāpi) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p20-v490
-[thus](evam) [in-due-order](krameṇa) [o-goddess-of-gods](deva+īśi) [the-practitioner](sādhakaḥ) [also](api) [should-perform-the-rites](kriyām+caret)
+[thus](evaṃ) [in-order](krameṇa) [o-goddess+lord](deveśi) [practitioner+also](sādhako'pi) [rites](kriyāñ) [should-perform](caret)
 
 ## mukta-m0-p20-v491
 [sixteenth](ṣoḍaśa) [chapter](ullāsaḥ)
 
 ## mukta-m0-p20-v492
-[now](adhunā) [to-hear](śrotum) [i-desire](icchāmi) [which](yat) [the-excellent-presentation-of-the-yantra](yantra+prastāvam+uttamam)
+[now](adhunā) [to-hear](śrotum) [I-desire](icchāmi) [diagram+presentation](yantraprastāvam) [excellent](uttamam)
 
 ## mukta-m0-p20-v493
-[of-the-vīra](vīrasya) [also](api) [of-the-vibhāva](vibhāvasya) [of-the-sabhāva](sabhāvasya) [speak](vada) [o-lord](prabho)
+[of-hero](vīrasya) [also](api) [of-vibhāva](vibhāvasya) [of-sabhāva](sabhāvasya) [speak](vada) [o-lord](prabho)
 
 ## mukta-m0-p20-v494
-[artificial](kṛtrimaṃ) [self-made](sva+kṛtaṃ) [yantra](yantraṃ) [of-the-vibhāva](vibhāvasya) [a-substitute](anukalpanam)
+[artificial](kṛtrimaṃ) [self+made](svakṛtaṃ) [diagram](yantraṃ) [of-vibhāva](vibhāvasya) [alternative-arrangement](anukalpanam)
 
 ## mukta-m0-p20-v495
-[therefore](ataḥ) [indeed](eva) [o-great-goddess](mahā+īśāni) [one-should-make](kuryāt) [a-substitute-yantra](yantra+anukalpanam)
+[therefore](ata) [indeed](eva) [o-great+goddess](maheśāni) [one-should-make](kuryāt) [diagram+alternative-arrangement](yantrānukalpanam)
 
 ## mukta-m0-p20-v496
-[two-pots](ghaṭa+dvayaṃ) [not](na) [should-make](kuryeyuḥ) [practitioners](sādhakāḥ) [for-the-sake-of-accomplishment](siddhi+hetave)
+[pot+pair](ghaṭadvayaṃ) [not](na) [should-make](kuryeyuḥ) [practitioners](sādhakāḥ) [accomplishment+for-the-sake-of](siddhihetave)
 
 ## mukta-m0-p20-v497
-[one-yantra](eka+yantraṃ) [should-be-conceived](kalpanīyaṃ) [in-a-twofold-alternative](dvi+kalpe) [worship-of-two](dvitva+pūjanam)
+[one+diagram](ekayantraṃ) [to-be-arranged](kalpanīyaṃ) [in-two-alternatives](dvikalpe) [two+ness+worship](dvitvapūjanam)
 
 ## mukta-m0-p20-v498
-[one-should-perform](prakuryāt) [indeed](tu) [a-tantric-yantra](tantra+yantraṃ) [not](na) [should-cause-to-be-made](kārayet)
+[one-should-perform](prakuryāt) [but](tu) [tantra+diagram](tantrayantraṃ) [not](na) [should-cause-to-make](kārayet)
 
 ## mukta-m0-p20-v499
-[twofold](dvi+guṇaṃ) [offering-of-bali](bali+dānaṃ) [would-be](syāt) [twofold](dvi+guṇaṃ) [worship](pūjanaṃ) [then](tataḥ)
+[twofold](dviguṇaṃ) [offering+giving](balidānaṃ) [should-be](syād) [twofold](dviguṇaṃ) [worship](pūjanaṃ) [then](tataḥ)
 
 ## mukta-m0-p20-v500
-[all](sarvaṃ) [indeed](hi) [fruitless](viphalaṃ) [because](yasmāt) [yantra](yantraṃ) [therefore](tasmāt) [not](na) [one-should-cause-to-be-made](kārayet)
+[all](sarvaṃ) [indeed](hi) [fruitless](viphalaṃ) [because](yasmād) [diagram](yantraṃ) [therefore](tasmāt) [not](na) [should-cause-to-make](kārayet)
