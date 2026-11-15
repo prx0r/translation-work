@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3775,
+   "rows": [
+    {
+     "surface": "vinikṣipyamahāpāpairmucyate",
+     "gloss": "casting-great-sins-one-is-freed",
+     "grounds": "fused gerund, instrumental plural, and passive verb form",
+     "morph": "verb.3sg.pass-pres+gerund+instr.pl"
+    },
+    {
+     "surface": "nātrasaṃśayaḥ",
+     "gloss": "no-here-doubt",
+     "grounds": "fused negative, locative, and nominative noun",
+     "morph": "indecl.+indecl.+noun.m.nom.sg"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular masculine noun",
+     "morph": "noun.m.nom.sg"
+    }
+   ],
+   "question": "By offering bilva leaves to Shiva, is one freed from great sins without doubt?",
+   "premises": [
+    "bilva leaves are dear to Shiva",
+    "offering them casts away great sins",
+    "no doubt remains here"
+   ],
+   "inference": "therefore offering bilva leaves frees one from great sins",
+   "uncertainties": [
+    "fused sandhi forms require careful parsing",
+    "quotation boundary is unclear"
+   ],
+   "plain_english": "By offering bilva leaves to Shiva, one is freed from great sins; there is no doubt about this."
+  }
+ ]
+}

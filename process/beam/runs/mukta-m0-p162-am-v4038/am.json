@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p162",
  "verse": 4038,
- "question": "Who identifies the auspicious lights that may be seen during the observance?",
+ "question": "Which five nectars, auspicious, Bhuta-named, and eightfold Vaibhava are listed?",
  "premises": [
-  "Certain lights are being specified.",
-  "The learned declare what these lights are.",
-  "A brahmin is included among them."
+  "Five nectars is named.",
+  "Auspicious is named.",
+  "Bhuta-named is named.",
+  "Eightfold Vaibhava is named."
  ],
- "inference": "The learned declare that these lights include, among others, a brahmin.",
+ "inference": "The verse lists five nectars, auspicious, Bhuta-named, and eightfold Vaibhava.",
  "uncertainties": [
-  "The syntax is compressed and the full list of 'lights' is not explicit in this verse alone."
+  "Exact grammatical relation of auspicious is unclear."
  ],
- "plain_english": "The learned declare these lights to include, likewise, a brahmin."
+ "plain_english": "Five nectars, and auspicious, Bhuta-named, eightfold Vaibhava."
 }

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p165",
+ "items": [
+  {
+   "verse": 4125,
+   "rows": [
+    {
+     "surface": "paṃcame",
+     "gloss": "in-the-fifth",
+     "grounds": "locative singular neuter adjective",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two-things",
+     "grounds": "neuter nominative/accusative singular",
+     "morph": "n.nom/acc.sg.n"
+    },
+    {
+     "surface": "proktamabdānāṃ",
+     "gloss": "stated-of-years",
+     "grounds": "fused form combining proktam and abdānāṃ",
+     "morph": "part.adj+gen.pl.n"
+    },
+    {
+     "surface": "varṇakaṃ",
+     "gloss": "varṇaka",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "instrumental plural masculine",
+     "morph": "n.instr.pl.m"
+    }
+   ],
+   "question": "What two things do the wise state in the fifth section regarding the varṇaka of years?",
+   "premises": [
+    "The fifth section states two things.",
+    "The wise state the varṇaka of years.",
+    "The statement concerns years."
+   ],
+   "inference": "Two items are taught by the wise in the fifth section concerning the varṇaka of years.",
+   "uncertainties": [
+    "The fused token proktamabdānāṃ may combine proktam and abdānāṃ, so its exact syntactic relation is uncertain."
+   ],
+   "plain_english": "In the fifth section, the wise state two things concerning the varṇaka of years."
+  }
+ ]
+}

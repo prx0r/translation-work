@@ -3,39 +3,24 @@
  "verse": 3925,
  "rows": [
   {
-   "lemma": "saṃkhyāhīnaṃ",
-   "morph": "compound.n.acc.sg",
-   "grounds": "compound of saṃkhyā (number) and hīna (devoid); object of kartavyam"
+   "lemma": "procyate",
+   "morph": "3.sg.pass-pres root-proc",
+   "grounds": "passive present form meaning is said or called"
   },
   {
-   "lemma": "na",
+   "lemma": "brahmakaivartaṃ",
+   "morph": "n.acc.sg.m",
+   "grounds": "accusative object naming the purana"
+  },
+  {
+   "lemma": "taddvādaśasahasrakam",
+   "morph": "adj.acc.sg.n",
+   "grounds": "compound adjective giving the verse count"
+  },
+  {
+   "lemma": "12000 ślo0",
    "morph": "(indecl.)",
-   "grounds": "negates kartavyam"
-  },
-  {
-   "lemma": "kartavyam",
-   "morph": "gerundive.n.nom.sg",
-   "grounds": "gerundive expressing obligation"
-  },
-  {
-   "lemma": "adhikaṃ",
-   "morph": "adj.n.nom.sg",
-   "grounds": "more than the prescribed number; subject of duṣyati"
-  },
-  {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negates duṣyati together with eva"
-  },
-  {
-   "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle reinforcing negation"
-  },
-  {
-   "lemma": "duṣyati",
-   "morph": "3.sg.pres.act √duṣ",
-   "grounds": "states the consequence of excess"
+   "grounds": "numeral plus sloka count token"
   }
  ]
 }

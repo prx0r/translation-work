@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[anger-stick-resembling](kopipradaṇḍapratīkāśā) [moon-maker-like](jyotsnākaramiva) [stood](sthitaḥ) [radiant](sthitaḥ)
-
+[like-a-stick-of-anger](kopipradaṇḍapratīkāśā) [like-moon-maker](jyotsnākaramiva) [stood](sthitaḥ)
 ## mukta-m0-p19-v452
-[that-siddha](yo'sau) [śiva](śivassūkṣmaḥ) [subtle](śivassūkṣmaḥ) [very-peaceful](suśāntassarvatomukhaḥ) [all-faced](suśāntassarvatomukhaḥ)
-
+[that-one](yo'sau) [perfected](siddhaḥ) [auspicious](śivaḥ) [subtle](sūkṣmaḥ) [very-peaceful](suśāntaḥ) [all-faced](sarvatomukhaḥ)
 ## mukta-m0-p19-v453
-[dissolution-abode](layasthānantu) [indeed](tu) [by-knowers-of-truth](tattvajñaiḥ) [he-himself](sa eva) [declared](parikīrtitaḥ)
-
+[dissolution-place](layasthānam) [tu](tu) [by-knowers-of-truth](tattvajñaiḥ) [he](sa) [indeed](eva) [proclaimed](parikīrtitaḥ)
 ## mukta-m0-p19-v454
-[having-known-thus](jñātvaivaṃ) [liberated](mucyate) [knower](jñānī) [enjoying](bhuñjāno) [objects](viṣayānapi)
-
+[having-known-thus](jñātvaivaṃ) [is-liberated](mucyate) [knower](jñānī) [enjoying](bhuñjāno) [objects](viṣayān) [even](api)
 ## mukta-m0-p19-v455
-[who-that-nāda](ko'sau) [what-measure](kiṃ pramāṇaḥ) [what-form](kiṃ rūpaḥ) [fallen](kṣaritaḥ) [whence](kutaḥ)
-
+[who-is-that](ko'sau) [sound](nādaḥ) [what](kiṃ) [measure](pramāṇaḥ) [what](kiṃ) [form](rūpaḥ) [flowing](kṣaritaḥ) [whence](kutaḥ)
 ## mukta-m0-p19-v456
-[my-supreme-form](mamaiṣā) [paramā mūrtiḥ](paramā mūrtiḥ) [nāda-named](nādasaṃjñā) [fair-faced-one](varānane)
-
+[mine](mama) [this](eṣā) [supreme](paramā) [form](mūrtiḥ) [sound-named](nādasaṃjñā) [fair-faced-one](varānane)
 ## mukta-m0-p19-v457
-[of-it](nāsya) [measure](pramāṇaṃ) [by-pervasiveness](vyāpitvānmukteḥ) [obtained](samupalabhyate) [liberation](mukteḥ)
-
+[not-its](nāsya) [measure](pramāṇaṃ) [due-to-pervasiveness](vyāpitvāt) [of-liberation](mukteḥ) [is-obtained](samupalabhyate)
 ## mukta-m0-p19-v458
-[as](yathā) [heard](saṃvetyanuccārya) [unspoken](anuccārya) [sound-letter-free](śabdākṣaravivarjitam)
-
+[as](yathā) [perceived](saṃvetya) [unutterable](anuccārya) [devoid-of-sound-letters](śabdākṣaravivarjitam)
 ## mukta-m0-p19-v459
-[with-two-thumbs](aṅguṣṭhābhyāṃ) [covering](chādayitvā) [adept](sādhakaśravaṇāvubhau) [both-ears](sādhakaśravaṇāvubhau)
-
+[with-two-thumbs](aṅguṣṭhābhyāṃ) [covering](chādayitvā) [practitioner's-ears-both](sādhakaśravaṇāvubhau)
 ## mukta-m0-p19-v460
-[of-it](asya) [hearing](saṃśravaṇāddevi) [goddess](devi) [of-nāda](nādasyāyatalocane) [wide-eyed-one](āyatalocane)
-
+[of-this](asya) [from-hearing](saṃśravaṇāt) [goddess](devi) [of-sound](nādasya) [long-eyed-one](āyatalocane)
 ## mukta-m0-p19-v461
-[my-own](mamātmīyamidaṃ) [subtle](sūkṣmaṃ) [body](śarīraṃ) [nāda-named](nādasaṃjñitam)
-
+[mine](mama) [own](ātmīyam) [this](idaṃ) [subtle](sūkṣmaṃ) [body](śarīraṃ) [sound-named](nādasaṃjñitam)
 ## mukta-m0-p19-v462
-[then](tataḥ) [beyond-that](parataradhyeyaṃ) [other](yo'nyaḥ) [taught](pratyupadiśyate)
-
+[then](tataḥ) [beyond-that-meditable](parataradhyeyam) [who-other](yo'nyaḥ) [is-taught](pratyupadiśyate)
 ## mukta-m0-p19-v463
-[supreme](parametasya) [virility](vīryaṃ) [yat](yat) [unspoken](anuccāryamanāmayam) [disease-free](anāmayam)
-
+[supreme](param) [of-this](etasya) [power](vīryaṃ) [which](yat) [unutterable](anuccāryam) [diseaseless](anāmayam)
 ## mukta-m0-p19-v464
-[this](eṣa) [to-you](te) [told](kathitaḥ) [properly](samyak) [nāda](nādaḥ) [supremely-rare](paramadurlabhaḥ)
-
+[this](eṣa) [to-you](te) [told](kathitaḥ) [properly](samyak) [sound](nādaḥ) [supremely-rare](paramadurlabhaḥ)
 ## mukta-m0-p19-v465
-[this-state](padametadatikramya) [surpassing](atikramya) [fourth](caturthaṃ) [turya-named](turyasaṃjñitam)
-
+[state](padam) [this](etad) [transcending](atikramya) [fourth](caturthaṃ) [called-turiya](turyasaṃjñitam)
 ## mukta-m0-p19-v466
-[that](taccācalamanirdeśyamanantamajamavyayam) [immovable](acalam) [indescribable](anirdeśyam) [endless](anantam) [unborn](ajam) [imperishable](avyayam)
-
+[that](tad) [immovable](acalam) [indescribable](anirdeśyam) [endless](anantam) [unborn](ajam) [imperishable](avyayam)
 ## mukta-m0-p19-v467
-[without-differentiation](niṣprapañcamanasvāntamatīndriyamanāmayam) [mind-ended](manasvāntam) [beyond-senses](atīndriyam) [disease-free](anāmayam)
-
+[without-phenomenal-world](niṣprapañcam) [mind-ceased](manasvāntam) [beyond-senses](atīndriyam) [diseaseless](anāmayam)
 ## mukta-m0-p19-v468
-[pure](niṣtūyaṃ) [stainless](vimalaṃ) [round](vṛttamuttuṅgavyāpinaddhruvam) [exalted](uttuṅga) [pervading](vyāpin) [firm](dhruvam)
-
+[purified](niṣtūyam) [stainless](vimalaṃ) [round](vṛttam) [lofty-pervading](uttuṅgavyāpin) [fixed](dhruvam)
 ## mukta-m0-p19-v469
-[world-seed](jagadbījamidaṃ) [subtle](sūkṣmaṃ) [supreme-space](paramākāśamavyayam) [imperishable](avyayam)
-
+[world-seed](jagadbījam) [this](idaṃ) [subtle](sūkṣmaṃ) [supreme-space](paramākāśam) [imperishable](avyayam)
 ## mukta-m0-p19-v470
-[state](padametīcchāntilayaṃ) [reaching](etī) [peace-dissolution](śāntilayaṃ) [gone](gatohyatrāpi) [here-too](atrāpi) [with-number](saṃkhyayaḥ)
-
+[state](padam) [goes](eti) [peace-dissolution](śāntilayaṃ) [gone-indeed](gato) [here](atra) [api](api) [with-number](saṃkhyayaḥ)
 ## mukta-m0-p19-v471
-[then](tataste) [sound-bodies](śabdatanavoścakravarti) [wheel-ruling](cakravarti) [in-state](pade sthitāḥ) [stood](sthitāḥ)
-
+[then](tataḥ) [their](te) [sound-bodies](śabdatanavaḥ) [sovereign](cakravarti) [in-state](pade) [situated](sthitāḥ)
 ## mukta-m0-p19-v472
-[they](te'dhikāraṃ) [authority](adhikāraṃ) [then](tataḥ) [having-made](kṛtvā) [of-time](kālasyāsya) [expenditure](parivyayāt)
-
+[they](te) [authority](adhikāram) [then](tataḥ) [having-done](kṛtvā) [of-time](kālasya) [this](asya) [expenditure](parivyayāt)
 ## mukta-m0-p19-v473
-[what-other](kimanyā) [cause](kāraṇe) [power](śaktiḥ) [non-other](ananyā) [or](vā) [declared](prakīrtitā)
-
+[what-other](kimanyā) [in-cause](kāraṇe) [power](śaktiḥ) [non-other](ananyā) [or](vā) [proclaimed](prakīrtitā)
 ## mukta-m0-p19-v474
-[if](yadi) [not-other](nānyā) [would-be](bhavecchaktiḥ) [of-them](tayorbrūhi) [tell](brūhi) [what-difference](yadantaram)
-
+[if](yadi) [not-other](nānyā) [would-be](bhavet) [power](śaktiḥ) [of-those-two](tayoḥ) [tell](brūhi) [what-difference](yadantaram)
 ## mukta-m0-p19-v475
-[non-other-otherness](ananyānyatvabhāvena) [existence-nonexistence](astināstīti) [doubt](saṃśayaḥ)
+[non-other-otherness-nature](ananyānyatvabhāvena) [is-is-not-thus](astināstīti) [doubt](saṃśayaḥ)

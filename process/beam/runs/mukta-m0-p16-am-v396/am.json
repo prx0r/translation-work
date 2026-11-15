@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 396,
- "question": "What practice should follow the visualization of the lotus-bearing goddess?",
+ "question": "Which deity is prescribed with golden human form, right-hand pointing-finger mudra, left hand at waist, emblem-marked head, and all ornaments?",
  "premises": [
-  "The visualization has been completed.",
-  "The goddess holds a pair of lotuses.",
-  "Recitation is prescribed continually."
+  "ankush-bearer is the named deity",
+  "golden human form is prescribed",
+  "right-hand pointing-finger mudra is held"
  ],
- "inference": "After visualizing the lotus-bearing goddess, one should always perform japa of her.",
- "uncertainties": [],
- "plain_english": "Having thus meditated, one should always recite the mantra of the goddess who holds a pair of lotuses."
+ "inference": "The verse prescribes Ankushadhari's iconographic form.",
+ "uncertainties": [
+  "compound boundaries not analyzed"
+ ],
+ "plain_english": "Ankushadhari is golden and human-formed, has right-hand pointing-finger mudra, left hand at waist, emblem-marked head, and all ornaments."
 }

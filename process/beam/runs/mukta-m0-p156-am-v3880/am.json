@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p156",
  "verse": 3880,
- "question": "What kind of rosary is said to grant fulfillment of all purposes?",
+ "question": "Which deities are named as Yajaniya devatas?",
  "premises": [
-  "Rosaries can be made from different materials.",
-  "Elephant-tusk beads are specified as material.",
-  "Such a rosary is described as granting all purposes."
+  "Brahma and Ishvara are named",
+  "Bhutabali is named",
+  "Ganadhipa is named",
+  "Yajneshvara is named",
+  "Surya is named"
  ],
- "inference": "A rosary made of elephant-tusk beads should be made for achieving all purposes.",
- "uncertainties": [],
- "plain_english": "One should make a rosary of elephant-tusk beads, for it grants all purposes."
+ "inference": "The verse lists deities for worship.",
+ "uncertainties": [
+  "exact ritual grouping unclear"
+ ],
+ "plain_english": "Brahma, Ishvara, Bhutabali, Ganadhipa, Yajneshvara, and Surya are Yajaniya devatas."
 }

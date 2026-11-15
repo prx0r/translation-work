@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[entering](viśatāt) [bindu+form](bindurūpāt) [and](ca) [special+fire+body](viśeṣānalavigrahaḥ)
-
+from-entering bindu-form and special-fire-body
 ## mukta-m0-p13-v302
-[know](vidante) [by+whom](yena) [principles](tattvān) [and](ca) [in+body+middle](dehamadhye) [established](vyavasthitān)
-
+know by-which principles and body-middle situated
 ## mukta-m0-p13-v303
-[to+dissolution](layaṃ) [leads](gamayate) [because](yasmāt) [therefore](tasmāt) [bindu](binduḥ) [thus](iti) [remembered](smṛtaḥ)
-
+to-dissolution leads because-therefore bindu thus remembered
 ## mukta-m0-p13-v304
-[creating](sṛjan) [absorbs](saṃharate) [universe](viśvaṃ) [sadāśiva](sadāśiva) [by+command](niyogataḥ)
-
+creating destroying universe always shiva by-command
 ## mukta-m0-p13-v305
-[agitating](kṣobhakaḥ) [of+all+beings](sarvabhūtānāṃ) [stars](tārakāḥ) [like](iva) [moon](candramāḥ)
-
+agitator of-all-beings moon like stars
 ## mukta-m0-p13-v306
-[star+moved+form](tārakācalitākāraṃ) [of+bindu+god](bindudevasya) [form](rūpakam)
-
+star-moved form bindu-deity's form
 ## mukta-m0-p13-v307
-[like+moon](someva) [gentleness](saumyatā) [as](yadvat) [in+pericarp](karṇikāyāṃ) [summarily](samāsataḥ)
-
+moon-like gentleness as-in pericarp briefly
 ## mukta-m0-p13-v308
-[in+eye+middle](netramadhye) [would+be+self](bhavedātmā) [of+shadow+life](chāyājīvasya) [is+seen](dṛśyate)
-
+in-eye-middle would-be self shadow-life's seen
 ## mukta-m0-p13-v309
-[field+knower](kṣetrajñaḥ) [he](sa) [indeed](ca) [vai](vai) [viṣṇu](viṣṇuḥ) [person](puruṣaḥ) [twenty+fifth](pañcaviṃśakaḥ)
-
+field-knower he indeed vishnu purusha twenty-fifth
 ## mukta-m0-p13-v310
-[beyond+four+chain](catuṣkasṛṅkalātītaṃ) [bindu](binduṃ) [knowing](jñātvā) [to+śiva](śivaṃ) [go](vrajet)
-
+beyond-four-chain bindu knowing shiva go
 ## mukta-m0-p13-v311
-[ā+form](ākāraḥ) [of+brahma](brahmaṇaḥ) [form](rūpaṃ) [sāttvika](sātvikaṃ) [they+declare](paricakṣate)
-
+a-form brahma's form sattvic declared
 ## mukta-m0-p13-v312
-[ū+form](ūkāraṃ) [vaiṣṇava](vaiṣṇavaṃ) [form](rūpaṃ) [rājasa](rājasaṃ) [that+they+declare](tatpracakṣate)
-
+u-form vaishnava form rajasic that declared
 ## mukta-m0-p13-v313
-[ma+form](makāraṃ) [rudra+form](rudrarūpantu) [tāmasa](tāmasaṃ) [is+proclaimed](parikīrtitam)
-
+m-form rudra-form tamasic proclaimed
 ## mukta-m0-p13-v314
-[that+bindu](sa+binduḥ) [thus](iti) [to+be+known](vijñeyo) [where](yatra) [self](ātmā) [is+seen](dṛśyate) [established](sthitaḥ)
-
+that bindu thus known where self seen situated
 ## mukta-m0-p13-v315
-[having+seen](dṛṣṭvā) [end](antaṃ) [of+all+beings+self](sarvabhūtātmā) [he](sa) [peace+lamp](śāntapadadīpakam)
-
+seeing end all-being-self he peaceful-lamp
 ## mukta-m0-p13-v316
-[then](atha) [devas](devāḥ) [placing](vinyasya) [well+covered](suvṛte)
-
+then * * * * * * gods placing well
 ## mukta-m0-p13-v317
-[ā+form](ākāraḥ) [white+color](śuklavarṇastu) [brahmā](brahmā) [in+sattva+quality](satvaguṇe) [established](sthitaḥ)
-
+a-form white-color brahma sattva-quality situated
 ## mukta-m0-p13-v318
-[black](kṛṣṇantu) [rudra+object](rudraviṣayaṃ) [tāmasa](tāmasaṃ) [that+they+declare](tatpracakṣate)
-
+black rudra-object tamasic that declared
 ## mukta-m0-p13-v319
-[that+bindu](sa+binduḥ) [thus](iti) [to+be+thought](mantavyo) [where](yatra) [self](ātmā) [is+seen](dṛśyate) [established](sthitaḥ)
-
+that bindu thus thought where self seen situated
 ## mukta-m0-p13-v320
-[he](sa) [without+parts](niṣkalo) [supreme+self](parādhyātmaṃ) [supreme+brahma](paraṃ+brahma) [this](idaṃ) [remembered](smṛtam)
-
+he partless supreme-self supreme brahma this remembered
 ## mukta-m0-p13-v321
-[of+bindu+god](bindudevasya) [that+place](tatsthānaṃ) [beyond+beyond](parātparataraṃ) [great](mahat)
-
+bindu-deity's that-place supreme-beyond great
 ## mukta-m0-p13-v322
-[in+which](yasmiṃśca) [again](bhūyaḥ) [dissolves](līyate) [that+bindu](tadbinduḥ) [thus](iti) [named](saṃjñitam)
-
+in-which again dissolves that-bindu thus named
 ## mukta-m0-p13-v323
-[by+mantra+water+ghee+union](mantrājalājyasaṃyogāt) [that+bindu](tadbinduḥ) [thus](iti) [named](saṃjñitam)
-
+mantra-water-ghee-union that-bindu thus named
 ## mukta-m0-p13-v324
-[foundation](pratiṣṭhā) [creation](sṛṣṭirabhavat) [peace+standing](śāntisthaḥ) [with+all+movement](sakaleraṇaḥ)
-
+foundation creation became peaceful-staying all-moving
 ## mukta-m0-p13-v325
-[in+sound+middle+star](dhvanimadhyagatastāraḥ) [in+star+middle+śiva](tāramadhyagataśśivaḥ)
+in-sound-middle star star-middle shiva

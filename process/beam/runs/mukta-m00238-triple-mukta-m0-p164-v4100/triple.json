@@ -1,0 +1,93 @@
+{
+ "song": "mukta-m0-p164",
+ "items": [
+  {
+   "verse": 4100,
+   "rows": [
+    {
+     "surface": "ṭīku",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hāge",
+     "gloss": "like-that",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vānaprasthanu",
+     "gloss": "forest-dweller-stage",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃnyāsigu",
+     "gloss": "renunciant-too",
+     "grounds": "noun with particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruvāguvanu",
+     "gloss": "becomes-guru",
+     "grounds": "verb",
+     "morph": "3.sg.act-fut + root"
+    },
+    {
+     "surface": "yalai",
+     "gloss": "only",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣottamane",
+     "gloss": "supreme-person-only",
+     "grounds": "noun with particle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇāśramagalannu",
+     "gloss": "varna-ashramas",
+     "grounds": "compound noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "atikramiśiruva",
+     "gloss": "having-transcended",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avadhūtayogiyādāgyu",
+     "gloss": "even-avadhuta-yogi",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyābalavilladiddare",
+     "gloss": "if-knowledge-power-absent",
+     "grounds": "conditional clause",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruvāguvadilla",
+     "gloss": "does-not-become-guru",
+     "grounds": "negative verb",
+     "morph": "3.sg.act-neg + root"
+    }
+   ],
+   "question": "Does transcending varna-ashramas as an avadhuta yogi make one a guru without knowledge-power?",
+   "premises": [
+    "vanaprastha and sannyasi become guru",
+    "only Purushottama transcends varna-ashramas",
+    "even an avadhuta yogi lacks guru status without knowledge-power"
+   ],
+   "inference": "Knowledge-power is necessary for guru status even beyond varna-ashrama transcendence.",
+   "uncertainties": [
+    "exact sandhi and case endings are inferred from surface forms"
+   ],
+   "plain_english": "Thus, like that, a vanaprastha and a sannyasi become guru; but even Purushottama, having transcended varna and ashrama as an avadhuta yogi, does not become guru if knowledge-power is absent."
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p162",
  "verse": 4039,
- "question": "What factors are identified as enemies that obstruct the practice of japa?",
+ "question": "Which Mahakali doctrine and Mahaviravati doctrine are listed together?",
  "premises": [
-  "Seeing a dog is listed as harmful to japa.",
-  "Sleep is listed as harmful to japa.",
-  "Babbling is listed as harmful to japa."
+  "Mahakali doctrine is named.",
+  "Mahaviravati doctrine is named.",
+  "They are joined by and."
  ],
- "inference": "Seeing a dog, sleep, and babbling are enemies of japa.",
+ "inference": "The verse lists Mahakali doctrine and Mahaviravati doctrine together.",
  "uncertainties": [
-  "The token 'darśanaṃ' may qualify 'śvanī' as 'the sight of a dog'."
+  "Compound internal members are not split."
  ],
- "plain_english": "The sight of a dog, sleep, and babbling are enemies of japa."
+ "plain_english": "Mahakali doctrine, and indeed Mahaviravati doctrine."
 }

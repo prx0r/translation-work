@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 391,
- "question": "What phonetic completion defines the Lakṣmī-mantra as taught here?",
+ "question": "Which deity is prescribed with gold-like human form, right-hand pointing-finger mudra, left hand at waist, emblem-marked head, and standing posture?",
  "premises": [
-  "The mantra is identified as the Lakṣmī-mantra.",
-  "It is joined with bindu and nāda.",
-  "This form is declared by the text."
+  "śārṅgadhārī is the named deity",
+  "gold-like human form is prescribed",
+  "right-hand pointing-finger mudra is held"
  ],
- "inference": "The Lakṣmī-mantra is properly constituted when endowed with bindu and nāda.",
- "uncertainties": [],
- "plain_english": "The Lakṣmī-mantra is declared to be joined with bindu and nāda."
+ "inference": "The verse prescribes Sharngadhari's iconographic form.",
+ "uncertainties": [
+  "compound boundaries not analyzed"
+ ],
+ "plain_english": "Sharngadhari is gold-like and human-formed, has right-hand pointing-finger mudra, left hand at waist, emblem-marked head, and stands."
 }

@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p152",
+ "items": [
+  {
+   "verse": 3800,
+   "rows": [
+    {
+     "surface": "tenirguṇā",
+     "gloss": "thus",
+     "grounds": "fused sandhi form; legacy hint 'thus'",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apiguṇāṃbudhayobhavaṃti",
+     "gloss": "also-become-oceans-of-merit",
+     "grounds": "fused sandhi form; api + guṇāṃbudhayaḥ + bhavaṃti",
+     "morph": "indecl.; noun.nom.pl.m; verb 3.pl.act-pres (bhū)"
+    },
+    {
+     "surface": "viṃdaṃtimuktimupabhuktasamastabhogāḥ",
+     "gloss": "find-liberation-after-enjoying-all-pleasures",
+     "grounds": "fused sandhi form; viṃdanti + muktim + upabhukta-samasta-bhogāḥ",
+     "morph": "verb 3.pl.act-pres (vid); noun.acc.sg.f; adj.nom.pl.m"
+    }
+   ],
+   "question": "What is the result for those who find liberation after enjoying all pleasures?",
+   "premises": [
+    "Those with qualities become oceans of merit.",
+    "They find liberation after enjoying all pleasures.",
+    "Thus merit and liberation follow enjoyment."
+   ],
+   "inference": "Enjoyment of all pleasures culminates in liberation for the qualified.",
+   "uncertainties": [
+    "Fused sandhi forms obscure exact word boundaries.",
+    "Legacy hints are approximate."
+   ],
+   "plain_english": "Thus even the qualified become oceans of merit; they find liberation after enjoying all pleasures."
+  }
+ ]
+}

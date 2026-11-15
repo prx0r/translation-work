@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p162",
  "verse": 4048,
- "question": "What unsuitable places are forbidden for the performance of japa?",
+ "question": "Which east, west, south, northern, and without-Uttara items are enumerated?",
  "premises": [
-  "A street is named as an unsuitable place.",
-  "An inauspicious place is named as unsuitable.",
-  "A dark abode is named as unsuitable."
+  "East-west-south is named.",
+  "Northern is named.",
+  "Without-Uttara is named."
  ],
- "inference": "Japa must not be performed in a street, an inauspicious place, or a dark abode.",
- "uncertainties": [],
- "plain_english": "One should not recite japa in a street, in an inauspicious place, or in a dark abode."
+ "inference": "The verse enumerates directional items including east, west, south, northern, and without-Uttara.",
+ "uncertainties": [
+  "Internal sandhi in capyuttaram is not expanded."
+ ],
+ "plain_english": "East-west-south, and northern, and without-Uttara."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p156",
  "verse": 3886,
- "question": "What further wood-derived materials are specified for the rosary?",
+ "question": "What bow is borne, dark and cock-egg colored?",
  "premises": [
-  "The list of suitable materials continues.",
-  "Devadāru is named as a source.",
-  "Black wood is named as another source."
+  "bow is object",
+  "cock-egg color is named",
+  "dark is named"
  ],
- "inference": "Beads born from devadāru and black wood are also included in the prescription.",
- "uncertainties": [],
- "plain_english": "It may also be made with beads born from devadāru and from black wood."
+ "inference": "The verse describes a borne bow with those colors.",
+ "uncertainties": [
+  "bearer not explicit"
+ ],
+ "plain_english": "Bearing a bow, dark and cock-egg colored."
 }

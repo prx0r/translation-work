@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p156",
  "verse": 3890,
- "question": "On which lunar day should the rite also be performed for Śiva?",
+ "question": "What is said to give all desires and victory everywhere?",
  "premises": [
-  "The ritual timing is being specified.",
-  "The fourteenth lunar day is named.",
-  "The rite may also be performed for Śiva."
+  "giver of all desires is named",
+  "said is stated",
+  "giver of victory everywhere is named"
  ],
- "inference": "One should likewise perform the rite for Śiva on the fourteenth day.",
- "uncertainties": [],
- "plain_english": "O goddess of gods, one should likewise perform it for Śiva on the fourteenth day."
+ "inference": "The verse describes a form as giver of desires and victory.",
+ "uncertainties": [
+  "exact form not named"
+ ],
+ "plain_english": "Said to be giver of all desires and giver of victory everywhere."
 }

@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "navyam",
+     "gloss": "new",
+     "grounds": "newly made rudrākṣa",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "paraṃparāprāptam",
+     "gloss": "traditionally-obtained",
+     "grounds": "received through lineage",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "dhāryam",
+     "gloss": "should-be-worn",
+     "grounds": "obligation to wear",
+     "morph": "gerundive.nom.sg.n"
+    },
+    {
+     "surface": "rudrākṣam",
+     "gloss": "rudrākṣa",
+     "grounds": "sacred bead",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "best",
+     "grounds": "highest quality",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "Which rudrākṣa is best for a wise devotee to wear?",
+   "premises": [
+    "new rudrākṣa may be worn",
+    "lineage-obtained rudrākṣa may be worn",
+    "wearing rudrākṣa is prescribed"
+   ],
+   "inference": "the best rudrākṣa is either new or traditionally obtained",
+   "uncertainties": [
+    "exact syntactic case of rudrākṣam remains unresolved",
+    "quotation boundary in the compendium is unclear"
+   ],
+   "plain_english": "A new or traditionally obtained rudrākṣa should be worn; that is best."
+  }
+ ]
+}

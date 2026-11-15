@@ -1,0 +1,865 @@
+{
+ "song": "mukta-m0-p162",
+ "items": [
+  {
+   "verse": 4026,
+   "rows": [
+    {
+     "surface": "kāvyetvaṣṭādaśavidhāvaṇyartakāvyavedibhiḥ",
+     "gloss": "by-knowers-of-eighteen-kinds-of-poetry",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.instr.pl.m"
+    }
+   ],
+   "question": "Which eighteen-fold poetic taxonomy is enumerated for Vedic tantra knowers?",
+   "premises": [
+    "The token names eighteen kinds of poetry.",
+    "It is instrumental plural.",
+    "It refers to knowers."
+   ],
+   "inference": "The verse identifies a class of knowers by an eighteen-fold poetic taxonomy.",
+   "uncertainties": [
+    "Exact internal sandhi and compound boundaries are not split."
+   ],
+   "plain_english": "By those who know eighteen kinds of poetry."
+  },
+  {
+   "verse": 4027,
+   "rows": [
+    {
+     "surface": "ādauvaidikataṃtrāṇāmanukramaṇikocyate",
+     "gloss": "first-the-ordered-list-of-vedic-tantras-is-stated",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "verb.3.sg.pass-pres+root"
+    }
+   ],
+   "question": "What ordered list of Vedic tantras is stated at the beginning?",
+   "premises": [
+    "The token states an ordered list.",
+    "It concerns Vedic tantras.",
+    "It occurs first."
+   ],
+   "inference": "The verse introduces an ordered enumeration of Vedic tantras.",
+   "uncertainties": [
+    "Internal sandhi and verbal parsing are not expanded."
+   ],
+   "plain_english": "First the ordered list of Vedic tantras is stated."
+  },
+  {
+   "verse": 4028,
+   "rows": [
+    {
+     "surface": "āruṇeśvarataṃtraṃ",
+     "gloss": "arunesvara-tantra",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśuddheśvaranāmakam",
+     "gloss": "named-visuddhesvara",
+     "grounds": "compound member",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "Which two tantras named Arunesvara and Visuddhesvara are listed together?",
+   "premises": [
+    "Arunesvara tantra is named.",
+    "Visuddhesvara-named tantra is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse lists Arunesvara tantra and the Visuddhesvara-named tantra together.",
+   "uncertainties": [
+    "Compound internal members are not split."
+   ],
+   "plain_english": "Arunesvara tantra and the one named Visuddhesvara."
+  },
+  {
+   "verse": 4029,
+   "rows": [
+    {
+     "surface": "kālāsāraṃ",
+     "gloss": "kalasara",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "kālavādataṃtraṃ",
+     "gloss": "kalavada-tantra",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "yogīśvarī",
+     "gloss": "yogishvari",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "num.nom.sg.n"
+    }
+   ],
+   "question": "Which tantras and hundredfold item are grouped in this enumeration?",
+   "premises": [
+    "Kalasara is named.",
+    "Kalavada tantra is named.",
+    "Yogishvari is named.",
+    "Hundred is named."
+   ],
+   "inference": "The verse groups Kalasara, Kalavada tantra, Yogishvari, and hundred.",
+   "uncertainties": [
+    "Exact grammatical relation of hundred is unclear."
+   ],
+   "plain_english": "Kalasara, Kalavada tantra, Yogishvari, hundred."
+  },
+  {
+   "verse": 4030,
+   "rows": [
+    {
+     "surface": "paścimāmnāyakābhikhyamuttarāmnāyanāmakam",
+     "gloss": "known-as-western-current-and-named-northern-current",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "Which western-current and northern-current tantras are named in this fused form?",
+   "premises": [
+    "Western current is named.",
+    "Northern current is named.",
+    "The form is fused."
+   ],
+   "inference": "The verse names a tantra known by western current and named northern current.",
+   "uncertainties": [
+    "Internal sandhi and compound boundaries are not split."
+   ],
+   "plain_english": "Known as western current and named northern current."
+  },
+  {
+   "verse": 4031,
+   "rows": [
+    {
+     "surface": "kuṃḍīśvaramataṃ",
+     "gloss": "kundishvara-doctrine",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "vīṇātaṃtraṃ",
+     "gloss": "vina-tantra",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "guhyāhvayaṃ",
+     "gloss": "called-secret",
+     "grounds": "compound member",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.n"
+    }
+   ],
+   "question": "Which Kundishvara doctrine, Vina tantra, and secret-named item are listed?",
+   "premises": [
+    "Kundishvara doctrine is named.",
+    "Vina tantra is named.",
+    "Secret-named item is named.",
+    "That is referenced."
+   ],
+   "inference": "The verse lists Kundishvara doctrine, Vina tantra, and a secret-named item.",
+   "uncertainties": [
+    "The referent of that is not explicit."
+   ],
+   "plain_english": "Kundishvara doctrine, Vina tantra, and that secret-named item."
+  },
+  {
+   "verse": 4032,
+   "rows": [
+    {
+     "surface": "hṛdbhedaṃ",
+     "gloss": "heart-division",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "mātṛbhedaṃ",
+     "gloss": "mother-division",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vātulaṃ",
+     "gloss": "vatula",
+     "grounds": "proper noun",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "vātulottaram",
+     "gloss": "vatulottara",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "Which heart-division, mother-division, Vatula, and Vatulottara are enumerated?",
+   "premises": [
+    "Heart-division is named.",
+    "Mother-division is named.",
+    "Vatula is named.",
+    "Vatulottara is named."
+   ],
+   "inference": "The verse enumerates heart-division, mother-division, Vatula, and Vatulottara.",
+   "uncertainties": [
+    "Exact list punctuation is not marked."
+   ],
+   "plain_english": "Heart-division, mother-division, and Vatula, Vatulottara."
+  },
+  {
+   "verse": 4033,
+   "rows": [
+    {
+     "surface": "bahurūpāṣṭakaṃ",
+     "gloss": "eightfold-bahurupa",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmalāṣṭakameva",
+     "gloss": "eightfold-yamala-indeed",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which eightfold Bahurupa and eightfold Yamala are listed together?",
+   "premises": [
+    "Eightfold Bahurupa is named.",
+    "Eightfold Yamala is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse lists eightfold Bahurupa and eightfold Yamala together.",
+   "uncertainties": [
+    "Internal sandhi in yamalashtakameva is not expanded."
+   ],
+   "plain_english": "Eightfold Bahurupa and indeed eightfold Yamala, and."
+  },
+  {
+   "verse": 4034,
+   "rows": [
+    {
+     "surface": "anusṛtyatuvedoktakarmāṇyanucaraṃtihi",
+     "gloss": "following-vedic-declared-rites-they-follow-indeed",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "verb.3.pl.act-pres+root"
+    }
+   ],
+   "question": "What Vedic-declared rites are followed according to this statement?",
+   "premises": [
+    "The token says following.",
+    "It concerns Vedic-declared rites.",
+    "It says they follow indeed."
+   ],
+   "inference": "The verse states that certain rites declared by the Veda are followed.",
+   "uncertainties": [
+    "Subject and exact rites are not explicit."
+   ],
+   "plain_english": "Following Vedic-declared rites, they indeed follow."
+  },
+  {
+   "verse": 4035,
+   "rows": [
+    {
+     "surface": "mahāmāyāśaṃbaraṃ",
+     "gloss": "mahamaya-shambara",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginījālaśaṃbaram",
+     "gloss": "yogini-jala-shambara",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "Which Mahamaya Shambara and Yogini Jala Shambara are listed?",
+   "premises": [
+    "Mahamaya Shambara is named.",
+    "Yogini Jala Shambara is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse lists Mahamaya Shambara and Yogini Jala Shambara.",
+   "uncertainties": [
+    "Compound internal members are not split."
+   ],
+   "plain_english": "Mahamaya Shambara and Yogini Jala Shambara."
+  },
+  {
+   "verse": 4036,
+   "rows": [
+    {
+     "surface": "mahāsaṃmohanaṃ",
+     "gloss": "great-delusion",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpikāmatameva",
+     "gloss": "rupika-doctrine-indeed",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which great delusion and Rupika doctrine are enumerated here?",
+   "premises": [
+    "Great delusion is named.",
+    "Rupika doctrine is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse enumerates great delusion and Rupika doctrine.",
+   "uncertainties": [
+    "Internal sandhi in rupikamatameva is not expanded."
+   ],
+   "plain_english": "Great delusion, and indeed Rupika doctrine, and."
+  },
+  {
+   "verse": 4037,
+   "rows": [
+    {
+     "surface": "pariśiṣṭānaṃdataṃtramamareśvarameva",
+     "gloss": "remaining-ananda-tantra-and-amareshvara-indeed",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which remaining Ananda tantra and Amareshvara are named in this fused form?",
+   "premises": [
+    "Remaining Ananda tantra is named.",
+    "Amareshvara is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse names remaining Ananda tantra and Amareshvara.",
+   "uncertainties": [
+    "Internal sandhi and compound boundaries are not split."
+   ],
+   "plain_english": "Remaining Ananda tantra and Amareshvara indeed, and."
+  },
+  {
+   "verse": 4038,
+   "rows": [
+    {
+     "surface": "paṃcāmṛtaṃ",
+     "gloss": "five-nectars",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalyāṇaṃ",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "bhūtākhyaṃ",
+     "gloss": "called-bhuta",
+     "grounds": "compound member",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "vaibhavāṣṭakam",
+     "gloss": "eightfold-vaibhava",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "Which five nectars, auspicious, Bhuta-named, and eightfold Vaibhava are listed?",
+   "premises": [
+    "Five nectars is named.",
+    "Auspicious is named.",
+    "Bhuta-named is named.",
+    "Eightfold Vaibhava is named."
+   ],
+   "inference": "The verse lists five nectars, auspicious, Bhuta-named, and eightfold Vaibhava.",
+   "uncertainties": [
+    "Exact grammatical relation of auspicious is unclear."
+   ],
+   "plain_english": "Five nectars, and auspicious, Bhuta-named, eightfold Vaibhava."
+  },
+  {
+   "verse": 4039,
+   "rows": [
+    {
+     "surface": "mahākālīmataṃ",
+     "gloss": "mahakali-doctrine",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāvīrāvatīmatam",
+     "gloss": "mahaviravati-doctrine",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "Which Mahakali doctrine and Mahaviravati doctrine are listed together?",
+   "premises": [
+    "Mahakali doctrine is named.",
+    "Mahaviravati doctrine is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse lists Mahakali doctrine and Mahaviravati doctrine together.",
+   "uncertainties": [
+    "Compound internal members are not split."
+   ],
+   "plain_english": "Mahakali doctrine, and indeed Mahaviravati doctrine."
+  },
+  {
+   "verse": 4040,
+   "rows": [
+    {
+     "surface": "mahākuleśvarīcūḍāmaṇitaṃtramanuttamam",
+     "gloss": "supreme-mahakuleshvari-cudamani-tantra",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "Which supreme Mahakuleshvari Cudamani tantra is named in this fused form?",
+   "premises": [
+    "Mahakuleshvari Cudamani tantra is named.",
+    "It is called supreme.",
+    "The form is fused."
+   ],
+   "inference": "The verse names the supreme Mahakuleshvari Cudamani tantra.",
+   "uncertainties": [
+    "Internal sandhi and compound boundaries are not split."
+   ],
+   "plain_english": "The supreme Mahakuleshvari Cudamani tantra."
+  },
+  {
+   "verse": 4041,
+   "rows": [
+    {
+     "surface": "trayastriṃśatprabhedāni",
+     "gloss": "thirty-three-varieties",
+     "grounds": "compound member",
+     "morph": "noun.nom.pl.n"
+    },
+    {
+     "surface": "hyavaidikavatāṃ",
+     "gloss": "indeed-of-non-vedic-ones",
+     "grounds": "compound member",
+     "morph": "adj.gen.pl.m"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "noun",
+     "morph": "noun.gen.pl.m"
+    }
+   ],
+   "question": "Which thirty-three varieties belong to non-Vedic men in this statement?",
+   "premises": [
+    "Thirty-three varieties are named.",
+    "They belong to non-Vedic ones.",
+    "They belong to men."
+   ],
+   "inference": "The verse states thirty-three varieties for non-Vedic men.",
+   "uncertainties": [
+    "Exact syntactic relation is not fully explicit."
+   ],
+   "plain_english": "Thirty-three varieties of non-Vedic men."
+  },
+  {
+   "verse": 4042,
+   "rows": [
+    {
+     "surface": "mahāmāyāśambaraṃ",
+     "gloss": "mahamaya-shambara",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginījālaśambaram",
+     "gloss": "yogini-jala-shambara",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "Which Mahamaya Shambara and Yogini Jala Shambara are listed here?",
+   "premises": [
+    "Mahamaya Shambara is named.",
+    "Yogini Jala Shambara is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse lists Mahamaya Shambara and Yogini Jala Shambara.",
+   "uncertainties": [
+    "Compound internal members are not split."
+   ],
+   "plain_english": "Mahamaya Shambara and Yogini Jala Shambara."
+  },
+  {
+   "verse": 4043,
+   "rows": [
+    {
+     "surface": "bahurūpāṣṭhakaṃ",
+     "gloss": "eightfold-bahurupa",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātalāṣṭakameva",
+     "gloss": "eightfold-patala-indeed",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which eightfold Bahurupa and eightfold Patala are listed together?",
+   "premises": [
+    "Eightfold Bahurupa is named.",
+    "Eightfold Patala is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse lists eightfold Bahurupa and eightfold Patala together.",
+   "uncertainties": [
+    "Internal sandhi in patalashtakameva is not expanded."
+   ],
+   "plain_english": "Eightfold Bahurupa, and indeed eightfold Patala, and."
+  },
+  {
+   "verse": 4044,
+   "rows": [
+    {
+     "surface": "vāmajaṣṭaṃ",
+     "gloss": "vamaja-eightfold",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "mahādevaṃ",
+     "gloss": "mahadeva",
+     "grounds": "proper noun",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "vātūlaṃ",
+     "gloss": "vatula",
+     "grounds": "proper noun",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "vātulottaram",
+     "gloss": "vatulottara",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "Which Vamaja eightfold, Mahadeva, Vatula, and Vatulottara are enumerated?",
+   "premises": [
+    "Vamaja eightfold is named.",
+    "Mahadeva is named.",
+    "Vatula is named.",
+    "Vatulottara is named."
+   ],
+   "inference": "The verse enumerates Vamaja eightfold, Mahadeva, Vatula, and Vatulottara.",
+   "uncertainties": [
+    "Exact list punctuation is not marked."
+   ],
+   "plain_english": "Vamaja eightfold, Mahadeva, Vatula, Vatulottara."
+  },
+  {
+   "verse": 4045,
+   "rows": [
+    {
+     "surface": "kalāvādaṃ",
+     "gloss": "kalavada",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "kalāsāraṃ",
+     "gloss": "kalasara",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "tathānyatkuṇḍikā",
+     "gloss": "and-other-kundika",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "matam",
+     "gloss": "doctrine",
+     "grounds": "noun",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "Which Kalavada, Kalasara, other Kundika, and doctrine are grouped here?",
+   "premises": [
+    "Kalavada is named.",
+    "Kalasara is named.",
+    "Other Kundika is named.",
+    "Doctrine is named."
+   ],
+   "inference": "The verse groups Kalavada, Kalasara, other Kundika, and doctrine.",
+   "uncertainties": [
+    "Internal sandhi in tathanyat kundika is not expanded."
+   ],
+   "plain_english": "Kalavada, Kalasara, and other Kundika doctrine."
+  },
+  {
+   "verse": 4046,
+   "rows": [
+    {
+     "surface": "pañcāmṛtaṃ",
+     "gloss": "five-nectars",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "rūpabhedaṃ",
+     "gloss": "form-division",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "bhūtoḍḍāmarameva",
+     "gloss": "bhuta-uddamara-indeed",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which five nectars, form-division, and Bhuta Uddamara are listed?",
+   "premises": [
+    "Five nectars is named.",
+    "Form-division is named.",
+    "Bhuta Uddamara is named.",
+    "They are joined by and."
+   ],
+   "inference": "The verse lists five nectars, form-division, and Bhuta Uddamara.",
+   "uncertainties": [
+    "Internal sandhi in bhutoddamarameva is not expanded."
+   ],
+   "plain_english": "Five nectars, form-division, and indeed Bhuta Uddamara, and."
+  },
+  {
+   "verse": 4047,
+   "rows": [
+    {
+     "surface": "sarvajñānottamaṃ",
+     "gloss": "supreme-of-all-knowledge",
+     "grounds": "compound member",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahākālīmataṃ",
+     "gloss": "mahakali-doctrine",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which supreme all-knowledge and Mahakali doctrine are listed here?",
+   "premises": [
+    "Supreme of all knowledge is named.",
+    "Mahakali doctrine is named.",
+    "Likewise is stated."
+   ],
+   "inference": "The verse lists supreme all-knowledge and Mahakali doctrine.",
+   "uncertainties": [
+    "Exact relation of likewise is not explicit."
+   ],
+   "plain_english": "Supreme of all knowledge, and indeed Mahakali doctrine, likewise."
+  },
+  {
+   "verse": 4048,
+   "rows": [
+    {
+     "surface": "pūrvapaścimadakṣaṃ",
+     "gloss": "east-west-south",
+     "grounds": "compound member",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "cāpyattaraṃ",
+     "gloss": "and-northern",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niruttaram",
+     "gloss": "without-uttara",
+     "grounds": "compound member",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "Which east, west, south, northern, and without-Uttara items are enumerated?",
+   "premises": [
+    "East-west-south is named.",
+    "Northern is named.",
+    "Without-Uttara is named."
+   ],
+   "inference": "The verse enumerates directional items including east, west, south, northern, and without-Uttara.",
+   "uncertainties": [
+    "Internal sandhi in capyuttaram is not expanded."
+   ],
+   "plain_english": "East-west-south, and northern, and without-Uttara."
+  },
+  {
+   "verse": 4049,
+   "rows": [
+    {
+     "surface": "vimalaṃ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "vimalorjaṃ",
+     "gloss": "pure-urja",
+     "grounds": "compound member",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devīmatamataḥ",
+     "gloss": "from-devi-doctrine",
+     "grounds": "fused sandhi form transcribed whole",
+     "morph": "noun.abl.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "Which pure, pure-Urja, and supreme Devi doctrine are stated here?",
+   "premises": [
+    "Pure is named.",
+    "Pure-Urja is named.",
+    "Devi doctrine is named.",
+    "Supreme is named."
+   ],
+   "inference": "The verse states pure, pure-Urja, and supreme Devi doctrine.",
+   "uncertainties": [
+    "Internal sandhi in devimatamatah is not expanded."
+   ],
+   "plain_english": "Pure, pure-Urja, and from Devi doctrine supreme."
+  }
+ ]
+}

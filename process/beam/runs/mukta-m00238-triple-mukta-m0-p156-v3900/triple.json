@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p156",
+ "items": [
+  {
+   "verse": 3900,
+   "rows": [
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "black",
+     "grounds": "black-colored form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛttākṛtiḥ",
+     "gloss": "round-shaped",
+     "grounds": "round in form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "direct manifestation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃpāpanāśanaḥ",
+     "gloss": "destroyer-of-all-sins",
+     "grounds": "destroys sins of all",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which black round-shaped direct manifestation destroys all sins?",
+   "premises": [
+    "The form is black.",
+    "The form is round-shaped.",
+    "The manifestation is direct.",
+    "It destroys all sins."
+   ],
+   "inference": "The black round-shaped direct manifestation is the destroyer of all sins.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded in the row."
+   ],
+   "plain_english": "The black, round-shaped direct manifestation destroys all sins."
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p162",
  "verse": 4027,
- "question": "Which sensory indulgences are to be avoided in the ritual discipline described here?",
+ "question": "What ordered list of Vedic tantras is stated at the beginning?",
  "premises": [
-  "Betel is listed among items to avoid.",
-  "Sandal paste is listed among items to avoid.",
-  "Wearing flowers is listed among items to avoid."
+  "The token states an ordered list.",
+  "It concerns Vedic tantras.",
+  "It occurs first."
  ],
- "inference": "Betel, sandal paste, and wearing flowers are to be avoided as part of ritual restraint.",
+ "inference": "The verse introduces an ordered enumeration of Vedic tantras.",
  "uncertainties": [
-  "The governing verb varjayet appears in the next verse but applies to this list."
+  "Internal sandhi and verbal parsing are not expanded."
  ],
- "plain_english": "One should avoid betel, sandal paste, and wearing flowers."
+ "plain_english": "First the ordered list of Vedic tantras is stated."
 }

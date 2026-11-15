@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 395,
- "question": "What crown and garments adorn Śrī in the prescribed visualization?",
+ "question": "Which deity is prescribed with crop-dark human form, right-hand pointing-finger mudra, left hand at waist, emblem-marked head, and all ornaments?",
  "premises": [
-  "Her crown is bound with masses of jewels.",
-  "Her body is adorned with pure silk."
+  "musala is the named deity",
+  "crop-dark human form is prescribed",
+  "right-hand pointing-finger mudra is held"
  ],
- "inference": "Śrī is to be visualized with a jeweled crown and pure silk garments.",
- "uncertainties": [],
- "plain_english": "She wears a crown bound with masses of jewels and is adorned with pure silk garments."
+ "inference": "The verse prescribes Musali's iconographic form.",
+ "uncertainties": [
+  "compound boundaries not analyzed"
+ ],
+ "plain_english": "Musali is crop-dark and human-formed, has right-hand pointing-finger mudra, left hand at waist, emblem-marked head, and all ornaments."
 }

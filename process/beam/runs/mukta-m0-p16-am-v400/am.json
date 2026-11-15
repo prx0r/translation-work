@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p16",
  "verse": 400,
- "question": "In which directions and round pits are the images employed?",
+ "question": "What iconographic attributes define the Garuda deity in this description?",
  "premises": [
-  "four directions are named",
-  "round pits are named",
-  "images are instrumental"
+  "Garuda deity has gold radiance.",
+  "Garuda deity has bent right foot.",
+  "Garuda deity has left foot placed behind.",
+  "Garuda deity has spread wings.",
+  "Garuda deity has joined palms at heart."
  ],
- "inference": "The verse specifies images in four directions and round pits.",
+ "inference": "The verse portrays Garuda as gold-radiant, with bent right foot, left foot placed behind, spread wings, joined palms at the heart, and various ornaments.",
  "uncertainties": [
-  "exact ritual action is not stated"
+  "Token four contains an internal space and is treated as one fused descriptive phrase."
  ],
- "plain_english": "In the four directions, in round pits, with images."
+ "plain_english": "The Garuda deity is gold-radiant, with the right foot bent, the left foot placed behind, both wings spread, palms joined at the heart, and adorned with various ornaments."
 }

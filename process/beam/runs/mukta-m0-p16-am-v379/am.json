@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 379,
- "question": "What is the status of the group of five vidyās across the three worlds?",
+ "question": "Which deity is prescribed with china-rose color, lotus conch mace and disc, yellow garments and ornaments, and standing posture?",
  "premises": [
-  "A group of five vidyās is being presented.",
-  "The address is to the goddess.",
-  "These vidyās are rare in the three worlds."
+  "dāmodara is the named deity",
+  "china-rose color is prescribed",
+  "lotus conch mace and disc are held"
  ],
- "inference": "The five vidyās are exceedingly rare and precious in all three worlds.",
- "uncertainties": [],
- "plain_english": "O goddess, this group of five vidyās is hard to obtain in the three worlds."
+ "inference": "The verse prescribes Damodara's iconographic form.",
+ "uncertainties": [
+  "compound boundaries not analyzed"
+ ],
+ "plain_english": "Damodara is china-rose colored, bears lotus, conch, mace, and disc, is equipped with yellow garments and ornaments, and stands."
 }
