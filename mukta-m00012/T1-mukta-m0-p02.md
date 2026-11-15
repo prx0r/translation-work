@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[of-that](tasya) [thus](tathā) [by-so-many](tāvadbhiḥ) [placed+by](nihitaiḥ) [abandons](vijahāti) [bondage-ness](bandhatvam)
+[of-that](tasya) [thus](tathā) [by-so-many](tāvadbhiḥ) [by-placed](nihitaiḥ) [abandons](vijahāti) [bondage](bandhatvam)
 
 ## mukta-m0-p02-v27
-[placed+by](nihitaiḥ) [by-six](sadbhiḥ) [bondage-ness](bandhatvaṃ) [abandons](vijahāti)
+[by-placed](nihitaiḥ) [by-six](sadbhiḥ) [bondage](bandhatvaṃ) [abandons](vijahāti)
 
 ## mukta-m0-p02-v28
-[in-Śaiva](śārve) [in-scripture](śāstre) [those](tāni) [and](ca) [not+otherwise](na+itarathā) [endowed-with-reasoning](yuktimanti) [arise](jāyante)
+[in-śaiva](śārve) [in-scripture](śāstre) [those](tāni) [and](ca) [not](na) [otherwise](itarathā) [reason+possessing](yukti+manti) [arise](jāyante)
 
 ## mukta-m0-p02-v29
-[from-seed](bījād) [gives](dadāti) [manifoldness](citryaṃ) [having-extracted](niṣkṛṣya) [and](ca) [who](yaḥ) [with-means](sa+sādhanam) [enjoyment](bhogam)
+[from-seed](bījāt) [gives](dadāti) [variety](citryaṃ) [having-extracted](niṣkṛṣya) [and](ca) [who](yaḥ) [with+means](sa+sādhanaṃ) [experience](bhogam)
 
 ## mukta-m0-p02-v30
-[in-pure](śuddhe) [path](adhvani) [Śiva](śivaḥ) [agent](kartā) [declared](proktaḥ) [Ananta](anantaḥ) [in-impure](asite) [lord](prabhuḥ) [thus](iti)
+[in-pure](śuddhe) [path](adhvani) [śiva](śivaḥ) [agent](kartā) [declared](proktaḥ) [ananta](anantaḥ) [in-impure](asite) [lord](prabhuḥ) [thus](iti)
 
 ## mukta-m0-p02-v31
-[universe](viśvaṃ) [and](ca) [there](tatra) [placed](nihitaṃ) [at-dissolution](pralaye) [by-that-very](tena+eva) [for-rest](viśrāntyai)
+[universe](viśvaṃ) [and](ca) [there](tatra) [placed](nihitaṃ) [in-dissolution](pralaye) [by-him+indeed](tena+eva) [for-rest](viśrāntyai)
 
 ## mukta-m0-p02-v32
-[of-such-nature](tathāvidhān) [and](ca) [selves](ātmanaḥ) [again](punar) [fit-for-enjoyment](bhoga+yogyān) [arranges](vidhatte)
+[of-such-kind](tathā+vidhān) [and](ca) [selves](ātmanaḥ) [again](punar) [experience+fit](bhoga+yogyān) [arranges](vidhatte)
 
 ## mukta-m0-p02-v33
-[with-impurity](sa+malam) [he](sa) [great-strength-giver](mahā+bala+daḥ) [out-of-compassion](kāruṇyāt) [always](sarvadā+eva) [for-liberation](vinivṛttyai)
+[with+impurity](sa+malaṃ) [he](sa) [great+power+giver](mahā+bala+daḥ) [out-of-compassion](kāruṇyāt) [always+indeed](sarvadā+eva) [for-removal](vinivṛttyai)
 
 ## mukta-m0-p02-v34
-[of-soul-power](puṃ+bala) [obstruction](rodhaṃ) [making](kurvan) [seen](dṛṣṭaḥ) [he](sa) [and](ca) [of-bond-power](pāśa+śakti) [assistance](sāhāyyam)
+[soul+power+obstruction](puṃ+bala+rodhaṃ) [making](kurvan) [seen](dṛṣṭaḥ) [he](sa) [and](ca) [bond+power+assistance](pāśa+śakti+sāhāyyam)
 
 ## mukta-m0-p02-v35
-[of-seed](bījasya) [as](iva) [in-sleep](svāpe) [maturation](pariṇatiḥ) [desired](iṣṭā) [of-impurity](malasya) [of-consciousness-loss](citi+hāneḥ)
+[of-seed](bījasya) [like](iva) [in-sleep](svāpe) [transformation](pariṇatiḥ) [desired](iṣṭā) [of-impurity](malasya) [consciousness+diminution](citi+hāneḥ)
 
 ## mukta-m0-p02-v36
-[in-all-souls](sarva+ātmasu) [not](no) [simultaneously](yugapat) [should-do](kuryāt) [thus](iti) [objecting](codayan) [to-be-answered](vācyaḥ)
+[in-all](sarva) [selves](ātmasu) [not](no) [simultaneously](yugapat) [should-do](kuryāt) [thus](iti) [objecting](codayan) [to-be-answered](vācyaḥ)
 
 ## mukta-m0-p02-v37
-[not](na) [solution](samādhiḥ) [because-of-multiplicity](anekatvāt) [fitness-for-enjoyment-at-another-time](kāla+antara+bhogyatā) [greater-strength](balīyastvam)
+[not](na) [solution](samādhiḥ) [because-of-multiplicity](anekatvāt) [at-another-time](kāla+antara) [experiencability](bhogyatā) [greater-strength](balīyastvam)
 
 ## mukta-m0-p02-v38
 [if](ce) [this](tat) [this](etat) [solution](samādhānaṃ) [not](na) [proper](yuktam) [thus](iti) [says](āha) [not](na) [solution](samādhiḥ) [thus](iti)
 
 ## mukta-m0-p02-v39
-[in-Lord](īśe) [in-seed](bīje) [and](ca) [because](yataḥ) [in-future](bhavini) [omnipresence](vibhutvaṃ) [and](ca) [state-of-being-enjoyer](bhoktṛ+bhāvaḥ) [and](ca)
+[in-lord](īśe) [in-seed](bīje) [and](ca) [because](yataḥ) [in-future](bhavini) [omnipresence](vibhutvaṃ) [and](ca) [experiencer-state](bhoktṛ+bhāvaḥ) [and](ca)
 
 ## mukta-m0-p02-v40
-[from-seed](bījād) [simultaneously](yugapat) [soul](puruṣaṃ) [causes-to-enjoy](bhojayati) [all-actions](sarva+karmāṇi)
+[from-seed](bījāt) [simultaneously](yugapat) [person](puruṣaṃ) [causes-to-experience](bhojayati) [all+karmas](sarva+karmāṇi)
 
 ## mukta-m0-p02-v41
-[matures](pācayati) [likewise](tathā+eva) [Śambhu](śambhuḥ) [them](tān) [thus](iti) [equal](samānam) [in-both](ubhaya+tra)
+[matures](pācayati) [likewise](tathā+eva) [śambhu](śambhuḥ) [them](tān) [thus](iti) [same](samānam) [in-both](ubhaya+tra)
 
 ## mukta-m0-p02-v42
-[equal](samānam) [thus](iti)
+[same](samānam) [thus](iti)
 
 ## mukta-m0-p02-v43
-[is-able](śaknoti) [indeed](hi) [fitness](yogyatvaṃ) [likewise](tathā+eva) [to-make](kartuṃ) [great-Lord](mahā+īśvaraḥ) [also](api) [thus](iti)
+[is-able](śaknoti) [indeed](hi) [fitness](yogyatvaṃ) [likewise](tathā+eva) [to-make](kartuṃ) [great-lord](mahā+īśvaraḥ) [also](api) [thus](iti)
 
 ## mukta-m0-p02-v44
 [should-not-do](kuryāt) [not](na) [simultaneously](yugapat) [thus](iti) [is-inferred](anumīyate) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p02-v45
-[of-you](bhavata) [answer](uttaram) [to-be-stated](abhidheyaṃ) [in-maintenance-time](sthiti+samaye) [at-the-same-time](samāna+kālīne)
+[becomes](bhavati) [answer](uttaram) [to-be-stated](abhidheyaṃ) [in-maintenance-time](sthiti+samaye) [at-same-time](samāna+kālīne)
 
 ## mukta-m0-p02-v46
-[maturation](pāka) [indeed](eva) [remainder](śeṣaṃ) [easy](sugamam)
+[maturation](pākaḥ) [indeed](eva) [remainder](śeṣaṃ) [easy](sugamam)
 
 ## mukta-m0-p02-v47
-[in-whatever](yāvati) [time](kāle) [becomes](bhavati) [that](tat) [indeed](hi) [thus](tathā) [so-much](tāvat) [by-Lord](īśena)
+[in-whatever](yāvati) [time](kāle) [happens](bhavati) [that](tat) [indeed](hi) [thus](tathā) [so-much](tāvat) [by-lord](īśena)
 
 ## mukta-m0-p02-v48
 [thus](iti) [says](āha) [this](idaṃ) [equal](tulyam) [thus](iti)
 
 ## mukta-m0-p02-v49
-[enough](alam) [indicated](uddiṣṭam) [of-impure](aśuddheḥ) [true-form](sat+rūpaṃ) [without-remainder](niravaśeṣeṇa)
+[enough](alam) [stated](uddiṣṭam) [of-impure](aśuddheḥ) [true-form](sat+rūpaṃ) [without-remainder](niravaśeṣeṇa)
 
 ## mukta-m0-p02-v50
-[of-power-infinity](śaktyā+ānantya) [beginning-with](pramukhaṃ) [of-right-connection](sat+yukteḥ) [arisen-from-scripture](śāsana+utthāyāḥ)
+[by-power](śaktyā) [infinity+prominent](anantya+pramukhaṃ) [by-true-connection](sat+yukteḥ) [from-scripture+arisen](śāsana+utthāyāḥ)

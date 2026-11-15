@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[this](etat) [armor](kavacam) [without-knowing](ajñātvā) [who](yaḥ) [should-recite](japet) [Bhairavī](bhairavīṃ) [supreme](parām)
+[this](etat) [armor](kavacam) [not-having-known](ajñātvā) [who](yaḥ) [should-recite](japet) [bhairavī](bhairavīṃ) [supreme](parām)
 
 ## mukta-m0-p117-v2902
-[Bālā](bālāṃ) [or](vā) [should-recite](prajapet) [mantra](vidyāṃ) [poor](daridraḥ) [death](mṛtyum) [obtains](āpnuyāt)
+[bālā](bālāṃ) [or](vā) [should-recite](prajapet) [vidyā](vidyāṃ) [poor](daridraḥ) [death](mṛtyum) [obtains](āpnuyāt)
 
 ## mukta-m0-p117-v2903
 [what](kim) [in-mind](manasi) [of-devoted-ones](bhaktimatāṃ) [of-knowers](jānānām)
 
 ## mukta-m0-p117-v2904
-[by-supreme](parayā) [immersed](āplutasya)
+[by-supreme](parayā) [of-immersed](āplutasya)
 
 ## mukta-m0-p117-v2905
 [young-women](taruṇīḥ) [in-three-worlds](bhuvana+traye) [even](api)
@@ -20,13 +20,13 @@
 [by-world-protectors](loka+pālaiḥ)
 
 ## mukta-m0-p117-v2907
-[always](śaśvat) [in-nectar](amṛta) [immersed](āpluta) [cool](śītalasya)
+[always](śaśvat) [nectar-immersed](amṛta+āpluta) [cool](śītalasya)
 
 ## mukta-m0-p117-v2908
 [earth](vasudhāṃ) [gives](dadāti)
 
 ## mukta-m0-p117-v2909
-[fixed](vaddha) [gaze](dṛṣṭim)
+[fixed-gaze](vaddha+dṛṣṭim)
 
 ## mukta-m0-p117-v2910
 [is-born](jāyate) [or](vā)
@@ -41,37 +41,37 @@
 [form](mūrtiḥ) [one](ekā)
 
 ## mukta-m0-p117-v2914
-[with-supreme](parama) [nectar](amṛta) [anointed](aktam)
+[supreme-nectar](parama+amṛta) [smeared](aktam)
 
 ## mukta-m0-p117-v2915
-[with-pure](nirmala) [hymns](sūkti) [load](bhāra) [filled](bharitā) [awakens](jāgarti) [long](dīrghaṃ) [fame](yaśaḥ)
+[pure-utterance](nirmala+sūkti) [load](bhāra) [filled-with](bharitā) [awakens](jāgarti) [long](dīrghaṃ) [fame](yaśaḥ)
 
 ## mukta-m0-p117-v2916
 [union](yogaṃ) [in-you](tvayi) [not](na) [produces](tanute) [mind](cittam) [when-resorted-to](ālambitāyām)
 
 ## mukta-m0-p117-v2917
-[praised](stutā) [you](tvaṃ) [desired](vāñchitaṃ) [O-goddess](devi) [give](dadāsi) [O-compassionate-one](karuṇā+kare)
+[praised](stutā) [you](tvaṃ) [desired](vāñchitaṃ) [goddess](devi) [give](dadāsi) [o-compassionate-one](karuṇā+ākare)
 
 ## mukta-m0-p117-v2918
-[in-consciousness](cit) [repose](viśrānti) [great-being](mahā+sattā) [essence-alone](mātre) [to-mother](mātre) [obeisance](namaḥ) [be](astu) [to-you](te)
+[consciousness-repose](cit+viśrānti) [great-being](mahā+sattā) [essence-alone](mātre) [to-mother](mātre) [obeisance](namaḥ) [be](astu) [to-you](te)
 
 ## mukta-m0-p117-v2919
-[of-three-qualities](guṇa+traya) [nature](ātmikā) [are](asi) [you](tvaṃ) [of-world](jagataḥ) [creation](karaṇa) [by-desire](icchayā)
+[three-qualities](guṇa+traya) [consisting-of](ātmikā) [are](asi) [you](tvaṃ) [of-world](jagataḥ) [creation](karaṇa) [by-desire](icchayā)
 
 ## mukta-m0-p117-v2920
-[of-devotee](bhaktasya) [of-me](me) [in-daily-worship](nitya+pūjā) [engaged](yuktasya) [O-supreme-goddess](parama+īśvari)
+[of-devotee](bhaktasya) [of-me](me) [daily-worship](nitya+pūjā) [engaged](yuktasya) [o-supreme-goddess](parama+īśvari)
 
 ## mukta-m0-p117-v2921
-[by-three-afflictions](tāpa+traya) [withered](parimlāna) [vessel](bhājanaṃ) [protect](trāhi) [me](māṃ) [O-Śivā](śive)
+[three-afflictions](tāpa+traya) [withered](parimlāna) [vessel](bhājanaṃ) [protect](trāhi) [me](māṃ) [o-auspicious-one](śive)
 
 ## mukta-m0-p117-v2922
 [what](yat) [deficient](nyūnam) [excessive](atiriktaṃ) [or](vā) [that](tat) [all](sarvaṃ) [to-forgive](kṣantum) [you-should](arhasi)
 
 ## mukta-m0-p117-v2923
-[that](tat) [all](sarvaṃ) [by-compassion](kṛpayā) [O-goddess](devi) [forgive](kṣamasva) [you](tvaṃ) [O-ocean-of-mercy](dayā+ndihe)
+[that](tat) [all](sarvaṃ) [by-compassion](kṛpayā) [goddess](devi) [forgive](kṣamasva) [you](tvaṃ) [o-ocean-of-mercy](dayā+ndihe)
 
 ## mukta-m0-p117-v2924
-[that](tat) [all](sarvam) [and](ca) [O-world-supporter](jagat+dhātri) [to-be-forgiven](kṣantavyam) [this](ayam) [salutation](añjaliḥ)
+[that](tat) [all](sarvam) [and](ca) [world-supporter](jagat+dhātri) [to-be-forgiven](kṣantavyam) [this](ayam) [añjali](añjaliḥ)
 
 ## mukta-m0-p117-v2925
 [indicated](sūcitaṃ) [which](yat) [of-great-goddess](mahā+devyāḥ) [armor](kavacaṃ) [tell](kathayasva) [to-me](me)

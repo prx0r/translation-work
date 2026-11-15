@@ -1,0 +1,483 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1588,
+   "rows": [
+    {
+     "surface": "astra+agni+priya+antaḥ",
+     "gloss": "weapon-fire-beloved-ending",
+     "grounds": "compound mantra-formula ending with the syllables associated with astra, agni, and priyā (phaṭ)",
+     "morph": "compound"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun identifying the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhadrakālī+mahā+manuḥ",
+     "gloss": "bhadrakālī-great-mantra",
+     "grounds": "compound naming the great mantra of Bhadrakālī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra-formula is identified as the great mantra of Bhadrakālī?",
+   "premises": [
+    "A mantra-formula ending with astra, agni, and priyā is specified",
+    "This formula is designated as the great mantra of Bhadrakālī"
+   ],
+   "inference": "The stated formula constitutes the great mantra of Bhadrakālī",
+   "uncertainties": [
+    "The exact syllabic expansion of astra+agni+priya+antaḥ is not spelled out in this verse"
+   ],
+   "plain_english": "This formula, ending with the syllables of weapon, fire, and beloved, is the great mantra of Bhadrakālī."
+  },
+  {
+   "verse": 1589,
+   "rows": [
+    {
+     "surface": "śiva+liṅge",
+     "gloss": "on-shiva-liṅga",
+     "grounds": "compound indicating the locus of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund expressing prior ritual action",
+     "morph": "gerund"
+    },
+    {
+     "surface": "iti+arthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound indicating the intended sense of the instruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where must the worship associated with this mantra be performed?",
+   "premises": [
+    "Worship is to be performed after completing the prescribed act",
+    "The specified locus of that worship is the Śiva-liṅga"
+   ],
+   "inference": "The mantra worship is to be carried out on the Śiva-liṅga",
+   "uncertainties": [],
+   "plain_english": "The meaning is that one should worship on the Śiva-liṅga."
+  },
+  {
+   "verse": 1590,
+   "rows": [
+    {
+     "surface": "dantaiḥ",
+     "gloss": "with-teeth",
+     "grounds": "instrument describing Bhadrakālī's appearance",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "jambu+phala+ābhaiḥ",
+     "gloss": "rose-apple-fruit-resembling",
+     "grounds": "compound comparing the teeth to the color of jambu fruit",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "pariharatu",
+     "gloss": "may-remove",
+     "grounds": "imperative prayer for removal of fear",
+     "morph": "3.sg.act-imperative (√hṛ)"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "object of removal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "imperative prayer for protection",
+     "morph": "3.sg.act-imperative (√pā)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "bhadrakālī",
+     "gloss": "bhadrakālī",
+     "grounds": "name of the goddess invoked",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What protective actions are requested from Bhadrakālī in this invocation?",
+   "premises": [
+    "Bhadrakālī is described with teeth resembling jambu fruit",
+    "She is asked to remove fear",
+    "She is asked to protect the speaker"
+   ],
+   "inference": "Bhadrakālī is invoked to dispel fear and grant protection",
+   "uncertainties": [],
+   "plain_english": "May Bhadrakālī, with teeth like rose-apple fruit, remove fear and protect me."
+  },
+  {
+   "verse": 1591,
+   "rows": [
+    {
+     "surface": "yathā+iṣṭa+cintayā",
+     "gloss": "by-desired-thought",
+     "grounds": "compound indicating contemplation according to one's wish",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "cintyā",
+     "gloss": "to-be-contemplated",
+     "grounds": "gerundive prescribing meditation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dharma+kāma+artha+siddhi+dā",
+     "gloss": "dharma-desire-wealth-accomplishment-giver",
+     "grounds": "compound describing the goddess as granting dharma, kāma, artha, and siddhi",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What benefits does contemplating Bhadrakālī according to one's wish confer?",
+   "premises": [
+    "Bhadrakālī is to be contemplated according to one's desired thought",
+    "She is characterized as the giver of dharma, desire, wealth, and accomplishment"
+   ],
+   "inference": "Contemplating Bhadrakālī as desired yields dharma, kāma, artha, and siddhi",
+   "uncertainties": [],
+   "plain_english": "She should be contemplated as one wishes, for she grants dharma, desire, wealth, and accomplishment."
+  },
+  {
+   "verse": 1592,
+   "rows": [
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "ritual preparatory practice for mantra efficacy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭa+uttara+sahasra+japaḥ",
+     "gloss": "eight-more-thousand-recitation",
+     "grounds": "compound specifying the number of mantra recitations for puraścaraṇa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What preliminary rite is prescribed for this Bhadrakālī mantra practice?",
+   "premises": [
+    "A preliminary rite is named",
+    "That rite consists of recitation numbering eight more than a thousand"
+   ],
+   "inference": "The prescribed puraścaraṇa is a recitation of one thousand and eight times",
+   "uncertainties": [
+    "The exact count implied by aṣṭa+uttara+sahasra is taken as 1008 but could be read differently in some contexts"
+   ],
+   "plain_english": "The preliminary rite is the recitation of the mantra one thousand and eight times."
+  },
+  {
+   "verse": 1593,
+   "rows": [
+    {
+     "surface": "hastipiśāci",
+     "gloss": "hastipiśācī",
+     "grounds": "name of a deity or mantra-form invoked",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "optative prescribing a ritual act of writing",
+     "morph": "3.sg.act-optative (√likh)"
+    },
+    {
+     "surface": "agni+vanitā",
+     "gloss": "fire-woman",
+     "grounds": "compound indicating mantra syllables or seed elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "gaṃ",
+     "gloss": "gaṃ",
+     "grounds": "bīja syllable to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā+ādita",
+     "gloss": "then-beginning-with-that",
+     "grounds": "compound indicating sequence starting from that element",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattva+bodhāt",
+     "gloss": "from-tattvabodha",
+     "grounds": "compound citing the source text Tattvabodha",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What ritual writing instruction for Hastipiśācī is attributed to the Tattvabodha?",
+   "premises": [
+    "Hastipiśācī is to be written in a specified form",
+    "The elements agni, vanitā, and gaṃ are included in sequence",
+    "This instruction is cited from the Tattvabodha"
+   ],
+   "inference": "The Tattvabodha prescribes writing Hastipiśācī with the elements agni, vanitā, and gaṃ in that order",
+   "uncertainties": [
+    "The precise mantra-technical values of agni+vanitā and the sequence marker tadā+ādita are not fully explicit"
+   ],
+   "plain_english": "According to the Tattvabodha, one should write Hastipiśācī with the elements of fire, woman, and the syllable gaṃ, beginning with that."
+  },
+  {
+   "verse": 1594,
+   "rows": [
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "describes the concealed nature of the teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+āgameṣu",
+     "gloss": "in-all-scriptures",
+     "grounds": "compound indicating universality across āgamas",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hita+buddhyā",
+     "gloss": "with-beneficial-intention",
+     "grounds": "compound expressing the motive for disclosure",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "past participle indicating disclosure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why has this teaching, secret in all scriptures, been revealed here?",
+   "premises": [
+    "The teaching is secret in all āgamas",
+    "It has been revealed in this context",
+    "The revelation is motivated by beneficial intention"
+   ],
+   "inference": "Despite its secrecy in all scriptures, the teaching is revealed here out of benevolent intent",
+   "uncertainties": [],
+   "plain_english": "Though secret in all the scriptures, it has been revealed here with a beneficial intention."
+  },
+  {
+   "verse": 1595,
+   "rows": [
+    {
+     "surface": "sarva+kāma+phala+pradaḥ",
+     "gloss": "all-desire-fruit-granting",
+     "grounds": "compound describing the result-giving power of the practice or mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What range of desired results does this practice or mantra grant?",
+   "premises": [
+    "The subject is described as granting fruits",
+    "Those fruits encompass all desires"
+   ],
+   "inference": "The practice or mantra grants the fulfillment of all desires",
+   "uncertainties": [
+    "The grammatical subject is not explicitly stated in this verse and must be supplied from context"
+   ],
+   "plain_english": "It grants the fruits of all desires."
+  },
+  {
+   "verse": 1596,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb marking the next step in the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavena",
+     "gloss": "with-praṇava",
+     "grounds": "instrument indicating use of the syllable oṃ",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kara+aṅga+nyāsau",
+     "gloss": "hand-limb-assignments",
+     "grounds": "compound referring to nyāsa on hands and body parts",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "gerund expressing completion of nyāsa",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative prescribing meditation",
+     "morph": "3.sg.act-optative (√dhyai)"
+    }
+   ],
+   "question": "What ritual actions must precede meditation in this sequence?",
+   "premises": [
+    "The sequence continues with a subsequent step",
+    "Hand and limb assignments are to be performed with the praṇava",
+    "Meditation follows after performing those assignments"
+   ],
+   "inference": "One should perform kara and aṅga nyāsa with the praṇava before meditating",
+   "uncertainties": [],
+   "plain_english": "Then, having performed the hand and limb assignments with the praṇava, one should meditate."
+  },
+  {
+   "verse": 1597,
+   "rows": [
+    {
+     "surface": "bahiḥ+pūjām",
+     "gloss": "external-worship",
+     "grounds": "compound referring to external ritual worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "optative prescribing commencement of worship",
+     "morph": "3.sg.act-optative (√rabh)"
+    }
+   ],
+   "question": "What form of worship should be commenced at this stage of the ritual?",
+   "premises": [
+    "A specific type of worship is named",
+    "The practitioner is instructed to begin it"
+   ],
+   "inference": "External worship should be begun at this stage",
+   "uncertainties": [],
+   "plain_english": "One should begin the external worship."
+  },
+  {
+   "verse": 1598,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb marking the next ritual step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpam",
+     "gloss": "flower",
+     "grounds": "object used in the dismissal rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral specifying a single flower",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇa+diśi",
+     "gloss": "in-southern-direction",
+     "grounds": "compound indicating the direction for throwing the flower",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-thrown",
+     "grounds": "gerund expressing the act preceding dismissal",
+     "morph": "gerund (√kṣip)"
+    },
+    {
+     "surface": "kṣamasva",
+     "gloss": "forgive",
+     "grounds": "imperative requesting pardon during dismissal",
+     "morph": "2.sg.mid-imperative (√kṣam)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker for the dismissal formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-dismiss",
+     "grounds": "optative prescribing ritual dismissal",
+     "morph": "3.sg.act-optative (√sṛj)"
+    }
+   ],
+   "question": "How should the deity be ritually dismissed at the conclusion of worship?",
+   "premises": [
+    "One flower is to be thrown in the southern direction",
+    "The formula 'forgive' is to be uttered",
+    "The deity is then to be dismissed"
+   ],
+   "inference": "Dismissal is performed by throwing a flower southward, saying 'forgive', and then releasing the deity",
+   "uncertainties": [],
+   "plain_english": "Then, having thrown one flower to the south and said 'forgive', one should dismiss the deity."
+  },
+  {
+   "verse": 1599,
+   "rows": [
+    {
+     "surface": "aprasaṅgāt",
+     "gloss": "because-of-irrelevance",
+     "grounds": "ablative giving a reason for omission or non-application",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "anaucityāt",
+     "gloss": "because-of-impropriety",
+     "grounds": "ablative giving a reason of unsuitability",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "an+ācānta",
+     "gloss": "not-sipped-water",
+     "grounds": "compound describing a state of not having performed ācamana",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker indicating the observed condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanāt",
+     "gloss": "from-observation",
+     "grounds": "ablative citing observation as the basis",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "On what grounds is a particular ritual condition or omission justified in this case?",
+   "premises": [
+    "Irrelevance is cited as a reason",
+    "Impropriety is cited as a reason",
+    "Observation of a state of not having sipped water is cited"
+   ],
+   "inference": "The condition is justified by irrelevance, impropriety, and the observed absence of ācamana",
+   "uncertainties": [
+    "The specific action being justified or omitted is not explicitly named in this verse"
+   ],
+   "plain_english": "Because of irrelevance, because of impropriety, and because it is observed that water has not been sipped."
+  }
+ ]
+}

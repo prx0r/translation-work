@@ -7,43 +7,43 @@
     {
      "surface": "deha+ante",
      "gloss": "at-body-end",
-     "grounds": "locative compound indicating time of death",
-     "morph": "compound: deha+anta; loc.sg.m"
+     "grounds": "locative compound indicating time of death; deha (body) + anta (end)",
+     "morph": "compound loc.sg.m"
     },
     {
      "surface": "yogi+mukhyaḥ",
      "gloss": "chief-yogin",
-     "grounds": "subject attaining the final state",
-     "morph": "compound: yogin+mukhya; nom.sg.m"
+     "grounds": "the foremost practitioner; yogin + mukhya (chief)",
+     "morph": "compound nom.sg.m"
     },
     {
      "surface": "parama+sukha+padam",
      "gloss": "supreme-bliss-state",
-     "grounds": "object describing the attained abode",
-     "morph": "compound: parama+sukha+pada; acc.sg.n"
+     "grounds": "the highest state of bliss; parama (supreme) + sukha (bliss) + pada (state)",
+     "morph": "compound acc.sg.n"
     },
     {
      "surface": "brahma+nirvāṇam",
      "gloss": "brahman-liberation",
-     "grounds": "appositional object specifying the bliss state",
-     "morph": "compound: brahman+nirvāṇa; acc.sg.n"
+     "grounds": "liberation identified with brahman; brahma + nirvāṇa",
+     "morph": "compound acc.sg.n"
     },
     {
      "surface": "eti",
-     "gloss": "goes-to",
-     "grounds": "main verb of attainment",
-     "morph": "3.sg.pres.act √i"
+     "gloss": "attains",
+     "grounds": "reaching or going to the final state",
+     "morph": "3.sg.act.pres √i"
     }
    ],
-   "question": "What final state does the chief yogin attain at the end of the body?",
+   "question": "What final attainment does the chief yogin reach at the end of the body?",
    "premises": [
-    "The chief yogin reaches the end of the body.",
-    "The attained state is supreme bliss.",
-    "That state is identified as brahman-liberation."
+    "The subject is the chief yogin.",
+    "The time specified is the end of the body.",
+    "The attained state is supreme bliss and brahman-liberation."
    ],
-   "inference": "At bodily death the chief yogin attains the supreme bliss of brahman-liberation.",
+   "inference": "At bodily death, the chief yogin attains the supreme bliss state of brahman-liberation.",
    "uncertainties": [],
-   "plain_english": "At the end of the body, the chief yogin goes to the supreme state of bliss, which is liberation in Brahman."
+   "plain_english": "At the end of the body, the chief yogin attains the supreme state of bliss, which is liberation in Brahman."
   },
   {
    "verse": 1414,
@@ -51,65 +51,63 @@
     {
      "surface": "tārā+bhedaiḥ",
      "gloss": "by-tārā-divisions",
-     "grounds": "instrumental specifying divisions of the goddess Tārā",
-     "morph": "compound: tārā+bheda; inst.pl.m"
+     "grounds": "instrumental indicating classification; divisions or forms of Tārā",
+     "morph": "compound inst.pl.m"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "marker introducing specification",
+     "grounds": "marks specification or quotation of the divisions",
      "morph": "(indecl.)"
     },
     {
      "surface": "ugra+tārā+ekajaṭā+nīla+sarasvatī+bhedaiḥ",
      "gloss": "by-ugra-tārā-ekajaṭā-nīla-sarasvatī-divisions",
-     "grounds": "enumerates the specific divisions named",
-     "morph": "compound: ugra-tārā+ekajaṭā+nīla-sarasvatī+bheda; inst.pl.m"
+     "grounds": "names the specific forms: Ugra-tārā, Ekajaṭā, and Nīla-sarasvatī",
+     "morph": "compound inst.pl.m"
     }
    ],
-   "question": "Which specific divisions are included under the divisions of Tārā?",
+   "question": "Which specific goddess forms constitute the divisions of Tārā in this classification?",
    "premises": [
-    "The text refers to divisions of Tārā.",
+    "The verse refers to divisions of Tārā.",
     "These divisions are specified by name.",
-    "The named divisions are Ugra-tārā, Ekajaṭā, and Nīla-sarasvatī."
+    "The named forms are Ugra-tārā, Ekajaṭā, and Nīla-sarasvatī."
    ],
    "inference": "The divisions of Tārā are Ugra-tārā, Ekajaṭā, and Nīla-sarasvatī.",
    "uncertainties": [],
-   "plain_english": "By the divisions of Tārā are meant the divisions of Ugra-tārā, Ekajaṭā, and Nīla-sarasvatī."
+   "plain_english": "The divisions of Tārā are thus: Ugra-tārā, Ekajaṭā, and Nīla-sarasvatī."
   },
   {
    "verse": 1415,
    "rows": [
     {
      "surface": "sa+caturthī",
-     "gloss": "with-fourth-ending",
-     "grounds": "indicates accompaniment by a fourth-form ending in mantra construction",
-     "morph": "compound: sa+caturthī; nom.sg.f"
+     "gloss": "with-fourth-form",
+     "grounds": "indicates accompaniment by the fourth inflectional form used in dedication",
+     "morph": "compound nom.sg.f"
     },
     {
      "surface": "praṇava+ādi",
      "gloss": "beginning-with-praṇava",
-     "grounds": "specifies the opening element of the mantra",
-     "morph": "compound: praṇava+ādi; nom.sg.m"
+     "grounds": "mantra structure starting with the praṇava (oṃ)",
+     "morph": "compound nom.sg.m"
     },
     {
      "surface": "namas+anta+kāḥ",
      "gloss": "ending-with-namas",
-     "grounds": "specifies the closing element of the mantra forms",
-     "morph": "compound: namas+anta+ka; nom.pl.m"
+     "grounds": "mantra structure concluding with namas; plural forms implied",
+     "morph": "compound nom.pl.m"
     }
    ],
-   "question": "How are the mantra forms structured with respect to their beginning and ending elements?",
+   "question": "What structural form must the mantras take in this ritual application?",
    "premises": [
-    "The mantra forms include a fourth ending.",
-    "The mantra forms begin with praṇava.",
-    "The mantra forms end with namas."
+    "The mantras include the fourth dedicatory form.",
+    "The mantras begin with praṇava.",
+    "The mantras end with namas."
    ],
-   "inference": "The mantra forms begin with praṇava, include a fourth ending, and conclude with namas.",
-   "uncertainties": [
-    "The exact referent of the fourth ending is not fully specified in this verse."
-   ],
-   "plain_english": "They begin with praṇava, include a fourth ending, and end with namas."
+   "inference": "The mantras are to be formed with the fourth dedicatory form, beginning with praṇava and ending with namas.",
+   "uncertainties": [],
+   "plain_english": "The mantras should have the fourth form, begin with the praṇava, and end with namas."
   },
   {
    "verse": 1416,
@@ -117,101 +115,103 @@
     {
      "surface": "svastika+ādi+krameṇa",
      "gloss": "in-svastika-etc-order",
-     "grounds": "instrumental indicating the prescribed sequence of postures",
-     "morph": "compound: svastika+ādi+krama; inst.sg.m"
+     "grounds": "instrumental indicating sequence, starting with the svastika posture or arrangement",
+     "morph": "compound inst.sg.m"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "locative adverb referring to the ritual context",
+     "grounds": "refers to the previously indicated place or context",
      "morph": "(indecl.)"
     },
     {
      "surface": "upaviśet",
      "gloss": "one-should-sit",
-     "grounds": "injunctive prescribing the posture",
-     "morph": "3.sg.opt.act √viś with upa"
+     "grounds": "injunctive instruction for ritual seating",
+     "morph": "3.sg.act.opt √viś+upa"
     }
    ],
-   "question": "In what prescribed order should one sit in that ritual context?",
+   "question": "In what prescribed order and place should the practitioner be seated?",
    "premises": [
-    "A ritual location or context is indicated.",
-    "A sequence beginning with svastika is specified.",
-    "Sitting is prescribed as the action."
+    "A specific order beginning with svastika is prescribed.",
+    "The location is indicated as there.",
+    "The action required is sitting."
    ],
-   "inference": "One should sit there following the order beginning with the svastika posture.",
-   "uncertainties": [],
-   "plain_english": "There one should sit in the order beginning with the svastika posture and so on."
+   "inference": "The practitioner should sit there in the order beginning with svastika.",
+   "uncertainties": [
+    "Whether svastika refers to a posture or a diagrammatic order is not explicit."
+   ],
+   "plain_english": "There, one should sit in the sequence beginning with the svastika."
   },
   {
    "verse": 1417,
    "rows": [
     {
      "surface": "bīja+likhanam",
-     "gloss": "seed-syllable-writing",
-     "grounds": "subject referring to the act of inscribing the seed syllable",
-     "morph": "compound: bīja+likhana; nom.sg.n"
+     "gloss": "seed-writing",
+     "grounds": "the act of inscribing the bīja syllable",
+     "morph": "compound nom.sg.n"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "particle marking continuation or contrast",
+     "grounds": "marks continuation or contrast with prior instruction",
      "morph": "(indecl.)"
     },
     {
      "surface": "pūrva+vat",
      "gloss": "as-before",
-     "grounds": "indicates conformity with prior instruction",
+     "grounds": "indicates the procedure follows the previously described manner",
      "morph": "(indecl.)"
     }
    ],
    "question": "How should the writing of the seed syllable be performed in this context?",
    "premises": [
-    "The act in question is writing the seed syllable.",
-    "A prior method has already been given.",
-    "The current instruction follows that prior method."
+    "The topic is the writing of the bīja.",
+    "The procedure is qualified by comparison to prior instruction.",
+    "It is to be done as before."
    ],
-   "inference": "The seed syllable should be written as before.",
+   "inference": "The writing of the bīja should be performed as described previously.",
    "uncertainties": [],
-   "plain_english": "But the writing of the seed syllable is to be done as before."
+   "plain_english": "But the writing of the seed syllable should be done as before."
   },
   {
    "verse": 1418,
    "rows": [
     {
      "surface": "nīla+tanoḥ",
-     "gloss": "of-blue-bodied-one",
-     "grounds": "genitive specifying the deity Nīla-sarasvatī",
-     "morph": "compound: nīla+tanu; gen.sg.f"
+     "gloss": "of-blue-bodied",
+     "grounds": "refers to the blue-bodied deity, likely Nīla-sarasvatī",
+     "morph": "compound gen.sg.f"
     },
     {
      "surface": "param",
      "gloss": "supreme",
-     "grounds": "qualifies the declared teaching as highest",
+     "grounds": "qualifies what is declared as highest or further",
      "morph": "acc.sg.n"
     },
     {
      "surface": "nigaditam",
      "gloss": "declared",
-     "grounds": "past participle indicating what has been taught",
-     "morph": "nom.sg.n past-passive-participle √gad with ni"
+     "grounds": "indicates authoritative statement",
+     "morph": "nom.sg.n past-passive-participle √gad+ni"
     },
     {
      "surface": "sarva+artha+siddhi+pradam",
-     "gloss": "granting-all-purpose-accomplishment",
-     "grounds": "describes the effect of the declared teaching",
-     "morph": "compound: sarva+artha+siddhi+prada; acc.sg.n"
+     "gloss": "all-purpose-accomplishment-giving",
+     "grounds": "describes the result as granting accomplishment of all aims",
+     "morph": "compound nom.sg.n"
     }
    ],
-   "question": "What supreme benefit is declared for the teaching of the blue-bodied goddess?",
+   "question": "What supreme benefit is declared for the practice of the blue-bodied goddess?",
    "premises": [
-    "A supreme teaching is declared.",
-    "The teaching pertains to the blue-bodied goddess.",
-    "The teaching grants accomplishment of all purposes."
+    "The subject is the blue-bodied goddess.",
+    "A supreme declaration is made concerning her.",
+    "The declared result is the granting of all-purpose accomplishment."
    ],
-   "inference": "The supreme teaching of the blue-bodied goddess grants accomplishment of all purposes.",
+   "inference": "The supreme practice of the blue-bodied goddess is declared to grant accomplishment of all aims.",
    "uncertainties": [],
-   "plain_english": "The supreme teaching of the blue-bodied goddess has been declared as granting the accomplishment of all purposes."
+   "plain_english": "The supreme teaching concerning the blue-bodied goddess is declared to grant the accomplishment of all purposes."
   },
   {
    "verse": 1419,
@@ -219,31 +219,31 @@
     {
      "surface": "sarvatra",
      "gloss": "everywhere",
-     "grounds": "indicates universal applicability of the worship",
+     "grounds": "indicates universal applicability of the instruction",
      "morph": "(indecl.)"
     },
     {
      "surface": "praṇava+ādi+namas+antena",
      "gloss": "with-praṇava-beginning-namas-ending",
-     "grounds": "instrumental specifying the mantra form used in worship",
-     "morph": "compound: praṇava+ādi+namas+anta; inst.sg.m"
+     "grounds": "instrumental specifying mantra form beginning with praṇava and ending with namas",
+     "morph": "compound inst.sg.m"
     },
     {
      "surface": "pūjayet",
      "gloss": "one-should-worship",
-     "grounds": "injunctive prescribing the act of worship",
-     "morph": "3.sg.opt.act √pūj"
+     "grounds": "injunctive instruction for ritual worship",
+     "morph": "3.sg.act.opt √pūj"
     }
    ],
-   "question": "With what mantra form should worship be performed in all contexts?",
+   "question": "What universal mantra form should be used when performing worship in all contexts?",
    "premises": [
-    "Worship is prescribed in all contexts.",
+    "The instruction applies everywhere.",
     "The mantra form begins with praṇava.",
     "The mantra form ends with namas."
    ],
-   "inference": "One should worship everywhere using the form beginning with praṇava and ending with namas.",
+   "inference": "In all contexts, worship should be performed using a mantra beginning with praṇava and ending with namas.",
    "uncertainties": [],
-   "plain_english": "One should worship everywhere with the form beginning with praṇava and ending with namas."
+   "plain_english": "Everywhere, one should worship using a form that begins with the praṇava and ends with namas."
   },
   {
    "verse": 1420,
@@ -251,25 +251,25 @@
     {
      "surface": "tat+madhye",
      "gloss": "in-its-middle",
-     "grounds": "locative indicating the central position",
-     "morph": "compound: tad+madhya; loc.sg.n"
+     "grounds": "locative indicating the central position within that context",
+     "morph": "compound loc.sg.n"
     },
     {
      "surface": "pūjayet",
      "gloss": "one-should-worship",
-     "grounds": "injunctive prescribing worship",
-     "morph": "3.sg.opt.act √pūj"
+     "grounds": "injunctive instruction for ritual worship",
+     "morph": "3.sg.act.opt √pūj"
     },
     {
      "surface": "devyāḥ",
-     "gloss": "of-the-goddess",
+     "gloss": "of-goddess",
      "grounds": "genitive specifying whose vehicle is worshipped",
      "morph": "gen.sg.f"
     },
     {
      "surface": "vāhanam",
      "gloss": "vehicle",
-     "grounds": "object of worship",
+     "grounds": "the mount or carrier of the goddess",
      "morph": "acc.sg.n"
     },
     {
@@ -281,7 +281,7 @@
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "emphasizes the identification",
      "morph": "(indecl.)"
     },
     {
@@ -291,15 +291,15 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What vehicle of the goddess should be worshipped in the middle of that arrangement?",
+   "question": "What specific vehicle of the goddess must be worshipped in the middle of that space?",
    "premises": [
-    "Worship is prescribed in the middle of that arrangement.",
+    "Worship is to be performed in the middle of that space.",
     "The object of worship is the goddess's vehicle.",
-    "That vehicle is identified as a corpse."
+    "The vehicle is identified as a corpse."
    ],
-   "inference": "One should worship the goddess's vehicle, a corpse, in the middle.",
+   "inference": "In the middle of that space, one should worship the goddess's vehicle, which is indeed a corpse.",
    "uncertainties": [],
-   "plain_english": "In its middle one should worship the goddess's vehicle, which is indeed a corpse."
+   "plain_english": "In its middle, one should worship the goddess's vehicle, which is indeed a corpse."
   },
   {
    "verse": 1421,
@@ -307,43 +307,43 @@
     {
      "surface": "dhyātvā",
      "gloss": "having-meditated",
-     "grounds": "absolutive indicating prior meditative act",
+     "grounds": "prior contemplative act leading to the next instruction",
      "morph": "absolutive √dhyai"
     },
     {
      "surface": "tat+upari",
      "gloss": "upon-that",
-     "grounds": "locative phrase indicating position above the corpse",
-     "morph": "compound: tad+upari; (indecl.)"
+     "grounds": "locative indicating position above the previously mentioned object",
+     "morph": "compound (indecl.)"
     },
     {
      "surface": "hūṃkāra+bhūṣitām",
      "gloss": "adorned-with-hūṃ-syllable",
-     "grounds": "describes the knife as marked by the syllable hūṃ",
-     "morph": "compound: hūṃkāra+bhūṣita; acc.sg.f"
+     "grounds": "describes the knife as marked or empowered by the bīja hūṃ",
+     "morph": "compound acc.sg.f"
     },
     {
      "surface": "kartṛkām",
      "gloss": "knife",
-     "grounds": "object to be visualized",
+     "grounds": "ritual knife or chopper held by the deity",
      "morph": "acc.sg.f"
     },
     {
      "surface": "dhyāyet",
      "gloss": "one-should-meditate",
-     "grounds": "injunctive prescribing visualization",
-     "morph": "3.sg.opt.act √dhyai"
+     "grounds": "injunctive instruction for visualization",
+     "morph": "3.sg.act.opt √dhyai"
     }
    ],
-   "question": "What object adorned with the syllable hūṃ should be visualized upon that vehicle?",
+   "question": "What object adorned with the hūṃ syllable should be visualized upon that support?",
    "premises": [
-    "Meditation is prescribed upon that vehicle.",
-    "The object to be visualized is a knife.",
-    "The knife is adorned with the syllable hūṃ."
+    "Meditation is performed after a prior visualization.",
+    "The location is upon that previously mentioned support.",
+    "The object is a knife adorned with the hūṃ syllable."
    ],
-   "inference": "One should meditate upon a knife adorned with the syllable hūṃ placed upon that vehicle.",
+   "inference": "Having meditated, one should visualize upon that a knife adorned with the hūṃ syllable.",
    "uncertainties": [],
-   "plain_english": "Having meditated, one should visualize upon it a knife adorned with the syllable hūṃ."
+   "plain_english": "Having meditated, one should visualize upon that a knife adorned with the hūṃ syllable."
   },
   {
    "verse": 1422,
@@ -351,23 +351,23 @@
     {
      "surface": "dhārayantī",
      "gloss": "holding",
-     "grounds": "present participle describing the goddess holding the knife",
+     "grounds": "describes the deity as bearing or holding the object",
      "morph": "nom.sg.f pres.act.participle √dhṛ"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "marker closing the visualization description",
+     "grounds": "concludes or marks the described visualization",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How is the goddess described in relation to the visualized knife?",
+   "question": "How is the goddess characterized in relation to the visualized knife?",
    "premises": [
-    "A knife has been visualized.",
-    "The goddess is described in that visualization.",
-    "She is described as holding it."
+    "The goddess is described in an active state.",
+    "Her action is holding.",
+    "This concludes the visualization description."
    ],
-   "inference": "The goddess is to be visualized as holding the knife.",
+   "inference": "The goddess is thus visualized as holding the knife.",
    "uncertainties": [],
    "plain_english": "Thus, she is holding it."
   },
@@ -377,31 +377,31 @@
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "marker concluding the preceding instruction",
+     "grounds": "marks the completion of the described procedure",
      "morph": "(indecl.)"
     },
     {
      "surface": "prāṇa+āyāma+trayam",
-     "gloss": "breath-control-threefold",
-     "grounds": "subject referring to three breath controls",
-     "morph": "compound: prāṇa+āyāma+traya; nom.sg.n"
+     "gloss": "breath-control-three",
+     "grounds": "a set of three breath-control practices",
+     "morph": "compound nom.sg.n"
     },
     {
      "surface": "bhavati",
      "gloss": "occurs",
-     "grounds": "main verb stating completion or occurrence",
-     "morph": "3.sg.pres.act √bhū"
+     "grounds": "states the resulting or constituted practice",
+     "morph": "3.sg.act.pres √bhū"
     }
    ],
-   "question": "What breath practice is completed according to the preceding instruction?",
+   "question": "What breath-control practice is constituted by the procedure described thus far?",
    "premises": [
-    "The preceding instruction is concluded.",
-    "A threefold breath control is mentioned.",
-    "This threefold practice occurs or is completed."
+    "The procedure is concluded with thus.",
+    "The practice named is a triad of breath-control.",
+    "This triad comes into being or is performed."
    ],
-   "inference": "Thus the threefold breath control is completed.",
+   "inference": "Thus, the threefold breath-control is accomplished.",
    "uncertainties": [],
-   "plain_english": "Thus the threefold breath control takes place."
+   "plain_english": "Thus, the threefold breath-control takes place."
   },
   {
    "verse": 1424,
@@ -409,43 +409,43 @@
     {
      "surface": "hūṃ",
      "gloss": "hūṃ",
-     "grounds": "bīja syllable identified as the seed",
+     "grounds": "bīja syllable, transliterated as mantra element",
      "morph": "(indecl.)"
     },
     {
      "surface": "bījam",
-     "gloss": "seed-syllable",
-     "grounds": "predicate identifying hūṃ as the seed",
+     "gloss": "seed",
+     "grounds": "identifies hūṃ as the seed syllable",
      "morph": "nom.sg.n"
     },
     {
      "surface": "mantra+śaktiḥ",
      "gloss": "mantra-power",
-     "grounds": "subject described as the power of the mantra",
-     "morph": "compound: mantra+śakti; nom.sg.f"
+     "grounds": "the power or potency inherent in the mantra",
+     "morph": "compound nom.sg.f"
     },
     {
      "surface": "syāt",
      "gloss": "should-be",
-     "grounds": "optative prescribing identification or function",
-     "morph": "3.sg.opt.act √as"
+     "grounds": "prescriptive statement of identity or function",
+     "morph": "3.sg.act.opt √as"
     },
     {
      "surface": "catur+varga+phala+pradā",
-     "gloss": "granting-four-goals-fruit",
-     "grounds": "describes the mantra power as yielding the four aims",
-     "morph": "compound: catur+varga+phala+prada; nom.sg.f"
+     "gloss": "four-goals-fruit-giving",
+     "grounds": "grants the fruits of the four aims of human life",
+     "morph": "compound nom.sg.f"
     }
    ],
-   "question": "What power and fruit are attributed to the seed syllable hūṃ in this mantra?",
+   "question": "What power and fruit are attributed to the hūṃ seed mantra in this teaching?",
    "premises": [
-    "The syllable hūṃ is identified as the seed.",
-    "It functions as the power of the mantra.",
-    "This power grants the fruit of the four goals."
+    "hūṃ is identified as the bīja.",
+    "It is characterized as mantra-power.",
+    "It is said to grant the fruit of the four goals."
    ],
-   "inference": "The seed syllable hūṃ is the mantra's power and grants the fruit of the four goals.",
+   "inference": "The hūṃ bīja is the mantra-power that grants the fruits of the four goals.",
    "uncertainties": [],
-   "plain_english": "The syllable hūṃ is the seed; it should be the power of the mantra, granting the fruit of the four goals."
+   "plain_english": "The seed syllable hūṃ should be the mantra-power that grants the fruits of the four aims of life."
   }
  ]
 }
