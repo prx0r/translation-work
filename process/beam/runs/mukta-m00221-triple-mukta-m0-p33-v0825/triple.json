@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "pāvanaṃ",
+     "gloss": "purifying",
+     "grounds": "purifying; neuter accusative singular adjective",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "devatāśastraiḥ",
+     "gloss": "by-divine-weapons",
+     "grounds": "by divine weapons; instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "prāptiḥ",
+     "gloss": "attainment",
+     "grounds": "attainment; feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lokottamasya",
+     "gloss": "of-supreme-world",
+     "grounds": "of the supreme world; genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and; indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does death by divine weapons secure purification and attainment of the supreme world?",
+   "premises": [
+    "Divine weapons slay enemies.",
+    "Slain enemies attain purification.",
+    "Slain enemies attain supreme world."
+   ],
+   "inference": "Death by divine weapons yields purification and supreme-world attainment.",
+   "uncertainties": [
+    "Exact syntactic relation of pāvanaṃ to prāptiḥ remains unresolved."
+   ],
+   "plain_english": "Purification by divine weapons, and attainment of the supreme world."
+  }
+ ]
+}

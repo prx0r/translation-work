@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p511-v12751
-[pure](śuddha) [crystal+resembling](sphaṭika+saṅkāśaḥ) [to-be-meditated](dhyeyaḥ) [fierce](ugraḥ) [by-those-desiring-liberation](mumukṣubhiḥ)
+[pure-crystal-like](śuddhasphaṭikasaṅkāśo) [meditable](dhyeya) [fierce](ugro) [by-liberation-seekers](mumukṣubhiḥ)
 
 ## mukta-m0-p511-v12752
-[wind+circle+middle+standing](vāyu+maṇḍala+madhya+sthaṃ) [mantra](mantraṃ) [black](kṛṣṇaṃ) [one-should-visualize](vicintayet)
+[wind-circle-middle-situated](vāyumaṇḍalamadhyasthaṃ) [mantra](mantraṃ) [black](kṛṣṇaṃ) [should-contemplate](vicintayet)
 
 ## mukta-m0-p511-v12753
-[in-belly](kukṣau) [colic](śūlaṃ) [in-mouth](mukhe) [vomiting](chardiṃ) [one-should-cause](kuryyāt) [wind](vāyuṃ) [and](ca) [in-vital-spots](marmmasu)
+[in-belly](kukṣau) [pain](śūlaṃ) [in-mouth](mukhe) [vomiting](chardiṃ) [should-do](kuryyāt) [wind](vāyuṃ) [and](ca) [in-vital-points](marmmasu)
 
 ## mukta-m0-p511-v12754
-[moon+circle+middle+standing](candra+maṇḍala+madhya+sthaṃ) [with-vowels](svaraiḥ) [with-sixteen](ṣoḍaśabhiḥ) [joined](yutam)
+[moon-circle-middle-situated](candramaṇḍalamadhyasthaṃ) [with-vowels](svaraiḥ) [sixteen](ṣoḍaśabhiḥ) [joined](yutam)
 
 ## mukta-m0-p511-v12755
-[blood+flow](rakta+srāvaṃ) [of-emaciated-bodied-women](kṛśāṅgīnāṃ) [in-womb](yonau) [meditation](dhyānaṃ) [removes](haret) [in-an-instant](kṣaṇāt)
+[blood-flow](raktasrāvaṃ) [of-thin-limbed-women](kṛśāṅgīnāṃ) [in-yoni](yonau) [meditation](dhyānaṃ) [removes-instantly](haretkṣaṇāt)
 
 ## mukta-m0-p511-v12756
-[one-should-remember](smaret) [diagram](yantraṃ) [arm+gone](bāhu+gataṃ) [there](tatra) [for-that+defect+pacification](tat+doṣa+śāntaye)
+[should-remember-device](smaredyantraṃ) [arm-situated](bāhugataṃ) [there](tatra) [for-that-fault-pacification](taddoṣaśāntaye)
 
 ## mukta-m0-p511-v12757
-[wicked+woman+heart+lotus](duṣṭa+aṅganā+hṛd+ambhoje) [situated](sthitaṃ) [mantra](mantraṃ) [having-visualized](vicintya) [and](ca)
+[in-wicked-woman-heart-lotus](duṣṭāṅganāhṛdambhoje) [situated](sthitaṃ) [mantra](mantraṃ) [contemplating](vicintya) [and](ca)
 
 ## mukta-m0-p511-v12758
-[one-should-subjugate](vaśayet) [at-that+moment](tat+kṣaṇāt) [woman](yoṣāṃ) [one-should-cause-to-flow](srāvayet) [semen](śukram) [indeed](eva) [and](ca)
+[subjugates-instantly](vaśayettatkṣaṇāt) [woman](yoṣāṃ) [causes-flow](srāvayet) [semen](śukram) [indeed](eva) [and](ca)
 
 ## mukta-m0-p511-v12759
-[one-should-insert](praveśayet) [vagina+middle](yoni+madhye) [from-that+contact](tat+saṃsargāt) [and](ca) [she](sā) [subjugated](vaśā)
+[should-insert](praveśayet) [in-yoni-middle](yonimadhye) [by-contact-with-that](tatsaṃsargāt) [and](ca) [she](sā) [subjugated](vaśā)
 
 ## mukta-m0-p511-v12760
-[of-that+makāra](tat+makārasya) [in-repha](rephe) [but](tu) [target+name](sādhya+ākhyāṃ) [with-rite+joined](karmma+saṃyutām)
+[of-that-ma-syllable](tanmakārasya) [in-repha](rephe) [tu](tu) [target-named](sādhyākhyāṃ) [action-joined](karmmasaṃyutām)
 
 ## mukta-m0-p511-v12761
-[six+corner+one](ṣaṭ+koṇa+ekaṃ) [having-enclosed](samāveṣṭya) [in-six+corner](ṣaṭ+koṇe) [but](tu) [one-should-perform](samācaret)
+[one-hexagon](ṣaṭkoṇaikaṃ) [surrounding](samāveṣṭya) [in-hexagon](ṣaṭkoṇe) [tu](tu) [should-perform](samācaret)
 
 ## mukta-m0-p511-v12762
-[life+installation](prāṇa+pratiṣṭhā) [having-done](kṛtvā) [of-this](asya) [hearth+below](cully+adhaḥ) [one-should-bury](nikhanet) [then](tataḥ)
+[life-installation](prāṇapratiṣṭhā) [having-done](kṛtvā) [of-it](asya) [under-stove](cullyadho) [should-bury](nikhanet) [then](tataḥ)
 
 ## mukta-m0-p511-v12763
-[husband](patiḥ) [of-beloved](priyāyāḥ) [does](kurute) [her+command](tat+ājñāṃ) [like-servant](dāsa+vat) [always](sadā)
+[husband](patiḥ) [of-beloved](priyāyāḥ) [does](kurute) [that-command](tadājñāṃ) [like-servant](dāsavat) [always](sadā)
 
 ## mukta-m0-p511-v12764
-[with-tips-of-feet](prapadābhyāṃ) [and](ca) [with-shanks](jaṃghābhyāṃ) [with-knees](jānubhyām) [from-thigh+pair](ūru+yugmataḥ)
+[with-forefeet](prapadābhyāṃ) [and](ca) [with-calves](jaṃghābhyāṃ) [with-knees](jānubhyām) [with-thigh-pair](ūruyugmataḥ)
 
 ## mukta-m0-p511-v12765
-[thus](evaṃ) [in-twelve+ways](dvādaśadhā) [having-cut](chittvā) [with-sharp+weapon](tīkṣṇa+śastreṇa) [one-should-offer](saṃhunet)
+[thus](evaṃ) [twelve-fold](dvādaśadhā) [cutting](chittvā) [with-sharp-weapon](tīkṣṇaśastreṇa) [should-offer](saṃhunet)
 
 ## mukta-m0-p511-v12766
-[vakāra+middle+target+name](vakāra+madhya+sādhya+ākhyāṃ) [having-written](likhitvā) [in-mantra+middle](manu+madhyataḥ)
+[v-syllable-middle-target-named](vakāramadhyasādhyākhyāṃ) [having-written](likhitvā) [in-mantra-middle](manumadhyataḥ)
 
 ## mukta-m0-p511-v12767
-[one-should-write](likhet) [of-that](tasya) [in-four+corner](catuṣ+koṇe) [ṭhakāra](ṭhakāraṃ) [with-bindu+adorned](bindu+bhūṣitam)
+[should-write](likhet) [of-it](tasya) [in-square](catuṣkoṇe) [tha-syllable](ṭhakāraṃ) [dot-adorned](bindubhūṣitam)
 
 ## mukta-m0-p511-v12768
-[with-eight+above+thousand](aṣṭa+uttara+sahasreṇa) [head+diseased](śiraḥ+rogī) [one-should-consume](prabhakṣayet)
+[with-one-thousand-eight](aṣṭottarasahasreṇa) [head-diseased](śirorogī) [should-devour](prabhakṣayet)
 
 ## mukta-m0-p511-v12769
-[with-repha](sa+repheṇa) [with-kakāra](kakāreṇa) [on-neck](kaṇṭhe) [of-target](sādhyasya) [one-should-bind](bandhayet)
+[with-repha](sarepheṇa) [with-ka](kakāreṇa) [in-throat](kaṇṭhe) [of-target](sādhyasya) [should-bind](bandhayet)
 
 ## mukta-m0-p511-v12770
-[right+shoulder](dakṣa+aṃsaṃ) [by-repha](rephataḥ) [left](vāmaṃ) [likewise](tathaiva) [and](ca) [by-vakāra](vakārataḥ)
+[right-shoulder](dakṣāṃsaṃ) [from-repha](rephato) [left](vāmaṃ) [likewise](tathaiva) [and](ca) [from-va](vakārataḥ)
 
 ## mukta-m0-p511-v12771
-[until-death](maraṇa+antaṃ) [he](saḥ) [subjugated](vaśyaḥ) [would-be](syāt) [quickly](acirāt) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[until-death](maraṇāntaṃ) [he](sa) [subjugated](vaśyassyāt) [soon](acirāt) [no](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p511-v12772
-[with-that+flower](tat+puṣpeṇa) [and](ca) [that+seed](tat+bījaṃ) [with-sandal+aloewood+saffron](candana+aguru+kuṃkumaiḥ)
+[with-that-flower](tatpuṣpeṇa) [and](ca) [that-seed](tadbījaṃ) [with-sandal-aloes-saffron](candanāgurukuṃkumaiḥ)
 
 ## mukta-m0-p511-v12773
-[eight+above+hundred](aṣṭa+uttara+śataṃ) [of-that](tasya) [oblation-offering](sampātaṃ) [one-should-cause-to-fall](pātayet) [then](tataḥ)
+[one-hundred-eight](aṣṭottaraśataṃ) [of-it](tasya) [descent](sampātaṃ) [should-cause-fall](pātayet) [then](tataḥ)
 
 ## mukta-m0-p511-v12774
-[with-eight+above+thousand](aṣṭa+uttara+sahasreṇa) [that](taṃ) [in-hand](kare) [one-should-hold](dhārayet) [king](nṛpaḥ)
+[with-one-thousand-eight](aṣṭottarasahasreṇa) [him](taṃ) [in-hand](kare) [should-hold](dhārayet) [king](nṛpaḥ)
 
 ## mukta-m0-p511-v12775
-[by-poison+vetāla+spirit+etc.+calamities](viṣa+vetāla+bhūta+ādi+duritaiḥ) [is-afflicted](bādhyate) [not](na) [and](ca)
+[by-poison-vetala-bhuta-etc-evils](viṣavetālabhūtādiduritaiḥ) [is-afflicted](bādhyate) [not](na) [and](ca)

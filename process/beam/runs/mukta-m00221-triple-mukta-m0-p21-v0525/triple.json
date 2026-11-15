@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "dadau",
+     "gloss": "gave",
+     "grounds": "perfect of dā, he gave",
+     "morph": "3.sg.act-perf + root dā"
+    },
+    {
+     "surface": "samīpasaṃsthānaṃ",
+     "gloss": "near-position",
+     "grounds": "compound samīpa + saṃsthāna, accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "binducakropari",
+     "gloss": "bindu-circle-above",
+     "grounds": "compound bindu + cakra + upari, above the bindu circle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of krama, in order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the five goddesses positioned relative to the bindu circle in the śrīcakra?",
+   "premises": [
+    "five goddesses were named in the preceding context",
+    "positions are given near above the bindu circle",
+    "the assignment proceeds in order"
+   ],
+   "inference": "the five goddesses occupy ordered stations near above the bindu circle",
+   "uncertainties": [
+    "the exact referent of 'he' and the recipients are not explicit in this verse",
+    "whether 'near' modifies the position or proximity to the bindu circle"
+   ],
+   "plain_english": "He gave them positions near, above the bindu circle, in order."
+  }
+ ]
+}

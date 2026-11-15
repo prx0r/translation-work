@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p487-v12151
-ghee-smeared(ājyāktābhiḥ) and(ca) with-dūrvā-grass(dūrvābhiḥ) from-oblation(homāt) long-life(dīrgha+āyuḥ) one-may-obtain(āpnuyāt)
+[ghee-anointed](ājyāktābhiśca) [with-dūrvā-grass](dūrvābhir) [from-homa](homāt) [long-life](dīrghāyuḥ) [obtains](āpnuyāt)
 
 ## mukta-m0-p487-v12152
-garment-desiring(vastra+arthī) with-white-lotuses(śveta+kumudaiḥ) ghee-smeared(ājyāktaiḥ) should-offer(juhuyāt) person(naraḥ)
+[desiring-clothes](vastrārthī) [with-white-kumuda](śvetakumudaiḥ) [ghee-anointed](ājyāktaiḥ) [offers](juhuyāt) [man](naraḥ)
 
 ## mukta-m0-p487-v12153
-from-udumbara-wood-oblation(audumbara+samid+homāt) son-obtainment(putra+lābhaḥ) would-be(bhavet) certainly(dhruvam)
+[from-audumbara-fuel-homa](audumbarasamiddhomāt) [son-gain](putralābhaḥ) [becomes](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p487-v12154
-with-excellent-fuel-sticks(samid+varaiḥ) for-great-disease-liberation(mahā+roga+muktaye) this(iyaṃ) procedure(vidhiḥ) is-remembered(smṛtaḥ)
+[with-various-fuels](samidvaraiḥ) [great-disease-release](mahārogamuktaye) [this](iyam) [rite](vidhiḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p487-v12155
-even-one(ekaḥ+api) unconquerable(durjayaḥ) in-battle(yuddhe) becomes(bhavati) indeed(eva) no(na) doubt(saṃśayaḥ)
+[even-one](ekopi) [invincible](durjayaḥ) [in-battle](yuddhe) [becomes](bhavati) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p487-v12156
-it-would-be(bhavet) in-thirty-days(triṃśat+dinaiḥ) and(ca) then(atha) obtains(prāpnoti) death(maraṇaṃ) certainly(dhruvam)
+[becomes](bhavet) [in-thirty-days](triṃśaddinaiḥ) [ca](ca) [then](atha) [obtains](prāpnoti) [death](maraṇam) [certainly](dhruvam)
 
 ## mukta-m0-p487-v12157
-one-should-remember(saṃsmaret) of-whom(yasya) on-head(śīrṣe) indeed(tu) of-him(tasya) eradication(uccāṭaḥ) in-ten-days(daśa+ahataḥ)
+[remembers](saṃsmaret) [whose](yasya) [on-head](śīrṣe) [indeed](tu) [his](tasya) [uccāṭa](uccāṭaḥ) [in-ten-days](daśāhataḥ)
 
 ## mukta-m0-p487-v12158
-on-head(mūrdhni) one-should-remember(smaret) and(ca) in-seven-days(sapta+ahāt) eradication(uccāṭaḥ) or(vā) death(mṛtiḥ) would-be(bhavet)
+[on-crown](mūrdhni) [remembers](smaret) [ca](ca) [in-seven-days](saptāhāt) [uccāṭa](uccāṭaḥ) [or](vā) [death](mṛtiḥ) [becomes](bhavet)
 
 ## mukta-m0-p487-v12159
-the-syllable-sa(sa+kāraṃ) one-should-remember(saṃsmaret) on-head(mūrdhni) he(saḥ) would-live(jīvet) for-a-hundred-autumns(śaradāṃ) hundred(śatam)
+[with-sa](sakāram) [remembers](saṃsmaret) [on-crown](mūrdhni) [he](sa) [lives](jīvet) [autumns](śaradām) [hundred](śatam)
 
 ## mukta-m0-p487-v12160
-in-the-pericarp(karṇikāyāṃ) likewise(tathā) ṭha(ṭhaṃ) and(ca) remaining-mantra-syllables(śeṣa+mantra+arṇakaṃ) likewise(tathā)
+[in-pericarp](karṇikāyām) [thus](tathā) [ṭhaṃ](ṭhaṃ) [and](ca) [remaining-mantra-syllables](śeṣamantrārṇakam) [thus](tathā)
 
 ## mukta-m0-p487-v12161
-calamity-averting(āpad+nivāraṇaṃ) diagram(yantraṃ) ghost-spirit-fear-removing(bhūta+preta+bhaya+apaham)
+[calamity-averting](āpannivāraṇam) [yantra](yantram) [ghost-preta-fear-removing](bhūtapretabhayāpaham)
 
 ## mukta-m0-p487-v12162
-oṃ(tāraḥ) [oṃ namo bhagavate mahāsudarśanāya huṃ phaṭ ||](oṃ namo bhagavate mahāsudarśanāya huṃ phaṭ ||) obeisance(namaḥ) to-the-lord(bhagavate) mahāsudarśana(mahāsudarśanaṃ) one-should-say(vadet)
+[tāra](tāraḥ) [oṃ namo bhagavate mahāsudarśanāya huṃ phaṭ ||] [namo](namo) [bhagavate](bhagavate) [mahāsudarśanam](mahāsudarśanam) [says](vadet)
 
 ## mukta-m0-p487-v12163
-likewise(tathā) installation(nyāsaḥ) and(ca) in-worship(pūjāyāṃ) all-protection-making(sarva+rakṣā+karaḥ) of-the-mantra(manoḥ)
+[thus](tathā) [nyāsa](nyāsaḥ) [ca](ca) [in-worship](pūjāyām) [all](sarva) [protection-doing](rakṣākaraḥ) [mantra](manoḥ)
 
 ## mukta-m0-p487-v12164
-twenty-four-hundred(caturviṃśat+śatāni) thus(iti) sesame-seeds(tilān) and(ca) also(api) with-mustard-seeds(sa+sarṣapān)
+[twenty-four-hundreds](caturviṃśacchatāni) [thus](iti) [sesame](tilān) [ca](ca) [api](api) [with-mustard](sasarṣapān)
 
 ## mukta-m0-p487-v12165
-through-appropriate-recitation-and-meditation(anurūpa+japa+dhyānāt) this-mantra(mantraḥ+ayaṃ) desired-object-granting(vāñchita+pradaḥ)
+[according-to-japa-meditation](anurūpajapadhyānāt) [mantra](mantraḥ) [this](ayam) [desire-giving](vāñchitapradaḥ)
 
 ## mukta-m0-p487-v12166
-each-one(eka+ekaṃ) one-should-write-well(su+likhet) syllable(varṇaṃ) outside(bahiḥ) earth-square-enclosure(bhū+pura+veṣṭanam)
+[one-by-one](ekaikam) [well-draw](sulikhet) [letter](varṇam) [outer-bhūpura-enclosure](bahirbhūpuraveṣṭanam)
 
 ## mukta-m0-p487-v12167
-madness-seizure-spirits-and-others(unmāda+graha+bhūta+ādīn) and(ca) sorceries(abhicārān) it-destroys(nāśayet)
+[madness-graha-bhūta-etc](unmādagrahabhūtādīn) [abhicāra](abhicārān) [ca](ca) [destroys](nāśayet)
 
 ## mukta-m0-p487-v12168
-oṃ(tāraḥ) obeisance(namaḥ) [namo bhagavate mahāsudarśanāya mahācakrāya mahājvālāya dīptarūpāya sarvanātha rakṣarakṣa māmahābalāya svāhā huṃ phaṭ ||](namo bhagavate mahāsudarśanāya mahācakrāya mahājvālāya dīptarūpāya sarvanātha rakṣarakṣa māmahābalāya svāhā huṃ phaṭ ||) to-the-lord(bhagavate) great-first-three-words(mahā+pūrva+pada+trayam)
+[tāra](tāraḥ) [namo](namo) [namo bhagavate mahāsudarśanāya mahācakrāya mahājvālāya dīptarūpāya sarvanātha rakṣarakṣa māmahābalāya svāhā huṃ phaṭ ||] [bhagavate](bhagavate) [mahā-first-three-words](mahāpūrvapadatrayam)
 
 ## mukta-m0-p487-v12169
-of-radiant-form(dīpta+rūpaṃ) lord-of-all(sarva+nātha) protect-twice(rakṣa+yugmaṃ) and(ca) me(māṃ) great(mahā)
+[radiant-form](dīptarūpam) [all-lord](sarvanātha) [protection-pair](rakṣayugmam) [ca](ca) [me](mām) [mahā](mahā)
 
 ## mukta-m0-p487-v12170
-meditation-worship-and-so-forth(dhyāna+pūjā+ādikaṃ) as-before(prāk+vat) recitation(japaḥ) thousand-syllables(varṇa+sahasrakam)
+[meditation-worship-etc](dhyānapūjādikam) [as-before](prāgvat) [japa](japaḥ) [thousand-syllables](varṇasahasrakam)
 
 ## mukta-m0-p487-v12171
-oṃ-klīṃ-sudarśana-great-wheel-king(oṃ+klīṃ+sudarśana+mahā+cakra+rāja) [oṃ klīṃ sudarśana mahācakrarāja dahadaha sarvaduṣṭabhayaṃ kurukuru chindhichindhi bhindibhindi vidārayavidāraya paramantrān grasagrasa bhakṣayabhakṣaya bhūtāni trāsayatrāsaya huṃphaṭ svāhā cakrāya namaḥ || iti mantraḥ ||](oṃ klīṃ sudarśana mahācakrarāja dahadaha sarvaduṣṭabhayaṃ kurukuru chindhichindhi bhindibhindi vidārayavidāraya paramantrān grasagrasa bhakṣayabhakṣaya bhūtāni trāsayatrāsaya huṃphaṭ svāhā cakrāya namaḥ || iti mantraḥ ||) burn-twice(daha+dvayam)
+[oṃklīṃ](oṃklīṃ) [sudarśana-mahā-cakra-rāja](sudarśanamahācakrarāja) [oṃ klīṃ sudarśana mahācakrarāja dahadaha sarvaduṣṭabhayaṃ kurukuru chindhichindhi bhindibhindi vidārayavidāraya paramantrān grasagrasa bhakṣayabhakṣaya bhūtāni trāsayatrāsaya huṃphaṭ svāhā cakrāya namaḥ || iti mantraḥ ||] [daha-twice](dahadvayam)
 
 ## mukta-m0-p487-v12172
-tear-twice(vidāraya+dvayaṃ) having-said(procya) enemy-mantras(paramantrān) devour-twice(grasa+dvayam)
+[vidāraya-twice](vidārayadvayam) [having-uttered](procya) [enemy-mantras](paramantrān) [grasa-twice](grasadvayam)
 
 ## mukta-m0-p487-v12173
-huṃ-phaṭ-svāhā-thus(huṃ+phaṭ+svāhā+iti) to-the-wheel(cakrāya) obeisance(namaḥ) four-followed-by-syllable(veda+anuga+akṣaraḥ)
+[huṃphaṭ](huṃphaṭ) [svāhā](svāhā) [iti](iti) [to-cakra](cakrāya) [namo](namo) [veda-following-syllable](vedanugākṣaraḥ)
 
 ## mukta-m0-p487-v12174
-meditation-worship-and-so-forth(dhyāna+pūjā+ādikaṃ) all(sarvaṃ) to-be-known(jñeyam) of-this(asya) like-the-six-syllable(ṣaḍ+arṇa+vat)
+[meditation-worship-etc](dhyānapūjādikam) [all](sarvam) [to-be-known](jñeyam) [of-this](asya) [like-six-syllables](ṣaḍarṇavat)
 
 ## mukta-m0-p487-v12175
-having-recited(japtvā) first(ādau) eight-thousand(aṣṭa+sāhasraṃ) to-battle(raṇe) one-should-go(gacchet) quickly(drutaṃ) victorious(jayī)
+[having-japed-first](japtvādau) [ca](ca) [eight-thousand](aṣṭasāhasram) [to-battle](raṇe) [goes](gacchet) [quickly](drutam) [victorious](jayī)

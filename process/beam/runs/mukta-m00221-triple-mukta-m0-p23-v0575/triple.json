@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter singular pronoun referring to the previously named manifested stream",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "saṃśrayāḥ",
+     "gloss": "taking-refuge",
+     "grounds": "masculine plural nominative, those who depend on or resort to",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mānavāḥ",
+     "gloss": "men",
+     "grounds": "masculine plural nominative human beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "third person plural optative of as, to be",
+     "morph": "3.pl.act-opt (as)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "indeclinable causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "feminine plural nominative pronoun referring to the gurus",
+     "morph": "pron.nom.pl.f"
+    },
+    {
+     "surface": "vasu",
+     "gloss": "eight",
+     "grounds": "numeral vasu, the eight Vasus, used as number",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "saṃkhyakāḥ",
+     "gloss": "numbered",
+     "grounds": "feminine plural nominative adjective, having a count",
+     "morph": "f.nom.pl (adj)"
+    }
+   ],
+   "question": "How many gurus manifested by Īśa are depended upon by men?",
+   "premises": [
+    "men depend on that manifested stream",
+    "therefore those gurus are counted",
+    "the count given is eight"
+   ],
+   "inference": "The verse states that the Īśa-manifested siddha-stream gurus depended upon by men are eight in number.",
+   "uncertainties": [
+    "the exact antecedent of tāḥ is not fully explicit",
+    "vasu is read here as the numeral eight"
+   ],
+   "plain_english": "Men would depend on that; therefore those are eight in number."
+  }
+ ]
+}

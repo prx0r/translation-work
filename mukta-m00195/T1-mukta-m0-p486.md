@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p486-v12126
-[pot+upon](kumbha+upari) [having-placed+then](nidhāya+atha) [the-person-to-be-treated](sādhyaṃ) [one-should-make-sit](samupaveśayet)
+[pot](kumbhopari) [placing](nidhāyātha) [goal](sādhyaṃ) [seat](samupaveśayet)
 
 ## mukta-m0-p486-v12127
-[having-whirled](p. 705)bhrāmayitvā) [then+and+northward](tataḥ+ca+udaṅ) [wiping](mārjjanaṃ) [the-jar](kalaśaṃ) [one-should-throw](kṣipet)
+[revolving](bhrāmayitvā) [then](tataścodaṅmārjjanaṃ) [pitcher](kalaśaṃ) [throw](kṣipet)
 
 ## mukta-m0-p486-v12128
-[offered+remnant+with-food](huta+śiṣṭa+annena) [one-should-give+offering](dadyāt+balim) [and](ca) [with-mantra+this](manunā+amunā)
+[remnant-offering](hutaśiṣṭānnena) [give](dadyādbaliṃ) [ca](ca) [mantra](manunāmunā)
 
 ## mukta-m0-p486-v12129
-[again](bhyo) [offering](baliṃ) [may-they-receive](prati+gṛhṇantu) [for-peace](śāntyai) [heart+principle+syllable-group](hṛt+tattva+varṇakaḥ)
+[to-beings](bhyo) [offering](baliṃ) [accept](pratigṛhṇantu) [peace](śāntyai) [heart-tattva-color](hṛttattvavarṇakaḥ)
 
 ## mukta-m0-p486-v12130
-[fever+etc.+disease+multitudes](jvarā+ādi+roga+saṃghātān) [this-application](praogoyaṃ) [may-destroy](vināśayet)
+[disease-masses](jvarādirogasaṃghātānpraogoyaṃ) [destroy](vināśayet)
 
 ## mukta-m0-p486-v12131
-[demon+spirit+etc.+affliction](rakṣaḥ+bhūta+ādi+pīḍāṃ) [and](ca) [may-destroy+that+indeed+this](nāśayet+sa+tu+ayaṃ) [rite](vidhiḥ)
+[demon-etc-pain](rakṣobhūtādipīḍāṃ) [ca](ca) [destroy](nāśayetsa) [this](tvayaṃ) [rite](vidhiḥ)
 
 ## mukta-m0-p486-v12132
-[having-performed](kṛtvā) [the-practitioner](mantrī) [with-five-products-of-cow](paṃcagavyaiḥ) [one-should-worship+the-person-to-be-treated+here](pūjayet+sādhyam+atra) [and](ca)
+[doing](kṛtvā) [mantrin](mantrī) [five-cow-products](paṃcagavyaiḥ) [worship](pūjayetsādhyamatra) [ca](ca)
 
 ## mukta-m0-p486-v12133
-[by-excellent-brahmins](vipra+varyyaiḥ) [one-should-cause-to-perform+and](kārayet+ca) [oblation](homaṃ) [previously-stated](pūrva+uditaṃ) [in-order](kramāt)
+[brahmins](vipravaryyaiḥ) [cause](kārayecca) [homa](homaṃ) [previously-stated](pūrvoditaṃ) [order](kramāt)
 
 ## mukta-m0-p486-v12134
-[this](eṣa) [application](yogaḥ) [all+diseases+untimely-death+affliction+destroying](sarva+roga+apamṛtyu+droha+nāśakaḥ)
+[this](eṣa) [yoga](yogaḥ) [all-disease-untimely-death-treason-destroyer](sarvarogāpamṛtyudrohanāśakaḥ)
 
 ## mukta-m0-p486-v12135
-[with-three](tribhiḥ) [filled](sampūritaiḥ) [consecrated-by-recitation](japtaiḥ) [with-pots](kumbhaiḥ) [with-sprinkled-water+endowed](sampāta+saṃyutaiḥ)
+[three](tribhiḥ) [filled](sampūritairjaptaiḥ) [jars](kumbhaiḥ) [confluence](sampātasaṃyutaiḥ)
 
 ## mukta-m0-p486-v12136
-[one-should-sprinkle](abhiṣiñcet) [on-sunday](bhānu+dine) [by-disease+etc.+afflicted](cāmayā+ādi+āturaṃ) [likewise](tathā)
+[anoint](abhiṣiñcedbhānudine) [ca](cāmayādyāturaṃ) [tathā](tathā)
 
 ## mukta-m0-p486-v12137
-[ghee](ghṛtaṃ) [one-should-eat+thus-remainder](bhakṣayet+iti+śeṣaḥ) [cooked](pakvaṃ) [with-five-products-of-cow](pañcagavyaiḥ) [consecrated-by-recitation](japite) [with-mantra+this](manunā+amunā)
+[ghee](ghṛtaṃ) [eat](bhakṣayediti) [remainder](śeṣaḥ) [cooked](pakvaṃ) [five-cow-products](pañcagavyairjapite) [mantra](manunāmunā)
 
 ## mukta-m0-p486-v12138
-[the-mantra](mantraṃ) [one-should-recite+ten-hundred](japet+daśa+śataṃ) [the-five-products-of-cow](pañcagavyaṃ) [one-should-touch](spṛśet) [the-wise-one](sudhīḥ)
+[mantra](mantraṃ) [chant](japeddaśaśataṃ) [five-cow-product](pañcagavyaṃ) [touch](spṛśetsudhīḥ)
 
 ## mukta-m0-p486-v12139
-[protection](rakṣā) [arises](bhavati) [in-that-house](tat+gehe) [prosperity+increase](sampat+vṛddhiḥ) [is-produced](prajāyate)
+[protection](rakṣā) [becomes](bhavati) [that-house](tadgehe) [prosperity-growth](sampadvṛddhiḥ) [arises](prajāyate)
 
 ## mukta-m0-p486-v12140
-[saffron](ghusṛṇaṃ) [and](ca) [turmeric](haridrāṃ) [and](ca) [yellow-pigment](rocanaṃ) [bilva+royal](bilva+rājike)
+[turmeric](ghusṛṇaṃ) [ca](ca) [turmeric](haridrāṃ) [ca](ca) [bile](rocanaṃ) [bilva-king](bilvarājike)
 
 ## mukta-m0-p486-v12141
-[long-pepper](kṛṣṇāṃ) [and](ca) [tulsi](tulasīṃ) [declared](proktāṃ) [barley](javam) [arka-tree](arka+drumaṃ) [likewise](tathā)
+[black](kṛṣṇāṃ) [ca](ca) [tulasi](tulasīṃ) [stated](proktāṃ) [java-marka-tree](javamarkadrumaṃ) [tathā](tathā)
 
 ## mukta-m0-p486-v12142
-[lotus](kamalaṃ) [yellow-pigment](rocanāṃ) [in-five-products-of-cow](pañcagavye) [one-should-boil+repeatedly](saṃkvāthayet+muhuḥ)
+[lotos](kamalaṃ) [bile](rocanāṃ) [five-cow-product](pañcagavye) [boil](saṃkvāthayenmuhuḥ)
 
 ## mukta-m0-p486-v12143
-[consecrated-by-recitation](japitaṃ) [with-mantra+this](manunā+anena) [properly+and](samyak+ca) [on-the-head](śirasā) [held](dhṛtam)
+[chanted](japitaṃ) [mantra](manunānena) [properly](samyakca) [head](śirasā) [held](dhṛtam)
 
 ## mukta-m0-p486-v12144
-[calamity+destroying](āpanna+āśakam) [this](etat) [may-be](syāt) [attraction-causing](vaśya+daṃ) [auspiciousness-giving](śiva+daṃ) [supreme](param)
+[calamity-destroyer](āpannāśakametatsyādvaśyadaṃ) [auspicious-giver](śivadaṃ) [supreme](param)
 
 ## mukta-m0-p486-v12145
-[a-prastha-measure](prasthaṃ) [and](ca) [paste+substances](kalka+dravyāṇi) [nutgrass](mustā) [dry-ginger](śuṇṭhī) [turmeric](niśā) [likewise](tathā)
+[prastha](prasthaṃ) [ca](ca) [paste-substances](kalkadravyāṇi) [musta](mustā) [ginger](śuṇṭhī) [night](niśā) [tathā](tathā)
 
 ## mukta-m0-p486-v12146
-[spikenard](māṃsyā+āhvā) [and](ca) [embelia](viḍaṅgaṃ) [and](ca) [madder](mañjiṣṭhā) [black-hellebore](kaṭurohiṇī)
+[mamsy](māṃsyāhvā) [ca](ca) [vidanga](viḍaṅgaṃ) [ca](ca) [manjistha](mañjiṣṭhā) [katurohini](kaṭurohiṇī)
 
 ## mukta-m0-p486-v12147
-[ghost+spirit+demon+etc.+fear+destroying](bhūta+preta+piśāca+ādi+bhaya+ghnaṃ) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[ghost-preta-pishacha-fear-destroyer](bhūtapretapiśācādibhayaghnaṃ) [no](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p486-v12148
-[pill](guṭikāṃ) [of-guggulu](gugguloḥ) [having-made](kṛtvā) [one-should-offer+eight-thousand](hunet+aṣṭa+sahasrakam)
+[pill](guṭikāṃ) [guggulu](gugguloḥ) [making](kṛtvā) [offer](hunedaṣṭasahasrakam)
 
 ## mukta-m0-p486-v12149
-[may-be](bhavet) [of-all+calamities](sarva+upadravāṇāṃ) [destruction](nāśaḥ) [of-mantra+ailment](mantra+gadasya) [and](ca)
+[becomes](bhavetsarvopadravāṇāṃ) [destruction](nāśo) [mantra-disease](mantragadasya) [ca](ca)
 
 ## mukta-m0-p486-v12150
-[spirit+fever+fear+disease+witchcraft+epilepsy+destroying](bhūta+jvara+bhaya+vyādhi+kṛtyā+apasmāra+nāśanam)
+[ghost-fever-fear-disease-epilepsy-destroyer](bhūtajvarabhayavyādhikṛtyāpasmāranāśanam)

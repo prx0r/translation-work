@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "pūrṇopāsanayogenopāsya",
+     "gloss": "by-complete-worship-yoga",
+     "grounds": "compound instrumental form; internal sandhi not split",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstroktamārgataḥ",
+     "gloss": "from-scriptural-path",
+     "grounds": "ablative adverb from śāstra-ukta-mārga",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should complete worship-yoga be practiced according to the scriptural path?",
+   "premises": [
+    "Complete worship-yoga is prescribed.",
+    "Scriptural path guides the practice.",
+    "The object is to be worshipped."
+   ],
+   "inference": "Practice complete worship-yoga along the scriptural path.",
+   "uncertainties": [
+    "Exact syntactic relation between the two tokens is uncertain."
+   ],
+   "plain_english": "By complete worship-yoga, [it is] to be worshipped from the scriptural path."
+  }
+ ]
+}

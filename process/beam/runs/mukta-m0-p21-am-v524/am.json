@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p21",
  "verse": 524,
- "question": "How should the teacher perform the limb placement using the six long vowels?",
+ "question": "Which five deities include imperial Lakshmi and Rama?",
  "premises": [
-  "The six long vowels provide the distinction",
-  "The limbs are to be placed ritually",
-  "The teacher is the agent of this placement"
+  "Imperial Lakshmi is named.",
+  "Rama is named."
  ],
- "inference": "The teacher should perform nyāsa of the limbs differentiated by the six long vowels.",
- "uncertainties": [],
- "plain_english": "The teacher should place the limbs, distinguishing them by the six long vowels."
+ "inference": "Imperial Lakshmi and Rama are among the five deities.",
+ "uncertainties": [
+  "Other three are implied."
+ ],
+ "plain_english": "Imperial Lakshmi and Rama, and thus the five deities."
 }

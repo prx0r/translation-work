@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p507-v12651
-[in-seven-days](saptāhāt) [by-its-application](tat+prayogeṇa) [not-here](na+atra) [to-be-done](kāryyā) [consideration](vicāraṇā)
+[seven-days-after-that-application](saptāhāttatprayogeṇa) [no-inquiry-here](nātra) [should-be-made](kāryyā) [vicāraṇā](vicāraṇā)
 
 ## mukta-m0-p507-v12652
-[māyā](māyāṃ) [sphura-pair](sphura+dvayaṃ) [and](ca+eva) [prasphura-pair](prasphura+dvitayaṃ) [one-should-say](vadet)
+[māyā](māyāṃ) [shining-two](sphuradvayaṃ) [and](ca) [eva](eva) [shining-two](prasphuradvitayaṃ) [say](vadet)
 
 ## mukta-m0-p507-v12653
-[pracaṭa-pair](pracaṭa+dvitayaṃ) [afterwards](paścāt) [ka-pair](ka+dvandvaṃ) [maha-pair](maha+dvayam)
+[spreading-two](pracaṭadvitayaṃ) [afterwards](paścāt) [kahadvandva](kahadvandvaṃ) [great-two](mahadvayam)
 
 ## mukta-m0-p507-v12654
-[mantra](manuḥ) [declared](proktaḥ) [aghora-sage](aghora+muniḥ) [uṣṇik](uṣṇik) [metre](chandaḥ) [its](asya) [deity](devatā)
+[manu](manuḥ) [proclaimed](prokto) [fierce-sage](ghoramuniruṣṇik) [meter](chandosya) [deity](devatā)
 
 ## mukta-m0-p507-v12655
-[with-syllables](varṇaiḥ) [one-should-make](kuryyāt) [six-limbs](ṣaḍ+aṅgāni) [pada-nyāsa](pada+nyāsaḥ) [now](atha) [will-be-told](vakṣyate)
+[by-syllables](varṇaiḥ) [should-make](kuryyāt) [six-limbs](ṣaḍaṅgāni) [foot-placement](padanyāsotha) [will-be-spoken](vakṣyate)
 
 ## mukta-m0-p507-v12656
-[with-thighs-and-feet](sa+jaṃgha+pādayoḥ) [and](ca+eva) [padas](padāni) [eleven](ekādaśa) [one-should-place](nyaset)
+[with-sajaṃgha-feet](sajaṃghapādayoścaiva) [feet](padānyekādaśa) [should-place](nyaset)
 
 ## mukta-m0-p507-v12657
-[with-tongue-eye-measured](rasana+netra+mitaiḥ) [syllables](varṇaiḥ) [with-those-padas](tat+padaiḥ) [and](ca) [becomes](bhavati) [that](asau)
+[by-syllables-measured](rasanetramitairvarṇaistatpadaiśca) [becomes-that](bhavatyasau) [foot-placement-thus-remainder](padanyāsa iti śeṣaḥ ||)
 
 ## mukta-m0-p507-v12658
-[serpent-ornamented](bhujaṅga+bhūṣaṇaṃ) [with-red-garment-and-unguent](rakta+vasana+ālepa+śobhitam)
+[serpent-ornament](bhujaṅgabhūṣaṇaṃ) [red-garment-anointing-beautified](raktavasanālepaśobhitam)
 
 ## mukta-m0-p507-v12659
-[drum](ḍamaruṃ) [shield](kheṭakaṃ) [bow](cāpaṃ) [human-skull](nṛ+kapālaṃ) [and](ca) [bearing](bibhratam)
+[damaru-kheṭaka-bow-skull](damaruṃ kheṭakaṃ cāpaṃ nṛkapālaṃ ca bibhratam)
 
 ## mukta-m0-p507-v12660
-[in-subjugation](nigrahe) [in-liberation-from-planets-spirits-etc](graha+bhūta+ādi+muktau) [like-liberated-one](mukta+nibhaṃ) [one-should-meditate](smaret)
+[in-subjugation](nigrahe) [planet-spirit-etc](grahabhūtādimuktau) [muktā-like](muktānibhaṃ) [remember](smaret)
 
 ## mukta-m0-p507-v12661
-[situated-within-hexagon](ṣaṭkoṇa+antaḥ+sthite) [in-lotus-pair](padma+dvitaye) [surrounded-by-ground-enclosures](bhū+puraiḥ+vṛte)
+[in-six-cornered-within](ṣaṭkoṇāntasthite) [two-lotuses](padmadvitaye) [with-bhūpuras-surrounded](bhūpurairvṛte)
 
 ## mukta-m0-p507-v12662
-[drum](ḍamaruṃ) [axe](paraśuṃ) [sword](khaḍgaṃ) [shield](kheṭaṃ) [arrow](bāṇaṃ) [and](tathā) [bow](dhanuḥ)
+[damaru-axe-sword-shield-arrow-bow](ḍamaruṃ paraśuṃ khaḍgaṃ kheṭaṃ bāṇaṃ tathā dhanuḥ)
 
 ## mukta-m0-p507-v12663
-[in-the-two-enclosures](vīthī+dvaye) [world-guardians](loka+pālāṃḥ) [their-weapons](tat+astrāṇi) [and](ca) [one-should-worship](pūjayet)
+[in-two-rows](vīthīdvaye) [world-guardians](lokapālāṃstadastrāṇi) [and-their-weapons](ca) [worship](pūjayet)
 
 ## mukta-m0-p507-v12664
-[one-should-offer](juhuyāt) [with-its-tenth-part](tat+daśāṃśena) [with-sesame-seeds](tilaiḥ) [soaked-in-pure-ghee](śuddha+ghṛta+plutaiḥ)
+[offer](juhuyāttaddaśāṃśena) [with-sesame](tilaiḥ) [pure-ghee-soaked](śuddhaghṛtaplutaiḥ)
 
 ## mukta-m0-p507-v12665
-[thus](evaṃ) [when-accomplished](siddhe) [in-excellent-mantra](mantra+vare) [desired-rites](kāmya+karmmāṇi) [one-should-accomplish](sādhayet)
+[thus](evaṃ) [accomplished](siddhe) [excellent-mantra](mantravare) [desired-rites](kāmyakarmmāṇi) [accomplish](sādhayet)
 
 ## mukta-m0-p507-v12666
-[oblation](homaḥ) [this](ayaṃ) [destroys](nāśayet) [immediately](sadyaḥ) [leaders-of-spirits-and-sorcery-etc](bhūta+kṛtyā+ādi+nāyakān)
+[this-homa](homoyaṃ) [destroys-immediately](nāśayetsadyo) [spirit-rite-leaders](bhūtakṛtyādināyakān)
 
 ## mukta-m0-p507-v12667
-[with-excellent-fuel-sticks](samid+varaiḥ) [performed](kṛtaḥ) [oblation](homaḥ) [as-before](pūrva+vat) [giving-quick-pacification](druta+śānti+daḥ)
+[with-samidh-vara](samidvaraiḥ) [performed-homa](kṛto homaḥ) [as-before](pūrvavaddrutaśāntidaḥ)
 
 ## mukta-m0-p507-v12668
-[separately](pṛthak) [by-thousand-oblations](sahasra+homena) [of-spirits](bhūtānāṃ) [subjugation](nigrahaḥ) [will-be](bhavet)
+[separate-thousand-homas](pṛthaksahasrahomena) [of-spirits](bhūtānāṃ) [subjugation](nigraho) [becomes](bhavet)
 
 ## mukta-m0-p507-v12669
-[having-offered](hutvā) [thousand](sahasraṃ) [each-time](pratyakaṃ) [into-vessel](pātre) [one-should-pour-offering](sampātayet) [quickly](drute)
+[having-offered](hutvā) [thousand](sahasraṃ) [each](pratyakaṃ) [in-vessel](pātre) [pour-quickly](sampātayeddrute)
 
 ## mukta-m0-p507-v12670
-[named-aghora-weapon](aghora+astra+āhvayaḥ) [mantra](mantraḥ) [all-desired-ends](sarva+kāmyāni) [accomplishes](sādhayet)
+[aghora-astra-named-mantra](aghorāstrāhvayo mantraḥ) [all-desired](sarvakāmyāni) [accomplish](sādhayet)
 
 ## mukta-m0-p507-v12671
-[praṇava](tāraḥ) [śrīṃ](śrīṃ) [at-end-of-word-paśu](paśu+śabda+ante) [huṃphaṭ-mantra](huṃphaḍ+mantraḥ) [six-syllabled](ṣaḍ+akṣaraḥ)
+[tāra](tāraḥ) [śrīṃ](śrīṃ) [paśu-word-end](paśuśabdānte) [huṃphaḍ-mantra](huṃphaḍmantraḥ) [six-syllabled](ṣaḍakṣaraḥ)
 
 ## mukta-m0-p507-v12672
-[with-six-mantra-syllables](mantra+arṇaiḥ) [six](ṣaḍbhiḥ) [limbs](aṅgāni) [ending-with-huṃphaṭ](huṃphaḍ+antaiḥ) [with-bindu](sa+bindukaiḥ)
+[by-mantra-syllables](mantrārṇaiḥ) [six-limbs](ṣaḍbhiraṅgāni) [with-huṃphaḍ-end](huṃphaḍantaiḥ) [with-bindu](sabindukaiḥ)
 
 ## mukta-m0-p507-v12673
-[one-should-meditate](dhyāyet) [on-paśupati](paśupatiṃ) [properly](samyak) [practitioner](mantrī) [and](ca) [with-one-pointed-mind](ekāgra+mānasaḥ)
+[meditate](dhyāyetpaśupatiṃ) [properly](samyaṅmantrī) [ca](ca) [one-pointed-mind](ekāgramānasaḥ)
 
 ## mukta-m0-p507-v12674
-[with-beard-and-hair-like-fire-flame](agni+jvālā+nibha+śmaśru+mūrddhajaṃ) [with-terrible-fangs](bhīma+daṃṣṭrakam)
+[fire-flame-like-ash-beard-hair](agnijvālānibhaśmaśrumūrddhajaṃ) [fierce-tusked](bhīmadaṃṣṭrakam)
 
 ## mukta-m0-p507-v12675
-[bearing](dadhānaṃ) [with-right-hands](dakṣiṇaiḥ+hastaiḥ) [in-order-from-above](ūrdhva+ādi+kramataḥ) [with-others](paraiḥ)
+[holding](dadhānaṃ) [right-hands](dakṣiṇairhastairūrdhvādikramataḥ) [others](paraiḥ)

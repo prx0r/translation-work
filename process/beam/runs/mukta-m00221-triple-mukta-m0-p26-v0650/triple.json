@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "tatrāpi",
+     "gloss": "there-too",
+     "grounds": "adverbial form indicating location and addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressed to the listener",
+     "morph": "verb 2.sg.act-imperative root śru"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-will-speak",
+     "grounds": "first-person future statement of teaching",
+     "morph": "verb 1.sg.act-future root vac"
+    },
+    {
+     "surface": "kaiṭabhaḥ",
+     "gloss": "kaiṭabha",
+     "grounds": "vocative address to the named demon",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daityaśekharaḥ",
+     "gloss": "demon-chief",
+     "grounds": "compound naming the addressed figure as chief of demons",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What will the speaker do for Kaiṭabha, the demon chief, even there?",
+   "premises": [
+    "The speaker addresses Kaiṭabha directly.",
+    "The speaker promises future speech.",
+    "The address occurs even there."
+   ],
+   "inference": "The verse presents a direct promise to speak further to Kaiṭabha, the demon chief, in that place.",
+   "uncertainties": [
+    "The exact doctrinal content of the promised speech is not stated in this verse."
+   ],
+   "plain_english": "There too, hear: I will speak, O Kaiṭabha, chief of demons."
+  }
+ ]
+}

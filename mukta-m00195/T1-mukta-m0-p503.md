@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p503-v12551
-[fuel-stick+excellent](samidvaraiḥ) [performed](kṛto) [oblation](homaḥ) [all+death+disease+removing](sarvamṛtyugadāpahaḥ)
+[with-kindling](samidvaraiḥ) [done](kṛto) [oblation](homaḥ) [all-death-disease-removing](sarvamṛtyugadāpahaḥ)
 
 ## mukta-m0-p503-v12552
-[apāmārga+fuel-stick+oblation](apāmārgasamiddhomaḥ) [all+ailment+destroying](sarvāmayavināśanaḥ)
+[apāmārga](apāmārga)+[kindling](samid)+[oblation](homaḥ) [all-disease-destroying](sarvāmayavināśanaḥ)
 
 ## mukta-m0-p503-v12553
-[oṃṅkāra+māyā+bījābhyāṃ](oṃṅkāramāyābījābhyāṃ) [oṃ hrīṃ dakṣiṇāmūrttaye tubhyaṃ vaṭamūlanivāsine || dhyānaikaniratāṃgāya namo rudrāya śambhave oṃ hrīṃ ||](oṃ hrīṃ dakṣiṇāmūrttaye tubhyaṃ vaṭamūlanivāsine || dhyānaikaniratāṃgāya namo rudrāya śambhave oṃ hrīṃ ||) [enclosed](puṭaṃ) [thirty-six+syllabled](ṣaṭtriṃśadakṣaram)
+[by-oṃ-and-māyā-bījas](oṃṅkāramāyābījābhyāṃ) [oṃ hrīṃ dakṣiṇāmūrttaye tubhyaṃ vaṭamūlanivāsine || dhyānaikaniratāṃgāya namo rudrāya śambhave oṃ hrīṃ ||](oṃ hrīṃ dakṣiṇāmūrttaye tubhyaṃ vaṭamūlanivāsine || dhyānaikaniratāṃgāya namo rudrāya śambhave oṃ hrīṃ ||) [sheath](puṭaṃ) [thirty-six-syllabled](ṣaṭtriṃśadakṣaram)
 
 ## mukta-m0-p503-v12554
-[meditation+alone+devoted+limbed-to](dhyānaikaniratāṅgāya) [obeisance](namo) [to-Rudra](rudrāya) [to-Śambhu](śambhave)
+[dhyāna-only-devoted-limbed](dhyānaikaniratāṅgāya) [salutation](namo) [to-rudra](rudrāya) [to-śambhu](śambhave)
 
 ## mukta-m0-p503-v12555
-[deity](devatā) [of-worlds+origin](jagatāmādir) [Dakṣiṇāmūrti](dakṣiṇāmūrttir) [imperishable](avyayaḥ)
+[deity](devatā) [of-worlds-first](jagatāmādir) [dakṣiṇāmūrti](dakṣiṇāmūrttiḥ)+[imperishable](avyayaḥ)
 
 ## mukta-m0-p503-v12556
-[application](viniyogaḥ) [declared](samuddiṣṭaḥ) [human-goal+fourfold-for](puruṣārthacatuṣṭaye)
+[application](viniyogaḥ) [declared](samuddiṣṭaḥ) [puruṣārtha](puruṣārtha)+[fourfold](catuṣṭaye)
 
 ## mukta-m0-p503-v12557
-[taste+eyes+eight+vasus](rasanetrāṣṭakavasu) [arrows+fire+measured-by](bāṇavahnimitaiḥ) [in-order](kramāt)
+[taste](rasa)+[eye](netra)+[eight](aṣṭaka)+[vasu](vasu) [arrow](bāṇa)+[fire](vahni)+[measured](mitaiḥ) [in-order](kramāt)
 
 ## mukta-m0-p503-v12558
-[six+long-vowels-with](ṣaḍdīrghais) [tāra+māyā+ending-with](tāramāyāntaiḥ) [six+limbs](ṣaḍaṅgāni) [one-should-perform](samācaret)
+[six-long](ṣaḍdīrghaiḥ)+[tāra-māyā-ending](tāramāyāntaiḥ) [six-limbs](ṣaḍaṅgāni) [should-perform](samācaret)
 
 ## mukta-m0-p503-v12559
-[on-head](mūrdhni) [on-forehead](bhāle) [right+eye-on](dakṣanetre) [left-on](vāme) [and](ca) [indeed](eva) [also](tu) [on-ears](karṇayoḥ)
+[on-head](mūrdhni) [on-forehead](bhāle) [on-right-eye](dakṣanetre) [on-left](vāme) [and](ca) [indeed](eva) [then](tu) [on-ears](karṇayoḥ)
 
 ## mukta-m0-p503-v12560
-[on-linga](liṅge) [right+thigh+root-on](dakṣorumūle) [and](ca) [knee+root-on](jānumūle) [and](ca) [ankle-on](gulphake)
+[on-liṅga](liṅge) [on-right-thigh-root](dakṣorumūle) [and](ca) [on-knee-root](jānumūle) [and](ca) [on-ankle](gulphake)
 
 ## mukta-m0-p503-v12561
-[thus](evaṃ) [left+thigh+middle+beginning-with](vāmorumadhyādau) [one-should-perform](kuryyān) [placement](nyāso) [this](ayam) [declared](īritaḥ)
+[thus](evaṃ) [on-left-thigh-middle-beginning](vāmorumadhyādau) [should-do](kuryyāt) [nyāsa](nyāsaḥ)+[this](ayam)+[declared](īritaḥ)
 
 ## mukta-m0-p503-v12562
-[various+trees-with](nānādrumaiḥ) [flower+fruit+leaf+endowed-with](puṣpaphalapatropetair) [shining](virājite)
+[with-various-trees](nānādrumaiḥ) [flower](puṣpa)+[fruit](phala)+[leaf](patra)+[endowed](upetaiḥ) [shining](virājite)
 
 ## mukta-m0-p503-v12563
-[Śuka+etc.+sages-with](śukādimunibhir) [joined](yukte) [banyan-tree](vaṭaṃ) [there](tatra) [one-should-visualize](vicintayet)
+[with-śuka-etc-sages](śukādimunibhiryukte) [banyan](vaṭaṃ) [there](tatra) [should-contemplate](vicintayet)
 
 ## mukta-m0-p503-v12564
-[nine-gem+made+ornaments-with](navaratnamayākalpais) [archway+etc.-with](toraṇādyair) [adorned](alaṃkṛtam)
+[nine](nava)+[gems](ratna)+[made](maya)+[ornaments](kalpaiḥ) [with-toraṇa-etc](toraṇādyaiḥ) [adorned](alaṃkṛtam)
 
 ## mukta-m0-p503-v12565
-[seated](āsīnam) [immeasurable+splendor](amitākalpaṃ) [autumn+moon+resembling+face](śaraccandranibhānanam)
+[seated](āsīnam) [immeasurable-form](amitākalpaṃ) [autumn](śarat)+[moon](candra)+[like](nibha)+[face](ānanam)
 
 ## mukta-m0-p503-v12566
-[matted-hair+crown-bearing](jaṭāmukuṭinaṃ) [hero+posture-in](vīrāsanaṃ) [nose+gazing](nāsāvalokanam)
+[matted-crown](jaṭāmukuṭinaṃ) [hero-posture](vīrāsanaṃ) [nose-gazing](nāsāvalokanam)
 
 ## mukta-m0-p503-v12567
-[right+upper+hand-in](dakṣiṇordhvakare) [hatchet](ṭaṅkaṃ) [exposition+gesture](vyākhyāmudrām) [lower+hand-in](adhaḥ kare)
+[on-right-upper-hand](dakṣiṇordhvakare) [axe](ṭaṅkaṃ) [explanation-mudrā](vyākhyāmudrām) [below](adhaḥ) [hand](kare)
 
 ## mukta-m0-p503-v12568
-[previously+mentioned](prākprokte) [one-should-worship](pūjayet) [on-seat](pīṭhe) [in-first](prathame) [indeed](tu) [petal-on](dale) [one-should-worship](yajet)
+[previously-declared](prākprokte) [should-worship](pūjayet)+[on-seat](pīṭhe) [on-first](prathame) [then](tu) [on-petal](dale) [should-sacrifice](yajet)
 
 ## mukta-m0-p503-v12569
-[one-should-worship](pūjayet) [eight+petals-on](aṣṭapatreṣu) [one-should-worship](pūjayed) [bull+etc.](vṛṣabhādikān)
+[should-worship](pūjayet)+[on-eight-petals](aṣṭapatreṣu) [should-worship](pūjayet)+[bull-etc](vṛṣabhādikān)
 
 ## mukta-m0-p503-v12570
-[preliminary-rites+accomplishment+for-sake-of](puraścaraṇasiddhyarthaṃ) [one-should-recite](prajaped) [ten-thousand+eight](ayutāṣṭakam)
+[for-puraścaraṇa-accomplishment](puraścaraṇasiddhyarthaṃ) [should-recite](prajapet)+[ten-thousand-eight](ayutāṣṭakam)
 
 ## mukta-m0-p503-v12571
-[libation+etc.](tarppaṇādi) [then](tataḥ) [one-should-perform](kuryyāt) [application+fit](prayogārho) [should-become](bhaven) [mantra](manuḥ)
+[libation-etc](tarppaṇādi) [then](tataḥ) [should-do](kuryyāt) [fit-for-application](prayogārhaḥ) [becomes](bhavet) [mantra](manuḥ)
 
 ## mukta-m0-p503-v12572
-[mantra](mantraṃ) [every+day](pratidinaṃ) [practitioner](mantrī) [learnedness](vidvattvaṃ) [obtains](labhate) [certainly](dhruvam)
+[mantra](mantraṃ) [daily](pratidinaṃ) [mantrin](mantrī) [scholarship](vidvattvaṃ) [obtains](labhate) [certainly](dhruvam)
 
 ## mukta-m0-p503-v12573
-[all](akhilānāṃ) [and](ca) [of-scriptures](śāstrāṇāṃ) [expounder](vyākhyātā) [and](ca) [great+poet](mahākaviḥ)
+[of-all](akhilānāṃ) [and](ca) [of-śāstras](śāstrāṇāṃ) [expounder](vyākhyātā) [and](ca) [great-poet](mahākaviḥ)
 
 ## mukta-m0-p503-v12574
-[fragrant+substance+mixed-with](sugandhadravyasaṃyuktair) [by-Nandikeśvara+prepared](nandikeśvarakalpitaiḥ)
+[with-fragrant-substances](sugandhadravyasaṃyuktaiḥ) [devised-by-nandikeśvara](nandikeśvarakalpitaiḥ)
 
 ## mukta-m0-p503-v12575
-[by-this](anena) [mantra+best-by](mantravaryyeṇa) [life](jīvitaṃ) [indeed](tu) [ten-thousand+limit](ayutāvadhi)
+[by-this](anena) [excellent-mantra](mantravaryyeṇa) [life](jīvitaṃ) [up-to-ten-thousand](tvayutāvadhi)

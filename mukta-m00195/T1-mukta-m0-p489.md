@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p489-v12201
-[red](ārakta) [+pot](kalaśaṃ) [one-should-meditate](dhyāyen) [+on-head](mastake) [own](sve) [and](ca) [one-should-worship](pūjayet)
+[red-pot](āraktakalaśaṃ) [meditate](dhyāyenmastake) [on-head](sve) [and](ca) [worship](pūjayet)
 
 ## mukta-m0-p489-v12202
-[libation](tarppaṇa) [+etc.](ādyaṃ) [then](tataḥ) [one-should-do](kuryyāt) [+of-umbrella](chatra) [+mantra](mantrasya) [for-accomplishment](siddhaye)
+[offering-etc](tarppaṇādyaṃ) [then](tataḥ) [do](kuryyācchatramantrasya) [for-success](siddhaye)
 
 ## mukta-m0-p489-v12203
-[even-one](ekopi) [he](sa) [enemies](ripūñ) [+having-conquered](jitvā) [kingdom](rājyaṃ) [indeed](tu) [obtains](labhate) [quickly](drutam)
+[one-even](ekopi) [he](sa) [having-conquered-enemies](ripūñjitvā) [kingdom](rājyaṃ) [indeed](tu) [obtains](labhate) [quickly](drutam)
 
 ## mukta-m0-p489-v12204
-[of-chowrie](cāmarasya) [planet](graha) [+possession](āveśa) [+sight](dṛṣṭi) [+etc.](ādika) [+removal](nivāraṇam)
+[of-chowrie](cāmarasya) [removal-of-planetary-possession-sight-etc](grahāveśadṛṣṭyādikanivāraṇam)
 
 ## mukta-m0-p489-v12205
-[drive-away](protsāraya) [+quickly](āśu) [evil](duritaṃ) [O-chowrie](cāmara) [śrīṃ](śrīṃ) [obeisance](namas) [+be](astu) [to-you](te)
+[drive-away-quickly](protsārayāśu) [sin](duritaṃ) [chowrie](cāmara) [śrīṃ](śrīṃ) [salutation-to-you](namostu) [to-you](te)
 
 ## mukta-m0-p489-v12206
-[having-offered-oblation](hutvā) [accomplished](siddho) [becomes](bhavet) [+mantra](mantro) [daily](nityaṃ) [chowrie](cāmaram) [+one-should-worship](arcayet)
+[having-offered](hutvā) [accomplished](siddho) [becomes-mantra](bhavenmantro) [daily](nityaṃ) [chowrie-worship](cāmaramarcayet)
 
 ## mukta-m0-p489-v12207
-[for-seven-days](saptāham) [+worshipped](arjjitāḥ) [evening](sāyaṃ) [morning](prātaḥ) [become](syur) [+fault](doṣa) [+freed](varjjitāḥ)
+[seven-days](saptāhamarjjitāḥ) [evening](sāyaṃ) [morning](prātaḥ) [become-faultless](syurdoṣavarjjitāḥ)
 
 ## mukta-m0-p489-v12208
-[to-Śakra’s-banner](śakraketave) [and](ca) [to-great-hero](mahāvīryyāya) [dark](śyāma) [color](varṇakam)
+[to-indra-banner](śakraketave) [ca](ca) [great-virility](mahāvīryyāya) [dark-color](śyāma) [varṇakam](varṇakam)
 
 ## mukta-m0-p489-v12209
-[Garuda](garuḍa) [+seated](āsana) [protect](rakṣa) [+two](dvi) [+weapons](rāyudhāni) [enemies](ripūn) [+burn](daha)
+[garuḍa-seat](garuḍāsana) [protect](rakṣadvirāyudhāni) [enemies-burn](ripūndaha)
 
 ## mukta-m0-p489-v12210
-[banner](dhvaja) [+mantra](mantraṃ) [one-should-recite](japet) [+five](pañca) [+thousand](sahasraṃ) [for-accomplishment](siddhaye) [one-should-offer-oblation](hunet)
+[banner-mantra](dhvajamantraṃ) [chant-five-thousand](japetpañcasahasraṃ) [for-success](siddhaye) [offer](hunet)
 
 ## mukta-m0-p489-v12211
-[banner](dhvajaṃ) [indeed](tu) [one-should-worship](pūjayet) [+daily](nityaṃ) [enemy](śatru) [+fear](bhīti) [+removal](nivāraṇam)
+[banner](dhvajaṃ) [tu](tu) [worship-daily](pūjayennityaṃ) [enemy-fear-removal](śatrubhītinivāraṇam)
 
 ## mukta-m0-p489-v12212
-[of-Hiraṇyakaśipu](hiraṇyakaśipor) [+in-battle](yuddhe) [O-Pūtanā](pūtane) [god](daivata) [+and-demon](āsure)
+[in-hiraṇyakaśipu-war](hiraṇyakaśiporyuddhe) [pūtanā](pūtane) [divine-asura](daivatāsure)
 
 ## mukta-m0-p489-v12213
-[strife](kālahaṃ) [thrice](trir) [+burning](dahat) [+pair](dvandvaṃ) [enemies](ripūn) [+all](sarvān) [O-banner-goddess](patākike)
+[time-swan](kālahaṃ) [thrice-burn-pair](trirdahadvandvaṃ) [all-enemies](ripūnsarvān) [banner-bearer](patākike)
 
 ## mukta-m0-p489-v12214
-[then](tatas) [+with-three-sweets](trimadhurair) [+oblation](homa) [+etc.](ādikaiḥ) [accomplished](siddho) [becomes](bhavet) [+mantra](manuḥ)
+[then-with-three-sweets-offerings-etc](tatastrimadhurairhomādikaiḥ) [accomplished](siddho) [becomes-mantra](bhavenmanuḥ)
 
 ## mukta-m0-p489-v12215
-[with-life](sthita) [+breaths](prāṇāṃ) [and](ca) [her](tā) [having-seen](dṛṣṭvā) [enemy](ripur) [+goes](yāti) [directions](diśo) [ten](daśa)
+[standing-breath](sthitaprāṇāṃ) [ca](ca) [them-seeing](tā) [dṛṣṭvā](dṛṣṭvā) [enemy-goes-ten-directions](ripuryāti) [diśo](diśo) [daśa](daśa)
 
 ## mukta-m0-p489-v12216
-[to-the-trident](triśūlāya) [obeisance](namas) [+thus](ca) [+iti](iti) [mantra](mantraḥ) [seven](sapta) [+syllabled](akṣaro) [considered](mataḥ)
+[to-trident](triśūlāya) [salutation-thus](namaśceti) [mantra](mantraḥ) [seven-syllabled](saptākṣaro) [considered](mataḥ)
 
 ## mukta-m0-p489-v12217
-[oblation](homas) [+indeed](tu) [with-bilva-leaves](bilvapatraiḥ) [should-be](syāt) [+accomplished](siddho) [mantra](mantras) [+this](tvayaṃ) [becomes](bhavet)
+[offering](homastu) [bilva-leaves](bilvapatraiḥ) [syāt](syāt) [accomplished](siddho) [mantra-this](mantrastvayaṃ) [becomes](bhavet)
 
 ## mukta-m0-p489-v12218
-[O-trident-drawn](śūlākṛṣṭe) [O-Caṇḍī](caṇḍi) [surrounded](vṛte) [all](sarva) [+evil](duṣṭa) [+destroyer](nibarhiṇi)
+[trident-drawn](śūlākṛṣṭe) [caṇḍi](caṇḍi) [ṅyāporiti-hrasvaḥ](ṅyāporiti) [surrounded](vṛte) [all-wicked-removal](sarvaduṣṭanibarhiṇi)
 
 ## mukta-m0-p489-v12219
-[O-knife](kṣurike) [protect](rakṣa) [me](māṃ) [always](nityaṃ) [all](sarva) [+inauspicious](āśubha) [+destroyer](vināśini)
+[dagger](kṣurike) [protect](rakṣa) [me](māṃ) [daily](nityaṃ) [all-inauspicious-destruction](sarvāśubhavināśini)
 
 ## mukta-m0-p489-v12220
-[having-recited](japtvā) [syllable](varṇa) [+thousand](sahasraṃ) [and](ca) [accomplished](siddhaḥ) [enemy](śatru) [+averter](nivāraṇaḥ)
+[having-chanted-thousand-varṇas](japtvā) [varṇasahasraṃ](varṇasahasraṃ) [ca](ca) [accomplished](siddhaḥ) [enemy-removal](śatrunivāraṇaḥ)
 
 ## mukta-m0-p489-v12221
-[of-weapons](śastriṇām) [+indeed](eva) [of-all](sarveṣāṃ) [who](yas) [+is](ti) [protection](rakṣā) [+maker](karaḥ) [supreme](paraḥ)
+[of-weapon-bearers](śastriṇāmeva) [all](sarveṣāṃ) [yo](yosti) [ti](ti) [rakṣākaraḥ](rakṣākaraḥ) [paraḥ](paraḥ)
 
 ## mukta-m0-p489-v12222
-[my](mama) [body](dehaṃ) [always](sadā) [protect](rakṣa) [O-dagger](kaṭāraka) [obeisance](namas) [+be](astu) [to-you](te)
+[my](mama) [body](dehaṃ) [always](sadā) [protect](rakṣa) [kaṭāraka](kaṭāraka) [salutation-to-you](namostu) [to-you](te)
 
 ## mukta-m0-p489-v12223
-[there](tatra) [one-should-worship](sampūjayet) [+that](tat) [+and](ca) [not](na) [+fire](agni) [+thief](caura) [+etc.](ādijaṃ) [fear](bhayam)
+[there](tatra) [worship](sampūjayettacca) [nāgnicaurādijaṃ](nāgnicaurādijaṃ) [bhayam](bhayam)
 
 ## mukta-m0-p489-v12224
-[take](gṛhāṇa) [life](jīvanaṃ) [of-them](teṣāṃ) [my](mama) [army](sainyaṃ) [and](ca) [protect](rakṣa) [me](mām)
+[receive](gṛhāṇa) [life](jīvanaṃ) [their](teṣāṃ) [my](mama) [army](sainyaṃ) [ca](ca) [protect](rakṣa) [me](mām)
 
 ## mukta-m0-p489-v12225
-[in-eight-directions](digaṣṭake) [in-battle](raṇe) [having-gone](yātvā) [of-enemies](ripūṇāṃ) [slaughter](kadanaṃ) [may-be](bhavet)
+[in-eight-directions](digaṣṭake) [in-battle](raṇe) [having-gone](yātvā) [of-enemies](ripūṇāṃ) [slaughter](kadanaṃ) [becomes](bhavet)

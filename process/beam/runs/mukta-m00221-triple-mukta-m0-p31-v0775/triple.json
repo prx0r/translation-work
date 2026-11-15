@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "śrūtvetthaṃ",
+     "gloss": "having-heard-this",
+     "grounds": "absolute participle from śru with etthaṃ; fused sandhi form retained",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nāarado",
+     "gloss": "narada",
+     "grounds": "proper noun in nominative singular; fused spelling retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantriṇīproktaṃ",
+     "gloss": "spoken-by-minister",
+     "grounds": "compound of mantriṇī and proktaṃ; fused sandhi form retained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛṣṭamanasaḥ",
+     "gloss": "glad-minded",
+     "grounds": "compound of hṛṣṭa and manas; fused sandhi form retained",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What change in Narada follows hearing the minister's spoken words?",
+   "premises": [
+    "Narada hears the minister's words.",
+    "The minister's speech is received.",
+    "Narada becomes glad-minded."
+   ],
+   "inference": "Hearing the minister's speech leaves Narada glad-minded.",
+   "uncertainties": [
+    "The exact grammatical case of hṛṣṭamanasaḥ is not fully resolved from the fused form alone."
+   ],
+   "plain_english": "Having heard this, Narada, spoken to by the minister, became glad-minded."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p512-v12776
-[parts](bhāgā) [ten](daśa) [indeed](eva) [of-copper](tāmrasya) [in-tri-metal](tri+lohe) [here](atra) [are-prescribed](prakīrttitāḥ)
+[parts](bhāgā) [ten](daśa) [indeed](eva) [of-copper](tāmrasya) [three-metals](triloha)+[field](kṣetra) [proclaimed](prakīrttitāḥ)
 
 ## mukta-m0-p512-v12777
-[with-final-seventh-veda-syllable-letter](antya+saptama+veda+akṣara+varṇa) [sixth-vowel](ṣaṣṭha+svara) [endowed-with](anvitam)
+[last](antya) [seventh](saptama) [veda](veda)+[akṣara](akṣara)+[varṇa](varṇa)+[sixth](ṣaṣṭha)+[vowel](svara)+[endowed](anvita) [m](m)
 
 ## mukta-m0-p512-v12778
-[by-six-long-vowels-divided](ṣaḍ+dīrgha+bhājā) [with-seed-syllable](bījena) [six-limb-rite](ṣaḍ+aṅga+vidhiḥ) [is-declared](īritaḥ)
+[six](ṣaḍ) [long](dīrgha)+[part](bhāja) [seed](bīja) [six-limbed](ṣaḍaṅga)+[rite](vidhi)+[declared](īrita)
 
 ## mukta-m0-p512-v12779
-[at-root-and-end](mūla+ādi+antaṃ) [indeed](tu) [earth-seed](bhū+kūṭaṃ) [on-little-finger](kaniṣṭhāyāṃ) [again](punar) [one-should-place](nyaset)
+[root](mūla)+[etc](ādi)+[end](anta) [earth](bhū)+[peak](kūṭa) [little-finger](kaniṣṭhā)+[again](punar)+[place](nyaset)
 
 ## mukta-m0-p512-v12780
-[the-syllable-kṣa](kṣa+kāraṃ) [root-seed](mūla+bījaṃ) [indeed](tu) [with-bha-sa-ha](bha+sa+ha+abhiḥ) [accompanied](samanvitam)
+[seed](bīja) [root](mūla)+[letter](kāra) [bha](bha)+[sa](sa)+[ha](ha)+[with](abhisamanvita)
 
 ## mukta-m0-p512-v12781
-[named-Jayā](jayā+ākhyā) [named-Vijayā](vijayā+ākhyā) [and](ca) [indeed](hi) [Ajitā](ajitā) [and](ca) [Parājitā](parājitā)
+[victorious](jayā)+[named](ākhyā) [victorious](vijayā)+[named](ākhyā) [unconquered](ajitā) [conquered](parājitā)
 
 ## mukta-m0-p512-v12782
-[from-head-etc-to-feet](mūrddha+ādi+pāda+paryyantaṃ) [with-palms](talābhyāṃ) [pervading](vyāpakaṃ) [one-should-place](nyaset)
+[head](mūrddha)+[etc](ādi)+[foot](pāda)+[limit](paryanta) [two](tala)+[by](ābhyāṃ) [pervading](vyāpaka) [place](nyaset)
 
 ## mukta-m0-p512-v12783
-[on-head-face-heart-navel](śiraḥ+vadana+hṛt+nābhi) [and-private-parts](gudeṣu) [thus](evaṃ) [in-order](kramāt) [one-should-place](nyaset)
+[head](śira)+[face](vadana)+[heart](hṛd)+[navel](nābhi)+[anus](guda)+[thus](evam) [in-order](kramāt)+[place](nyaset)
 
 ## mukta-m0-p512-v12784
-[sickle](sṛṇiṃ) [noose](pāśaṃ) [skull](kapālaṃ) [and](ca) [skull-staff](khaṭvāṅgaṃ) [adorned-with-jewels](ratna+bhūṣitam)
+[hoe](sṛṇi) [noose](pāśa) [skull](kapāla) [khaṭvāṅga](khaṭvāṅga) [jewel](ratna)+[adorned](bhūṣita)
 
 ## mukta-m0-p512-v12785
-[on-Śaiva-seat](śaiva+pīṭhe) [one-should-worship](yajet) [the-deity](devaṃ) [with-to-be-described](vakṣyamāṇena) [and](ca) [procedure](ātmanā)
+[śaiva](śaiva)+[seat](pīṭha) [worship](yajet) [deity](deva) [to-be-spoken](vakṣyamāṇa)+[by](ena) [self](ātman)
 
 ## mukta-m0-p512-v12786
-[with-Dharma-etc](dharma+ādikaiḥ) [and-Adharma-etc](adharmma+ādyaiḥ) [legs-and-limbs](pāda+gātrāṇi) [one-should-construct](kalpayet)
+[dharma](dharma)+[etc](ādi)+[adharma](adharma)+[etc](ādi) [foot](pāda)+[limbs](gātra) [arrange](kalpayet)
 
 ## mukta-m0-p512-v12787
-[by-fourth-and-fifth](caturtha+pañcamābhyām) [indeed](tu) [consisting-of-Māyā-and-Vidyā](māyā+vidyā+mayaḥ) [it-should-be](bhavet)
+[fourth](caturtha)+[fifth](pañcama)+[by](ābhyāṃ) [māyā](māyā)+[vidyā](vidyā)+[made](maya) [become](bhavet)
 
 ## mukta-m0-p512-v12788
-[with-junction-syllables](sandhi+akṣaraiḥ) [in-four-directions](catur+diṣu) [situated](sthitā) [Vāmā-and-others](vāmā+ādikā) [one-should-worship](yajet)
+[sandhyā](sandhyā)+[letters](akṣara) [four](catur)+[directions](diś) [situated](sthitā) [left](vāma)+[etc](ādi) [worship](yajet)
 
 ## mukta-m0-p512-v12789
-[thus](itthaṃ) [in-conceived](saṅkalpite) [seat](pīṭhe) [Tumburu](tumburuṃ) [there](tatra) [one-should-worship](pūjayet)
+[thus](itthaṃ) [intended](saṅkalpita) [seat](pīṭha) [tumburu](tumburu) [there](tatra) [worship](pūjayet)
 
 ## mukta-m0-p512-v12790
-[in-eight-petaled-lotus](aṣṭa+patra+ambuje) [the-limbs](aṅgāni) [on-filaments](keśareṣu) [one-should-worship](samarcayet)
+[eight](aṣṭa)+[petal](patra)+[lotus](ambuja) [filaments](keśara) [worship](samarcayet)
 
 ## mukta-m0-p512-v12791
-[endowed-with-red-garments-and-flowers](aruṇa+aṃśuka+puṣya+āḍhyāḥ) [with-faces-filled-with-betel](tāmbūla+ākulita+ānanāḥ)
+[red](aruṇa)+[garment](aṃśuka)+[flower](puṣya)+[rich](āḍhya) [betel](tāmbūla)+[filled](ākula)+[face](ānana)
 
 ## mukta-m0-p512-v12792
-[on-eight-petals](aṣṭa+patreṣu) [and](ca) [to-be-worshipped](abhyarcyā) [goddesses](devyaḥ) [Durgā-and-others](durgā+ādikāḥ) [in-order](kramāt)
+[eight](aṣṭa)+[petals](patra) [worship](abhyarcyā) [goddesses](devyaḥ) [durgā](durgā)+[etc](ādi) [in-order](kramāt)
 
 ## mukta-m0-p512-v12793
-[with-folded-hands](baddha+añjali+puṭāḥ) [somewhat](kiñcit) [with-slightly-bowed-lotus-faces](ānamra+vadana+ambujāḥ)
+[joined](baddha)+[palms](añjali)+[cup](puṭa) [slightly](kiñcid) [bowed](ānamra)+[lotus-face](vadanāmbuja)
 
 ## mukta-m0-p512-v12794
-[with-śa-ṣa-sa-ha](śa+ṣa+sa+hāḥ) [indeed](tu) [outside-that](tat+bāhye) [one-should-worship](yajet) [in-two-enclosures](vīthī+dvaye) [the-mantra](manum)
+[śa](śa)+[ṣa](ṣa)+[sa](sa)+[ha](ha) [outside](bāhya) [worship](yajet) [path](vīthī)+[two](dvaya) [mantra](manum)
 
 ## mukta-m0-p512-v12795
-[one-hundred-thousand](lakṣam) [one](ekaṃ) [one-should-recite](japet) [mantra](mantraṃ) [a-tenth-part](daśa+aṃśaṃ) [indeed](tu) [one-should-offer-oblation](hunet) [with-ghee](ghṛtaiḥ)
+[lakh](lakṣa) [one](eka) [chant](japet) [mantra](mantra) [tenth](daśa)+[part](aṃśa) [offer](huned) [ghee](ghṛtaiḥ)
 
 ## mukta-m0-p512-v12796
-[of-an-angry-person](kupitasya) [in-heart-lotus](hṛt+ambhoje) [having-remembered](smṛtvā) [seed](bījam) [this](idaṃ) [one-should-recite](japet)
+[angry](kupita) [heart](hṛd)+[lotus](ambhoja) [remembering](smṛtvā) [seed](bīja) [this](idaṃ) [chant](japet)
 
 ## mukta-m0-p512-v12797
-[heart-diseases](hṛt+rogāḥ) [of-him](tasya) [are-destroyed](naśyanti) [all](sarve) [obstruction-and-others](viṣṭambhaka+ādayaḥ)
+[heart](hṛd)+[disease](roga) [destroyed](naśyanti) [all](sarve) [obstruction](viṣṭambha)+[etc](ādi)
 
 ## mukta-m0-p512-v12798
-[having-sons](putriṇī) [mother-of-a-daughter](kanyakā+mātā) [she-becomes](bhavet) [in-this-matter](atra) [indeed](tu) [what](kā) [talk](kathā)
+[mother-of-daughter](putriṇī) [maiden](kanyakā)+[mother](mātā) [become](bhaved) [here](atra) [what](kā) [speech](kathā)
 
 ## mukta-m0-p512-v12799
-[of-Śrī-Tumburu-Śiva](śrī+tumburu+śivasya) [this](ayaṃ) [mantra](mantraḥ) [giver-of-all-aims-accomplishment](sarva+artha+siddhi+daḥ)
+[śrī](śrī)+[tumburu](tumburu)+[śiva](śiva) [mantra](mantra) [all](sarva)+[purpose](artha)+[accomplishing](siddhida)
 
 ## mukta-m0-p512-v12800
-[with-praṇava-and-ramā](praṇava+ādya+ramābhyāṃ) [indeed](tu) [encased](sampuṭaḥ) [of-nine-syllables](nava+varṇakaḥ)
+[praṇava](praṇava)+[etc](ādi)+[rama](rama)+[by](ābhyāṃ) [enclosure](sampuṭa) [nine](nava)+[letters](varṇaka) [mantra](mantra) [oṃ śrīṃ namaḥ śivāya oṃ śrīṃ](oṃ śrīṃ namaḥ śivāya oṃ śrīṃ) [iti](iti) [nine](nava)+[syllable](akṣara)+[mantra](mantra)

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "sūkṣmā'vadhānato'pyasya",
+     "gloss": "subtle-attention-even-his",
+     "grounds": "fused sandhi form transcribed whole; internal segmentation not split",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "third-person plural active present of root vid",
+     "morph": "verb 3.pl.act-pres root vid"
+    },
+    {
+     "surface": "khurasaṅgatim",
+     "gloss": "hoof-contact",
+     "grounds": "compound accusative singular feminine",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How can even subtle attention fail to perceive the goddess's hoof-contact?",
+   "premises": [
+    "Even subtle attention is insufficient.",
+    "They do not know hoof-contact.",
+    "Perception has limits."
+   ],
+   "inference": "The goddess's movement remains imperceptible.",
+   "uncertainties": [
+    "Sandhi segmentation of the first token is uncertain."
+   ],
+   "plain_english": "Even with subtle attention, they do not know his hoof-contact."
+  }
+ ]
+}
