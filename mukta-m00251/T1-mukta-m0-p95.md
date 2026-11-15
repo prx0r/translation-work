@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[emaciating](kṛśayantīṃ) [always](sadā) [o-goddess](devi) [one-should-meditate-on](cintayet) [mantra](mantra)+[deity](devatām)
+[thinning](kṛśayantīṃ) [always](sadā) [goddess](devi) [should-meditate](cintayen) [mantra+deity](mantradevatām)
 
 ## mukta-m0-p95-v2352
-[stone](pāṣāṇa)+[holding](dhāriṇīm) [and](ca) [indeed](eva) [wood](kāṣṭha)+[in-hands](hastān) [likewise](tathā) [indeed](eva) [and](ca)
+[stone+bearer](pāṣāṇadhāriṇīṃ) [and+indeed](caiva) [wood+handed](kāṣṭhahastān) [thus+indeed](tathaiva) [and](ca)
 
 ## mukta-m0-p95-v2353
-[killing](māraṇa)+[eradication](uccāraṇa)+[and-so-forth](ādīni) [one-performs](kurute) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[killing+utterance+etc](māraṇoccāraṇādīni) [does](kurute) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p95-v2354
-[gentle](saumyāṃ) [white](śuklīṃ) [o-great-goddess](mahādevi) [white](śveta)+[lotus](padme) [situated](vyavasthitām)
+[gentle](saumyāṃ) [white](śuklīṃ) [great-goddess](mahādevi) [white+lotus](śvetapadme) [established](vyavasthitām)
 
 ## mukta-m0-p95-v2355
-[moon](candra)+[ray](aṃśu)+[white](dhavala)+[gentle](saumyāḥ) [prāsāda-mantra](prāsādaṃ) [with-left](savya)+[hand](pāṇinā)
+[moon-ray+white+gentle](candrāṃśudhavalassaumyāḥ) [temple](prāsādaṃ) [right+hand](savyapāṇinā)
 
 ## mukta-m0-p95-v2356
-[in-subjugation](vaśīkaraṇa) [in-attraction](ākarṣe) [noose](pāśa)+[goad](aṅkuśa)+[holding](dhāriṇīm)
+[subjugation](vaśīkaraṇa) [attraction](ākarṣe) [noose+goad+bearing](pāśamaṅkuśadhāriṇīm)
 
 ## mukta-m0-p95-v2357
-[in-paralyzing](staṃbhane) [black](kṛṣṇa)+[colored](varṇām) [but](tu) [always](nityam) [indeed](eva) [one-should-meditate](vicintayet)
+[paralysis](staṃbhane) [black+colored](kṛṣṇavarṇām) [always](nityam) [indeed](eva) [should-meditate](vicintayet)
 
 ## mukta-m0-p95-v2358
-[this](eṣa) [o-goddess](devi) [declared](samākhyāto) [nyāsa](nyāsaḥ) [supremely](parama)+[rare](durlabhaḥ)
+[this](eṣa) [goddess](devi) [declared](samākhyāto) [nyāsa](nyāsaḥ) [supreme+rare](paramadurlabhaḥ)
 
 ## mukta-m0-p95-v2359
-[thus](evaṃ) [nyāsa](nyāsa) [here](iha) [taught](proktaḥ) [in-all](sarva)+[mantras](mantreṣu) [and](ca) [supreme](uttamaḥ)
+[thus](evaṃ) [nyāsa](nyāsaḥ) [here](iha) [spoken](proktaḥ) [all+mantras+among](sarvamantreṣu) [best](uttamaḥ)
 
 ## mukta-m0-p95-v2360
-[uneatable](abhojya) [eating](bhakṣaṇaṃ) [having-done](kṛtvā) [having-killed](hatvā) [world](lokaṃ) [moving](cara)+[unmoving](acaram)
+[uneatable](abhojya) [eating](bhakṣaṇaṃ) [having-done](kṛtvā) [having-killed](hatvā) [world](lokaṃ) [moving+immoving](carācaram)
 
 ## mukta-m0-p95-v2361
-[gold](suvarṇa)+[theft](steya)+[cow-gift](godānaṃ) [having-offered](hutvā) [very-many](bahutarāṇi) [and](ca)
+[gold+theft](suvarṇasteya) [cow+gift](godānaṃ) [having-offered](hutvā) [many+also](bahutarāṇi) [and](ca)
 
 ## mukta-m0-p95-v2362
-[thus](evaṃ) [nyāsa](nyāsa)+[procedure](vidhiṃ) [having-done](kṛtvā) [teacher](ācāryaḥ) [well](su)+[concentrated](samāhitaḥ)
+[thus](evaṃ) [nyāsa+rite](nyāsavidhiṃ) [having-done](kṛtvā) [teacher](ācāryaḥ) [well-composed](susamāhitaḥ)
 
 ## mukta-m0-p95-v2363
-[time](kāla)+[worship](yāga)+[by-method](vidhānena) [preceptor](deśiko) [worships](yajate) [if](yadi)
+[time+rite](kālayāgavidhānena) [initiator](deśikaḥ) [worships](yajate) [if](yadi)
 
 ## mukta-m0-p95-v2364
-[one](eka)+[day](aham) [even](api) [by-me](mayā) [nyāsa](nyāsaṃ) [performs](kurute) [best](uttama)+[practitioner](sādhakaḥ)
+[one+day](ekāham) [also](api) [by-me](mayā) [nyāsa](nyāsaṃ) [does](kurute) [best+adept](sādhakottamaḥ)
 
 ## mukta-m0-p95-v2365
-[seven](sapta)+[days](aham) [should-practice](abhyaset) [who](yaḥ) [but](tu) [this](imaṃ) [nyāsa](nyāsaṃ) [concentrated](samāhitaḥ)
+[seven+days](saptāham) [should-practice](abhyased) [who](yaḥ) [tu](tu) [this](imaṃ) [nyāsa](nyāsaṃ) [composed](samāhitaḥ)
 
 ## mukta-m0-p95-v2366
-[from-a-month](māsāt) [arises](utpadyate) [yoga](yogaḥ) [three](tri)+[junctures](sandhyaṃ) [who](yaḥ) [but](tu) [meditates](cintayet)
+[from+month](māsāt) [arises](utpadyate) [yoga](yogaḥ) [three+sandhyā](trisandhyaṃ) [who](yaḥ) [tu](tu) [meditates](cintayet)
 
 ## mukta-m0-p95-v2367
-[all](sarvaṃ) [accomplishes](saṃpādayati) [this-one](eṣa) [of-the-world](lokasya) [indeed](eva) [benefit](hita)+[harm](ahitam)
+[all](sarvaṃ) [accomplishes](saṃpādayati) [this](eṣa) [world's](lokasya) [indeed](eva) [benefit+harm](hitāhitam)
 
 ## mukta-m0-p95-v2368
-[of-the-three](trai)+[worlds](lokyasya) [but](tu) [events](vṛttāntaṃ) [he-tells](kathayet) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[three+worlds](trailokyasya) [tu](tu) [account](vṛttāntaṃ) [would-tell](kathayet) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p95-v2369
-[goes](gacchate) [not](na) [here](atra) [doubt](sandehaḥ) [practitioner](sādhakaḥ) [well](su)+[concentrated](samāhitaḥ)
+[goes](gacchate) [not](na) [here](atra) [doubt](sandehaḥ) [adept](sādhakaḥ) [well-composed](susamāhitaḥ)
 
 ## mukta-m0-p95-v2370
-[succeeds](siddhyate) [not](na) [here](atra) [doubt](sandehaḥ) [of-the-yogin](yoginaḥ) [but](tu) [not](na) [doubt](saṃśayaḥ)
+[accomplished](siddhyate) [not](na) [here](atra) [doubt](sandehaḥ) [yogin's](yoginaḥ) [tu](tu) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p95-v2371
-[sky](ākāśa)+[going](gamanaṃ) [and](ca) [indeed](eva) [staff](daṇḍa)+[stick](kāṣṭha)+[purifier](pavitrakam)
+[sky-going](ākāśagamanaṃ) [and+indeed](caiva) [staff+wood+purifier](daṇḍakāṣṭhapavitrakam)
 
 ## mukta-m0-p95-v2372
-[having-known](jñātvā) [nyāsa](nyāsam) [this](idaṃ) [o-goddess](devi) [other](anyat) [arrangement](vinyāsam) [like-straw](palāla)+[vat](vat)
+[knowing](jñātvā) [nyāsa](nyāsam) [this](idaṃ) [goddess](devi) [arrangement](vinyāsam) [other](anyat) [straw-like](palālavat)
 
 ## mukta-m0-p95-v2373
-[self](ātmā) [indeed](hi) [here](atra) [indeed](eva) [to-be-known](jñātavyaḥ) [gods](devāḥ) [and](ca) [indeed](eva) [especially](viśeṣataḥ)
+[self](ātmā) [indeed](hi) [here](atra) [eva](eva) [to-be-known](jñātavyaḥ) [gods](devāḥ) [ca+indeed](caiva) [especially](viśeṣataḥ)
 
 ## mukta-m0-p95-v2374
-[of-the-practitioner](sādhakasya) [and](ca) [to-be-given](dātavyam) [of-the-teacher](ācāryasya) [likewise](tathā) [indeed](eva) [and](ca)
+[adept's](sādhakasya) [ca](ca) [to-be-given](dātavyam) [teacher's](ācāryasya) [tathaiva](tathaiva) [ca](ca)
 
 ## mukta-m0-p95-v2375
-[five](pañca)+[brahma](brahma)+[īśa](īśa)+[limbs](vāṅgānāṃ) [forms](rūpāṇi) [tell](kathayasva) [to-me](me)
+[five+brahma+īśa+limbs](pañcabrahmeśavāṅgānāṃ) [forms](rūpāṇi) [tell](kathayasva) [me](me)

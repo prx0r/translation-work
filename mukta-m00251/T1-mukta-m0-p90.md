@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[sun-disk](sūrya) + [circle](maṇḍala) + [placement](vinyāsam) [in-the-beginning](ādau) [indeed](eva) [one-should-contemplate](vicintayet)
+[sun-orb-placement](sūryamaṇḍalavinyāsam) [first](ādau) [indeed](eva) [should-contemplate](vicintayet)
 
 ## mukta-m0-p90-v2227
-[Brahmā](brahmā) [Viṣṇu](viṣṇuḥ) [and](ca) [Rudra](rudraḥ) [and](ca) [likewise](tathā) [Īśvara](ca+īśvaraḥ) [indeed](eva) [and](ca)
+[brahma](brahmā) [and-viṣṇu](viṣṇu+ca) [and-rudra](rudra+ca) [thus](tathā) [īśvara](īśvara) [indeed](eva) [and](ca)
 
 ## mukta-m0-p90-v2228
-[Nivṛtti](nivṛttiḥ) [and](ca) [Pratiṣṭhā](pratiṣṭhā) [and](ca) [Vidyā](vidyā) [Śānti](śāntiḥ) [likewise](tathā) [indeed](eva) [and](ca)
+[withdrawal](nivṛtti) [and](ca) [establishment](pratiṣṭhā) [and](ca) [knowledge-peace](vidyā+śānti) [thus-indeed](tathā+eva) [and](ca)
 
 ## mukta-m0-p90-v2229
-[subtle](sūkṣmā) [by-name](nāma) [kalā](kalā) [which](yā) [indeed](tu) [that](su) [subtle](sūkṣmā) [and](ca) [second](dvitīyakā)
+[subtle](sūkṣmā) [named](nāma) [kalā](kalā) [which](yā) [indeed](tu) [very](su) [subtle](sūkṣmā) [and](ca) [second](dvitīyakā)
 
 ## mukta-m0-p90-v2230
-[of-this](asya) [five](pañca) [and](ca) [O-goddess](deveśi) [one-should-place](vinyaset) [with-Śakti](śakti-vat) [always](sadā)
+[of-this](asya) [five](pañca) [and](ca) [goddess](deveśi) [should-place](vinyaset) [with-śakti](śakti+vat) [always](sadā)
 
 ## mukta-m0-p90-v2231
-[by-you](tattvayā) [known](viditam) [O-goddess](devi) [what](kim) [other](anyat) [shall-I-tell](kathayāmi) [to-you](te)
+[by-tattva](tattvayā) [known](viditaṃ) [goddess](devi) [what-else](kim+anyat) [shall-i-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p90-v2232
-[known](viditam) [by-you](tattvayā) [O-goddess](devi) [or](vā) [is-there](asti) [principle](tatvam) [beyond-this](ataḥ) [higher](param)
+[known](viditaṃ) [by-tattva](tattvayā) [goddess](devi) [or](vā) [is](asti) [tattva](tattvam) [from-this](ataḥ) [beyond](param)
 
 ## mukta-m0-p90-v2233
-[ninefold-self](navātmakam) [one-should-place](nyaset) [first](pūrvam) [separately](bhinna) + [one-by-one](ekaikam) [no](na) [doubt](saṃśayaḥ)
+[nine-formed](navātmakaṃ) [should-place](nyaset) [first](pūrvaṃ) [separate-one-by-one](bhinna+eka+ekaṃ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p90-v2234
-[whole](sakalam) [on-right-thumb](dakṣiṇa) + [aṅguṣṭhe](aṅguṣṭhe) [the-rest](śeṣam) [as-before](pūrvam) [one-should-perform](samācaret)
+[whole](sakalaṃ) [right-thumb](dakṣiṇāṅguṣṭhe) [remainder](śeṣaṃ) [first](pūrvaṃ) [should-do](samācaret)
 
 ## mukta-m0-p90-v2235
-[three-principles](tri) + [tatvam](tatvam) [first](pūrvam) [having-placed](vinyasya) [Śiva](śivam) [afterwards](paścāt) [indeed](tu) [one-should-place](vinyaset)
+[three-tattva](tritatvaṃ) [first](pūrvaṃ) [placing](vinyasya) [śiva](śivaṃ) [afterwards](paścāt) [then](tu) [should-place](vinyaset)
 
 ## mukta-m0-p90-v2236
-[by-that](tena) [all](sarvam) [this](idam) [to-be-done](kāryam) [worship](arcanam) [sprinkling](prokṣaṇam) [likewise](tathā)
+[by-that](tena) [all](sarvam) [this](idaṃ) [work](kāryam) [worship](arcanaṃ) [sprinkling](prokṣaṇaṃ) [thus](tathā)
 
 ## mukta-m0-p90-v2237
-[first](prathamam) [hand-placement](kara) + [vinyāsam](vinyāsam) [not](na) [by-us](ca+asmānam) [declared](prakīrtitam)
+[first](prathamaṃ) [hand-placement](karavinyāsaṃ) [not](na) [indeed](ca) [to-us](asmānaṃ) [declared](prakīrtitam)
 
 ## mukta-m0-p90-v2238
-[ninefold-self](navātmānam) [third](tṛtīyam) [indeed](tu) [its-divisions](tat) + [bhinnam](bhinnam) [indeed](tu) [fourth](caturthakam)
+[nine-self](navātmānaṃ) [third](tṛtīyantu) [that-different](tad+bhinnantu) [fourth](caturthakam)
 
 ## mukta-m0-p90-v2239
-[thirteenfold](trayodaśam) [supreme](param) [O-goddess](devi) [all-diseases](sarva) + [vyādhi](vyādhi) [established](vyavasthitam)
+[thirteenth](trayodaśaṃ) [supreme](paraṃ) [goddess](devi) [all-diseases](sarva+vyādhi) [established](vyavasthitam)
 
 ## mukta-m0-p90-v2240
-[thirteenfold-self](trayodaśa) + [ātma](ātma) + [presence](sānnidhyam) [if](yadi) [should-be](syāt) [of-the-knower-of-truth](tatva) + [vedinaḥ](vedinaḥ)
+[thirteenth-self-presence](trayodaśātma+sānnidhyaṃ) [if](yadi) [be](syāt) [tattva-knower](tattva+vedinaḥ)
 
 ## mukta-m0-p90-v2241
-[by-speech](vacasā) [he-performs](kurute) [initiation](dīkṣām) [by-sight](cakṣuṣā) [and](ca) [no](na) [doubt](saṃśayaḥ)
+[by-speech](vacasā) [does](kurute) [initiation](dīkṣāṃ) [by-eye](cakṣuṣā) [and](ca) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p90-v2242
-[from-sight](darśanāt) [prior-splendor](pūrva) + [tejaḥ](tejaḥ) [indeed](tu) [by-speech](vacasā) [and](ca) [no](na) [doubt](saṃśayaḥ)
+[by-sight](darśanāt) [before-tejas](pūrva+tejas) [indeed](tu) [by-speech](vacasā) [and](ca) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p90-v2243
-[placement](nyāse) [being-done](kṛte) [indeed](tu) [O-goddess](deveśi) [capable](samarthaḥ) [in-all-rites](sarva) + [karmasu](karmasu)
+[placement](nyāse) [done](kṛte) [indeed](tu) [goddess](deveśi) [capable](samarthaḥ) [all-works](sarva+karmasu)
 
 ## mukta-m0-p90-v2244
-[one](ekaḥ) [even](api) [who](yaḥ) [knows](vijānāti) [is-liberated](mucyate) [and](ca) [no](na) [doubt](saṃśayaḥ)
+[one](eko) [also](api) [who](yo) [knows](vijānāti) [is-liberated](mucyate) [and](ca) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p90-v2245
-[not](na) [is-stained](lipyate) [by-merit-and-sin](puṇya) + [pāpaiḥ](pāpaiḥ) [of-his-own-teacher](sva) + [ācāryasya](ācāryasya) [also](api) [liberator](mocakaḥ)
+[not](na) [is-stained](lipyate) [by-merit-sin](puṇya+pāpaiḥ) [of-teacher](svācāryasya) [also](api) [liberator](mocakaḥ)
 
 ## mukta-m0-p90-v2246
-[to-the-teacher](ācāryāya) [indeed](tu) [to-be-given](dātavyam) [to-the-consecrated](abhiṣiktāya) [to-the-wise](dhīmate)
+[to-teacher](ācāryāya) [indeed](tu) [should-be-given](dātavyam) [consecrated](abhiṣiktāya) [wise](dhīmate)
 
 ## mukta-m0-p90-v2247
-[common-to-all-scriptures](sarva) + [saṃhitā](saṃhitā) + [sāmānyam](sāmānyam) [to-be-known](jñātavyam) [by-the-teacher](deśikena) [indeed](tu)
+[all-tantra-common](sarva+saṃhita+sāmānyaṃ) [to-be-known](jñātavyaṃ) [by-teacher](deśikena) [indeed](tu)
 
 ## mukta-m0-p90-v2248
-[they-are-liberated](mucyante) [by-the-sight](darśanāt) [of-him](tasya) [of-the-teacher](ācāryasya) [no](na) [doubt](saṃśayaḥ)
+[are-liberated](mucyante) [by-sight](darśanāt) [of-him](tasya) [teacher](ācāryasya) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p90-v2249
-[by-mere-sight-of-body](vapuḥ) + [darśana](darśana) + [mātreṇa](mātreṇa) [by-hearing](śravaṇena) [of-mantras](mantrāṇām) [indeed](tu)
+[body-sight](vapur+darśanam) [by-means](mātreṇa) [of-mantras](mantrāṇāṃ) [by-hearing](sravaṇena) [indeed](tu)
 
 ## mukta-m0-p90-v2250
-[by-the-word-fire](agni) + [śabdena](śabdena) [O-fair-hipped-one](suśroṇi) [by-the-word-noose](pāśa) + [śabdena](śabdena) [and](ca) [indeed](eva) [also](hi)
+[by-fire-word](agni+śabdena) [beautiful-hip](suśroṇi) [by-pāśa-word](pāśa+śabdena) [and-indeed](ca+eva) [hi](hi)

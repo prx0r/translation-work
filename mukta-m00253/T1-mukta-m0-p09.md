@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[of-twelfth](dvādaśasya) [of-position](padasya) [outside](bahiḥ) [which](yat) [vivitathā](vivitathā) [again](punam)
+[of-twelfth](dvādaśasya) [of-foot](padasya) [outside-false](bahiśyadvivitathā) [again](punam)
 
 ## mukta-m0-p09-v202
-[mantra](mantram) [is-uttered](uccāryate) [o-brahmin](vipra) [all](sarva) [desires](kāmān) [one-obtains](avāpnuyāt)
+[mantra](mantram) [is-recited](uccāryate) [brahmin](vipra) [all-desires](sarvakāmān) [obtains](avāpnuyāt)
 
 ## mukta-m0-p09-v203
-[śiva](śiva) [viṣṇu](viṣṇu) [mounted-together](samārūḍham) [śiva](śiva) [mantra](mantram) [here](iha) [is-spoken](ucyate)
+[shiva-vishnu-mounted](śivaviṣṇusamārūḍhaṃ) [shiva-mantra](śivamantram) [here](iha) [is-said](ucyate)
 
 ## mukta-m0-p09-v204
-[vyomaḥ](vyomaḥ) [ca](ca) [rūpāḥ](rūpāḥ) [ca](ca) [vaḥ](vaḥ) [ca](ca) [evam](evaṃ) [rūpāyaḥ](rūpāyaḥ) [va](va) [ta](ta) [eva](eva) [ca](ca)
+[sky](vyoma) [and](ca) [form](rūpa) [and](ca) [thus](vaścaivaṃ) [form](rūpāya) [horse](aśvata) [indeed](eva) [and](ca)
 
 ## mukta-m0-p09-v205
-[taḥ](taḥ) [ca](ca) [yaḥ](yaḥ) [ca](ca) [eva](eva) [dhvāyaḥ](dhvāyaḥ) [ca](ca) [pukamaḥ](pukamaḥ) [va](va) [dṛdṛmaḥ](dṛdṛmaḥ) [ca](ca) [ca](ca)
+[that](taśca) [and](ca) [which](yaścaiva) [sound](dhvāyaśca) [pukama](pukamaśvadṛdṛmaśca) [and](ca)
 
 ## mukta-m0-p09-v206
-[daḥ](daḥ) [ca](ca) [pāḥ](pāḥ) [ca](ca) [vineraḥ](vineraḥ) [ca](ca) [neḥ](neḥ) [ca](ca) [miḥ](miḥ) [ca](ca) [na](na) [eva](eva) [ca](ca)
+[da](daśca) [pa](pāśca) [vinera](vineraśca) [ne](neśca) [mi](miśca) [na](na) [indeed](eva) [and](ca)
 
 ## mukta-m0-p09-v207
-[thus](evaṃ) [in-order](krameṇa) [o-best-of-brahmins](vipra+indra) [should-place](vinyaset) [astra](astra) [mantra-knower](mantra+vit)
+[thus](evaṃ) [in-order](krameṇa) [best-brahmin](viprendra) [place](vinyased) [weapon-mantra](astramantravit)
 
 ## mukta-m0-p09-v208
-[niścayaḥ](niścayaḥ) [ca](ca) [gīpaḥ](gīpaḥ) [ca](ca) [eva](eva) [tumaguḥ](tumaguḥ) [ca](ca) [jātaḥ](jātaḥ) [ca](ca) [bhāḥ](bhāḥ) [ca](ca) [ta](ta)
+[certainty](niścayaśca) [gīpa](gīpaścaiva) [tumagu](tumaguśca) [born](jātaśca) [bhā](bhāśca) [ta](ta)
 
 ## mukta-m0-p09-v209
-[vyoḥ](vyoḥ) [ca](ca) [ca](ca) [eva](eva) [ye](ye) [yoḥ](yoḥ) [ca](ca) [omaḥ](omaḥ) [ca](ca) [dhaḥ](dhaḥ) [ca](ca) [eva](eva) [ca](ca)
+[vyo](vyoścaścaiva) [ye](ye) [yo](yośca) [om](omaśca) [dha](dhaśca) [indeed](eva) [and](ca)
 
 ## mukta-m0-p09-v210
-[viḥ](viḥ) [ca](ca) [sarva](sarva) [oṃ](oṃ) [bhraḥ](bhraḥ) [ca](ca) [jaḥ](jaḥ) [ca](ca) [idīriḥ](idīriḥ) [ca](ca) [vāyaniḥ](vāyaniḥ) [ca](ca)
+[vi](viśca) [all](sarva) [om](oṃ) [bhra](bhraśca) [ja](jaśced) [īri](īriśca) [vāyani](vāyaniśca)
 
 ## mukta-m0-p09-v211
-[thus](evaṃ) [in-order](krameṇa) [placement](vinyāsam) [all](sarva) [desires](kāmān) [one-obtains](avāpnuyāt)
+[thus](evaṃ) [in-order](krameṇa) [placement](vinyāsaṃ) [all-desires](sarvakāmān) [obtains](avāpnuyāt)
 
 ## mukta-m0-p09-v212
-[with-agastya](agastyena) [joined](samāyuktam) [with-bṛhatī-metre](bṛhatī+chandasā) [endowed](yutam)
+[by-agastya](agastyena) [joined](samāyuktaṃ) [bṛhatī-meter](bṛhatīcchandasā) [endowed](yutam)
 
 ## mukta-m0-p09-v213
-[with-vasiṣṭha](vasiṣṭhena) [joined](samāyuktam) [with-prakṛti-metre](prakṛti+chandasā) [endowed](yutam)
+[by-vasishtha](vasiṣṭhena) [joined](samāyuktaṃ) [prakriti-meter](prakṛticchandasā) [endowed](yutam)
 
 ## mukta-m0-p09-v214
-[of-teacher](ācāryasya) [indeed](tu) [of-seed](bījasya) [sage](ṛṣi) [metre](chandaḥ) [deity](devatā)
+[of-teacher](ācāryasya) [indeed](tu) [seed](bījasya) [seer-meter-deity](ṛṣicchando+devatā)
 
 ## mukta-m0-p09-v215
-[with-atri](atriṇā) [and](ca) [joined](samāyuktam) [in-five-faces](paṃca+vaktreṣu) [initiated](dīkṣitāḥ)
+[by-atri](atriṇā) [and](ca) [joined](samāyuktaṃ) [five-faced](paṃcavaktreṣu) [initiated](dīkṣitāḥ)
 
 ## mukta-m0-p09-v216
-[jagatī](jagatī) [śakvarī](śakvarī) [and](ca) [indeed](eva) [anuṣṭubh](anuṣṭubh) [triṣṭubh](triṣṭubh) [indeed](eva) [and](ca)
+[jagatī](jagatī) [śakvarī](śakvarī) [and](ca) [indeed](eva) [anuṣṭubh-triṣṭubh](anuṣṭubtriṣṭubheva) [and](ca)
 
 ## mukta-m0-p09-v217
-[in-āgama](āgame) [indeed](eva) [and](tu) [seeds](bījāni) [I-shall-declare](pravakṣyāmi) [in-due-order](anupūrvaśaḥ)
+[in-āgama](āgameva) [indeed](tu) [seeds](bījāni) [will-declare](pravakṣyāmyanupūrvaśaḥ)
 
 ## mukta-m0-p09-v218
-[*](*) [*](*) [*](*) [*](*) [second](dvitīyam) [indeed](tu) [with-bindu](bindu) [nāda](nāda) [adorned](vibhūṣitam)
+[second](dvitīyaṃ) [indeed](tu) [bindu-nāda-ornamented](bindunādavibhūṣitam)
 
 ## mukta-m0-p09-v219
-[of-seventh](saptamasya) [beginning](ādi) [joined](saṃyuktam) [with-thirteenth](trayodaśa) [united](samanvitam)
+[of-seventh-beginning-joined](saptamasyādisaṃyuktaṃ) [thirteen](trayodaśa) [endowed](samanvitam)
 
 ## mukta-m0-p09-v220
-[of-third](tṛtīyasya) [beginning](ādimam) [having-taken](gṛhya) [of-seventh](saptamasya) [third](tṛtīyakam)
+[of-third-beginning](tṛtīyasyādimaṃ) [taking](gṛhya) [of-seventh-third](saptamasya+tṛtīyakam)
 
 ## mukta-m0-p09-v221
-[to-be-contemplated](cintya) [syllable](akṣaram) [this](idam) [declared](proktam) [of-second](dvitīyasya) [beginning](ādi) [joined](saṃyutam)
+[thought-syllable](cintyākṣaram) [this](idaṃ) [said](proktaṃ) [of-second-beginning-joined](dvitīyasyādisaṃyutam)
 
 ## mukta-m0-p09-v222
-[named-kāraṇa](kāraṇa+ākhyam) [this](idam) [declared](proktam) [of-first](prathamasya) [beginning](ādi) [joined](saṃyutam)
+[cause-named](kāraṇākhyam) [this](idaṃ) [said](proktaṃ) [of-first-beginning-joined](prathamasyādi+saṃyutam)
 
 ## mukta-m0-p09-v223
-[with-bindu](bindu) [nāda](nāda) [joined](samāyuktam) [ajita-syllable](ajita+akṣaram) [is-called](ucyate)
+[bindu-nāda-joined](bindunādasamāyuktam) [unconquered-syllable](ajitākṣaram) [is-said](ucyate)
 
 ## mukta-m0-p09-v224
-[with-twelfth-syllable](dvādaśa+akṣara) [joined](saṃyuktam) [with-bindu](bindu) [nāda](nāda) [united](samanvitam)
+[twelve-syllable-joined](dvādaśākṣarasaṃyuktaṃ) [bindu-nāda-endowed](bindunādasamanvitam)
 
 ## mukta-m0-p09-v225
-[with-twelve-vowels](dvādaśa+svara) [joined](saṃyuktam) [with-bindu](bindu) [nāda](nāda) [united](samanvitam)
+[twelve-vowel-joined](dvādaśa+svara+saṃyuktaṃ) [bindu-nāda-endowed](bindunādasamanvitam)

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p71",
  "verse": 1762,
- "question": "Into what alternative sets of parts may the breadth of the main shrine be divided?",
+ "question": "What lifeless things are listed as possible loci?",
  "premises": [
-  "The breadth of the main shrine is considered.",
-  "It may be divided into four parts.",
-  "It may be divided into five or six parts."
+  "Lifeless wood-clod is named.",
+  "Gravel is named.",
+  "Grass is named."
  ],
- "inference": "The main shrine's breadth may be divided into four, five, or six parts.",
- "uncertainties": [],
- "plain_english": "The breadth of the main shrine may be divided into four, five, or six parts."
+ "inference": "The verse enumerates lifeless substrates.",
+ "uncertainties": [
+  "The sentence is incomplete without the next verse."
+ ],
+ "plain_english": "In lifeless wood-clod, or gravel, or even grass."
 }

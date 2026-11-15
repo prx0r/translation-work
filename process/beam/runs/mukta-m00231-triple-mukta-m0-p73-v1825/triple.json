@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "unmukhyāśca",
+     "gloss": "principal-and",
+     "grounds": "unmukhya (principal) + ca (and) in sandhi",
+     "morph": "fem.nom.sg + indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "passive participle feminine nominative singular",
+     "morph": "fem.nom.sg.pass.part"
+    },
+    {
+     "surface": "mokṣadā",
+     "gloss": "liberation-giving",
+     "grounds": "compound of mokṣa and dā",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "mālikā",
+     "gloss": "garland",
+     "grounds": "feminine nominative singular",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "root bhū optative third singular",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Which mālikā is known as principal and liberation-giving?",
+   "premises": [
+    "principal mālikā is known",
+    "liberation-giving mālikā becomes",
+    "likewise principal mālikā applies"
+   ],
+   "inference": "The principal mālikā gives liberation.",
+   "uncertainties": [
+    "exact sandhi split of unmukhyāśca",
+    "precise force of bhavet"
+   ],
+   "plain_english": "The principal and likewise known mālikā becomes liberation-giving."
+  }
+ ]
+}

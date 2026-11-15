@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p67",
  "verse": 1657,
- "question": "What happens after battle fatigue is reached at night?",
+ "question": "Is there fault for adepts who know the clan when fruit falls?",
  "premises": [
-  "battle fatigue is reached",
-  "night is the time"
+  "Adepts know the clan.",
+  "There is no fault.",
+  "The context is fruit falling."
  ],
- "inference": "the verse states that rest will come",
+ "inference": "The verse denies fault for clan-knowing adepts in fruit falling.",
  "uncertainties": [
-  "internal sandhi"
+  "The exact ritual consequence of fruit falling is not explained."
  ],
- "plain_english": "Having reached battle fatigue, at night he will come to rest."
+ "plain_english": "For adepts who know the clan, there is no fault in fruit falling."
 }

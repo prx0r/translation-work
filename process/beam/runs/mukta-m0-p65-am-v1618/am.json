@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p65",
  "verse": 1618,
- "question": "Which chapter of the Aṃśumatkāśyapa concludes with the rules on enclosure characteristics?",
+ "question": "What separate ritual elements are listed for distinct treatment?",
  "premises": [
-  "The text is identified as the Aṃśumatkāśyapa.",
-  "The chapter concerns the rules for enclosure characteristics.",
-  "The chapter is numbered forty-second."
+  "Place is separate.",
+  "Meditation is separate.",
+  "Worship is separate.",
+  "Praise is separate."
  ],
- "inference": "This concludes the forty-second chapter on the rules for enclosure characteristics in the Aṃśumatkāśyapa.",
- "uncertainties": [],
- "plain_english": "Thus ends the forty-second chapter, on the rules for the characteristics of enclosures, in the Aṃśumatkāśyapa."
+ "inference": "The verse enumerates separate place, meditation, worship, and praise.",
+ "uncertainties": [
+  "The reason for separation is not stated."
+ ],
+ "plain_english": "Separate place, separate meditation, separate worship, separate praise."
 }

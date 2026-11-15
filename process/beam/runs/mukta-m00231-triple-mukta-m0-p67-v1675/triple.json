@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1675,
+   "rows": [
+    {
+     "surface": "arghyapātraṃ",
+     "gloss": "offering-vessel",
+     "grounds": "offering vessel as accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb indicating threefold division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund of making",
+     "morph": "gerund"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "dative recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "caikabhāgakam",
+     "gloss": "one-part",
+     "grounds": "fused ca + ekabhāgakam, one portion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the offering vessel be divided and presented to the guru?",
+   "premises": [
+    "offering vessel is divided threefold",
+    "one portion is assigned to guru",
+    "the rite specifies vessel presentation"
+   ],
+   "inference": "The threefold offering vessel is made and one part is given to the guru.",
+   "uncertainties": [
+    "caikabhāgakam is parsed as fused ca + ekabhāgakam without independent verification"
+   ],
+   "plain_english": "Having made the offering vessel threefold, one part is given to the guru."
+  }
+ ]
+}

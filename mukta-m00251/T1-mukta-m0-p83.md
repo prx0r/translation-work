@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-ū-syllable(ūkāraṃ) in-the-west(paścimena) indeed(eva) with-sky-seed-above(vyoma+bīja+uttareṇa) and(tu)
+[ū-kāraṃ](ūkāraṃ) [paścimena](paścimena) [eva](eva) [vyoma-bīja-uttareṇa](vyomabījottareṇa) [tu](tu)
 
 ## mukta-m0-p83-v2052
-vyā-seed(vyā+bījaṃ) in-the-wind-region(vāyu+deśe) and(tu) bī-seed(bī) seed(bījaṃ) in-the-southwest(nai-ṛtena) and(tu)
+[vyā-bījaṃ](vyābījaṃ) [vāyu-deśe](vāyudeśe) [tu](tu) [bī](bī) [bījaṃ](bījaṃ) [nai-ṛtena](nai-ṛtena) [tu](tu)
 
 ## mukta-m0-p83-v2053
-by-that(tena) indeed(eva) at-the-time-of-meditation(dhyāna+kāle) and(tu) placement(vinyāsaṃ) is-declared(parikīrtitam)
+[tena+eva](tenaiva) [dhyāna-kāle](dhyānakāle) [tu](tu) [vinyāsaṃ](vinyāsaṃ) [pari-kīrtitam](parikīrtitam)
 
 ## mukta-m0-p83-v2054
-stationary(sthāvaraṃ) and(ca) moving(jaṅgamam) indeed(eva) egg-born(aṇḍajaṃ) sweat-born(svedajaṃ) likewise(tathā)
+[sthāvaraṃ](sthāvaraṃ) [jaṅgamaṃ+ca+eva](jaṅgamañcaiva) [aṇḍa-jaṃ](aṇḍajaṃ) [sveda-jaṃ](svedajaṃ) [tathā](tathā)
 
 ## mukta-m0-p83-v2055
-harmful-beings(hiṃsakāḥ) of-him(tasya) evil-souled(duṣṭa+ātmā) having-seen(dṛṣṭvā) that(tāṃ) should-contemplate(cintayet) the-wise(budhaḥ)
+[hiṃsakāḥ](hiṃsakāḥ) [tasya](tasya) [duṣṭa-ātmā](duṣṭātmā) [dṛṣṭvā](dṛṣṭvā) [tāṃ](tāṃ) [cintayed-budhaḥ](cintayedbudhaḥ)
 
 ## mukta-m0-p83-v2056
-them(tān) all(sarvān) should-contemplate(cintayet) O-goddess(devi) of-the-evil-natured-being(duṣṭa+satvasya) of-the-yogin(yoginaḥ)
+[tān](tān) [sarvān](sarvān) [cintayed-devi](cintayeddevi) [duṣṭa-satvasya](duṣṭasatvasya) [yoginaḥ](yoginaḥ)
 
 ## mukta-m0-p83-v2057
-thus(evam) merely-by-being-contemplated(cintita+mātrāḥ) and(tu) to-peace(praśamaṃ) go(yānti) they(te) O-auspicious-one(śubhe)
+[evaṃ-cintita-mātrāḥ+tu](evañcintitamātrāstu) [praśamaṃ](praśamaṃ) [yānti](yānti) [te](te) [śubhe](śubhe)
 
 ## mukta-m0-p83-v2058
-not(na) they(te) harm(hiṃsanti) the-evil-souled(pāpa+ātmā) Śiva(śivaṃ) having-seen(dṛṣṭvā) to-equality(samaṃ) went(yayuḥ)
+[na](na) [te](te) [hiṃsanti](hiṃsanti) [pāpa-ātmā](pāpātmā) [śivaṃ](śivaṃ) [dṛṣṭvā](dṛṣṭvā) [samaṃ](samaṃ) [yayuḥ](yayuḥ)
 
 ## mukta-m0-p83-v2059
-with-Śiva(śivena) having-become-one-in-essence(sama+rasaḥ) having-become(bhūtvā) devoted-to-meditation-and-yoga(dhyāna+yoga+parāyaṇaḥ)
+[śivena](śivena) [sama-rasaḥ](samaraso) [bhūtvā](bhūtvā) [dhyāna-yoga-parāyaṇaḥ](dhyānayogaparāyaṇaḥ)
 
 ## mukta-m0-p83-v2060
-that(tat) indeed(eva) that(tat) supreme(paraṃ) Brahman(brahma) in-every-state(sarva+bhāvena) established(saṃsthitam)
+[tad+eva](tadeva) [tat-paraṃ](tatparaṃ) [brahma](brahma) [sarva-bhāvena](sarvabhāvena) [saṃsthitam](saṃsthitam)
 
 ## mukta-m0-p83-v2061
-in-stationary-beings(sthāvareṣu) and(ca) in-all(sarveṣu) the-wise-one(dhīraḥ) everywhere(sarvatra) established(saṃsthitaḥ)
+[sthāvareṣu](sthāvareṣu) [ca](ca) [sarveṣu](sarveṣu) [dhīraḥ+sarvatra](dhīrassarvatra) [saṃsthitaḥ](saṃsthitaḥ)
 
 ## mukta-m0-p83-v2062
-that(tat) indeed(eva) that(tat) supreme(paraṃ) Brahman(brahma) to-be-known(veditavyaṃ) by-those-seeking-welfare(hita+eṣibhiḥ)
+[tad+eva](tadeva) [tat-paraṃ](tatparaṃ) [brahma](brahma) [veditavyaṃ](veditavyaṃ) [hita-aiṣibhiḥ](hitaiṣibhiḥ)
 
 ## mukta-m0-p83-v2063
-thus(evaṃ) having-become-one-in-essence(sama+rasaḥ) having-become(bhūtvā) enters(viśate) the-imperishable-Śiva(śivam) imperishable(avyayam)
+[evaṃ](evaṃ) [sama-rasaḥ](samaraso) [bhūtvā](bhūtvā) [viśate](viśate) [śivam](śivam) [avyayam](avyayam)
 
 ## mukta-m0-p83-v2064
-common-to-all-saṃhitās(sarva+saṃhitā+sāmānyaṃ) that(saḥ) and(tu) which(jaḥ) spoken-with-delight(juṣṭa+bhāṣitam)
+[sarva-saṃhita-sāmānyaṃ](sarvasaṃhitasāmānyaṃ) [sa](sa) [tu](tu) [jo](jo) [juṣṭa-bhāṣitam](juṣṭabhāṣitam)
 
 ## mukta-m0-p83-v2065
-they-are-accomplished(sidhyante) not(na) here(atra) doubt(sandehaḥ) one-is-liberated(mucyate) not(na) here(atra) uncertainty(saṃśayaḥ)
+[sidhyante](sidhyante) [na+atra](nātra) [sandehaḥ](sandeho) [mucyate](mucyate) [na+atra](nātra) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p83-v2066
-by-which(yena) merely-by-being-known(vijñāta+mātreṇa) one-is-liberated(mucyate) from-the-bondage-of-birth(janma+bandhanāt)
+[yena](yena) [vijñāta-mātreṇa](vijñātamātreṇa) [mucyate](mucyate) [janma-bandhanāt](janmabandhanāt)
 
 ## mukta-m0-p83-v2067
-upturned(uttānau) and(tu) hands(karau) having-made(kṛtvā) the-braid-bond(veṇī+bandham) and(tu) one-should-make(kārayet)
+[uttānau](uttānau) [tu](tu) [karau](karau) [kṛtvā](kṛtvā) [veṇī-bandham+tu](veṇībandhantu) [kārayet](kārayet)
 
 ## mukta-m0-p83-v2068
-endowed-with-the-formless(avyākāra+samāyuktaḥ) accompanied-by-the-form-of-space(vyoma+ākāra+samanvitaḥ)
+[avyākāra-samāyuktaḥ](avyākārasamāyukto) [vyoma-ākāra-samanvitaḥ](vyomākārasamanvitaḥ)
 
 ## mukta-m0-p83-v2069
-in-the-bent-fingers(kṛñcatau) and(tu) the-tuft(śikhā) to-be-known(jñeyā) causing-the-cutting-of-bonds(pāśa+ccheda+karī) of-men(nṛṇām)
+[kṛñcatau](kṛñcatau) [tu](tu) [śikhā](śikhā) [jñeyā](jñeyā) [pāśa-ccheda-karī](pāśacchedakarī) [nṛṇām](nṛṇām)
 
 ## mukta-m0-p83-v2070
-distinct(viśiṣṭa) the-heart(hṛdayaṃ) knowledge(vidyā) clenched(piṇḍitaḥ) armor(kavacaṃ) likewise(tathā)
+[viśiṣṭa](viśiṣṭa) [hṛdayaṃ](hṛdayaṃ) [vidyā](vidyā) [piṇḍitaḥ](piṇḍitaḥ) [kavacaṃ](kavacaṃ) [tathā](tathā)
 
 ## mukta-m0-p83-v2071
-this(etat) supreme-in-yoga(yoga+paraṃ) O-goddess(devi) renowned(vikhyātaṃ) to-you(tava) O-beautiful-one(śobhane)
+[etat-yoga-paraṃ](etadyogaparaṃ) [devi](devi) [vikhyātaṃ](vikhyātaṃ) [tava](tava) [śobhane](śobhane)
 
 ## mukta-m0-p83-v2072
-by-the-method-declared-in-the-Vedas(veda+ukta+vidhinā) O-goddess(devi) study(adhyayanaṃ) is-declared(samudāhṛtam)
+[veda-ukta-vidhinā](vedoktavidhinā) [devi](devi) [adhyayanaṃ](adhyayanaṃ) [samudāhṛtam](samudāhṛtam)
 
 ## mukta-m0-p83-v2073
-and-the-oblation(carukam) and(ca) O-great-god(mahādeva) and-the-cleansing-of-teeth(danta+dhāvanam) indeed(eva) and(ca)
+[carukaṃ+ca](carukañca) [mahādeva](mahādeva) [danta-dhāvanam](dantadhāvanam) [eva](eva) [ca](ca)
 
 ## mukta-m0-p83-v2074
-listen(śṛṇu) O-goddess(devi) the-supreme(paraṃ) secret(guhyaṃ) the-excellent-consecration(adhivāsanam) supreme(uttamam)
+[śṛṇu](śṛṇu) [devi](devi) [paraṃ](paraṃ) [guhyaṃ](guhyaṃ) [adhivāsanam](adhivāsanam) [uttamam](uttamam)
 
 ## mukta-m0-p83-v2075
-lunar-days(tithi) constellations(nakṣatra) weekdays(vārāṇi) and-omens(śākunāni) auspicious(śubhāni) and(tu)
+[tithi-nakṣatra-vārāṇi](tithinakṣatravārāṇi) [śākunāni](śākunāni) [śubhāni](śubhāni) [tu](tu)

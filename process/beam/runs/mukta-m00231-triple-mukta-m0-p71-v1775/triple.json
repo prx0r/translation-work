@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "bhāvair",
+     "gloss": "by-bhāvas",
+     "grounds": "instrumental plural of bhāva",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "bahuvidhaiḥ",
+     "gloss": "by-many-kinds",
+     "grounds": "instrumental plural adjective",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvastatrāpi",
+     "gloss": "bhāva-there-too",
+     "grounds": "nominative singular subject with fused tatra and api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "līyate",
+     "gloss": "dissolves",
+     "grounds": "middle voice present of root lī",
+     "morph": "3.sg.mid-pres root-lī"
+    }
+   ],
+   "question": "How does the all-self become directly perceived when bhāva dissolves through many bhāvas?",
+   "premises": [
+    "Many bhāvas are employed.",
+    "Bhāva there too dissolves.",
+    "All-self becomes directly perceived."
+   ],
+   "inference": "Dissolution of bhāva through many bhāvas leads to direct perception of all-self.",
+   "uncertainties": [
+    "Exact referent of bhāva and tatra remains context-dependent."
+   ],
+   "plain_english": "By many kinds of bhāvas, indeed, the bhāva there too dissolves."
+  }
+ ]
+}

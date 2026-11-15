@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-flax-flower+resemblance(atasīpuṣpasaṃkāśaṃ) lotus+flower+equal(padmapuṣpasamaṃ) should-be(bhavet)
+flax-flower-resembling + lotus-flower-equal + becomes
 
 ## mukta-m0-p08-v177
-red+lotus+joined(raktapaṃkajasaṃyuktaṃ) split+collyrium+equal+splendor(bhinnāñjanasamaprabham)
+red-lotus-joined + collyrium-equal-radiance
 
 ## mukta-m0-p08-v178
-syllable+of+beginning+joined(akṣarasyādisaṃyuktaṃ) drop(binduṃ) and(ca) indeed(eva) united(samāyutam)
+syllable-beginning-joined + bindu + and-indeed + together
 
 ## mukta-m0-p08-v179
-Śiva+Viṣṇu+mounted-upon(śivaviṣṇusamārūḍhaṃ) first(prathamaṃ) and(ca) in-eighth+group(aṣṭavargake)
+shiva-vishnu-mounted + first + and-in-octad
 
 ## mukta-m0-p08-v180
-of-first(prathamasya) eleventh(ekādaśaṃ) having-taken(gṛhya) Śiva+Viṣṇu+united(śivaviṣṇusamāyutam)
+first's-aka-taking + shiva-vishnu-joined
 
 ## mukta-m0-p08-v181
-of-fifth(paṃcamasya) first(prathamaṃ) should-be(syāt) second(dvitīyaṃ) of-seventh(saptamasya) and(ca)
+fifth's-first + may-be + second-of-seventh + and
 
 ## mukta-m0-p08-v182
-of-eighth(aṣṭamasya) beginning+united(ādisamāyuktaṃ) Māyā+fire+endowed-with(māyānalasamanvitam)
+eighth's-beginning-joined + maya-anala-endowed
 
 ## mukta-m0-p08-v183
-of-first(prathamasya) second(dvitīyaṃ) but(tu) bindu+nāda+endowed-with(bindunādasamanvitam)
+first's-second + indeed + bindu-nada-endowed
 
 ## mukta-m0-p08-v184
-Gaṇā(Gaṇā) Ambikā(ambikā) and(ca) Caṇḍeśa(caṇḍeśaḥ) Nandīśa(nandīśaḥ) and(ca) likewise(tathaiva) and(ca)
+gana-ambika + and + chandesh + nandish + and + so-indeed + and
 
 ## mukta-m0-p08-v185
-Bhṛṅgīśa(bhṛṃgīśaḥ) and(ca) Mahāsena(mahāsenaḥ) own+name+initial+syllables+joined-with(svanāmādyakṣarairyutam)
+bhiringish + and + mahasena + own-name-first-syllables-endowed
 
 ## mukta-m0-p08-v186
-Vāyu(vāyuḥ) Soma(somaḥ) and-likewise(tathā) Īśāna(īśānaḥ) Brahmā(brahmā) Viṣṇu(viṣṇuḥ) and(ca) joined(saṃyutam)
+vayu + soma + then + ishana + brahma + vishnu + and + joined
 
 ## mukta-m0-p08-v187
-thunderbolt(vajraṃ) spear(śaktiṃ) and(ca) staff(daṇḍaṃ) and(ca) sword(khaḍgaṃ) noose(pāśaṃ) and-likewise(tathā) goad(aṅkuśam)
+vajra + shakti + and + danda + and + khadga + pasha + so + ankusha
 
 ## mukta-m0-p08-v188
-own+name+initial+by-seed(svanāmādyena bījena) bindu+nāda+endowed-with(bindunādasamanvitam)
+own-name-first + seed + bindu-nada-endowed
 
 ## mukta-m0-p08-v189
-Śrīvatsa(śrīvatsaṃ) svastika(svastikaṃ) conch(śaṅkhaṃ) lamp(dīpaḥ) gods+eight+auspicious-marks(devāṣṭamaṃgalam)
+srivatsa + svastika + shankha + lamp + deva-eight-auspicious
 
 ## mukta-m0-p08-v190
-from-sixth+group(ṣaṣṭhavargāt) second(dvitīyaṃ) but(tu) with-fourth+beginning(caturthādyena) joined(saṃyutam)
+sixth-class-from-second + indeed + fourth-beginning-joined
 
 ## mukta-m0-p08-v191
-with-visarga(visargeṇa) united(samāyuktaṃ) Pāśupata+weapon(pāśupatāstram) is-called(ucyate)
+visarga-joined + pashupata-weapon-called
 
 ## mukta-m0-p08-v192
-bindu+nāda+united(bindunādasamāyuktam) teacher+seed(ācāryaṃ bījam) is-called(ucyate)
+bindu-nada-joined + acharya + seed-called
 
 ## mukta-m0-p08-v193
-of-mothers(mātrāṇāṃ) of-demons(rākṣasānāṃ) and(ca) * * * group(gaṇam) indeed(eva) and(ca)
+mothers + rakshasas + and + * + * + * + gana-indeed + and
 
 ## mukta-m0-p08-v194
-of-image-guardians(mūrtipānāṃ) and(ca) of-disciples(śiṣyāṇām) thus(evam) indeed(eva) in-order(krameṇa) but(tu)
+images + and + disciples + so-so + in-order + indeed
 
 ## mukta-m0-p08-v195
-ya-syllable+beginning+pair(yakārādidvayaṃ) group(vargaṃ) four+syllables(caturakṣaram) is-called(ucyate)
+ya-kara-beginning-pair + class + four-syllable-called
 
 ## mukta-m0-p08-v196
-Ananta+seat(anantāsanaṃ) that(tat) O-best-of-twice-born(viprendra) Yoga+seat(yogāsanaṃ) likewise(tathaiva) and(ca)
+ananta-seat + that + vipra-lord + yoga-seat + so-indeed + and
 
 ## mukta-m0-p08-v197
-Vimala+seat(vimalāsanaṃ) but(tu) O-best-of-twice-born(viprendra) own+name+initial+syllables+joined-with(svanāmādyakṣarairyutam)
+vimala-seat + indeed + vipra-lord + own-name-first-syllables-endowed
 
 ## mukta-m0-p08-v198
-fire+circle(āgneyamaṇḍalaṃ) and(ca) indeed(eva) one-should-place(vinyaset) but(tu) especially(viśeṣataḥ)
+agni-mandala + and-indeed + place + indeed + especially
 
 ## mukta-m0-p08-v199
-principle+circle(tatvāmaṇḍalam) indeed(eva) declared(evoktaṃ) own+name+initial+syllables+joined-with(svanāmādyakṣarairyutam)
+tattva-mandala-indeed-said + own-name-first-syllables-endowed
 
 ## mukta-m0-p08-v200
-Vyomavyāpin(vyomavyāpi) great+mantra(mahāmantraṃ) ninety-six+syllables+joined-with(ṣaṇṇavatyakṣarairyutam)
+sky-pervading + great-mantra + ninety-six-syllables-endowed

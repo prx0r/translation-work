@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[at-that-moment](tatkṣaṇāt)+[o-goddess](devi) [one-should-see](paśyeta) [practice](prayogam)+[this](idam)+[supreme](uttamam)
+[at-that-moment+goddess](tatkṣaṇāddevi) [see](paśyeta) [practice](prayogam) [this](idam) [excellent](uttamam)
 
 ## mukta-m0-p82-v2027
-[parts](kalāḥ)+[four](catasraḥ)+[together](saṃ) [one-should-see](paśyet) [blazing](jvalantaṃ) [lamp](dīpa)+[born](saṃbhavam)
+[four+arts](kalāścatasrassaṃ) [see](paśyet) [blazing](jvalantaṃ) [lamp-born](dīpasaṃbhavam)
 
 ## mukta-m0-p82-v2028
-[middle](madhya)+[region](deśe) [indeed](tu) [what](yat)+[touched](spṛṣṭam)+[of-both](ubhayor)+[also](api) [one-sees](paśyati)
+[middle+region](madhyadeśe) [but](tu) [what+touched](yatspṛṣṭam) [of-both](ubhayorapi) [see](paśyati)
 
 ## mukta-m0-p82-v2029
-[of-all](sarveṣām)+[indeed](eva) [of-yogas](yogānāṃ) [meditation](dhyāna)+[yoga](yoga)+[fruit](phalaṃ) [hear](śṛṇu)
+[of-all](sarveṣāmeva) [of-yogas](yogānāṃ) [of-meditation-yoga+fruit](dhyānayogaphalaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p82-v2030
-[divine](divya)+[non-divine](adivyaṃ)+[and](ca) [whatever](yat)+[anything](kiñcit) [all](sarvaṃ) [one-sees](paśyati) [not](na)+[otherwise](anyathā)
+[divine+non-divine](divyādivyañca) [whatever](yatkiñcit) [all](sarvaṃ) [see](paśyati) [not+otherwise](nānyathā)
 
 ## mukta-m0-p82-v2031
-[one-should-rise](uttiṣṭhe) [and](ca)+[in-disappearance](antardhāne) [and](ca) [in-arrow](bādala)+[ointment](lepa)+[collyrium](añjane) [likewise](tathā)
+[rising](uttiṣṭhe) [and](ca) [disappearance](antardhāne) [and](ca) [ointment+collyrium](bādalepāñjane) [thus](tathā)
 
 ## mukta-m0-p82-v2032
-[this](etat)+[o-goddess](devi) [declared](samākhyātaṃ) [practice](prayoga)+[nectar](amṛtam)+[supreme](uttamam)
+[this](etaddevi) [goddess](devi) [declared](samākhyātaṃ) [practice-nectar+excellent](prayogāmṛtamuttamam)
 
 ## mukta-m0-p82-v2033
-[other](anya)+[tantra](tantra)+[knowers](vidāḥ) [who](ye) [indeed](tu) [proper](yukta)+[improper](ayukta)+[investigators](vicārakāḥ)
+[other+tantra-knowers](anyatantravidā) [who](ye) [tu](tu) [fit+unfit+examiners](yuktāyuktavicārakāḥ)
 
 ## mukta-m0-p82-v2034
-[not](na) [by-them](taiḥ)+[o-goddess](devi) [this](idaṃ) [knowledge](jñānaṃ) [knowledge](jñāna)+[essence](sadbhāvam)+[supreme](uttamam)
+[not](na) [by-them](tairdevi) [goddess](devi) [this](idaṃ) [knowledge](jñānaṃ) [knowledge+true-being+excellent](jñānasadbhāvamuttamam)
 
 ## mukta-m0-p82-v2035
-[swan](haṃsa)+[yoga](yogam)+[this](idaṃ) [o-goddess](devi) [told](kathitaṃ) [method](vidhi)+[in-detail](vistarāt)
+[haṃsa-yoga](haṃsayogamidaṃ) [this](idaṃ) [goddess](devi) [told](kathitaṃ) [rite+detail](vidhivistarāt)
 
 ## mukta-m0-p82-v2036
-[of-three](trayāṇāṃ) [of-deities](devatānāṃ)+[and](ca) [vision](darśanaṃ) [there](tatra) [o-well-vowed-one](suvṛte)
+[of-three](trayāṇāṃ) [of-deities](devatānāñca) [vision](darśanaṃ) [there](tatra) [well-performed](suvṛte)
 
 ## mukta-m0-p82-v2037
-[again](punaḥ)+[indeed](eva) [I-shall-declare](pravakṣyāmi) [worship](yajanaṃ) [o-god](sura)+[beautiful-one](sundari)
+[again](punareva) [will-declare](pravakṣyāmi) [worship](yajanaṃ) [surasure](surasundari)
 
 ## mukta-m0-p82-v2038
-[seat](āsanaṃ) [with-praṇava](praṇavena)+[indeed](eva) [with-vidyā](vidyā)+[limbs](aṅgaiḥ)+[and](ca) [likewise](tathā)+[indeed](eva) [and](ca)
+[seat](āsanaṃ) [by-oṃ](praṇavenaiva) [and](ca) [vidyā+limbs](vidyāṅgaiśca) [thus+also](tathaiva) [ca](ca)
 
 ## mukta-m0-p82-v2039
-[heart](hṛt)+[lotus](padme) [on-ground-altar](sthaṇḍile) [and](ca)+[indeed](eva) [to-be-worshipped](yaṣṭavyaṃ) [by-one-desiring](siddhim)+[success](icchatā)
+[heart-lotus](hṛtpadme) [and](ca) [altar](sthaṇḍile) [caiva](caiva) [worship](yaṣṭavyaṃ) [desiring+siddhi](siddhimicchatā)
 
 ## mukta-m0-p82-v2040
-[on-first](prathame)+[day](ahani) [o-lord-of-gods](deveśi) [perceptible](pratyakṣaṃ) [conviction](pratyayo) [may-be](bhavet)
+[first+day](prathame'hani) [goddess](deveśi) [direct](pratyakṣaṃ) [sign](pratyayo) [becomes](bhavet)
 
 ## mukta-m0-p82-v2041
-[from-worship](yajanāt)+[is-born](jāyate) [success](siddhiḥ) [in-knowledge](jñāne) [to-liberation](kaivalyatāṃ) [one-goes](vrajet)
+[from-worship](yajanājjāyate) [siddhi](siddhiḥ) [in-knowledge](jñāne) [isolation](kaivalyatāṃ) [goes](vrajet)
 
 ## mukta-m0-p82-v2042
-[Īśāna](īśānam)+[upward](ūrdhvato) [one-should-place](dadyāt) [east](pūrvaṃ) [Tatpuruṣa](tatpuruṣaṃ) [remembered](smṛtam)
+[īśāna](īśānamūrdhvato) [above](mūrdhvato) [give](dadyāt) [first](pūrvaṃ) [tatpuruṣa](tatpuruṣaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p82-v2043
-[Sadyojāta](sadyojātan)+[indeed](tu) [o-lord-of-gods](deveśi) [situated](saṃsthitaṃ) [in-west](paścimena) [indeed](tu)
+[sadyojāta](sadyojātantu) [but](tu) [goddess](deveśi) [situated](saṃsthitaṃ) [west](paścimena) [tu](tu)
 
 ## mukta-m0-p82-v2044
-[in-southwest](nai-ṛtyān)+[indeed](tu) [Śikhā](śikhā) [o-goddess](devi) [in-northwest](vāyavyāṃ) [Kavaca](kavacaṃ) [likewise](tathā)
+[south-west](nai-ṛtyāntu) [tu](tu) [crest](śikhā) [goddess](devi) [north-west](vāyavyāṃ) [armor](kavacaṃ) [thus](tathā)
 
 ## mukta-m0-p82-v2045
-[with-one](ekena)+[with-Avaruṇa](avaruṇena)+[thus](evaṃ) [one-should-worship](yajeta) [well](su)+[concentrated](samāhitā)
+[by-one](ekenāvaruṇenaivaṃ) [varuṇa](varuṇena) [thus](evaṃ) [worship](yajeta) [well-concentrated](susamāhitā)
 
 ## mukta-m0-p82-v2046
-[with-Śiva](śivena) [o-god](deve) [o-lord-of-gods](deveśi) [one-should-offer](hunet)+[full](pūrṇa)+[oblation](āhutiṃ) [in-order](kramāt)
+[by-śiva](śivena) [goddess](deve) [goddess](deveśi) [offer+full+oblation](hunetpūrṇāhutiṃ) [in-order](kramāt)
 
 ## mukta-m0-p82-v2047
-[heart](hṛt)+[lotus](padme) [worship](yajanam)+[and](ca)+[indeed](eva) [hear](śṛṇu) [o-goddess](devi) [I-say](vadāmi)+[I](aham)
+[heart-lotus](hṛtpadme) [worship](yajanañcaiva) [and](ca) [eva](eva) [hear](śṛṇu) [goddess](devi) [I-speak](vadāmyaham)
 
 ## mukta-m0-p82-v2048
-[straight](ṛjurañ)+[and](ca) [indeed](tu) [to-be-known](vijñeyā) [dharma](dharma)+[foot](pāda)+[fourfold](catuṣṭayam)
+[straight](ṛjurañca) [tu](tu) [to-be-known](vijñeyā) [dharma+foot+fourfold](dharmāpādacatuṣṭayam)
 
 ## mukta-m0-p82-v2049
-[first](prathamaṃ) [one-should-form](kalpayen)+[image](mūrtiṃ) [by-that](tena) [all](sarvam)+[without-remainder](aśeṣataḥ)
+[first](prathamaṃ) [fashion](kalpayenmūrtiṃ) [form](mūrtiṃ) [by-that](tena) [all](sarvamaśeṣataḥ) [completely](aśeṣataḥ)
 
 ## mukta-m0-p82-v2050
-[praṇava](praṇavaṃ) [by-nyāsa](nyāsa)+[yoga](yogena) [three](tri)+[principle](tatvaṃ) [one-should-make](kārayed)+[wise-one](budhaḥ)
+[oṃ](praṇavaṃ) [nyāsa+yoga](nyāsayogena) [three+tattva](tritatvaṃ) [do](kārayedbudhaḥ) [wise](budhaḥ)

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p71",
  "verse": 1753,
- "question": "Which chapter of the radiant Kashyapa scripture concludes with the rules on pavilion characteristics?",
+ "question": "What happens to whatever is done by clan adepts under beast-instruction?",
  "premises": [
-  "The text refers to the radiant Kashyapa scripture.",
-  "The chapter concerns rules on pavilion characteristics.",
-  "This chapter is the forty-third."
+  "Beast-instruction governs the act.",
+  "Clan adepts perform it.",
+  "The act is whatever is done."
  ],
- "inference": "The forty-third chapter on pavilion characteristics concludes in the radiant Kashyapa scripture.",
- "uncertainties": [],
- "plain_english": "Thus ends the forty-third chapter, on the rules for the characteristics of the pavilion, in the Aṃśumān Kāśyapa."
+ "inference": "Beast-instructed practice is the field of clan adepts' action.",
+ "uncertainties": [
+  "paśūpadiṣṭaṃ may modify the act or the adepts."
+ ],
+ "plain_english": "Whatever is done by clan adepts is beast-instructed."
 }

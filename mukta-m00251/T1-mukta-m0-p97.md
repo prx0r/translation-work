@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-thus(evam) [you](atvaṃ) likewise(tathā) splendor(tejaḥ) swift(āśuge) indeed(vai) likewise(tathā) and(eva) and(ca)
+[thus](evam) [so](atvam) [thus](tathā) [light](tejo) [swift](āśuge) [indeed](vai) [thus+also](tathaiva) [and](ca)
 
 ## mukta-m0-p97-v2402
-action+organ(karmendriya) +moving(caruḥ) +situated(stham) and(ca) ear(śrotra) +knowledge+organ(jñānendriyaṃ) remembered(smṛtam)
+[action+senses](karmendriya) [sixth+standing](carusthañca) [hearing+knowledge+sense](śrotrajñānendriyaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p97-v2403
-in-śakti(śāktau) śiva(śivaṃ) likewise(tathā) and(eva) here(iha) one+by+one(ekaikaṃ) in+order(kramaśas) likewise(tathā)
+[power](śāktau) [śiva](śivaṃ) [thus+here](tathaiveha) [one+by+one](ekaikaṃ) [in+order](kramaśastathā)
 
 ## mukta-m0-p97-v2404
-ego(ahaṅkāras) likewise(tathā) sixth(ṣaṣṭhaḥ) in+natural+order(anulomāt) one+should+purify(viśodhayet)
+[ego](ahaṅkārastathā) [sixth](ṣaṣṭho) [in+order+purify](anulomādviśodhayet)
 
 ## mukta-m0-p97-v2405
-of-kalās(kalānāṃ) determination(nirṇayam) and(ca) and(eva) of-tattvas(tatvānāṃ) determination(nirṇayas) likewise(tathā)
+[of+arts](kalānāṃ) [determination](nirṇayañcaiva) [of+principles](tatvānāṃ) [determination+thus](nirṇayastathā)
 
 ## mukta-m0-p97-v2406
-having+known(jñātvā) devotion+filled(bhaktimayaṃ) disciple(śiṣyaṃ) initiation(dīkṣāṃ) to+explain(vyākhyātum) you+should(arhasi)
+[knowing](jñātvā) [devotion+filled](bhaktimayaṃ) [disciple](śiṣyaṃ) [initiation](dīkṣāṃ) [explain+worthy](vyākhyātumarhasi)
 
 ## mukta-m0-p97-v2407
-partless(niṣkalaṃ) to+hear(śrotum) I+wish(icchāmi) with+parts(sakalaṃ) pervading(vyāpya) situated(viṣṭhitam)
+[without+parts](niṣkalaṃ) [hear+wish](śrotumicchāmi) [with+all+pervading](sakalaṃ) [vyāpya](vyāpya) [situated](viṣṭhitam)
 
 ## mukta-m0-p97-v2408
-by+which(yena) liberated(muktas) same+nature+self(sadharmātmā) dharma+devoid(dharmotsannaḥ) is+called(nigadyate)
+[by+which](yena) [liberated](muktassadharmātmā) [dharma+exalted](dharmotsanno) [declared](nigadyate)
 
 ## mukta-m0-p97-v2409
-immeasurable(ameyas) all+going(sarvagaś) pure(śuddhaḥ) all+power+kalā+endowed(sarvaśaktikalānvitaḥ)
+[immeasurable](ameyassarvagaśśuddhaḥ) [all+pervading+pure](sarvaśaktikalānvitaḥ) [all+power+art+possessed](sarvaśaktikalānvitaḥ)
 
 ## mukta-m0-p97-v2410
-in+solitude+abiding(ekāntāvasthitaḥ) indeed(hi) this(eṣaḥ) śiva+śakti+united(śivaśaktisamanvitaḥ)
+[single+state+situated](ekāntāvasthito) [indeed+this](hyeṣaḥ) [śiva+power+accompanied](śivaśaktisamanvitaḥ)
 
 ## mukta-m0-p97-v2411
-world+entire(jagatkṛtsnaṃ) great+yoga(mahāyogaṃ) śakti+yoga(śaktiyogaṃ) by+rays(marīcibhiḥ)
+[world+whole](jagatkṛtsnaṃ) [great+yoga](mahāyogaṃ) [power+yoga](śaktiyogaṃ) [rays](marīcibhiḥ)
 
 ## mukta-m0-p97-v2412
-from+peacefulness(śāntatvāt) from+own+agency(svakartṛtvāt) from+possessing+power(śaktimatvāt) from+great+might(mahaujasaḥ)
+[peace+from](śāntatvāt) [own+agency+from](svakartṛtvāt) [power+possessing+from](śaktimatvānmahaujasaḥ) [great+glory+from](mahaujasaḥ)
 
 ## mukta-m0-p97-v2413
-they+create(prakurvanti) world+entire(jagatkṛtsnaṃ) powers(śaktayas) those(tāḥ) of+the+great+self(mahātmanaḥ)
+[create](prakurvanti) [world+whole](jagatkṛtsnaṃ) [powers](śaktayastā) [great+soul](mahātmanaḥ)
 
 ## mukta-m0-p97-v2414
-all+form(sarvākāram) without+form(anākāram) without+comparison(anaupamyam) without+affliction(anāmayam)
+[all+form](sarvākāramanākāramanaupamyamanāmayam) [formless](anākāram) [incomparable](anaupamyam) [diseaseless](anāmayam)
 
 ## mukta-m0-p97-v2415
-mantra+splendor+made(mantratejomayaḥ) eternal(nityaḥ) inconceivable(acintyaḥ) supreme(paramaś) śiva(śivaḥ)
+[mantra+light+born+eternal](mantratejomayonityamacintyaḥ) [unthinkable](acintyaḥ) [supreme](paramaśśivaḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p97-v2416
-speech+pure(vāgviśuddhaḥ) supreme+light(parajyotiḥ) own+splendor(svatejaḥ) firm+range(dṛḍhagocaraḥ)
+[speech+purified](vāgviśuddhaḥ) [supreme+light](parajyotiḥ) [own+light](svatejo) [firm+range](dṛḍhagocaraḥ)
 
 ## mukta-m0-p97-v2417
-very+subtle(susūkṣmam) imperishable(avyayam) eternal(nityaṃ) cause(kāraṇaṃ) light+supreme(jyotiruttamam)
+[very+subtle](susūkṣmamavyayannityaṃ) [imperishable](avyayam) [eternal](nityaṃ) [cause](kāraṇaṃ) [light+supreme](jyotiruttamam)
 
 ## mukta-m0-p97-v2418
-of-lightning+half+crores(vidyutparārdhakoṭīnāṃ) that(tat) splendor(tejaḥ) pervading(vyāpya) stands(tiṣṭhati)
+[lightning+half+crore](vidyutparārdhakoṭīnāṃ) [that+light](ttejo) [pervading](vyāpya) [stands](tiṣṭhati)
 
 ## mukta-m0-p97-v2419
-by+splendor(tejasā) of+that(tasya) they+shine(dīpyante) great+splendor(mahat+tejāś) and(ca) he(saḥ) remembered(smṛtaḥ)
+[by+light](tejasā) [of+that](tasya) [shine](dīpyante) [great+light+and](mahātejāśca) [he+remembered](sa smṛtaḥ)
 
 ## mukta-m0-p97-v2420
-thus(evam) vowed(vrataḥ) supreme(paraḥ) god(devaḥ) he(saḥ) splendor(tejas) of+splendors(tejasām) also(api)
+[thus](evaṃ) [vow](vrataḥ) [supreme](paro) [god](devaḥ) [that](sa) [light](tejastejasāmapi) [of+lights+also](tejasāmapi)
 
 ## mukta-m0-p97-v2421
-stainless+mirror+like(nirmalādarśakaprakhyaṃ) autumn+water+equal+brightness(śaradvārisamaprabham)
+[pure+mirror+like](nirmalādarśakaprakhyaṃ) [autumn+water+equal+radiance](śaradvārisamaprabham)
 
 ## mukta-m0-p97-v2422
-completely+destroyed+darkness(atyantanaṣṭatamasā) upward+shining(ūrdhvabhāsā) directions(diśaḥ) ten(daśa)
+[utterly+lost+darkness](atyantanaṣṭatamasā) [upward+radiance](ūrdhvabhāsā) [directions+ten](diśo daśa)
 
 ## mukta-m0-p97-v2423
-eternal(nityaṃ) all+pervading(sarvagataṃ) subtle(sūkṣmaṃ) peak+abiding(kūṭastham) immovable(acalaṃ) firm(dhruvam)
+[eternal](nityaṃ) [all+pervading](sarvagataṃ) [subtle](sūkṣmaṃ) [peak+seated](kūṭasthamacalaṃ) [immovable](acalaṃ) [fixed](dhruvam)
 
 ## mukta-m0-p97-v2424
-all+being+self(sarvabhūtātma) in+beings+abiding(bhūtastha) supreme(paraṃ) space(vyoma) śiva(śivaḥ) imperishable(avyayaḥ)
+[all+beings+self](sarvabhūtātma) [being+situated](bhūtastha) [supreme](paraṃ) [sky+śiva+imperishable](vyomaśivo'vyayaḥ)
 
 ## mukta-m0-p97-v2425
-having+ascertained(niścitya) agent+of+agents(kartṛkartā) and(ca) all+beings+lord(sarvabhūtapatiś) śiva(śivaḥ)
+[determining](niścitya) [doer+agent](kartṛkartā) [ca](ca) [all+beings+lord+śiva](sarvabhūtapatiśśivaḥ)

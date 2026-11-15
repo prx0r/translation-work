@@ -2,43 +2,43 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[recitation](japaṃ) [should-do](kuryāt) [but](tu) [o-best-of-brahmins](viprendra) [with-praṇava](praṇavena) [accompanied](samāyutam)
+[japa](japaṃ) [should-do](kuryāt) [indeed](tu) [O-best-of-brahmins](viprendra) [with-praṇava](praṇavena) [joined-with](samāyutam)
 
 ## mukta-m0-p07-v152
-[on-river+bank](nadītīre) [hundred](śataṃ) [one-should-know](vidyāt) [thousand](sahasraṃ) [in-deity+temple](devatālaye)
+[on-river-bank](nadītīre) [hundred](śataṃ) [should-know](vidyāt) [thousand](sahasraṃ) [in-temple](devatālaye)
 
 ## mukta-m0-p07-v153
-[by-twenty-five](paṃcaviṃśantato) [hundred-thousands](lakṣaiḥ) [vaiṣṇava](vaiṣṇavaṃ) [abode](padam) [one-obtains](āpnuyāt)
+[twenty-five](paṃcaviṃśat) [then](tato) [by-lakhs](lakṣaiḥ) [vaiṣṇava](vaiṣṇavaṃ) [state](padam) [may-obtain](āpnuyāt)
 
 ## mukta-m0-p07-v154
-[one-should-enter](praviśet) [śiva](śivam) [īśāna](īśānaṃ) [*](*) [*](*) [from-world+ocean](saṃsāra) [from-ocean](sāgarāt)
+[may-enter](praviśet) [śiva](śivam) [īśāna](īśānaṃ) [*](*) [*](*) [saṃsāra](saṃsāra) [from-ocean](sāgarāt)
 
 ## mukta-m0-p07-v155
-[thus](iti) [in-vīra-tantra](vīratantre) [in-six-thousand+compendium](ṣaṭsahasrasaṃhitāyāṃ) [śrī-pañcākṣara-kalpa](śrīpaṃcākṣarakalpaḥ) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-vīratanttra](vīratantre) [in-ṣaṭsahasra-saṃhitā](ṣaṭsahasrasaṃhitāyāṃ) [śrī-paṃcākṣara-kalpa](śrīpaṃcākṣarakalpa) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p07-v156
-[for-all-sin+destruction+purpose](sarvapāpa(praṇāśā)rthaṃ) [mantra+extraction](mantroddhāraḥ) [how](kathaṃ) [should-be](bhavet)
+[all-sin](sarvapāpa) [destruction](praṇāśā) [for-sake](rthaṃ) [mantra-extraction](mantroddhāraḥ) [how](kathaṃ) [may-be](bhavet)
 
 ## mukta-m0-p07-v157
-[thinking](mananaṃ) [of-all+mantras](sarvamantrāṇāṃ) [protection](trāṇaṃ) [from-world+ocean](saṃsārasāgarāt)
+[meditation](mananaṃ) [of-all-mantras](sarvamantrāṇāṃ) [protection](trāṇaṃ) [from-saṃsāra-ocean](saṃsārasāgarāt)
 
 ## mukta-m0-p07-v158
-[on-gaṅgā+bank](gaṃgākūle) [at-ocean](samudre) [or](vā) [at-prabhāsa](prabhāse) [or](vā) [especially](viśeṣataḥ)
+[on-gaṅgā-bank](gaṃgākūle) [in-ocean](samudre) [or](vā) [at-prabhāsa](prabhāse) [or](vā) [especially](viśeṣataḥ)
 
 ## mukta-m0-p07-v159
-[in-other](anyeṣu) [pure+places](śuddhadeśeṣu) [mantra](mantram) [one-should-extract](uddhārayet) [in-order](kramāt)
+[in-others](anyeṣu) [in-pure-places](śuddhadeśeṣu) [mantra](mantram) [should-extract](uddhārayet) [in-order](kramāt)
 
 ## mukta-m0-p07-v160
-[bath](snānaṃ) [having-done](kṛtvā) [indeed](tu) [o-best-of-brahmins](viprendra) [in-that+place](tatsthāne) [mantra](mantram) [one-should-extract](uddharet)
+[bath](snānaṃ) [having-done](kṛtvā) [indeed](tu) [O-best-of-brahmins](viprendra) [in-that-place](tatsthāne) [mantra](mantram) [should-extract](uddharet)
 
 ## mukta-m0-p07-v161
-[teacher](ācāryaḥ) [indeed](tu) [pure](śuciḥ) [having-become](bhūtvā) [with-performed+fasting+endowed](kṛtopavāsasaṃyutam)
+[teacher](ācāryastu) [pure](śucirbhūtvā) [having-fasted](kṛtopavāsasaṃyutam)
 
 ## mukta-m0-p07-v162
-[with-jewel](ratnena) [*](*) [*](*) [*](*) [o-brahmin](vipra) [syllable](akṣaraṃ) [one-should-write](lekhayet) [with-heart](dhṛdā)
+[with-gem](ratnena) [*](*) [*](*) [*](*) [O-brahmin](vipra) [syllable](akṣaraṃ) [should-write](lekhayeddhṛdā)
 
 ## mukta-m0-p07-v163
-[from-bindu](bindoḥ) [nāda](nādaḥ) [arisen](samutpannaḥ) [from-that](tasmāt) [śakti](śaktiḥ) [was-born](ajāyata)
+[from-bindu](bindornādassamutpannastasmācchaktirajāyata)
 
 ## mukta-m0-p07-v164
 [from-kalā](kalāyā) [consonant](vyaṃjanaṃ) [born](jātaṃ) [from-consonant](vyaṃjanā) [*](*) [*](*) [mantra](mantrakaḥ)
@@ -47,31 +47,31 @@
 [a-class](avargaṃ) [and](ca) [ka-class](kavargaṃ) [and](ca) [ca-class](cavargaṃ) [and](ca) [ṭa-class](ṭavargakam)
 
 ## mukta-m0-p07-v166
-[in-initial+classes](ādivargeṣu) [ṛ](ṛ) [and-ṝ](ṛca) [four+syllables](caturakṣaraṃ) [one-should-exclude](varjayet)
+[in-initial-classes](ādivargeṣu) [ṛ-ṛ](ṛ-ṛca) [four-syllable](caturakṣaraṃ) [should-avoid](varjayet)
 
 ## mukta-m0-p07-v167
-[first](pūrvaṃ) [short](hṛsvaṃ) [declared](samākhyātaṃ) [next](paraṃ) [long](dīrgham) [here](iha) [is-called](ucyate)
+[first](pūrvaṃ) [short](hṛsvaṃ) [declared](samākhyātaṃ) [second](paraṃ) [long](dīrghamihocyate)
 
 ## mukta-m0-p07-v168
-[sadyojāta](sadyojātaṃ) [indeed](tu) [cow+milk](gokṣīra) [similar](sadṛśaṃ) [color](varṇam) [is-said](ucyate)
+[sadyojāta](sadyojātaṃ) [indeed](tu) [cow-milk](gokṣīra) [like](sadṛśaṃ) [color](varṇamucyate)
 
 ## mukta-m0-p07-v169
-[puruṣa](puruṣaṃ) [saffron+colored](kuṃkumaprakhyaṃ) [īśāna](īśānaṃ) [crystal](sphaṭikaṃ) [should-be](bhavet)
+[puruṣa](puruṣaṃ) [like-saffron](kuṃkumaprakhyaṃ) [īśāna](īśānaṃ) [crystal](sphaṭikaṃ) [may-be](bhavet)
 
 ## mukta-m0-p07-v170
-[two-eyed](dvinetrāṃ) [beautiful-faced](cāruvadanāṃ) [beautiful-breasted](sustanāṃ) [and](ca) [of-good-youth](suyauvanām)
+[two-eyed](dvinetrāṃ) [beautiful-faced](cāruvadanāṃ) [good-breasted](sustanāṃ) [and](ca) [youthful](suyauvanām)
 
 ## mukta-m0-p07-v171
-[six+limbs](ṣadaṃgaṃ) [I-shall-declare](saṃpravakṣyāmi) [heart](hṛdayaṃ) [and](ca) [head](śiraḥ) [likewise](tathā)
+[six-limbs](ṣadaṃgaṃ) [I-will-declare](saṃpravakṣyāmi) [heart](hṛdayaṃ) [and](ca) [head](śirastathā)
 
 ## mukta-m0-p07-v172
-[moon+smoky](indudhūmraṃ) [golden](suvarṇaṃ) [and](ca) [somewhat+smoky](kiṃciddhūmraṃ) [likewise](tathaiva) [and](ca)
+[moon-smoky](indudhūmraṃ) [gold](suvarṇaṃ) [and](ca) [somewhat-smoky](kiṃciddhūmraṃ) [so](tathaiva) [indeed](ca)
 
 ## mukta-m0-p07-v173
-[of-six+limbs](ṣaḍaṃgānāṃ) [and](ca) [of-all](sarveṣāṃ) [mantra](mantraṃ) [color](varṇaṃ) [one-should-contemplate](vicintayet)
+[of-six-limbs](ṣaḍaṃgānāṃ) [and](ca) [of-all](sarveṣāṃ) [mantra](mantraṃ) [color](varṇaṃ) [should-contemplate](vicintayet)
 
 ## mukta-m0-p07-v174
-[with-matted-hair+crown+endowed](jaṭāmakuṭasaṃyuktāṃ) [with-sacred-thread+endowed](yajñopavītasaṃyutām)
+[matted-hair-crown](jaṭāmakuṭasaṃyuktāṃ) [sacred-thread](yajñopavītasaṃyutām)
 
 ## mukta-m0-p07-v175
-[woman+form](strīrūpaṃ) [one-should-visualize](bhāvayet) [brahmā](brahmā) [six+limbs](ṣaḍaṃgaṃ) [male](puruṣaḥ) [should-be](bhavet)
+[female-form](strīrūpaṃ) [should-meditate](bhāvayedbrahmā) [six-limbs](ṣaḍaṃgaṃ) [male](puruṣo) [may-be](bhavet)

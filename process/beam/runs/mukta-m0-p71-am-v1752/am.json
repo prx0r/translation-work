@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p71",
  "verse": 1752,
- "question": "What structure is named as the pavilion and what next topic is the listener asked to hear?",
+ "question": "After observing his face, how should one observe the clan face?",
  "premises": [
-  "The pavilion is thus called.",
-  "The listener is addressed as good-vowed one.",
-  "The listener is asked to hear about the gateway-tower."
+  "One observes his face.",
+  "Then one observes the clan face.",
+  "The act is prescribed."
  ],
- "inference": "After naming the pavilion, the text directs the listener to hear about the gateway-tower.",
- "uncertainties": [],
- "plain_english": "Thus the pavilion is named; now hear about the gateway-tower, O good-vowed one."
+ "inference": "Face-observation moves from individual to clan level.",
+ "uncertainties": [
+  "kulavaktraṃ may mean clan leader or clan face."
+ ],
+ "plain_english": "Having observed his face, one should observe the clan face."
 }

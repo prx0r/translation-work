@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "sudhādhārāsamā",
+     "gloss": "nectar-stream-equal",
+     "grounds": "compound of sudhā (nectar), dhārā (stream), and samā (equal)",
+     "morph": "compound=fem.nom.sg"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "feminine noun vāṇī in nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaktrāttasya",
+     "gloss": "from-his-mouth",
+     "grounds": "vaktrāt (from mouth) combined with tasya (his)",
+     "morph": "m.abl.sg+m.gen.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "pra-jan in middle voice present tense",
+     "morph": "3.sg.mid-pres+jan"
+    }
+   ],
+   "question": "What speech-related sign appears from the mouth of the long-lived practitioner?",
+   "premises": [
+    "Consumption grants long life.",
+    "Madhumatī becomes permanent.",
+    "Speech equals nectar stream."
+   ],
+   "inference": "The practitioner's mouth produces nectar-like speech.",
+   "uncertainties": [
+    "The exact referent of tasmin remains context-dependent."
+   ],
+   "plain_english": "Speech like a stream of nectar arises from his mouth."
+  }
+ ]
+}
