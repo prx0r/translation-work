@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "deśa",
-"quick_gloss": "country"
+"quick_gloss": "place"
 },
 {
 "surface": "prāptān",
@@ -19,8 +19,12 @@
 "quick_gloss": "but"
 },
 {
-"surface": "tan+māsa",
-"quick_gloss": "that-month"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "māsa",
+"quick_gloss": "month"
 },
 {
 "surface": "pūrṇāyāṃ",
@@ -28,7 +32,7 @@
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "one-should-worship"
+"quick_gloss": "should-worship"
 },
 {
 "surface": "śive",
@@ -45,14 +49,14 @@
 "tokens": [
 {
 "surface": "kadācit",
-"quick_gloss": "at-any-time"
+"quick_gloss": "sometimes"
 },
 {
 "surface": "api",
 "quick_gloss": "even"
 },
 {
-"surface": "dīrgha+āyuḥ",
+"surface": "dīrghāyuḥ",
 "quick_gloss": "long-lived"
 },
 {
@@ -61,7 +65,7 @@
 },
 {
 "surface": "jñānavān",
-"quick_gloss": "possessing-knowledge"
+"quick_gloss": "knowledgeable"
 },
 {
 "surface": "sukhī",
@@ -77,12 +81,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nitya+ātmakau",
-"quick_gloss": "eternal-natured"
+"surface": "nitya",
+"quick_gloss": "eternity"
+},
+{
+"surface": "ātmakau",
+"quick_gloss": "natured"
 },
 {
 "surface": "bhavataḥ",
-"quick_gloss": "you-two-become"
+"quick_gloss": "become"
 },
 {
 "surface": "iti",
@@ -107,7 +115,7 @@
 "tokens": [
 {
 "surface": "deśa",
-"quick_gloss": "of-countries"
+"quick_gloss": "of-place"
 },
 {
 "surface": "ādīnām",
@@ -127,8 +135,12 @@
 "quick_gloss": "is-regarded"
 },
 {
-"surface": "sarva+mantrāḥ",
-"quick_gloss": "all-mantras"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "mantrāḥ",
+"quick_gloss": "mantras"
 },
 {
 "surface": "ca",
@@ -140,7 +152,7 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "they-become"
+"quick_gloss": "become"
 },
 {
 "surface": "tatra",
@@ -180,8 +192,12 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "sapta+dvīpeṣu",
-"quick_gloss": "in-seven-islands"
+"surface": "sapta",
+"quick_gloss": "in-seven"
+},
+{
+"surface": "dvīpeṣu",
+"quick_gloss": "islands"
 },
 {
 "surface": "bhūruhāḥ",
@@ -197,16 +213,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+tat+nāmabhiḥ",
-"quick_gloss": "by-their-respective-names"
+"surface": "tat",
+"quick_gloss": "by-their"
+},
+{
+"surface": "tat",
+"quick_gloss": "respective"
+},
+{
+"surface": "nāmabhiḥ",
+"quick_gloss": "names"
 },
 {
 "surface": "abhyarcya",
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "tat+dvīpaṃ",
-"quick_gloss": "that-island"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "dvīpaṃ",
+"quick_gloss": "island"
 },
 {
 "surface": "tatra",
@@ -214,7 +242,7 @@
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "one-should-worship"
+"quick_gloss": "should-worship"
 }
 ]
 },
@@ -231,11 +259,11 @@
 },
 {
 "surface": "pūjayituḥ",
-"quick_gloss": "of-the-worshipper"
+"quick_gloss": "of-worshipper"
 },
 {
 "surface": "loke",
-"quick_gloss": "in-the-world"
+"quick_gloss": "in-world"
 },
 {
 "surface": "na",
@@ -271,28 +299,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+vyoma",
-"quick_gloss": "great-space"
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "vyoma",
+"quick_gloss": "sky"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "niḥ+saumaṃ",
-"quick_gloss": "without-moon"
+"surface": "niḥsaumaṃ",
+"quick_gloss": "moonless"
 },
 {
 "surface": "tatra",
 "quick_gloss": "there"
 },
 {
-"surface": "etat+dvaya",
-"quick_gloss": "of-this-pair"
+"surface": "etat",
+"quick_gloss": "this"
+},
+{
+"surface": "dvaya",
+"quick_gloss": "two"
 },
 {
 "surface": "saṃsthitiḥ",
-"quick_gloss": "situation"
+"quick_gloss": "abiding"
 }
 ]
 },
@@ -305,11 +341,15 @@
 "tokens": [
 {
 "surface": "pratipakṣa",
-"quick_gloss": "each-fortnight"
+"quick_gloss": "opponent"
 },
 {
-"surface": "tat+tat+prāpta",
-"quick_gloss": "each-attained"
+"surface": "tat",
+"quick_gloss": "each"
+},
+{
+"surface": "prāpta",
+"quick_gloss": "obtained"
 },
 {
 "surface": "tithīḥ",
@@ -324,16 +364,20 @@
 "quick_gloss": "worshipping"
 },
 {
-"surface": "prokta+phala",
-"quick_gloss": "stated-result"
+"surface": "prokta",
+"quick_gloss": "declared"
+},
+{
+"surface": "phala",
+"quick_gloss": "fruit"
 },
 {
 "surface": "siddhi",
-"quick_gloss": "attainment"
+"quick_gloss": "accomplishment"
 },
 {
 "surface": "bhāk",
-"quick_gloss": "sharer"
+"quick_gloss": "partaker"
 },
 {
 "surface": "iti",
@@ -349,8 +393,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prokta+rūpa",
-"quick_gloss": "of-stated-form"
+"surface": "prokta",
+"quick_gloss": "declared"
+},
+{
+"surface": "rūpa",
+"quick_gloss": "form"
 },
 {
 "surface": "prabhāvaḥ",
@@ -390,8 +438,12 @@
 "quick_gloss": "movement"
 },
 {
-"surface": "niyata+ātmanām",
-"quick_gloss": "regulated-nature"
+"surface": "niyata",
+"quick_gloss": "regulated"
+},
+{
+"surface": "ātmanām",
+"quick_gloss": "nature"
 }
 ]
 },
@@ -440,16 +492,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāk+ukta+rūpāṃ",
-"quick_gloss": "previously-described-form"
+"surface": "prāk",
+"quick_gloss": "previously"
+},
+{
+"surface": "ukta",
+"quick_gloss": "stated"
+},
+{
+"surface": "rūpāṃ",
+"quick_gloss": "form"
 },
 {
 "surface": "tat+tīre",
 "quick_gloss": "on-its-bank"
 },
 {
-"surface": "kola+vaktrām",
-"quick_gloss": "boar-faced"
+"surface": "kola",
+"quick_gloss": "boar"
+},
+{
+"surface": "vaktrām",
+"quick_gloss": "faced"
 },
 {
 "surface": "tu",
@@ -457,7 +521,7 @@
 },
 {
 "surface": "pañcamīṃ",
-"quick_gloss": "fifth-day"
+"quick_gloss": "fifth"
 }
 ]
 },
@@ -473,12 +537,20 @@
 "quick_gloss": "in-its-middle"
 },
 {
-"surface": "nava+ratnāni",
-"quick_gloss": "nine-gems"
+"surface": "nava",
+"quick_gloss": "nine"
 },
 {
-"surface": "mahā+dvīpam",
-"quick_gloss": "great-island"
+"surface": "ratnāni",
+"quick_gloss": "jewels"
+},
+{
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "dvīpam",
+"quick_gloss": "island"
 },
 {
 "surface": "ca",
@@ -506,16 +578,24 @@
 "quick_gloss": "in-its-middle"
 },
 {
-"surface": "asaṃkhya+rūpābhiḥ",
-"quick_gloss": "by-innumerable-forms"
+"surface": "asaṃkhya",
+"quick_gloss": "by-innumerable"
+},
+{
+"surface": "rūpābhiḥ",
+"quick_gloss": "forms"
 },
 {
 "surface": "vṛtāṃ",
 "quick_gloss": "surrounded"
 },
 {
-"surface": "saṅgīta+śaktibhiḥ",
-"quick_gloss": "by-music-powers"
+"surface": "saṅgīta",
+"quick_gloss": "by-music"
+},
+{
+"surface": "śaktibhiḥ",
+"quick_gloss": "powers"
 }
 ]
 },
@@ -540,7 +620,7 @@
 },
 {
 "surface": "manthara",
-"quick_gloss": "slow"
+"quick_gloss": "languid"
 },
 {
 "surface": "vīkṣaṇām",
@@ -556,12 +636,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śuci+smitāṃ",
-"quick_gloss": "pure-smile"
+"surface": "śuci",
+"quick_gloss": "pure"
 },
 {
-"surface": "śakti+vṛnda",
-"quick_gloss": "by-group-of-powers"
+"surface": "smitāṃ",
+"quick_gloss": "smile"
+},
+{
+"surface": "śakti",
+"quick_gloss": "by-śakti"
+},
+{
+"surface": "vṛnda",
+"quick_gloss": "group"
 },
 {
 "surface": "gīta",
@@ -586,11 +674,11 @@
 "tokens": [
 {
 "surface": "śakteḥ",
-"quick_gloss": "of-power"
+"quick_gloss": "of-śakti"
 },
 {
 "surface": "icchā",
-"quick_gloss": "will"
+"quick_gloss": "desire"
 },
 {
 "surface": "iti",
@@ -627,7 +715,7 @@
 },
 {
 "surface": "su+sādhakām",
-"quick_gloss": "good-practitioner"
+"quick_gloss": "good-devotees"
 }
 ]
 },
@@ -669,7 +757,7 @@
 "tokens": [
 {
 "surface": "sva+samānābhiḥ",
-"quick_gloss": "by-those-equal-to-herself"
+"quick_gloss": "by-equals"
 },
 {
 "surface": "abhitaḥ",
@@ -697,12 +785,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+vinodaḥ",
-"quick_gloss": "her-entertainment"
+"surface": "tat",
+"quick_gloss": "her"
 },
 {
-"surface": "tat+samīpa",
-"quick_gloss": "her-near"
+"surface": "vinodaḥ",
+"quick_gloss": "entertainment"
+},
+{
+"surface": "tat",
+"quick_gloss": "her"
+},
+{
+"surface": "samīpa",
+"quick_gloss": "vicinity"
 },
 {
 "surface": "nivāsī",
@@ -710,7 +806,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "he-becomes"
+"quick_gloss": "becomes"
 },
 {
 "surface": "suniścitam",
@@ -726,16 +822,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nava+ratna+mayaṃ",
-"quick_gloss": "made-of-nine-gems"
+"surface": "nava",
+"quick_gloss": "nine"
+},
+{
+"surface": "ratna",
+"quick_gloss": "jewel"
+},
+{
+"surface": "mayaṃ",
+"quick_gloss": "made"
 },
 {
 "surface": "dvīpaṃ",
 "quick_gloss": "island"
 },
 {
-"surface": "tat+māna+abdibhiḥ",
-"quick_gloss": "by-oceans-of-its-measure"
+"surface": "abdibhiḥ",
+"quick_gloss": "by-oceans"
+},
+{
+"surface": "tat+māna",
+"quick_gloss": "of-its-measure"
 },
 {
 "surface": "āvṛtam",
@@ -752,15 +860,23 @@
 "tokens": [
 {
 "surface": "ratna+dvīpasya",
-"quick_gloss": "of-the-gem-island"
+"quick_gloss": "of-jewel-island"
 },
 {
-"surface": "madhya+stha",
-"quick_gloss": "in-the-middle-situated"
+"surface": "madhya",
+"quick_gloss": "in-middle"
 },
 {
-"surface": "tṛtīya+aṃśe",
-"quick_gloss": "third-part"
+"surface": "stha",
+"quick_gloss": "situated"
+},
+{
+"surface": "tṛtīya",
+"quick_gloss": "third"
+},
+{
+"surface": "aṃśe",
+"quick_gloss": "part"
 },
 {
 "surface": "tu",
@@ -768,7 +884,7 @@
 },
 {
 "surface": "maṇḍape",
-"quick_gloss": "in-the-pavilion"
+"quick_gloss": "in-pavilion"
 }
 ]
 }

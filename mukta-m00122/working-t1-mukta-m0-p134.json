@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "bhavati",
-"quick_gloss": "becomes-thus"
+"quick_gloss": "become"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -94,16 +94,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śabda+vyākaraṇa",
-"quick_gloss": "of-grammar"
+"surface": "śabda",
+"quick_gloss": "of-sound"
+},
+{
+"surface": "vyākaraṇa",
+"quick_gloss": "grammar"
 },
 {
 "surface": "ādīnām",
-"quick_gloss": "and-so-on"
+"quick_gloss": "and-others"
 },
 {
-"surface": "niyama+ādi",
+"surface": "niyama",
 "quick_gloss": "with-rules"
+},
+{
+"surface": "ādi",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "yutāḥ",
@@ -111,7 +119,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -135,8 +143,8 @@
 "quick_gloss": "number"
 },
 {
-"surface": "karttum",
-"quick_gloss": "to-count"
+"surface": "karttuṃ",
+"quick_gloss": "to-make"
 },
 {
 "surface": "na",
@@ -156,7 +164,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evam",
+"surface": "evaṃ",
 "quick_gloss": "thus"
 },
 {
@@ -164,12 +172,12 @@
 "quick_gloss": "of-sound"
 },
 {
-"surface": "māhātmyam",
+"surface": "māhātmyaṃ",
 "quick_gloss": "greatness"
 },
 {
-"surface": "vaktum",
-"quick_gloss": "to-speak"
+"surface": "vaktuṃ",
+"quick_gloss": "to-tell"
 },
 {
 "surface": "kasyāpi",
@@ -181,7 +189,7 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "is"
+"quick_gloss": "exists"
 },
 {
 "surface": "hi",
@@ -197,15 +205,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "navake",
-"quick_gloss": "in-the-nine-circles"
+"surface": "lalitā+cakra+navake",
+"quick_gloss": "in-Lalitā-chakra-group-of-nine"
 },
 {
-"surface": "lalitā+cakra",
-"quick_gloss": "of-Lalitā's-wheel"
-},
-{
-"surface": "pratyekam",
+"surface": "pratyekaṃ",
 "quick_gloss": "in-each"
 },
 {
@@ -231,19 +235,19 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "are"
+"quick_gloss": "may-be"
 },
 {
 "surface": "tat+kramāt",
 "quick_gloss": "in-their-order"
 },
 {
-"surface": "tāsām",
+"surface": "tāsāṃ",
 "quick_gloss": "of-them"
 },
 {
 "surface": "vidyāḥ",
-"quick_gloss": "knowledges"
+"quick_gloss": "vidyās"
 },
 {
 "surface": "vakṣyāmi",
@@ -271,7 +275,7 @@
 "quick_gloss": "power"
 },
 {
-"surface": "sāmarthyam",
+"surface": "sāmarthyaṃ",
 "quick_gloss": "capability"
 },
 {
@@ -309,7 +313,7 @@
 },
 {
 "surface": "kramam",
-"quick_gloss": "in-sequence"
+"quick_gloss": "sequence"
 }
 ]
 },
@@ -342,7 +346,7 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "will-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "atha",
@@ -379,7 +383,7 @@
 },
 {
 "surface": "ukta+saṃkhyakāḥ",
-"quick_gloss": "of-the-stated-number"
+"quick_gloss": "of-stated-number"
 }
 ]
 },
@@ -396,11 +400,11 @@
 },
 {
 "surface": "tat+koṭi+saṃkhyākāḥ",
-"quick_gloss": "of-crore-number"
+"quick_gloss": "of-that-crore-number"
 },
 {
 "surface": "vidyāḥ",
-"quick_gloss": "knowledges"
+"quick_gloss": "vidyās"
 },
 {
 "surface": "tri+catur+arṇakāḥ",
@@ -417,7 +421,7 @@
 "tokens": [
 {
 "surface": "puruṣa+arthāḥ",
-"quick_gloss": "the-four-aims-of-life"
+"quick_gloss": "the-four-human-goals"
 },
 {
 "surface": "tu",
@@ -432,12 +436,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "uktam",
+"surface": "uktaṃ",
 "quick_gloss": "stated"
 },
 {
 "surface": "mātṛkā+āyudhaiḥ",
-"quick_gloss": "by-the-weapons-of-the-Mother"
+"quick_gloss": "by-Mātṛkā-weapons"
 }
 ]
 },
@@ -462,7 +466,7 @@
 },
 {
 "surface": "guru+śiṣyayoḥ",
-"quick_gloss": "of-teacher-and-disciple"
+"quick_gloss": "of-guru-and-disciple"
 }
 ]
 },
@@ -474,8 +478,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pratyakṣam",
-"quick_gloss": "directly"
+"surface": "pratyakṣaṃ",
+"quick_gloss": "directly-perceived"
 },
 {
 "surface": "yaiḥ",
@@ -512,15 +516,15 @@
 "tokens": [
 {
 "surface": "ga aḥ",
-"quick_gloss": "ga aḥ"
+"quick_gloss": "ga-aḥ"
 },
 {
 "surface": "iti+ādīni",
-"quick_gloss": "and-so-on"
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "a ā kṣa aḥ",
-"quick_gloss": "a ā kṣa aḥ"
+"quick_gloss": "a-ā-kṣa-aḥ"
 },
 {
 "surface": "iti+antāni",
@@ -528,11 +532,11 @@
 },
 {
 "surface": "bhavanti",
-"quick_gloss": "are"
+"quick_gloss": "they-are"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -549,15 +553,15 @@
 },
 {
 "surface": "phalāni",
-"quick_gloss": "fruits"
+"quick_gloss": "results"
 },
 {
 "surface": "āpnoti",
-"quick_gloss": "obtains"
+"quick_gloss": "one-obtains"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -598,16 +602,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "ātmanaḥ",
+"quick_gloss": "of-the-self"
+},
+{
 "surface": "cet",
 "quick_gloss": "if"
 },
 {
 "surface": "arūpasya",
 "quick_gloss": "of-the-formless"
-},
-{
-"surface": "ātmanaḥ",
-"quick_gloss": "of-the-self"
 },
 {
 "surface": "saṃskāraḥ",
@@ -635,16 +639,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cet",
-"quick_gloss": "if"
-},
-{
 "surface": "vuddheḥ",
 "quick_gloss": "of-the-intellect"
 },
 {
+"surface": "cet",
+"quick_gloss": "if"
+},
+{
 "surface": "ātmanā+sāmyāt",
-"quick_gloss": "due-to-identity-with-self"
+"quick_gloss": "by-identity-with-self"
 },
 {
 "surface": "kasya",
@@ -656,7 +660,7 @@
 },
 {
 "surface": "guru+vīkṣaṇam",
-"quick_gloss": "seeing-of-the-guru"
+"quick_gloss": "guru-regard"
 }
 ]
 },
@@ -677,7 +681,7 @@
 },
 {
 "surface": "guruṇā",
-"quick_gloss": "by-the-guru"
+"quick_gloss": "by-guru"
 },
 {
 "surface": "kriyate",
@@ -701,12 +705,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yad+avāpya",
-"quick_gloss": "having-obtained"
+"surface": "yat+avāpya",
+"quick_gloss": "having-obtained-which"
 },
 {
 "surface": "tyajati",
-"quick_gloss": "abandons"
+"quick_gloss": "one-abandons"
 },
 {
 "surface": "āśu",
@@ -743,11 +747,11 @@
 },
 {
 "surface": "guruṇā",
-"quick_gloss": "by-the-guru"
+"quick_gloss": "by-guru"
 },
 {
 "surface": "tattva+vedinā",
-"quick_gloss": "knower-of-truth"
+"quick_gloss": "by-knower-of-truth"
 }
 ]
 },
@@ -764,15 +768,15 @@
 },
 {
 "surface": "ātmanaḥ",
-"quick_gloss": "of-the-self"
+"quick_gloss": "of-self"
 },
 {
 "surface": "vuddheḥ",
-"quick_gloss": "of-the-intellect"
+"quick_gloss": "of-intellect"
 },
 {
 "surface": "ayathārtha+nikṛntanam",
-"quick_gloss": "cutting-off-of-unreality"
+"quick_gloss": "cutting-of-untruth"
 }
 ]
 }

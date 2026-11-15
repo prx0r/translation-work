@@ -1,0 +1,41 @@
+{
+ "song": "Merutantra (M00195)",
+ "verse": 0,
+ "rows": [
+  {
+   "lemma": "vastra",
+   "morph": "n.acc.sg",
+   "grounds": "gloss 'garment'; surface vastraṃ (neuter) read as accusative singular in giving context"
+  },
+  {
+   "lemma": "vastraṃ me dehi śuṃ śukrāya namaḥ | iti ekādaśākṣaro mantraḥ |",
+   "morph": "indecl.",
+   "grounds": "token given as surface with bracketed mantra phrase (gloss: that full string); treated as the transmitted token string (AMBIGUOUS as a single lemma/morph unit)"
+  },
+  {
+   "lemma": "asmad",
+   "morph": "pron.dat.sg",
+   "grounds": "gloss 'to-me'; enclitic me = dative singular of asmad"
+  },
+  {
+   "lemma": "√dā",
+   "morph": "2sg.imp.act",
+   "grounds": "gloss 'give'; dehi = imperative second person singular active of √dā"
+  },
+  {
+   "lemma": "śukra",
+   "morph": "m.dat.sg",
+   "grounds": "gloss 'to-Śukra'; śukrāya = dative singular masculine of śukra (proper/name in context)"
+  },
+  {
+   "lemma": "hṛdaya+anta",
+   "morph": "comp.bahuvrīhi (indecl. form as given)",
+   "grounds": "gloss 'ending-with-heart'; hṛdayāntaḥ analyzed as hṛdaya + anta in bahuvrīhi sense (token form as given; AMBIGUOUS without full compound parsing)"
+  },
+  {
+   "lemma": "śum+ādika",
+   "morph": "comp.bahuvrīhi, m.nom.sg",
+   "grounds": "gloss 'beginning-with-śum'; śumādikaḥ analyzed as śum + ādika (bahuvrīhi/derivative) masculine nominative singular as given"
+  }
+ ]
+}
