@@ -3,24 +3,44 @@
  "verse": 836,
  "rows": [
   {
-   "lemma": "śayānaṃdakṣiṇaṃpādaṃ",
-   "morph": "noun.acc.sg.m",
-   "grounds": "fused form"
+   "lemma": "tat",
+   "morph": "compound=tat+samīpe",
+   "grounds": "refers to the woman; compound member"
   },
   {
-   "lemma": "dadhaṃvāmaṃ",
-   "morph": "verb.part.acc.sg.m",
-   "grounds": "fused form"
+   "lemma": "samīpe",
+   "morph": "n.loc.sg",
+   "grounds": "location of the yantra"
   },
   {
-   "lemma": "tu",
+   "lemma": "kṛtaṃ",
+   "morph": "ppp.n.nom.sg (√kṛ)",
+   "grounds": "describes the yantra as created"
+  },
+  {
+   "lemma": "yantraṃ",
+   "morph": "n.nom.sg",
+   "grounds": "ritual object"
+  },
+  {
+   "lemma": "tad",
+   "morph": "compound=tad+ājñā",
+   "grounds": "refers to the woman; compound member"
+  },
+  {
+   "lemma": "ājñā",
+   "morph": "compound=tad+ājñā+bhāva",
+   "grounds": "authority or permission; compound member"
+  },
+  {
+   "lemma": "bhāva",
+   "morph": "compound=tad+ājñā+bhāva",
+   "grounds": "attitude of honoring; compound member"
+  },
+  {
+   "lemma": "mānataḥ",
    "morph": "(indecl.)",
-   "grounds": "particle"
-  },
-  {
-   "lemma": "kuṃcitam",
-   "morph": "adj.acc.sg.m",
-   "grounds": "participle"
+   "grounds": "basis of the ritual attitude"
   }
  ]
 }

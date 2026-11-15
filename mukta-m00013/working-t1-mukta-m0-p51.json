@@ -16,7 +16,7 @@
 },
 {
 "surface": "chinnamastāṃ",
-"quick_gloss": "Chinnamastā"
+"quick_gloss": "chinnamasta"
 },
 {
 "surface": "vatsarāt",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "prapaśyati",
-"quick_gloss": "one-sees"
+"quick_gloss": "one-beholds"
 }
 ]
 },
@@ -45,11 +45,11 @@
 },
 {
 "surface": "brahma",
-"quick_gloss": "Brahman"
+"quick_gloss": "brahman"
 },
 {
 "surface": "svarūpā",
-"quick_gloss": "natured"
+"quick_gloss": "nature"
 },
 {
 "surface": "hi",
@@ -89,12 +89,8 @@
 "quick_gloss": "ten"
 },
 {
-"surface": "abda",
-"quick_gloss": "years"
-},
-{
-"surface": "taḥ",
-"quick_gloss": "from"
+"surface": "abdataḥ",
+"quick_gloss": "years-from"
 }
 ]
 },
@@ -111,7 +107,7 @@
 },
 {
 "surface": "svāhā",
-"quick_gloss": "svāhā"
+"quick_gloss": "svaha"
 },
 {
 "surface": "śaktaye",
@@ -136,7 +132,7 @@
 },
 {
 "surface": "ādi",
-"quick_gloss": "etc."
+"quick_gloss": "beginning-with"
 },
 {
 "surface": "vākyāt",
@@ -152,10 +148,10 @@
 },
 {
 "surface": "praṇava",
-"quick_gloss": "with-praṇava"
+"quick_gloss": "with-pranava"
 },
 {
-"surface": "saṃvalito",
+"surface": "saṃvalitaḥ",
 "quick_gloss": "joined"
 },
 {
@@ -173,11 +169,11 @@
 "tokens": [
 {
 "surface": "vāra",
-"quick_gloss": "three"
+"quick_gloss": "times"
 },
 {
 "surface": "trayaṃ",
-"quick_gloss": "times"
+"quick_gloss": "three"
 },
 {
 "surface": "nyaset",
@@ -194,7 +190,7 @@
 "tokens": [
 {
 "surface": "chinnamastāṃ",
-"quick_gloss": "Chinnamastā"
+"quick_gloss": "chinnamasta"
 },
 {
 "surface": "kare",
@@ -226,15 +222,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadyas",
+"surface": "sadyaḥ",
 "quick_gloss": "immediately"
 },
 {
 "surface": "tasya",
-"quick_gloss": "his"
+"quick_gloss": "her"
 },
 {
-"surface": "śiras",
+"surface": "śiraḥ",
 "quick_gloss": "head"
 },
 {
@@ -264,7 +260,7 @@
 "tokens": [
 {
 "surface": "iti",
-"quick_gloss": "of-this"
+"quick_gloss": "thus"
 },
 {
 "surface": "asyāḥ",
@@ -343,11 +339,11 @@
 },
 {
 "surface": "rati",
-"quick_gloss": "with-Rati"
+"quick_gloss": "with-rati"
 },
 {
 "surface": "kāmābhyām",
-"quick_gloss": "and-Kāma"
+"quick_gloss": "and-kama"
 }
 ]
 },
@@ -363,7 +359,7 @@
 "quick_gloss": "then"
 },
 {
-"surface": "punar",
+"surface": "punaḥ",
 "quick_gloss": "again"
 },
 {
@@ -385,7 +381,7 @@
 "tokens": [
 {
 "surface": "svāhā",
-"quick_gloss": "svāhā"
+"quick_gloss": "svaha"
 },
 {
 "surface": "iti",
@@ -414,11 +410,19 @@
 },
 {
 "surface": "praṇava",
-"quick_gloss": "beginning-with-praṇava"
+"quick_gloss": "with-pranava"
+},
+{
+"surface": "ādi",
+"quick_gloss": "beginning"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "ending-with-namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "antena",
+"quick_gloss": "ending"
 },
 {
 "surface": "pūjayet",
@@ -435,7 +439,7 @@
 "tokens": [
 {
 "surface": "brahma",
-"quick_gloss": "from-Brahman"
+"quick_gloss": "brahman"
 },
 {
 "surface": "yoni",
@@ -443,7 +447,7 @@
 },
 {
 "surface": "samutpanne",
-"quick_gloss": "arisen"
+"quick_gloss": "arisen-from"
 },
 {
 "surface": "gaccha",
@@ -500,24 +504,20 @@
 "quick_gloss": "with-honey"
 },
 {
-"surface": "pānā",
-"quick_gloss": "drinking"
+"surface": "pānādyaiḥ",
+"quick_gloss": "drinking-etc"
 },
 {
-"surface": "ādyair",
-"quick_gloss": "etc."
-},
-{
-"surface": "madhurair",
+"surface": "madhuraiḥ",
 "quick_gloss": "with-sweet"
 },
 {
 "surface": "vibhava",
-"quick_gloss": "offerings"
+"quick_gloss": "offering"
 },
 {
 "surface": "kramaiḥ",
-"quick_gloss": "in-sequence"
+"quick_gloss": "sequences"
 }
 ]
 },
@@ -545,12 +545,16 @@
 "quick_gloss": "worshipped"
 },
 {
-"surface": "ayaṃ",
+"surface": "ayam",
 "quick_gloss": "this"
 },
 {
 "surface": "sureśvara",
-"quick_gloss": "O-lord-of-gods"
+"quick_gloss": "o-lord-of-gods"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -563,7 +567,7 @@
 "tokens": [
 {
 "surface": "vajravairocanīye",
-"quick_gloss": "in-Vajravairocanīya"
+"quick_gloss": "in-vajravairocaniya"
 },
 {
 "surface": "ca",
@@ -571,15 +575,15 @@
 },
 {
 "surface": "hūṃ",
-"quick_gloss": "hūṃ"
+"quick_gloss": "hum"
 },
 {
 "surface": "phaṭ",
-"quick_gloss": "phaṭ"
+"quick_gloss": "phat"
 },
 {
 "surface": "svāhā",
-"quick_gloss": "svāhā"
+"quick_gloss": "svaha"
 },
 {
 "surface": "tataḥ",
@@ -608,11 +612,15 @@
 },
 {
 "surface": "ādikaṃ",
-"quick_gloss": "etc."
+"quick_gloss": "etc"
 },
 {
 "surface": "ṣoḍaśī",
-"quick_gloss": "like-Ṣoḍaśī"
+"quick_gloss": "like-shodashi"
+},
+{
+"surface": "vat",
+"quick_gloss": "as"
 },
 {
 "surface": "kāryam",
@@ -636,8 +644,8 @@
 "quick_gloss": "worship"
 },
 {
-"surface": "ādikaṃ",
-"quick_gloss": "etc."
+"surface": "ādikam",
+"quick_gloss": "etc"
 },
 {
 "surface": "sarvaṃ",
@@ -645,7 +653,11 @@
 },
 {
 "surface": "ṣoḍaśī",
-"quick_gloss": "like-Ṣoḍaśī"
+"quick_gloss": "like-shodashi"
+},
+{
+"surface": "vat",
+"quick_gloss": "as"
 },
 {
 "surface": "kāryam",
@@ -662,7 +674,11 @@
 "tokens": [
 {
 "surface": "asya",
-"quick_gloss": "of-her-also"
+"quick_gloss": "of-her"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "dhyāna",
@@ -673,8 +689,8 @@
 "quick_gloss": "worship"
 },
 {
-"surface": "ādikaṃ",
-"quick_gloss": "etc."
+"surface": "ādikam",
+"quick_gloss": "etc"
 },
 {
 "surface": "sarvaṃ",
@@ -682,7 +698,11 @@
 },
 {
 "surface": "ṣoḍaśī",
-"quick_gloss": "like-Ṣoḍaśī"
+"quick_gloss": "like-shodashi"
+},
+{
+"surface": "vat",
+"quick_gloss": "as"
 },
 {
 "surface": "kāryam",
@@ -699,11 +719,15 @@
 "tokens": [
 {
 "surface": "tārā",
-"quick_gloss": "beginning-with-tārā"
+"quick_gloss": "with-tara"
+},
+{
+"surface": "ādyā",
+"quick_gloss": "beginning"
 },
 {
 "surface": "antā",
-"quick_gloss": "ending-with-tārā"
+"quick_gloss": "ending"
 },
 {
 "surface": "bhavati",
@@ -719,7 +743,7 @@
 },
 {
 "surface": "varga",
-"quick_gloss": "goals"
+"quick_gloss": "aims"
 },
 {
 "surface": "phala",
@@ -747,8 +771,8 @@
 "quick_gloss": "worship"
 },
 {
-"surface": "ādikaṃ",
-"quick_gloss": "etc."
+"surface": "ādikam",
+"quick_gloss": "etc"
 },
 {
 "surface": "sarvaṃ",
@@ -756,7 +780,11 @@
 },
 {
 "surface": "ṣoḍaśī",
-"quick_gloss": "like-Ṣoḍaśī"
+"quick_gloss": "like-shodashi"
+},
+{
+"surface": "vat",
+"quick_gloss": "as"
 },
 {
 "surface": "samācaret",

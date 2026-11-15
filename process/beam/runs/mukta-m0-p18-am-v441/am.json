@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 441,
- "question": "What textual division is being named at this point in the work?",
+ "question": "What is the status of action for one who has attained absorption?",
  "premises": [
-  "A chapter is being identified.",
-  "Its ordinal position is eighth.",
-  "The verse functions as a colophon-like marker."
+  "Absorption is the context",
+  "Actions are considered",
+  "One may do actions or not do them"
  ],
- "inference": "This marks the eighth chapter.",
- "uncertainties": [],
- "plain_english": "This is the eighth chapter."
+ "inference": "In absorption, one may perform actions or may not perform them.",
+ "uncertainties": [
+  "The fused token samādheratha is ambiguous in parsing."
+ ],
+ "plain_english": "Now, having attained absorption, one may perform actions or may not perform them."
 }

@@ -3,29 +3,39 @@
  "verse": 832,
  "rows": [
   {
-   "lemma": "śaṃbhordakṣiṇavāmakakṣabhujayorbrahmācyutābhayāṃ",
-   "morph": "noun.gen.du.m",
-   "grounds": "fused form"
+   "lemma": "guru",
+   "morph": "compound=guru+bhakti",
+   "grounds": "spiritual teacher; first member of compound"
   },
   {
-   "lemma": "sthitaṃ",
-   "morph": "verb.3.sg.act-past+root-stha",
-   "grounds": "participle"
+   "lemma": "bhakti",
+   "morph": "compound=guru+bhakti",
+   "grounds": "devotional attitude; compound member"
   },
   {
-   "lemma": "tattallakṣaṇamāyudhaiḥ",
-   "morph": "noun.ins.pl.n",
-   "grounds": "compound"
+   "lemma": "ratāṃ",
+   "morph": "adj.f.acc.sg",
+   "grounds": "describes dedication to guru devotion"
   },
   {
-   "lemma": "parivṛtaṃ",
-   "morph": "verb.3.sg.pass-past+root-vrt",
-   "grounds": "participle"
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   },
   {
-   "lemma": "hastadvayāḍhyāṃjalim",
-   "morph": "noun.acc.sg.m",
-   "grounds": "compound"
+   "lemma": "kula",
+   "morph": "compound=kula+sādhana",
+   "grounds": "tradition or lineage; compound member"
+  },
+  {
+   "lemma": "sādhana",
+   "morph": "compound=kula+sādhana",
+   "grounds": "ritual discipline; compound member"
+  },
+  {
+   "lemma": "tatparām",
+   "morph": "adj.f.acc.sg",
+   "grounds": "fully intent on kula practice"
   }
  ]
 }

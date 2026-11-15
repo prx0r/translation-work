@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "saurabha",
+     "gloss": "fragrant",
+     "grounds": "qualifying substance; continues fragrant offerings from previous verse",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādyaiḥ",
+     "gloss": "and-suchlike",
+     "grounds": "indicates fragrant substances and others of similar kind",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tilaiḥ",
+     "gloss": "with-sesame-seeds",
+     "grounds": "ritual offering substance",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "śubhraḥ",
+     "gloss": "white",
+     "grounds": "qualifies rice grains",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "taṇḍulaiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "ritual offering substance",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "prescribes proper ritual procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhunet",
+     "gloss": "one-should-offer",
+     "grounds": "injunctive ritual action of offering or scattering",
+     "morph": "3.sg.act-optative √dhū"
+    }
+   ],
+   "question": "Which fragrant substances and grains must be ritually offered according to the prescribed rule?",
+   "premises": [
+    "Fragrant substances and similar items are specified as offerings.",
+    "Sesame seeds and white rice grains are included among these offerings.",
+    "The offering must be performed according to the prescribed rule."
+   ],
+   "inference": "One should ritually offer fragrant substances, sesame seeds, and white rice grains in accordance with the prescribed procedure.",
+   "uncertainties": [
+    "The exact range of substances implied by ādyaiḥ is not specified.",
+    "The precise ritual action denoted by dhunet in this context may be offering or scattering."
+   ],
+   "plain_english": "One should, according to rule, offer fragrant substances and the like, along with sesame seeds and white rice grains."
+  }
+ ]
+}

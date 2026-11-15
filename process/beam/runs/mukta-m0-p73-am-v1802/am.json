@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1802,
- "question": "Which deities preside over the six seasons and what forms and gifts are assigned to them?",
+ "question": "What verbal formula begins the mantra sequence described here?",
  "premises": [
-  "Six seasons each have a presiding deity.",
-  "Deities are described by color form and gift.",
-  "Worship and offerings accompany seasonal birth traits."
+  "A formula is introduced explicitly.",
+  "The formula includes oṃ, hrāṃ, hṛdayāya, and namaḥ."
  ],
- "inference": "The verses enumerate seasonal deities with attributes and ritual associations.",
+ "inference": "The mantra sequence begins with the formula oṃ hrāṃ hṛdayāya namaḥ and continues similarly.",
  "uncertainties": [
-  "Token boundaries and sandhi are preserved; some compounds are opaque."
+  "The full set of subsequent formulas implied by ādi is not specified."
  ],
- "plain_english": "It lists deities of the six seasons with colors, forms, and offerings."
+ "plain_english": "The formula is: oṃ hrāṃ hṛdayāya namaḥ, and so forth."
 }

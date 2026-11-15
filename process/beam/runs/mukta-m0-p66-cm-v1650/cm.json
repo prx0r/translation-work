@@ -3,14 +3,44 @@
  "verse": 1650,
  "rows": [
   {
-   "lemma": "pratyūhaśāṃtipradamākhusaṃsthaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound adjective describing Ganesha; internal members pratyūha, śānti, prada, ākhu, saṃstha"
+   "lemma": "svapna",
+   "morph": "compound-member",
+   "grounds": "first member of compound describing the source of obtaining"
   },
   {
-   "lemma": "dhyāyeddhṛdabje satataṃ gaṇeśam",
-   "morph": "verb 3.sg.act.opt + loc.sg.n + indecl. + m.acc.sg",
-   "grounds": "fused phrase with internal sandhi and spaces: dhyāyet hṛdabje satataṃ gaṇeśam"
+   "lemma": "labdha",
+   "morph": "ppp-compound-member (√labh)",
+   "grounds": "past passive participle qualifying wealth; forms compound with svapna"
+  },
+  {
+   "lemma": "dhanena",
+   "morph": "n.inst.sg",
+   "grounds": "instrumental of means or cause"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "dhanavān",
+   "morph": "m.nom.sg",
+   "grounds": "predicate adjective describing the subject"
+  },
+  {
+   "lemma": "sa",
+   "morph": "m.nom.sg",
+   "grounds": "demonstrative pronoun serving as subject"
+  },
+  {
+   "lemma": "bhaved",
+   "morph": "3.sg.opt.act (√bhū)",
+   "grounds": "optative expressing hypothetical condition"
+  },
+  {
+   "lemma": "yadi",
+   "morph": "(indecl.)",
+   "grounds": "conditional particle introducing the hypothetical"
   }
  ]
 }

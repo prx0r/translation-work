@@ -3,24 +3,39 @@
  "verse": 1801,
  "rows": [
   {
-   "lemma": "śuciryajñopavītī",
-   "morph": "m.nom.sg",
-   "grounds": "compound of pure and sacrificial-threaded"
+   "lemma": "dharm",
+   "morph": "compound-member",
+   "grounds": "first member of compound listing aims; sandhi form as given"
   },
   {
-   "lemma": "ca",
+   "lemma": "ārtha",
+   "morph": "compound-member",
+   "grounds": "second member of compound listing aims"
+  },
+  {
+   "lemma": "kāma",
+   "morph": "compound-member",
+   "grounds": "third member of compound listing aims"
+  },
+  {
+   "lemma": "mokṣeṣu",
+   "morph": "m.loc.pl",
+   "grounds": "fourth aim in the series, locus of application"
+  },
+  {
+   "lemma": "viniyogaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject of the declaration"
+  },
+  {
+   "lemma": "prakīrttitaḥ",
+   "morph": "m.nom.sg.past-participle",
+   "grounds": "predicate stating what is taught"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "indeclinable conjunction"
-  },
-  {
-   "lemma": "prasīdatu",
-   "morph": "3.sg.act-opt (prasād)",
-   "grounds": "optative of prasad"
-  },
-  {
-   "lemma": "śubhapradaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound of auspicious and giver"
+   "grounds": "quotation or conclusion marker"
   }
  ]
 }

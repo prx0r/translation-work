@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "vidyāṃ",
+     "gloss": "sacred-formula",
+     "grounds": "object of recitation; accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative injunction to perform recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "a-hundred-times",
+     "grounds": "specifies the number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to the recitation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tatpāpāt",
+     "gloss": "from-that-sin",
+     "grounds": "ablative of separation; tat+pāpāt compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-freed",
+     "grounds": "resulting liberation from sin",
+     "morph": "3.sg.pres.pass √muc"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What liberating effect does a hundredfold recitation of the sacred formula have on that sin?",
+   "premises": [
+    "The sacred formula should be recited a hundred times.",
+    "This recitation functions as the effective means.",
+    "That sin is the condition from which freedom is sought."
+   ],
+   "inference": "Therefore, by that hundredfold recitation one is certainly freed from that sin.",
+   "uncertainties": [],
+   "plain_english": "One should recite the sacred formula a hundred times; by that, one is certainly freed from that sin."
+  }
+ ]
+}

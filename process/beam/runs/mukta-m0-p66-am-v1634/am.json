@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1634,
- "question": "Which good-doer, angry, and vishvavasu names are listed here?",
+ "question": "In which various bodily locations may the described action be performed?",
  "premises": [
-  "The first token names good-doer and angry.",
-  "The second token names vishvavasu and parabhava."
+  "The action can occur in different locations.",
+  "Specific bodily locations are named.",
+  "The locations vary by context."
  ],
- "inference": "This segment lists good-doer, angry, and vishvavasu names.",
- "uncertainties": [
-  "Internal sandhi boundaries are not expanded."
- ],
- "plain_english": "This segment lists good-doer, angry, vishvavasu, and parabhava."
+ "inference": "The action may be performed in the mouth, ear, on the head, or in various other places.",
+ "uncertainties": [],
+ "plain_english": "Sometimes in the mouth, sometimes in the ear, on the head, or in various other places."
 }

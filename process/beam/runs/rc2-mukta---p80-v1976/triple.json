@@ -1,0 +1,529 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 1976,
+   "rows": [
+    {
+     "surface": "yantram",
+     "gloss": "diagram",
+     "grounds": "refers to the ritual diagram",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks reported designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhuḥ",
+     "gloss": "they-say",
+     "grounds": "reports traditional statement",
+     "morph": "3.pl.act.perf √ah/brū"
+    },
+    {
+     "surface": "etasmin",
+     "gloss": "in-this",
+     "grounds": "locates the context in the diagram",
+     "morph": "pron.loc.sg.n"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "deity",
+     "grounds": "the divine being invoked",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prīṇāti",
+     "gloss": "is-pleased",
+     "grounds": "expresses divine satisfaction",
+     "morph": "3.sg.act.pres √prī"
+    },
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "condition under which deity is pleased",
+     "morph": "m.nom.sg.past-participle √pūj"
+    }
+   ],
+   "question": "Why is the deity pleased when worshipped within this diagram?",
+   "premises": [
+    "The object is called a yantra.",
+    "The deity is present in this yantra.",
+    "Worship performed there pleases the deity."
+   ],
+   "inference": "The yantra is designated as the locus where worship effectively pleases the deity.",
+   "uncertainties": [],
+   "plain_english": "They call this a yantra; when worshipped in it, the deity is pleased."
+  },
+  {
+   "verse": 1977,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the preceding statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantrasya",
+     "gloss": "of-diagram",
+     "grounds": "specifies the object whose status is asserted",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pūjayāṃ",
+     "gloss": "in-worship",
+     "grounds": "locates the context of primacy",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "prādhānyam",
+     "gloss": "primacy",
+     "grounds": "asserts foremost importance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What holds primacy in worship according to this teaching?",
+   "premises": [
+    "The preceding statement concerns the yantra.",
+    "Worship is the context under discussion.",
+    "Primacy is attributed to the yantra in worship."
+   ],
+   "inference": "The yantra is declared to have primacy in worship.",
+   "uncertainties": [],
+   "plain_english": "Thus, in worship, the yantra has primacy."
+  },
+  {
+   "verse": 1978,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "signals transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "expresses desire to receive instruction",
+     "morph": "infinitive √śru"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "i-wish",
+     "grounds": "speaker states intention",
+     "morph": "1.sg.act.pres √iṣ"
+    },
+    {
+     "surface": "pratiṣṭhā+karma+nirṇayam",
+     "gloss": "consecration-rite-determination",
+     "grounds": "compound object: determination of consecration rite",
+     "morph": "m.acc.sg (pratiṣṭhā+karma+nirṇaya compound)"
+    }
+   ],
+   "question": "What specific ritual determination does the speaker now wish to hear?",
+   "premises": [
+    "The speaker signals a new inquiry.",
+    "The speaker expresses a wish to hear.",
+    "The desired topic is the determination of the consecration rite."
+   ],
+   "inference": "The speaker requests instruction on the determination of the consecration rite.",
+   "uncertainties": [],
+   "plain_english": "Now I wish to hear the determination of the consecration rite."
+  },
+  {
+   "verse": 1979,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers back to the consecration rite",
+     "morph": "pron.gen.sg.m/n"
+    },
+    {
+     "surface": "udyāpana+karma+aṅgaṃ",
+     "gloss": "concluding-rite-limb",
+     "grounds": "compound object: limb of the concluding rite",
+     "morph": "n.acc.sg (udyāpana+karma+aṅga compound)"
+    },
+    {
+     "surface": "sarva+varṇa+vinirṇayam",
+     "gloss": "all-class-determination",
+     "grounds": "compound object: determination for all classes",
+     "morph": "m.acc.sg (sarva+varṇa+vinirṇaya compound)"
+    }
+   ],
+   "question": "Which aspects of the concluding rite are sought for all classes?",
+   "premises": [
+    "The inquiry concerns that rite.",
+    "The limb of the concluding rite is requested.",
+    "The determination for all classes is requested."
+   ],
+   "inference": "The speaker seeks the concluding rite's components and their determination for all classes.",
+   "uncertainties": [],
+   "plain_english": "I wish to hear its concluding rite and the determination for all classes."
+  },
+  {
+   "verse": 1980,
+   "rows": [
+    {
+     "surface": "toya+dhūpa+antaraiḥ",
+     "gloss": "with-water-incense-intervals",
+     "grounds": "compound instrument: intervals of water and incense",
+     "morph": "n.inst.pl (toya+dhūpa+antara compound)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "pañca+amṛta",
+     "gloss": "five-nectars",
+     "grounds": "compound object: the five nectars",
+     "morph": "n.acc.sg (pañca+amṛta compound)"
+    },
+    {
+     "surface": "vidhiṃ",
+     "gloss": "rite",
+     "grounds": "the ritual procedure to be performed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified performer of the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner perform the five-nectar rite?",
+   "premises": [
+    "A wise practitioner is the agent.",
+    "The rite involves the five nectars.",
+    "It should be performed with intervals of water and incense."
+   ],
+   "inference": "The wise one should perform the five-nectar rite with intervals of water and incense.",
+   "uncertainties": [],
+   "plain_english": "The wise one should perform the rite of the five nectars with intervals of water and incense."
+  },
+  {
+   "verse": 1981,
+   "rows": [
+    {
+     "surface": "kaṣāya+jala+sampūṛnaiḥ",
+     "gloss": "with-astringent-water-filled",
+     "grounds": "compound instrument: filled with astringent water",
+     "morph": "n.inst.pl (kaṣāya+jala+sampūrṇa compound)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "prescriptive causative instruction",
+     "morph": "3.sg.act.opt.caus √kṛ"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "ritual bathing action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "qualifies the bath as superior",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kind of bath should be arranged as the excellent option?",
+   "premises": [
+    "A bath is to be caused to be performed.",
+    "The bath is qualified as excellent.",
+    "It uses vessels filled with astringent water."
+   ],
+   "inference": "An excellent bath should be arranged using astringent water.",
+   "uncertainties": [],
+   "plain_english": "One should arrange an excellent bath with vessels filled with astringent water."
+  },
+  {
+   "verse": 1982,
+   "rows": [
+    {
+     "surface": "aṣṭa+uttara+śataṃ",
+     "gloss": "eight-above-hundred",
+     "grounds": "compound number indicating one hundred and eight",
+     "morph": "n.acc.sg (aṣṭa+uttara+śata compound)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devatā+bhāva+siddhaye",
+     "gloss": "deity-nature-accomplishment",
+     "grounds": "compound purpose: for accomplishment of deity-nature",
+     "morph": "f.dat.sg (devatā+bhāva+siddhi compound)"
+    }
+   ],
+   "question": "For what purpose should the count of one hundred and eight be performed?",
+   "premises": [
+    "The goddess is addressed.",
+    "The number one hundred and eight is specified.",
+    "The purpose is accomplishment of deity-nature."
+   ],
+   "inference": "One hundred and eight repetitions are prescribed for accomplishing deity-nature.",
+   "uncertainties": [
+    "The specific action counted as one hundred and eight is implied from context."
+   ],
+   "plain_english": "O goddess, one hundred and eight times, for the accomplishment of the nature of the deity."
+  },
+  {
+   "verse": 1983,
+   "rows": [
+    {
+     "surface": "phala+tāmbūla+naivedyaiḥ",
+     "gloss": "with-fruit-betel-food-offerings",
+     "grounds": "compound instrument: offerings of fruit, betel, and food",
+     "morph": "n.inst.pl (phala+tāmbūla+naivedya compound)"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locates the worship in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive instruction for worship",
+     "morph": "3.sg.act.opt √arc with sam"
+    }
+   ],
+   "question": "With what offerings should the goddess be worshipped there?",
+   "premises": [
+    "The goddess is the object of worship.",
+    "Worship takes place there.",
+    "Fruit, betel, and food offerings are to be used."
+   ],
+   "inference": "The goddess should be worshipped there with fruit, betel, and food offerings.",
+   "uncertainties": [],
+   "plain_english": "There one should worship the goddess with offerings of fruit, betel, and food."
+  },
+  {
+   "verse": 1984,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "refers to the entirety of what is prescribed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "points to the aforementioned items",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "manner of giving",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive instruction to offer",
+     "morph": "3.sg.act.opt √dā"
+    },
+    {
+     "surface": "ātma+hite",
+     "gloss": "in-own-welfare",
+     "grounds": "compound purpose: for one's own welfare",
+     "morph": "n.loc.sg (ātma+hita compound)"
+    },
+    {
+     "surface": "rataḥ",
+     "gloss": "engaged",
+     "grounds": "describes the giver as devoted to own welfare",
+     "morph": "m.nom.sg.past-participle √ram"
+    }
+   ],
+   "question": "How should one devoted to personal welfare offer all these items?",
+   "premises": [
+    "All these items are to be given.",
+    "The giver is engaged in personal welfare.",
+    "The giving must be done with effort."
+   ],
+   "inference": "One devoted to personal welfare should give all these offerings with effort.",
+   "uncertainties": [],
+   "plain_english": "One engaged in one's own welfare should give all this with effort."
+  },
+  {
+   "verse": 1985,
+   "rows": [
+    {
+     "surface": "bali+dānaṃ",
+     "gloss": "oblation-giving",
+     "grounds": "compound object: the giving of oblation",
+     "morph": "n.acc.sg (bali+dāna compound)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence after previous acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completes the act of giving oblation",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "one-should-bow",
+     "grounds": "prescriptive act of reverence",
+     "morph": "3.sg.act.opt √nam with pra"
+    },
+    {
+     "surface": "yantra+rājakam",
+     "gloss": "diagram-king",
+     "grounds": "compound object: the supreme yantra",
+     "morph": "m.acc.sg (yantra+rājaka compound)"
+    }
+   ],
+   "question": "What act of reverence follows the giving of the oblation?",
+   "premises": [
+    "The oblation is given first.",
+    "A subsequent act is prescribed.",
+    "The supreme yantra is the object of reverence."
+   ],
+   "inference": "After giving the oblation, one should bow to the supreme yantra.",
+   "uncertainties": [],
+   "plain_english": "Then, having given the oblation, one should bow to the king of yantras."
+  },
+  {
+   "verse": 1986,
+   "rows": [
+    {
+     "surface": "homa+karmaṇi",
+     "gloss": "in-fire-rite",
+     "grounds": "compound location: in the fire ritual",
+     "morph": "n.loc.sg (homa+karman compound)"
+    },
+    {
+     "surface": "a",
+     "gloss": "not",
+     "grounds": "negates capability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktaḥ",
+     "gloss": "capable",
+     "grounds": "describes ability to perform the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "specifies doubled quantity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japam",
+     "gloss": "recitation",
+     "grounds": "substitute ritual action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive instruction for substitute",
+     "morph": "3.sg.act.opt √car with ā"
+    }
+   ],
+   "question": "What substitute practice is prescribed when one cannot perform the fire rite?",
+   "premises": [
+    "The fire rite may be beyond one's capability.",
+    "A conditional alternative is provided.",
+    "The alternative is double recitation."
+   ],
+   "inference": "If unable to perform the fire rite, one should perform double the recitation.",
+   "uncertainties": [],
+   "plain_english": "If one is not capable in the fire rite, one should perform double the recitation."
+  },
+  {
+   "verse": 1987,
+   "rows": [
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "fee",
+     "grounds": "ritual gift to the guru",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive instruction to give",
+     "morph": "3.sg.act.opt √dā"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indicates subsequent action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-goddess",
+     "grounds": "specifies whose dismissal is performed",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "visarjanam",
+     "gloss": "dismissal",
+     "grounds": "ritual dismissal of the goddess",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What final acts conclude the ritual after giving the guru's fee?",
+   "premises": [
+    "A fee is to be given to the guru.",
+    "A subsequent act follows the giving.",
+    "The subsequent act is the dismissal of the goddess."
+   ],
+   "inference": "After giving the fee to the guru, one should perform the dismissal of the goddess.",
+   "uncertainties": [],
+   "plain_english": "One should give the fee to the guru, and then perform the dismissal of the goddess."
+  }
+ ]
+}
