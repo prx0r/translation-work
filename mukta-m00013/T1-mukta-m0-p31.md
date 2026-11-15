@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[again](punaḥ) [creation+maintenance+thus](sṛṣṭisthitīti) [in-five-ways](pañcadhā) [should-do](kuryāt)
+[again](punaḥ) [creation+maintenance+thus](sṛṣṭisthitīti) [fivefold](pañcadhā) [should-do](kuryāt)
 
 ## mukta-m0-p31-v752
-[to-demon+ender+wheel](asurāntakacakrāya) [svāhā](svāhā) [with-little-fingers](kaniṣṭhābhyāṃ) [phaṭ](phaṭ)
+[demon+ender+to-the-disk](asurāntakacakrāya) [svāhā](svāhā) [with-the-little-fingers](kaniṣṭhābhyāṃ) [phaṭ](phaṭ)
 
 ## mukta-m0-p31-v753
 [thus](iti) [creation+placement](ṣṛṣṭinyāsaḥ)
@@ -14,64 +14,64 @@
 [to-be-done](karttavyaḥ)
 
 ## mukta-m0-p31-v755
-[these](etāni) [obeisance+ending](namo'ntāni) [should-place](vinyaset)
+[these](etāni) [ending-with-namas](namo'ntāni) [should-place](vinyaset)
 
 ## mukta-m0-p31-v756
-[diadem+beginning](kirīṭādi)[placement](nyāsaḥ)[indeed](tu) [everywhere](sarvatra) [viṣṇu](viṣṇu)+[in-mantra](mantre)
+[crown-etc+placement+but](kirīṭādinyāsastu) [everywhere](sarvatra) [viṣṇu+in-mantra](viṣṇumantre)
 
 ## mukta-m0-p31-v757
-[then](tato) [incense+etc+dismissal+end](dhūpādivisarjanāntaṃ) [action](karma) [should-complete](samāpayet)
+[then](tato) [incense-etc+farewell+ending](dhūpādivisarjanāntaṃ) [action](karma) [should-complete](samāpayet)
 
 ## mukta-m0-p31-v758
-[ten-thousand](daśāyutam)
+[ten+ten-thousand](daśāyutam)
 
 ## mukta-m0-p31-v759
-[with-sugar+ghee+well-sprinkled](sasitaghṛtasusiktaiḥ) [should-begin](ārabhet) [oblation+act](homa+karma)
+[with+white+ghee+well-sprinkled+should-begin+fire-offering+action](sasitaghṛtasusiktairārabheddhomakarma)
 
 ## mukta-m0-p31-v760
-[thus](iti) [sanatkumāra+from-statement](sanatkumāravacanāt)
+[thus](iti) [Sanatkumāra+from-statement](sanatkumāravacanāt)
 
 ## mukta-m0-p31-v761
 [having-performed](vidhāya) [should-meditate](dhyāyet)
 
 ## mukta-m0-p31-v762
-[flute](veṇuṃ) [playing+filled](dhamanaghṛto) [with-two-arms](dorbhyāṃ) [to-be-meditated](dhyeyaḥ) [kṛṣṇaḥ](kṛṣṇo) [in-sun](divākare)
+[flute](veṇuṃ) [blowing+anointed](dhamanaghṛto) [with-two-arms](dorbhyāṃ) [to-be-meditated](dhyeyaḥ) [Kṛṣṇa](kṛṣṇo) [in-sun](divākare)
 
 ## mukta-m0-p31-v763
-[thus](evaṃ) [having-meditated](dhyātvā) [with-mental](mānasaiḥ) [having-worshipped](sampūjya) [conch+placement](śaṅkha+sthāpanaṃ) [should-do](kuryāt)
+[thus](evaṃ) [having-meditated](dhyātvā) [by-mental](mānasaiḥ) [having-worshipped](sampūjya) [conch+establishment](śaṅkhasthāpanaṃ) [should-do](kuryāt)
 
 ## mukta-m0-p31-v764
 [should-complete](samāpayet)
 
 ## mukta-m0-p31-v765
-[should-offer](juhuyāt) [in-consecrated](saṃskṛte) [in-fire](vahnau) [ritualist](mantrī) [all+purpose+accomplishment](sarva+artha+siddhaye)
+[should-offer](juhuyāt) [in-consecrated](saṃskṛte) [fire](vahnau) [the-mantrin](mantrī) [all+purpose+for-accomplishment](sarvārthasiddhaye)
 
 ## mukta-m0-p31-v766
-[desire+seed+beginning](kāma+bīja+ādiḥ) [declared](ākhyātaḥ) [mantra](manuḥ) [eighteen+syllabled](aṣṭādaśa+akṣaraḥ)
+[desire+seed+etc+is-called](kāmabījādirākhyāto) [mantra+eighteen+syllabled](manuraṣṭādaśākṣaraḥ)
 
 ## mukta-m0-p31-v767
-[of-this](asya) [primary-practice](puraścaraṇaṃ) [ten-syllabled+chapter+stated](daśa+akṣara+paṭala+uktam)
+[of-this](asya) [ritual-preparation](puraścaraṇaṃ) [ten+syllable+chapter+said](daśākṣarapaṭaloktam)
 
 ## mukta-m0-p31-v768
-[śakti+śrī+beginning+and](śakti+śrī+pūrvakaḥ+ca) [eighteen+syllabled](aṣṭādaśa+arṇaḥ) [twenty+syllabled](viṃśat+akṣaraḥ)
+[śakti+śrī+preceded+and+eighteen+syllabled](śaktiśrīpūrvakaścāṣṭādaśārṇo) [twenty+syllabled](viṃśadakṣaraḥ)
 
 ## mukta-m0-p31-v769
-[thus](evaṃ) [in-heart+etc](hṛdaya+ādiṣu)
+[thus](evaṃ) [heart+etc-in](hṛdayādiṣu)
 
 ## mukta-m0-p31-v770
-[then](tataḥ) [ten+tattvas](daśa+tattvāni) [having-placed](vinyasya) [again](punaḥ) [with-root](mūlena) [pervasion](vyāpaka) [should-do](kuryāt)
+[then](tato) [ten+principles](daśatattvāni) [having-placed](vinyasya) [again+by-root](punarmūlena) [pervasion](vyāpaka) [should-do](kuryāt)
 
 ## mukta-m0-p31-v771
-[quality+fire+direction+organ+organ+sense+syllables](guṇa+agni+veda+karaṇa+karaṇa+akṣya+akṣaraiḥ) [of-mantra](manoḥ) [pervasion](vyāpakaṃ) [should-perform](vidhāya)
+[quality+fire](guṇāgni) [veda+sense+sense+eye+syllables+of-mantra](vedakaraṇakaraṇākṣyakṣarair) [of-mantra](manoḥ)
 
 ## mukta-m0-p31-v772
-[pervasion](vyāpakaṃ) [having-performed](vidhāya) [according-to-strength](yathā+śakti) [seal](mudrāṃ) [having-bound](badhvā) [should-meditate](dhyāyet)
+[pervasion](vyāpakaṃ) [having-done](vidhāya) [according-to+power](yathāśakti) [seal](mudrāṃ) [having-bound](badhvā) [should-meditate](dhyāyet)
 
 ## mukta-m0-p31-v773
-[thus](evaṃ) [having-meditated](dhyātvā) [with-mental](mānasaiḥ) [having-worshipped](sampūjya) [conch+placement](śaṅkha+sthāpanaṃ) [should-do](kuryāt)
+[thus](evaṃ) [having-meditated](dhyātvā) [by-mental](mānasaiḥ) [having-worshipped](sampūjya) [conch+establishment](śaṅkhasthāpanaṃ) [should-do](kuryāt)
 
 ## mukta-m0-p31-v774
-[ten-syllabled](daśa+akṣara) [fourteen-syllabled](caturdaśa+akṣara) [eleven-syllabled](ekādaśa+akṣarāṇi+iti)
+[ten+syllable](daśākṣara) [fourteen+syllable](caturdaśākṣara) [eleven+syllables+of+thus](ekādaśākṣarāṇāmiti)
 
 ## mukta-m0-p31-v775
-[general+diagram](sāmānya+yantram) [is-indicated](uddiṣṭam) [in-eighteen-syllabled](aṣṭādaśa+akṣare) [hear](śṛṇu)
+[common+diagram](sāmānyayantram) [is-indicated](uddiṣṭam) [in-eighteen+syllable](aṣṭādaśākṣare) [hear](śṛṇu)

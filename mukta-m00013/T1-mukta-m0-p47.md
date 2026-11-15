@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[are-destroyed](naśyanti) [all+obstacles](sarva+vighnāni) [is-obtained](prāpyate) [and](ca) [as+desired](yathā+īpsitam)
+[perish](naśyanti) [all](sarva)+[obstacles](vighnāni) [is-obtained](prāpyate) [and](ca) [as](yathā)+[desired](īpsitam)
 
 ## mukta-m0-p47-v1152
-[of-aṇimā+etc.+eight+siddhis](aṇimā+ādi+aṣṭa+siddhīnām) [lord](adhipaḥ) [becomes](jāyate) [without-delay](acirāt)
+[of-aṇimā](aṇimā)+[etc.](ādi)+[eight](aṣṭa)+[siddhis](siddhīnām)+[lord](adhipo) [becomes](jāyate)+[quickly](acirāt)
 
 ## mukta-m0-p47-v1153
-[this](etat) [in-yantra+alone](yantra+mātre) [to-be-known](jñeyam)
+[this](etat)+[yantra](yantra)+[merely](mātre) [should-be-known](jñeyam)
 
 ## mukta-m0-p47-v1154
-[a-hundred-thousand+ten-thousand](lakṣa+ayutam) [thus](iti) [some-say](eke)
+[a-hundred-thousand](lakṣam)+[ten-thousand](ayutam)+[thus](iti)+[some-say](eke)
 
 ## mukta-m0-p47-v1155
-[this](idam) [but](tu) [in-yantra+alone](yantra+mātra) [pertaining-to](viṣayam)
+[this](idam)+[but](tu) [yantra](yantra)+[merely](mātra) [subject](viṣayam)
 
 ## mukta-m0-p47-v1156
-[thousand+crore+fruit-giving](sahasra+koṭi+phala+daṃ) [śrīcakra+foot-water](śrīcakra+pāda+udakam)
+[giving](dam) [thousand](sahasra)+[crore](koṭi)+[fruit](phala)+[giving](dam) [śrī](śrī)+[cakra](cakra)+[foot](pāda)+[water](udakam)
 
 ## mukta-m0-p47-v1157
-[that+fruit](tat+phalaṃ) [fully+obtains](samavāpnoti) [having-done](kṛtvā) [śrīcakra+vision](śrīcakra+darśanam)
+[that](tat)+[fruit](phalaṃ) [obtains](samavāpnoti) [having-done](kṛtvā) [śrī](śrī)+[cakra](cakra)+[seeing](darśanam)
 
 ## mukta-m0-p47-v1158
-[that+fruit](tat+phalaṃ) [obtains](labhate) [with-devotion](bhaktyā) [having-done](kṛtvā) [śrīcakra+vision](śrīcakra+darśanam)
+[that](tat)+[fruit](phalaṃ) [obtains](labhate) [with-devotion](bhaktyā) [having-done](kṛtvā) [śrī](śrī)+[cakra](cakra)+[seeing](darśanam)
 
 ## mukta-m0-p47-v1159
-[on-mouth](mukhe) [to-tripurasundarī](tripurasundaryai) [to-goddess](devāyai) [obeisance](namaḥ) [in-heart](hṛdi)
+[on-the-mouth](mukhe) [to-tripurasundarī](tripurasundaryai) [to-the-goddess](devāyai) [salutation](namo) [on-the-heart](hṛdi)
 
 ## mukta-m0-p47-v1160
-[therefore](ataḥ) [indeed](eva) [that](tat) [indeed](eva) [of-her](asyāḥ) [vāgbhava+seed](vāgbhavaṃ+bījam) [is-called](ucyate)
+[therefore](ata) [indeed](eva) [that](tat)+[indeed](eva)+[of-her](asyāḥ) [speech](vāk)+[born](bhavaṃ) [seed](bījam)+[is-called](ucyate)
 
 ## mukta-m0-p47-v1161
-[by-that](tena) [this](iyam) [power](śaktiḥ) [is-called](ucyate)
+[by-that](tena)+[this](iyaṃ) [power](śaktiḥ)+[is-called](ucyate)
 
 ## mukta-m0-p47-v1162
-[modinī](modinīṃ) [one-should-worship](pūjayet) [of-speech](vācāṃ) [with-nāda+bindu+adorned](nāda+bindu+vibhūṣitām)
+[modinī](modinīṃ) [one-should-worship](pūjayet)+[of-speeches](vācāṃ) [with-nāda](nāda)+[and-bindu](bindu)+[adorned](vibhūṣitām)
 
 ## mukta-m0-p47-v1163
-[then](tataḥ) [with-root-mantra](mūlena) [pervasion](vyāpakaṃ) [having-done](kṛtvā) [one-should-meditate](dhyāyet)
+[then](tato) [with-the-root-mantra](mūlena) [pervasion](vyāpakaṃ) [having-done](kṛtvā) [one-should-meditate](dhyāyet)
 
 ## mukta-m0-p47-v1164
-[conch+placement](śaṅkha+sthāpanaṃ) [one-should-do](kuryāt)
+[conch](śaṅkha)+[placing](sthāpanaṃ) [one-should-do](kuryāt)
 
 ## mukta-m0-p47-v1165
-[to-its+right](tat+dakṣiṇe) [foot-water+etc.+vessel](pādya+ādi+pātraṃ) [having-placed](saṃsthāpya) [seat+worship](āsana+pūjām) [one-should-begin](ārabhet)
+[its](tat)+[right-side](dakṣiṇe) [foot-water](pādya)+[etc.](ādi)+[vessel](pātraṃ) [having-placed](saṃsthāpya)+[seat](āsana)+[worship](pūjām)+[one-should-begin](ārabhet)
 
 ## mukta-m0-p47-v1166
-[having-performed](vidhāya) [six+limbs](ṣaḍ+aṅgāni) [one-should-worship](pūjayet)
+[having-performed](vidhāya) [six](ṣaḍ)+[limbs](aṅgāni) [one-should-worship](pūjayet)
 
 ## mukta-m0-p47-v1167
-[tripurā](tripurā) [thus](iti) [then](tadā) [name](nāma) [declared](kathitaṃ) [by-gods](daivataiḥ) [even](api)
+[tripurā](tripurā)+[thus](iti) [then](tadā) [name](nāma) [declared](kathitaṃ) [by-the-gods](daivataiḥ)+[also](api)
 
 ## mukta-m0-p47-v1168
-[one-should-please](tarpayet) [sundarī](sundarīṃ) [goddess](devīṃ) [oceans](samudrān) [and](ca) [with-vehicles](sa+vāhanām)
+[one-should-propitiate](tarpayet)+[the-beautiful](sundarīṃ) [goddess](devīṃ) [oceans](samudrān)+[and](ca) [with](sa)+[vehicles](vāhanām)
 
 ## mukta-m0-p47-v1169
-[obeisance](namaḥ)
+[salutation](namaḥ)
 
 ## mukta-m0-p47-v1170
-[with-safflower+flowers](kusumbha+kusumaiḥ) [or](vā) [also](api) [with-sweet+triad+mixed](madhura+traya+miśritaiḥ)
+[with-safflower](kusumbha)+[flowers](kusumaiḥ)+[or](vā)+[also](api) [sweet](madhura)+[triad](traya)+[mixed](miśritaiḥ)
 
 ## mukta-m0-p47-v1171
-[at-own+own-seed+end](sva+sva+bīja+ante) [at-that+that-element+seed+end](tat+tat+bhūta+bīja+ante)
+[own](sva)+[own](sva)+[seed](bīja)+[at-the-end](ante) [that](tat)+[that](tat)+[element](bhūta)+[seed](bīja)+[at-the-end](ante)
 
 ## mukta-m0-p47-v1172
-[remaining](śeṣa) [by-general+worship+manual+stated+sequence](sāmānya+pūjā+paddhati+ukta+krameṇa) [one-should-do](kuryāt)
+[remaining](śeṣa) [general](sāmānya)+[worship](pūjā)+[procedure](paddhati)+[stated](ukta)+[in-the-manner](krameṇa) [one-should-do](kuryāt)
 
 ## mukta-m0-p47-v1173
 [one-should-do](kuryāt)
 
 ## mukta-m0-p47-v1174
-[cow+gesture](dhenu+mudrāṃ) [womb+gesture](yoni+mudrāṃ) [then](tataḥ) [there](tatra) [one-should-display](pradarśayet)
+[cow](dhenu)+[gesture](mudrāṃ) [womb](yoni)+[gesture](mudrāṃ) [then](tataḥ)+[there](tatra) [one-should-display](pradarśayet)
 
 ## mukta-m0-p47-v1175
-[seven+times](sapta+kṛtvaḥ) [one-should-recite](japet) [mantra](vidyām) [one-should-sprinkle](abhiṣiñcet) [own](svakāṃ) [body](tanūm)
+[seven](sapta)+[times](kṛtvo) [one-should-recite](japet)+[the-mantra](vidyām) [one-should-sprinkle](abhiṣiñcet) [own](sva)+[own](kāṃ) [body](tanūm)
